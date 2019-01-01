@@ -1,1 +1,3 @@
-25. §
+25. § A Tao. törvény 22. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az adózó a (2) bekezdés szerinti, részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő adóévek adójából, de utoljára a támogatás (juttatás) naptári évét követő nyolcadik naptári évben lezáruló adóév adójából adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor. Az adókedvezmény igénybevételének feltétele, hogy az adózó a (8) bekezdés szerint arra jogosult szervezet részére a (6) bekezdésben meghatározott kiegészítő támogatást a támogatás juttatásának adóévében megfizeti.”

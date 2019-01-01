@@ -1,1 +1,3 @@
-112. §
+112. § Az Art. 24. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózót a (2) bekezdés szerint felszólította, a felszólítás adózó részére történő kézbesítésétől számított tizenöt napos jogvesztő határidőn belül a 20. § (1) bekezdése szerinti kimentési kérelmet terjeszthet elő. A kérelem elbírálására a 20. § (2)–(6) bekezdésében foglalt rendelkezéseket kell alkalmazni, azzal, hogy ha az állami adó- és vámhatóság az adózó kérelmének helyt ad, az adószám (2) bekezdés szerinti törlését mellőzi.”

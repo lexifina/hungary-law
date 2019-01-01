@@ -36,6 +36,18 @@ o) a pártfogó felügyelői szolgálat által a közvetítői eljárásban meg�
 
 p) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az elektronikus adat megőrzésére kötelezésről szóló határozat esetén a behajtást kérő megkeresése,”
 
-(2)
+(2) Az Avt. 29. § (1) bekezdése a következő q)–u) ponttal egészül ki:
+
+(A végrehajtási eljárásban végrehajtható okirat:)
+
+„q) az Európai Unió és az Egyesült Nemzetek Szervezete Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés esetén a behajtást kérő megkeresése,
+
+r) a polgári ügyben az állam által előlegezett költséget tartalmazó megkeresés,
+
+s) a bíróság által előlegezett gyermektartásdíjat tartalmazó megkeresés,
+
+t) a bíróságot, az Országos Bírósági Hivatal elnökét, az Országos Bírósági Hivatalt, a minisztériumot, az igazságügyi szakértői intézményt vagy az államot egyéb jogcímen megillető követelést tartalmazó megkeresés,
+
+u) a büntetés-végrehajtási szervezetet a fogvatartottal – illetve a volt fogvatartottal – szemben megillető követelést tartalmazó megkeresés,”
 
 (3)

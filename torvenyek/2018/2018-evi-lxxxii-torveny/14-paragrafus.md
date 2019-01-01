@@ -1,3 +1,5 @@
 ## 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-14. §
+14. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az adókötelezettséget, az adót befolyásoló, annak csökkenését eredményező szabály, adóelőny (adómentesség, adókedvezmény) annyiban alkalmazható, érvényesíthető, amennyiben az annak alapjául szolgáló jogügylet (jogügyletek sorozata) megvalósítja a szabály, az adóelőny célját és tartalmát tekintve valós gazdasági, kereskedelmi okok alapozzák meg. Az alkalmazhatóságot, az érvényesíthetőséget annak kell bizonyítania, akinek az érdekében áll. Ha a jogügylet (jogügyletek sorozata) alapján az állapítható meg, hogy annak fő célja vagy egyik fő célja olyan adóelőny az egyik fél vagy a felek számára, amely ellentétes az alkalmazandó adójogszabály tárgyával vagy céljával, akkor a jogügylet (jogügyletek sorozata) alapján elszámolt költség, ráfordítás nem minősül a vállalkozás érdekében felmerült költségnek, ráfordításnak, illetve adóelőny nem érvényesíthető.”

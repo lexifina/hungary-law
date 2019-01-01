@@ -1,1 +1,3 @@
-5. §
+5. § Az Szja tv. 29/B. § (1b) bekezdése helyébe a következő rendelkezés lép:
+
+„(1b) Ha az adott jogosultsági hónap után járó családi kedvezményre egy magánszemély jogosult, az őt megillető családi kedvezményt adóbevallásban megoszthatja a vele közös háztartásban élő, jogosultnak nem minősülő házastársával, élettársával, ideértve azt az esetet is, ha a családi kedvezményt a jogosult egyáltalán nem tudja érvényesíteni. Azon jogosultsági hónapokra eső családi kedvezményre, amelyre vonatkozóan a jogosult vagy házastársa, élettársa a gyermeket nevelő egyedülálló családi pótlékát igénybe veszi, a megosztás nem alkalmazható, ide nem értve, ha a jogosult a családok támogatásáról szóló 1998. évi LXXXIV. törvény 12. § (3) bekezdése alapján minősül egyedülállónak.”

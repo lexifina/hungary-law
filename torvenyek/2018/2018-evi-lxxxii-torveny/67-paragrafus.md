@@ -1,1 +1,3 @@
-67. §
+67. § A Jöt. 18. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az adókockázatra jutó pénzügyi biztosítéknak adófelfüggesztési eljárás keretében végzett szállítás esetén a jövedéki termék kiszállítását követő 4 hónapig, az adóra vonatkozó részletfizetés vagy fizetési halasztás engedélyezése esetén a fizetési könnyítés határidejének leteltét követő 60 napig, az adófizetési kötelezettség keletkezésének más esetében az adófizetési kötelezettség keletkezését követő 60 napig kell érvényesíthetőnek lennie, az adókockázatra jutó készpénzben nyújtott jövedéki biztosíték pedig ugyanezen határidők leteltéig nem fizethető vissza a biztosítékot nyújtónak.”

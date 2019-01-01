@@ -1,1 +1,3 @@
-167. §
+167. § Az Avt. 19. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A bevallás, adatbejelentés, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése a bevallás, adatbejelentés, a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés benyújtásának időpontjával megszakad, és az elévülés a bevallás, adatbejelentés, a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés benyújtását követő napon újból megkezdődik.”

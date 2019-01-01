@@ -1,6 +1,6 @@
 65. § Hatályát veszti az Áfa tv.
 
-1.
+1. 165/A. §-a;
 
 2.
 
