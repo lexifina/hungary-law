@@ -1,6 +1,3 @@
-## 8. §[^5]
+## 8. § Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény II. melléklete módosításának kihirdetéséről szóló 34/2016. (II. 26.) Korm. rendelet.
 
-9. §[^6]
-
-[^5]: A 8. § a 6. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^6]: A 9. § a 6. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+9. § Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény I. melléklete módosításának kihirdetéséről szóló 400/2017. (XII. 15.) Korm. rendelet.

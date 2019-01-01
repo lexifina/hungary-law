@@ -1,3 +1,3 @@
-## 3. §[^2]
+## 3. § Az Egyezmény I. melléklete módosításának hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
-[^2]: A 3. § a 6. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## 20182220000245_1

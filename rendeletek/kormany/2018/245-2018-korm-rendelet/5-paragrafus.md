@@ -1,3 +1,1 @@
-## 4. §[^3]
-
-[^3]: A 4. § a 6. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## 4. § A Kormány az Egyezmény II. melléklete módosítását e rendelettel kihirdeti.
