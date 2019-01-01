@@ -4,11 +4,10 @@
 
 a)[^8]
 
-b)[^9]
+b) 7. § (2) bekezdés e) pontjában az „esélyteremtés, nyitottság a különböző társadalmi-kulturális sokféleségre,” szövegrész helyébe az „esélyteremtés, nyitottság a különböző társadalmi-kulturális sokféleségre és a fenntarthatóság szempontjaira,” szöveg,
 
-c)[^10]
+c)[^9]
 
 [^7]: A 21–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^8]: A 25. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 25. § b) pontja a 27. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^10]: A 25. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 25. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

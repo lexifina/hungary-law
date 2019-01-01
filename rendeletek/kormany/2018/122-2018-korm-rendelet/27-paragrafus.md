@@ -1,4 +1,4 @@
-## 26. §[^11]
+## 26. §[^10]
 
 ## 8. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 20. § és a 25. § b) pontja 2019. január 1-jén lép hatályba.
 
-[^11]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

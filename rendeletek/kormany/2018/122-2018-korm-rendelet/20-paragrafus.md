@@ -1,4 +1,4 @@
-## 15–19. §[^5]
+## 15–19. §[^6]
 
 ## 6. A pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló
 
@@ -6,4 +6,4 @@
 
 ## 326/2013. (VIII. 30.) Korm. rendelet módosítása
 
-[^5]: A 15–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 15–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
