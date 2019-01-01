@@ -14,6 +14,6 @@ folyhat.
 
 (2b) Az OKJ-ban az Egészségügy és az Egészségügyi technika ágazatba sorolt szakképesítésben és az ezeket megalapozó ágazati képzésben államilag támogatott, és egyéb iskolai rendszerű szakképzés, és vizsgáztatás kizárólag az egészségügyért felelős miniszter szakmai irányításával, egyetértésével, és hozzájárulásával folyhat. Az Egészségügy és az Egészségügyi technika ágazatban a szakképzések szakmai és módszertani fejlesztéséért az egészségügyért felelős miniszter felel.
 
-(3) Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a szakképesítésért felelős miniszter hozzájárulásával folytathat államilag támogatott iskolai rendszerű szakképzést, ha a 2014/2015. tanévben az OKJ-ban az agrárágazatba sorolt szakképzést indított.
+(3) Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a szakképesítésért felelős miniszter hozzájárulásával folytathat államilag támogatott iskolai rendszerű szakképzést.
 
 (4) Ha a (2) bekezdésben meghatározott miniszter feladatkörébe tartozó szakképzés tekintetében a szakmai feladatok végrehajtása körében a magyar állam kizárólagos tulajdonában álló gazdasági társaság működik közre, e gazdasági társaság vezető tisztségviselője jogosult a szakképesítések vizsgafeladataival kapcsolatos, a kezelésében lévő adatok minősítésére a minősített adat védelméről szóló törvényben meghatározottak szerint.

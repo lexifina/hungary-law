@@ -28,7 +28,7 @@ b) a szakképesítés megszerzéséhez szükséges képzés képzés-szervezési
 
 c) a szakképesítések szakmacsoportját és szakgimnáziumi ágazat szerinti besorolását,
 
-d) annak a megjelölését, hogy a szakképesítés az esti, a levelező, a távoktatás vagy egyéb sajátos munkarend szerinti képzésben oktatható,
+d) annak a megjelölését, hogy a szakképesítés a nappali, az esti, a levelező, a távoktatás, a zárt rendszerű elektronikus távoktatás, vagy egyéb sajátos munkarend szerinti képzésben oktatható,
 
 e) a szakképesítésért felelős miniszter megnevezését.
 
