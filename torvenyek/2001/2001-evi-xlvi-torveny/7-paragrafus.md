@@ -8,4 +8,4 @@
 
 (4) Evakuálásra csak az érintett vagy törvényes képviselője egyetértésével kerülhet sor. Amennyiben a törvényes képviselő nyilatkozatának beszerzésével járó késedelem a magyar állampolgár életét, testi épségét veszélyezteti, a konzuli szolgálat az érintett magyar állampolgár nyilatkozatát is figyelembe véve, az eset összes körülményének mérlegelésével hoz döntést az evakuálásról.
 
-(5)
+(5) A 4. § (3) és (4) bekezdése alapján az I. biztonsági kategóriába sorolt – utazásra nem javasolt – országokba (térségekbe), a figyelmeztetés ideje alatt beutazó, a figyelmeztetés ellenére ott tovább tartózkodó és onnan a konzuli szolgálat közreműködésével kimentett magyar állampolgárnak az evakuálás személyenként számított költségeit meg kell térítenie, ide nem értve azt az esetet, amikor a magyar állampolgár foglalkoztatási jogviszony keretében – a munkáltató utasítási joga alapján –, vagy humanitárius célból utazik az utazásra nem javasolt országokba (térségekbe), illetve tartózkodik ott tovább, amely esetekben az evakuálás költségeit a munkáltatónak, illetve az érintettet humanitárius célból a térségbe kiküldő személynek vagy szervezetnek kell megtérítenie.

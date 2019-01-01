@@ -20,6 +20,8 @@ i) a körözési nyilvántartásból,
 
 j) az egészségbiztosító és a nyugdíjbiztosító nyilvántartásából,
 
-k) a gondnokoltak nyilvántartásából.
+k) a gondnokoltak nyilvántartásából,
+
+l) a menekültügyi nyilvántartásból.
 
 (2) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat a védelem ellátásához szükséges adatokat az Európai Unió tagállama konzuli szolgálatán keresztül igényelheti.

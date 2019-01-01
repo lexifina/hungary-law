@@ -19,3 +19,5 @@ c) közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi 
 (5) A miniszter különös méltánylást érdemlő esetekben kérelemre a hazatérési kölcsön visszafizetése alól részben vagy egészben mentesítést adhat. A miniszter határozata a közigazgatási ügyekben eljáró bíróság előtt kizárólag semmisségére hivatkozva támadható meg.
 
 (6) A hazatérési kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a miniszter által vezetett minisztérium költségvetési fejezetében kell megállapítani.
+
+(7) A konzuli tisztviselő az eset összes körülményeit mérlegelve – indokolt esetben – legfeljebb 20 EUR összeghatárig vissza nem térítendő anyagi támogatást adhat a bajbajutott részére olyan, a hazautazással közvetlenül összefüggő kiadások fedezésére, amelyekre a hazatérési kölcsön nem nyújtható.
