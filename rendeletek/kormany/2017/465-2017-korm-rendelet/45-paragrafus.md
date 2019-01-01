@@ -4,9 +4,9 @@
 
 ## 22. Általános rendelkezések
 
-## 45. § E fejezet alkalmazásában
+45. § E fejezet alkalmazásában
 
-1. bankkártyával bonyolított fizetési művelet: az állami adó- és vámhatóságnál teljesítendő fizetési kötelezettségek egy összegben történő megfizetésére az Elektronikus Fizetési és Elszámolási Rendszerhez (a továbbiakban: EFER) csatlakozott pénzforgalmi szolgáltató által biztosított, az állami adó- és vámhatóság által rendelkezésre bocsátott POS terminálon keresztül bankkártyával vagy internetes felületen bankkártyával (VPOS) bonyolított fizetési művelet,
+1.[^25] bankkártyával bonyolított fizetési művelet: az állami adó- és vámhatóságnál teljesítendő fizetési kötelezettségek egy összegben történő megfizetésére az EFER-hez csatlakozott pénzforgalmi szolgáltató által biztosított, az állami adó- és vámhatóság által rendelkezésre bocsátott POS terminálon keresztül bankkártyával vagy internetes felületen bankkártyával (VPOS) bonyolított fizetési művelet,
 
 2. Elektronikus Fizetési és Elszámolási Rendszer: az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet (a továbbiakban: E-ügyintézés Korm. rend.) szerinti, az állam által nyújtott központi elektronikus ügyintézési szolgáltatás,
 
@@ -29,3 +29,5 @@ a) az Air. szerinti adózó,
 b) a jövedéki adóról szóló 2016. évi LXVIII. törvény szerinti bejelentési, változás-bejelentési, adatszolgáltatási kötelezettséget teljesítő, a zárjegy és adójegy megrendelő, valamint
 
 c) e rendelet alkalmazásában az adószámla megtekintése, az adószámlával kapcsolatos elszámolás, és a képviselet bejelentésére vonatkozó szabályokkal kapcsolatosan az a természetes vagy jogi személy, egyéb szervezet, akinek (amelynek) jogát vagy jogos érdekét az ügy közvetlenül érinti, akire (amelyre) nézve a hatósági nyilvántartás adatot tartalmaz, vagy akit (amelyet) hatósági ellenőrzés alá vontak.
+
+[^25]: A 45. § 1. pontja a 311/2018. (XII. 27.) Korm. rendelet 36. § 6. pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## 53. § A bejelentési (változás-bejelentési), bevallási, adatszolgáltatási, kötelezettség teljesítésének időpontja – az 52. §-ban foglaltak kivételével – az időbélyegzőben szereplő időpont.
-
 ## 23. A távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó különös szabályok
 
 54. § (1) E fejezet rendelkezéseit

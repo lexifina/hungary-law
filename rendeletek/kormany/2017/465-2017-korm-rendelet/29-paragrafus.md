@@ -1,4 +1,4 @@
-## 29. § E fejezet alkalmazásában
+29. § E fejezet alkalmazásában
 
 1. átutalás: a fizető fél rendelkezése alapján végzett olyan pénzforgalmi szolgáltatás, amelynek során a fizető fél fizetési számláját a kedvezményezett javára megterhelik;
 

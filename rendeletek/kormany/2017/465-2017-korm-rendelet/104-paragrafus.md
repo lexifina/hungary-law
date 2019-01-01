@@ -1,0 +1,1 @@
+104. § Az adópolitikáért felelős miniszter a kérelmekről külön nyilvántartást vezet, amely tartalmazza az adózó nevét, cégnevét, állandó lakóhelyét vagy székhelyét, valamint a kérelem érkezésének időpontját, iktatószámát.

@@ -1,4 +1,4 @@
-## 46. § E fejezet hatálya kiterjed
+46. § E fejezet hatálya kiterjed
 
 a) az elektronikus azonosítási szolgáltatáson keresztül
 

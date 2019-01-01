@@ -16,7 +16,7 @@ ca) ha az ügyben a megkereső hatóság illetékességi területén kívül kel
 
 cb) egyéb esetben nyolc napon belül
 
-## teljesíti;
+teljesíti;
 
 d) az adóhatóság vezetője a megkeresés teljesítésére vonatkozó határidőt tizenöt nappal hosszabbíthatja meg;
 

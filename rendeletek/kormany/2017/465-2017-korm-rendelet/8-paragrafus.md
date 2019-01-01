@@ -1,0 +1,1 @@
+8. § Ugyanazon képviselt adózóra vonatkozóan a képviselő egyidejűleg csak egy képviseleti jogcímet jelenthet be. Ha a képviselő egyidejűleg több jogcímen is képviselheti az adózót, akkor a bejelentés során olyan jogcímet köteles választani, mely az általa bejelentett valamennyi adóügy intézésére jogosít.

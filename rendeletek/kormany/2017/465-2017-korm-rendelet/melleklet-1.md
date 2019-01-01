@@ -1,8 +1,6 @@
-## 128. §[^1]
-
 1. melléklet a 465/2017. (XII. 28.) Korm. rendelethez
 
-## A feltételes adómegállapítás iránti kérelem
+A feltételes adómegállapítás iránti kérelem
 
 ## A kérelem tartalmazza:
 
@@ -71,5 +69,3 @@
 16.5. hozzájárul a kérelem elbírálásához szükséges, adózásával összefüggő más adatok beszerzéséhez, megismeréséhez;
 
 17. az adózó képviselője cégszerű aláírását.
-
-[^1]: A 128. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

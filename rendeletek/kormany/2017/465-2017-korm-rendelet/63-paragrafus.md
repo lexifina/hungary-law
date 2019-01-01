@@ -1,5 +1,3 @@
-## 62. § Az állami adó- és vámhatóság az egy összegben történő befizetés teljesítése érdekében olyan rendszert működtet, amely alkalmas a felosztási rendelkezés, illetve felosztási nyilatkozat figyelembevételével teljesített, egy összegben történő befizetésnek az adózó adószámláján adónemenként (köztehernemenként) történő kimutatására.
-
 63. § (1) Ha az adózó az EFER igénybevételével történő házibankos befizetést választja, az állami adó- és vámhatóság megküldi a felosztási rendelkezés befogadásáról szóló igazolást az adózó elektronikus tárhelyére.
 
 (2) Az állami adó- és vámhatóság a fizetés kezdeményezésekor az EFER részére megadja:

@@ -1,0 +1,1 @@
+51. § Az állami adó- és vámhatóság az elektronikus úton folytatott fizetési kedvezményi eljárásban a felhívásait, értesítéseit, határozatát, végzését és egyéb iratait elektronikus úton közli a kérelmezővel, illetve a belföldi végrehajtást kérő megkeresővel.

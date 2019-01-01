@@ -1,5 +1,3 @@
-## 92. § A jogkövetési vizsgálat akkor is megkezdhető, ha az adózó alkalmazottja, próbavásárlás, fel nem fedett próbavásárlás esetén az értékesítésben közreműködő személy, elektronikus kereskedelmi szolgáltatást nyújtó vagy egyéb, megrendelésen alapuló termékértékesítést folytató adózónál végzett próbavásárlás esetén a megrendelt termék kiszállításában közreműködő személy van jelen.
-
 ## 43. A próbavásárlásra vonatkozó különös szabályok
 
 93. § (1) Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni, és ezzel egyidejűleg az eladó az áru visszavétele mellett a vételárat köteles visszatéríteni.

@@ -4,7 +4,7 @@
 
 ## 14. Általános rendelkezések
 
-## 28. § E fejezet hatálya kiterjed
+28. § E fejezet hatálya kiterjed
 
 a) az adófizetési biztosíték megállapításával, teljesítésével, visszafizetésével, illetve felszabadításával kapcsolatos szabályokra;
 

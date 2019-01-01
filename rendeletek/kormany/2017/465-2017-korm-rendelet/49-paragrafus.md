@@ -1,1 +1,1 @@
-## 48. § Az adók módjára behajtandó köztartozás behajtása iránti kérelem esetén a megkereső szervnek az első megkeresést megelőző nyolcadik napig regisztrációs kérelmet kell benyújtania az állami adó- és vámhatósághoz. A megkereső szerv a regisztrációs kérelem elfogadását követően egyedi regisztrációs számot kap.
+49. § A belföldi végrehajtási megkeresésben kimutatott tartozást érintő fizetési kedvezményi eljárásban a megkereső szerv is elektronikus kapcsolattartásra kötelezett.

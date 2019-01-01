@@ -1,5 +1,3 @@
-## 15. § Az állandó meghatalmazott, megbízott, illetve az adózó vagy törvényes képviselője a bejelentett képviseleti jogosultság megszűnését – az első bejelentésre irányadó szabályok szerint – haladéktalanul köteles bejelenteni az állami adó- és vámhatósághoz. Az állami adó- és vámhatóság a nyilvántartásból való törlésről az adózót, illetve az állandó meghatalmazottat, megbízottat értesíti.
-
 ## 3. A változásbejelentésre vonatkozó részletszabályok
 
 16. § (1) Az adókötelezettséget érintő változás különösen
@@ -32,4 +30,6 @@ b) a kapcsolt vállalkozásnak minősülő másik személy nevét (elnevezését
 
 (8) Az egyéni vállalkozó adózó az egyéni vállalkozók nyilvántartásában nem szereplő, az Art. 1. melléklete szerinti adatainak változását az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság útján is bejelentheti az állami adó- és vámhatósághoz.
 
-(9) A helyi önkormányzat foglalkoztató adózó esetében az állami adó- és vámhatóság a Kincstár által átadott adatok alapján veszi nyilvántartásba az állandó meghatalmazottként eljáró képviselő adatait és a képviseleti jogosultsága terjedelmét. E bekezdés alkalmazásában a képviseleti adatok és jogosultságok nyilvántartásba vételéhez szükséges adatokat a Kincstár – az állami adóhatósággal egyeztetett módon és időpontban – elektronikus formában átadja az állami adóhatóság részére. Az adatátadás tartalmazza a képviselőként eljáró állandó meghatalmazott hozzájárulása alapján a nevét, adóazonosító jelét, képviseleti jogosultsága kezdő időpontját, terjedelmét, az általa képviselt adózó elnevezését, adószámát, valamint a kapcsolattartáshoz szükséges adatokat.
+(9)[^13] A helyi önkormányzat és intézménye, valamint a nemzetiségi önkormányzat és intézménye foglalkoztató adózó esetében az állami adó- és vámhatóság a Kincstár által átadott adatok alapján veszi nyilvántartásba az eljáró képviselő adatait és a képviseleti jogosultsága terjedelmét. E bekezdés alkalmazásában a képviseleti adatok és jogosultságok nyilvántartásba vételéhez szükséges adatokat a Kincstár – az állami adóhatósággal egyeztetett módon és időpontban – elektronikus formában átadja az állami adóhatóság részére. Az adatátadás tartalmazza a képviselőként eljáró személy nevét, adóazonosító jelét, képviseleti jogosultsága kezdő időpontját, terjedelmét, az általa képviselt adózó elnevezését, adószámát, valamint a kapcsolattartáshoz szükséges adatokat. A képviseleti jogosultság a Kincstár általi illetmény-számfejtési feladatellátáshoz kapcsolódó valamennyi adóhatósági adatszolgáltatásra, tájékoztatásra, visszaigazolásra kiterjed.
+
+[^13]: A 16. § (9) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 26. §-ával megállapított szöveg.

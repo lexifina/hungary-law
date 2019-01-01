@@ -1,5 +1,3 @@
-## 68. § Az állami adó- és vámhatóság a bevallási és adatszolgáltatási rendszerrel kapcsolatos eseményeket, valamint az esemény bekövetkezésének időpontját elektronikus napló formájában tárolja, és azt az adó megállapításához való jog elévüléséig megőrzi. Az informatikai rendszer biztosítja, hogy az adó megállapításához való jog elévüléséig az arra jogosult személy számára az adatok hozzáférhetőek és értelmezhetőek legyenek.
-
 ## 26. Tájékoztatás
 
 69. § (1) Az állami adó- és vámhatóság a bevallási és adatszolgáltatási rendszer alkalmazásához szükséges informatikai követelményeket, valamint tájékoztatásokat a honlapján közzéteszi.

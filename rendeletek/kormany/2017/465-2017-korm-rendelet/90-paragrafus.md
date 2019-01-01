@@ -18,6 +18,6 @@ g) termék előállítását, raktározását, szállítását, felhasználásá
 
 h) az adózó által a könyvei, nyilvántartásai vezetéséhez, valamint a bizonylatok feldolgozásához alkalmazott szoftvereket, informatikai rendszereket, számításokat
 
-## vizsgálhatja.
+vizsgálhatja.
 
 (3) Ha az adatgyűjtés eredményeként feltárt tények, adatok, körülmények kétségessé teszik vagy cáfolják az adózó irataiban, nyilvántartásában szereplő adatok valóságtartalmát, illetve az adóhatóság a bevallási időszakon belül ismételten tárja fel a nyugtakibocsátási kötelezettségének elmulasztását, igazolatlan eredetű áru, alapanyag, félkész termék felhasználását vagy forgalmazását, továbbá be nem jelentett alkalmazott foglalkoztatását, az adóhatóság a bevallási időszakot lezáró adóbevallást vonja ellenőrzés alá.

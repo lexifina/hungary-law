@@ -1,1 +1,5 @@
-## 50. A feltételes adómegállapítás iránti kérelem benyújtása előtti előzetes konzultáció
+## 50.[^42]
+
+109. §
+
+[^42]: Az 50. alcímet (109. §-t) a 311/2018. (XII. 27.) Korm. rendelet 37. § j) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 80. § Az adóhatóság az ellenőrzés során
+80. § Az adóhatóság az ellenőrzés során
 
 a) üzleti, üzemi vagy az egyéb adóköteles tevékenység, vagyontárgy vagy jövedelem ellenőrzéséhez szükséges helyiségekbe, helyszínre beléphet,
 

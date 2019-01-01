@@ -10,4 +10,6 @@
 
 (6) A jogkövetési vizsgálat során feltárt adatokat az adóhatóság jogosult az adózóval közvetlen vagy közvetett szerződéses kapcsolatban állt vagy álló más adózó, illetve adózónak nem minősülő természetes személy ellenőrzésénél a tényállás tisztázása céljából felhasználni.
 
-(7) A jogkövetési vizsgálat megállapításai alapján az adóhatóság megfelelő határidő tűzésével elrendelheti, hogy az adózó iratait, nyilvántartásait, adatbejelentéseit, bevallásait a jogszabályokban foglalt előírásoknak megfelelően rendezze, pótolja, önellenőrizze. Ha az adózó ennek határidőn belül nem tesz eleget, az adóhatóság mulasztási bírsággal sújtja.
+(7)[^37]
+
+[^37]: A 91. § (7) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § i) pontja hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## 40. § Az adófizetési biztosíték nyújtására kötelezett adózók számára az állami adó- és vámhatóság az elektronikus azonosítási szolgáltatáson és a tárhelyen keresztül, elektronikus úton elérhető felületet biztosít, ahol az adózók, az adózó törvényes képviselője vagy állandó meghatalmazottja az adófizetési biztosíték nyilvántartásával, elszámolásával kapcsolatos adatokat folyamatosan nyomon követheti.
-
 ## 20. Az adófizetési biztosíték elszámolása, kiegészítése
 
 41. § (1) Az állami adó- és vámhatóság minden hónap tizedik napjáig felülvizsgálja, hogy az adófizetési biztosítékot nyújtó adózó rendelkezik-e az állami adó- és vámhatóságnál nyilvántartott, nettó módon számított adótartozással. Tartozás fennállása esetén az adófizetési biztosíték összegét az állami adó- és vámhatóság a tartozásra elszámolhatja. Ha a rendelkezésre álló adófizetési biztosíték összege az adózót terhelő tartozások mindegyikére nem nyújt fedezetet, az adófizetési biztosíték összegét az adók esedékességének sorrendjében, azonos esedékességű közteher esetén a tartozás arányában kell elszámolni.

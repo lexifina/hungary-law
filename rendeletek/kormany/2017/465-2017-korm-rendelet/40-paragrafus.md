@@ -1,3 +1,3 @@
-## 39. § Az adófizetési biztosíték rendelkezésre tartásának tizenkét hónapos időtartama az Art. 26. § (9) bekezdése alapján az adófizetési biztosíték hiánytalan teljesítésének napját követő napon kezdődik.
-
 ## 19. Az adófizetési biztosíték lekérdezhetősége
+
+40. § Az adófizetési biztosíték nyújtására kötelezett adózók számára az állami adó- és vámhatóság az elektronikus azonosítási szolgáltatáson és a tárhelyen keresztül, elektronikus úton elérhető felületet biztosít, ahol az adózók, az adózó törvényes képviselője vagy állandó meghatalmazottja az adófizetési biztosíték nyilvántartásával, elszámolásával kapcsolatos adatokat folyamatosan nyomon követheti.

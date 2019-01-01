@@ -1,4 +1,4 @@
-## 103. § A kérelemhez csatolni kell
+103. § A kérelemhez csatolni kell
 
 a) az adózó nyilatkozatát arról, hogy a kérelemmel azonos tényállást tartalmazó ügyében nincs és korábban sem volt folyamatban tudomása szerint ellenőrzés, hatósági eljárás vagy bírósági eljárás,
 

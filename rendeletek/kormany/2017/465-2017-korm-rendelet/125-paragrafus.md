@@ -1,1 +1,1 @@
-## 124. § Ez a rendelet 2018. január 1-jén lép hatályba.
+125. § E rendelet rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.

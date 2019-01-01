@@ -1,17 +1,15 @@
-## 6. § Az állami adó- és vámhatóság előtt az elektronikus ügyintézésre nem kötelezett természetes személy adózó állandó meghatalmazottja, megbízottja – ha adóügyeit elektronikusan kívánja teljesíteni – képviseleti jogosultságát saját kezű aláírásával ellátott, az állami adó- és vámhatóság által erre a célra rendszeresített nyomtatványon papír alapon is bejelentheti az állami adó- és vámhatósághoz. Az állandó meghatalmazott, megbízott a bejelentéshez csatolni köteles az eredeti állandó meghatalmazást, megbízást.
+7. §[^5] Az adózó az állandó meghatalmazás megtétele, továbbá az állandó meghatalmazott a képviseleti jogosultságának bejelentése során – az adózó, a meghatalmazott és az esetleges együttes jóváhagyó adóhatóság előtti azonosításához szükséges adatokon túlmenően – nyilatkozik arról, hogy
 
-## 7. § Az állandó meghatalmazott, megbízott a képviseleti jogosultságának bejelentése során nyilatkozni köteles arról, hogy
+a) jogi személy és egyéb szervezet adózó meghatalmazó esetén az állandó meghatalmazott képviseleti jogosultsága az adóigazgatási eljárásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) mely jogcímén alapul,
 
-a) a képviseleti jogosultsága a bejelentéskor érvényes teljes bizonyító erejű magánokiraton vagy közokiraton alapul,
+b) az Air. 17. § (1) bekezdés g) pontja szerinti esetben ténylegesen az adózó nevében eljáró természetes személy meghatalmazott mely számviteli, könyvviteli szolgáltatásra vagy adótanácsadásra jogosult gazdasági társaság, illetve egyéb szervezet törvényes vagy szervezeti képviselőjeként, alkalmazottjaként, tagjaként jár el, megjelölve annak adószámát,
 
-b) természetes személyként a természetes személy adózó meghatalmazó, megbízó nevében az állami adó- és vámhatóság előtti képviselet ellátására személye alkalmas,
+c) a képviseleti jogosultság határozott vagy határozatlan időre szól, határozott időtartam esetén az időtartam megjelölésével,
 
-c) a képviseleti jogosultsága az adóigazgatási eljárásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) 17. §-ának mely jogcímén alapul,
+d) a képviseleti jogosultság mely adóügyek intézésére terjed ki,
 
-d) a ténylegesen az adózó nevében eljáró képviselő mely, képviseletre jogosult jogi személy vagy egyéb szervezet, illetve ügyvédi iroda alkalmazottjaként, tagjaként jár el,
+e) amennyiben képviseleti jogosultsága nem önálló, akkor az általa bejelentett ügycsoportok tekintetében – ahol az értelmezhető – mely természetes személy jóváhagyása szükséges (a továbbiakban: együttes jóváhagyó), illetve
 
-e) a képviseleti jogosultság – az időtartam megjelölésével – határozott vagy határozatlan időre szól,
+f) azonos ügycsoportban több ügyintézésre jogosult képviselő közül melyik tekintendő az iratok átvételére kijelölt képviselőnek.
 
-f) a képviseleti jogosultság mely adóügyek intézésére terjed ki, illetve
-
-g) a képviseleti jogosultság az elektronikusan intézhető adóügyek tekintetében önálló vagy együttes.
+[^5]: A 7. § a 311/2018. (XII. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.

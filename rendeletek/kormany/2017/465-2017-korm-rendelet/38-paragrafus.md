@@ -1,5 +1,3 @@
-## 37. § Az adófizetési biztosíték nyújtására vonatkozó kötelezettség akkor minősül teljesítettnek, amikor az előírt adófizetési biztosíték összegét az Art. 26. § (5) bekezdésében előírtaknak megfelelően az ott megjelölt határidő leteltéig az elkülönített letéti számlán jóváírták, vagy ha az adófizetési biztosíték összege garancia útján kerül biztosításra, amikor a garanciát az állami adó- és vámhatóság nyilvántartásba vette, de legkorábban a garancia érvényességének kezdetétől.
-
 ## 17. A garancia formájában nyújtott adófizetési biztosíték
 
 38. § (1) Az állami adó- és vámhatóság csak olyan garanciát fogad el, amelynél a garantőr a garanciáról szóló okirat kiállításának időpontjában

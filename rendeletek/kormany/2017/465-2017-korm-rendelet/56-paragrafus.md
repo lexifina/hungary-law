@@ -6,7 +6,7 @@ a) az 54. § (1) bekezdés b) pontja szerinti eljárások esetében a személyes
 
 b) az 54. § (1) bekezdés a) pontjában meghatározott eljárások esetében az 55. § (2) bekezdése szerinti
 
-## online felületen keresztül teljesíti az Art. XIII. fejezete szerinti bejelentkezési, változás-bejelentési és bevallási kötelezettségét.
+online felületen keresztül teljesíti az Art. XIII. fejezete szerinti bejelentkezési, változás-bejelentési és bevallási kötelezettségét.
 
 (3) Az állami adó- és vámhatóság az online felületen megadható adatokat (a továbbiakban: online adatlap), valamint az eljáráshoz kapcsolódó egyéb adatot (azonosító szám) informatikai rendszerében tárolja. Az adózó és képviselője az állami adó- és vámhatóság informatikai rendszerében tárolt adatokat ellenőrizheti.
 

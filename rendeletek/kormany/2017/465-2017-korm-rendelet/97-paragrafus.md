@@ -1,6 +1,4 @@
-## 96. § Az adóteljesítmény értékét az adóteljesítmény-elemek egy évre vetített – a tevékenység kezdetének figyelembevételével időarányosan megállapított – számtani átlagának összegeként kell kiszámítani. Az adóteljesítmény elemek számítása során kizárólag az állami adó- és vámhatósághoz benyújtott bevallások adatai, illetve az állami adó- és vámhatóság nyilvántartásában szereplő adatok vehetők figyelembe.
-
-## 97. § Adóteljesítmény-elemek:
+97. § Adóteljesítmény-elemek:
 
 a) az adóévet megelőző hatodik év január 1-jétől az adóévet megelőző év június 30-áig terjedő időszakra benyújtott általános forgalmi adó bevallásokban szereplő értékesítést terhelő adó (a fizetendő adó csökkentve a közösségen belülről történő termékbeszerzés és a termékimport címén fizetendő adóval) és a beszerzés után levonható adó értéke közül a bevallásokban szereplő nagyobb értékek;
 
