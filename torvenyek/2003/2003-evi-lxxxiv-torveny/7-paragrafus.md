@@ -12,7 +12,7 @@ b) egyéni egészségügyi vállalkozóként,
 
 c) társas vállalkozás tagjaként,
 
-d) közalkalmazotti jogviszonyban,
+d) közalkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
 
 e) munkaviszonyban,
 

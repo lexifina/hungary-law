@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-84-00-00
 | 2016-12-20 | 2016. évi CLXXII. törvény | 2003-84-00-00.34 |
 | 2017-01-01 | 2016. évi XXXIV. törvény | 2003-84-00-00.35 |
 | 2017-06-09 | 2017. évi LIX. törvény | 2003-84-00-00.36 |
+| 2019-01-01 | 2018. évi CXIV. törvény | 2003-84-00-00.37 |
