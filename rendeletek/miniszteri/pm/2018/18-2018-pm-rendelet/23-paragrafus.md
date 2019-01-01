@@ -1,3 +1,1 @@
-## 22. §[^21]
-
-[^21]: A 22. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## 22. § Az R3. 2. §-ában az „az 1. mellékletben foglaltak szerint.” szövegrész helyébe az „a Nemzeti Adó- és Vámhivatal honlapján található formanyomtatvány felhasználásával.” szöveg lép.

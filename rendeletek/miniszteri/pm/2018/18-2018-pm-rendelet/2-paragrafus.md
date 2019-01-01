@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „t) polgári ruhás állomány: azok a NAV nyomozóhatósági feladatait ellátó központi és területi szerv állományába tartozó pénzügyőrök, akik a mindennapi szolgálatteljesítést polgári ruházatban látják el.”

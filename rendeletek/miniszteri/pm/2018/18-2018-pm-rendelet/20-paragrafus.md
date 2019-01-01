@@ -1,3 +1,1 @@
-## 19. §[^18]
-
-[^18]: A 19. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(3) Az INF 4 adatlap kiadására irányuló kérelem elektronikus benyújtása esetén a kérelem tartalmazza a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i 2015/2446/EU bizottsági rendelet (a továbbiakban: FJA) 22-02. számú mellékletében meghatározott adatokat.”

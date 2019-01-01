@@ -1,4 +1,14 @@
-## 25. §[^24]
+## 25. § Az R4. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Vissza kell vonni a vámmentes vámeljárásra jogosító engedélyt, ha
+
+## a) a kérelmező az engedély kiadásától számítva két éven belül az engedélyben megadott jogcímen nem kezdeményez vámmentes vámkezelést,
+
+## b) a kérelmező az engedélyben megadott jogcímen kezdeményezett utolsó vámmentes vámkezelést követő két éven belül az engedélyben megadott jogcímen nem kezdeményez vámmentes vámkezelést,
+
+## c) az engedélyezés feltételei már nem állnak fenn, vagy
+
+## d) az engedélyben előírt kötelezettségeit az engedélyes megszegi.”
 
 ## 7. Záró rendelkezések
 
@@ -9,5 +19,3 @@
 (3) A 18. § 2019. január 2-án lép hatályba.
 
 (4) Ez a rendelet 2019. február 4-én hatályát veszti.
-
-[^24]: A 25. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

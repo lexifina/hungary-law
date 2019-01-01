@@ -1,3 +1,1 @@
-## 8. §[^8]
-
-[^8]: A 8. § a 26. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(7) Az (1) bekezdés szerinti térítési kötelezettség alól az állami adó- és vámhatóság vezetője méltányosságból részben vagy egészben felmentést adhat, kivéve, ha a szolgálati jogviszony a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 80. § (1) bekezdés f)–g) pontja, 82. § (1) bekezdés a) és c) pontja, vagy a 86. § (2) bekezdés b) pontja alapján szűnik meg.”
