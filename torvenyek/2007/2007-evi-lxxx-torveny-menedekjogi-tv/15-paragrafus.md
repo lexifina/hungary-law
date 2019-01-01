@@ -6,7 +6,7 @@ a) akiről megalapozottan feltételezhető, hogy
 
 aa) nemzetközi dokumentumokban meghatározott béke elleni, háborús vagy emberiesség elleni bűncselekményt követett el;
 
-ab) olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli;
+ab) vele szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn;
 
 ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
 

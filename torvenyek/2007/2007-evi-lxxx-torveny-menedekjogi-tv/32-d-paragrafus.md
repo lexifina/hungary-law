@@ -4,4 +4,4 @@
 
 (2) A kérelmet személyesen írásban vagy szóban lehet előterjeszteni.
 
-(3) A menekültügyi hatóság határidő megjelölésével a kérelmezőt hiánypótlásra vagy nyilatkozattételre szólíthatja fel, amennyiben a kérelem elbírálásához további adatra, iratra van szükség. A hiánypótlási vagy a nyilatkozat megtételére irányuló felhívásnak tartalmaznia kell a mulasztás jogkövetkezményeire történő utalást.
+(3) A menekültügyi hatóság határidő megjelölésével a kérelmezőt hiánypótlásra vagy nyilatkozattételre szólíthatja fel, amennyiben a kérelem elbírálásához vagy a hivatalból indított eljárás lefolytatásához további adatra, iratra van szükség. A hiánypótlási vagy a nyilatkozat megtételére irányuló felhívásnak tartalmaznia kell a mulasztás jogkövetkezményeire történő utalást.

@@ -16,7 +16,7 @@ f) ujjnyomatának vagy arcképmásának rögzítését megakadályozza vagy lehe
 
 (3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontjain alapuló megszüntetés eseteiben rendelkezik a 45. § (5) és (7)–(8) bekezdéseiben foglaltak szerint a külföldi törvény szerinti kiutasításáról és kitoloncolásáról, valamint megállapítja a beutazási és tartózkodási tilalom időtartamát.
 
-(4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben bírósági felülvizsgálatnak nincs helye.
+(4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben közigazgatási pernek nincs helye.
 
 (5) Az eljárást a (2) bekezdés e)–f) pontja alapján megszüntető végzés – az 53. § (3)–(5) bekezdésében foglaltaknak megfelelően közigazgatási perben megtámadható.
 

@@ -18,7 +18,7 @@ b) „ismeretlen” vagy „elköltözött” jelzéssel érkezett vissza, az ir
 
 követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
-(3) Ha a kézbesítés azért volt sikertelen, mert az a címzett hatósági nyilvántartásban szereplő lakcíméről a menekültügyi hatósághoz „ismeretlen” vagy „elköltözött” jelzéssel érkezett vissza, a közlést hirdetmény útján kell teljesíteni.
+(3)
 
 (4) Ha a címzett tudomást szerez arról, hogy a neki küldött iratot a hatóság kézbesítettnek tekinti, a tudomásszerzéstől számított tizenöt napon belül, de legkésőbb a közléstől számított negyvenöt napon belül kifogást terjeszthet elő.
 

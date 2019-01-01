@@ -21,3 +21,7 @@
 (10) A végrehajtási jog elévülését bármely végrehajtási cselekmény megszakítja.
 
 (11) Nem számít bele az elévülési időbe a végrehajtási eljárás felfüggesztésének időtartama.
+
+(12) A kötelezett kérelmére a menekültügyi hatóság vezetője – a végrehajtás foganatosítása előtt – indokolt esetben kamatmentes részletfizetést vagy fizetési halasztást engedélyezhet.
+
+(13) A menekültügyi hatóság vezetőjének döntése ellen indult közigazgatási perben a bíróság a döntés megváltoztatására nem jogosult.

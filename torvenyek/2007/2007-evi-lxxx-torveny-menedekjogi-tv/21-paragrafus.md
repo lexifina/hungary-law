@@ -12,6 +12,6 @@ ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt köve
 
 b) akinek Magyarország területén való tartózkodása nemzetbiztonsági érdeket sért;
 
-c) akiről a bíróság jogerős ügydöntő határozata megállapította, hogy olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
+c) akivel szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn.
 
-(2) Az (1) bekezdés a) pont ab) alpontja alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest, és amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
+(2) Az (1) bekezdés a) pont ab) alpontja alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest.

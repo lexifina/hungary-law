@@ -14,7 +14,7 @@ d) a menekültügyi eljárás időtartama alatt az Egyesült Nemzetek Szervezete
 
 (2) Az elismerését kérő köteles
 
-a) a menekültügyi hatósággal együttműködni, így különösen: feltárni a menekülésének körülményeit, személyes adatait közölni és személyazonosságának tisztázását elősegíteni, okmányait átadni;
+a) a menekültügyi hatósággal együttműködni, így különösen: feltárni a menekülésének körülményeit, személyes adatait közölni és személyazonosságának tisztázását elősegíteni, okmányait és a nála lévő okiratokat átadni;
 
 b) nyilatkozni vagyonáról, jövedelméről;
 
