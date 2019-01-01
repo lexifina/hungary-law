@@ -1,3 +1,3 @@
-## 6. §[^6]
+## 6. § Az önkéntes nyugdíjpénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 223/2000. (XII. 19.) Korm. rendelet (a továbbiakban: Önykr.) 45. §-a a következő (4) bekezdéssel egészül ki:
 
-[^6]: A 6. § a 18. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(4) A pénztár az 5. számú melléklet szerinti cash-flow kimutatásban a „40. Pénzeszközváltozás”, a „40.1. Készpénzállomány változása (forint- és valutapénztár)”, valamint a „40.2. Számlapénz (pénztári elszámolási számla, éven belüli lejáratú forint és deviza betétszámlák, egyéb elkülönített betétszámlák) állományváltozása” sort saját döntése alapján továbbtagolhatja a Tv. 7. számú melléklet „A Cash-flow kimutatás sorainak tartalma” alcím 21. pont f) alpontja szerinti megbontásban.”

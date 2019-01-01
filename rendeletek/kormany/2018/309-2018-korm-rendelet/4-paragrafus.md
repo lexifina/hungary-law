@@ -1,5 +1,3 @@
-## 3. §[^3]
+## 3. § A befektetési alapok éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 215/2000. (XII. 11.) Korm. rendelet (a továbbiakban: Alapkr.) 4. számú melléklete az 1. melléklet szerint módosul.
 
 ## 3. A magánnyugdíjpénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 222/2000. (XII. 19.) Korm. rendelet módosítása
-
-[^3]: A 3. § a 18. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

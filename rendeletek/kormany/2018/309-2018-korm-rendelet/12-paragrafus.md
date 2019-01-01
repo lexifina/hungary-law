@@ -1,3 +1,5 @@
-## 11. §[^11]
+## 11. § A foglalkoztatói nyugdíjszolgáltató intézmények éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 399/2007. (XII. 27.) Korm. rendelet (a továbbiakban: Fnykr.) 26. §-a a következő c) ponttal egészül ki:
 
-[^11]: A 11. § a 18. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## (E rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+## „c) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i (EU) 2016/2341 európai parlamenti és tanácsi irányelv.”
