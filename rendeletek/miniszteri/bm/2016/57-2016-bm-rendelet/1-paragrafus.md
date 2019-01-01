@@ -4,7 +4,7 @@
 
 1. befogadó állomás: az elismerését kérő, a menekült, az oltalmazott, a menedékes, valamint a befogadott elhelyezését és ellátását biztosító intézmény,
 
-2. BMH által fenntartott intézmények: a Bevándorlási és Menekültügyi Hivatal (a továbbiakban: BMH) főigazgatójának irányítása alatt álló, a menekültügyi vagy idegenrendészeti eljárásban részt vevő személyek számára szállást, ellátást nyújtó, valamint a menekültügyi őrizet végrehajtására szolgáló befogadó állomás, közösségi szállás és menekültügyi őrzött befogadó központ,
+2.[^2] BMH által fenntartott intézmények: a Bevándorlási és Menekültügyi Hivatal (a továbbiakban: BMH) által fenntartott, a menekültügyi vagy idegenrendészeti eljárásban részt vevő személyek számára szállást, ellátást nyújtó, valamint a menekültügyi őrizet végrehajtására szolgáló befogadó állomás, közösségi szállás és menekültügyi őrzött befogadó központ,
 
 3. BMH közegészségügyi felügyelője: a BMH által fenntartott intézményekben az e rendeletben meghatározott közegészségügyi-járványügyi feladatok ellátására foglalkoztatott szakirányú felsőfokú végzettséggel rendelkező személy,
 
@@ -39,3 +39,5 @@
 18. rendvédelmi tisztifőorvos: a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló 4/2014. (I. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. § b) pontjában meghatározott személy,
 
 19. rendvédelmi tisztiorvos: a Rendőrségnek a Korm. rendelet 1. § c) pontja szerinti rendvédelmi tisztiorvosa.
+
+[^2]: Az 1. § 2. pontja a 35/2018. (XII. 21.) BM rendelet 22. §-a szerint módosított szöveg.
