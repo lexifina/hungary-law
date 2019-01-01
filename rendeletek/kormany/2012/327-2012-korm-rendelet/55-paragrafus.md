@@ -1,6 +1,6 @@
-## 54/A. §[^179] Az 54. § (1) bekezdésben meghatározott feladatok tekintetében – ideértve a 2017. január 1-jét követően induló ügyeket is – a Kormányhivatal jogosult eljárni, az azokból származó jogok és kötelezettségek a Kormányhivatalt illetik, illetve terhelik.
+## 54/A. §[^188] Az 54. § (1) bekezdésben meghatározott feladatok tekintetében – ideértve a 2017. január 1-jét követően induló ügyeket is – a Kormányhivatal jogosult eljárni, az azokból származó jogok és kötelezettségek a Kormányhivatalt illetik, illetve terhelik.
 
-55. §[^180] (1) A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében a miniszter a 2015. év első félévére vonatkozóan 2014. december 31-éig meghatározza
+55. §[^189] (1) A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében a miniszter a 2015. év első félévére vonatkozóan 2014. december 31-éig meghatározza
 
 a) a támogatási elveket,
 
@@ -14,9 +14,9 @@ e) a tartós foglalkoztatásban és tranzit foglalkoztatásban részt vevő munk
 
 (2) A miniszter a 2015. év második félévére vonatkozóan 2015. június 30-áig határozza meg az (1) bekezdés a)–e) pontjában foglaltakat.
 
-(3)[^181] Az (1) bekezdés a) és d) pontjában foglaltakról szóló tájékoztatást a miniszteri döntést követő 30 napon belül a Nemzeti Rehabilitációs és Szociális Hivatal és a minisztérium honlapján közzé kell tenni.
+(3)[^190] Az (1) bekezdés a) és d) pontjában foglaltakról szóló tájékoztatást a miniszteri döntést követő 30 napon belül a Nemzeti Rehabilitációs és Szociális Hivatal és a minisztérium honlapján közzé kell tenni.
 
-(4)[^182] A Nemzeti Rehabilitációs és Szociális Hivatal a miniszter (1) és (2) bekezdés szerinti döntése alapján előkészíti a miniszter részére a következő félévre szóló támogatási tervet. A miniszter a támogatási tervben munkáltatónként meghatározza
+(4)[^191] A Nemzeti Rehabilitációs és Szociális Hivatal a miniszter (1) és (2) bekezdés szerinti döntése alapján előkészíti a miniszter részére a következő félévre szóló támogatási tervet. A miniszter a támogatási tervben munkáltatónként meghatározza
 
 a) a tranzit foglalkoztatásban, illetve a tartós foglalkoztatásban támogatott megváltozott munkaképességű munkavállalók tervezett számát,
 
@@ -28,9 +28,9 @@ c) a munkáltató részére nyújtandó egyéni támogatások együttes tervezet
 
 a) az első félév vonatkozásában a keretszerződés szerinti létszám alapján kell meghatározni,
 
-b)[^183] a második félév vonatkozásában az adott munkáltató hatályos egyéni foglalkoztatási megállapodásai és a rehabilitációs hatóság javaslata figyelembevételével a második félévre tervezett új egyéni foglalkoztatási megállapodások alapján kell meghatározni azzal, hogy a támogatott munkavállalók száma nem lehet több a keretszerződés szerinti létszámnál.
+b)[^192] a második félév vonatkozásában az adott munkáltató hatályos egyéni foglalkoztatási megállapodásai és a rehabilitációs hatóság javaslata figyelembevételével a második félévre tervezett új egyéni foglalkoztatási megállapodások alapján kell meghatározni azzal, hogy a támogatott munkavállalók száma nem lehet több a keretszerződés szerinti létszámnál.
 
-(6)[^184] A miniszter a támogatási tervben meghatározza a (4) bekezdés a)–c) pontjában foglaltak módosítására vonatkozó támogatási elveket arra az esetre, ha valamely munkáltatónak az e rendelet szerinti támogatásra való jogosultsága megszűnik. A támogatási elvekről szóló tájékoztatást a miniszteri döntést követő 30 napon belül a Nemzeti Rehabilitációs és Szociális Hivatal és a minisztérium honlapján közzé kell tenni.
+(6)[^193] A miniszter a támogatási tervben meghatározza a (4) bekezdés a)–c) pontjában foglaltak módosítására vonatkozó támogatási elveket arra az esetre, ha valamely munkáltatónak az e rendelet szerinti támogatásra való jogosultsága megszűnik. A támogatási elvekről szóló tájékoztatást a miniszteri döntést követő 30 napon belül a Nemzeti Rehabilitációs és Szociális Hivatal és a minisztérium honlapján közzé kell tenni.
 
 (7) A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében
 
@@ -46,9 +46,9 @@ c) a 38. § (1) bekezdés d) pontjában
 
 (9) A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében a 20/B. § (3) bekezdés és a 31. § nem alkalmazható.
 
-[^179]: Az 54/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 212. § (4) bekezdése iktatta be.
-[^180]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 332/2014. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
-[^181]: Az 55. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.
-[^182]: Az 55. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.
-[^183]: Az 55. § (5) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^184]: Az 55. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.
+[^188]: Az 54/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 212. § (4) bekezdése iktatta be.
+[^189]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 332/2014. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^190]: Az 55. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.
+[^191]: Az 55. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.
+[^192]: Az 55. § (5) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^193]: Az 55. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.

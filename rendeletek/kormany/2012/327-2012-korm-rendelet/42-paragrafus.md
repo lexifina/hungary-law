@@ -1,10 +1,10 @@
 ## 28. Munkapróba
 
-42. § (1)[^142] A munkáltató a rehabilitációs hatóság hozzájárulásával megállapodást köthet más munkáltatóval (a továbbiakban: befogadó munkáltató) a tranzit foglalkoztatásban részt vevő megváltozott munkaképességű munkavállaló munkaszerződéstől eltérő, nyílt munkaerő-piaci foglalkoztatására munkatapasztalat és munkagyakorlat szerzése céljából (a továbbiakban: munkapróba).
+42. § (1)[^151] A munkáltató a rehabilitációs hatóság hozzájárulásával megállapodást köthet más munkáltatóval (a továbbiakban: befogadó munkáltató) a tranzit foglalkoztatásban részt vevő megváltozott munkaképességű munkavállaló munkaszerződéstől eltérő, nyílt munkaerő-piaci foglalkoztatására munkatapasztalat és munkagyakorlat szerzése céljából (a továbbiakban: munkapróba).
 
 (2) Az egyéni támogatás időtartama alatt több alkalommal is sor kerülhet munkapróbára, de a munkapróbák együttes időtartama legfeljebb 4 hónap lehet.
 
-(3)[^143] A munkapróbára kihelyező munkáltató köteles a munkapróbát megszakítani, és erről a rehabilitációs hatóságot értesíteni, amennyiben tudomására jut, hogy a befogadó munkáltatónál nem teljesülnek a munkavállaló biztonságos munkavégzésének feltételei vagy az egyéni rehabilitációs tervben meghatározott egyéb feltételek.
+(3)[^152] A munkapróbára kihelyező munkáltató köteles a munkapróbát megszakítani, és erről a rehabilitációs hatóságot értesíteni, amennyiben tudomására jut, hogy a befogadó munkáltatónál nem teljesülnek a munkavállaló biztonságos munkavégzésének feltételei vagy az egyéni rehabilitációs tervben meghatározott egyéb feltételek.
 
 (4) A munkapróba időtartama alatt
 
@@ -18,8 +18,8 @@ b) munkapróbára kihelyező nonprofit munkáltató esetében a többletköltsé
 
 a) figyelemmel kíséri a munkapróba megvalósulását, és amennyiben indokolt, kezdeményezi a munkapróbára irányuló jogviszony módosítását vagy megszüntetését,
 
-b)[^144] a munkapróba végén értékeli a munkavállaló teljesítményét, és a rehabilitációs hatóság részére a munkapróbáról jelentést készít, melyben meghatározza a nyílt munkaerő-piaci munkavégzéshez szükséges további fejlesztési irányokat, és a munkapróba tapasztalatai alapján szükség szerint kezdeményezi a személyes rehabilitációs terv módosítását.
+b)[^153] a munkapróba végén értékeli a munkavállaló teljesítményét, és a rehabilitációs hatóság részére a munkapróbáról jelentést készít, melyben meghatározza a nyílt munkaerő-piaci munkavégzéshez szükséges további fejlesztési irányokat, és a munkapróba tapasztalatai alapján szükség szerint kezdeményezi a személyes rehabilitációs terv módosítását.
 
-[^142]: A 42. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
-[^143]: A 42. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^144]: A 42. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^151]: A 42. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^152]: A 42. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^153]: A 42. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
