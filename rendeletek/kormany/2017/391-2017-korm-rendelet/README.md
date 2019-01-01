@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-391-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-391-20-22.1 | 391/2017. (XII. 13.) Korm. rendelet |
+| 2019-01-01 | 2017-391-20-22.2 | 288/2018. (XII. 21.) Korm. rendelet |

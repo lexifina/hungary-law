@@ -264,41 +264,41 @@
 
 | 26. | Műszaki ügyintéző I. | Adattári rendszerfelelős 2 |  |
 
-| 27. | Árvízvédelmi ügyintéző 2 |  |
+| 27. |  |  |
 
 | 28. | Energetikai ügyintéző 2 |  |
 
-| 29. | Erdészeti ügyintéző 2 |  |
+| 29. |  |  |
 
-| 30. | Felszín alatti vízkészlet-gazdálkodási ügyintéző 2 |  |
+| 30. |  |  |
 
-| 31. | Felszíni vízkészlet-gazdálkodási ügyintéző 2 |  |
+| 31. |  |  |
 
-| 32. | Folyó- és tógazdálkodási ügyintéző 2 |  |
+| 32. |  |  |
 
-| 33. | Geodéziai és térinformatikai ügyintéző 2 |  |
+| 33. |  |  |
 
-| 34. | Gépészeti ügyintéző 2 |  |
+| 34. |  |  |
 
-| 35. | Informatikai és hírközlési ügyintéző 2 |  |
+| 35. |  |  |
 
-| 36. | Magasépítési ügyintéző 2 |  |
+| 36. |  |  |
 
-| 37. | Munka- és tűzvédelmi ügyintéző 2 |  |
+| 37. |  |  |
 
 | 38. | Múzeumpedagógus |  |
 
-| 39. | Területi műszaki ügyintéző 2 |  |
+| 39. |  |  |
 
-| 40. | Vízhasznosítási ügyintéző 2 |  |
+| 40. |  |  |
 
-| 41. | Víziközmű ügyintéző 2 |  |
+| 41. |  |  |
 
-| 42. | Vízminőség-védelmi ügyintéző 2 |  |
+| 42. |  |  |
 
 | 43. | Vízrajzi ügyintéző 2 |  |
 
-| 44. | Vízrendezési ügyintéző 2 |  |
+| 44. |  |  |
 
 | 45. | Műszaki ügyintéző II. | Adattári referens |  |
 
