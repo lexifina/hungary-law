@@ -1,29 +1,25 @@
 ## Kiegyenlítő fizetések
 
-## Az átviteli rendszerirányító – a VET 142. § (6) bekezdése, 143. § (6) bekezdése és 144. § (2) bekezdése szerinti kiegyenlítő fizetések érdekében az Áralkalmazási rendeletben szabályozott áralkalmazási feltételeknek megfelelően – azon bevételi részt, amelyet
+## 1. Az elosztók által teljesítendő kiegyenlítő befizetési pénzeszköz mértéke: 1,726 Ft/kWh.
 
-## a) az 1. melléklet 1.2. pontja szerinti díjnak az 1.1. pont a) alpont szerinti díjat meghaladó része és
+## 2. Az átviteli rendszerirányító által teljesítendő kiegyenlítő kifizetések érdekében az átviteli rendszerirányító a következő részarányok szerint köteles a kiegyenlítő befizetések összegét megosztani az elosztók között:
 
-## b) az 1. melléklet 1.2. pontja szerinti díj fizetésének alapjául szolgáló, az Áralkalmazási rendelet 13. § (2) bekezdésében meghatározott villamosenergia-mennyiség
+|  |  | A | B |
 
-## szorzatának megfelelő mértékben kap, a következő arányok szerint köteles – utólag adott árengedmény jogcímen – megosztani az elosztók között.
+|  | 1. | Elosztó | Részarány |
 
-|  | A | B |
+|  | 2. | NKM Áramhálózati Kft. | 13,4% |
 
-| 1. | Elosztó | Részarány |
+|  | 3. | ELMŰ Hálózati Kft. | 0,0% |
 
-| 2. | NKM Áramhálózati Kft. | 13,4% |
+|  | 4. | ÉMÁSZ Hálózati Kft. | 22,3% |
 
-| 3. | ELMÜ Hálózati Kft. | 0% |
+|  | 5. | E.ON Dél-dunántúli Áramhálózati Zrt. | 23,2% |
 
-| 4. | ÉMÁSZ Hálózati Kft. | 22,8% |
+|  | 6. | E.ON Észak-dunántúli Áramhálózati Zrt. | 24,1% |
 
-| 5. | E.ON Dél-dunántúli Áramhálózati Zrt. | 22,8% |
+|  | 7. | E.ON Tiszántúli Áramhálózati Zrt. | 17,0% |
 
-| 6. | E.ON Észak-dunántúli Áramhálózati Zrt. | 24,9% |
-
-| 7. | E.ON Tiszántúli Áramhálózati Zrt. | 16,1% |
-
-| 8. | Összesen | 100,0% |
+|  | 8. | Összesen | 100,0% |
 
 3. melléklet a 15/2016. (XII. 20.) MEKH rendelethez

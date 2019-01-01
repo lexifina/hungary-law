@@ -2,4 +2,4 @@
 
 1. melléklet a 15/2016. (XII. 20.) MEKH rendelethez[^1]
 
-[^1]: Az 1. melléklet a 15/2017. (XII. 13.) MEKH rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. melléklet a 13/2018. (XII. 15.) MEKH rendelet 1. §-ával megállapított szöveg.
