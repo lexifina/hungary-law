@@ -1,0 +1,1 @@
+## „(6) A gyermek külföldi tartózkodási helyének kijelölésére irányuló kérelem elutasítása esetén a gyámhivatal határozatában tájékoztatja a gyermek törvényes képviselőjét – a gyermek tervezett külföldi tartózkodási helyére figyelemmel – a gyermek jogellenes elvitelének várható jogkövetkezményeiről.”
