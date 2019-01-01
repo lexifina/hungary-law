@@ -8,7 +8,7 @@
 
 3. fizetett kutatás-fejlesztés: az egyik fél által végzett és egy finanszírozó fél által finanszírozott kutatás-fejlesztés, ahol a finanszírozó fél maga nem végez kutatás-fejlesztési tevékenységet,
 
-4. hasznosító vállalkozás: költségvetési kutatóhelyen létrejött szellemi alkotás üzleti hasznosítása céljából az állam nevében és képviseletében alapított vagy annak részvételével, részesedésével működő gazdasági társaság,
+4. hasznosító vállalkozás: költségvetési kutatóhelyen létrejött szellemi alkotás hasznosítása céljából alapított gazdasági társaság, amely nem pénzbeli hozzájárulásként rendelkezésre bocsátás, átruházás vagy hasznosítási szerződés alapján vált a költségvetési kutatóhelyen létrehozott szellemi alkotáshoz fűződő jogok jogosultjává vagy hasznosítójává.
 
 5. hazai közfinanszírozású támogatás: a közfinanszírozású támogatások összessége az európai uniós források kivételével,
 
@@ -66,8 +66,8 @@ f) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatk
 
 19a. projektcsoport: a kérelmező által egy adóévben megvalósított és a kérelemben megjelölt azon projektek vagy projektrészek összessége, amelyeket a minősítés szempontjából egy egységnek kell tekinteni,
 
-20. szellemi tulajdon: a szellemi alkotások és egyes teljesítmények, az árujelzők (védjegyek és földrajzi árujelzők), valamint a nyilvánosságra még nem jutott ismeretek tekintetében a vonatkozó törvények, az Európai Unió közvetlenül alkalmazandó jogi aktusai és nemzetközi egyezmények által biztosított jogi oltalom,
+20. szellemi tulajdon: a szellemi alkotásokra és egyes teljesítményekre, az árujelzőkre (védjegyek és földrajzi árujelzők) a szerzői jogi és iparjogvédelmi törvényben, a védett ismeretekre nézve az üzleti titok védelméről szóló törvényben, továbbá az Európai Unió közvetlenül alkalmazandó jogi aktusaiban és nemzetközi egyezmények által biztosított jogi oltalom,
 
-21. szellemi alkotás: az az alkotás, műszaki megoldás, amely alkalmas arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezze, vagy amely jogszabály erejénél fogva szerzői jogi védelem alatt áll, ideértve azt is, amikor a hasznosítási célok, lehetőségek függvényében a megfelelő oltalom megszerzése helyett e megoldás titokban tartása célszerű,
+21. szellemi alkotás: az az alkotás, illetve műszaki megoldás, amely alkalmas arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezze, vagy amely jogszabály erejénél fogva szerzői jogi védelem alatt áll, ideértve az üzleti titok védelméről szóló törvény által oltalomban részesített védett ismeretet is,
 
 22. vállalkozás: a Kkv. tv. 19. § 5. pontjában meghatározott vállalkozás.

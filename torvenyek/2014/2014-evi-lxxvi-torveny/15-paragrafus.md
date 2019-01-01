@@ -4,7 +4,7 @@
 
 (2) Mentes a járulék fizetésének kötelezettsége alól:
 
-a) a Kkv. tv. 3. § (2) és (3) bekezdése szerint mikro- vagy kisvállalkozásnak minősülő gazdasági társaság,
+a) a Kkv. tv. szerint mikro- vagy kisvállalkozásnak minősülő gazdasági társaság,
 
 b) a Magyar Nemzeti Bank,
 

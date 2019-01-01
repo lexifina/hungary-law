@@ -16,4 +16,4 @@ d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációj�
 
 e) az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályait.
 
-(2) Felhatalmazást kap az SZTNH felügyeletét ellátó miniszter, hogy – az adópolitikáért felelős miniszterrel és az NKFI Hivatal elnökével egyetértésben, az SZTNH elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
+(2) Felhatalmazást kap az SZTNH felügyeletét ellátó miniszter, hogy – az adópolitikáért felelős miniszter egyetértésével és az SZTNH elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
