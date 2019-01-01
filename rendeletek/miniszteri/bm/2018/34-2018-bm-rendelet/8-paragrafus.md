@@ -1,5 +1,5 @@
-## 7. §[^7]
+## 7. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A hivatásos állománynak a Hszt. 77. § (1) bekezdés b), c), d), e) és k) pontja szerint rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés előtti besorolása szerinti illetményre jogosult, azzal, hogy – jogszabály eltérő rendelkezése hiányában – a hivatásos pótlék mértéke 50%. A hivatásos állománynak külföldre vezénylés miatt a Hszt. 77. § (1) bekezdés a) pontja szerint rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés előtti besorolása szerinti illetményre jogosult, azzal, hogy a külföldre vezényelt hivatásos pótlékának mértéke a külföldre vezénylést megelőzően betöltött szolgálati beosztás szerint irányadó hivatásos pótlék mértéke.”
 
 ## 6. A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet módosítása
-
-[^7]: A 7. § a 17. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

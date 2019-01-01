@@ -1,9 +1,11 @@
-## 16. §[^12]
+## 16. § Az Országgyűlési Őrségnél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 56/2016. (XII. 22.) BM rendelet 23. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+## „(1a) A Hszt. 82/J. § (1a) bekezdése szerinti felhívás esetén az Országgyűlési Őrség a rendvédelmi egészségkárosodási ellátásra jogosultat legalább 20 napos határidő biztosításával – 30 napnál nem régebbi – hatósági erkölcsi bizonyítvány benyújtására hívja fel. A humánigazgatási szakszolgálat a felhívást az elektronikus ügyintézés szabályai szerint vagy a postai szolgáltatásokról szóló jogszabály szerint tértivevény különszolgáltatással feladott küldeményben bocsátja ki.
+
+## (1b) Ha az Országgyűlési Őrségnek – a rendvédelmi egészségkárosodási ellátásra jogosult vagy hozzátartozója írásbeli tájékoztatása alapján, vagy a rendvédelmi szervhez más hivatalos úton eljutott írásbeli tájékoztatás alapján – tudomása van arról, hogy a rendvédelmi egészségkárosodási ellátásra jogosult a gyógykezelése érdekében a szokásos tartózkodási helyétől eltérő helyen tartózkodik, akkor az (1a) bekezdés szerinti felhívást részére a lakcíme mellett ezen tartózkodási helyére is kézbesíti.”
 
 ## 12. Záró rendelkezések
 
 17. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2018. december 31-én lép hatályba.
 
 (2) Az 1–8. §, a 10. és 11. §, a 15. és 16. §, valamint az 1–4. melléklet 2019. január 1-jén lép hatályba.
-
-[^12]: A 16. § a 17. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

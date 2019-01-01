@@ -1,3 +1,1 @@
-## 11. §[^10]
-
-[^10]: A 11. § a 17. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## 11. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet 40. § (2) bekezdésében a „69. § (1) bekezdés a)–c) pontjában meghatározott okból történő vagy a d) pontja” szövegrész helyébe a „69. §-a” szöveg lép.
