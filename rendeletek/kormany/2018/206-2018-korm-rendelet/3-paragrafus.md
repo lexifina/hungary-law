@@ -1,58 +1,56 @@
-## 2. §[^2]
-
 ## 2. A Magyarságkutató Intézet feladatai
 
 3. § (1) Az Intézet a következő feladatokat látja el:
 
-1.[^3]
+1. a honfoglalás előtti magyar történelem, a magyarság őstörténetének interdiszciplináris kutatása,
 
-2.[^4]
+2. az V–IX. századi sztyeppeközösségek kutatása,
 
-3.[^5]
+3. a honfoglalással, valamint a magyar középkorral kapcsolatos interdiszciplináris kutatások,
 
-4.[^6]
+4. a kelet-európai térség egyes részeinek VIII–X. századi történeti-földrajzi tájrekonstrukciója,
 
-5.[^7]
+5. a magyarság történelméből származó hazai és külföldi, elbeszélő és írott levéltári forráskutatás,
 
-6.[^8]
+6. vallástörténeti kutatások,
 
-7.[^9]
+7. néprajzi és népzenei kutatások,
 
-8.[^10]
+8. oktatási és képzési tevékenység, részvétel a kulturális turizmus, vallás- és zarándoklatturizmus fejlesztésében,
 
-9.[^11]
+9. angol és magyar nyelvű folyóirat kiadása,
 
-10.[^12]
+10. archeogenetikai kutatások,
 
-11.[^13]
+11. a korai magyar történelem helyének vizsgálata a XXI. századi magyar önazonosságtudatban,
 
-12.[^14]
+12.[^1]
 
-13.[^15]
+13.[^2]
 
-14.[^16]
+14.[^3]
 
-15.[^17]
+15.[^4]
 
-16.[^18]
+16.[^5]
 
-17.[^19]
+17.[^6]
 
-18.[^20]
+18.[^7]
 
-19.[^21]
+19.[^8]
 
-20.[^22]
+20.[^9]
 
-21.[^23]
+21.[^10]
 
-22.[^24]
+22.[^11]
 
-23.[^25]
+23.[^12]
 
-24.[^26]
+24. az 1–23. pontok szerinti feladatok tekintetében maradandót alkotó jeles kutatók hagyatékának, szellemi örökségének gondozása, a kutatási anyagok digitalizálása,
 
-25.[^27]
+25. a magyar identitás, hazaszeretet kifejeződésének történelmi bemutatása a magyar történelem korábbi évszázadaiból,
 
 26. hagyományőrző események, konferenciák, rendezvények, alkotások, médiumok támogatása, valamint
 
@@ -62,29 +60,15 @@
 
 (3) Az Intézet főigazgatója meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől személyes adatnak nem minősülő adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
 
-[^2]: A 2. § a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^3]: A 3. § (1) bekezdés 1. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^4]: A 3. § (1) bekezdés 2. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^5]: A 3. § (1) bekezdés 3. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^6]: A 3. § (1) bekezdés 4. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^7]: A 3. § (1) bekezdés 5. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^8]: A 3. § (1) bekezdés 6. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^9]: A 3. § (1) bekezdés 7. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^10]: A 3. § (1) bekezdés 8. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^11]: A 3. § (1) bekezdés 9. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^12]: A 3. § (1) bekezdés 10. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^13]: A 3. § (1) bekezdés 11. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^14]: A 3. § (1) bekezdés 12. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^15]: A 3. § (1) bekezdés 13. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^16]: A 3. § (1) bekezdés 14. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^17]: A 3. § (1) bekezdés 15. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^18]: A 3. § (1) bekezdés 16. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^19]: A 3. § (1) bekezdés 17. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^20]: A 3. § (1) bekezdés 18. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^21]: A 3. § (1) bekezdés 19. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^22]: A 3. § (1) bekezdés 20. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^23]: A 3. § (1) bekezdés 21. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^24]: A 3. § (1) bekezdés 22. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^25]: A 3. § (1) bekezdés 23. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^26]: A 3. § (1) bekezdés 24. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^27]: A 3. § (1) bekezdés 25. pontja a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^1]: A 3. § (1) bekezdés 12. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^2]: A 3. § (1) bekezdés 13. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^3]: A 3. § (1) bekezdés 14. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^4]: A 3. § (1) bekezdés 15. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^5]: A 3. § (1) bekezdés 16. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^6]: A 3. § (1) bekezdés 17. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^7]: A 3. § (1) bekezdés 18. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^8]: A 3. § (1) bekezdés 19. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^9]: A 3. § (1) bekezdés 20. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^10]: A 3. § (1) bekezdés 21. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^11]: A 3. § (1) bekezdés 22. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^12]: A 3. § (1) bekezdés 23. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
