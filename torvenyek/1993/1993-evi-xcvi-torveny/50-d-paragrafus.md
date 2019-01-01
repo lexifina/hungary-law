@@ -20,7 +20,7 @@ ca) a táppénz, baleseti táppénz, a baleseti járadék valamint a megváltozo
 
 cb) a bányász dolgozók egészségkárosodási járadéka, valamint a bányászok egészségkárosodási járadéka összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 
-cc) a rokkantsági járadék valamint az ápolási díj összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
+cc) a rokkantsági járadék valamint a gyermekek otthongondozási díja, az ápolási díj összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
 
 d) az 50/B. § (1) bekezdésének e) pontjában meghatározott ellátások közül a temetés igazolt költségeinek támogatása;
 
