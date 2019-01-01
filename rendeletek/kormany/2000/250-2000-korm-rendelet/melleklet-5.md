@@ -8,7 +8,7 @@
 
 ## 18. Külső tagok (más tulajdonosok) részesedése''
 
-5. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^365]
+5. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^367]
 
 ## Az összevont (konszolidált) éves beszámolót készítő pénzügyi intézmény konszolidált eredménykimutatásának tagolása a következő kiegészítésekkel tér el a 2. számú melléklet szerinti eredménykimutatás tagolásától
 
@@ -30,4 +30,4 @@
 
 4. Az eredménykimutatás „20. Adófizetési kötelezettség” sora kiegészül a következő a) ponttal:
 
-[^365]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (3) bekezdésével megállapított szöveg.
+[^367]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (3) bekezdésével megállapított szöveg.

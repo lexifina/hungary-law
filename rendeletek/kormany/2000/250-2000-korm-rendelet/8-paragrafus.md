@@ -1,4 +1,4 @@
-8. § (1)[^97] Jegyzett tőkeként kell kimutatni a Tv. 35. § (3) bekezdése szerinti tőke összegét. A jegyzett tőke a külföldi székhelyű vállalkozás magyarországi fióktelepeként működő pénzügyi intézmény esetében a Hpt. 12. § (5) és (6) bekezdése szerinti dotációs tőkét foglalja magában. Azon befektetési szolgáltatási tevékenységet végző hitelintézetnek, amely nem külföldi székhelyű vállalkozás fióktelepe, a jegyzett tőkén belül a főkönyvi, illetve az analitikus nyilvántartásokban elkülönítetten kell kimutatni az olyan befektetési szolgáltató tulajdoni részesedését, amelynek más befektetési szolgáltatóban is van részesedése.
+8. § (1)[^97] Jegyzett tőkeként kell kimutatni a Tv. 35. § (3) bekezdése szerinti tőke összegét. A jegyzett tőke a külföldi székhelyű vállalkozás magyarországi fióktelepeként működő pénzügyi intézmény esetében a Hpt. 12. § (5) bekezdése szerinti dotációs tőkét foglalja magában. Azon befektetési szolgáltatási tevékenységet végző hitelintézetnek, amely nem külföldi székhelyű vállalkozás fióktelepe, a jegyzett tőkén belül a főkönyvi, illetve az analitikus nyilvántartásokban elkülönítetten kell kimutatni az olyan befektetési szolgáltató tulajdoni részesedését, amelynek más befektetési szolgáltatóban is van részesedése.
 
 (2)[^98] A takarékszövetkezetek esetében az 1991. december 31-i mérlegben szövetkezeti vagyonként kimutatott, bejegyzett tőke összege, valamint 1992. január 1-jét követően végrehajtott jegyzett tőke emelés szövetkezeti tagokra nem nevesített összege része a jegyzett tőkének, az nem minősül a Tv. 38. §-a (2) bekezdésének b) pontja szerinti lekötött tartaléknak, feltéve, hogy annak összegét a szövetkezet nem minősítette az alapszabályában meghatározott célra szolgáló fel nem osztható szövetkezeti vagyonnak.
 
@@ -14,7 +14,7 @@
 
 (8)[^103] Az alapítványi formában működő pénzügyi vállalkozás jegyzett tőkeként az alapítók által az alapítvány céljára rendelkezésre bocsátott vagyont (induló tőkét) köteles kimutatni.
 
-[^97]: A 8. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^97]: A 8. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 25. §-ával megállapított, a 309/2018. (XII. 27.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^98]: A 8. § (2) bekezdése a 291/2001. (XII. 26.) Korm. rendelet 6. §-ával megállapított szöveg, e módosító rendelet 22. §-a (1) bekezdésének a) pontja alapján rendelkezéseit a 2001. évről készített éves beszámolónál is alkalmazni lehet.
 [^99]: A 8. § (4) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
 [^100]: A 8. § (5) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 34. § 7. pontja szerint módosított szöveg.
