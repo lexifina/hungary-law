@@ -4,7 +4,7 @@
 
 a) aki az OBT tagja,
 
-b) akivel szemben fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban,
+b) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll,
 
 c) aki fegyelmi büntetés hatálya alatt áll,
 

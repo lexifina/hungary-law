@@ -8,7 +8,7 @@
 
 (4) Az OBT tagja nem gyakorolhatja az OBT tagságból eredő jogait és kötelességeit
 
-a) az ellene indított fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás alatt,
+a) az ellene indított fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás alatt,
 
 b) a bírói alkalmatlanságának megállapítása iránt indított eljárás alatt.
 

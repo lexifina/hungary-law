@@ -6,7 +6,7 @@ b) elbírálja a felülvizsgálati kérelmet,
 
 c) a bíróságokra kötelező jogegységi határozatot hoz,
 
-d) joggyakorlat-elemzést folytat a jogerősen befejezett ügyekben, ennek keretében feltárja és vizsgálja a bíróságok ítélkezési gyakorlatát,
+d) joggyakorlat-elemzést folytat a jogerős vagy véglegessé vált határozattal befejezett ügyekben, ennek keretében feltárja és vizsgálja a bíróságok ítélkezési gyakorlatát,
 
 e) elvi bírósági határozatokat és elvi bírósági döntéseket tesz közzé,
 

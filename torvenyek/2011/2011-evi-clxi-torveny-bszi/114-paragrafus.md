@@ -12,7 +12,7 @@
 
 (2) Nem választható a Kúria elnökévé az,
 
-a) akivel szemben fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban,
+a) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll,
 
 b) aki fegyelmi büntetés hatálya alatt áll,
 

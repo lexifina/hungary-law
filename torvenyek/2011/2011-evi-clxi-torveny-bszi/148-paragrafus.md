@@ -6,7 +6,7 @@
 
 (4) Nem választható a bírói tanács tagjává,
 
-a) aki ellen fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban vagy aki jogerős fegyelmi határozat hatálya alatt áll,
+a) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás vagy jogerős fegyelmi határozat hatálya alatt áll,
 
 b) aki a 16. § a)–c) pontjában felsorolt bíróság elnöke és elnökhelyettese, vagy
 

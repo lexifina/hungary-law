@@ -60,7 +60,7 @@ c) a bírót első kinevezésekor – a bírák jogállásáról és javadalmaz�
 
 d) beosztja a katonai bírót a katonai tanácsba, valamint a Magyar Honvédségnél fennálló hivatásos szolgálati viszonyának megszűnésekor más bírói munkakörbe,
 
-e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a Be. 17. § (5) és (6) bekezdésében, továbbá 448. § (2) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
+e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a Be. 680. § (4) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
 
 f) beoszthatja a bírót a Kúriára, az OBH-ba, továbbá az igazságügyért felelős miniszter által vezetett a minisztériumba, illetve dönt a beosztás megszüntetéséről és a bírónak ismét tényleges bírói álláshelyre történő beosztásáról,
 
