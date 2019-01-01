@@ -8,7 +8,7 @@ a) közzé kell tenni a (4) bekezdésben meghatározott helyen, vagy
 
 b) valamennyi forgalomba hozatali helyen, valamint a kibocsátó székhelyén vagy a szabályozott piac, illetve multilaterális kereskedési rendszer kijelölt helyiségében ingyenesen a nyilvánosság számára elvitelre is rendelkezésre kell bocsátani, és
 
-c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés k)–r) pontjában meghatározott – a tájékoztató tartalmával megegyező – adatokat.
+c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés 10–17. pontjában meghatározott – a tájékoztató tartalmával megegyező – adatokkal.
 
 (4) A közzététel helye:
 

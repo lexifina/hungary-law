@@ -2,49 +2,49 @@
 
 391. § (1) A Felügyelet nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
-a) a tőzsde, a központi szerződő fél és a központi értéktár neve, székhelye;
+1. a tőzsde, a központi szerződő fél és a központi értéktár neve, székhelye;
 
-b) a tőzsde, a központi szerződő fél és a központi értéktár alapításának időpontja;
+2. a tőzsde, a központi szerződő fél és a központi értéktár alapításának időpontja;
 
-c) a tőzsde, a központi szerződő fél és a központi értéktár tevékenységi köre;
+3. a tőzsde, a központi szerződő fél és a központi értéktár tevékenységi köre;
 
-d) a tőzsde, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
+4. a tőzsde, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
 
-e) a tőzsde, a központi szerződő fél és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
+5. a tőzsde, a központi szerződő fél és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosainak családi és utóneve, születési helye és ideje, anyja neve (a továbbiakban együtt: természetes személyazonosító adatai), lakcíme, illetve cégneve; székhelye; más társaságban lévő részesedésének mértéke;
 
-f) a tőzsde, a központi szerződő fél és a központi értéktár vezető állású személyei;
+6. a tőzsde, a központi szerződő fél és a központi értéktár vezető állású személyeinek természetes személyazonosító adatai, lakcíme;
 
-g) a tőzsde, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
+7. a tőzsde, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
 
-h) a tőzsde, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
+8. a tőzsde, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
 
-i) a tőzsde, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;
+9. a tőzsde, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;
 
-j)
+10. a kibocsátó neve, székhelye;
 
-k) a kibocsátó neve, székhelye;
+11. a kibocsátó alapításának időpontja;
 
-l) a kibocsátó alapításának időpontja;
+12. a kibocsátó jegyzett tőkéjének nagysága;
 
-m) a kibocsátó jegyzett tőkéjének nagysága;
+13. a kibocsátó vezető állású személyeinek természetes személyazonosító adatai, lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
 
-n) a kibocsátó vezető állású személyeinek családi és utóneve, születési helye és ideje, anyja neve (a továbbiakban: természetes személyazonosító adatai), lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
+14. a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedésének mértéke;
 
-o) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
+15. a forgalomba hozatal adatai;
 
-p) a forgalomba hozatal adatai;
+16. a bennfentes személyek természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 
-q) a bennfentes személyek neve (cégneve), természetes személyazonosító adatai, lakcíme (székhelye);
+17. a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 
-r) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
+18. az engedélyezett tájékoztató;
 
-s) az engedélyezett tájékoztató;
+19. a közzétételre kötelezett által megjelölt közzétételi hely;
 
-t) a közzétételre kötelezett által megjelölt közzétételi hely.
+20. a KCGE cégneve, székhelye;
 
-u)–v)
+21. a KCGE vezető állású személyeinek természetes személyazonosító adatai, lakcíme;
 
-x)–y)
+22. a KCGE tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedésének mértéke.
 
 (2) A Felügyelet nyilvántartásba veszi:
 

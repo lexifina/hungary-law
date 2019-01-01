@@ -1,5 +1,0 @@
-## XXVIII. Fejezet
-
-## ÁLTALÁNOS BEFEKTETÉSI SZABÁLYOK
-
-267–270. §

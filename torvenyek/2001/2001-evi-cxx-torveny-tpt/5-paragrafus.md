@@ -108,6 +108,8 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 
 36. elszámolási rendszer: pénzügyi eszközre kötött ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására, illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
 
+36a. eredeti hitelező: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 20. pontjában meghatározott fogalom,
+
 37. külföldi elszámolóház: pénzügyi eszközre kötött ügyletek elszámolását végző olyan nem magyarországi székhelyű vállalkozás, amely nem tartozik sem a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet), sem az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról szóló, 2014. július 23-i 909/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 909/2014/EU rendelet) hatálya alá,
 
 38–39.
@@ -123,6 +125,10 @@ e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fiók
 43. értékpapírkód: az értékpapír sorozat azonosítására szolgáló ISIN azonosító,
 
 44. értékpapír-kölcsönzés: értékpapír tulajdonjogának olyan átruházása, amelynek keretében a kölcsönbe adó a kölcsönbe vevő részére azzal a kötelezettséggel ruház át értékpapírt, hogy a kölcsönbe vevő köteles azonos darabszámú és azonos sorozatú értékpapírt egy, a szerződésben vagy a kölcsönbe adó által meghatározott jövőbeni időpontban visszaadni a kölcsönbe adó vagy az általa megjelölt harmadik személy részére,
+
+44a. értékpapírosítás: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott fogalom,
+
+44b. értékpapírosítást kezdeményező: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 3. pontjában meghatározott fogalom,
 
 45. értékpapír-sorozat: e törvény eltérő rendelkezése hiányában az azonos előállítású, azonos jogokat megtestesítő értékpapír egy meghatározott időpontban forgalomba hozott teljes mennyisége, illetve az eltérő időpontban forgalomba hozott értékpapírok valamely későbbi időpontban azonos jogokat megtestesítő teljes mennyisége,
 
@@ -222,6 +228,8 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 86. külföldi befektetési vállalkozás: a székhely állam jogszabályi rendelkezéseinek megfelelően a Bszt. 5. §-ában meghatározott befektetési szolgáltatási tevékenységnek és kiegészítő szolgáltatásnak megfeleltethető tevékenység folytatására engedéllyel rendelkező külföldi székhelyű vállalkozás,
 
+86a. különleges célú gazdasági egység (KCGE): az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott fogalom,
+
 87. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol. A leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni,
 
 88. letéti őrzés: a Bszt.-ben meghatározott szolgáltatás,
@@ -278,6 +286,8 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 113. sorozatban kibocsátott értékpapír: ha jogszabály másként nem rendelkezik, az alapjául szolgáló jogviszonyból eredő jogokat és kötelezettségeket több azonos, egymással egyenértékű részre (névérték) osztva megtestesítő értékpapír,
 
+113a. STS értékpapírosítás: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet alapján egyszerű, átlátható és egységesített értékpapírosításnak minősülő értékpapírosítás,
+
 114. szabályozott piac: az Európai Unió tagállamának tőzsdéje és minden más olyan piaca, amely megfelel a következő feltételeknek:
 
 a) piacműködtető által működtetett, illetve irányított multilaterális rendszer,
@@ -296,11 +306,11 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 
 117. származtatott (derivatív) ügylet: olyan ügylet, amelynek értéke az alapjául szolgáló pénzügyi eszköz, deviza, áru vagy referenciaráta (alaptermék) értékétől függ és önálló kereskedés tárgyát képezi,
 
-118.
+118. szintetikus értékpapírosítás: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 10. pontjában meghatározott fogalom,
 
 118a.
 
-119. tagsági jogokat megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzben meghatározott nem pénzbeli vagyoni érték tulajdonba vételét elismerve arra kötelezi magát, hogy az értékpapír birtokosának meghatározott szavazati, vagyoni és egyéb jogokat biztosít,
+119. szponzor: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 5. pontjában meghatározott fogalom,
 
 119a. társasági esemény: az az alkalom, amikor az értékpapír tulajdonosa jogosult az értékpapírhoz kapcsolódó jogok kibocsátóval szembeni gyakorlására,
 
@@ -325,6 +335,8 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 129.
 
 130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, korlátozott rendeltetésű számla, amely kizárólag a számlavezető által nyújtott befektetési szolgáltatás, kiegészítő szolgáltatás, illetve árutőzsdei szolgáltatás során igénybe vett szolgáltatásokhoz kapcsolódó tranzakciók lebonyolítására szolgál,
+
+130a. ügyletrészsorozat: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 6. pontjában meghatározott fogalom,
 
 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 

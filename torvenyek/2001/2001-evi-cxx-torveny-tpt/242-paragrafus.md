@@ -1,3 +1,0 @@
-## Összeférhetetlenségi szabályok
-
-242. §
