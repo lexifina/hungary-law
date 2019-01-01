@@ -1,0 +1,3 @@
+13. § Az Mktv. 19/I. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a Hatóság olyan körülményt észlel, amely alapján valamely esetben felmerül az e törvény hatálya alá tartozó támogatás felhasználásával kapcsolatos olyan jogszabálysértés gyanúja, amely a központi költségvetés megkárosításához vezethet, a Hatóság megkeresi a hatáskörrel és illetékességgel rendelkező adóigazgatási szervet, vagy bejelentést, vagy feljelentést tesz. A megkeresés vagy bejelentés, illetve feljelentés alapján indult eljárás jogerős vagy végleges befejezéséig a Hatóság az érintett támogatott tekintetében folyamatban lévő eljárásokat felfüggeszti.”

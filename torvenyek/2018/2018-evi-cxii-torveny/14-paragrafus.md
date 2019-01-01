@@ -1,0 +1,3 @@
+14. § Az Mktv. 19/N. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha a (3) és (4) bekezdésben meghatározott adatok a regisztráció megkezdésekor nem állnak teljeskörűen rendelkezésre, azokban változás következett be, a filmforgalmazónak a hiányzó, illetve megváltozott adat tudomására jutását követően haladéktalanul, de legkésőbb a filmalkotás bemutatását megelőző tizenöt nappal a regisztrációt ki kell egészítenie, vagy amennyiben szükséges, a korábbi adatokat módosítania kell. A filmalkotás a (3) bekezdésben foglalt adatok hiánytalan megadását követően kap statisztikai azonosítót. A filmalkotás hazai és eredeti forgalmazója, eredeti címe és gyártási éve nem módosítható.”
