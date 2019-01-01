@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-123-00-00
 | 2016-07-01 | 2016. évi LXIV. törvény | 2004-123-00-00.24 |
 | 2017-01-01 | 2016. évi CLXXXII. törvény | 2004-123-00-00.25 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2004-123-00-00.26 |
+| 2019-01-01 | 2018. évi LII. törvény | 2004-123-00-00.27 |
