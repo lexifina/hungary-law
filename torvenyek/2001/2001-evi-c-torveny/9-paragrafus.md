@@ -10,4 +10,4 @@
 
 (6) Ha a kérelmező európai szakmai kártya igénybevételével kéri a képesítése VIII–IX/B. Fejezet szerinti elismerését, az eljáró hatóság a (2) bekezdéstől eltérően a kérelem megérkezését követő naptól számított huszonegy napon belül dönt.
 
-(7)
+(7) Az eljáró hatóság az (5) és a (6) bekezdésben foglalt határidőt két héttel meghosszabbíthatja, azzal, hogy a meghosszabbítás okát meg kell indokolnia. A közegészséget vagy a szolgáltatás igénybe vevőjének biztonságát érintő esetben az eljáró hatóság a határidőt további két héttel meghosszabbíthatja.

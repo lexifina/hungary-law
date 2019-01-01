@@ -115,3 +115,5 @@ c) az olyan kereskedelmi-műszaki jellegű munkakört betöltő személy, aki a 
 (25) Közös képzési keret valamely szakma gyakorlásához minimálisan szükséges szakmai tudás, képességek és készségek közös követelményrendszere.
 
 (26) Közös alkalmassági vizsgának minősül az az egységesített alkalmassági vizsga, amelyet meghatározott szakmai képesítéssel rendelkezők tehetnek le az azt bevezető tagállamokban.
+
+(27) A szakma gyakorlásától eltiltó döntésnek minősül a szakma gyakorlásától, foglalkoztatástól, tevékenységtől eltiltó és a szakma gyakorlását, foglalkoztatást, tevékenységet korlátozó döntés.

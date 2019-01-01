@@ -2,7 +2,7 @@
 
 4. § (1) A külföldi bizonyítványok és oklevelek elismerésével, valamint a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítványok kiállításával kapcsolatos, e törvényben meghatározott feladatok ellátása, ha e törvény másként nem rendelkezik, a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság hatáskörébe tartozik.
 
-(2) A külföldi bizonyítványok és oklevelek által tanúsított végzettségi szint e törvény II. fejezete szerinti elismerése, ha az oktatási intézményben történő továbbtanulás céljából történik, azon oktatási intézmény hatáskörébe tartozik, amelyben a kérelmező tanulmányait folytatni szándékozik.
+(2) A külföldi bizonyítványok és oklevelek által tanúsított végzettségi szintnek, szakképesítésnek, illetve szakképzettségnek a II. Fejezet, IV. Fejezet, valamint V. Fejezet szerinti elismerése, ha az oktatási intézményben történő továbbtanulás céljából történik, azon oktatási intézmény hatáskörébe tartozik, amelyben a kérelmező tanulmányait folytatni szándékozik.
 
 (3) A külföldi oklevelek által tanúsított tudományos fokozat e törvény III. Fejezete szerinti honosítása azon hazai felsőoktatási intézmény feladata, amely a felsőoktatásról szóló törvény (a továbbiakban: Ftv.) szerint a külföldi oklevélnek megfelelő tudományágban vagy művészeti ágban doktori fokozat odaítélésére jogosult.
 

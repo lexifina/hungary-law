@@ -6,7 +6,7 @@
 
 (2) Nem kell a kérelmezőnek eljárási díjat fizetnie, ha az európai szakmai kártya birtokosaként a belső piaci információs rendszerben tárolt adatainak kijavítását, kiegészítését, törlését vagy zárolását kéri az eljáró hatóságtól.
 
-(3)
+(3) Nem kell a kérelmezőnek eljárási díjat fizetnie, ha a bizonyítványa vagy oklevele elismerését felsőoktatási intézményben történő továbbtanulási céllal kérelmezi.
 
 (3a)
 

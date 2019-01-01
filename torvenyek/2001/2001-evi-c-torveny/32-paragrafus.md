@@ -2,7 +2,7 @@
 
 ## A SZAKMA RÉSZLEGES GYAKORLÁSA
 
-32. § (1) Az eljáró hatóság a kérelmező részére a szabályozott szakma részleges gyakorlását engedélyezi, ha
+32. § (1) Az eljáró hatóság eseti alapon történő mérlegelés alapján a kérelmező részére a szabályozott szakma részleges gyakorlását engedélyezi, ha
 
 a) a kérelmező a származási tagállamban teljes körűen képesített szakember annak a szakmai tevékenységnek a gyakorlására, amelynek hazai gyakorlására irányuló, e fejezet szerinti kérelmet nyújtott be,
 
@@ -20,4 +20,4 @@ c) az adott szakmai tevékenység egyértelmű módon elkülöníthető a többi
 
 (6) Ha a kérelmező számára a szakma részleges gyakorlását engedélyezték, a szakmai tevékenységet a származási tagállamban szerzett szakmai címével folytatja. Az eljáró hatóság előírhatja, hogy a kérelmező a szakmai tevékenységet a származási tagállamban használatos szakmai cím magyar fordításával folytassa. Ha a kérelmező részére a szakma részleges gyakorlását engedélyezték, a kérelmezőnek az általa nyújtott szolgáltatás igénybevevőjét egyértelműen tájékoztatnia kell arról, hogy milyen szakmai tevékenységi körre kapott engedélyt.
 
-(7) E fejezet rendelkezései nem alkalmazandók azokra a szakmákra és szakmai tevékenységekre, amelyek a VIII., IX. és a IX/A. Fejezet hatálya alá tartoznak.
+(7) E fejezet rendelkezései nem alkalmazandók azokra a kérelmezőkre, akik jogosultak szakmai képesítésüknek a VIII., a IX. és a IX/A. Fejezet szerinti elismerésére.
