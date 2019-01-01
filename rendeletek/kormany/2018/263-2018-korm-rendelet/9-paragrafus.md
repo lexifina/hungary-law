@@ -1,0 +1,5 @@
+9. § (1) A nyilvántartásba vételt végző szervezet a kreditpont-minősítési eljárással kapcsolatos döntés-előkészítési feladatok ellátása érdekében bizottságot hoz létre. A bizottság 7 tagból áll, amelyből – a bizottság elnökével együtt – 5 tagot saját hatáskörben, 2 tagot az állami adó- és vámhatóság vezetője ajánlása alapján határozatlan időre bíz meg a nyilvántartásba vételt végző szervezet.
+
+(2) A bizottság a döntés-előkészítési feladatainak ellátása során a (3) bekezdés szerinti bírálati szempontrendszer alapján vizsgálja a továbbképző szervezet által kreditpont-minősítésre benyújtott továbbképzési programot, majd javaslatot tesz a nyilvántartásba vételt végző szervezet részére a továbbképzési program kreditpont-értékére és elszámolhatósági időszakára.
+
+(3) A bizottság az ügyrendjét – amely tartalmazza a 10. § (1) bekezdésében meghatározott kreditpont-minősítési szempontoknak megfelelő bírálati rendszer leírását is – maga állapítja meg, és a nyilvántartásba vételt végző szervezet hagyja jóvá. A kreditpont-minősítési szempontoknak megfelelő bírálati rendszer leírását a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon teszi közzé.
