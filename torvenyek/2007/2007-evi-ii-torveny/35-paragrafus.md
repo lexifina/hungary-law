@@ -14,6 +14,8 @@ e) bevándorolt, letelepedett, illetve menekültként elismert harmadik országb
 
 (1a) Az (1) bekezdésben foglaltakon túl Magyarországon történő letelepedés céljából nemzeti letelepedési engedélyt a harmadik országbeli állampolgár akkor kaphat, ha letelepedése Magyarország érdekeivel összhangban áll.
 
+(1b) Amennyiben a nemzeti letelepedési engedély iránti kérelem az (1a) bekezdésben foglalt érdek hiánya miatt elutasításra kerül, a végleges elutasító döntéssel szemben indult közigazgatási perben a bíróság a döntés megváltoztatására nem jogosult.
+
 (2) Nem minősül Magyarország területén történő tartózkodás megszakításának Magyarország területének alkalmanként négy hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások összidőtartama a kérelem benyújtását megelőző három év alatt nem haladja meg a kétszázhetven napot.
 
 (3) Az idegenrendészeti hatóság Magyarország területén történő tartózkodás (2) bekezdésben meghatározottnál hosszabb megszakítása esetén is engedélyezheti a harmadik országbeli állampolgár letelepedését, amennyiben a tartózkodás megszakítására méltányolható okból – különösen külföldi gyógykezelés, illetve a harmadik országbeli állampolgár keresőtevékenységével összefüggő külföldi kiküldetések miatt – került sor.

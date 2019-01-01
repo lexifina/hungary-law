@@ -1,6 +1,6 @@
 ## A döntés közlése
 
-87/N. § (1) A határozatot az idegenrendészeti hatóság közli az ügyféllel, a képviselővel és az ügyben eljárt szakhatósággal. Amennyiben a döntés mind az ügyféllel, mind a képviselővel közlésre került, úgy a joghatások az ügyféllel történő közlés napjával állnak be.
+87/N. § (1) A határozatot az idegenrendészeti hatóság közli az ügyféllel, a képviselővel és az ügyben eljárt szakhatósággal. Amennyiben a döntés mind az ügyféllel, mind a képviselővel közlésre került, úgy a joghatások az előbb történt közlés napjával állnak be.
 
 (2) Amennyiben a döntés az ügyiratra kerül felvezetésre, az idegenrendészeti hatóság a döntéséről az ügyfelet, a képviselőt és a szakhatóságot tájékoztatja.
 

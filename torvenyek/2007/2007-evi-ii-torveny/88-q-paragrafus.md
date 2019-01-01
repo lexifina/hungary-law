@@ -16,7 +16,7 @@ d) az eljárási bírságot kiszabó,
 
 e) a fellebbezési határidő elmulasztása miatt benyújtott igazolási kérelmet elutasító,
 
-f) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott első fokú végzés ellen.
+f) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott korlátozó vagy elutasító elsőfokú végzés ellen.
 
 (4) Az elsőfokú idegenrendészeti hatóság a fellebbezést az ügy irataival együtt a fellebbezés beérkezésétől számított tíz napon – szakhatóság eljárása esetén tizenöt napon – belül terjeszti fel a másodfokú hatósághoz, kivéve, ha az idegenrendészeti hatóság a megtámadott döntést a fellebbezésben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja, visszavonja vagy a fellebbezést érdemi vizsgálat nélkül elutasítja, valamint ha a fellebbezést a felterjesztést megelőzően visszavonták. Az első fokú döntést hozó idegenrendészeti hatóság a felterjesztéssel egyidejűleg a fellebbezésről kialakított álláspontjáról is nyilatkozik.
 

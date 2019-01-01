@@ -56,7 +56,7 @@ a) a személyi adat- és lakcímnyilvántartásból,
 
 b) a bűntettesek, a kényszerintézkedés, illetve a büntetőeljárás alatt állók nyilvántartásából,
 
-c) a körözési nyilvántartásból,
+c) a közvetlen hozzáférés útján a körözési nyilvántartásból,
 
 d) a munkavállalási engedéllyel rendelkezők nyilvántartásából,
 
@@ -66,7 +66,15 @@ f) az egyéni vállalkozók nyilvántartásából és
 
 g) a közegészségügyi hatóságtól,
 
-h) a köztartozásmentes adózói adatbázisból.
+h) a köztartozásmentes adózói adatbázisból,
+
+i) a felsőoktatási információs rendszer működéséért felelős szerv által vezetett felsőoktatási információs rendszerből,
+
+j) törvényben meghatározott esetben az adóhatóságtól,
+
+k) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott juttatások vonatkozásában a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott adatkezelő szervtől,
+
+l) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
 
 (5) Az idegenrendészeti hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
 

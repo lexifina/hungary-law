@@ -20,7 +20,7 @@ h) akivel szemben jogellenes beutazás, illetve tartózkodás miatt idegenrendé
 
 i) aki hontalansága megállapítását kérte, az eljárás időtartamára, feltéve, hogy Magyarország területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
 
-j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek;
+j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g), h) pontja alapján kijelölt helyen való tartózkodásra köteleztek;
 
 k) aki az Európai Unió más tagállamában magas szintű képzettséget igénylő munkavállalás céljából tartózkodási engedélyt kérelmezett, és az EU Kék Kártya érvényességi idejének lejártát vagy az okmány visszavonását követően Magyarország területére visszatért a munkanélküliség időtartamára.
 

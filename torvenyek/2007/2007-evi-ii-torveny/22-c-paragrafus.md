@@ -6,7 +6,7 @@ b) aki érvényes tanulmányi célú tartózkodási engedéllyel rendelkezik és
 
 ha rendelkezik a 13. § (1) bekezdés a), f), g) és h)–i) pontjában meghatározott feltételekkel és a harmadik országbeli állampolgár által betölteni kívánt állás, illetve az általa indítani kívánt vállalkozás illeszkedik a kutatás vagy az elvégzett tanulmányok szintjéhez.
 
-(2) Álláskeresési vagy vállalkozásindítási célú tartózkodási engedéllyel a harmadik országbeli állampolgár a kérelem benyújtásától számított kilenc hónapig tartózkodhat Magyarország területén. Az álláskeresési vagy vállalkozásindítási célú tartózkodási engedély érvényességi idejét erre figyelemmel állapítja meg az idegenrendészeti hatóság.
+(2) Álláskeresési vagy vállalkozásindítási célú tartózkodási engedély érvényességi ideje legfeljebb kilenc hónap.
 
 (3) Az álláskeresési vagy vállalkozásindítási célú tartózkodási engedély nem hosszabbítható meg.
 

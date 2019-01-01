@@ -20,7 +20,7 @@ h) hivatalból indult idegenrendészeti eljárásban a tényállás a határozat
 
 i) a hivatalból indult idegenrendészeti eljárás jogsértést nem tárt fel,
 
-j) a 86/E. §-ban foglaltak esetében,
+j) a 86/E. §-ban vagy a 87/A. § (3a) bekezdésben foglaltak miatt az eljárás megszüntetésének van helye,
 
 k) érdemi vizsgálat nélküli elutasításnak lett volna helye, annak oka azonban az eljárás megindítását követően jutott az idegenrendészeti hatóság tudomására.
 

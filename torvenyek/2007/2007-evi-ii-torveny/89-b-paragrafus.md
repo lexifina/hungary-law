@@ -5,3 +5,5 @@
 (3) Az elévülést félbeszakítja a meg nem fizetett eljárási bírság végrehajtása iránt tett intézkedés. A félbeszakítás napjával az elévülés ismét elkezdődik.
 
 (4) Az eljárási bírság kiszabásáról rendelkező határozat véglegessé válásától számított két év elteltével nincs helye végrehajtásnak.
+
+(5) Az ismeretlen helyen vagy külföldön tartózkodó beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgárral szemben a magyar állam által megtérítési kötelezettséggel megelőlegezett költségek tekintetében elrendelt végzés végrehajtását az idegenrendészeti hatóság a beutazási és tartózkodási tilalom fennállásáig hivatalból felfüggeszti. A végrehajtás felfüggesztésének időtartama alatt az elévülés nyugszik.

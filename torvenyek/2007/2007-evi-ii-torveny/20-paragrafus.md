@@ -2,7 +2,7 @@
 
 a) jogszabály szerint önállóan, ellenérték fejében végezhető tevékenységet folytasson, vagy
 
-b) az a) pont hatálya alá nem tartozó esetben, gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, vezető tisztségviselőjeként, vezetői, képviseleti vagy felügyeleti szerve tagjaként végezze tevékenységét.
+b) az a) pont hatálya alá nem tartozó esetben, gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy vezető tisztségviselőjeként végezze tevékenységét.
 
 (2) Munkavállalás céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat,
 
@@ -18,7 +18,7 @@ a) szezonális munkavállalás célú tartózkodási engedéllyel,
 
 b) humanitárius célból kiadott tartózkodási engedéllyel,
 
-c) keresőtevékenység folytatása céljából, jövedelemszerzés vagy munkavállalás céljából, családi együttélés biztosítása céljából, kutatás céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel,
+c) keresőtevékenység folytatása céljából, jövedelemszerzés vagy munkavállalás céljából, családi együttélés biztosítása céljából, kutatás céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel, kutatói hosszú távú vagy hallgatói mobilitási tartózkodási engedéllyel, továbbá kutatói rövid távú mobilitási igazolással vagy hallgatói mobilitási igazolással,
 
 d) EU Kék Kártyával vagy
 
@@ -26,6 +26,6 @@ e) vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéll
 
 rendelkezik.
 
-(5) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár keresőtevékenységet a szorgalmi időszakban hetente legfeljebb huszonnégy órában, szorgalmi időszakon kívül évente legfeljebb kilencven napon vagy hatvanhat munkanapon végezhet teljes munkaidőben.
+(5) A tanulmányi célú és a hallgatói mobilitási tartózkodási engedéllyel, továbbá a hallgatói mobilitási igazolással rendelkező harmadik országbeli állampolgár keresőtevékenységet a szorgalmi időszakban hetente legfeljebb huszonnégy órában, szorgalmi időszakon kívül évente legfeljebb kilencven napon vagy hatvanhat munkanapon végezhet teljes munkaidőben.
 
 (6) A jövedelemszerzés céljából kiadott tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.

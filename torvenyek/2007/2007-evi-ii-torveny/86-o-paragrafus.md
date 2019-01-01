@@ -1,6 +1,6 @@
 ## Az ügyintézési határidő és a határidő számítása
 
-86/O. § (1) Az ügyintézési határidő törvény vagy kormányrendelet eltérő rendelkezése hiányában az idegenrendészeti eljárásban 21 nap. Az ügyintézési határidő a kérelemnek a hatósághoz érkezését követő napon kezdődik.
+86/O. § (1) Az ügyintézési határidő törvény vagy kormányrendelet eltérő rendelkezése hiányában az idegenrendészeti eljárásban 21 nap. Az ügyintézési határidő a kérelemnek a hatósághoz érkezését követő munkanapon kezdődik.
 
 (2) Hivatalból induló eljárás esetén az ügyintézési határidő az első eljárási cselekmény elvégzésének napján kezdődik.
 

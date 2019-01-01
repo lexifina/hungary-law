@@ -40,7 +40,9 @@ r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valam
 
 s) az összevont engedély adattartalmát és kiállításának feltételeit, valamint az összevont kérelmezési eljárás szabályait;
 
-t) a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem előterjesztésére jogosult foglalkoztatók körét.
+t) a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem előterjesztésére jogosult foglalkoztatók körét;
+
+u) a kérelem idegenrendészeti ügyindítási elektronikus felületen történő előterjesztésének részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat, és az egyes idegenrendészeti eljárásokban szakhatóságként eljáró rendvédelmi szerveket.
 
@@ -54,7 +56,7 @@ c) meghatározza az egyedi szakhatósági előírás vagy feltétel tartalmi kö
 
 d) meghatározza a szakhatósági közreműködésre, az ügyben érdemi döntésre jogosult hatóság és a szakhatóság közötti együttműködésre vonatkozó részletes eljárási szabályokat.
 
-(1c) Felhatalmazást kap a Kormány, hogy a jövedelemszerzési, munkavállalási vagy egyéb célú tartózkodási engedély jövőbeni benyújtását adott ország(ok) állampolgárai vonatkozásában rendeletben korlátozza, ha azok létszáma Magyarország számára nemzetbiztonsági kockázatot jelenthet.
+(1c) Felhatalmazást kap a Kormány, hogy a jövedelemszerzési, munkavállalási vagy egyéb célú tartózkodási engedély jövőbeni benyújtását adott ország(ok) állampolgárai vonatkozásában rendeletben korlátozza, ha azok létszáma Magyarország számára közbiztonsági vagy nemzetbiztonsági kockázatot jelenthet.
 
 (2) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben szabályozza:
 

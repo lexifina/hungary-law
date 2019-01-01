@@ -6,15 +6,17 @@ b) hontalan: akit saját joga szerint egyetlen állam sem ismer el állampolgár
 
 c) schengeni állam: az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv (a továbbiakban: Schengeni Jegyzőkönyv) 1. cikkében, illetve az 1999/435/EK tanácsi határozatban meghatározott schengeni vívmányokat, valamint az Európai Unió intézményei által az ezek hatálya alá tartozó területen hozott további intézkedéseket teljes körűen alkalmazó európai uniós tagállam és a Schengeni Jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes más állam;
 
-d) családtag: a harmadik országbeli állampolgár
+d) családtag:
 
-da) házastársa,
+da) a harmadik országbeli állampolgár vagy a magyar állampolgár házastársa,
 
-db) házastársával közös kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is),
+db) a harmadik országbeli állampolgár házastársával közös kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is),
 
-dc) eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a harmadik országbeli állampolgár szülői felügyeleti jogot gyakorol,
+dc) a harmadik országbeli állampolgár eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a harmadik országbeli állampolgár szülői felügyeleti jogot gyakorol,
 
-dd) házastársának eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a házastárs szülői felügyeleti jogot gyakorol;
+dd) a harmadik országbeli állampolgár vagy a magyar állampolgár házastársának eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a házastárs szülői felügyeleti jogot gyakorol,
+
+de) a kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelkező, a szülői felügyeleti jogát gyakorló, a magyar állampolgárral egy háztartásban élő személy;
 
 e) kísérő nélküli kiskorú: az a tizennyolcadik életévet be nem töltött harmadik országbeli állampolgár, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
 

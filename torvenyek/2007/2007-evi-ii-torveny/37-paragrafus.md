@@ -16,4 +16,6 @@ c) a harmadik országbeli állampolgár családi kapcsolatra tekintettel kiadott
 
 d) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el;
 
-e) az engedélyezéshez szükséges állampapír lejegyzése a harmadik országbeli állampolgár nemzeti letelepedési engedélye kiadásától számított 45 napon belül nem történt meg, vagy azt az értékesítésre jóváhagyott vállalkozás nem jelzi vissza az idegenrendészeti hatóságnak.
+e) az engedélyezéshez szükséges állampapír lejegyzése a harmadik országbeli állampolgár nemzeti letelepedési engedélye kiadásától számított 45 napon belül nem történt meg, vagy azt az értékesítésre jóváhagyott vállalkozás nem jelzi vissza az idegenrendészeti hatóságnak;
+
+f) a harmadik országbeli állampolgár kéri az engedély visszavonását.

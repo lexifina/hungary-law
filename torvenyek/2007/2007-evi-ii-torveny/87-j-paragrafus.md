@@ -1,5 +1,7 @@
 87/J. § (1) A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. A meghatalmazást a megbízónak és a képviselőnek saját kezű aláírásával, elektronikus ügyintézés esetén a dokumentum hitelesítés szabályai szerint kell hitelesítenie.
 
+(1a) Ha a meghatalmazás a rendelkezési nyilvántartásban szerepel, erre az ügyfélnek, illetve az eljáró képviselőnek az eljárás során hivatkoznia kell.
+
 (2) A képviselő köteles eredeti meghatalmazását vagy annak hitelesített másolatát az első kapcsolatfelvétel alkalmával az iratokhoz csatolni.
 
 (3) A harmadik országbeli állampolgár által adott, belföldön kelt meghatalmazáshoz csatolni szükséges a meghatalmazás keltezésekor a harmadik országbeli állampolgár magyarországi tartózkodását igazoló dokumentumot.

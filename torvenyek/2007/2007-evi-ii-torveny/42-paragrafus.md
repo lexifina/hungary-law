@@ -14,7 +14,7 @@
 
 a) tartózkodási jogosultsága megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
 
-b) tartózkodási engedély iránti kérelmét a 18. § (1) bekezdés b) és d) pontja alapján utasította el a hatóság;
+b) tartózkodási engedély iránti kérelmét a 18. § (1) bekezdés b) vagy d) pontja alapján utasította el a hatóság;
 
 c) az Európai Unió tagállamai területének önkéntes elhagyását kifejezetten megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasító döntésnek nem fog eleget tenni;
 

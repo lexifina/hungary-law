@@ -1,6 +1,6 @@
 ## A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra vonatkozó különös szabályok
 
-19. § (1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.
+19. § (1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve magyar állampolgár, vagy külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.
 
 (2) Családi együttélés biztosítása céljából tartózkodási engedélyt kaphat
 
@@ -28,7 +28,7 @@ b) testvére és egyenesági rokona, ha egészségi állapota miatt képtelen ö
 
 a) legfeljebb négy év, amely alkalmanként legfeljebb négy évvel meghosszabbítható, ha a családegyesítő EU Kék Kártyával rendelkezik,
 
-b) legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható, ha a családegyesítő a 38. § (1) bekezdés b) pontja alapján kiadott EK letelepedési engedéllyel rendelkezik, vagy
+b) legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható, ha a családegyesítő magyar állampolgár vagy a 38. § (1) bekezdés b) pontja alapján kiadott EK letelepedési engedéllyel rendelkezik, vagy
 
 c) – az a) és b) pontban meghatározott esetek kivételével – legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 

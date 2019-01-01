@@ -14,7 +14,9 @@ e) a harmadik országbeli állampolgár humanitárius célú tartózkodási enge
 
 f) a harmadik országbeli állampolgár kiutasítás hatálya alatt áll, és a megélhetéséhez szükséges anyagi és lakhatási feltételekkel nem rendelkezik;
 
-g) vele szemben az 54. § (1) bekezdés a) vagy b) pontja alapján idegenrendészeti őrizet elrendelésének lenne helye, és az őrizet rá nézve – különös tekintettel egészségi állapotára, életkorára – aránytalanul súlyos hátránnyal járna.
+g) vele szemben az 54. § (1) bekezdés a) vagy b) pontja alapján idegenrendészeti őrizet elrendelésének lenne helye, és az őrizet rá nézve – különös tekintettel egészségi állapotára, életkorára – aránytalanul súlyos hátránnyal járna;
+
+h) a harmadik országbeli állampolgárral szemben idegenrendészeti eljárás van folyamatban.
 
 (2) A határozat rendelkező részében meg kell határozni:
 

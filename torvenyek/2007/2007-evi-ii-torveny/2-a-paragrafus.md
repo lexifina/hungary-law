@@ -8,7 +8,7 @@ c) fogadó szervezet:
 
 ca) az a szervezet, amelyhez a vállalaton belül áthelyezett személyt áthelyezik, és amely jogi formájától függetlenül, jogszabályban meghatározottak szerint létrehozott jogi személy;
 
-cb) külön jogszabályban meghatározott kutatószervezet, felsőoktatási intézmény, oktatási intézmény, önkéntes szolgálati rendszerért felelős szervezet vagy gyakornokokat fogadó szervezet;
+cb) külön jogszabályban meghatározott kutatószervezet, felsőoktatási intézmény, oktatási intézmény, önkéntes szolgálati rendszerért felelős szervezet, és a gyakornokokat fogadó szervezet;
 
 d) vállalaton belül áthelyezett személy számára szóló engedély: olyan tartózkodási engedély, amely a tulajdonosát feljogosítja az első tagállam és adott esetben a második tagállam területén való tartózkodásra és munkavállalásra a törvényben meghatározott feltételek szerint;
 

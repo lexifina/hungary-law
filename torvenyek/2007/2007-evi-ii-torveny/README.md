@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2018-01-01 | 2017. évi CXLIII. törvény | 2007-2-00-00.51 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2007-2-00-00.52 |
 | 2018-07-26 | 2018. évi XL. törvény | 2007-2-00-00.53 |
+| 2019-01-01 | 2018. évi CXXXIII. törvény | 2007-2-00-00.54 |

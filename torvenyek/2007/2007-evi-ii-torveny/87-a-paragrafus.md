@@ -6,4 +6,6 @@
 
 (3) Amennyiben e törvény vagy kormányrendelet másként nem rendelkezik a szakhatósági eljárás ügyintézési határideje 15 nap. A szakhatóság vezetője az ügyintézési határidőt indokolt esetben egyszer 15 nappal meghosszabbíthatja, erről az eljáró idegenrendészeti hatóságot értesíteni kell. A szakhatósági eljárás időtartamába nem számít bele a 86/K. § szerinti hiánypótlás időtartama, ha a hiánypótlás olyan tényre, vagy körülményre vonatkozik, amelynek hiányában megalapozott szakhatósági állásfoglalás nem adható ki.
 
+(3a) A (3) bekezdés szerinti hiánypótlásról a szakhatóság az idegenrendészeti hatóságot haladéktalanul értesíti. Ha az ügyfél a kérelemre indult eljárásban a hiánypótlásra való felhívásnak nem tesz eleget, a szakhatóság a hiánypótlás elmulasztásáról értesíti a hatóságot, amely – ha az eljárás hivatalbóli folytatásának nincs helye – az eljárást megszünteti.
+
 (4) Amennyiben a szakhatósági eljárásra megállapított határidőn belül a szakhatóság az állásfoglalást nem közli az eljáró idegenrendészeti hatósággal, a szakhatósági hozzájárulást – ha törvény vagy kormányrendelet ettől eltérően nem rendelkezik – megadottnak kell tekinteni.

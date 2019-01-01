@@ -4,6 +4,6 @@
 
 (3) Ha a határozat kötelezést tartalmaz, a teljesítésre határidőt vagy határnapot kell megállapítani.
 
-(4) Az önállóan nem fellebbezhető egyszerűsített végzés indokolásának elegendő a döntést megalapozó jogszabályhelyek megjelölését tartalmaznia.
+(4)
 
 (5) A visszairányítás tárgyában hozott döntés formai és tartalmi követelményeire a Schengeni Határellenőrzési Kódexben foglalt rendelkezések az irányadóak.

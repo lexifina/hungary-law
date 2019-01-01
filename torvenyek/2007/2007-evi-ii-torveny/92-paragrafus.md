@@ -8,6 +8,8 @@
 
 (5) Az előlegezésről a hatóság a költségek felmerülésekor dönt, ha azonban a felmerülő költségek jelentősebb összeget érnek el, vagy más körülmény ezt indokolttá teszi, a hatóság elrendelheti, hogy az ügyfél a költségek fedezésére előreláthatóan szükséges összeget a hatóságnál előzetesen helyezze letétbe.
 
+(6) Az idegenrendészeti eljárások során, amennyiben külön jogszabályban meghatározott igazgatási szolgáltatási díj nem került meghatározásra, az illetékekről szóló 1990. évi XCIII. törvény rendelkezései szerint kell eljárni.
+
 11. CÍM
 
 JOGI SEGÍTSÉGNYÚJTÁS
