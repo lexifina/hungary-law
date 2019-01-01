@@ -16,6 +16,8 @@
 
 (7)[^11] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a Miniszterelnökség fejezet címrendjének módosításáról szóló 1600/2018. (XI. 26.) Korm. határozattal összefüggő módosításáról szóló 14/2018. (XII. 15.) MvM rendelettel (a továbbiakban: Módr5.) megállapított rendelkezéseit a Módr5. hatálybalépése[^12] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(7)[^13] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet módosításáról szóló 13/2018. (XII. 12.) MvM rendelettel (a továbbiakban: Módr5.) megállapított rendelkezéseit a Módr5. hatálybalépése[^14] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^1]: A 42. § (2) bekezdését a 4/2018. (II. 15.) MvM rendelet 3. §-a iktatta be.
 [^2]: A hatálybalépés időpontja 2018. február 16.
 [^3]: A 42. § (3) bekezdését a 7/2018. (III. 28.) MvM rendelet 1. §-a iktatta be.
@@ -28,3 +30,5 @@
 [^10]: A hatálybalépés időpontja 2018. november 13.
 [^11]: A 42. § (7) bekezdését a 14/2018. (XII. 15.) MvM rendelet 1. §-a iktatta be.
 [^12]: A hatálybalépés időpontja 2018. december 16.
+[^13]: A 42. § újabb (7) bekezdését a 13/2018. (XII. 12.) MvM rendelet 1. §-a iktatta be.
+[^14]: A hatálybalépés időpontja 2019. január 1.
