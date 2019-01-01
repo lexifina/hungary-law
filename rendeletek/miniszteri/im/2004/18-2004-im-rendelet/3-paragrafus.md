@@ -1,30 +1,25 @@
 ## A bejelentési kérelem
 
-3. § (1) A bejelentési kérelmet egy példányban kell benyújtani, és annak tartalmaznia kell
+3. §[^2] (1) A bejelentési kérelmet egy példányban kell benyújtani, és annak a használati minták oltalmáról szóló 1991. évi XXXVIII. törvény 29. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell
 
 a) a mintaoltalom megadására irányuló kérést;
 
-b)[^2] a minta címét (tárgyának rövid és szabatos megjelölését, amely nem tartalmazhat fantázianevet);
+b) a minta címét (tárgyának rövid és szabatos megjelölését, amely nem tartalmazhat fantázianevet);
 
-c) a bejelentő nevét és címét, több bejelentő esetén az igényjogosultság arányát is, ha az nem egyenlő;
+c) több bejelentő esetén az igényjogosultság arányát, ha az nem egyenlő;
 
-d) a feltaláló nevét és címét, több feltaláló esetén a szerzőség arányát is, ha az nem egyenlő; ha a feltaláló írásban kéri, hogy mellőzzék nevének feltüntetését a mintaoltalmi iratokon, erre a bejelentési kérelemben utalni kell, és a feltaláló nevét külön lapon kell megadni;
+d) több feltaláló esetén a szerzőség arányát, ha az nem egyenlő;
 
-e) képviselet esetén a képviselő nevét és címét;
+e) uniós vagy belső elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve uniós elsőbbségnél a külföldi bejelentés bejelentési napját, országát és számát, belső elsőbbségnél pedig a folyamatban lévő bejelentés ügyszámát;
 
-f) uniós vagy belső elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve uniós elsőbbségnél a külföldi bejelentés bejelentési napját, országát és számát, belső elsőbbségnél pedig a folyamatban lévő bejelentés ügyszámát;
+f) származtatás, illetőleg megosztás esetén az erre irányuló nyilatkozatot, megjelölve az alapul szolgáló bejelentés ügyszámát;
 
-g) származtatás, illetőleg megosztás esetén az erre irányuló nyilatkozatot, megjelölve az alapul szolgáló bejelentés ügyszámát;
+g) a minta kiállításon történt bemutatása esetén a kiállítási nyilatkozatot, feltüntetve a kiállítás megnevezését és időpontját;
 
-h) a minta kiállításon történt bemutatása esetén a kiállítási nyilatkozatot, feltüntetve a kiállítás megnevezését és időpontját;
+h) nyilatkozatot arról, hogy a bejelentő a minta feltalálója vagy annak jogutódja;
 
-i) nyilatkozatot arról, hogy a bejelentő a minta feltalálója vagy annak jogutódja;
+i) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes iratok lapszámát és példányszámát is.
 
-j) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes iratok lapszámát és példányszámát is;
+(2) A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány vagy a Szellemi Tulajdon Nemzeti Hivatala honlapjáról letölthető elektronikus űrlap kitöltésével is elkészíthető.
 
-k) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
-
-(2)[^3] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
-
-[^2]: A 3. § (1) bekezdés b) pontja a 30/2012. (VI. 25.) KIM rendelet 11. §-a szerint módosított szöveg.
-[^3]: A 3. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 12. §-a szerint módosított szöveg.
+[^2]: A 3. § a 30/2018. (XII. 12.) IM rendelet 17. §-ával megállapított szöveg.
