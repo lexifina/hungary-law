@@ -152,6 +152,8 @@ d)
 
 69. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti belső szabályzat jóváhagyására irányuló eljárás;
 
+70. társasház esetén a közösség ügyintézését ellátó közös képviselő vagy az intézőbizottság elnöke adatainak bejegyzésére, törlésére, megváltozására, valamint a közgyűlés által elfogadott számviteli szabályok szerinti beszámoló benyújtására és helyesbítésére irányuló eljárás;
+
 71. az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatás megállapítására irányuló hatósági eljárás;
 
 72. a fiatalok „B” kategóriás közúti járművezetői engedélyének megszerzéséhez nyújtott támogatás megállapítására irányuló hatósági eljárás.

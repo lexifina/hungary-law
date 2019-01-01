@@ -4,7 +4,7 @@ a) a tudományos, művészeti, oktatási, közművelődési, közjóléti célra
 
 b) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint ilyen ingatlanon alapított vagyoni értékű jognak a megszerzése, ha a megajándékozott az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül lakóházat épít, és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. A megajándékozott lakóházépítési szándékáról legkésőbb az illetékfizetési meghagyás véglegessé válásáig nyilatkozhat az állami adóhatóságnál;
 
-c) az olyan ajándék megszerzése, amely után az ajándékozót vagy a megajándékozottat személyi jövedelemadó, szociális hozzájárulási adó vagy egészségügyi hozzájárulás fizetési kötelezettség terheli, a munkavállalói értékpapír-juttatási program keretében megszerzett értékpapír, a Munkavállalói Résztulajdonosi Program keretében megszerzett értékpapír, üzletrész, tagi részesedés, továbbá a dolgozói üzletrészként, dolgozói részvényként személyi jövedelemadót nem viselő módon a társas vállalkozástól megszerzett üzletrész, részvény;
+c) az olyan ajándék megszerzése, amely után az ajándékozót vagy a megajándékozottat személyi jövedelemadó, szociális hozzájárulási adó fizetési kötelezettség terheli, a munkavállalói értékpapír-juttatási program keretében megszerzett értékpapír, a Munkavállalói Résztulajdonosi Program keretében megszerzett értékpapír, üzletrész, tagi részesedés, továbbá a dolgozói üzletrészként, dolgozói részvényként személyi jövedelemadót nem viselő módon a társas vállalkozástól megszerzett üzletrész, részvény;
 
 d) lakástulajdon kezelői jogának ingyenes megszerzése;
 
