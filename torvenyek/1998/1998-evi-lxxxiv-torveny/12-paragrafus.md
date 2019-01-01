@@ -14,7 +14,7 @@ b) aki fogyatékosként szociális intézményi ellátásban részesül, feltév
 
 a) aki kül- és belföldi tanulmányai folytatása vagy gyógykezelése okán átmeneti jelleggel tartózkodik a háztartáson kívül,
 
-b) akit szociális intézményben 30 napot meg nem haladóan helyeztek el, vagy
+b) akit szociális intézményben 30 napot meg nem haladóan helyeztek el, illetve a 30 napot meghaladó szociális intézményi elhelyezésére a tartós betegségére vagy súlyos fogyatékosságára tekintettel, az intézményben egyidejűleg nyújtott iskolai oktatáshoz vagy fejlesztő nevelési-oktatási tevékenységhez való hozzáférés biztosítása érdekében kerül sor, és a gyermek a szülő háztartásából csak átmeneti jelleggel kerül ki, vagy
 
 c) aki a szülő kérelmére vagy beleegyezésével a Gyvt. VI/D. Fejezetében meghatározott átmeneti gondozásban részesül.
 

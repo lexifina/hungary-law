@@ -6,4 +6,4 @@
 
 (2a) Ha a gyám egyidejűleg több gyermek után lenne jogosult a gyermekgondozási támogatás egyik vagy mindkét formájára, a támogatást részére csak egy jogcímen lehet megállapítani azzal, hogy a gyermekgondozást segítő ellátásra való jogosultság megállapítása esetén a (3) bekezdésben foglaltakat kell alkalmazni.
 
-(3) Gyermekgondozást segítő ellátásra való jogosultság egyidejűleg legfeljebb két gyermekre tekintettel állhat fenn azzal, hogy a (2a) bekezdés és e bekezdés alkalmazásában az egyazon várandósságból született ikergyermekeket egy gyermeknek kell tekinteni.
+(3) Gyermekgondozást segítő ellátásra való jogosultság egyidejűleg legfeljebb két gyermekre tekintettel állhat fenn azzal, hogy a (2a) és e bekezdés, valamint a 26. § (2) bekezdése alkalmazásában az egyazon várandósságból született ikergyermekeket egy gyermeknek kell tekinteni.

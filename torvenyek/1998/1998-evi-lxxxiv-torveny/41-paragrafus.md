@@ -8,7 +8,7 @@ b) kevesebb összegre jogosult, mint amelyet számára folyósítottak.
 
 (2) Az, aki ellátást jogalap nélkül vett fel, köteles azt visszafizetni, ha erre a felvételtől számított harminc napon belül határozattal kötelezték.
 
-(3) A (2) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást attól lehet visszakövetelni, akinek az ellátás felvétele felróható, feltéve, hogy a felvételtől vagy az ellátás megszűnésétől kevesebb mint három év telt el.
+(3) A (2) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást attól lehet visszakövetelni, akinek az ellátás felvétele felróható, feltéve, hogy a felvételtől vagy az ellátás megszűnésétől kevesebb mint öt év telt el.
 
 (4) Az ellátás felvétele akkor róható fel, ha
 

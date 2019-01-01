@@ -6,7 +6,7 @@
 
 (3)–(4)
 
-(5) Az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel megállapított 20. § (1) bekezdés a) pontját és 23. §-át a 2010. április 30-át követően született gyermekek esetében is alkalmazni kell.
+(5)
 
 (6)–(7)
 

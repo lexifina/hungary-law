@@ -32,4 +32,4 @@ j) a 2. § c) pont cb) alpontjában meghatározott személy nevére a szomszédo
 
 (4) A (2) bekezdésben meghatározott adatok közül az adatkezelésre jogosult szerv csak az adott támogatás elbírálásához szükséges adatokat kezelheti.
 
-(5) Az igényelbíráló szerv az állami adóhatóság felé fennálló adatszolgáltatási kötelezettségének teljesítése érdekében kezelheti a jogosult adóazonosító jelét.
+(5) Az igényelbíráló szerv, valamint a központi családtámogatási szerv az állami adóhatóság felé fennálló adatszolgáltatási és jogszabályon alapuló egyéb kötelezettségének teljesítése érdekében kezelheti a jogosult adóazonosító jelét.
