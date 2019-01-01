@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1-20-5Z
 | 2018-01-01 | 2015-1-20-5Z.11 | 16/2017. (XII. 13.) MEKH rendelet |
 | 2018-06-15 | 2015-1-20-5Z.12 | 4/2018. (VI. 14.) MEKH rendelet |
 | 2018-08-15 | 2015-1-20-5Z.13 | 4/2016. (VIII. 8.) MEKH rendelet |
+| 2019-01-01 | 2015-1-20-5Z.14 | 11/2018. (XII. 12.) MEKH rendelet |

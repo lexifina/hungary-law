@@ -92,4 +92,4 @@
 
 2. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^31]
 
-[^31]: A 2. melléklet a 4/2018. (VI. 14.) MEKH rendelet 11. §-ával megállapított szöveg.
+[^31]: A 2. melléklet a 11/2018. (XII. 12.) MEKH rendelet 1. §-ával megállapított szöveg.
