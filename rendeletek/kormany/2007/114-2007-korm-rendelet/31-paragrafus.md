@@ -1,8 +1,8 @@
 ## A kilencven napot meghaladó tartózkodásra
 
-## jogosító vízumok[^106]
+## jogosító vízumok[^107]
 
-## 31. §[^107] A kilencven napot meghaladó tartózkodásra jogosító vízum kiadására irányuló idegenrendészeti eljárás
+## 31. §[^108] A kilencven napot meghaladó tartózkodásra jogosító vízum kiadására irányuló idegenrendészeti eljárás
 
 a) a konzuli tisztviselő,
 
@@ -12,5 +12,5 @@ c) a regionális igazgatóság
 
 (a továbbiakban e fejezet alkalmazásában együtt: vízumkiadó hatóság) hatáskörébe tartozik.
 
-[^106]: A 31. §-t megelőző alcím a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^107]: A 31. § nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^107]: A 31. §-t megelőző alcím a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^108]: A 31. § nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.

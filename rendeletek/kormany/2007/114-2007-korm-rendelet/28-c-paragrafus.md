@@ -20,30 +20,33 @@ c) hamis adatot tartalmaz, vagy meghamisították;
 
 d) jogosultja meghalt;
 
-e)[^79] jogosultja magyar állampolgárságot szerzett.
+e)[^79] jogosultja magyar állampolgárságot szerzett;
 
-(5)[^80] A kishatárforgalmi engedély kiállítása, valamint a kiállító konzuli tisztviselő által a kishatárforgalmi engedély visszavonása tárgyában hozott döntés elleni fellebbezést az illetékes konzuli tisztviselőnél lehet előterjeszteni.
+f)[^80] jogosultja más jogcímen tartózkodási jogosultságot szerzett.
 
-(6)[^81] A fellebbezést a konzuli tisztviselő haladéktalanul felterjeszti a külpolitikáért felelős miniszternek.
+(5)[^81] A kishatárforgalmi engedély kiállítása, valamint a kiállító konzuli tisztviselő által a kishatárforgalmi engedély visszavonása tárgyában hozott döntés elleni fellebbezést az illetékes konzuli tisztviselőnél lehet előterjeszteni.
 
-(7)[^82] A fellebbezést a külpolitikáért felelős miniszter bírálja el.
+(6)[^82] A fellebbezést a konzuli tisztviselő haladéktalanul felterjeszti a külpolitikáért felelős miniszternek.
 
-(8)[^83] Ha a kishatárforgalmi engedély visszavonásáról a Rendőrség döntött, a döntés elleni fellebbezést a Rendőrségnél lehet előterjeszteni.
+(7)[^83] A fellebbezést a külpolitikáért felelős miniszter bírálja el.
 
-(9)[^84] A fellebbezést a Rendőrség másodfokon eljáró szerve bírálja el.
+(8)[^84] Ha a kishatárforgalmi engedély visszavonásáról a Rendőrség döntött, a döntés elleni fellebbezést a Rendőrségnél lehet előterjeszteni.
 
-(10)[^85] Ha a kishatárforgalmi engedély visszavonásáról a regionális igazgatóság döntött, a döntés elleni fellebbezést az illetékes regionális igazgatóságnál lehet előterjeszteni. A fellebbezést a regionális igazgatóság haladéktalanul felterjeszti a Hivatalhoz.
+(9)[^85] A fellebbezést a Rendőrség másodfokon eljáró szerve bírálja el.
 
-(11)[^86] A fellebbezést a Hivatal bírálja el.
+(10)[^86] Ha a kishatárforgalmi engedély visszavonásáról a regionális igazgatóság döntött, a döntés elleni fellebbezést az illetékes regionális igazgatóságnál lehet előterjeszteni. A fellebbezést a regionális igazgatóság haladéktalanul felterjeszti a Hivatalhoz.
+
+(11)[^87] A fellebbezést a Hivatal bírálja el.
 
 [^76]: A 28/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 5. §-a iktatta be.
 [^77]: A 28/C. § (3) bekezdése a 113/2016. (V. 30.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
 [^78]: A 28/C. § (4) bekezdés a) pontja a 411/2017. (XII. 15.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
 [^79]: A 28/C. § (4) bekezdés e) pontját a 290/2010. (XII. 21.) Korm. rendelet 34. § (1) bekezdése iktatta be.
-[^80]: A 28/C. § (5) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 113/2016. (V. 30.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.
-[^81]: A 28/C. § (6) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be.
-[^82]: A 28/C. § (7) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be.
-[^83]: A 28/C. § (8) bekezdését a 113/2016. (V. 30.) Korm. rendelet 24. § (3) bekezdése iktatta be.
-[^84]: A 28/C. § (9) bekezdését a 113/2016. (V. 30.) Korm. rendelet 24. § (3) bekezdése iktatta be.
-[^85]: A 28/C. § (10) bekezdését a 113/2016. (V. 30.) Korm. rendelet 24. § (3) bekezdése iktatta be.
-[^86]: A 28/C. § (11) bekezdését a 113/2016. (V. 30.) Korm. rendelet 24. § (3) bekezdése iktatta be.
+[^80]: A 28/C. § (4) bekezdés f) pontját a 277/2018. (XII. 21.) Korm. rendelet 12. §-a iktatta be.
+[^81]: A 28/C. § (5) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 113/2016. (V. 30.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^82]: A 28/C. § (6) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^83]: A 28/C. § (7) bekezdését a 290/2010. (XII 21.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^84]: A 28/C. § (8) bekezdését a 113/2016. (V. 30.) Korm. rendelet 24. § (3) bekezdése iktatta be.
+[^85]: A 28/C. § (9) bekezdését a 113/2016. (V. 30.) Korm. rendelet 24. § (3) bekezdése iktatta be.
+[^86]: A 28/C. § (10) bekezdését a 113/2016. (V. 30.) Korm. rendelet 24. § (3) bekezdése iktatta be.
+[^87]: A 28/C. § (11) bekezdését a 113/2016. (V. 30.) Korm. rendelet 24. § (3) bekezdése iktatta be.

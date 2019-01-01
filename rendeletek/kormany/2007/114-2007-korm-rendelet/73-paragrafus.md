@@ -1,3 +1,3 @@
-## Az emberkereskedelem áldozatává vált harmadik országbeli állampolgár ellátása, támogatása[^237]
+## Az emberkereskedelem áldozatává vált harmadik országbeli állampolgár ellátása, támogatása[^245]
 
-[^237]: A 73. §-t megelőző alcím a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^245]: A 73. §-t megelőző alcím a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés a) pontja szerint módosított szöveg.

@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-114-20-
 | 2017-06-10 | 2007-114-20-22.48 | 113/2016. (V. 30.) Korm. rendelet |
 | 2017-07-01 | 2007-114-20-22.49 | 113/2016. (V. 30.) Korm. rendelet |
 | 2018-01-01 | 2007-114-20-22.50 | 411/2017. (XII. 15.) Korm. rendelet |
+| 2019-01-01 | 2007-114-20-22.51 | 277/2018. (XII. 21.) Korm. rendelet |

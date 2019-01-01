@@ -2,15 +2,15 @@
 
 ## és tartózkodási tilalom elrendelése
 
-114. §[^360] (1) Idegenrendészeti kiutasítás elrendelésére – a (2) bekezdésben meghatározott kivétellel – a regionális igazgatóság jogosult.
+114. §[^370] (1) Idegenrendészeti kiutasítás elrendelésére – a (2) bekezdésben meghatározott kivétellel – a regionális igazgatóság jogosult.
 
-(2)[^361] A Tv. 43. § (2) bekezdés a) pontja alapján a Rendőrség jogosult idegenrendészeti kiutasítás elrendelésére, feltéve, hogy Magyarország államhatárának jogellenes átlépését vagy ennek kísérletét a Schengeni határ-ellenőrzési kódex 2. cikk 10. pontjában meghatározott határellenőrzési tevékenysége kapcsán, a határterületen észlelte, és a harmadik országbeli állampolgár kiutasításának végrehajtására visszafogadási egyezmény alapján kerülhet sor.
+(2)[^371] A Tv. 43. § (2) bekezdés a) pontja alapján a Rendőrség jogosult idegenrendészeti kiutasítás elrendelésére, feltéve, hogy Magyarország államhatárának jogellenes átlépését vagy ennek kísérletét a Schengeni határ-ellenőrzési kódex 2. cikk 10. pontjában meghatározott határellenőrzési tevékenysége kapcsán, a határterületen észlelte, és a harmadik országbeli állampolgár kiutasításának végrehajtására visszafogadási egyezmény alapján kerülhet sor.
 
-(2a)[^362] A Tv. 43. § (2) bekezdés b) pontja alapján a menekültügyi hatóság a menedékjogról szóló 2007. évi LXXX. törvényben meghatározott esetekben jogosult kiutasítás elrendelésére.
+(2a)[^372] A Tv. 43. § (2) bekezdés b) pontja alapján a menekültügyi hatóság a menedékjogról szóló 2007. évi LXXX. törvényben meghatározott esetekben jogosult kiutasítás elrendelésére.
 
-(2b)[^363] A menekültügyi hatóság által elrendelt kiutasítás végrehajtására a harmadik országbeli állampolgár tartózkodásának helye szerint illetékes regionális igazgatóság intézkedik.
+(2b)[^373] A menekültügyi hatóság által elrendelt kiutasítás végrehajtására a harmadik országbeli állampolgár tartózkodásának helye szerint illetékes regionális igazgatóság intézkedik.
 
-(3)[^364] Önálló beutazási és tartózkodási tilalom elrendelésére
+(3)[^374] Önálló beutazási és tartózkodási tilalom elrendelésére
 
 a) a Tv. 43. § (1) bekezdés a)–b) pontja alapján a Hivatal,
 
@@ -18,7 +18,7 @@ b) a Tv. 43. § (1) bekezdés c)–d) pontja alapján – a c) pontban foglalt k
 
 c) a Tv. 43. § (1) bekezdés d) pontja alapján, amennyiben a harmadik országbeli állampolgár a Rendőrség által elrendelt idegenrendészeti kiutasítás végrehajtásának költségeit nem térítette meg, a Rendőrség,
 
-d)[^365] a Tv. 43. § (1) bekezdés e) és f) pontja alapján az országos illetékességgel rendelkező Dél-dunántúli Regionális Igazgatóság
+d)[^375] a Tv. 43. § (1) bekezdés e) és f) pontja alapján az országos illetékességgel rendelkező Dél-dunántúli Regionális Igazgatóság
 
 jogosult.
 
@@ -28,7 +28,7 @@ a) a Tv. 43. § (1) bekezdés c) pontja alapján a nyomozó hatóság, az Alkotm
 
 b) a Tv. 43. § (1) bekezdés e) pontja alapján kizárólag a szabálysértési hatóság, a bíróság vagy a helyszíni bírság kiszabására jogosult hatóság
 
-c)[^366] a Tv. 43. § (1) bekezdés f) pontja alapján kizárólag a vámigazgatási bírság kiszabására jogosult hatóság
+c)[^376] a Tv. 43. § (1) bekezdés f) pontja alapján kizárólag a vámigazgatási bírság kiszabására jogosult hatóság
 
 javaslatára rendelhető el.
 
@@ -48,10 +48,10 @@ javaslatára rendelhető el.
 
 (7) Amennyiben a külpolitikáért felelős miniszter a vízumeljárás alapján a vízumkérelmezőre vonatkozóan a Tv. 43. § (1) bekezdés c) pontjában foglaltak fennállását valószínűsíti, erről haladéktalanul értesíti a veszélyeztetett érdek védelméért felelős rendvédelmi szervet.
 
-[^360]: A 114. § a 290/2010. (XII. 21.) Korm. rendelet 60. §-ával megállapított szöveg.
-[^361]: A 114. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése, a 441/2016. (XII. 16.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^362]: A 114. § (2a) bekezdését a 204/2015. (VII. 23.) Korm. rendelet 4. §-a iktatta be.
-[^363]: A 114. § (2b) bekezdését a 204/2015. (VII. 23.) Korm. rendelet 4. §-a iktatta be.
-[^364]: A 114. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^365]: A 114. § (3) bekezdés d) pontja a 333/2014. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^366]: A 114. § (4) bekezdés c) pontját a 333/2014. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^370]: A 114. § a 290/2010. (XII. 21.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^371]: A 114. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése, a 441/2016. (XII. 16.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^372]: A 114. § (2a) bekezdését a 204/2015. (VII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^373]: A 114. § (2b) bekezdését a 204/2015. (VII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^374]: A 114. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^375]: A 114. § (3) bekezdés d) pontja a 333/2014. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^376]: A 114. § (4) bekezdés c) pontját a 333/2014. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
