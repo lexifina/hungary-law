@@ -4,7 +4,7 @@
 
 (2) A kérelmet a Központ által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – e célra rendszeresített, és a Magyar Államkincstár honlapján, valamint a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon a nyugdíjfolyósító szervhez kell benyújtani. Az adatlap és az elektronikus űrlap tartalmazza
 
-a) az ellátásban részesülő, vele közös háztartásban élő házastársa, élettársa és a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. tv.) 29/A. § (4) bekezdése szerinti kedvezményezett eltartottak (a továbbiakban: kedvezményezett eltartott) természetes személyazonosító adatait, lakcímét és Társadalombiztosítási Azonosító Jelét,
+a)[^14] az ellátásban részesülő, vele közös háztartásban élő házastársa, élettársa és a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. tv.) 29/A. § (5) bekezdése szerinti eltartottak (a továbbiakban: eltartott) természetes személyazonosító adatait, lakcímét és Társadalombiztosítási Azonosító Jelét,
 
 b) a nyilatkozatot a családi kedvezmény, családi járulékkedvezmény jogcíméről,
 
@@ -16,7 +16,7 @@ d) a T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján igényelt ö
 
 a) az Szja. tv. 29/A. § (4) bekezdés b) pontja szerinti kedvezményezett eltartott esetén a várandósságról kiállított orvosi igazolást, és
 
-b) az ellátásban részesülőnek, valamint az ellátásban részesülővel közös háztartásban élő házastársnak, élettársnak – az ő és a kedvezményezett eltartottak természetes személyazonosító adatait, lakóhelyét és adóazonosító adatait tartalmazó – hozzájáruló nyilatkozatát az (5) bekezdés szerinti igazolás kiadásához.
+b)[^15] az ellátásban részesülőnek, valamint az ellátásban részesülővel közös háztartásban élő házastársnak, élettársnak – az ő és az eltartottak természetes személyazonosító adatait, lakóhelyét és adóazonosító adatait tartalmazó – hozzájáruló nyilatkozatát az (5) bekezdés szerinti igazolás kiadásához.
 
 (4) Az ellátásban részesülő személy halála esetén a kérelmet az együtt élő házastárs, ennek hiányában az örökös nyújthatja be. Ha az örökösi minőséget nem igazolják, a jogerős hagyatékátadó végzést, illetve öröklési bizonyítványt a nyugdíjfolyósító szerv a közjegyzőtől szerzi be.
 
@@ -26,7 +26,7 @@ b) az ellátásban részesülőnek, valamint az ellátásban részesülővel kö
 
 a) az ellátásban részesülő személy és a – (3) bekezdés b) pontja szerinti hozzájáruló nyilatkozatban – vele közös háztartásban élő házastársként, élettársként feltüntetett személy természetes személyazonosító adatait és lakóhelyét,
 
-b) az a) pont szerinti személyek és a személyi jövedelemadóról szóló bevallásában kedvezményezett eltartottként megjelölt személyek természetes személyazonosító adatait és lakóhelyét, illetve a várandósságról szóló nyilatkozat tényét, és
+b)[^16] az a) pont szerinti személyek és a személyi jövedelemadóról szóló bevallásában eltartottként megjelölt személyek természetes személyazonosító adatait és lakóhelyét, illetve a várandósságról szóló nyilatkozat tényét, és
 
 c) az a) pont szerinti személyek által az adóévben igénybe vett családi kedvezmény és családi járulékkedvezmény összegét.
 
@@ -36,3 +36,6 @@ c) az a) pont szerinti személyek által az adóévben igénybe vett családi ke
 
 [^12]: A 8. §-t a 457/2017. (XII. 28.) Korm. rendelet 374. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^13]: A 9. § a 457/2017. (XII. 28.) Korm. rendelet 373. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 9. § (2) bekezdés a) pontja a 322/2018. (XII. 28.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^15]: A 9. § (3) bekezdés b) pontja a 322/2018. (XII. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^16]: A 9. § (6) bekezdés b) pontja a 322/2018. (XII. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
