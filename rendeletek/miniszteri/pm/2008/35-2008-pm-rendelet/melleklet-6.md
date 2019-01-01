@@ -8,7 +8,7 @@
 
 | II. Az adatbejelentő adatai |
 
-| 1. Az adatbejelentő neve: ______________________________________________________________ 2. Születési helye: _________________________________________________________város/község 3. Születési ideje: ________ év ____ hó ____ nap 4. Anyja születési családi és utóneve: _____________________________________________________ 5. Adóazonosító jele: □□□□□□□□□□ 6. Adószáma: □□□□□□□□-□-□□ 7. Statisztikai számjele: □□□□□□□□-□□□□-□□□-□□ 8. Lakóhelye, székhelye: _____,_______________________________________________város/község _________ közterület ____közterület jelleg ___ hsz. ___ ép. ___ lh. ___em. ___ajtó. 9. Levelezési címe: _____,___________________________________________________város/község _________ közterület ____közterület jelleg ___ hsz. ___ ép. ___ lh. ___em. ___ajtó. 10. Az adatbejelentést kitöltő neve (ha eltér az adatbejelentőtől): _________________________________________________________________________________ Telefonszáma: _______________________, e-mail címe: _________________________________ |
+| 1. Viselt név 1.1. Családi név: ______________________, 1.2. Utónév: ______________________, 1.3. Utónév: ___________________________, 1.4. Utónév: ______________________. 2. Születési név 2.1. Családi név: ______________________, 2.2. Utónév: ______________________, 2.3. Utónév: ___________________________, 2.4. Utónév: ______________________. 3. Anyja születési neve 3.1. Családi név: ______________________, 3.2. Utónév: _____________________, 3.3. Utónév: ___________________________, 3.4. Utónév: ______________________. 4. Születési hely: __________________________________________________város/község 5. Születési idő: ________ év ____ hó ____ nap 6. Adóazonosító jel: □□□□□□□□□□ 7. Lakóhely, székhely: _____,________________________________________város/község _________ közterület ____közterület jelleg ___ hsz. ___ ép. ___ lh. ___em. ___ajtó. 8. Levelezési cím: _____,____________________________________________város/község _________ közterület ____közterület jelleg ___ hsz. ___ ép. ___ lh. ___em. ___ajtó. 9. Az adatbejelentést kitöltő neve (ha eltér az adatbejelentőtől vagy szervezet esetén): _________________________________________________________________________ 10. Telefonszám: _______________, 11. elektronikus levelezési cím: __________________ |
 
 | III. Az adatbejelentő tulajdonjogi, vagyoni értékű jogi minősége, tulajdoni (jogosultsági) hányada: |
 
@@ -110,6 +110,6 @@
 
 | □ Az önkormányzati adóhatósághoz bejelentett pénzügyi képviselő |
 
-6. melléklet a 35/2008. (XII. 31.) PM rendelethez[^14]
+6. melléklet a 35/2008. (XII. 31.) PM rendelethez[^15]
 
-[^14]: A 6. mellékletet a 77/2013. (XII. 31.) NGM rendelet 11. § c) pontja hatályon kívül helyezte.
+[^15]: A 6. mellékletet a 77/2013. (XII. 31.) NGM rendelet 11. § c) pontja hatályon kívül helyezte.

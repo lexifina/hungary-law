@@ -8,7 +8,7 @@
 
 | II. Az adatbejelentő adatai |
 
-| 1. Az adatbejelentő neve, szervezet neve:_________________________________________________ 2. Születési helye: _________________________________________________________város/község 3. Születési ideje: ________ év ____ hó ____ nap 4. Anyja születési családi és utóneve: _____________________________________________________ 5. Adóazonosító jele: □□□□□□□□□□ 6. Adószáma: □□□□□□□□-□-□□ 7. Statisztikai számjele: □□□□□□□□-□□□□-□□□-□□ 8. Lakóhelye, székhelye: _____,_______________________________________________város/község _________ közterület ____közterület jelleg ___ hsz. ___ ép. ___ lh. ___em. ___ajtó. 9. Levelezési címe: _____,___________________________________________________város/község _________ közterület ____közterület jelleg ___ hsz. ___ ép. ___ lh. ___em. ___ajtó. 10. Az adatbejelentést kitöltő neve (ha eltér az adatbejelentőtől vagy szervezet estén): _________________________________________________________________________________ Telefonszáma: _______________________, e-mail címe: _________________________________ |
+| 1. Viselt név 1.1. Családi név: ________________________, 1.2. Utónév: ______________________, 1.3. Utónév: ___________________________, 1.4. Utónév: ______________________. 2. Születési név 2.1. Családi név: ________________________, 2.2. Utónév: ______________________, 2.3. Utónév: ___________________________, 2.4. Utónév: ______________________. 2. Anyja születési neve 3.1. Családi név: ________________________, 3.2. Utónév: ______________________, 3.3. Utónév: ___________________________, 3.4. Utónév: ______________________. 3. Születési hely: ____________________________________________________város/község 4. Születési idő: ________ év ____ hó ____ nap 5. Cég, szervezet, civil szervezet elnevezése: _______________________________________. 6. Adóazonosító jel: □□□□□□□□□□ 7. Adószám: □□□□□□□□-□-□□ 8. Statisztikai számjel: □□□□□□□□-□□□□-□□□-□□ 9. Civil szervezet nyilvántartási száma: □□-□□-□□□□□□□ 10. Lakóhely, székhely: _____,__________________________________________város/község _________ közterület ____közterület jelleg ___ hsz. ___ ép. ___ lh. ___em. ___ajtó. 11. Levelezési cím: _____,_____________________________________________város/község _________ közterület ____közterület jelleg ___ hsz. ___ ép. ___ lh. ___em. ___ajtó. 12. Az adatbejelentést kitöltő neve (ha eltér az adatbejelentőtől vagy szervezet esetén): __________________________________________________________________________ 13. Telefonszám: ___________________, 15. elektronikus levelezési cím: _________________ |
 
 | III. Az adatbejelentő tulajdonjoga, vagyoni értékű joga |
 
@@ -236,6 +236,6 @@
 
 | _____________________ helység | □□□□ év | □□ hó | □□ nap | _________________________ Az adatbejelentő vagy képviselője aláírása |
 
-2. melléklet a 35/2008. (XII. 31.) PM rendelethez[^10]
+2. melléklet a 35/2008. (XII. 31.) PM rendelethez[^11]
 
-[^10]: A 2. mellékletet a 77/2013. (XII. 31.) NGM rendelet 11. § a) pontja hatályon kívül helyezte, újonnan az 52/2017. (XII. 29.) NGM rendelet 2. § (1) bekezdés 1. pontja iktatta be.
+[^11]: A 2. mellékletet a 77/2013. (XII. 31.) NGM rendelet 11. § a) pontja hatályon kívül helyezte, újonnan az 52/2017. (XII. 29.) NGM rendelet 2. § (1) bekezdés 1. pontja iktatta be, szövege a 13/2018. (XII. 18.) PM rendelet 6. § (3) bekezdés 2. pontja szerint módosított szöveg.

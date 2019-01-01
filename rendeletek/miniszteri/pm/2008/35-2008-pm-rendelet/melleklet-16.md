@@ -150,6 +150,6 @@
 
 | ____________________________ helység | ⬜⬜⬜⬜ év | ⬜⬜ hó | ⬜⬜ nap | ________________________________________ az adatbejelentő vagy képviselője (meghatalmazottja) aláírása |
 
-16. melléklet a 35/2008. (XII. 31.) PM rendelethez[^23]
+16. melléklet a 35/2008. (XII. 31.) PM rendelethez[^24]
 
-[^23]: A 16. melléklet az 54/2011. (XII. 29.) NGM rendelet 33. § (6) bekezdésével megállapított szöveg.
+[^24]: A 16. melléklet az 54/2011. (XII. 29.) NGM rendelet 33. § (6) bekezdésével megállapított szöveg.
