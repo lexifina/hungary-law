@@ -1,3 +1,3 @@
-84/A. §[^270]
+84/A. §[^276]
 
-[^270]: A 84/A. §-t a 229/2000. (XII. 23.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 266/2009. (XII. 1.) Korm. rendelet 10. § (1) bekezdés c) pontja.
+[^276]: A 84/A. §-t a 229/2000. (XII. 23.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 266/2009. (XII. 1.) Korm. rendelet 10. § (1) bekezdés c) pontja.

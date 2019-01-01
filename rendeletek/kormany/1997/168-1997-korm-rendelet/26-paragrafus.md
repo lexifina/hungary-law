@@ -1,5 +1,5 @@
 ## A baleseti rokkantsági nyugdíj
 
-26. §[^66]
+26. §[^68]
 
-[^66]: A 26. §-t a 365/2007. (XII. 23.) Korm. rendelet 18. § (1) bekezdése a) pontjának ae) alpontja hatályon kívül helyezte.
+[^68]: A 26. §-t a 365/2007. (XII. 23.) Korm. rendelet 18. § (1) bekezdése a) pontjának ae) alpontja hatályon kívül helyezte.
