@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-166-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-10-01 | 2018-166-20-22.1 | 166/2018. (IX. 17.) Korm. rendelet |
+| 2019-01-01 | 2018-166-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |

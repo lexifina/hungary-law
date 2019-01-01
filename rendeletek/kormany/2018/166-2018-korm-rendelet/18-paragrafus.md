@@ -1,5 +1,3 @@
-## 17. §[^1]
+## 17. § A 12. § (2) bekezdésében a „közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény” szövegrész helyébe a „közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény” szöveg lép.
 
 18. § Ez a rendelet az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom tanácsi irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom irányelvnek való megfelelést szolgálja.
-
-[^1]: A 17. § a 16. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
