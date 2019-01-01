@@ -8,10 +8,13 @@
 
 1.[^5]
 
-2–4.[^6]
+2. 2. melléklete a 4. melléklet,
+
+3. 4. melléklete az 5. melléklet,
+
+4. 15. melléklete a 6. melléklet
 
 [^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. § (2) bekezdése a 6. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^4]: A 3. § (2) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 40. §-a alapján nem lép hatályba.
 [^5]: A 3. § (3) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 3. § (3) bekezdés 2–4. pontja a 6. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
