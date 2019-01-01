@@ -2,6 +2,8 @@
 
 (1a) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 3. §-át, valamint 13. § (3) bekezdését az elektronikus kapcsolattartás tekintetében 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni azzal, hogy fővárosi és megyei kormányhivatal helyett állami foglalkoztatási szervet kell érteni.
 
+(1b) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2018. évi XCIV. törvénnyel (a továbbiakban: 2018. évi XCIV. tv.) megállapított 4. § (3) bekezdését és 5. § (2) bekezdését a 2018. évi XCIV. tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
 (2) A Cstv. 58. §-a a következő (2) bekezdéssel egészül ki, és ezzel egyidejűleg a jelenlegi (2) és (3) bekezdés számozása (3) és (4) bekezdésre módosul:
 
 ,,(2) Ha a felszámolás alatt álló gazdálkodó szervezetnek a Bérgarancia Alap támogatást nyújtott, a visszafizetés akkor válik esedékessé, amikor a támogatás nyújtását követően a 48. § (1) bekezdése alapján a támogatás mértékének (vagy egy részének) megfelelő pénzösszeg befolyik. Amíg a támogatás teljes összegét nem fizették vissza, addig más célra — a bérkifizetésen kívül — a felszámoló kifizetést nem teljesíthet.''

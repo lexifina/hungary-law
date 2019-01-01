@@ -1,4 +1,4 @@
-9. § (1) A támogatás visszafizetése a támogatásról szóló határozat véglegessé válását követő 70. napon, illetve, ha a felszámolási zárómérleg benyújtására a 70. napot megelőzően kerül sor, a felszámolási zárómérleg benyújtásának napját megelőző napon válik esedékessé. E rendelkezés alkalmazása szempontjából a felszámolási mérleg benyújtásának napján a zárómérleg postára adásának vagy a bírósághoz történő beadásának napját kell érteni.
+9. § (1) A támogatás visszafizetése a támogatásról szóló határozat véglegessé válását követő napon válik esedékessé.
 
 (2) A támogatás (1) bekezdés szerinti visszafizetése érdekében a külföldi gazdálkodó szervezet, illetve fióktelepe felszámolójával szemben az állami foglalkoztatási szerv köteles fellépni.
 

@@ -2,6 +2,6 @@
 
 (2) A támogatás iránti kérelem elbírálására vonatkozó eljárásra az az állami foglalkoztatási szerv illetékes, amelynek területén a felszámolás alatt álló gazdálkodó szervezet székhelye, ennek hiányában fióktelepe, telephelye van. Ha a gazdálkodó szervezet nem rendelkezik magyarországi székhellyel, fiókteleppel vagy telephellyel, akkor a támogatási igény elbírálására vonatkozó eljárás lefolytatására az állami foglalkoztatási szervként eljáró Budapest Főváros Kormányhivatala az illetékes.
 
-(3) Az állami foglalkoztatási szerv a támogatásról a kérelem benyújtását követő 10 napon belül dönt.
+(3) A bérgarancia eljárásban az ügyintézési határidő 10 nap.
 
 (4) Az állami foglalkoztatási szerv által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.

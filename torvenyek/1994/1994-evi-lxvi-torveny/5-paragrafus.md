@@ -1,10 +1,10 @@
 5. § (1) A támogatás kamatmentes.
 
-(2) A támogatás nyújtása esetén az állami foglalkoztatási szerv a kérelem átvételétől számított 15 napon belül intézkedik a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből
+(2) A támogatás megállapítása esetén az állami foglalkoztatási szerv a döntés meghozatalától számított 5 napon belül intézkedik a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből
 
 a) a 7. § (1) és (2) bekezdése szerint meghatározott bértartozás – a munkavállalót terhelő közterhekkel csökkentett – összegének a munkavállaló részére történő kifizetéséről,
 
-b) a munkavállalót terhelő közterheknek az állami adóhatóság – a felszámolás alatt álló gazdálkodó szervezet nevében a gazdálkodó szervezet adóazonosító jelének feltüntetésével – részére történő megfizetéséről, valamint
+b) a munkavállalót terhelő közterheknek az állami adó- és vámhatóság – a felszámolás alatt álló gazdálkodó szervezet nevében a gazdálkodó szervezet adószámának feltüntetésével – részére történő megfizetéséről, valamint
 
 c) a munkabért – határozat vagy jogszabály alapján – terhelő levonás teljesítéséről és a jogosult részére történő kifizetéséről.
 
