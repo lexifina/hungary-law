@@ -104,7 +104,7 @@
 
 ## (**) Ha nincs állandó lakcíme, kérjük tüntesse fel levelezési címét.
 
-2. melléklet a 17/2001. (XI. 15.) KüM rendelethez[^61]
+2. melléklet a 17/2001. (XI. 15.) KüM rendelethez[^66]
 
 ## Formanyomtatvány a költségek megtérítése iránti kérelemhez
 
@@ -126,4 +126,4 @@ A KÖLTSÉGEK MEGTÉRÍTÉSE IRÁNTI KÉRELEM [az (EU) 2015/637 irányelv 14. ci
 
 7. Melléklet: visszafizetésről szóló kötelezettségvállalási nyilatkozat (szükség szerint)
 
-[^61]: A 2. mellékletet az 5/2006. (X. 2.) KüM rendelet 3. §-a iktatta be, egyidejűleg az eredeti melléklet jelölését 1. mellékletre változtatva. A 2. mellékletet az 1/2010. (IV. 23.) KüM rendelet 4. § d) pontja hatályon kívül helyezte, újonnan a 2/2016. (IV. 15.) KKM rendelet 19. § (2) bekezdése iktatta be.
+[^66]: A 2. mellékletet az 5/2006. (X. 2.) KüM rendelet 3. §-a iktatta be, egyidejűleg az eredeti melléklet jelölését 1. mellékletre változtatva. A 2. mellékletet az 1/2010. (IV. 23.) KüM rendelet 4. § d) pontja hatályon kívül helyezte, újonnan a 2/2016. (IV. 15.) KKM rendelet 19. § (2) bekezdése iktatta be.

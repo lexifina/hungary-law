@@ -4,14 +4,15 @@
 
 (3)[^11] A hazatérési kölcsönből támogatott hazatérést az eset összes körülményének figyelembevételével a leggazdaságosabb módon kell megvalósítani.
 
-(4)[^12] A hazatérési kölcsönből az útiköltség mellett kizárólag az utazással közvetlenül összefüggő költségek fedezhetők.
+(4)[^12] A hazatérési kölcsönből kizárólag az útiköltség fedezhető.
 
-(5) A konzuli tisztviselő a hazautazáshoz szükséges menetjegyet beszerzi és azt adja át kérelmezőnek. Kölcsön nyújtása készpénz formájában csak kivételes esetben – az utazást megelőzően és az út alatt felmerülő étkezési és hasonló elkerülhetetlen költségek mértékéig – nyújtható.
+(5)[^13] A konzuli tisztviselő a hazautazáshoz szükséges menetjegyet beszerzi, és azt átadja a kérelmezőnek. Gépkocsival történő hazautazás esetén az üzemanyagköltségek és a közúthasználati díj fedezésére a hazatérési kölcsön készpénzben is nyújtható.
 
-(6)[^13] 200 EUR összeghatár felett a kölcsön nyújtásáról szóló hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A konzuli tisztviselő a miniszter hozzájárulásának beszerzése iránt soron kívül intézkedik, és a kérelemről öt munkanapon belül dönt.
+(6)[^14] 200 EUR összeghatár felett a kölcsön nyújtásáról szóló hatósági szerződés érvényességéhez a miniszter hozzájárulása szükséges. A konzuli tisztviselő a miniszter hozzájárulásának beszerzése iránt soron kívül intézkedik, és a kérelemről öt munkanapon belül dönt.
 
 [^9]: A 7. § (1) bekezdése a 2/2016. (IV. 15.) KKM rendelet 3. §-ával megállapított szöveg.
 [^10]: A 7. § (2) bekezdése az 1/2010. (IV. 23.) KüM rendelet 1. § (1) bekezdésével megállapított, a 2/2016. (IV. 15.) KKM rendelet 13. § b) pontja szerint módosított szöveg.
 [^11]: A 7. § (3) bekezdése a 2/2016. (IV. 15.) KKM rendelet 14. § a) pontja szerint módosított szöveg.
-[^12]: A 7. § (4) bekezdése a 2/2016. (IV. 15.) KKM rendelet 14. § a) pontja szerint módosított szöveg.
-[^13]: A 7. § (6) bekezdését az 1/2010. (IV. 23.) KüM rendelet 1. § (2) bekezdése iktatta be, szövege a 2/2016. (IV. 15.) KKM rendelet 12. § c) pontja szerint módosított szöveg.
+[^12]: A 7. § (4) bekezdése a 6/2018. (XII. 19.) KKM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 7. § (5) bekezdése a 6/2018. (XII. 19.) KKM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 7. § (6) bekezdését az 1/2010. (IV. 23.) KüM rendelet 1. § (2) bekezdése iktatta be, szövege a 2/2016. (IV. 15.) KKM rendelet 12. § c) pontja szerint módosított szöveg.
