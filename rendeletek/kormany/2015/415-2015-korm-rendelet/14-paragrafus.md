@@ -1,12 +1,12 @@
 14. § (1) Az országos jelentési rendszer adatai a Szociális Ágazati Portálon bárki számára hozzáférhetők.
 
-(2)[^35] A Központ az országos jelentési rendszer adatait egyedi azonosításra alkalmas módon átadja
+(2)[^37] A Központ az országos jelentési rendszer adatait egyedi azonosításra alkalmas módon átadja
 
 a) az államháztartásért felelős miniszternek és
 
 b) a Központi Statisztikai Hivatalnak.
 
-(3)[^36] Ha az engedélyest törlik a szolgáltatói nyilvántartásból, az országos jelentési rendszer adatait a Központ haladéktalanul történeti állományba helyezi, és a szolgáltatói nyilvántartás történeti állományába helyezett adatok törlésével egyidejűleg törli.
+(3)[^38] Ha az engedélyest törlik a szolgáltatói nyilvántartásból, az országos jelentési rendszer adatait a Központ haladéktalanul történeti állományba helyezi, és a szolgáltatói nyilvántartás történeti állományába helyezett adatok törlésével egyidejűleg törli.
 
-[^35]: A 14. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^36]: A 14. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^37]: A 14. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^38]: A 14. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 312. § (2) bekezdés a) pontja szerint módosított szöveg.

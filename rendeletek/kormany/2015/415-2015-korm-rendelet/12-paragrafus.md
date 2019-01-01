@@ -1,6 +1,6 @@
 ## 3. Az országos jelentési rendszer
 
-12. § (1)[^31] Az országos jelentési rendszerbe
+12. § (1)[^33] Az országos jelentési rendszerbe
 
 a) bölcsődei ellátás esetén évente kétszer, április 30-áig és szeptember 30-áig,
 
@@ -14,4 +14,4 @@ be kell jelenteni az 1. melléklet szerinti adatokat.
 
 (3) A titkos menedékházként működő családok átmeneti otthonának adatait a fenntartó nem jelenti az országos jelentési rendszerbe.
 
-[^31]: A 12. § (1) bekezdése a 381/2017. (XII. 11.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^33]: A 12. § (1) bekezdése a 381/2017. (XII. 11.) Korm. rendelet 21. §-ával megállapított szöveg.

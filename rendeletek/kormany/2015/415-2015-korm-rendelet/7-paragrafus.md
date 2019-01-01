@@ -14,17 +14,17 @@ e) fogyatékos személyek nappali ellátása,
 
 f) hajléktalan személyek nappali ellátása,
 
-g)[^10] éjjeli menedékhely,
+g)[^12] éjjeli menedékhely,
 
-h)[^11] bölcsődei ellátás és
+h)[^13] bölcsődei ellátás és
 
-i)[^12] fejlesztő foglalkoztatás
+i)[^14] fejlesztő foglalkoztatás
 
-j)–k)[^13]
+j)–k)[^15]
 
 ## esetén naponta, az adott napot követő munkanap 24 óráig, azt követően kell teljesíteni, hogy a szolgáltatást az adott napon az igénybevevőnek nyújtották.
 
-(3)[^14] Az időszakos jelentési kötelezettséget
+(3)[^16] Az időszakos jelentési kötelezettséget
 
 a) pszichiátriai betegek nappali ellátása és szenvedélybetegek nappali ellátása esetén legalább havonta, az adott hónap minden – szakmai program szerinti – nyitvatartási napjára,
 
@@ -54,8 +54,8 @@ c) a helyes adatot és
 
 d) a hiba okát.
 
-[^10]: A 7. § (2) bekezdés g) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^11]: A 7. § (2) bekezdés h) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^12]: A 7. § (2) bekezdés i) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 60. §-a iktatta be.
-[^13]: A 7. § (2) bekezdés j)–k) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte.
-[^14]: A 7. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 61. §-ával megállapítot szöveg.
+[^12]: A 7. § (2) bekezdés g) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^13]: A 7. § (2) bekezdés h) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított, a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^14]: A 7. § (2) bekezdés i) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 60. §-a iktatta be.
+[^15]: A 7. § (2) bekezdés j)–k) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte.
+[^16]: A 7. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 61. §-ával megállapítot szöveg.
