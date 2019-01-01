@@ -34,7 +34,7 @@ a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézm�
 
 b) a napközbeni gyermekfelügyelet szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
 
-feltéve, hogy nem áll fenn vele szemben a 15. § (8) bekezdésében meghatározott kizáró ok.
+feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatározott kizáró ok.
 
 (6) Napközbeni gyermekfelügyelet keretében – a 44/C. § (2) bekezdésében foglalt kivétellel – húszhetes korától annak a tanévnek a végéig gondozható
 

@@ -1,0 +1,5 @@
+## Tanoda
+
+38/B. § (1) A tanoda olyan, elsősorban rendszeres gyermekvédelmi kedvezményben részesülő, vagy hátrányos helyzetű vagy halmozottan hátrányos helyzetű gyermekek és kivételesen fiatal felnőttek számára nyújtott, önkéntesen igénybe vehető társadalmi felzárkózást segítő, a személyiségfejlődés egészét szem előtt tartó, prevenciós szolgáltatás, amely az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvétel idején kívül, valamint a tanítási szünetekben segíti elő a szociokulturális hátrányok kompenzálását, a tanulmányok folytatását, a társadalomba való sikeres beilleszkedést, az életpálya-tervezést és a szabadidő hasznos eltöltését.
+
+(2) A tanoda a szolgáltatásait a helyi sajátosságokra és a gyermekek egyéni szükségleteire építve, a szülők bevonásával, a gyermek nevelési-oktatási intézményével, a család- és gyermekjóléti szolgálattal, a család- és gyermekjóléti központtal, a helyben elérhető egyéb, az érintett korosztály számára szolgáltatást nyújtó intézménnyel, valamint szükség esetén a gyermekvédelmi jelzőrendszer egyéb tagjával együttműködve nyújtja. A szolgáltatásnyújtás helyszínén kizárólag tanoda ellátás biztosítható.

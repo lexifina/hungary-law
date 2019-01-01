@@ -18,7 +18,7 @@ b) a gyermekek napközbeni ellátása,
 
 c) a gyermekek átmeneti gondozása,
 
-d) Biztos Kezdet Gyerekház.
+d) gyermekek esélynövelő szolgáltatásai.
 
 (3) A személyes gondoskodás keretébe tartozó gyermekvédelmi szakellátások:
 
@@ -64,7 +64,7 @@ b) helyettes szülői tanácsadó, nevelőszülői tanácsadó és gyermekvédel
 
 hivatalból jár el, e tevékenységével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személynek minősül.
 
-(8) A gyermekvédelmi rendszerben a külön jogszabályban meghatározott munkakörben, valamint önkéntes jogviszonyban nem foglalkoztatható az a személy, akivel szemben a 11/A. § (8) bekezdésben meghatározott kizáró okok valamelyike fennáll, vagy aki e törvényben meghatározott igazolási kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívülálló ok következménye.
+(8)
 
 (9) Gyermekjóléti, gyermekvédelmi intézményben történő foglalkoztatás esetén a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 41. § (2) bekezdésének a) pontja nem alkalmazható.
 

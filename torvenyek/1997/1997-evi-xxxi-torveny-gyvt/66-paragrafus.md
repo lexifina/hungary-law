@@ -12,7 +12,7 @@ biztosítja.
 
 a) gyermekvédelmi gyámi, eseti gyámi hálózatot működtet,
 
-b) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv döntése alapján a gyermekek ideiglenes hatályú elhelyezését és – a gondozási hely 80/B. § (3) bekezdése szerinti azonnali megváltoztatása esetén – a gyermekek ideiglenes befogadását biztosító nevelőszülői hálózatot és gyermekotthont működtet,
+b) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv döntése alapján ideiglenes befogadást biztosító nevelőszülői hálózatot és ideiglenesen befogadó gyermekotthont működtethet,
 
 c)
 

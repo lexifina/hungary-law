@@ -28,7 +28,7 @@ c) az a) pontban, valamint a 17. § (1) bekezdésében meghatározott személyek
 
 d) tájékoztatás az egészségügyi intézményeknél működő inkubátorokból, illetve abba a gyermek örökbefogadáshoz való hozzájárulás szándékával történő elhelyezésének lehetőségéről.
 
-(3a) A gyermekjóléti szolgáltatás a gyermek veszélyeztetettségének megelőzése érdekében iskolai szociális munkát biztosíthat.
+(3a) A gyermekjóléti szolgáltatás a gyermek veszélyeztetettségének megelőzése érdekében óvodai és iskolai szociális segítő tevékenységet biztosít.
 
 (4) A gyermekjóléti szolgáltatás feladata a kialakult veszélyeztetettség megszüntetése érdekében
 

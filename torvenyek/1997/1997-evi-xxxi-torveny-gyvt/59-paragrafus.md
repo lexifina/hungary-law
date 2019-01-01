@@ -4,7 +4,7 @@
 
 (2a) A speciális, különleges vagy kettős szükségletű gyermeket fogadó lakásotthon speciális vagy különleges lakásotthonként működik.
 
-(3)
+(3) A gyermekotthon ideiglenesen befogadó gyermekotthonként működik, ha ideiglenes hatállyal elhelyezett és nevelésbe vett gyermek számára kizárólag ideiglenes gondozási helyen biztosít ellátást.
 
 (4) Ha a gyermekotthon kizárólag a fiatal felnőttek teljes körű utógondozói ellátását biztosítja, a gyermekotthon utógondozó otthonként működik.
 

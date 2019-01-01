@@ -1,6 +1,6 @@
 131. § (1) A helyi önkormányzat hatáskörébe tartozó ellátásoknál az igazolás és a nyilatkozat tartalmát, benyújtásának részletes szabályait, az elbírálás részletes szempontjait, a jövedelemszámításnál irányadó időszakot a helyi önkormányzat rendeletben szabályozza.
 
-(2) A jövedelemszámításnál irányadó időszak – ha a törvény másképpen nem rendelkezik – az Szt. 10. §-ának (2)–(5) bekezdése szerint kerül megállapításra.
+(2) A jövedelemszámításnál – ha e törvény másképpen nem rendelkezik – az Szt. 10. § (2)–(5) bekezdése szerint kell eljárni.
 
 (3) A pénzbeli és természetbeni ellátás – az azt megállapító döntés véglegessé válása esetén – a kérelem benyújtásától esedékes.
 

@@ -36,7 +36,7 @@ a) a helyettes szülő külföldön létesít szokásos tartózkodási helyet,
 
 b) a helyettes szülőt a bíróság jogerős ítélettel cselekvőképességét érintő gondnokság alá helyezte vagy számára a gyámhatóság támogatót rendelt ki,
 
-c) a helyettes szülővel szemben a 15. § (8) bekezdésében meghatározott kizáró ok következik be, vagy
+c) a helyettes szülővel szemben a 10/A. § (1) bekezdésében meghatározott kizáró ok következik be, vagy
 
 d) a bíróság a helyettes szülő szülői felügyeleti jogát jogerős ítéletével megszüntette.
 

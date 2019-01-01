@@ -4,4 +4,4 @@
 
 (2)–(5)
 
-(6) A Biztos Kezdet Gyermekház szolgáltatásban, a gyermekjóléti szolgáltatásban, valamint a mini bölcsőde, a munkahelyi bölcsőde, a családi bölcsőde, a napközbeni gyermekfelügyelet és az alternatív napközbeni ellátás formájában biztosított napközbeni ellátásban részesülők érdekvédelmére a fenntartónak érdekképviseleti fórumot nem kell működtetnie. E szolgáltatások és ellátások esetén a panaszjog gyakorlására a 36. §-ban foglaltakat kell alkalmazni.
+(6) A gyermekek esélynövelő szolgáltatásaiban, a gyermekjóléti szolgáltatásban, valamint a mini bölcsőde, a munkahelyi bölcsőde, a családi bölcsőde, a napközbeni gyermekfelügyelet és az alternatív napközbeni ellátás formájában biztosított napközbeni ellátásban részesülők érdekvédelmére a fenntartónak érdekképviseleti fórumot nem kell működtetnie. E szolgáltatások és ellátások esetén a panaszjog gyakorlására a 36. §-ban foglaltakat kell alkalmazni.

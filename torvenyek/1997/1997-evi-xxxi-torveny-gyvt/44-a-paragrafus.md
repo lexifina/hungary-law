@@ -8,7 +8,7 @@ a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézm�
 
 b) a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
 
-feltéve, hogy nem áll fenn vele szemben a 15. § (8) bekezdésében meghatározott kizáró ok.
+feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatározott kizáró ok.
 
 (3) A családi bölcsődében gondozott saját gyermek után a központi költségvetésről szóló törvényben biztosított támogatást nem lehet igénybe venni.
 

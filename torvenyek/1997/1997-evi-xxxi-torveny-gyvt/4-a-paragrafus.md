@@ -1,0 +1,1 @@
+4/A. § Nem tartozik e törvény hatálya alá az a tanoda jellegű tevékenység, amelyet az igénybe vevőtől, hozzátartozójától, vagy rájuk tekintettel harmadik személytől származó ellenszolgáltatás, és állami, helyi önkormányzati támogatás nélkül nyújtanak.

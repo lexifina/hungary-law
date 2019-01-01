@@ -12,9 +12,13 @@ b) a gyermek szülei hozzájárultak a gyermek ismeretlen személy által tört�
 
 c) a gyermek szülei ismeretlen helyen tartózkodnak, a gyermek a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény, valamint a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősül vagy a szülők bármilyen más okból nem gyakorolják szülői felügyeleti jogukat, és egyik esetben sem lehetséges családbafogadó gyám kirendelése,
 
-d) nevelésbe vette a gyermeket.
+d) nevelésbe vette a gyermeket,
+
+e) a gyermek ismeretlen szülőktől származik.
 
 (2) A gyámhatóság a gyermek számára – gondozási helyétől függetlenül – a területi gyermekvédelmi szakszolgálat javaslata alapján gyermekvédelmi gyámot rendel. A gyermek gondozási helyének megváltozása esetén a gyámhatóság kizárólag akkor rendelhet ki másik gyermekvédelmi gyámot a gyermek részére, ha az új gondozási helyen a gyámság ellátása másként nem biztosítható.
+
+(2a) A testvérek, valamint a kiskorú szülő és gyermeke részére gyermekvédelmi gyámul ugyanazt a személyt kell kirendelni, ha az a gyermek érdekével nem ellentétes.
 
 (3) A gyermekvédelmi gyám a feladatait a területi gyermekvédelmi szakszolgálattal létesített közalkalmazotti jogviszony keretében, önálló munkakörben látja el.
 

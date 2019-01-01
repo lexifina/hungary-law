@@ -60,7 +60,7 @@ ac) segítséget nyújt a bántalmazás következtében kialakult pszichés sér
 
 b) legfeljebb öt év időtartamra kiegészítő tevékenysége keretében a bántalmazott társadalmi reintegrációja érdekében félutasház-szolgáltatást nyújthat.
 
-(12) A családok átmeneti otthona a férőhelyszámon belül kialakított külső férőhelyeken biztosíthatja azoknak a családoknak az ellátását, amelyek önálló lakhatásra támogatással képesek.
+(12) A családok átmeneti otthona az otthonhoz kapcsolódó külső férőhelyeken biztosíthatja azoknak a családoknak az ellátását, amelyek önálló lakhatásra támogatással képesek.
 
 (13) A külső férőhelyen történő ellátás időtartama a 45. § (6) bekezdése és a 47. § (3) bekezdés a) pontja szerinti időtartammal együtt sem haladhatja meg a három évet.
 

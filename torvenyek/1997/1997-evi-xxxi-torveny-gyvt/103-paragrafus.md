@@ -2,7 +2,7 @@
 
 (2) Indokolt esetben a hivatásos gondnokot foglalkoztató szerv vezetője (a továbbiakban: vezető) írásban felszólíthatja a hivatásos gondnokot, hogy a felhívástól számított tizenöt munkanapon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
 
-(3) Ha a hivatásos gondnok igazolja, hogy büntetlen előéletű, a vezető az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a hivatásos gondnok részére megtéríti.
+(3)
 
 (4) A vezető a büntetlen előélet igazolása céljából kezeli
 

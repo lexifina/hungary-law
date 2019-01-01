@@ -1,16 +1,16 @@
 11/B. § (1) A gyermekjogi képviselői feladatok ellátására pályázó személy a jelentkezéskor a miniszter részére
 
-a) hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 11/A. § (8) bekezdés a)–d) pontjában meghatározott kizáró ok vele szemben nem áll fenn, valamint
+a) hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 10/A. § (1) bekezdés a)–d) pontjában meghatározott kizáró ok vele szemben nem áll fenn, valamint
 
-b) igazolja, hogy a 11/A. § (8) bekezdés e) pontjában meghatározott kizáró ok vele szemben nem áll fenn.
+b) nyilatkozik arról, hogy a 10/A. § (1) bekezdés e) pontjában meghatározott kizáró ok vele szemben nem áll fenn.
 
 (2) Ha a pályázó az (1) bekezdésben meghatározott tényeket nem igazolja, gyermekjogi képviselő nem lehet.
 
-(3) A miniszter a gyermekjogi képviselőt – a képviselet ellátásának időtartama alatt – írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja annak hatósági bizonyítvánnyal való igazolására, hogy a gyermekjogi képviselővel szemben nem állnak fenn a 11/A. § (8) bekezdés a)–d) pontjában meghatározott kizáró okok.
+(3) A miniszter a gyermekjogi képviselőt – a képviselet ellátásának időtartama alatt – írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja annak hatósági bizonyítvánnyal való igazolására, hogy a gyermekjogi képviselővel szemben nem állnak fenn a 10/A. § (1) bekezdés a)–d) pontjában meghatározott kizáró okok.
 
-(4) Ha az (3) bekezdésben meghatározott felhívásra a gyermekjogi képviselő igazolja, hogy vele szemben a 11/A. § (8) bekezdés a)–d) pontjában meghatározott kizáró okok nem állnak fenn, a miniszter az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat a gyermekjogi képviselő részére megtéríti.
+(4)
 
-(5) A miniszter a 11/A. § (8) bekezdés a)–d) pontjában meghatározott körülmények igazolása céljából kezeli
+(5) A miniszter a 10/A. § (1) bekezdés a)–d) pontjában meghatározott körülmények igazolása céljából kezeli
 
 a) gyermekjogi képviselői feladatok ellátására pályázó személy,
 

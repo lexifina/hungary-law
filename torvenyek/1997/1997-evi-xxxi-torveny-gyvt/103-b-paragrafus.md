@@ -1,4 +1,4 @@
-103/B. § (1) A Kormány által erre kijelölt szerv a szakértői tevékenység folytatására engedéllyel rendelkező személyekről névjegyzéket vezet. A névjegyzékből az e törvény szerint nyilvános adatokon túli adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható.
+103/B. § (1) A Kormány által erre kijelölt szerv a szakértői tevékenység folytatása tekintetében bejelentést tett személyekről névjegyzéket vezet. A névjegyzékből az e törvény szerint nyilvános adatokon túli adat kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható.
 
 (2) A névjegyzék tartalmazza – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 27. § (2) bekezdésében, valamint 29. §-ában meghatározottakon túl – a szakértő
 
@@ -12,7 +12,7 @@ d) egyetemi doktori címének vagy tudományos fokozatának megnevezését, az e
 
 e) szakterületének(einek) megnevezését,
 
-f) engedélye megadásának időpontját,
+f) bejelentésének időpontját,
 
 g) felkészítő képzésen, továbbképzésen való részvételének időpontját,
 
@@ -32,6 +32,6 @@ c) iskolai végzettségét, szakképzettségét, szakképesítését, egyetemi d
 
 d) szakmai tevékenységének leírását,
 
-e) engedélye megadásának időpontját.
+e) bejelentésének időpontját.
 
 (4) A Kormány által erre kijelölt szerv az adatokat a szakértőnek a névjegyzékből való kikerülése időpontjától számított 5 évig kezeli, ezt követően az adatokat törli. A névjegyzékben szereplő szakértők adatait a névjegyzékből kikerült szakértők adataitól elkülönítetten kell kezelni.

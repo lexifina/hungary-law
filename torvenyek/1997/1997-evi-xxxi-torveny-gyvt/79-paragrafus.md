@@ -50,6 +50,6 @@ d) a szülő gyermeke örökbefogadásához az örökbefogadó személyének és
 
 e) a szülő hozzájárult, hogy gyermekét általa ismert személy fogadja örökbe,
 
-f) a gyermek örökbe fogadhatóvá nyilvánításáról hozott határozat jogerőre emelkedett.
+f)
 
 (8) A gyermeknek a gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózatot működtető, a gyermekjóléti központ vagy a gyámhatóság gondoskodik.

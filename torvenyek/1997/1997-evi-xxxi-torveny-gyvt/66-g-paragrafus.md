@@ -14,6 +14,6 @@ d) – gyermekszámtól függetlenül – az a)–c) pont szerinti nevelőszül�
 
 (3) Az (1) bekezdés d) pontja szerinti esetben a működtető a nevelőszülő segítéséről másik, helyettesítésre kijelölt nevelőszülő biztosításával vagy a gyermekvédelmi intézmény által biztosított gyermekfelügyelettel is gondoskodhat.
 
-(4) Nem lehet gyermekgondozó az, akivel szemben a 15. § (8) bekezdésében meghatározott kizáró ok áll fenn.
+(4) Nem lehet gyermekgondozó az, akivel szemben a 10/A. § (1) bekezdésében meghatározott kizáró ok áll fenn.
 
 (5) Nem lehet gyermekgondozó és a nevelőszülőt nem helyettesítheti olyan másik nevelőszülő, akinek személye ellen a nevelőszülő tiltakozik.

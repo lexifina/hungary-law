@@ -12,7 +12,7 @@ d) a gyámhatóságok kijelölését, szervezetét, a gyámhatóság részletes 
 
 e) a gyermekvédelmi szakfelügyeleti feladatot ellátó személyek képesítési előírásait,
 
-f) a központi hatóság vagy hatóságok, az országos örökbefogadást elősegítő szerv,, továbbá a 82. § (1) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
+f) a központi hatóság vagy hatóságok, az országos örökbefogadást elősegítő szerv,, továbbá a 38/A. § (4) bekezdésében és a 82. § (1) bekezdésében, a 102. §-ban, a 103/A. §-ban és a 137. § (2) bekezdésében meghatározott szerv kijelölését,
 
 g) a személyes adatok kezelésére és az egységes örökbefogadási nyilvántartás vezetésére vonatkozó eljárási szabályokat, valamint az egységes örökbefogadási nyilvántartás adatfeldolgozójának feladataira vonatkozó szabályokat,
 
@@ -48,7 +48,7 @@ u) a gyermekvédelmi igazgatási bírság megállapítására és megfizetésér
 
 v) az új szolgáltatóknak, intézményeknek, hálózatoknak, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására vonatkozó részletes szabályokat,
 
-w) a Gyerekházak, a krízisközpontok, a félutas házak és a titkos menedékházak finanszírozásának rendjére vonatkozó részletes szabályokat,
+w) a gyermekek esélynövelő szolgáltatásai, a krízisközpontok, a félutas házak és a titkos menedékházak finanszírozásának rendjére vonatkozó részletes szabályokat,
 
 x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
 
@@ -82,13 +82,15 @@ j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályai
 
 k) a bölcsődében, mini bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
 
-l) a Biztos Kezdet Gyerekház szakmai feladatait és működési feltételeit,
+l) a gyermekek esélynövelő szolgáltatásainak szakmai feladatait és működési feltételeit,
 
 m) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
 
 n) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeit,
 
-o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát.
+o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát,
+
+p) a Biztos Kezdet Alapképzés szakmai és vizsgakövetelményeit.
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 

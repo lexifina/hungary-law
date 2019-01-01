@@ -23,3 +23,5 @@ járul hozzá.
 (4) A (3) bekezdés a) pontja szerinti támogatás összege a települési önkormányzat területén élő lakosság szociális helyzete, valamint az állandó lakosú gyermek száma szerint eltérő. A differenciálás alapjául szolgáló mutatókat évente a költségvetési törvény rögzíti.
 
 (5) A központi költségvetésről szóló törvényben biztosított támogatással történő támogatás szakmai céloknak megfelelő módját és mértékét a költségvetési törvény határozza meg.
+
+(6) A kincstár közreműködik a Gazdaságfejlesztési és Innovációs Operatív Programból származó támogatások célzott és ellenőrzött kihelyezésében.

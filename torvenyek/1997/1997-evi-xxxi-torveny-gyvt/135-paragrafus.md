@@ -1,4 +1,4 @@
-135. § (1) A 15. § (1)–(5) bekezdésében meghatározott ellátások, intézkedések nyújtása és megtétele, mindezek ellenőrzése, valamint biztosítása során az e törvényben meghatározott jogok érvényesülésének elősegítése céljából a (2) bekezdésben meghatározott adatok kezelésére jogosult
+135. § (1) A 15. § (1)–(5) bekezdésében és a 143. § (6) bekezdésében meghatározott ellátások, intézkedések nyújtása és megtétele, mindezek ellenőrzése, valamint biztosítása során az e törvényben meghatározott jogok érvényesülésének elősegítése céljából a (2) bekezdésben meghatározott adatok kezelésére jogosult
 
 a) a gyermekek védelmét biztosító hatósági feladat- és hatásköröket gyakorló szerv vagy személy,
 
@@ -16,7 +16,9 @@ g) a gyermekvédelmi gyám, a helyettes gyermekvédelmi gyám,
 
 h) a pártfogó felügyelői szolgálat, a megelőző pártfogó felügyelő,
 
-i) a javítóintézet.
+i) a javítóintézet,
+
+j) a kincstár.
 
 (2) Az (1) bekezdés szerinti szervek jogosultak
 

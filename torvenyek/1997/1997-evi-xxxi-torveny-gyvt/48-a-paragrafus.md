@@ -4,7 +4,7 @@
 
 (2) Befogadó szülő a helyettes szülő, a nevelőszülő, a speciális nevelőszülő és a különleges nevelőszülő.
 
-(3) Nem lehet befogadó szülő az, akivel szemben a 15. § (8) bekezdésében meghatározott kizáró ok áll fenn.
+(3) Nem lehet befogadó szülő az, akivel szemben a 10/A. § (1) bekezdésében meghatározott kizáró ok áll fenn.
 
 (4) A nevelőszülő – a működtető hozzájárulásával – helyettes szülői feladatokat is elláthat. A nevelőszülő gondozásában egyidejűleg vagy kizárólag átmeneti gondozásban lévő gyermekek vagy kizárólag gyermekvédelmi szakellátásban lévő gyermekek lehetnek, kivéve, ha a nevelőszülő az utógondozói ellátott fiatal felnőttnek és annak átmeneti gondozásban részesülő gyermekének együtt nyújt ellátást.
 

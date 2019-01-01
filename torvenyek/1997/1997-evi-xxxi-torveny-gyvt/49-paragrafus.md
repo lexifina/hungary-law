@@ -4,7 +4,7 @@
 
 (2) Helyettes szülő az a huszonnegyedik évet betöltött, cselekvőképességet érintő gondnokság alatt nem álló, támogatott döntéshozatal hatálya alatt nem álló és büntetlen előéletű személy lehet, aki
 
-a) személyisége, egészségi állapota és körülményei alapján alkalmas a gyermek átmeneti gondozására, és vállalja, hogy a szükséges ideig a nála elhelyezendő gyermeket gondozza, neveli, feltéve, hogy vele szemben nem áll fenn a 15. § (8) bekezdésében meghatározott kizáró ok, és
+a) személyisége, egészségi állapota és körülményei alapján alkalmas a gyermek átmeneti gondozására, és vállalja, hogy a szükséges ideig a nála elhelyezendő gyermeket gondozza, neveli, feltéve, hogy vele szemben nem áll fenn a 10/A. § (1) bekezdésében meghatározott kizáró ok, és
 
 b) a külön jogszabályban meghatározott tanfolyamon eredménnyel részt vett.
 

@@ -8,7 +8,7 @@ c) a térítési díj fizetési kötelezettség teljesítésére, elmaradására
 
 (1a) Az állami fenntartó nyilvántartást vezet a gondozásidíj-fizetési kötelezettség teljesítésére, elmaradására, behajtására, illetve elévülésére vonatkozó adatokról.
 
-(1b) Biztos Kezdet Gyerekház szolgáltatás esetén az (1) bekezdés szerinti nyilvántartás kizárólag a 138. § (1) bekezdés a)–c) és f) pontjában foglaltakat tartalmazza.
+(1b) A gyermekek esélynövelő szolgáltatásai esetén az (1) bekezdés szerinti nyilvántartás kizárólag a 138. § (1) bekezdés a)–c) és f) pontjában foglaltakat tartalmazza.
 
 (1c) Gyermekek napközbeni ellátása esetén az (1) bekezdés szerinti nyilvántartás kizárólag a gyermek személyazonosító adatait és társadalombiztosítási azonosító jelét, valamint a 138. § (1) bekezdés b)–e) pontjában és az (1) bekezdés b) és c) pontjában foglaltakat tartalmazza.
 
@@ -58,13 +58,15 @@ b)
 
 c)
 
-d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén,
+d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén, valamint az óvodai és iskolai szociális munka esetén, ha az közösségi vagy csoportos formában történik,
 
-e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban, a 62–63. §-ban, a 66. § (1) és (2) bekezdésében, a 66. § (3) bekezdés a) és d)–f) pontjaiban meghatározott szolgáltatások, ellátások esetén.
+e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban, a 62–63. §-ban, a 66. § (1) és (2) bekezdésében, a 66. § (3) bekezdés a) és d)–f) pontjaiban meghatározott szolgáltatások, ellátások esetén,
 
-(3a) Gyermekjóléti szolgáltatás esetében csak a (2) bekezdés a) pont aa) és ac) alpontja szerinti adatokat kell nyilvántartásba venni, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható.
+f) a Biztos Kezdet Gyerekház szolgáltatásnál, ha a fenntartó a központi költségvetésből támogatásban nem részesül.
 
-(3b) Biztos Kezdet Gyerekház szolgáltatás esetében csak a (2) bekezdés a), c) és d) pontja szerinti adatokat kell nyilvántartásba venni.
+(3a) Gyermekjóléti szolgáltatás esetében csak a (2) bekezdés a) pont aa) és ac) alpontja szerinti adatokat kell nyilvántartásba venni, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható, vagy ha az óvodai és iskolai szociális munka egyéni formában történik.
+
+(3b) A gyermekek esélynövelő szolgáltatásai esetében csak a (2) bekezdés a), c) és d) pontja szerinti adatokat kell nyilvántartásba venni.
 
 (4) A (2) bekezdés szerinti nyilvántartásból a személyes gondoskodást nyújtó gyermekjóléti alapellátás és gyermekvédelmi szakellátás igénybevételének megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat. A nyilvántartásból – ha törvény eltérően nem rendelkezik – adat nem továbbítható.
 

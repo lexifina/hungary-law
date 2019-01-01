@@ -34,7 +34,9 @@ be) utógondozást végez – a gyermekvédelmi gyámmal együttműködve, a 86.
 
 bf) védelembe vett gyermek esetében elkészíti a gondozási-nevelési tervet, szociális segítőmunkát koordinál és végez, illetve a gyámhatóság megkeresésére a családi pótlék természetbeni formában történő nyújtásához kapcsolódó pénzfelhasználási tervet (a továbbiakban: pénzfelhasználási terv) készít;
 
-c) szakmai támogatást nyújt az ellátási területén működő gyermekjóléti szolgálatok számára.
+c) szakmai támogatást nyújt az ellátási területén működő gyermekjóléti szolgálatok számára;
+
+d) elkészíti a szociális diagnózist az Szt. 64/A. §-a szerint.
 
 (3) A gyermekjóléti központ a (2) bekezdés a) pont ad) alpontja, valamint a (2) bekezdés b) és c) pontja szerinti feladatainak ellátására a települési önkormányzat egyházi fenntartóval és nem állami fenntartóval ellátási szerződést nem köthet.
 

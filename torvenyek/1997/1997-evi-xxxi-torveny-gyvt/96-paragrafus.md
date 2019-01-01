@@ -14,13 +14,13 @@
 
 (7) Gyermekek napközbeni ellátása esetén a jogszabályban meghatározott szakmai, módszertani feladatokat a miniszter által kijelölt szervezet, egyéb esetben az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv (a továbbiakban együtt: módszertani feladatokat ellátó szerv) látja el.
 
-(8) A miniszter – az egyházi fenntartó kérelmére – a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki (a továbbiakban: kijelölt egyházi módszertani intézmény) az egyházi fenntartású nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
+(8) A miniszter – az egyházi fenntartó kérelmére – a tanoda szolgáltatást, nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki (a továbbiakban: kijelölt egyházi módszertani intézmény) az egyházi fenntartású tanodák, nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
 
 (8a)
 
 (9) A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
-(10) A kijelölt egyházi módszertani intézmény feladatkörében, a bevett egyháza által fenntartott nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
+(10) A kijelölt egyházi módszertani intézmény feladatkörében, a bevett egyháza által fenntartott tanoda szolgáltatást, nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
 
 a) részt vesz a minőségfejlesztési elvek kidolgozásában,
 

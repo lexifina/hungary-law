@@ -26,7 +26,11 @@ f) magatartási szabályokat állapít meg a gyermek számára a kifogásolt mag
 
 g) figyelmezteti a szülőt helytelen életvezetésének, magatartásának következményére, és felszólítja annak megváltoztatására, figyelmezteti továbbá a szülőt az (5) bekezdés szerinti jogkövetkezményre,
 
-h) kötelezheti a szülőt és a gyermeket, illetve felkérheti a konfliktusban érintett más személyt arra, hogy a nevelési-oktatási intézményben előforduló erőszak miatt kialakult helyzet vagy más súlyos konfliktushelyzet kezelése érdekében jelenjen meg iskolapszichológusi vizsgálaton, illetve vegye igénybe a konfliktuskezelést segítő szolgáltatást.
+h) kötelezheti a szülőt és a gyermeket, illetve felkérheti a konfliktusban érintett más személyt arra, hogy a nevelési-oktatási intézményben előforduló erőszak miatt kialakult helyzet vagy más súlyos konfliktushelyzet kezelése érdekében jelenjen meg iskolapszichológusi vizsgálaton, illetve vegye igénybe a konfliktuskezelést segítő szolgáltatást,
+
+i) kötelezi a kapcsolattartásra jogosult szülőt, hogy keressen fel valamely családvédelemmel foglalkozó személyt vagy szervezetet,
+
+j) figyelmezteti a kapcsolattartásra jogosult szülőt helytelen életvezetésének, magatartásának következményére, felszólítja annak megváltoztatására, valamint tájékoztatja a kapcsolattartás korlátozásának, szüneteltetésének és megvonásának jogszabályi feltételeiről.
 
 (4) A gyermekjóléti központ munkatársa a védelembe vételt elrendelő határozat véglegessé válásától számított tizenöt napon belül a gyermekre, illetve a (2) bekezdés szerinti fiatalkorúra vonatkozóan egyéni gondozási-nevelési tervet készít, melyhez szükség szerint a 132. § (1) bekezdésében meghatározott szerveket vagy személyeket kereshet meg.
 
