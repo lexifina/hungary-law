@@ -1,31 +1,15 @@
-12. §[^53] (1) A Honvéd Vezérkar főnökének helyettesei
+## 8. A Magyar Honvédség Parancsnokság
 
-a) szolgálati elöljárói a Honvéd Vezérkar főnökének alárendelt szervek és szervezetek állományába tartozó katonáknak,
+12. § (1) A Magyar Honvédség Parancsnokság az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti középirányító szerve az alárendeltségébe tartozó – költségvetési szervként működő – katonai szervezeteknek.
 
-b) gyakorolják a jogszabályokban, a közjogi szervezetszabályozó eszközökben és a belső rendelkezésekben hatáskörükbe utalt jogköröket, továbbá ellátják mindazokat a feladatokat, amelyekkel a Honvéd Vezérkar főnöke eseti jelleggel megbízza őket,
+(2) A Magyar Honvédség Parancsnokság az (1) bekezdés szerinti középirányító szervként – ha törvény vagy kormányrendelet eltérően nem rendelkezik –
 
-c) a minisztériumon belül a feladat- és hatáskörét érintő döntések előkészítése során a helyettes államtitkárral azonos egyeztetési joggal rendelkeznek.
+a) az Áht. 9. § b) pontjában,
 
-(2) A Honvéd Vezérkar főnökének a minisztérium szervezeti és működési szabályzatában kijelölt helyettese
+b) az Áht. 9. § d) pontjában,
 
-a) összehangolja a befogadó nemzeti támogatás katonai logisztikai követelményeinek és feladatainak meghatározását,
+c) – a költségvetési szerv tevékenységének törvényességi és szakszerűségi ellenőrzése (ide nem értve a költségvetési szerv tevékenységének a pénzügyi ellenőrzését) kivételével – az Áht. 9. § e) pontjában és
 
-b) összehangolja az elektronikai hadviseléssel, az információs műveleti képességekkel kapcsolatos tevékenységet,
+d) az Áht. 9. §
 
-c) javaslatot tesz a csapatkiképzés fő irányaira, gondoskodik a kiképzési feltételek folyamatos biztosításáról, jóváhagyja a központi kiképzési objektumok elosztási tervét,
-
-d) összehangolja a katonai rendészeti, az őrzés-védelmi, az objektumbiztonsági, a komendáns és a helyőrségi feladatok végrehajtását,
-
-e) meghatározza a hadtudományi kutatás-fejlesztéssel kapcsolatos katonai követelményeket,
-
-f) vezeti a Tábornoki Előmeneteli Bizottságot,
-
-g) közvetlenül szervezi a Honvéd Vezérkar főnöke és az e bekezdés szerinti feladat- és hatáskörébe tartozó döntések szakmai előkészítését és végrehajtását, és ezzel összefüggésben összehangolja a Honvéd Vezérkar tevékenységét,
-
-h) felelős a Honvéd Vezérkar hatáskörébe tartozó belső rendelkezések kidolgozásáért, módosításának előkészítéséért,
-
-i) koordinálja a Honvéd Vezérkar egységes szakmai véleményének kialakításával összefüggő és a belső információs rendszerek szakmai kommunikációs felügyeletével kapcsolatos tevékenységet,
-
-j) vezeti, felügyeli a katonai igazgatással kapcsolatos stratégiai szintű feladatok tervezését.
-
-[^53]: A 12. § a 168/2016. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
+g)–i) pontjában

@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-290-20-
 | 2018-01-01 | 2011-290-20-22.22 | 457/2017. (XII. 28.) Korm. határozat |
 | 2018-02-15 | 2011-290-20-22.23 | 20/2018. (II. 14.) Korm. rendelet |
 | 2018-05-22 | 2011-290-20-22.24 | 96/2018. (V. 22.) Korm. rendelet |
+| 2019-01-01 | 2011-290-20-22.25 | 281/2018. (XII. 21.) Korm. rendelet |

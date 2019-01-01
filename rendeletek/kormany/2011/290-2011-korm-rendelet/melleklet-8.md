@@ -60,11 +60,11 @@
 
 ## D) Légijárművekre vonatkozóan:
 
-## 1.[^168] A légijármű az érvényes üzemeltetési okmányokban előírtaknak megfelelően legyen üzemképes állapotban.
+## 1.[^154] A légijármű az érvényes üzemeltetési okmányokban előírtaknak megfelelően legyen üzemképes állapotban.
 
-## 2.[^169] Az átadás időpontjáig esedékes időszakos, repülési eszközökhöz, évszakokhoz kötött karbantartási, műszaki munkák legyenek végrehajtva.
+## 2.[^155] Az átadás időpontjáig esedékes időszakos, repülési eszközökhöz, évszakokhoz kötött karbantartási, műszaki munkák legyenek végrehajtva.
 
-## 3.[^170] A légijárművekkel együtt át kell adni
+## 3.[^156] A légijárművekkel együtt át kell adni
 
 ## a) az üzemeltetéshez és karbantartáshoz, egyszerű javításokhoz szükséges rendszeresített szerszámkészletet és egyéb tartozékokat;
 
@@ -84,72 +84,6 @@
 
 8. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
-A légiriadó elrendelésének és feloldásának szövege
-
-a) Magyarország egész területére:
-
-„ADÁSUNKAT MEGSZAKÍTJUK
-
-ADÁSUNKAT MEGSZAKÍTJUK
-
-FIGYELEM! FIGYELEM!
-
-AZ ORSZÁG EGÉSZ TERÜLETÉRE LÉGIRIADÓ!
-
-AZ ORSZÁG EGÉSZ TERÜLETÉRE LÉGIRIADÓ!”
-
-vagy
-
-„ADÁSUNKAT MEGSZAKÍTJUK
-
-ADÁSUNKAT MEGSZAKÍTJUK
-
-FIGYELEM! FIGYELEM!
-
-LÉGIRIADÓ ELMÚLT!
-
-LÉGIRIADÓ ELMÚLT!”
-
-b) a veszélyeztetett területre
-
-„ADÁSUNKAT MEGSZAKÍTJUK
-
-ADÁSUNKAT MEGSZAKÍTJUK
-
-FIGYELEM! FIGYELEM!
-
-DUNÁNTÚL! DUNÁNTÚL!
-
-vagy
-
-DUNA-TISZA KÖZE! TISZÁNTÚL!
-
-DUNA-TISZA KÖZE! TISZÁNTÚL!
-
-LÉGIRIADÓ!
-
-LÉGIRIADÓ!
-
-illetve
-
-„ADÁSUNKAT MEGSZAKÍTJUK
-
-ADÁSUNKAT MEGSZAKÍTJUK
-
-FIGYELEM! FIGYELEM!
-
-DUNÁNTÚL! DUNÁNTÚL!
-
-vagy
-
-DUNA-TISZA KÖZE! TISZÁNTÚL!
-
-DUNA-TISZA KÖZE! TISZÁNTÚL!
-
-LÉGIRIADÓ ELMÚLT!
-
-LÉGIRIADÓ ELMÚLT!”
-
-[^168]: A 7. melléklet D) rész 1. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^169]: A 7. melléklet D) rész 2. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^170]: A 7. melléklet D) rész 3. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^154]: A 7. melléklet D) rész 1. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^155]: A 7. melléklet D) rész 2. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^156]: A 7. melléklet D) rész 3. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

@@ -1,3 +1,5 @@
+## 17. §[^8]
+
 ## 10. Egyes központi államigazgatási szervek vezetőinek honvédelmi igazgatási feladatai
 
 18. § (1) A központi államigazgatási szerv – kivéve az autonóm államigazgatási szerv és az önálló szabályozó szerv – vezetője
@@ -20,10 +22,13 @@ h) közreműködik a központi államigazgatási szervet érintő honvédelmi fe
 
 i) beszámol a tárgyévet megelőző év honvédelmi feladatainak végrehajtásáról,
 
-j) évente november 30-áig megküldi a honvédelemért felelős miniszternek a honvédelmi felkészítés feladattervében meghatározott feladatok végrehajtásáról és az e célra jóváhagyott költségvetési források felhasználásáról szóló beszámolót, valamint a honvédelmi felkészítés következő évi feladattervének összeállításához szükséges javaslatait és a szükséges költségvetési igényeket,
+j)[^9] évente a védelmi felkészítés egyes kérdéseiről szóló kormányhatározatban meghatározott határidőig megküldi a miniszternek a honvédelmi felkészítés feladattervében meghatározott feladatok végrehajtásáról és az e célra jóváhagyott költségvetési források felhasználásáról szóló beszámolót, valamint a honvédelmi felkészítés következő évi feladattervének összeállításához szükséges javaslatait és a szükséges költségvetési igényeket,
 
 k) ellátja a meghagyással kapcsolatos feladatokat,
 
 l) végzi a jogszabályban vagy kormányhatározatban részére megállapított honvédelmi feladatokat.
 
 (2) A központi államigazgatási szerv – kivéve az autonóm államigazgatási szerv és az önálló szabályozó szerv – vezetője a honvédelmi feladatok végrehajtása körében elrendelheti intézkedési tervek elkészítését, végrehajtását, gondoskodik a feladat- és hatáskörébe tartozó honvédelmi feladatok végrehajtásáról.
+
+[^8]: A 17. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte.
+[^9]: A 18. § (1) bekezdés j) pontja a 281/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.

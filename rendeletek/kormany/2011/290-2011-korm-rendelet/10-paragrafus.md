@@ -1,27 +1,29 @@
-10. § (1)[^45] A Honvéd Vezérkar főnöke szakirányítja
+## 7. A Magyar Honvédség parancsnokának feladat- és hatásköre
 
-a) a Honvédség alkalmazásával,
+10. § (1) A Magyar Honvédség parancsnoka a katonai szakmai követelmények érvényre juttatása érdekében szakmai irányítási jogkörében felelős
 
-b) a készenlét fenntartásával és fokozásával,
+a) a Honvédség alkalmazásával kapcsolatos feladatok végrehajtásáért,
 
-c) a Honvédség kiegészítésével,
+b) a Honvédség készenléte fenntartásáért és fokozásáért,
 
-d) a hadrafoghatósággal,
+c) a Honvédség kiegészítéséért,
 
-e) a kiképzéssel és a felkészítéssel,
+d) a Honvédség kiképzésével és a felkészítésével kapcsolatos feladatok végrehajtásáért,
 
-f)[^46]
+e) a nemzeti doktrínarendszer összehangolásával és az egyes nemzeti doktrínák fejlesztésével kapcsolatos feladatok végrehajtásáért,
 
-g) a műveleti egységesítéssel és szabványosítással,
+f) a katonai fegyelemért,
 
-h) a nemzeti doktrínarendszer összehangolásával és az egyes nemzeti doktrínák fejlesztésével,
+g) a Honvédség személyi állománya vonatkozásában a személyügyi igazgatási és a humánszolgálati rendszer működtetéséért,
 
-i) a katonai fegyelemmel
+h) a Honvédség védelem-egészségügyi szakfeladatainak ellátásáért,
 
-kapcsolatos felső szintű feladatok végrehajtását.
+i) a Honvédség működtetéséért és fenntartásáért,
 
-(2)[^47] A Honvéd Vezérkar főnöke pedig az (1) bekezdés g) és h) pontja szerinti szakterület szakirányítását pedig a Honvéd Vezérkar főnökének a minisztérium szervezeti és működési szabályzatában kijelölt helyettese útján gyakorolja.
+j) a műveleti tapasztalat-feldolgozó rendszer működtetéséért, a szakmai feladatokat ellátó szervezet kijelöléséért, illetve a szervezet feladat- és hatáskörének meghatározásáért.
 
-[^45]: A 10. § (1) bekezdése a 168/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^46]: A 10. § (1) bekezdés f) pontját a 20/2018. (II. 14.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^47]: A 10. § (2) bekezdése a 273/2017. (IX. 20.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 20/2018. (II. 14.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+(2) A Magyar Honvédség parancsnoka az (1) bekezdés g) pontja szerinti jogkörét a központi személyügyi szerv vezetője útján gyakorolja.
+
+(3) A Magyar Honvédség parancsnoka az (1) bekezdés h) pontja szerinti jogkörét a Honvédség egészségügyi főnöke útján gyakorolja.
+
+(4) A Magyar Honvédség parancsnoka szakmai irányítási jogkörét közvetlenül vagy – a (2) és (3) bekezdésen túl – a Magyar Honvédség Parancsnokság szervezeti és működési szabályzatában kijelölt elöljáró útján gyakorolja.

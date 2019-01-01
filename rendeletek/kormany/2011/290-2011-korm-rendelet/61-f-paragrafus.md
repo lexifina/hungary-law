@@ -6,7 +6,7 @@ a) az eljáró szerv 61/D. § (3) bekezdés szerinti megkeresésétől az érté
 
 b) a 61/E. § (2) bekezdés szerinti esetben a hiánypótlásra irányuló felhívástól az annak teljesítéséig
 
-terjedő időtartam.
+## terjedő időtartam.
 
 (3) A kártalanítási kérelem elbírálása során vizsgálni kell, hogy
 

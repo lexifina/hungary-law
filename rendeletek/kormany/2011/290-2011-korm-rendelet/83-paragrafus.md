@@ -1,7 +1,9 @@
-83. § (1)[^144] A légiriasztásra vonatkozó, a légierő ügyeletes parancsnokától érkező jelzés vételét követően az MTVA stúdióiból a légiriadó elrendelése, vagy feloldása – öt másodperces megszakításokkal, háromszor megismételve – a 8. melléklet szerinti szöveg leadásával történik.
+## a légiriasztást azonnal végre kell hajtani.
 
-(2) A légiriasztás jele a katasztrófavédelem rendszerében: háromszor egymás után megismételt, harminc másodpercig tartó, 280 Hz és 400 Hz közötti hangmagasságú szirénahang, a jelzések között harminc másodperc szünetekkel.
+83. §[^136] (1) A légiriasztásra vonatkozó, a légierő ügyeletes parancsnokától érkező jelzés vételét követően az MTVA stúdiójából a légiriadó elrendelése vagy feloldása a 9. melléklet II. pontja szerint történik.
 
-(3) A légiriasztás feloldásának jele a katasztrófavédelem rendszerében: kétszer egymás után megismételt harminc másodpercig tartó 400 Hz hangmagasságú szirénahang, a jelzések közötti harminc másodperces szünettel.
+(2) A légiriasztás jele a katasztrófavédelem rendszerében: a 9. melléklet I.1. pontjában meghatározott jelzés.
 
-[^144]: A 83. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 87. § (16) bekezdésével megállapított szöveg.
+(3) A légiriasztás feloldásának jele a katasztrófavédelem rendszerében: a 9. melléklet I.2. pontjában meghatározott jelzés.
+
+[^136]: A 83. § a 281/2018. (XII. 21.) Korm. rendelet 14. §-ával megállapított szöveg.

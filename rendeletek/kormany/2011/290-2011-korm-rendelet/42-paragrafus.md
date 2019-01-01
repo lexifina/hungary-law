@@ -4,6 +4,9 @@
 
 ## 20. Az igénybevétel általános szabályai
 
-42. § (1) Ha az igénybevételi hatósági jogkört miniszter gyakorolja, és az igénybevevő a Honvédség vagy rendvédelmi szerv, a szolgáltatás igénylésére a Honvédséget, illetve a rendvédelmi szervet irányító miniszter jogosult.
+42. § (1)[^55] Ha az igénybevételi hatósági jogkört a miniszter gyakorolja, és az igénybevevő honvédelmi szervezet, rendvédelmi szerv, a Nemzeti Adó- és Vámhivatal vagy az Országgyűlési Őrség, a szolgáltatás igénylésére a Kormány e szerveket irányító tagja, az Országgyűlési Őrség esetén az Országgyűlés elnöke jogosult.
 
-(2) Az (1) bekezdés alá nem tartozó esetekben a szolgáltatás igénylésére a Honvédség kijelölt egység- vagy annál magasabb szintű parancsnoka, a rendvédelmi szerv, a honvédelemben közreműködő szerv területi, megyei, fővárosi szintű vezetője (parancsnoka, igazgatója) jogosult.
+(2)[^56] Az (1) bekezdés alá nem tartozó esetekben a szolgáltatás igénylésére a Honvédség kijelölt egység- vagy annál magasabb szintű parancsnoka, a rendvédelmi szerv, a Nemzeti Adó- és Vámhivatal, a honvédelemben közreműködő szerv területi, megyei, fővárosi szintű vezetője (parancsnoka, igazgatója) jogosult.
+
+[^55]: A 42. § (1) bekezdése a 281/2018. (XII. 21.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
+[^56]: A 42. § (2) bekezdése a 281/2018. (XII. 21.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.

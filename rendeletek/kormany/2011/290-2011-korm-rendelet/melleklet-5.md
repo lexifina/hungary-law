@@ -1,3 +1,5 @@
+## A meghatalmazási formanyomtatvány
+
 ## A meghatalmazásban szereplő adatok:
 
 ## Egyéni vállalkozó esetén
@@ -34,9 +36,9 @@
 
 5. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
-Jegyzék a bejelentésre kötelezett ingatlanok és szolgáltatások köréről
+## Jegyzék a bejelentésre kötelezett ingatlanok és szolgáltatások köréről
 
-## I.[^159] Ingatlanok
+## I.[^145] Ingatlanok
 
 ## – köznevelési, felsőoktatási intézmény,
 
@@ -88,4 +90,4 @@ Jegyzék a bejelentésre kötelezett ingatlanok és szolgáltatások köréről
 
 II. Szolgáltatások
 
-[^159]: Az 5. melléklet I. része a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 168/2016. (VII. 1.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^145]: Az 5. melléklet I. része a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 168/2016. (VII. 1.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

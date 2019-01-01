@@ -1,10 +1,19 @@
-## 5. [^43] A Honvéd Vezérkar főnöke és a Honvéd Vezérkar főnöke helyetteseinek feladat- és hatásköre
+## 6. A miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek feladat- és hatáskörei
 
-9. § (1) A Honvéd Vezérkar főnöke a miniszter legfőbb katonai tanácsadója. A Honvéd Vezérkar főnökét a minisztériumon belül a feladat- és hatáskörét érintő döntések előkészítése során a közigazgatási államtitkárral azonos egyeztetési jogok illetik meg.
+9. § (1) A miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek részt vesznek
 
-(2) Jogszabály eltérő rendelkezése hiányában a Honvéd Vezérkar főnöke döntési javaslatot és előterjesztést csak a közigazgatási államtitkár útján terjeszthet a miniszter elé.
+a) az ország honvédelmére és a válságkezelés katonai feladataira vonatkozó döntések előkészítésében,
 
-(3)[^44] A Honvéd Vezérkar főnökét távolléte, akadályoztatása esetén a Honvéd Vezérkar főnökének helyettese vagy a Honvéd Vezérkar főnöke által kijelölt csoportfőnök helyettesíti.
+b) a Honvédség irányításra vonatkozó döntések előkészítésében, a döntések végrehajtásában,
 
-[^43]: Az 5. alcím címe a 168/2016. (VII. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^44]: A 9. § (3) bekezdése a 273/2017. (IX. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+c) a honvédelemmel kapcsolatos központi közigazgatási feladatok ellátásában,
+
+d) a honvédelmi szervezetek feletti miniszteri törvényességi felügyeleti jogkör gyakorlásában,
+
+e) a lakosság honvédelmi célú tájékoztatásában,
+
+f) a honvédelmi szervezetek feladataihoz szükséges feltételek biztosításában,
+
+g) a jogszabályban, közjogi szervezetszabályozó eszközben vagy a miniszter által meghatározott feladatokban.
+
+(2) Az (1) bekezdés szerinti e célra létrehozott honvédelmi szervezetek katona diplomáciai feladatot láthatnak el.
