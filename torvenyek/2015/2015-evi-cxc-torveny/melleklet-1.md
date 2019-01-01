@@ -18,7 +18,9 @@
 
 7a. Azerbajdzsán
 
-7b. Bahrein
+7b. Bahama-szigetek
+
+7c. Bahrein
 
 8. Barbados
 
@@ -90,6 +92,8 @@
 
 – Bonaire, Sint Eustatius és Saba
 
+32a. Hongkong
+
 33. Horvátország
 
 34. India
@@ -110,7 +114,11 @@
 
 41. Kanada
 
-41a. Kína
+41a. Katar
+
+41b. Kazahsztán
+
+41c. Kína
 
 42. Kolumbia
 
@@ -124,21 +132,25 @@
 
 45a. Libanon
 
+45b. Libéria
+
 46. Liechtenstein
 
 47. Litvánia
 
 48. Luxemburg
 
-48a. Malajzia
+48a. Makaó
 
-49. Málta
+48b. Malajzia
 
-50. Man-sziget
+49. Man-sziget
 
-51. Marshall-szigetek
+50. Marshall-szigetek
 
-52. Mauritius
+51. Mauritius
+
+52. Málta
 
 53. Mexikó
 
@@ -161,6 +173,8 @@
 58a. Orosz Föderáció
 
 58b. Pakisztán
+
+58c. Panama
 
 59. Portugália
 
@@ -197,5 +211,7 @@
 71a. Törökország
 
 72. Turks és Caicos-szigetek
+
+72a. Uruguay
 
 73. Új-Zéland
