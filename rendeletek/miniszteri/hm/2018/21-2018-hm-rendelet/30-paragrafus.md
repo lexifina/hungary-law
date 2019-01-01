@@ -1,0 +1,3 @@
+30. § (1) A honvédelmi szervezet kiképzésért felelős szervezeti egysége, annak hiányában a honvédelmi szervezet vezetője által kijelölt szervezeti egység vagy személy legalább harminc nappal a tárgyévi első honvédelmi továbbképzést megelőzően írásban vagy a HM KGIR Ügyfélszolgálati Rendszeren (a továbbiakban: HM KGIR ÜSZR) keresztül tájékoztatja a honvédelmi alkalmazottat a honvédelmi továbbképzés várható időpontjairól.
+
+(2) Ha a honvédelmi alkalmazott az előírt honvédelmi továbbképzésen önhibáján kívüli okból nem tud részt venni, a honvédelmi szervezetnek szükség szerint, de legalább kettő alkalommal biztosítani kell, hogy a honvédelmi alkalmazott a honvédelmi továbbképzési kötelezettségét teljesíteni tudja.

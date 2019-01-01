@@ -1,0 +1,1 @@
+## 17. § A honvédelmi alkalmazotti munkakörök fizetési osztályokba sorolását, a vezetői megbízással ellátható magasabb vezetői és vezetői beosztásokat, az ezekhez kapcsolódó vezetői pótlék mértékét az 1. melléklet határozza meg.

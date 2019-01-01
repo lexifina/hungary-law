@@ -1,0 +1,7 @@
+4. § (1) A munkáltatói jogkört gyakorló részére címzett hatáskört – ha jogszabály eltérően nem rendelkezik – a munkáltatói jogkört gyakorló gyakorolja. A honvédelmi szervezet szervezeti és működési szabályzata a munkáltatói jogkört gyakorló hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot a honvédelmi szervezettel honvédelmi alkalmazotti jogviszonyban, illetve a Magyar Honvédséggel (a továbbiakban: Honvédség) szolgálati viszonyban álló, vezető beosztást vagy munkakört betöltő személyre ruházhatja, aki a munkáltatói döntés meghozatala során a munkáltatói jogkört gyakorló nevében jár el. A kiadmányozási jog átruházása esetén a kiadmányozási jog nem ruházható tovább.
+
+(2) Az (1) bekezdés szerinti esetben a munkáltatói döntésben fel kell tüntetni a munkáltatói jogkört gyakorló és a kiadmányozási jog gyakorlójának beosztását vagy munkakörét, valamint azt, hogy a kiadmányozási jog gyakorlója a munkáltatói jogkört gyakorló nevében jár el.
+
+(3) A kiadmányozási jog átruházása nem érinti a munkáltatói jogkört gyakorló személyét, döntési jogát és felelősségét, valamint – ha a jogorvoslatot jogszabály biztosítja – a jogorvoslat igénybevételének lehetőségét, az elbírálás rendjét és jogosultját.
+
+(4) A munkáltatói jogkört gyakorlót – távolléte vagy akadályoztatása esetén, továbbá ha a beosztás, munkakör ideiglenesen nincs betöltve – az erre jogszabályban vagy a honvédelmi szervezet szervezeti és működési szabályzatában kijelölt személy helyettesíti.
