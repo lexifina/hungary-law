@@ -6,7 +6,7 @@
 
 | 1. | Díjkategória | 60 napon belüli megfizetés esetén (alap pótdíj) | 60 napon túli megfizetés esetén (emelt pótdíj) |
 
-| 2. | D1, D2, U | 14 875 forint | 59 500 forint |
+| 2. | D1, D2 | 14 875 forint | 59 500 forint |
 
 | 3. | B2 | 66 925 forint | 267 700 forint |
 
@@ -14,12 +14,16 @@
 
 |  | A | B | C | D |
 
-| 1. | Megváltott díjkategória | A járműre, vagy járműszerelvényre irányadó díjkategória | Különbözeti pótdíj összege 60 napon belüli megfizetés esetén | Különbözeti pótdíj összege 60 napon túli megfizetés esetén |
+| 1. | Megváltott díjkategória | A járműre, vagy járműszerelvényre irányadó díjkategória | Pótdíjkülönbözet összege 60 napon belüli megfizetés esetén | Pótdíjkülönbözet összege 60 napon túli megfizetés esetén |
 
-| 2. | D1, U | D2 | 7 500 forint | 30 000 forint |
+| 2. | D1 | D2 | 7 500 forint | 30 000 forint |
 
-| 3. | D1, D2, U | B2 | 52 050 forint | 208 200 forint |
+| 3. | D2 | D2 + U | 7 500 forint | 30 000 forint |
 
-2. melléklet a 36/2007. (III. 26.) GKM rendelethez[^77]
+| 4. | B2 | B2 + U | 7 500 forint | 30 000 forint |
 
-[^77]: A 2. mellékletet az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés c) pontja hatályon kívül helyezte.
+| 5. | D1, D2, U | B2 | 52 050 forint | 208 200 forint |
+
+2. melléklet a 36/2007. (III. 26.) GKM rendelethez[^81]
+
+[^81]: A 2. mellékletet az 58/2017. (XII. 29.) NFM rendelet 14. § (1) bekezdés c) pontja hatályon kívül helyezte.

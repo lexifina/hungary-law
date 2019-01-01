@@ -1,8 +1,8 @@
 ## 9. § Ez a rendelet 2007. április 1-jén lép hatályba.
 
-9/A. §[^66] (1)–(9)[^67]
+9/A. §[^70] (1)–(9)[^71]
 
-(10)[^68] Nincs helye a pótdíj kiszabásának abban az esetben, ha nem a jármű jogszabályban meghatározott díjkategóriájának megfelelő, de
+(10)[^72] Nincs helye a pótdíj kiszabásának abban az esetben, ha nem a jármű jogszabályban meghatározott díjkategóriájának megfelelő, de
 
 a) a D2 díjkategóriába tartozó járműre egy D1 díjkategóriájú országosan érvényes éves, vagy
 
@@ -10,9 +10,9 @@ b) a D2 díjkategóriába tartozó járműre egyidejűleg legalább két D1 díj
 
 ## jogosultság került megváltásra.
 
-(11)–(12)[^69]
+(11)–(12)[^73]
 
-[^66]: A 9/A. §-t az 57/2014. (XII. 30.) NFM rendelet 4. §-a iktatta be, szövege a 3/2015. (I. 29.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^67]: A 9/A. § (1)–(9) bekezdését a 9/B. § hatályon kívül helyezte.
-[^68]: A 9/A. § (10) bekezdése a 34/2015. (VI. 29.) NFM rendelet 3. §-ával megállapított szöveg.
-[^69]: A 9/A. § (11)–(12) bekezdését a 34/2015. (VI. 29.) NFM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 9/B. §.
+[^70]: A 9/A. §-t az 57/2014. (XII. 30.) NFM rendelet 4. §-a iktatta be, szövege a 3/2015. (I. 29.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^71]: A 9/A. § (1)–(9) bekezdését a 9/B. § hatályon kívül helyezte.
+[^72]: A 9/A. § (10) bekezdése a 34/2015. (VI. 29.) NFM rendelet 3. §-ával megállapított szöveg.
+[^73]: A 9/A. § (11)–(12) bekezdését a 34/2015. (VI. 29.) NFM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 9/B. §.

@@ -1,8 +1,8 @@
-7/B. §[^47] (1) A 7/A. §-ban meghatározott határidők nyugszanak, ha:
+7/B. §[^51] (1) A 7/A. §-ban meghatározott határidők nyugszanak, ha:
 
 a) a pótdíj kiszabására alapot adó esemény során használt gépjármű tulajdonosa vagy üzemben tartója rendőrségi feljelentéssel igazolja, hogy a jogosulatlan úthasználat időpontját megelőzően gépjárműve vagy annak hatósági jelzése jogellenesen került ki a birtokából, vagy
 
-b)[^48] a közlekedési hatóság által kiállított hatósági bizonyítvánnyal igazolja, hogy a jogosulatlan úthasználat időpontját megelőzően gépjárművének hatósági jelzése jogellenesen került ki a birtokából,
+b)[^52] a közlekedési hatóság által kiállított hatósági bizonyítvánnyal igazolja, hogy a jogosulatlan úthasználat időpontját megelőzően gépjárművének hatósági jelzése jogellenesen került ki a birtokából,
 
 c) a pótdíj kiszabására alapot adó esemény során feltételezetten használt gépjármű tulajdonosa vagy üzemben tartója a pótdíjfizetési felszólítás kézhezvételét követően a gépjármű egyedi azonosító jelével történő visszaélés gyanúja miatt rendőrségi feljelentést tett.
 
@@ -10,15 +10,15 @@ c) a pótdíj kiszabására alapot adó esemény során feltételezetten haszná
 
 a) a pótdíj kiszabására alapot adó esemény során használt gépjármű vagy annak hatósági jelzése a jogosulatlan úthasználat időpontját megelőzően jogellenesen került ki a birtokából, vagy
 
-b)[^49] a pótdíj kiszabására alapot adó esemény során feltételezetten használt gépjármű egyedi azonosító jelével visszaéltek,
+b)[^53] a pótdíj kiszabására alapot adó esemény során feltételezetten használt gépjármű egyedi azonosító jelével visszaéltek,
 
 és az eljárást lefolytató hatóság jogerős döntését vagy ezek másolatát azok jogerőre emelkedését követő 15 napon belül bemutatja a NÚSZ Zrt.-nek.
 
-(3)[^50] Amennyiben a (2) bekezdésben foglaltak nem vagy nem határidőben teljesülnek, úgy a pótdíj mértéke a 60 napon túli pótdíj mértékével egyezik meg.
+(3)[^54] Amennyiben a (2) bekezdésben foglaltak nem vagy nem határidőben teljesülnek, úgy a pótdíj mértéke a 60 napon túli pótdíj mértékével egyezik meg.
 
 (4) Amennyiben a (2) bekezdésben foglaltak szerint nincs helye a pótdíj kiszabásának a jármű üzemben tartója, vagy ennek hiányában tulajdonosa terhére, és ismertté válik annak a személye, aki a pótdíj kiszabásának alapjául szolgáló cselekmény idején a gépjárművet vezette, a pótdíj vele szemben kerül megállapításra az általános szabályok alkalmazásával. Amennyiben a gépjármű vezetőjének személye nem állapítható meg, de a (2) bekezdésben foglalt kimentő körülmények alapjául szolgáló cselekmény elkövetésében közreműködők személye megállapítható, úgy valamennyi közreműködő egyetemleges helytállási kötelezettséggel tartozik a pótdíj tekintetében.
 
-[^47]: A 7/B. §-t a 79/2012. (XII. 27.) NFM rendelet 5. §-a iktatta be.
-[^48]: A 7/B. § (1) bekezdés b) pontja az 1/2017. (I. 3.) NFM rendelet 50. § c) pontja szerint módosított szöveg.
-[^49]: A 7/B. § (2) bekezdés b) pontja az 57/2014. (XII. 30.) NFM rendelet 5. § g) pontja szerint módosított szöveg.
-[^50]: A 7/B. § (3) bekezdése az 58/2017. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
+[^51]: A 7/B. §-t a 79/2012. (XII. 27.) NFM rendelet 5. §-a iktatta be.
+[^52]: A 7/B. § (1) bekezdés b) pontja az 1/2017. (I. 3.) NFM rendelet 50. § c) pontja szerint módosított szöveg.
+[^53]: A 7/B. § (2) bekezdés b) pontja az 57/2014. (XII. 30.) NFM rendelet 5. § g) pontja szerint módosított szöveg.
+[^54]: A 7/B. § (3) bekezdése az 58/2017. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
