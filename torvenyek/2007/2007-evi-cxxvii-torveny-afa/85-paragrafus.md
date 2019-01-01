@@ -12,7 +12,7 @@ b) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó sérült- vag
 
 c) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó sérült- vagy betegápolás, amelyet humán-egészségügyi – ideértve természetgyógyászatot is – tevékenységet végző – ilyen minőségében – teljesít;
 
-d) az emberi szövet, vér (ideértve a külön jogszabályban meghatározott labilis vérkészítményeket is), anyatej értékesítése, valamint az előzőekben felsoroltakkal és az emberi szerv adományozásával kapcsolatos szolgáltatásnyújtás;
+d) az emberi szövet, vér (ideértve a külön jogszabályban meghatározott labilis vérkészítményeket is), anyatej értékesítése, valamint az előzőekben felsorolt termékértékesítésekhez és az emberi szerv adományozásához szorosan kapcsolódó szolgáltatásnyújtás;
 
 e) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet humán fogorvosi, fogtechnikusi tevékenységet végző – ilyen minőségében – teljesít;
 

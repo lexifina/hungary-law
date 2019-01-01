@@ -6,4 +6,6 @@ b) a 11. § (3) bekezdésében és a 14. § (3) bekezdésében meghatározott es
 
 c) a megsemmisülés és más olyan vagyoni kár, amelyet az adóalany tevékenységi körén kívül eső elháríthatatlan ok idézett elő, és ez utóbbi ok fennállását az adóalany bizonyítja;
 
-d) a c) pontban nem említett egyéb vagyoni kár, ha az adóalany bizonyítja, hogy a kár elhárítása, illetve csökkentése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+d) a c) pontban nem említett egyéb vagyoni kár, ha az adóalany bizonyítja, hogy a kár elhárítása, illetve csökkentése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható;
+
+e) ha az egycélú utalvány ellenében nem teljesítenek termékértékesítést, szolgáltatásnyújtást.

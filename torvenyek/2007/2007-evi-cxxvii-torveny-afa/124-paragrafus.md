@@ -54,4 +54,10 @@ c) az internetprotokollt alkalmazó, beszédcélú adatátviteli szolgáltatást
 
 terhelő előzetesen felszámított adó összegének 30 százaléka.
 
-(4) A 120. és 121. §-tól függetlenül szintén nem vonható le a személygépkocsi üzemeltetéséhez, fenntartásához szükséges szolgáltatást terhelő előzetesen felszámított adó összegének 50 százaléka.
+(4) A 120. és 121. §-tól függetlenül szintén nem vonható le a személygépkocsi
+
+a) üzemeltetéséhez, fenntartásához szükséges szolgáltatást,
+
+b) bérbevételét
+
+terhelő előzetesen felszámított adó összegének 50 százaléka.

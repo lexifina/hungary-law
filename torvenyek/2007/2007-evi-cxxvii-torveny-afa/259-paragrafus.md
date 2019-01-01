@@ -66,7 +66,7 @@ e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak
 
 14. pénz: a névértéken elfogadott pénz;
 
-15. pénzhelyettesítő eszköz: utalvány, egyéb fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
+15. pénzhelyettesítő eszköz: fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
 
 16. pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszköz, kivéve azt a pénzügyi eszközt, amelynek megszerzése egyúttal az abban megjelölt termék tulajdonjogának megszerzését is jelenti;
 
@@ -91,6 +91,16 @@ az az előzőekben említett darabszámba beleszámít ugyan, de önmagában nem
 23. telekommunikációs szolgáltatások: jel, írás, kép, hang vagy bármely természetű egyéb értelmezhető információ továbbítása, kibocsátása és vétele rádiós, optikai vagy egyéb elektromágneses rendszeren keresztül, ideértve az ezek továbbítására, kibocsátására és vételére szolgáló rendszerek használatára vonatkozó jogok időleges vagy végleges átengedését, valamint a globális információs hálózatokhoz való hozzáférés biztosítását is;
 
 24. termék fuvarozása: az is, ha az értékesített termék közlekedési eszköz, és annak fuvarozása oly módon történik, hogy a fuvarozás megkezdésének és befejezésének helye közötti távolságot a közlekedésben maga az értékesített közlekedési eszköz teszi meg;
+
+24/A. a) utalvány: olyan eszköz, amelyet termékértékesítés, illetve szolgáltatásnyújtás ellenértékeként, illetve részellenértékeként kell elfogadni, és amely esetében magán az eszközön vagy a kapcsolódó dokumentációban – ideértve az eszköz általános szerződési feltételeit is – fel van tüntetve a beszerezhető termékeknek, igénybe vehető szolgáltatásoknak vagy azok lehetséges értékesítőinek, szolgáltatóinak a megnevezése;
+
+b) egycélú utalvány: olyan utalvány, amelynek kibocsátásakor ismert az utalvány tárgyát képező termék értékesítésének, szolgáltatás nyújtásának teljesítési helye, valamint az adott termékértékesítés, szolgáltatásnyújtás után fizetendő adó összege;
+
+c) többcélú utalvány: az egycélú utalványtól eltérő utalvány;
+
+d) utalvány beváltása: utalvány termékértékesítés, szolgáltatásnyújtás ellenértékeként, illetve részellenértékeként történő elfogadása;
+
+e) utalvány beváltója: aki az utalványt termékértékesítés, szolgáltatásnyújtás ellenértékeként, illetve részellenértékeként saját név alatt elfogadja;
 
 25. új közlekedési eszköz:
 

@@ -15,3 +15,5 @@ a) az Art. szerinti elévülési időre figyelemmel a soron következő adómeg�
 b) a 186. §-ban meghatározott feltételek szerint és módon az állami adóhatóságtól visszaigényelheti.
 
 (3) Az Art. szerint el nem évült, az (1) bekezdés szerint nem érvényesített levonható előzetesen felszámított adó összegét a belföldön nyilvántartásba vett adóalany abban az adómegállapítási időszakban jogosult figyelembe venni az előzetesen felszámított adó összegét növelő tételként, amelyben az adólevonási jog keletkezett.
+
+(4) Az adóalany a belföldi nyilvántartásba vételét megelőzően keletkezett, az Art. szerint el nem évült, a XVIII. Fejezet szerint vissza nem téríttetett, levonható előzetesen felszámított adó összegét az előzetesen felszámított adó összegét növelő tételként a nyilvántartásba vétel napját magában foglaló adómegállapítási időszakban jogosult figyelembe venni.

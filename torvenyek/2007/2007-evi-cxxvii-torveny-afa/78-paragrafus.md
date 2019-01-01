@@ -8,7 +8,7 @@ b) adattartalmának módosításáról gondoskodjon az a) pont alá nem tartozó
 
 (3) A 77. § (4) bekezdés alkalmazásának feltétele, hogy a pénzt visszatérítő adóalany az alábbiakkal rendelkezzen:
 
-a) a pénzvisszatérítésre jogosult nevére szóló, a pénzvisszatérítésre jogosító ügylet teljesítését tanúsító számla másolati példánya, amely egyértelműen igazolja, hogy az adott ügylet belföldön teljesített adóköteles ügylet, valamint
+a) a pénzvisszatérítésre jogosult nevére szóló, a pénzvisszatérítésre jogosító ügylet teljesítését tanúsító számla másolati példánya, amely egyértelműen igazolja, hogy az adott ügylet belföldön teljesített adóköteles ügylet és
 
 b) a pénz átutalásáról vagy a készpénz kifizetéséről szóló bizonylat, amely egyértelműen igazolja, hogy a pénzt visszatérítő adóalany a pénzvisszatérítés jogosultja részére az üzletpolitikájában rögzített összeget megtérítette.
 

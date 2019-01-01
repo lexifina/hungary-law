@@ -708,7 +708,7 @@ Madártojás héjában, frissen
 
 |
 
-Tej (kivéve az anyatejet, az ultramagas hőmérsékleten hőkezelt tejet és az ESL tejet)
+Tej (kivéve az anyatejet)
 
 |
 

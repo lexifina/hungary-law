@@ -6,7 +6,7 @@ a) kizárólag vagy túlnyomó részben nyílt tengeren közlekedik, és kereske
 
 b) segély- vagy mentőtevékenységet, illetőleg part menti halászati tevékenységet – a fedélzeti ellátás kivételével – végez;
 
-c) a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendeletben meghatározott 8906 10 00 vámtarifaszám (a továbbiakban: vtsz.) alá sorolt hadihajó, feltéve, hogy a hadihajó rendeltetési kikötő- vagy horgonyzóhelye nem belföldön van.
+c) 8906 10 00 vámtarifaszám (a továbbiakban: vtsz.) alá sorolt hadihajó, feltéve, hogy a hadihajó rendeltetési kikötő- vagy horgonyzóhelye nem belföldön van.
 
 (2) Mentes az adó alól továbbá:
 

@@ -6,7 +6,7 @@ b) sem a tárgy naptári évben ésszerűen várhatóan, illetőleg ténylegesen
 
 nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 
-(2) Az alanyi adómentesség választására jogosító felső értékhatár: 8 000 000 forintnak megfelelő pénzösszeg.
+(2) Az alanyi adómentesség választására jogosító felső értékhatár: 12 000 000 forintnak megfelelő pénzösszeg.
 
 (3) Az alanyi adómentesség választására jogosító felső értékhatárba nem számítandó be:
 

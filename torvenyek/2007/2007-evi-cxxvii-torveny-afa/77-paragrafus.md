@@ -19,3 +19,5 @@ a) az a termékértékesítés, szolgáltatásnyújtás, amelyet közvetlenül a
 b) a visszatérítendő összeg kisebb, mint a pénzvisszatérítésre jogosító ügylet mennyiségi adatának és az adott vásárlásösztönzési program keretében, bármely adóalap csökkentésre jogosító ügylet vonatkozásában az értékesített termék, nyújtott szolgáltatás legalacsonyabb, adóval növelt egységárának szorzataként adódó összeg.
 
 (5) A (4) bekezdés alkalmazásában a visszatérített összeget úgy kell tekinteni, mint amely az adó összegét is tartalmazza.
+
+(6) A (4) bekezdés nem alkalmazható, ha az adóalap-csökkentésre jogosító ügylet és a pénzvisszatérítésre jogosító ügylet esetében az adót a 142. § alapján a termék beszerzője, szolgáltatás igénybevevője fizeti.

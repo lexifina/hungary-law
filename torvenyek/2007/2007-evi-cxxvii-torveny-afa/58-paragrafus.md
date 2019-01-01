@@ -15,3 +15,5 @@ a) a naptári év utolsó napján is, feltéve, hogy az adót a 140. § a) pontj
 b) egyéb, a (2) bekezdés és az a) pont alá nem tartozó esetekben pedig a tizenkettedik hónap utolsó napján is.
 
 (4) E § nem alkalmazható a termék 10. § a) pontja szerinti értékesítésére.
+
+(5) Ha e § szerinti teljesítést megelőzően a terméket értékesítő vagy szolgáltatást nyújtó adóalany jogutód nélkül szűnik meg, az (1) és (1a) bekezdéstől eltérően teljesítés a jogutód nélküli megszűnést megelőző nap.

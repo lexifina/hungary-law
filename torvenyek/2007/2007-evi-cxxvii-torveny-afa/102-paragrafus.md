@@ -7,3 +7,5 @@ b) amely kiviteli eljárás hatálya alá vonva elhagyja a Közösség terület�
 c) amelyen a 101. § (1) bekezdése szerint adómentesen végeznek munkát.
 
 (2) Az (1) bekezdés különösen alkalmazandó a termék fuvarozására és a termék fuvarozásához járulékosan kapcsolódó szolgáltatások nyújtására.
+
+(3) Az (1) bekezdés szerinti mentesség alkalmazásának feltétele, hogy a szolgáltatást közvetlenül azon személy, szervezet részére nyújtsák, aki (amely) a termékkel az ott leírt tényállást megvalósítja.
