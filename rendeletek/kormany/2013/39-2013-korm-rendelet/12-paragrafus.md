@@ -22,11 +22,11 @@ a) az egészségvédelmi bírságot a 8/A. mellékletben meghatározott szervnek
 
 b) a (2) bekezdés szerinti nyilvántartási és tájékoztatási kötelezettséget az elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlója teljesíti.
 
-(4)[^55] Az Nvt. rendelkezéseinek betartásával kapcsolatban beérkező lakossági észrevételek rögzítésére szolgáló 06 80 200 493 számú telefonvonal, illetve a www.leteszemacigit.hu honlap – amelyek az 5. és a 7. mellékletnek, továbbá az Nvt. 6. § (3) bekezdésének megfelelő helyen is feltüntetésre kerülnek – működtetése és a beérkezett információk feldolgozása az NNK hatáskörébe tartozik.
+(4)[^55] Az Nvt. rendelkezéseinek betartásával kapcsolatban beérkező lakossági észrevételek rögzítésére szolgáló 06 80 200 493 számú telefonvonal, illetve a www.leteszemacigit.hu honlap – amelyek az 5. és a 7. mellékletnek, továbbá az Nvt. 6. § (3) bekezdésének megfelelő helyen is feltüntetésre kerülnek – működtetése és a beérkezett információk feldolgozása az egészségügyért felelős miniszter által vezetett minisztérium hatáskörébe tartozik.
 
 [^50]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 220. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^51]: A 12. § (1a) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 28. §-a iktatta be.
 [^52]: A 12. § (1b) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 28. §-a iktatta be.
 [^53]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 220. § (1) bekezdésével megállapított, a 162/2018. (IX. 10.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^54]: A 12. § (3) bekezdését a 169/2014. (VII. 18.) Korm. rendelet 11. §-a iktatta be.
-[^55]: A 12. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 10. §-a iktatta be, szövege az 507/2017. (XII. 29.) Korm. rendelet 37. §-a, a 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^55]: A 12. § (4) bekezdését a 239/2016. (VIII. 16.) Korm. rendelet 10. §-a iktatta be, szövege az 507/2017. (XII. 29.) Korm. rendelet 37. §-a, a 162/2018. (IX. 10.) Korm. rendelet 22. § c) pontja, a 300/2018. (XII. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
