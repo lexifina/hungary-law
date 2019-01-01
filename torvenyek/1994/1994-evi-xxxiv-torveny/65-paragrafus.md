@@ -22,7 +22,7 @@ akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, h
 
 (5) A személyi védelem ellátása, illetve a Védelmi Program előkészítése és végrehajtása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a fenyegetett helyzetben lévő személy veszélyeztetettségére vonatkozó, illetve az ellene irányuló személy elleni erőszakos vagy közveszélyt okozó bűncselekmény megelőzését szolgáló, a végrehajtás szempontjából lényeges információ várható.
 
-(6) A személybiztosítási és létesítményvédelmi feladatok ellátása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a védett személy, a kijelölt létesítmény veszélyeztetettségére vonatkozó, valamint az ezek ellen irányuló erőszakos bűncselekmény megelőzését szolgáló információ várható.
+(6) A személyvédelmi és létesítménybiztosítási feladatok ellátása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a védett személy, a kijelölt létesítmény veszélyeztetettségére vonatkozó, valamint az ezek ellen irányuló erőszakos bűncselekmény megelőzését szolgáló információ várható.
 
 (7) Az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés érdekében az Európai Unió tagállama vagy harmadik ország megkeresése alapján akkor folytatható titkos információgyűjtés, ha a megkeresésben megjelölt bírói engedélyhez kötött vagy bírói engedélyhez nem kötött eszköz alkalmazását törvény lehetővé teszi.
 

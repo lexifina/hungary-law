@@ -18,7 +18,7 @@ g) a büntetőeljárásról szóló törvényben meghatározott, a terhelt mozg�
 
 h) a szabálysértést felszólítás ellenére folytató személy előállítása céljából;
 
-i) személy- és létesítménybiztosítási intézkedés [46. § (1) bekezdés c) pont] végrehajtására;
+i) személyvédelmi és létesítménybiztosítási intézkedés végrehajtására;
 
 j) ha az előállítás a törvényben meghatározott egyéb okból szükséges;
 

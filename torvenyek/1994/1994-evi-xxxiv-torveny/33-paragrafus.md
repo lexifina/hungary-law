@@ -6,15 +6,15 @@ a) akit szándékos bűncselekmény elkövetésén tetten értek;
 
 b) aki ellen elfogatóparancsot, nemzetközi elfogatóparancsot, illetve európai elfogatóparancsot adtak ki;
 
-c) akinek őrizetbe vételét, előzetes letartóztatását rendelték el, vagy akinek ideiglenes kényszergyógykezelését, illetőleg elmeállapotának megfigyelését rendelték el;
+c) akinek őrizetét, letartóztatását, előzetes kényszergyógykezelését, illetve elmeállapotának megfigyelését rendelték el;
 
-d) aki az őrizetbe vétel, az előzetes letartóztatás, az ideiglenes kiadatási letartóztatás, a kiadatási letartóztatás, az ideiglenes átadási letartóztatás, az átadási letartóztatás, az ideiglenes végrehajtási letartóztatás, a szabadságvesztés vagy az elzárás végrehajtása során megszökött, vagy a fogvatartás helyéről engedéllyel eltávozva oda nem tért vissza, a lakhelyelhagyási tilalom, a házi őrizet, valamint a távoltartás szabályait megszegte, illetőleg, aki az ideiglenes kényszergyógykezelés, az elmeállapotának megfigyelése, a kényszergyógykezelés vagy a javítóintézeti nevelés alól magát kivonta;
+d) aki az őrizet, a letartóztatás, az ideiglenes kiadatási letartóztatás, a kiadatási letartóztatás, az ideiglenes átadási letartóztatás, az átadási letartóztatás, az ideiglenes végrehajtási letartóztatás, a szabadságvesztés vagy az elzárás végrehajtása során megszökött, vagy a fogvatartás helyéről engedéllyel eltávozva oda nem tért vissza, az olyan bűnügyi felügyelet szabályait, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, valamint a távoltartás szabályait megszegte, illetve, aki az előzetes kényszergyógykezelés, az elmeállapotának megfigyelése, a kényszergyógykezelés vagy a javítóintézeti nevelés alól magát kivonta;
 
 e) akinek előállítását külön törvényben meghatározott feltételek alapján elrendelik;
 
 f) aki az ország területén jogellenesen tartózkodik;
 
-g) akinek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 38. § (5) bekezdése alapján büntetés-végrehajtási őrizetbe vétele szükséges.
+g) akinek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 38. § (5) bekezdése alapján büntetés-végrehajtási őrizete szükséges.
 
 (2) A rendőr a hatóság vagy az illetékes szerv elé állíthatja azt,
 

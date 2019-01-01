@@ -1,4 +1,4 @@
-93. § (1) A Testülethez a panaszt az intézkedéstől, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, ettől az időponttól számított húsz napon belül lehet előterjeszteni.
+93. § (1) A Testülethez a panaszt az intézkedéstől, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, ettől az időponttól számított harminc napon belül lehet előterjeszteni. A rendőri intézkedéstől számított egy éven túl panasz előterjesztésének nincs helye.
 
 (2) A Testület az alapvető jogot nem sértő, valamint az alapvető jogot csekély mértékben sértő intézkedéssel szemben előterjesztett panaszt az intézkedést foganatosító szerv vezetőjéhez átteszi, illetve ha az áttétel ellen a panaszos panaszában előzetesen tiltakozott, az eljárást megszünteti.
 

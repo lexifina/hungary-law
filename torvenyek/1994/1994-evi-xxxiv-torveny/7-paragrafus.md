@@ -12,11 +12,11 @@ b) elvégzi
 
 ba) a közszolgálati tisztviselőkről szóló törvény, valamint az állami tisztviselőkről szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, valamint állami szolgálati jogviszonyban álló állami tisztviselők és állami ügykezelők,
 
-bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
+bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai – ideértve a vezényléssel az ezen rendvédelmi feladatokat ellátó szerveken kívül szolgálatot teljesítő hivatásos állományt is –, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
 
-bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, közalkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai,
+bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, közalkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
 
-bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai, továbbá
+bd) a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok, továbbá a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai,
 
 be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek
 
@@ -37,6 +37,8 @@ d) egyedi állami támogatásról való döntésre irányuló eljárás lefolyta
 e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
 
 f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, egyéni vállalkozói igazolvány, hatósági erkölcsi bizonyítvány kiállításával összefüggő ügyekben.
+
+(1b) Az (1) bekezdés b) pont bc) alpontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 

@@ -1,6 +1,6 @@
-## Személy- és létesítménybiztosítási intézkedés
+## Személyvédelmi és létesítménybiztosítási intézkedés
 
-46. § (1) A rendőrség, valamint a rendőr a védett személy [1. § (2) bek. g) pont] biztonsága érdekében a 13. és a 30. §-ban meghatározottakon túlmenően
+46. § (1) A rendőrség, valamint a rendőr a védett személy biztonsága érdekében a 13. és a 30. §-ban meghatározottakon túlmenően
 
 a) útvonalat, közterületet a forgalom elől elzárhat, a forgalmat korlátozhatja,
 

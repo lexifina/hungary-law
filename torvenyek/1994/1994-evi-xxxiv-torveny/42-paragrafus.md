@@ -4,7 +4,7 @@
 
 (2) A rendőrség közterületen, ahol az közbiztonsági, bűnmegelőzési, illetve bűnüldözési célból igazolhatóan szükséges, bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el és felvételt készíthet.
 
-(3) A (2) bekezdés alapján elhelyezésre kerülő képfelvevő szükségességéről, a képfelvevővel megfigyelt közterület kijelöléséről a rendőrség előterjesztésére az illetékes települési önkormányzat dönt. A képfelvevő elhelyezési és üzemeltetési költségeinek biztosítására az önkormányzat és az illetékes rendőrkapitányság az e törvényben meghatározott keretek között megállapodást köthet. A rendőrség a képfelvevők elhelyezésére, a megfigyelt területre vonatkozó adatokat a központi szerv honlapján közzéteszi.
+(3) A (2) bekezdés alapján elhelyezésre kerülő képfelvevő szükségességéről, a képfelvevővel megfigyelt közterület kijelöléséről a rendőrség dönt az illetékes települési önkormányzat véleményének előzetes kikérését követően. A képfelvevő elhelyezési és üzemeltetési költségeinek biztosítására az önkormányzat és az illetékes rendőrkapitányság az e törvényben meghatározott keretek között megállapodást köthet. A rendőrség a képfelvevők elhelyezésére, a megfigyelt területre vonatkozó adatokat a központi szerv honlapján közzéteszi.
 
 (4) A képfelvevő által megfigyelt területre belépő személyek tájékoztatását elősegítő módon figyelemfelhívó jelzést, ismertetést kell elhelyezni a képfelvevők elhelyezéséről, az adatkezelés tényéről.
 
@@ -19,6 +19,10 @@
 (5d) Ha a fogvatartott korábban öngyilkosságot kísérelt meg, a saját testi épsége elleni önkárosító cselekményt követett el, vagy a fogvatartással összefüggésben észlelt körülmények alapján megalapozottan feltehető, hogy a fogvatartott ilyen cselekményt fog elkövetni, ezért a fogvatartott életének, testi épségének megóvása érdekében viselkedésének folyamatos nyomon követése szükséges, a rendőrség az előállító helyiségben, valamint a rendőrségi fogda zárkájában kép vagy kép és hang továbbítására alkalmas, felvételt nem rögzítő megfigyelési eszközt helyezhet el.
 
 (5e) Az állam működése szempontjából kiemelten fontos, illetve a Kormány által létesítmény és rendezvénybiztosítási intézkedés céljából kijelölt és a rendőrség által védett, továbbá a rendőrség kezelésében lévő létesítmények rendjének és jogszerű működésének védelme, illetve az abban tartózkodók biztonsága érdekében a létesítmény folyosóin, a közös használatú – a megfigyelés elől az emberi méltóság védelme érdekében el nem zárt – helyiségeiben, valamint a létesítmények területét határoló külső falakon és kapuknál a rendőrség képfelvevőt helyezhet el és felvételt készíthet.
+
+(5f) A rendőrség az (1)–(2), valamint (5)–(5a) bekezdés alapján készített felvételt a törvényben előírt tájékoztatási kötelezettségének teljesítése érdekében személyazonosításra alkalmatlanná tett módon abban az esetben használhatja fel, ha az a felvétel készítésének alapjául szolgáló eljárás eredményességét nem sérti.
+
+(5g) A rendőrség a rendőri intézkedéssel, illetve az ellátott szolgálati feladattal összefüggésben az intézkedéssel, illetve a szolgálati feladat ellátásával érintett személyről a törvényben előírt tájékoztatási kötelezettségének teljesítése érdekében – az érintett hozzájárulásával – felvételt készíthet.
 
 (6) A(z)
 

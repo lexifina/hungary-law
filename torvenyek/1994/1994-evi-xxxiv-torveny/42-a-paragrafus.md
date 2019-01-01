@@ -1,6 +1,6 @@
 42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5)–(5c) és (5e) bekezdése szerint rögzített felvételből
 
-a) – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági, valamint az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátása céljából – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság,
+a) – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági, valamint az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátása céljából – a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság,
 
 b) jogainak gyakorlása érdekében az érintett, valamint
 
@@ -16,4 +16,4 @@ igényelhet adatot.
 
 (4) A (3) bekezdés szerinti kérelem benyújtására a felvétel rögzítésétől számított, a 42. § (7) bekezdés a) pontjában meghatározottak szerinti harminc napon, a 42. § (7) bekezdés b) pontjában meghatározottak szerinti öt, illetve a 42. § (7) bekezdés c) pontjában meghatározottak szerinti három munkanapon belül, a jog vagy jogos érdek valószínűsítésével van lehetőség.
 
-(5) Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított harminc napon belül nem kerül sor megkeresésre, a rögzített felvételt törölni kell.
+(5) Bíróság vagy más hatóság megkeresésére vagy adatkérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított harminc napon belül nem kerül sor megkeresésre vagy adatkérésre, a rögzített felvételt törölni kell.

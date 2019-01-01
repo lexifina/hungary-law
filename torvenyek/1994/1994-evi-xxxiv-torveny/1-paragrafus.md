@@ -22,7 +22,7 @@
 
 6. gondoskodik a büntetőeljárással összefüggésben a jogszabályban meghatározott személyi kört érintő személyi védelmi feladatok (a továbbiakban: személyi védelem) ellátásáról, továbbá a büntetőeljárásban részt vevők Védelmi Programjának (a továbbiakban: Védelmi Program) a végrehajtásáról,
 
-6a. védi a jogszabályban meghatározott, Magyarország szempontjából különösen fontos személyek (a továbbiakban: védett személy) életét, testi épségét; őrzi a jogszabályban meghatározott létesítményeket és értékeket (a továbbiakban együtt: személybiztosítási és létesítményvédelmi feladatok),
+6a. védi a jogszabályban meghatározott, Magyarország szempontjából különösen fontos személyek (a továbbiakban: védett személy) életét, testi épségét; őrzi a jogszabályban meghatározott létesítményeket és értékeket (a továbbiakban együtt: személyvédelmi és létesítménybiztosítási feladatok),
 
 7. engedélyezi és felügyeli a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységet,
 

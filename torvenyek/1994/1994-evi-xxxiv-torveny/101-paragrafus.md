@@ -44,7 +44,7 @@ d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állap
 
 e) az államháztartásért felelős miniszter és az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a végrehajtási eljárásban ellenszegülés megszüntetése érdekében történő rendőri közreműködéssel, valamint a gyermek átadására irányuló bírósági végrehajtás során szükséges előállítással kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
 
-f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényekkel összefüggő rendőrségi eljárás és a rendezvények biztosításával kapcsolatos rendőrségi feladatok végrehajtásának részletes szabályait,
+f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény szerinti gyűlés bejelentésével és biztosításával összefüggő rendőrségi feladatok részletes szabályait,
 
 g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel és a szabálysértési szabályozásért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével, rendeletben állapítsa meg a törvény alapján rendőrségi fogdán végrehajtható fogvatartások végrehajtásának részletes szabályait, valamint a rendőrségi fogdák rendjét.
 

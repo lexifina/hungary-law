@@ -1,4 +1,4 @@
-69. § (1) A rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője az ügyészség jóváhagyásával a 64. § a) és e) pontjában meghatározott célból adatok szolgáltatását igényelheti
+69. § (1) A rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője az ügyészség jóváhagyásával a 64. § a), c), e), h) és i) pontjában meghatározott célból adatok szolgáltatását igényelheti
 
 a) az adóhatóságtól,
 

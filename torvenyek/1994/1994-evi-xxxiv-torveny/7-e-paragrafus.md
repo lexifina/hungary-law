@@ -32,15 +32,17 @@ c) jogszabályban meghatározottak szerint egyes védett személyek tekintetébe
 
 d) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok, valamint terrorista és túszejtő akciók esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában, e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival, valamint
 
-e) megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat.
+e) megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat,
 
-f) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntésében meghatározott időtartamra – a hatályos nemzetközi normák betartásával – ellátja a kijelölt
+f) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntésében meghatározott időtartamra – a nemzetközi normák betartásával – ellátja a kijelölt
 
-fa) magyar külképviseletek és azok diplomáciai személyzete, valamint
+fa) magyar külképviseletek biztosítását és azok diplomáciai személyzete védelmét, valamint
 
-fb) a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek (intézmények) és létesítmények
+fb) a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek, intézmények és létesítmények biztosítását,
 
-személy- és létesítményvédelmét, e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
+e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve a nemzetközi szervezetekkel, valamint a külföldi állam hatóságaival.
+
+g) a rendészetért felelős miniszter döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a külföldön megrendezésre kerülő, kiemelt terrorfenyegetettségűnek minősíthető nemzetközi sportrendezvényeken résztvevő magyar sportolók és sportszakemberek személyvédelmében, valamint az általuk külföldön a sportrendezvényeken való részvétel ideje alatt használt létesítmények védelmében és e célból együttműködik az Európai Unió tagállamaival és szerveivel, az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
 
 (2) A terrorizmust elhárító szerv nyomozó hatósági jogkört nem gyakorol.
 

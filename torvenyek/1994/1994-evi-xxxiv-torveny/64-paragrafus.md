@@ -8,7 +8,7 @@ c) törvényben meghatározottak szerint a körözési eljárás során,
 
 d) a személyi védelem ellátása, illetve a Védelmi Program előkészítése és végrehajtása során,
 
-e) személybiztosítási és létesítményvédelmi feladatai ellátása során,
+e) személyvédelmi és létesítménybiztosítási feladatai ellátása során,
 
 f) az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés keretében,
 
