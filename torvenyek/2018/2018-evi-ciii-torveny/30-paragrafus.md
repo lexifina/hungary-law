@@ -21,11 +21,3 @@ e) 7/A. §-a,
 f) 24/A. §-a,
 
 g) 30/B. §-a.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
