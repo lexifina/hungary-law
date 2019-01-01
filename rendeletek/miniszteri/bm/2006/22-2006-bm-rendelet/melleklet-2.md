@@ -44,6 +44,6 @@
 
 | 22. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-2. melléklet a 22/2006. (IV. 25.) BM rendelethez[^19]
+2. melléklet a 22/2006. (IV. 25.) BM rendelethez[^28]
 
-[^19]: A 2. melléklet az 55/2011. (XII. 21.) BM rendelet 12. §-ával megállapított szöveg.
+[^28]: A 2. melléklet az 55/2011. (XII. 21.) BM rendelet 12. §-ával megállapított szöveg.

@@ -36,6 +36,6 @@
 
 | ÉRVÉNYES -ig. A személyazonosságot igazoló hatósági igazolvánnyal és a kamarai igazolvánnyal együtt jogosít fel a tevékenység végzésére. Engedélyező hatóság: Engedélyezés dátuma: |
 
-4–7. melléklet a 22/2006. (IV. 25.) BM rendelethez[^21]
+4–7. melléklet a 22/2006. (IV. 25.) BM rendelethez[^30]
 
-[^21]: A 4–7. mellékletet az 55/2011. (XII. 21.) BM rendelet 14. § a) pontja hatályon kívül helyezte.
+[^30]: A 4–7. mellékletet az 55/2011. (XII. 21.) BM rendelet 14. § a) pontja hatályon kívül helyezte.

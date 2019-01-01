@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-22-20-0
 | 2016-10-13 | 2006-22-20-0A.8 | 40/2016. (X. 12.) BM rendelet |
 | 2018-01-01 | 2006-22-20-0A.9 | 44/2017. (XII. 29.) BM rendelet |
 | 2018-07-06 | 2006-22-20-0A.10 | 55/2011. (XII. 21.) BM rendelet |
+| 2019-01-01 | 2006-22-20-0A.11 | 37/2018. (XII. 28.) BM rendelet |
