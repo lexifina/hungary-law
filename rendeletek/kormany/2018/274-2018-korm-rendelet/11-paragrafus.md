@@ -1,0 +1,11 @@
+## 7. A lakásbérleti szerződés bérbeadó általi felmondása esetén kötött határozott idejű lakásbérleti szerződésre vonatkozó rendelkezések
+
+11. § (1) Ha a bérbeadó a határozatlan időre kötött lakásbérleti szerződést a NET tv. 23. § h) pontja alapján felmondja, felajánlja a bérlőnek, hogy a lakásbérleti szerződés megszűnését követően határozott idejű lakásbérleti szerződést köt a bérlővel a bérlő által addig lakott ingatlanra. A bérlő a határozott idejű lakásbérleti szerződés megkötésére vonatkozó nyilatkozatát a határozatlan időre kötött lakásbérleti szerződés megszűnését követő 30 napon belül teheti meg. A határidőt megtartottnak kell tekinteni, ha a nyilatkozatot a bérlő a határidő utolsó napján a bérbeadó székhelyén átadta vagy postára adta.
+
+(2) A bérlői nyilatkozat kézhezvételét követő 30 napon belül a bérbeadó időpontot határoz meg a határozott idejű lakásbérleti szerződés megkötésére (első időpont), és erről a bérlőt tájékoztatja. A bérlő egy alkalommal kérheti a szerződéskötési időpont módosítását azzal, hogy annak a szerződéskötésre vonatkozóan a bérbeadó által meghatározott első időpontot követő 15 napon belüli időpontra kell esnie (második időpont). A második időpont jogvesztő határidőnek minősül.
+
+(3) A határozott idejű lakásbérleti szerződés időtartama a bérlőnek a bérbeadóval szemben fennálló és a határozatlan időre kötött lakásbérleti szerződésből fakadó lejárt tartozás összegéhez igazodik, azzal, hogy a bérbeadó által rögzített összeghatártól függően a határozott idejű lakásbérleti szerződés időtartama 12, 18 vagy 24 hónap lehet.
+
+(4) A bérlő a határozott idejű lakásbérleti szerződés hatálybalépéséig a határozatlan időre kötött lakásbérleti szerződés megszűnése hónapjában fizetendő lakbér összegével megegyező összegű használati díjat köteles a bérbeadónak fizetni. Ha a határozatlan idejű lakásbérleti szerződés a tárgyév március 1. napja előtt szűnik meg, a bérbeadó a használati díjat a tárgyév március 1. napjától a Központi Statisztikai Hivatal honlapján közzétett előző évi éves átlagos fogyasztói árindex mértékével megegyező mértékben növeli.
+
+(5) A bérlő nem élhet a határozott idejű lakásbérleti szerződés megkötésének lehetőségével, ha a lakásbérleti szerződésnek a 13. § (1) bekezdése alapján történő határozatlan idejűvé alakulásától 24 hónap még nem telt el.
