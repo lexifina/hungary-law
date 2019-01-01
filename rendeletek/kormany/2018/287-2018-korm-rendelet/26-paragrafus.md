@@ -1,0 +1,1 @@
+## „(5) Ha a 14. § (1a) bekezdésében foglalt határidőig beérkezett kérelem nem felel meg a (3) és a (4) bekezdésben foglalt követelményeknek, a NEAK a kérelem beérkezésétől számított 8 napon belül – legfeljebb 30 napos határidővel – hiánypótlásra hívja fel a kérelmezőt. Ha a kérelmező a hiánypótlást elmulasztja, a kérelmet a NEAK – érdemi elbírálás nélkül – elutasítja.”

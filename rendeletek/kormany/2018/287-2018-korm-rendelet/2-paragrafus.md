@@ -1,0 +1,3 @@
+## 1. § A keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló 102/1995. (VIII. 25.) Korm. rendelet (a továbbiakban: 102/1995. Korm. rendelet) 10. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) Az Ebtv. 43. § (2) bekezdése alapján a kezelőorvos minden egyes jogviszonyban külön-külön elbírálja a keresőképtelenséget, és minden jogviszony esetében külön naplószámon rögzíti az Orvosi Naplóba, kiállítja az 5. számú mellékletnek vagy a 6. számú mellékletnek megfelelő igazolást, valamint rögzíti a nyomtatványon a biztosított munkakörét. A kezelőorvosnak a biztosított munkaköreinek ismeretében kell elbírálnia jogviszonyonként a keresőképtelenséget.”
