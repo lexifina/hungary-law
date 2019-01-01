@@ -10,7 +10,7 @@ b) olyan számviteli szolgáltatást nyújtó társaságot köteles megbízni, a
 
 (4) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének, a nyilvántartásba vételt végző szervezet kijelölésének, a nyilvántartás vezetésének, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének, a továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának, továbbá a továbbképzési programok és szakmai kiadványok kreditpont-minősítési eljárásának a részletes szabályait a Kormány rendeletben állapítja meg, azzal, hogy az eljárások során méltányossági eljárásnak nincs helye.
 
-(5) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok
+(5) A mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok,
 
 a) könyvviteli szolgáltatás végzésére jogosító engedély iránti kérelme tartalmazza a kérelmező
 
@@ -18,9 +18,9 @@ aa) természetes személyazonosító adatait,
 
 ab) lakcímét és levelezési címét,
 
-ac) szakképesítését (mérlegképes könyvelői szakképesítésnél a szakot is), illetve az engedélyezés szempontjából mérlegképes könyvelői szakképesítésnek elismert szakirányú egyetemi, főiskolai végzettségét,
+ac) szakképesítését (mérlegképes könyvelői szakképesítésnél a szakot is),
 
-ad) ac) pont szerinti szakképesítését, végzettségét igazoló oklevél, bizonyítvány számát, a kiállító intézmény nevét, a kiállítás keltét,
+ad) ac) pont szerinti szakképesítését igazoló oklevél, bizonyítvány számát, a kiállító intézmény nevét, a kiállítás keltét,
 
 ae) az engedélyezéshez előírt számviteli, pénzügyi vagy ellenőrzési gyakorlata megszerzésének helyét, időtartamát, valamint annak a munkakörnek vagy tevékenységnek a megnevezését, amelyben a szakmai gyakorlatot megszerezte, és
 

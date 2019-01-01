@@ -22,7 +22,7 @@ i) a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök könyv szeri
 
 j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegét;
 
-k) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak nyilvántartás szerinti (könyv szerinti) értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a nyilvántartás szerinti érték a több;
+k) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak, vagyoni értékű jogok nyilvántartás szerinti (könyv szerinti) értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a nyilvántartás szerinti érték a több;
 
 l) behajthatatlannak nem minősülő, a forgóeszközök között kimutatott – vásárolt követelésnek nem minősülő – elengedett követelés könyv szerinti értékét;
 
@@ -32,7 +32,9 @@ n) a visszafizetési kötelezettség nélkül átadott, pénzügyileg rendezett,
 
 o) a 77. § (2) bekezdés d) pontja és (4) bekezdés b) pontja alapján az előző üzleti év(ek)ben kapott, bevételként elszámolt támogatás, juttatás visszafizetendő összegét;
 
-p) a térítés nélkül átadott eszközök – a részesedések, az értékpapírok, a befektetett pénzügyi eszközök között kimutatott kölcsönök és a vásárolt követelések kivételével – nyilvántartás szerinti értékét, valamint a térítés nélkül nyújtott szolgáltatások bekerülési értékét a felszámított, az átvevő által meg nem térített általános forgalmi adóval növelt összegben.
+p) a térítés nélkül átadott eszközök – a részesedések, az értékpapírok, a befektetett pénzügyi eszközök között kimutatott kölcsönök és a vásárolt követelések kivételével – nyilvántartás szerinti értékét, valamint a térítés nélkül nyújtott szolgáltatások bekerülési értékét a felszámított, az átvevő által meg nem térített általános forgalmi adóval növelt összegben;
+
+q) az üzletág értékesítésének veszteségét [a kivezetett eszközök és az átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értéke közötti különbözetnek, valamint a kapott (járó) vagy fizetett (fizetendő) összegnek a veszteségjellegű különbözetét].
 
 (3) Az egyéb ráfordítások között kell kimutatni:
 
@@ -46,7 +48,7 @@ d)
 
 e) a hiányzó, illetve a tárgyévben megsemmisült, az állományból kivezetett vásárolt és saját termelésű készlet könyv szerinti értékét;
 
-f) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) követelésnek a könyv szerinti értékét a követelés átruházásakor.
+f) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) – forgóeszközök között kimutatott – követelésnek a könyv szerinti értékét a követelés átruházásakor.
 
 (4) Az egyéb ráfordítások között elkülönítetten kell kimutatni:
 

@@ -30,4 +30,6 @@ c) a konkrét projekthez rendelt fizetett összegek esetén a 2013/34/EU európa
 
 (6) A természetben adott juttatás esetén az érték meghatározásához alkalmazott módszert a kormányok részére fizetett összegekről szóló jelentésben külön be kell mutatni.
 
+(6a) A (4) és (5) bekezdésben említett összegekkel kapcsolatban közölt információknak a tevékenység lényegét és nem formáját kell tükrözniük. A fizetett összegek és tevékenységek mesterségesen nem választhatók szét, illetve nem összesíthetők.
+
 (7) A vállalkozó a kormányok részére fizetett összegekről szóló jelentést a 153–154/B. § szerint köteles letétbe helyezni és közzétenni.

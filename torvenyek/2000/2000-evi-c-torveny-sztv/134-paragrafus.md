@@ -2,7 +2,7 @@
 
 134. § (1) Az összevont (konszolidált) üzleti jelentésnek a konszolidálásba bevont vállalkozások együttesének helyzetét és üzletmenetét, a vállalkozások tevékenysége során felmerülő főbb kockázatokkal és bizonytalanságokkal együtt úgy kell tartalmaznia, hogy az a tényleges viszonyokról megbízható és valós képet adjon.
 
-(2) Az összevont (konszolidált) üzleti jelentésnek a 95. § (2)–(7) bekezdésben, valamint a 95/A. §-ban foglaltakon kívül be kell mutatnia a konszolidálásba bevont vállalkozások előrelátható fejlődését is.
+(2) Az összevont (konszolidált) üzleti jelentésnek a 95. § (2)–(7) bekezdésben, valamint a 95/A–95/B. §-ban foglaltakon kívül be kell mutatnia a konszolidálásba bevont vállalkozások előrelátható fejlődését is.
 
 (3) Amennyiben a konszolidálásba bevont valamely vállalkozás átruházható értékpapírjait az Európai Gazdasági Térség valamely államának szabályozott piacán kereskedésre befogadták, az összevont (konszolidált) üzleti jelentésben be kell mutatni a vállalatcsoport belső ellenőrzési és kockázatkezelési rendszereinek főbb jellemzőit az összevont (konszolidált) éves beszámoló készítésével összefüggésben.
 
@@ -10,7 +10,7 @@
 
 (5) Az az összevont (konszolidált) éves beszámolót készítő, közérdeklődésre számot tartó gazdálkodónak minősülő anyavállalat, amelynél
 
-a) az adott üzleti év mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
+a) az üzleti évet megelőző két – egymást követő – üzleti évben a mérleg fordulónapján a következő három mutatóérték közül bármelyik kettő meghaladja az alábbi határértékeket:
 
 aa) a mérlegfőösszeg a 6 000 millió forintot,
 

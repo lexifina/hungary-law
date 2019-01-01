@@ -63,3 +63,5 @@ II. Az összevont (konszolidált) eredménykimutatás előírt tagolása a köve
 Leányvállalatok adózott eredményéből külső tagok (más tulajdonosok) részesedése
 
 Korrigált adózott eredmény”
+
+A tagolás értelemszerűen alkalmazandó a 3. számú melléklet szerinti eredménykimutatásnál is.

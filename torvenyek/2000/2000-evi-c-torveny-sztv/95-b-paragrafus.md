@@ -18,4 +18,4 @@ g) a legfőbb irányító (vezető) szerv, az ügyvezető szerv és a felügyel�
 
 h) a vállalkozás ügyviteli, ügyvezető és felügyelő testületei esetében alkalmazott, sokszínűséggel kapcsolatos politika leírása, különös tekintettel az életkori, a nemi, a tanulmányi és a szakmai háttérrel kapcsolatos szempontokra, e sokszínűséggel kapcsolatos politika céljainak, megvalósítási módjának és a beszámolási időszakban elért eredményeknek a leírása. Ha nem alkalmaznak ilyen politikát, a nyilatkozatnak tartalmaznia kell ennek magyarázatát.
 
-(3) A vállalkozónak hozzáférhetővé kell tennie a (2) bekezdés b) pontja szerinti gyakorlatának leírását a nyilvánosság számára. E gyakorlat – a vállalkozó döntése szerint – bemutatható az üzleti jelentésben, de más módon is hozzáférhetővé tehető a nyilvánosság számára.
+(3) A vállalkozónak hozzáférhetővé kell tennie a (2) bekezdés b) pontja szerinti gyakorlatának leírását a nyilvánosság számára. E gyakorlat – a vállalkozó döntése szerint – bemutatható az üzleti jelentésben, vagy a vállalkozó holnapján egy dokumentumban, amelyre az üzleti jelentés hivatkozást tartalmaz.

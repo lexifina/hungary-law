@@ -4,7 +4,7 @@
 
 (3) A beszámolóban és az azt alátámasztó könyvvezetés során a gazdasági eseményeket, ügyleteket a tényleges gazdasági tartalmuknak megfelelően – e törvény alapelveihez, vonatkozó előírásaihoz igazodóan – kell bemutatni, illetve annak megfelelően kell elszámolni (a tartalom elsődlegessége a formával szemben elve).
 
-(4) Lényegesnek minősül a beszámoló szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – az ésszerűség határain belül – befolyásolja a beszámoló adatait felhasználók döntéseit (a lényegesség elve).
+(4) Lényegesnek minősül a beszámoló szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – az észszerűség határain belül – befolyásolja a beszámoló adatait felhasználók döntéseit (a lényegesség elve). Egy-egy tétel lényegessé minősítését más hasonló tételekkel összefüggésben kell megítélni.
 
 (5) A beszámolóban (a mérlegben, az eredménykimutatásban, a kiegészítő mellékletben) nyilvánosságra hozott információk hasznosíthatósága (hasznossága) álljon arányban az információk előállításának költségeivel (a költség-haszon összevetésének elve).
 

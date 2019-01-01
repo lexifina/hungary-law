@@ -11,3 +11,5 @@ b) a készletek,
 c) a forgóeszközök között kimutatott értékpapírok
 
 értékelése kapcsán elszámolt értékvesztés nyitó értékét, tárgyévi növekedését, tárgyévi csökkenését, a visszaírt értékvesztés összegét, az értékvesztés záró értékét legalább mérlegtételek szerinti bontásban, illetve értékpapírtípusonként azok értékesítése, beváltása, törlesztése kapcsán az egymással szemben (nettó módon) elszámolt ráfordítások, illetve bevételek bruttó összegeit.
+
+(4) A kiegészítő mellékletben be kell mutatni üzletág értékesítés esetén az értékesítés miatt kivezetett eszközök és az átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értékét mérlegtételek szerinti megbontásban.

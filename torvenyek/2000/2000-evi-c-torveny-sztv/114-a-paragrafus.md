@@ -22,7 +22,7 @@
 
 8. adózás előtti eredmény: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelemkimutatás eredmény szakaszában vagy a különálló eredménykimutatásban szereplő, a folytatódó és a megszűnt tevékenységekre bemutatott adózás előtti eredmények együttes összege;
 
-9. adózott eredmény: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelemkimutatás eredmény szakaszában vagy a különálló eredménykimutatásban szereplő, a folytatódó és a megszűnt tevékenységekre bemutatott adózás utáni nettó eredmény együttes összege;
+9. adózott eredmény: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelemkimutatás eredmény szakaszában vagy a különálló eredménykimutatásban szereplő, a folytatódó és a megszűnt tevékenységekre bemutatott adózás utáni nettó eredmény együttes összege, továbbá az e törvény szerint eredménnyel szemben, de az IFRS-ek szerint saját tőkével szemben elszámolt tételek, különösen a támogatások, a véglegesen átadott vagy kapott pénzeszközök;
 
 10. lényeges hiba: az IAS 8 Számviteli politika, a számviteli becslések változásai és hibák című standard szerint meghatározott lényeges hiba;
 
@@ -36,4 +36,6 @@
 
 15. tőkeinstrumentum: az IAS 32 Pénzügyi instrumentumok: bemutatás és az IFRS 2 Részvényalapú kifizetés című standardok szerint saját tőkeként besorolandó instrumentum, amely olyan szerződés, amely egy gazdálkodó összes kötelezettségének a levonása után a gazdálkodó eszközeiben meglévő maradványérdekeltséget testesít meg;
 
-16. közbenső mérleg: a legutolsó IFRS-ek szerinti beszámolóval lezárt üzleti év mérlegfordulónapját követő nap és a közbenső mérleg fordulónapja közötti időszak gazdasági eseményeinek figyelembevételével, az IAS 34 Évközi pénzügyi beszámolás című standarddal összhangban elkészített pénzügyihelyzet-kimutatás, valamint a közbenső mérleg fordulónapjára vonatkozó saját tőke megfeleltetési tábla.
+16. közbenső mérleg: a legutolsó IFRS-ek szerinti beszámolóval lezárt üzleti év mérlegfordulónapját követő nap és a közbenső mérleg fordulónapja közötti időszak gazdasági eseményeinek figyelembevételével, az IAS 34 Évközi pénzügyi beszámolás című standarddal összhangban elkészített pénzügyihelyzet-kimutatás, valamint a közbenső mérleg fordulónapjára vonatkozó saját tőke megfeleltetési tábla;
+
+17. osztalékfizetésre rendelkezésre álló forrás: a 39. § (3) és (3a) bekezdése szerint meghatározott összeg azzal, hogy az adózott eredmény, a lekötött tartalék és a pozitív értékelési tartalék a 114/B. § (4) bekezdés f)–h) pontjaiban meghatározott összeg, a rendelkezésre álló szabad eredménytartalék a 114/B. § (5) bekezdés b) pontja szerinti összeg, továbbá a 39. § (3a) bekezdésében meghatározott növelő tételként a közzétételre történő engedélyezés időpontjáig elszámolt kapott (járó) osztalék összegét lehet figyelembe venni.

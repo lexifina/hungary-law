@@ -14,7 +14,7 @@
 
 (6) A kiegészítő mellékletnek tartalmaznia kell legalább a 7. számú melléklet szerinti tartalmú cash flow-kimutatást is.
 
-(7) A kiegészítő mellékletben be kell mutatni az adózott eredmény felhasználására vonatkozó javaslatot.
+(7) A kiegészítő mellékletben be kell mutatni az adózott eredmény felhasználására (az osztalék jóváhagyására) vonatkozó javaslatot.
 
 (8) Ha e törvény, illetve más jogszabály előírása szerint a vállalkozónál a könyvvizsgálat kötelező, akkor
 

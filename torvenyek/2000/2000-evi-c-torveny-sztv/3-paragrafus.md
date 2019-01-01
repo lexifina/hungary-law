@@ -80,9 +80,9 @@ d) a tulajdonosokkal (a részvényesekkel) kötött szerződés (vagy a létesí
 
 2. ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, az eredményt, a saját tőkét érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak. A számviteli elszámolás szempontjából az ellenőrzés megállapításával egy tekintet alá esik a szerződésmódosítással, a számviteli bizonylatok módosításával dokumentált, beszámolóval lezárt üzleti évet, éveket érintő gazdasági események könyvviteli elszámolásban rögzítendő jellemzőinek utólagos módosítása is;
 
-3. jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – értékének együttes (előjeltől független) összege meghaladja a számviteli politikában meghatározott értékhatárt. Minden esetben jelentős összegű a hiba, ha a hiba feltárásának évében az ellenőrzések során – ugyanazon évet érintően – megállapított hibák, hibahatások eredményt, saját tőkét növelő-csökkentő értékének együttes (előjeltől független) összege meghaladja az ellenőrzött üzleti év mérlegfőösszegének 2 százalékát, illetve ha a mérlegfőösszeg 2 százaléka nem haladja meg az 1 millió forintot, akkor az 1 millió forintot;
+3. jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – (előjeltől független) abszolút értékének együttes összege meghaladja a számviteli politikában meghatározott értékhatárt. Minden esetben jelentős összegű a hiba, ha a hiba feltárásának évében az ellenőrzések során – ugyanazon évet érintően – megállapított hibák, hibahatások eredményt, saját tőkét növelő-csökkentő, (előjeltől független) abszolút értékének együttes összege meghaladja az ellenőrzött üzleti év mérlegfőösszegének 2 százalékát, illetve ha a mérlegfőösszeg 2 százaléka nem haladja meg az 1 millió forintot, akkor az 1 millió forintot;
 
-4. nem jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – értékének együttes (előjeltől független) összege nem haladja meg a jelentős összegű hiba 3. pont szerinti értékhatárát;
+4. nem jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – (előjeltől független) abszolút értékének együttes összege nem haladja meg a jelentős összegű hiba 3. pont szerinti értékhatárát;
 
 5.
 
@@ -130,9 +130,11 @@ A behajthatatlanság tényét és mértékét bizonyítani kell.
 
 (5) E törvény alkalmazásában
 
-1. üzleti vagy cégérték: a megvásárolt üzletágért, telephelyért, üzlethálózatért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének a tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett értéke közötti különbözet, ha a fizetett ellenérték magasabb;
+1. üzleti vagy cégérték: a megvásárolt üzletágért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének a tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett értéke közötti különbözet, ha a fizetett ellenérték magasabb;
 
-2. negatív üzleti vagy cégérték: a megvásárolt üzletágért, telephelyért, üzlethálózatért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének a tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett összege közötti különbözet, ha a fizetett ellenérték alacsonyabb;
+2. negatív üzleti vagy cégérték: a megvásárolt üzletágért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének a tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett összege közötti különbözet, ha a fizetett ellenérték alacsonyabb;
+
+2a. üzletág: a gazdálkodónak szervezeti szempontból független, önállóan működőképes egysége (ide értve a telephelyet, üzlethálózatot is), amely a hozzá tartozó vagyonnal (eszközökkel, kötelezettségekkel, céltartalékokkal és időbeli elhatárolásokkal) önálló gazdasági tevékenység tartós folytatására képes;
 
 3. többségi befolyás, minősített többséget biztosító befolyás: a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben meghatározott fogalom;
 

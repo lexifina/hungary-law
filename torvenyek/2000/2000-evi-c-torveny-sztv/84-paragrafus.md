@@ -1,4 +1,4 @@
-84. § (1) Kapott (járó) osztalék és részesedés a tulajdoni részesedést jelentő befektetés után kapott, az adózott eredmény felosztásáról szóló határozat alapján járó összeg (ideértve a kamatozó részvények után kapott, illetve járó kamatot, valamint a bizalmi vagyonkezelés során a vagyonrendelőnek kifizetett, illetve járó hozamot is), amennyiben az a mérlegfordulónapig ismertté vált.
+84. § (1) Kapott (járó) osztalék és részesedés a tulajdoni részesedést jelentő befektetés után kapott, az adózott eredmény felhasználásáról (az osztalék jóváhagyásáról) szóló határozat alapján járó összeg (ideértve a kamatozó részvények után kapott, illetve járó kamatot, valamint a bizalmi vagyonkezelés során a vagyonrendelőnek kifizetett, illetve járó hozamot is), amennyiben az a mérlegfordulónapig ismertté vált.
 
 (2) Részesedésekből származó bevételként, árfolyamnyereségként kell elszámolni:
 
@@ -28,7 +28,9 @@ d) a tartós befektetést jelentő diszkont értékpapír vételára és névér
 
 e) a befektetett pénzügyi eszközök között kimutatott és eladott, beváltott hitelviszonyt megtestesítő értékpapír – kamatozó értékpapírnál az eladási árban lévő kamattal, diszkont értékpapírnál a d) pont szerint elszámolt kamattal csökkentett – eladási ára, illetve névértéke és könyv szerinti értéke közötti – nyereségjellegű – különbözetet az értékesítéskor, illetve a beváltáskor;
 
-f) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, befektetett pénzügyi eszközök között kimutatott értékpapír vagy kölcsön nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a létesítő okiratban meghatározott érték a több.
+f) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, befektetett pénzügyi eszközök között kimutatott értékpapír vagy kölcsön nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a létesítő okiratban meghatározott érték a több;
+
+g) a befektetett pénzügyi eszközök között kimutatott átruházott (engedményezett) követelés eladási ára (az engedményes által elismert értéke) és a könyv szerinti értéke közötti – nyereségjellegű – különbözetet a követelés átruházásakor.
 
 (3a) Befektetett pénzügyi eszközökből (értékpapírok, kölcsönök) származó bevételként kell elszámolni, de halasztott bevételként időbelileg el kell határolni a 77. § (4) bekezdés szerinti tételeket, amennyiben azok a befektetett pénzügyi eszközök között kimutatott értékpapírhoz, kölcsönhöz kapcsolódnak. A halasztott bevételt a kapcsolódó ráfordítás felmerülésekor vagy kölcsön esetén annak megszűnésekor (visszafizetésekor vagy kivezetésekor) – azzal arányosan – kell elszámolni befektetett pénzügyi eszközökből (értékpapírok, kölcsönök) származó bevételként.
 
@@ -88,7 +90,7 @@ k) ha a vállalkozó nem alkalmazza az 59/A–59/F. § szerinti valós értéken
 
 l) a kiírt opcióért kapott opciós díjat;
 
-m) a vásárolt követelés könyv szerinti értékét meghaladó összegben befolyt pénzbevétel összegét;
+m) a forgóeszközök között kimutatott vásárolt követelés könyv szerinti értékét meghaladó összegben befolyt pénzbevétel összegét;
 
 n) a vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – nyereségjellegű – különbözetet;
 

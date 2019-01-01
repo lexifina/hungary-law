@@ -14,9 +14,9 @@ b) azzal az értékkel, amely a társult vállalkozásnak a (4) bekezdésben meg
 
 a) a társult vállalkozás saját tőkéje változásának a részesedéssel arányos összegével;
 
-b) az adózott eredmény felosztásáról szóló határozatban szereplő, a társult vállalkozástól járó (várható) osztalék, részesedés összegével (ezt az összeget a következő évben le kell vonni);
+b) az adózott eredmény felhasználásáról (az osztalék jóváhagyásáról) szóló határozatban szereplő, a társult vállalkozástól járó (várható) osztalék, részesedés összegével (ezt az összeget a következő évben le kell vonni);
 
-c) az adózott eredmény felosztásáról szóló határozatban szereplő, de az összevont (konszolidált) mérleg fordulónapjáig meg nem kapott, – a társult vállalkozástól járó – osztalék, részesedés összegével (ezt az összeget a következő évben le kell vonni);
+c) az adózott eredmény felhasználásáról (az osztalék jóváhagyásáról) szóló határozatban szereplő, de az összevont (konszolidált) mérleg fordulónapjáig meg nem kapott, – a társult vállalkozástól járó – osztalék, részesedés összegével (ezt az összeget a következő évben le kell vonni);
 
 d) a részesedés, a tőkekonszolidációs különbözet leírt összegével.
 

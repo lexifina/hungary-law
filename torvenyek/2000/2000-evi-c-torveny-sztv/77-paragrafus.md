@@ -22,7 +22,7 @@ b) a költségek (a ráfordítások) ellentételezésére – visszafizetési k�
 
 c)
 
-d) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) követelésnek az engedményes által elismert értékét a követelés átruházásakor;
+d) az eredeti követelést engedményezőnél (eladónál) az átruházott (engedményezett) – forgóeszközök között kimutatott – követelésnek az engedményes által elismert értékét a követelés átruházásakor;
 
 e) az immateriális jószág, a tárgyi eszköz értékesítéséből (ide értve azt is, ha az immateriális jószág, a tárgyi eszköz a mérlegben, a könyvekben nincs kimutatva), továbbá az immateriális jószág, a tárgyi eszköz 72. § (4) bekezdésének a) és c) pontja szerinti jogcímen történő átadásából származó bevételt az értékesítéskor, az átadáskor;
 
@@ -36,7 +36,7 @@ i) a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök bizalmi vagy
 
 j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor az átvett vagyon vagyonrendelőnek járó összegét;
 
-k) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a létesítő okiratban meghatározott érték a több;
+k) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak, vagyoni értékű jogok nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a létesítő okiratban meghatározott érték a több;
 
 l) a tartozásátvállalás során harmadik személy által – ellentételezés nélkül – átvállalt kötelezettség szerződés (megállapodás) szerinti összegét, továbbá a hitelező által elengedett, valamint az elévült kötelezettség összegét, ha ahhoz beszerzett eszköz nem kapcsolódik;
 
@@ -44,7 +44,9 @@ m) a visszafizetési kötelezettség nélkül kapott, a (2) bekezdés d) pontja 
 
 n) térítés nélkül kapott (igénybe vett) szolgáltatások piaci – illetve jogszabály eltérő rendelkezése esetén a jogszabály szerinti – értékét;
 
-o) 45. § (3) bekezdése szerint halasztott bevételként elhatárolt negatív üzleti vagy cégértékből az üzleti évben a 45. § (4) bekezdése szerint leírt összeget.
+o) 45. § (3) bekezdése szerint halasztott bevételként elhatárolt negatív üzleti vagy cégértékből az üzleti évben a 45. § (4) bekezdése szerint leírt összeget;
+
+p) az üzletág értékesítésének nyereségét [a kivezetett eszközök és az átvállalt kötelezettségek (ideértve a céltartalékokat és az időbeli elhatárolásokat is) könyv szerinti értéke közötti különbözetnek, valamint a kapott (járó) vagy fizetett (fizetendő) összegnek a nyereségjellegű különbözetét].
 
 (4) Egyéb bevételként kell elszámolni, de halasztott bevételként időbelileg el kell határolni:
 

@@ -22,7 +22,9 @@ b) a térítés nélkül átadott, hiányzó, megsemmisült, a befektetett pénz
 
 c) a befektetett pénzügyi eszközök között kimutatott befektetési jegyek eladásakor, beváltásakor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget;
 
-d) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, befektetett pénzügyi eszközök között kimutatott értékpapír vagy kölcsön nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a nyilvántartás szerinti érték a több.
+d) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, befektetett pénzügyi eszközök között kimutatott értékpapír vagy kölcsön nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a nyilvántartás szerinti érték a több;
+
+e) a befektetett pénzügyi eszközök között kimutatott átruházott (engedményezett) követelés eladási ára (az engedményes által elismert értéke) és a könyv szerinti értéke közötti – veszteségjellegű – különbözetet a követelés átruházásakor.
 
 (2) Fizetendő (fizetett) kamatok és kamatjellegű ráfordítások között kell kimutatni, függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszemély részére kell fizetni:
 
@@ -74,7 +76,7 @@ l) a vásárolt eladási opcióért fizetett opciós díjat, a lejáratkor le ne
 
 m) a térítés nélkül átadott, elengedett, behajthatatlannak minősített, a forgóeszközök között kimutatott vásárolt követelés, valamint a hiányzó, megsemmisült, a forgóeszközök között kimutatott értékpapír könyv szerinti értékét, továbbá a vásárolt követelés könyv szerinti értékének azon részét, amelyre a befolyt összeg nem nyújt fedezetet;
 
-n) a vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – veszteségjellegű – különbözetet;
+n) a forgóeszközök között kimutatott vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – veszteségjellegű – különbözetet;
 
 o) a szerződésben meghatározott fizetési határidőn (esedékességen) belül történt pénzügyi rendezés esetén adott – a szerződésben meghatározott, a pénzügyileg rendezendő ellenérték 3%-át meg nem haladó, nem számlázott – engedmény összegét;
 

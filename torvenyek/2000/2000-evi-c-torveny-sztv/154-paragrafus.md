@@ -14,7 +14,7 @@
 
 (7) Közzétételi kötelezettségének azzal tesz eleget a vállalkozó, a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha az éves beszámolót, az egyszerűsített éves beszámolót, az anyavállalat az összevont (konszolidált) éves beszámolót, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényben meghatározott módon a céginformációs szolgálatnak elektronikusan megküldi.
 
-(8) A 10. § (2) bekezdése szerinti vállalkozó a (7) bekezdésben szereplő dokumentumokat az üzleti jelentéssel, az összevont (konszolidált) üzleti jelentéssel együtt – az ott megjelölt időpontban – internetes honlapján is köteles közzétenni, és a közzétett adatok folyamatos megtekinthetőségét legalább a következő második üzleti évre vonatkozó adatok közzétételéig biztosítani.
+(8) Az a közérdeklődésre számot tartó gazdálkodónak minősülő vállalkozó, amely éves beszámolóját, összevont (konszolidált) éves beszámolóját az IFRS-ek szerint állítja össze a (7) bekezdésben szereplő dokumentumokat az üzleti jelentéssel, az összevont (konszolidált) üzleti jelentéssel együtt – az ott megjelölt időpontban – internetes honlapján is köteles közzétenni, és a közzétett adatok folyamatos megtekinthetőségét legalább a következő második üzleti évre vonatkozó adatok közzétételéig biztosítani.
 
 (9) Amennyiben a vállalkozó e törvény vagy más jogszabály, illetve saját döntés alapján az internetes honlapján vagy egyéb más módon is közzéteszi a beszámolót és a kapcsolódó üzleti jelentést, a könyvvizsgálatra való hivatkozás tekintetében a (3) bekezdés szerint köteles eljárni.
 

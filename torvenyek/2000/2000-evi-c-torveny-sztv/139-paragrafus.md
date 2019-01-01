@@ -26,7 +26,7 @@ c) az üzleti vagy cégérték a jövőben a bevételekben várhatóan megtérü
 
 Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében így kimutatásra kerülő üzleti vagy cégérték összege nem haladhatja meg a beolvadó (megszűnő) gazdasági társaságban lévő részesedés megszerzésekor a bekerülési értékben érvényesített üzleti vagy cégértéket.
 
-(4b) Összeolvadás esetén az átalakulással létrejövő gazdasági társaság vagyommérleg-tervezetében a megszűnő gazdasági társaság(ok)ban lévő részesedések kiszűrése során is kimutatható üzleti vagy cégérték a (4a) bekezdésben foglaltak megfelelő alkalmazásával.
+(4b) Összeolvadás esetén az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében a megszűnő gazdasági társaság(ok)ban lévő részesedések kiszűrése során is kimutatható üzleti vagy cégérték a (4a) bekezdésben foglaltak megfelelő alkalmazásával.
 
 (5) Egyesülés esetén az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében a ,,különbözetek'' oszlopban kell kiszűrni az egyesülő (jogelőd) gazdasági társaságok vagyonmérleg-tervezeteiben szereplő, egymással szemben fennálló követelések-kötelezettségek tételeit a követelések és a kötelezettségek, céltartalékok, illetve az időbeli elhatárolások csökkentésével, valamint ezen követelések és kötelezettségek, céltartalékok, illetve az időbeli elhatárolások értékeinek különbözetével a saját tőkét kell (az eredménytartalék változásaként) módosítani.
 

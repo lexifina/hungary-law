@@ -6,7 +6,7 @@ a) a szállítóval szembeni kötelezettségeket,
 
 b) a tulajdonosok részére jóváhagyott osztalék (részesedés) összegét,
 
-c) a nem áruvásárlásból, a nem szolgáltatás igénybevételéből, a nem hitel- és kölcsönfelvételből származó, a tárgyidőszakot terhelő kötelezettségek (decemberi munkabér, szociális hozzájárulási adó, egészségügyi hozzájárulás, egyéb) összegét, továbbá
+c) a nem áruvásárlásból, a nem szolgáltatás igénybevételéből, a nem hitel- és kölcsönfelvételből származó, a tárgyidőszakot terhelő kötelezettségek (decemberi munkabér, szociális hozzájárulási adó, egyéb) összegét, továbbá
 
 d) a költségvetéssel, a helyi önkormányzatokkal az üzleti évre elszámolt (bevallott), de pénzügyileg a mérlegfordulónapig még nem rendezett adókötelezettségek összegét is.
 

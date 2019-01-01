@@ -22,6 +22,6 @@ c) a gazdasági társaságnál a jegyzett tőkének tőkekivonással történő 
 
 d) a befektetett eszközök használati, üzemeltetési, kezelési jogának átengedéséért kapott – általános forgalmi adót nem tartalmazó – számlázott ellenértéket,
 
-e) az általános forgalmi adóról szóló törvény szerinti üzletág átruházásakor az üzletág átruházásáért kapott, az átadott eszközök – átadott kötelezettségek értékével csökkentett – piaci értékét meghaladó ellenértéket.
+e)
 
 (5) Az értékesítés nettó árbevételét módosító (növelő vagy csökkentő) tételként kell elszámolni a nem pénzügyi eszköz eladásával teljesülő származékos ügyletek esetében az ügyletnek a zárás napján érvényes valós értékét a pénzügyi műveletek egyéb ráfordításaival, illetve a pénzügyi műveletek egyéb bevételeivel szemben.
