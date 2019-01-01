@@ -8,6 +8,6 @@
 
 (3) Az állomány tagja a másodfokú határozattal kapcsolatban jogorvoslatot a miniszter által vezetett minisztériummal szemben előterjesztett keresetben a Hjt. 186. § (1) bekezdése szerinti határidőn belül érvényesíthet.
 
-(4)[^4]
+(4)[^17]
 
-[^4]: A 20. § (4) bekezdését a 10/2017. (VIII. 31.) HM rendelet 77. §-a hatályon kívül helyezte.
+[^17]: A 20. § (4) bekezdését a 10/2017. (VIII. 31.) HM rendelet 77. §-a hatályon kívül helyezte.

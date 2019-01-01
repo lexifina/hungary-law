@@ -6,4 +6,6 @@ a) a rehabilitációs hatóság komplex minősítése alapján az állomány tag
 
 b) a Hjt. 68/A. § (1) bekezdés a)–d) pontja szerinti feltételek fennállnak.
 
-(2) Az állomány tagja a Hjt. 68/C. § (1) bekezdése szerinti kérelmét a Honvéd Vezérkar főnökén keresztül a honvédelemért felelős miniszterhez (a továbbiakban: miniszter) címezve az állományilletékes parancsnoknak nyújtja be.
+(2)[^3] Az állomány tagja a Hjt. 68/C. § (1) bekezdése szerinti kérelmét a Magyar Honvédség parancsnokán keresztül a honvédelemért felelős miniszterhez (a továbbiakban: miniszter) címezve az állományilletékes parancsnoknak nyújtja be.
+
+[^3]: A 2. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 118. § a) pontja szerint módosított szöveg.
