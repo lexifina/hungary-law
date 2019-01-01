@@ -114,9 +114,9 @@ V. A szabad mozgás és tartózkodás jogával rendelkező személyek részére
 
 | 1. Regisztrációs igazolás kiállítására irányuló eljárás díja | 1 000 Ft |
 
-| 2. Magyar állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiadására irányuló eljárás díja | 10 000 Ft |
+| 2. |  |
 
-| 3. Magyar állampolgár harmadik országbeli családtagja részére tartózkodási kártya meghosszabbítására irányuló eljárás díja | 10 000 Ft |
+| 3. |  |
 
 | 4. Magyar állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
 
@@ -142,4 +142,4 @@ VI. Egyéb igazgatási szolgáltatási díjak
 
 | 2. Fellebbezési kérelem díja | 5 500 Ft |
 
-[^21]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a szerint módosított szöveg.
+[^21]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a szerint módosított szöveg.
