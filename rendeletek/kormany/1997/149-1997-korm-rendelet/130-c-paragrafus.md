@@ -1,4 +1,4 @@
-130/C. §[^891] (1) A gyámhivatal a gondnokság alá helyezendő nagykorú személy, a vele együtt élő házastársa, valamint élettársa, egyenesági rokona vagy testvére kérelmére, vagy bármely szerv vagy személy erre irányuló bejelentése esetén hivatalból, a Ptk. 2:26. §-a alapján a nagykorú személy részére ideiglenes gondnokot rendel, ha
+130/C. §[^898] (1) A gyámhivatal a gondnokság alá helyezendő nagykorú személy, a vele együtt élő házastársa, valamint élettársa, egyenesági rokona vagy testvére kérelmére, vagy bármely szerv vagy személy erre irányuló bejelentése esetén hivatalból, a Ptk. 2:26. §-a alapján a nagykorú személy részére ideiglenes gondnokot rendel, ha
 
 a) a felmerült eset azonnali intézkedést igényel, és
 
@@ -14,4 +14,4 @@ b) beszerezheti a 145. § (5) bekezdésében foglaltakat, és
 
 c) gondoskodik a 145. § (1) és (2) bekezdése szerint – az ideiglenes gondnok kirendeléséről szóló határozatának meghozatalától számított nyolc napon belül – a gondnokság alá helyezés iránti keresetlevélnek a bírósághoz történő benyújtásáról.
 
-[^891]: A 130/C. §-t a 70/2014. (III. 13.) Korm. rendelet 66. §-a iktatta be.
+[^898]: A 130/C. §-t a 70/2014. (III. 13.) Korm. rendelet 66. §-a iktatta be.

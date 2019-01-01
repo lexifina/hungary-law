@@ -2,7 +2,7 @@
 
 ## eljárás
 
-40. §[^233] (1) Az örökbefogadás engedélyezése iránti eljárás az örökbe fogadni szándékozó személy és a gyermek törvényes képviselőjének személyesen előterjesztett, egyező kérelmére indul. A gyermekvédelmi gyám a kérelmet írásban is előterjesztheti.
+40. §[^236] (1) Az örökbefogadás engedélyezése iránti eljárás az örökbe fogadni szándékozó személy és a gyermek törvényes képviselőjének személyesen előterjesztett, egyező kérelmére indul. A gyermekvédelmi gyám a kérelmet írásban is előterjesztheti.
 
 (2) Ha az örökbefogadandó gyermek szülője
 
@@ -16,9 +16,9 @@ d) cselekvőképtelen nagykorú személy vagy tekintetében a Ptk. 4:127. § (1)
 
 (3) Ha a (2) bekezdésben foglaltak miatt vagy más okból az örökbefogadandó gyermeknek nincs törvényes képviselője, a kijelölt gyámhivatal eseti gyám kirendelésével gondoskodik a törvényes képviselet ellátásáról.
 
-(4)[^234]
+(4)[^237]
 
 (5) A kijelölt gyámhivatal eljárása során a Ptk. 4:121. § (1) és (2) bekezdése alapján vizsgálja az örökbefogadás engedélyezése iránti kérelem benyújtásakor az örökbefogadó életkorát, valamint az örökbefogadó és az örökbefogadandó gyermek életkora közötti különbséget.
 
-[^233]: A 40. § a 70/2014. (III. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^234]: A 40. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^236]: A 40. § a 70/2014. (III. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^237]: A 40. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

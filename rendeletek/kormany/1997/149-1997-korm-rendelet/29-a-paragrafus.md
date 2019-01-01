@@ -1,4 +1,4 @@
-29/A. §[^117] (1) A gyámhivatal a kapcsolattartást elsősorban tárgyalás megtartása során, a gyermeket gondozó szülő vagy más személy (a továbbiakban együtt: kapcsolattartásra kötelezett) és a kapcsolattartásra jogosult egyezségével törekszik rendezni. Az egyezségben rendelkezni kell
+29/A. §[^119] (1) A gyámhivatal a kapcsolattartást elsősorban tárgyalás megtartása során, a gyermeket gondozó szülő vagy más személy (a továbbiakban együtt: kapcsolattartásra kötelezett) és a kapcsolattartásra jogosult egyezségével törekszik rendezni. Az egyezségben rendelkezni kell
 
 a) a folyamatos, az időszakos, a felügyelt kapcsolattartás gyakoriságáról, időtartamáról, a gyermek meghatározott időtartamú külföldre viteléről,
 
@@ -46,4 +46,4 @@ h) a tájékoztatást a kapcsolattartásra vonatkozó szabályok be nem tartása
 
 (9) A gyámhivatal nem felügyelt kapcsolattartás esetén is előírhatja, hogy a gyermek kapcsolattartásra történő átadása és átvétele a felügyelt kapcsolattartás helyszínén történjen, ha a gyermek biztonsága ezt szükségessé teszi.
 
-[^117]: A 29/A. §-t a 70/2014. (III. 13.) Korm. rendelet 10. §-a iktatta be.
+[^119]: A 29/A. §-t a 70/2014. (III. 13.) Korm. rendelet 10. §-a iktatta be.

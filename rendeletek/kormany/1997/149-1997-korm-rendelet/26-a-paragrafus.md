@@ -12,7 +12,7 @@ a) eddigi vagyonkezelői feladatait milyen módon teljesítette, és
 
 b) vagyonkezelése során a gyermek gondozásának, nevelésének körülményeit nehezítette, feltételeit elvonta-e.
 
-(5)[^97] Ha a gyámhivatalnak a család- és gyermekjóléti szolgálat, a család- és gyermekjóléti központ jelzése, a gyermek hozzátartozójának vagy más személynek a bejelentése alapján tudomására jut, hogy a szülői felügyeletet gyakorló szülők gyermekük vagyonának kezelése tekintetében kötelességüket a gyermek érdekeit súlyosan sértő módon nem teljesítik, a gyámhivatal a Ptk. 4:159. §-a szerinti intézkedések közül – a (6) bekezdésben foglaltak figyelembevételével – azt alkalmazza, amellyel legnagyobb biztonsággal megóvható a gyermek vagyona. A gyámhivatal a Ptk. 4:159. §-a szerinti intézkedések közül egyidejűleg többet is alkalmazhat.
+(5)[^99] Ha a gyámhivatalnak a család- és gyermekjóléti szolgálat, a család- és gyermekjóléti központ jelzése, a gyermek hozzátartozójának vagy más személynek a bejelentése alapján tudomására jut, hogy a szülői felügyeletet gyakorló szülők gyermekük vagyonának kezelése tekintetében kötelességüket a gyermek érdekeit súlyosan sértő módon nem teljesítik, a gyámhivatal a Ptk. 4:159. §-a szerinti intézkedések közül – a (6) bekezdésben foglaltak figyelembevételével – azt alkalmazza, amellyel legnagyobb biztonsággal megóvható a gyermek vagyona. A gyámhivatal a Ptk. 4:159. §-a szerinti intézkedések közül egyidejűleg többet is alkalmazhat.
 
 (6) A gyámhivatal
 
@@ -28,4 +28,4 @@ e) a Ptk. 4:159. § e) pontjának alkalmazásával egyidejűleg vagyonkezelő gy
 
 (7) Ha a szülői felügyeleti jogát gyakorló szülő kérelmére eljárás indul a gyermek vagyoni ügyében, a szülő kérelméhez csatolja a szülői felügyeleti jog gyakorlásáról szóló bírósági határozatot. A gyámhivatal a szülő nyilatkozata és a bíróságnak a szülői felügyeleti jog gyakorlásáról szóló határozata alapján tisztázza, hogy a bíróság a szülői felügyelet gyakorlására, vagy a vagyonkezelés és a gyermek vagyoni ügyeiben a törvényes képviselet teljes körű vagy részleges gyakorlására melyik szülőt jogosította fel.
 
-[^97]: A 26/A. § (5) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 6. pontja szerint módosított szöveg.
+[^99]: A 26/A. § (5) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 6. pontja szerint módosított szöveg.

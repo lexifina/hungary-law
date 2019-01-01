@@ -1,8 +1,8 @@
 ## HATODIK RÉSZ
 
-## TÁMOGATOTT DÖNTÉSHOZATAL, ELŐZETES JOGNYILATKOZAT, GYÁMSÁG ÉS GONDNOKSÁG[^842]
+## TÁMOGATOTT DÖNTÉSHOZATAL, ELŐZETES JOGNYILATKOZAT, GYÁMSÁG ÉS GONDNOKSÁG[^848]
 
-## XVI/A. Fejezet[^843]
+## XVI/A. Fejezet[^849]
 
 ## A TÁMOGATOTT DÖNTÉSHOZATALLAL ÉS AZ ELŐZETES JOGNYILATKOZATTAL KAPCSOLATOS ÜGYEK
 
@@ -14,7 +14,7 @@
 
 a) a támogatásra szoruló személy egyetértése esetén lefolytatja, vagy
 
-b)[^844] a támogatásra szoruló személy egyetértése hiányában, az Ákr. 47. § (1) bekezdés c) pontja alapján megszünteti.
+b)[^850] a támogatásra szoruló személy egyetértése hiányában, az Ákr. 47. § (1) bekezdés c) pontja alapján megszünteti.
 
 (3) A gyámhivatal az eljárása során személyesen, lehetőség szerint együttesen hallgatja meg a támogatásra szoruló személyt és a támogatónak jelentkező személyt. A meghallgatás során a gyámhivatal tájékoztatást nyújt
 
@@ -72,7 +72,7 @@ de) milyen jogokkal és kötelezettségekkel jár a támogatói tisztség ellát
 
 (8) A támogatóként történő kirendelést igazoló gyámhivatali tanúsítvány tartalmazza
 
-a)[^845] a támogató kirendeléséről szóló véglegessé vált határozat ügyszámát,
+a)[^851] a támogató kirendeléséről szóló véglegessé vált határozat ügyszámát,
 
 b) a támogatott személy természetes személyazonosító adatait és lakcímét,
 
@@ -82,7 +82,7 @@ d) a támogatott döntéshozatal általános jellegét, vagy azoknak az ügycsop
 
 e) több támogató kirendelése esetén ennek a tényét, valamint azoknak az ügyeknek, ügycsoportoknak a megjelölését, amelyekben a tanúsítvány kiállítását kérő támogató eljárhat.
 
-[^842]: A Hatodik Rész címe a 70/2014. (III. 13.) Korm. rendelet 58. §-ával megállapított szöveg.
-[^843]: A XVI/A. Fejezetet (126/A–126/F. §) a 70/2014. (III. 13.) Korm. rendelet 59. §-a iktatta be.
-[^844]: A 126/A. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 24. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^845]: A 126/A. § (8) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^848]: A Hatodik Rész címe a 70/2014. (III. 13.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^849]: A XVI/A. Fejezetet (126/A–126/F. §) a 70/2014. (III. 13.) Korm. rendelet 59. §-a iktatta be.
+[^850]: A 126/A. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 24. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^851]: A 126/A. § (8) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

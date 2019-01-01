@@ -1,11 +1,11 @@
 ## A megelőző pártfogás megvalósulása
 
-91/N. § (1)[^676] A kijelölt esetmenedzsert a megelőző pártfogás elrendeléséről, mellőzéséről, fenntartásáról, megszüntetéséről vagy megszűnéséről és a megelőző pártfogó felügyelő személyéről a család- és gyermekjóléti központ útján kell értesíteni.
+91/N. § (1)[^682] A kijelölt esetmenedzsert a megelőző pártfogás elrendeléséről, mellőzéséről, fenntartásáról, megszüntetéséről vagy megszűnéséről és a megelőző pártfogó felügyelő személyéről a család- és gyermekjóléti központ útján kell értesíteni.
 
-(2)[^677] A kijelölt esetmenedzser és a megelőző pártfogó felügyelő közvetlenül tart kapcsolatot egymással.
+(2)[^683] A kijelölt esetmenedzser és a megelőző pártfogó felügyelő közvetlenül tart kapcsolatot egymással.
 
-(3)[^678] A megelőző pártfogás fennállása alatt a kijelölt esetmenedzser és a megelőző pártfogó felügyelő – a gyermekvédelmi jelzőrendszer más tagjának szükség szerinti bevonásával – esetmegbeszélést tarthat az eredményes megelőző pártfogás és védelembe vétel érdekében.
+(3)[^684] A megelőző pártfogás fennállása alatt a kijelölt esetmenedzser és a megelőző pártfogó felügyelő – a gyermekvédelmi jelzőrendszer más tagjának szükség szerinti bevonásával – esetmegbeszélést tarthat az eredményes megelőző pártfogás és védelembe vétel érdekében.
 
-[^676]: A 91/N. § (1) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 27. pontja szerint módosított szöveg.
-[^677]: A 91/N. § (2) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 28. pontja szerint módosított szöveg.
-[^678]: A 91/N. § (3) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 28. pontja szerint módosított szöveg.
+[^682]: A 91/N. § (1) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 27. pontja szerint módosított szöveg.
+[^683]: A 91/N. § (2) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 28. pontja szerint módosított szöveg.
+[^684]: A 91/N. § (3) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 28. pontja szerint módosított szöveg.
