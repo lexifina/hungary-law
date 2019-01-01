@@ -1,30 +1,8 @@
-33. § (1)[^397] A betegszállítás finanszírozása havonta, a szabályosan utalványozott betegszállítás céljából megtett hasznos és többletkilométerek alapján történik. Hasznos kilométerenként számolható el egyedi betegszállítás esetén a beteg felvételének helye és a betegszállító utalványon megjelölt érkezési helye közötti legrövidebb útszakasz, kapcsolt szállítás esetén az első beteg felvétele és az utolsó beteg érkezési helye közötti legrövidebb, illetve indokolt esetben az attól eltérő, a szállított betegek szempontjából legelőnyösebb útszakasz. Az elvégzett teljesítményekről a szolgáltató a 16. számú melléklet szerinti adattartalommal jelentést küld a NEAK-nak a tárgyhónapot követő hónap 5. munkanapjáig. A betegszállító szolgáltatóval szerződéses jogviszonyban álló GPS műholdas navigációs rendszert működtető szolgáltató a saját szerveréről, az elvégzett szállítások validitásának ellenőrzésére, a NEAK által előírt egységes adattartalommal jelentést küld a NEAK részére minden tárgyhónapot követő hónap 5. munkanapjáig. A teljesítmény-adatok tartalmazzák a finanszírozott gépkocsik azon GPS-adatait, amelyek alkalmasak a gépkocsi teljesítményének, napi futott kilométereinek ellenőrzésére.
+33. §[^399] (1) A betegszállítás finanszírozása a Vhr.-ben meghatározottak szerint kötött szerződés alapján, az 5. számú melléklet Betegszállítás és orvosi rendelvényű halottszállítás kiadási előirányzata terhére történik. A betegszállítás finanszírozására irányuló szerződésben meg kell határozni – az egészségügyért felelős miniszter és a NEAK főigazgatója által együtt kijelölt szakértői bizottság javaslata alapján – a területi ellátási kötelezettséget, illetve a folyamatos ellátás biztosítását. A betegszállító szolgáltatók saját maguk vagy megbízottjuk útján napi 24, heti 168 órában kötelesek a biztosítottak számára rendelkezésre állni.
 
-(1a)[^398] A beteg szállításáról a külön jogszabályban előírt adattartalmú, az utalvány adataival megegyező, hiánytalanul kitöltött, a betegszállítási esemény idő és kilométer adatait eseményszerűen tartalmazó adatlapot kell vezetni. Az éves költségvetésben egy hónapra rendelkezésre álló keretösszegből a (2) bekezdés szerinti díjazás és a 34. § (3) bekezdése szerint elkülönített összeg levonása után – az országos teljesítmények figyelembevételével – a NEAK állapítja meg az egy kilométerre jutó országos forintértéket. Szolgáltatónként, egy aktív gépjármű teljesítményeként havonta legfeljebb átlag 8000 hasznos kilométer, és többlet-férőhelyenként legfeljebb 1600 többletkilométer számolható el. A többletférőhely a gépjármű összes férőhelyeinek – ideértve a gépjárművezető férőhelyét is – kettővel csökkentett száma lehet.
+(2) A finanszírozást igénylő szolgáltatók erre irányuló igényüket a NEAK-hoz nyújthatják be, amelyet az (1) bekezdésben megjelölt szakértői bizottság bírál el, és tesz javaslatot új szolgáltatók, illetve új kapacitások bevonására, valamint a meglévő kapacitások módosítására és az ellátási területre. A bizottság javaslatát a NEAK főigazgatója hagyja jóvá és egyetértés céljából megküldi az egészségügyért felelős miniszternek.
 
-(2)[^399] A szolgáltatót a – külön jogszabályok szerint – beutalásra jogosult orvos rendelése alapján elvégzett betegszállítás után kiegészítő betegszállítási díj illeti meg, amelynek mértéke
-
-a) betegkísérő közreműködését igénylő szállítás esetén betegenként 750 forint,
-
-b) az a) pont szerinti betegkísérő közreműködését nem igénylő szállítás esetén betegenként 250 forint,
-
-c)[^400] a főváros és a megyeszékhely közigazgatási területén belül történő szállítás esetén az a) és b) pont szerinti díjon felül a betegkísérő közreműködését igénylő szállításnál betegenként további 500 forint, betegkísérő közreműködését nem igénylő szállításnál betegenként további 250 forint.
-
-(3)[^401] Többletkilométerként több beteg együttes (kapcsolt) szállítása esetén az adott beteg felvételi és az utalványon megjelölt érkezési helye közötti útszakasz vehető figyelembe, a közösen megtett útszakasz kilométereinek 0,2-szerese számolható el többletteljesítményként. Kapcsolt szállítás esetén a hasznos és többletkilométerek a betegenként megtett kilométerek arányában oszlanak meg az egyes esetek között.
-
-(3a)[^402] A 100 kilométert meghaladó hosszú távú szállítás esetében a megtett útszakasz 100 kilométert meghaladó részének díja 0,8-es degressziós szorzóval kerül kiszámításra.
-
-(4)[^403] Nem jelenthető teljesítményként az egészségügyi szolgáltató egy telephelyén belüli, valamint a telephelyei közötti betegszállítás, ha a telephelyek közigazgatási határon belül helyezkednek el. A tartalékjárművel teljesített betegszállítás abban az esetben jelenthető, ha a finanszírozási szerződésben kapacitásként lekötött szállító járművet műszaki vagy egyéb ok miatt üzemen kívül kellett helyezni.
-
-(4a)[^404] A szolgáltató csak olyan teljesítményt jelenthet elszámolásra, amelynek teljesítése megtörtént, és amelyre a beteg felvételének helyéről a betegszállító utalványon megjelölt érkezési helyére történő eljuttatásához – a közlekedési szabályok betartásával a lehetséges legrövidebb, a beteg egészségi állapotának figyelembevételével megválasztott útvonalon – feltétlenül szükség volt.
-
-(5)[^405] A NEAK az (1)–(3) bekezdések szerint kiszámított díjat a teljesítést követő hónapban utalványozza.
-
-(6)[^406] A betegszállítás finanszírozására irányuló szerződésben meg kell határozni – az egészségügyért felelős miniszter és a NEAK főigazgatója által együtt kijelölt szakértői bizottság javaslata alapján – a területi ellátási kötelezettséget, illetve a folyamatos ellátás biztosítását. A betegszállító szolgáltatók saját maguk, vagy megbízottjuk útján napi 24, heti 168 órában kötelesek a biztosítottak számára rendelkezésre állni.
-
-(7)[^407] A finanszírozást igénylő szolgáltatók erre irányuló igényüket a NEAK-hoz nyújthatják be, amelyet a (6) bekezdésben megjelölt szakértői bizottság bírál el és tesz javaslatot új szolgáltatók, illetve új kapacitások bevonására, valamint a meglévő kapacitások módosítására és az ellátási területre. A bizottság javaslatát a NEAK főigazgatója hagyja jóvá, és egyetértés céljából megküldi az egészségügyért felelős miniszternek.
-
-(8)[^408] A betegszállításra finanszírozási szerződés az adott évi költségvetési törvényben az LXXII. Egészségbiztosítási Alap fejezet 2. cím, 3. alcím, 1. jogcímcsoport, 5. Betegszállítás és orvosi rendelvényű halottszállítás jogcímen rendelkezésre álló előirányzat mértékéig
+(3) A betegszállításra finanszírozási szerződés az adott évi központi költségvetési törvényben az LXXII. Egészségbiztosítási Alap fejezet 2. cím, 3. alcím, 1. jogcímcsoport, 5. Betegszállítás és orvosi rendelvényű halottszállítás jogcímen rendelkezésre álló előirányzat mértékéig
 
 a) új szolgáltatóval,
 
@@ -32,26 +10,56 @@ b) új kapacitásra,
 
 c) a meglévő kapacitások módosítására
 
-## az egészségügyért felelős miniszter egyetértésével köthető, illetve módosítható. Amennyiben az a)–c) pontok szerinti szerződéskötés éven túli kötelezettség-vállalást is eredményez, az államháztartásért felelős miniszter egyetértésével köthető meg a finanszírozási szerződés.
+az egészségügyért felelős miniszter egyetértésével köthető, illetve módosítható.
 
-(9)[^409] A betegszállítás megrendelője a betegszállítás nem teljesítését, illetve olyan késedelmes teljesítését, mely a beteg állapotának olyan mértékű rosszabbodásához vezetett, hogy ennek következtében a betegszállítás már mentési feladatnak minősült, haladéktalanul köteles írásban jelenteni a NEAK-nak.
+(4) Ha a (3) bekezdés a)–c) pontja szerinti szerződéskötés éven túli kötelezettség-vállalást is eredményez, az államháztartásért felelős miniszter egyetértésével köthető meg a finanszírozási szerződés.
 
-(10)[^410] Ha a NEAK ellenőrzése során megállapítja, hogy a beteg állapotának rosszabbodása miatti mentési esemény bekövetkezésére a betegszállító szolgáltatónak felróható okból került sor, a NEAK az érintett szolgáltató betegszállítási feladatok ellátására kötött finanszírozási szerződését felmondhatja.
+(5) A betegszállítás és orvosi rendelvényű halottszállítás finanszírozására elkülönített előirányzat egyhavi összegéből először – a 34. § szerint – a halottszállítás kerül finanszírozásra, a fennmaradó összegből a (12) bekezdés szerinti díjazás levonása után – az országos teljesítmények figyelembevételével – a NEAK állapítja meg az egy kilométerre jutó országos forintértéket.
 
-(11)[^411] Ha a NEAK tudomására jut, hogy a szolgáltató az elszámolható hasznos és többlet kilométerek számát nem az (1), (1a), (3) és (4a) bekezdésben foglaltaknak megfelelően jelentette, és a NEAK ellenőrzése során megállapítja, hogy a jogellenes magatartásra legalább két esetben, a magasabb finanszírozási díj jogosulatlan megszerzése céljából került sor, a NEAK az érintett szolgáltató betegszállítási feladatok ellátására kötött finanszírozási szerződését felmondhatja.
+(6) A NEAK a (12)–(20) bekezdés szerint kiszámított díjat a teljesítést követő hónapban utalványozza.
 
-[^397]: A 33. § (1) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 28. § (1) bekezdés h) pontja, a 447/2012. (XII. 29.) Korm. rendelet 22. § (1) bekezdése, a 447/2012. (XII. 29.) Korm. rendelet 28. § h) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § g) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 4. és 11. pontja szerint módosított szöveg.
-[^398]: A 33. § (1a) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 325/2011. (XII. 28) Korm. rendelet 26. § (1) bekezdés h) pontja, a 364/2014. (XII. 30.) Korm. rendelet 39. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
-[^399]: A 33. § (2) bekezdése az 58/2009. (III. 18.) Korm. rendelet 12. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 18. § (3)–(5) bekezdését.
-[^400]: A 33. § (2) bekezdés c) pontját a 139/2011. (VII. 21.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^401]: A 33. § (3) bekezdése a 257/2001. (XII. 19.) Korm. rendelet 16. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 39. § i) pontja szerint módosított szöveg.
-[^402]: A 33. § (3a) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 13. § (4) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^403]: A 33. § új (4) bekezdését a 257/2001. (XII. 19.) Korm. rendelet 16. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva. A 33. § (4) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
-[^404]: A 33. § (4a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 30. § (1) bekezdése iktatta be.
-[^405]: A 33. § eredeti (4) bekezdés számozását a 257/2001. (XII. 19.) Korm. rendelet 16. §-ának (3) bekezdése (5) bekezdésre változtatta, szövege a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja szerint módosított szöveg.
-[^406]: A 33. § eredeti (5) bekezdésének számozását a 257/2001. (XII. 19.) Korm. rendelet 16. §-ának (3) bekezdése (6) bekezdésre változtatta, szövege a 364/2007. (XII. 23.) Korm. rendelet 9. §-a ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 6. pontja szerint módosított szöveg.
-[^407]: A 33. § (6) bekezdését a 21/2000. (III. 3.) Korm. rendelet 19. §-ának (2) bekezdése iktatta be. Az eredeti (6) bekezdés számozását a 275/2001. (XII. 19.) Korm. rendelet 16. §-ának (3) bekezdése (7) bekezdésre változtatta, szövege a 364/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 6. és 13. pontja szerint módosított szöveg.
-[^408]: A 33. § (8) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be, záró szövegrésze a 365/2010. (XII. 30.) Korm. rendelet 18. § 35. pontja szerint módosított szöveg.
-[^409]: A 33. § (9) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 11. pontja szerint módosított szöveg.
-[^410]: A 33. § (10) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 4. pontja szerint módosított szöveg.
-[^411]: A 33. § (11) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 4. pontja szerint módosított szöveg.
+(7) A beteg szállításáról a betegszállításról szóló miniszteri rendeletben előírt adattartalmú, az utalvány adataival megegyező, hiánytalanul kitöltött, a betegszállítási esemény idő és kilométer adatait eseményszerűen tartalmazó elektronikus vagy papíralapú adatlapot kell vezetni. Elektronikus adatlap vezetés esetén az adatlapnak vagy tartalmi elemeinek – a dokumentációkezelésre vonatkozó jogszabályokban előírt megőrzési időn belül – a szerződött szolgáltató számítógépes rendszeréből kinyomtathatónak kell lennie.
+
+(8) Az elvégzett teljesítményekről a szolgáltató a NEAK honlapján közzétett adattartalommal jelentést küld a NEAK-nak a tárgyhónapot követő hónap 5. munkanapjáig. A betegszállító szolgáltatóval szerződéses jogviszonyban álló GPS műholdas navigációs rendszert működtető szolgáltató a saját szerveréről, az elvégzett szállítások validitásának ellenőrzésére, a NEAK által előírt egységes adattartalommal jelentést küld a NEAK részére minden tárgyhónapot követő hónap 5. munkanapjáig. A teljesítmény-adatok tartalmazzák a finanszírozott gépkocsik azon GPS-adatait, amelyek alkalmasak a gépkocsi teljesítményének, napi futott kilométereinek ellenőrzésére.
+
+(9) A szolgáltató csak olyan teljesítményt jelenthet elszámolásra, amelynek teljesítése megtörtént, és amelyre a beteg felvételének helyéről a betegszállító utalványon megjelölt érkezési helyére történő eljuttatásához – a közlekedési szabályok betartásával a lehetséges legrövidebb, a beteg egészségi állapotának figyelembevételével megválasztott útvonalon – feltétlenül szükség volt.
+
+(10) Nem jelenthető teljesítményként az egészségügyi szolgáltató egy telephelyén belüli, valamint a telephelyei közötti betegszállítás, ha a telephelyek ugyanazon település közigazgatási határán belül helyezkednek el.
+
+(11) A tartalékjárművel teljesített betegszállítás abban az esetben jelenthető, ha a finanszírozási szerződésben aktív kapacitásként lekötött szállító járművet műszaki vagy egyéb ok miatt üzemen kívül kellett helyezni.
+
+(12) A szolgáltatót a beutalásra jogosult orvos rendelése alapján elvégzett betegszállítás után betegmozgatási díj illeti meg, amelynek mértéke
+
+a) szállítási esetenként 450 forint,
+
+b) a főváros közigazgatási területén belül történő szállítás esetén az a) pont szerinti díjon felül esetenként további 750 forint.
+
+(13) A szolgáltatót, a szabályosan utalványozott betegszállítási feladatok elvégzése után, futásteljesítménytől függő teljesítménydíj illeti meg. A teljesítménydíj számításának alapja a betegszállítási utalványon jelölt felvételi és átadási települések középpont koordinátái által meghatározott legrövidebb közúti közlekedési távolság. A beteg felvételének helye és a betegszállítási utalványon megjelölt érkezési helye közötti távolság a következők szerint kerül meghatározásra:
+
+a) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt érkezési helye különböző közigazgatási területen helyezkedik el, akkor a felvételi és az átadási települések között a térképadatbázis szerinti távolság-mátrix település középpont koordinátái által meghatározott legrövidebb közúti távolságot kell figyelembe venni;
+
+b) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt érkezési helye ugyanazon közigazgatási területen helyezkedik el, akkor az egyes településeken a NEAK honlapján közzétett lakosságszám arányos besorolás szerinti távolságot kell figyelembe venni;
+
+c) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt érkezési helye a főváros közigazgatási területén belül helyezkedik el, akkor a kerületeken belüli és a kerületek közötti szállítások esetén a NEAK honlapján közzétett távolságot kell figyelembe venni.
+
+(14) Ha egy betegszállító gépjármű egyidejűleg több beteget is szállít, a betegszállító szolgáltató teljesítményjelentésében rögzített felvételi és átadási adatok alapján a közösen megtett útszakasz arányában hasznos és többletkilométereket kell képezni.
+
+(15) Hasznos kilométerenként kell figyelembe venni egyedi betegszállítás esetén a beteg felvételének helye és a betegszállítási utalványon megjelölt érkezési helye közötti, a (13) bekezdés szerint meghatározott távolságát. Több beteg egyidejű szállítása esetén a hasznos kilométerek egy betegre jutó arányát az első beteg felvétele és az utolsó beteg érkezési helye közötti legrövidebb, illetve indokolt esetben az attól eltérő, a szállított betegek szempontjából legelőnyösebb útszakasz figyelembevételével kell meghatározni. A szolgáltató köteles a betegszállítási feladatok ellátása során a szállítások útirányát a szállított betegek szempontjából legelőnyösebb útvonalon megtervezni, és lehetőség szerint úgy teljesíteni.
+
+(16) Több beteg együttes szállítása esetén többletkilométerként az adott beteg felvételi és az utalványon megjelölt érkezési helye közötti, a (13) bekezdés szerint meghatározott távolság vehető figyelembe úgy, hogy a közösen megtett útszakasz kilométereinek 0,2-szerese számolható el többletteljesítményként. Az elszámolható hasznos és többletkilométerek a betegenként megtett kilométerek arányában oszlanak meg az egyes esetek között.
+
+(17) Több beteg együttes szállítása esetén a 100 kilométert meghaladó hosszú távú szállítások esetében a megtett útszakasz 100 kilométert meghaladó részének díja 0,8-es degressziós szorzóval kerül kiszámításra.
+
+(18) A főváros közigazgatási területén belül történő szállítások esetén a (13) bekezdés c) pontja szerint meghatározott távolság 1,8-es korrekciós szorzóval kerül kiszámításra.
+
+(19) A főváros közigazgatási területére belépő és a főváros közigazgatási területéről kiinduló szállítások esetén a (13) bekezdés a) pontja szerint meghatározott távolság – ha az kevesebb, mint 80 km – 1,4-es korrekciós szorzóval kerül kiszámításra.
+
+(20) Szolgáltatónként, egy aktív gépjármű teljesítményeként havonta legfeljebb átlag 7000 hasznos kilométer, és többlet-férőhelyenként legfeljebb 1400 többletkilométer számolható el. A többletférőhely a gépjármű összes férőhelyeinek – ideértve a gépjárművezető férőhelyét is – kettővel csökkentett száma lehet.
+
+(21) A betegszállítás megrendelője a betegszállítás nem teljesítését, illetve olyan késedelmes teljesítését, mely a beteg állapotának olyan mértékű rosszabbodásához vezetett, hogy ennek következtében a betegszállítás már mentési feladatnak minősült, haladéktalanul köteles írásban jelenteni a NEAK-nak.
+
+(22) Ha a NEAK ellenőrzése során megállapítja, hogy a beteg állapotának rosszabbodása miatti mentési esemény bekövetkezésére a betegszállító szolgáltatónak felróható okból került sor, a NEAK az érintett szolgáltató betegszállítási feladatok ellátására kötött finanszírozási szerződését felmondhatja.
+
+(23) Ha a NEAK tudomására jut, hogy a szolgáltató az elszámolható teljesítményt nem a (7)–(9) bekezdésben foglaltaknak megfelelően jelentette, illetve a szállítás során a betegszállítási utalványon jelölt felvételi, vagy átadási címtől való eltérést nem tudja a betegszállításról szóló miniszteri rendeletben előírt módon igazolni, és a NEAK ellenőrzése során megállapítja, hogy a jogellenes magatartásra, a magasabb finanszírozási díj jogosulatlan megszerzése céljából került sor, a NEAK az érintett szolgáltató betegszállítási feladatok ellátására kötött finanszírozási szerződését felmondhatja.
+
+[^399]: A 33. § a 287/2018. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.

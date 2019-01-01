@@ -84,3 +84,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2018-11-23 | 1999-43-20-22.154 | 7/2008. (I. 23.) Korm. rendelet |
 | 2018-12-14 | 1999-43-20-22.155 | 7/2008. (I. 23.) Korm. rendelet |
 | 2018-12-25 | 1999-43-20-22.156 | 236/2018. (XII. 10.) Korm. rendelet |
+| 2019-01-01 | 1999-43-20-22.157 | 287/2018. (XII. 21.) Korm. rendelet |

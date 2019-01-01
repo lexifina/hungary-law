@@ -1,3 +1,3 @@
-## 76/V. §[^616] Az egészségügyi szolgáltató az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 236/2018. (XII. 10.) Korm. rendelettel megállapított 28/A. § (5) bekezdésében megállapított kötelezettségét első ízben a 2019. márciusi teljesítményjelentésével egyidejűleg teljesíti.
+## 76/W. §[^609] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 287/2018. (XII. 21.) Korm. rendelettel megállapított 33. §-t a 2019. január havi kifizetésektől kell alkalmazni.
 
-[^616]: A 76/V. §-t a 236/2018. (XII. 10.) Korm. rendelet 2. §-a iktatta be.
+[^609]: A 76/W. §-t a 287/2018. (XII. 21.) Korm. rendelet 19. §-a iktatta be.

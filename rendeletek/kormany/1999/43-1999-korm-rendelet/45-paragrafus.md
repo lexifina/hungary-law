@@ -1,15 +1,15 @@
-45. §[^524] (1) Az 5. számú melléklet szerinti Extrafinanszírozás előirányzat terhére az előre nem tervezhető, rendkívüli, egyedi ellátások a NEAK főigazgatójának döntése alapján akkor finanszírozhatóak, ha az ellátás közvetlen költsége az R.-ben meghatározott díjtétel közvetlen költségének ötszörösét meghaladja.
+45. §[^512] (1) Az 5. számú melléklet szerinti Extrafinanszírozás előirányzat terhére az előre nem tervezhető, rendkívüli, egyedi ellátások a NEAK főigazgatójának döntése alapján akkor finanszírozhatóak, ha az ellátás közvetlen költsége az R.-ben meghatározott díjtétel közvetlen költségének ötszörösét meghaladja.
 
-(2) Az (1) bekezdés szerinti igény elbírálása során az ellátás közvetlen költsége a következő elemek figyelembevételével kerül megállapításra:
+(2)[^513] Az (1) bekezdés szerinti igény elbírálása során az ellátás közvetlen költsége a következő elemek figyelembevételével kerül megállapításra:
 
 a) közvetlen gyógyszerköltség,
 
-b) diagnosztikai és terápiás szolgáltatások költsége,
+b) vér, vérkészítmények költsége,
 
-c) nem tételesen finanszírozott implantátumok és
+c) diagnosztikai és terápiás szolgáltatások költsége.
 
-d) speciális szakmai anyagok, egyszer használatos eszközök.
+(3)[^514] Az ellátásra szakmailag alkalmas egészségügyi szolgáltató az extrafinanszírozási igénybejelentést az adott ellátás befejezését követő 60 napon belül nyújthatja be. Az igénybejelentésben szereplő finanszírozási eset teljesítmény-elszámolását követően a NEAK továbbítja a szolgáltató részére a ráfordításgyűjtéshez szükséges állományokat, amely után a szolgáltatónak 30 nap áll rendelkezésére a ráfordításgyűjtés megküldésére.
 
-(3) Az (1) bekezdés szerinti igényt az ellátásra szakmailag alkalmas egészségügyi szolgáltató részletes költségkimutatással együtt, az adott ellátás befejezését követő 60 napon belül nyújthatja be.
-
-[^524]: A 45. § a 87/2018. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^512]: A 45. § a 87/2018. (IV. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^513]: A 45. § (2) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^514]: A 45. § (3) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.

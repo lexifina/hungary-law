@@ -10,7 +10,7 @@ c) az adott ellátáshoz tartozó várólista nyilvántartási tétel bármely a
 
 d)–e)[^46]
 
-(3)[^47] A NEAK az (1) bekezdés szerinti adathiány, illetve a (2) bekezdésben meghatározott adathiba által érintett nyilvántartási tételekről, valamint az érintett fekvőbeteg-szakellátásra vonatkozó adatokról listát készít.
+(3)[^47] A NEAK az (1) bekezdés szerinti adathiány, illetve a (2) bekezdésben meghatározott adathiba által érintett nyilvántartási tételekről, valamint az érintett fekvőbeteg-szakellátásra vonatkozó adatokról hibalistát készít.
 
 (4) Az (1) bekezdés szerinti adathiány, illetve a (2) bekezdés szerinti adathiba által érintett ellátások nem finanszírozhatóak mindaddig, amíg az adathiány, illetve az adathiba fennáll.
 
@@ -28,7 +28,7 @@ d)–e)[^46]
 
 [^45]: Az 5/A. §-t a 254/2013. (VII. 5.) Korm. rendelet 22. §-a iktatta be.
 [^46]: Az 5/A. § (2) bekezdés d)–e) pontját az 519/2013. (XII. 30.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
-[^47]: Az 5/A. § (3) bekezdése a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja szerint módosított szöveg.
+[^47]: Az 5/A. § (3) bekezdése a 379/2016. (XII. 2.) Krom. rendelet 34. § 5. pontja, a 287/2018. (XII. 21.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
 [^48]: Az 5/A. § (5) bekezdése az 519/2013. (XII. 30.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^49]: Az 5/A. § (6) bekezdése az 519/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^50]: Az 5/A. § (7) bekezdését az 519/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
