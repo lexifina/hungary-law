@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2018-02-23 | 2017. évi CXLV. törvény | 2013-139-00-00.30 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2013-139-00-00.31 |
 | 2018-12-29 | 2018. évi CXXVI. törvény | 2013-139-00-00.32 |
+| 2019-01-01 | 2018. évi CXXVI. törvény | 2013-139-00-00.33 |
