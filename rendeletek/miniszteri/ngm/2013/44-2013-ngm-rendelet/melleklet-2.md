@@ -108,9 +108,9 @@
 
 ## – téli sapka,
 
-## – szolgálati kesztyű téli,
+## – szolgálati kesztyű,
 
-## – gyakorló kabát,
+## – gyakorló télikabát,
 
 ## – gyakorló zubbony,
 
@@ -126,4 +126,6 @@
 
 ## – gyakorló alsó póló.
 
-2. melléklet a 44/2013. (X. 8.) NGM rendelethez
+2. melléklet a 44/2013. (X. 8.) NGM rendelethez[^34]
+
+[^34]: A 2. melléklet a 18/2018. (XII. 20.) PM rendelet 12. § i)–k) pontja szerint módosított szöveg.

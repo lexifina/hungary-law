@@ -94,15 +94,17 @@
 
 ## 2. Egyetemi váll-lap általános leírása
 
-## A 95 mm hosszú, 40 mm széles mindkét végén egyenes váll-lap körbehajtott zöld színű anyagból, alja közepén varrott bújtatós kialakítással készül. Az évfolyamnak megfelelően sárga színű „V” alakú paszomány és hosszanti irányba középre paszomány csík van elhelyezve. A hosszanti paszomány csík „V” formájú paszomány csúcsából kiindulva a zöld színű anyagra van hímezve.
+## A 95 mm hosszú, 40 mm széles mindkét végén egyenes váll-lap körbehajtott zöld színű anyagból, alja közepén varrott bújtatós kialakítással és tépőzárral készül. Az évfolyamnak megfelelően sárga színű „V” alakú paszomány és hosszanti irányba középre paszomány csík van elhelyezve. A hosszanti paszomány csík „V” formájú paszomány csúcsából kiindulva a zöld színű anyagra van hímezve.
 
 ## Körben a széleken élben 2 mm-es, a sárga színű szállal készített szélhímzéssel.
 
-## I. Évfolyam 2db „V” formájú paszomány és a hosszanti középvonalú paszomány csík.
+## I. Évfolyam 1db „V” formájú paszomány és a hosszanti középvonalú paszomány csík.
 
-## II. Évfolyam 3db „V” formájú paszomány és a hosszanti középvonalú paszomány csík.
+## II. Évfolyam 2db „V” formájú paszomány és a hosszanti középvonalú paszomány csík.
 
-## III. Évfolyam 4db „V” formájú paszomány és a hosszanti középvonalú paszomány csík.
+## III. Évfolyam 3db „V” formájú paszomány és a hosszanti középvonalú paszomány csík.
+
+## IV. Évfolyam 4 db „V” formájú paszomány és a hosszanti középvonalú paszomány csík.
 
 ## II. Parolik
 
@@ -328,9 +330,9 @@ A 25 mm-es függőlegesen álló botot jobbról és balról egy-egy kígyó fogj
 
 A sapkadísz pajzs alakú, melynek bal oldalán tölgyfa lomb, jobb oldalon olajfa lomb és a közepén 31 mm-es magyar címer helyezkedik el. Szúrótű segítségével helyezhető fel a sapkára. A sapkadísz rendfokozattól függően arany- vagy ezüstszínű lehet.
 
-7. Szolgálati sapkadísz
+7.[^37] Szolgálati sapkadísz
 
-A sapkadísz 32 mm átmérőjű kör alakú kivitelben készül. A domborított kör síkja nemzeti színű. A sapkadísz négysoros zsinórmintázatú szegélye rendfokozattól függően arany- vagy ezüstszínű lehet. Szúrótű segítségével helyezhető fel a sapkára.
+A sapkadísz 32 mm átmérőjű ovális alakú kivitelben készül. A domborított ovális síkja nemzeti színű. A sapkadísz négysoros zsinórmintázatú szegélye rendfokozattól függően arany- vagy ezüstszínű lehet. Szúrótű segítségével helyezhető fel a sapkára.
 
 8. Gomb
 
@@ -362,17 +364,15 @@ A pajzs alsó ívén babérkoszorú, alatta NEMZETI ADÓ- ÉS VÁMHIVATAL felira
 
 A tábornoki karjelvény piros posztóra van hímezve.
 
-10.[^14] Szakterületi karjelvény
+10.[^38] Szakterületi karjelvény
 
 Egyes szakterületek az adott területre jellemző karjelvényt alakíthatnak ki, melynek kiviteli formáját, a viselésre jogosultak körét az állami adó- és vámhatóság vezetője engedélyezheti.
 
-11. Fém névkitűző
+11.[^39] Névkitűző
 
-A névkitűző a viselőjének teljes nevét tartalmazó „BODONI ANTIQUA” betűtípusú, nagy nyomtatott betűvel írott, 80 Ű 14 mm méretű, lekerekített sarkú, ezüst vagy aranyszínű fémlap. A betűk színe fekete.
+Nikkel fém alapra ragasztással rögzített fehér műanyag lap fekete felszínébe nyomtatott nagybetűvel vésett a kitűző viselőjének a neve, amely az eljárás folytán fehéren mutatkozik. Kitűző mérete: 80 x 14 mm, betű típusa: „BODONI ANTIQUA”, betű nagyság: 4 mm. A fém alap hátoldalán a kitűző felhelyezésére szolgáló tüskék 2 db középen egymástól 50 mm-es távolságra helyezkednek el. Rögzítése 2 db pillangós patenttal történik.
 
-12. Tépőzáras, hímzett név
-
-Zöld vászonra hímezve, sárga szegéllyel és alul tépőzárral ellátva. A betűméret 1 cm és sárga színű. Hosszúsága 9,5 cm, szélessége 2 cm.
+12.[^40]
 
 13. Tépőzáras NAV felirat
 
@@ -404,7 +404,7 @@ Ovális alakú, aranyszínű olajágakkal övezett, piros-fehér kerámiabetétt
 
 18. Társasági derékövcsat
 
-18.1. Férfi társasági derékövcsat: 40x30 mm-es méretű arannyal futtatott csat, melyen szürke mezőben a koronás címer látható. A csat rögzítését karmos szorító biztosítja.
+18.1.[^41] Férfi társasági derékövcsat: 40x30 mm-es méretű arannyal vagy ezüsttel futtatott csat, melyen szürke mezőben a koronás címer látható. A csat rögzítését karmos szorító biztosítja.
 
 18.2. Női társasági derékövcsat: 40x15 mm-es méretű kerekített végű, fekete színű öntvénnyel készült aranyszínű fémcsat, melynek rögzítését karmos szorító biztosítja.
 
@@ -424,4 +424,8 @@ Zöld posztóra rádolgozott zölddel átszőtt arany zsinór, (rendfokozattól 
 
 Aranyszínű fémből készített lírajelvény.
 
-[^14]: Az 5. melléklet 10. pontja a 47/2015. (XII. 30.) NGM rendelet 18. § d) pontja szerint módosított szöveg.
+[^37]: Az 5. melléklet 7. pontja a 18/2018. (XII. 20.) PM rendelet 12. § m) pontja szerint módosított szöveg.
+[^38]: Az 5. melléklet 10. pontja a 47/2015. (XII. 30.) NGM rendelet 18. § d) pontja szerint módosított szöveg.
+[^39]: Az 5. melléklet 11. pontja a 18/2018. (XII. 20.) PM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^40]: Az 5. melléklet 12. pontját a 18/2018. (XII. 20.) PM rendelet 13. § d) pontja hatályon kívül helyezte.
+[^41]: Az 5. melléklet 18. pont 18.1. alpontja a 18/2018. (XII. 20.) PM rendelet 12. § n) pontja szerint módosított szöveg.

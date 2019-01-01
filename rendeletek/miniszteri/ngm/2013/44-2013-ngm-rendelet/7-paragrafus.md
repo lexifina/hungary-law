@@ -2,10 +2,10 @@
 
 7. § (1) Az egyenruházaton csak az állami kitüntetést, a hivatásos állományjelzést, az iskolai végzettséget tanúsító, továbbá a NAV, valamint jogelődje a Vám- és Pénzügyőrség által alapított jelvényt lehet viselni.
 
-(2)[^5] Külföldi nem állami kitüntetést csak az viselhet, aki erre engedélyt kapott az állami adó- és vámhatóság vezetőjétől.
+(2)[^12] Külföldi nem állami kitüntetést csak az viselhet, aki erre engedélyt kapott az állami adó- és vámhatóság vezetőjétől.
 
 (3) Kitüntetés és jelvény kizárólag a társasági egyenruházaton viselhető.
 
 (4) A kitüntetések eredeti formában csak külön elrendelésre viselhetők. A kitüntetéseket szalagsávon, a társasági egyenruha bal oldalán a zsebtakaró fölött, belülről kifelé, több sorban, felülről lefelé haladva kell elhelyezni. Egy sorban négy kitüntetés szalagsávját lehet viselni.
 
-[^5]: A 7. § (2) bekezdése a 47/2015. (XII. 30.) NGM rendelet 18. § e) pontja szerint módosított szöveg.
+[^12]: A 7. § (2) bekezdése a 47/2015. (XII. 30.) NGM rendelet 18. § e) pontja szerint módosított szöveg.

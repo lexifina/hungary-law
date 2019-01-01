@@ -1,4 +1,4 @@
-## 1. §[^1] A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) központi szervének és területi szervének vezetője (a továbbiakban: szerv vezetője) köteles gondoskodni az irányítása alá tartozó pénzügyőri állomány körében az öltözködési szabályok, egyenruhára valamint viselésére és a szolgálati igazolványra, szolgálati jelvényre vonatkozó rendelkezések megismeréséről és betartatásáról, a pénzügyőr közvetlen irányításáért felelős vezető (a továbbiakban: közvetlen vezető) pedig az előírtak végrehajtásának ellenőrzéséről.
+## 1. §[^2] A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) központi szervének és területi szervének vezetője (a továbbiakban: szerv vezetője) köteles gondoskodni az irányítása alá tartozó pénzügyőri állomány körében az öltözködési szabályok, egyenruhára valamint viselésére és a szolgálati igazolványra, szolgálati jelvényre vonatkozó rendelkezések megismeréséről és betartatásáról, a pénzügyőr közvetlen irányításáért felelős vezető (a továbbiakban: közvetlen vezető) pedig az előírtak végrehajtásának ellenőrzéséről.
 
 ## 1. Értelmező rendelkezések
 
@@ -18,13 +18,13 @@ f) felszerelési tárgy: az alapfelszerelési egyenruházati normán felül a k�
 
 g) gyakorló öltözet: a szerv vezetője által elrendelt, a pénzügyőrök speciális szolgálati feladataik ellátása során viselt öltözet;
 
-h)[^2] igényjogosult: a NAV teljes pénzügyőri állományára használt állományi megnevezés;
+h)[^3] igényjogosult: a NAV teljes pénzügyőri állományára használt állományi megnevezés;
 
-i)[^3] illetékes személyügyi szervezeti egység: a pénzügyőr szolgálati helye szerint illetékes központi vagy területi NAV szerv személyügyi szervezeti egysége;
+i)[^4] illetékes személyügyi szervezeti egység: a pénzügyőr szolgálati helye szerint illetékes központi vagy területi NAV szerv személyügyi szervezeti egysége;
 
 j) próbaidős egyenruházati ellátmány: olyan egyszeri minimális természetbeni járandóság, amelynek rendeltetése, hogy a pénzügyőrök próbaidő alatt rendelkezzenek azon egyenruházati termékekkel, amelyek az egyenruhás szolgálati feladatok ellátásához feltétlenül szükségesek. A próbaidős egyenruházati ellátmányként kiadható termékek körét és maximálisan kiadható mennyiségét a 2. melléklet tartalmazza, melytől eltérni csak lefelé, a közvetlen vezető javaslatára a szolgálati feladat jellegének figyelembevételével, a szerv vezetőjének jóváhagyása mellet lehet;
 
-k) ruházati ellátó egység: az egyenruházati ellátást és elszámolást biztosító központi szervezeti egység;
+k)[^5] ruházati ellátó egység: az egyenruházati ellátást és elszámolást biztosító szervezeti egység;
 
 l) szolgálati (köznapi) egyenruházat: a pénzügyőrök által általában a szolgálati feladataik ellátása során, az adott időszaknak megfelelően viselt öltözet;
 
@@ -42,10 +42,16 @@ p) újonnan bevezetett egyenruházat: az alapfelszerelési egyenruházati ellát
 
 q) újonnan rendszeresített egyenruházat: funkcióját tekintve a meglévő, már rendszeresített egyenruházati termék kiváltására szolgál, de anyagában, színében, formájában stb. szembetűnő változás következett be;
 
-r) vegyesruhás állomány: azok a pénzügyőrök, akik a mindennapi szolgálatteljesítést általában polgári ruházatban látják el,
+r)[^6] vegyesruhás állomány: azok a pénzügyőrök, akik nem tartoznak az egyenruhás, valamint a polgári ruhás állományba, és szolgálati feladataik során egyenruhát és polgári ruházatot is viselhetnek;
 
-s) zenekari díszöltözet: a zenekar tagjai által hangversenyeken, térzene adásakor és egyéb rendezvényeken, esetenként viselt díszöltözet.
+s)[^7] zenekari díszöltözet: a zenekar tagjai által hangversenyeken, térzene adásakor és egyéb rendezvényeken, esetenként viselt díszöltözet;
 
-[^1]: Az 1. § a 47/2015. (XII. 30.) NGM rendelet 18. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § h) pontja a 47/2015. (XII. 30.) NGM rendelet 18. § b) pontja szerint módosított szöveg.
-[^3]: A 2. § i) pontja a 47/2015. (XII. 30.) NGM rendelet 18. § c) pontja szerint módosított szöveg.
+t)[^8] polgári ruhás állomány: azok a NAV nyomozóhatósági feladatait ellátó központi és területi szerv állományába tartozó pénzügyőrök, akik a mindennapi szolgálatteljesítést polgári ruházatban látják el.
+
+[^2]: Az 1. § a 47/2015. (XII. 30.) NGM rendelet 18. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § h) pontja a 47/2015. (XII. 30.) NGM rendelet 18. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § i) pontja a 47/2015. (XII. 30.) NGM rendelet 18. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § k) pontja a 18/2018. (XII. 20.) PM rendelet 13. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § r) pontja a 18/2018. (XII. 20.) PM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § s) pontja a 18/2018. (XII. 20.) PM rendelet 12. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § t) pontját a 18/2018. (XII. 20.) PM rendelet 1. § (2) bekezdése iktatta be.

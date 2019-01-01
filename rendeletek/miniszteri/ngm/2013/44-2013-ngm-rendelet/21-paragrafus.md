@@ -1,5 +1,3 @@
-## 20. § A próbaidős pénzügyőr részére a véglegesítésének napjáig csak a próbaidős egyenruházati normában meghatározott egyenruházati termékek adhatók ki. Ha a próbaidős pénzügyőr szakmai feladata szükségessé teszi további egyenruházati termékek felvételét, azt csak a szerv vezetőjének írásos előterjesztése alapján adhatja ki a ruházati ellátó egység. Az így kiadott egyenruházati termékek az alapfelszerelési egyenruházati ellátmány részét képezik.
-
 21. § (1) A próbaidős egyenruházati ellátmány a szolgálati jogviszony létesítéséhez kapcsolódik, míg az alapfelszerelési egyenruházati ellátmány a véglegesítés napjától jár.
 
 (2) Azon pénzügyőr részére, akit tábornokká neveznek ki, és a tábornoki rendfokozat nem az első rendfokozata, kiegészítő tábornoki alapellátmányban kell részesíteni, ami az alapfelszerelési egyenruházati ellátmány részét képezi.
