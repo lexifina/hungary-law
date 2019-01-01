@@ -1,6 +1,6 @@
 ## 6. § A 4. § (2) bekezdése szerinti tájékoztatást a miniszter első alkalommal e rendelet hatálybalépését követő 15 napon belül teszi közzé.
 
-1. melléklet a 217/2017. (VII. 31.) Korm. rendelethez[^9]
+1. melléklet a 217/2017. (VII. 31.) Korm. rendelethez[^14]
 
 ## A képzés elismerési kérelem minimális tartalma
 
@@ -24,7 +24,7 @@
 
 10. A képzésben részt vevő teljesítményét értékelő rendszer leírása
 
-11. A képzés elvégzéséről szóló igazolás kiadásának feltételei
+11.[^15] A képzésen történő részvételt igazoló jelenléti ív vezetésének módja, a képzésen részt vevő számára a továbbképzési tanulmányi pontszám jóváírásának feltételei
 
 12. A képzési program végrehajtásához szükséges feltételek
 
@@ -36,4 +36,5 @@ a) A képzésben részt vevő oktatók szakmai önéletrajza
 
 b) Az oktatók önéletrajzában szereplő személyes adatok kezelésére vonatkozó hozzájárulás, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 5. § (1) bekezdése alapján
 
-[^9]: Az 1. mellékletet a 481/2017. (XII. 28.) Korm. rendelet 15. §-a iktatta be.
+[^14]: Az 1. mellékletet a 481/2017. (XII. 28.) Korm. rendelet 15. §-a iktatta be.
+[^15]: Az 1. melléklet 11. pontja a 258/2018. (XII. 18.) Korm. rendelet 3. §-a szerint módosított szöveg.
