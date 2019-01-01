@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1790-30
 | --- | --- | --- |
 | 2015-10-30 | 2015-1790-30-22.1 | 1790/2015. (X. 30.) Korm. határozat |
 | 2016-07-06 | 2015-1790-30-22.2 | 1348/2016. (VII. 6.) Korm. határozat |
+| 2019-01-01 | 2015-1790-30-22.3 | 2011: CXCV. törvény |
