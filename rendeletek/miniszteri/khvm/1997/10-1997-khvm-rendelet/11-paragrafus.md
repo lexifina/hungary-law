@@ -1,18 +1,18 @@
 ## Jelentések, tájékoztatások
 
-11. § (1)[^35] A vízállásokat és a védekezéssel kapcsolatos egyéb adatokat a védekező szervezet saját ügyeletére jelenti. A mértékadó árvizi vízmércék vízállásait – az egyéb adatokkal együtt – a VIZIG ügyelete az OVF ügyeletének jelenti.
+11. § (1)[^37] A vízállásokat és a védekezéssel kapcsolatos egyéb adatokat a védekező szervezet saját ügyeletére jelenti. A mértékadó árvizi vízmércék vízállásait – az egyéb adatokkal együtt – a VIZIG ügyelete az OVF ügyeletének jelenti.
 
 (2) A vízügyi igazgató az R. 18. § (1) bekezdése szerinti napi jelentést II. fokú vagy annál magasabb készültség esetén az illetékes védelmi bizottság elnökének tájékoztatásul megküldi.
 
-(3)[^36] A védekező szervezetek a fokozatok elrendeléséről, módosításáról és megszüntetéséről haladéktalanul tájékoztatni kötelesek a működési területével érintett VIZIG ügyeletét.
+(3)[^38] A védekező szervezetek a fokozatok elrendeléséről, módosításáról és megszüntetéséről haladéktalanul tájékoztatni kötelesek a működési területével érintett VIZIG ügyeletét.
 
-(3a)[^37] A védekező önkormányzatok és vízitársulatok a napi jelentésüket a működési területével érintett VIZIG ügyeletének a védekezés ideje alatt minden nap 7:00 óráig megküldik.
+(3a)[^39] A védekező önkormányzatok és vízitársulatok a napi jelentésüket a működési területével érintett VIZIG ügyeletének a védekezés ideje alatt minden nap 7:00 óráig megküldik.
 
-(3b)[^38] A Törzs működési ideje alatt a Törzs műszaki ügyelete napi jelentést készít a vízügyi igazgatási szervek irányításáért felelős miniszter részére.
+(3b)[^40] A Törzs működési ideje alatt a Törzs műszaki ügyelete napi jelentést készít a vízügyi igazgatási szervek irányításáért felelős miniszter részére.
 
 (4) A védekező szervezetek felelős vezetői és a Törzs – a jelentősebb védekezési eseményekről – a sajtó, a rádió, a televízió számára, szervezett keretek között tájékoztatást adnak.
 
-[^35]: A 11. § (1) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^36]: A 11. § (3) bekezdése a 49/2016. (XII. 14.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^37]: A 11. § (3a) bekezdését a 49/2016. (XII. 14.) BM rendelet 5. § (2) bekezdése iktatta be.
-[^38]: A 11. § (3b) bekezdését a 49/2016. (XII. 14.) BM rendelet 5. § (2) bekezdése iktatta be.
+[^37]: A 11. § (1) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés i) pontja szerint módosított szöveg.
+[^38]: A 11. § (3) bekezdése a 49/2016. (XII. 14.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^39]: A 11. § (3a) bekezdését a 49/2016. (XII. 14.) BM rendelet 5. § (2) bekezdése iktatta be.
+[^40]: A 11. § (3b) bekezdését a 49/2016. (XII. 14.) BM rendelet 5. § (2) bekezdése iktatta be.

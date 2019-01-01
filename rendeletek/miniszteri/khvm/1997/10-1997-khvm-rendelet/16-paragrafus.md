@@ -12,6 +12,6 @@ b) a védvonalon a védekezést ellátók kimentéséhez szükséges szállító
 
 c) a veszélyeztetett területről a lakosság és az anyagi javak kimenekítésére;
 
-d)[^45] a VIZIG működési területén lévő árvízi tározó igénybevételére.
+d)[^48] a VIZIG működési területén lévő árvízi tározó igénybevételére.
 
-[^45]: A 16. § (3) bekezdés d) pontját a 49/2016. (XII. 14.) BM rendelet 7. §-a iktatta be.
+[^48]: A 16. § (3) bekezdés d) pontját a 49/2016. (XII. 14.) BM rendelet 7. §-a iktatta be.
