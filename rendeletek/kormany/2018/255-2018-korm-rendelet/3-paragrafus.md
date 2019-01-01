@@ -1,0 +1,1 @@
+## 2. § Az átadás-átvétellel érintett feladatok ellátásával összefüggő, a Támogatáskezelő javára kiadott, hatályban lévő hatósági engedélyek jogosultjának 2019. január 1-jétől az Alapkezelő minősül. A hatósági engedélyek ennek megfelelő módosítását az Alapkezelő kezdeményezi.
