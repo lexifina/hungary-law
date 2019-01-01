@@ -32,7 +32,7 @@
 
 | 13. | Nemzeti Reorganizációs Nonprofit Korlátolt Felelősségű Társaság | 01-09-994411 | 2022. december 31. |
 
-| 14. | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-200849 | 2022. december 31. |
+| 14. |  |  |  |
 
 | 15. | DAKK Dél-alföldi Közlekedési Központ Zártkörűen működő Részvénytársaság | 03-10-100546 | 2022. december 31. |
 
@@ -69,6 +69,8 @@
 | 31. | VOLÁN Buszpark Kereskedelmi és Szolgáltató Kft. | 01-09-284691 | 2022. december 31. |
 
 | 32. | Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság | 01-10-043547 | 2022. december 31. |
+
+| 33. | Nemzeti Útdíjfizetési Szolgáltató Zártkörűen működő Részvénytársaság | 01-10-043108 | 2022. december 31. |
 
 ## II. Tulajdonosi joggyakorló: az Agrárminisztérium
 

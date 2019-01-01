@@ -44,6 +44,14 @@
 
 | 1. | NFFKÜ – Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2022. december 31. |
 
+## IV. Tulajdonosi joggyakorló: a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-200849 | 2022. december 31. |
+
 4. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^6]
 
 A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók

@@ -146,4 +146,4 @@
 
 3. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^5]
 
-[^5]: A 3. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^5]: A 3. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (3) bekezdése, a 7/2018. (XII. 21.) NVTNM rendelet 2. § (2) bekezdése szerint módosított szöveg.
