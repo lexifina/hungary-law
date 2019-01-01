@@ -18,7 +18,7 @@ a) napi munkába járó, vagy
 
 b) a kinevezéstől vagy a munkaszerződéstől eltérő foglalkoztatás, képzésre történő beiskolázás helye szerinti település az eredeti munkavégzési helye szerinti településsel, a lakóhelyével vagy a tartózkodási helyével azonos,
 
-3. a szolgálat érdekében áthelyezett, vagy a Hjt. 42. § (2) bekezdés b) pontja szerint vezényelt hivatásos és szerződéses katona részére – ha a vezénylés helye szerinti település az eredeti szolgálatteljesítési helye szerinti településsel, lakóhelyével vagy tartózkodási helyével nem azonos – a szolgálatteljesítés napján, azzal, hogy az első beosztásba helyezés szintén a szolgálat érdekében történő áthelyezésnek minősül; nem jár természetbeni ellátás az alap-, pót- és egészségügyi szabadság, a szolgálat alóli mentesítés, a személyi szabadságot érintő kényszerintézkedés napjaira, és ha az áthelyezés, vezénylés szerinti szolgálatteljesítési helyéről naponta hazautazhat,
+3.[^1] az első beosztásba kinevezett, a szolgálat érdekében áthelyezett, kinevezett, vagy a Hjt. 42. § (2) bekezdés b) pontja szerint vezényelt hivatásos és szerződéses katona részére – ha a vezénylés helye szerinti település az eredeti szolgálatteljesítési helye szerinti településsel, lakóhelyével vagy tartózkodási helyével nem azonos – a szolgálatteljesítés napján; nem jár természetbeni ellátás az alap-, pót- és egészségügyi szabadság, a szolgálat alóli mentesítés, a személyi szabadságot érintő kényszerintézkedés napjaira, és ha a kinevezés, az áthelyezés, a vezénylés szerinti szolgálatteljesítési helyéről naponta hazautazhat,
 
 4. átszervezés következtében helyőrséget változtató katonai szervezet hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katonái az áttelepülés megkezdésének napjától az új helyőrségbe érkezés napjáig,
 
@@ -64,6 +64,8 @@ b) a kinevezéstől vagy a munkaszerződéstől eltérő foglalkoztatás, képz�
 
 25. a HM és az MH különböző vezetési szintjein megrendezésre kerülő, a pénzügyi és számviteli feladatok központosított ellátására kijelölt honvédelmi szervezet vezetője, az MH középszintű vezető szerve parancsnokának haderőnemi helyettesei, valamint az alárendelt katonai szervezetekkel rendelkező más magasabb szintű parancsnokság jogállású katonai szervezet parancsnoka és az MH Vezénylő Zászlós által megrendezett szakmai értekezleten, tanácskozáson részt vevő személyi állomány, évente legfeljebb négy alkalommal, azzal, hogy a berendelt vagy meghívott résztvevők körét a rendezvény megtartását elrendelő vagy jóváhagyó szolgálati elöljáró, hivatali felettes határozza meg,
 
+25a.[^2] a KNBSZ igazgatói és főosztályvezetői által megrendezett szakmai értekezleten, tanácskozáson részt vevő személyi állomány évente legfeljebb négy alkalommal, alkalmanként legfeljebb két nap időtartamban azzal, hogy a berendelt vagy meghívott résztvevők körét a KNBSZ főigazgatója határozza meg, és az élelmezési ellátásra jogosult résztvevők létszáma rendezvényenként nem haladhatja meg a 100 főt,
+
 26. a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet logisztikai igazgatója és a logisztikai anyagnemekért felelős szakmai főnökei, az alárendelt katonai szervezetekkel rendelkező más magasabb szintű parancsnokság jogállású katonai szervezet parancsnokának szakmai helyettesei, valamint az MH középszintű vezető szerve törzsfőnökének szakmai helyettesei és logisztikai anyagnemekért felelős főnöke által megrendezett munkaértekezleten, tanácskozáson részt vevő személyi állomány, évente legfeljebb két alkalommal, azzal, hogy a berendelt vagy meghívott résztvevők körét a rendezvény megtartását elrendelő vagy jóváhagyó szolgálati elöljáró határozza meg, és az élelmezési ellátásra jogosult résztvevők létszáma rendezvényenként nem haladhatja meg a 100 főt,
 
 27. a HVKF, az MH középszintű vezető szervének parancsnoka, valamint az alárendelt katonai szervezettel rendelkező más magasabb szintű parancsnokság jogállású katonai szervezet parancsnoka által megtartott havi munka- és feladatszabó értekezleten részt vevő személyi állomány, havonta legfeljebb egy alkalommal, a berendelt vagy meghívott résztvevők körét a rendezvény megtartását elrendelő vagy jóváhagyó szolgálati elöljáró határozza meg,
@@ -105,3 +107,6 @@ b) a kinevezéstől vagy a munkaszerződéstől eltérő foglalkoztatás, képz�
 4. az (1) bekezdés 15–20. pontjában felsorolt rendezvényekre meghívott külső vendégek részére az élelmezési feljavítási normával együttes értékben.
 
 (3) A (2) bekezdés 4. pontja alapján felszámított adagszám – az (1) bekezdés 19. és 20. pontjában meghatározott eseteket kivéve – nem lehet több, mint a belső vendégek 10%-a, de legfeljebb 50 fő, ahol ez a szám nem éri el a 10 főt, ott legfeljebb 10 fő.
+
+[^1]: A 8. § (1) bekezdés 3. pontja a 20/2018. (XII. 28.) HM rendelet 119. § (1) bekezdésével megállapított szöveg.
+[^2]: A 8. § (1) bekezdés 25a. pontját a 20/2018. (XII. 28.) HM rendelet 119. § (2) bekezdése iktatta be.
