@@ -1,1 +1,0 @@
-A Kormány az államháztartás központi alrendszerébe tartozó költségvetési szervek és fejezeti kezelésű előirányzatok 2014. évi költségvetési maradványának felhasználásáról szóló 1519/2015. (VII. 27.) Korm. határozatban megállapított, 2014. évi, további intézkedésig fel nem használható kötelezettségvállalással nem terhelt költségvetési maradványokból
