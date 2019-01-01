@@ -1,0 +1,3 @@
+65. § A Met. 22. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés a) pontja szerinti okmány megfelel a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendeletben, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendeletben foglaltaknak.”

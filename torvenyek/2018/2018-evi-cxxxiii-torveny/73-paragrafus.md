@@ -1,0 +1,3 @@
+73. § A Met. 85. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A Letelepedési Alapról szóló 49/1988. (VI. 28.) MT rendelet, a Menekülteket Támogató Alapról szóló 1993. évi XXVI. törvény, továbbá a menedékjogról szóló 1997. évi CXXXIX. törvény hatálya alá tartozó külföldiek ellátásáról és támogatásáról szóló 25/1998. (II. 18.) Korm. rendelet, valamint e törvény alapján korábban kifizetett kamatmentes lakásszerzési támogatások visszafizetésének biztosítására bejegyzett jelzálogjognak, valamint az elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban történő töröltetésére – a menekültügyi hatóság engedélye alapján – a támogatást folyósító önkormányzat polgármesteri hivatalának jegyzője köteles.”
