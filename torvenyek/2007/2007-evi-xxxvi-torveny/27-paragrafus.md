@@ -8,11 +8,11 @@ a) jogi személlyel szemben kiszabott pénzbírság,
 
 b) szabálysértés elkövetését megállapító vagy azon alapuló tagállami határozatban megállapított eljárási költség, vagy
 
-c) sértett vagy köz javára fizetendő jóvátétel
+c) sértett, sértettet segítő szervezet vagy köz javára fizetendő jóvátétel
 
 vonatkozásában kezdeményezik.
 
-(1c) Az (1a) és (1b) bekezdés esetén a pénzbírságot kiszabó külföldi határozatot a szabálysértési pénzbírságra vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani azzal, hogy a bírság kizárólag adók módjára hajtható be, közérdekű munkával történő teljesítésének, valamint elzárásra történő átváltoztatásnak nincs helye. A sértett javára fizetendő jóvátétel esetén a bírság adók módjára történő behajtásának sincs helye.
+(1c) Az (1a) és (1b) bekezdés esetén a pénzbírságot kiszabó külföldi határozatot a szabálysértési pénzbírságra vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani azzal, hogy a bírság kizárólag adók módjára hajtható be, közérdekű munkával történő teljesítésének, valamint elzárásra történő átváltoztatásnak nincs helye. A sértetteket segítő szervezeteknek vagy közjavára fizetendő jóvátételt a szabálysértési költségre vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani.
 
 (2) A külföldi határozat végrehajtásának átvétele esetén a pénzbírság megfizetésének elengedése érdekében méltányossági kérelem nem nyújtható be.
 
