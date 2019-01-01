@@ -5,3 +5,5 @@
 (3)
 
 (4) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, a 27/B. § (1) bekezdése és a 27/D. § (2) bekezdése szerinti értesítésért, valamint a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért – ha jogszabály másként nem rendelkezik – igazgatási szolgáltatási díjat kell fizetni.
+
+(5) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért fizetendő igazgatási díj megfizetése alól mentesség illeti meg a helyi önkormányzatot, a költségvetési szervet, a közjegyzőt, valamint az önálló bírósági végrehajtót, továbbá törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott ügyfajtákban az ügyfelet.

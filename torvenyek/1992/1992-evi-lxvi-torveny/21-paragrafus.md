@@ -46,4 +46,6 @@ v) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bej
 
 w) – az a)–v) pont eltérő rendelkezése hiányában – a közigazgatási hatóság az általa vezetett közhiteles hatósági nyilvántartás törvényben meghatározott adattartalmának részét képező adatok és a nyilvántartásból való, elhalálozás miatti kikerülés ideje tekintetében;
 
-z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől.
+z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
+
+zs) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, az értesítésicím-adat és a nyilvántartásból kikerülés helye adatok kivételével az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban szereplő polgárok azonosítása és ellenőrzése céljából.
