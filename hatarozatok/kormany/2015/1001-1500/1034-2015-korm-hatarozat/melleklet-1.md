@@ -1,12 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének az 5. Mesepark projekt megvalósítása címmel történő kiegészítését;
+## 1.[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 2.[^1] az Áht. 21. § (6) bekezdése alapján 2459,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 2.[^2] az Áht. 21. § (6) bekezdése alapján 2459,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -25,6 +19,8 @@
 ## 4. egyetért azzal, hogy a belügyminiszter a 2. pont szerinti támogatást – legkésőbb 2016. december 31-éig történő elszámolási kötelezettséggel – a támogatási szerződés megkötését követően soron kívül utalványozza az Önkormányzat számára.
 
 1. melléklet az 1034/2015. (I. 30.) Korm. határozathoz
+
+5K00317_0
 
 | IX. Helyi önkormányzatok támogatásai XI. Miniszterelnökség XVII. Nemzeti Fejlesztési Minisztérium XVIII. Külgazdasági és Külügyminisztérium XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2015. Millió forintban, egy tizedessel |
 
@@ -134,4 +130,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont az 1256/2016. (VI. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont az 1256/2016. (VI. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
