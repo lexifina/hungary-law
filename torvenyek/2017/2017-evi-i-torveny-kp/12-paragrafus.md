@@ -8,7 +8,7 @@
 
 (2) A közszolgálati jogviszonnyal kapcsolatos per kivételével a törvényszék hatáskörébe tartozik
 
-a) törvény eltérő rendelkezésének hiányában a központi államigazgatási szervekről szóló törvény szerinti önálló szabályozó szerv, autonóm államigazgatási szerv és kormányhivatal,
+a) törvény eltérő rendelkezésének hiányában az önálló szabályozó szerv, az autonóm államigazgatási szerv és a kormányzati főhivatal,
 
 b) a vasúti igazgatási szerv,
 
