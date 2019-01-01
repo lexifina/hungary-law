@@ -1,3 +1,5 @@
+## 10. §
+
 ## 7. Záró rendelkezések
 
 11. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2012. augusztus 1-jén lép hatályba.

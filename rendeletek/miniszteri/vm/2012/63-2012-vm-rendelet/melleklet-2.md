@@ -1148,11 +1148,7 @@
 
 | 13. | VADGAZDÁLKODÁSI DÍJAK |  |
 
-| 13.1. | Vadászati engedély után fizetendő díj |  |
-
-| 13.1.1. | megkezdett harminc naponként | 10 000 |
-
-| 13.1.2. | egy évre | 100 000 |
+| 13.1. |  |  |
 
 | 13.2. | Trófeabírálati díjak |  |
 
@@ -2846,7 +2842,7 @@
 
 | 20.1. | Hatósági konzultáció, szakértői tevékenység, szaktanácsadás óradíja megkezdett óránként, az ügyfél kérelmére induló eljárás esetén | 12 000 |
 
-2. melléklet a 63/2012. (VII. 2.) VM rendelethez[^17]
+2. melléklet a 63/2012. (VII. 2.) VM rendelethez[^18]
 
 1. A Nemzeti Élelmiszerlánc-biztonsági Hivatal fizetési számlája:
 
@@ -3044,4 +3040,4 @@
 
 | Zala Megyei Kormányhivatal erdészeti feladatok | 10049006-00302986-00000000 |
 
-[^17]: A 2. melléklet a 46/2016. (VII. 13.) FM rendelet 1. §-ával megállapított szöveg.
+[^18]: A 2. melléklet a 46/2016. (VII. 13.) FM rendelet 1. §-ával megállapított szöveg.
