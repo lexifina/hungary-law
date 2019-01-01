@@ -90,6 +90,6 @@
 
 ## kérelmező (törvényes képviselő)
 
-32. melléklet a 25/2007. (V. 31.) IRM rendelethez[^75]
+32. melléklet a 25/2007. (V. 31.) IRM rendelethez[^77]
 
-[^75]: A 32. mellékletet a 38/2017. (XII. 27.) BM rendelet 8. § c) pontja hatályon kívül helyezte.
+[^77]: A 32. mellékletet a 38/2017. (XII. 27.) BM rendelet 8. § c) pontja hatályon kívül helyezte.

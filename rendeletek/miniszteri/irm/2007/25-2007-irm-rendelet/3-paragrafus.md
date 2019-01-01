@@ -1,6 +1,6 @@
 ## A harmadik ország állampolgárságával rendelkező családtag száznyolcvan napon belül kilencven napot meghaladó tartózkodási jogát igazoló okmány[^4]
 
-3. § (1)[^5] A száznyolcvan napon belül kilencven napot meghaladó tartózkodási jogot igazoló okmány (a továbbiakban: tartózkodási kártya) kiadása, illetve a tartózkodási kártya meghosszabbítása iránti kérelmet az EGT-állampolgár és a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja a 2. mellékletben meghatározott formanyomtatványon nyújthatja be.
+3. § (1)[^5] A száznyolcvan napon belül kilencven napot meghaladó tartózkodási jogot igazoló okmány (a továbbiakban: tartózkodási kártya) kiadása, illetve a tartózkodási kártya meghosszabbítása iránti kérelmet az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja a 2. mellékletben meghatározott formanyomtatványon nyújthatja be.
 
 (2)[^6] A kérelemhez csatolni kell egy darab arcfényképet. A kérelmet saját kezűleg alá kell írni. A cselekvőképtelen személy kérelmét a törvényes képviselő írja alá.
 
@@ -10,13 +10,14 @@
 
 a) az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kártya formátumban kell kiadni,
 
-b)[^7] a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kártya formátumban – tartózkodási engedély megnevezéssel – kell kiadni.
+b)[^7] a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott okmány pótlása vagy cseréje esetén kártya formátumban – tartózkodási engedély megnevezéssel – kell kiadni.
 
 (5) Az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiállított tartózkodási kártyát az e rendelet 6. melléklet 2. pont a) alpontja szerinti formában és adattartalommal kell kiállítani.
 
-(6) A magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiállított tartózkodási kártyát az e rendelet 6. melléklet 2. pont b) alpontja szerinti formában és adattartalommal kell kiállítani.
+(6)[^8]
 
 [^4]: A 3. §-t megelőző alcím a 23/2016. (VI. 29.) BM rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdése a 38/2017. (XII. 27.) BM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdése a 38/2017. (XII. 27.) BM rendelet 1. §-ával megállapított, a 35/2018. (XII. 21.) BM rendelet 5. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (2) bekezdése a 38/2017. (XII. 27.) BM rendelet 7. § a) pontja szerint módosított szöveg.
-[^7]: A 3. § (4) bekezdés b) pontja a 12/2010. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § (4) bekezdés b) pontja a 12/2010. (XII. 23.) BM rendelet 1. §-ával megállapított, a 35/2018. (XII. 21.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (6) bekezdését a 35/2018. (XII. 21.) BM rendelet 7. §-a hatályon kívül helyezte.

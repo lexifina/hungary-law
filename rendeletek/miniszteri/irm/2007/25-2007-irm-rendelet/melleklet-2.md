@@ -1,3 +1,3 @@
-2. melléklet a 25/2007. (V. 31.) IRM rendelethez[^46]
+2. melléklet a 25/2007. (V. 31.) IRM rendelethez[^48]
 
-[^46]: A 2. melléklet a 38/2017. (XII. 27.) BM rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.
+[^48]: A 2. melléklet a 35/2018. (XII. 21.) BM rendelet 6. § a) pontjával megállapított szöveg.

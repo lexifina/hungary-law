@@ -96,6 +96,6 @@
 
 | Az eljárásért a külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni. |
 
-41. melléklet a 25/2007. (V. 31.) IRM rendelethez[^84]
+41. melléklet a 25/2007. (V. 31.) IRM rendelethez[^86]
 
-[^84]: A 41. mellékletet a 38/2017. (XII. 27.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^86]: A 41. mellékletet a 38/2017. (XII. 27.) BM rendelet 6. § (2) bekezdése iktatta be.

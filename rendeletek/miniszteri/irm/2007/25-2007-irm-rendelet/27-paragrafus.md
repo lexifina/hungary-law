@@ -1,3 +1,3 @@
-27. §[^40]
+## Átmeneti rendelkezések[^42]
 
-[^40]: A 27–30. §-t a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 13. pontja hatályon kívül helyezte.
+[^42]: Az „Átmeneti rendelkezések” alcímet (27–28. §) a 35/2018. (XII. 21.) BM rendelet 4. §-a iktatta be.
