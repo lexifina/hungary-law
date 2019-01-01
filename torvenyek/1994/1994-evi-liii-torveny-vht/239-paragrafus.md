@@ -26,9 +26,9 @@ b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) vagy i) pontjában 
 
 c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
 
-d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári évben a 270 napot,
+d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot,
 
-e) a végrehajtó a kinevezését követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
+e) a végrehajtó a kinevezését megelőzően vagy azt követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
 
 f) a végrehajtónak 30 napot meghaladóan nincs bejelentve állandó helyettese,
 

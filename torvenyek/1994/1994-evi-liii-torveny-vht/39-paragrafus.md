@@ -2,6 +2,8 @@
 
 39. § (1) Ha a végrehajtást kérő vagy az adós személyében változás állt be, a végrehajtható okirat kiállítása előtt a kiállításra jogosult bíróság (hatóság), ha pedig a változás a végrehajtható okirat kiállítása után derült ki, a végrehajtást foganatosító bíróság a jogutódlás kérdésében — szükség esetén a felek és a jogutódok meghallgatása és bizonyítás után — végzéssel (határozattal) dönt.
 
+(1a) A jogutódlás tárgyában hozott végzés ellen fellebbezésnek van helye.
+
 (2) Ha a végrehajtó tudomást szerzett a felek személyében történt változásról, a végrehajtási ügyet beterjeszti a végrehajtást foganatosító bírósághoz.
 
 (3) Ha a végrehajtó a végrehajtás foganatosítása előtt az adós haláláról szerzett tudomást, erről tájékoztatja a végrehajtást kérőt, és az ügyet a jogutódlás kérdésében való döntés végett az ő kívánságára terjeszti be a végrehajtást foganatosító bírósághoz.

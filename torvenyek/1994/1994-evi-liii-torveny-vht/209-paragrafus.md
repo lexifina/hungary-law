@@ -1,1 +1,1 @@
-209. § A 208. § szerint hozott végzés jogerőre emelkedése után a bíróság a végrehajtási tanúsítvánnyal ellátott külföldi határozat alapján végrehajtási lapot, illetőleg vele egy tekintet alá eső végrehajtható okiratot állít ki.
+209. § A 208. § szerint hozott végzés ellen, a kérelmet visszautasító és a kérelmet elutasító végzés ellen fellebbezésnek van helye. A 208. § szerint hozott végzés jogerőre emelkedése után a bíróság a végrehajtási tanúsítvánnyal ellátott külföldi határozat alapján végrehajtási lapot, illetve vele egy tekintet alá eső végrehajtható okiratot állít ki.

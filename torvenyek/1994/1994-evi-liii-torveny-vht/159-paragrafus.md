@@ -4,6 +4,8 @@
 
 (3) Az ingatlanra az árverési vételi ajánlatra vonatkozó szabályok szerint tehető vételi ajánlat.
 
+(3a) Földek esetén az ingatlan folyamatos árverezése iránti hirdetmény közzétételét követően a (3) bekezdéstől eltérően, az ingatlanra írásban a végrehajtónál tehető vételi ajánlat.
+
 (4) A vételi ajánlat közzétételével az elektronikus árverési rendszerben automatikusan közzétételre kerül az újabb árverés árverési hirdetménye, valamint a hozzátartozó licitnaplóban a vételi ajánlat, a végrehajtó pedig az általános szabályok szerint intézkedik az újabb árverés közhírré tételével kapcsolatos egyéb intézkedések megtétele iránt. Az árverés befejező időpontja – a 145/B. §-ban foglaltak figyelembe vételével, valamint azzal, hogy az árverés ebben az esetben 30 napig tart – automatikusan kerül meghatározásra azzal, hogy ha a közzétételt követő 30. nap nem munkanapra esik, akkor a következő munkanap meghatározott óráját kell befejező időpontként meghatározni.
 
 (5) Ha az újabb árverés kitűzését a végrehajtást kérő kérte, a végrehajtó az általános szabályok szerint intézkedik az árverés közhírré tétele és lefolytatása iránt.
