@@ -4,4 +4,4 @@
 
 ## 23. Az adózás rendjéről szóló törvény módosítása
 
-282–295. §
+### 282. §

@@ -1,11 +1,1 @@
-## A tartósan álláskereső személyek után érvényesíthető adókedvezmény
-
-462/C. § (1) A tartósan álláskereső természetes személyt adófizetési kötelezettséget eredményező munkaviszonyban foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
-
-(2) Az adókedvezmény összegét a kifizető havonta az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint után a 459. § (1) bekezdés szerinti adómértékkel megállapított összeggel a foglalkoztatás első két évében, és legfeljebb 100 ezer forint után a 459. § (1) bekezdés szerinti adómérték 50 százalékával megállapított összeggel a foglalkoztatás harmadik évében.
-
-(3) E § alkalmazásában tartósan álláskereső az, akit az állami foglalkoztatási szerv a kedvezményezett foglalkoztatást megelőző 275 napon belül legalább 183 napig a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerint álláskeresőként nyilvántartott. E szabály alkalmazása szempontjából az álláskeresőként való nyilvántartás időtartamába a közfoglalkoztatásban történő részvétel időtartamát be kell számítani.
-
-(4) A kedvezményt a munkáltató a feltételek fennállását igazoló, az állami foglalkoztatási szerv által, az álláskereső személy kérelmére kiállított igazolás birtokában érvényesítheti.
-
-(5) A (2) bekezdésben foglalt részkedvezmény azon egész hónap tekintetében is megilleti a kifizetőt, amelyben a kedvezményezett foglalkoztatás első két éve, illetve harmadik éve véget ér.
+### 462/C. §

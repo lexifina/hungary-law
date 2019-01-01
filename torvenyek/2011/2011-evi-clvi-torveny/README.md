@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-156-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2011-156-00-00.39 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-156-00-00.40 |
 | 2018-07-26 | 2018. évi XLI. törvény | 2011-156-00-00.41 |
+| 2019-01-01 | 2018. évi XLI. törvény | 2011-156-00-00.42 |

@@ -1,1 +1,1 @@
-464/E. § A 455. § (4) bekezdés d) pontjában foglaltaktól eltérően, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti kiküldetés meghosszabbításának bejelentése esetén a szociális hozzájárulási adófizetési kötelezettség a kiküldetés kezdetét követő második év végétől áll fenn.
+### 464/E. §

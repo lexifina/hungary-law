@@ -1,11 +1,1 @@
-## A mezőgazdasági munkakörben foglalkoztatott munkavállalók után érvényesíthető adókedvezmény
-
-462/G. § (1) A huszonöt év feletti és ötvenöt év alatti, a Foglalkozások Egységes Osztályozási Rendszeréről szóló, 2012. január 1-jén hatályos KSH közlemény (FEOR-08) 6. főcsoport 61. csoportjába tartozó, a 7. főcsoport 7333 számú foglalkozásából a mezőgazdasági gép (motor) karbantartója, javítója munkakörben és a 8. főcsoport 8421 számú foglalkozás szerinti munkakörben (a továbbiakban együtt: mezőgazdasági munkakör), adófizetési kötelezettséget eredményező munkaviszonyban természetes személyt foglalkoztató kifizető az őt a munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
-
-(2) Az adókedvezmény összegét a kifizető havonta, az adott hónapban fennálló adófizetési kötelezettséget eredményező munkaviszonyonként külön-külön kiszámított részkedvezmények összegeként állapítja meg. A részkedvezmény egyenlő a foglalkoztatott természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb 100 ezer forint után a 459. § (1) bekezdés szerinti adómérték 50 százalékával megállapított összeggel.
-
-(3) Ha a kifizető a munkavállalót az adómegállapítási időszak egy részében nem vagy nem kizárólag mezőgazdasági munkakörben foglalkoztatta, a munkaviszony alapján ezen adómegállapítási időszakra vonatkozóan részkedvezményt nem érvényesíthet.
-
-(4) Azon hónapra vonatkozóan, amelyben a munkavállaló a 25. vagy 55. évét betölti, a részkedvezmény nem illeti meg a kifizetőt.
-
-(5) A (2) bekezdésben foglalt részkedvezmény az egész hónap tekintetében megilleti a kifizetőt.
+### 462/G. §
