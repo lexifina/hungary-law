@@ -6,7 +6,7 @@ b) a Tanács 2011/96/EU irányelve a különböző tagállamok anya- és leányv
 
 c) a Tanács 03/49/EK irányelve a tagállamok kapcsolt vállalkozásai közötti kamat, jogdíj fizetések adóztatásának egységes rendszeréről;
 
-d)
+d) a Tanács 2016/1164 EU irányelve (2016. július 12.) a belső piac működését közvetlenül érintő adókikerülési gyakorlatok elleni szabályok megállapításáról és a Tanács 2017/952 EU irányelve (2017. május 29.) az (EU) 2016/1164 irányelvnek a harmadik országokat érintő hibrid struktúrákból adódó diszkrepanciák tekintetében történő módosításáról,
 
 e) a Tanács 2005/19/EK irányelve a különböző tagállamok társaságainak egyesülésére, szétválására, eszközátruházására és részesedéscseréjére alkalmazandó adóztatás közös rendszeréről szóló 90/434/EGK irányelv módosításáról,
 
@@ -26,4 +26,4 @@ c)
 
 (4) E törvény 7. § (12) bekezdése, 22/A. § (4) bekezdése és 1. számú melléklet 14. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet 1–14. és 17. cikkei hatálya alá tartozó támogatási programot tartalmaz.
 
-(5)
+(5) E törvény a Gazdasági Együttműködési és Fejlesztési Szervezet Adóalap-erózió és Nyereség-átcsoportosítás Projekt 4. akciópontja kapcsán publikált jelentés figyelembevételével készült szabályozást tartalmaz.

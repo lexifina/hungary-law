@@ -26,7 +26,7 @@ ea) az adózó (ideértve a jogelődjét is) az immateriális jószágot az ért
 
 eb) a bejelentés adóévét megelőző adóév(ek)ben az ugyanazon jogdíjra jogosító immateriális jószág értékesítéséből, kivezetéséből származó nyereségre nem alkalmazta az (1) bekezdés c) pontját, figyelemmel a (22)–(25) bekezdésben foglaltakra,
 
-f) az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, de legfeljebb az adóévi adózás előtti nyereség 50 százaléka és legfeljebb adóévenként 500 millió forint (a továbbiakban: fejlesztési tartalék), figyelemmel a (15) bekezdésben foglaltakra,
+f) az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összege, de legfeljebb az adóévi adózás előtti nyereség 50 százaléka és legfeljebb adóévenként 10 milliárd forint (a továbbiakban: fejlesztési tartalék), figyelemmel a (15) bekezdésben foglaltakra,
 
 g) az adózónál a kapott (járó) osztalék és részesedés címén
 
@@ -40,6 +40,8 @@ gy) a tagnál (részvényesnél, üzletrész-tulajdonosnál)
 
 2. az ellenőrzött külföldi társaságban fennálló részesedés 1. pont szerinti kivonásakor a kivezetés következtében az adóévben elszámolt bevétel csökkentve a részesedés (10) bekezdés szerinti bekerülési értékének a könyv szerinti értéket meghaladó részével, legfeljebb a 8. § (1) bekezdésének f) pontja alapján az adózás előtti eredmény növeléseként elszámolt – az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazolt – és az adózás előtti eredmény csökkentéseként még figyelembe nem vett összeg,
 
+3. az ellenőrzött külföldi társaság részesedésének értékesítésekor, nem pénzbeli vagyoni hozzájárulásként történő kivezetésekor a kivezetés következtében az adóévben elszámolt bevétel csökkentve a részesedés (10) bekezdés szerinti bekerülési értékének a könyv szerinti értéket meghaladó részével, de legfeljebb a 8. § (1) bekezdésének f) pontja alapján az adózás előtti eredmény növeléseként elszámolt – az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazolt – és az adózás előtti eredmény csökkentéseként még figyelembe nem vett összeg,
+
 h) a megszerzett társaság tagjánál (részvényesénél) a kedvezményezett részesedéscsere alapján kivezetett részesedésre az adóévben elszámolt árfolyamnyereség [ideértve a kivezetett részesedés kapcsán – a kedvezményezett részesedéscsere során – a 8. § (1) bekezdés dzs) pont b) alpontja alapján elszámolt összeget is], ha az adózó igénybe kívánja venni e kedvezményt; e kedvezmény alkalmazása esetén az adózó a kedvezményezett részesedéscsere alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
 
 i) az iskolai rendszerű szakképzésben közreműködő adózónál tanulónként minden megkezdett hónap után havonta az adóév első napján érvényes minimálbér 24 százaléka, ha az adózó a szakképző iskolai tanuló gyakorlati képzését jogszabályban meghatározott tanulószerződés alapján végzi, illetve 12 százaléka, ha az iskolával kötött együttműködési megállapodás alapján végzi,
@@ -48,7 +50,7 @@ j) a sikeres szakmai vizsgát tett – az i) pontban említett – szakképző i
 
 k) legfeljebb az adózás előtti nyereség összegéig
 
-ka) a személyi jövedelemadóról szóló törvény szerinti mobilitási célú lakhatási támogatás adóévben juttatott összege,
+ka)
 
 kb) a személyi jövedelemadóról szóló törvény szerinti munkásszállás bekerülési értékeként, a bekerülési értékének növekményeként kimutatott összeg a beruházás, felújítás befejezésének adóévében, továbbá a munkásszállás céljára bérelt ingatlan bérleti díjaként, valamint a munkásszállás fenntartására, üzemeltetésére tekintettel az adóévben elszámolt összeg,
 
@@ -58,11 +60,11 @@ l) az adózó választása szerint az elektromos töltőállomás bekerülési �
 
 ly) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
 
-m) a korai fázisú vállalkozásban szerzett részesedés bekerülési értékének (ideértve a szerzést követő tőkeemelésre tekintettel a bekerülési érték növekményét is) háromszorosa a részesedés szerzésének adóévében és az azt követő három adóévben, egyenlő részletekben, de adóévenként legfeljebb 20 millió forint, figyelemmel a (8)–(8d) bekezdésben foglaltakra,
+m) a korai fázisú vállalkozásban szerzett részesedés bekerülési értékének (ideértve a szerzést követő tőkeemelésre tekintettel a bekerülési érték növekményét is) háromszorosa a részesedés szerzésének adóévében és az azt követő három adóévben, egyenlő részletekben, de adóévenként és korai fázisú vállalkozásonként legfeljebb 20 millió forint, figyelemmel a (8)–(8e) bekezdésben foglaltakra,
 
 n) a követelésre az adóévben visszaírt értékvesztés, a követelés bekerülési értékéből a behajthatatlanná vált rész, valamint a követelés átruházásakor, kiegyenlítésekor, beszámításakor elszámolt bevétel, de legfeljebb a nyilvántartott értékvesztés; e rendelkezést a hitelintézet és a pénzügyi vállalkozás a pénzügyi szolgáltatásból, befektetési szolgáltatási tevékenységből származó követelésre, befektetési vállalkozás a befektetési szolgáltatási tevékenységből származó követelésre nem alkalmazza,
 
-ny)
+ny) legfeljebb az adóévet megelőző adóévben (adóévekben) a 8. § (1) bekezdés j) pontja alapján alkalmazott adóalap-növelő tételnek az adóévet megelőzően e rendelkezés szerint az adózó vagy jogelődje, valamint az átruházó társaság által figyelembe nem vett része, azzal, hogy az e rendelkezés szerint csökkentésként figyelembe vett összeg nem haladhatja meg az adóévi kamatlevonási kapacitás összegét,
 
 o) a társasház, a társasüdülő (a továbbiakban: társasház) tulajdonostársainak közössége által a közös név alatt megszerzett olyan jövedelemből való részesedés alapján az adózó által az adóévben bevételként elszámolt összeg, amely jövedelemre vonatkozóan a társasház a személyi jövedelemadóról szóló törvény rendelkezései szerint az adót megfizette,
 
@@ -80,7 +82,7 @@ t) a (17)–(18d) bekezdésben foglaltakra is figyelemmel az adózó saját tev�
 
 ty) a műemléki ingatlant vagy nyilvántartott műemléki értéknek minősülő ingatlant, illetve a helyi egyedi védelem alatt álló ingatlant (mindhárom esetben ideértve többek között annak ingatlan jellegű védett tartozékát, a védett területet, a történeti kertet, a történeti temetkezési helyet, ezek maradványát, továbbá azok rendeltetésszerűen összetartozó együttesét, rendszerét) érintő kulturális örökségvédelmi célú, számvitelről szóló törvény szerinti beruházás, továbbá felújítás bekerülési értékének kétszerese az ingatlant nyilvántartó adózónál (ideértve többek között a kincstári vagy az önkormányzati vagyonba tartozó ingatlan – törvényi kijelölés vagy vagyonkezelési szerződés szerinti – vagyonkezelőjét, valamint a pénzügyi lízing keretében használatba vett ingatlan esetén a lízingbe vevőt, továbbá a koncessziós szerződés alapján beszerzett, megvalósított ingatlanok tulajdonosát is), a beruházás, felújítás befejezésének adóévében és az azt követő öt adóévben az adózó döntése szerinti részletekben, figyelemmel a (26)–(28) bekezdésben foglaltakra is,
 
-u) az adóellenőrzés, önellenőrzés során megállapított, adóévi bevételként, vagy aktivált saját teljesítmény növeléseként (egyszeres könyvvitelt vezetőnél adóköteles bevételként, kifizetett vásárolt készlet növekedéseként) vagy adóévi költség, ráfordítás csökkenéseként elszámolt összeg,
+u) az adóellenőrzés, az adóigazgatási rendtartásról, az adózás rendjéről szóló törvény szerinti önellenőrzés során megállapított, adóévi bevételként, vagy aktivált saját teljesítmény növeléseként (egyszeres könyvvitelt vezetőnél adóköteles bevételként, kifizetett vásárolt készlet növekedéseként) vagy adóévi költség, ráfordítás csökkenéseként elszámolt összeg,
 
 v) megváltozott munkaképességű személy foglalkoztatása esetén személyenként, havonta a megváltozott munkaképességű munkavállalónak kifizetett munkabér, de legfeljebb az adóév első napján érvényes minimálbér, feltéve, hogy az adózó által foglalkoztatottak átlagos állományi létszáma az adóévben nem haladja meg a 20 főt,
 
@@ -132,11 +134,13 @@ b) az adózó rendelkezzen az adóbevallás benyújtásáig a korai fázisú vá
 
 (8d) Az (1) bekezdés m) pontja szerinti tőkebefektetés a korai fázisú vállalkozásnál az adóévben igénybe vett, csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
 
+(8e) A korai fázisú vállalkozásban szerzett részesedés részbeni kivezetése, továbbá a korai fázisú vállalkozásban szerzett részesedésre vonatkozó értékvesztés elszámolása esetén, a részbeni kivezetés, az értékvesztés elszámolása adóévében és az azt követő, az (1) bekezdés m) pontja szerinti csökkentés érvényesítésére rendelkezésre álló adóévben, adóévekben az (1) bekezdés m) pontja szerinti összeget a részbeni kivezetésre, értékvesztésre tekintettel megállapított értékkel arányosan kell megállapítani.
+
 (9)
 
 (10) Az (1) bekezdés gy) pontjának alkalmazásakor a kivezetett részesedés értéke
 
-a) a részesedés bekerülési értéke – de a jogelődtől átvett részesedésnek legalább a jogelődnél kimutatott bekerülési értéke azon tagnál (részvényesnél, üzletrész-tulajdonosnál), amely jogutódlással alakult meg –, ha a tulajdoni részesedést jelentő befektetés jogutód nélküli megszűnés, jegyzett tőke tőkekivonás útján történő leszállítása, vagy – azon tagnál (részvényesnél, üzletrész-tulajdonosnál), amely a jogutódban nem kíván részt venni – átalakulás, egyesülés, szétválás miatt szűnt meg, illetve csökkent,
+a) a részesedés bekerülési értéke – de a jogelődtől átvett részesedésnek legalább a jogelődnél kimutatott bekerülési értéke azon tagnál (részvényesnél, üzletrész-tulajdonosnál), amely jogutódlással alakult meg –, ha a tulajdoni részesedést jelentő befektetés jogutód nélküli megszűnés, jegyzett tőke tőkekivonás útján történő leszállítása, értékesítése, nem pénzbeli vagyoni hozzájárulásként történő kivezetése vagy – azon tagnál (részvényesnél, üzletrész-tulajdonosnál), amely a jogutódban nem kíván részt venni – átalakulás, egyesülés, szétválás miatt szűnt meg, illetve csökkent,
 
 b) a részesedés könyv szerinti értéke, vagy – a tag (részvényes, üzletrész-tulajdonos) választása szerint – az a) pontban meghatározott érték azon tagnál (részvényesnél, üzletrész-tulajdonosnál), amely a jogutódban is részt kíván venni,
 

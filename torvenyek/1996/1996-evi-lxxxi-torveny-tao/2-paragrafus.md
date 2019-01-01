@@ -18,7 +18,7 @@ f) a vízitársulat,
 
 g) az alapítvány, a közalapítvány, az egyesület, a köztestület (ideértve e szervezetek alapszabályában, illetve alapító okiratában jogi személyiséggel felruházott szervezeti egységeket is), továbbá az egyházi jogi személy, a lakásszövetkezet és az önkéntes kölcsönös biztosító pénztár,
 
-h) a felsőoktatási intézmény (ideértve az általa létrehozott intézményt is), továbbá a diákotthon,
+h) a felsőoktatási intézmény (ideértve az általa létrehozott intézményt is), a diákotthon,
 
 i) az európai területi társulás,
 

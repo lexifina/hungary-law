@@ -90,9 +90,9 @@ b) növeli az Ltp. szerinti kiegyenlítési céltartalék felhasználásának (c
 
 (14) A 18/A. § (1) bekezdése szerinti adózó a 7. § (1) bekezdés c) pontja, a 7. § (1) bekezdés f) pontja, a 7. § (15) bekezdése, a 7. § (16) bekezdése, a 16. § (1) bekezdés b) pontja és az 1. számú melléklet 12. pontja alkalmazásában az eredménytartaléknak az adóévben lekötött tartalékba átvezetett és az adóév utolsó napján lekötött tartalékként kimutatott összegét a számvitelről szóló törvény 114/B. § (4) bekezdés e) és h) pontja figyelembevételével határozza meg.
 
-(15) A 18/A. § (1) bekezdése szerinti adózó a 8. § (5) bekezdés b) pontja szerinti saját tőke adóévi napi átlagos állományát a számvitelről szóló törvény 114/B. §-a megfelelő alkalmazásával állapítja meg.
+(15) A 18/A. § (1) bekezdése szerinti adózó a 8. § (5) és (5a) bekezdés szerinti saját tőkéje adóévi napi átlagos állományát a számvitelről szóló törvény 114/B. §-a megfelelő alkalmazásával állapítja meg.
 
-(16) A 18/B. § (2) bekezdés g) pontja szerinti növelő tételt figyelembe vevő adózó a 8. § (1) bekezdés j) pontját és a 8. § (5) bekezdését az adóévben ráfordításként, eszköz bekerülési értékeként elszámolt kamatnak a 18/B. § (2) bekezdés g) pontja szerinti összeg levonása után fennmaradó részére alkalmazza.
+(16) A 18/B. § (2) bekezdés g) pontja szerinti növelő tételt figyelembe vevő adózó a 8. § (1) bekezdés j) pontját az adóévben ráfordításként, eszköz bekerülési értékeként elszámolt kamatnak a 18/B. § (2) bekezdés g) pontja szerinti összeg levonása után fennmaradó részére alkalmazza.
 
 (17) A 18/A. § (1) bekezdése szerinti adózó e törvény 6. § (5) bekezdése, 7. § (1) bekezdés f), k), sz), z) pontja, 7. § (12) bekezdése és 7. § (14) bekezdése alkalmazása során az adózás előtti eredmény (nyereség) helyett a korrigált adózás előtti eredményt (nyereséget) veszi figyelembe.
 

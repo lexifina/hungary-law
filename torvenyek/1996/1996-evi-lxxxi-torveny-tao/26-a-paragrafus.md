@@ -20,11 +20,21 @@ akkor a növekedési adóhitel összegének vonatkozásában az adóévi adóel�
 
 (5) Az (1) bekezdés szerinti feltételeknek megfelelő adózó a növekedési adóhitel vonatkozásában a fizetendő adóelőleget és adót a 6. § (1)–(4) bekezdésében foglaltak szerint a 19. § szerinti mértékkel állapítja meg. Az (1) bekezdés szerinti feltételeknek megfelelő adózó a növekedési adóhitel vonatkozásában a fizetendő adóelőleg és adó megállapításakor az e törvény szerinti adóévi adóalap-csökkentő és adóalap-növelő jogcímeken figyelembe vett összeget arányosan (a növekedési adóhitelnek az adóévi, az (1) bekezdés szerint számított adózás előtti eredményhez viszonyított részarányával számítva) veszi számításba, azzal, hogy amennyiben az arányszám elérné vagy meghaladná a száz százalékot, akkor az adóalap-módosító tételeket teljes összegükben kell figyelembe venni.
 
-(6) Ha a növekedési adóhitelre vonatkozó rendelkezéseket alkalmazó adózó – az átalakulás, egyesülés, szétválás miatti megszűnést kivéve – bármely okból kikerül e törvény hatálya alól, akkor a kikerülés napjával a növekedési adóhitel összegére jutó adóelőleg, adó korábban meg nem fizetett összege egy összegben esedékessé válik.
+(6) A növekedési adóhitel összegére jutó adóelőleg, adó korábban meg nem fizetett összege egy összegben esedékessé válik az növekedési adóhitelre vonatkozó rendelkezéseket alkalmazó adózó
+
+a) adókötelezettsége megszűnésének napján, ha adókötelezettsége a jogutódlás melletti megszűnésétől eltérő ok miatt szűnik meg;
+
+b) csoportos társasági adóalanyban fennálló tagsága keletkezésének napján.
 
 (6a) Az átalakulás, egyesülés, szétválás napjától számított 30 napon belül – ha az átalakulás, egyesülés, szétválás napja a növekedési adóhitel adóévére vonatkozó adóbevallás benyújtását megelőzi, az adóbevallás benyújtásával egyidejűleg – a jogutód köteles a növekedési adóhitel korábban meg nem fizetett (az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott) összegét bevallani és a jogelődre vonatkozó határidő figyelembe vételével megfizetni. Kiválás esetén a fennmaradó gazdasági társaság e rendelkezés alkalmazásában jogutódnak is minősül.
 
-(7) Nem alkalmazhatja az (1) bekezdés szerinti rendelkezéseket az adózó a végelszámolás, a felszámolás kezdő napját megelőző nappal lezáruló adóévben és a végelszámolás időszaka alatt, vagy – ha végelszámolás, felszámolás nélkül szűnik meg jogutód nélkül – utolsó adóévében.
+(7) Nem alkalmazhatja az (1) bekezdés szerinti rendelkezéseket az adózó:
+
+a) a végelszámolás kezdőnapját megelőző nappal lezáruló adóévében és a végelszámolás időszaka alatt;
+
+b) a csoportos társasági adóalanyban fennálló tagsága első adóévét megelőző adóévben és a csoportos adóalany időszaka alatt;
+
+c) utolsó adóévében, ha adókötelezettsége a jogutódlás melletti megszűnésétől eltérő ok miatt szűnik meg.
 
 (7a) Ugyanazon adóév tekintetében az (1)–(5) bekezdésben meghatározott, a növekedési adóhitelre vonatkozó különös adóelőleg-kiegészítési, adóbevallási és adófizetési kötelezettség együttesen nem alkalmazható a 24/A. § szerinti felajánlással.
 

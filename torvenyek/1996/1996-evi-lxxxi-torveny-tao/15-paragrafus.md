@@ -2,9 +2,9 @@
 
 15. § (1) A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság adóalapja az adóévi beszámolóban kimutatott adózás előtti eredmény (2)–(5) bekezdésében felsorolt tételekkel módosított pozitív összege.
 
-(2) Az adózás előtti eredményt csökkenti a 7. § (1) bekezdés b), cs), d), dz), dzs), g), gy),h), n), p), q), r), ty) és u) pontja, valamint a 7. § (10) bekezdése szerinti összeg.
+(2) Az adózás előtti eredményt csökkenti a 7. § (1) bekezdés b), cs), d), dz), dzs), g), gy),h), n), ny), p), q), r), ty) és u) pontja, valamint a 7. § (10) bekezdése szerinti összeg.
 
-(3) Az adózás előtti eredményt növeli a 8. § (1) bekezdés a), b), d), dzs), e), f), gy), h), j), k), l), m), o), p), r) és t) pontja, valamint a 8. § (5) és (7) bekezdése szerinti összeg.
+(3) Az adózás előtti eredményt növeli a 8. § (1) bekezdés a), b), d), dzs), e), f), gy), h), j), k), l), m), o), p), r) és t) pontja, valamint a 8. § (5)–(5e) és (7) bekezdése szerinti összeg.
 
 (4) A (2) és (3) bekezdésben foglaltakat figyelembe véve kell alkalmazni a 16. és 28. §-ok rendelkezéseit.
 

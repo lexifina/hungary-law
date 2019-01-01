@@ -28,7 +28,9 @@ bd) a be) pontban foglaltakra is figyelemmel tárgyi eszköz beruházásra, fel�
 
 be) a sportrendezvények biztonságáról szóló külön jogszabályban meghatározott biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztésre,
 
-bf) képzéssel összefüggő feladatokra;
+bf) képzéssel összefüggő feladatokra,
+
+bg) sportcélú ingatlan üzemeltetésének költségeire;
 
 c) a látvány-csapatsport országos sportági szakszövetsége tagjaként működő hivatásos sportszervezet részére
 
@@ -40,7 +42,9 @@ cc) a sportrendezvények biztonságáról szóló külön jogszabályban meghat�
 
 cd) képzéssel összefüggő feladatokra – azzal, hogy az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 31. cikkével összhangban képzési támogatásként nyújtható –,
 
-ce) a személyi jellegű ráfordításaira – azzal, hogy az ilyen jogcímen nyújtott támogatás csekély összegű (de minimis) támogatásként nyújtható –;
+ce) a személyi jellegű ráfordításaira – azzal, hogy az ilyen jogcímen nyújtott támogatás csekély összegű (de minimis) támogatásként nyújtható –,
+
+cf) sportcélú ingatlan üzemeltetésének költségeire – azzal, hogy az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 55. cikkével összhangban sportlétesítményhez nyújtott működési támogatásként nyújtható;
 
 d) a látvány-csapatsport fejlesztése érdekében létrejött alapítvány részére
 
@@ -54,7 +58,9 @@ dd) a sportrendezvények biztonságáról szóló külön jogszabályban meghat�
 
 de) képzéssel összefüggő feladatokra;
 
-df) versenyeztetéssel összefüggő költségek támogatására – kivéve, ha a látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány hivatásos sportolót alkalmaz –.
+df) versenyeztetéssel összefüggő költségek támogatására – kivéve, ha a látvány-csapatsport fejlesztése érdekében létrejött közhasznú alapítvány hivatásos sportolót alkalmaz –,
+
+dg) sportcélú ingatlan üzemeltetésének költségeire;
 
 e) a sport stratégiai fejlesztését szolgáló, a költségvetési törvényben meghatározott állami sportcélú támogatás felhasználásában döntéshozatali jogkörrel rendelkező és a támogatást folyósító sportköztestület (a továbbiakban: Magyar Olimpiai Bizottság) részére
 
@@ -82,7 +88,7 @@ a támogatás adóévében megfizetni.
 
 (3b)
 
-(3c) Az adózó a támogatást és a kiegészítő sportfejlesztési támogatást az arra jogosult önálló fizetési számlájára történő átutalással a támogatási igazolás kézhezvételét követően teljesíti. A támogatás, illetve a kiegészítő sportfejlesztési támogatás fogadására szolgáló fizetési számlát támogatás esetében a támogatási igazolás, kiegészítő sportfejlesztési támogatás esetében az annak alapjául szolgáló szponzori vagy támogatási szerződés határozza meg. Ha a kiegészítő sportfejlesztési támogatás jogosultja nem országos sportági szakszövetség, az annak alapjául szolgáló szponzori vagy támogatási szerződés egy eredeti vagy hiteles másolati példányát az adózó a megkötését követő 8 napon belül megküldi a kiegészítő sportfejlesztési támogatásban részesített látvány-csapatsport országos sportági szakszövetsége részére.
+(3c) Az adózó a támogatást és a kiegészítő sportfejlesztési támogatást az arra jogosult önálló fizetési számlájára történő átutalással a támogatási igazolás kézhezvételét követően teljesíti. A támogatás és a kiegészítő sportfejlesztési támogatás fogadására szolgáló fizetési számlát támogatás esetében a támogatási igazolás, kiegészítő sportfejlesztési támogatás esetében az annak alapjául szolgáló szponzori vagy támogatási szerződés határozza meg. Ha a kiegészítő sportfejlesztési támogatás jogosultja nem országos sportági szakszövetség, az annak alapjául szolgáló szponzori vagy támogatási szerződés egy eredeti vagy hiteles másolati példányát az adózó a megkötését követő 8 napon belül megküldi a kiegészítő sportfejlesztési támogatásban részesített látvány-csapatsport országos sportági szakszövetsége részére.
 
 (3d) Az adózó a támogatás és a kiegészítő sportfejlesztési támogatás kifizetésének tényét – annak pénzügyi teljesítésétől számított 30 napon belül – az állami adóhatóság részére bejelenti. Amennyiben a kiegészítő sportfejlesztési támogatás pénzügyi teljesítésétől számított 30 nap a támogatás adóévére vonatkozó társasági adóbevallás benyújtását követően járna le, akkor az adózó a kiegészítő sportfejlesztési támogatás kifizetésének tényét a támogatás adóévére vonatkozó társasági adóbevallásában jelenti be az állami adóhatóság részére.
 
@@ -120,7 +126,9 @@ eb) (6) bekezdés bb) alpontjában foglaltak teljesülése esetén 50,
 
 ec) (6) bekezdés bc) alpontjában foglaltak teljesülése esetén 30
 
-százalékát, kivéve, ha a beruházás, felújítás sportcélú ingatlanra irányul és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint utófinanszírozás keretében kerül a támogatott szerv részére kifizetésre. Ilyen esetben a jóváhagyott sportfejlesztési program alapján a támogatási időszakban a sportcélú ingatlanfejlesztés készültségével arányos elszámolás benyújtását és annak elfogadását követően nyújtható támogatás.
+százalékát, kivéve, ha a beruházás, felújítás sportcélú ingatlanra irányul és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint utófinanszírozás keretében kerül a támogatott szerv részére kifizetésre. Ilyen esetben a jóváhagyott sportfejlesztési program alapján a támogatási időszakban a sportcélú ingatlanfejlesztés készültségével arányos elszámolás benyújtását és annak elfogadását követően nyújtható támogatás,
+
+f) sportcélú ingatlan működési veszteségének 50 százalékát, de legfeljebb a 30/I. § (3) bekezdés szerinti esetekben sportcélú ingatlanonként és a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet szerinti támogatási időszakonként a 300 millió forintot.
 
 (4a) A látvány-csapatsportban működő hivatásos sportszervezet, valamint az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a 30/I. § alkalmazandó, a (4) bekezdés c)–f) pontja szerinti mértékeket a támogatási igazolások összértékének támogatási szerződés keretében az (1) bekezdés a) pont ac) alpontjában, az (1) bekezdés b) pont bd) és bf)–bg) alpontjában, az (1) bekezdés c) pont cb), cd), ce) és cf) alpontjában, valamint az (1) bekezdés d) pont dc), de) és dg) alpontjában meghatározott jogcímekre nyújtott támogatáshoz kapcsolódó, a támogatott hivatásos sportszervezet vagy a 30/I. § szerinti szervezet részére azonos elszámolható költségekkel kapcsolatban megfizetett kiegészítő sportfejlesztési támogatással összevont értékére kell alkalmazni.
 
@@ -154,7 +162,9 @@ j) a támogatás igénybevételére jogosult szervezet
 
 ja) a támogatással érintett tárgyi eszköz beruházást, felújítást a saját tulajdonában vagy vagyonkezelésében lévő ingatlanon valósítja meg, vagy
 
-jb) a támogatási igazolás kiállítására jogosult szerv felé előzetesen benyújtja a tárgyi eszköz beruházással, felújítással érintett ingatlan tulajdonosával (tulajdonosi joggyakorlójával) vagy vagyonkezelőjével megkötött, a (6) bekezdés a) és b) pontja szerinti, ingatlan hasznosításra vonatkozó megállapodást azzal, hogy állami vagy helyi önkormányzati tulajdon esetén vagyonhasznosításra vonatkozó megállapodás versenyeztetés mellőzésével is megköthető.
+jb) a támogatási igazolás kiállítására jogosult szerv felé előzetesen benyújtja a tárgyi eszköz beruházással, felújítással érintett ingatlan tulajdonosával (tulajdonosi joggyakorlójával) vagy vagyonkezelőjével megkötött, a (6) bekezdés a) és b) pontja szerinti, ingatlan hasznosításra vonatkozó megállapodást azzal, hogy állami vagy helyi önkormányzati tulajdon esetén vagyonhasznosításra vonatkozó megállapodás versenyeztetés mellőzésével is megköthető,
+
+k) a támogatás igénybevételére jogosult szervezet a sportcélú ingatlan üzemeltetésének költségeihez nyújtott támogatást saját tulajdonában vagy saját használatában lévő sportcélú ingatlan üzemeltetésére használja fel, és vállalja, hogy a látvány-csapatsport támogatás mellett erre a célra központi költségvetési támogatást nem vesz igénybe.
 
 (5a) Támogatási igazolás a támogatás igénybevételére jogosult szervezettel kapcsolatban akkor is kiállítható,
 

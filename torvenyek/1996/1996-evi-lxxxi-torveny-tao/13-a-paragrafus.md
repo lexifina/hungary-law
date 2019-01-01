@@ -1,6 +1,6 @@
 ## A közhasznú nonprofit gazdasági társaság, a szociális szövetkezet és a vízitársulat adóalapja
 
-13/A. § (1) A közhasznú jogállással rendelkező nonprofit gazdasági társaság és a vízitársulat adóalapja az adózás előtti eredmény, csökkentve a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), n), o), p), r), t), u), v) és y) pontjaiban és a 7. § (3), (10) és (18)–(20) bekezdésében foglaltakkal, növelve a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), o), p), r) és v) pontjaiban, valamint a 8. § (5)–(6) bekezdésében foglaltakkal, továbbá az előzőeket figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit.
+13/A. § (1) A közhasznú jogállással rendelkező nonprofit gazdasági társaság és a vízitársulat adóalapja az adózás előtti eredmény, csökkentve a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j), n), ny), o), p), r), t), u), v) és y) pontjaiban és a 7. § (3), (10) és (18)–(20) bekezdésében foglaltakkal, növelve a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), o), p), r) és v) pontjaiban, valamint a 8. § (5)–(6) bekezdésében foglaltakkal, továbbá az előzőeket figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit.
 
 (2) A közhasznú nonprofit gazdasági társaságnak az (1) bekezdésben foglaltak mellett növelnie kell az adózás előtti eredményét
 

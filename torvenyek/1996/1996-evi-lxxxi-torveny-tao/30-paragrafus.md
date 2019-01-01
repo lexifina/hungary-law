@@ -30,37 +30,7 @@ d) ahol jogszabály a társasági adóról szóló 1991. évi LXXXVI. törvényt
 
 (10) Felhatalmazást kap a Kormány, hogy a látvány-csapatsport egyes támogatási jogcímein nyújtható támogatás igénybevételének részletes feltételeit és eljárásrendjét, a támogatás feltételét képező sportfejlesztési program jóváhagyásának, a 22/C. § és 24/A. § szerinti igazolás kiállításának, sportlétesítmény-fejlesztési célra irányuló tárgyi eszköz beruházás, felújítás kiszorító hatás elkerülése miatti korlátozásának, a sportcélú ingatlanfejlesztésre irányuló nyílt pályázat kiírásának és elbírálásának, a (támogatási) igazolás alapján igénybe vehető egyes jogcímeken nyújtott támogatás felhasználásának, elszámolásának, ellenőrzésének, valamint a támogató és a támogatott szervezet között a felajánlásra tekintettel a támogató részére nyújtott juttatás tilalmának és a tilalom megszegése következményeinek részletes szabályait rendeletben állapítsa meg.
 
-(11) Felhatalmazást kap a Kormány, hogy a 22. § (1) bekezdése és a 24/A. §-a alapján az előadó-művészeti szervezeteknek nyújtott támogatásra vonatkozóan
-
-a) a támogatható szervezetek körét,
-
-b) a támogatás felhasználásának
-
-ba) részletes szabályait,
-
-bb) időtartamát,
-
-c) az előadó-művészeti szervezetnek a támogatás felhasználása során elszámolható költségei körét,
-
-d) a támogatáshalmozódás szabályait,
-
-e) a fel nem használt, valamint a nem rendeltetésszerűen felhasznált támogatás visszafizetésének szabályait,
-
-f) a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
-
-g) a 22. § (4) bekezdése szerinti támogatási igazolás és a 24/A. §-a szerinti igazolás
-
-ga) iránti kérelem tartalmát,
-
-gb) kiállítására irányuló eljárás szabályait, valamint
-
-gc) tartalmát,
-
-h) a 22. § (4) bekezdése szerinti támogatási igazolással és a 24/A. § szerinti igazolással kapcsolatos adatszolgáltatás és ellenőrzés szabályait, továbbá
-
-i) a 22. § (1) bekezdése szerinti kiegészítő támogatás megfizetésének részletes szabályait
-
-rendeletben állapítsa meg.
+(11)
 
 (12) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a korai fázisú vállalkozásként történő minősítés feltételeit, a korai fázisú vállalkozásokat támogató vállalkozásokra vonatkozó követelményeket, a korai fázisú vállalkozások és a korai fázisú vállalkozásokat támogató vállalkozások nyilvántartásba vételével kapcsolatos eljárást, a korai fázisú vállalkozásnak, a korai fázisú vállalkozásokat támogató vállalkozásnak minősülés igazolásának részletes feltételeit.
 

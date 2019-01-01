@@ -8,6 +8,16 @@
 
 (3) A társasági adóalapja a szabályozott ingatlanbefektetési elővállalkozás, szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság esetén a 15. §-ban, az ingatlannal rendelkező társaság tagja esetében a 15/A. §-ban meghatározott jövedelem.
 
+(3a) A csoportos társasági adóalany és a csoportos társasági adóalanyhoz történő csatlakozás kérelemre, az állami adó- és vámhatóság engedélyével jön létre. A csoportos társasági adóalany adókötelezettsége a kérelem benyújtását követő adóév első napján kezdődik. A csatlakozó tag csoporttagsága a kérelem benyújtását követő adóév első napján kezdődik.
+
+(3b) A csoportos társasági adóalany megszűnik a megszüntetése napján, valamint azt a napot megelőző napon, amelyen megszűnése hiányában már nem lenne legalább két tagja.
+
+(3c) Az adózó csoporttagsága megszűnik adókötelezettsége megszűnése, kilépése és a csoportos társasági adóalany megszűnése napján, valamint azon a napon, amelyet követő naptól már nem felel meg a tagságára előírt összes feltételnek.
+
+(3d) Ha a (3b) és (3c) bekezdés szerinti megjelölt megszűnési időpont nem az üzleti év utolsó napjára esik, akkor a megszűnés napja – a (3b) és (3c) bekezdésben foglaltaktól eltérően – a megszűnés napját magában foglaló üzleti évet megelőző üzleti év utolsó napja. Ha a csoportos társasági adóalany, illetve a csoporttagság nem az üzleti év utolsó napján szűnik meg, akkor a megszűnés napját követő nappal a csoporttagoknak, illetve az érintett csoporttagnak önálló adóéve kezdődik.
+
+(3e) A csoporttag jogutódja a csoportos társasági adóalany tagjaként alakul meg, kivéve, ha már megalakulásakor sem felel meg a tagságra előírt összes feltételnek.
+
 (4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
 
 (4a)
@@ -22,7 +32,7 @@ b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződ
 
 a) az előtársasági adóévben .és az azt követő adóévben, illetve az első adóévében, amennyiben az előtársasági időszakról külön beszámoló készítésére nem kötelezett, vagy
 
-b) ha a 2. § (2) bekezdés e)–h) pontja alapján adóalany, illetve, ha szociális szövetkezet, közérdekű nyugdíjas szövetkezet, iskolaszövetkezet, közhasznú nonprofit gazdasági társaság, vagy
+b) ha a 2. § (2) bekezdés e)–h) pontja alapján adóalany, továbbá ha szociális szövetkezet, közérdekű nyugdíjas szövetkezet, iskolaszövetkezet, közhasznú nonprofit gazdasági társaság, vagy
 
 c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással, egyesüléssel, szétválással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát,
 
@@ -51,3 +61,7 @@ c) a magánszemély taggal szemben fennálló kötelezettség napi átlagos áll
 (10) A (6) bekezdés alkalmazásában elemi kár az elemi csapás (így különösen a jégeső, az árvíz, a belvíz, a fagy, a homokverés, az aszály, a hó-, jég- és széltörés, a vihar, a földrengés, valamint természeti vagy biológiai eredetű tűz) okozta kár. Az elemi csapás igazolására a kár tényét tartalmazó okmány (pl. a biztosító, a mezőgazdasági igazgatási szerv, a katasztrófavédelem végrehajtását végző szerv által kiállított szakvélemény, jegyzőkönyv, más okmány), vagy – ha az adózó nem rendelkezik független szervezet által kiállított okmánnyal – az adózó által kiállított jegyzőkönyv szolgál. Az adózó az általa kiállított, a kár tényét és mértékét tartalmazó jegyzőkönyvet a kár keletkezését követő 15 napon belül megküldi az illetékes állami adóhatóság részére. A határidő elmulasztása esetén igazolási kérelem nem terjeszthető elő.
 
 (11) Ha az adózó bevallásában nyilatkozik arról, hogy nem választja adóalapként az (5) bekezdés b) pontja szerinti jövedelem-(nyereség-)minimumot, köteles az adóbevallásához mellékelni az állami adó- és vámhatóság által rendszeresített bevallást kiegészítő nyomtatványt. A nyomtatvány a jogkövetkezmények szempontjából bevallásnak minősül.
+
+(12) A csoportos társasági adóalany adóévi adóalapja a csoporttagok által az (1)–(2a), valamint az (5)–(10) bekezdés szerint egyedileg megállapított, nem negatív adóalapok összege, módosítva a 17. § (15)–(18) bekezdése szerint. A csoporttag az (1)–(2a), valamint az (5)–(10) bekezdés szerint megállapított egyedi adóalapjáról adóévenként, a csoportos társasági adóalany adóévre vonatkozó adóbevallásának benyújtására előírt határidőt megelőző 15. napig az állami adó- és vámhatóság által e célra rendszeresített nyomtatványon az adóbevallással egyenértékű nyilatkozatot tesz az állami adó- és vámhatóság részére. A csoportképviselő a többi csoporttag nyilatkozatát átveszi, valamint a többi tag és saját nyilatkozatán feltüntetett adatokról az adóbevallásban adatot szolgáltat az állami adó- és vámhatóságnak. Ha a csoporttag az adóhatóság ellenőrzésének megkezdését megelőzően feltárja, hogy egyedi adóalapját nem e törvénynek megfelelően állapította meg, vagy adóbevallással egyenértékű nyilatkozata számítási hiba vagy elírás miatt az egyedi adóalap tekintetében hibás, a csoportos társasági adóalany adóalapjának módosítása érdekében egyedi adóalapjáról haladéktalanul új nyilatkozatot tesz.
+
+(13) A (12) bekezdés alkalmazásában a csoporttagok egyedi adóalapjaik megállapítása során úgy járnak el, mintha csoporttagságuk nem állna fenn. Az egyedileg megállapított adóalap meghatározása során a csoporttagok között a 7. § (1) bekezdés w) és x) pontja, valamint a (18a)–(18d) bekezdése nem alkalmazható, továbbá a csoporttagok közötti ügyletek esetén a 7. § (1) bekezdés s) és t) pontja alkalmazásakor a csoporttag nem érvényesíthet több kedvezményt annál, mint ami a szokásos piaci ár figyelembevételével megilleti.

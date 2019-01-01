@@ -54,7 +54,7 @@ kell alkalmazni.
 
 (26) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 7. § (1) bekezdése ly) pontját, valamint 1. számú melléklet 14. pontját az adózó első alkalommal a 2016. adóévre alkalmazhatja.
 
-(27) Az az adózó, amely a 2015. adóévre vonatkozó társasági adóbevallás benyújtását követően alkalmazza az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított, az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény IX. Fejezete szerinti kutatás-fejlesztési tevékenység után érvényesíthető adókedvezményt, e törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 17. § (14) bekezdését a 2015. adóév vonatkozásában is figyelembe veszi.
+(27)
 
 (28) A 2016. június 30-át követően szerzett, előállított jogdíjra jogosító immateriális jószág vagy a 2016. június 30-át követően bejelentett immateriális jószág vonatkozásában e törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel módosított 4. § 5a. és 20. pontját, 7. § (1) bekezdés c), e) és s) pontját, (16), (22)–(25) bekezdését, 8. § (1) bekezdés c) és n) pontját kell alkalmazni, figyelemmel a (29)–(30) bekezdésben foglaltakra.
 
@@ -78,7 +78,7 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (35) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 18/A. § (5) bekezdését és 18/C. § (4a)–(4g) bekezdését a 2016. adóév vonatkozásában az adózó választása szerint alkalmazza.
 
-(36) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 22. § (1) bekezdés b) pontját első alkalommal a 2016. adóévi adózás előtti eredmény terhére nyújtott támogatásra (juttatásra) kell alkalmazni.
+(36)
 
 (37) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 22/C. § (3b) és (12) bekezdését első alkalommal a 2015–2016-os támogatási időszakra benyújtott sportfejlesztési programok támogatásával összefüggésben a 2016. adóévi adózás előtti eredmény terhére nyújtott támogatásra (juttatásra) kell alkalmazni.
 
@@ -151,3 +151,11 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (71) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel módosított 22/C. § (5) bekezdés b) pontját a hatálybalépésekor folyamatban lévő igazolás, támogatási igazolás kiállítására irányuló kérelmek elbírálásakor is alkalmazni kell.
 
 (72) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 22/C. § (11) bekezdését a hatálybalépésekor folyamatban lévő sportfejlesztési programok jóváhagyására irányuló kérelmek elbírálása és a folyamatban lévő tárgyi eszköz beruházások, felújítások megvalósítása során is alkalmazni kell.
+
+(73) A 2016. június 17-e előtt megkötött, finanszírozási költség alapjául szolgáló szerződések esetében az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel módosított 8. § (1) bekezdés j) pontját első alkalommal e finanszírozási költség alapjául szolgáló szerződések finanszírozási összegének növelése vagy futamidejének meghosszabbítása hatálybalépését követő naptól, a módosított összeg vagy futamidő tekintetében kell figyelembe venni. A 2016. június 17-e előtt megkötött, finanszírozási költség alapjául szolgáló szerződések finanszírozási összegének növelése vagy futamidejének meghosszabbítása hatálybalépését megelőzően az érintett szerződésekre a 8. § (1) bekezdés j) pontjának 2018. december 31-én hatályos rendelkezését kell alkalmazni azzal, hogy az adózó választhatja a 8. § (1) bekezdés j) pontja az adott adóévben hatályos rendelkezésének az alkalmazását.
+
+(74) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel módosított 7. § (1) bekezdés ny) pontja a 8. § (1) bekezdés j) pontjának 2018. december 31-én hatályos rendelkezésével összefüggésben nem alkalmazható.
+
+(75) Az adózó a 2019-ben kezdődő adóévére választhatja, hogy adókötelezettségét a 4. § 11. pontja, valamint 8. § (1) bekezdés f) pontja és (9) bekezdése 2018. december 31-én hatályos rendelkezései szerint teljesíti.
+
+(76) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 4. § 47–47b. pontját, 22/C. § (1) bekezdés b) pont bg) alpontját, c) pont cf) alpontját, d) pont dg) alpontját, (4) bekezdését, (5) bekezdését és 30/I. § (3) bekezdését első alkalommal a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyására, valamint az igazolás, támogatási igazolás kiállítására irányuló kérelmek benyújtásával összefüggésben kell alkalmazni.

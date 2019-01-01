@@ -18,23 +18,9 @@ b) az eszköznek (kivéve a bejelentett részesedést) a befektetett pénzügyi 
 
 e) a jogerős határozatban megállapított bírság, továbbá az adóigazgatási rendtartásról, az adózás rendjéről, továbbá a társadalombiztosításról szóló törvények szerinti jogkövetkezményekből adódó kötelezettség ráfordításként elszámolt összege, kivéve, ha önellenőrzéshez kapcsolódik,
 
-f) az adózó azon adóévében, amelyben az ellenőrzött külföldi társaság üzleti évének utolsó napja van, az ellenőrzött külföldi társaság e törvény szerinti szabályok szerint (az ellenőrzött külföldi társaságot belföldi illetőségű adózónak tekintve) kiszámított üzleti évi jövedelméből (adóalapjából) az a rész, amely az ellenőrzött külföldi társaság következő jövedelmeiből ered
+f) az adózó azon adóévében, amelyben az ellenőrzött külföldi társaság adóévének (üzleti évének) utolsó napja van, az ellenőrzött külföldi társaság nem valódi jogügyletéből, nem valódi jogügyletek sorozatából származó, az ellenőrzött külföldi társaság adóévének (üzleti évének) utolsó napján kimutatott pozitív adózott eredmény jóváhagyott (felosztott) osztalékkal csökkentett része olyan mértékben, amilyen mértékben az az adózó által ellátott jelentős személyi funkciókhoz kapcsolódó eszközökhöz és kockázatokhoz kötődik, feltéve, hogy az így kapott összeg pozitív,
 
-fa) kamat és pénzügyi eszközből származó jövedelem,
-
-fb) szellemi alkotások jogából származó jövedelem,
-
-fc) részvény, részesedés tartásából és kivezetéséből származó jövedelem,
-
-fd) pénzügyi lízing tevékenységből származó jövedelem,
-
-fe) biztosítási, banki és egyéb pénzügyi tevékenységekből származó jövedelem,
-
-ff) olyan személytől származó jövedelem, amely áruk és szolgáltatások kapcsolt vállalkozások számára való értékesítéséből, illetve tőlük való beszerzéséből származik, amennyiben ezen személy nem vagy csak kis mértékben valósít meg hozzáadott gazdasági értéket,
-
-feltéve, hogy e rész pozitív (nyereség), továbbá meghaladja az ellenőrzött külföldi társaság teljes jövedelmének egyharmadát, vagy – ha az ellenőrzött külföldi társaság az fd)–fe) alpont szerinti tevékenységet folytat – teljes jövedelmének több, mint egyharmada származik az adózóval vagy az adózó kapcsolt vállalkozásaival folytatott ügyletből,
-
-g) az adózás előtti eredmény csökkentéseként a 7. § (1) bekezdés m) pontja alapján elszámolt összeg kétszerese a kivezetés adóévében, ha a részesedésszerzés adóévét követő harmadik adóév végéig a szerzett részesedést bármilyen jogcímen – az átalakulás, egyesülés, szétválás miatti kivezetést kivéve – az adózó kivezeti, részben kivezeti,
+g) az adózás előtti eredmény csökkentéseként a 7. § (1) bekezdés m) pontja alapján elszámolt összeg kétszerese a kivezetés adóévében, ha a részesedésszerzés adóévét követő harmadik adóév végéig a szerzett részesedést bármilyen jogcímen – az átalakulás, egyesülés, szétválás, kedvezményezett eszközátruházás, kedvezményezett részesedéscsere miatti kivezetést kivéve – az adózó kivezeti, részben kivezeti,
 
 gy) az adóévben követelésre (kivéve hitelintézetnél és pénzügyi vállalkozásnál a pénzügyi szolgáltatásból, befektetési szolgáltatási tevékenységből származó és befektetési vállalkozásnál a befektetési szolgáltatási tevékenységből származó követelést) elszámolt értékvesztés összege,
 
@@ -46,7 +32,7 @@ h) a behajthatatlan követelésnek nem minősülő, adóévben elengedett követ
 
 i) a 7. § (1) bekezdés m) pontjában foglaltak alkalmazása esetén a korai fázisú vállalkozásban szerzett részesedésre (kivéve a bejelentett részesedést) elszámolt értékvesztés összege, de legfeljebb a 7. § (1) bekezdés m) pontja szerint érvényesített összeg,
 
-j) az (5) bekezdés a) pontja szerinti kötelezettség (kivéve a pénzügyi intézménnyel szemben fennálló kötelezettséget) – az adóévben ráfordításként, eszköz bekerülési értéke részeként elszámolt – kamatának és az (5) bekezdés a) pontja szerinti kötelezettség (kivéve a pénzügyi intézménnyel szemben fennálló kötelezettséget) alapján a 18. § (1) bekezdés a) pontja alapján az adózás előtti eredmény csökkentéseként figyelembe vett összegének az (5) bekezdés b) pontja szerinti saját tőke háromszorosát meghaladó kötelezettségrészre jutó arányos része,
+j) a – pénzügyi intézmény, a befektetési vállalkozás, az alternatív befektetésialap-kezelő, az átruházható értékpapírokkal foglalkozó kollektív befektetés vállalkozás alapkezelő társasága, a biztosító és a viszontbiztosító kivételével – nettó finanszírozási költségnek a kamatfizetés, adózás és értékcsökkenés előtti adóévi eredmény 30 százaléka és 939 810 000 forint közül a nagyobb összeget meghaladó része, azzal, hogy a meghaladó részt csökkenti – legfeljebb annak összegéig – a megelőző adóévben (adóévekben) keletkezett kamatlevonási kapacitásnak az a része, amely az adózónál vagy jogelődjénél, valamint az átruházó társaságnál e rendelkezés vagy a 7. § (1) bekezdés ny) pontja alapján még nem került felhasználásra,
 
 k) a termőföldből átminősített ingatlanvagyont tulajdonában tartó társaság tagjánál azon összeg kétszerese, amellyel a részesedés értékesítéséből származó árfolyamnyereség (a részesedés egyéb jogcímen történő kivezetése esetén a nyereség, árfolyamnyereség összege) meghaladja a részesedés tulajdonban tartásának időszakára kiszámított szokásos eredményt,
 
@@ -62,15 +48,15 @@ n) a bejelentett immateriális jószág bármely jogcímen történő kivezetés
 
 o) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 
-p) az adóellenőrzés, önellenőrzés során megállapított, adóévi költségként, ráfordításként (egyszeres könyvvitelt vezetőnél ideértve a kifizetett vásárolt készletek csökkenését is) vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg,
+p) az adóellenőrzés, az adóigazgatási rendtartásról, az adózás rendjéről szóló törvény szerinti önellenőrzés során megállapított, adóévi költségként, ráfordításként (egyszeres könyvvitelt vezetőnél ideértve a kifizetett vásárolt készletek csökkenését is) vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg,
 
 q) a kisvállalati adóalanyiság időszakában a tőkebevonásra (különösen a jegyzett tőke emelésre) tekintettel, a kisvállalati adóalap megállapítása során alkalmazott csökkentés összege a tőke kivonásakor,
 
-r) a 7. § (1) bekezdésének gy) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett átalakulás alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
+r) a 7. § (1) bekezdés gy) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett átalakulás alapján megszerzett részesedés (kivéve, ha a kedvezményezett átalakulás alapján kivezetett részesedés bejelentett részesedésnekminősült) bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
 
 s) a 7. § (1) bekezdésének z) pontja alapján az adóévet megelőző év(ek)ben az adózás előtti eredmény csökkentéseként, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti tartós adományozásra tekintettel elszámolt azon többletkedvezmény, továbbá a felsőoktatási intézmény támogatására tekintettel elszámolt azon kedvezmény, amelyre vonatkozóan az adózó az adóévben a tartós adományozásról szóló szerződésben vagy a felsőoktatási támogatási megállapodásban vállaltakat a másik szerződő fél közhasznúsági nyilvántartásból való törlése vagy jogutód nélküli megszűnése miatt nem teljesítette, vagy ennek kétszerese, ha az adózó bármely más ok miatt nem teljesített a szerződésnek (megállapodásnak) megfelelően,
 
-t) a 7. § (1) bekezdésének h) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
+t) a 7. § (1) bekezdés h) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés (kivéve, ha a kedvezményezett részesedéscsere alapján kivezetett részesedés bejelentett részesedésnekminősült) bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
 
 u) azon beruházás, szellemi termék bekerülési értékéből az adózás előtti eredmény csökkentéseként a 7. § (1) bekezdés zs) pontja alapján elszámolt összeg kétszerese,
 
@@ -98,11 +84,21 @@ kell tekinteni, azzal, hogy részesedés átruházása (kivezetése) esetén a r
 
 (4)
 
-(5) Az (1) bekezdés j) pontjának alkalmazásában
+(5) Az összevont (konszolidált) éves beszámolót készítő vállalatcsoport tagja
 
-a) kötelezettség a kapott kölcsön, a zárt körben forgalomba hozott hitelviszonyt megtestesítő értékpapír miatt fennálló tartozás és a váltótartozás (kivéve a szállítói tartozás kiegyenlítése miatt fennálló váltótartozást), valamint minden más, a mérlegben kimutatott kölcsönnek, hitelviszonyt megtestesítő értékpapírnak, illetve váltótartozásnak nem minősülő kötelezettség, amelyre az adózó az eredménye terhére kamatot fizet, számol el, vagy amelyre tekintettel az adózás előtti eredményét a 18. § szerint csökkenti (kivéve a hitelintézetnél és a pénzügyi vállalkozásnál a pénzügyi szolgáltatási tevékenységgel kapcsolatban, annak érdekében fennálló tartozást, valamint az áruszállításból és a szolgáltatásnyújtásból származó kötelezettséget), adóévi napi átlagos állománya, amely csökkenthető a mérlegben a befektetett pénzügyi eszközök között, a követelések (ide nem értve az áruszállításból és a szolgáltatásnyújtásból származó követelést) között vagy az értékpapírok között kimutatott pénzkövetelés adóévi napi átlagos állományának összegével,
+a) az (1) bekezdés j) pontját nem köteles alkalmazni, ha igazolni tudja, hogy saját tőkéje adóévi átlagos állományának a teljes eszközállománya adóévi átlagos állományához viszonyított aránya egyenlő a vállalatcsoportra számított, ennek megfelelő aránnyal vagy magasabb annál, vagy
 
-b) saját tőke a jegyzett tőke, a tőketartalék, az eredménytartalék és a lekötött tartalék (ezeknek megfelelő saját forrás) adóévi napi átlagos állománya.
+b) az (1) bekezdés j) pontja alkalmazásakor a nettó finanszírozási költségeket azon összegben érvényesítheti a társasági adóalapjában, amely egyenlő a csoportszinten vett harmadik felekkel szembeni nettó finanszírozási költségek összegének és a csoport kamatfizetés, adózás, értékcsökkenés előtti eredményének a hányadosa valamint az adózó kamatfizetés, adózás, értékcsökkenés előtti eredménye szorzatával.
+
+(5a) Az (5) bekezdés a) pontja alkalmazása során az arány megállapításakor az eszközök és kötelezettségek értékét az összevont (konszolidált) éves beszámoló meghatározásakor alkalmazott számviteli módszertannak megfelelően kell meghatározni. Az (5) bekezdés a) pontja alkalmazásában az adózó adóévi átlagos saját tőkéjének az adóévi átlagos teljes eszközállományához viszonyított aránya akkor is egyenlőnek tekintendő a vállalatcsoport üzleti évi átlagos saját tőkéjének az üzleti évi átlagos teljes eszközállományához viszonyított arányával, ha annál legfeljebb két százalékponttal alacsonyabb. Amennyiben az összevont (konszolidált) éves beszámoló az adózó társasági adóbevallásának benyújtására előírt határidőben még nem áll rendelkezésre, akkor az adózó az arányszám meghatározásához felhasználhatja az összevont (konszolidált) éves beszámoló készítésére kötelezett gazdálkodónak a felhasználandó adatokat tartalmazó nyilatkozatát, amelyet az összevont (konszolidált) éves beszámoló elkészítését követően e beszámolóval igazol.
+
+(5b) Az adóéve napjainak többségében adózási szempontból különálló adózónak minősülő adózó az (5) bekezdés alkalmazásában összevont (konszolidált) éves beszámolóként az általa alkalmazott számviteli szabályozásnak megfelelő beszámolóját veszi figyelembe.
+
+(5c) Átalakulás, egyesülés, szétválás esetén a jogutód a 7. § (1) bekezdés ny) pontját és az (1) bekezdés j) pontját úgy alkalmazza, hogy a jogelődnél figyelembe vett (1) bekezdés j) pontja szerinti növelő tételt és a jogelődnél a korábbi adóévekben keletkezett, de még fel nem használt kamatlevonási kapacitást a jogelőd vagyonából a vagyonmérleg szerinti részesedése arányában számított összegében veszi figyelembe. Kedvezményezett eszközátruházás esetén az átvevő társaság a 7. § (1) bekezdés ny) pontját és az (1) bekezdés j) pontját úgy alkalmazza, hogy az átruházó társaságnál figyelembe vett (1) bekezdés j) pontja szerinti növelő tételt és az átruházó társaságnál a korábbi adóévekben keletkezett, de még fel nem használt kamatlevonási kapacitást az önálló szervezeti egységnek betudható összegben veszi figyelembe. Ez a rész kiválás esetén a jogelőd, kedvezményezett eszközátruházás esetén az átruházó társaságnál figyelembe vehető összeget csökkenti.
+
+(5d) A kamatlevonási kapacitásokat a keletkezésük sorrendjének megfelelően, legkésőbb a keletkezésük adóévét követő ötödik adóévben lehet felhasználni.
+
+(5e) A csoportos társasági adóalany tagjai az (1) bekezdés j) pontját az egyedi adóalap megállapítása során úgy alkalmazzák, hogy a 939 810 000 forintnak a csoporttagnál felmerülő nettó finanszírozási költségnek a csoportos társasági adóalanynál felmerülő összes nettó finanszírozási költséghez viszonyított arányában számított részét veszik figyelembe.
 
 (6) Amennyiben az átlagos állományi létszám a megelőző adóévhez viszonyítva többek között azért is csökkent, mert a munkavállaló szülési szabadságot, gyermekgondozási ellátás miatt szabadságot vett igénybe, betegség miatt keresőképtelenné vált, katonai szolgálatát, büntetés-végrehajtását kezdte meg, illetve meghalt, akkor az események bekövetkezésének adóévében és az azt követő adóévben nem kell az (1) bekezdés v) pontjában foglaltakat alkalmazni, feltéve hogy az (1) bekezdés v) pont szerinti összeg nem éri el az adóév első napján érvényes havi minimálbér összegét.
 
@@ -110,4 +106,4 @@ b) saját tőke a jegyzett tőke, a tőketartalék, az eredménytartalék és a 
 
 (8) Az (1) bekezdés p) pontjának az önellenőrzésre vonatkozó rendelkezését az adózónak nem kell alkalmaznia, ha a nem jelentős összegű hibát a feltárás napját magában foglaló adóévről szóló adóbevallásában veszi figyelembe, feltéve, hogy a nem jelentős összegű hibával érintett adóévi adóalapja meghaladja a nem jelentős összegű hiba összegét.
 
-(9) Az (1) bekezdés f) pontja alkalmazásában az adóalapba beszámítandó jövedelmet az adózó a 4. § 11. pont a) alpont aa)–ac) pontjai szerinti, az ellenőrzött külföldi társaságban fennálló, tulajdoni részesedése vagy az adózott nyereségből az adózót megillető rész arányában határozza meg.
+(9) Az (1) bekezdés f) pontja alkalmazásában az adóalap-növelő tételt az adózó a 18. §-ban foglalt rendelkezések megfelelő alkalmazásával, a szokásos piaci ár elve alapján köteles meghatározni.

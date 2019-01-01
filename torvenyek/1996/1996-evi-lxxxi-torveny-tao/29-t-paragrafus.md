@@ -1,3 +1,1 @@
-29/T. § (1) Az egy előadó-művészeti szervezet részére a 2013. évi adóévben nyújtott támogatásokról kiállított támogatási igazolások összértéke legfeljebb az e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22. § (4) bekezdésében meghatározott mértékig terjedhet.
-
-(2) Az előadó-művészeti szervezet erre vonatkozó kérelme esetén a 2013. évi adóévben nyújtott támogatásokról kiállított támogatási igazolások összértéke megállapításánál – az (1) bekezdéstől és e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22. § (4) bekezdésétől eltérően – az előadó-művészeti szervezet EGT-tagállamban 2013. évben tartott előadásaiból származó jegybevétele 80%-át kell figyelembe venni.
+29/T. §

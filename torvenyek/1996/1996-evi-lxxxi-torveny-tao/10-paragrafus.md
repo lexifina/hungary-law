@@ -4,7 +4,7 @@
 
 (2) A megállapított osztalékot csökkenti a 7. § (1) bekezdésének r) és t) pontjában meghatározott összeg.
 
-(3) A megállapított osztalékot növeli a 8. § (1) bekezdésének d), e), j) és m) pontja és a 8. § (5) bekezdése alapján meghatározott összeg, valamint a behajthatatlan követelésnek nem minősülő elengedett követelés.
+(3) A megállapított osztalékot növeli a 8. § (1) bekezdésének d), e), j) és m) pontja és a 8. § (5)–(5e) bekezdése és a 7. § (1) bekezdés ny) pontja alapján meghatározott összeg, valamint a behajthatatlan követelésnek nem minősülő elengedett követelés.
 
 (4) Az iskolaszövetkezet jogutód nélküli megszűnése esetén az adó alapja a 6. § (1) bekezdése szerint meghatározott összeg, növelve a (6) bekezdés szerint nyilvántartott, adómentesen képződött eredménytartalék összegével.
 

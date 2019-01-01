@@ -28,9 +28,9 @@ f) a b)–d) alpontokban foglaltaktól eltérően az éves beszámolóját, a k�
 
 4/a. behajthatatlan követelés: az a követelés, amely megfelel a számvitelről szóló törvény szerinti behajthatatlan követelés fogalmának, valamint azon követelés bekerülési értékének 20 százaléka, amelyet a fizetési határidőt követő 365 napon belül nem egyenlítettek ki, kivéve, ha a követelés elévült vagy bíróság előtt nem érvényesíthető;
 
-5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett részesedés (a korábban már bejelentett részesedés értékének a növekedése) a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy kivételével, feltéve, hogy az adózó a szerzést (ide nem értve a korábban már bejelentett részesedés értékének a növekedését és a korábban már bejelentett részesedésre vonatkozóan az átalakulás, egyesülés, szétválás során a jogutódban történő vagy jogutód általi részesedésszerzést) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
+5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett részesedés (a korábban már bejelentett részesedés értékének a növekedése) a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy kivételével, feltéve, hogy az adózó a szerzést (ide nem értve a korábban már bejelentett részesedés értékének a növekedését és a korábban már bejelentett részesedésre vonatkozóan az átalakulás, egyesülés, szétválás során a jogutódban történő vagy jogutód általi részesedésszerzést) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett; a bejelentést az adózó a csoportos társasági adóalanyban fennálló csoporttagsága időtartama alatt önállóan teszi meg;
 
-5a. bejelentett immateriális jószág: a megszerzett, előállított jogdíjra jogosító immateriális jószág, feltéve, hogy az adózó a szerzést, előállítást követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatálybalépésének napja, előállítás napjának a használatbavétel napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjra jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett vagy állított elő;
+5a. bejelentett immateriális jószág: a megszerzett, előállított jogdíjra jogosító immateriális jószág, feltéve, hogy az adózó a szerzést, előállítást követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatálybalépésének napja, előállítás napjának a használatbavétel napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjra jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett vagy állított elő; a bejelentést az adózó a csoportos társasági adóalanyban fennálló csoporttagsága időtartama alatt önállóan teszi meg;
 
 6. belföld: Magyarország területe, ideértve a vámszabad- és a tranzitterületet is;
 
@@ -66,7 +66,7 @@ ab) a jegyzett tőkéből 50 százalékot meghaladó közvetlen vagy közvetett 
 
 ac) adózott nyereségéből 50 százalékot meghaladó részre jogosult,
 
-abban az üzleti évében, amelyben a külföldi személy által ténylegesen megfizetett társasági adónak megfelelő adó kisebb, mint az a különbözet, amellyel az a társasági adó, amelyet a székhelye szerinti államot Magyarországnak feltételezve fizetett volna, meghaladja a külföldi személy által megfizetett társasági adónak megfelelő adót,
+abban az adóévében, amelyben a külföldi személy által ténylegesen megfizetett társasági adónak megfelelő adó kisebb, mint az a különbözet, amellyel az a társasági adó, amelyet az illetősége szerinti államot Magyarországnak feltételezve fizetett volna, meghaladja a külföldi személy által megfizetett, társasági adónak megfelelő adót,
 
 valamint
 
@@ -74,19 +74,39 @@ b) a belföldi illetőségű adózó külföldi telephelye abban az adóévében
 
 azzal, hogy
 
-c) nem minősül ellenőrzött külföldi társaságnak a külföldi személy, illetve a külföldi telephely, ha egyértelműen megállapítható, hogy megfelelő személyzettel, felszereltséggel, eszközállománnyal és helyiséggel rendelkezik, amelynek révén érdemi gazdasági tevékenységet folytat,
+c) nem minősül ellenőrzött külföldi társaságnak a külföldi személy, illetve a külföldi telephely abban az adóévében, amelyben kizárólag valódi jogügyletből, valódi jogügyletek sorozatából származó jövedelemmel rendelkezik, amelyet az adózó igazol,
 
-d) a c) alpont alkalmazásakor – figyelemmel az e)–f) alpontban foglaltakra is – minden esetben úgy kell tekinteni, hogy a külföldi személy, illetve a külföldi telephely érdemi gazdasági tevékenységet folytat, ha az általa saját eszközzel és munkaviszonyban foglalkoztatott alkalmazottakkal végzett termelő, feldolgozó, mezőgazdasági, szolgáltató, befektetői vagy kereskedelmi tevékenységből származó bevétele eléri összes bevétele legalább 50 százalékát,
+d) a c) pont alkalmazásában egy jogügylet vagy jogügyletek sorozata akkor nem valódi, ha
 
-e) a d) alpont szerinti arány megállapításakor a külföldi személy, illetve a külföldi telephely bevételei mellett számításba kell venni a külföldi személy székhelye, illetve a külföldi telephely fekvése szerinti államban székhellyel rendelkező valamennyi kapcsolt vállalkozása összes bevételét, valamint a saját eszközzel és munkaviszonyban foglalkoztatott alkalmazottakkal folytatott termelő, feldolgozó, mezőgazdasági, szolgáltató, befektetői vagy kereskedelmi tevékenységből származó bevételét is,
+da) elsődlegesen adóelőny elérése céljából hajtják végre, és
 
-f) a d)–e) alpont alkalmazásakor befektetői tevékenységnek minősül a tulajdoni részesedést jelentő tartós befektetés, a hitelviszonyt megtestesítő értékpapír megszerzése, tartása és elidegenítése, valamint a külföldi személy székhelye, illetve a külföldi telephely fekvése szerinti államban az értékpapírokra, befektetési szolgáltatásokra vonatkozó jogszabályok által szabályozott, illetve a pénzügyi szolgáltatási, befektetési szolgáltatási tevékenység felügyeletét ellátó hatóság által felügyelt, illetve engedélyezett alap, társaság vagy egyéb szervezet, továbbá az említett állam illetékes hatóságának engedélyével rendelkező alapkezelő által kezelt, ugyanazon országban alapított vagy bejegyzett alap, társaság vagy egyéb szervezet befektetése, illetve tevékenysége,
+db) a külföldi személynél vagy a külföldi telephelynél nem lennének a jövedelemszerzéshez kapcsolódó eszközök és kockázatok, ha egy belföldi illetőségű adózó nem látná el mindazokat a jelentős személyi funkciókat, amelyek az említett eszközök és kockázatok szempontjából lényegesek, és amelyek nagymértékben hozzájárulnak a külföldi személy vagy a külföldi telephely jövedelemszerzéséhez,
 
-g) nem minősül ellenőrzött külföldi társaságnak a külföldi személy (ideértve a belföldi illetőségű adózó külföldi telephelyét is) abban az üzleti évében, amelynek minden napján van egy benne legalább 25 százalékos részesedéssel rendelkező olyan tagja, részvényese, amely, vagy amelynek kapcsolt vállalkozása az üzleti év első napján már legalább öt éve elismert tőzsdén jegyzett,
+e) nem minősül ellenőrzött külföldi társaságnak az a külföldi személy vagy külföldi telephely abban az adóévében,
 
-h) az e rendelkezésben foglaltakat az adózó köteles bizonyítani,
+ea) amelyben a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti állam jogszabályai alapján megállapított adózás előtti eredménye a 243.952.500 forint összeghatárt meg nem haladó nyereség és a nem kereskedelmi tevékenységből származó jövedelme a 23.495.250 forint összeghatárt meg nem haladó nyereség, vagy
 
-i) az a) alpontban foglalt részesedés fennállását akkor kell teljesítettnek tekinteni, ha az adózó adóévének a többségében fennáll;
+eb) amelyben a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti állam jogszabályai alapján megállapított adózás előtti nyeresége nem haladja meg az elszámolt működési költségei 10 százalékát,
+
+f) az e) pont ea) alpontja alkalmazásában nem kereskedelmi tevékenységből származó jövedelemnek minősül
+
+fa) a kamat,
+
+fb) a pénzügyi eszközből származó jövedelem,
+
+fc) a szellemi alkotások jogából származó jövedelem,
+
+fd) a részvény, részesedés tartásából és kivezetéséből származó jövedelem,
+
+fe) a pénzügyi lízing tevékenységből származó jövedelem,
+
+ff) a biztosítási, banki és egyéb pénzügyi tevékenységekből származó jövedelem,
+
+fg) az a jövedelem, amely áruk és szolgáltatások kapcsolt vállalkozások számára történő értékesítéséből, kapcsolt vállalkozásoktól történő beszerzéséből származik, amennyiben az ilyen jövedelmet szerző személy ahhoz kapcsolódva nem, vagy csak kis mértékben valósít meg hozzáadott gazdasági értéket,
+
+g) az e) pont eb) pontja alkalmazásában a működési költségek nem foglalják magukban a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti ország határain kívül értékesített áruk bekerülési értékét, valamint a kapcsolt vállalkozások részére teljesített kifizetések alapján elszámolt költséget, ráfordítást,
+
+h) nem minősül ellenőrzött külföldi társaságnak az a külföldi telephely, amely olyan az Európai Unió vagy az Európai Gazdasági Térség tagállamának nem minősülő államban fekszik, amellyel Magyarországnak a külföldi telephely jövedelemét a magyar társasági adózás alól mentesítő rendelkezést tartalmazó egyezménye áll fenn, és amely az említett egyezmény szerint telephelynek minősül;
 
 11a. energiahatékonysági célokat szolgáló beruházás, felújítás: az energiahatékonyságról szóló törvény szerinti energiahatékonyság növekedését eredményező beruházás, felújítás, amely révén az energiahatékonyságról szóló törvény szerinti végsőenergia-fogyasztás csökkenését eredményező energiamegtakarításra kerül sor;
 
@@ -162,7 +182,9 @@ d) a külföldi vállalkozó és belföldi telephelye, valamint a külföldi vá
 
 e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephelye és az a személy, amely az adózóval az a)–c) alpontban meghatározott viszonyban áll;
 
-f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg;
+f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg,
+
+g) az a)–c) alpontban foglaltaktól függetlenül akkor is létrejön a kapcsolt vállalkozási viszony a 11. pont, az 53. pont és a 8. § (1) bekezdés f) pontja alkalmazásában, ha az adózó és más személy viszonylatában legalább 25 százalékos közvetlen vagy közvetett szavazati jog részesedés, vagy legalább 25 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 25 százalékos nyereségrészesedés áll fenn, azzal, hogy ezen rendelkezések alkalmazásában az f) alpontban foglaltak teljesülését nem kell vizsgálni,
 
 23a. kedvezményezett átalakulás: az olyan átalakulás (a továbbiakban ideértve az egyesülést, a szétválást is), amelyben jogelődként és jogutódként is csak a 32/a. pont szerinti társaság vesz részt, ha
 
@@ -184,7 +206,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 24. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben ilyenként meghatározott vállalkozás, ideértve az említett törvényben előírt feltételeknek megfelelő ügyvédi irodát, végrehajtói irodát, szabadalmi ügyvivői irodát, és közjegyzői irodát is azzal, hogy kisvállalkozásnak minősül az említett törvény szerinti mikrovállalkozás is;
 
-24/a.
+24/a. munkahelyi óvoda: olyan óvodai nevelési ellátást nyújtó intézmény, amely az éves átlagos gyermeklétszámot figyelembe véve legalább 80 százalékban az adózó által foglalkoztatottak gyermekeinek az óvodai nevelését biztosítja;
 
 25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
 
@@ -276,11 +298,11 @@ b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 36. új gazdasági tevékenység végzésére irányuló induló beruházás: az az induló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 
-37. előadó-művészeti szervezet: az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény szerint nyilvántartásba vett olyan szervezet, amely nem minősül az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. §-ában meghatározott vállalkozásnak, és nem folytat a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) 1. cikk (2) és (3) bekezdésében meghatározott tevékenységet;
+37.
 
 38.
 
-39. előadó-művészeti szervezet jegybevétele: az előadó-művészeti szervezetnek a tárgyévet megelőző évben EGT tagállamban szerzett, a TESZOR 90.01. Előadó-művészet körébe sorolt tevékenységgel elért, általános forgalmi adóval csökkentett tényleges jegy- és bérletbevétele;
+39.
 
 40. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló törvényben egyéni cégként meghatározott jogalany.
 
@@ -322,4 +344,18 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 
 48.
 
-49. vendéglátóhely: olyan, a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet rendelkezései szerinti melegkonyhás vendéglátóhely, továbbá borospince, amelynek adóévi árbevételéből legalább 75 százalék a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet rendelkezései szerinti melegkonyhás vendéglátóhelyen, továbbá borospincében nyújtott étel- és italforgalomból, illetve szálláshely-szolgáltatás nyújtásából származik.
+49. vendéglátóhely: olyan, a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet rendelkezései szerinti melegkonyhás vendéglátóhely, továbbá borospince, amelynek adóévi árbevételéből legalább 75 százalék a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet rendelkezései szerinti melegkonyhás vendéglátóhelyen, továbbá borospincében nyújtott étel- és italforgalomból, illetve szálláshely-szolgáltatás nyújtásából származik;
+
+50. finanszírozási költség: a kamatráfordítás, a kamattal gazdasági értelemben egyenértékű költség, ráfordítás, valamint a finanszírozási forrás bevonásával összefüggésben elszámolt költség, ráfordítás, ideértve az eszköz bekerülési értéke részeként és a 18. § (1) bekezdés a) pontja alapján csökkentésként elszámolt összeget is, de ide nem értve az olyan finanszírozási költséget, amelynek célja hosszú távú állami infrastrukturális beruházás finanszírozása, feltéve, hogy a beruházás üzemeltetője, a finanszírozási költségek, a beruházás részét képező tárgyi eszközök és az annak kapcsán keletkező jövedelem egyaránt az Európai Unióban található, illetve merül fel;
+
+51. nettó finanszírozási költség: az az összeg, amellyel az adózó vállalkozási tevékenysége érdekében felmerült finanszírozási költségei meghaladják az adózó adóköteles kamatbevételeit és a gazdasági értelemben azzal egyenértékűnek tekintendő, adóköteles bevételeit, azzal, hogy adóköteles bevételként figyelembe kell venni a 18. § (1) bekezdés b) pontja alapján növelésként elszámolt összeget is;
+
+52. hosszú távú állami infrastrukturális beruházás: olyan, a társadalom egészének közös érdekét szolgáló tevékenység, amely jelenértéken legalább 100 millió eurónak megfelelő értékű tárgyi eszköz létrehozására, fejlesztésére, működtetésére vagy karbantartására vonatkozik;
+
+53. adózási szempontból különálló adózó: olyan adózó, amely nem tagja összevont (konszolidált) éves beszámolót készítő vállalatcsoportnak, nem áll kapcsolt vállalkozási viszonyban más személlyel és külföldön nem rendelkezik telephellyel;
+
+54. összevont (konszolidált) éves beszámolót készítő vállalatcsoport: egy vállalatcsoporthoz tartozó valamennyi gazdálkodó szervezetet magában foglaló csoport, amelynek minden tagja teljes mértékben a rá vonatkozó beszámolási szabályozásra figyelemmel a számvitelről szóló törvény VI. Fejezete, az IFRS-ek vagy más, az Európai Unió vagy az Európai Gazdasági Térség valamely tagállamának nemzeti szabályrendszere szerinti összevont pénzügyi beszámoló hatálya alá tartozik;
+
+55. kamatfizetés, adózás és értékcsökkenés előtti eredmény: a 6. § (1)–(4) bekezdései szerinti adóalapnak a nettó finanszírozási költséggel, az e törvény szerinti értékcsökkenési leírás adóalap-csökkentő tételként elszámolt összegével és a 7. § (1) bekezdés ny) pontja alapján adóalap-csökkentő tételként elszámolt összeggel növelt, továbbá a 8. § (1) bekezdés j) pontja alapján adóalap-növelő tételként elszámolt összeggel csökkentett összege, azzal, hogy nem vehető figyelembe a hosszú távú állami infrastrukturális beruházásából származó jövedelem és az olyan jövedelem, amelyet társasági adókötelezettség nem terhel;
+
+56. kamatlevonási kapacitás: az adóévi kamatfizetés, adózás és értékcsökkenés előtti eredmény 30 százalékának az adóévi nettó finanszírozási költséggel csökkentett összege;

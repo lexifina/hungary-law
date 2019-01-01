@@ -12,9 +12,9 @@ a)
 
 b) a közhasznú szervezetként besorolt alapítványnak, közalapítványnak, egyesületnek, köztestületnek és felsőoktatási intézménynek vállalkozási tevékenysége adózás előtti nyereségének 20 százalékával;
 
-c) a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j),, n), o), r), t), u) és v) pontja, továbbá a 7. § (3), (10) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
+c) a 7. § (1) bekezdésének a), b), cs), d), g), gy), i), j),, n), ny), o), r), t), u) és v) pontja, továbbá a 7. § (3), (10) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
 
-d) a c) ponttól eltérően az alapítványnál, a közalapítványnál, az egyesületnél, a köztestületnél a 7. § (1) bekezdés a), b), cs), d), i), j), n), o), r), t), u) és v) pontja, valamint a 7. § (3) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
+d) a c) ponttól eltérően az alapítványnál, a közalapítványnál, az egyesületnél, a köztestületnél a 7. § (1) bekezdés a), b), cs), d), i), j), n), ny), o), r), t), u) és v) pontja, valamint a 7. § (3) és (18) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
 
 e) a munkáltatói és munkavállalói érdekképviseleti szervezetnél a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével, amelyet az adóévben, az adóévet követő adóévben a szervezet alapítói okiratában, alapszabályában nevesített célszerinti tevékenysége bevételét meghaladó költsége, ráfordítása fedezetére használ fel;
 
@@ -22,7 +22,7 @@ f) az alapítványnál, a közalapítványnál, az egyesületnél, a köztestül
 
 (3) Növelni kell az adózás előtti eredményt
 
-a) a 8. § (1) bekezdés a), b), d), e), gy), h), j), m), p) és r) pontja, továbbá a 8. § (5) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
+a) a 8. § (1) bekezdés a), b), d), e), gy), h), j), m), p) és r) pontja, továbbá a 8. § (5)–(5e) bekezdése alapján megállapított értékből a vállalkozási tevékenységhez közvetlenül hozzárendelhető összeggel, illetőleg közvetett kapcsolat esetén a vállalkozási tevékenység bevételével arányos összeggel;
 
 b) a nem a vállalkozási tevékenységéhez kapott támogatás, juttatás
 

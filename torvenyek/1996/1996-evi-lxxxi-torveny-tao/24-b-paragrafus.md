@@ -11,3 +11,5 @@ b) a fizetendő adóból juttatott felajánlás összegének, de legfeljebb a 24
 (3) A jóváírás az állami adóhatóságnál vezetett társasági adófolyószámlán külön csökkentő tételként kerül kimutatásra, amelyre tekintettel a számviteli törvény alapján elszámolt egyéb bevétel az adózás előtti eredményt csökkenti.
 
 (4) Amennyiben az állami adóhatóság határozata vagy az adózó önellenőrzése eredményeképpen a fizetendő adó 80 százalékában meghatározott korlát módosulna, akkor az (1) bekezdés szerinti jóváírás az állami adóhatóságnál vezetett adófolyószámlán társasági adónemben kimutatott összegét az állami adóhatóság megfelelően módosítja.
+
+(5) A csoportképviselő a csoportos társasági adóalanyt a felajánlás adóévére megillető jóváírást a felajánlás adóévének fizetendő adója 24. § (3) bekezdése szerinti arányában osztja fel. Az adózó a jóváírásból rá jutó részt adózás előtti eredménye javára számolja el.

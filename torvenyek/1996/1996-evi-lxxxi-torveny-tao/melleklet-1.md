@@ -32,7 +32,7 @@ h) a közúti személyszállításhoz használt járműveknél.
 
 5/b. A számvitelről szóló törvény 3. § (5) bekezdés 1. pontja és 177. § (50) bekezdése szerinti üzleti vagy cégérték után 10 százalék értékcsökkenési leírást érvényesíthet az adózó feltéve, hogy adóbevallásában nyilatkozik arról, hogy az üzleti vagy cégérték kimutatásának, kivezetésének körülményei megfelelnek a rendeltetésszerű joggyakorlás elvének.
 
-6. Az 1995. december 31-e után az adózó vagy jogelődje által üzembe helyezett, más által korábban még használatba nem vett, a HR 8401, 8405–8408, 8410–8430, 8432–8447, 8449–8465, 8467, 8468, 8474–8485, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504–8507, 8511–8513, 8530, 8531, 8535–8537, 8539, 8543–8548, 9006, 9405 vtsz.-ok alá tartozó villamos készülékek, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető.
+6. Az 1995. december 31-e után az adózó vagy jogelődje által üzembe helyezett, más által korábban még használatba nem vett, a Harmonizált Rendszer szerint (a továbbiakban: HR) 8401 vámtarifaszám (a továbbiakban: vtsz.), a HR 8405-8408, 8410-8430, 8432-8447, 8449-8465, 8467, 8468, 8474-8484, 8487, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504-8507, 8511-8513, 8530, 8531, 8535-8537, 8539, 8543-8548, 9006, 9405 vtsz.-ok alá tartozó elektromos berendezések, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető.
 
 7. A bérbeadó eszközei között kimutatott, bérbe adott épület, építmény és ültetvény esetében 5 százalék, minden egyéb bérbe adott tárgyi eszköz, továbbá bérbe adott (ideértve a hasznosítási engedély, használati engedély és felhasználási engedély alapján használatba adott) szabadalom, más iparjogvédelmi oltalomban részesülő szellemi alkotás, know-how, védjegy, kereskedelmi név, üzleti titok, szerzői jogi törvény által védett szerzői mű és a szerzői joghoz kapcsolódó jog által védett teljesítmény után 30 százalék értékcsökkenési leírást érvényesíthet a bérbeadó.
 
@@ -40,7 +40,7 @@ h) a közúti személyszállításhoz használt járműveknél.
 
 7/b. Az adózó a munkavállalói számára bérlakás céljából épített (a tárgyi eszközei között kimutatott) és e tevékenységet közvetlenül szolgáló hosszú élettartamú szerkezetű épület után 6 százalék értékcsökkenési leírást érvényesíthet.
 
-8. Az adózó az általános rendeltetésű számítástechnikai gépek, berendezések (HR 8471 vtsz.-ből) esetében 50 százalék értékcsökkenési leírást érvényesíthet.
+8. A HR 8443 31, 8443 32, 8471 8528 42; 8528 52 vtsz. alá tartozó általános rendeltetésű számítástechnikai gép, berendezés esetében az adózó 50 százalék értékcsökkenési leírást érvényesíthet.
 
 8/a. A kizárólag film- és videogyártást szolgáló gépek és berendezések esetében 50 százalék értékcsökkenési leírás érvényesíthető.
 
