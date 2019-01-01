@@ -24,6 +24,8 @@ gyakorolja.
 
 (3b) Ha az állami részesedéssel működő gazdasági társaságban az állam nevében a tulajdonosi (tagsági, részvényesi, alapítói) jogokat a (3a) bekezdés szerinti személy gyakorolja, az (1) bekezdés alapján az MNV Zrt. jogosult az állami részesedéssel működő gazdasági társaságban fennálló állami részesedés átruházására, arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására és más módon való megterhelésére.
 
+(3c) Az állami részesedéssel működő gazdasági társaság felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján gyakorló személy – a 29. § (5) bekezdésére figyelemmel – az Nvtv. 8. § (7) bekezdése szerinti más személynek a tulajdonosi jogok egészének vagy meghatározott részének gyakorlására szóló meghatalmazást nem adhat.
+
 (4) Az állami vagyon feletti tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
 (5) Az a törvényben kijelölt tulajdonosi joggyakorló, amely nem egyedileg meghatározott vagyoni kör tekintetében gyakorol tulajdonosi jogokat, a rábízott vagyon körében a miniszter jóváhagyásával köthet olyan megállapodást, amelynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben részt vevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.

@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2017-12-28 | 2017. évi CXCIX. törvény | 2007-106-00-00.41 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2007-106-00-00.42 |
 | 2018-05-18 | 2018. évi V. törvény | 2007-106-00-00.43 |
+| 2019-01-01 | 2018. évi CXXVIII. törvény | 2007-106-00-00.44 |
