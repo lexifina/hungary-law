@@ -8,7 +8,7 @@
 
 (2) Az Országgyűlési Őrség
 
-a) ellátja a házelnök személyi védelmét,
+a) ellátja a házelnök személyvédelmét,
 
 b) az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek, valamint az abban tartózkodók biztonsága érdekében létesítménybiztosítási feladatokat lát el,
 
