@@ -1,0 +1,3 @@
+27. § Az Szt. a következő 107. §-sal egészül ki:
+
+„107. § A 106. § szerinti értesítést írásban, a 106. § a)–d) pontja szerinti esetben haladéktalanul, a 106. § e) pontja szerinti esetben a hátralék megállapítását követő 8 napon belül, és ingatlanvagyonra terhelhető díjhátralék esetén a jelzálogjog bejegyzés kezdeményezése előtt kell megtenni.”
