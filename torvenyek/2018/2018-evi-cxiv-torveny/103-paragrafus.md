@@ -1,5 +1,3 @@
-## „(2) Az illetménykiegészítés alapösszege 63.000 Ft.”
-
 103. § (1) Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 7. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
 
 (Egészségügyi tevékenység végzésére az alábbi jogviszonyokban kerülhet sor:)
@@ -21,11 +19,3 @@ e) (3) bekezdésében a „Kjt. 44. § (2)–(5) bekezdése” szövegrész hely
 f) (3) bekezdésében a „Kjt. 44. § (2) bekezdése” szövegrész helyébe a „Kjt. 44. § (2) bekezdése és a Haj. 50. § (2) bekezdése” szöveg
 
 lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
