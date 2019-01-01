@@ -1,4 +1,4 @@
-## 30. §[^5] E rendeletnek a Magyar Honvédség Öltözködési Szabályzatának kiadásáról szóló 9/2005. (III. 30.) HM rendelet és a ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosításáról szóló 23/2016. (XII. 21.) HM rendelettel megállapított 29. §-át 2016. augusztus 1-jétől kell alkalmazni.
+## 29–30. §[^4]
 
 1. melléklet a 20/2013. (IX. 16.) HM rendelethez
 
@@ -362,4 +362,4 @@ Megjegyzés:
 
 (6) Helyettesíthető cikként 2008 M általános bakancs is kiadható
 
-[^5]: A 30. §-t a 23/2016. (XII. 21.) HM rendelet 5. §-a iktatta be.
+[^4]: A 29–30. §-t a 23/2016. (XII. 21.) HM rendelet 5. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 6. §-a.
