@@ -10,7 +10,7 @@ c)[^2] a menekültkénti vagy oltalmazottkénti, valamint a menedékeskénti eli
 
 d)[^3] felelős az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendeletből fakadó feladatok ellátásáért;
 
-e)[^4] felügyeli a befogadó állomást és a menekültügyi őrzött befogadó központot (a továbbiakban együtt: befogadó központ);
+e)[^4] fenntartja a befogadó állomást és a menekültügyi őrzött befogadó központot (a továbbiakban együtt: befogadó központ);
 
 f)[^5] végzi és összehangolja az elismerését kérő, valamint a menekült, az oltalmazott, a befogadott és a menedékes ellátásával és támogatásával kapcsolatos igazgatási feladatokat;
 
@@ -30,10 +30,10 @@ l)[^9] nemzeti kapcsolattartó pontként ellátja az Európai Menekültügyi Tá
 
 (4)[^11] A Hivatal a (3) bekezdés szerinti képzés keretében biztosítja, hogy a személyi állomány menekültügyi hatósági, ellátási feladatokat ellátó tagjai hozzájussanak a különleges bánásmódot igénylő elismerését kérő, menekült, oltalmazott és menedékes sajátos szükségleteihez igazodó speciális ismeretekhez.
 
-[^1]: Az 1. § (1) bekezdése az 58/2016. (XII. 22.) BM rendelet 22. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 35/2018. (XII. 21.) BM rendelet 10. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés c) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés d) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (2) bekezdés e) pontja az 58/2016. (XII. 22.) BM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés e) pontja az 58/2016. (XII. 22.) BM rendelet 22. § (1) bekezdésével megállapított, a 35/2018. (XII. 21.) BM rendelet 13. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés f) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (2) bekezdés h) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (3) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (2) bekezdés i) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (3) bekezdésével megállapított szöveg.

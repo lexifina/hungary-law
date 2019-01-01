@@ -2,8 +2,8 @@
 
 (2) A befogadó állomáson elhelyezett az értéktárgyait, valamint készpénzét letétbe helyezheti, értéktárgyairól, valamint a készpénz felhasználásáról szabadon rendelkezhet.
 
-(3)[^16] A befogadó állomáson tartózkodás szabályait az 1. mellékletben meghatározott házirend tartalmazza.
+(3)[^18] A befogadó állomáson tartózkodás szabályait az 1. mellékletben meghatározott házirend tartalmazza.
 
 (4) A befogadó állomáson elhelyezettet a befogadó állomáson történő elhelyezés alkalmával jogairól és kötelezettségeiről – az anyanyelvén vagy az általa értett más nyelven – a házirend ismertetésével tájékoztatni kell. A házirendet a befogadó állomáson jól látható helyen – legalább öt nyelven, köztük angol és francia nyelven – ki kell függeszteni.
 
-[^16]: A 4. § (3) bekezdése a 3/2017. (III. 23.) BM rendelet 3. § b) pontja szerint módosított szöveg.
+[^18]: A 4. § (3) bekezdése a 3/2017. (III. 23.) BM rendelet 3. § b) pontja szerint módosított szöveg.

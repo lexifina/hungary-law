@@ -1,4 +1,4 @@
-4/C. §[^20] (1) A tranzitzónában elhelyezett ruházatát és csomagját a tranzitzónába történő beléptetés előtt át kell vizsgálni.
+4/C. §[^23] (1) A tranzitzónában elhelyezett ruházatát és csomagját a tranzitzónába történő beléptetés előtt át kell vizsgálni.
 
 (2) A tranzitzónában elhelyezett az értéktárgyait, valamint készpénzét letétbe helyezheti, értéktárgyairól, valamint a készpénz felhasználásáról szabadon rendelkezhet.
 
@@ -6,4 +6,4 @@
 
 (4) A tranzitzónában tartózkodás szabályait a 2. mellékletben meghatározott házirend tartalmazza.
 
-[^20]: A 4/C. §-t a 3/2017. (III. 23.) BM rendelet 1. §-a iktatta be.
+[^23]: A 4/C. §-t a 3/2017. (III. 23.) BM rendelet 1. §-a iktatta be.
