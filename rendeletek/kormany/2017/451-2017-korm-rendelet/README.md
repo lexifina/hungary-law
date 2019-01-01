@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-451-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-451-20-22.1 | 451/2017. (XII. 27.) Korm. rendelet |
+| 2019-01-01 | 2017-451-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
