@@ -4,7 +4,7 @@
 
 ## 32. Adatszolgáltatás
 
-53. § (1) A Hatóság felhívhatja az e törvény hatálya alá tartozó postai tevékenységet végzőt, postai szolgáltatót minden olyan adat szolgáltatására, amely a Hatóság – e törvényben, valamint e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – hatósági hatáskörébe utalt feladatainak ellátásához szükséges, abban az esetben is, ha az – a minősített adatok kivételével – üzleti titoknak minősül. E felhívás ellen jogorvoslatnak helye nincs, a felhívás a (2) bekezdésben foglalt esetben kibocsátott hatósági határozat elleni jogorvoslati kérelemben támadható.
+53. § (1) A Hatóság felhívhatja a postai tevékenységet végzőt, a postai szolgáltatót minden olyan adat szolgáltatására, amely a Hatóság – e törvényben, e törvény felhatalmazása alapján kiadott jogszabályban, valamint a határokon átnyúló csomagkézbesítési szolgáltatásokról szóló 2018. április 18-i 2018/644 európai parlamenti és tanácsi rendeletben meghatározott – hatósági hatáskörébe utalt feladatainak ellátásához szükséges, abban az esetben is, ha az – a minősített adatok kivételével – üzleti titoknak minősül. E felhívás ellen jogorvoslatnak helye nincs, a felhívás a (2) bekezdésben foglalt esetben kibocsátott hatósági határozat elleni jogorvoslati kérelemben támadható.
 
 (2) Amennyiben az (1) bekezdésben foglalt felhívást az adatszolgáltatásra felhívott nem vagy nem megfelelően teljesíti, úgy a Hatóság hatósági határozatában kötelezheti a felhívásban foglalt adatok szolgáltatására.
 

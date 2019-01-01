@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-159-00-00
 | 2017-12-28 | 2017. évi CXCIX. törvény | 2012-159-00-00.15 |
 | 2018-01-01 | 2017. évi L. törvény | 2012-159-00-00.16 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-159-00-00.17 |
+| 2019-01-01 | 2018. évi CXXVIII. törvény | 2012-159-00-00.18 |
