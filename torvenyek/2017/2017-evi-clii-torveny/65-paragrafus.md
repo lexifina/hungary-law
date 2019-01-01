@@ -1,6 +1,6 @@
 ### 65. § [A meghallgatáshoz való jog biztosítása]
 
-(1) A vámhatóság a meghallgatáshoz való jog gyakorolása során az ügyben érintett személyről, az általa tett nyilatkozatról és a nyilatkozattétel során az ügyfél által felhozott bizonyítási eszközökről kép- és hangfelvételt készíthet. A vámhatóság által készített kép- és hangfelvétel, továbbá az abban szereplő személyes adat
+(1) A vámhatóság a meghallgatáshoz való jog gyakorlása során az ügyben érintett személyről, az általa tett nyilatkozatról és a nyilatkozattétel során az ügyfél által felhozott bizonyítási eszközökről kép- és hangfelvételt készíthet. A vámhatóság által készített kép- és hangfelvétel, továbbá az abban szereplő személyes adat
 
 a) a vámellenőrzés és az áruátengedést követő ellenőrzés,
 

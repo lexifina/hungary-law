@@ -6,6 +6,8 @@
 
 (3) A Vámkódex 39. cikk d) pontja és a VA 27. cikke (1) bekezdés b) pontja szerinti képzés alatt a vámjogi szakértői hatósági képzést és hatósági vizsgát kell érteni. A hatósági vizsga sikeres teljesítését tanúsítvány igazolja.
 
+(3a) A VA 27. cikk (2) bekezdése kapcsán a Vámkódex 39. cikk d) pont szerinti kritériumot a vámhatóság nem tekinti teljesítettnek, ha a szerződtetett személy a kritériumok teljesítése érdekében további szerződéses viszonyt létesít egy harmadik személlyel.
+
 (4) A vámjogi szakértői hatósági képzést lebonyolító képző szervek, valamint a hatósági vizsga lebonyolítására megbízással foglalkoztatható vizsgabiztosok nyilvántartását a miniszter által vezetett minisztérium (a továbbiakban: nyilvántartásba vételt végző szervezet) vezeti.
 
 (5) A vámjogi szakértői hatósági képzést lebonyolító képző szervek nyilvántartása tartalmazza a képző szerv
@@ -36,6 +38,6 @@ e) egyéb szakképesítések megnevezése, az ezen képesítéseket igazoló okl
 
 f) az államilag elismert, idegennyelv-tudást igazoló nyelvvizsga típusa, valamint fokozata.
 
-(8) A (7) bekezdés szerinti nyilvántartásba vett vizsgabiztos neve, levelezési címe, nyilvántartási száma, valamint hozzájárulása esetén egyéb, a nyilvántartásba vett adata nyilvános. A tárgyévben nyilvántartásba vettek nyilvános adatait, illetve a nyilvántartásba vett nyilvános adatokban bekövetkezett változásokat a miniszter által vezetett minisztérium honlapján a nyilvántartást végző szervezet évente – a tárgyévet követő év március 31-ig – közzéteszi, továbbá a nyilvántartásba vételt végző szervezet honlapján valamennyi nyilvántartásba vett személy nyilvános adatait nyilvánosságra hozza.
+(8) A (7) bekezdés szerinti nyilvántartásba vett vizsgabiztos neve, levelezési címe, nyilvántartási száma, valamint hozzájárulása esetén egyéb, a nyilvántartásba vett adata nyilvános. A tárgyévben nyilvántartásba vettek nyilvános adatait, illetve a nyilvántartásba vett nyilvános adatokban bekövetkezett változásokat a miniszter által vezetett minisztérium honlapján a nyilvántartásba vételt végző szervezet évente – a tárgyévet követő év március 31-ig – közzéteszi, továbbá a nyilvántartásba vételt végző szervezet honlapján valamennyi nyilvántartásba vett személy nyilvános adatait nyilvánosságra hozza.
 
 (9) A vizsgabiztosok nyilvántartásából törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő 5 évig őrzi meg.

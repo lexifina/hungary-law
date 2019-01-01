@@ -1,0 +1,3 @@
+## 9/A. A Vámkódex 13. cikkéhez
+
+31/A. § Az önellenőrzés elősegítése érdekében a vámhatóság az áru átengedését követően vám-árunyilatkozattal vagy újrakiviteli árunyilatkozattal kapcsolatos, a Vámkódex 5. cikk 7. pontja szerinti kockázatra vonatkozó információt adhat át azon „vámügyi egyszerűsítések” típusú engedélyezett gazdálkodó részére, akivel erre irányuló írásbeli megállapodást kötött. A vámhatóság által átadott információ kizárólag azon vám-árunyilatkozatra vagy újrakiviteli árunyilatkozatra irányulhat, amely tekintetében az érintett gazdálkodó a saját nevében és a saját érdekében járt el.

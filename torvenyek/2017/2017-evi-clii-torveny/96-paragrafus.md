@@ -1,6 +1,6 @@
 ### 96. § [Ügyintézési határidő jogorvoslati eljárás esetén]
 
-(1) E törvény eltérő rendelkezése hiányában, az ügyintézési határidő 30 nap, ami magába foglalja a közlésére irányuló intézkedés időpontját is.
+(1) E törvény eltérő rendelkezése hiányában, az ügyintézési határidő 30 nap, ami magába foglalja a döntés közlésére irányuló intézkedés időpontját is.
 
 (2) Az (1) bekezdés szerinti határidő számítása tekintetében a (3) bekezdés kivételével a Vámkódex 55. cikkében meghatározott rendelkezéseket kell alkalmazni.
 

@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdés szerint beküldött elektronikus vám-árunyilatkozat elfogadásáról és a kötelezettségvállalás alapján biztosítékként elfogadott összegről az illetékes vámhivatal elektronikus üzenetben értesíti az elektronikus vám-árunyilatkozatot beküldőt.
 
-(4) A (2) bekezdés szerint esetben a vámhatóság által a vámeljáráshoz megkövetelt biztosíték összegét a kötelezettségvállalási engedélyhez nyújtott biztosítékból el kell különíteni.
+(4) A (2) bekezdés szerinti esetben a vámhatóság által a vámeljáráshoz megkövetelt biztosíték összegét a kötelezettségvállalási engedélyhez nyújtott biztosítékból el kell különíteni.
 
 (5) A kötelezettségvállalás alapján a (4) bekezdés szerinti, a vámhatóság által elkülönített biztosítékösszeg felszabadításáról az illetékes vámhivatal elektronikus értesítést küld az elektronikus vám-árunyilatkozatot beküldő részére.
 

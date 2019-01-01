@@ -2,7 +2,7 @@
 
 ### 158. § [A vámtartozás elévülése]
 
-(1) A Vámkódex 103. cikk (2) bekezdése alkalmazásakor a vámtartozás a cselekmény elkövetésétől számított 10 évig közölhető.
+(1) Ha a Vámkódex 103. cikk (2) bekezdése szerinti esetben a vámhatóság feljelentése alapján a nyomozás elrendelésére került sor, akkor a vámtartozás a cselekmény elkövetésétől számított 10 évig közölhető.
 
 (2) Az (1) bekezdésben meghatározott esetben a 3 éven túl megállapított vámtartozás könyvelésbe vételére, beszedésére és megszűnésére a vámjogszabályok erre vonatkozó rendelkezéseit kell alkalmazni.
 

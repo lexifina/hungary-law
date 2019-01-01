@@ -54,7 +54,7 @@ e) az a személy, aki az Unió vámterületére árut szállít be, nem állítj
 
 f) az árut a Vámkódex 140. cikke szerint a vámhatóság engedélye nélkül vagy nem a vámhatóság által kijelölt vagy jóváhagyott helyeken rakják ki vagy átrakják az azt fuvarozó szállítóeszközről,
 
-g) az a személy, aki az Unió vámterületérről árut szállít ki, nem állítja azt vám elé a kilépést megelőzően,
+g) az a személy, aki az Unió vámterületéről árut szállít ki, nem állítja azt vám elé a kilépést megelőzően,
 
 h) az Unió vámterületére jogellenesen bejuttatott nem uniós árut vagy az árutovábbítási eljárás alatt álló, a rendeltetési vámhivatalnál vám elé nem állított árut szereznek meg vagy birtokolnak,
 
@@ -88,7 +88,7 @@ d) a vámjogszabályok alkalmazásához kapcsolódó határozat jogosultja nem t
 
 e) a vámjogszabályok alkalmazásához kapcsolódó határozat jogosultja nem értesíti haladéktalanul a vámhatóságot az említett vámhatóság által hozott határozat meghozatalát követően felmerült bármely olyan tényezőről, amely befolyásolhatja a határozat fenntartását vagy tartalmát,
 
-f) az érintett személy az engedélyezett gazdálkodói engedélyt, az egyszerűsített árunyilatkozat igénybevételére, a Vámkódex szerinti egyéb egyszerűsítések igénybevételére, az áru különös eljárások alá vonására vagy tranzitterület létesítésére vonatkozó engedélyt a vámhatóságoktól valótlan nyilatkozatok révén szerezte meg, vagy a vámjogszabályok alkalmazásához kapcsolódó egyéb határozat meghozatalához a vámhatóság részére valótlan információt bocsátott rendelkezésre,
+f) az érintett személy az engedélyezett gazdálkodói engedélyt, az egyszerűsített árunyilatkozat igénybevételére, a Vámkódex szerinti egyéb egyszerűsítések igénybevételére, az áru különleges eljárások alá vonására vagy tranzitterület létesítésére vonatkozó engedélyt a vámhatóságoktól valótlan nyilatkozatok révén szerezte meg, vagy a vámjogszabályok alkalmazásához kapcsolódó egyéb határozat meghozatalához a vámhatóság részére valótlan információt bocsátott rendelkezésre,
 
 g) a központi vámkezelés engedélyese, valamint az önértékelésre jogosító engedély birtokosa nem, vagy hibásan, vagy hiányosan teljesíti az egyéb terhek megállapításához szükséges adatszolgáltatási kötelezettségét.
 
@@ -120,13 +120,13 @@ terjedő összeget kell megállapítani.
 
 (11) A (10) bekezdés szerinti bírság kiszabásakor a vámhatóság mérlegeli az eset összes körülményét, az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja magatartásának súlyát, gyakoriságát, továbbá azt, hogy az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el.
 
-(12) Ha az (1) bekezdés b) pontjában meghatározott jogsértést oly módon követik el, hogy az Európai Unió vámterületére jövedéki terméket szállítanak be és a belépést követően azt nem állítják vám elé, a vámigazgatási bírság mértéke az árut terhelő vám és egyéb terhek összegének 200%-ával megegyező összeg, de legalább 40 000 forint.
+(12) Ha az (1) bekezdés b) pontjában meghatározott jogsértést a (3) bekezdés e) pontja alapján olyan árura követik el, amely nem uniós áru és egyben jövedéki termék, akkor a vámigazgatási bírság mértéke az árut terhelő vám és egyéb terhek összegének 200%-ával megegyező összeg, de legalább 40 000 forint.
 
-(13) Ha az EUR.1 vagy EUR-MED szállítási bizonyítványt vagy származási nyilatkozatot tartalmazó számlát a külföldi vámhatóság a rajta lévő adatok ellenőrzése céljából visszaküldi Magyarországra, illetve külföldi megkeresés nélkül a magyar vámhatóság az előzőekben nevesített okmányokat, valamint a „Beszállítói Nyilatkozat”-okat vizsgálat tárgyává teszi és az utólagos vizsgálat során az adatok valótlannak bizonyulnak, az exportőr vagy a beszállító az eladási ár, annak hiányában az áru vámhatóság által megállapított értékének egy százalékát, de legalább 50 000 forint, legfeljebb 1 millió forint vámigazgatási bírságot köteles fizetni. A vámigazgatási bírságot származást igazoló okmányonként kell kiszabni. Hosszú távú beszállítói nyilatkozat esetén beszállítói nyilatkozatonként legalább 500.000 forint, legfeljebb 1 millió forint vámigazgatási bírságot kell megállapítani.
+(13) Ha az Európai Unió által kötött nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusának rendelkezései alapján preferenciális tarifális elbánás céljára kiadott vagy kiállított okmányt, valamint a VA 61. vagy 62. cikke szerinti nyilatkozatot (a továbbiakban együtt: származási igazolást) vagy vámjogi státust igazoló okmányt a külföldi vámhatóság a rajta lévő adatok ellenőrzése céljából visszaküldi Magyarországra, illetve külföldi megkeresés nélkül a magyar vámhatóság származási igazolást, vagy vámjogi státust igazoló okmányt vizsgálat tárgyává tesz és az utólagos vizsgálat során az adatok valótlannak bizonyulnak, akkor az exportőr vagy a beszállító az eladási ár, annak hiányában az áru vámhatóság által megállapított értékének egy százalékát, de legalább 50 000 forint, legfeljebb 1 millió forint vámigazgatási bírságot köteles fizetni. A vámigazgatási bírságot származási igazolásonként, illetve vámjogi státust igazoló okmányonként kell kiszabni. A VA 62. cikke szerinti hosszú távú beszállítói nyilatkozat esetén beszállítói nyilatkozatonként legalább 500.000 forint, legfeljebb 1 millió forint vámigazgatási bírságot kell megállapítani.
 
 (14) A (13) bekezdésben meghatározott bírságot kell felszámítani, ha az exportőr vagy a beszállító a származási igazolással kapcsolatos benyújtási kötelezettségének a vámhatóság felszólításában megjelölt időpontig nem tesz eleget. Ha az érintett vámok és egyéb terhek jogcímenkénti összege a 10 EUR-t nem haladja meg, úgy nem kell vámigazgatási bírságot kiszabni.
 
-(15) A (13) bekezdés szerinti vámigazgatási bírság kiszabásának van helye, ha az exportőr vagy a beszállítói nyilatkozatot tevő a származási igazolás kiállításakor a vám-visszatérítési tilalom tekintetében a vámhatóságot megtéveszti azzal, hogy
+(15) A (13) bekezdés szerinti vámigazgatási bírság kiszabásának van helye, ha az exportőr vagy a beszállító a származási igazolás kiállításakor a vám-visszatérítési tilalom tekintetében a vámhatóságot megtéveszti azzal, hogy
 
 a) eltitkolja az exporttermék nem származó anyaghányadát, vagy
 

@@ -4,7 +4,7 @@
 
 (1) A közölt vámösszeg és egyéb terhek megfizetésének időpontja az a nap, amikor a teljes összeg az előírásnak megfelelően a vámhatóság által kezelt, a Magyar Államkincstár által vezetett központosított beszedési számlán jóváírásra került. A hitelintézet és a vámhatóság megállapodást köthet a készpénzben megfizetett vámbiztosíték, a vám és az egyéb terhek kincstáron át történő összevont átutalásának teljesítéséről.
 
-(2) A Vámkódex 108. cikk (1) bekezdésének harmadik albekezdésében meghatározott határidő hosszabítás kérelemre engedélyezhető. Az engedélyezés feltétele, hogy a fizetési nehézség
+(2) A Vámkódex 108. cikk (1) bekezdésének harmadik albekezdésében meghatározott határidő hosszabbítás kérelemre engedélyezhető. Az engedélyezés feltétele, hogy a fizetési nehézség
 
 a) a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható, és
 

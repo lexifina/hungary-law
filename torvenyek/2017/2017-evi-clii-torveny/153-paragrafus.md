@@ -10,6 +10,6 @@ b) biztosítékot nyújt garanciavállaló nyilatkozat vagy készpénz formájá
 
 c) kérelméhez csatolja a képviseletre jogosult személy(ek) hiteles cégaláírási nyilatkozatát (közjegyzői aláírás-hitelesítéssel ellátott címpéldány) vagy cégbírósághoz benyújtott, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírásmintát.
 
-(2) Az (1) bekezdés szerinti engedélyben meg kell határozni – a nyújtott biztosítékkal összhangban – a kötelezettségvállalással összességében vállalható legmagasabb összeghatárt, valamint szükség esetén engedély érvényességi idejét.
+(2) Az (1) bekezdés szerinti engedélyben meg kell határozni – a nyújtott biztosítékkal összhangban – a kötelezettségvállalással összességében vállalható legmagasabb összeghatárt, valamint szükség esetén az engedély érvényességi idejét.
 
 (3) A garanciajegyek formájában nyújtott egyedi kötelezettségvállalás jóváhagyása esetén e §-t kell alkalmazni, azzal, hogy az engedély jogosultja az (1) bekezdésben meghatározott feltételeken túl írásban kötelezettséget vállal a vámeljárás jogosultja tekintetében felmerült tartozások megfizetésére.

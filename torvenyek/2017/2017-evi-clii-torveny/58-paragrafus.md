@@ -10,4 +10,4 @@
 
 (5) Tolmácsként nem járhat el az, aki tanúként nem hallgatható meg, vagy aki a tanúvallomást megtagadhatja.
 
-(6) A tolmácsot a véleményadás előtt figyelmeztetni kell a hamis tolmácsolás, hamis fordítás jogkövetkezményeire.
+(6) A tolmácsot a tolmácsolás előtt figyelmeztetni kell a hamis tolmácsolás, hamis fordítás jogkövetkezményeire.

@@ -46,7 +46,7 @@ b) uniós termelő tevékenységet folytat és tevékenységét Magyarországon 
 
 c) nyilatkozik arról, hogy a termékek származására vonatkozó igazolási kötelezettségének minden esetben maradéktalanul eleget tesz,
 
-d) amennyiben gyártó, a főkönyvelője vagy pénzügyi vezetője nyilatkozik arról, hogy kettős könyvvitelt vezet és a készletnyilvántartásánál a „first in – first out” (elsőként bevételezett eszköz elsőként kiadva) elvet alkalmazza, továbbá, hogy a könyvelésben a származó és nem származó anyagokat elkülönítve tartja nyilván,
+d) amennyiben a gyártó, a főkönyvelője vagy pénzügyi vezetője nyilatkozik arról, hogy kettős könyvvitelt vezet és a készletnyilvántartásánál a „first in – first out” (elsőként bevételezett eszköz elsőként kiadva) elvet alkalmazza, továbbá, hogy a könyvelésben a származó és nem származó anyagokat elkülönítve tartja nyilván,
 
 e) nyilatkozik a módszer alkalmazásának szükségességéről a fizikai elkülönítés költségei miatt, vagy arról, hogy a fizikai elkülönítés nem lehetséges.
 
@@ -62,8 +62,10 @@ d) a vámhatóság kérésére lehetővé tenni a hozzáférést – a vonatkoz�
 
 e) vállalni, hogy a készletnyilvántartás tartalmazza a könyvelésben szereplő származó és nem származó anyagokat egyaránt azzal, hogy a készletnyilvántartásban szereplő egyenleget csökkenteni kell minden késztermék gyártásakor, tekintet nélkül arra, hogy a termék preferenciális származó helyzete igazolásra kerül-e,
 
-f) vállalni, hogy amennyiben a termékek preferenciális származás igazolása nélkül kerülnek kiszállításra, a nem származó anyagok készletnyilvántartásában szereplő egyenleget csak olyan mértékben csökkenti, amelyet az egyenleg lehetővé tesz azzal, hogy ha ez nem lehetséges, a származó anyagok készletnyilvántartásában szereplő egyenlegét kell csökkenteni.
+f) vállalni, hogy amennyiben a termékek preferenciális származás igazolása nélkül kerülnek kiszállításra az Unió vámterületéről, a nem származó anyagok készletnyilvántartásában szereplő egyenleget csak olyan mértékben csökkenti, amelyet az egyenleg lehetővé tesz azzal, hogy ha ez nem lehetséges, a származó anyagok készletnyilvántartásában szereplő egyenlegét kell csökkenteni.
 
 (9) A könyvelés szerinti elkülönítés engedélyezésekor a vámhatóság köteles megvizsgálni a gyártó nyilvántartásait a származó és nem származó anyagok nyitókészleteinek meghatározása céljából.
 
 (10) Ha a vámhatóság az FJA 58. cikk (4) bekezdésében foglaltak szerint az engedélyt visszavonja, ezzel egyidejűleg az összes helytelenül kiadott preferenciális származási igazolást érvényteleníti.
+
+(11) Az 1/95 EK–Törökország társulási tanácsi határozat részletes alkalmazási szabályainak megállapításáról szóló, 2006. szeptember 26-i 1/2006 EK–Törökország vámügyi együttműködési bizottsági határozat 11. cikke szerinti elfogadott exportőri engedély kiadására a (4) és (5) bekezdésben foglaltakat kell alkalmazni.

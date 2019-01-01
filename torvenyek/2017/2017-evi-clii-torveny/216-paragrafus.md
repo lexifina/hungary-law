@@ -16,7 +16,9 @@
 
 5. a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó, a szükséges elektronikus rendszerek működésbe lépéséig alkalmazandó átmeneti szabályok tekintetében történő kiegészítéséről, valamint a 2015/2446/EU felhatalmazáson alapuló rendelet módosításáról szóló, 2015. december 17-i (EU) 2016/341 felhatalmazáson alapuló bizottsági rendeletnek,
 
-6. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 78/352/EGK, a 94/165/EK, a 98/2799/EK, a 2000/814/EK, az 2005/1290/EK és a 2008/485/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 2013/1306/EU európai parlamenti és tanácsi rendelet V. cím III. fejezetének
+6. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 78/352/EGK, a 94/165/EK, a 98/2799/EK, a 2000/814/EK, az 2005/1290/EK és a 2008/485/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 2013/1306/EU európai parlamenti és tanácsi rendelet V. cím III. fejezetének,
+
+7. az Uniós Vámkódex értelmében történő információcserét és információtárolást szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló 2017. november 14-i (EU) 2017/2089 bizottsági végrehajtási rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 

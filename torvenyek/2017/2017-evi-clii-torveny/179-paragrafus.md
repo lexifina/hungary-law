@@ -6,7 +6,7 @@
 
 (2) A központi vámkezelésre vonatkozó engedély kiadásakor vagy Magyarországra történő kiterjesztésekor vizsgálni kell a (3) bekezdés szerinti kizáró körülmény fennálltát.
 
-(3) A vámhatóság az engedély kibocsátására vonatkozó kérelmet elutasítja, ha az engedély iránti kérelemben a gazdálkodó által leírt tevékenységből kitűnik, hogy a tevékenységhez kapcsolódva az egyéb terhek felmerülésének helye Magyarország, és a gazdálkodó által nyújtott biztosíték a vámhatóság számára nem nyújt közvetlen igénybejelentési jogosultságot a felmerülő tartozások megfizetésének érvényesítése során. Ezt a feltételt nem kell vizsgálni, ha a gazdálkodó e törvény alapján általánosforgalmiadó-biztosítási kötelezettség alól mentes.
+(3)
 
 (4) Szabad forgalomba bocsátásra, meghatározott célra történő felhasználásra, az általánosforgalmiadó-fizetési kötelezettséggel járó ideiglenes behozatalra vonatkozó engedélyhez beleegyezés, illetve ilyen, több tagállamra szóló engedély abban az esetben adható, ha az engedélyező vámhatóság szerinti tagállam és Magyarország között hatályos megállapodás van a visszatartott nemzeti beszedési költségek megosztásáról.
 

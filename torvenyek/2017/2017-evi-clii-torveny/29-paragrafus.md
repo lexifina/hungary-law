@@ -2,11 +2,11 @@
 
 (1) E § alkalmazásában a vámhatóság megkeresés, illetve adatkérés esetén annak beérkezésétől számított 30 napon belül, illetve hivatalból tájékoztatja a vámtitokról
 
-a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából,
+a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából, valamint a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervet, amennyiben nemzetbiztonsági feladatkörében jár el,
 
-b) a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet és a terrorizmust elhárító szervet törvényben meghatározott feladatai ellátása érdekében,
+b) a Rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés folytatása érdekében szükséges,
 
-c) az ügyészséget, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet törvényben meghatározott feladatai ellátása céljából,
+c) az ügyészséget, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet, ha tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges,
 
 d) a bíróságot az igazságszolgáltatási tevékenysége ellátása céljából,
 
@@ -38,6 +38,8 @@ el) az egyes árukra vagy országokra vonatkozó behozatali és kiviteli engedé
 
 em) az egészségügyi államigazgatási szervet,
 
+en) a klímavédelemért felelős hatóságot,
+
 f) az agrárpolitikáért felelős minisztert az agrárrendtartással és a piacvédelmi elemzéssel összefüggő feladatok ellátása céljából,
 
 g) a minisztert, ha a tájékoztatás jogszabályban meghatározott feladata ellátásához szükséges,
@@ -65,6 +67,8 @@ q) a hagyatéki eljárásban eljáró közjegyzőt a közjegyzői hatáskörbe t
 r) a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaságot és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaságot az áruk, szolgáltatások és anyagi értéket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosultnak az általa igénybe vehető szolgáltatásokról történő tájékoztatása céljából,
 
 s) a közlekedési hatóságot a Vámkódex 39. cikk e) pontja szerinti biztonsági és védelmi szabványokkal kapcsolatban a vámhatóság által lefolytatott eljárásának eredményéről a meghatalmazott ügynök vagy ismert szállító minősítésével kapcsolatos feladatok ellátása céljából.
+
+(1a) Az (1) bekezdés b) pontja szerinti szervek, valamint az (1) bekezdés c) pontja szerinti nyomozó hatóság – kivéve, ha a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 25. § (2) bekezdése alapján jár el –, előkészítő eljárást folytató szerv részére csak abban az esetben adható tájékoztatás a vámtitokról, ha az ügyészség az adatkérést engedélyezte. Ha az adatkérés ügyészségi engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, engedély nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás ilyen esetekben nem tagadható meg az ügyészi engedély hiánya miatt, az engedélyt utólag, haladéktalanul beszerzi az adatkérő.
 
 (2) A vámtitokról való tájékoztatás azon adatokra terjedhet ki, amelyek kezelésére az (1) bekezdés szerinti szervek törvény alapján jogosultak.
 

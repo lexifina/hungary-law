@@ -8,21 +8,19 @@ a) az ideiglenes biztosítási intézkedésről szóló,
 
 b) az ügyféli jogállásról vagy jogutódlásról rendelkező,
 
-d) az eljárást megszüntető,
+c) az eljárást megszüntető,
 
-e) az eljárás felfüggesztő,
+d) az eljárás felfüggesztő,
 
-f)
+e) az igazolási kérelmet elutasító,
 
-g) az igazolási kérelmet elutasító,
+f) a 90. § (1) és (4) bekezdése kivételével a lefoglalást elrendelő, valamint az annak megszüntetésére irányuló kérelmet elutasító,
 
-h) a 90. § (1) és (4) bekezdése kivételével a lefoglalást elrendelő, valamint az annak megszüntetésére irányuló kérelmet elutasító
+g) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
 
-i) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
+h) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott, valamint
 
-j) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott, valamint
-
-k) az eljárási költség megállapításával és viselésével kapcsolatos
+i) az eljárási költség megállapításával és viselésével kapcsolatos
 
 elsőfokú végzés ellen.
 
