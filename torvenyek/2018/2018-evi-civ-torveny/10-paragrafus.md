@@ -1,0 +1,3 @@
+10. § Az Szt. 34/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A nem állami fenntartó által fenntartott szakképző iskolában folyó felnőttoktatásban részt vevők létszáma a szakképzési megállapodásról szóló kormányrendeletben meghatározott feltételek szerint haladhatja meg a nappali rendszerű oktatásban részt vevő tanulók – hivatalos októberi statisztikai létszám alapján három tanítási év átlagában számított – létszámát. A felnőttoktatásban részt vevők létszámába nem számít bele a 84. § (5) bekezdés szerinti döntésben foglaltakat meghaladó, állami intézményfenntartótól kizárólag felnőttoktatás céljára átvett keretszámmal megegyező létszám.”
