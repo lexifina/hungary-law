@@ -1,0 +1,5 @@
+## 12. § A kérelmezőnek nem szükséges a 11. §-ban meghatározott közbeszerzési eljárások teljes körű lebonyolítását igazolnia, ha a kérelem benyújtását megelőző három éven belül legalább ötven közbeszerzési eljárás tekintetében az 1. § 5. pont 5.1. alpontja szerinti közbeszerzési, illetve ellenőrzési tevékenységre vonatkozó referenciával igazoltan rendelkezik.
+
+13. § (1) A közbeszerzési eljárások teljes körű lebonyolítása körében egy adott közbeszerzési eljárás előkészítésével és lefolytatásával kapcsolatban kifejtett, 1. § 5. pont 5.1. alpontja szerinti különböző tevékenységek a közbeszerzési gyakorlattal szemben a 11. §-ban támasztott követelmények teljesítése szempontjából a névjegyzékbe vétel során a kérelmező tekintetében csak egyszer vehetők figyelembe.
+
+(2) Egy közbeszerzési eljárással kapcsolatos jogorvoslati eljárással összefüggő képviseleti tevékenység jogorvoslati szakaszonként külön-külön figyelembe vehető azzal, hogy ugyanazon közbeszerzési eljárással kapcsolatos jogorvoslati tevékenység egy kérelmező szempontjából csak egyszer vehető figyelembe.
