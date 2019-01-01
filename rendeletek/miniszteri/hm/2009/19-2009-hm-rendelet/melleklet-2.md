@@ -1,4 +1,4 @@
-2. melléklet a 19/2009. (XII. 29.) HM rendelethez[^291]
+2. melléklet a 19/2009. (XII. 29.) HM rendelethez[^366]
 
 ## A helyőrségi szállók általános forgalmi adót nem tartalmazó bérleti (használati) díja
 
@@ -20,8 +20,8 @@
 
 3. Az alkalomszerű szállóelhelyezés esetén a szállóférőhely idegenforgalmi adó nélkül számított használati díja
 
-a) a honvédelmi szerv állományába tartozó személyek és a velük közösen elszállásolt, a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozóik esetében 1000 Ft/éjszaka,
+a) a honvédelmi szervezet állományába tartozó személyek és a velük közösen elszállásolt, a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozóik esetében 1000 Ft/éjszaka,
 
 b) az a) alpontban foglaltakon kívüli minden egyéb esetben 2500 Ft/éjszaka.
 
-[^291]: A 2. melléklet a 15/2015. (XII. 21.) HM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^366]: A 2. melléklet a 15/2015. (XII. 21.) HM rendelet 28. § (2) bekezdésével megállapított, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.

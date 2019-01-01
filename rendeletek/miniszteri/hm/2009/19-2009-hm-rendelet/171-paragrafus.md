@@ -1,4 +1,4 @@
-171. § (1)[^159] A szállóbérlet a 169. § (1) és (2) bekezdésében meghatározott jogosult helyőrségben betöltött beosztásának megszűnéséig, minden más esetben legfeljebb egy év meghatározott időtartamra szólhat.
+171. § (1)[^198] A szállóbérlet a 169. § (1) és (2) bekezdésében meghatározott jogosult helyőrségben betöltött beosztásának megszűnéséig, minden más esetben legfeljebb egy év meghatározott időtartamra szólhat.
 
 (2) A szállóbérlő a bérlet tartama alatt a használat körében:
 
@@ -8,10 +8,10 @@ b) köteles a szálló házirendjét betartani és az együttélés általánosa
 
 c) az általa okozott, rendeltetésellenes használatból eredő kárt vagy helyreállítási, pótlási költséget köteles megtéríteni.
 
-(3)[^160] Helyőrségi szálló férőhelyen nem helyezhető el olyan személy, akinek szállóférőhelyre vonatkozó bérleti vagy használati díj-tartozása áll fenn.
+(3)[^199] Helyőrségi szálló férőhelyen nem helyezhető el olyan személy, akinek szállóférőhelyre vonatkozó bérleti vagy használati díj-tartozása áll fenn.
 
-(4)[^161] A helyőrségben betöltött beosztás megszűnéséig, mint feltétel bekövetkezéséig szóló vagy egy hónapot meghaladó határozott időtartamú bérleti szerződés csak azzal köthető, aki a szerződésben vállalja, hogy a szerződéskötést követő második hónaptól kezdődően a bérleti díj megfizetésére vonatkozó kötelezettségét a bérleti jogviszony tartama alatt csoportos beszedési megbízás útján teljesíti. A bérlő ezen vállalásra irányuló kötelezettségének megszegését a bérleti szerződésben lényeges szerződésszegésként kell kikötni.
+(4)[^200] A helyőrségben betöltött beosztás megszűnéséig, mint feltétel bekövetkezéséig szóló vagy egy hónapot meghaladó határozott időtartamú bérleti szerződés csak azzal köthető, aki a szerződésben vállalja, hogy a szerződéskötést követő második hónaptól kezdődően a bérleti díj megfizetésére vonatkozó kötelezettségét a bérleti jogviszony tartama alatt csoportos beszedési megbízás útján teljesíti. A bérlő ezen vállalásra irányuló kötelezettségének megszegését a bérleti szerződésben lényeges szerződésszegésként kell kikötni.
 
-[^159]: A 171. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 11. §-ával megállapított szöveg.
-[^160]: A 171. § (3) bekezdését a 15/2015. (XII. 21.) HM rendelet 14. §-a iktatta be.
-[^161]: A 171. § (4) bekezdését a 15/2015. (XII. 21.) HM rendelet 14. §-a iktatta be.
+[^198]: A 171. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 11. §-ával megállapított szöveg.
+[^199]: A 171. § (3) bekezdését a 15/2015. (XII. 21.) HM rendelet 14. §-a iktatta be.
+[^200]: A 171. § (4) bekezdését a 15/2015. (XII. 21.) HM rendelet 14. §-a iktatta be.

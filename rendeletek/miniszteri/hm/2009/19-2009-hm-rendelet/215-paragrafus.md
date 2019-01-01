@@ -1,6 +1,6 @@
 ## teljes egészében visszafizetésre került.
 
-215. §[^224] (1) A hozzájárulás mértéke a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal, szállodai vagy szállodai jellegű szobabérlet esetében a számlával igazolt, rezsiköltséget nem tartalmazó albérleti vagy bérleti díj, de legfeljebb a jogosult a 10. § (1) és (4) bekezdései alapján megállapítható jogos lakásigény mértékének alsó határával megegyező szobaszámú lakásra a (2)–(3) bekezdés szerint számított összeg.
+215. §[^278] (1) A hozzájárulás mértéke a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal, szállodai vagy szállodai jellegű szobabérlet esetében a számlával igazolt, rezsiköltséget nem tartalmazó albérleti vagy bérleti díj, de legfeljebb a jogosult a 10. § (1) és (4) bekezdései alapján megállapítható jogos lakásigény mértékének alsó határával megegyező szobaszámú lakásra a (2)–(3) bekezdés szerint számított összeg.
 
 (2) Ha a jogosult esetében a 10. § (1) és (4) bekezdés szerinti jogos lakásigény mérték alsó határa
 
@@ -22,4 +22,4 @@ h) 4,5 vagy annál több lakószoba, a hozzájárulás mértéke a kormánytiszt
 
 (3) Az (1) és (2) bekezdés szerint megállapított albérleti díj hozzájárulás összegét a szociális körülmények figyelembevételével a munkáltatói jogkört gyakorló munkahelyi vezető 10%-kal kiegészítheti, ha a jogosult családi pótlékban részesül.
 
-[^224]: A 215. § a 10/2014. (VII. 25.) HM rendelet – a 26/2016. (XII. 22.) HM rendelet 27. § (1) bekezdése szerint módosított – 57. §-ával megállapított szöveg.
+[^278]: A 215. § a 10/2014. (VII. 25.) HM rendelet – a 26/2016. (XII. 22.) HM rendelet 27. § (1) bekezdése szerint módosított – 57. §-ával megállapított szöveg.

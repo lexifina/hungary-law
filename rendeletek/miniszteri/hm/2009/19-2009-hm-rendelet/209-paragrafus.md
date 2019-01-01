@@ -2,9 +2,9 @@
 
 209. § (1) A kölcsöntámogatásban részesült személy halála esetén a túlélő házastárs, illetve az örökösök a kölcsöntartozást változatlan feltételek mellett fizethetik vissza.
 
-(2)[^213] Ha a lakásban életvitelszerűen bent lakó, illetve oda ilyen céllal beköltöző túlélő házastárs vagy örökös a honvédelmi szervvel szolgálati, kormánytisztviselői, közalkalmazotti vagy munkaviszonyban áll, őt a reá átszállt tartozásra a szolgálati (munkajogi) jogviszonyban töltött időtartam szerint soron következő engedmény megilleti, amennyiben
+(2)[^262] Ha a lakásban életvitelszerűen bent lakó, illetve oda ilyen céllal beköltöző túlélő házastárs vagy örökös a honvédelmi szervezettel szolgálati, kormánytisztviselői, közalkalmazotti vagy munkaviszonyban áll, őt a reá átszállt tartozásra a szolgálati (munkajogi) jogviszonyban töltött időtartam szerint soron következő engedmény megilleti, amennyiben
 
-a) korábban a honvédelmi szervtől munkáltatói kölcsönt nem kapott, és
+a)[^263] korábban a honvédelmi szervezettől munkáltatói kölcsönt nem kapott, és
 
 b) HM rendelkezésű vagy önkormányzati lakás bérletével nem rendelkezik, továbbá
 
@@ -12,4 +12,5 @@ c) HM rendelkezésű vagy önkormányzati lakást bentlakóként a maga vagy má
 
 (3) A túlélő házastársat vagy örököst megillető engedményt a 196. § (1) bekezdésben meghatározott időtartam(ok) letöltésekor kell a tartozásból jóváírni.
 
-[^213]: A 209. § (2) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^262]: A 209. § (2) bekezdés nyitó szövegrésze a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja, a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja szerint módosított szöveg.
+[^263]: A 209. § (2) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § j) pontja szerint módosított szöveg.

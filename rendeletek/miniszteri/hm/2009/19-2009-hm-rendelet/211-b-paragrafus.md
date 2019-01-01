@@ -1,9 +1,3 @@
-211/B. §[^218] (1) A helyi lakásgazdálkodási szerv a lakbértámogatásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal, február 1. és március 31. között ellenőrzi.
+## 211/A. §[^268]
 
-(2) Az ellenőrzés során a helyi lakásgazdálkodási szerv a támogatott személytől 15 napos határidővel bekéri a támogatott személy nyilatkozatát a lakásban a Lakástörvény 21. §-a alapján jog- és életvitelszerűen együttlakó személyekről, továbbá a bérbeadótól származó igazolást a lakásbérlet fennállásáról, valamint arról, hogy lakbér tartozása nem áll fenn.
-
-(3) Ha a támogatott személy a nyilatkozattételt vagy az igazolás benyújtását a (2) bekezdés szerint nyitva álló határidőn belül megtagadja, elmulasztja, vagy a helyi lakásgazdálkodási szerv a nyilatkozat vagy a rendelkezésére álló egyéb adatok, információk alapján azt állapítja meg, hogy az igényjogosultság már nem áll fent, a lakbértámogatás megszüntetése és a jogosulatlanul felvett támogatás visszafizettetése érdekében, az állományilletékes parancsnok egyidejű tájékoztatása mellett öt munkanapon belül eljár a folyósításért felelős pénzügyi szervnél.
-
-(4) A (3) bekezdésben foglaltak szerint kell eljárni akkor is, ha a támogatott személy a 211/A. § (1) bekezdésben foglalt kötelezettségét elmulasztotta és a helyi lakásgazdálkodási szerv azt állapítja meg, hogy a támogatott személy a folyósítottnál alacsonyabb összegű támogatásra lenne jogosult.
-
-[^218]: A 211/B. §-t a 15/2015. (XII. 21.) HM rendelet 20. §-a iktatta be.
+[^268]: A 211/A. §-t a 15/2015. (XII. 21.) HM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 22/2018. (XII. 28.) HM rendelet 5. §-a.

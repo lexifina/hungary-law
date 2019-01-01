@@ -1,6 +1,6 @@
 ## 244. § A rendelet hatálybalépését megelőzően bérbe adott családi szálló lakóegységre a bérleti szerződés megszűnését követően a garzonházi lakások bérletére vonatkozó rendelkezéseket kell alkalmazni.
 
-244/A. §[^274] (1)[^275]
+244/A. §[^348] (1)[^349]
 
 (2) Az R1 9. § (2) bekezdésével megállapított 106. § (5) bekezdését az R1 9. §-ának hatálybalépését követően kötött garázsbérleti szerződések vonatkozásában kell alkalmazni.
 
@@ -10,5 +10,5 @@
 
 (5) Az R1 4–6. §-aival megállapított 57. § (3) bekezdést, 62. § (5) bekezdést, valamint 64. §-t az R1 hatálybalépését követően benyújtott kérelmek vonatkozásában kell alkalmazni.
 
-[^274]: A 244/A. §-t a 4/2012. (IV. 5.) Hm rendelet 20. §-a iktatta be.
-[^275]: A 244/A. § (1) bekezdését az 1/2018. (I. 26.) HM rendelet 6. § c) pontja hatályon kívül helyezte.
+[^348]: A 244/A. §-t a 4/2012. (IV. 5.) Hm rendelet 20. §-a iktatta be.
+[^349]: A 244/A. § (1) bekezdését az 1/2018. (I. 26.) HM rendelet 6. § c) pontja hatályon kívül helyezte.

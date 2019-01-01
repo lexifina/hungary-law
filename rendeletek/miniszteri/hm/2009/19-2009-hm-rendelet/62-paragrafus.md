@@ -1,12 +1,12 @@
-## 61. §[^89] HM rendelkezésű lakásra vonatkozó bérleti jog gyakorlásának folytatására kötött tartási szerződéshez hozzájárulás nem adható.
+## 61. §[^111] HM rendelkezésű lakásra vonatkozó bérleti jog gyakorlásának folytatására kötött tartási szerződéshez hozzájárulás nem adható.
 
 ## V. Fejezet
 
 ## A LAKÁSBÉRLET MEGSZŰNÉSE
 
-62. § (1)[^90]
+62. § (1)[^112]
 
-(2)[^91]
+(2)[^113]
 
 (3) A lakásbérleti szerződés közös megegyezéssel történő megszüntetése során
 
@@ -14,12 +14,12 @@ a) önkormányzati tulajdonú, HM bérlőkijelölési vagy ismételten gyakorolh
 
 b) HM rendelkezésű állami tulajdonú lakás esetén a 64. § szerint megállapított kiürítési vagy cseretérítés fizethető.
 
-(4)[^92]
+(4)[^114]
 
-(5)[^93] Ha a lakásbérlet megszüntetésekor a felek pénzbeli térítésben is megállapodtak, a szerződéshez a HM központi lakásgazdálkodási szerv jóváhagyása is szükséges. A pénzbeli térítés kifizetéséről a megállapodás jóváhagyását követően a lakáscélú támogatási szerv gondoskodik.
+(5)[^115] Ha a lakásbérlet megszüntetésekor a felek pénzbeli térítésben is megállapodtak, a szerződéshez a HM központi lakásgazdálkodási szerv jóváhagyása is szükséges. A pénzbeli térítés kifizetéséről a megállapodás jóváhagyását követően a lakáscélú támogatási szerv gondoskodik.
 
-[^89]: A 61. § a 15/2015. (XII. 21.) HM rendelet 5. §-ával megállapított szöveg.
-[^90]: A 62. § (1) bekezdését a 9/2017. (VIII. 31.) HM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^91]: A 62. § (2) bekezdését a 9/2017. (VIII. 31.) HM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^92]: A 62. § (4) bekezdését a 9/2017. (VIII. 31.) HM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^93]: A 62. § (5) bekezdése a 4/2012. (IV. 5.) HM rendelet 5. §-ával megállapított szöveg.
+[^111]: A 61. § a 15/2015. (XII. 21.) HM rendelet 5. §-ával megállapított szöveg.
+[^112]: A 62. § (1) bekezdését a 9/2017. (VIII. 31.) HM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^113]: A 62. § (2) bekezdését a 9/2017. (VIII. 31.) HM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^114]: A 62. § (4) bekezdését a 9/2017. (VIII. 31.) HM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^115]: A 62. § (5) bekezdése a 4/2012. (IV. 5.) HM rendelet 5. §-ával megállapított szöveg.

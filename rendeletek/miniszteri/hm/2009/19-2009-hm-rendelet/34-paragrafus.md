@@ -1,6 +1,6 @@
-## 33. §[^67]
+## 33. §[^88]
 
-34. § (1)[^68] Kérelemre, egyebekben változatlan feltétekkel ugyanazt a lakást határozatlan időtartamra kell bérbe adni, ha a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig szóló lakásbérleti szerződés azért szűnik meg, mert a honvédelmi szerv állományába tartozó bérlő
+34. § (1)[^89] Kérelemre, egyebekben változatlan feltétekkel ugyanazt a lakást határozatlan időtartamra kell bérbe adni, ha a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig szóló lakásbérleti szerződés azért szűnik meg, mert a honvédelmi szervezet állományába tartozó bérlő
 
 a) hivatásos katonai szolgálati viszonya felmentéssel azért került megszüntetésre, mert
 
@@ -34,21 +34,21 @@ g) közalkalmazotti jogviszonya a munkáltató jogutód nélküli megszűnésév
 
 h) munkaviszonya a munkáltató jogutód nélkül megszűnésével, továbbá a munkáltatói működéssel összefüggő okból történt munkáltatói felmondással, valamint a munkavállaló rendkívüli felmondásával szűnt meg.
 
-(1a)[^69] Az (1) bekezdésben foglaltak akkor alkalmazhatóak, ha a kérelmező esete nem esik a 9. § (1) bekezdésében és a 35. §-ban foglalt kizáró rendelkezések hatálya alá.
+(1a)[^90] Az (1) bekezdésben foglaltak akkor alkalmazhatóak, ha a kérelmező esete nem esik a 9. § (1) bekezdésében és a 35. §-ban foglalt kizáró rendelkezések hatálya alá.
 
-(2)[^70] Ha a kormánytisztviselő és a közalkalmazott felmentésére alkalmatlansága miatt került sor, az (1) bekezdés f) és g) pontjaiban foglaltak akkor alkalmazhatók, ha az alkalmatlanság megállapítása egészségügyi okból történt.
+(2)[^91] Ha a kormánytisztviselő és a közalkalmazott felmentésére alkalmatlansága miatt került sor, az (1) bekezdés f) és g) pontjaiban foglaltak akkor alkalmazhatók, ha az alkalmatlanság megállapítása egészségügyi okból történt.
 
 (3) A lakás határozatlan időtartamra szóló bérbeadására a jogviszony megszűnését – azzal összefüggő jogvita esetén a jogerős munkaügyi döntést – követően kerülhet sor.
 
 (4) A jogviszony megszűnéséről és annak módjáról, valamint időpontjáról az állományilletékes személyügyi szerv vezetője 15 napon belül írásban köteles tájékoztatni az illetékes helyi lakásgazdálkodási szervet.
 
-(5)[^71] Ha a 30. § (1) bekezdése szerinti feltétel bekövetkezéséig szóló bérleti szerződés a honvédelmi szerv állományába tartozó bérlő halálával szűnik meg, a halál bekövetkezésekor vele ténylegesen együtt élő özvegyének – kérelmére – a lakást határozatlan időtartamra, egyebekben változatlan feltételekkel bérbe kell adni. Így kell eljárni, ha a bérlő hivatásos katona volt, és az őt túlélő élettársa megfelel az 5. § (1) bekezdés c) pontjában meghatározott feltételeknek. Özvegy, illetve megfelelő feltételekkel rendelkező élettárs hiányában a lakást az elhunyt bérlő együtt élő gyermeke részére kell – kérelmére – határozatlan időtartamra bérbe adni.
+(5)[^92] Ha a 30. § (1) bekezdése szerinti feltétel bekövetkezéséig szóló bérleti szerződés a honvédelmi szervezet állományába tartozó bérlő halálával szűnik meg, a halál bekövetkezésekor vele ténylegesen együtt élő özvegyének – kérelmére – a lakást határozatlan időtartamra, egyebekben változatlan feltételekkel bérbe kell adni. Így kell eljárni, ha a bérlő hivatásos katona volt, és az őt túlélő élettársa megfelel az 5. § (1) bekezdés c) pontjában meghatározott feltételeknek. Özvegy, illetve megfelelő feltételekkel rendelkező élettárs hiányában a lakást az elhunyt bérlő együtt élő gyermeke részére kell – kérelmére – határozatlan időtartamra bérbe adni.
 
-(6)[^72] A szerződéses katona halála esetén az (5) bekezdésben foglaltakat akkor lehet alkalmazni, ha az elhunyt bérlő a szerződéses katonai szolgálatban legalább 10 évet eltöltött. A „Hősi halottá” nyilvánított szerződéses katona halála esetén az (5) bekezdésben foglaltak a szerződéses katonai szolgálatban eltöltött időtől függetlenül alkalmazhatóak. E feltételek hiányában a lakást – kérelemre – legfeljebb két év határozott időtartamra lehet bérbe adni a halál bekövetkezésekor ténylegesen együtt élő özvegy, illetve a túlélő élettárs részére.
+(6)[^93] A szerződéses katona halála esetén az (5) bekezdésben foglaltakat akkor lehet alkalmazni, ha az elhunyt bérlő a szerződéses katonai szolgálatban legalább 10 évet eltöltött. A „Hősi halottá” nyilvánított szerződéses katona halála esetén az (5) bekezdésben foglaltak a szerződéses katonai szolgálatban eltöltött időtől függetlenül alkalmazhatóak. E feltételek hiányában a lakást – kérelemre – legfeljebb két év határozott időtartamra lehet bérbe adni a halál bekövetkezésekor ténylegesen együtt élő özvegy, illetve a túlélő élettárs részére.
 
-[^67]: A 33. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^68]: A 34. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^69]: A 34. § (1a) bekezdését a 22/2013. (X. 7.) HM rendelet 7. § (2) bekezdése iktatta be.
-[^70]: A 34. § (2) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^71]: A 34. § (5) bekezdése a 25/2016. (XII. 22.) HM rendelet 6. §-ával megállapított szöveg.
-[^72]: A 34. § (6) bekezdése a 25/2016. (XII. 22.) HM rendelet 6. §-ával megállapított szöveg.
+[^88]: A 33. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^89]: A 34. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^90]: A 34. § (1a) bekezdését a 22/2013. (X. 7.) HM rendelet 7. § (2) bekezdése iktatta be.
+[^91]: A 34. § (2) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^92]: A 34. § (5) bekezdése a 25/2016. (XII. 22.) HM rendelet 6. §-ával megállapított, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^93]: A 34. § (6) bekezdése a 25/2016. (XII. 22.) HM rendelet 6. §-ával megállapított szöveg.
