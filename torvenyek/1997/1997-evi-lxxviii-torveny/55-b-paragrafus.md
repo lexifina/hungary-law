@@ -1,0 +1,1 @@
+55/B. § A jogutódlással megszűnt állami vagy tanácsi tulajdonú tervezővállalatokban létrehozott építészeti-műszaki dokumentációkhoz és az azok alapján megvalósított épületekhez fűződő szerzői jog részét képező felhasználási jog vagy vagyoni jog a nemzeti vagyon részeként az államot illeti meg, kivéve, ha egyértelműen igazolható, hogy az állam a jogutódnak azt kifejezetten átadta.

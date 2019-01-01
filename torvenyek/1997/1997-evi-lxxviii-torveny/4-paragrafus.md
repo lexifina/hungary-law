@@ -18,6 +18,8 @@ d) az országos kutatási, műszaki fejlesztési programok kialakításáról é
 
 (3b) A (3a) bekezdésben meghatározott beruházásokkal összefüggő különös hatósági eljárási szabályokat a Kormány rendeletben állapíthatja meg.
 
+(3c) A nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó, nemzeti tervvagyonnak minősülő, jogszabályban meghatározott építészeti-műszaki dokumentációk folyamatos gyűjtése, megőrzése, a nemzeti tervvagyon jogszabályban meghatározottak szerinti vagyonkezelése állami feladat.
+
 (4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is –
 
 a) a szabályozás, valamint a hatósági ügyek kapcsán az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter,

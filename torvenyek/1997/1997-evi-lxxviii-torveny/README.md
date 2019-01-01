@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2018-07-26 | 2018. évi XL. törvény | 1997-78-00-00.86 |
 | 2018-08-04 | 2018. évi XLIX. törvény | 1997-78-00-00.87 |
 | 2018-08-10 | 2018. évi XL. törvény | 1997-78-00-00.88 |
+| 2019-01-01 | 2018. évi CXXXIV. törvény | 1997-78-00-00.89 |
