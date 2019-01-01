@@ -1,8 +1,8 @@
 ## A bejelentési kérelem
 
-2. § (1) A bejelentési kérelmet egy példányban kell benyújtani, és annak tartalmaznia kell:
+2. §[^5] (1) A bejelentési kérelmet egy példányban kell benyújtani, és annak az Fmtv. 36. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
 
-a) a bejelentő nevét és címét, több bejelentő esetén az igényjogosultság arányát is, ha az nem egyenlő;
+a) több bejelentő esetén az igényjogosultság arányát, ha az nem egyenlő;
 
 b) a minta szerinti termék megnevezését;
 
@@ -10,20 +10,16 @@ c) annak megjelölését, hogy a bejelentésben hány mintára igényelnek oltal
 
 d) nyilatkozatot arról, hogy a bejelentő a minta szerzője vagy annak jogutódja;
 
-e) a szerző nevét és címét, több szerző esetén a szerzőség arányát is, ha az nem egyenlő; ha a szerző írásban kéri, hogy mellőzzék nevének a feltüntetését a nyilvánosságra kerülő mintaoltalmi iratokon, erre a bejelentési kérelemben utalni kell, és a szerző nevét külön lapon kell megadni;
+e) több szerző esetén a szerzőség arányát, ha az nem egyenlő;
 
-f) képviselet esetén a képviselő nevét és irodai címét;
+f) uniós, kiállítási vagy belső elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve uniós elsőbbségnél a külföldi bejelentés napját, országát és számát, kiállítási elsőbbségnél a kiállítás napját és megnevezését, belső elsőbbségnél pedig a folyamatban lévő bejelentés napját és ügyszámát;
 
-g) uniós, kiállítási vagy belső elsőbbség igénylése esetén az erre irányuló nyilatkozatot, feltüntetve uniós elsőbbségnél a külföldi bejelentés napját, országát és számát, kiállítási elsőbbségnél a kiállítás napját és megnevezését, belső elsőbbségnél pedig a folyamatban lévő bejelentés napját és ügyszámát;
+g) megosztás esetén az erre irányuló nyilatkozatot, megjelölve az alapul szolgáló bejelentés ügyszámát, bejelentési és elsőbbségi napját;
 
-h) megosztás esetén az erre irányuló nyilatkozatot, megjelölve az alapul szolgáló bejelentés ügyszámát, bejelentési és elsőbbségi napját;
+h) a mintaoltalom megadására irányuló kérelmet;
 
-i) a mintaoltalom megadására irányuló kérelmet;
+i) a bejelentési kérelem mellékleteinek felsorolását.
 
-j) a bejelentési kérelem mellékleteinek felsorolását;
+(2) A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány vagy a Szellemi Tulajdon Nemzeti Hivatala honlapjáról letölthető elektronikus űrlap kitöltésével is elkészíthető.
 
-k) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
-
-(2)[^5] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
-
-[^5]: A 2. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 2. § a 30/2018. (XII. 12.) IM rendelet 2. §-ával megállapított szöveg.
