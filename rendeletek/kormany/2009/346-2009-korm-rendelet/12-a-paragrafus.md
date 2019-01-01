@@ -1,3 +1,3 @@
-## A kincstári számla feletti rendelkezési jogosultság[^33]
+## A kincstári számla feletti rendelkezési jogosultság[^34]
 
-[^33]: A 12/A. §-t megelőző alcímet a 159/2011. (VIII. 11.) Korm. rendelet 3. §-a iktatta be.
+[^34]: A 12/A. §-t megelőző alcímet a 159/2011. (VIII. 11.) Korm. rendelet 3. §-a iktatta be.

@@ -18,15 +18,15 @@ d) az ingatlan-beruházás;
 
 e)[^9] a HM vagyonkezelésében lévő ingatlanok felújítása, rekonstrukciója, valamint – a KNBSZ használatában lévő ingatlanok kivételével – fenntartása és üzemeltetése;
 
-f) a központi logisztikai (köz)beszerzési, importbeszerzési, fejlesztési és beruházási feladatok ellátása;
+f)[^10] a központi logisztikai beszerzési, importbeszerzési és beruházási feladatok ellátása;
 
-g) a honvédelmi szervezet haditechnikai eszközökkel és anyagokkal, továbbá egészségügyi anyagokkal történő ellátása és a haditechnikai eszközök fejlesztése;
+g)[^11] a honvédelmi szervezet haditechnikai eszközökkel és anyagokkal, továbbá egészségügyi anyagokkal történő ellátása;
 
 h) a nemzetközi feladatok költségvetési javaslatának és éves költségvetésének összeállítása, valamint elszámolása;
 
 i) az állami vagyonnal történő gazdálkodás;
 
-j)[^10]
+j)[^12] a hadfelszerelés-fejlesztés, a haditechnikai eszközök fejlesztése és a kutatás-fejlesztés-innováció.
 
 [^4]: A 2. § (2) bekezdése a 26/2015. (II. 25.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (3) bekezdését a 196/2017. (VII. 10.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
@@ -34,4 +34,6 @@ j)[^10]
 [^7]: A 2. § (4) bekezdés a) pontja a 225/2016. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 10. §-át.
 [^8]: A 2. § (4) bekezdés c) pontja a 26/2015. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^9]: A 2. § (4) bekezdés e) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^10]: A 2. § (4) bekezdés j) pontját a 159/2011. (VIII. 11.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 89/2012. (IV. 26.) Korm. rendelet 10. § a) pontja.
+[^10]: A 2. § (4) bekezdés f) pontja a 247/2018. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § (4) bekezdés g) pontja a 247/2018. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § (4) bekezdés j) pontját újonnan a 247/2018. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
