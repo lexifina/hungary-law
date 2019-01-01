@@ -2,7 +2,9 @@
 
 a) kettős rendfokozattal rendszeresített beosztásba, ha a viselt rendfokozata – a kinevezést megelőzően – a tervezett kettős rendfokozattal rendszeresített beosztás alacsonyabb rendfokozatával azonos, vagy
 
-b) speciális előmeneteli rendbe tartozó beosztásba, ha a viselt rendfokozata – a kinevezést megelőzően – legfeljebb kettővel alacsonyabb, mint a tervezett speciális előmeneteli rendbe tartozó beosztás rendszeresített rendfokozata. Ettől szolgálati érdekből a HVKF engedélyével el lehet térni.
+b)[^207] speciális előmeneteli rendbe tartozó beosztásba, ha a viselt rendfokozata – a kinevezést megelőzően – legfeljebb kettővel alacsonyabb, mint a tervezett speciális előmeneteli rendbe tartozó beosztás rendszeresített rendfokozata. Ettől szolgálati érdekből az MH PK engedélyével el lehet térni,
+
+c)[^208] általános előmeneteli rendbe tartozó beosztásba kizárólag általános előmeneteli rendbe tartozó beosztásból, ha az állomány tagjának a viselt rendfokozata – a kinevezést megelőzően – legfeljebb eggyel alacsonyabb, mint a tervezett általános előmeneteli rendbe tartozó beosztás rendszeresített rendfokozata.
 
 (2) A Hjt. 83. § (5) bekezdésében foglaltak alkalmazására kizárólag abban az esetben kerülhet sor, ha az állomány tagja a viselt rendfokozatában a kinevezést megelőzően legalább 1 évet eltöltött.
 
@@ -13,3 +15,6 @@ a) a központi előmenetel-tervezés során feltölthető beosztásként volt me
 b) az adott beosztásra nem volt megfelelő jelölt.
 
 (4) A (3) bekezdésben foglaltakat a helyi előmenetel-tervezés során megfelelően alkalmazni kell.
+
+[^207]: A 103. § (1) bekezdés b) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^208]: A 103. § (1) bekezdés c) pontját a 20/2018. (XII. 28.) HM rendelet 31. §-a iktatta be.

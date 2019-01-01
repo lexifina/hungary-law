@@ -1,0 +1,3 @@
+117/F. § (1) Az a teljes szolgálati időszak, amelyre a személyzet tagját kijelölik, nem haladhatja meg a hatvan szolgálati órát bármely hét egymást követő napon belül, a száztíz szolgálati órát bármely tizennégy egymást követő napon belül és a százkilencven órát bármely huszonnyolc egymást követő napon belül, a lehető legegyenletesebben elosztva ezen időszakban.
+
+(2) Azon szektorok teljes repülési ideje, amelyekre a személyzet tagja üzemeltetést végző személyzeti tagként ki van rendelve, nem haladhatja meg a száz repülési órát bármely huszonnyolc egymást követő napon belül, a kilencszáz repülési órát egy naptári éven belül és az ezer repülési órát bármely tizenkét egymást követő naptári hónapon belül.

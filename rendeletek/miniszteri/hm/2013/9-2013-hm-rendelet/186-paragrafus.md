@@ -1,25 +1,30 @@
-186. § (1) Az 1. § 10. pont i) alpontja kivételével az ideiglenes külföldi szolgálatra az állomány szolgálati alárendeltségébe tartozó tagját
+186. § (1)[^318] Az 1. § 10. pont i) alpontja kivételével az ideiglenes külföldi szolgálatra az állomány szolgálati alárendeltségébe tartozó tagját
 
 a) a miniszter,
 
 b) a HM parlamenti államtitkára,
 
-c) a HM KÁT,
+c) a HM honvédelmi államtitkára,
 
-d) a HM helyettes államtitkárai,
+d) a HM KÁT,
 
-e) a HVKF,
+e) a HM védelempolitikáért felelős helyettes államtitkára,
 
-f) a KNBSZ főigazgatója, és
+f) az MH PK,
 
-g) a külföldi utazási kerettel rendelkező állományilletékes parancsnok
+g) a KNBSZ főigazgatója és
+
+h) a külföldi utazási kerettel rendelkező állományilletékes parancsnok
 
 vezényelheti.
 
-(2) Az (1) bekezdés b)–f) pontja szerinti vezetők ideiglenes külföldi szolgálatának elrendelésére a miniszter, a g) pont szerinti vezető esetében a szakmai elöljáró jogosult.
+(2)[^319] Az (1) bekezdés b)–g) pontja szerinti vezetők ideiglenes külföldi szolgálatának elrendelésére a miniszter, a h) pont szerinti vezető esetében a szakmai elöljáró jogosult.
 
 (3) Az (1) bekezdés szerinti vezetők
 
 a) a hatáskörükbe tartozó utazási keret terhére az állomány szolgálati alárendeltségükbe nem tartozó tagjait is vezényelhetik ideiglenes külföldi szolgálatra, ha ahhoz az állomány tagjának állományilletékes parancsnoka előzetesen írásban hozzájárult, és
 
 b) különösen indokolt esetben – a saját szervezetük költségvetése terhére – az alaprendeltetés szerinti feladataik teljesítése érdekében a Honvédséggel foglalkoztatási jogviszonyban nem álló személyeket is felkérhetnek kiutazó delegáció hivatalos tagjának.
+
+[^318]: A 186. § (1) bekezdése a 20/2018. (XII. 28) HM rendelet 53. §-ával megállapított szöveg.
+[^319]: A 186. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 18. és 19. pontja szerint módosított szöveg.

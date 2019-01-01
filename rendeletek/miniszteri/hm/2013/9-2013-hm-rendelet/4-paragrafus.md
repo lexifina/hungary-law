@@ -1,10 +1,10 @@
-4. §[^28] (1) Az illetmény megállapítására vonatkozó munkáltatói jogkört az állományilletékes parancsnok gyakorolja.
+4. §[^31] (1) Az illetmény megállapítására vonatkozó munkáltatói jogkört az állományilletékes parancsnok gyakorolja.
 
-(2) Az illetmény-megállapítás munkáltatói jogkörét az állományilletékes honvédelmi szervezet személyügyi szervének vezetője gyakorolja, ha a megállapításra kerülő illetményelemre való jogosultság, illetve annak mértéke, összege törvényben, illetve rendeletben – az állományilletékes parancsnok mérlegelési jogkörétől független módon – meghatározott. E rendelkezés nem alkalmazható a személyügyi szerv vezetője illetményének megállapítására.
+(2)[^32] Az illetmény-megállapítás munkáltatói jogkörét az állományilletékes honvédelmi szervezet személyügyi szervének vezetője gyakorolja, ha a megállapításra kerülő illetményelemre való jogosultság, illetve annak mértéke, összege törvényben, rendeletben, miniszteri utasításban, illetve a miniszter által írásban előzetesen hozott döntésben – az állományilletékes parancsnok mérlegelési jogkörétől független módon – meghatározott. E rendelkezés nem alkalmazható a személyügyi szerv vezetője illetményének megállapítására.
 
 (3) Az (1) és a (2) bekezdéstől eltérően a miniszter állapítja meg az illetményét
 
-a) a HVKF-nek és helyettesének,
+a)[^33] az MH PK-nak és helyettesének,
 
 b) a KNBSZ főigazgatójának és helyettesének,
 
@@ -18,19 +18,24 @@ e) a Tábori Lelkészi Szolgálat vezetőinek.
 
 (5) A szolgálati viszony megszűnésével, megszüntetésével összefüggő járandóságok megállapításakor az (1)–(3) bekezdésben meghatározottak szerint kell eljárni.
 
-(6)[^29] Az illetmény-megállapításnak nem minősülő illetményváltozásról szóló értesítés kiadására vonatkozó munkáltatói jogkört
+(6)[^34] Az illetmény-megállapításnak nem minősülő illetményváltozásról szóló értesítés kiadására vonatkozó munkáltatói jogkört
 
-a) a miniszter gyakorolja a HVKF és a KNBSZ főigazgatója tekintetében,
+a)[^35] a miniszter gyakorolja az MH PK és a KNBSZ főigazgatója tekintetében,
 
-b) a HVKF gyakorolja a központi személyügyi szerv vezetője tekintetében,
+b)[^36] az MH PK gyakorolja a központi személyügyi szerv vezetője tekintetében,
 
 c) a KNBSZ főigazgatója gyakorolja a KNBSZ személyügyi szervének vezetője tekintetében,
 
-d) a központi személyügyi szerv vezetője gyakorolja a (3) bekezdés c)–e) pontja szerinti vezetők tekintetében,
+d)[^37] a központi személyügyi szerv vezetője gyakorolja a (3) bekezdés c)–e) pontja szerinti vezetők, valamint a HM személyügyi szervének vezetője tekintetében,
 
 e) az elöljáró parancsnok személyügyi szervének vezetője gyakorolja az állományilletékes parancsnok és az állományilletékes honvédelmi szervezet személyügyi szervének vezetője tekintetében,
 
 f) az állományilletékes honvédelmi szervezet személyügyi szervének vezetője gyakorolja az állomány a)–e) pontja alá nem tartozó tagja tekintetében.
 
-[^28]: A 4. § a 4/2015. (VI. 22.) HM rendelet 2. §-ával megállapított szöveg.
-[^29]: A 4. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 4. §-ával megállapított szöveg.
+[^31]: A 4. § a 4/2015. (VI. 22.) HM rendelet 2. §-ával megállapított szöveg.
+[^32]: A 4. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^33]: A 4. § (3) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 3. pontja szerint módosított szöveg.
+[^34]: A 4. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 4. §-ával megállapított szöveg.
+[^35]: A 4. § (6) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^36]: A 4. § (6) bekezdés b) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^37]: A 4. § (6) bekezdés d) pontja a 20/2018. (XII. 28.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.

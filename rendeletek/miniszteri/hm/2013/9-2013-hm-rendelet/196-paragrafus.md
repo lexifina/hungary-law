@@ -1,7 +1,8 @@
-## 195. §[^246] A HVKF a külföldi fegyveres, béketámogató művelet keretében történő szolgálatteljesítést különleges megterheléssel járó külföldi szolgálatteljesítéssé minősítheti.
+## 195. §[^326] Az MH PK a külföldi fegyveres, béketámogató művelet keretében történő szolgálatteljesítést különleges megterheléssel járó külföldi szolgálatteljesítéssé minősítheti.
 
 196. § (1) A Honvédség az állomány tagjának külföldi képzésen történő részvételét tanulmányi szerződés megkötésével támogathatja.
 
-(2) Tanulmányi támogatásként a külföldi tanulmányok időtartamától függően külföldi napidíj vagy külszolgálati ellátmány, illetmény- és ellátmány-előleg, családi ellátmánypótlék, utazási és szállítási költségtérítés, utazási előleg, szállás vagy lakhatási költségtérítés, egészségügyi ellátás költségeinek megtérítése, iskoláztatási költségtérítés, kötelezően előírt és leigazolt tankönyvek, tansegédletek beszerzési költségének megtérítése, kötelezően előírt katonai ruházat és felszerelési tárgyak beszerzési költségének megtérítése, szabadságra történő haza- és visszautazás költségének megtérítése, tanulmányi utakkal kapcsolatos költségtérítés, vízumköltség megtérítése, illetve előzetesen nem meghatározható, utólagos elszámolású, egyéb költségtérítés nyújtható.
+(2)[^327] Tanulmányi támogatásként a képzés díja, a külföldi képzés idejére a külföldi szolgálatot teljesítők egyes járandóságairól szóló miniszteri rendelet szerint, a külföldi képzés időtartamától függő típusú és mértékű juttatások és költségtérítések nyújthatók.
 
-[^246]: A 195. § a 10/2015. (VII. 30.) HM rendelet 82. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 80. §-át.
+[^326]: A 195. § a 10/2015. (VII. 30.) HM rendelet 82. § (2) bekezdésével megállapított, a 20/2018. (XII. 28.) HM rendelet 71. § 8. pontja szerint módosított szöveg.
+[^327]: A 196. § (2) bekezdése a 20/2018. (XII. 28) HM rendelet 56. §-ával megállapított szöveg.

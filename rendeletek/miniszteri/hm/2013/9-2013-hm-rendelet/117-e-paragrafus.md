@@ -1,0 +1,5 @@
+## 117/D. § Ha az osztott napi szolgálatteljesítés alkalmazása esetén a merevszárnyú szállító légijármű szakszemélyzetre irányadó pihenőidő a két órát eléri, de a hét órát nem haladja meg, akkor a repülési szolgálati időt meg kell hosszabbítani a szállodai tartózkodás időtartamának ötven százalékával. Ha a pihenőidő a hét órát meghaladja, a repülési szolgálati időt meg kell hosszabbítani a szállodai tartózkodás időtartamának hetvenöt százalékával. Ha a pihenőidő a hét órát meghaladja, és ezen időtartama az indulási hely helyi ideje szerinti este húsz óra és reggel nyolc óra közé esik, a repülési szolgálati időt meg kell hosszabbítani a szállodai tartózkodás időtartamának száz százalékával.
+
+117/E. § (1) A maximum napi repülési szolgálati időnek a kezdete és a szektorok száma szerinti tagolását a 16. melléklet határozza meg.
+
+(2) A maximum napi repülési szolgálati idő legfeljebb egy órával, hét egymást követő napon belül legfeljebb kétszer hosszabbítható meg. Ebben az esetben a repülés előtti és repülés utáni pihenőidő két órával meghosszabbodik; vagy a repülés utáni pihenőidő négy órával meghosszabbodik.

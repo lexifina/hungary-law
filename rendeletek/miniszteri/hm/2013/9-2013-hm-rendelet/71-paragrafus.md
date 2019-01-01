@@ -1,3 +1,3 @@
-71. §[^141]
+71. §[^176]
 
-[^141]: A 71. §-t a 24/2013. (XII. 20.) HM rendelet 18. § a) pontja hatályon kívül helyezte.
+[^176]: A 71. §-t a 24/2013. (XII. 20.) HM rendelet 18. § a) pontja hatályon kívül helyezte.

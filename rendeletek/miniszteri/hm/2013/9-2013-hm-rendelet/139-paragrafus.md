@@ -1,5 +1,5 @@
-139. §[^206] (1) Az állomány eljárás alá vont tagja a fegyelmi eljárás elrendelésétől kezdve ügyvédet vehet igénybe. Az eljárás során az ügyvédet ügyvédjelölt a törvénynek megfelelően helyettesítheti.
+139. §[^274] (1) Az állomány eljárás alá vont tagja a fegyelmi eljárás elrendelésétől kezdve ügyvédet vehet igénybe. Az eljárás során az ügyvédet ügyvédjelölt a törvénynek megfelelően helyettesítheti.
 
 (2) Az állomány eljárás alá vont tagja részére a képviselettel kapcsolatosan indokoltan felmerült és számlával igazolt költségeit meg kell téríteni, ha a fegyelemsértés megállapítására nem kerül sor. A számlával igazolt ügyvédi munkadíjból és költségekből a kirendelt védő óradíjának és költségtérítésének megfelelő, az igazságügyért felelős miniszter által rendeletben meghatározott módon számított összeget kell megtéríteni. Egyebekben az ügyvéd munkadíját és költségeit az állomány eljárás alá vont tagja viseli.
 
-[^206]: A 139. § az 1/2018. (I. 26.) HM rendelet 20. §-ával megállapított szöveg.
+[^274]: A 139. § az 1/2018. (I. 26.) HM rendelet 20. §-ával megállapított szöveg.

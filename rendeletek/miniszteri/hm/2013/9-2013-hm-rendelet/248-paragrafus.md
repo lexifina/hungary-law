@@ -1,8 +1,8 @@
-248. § (1)[^269] A központi katonai igazgatási szerv az önkéntes tartalékos katonát a kiképzésre, felkészítésre történő behívás időpontjáról, helyszínéről és várható időtartamáról a behívás előtt 60 nappal értesíti. Az értesítés kézbesítése sikertelenségének a tényleges szolgálatteljesítés megkezdésére nincs halasztó hatálya.
+248. § (1)[^356] A központi katonai igazgatási szerv az önkéntes tartalékos katonát a kiképzésre, felkészítésre történő behívás időpontjáról, helyszínéről és a tényleges szolgálat várható időtartamáról a behívás előtt 60 nappal elsődlegesen elektronikus úton vagy – ha ez nem lehetséges – postai úton értesíti. Az értesítés kézbesítése sikertelenségének a tényleges szolgálatteljesítés megkezdésére nincs halasztó hatálya.
 
-(2) A központi katonai igazgatási szerv a behívóparancsot a kiképzésre, felkészítésre, valamint az előre megtervezett tényleges szolgálatteljesítésre történő bevonulás időpontja előtt legalább 30 nappal az önkéntes tartalékos katona részére postai úton kézbesíti.
+(2)[^357] A központi katonai igazgatási szerv a behívóparancsot a kiképzésre, felkészítésre, valamint az előre megtervezett tényleges szolgálatteljesítésre történő bevonulás időpontja előtt legalább 30 nappal az önkéntes tartalékos katona részére elektronikus vagy postai úton kézbesíti.
 
-(3)[^270] A (2) bekezdéstől eltérően a központi katonai igazgatási szerv
+(3)[^358] A (2) bekezdéstől eltérően a központi katonai igazgatási szerv
 
 a) a bevonulási parancsot – ha azt a feladat végrehajtása megköveteli – telefonon vagy elektronikus úton a megyei, fővárosi, illetve járási, fővárosi kerületi katonai igazgatási összekötő beosztásra szerződést kötött, illetve a megyei, fővárosi védelmi bizottság munkáját támogató önkéntes műveleti tartalékos katonák, a területvédelmi feladatok ellátása érdekében a megyei, járási szervezeti elemeknél beosztásra szerződést kötött önkéntes műveleti tartalékos katonák és az önkéntes területvédelmi tartalékos katonák részére a bevonulás időpontja előtt legalább 3 nappal, vagy
 
@@ -16,10 +16,12 @@ c) a bevonulási parancsot a KNBSZ állományába tartozó önkéntes műveleti 
 
 is közölheti.
 
-(4) A (3) bekezdés szerint közölt bevonulási parancs esetében a központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját a közlést követő napon telefonon vagy elektronikus levélben értesíti a tervezett bevonulási időpontról.
+(4)[^359] A (3) bekezdés szerint közölt bevonulási parancs esetében a központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját a közlést követő napon elektronikus úton értesíti a tervezett bevonulási időpontról.
 
-(5)[^271] A központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját tájékoztatja a behívás időpontjáról, helyszínéről és a tényleges szolgálat várható időtartamáról.
+(5)[^360] A központi katonai igazgatási szerv az önkéntes tartalékos katona munkáltatóját a behívás céljától függetlenül tájékoztatja a behívás időpontjáról, helyszínéről és a tényleges szolgálat várható időtartamáról.
 
-[^269]: A 248. § (1) bekezdése a 12/2018. (VII. 27.) HM rendelet 23. § d) pontja szerint módosított szöveg.
-[^270]: A 248. § (3) bekezdése a 12/2018. (VII. 27.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^271]: A 248. § (5) bekezdését a 12/2018. (VII. 27.) HM rendelet 17. § (2) bekezdése iktatta be.
+[^356]: A 248. § (1) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (1) bekezdésével megállapított szöveg.
+[^357]: A 248. § (2) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (1) bekezdésével megállapított szöveg.
+[^358]: A 248. § (3) bekezdése a 12/2018. (VII. 27.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^359]: A 248. § (4) bekezdése a 20/2018. (XII. 28) HM rendelet 62. § (2) bekezdésével megállapított szöveg.
+[^360]: A 248. § (5) bekezdését a 12/2018. (VII. 27.) HM rendelet 17. § (2) bekezdése iktatta be, szövege a 20/2018. (XII. 28) HM rendelet 62. § (2) bekezdésével megállapított szöveg.
