@@ -1,4 +1,4 @@
-9. § (1)[^3] A vizsgaszervező a vizsgabizottság kijelölése és a központi kiadású feladatlapok biztosítása érdekében
+9. § (1)[^4] A vizsgaszervező a vizsgabizottság kijelölése és a központi kiadású feladatlapok biztosítása érdekében
 
 a) az iskolai rendszerű szakképzést követő vizsgára történő jelentkezések határidejét követő tizenöt napon belül, az október–novemberi vizsgaidőszak esetén öt napon belül,
 
@@ -6,7 +6,7 @@ b) az iskolarendszeren kívüli szakképzést követő vizsga esetén a vizsga e
 
 ## a vizsgát vizsgacsoportonként a szakképzési feladatot ellátó hatóságnak az erre a célra kialakított elektronikus felületén (a továbbiakban: elektronikus felület) jelenti be.
 
-(2)[^4] A szakképzési feladatot ellátó hatóság a vizsgaszervezési jogosultsággal vagy engedéllyel rendelkező vizsgaszervezők számára e rendelet hatálybalépését követő harminc napon belül biztosítja a vizsgabejelentéshez és az elektronikus adatközléshez szükséges jogosultságokat.
+(2)[^5] A szakképzési feladatot ellátó hatóság a vizsgaszervezési jogosultsággal vagy engedéllyel rendelkező vizsgaszervezők számára e rendelet hatálybalépését követő harminc napon belül biztosítja a vizsgabejelentéshez és az elektronikus adatközléshez szükséges jogosultságokat.
 
 (3) A vizsgabejelentésnek tartalmaznia kell:
 
@@ -20,7 +20,9 @@ d) az iskolarendszeren kívüli szakképzést követő vizsga esetén
 
 da) a vizsgáztatásra jogosító jogszabály megnevezését vagy a vizsgaszervezési engedély megadásáról szóló határozat számát, a kiadmányozó hatóság megjelölését,
 
-db) a képző (a modulzáró vizsgát szervező) intézménynek a (4) bekezdés a) pontja szerinti szakképesítés képzésének engedélyére szóló, az Fktv. 5. § (1) bekezdésében meghatározott nyilvántartásba vételi számát és a nyilvántartásba vétel időpontját vagy az engedély megszerzése alóli mentesség jogszabályi hivatkozását.
+db) a képző (a modulzáró vizsgát szervező) intézménynek a (4) bekezdés a) pontja szerinti szakképesítés képzésének engedélyére szóló, az Fktv. 5. § (1) bekezdésében meghatározott nyilvántartásba vételi számát és a nyilvántartásba vétel időpontját vagy az engedély megszerzése alóli mentesség jogszabályi hivatkozását,
+
+e)[^6] mellék-szakképesítés megszerzésére irányuló vizsga esetén e ténynek a rögzítését.
 
 (4) A vizsgabejelentésnek vizsgacsoportonként tartalmaznia kell:
 
@@ -42,5 +44,6 @@ f) a képzés megkezdésének időpontját és a képzés alapjául szolgáló s
 
 (7) A (4) bekezdés b) pontja szerinti létszámadatok a vizsga első vizsgatevékenységének időpontját megelőző tizenötödik napig egy alkalommal módosíthatók.
 
-[^3]: A 9. § (1) bekezdés záró szövegrésze a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^4]: A 9. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^4]: A 9. § (1) bekezdés záró szövegrésze a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 9. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 9. § (3) bekezdés e) pontját a 307/2018. (XII. 27.) Korm. rendelet 5. §-a iktatta be.

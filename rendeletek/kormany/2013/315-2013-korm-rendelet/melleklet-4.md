@@ -22,7 +22,35 @@
 
 ## 8. „A javítóvizsgán teljesített vizsgafeladatok, vizsgafeladatrészek alapján ....................................................... részszakképesítést igazoló bizonyítványt kapott.”
 
-4. melléklet a 315/2013. (VIII. 28.) Korm. rendelethez[^41]
+## 9. a) „A vizsgán a vizsgakövetelményeknek megfelelt, .................................................... részszakképesítés megszerzését igazoló bizonyítványa az érettségi végzettség megszerzését követően adható ki.”
+
+## 9. b) „A vizsgán a vizsgakövetelményeknek megfelelt, .................................................... szakképesítés megszerzését igazoló bizonyítványa az érettségi végzettség megszerzését követően adható ki.”
+
+## 10. a) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa alapján a részszakképesítés megszerzését igazoló bizonyítványa .................................................... dátummal kiadásra került.”
+
+## 10. b) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa alapján a szakképesítés megszerzését igazoló bizonyítványa .................................................... dátummal kiadásra került.”
+
+## 11. „A vizsgán a(z) .................................................... vizsgafeladato(ka)t eredményesen teljesítette, vizsgaeredménye a szakmai érettségi vizsgatárgy eredményes teljesítését követően kerül megállapításra.”
+
+## 12. a) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa vagy a(z) .................................................... számú érettségi törzslapkivonata alapján a vizsgakövetelményeknek megfelelt, .................................................... dátummal .................................................... részszakképesítés megszerzését igazoló bizonyítványt kapott.”
+
+## 12. b) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa vagy a(z)…….. számú érettségi törzslapkivonata alapján a vizsgakövetelményeknek megfelelt, .................................................. dátummal .................................................... szakképesítés megszerzését igazoló bizonyítványt kapott.”
+
+## 13. a) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa alapján a vizsgakövetelményeknek megfelelt, .................................................... dátummal .................................................... részszakképesítés megszerzését igazoló bizonyítványt kapott.”
+
+## 13. b) „A .................................................... dátummal kiállított, .................................................... számú érettségi bizonyítványa alapján a vizsgakövetelményeknek megfelelt, .................................................... dátummal .................................................... szakképesítés megszerzését igazoló bizonyítványt kapott.”
+
+## 14. „A .................................................... megnevezésű vizsgafeladat(ok) esetében a felmentés alapjául szolgáló dokumentumokat határidőig nem mutatta be, a vizsga eredménytelen.”
+
+## 15. „A mellék-szakképesítés megszerzésére irányuló vizsga vizsgaszervezője a bizonyítvány kiállítása és kiadása előtt jogutód nélkül megszűnt, ezért a bizonyítványt az állami szakképzési és felnőttképzési szerv állította ki.”
+
+## 16. „A fenti képesítés
+
+## Magyar Képesítési Keretrendszer szerinti szintje:
+
+## Európai Képesítési Keretrendszer szerinti szintje:”
+
+4. melléklet a 315/2013. (VIII. 28.) Korm. rendelethez[^57]
 
 EUROPASS BIZONYÍTVÁNY-KIEGÉSZÍTŐ (*)-
 
@@ -80,4 +108,4 @@ A szakember képes:
 
 | A vizsgaszervező vezetője: Kiállítás dátuma: | P. H. |
 
-[^41]: A 4. melléklet a 318/2014. (XII. 13.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^57]: A 4. melléklet a 318/2014. (XII. 13.) Korm. rendelet 23. §-a szerint módosított szöveg.

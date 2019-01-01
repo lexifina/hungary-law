@@ -16,6 +16,6 @@ d) ha azt egyéb ok szükségessé teszi.
 
 (4) A vizsgabizottság a határozatait a vizsgaelnök és a tagok nyílt szavazásával, egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén a vizsgaelnök szavazata dönt. A vizsgaelnöknek, a vizsgabizottság tagjának vagy a vizsgaszervező képviselőjének a vizsgabizottság döntésével, intézkedésével vagy intézkedésének elmulasztásával kapcsolatos különvéleményét – kérelmére – a vizsgabizottsági jegyzőkönyvben fel kell tüntetni.
 
-(5)[^15] Ha a vizsgaelnök a vizsgabizottság eljárásával vagy határozatával nem ért egyet, óvást nyújthat be, és a határozat végrehajtását felfüggesztheti. Az óvást haladéktalanul meg kell küldeni a szakképzési feladatot ellátó hatóságnak, amely azt három munkanapon belül köteles elbírálni. Az óvás elbírálásáig a vizsgázó bizonyítványát nem lehet kiállítani.
+(5)[^17] Ha a vizsgaelnök a vizsgabizottság eljárásával vagy határozatával nem ért egyet, óvást nyújthat be, és a határozat végrehajtását felfüggesztheti. Az óvást haladéktalanul meg kell küldeni a szakképzési feladatot ellátó hatóságnak, amely azt három munkanapon belül köteles elbírálni. Az óvás elbírálásáig a vizsgázó bizonyítványát nem lehet kiállítani.
 
-[^15]: A 19. § (5) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 19. § (5) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.

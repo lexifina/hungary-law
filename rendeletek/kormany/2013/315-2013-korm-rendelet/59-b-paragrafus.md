@@ -1,0 +1,9 @@
+## 59/B. §[^44] Ha a mellék-szakképesítés megszerzésére irányuló vizsgán megszerezhető szakképesítés vagy részszakképesítés érettségi végzettséghez kötött és a mellék-szakképesítés megszerzésére irányuló vizsga eredményesen zárult, akkor a törzslapot a 3. melléklet 9. pontja szerinti záradékkal kell ellátni és a vizsgaszervezőnek a vizsgázó részére az 59/D. § (1) bekezdése szerinti adattartalmú, az elektronikus rendszerből kinyomtatott, a vizsgabizottság körbélyegzőjével hitelesített igazolást kell kiadnia. A 43. § (1) bekezdése szerint kiállított törzslapot a 48. § (1) bekezdése szerint meg kell küldeni a szakképzési feladatot ellátó hatóságnak.
+
+(2) Az (1) bekezdés szerinti vizsgához kapcsolódóan a bizonyítvány a vizsgát követő három éven belül, az érettségi bizonyítvány megszerzését követően, a törzslapnak az elektronikus rendszerben a 3. melléklet 10. pontja szerinti záradékkal történő ellátása és a bizonyítvány sorozatjelének és sorszámának a törzslapon történő feltüntetése mellett, a kiállítás dátumának feltüntetésével állítható ki. A bizonyítványon a vizsgaelnök nevét jól olvashatóan, nyomtatott betűvel, nem fakuló tintával kell az aláírás helyén feltüntetni és a bizonyítványt a vizsgabizottság körbélyegzőjének lenyomatával hitelesíteni.
+
+(3) A bizonyítvány kiállítását követően a törzslapot kettő példányban ki kell nyomtatni és a kinyomtatott törzslap egy példányát a vizsgaszervező vezetője által hitelesítetten a 48. § (1) bekezdése szerinti határidővel meg kell küldeni a szakképzési feladatot ellátó hatóságnak.
+
+(4) Ha a mellék-szakképesítés megszerzésére irányuló vizsgán megszerezhető szakképesítés vagy részszakképesítés érettségi végzettséghez kötött és a vizsga eredménytelen volt, akkor a törzslapot a 3. melléklet 4. pontja szerinti záradékkal kell ellátni.
+
+[^44]: Az 59/B. §-t a 307/2018. (XII. 27.) Korm. rendelet 9. §-a iktatta be.
