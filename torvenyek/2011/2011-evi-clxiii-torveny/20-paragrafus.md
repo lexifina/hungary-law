@@ -1,3 +1,1 @@
-20. § (1) A büntetőeljárásról szóló törvény eltérő rendelkezése hiányában az ügyész a határozatot vagy intézkedést a bűncselekményre a Büntető Törvénykönyvben meghatározott elévülési időn belül hivatalból is felülvizsgálhatja.
-
-(2) A hivatalból történő felülvizsgálat különösen akkor indokolt, ha a felülvizsgálandó határozat vagy intézkedés megalapozatlan vagy törvénysértő, illetve a felmerült új tény vagy körülmény vádemelést eredményezhet.
+20. § Az ügyészség a büntetőeljárás során hozott határozatot a büntetőeljárásról szóló törvény alapján a bűncselekményre a Büntető Törvénykönyvről szóló törvényben meghatározott elévülési időn belül vizsgálhatja felül.

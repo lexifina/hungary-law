@@ -4,11 +4,11 @@
 
 a) tanácskozási joggal részt vehet az Országgyűlés ülésein, valamint a Kúria teljes ülésein;
 
-b) bűncselekmény nyomozását bármely nyomozó hatóságtól az ügyészség hatáskörébe vonhatja, az ügyek ügyészségi nyomozása során más nyomozó hatóságok tagjai közreműködését – szolgálati, közszolgálati jogviszonyukat nem érintve – az országos vezető egyetértésével igénybe veheti;
+b) bűncselekmény nyomozását bármely nyomozó hatóságtól az ügyészség hatáskörébe vonhatja, az ügyek ügyészségi nyomozása, illetve előkészítő eljárás folytatása során más nyomozó hatóságok tagjai közreműködését – szolgálati, közszolgálati jogviszonyukat nem érintve – az országos vezető egyetértésével igénybe veheti;
 
-c) a büntetőeljárási törvényben meghatározottak szerint a büntetőügyekben hozott jogerős határozatok ellen felülvizsgálati indítványt vagy a törvényesség érdekében jogorvoslatot nyújthat be a Kúriához;
+c) a büntetőeljárásról szóló törvényben meghatározottak szerint a büntetőügyekben hozott jogerős határozatok ellen felülvizsgálati indítványt vagy a törvényesség érdekében jogorvoslatot nyújthat be a Kúriához;
 
-d) jogegységi eljárást kezdeményezhet a Kúria előtt, illetve a Kúria előtti jogegységi eljárásban gyakorolja törvényben meghatározott jogkörét;
+d) jogegységi eljárást indítványozhat a Kúria előtt, illetve a Kúria előtti jogegységi eljárásban gyakorolja törvényben meghatározott jogkörét;
 
 e) indítványozza közvádas bűncselekmény vagy szabálysértés miatt a mentelmi jog felfüggesztését, illetve ha törvény az eljárás megindítását valamely szerv, személy hozzájárulásához köti, kezdeményezi a hozzájárulás megadását;
 

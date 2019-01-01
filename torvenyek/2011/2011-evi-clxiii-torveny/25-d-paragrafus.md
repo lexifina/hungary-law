@@ -4,7 +4,7 @@
 
 a) információk megszerzése érdekében az ügyészséggel titkosan együttműködő személyt vehet igénybe;
 
-b) az ügyész az eljárás valódi céljának titokban tartásával, kilétét leplezve információt gyűjthet, ellenőrizhet;
+b) az eljárás valódi céljának titokban tartásával, az ügyész kilétét leplezve információt gyűjthet, ellenőrizhet;
 
 c) személyt, lakást, egyéb helyiséget, bekerített helyet, nyilvános vagy a közönség részére nyitva álló helyet, illetve járművet titokban megfigyelhet, a történtekről információt gyűjthet, valamint az észlelteket technikai eszközzel rögzítheti;
 

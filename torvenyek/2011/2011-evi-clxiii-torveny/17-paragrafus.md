@@ -1,21 +1,21 @@
-## 1. Az ügyész feladatai a nyomozással és a vádemeléssel kapcsolatban
+## 1. Az ügyészség feladatai az előkészítő eljárás és a nyomozás során
 
-17. § (1) Az ügyész a vádemelés feltételeinek megállapítása végett
+17. § (1) Az ügyészség a bűncselekmény gyanújának megállapítása érdekében a büntetőeljárásról szóló törvényben meghatározott esetekben előkészítő eljárást folytat, illetve felügyeli más szerv előkészítő eljárásának törvényességét.
 
-a) nyomozást végeztet;
+(2) Az ügyészség a vádemelés feltételeinek megállapítása érdekében a büntetőeljárásról szóló törvényben meghatározott
 
-b) felügyeli a nyomozó hatóság önálló nyomozását; illetve
+a) módon felügyeli a felderítés törvényességét,
 
-c) a büntetőeljárási törvényben meghatározott esetekben a nyomozást maga végzi.
+b) módon irányítja a vizsgálatot,
 
-(2) A nyomozás során az ügyész a büntetőeljárás hatékony és a lehető leggyorsabb lefolytatása érdekében rendelkezik az ügyről, a nyomozás elvégzendő feladatairól. A nyomozásra vonatkozó intézkedéseiért, az általa elvégzett eljárási cselekmények, az általa tett intézkedések és meghozott határozatok megalapozottságáért, jogszerűségéért felelős.
+c) esetekben ügyészségi nyomozást végez.
 
-(3) A nyomozás feletti felügyelet keretében az ügyész a törvényben meghatározott jogkörei felhasználásával minden szükséges intézkedést megtesz annak érdekében, hogy a nyomozó hatóság az önálló nyomozását törvényesen, az emberi jogok tiszteletben tartásával, a vádemelés kérdésében történő döntésre alkalmas módon teljesítse. Így különösen
+(3) A vizsgálat során az ügyészség a büntetőeljárás hatékony és a lehető leggyorsabb lefolytatása érdekében rendelkezik az ügyről, a nyomozás során elvégzendő feladatokról.
 
-a) megvizsgálhatja és megváltoztathatja a nyomozó hatóság határozatait és a nyomozás során tett intézkedéseit, az esetleges jogsértés kiküszöbölése iránt haladéktalanul intézkedik;
+(4) Az előkészítő eljárás és a nyomozás során az ügyészség a jogszabályban meghatározott jogai gyakorlásával minden szükséges intézkedést megtesz annak érdekében, hogy az előkészítő eljárást folytató szerv, illetve a nyomozó hatóság tevékenységét törvényesen, az emberi jogok tiszteletben tartásával, a bűncselekmény gyanújának megállapítása, illetve a vádemelés kérdésében történő döntésre alkalmas módon teljesítse.
 
-b) a nyomozó hatóságot a nyomozással kapcsolatban utasíthatja, az utasításának végrehajtását ellenőrzi;
+(5) Az előkészítő eljárásra és a nyomozásra vonatkozó intézkedéseiért, az általa elvégzett eljárási cselekmények, az általa tett intézkedések és meghozott határozatok megalapozottságáért, jogszerűségéért az ügyészség felelős.
 
-c) elbírálja a nyomozás során előterjesztett, a feladatkörébe tartozó jogorvoslati kérelmeket.
+(6) Az ügyészség elbírálja a nyomozás során előterjesztett, a feladatkörébe tartozó jogorvoslati kérelmeket.
 
-(4) Az ügyész gondoskodik arról, hogy a nyomozás során a büntetőeljárás résztvevőinek jogai érvényesüljenek.
+(7) Az ügyészség gondoskodik arról, hogy a nyomozás során a büntetőeljárásban részt vevő személyek jogai érvényesüljenek.
