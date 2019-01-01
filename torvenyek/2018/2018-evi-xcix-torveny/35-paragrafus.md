@@ -1,1 +1,3 @@
-35. §
+35. § Az Éhvt. 10/I. § (2a) bekezdése helyébe a következő rendelkezés lép:
+
+„(2a) A klímavédelemért felelős hatóság az ügyfél részére a klímavédelmi bírság megfizetésére, a megfizetésre nyitva álló határidőben előterjesztett kérelemre, egy alkalommal legfeljebb tizenkét havi fizetési halasztást adhat vagy engedélyezheti a klímavédelmi bírság legfeljebb tizenkét hónapon keresztül, részletekben történő megfizetését. A kérelem benyújtására irányadó határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye. A kérelem elbírálása tárgyában hozott végzés ellen közigazgatási pernek van helye.”

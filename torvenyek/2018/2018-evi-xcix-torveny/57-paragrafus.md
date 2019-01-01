@@ -1,1 +1,3 @@
-57. §
+57. § A Vet. 144. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kiegyenlítő fizetés nem minősül az átviteli rendszerirányító bevételének, és az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdés c) pontja szerint nem tartozik bele az általános forgalmi adó alapjába, az átviteli rendszerirányító azt más célra nem fordíthatja és köteles azt egyéb pénzeszközeitől elkülönítetten kezelni. Az átviteli rendszerirányító köteles a kiegyenlítő fizetés végrehajtása érdekében létrehozott elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként kimutatni.”
