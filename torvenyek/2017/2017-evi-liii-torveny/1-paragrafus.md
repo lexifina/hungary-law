@@ -24,7 +24,7 @@ j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
 
 k) árukereskedőre, amennyiben tevékenysége folytatása során kétmillió-ötszázezer forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
 
-l) ügyvédre, európai közösségi jogászra (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre és
+l) ügyvédre, ügyvédi irodára, európai közösségi jogászra, európai közösségi jogászi irodára (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre és
 
 m) bizalmi vagyonkezelőre
 

@@ -6,7 +6,7 @@ b) i) pontjában meghatározott szolgáltatók vonatkozásában a szerencseját�
 
 c) g) pontjában meghatározott szolgáltatók vonatkozásában a Magyar Könyvvizsgálói Kamara;
 
-d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az egyéni ügyvédekre és az ügyvédi irodákra (a továbbiakban együtt: ügyvéd), a kamarai jogtanácsosokra, valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
+d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az ügyvédekre, a kamarai jogtanácsosokra, valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
 
 da) az ügyvédek és a kamarai jogtanácsosok esetében az a kamara, amelynek az ügyvéd, kamarai jogtanácsos a tagja (a továbbiakban: területi ügyvédi kamara),
 
