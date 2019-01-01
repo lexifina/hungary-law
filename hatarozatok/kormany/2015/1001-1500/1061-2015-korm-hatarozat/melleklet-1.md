@@ -1,12 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2015. évi központi költségvetésének címrendjét – 2015. április 1-jei fordulónappal – az 1. és 2. melléklet szerint módosítja;
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## emberi erőforrások minisztere
-
-## Határidő: 2015. április 1.
+## 1.[^1]
 
 ## 2. felhívja a nemzetgazdasági minisztert, intézkedjen a Magyar Államkincstár felé, hogy 2015. január 1-jei határnappal az 1. pont szerinti címrendi változás átvezetését és egyidejűleg – a fejezetet irányító szerv vezetőjének adatszolgáltatása alapján – az átrendezés időpontjáig végrehajtott évközi előirányzat-módosítások, teljesítési adatok és a kapcsolódó költségvetési-maradványok átvezetését hajtsa végre;
 
@@ -34,6 +26,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1061/2015. (II. 18.) Korm. határozathoz[^1]
+1. melléklet az 1061/2015. (II. 18.) Korm. határozathoz[^2]
 
-[^1]: Az 1. melléklet az 1138/2015. (III. 11.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
