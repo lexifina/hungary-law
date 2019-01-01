@@ -1,5 +1,5 @@
 ## (A Vtv. 66. §-ához)
 
-55. §[^112]
+55. §[^115]
 
-[^112]: A Vhr. 55–57. §-át a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 16. § (2) bekezdését.
+[^115]: A Vhr. 55–57. §-át a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 16. § (2) bekezdését.

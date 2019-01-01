@@ -178,6 +178,6 @@
 
 | 5 | 513 | Balaton-felvidéki |
 
-5. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^234]
+5. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^237]
 
-[^234]: A Vhr. 5. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (4) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 15. § a) pontja, a 65/2015. (X. 26.) FM rendelet 2. §-a és 4. § c) pontja szerint módosított szöveg.
+[^237]: A Vhr. 5. számú melléklete a 7/2010. (II. 2.) FVM rendelet 46. § (4) bekezdésével megállapított, a 72/2012. (VII. 24.) VM rendelet 15. § a) pontja, a 65/2015. (X. 26.) FM rendelet 2. §-a és 4. § c) pontja szerint módosított szöveg.

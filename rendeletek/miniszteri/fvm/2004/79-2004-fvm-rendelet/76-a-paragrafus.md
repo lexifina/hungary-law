@@ -1,4 +1,4 @@
-76/A. §[^182] (1) Az elejtés szakszerűtlenségének elbírálása az elejtés helye szerinti tájegység természetes élőhelyi adottságai, valamint az elejtett vad életkorának figyelembevételével, az objektív trófea-értékmérők alapján történik. A szakszerűtlen elejtés minősítésének vadfajonkénti és koronkénti meghatározását a tájegységi vadgazdálkodási terv tartalmazza.
+76/A. §[^185] (1) Az elejtés szakszerűtlenségének elbírálása az elejtés helye szerinti tájegység természetes élőhelyi adottságai, valamint az elejtett vad életkorának figyelembevételével, az objektív trófea-értékmérők alapján történik. A szakszerűtlen elejtés minősítésének vadfajonkénti és koronkénti meghatározását a tájegységi vadgazdálkodási terv tartalmazza.
 
 (2) A Vtv. 74/A. § (1) bekezdése alkalmazásában a trófeás vad szakszerűtlen elejtésének minősül az olyan legfeljebb középkorú, szabályos trófeájú vad elejtése, amely az elejtés helye szerinti tájegységben élő vadállományra a tájegységi vadgazdálkodási tervben meghatározott, mért trófeajellemzők szerint, korosztályának kiemelkedő minőségű csoportjába tartozik.
 
@@ -20,4 +20,4 @@ a) az (5) bekezdésben foglaltak szerint ismételten figyelmezteti a vadászatra
 
 b) az érintett vadfajra vonatkozóan a vadászatra jogosult következő vadászati évére szóló éves vadgazdálkodási tervében rendelkezik a Vtv. 74/A. § (2) bekezdésében meghatározott korlátozásokról.
 
-[^182]: A Vhr. 76/A. §-át a 24/2017. (V. 17.) FM rendelet 26. §-a iktatta be.
+[^185]: A Vhr. 76/A. §-át a 24/2017. (V. 17.) FM rendelet 26. §-a iktatta be.

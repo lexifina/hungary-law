@@ -14,14 +14,14 @@ e) az egyéni apróvad vadászat,
 
 f) a solymászat,
 
-g)[^158] az agarászat.
+g)[^161] az agarászat.
 
-(2)[^159] Vadászterületen a solymászatra használt vadászmadár betanításához, bevadászásához szükséges röpítés és műpedzés, valamint a magyar agár tanításához szükséges „műnyúl” utáni futtatás csak a vadászatra jogosult hozzájárulásával, a vadászterület e célra kijelölt részén végezhető.
+(2)[^162] Vadászterületen a solymászatra használt vadászmadár betanításához, bevadászásához szükséges röpítés és műpedzés, valamint a magyar agár tanításához szükséges „műnyúl” utáni futtatás csak a vadászatra jogosult hozzájárulásával, a vadászterület e célra kijelölt részén végezhető.
 
 (3) Nagyvadra történő egyéni vadászat alkalmával keresőtávcső használata kötelező.
 
-(4)[^160] Vaddisznó, aranysakál, borz és róka éjszakai vadászatán a vadász köteles magánál tartani és használni keresőtávcsövet, céltávcsövet, valamint kézilámpát, továbbá – ha a vadászati hatóság az eseti használatát külön engedélyezte – a fegyverlámpát.
+(4)[^163] Vaddisznó, aranysakál, borz és róka éjszakai vadászatán a vadász köteles magánál tartani és használni keresőtávcsövet, céltávcsövet, valamint kézilámpát, továbbá – ha a vadászati hatóság az eseti használatát külön engedélyezte – a fegyverlámpát.
 
-[^158]: A Vhr. 69. § (1) bekezdés g) pontját a 24/2017. (V. 17.) FM rendelet 21. § (1) bekezdése iktatta be.
-[^159]: A Vhr. 69. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^160]: A Vhr. 69. § (4) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 25. pontja szerint módosított szöveg.
+[^161]: A Vhr. 69. § (1) bekezdés g) pontját a 24/2017. (V. 17.) FM rendelet 21. § (1) bekezdése iktatta be.
+[^162]: A Vhr. 69. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^163]: A Vhr. 69. § (4) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 25. pontja szerint módosított szöveg.

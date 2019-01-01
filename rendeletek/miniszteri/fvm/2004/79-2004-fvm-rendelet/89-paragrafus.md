@@ -1,3 +1,3 @@
-89. §[^209]
+89. §[^212]
 
-[^209]: A Vhr. 89. §-át a 70/2017. (XII. 29.) FM rendelet 4. § (2) bekezdés h) pontja hatályon kívül helyezte.
+[^212]: A Vhr. 89. §-át a 70/2017. (XII. 29.) FM rendelet 4. § (2) bekezdés h) pontja hatályon kívül helyezte.
