@@ -1,0 +1,1 @@
+A Kormány a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 77. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
