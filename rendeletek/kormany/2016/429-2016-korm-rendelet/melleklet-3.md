@@ -4,9 +4,9 @@
 
 ## 2. Sopron-Fertő
 
-## 3.[^4] Tokaj, Felső-Tisza és Nyírség
+## 3.[^5] Tokaj, Felső-Tisza és Nyírség
 
-3. melléklet a 429/2016. (XII. 15.) Korm. rendelethez[^5]
+3. melléklet a 429/2016. (XII. 15.) Korm. rendelethez[^6]
 
 Kiemelt állami turisztikai beruházások
 
@@ -20,5 +20,5 @@ Kiemelt állami turisztikai beruházások
 
 | 3. | Lővérek program nemzeti konferencia központ | Sopron belterület 7020/2, 7022, 7023/1 és 7023/2 helyrajzi számú ingatlanok |
 
-[^4]: A 2. melléklet 3. pontját a 140/2017. (VI. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^5]: A 3. mellékletet a 201/2018. (X. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 7. §-át.
+[^5]: A 2. melléklet 3. pontját a 140/2017. (VI. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 3. mellékletet a 201/2018. (X. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 7. §-át.
