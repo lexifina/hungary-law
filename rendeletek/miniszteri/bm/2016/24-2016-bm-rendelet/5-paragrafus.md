@@ -9,3 +9,7 @@ c) az E-ügyintézési tv. 88. §-ában foglalt kötelezettségek nem teljesít�
 d) az eIDAS Rendelet 17. cikk (4) bekezdés e) pontja alapján a bizalmi felügyelet által felkért megfelelőségértékelő szervek eljárásának költségeire, ha azt a bizalmi felügyelet eljárási költségként érvényesíti.
 
 (2) A szolgáltatónak biztosítania kell, hogy az általa az (1) bekezdésben foglaltaknak való megfelelés érdekében kötött biztosítási szerződés kiterjedjen az (1) bekezdés szerinti költségekre és károkra. A biztosítási szerződésben szereplő felelősségvállalási érték káreseményenként nem lehet alacsonyabb, mint 3 000 000 forint.
+
+(3)[^1] Ha a szolgáltató állami költségvetési szerv, az (1) bekezdésben meghatározott károk és költségek fedezetéről a (2) bekezdésben meghatározott mértékig költségvetése terhére köteles gondoskodni.
+
+[^1]: Az 5. § (3) bekezdését a 37/2018. (XII. 28.) BM rendelet 36. §-a iktatta be.

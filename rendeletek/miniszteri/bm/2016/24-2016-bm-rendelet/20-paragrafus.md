@@ -1,5 +1,3 @@
-## 19. § A minősített szolgáltató a minősített szolgáltatás megszűnésével kapcsolatos költségek biztosítása és a megbízhatóság érdekében köteles a 20–22. §-ban meghatározott pénzügyi követelmények legalább egyikének megfelelni.
-
 20. § (1) A minősített szolgáltatónak legalább huszonötmillió forint összegű, feltétel nélküli és visszavonhatatlan bankgaranciával kell rendelkeznie.
 
 (2) Az (1) bekezdésben meghatározott bankgaranciának legalább az alábbiakat kell tartalmaznia:
