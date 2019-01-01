@@ -14,9 +14,9 @@ e) bármilyen energiatermék üzemanyagkénti, üzemanyagok adalékakénti, híg
 
 f) ha az adóraktár engedélyese az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem másik adóraktár engedélyesének, felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti,
 
-g) ha a bejegyzett kereskedő az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti, vagy másik tagállamból saját felhasználás céljára felhasználói engedély nélkül hoz be,
+g) ha a bejegyzett kereskedő az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti, vagy másik tagállamból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
 
-h) ha az importáló az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti, vagy harmadik országból saját felhasználás céljára felhasználói engedély nélkül hoz be,
+h) ha az importáló az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat vagy megfigyelt terméket nem felhasználói engedélyesnek vagy nyilvántartásba vett felhasználónak értékesíti, vagy harmadik országból saját felhasználás céljára felhasználói engedély nélkül vagy nem nyilvántartásba vett felhasználóként hoz be,
 
 i) ha a felhasználói engedélyes az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolajat nem másik tagállamba vagy harmadik országba értékesíti, valamint a megfigyelt terméket nem felhasználói engedélyesnek, nyilvántartásba vett felhasználónak, másik tagállamba vagy harmadik országba értékesíti,
 

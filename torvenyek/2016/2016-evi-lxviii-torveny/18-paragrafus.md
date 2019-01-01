@@ -10,7 +10,7 @@
 
 (5) Nem fogadható el a pénzügyi biztosíték, ha az azt nyújtóval szemben a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti kivételes intézkedés alkalmazására került sor vagy ha az azt nyújtónál a biztosítókról és a biztosítási tevékenységről szóló törvény szerinti biztosítási szükséghelyzet alakult ki.
 
-(6) Az adófelfüggesztési eljárás keretében végzett szállítással együtt járó adókockázatra jutó pénzügyi biztosítéknak a jövedéki termék kiszállítását követően még 4 hónapig, az adófizetési kötelezettség teljesítésével járó adókockázatra jutó pénzügyi biztosítéknak a jövedéki termék szabadforgalomba bocsátását követően még 60 napig kell érvényesíthetőnek lennie, az adókockázatra jutó készpénzben nyújtott jövedéki biztosíték pedig ugyanezen határidők leteltéig nem fizethető vissza a biztosítékot nyújtónak.
+(6) Az adókockázatra jutó pénzügyi biztosítéknak adófelfüggesztési eljárás keretében végzett szállítás esetén a jövedéki termék kiszállítását követő 4 hónapig, az adóra vonatkozó részletfizetés vagy fizetési halasztás engedélyezése esetén a fizetési könnyítés határidejének leteltét követő 60 napig, az adófizetési kötelezettség keletkezésének más esetében az adófizetési kötelezettség keletkezését követő 60 napig kell érvényesíthetőnek lennie, az adókockázatra jutó készpénzben nyújtott jövedéki biztosíték pedig ugyanezen határidők leteltéig nem fizethető vissza a biztosítékot nyújtónak.
 
 (7) Jövedéki termék tagállamok közötti vagy másik tagállamon keresztül harmadik országba történő szállításának adókockázatát fedező pénzügyi biztosítékul az Európai Unió valamennyi tagállamában érvényesíthető pénzügyi biztosítékot kell nyújtani.
 

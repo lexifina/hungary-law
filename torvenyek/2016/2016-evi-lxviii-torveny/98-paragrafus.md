@@ -1,6 +1,6 @@
 ## 65. Csomagküldemények ellenőrzése
 
-98. § (1) Az állami adó- és vámhatóság legalább két tagjából álló bizottság az adófizetési kötelezettség teljesítésének ellenőrzése érdekében a postai szolgáltató felvevő- vagy kézbesítőhelyén, a futár- vagy csomagszállítást végző szolgáltató telephelyén a csomagküldeményeket felbontás nélkül megvizsgálhatja.
+98. § (1) Az állami adó- és vámhatóság legalább két tagjából álló bizottság az adófizetési kötelezettség teljesítésének ellenőrzése érdekében a csomagküldeményeket felbontás nélkül megvizsgálhatja.
 
 (2) Ha a vizsgálat alapján valószínűsíthető, hogy a csomagküldemény adózatlan jövedéki terméket tartalmaz, az állami adó- és vámhatóság a csomagküldeményt felbontás céljából visszatartja. Az állami adó- és vámhatóság a visszatartásról végzéssel dönt, amelyet külföldön feladott csomagküldemény esetén a címzettként megjelölt személynek, belföldön feladott csomagküldemény esetén a feladóként megjelölt személynek, ha pedig ő nem ismert, a címzettként megjelölt személynek küld meg, tájékoztatva a felbontás helyszínéről. Az állami adó- és vámhatóság legalább két tagjából álló bizottság a felbontást az értesített személy jelenlétében végzi el. Ha a visszatartásról értesített személy az értesítés közlésétől számított 30 napon belül vagy általa kért póthatáridő esetén 60 napon belül nem jelenik meg a felbontás helyszínén, az állami adó- és vámhatóság a csomagküldeményt nélküle bontja fel, és a felbontásról készített jegyzőkönyvet az értesített személlyel közli.
 

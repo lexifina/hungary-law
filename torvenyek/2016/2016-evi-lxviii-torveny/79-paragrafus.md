@@ -8,7 +8,7 @@ a) termékimport esetén,
 
 b) ha az adófizetési kötelezettség szabálytalanság miatt keletkezik,
 
-c) ha az adófizetési kötelezettség a 7. § (1) bekezdés d)–e) és k) pontja esetében keletkezik,
+c) ha az adófizetési kötelezettség a 7. § (1) bekezdés d) és k) pontja esetében keletkezik,
 
 d) ha az adófizetési kötelezettség a 7. § (2) bekezdés c) pontja esetében a mentesített szervezetet terheli,
 
@@ -18,7 +18,7 @@ f) ha az adófizetési kötelezettség a 117. § (4) bekezdése esetében keletk
 
 (3) Önadózás esetén az adó alapját és a fizetendő adót naptári hónaponként kell megállapítani.
 
-(4) Ha az adóraktár engedélyese az adófelfüggesztési eljárás keretében átvett jövedéki terméket az adófizetési kötelezettség alóli mentesülést eredményező célra használta fel és tárgyhóban nem keletkezett adófizetési kötelezettsége, nem kell adóbevallást benyújtania.
+(4)
 
 (5) A nulla adómértékű csendes borra, valamint a 129. § (2) bekezdés a) pontja szerinti termékre nem kell adóbevallást benyújtani.
 

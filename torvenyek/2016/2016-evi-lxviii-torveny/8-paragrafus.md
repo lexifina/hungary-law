@@ -6,7 +6,7 @@ b) 7. § (1) bekezdés c) pontja szerinti esetben a csomagküldő kereskedőt,
 
 c) 7. § (1) bekezdés d) pontja szerinti esetben a szállításra a jövedéki biztosítékot nyújtó személyt és a szabálytalanság elkövetésében résztvevő személyt,
 
-d) 7. § (1) bekezdés e) pontja szerinti esetben a termék birtokosát,
+d) 7. § (1) bekezdés e) pontja szerinti esetben az energiatermék üzemanyagkénti, üzemanyagok adalékakénti, hígítóanyagakénti vagy fűtőanyagkénti kínálóját, értékesítőjét vagy felhasználóját,
 
 e) 7. § (1) bekezdés f) pontja szerinti esetben az adóraktár engedélyesét,
 

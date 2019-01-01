@@ -1,4 +1,4 @@
-70. § (1) A kereskedelemről szóló törvény szerinti vendéglátást vagy szálláshely-szolgáltatást folytató jövedéki kiskereskedő üzletében és az ahhoz tartozó raktárában – a vendégeknek már kiszolgált termékek kivételével – 2 liter alatti kiszerelésű alkoholtermékből, csendes borból és egyéb csendes erjesztett italból a végrehajtási rendeletben meghatározott mennyiségű bontott termék az abban meghatározott feltételekkel tárolható.
+70. § (1) A kereskedelemről szóló törvény szerinti vendéglátást vagy szálláshely-szolgáltatást folytató jövedéki kiskereskedő üzletében és az ahhoz tartozó raktárában – a vendégeknek már kiszolgált termékek kivételével – alkoholtermékből, csendes borból és egyéb csendes erjesztett italból a végrehajtási rendeletben meghatározott mennyiségű bontott termék az abban meghatározott feltételekkel tárolható.
 
 (2) Vendéglátást folytató jövedéki kiskereskedő
 

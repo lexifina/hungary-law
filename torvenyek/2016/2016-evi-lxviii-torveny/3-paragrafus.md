@@ -78,7 +78,7 @@ jogosult személy;
 
 26. jövedéki engedélyes kereskedő: a 67. § (1) bekezdése szerinti tevékenységet folytató személy;
 
-27. jövedéki kiskereskedelmi tevékenység: a 67. § (1) bekezdés a) pontja szerinti termékkel a kereskedelemről szóló törvény, valamint a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermék kiskereskedelmi tevékenységről szóló törvény szerint folytatott kiskereskedelmi tevékenység;
+27. jövedéki kiskereskedelmi tevékenység: a 67. § (1) bekezdés a) pontja szerinti termékkel és üzemanyag célú földgázzal a kereskedelemről szóló törvény, valamint a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermék kiskereskedelmi tevékenységről szóló törvény szerint folytatott kiskereskedelmi tevékenység;
 
 28. jövedéki kiskereskedő: jövedéki kiskereskedelmi tevékenységet folytató személy;
 
@@ -248,7 +248,7 @@ történő felhasználásra állítanak elő vagy ilyenként kínálnak, érték
 
 19. hálózati engedélyes: a villamos energiáról szóló törvény szerinti hálózati engedélyes és a földgázellátásról szóló törvény szerinti földgázelosztó és szállítási rendszerüzemeltető;
 
-20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2011. szeptember 16-i 2011/544/EU bizottsági végrehajtási határozata szerinti jelölőanyaggal megjelölt gázolaj;
+20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2016. november 25-i 2017/74/EU bizottsági végrehajtási határozata szerinti jelölőanyaggal megjelölt gázolaj;
 
 21. kereskedelmi gázolaj: gázolaj, amelyet
 
@@ -366,7 +366,7 @@ b) – a sör és az egyéb habzó erjesztett ital kivételével – a 2206 00 1
 
 14. intermedier: a nyersanyagtól a vegyipari és gyógyszeripari késztermékig terjedő gyártási folyamat egyes fázisaiban előálló gyártásközi vegyi termék;
 
-15. ISZBIR: az agrárpolitikáért felelős miniszter rendeletében meghatározott, a szőlő-bor ágazati nyilvántartással, adatszolgáltatással, ellenőrzéssel kapcsolatos uniós és tagállami kötelezettségek teljesítését támogató informatikai rendszer;
+15.
 
 16. kisüzemi bortermelő: az a borászatiüzem-engedéllyel rendelkező, más borászati üzemtől jogilag és gazdaságilag független személy, aki megfelel az alábbi követelményeknek, továbbá az a más borászati üzemtől jogilag és gazdaságilag nem független, borászati üzem engedéllyel rendelkező személy, aki a jogi és gazdasági kapcsolatban lévő másik borászati üzemmel együttesen teljesíti a következő követelményeket:
 
@@ -374,7 +374,7 @@ a) az utolsó három borpiaci év átlagában kevesebb mint évi 1000 hl csendes
 
 b) szőlőt, valamint sűrített szőlőmust és finomított szőlőmustsűrítmény kivételével a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet II. részében felsorolt terméket másik tagállamból vagy harmadik országból nem szerez be, és
 
-c) csendes bort – a bérpalackozásra átadott saját előállítású csendes bor visszaszállítását kivéve – nem szerez be, és csendes boron kívül, valamint a saját előállítású csendes borból évente legfeljebb 10 000 liter palackos erjesztésű habzóbor előállításán, tárolásán kívül, ha utóbbi termékből a kisüzemi bortermelő készlete nem haladja meg a 10 000 litert, más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba;
+c) csendes bort – a bérpalackozásra átadott saját előállítású csendes bor visszaszállítását kivéve – nem szerez be, és csendes boron kívül, valamint a saját előállítású csendes borból évente legfeljebb 50 000 liter palackos erjesztésű habzóbor előállításán, tárolásán kívül, ha utóbbi termékből a kisüzemi bortermelő készlete nem haladja meg a 50 000 litert, más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba;
 
 17. kisüzemi sörfőzde: évente legfeljebb 200 ezer hektoliter sört előállító, más sörgyártó üzemtől jogilag és gazdaságilag független, más sörgyártó üzemtől elkülönült telephelyet használó, nem licencia alapján működő adóraktár;
 

@@ -10,10 +10,10 @@ b) a magánfőző által teljesítendő bejelentési kötelezettség, valamint a
 
 c) a külföldi személy jövedéki ügye,
 
-d) a hivatalból magánszeméllyel szemben indított és lefolytatott jövedéki ügy, kivéve, ha az ügyfél elektronikus ügyintézést kér és egyúttal megadja az elektronikus ügyintézéshez szükséges elektronikus elérhetőségét,
+d) a hivatalból magánszeméllyel szemben indított és lefolytatott jövedéki ügy, kivéve, ha a választásra jogosult elektronikus ügyintézést kér és egyúttal megadja az elektronikus ügyintézéshez szükséges elektronikus elérhetőségét,
 
 e) a kizárólag bérfőzést végző adóraktár nyilvántartás-vezetése, adatszolgáltatása,
 
 f) a 112. § (5) bekezdése szerinti, állami adó- és vámhatósági ellenjegyzés iránti eljárás.
 
-(3) A (2) bekezdés szerinti esetben az ügyfél az eljárás bármely szakaszában választhat a kapcsolattartás hagyományos és elektronikus formája között.
+(3) A (2) bekezdés szerinti esetben a választásra jogosult az eljárás bármely szakaszában választhat a kapcsolattartás hagyományos és elektronikus formája között.

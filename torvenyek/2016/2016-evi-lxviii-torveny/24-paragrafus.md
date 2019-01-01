@@ -37,3 +37,5 @@ b) a 21. § (7) bekezdése szerinti összegű biztosíték nyújtása esetén a 
 (9) Az elektronikus nyilvántartásban az energiatermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék és az alkoholtermék KN-kód szerinti bontásban, a dohánygyártmányok dohánygyártmányonként a jövedéki adó alapjául szolgáló mennyiségi egységben szerepelnek.
 
 (10) Az adóraktár engedélyese az elektronikus átvételi elismervény kiállítását követően a jövedéki terméket haladéktalanul felveszi elektronikus nyilvántartásába.
+
+(11) Az adóraktárban felhasználói engedélyes tevékenységet is folytató engedélyes e tevékenységéről a 31. § (1) és (3) bekezdése szerinti nyilvántartást vezet és a 31. § (4) bekezdése szerinti adatszolgáltatást teljesít.

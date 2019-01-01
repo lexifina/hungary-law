@@ -20,7 +20,7 @@ ab) a hiányosság megszüntetésére 30 napon belül nincs lehetőség, az áll
 
 b) nem veszélyezteti, az állami adó- és vámhatóság felszólítja az engedélyest a hiányosság megszüntetésére és ha az engedélyes a felszólításban meghatározott határidőn belül nem szünteti meg a hiányosságot, az engedélyt visszavonja.
 
-(4) Az engedély visszavonásáról és az engedély felfüggesztéséről hozott döntés fellebbezésre tekintet nélkül azonnal végrehajtható.
+(4) Az engedély visszavonása és az engedély felfüggesztése tárgyában hozott döntés fellebbezésre tekintet nélkül azonnal végrehajtható.
 
 (5) Az engedély felfüggesztéséről hozott döntés hatálya nem terjed ki a (8) bekezdés c) pontja szerinti tevékenységre, ha a termelés leállítása műszaki, biztonsági, vagy katasztrófavédelmi szempontból indokolatlan kockázatokkal, károkkal járna.
 

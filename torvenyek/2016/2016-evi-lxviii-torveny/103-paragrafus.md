@@ -22,13 +22,13 @@ b) a jövedéki jogsértést megvalósító személy ezzel a magatartásával a 
 
 (5) Az elkobzott dolgok közül
 
-a) az élelmiszerláncról és hatósági felügyeletéről szóló törvény hatálya alá tartozó terméket, továbbá jogszabályban meghatározott eljárástól eltérően előállított vagy kezelt csendes bort, valamint a dohánygyártmányt meg kell semmisíteni;
+a) az élelmiszerláncról és hatósági felügyeletéről szóló törvény hatálya alá tartozó terméket, a jogszabályban meghatározott eljárástól eltérően előállított vagy kezelt csendes bort és a dohánygyártmányt meg kell semmisíteni vagy a (6) bekezdés a) pontja szerinti rendelkezés alkalmazható;
 
-b) a zárjegyet, a hivatalos zárat és a jövedéki termék előállítására alkalmas berendezést meg kell semmisíteni;
+b) a zárjegyet, a hivatalos zárat és a jövedéki termék előállítására alkalmas berendezést meg kell semmisíteni vagy a (6) bekezdés a) pontja szerinti rendelkezés alkalmazható;
 
-c) az a) és b) pontba nem tartozó egyéb elkobzott termék és eszköz esetén az állami adó- és vámhatóság intézkedik azoknak az állam javára történő értékesítéséről vagy a (6) bekezdés szerinti átadásról, felhasználásról,
+c) azt a terméket, amelyek értékesítése valamely szellemi tulajdonjogot sértene, meg kell semmisíteni;
 
-d) azokat a termékeket, amelyek értékesítése valamely szellemi tulajdonjogot sértene, meg kell semmisíteni.
+d) az a)–c) pontokba nem tartozó egyéb elkobzott dolog esetén az állami adó- és vámhatóság intézkedik annak az állam javára történő értékesítéséről vagy a (6) bekezdés szerinti átadásról, felhasználásról.
 
 (6) Az elkobzott
 
@@ -46,7 +46,7 @@ bc) közül az értékesítésre vagy a ba) és bb) alpont szerint átadásra, f
 
 a) (5) bekezdés a) pontja szerinti dolog előzetes megsemmisítésére, ha az gyors romlásnak van kitéve, huzamosabb tárolásra alkalmatlan,
 
-b) (5) bekezdés b) pontja szerinti dolog előzetes megsemmisítésére, a lefoglalt (5) bekezdés c) pontja szerinti dolog előzetes értékesítésére, ha annak kezelése, tárolása, őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna,
+b) (5) bekezdés b) pontja szerinti dolog előzetes megsemmisítésére, a lefoglalt (5) bekezdés d) pontja szerinti dolog előzetes értékesítésére, ha annak kezelése, tárolása, őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna,
 
 c) energiatermék előzetes, (6) bekezdés b) pont ba) alpontja szerinti célra történő átadására, valamint a (6) bekezdés b) pont bb) alpontja szerinti felhasználására, ha annak kezelése, tárolása, őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna.
 

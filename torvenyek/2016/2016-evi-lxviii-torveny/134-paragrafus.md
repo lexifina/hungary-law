@@ -4,7 +4,7 @@
 
 (2) Egyszerűsített adóraktárban nem állítható elő, nem tárolható, nem palackozható sör, a (3) bekezdésbeli eseten túl habzóbor, a 129. § (2) bekezdés a) pontja szerinti termék kivételével egyéb csendes vagy habzó erjesztett ital, köztes alkoholtermék, alkoholtermék.
 
-(3) Egyszerűsített adóraktárban a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital, valamint saját előállítású csendes borból évente legfeljebb 10 000 liter palackos erjesztésű habzóbor is előállítható, tárolható, utóbbi termékből az egyszerűsített adóraktár készlete nem haladhatja meg a 10 000 litert.
+(3) Egyszerűsített adóraktárban a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital, valamint saját előállítású csendes borból évente legfeljebb 50 000 liter palackos erjesztésű habzóbor is előállítható, tárolható, utóbbi termékből az egyszerűsített adóraktár készlete nem haladhatja meg a 50 000 litert.
 
 (4) Az egyszerűsített adóraktári engedély megadásának nem feltétele:
 

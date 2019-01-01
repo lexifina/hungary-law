@@ -6,13 +6,13 @@
 
 a) a tárolótartályok hitelesítését,
 
-b) hitelesített mérőeszközök alkalmazását, vagy
+b) hitelesített mérőeszközök alkalmazását, és
 
 c) hatósági zár alkalmazását.
 
 (3) Az adóraktár engedélyese a jövedéki termék értékesítéséről kiállított számlán a jövedéki termék KN-kódját is feltünteti.
 
-(4) Az adóraktári engedély felfüggesztését az adóraktár engedélyese is kérheti legfeljebb 1 évre.
+(4) Az adóraktári engedély felfüggesztését az adóraktár engedélyese is kérheti legfeljebb 1 évre. Ha az engedélyfelfüggesztés határidejének leteltéig az engedélyes nem kéri a felfüggesztés megszüntetését, a határidő leteltével az engedély hatályát veszti.
 
 (5) Több telephellyel rendelkező adóraktár engedélyese esetében az állami adó- és vámhatóság telephelyenként vizsgálja a 15. § (2) bekezdésében meghatározott feltételek teljesülését és alkalmazza a 15. § (7) bekezdése szerinti automatikus intézkedést.
 

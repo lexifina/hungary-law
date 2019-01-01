@@ -59,3 +59,5 @@ g) az (1) bekezdés i) pontja esetében a távhőszolgáltató általi vásárl�
 keletkezik.
 
 (5) A (4) bekezdéstől eltérően, az olyan ügyletnél, ahol a felek időszakonkénti elszámolásban vagy fizetésben állapodnak meg vagy az ellenértéket meghatározott időszakra állapítják meg, az adófizetési kötelezettséget az elszámolással vagy fizetéssel érintett időszak első napján hatályos adómérték figyelembevételével kell megállapítani.
+
+(6) Abban az esetben, ha az (5) bekezdés szerinti ügyleteknél az adóalany által korábban fizetendő adóként megállapított és bevallott adó csökken, az adóalany a különbözetet – a fizetendő adót csökkentő tételként – legkorábban abban az adómegállapítási időszakban jogosult figyelembe venni, amelyben az eredeti számlát érvénytelenítő vagy az azt módosító okirat a jogosult személyes rendelkezésére áll.

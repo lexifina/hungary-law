@@ -30,7 +30,7 @@ járművei részére történő kiszolgálásához.
 
 (3) A jövedéki engedélyes kereskedő – a (2) bekezdéstől eltérően – a jövedéki kiskereskedő vagy végfelhasználó részére értékesített jövedéki termékeket vagy azok egy részét a jövedéki kiskereskedő vagy végfelhasználó kérésére visszavásárolhatja.
 
-(4) A jövedéki engedélyes kereskedő egyedi, az állami adó- és vámhatóság által előzetesen engedélyezett esetben a (2) bekezdésben meghatározott személyeken kívül mástól is beszerezhet jövedéki terméket.
+(4) A jövedéki engedélyes kereskedő az állami adó- és vámhatóság előzetes engedélye alapján a (2) bekezdésben meghatározott személyeken kívül mástól is beszerezhet jövedéki terméket.
 
 (5) A jövedéki engedélyes kereskedő jövedéki terméket készpénzfizetéssel nem szerezhet be és nem értékesíthet.
 
