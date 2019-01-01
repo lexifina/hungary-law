@@ -1,0 +1,1 @@
+89. § A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkáltató és a munkavállaló kártérítési felelősségére szóló rendelkezései (XIII. és XIV. fejezet) közül a 178. § és a 191. § nem alkalmazható.

@@ -1,0 +1,1 @@
+11. § A honvédelmi alkalmazotti jogviszony tekintetében az Mt. üzemi tanácsra vonatkozó rendelkezései (XX. fejezet) közül a 235. § (2) bekezdése, 236. § (1) bekezdése, 251. §-a, 268. §-a és 269. §-a nem alkalmazható.

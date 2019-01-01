@@ -1,0 +1,1 @@
+9. § A honvédelmi szervezet legalább félévente köteles tájékoztatni a honvédelmi alkalmazottak tanácsát a honvédelmi szervezetnél megvalósuló részmunkaidős és a határozott időre szóló foglalkoztatás helyzetének alakulásáról.

@@ -1,0 +1,1 @@
+98. § Az e törvény hatálybalépését megelőzően a közalkalmazottak jogállásáról szóló törvény szerint lakás építéséhez, vásárlásához vállalt állami készfizető kezesség esetén a hitelszerződésben foglaltakat – a közalkalmazotti jogviszony 97. § (1) bekezdés szerinti átalakulásától függetlenül – a közalkalmazottak jogállásáról szóló törvény szerint kell teljesíteni.

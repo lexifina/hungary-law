@@ -1,0 +1,1 @@
+56. § A férjnek és a feleségnek a házasságkötést követően öt munkanap pótszabadság jár, feltéve, hogy legalább az egyik házastárs első házasságát kötötte. Ezt a pótszabadságot az igénybe vevő kérésének megfelelően a házasságkötés napját követő 365 napon belül kell kiadni.

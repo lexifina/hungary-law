@@ -1,0 +1,1 @@
+69. § Az e törvényben megállapított feltételek mellett a honvédelmi alkalmazott a 70–74. § szerinti illetménypótlékra jogosult. A 70–74. § szerinti illetménypótlék számításának alapja (a továbbiakban: pótlékalap) a mindenkori éves költségvetési törvény által a közalkalmazottak jogállásáról szóló törvény szerinti illetménypótlék számításaként megállapított összeg.

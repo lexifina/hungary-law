@@ -1,0 +1,19 @@
+78. § (1) A honvédelmi alkalmazottnak a (2) bekezdésben meghatározott időközönként és mértékben jubileumi jutalom jár.
+
+(2) A jubileumi jutalom:
+
+a) huszonöt év honvédelmi alkalmazotti jogviszony esetén kéthavi,
+
+b) harminc év honvédelmi alkalmazotti jogviszony esetén háromhavi,
+
+c) harmincöt év honvédelmi alkalmazotti jogviszony esetén öthavi,
+
+d) negyven év honvédelmi alkalmazotti jogviszony esetén héthavi,
+
+e) negyven évet követően minden öt év honvédelmi alkalmazotti jogviszony esetén héthavi
+
+illetményének megfelelő összeg.
+
+(3) Miniszteri rendeletben meghatározott esetekben a (2) bekezdés alapján a jubileumi jutalom alapjául szolgáló illetmény összegébe a 70–75. § szerinti pótlékot is be kell számítani.
+
+(4) Ha a honvédelmi alkalmazotti jogviszonya a 30. § (1) bekezdés d) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
