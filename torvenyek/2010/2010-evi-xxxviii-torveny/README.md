@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2017-12-01 | 2017. évi CXIX. törvény | 2010-38-00-00.25 |
 | 2018-01-01 | 2017. évi CXXXVI. törvény | 2010-38-00-00.26 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2010-38-00-00.27 |
+| 2019-01-01 | 2018. évi XCI. törvény | 2010-38-00-00.28 |

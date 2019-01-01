@@ -10,16 +10,16 @@ b) a hagyatéki eljárásban a hagyatéki vagyon átadása tekintetében nincs �
 
 (3) Ha a másodlagos öröklési vitában támasztott igény előterjesztője a (2) bekezdés szerinti per megindítását igazolta,
 
-a) a biztosíték összegét a közjegyző a keresetlevél idézés kibocsátása nélkül történő jogerős elutasítása – feltéve, hogy a keresetlevél beadásához fűződő jogi hatályok fennmaradása nem következett be –, a per érdemi döntés nélküli jogerős megszüntetése vagy szünetelés folytán történő megszűnése esetén a letevőnek vagy a bíróság érdemi döntése alapján arra jogosultnak fizeti ki,
+a) a biztosíték összegét a közjegyző a keresetlevél jogerős visszautasítása – feltéve, hogy a keresetlevél beadásához fűződő jogi hatályok fennmaradása nem következett be –, a per érdemi döntés nélküli jogerős megszüntetése vagy szünetelés folytán történő megszűnése esetén a letevőnek vagy a bíróság érdemi döntése alapján arra jogosultnak fizeti ki,
 
 b) a jelzálogjogot kérelemre
 
-ba) törölni kell, ha a bíróság a keresetlevelet idézés kibocsátása nélkül elutasította – feltéve, hogy a keresetlevél beadásához fűződő jogi hatályok fennmaradása nem következett be – vagy a pert érdemi döntés nélkül jogerősen megszüntette vagy
+ba) törölni kell, ha a bíróság a keresetlevelet visszautasította – feltéve, hogy a keresetlevél beadásához fűződő jogi hatályok fennmaradása nem következett be – vagy a pert érdemi döntés nélkül jogerősen megszüntette vagy
 
 bb) a bíróság jogerős érdemi döntésének megfelelően módosítani kell.
 
 (4) A (3) bekezdés b) pontjában foglalt ingatlan-nyilvántartási eljárások költségét az viseli, akinek javára a jelzálogjog-törlési vagy -módosítási – felemelésre vagy leszállításra irányuló – eljárást megindítják.
 
-(5) A (2) bekezdésben meghatározott bírósági eljárást kezdeményező keresetlevélben – a jogszabályban meghatározottakon kívül – fel kell tüntetni a pénzösszeg letételének, illetve a jelzálogjog bejegyzésének tényét, és kérelmet kell előterjeszteni az azokról való döntés iránt. A bíróság jogerős ítéletét vagy a pert megszüntető vagy megszűnését megállapító végzését a közjegyzői letéttel kapcsolatos intézkedések megtétele céljából a közjegyzőnek, a jelzálogjoggal kapcsolatos intézkedések megtétele céljából az ingatlanügyi hatóságnak is megküldi; ugyanezen célból a keresetlevél idézés kibocsátása nélkül történő jogerős elutasításáról szóló végzést csak akkor küldi meg a közjegyzőnek, illetve az ingatlanügyi hatóságnak, ha a keresetlevél beadásához fűződő jogi hatályok fennmaradása nem következett be.
+(5) A (2) bekezdésben meghatározott bírósági eljárást kezdeményező keresetlevélben – a jogszabályban meghatározottakon kívül – fel kell tüntetni a pénzösszeg letételének, illetve a jelzálogjog bejegyzésének tényét, és kérelmet kell előterjeszteni az azokról való döntés iránt. A bíróság jogerős ítéletét vagy a pert megszüntető vagy megszűnését megállapító végzését a közjegyzői letéttel kapcsolatos intézkedések megtétele céljából a közjegyzőnek, a jelzálogjoggal kapcsolatos intézkedések megtétele céljából az ingatlanügyi hatóságnak is megküldi; ugyanezen célból a keresetlevél jogerős visszautasításáról szóló végzést csak akkor küldi meg a közjegyzőnek, illetve az ingatlanügyi hatóságnak, ha a keresetlevél beadásához fűződő jogi hatályok fennmaradása nem következett be.
 
 (6) A 6. § (1) bekezdés jb) pontja szerinti másodlagos öröklési vita a hagyaték teljes hatályú átadásának nem akadálya.
