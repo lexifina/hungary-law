@@ -1,0 +1,3 @@
+## 9. § A Tkr. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A fenntartó évente, a tárgyévet követő év február 28-áig, a finanszírozási szerződés évközi megszűnése esetén a megszűnéstől számított 30 napon belül elszámolást nyújt be a Főigazgatósághoz a tárgyévben igénybe vett működési támogatásról. Az elszámolást a Főigazgatóság elektronikus pályázatkezelő rendszere útján kell elkészíteni, majd a kinyomtatott és aláírt elszámolást kell a Főigazgatósághoz benyújtani. Az elszámoláshoz csatolni kell a főkönyvi kivonatot és a főkönyvi kivonatban foglaltakat alátámasztó analitikát.”

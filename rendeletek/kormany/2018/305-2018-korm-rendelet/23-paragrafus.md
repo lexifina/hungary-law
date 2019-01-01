@@ -1,5 +1,3 @@
-## 21–22. §[^7]
+## 22. § Az Átr. 33. § (4) bekezdésében a „2017.” szövegrész helyébe a „2019.” szöveg lép.
 
 ## 6. Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosítása
-
-[^7]: A 21–22. § a 24. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

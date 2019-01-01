@@ -1,3 +1,3 @@
-## 13–15. §[^4]
+## 15. § Az Sznyr. 43/A. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^4]: A 13–15. § a 24. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(2) A működést engedélyező szerv a közhírré tételre kerülő adatokról – a Szociális Ágazati Portálon közzétett formában – haladéktalanul értesíti a Főigazgatóságot.”
