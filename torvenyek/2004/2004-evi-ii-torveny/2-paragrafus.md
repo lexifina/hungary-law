@@ -2,7 +2,7 @@
 
 1. mozgóképszakma: a mozgóképkultúra, illetve a mozgóképipar körébe tartozó tevékenységek, valamint az ilyen tevékenységeket végző személyek összessége;
 
-2. filmalkotás: a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) szerinti filmalkotás, ideértve a számítógépes vagy bármilyen platformon hozzáférhető játékprogram előzeteseként készülő filmalkotást, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a beszélgetőműsort (talk-show), a játék- és vetélkedőműsort, és a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilmet;
+2. filmalkotás: a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) szerinti filmalkotás, ideértve a számítógépes vagy bármilyen platformon hozzáférhető játékprogram előzeteseként készülő filmalkotást, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a vita- és a beszélgetőműsort (talk-show), a játék- és vetélkedőműsort, a tehetségkutató műsort, valamint a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilmet;
 
 3. film alkotói: a filmalkotás céljára készült irodalmi és zeneművek szerzői, a filmalkotás rendezője és mindazok, akik a filmalkotás egészének kialakításához alkotó módon járultak hozzá, továbbá a filmalkotásban felhasznált egyéb művek szerzői;
 
@@ -42,9 +42,9 @@ b) forgatásának során a szereplők (az utómunka során a narrátor) által h
 
 14. támogató: a mozgóképszakmai célok támogatását végző szervezet vagy intézmény;
 
-15. filmterjesztés: a filmalkotás nyilvános előadása, továbbá a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
+15. filmterjesztés: a filmalkotás nyilvános előadása, nyilvánossághoz közvetítése, továbbá a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
 
-a) forgalmazással, vagy az arra történő felkínálással,
+a) forgalomba hozatallal, vagy az arra történő felkínálással,
 
 b) moziüzemeltetéssel, vagy
 
@@ -80,7 +80,7 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 
 27. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
-28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, kivéve az olyan film vagy filmsorozat, amely valós szereplők és események elsődlegesen szórakoztató célú nyomon követésén alapul és kulturális értéket nem hoz létre (valóságshow), az olyan fikciós filmsorozat, amely heti többszöri televíziós bemutatásra készült, több mint húsz epizódból áll, lezáratlan dramaturgiájából adódóan végtelenül folytatható, és kulturális értéket nem hoz létre (szappanopera), továbbá az olyan részben fikciós film vagy filmsorozat, amely a szereplők természetes élethelyzeteit a jelenetek előre meghatározott dramaturgiájával, írásba foglalt és rögtönzött párbeszédekkel mutatja be (scripted reality);
+28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, a Kormány rendeletében meghatározott kivételekkel;
 
 29. közvetlen magyar filmgyártási költség: a közvetlen filmgyártási költségek azon csoportja, amely adó vagy egyéb közteher-fizetési kötelezettség formájában merül fel, vagy amelynek felmerülése Magyarországon adó- vagy járulékfizetési kötelezettséget keletkeztet és megfelel az e törvényben meghatározott követelményeknek.
 
@@ -89,5 +89,7 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 31. közterület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti földterület;
 
 32. kiemelt nemzeti emlékhely: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 7. § 8. pontja szerinti emlékhely.
+
+33. műpéldány: a filmalkotást vagy egyéb szerzői jogi védelem alatt álló művet, annak azonosítására alkalmas formában tartósan rögzítő hordozó.
 
 3. CÍM

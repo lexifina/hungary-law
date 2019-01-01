@@ -2,6 +2,8 @@
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a letéti számlára a tárgyévben befizethető, kiegészítő támogatás nélküli összeget.
 
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kulturális értéket műfaja alapján létre nem hozó filmalkotást.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) a nem filmgyártásra vonatkozó mozgóképszakmai tevékenységek e törvény szerinti támogatásának szabályait,

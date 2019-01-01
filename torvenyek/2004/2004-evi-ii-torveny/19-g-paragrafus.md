@@ -4,7 +4,7 @@
 
 (2) A Hivatal felhívhatja az e törvény hatálya alá tartozó személyeket és szervezeteket minden olyan adat szolgáltatására, amely a Hivatal e törvényben meghatározott és hatáskörébe utalt feladatok ellátásához elengedhetetlenül szükséges, kivételesen abban az esetben is, ha az törvény által védett titoknak minősül, ide nem értve a minősített adatokat. E felhívás ellen jogorvoslatnak helye nincs, a felhívás a (3) bekezdésben foglalt esetben kibocsátott hatósági határozat elleni jogorvoslati kérelemben támadható.
 
-(3) Amennyiben a (4) bekezdésben foglalt felhívást az adatszolgáltatásra felhívott nem vagy nem megfelelően teljesíti, úgy a Hivatal hatósági határozatában kötelezheti a felhívásban foglalt adatok szolgáltatására.
+(3) Amennyiben a (2) bekezdésben foglalt felhívást az adatszolgáltatásra felhívott nem vagy nem megfelelően teljesíti, úgy a Hivatal hatósági határozatában kötelezheti a felhívásban foglalt adatok szolgáltatására.
 
 (4) A Hivatal az e törvény hatálya alá tartozó személyeket és szervezeteket hatósági határozatában időszakos vagy folyamatos adatszolgáltatásra is kötelezheti.
 

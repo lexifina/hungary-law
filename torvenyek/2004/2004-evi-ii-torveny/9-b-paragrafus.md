@@ -26,12 +26,14 @@ h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó k
 
 i) a magyar kultúra terjesztése, illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján,
 
-j) a 31/B. § (2c) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása,
+j) a 31/B. § (2c) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása, támogatási rendszerének működtetése, képzések szervezése és a mozgóképes szakmák népszerűsítése,
 
-k) a IV. fejezet szerinti közterület- és ingatlanhasználatra vonatkozó hatósági ügyekkel kapcsolatos eljárás lefolytatása.
+k) a IV. fejezet szerinti közterület- és ingatlanhasználatra vonatkozó hatósági ügyekkel kapcsolatos eljárás lefolytatása,
+
+l) mozgóképszakmai rendezvények szervezése.
 
 (2) Az MNF az e törvényben meghatározott pályázati és támogatási elvek, illetve feltételek érvényesülését biztosító, a pályázatokra és a támogatások nyújtására vonatkozó részletes szabályokat az alapszabályában, illetve a Támogatási Szabályzatában állapítja meg. Az MNF a Támogatási Szabályzatot a honlapján közzéteszi.
 
 3. CÍM
 
-Mozgókép Koordinációs Tanács
+A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság vagyonkezelői jogviszonyával kapcsolatos különös szabályok

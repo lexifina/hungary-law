@@ -16,7 +16,7 @@ b) a filmelőállító vagy a filmgyártó vállalkozás vagy filmterjesztő nyi
 
 c) az igazgatási szolgáltatási díj megfizetésének igazolását, és
 
-d) a filmelőállító vagy a filmgyártó vállalkozás bejelentését a filmgyártásban közvetlenül közreműködő külföldi illetőségű előadóművész és nem előadóművész magánszemély stábtagok nevére, állampolgárságára, születési helyére és idejére, anyja nevére, külföldi lakóhelyére, valamint arra vonatkozóan, hogy előadóművészként vagy nem előadóművészként működnek közre a film gyártása során.
+d)
 
 (2a) A kérelem benyújtásával egyidejűleg vagy azt megelőzően a filmelőállító, illetve a filmgyártó vállalkozás bejelenti a gyártási időszak (előkészítés) kezdetének napját legkésőbb annak kezdő napjáig, valamint a forgatás (ideértve az előforgatást is) megkezdésének időpontját azt megelőzően legalább 30 nappal. A forgatás első napját legalább 30 nappal megelőzően – ha a gyártási folyamatból csak az utómunkát végzik Magyarországon, az utómunka megkezdését legalább 30 nappal megelőzően – a kérelem benyújtásával egyidejűleg be kell nyújtani
 
@@ -28,7 +28,7 @@ c) nem megrendelésre készülő filmalkotás esetében a közvetlen filmgyárt�
 
 d) a filmalkotás közvetlen filmgyártási költségeire vonatkozó költségvetését (valamennyi társelőállító és támogató által ellenjegyezve), pénzügyi tervét és finanszírozási tervét,
 
-e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás vagy a költségellenőrzésre irányuló eljárást lezáró határozat kiállítását, és
+e) a filmelőállító, illetve a filmgyártó vállalkozás arra vonatkozó nyilatkozatát, hogy milyen ütemezésben kéri a támogatási igazolás vagy a költségellenőrzésre irányuló eljárást lezáró határozat kiállítását,
 
 f) a filmelőállító vagy a filmgyártó vállalkozás nyilatkozatát arra vonatkozóan, hogy a filmalkotás gyártása során vállalja
 
@@ -38,7 +38,9 @@ fb) a százmillió forintot meghaladó, de ötszázmillió forintot meg nem hala
 
 fc) az ötszázmillió forintot meghaladó közvetlen filmgyártási költséggel rendelkező filmalkotások esetében legalább öt
 
-mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább egy játékfilm gyártásában gyakorlatot szerzett gyakornok legalább öt héten át tartó foglalkoztatását bármely gyártási részlegben, amelyben a gyakornokok szakmai felügyelete biztosítható. Amennyiben a filmalkotás magyarországi gyártásának azon szakasza, amelyben a gyakornok foglalkoztatható lenne, nem éri el az öt hetet, a foglalkoztatási kötelezettség a teljes magyarországi gyártási szakasz időszakára vonatkozik.
+mozgóképszakmai képzésben részt vevő, korábban részt vett vagy legalább egy játékfilm gyártásában gyakorlatot szerzett gyakornok legalább öt héten át tartó foglalkoztatását bármely gyártási részlegben, amelyben a gyakornokok szakmai felügyelete biztosítható. Amennyiben a filmalkotás magyarországi gyártásának azon szakasza, amelyben a gyakornok foglalkoztatható lenne, nem éri el az öt hetet, a foglalkoztatási kötelezettség a teljes magyarországi gyártási szakasz időszakára vonatkozik, és
+
+g) a filmelőállító vagy a filmgyártó vállalkozás bejelentését a filmgyártásban közvetlenül közreműködő külföldi illetőségű előadóművész és nem előadóművész magánszemély stábtag nevére, állampolgárságára, születési helyére és idejére, anyja nevére, külföldi lakóhelyére, valamint arra vonatkozóan, hogy előadóművészként vagy nem előadóművészként működik közre a film gyártása során.
 
 (2b) A (2a) bekezdés f) pontja szerinti kötelezettség nem vonatkozik a filmművészeti állami felsőoktatási képzés keretében készülő filmalkotások gyártására.
 
