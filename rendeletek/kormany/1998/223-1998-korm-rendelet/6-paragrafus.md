@@ -1,15 +1,15 @@
-## 5/B. §[^93]
+## 5/B. §[^94]
 
-6. § (1)[^94] Arra a hónapra, amelyben a családi pótlékra való jogosultság megszűnik, még az ellátást folyósítani kell.
+6. § (1)[^95] Arra a hónapra, amelyben a családi pótlékra való jogosultság megszűnik, még az ellátást folyósítani kell.
 
-(2)[^95] Ha ugyanabban a hónapban a gyermek után más személy válik jogosulttá a családi pótlékra, az új jogosultnak a jogosultság beálltát követő hónaptól jár az ellátás.
+(2)[^96] Ha ugyanabban a hónapban a gyermek után más személy válik jogosulttá a családi pótlékra, az új jogosultnak a jogosultság beálltát követő hónaptól jár az ellátás.
 
-(3)[^96]
+(3)[^97]
 
-(4)[^97] A Cst. 37. § (1) bekezdésének alkalmazásában a gyám családi pótlékra való jogosultságának feltételei fennállnak, ha a gyámrendelő határozatban foglaltak szerint a gyám a gyámrendelés tényleges időpontját megelőzően a gyermekről saját háztartásában gondoskodott, feltéve, hogy erre az időtartamra vonatkozóan más személy nem részesült családi pótlékban.
+(4)[^98] A Cst. 37. § (1) bekezdésének alkalmazásában a gyám családi pótlékra való jogosultságának feltételei fennállnak, ha a gyámrendelő határozatban foglaltak szerint a gyám a gyámrendelés tényleges időpontját megelőzően a gyermekről saját háztartásában gondoskodott, feltéve, hogy erre az időtartamra vonatkozóan más személy nem részesült családi pótlékban.
 
-[^93]: Az 5/B. §-t a 359/2010. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 449/2016. (XII. 19.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
-[^94]: A 6. § (1) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^95]: A 6. § (2) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^96]: A 6. § (3) bekezdését a 417/2015. (XII. 23.) Korm. rendelet 23. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^97]: A 6. § (4) bekezdését a 69/2014. (III. 13.) Korm. rendelet 4. §-a iktatta be.
+[^94]: Az 5/B. §-t a 359/2010. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 449/2016. (XII. 19.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
+[^95]: A 6. § (1) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^96]: A 6. § (2) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^97]: A 6. § (3) bekezdését a 417/2015. (XII. 23.) Korm. rendelet 23. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^98]: A 6. § (4) bekezdését a 69/2014. (III. 13.) Korm. rendelet 4. §-a iktatta be.

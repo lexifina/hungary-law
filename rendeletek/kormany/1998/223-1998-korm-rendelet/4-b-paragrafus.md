@@ -1,4 +1,4 @@
-## 4/A. §[^48] A családtámogatási eljárásokkal kapcsolatosan a Heves Megyei Kormányhivatal – a Magyar Államkincstárral kötött megállapodásban foglaltak szerint, a Központ szakmai támogatásával – országos telefonos ügyfélszolgálatot működtet.
+## 4/A. §[^48] A családtámogatási és egyéb szociális támogatásokkal kapcsolatosan a Központ országos telefonos ügyfélszolgálatot működtet.
 
 4/B. §[^49] (1)[^50] A Cst.
 
@@ -30,15 +30,15 @@ g)–j)[^62]
 
 k)[^63]
 
-l) az Országgyűlés Hivatala.
+l)[^64]
 
-(5)[^64] Ha a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más családtámogatási kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt az Központot kell megkeresni.
+(5)[^65] Ha a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más családtámogatási kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt az Központot kell megkeresni.
 
-(6)[^65]
+(6)[^66]
 
-(7)[^66]
+(7)[^67]
 
-[^48]: A 4/A. §-t újonnan a 379/2016. (XII. 2.) Korm. rendelet 33. § (5) bekezdése iktatta be, szövege a 311/2017. (X. 31.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^48]: A 4/A. §-t újonnan a 379/2016. (XII. 2.) Korm. rendelet 33. § (5) bekezdése iktatta be, szövege a 322/2018. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^49]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^50]: A 4/B. § (1) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^51]: A 4/B. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés f) pontja, a 405/2017. (XII. 15.) Korm. rendelet 10. § f) pontja és 11. § a) pontja szerint módosított szöveg.
@@ -54,6 +54,7 @@ l) az Országgyűlés Hivatala.
 [^61]: A 4/B. § (4) bekezdés e)–f) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
 [^62]: A 4/B. § (4) bekezdés g)–j) pontját a 417/2015. (XII. 23.) Korm. rendelet 23. § (2) bekezdése hatályon kívül helyezte.
 [^63]: A 4/B. § (4) bekezdés k) pontját a 332/2011. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^64]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 4. pontja, a 457/2017. (XII. 28.) Korm. rendelet 68. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. [Ez utóbbi módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint az „az Központ” szövegrész helyébe az „a Központ” szöveg lép, nem vezethető át.]
-[^65]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
-[^66]: A 4/B. § (7) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^64]: A 4/B. § (4) bekezdés l) pontját a 322/2018. (XII. 28.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^65]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 33. § (19) bekezdés 4. pontja, a 457/2017. (XII. 28.) Korm. rendelet 68. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. [Ez utóbbi módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint az „az Központ” szövegrész helyébe az „a Központ” szöveg lép, nem vezethető át.]
+[^66]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^67]: A 4/B. § (7) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

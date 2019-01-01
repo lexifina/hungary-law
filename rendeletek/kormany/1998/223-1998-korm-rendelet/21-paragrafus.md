@@ -1,18 +1,18 @@
-## 20. §[^160]
+## 20. §[^161]
 
 ## Gyermeknevelési támogatás
 
-21. §[^161] (1)[^162] A gyermeknevelési támogatásra vonatkozó kérelmet a 2. számú melléklet szerinti adattartalommal rendelkező formanyomtatványon kell benyújtani.
+21. §[^162] (1)[^163] A gyermeknevelési támogatásra vonatkozó kérelmet a 2. számú melléklet szerinti adattartalommal rendelkező formanyomtatványon kell benyújtani.
 
-(2)[^163] A Cst. 37. § (1) bekezdésének alkalmazásában a gyám gyermeknevelési támogatásra való jogosultságának feltételei fennállnak, ha a gyámrendelő határozatban foglaltak szerint a gyám a gyámrendelés tényleges időpontját megelőzően a gyermekről saját háztartásában gondoskodott, feltéve, hogy ugyanazon gyermekre tekintettel erre az időtartamra vonatkozóan más személy nem részesült gyermekgondozási támogatásban.
+(2)[^164] A Cst. 37. § (1) bekezdésének alkalmazásában a gyám gyermeknevelési támogatásra való jogosultságának feltételei fennállnak, ha a gyámrendelő határozatban foglaltak szerint a gyám a gyámrendelés tényleges időpontját megelőzően a gyermekről saját háztartásában gondoskodott, feltéve, hogy ugyanazon gyermekre tekintettel erre az időtartamra vonatkozóan más személy nem részesült gyermekgondozási támogatásban.
 
-(3)[^164]
+(3)[^165]
 
-(4)[^165]
+(4)[^166]
 
-[^160]: A 20. §-t a 280/2005. (XII. 20.) Korm. rendelet 10. § (3) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
-[^161]: A 21. § a 176/2009. (VIII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^162]: A 21. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 69. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^163]: A 21. § (2) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés f) pontja hatályon kívül helyezte, újonnan a 417/2015. (XII. 23.) Korm. rendelet 17. §-a iktatta be.
-[^164]: A 21. § (3) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^165]: A 21. § (4) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^161]: A 20. §-t a 280/2005. (XII. 20.) Korm. rendelet 10. § (3) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte.
+[^162]: A 21. § a 176/2009. (VIII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^163]: A 21. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 69. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^164]: A 21. § (2) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés f) pontja hatályon kívül helyezte, újonnan a 417/2015. (XII. 23.) Korm. rendelet 17. §-a iktatta be.
+[^165]: A 21. § (3) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^166]: A 21. § (4) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés f) pontja hatályon kívül helyezte.
