@@ -12,6 +12,6 @@
 
 (6)
 
-(7) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személyek esetében az Európai Gazdasági Térség másik tagállamában szerzett bért, szakmai jövedelmet vagy átlagkeresetet az (1) bekezdésben meghatározott járulékalapként kell figyelembe venni.
+(7) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó személyek esetében az Európai Gazdasági Térség másik tagállamában szerzett bért, szakmai jövedelmet az (1) bekezdésben meghatározott járulékalapként kell figyelembe venni.
 
 (8) A 27. § (12) bekezdésében meghatározott ideiglenes ellátás összege a kérelem benyújtásának időpontjában hatályos kötelező legkisebb munkabér 60 százaléka.

@@ -14,7 +14,7 @@ e) a megváltozott munkaképességű személyek ellátásai, a rokkantsági és 
 
 f) a letartóztatás, a szabadságvesztés, valamint az elzárás,
 
-g) az ápolási díj és a gyermeknevelési támogatás folyósítása,
+g) a gyermekek otthongondozási díja, az ápolási díj és a gyermeknevelési támogatás folyósítása,
 
 h) a nappali tagozaton történő tanulmányok folytatásának
 
@@ -24,7 +24,7 @@ időtartamával.
 
 (3) Az álláskeresési járadék folyósításának leghosszabb időtartama 90 nap.
 
-(4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – elektronikus levél útján küldte meg, az álláskeresési járadék folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
+(4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: e-ügyintézési tv.) foglaltak szerint küldte meg, az álláskeresési járadék folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
 
 (5) A nevelőszülői foglalkoztatási jogviszony abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a nevelőszülő álláskeresési ellátásban nem részesül.
 
@@ -44,4 +44,4 @@ időtartamával.
 
 (11) Ha az álláskereső részére az állami foglalkoztatási szerv a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
 
-(12) Ha az állami foglalkoztatási szerv a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó álláskereső részére ideiglenes ellátást állapít meg, az ellátás addig folyósítható, amíg az – álláskeresési járadék vagy álláskeresési segély megállapításához szükséges – az Európai Gazdasági Térség másik tagállamában szerzett jogosultsági időre, valamint szakmai jövedelemre, bérre vagy átlagkeresetre, valamint az igénybe vett munkanélküli ellátásra vonatkozó bizonyíték rendelkezésre nem áll. Az ideiglenes ellátás folyósításának időtartama nem haladhatja meg a 60 napot.
+(12) Ha az állami foglalkoztatási szerv a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó álláskereső részére ideiglenes ellátást állapít meg, az ellátás addig folyósítható, amíg az – álláskeresési járadék vagy álláskeresési segély megállapításához szükséges – az Európai Gazdasági Térség másik tagállamában szerzett jogosultsági időre, valamint szakmai jövedelemre, bérre, valamint az igénybe vett munkanélküli ellátásra vonatkozó bizonyíték rendelkezésre nem áll. Az ideiglenes ellátás folyósításának időtartama nem haladhatja meg a 60 napot.

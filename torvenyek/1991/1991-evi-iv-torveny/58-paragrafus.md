@@ -22,7 +22,7 @@ d) álláskereső: az a személy, aki
 
 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és
 
-3. öregségi nyugdíjra nem jogosult, rehabilitációs járadékban, valamint a megváltozott munkaképességű személyek ellátásaiban nem részesül és
+3. öregségi nyugdíjra nem jogosult, valamint a megváltozott munkaképességű személyek ellátásaiban nem részesül és
 
 4. az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony kivételével munkaviszonyban nem áll, és egyéb keresőtevékenységet sem folytat, és
 
@@ -44,11 +44,11 @@ e) kereső tevékenység: – az 1–6. pontban foglaltak figyelembevételével 
 
 5. A szociális szövetkezet tagja által a szövetkezetben végzett személyes közreműködés akkor minősül keresőtevékenységnek, ha a személyes közreműködés ellenértékeként megszerzett bevétel meghaladja havonta a minimálbér összegét.
 
-6. Nem kell kereső tevékenységet folytató személynek tekinteni a külön törvény szerint egyéni vállalkozónak minősülő személyt arra az időtartamra, amely alatt az egyéni vállalkozói tevékenységét szünetelteti, feltéve, hogy azt a nyilvántartást vezető szerv az egyéni vállalkozók nyilvántartásába – külön törvényben meghatározott módon – bejegyezte.
+6. Nem kell kereső tevékenységet folytató személynek tekinteni az s) pont szerint egyéni vállalkozónak minősülő személyt arra az időtartamra, amely alatt tevékenységét a jogszabályban meghatározott módon szünetelteti.
 
 f) magas szintű képzettséget igénylő munkavállalás: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 2. § p) pontja szerinti munkavállalás,
 
-g) kötelező legkisebb munkabér, minimálbér: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
+g) kötelező legkisebb munkabér, garantált bérminimum: a jogszabályban meghatározott kötelező legkisebb havi munkabér legmagasabb mértéke.
 
 h) öregségi nyugdíjkorhatár: a személyre irányadó öregségi nyugdíjkorhatár,
 
@@ -66,7 +66,7 @@ k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű
 
 1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban részesül,
 
-2. letartóztatásban van, szabadságvesztést, valamint elzárást tölt,
+2. letartóztatásban van, szabadságvesztés büntetését tölti, kivéve, ha a fogvatartott reintegrációs őrizetben van, valamint elzárás büntetését tölti,
 
 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
 
@@ -88,7 +88,7 @@ s) egyéni vállalkozó: a Tbj. 5. §-a (1) bekezdésének e) pontja szerint biz
 
 t) társas vállalkozó: a Tbj. 5. §-a (1) bekezdésének f) pontja szerint biztosított, a Tbj. 4. §-ának d) pontjában meghatározott személy,
 
-u) elektronikus levél: az egyedi levelezési címek között levelezőprogram segítségével küldhető és fogadható adategyüttes.
+u) havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, munkaerőpiaci járulék alapját képező jövedelem napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a kérelem benyújtásának napját megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa. A 180 naptári napi jövedelmet legfeljebb a kérelem benyújtásának napját közvetlenül megelőző naptári év első napjáig lehet figyelembe venni.
 
 v)
 
@@ -98,7 +98,7 @@ w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti prog
 
 x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott,
 
-y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó és a nevelőszülő, az örökbe fogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa.
+y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó, a mostoha- és a nevelőszülő, az örökbe fogadott, a mostoha- és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa.
 
 (6) A törvény alkalmazásában a
 
@@ -134,7 +134,7 @@ szabályait.
 
 (9) Ahol e törvény
 
-a) gyermekgondozási díjat, gyermekgondozási segélyt, gyermekgondozást segítő ellátást, terhességi-gyermekágyi segélyt, csecsemőgondozási díjat, gyermeknevelési támogatást, ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, megváltozott munkaképességű személyek ellátásait, továbbá bányászok egészségkárosodási járadékát,
+a) gyermekgondozási díjat, gyermekgondozási segélyt, gyermekgondozást segítő ellátást, terhességi-gyermekágyi segélyt, csecsemőgondozási díjat, gyermeknevelési támogatást, gyermekek otthongondozási díját vagy ápolási díjat, öregségi nyugdíjat, rokkantsági, valamint baleseti rokkantsági nyugdíjat, rendszeres szociális járadékot, átmeneti járadékot, megváltozott munkaképességű személyek ellátásait, továbbá bányászok egészségkárosodási járadékát,
 
 b) munkaviszonyt
 

@@ -40,13 +40,13 @@ b) a szociális igazgatás szerve az aktív korúak ellátása megállapítási 
 
 c) a központi és területi idegenrendészeti hatóság a külföldiek beutazásához és tartózkodásához kapcsolódó, törvényben meghatározott feladataik ellátása céljából az a)–d) és f)–h) pontjai,
 
-d) az állami adóhatóság az adókötelezettség ellenőrzése, valamint a munkaerő-piaci járulék bevallásának és befizetésének ellenőrzése céljából az a), c), d), e) és g) pontjai,
+d) az állami adó- és vámhatóság az adókötelezettség ellenőrzése, valamint a munkaerő-piaci járulék bevallásának és befizetésének ellenőrzése céljából az a), c), d), e) és g) pontjai,
 
 e) a rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése céljából a TAJ alkalmazásával az a), valamint c)–i) pontjai,
 
 szerinti adatok igénylésére jogosult.
 
-(4) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény alapján rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő személyek számára történő rehabilitációs szolgáltatások biztosítása céljából e személyeknek az (1) bekezdés alapján kezelt, a (2) bekezdés a–d) és f) pontjában meghatározott adatait közvetlen hozzáféréssel átveheti.
+(4) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény alapján rehabilitációs ellátásban részesülő személyek számára történő rehabilitációs szolgáltatások biztosítása céljából e személyeknek az (1) bekezdés alapján kezelt, a (2) bekezdés a–d) és f) pontjában meghatározott adatait közvetlen hozzáféréssel átveheti.
 
 (5) Az (1) bekezdésben megjelölt szervek más szerv és természetes személy részére adatot csak jogszabályban meghatározott módon szolgáltathatnak.
 

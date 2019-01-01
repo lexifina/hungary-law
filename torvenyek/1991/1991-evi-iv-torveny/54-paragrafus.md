@@ -34,9 +34,11 @@ f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci pr
 
 g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
-(9a) Az álláskereső a (9) bekezdés b) pontjában meghatározott jelentkezési kötelezettségének elektronikus levél útján is eleget tehet.
+(9a) Az álláskereső a (9) bekezdés b) pontjában meghatározott jelentkezési kötelezettségének e-ügyintézési tv.-ben foglaltak szerint is eleget tehet.
 
 (9b) A cselekvőképtelen vagy a munkaviszonnyal összefüggő ügycsoportban, cselekvőképességében részlegesen korlátozott személy az együttműködési kötelezettségét törvényes képviselője útján teljesíti.
+
+(9c) A 13/A. §-ban foglalt munkaerőpiaci szolgáltatások igénybevétele esetén, valamint – a (9a) bekezdésben foglaltak figyelembevételével – a (9) bekezdésben foglalt együttműködési kötelezettség keretében a személyes megjelenés kötelező.
 
 (10) Az álláskeresési járadékra vagy nyugdíj előtti álláskeresési segélyre jogosult vagy abban részesülő álláskereső az 58. § (5) bekezdés d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében a 25. § (2) bekezdésében meghatározott megfelelő munkahelyet köteles elfogadni.
 
@@ -50,7 +52,7 @@ b) a négy órát meghaladja, és a munkavégzés helyétől számított 20 km-e
 
 a foglalkoztató gondoskodik.
 
-(10c) Ha a közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a napi pihenő idő eltöltésére a lakóhelytől különböző településen kerül sor, az álláskereső csak abban az esetben köteles a felajánlott munkahelyet elfogadni, ha az családi körülményeire (különösen kiskorú gyermek gondozása, közeli hozzátartozó ápolása stb.) tekintettel hátrányos következményekkel nem jár. Ebben a kérdésben a lakóhelye szerinti települési önkormányzat jegyzőjének nyilatkozata az irányadó.
+(10c) Ha a közfoglalkoztatási jogviszony keretében történő foglalkoztatás esetében a napi pihenő idő eltöltésére a lakóhelytől különböző településen kerül sor, az álláskereső csak abban az esetben köteles a felajánlott munkahelyet elfogadni, ha az családi körülményeire (különösen kiskorú gyermek gondozása, hozzátartozó ápolása stb.) tekintettel hátrányos következményekkel nem jár. Ebben a kérdésben a lakóhelye szerinti települési önkormányzat jegyzőjének nyilatkozata az irányadó.
 
 (11) Az állami foglalkoztatási szerv álláskeresőként – a (12) bekezdésben foglaltak figyelembe vételével – kérelmére azt a személyt veszi nyilvántartásba, aki
 
@@ -72,7 +74,7 @@ b) az 58. § (5) bekezdés d) pont 1–4. alpontjaiban meghatározott feltétele
 
 c) meghalt, vagy
 
-d) jelentkezési kötelezettségének személyesen vagy elektronikus levél útján nem tesz eleget, vagy
+d) jelentkezési kötelezettségének személyesen vagy e-ügyintézési tv.-ben foglaltak szerint nem tesz eleget, vagy
 
 e) a (9) bekezdés c) és e)–g) pontjában, valamint a (10) bekezdésben foglalt együttműködési kötelezettségének nem tesz eleget, vagy
 
@@ -88,7 +90,7 @@ i)
 
 a) az állami foglalkoztatási szerv által támogatott képzésben vesz részt,
 
-b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
+b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszonyt) folytat,
 
 c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 
@@ -96,7 +98,7 @@ d) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondoz
 
 e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt, továbbá
 
-f) szabadságvesztés időtartama alatt.
+f) szabadságvesztés büntetését tölti, annak időtartama alatt, kivéve, ha a fogvatartott reintegrációs őrizetben van.
 
 (14b) Az álláskereső (9) bekezdés c) pontja szerinti bejelentési kötelezettsége a (14a) bekezdés szerinti szünetelés időtartama alatt is fennáll.
 

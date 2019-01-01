@@ -24,7 +24,7 @@ gb) munkaerő-piaci státusza,
 
 gc) annak ténye, hogy megváltozott munkaképességűnek minősül-e,
 
-gd) annak ténye, hogy a gc) ponton belül fogyatékkal élőnek minősül-e,
+gd) annak ténye, hogy a gc) ponton belül fogyatékossággal élőnek minősül-e,
 
 ge) a résztvevő önkéntes nyilatkozata alapján, nemzetiségének megjelölése,
 
@@ -32,11 +32,11 @@ gf) annak ténye, hogy tartós munkanélkülinek minősül-e,
 
 gg) annak ténye, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
 
-gh) annak ténye, hogy 18 éven aluli gyermeket nevel-e saját háztartásában,
+gh)
 
-gi) annak ténye, hogy egyetlen felnőttből álló háztartásban él-e,
+gi)
 
-gj) annak ténye, hogy munkanélküli háztartásban él-e,
+gj)
 
 gk) annak ténye, hogy hajléktalan-e.
 
@@ -54,7 +54,7 @@ he) annak ténye, hogy az intézkedés keretében képzettséget szerzett-e,
 
 hf) milyen szolgáltatásban, illetve támogatásban részesült a program keretében.
 
-(3) A (2) bekezdés alapján nyilvántartásba vett adatokba a foglalkoztatáspolitika koordinációjával, a foglalkoztatási és képzési célú programok kidolgozásával, a hazai és nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a foglalkoztatáspolitikáért felelős miniszter, nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter, valamint az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
+(3) A (2) bekezdés alapján nyilvántartásba vett adatokba a foglalkoztatáspolitika koordinációjával, a foglalkoztatási és képzési célú programok kidolgozásával, a hazai és nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a miniszter, nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter, valamint az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
 
 (4) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 

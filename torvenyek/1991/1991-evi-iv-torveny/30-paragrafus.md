@@ -16,7 +16,7 @@ e) korhatár előtti ellátásban, szolgálati járandóságban, táncművészet
 
 (3) Az álláskeresési segély az álláskereső öregségi nyugdíj, megváltozott munkaképességű személyek ellátása jogosultságának megszerzéséig terjedő időtartamra folyósítható.
 
-(4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtásának napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – elektronikus levél útján küldte meg, az álláskeresési segély folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
+(4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtásának napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – e-ügyintézési tv.-ben foglaltak szerint küldte meg, az álláskeresési segély folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
 
 (5) Megszűnik az álláskeresési segély folyósítása a 28. § (1) bekezdés a)–f) pontjában meghatározott esetben. Meg kell szüntetni az álláskeresési segély folyósítását a 28. § (2) bekezdésében meghatározott esetben.
 
@@ -26,7 +26,7 @@ e) korhatár előtti ellátásban, szolgálati járandóságban, táncművészet
 
 a) a 29. § (1) bekezdés b) és c) pontjában, valamint e) és f) pontjában meghatározott esetben,
 
-b) a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
+b) – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével – a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
 
 c) 90 napra, ha az álláskereső a 36. § (1) bekezdésében meghatározott bejelentési kötelezettséget elmulasztotta,
 

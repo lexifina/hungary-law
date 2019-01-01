@@ -22,13 +22,13 @@ d) a munkahely és a lakóhely közötti naponta – tömegközlekedési eszköz
 
 e) az álláskereső foglalkoztatása munkaviszonyban történik.
 
-(3) A megváltozott munkaképességű álláskereső esetében az (1) bekezdés d) pontjában előírt feltétel alkalmazásában a munkahely akkor megfelelő, ha megfelel a (2) bekezdés a)–c) és e) pontjában foglalt feltételeknek, és a munkahely és a lakóhely közötti naponta – a megváltozott munkaképességű álláskereső által igénybe vehető közlekedési eszközzel – történő oda- és visszautazás ideje a két órát nem haladja meg.
+(3) A megváltozott munkaképességű személy esetében az (1) bekezdés d) pontjában előírt feltétel alkalmazásában a munkahely akkor megfelelő, ha megfelel a (2) bekezdés a)–c) és e) pontjában foglalt feltételeknek, és a munkahely és a lakóhely közötti naponta – a megváltozott munkaképességű személy által igénybe vehető közlekedési eszközzel – történő oda- és visszautazás ideje a két órát nem haladja meg.
 
 (4) Az (1) bekezdés b) pontjában meghatározott jogosultsági idő időtartamába nem számítható be a fizetés nélküli szabadság harminc napot meghaladó időtartama, kivéve, ha annak igénybevételére
 
 a) háromévesnél – ha a munkavállaló a gyermek gondozása céljából gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesül, tizennégy évesnél – fiatalabb gyermek gondozása, vagy tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása [a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. § és 130. §], valamint
 
-b) közeli hozzátartozó ápolása [Mt. 131. § (1) és (2) bekezdése], továbbá
+b) hozzátartozó ápolása [Mt. 131. § (1) és (2) bekezdése], továbbá
 
 c)
 

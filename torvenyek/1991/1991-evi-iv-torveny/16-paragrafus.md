@@ -13,3 +13,5 @@ c) kötelezettséget vállal arra, hogy a b) pont szerinti munkaviszony megszün
 (3) Ha a munkaadó szociális szövetkezet, a támogatás mértéke a munkabér és járuléka legfeljebb 70 százalékáig terjedhet, feltéve, hogy a munkaadó vállalja a hátrányos helyzetű személy továbbfoglalkoztatását legalább a támogatás folyósítási időtartama 50 százalékának megfelelő időtartamra.
 
 (4) A (3) bekezdésben meghatározott támogatás esetén a támogatás és a továbbfoglalkoztatás együttes időtartama legfeljebb egy év, súlyosan hátrányos helyzetű személy foglalkoztatása esetén legfeljebb két év lehet.
+
+(5) Az (1) és (3) bekezdésben meghatározott támogatás igénybevétele érdekében a támogatás időtartama alatt az arra rászoruló hozzátartozó ápolásával, gondozásával, valamint a gyermek – ideértve az örökbefogadott és nevelt gyermek – felügyeletével kapcsolatban a támogatott munkavállaló kérelmére a felmerült indokolt költség megtéríthető.

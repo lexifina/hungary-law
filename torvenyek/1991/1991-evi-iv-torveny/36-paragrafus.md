@@ -1,6 +1,6 @@
 ## Az ellátásokra vonatkozó közös rendelkezések
 
-36. § (1) Az e törvény alapján ellátásban részesülő személy a jogosultság feltételeit érintő lényeges tények és körülmények megváltozásáról a tudomásszerzéstől számított 15 napon belül köteles értesíteni az ellátást megállapító szervet. E kötelezettségének elektronikus levél útján is eleget tehet.
+36. § (1) Az e törvény alapján ellátásban részesülő személy a jogosultság feltételeit érintő lényeges tények és körülmények megváltozásáról a tudomásszerzéstől számított 15 napon belül köteles értesíteni az ellátást megállapító szervet. E kötelezettségének e-ügyintézési tv.-ben foglaltak szerint is eleget tehet.
 
 (2) Az állami foglalkoztatási szerv az ügyfél kérelmére a kérelem benyújtásától számított 8 napon belül igazolást ad ki
 
