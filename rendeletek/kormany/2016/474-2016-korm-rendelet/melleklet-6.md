@@ -1,10 +1,10 @@
-## REGISZTRÁCIÓS KÉRELEM
+## KÉRELEM
 
-## a hazai rendezésű sportesemények rendezésének állami támogatásához
+## KORMÁNYGARANCIA VÁLLALÁSRA
 
-| A. | B. |
+## a hazai rendezésű nemzetközi sportesemények megrendezésére vonatkozó pályázatának benyújtásához
 
-| 1. Az Emberi Erőforrások Minisztériumához (EMMI) regisztrációs kérelmet benyújtó sportszövetségre vonatkozó adatok |
+| 1. Az Emberi Erőforrások Minisztériumához (EMMI) kormánygaranciára vonatkozó kérelmet benyújtó sportszövetségre vonatkozó adatok |
 
 | A sportszövetség |
 
@@ -20,9 +20,17 @@
 
 | 1.6. Telefonszáma: |  |
 
-| 1.7. Faxszáma: |  |
+| 1.7. E-mail-címe: |  |
 
-| 1.8. E-mail címe: |  |
+| 1.8. Nemzetközi eredményesség (az elmúlt öt évben világbajnokságon, Európa-bajnokságon, világkupán elért pontszerző helyezések): | tárgyévet megelőző 5. évben |  |
+
+| tárgyévet megelőző 4. évben |  |
+
+| tárgyévet megelőző 3. évben |  |
+
+| tárgyévet megelőző 2. évben |  |
+
+| tárgyévet megelőző évben |  |
 
 | 2. A sporteseményre vonatkozó adatok |
 
@@ -36,57 +44,139 @@
 
 | 2.4. Jellege: | világbajnokság |  |
 
-| Európa-bajnokság |  |
+|  | Európa-bajnokság |  |
 
-| Világkupa |  |
+|  | Világkupa |  |
 
-| 2.5. Tervezett létesítménye: | Papp László Budapest Sportaréna |  |
+|  | Olimpiai/paralimpiai kvalifikációs verseny |  |
 
-| a Nemzeti Sportközpontok vagyonkezelésében, üzemeltetésében lévő létesítmény |  |
+| 2.5. Tervezett létesítménye: | neve: |  |
 
-| egyéb: |  |
+|  | címe: |  |
 
-| 2.6. Jelentősége: | olimpiai/paralimpiai kvalifikáció |  |
+| 2.6. A sporteseményen részt vevő országok várható száma: |  | A sporteseményen részt vevő magyar versenyzők várható száma: |  |
 
-| egyéb: |  |
+| 2.7. A sporteseményre kilátogató nézők várható száma: |  | A sporteseményen részt vevő sajtó munkatársak várható száma: |  |
 
-| 2.7. A pályázat nemzetközi szövetséghez történő benyújtásának időpontja: |  |
+| 2.8. A sportesemény várható média megjelenése: |  | Várható vendégéjszakák száma: |  |
 
-| 2.8. A rendezés jogáról való döntés időpontja: |  |
+| 2.9. A sportesemény sportdiplomáciai jelentősége: |  |  |  |
 
-| 2.9. Szükséges-e a Kormány előzetes garanciavállalása: |  |
+| 3. Pályázási folyamattal kapcsolatos információk |
 
-| 2.10. Ha szükséges létesítmény-beruházás, felújítás, rendelkezésre áll-e saját, állami, önkormányzati, illetve egyéb piaci forrás: |  |
+| 3.1. A pályázat nemzetközi szövetséghez történő benyújtásának időpontja: |  |
 
-| 3. A sportesemény tervezett bevételei (ezer Ft) |
+| 3.2. A rendezés jogáról való döntés időpontja: |  |
 
-| 3.1. Az EMMI-től igénylendő támogatás: |  |
+| 3.3. Garanciavállalás jellege: | pénzbeli |  |
 
-| 3.2. Egyéb, sport célú állami támogatási igény: | Intézmény: | Összeg: |
+|  | garancialevél ellenjegyzése50 |  |
 
-| 3.3. A sportesemény megrendezésével összefüggő már elnyert sport célú állami támogatás: | Intézmény: | Összeg: |
+## 50 Amennyiben a pályázatbenyújtásához egy vagy több garancia levél aláírása szükséges a kormánytól vagy bármely más közjogi szervezettől, a kérelemhez a garancialevél/garancialevelek magyar és angol nyelvű változatát is csatolni szükséges.
 
-| 3.4. A megvalósításra tervezett saját forrás: |  |
+| 4. Létesítményfejlesztéssel kapcsolatos információk |
 
-| 3.5. Tervezett összes bevétel: |  |
+| 4.1. Van-e az eseménnyel kapcsolatban létesítményfejlesztési támogatási igény? | igen: | nem: |
 
-| 4. A sportesemény tervezett kiadásai (ezer Ft) |
+| 4.2. Eseménnyel kapcsolatos létesítmény fejlesztési támogatási igény esetén: |
 
-| 4.1. Tervezett összes kiadás: |  |
+| 4.2.1. Létesítmény neve: |  |
 
-| 5. A sporteseménnyel kapcsolatos egyéb adatok |
+| 4.2.2. Létesítmény címe: |  |
 
-| 5.1. A sportesemény sportdiplomáciai jelentősége: |  |
+| 4.2.3. A létesítmény fenntartója / üzemeltetője: |  |
 
-| 5.2. A létesítmény-beruházás, -fejlesztés hosszú távú hatásai: |  |
+| 4.2.4. A beruházás rövid összefoglalása: |  |
 
-| 5.3. Létesítmény-beruházás, -fejlesztés várható költsége (ezer Ft): |  |
+| 4.2.5. Létesítményfejlesztéssel kapcsolatos beruházás tervezett összege: |  |
 
-| 5.4. Az eszközbeszerzés várható költsége (ezer Ft): |  |
+| 4.2.6. A létesítmény-beruházás, -fejlesztés hosszú távú hatásai: |  |
+
+| 5. A sportesemény tervezett költségvetése |  |
+
+| 5.1. Bevételek éves bontásban (ezer Ft) | év | év | év | év | év | Összesen |
+
+| 5.1.1. Az EMMI-től igényelt, közvetlenül a rendezéssel összefüggő támogatás: |  |  |  |  |  |  |
+
+| 5.1.2. Egyéb sport célú állami támogatás (intézmény): |  |  |  |  |  |  |
+
+| 5.1.3. Saját bevételek |  |  |  |  |  |  |
+
+| 5.1.3.1. Szponzori bevételek |  |  |  |  |  |  |
+
+| 5.1.3.2. Reklámbevétel összesen: |  |  |  |  |  |  |
+
+| 5.1.3.3. Tv jogdíj: |  |  |  |  |  |  |
+
+| 5.1.3.4. Jogtulajdonostól származó bevétel: |  |  |  |  |  |  |
+
+| 5.1.3.5. Jegybevétel: |  |  |  |  |  |  |
+
+| 5.1.3.6. Akkreditáció díjak: |  |  |  |  |  |  |
+
+| 5.1.3.7. Nevezési díjak: |  |  |  |  |  |  |
+
+| 5.1.3.8. Egyéb bevétel: |  |  |  |  |  |  |
+
+| 5.1.4. Bevételek összesen: |  |  |  |  |  |  |
+
+| 5.2. Kiadások éves bontásban (ezer Ft) | év | év | év | év | év | Összesen |
+
+| 5.2.1. Jogdíj: |  |  |  |  |  |  |
+
+| 5.2.2. Reklámjogdíj: |  |  |  |  |  |  |
+
+| 5.2.3. Tv jogdíj: |  |  |  |  |  |  |
+
+| 5.2.4. Utazási költség: |  |  |  |  |  |  |
+
+| 5.2.5. Szállásköltség: |  |  |  |  |  |  |
+
+| 5.2.6. Étkezési költség: |  |  |  |  |  |  |
+
+| 5.2.7. Szállítás (helyi) összesen: |  |  |  |  |  |  |
+
+| 5.2.8. Létesítmény bérleti díja (technikai feltételek biztosításával) összesen: |  |  |  |  |  |  |
+
+| 5.2.9. Versenyhelyszín kiépítésével összefüggő kiadások összesen: |  |  |  |  |  |  |
+
+| 5.2.10. Sajtóközpont, média állások: |  |  |  |  |  |  |
+
+| 5.2.11. Bérleti díjak összesen: |  |  |  |  |  |  |
+
+| 5.2.12. Akkreditáció: |  |  |  |  |  |  |
+
+| 5.2.13. Érmek/serlegek: |  |  |  |  |  |  |
+
+| 5.2.14. Tiszteletdíjak |  |  |  |  |  |  |
+
+| 5.2.15. Eseménnyel kapcsolatos ünnepségek/értekezletek |  |  |  |  |  |  |
+
+| 5.2.16. Biztonsági szolgálat: |  |  |  |  |  |  |
+
+| 5.2.17. Sportegészségügyi/ mentőszolgálat: |  |  |  |  |  |  |
+
+| 5.2.18. Doppingellenőrzés: |  |  |  |  |  |  |
+
+|  | év | év | év | év | év | Összesen |
+
+| 5.2.19. Informatikai szolgáltatás: |  |  |  |  |  |  |
+
+| 5.2.20. Marketing kiadások összesen: |  |  |  |  |  |  |
+
+| 5.2.21. Személyi jellegű kiadások összesen: |  |  |  |  |  |  |
+
+| 5.2.22. Formaruha: |  |  |  |  |  |  |
+
+| 5.2.23. Eszközbeszerzés várható költsége |  |  |  |  |  |  |
+
+| 5.2.24. Egyéb kiadások: |  |  |  |  |  |  |
+
+| 5.2.25. Kiadások összesen |  |  |  |  |  |  |
 
 ## Kelt: ..............................................................
 
-## Kijelentem, hogy a közölt adatok a valóságnak megfelelnek. Tudomásul veszem, hogy ha a regisztrációs kérelmen valótlan adatok szerepelnek, a támogató a támogatást visszavonja.
+## Kijelentem, hogy a közölt adatok a valóságnak megfelelnek.
 
 ## P. H.
 

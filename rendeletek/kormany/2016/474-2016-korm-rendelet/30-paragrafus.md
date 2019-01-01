@@ -1,3 +1,5 @@
+## 29/A. §[^20] Ha a kedvezményezettnek a támogatás felhasználása, vagy annak ellenőrzése során visszafizetési kötelezettsége keletkezik, a kedvezményezett köteles a visszafizetést igazoló banki kivonatot a visszafizetés napján elektronikus úton megküldeni a támogatási szerződésben megjelölt kapcsolattartónak, egyidejűleg jeleznie kell a visszafizetés okát.
+
 ## IV. Fejezet
 
 ## A SPORTTEVÉKENYSÉG TÁMOGATÁSÁNAK ÁLTALÁNOS SZABÁLYAI
@@ -17,3 +19,5 @@ d) a feladat megvalósításához szükséges eszközök, felszerelések,
 e) beruházási és felújítási célú kiadások.
 
 (3) Az előirányzatokon rendelkezésre álló források harmadik személy részére továbbadhatóak, amelynek elszámolásáért a költségvetési forrás kedvezményezettje felel.
+
+[^20]: A 29/A. §-t a 279/2018. (XII. 21.) Korm. rendelet 18. §-a iktatta be.

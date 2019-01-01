@@ -114,4 +114,6 @@
 
 | ** kitöltése a pályázat nyerteseiről meghozott döntés birtokában kötelező |  |  |  |  |
 
-2. melléklet a 474/2016. (XII. 27.) Korm. rendelethez
+2. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^47]
+
+[^47]: A 2. melléklet a 279/2018. (XII. 21.) Korm. rendelet 24. § (1) bekezdése szerint módosított szöveg.

@@ -6,4 +6,9 @@
 
 (3) A támogatási szerződésben meghatározott módon – a kedvezményezett írásbeli indokolási kötelezettsége mellett – a költségtervben rögzített összegek – a bérköltség és egyéb személyi jellegű kifizetések, a munkaadókat terhelő járulékok, a dologi kiadások, a beruházás és a felújítás rovatok (a továbbiakban együtt: a költségterv rovatai) szintjén – a költségvetési támogatás és – ha az előírásra került – a saját forrás főösszegén belül eltérhetnek.
 
-(4) A költségvetési támogatás terhére történő felhasználás esetében a (3) bekezdés szerinti, a támogatási szerződésben meghatározott mértéket, de a költségterv rovatai szintjén pozitív irányban külön-külön legalább húsz százalékot meghaladó eltérés elfogadására csak a támogatási szerződés módosítása keretében kerülhet sor az (1) bekezdésben foglaltak figyelembevételével.
+(4)[^11] A költségvetési támogatás terhére történő felhasználás esetében a (3) bekezdés szerinti, a támogatási szerződésben meghatározott mértéket, de a költségterv rovatai szintjén pozitív irányban külön-külön legfeljebb húsz százalékot meghaladó eltérés elfogadására csak a támogatási szerződés módosítása keretében kerülhet sor az (1) bekezdésben foglaltak figyelembevételével.
+
+(5)[^12] A Kormány egyedi döntésével biztosított támogatás terhére történő felhasználás esetében a költségterv rovatai szintjén történő eltérés elfogadására csak a Kormány engedélyével kerülhet sor az (1) bekezdésben foglaltak figyelembevételével.
+
+[^11]: A 20. § (4) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^12]: A 20. § (5) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 14. §-a iktatta be.

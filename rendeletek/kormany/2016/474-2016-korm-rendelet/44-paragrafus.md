@@ -2,7 +2,7 @@
 
 44. § (1) A miniszter Gerevich Aladár-sportösztöndíjként kiemelt sportösztöndíjat és szövetségi sportösztöndíjat adományozhat az olimpiai, paralimpiai, sakkolimpiai, speciális világjáték-válogatott kerettag versenyző, valamint a felkészítésében közreműködő edző, szövetségi kapitány, válogatott vezetőedző és a versenyző felkészítésében közvetlenül részt vevő egyéb sportszakember [a (8)–(17) bekezdés alkalmazásában, a továbbiakban együtt: edző] részére.
 
-(2) A sportösztöndíj tárgyévi keretösszegét, valamint a (8)–(17) bekezdés alapján sportösztöndíjban részesíthető természetes személyek legnagyobb számát a miniszter állapítja meg. A szövetségi sportösztöndíj keretét a miniszter a 7. melléklet szerinti pontérték-táblázat alapján az érintett sportköztestület javaslatára figyelemmel határozza meg azzal, hogy az egyes sportágak keretösszegeit a sportági összpontszám arányában veszi figyelembe.
+(2)[^32] A sportösztöndíj tárgyévi keretösszegét, valamint a (8)–(17) bekezdés alapján sportösztöndíjban részesíthető természetes személyek legnagyobb számát a miniszter állapítja meg. A szövetségi sportösztöndíj keretét a miniszter a 7. melléklet szerinti pontérték-táblázat figyelembevételével és az érintett sportköztestület javaslatára figyelemmel határozza meg.
 
 (3) A (8)–(17) bekezdésben meghatározott jogosultsági feltételek mellett sportösztöndíjra
 
@@ -70,7 +70,7 @@ b) edző esetén a legjobb eredményt elért versenyzőjének eredményessége �
 
 ## figyelemmel dönt.
 
-(11) A versenyző a (9) bekezdés a) pont aa) és ab) alpontjában, c) és d) pontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra. Az edző a (9) bekezdés b) pont ba) és bb) alpontjában, c) és d) pontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra.
+(11)[^33] A versenyző a (9) bekezdés a) pont aa) és ab) alpontjában, c) és d) pontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra. Az edző a (9) bekezdés b) pont ba) és bb) alpontjában, c) és d) pontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra. Egy személy versenyzőként vagy edzőként részesülhet költségvetési támogatásban.
 
 (12) Szövetségi sportösztöndíjban részesíthető a (8) bekezdés hatálya alá nem tartozó felnőtt, valamint utánpótlás korosztályban induló versenyző, és a felkészítését végző edző.
 
@@ -84,6 +84,14 @@ b) edző esetén havonta legalább ötvenezer, legfeljebb háromszázezer forint
 
 (15) A Magyar Speciális Olimpiai Szövetség részére biztosítandó sportösztöndíj-keret kizárólag edzők támogatására fordítható.
 
-(16) A szövetségi sportösztöndíj pályázati rendszerben kerül felhasználásra, a pályázatot a miniszter írja ki és dönt a beérkezett pályázatokról.
+(16)[^34] A szövetségi sportösztöndíj a sportszövetségek egyedi kérelme alapján kerül felhasználásra, a miniszter dönt a szövetségi ösztöndíjban részesülő személyekről és a sportösztöndíj összegéről.
 
-(17) Az Stv. 58. § (2) bekezdésében meghatározott sportköztestületek félévente egy alkalommal a miniszter részére javasolhatják az éves keretösszegen belül a költségvetési támogatás mértékének, valamint a támogatott személyek körének a módosítását.
+(17)[^35] Az Stv. 58. § (2) bekezdésében meghatározott sportköztestületek, továbbá az érintett országos sportági szakszövetségek félévente egy alkalommal a miniszter részére javasolhatják az éves keretösszegen belül a költségvetési támogatás mértékének, valamint a támogatott személyek körének a módosítását.
+
+(18)[^36] Gerevich Aladár-sportösztöndíjban részesülő személy egyidejűleg nem támogatható a Kiemelt Edzői Program keretében.
+
+[^32]: A 44. § (2) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^33]: A 44. § (11) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^34]: A 44. § (16) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^35]: A 44. § (17) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^36]: A 44. § (18) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 20. § (4) bekezdése iktatta be.
