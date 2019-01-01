@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-282-20-
 | 2017-09-02 | 2016-282-20-22.5 | 2010: CXXX. törvény |
 | 2017-11-01 | 2016-282-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-11-02 | 2016-282-20-22.7 | 2010: CXXX. törvény |
+| 2019-01-01 | 2016-282-20-22.8 | 266/2018. (XII. 20.) Korm. rendelet |

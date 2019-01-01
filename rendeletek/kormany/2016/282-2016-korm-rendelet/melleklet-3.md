@@ -6,9 +6,9 @@
 
 | 2. | államtudományi | Science of Public Governance | államtudományi és közigazgatási | Science of Public Governance and Public Administration | közigazgatás- szervező | Public Administration Manager | a) közigazgatás-szervező, általános igazgatási szakirányon b) közigazgatás-szervező, nemzetközi közigazgatási szakirányon c) közigazgatás-szervező, adóigazgatási szakirányon | a) Public Administration Manager with Specialisation in General Administration b) Public Administration Manager with Specialisation in International Public Administration c) Public Administration Manager with Specialisation in Tax Administration | 6 |
 
-| 3. |  |  | rendészeti | Law Enforcement | bűnügyi igazgatási | Criminal Administration | a) bűnügyi igazgatásszervező, bűnügyi nyomozó szakirányon b) bűnügyi igazgatásszervező, bűnügyi hírszerző szakirányon c) bűnügyi igazgatásszervező, gazdaságvédelmi nyomozó szakirányon d) bűnügyi igazgatásszervező, pénzügyi nyomozó szakirányon | a) Crime Administration Manager in Crime Investigation b) Crime Administration Manager in Criminal Intelligence c) Crime Administration Manager in Economic Crime Investigaton d) Crime Administration Manager in Finance Investigation | 6 |
+| 3. |  |  | rendészeti | Law Enforcement | bűnügyi igazgatási | Criminal Administration | a) bűnügyi igazgatásszervező, bűnügyi nyomozó szakirányon b) bűnügyi igazgatásszervező, bűnügyi hírszerző szakirányon c) bűnügyi igazgatásszervező, gazdaságvédelmi nyomozó szakirányon d) bűnügyi igazgatásszervező, pénzügyi nyomozó szakirányon e) bűnügyi igazgatásszervező, informatikai nyomozó szakirányon | a) Crime Administration Manager in Crime Investigation b) Crime Administration Manager in Criminal Intelligence c) Crime Administration Manager in Economic Crime Investigaton d) Crime Administration Manager in Finance Investigation e) Crime Administration Manager in Information Technology | 6 |
 
-| 4. |  |  |  |  | bűnügyi | Criminal Policing | a) bűnügyi nyomozó tiszt b) bűnügyi felderítő tiszt c) gazdaságvédelmi nyomozó tiszt d) pénzügyi nyomozó | a) Criminal Investigation Officer b) Criminal Intelligence Officer c) Economic Crime Investigation Officer d) Financial Crime Investigation Officer | 6 |
+| 4. |  |  |  |  | bűnügyi | Criminal Policing | a) bűnügyi nyomozó tiszt b) bűnügyi felderítő tiszt c) gazdaságvédelmi nyomozó tiszt d) pénzügyi nyomozó e) kiber nyomozó tiszt | a) Criminal Investigation Officer b) Criminal Intelligence Officer c) Economic Crime Investigation Officer d) Financial Crime Investigation Officer e) Cybercrime Investigation Officer | 6 |
 
 | 5. |  |  |  |  | rendészeti igazgatási | Law Enforcement Administration | a) rendészeti igazgatásszervező, biztonsági szakirányon b) rendészeti igazgatásszervező, büntetés-végrehajtási szakirányon c) rendészeti igazgatásszervező, határrendészeti szakirányon d) rendészeti igazgatásszervező, igazgatásrendészeti szakirányon e) rendészeti igazgatásszervező, közlekedésrendészeti szakirányon f) rendészeti igazgatásszervező, közrendvédelmi szakirányon g) rendészeti igazgatásszervező, migrációs szakirányon h) rendészeti igazgatásszervező, vám- és jövedéki igazgatási szakirányon | a) Law Enforcement Administration Manager in Private Security b) Law Enforcement Administration Manager in Prison Studies c) Law Enforcement Administration Manager in Border Policing d) Law Enforcement Administration Manager in Administrive Policing e) Law Enforcement Administration Manager in Traffic Policing f) Law Enforcement Administration Manager in Public Order Policing g) Law Enforcement Administration Manager in Migration Policing h) Law Enforcement Administration Manager in Customs and Excise Administration | 6 |
 
@@ -314,6 +314,8 @@
 
 ## d) bűnügyi igazgatásszervező, pénzügyi nyomozó szakirányon
 
+## e) bűnügyi igazgatásszervező, informatikai nyomozó szakirányon
+
 ## – a szakképzettség angol nyelvű megjelölése:
 
 ## a) Crime Administration Manager in Crime Investigation
@@ -324,7 +326,9 @@
 
 ## d) Crime Administration Manager in Finance Investigation
 
-## – választható szakirányok: bűnügyi nyomozó, bűnügyi hírszerző, gazdaságvédelmi nyomozó, pénzügyi nyomozó (Crime Investigation, Criminal Intelligence, Economic Crime Investigaton, Finance Investigation)
+## e) Crime Administration Management in Information Technology
+
+## – választható szakirányok: bűnügyi nyomozó, bűnügyi hírszerző, gazdaságvédelmi nyomozó, informatikai nyomozó, pénzügyi nyomozó (Crime Investigation, Criminal Intelligence, Economic Crime Investigaton, Finance Investigation, Information Technology).
 
 ## 3. Képzési terület: államtudományi
 
@@ -382,7 +386,9 @@
 
 ## – a gazdaságvédelmi nyomozó szakirányon végzett birtokában van azoknak a speciális kriminalisztikai és bűnügyi szolgálati, valamint pénzügyi és gazdasági jogi ismereteknek, amelyek alkalmazásával a gazdasági jellegű bűncselekmények felderítése és bizonyítása terén eredményes munkát tud végezni;
 
-## – a pénzügyi nyomozó szakirányon végzett birtokában van azoknak a speciális jövedéki, adójogi, gazdaságvédelmi, valamint vám és vámeljárás jogi, Nemzeti Adó- és Vámhivatal informatikai (NCTS, CDPS, Robotzsaru, TADLEK rendszerek) ismereteknek, illetve bűnügyi szolgálati ismereteknek, amelyek alkalmazásával képes a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó bűncselekmények vizsgálatára.
+## – a pénzügyi nyomozó szakirányon végzett birtokában van azoknak a speciális jövedéki, adójogi, gazdaságvédelmi, valamint vám és vámeljárás jogi, Nemzeti Adó- és Vámhivatal informatikai (NCTS, CDPS, Robotzsaru, TADLEK rendszerek) ismereteknek, illetve bűnügyi szolgálati ismereteknek, amelyek alkalmazásával képes a Nemzeti Adó- és Vámhivatal hatáskörébe tartozó bűncselekmények vizsgálatára;
+
+## – az informatikai nyomozó szakirányon végzett birtokában van azoknak a speciális kriminalisztikai és bűnügyi szolgálati, valamint informatikai ismereteknek, amelyek alkalmazásával a kiberteret sértő, illetve informatikai eszközök felhasználásával elkövetett bűncselekmények felderítése és bizonyítása terén eredményes munkát tud végezni.
 
 ## 7.4. A szakon végzettek rendelkeznek kapcsolatteremtő, problémafelismerő és problémamegoldó képességgel, együttműködési és kommunikációs készséggel, idegen nyelvtudással, minőség iránti igénnyel, felelősségtudattal és a szolgálati feladatok ellátásához szükséges – jogszabályban meghatározott – fizikai-kondicionális állapottal és önvédelmi ismeretekkel.
 
@@ -398,7 +404,7 @@
 
 ## 8.3. differenciált szakmai ismeretek: 33–37 kredit
 
-## bűnügyi nyomozó, bűnügyi hírszerző, gazdaságvédelmi nyomozó, pénzügyi nyomozó szakirányokhoz tartozó speciális ismeretkörök.
+## bűnügyi nyomozó, bűnügyi hírszerző, gazdaságvédelmi nyomozó, pénzügyi nyomozó, informatikai nyomozó szakirányokhoz tartozó speciális ismeretkörök.
 
 ## 9. Szakmai gyakorlat:
 
@@ -434,6 +440,8 @@
 
 ## 2.3.4. adó- és pénzügyi nyomozó
 
+## 2.3.5. kiber nyomozó
+
 ## 2.4. a választható szakirányok angol nyelvű megjelölése:
 
 ## 2.4.1. Criminal Investigation
@@ -443,6 +451,8 @@
 ## 2.4.3. Economic Crime Investigation
 
 ## 2.4.4. Financial Crime Investigation
+
+## 2.4.5. Cybercrime Investigation
 
 ## 2.5. szakirány esetén a szakképzettség:
 
@@ -454,6 +464,8 @@
 
 ## 2.5.4. pénzügyi nyomozó
 
+## 2.5.5. kiber nyomozó tiszt
+
 ## 2.6. a szakképzettség angol nyelvű megjelölése:
 
 ## 2.6.1. Criminal Investigation Officer
@@ -463,6 +475,8 @@
 ## 2.6.3. Economic Crime Investigation Officer
 
 ## 2.6.4. Financial Crime Investigation Officer
+
+## 2.6.5. Cybercrime Investigation Officer
 
 ## 2.7. választható specializációk: –
 
@@ -808,6 +822,50 @@
 
 ## 4. projektekben és csoportmunkában a rá eső feladatokat önállóan, felelősséggel végzi, de elfogadja az együttműködés szükségességét is.
 
+## 7.5. Szakirány megnevezése: kiber nyomozó szakirány
+
+## Tudás:
+
+## 1. mélyreható tudással bír a valós és a kibertérben elkövetett olyan információs rendszer és elektronikus adat elleni bűncselekmények felderítéséről, bizonyításáról és minősítéséről, azok informatikai, speciális jogi, kriminalisztikai és bűnügyi szolgálati ismeretekről;
+
+## 2. ismeri az információs rendszerek működésének alapjait;
+
+## 3. az információs rendszerek bűnüldözés szempontjából releváns szegmenseiről részletes ismeretekkel rendelkezik;
+
+## 4. behatóan ismeri a büntetőeljárásban alkalmazható eljárási cselekmények, kényszerintézkedések foganatosításának követelményeit és a gyakorlati alkalmazás szabályait.
+
+## Képesség:
+
+## 1. képes az információs rendszer és elektronikus adat elleni bűncselekmények felderítése, bizonyítása és minősítése terén egyaránt eredményes munka végzésére;
+
+## 2. képes a nyomozati munka ideiglenesen létrehozott szervezeteiben folyó munka
+
+## koordinálására;
+
+## 3. képes az információs rendszer és elektronikus adat elleni bűncselekmények megelőzése, felderítése, nyomozása, bizonyítása érdekében együttműködni az információs rendszereket használó, üzemeltető személyekkel, szervezetekkel;
+
+## 4. képes az információs rendszer és elektronikus adat elleni bűncselekmények nyomozásához szükséges speciális forenzikus eszközök, informatikai eszközök és szoftverek célirányos használatára;
+
+## 5. képes a kibervédelem területén feladatokat ellátó szervekkel, szervezetekkel együttműködni;
+
+## 6. képes beosztott vezetőként az állomány munkájának irányítására;
+
+## 7. képes a feladatához, valamint a szervezeti egysége számára szükséges nemzetközi bűnügyi együttműködésben aktívan részt venni.
+
+## Attitűd:
+
+## 1. jellemzi a problémafelismerés és problémamegoldás;
+
+## 2. nyitott az új technológiák megismerésére, elsajátítására, az életen át tartó tanulásra;
+
+## 3. nyitott a bűnüldöző szervek közti legjobb gyakorlatok megismerésére, cseréjére.
+
+## Autonómia és felelősség:
+
+## 1. felelősséget érez a szakterületnek megfelelő feladatok tervezése, szervezése, végrehajtása iránt;
+
+## 2. törekszik a hivatásrendek képviselőivel való együttműködésre.
+
 ## 8. Az alapképzés jellemzői:
 
 ## 8.1. Szakmai jellemzők
@@ -846,7 +904,7 @@
 
 ## – titkos ügykezeléssel kapcsolatos ismeretek;
 
-## gazdasági nyomozó szakirány
+## gazdasági nyomozó szakirány:
 
 ## – pénzügyi, számviteli ismeretek;
 
@@ -854,13 +912,23 @@
 
 ## – gazdaságvédelmi ismeretek;
 
-## adó- és pénzügyi nyomozó szakirány
+## adó- és pénzügyi nyomozó szakirány:
 
 ## – adóztatási ismeretek;
 
 ## – vám- és jövedéki ismeretek;
 
-## – külkereskedelmi ismeretek.
+## – külkereskedelmi ismeretek;
+
+## kiber nyomozó szakirány:
+
+## – adatbázisok, operációs rendszerek;
+
+## – informatikai biztonság alapjai;
+
+## – számítógép hálózatok, távközlési rendszerek és adatvédelem;
+
+## – kiber bűncselekmények nyomozása, minősítése.
 
 ## 8.2. Idegennyelvi követelmény: Az alapfokozat megszerzéséhez az Európai Unióban hivatalos nyelvek egyikéből vagy ukrán, szerb, beás, lovári, orosz, illetve kínai nyelvből államilag elismert, középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy ezzel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
 
@@ -3692,7 +3760,7 @@
 
 ## Az alapfokozat megszerzéséhez két idegen nyelvből – melyből az egyik az angol nyelv – államilag elismert legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy angol nyelvből államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány vagy ezekkel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
 
-3. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^5]
+3. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^6]
 
 MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKKÉPZETTSÉGEK JEGYZÉKE
 
@@ -3704,11 +3772,15 @@ MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKK�
 
 | 3. |  |  |  | Public Adminis- tration | közigazgatási |  | Public Administration | a) okleveles közigazgatási szakértő, közigazgatás- tudományi szakirányon; b) okleveles közigazgatási szakértő, közigazgatási vezető szakirányon; c) okleveles közigazgatási szakértő, európai és nemzetközi közigazgatási szakirányon | a) Expert of Public Administration with Specialisation in Administrative Science; b) Expert of Public Administration with Specialisation in Public Management; c) Expert of Public Administration with Specialisation in European and International Administration. | 7 |
 
+| 3a. |  |  |  |  | kiberbiztonsági |  | Cyber Security | okleveles kiberbiztonsági szakértő | Cyber Security Expert | 7 |
+
 | 4. |  |  | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi közszolgálati kapcsolatok |  | International Public Service Relations | a) nemzetközi közszolgálati szakértő, nemzetközi közigazgatási tanulmányok szakirányon b) nemzetközi közszolgálati szakértő, biztonsági tanulmányok szakirányon c) nemzetközi közszolgálati szakértő, rendészeti tanulmányok szakirányon d) nemzetközi közszolgálati szakértő, Európa-tanulmányok szakirányon | a) Expert in International Public Service Specialised in International Public Administration Studies b) Expert in International Public Service Specialised in Security Studies c) Expert in International Public Service Specialised in Policing Studies d) Expert in International Public Service Specialised in European Studies | 7 |
 
 | 5. |  |  |  |  | International Public Service Relations |  | International Public Service Relations | nemzetközi közszolgálati szakértő | Expert in International Public Service | 7 |
 
 | 6. |  |  |  |  | európai és nemzetközi igazgatás |  | European and International Administration | okleveles európai és nemzetközi igazgatásszervező | European and International Administration Expert | 7 |
+
+| 6a. |  |  |  |  | nemzetközi vízpolitika és vízdiplomácia |  | International Water Governance and Diplomacy | okleveles nemzetközi vízpolitikai menedzser | International Water Governance Manager | 7 |
 
 | 7. |  |  | rendészeti | Law Enforcement | rendészeti vezető |  | Law Enforcement Management | okleveles rendészeti vezető | Law Enforcement Manager | 7 |
 
@@ -4253,6 +4325,184 @@ A mesterképzésbe való felvétel feltétele, hogy a hallgatónak a kreditek me
 – vezetési ismeretek (maximum 10 kredit).
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 50 kredittel rendelkezzék a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
+
+2/A. KIBERBIZTONSÁGI MESTERKÉPZÉSI SZAK
+
+1. A mesterképzési szak megnevezése: kiberbiztonsági (Cyber Security)
+
+2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+
+– végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
+
+– szakképzettség: okleveles kiberbiztonsági szakértő
+
+– a szakképzettség angol nyelvű megjelölése: Cyber Security Expert
+
+3. Képzési terület: államtudományi, az NKE tv. 3. §-ában meghatározott felsőoktatási terület: államtudományi és közigazgatási
+
+4. A mesterképzésbe történő belépésnél előzményként elfogadott szakok:
+
+4.1. Teljes kreditérték beszámításával vehető figyelembe: –
+
+4.2. A 9.4. pontban meghatározott kreditek teljesítésével elsősorban számításba vehető: az államtudományi osztatlan mesterképzési szak, a bűnügyi igazgatási, a gazdaságinformatikus, a had- és biztonságtechnikai mérnöki, a katasztrófavédelem, a katonai gazdálkodási, a katonai logisztika, a katonai üzemeltetés, a katonai vezetői, a közigazgatás-szervező, a mérnök informatikus, a nemzetbiztonsági, a nemzetközi biztonság- és védelempolitikai, a biztonság- és védelempolitikai, a nemzetközi igazgatási, a polgári nemzetbiztonsági, a programtervező informatikus és a rendészeti igazgatási alapképzési szak.
+
+4.3. A 9.4. pontban meghatározott kreditek teljesítésével vehetők figyelembe továbbá azok az alapképzési és mesterképzési szakok, illetve a felsőoktatásról szóló 1993. évi LXXX. törvény szerinti szakok, amelyeket a kredit megállapításának alapjául szolgáló ismeretek összevetése alapján a felsőoktatási intézmény kreditátviteli bizottsága elfogad.
+
+5. A képzési idő félévekben: 4 félév
+
+6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
+
+6.1. A szak orientációja: kiegyensúlyozott (40–60 százalék)
+
+6.2. A diplomamunka készítéséhez rendelt kreditérték: 20 kredit
+
+6.3. A szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
+
+7. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 0312
+
+8. A mesterképzési szak képzési célja és a szakmai kompetenciák:
+
+A képzés célja olyan felsőfokú végzettséggel rendelkező szakemberek felkészítése, akik a közigazgatás, a védelmi igazgatás, a külügyi igazgatás területeihez tartozó szervezeteknél vezetői és szakértői munkakörökben képesek a kiberbiztonsági feladatok tervezését, szervezését és irányítását eredményesen végrehajtani. A mesterképzés azokra a kiberbiztonsági kérdésekre, aktuális és jövőbeli kihívásokra fókuszál, amelyekkel az állami és a magánszférának, illetve a társadalomnak egyaránt szembe kell néznie. A hallgatók széles körű ismereteket szereznek a kiberbiztonság elméleti és gyakorlati oldaláról, biztonsági, környezeti, társadalmi és gazdasági aspektusairól. A differenciált szakmai tananyag elsajátítása során (nemzetközi kapcsolatok a kiberbiztonságban, közszolgálati kiberbiztonság-menedzsment, létfontosságú elektronikus információs rendszerek védelme) alkalmassá válnak szakterületüknek megfelelően kutatási, fejlesztési és tervezési feladatok ellátására, védelmi problémakörök tudományos igényű elemzésére és következtetések kialakítására. Felkészültségük alapján alkalmassá válnak tanulmányaik doktori (PhD) képzés keretében folytatására.
+
+8.1. Az elsajátítandó szakmai kompetenciák
+
+8.1.1. Az okleveles kiberbiztonsági szakértő
+
+a) tudása
+
+– Ismeri azokat a fontosabb előírásokat a szabályozásokból, melyek a mindennapi munkáját befolyásolják.
+
+– Ismeri a nemzetközi jog alkalmazhatóságát a kibertérben.
+
+– Átlátja, hogy milyen védelmi megoldások vannak a kibertámadás ellen.
+
+– Ismeri a kibertámadás esetén alkalmazandó eljárásokat.
+
+– Ismeri a létfontosságú rendszerelemek fogalmát.
+
+– Átlátja a munkáltatók által meghatározott belső szabályzatok megalkotásának szükségességét az információs rendszerekben tárolt adatok sértetlensége és a rendelkezésre állás tekintetében.
+
+– Tisztában van a nyomozóhatóság feladataival az egyes állami szervezetek, vállalatok és intézményeket érő támadások esetén.
+
+– Átlátja a kibertérrel kapcsolatos diplomáciai, illetve politikai információmegosztás folyamatát, valamint az esetleges válaszlépéseket.
+
+– Tisztában van az információmegosztás folyamatával bűncselekmény felmerülése esetén.
+
+– Ismeri a fedett környezetből történő információgyűjtés eljárásait.
+
+– Tisztában van az emberi tényező szerepével a kibertámadások kivitelezése során.
+
+– Ismeri a kártékony kódok fogalmát és hatásmechanizmusát.
+
+– Tisztában van az állami kibervédelmi rendszerrel.
+
+– Megérti a szervezeti feladatokat a kibervédelemben.
+
+b) képességei
+
+– Képes értelmezni a jogszabályokból eredő követelményeket.
+
+– Képes megszerezni a szervezet vezetőinek támogatását a jogszabályi megfelelőség kiépítéséhez.
+
+– Képes átlátni a kibertér speciális jogállását.
+
+– Képes a szükséges mértékben alkalmazni a kibertérre vonatkozó nemzetközi jogot kibertámadások esetén.
+
+– Képes olyan védelmi intézkedések meghozatalára, melyek segítik a humán fenyegetettségből eredő kockázatok csökkentését.
+
+– Képes olyan technológiai védelmi intézkedések meghozatalára, melyek a cyber kill chain egyes elemeihez kapcsolódnak.
+
+– Képes felmérni a belső munkavállalók jelentette kiberbiztonsági kockázatokat.
+
+– Képes olyan szabályzatok alkotására, melyek a belső munkavállalók jelentette fenyegetések kezelésére vonatkoznak.
+
+– Képes együttműködni a nyomozóhatósággal a kiberbiztonsági eseményeket érintő nyomozások során.
+
+– Képes a szervezeténél keletkezett információkat oly módon megosztani külső szereplővel, hogy az ne sértse saját szervezetének érdekét, de hatékonyan tudja támogatni a külső felet.
+
+– Képes a keletkezett információk megosztásának szükségességével kapcsolatban komplex következtetések levonására.
+
+– Képes átlátni a kibertér aktuális fenyegetéseit.
+
+– Képes támogatni szervezetét a kibervédelmi képességek kialakításában.
+
+– Képes megfelelően támogatni szervezetét és a külső feleket egy kibertámadás kezelésében.
+
+c) attitűdje
+
+– Munkája során figyelembe veszi és alkalmazza a kiberbiztonsággal kapcsolatos jogszabályokat.
+
+– Megérti és elfogadja a nemzetközi kiberjog komplexitását, ennek köszönhetően a munkája során törekszik ennek a komplexitásnak a kezelésére.
+
+– A maga komplexitásában tervezi meg az információbiztonsági irányítási rendszert.
+
+– Hatékony lépéseket tesz a kibertámadások megelőzése érdekében, így csökkentve a szervezete kitettségét.
+
+– Kiemelt kockázatként kezeli a belső munkavállalókat, és ennek megfelelően tervezi meg az információbiztonsági folyamatokat.
+
+– Szükség esetén támogatja a külső feleket a szervezeténél keletkezett információk megosztásával.
+
+– Partner abban, hogy se a szervezete, se ő maga ne váljon kibertámadás áldozatává.
+
+d) autonómiája és felelőssége
+
+– Tudatosan törekszik a kiberbiztonság sajátosságainak megfelelő, korszerű ismeretek hazai és nemzetközi szinten történő gyakorlati alkalmazására.
+
+– Önállóan dolgozza fel az új és összetett információkat, problémákat, illetve jelenségeket rendszerszerű és kritikus módon.
+
+– Kezdeményező módon lép fel az alternatív, eredeti megoldások kidolgozásában, bemutatásában és a bonyolult, nem tipikus helyzetekben történő adekvát döntések meghozatalában.
+
+– Vállalja a szakterület, a szakmai praxis módszertanának fejlesztéséhez szükséges elméleti, tudományos kutatási és gyakorlati információk beszerzésének, értékelésének és hasznosításának végrehajtását.
+
+– Felelősséget vállal a kiberbiztonság összefüggő ismeretének és a meghatározó jogi, szabályozási és gazdasági összefüggések ismeretének alapján a szakmai javaslatok kidolgozásában.
+
+– Értékkötelezett módon vesz részt a kibertér komplexitásának és kölcsönhatásainak ismerete által a különböző hivatásrendek feladatainak szervezésében.
+
+– Önállóan és pontosan vesz részt a kiberbiztonsági fenyegetések technológiai, politikai és adminisztratív megoldásában.
+
+– Vállalja a kiberbiztonsági fenyegetések kezelésének felelősségét.
+
+– Kezdeményezőként dolgozik a technikai és operatív teendők stratégiai célokká való konvertálásában.
+
+– Gyakorlatába beépíti és alkalmazza az e szakterületen folyó kutatások eredményeit.
+
+9. A mesterképzés jellemzői
+
+9.1. Szakmai jellemzők
+
+9.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
+
+– Államtudományi, jogi és közigazgatás-szervezési ismeretek (Jogi és közigazgatási ismeretek, A magyar közigazgatás szervezeteinek és szakigazgatási rendszereinek működése, Közmenedzsment, elektronikus közszolgáltatások, Kiberbiztonsági szabályozások és szabványok, Adatvédelem, adatbiztonság): 10–15 kredit
+
+– Információbiztonsági és biztonságszervezési ismeretek (Kockázatértékelés, kockázatmenedzsment, Irányítási rendszerek, Kiberbiztonsági stratégia és vezetés, Információs rendszerek és hálózatok biztonsága, Biztonságtechnika, Incidensmenedzsment): 25–30 kredit
+
+– Nemzetközi tanulmányok és biztonságpolitikai ismeretek (Biztonságpolitika, Kiberdiplomácia, A kibertér aktorai): 10–15 kredit
+
+– Rendészeti szakismeretek (Kiberbűnözés, Hírszerzés a kibertérben, Digitális nyomrögzítés): 10–15 kredit
+
+– Alkalmazott infokommunikációs szakismeretek (Adatbányászat, Biztonsági technológiák alkalmazása, Kriptográfia a közszolgálatban, Biztonsági tesztelés): 10–15 kredit
+
+– Katonai és védelmi szakismeretek (Kiberhadviselés, Létfontosságú rendszerek védelme): 10–15 kredit
+
+– Vezetési és kommunikációs szakismeretek (Vezetéselmélet, Válságmenedzsment és kommunikáció, A kiberbiztonság pszichológiai aspektusai, A kiberbiztonság humán tényezői): 10–15 kredit
+
+9.2. Idegennyelvi követelmény
+
+A mesterfokozat megszerzéséhez angol nyelvből államilag elismert középfokú (B2) komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél, vagy legalább STANAG 6001 2.2.2.2. nyelvvizsga-bizonyítvány szükséges.
+
+9.3. A szakmai gyakorlat követelményei:
+
+A szakmai gyakorlat kritériumkövetelmény, amelynek időtartama – egybefüggően – legalább 10 hét, amelyet kifejezetten kiberbiztonsággal foglalkozó szakmai környezetben kell a hallgatónak teljesítenie.
+
+9.4. A 4.2. és 4.3. pontban megadott oklevéllel rendelkezők esetén a mesterképzési képzési ciklusba való belépés minimális feltételei:
+
+A mesterképzésbe való belépéshez szükséges minimális kreditek száma 60 kredit az alábbi területekről:
+
+– informatikai ismeretek (30 kredit): a szoftvertechnológia, a rendszertechnika és az adatbázisok és információs rendszerek ismeretkörei, kriptográfia alkalmazása, számítógépek architektúrája és számítógépes hálózatok témakörei;
+
+– államtudományi és társadalomtudományi ismeretek (30 kredit): közigazgatási jog, alkotmányjog, büntetőjog, közigazgatási büntetőjog, közigazgatási rendtartás, alkotmány- és jogtörténet, európai közjog, nemzetközi jog, államtan, közgazdaságtan, szociológia, politológia, pszichológia, vezetés- és szervezéselmélet.
+
+A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 30 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
 3. NEMZETKÖZI KÖZSZOLGÁLATI KAPCSOLATOK MESTERKÉPZÉSI SZAK
 
@@ -5024,6 +5274,154 @@ A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – fels
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 50 kredittel rendelkezzen a hallgató. A hiányzó 10 kreditet a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
 
+5/A. NEMZETKÖZI VÍZPOLITIKA ÉS VÍZDIPLOMÁCIA MESTERKÉPZÉSI SZAK
+
+1. A mesterképzési szak megnevezése: nemzetközi vízpolitika és vízdiplomácia (International Water Governance and Diplomacy)
+
+2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+
+– végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
+
+– szakképzettség: okleveles nemzetközi vízpolitikai menedzser
+
+– a szakképzettség angol nyelvű megjelölése: International Water Governance Manager
+
+3. Képzési terület, az NKE tv. 3. §-ában meghatározott felsőoktatási terület: államtudományi, nemzetközi és európai közszolgálati
+
+4. A mesterképzésbe történő belépésnél előzményként elfogadott szakok:
+
+4.1. Teljes kreditérték beszámításával vehető figyelembe: a Nemzeti Közszolgálati Egyetem és jogelőd intézményeinek bármely főiskolai képzésében, egyetemi képzésében, alapképzési szakán vagy mesterképzési szakán szerzett felsőfokú végzettség.
+
+4.2. A 9.4. pontban meghatározott kreditek teljesítésével vehetők figyelembe továbbá azok az alapképzési és mesterképzési szakok, illetve a felsőoktatásról szóló 1993. évi LXXX. törvény szerinti szakok, amelyeket a kredit megállapításának alapjául szolgáló ismeretek összevetése alapján a felsőoktatási intézmény kreditátviteli bizottsága elfogad.
+
+5. A képzési idő félévekben: 4 félév
+
+6. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
+
+6.1. A szak orientációja: elméletorientált (60–70 százalék)
+
+6.2. A diplomamunka készítéshez rendelt kreditérték: 5 kredit
+
+6.3. Az intézményen kívüli összefüggő gyakorlati képzés minimális kreditértéke: 5 kredit
+
+6.4. A szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 6 kredit
+
+7. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 0312
+
+8. A mesterképzési szak képzési célja, a szakmai kompetenciák:
+
+A képzés célja olyan szakértők képzése, akik megszerzett ismereteik birtokában képesek a nemzetközi, az európai uniós és a hazai vízügyi szervezeteknél nemzetközi vonatkozású feladatok ellátására.
+
+8.1. Az elsajátítandó szakmai kompetenciák:
+
+Az okleveles nemzetközi vízpolitikai menedzser
+
+a) tudása
+
+– Ismeri a nemzetközi vízügyi kapcsolatok történeti, jogi és politikai vonatkozásait.
+
+– Ismeri az Európai Unió vízügyi politikáját, illetve intézményi rendszerét.
+
+– Ismeri a nemzetközi vízügyi rendszer működésének regionális dimenzióit.
+
+– Átlátja a vízdiplomácia összefüggéseit.
+
+– Átlátja a válságkezelés nemzetközi és hazai rendszerét.
+
+– Ismeri a vízgazdálkodás összefüggéseit.
+
+– Tisztában van a vízügyi terület alapvető nemzetközi ismeretköreivel.
+
+– Átlátja a magyar állam és államigazgatás nemzetközi vízügyi kapcsolatrendszerét.
+
+– Ismeri a magyar nemzeti vízstratégia fejlődésének irányait.
+
+– Átlátja a vízgazdálkodás hazai és nemzetközi összefüggéseit.
+
+– Ismeri a feladat ellátásához szükséges szaknyelvet.
+
+b) képességei
+
+– Képes a vízgazdálkodás témakörét integráltan kezelni.
+
+– Képes a nemzetközi, illetve európai vízpolitikai folyamatok értelmezésére és formálására.
+
+– Képes a vízdiplomáciai döntések előkészítésére és meghozatalára.
+
+– Képes integrált ismeretek széles körű alkalmazására nemzetközi vízügyi területeken.
+
+– Képes a nemzetközi szervezetek és intézmények tevékenységében való részvételre.
+
+– Képes konfliktushelyzetek kezelésére, eredményes tárgyalási és együttműködési technikák alkalmazására.
+
+– Képes végrehajtó és irányító feladatkörök ellátására.
+
+c) attitűdje
+
+– Elkötelezett a vízügy iránt, felelősségteljes, toleráns magatartást tanúsít, mások véleményét tiszteletben tartja.
+
+– Elemzőkészség, problémafelismerő és problémamegoldó készség jellemzi.
+
+– Információ-feldolgozási készség, módszertani tudatosság jellemzi.
+
+– Kezdeményezőkészség, személyes felelősségvállalás jellemezi, döntéshozatali képességgel rendelkezik.
+
+– Alkalmas a csoportmunkára.
+
+– Magas fokú kommunikációs és kapcsolatteremtő készség és viselkedéskultúra jellemzi.
+
+d) autonómiája és felelőssége
+
+– Tudatosan törekszik a vízpolitika és vízdiplomácia sajátosságainak megfelelő, korszerű ismeretek hazai és nemzetközi szinten történő gyakorlati alkalmazására.
+
+– Önállóan dolgozza fel az új és összetett információkat, problémákat, jelenségeket rendszerszerű és kritikus módon.
+
+– Vállalja a szakterület módszertanának fejlesztéséhez szükséges elméleti, tudományos kutatási és gyakorlati információk beszerzésének, értékelésének és hasznosításának végrehajtását.
+
+– Felelősséget vállal a vízpolitikával és vízdiplomáciával összefüggő ismeretének és a meghatározó jogi, szabályozási és gazdasági összefüggések ismeretének alapján a szakmai javaslatok kidolgozásában.
+
+– Kezdeményező módon lép fel a bonyolult, nem tipikus helyzetekben történő adekvát döntések meghozatalában.
+
+– Kezdeményezőként dolgozik a technikai és operatív teendők stratégiai célokká való konvertálásában.
+
+– Gyakorlatába beépíti és alkalmazza az e szakterületen folyó kutatások eredményeit.
+
+9. A mesterképzés jellemzői:
+
+9.1. Szakmai jellemzők
+
+A szakképzettség szempontjából meghatározó tudományágak illetve szakterületek, amelyekből a szak felépül:
+
+– Vízügyi ismeretek (Bevezetés a hidrológiába, Víz az antropocén korában: a globális vízválság és hatásai, Integrált vízgazdálkodás, Vízgyűjtő-gazdálkodás) (15–40 kredit)
+
+– Vízpolitikai alapismeretek és konfliktuskezelés (Általános vízpolitikai ismeretek, Döntéstámogató eszközök, Közgazdaságtan, Kommunikáció és vízügyi konfliktuskezelés és -megelőzés) (12–25 kredit)
+
+– Jogi ismeretek (Bevezetés a vízjogba, Nemzetközi vízjog, Az Európai Unió vízügyi politikája és szabályozása) (15–35 kredit)
+
+– Nemzetközi vízpolitikai ismeretek (A vízpolitikai irányítás alapvető kérdései, A nemzetközi vízpolitika alapvető kérdései, A nemzetközi vízpolitikai irányítás intézményei, Víz az Egyesült Nemzetek Szervezetében, Magyarország nemzetközi vízügyi kapcsolatai, együttműködései) (20–45 kredit)
+
+– Nemzetközi konfliktuskezelés és diplomáciai alapismeretek (Konfliktus és együttműködés elméletei, Nemzetközi konfliktuskezelés intézményei, Diplomáciai alapismeretek, Konfliktuskezelés és kommunikáció, A vízügyi konfliktusmegelőzés és -kezelés) (9–20 kredit)
+
+9.2. Idegen nyelvi követelmények:
+
+A mesterfokozat megszerzéséhez angol nyelvből államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
+
+9.3. A szakmai gyakorlat követelményei:
+
+A szakmai gyakorlat időtartama – egybefüggően – legalább 4 hét, amelyet kifejezetten vízpolitikával, illetve vízdiplomáciával foglalkozó szakmai környezetben kell a hallgatónak teljesítenie.
+
+9.4. A 4.2. pontban megadott oklevéllel rendelkezők esetén a mesterképzési képzési ciklusba való belépés minimális feltételei:
+
+A mesterképzésbe való belépéshez szükséges minimális kreditek száma 60 kredit a korábbi tanulmányok alapján, az alábbi ismeretkörökben:
+
+– politikatudományi, jogi, műszaki, vízgazdálkodási, gazdasági, természettudományi, társadalomtudományi ismeretek, nemzetközi tanulmányok.
+
+A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 30 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
+
+9.5. A képzést megkülönböztető speciális jegyek:
+
+A képzés kizárólag angol nyelven folyik.
+
 6. RENDÉSZETI VEZETŐ MESTERKÉPZÉSI SZAK
 
 1. A mesterképzési szak megnevezése: rendészeti vezető (Law Enforcement Management)
@@ -5476,398 +5874,4 @@ A szakon végzettek az elsajátított magas szintű és széles spektrumú ismer
 
 – bűnügyi területen a szakmai követelményeknek leginkább megfelelő vezetési és irányítási eszközök alkalmazására,
 
-– adatbázisok és egyéb rendelkezésre álló társadalmi tudáskomplexum információinak értelmezésére, összekapcsolására, tendenciák megállapítására,
-
-– a rendelkezésre álló nyilvántartások komplex és hatékony igénybevételére, és a kinyert adatok összekapcsolására, összefüggések felismerésére,
-
-– társszervekkel való hatékony, informatív és kooperatív együttműködésre,
-
-– arra, hogy megfelelő módon tudják értelmezni a különféle területen készült szakértői véleményeket,
-
-– a legújabb eljárások bevezetésére, a tudomány és a technika új eszközeinek és módszereinek alkalmazására.
-
-8.3. A szakképzettség gyakorlásához szükséges adottságok és készségek:
-
-– a szakma iránti elkötelezettség,
-
-– a szakma önálló végzéséhez szükséges gyakorlat,
-
-– interdiszciplináris látásmód,
-
-– megfelelő szintű általános és szakmai idegennyelv-tudás,
-
-– információ feldolgozási képesség,
-
-– kreativitás, rugalmasság és határozottság,
-
-– jó kommunikációs és együttműködési attitűd,
-
-– problémafelismerő és megoldó készség,
-
-– a minőségi munkavégzés iránti elkötelezettség,
-
-– környezettel szembeni érzékenység,
-
-– az élethosszig tartó tanuláshoz szükséges pozitív hozzáállás,
-
-– kezdeményezés, személyes felelősségvállalás,
-
-– képesség az informatikai és elektronikus kommunikációs rendszerek alkalmazására,
-
-– alkalmasság az együttműködésre és csoportmunkában való részvételre.
-
-9. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
-
-9.1. Az alapképzésben megszerzett ismereteket tovább bővítő, a mesterfokozathoz szükséges alapozó ismeretkörök: 25–30 kredit
-
-– bűnmegelőzési ismeretek,
-
-– a bűnügyi munka időszerű kérdéseihez kapcsolódó főbb elméleti ismeretek,
-
-– az egyes nyílt és operatív eszközökkel megszerezhető büntetőjogilag releváns információk elemzésére és felhasználására vonatkozó ismeretek,
-
-– az általánostól eltérő bűnügyi (szervezett bűnözéssel, terrorizmussal, külföldi alannyal összefüggő) helyzetek hatékony kezelése,
-
-– tudományos kutatásmódszertani ismeretek,
-
-– elektronikus információbiztonsági, valamint a minősített adatok elektronikus védelmével kapcsolatos ismeretek,
-
-– bűnügyi statisztikai ismeretek,
-
-– kriminálpszichológia.
-
-9.2. A szakmai törzsanyag kötelező ismeretkörei: 53–58 kredit:
-
-– bűnelemzés-profilalkotás módszertana,
-
-– egyes bűncselekményfajták nyomozásának nemzetközi összehasonlító metodikája,
-
-– kriminalisztika a tárgyalóteremben,
-
-– nyomozásirányítás és vezetés,
-
-– rendészeti értékelő-elemző munka,
-
-– kockázatelemzés,
-
-– nemzetközi bűnügyi együttműködési rendszerek (Europol, Eurojust, harmadik országok),
-
-– bűnügyi technikai ismeretek,
-
-– bűnügyi orvosi ismeretek,
-
-– igazságügyi szakértői vélemények elemzése,
-
-– magánnyomozás kriminalisztikai sajátosságai.
-
-9.3. Differenciált szakmai ismeretek szakirányok szerint 30–35 kredit:
-
-a) rendészeti szakirányon:
-
-– titkos információgyűjtés a bűnüldözésben,
-
-– titkos adatszerzés (jogi háttere és gyakorlata) a büntetőeljárásban,
-
-– bizonyításelméleti kérdések,
-
-– hazugságvizsgálati módszerek,
-
-– vagyonvisszaszerzés kriminalisztikai kérdései,
-
-– a szervezett bűnözés kriminalisztikája,
-
-b) polgári szakirányon:
-
-– büntetőjog,
-
-– büntető eljárásjog,
-
-– közigazgatási jog,
-
-– krimináltechnika,
-
-– krimináltaktika.
-
-9.4. A szabadon választható tantárgyakhoz rendelhető kreditek száma minimálisan: 6 kredit
-
-10. A képzéshez kapcsolt szakmai gyakorlat követelményei:
-
-A képzés 2. szemesztere után négy hetes szakmai gyakorlat teljesítése.
-
-11. Idegen nyelvi követelmények:
-
-A mesterfokozat megszerzéséhez az Európai Unióban hivatalos nyelvek egyikéből vagy ukrán, szerb, beás, lovári, orosz, illetve kínai nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
-
-12. A mesterképzésbe való felvétel feltételei:
-
-A hallgatónak rendelkeznie kell a kreditmegállapítás alapjául szolgáló ismeretkörökből – a nemzeti felsőoktatásról szóló törvényben előírtaknak megfelelően – legalább 60 elismerhető kredittel a korábbi tanulmányai alapján az alábbi ismeretkörökben:
-
-– társadalomtudományi ismeretek,
-
-– jogtudományi ismeretek,
-
-– általános igazgatási ismeretek,
-
-– szakigazgatási ismeretek,
-
-– pénzügyi-közgazdasági ismeretek,
-
-– közszolgálati és munkajogi ismeretek,
-
-– közgazdasági menedzsment ismeretek,
-
-– európai uniós ismeretek,
-
-– természettudományi ismeretek.
-
-A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 50 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
-
-9. NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK
-
-1. A mesterképzési szak megnevezése: nemzetbiztonsági (National Security Studies)
-
-2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
-
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
-
-– szakképzettség: okleveles nemzetbiztonsági szakértő
-
-– a szakképzettség angol nyelvű megjelölése: National Security Expert
-
-– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági, terrorelhárítási (Military National Security Specialisation, Civilian National Security Specialisation, Counter Terrorism Specialisation)
-
-3. Képzési terület: államtudományi
-
-4. Az NKE tv. 3. §-ában meghatározott felsőoktatási terület: nemzetbiztonsági
-
-5. A mesterképzésbe történő belépésnél előzményként elfogadott szakok:
-
-5.1. Teljes kreditérték beszámításával vehető figyelembe: a nemzetbiztonsági alapképzési szak, valamint a polgári nemzetbiztonsági alapképzési szak.
-
-5.2. A bemenethez a 12. pontban meghatározott kreditek teljesítésével elsősorban számításba vehető alapképzési szakok: a katonai vezetői, a bűnügyi igazgatási, a rendészeti igazgatási.
-
-5.3. A 12. pontban meghatározott kreditek teljesítésével vehetők figyelembe továbbá azok a legalább alapfokozatot adó alapképzési szakok, illetve a felsőoktatásról szóló 1993. évi LXXX. törvény szerinti főiskolai szintű szakok, amelyeket a kredit megállapításának alapjául szolgáló ismeretek összevetése alapján a felsőoktatási intézmény kreditátviteli bizottsága elfogad.
-
-6. A képzési idő félévekben: 4 félév
-
-7. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
-
-7.1. Az alapozó ismeretekhez rendelhető kreditek száma: 15–25 kredit
-
-7.2. A szakmai törzsanyaghoz rendelt minimális kreditérték: 40 kredit
-
-7.3. A differenciált szakmai anyaghoz rendelhető kreditek száma a diplomamunkával együtt: 45–60 kredit
-
-7.4. A szabadon választható tantárgyakhoz rendelhető kreditek minimális értéke: 6 kredit
-
-7.5. A diplomamunkához rendelt kreditérték: 20 kredit
-
-8. A mesterképzési szak képzési célja, az elsajátítandó szakmai kompetenciák:
-
-A képzés célja olyan nemzetbiztonsági szakemberek képzése, akik korszerű társadalomtudományi és szakmaspecifikus ismeretek felhasználásával képesek a nemzetbiztonsági szakterület szervezeteiben a munkakörükhöz tartozó követelmények és feladatok eredményes teljesítésére, alkalmasak a szakmai elmélet és módszertan fejlesztésére, a szakmai kultúra és értékrend továbbadására, tanulmányaik PhD képzés keretében való folytatására.
-
-8.1. A mesterképzési szakon szerezhető ismeretek:
-
-– nemzetbiztonsági, védelmi, rendvédelmi és társadalomtudományi elméleti és gyakorlati szakismeretek,
-
-– általános és a nemzetbiztonsági, a védelmi, a rendvédelmi szakterületen alkalmazható vezetéselméleti és alkalmazott pszichológiai ismeretek,
-
-– az államigazgatási, a nemzetközi közjogi és szakmai jogi szabályozás alapvető ismeretei,
-
-– a kutatáshoz vagy tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikák ismerete,
-
-– a globális társadalmi és gazdasági folyamatok ismerete.
-
-8.2. A mesterképzési szakon végzettek alkalmasak:
-
-– a nemzetbiztonsági szakmai tevékenység sajátosságainak megfelelő, korszerű ismereteket a gyakorlatban alkalmazni, a biztonságot fenyegető kihívások, kockázatok, fenyegetések és veszélyek elemzésére és értékelésére,
-
-– a szakmai feladatok végrehajtásához, a szervezetek vezetéséhez szükséges információk beszerzésének megszervezésére, elemzésére és értékelésére, hasznosítására,
-
-– a biztonsági helyzet, a szakmai tevékenység céljának, körülményeinek értékelésére, az eredményes szakmai tevékenységhez a rendelkezésre álló humánerőforrások, speciális eszközök és módszerek szakszerű alkalmazására, a helyzet szakmai érdekeknek megfelelő alakítására, és ahhoz való rugalmas alkalmazkodásra,
-
-– a nemzetbiztonsági szolgálatok, a rendvédelmi és a rendészeti szervek, valamint a védelmi igazgatás szervei közötti szakmai kooperáció szervezésére,
-
-– új és összetett problémák felismerésére, információk feldolgozására, a problémamegoldó technikák széleskörű, kreatív alkalmazására,
-
-– a bonyolult, nem tipikus helyzetekben alternatív, eredeti megoldások kidolgozására és bemutatására, helytálló döntések előkészítésére, meghozatalára, a feladatok aprólékos megszervezésére és következetes végrehajtására,
-
-– egyedi és összetett szakmai kérdések elemzésének, komplex szakértői értékelésének elvégzésére, írásos és szóbeli formában hatásos kommunikációra,
-
-– idegen nyelvi ismereteik birtokában a nemzetközi szervezetek, intézmények tevékenységéhez történő kapcsolódásra,
-
-– önműveléssel és önfejlesztés útján szaktudásának fejlesztésére, az ismeretek átadására,
-
-– a szakmai kultúra és etika értékrendjének megőrzésére, továbbadására.
-
-8.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
-
-– kreativitás, kombinatív gondolkodás, autonómia,
-
-– problémafelismerő, -elemző és -megoldó készség, döntésképesség,
-
-– konspirációs és szerepjátszó képesség, széles viselkedésrepertoár,
-
-– intuíció és módszeresség, jó memória,
-
-– információ feldolgozási képesség,
-
-– kommunikációs készség, empátiakészség, bizalomteremtés képessége,
-
-– stressztűrés, mentális egészség, fizikai állóképesség, pszichés teherbíró képesség,
-
-– elkötelezettség, önbizalom, önkontroll,
-
-– alkalmasság az együttműködésre, igény a minőségi munkavégzésre,
-
-– alkalmasság a csoportmunkában való részvételre, kellő gyakorlat után vezetői feladatok ellátására.
-
-9. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
-
-9.1. Az alapképzésben megszerzett ismereteket tovább bővítő, mesterfokozathoz szükséges alapozó ismeretkörök:
-
-– társadalomtudományi alapismeretek: 15–25 kredit
-
-biztonságpolitikai ismeretek, nemzetközi- és államigazgatási jog, politikaelmélet, szociológiai ismeretek, vezetés- és szervezéselmélet, emberierőforrás-fejlesztés és gazdálkodás, közgazdaságtan, hadtudományi ismeretek, kutatás módszertan.
-
-9.2. A szakmai törzsanyag kötelező ismeretkörei: 40–50 kredit
-
-nemzetbiztonsági szakmai ismeretek, hírszerzés, elhárítás, szakági jogi ismeretek, idegen titkosszolgálatok, elektronikai hadviselés és információs műveletek, biztonsági stratégiák és rendszerek, a 21. század biztonsági kihívásai, katonai- és békeműveletek nemzetbiztonsági aspektusai, információk elemzése, értékelése és védelme, rendvédelmi szakmai ismeretek, a szakszolgálati tevékenység rendszere, közszolgálati és szakmai etika.
-
-9.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 25–40 kredit differenciált szakmai ismeretek:
-
-terrorelhárítási;
-
-– választható szakterületi modulok
-
-diplomáciai és protokoll ismeretek, NATO tanulmányok, válságkörzetek kutatása, védelmi tervezés, a védelmi igazgatás rendszere, a nemzetbiztonsági szolgálatok és rendvédelmi feladatokat ellátó szervek gazdálkodása és humán tevékenysége, nemzetközi szakmai kapcsolatok, speciális mentálhigiénés ismeretek, speciális vezetéspszichológiai ismeretek és tréning, kommunikációs ismeretek és tréning, civil-katonai kapcsolatok, haditechnikai kutatás és fejlesztés;
-
-– diplomamunka 20 kredit.
-
-10. A képzéshez kapcsolt gyakorlat követelményei:
-
-A szakmai gyakorlat időtartamát a felsőoktatási intézmény tanterve határozza meg.
-
-11. Idegennyelvi követelmények:
-
-A mesterfokozat megszerzéséhez az Európai Unió valamely hivatalos nyelvéből vagy valamely nem Európai Unió tag szomszéd ország nyelvéből vagy a következő nyelvek egyikéből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy ezzel egyenértékű bizonyítvány vagy okirat szükséges: arab, japán, kínai, orosz, perzsa, török nyelv.
-
-12. A mesterképzésbe való felvétel feltételei:
-
-A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 60 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben: társadalomtudományi és természettudományi ismeretek, állam és jogtudományi ismeretek, rendészettudományi ismeretek, hadtudományi ismeretek, vezetési ismeretek, biztonságpolitikai ismeretek, általános igazgatási ismeretek, szakigazgatási ismeretek, közszolgálati ismeretek, európai uniós ismeretek, műszaki ismeretek, haditechnikai ismeretek, informatikai ismeretek, nemzetbiztonsági ismeretek.
-
-A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 30 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
-
-10. POLGÁRI NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK
-
-1. A mesterképzési szak megnevezése: polgári nemzetbiztonsági (Civilian National Security Studies)
-
-2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
-
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MA)
-
-– szakképzettség: okleveles polgári nemzetbiztonsági vezető szakértő
-
-– a szakképzettség angol nyelvű megjelölése: Senior Expert in Civilian National Security
-
-– választható specializációk: humán felderítő, technikai felderítő, terrorelhárítási (human intelligence, technical intelligence, counter terrorism)
-
-3. Képzési terület: államtudományi
-
-4. Az NKE tv. 3. §-ában meghatározott felsőoktatási terület: nemzetbiztonsági
-
-5. A mesterképzésbe történő belépésnél előzményként elfogadott szakok:
-
-5.1. Teljes kreditérték beszámításával vehető figyelembe: nemzetbiztonsági, polgári nemzetbiztonsági, bűnügyi igazgatási alapképzési szakok.
-
-5.2. Meghatározott kreditek teljesítésével vehetők figyelembe: azok az alap- vagy mesterfokozatot adó szakok, illetve a felsőoktatásról szóló 1993. évi LXXX. törvény szerinti főiskolai vagy egyetemi szintű alapképzési szakok, amelyeket a kredit megállapításának alapjául szolgáló ismeretek összevetése alapján a felsőoktatási intézmény kreditátviteli bizottsága elfogad.
-
-6. A képzési idő félévekben: 4 félév
-
-7. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
-
-7.1. Az alapozó ismeretekhez rendelhető kreditek száma: 20–25 kredit
-
-7.2. A szakmai törzsanyaghoz rendelhető kreditek száma: 40–50 kredit
-
-7.3. A differenciált szakmai anyaghoz rendelhető kreditek száma: 24–32 kredit
-
-7.4. A szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 6 kredit
-
-7.5. A diplomamunkához rendelt kreditérték: 16 kredit
-
-7.6. A gyakorlati ismeretek aránya legalább: legalább 10%
-
-8. A mesterképzési szak képzési célja, az elsajátítandó szakmai kompetenciák:
-
-A képzés célja olyan nemzetbiztonsági szakemberek képzése, akik alkalmasak a közigazgatási, a katonai, a rendészeti, tudományos szektorokban vezetői és szakértői feladatok ellátására, szakmai ismereteik és gyakorlati készségeik alapján képesek nemzetbiztonsági problémák értékelésére, elemzésére és megoldására. Felkészültek a politikai intézmények, biztonsági folyamatok, közpolitikák működésének és ezeknek a globális biztonsági-politikai helyzettől függő összefüggésének és egymásra hatásának megértésére, kormányzati válaszok előkészítésének a támogatására. Felkészültségük alapján alkalmasak tanulmányaik doktori képzés keretében történő folytatására is.
-
-a) A mesterképzési szakon végzettek ismerik:
-
-– hazánk nemzetbiztonsági helyzetét befolyásoló alapvető tényezőket;
-
-– a biztonságpolitika alakításának kérdéseit, a nemzetközi intézmények működését és a koordinációs mechanizmusokat;
-
-– az európai és más nemzetközi nemzetbiztonsági modelleket és rendszereket;
-
-– a nemzeti, transznacionális és nemzetközi biztonságpolitikai, nemzetbiztonsági, terrorelhárítási gyakorlatot és modelleket;
-
-– a nemzetbiztonság és terrorelhárítás geopolitikai, gazdasági, társadalmi, jogi, pszichológiai, pedagógiai összefüggéseit;
-
-– a nemzetbiztonsági és terrorelhárítási folyamatok, a nemzetközi kapcsolatok, a diplomácia és az e területeket összekötő társadalomtudományi ismereteket.
-
-b) A mesterképzési szakon végzettek alkalmasak:
-
-– a nemzetbiztonsági kérdések kritikus elemzésére, a terrorfolyamatok holisztikus perspektívákból való szemléletére;
-
-– a biztonságpolitikai folyamatok komplex módon történő elemzésére és értékelésére;
-
-– a megszerzett és értékelt ismeretek alapján szakmai véleményezésre és tanácsadásra a döntéshozók részére nemzeti és nemzetközi fórumokon;
-
-– a humán és technikai felderítés, valamint a terrorelhárítás feladatainak megtervezésére, a végrehajtásában való részvételre, továbbá a végrehajtás irányítására.
-
-c) A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
-
-– a nemzetbiztonsággal, a terrorelhárítással kapcsolatos témákban döntés-előkészítés, döntési folyamatok támogatásának képessége;
-
-– vezetőként, szakértőként pedagógiai, pszichológiai, szervezetszociológiai érzékenység;
-
-– a rendelkezésre álló adatok, információk rendszerszintű elemzésének, értékelésének, következtetések levonásának, kutatási módszerek használatának képessége;
-
-– magas szintű vezetői képesség;
-
-– hivatásetikán alapuló szervezetkultúra ismeretében a korrupció és a visszaélések kockázatának csökkentésére és azok megelőzésére, a tisztesség és az etikus viselkedés szükségességének elismerésére, megbecsülésére való képesség;
-
-– a meghatározott információs források magabiztos használatának képessége;
-
-– írásbeli anyagok, tanulmányok és szóbeli előadások készítése szakmai és nem szakmai közönség részére;
-
-– több nemzetiségű, több tudományterületet átfogó szakértői csoportok munkájában történő részvételre való képesség;
-
-– a szakmai ismeretek folyamatos bővítése, önálló tanulás és önfejlesztés, önértékelés készsége.
-
-9. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
-
-9.1. Az alapképzésben megszerzett ismereteket tovább bővítő, mesterfokozathoz szükséges alapozó ismeretkörök: 20–25 kredit
-
-A magyar kül- és biztonságpolitika; a magyar politikai intézményrendszer működése; a tudományos kutatás alapjai; emberi erőforrás fejlesztés és gazdálkodás; jogi alapfogalmak; kommunikáció, vezetői kompetenciák; nemzetközi gazdaságtan; rendészettudományok alapjai; vezetés- és szervezéselmélet, rendészeti tevékenység vezetése; integrált társadalomtudományi ismeretek.
-
-9.2. A szakmai törzsanyag ismeretkörei: 40–50 kredit;
-
-A nemzetbiztonság általános elmélete; speciális szakági jog; diplomáciai ismeretek; elhárítási ismeretek; felderítési ismeretek; információk elemzése és értékelése; kihívások, kockázatok, fenyegetések a 21. században; nemzetközi biztonsági intézmények; nemzetbiztonság és etika; polgári válságkezelés nemzetbiztonsági aspektusai; külföldi hírszerző és biztonsági szolgálatok; szakmai esettanulmányok és tanulmányutak; szakszolgálati tevékenység rendszere; vezetés- és szervezéselmélet, rendészeti tevékenység vezetése; vezetéspszichológia elmélete és gyakorlata.
-
-9.3. A differenciált szakmai ismeretek ismeretkörei: 24–32 kredit
-
-9.3.1. Humán felderítő specializáció
-
-Emberi erőforrásból történő információszerzés gyakorlata; információk elemzése – értékelése; pszichológia a műveleti munkában; műveleti veszélyhelyzetek megelőzése és kezelése; nyílt forrású információszerzés; vezetői készségfejlesztés.
-
-9.3.2. Technikai felderítő specializáció
-
-A nemzetbiztonsági feladatok technikai-műveleti támogatása; a nemzetbiztonság technikai kihívásai a 21. században; elektronikus információs rendszerek biztonsága; geoinformációs ismeretek; kiberbiztonság nemzetbiztonsági aspektusai; szakértői tevékenység; technikai adatszerzés.
-
-9.3.3. Terrorelhárítási specializáció
-
-A biztonság és védelem kérdései; a kiber-terrorizmus és az ellene való védekezés; a terrorfenyegetettség-értékelés stratégiai elemző módszerei; hírszerzés vezette műveletek a terrorelhárításban; profilalkotás a terrorfelderítésben; terrorcselekmények nyomozása; titkos információgyűjtés szerepe a terrorelhárításban; válságkezelés és krízis-kommunikáció.
-
-[^5]: A 3. melléklet a 11. § b) pontja és a 10. § szerint módosított szöveg. [A 3. mellékletben a 11. § a) pontjával elrendelt módosítás, amely szerint a 3. melléklet „9. NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK” alcím 2. pontjában a „– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)” szövegrész hatályát veszti, nem vezethető át.]
+[^6]: A 3. melléklet a 11. § b) pontja és a 10. §, a 266/2018. (XII. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg. [A 3. mellékletben a 11. § a) pontjával elrendelt módosítás, amely szerint a 3. melléklet „9. NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK” alcím 2. pontjában a „– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)” szövegrész hatályát veszti, nem vezethető át.]
