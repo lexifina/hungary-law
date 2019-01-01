@@ -1,0 +1,1 @@
+## 7. § A kormányzati magasépítési beruházás előkészítőjének személyére, az előkészítésére irányuló kormány-előterjesztés tartalmára, az előkészítéséről szóló kormánydöntésre a Beruházás Előkészítési Alap felhasználásáról szóló kormányrendeletben foglaltakat kell alkalmazni.

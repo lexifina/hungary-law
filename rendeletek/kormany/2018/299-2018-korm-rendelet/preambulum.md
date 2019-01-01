@@ -1,0 +1,1 @@
+A Kormány az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 12. § a)–c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
