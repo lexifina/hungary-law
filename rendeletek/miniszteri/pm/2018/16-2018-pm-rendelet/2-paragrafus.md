@@ -1,0 +1,1 @@
+## 1. § A Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. mellékletében meghatározott, a pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok felhasználási szabályait az 1–9. melléklet tartalmazza.

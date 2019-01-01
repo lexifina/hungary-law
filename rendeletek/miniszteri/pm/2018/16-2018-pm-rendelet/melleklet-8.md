@@ -1,0 +1,15 @@
+## XXII. Miniszterelnöki Kormányiroda fejezet központi kezelésű előirányzatai
+
+## 2019. évi költségvetési kiadási előirányzatainak feladatterve
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
+
+| 2. | 1 | Áht. azonosító | Cím | Alcím | Jogcímcsoport | Jogcímnév | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támo- gatási előleg | Rendelkezésre bocsátás módja | Vissza- fizetés határ- ideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszí- rozott költség- vetési támoga- tás közre- működő szerve- zete |
+
+| 1. |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |
+
+| 2. | 295980 |  | Peres ügyek | A magyarországi jogerős bírósági ítéleten, végzésen, illetve a bíróság jogerős végzésével jóváhagyott egyezségen alapuló, az államot terhelő kifizetések finanszírozása. A stabil vérkészítménytől HCV-vírussal megfertőződött veleszületett vérzékenységben szenvedő állampolgárok egységes állami kártalanításáról szóló 1093/2000. (XI. 24.) Korm. határozatból eredő kötelezettség, valamint az ehhez kapcsolódó szakértői tevékenység költségeinek teljesítését szolgálja. Az állam polgári jogviszonyokban történő képviselete ügyvédi és bírósági költségeinek biztosítása (külföldi székhelyű ügyvédi irodákkal kötött jogi szerződések esetén általános forgalmi adókötelezettség teljesítése is). Az állammal szemben kezdeményezett valamennyi választottbírósági eljárás költségeire, illetve az államot bármely nemzetközi választottbíróság vagy külföldi rendes bíróság kötelező erejű határozatából eredően terhelő kifizetési kötelezettségre, továbbá az állam adós elleni végrehajtási eljárásban az államot terhelő, bírósági határozaton vagy a végrehajtó felhívásán alapuló fizetési kötelezettségekből eredő kifizetések finanszírozása. | jogerős döntésben foglaltak szerint megjelöltek, stabil vérkészítménytől HCV- vírussal megfertőződött veleszületett vérzékenységben szenvedő állampolgárok, ügyvédek, ügyvédi irodák, választottbíróságok, bíróságok |  |  | A kártalanításról szóló megállapodás, jogerős és végrehajtható, illetőleg előzetesen végrehajtható bírósági határozat, eljárási díj- és költségfizetési kötelezettséget megállapító határozat, ügyvédi megbízási szerződések alapján. |  |  | Minisz- terelnöki Kor- mány- iroda |  |  |
+
+| 3. | 368206 |  | Egyetemes postai szolgáltató méltánytalan többletterhének megtérítése | Egyetemes postai szolgáltató méltánytalan többletterhének megtérítése | A postai szolgáltatásokról szóló 2012. évi CLIX. törvény 18. § (1) bekezdése alapján kijelölt egyetemes postai szolgáltató | Az előirányzat kezelője a rendelkezésre álló forrás mértékéig gondoskodik a szolgáltató részére történő kifizetésről. |  | Az előirányzat kezelője a szolgáltató által benyújtott kompenzációs igényt ellenőrzi és a teljesítés elfogadását követően a költségvetési előirányzaton rendelkezésre álló forrás mértékéig 30 napon belül gondoskodik a kompenzáció szolgáltató részére történő kifizetéséről. |  |  | Minisz- terelnöki Kor- mány- iroda |  |  |
+
+8. melléklet a 16/2018. (XII. 19.) PM rendelethez

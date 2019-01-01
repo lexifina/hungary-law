@@ -1,0 +1,27 @@
+## XVII. Innovációs és Technológiai Minisztérium fejezet központi kezelésű előirányzatai
+
+## 2019. évi költségvetési kiadási előirányzatainak feladatterve
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
+
+| 1. | 1 | Áht. azonosító | Cím | Alcím | Jogcímcsoport | Jogcímnév | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támo- gatási előleg | Rendelkezésre bocsátás módja | Vissza- fizetés határ- ideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszí- rozott költség- vetési támoga- tás közre- működő szerve- zete |
+
+| 1. |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |
+
+| 2. |  |  | Közszolgáltatások ellentételezése |  |  |  |  |  |  |  |  |  |  |
+
+| 3. |  |  |  | Közlekedési közszolgáltatások költségtérítése |  |  |  |  |  |  |  |  |  |  |
+
+| 4. | 303868 |  |  |  | A vasúti pályahálózat működtetésének költségtérítése | A vasúti pályahálózat működtetésével kapcsolatban felmerült bevételekkel nem fedezett indokolt költségek és az ágazatban szokásos mértékű észszerű nyereség megtérítése. | A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 28. §-a szerinti szerződéssel rendelkező, vasúti pályaműködtetést végző társaságok | A költségtérítés havonta folyósítandó mértékét, ütemezését és feltételeit a közlekedésért felelős miniszter az államháztartásért felelős miniszter egyetértésével a társasággal kötött pályaműködtetési szerződés záradékában határozza meg. |  | A költségtérítést a kedvezményezett tárgyhónap első napjától benyújtható igénylésétől számított 15 napon belül a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) folyósítja. |  |  | Innová- ciós és Tech- nológiai Minisz- térium (a továb- biakban: ITM) |  |  |
+
+| 5. | 348273 |  |  |  | Vasúti személyszállítási közszolgáltatá-sok költségtérítése | A vasúti személyszállítási közszolgáltatás bevételekkel nem fedezett indokolt költségei és az ágazatban szokásos mértékű észszerű nyereség megtérítése. | A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény (a továbbiakban: Sztv.) 25. §-a szerinti szerződéssel rendelkező, vasúti személyszállítási közszolgáltatást végző társaságok | A költségtérítés havonta folyósítandó mértékét, ütemezését és feltételeit a közlekedésért felelős miniszter az államháztartásért felelős miniszter egyetértésével a társasággal kötött vasúti személyszállítási közszolgáltatási szerződés záradékában határozza meg. | Igen | A költségtérítést a kedvezményezett tárgyhónap első napjától benyújtható igénylésétől számított 15 napon belül a NAV folyósítja. |  |  | ITM |  |  |
+
+| 6. | 348284 |  |  |  | Autóbusszal végzett személyszállítási közszolgáltatá-sok költségtérítése | Az autóbusszal végzett helyközi személyszállítási közszolgáltatás bevételekkel nem fedezett indokolt költségei és az ágazatban szokásos mértékű észszerű nyereség megtérítése. | Az Sztv. 25. §-a szerinti szerződéssel rendelkező, autóbusszal helyközi személyszállítási közszolgáltatást végző társaságok | A költségtérítés folyósítandó mértékét, ütemezését és feltételeit a közlekedésért felelős miniszter az államháztartásért felelős miniszter egyetértésével az autóbusszal személyszállítási közszolgáltatást végző társasággal kötött közszolgáltatási szerződés záradékában határozza meg. | Igen | A költségtérítést a kedvezményezett tárgyhónap első napjától benyújtható igénylésétől számított 15 napon belül a NAV folyósítja. |  |  | ITM |  |  |
+
+| 7. | 348295 |  |  |  | Vasúti személyszállítás korábbi költségtérítései- nek elszámolása | A vasúti személyszállítási közszolgáltatás korábbi költségtérítései elszámolásából fennmaradt költségtérítési igények megtérítése. | Az Sztv. 25. §-a szerinti szerződéssel rendelkező, vasúti személyszállítási közszolgáltatást végző társaságok | A költségtérítés folyósítandó mértékét, ütemezését és feltételeit a közlekedésért felelős miniszter az államháztartásért felelős miniszter egyetértésével a társasággal kötött vasúti személyszállítási közszolgáltatási szerződés záradékában határozza meg. |  | A költségtérítést a kedvezményezett tárgyhónap első napjától benyújtható igénylésétől számított 15 napon belül a NAV folyósítja. |  |  | ITM |  |  |
+
+| 8. | 359595 |  |  |  | Elővárosi közösségi közlekedés költségtérítése | Az elővárosi személyszállítási közszolgáltatás bevételekkel nem fedezett indokolt költségei és az ágazatban szokásos mértékű észszerű nyereség megtérítése. | Az Sztv. 25. §-a szerinti szerződéssel rendelkező, elővárosi személyszállítási közszolgáltatást végző társaságok | A költségtérítés folyósítandó mértékét, ütemezését és feltételeit a közlekedésért felelős miniszter az államháztartásért felelős miniszter egyetértésével a társasággal kötött elővárosi személyszállítási közszolgáltatási szerződés záradékában határozza meg. | Igen | A költségtérítést a kedvezményezett tárgyhónap első napjától benyújtható igénylésétől számított 15 napon belül a NAV folyósítja. |  |  | ITM |  |  |
+
+| 9. | 059262 |  | Mecseki uránbányászok baleseti járadékainak és egyéb kártérítési kötelezettségeinek átvállalása | A költségvetési támogatás a Bányavagyon-hasznosító Nonprofit Közhasznú Kft. által kifizetett, az uránbányászatban 1993. december 31-ig keletkezett baleseti járadékokat és a munkavégzéssel kapcsolatos egyéb kártérítési kötelezettségeket téríti meg. | Bányavagyon- hasznosító Nonprofit Közhasznú Kft. | Utólagos utalványozás havonta |  | A folyósításról havi elszámolás alapján a NAV gondoskodik. |  |  | ITM |  |  |
+
+6. melléklet a 16/2018. (XII. 19.) PM rendelethez
