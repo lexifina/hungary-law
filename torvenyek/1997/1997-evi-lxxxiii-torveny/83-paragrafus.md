@@ -88,6 +88,8 @@ d) határozza meg az intézményi várólista alapján, illetve a betegfogadási
 
 (2j) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek, gyógyászati segédeszközök hivatalból történő felülvizsgálatának eljárási szabályait.
 
+(2k) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 82/O. § szerinti többletköltségek megtérítésének szabályait.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
@@ -199,6 +201,10 @@ j) a társadalombiztosítási támogatás alapját képező javítási díj szá
 k) a Betegségek Nemzetközi Osztályozásának az elektronikus adatszolgáltatásban használatos és nemzeti szinten alábontott öt karakteres állományát és a morfológiai kódok listáját,
 
 l) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz kölcsönzési díjához támogatást nyújthat.
+
+(6a) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben határozza meg – Magyarország Európai Unió melletti Állandó Képviselete kivételével – a tartós külszolgálatra kihelyezésre kerülő kormánytisztviselők és kormányzati ügykezelők vonatkozásában a tartós külszolgálathoz kapcsolódó munkaköri, szakmai, illetve személyi higiénés alkalmassági vizsgálat körét, az azokon történő kötelező részvételnek és biztosításuk eljárásrendjének sajátos szabályait.
+
+(6b) Felhatalmazást kap az európai ügyek koordinációjáért felelős miniszter, hogy rendeletben határozza meg Magyarország Európai Unió melletti állandó képviseletére tartós külszolgálatra kihelyezett kormánytisztviselők és kormányzati ügykezelők vonatkozásában a tartós külszolgálathoz kapcsolódó munkaköri, szakmai, illetve személyi higiénés alkalmassági vizsgálat körét, az azokon történő kötelező részvételnek és biztosításuk eljárásrendjének sajátos szabályait.
 
 (7)
 

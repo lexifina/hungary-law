@@ -8,7 +8,7 @@
 
 (2) Keresőképtelen az, aki az üzemi balesettel összefüggő és gyógykezelést igénylő egészségi állapota miatt vagy gyógyászati segédeszköz hiányában munkát végezni nem tud.
 
-(3) A baleseti táppénz – az előzetes biztosítási időre és táppénzfolyósításra tekintet nélkül – egy éven keresztül jár azzal, hogy a baleseti táppénz folyósítása legfeljebb egy évvel meghosszabbítható.
+(3) A baleseti táppénz – az előzetes biztosítási időre és táppénzfolyósításra tekintet nélkül – egy éven keresztül jár azzal, hogy a baleseti táppénz folyósítása legfeljebb egy évvel meghosszabbítható. Ha a biztosított balesetből eredő keresőképtelensége első napját közvetlenül megelőző egy éven belül a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 33. § (2) bekezdése alapján üzemi baleset vagy úti baleset jogcímen díjazásban részesült, a baleseti táppénz folyósítása időtartamába ezen időszakot be kell számítani.
 
 (4) Nem jogosult baleseti táppénzre az, aki ugyanazon üzemi balesetből eredően baleseti járadékban részesül.
 

@@ -2,7 +2,7 @@
 
 a) a 42/A. § alapján gyermekgondozási díjra nem jogosult,
 
-b) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben magyar nyelvű nappali képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik, azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
+b) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzés kivételével teljes idejű képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
 
 c) a gyermeke a b) pont szerinti hallgatói jogviszony fennállása alatt vagy a hallgatói jogviszony szünetelését, illetve megszűnését követő 1 éven belül születik,
 

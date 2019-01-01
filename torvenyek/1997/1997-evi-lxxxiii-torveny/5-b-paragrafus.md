@@ -70,4 +70,8 @@ sb) a biztosított által – ide nem értve a megállapodás alapján egészsé
 
 t) intézményi regisztrációs lista: az egészségügyi szolgáltatónál az intézményi várólistától elkülönítetten vezetett lista egyes ellátások, egymással összefüggő ellátások, vagy ellátás sorozatok tervezése és ütemezése érdekében;
 
-u) intézményi előjegyzési lista: a fekvőbeteg-szakellátást végző egészségügyi szolgáltatónál adott ellátások tekintetében az intézményi várólistától elkülönítetten vezetett lista, amelyen a biztosított kérésére a betegellátás tervezett időpontja legalább 14 nappal későbbi, mint az intézményi várólista alapján meghatározható legkorábbi időpont.
+u) intézményi előjegyzési lista: a fekvőbeteg-szakellátást végző egészségügyi szolgáltatónál adott ellátások tekintetében az intézményi várólistától elkülönítetten vezetett lista, amelyen a biztosított kérésére a betegellátás tervezett időpontja legalább 14 nappal későbbi, mint az intézményi várólista alapján meghatározható legkorábbi időpont;
+
+v) tartós külszolgálat: a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 2. § 18. pontja szerinti tartós külszolgálat,
+
+w) kihelyező szerv: a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 2. § 11. pontja szerinti kihelyező szerv.

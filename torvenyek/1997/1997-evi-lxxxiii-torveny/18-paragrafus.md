@@ -18,6 +18,8 @@ b) a beutalóhoz nem kötött szakellátások esetében a biztosított tekintet�
 
 (4) A szolgálati jogviszonyban álló és egyes külön jogszabályban meghatározott tevékenységet végző biztosítottak külön jogszabályban meghatározott rendben, valamint a fogva tartott személyek külön jogszabályban meghatározott rendben és feltételek szerint jogosultak az egészségügyi szolgáltatás igénybevételére.
 
+(4a) A külpolitikáért felelős miniszter vagy az európai ügyek koordinációjáért felelős miniszter által vezetett kihelyező szervnél foglalkoztatott biztosítottak kötelesek a külpolitikáért felelős miniszter vagy az európai ügyek koordinációjáért felelős miniszter rendeletében meghatározott, a kihelyező szerv által biztosított kötelező munkaköri, szakmai, illetve személyi higiénés alkalmassági orvosi vizsgálaton részt venni.
+
 (5) A gyógyító céllal rendelhető finanszírozott ellátások keretében – a (6) bekezdésben foglalt kivételekkel – valamennyi szakmailag indokolt beavatkozás elvégezhető.
 
 (6) Nem vehetők igénybe az E. Alap terhére:
