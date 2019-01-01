@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-12-20-1
 | 2017-01-01 | 2013-12-20-15.8 | 25/2016. (XII. 22.) HM rendelet |
 | 2018-01-01 | 2013-12-20-15.9 | 10/2017. (VIII. 31.) HM rendelet |
 | 2018-07-28 | 2013-12-20-15.10 | 12/2018. (VII. 27.) HM rendelet |
+| 2019-01-01 | 2013-12-20-15.11 | 20/2018. (XII. 28.) HM rendelet |

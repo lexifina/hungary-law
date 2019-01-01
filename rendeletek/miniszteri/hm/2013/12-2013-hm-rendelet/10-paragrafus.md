@@ -1,8 +1,8 @@
 ## 4. Nevelési támogatás
 
-10. §[^19] (1) Évente egy alkalommal – a gyermekes családok élethelyzetének javítása érdekében – gyermekenként 20 000 Ft összegű nevelési támogatásban kell részesíteni az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagját és a tárgyév augusztus 1-jén jogviszonyban álló közalkalmazottat,
+10. §[^25] (1)[^26] Évente egy alkalommal – a gyermekes családok élethelyzetének javítása érdekében – gyermekenként bruttó 30 000 Ft összegű nevelési támogatásban kell részesíteni az állomány tárgyév augusztus 1-jén szolgálati viszonyban álló tagját és a tárgyév augusztus 1-jén jogviszonyban álló honvédelmi alkalmazottat, közalkalmazottat,
 
-a) ha a vele közös háztartásban élő vérszerinti, örökbefogadott, mostoha- vagy nevelt gyermekére tekintettel – ideértve a szülők által időszakonként felváltva gondozott, nevelt gyermeket is – az állomány tagja és a közalkalmazott vagy a vele közös háztartásban élő házastársa vagy élettársa
+a)[^27] ha a vele közös háztartásban élő vérszerinti, örökbefogadott, mostoha- vagy nevelt gyermekére tekintettel – ideértve a szülők által időszakonként felváltva gondozott, nevelt gyermeket is – az állomány tagja, a honvédelmi alkalmazott és a közalkalmazott vagy a vele közös háztartásban élő házastársa vagy élettársa
 
 aa) családi pótlékra jogosult,
 
@@ -14,7 +14,7 @@ ad) családi pótlékra nem jogosult, de gyermeke tárgyév szeptember 1-jén a 
 
 b) ha gyermeke saját jogán családi pótlékban részesül.
 
-(2) Az (1) bekezdés a) pont ab) alpontja szerinti nevelési támogatás nem illeti meg az állomány tagját vagy a közalkalmazottat, ha gyermeke tanulmányait szünetelteti vagy félévet halaszt. Nem minősül szüneteltetésnek, ha a hallgató a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karán kötelező alapkiképzésen vesz részt.
+(2)[^28] Az (1) bekezdés a) pont ab) alpontja szerinti nevelési támogatás nem illeti meg az állomány tagját vagy a honvédelmi alkalmazottat, közalkalmazottat, ha gyermeke tanulmányait szünetelteti vagy félévet halaszt. Nem minősül szüneteltetésnek, ha a hallgató a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karán kötelező alapkiképzésen vesz részt.
 
 (3) Az (1) bekezdésben meghatározott nevelési támogatás 25%-kal megnövelt összegére jogosult az állomány szolgálati kötelmekkel összefüggő baleset vagy betegség következtében elhunyt volt tagjának – ideértve az önkéntes tartalékost is – az (1) bekezdés szerinti feltételeknek megfelelő gyermeke, valamint a hősi halott árvaellátásban részesülő, az (1) bekezdés szerinti feltételeknek megfelelő gyermeke is.
 
@@ -24,6 +24,10 @@ b) ha gyermeke saját jogán családi pótlékban részesül.
 
 (6) A honvéd tisztjelölt és a honvéd altiszt-jelölt az állomány tagjára vonatkozó szabályok szerint jogosult nevelési támogatásra.
 
-(7) Az (1) bekezdés a) pont aa) alpontjától eltérően, a tárgyévi nevelési támogatásra jogosult az állomány tagja és a közalkalmazott akkor is, ha az (1) bekezdés a) pontja szerinti gyermek a tárgyév szeptember 30-ig megszületik, örökbefogadásra vagy nevelésbe vételre kerül.
+(7)[^29] Az (1) bekezdés a) pont aa) alpontjától eltérően, a tárgyévi nevelési támogatásra jogosult az állomány tagja, a honvédelmi alkalmazott és a közalkalmazott akkor is, ha az (1) bekezdés a) pontja szerinti gyermek a tárgyév szeptember 30-ig megszületik, örökbefogadásra vagy nevelésbe vételre kerül.
 
-[^19]: A 10. § a 12/2018. (VII. 27.) HM rendelet 28. §-ával megállapított szöveg.
+[^25]: A 10. § a 12/2018. (VII. 27.) HM rendelet 28. §-ával megállapított szöveg.
+[^26]: A 10. § (1) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § g) és h) pontja szerint módosított szöveg.
+[^27]: A 10. § (1) bekezdés a) pont nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § e) pontja szerint módosított szöveg.
+[^28]: A 10. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § g) pontja szerint módosított szöveg.
+[^29]: A 10. § (7) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § e) pontja szerint módosított szöveg.

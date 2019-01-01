@@ -2,13 +2,13 @@
 
 16. § (1) Pályázat alapján a munkaerő-piacra történő beilleszkedés és visszailleszkedés elősegítése érdekében pénzügyi hozzájárulás nyújtható
 
-a)[^32] a hivatásos állományú katonának, ha szolgálati viszonya létszámcsökkentés, szervezeti átalakítás, katonai szolgálatra való egészségügyi alkalmatlanság vagy az előmeneteli renddel összefüggő ok miatt megszüntetésre kerül, és munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik,
+a)[^45] a hivatásos állományú katonának, ha szolgálati viszonya létszámcsökkentés, szervezeti átalakítás, katonai szolgálatra való egészségügyi alkalmatlanság vagy az előmeneteli renddel összefüggő ok miatt megszüntetésre kerül, és munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik,
 
-b)[^33] a szerződéses állományú katonának, aki legalább 4 év szolgálati viszonnyal rendelkezik, és a szolgálati viszonya a szerződésben meghatározott időtartam leteltével szűnik meg, feltéve, hogy a szerződése lejártát megelőző hónapban a munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik, és
+b)[^46] a szerződéses állományú katonának, aki legalább 4 év szolgálati viszonnyal rendelkezik, és a szolgálati viszonya a szerződésben meghatározott időtartam leteltével szűnik meg, feltéve, hogy a szerződése lejártát megelőző hónapban a munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik, és
 
-c)[^34] a közalkalmazottnak, ha jogviszonya létszámcsökkentés, szervezeti átalakítás, egészségügyi alkalmatlanság miatt megszűntetése kerül, és munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik.
+c)[^47] a honvédelmi alkalmazottnak, illetve a közalkalmazottnak, ha jogviszonya létszámcsökkentés, szervezeti átalakítás, egészségügyi alkalmatlanság miatt megszűntetése kerül, és munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik.
 
-(2) Pályázat alapján a további foglalkoztatást elősegítő képzés költségéhez pénzügyi hozzájárulás nyújtható az állomány tagjának, illetve a közalkalmazottnak, ha
+(2)[^48] Pályázat alapján a további foglalkoztatást elősegítő képzés költségéhez pénzügyi hozzájárulás nyújtható az állomány tagjának, a honvédelmi alkalmazottnak, illetve a közalkalmazottnak, ha
 
 a) jogviszonya csak meghatározott szakképzettség megszerzése után tartható fenn,
 
@@ -18,9 +18,10 @@ c) a szakképzettség megszerzéséhez a parancsnok hozzájárul, és
 
 d) a szerződéses állományú katonának a jelentkezés időpontjában érvényes szerződése legalább két évvel meghosszabbításra kerül.
 
-(3)[^35] Az (1) és a (2) bekezdés szerinti pályázati felhívást az MH Szociálpolitikai Közalapítvány (a továbbiakban: Közalapítvány) teszi közzé. Az (1) és a (2) bekezdés szerinti támogatás összege nem haladhatja meg a felszámítási alap 300%-át, folyósítását pályázati kiírásában foglaltak szerint a Közalapítvány végzi.
+(3)[^49] Az (1) és a (2) bekezdés szerinti pályázati felhívást az MH Szociálpolitikai Közalapítvány (a továbbiakban: Közalapítvány) teszi közzé. Az (1) és a (2) bekezdés szerinti támogatás összege nem haladhatja meg a felszámítási alap 300%-át, folyósítását pályázati kiírásában foglaltak szerint a Közalapítvány végzi.
 
-[^32]: A 16. § (1) bekezdés a) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
-[^33]: A 16. § (1) bekezdés b) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
-[^34]: A 16. § (1) bekezdés c) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
-[^35]: A 16. § (3) bekezdése a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja, a 12/2018. (VII. 27.) HM rendelet 32. § f) pontja szerint módosított szöveg.
+[^45]: A 16. § (1) bekezdés a) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
+[^46]: A 16. § (1) bekezdés b) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
+[^47]: A 16. § (1) bekezdés c) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja, a 20/2018. (XII. 28.) HM rendelet 75. § j) pontja szerint módosított szöveg.
+[^48]: A 16. § (2) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § k) pontja szerint módosított szöveg.
+[^49]: A 16. § (3) bekezdése a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja, a 12/2018. (VII. 27.) HM rendelet 32. § f) pontja szerint módosított szöveg.

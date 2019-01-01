@@ -1,16 +1,16 @@
-22. § (1)[^44] A költségvetésben külön meghatározott előirányzat, valamint jóváhagyott segélykeret terhére a HM VGHÁT mérlegelés alapján engedélyezheti segély kifizetését
+22. § (1)[^61] A költségvetésben külön meghatározott előirányzat, valamint jóváhagyott segélykeret terhére a HM VGHÁT mérlegelés alapján engedélyezheti segély kifizetését
 
 a) a nyugállományú katonának, nyugdíjas közalkalmazottnak, elhalálozása esetén a közeli hozzátartozóinak, élettársának,
 
 b) az állomány elhunyt tagja, valamint az elhunyt közalkalmazott özvegyének, élettársának,
 
-c)[^45] az állomány elhunyt tagja, valamint az elhunyt közalkalmazott árvájának, amíg az állomány elhunyt tagjára, illetve az elhunyt közalkalmazottra tekintettel társadalombiztosítási ellátást folyósítanak számára,
+c)[^62] az állomány elhunyt tagja, valamint az elhunyt közalkalmazott árvájának, amíg az állomány elhunyt tagjára, illetve az elhunyt közalkalmazottra tekintettel társadalombiztosítási ellátást folyósítanak számára,
 
 d) annak, akinek a szolgálati viszonya a szolgálati kötelmekkel, közalkalmazotti jogviszonya munkahelyi kötelmekkel összefüggő baleset, betegség miatt szűnt meg,
 
-e)[^46] annak az állományból kivált személynek, akinek szolgálati kötelmekkel összefüggő balesete vagy megbetegedése a szolgálat vagy a honvédelem ügye érdekében kifejtett kiemelkedő, különleges tevékenység, bátor helytállás, hősies magatartás tanúsítása során vagy azzal összefüggésben következett be, és ennek elismerésére a „Hazáért Érdemjelet” adományozták részére, valamint elhalálozása esetén özvegyének, árvájának.
+e)[^63] annak az állományból kivált személynek, akinek szolgálati kötelmekkel összefüggő balesete vagy megbetegedése a szolgálat vagy a honvédelem ügye érdekében kifejtett kiemelkedő, különleges tevékenység, bátor helytállás, hősies magatartás tanúsítása során vagy azzal összefüggésben következett be, és ennek elismerésére a „Hazáért Érdemjelet” adományozták részére, valamint elhalálozása esetén özvegyének, árvájának.
 
-(2)[^47] A nyugállományú katona, illetve nyugdíjas közalkalmazott részére nem engedélyezhető az (1) bekezdés szerinti segély kifizetése, ha szolgálati viszonya, közalkalmazotti jogviszonya
+(2)[^64] A nyugállományú katona, illetve nyugdíjas honvédelmi alkalmazott, közalkalmazott részére nem engedélyezhető az (1) bekezdés szerinti segély kifizetése, ha szolgálati viszonya, honvédelmi alkalmazotti, közalkalmazotti jogviszonya
 
 a) jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése,
 
@@ -42,7 +42,7 @@ e) a kérelmező aláírása,
 
 f) az MH hadkiegészítésért és központi nyilvántartásért felelős szervének környezettanulmánya, valamint a kérelem benyújtását megelőző 12 hónapban esetlegesen nyújtott segélyekre vonatkozó adatok.
 
-[^44]: A 22. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 56. §-ával megállapított szöveg.
-[^45]: A 22. § (1) bekezdés c) pontja a 12/2018. (VII. 27.) HM rendelet 33. § b) pontja szerint módosított szöveg.
-[^46]: A 22. § (1) bekezdés e) pontját a 12/2018. (VII. 27.) HM rendelet 30. §-a iktatta be.
-[^47]: A 22. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 56. §-ával megállapított szöveg.
+[^61]: A 22. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 56. §-ával megállapított szöveg.
+[^62]: A 22. § (1) bekezdés c) pontja a 12/2018. (VII. 27.) HM rendelet 33. § b) pontja szerint módosított szöveg.
+[^63]: A 22. § (1) bekezdés e) pontját a 12/2018. (VII. 27.) HM rendelet 30. §-a iktatta be.
+[^64]: A 22. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 56. §-ával megállapított szöveg, nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § a) és b) pontja szerint módosított szöveg.

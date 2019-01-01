@@ -1,6 +1,6 @@
-## 10. [^37] Humánszolgálati és egyéb szolgáltatások
+## 10. [^51] Humánszolgálati és egyéb szolgáltatások
 
-18. § (1) Az állomány tagja és a közalkalmazott a honvédelmi szervezet humánszolgálatának szolgáltatásaként
+18. § (1)[^52] Az állomány tagja, a honvédelmi alkalmazott és a közalkalmazott a honvédelmi szervezet humánszolgálatának szolgáltatásaként
 
 a) testi-, lelki- és szociális jólétének javítása, megőrzése és fejlesztése érdekében prevenciós ellátásra, így különösen életvezetési problémák megoldásának támogatására, krízishelyzetek kialakulását megakadályozó módszerek alkalmazására, a szociális problémák kezelésének, ezen belül a munkaerő-piacra történő beilleszkedésnek és visszailleszkedésnek a szakmai segítésére,
 
@@ -12,9 +12,11 @@ jogosult.
 
 (2) Az (1) bekezdés b) és c) pontja szerinti szolgáltatásra a tényleges szolgálatot teljesítő önkéntes tartalékos katona is jogosult.
 
-(3) Az (1) bekezdés b) pontja szerinti szolgáltatásokkal összefüggésben a közösségi célú helyiségek felszerelését, a honvédelmi szervezet által szervezett rendezvényeket az állomány tagja, a tényleges szolgálatot teljesítő önkéntes tartalékos katona és a közalkalmazott térítésmentesen veheti igénybe, illetve látogathatja.
+(3)[^53] Az (1) bekezdés b) pontja szerinti szolgáltatásokkal összefüggésben a közösségi célú helyiségek felszerelését, a honvédelmi szervezet által szervezett rendezvényeket az állomány tagja, a tényleges szolgálatot teljesítő önkéntes tartalékos katona, honvédelmi alkalmazott és a közalkalmazott térítésmentesen veheti igénybe, illetve látogathatja.
 
-(4)[^38] Az (1)–(3) bekezdésen túl az MH a honvédek érdekében más módon is támogathatja a fizikai alkalmassági követelményeknek való megfelelés, valamint az egészséges életmód és a szabadidősportok feltételeinek megteremtését.
+(4)[^54] Az (1)–(3) bekezdésen túl az MH a honvédek érdekében más módon is támogathatja a fizikai alkalmassági követelményeknek való megfelelés, valamint az egészséges életmód és a szabadidősportok feltételeinek megteremtését.
 
-[^37]: A 10. alcím címe a 6/2014. (IV. 14.) HM rendelet 16. § e) pontja szerint módosított szöveg.
-[^38]: A 18. § (4) bekezdését a 6/2014. (IV. 14.) HM rendelet 14. §-a iktatta be.
+[^51]: A 10. alcím címe a 6/2014. (IV. 14.) HM rendelet 16. § e) pontja szerint módosított szöveg.
+[^52]: A 18. § (1) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 75. § e) pontja szerint módosított szöveg.
+[^53]: A 18. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 75. § l) pontja szerint módosított szöveg.
+[^54]: A 18. § (4) bekezdését a 6/2014. (IV. 14.) HM rendelet 14. §-a iktatta be.

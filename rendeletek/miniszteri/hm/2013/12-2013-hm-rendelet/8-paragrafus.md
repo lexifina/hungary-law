@@ -4,12 +4,18 @@
 
 (3) A (2) bekezdéstől eltérően, az illetményelőlegben részesült halála esetén a tartozást a HM pénzügyi feladatokat ellátó központi szervezete vezetője javaslatának figyelembevételével az engedélyező parancsnok vagy magasabb parancsnok az államháztartás működésére vonatkozó szabályok szerint elengedheti.
 
-(4) A (2) bekezdéstől eltérően az eredetileg meghatározott ütemezéssel fizetheti vissza az illetményelőleg tartozását az illetményelőlegben részesült, ha
+(4)[^16] A (2) bekezdéstől eltérően az eredetileg meghatározott ütemezéssel fizetheti vissza az illetményelőleg tartozását az illetményelőlegben részesült, ha
 
 a) a Hjt. 59. § (2) bekezdés c) pontja szerint honvédelmi szervezethez kerül áthelyezésre,
 
-b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25. § (2) bekezdés b) pont 4. alpontja alapján Hjt. szerinti szolgálati viszonyt létesít,
+b) a honvédelmi alkalmazottak jogállásáról szóló törvény alapján Hjt. szerinti szolgálati viszonyt létesít,
 
-c) – az a) pontban szereplő esetet ide nem értve – másik honvédelmi szervezethez áthelyezik,
+c) a közalkalmazottak jogállásáról szóló törvény alapján Hjt. szerinti szolgálati viszonyt létesít,
 
-d) közalkalmazotti jogviszonya a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti – a honvédelmi szervezetekkel kapcsolatos – munkáltató személyében bekövetkező változással érintett.
+d) a közalkalmazottként felvett illetményelőleg visszafizetésének időtartama alatt válik honvédelmi alkalmazottá,
+
+e) – az a) pontban szereplő esetet ide nem értve – másik honvédelmi szervezethez áthelyezik,
+
+f) honvédelmi alkalmazotti, közalkalmazotti jogviszonya a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti – a honvédelmi szervezetekkel kapcsolatos – munkáltató személyében bekövetkező változással érintett.
+
+[^16]: A 8. § (4) bekezdése a 20/2018. (XII. 28.) HM rendelet 74. §-ával megállapított szöveg.
