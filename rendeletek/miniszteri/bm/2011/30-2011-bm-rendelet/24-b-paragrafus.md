@@ -1,6 +1,6 @@
 ## és a tájékoztatás tudomásulvételét a járművezetővel alá kell íratni.
 
-24/B. §[^37] (1) A vérminta és a – lehetőleg közel azonos időben végzett – vizeletminta-vétel végrehajtása iránt – a rendőri intézkedés megkezdését követően a legrövidebb időn belül – akkor kell intézkedni, ha a járművezető
+24/B. §[^38] (1) A vérminta és a – lehetőleg közel azonos időben végzett – vizeletminta-vétel végrehajtása iránt – a rendőri intézkedés megkezdését követően a legrövidebb időn belül – akkor kell intézkedni, ha a járművezető
 
 a) úgy nyilatkozott vagy adat merül fel arra, hogy az intézkedést megelőzően a vezetési képességre hátrányosan ható egyéb szert fogyasztott, vagy egészségi állapota miatt vele szemben hiteles mérőeszköz nem volt alkalmazható, és az ittasság érzékelhető külső jegyei alapján az alkoholfogyasztás gyanúja fennáll,
 
@@ -18,4 +18,4 @@ g) a helyszínt elhagyta, és az ittasság-ellenőrzés eredménye vagy az ittas
 
 (2) Ha vizeletminta önkéntes biztosítása nem lehetséges, kétszeri vérmintavételre kell intézkedni úgy, hogy a második vérmintavételre az első vérmintavételtől számított legalább 30, de legfeljebb 45 perc elteltével kerüljön sor.
 
-[^37]: A 24/B. §-t a 21/2018. (VI. 29.) BM rendelet 4. § (2) bekezdése iktatta be.
+[^38]: A 24/B. §-t a 21/2018. (VI. 29.) BM rendelet 4. § (2) bekezdése iktatta be.

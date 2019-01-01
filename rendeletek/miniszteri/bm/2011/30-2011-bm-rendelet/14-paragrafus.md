@@ -6,7 +6,7 @@
 
 (2a)[^28] Közveszéllyel fenyegetés esetén az átvizsgálás végrehajtásával összefüggő biztonsági intézkedésekről, az átvizsgálás végrehajtásának módjáról, így különösen a létesítmény teljes vagy részleges kiürítésének szükségességéről az 58. § (1) bekezdése alapján intézkedésre jogosult rendőri szerv vezetője dönt, ha
 
-a) a közveszéllyel fenyegetéssel érintett létesítménnyel összefüggő létesítményvédelmi feladatokat a rendőrség vagy az Országgyűlési Őrség látja el, vagy
+a)[^29] a közveszéllyel fenyegetéssel érintett létesítménnyel összefüggő létesítménybiztosítási feladatokat a rendőrség vagy az Országgyűlési Őrség látja el, vagy
 
 b) a létesítmény a Készenléti Rendőrség Tűzszerész Szolgálat által – a biztonsági feladatokat ellátó személyzet létszámára, képzettségére, az alkalmazott biztonságtechnikai eszközökre, valamint a bombariadó-terv tartalmára meghatározott szakmai módszertani követelmények alapján – felülvizsgált és ellenőrzött biztonsági rendszerrel rendelkezik.
 
@@ -18,3 +18,4 @@ b) a létesítmény a Készenléti Rendőrség Tűzszerész Szolgálat által �
 
 [^27]: A 14. § (2) bekezdése a 42/2014. (VIII. 26.) BM rendelet 1. §-ával megállapított szöveg.
 [^28]: A 14. § (2a) bekezdését a 42/2014. (VIII. 26.) BM rendelet 2. §-a iktatta be.
+[^29]: A 14. § (2a) bekezdés a) pontja a 37/2018. (XII. 28.) BM rendelet 13. § a) pontja szerint módosított szöveg.

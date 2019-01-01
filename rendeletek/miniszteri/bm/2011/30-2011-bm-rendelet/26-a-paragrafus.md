@@ -1,10 +1,10 @@
-## 22/A. [^44] Kiemelt biztonsági intézkedés
+## 22/A. [^45] Kiemelt biztonsági intézkedés
 
 26/A. § (1) Kiemelt biztonsági intézkedés végrehajtását
 
 a) az országos rendőrfőkapitány,
 
-b)[^45] a bűnügyi országos rendőrfőkapitány-helyettes, a rendészeti országos rendőrfőkapitány-helyettes, valamint a műveleti országos rendőrfőkapitány-helyettes,
+b)[^46] a bűnügyi országos rendőrfőkapitány-helyettes, a rendészeti országos rendőrfőkapitány-helyettes, valamint a műveleti országos rendőrfőkapitány-helyettes,
 
 c) illetékességi területén a rendőrfőkapitány, továbbá
 
@@ -28,5 +28,5 @@ b) – a Terrorelhárítási Központ főigazgatója által elrendelt kiemelt bi
 
 (6) Az (5) bekezdésben meghatározott közleményben foglalt adatokról az ott megjelölt személy a kiemelt biztonsági intézkedéssel érintett település jegyzőjét haladéktalanul tájékoztatja.
 
-[^44]: A 22/A. alcímet (26/A. §) a 29/2016. (VII. 15.) BM rendelet 6. §-a iktatta be.
-[^45]: A 26/A. § (1) bekezdés b) pontja az 50/2016. (XII. 14.) BM rendelet 8. §-ával megállapított szöveg.
+[^45]: A 22/A. alcímet (26/A. §) a 29/2016. (VII. 15.) BM rendelet 6. §-a iktatta be.
+[^46]: A 26/A. § (1) bekezdés b) pontja az 50/2016. (XII. 14.) BM rendelet 8. §-ával megállapított szöveg.
