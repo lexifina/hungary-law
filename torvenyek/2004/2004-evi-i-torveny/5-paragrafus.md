@@ -4,7 +4,7 @@
 
 (2) A sportszerződésben a sportszervezet és az amatőr sportoló megállapodnak a sporttevékenységgel kapcsolatos együttműködésük feltételeiről. A sportszerződésre a Polgári Törvénykönyv megbízási szerződésre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(3) A sportszerződést írásba kell foglalni. A sportszerződés csak határozott időre, de legfeljebb 1 évre köthető. A sportszerződés – a sportszövetség vonatkozó szabályzatában meghatározottak szerint – egy versenyrendszer (bajnokság) időtartamára is köthető.
+(3) A sportszerződést írásba kell foglalni. A sportszerződés csak határozott időre, kiskorú amatőr sportoló esetén legfeljebb 1 évre, nagykorú amatőr sportoló esetén legfeljebb 3 évre köthető. A sportszerződés – a sportszövetség vonatkozó szabályzatában meghatározottak szerint – egy versenyrendszer (bajnokság) időtartamára is köthető. A sportszerződés időtartama alatt annak lejártát követő időtartamra sportszerződés érvényesen nem köthető.
 
 (4) A 18. életévét még be nem töltött sportolóval kötött sportszerződés csak a sportoló törvényes képviselőjének előzetes irásbeli beleegyezésével válik érvényessé.
 

@@ -24,9 +24,9 @@ gc) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási
 
 gd) a Tao. 22/C. § (1) bekezdés a) és e) pontjában, valamint a Tao. 22/C. § (9a) bekezdése szerinti esetben a Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatott szervezetek jóváhagyott sportfejlesztési programjai vonatkozásában ellenőrzi a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás rendeltetésszerű felhasználását, a támogatással megvalósuló beruházásokkal érintett sportcélú ingatlanok és a támogatásból megvalósuló tárgyi eszköz felújítások sportcélú hasznosításának fenntartását, valamint a 22. § (2) bekezdés f) pont ff) alpontja szerinti, a szakszövetség által készített, ellenőrzésre vonatkozó összesítő elszámolást jóváhagyja,
 
-ge) a szakszövetség kezdeményezésére intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára az ingatlan-nyilvántartásba történő bejegyeztetésére vonatkozó kérelem benyújtásáról;
+ge) a Tao. 22/C. § (1) bekezdés a), c) és e) pontjában, valamint a Tao. 22/C. § (9a) bekezdése szerinti esetben a Tao. 22/C. § (1) bekezdés b) és d) pontjában meghatározott támogatott szervezetek jóváhagyott sportfejlesztési programjai vonatkozásában intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára az ingatlan-nyilvántartásba történő bejegyeztetésére vonatkozó kérelem benyújtásáról;
 
-gf) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja, a 22/C. §-a és 24/A. §-a szerinti támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, ha a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe;
+gf) a Tao. 22/C. § (1) bekezdés a), c) és e) pontjában, valamint a Tao. 22/C. § (9a) bekezdése szerinti esetben a Tao. 22/C. § (1) bekezdés b) és d) pontjában meghatározott támogatott szervezetek jóváhagyott sportfejlesztési programjai vonatkozásában kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja, a 22/C. §-a és 24/A. §-a szerinti támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, ha a támogatás felhasználásának ellenőrzése során ennek szükségességét megállapítja;
 
 gg) kezdeményezi az adók módjára behajtandó köztartozásnak minősülő, szabálytalanul igénybe vett és be nem fizetett támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerint megnövelt összege és kamata behajtását, ha a gf) pont szerinti kötelezés ellenére a támogatott szervezet a nem rendeltetésszerűen igénybe vett támogatást és annak kamatát nem fizeti be az állam részére;
 
@@ -66,16 +66,46 @@ j) közreműködik a sportszakember-képzésben és -továbbképzésben a hatás
 
 k) meghatározza az állami sportcélú támogatásban részesülő kiemelkedő jelentőségű sportegészségügyi és sporttudományos feladatokat, javaslatot tesz a sportegészségügyi és a sporttudományos feladatok ellátásának szervezeti kereteire, és figyelemmel kíséri a feladatok megvalósítását,
 
-l) az országos sportági szakszövetségi és az országos sportági szövetségi jogállás bírósági bejegyzését megelőzően igazolja a 20. § (4)–(5) bekezdésében és a 28. § (1)–(2) bekezdésében meghatározott feltételek fennállását,
+l) az országos sportági szakszövetségi és az országos sportági szövetségi jogállás bírósági bejegyzését – ideértve az alapszabály olyan módosítását, amely a szakszövetség működésével érintett sportágak körének meghatározására kiterjed – megelőzően igazolja a 20. § (4) és (5) bekezdésében, valamint a 28. § (1) és (2) bekezdésében meghatározott feltételek fennállását,
 
-m) meghatározza a támogatási rendszerek minőségbiztosítási rendszerét (benchmark-rendszer) és követelményeit.
+m) meghatározza a támogatási rendszerek minőségbiztosítási rendszerét (benchmark-rendszer) és követelményeit, valamint egyedi, különös méltánylást érdemlő esetben engedélyezheti az attól való eltérést,
 
-(2a)
+n) ellátja az Európa Tanács sportversenyek tiltott befolyásolásáról szóló Egyezménye szerinti nemzeti és nemzetközi kapcsolattartással összefüggő feladatokat, valamint irányítja az Egyezmény szerinti nemzeti platform működését,
 
-(3) A (2) bekezdés g) pontja alapján végzett közigazgatási hatósági és szolgáltatási feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+o) javaslatot tesz a Kormány részére a sportakadémiai minősítés megszerzése és a sportakadémiai működés feltételeinek megállapítására,
+
+p) az államháztartásért felelős miniszter véleményének kikérésével javaslatot tesz a Kormány részére a látvány-csapatsportok támogatására nyújtható támogatási keretösszegnek a látvány-csapatsportágak közötti felosztása arányának megállapítására.
+
+(2a) A sportversenyek tiltott befolyásolása elleni nemzeti platform összetételét és működésének rendjét a Kormány állapítja meg.
+
+(3) A (2 ) bekezdés g) pontja alapján végzett közigazgatási hatósági és szolgáltatási feladatokért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 (4) A sportpolitikáért felelős miniszter által a (2) bekezdés g) pont ga) és gb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
-(5) A sportpolitikáért felelős miniszter a (2) bekezdés g) pont ga) alpontjában meghatározott feladat ellátása során, a kérelem beérkezésétől számított 120 napon belül hoz döntést. A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározott sportfejlesztési program módosítására, illetve meghosszabbítására irányuló kérelem elbírálására nyitva álló ügyintézési határidő 60 nap.
+(5) A sportpolitikáért felelős miniszter a (2) bekezdés g) pont ga) alpontjában meghatározott feladat ellátása során, a kérelem beérkezésétől számított 150 napon belül, ha a kérelem ingatlanfejlesztésre irányuló tárgyi eszköz beruházásra, felújításra irányul, 180 napon belül hoz döntést. A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározott sportfejlesztési program módosítására, illetve meghosszabbítására irányuló kérelem elbírálására nyitva álló ügyintézési határidő 90 nap.
 
-(6)
+(6) A sportpolitikáért felelős miniszter a (2) bekezdés g) pont ga) alpontjában meghatározott eljárását felfüggesztheti.
+
+(7) A látvány-csapatsport támogatásának felhasználása, valamint a felhasználás ellenőrzése érdekében a sportpolitikáért felelős miniszter a (2) bekezdés g) pontjában meghatározott feladatai ellátása során kezeli a látvány-csapatsport támogatási rendszerben résztvevő vagy a látvány-csapatsport támogatással érintett természetes személy következő adatait:
+
+1. családi és utónév,
+
+2. születési hely és idő,
+
+3. nem,
+
+4. állampolgárság,
+
+5. lakóhely, tartózkodási hely, elektronikus levelezési cím, telefonszám,
+
+6. sportszervezet, sportág, illetve szakág megjelölése,
+
+7. versenyengedély száma,
+
+8. a sportszakember munkaviszonyára vagy munkavégzésre irányuló egyéb jogviszonyára vonatkozó adatok,
+
+9. a sportszakember végzettségével, képesítésével kapcsolatos adatok,
+
+10. a támogatás szabályszerű felhasználásának alátámasztása érdekében szükséges egyéb adatok.
+
+(8) A sportpolitikáért felelős miniszter a (7) bekezdés szerinti adatokat a Tao. szerinti igazolás vagy támogatási igazolás kiállításától számított 10 évig kezeli.

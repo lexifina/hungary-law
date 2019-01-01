@@ -1,4 +1,4 @@
-68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését – a sportrendezvény szervezőjével folytatott előzetes egyeztetést követően – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) az általa működtetett Minősítő Bizottság javaslata alapján határozza meg. A Minősítő Bizottság az ORFK, a katasztrófavédelem, az Országos Mentőszolgálat, az Országos Bírósági Hivatal elnöke, a Legfőbb Ügyészség, a sportpolitikáért felelős miniszter, valamint a sportágak országos sportági szakszövetségei által delegált szakértőkből áll. A Minősítő Bizottság működésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+68/A. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott sportrendezvények biztonsági kockázat szerinti minősítését, valamint fokozott biztonsági kockázatú sportrendezvény esetén beléptető rendszer alkalmazásának kötelezettségét – a sportrendezvény szervezőjével folytatott előzetes egyeztetést követően – az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) az általa működtetett Minősítő Bizottság javaslata alapján határozza meg. A Minősítő Bizottság az ORFK, a katasztrófavédelem, az Országos Mentőszolgálat, az Országos Bírósági Hivatal elnöke, a Legfőbb Ügyészség, a sportpolitikáért felelős miniszter, valamint a sportágak országos sportági szakszövetségei által delegált szakértőkből áll. A Minősítő Bizottság működésére vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 (2) A sportrendezvény biztonsági minősítése
 
@@ -22,7 +22,7 @@ c) a rendezői létszámot a rendőrség által meghatározott számra emelni,
 
 d) a szurkolók parkoltatását, az elhelyezett gépjárművek őrzését szervezni és biztosítani, valamint
 
-e) a rendezői listát előzetesen a rendőrség részére átadni.
+e) a rendezői és közreműködői listát előzetesen a rendőrség részére átadni.
 
 (4) Kiemelt biztonsági kockázatú sportrendezvény esetében a rendőrség a sportrendezvény sportlétesítményen belüli biztosítását közfeladatként végzi.
 

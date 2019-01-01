@@ -8,9 +8,9 @@ b) az a) pontban foglalt célkitűzéseivel összhangban együttműködik a hely
 
 c) fenntartja és működteti a tulajdonát képező sportlétesítményeket,
 
-d) megteremti az önkormányzati iskolai testnevelés és sporttevékenység gyakorlásának feltételeit.
+d) támogatja az iskolai testnevelés és sporttevékenység gyakorlása feltételeinek megteremtését.
 
-(2) A települési önkormányzat az (1) bekezdésben foglaltakon kívül – a köznevelésről szóló törvényben meghatározottak szerint – biztosítja az önkormányzati iskolai sportkörök működéséhez, vagy az ezek feladatait ellátó diáksport-egyesületek feladatainak zavartalan ellátásához szükséges feltételeket.
+(2) A települési önkormányzat az (1) bekezdésben foglaltakon kívül támogatja az iskolai sportkörök működéséhez, vagy az ezek feladatait ellátó diáksport-egyesületek feladatainak zavartalan ellátásához szükséges feltételek megteremtését.
 
 (3) A megyei és a fővárosi önkormányzat az (1)–(2) bekezdésben foglaltakon túl sportszervezési feladatai körében:
 

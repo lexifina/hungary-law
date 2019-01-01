@@ -1,8 +1,10 @@
-61. § (1) A járadékra jogosultságot és a járadékot a sportpolitikáért felelős miniszter a jogosult kérelmére közigazgatási hatósági eljárás keretében állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
+61. § (1) A járadékra jogosultságot és a járadékot a sportpolitikáért felelős miniszter az általa vezetett nyilvántartás alapján, közigazgatási hatósági eljárás keretében hivatalból állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
+
+(1a) Az (1) bekezdés szerinti nyilvántartás hatósági nyilvántartás, amely az 59. § (1), (3) és (4) bekezdésében meghatározott személy 57/B. § (1) bekezdése szerinti adatait, továbbá az 59. § (1) bekezdésében meghatározott sporteredményeket tartalmazza.
 
 (2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében dönt.
 
-(3)
+(3) Az esedékessé vált és a járadékra jogosult önhibájából nem folyósított járadék folyósítását az esedékességtől számított egyéves jogvesztő határidőn belül a folyósításhoz szükséges, az olimpiai járadékról szóló kormányrendeletben meghatározott adatok közlésével kérelmezheti a járadékra jogosult.
 
 (4) A sportpolitikáért felelős miniszter a járadékra jogosultság időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a jogosult nem vált-e érdemtelenné és nem áll-e büntetőeljárás hatálya alatt. A sportpolitikáért felelős miniszter e célból adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
 
@@ -30,6 +32,6 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 a) olimpiai játékoknak minősülnek a szocialista országok versenyzői számára 1984-ben megrendezett ,,A'' kategóriás nemzetközi versenyek is,
 
-b) Sakkolimpiának minősülnek a Nemzetközi Siket Sakkszövetség (ICSC) és a Vakok Nemzetközi Sakkszövetsége (IBCA) által a siketek és nagyothallók, valamint a vakok és gyengénlátók számára 1984-től kezdődően megrendezett sakkolimpiák is.
+b) Sakkolimpiának minősülnek a Siketek Nemzetközi Sakk Bizottsága (ICCD) és a Vakok Nemzetközi Sakkszövetsége (IBCA) által a siketek és nagyothallók, valamint a vakok és gyengénlátók számára 1984-től kezdődően megrendezett sakkolimpiák is.
 
 c) az olimpiánként, paralimpiánként, sakkolimpiánként és siketlimpiánként érmes helyezés csak akkor keletkeztet járadékra való jogosultságot, ha az érmes helyezést megalapozó versenyszám kvalifikációs versenyrendszerben került megrendezésre, vagy az érmes helyezést megalapozó versenyszámban legalább 8 nemzet vett részt (indult).

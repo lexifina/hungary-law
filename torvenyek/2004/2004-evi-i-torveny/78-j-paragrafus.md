@@ -1,0 +1,3 @@
+78/J. § (1) E törvénynek a sportról szóló 2004. évi I. törvény módosításáról szóló 2018. évi CXXXV. törvénnyel (a továbbiakban: Módtv5.) megállapított 22. § (2) bekezdés f) pont fc), ff) és fi)–fm) alpontját, valamint 51. § (2) bekezdés g) pont ge ) és gf) alpontját a Módtv5. hatálybalépésekor folyamatban lévő sportfejlesztési programok és elszámolások ellenőrzése, és eljárások vonatkozásában is alkalmazni kell.
+
+(2) E törvénynek a Módtv5.-tel megállapított 22. § (7) és (8) bekezdését, valamint 51. § (5) és (6) bekezdését a 2018–2019-es támogatási időszakra benyújtott sportfejlesztési programok és folyamatban lévő eljárások vonatkozásában is alkalmazni kell.

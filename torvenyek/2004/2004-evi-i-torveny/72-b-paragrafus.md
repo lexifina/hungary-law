@@ -12,7 +12,7 @@ d) lakcímét, és
 
 e) – a 72/A. § (2) bekezdésében meghatározott esetben – biometrikus sablonját
 
-a szervező, valamint az a)–d) pontban meghatározott adatokat a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet a belépőjegy, a bérlet, illetve a klubkártya érvényességének lejáratát követő 3 munkanapig nyilvántartja, ezt követően törli. Az a)–c) pontban meghatározott adatokat a szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet a belépőjegyen, a bérleten, illetve a klubkártyán feltüntetheti.
+a szervező, valamint az a)–d) pontban meghatározott adatokat a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet a belépőjegy, a bérlet, illetve a klubkártya érvényességének lejáratát követő 3 munkanapig nyilvántartja, ezt követően törli. Az a)–c) pontban meghatározott adatokat a szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet a belépőjegyen, a bérleten, illetve a klubkártyán feltüntetheti. A klubkártyán a képmás is szerepelhet.
 
 (3) A 72/A. § (2) bekezdésében meghatározott esetben a szervező, valamint a szervező által megbízott, sportesemény-szervező tevékenységet folytató szervezet a klubkártya értékesítésekor rögzíti a biometrikus adatot, amelyből haladéktalanul biometrikus sablont képez. A biometrikus sablont
 

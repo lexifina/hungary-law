@@ -12,7 +12,7 @@
 
 a) végrehajtja a NOB alapszabályában és egyéb szabályzataiban a nemzeti olimpiai bizottságok részére megállapított célkitűzéseket és feladatokat,
 
-b) a szakszövetségekkel együttműködve elősegíti a versenyzők olimpiai játékokra való felkészülését, illetve részvételét,
+b) a szakszövetségekkel együttműködve elősegíti a versenyzők olimpiai eseményekre való felkészülését, részvételét,
 
 c) fejleszti az olimpiai mozgalmat,
 
@@ -22,9 +22,13 @@ e) az olimpiai mozgalom érdekében védi az olimpiai jelképeket, szimbólumoka
 
 f) kizárólagos jogokat gyakorol – a NOB előírásaival összhangban – az alábbi területeken:
 
-fa) a sportágak és a sportolók nevezése és sportszakemberek akkreditálása a nyári és téli olimpiai játékokra, a nyári és téli ifjúsági olimpiai játékokra, valamint az európai ifjúsági olimpiai fesztiválra, a NOB és az Európai Olimpiai Bizottság által elismert sporteseményekre, játékokra, továbbá a nyári és a téli európai ifjúsági olimpiai fesztiválokra,
+fa) a sportágak és a sportolók nevezése és sportszakemberek akkreditálása az olimpiai eseményekre,
 
 fb) a NOB szabályzataiban meghatározott olimpiai tulajdonelemeknek – különösen az olimpiai szimbólumnak, zászlónak, jelmondatnak, lángnak, fáklyának az „olimpia” és „olimpiai” elnevezésnek –, valamint azok bármely nyelvű fordításának bármilyen módon és formában történő megjelenítése, felhasználása, illetve ezek mások általi bármilyen módon és formában történő megjelenítésének, felhasználásának engedélyezése, valamint az ezzel kapcsolatos vagyoni jogok gyakorlása, illetve az ezekkel való rendelkezés. Az olimpiai tulajdonelemek megjelenítésének tekintendők az olimpiai tulajdonelemekhez hasonló, azokkal összevethető, azokra közvetett, de egyértelműen azonosítható formában utaló megjelenítések,
+
+fc) az olimpiai csapattagság feltételeinek, a csapattagok jogainak és kötelezettségeinek meghatározása, valamint az olimpiai csapattal összefüggő vagyoni értékű jogok hasznosítása,
+
+fd) az olimpiai csapat olimpiai eseményeken való részvételének előkészítésével, szervezésével és lebonyolításával kapcsolatos vagyoni értékű jogok hasznosítása,
 
 g) jóváhagyja a sportszövetségek éves olimpiai felkészülési programját és nyomon követi annak megvalósítását,
 

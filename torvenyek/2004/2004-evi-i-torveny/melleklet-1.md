@@ -190,6 +190,22 @@ Magyar Testgyakorlók Köre
 
 |
 
+12a.
+
+|
+
+Budapest, 4465
+
+(14000/68063 tulajdoni hányad arányában)
+
+|
+
+Magyar Testgyakorlók Köre
+
+(székhely: Budapest 1073, Erzsébet krt. 24. I. emelet)
+
+|
+
 13.
 
 |

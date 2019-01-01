@@ -10,6 +10,6 @@ b) részt vesz a sporttal kapcsolatos nemzetközi együttműködésben, ideértv
 
 c) előkészíti és megköti a sporttal kapcsolatos, a hatáskörébe tartozó nemzetközi szerződéseket,
 
-d) a sportpolitikáért felelős miniszter javaslata alapján a nemzetközi sportszervezetek (jogtulajdonosok) által megkívánt garanciát vállal a kiemelt nemzetközi sportrendezvények (különösen olimpia, Paralimpia, Siketlimpia és speciális világjátékok, világbajnokság, Európa-bajnokság) és sportdiplomáciai események magyarországi megrendezéséhez,
+d) a megrendezésre való pályázást, jelentkezést vagy azzal azonos egyéb kötelezettségvállalást megelőzően, pénzügyi és a nemzetközi sportszervezetek (jogtulajdonosok) által megkívánt más garanciát vállal a kiemelt nemzetközi sportrendezvények (különösen olimpia, paralimpia, siketlimpia és speciális világjátékok, világbajnokság, Európa-bajnokság, világkupa, olimpiai vagy paralimpiai kvalifikációs verseny) és sportdiplomáciai események magyarországi megrendezéséhez,
 
 e) a sportkultúra fenntartásával és fejlesztésével kapcsolatos feladatok ellátása során támogatja a határon túli magyar sportkapcsolatok fejlesztését.

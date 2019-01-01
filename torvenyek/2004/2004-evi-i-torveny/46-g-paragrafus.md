@@ -1,12 +1,12 @@
 ## Nemzeti Versenysport Szövetség
 
-46/G. § (1) A Nemzeti Versenysport Szövetség (a továbbiakban: NVESZ) a nem olimpiai sportágak szervezett versenysportjában működő – e törvényben meghatározott – országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az NVESZ-t a Fővárosi Törvényszék tartja nyilván. Az NVESZ jogosult Magyarország címerének és zászlajának használatára.
+46/G. § (1) Az NVESZ a nem olimpiai sportágak szervezett versenysportjában működő – e törvényben meghatározott – országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az NVESZ-t a Fővárosi Törvényszék tartja nyilván. Az NVESZ jogosult Magyarország címerének és zászlajának használatára.
 
 (2) Az NVESZ működésének részletes szabályait e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
 
 (3) Az NVESZ feladatai a nem olimpiai sportágak szervezett versenysportjának területén elsősorban:
 
-a) szervezi a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékain és a Nemzetközi Sportszövetségek Szövetségének (Sportaccord) Világjátékain való magyar részvételt és az arra való felkészülés szakmai feladatait,
+a) szervezi a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékain és a Nemzetközi Sportszövetségek Szövetségének (GAISF) Világjátékain való magyar részvételt és az arra való felkészülés szakmai feladatait,
 
 b) részt vesz a nem kormányzati nemzetközi sportszervezetek, különösen az Európai Nem Kormányzati Sportszervezetek Szövetségének (ENGSO) tevékenységében, amely feladatkört nem kizárólag a nem olimpiai sportágakkal összefüggésben gyakorolja,
 

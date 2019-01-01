@@ -28,7 +28,7 @@ i) az a szervezet, amely a sportpolitikáért felelős miniszter által a látv�
 
 j) az a sportszövetség, amelyik az (5) bekezdés szerinti kötelezettségét határidőre nem teljesíti,
 
-k) az a szakszövetség, valamint országos sportági szövetség, amelyik nem igazolja, hogy rendelkezik a 23. § (1) bekezdésében meghatározott szabályzatokkal.
+k) az a szakszövetség, valamint országos sportági szövetség, amelyik nem igazolja, hogy rendelkezik a 23. § (1) bekezdésében meghatározott, e törvény, valamint a felhatalmazása alapján kiadott jogszabályok rendelkezéseivel összhangban álló szabályzatokkal.
 
 (3) A támogatást nyújtó a támogatási szerződéstől köteles elállni, ha a támogatott szervezet:
 
@@ -43,3 +43,5 @@ d) a támogatást nem a szerződésben megjelölt célra használta fel.
 (4) A sportpolitikáért felelős minisztérium írásbeli megkeresésére, annak kézhezvételétől számított harminc napon belül az állami adóhatóság tájékoztatást köteles nyújtani a sportszervezetek, illetve a sportszövetségek köztartozásairól.
 
 (5) A sportszövetség a sportköztestület – sportpolitikáért felelős miniszter által meghatározott időpontban tett – felhívására elkészíti és megküldi a sportköztestület részére a működésével összefüggő, valamint szakmai feladatai ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját. A sportköztestület a sportszövetség által megküldött szakmai tervek és finanszírozási koncepciók figyelembevételével az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által a sportköztestület részére megadott határidőben javaslatot tesz a miniszter részére a sportszövetség állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerinti támogatásáról.
+
+(6) A sportpolitikáért felelős miniszter felhívására a sportszövetség megküldi a sportpolitikáért felelős miniszter részére a 23. § (1) bekezdésében meghatározott szabályzatait. A sportpolitikáért felelős miniszter a szabályzatok megléte, továbbá az e törvény, valamint a végrehajtására kiadott jogszabályok rendelkezéseivel való összhangja vizsgálatának eredményére figyelemmel dönthet a (2) bekezdésben foglaltak alkalmazásáról.

@@ -1,6 +1,6 @@
 64. § (1) A Kormány által külön jogszabályban olimpiai központnak minősített, állami tulajdonban lévő ingatlanok vagyonkezelője köteles e központokat elsődlegesen sportcélokra használni, ezt a célt az olimpiai központok másodlagos használata során sem veszélyeztetheti.
 
-(2) Az olimpiai központok sportszakmai felügyeletét a MOB és a Magyar Paralimpiai Bizottság közreműködésével a sportpolitikáért felelős miniszter, a vagyongazdálkodási és létesítményfejlesztési szakmai felügyeletét az állami vagyon felügyeletéért felelős miniszter látja el.
+(2) Az olimpiai központok szakmai felügyeletét a MOB és az MPB közreműködésével a sportpolitikáért felelős miniszter látja el.
 
 (3) Az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonú ingatlanok a sportpolitikáért felelős miniszter által vezetett minisztérium előzetes egyetértésével adhatók ingyenesen önkormányzati tulajdonba.
 

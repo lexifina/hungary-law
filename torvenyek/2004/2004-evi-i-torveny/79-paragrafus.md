@@ -14,7 +14,7 @@ bc) a sportrendezvények biztonságára és a Minősítő Bizottság működés�
 
 bd) az olimpiai központokra vonatkozó részletes szabályokat,
 
-be) az olimpiai járadékra és a Nemzet Sportolója címre vonatkozó részletes szabályokat,
+be) az olimpiai járadékra, azzal összefüggésben a sportpolitikáért felelős miniszter által vezetett nyilvántartásra és a „Nemzet Sportolója” címre vonatkozó részletes szabályokat,
 
 bf) a sport területén képesítéshez kötött tevékenységek gyakorlására vonatkozó részletes szabályokat,
 
@@ -32,7 +32,9 @@ bl) a biztonságtechnikai fejlesztésre kötelezettek körét, és
 
 bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységével összefüggő biztosításra vonatkozó részletes szabályokat,
 
-bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait.
+bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
+
+bp) a sportakadémiai minősítés megszerzésének feltételeit és eljárásrendjét, a sportakadémia működésére, valamint az általa biztosítandó feltételekre és szolgáltatásokra vonatkozó szempontrendszert, alapvető követelményeket és az azoknak való megfelelés ellenőrzésének rendjét.
 
 (2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 

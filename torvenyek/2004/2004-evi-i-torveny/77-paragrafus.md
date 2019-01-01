@@ -6,7 +6,7 @@
 
 77. § E törvény alkalmazásában:
 
-a)
+a) olimpiai esemény: a NOB, az Európai Olimpiai Bizottságok, valamint a Nemzeti Olimpiai Bizottságok Szövetsége hatáskörébe tartozó nemzetközi sportesemény, így különösen a nyári és téli olimpiai játékok, a nyári és téli ifjúsági olimpiai játékok, a nyári és téli európai ifjúsági olimpiai fesztiválok, az Európa Játékok, valamint a Strand Világjátékok,
 
 b) edző: a külön jogszabályban meghatározott szakképesítéssel rendelkező természetes személy, aki a sportolónak a sporttevékenységre való felkészítését végzi,
 
@@ -28,7 +28,7 @@ j) nyilvános hely: az olyan épület, építmény vagy a közterületnek sportr
 
 k) országos jellegű szervezet a szabadidősport, a fogyatékosok sportja, a diák- és az egyetemi-főiskolai sport területén: a szervezet közhasznúnak minősül, és legalább 7 megyében székhellyel rendelkező, országosan legalább 20 jogi személy taggal működik,
 
-l)
+l) sportakadémia: a sportakadémiai minősítés megszerzéséről és a sportakadémia működéséről szóló kormányrendeletben meghatározott feltételeknek megfelelő és az erre vonatkozó igazolással rendelkező, olimpiai sportágban működő olyan sportszervezet, amely sportág-specifikus, kiemelkedően magas színvonalú utánpótlás-nevelési, képzési, sporttudományos, sportegészségügyi, infrastrukturális és sportmenedzsment feltételek és szolgáltatások biztosításával gondoskodik a tehetség-kiválasztásról, -gondozásról és -fejlesztésről, a versenyzők magas szintű sportszakmai felkészítéséről, versenyeztetéséről, továbbá szervezi a sportolók sporttevékenységgel összefüggő és tanulmányi kötelezettségeinek teljesítését segítő körülmények megteremtését. A sportakadémia állami sportcélú támogatásban részesíthető;
 
 m) sportiskola: az a köznevelési intézmény, jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány, amely az alábbiak szerint utánpótlás-nevelési feladatokat lát el vagy közreműködik azok ellátásában:
 
@@ -50,7 +50,7 @@ s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolg�
 
 t) utánpótlás-nevelés fejlesztését végző alapítvány: alapító okiratában meghatározott tartós közérdekű cél szerinti tevékenysége – elsősorban utánpótláskorú versenyzőkkel kapcsolatos – sporttevékenység elősegítése, feltételeinek biztosítása, felkészítő (edzéssel összefüggő) és versenyeztetési feladatok szervezése.
 
-u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül,
+u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, sporttevékenység végzése céljából tartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül,
 
 v) olimpiai pályázat: a 2024. évi XXXIII. Nyári Olimpiai és XVII. Paralimpiai Játékok budapesti rendezésére vonatkozó pályázat,
 

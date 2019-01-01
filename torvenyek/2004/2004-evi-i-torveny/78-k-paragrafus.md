@@ -1,0 +1,1 @@
+78/K. § E törvénynek a Módtv5.-tel megállapított 1. mellékletében foglalt táblázat 12a. sorában szereplő tulajdoni hányad vonatkozásában a vagyonkezelő kijelölésére tekintettel az ingatlan-nyilvántartásba bejezett vagyonkezelő vagyonkezelői joga a törvény erejénél fogva megszűnik.

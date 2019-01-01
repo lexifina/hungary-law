@@ -8,7 +8,7 @@
 
 (2) Külön jogszabályban meghatározott sportrendezvény szervezője csak sportszervezet, szakszövetség vagy sportági szövetség lehet.
 
-(3) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó versenyrendszer működtetése esetén a labdarúgás sportág tekintetében a szakszövetség, a sportági szövetség, valamint a versenyrendszerben részt vevő sportszervezet szakirányú képesítéssel rendelkező biztonsági felelőst köteles alkalmazni.
+(3) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó versenyrendszer működtetése esetén a labdarúgás sportág tekintetében a szakszövetség, a sportági szövetség, valamint a versenyrendszerben részt vevő sportszervezet szakirányú képesítéssel rendelkező biztonsági felelőst köteles alkalmazni. A sportszövetség a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzatában határozza meg azokat a szakirányú képesítéseket, amellyel a biztonsági felelősnek rendelkeznie kell, és azokat a követelményeket, amelyeket teljesítenie kell.
 
 (4) Kizárólag a szakszövetség, vagy az országos sportági szövetség előzetes írásbeli hozzájárulásával tartható olyan sportrendezvény, amelynek résztvevői a versenyzés során fokozott veszéllyel járó tevékenységet folytatnak (veszélyes üzem). A szakszövetség, vagy az országos sportági szövetség a hozzájárulását nem tagadhatja meg, ha a sportrendezvény lebonyolítása a sportág hazai és nemzetközi versenyszabályzatában, valamint egyéb szabályzataiban meghatározott biztonsági előírásoknak megfelel, és megtartása a sportág versenyrendszerének (bajnokság) működtetését nem veszélyezteti.
 

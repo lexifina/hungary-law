@@ -1,6 +1,6 @@
 ## A Magyar Paralimpiai Bizottság
 
-46/A. § (1) A Magyar Paralimpiai Bizottság (a továbbiakban: MPB) a Nemzetközi Paralimpiai Bizottság által kizárólagos nemzeti paralimpiai bizottságként elismert, a paralimpiai mozgalommal kapcsolatos szervezett versenysporttal és a fogyatékosok verseny-, diák- és hallgatói sportjával, valamint szabadidősportjával összefüggő – e törvényben meghatározott –, országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az MPB-t a Fővárosi Törvényszék tartja nyilván. Az MPB jogosult Magyarország címerének és zászlajának használatára.
+46/A. § (1) Az MPB a Nemzetközi Paralimpiai Bizottság által kizárólagos nemzeti paralimpiai bizottságként elismert, a paralimpiai mozgalommal kapcsolatos szervezett versenysporttal és a fogyatékosok verseny-, diák- és hallgatói sportjával, valamint szabadidősportjával összefüggő – e törvényben meghatározott –, országos közfeladatokat ellátó köztestület, amely a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül. Az MPB-t a Fővárosi Törvényszék tartja nyilván. Az MPB jogosult Magyarország címerének és zászlajának használatára.
 
 (2) Az MPB működésének részletes szabályait a Nemzetközi Paralimpiai Bizottság szabályainak, valamint e törvény és a külön jogszabályok rendelkezéseinek figyelembevételével a közgyűlés által elfogadott alapszabály határozza meg.
 
@@ -20,7 +20,9 @@ f) a Nemzetközi Paralimpiai Bizottság magyarországi tagszervezeteként – a 
 
 fa) nevezi a sportágakat és a sportolókat a paralimpiai játékokra,
 
-fb) engedélyezi a paralimpiai jelkép, zászló, jelvény, jelmondat, himnusz kereskedelmi vagy egyéb célú használata, illetve ezek mások általi használatát, hasznosítását.
+fb) engedélyezi a paralimpiai jelkép, zászló, jelvény, jelmondat, himnusz kereskedelmi vagy egyéb célú használatát, hasznosítását, valamint gyakorolja az ezzel kapcsolatos vagyoni jogokat, és rendelkezik ezekkel.
+
+(3a) A paralimpiai csapattal összefüggő, a (3) bekezdés f) pont fb) alpontjában meghatározott vagyoni értékű jogok az MPB-t illetik meg.
 
 (4) Az MPB feladatai a fogyatékosok sportja területén elsősorban:
 

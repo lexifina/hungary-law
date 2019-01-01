@@ -4,11 +4,11 @@
 
 a) a NOB által szervezett nyári vagy téli olimpiai játékokon vagy a FIDE által szervezett Sakkolimpián, illetve
 
-b) 1984-től kezdődően Paralimpián vagy Siketlimpián
+b) 1955-től kezdődően Paralimpián vagy 1984-től kezdődően Siketlimpián
 
 első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
-(2) Az érmes a járadék megállapítására és folyósítására irányuló kérelmét a harmincötödik életévének betöltését követő hónap 1. napjától kezdődően terjesztheti elő a sportpolitikáért felelős miniszterhez. A kérelem kormányablaknál nem terjeszthető elő. A sportpolitikáért felelős miniszter a kérelem jóváhagyása esetén a járadékot a kérelem benyújtásának időpontjától kezdődően – a kérelem benyújtása és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
+(2) A sportpolitikáért felelős miniszter a járadékot a jogosulttá válás időpontjától kezdődően – a jogosulttá válás és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
 
 (3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző tíz évben megszakítás nélkül közös háztartásban élt.
 
@@ -24,7 +24,7 @@ c) a sportszervezettel vagy – a szövetségi kapitány vagy a nemzeti válogat
 
 d) az érmest a járadékra jogosultságát megalapozó versenyre a versenyt megelőzően közvetlenül, legalább egy évig folyamatosan felkészítette vagy a felkészítésben közreműködött,
 
-e) az érmes által, a járadékra jogosító eredmény elérését megalapozó, az (1) bekezdés a)–b) pontjaiban meghatározott sportesemények hivatalos időszakát legalább harminc nappal megelőzően a szövetség, valamint a MOB és a sportpolitikáért felelős miniszter részére írásban eljuttatott javaslatban szerepel.
+e) az érmes által, a járadékra jogosító eredmény elérését megalapozó, az (1) bekezdés a)–b) pontjában meghatározott sportesemények hivatalos időszakát legalább harminc nappal megelőzően a szövetség, valamint a sportolót a sporteseményre nevező sportszövetség vagy sportköztestület, és a sportpolitikáért felelős miniszter részére írásban eljuttatott javaslatban szerepel.
 
 (6) Edzői járadék szövetségi kapitány vagy a nemzeti válogatottat vezető edző és – abban az esetben, ha az érmest utánpótlás korosztályokban legalább három évig folyamatosan felkészítette vagy a felkészítésben közreműködött – nevelőedző részére is megállapítható, ha az edző az (5) bekezdés e) pontja szerinti javaslatban szerepel.
 
@@ -42,6 +42,6 @@ b) büntetlen előéletű, de akivel szemben a bíróság bűncselekmény elköv
 
 (11) Ha a jogosult igazolja, hogy a vele szemben folytatott büntetőeljárást a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével befejezte, vagy az ügyészség vagy a nyomozó hatóság a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozatot hozott, és nem következett be a (8) bekezdés szerinti érdemtelenségi ok, a sportpolitikáért felelős miniszter az igazolástól számított harminc napon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt járadékot. Amennyiben a jogosult érdemtelenné vált, a (10) bekezdés alapján felfüggesztett járadék nem kerül részére folyósításra.
 
-(12) A sportpolitikáért felelős miniszter a járadékra való jogosultság megállapítása és folyósítása iránti kérelem elbírálása céljából adatot igényel a bűnügyi nyilvántartó szervtől arra vonatkozóan, hogy a kérelmező nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
+(12) A sportpolitikáért felelős miniszter a járadékra való jogosultság megállapítása és folyósítása céljából adatot igényel a bűnügyi nyilvántartó szervtől arra vonatkozóan, hogy az érintett személy nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
 
 (13) A jogosulatlanul felvett járadékot az erről való tudomásszerzést vagy a sportpolitikáért felelős miniszter felhívását követő hatvan napon belül vissza kell fizetni.

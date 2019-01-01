@@ -1,6 +1,6 @@
 46/H. § (1) Az NVESZ tagjai – az NVESZ alapszabályának elfogadása esetén –
 
-a) alanyi jogon azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékainak és a Nemzetközi Sportszövetségek Szövetsége (Sportaccord) Világjátékainak programján,
+a) alanyi jogon azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékainak és a Nemzetközi Sportszövetségek Szövetsége (GAISF) Világjátékainak programján,
 
 b) a nem olimpiai sportágakban működő – a) pont hatálya alá nem tartozó – sportszövetségek,
 

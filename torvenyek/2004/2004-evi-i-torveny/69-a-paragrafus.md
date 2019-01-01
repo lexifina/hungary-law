@@ -16,4 +16,4 @@ d) a versenyrendszerben szervezett utolsó versenyt követő 45 napon belül meg
 
 (5) Az értékelés eredményét a Minősítő Bizottság a sportrendezvények biztonsági minősítése során figyelembe veszi. A Minősítő Bizottság súlyos vagy ismétlődő hiányosságok esetén javaslatot tesz a sportpolitikáért felelős miniszter részére a szakszövetség vagy a tagszervezeteként működő sportszervezet állami támogatásának felfüggesztésére, illetve visszavonására.
 
-(6) A sportszövetség az (1) bekezdésben meghatározott helyzetjelentéseket évente rendszeresen értékeli a rendőrség és a szervezők részvételével. Az értékelést írásba foglalja és – különösen az eltiltásokkal és a kizárásokkal, valamint azok érvényesítésével kapcsolatban – megteszi a fejlesztés végrehajtása érdekében szükséges intézkedéseket.
+(6) A sportszövetség az (1) bekezdésben meghatározott helyzetjelentéseket évente rendszeresen értékeli a rendőrség és a szervezők részvételével. Az értékelést írásba foglalja és – különösen az eltiltásokkal, kitiltásokkal és a kizárásokkal, valamint azok érvényesítésével kapcsolatban – megteszi a fejlesztés végrehajtása érdekében szükséges intézkedéseket.

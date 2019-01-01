@@ -38,4 +38,6 @@ o) fenntartja a sportegészségügy állami intézményeit és országos hálóz
 
 p) biztosítja a nemzeti sportinformációs rendszer működésének feltételeit,
 
-q) támogatja a testkultúra fejlesztését szolgáló és sporttudományi képzést.
+q) támogatja a testkultúra fejlesztését szolgáló és sporttudományi képzést,
+
+r) ösztönzi és támogatja a sportakadémiák létrejöttét és működését.

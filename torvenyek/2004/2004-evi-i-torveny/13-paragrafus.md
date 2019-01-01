@@ -2,7 +2,7 @@
 
 (2) A sportszövetség a sportfegyelmi eljárást tagjaival, illetve az általa kiírt vagy szervezett versenyen (versenyrendszerben) részt vevő sportszervezettel szemben folytathatja le.
 
-(3) Sportszervezetre sportfegyelmi büntetésként:
+(3) Sportszervezetre – a sportág jellegére figyelemmel – sportfegyelmi büntetésként:
 
 a) írásbeli figyelmeztetés,
 
@@ -32,8 +32,10 @@ m) a sportszövetségi eljárás költségeinek viselésére kötelezés,
 
 n) a sportszövetségből kizárás legfeljebb egy évre,
 
-o) legfeljebb ötvenmillió forint pénzbüntetés
+o) legfeljebb ötvenmillió forint pénzbüntetés,
+
+p) névre szóló jegyértékesítés alkalmazására kötelezés
 
 szabható ki.
 
-(4) A pénzbüntetés a (3) bekezdés b)–m) pontjaiban meghatározott fegyelmi büntetésekkel együtt is alkalmazható. A c), d) és m) pontban meghatározott büntetések egymással és bármely más büntetéssel együtt is alkalmazhatók. A g) és h) pontban megállapított büntetések egymással és az i), illetve j) pontban meghatározott büntetésekkel együtt is alkalmazhatók.
+(4) A pénzbüntetés a (3) bekezdés b)–m) és p) pontjában meghatározott fegyelmi büntetésekkel együtt is alkalmazható. A c), d), m) és p) pontban meghatározott büntetések egymással és bármely más büntetéssel együtt is alkalmazhatók. A g) és h) pontban megállapított büntetések egymással és az i), illetve j) pontban meghatározott büntetésekkel együtt is alkalmazhatók.

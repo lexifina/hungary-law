@@ -1,0 +1,1 @@
+57/C. § Az állami támogatással való elszámolás ellenőrzése során a sportpolitikáért felelős miniszter megismerheti az állami támogatásból közvetetten részesülő természetes személynek az állami támogatás felhasználásával összefüggő személyes adatait.

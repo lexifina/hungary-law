@@ -10,12 +10,14 @@
 
 a) amely a Nemzetközi Olimpiai Bizottság által elismert sportág, vagy
 
-b) amelyben a sportág nemzetközi szövetségét felvették a Nemzetközi Sportszövetségek Szövetségébe (Sportaccord).
+b) amelyben a sportág nemzetközi szövetségét felvették a Nemzetközi Sportszövetségek Szövetségébe (Global Association of International Sports Federations, a továbbiakban: GAISF).
 
-(5) Szakszövetségnek a (4) bekezdésben foglaltakon túlmenően csak olyan sportszövetség minősülhet, amelynek:
+(5) Szakszövetségnek a (4) bekezdésben foglaltakon túlmenően csak olyan sportszövetség minősülhet,
 
-a) legalább tíz, az adott sportágban tevékenykedő sportszervezet a tagja,
+a) amelynek legalább tíz, az adott sportágban tevékenykedő sportszervezet a tagja,
 
-b) legalább három éve folyamatosan országos versenyrendszert (bajnokságot) működtet,
+b) amely legalább három éve folyamatosan országos versenyrendszert (bajnokságot) működtet,
 
-c) versenyrendszerében rendszeresen legalább száz fő, sportági versenyengedéllyel rendelkező sportoló vesz részt.
+c) amelynek versenyrendszerében rendszeresen legalább száz fő, sportági versenyengedéllyel rendelkező sportoló vesz részt, és
+
+d) amely – ha nem a Nemzetközi Olimpiai Bizottság által elismert sportágban működik – a (4) bekezdés b) pontja szerinti sportági nemzetközi szövetség tagja.
