@@ -1,1 +1,1 @@
-7. § A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvény módosításáról szóló 2015. évi LX. törvény 2. § (1) bekezdésével megállapított 1. mellékletet a 2015. július 1-jét követően indult ügyekben kell alkalmazni.
+7. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvény 21. §-ával megállapított 1. mellékletet a 2019. január 1-jét követően indult ügyekben kell alkalmazni.
