@@ -1,6 +1,6 @@
-## 109. §[^91]
+## 109. §[^108]
 
-1. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^92]
+1. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^109]
 
 ## Adóraktári nyilvántartás és az adóraktár Jöt. 24. § szerinti adatszolgáltatásának adattartalma
 
@@ -26,19 +26,23 @@ II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-k�
 
 2. Készletnövekedés (bizonylatszám)
 
-2.1. Előállított jövedéki termék (bioetanol esetében az alábbi bontásban)*
+2.1.[^110] Előállított jövedéki termék*
 
-2.1.1. EU termelésű alapanyagból fenntarthatósági igazolással rendelkezik
+2.1.1. Bioetanol esetében az alábbi bontásban
 
-2.1.2. EU termelésű alapanyagból fenntarthatósági igazolással nem rendelkezik
+2.1.1.1. EU termelésű alapanyagból fenntarthatósági igazolással rendelkezik
 
-2.1.3. Harmadik országban termelt alapanyagból fenntarthatósági igazolással rendelkezik
+2.1.1.2. EU termelésű alapanyagból fenntarthatósági igazolással nem rendelkezik
 
-2.1.4. Harmadik országban termelt alapanyagból fenntarthatósági igazolással nem rendelkezik
+2.1.1.3. Harmadik országban termelt alapanyagból fenntarthatósági igazolással rendelkezik
+
+2.1.1.4. Harmadik országban termelt alapanyagból fenntarthatósági igazolással nem rendelkezik
+
+2.1.2. A Jöt. 3. § (3) bekezdés 22. pontja szerint sörnek minősülő, erjesztést követően előállított még nem késztermék
 
 2.2. Cigarettán kívüli dohánygyártmány Jöt. 77. § (3) bekezdés b) pontja szerinti zárjegy eltávolítás utáni készletre vétele*
 
-2.3.[^93] Előállított nem jövedéki termék és az adófizetési kötelezettség alól mentesült jövedéki termék
+2.3.[^111] Előállított nem jövedéki termék és az adófizetési kötelezettség alól mentesült jövedéki termék
 
 2.3.1. Jöt. 133. § (1) bekezdés e) pontja szerinti gyógyszer, gyógyhatású készítmény, gyógyszeranyag, intermedier*
 
@@ -74,7 +78,7 @@ termék*
 
 2.5.5. adófelfüggesztési eljárás keretében történő szállításból visszaszállított
 
-2.6. Adófelfüggesztési eljárás keretében átvett csendes bor*
+2.6.[^112] Adófelfüggesztési eljárás keretében átvett csendes és habzóbor*
 
 2.6.1. Egyszerűsített adóraktártól
 
@@ -120,9 +124,15 @@ termék*
 
 2.23. Jövedéki termék átvezetése KN-kód vagy fajtkód változása esetén (növekedés)*
 
+2.24.[^113] A Jöt. 9. § (1) bekezdés a) pontja szerint értékesített jövedéki termék kiszállítást követő 72 órán belül részben vagy teljes mennyiségben történő visszaszállítása*
+
+2.25.[^114] Adóraktárban végzett felhasználói engedélyes tevékenységből átvett termék a Jöt. 24. § (11) bekezdése szerint*
+
 3. Készletcsökkenés (bizonylat száma)
 
-3.1.[^94] Jövedéki termék előállításához felhasznált jövedéki termék*
+3.1.[^115] Jövedéki termék előállításához felhasznált jövedéki termék*
+
+3.1.1. A Jöt. 3. § (3) bekezdés 22. pontja szerint sörnek minősülő, erjesztést követően előállított még nem késztermék
 
 3.2. Jövedéki termék vagy nem jövedéki termék előállításához alapanyagként felhasznált nem jövedéki termék
 
@@ -154,7 +164,7 @@ termék*
 
 3.8. Cigarettán kívüli dohánygyártmányok Jöt. 77. § (3) bekezdés b) pontja szerinti zárjegy eltávolítást követő kivezetése az adózott készletből*
 
-3.9.[^95] A Jöt. 9. § (1) bekezdés e) és f) pontja szerint jövedéki termék olyan károsodása, amelyet az állami adó- és vámhatóság teljes megsemmisülésként vagy helyrehozhatatlan károsodásként elismert (időpont, mód/körülmények, kárenyhítés érdekében tett intézkedés), a Jöt. 9. § (4) bekezdés b) pontja szerint elismert mennyiségű hiány kivételével
+3.9.[^116] A Jöt. 9. § (1) bekezdés e) és f) pontja szerint jövedéki termék olyan károsodása, amelyet az állami adó- és vámhatóság teljes megsemmisülésként vagy helyrehozhatatlan károsodásként elismert (időpont, mód/körülmények, kárenyhítés érdekében tett intézkedés), a Jöt. 9. § (4) bekezdés b) pontja szerint elismert mennyiségű hiány kivételével
 
 3.10. A Jöt. 112. § (1) bekezdés a) pontja szerint jövedéki termék kiszolgálása*
 
@@ -256,7 +266,9 @@ termék*
 
 3.31. Jövedéki termék átvezetése KN-kód vagy fajtakód változása esetén (csökkenés)*
 
-3.32.[^96] A Jöt. 112. § (1) bekezdés d) pontja szerint jövedéki termék kiszolgálása*
+3.32.[^117] A Jöt. 112. § (1) bekezdés d) pontja szerint jövedéki termék kiszolgálása*
+
+3.33.[^118] Adóraktárban végzett felhasználói engedélyes tevékenységhez kiadott termék a Jöt. 24. § (11) bekezdése szerint*
 
 4. Zárókészlet (elszámolási időszak végén)
 
@@ -612,9 +624,14 @@ IV. Bérfőzésre vonatkozó adatok (bérfőzetőnként és bérfőzésenként)
 
 6.5. Bérfőzető háztartása számára a származási igazolvány kiállításáig a tárgyévben kiadott kedvezményes adómértékű párlat mennyisége* b
 
-[^91]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^92]: Az 1. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^93]: Az 1. melléklet II. pont 2. alpont 2.3. pontja a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^94]: Az 1. melléklet II. pont 3. alpont 3.1. pontja a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^95]: Az 1. melléklet II. pont 3. alpont 3.9. pontja a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^96]: Az 1. melléklet II. pont 3. alpont 3.32. pontját a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdése iktatta be.
+[^108]: A 109. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: Az 1. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^110]: Az 1. melléklet II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-kódja*, jövedéki termék fajtakódja*, termék mennyisége*, [dohánygyártmány esetében kiszerelési egység és kiskereskedelmi eladási ár is]*) pont 2. alpont 2.1. pontja a 15/2018. (XII. 18.) PM rendelet 6. §-ával megállapított szöveg.
+[^111]: Az 1. melléklet II. pont 2. alpont 2.3. pontja a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^112]: Az 1. melléklet II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-kódja*, jövedéki termék fajtakódja*, termék mennyisége*, [dohánygyártmány esetében kiszerelési egység és kiskereskedelmi eladási ár is]*) pont 2. alpont 2.6. pontja a 15/2018. (XII. 18.) PM rendelet 6. §-ával megállapított szöveg.
+[^113]: Az 1. melléklet II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-kódja*, jövedéki termék fajtakódja*, termék mennyisége*, [dohánygyártmány esetében kiszerelési egység és kiskereskedelmi eladási ár is]*) pont 2. alpont 2.24. pontját a 15/2018. (XII. 18.) PM rendelet 6. §-a iktatta be.
+[^114]: Az 1. melléklet II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-kódja*, jövedéki termék fajtakódja*, termék mennyisége*, [dohánygyártmány esetében kiszerelési egység és kiskereskedelmi eladási ár is]*) pont 2. alpont 2.25. pontját a 15/2018. (XII. 18.) PM rendelet 6. §-a iktatta be.
+[^115]: Az 1. melléklet II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-kódja*, jövedéki termék fajtakódja*, termék mennyisége*, [dohánygyártmány esetében kiszerelési egység és kiskereskedelmi eladási ár is]*) pont 3. alpont 3.1. pontja a 15/2018. (XII. 18.) PM rendelet 6. §-ával megállapított szöveg.
+[^116]: Az 1. melléklet II. pont 3. alpont 3.9. pontja a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^117]: Az 1. melléklet II. pont 3. alpont 3.32. pontját a 47/2017. (XII. 27.) NGM rendelet 12. § (1) bekezdése iktatta be.
+[^118]: Az 1. melléklet II. Termékkészlet elszámolás (termék megnevezése, jövedéki termék KN-kódja*, jövedéki termék fajtakódja*, termék mennyisége*, [dohánygyártmány esetében kiszerelési egység és kiskereskedelmi eladási ár is]*) pont 3. alpont 3.33. pontját a 15/2018. (XII. 18.) PM rendelet 6. §-a iktatta be.

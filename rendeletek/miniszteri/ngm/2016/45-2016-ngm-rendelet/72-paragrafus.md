@@ -9,3 +9,7 @@ c) a tényleges vagy átlagfogyasztás, továbbá a megtett és felszámításra
 d) a felhasználásra kiadott, és az ebből ténylegesen visszaigénylésre is jogosító gázolaj mennyiségről szóló számviteli bizonylatok.
 
 (2) A Jöt. 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a Jöt. 113. § (1) bekezdés szerinti adó-visszaigénylés más állami támogatással és csekély összegű (de minimis) támogatással nem halmozható.
+
+(3)[^76] Amennyiben a Jöt. 112. § (1) bekezdés b) pontja szerinti adófizetési kötelezettség alóli mentesülés és a hozzá kapcsolódó adó-visszaigénylés, valamint a 113. § (1) bekezdése szerinti adó-visszaigénylés mértéke meghaladja a Jöt. 95. § (9) bekezdése szerinti határértéket, az ezt meghaladóan érvényesített mentesülés vagy adó-visszaigénylés összegét az állami adó- és vámhatóság felszólításának közlését követő 8 napon belül meg kell fizetni az állami adó- és vámhatóságnak.
+
+[^76]: A 72. § (3) bekezdését a 15/2018. (XII. 18.) PM rendelet 4. §-a iktatta be.

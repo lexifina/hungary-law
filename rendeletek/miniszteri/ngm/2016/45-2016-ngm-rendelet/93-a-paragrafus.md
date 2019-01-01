@@ -1,4 +1,4 @@
-## VIII/A.[^75] ZÁRJEGY, HIVATALOS ZÁR
+## VIII/A.[^92] ZÁRJEGY, HIVATALOS ZÁR
 
 ## 40/A. A zárjegy általános szabályai
 
@@ -10,4 +10,4 @@
 
 (4) Az előállítás, a tárolás és a kiadás során keletkező selejtes, sérült zárjegyet a zárjegy előállítójának és az állami adó- és vámhatóságnak a képviselőiből álló bizottság jegyzőkönyv felvétele mellett – a zárjegyek tételes ellenőrzését, számbavételét követően – megsemmisíti.
 
-[^75]: A VIII/A. fejezetet (93/A–93/R. §) az 5/2017. (III. 30.) NGM rendelet 25. §-a iktatta be.
+[^92]: A VIII/A. fejezetet (93/A–93/R. §) az 5/2017. (III. 30.) NGM rendelet 25. §-a iktatta be.

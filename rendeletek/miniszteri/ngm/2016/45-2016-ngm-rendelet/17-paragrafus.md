@@ -18,6 +18,6 @@ c) a próbaszesz számított és tényleges mennyisége közötti különbözet 
 
 (7) Az állami adó- és vámhatóság a (6) bekezdés a) és b) pontja alapján hozott döntéséről a mérésügyi szervet értesíti.
 
-(8)[^15] A (6) bekezdés szerinti döntés elleni fellebbezés tárgyában az állami adó- és vámhatóság felettes szerve 3 napon belül dönt, a másodfokú döntés véglegessé válásáig a szeszmérő gép nem használható.
+(8)[^20] A (6) bekezdés szerinti döntés elleni fellebbezés tárgyában az állami adó- és vámhatóság felettes szerve 3 napon belül dönt, a másodfokú döntés véglegessé válásáig a szeszmérő gép nem használható.
 
-[^15]: A 17. § (8) bekezdése a 47/2017. (XII. 27.) NGM rendelet 13. § 4. pontja szerint módosított szöveg.
+[^20]: A 17. § (8) bekezdése a 47/2017. (XII. 27.) NGM rendelet 13. § 4. pontja szerint módosított szöveg.

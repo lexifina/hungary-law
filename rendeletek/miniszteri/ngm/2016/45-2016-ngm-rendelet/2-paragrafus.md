@@ -42,7 +42,11 @@ m)[^5] az alkalmazott denaturálási eljárás leírását, valamint a 100. § (
 
 n) bejegyzett kereskedői engedélykérelem esetében egyéb ellenőrzött ásványolaj felhasználói engedélyes vagy nyilvántartásba vett felhasználó részére történő beszerzése esetében, a felhasználói engedélyes, nyilvántartásba vett felhasználó kérelmező részére kiállított nyilatkozatának másolatát egyéb ellenőrzött ásványolaj beszerzésére adott megbízásáról és az egyéb ellenőrzött ásványolajnak a nyilatkozatot tevő telephelyén történő átvételéről,
 
-o)[^6] a Jöt. 92. § (1) bekezdés a) pontja szerinti esetben a hatósági erkölcsi bizonyítványt.
+o)[^6] a Jöt. 92. § (1) bekezdés a) pontja szerinti esetben a hatósági erkölcsi bizonyítványt,
+
+p)[^7] jogi személy jogutódlása esetén a cégbírósághoz benyújtott cégbejegyzés vagy változásbejegyzés iránti kérelem másolatát,
+
+q)[^8] öröklés esetén az elhunyt engedélyes halotti anyakönyvi kivonatának és az örökös adóraktárra vonatkozó használati jogcímének megállapítására alkalmas okirat másolatát.
 
 (3) Az engedélyt kérőnek az engedélyezési feltételek helyszíni hatósági ellenőrzésekor a helyszínen rendelkeznie kell az alábbi dokumentumokkal és azok másolatát a helyszíni ellenőrzés alkalmával elektronikus formában az állami adó- és vámhatóság rendelkezésére kell bocsátania:
 
@@ -77,3 +81,5 @@ c) – a 19. § szerinti esetben – csatolni kell az egyszerűsített adórakt�
 [^4]: A 2. § (2) bekezdés j) pontja a 47/2017. (XII. 27.) NGM rendelet 14. § 2. pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés m) pontja az 5/2017. (III. 30.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (2) bekezdés o) pontját az 5/2017. (III. 30.) NGM rendelet 3. § (3) bekezdése iktatta be, a 47/2017. (XII. 27.) NGM rendelet 13. § 1. pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdés p) pontját a 15/2018. (XII. 18.) PM rendelet 1. §-a iktatta be.
+[^8]: A 2. § (2) bekezdés q) pontját a 15/2018. (XII. 18.) PM rendelet 1. §-a iktatta be.
