@@ -1,0 +1,3 @@
+## 1. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 25/2007. (V. 31.) IRM rendelet [a továbbiakban: 25/2007. (V. 31.) IRM rendelet] 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A tartózkodási kártya cseréjére illetékes regionális igazgatóság az új tartózkodási kártyát – a meglévő tartózkodási kártya bevonása mellett – a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadja.”
