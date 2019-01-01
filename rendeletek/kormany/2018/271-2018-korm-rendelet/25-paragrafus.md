@@ -1,0 +1,5 @@
+25. § (1) A sérülékenységvizsgálat előkészítése során a sérülékenységvizsgálatot végző szerv sérülékenységvizsgálati dokumentációt készít. A sérülékenységvizsgálati dokumentációban rögzíti a vizsgálati feladatokat, célokat, a technikai és személyi feltételeket, a módszertant, az egyeztetések, a sérülékenységvizsgálat várható befejezésének dátumát.
+
+(2) Ha a sérülékenységvizsgálatot a hatóság rendeli el, akkor a sérülékenységvizsgálati dokumentációban a határozatban rögzített vizsgálati feladatokat kell feltüntetni. A sérülékenységvizsgálat egyedi kezdeményezése esetén a vizsgálati feladatokra a kezdeményező javaslatot tehet, amelyről a sérülékenységvizsgálatot végző szerv dönt.
+
+(3) A sérülékenységvizsgálati dokumentációt a sérülékenységvizsgálatot végző szerv megküldi az érintett szervezet részére. Az érintett szervezet a sérülékenységvizsgálati dokumentáció tartalmára a kézhezvételtől számított nyolc napon belül észrevételt tehet. Az észrevétel nem érintheti a hatóság által elrendelt vizsgálatokat. Az észrevételekről a sérülékenységvizsgálatot végző szerv dönt.
