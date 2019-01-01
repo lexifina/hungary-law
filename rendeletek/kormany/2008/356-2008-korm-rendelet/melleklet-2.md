@@ -78,6 +78,12 @@
 
 | 36. szülésznő |  |  |  |  |  | * |  |  |  |  |
 
+| 37. mentésirányító |  |  |  |  |  | * |  |  |  |  |
+
+| 38. mentésvezető |  |  |  |  |  | * |  |  |  |  |
+
+| 39. okleveles ápoló - mentőtiszt |  |  |  |  |  |  |  | * |  |  |
+
 | 2) Felső-, közép- és alsófokú szak/szakmai képesítést igénylő munkakörök |  |  |  |  |  |  |  |  |  |  |
 
 | a) asszisztens/szakasszisztens |  |  |  |  |  |  |  |  |  |  |
@@ -181,6 +187,12 @@
 | 31. egészségügyi laboráns |  | * |  |  |  |  |  |  |  |  |
 
 | 32. műtőtechnikus |  |  |  | * |  |  |  |  |  |  |
+
+| 33. mentő-technikus |  |  |  | * | * |  |  |  |  |  |
+
+| 34. mentésvezető |  |  |  | * | * |  |  |  |  |  |
+
+| 35. mentésirányító |  |  |  | * | * |  |  |  |  |  |
 
 | e) kisegítő munkakörök |  |  |  |  |  |  |  |  |  |  |
 

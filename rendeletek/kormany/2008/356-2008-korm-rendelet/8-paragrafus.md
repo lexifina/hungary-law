@@ -8,12 +8,12 @@ b) az orvosigazgatói (szakmai intézményvezető-helyettesi), ápolási igazgat
 
 c) egészségügyi szolgáltatást nem nyújtó költségvetési szervnél az intézményvezető általános vagy szakmai helyettesítését magában foglaló vezetői megbízás.
 
-d)[^14] a 7. § b) pontja szerinti eset kivételével a gazdasági igazgatói – vagy a c) pont szerinti intézmény esetében a gazdasági vezetői – megbízás.
+d)[^15] a 7. § b) pontja szerinti eset kivételével a gazdasági igazgatói – vagy a c) pont szerinti intézmény esetében a gazdasági vezetői – megbízás.
 
-(2)[^15]
+(2)[^16]
 
-(3)[^16] Vezetőnek minősül az (1) bekezdésben foglaltak kivételével az intézmény önálló szervezeti egységének vezetője, valamint a munkamegosztás szempontjából elkülönült szervezeti egység vezetője.
+(3)[^17] Vezetőnek minősül az (1) bekezdésben foglaltak kivételével az intézmény önálló szervezeti egységének vezetője, valamint a munkamegosztás szempontjából elkülönült szervezeti egység vezetője.
 
-[^14]: A 8. § (1) bekezdés d) pontját a 75/2010. (III. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 73/2011. (IV. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^15]: A 8. § (2) bekezdését a 73/2011. (IV. 29.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^16]: A 8. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^15]: A 8. § (1) bekezdés d) pontját a 75/2010. (III. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 73/2011. (IV. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^16]: A 8. § (2) bekezdését a 73/2011. (IV. 29.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^17]: A 8. § (3) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
