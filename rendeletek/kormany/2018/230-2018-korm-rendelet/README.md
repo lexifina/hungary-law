@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-230-20-
 | --- | --- | --- |
 | 2018-12-07 | 2018-230-20-22.1 | 230/2018. (XII. 6.) Korm. rendelet |
 | 2018-12-08 | 2018-230-20-22.2 | 2010: CXXX. törvény |
+| 2019-01-01 | 2018-230-20-22.3 | 2010: CXXX. törvény |
