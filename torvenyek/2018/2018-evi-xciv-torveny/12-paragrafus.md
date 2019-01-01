@@ -14,21 +14,7 @@ pályakezdő álláskereső: a 25. életévét – felsőfokú végzettségű sz
 
 „2. letartóztatásban van, szabadságvesztés büntetését tölti, kivéve, ha a fogvatartott reintegrációs őrizetben van, valamint elzárás büntetését tölti,”
 
-(3) Az Flt. 58. § (5) bekezdés m) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„m) megváltozott munkaképességű személy:
-
-ma) a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján
-
-maa) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű,
-
-mab) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány alapján,
-
-mac) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű,
-
-mb) aki a komplex minősítés alól jogszabály rendelkezése alapján mentesül, rokkantsági ellátás folyósításának időtartama alatt,”
+(3)
 
 (4) Az Flt. 58. § (5) bekezdés u) pontja helyébe a következő rendelkezés lép:
 
