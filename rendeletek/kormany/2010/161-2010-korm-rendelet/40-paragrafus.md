@@ -6,9 +6,9 @@
 
 (3) A rendszerek összekapcsolásánál a rendszerre a rendszerengedélyben meghatározottnál magasabb minősítési szintű adat nem kerülhet át.
 
-(4)[^5] A rendszerek összekapcsolása során kizárólag az NBF, illetve a NATO vagy az EU által engedélyezett technikai megoldás, eszköz alkalmazható.
+(4)[^16] A rendszerek összekapcsolása során kizárólag az NBF, illetve a NATO vagy az EU által engedélyezett technikai megoldás, eszköz alkalmazható.
 
-(5)[^6] Az NBF a – NATO vagy EU által engedélyezetteken kívüli – technikai megoldás, eszköz minősített adatot kezelő rendszerekben történő alkalmazhatóságát érintően elektronikus információbiztonsági szempontból kikéri a Nemzetbiztonsági Szakszolgálat szakvéleményét.
+(5)[^17] Az NBF a – NATO vagy EU által engedélyezetteken kívüli – technikai megoldás, eszköz minősített adatot kezelő rendszerekben történő alkalmazhatóságát érintően elektronikus információbiztonsági szempontból kikéri a Nemzetbiztonsági Szakszolgálat szakvéleményét.
 
-[^5]: A 40. § (4) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 36. §-a iktatta be.
-[^6]: A 40. § (5) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 36. §-a iktatta be.
+[^16]: A 40. § (4) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 36. §-a iktatta be.
+[^17]: A 40. § (5) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 36. §-a iktatta be.

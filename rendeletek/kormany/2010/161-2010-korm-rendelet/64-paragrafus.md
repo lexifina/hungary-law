@@ -1,3 +1,3 @@
-64. §[^15]
+64. §[^36]
 
-[^15]: A 64. § a (2) bekezdés alapján hatályát vesztette.
+[^36]: A 64. § a (2) bekezdés alapján hatályát vesztette.

@@ -14,6 +14,8 @@ e) irányítja a rejtjelfelügyelő vagy a rejtjelfelügyelet tevékenységét,
 
 f) gondoskodik arról, hogy a rejtjeltevékenységgel kapcsolatos, védelem alá eső információkat csak azok a személyek ismerhessék meg, akiknek a munkájához az feltétlenül szükséges, és arra a megfelelő engedélyekkel rendelkeznek,
 
-g) folyamatos kapcsolatot tart az NHBK-val a használt rendszerek hálózati biztonsága vonatkozásában,
+g)[^8]
 
 h) kivizsgálja a rendszerbiztonsági eseményeket.
+
+[^8]: A 8. § g) pontját a 323/2018. (XII. 28.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
