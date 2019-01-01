@@ -1,0 +1,1 @@
+Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtési és lakhatási problémáinak hosszú távú megoldása érdekében, összhangban Magyarország gazdasági lehetőségeivel, a következő törvényt alkotja:

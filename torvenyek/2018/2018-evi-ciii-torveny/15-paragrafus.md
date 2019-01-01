@@ -1,0 +1,1 @@
+15. § Az MNV Zrt. a megüresedett ingatlant – elsősorban az egészségügyi ágazat szükségleteinek megoldása érdekében – szolgálati lakásként történő hasznosítás céljából az egészségügyért felelős miniszter által vezetett minisztérium vagy valamely, az egészségügyért felelős miniszter által felügyelt, illetve irányítása alatt álló költségvetési szerv vagyonkezelésébe adja.

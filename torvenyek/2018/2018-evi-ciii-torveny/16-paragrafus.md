@@ -1,0 +1,1 @@
+16. § Ha a megüresedett ingatlan a 15. § szerinti cél megvalósítása érdekében nem szükséges, az MNV Zrt. a megüresedett ingatlant az állami vagyonról szóló törvény szerint versenyeztetés útján értékesíti.
