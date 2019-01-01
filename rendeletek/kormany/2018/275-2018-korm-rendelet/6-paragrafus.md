@@ -1,0 +1,9 @@
+6. § (1) Az 1. § a) pontja szerinti költségvetési szerveknél és a helyi nemzetiségi önkormányzatoknál a támogatás megállapítása a költségvetési szerv által várhatóan ténylegesen kifizetésre kerülő – az államháztartásért felelős miniszter által március hónapban felmért – összeg alapján történik.
+
+(2) Az (1) bekezdés alapján igénybe vett támogatással 2019. november 10-éig el kell számolni, amely intézkedést az államháztartásért felelős miniszter készíti elő.
+
+(3) Ha a költségvetési szerv az elszámolást követően állapít meg visszafizetési kötelezettséget, azt a 2019. évi költségvetési maradvány elszámolása keretében kell teljesíteni.
+
+(4) A támogatás folyósítása és elszámolása érdekében az országos és a helyi nemzetiségi önkormányzat részére a nemzetiségpolitikáért osztott hatáskörben felelős miniszterek támogatói okiratot adnak ki az országos nemzetiségi önkormányzat hivatalánál, valamint az országos és a helyi nemzetiségi önkormányzat költségvetési szerveinél foglalkoztatottakat megillető kompenzáció biztosításáról. A 6. § (2) bekezdése szerinti elszámolás során igazolt új támogatási igény vagy többlettámogatásra való jogosultság felmerülése esetén az országos és helyi nemzetiségi önkormányzat részére a támogatás biztosítása érdekében új igény esetén támogatói okirat kiadására, többletigény esetén a korábbiakban kiadott támogatói okirat módosítására kerül sor. A 6. § (2) bekezdése szerinti elszámolás keretében visszafizetett támogatás nem tekinthető a költségvetési támogatás jogosulatlan igénybevételének, így az országos és helyi nemzetiségi önkormányzatot nem terheli az államháztartásról szóló 2011. évi CXCV. törvény 53/A. (2) bekezdése szerinti kamatfizetési kötelezettség.
+
+(5) Az (1) bekezdés szerint nyújtott támogatás intézmények közötti átadása esetén az átadásra kerülő előirányzatot az átadás-átvételi dokumentumban nevesítve szerepeltetni kell.
