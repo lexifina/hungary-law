@@ -2,7 +2,7 @@
 
 4. § (1) A Nyilvántartás részére történő adatszolgáltatást a (2), a (4), valamint a (6) bekezdés szerinti személyek (a továbbiakban együtt: adatszolgáltatásra jogosult személy) teljesítik.
 
-(2)[^8] Az adatszolgáltatásért felelős személy a Nyilvántartás részére történő adatszolgáltatás teljesítésére a polgármesteri hivatal vagy közös önkormányzati hivatal, illetve a járási hivatal (a továbbiakban együtt: hatóság) ügyfélkapu hozzáférési jogosultsággal rendelkező, és közszolgálati, illetve állami szolgálati jogviszonyban álló munkatársai közül – a Központ honlapján közzétett formanyomtatvány szerinti kijelölő okirat kitöltésével – egy e-képviselőt jelöl ki. A kijelölő okiratot postai vagy elektronikus úton meg kell küldeni a Központ részére.
+(2)[^8] Az adatszolgáltatásért felelős személy a Nyilvántartás részére történő adatszolgáltatás teljesítésére a polgármesteri hivatal vagy közös önkormányzati hivatal, illetve a járási hivatal (a továbbiakban együtt: hatóság) ügyfélkapu hozzáférési jogosultsággal rendelkező, és közszolgálati, illetve állami szolgálati jogviszonyban álló munkatársai közül – a Központ honlapján közzétett formanyomtatvány szerinti kijelölő okirat kitöltésével – egy e-képviselőt jelöl ki. A kijelölő okiratot elektronikus úton meg kell küldeni a Központ részére.
 
 (3)[^9] Az adatszolgáltatásért felelős személy haladéktalanul köteles a Központnak bejelenteni, ha az e-képviselő nyilvántartásba vett adatai megváltoztak vagy megbízása megszűnt.
 
@@ -16,7 +16,7 @@
 
 (8) Az e-ügyintéző, a kiemelt felhasználó és az adatrögzítő megfelelő felkészítéséről az e-képviselő gondoskodik.
 
-[^8]: A 4. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 39. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés a) pontja, a 477/2016. (XII. 27.) Korm. rendelet 71. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 39. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés a) pontja, a 477/2016. (XII. 27.) Korm. rendelet 71. § (2) bekezdése, a 303/2018. (XII. 27.) Korm. rendelet 27. §-a szerint módosított szöveg.
 [^9]: A 4. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^10]: A 4. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 39. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^11]: A 4. § (6) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 39. § c) pontja szerint módosított szöveg.

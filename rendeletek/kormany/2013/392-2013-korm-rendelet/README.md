@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-392-20-
 | 2017-01-01 | 2013-392-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-11-01 | 2013-392-20-22.9 | 311/2017. (X. 31.) Korm. rendelet |
 | 2018-01-01 | 2013-392-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-01-01 | 2013-392-20-22.11 | 303/2018. (XII. 27.) Korm. rendelet |
