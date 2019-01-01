@@ -1,6 +1,6 @@
 ## A nemzetbiztonsági szolgálatok által alkalmazható intézkedések
 
-31. § (1) A nemzetbiztonsági szolgálatok nyomozóhatósági jogkört nem gyakorolhatnak.
+31. § (1) A nemzetbiztonsági szolgálatok nyomozást és előkészítő eljárást nem folytathatnak.
 
 (2) A nemzetbiztonsági szolgálatok hivatásos állományú tagja a 32–36. §-ban meghatározott intézkedéseket a nemzetbiztonsági szolgálatok feladatkörébe tartozó bűncselekmények megelőzése, illetve az ilyen bűncselekmények elkövetőjének elfogása érdekében alkalmazhatja.
 

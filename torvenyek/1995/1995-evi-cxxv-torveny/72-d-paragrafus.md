@@ -40,11 +40,11 @@ bc) a nemzetbiztonsági ellenőrzés alá eső személy által kezdeményezett �
 
 (9) A nemzetbiztonsági ellenőrzés alá eső személy a miniszter döntésével szemben, annak kézhezvételétől számított 15 napon belül panasszal élhet a Bizottságnál.
 
-(10) Ha nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) bekezdése vagy a 72/B. § (8) bekezdése alapján szüntették meg, a megszüntetésről szóló döntés kézhezvételétől számított 15 napon belül a nemzetbiztonsági ellenőrzés alá eső személy kezdeményezheti a Fővárosi Közigazgatási és Munkaügyi Bíróságnál a Bizottság 19/A. § (2) bekezdés a) pontja szerinti panaszt elutasító döntésének felülvizsgálatát.
+(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) bekezdése vagy a 72/B. § (8) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
-(11) A (10) bekezdés szerinti bírósági felülvizsgálat kezdeményezésének joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
+(11) A (10) bekezdés szerinti közigazgatási per megindításának joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
 
-(12) A bíróság e § szerinti eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
+(12) A bíróság e § szerinti eljárására a közigazgatási perrendtartás rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
 (13) A bíróság a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény kiadásának alapjául szolgáló eljárás jogszerűségét vizsgálja, jogköre nem terjed ki a nemzetbiztonsági kockázat megállapításának szakszerűségére.
 

@@ -18,7 +18,7 @@ c) a 71/D. § alapján a nemzetbiztonsági ellenőrzés alapjául szolgáló jog
 
 d) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy a nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettsége teljesítését elmulasztotta vagy a bejelentett változás jellege ezt indokolja,
 
-e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult nemzetbiztonsági kockázatra utaló körülményről, az alábbiakról szerez tudomást:
+e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult az alábbiakról szerez tudomást:
 
 ea) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója ellen indult büntetőeljárás vagy elzárással büntethető szabálysértés miatt indult szabálysértési eljárás,
 
@@ -30,7 +30,17 @@ ed) kábítószer-fogyasztás, alkoholfüggőség, alkoholfogyasztással összef
 
 ee) az igazolható jövedelemhez képest jelentős mértékű eladósodottság, pénzügyi kötelezettségek teljesítésének jelentős mértékű elmulasztása, jelentős mértékű, ismeretlen eredetű vagyongyarapodás, az igazolható jövedelemből nem fedezhető életvitel,
 
-ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek használatára vonatkozó szabályok, a munkakör betöltésével kapcsolatos biztonsági előírások megsértése.
+ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek használatára vonatkozó szabályok, a munkakör betöltésével kapcsolatos biztonsági előírások megsértése,
+
+eg) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója szervezett bűnözői körökkel, ellenérdekelt titkosszolgálathoz kötődő személlyel való kapcsolattartása,
+
+eh) az ellenőrzött életvitelében, körülményeiben bekövetkező olyan változás, amely alkalmas az ellenőrzött befolyásolására, zsarolhatóságára,
+
+ei) az ellenőrzött hivatali helyzetével való visszaélése,
+
+ej) az ellenőrzött szélsőséges politikai vagy vallási jellegű szervezetekkel, csoportokkal való kapcsolattartása, ilyen szervezetekhez, csoportokhoz való tartozása, illetve ezek anyagi jellegű támogatása.
+
+(2a) Ha a (2) bekezdés e) pontjában meghatározott nemzetbiztonsági kockázatra utaló körülményről a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója szerez tudomást, arról értesítheti a kezdeményezésre jogosultat.
 
 (3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) és e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy a 71/A. § (2) bekezdésben foglaltak szerint biztonsági kérdőívet tölt ki, írásban vagy a 71/A. § (2) bekezdésben meghatározott elektronikus keretprogram használatával.
 
@@ -38,7 +48,7 @@ ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek has
 
 a) a kezdeményezésre jogosult kezdeményezése alapján elrendeli,
 
-b) a (2) bekezdés a) és b), valamint d) és e) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
+b) a (2) bekezdés a) és b), valamint d) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
 
 c) a (2) bekezdés c) pontja alapján a 71/D. § (2) bekezdésében foglaltak szerint dönt a felülvizsgálati eljárás elrendeléséről.
 

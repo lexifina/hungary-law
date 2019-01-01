@@ -12,11 +12,13 @@ e) szakértői, illetve – külön jogszabály rendelkezései szerint – igazs
 
 f) ellátja az objektumai műveleti védelmének és személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
 
-g) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést,
+g) elvégezheti a saját minősített beszerzései tekintetében a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti kiegészítő ellenőrzést,
 
 h) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez,
 
-i) jogszabály rendelkezései szerint ellátja az állami és önkormányzati szervek elektronikus információbiztonságával kapcsolatos információbiztonsági feladatokat.
+i) jogszabály rendelkezései szerint ellátja az elektronikus információbiztonsággal kapcsolatos feladatokat,
+
+j) jogszabály rendelkezései szerint ellátja a minősített adat védelmével kapcsolatos hatósági feladatokat, valamint a telephelyi iparbiztonsági hatósági feladatokat.
 
 (2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 

@@ -1,5 +1,7 @@
 71/B. § (1) A nemzetbiztonsági ellenőrzést az eljáró nemzetbiztonsági szolgálat főigazgatója a kezdeményezés kézhezvételét követő 8 napon belül rendeli el. A nemzetbiztonsági ellenőrzést az elrendeléstől számított 60 napon belül kell lefolytatni, mely határidő egy esetben 30 nappal meghosszabbítható.
 
+(1a) Ha a nemzetbiztonsági ellenőrzés elrendelését követően, a nemzetbiztonsági ellenőrzés befejezését megelőzően ugyanarra a személyre vonatkozóan más kezdeményező is kezdeményezi a nemzetbiztonsági ellenőrzés lefolytatását, akkor a későbbi kezdeményezés vonatkozásában a főigazgató az újabb elrendelést mellőzi. Az elrendelés mellőzéséről, valamint a korábban a kezdeményező részére megküldött írásbeli értesítések tartalmáról a nemzetbiztonsági szolgálat főigazgatója az újabb kezdeményezőt írásban értesíti. A már megkezdett nemzetbiztonsági ellenőrzésben ezt követően a későbbi kezdeményező is a kezdeményező jogkörében vesz részt, ennek tényéről a nemzetbiztonsági szolgálat főigazgatója mindkét kezdeményezőt írásban értesíti.
+
 (2) A nemzetbiztonsági ellenőrzés határidejének meghosszabbításáról az eljáró nemzetbiztonsági szolgálat főigazgatója határoz, arról a kezdeményezőt, valamint a kezdeményező útján a nemzetbiztonsági ellenőrzés alá vont személyt 8 napon belül írásban értesíti.
 
 (3) A nemzetbiztonsági ellenőrzés során a kockázati tényezők vizsgálatának és értékelésének arányosnak kell lennie a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakörhöz kapcsolódó, a minősített adat védelméhez fűződő és más biztonsági követelményekkel.

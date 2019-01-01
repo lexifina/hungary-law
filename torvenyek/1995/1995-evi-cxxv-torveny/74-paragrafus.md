@@ -72,6 +72,8 @@ iu) az Országgyűlési Őrség személyi állománya;
 
 iv) a Nemzeti Emlékezet Bizottsága tagja;
 
+iw) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény (a továbbiakban: Lrtv.) szerinti közigazgatási hatósági eljárásban a hatóságok és a szakhatóságok részéről részt vevő személy, valamint – az Lrtv. szerinti üzemeltető kezdeményezésére – az európai létfontosságú rendszerelemekre vonatkozó, Lrtv. szerinti azonosítási eljárásban az üzemeltető által igénybe vett közreműködő személy;
+
 j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
 
 k) együttműködő szervek: a 30/A. §-ban meghatározott szervek;

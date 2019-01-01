@@ -36,7 +36,9 @@ f) a továbbított, 2016/681/EU parlamenti és tanács irányelv szerinti előze
 
 (9a)
 
-(10)–(11)
+(10) A Terrorelhárítási és Információs Bűnügyi Elemző Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések, valamint elveszett, eltulajdonított úti okmányok hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+
+(11)
 
 (12)
 

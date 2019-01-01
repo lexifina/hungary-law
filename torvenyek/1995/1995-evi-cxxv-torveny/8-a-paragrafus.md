@@ -40,7 +40,7 @@ f) országos jelentőségű, több szervet érintő, valamint a Kormány, a Korm
 
 g) Magyarország nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, ezek meghatározott elemeivel, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztató jelentéseket, háttér- és kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó feladatok törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
 
-h) feltárja az együttműködő szervek által folytatott párhuzamos adatkezeléseket, különösen a több együttműködő szerv által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott titkos információgyűjtéseket, illetve az ugyanazon bűncselekmény miatt párhuzamosan folytatott nyomozásokat és ezekről tájékoztatja az érintett együttműködő szerveket;
+h) feltárja az együttműködő szervek által folytatott párhuzamos adatkezeléseket, különösen a több együttműködő szerv által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott titkos információgyűjtéseket, alkalmazott leplezett eszközöket, illetve az ugyanazon bűncselekmény miatt párhuzamosan folytatott nyomozásokat és előkészítő eljárásokat és ezekről tájékoztatja az érintett együttműködő szerveket;
 
 i) abban az esetben, ha
 
