@@ -592,6 +592,46 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | Agyi metastasisban (metastasisokban) szenvedő | C793 | Az agy és agyburkok másodlagos rosszindulatú daganata |
 
+| Emlő rosszindulatú daganata | C50 | Az emlő rosszindulatú daganata |
+
+| C500 | Mellbimbó és bimbóudvar rosszindulatú daganata |
+
+| C501 | Az emlő központi részének rosszindulatú daganata |
+
+| C502 | Az emlő felső-belső negyedének rosszindulatú daganata |
+
+| C503 | Az emlő alsó-belső negyedének rosszindulatú daganata |
+
+| C504 | Az emlő felső-külső negyedének rosszindulatú daganata |
+
+| C505 | Az emlő alsó-külső negyedének rosszindulatú daganata |
+
+| C506 | Az emlő hónalji részének rosszindulatú daganata |
+
+| C508 | Az emlő átfedő elváltozása, rosszindulatú daganata |
+
+| C509 | Emlő rosszindulatú daganata, k.m.n. |
+
+| Méhnyak rosszindulatú daganata | C53 | A méhnyak rosszindulatú daganata |
+
+| C530 | Endocervix rosszindulatú daganata |
+
+| C531 | Exocervix rosszindulatú daganata |
+
+| C538 | A méhnyak átfedő elváltozása, rosszindulatú daganata |
+
+| C539 | Méhnyak rosszindulatú daganata, k.m.n. |
+
+| Petefészek rosszindulatú daganata | C56 | A petefészek rosszindulatú daganata |
+
+| A prosztata rosszindulatú daganata | C61 | A prosztata rosszindulatú daganata |
+
+| A here rosszindulatú daganata | C620 | Nem descendált here rosszindulatú daganata |
+
+| C621 | Descendált here rosszindulatú daganata |
+
+| C629 | Here rosszindulatú daganata, k.m.n |
+
 | 8. Mesterséges testnyílással élő személy | Z93 | Mesterséges testnyílás |
 
 | Z930 | Tracheostomával élő személy |
@@ -1468,7 +1508,29 @@ Súlyos fogyatékosságnak minősülő betegségek és fogyatékosságok
 
 | Q984 | Klinefelter-szindróma k.m.n. |
 
+| 18. A női nemi szervek nem gyulladásos betegségei közül: |  |  |
+
+| Endometriosis | N80 | Endometriosis |
+
+| N800 | A méh endometriosisa |
+
+| N801 | A petefészek endometriosisa |
+
+| N802 | A petevezető endometriosisa |
+
+| N803 | A medencei hashártya endometriosisa |
+
+| N804 | A rectovaginalis septum és a hüvely endometriosisa |
+
+| N805 | Bél endometriosis |
+
+| N806 | Endometriosis bőrhegben |
+
+| N808 | Egyéb endometriosis |
+
+| N809 | Endometriosis , k.m.n. |
+
 * A mozgásszervi fogyatékos betegségcsoporthoz tartozó egyes BNO-kon belül csak az 1. oszlopban hozzárendelt betegségek vehetők figyelembe.
 
 [^4]: A 3. § (3) bekezdése a (2) bekezdés alapján 2010. január 1-jén lépett hatályba.
-[^5]: A Melléklet a 250/2017. (IX. 5.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^5]: A Melléklet a 250/2017. (IX. 5.) Korm. rendelet 36. §-a, a 287/2018. (XII. 21.) Korm. rendelet 29. §-a szerint módosított szöveg.
