@@ -1,3 +1,7 @@
-2. melléklet a 14/2018. (XII. 15.) MvM rendelethez[^5]
+2. melléklet a 14/2018. (XII. 15.) MvM rendelethez
 
-[^5]: A 2. melléklet a 4. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+1. Az R. 1. mellékletében foglalt táblázat M:65 mezője helyébe a következő mező lép:
+
+|  |  | (Kezelő szerv) |
+
+|  | (359517) | Bethlen Gábor Alapkezelő Zrt. |
