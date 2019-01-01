@@ -1,3 +1,1 @@
-## 35. §[^30]
-
-[^30]: A 35. § a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## 35. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 1. melléklete helyébe a 6. melléklet lép.

@@ -2,26 +2,25 @@
 
 32. § (1) Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1.[^21]
+1. „[Az Áht. 21. § (4a) bekezdéséhez]” alcíme,
 
-2.[^22]
+2.[^12]
 
-3.[^23]
+3. 112. § (2) bekezdése, és
 
-4.[^24]
+4.[^13]
 
 (2) Hatályát veszti az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1–2.[^25]
+1–2.[^14]
 
-3–4.[^26]
+3. 132. § (1) bekezdésében az „ , a tárgyhónapon belül dekádonkénti” szövegrész,
 
-5–6.[^27]
+4. 132. § (2) bekezdésében a „Kötelező a finanszírozási terv módosítása az előirányzatok módosítása, átcsoportosítása – kivéve, ha az előirányzat-átcsoportosítás a kiemelt előirányzatok közötti átcsoportosítására vonatkozik –, továbbá a finanszírozási tervben bejelentett kifizetési ütem módosítása esetén.” szövegrész,
 
-[^21]: A 32. § (1) bekezdés 1. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^22]: A 32. § (1) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 32. § (1) bekezdés 3. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^24]: A 32. § (1) bekezdés 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 32. § (2) bekezdés 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 32. § (2) bekezdés 3–4. pontja a 41. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
-[^27]: A 32. § (2) bekezdés 5–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+5–6.[^15]
+
+[^12]: A 32. § (1) bekezdés 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 32. § (1) bekezdés 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 32. § (2) bekezdés 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 32. § (2) bekezdés 5–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

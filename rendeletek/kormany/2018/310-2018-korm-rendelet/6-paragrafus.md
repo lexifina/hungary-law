@@ -1,0 +1,1 @@
+## „(4) Az Igazgatóság az önkormányzat kérelmét és annak mellékleteit, valamint a hiánytalan kérelemről és annak mellékleteiről a (2) bekezdés szerint kialakított véleményét a kérelem benyújtását vagy a (3) bekezdés szerinti hiánypótlást követő 8 napon belül elektronikus úton továbbítja a fővárosi és megyei kormányhivatalnak.”
