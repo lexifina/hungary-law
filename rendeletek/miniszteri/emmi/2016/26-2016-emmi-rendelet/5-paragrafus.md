@@ -14,10 +14,11 @@ c) a miniszter által normatív utasításban megjelölt személy díjanként eg
 
 (3b)[^15] A 2. § (8) bekezdés 2. pontja szerinti díj tekintetében a Nemzeti Pedagógus Kar elnöke az adományozható díjak kétszeresének megfelelő számú díjazottra tesz javaslatot, a miniszter által normatív utasításban megjelölt személy további egy díjazottat javasolhat.
 
-(4) A 2. § (12) bekezdése szerinti díjak esetében a beérkezett kezdeményezések alapján a miniszter által felkért személyekből álló bizottság tesz a díjazottakra javaslatot.
+(4)[^16]
 
 [^11]: Az 5. § (1) bekezdése a 30/2017. (XI. 21.) EMMI rendelet 6. §-a szerint módosított szöveg.
 [^12]: Az 5. § (1) bekezdés b) pontja a 9/2018. (II. 15.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^13]: Az 5. § (3) bekezdés a 3/2017. (III. 7.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^14]: Az 5. § (3a) bekezdését a 3/2017. (III. 7.) EMMI rendelet 2. § (2) bekezdése iktatta be.
 [^15]: Az 5. § (3b) bekezdését a 3/2017. (III. 7.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^16]: Az 5. § (4) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § b) pontja hatályon kívül helyezte.

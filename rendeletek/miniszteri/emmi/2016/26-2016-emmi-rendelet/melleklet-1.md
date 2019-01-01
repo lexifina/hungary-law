@@ -1,4 +1,4 @@
-## 16. §[^19]
+## 16. §[^21]
 
 1. melléklet a 26/2016. (IX. 8.) EMMI rendelethez
 
@@ -70,7 +70,7 @@ b) az élő önkéntes szerv- vagy szövetdonornak,
 
 c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
-5.2.[^20] Az 5.1. pont a) alpontja alapján a díj adományozását a Magyar Vöröskereszt és az Országos Vérellátó Szolgálat kezdeményezi.
+5.2.[^22] Az 5.1. pont a) alpontja alapján a díj adományozását a Magyar Vöröskereszt és az Országos Vérellátó Szolgálat kezdeményezi.
 
 5.3. A díj átadására minden évben a Véradók Világnapján (november 27.) vagy a Transzplantációs Világnapon (október 10.) kerül sor.
 
@@ -90,7 +90,7 @@ c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
 6.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom összege az illetményalap tizenkétszeresének megfelelő összeg.
 
-II. FEJEZET[^21]
+II. FEJEZET[^23]
 
 ## KULTURÁLIS ÁGAZAT
 
@@ -248,7 +248,7 @@ II. FEJEZET[^21]
 
 17.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
-17/A.[^22] Máté Péter-díj
+17/A.[^24] Máté Péter-díj
 
 17/A. 1. A díj kiemelkedő könnyűzenei, dzsesszzenei előadó-művészeti tevékenység elismerésére adományozható természetes személyek és előadóművész-csoportok részére.
 
@@ -476,7 +476,7 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 31.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
 
-31/A.[^23] Művészeti életpálya elismerés
+31/A.[^25] Művészeti életpálya elismerés
 
 31/A. 1. A díj a kulturális ágazatban jelentős művészi életpályával rendelkező művészek elismerésére adományozható.
 
@@ -706,7 +706,7 @@ V. FEJEZET
 
 48.2. A díj átadására a Nemzetközi Családi Nap (május 15.) alkalmából kerül sor.
 
-48.3.[^24] A díjból évente legfeljebb tíz adományozható.
+48.3.[^26] A díjból évente legfeljebb tíz adományozható.
 
 48.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 102 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, fiatal háromtagú családot ábrázol egészalakos figurákkal, a köriratban a „PRO FAMILIIS” felirat található.
 
@@ -746,7 +746,7 @@ V. FEJEZET
 
 51.3. A díj átadására a Tolerancia Nemzetközi Napján (november 16.) vagy a Fogyatékossággal Élő Emberek Világnapján (december 3.), illetőleg nemzeti, állami ünnep vagy kiemelkedő szakmai esemény alkalmából kerül sor.
 
-51.4.[^25] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
+51.4.[^27] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
 
 51.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 95 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, rajta „ESÉLYTEREMTÉSÉRT DÍJ” félkörívű felirat található.
 
@@ -772,59 +772,19 @@ V. FEJEZET
 
 53.3. A díjból évente legfeljebb kettő adományozható.
 
-53.4.[^26] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, három részből áll, a külső bronzgyűrű átmérője 80 mm, magassága 12 mm, ezen látható a felirat: „MAGYAR FIATALOKÉRT DÍJ”. A bronzgyűrűbe egy gőzölt akácfa korong kerül belefoglalásra, jól látszó, koncentrikusan elhelyezkedő évgyűrűkkel, melynek közepén a fa erezetét egyedileg lekövető kontúrvonalú ezüstintarzia szerepel. Az emlékérem tervezői és készítői Gelley Kristóf és Mátyás Zoltán ötvösművészek.
+53.4.[^28] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, három részből áll, a külső bronzgyűrű átmérője 80 mm, magassága 12 mm, ezen látható a felirat: „MAGYAR FIATALOKÉRT DÍJ”. A bronzgyűrűbe egy gőzölt akácfa korong kerül belefoglalásra, jól látszó, koncentrikusan elhelyezkedő évgyűrűkkel, melynek közepén a fa erezetét egyedileg lekövető kontúrvonalú ezüstintarzia szerepel. Az emlékérem tervezői és készítői Gelley Kristóf és Mátyás Zoltán ötvösművészek.
 
 53.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
 
-VI. FEJEZET
+VI. FEJEZET[^29]
 
-## EGYHÁZI, NEMZETISÉGI ÉS CIVIL TÁRSADALMI KAPCSOLATOKÉRT FELELŐS ÁGAZAT
+54.
 
-54. Károli Gáspár-díj
+55.
 
-54.1. A díj azon kiemelkedő személyiségek elismerésére adományozható, akik a protestáns hittudományok terén kifejtett munkásságukkal gazdagították a magyar tudományos életet, illetve a magyar vallási irodalomban és vallási életben kiemelkedőt alkottak, különös tekintettel a biblikus tudományokban, illetve a teológiában – fordítással, tanulmánnyal – elért kimagasló eredményeikre. Továbbá azoknak adományozható, akik a protestáns egyházak társadalmi beágyazottságának kiszélesítése terén fejtettek ki kiemelkedő tevékenységet, hoztak létre kimagasló eredményt, illetve munkásságukkal az egyház közfeladat ellátásának kiszélesítésében értek el jelentős eredményt.
+56.
 
-54.2. A díj minden évben október 31-én, a reformáció napján kerül átadásra.
-
-54.3. A díj évente legfeljebb két fő részére adományozható, megosztás nélkül.
-
-54.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Csontos László szobrászművész alkotása, egyoldalas, Károli Gáspár domború arcképét ábrázolja születési és halálozási dátummal (1529k.–1591), és azon „KÁROLI GÁSPÁR-DÍJ” felirat található.
-
-54.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
-
-55. Fraknói Vilmos-díj
-
-55.1. A díj azoknak adományozható, akik munkássága kiemelkedő a teológia, a filozófia vagy az egyháztörténelem területén, illetve akik tevékenységükkel előmozdították a magyar vallási élet megújulását és a teológia oktatásának fejlődését. Továbbá azoknak adományozható, akik az egyház társadalmi beágyazottságának kiszélesítése terén fejtettek ki kiemelkedő tevékenységet, hoztak létre kimagasló eredményt, illetve munkásságukkal az egyház közfeladat-ellátásának kiszélesítésében értek el jelentős eredményt.
-
-55.2. A díj minden évben szeptember 8-án, Kisboldogasszony ünnepén kerül átadásra.
-
-55.3. A díj évente legfeljebb három fő részére adományozható, megosztás nélkül.
-
-55.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Király Vilmos szobrászművész alkotása, egyoldalas, Fraknói Vilmos domború arcképét ábrázolja születési és halálozási dátummal (1843–1924), és azon „FRAKNÓI VILMOS-DÍJ” felirat található.
-
-55.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
-
-56. Scheiber Sándor-díj
-
-56.1. A díj azoknak adományozható, akik kiemelkedőt alkottak – a magyar nemzeti kultúra szolgálatában – a hebraisztika, judaisztika, zsidó vallás-, művelődéstörténet és az oktatás, valamint a zsidók és nem zsidók közötti párbeszéd és tolerancia előmozdításának területén. Továbbá azoknak adományozható, akik az egyházak társadalmi beágyazottságának kiszélesítése terén fejtettek ki kiemelkedő tevékenységet, hoztak létre kimagasló eredményt, illetve munkásságukkal az egyház közfeladat-ellátásának kiszélesítésében értek el jelentős eredményt.
-
-56.2. A díj minden évben március 3-án, Scheiber Sándor főrabbi halálának évfordulóján kerül átadásra.
-
-56.3. A díj évente egy fő részére adományozható, megosztás nélkül.
-
-56.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Gáti Gábor szobrászművész alkotása, kétoldalas, előlapja Scheiber Sándor domború arcképét ábrázolja születési és halálozási dátummal (1913–1985), és azon „SCHEIBER SÁNDOR-DÍJ” felirat található, hátlapját magyarul és héberül az „EMLÉKEZZ” szó díszíti.
-
-56.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
-
-56/A.[^27] Pro Cultura Minoritatum Hungariae díj
-
-56/A. 1. A díj olyan Magyarországon élő nemzetiséghez tartozó természetes személynek, vagy szervezetnek adományozható, aki vagy amely kiemelkedő tevékenységet végzett a Magyarországon élő nemzetiségek körében az anyanyelvű, kulturális örökség megtartásáért, fejlesztéséért, és a nemzetiségi közművelődés és kultúra területén kimagasló tevékenységével hozzájárult a Kárpát-medence népeinek együttéléséhez.
-
-56/A. 2. A díj minden évben a kulturális sokszínűség, párbeszéd és fejlődés világnapja alkalmából (május 21.) kerül átadásra.
-
-56/A. 3. A díjból évente legfeljebb tizenhárom adományozható.
-
-56/A. 4. A díjazott emlékérmet és díszoklevelet kap. Az emlékérem Asszonyi Tamás szobrászművész alkotása. Az összetartozás szimbólumát jelképező emlékérem Ginkgo biloba (páfrányfenyő) levelet ábrázol, egyoldalas, bronzból készül, és a „PRO CULTURA MINORITATUM HUNGARIAE” feliratot tartalmazza.
+56/A.
 
 VII. FEJEZET
 
@@ -836,19 +796,19 @@ VII. FEJEZET
 
 57.2. A díj évente három személy részére adományozható.
 
-57.3.[^28] A díj átadására augusztus 20-a alkalmából kerül sor.
+57.3.[^30] A díj átadására augusztus 20-a alkalmából kerül sor.
 
 57.4. A díjazott az adományozást igazoló oklevelet kap.
 
 57.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^19]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: Az 1. melléklet I. fejezet 5. pont 5.2. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^21]: Az 1. melléklet II. fejezete a 3/2017. (III. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet II. fejezet 17/A. pontját a 9/2018. (II. 15.) EMMI rendelet 4. §-a iktatta be.
-[^23]: Az 1. melléklet II. fejezet 31/A. pontját a 30/2017. (XI. 21.) EMMI rendelet 5. §-a iktatta be.
-[^24]: Az 1. melléklet V. fejezet 48. pont 48.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^25]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^26]: Az 1. melléklet V. fejezet 53. pont 53.4. alpontja a 30/2017. (XI. 21.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^27]: Az 1. melléklet VI. fejezet 56/A. pontját a 3/2017. (III. 7.) EMMI rendelet 3. §-a iktatta be.
-[^28]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^21]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: Az 1. melléklet I. fejezet 5. pont 5.2. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^23]: Az 1. melléklet II. fejezete a 3/2017. (III. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^24]: Az 1. melléklet II. fejezet 17/A. pontját a 9/2018. (II. 15.) EMMI rendelet 4. §-a iktatta be.
+[^25]: Az 1. melléklet II. fejezet 31/A. pontját a 30/2017. (XI. 21.) EMMI rendelet 5. §-a iktatta be.
+[^26]: Az 1. melléklet V. fejezet 48. pont 48.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^28]: Az 1. melléklet V. fejezet 53. pont 53.4. alpontja a 30/2017. (XI. 21.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^29]: Az 1. melléklet VI. fejezetét (54–56/A. pont) a 6/2018. (XII. 21.) TNM rendelet 15. § d) pontja hatályon kívül helyezte.
+[^30]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.

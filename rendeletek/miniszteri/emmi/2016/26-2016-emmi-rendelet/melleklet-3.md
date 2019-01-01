@@ -1,3 +1,3 @@
-3. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^29]
+3. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^31]
 
-[^29]: A 3. melléklet a 3/2017. (III. 7.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^31]: A 3. melléklet a 3/2017. (III. 7.) EMMI rendelet 4. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@ c) – a 2. § (1) bekezdése szerinti elismerések esetében – az egészség�
 
 (2) Azonos díjazott részére ugyanaz a díj egy ízben adományozható. Ettől eltérően – a kulturális ágazat 2. § (2) bekezdésében foglalt díjainak kivételével – ugyanaz a díj kivételesen, egy alkalommal ismételten is adományozható abban az esetben, ha az előző díj adományozását követően szerzett, az annak alapjául szolgáló érdemeket felülmúló, kimagasló érdemek azt indokolják.
 
-(3)[^16] Legkésőbb a miniszteri döntést követően az elismerésben részesítendő jelölt
+(3)[^17] Legkésőbb a miniszteri döntést követően az elismerésben részesítendő jelölt
 
 a) a személyes adatai kezeléséhez hozzájáruló,
 
@@ -22,4 +22,4 @@ d) az elismerés elfogadásáról szóló
 
 (4) A (3) bekezdés szerinti nyilatkozat hiányában, a nyilatkozat hiányos megtétele esetén, valamint a nyilatkozat alapján személyes adatai kezeléséhez hozzájárulását nem adó, továbbá kizáró okot megjelölő, vagy az elismerés el nem fogadásáról nyilatkozó jelölt elismerésben nem részesíthető. A nyilatkozat formanyomtatványát a 4. melléklet tartalmazza.
 
-[^16]: A 6. § (3) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^17]: A 6. § (3) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.

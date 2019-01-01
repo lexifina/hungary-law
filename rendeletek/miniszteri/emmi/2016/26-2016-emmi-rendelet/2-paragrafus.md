@@ -132,15 +132,7 @@
 
 9. Magyar Fiatalokért díj.
 
-(12) A miniszter által adományozható díjak az egyházi, nemzetiségi és civil társadalmi kapcsolatok területén a következők:
-
-1. Károli Gáspár-díj,
-
-2. Fraknói Vilmos-díj,
-
-3. Scheiber Sándor-díj,
-
-4.[^7] Pro Cultura Minoritatum Hungariae díj.
+(12)[^7]
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
@@ -151,4 +143,4 @@
 [^4]: A 2. § (7) bekezdés 3. pontját a 3/2017. (III. 7.) EMMI rendelet 7. §-a hatályon kívül helyezte.
 [^5]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
-[^7]: A 2. § (12) bekezdés 4. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
