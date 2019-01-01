@@ -28,11 +28,12 @@ f)[^2] teljes munkaidő: a munka törvénykönyvéről szóló 2012. évi I. tö
 
 g)[^3] alapbér: az Mt. 136. §-ában meghatározott adózás előtti (bruttó) bér és a szociális hozzájárulási adó;
 
-h) munkavállaló: aki a c) pont szerinti munkaviszonyban áll, feltéve, hogy nem jogosult öregségi nyugdíjra [Flt. 58. § (5) bekezdés i) pontja], és rehabilitációs járadékban nem részesül;
+h)[^4] munkavállaló: aki a c) pont szerinti munkaviszonyban áll, feltéve, hogy nem jogosult öregségi nyugdíjra [Flt. 58. § (5) bekezdés i) pontja];
 
-i)[^4] részmunkaidős foglalkoztatás: az Mt. 58. §-a alapján módosításra kerülő munkaszerződésben legalább a teljes munkaidő felét elérő részmunkaidőben való megállapodás.
+i)[^5] részmunkaidős foglalkoztatás: az Mt. 58. §-a alapján módosításra kerülő munkaszerződésben legalább a teljes munkaidő felét elérő részmunkaidőben való megállapodás.
 
 [^1]: Az 1. § c) pont ca) alpontja a 217/2016. (VII. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^2]: Az 1. § f) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^3]: Az 1. § g) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § i) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^4]: Az 1. § h) pontja a 273/2018. (XII. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^5]: Az 1. § i) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés c) pontja szerint módosított szöveg.
