@@ -4,9 +4,9 @@
 
 (2) A külföldre vezényléshez történő beleegyezésről, valamint a Hszt. 69. § (4) bekezdésében meghatározott tájékoztatás tudomásulvételéről a hivatásos állomány tagja a vezénylést megelőzően írásban nyilatkozik.
 
-(3)[^11] A hivatásos állomány tagja a külföldre vezényléssel járó, a Hszt.-ben meghatározottakon túli pénzbeli és természetbeni ellátásra
+(3)[^14] A hivatásos állomány tagja a külföldre vezényléssel járó, a Hszt.-ben meghatározottakon túli pénzbeli és természetbeni ellátásra
 
-a) a Hszt. 69. § (1) bekezdés a), b) vagy d) pontja alapján történő külföldre vezénylés esetén – a b) pontban foglaltak kivételével – a 11/A. alcímben,
+a)[^15] a Hszt. 69. § (1) bekezdés a), b), d) vagy e) pontja alapján történő külföldre vezénylés esetén – a b) pontban foglaltak kivételével – a 11/A. alcímben,
 
 b) az összekötő tiszti szolgálat teljesítése céljából tartós külszolgálat céljából külföldre vezénylés esetén a 12. alcímben,
 
@@ -14,7 +14,8 @@ c) a Hszt. 69. § (1) bekezdés c) pontja alapján történő külföldre vezén
 
 ## meghatározottak szerint jogosult.
 
-(4)[^12] A Nemzeti Adó- és Vámhivatal hivatásos állományának miniszter által történő külföldre vezénylése esetén a miniszter a külföldre vezénylést az állami adó- és vámhatóság vezetője véleményének bekérését követően rendeli el. Az állami adó- és vámhatóság vezetőjének véleménye nem köti a minisztert.
+(4)[^16] A Nemzeti Adó- és Vámhivatal hivatásos állományának miniszter által történő külföldre vezénylése esetén a miniszter a külföldre vezénylést az állami adó- és vámhatóság vezetője véleményének bekérését követően rendeli el. Az állami adó- és vámhatóság vezetőjének véleménye nem köti a minisztert.
 
-[^11]: A 32. § (3) bekezdése a 442/2015. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^12]: A 32. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 49. § a) és b) pontja szerint módosított szöveg.
+[^14]: A 32. § (3) bekezdése a 442/2015. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^15]: A 32. § (3) bekezdés a) pontja a 272/2018. (XII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^16]: A 32. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 49. § a) és b) pontja szerint módosított szöveg.

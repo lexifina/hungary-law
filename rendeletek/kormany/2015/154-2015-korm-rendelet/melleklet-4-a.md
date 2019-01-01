@@ -32,7 +32,7 @@
 
 | 14. | II. Rendfokozatot érintő döntések |  |
 
-| 15. | Tiszti rendfokozati állománycsoportba tartozó rendfokozatba első alkalommal történő kinevezés | miniszter |
+| 15. | Tiszti rendfokozati állománycsoportba tartozó rendfokozatba első alkalommal történő kinevezés | országos parancsnok |
 
 | 16. | Magasabb rendfokozatba történő soron kívüli kinevezés vagy előléptetés főtiszti, tiszti rendfokozati állománycsoportba tartozó esetében | miniszter, országos parancsnok, országos főigazgató |
 
@@ -82,7 +82,7 @@
 
 ## e) a 21. sorban meghatározottaktól eltérően a más szervhez vezénylés.
 
-4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^33]
+4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^38]
 
 I. A 32/E. § (3) bekezdése szerinti alapellátmány mértéke
 
@@ -156,6 +156,6 @@ III. A 32/E. § (5) bekezdése szerinti beosztási pótlék mértéke
 
 | 9. | beosztott tiszthelyettes | 30 euró/hó |
 
-IV. A 32/I. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
+IV. A 32/I. § (2) bekezdése és a 32/J. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
 
-[^33]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^38]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

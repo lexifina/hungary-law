@@ -4,7 +4,7 @@
 
 | 2. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | – | – |
 
-2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^30]
+2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^35]
 
 ## A rendvédelmi szervek önálló állománytáblázattal rendelkező szervezeti egységei és az állományilletékes parancsnokok
 
@@ -132,4 +132,4 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-[^30]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^35]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja szerint módosított szöveg.
