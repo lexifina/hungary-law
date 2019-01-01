@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva – a kormányzati integrációval összefüggésben, a családtámogatási, szociális támogatási és lakáscélú állami támogatásokkal kapcsolatos feladatok hatékony ellátása érdekében – elrendeli az 1. melléklet szerint
