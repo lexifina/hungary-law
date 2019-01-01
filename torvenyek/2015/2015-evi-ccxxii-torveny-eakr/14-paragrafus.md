@@ -18,7 +18,7 @@ b) ha a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza
 
 c) ha a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
 
-(5) A gazdálkodó szervezet jogosult az (1) bekezdésben meghatározottakon túl további hivatalos elérhetőségek és azokhoz tartozó ügyintézési rendelkezések megadására, feltéve, hogy a további elérhetőségek tekintetében vállalja a (6) bekezdés szerinti követelmények teljesítését.
+(5)
 
 (6) Hivatalos elérhetőségként olyan elérhetőség adható meg, amely
 

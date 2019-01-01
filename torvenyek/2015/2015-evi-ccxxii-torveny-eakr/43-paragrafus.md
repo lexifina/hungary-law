@@ -23,3 +23,5 @@ b) a központi idegenrendészeti nyilvántartásban, valamint
 c) a külföldi személyek nyilvántartásában.
 
 (5) A regisztrációs szerv az ellenőrzés során kapott adatokat összeveti a természetes személy bemutatott okmányában szereplő adatokkal, illetve megállapítja, hogy a bemutatott okmányban szereplő arcképmás megfeleltethető-e az előtte megjelent személlyel.
+
+(6) A regisztrációs szerv ellenőrzi az okmányazonosító alapján, hogy a külföldi személyek nyilvántartásában az ügyfél által bemutatott okmánnyal történt-e korábban regisztráció. Amennyiben igen, a nyilvántartásba vételt meg kell tagadni.

@@ -22,4 +22,4 @@ db) a csatlakozott együttműködő szervek személyes adatokat tartalmazó info
 
 (4) Törvény vagy kormányrendelet valamely központi elektronikus ügyintézési szolgáltatás igénybevételét az együttműködés során is kötelezővé teheti.
 
-(5) A Kormány az együttműködéshez, valamint a belső elektronikus ügymenethez szükséges szabályozott elektronikus ügyintézési szolgáltatásokat és központi elektronikus ügyintézési szolgáltatásokat az 1. § 17. pont a)–i) pontja szerinti jogalanyoknak ingyenesen biztosítja.
+(5) A Kormány az együttműködéshez, valamint a belső elektronikus ügymenethez szükséges szabályozott elektronikus ügyintézési szolgáltatásokat és központi elektronikus ügyintézési szolgáltatásokat az 1. § 17. pont a)–i), valamint k) alpontja szerinti jogalanyoknak díjmentesen biztosítja.

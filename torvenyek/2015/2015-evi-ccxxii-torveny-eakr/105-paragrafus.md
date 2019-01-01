@@ -32,11 +32,13 @@ l) a 14. § (7) bekezdése szerinti jogalanyok körét,
 
 m) az országos telefonos ügyfélszolgálat működésének részletes szabályait,
 
-n) a papír alapú dokumentumokról elektronikus úton történő másolat készítésére vonatkozó részletes szabályokat,
+n) a papíralapú dokumentumokról elektronikus úton történő másolat készítésére, valamint az elektronikus irat hiteles papíralapú irattá alakítására vonatkozó részletes szabályokat,
 
 o) az elektronikus ügyintézést biztosító szerveknek az ügyek intézésével kapcsolatos adatai biztonsági mentésének rendjét és gyakoriságát, valamint az adatok őrzéséért felelős szervet,
 
-p) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket.
+p) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket,
+
+q) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az 1. § 17. pont j) és l) alpontja szerinti jogalanyok általi használatáért számítható díj megállapításának módját,
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
