@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-41-20-7
 | --- | --- | --- |
 | 2018-12-19 | 2018-41-20-7R.1 | 41/2018. (XII. 18.) AM rendelet |
 | 2018-12-20 | 2018-41-20-7R.2 | 2010: CXXX. törvény |
+| 2019-01-01 | 2018-41-20-7R.3 | 2010: CXXX. törvény |
