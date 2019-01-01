@@ -20,11 +20,11 @@ b) ha az a) pontban meghatározott lehetőség nem vehető igénybe vagy az elj�
 
 (6) A XXVII. és a XXVIII. Fejezetben meghatározott egyes szabálysértések esetén a Kormány – a helyszíni bírság legalacsonyabb és legmagasabb mértékére vonatkozó rendelkezés keretei között – rendelettel megállapíthatja a helyszíni bírság kötelező mértékét.
 
-(7) Ha a kormányrendeletben meghatározott kötelező mértékű helyszíni bírsággal sújtandó, a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés elkövetése miatt eljárás alá vont személyt az elkövetés időpontját megelőző hat hónapon belül a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés miatt helyszíni bírsággal sújtották, akkor
+(7) Ha a kormányrendeletben meghatározott kötelező mértékű helyszíni bírsággal sújtandó, a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés elkövetése miatt eljárás alá vont személyt az elkövetés időpontját megelőző hat hónapon belül a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés miatt helyszíni bírsággal sújtották, akkor a (2) bekezdés szerinti, a hat hónapon belül újabb szabálysértés elkövetése esetén meghatározott bírságmaximum figyelembevételével
 
-a) a második, kötelező mértékű helyszíni bírsággal sújtandó szabálysértés elkövetése esetén az ahhoz rendelt kötelező mértékű helyszíni bírság kétszeresét kell kiszabni;
+a) a második, kötelező mértékű helyszíni bírsággal sújtandó szabálysértés elkövetése esetén az ahhoz rendelt kötelező mértékű helyszíni bírság kétszeresét kell kiszabni,
 
-b) a harmadik, illetve az azt követő, kötelező mértékű helyszíni bírsággal sújtandó szabálysértés elkövetése az ahhoz rendelt kötelező mértékű helyszíni bírság háromszorosát kell kiszabni, de az nem haladhatja meg a hetvenezer forintot.
+b) a harmadik, illetve az azt követő, kötelező mértékű helyszíni bírsággal sújtandó szabálysértés elkövetése az ahhoz rendelt kötelező mértékű helyszíni bírság háromszorosát kell kiszabni.
 
 (8) A helyszíni bírság kiszabása során, ha kötelező mértékű helyszíni bírsággal sújtandó több szabálysértés elbírálására kerül sor, az elkövetett szabálysértésekhez rendelt helyszíni bírságok közül a legmagasabb bírságot kell alkalmazni.
 

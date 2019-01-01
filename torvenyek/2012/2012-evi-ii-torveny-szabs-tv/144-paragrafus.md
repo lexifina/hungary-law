@@ -20,7 +20,7 @@ szerint illetékes.
 
 (5) A közérdekű munka végrehajtásában az elkövető lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szerv közreműködik.
 
-(6) Közérdekű munka kiszabása esetén az elkövető köteles a határozat jogerőre emelkedését követő három napon belül az illetékes állami foglalkoztatási szervnél jelentkezni.
+(6) Közérdekű munka kiszabása esetén az elkövető köteles a határozat jogerőre emelkedését követő nyolc napon belül az illetékes állami foglalkoztatási szervnél jelentkezni.
 
 (7) A közérdekű munka végrehajtása érdekében az állami foglalkoztatási szerv elsősorban az elkövető lakóhelye vagy tartózkodási helye szerinti település területén működő, vagy olyan közérdekű munka végzésére alkalmas munkahelyet jelöl ki, amelynek a megközelítése – az elkövető lakóhelyétől vagy tartózkodási helyétől – tömegközlekedési eszközzel az egy órát nem haladja meg. A közérdekű munka végrehajtása során az állami foglalkoztatási szerv – a foglalkoztathatósági szakvélemény figyelembevételével, a munkáltató beleegyezésével – foglalkoztatót jelöl ki a közérdekű munka végrehajtásának helyéül.
 

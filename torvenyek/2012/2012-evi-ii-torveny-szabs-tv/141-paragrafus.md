@@ -56,6 +56,12 @@ elektronikus formában automatikusan továbbítja.
 
 (3) A bíróság által kiszabott pénzbírság, szabálysértési költség, rendbírság befizetésének ellenőrzéséről és végrehajtásáról, a 39. § (2) bekezdés c)–i) pontjában meghatározottak által kiszabott helyszíni bírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
+(3a) Az eljárás alá vont személy a pénzbírság, a szabálysértési költség, a rendbírság, valamint az okozott kár összegét
+
+a) ha annak feltételei adottak, erre a célra a hatóság által rendszeresített elektronikus eszközön teljesítve, készpénz-kímélő fizetési mód alkalmazásával is teljesítheti, illetve
+
+b) a részére átadott csekkszelvényen vagy banki átutalással az összegnek az e törvényben meghatározott határidőn belül történő megfizetésével, átutalásával – a döntés számára való hivatkozással – is teljesítheti.
+
 (4) A bíróság a kiszabott pénzbírságról, rendbírságról, megállapított szabálysértési költségről – a jogerős határozat kiadmányának megküldésével – értesíti a (3) bekezdésben meghatározott általános szabálysértési hatóságot azzal, hogy a jogerős határozat kiadmányának megküldésével egyidejűleg tájékoztatást nyújt a kötelezett részére megküldött és az ügy azonosítóival kitöltött készpénz-átutalási megbízás azonosítójáról is. Amennyiben a technikai feltételei rendelkezésre állnak, úgy a bíróság e tájékoztatási kötelezettségének elektronikus úton tesz eleget.
 
 (5) A 39. § (2) bekezdés c)–i) pontjában meghatározott helyszíni bírságot kiszabó személy a nála keletkezett iratok megküldésével – a (2) bekezdésben meghatározottak kivételével – akkor értesíti az elkövető lakóhelye szerinti általános szabálysértési hatóságot, ha a helyszíni bírság a kiszabását követő harmincötödik napon sem folyt be.

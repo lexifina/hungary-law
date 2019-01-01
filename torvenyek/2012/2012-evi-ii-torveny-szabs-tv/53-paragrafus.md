@@ -1,6 +1,6 @@
 ## 40. Az eljárás alá vont személy képviselője
 
-53. § (1) Az eljárás alá vont személy érdekében a szabálysértési eljárás bármely szakaszában törvényes képviselője vagy az általa vagy törvényes képviselője által írásban meghatalmazott nagykorú személy (a továbbiakban együtt: az eljárás alá vont személy képviselője) járhat el.
+53. § (1) Az eljárás alá vont személy érdekében a szabálysértési eljárás bármely szakaszában törvényes képviselője vagy az általa, törvényes képviselője vagy nagykorú hozzátartozója által írásban meghatalmazott nagykorú személy (a továbbiakban együtt: az eljárás alá vont személy képviselője) járhat el.
 
 (1a) A szabálysértési eljárásban az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) az eljárás alá vont személy képviselőjének meghatalmazására vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás az eljáró bíróságnak, illetve szabálysértési hatóságnak történő bejelentéstől hatályos.
 

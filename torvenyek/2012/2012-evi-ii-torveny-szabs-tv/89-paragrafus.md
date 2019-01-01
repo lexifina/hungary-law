@@ -16,6 +16,6 @@ történhet.
 
 (4) Az elővezetést elrendelő határozatot a foganatosításkor kell átadni a határozatban megnevezett személynek.
 
-(5) Az ismeretlen helyen tartózkodó eljárás alá vont személy részére a határozatot és a bíróság végzését hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
+(5) Az ismeretlen helyen tartózkodó eljárás alá vont személy, valamint az elkövető részére a határozatot és a bíróság végzését hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
 
 (6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. A hirdetmény útján közölt döntést a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.

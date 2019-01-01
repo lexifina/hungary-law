@@ -16,7 +16,7 @@ d) meghatározza a bírósági ügyintézők által szabálysértési eljárásb
 
 e) meghatározza a szabálysértési nyilvántartás kezelésével, valamint az abból történő adatigényléssel kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat,
 
-f) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés szerinti eljárásra jogosult más szerv vagy szervezetek körét és feladataikat,
+f) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés vonatkozásában azt a szervet vagy szervezetet, amely segítségének elfogadása a 178/B. § (2) bekezdés b) pontja szerinti együttműködésnek minősül, és e szerv vagy szervezet segítségnyújtással összefüggő feladatait,
 
 g) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés elkövetőjének tulajdonában álló ingóságok ideiglenes tárolását végző szervet, illetve az ingóságok tárolására és megsemmisítésére vonatkozó részletes szabályokat.
 

@@ -16,4 +16,4 @@ b) a hivatalos iratot nem az a) pontban meghatározott okból, önhibáján kív
 
 (6) Ha a kézbesítési vélelem megdöntésére irányuló kérelem a kifogással kapcsolatos, az iratokat a kifogást elbíráló bíróságnak kell megküldeni.
 
-(7) A kézbesítési vélelem megdöntésére irányuló kérelmet elutasító határozat ellen panasznak van helye.
+(7) A kézbesítési vélelem megdöntésére irányuló kérelmet elutasító rendelkezés ellen jogorvoslatnak van helye.

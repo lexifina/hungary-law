@@ -18,13 +18,15 @@ f) a csoportos elkövetés,
 
 g) a nagy nyilvánosság fogalmára,
 
-h) a büntethetőséget kizáró vagy korlátozó okokra
+h) a büntethetőséget kizáró vagy korlátozó okokra,
 
-i) a magánindítványra, valamint
+i) a magánindítványra,
 
-j) a Büntető Törvénykönyvről szóló törvény (a továbbiakban: Btk.) 370. § Lopás, Btk. 371. § Rongálás, Btk. 372. § Sikkasztás, Btk. 373. § Csalás, Btk. 376. § Hűtlen kezelés, Btk. 378. § Jogtalan elsajátítás és a Btk. 379. § Orgazdaság tényállásoknak megfelelő szabálysértési tényállásokra
+j) a folytatólagosság fogalmára, valamint
 
-a Btk. által – az a)–d), h) és i) pont esetén az általános részben, az e)–g) pont esetén a záró részben, valamint a j) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
+k) a Büntető Törvénykönyvről szóló törvény (a továbbiakban: Btk.) 370. § szerinti Lopás, Btk. 371. § szerinti Rongálás, Btk. 372. § szerinti Sikkasztás, Btk. 373. § szerinti Csalás, Btk. 376. § szerinti Hűtlen kezelés, Btk. 378. § szerinti Jogtalan elsajátítás és a Btk. 379. § szerinti Orgazdaság tényállásoknak megfelelő szabálysértési tényállásokra
+
+a Btk. által – az a)–d) és h)–j) pont esetén az általános részben, az e)–g) pont esetén a záró részben, valamint a k) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
 
 (2) E törvény alkalmazásában:
 

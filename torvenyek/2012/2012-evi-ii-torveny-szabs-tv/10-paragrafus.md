@@ -1,6 +1,6 @@
-10. § Nincs helye szabálysértési elzárásnak, ha az eljárás alá vont személy
+10. § Nincs helye szabálysértési őrizetnek és szabálysértési elzárásnak, ha az eljárás alá vont személy
 
-a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve kórházi fekvőbeteg-ellátásban részesül,
+a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve napi rendszeres, életfenntartó vagy fekvőbeteg-ellátásban részesül,
 
 b) a várandósság tizenkettedik hetét elérő nő,
 

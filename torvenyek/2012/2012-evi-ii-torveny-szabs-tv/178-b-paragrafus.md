@@ -47,3 +47,5 @@ b) elkövetésén tetten ért személlyel szemben helyszíni bírság kiszabás�
 (19) A (17) bekezdés szerint kiszabott közérdekű munka végrehajtására az elkövetés helye szerinti településen kerül sor.
 
 (20) Ha az eljárás alá vont személyt az (1) bekezdésben meghatározott szabálysértés elkövetésének időpontját megelőző hat hónapon belül már két ízben jogerősen felelősségre vonták az (1) bekezdésben meghatározott szabálysértés elkövetése miatt, az ismételten elkövetett (1) bekezdés szerinti szabálysértés miatt közérdekű munka büntetés nem szabható ki, valamint figyelmeztetés intézkedés nem alkalmazható.
+
+(21) Ha az elkövető a (17) bekezdésben meghatározott közérdekű munka büntetést vállalja, de azt nem teljesíti, és a közérdekű munka büntetés elzárásra történő átváltoztatása érdekében megtartott bírósági eljárásban az elkövető személyes jelenlétének a biztosítása szükséges, akkor ennek céljából az általános szabálysértési hatóság az elkövető körözését rendeli el.
