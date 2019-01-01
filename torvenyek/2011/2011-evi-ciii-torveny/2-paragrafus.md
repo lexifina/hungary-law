@@ -36,4 +36,4 @@ g) a legfeljebb 5 térfogatszázalék alkoholtartalommal rendelkező, 2208 VTSZ 
 
 h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz);
 
-i) a Jöt. szerinti alkoholterméknek minősülő ital, ide nem értve az alkoholos frissítőt, a gyümölcspárlatot, a gyógynövényes italt és a Jöt. 133. § (1) bekezdés e)–i) pontja hatálya alá tartozó alkoholterméket (a továbbiakban: alkoholos ital).
+i) a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő ital, ide nem értve az alkoholos frissítőt és a Jöt. 133. § (1) bekezdés e)–i) pontja hatálya alá tartozó alkoholterméket (a továbbiakban: alkoholos ital).

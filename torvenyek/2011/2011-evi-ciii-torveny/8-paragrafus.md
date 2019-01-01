@@ -12,13 +12,7 @@ a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban:
 
 (3) Ha az adómegállapítási időszakban értékesített adóköteles termék mennyisége a bevallás benyújtását követően csökken, az adó alanya az adó összegét abban az adómegállapítási időszakban jogosult csökkenteni, amelyben a helyesbítésről, érvénytelenítésről szóló számlát, számviteli bizonylatot vagy más okiratot kiállították.
 
-(4) Az adó alanya a fizetendő adóját
-
-a) csökkentheti az adómegállapítási időszakban egészségmegőrző programokkal kapcsolatban felmerült költségeivel, ráfordításaival,
-
-b) felajánlhatja az egészségügyi államigazgatási szerv egészségmegőrző programjának finanszírozására az adóbevallásában tett rendelkező nyilatkozatával,
-
-azzal, hogy az adócsökkentés és az adófelajánlás együttes összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
+(4) Az adó alanya a fizetendő adóját felajánlhatja egészségmegőrző program finanszírozására az adóbevallásában tett rendelkező nyilatkozatával, azzal, hogy az adófelajánlás összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
 
 (5) A rendelkező nyilatkozat az adóbevallás benyújtását követően nem módosítható és nem pótolható, késedelmesen benyújtott bevallás esetén a rendelkező nyilatkozat érvénytelen.
 

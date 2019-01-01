@@ -32,7 +32,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 6. teljesítési hely: az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) szerinti teljesítési hely;
 
-7. VTSZ szám: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletének módosításáról szóló, 2010. október 5-i 861/2010/EU bizottsági rendelet 2011. június 14-én hatályos szövege szerinti vámtarifaszám.
+7. VTSZ szám: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet I. mellékletében meghatározott Kombinált Nómenklatúra 2018. január 1-jén hatályos szövege szerinti vámtarifaszám;
 
 8. teljesítési időpont: az Áfa törvény szerinti teljesítési időpont;
 
@@ -48,18 +48,18 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 14. szörp: A Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, víz- és kivonatalapú, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból vagy cukorszirupból, ízesítő és adalékanyagok hozzáadásával állítottak elő.
 
-15. adalékanyag: az élelmiszer-adalékanyagokról szóló, 2008. december 16-ai 1333/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1333/2008/EK rendelet) szerinti élelmiszer-adalékanyag és az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló, 2008. december 16-ai 1334/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1334/2008/EK rendelet) szerinti aroma és aroma tulajdonságokkal rendelkező élelmiszer-összetevő, ide nem értve a 1333/2008/EK rendelet II. melléklet B. részének 1. Színezékek felsorolásában meghatározott színezőanyagként használt karamellt és az 1334/2008/EK rendelet 3. cikk (2) bekezdés d) pont ii. alpontja szerinti gyógynövénykivonatot;
+15. adalékanyag: az élelmiszer-adalékanyagokról szóló, 2008. december 16-ai 1333/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1333/2008/EK rendelet) szerinti élelmiszer-adalékanyag és az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló, 2008. december 16-ai 1334/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1334/2008/EK rendelet) szerinti aroma és aroma tulajdonságokkal rendelkező élelmiszer-összetevő, ide nem értve a 1333/2008/EK rendelet II. melléklet B. részének 1. Színezékek felsorolásában meghatározott színezőanyagként használt karamellt;
 
-16. gyógynövény: a növény azon része (különösen a növény szerve, gyökere, levele, virága, termése), melyet a benne lévő hatóanyag miatt a gyógyászatban alkalmaznak;
+16.
 
 17. méz: az Apis mellifera méhek által a növényi nektárból vagy élőnövényi részek nedvéből, illetve növényi nedveket szívó rovarok által az élő növényi részek kiválasztott anyagából gyűjtött természetes édes anyag, amelyet a méhek begyűjtenek, saját anyagaik hozzáadásával átalakítanak, raktároznak, dehidrálnak és lépekben érlelnek,
 
-18. gyümölcspárlat: a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: EK rendelet) II. számú melléklete 6. vagy 9. kategóriája szerint készített, EK rendelet szerinti szeszes ital.
+18.
 
-19. egészségmegőrző program: az adóalany – erőforrás-kiáramlással (költségekkel) járó – vagy az egészségügyi államigazgatási szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által, ingyenesen vagy legfeljebb 500 forint ellenében érhető el;
+19. egészségmegőrző program: az egészségügyi államigazgatási szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által ingyenesen vagy legfeljebb 500 forint ellenében érhető el;
 
 20. tejalapanyag: a termékben található tej, tejtermék (különösen joghurt, kefir, vaj, túró, tejszín, tejpor, sajt, író);
 
 21. édesítőszer: az 1333/2008/EK rendelet II. melléklet B. részének 2. Édesítőszerek felsorolásában szereplő anyagok;
 
-22. gyógynövényes ital: a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő, adalékanyagot nem tartalmazó, legalább hét különböző növényből származó gyógynövény felhasználásával előállított ital – ide nem értve az EK rendelet II. számú melléklete 31. pontja szerinti ízesített vodkát – ha annak összes gyógynövénytartalma meghaladja a 3 gramm gyógynövény (vagy ennek megfelelő hatóanyag-tartalmú gyógynövénykivonat)/100 milliliter mennyiséget, és a felhasznált hét különböző növényből származó gyógynövényből – növényenként – legalább 0,2 gramm gyógynövény (vagy ennek megfelelő hatóanyag-tartalmú gyógynövénykivonat)/100 milliliter mennyiséget tartalmaz, azzal, hogy a gyógynövénymennyiséget 15%-os nedvességtartalmú gyógynövénymennyiségre átszámítva kell figyelembe venni és az ital ízében és illatában a felhasznált gyógynövények íze és illata a domináns.
+22.
