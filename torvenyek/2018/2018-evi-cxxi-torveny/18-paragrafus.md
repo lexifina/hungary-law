@@ -1,1 +1,3 @@
-18. §
+18. § Az Rtv. 72. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzése céljából a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve akkor is folytathat bírói engedélyhez kötött titkos információgyűjtést, ha megalapozottan feltehető, hogy attól a védett szerv befolyásmentes működésének megzavarásával, illetve tagjai vagy valamely állománycsoportja szolgálatellátásának befolyásolásával kapcsolatban olyan információ megszerzése várható, amely a későbbiekben megalapozza a büntetőeljárásról szóló törvény szerinti leplezett eszköz alkalmazását is.”

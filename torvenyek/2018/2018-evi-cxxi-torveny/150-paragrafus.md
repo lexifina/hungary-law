@@ -1,7 +1,7 @@
 150. § Hatályát veszti az E-ügyintézési tv.
 
-a)
+a) 1. § 23. pontjában az „a lakásszövetkezet, valamint” szövegrész,
 
 b)
 
-c)
+c) 14. § (5) bekezdése.

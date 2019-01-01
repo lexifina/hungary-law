@@ -1,1 +1,11 @@
-117. §
+117. § Az Ibtv. 22. §-a helyébe a következő rendelkezés lép:
+
+„22. § (1) A 2. § (3)–(6) bekezdése, valamint a 18. § (3) bekezdése szerinti szerv vagy gazdálkodó szervezet, az e törvényben meghatározott, az elektronikus információs rendszerek védelmével összefüggő feladataik ellátása során megismert minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, orvosi titkot és más hivatás gyakorlásához kötött titkot kizárólag a feladat ellátásának időtartama alatt, a célhoz kötöttség elvének figyelembevételével jogosultak kezelni. A feladatellátás befejezését követően a feladatellátáshoz kapcsolódóan rögzített adatokat – a (2) bekezdésben meghatározott kivétellel – kötelesek az elektronikus információs rendszereikből és adathordozóikról törölni.
+
+(2) A hatóság, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1)–(3) bekezdése szerinti eseménykezelő központ az (1) bekezdésben meghatározott adatokat a hatósági döntés véglegessé válását, a sérülékenységvizsgálat lezárását, valamint a biztonsági esemény vizsgálatának lefolytatását követő öt évig jogosultak kezelni, és az öt év elteltével kötelesek az elektronikus információs rendszereikből és adathordozóikról törölni.
+
+(3) A hatóság, a 2. § (3)–(6) bekezdése szerinti szerv, a 18. § (3) bekezdése szerinti szerv vagy gazdálkodó szervezet, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1)–(3) bekezdése szerinti eseménykezelő központ munkatársait az (1) bekezdés szerint megismert adatok tekintetében írásba foglalt titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig, minősített adatok tekintetében azok érvényességi idejének végéig, személyes adatok tekintetében pedig időkorlát nélkül fennmarad.
+
+(4) A hatóság eljárása során keletkezett adatok nem nyilvánosak.
+
+(5) A zárt célú és honvédelmi célú elektronikus információs rendszerek – e törvényben meghatározott – hatósági feladatainak ellátására Kormány által kijelölt szervnek a véglegessé vált határozata az ügyfélen és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 33. § (3) bekezdése alapján iratbetekintésre jogosult személyen kívül más által nem ismerhető meg.”

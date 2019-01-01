@@ -1,1 +1,3 @@
-84. §
+84. § A Pőtv. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A polgárőr a 3. § (1) és (2) bekezdésében meghatározott alap- és kiegészítő feladatokat kizárólag polgárőr igazolvány birtokában láthatja el. Az Országos Polgárőr Szövetség a polgárőr és az ifjú polgárőr igazolványt az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti kártyakibocsátóként adja ki. Az Országos Polgárőr Szövetség által kibocsátott polgárőr igazolvány és ifjú polgárőr igazolvány a szervezethez való tartozás közhiteles igazolására szolgáló okmány, amely megfelel a törvény felhatalmazása alapján kiadott, jogszabályban meghatározott műszaki, technológiai és biztonsági előírásoknak. A polgárőr és az ifjú polgárőr igazolvány formátumát a rendészetért felelős miniszter rendeletben állapítja meg.”

@@ -1,3 +1,7 @@
 ## 19. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-86. §
+86. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 85. § (3a) és (3b) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3a) Ha a (3) bekezdésben meghatározott határidőn belül nem kerül sor a közös önkormányzati hivatal létrehozására vagy ahhoz valamely település nem csatlakozik, akkor a kormányhivatal vezetője a határidő lejártát követő második hónap első napjával döntésével kijelöli a közös önkormányzati hivatalhoz tartozó településeket és egyúttal pótolja a közös önkormányzati hivatalról szóló megállapodást. A kormányhivatal vezetője a kijelölő döntés és az önkormányzati hivatalról szóló megállapodás pótlását megelőzően – legalább tizenöt napos véleményezési határidő biztosítása mellett – kikéri az érintett települési önkormányzatok véleményét a kormányhivatal vezetőjének döntése alapján létrejövő közös önkormányzati hivatalhoz tartozó településekkel és a pótolandó közös önkormányzati hivatalról szóló megállapodás tartalmával összefüggésben. A kormányhivatal vezetője a megállapodás létrehozásáról szóló döntésében az e §-ban foglaltakra figyelemmel rendelkezik a közös önkormányzati hivatal székhelytelepüléséről, a közös önkormányzati hivatal létszámáról és a közös önkormányzati hivatal ügyfélfogadási rendjéről. Ha a döntés eltér a települési önkormányzatok véleményétől, a kormányhivatal vezetője az eltérés okát a döntésének indokolásában külön részletezi. A megállapodás pótlása esetén is teljesülnie kell az (1)–(2a) bekezdésben meghatározott feltételeknek.
+
+(3b) A kormányhivatal vezetőjének (3a) bekezdésben meghatározott döntését az érintett önkormányzat képviselő-testülete közigazgatási perben megtámadhatja.”

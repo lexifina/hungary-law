@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-121-00-00
 | 2018-12-21 | 2018. évi CXXI. törvény | 2018-121-00-00.0 (közlönyállapot) |
 | 2018-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-121-00-00.1 |
 | 2018-12-22 | 2010. évi CXXX. törvény | 2018-121-00-00.2 |
+| 2019-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-121-00-00.3 |
