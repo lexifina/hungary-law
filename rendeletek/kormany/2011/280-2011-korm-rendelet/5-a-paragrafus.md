@@ -1,8 +1,8 @@
-5/A. §[^16] (1) Az a hozzájárulásra kötelezett, aki a szakképző iskola tanulójával kötött tanulószerződés alapján folytatott gyakorlati képzés szervezésével teljesíti a hozzájárulási kötelezettségét, az Szht. 8. § (1a) bekezdésében meghatározott kiegészítő csökkentő tételeket a (2)–(7) bekezdésben meghatározottak szerint veheti figyelembe.
+5/A. §[^18] (1) Az a hozzájárulásra kötelezett, aki a szakképző iskola tanulójával kötött tanulószerződés alapján folytatott gyakorlati képzés szervezésével teljesíti a hozzájárulási kötelezettségét, az Szht. 8. § (1a) bekezdésében meghatározott kiegészítő csökkentő tételeket a (2)–(7) bekezdésben meghatározottak szerint veheti figyelembe.
 
 (2) Az Szht. 8. § (1a) bekezdés a) pontjában meghatározott – kizárólag az aktiválás évében igénybe vehető – beruházási kiegészítő csökkentő tétel mértéke évente a tanulószerződéses tanulók éves létszáma átlagának és az alapnormatíva összege
 
-a) 1–10 főt foglalkoztató kötelezett esetén 38%-ának,
+a)[^19] 1–10 főt foglalkoztató és a kizárólag önfoglalkoztatásra irányuló egyéni vállalkozói tevékenységet folytató kötelezett esetén 38%-ának,
 
 b) 11–50 főt foglalkoztató kötelezett esetén 18%-ának,
 
@@ -20,4 +20,5 @@ c) 50 főnél többet foglalkoztató kötelezett esetén 9%-ának
 
 (7) Az (5)–(6) bekezdésben meghatározott kiegészítő csökkentő tétel éves és – szakképzési hozzájárulási előleg fizetése esetén – havi mértékének a megállapítása során az 5. § (3)–(6) bekezdését is alkalmazni kell.
 
-[^16]: Az 5/A. §-t a 257/2015. (IX. 10.) Korm. rendelet 3. §-a iktatta be.
+[^18]: Az 5/A. §-t a 257/2015. (IX. 10.) Korm. rendelet 3. §-a iktatta be.
+[^19]: Az 5/A. § (2) bekezdés a) pontja a 307/2018. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.

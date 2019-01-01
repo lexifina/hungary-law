@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-280-20-
 | 2017-01-01 | 2011-280-20-22.11 | 340/2016. (XI. 17.) Korm. rendelet |
 | 2017-06-20 | 2011-280-20-22.12 | 340/2016. (XI. 17.) Korm. rendelet |
 | 2018-01-01 | 2011-280-20-22.13 | 340/2016. (XI. 17.) Korm. rendelet |
+| 2019-01-01 | 2011-280-20-22.14 | 307/2018. (XII. 27.) Korm. rendelet |

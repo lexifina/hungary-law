@@ -1610,6 +1610,6 @@
 
 | 802. | 31 622 01 0010 31 04 | Zöldségtermesztő | 1,3776 |
 
-2. melléklet a 280/2011. (XII. 20.) Korm rendelethez[^24]
+2. melléklet a 280/2011. (XII. 20.) Korm rendelethez[^27]
 
-[^24]: A 2. mellékletet a 240/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 257/2015. (IX. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^27]: A 2. mellékletet a 240/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 257/2015. (IX. 10.) Korm. rendelet 5. §-ával megállapított, a 307/2018. (XII. 27.) Korm. rendelet 3. § a)–d) pontja szerint módosított szöveg.

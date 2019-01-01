@@ -240,13 +240,13 @@
 
 | 117. | 3462101 | Gazda | 1,8368 |
 
-| 118. | 5448102 | Gazdasági informatikus | 0,8910 |
+| 118. | 5448102 | Gazdasági informatikus | 1,2524 |
 
 | 119. | 3152105 | Gázhegesztő | 1,3068 |
 
 | 120. | 3134601 | Gép- és gyorsíró, szövegszerkesztő | 0,8019 |
 
-| 121. | 5452103 | Gépgyártástechnológiai technikus | 0,8910 |
+| 121. | 5452103 | Gépgyártástechnológiai technikus | 1,6730 |
 
 | 122. | 3452103 | Gépi forgácsoló | 2,0076 |
 
@@ -354,7 +354,7 @@
 
 | 174. | 5448103 | Infokommunikációs hálózatépítő és üzemeltető | 0,9801 |
 
-| 175. | 5448104 | Informatikai rendszergazda | 0,8910 |
+| 175. | 5448104 | Informatikai rendszergazda | 1,2524 |
 
 | 176. | 3452104 | Ipari gépész | 2,0076 |
 
@@ -648,7 +648,7 @@
 
 | 321. | 5576206 | Szociális, gyermek- és ifjúságvédelmi ügyintéző | 0,9315 |
 
-| 322. | 5421305 | Szoftverfejlesztő | 0,8910 |
+| 322. | 5421305 | Szoftverfejlesztő | 1,5307 |
 
 | 323. | 5421208 | Szórakoztató zenész (a szakmairány megjelölésével) | 1,1271 |
 
@@ -776,7 +776,7 @@
 
 | 385. | 3158206 | Zsaluzóács | 1,5028 |
 
-3. melléklet a 280/2011. (XII. 20.) Korm. rendelethez[^25]
+3. melléklet a 280/2011. (XII. 20.) Korm. rendelethez[^28]
 
 A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó államilag elismert szakképesítések súlyszorzói 2016. szeptember 1-jétől
 
@@ -1044,13 +1044,13 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 129. | 3462101 | Gazda | 1,8368 |
 
-| 130. | 5448102 | Gazdasági informatikus | 0,8910 |
+| 130. | 5448102 | Gazdasági informatikus | 1,2524 |
 
 | 131. | 3152105 | Gázhegesztő | 1,3068 |
 
 | 132. | 5454403 | Gázipari technikus | 0,8197 |
 
-| 133. | 5452103 | Gépgyártástechnológiai technikus | 0,8910 |
+| 133. | 5452103 | Gépgyártástechnológiai technikus | 1,6730 |
 
 | 134. | 3452103 | Gépi forgácsoló | 2,0076 |
 
@@ -1158,7 +1158,7 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 186. | 5548102 | Információrendszer-szervező | 1,1385 |
 
-| 187. | 5448106 | Informatikai rendszerüzemeltető | 0,8910 |
+| 187. | 5448106 | Informatikai rendszerüzemeltető | 1,2524 |
 
 | 188. | 3185305 | Intézménytakarító | 1,0247 |
 
@@ -1482,7 +1482,7 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 348. | 5576206 | Szociális, gyermek- és ifjúságvédelmi ügyintéző | 0,9315 |
 
-| 349. | 5421305 | Szoftverfejlesztő | 0,8910 |
+| 349. | 5421305 | Szoftverfejlesztő | 1,5307 |
 
 | 350. | 5521207 | Szórakoztató zenész I. (a szakmairány megjelölésével) | 1,1271 |
 
@@ -1636,4 +1636,4 @@ A szakképzésről szóló 2011. évi CLXXXVII. törvény hatálya alá tartozó
 
 | 425. | 3458217 | Kőfaragó | 1,7569 |
 
-[^25]: A 3. mellékletet a 340/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 149/2017. (VI. 12.) Korm. rendelet 1. §-a, az 504/2017. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^28]: A 3. mellékletet a 340/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 149/2017. (VI. 12.) Korm. rendelet 1. §-a, az 504/2017. (XII. 29.) Korm. rendelet 1. §-a, a 307/2018. (XII. 27.) Korm. rendelet 3. § e)–h) pontja szerint módosított szöveg.
