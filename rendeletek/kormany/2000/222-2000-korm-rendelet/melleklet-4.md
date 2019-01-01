@@ -1,3 +1,3 @@
-4. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^267]
+4. számú melléklet a 222/2000. (XII. 19.) Korm. rendelethez[^268]
 
-[^267]: A 4. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^268]: A 4. számú melléklet a 342/2011. (XII. 29.) Korm. rendelet 20. § (4) bekezdésével megállapított szöveg.
