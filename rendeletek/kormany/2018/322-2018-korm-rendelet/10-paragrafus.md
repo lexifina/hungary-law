@@ -1,0 +1,5 @@
+## 9. § A Cstvhr. 13. §-a helyébe a következő rendelkezés lép:
+
+## „13. § (1) Ha a nem tanköteles gyermek tanulói jogviszonya az első vizsgaidőszak utolsó napján megszűnik, de az új tanítási évre tanulói jogviszonyt létesít, utána arra az időre, amely alatt nem állt tanulói jogviszonyban, legfeljebb azonban két hónap időtartamra utólag iskoláztatási támogatást kell megállapítani. Az ellátás visszamenőleges megállapítása az új tanítási évre létesített tanulói jogviszony létesítéséről szóló iskolai igazolás bemutatása vagy másolatban történő csatolása esetén hivatalból történik.
+
+## (2) Ha a nem tanköteles gyermek tanulói jogviszonya az első vizsgaidőszak utolsó napján megszűnik, de az új képzési időszakra hallgatói jogviszonyt létesít, a tanulói jogviszony megszűnése és a hallgatói jogviszony keletkezése közötti időre, legfeljebb azonban két hónap időtartamra utólag a családi pótlék összegének számítása szempontjából figyelembe kell venni. A beszámításhoz a jogosultnak elegendő a hallgatói jogviszony létesítéséről szóló igazolást bemutatni vagy másolatban csatolni.”
