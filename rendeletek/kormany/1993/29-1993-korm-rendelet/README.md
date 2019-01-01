@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-29-20-2
 | 2017-01-01 | 1993-29-20-22.30 | 448/2016. (XII. 19.) Korm. rendelet |
 | 2017-08-26 | 1993-29-20-22.31 | 235/2017. (VIII. 18.) Korm. rendelet |
 | 2018-01-01 | 1993-29-20-22.32 | 381/2017. (XII. 11.) Korm. rendelet |
+| 2019-01-01 | 1993-29-20-22.33 | 305/2018. (XII. 27.) Korm. rendelet |
