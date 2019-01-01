@@ -10,19 +10,19 @@
 
 (4a) A hivatal a szaktanácsadókról névjegyzéket vezet. A hivatal döntése elleni fellebbezést az oktatásért felelős miniszter bírálja el.
 
-(4b) A szaktanácsadói névjegyzék tartalmazza a szaktanácsadó
+(4b) A köznevelési szaktanácsadói névjegyzékben nyilvántartott szaktanácsadó alábbi adatai nyilvánosak:
 
-a) természetes személyazonosító és lakcímadatát,
+a) családi és utóneve,
 
-b) végzettségét és szakképzettségét,
+b) elektronikus levelezési címe,
 
-c) a szakterületének jogszabályban meghatározott megnevezését,
+c) a szakterületének jogszabályban meghatározott megnevezése,
 
-d) nyilvántartásba-vételi számát.
+d) nyilvántartásba-vételi száma.
 
-(4c) A (4a) bekezdés szerinti névjegyzék a (4b) bekezdés c)–d) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4c)
 
-(4d) A szaktanácsadói névjegyzékbe történő felvételre, a névjegyzékből történő törlésre és eltiltásra, a hatósági ellenőrzésre és a személyes adatok kezelésre vonatkozó eljárás során az 82. § (9)–(12) bekezdését kell alkalmazni.
+(4d) A köznevelési szaktanácsadói névjegyzékbe történő felvételre, a névjegyzékből történő törlésre és eltiltásra, a hatósági ellenőrzésre és a személyes adatok kezelésre vonatkozó eljárás során az 82. § (9)–(12) bekezdését kell alkalmazni.
 
 (5) A köznevelési intézmények feladatainak ellátásában gazdasági, ügyviteli, műszaki, kisegítő és más alkalmazottak vesznek részt. Gazdasági, ügyviteli, műszaki, kisegítő munkakörökben az ellátandó feladatoktól függően ajánlott megoldani a foglalkoztatást. Az állami fenntartású nevelési-oktatási és pedagógiai szakszolgálati intézményekben – a honvédelemért felelős miniszter vagy a rendvédelmi szervet irányító miniszter által alapított és fenntartott, intézmények kivételével – gazdasági, ügyviteli, műszaki, kisegítő munkakörökben alkalmazottak létszáma legfeljebb a pedagógusok teljes munkaidőre számított létszámának húsz százaléka, szakképző iskolában harminc százaléka, kollégiumban ötven százaléka lehet.
 

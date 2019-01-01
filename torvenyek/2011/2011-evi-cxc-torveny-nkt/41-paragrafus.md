@@ -115,3 +115,5 @@ d) diákigazolványa kiállításához szükséges valamennyi adata a KIR adatke
 továbbítható.
 
 (9) A nevelési-oktatási intézmény nyilvántartja továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükségesek. E célból azok az adatok kezelhetők, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
+
+(10) A köznevelési intézmény a nyilvántartott gyermek és tanulói adatokat a jogviszony megszűnésétől számított tíz évig, az alkalmazottak, óraadók adatait a jogviszony megszűnésétől számított öt évig kezeli.

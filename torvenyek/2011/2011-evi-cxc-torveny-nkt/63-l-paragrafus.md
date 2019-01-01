@@ -1,6 +1,6 @@
 63/L. § (1) A 63/A. § (1) bekezdésében meghatározott intézményfenntartók a jogviszony keletkezésétől számított harminc napon belül kötelesek a kinevezés tényéről, a Kar adat-nyilvántartási körébe tartozó adatokról és azok változásáról értesítést küldeni a Kar intézményének székhelye szerint illetékes területi szervéhez.
 
-(2) Az Országos szakértői és vizsgaelnöki névjegyzék, valamint a szaktanácsadói névjegyzék vezetéséért felelős szerv köteles a névjegyzékről és annak módosulásáról értesítést küldeni a Karnak.
+(2) Az országos köznevelési szakértői és vizsgaelnöki névjegyzék, valamint a köznevelési szaktanácsadói névjegyzék vezetéséért felelős szerv köteles a névjegyzékről és annak módosulásáról értesítést küldeni a Karnak.
 
 (3) A Kar a tagjainak az alábbi adatait tartja nyilván:
 

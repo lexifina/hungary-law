@@ -26,6 +26,20 @@ f) ügyrendjének a hivatal által történt jóváhagyását követően az int�
 
 g) képviseletét az elnök látja el.
 
+(5a) Az e törvény alapján létrehozott intézményi tanácsról a 73. § (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás az alábbi adatokat tartalmazza:
+
+a) az intézményi tanács neve,
+
+b) az intézményi tanács székhelye,
+
+c) az érintett iskola neve, OM azonosítója,
+
+d) az elnök neve,
+
+e) az elnök elérhetősége (telefonszám, telefax, elektronikus levelezési cím),
+
+f) nyilvántartásba-vételi száma.
+
 (6) Az intézményi tanács az iskola működésének támogatására alapítványt hozhat létre.
 
 (7) Az intézmény vezetője félévenként egy alkalommal beszámol az intézmény működéséről az intézményi tanácsnak, amely az intézmény működésével kapcsolatos álláspontját megfogalmazza és eljuttatja a fenntartó számára.
