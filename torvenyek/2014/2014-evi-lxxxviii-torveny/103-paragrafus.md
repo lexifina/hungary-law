@@ -6,4 +6,4 @@
 
 (3) A befektetésekkel kapcsolatos döntések során az elvárható legnagyobb körültekintéssel, prudens módon kell eljárni.
 
-(4) A biztosító vagy a viszontbiztosító eszközeinek a befektetésére a 104–107. § rendelkezéseit a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben és a Bizottságnak a Szolvencia 2 irányelv 135. cikk (1) bekezdés a)–b) pontjában és a (2) bekezdés a)–c) pontjában meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt kell alkalmazni.
+(4) A biztosító vagy a viszontbiztosító eszközeinek a befektetésére a 104–107. § rendelkezéseit a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben és a Bizottságnak a Szolvencia 2 irányelv 135. cikk (1) bekezdés a)–b) pontjában és (2) bekezdésében meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt kell alkalmazni.

@@ -64,7 +64,15 @@ b) a felügyeleti nyilvántartásról, amelyben a gazdálkodó szervezet szerepe
 
 c) attól függően, hogy biztosító, alkusz vagy többes ügynök megbízásából jár-e el, a 159. § (1) bekezdésére vagy a 382. § (1) bekezdésére vonatkozó tájékoztatást (az adott biztosító, alkusz vagy többes ügynök nevével és címével együtt), továbbá a tevékenységével kapcsolatos panasz – annak jellege szerint – a Felügyelethez vagy a békéltető testületekhez való előterjesztésének lehetőségét (a székhely, telefonos és internetes elérhetőség, valamint a levelezési cím feltüntetésével), illetve tájékoztatást a bírói út igénybevételének lehetőségéről,
 
-d) a biztosítási szerződéssel összefüggésben kapott javadalmazás jellegéről.
+d) a biztosítási szerződéssel összefüggésben kapott javadalmazás jellegéről,
+
+e) arról, hogy kinek a megbízásából és felelősségvállalása mellett jár el,
+
+f) a rendelkezésre álló termékválasztékról, valamint arról, hogy ennél szélesebb körben is az ügyfél rendelkezésére állhatnak termékek más biztosítási értékesítési csatornákon keresztül,
+
+g) arról, hogy nyújt-e – a rendelkezésre álló keretek közötti – tanácsadást az értékesített biztosítási termékekre vonatkozóan.
+
+(5a) Az (5) bekezdés e)–g) pontja szerinti tájékoztatás írásbelinek nem minősülő módon is megtehető, amennyiben e tájékoztatások megtételét a kiegészítő biztosításközvetítői tevékenységet végző személy, az ügyfél ezt elismerő kifejezett nyilatkozatával ellátva, külön dokumentálja.
 
 (6) A 130/A. §-ban, a 152. § (3)–(3c) és (7) bekezdésében, valamint a 158–158/C. §-ban foglaltak a biztosításközvetítőkre és a kiegészítő biztosításközvetítői tevékenységet végző személyre is megfelelően alkalmazandóak.
 
