@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1779-30
 | --- | --- | --- |
 | 2015-10-27 | 2015-1779-30-22.1 | 1779/2015. (X. 27.) Korm. határozat |
 | 2015-10-28 | 2015-1779-30-22.2 | 2010: CXXX. törvény |
+| 2019-01-01 | 2015-1779-30-22.3 | 2011: CXCV. törvény |
