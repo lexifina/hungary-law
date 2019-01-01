@@ -14,11 +14,11 @@
 
 ## 1.1.5. Természetes, illetve mesterséges vízi létesítmények keresztezésénél a medret a mederelfajulástól védeni kell.
 
-## 1.1.6. Árvízvédelmi töltést keresztező műtárgy csőszerű részének vízzáróságát nyomáspróbával kell ellenőrizni. Több tagból álló vasbeton cső nyomáspróbáját a konszolidáció lezajlása, de legalább hat hónap eltelte után meg kell ismételni. Az árvízvédelmi töltést keresztező csőszerű műtárgyakat árvízkor is biztonságosan kezelhető víz- és mentett oldali elzáró szerkezettel kell ellátni.
+## 1.1.6. Árvízvédelmi töltést keresztező műtárgy csőszerű részének vízzáróságát nyomáspróbával kell ellenőrizni. Több tagból álló vasbeton cső nyomáspróbáját a konszolidáció lezajlása, de legalább hat hónap eltelte után meg kell ismételni. Az árvízvédelmi töltést keresztező csőszerű műtárgyakat árvízkor is biztonságosan kezelhető azonos biztonságot szolgáltató kettős elzáró szerkezettel kell ellátni.
 
 ## 1.2. Keresztezés a térszín felett
 
-## 1.2.1 A keresztező létesítmény tartószerkezetét a parti sávon, illetve az árvízvédelmi töltés és magasvezetésű csatorna vagy duzzasztott vízszintű vízfolyás töltésének lábvonalától – a töltésfejlesztés mértékét is figyelembe véve – 10 m-es sávon belül tilos elhelyezni.
+## 1.2.1 A vezeték jellegű keresztező létesítmény tartószerkezetét a parti sávon, illetve az árvízvédelmi töltés és magasvezetésű csatorna vagy duzzasztott vízszintű vízfolyás töltésének lábvonalától – a töltésfejlesztés mértékét is figyelembe véve – 10 m-es sávon belül tilos elhelyezni.
 
 ## 1.2.2 Árvízvédelmi vonal felett keresztezés a vízilétesítmény kezelője előírásainak betartásával vezethető.
 
@@ -26,9 +26,9 @@
 
 ## 1.2.4 Árvízvédelmi töltésbe helyezett nyomócsövet szigetelés és visszatakarás előtt, a keresztezés teljes hosszában próbanyomásnak kell alávetni a csővezetékre vonatkozó előírás szerint.
 
-## 1.2.5 Hullámtéren a térszín felett keresztező létesítményt a mértékadó árvízszint, illetve az eddig előfordult legnagyobb vízállás közül a magasabb felett kell átvezetni úgy, hogy sem a vezeték, sem tartószerkezete a jég vagy árvíz levonulását, a vízi közlekedést ne zavarják, mederelfajulást ne okozzanak, ne akadályozzák az árvízvédekezést és a mederszabályozási tevékenységet.
+## 1.2.5 Térszín felett a hullámteret keresztező létesítményt a mértékadó árvízszint, illetve az eddig előfordult legnagyobb vízállás közül a magasabb felett kell átvezetni úgy, hogy sem a vezeték, sem tartószerkezete a jég vagy árvíz levonulását, a vízi közlekedést ne zavarják, mederelfajulást ne okozzanak, ne akadályozzák az árvízvédekezést és a mederszabályozási tevékenységet.
 
-## 1.2.6 Vízfolyást, öntöző-, táp- és belvízcsatornát úgy lehet keresztezni, hogy a sokévi középvízszintnél, illetve az üzemvízszintnél a mederben úszó, a parti sávon, illetve a magasvezetésű csatorna töltéskoronáján, vagy a töltés menti, legfeljebb 6 m széles sávon dolgozó és legfeljebb 7 m magas munkagép akadálytalanul dolgozhasson.
+## 1.2.6 Vízfolyást, öntöző-, táp- és belvízcsatornát légvezetékkel úgy lehet keresztezni, hogy a sokévi középvízszintnél, illetve az üzemvízszintnél a mederben úszó, a parti sávon, illetve a magasvezetésű csatorna töltéskoronáján, vagy a töltés menti, legfeljebb 6 m széles sávon dolgozó és legfeljebb 7 m magas munkagép akadálytalanul dolgozhasson.
 
 ## 1.2.7 Árvízvédelmi töltést térszín felett keresztező létesítményt a mértékadó árvízszint, illetve az eddig előfordult legnagyobb vízállás közül a magasabb érték fellett kell átvezetni.
 
@@ -36,7 +36,7 @@
 
 ## 1.3.1 Folyók, illetve árvízvédelmi művek irányított ferdefúrással kialakítandó keresztezését minden esetben egyedi tervek alapján a folyó, illetve az árvízvédelmi mű kezelőjének hozzájárulásával az alábbi szempontok figyelembevétele mellett lehet megvalósítani:
 
-## 1.3.1.1 Kritikus holtmeder-keresztezések és altalajhibás védvonalszakaszok esetén a fúrásos keresztezés tilos.
+## 1.3.1.1
 
 ## 1.3.1.2 A kivitelezés teljes időszakát felölelő – az összes építési fázisra méretezett – árvízvédelmi tervet kell készíteni.
 
@@ -52,7 +52,7 @@
 
 ## 1.3.1.4.1.3 a mentett oldali előtér szélén;
 
-## 1.3.1.4.2 a töltés állékonyságának kielégítő voltát igazoló számításokat az építés utáni időszakra.
+## 1.3.1.4.2
 
 ## 1.3.1.5 A keresztezést úgy kell kialakítani, hogy
 
@@ -70,7 +70,7 @@
 
 ## 1.3.3. Ahol az átvezetett létesítményt takaró réteg vastagsága kevesebb, mint 2,5 méter, ott az átvezetett létesítmény védelmére horgonytilalmi táblát kell elhelyezni, a hajózási hatóság előírásai szerint.
 
-## 1.3.4 Az 1.3.2. pontban foglaltak szerint átvezetett létesítmény védelmére a keresztezés vízfolyás szerinti felső oldalától 50 m-re védőkötelet vagy -láncot kell a mederben elhelyezni, az esetleg elsodródó hajók horgonyainak felfogására. A védőkötelet vagy -láncot, valamint annak parti rögzítését a víziúton közlekedő hajók és hajókötelékek tömegének figyelembevételével kell méretezni.
+## 1.3.4 Az 1.3.2. pontban foglaltak szerint átvezetett létesítmény védelmét a mederkezelő előírásai szerint kell biztosítani.
 
 ## 1.3.5 A vízfolyást keresztezni a mederfenék alatt – figyelembe véve a folyamatban lévő és tervezett folyószabályozási, mederrendezési és -bővítési munkákat – a mederfenék szintjétől 1,5 m-nél mélyebben, burkolt, rendezett mederfenék esetén 1,0 m-nél mélyebben lehet. Az előírt távolságokat a rézsűben is tartani kell.
 
@@ -84,9 +84,9 @@
 
 ## 1.4.2 Magasvezetésű felszíni víz vezető-csatorna, duzzasztott vízszintű vízfolyás töltésének lábvonalától – a töltésfejlesztés mértékét és a talaj rétegződését is figyelembe véve – 10 m-es sávon belül, illetve a töltés és a szivárgó-csatorna között párhuzamosan vezeték nem fektethető.
 
-## 1.4.3 Árvízvédelmi töltés lábvonalától, a töltésfejlesztés mértékét is figyelembe véve számított 10 m-es védősávon belül vezetéket elhelyezni tilos.
+## 1.4.3. Árvízvédelmi töltés lábvonalától, a töltésfejlesztés mértékét is figyelembe véve számított tízméteres védősávon belül az üzemeltető üzemelési, védelmi céljainak szolgálatától eltérő rendeltetésű vezetéket elhelyezni tilos. Ha a mobil árvízvédelmi falak tízméteres védősávján belül húzódó vezeték nem helyezhető át, azt a védekezés időszakára, a fokozat elrendelése előtt üzemen kívül kell helyezni.
 
-## 1.4.4 Árvízvédelmi töltést öntöző-, táp- és belvízcsatornával, vízellátási, csapadék- és szennyvízelvezető nyomóvezetékkel vagy gravitációs vezetékkel és csatornával a töltéslábtól számítva, a töltésfejlesztés mértékét is figyelembe véve, 10 m-en belül tilos megközelíteni.
+## 1.4.4. Árvízvédelmi töltést öntöző-, táp- és belvízcsatornával, az üzemeltető üzemelési céljainak szolgálatától eltérő rendeltetésű vízellátási, csapadék- és szennyvíz-elvezető nyomóvezetékkel vagy gravitációs vezetékkel és csatornával a töltéslábtól számítva, a töltésfejlesztés mértékét is figyelembe véve, tíz méteren belül tilos megközelíteni.
 
 ## 2. Víz és vízilétesítmény keresztezése vasúttal, közúttal és saját használatú úttal
 
@@ -122,7 +122,11 @@
 
 ## 2.2.8 A hajózási űrszelvény magasságot a hajóúti hídnyílásokban a külön jogszabályban meghatározott űrszelvényméretek szerint kell biztosítani. A híd valamennyi – víziút fő medrébe épített – nyílásának méreteit közzé kell tenni. Ezt a szabályt kell alkalmazni az üzemi területet részben vagy egészében keresztező híd esetében is.
 
-## 2.2.9.1 A hídszerkezet alsó élének magasságát úgy kell meghatározni, hogy az a mértékadó árvízszintnél legalább 1,0 m-rel magasabban legyen. Ha a jeges árvízszint a mértékadó, akkor ez a magasság legalább 1,5 m legyen. Alul íves vonalú hídszerkezet legalsó pontjának is legalább 30 cm-rel, jeges árvízszint esetén pedig 80 cm-rel kell a mértékadó árvízszint felett lennie.
+## 2.2.9.1. A hídszerkezet alsó élének legalacsonyabb magasságát úgy kell meghatározni, hogy az magasabban legyen, mint
+
+## 2.2.9.1.1. az adott szelvényre meghatározott mértékadó árvízszint magassági biztonsággal növelt értéke (előírt magasság) vagy
+
+## 2.2.9.1.2. a jeges legnagyobb vízszint (LNV) és a jogszabályban előírt magassági biztonság összegzett értéke, ha a jeges árvízszint a mértékadó.
 
 ## 2.2.9.2 A hídszerkezet alsó élének magasságát úgy kell megállapítani, hogy az mind a hajózási űrszelvényre vonatkozó előírásoknak, mind pedig a mértékadó árvízszint felett betartandó biztonságnak megfeleljen.
 
@@ -136,9 +140,9 @@
 
 ## 2.3.1 Nem hajózható folyón átvezetett híd esetében a fő nyílást a sodorvonal felett kell elhelyezni.
 
-## 2.3.2 A hídszerkezet alsó élének magasságát úgy kell meghatározni, hogy annak legalacsonyabb pontja is a mértékadó árvízszintnél legalább a folyók mértékadó árvízszintjeiről szóló jogszabályban meghatározott magassági biztonsággal magasabban legyen. Ha a jeges árvízszint a mértékadó, akkor a folyók mértékadó árvízszintjeiről szóló jogszabályban meghatározott magassági biztonságot legalább 1,5 m-rel meg kell növelni.
+## 2.3.2 A hídszerkezet alsó élének magasságát úgy kell meghatározni, hogy annak legalacsonyabb pontja is a mértékadó árvízszintnél legalább a folyók mértékadó árvízszintjeiről szóló jogszabályban meghatározott magassági biztonsággal magasabban legyen. Ha a jeges árvízszint a mértékadó, a hídszerkezet alsó élének magasságát a jeges legnagyobb vízszint (LNV) és a jogszabályban előírt magassági biztonság összegzett értéke határozza meg.
 
-## 2.3.3 A mederbe pillér nem építhető. A pillér parti sávban történő elhelyezés esetén a mederoldal védelmét a meder kezelőjének előírásai szerint kell megoldani.
+## 2.3.3 A mederbe pillér akkor építhető, ha az általa – mértékadó árvízi helyzetben – okozott hatások elfogadhatósága hidraulikai kisminta kísérlettel igazolt. A pillér parti sávban történő elhelyezése esetén a mederoldal védelmét a meder kezelőjének előírásai szerint kell megoldani.
 
 ## 2.4 Egyéb vízfolyás keresztezés
 
@@ -154,7 +158,7 @@
 
 ## 2.4.4 A híd nyílásméretét, a pillérek alakját és elosztását úgy kell megállapítani, hogy a vízáramlás sebessége a műtárgy nélküli lefolyás sebességét 10%-nál nagyobb mértékben, a műtárgy által okozott duzzasztás pedig a mértékadó vízhozamhoz tartozó vízszint felett belterületen, fontos létesítmények térségében, illetve nemzetgazdaságilag kiemelt jelentőségű területen levő műtárgyaknál a 10 cm-t, mezőgazdasági és egyéb területen a 12 cm-t ne haladja meg.
 
-## 2.4.5 A hídpillért csak az átfolyási szelvényen és a híd környezetében jellemző partélek vonalán kívül lehet elhelyezni.
+## 2.4.5 A hídpillért csak úgy lehet elhelyezni, hogy ne okozzon 4,0 cm-nél nagyobb visszaduzzasztást vagy mederkimosódást. A meder védelmét a meder kezelőjének előírásai szerint kell megoldani.
 
 ## 2.4.6 A híd szerkezeti alsó élmagasságát úgy kell kialakítani, hogy az minden esetben a híd környezetében jellemző partél vagy depónia szintjének biztonsági magassággal növelt szintje fölött legyen. Amennyiben a Q1%-os valószínűségű árvízszint biztonsági magassággal növelt értéke alapján számított szerkezeti alsó élmagasság a jelenlegi partélek vagy depóniák szintje alapján számított értéktől magasabb értékre adódik, akkor a hídszerkezet alsó élét a magasabb szinthez kell igazítani. Az előírt biztonsági magasság a 120 m3/s-ot meghaladó Q1%-os valószínűségű árvízi vízhozamú vízfolyásokon legalább 1,0 m, a 80–120 m3/s között vízhozamnál 0,7 m, a 80 m3/s-nél kisebb vízhozamoknál pedig 0,5 m. Vasúti híd esetén az előírt biztonsági magasság betartása a mederszelvénynek a híd környezetében történő bővítésével is megoldható.
 
@@ -168,7 +172,7 @@
 
 ## 2.5.1.3 A duzzasztás megengedett felső határa 4 cm.
 
-## 2.5.2.1 Az áthidaló szerkezet alsó élét úgy kell kialakítani, hogy az a keresztezési szakaszon a jellemző partél felett minimum 0,5 m-rel és a mértékadó vízszint felett minimum 1,0 m-rel magasabban legyen.
+## 2.5.2.1 Az áthidaló szerkezetet úgy kell kialakítani, hogy gerebbel megakadályozható legyen az uszadék műtárgyba jutása vagy a szerkezet alsó éle a keresztezési szakaszon a mértékadó vízszint felett minimum 1,0 m-rel magasabban legyen.
 
 ## 2.5.2.2 Íves alsó vonalú hídszerkezet legalsó pontját úgy kell kialakítani, hogy legalább 0,5 m-rel a mértékadó vízszint felett legyen.
 
@@ -208,7 +212,9 @@
 
 ## 2.9.2 Magasvezetésű csatorna vagy duzzasztott vízszintű vízfolyás töltésének lábvonalától – a töltésfejlesztés mértékét és a talaj rétegződését is figyelembe véve – 10 m-es védősávon belül, illetve a töltés és a szivárgó csatorna között vasutat, közutat tilos vezetni.
 
-## 2.9.3 Árvízvédelmi töltés lábvonalától, a töltésfejlesztés mértékét is figyelembe véve számított 10 m-es védősávon belül vasutat, közutat tilos elhelyezni.
+## 2.9.3 Árvízvédelmi töltés lábvonalától, a töltésfejlesztés mértékét is figyelembe véve számított 10 méteres védősávon belül vasutat tilos elhelyezni. Az árvízvédelmi töltés melletti közút elhelyezése a töltés fenntartójának előírásai szerint történhet.
+
+## 2.9.4. Árvízvédelmi töltés lábvonalától, a töltésfejlesztés mértékét is figyelembe véve számított 10 méteres védősávon belül közutat úgy lehet elhelyezni, hogy az útpálya töltés felőli oldalát drénszivárgóval kell vízteleníteni és az útburkolat alatti talajt drénezni kell.
 
 ## 3. Víz és vízilétesítmény keresztezése és megközelítése függőpályával és szállítószalaggal
 
@@ -330,7 +336,7 @@
 
 ## 8.1 Vízellátási, csapadékvíz- és szennyvízelvezető nyomócső
 
-## 8.1.1 Szennyvízcső vagy vízkivételi cső mederben levő végét úgy kell kialakítani, hogy a hajózási kisvízszinthez tartozó, mértékadó hajózási űrszelvény alsó síkja alatt 4,5 m-rel maradjon, figyelembe véve a folyó medrének természetes, illetve szabályozási művekkel irányított fejlődését.
+## 8.1.1 A szennyvízelvezető vezeték és a vízkivételi vezeték mederben levő végét úgy kell kialakítani, hogy az a legkisebb vízszint alatt legyen.
 
 ## 8.1.2.1 A keresztező vezetéken műtárgyat, tolózárat vagy egyéb szerelvényt a parti sávon, illetve a fenntartási sávon elhelyezni tilos. Nyomócsövet a terepszint felett átvezetni a csővezetékre és tartószerkezetére, illetve a hidakra vonatkozó előírások figyelembevételével lehet.
 
@@ -380,9 +386,9 @@
 
 ## 9.2.3 Az árvízvédelmi műbe épített csőzsilip legkisebb belső szelvény mérete 0,8 m lehet.
 
-## 9.2.4.1 Elsőrendű árvízvédelmi töltésbe épített gravitációs csőzsilipet mindkét végén kettős elzárószerkezettel kell ellátni. A második elzárás betétpallókkal is megoldható.
+## 9.2.4.1 Elsőrendű árvízvédelmi töltésbe épített gravitációs csőzsilipet mindkét végén kettős elzárószerkezettel kell ellátni. A második elzárás betétpallókkal is megoldható. A kettős elzárást és a csövet a mértékadó árvízszint előírt magassági biztonsággal növelt magasságát alapul véve kell méretezni.
 
-## 9.2.4.2 A mentett oldalon a második elzárást elegendő az üzemi viszonyoknak megfelelően kiépíteni, a többi elzárást és a csövet a mértékadó árvízszint előírt magassági biztonsággal növelt magasságát alapul véve kell méretezni.
+## 9.2.4.2
 
 ## 9.2.4.3 A hullámtéri oldalon az elzárásokat úgy kell kialakítani, hogy a legnagyobb árvíznél is biztonságosan kezelhetők legyenek.
 
@@ -440,6 +446,6 @@
 
 ## 9.3.6 Száraz talajban vezetett ivóvizet szállító nyomóvezeték esetén, ha az előírt távolságok betartása valamilyen ok miatt nem lehetséges, a távolság csökkenthető, de az egyéb vezetéket az érintett szakaszon védőcsőben kell vezetni.
 
-2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^87]
+2. melléklet a 147/2010. (IV. 29.) Korm. rendelethez[^92]
 
-[^87]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.
+[^92]: A 2. mellékletet a 83. § (1) bekezdése hatályon kívül helyezte.

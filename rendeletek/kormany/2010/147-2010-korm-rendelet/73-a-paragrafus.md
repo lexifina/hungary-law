@@ -1,0 +1,1 @@
+## során is érvényesíteni kell.

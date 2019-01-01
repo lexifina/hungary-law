@@ -2,13 +2,13 @@
 
 20. § (1) A környezet védelmének általános szabályairól szóló törvény rendelkezéseinek megfelelően a települési környezetvédelmi program részeként dolgozza ki az önkormányzat a települési szennyvízkezelési programot.
 
-(2)[^27] A települési szennyvízkezelési programot a következő tartalommal kell elkészíteni:
+(2)[^28] A települési szennyvízkezelési programot a következő tartalommal kell elkészíteni:
 
 a) helyzetértékelés:
 
 aa) a felszíni és a felszín alatti vizek, valamint a földtani közeg állapota a jogszabály szerinti határértékek figyelembevételével,
 
-ab)[^28] az egyes településrészeken alkalmazott szennyvízelvezetési, -tisztítási és egyéb szennyvíztisztítási középtávú igények, megoldások, továbbá azok környezeti, természeti és társadalmi hatásai,
+ab)[^29] az egyes településrészeken alkalmazott szennyvízelvezetési, -tisztítási és egyéb szennyvíztisztítási középtávú igények, megoldások, továbbá azok környezeti, természeti és társadalmi hatásai,
 
 ac) a felszín alatti vizek szempontjából fokozottan érzékeny területek vagy a magas talajvízállású területnek minősülő településrészek, azok lehatárolása,
 
@@ -18,13 +18,13 @@ b) célkitűzések:
 
 ba) a települési szennyvízkezelési programot úgy kell készíteni, hogy az összhangban legyen a regionális vízgazdálkodási, valamint a környezetvédelmi és vízvédelmi követelményekkel, a településrendezési eszközökkel,
 
-bb)[^29] az egyes településrészek szennyvízelvezetési és -tisztítási megoldására vonatkozóan, megkülönböztetve a szennyvízelvezető művel ellátott és a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Programmal összefüggő szennyvízelvezetési agglomerációk lehatárolásáról szóló kormányrendeletnek megfelelő lehatárolás alapján ellátni tervezett településrészeket [a települési szennyvízelvezetési agglomeráció(ka)t], valamint az egyedi szennyvíztisztításra lehatárolt területeket, megadva az alkalmazni kívánt vízilétesítmények, építmények fajtáit, megjelölve azokat a településrészeket is, ahol egyedi szennyvíztisztítás nem alkalmazható,
+bb)[^30] az egyes településrészek szennyvízelvezetési és -tisztítási megoldására vonatkozóan, megkülönböztetve a szennyvízelvezető művel ellátott és a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Programmal összefüggő szennyvízelvezetési agglomerációk lehatárolásáról szóló kormányrendeletnek megfelelő lehatárolás alapján ellátni tervezett településrészeket [a települési szennyvízelvezetési agglomeráció(ka)t], valamint az egyedi szennyvíztisztításra lehatárolt területeket, megadva az alkalmazni kívánt vízilétesítmények, építmények fajtáit, megjelölve azokat a településrészeket is, ahol egyedi szennyvíztisztítás nem alkalmazható,
 
 bc) a szennyvízelvezető művel összegyűjtött szennyvizek tisztítótelepének, a tisztított szennyvizek befogadójának fő környezetvédelmi jellemzőire, valamint a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott kibocsátási határértékekre, valamint azok teljesítésének feltételeire vonatkozóan,
 
 bd) a települési szennyvízelvezetési agglomerációhoz nem tartozó területek szennyvizeinek ártalmatlanítására vonatkozóan, jogszabályban meghatározott követelményeknek való megfelelés tekintetében,
 
-be)[^30] az egyedi szennyvíztisztító létesítményekre vagy az egyéb tervezett szennyvíz-ártalmatlanítási megoldásokra vonatkozó helyi környezetvédelmi, természetvédelmi követelményekre, valamint a fő műszaki adatokra és szabályokra vonatkozóan;
+be)[^31] az egyedi szennyvíztisztító létesítményekre vagy az egyéb tervezett szennyvíz-ártalmatlanítási megoldásokra vonatkozó helyi környezetvédelmi, természetvédelmi követelményekre, valamint a fő műszaki adatokra és szabályokra vonatkozóan;
 
 c) a célkitűzések eléréséhez alkalmazható megoldási változatok vizsgálata, értékelése, valamint a választott megoldás indokolása, a várható környezetvédelmi, természetvédelmi, társadalmi és gazdasági hatásokkal együtt;
 
@@ -54,7 +54,7 @@ a) ha a településen a szennyvíz-kibocsátás által okozott szennyezőanyag-k
 
 b) ha a vízjogi engedély hivatalból történő módosítása feltételei fennállnak.
 
-[^27]: A 20. § (2) bekezdése a 209/2011. (X. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^28]: A 20. § (2) bekezdés a) pont ab) alpontja a 100/2016. (V. 13.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^29]: A 20. § (2) bekezdés b) pont bb) alpontja a 100/2016. (V. 13.) Korm. rendelet 18. § a) és d) pontja szerint módosított szöveg.
-[^30]: A 20. § (2) bekezdés b) pont be) alpontja a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^28]: A 20. § (2) bekezdése a 209/2011. (X. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^29]: A 20. § (2) bekezdés a) pont ab) alpontja a 100/2016. (V. 13.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^30]: A 20. § (2) bekezdés b) pont bb) alpontja a 100/2016. (V. 13.) Korm. rendelet 18. § a) és d) pontja szerint módosított szöveg.
+[^31]: A 20. § (2) bekezdés b) pont be) alpontja a 100/2016. (V. 13.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.

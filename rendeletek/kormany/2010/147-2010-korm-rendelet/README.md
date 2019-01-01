@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-147-20-
 | 2016-06-15 | 2010-147-20-22.16 | 100/2016. (V. 13.) Korm. rendelet |
 | 2016-10-01 | 2010-147-20-22.17 | 289/2016. (IX. 22.) Korm. rendelet |
 | 2018-01-01 | 2010-147-20-22.18 | 518/2017. (XII. 29.) Korm. rendelet |
+| 2019-01-01 | 2010-147-20-22.19 | 288/2018. (XII. 21.) Korm. rendelet |
