@@ -1,6 +1,6 @@
 ## A címek
 
-125. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter az általa vezetett minisztériumban, a Miniszterelnöki Kormányiroda közigazgatási államtitkára a Miniszterelnöki Kormányirodán kormány-főtanácsadói, kormánytanácsadói, az általános politikai koordinációért felelős miniszter az általa vezetett minisztériumban, a Miniszterelnöki Kormányiroda közigazgatási államtitkára a Miniszterelnöki Kormányirodán miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, a miniszter a miniszteri kabinetben miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
+125. § (1) Törvényben meghatározott szerveknél tanácsadói és főtanácsadói munkakörök létesíthetők.
 
 (2) A főtanácsadói, tanácsadói munkakör betöltésére szóló kinevezés határozatlan időre szól. A főtanácsadói vagy tanácsadói munkakörben foglalkoztatott kormánytisztviselő – tekintet nélkül a kormányzati szolgálati jogviszonyban eltöltött idejére – vezető-főtanácsosi vagy főtanácsosi besorolást kap. A vezető-főtanácsosi besorolású kormánytisztviselő főosztályvezetői, a főtanácsosi besorolású kormánytisztviselő főosztályvezető-helyettesi illetményre jogosult.
 

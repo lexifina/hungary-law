@@ -2,7 +2,7 @@
 
 1. alapvető munkáltatói jog: a kinevezés, jogviszony megszüntetés, áthelyezés, fegyelmi és kártérítési eljárás, valamint sérelemdíj megfizetésére irányuló eljárás megindítása, fegyelmi büntetés, kártérítés, sérelemdíj, összeférhetetlenség megállapítása, kinevezés tartalmának módosítása;
 
-1a. állami tisztviselő: a fővárosi és megyei kormányhivatalnál az állami tisztviselőkről szóló törvény szerinti jogviszonyban álló személy;
+1a.
 
 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 
@@ -72,7 +72,7 @@ b) ha a közigazgatási szerv hivatali szervezetének vezetője közjogi szervez
 
 28. pártfogó felügyelő: aki pártfogó felügyelői véleményt, környezettanulmányt készít, büntetőügyben közvetítői eljárást folytat le, gondoskodik a közérdekű munka végrehajtásáról, az egyéni pártfogó felügyelői terv szerint végrehajtja a pártfogó felügyeletet, pártfogói tevékenységet lát el a büntetés-végrehajtási intézetben, végzi az utógondozást, valamint ellátja a jogszabályban meghatározott más feladatait;
 
-29. szakmai vezető: a minisztériumban kinevezett közigazgatási államtitkár, valamint helyettes államtitkár;
+29.
 
 30. szakszervezet: munkavállalói érdek-képviseleti szerv. A közszolgálati tisztviselők minden olyan szervezete, amelynek elsődleges célja a közszolgálati tisztviselők kormányzati szolgálati, illetve közszolgálati jogviszonyával kapcsolatos érdekeinek előmozdítása és megvédése;
 

@@ -1,4 +1,4 @@
-107. § (1) A szabadságot – a (2) bekezdést kivéve – megváltani nem lehet.
+107. § (1) A szabadságot – a (2) és (2a) bekezdést kivéve – megváltani nem lehet.
 
 (2) A kormányzati szolgálati jogviszony megszűnése esetén, ha a munkáltató az arányos szabadságot nem adta ki, az arányos szabadságot (ha a kormánytisztviselőnek van fennmaradó szabadsága) úgy kell megváltani, hogy ha a kormánytisztviselő
 
@@ -6,7 +6,7 @@ a) a 62/A. § szerint új kormányzati szolgálati jogviszonyt létesít, a megv
 
 b) a 62/A. § szerint új kormányzati szolgálati jogviszonyt nem létesít, az arányos szabadságot a jogviszony megszűnését követő 40. napon kell megváltani.
 
-(2a)
+(2a) A (2) bekezdéstől eltérően, ha a kormánytisztviselő kormányzati szolgálati jogviszonya azért kerül megszüntetésre, mert a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervvel kíván kormányzati szolgálati jogviszonyt létesíteni, a jogviszony megszüntetésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt meg kell váltani.
 
 (2b) A gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően, ha a kormánytisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani.
 

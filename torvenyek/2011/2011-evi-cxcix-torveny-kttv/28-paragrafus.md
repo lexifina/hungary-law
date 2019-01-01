@@ -1,7 +1,1 @@
-## IV. Fejezet
-
-## A MAGYAR KORMÁNYTISZTVISELŐI KAR ÉS ÁLLAMI TISZTVISELŐI KAR
-
-## A Magyar Kormánytisztviselői és Állami Tisztviselői Kar jogállása, feladata és hatásköre
-
-### 28. §
+28. § Az e törvény hatálya alá tartozó, államigazgatási szervnél kormánytisztviselőként kormányzati szolgálati jogviszonyban álló személy a kormányzati igazgatásról szóló törvény szerinti Magyar Kormánytisztviselői Kar tagjává válik.
