@@ -8,7 +8,7 @@
 
 (5) Amennyiben az a gazdasági társaság, amelyet olyan gazdasági társaság alapított, vagy amelyben olyan gazdasági társaság szerzett részesedést, amelyben az állam vagy a helyi önkormányzat e törvény szerinti többségi befolyással rendelkezik, az alapítását vagy részesedésszerzést követően válik nem átláthatóvá, azon társaság, amelyben az állam vagy a helyi önkormányzat többségi befolyással rendelkezik, kezdeményezi a társasági szerződés felülvizsgálatát és a gazdasági társaság tulajdonosi szerkezetének e törvény átlátható szervezetre vonatkozó előírásainak megfelelő átalakítását.
 
-(6) A 100%-os állami vagy önkormányzati tulajdonban álló gazdasági társaság azon közfeladat végzésére, amelynek ellátására létrehozták – az állami vagyonról szóló törvény szerinti tulajdonosi joggyakorló társaságok kivételével – gazdasági társaságot nem alapíthat.
+(6) A 100%-os állami vagy önkormányzati tulajdonban álló gazdasági társaság azon közfeladat végzésére, amelynek ellátására alapították – az állami vagyonról szóló törvény szerinti tulajdonosi joggyakorló társaságok, valamint a (8) bekezdés szerinti eset kivételével – gazdasági társaságot nem alapíthat.
 
 (7) Gazdasági társaságban fennálló állami vagy önkormányzati tulajdonban lévő társasági részesedés nem lehet vagyonkezelés tárgya. A társasági részesedés tulajdonosi joggyakorlója nevében és helyett más személy megbízáson alapuló meghatalmazással járhat el a tulajdonosi jogok egészének vagy meghatározott részének gyakorlása során. Meghatalmazás kizárólag a 3. § (1) bekezdés 19. pontjában meghatározott személyek részére adható.
 
@@ -37,3 +37,5 @@ jóváhagyó határozata szükséges.
 a) gazdálkodó szervezet alapítása vagy megszüntetése,
 
 b) gazdálkodó szervezetben részesedés megszerzése vagy átruházása.
+
+(15) Azon gazdasági társaság, amelyben az állam vagy helyi önkormányzat külön-külön vagy együttesen e törvény szerinti többségi befolyással rendelkezik – ide nem értve a kockázati tőkebefektetéssel üzletszerűen foglalkozó állami vagy önkormányzati többségi befolyással rendelkező gazdasági társaságokat, valamint azon gazdasági társaságokat, amelyekben a részesedésszerzés fejlesztési célú tőkefinanszírozás útján valósul meg –, az állami vagy a helyi önkormányzati tulajdonoson kívül más tulajdonosnak szavazatelsőbbséget vagy más olyan különleges jogot nem biztosíthat, amely a tulajdoni arányoktól eltérő mértékű szavazati jogot eredményez. Az ezzel ellentétes létesítő okiratban lévő vagy más szerződés kikötés semmis.
