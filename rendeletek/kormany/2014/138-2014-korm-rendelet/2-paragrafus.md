@@ -36,13 +36,23 @@ f) az érintett jogosulti csoportot képviselő közös jogkezelő szervezet ada
 
 g) az országos elektronikus dokumentumküldő rendszer adatbázisa.
 
-(4) Vizuális alkotások esetében – ideértve a képzőművészeti és a fotóművészeti alkotásokat, az illusztrációkat, a tervezőművészeti és az építészeti alkotásokat, valamint az utóbbi művek vázlatait és az egyéb, könyvekben, folyóiratokban, hírlapokban és magazinokban vagy egyéb kiadványokban megjelent ilyen műveket is – a jogosultak felkutatása során legalább a következő információforrásokat igénybe kell venni:
+(4)[^1] Vizuális alkotások esetében – ideértve a képzőművészeti és a fotóművészeti alkotásokat, az illusztrációkat és az egyéb, könyvekben, folyóiratokban, hírlapokban és magazinokban vagy egyéb kiadványokban megjelent ilyen műveket is – a jogosultak felkutatása során legalább a következő információforrásokat igénybe kell venni:
 
 a) a (2) és (3) bekezdésben említett – vizuális alkotást nyilvántartó – információforrások, muzeális intézmények adatbázisai;
 
 b) az érintett jogosulti csoportot képviselő közös jogkezelő szervezet adatbázisai és
 
 c) a képügynökségek adatbázisai.
+
+(4a)[^2] Építészeti alkotások esetében – ideértve a tervezőművészeti és az építészeti alkotásokat és azok terveit, vázlatait és az azokról rajzolás útján létrehozott alkotásokat is – a jogosultak felkutatása során legalább a következő információforrásokat igénybe kell venni:
+
+a) a (2) és (3) bekezdésben említett – vizuális alkotást nyilvántartó – információforrások, muzeális intézmények adatbázisai,
+
+b) az Építésügyi Dokumentációs és Információs Központot, az Országos Építésügyi Nyilvántartást, az Országos Központi Tervtárat, a Tervtárak Országos Adatbázisát üzemeltető Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság adatbázisai,
+
+c) az érintett jogosulti csoportot képviselő Magyar Építész Kamara, illetve Magyar Mérnöki Kamara adatbázisai és
+
+d) a képügynökségek adatbázisai.
 
 (5) Audiovizuális művek és hangfelvételek esetében a jogosultak felkutatása során legalább a következő információforrásokat igénybe kell venni:
 
@@ -65,3 +75,6 @@ g) a jogosultak elkülönült részét képviselő egyéb érintett szervezetek 
 a) az érintett jogosulti csoportot képviselő közös jogkezelő szervezet adatbázisai és
 
 b) a műtípus szerint érintett, nyilvánosság számára hozzáférhető gyűjtemények adatbázisai.
+
+[^1]: A 2. § (4) bekezdés nyitó szövegrésze a 280/2018. (XII. 21.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^2]: A 2. § (4a) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 9. §-a iktatta be.
