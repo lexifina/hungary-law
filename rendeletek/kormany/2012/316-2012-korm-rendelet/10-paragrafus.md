@@ -1,12 +1,12 @@
-## 8–9. §[^29]
+## 8–9. §[^31]
 
-## 10. §[^30]
+## 10. §[^32]
 
-a)[^31]
+a)[^33]
 
-b)[^32]
+b)[^34]
 
-[^29]: A 8–9. § a 349/2012. (XII. 12.) Korm. rendelet 67. §-a alapján nem lép hatályba.
-[^30]: A 10. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 10. § a) pontja a 349/2012. (XII. 12.) Korm. rendelet 67. §-a alapján nem lép hatályba.
-[^32]: A 10. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 8–9. § a 349/2012. (XII. 12.) Korm. rendelet 67. §-a alapján nem lép hatályba.
+[^32]: A 10. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 10. § a) pontja a 349/2012. (XII. 12.) Korm. rendelet 67. §-a alapján nem lép hatályba.
+[^34]: A 10. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
