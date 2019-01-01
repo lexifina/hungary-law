@@ -8,7 +8,7 @@ b) arról, hogy milyen feltételekkel vehet igénybe kölcsönt a személygépko
 
 (3)[^58] Ha az adásvételi szerződés a határozat véglegessé válásától számított négy hónapon belül nem jön létre, a szerzési támogatás nem folyósítható. Ebben az esetben a hivatal a felszabadult szerzési támogatásnak megfelelő összegben új jogosultat jelöl ki.
 
-(4)[^59] Az adásvételi szerződés egy példányát a miniszternek meg kell küldeni. A miniszter a szerzési támogatás összegét a szerződés beérkezését követő 15 napon belül utalja át a közreműködő szervezet vagy az autókereskedő részére.
+(4)[^59] Az adásvételi szerződés egy példányát a miniszternek meg kell küldeni. A miniszter a szerzési támogatás összegét a szerződés beérkezését követő 20 napon belül utalja át a közreműködő szervezet vagy az autókereskedő részére.
 
 (5)[^60] A miniszter az adásvételi szerződés létrejöttéről és a szerzési támogatás átutalásáról az átutalástól számított nyolc napon belül értesíti a hivatalt.
 
@@ -17,6 +17,6 @@ b) arról, hogy milyen feltételekkel vehet igénybe kölcsönt a személygépko
 [^56]: A 10. § (1) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. [A 10. § (1) bekezdésének a 457/2017. (XII. 28.) Korm. rendelet 325. § a) pontjával elrendelt módosítása, amely szerint a „jogerőre emelkedését” szövegrész helyébe a „véglegessé válását” szöveg lép, nem vezethető át.]
 [^57]: A 10. § (2) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^58]: A 10. § (3) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 250/2012. (IX. 7.) Korm. rendelet 9. § h) pontja, a 402/2017. (XII. 15.) Korm. rendelet 7. § d) és e) pontja, a 457/2017. (XII. 28.) Korm. rendelet 325. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^59]: A 10. § (4) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 402/2017. (XII. 15.) Korm. rendelet 7. § f) és g) pontja szerint módosított szöveg.
+[^59]: A 10. § (4) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 402/2017. (XII. 15.) Korm. rendelet 7. § f) és g) pontja, a 303/2018. (XII. 27.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
 [^60]: A 10. § (5) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja, a 66/2016. (III. 31.) Korm. rendelet 7. § a) pontja, a 402/2017. (XII. 15.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
 [^61]: A 10. § (6) bekezdését újonnan a 66/2016. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 402/2017. (XII. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

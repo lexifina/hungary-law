@@ -8,9 +8,10 @@
 
 (5)[^63] A kereskedő az utalványt a közlekedési kedvezmény összegének kiegyenlítése céljából – legkésőbb az utalvány lejártát követő 15 napon belül – a miniszterhez nyújtja be, és mellékeli az általa kiállított számla egy példányát.
 
-(6) A miniszter az utalvány ellenértékét 15 napon belül kiegyenlíti.
+(6)[^64] A miniszter az utalvány ellenértékét 20 napon belül kiegyenlíti.
 
 (7) A miniszter az utalvány felhasználásáról az utalvány ellenértékének kiegyenlítését követő nyolc napon belül értesíti a hivatalt az (5) bekezdés szerinti, számlán feltüntetett adatok megjelölésével.
 
 [^62]: A 11. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 325. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^63]: A 11. § (5) bekezdése a 61/2012. (III. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^64]: A 11. § (6) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.

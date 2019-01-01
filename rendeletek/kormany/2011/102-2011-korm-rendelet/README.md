@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-102-20-
 | 2017-01-01 | 2011-102-20-22.15 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-08-26 | 2011-102-20-22.16 | 235/2017. (VIII. 18.) Korm. rendelet |
 | 2018-01-01 | 2011-102-20-22.17 | 402/2017. (XII. 15.) Korm. rendelet |
+| 2019-01-01 | 2011-102-20-22.18 | 303/2018. (XII. 27.) Korm. rendelet |

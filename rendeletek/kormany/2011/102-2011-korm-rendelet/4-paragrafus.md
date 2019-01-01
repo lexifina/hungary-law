@@ -1,5 +1,3 @@
-## (a továbbiakban együtt: hivatal) jelöli ki.
-
 ## 2. Személygépkocsi szerzési támogatás
 
 4. § (1)[^17] A személygépkocsi szerzési támogatás (a továbbiakban: szerzési támogatás)

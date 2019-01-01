@@ -56,7 +56,7 @@ h)[^13] egyéb fogyatékossággal élő személy: az a személy, aki
 
 ha) fogyatékossági támogatásra a Fot. 23. § (1) bekezdés a)–d) vagy h) pontja alapján jogosult, vagy vakok személyi járadékában részesül, vagy a Fot. 23. § (1) bekezdés f) vagy g) pontja alapján halmozottan fogyatékosnak minősül, kivéve, ha egyik fogyatékossága mozgásszervi fogyatékosság,
 
-hb)[^14] a 18. életévét nem töltötte be, és magasabb összegű családi pótlékra az Mr. 1. mellékletében meghatározottak szerint a „K” vagy az „M” betűjel alapján, vagy az „N” betűjel „1” számjel alapján jogosult, továbbá, aki az Mr. 1. mellékletében meghatározott, a „P” betűjel szerinti többszörös és összetett betegségben szenved, és a többszörös és összetett betegségei közül legalább az egyik az Mr. 1. mellékletében meghatározottak szerint a „K” vagy az „M” betűjel szerinti, vagy az „N” betűjel „1” számjel szerinti betegség, illetve fogyatékosság.
+hb)[^14] a 18. életévét nem töltötte be, és magasabb összegű családi pótlékra az Mr. 1. mellékletében meghatározottak szerint a „K” vagy az „M” betűjel alapján, vagy az „N” betűjel alapján jogosult, továbbá, aki az Mr. 1. mellékletében meghatározott, a „P” betűjel szerinti többszörös és összetett betegségben szenved, és a többszörös és összetett betegségei közül legalább az egyik az Mr. 1. mellékletében meghatározottak szerint a „K” vagy az „M” betűjel szerinti, vagy az „N” betűjel szerinti betegség, illetve fogyatékosság.
 
 [^4]: A 2. § a) pontja a 61/2012. (III. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^5]: A 2. § a) pont ab) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -68,4 +68,4 @@ hb)[^14] a 18. életévét nem töltötte be, és magasabb összegű családi p�
 [^11]: A 2. § g) pont gb) alpontja a 235/2017. (VIII. 18.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^12]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^13]: A 2. § h) pontját a 250/2012. (IX. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^14]: A 2. § h) pont hb) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^14]: A 2. § h) pont hb) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
