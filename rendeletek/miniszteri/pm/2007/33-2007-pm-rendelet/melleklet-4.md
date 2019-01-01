@@ -44,7 +44,7 @@
 
 | Nemzeti Adó- és Vámhivatal Tolna Megyei Adó- és Vámigazgatósága |
 
-4. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^19]
+4. számú melléklet a 33/2007. (XII. 23.) PM rendelethez[^20]
 
 I. Ingatlan jellege: Egylakásos lakóépületben lévő lakás
 
@@ -304,4 +304,4 @@ XI. Ingatlan jellege: Egyéb nem lakáscélú ingatlan
 
 1.43. Egyéb
 
-[^19]: A 4. számú mellékletet a 77/2013. (XII. 31.) NGM rendelet 7. §-a iktatta be.
+[^20]: A 4. számú mellékletet a 77/2013. (XII. 31.) NGM rendelet 7. §-a iktatta be.

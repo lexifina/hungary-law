@@ -2,7 +2,7 @@
 
 10. §[^7] (1) A szakértői adatszolgáltatás keretében az állami adóhatóság a bíróság vagy más hatóság által kirendelt szakértő számára, a szakértő által megjelölt időszak vonatkozásában, a szakértő kérése szerint
 
-a) a kirendeléssel érintett ingatlan forgalmi értékének megállapításához szükséges, az illetékekről szóló 1990. évi XCIII. törvény 70. § (3) bekezdés a) pontja szerint megállapított legfeljebb 10 összehasonlító értékadatot ad át, vagy
+a)[^8] a kirendeléssel érintett ingatlan forgalmi értékének megállapításához szükséges, az illetékekről szóló 1990. évi XCIII. törvény 69. § (3) és (4) bekezdése szerint megállapított legfeljebb 10 összehasonlító értékadatot ad át, vagy
 
 b) a kirendeléssel érintett ingatlanhoz térben legközelebb eső, azzal azonos jellegű 20 ingatlan értékadatait adja át,
 
@@ -10,7 +10,8 @@ azzal, hogy a szakértő által megjelölt időszak kezdő időpontja egyik eset
 
 (2) A kérelemben fel kell tüntetni az ingatlan pontos címét és helyrajzi számát, valamint a rendelkezésre álló egyéb jellemzőit, továbbá a kirendelés szempontjából releváns időszakot, illetőleg csatolni kell a kirendelésről szóló bírósági határozat vagy hatósági döntés másolatát.
 
-(3)[^8] A szakértői adatszolgáltatás keretében az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértő – feladatának teljesítése érdekében – az ingatlanok helyrajzi számát is jogosult megismerni.
+(3)[^9] A szakértői adatszolgáltatás keretében az igazságügyi szakértői tevékenységről szóló törvény szerinti szakértő – feladatának teljesítése érdekében – az ingatlanok helyrajzi számát is jogosult megismerni.
 
 [^7]: A 10. § a 31/2009. (XII. 18.) PM rendelet 3. §-ával megállapított szöveg.
-[^8]: A 10. § (3) bekezdését a 46/2012. (XII. 27.) NGM rendelet 25. §-a iktatta be.
+[^8]: A 10. § (1) bekezdés a) pontja a 13/2018. (XII. 18.) PM rendelet 4. §-a szerint módosított szöveg.
+[^9]: A 10. § (3) bekezdését a 46/2012. (XII. 27.) NGM rendelet 25. §-a iktatta be.

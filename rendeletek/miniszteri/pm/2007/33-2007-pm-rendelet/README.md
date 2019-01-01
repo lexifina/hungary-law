@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-33-20-5
 | 2013-01-01 | 2007-33-20-53.6 | 46/2012. (XII. 27.) NGM rendelet |
 | 2014-01-01 | 2007-33-20-53.7 | 77/2013. (XII. 31.) NGM rendelet |
 | 2016-01-01 | 2007-33-20-53.8 | 47/2015. (XII. 30.) NGM rendelet |
+| 2019-01-01 | 2007-33-20-53.9 | 13/2018. (XII. 18.) PM rendelet |
