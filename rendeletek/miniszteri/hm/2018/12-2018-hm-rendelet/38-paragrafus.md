@@ -1,3 +1,3 @@
-## 37. §[^37]
+## 37. §[^38]
 
-[^37]: A 37. § a 49. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^38]: A 37. § a 20/2018. (XII. 28.) HM rendelet 122. §-a alapján nem lép hatályba.

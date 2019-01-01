@@ -1,3 +1,3 @@
-2. melléklet a 12/2018. (VII. 27.) HM rendelethez[^50]
+2. melléklet a 12/2018. (VII. 27.) HM rendelethez[^51]
 
-[^50]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
