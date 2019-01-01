@@ -1,6 +1,6 @@
 ## 1. Általános rendelkezések
 
-1. § (1) Az egészségügyi alapellátás biztosítja, hogy a beteg a lakóhelyén, illetve annak közelében választása alapján igénybe vehető, hosszú távú, személyes kapcsolaton alapuló, folyamatos egészségügyi ellátásban részesüljön, nemétől, korától és betegsége természetétől függetlenül.
+1. § (1) Az egészségügyi alapellátás biztosítja, hogy a beteg a lakóhelyén, illetve annak közelében hosszú távú, személyes kapcsolaton alapuló, folyamatos egészségügyi ellátásban részesüljön, nemétől, korától és betegsége természetétől függetlenül.
 
 (2) Az egészségügyi alapellátás feladatai:
 

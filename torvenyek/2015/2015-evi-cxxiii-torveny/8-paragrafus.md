@@ -8,6 +8,20 @@
 
 (3) A háziorvos, házi gyermekorvos a gyermekvédelmi jelzőrendszer részeként jelzi a gyermek veszélyeztetettségét a család- és gyermekjóléti szolgálatnak, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvényben (a továbbiakban: Gyvt.) meghatározott esetekben hatósági eljárást kezdeményez. Ennek során a háziorvos, házi gyermekorvos a Gyvt. 11. § (1a) bekezdésében és 17. § (2)–(3a) bekezdésében foglaltak alkalmazásával jár el.
 
+(3a) A gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében a gyermeket ellátó háziorvos, házi gyermekorvos és a gyermek lakóhelye szerint illetékes területi védőnő köteles egymással együttműködni és egymást kölcsönösen írásban haladéktalanul, de legkésőbb 72 órán belül tájékoztatni
+
+a) a nyilvántartásba vétellel az alapellátás megkezdéséről,
+
+b) a fokozott gondozást igénylő esetekről,
+
+c) a nyilvántartás megszűnésével az alapellátás befejeződéséről.
+
+(3b) A gyermeket ellátó háziorvos, házi gyermekorvos köteles haladéktalanul, de legkésőbb 72 órán belül írásban visszajelzést adni a lakóhely szerint illetékes területi védőnő számára
+
+a) az életkorhoz kötött kötelező védőoltás megtörténtéről, illetve annak elmaradásáról és indokáról,
+
+b) szűrővizsgálatok során a területi védőnő által a háziorvos felé jelzett észlelt elváltozás kivizsgálásának megtörténtéről és annak eredményéről.
+
 (4) A háziorvos, illetve házi gyermekorvos választásának jogát a cselekvőképes személy személyesen, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy cselekvőképességében teljesen korlátozott nagykorú személy törvényes képviselője útján gyakorolja. A háziorvos, illetve házi gyermekorvos választására vonatkozó részletes szabályokat az egészségügyért felelős miniszter (a továbbiakban: miniszter) rendeletben határozza meg.
 
 (5) A fogorvos a fog- és szájbetegek gyógyító-megelőző alapellátását végzi. A miniszteri rendeletben meghatározott fogászati szűrővizsgálatok fogorvos által igazolt elvégzését a kötelező egészségbiztosítás keretében a fogorvosok részére folyósított finanszírozás megállapítása során – részükre kedvező módon – figyelembe kell venni.
