@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1212-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-04-10 | 2015-1212-30-22.1 | 1212/2015. (IV. 10.) Korm. határozat |
+| 2019-01-01 | 2015-1212-30-22.2 | 2011. évi CXCV. törvény |
