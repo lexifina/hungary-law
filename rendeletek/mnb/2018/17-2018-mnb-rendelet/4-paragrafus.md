@@ -1,0 +1,11 @@
+## 3. § A felügyeleti díj fizetésére kötelezett a felügyeleti díj bevallását törvény eltérő rendelkezése hiányában az 1. melléklet II. pontjában előírt tartalommal és formában, a 2. mellékletben meghatározott kitöltési előírások szerint teljesíti.
+
+4. § (1) A felügyeleti díj fizetésére kötelezett – a (2)–(5) bekezdésben foglaltak kivételével – a tevékenységi engedélyről szóló határozat véglegessé válásától a felügyeleti engedély visszavonásáról szóló határozatban megjelölt időpontig, időpont megjelölése hiányában a felügyeleti engedély visszavonásáról szóló határozat véglegessé válásáig, felügyeleti engedélyhez nem kötött tevékenység esetén az MNB általi nyilvántartásba vétel napjától a nyilvántartásból történő törlés napjáig terjedő időszakra teljesíti a bevallást.
+
+(2) A fióktelep a tevékenység megkezdésének napjától a tevékenység befejezésének az MNB-hez történő bejelentésében megjelölt időpontig teljesíti a bevallást.
+
+(3) A felügyeleti díj fizetésére kötelezett felügyeleti alapdíj bevallást készít, ha a naptári év első napján engedéllyel rendelkezik vagy ennek hiányában az MNB nyilvántartásában szerepel.
+
+(4) Ha a felügyeleti díj fizetésére kötelezett részére a tevékenységi engedély megadása, visszavonása negyedév közben történik, vagy az MNB általi nyilvántartásba vételére, nyilvántartásból való törlésére negyedév közben kerül sor, a felügyeleti változó díj számítása a tevékenység időtartamára történik. A tevékenység időtartamának kiszámításánál egy negyedévet 90 naposnak kell tekinteni. A teljes tárgynegyedévi tevékenység esetén 90 napot kell a felügyeleti díj fizetésére kötelezettnek az MNB részére bevallani. Ha a felügyeleti díj fizetésére kötelezett nem végzett tevékenységet a teljes negyedévben, akkor a tevékenység időtartamának kiszámításakor a 90 napból le kell vonni annak az időszaknak a napjait, amikor a felügyeleti díj fizetésére kötelezett nem végezte a tevékenységet.
+
+(5) A teljes naptári évben végzett tevékenység esetén a felügyeleti díj fizetésére kötelezett 360 napot vall be az MNB részére. Ha a felügyeleti díj fizetésére kötelezett nem a teljes évben végezte a tevékenységét, akkor az éves tevékenysége időtartamának meghatározásához a negyedéves számításokat összesíti.
