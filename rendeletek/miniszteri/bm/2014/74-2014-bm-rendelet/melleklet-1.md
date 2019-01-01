@@ -1,6 +1,6 @@
-## 8. §[^1]
+## 8. §[^2]
 
-1. melléklet a 74/2014. (XII. 23.) BM rendelethez[^2]
+1. melléklet a 74/2014. (XII. 23.) BM rendelethez[^3]
 
 | A folyók mértékadó árvízszintjei Amennyiben a vízfolyás szelvényezése változik, úgy a mértékadó árvízszintek meghatározásánál a folyóközépvonal koordinátái a mérvadóak. 1. DUNA |
 
@@ -1748,5 +1748,5 @@
 
 | 9 | 16,600 | 615 847,72 | 129 786,16 | 94,02 | 16,807 | 16,373 | Töltés vége |
 
-[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 1. §-a, a 42/2017. (XII. 29.) BM rendelet 7. §-a szerint módosított szöveg.
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 1. §-a, a 42/2017. (XII. 29.) BM rendelet 7. §-a szerint módosított szöveg.
