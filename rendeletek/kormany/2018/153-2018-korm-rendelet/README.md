@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-153-20-
 | 2018-09-01 | 2018-153-20-22.2 | 2010: CXXX. törvény |
 | 2018-11-01 | 2018-153-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-11-02 | 2018-153-20-22.4 | 2010: CXXX. törvény |
+| 2019-01-01 | 2018-153-20-22.5 | 2010: CXXX. törvény |
