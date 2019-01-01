@@ -18,7 +18,7 @@ cc) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni ter
 
 cd) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által elnyert, nem fejlesztési célú támogatás előfinanszírozásának biztosítására szolgál, valamint
 
-d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont szerinti, jogi személy által megkötött ügylethez kapcsolódik.
+d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont szerinti, önkormányzat által megkötött, valamint az önkormányzati többségi tulajdonban álló gazdasági társaság által a naptári éven belül keletkeztetett és lejáró futamidejű adósságot keletkeztető ügylethez kapcsolódik.
 
 (4) Az ugyanazon
 

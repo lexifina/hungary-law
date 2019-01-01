@@ -10,7 +10,7 @@ c) teljesül a 10. § (2) és (5) bekezdése szerinti feltétel.
 
 a) teljesül a 10. § (5) bekezdésében meghatározott feltétel, azzal, hogy az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségére rendelkezésre álló határidő lejártát kell érteni, és
 
-b) a kezesség-, illetve garanciavállalás megfelel az Áht. 96. §-ának.
+b) a kezesség-, illetve garanciavállalás – a 10/E. § (3) bekezdés szerinti szerződésmódosításhoz vagy adósságmegújításhoz kapcsolódó kezesség-, illetve garanciavállalás kivételével – megfelel az Áht. 96. §-ának.
 
 (3) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű, illetve annál kisebb meglévő adósság visszafizetése, abban az esetben járul hozzá, ha teljesül a 10. § (5) bekezdésében meghatározott feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a 10. § (5) bekezdésében meghatározott feltétel alkalmazásától eltekinthet.
 
