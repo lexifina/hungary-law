@@ -4,7 +4,7 @@
 
 (3) A 9. § (1) bekezdésében foglaltaknak megfelelő sportorvosi engedélyeket a rendelet kihirdetését követő 120. naptól kell alkalmazni.
 
-Melléklet a 215/2004. (VII. 13.) Korm. rendelethez
+Melléklet a 215/2004. (VII. 13.) Korm. rendelethezL[^20]
 
 SPORTORVOSI ENGEDÉLY
 
@@ -24,13 +24,13 @@ f) sportág:
 
 g) sportolói jogállása (amatőr, hivatásos):
 
-2. A sportorvosi vizsgálat
+2. A sportorvosi vizsgálat
 
-a) elvégzésének időpontja:
+a) elvégzésének időpontja:
 
-b) eredménye2:
+b) eredménye2:
 
-|  | alkalmas | versenyezhet | nem alkalmas | nem versenyezhet |
+alkalmas versenyezhet nem alkalmas nem versenyezhet
 
 3. A sportorvosi engedély érvényességi időtartama:
 
@@ -48,7 +48,8 @@ ___________
 
 1 A sportszövetség tölti ki a sportorvosi vizsgálat előtt.
 
-2 A sportorvos aláírásának, pecsétszámát tartalmazó bélyegzője, valamint a sportegészségügyi szakrendelő bélyegzője lenyomatának megfelelő helyen történő feltüntetésével jelölve.
+2  A sportorvos aláírásának, pecsétszámát tartalmazó bélyegzője, valamint a sportegészségügyi szakrendelő bélyegzője lenyomatának megfelelő helyen történő feltüntetésével jelölve. Háziorvos, házi gyermekorvos esetén aláírásának, pecsétszámát tartalmazó bélyegzője lenyomatának megfelelő helyen történő feltüntetésével jelölve.
 
 [^18]: A 21. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 658. pontja szerint módosított szöveg.
 [^19]: A 21. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 658. pontja hatályon kívül helyezte.
+[^20]: A Melléklet a 279/2018. (XII. 21.) Korm. rendelet 9. §-a szerint módosított szöveg.
