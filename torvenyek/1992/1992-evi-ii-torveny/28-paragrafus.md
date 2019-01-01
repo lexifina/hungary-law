@@ -4,4 +4,4 @@
 
 ## Egyesülés, szétválás, átalakulás és megszűnés
 
-28–30. §
+28. §

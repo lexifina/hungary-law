@@ -2,4 +2,4 @@
 
 ## VEGYES RENDELKEZÉSEK
 
-55–58. §
+55. §

@@ -2,4 +2,4 @@
 
 ## ELJÁRÁSI SZABÁLYOK
 
-48–54. §
+48. §

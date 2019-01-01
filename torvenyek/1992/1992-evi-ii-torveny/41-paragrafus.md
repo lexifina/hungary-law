@@ -1,3 +1,3 @@
 ## Vagyonmegosztás árveréssel
 
-41–47. §
+41. §
