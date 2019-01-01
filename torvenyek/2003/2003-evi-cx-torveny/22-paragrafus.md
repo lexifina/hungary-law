@@ -300,7 +300,7 @@ védelmi osztályba sorolása:
 
 |
 
-A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, vagy az 1.–8. kategória alá nem tartozó egyéb személygépkocsi.
+A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, vagy az 1.–8. kategória alá nem tartozó más személygépkocsi.
 
 |
 
@@ -330,7 +330,7 @@ Adótétel
 
 |
 
-20 000 Ft/db
+15 000 Ft/db
 
 |
 
@@ -342,7 +342,7 @@ Adótétel
 
 |
 
-95 000 Ft/db
+50 000 Ft/db
 
 |
 
@@ -354,7 +354,7 @@ Adótétel
 
 |
 
-135 000 Ft/db
+85 000 Ft/db
 
 |
 
@@ -379,6 +379,18 @@ Adótétel
 |
 
 230 000 Ft/db
+
+|
+
+6.
+
+|
+
+Elektromos és hibrid meghajtású motorkerékpárok
+
+|
+
+0 Ft/db
 
 A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
 

@@ -12,7 +12,7 @@ d) törvényben kihirdetett nemzetközi szerződésben vagy törvényben meghat�
 
 2. átalakítás: a közúti gépjármű olyan műszaki megváltoztatása, amelynek eredményeként az e törvény hatálya alá nem tartozó gépjárműből személygépkocsi vagy motorkerékpár jön létre, illetőleg a személygépkocsi vagy a motorkerékpár más adókategóriába kerül;
 
-3. személygépkocsi: a Kereskedelmi Vámtarifának az adózás rendjéről szóló törvényben (a továbbiakban: Art.) szereplő időpont szerinti állapota alapján a 8703 vámtarifaszám alá tartozó jármű, ide nem értve a mentőautót, a halottszállító kocsit és az e törvény szerinti motorkerékpárt;
+3. személygépkocsi: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. melléklete szerinti Kombinált Nómenklatúrában meghatározott, az adózás rendjéről szóló törvényben (a továbbiakban: Art.) szereplő időpont szerinti állapot alapján a 8703 vámtarifaszám alá tartozó jármű, ide nem értve a mentőautót, a halottszállító kocsit és az e törvény szerinti motorkerékpárt;
 
 4. új gépjármű: az a személygépkocsi, illetve motorkerékpár, amely az adó alanya által történt megszerzésének időpontjában legfeljebb 6000 kilométert futott, vagy amelynek első külföldi forgalomba helyezésétől számítva legfeljebb 6 hónap telt el;
 
