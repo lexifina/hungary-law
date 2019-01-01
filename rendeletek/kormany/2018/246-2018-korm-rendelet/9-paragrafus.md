@@ -1,0 +1,3 @@
+9. § (1) Ha a bejelentés tudomásulvételéről szóló visszaigazolásának vagy a tiltó döntésnek a kézhezvételéig a miniszterhez előterjesztett kérelmében a bejelentést a külföldi befektető írásban visszavonja, a miniszter a Törvény 6. § (4) bekezdésének alkalmazását mellőzi és a bejelentéssel összefüggő eljárást megszünteti, vagy a Törvény 6. § (4) bekezdés a) pontja szerinti tudomásulvételt, illetve a Törvény 6. § (4) bekezdés b) pontja szerinti tiltó döntést visszavonja. A bejelentéssel összefüggő eljárás megszüntetése a Törvény 9. § (1) bekezdése szerinti ellenőrzés lefolytatásának nem akadálya.
+
+(2) A bejelentéssel összefüggő eljárás (1) bekezdés szerinti megszüntetése esetén az 5. §-ban foglalt rendelkezést megfelelően alkalmazni kell.

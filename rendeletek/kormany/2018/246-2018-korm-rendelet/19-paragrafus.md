@@ -1,0 +1,1 @@
+## 18. § Az ellenőrzés eredményeképpen hozott – a Törvény 9. § (2) bekezdés a) vagy b) pontja szerinti – visszaigazolásokról vagy döntésekről a miniszter nyilvántartást vezet. A Törvény 6. § (10) bekezdésében megjelölt határidő elteltével a nyilvántartásban rögzített adatokat törölni kell.
