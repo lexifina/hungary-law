@@ -1,0 +1,1 @@
+## „(7) Az (1)–(6) bekezdésben foglalt adatokat a 3. § (2) bekezdésében meghatározott igazolás hónapjának első napján közalkalmazotti jogviszonyban álló személyek létszáma alapján kell megállapítani.”
