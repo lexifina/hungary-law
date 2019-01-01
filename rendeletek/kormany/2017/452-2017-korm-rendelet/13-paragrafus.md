@@ -36,10 +36,12 @@ c) amelynek az adott csoportba tartozó gyógyszerek közül a bruttó fogyaszt�
 
 d) amelynek a kiszerelési formája a támogatás alapját képező indikációt tekintve nem haladja meg az érvényes alkalmazási előírásában meghatározott egy havi terápiához szükséges, a maximális dózissal számolt mennyiséget vagy ahhoz legközelebb álló csomagolási egységet, kivéve azon csoportok esetében, ahol az egy havi terápiához szükséges mennyiséget meghaladó csomagolási egységek DOT-ban mért forgalma meghaladja a csoport DOT forgalmának 60%-át, és
 
-e) amelynek a csoporton belüli forgalmi részesedése a 14. § (4) bekezdése és a 15. § (2) bekezdése szerint megindult fixesítési eljárás kezdőnapját megelőző hét hónapon belül – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – a DOT tekintetében legalább két hónapban a 3%-ot, a 15. § szerinti eljárásban az 5%-ot elérte.
+e)[^1] amelynek a csoporton belüli forgalmi részesedése a 15. § (5) bekezdése és a 16. § (2) bekezdése szerint megindult fixesítési eljárás kezdőnapját megelőző hét hónapon belül – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – a DOT tekintetében legalább két hónapban az 1%-ot, a 15. § szerinti eljárásban az 5%-ot elérte.
 
 (10) A referencia készítmény vagy a referencia ár meghatározásánál, illetve a forgalmi részesedés megállapításánál nem kerülnek beszámításra a nem egyenértékű, illetve a nyilvántartásból törölt készítmények. Ha ezen készítmények napi terápiás költsége a referencia készítmény napi terápiás költségénél magasabb, a referencia készítmény napi terápiás költségéhez rendelt támogatási összeg kerül megállapításra, ellenkező esetben ezen készítmények a referencia készítmény támogatásának százalékos mértékét kapják.
 
 (11) Ha a referencia készítmény forgalomba hozatali engedélyének jogosultja a megrendeléseket bizonyítottan, egy hónapon keresztül nem tudja teljesíteni, a NEAK a készítményt a társadalombiztosítási támogatásból kizárja, és az adott készítmény a következő referencia ár meghatározását követő kilenc hónapban nem részesíthető társadalombiztosítási támogatásban.
 
 (12) A NEAK a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 15. napjáig a honlapján közzéteszi.
+
+[^1]: A 13. § (9) bekezdés e) pontja a 242/2018. (XII. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
