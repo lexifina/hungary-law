@@ -24,15 +24,15 @@ i) egyéb jogosultságait és kötelezettségeit, valamint
 
 j) tartós külszolgálata ellátásával kapcsolatos egyéb feltételeket.
 
-(3) A kihelyezés megszűnéséről vagy megszüntetéséről szóló okiratnak tartalmaznia kell
+(3) A kihelyező szerv a kihelyezettet a kihelyezés megszűnéséről vagy megszüntetéséről okiratban értesíti. A kihelyezés megszűnéséről vagy megszüntetéséről szóló értesítő okiratnak (a továbbiakban: értesítő okirat) tartalmaznia kell
 
-a) a külszolgálat megszűnésének napját,
+a) a kihelyezés megszűnésének vagy megszüntetésének napját,
 
-b) a szolgálat átadásával, valamint a hazautazással kapcsolatos kötelezettségeket.
+b) a hazautazással kapcsolatos kötelezettségeket.
 
 (4) A kihelyező okirathoz csatolni kell a kihelyezett részletes munkaköri leírását, amely tartalmazza a helyettesítés rendjét is.
 
-(5) A kihelyezett tartós külszolgálatának megszűnéséről vagy megszüntetéséről értesítő okiratban értesül. Az értesítő okiratban meg kell határozni a végleges hazautazás napját.
+(5)
 
 (6) A kihelyezett kihelyezési okirata – a (7) bekezdésben foglaltak kivételével – a kihelyezett egyetértésével módosítható. A kihelyező okirat tartalmának módosítására a kihelyezésre és a kihelyezéshez való hozzájárulásra vonatkozó szabályokat kell megfelelően alkalmazni.
 

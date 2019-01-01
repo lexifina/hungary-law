@@ -12,11 +12,15 @@
 
 5. ENSZ-szorzó: az Egyesült Nemzetek Szervezete Nemzetközi Közszolgálat Bizottsága által közzétett arányszám, amely – a helyi fizetőeszköz és az USD közötti átváltási arányok változását és az infláció mértékét is alapul véve – a megélhetés költségeit hasonlítja össze egy adott állomáshely és New York tekintetében;
 
+5a. életvitelszerű tartózkodás: a kihelyezett és a 8. pont szerinti hozzátartozója megszakítás nélkül, életvitelszerűen tartózkodik a fogadó államban, ha a tartós külszolgálat megkezdését követően a fogadó államban lakóhelyül szolgáló ingatlanban szervezi az életét továbbá, ha az életvitelhez szükséges tevékenységeket jellemzően a fogadó államban folytatja, valamint a közüzemi szolgáltatásokat személyesen a fogadó államban veszi igénybe;
+
 6. élhetőség: az állomáshelyre vonatkozó, különösen éghajlati, biztonsági, légszennyezettségi, egészségügyi, terrorfenyegetettségi, infrastrukturális szempontok összessége;
 
 7. hivatali érdek: a külpolitikáért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter, valamint a szakmai irányítást ellátó központi államigazgatási szerv vezetőjének feladat- és hatásköréről szóló jogszabályban megállapított feladatok végrehajtásával kapcsolatos érdek;
 
 8. hozzátartozó: a kihelyező okiratban szereplő, a kihelyezett írásbeli nyilatkozata alapján a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat helyén tartózkodó házastársa, közjegyző által vezetett Élettársi Nyilatkozatok Elektronikus Nyilvántartásába vett élettársa vagy bejegyzett élettársa (a továbbiakban együtt: házastárs), valamint kiskorú vagy középiskolai tanulmányokat folytató nagykorú gyermeke, örökbe fogadott, mostoha- és nevelt gyermeke (a továbbiakban együtt: gyermeke);
+
+8a. jövedelemszerző tevékenység: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 16. § (1) bekezdésében és 24. § (1) bekezdésében meghatározott és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti biztosítotti jogviszonyt keletkeztető tevékenység – kivéve, ha a kihelyezett házastársa csecsemőgondozási díjban vagy gyermekgondozási díjban részesül, továbbá ide nem értve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX törvény 85. § (2) bekezdése szerinti gyakorolható tevékenységet, valamint az ingatlan- vagy termőföld-bérbeadást – függetlenül a tevékenység végzésének helyétől;
 
 9. kihelyezett: kihelyező okirat alapján tartós külszolgálatot ellátó kormánytisztviselő és kormányzati ügykezelő;
 
@@ -34,7 +38,7 @@
 
 16. külképviselet által foglalkoztatott házastárs: a kihelyezett házastársa, akit a külképviselet munkaszerződéssel, magyar jog alapján foglalkoztat, és akinek elsődleges feladata a külképviselet adminisztratív-technikai feladatainak ellátásában való közreműködés;
 
-17. szakdiplomata: az a diplomata, akit központi államigazgatási szerv egy ágazati szakmai feladat külképviseleten történő ellátására, határozott időre helyez át a kihelyező szervhez;
+17. szakdiplomata: az a diplomata, akit központi államigazgatási szerv egy ágazati szakmai feladat külképviseleten történő ellátására, határozott időre helyez át, vagy a hivatásos szolgálati jogviszonyra vonatkozó szabályok szerint – kormányzati szolgálati jogviszonyban történő foglalkoztatásra – vezényel a kihelyező szervhez;
 
 18. tartós külszolgálat: a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője, kormányzati ügykezelője – ideértve az ágazati szakmai feladat, illetve e feladat támogatásának ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt és kormányzati ügykezelőt is – által a kihelyező vezető döntése alapján külképviseleten teljesített, határozott időre szóló speciális közszolgálat, amely a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek közt végzett tevékenységre irányul, és amelynek időtartama 90 napnál hosszabb;
 

@@ -1,0 +1,5 @@
+9/B. § (1) Ha a kihelyező szerv határozatlan idejű munkaviszonyban álló munkavállalója tartós külszolgálatra kerül kihelyezésre, munkaviszonya a kihelyezést megelőző napon e törvény erejénél fogva megszűnik, és a kihelyező szerv vele kormányzati szolgálati jogviszonyt létesít.
+
+(2) A tartós külszolgálat megszűnését követően a munkavállalónak – akinek jogviszonya az (1) bekezdés szerint szűnt meg, a tartós külszolgálat megszűnését követően legfeljebb 10 munkanapon belül a munkáltatói jogkör gyakorlója felé megtett írásbeli kérelmére – a kihelyező szerv a tartós külszolgálati kihelyezést megelőzően fennálló, a megszűnés időpontja szerinti állapotnak megfelelően köteles munkaviszonyát helyreállítani és változatlan feltételekkel tovább foglalkoztatni, ide nem értve a munkaköre meghatározását. A munkavállaló tartós külszolgálaton eltöltött idejét úgy kell figyelembe venni, mintha azt munkaviszonyban töltötte volna.
+
+(3) A (2) bekezdés nem alkalmazható, ha a munkavállaló időközben a társadalombiztosítási szabályok alapján az öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte.

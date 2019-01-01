@@ -2,7 +2,7 @@
 
 A külpolitikáért felelős miniszter, valamint az európai uniós ügyek koordinációjáért felelős miniszter által kezelt adatok köre
 
-1. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő házas- és élettársának
+1. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő, valamint házas- és élettársának
 
 a) családi és utóneve (születési családi és utóneve), neme;
 
@@ -20,38 +20,74 @@ g) adóazonosító jele;
 
 h) társadalombiztosítási azonosító jele;
 
-i) e-mail-címe.
+i) e-mail-címe;
+
+j) legmagasabb iskolai végzettsége (több végzettség esetén valamennyi);
+
+k) szakképzettsége;
+
+l) idegennyelv-ismerete.
 
 2. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő gyermekének esetleges magasabb összegű családi pótlékra való jogosultsága.
 
-3. A kihelyezésre kerülő, külügyi szakmai vizsga, illetve az európai uniós szakmai vizsga tételére kötelezett kormánytisztviselő és kormányzati ügykezelő
+3. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő, valamint házas- és élettársának a fogadó államban nevelési-oktatási intézménybe járó gyermeke nevelési-oktatási intézményének neve, székhelye, telefonos elérhetősége.
 
-a) családi és utóneve (születési családi és utóneve), neme
+4. A kihelyezésre kerülő, külügyi szakmai vizsga, illetve az európai uniós szakmai vizsga tételére kötelezett kormánytisztviselő és kormányzati ügykezelő
 
-b) születési helye, ideje
+a) családi és utóneve (születési családi és utóneve), neme;
 
-c) anyja születési családi és utóneve
+b) születési helye, ideje;
 
-d) lakóhelye, lakáscíme, tartózkodási helye, telefonszáma
+c) anyja születési családi és utóneve;
 
-e) e-mail-címe
+d) lakóhelye, lakáscíme, tartózkodási helye, telefonszáma;
 
-f) a munkahely megnevezése
+e) a fogadó állam szerinti lakóhelye, lakáscíme, tartózkodási helye, telefonszáma;
 
-g) munkakör
+f) e-mail-címe;
 
-h) szervezeti egység
+g) a munkahely megnevezése;
 
-i) tartós külszolgálat alatt ellátandó/betöltendő munkakör
+h) munkakör;
 
-j) legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)
+i) szervezeti egység;
 
-k) szakképzettsége
+j) tartós külszolgálat alatt ellátandó/betöltendő munkakör;
 
-l) idegennyelv-ismerete
+k) legmagasabb iskolai végzettsége (több végzettség esetén valamennyi);
 
-m) képzésre, továbbképzésre, vezetőképzésre, átképzésre vonatkozó adatai
+l) szakképzettsége;
 
-n) a kormányzati szolgálati jogviszony kezdete, a kiszámításánál figyelmen kívül hagyandó időtartamok
+m) idegennyelv-ismerete;
 
-o) állampolgársága
+n) képzésre, továbbképzésre, vezetőképzésre, átképzésre vonatkozó adatai;
+
+o) a kormányzati szolgálati jogviszony kezdete, a kiszámításánál figyelmen kívül hagyandó időtartamok;
+
+p) állampolgársága.
+
+5. A 10. § (1) bekezdés szerinti pályázat benyújtására jogosult kormánytisztviselő és kormányzati ügykezelő, valamint munkavállaló házas- és élettársának
+
+a) családi és utóneve (születési családi és utóneve), neme;
+
+b) születési helye, ideje;
+
+c) anyja születési családi és utóneve;
+
+d) állampolgársága(i);
+
+e) lakóhelye, lakáscíme, tartózkodási helye, telefonszáma;
+
+f) családi állapota;
+
+g) adóazonosító jele;
+
+h) társadalombiztosítási azonosító jele;
+
+i) e-mail címe;
+
+j) legmagasabb iskolai végzettsége (több végzettség esetén valamennyi);
+
+k) szakképzettsége;
+
+l) idegennyelv-ismerete.

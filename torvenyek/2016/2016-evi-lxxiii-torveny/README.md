@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-73-00-00
 | 2017-06-02 | 2017. évi XLV. törvény | 2016-73-00-00.4 |
 | 2017-08-01 | 2017. évi XLV. törvény | 2016-73-00-00.5 |
 | 2017-08-02 | 2010. évi CXXX. törvény | 2016-73-00-00.6 |
+| 2019-01-01 | 2018. évi LXXVII. törvény | 2016-73-00-00.7 |

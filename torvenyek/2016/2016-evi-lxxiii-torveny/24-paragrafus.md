@@ -2,7 +2,7 @@
 
 a) a külképviselet külpolitikai viszonyrendszerben elfoglalt helyétől,
 
-b) az állomáshely élhetőségétől, valamint
+b) az állomáshely élhetőségétől, biztonsági besorolásától, valamint
 
 c) a kihelyezett családi állapotától
 
@@ -38,4 +38,4 @@ megfelelő deviza-illetménypótlékra jogosult.
 
 (6) „C mínusz” kategóriába azon külképviseletek kerülnek besorolásra, amelyek háborús vagy polgárháborús helyzetben lévő államban vagy mindennapi és közvetlen terrorfenyegetés alatt működnek.
 
-(7) Ha írásbeli nyilatkozata alapján a kihelyezett házastársa is a kihelyezettel tartózkodik, és nem folytat jövedelemszerző tevékenységet, a kihelyezett illetménye 12,5%-ának megfelelő deviza-illetménypótlékra jogosult. A nyilatkozatra vonatkozó részletes szabályokat a külpolitikáért felelős miniszter rendeletben szabályozza.
+(7) Ha írásbeli nyilatkozata alapján a kihelyezett házastársa is a kihelyezettel tartózkodik, és nem folytat a 2. § 8a. pontjában meghatározott, vagy annak megfelelő jogviszony szerinti jövedelemszerző tevékenységet, a kihelyezett illetménye 12,5%-ának megfelelő deviza-illetménypótlékra jogosult. A nyilatkozatra vonatkozó részletes szabályokat a külpolitikáért felelős miniszter rendeletben szabályozza.

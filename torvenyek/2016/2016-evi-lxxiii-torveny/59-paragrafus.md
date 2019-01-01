@@ -8,6 +8,8 @@ b) a tartós külszolgálathoz kapcsolódó felkészítés, valamint
 
 c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának és nyilvántartásának, valamint a költségvetési támogatásoknak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 
+d) az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatok ellátásának
+
 részletes szabályait rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy

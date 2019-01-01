@@ -22,6 +22,6 @@ illeti meg.
 
 (7) A kihelyezett a külszolgálata időtartama alatti rendkívüli munkavégzés ellentételezéseként ki nem adott szabadidő megváltására a tartós külszolgálatának időtartama alatt besorolás szerinti illetménye alapulvételével megállapított mértékben, a külszolgálat befejezését követően jogosult.
 
-(8) Nem minősül rendkívüli munkavégzésnek, ha a kihelyezett fogadásokon, rendezvényeken, konferenciákon, kulturális eseményeken vesz részt.
+(8) Nem minősül rendkívüli munkavégzésnek, ha a kihelyezett fogadásokon, rendezvényeken, konferenciákon, kulturális eseményeken vesz részt, illetve biztonsági szolgálatot lát el.
 
 (9) A kihelyezett fizetés nélküli szabadságra vonatkozó igényét a kihelyező vezető bírálja el. A kihelyezettet a fizetés nélküli szabadság idejére díjazás nem illeti meg.
