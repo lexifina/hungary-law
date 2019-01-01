@@ -16,12 +16,9 @@ d) az a)–c) pontban nem említett esetben – a szolgáltatások jellege és a
 
 hivatalból ellenőrzi, hogy az engedélyes a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően működik-e (a továbbiakban: rendes ellenőrzés).
 
-(2) A működést engedélyező szerv – az (1) bekezdésben foglaltakon túl – ellenőrzést tart a 23. § (1) bekezdés a) pontja szerinti bejelentést követő harminc napon belül, ha
-
-a) tudomására jut, hogy az engedélyes személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét, egészségét vagy az ellátott gyermekek fejlődését veszélyezteti vagy más jogát sérti,vagy
-
-b) az engedélyes működésére vonatkozó jogszabályokat vagy a szolgáltatói nyilvántartásban foglaltakat megsértették.
+(2)[^90] A működést engedélyező szerv – az (1) bekezdésben foglaltakon túl – ellenőrzést tart, ha tudomására jut, hogy az engedélyes személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét, egészségét vagy az ellátott gyermekek fejlődését veszélyezteti, vagy más jogát sérti, vagy az engedélyes működésére vonatkozó jogszabályokat vagy a szolgáltatói nyilvántartásban foglaltakat megsértették.
 
 (3) A működést engedélyező szerv jogszabályban foglaltak szerint éves ellenőrzési tervet készít, amelyet elektronikus levélben megküld a Főigazgatóságnak, a bölcsődei módszertani szervezetnek, az igazgatóságoknak, a miniszternek, az érintett kijelölt egyházi módszertani intézménynek és a népegészségügyi feladatkörükben eljáró járási hivataloknak.
 
 [^89]: A 36. § a 457/2017. (XII. 28.) Korm. rendelet 455. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^90]: A 36. § (2) bekezdése a 305/2018. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.

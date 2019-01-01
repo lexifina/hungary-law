@@ -24,13 +24,15 @@ gb) a hajléktalan személyek nappali ellátását nyújtó szolgáltató szám�
 
 h)[^4] külső férőhely:
 
-ha) hajléktalan személyek átmeneti szállása esetén,
+ha) hajléktalan személyek nappali ellátása esetén,
 
-hb) rehabilitációs szociális intézményi ellátás esetén az utógondozás ideje alatt,
+hb) hajléktalan személyek átmeneti szállása esetén,
 
-hc) családok átmeneti otthona esetén vagy
+hc) rehabilitációs szociális intézményi ellátás esetén az utógondozás ideje alatt,
 
-hd) utógondozói ellátás esetén
+hd) családok átmeneti otthona esetén vagy
+
+he) utógondozói ellátás esetén
 
 a szolgáltató által, de a szolgáltató épületén kívül biztosított lakhatási forma;
 
@@ -53,7 +55,7 @@ n)[^8] ideiglenes befogadó férőhely: a jogszabályban meghatározott feltéte
 [^1]: Az 1. § a) pontja a 381/2017. (XII. 11.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 353/2014. (XII. 29.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § e) pontja a 419/2015. (XII. 23.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § h) pontja a 381/2017. (XII. 11.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^4]: Az 1. § h) pontja a 305/2018. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^5]: Az 1. § l) pontja a 353/2014. (XII. 29.) Korm. rendelet 66. §-ával megállapított szöveg.
 [^6]: Az 1. § l) pont la) alpontja a 284/2015. (IX. 29.) Korm. rendelet 17. § a) pontja, a 419/2015. (XII. 23.) Korm. rendelet 40. § b) pontja, a 191/2016. (VII. 13.) Korm. rendelet 19. § a) pontja, a 381/2017. (XII. 11.) Korm. rendelet 19. § b) pontja, a 226/2018. (XII. 4.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § l) pont lb) alpontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés a) pontja szerint módosított szöveg.
