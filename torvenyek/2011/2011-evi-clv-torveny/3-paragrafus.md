@@ -10,7 +10,7 @@ a) gyakorlati képzés:
 
 3. az Nftv.-ben meghatározott duális képzés keretében folytatott gyakorlati képzés;
 
-b) szociális hozzájárulási adóalap: Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 455. § (2) bekezdés a)–c) és h) pontjában meghatározott adófizetési kötelezettséget eredményező jogviszony alapján, a (3) bekezdésben foglaltakra is figyelemmel, a 455. § (1) bekezdés a)–b) és e) pontjában meghatározott adóalap, valamint a 457. § (1) bekezdésében meghatározott adóalap. A 457. § (1) bekezdés alkalmazása során e törvény szempontjából figyelmen kívül kell hagyni azon jogi személyt, aki a 2. § (5) bekezdése szerint szakképzési hozzájárulásra nem kötelezett.;
+b)
 
 c) egészségügyi közszolgáltatás: az Eü. tv. 3. § e) pontjában meghatározott, részben vagy egészben az államháztartás terhére támogatott szolgáltató tevékenység;
 

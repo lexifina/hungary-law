@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-155-00-00
 | 2017-07-01 | 2017. évi LXXXIX. törvény | 2011-155-00-00.19 |
 | 2018-01-01 | 2017. évi CXCII. törvény | 2011-155-00-00.20 |
 | 2018-07-26 | 2018. évi XL. törvény | 2011-155-00-00.21 |
+| 2019-01-01 | 2018. évi LXXXII. törvény | 2011-155-00-00.22 |
