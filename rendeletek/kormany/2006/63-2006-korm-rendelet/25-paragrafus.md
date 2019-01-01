@@ -1,54 +1,67 @@
 ## Ápolási díj
 
-25. §[^127] (1) Az ápolási díj megállapítása iránti kérelmet a 4. számú melléklet szerinti formanyomtatványon kell benyújtani. A kérelemhez – az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével – mellékelni kell
+25. §[^131] (1)[^132] Az ápolási díj megállapítása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza
 
-a) a háziorvos 5. számú melléklet szerinti
+a) az Szt. 18/A. § a)–c) és h) pontja szerinti adatokat,
 
-aa) igazolását arról, hogy az ápolt súlyosan fogyatékos vagy tartósan beteg,
+b) az ápolást végző személy és az ápolt személy közti rokoni kapcsolatra vonatkozó adatot,
 
-ab) szakvéleményét arra vonatkozóan, hogy az ápolt állandó és tartós gondozásra szorul,
+c) arra vonatkozó nyilatkozatot, hogy az ápolási díj megállapítását milyen jogcímen és milyen feltételek fennállására figyelemmel igénylik,
 
-b)[^128] az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén az intézmény vezetőjének a 6. számú melléklet szerinti igazolását
+d) nyilatkozatot az önkiszolgáló képesség megállapítására irányuló vizsgálat elvégzése szükségességének tudomásulvételéről, a keresőtevékenység folytatásáról, a kérelmező tanulói vagy hallgatói jogviszonyának fennállásáról,
 
-c)[^129]
+e) nyilatkozatot arról, hogy a kérelmező részesül-e más rendszeres pénzellátásban, és hogy ilyen ellátás részére történő megállapítása iránti eljárás van-e folyamatban,
 
-(2) A háziorvos az (1) bekezdés a) pont aa) alpontjában foglalt igazolást
+f) nyilatkozatot arról, hogy az ápolási tevékenységet a saját vagy az ápolt személy lakcímén végzi-e,
 
-a)[^130] a rehabilitációs hatóság súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalása vagy szakvéleménye, illetve a fogyatékossági támogatással összefüggő feladatkörében eljáró hatóság határozata
+g) az ápolt személy köznevelési intézményben, illetve bentlakásos szociális vagy gyermekvédelmi intézményi elhelyezésével kapcsolatos adatot,
 
-b) a szakmailag illetékes szakfelügyelő főorvos igazolása, vagy
+h) nyilatkozatot arról, hogy gyermekek otthongondozási díjára való jogosultsága az ápolt személyre tekintettel sem a kérelmezőnek, sem hozzátartozójának nem áll fenn,
 
-c) a fekvőbeteg-szakellátást nyújtó intézmény vagy területileg illetékes szakrendelő intézet szakorvosa által kiadott zárójelentés, igazolás
+i) arra vonatkozó adatot, hogy az ápolt személy a rehabilitációs hatóság érvényes és hatályos, az ápolt személy tekintetében elvégzett komplex minősítés eredményéről kiállított szakvéleményével, szakhatósági állásfoglalásával, bizottsági állásfoglalásával, határozatával vagy hatósági bizonyítványával rendelkezik-e,
+
+j) az ápolt személy, illetve törvényes képviselője nyilatkozatát annak egyetértő tudomásulvételéről, hogy az ápolást végző személy az ápolási díjra való jogosultság megállapítása iránt kérelmet nyújtott be.
+
+(1a)[^133] A kérelemhez mellékelni kell
+
+a) az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével a háziorvosnak a 20. § (5) bekezdésében meghatározott adattartalommal rendelkező igazolását arról, hogy az ápolt személy súlyosan fogyatékos vagy tartósan beteg,
+
+b) az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén az intézmény vezetőjének a 20. § (7) bekezdésében meghatározott adattartalommal rendelkező igazolását.
+
+(2)[^134] A háziorvos az (1a) bekezdés a) pontjában foglalt igazolást
+
+a) a rehabilitációs hatóság súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalása vagy szakvéleménye, illetve a fogyatékossági támogatással összefüggő feladatkörében eljáró hatóság határozata,
+
+b) a szakmailag illetékes szakfelügyelő főorvos igazolása,
+
+c) a fekvőbeteg-szakellátást nyújtó intézmény vagy területileg illetékes szakrendelő intézet szakorvosa által kiadott zárójelentés, igazolás, vagy
+
+d) a sajátos nevelési igény tényét megállapító, pedagógiai szakszolgálatként működő tanulási képességet vizsgáló szakértői és rehabilitációs bizottság, illetve az országos szakértői és rehabilitációs tevékenységet végző bizottság szakértői véleménye
 
 ## alapján állítja ki.
 
-(3)[^131] A háziorvos az ápolt súlyosan fogyatékos állapotáról szóló igazolást a pedagógiai szakszolgálat szakvéleménye alapján is kiállíthatja.
+(3)[^135] Nem kell csatolni a kérelemhez a háziorvos (1a) bekezdés a) pontja szerinti igazolását, ha az ápolt személynek
 
-(4)[^132] Az ápolási díjat megállapító szerv
+a) fogyatékossági támogatásra vagy
 
-a) az (1) bekezdés a) pont aa) alpontja szerinti igazolás felülvizsgálatát az ápolási díjat megállapító szerv által népegészségügyi feladatkörben kijelölt, az ápolást indokoló diagnózis szerinti szakorvostól vagy szervtől,
+b) vakok személyi járadékára
 
-b) az (1) bekezdés a) pont ab) alpontja szerinti szakvélemény felülvizsgálatát a szociális feladatkörében eljáró fővárosi és megyei kormányhivatal által kijelölt, a (4b) bekezdésben foglalt feltételeknek megfelelő szakértőtől
+## való jogosultsága áll fenn.
 
-## kérheti.
+(4)[^136]
 
-(4a)[^133] Másodfokú hatósági eljárásban
+(4a)[^137]
 
-a) az (1) bekezdés a) pont aa) alpontja szerinti igazolás felülvizsgálatát a fővárosi és megyei kormányhivatal által népegészségügyi feladatkörben kijelölt, az ápolást indokoló diagnózis szerinti szakorvos vagy szerv,
+(4b)[^138]
 
-b) az (1) bekezdés a) pont ab) alpontja szerinti szakvélemény felülvizsgálatát a (4b) bekezdésben foglalt feltételeknek megfelelő szakértő
+(5)[^139] Ha a kérelmet az ápolt személy, illetve törvényes képviselője nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
 
-## végzi.
-
-(4b)[^134] Az (1) bekezdés a) pont ab) alpontja szerinti szakvélemény felülvizsgálatának elvégzésére felsőfokú egészségügyi végzettségű, az egészségügyi ágazatban vagy személyes gondoskodást nyújtó szociális intézményi ellátáshoz kapcsolódóan legalább öt év szakmai tapasztalattal rendelkező személy jelölhető ki.
-
-(5) Ha a kérelmet az ápolt személy nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
-
-[^127]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^128]: A 25. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 74. § (9) bekezdés a) pontja szerint módosított szöveg.
-[^129]: A 25. § (1) bekezdés c) pontját a 24/2015. (II. 20.) Korm. rendelet 28. § i) pontja hatályon kívül helyezte.
-[^130]: A 25. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (6) bekezdésével megállapított szöveg.
-[^131]: A 25. § (3) bekezdése a 116/2016. (VI. 6.) Korm. rendelet 24. § g) pontja szerint módosított szöveg.
-[^132]: A 25. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^133]: A 25. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be.
-[^134]: A 25. § (4b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be.
+[^131]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^132]: A 25. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^133]: A 25. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^134]: A 25. § (2) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^135]: A 25. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^136]: A 25. § (4) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
+[^137]: A 25. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja.
+[^138]: A 25. § (4b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja.
+[^139]: A 25. § (5) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 21. § j) pontja szerint módosított szöveg.

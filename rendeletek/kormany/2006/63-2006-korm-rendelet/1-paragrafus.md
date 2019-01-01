@@ -12,9 +12,9 @@ c) az igényelt szociális ellátás jogosultsági feltételeire vonatkozó adat
 
 (2)[^3] Ha az ellátást hajléktalan személy igényli, a kérelmében nyilatkoznia kell arról, hogy az ellátás folyósítását milyen címre (fizetési számlára) kéri.
 
-(3)[^4]
+(3)[^4] A járási hivatal hatáskörébe tartozó szociális rászorultságtól függő pénzbeli vagy természetbeni szociális ellátás iránti kérelmet a szociál- és nyugdíjpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon (a továbbiakban: kérelemnyomtatvány) kell benyújtani. A kérelemnyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
 
 [^1]: Az 1. § (1) bekezdése a 392/2013. (XI. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pontja a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés a) pont aa) alpontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 168. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: Az 1. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 168. § a) pontja hatályon kívül helyezte, újonnan a 303/2018. (XII. 27.) Korm. rendelet 5. §-a iktatta be.

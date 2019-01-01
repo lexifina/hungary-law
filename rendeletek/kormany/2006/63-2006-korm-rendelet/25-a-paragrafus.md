@@ -1,6 +1,6 @@
-25/A. §[^135] (1) Ha az ápolási díj megállapítását kiemelt ápolást igénylő személy gondozására tekintettel kérik, az ápolási díj iránti kérelemhez csatolni kell
+25/A. §[^140] (1) Ha az ápolási díj megállapítását kiemelt ápolást igénylő személy gondozására tekintettel kérik, az ápolási díj iránti kérelemhez csatolni kell
 
-a) az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén a 25. § (1) bekezdés b) pontja szerinti igazolást, és
+a)[^141] az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén a 25. § (1a) bekezdés b) pontja szerinti igazolást, és
 
 b) az Szt. 43. § b) pontja szerinti esetben a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló szakorvosi igazolást.
 
@@ -22,4 +22,5 @@ c) más személyes segítsége nélkül nem képes az étkezéssel, a tisztálko
 
 (7) Ha az ügyfél a kérelmében a kiemelt ápolási díjra való jogosultság megállapítását nem kéri, a hatóságnak a kiemelt ápolási díjra való jogosultság kérdésében bizonyítást nem kell lefolytatnia.
 
-[^135]: A 25/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 165. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^140]: A 25/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 165. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^141]: A 25/A. § (1) bekezdés a) pontja a 303/2018. (XII. 27.) Korm. rendelet 21. § k) pontja szerint módosított szöveg.

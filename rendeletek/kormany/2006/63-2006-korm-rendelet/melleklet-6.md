@@ -1,23 +1,3 @@
-## □ fogyatékossága/betegsége miatt állandó és tartós gondozásra szorul;
+6. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^253]
 
-## A gondozás várható időtartama:
-
-## □ 3 hónapnál hosszabb, vagy
-
-## □ 3 hónapnál rövidebb.
-
-## □ fogyatékossága/betegsége miatt nem szorul állandó és tartós gondozásra.
-
-## Dátum: ................................................
-
-## ................................................
-
-## háziorvos aláírása
-
-## ................................................
-
-## munkahelyének címe
-
-6. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^238]
-
-[^238]: A 6. számú melléklet a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^253]: A 6. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-13. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^246]
+13. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^261]
 
-[^246]: A 13. számú melléklet e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^261]: A 13. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.

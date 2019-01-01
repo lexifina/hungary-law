@@ -1,8 +1,7 @@
-29. § (1)[^139] Másodfokú hatósági eljárásban a fokozott ápolást igénylő súlyosan fogyatékos állapot fennállására vonatkozó vizsgálat megállapításait a 8. számú melléklet szerint kell elkészíteni.
+29. §[^151] (1) Másodfokú hatósági eljárásban a 25. § (1a) bekezdés a) pontja szerinti igazolás felülvizsgálatát a fővárosi és megyei kormányhivatal által népegészségügyi feladatkörben kijelölt, az ápolást indokoló diagnózis szerinti szakorvos vagy szerv végzi.
 
-(2) Az (1) bekezdés szerinti szakvélemény elkészítésére felsőfokú egészségügyi vagy szociális végzettségű, a fogyatékos személyek szociális ellátásában dolgozó, vagy a fogyatékos személyek szociális ellátása témakörben szakvizsgával rendelkező személy kérhető fel.
+(2) Másodfokú hatósági eljárásban a 25/B. § szerinti állapot fennállására vonatkozó vizsgálat megállapításait a 26. § (5) bekezdésében meghatározott adattartalomnak megfelelően, az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján kell elkészíteni.
 
-(3)[^140]
+(3) A (2) bekezdés szerinti szakmai vélemény elkészítésére felsőfokú egészségügyi vagy szociális végzettségű, a fogyatékos személyek szociális ellátásában dolgozó, vagy a fogyatékos személyek szociális ellátása témakörben szakvizsgával rendelkező személy kérhető fel.
 
-[^139]: A 29. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 165. § (8) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^140]: A 29. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^151]: A 29. § a 303/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
