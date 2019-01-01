@@ -1,1 +1,3 @@
-49. §
+49. § A Kbt. 142. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az ajánlatkérő köteles a Közbeszerzési Hatóságnak bejelenteni, ha a nyertes ajánlattevőként szerződő fél szerződéses kötelezettségét súlyosan megszegte és ez a szerződés felmondásához vagy elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb jogkövetkezmény érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta. A bejelentésnek tartalmaznia kell a szerződésszegés leírását, az annak alapján alkalmazott jogkövetkezményt, valamint azon dokumentumokat, amelyek alapján megállapítható, hogy a nyertes ajánlattevőként szerződő fél a szerződésszegést nem vitatta, vagy, hogy sor került-e a szerződésszegés vonatkozásában perindításra. Perindítás esetén az ajánlatkérő köteles a Közbeszerzési Hatóságnak megküldeni a pert lezáró jogerős határozatot.”
