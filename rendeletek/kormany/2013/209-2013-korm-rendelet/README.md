@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-209-20-
 | 2016-01-01 | 2013-209-20-22.12 | 467/2015. (XII. 29.) Korm. rendelet |
 | 2016-01-23 | 2013-209-20-22.13 | 422/2015. (XII. 23.) Korm. rendelet |
 | 2017-01-01 | 2013-209-20-22.14 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2019-01-01 | 2013-209-20-22.15 | 204/2018. (XI. 8.) Korm. rendelet |
