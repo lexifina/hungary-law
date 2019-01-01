@@ -8,7 +8,7 @@
 
 (4) A vállalkozói szerződés alapján elért bevétele után ekhót fizető egyéni vállalkozó magánszemély az Szja tv. költségelszámolásra vonatkozó rendelkezéseit azzal az eltéréssel alkalmazhatja, hogy az adóévben felmerült vállalkozói költségeit (az értékcsökkenési leírást is ideértve) olyan arányban számolhatja el, amilyen arányt a vállalkozói bevétele és a jogszerűen figyelembe vett ekhóalap adóévi együttes összegében a vállalkozói bevétel képvisel.
 
-(5) A (3) bekezdés rendelkezésétől függetlenül a magánszemély jogszerűen ekhóalapként figyelembe vett bevétele egészét az Szja tv. 3. §-ának 75. pontja szerinti éves összes jövedelme megállapításánál beszámítja.
+(5)
 
 (6) A kifizető az ekhóalapjaként figyelembe vett kifizetésről, a levont, megfizetett ekhóról a magánszemély részére a kifizetéssel egyidejűleg igazolást ad. Az 5. § (3) bekezdése szerinti nyilatkozat esetén a kifizető az adóévet követő január 31-ig a magánszemély adóazonosító jelének feltüntetésével adatot szolgáltat az adóhatósághoz a magánszemély részére az adóévben juttatott ekhoalapot képező bevételről.
 

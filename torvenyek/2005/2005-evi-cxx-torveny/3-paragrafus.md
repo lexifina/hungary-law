@@ -184,7 +184,7 @@ c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül –
 
 d) az a)–b) pontban említett összeghatár helyett
 
-da) évi 250 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
+da) évi 500 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
 
 db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya)
 
