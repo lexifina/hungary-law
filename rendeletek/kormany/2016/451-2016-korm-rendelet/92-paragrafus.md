@@ -1,5 +1,3 @@
-## 91. §[^55] Egyéni ügyvéd, európai közösségi jogász, kamarai jogtanácsos, valamint szabadalmi ügyvivő e tevékenysége során cégkaput is használhat. Ebben az esetben a gazdálkodó szervezet alatt az egyéni ügyvédet, az európai közösségi jogászt, a kamarai jogtanácsost, valamint a szabadalmi ügyvivőt kell érteni, aki a regisztrációnál a saját nevében jár el.
-
 ## 25. Az egyes központi elektronikus ügyintézési szolgáltatásokra vonatkozó rendelkezések
 
 ## Az ügyfél ügyintézési rendelkezésének nyilvántartása
@@ -24,5 +22,4 @@ g) képviseletre vonatkozó jognyilatkozatok.
 
 (3) A rendelkezési nyilvántartás szolgáltatója biztosítja, hogy az ügyfél az ügyintézési rendelkezések nyilvántartásában rögzítse a 24. §-ban meghatározott követelményeknek megfelelő titkosítási célú nyilvános kulcsot.
 
-[^55]: A 91. § a 393/2017. (XII. 13.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
 [^56]: A 92. § (1) bekezdés d) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § k) pontja szerint módosított szöveg.
