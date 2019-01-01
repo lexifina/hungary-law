@@ -6,6 +6,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 2. Ausztrália
 
+2a. Belize
+
 3. Bermuda
 
 4. Brazília
@@ -20,6 +22,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 8. Dél-afrikai Köztársaság
 
+8a. Egyesült Arab Emírségek
+
 9. Gabon
 
 10. Georgia
@@ -27,6 +31,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 11. Guernsey
 
 11a. Haiti
+
+11b. Hongkong
 
 12. India
 
@@ -44,7 +50,11 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 18. Kanada
 
-18a. Kolumbia
+18a. Katar
+
+18b. Kazahsztán
+
+18c. Kolumbia
 
 19. Korea
 
@@ -59,6 +69,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 24. Mauritius
 
 25. Mexikó
+
+25a. Monaco
 
 26. Nigéria
 
