@@ -1580,19 +1580,11 @@
 
 | 112 |  | 098021 | Pedagógiai szakszolgáltató tevékenység szakmai feladatai |
 
-| 113 |  |  | Ide tartozik: - a pedagógiai szakszolgálat által ellátott, a nemzeti köznevelésről szóló törvény szerinti szakértői bizottsági tevékenység, a nevelési tanácsadás, a logopédiai ellátás, a továbbtanulási, pályaválasztási tanácsadás, a konduktív pedagógiai ellátás, a gyógytestnevelés, az iskolapszichológiai, óvodapszichológiai ellátás, a kiemelten tehetséges gyermekek, tanulók gondozásával kapcsolatos szakmai feladatainak ellátása Nem ebbe a funkcióba tartozik: - korai fejlesztés és fejlesztő nevelés tevékenység szakmai feladatai (098023). |
+| 113 |  |  | Ide tartozik: – a pedagógiai szakszolgálat a nemzeti köznevelésről szóló törvény szerinti tevékenységével kapcsolatos szakmai feladatok ellátása. |
 
 | 114 |  | 098022 | Pedagógiai szakszolgáltató tevékenység működtetési feladatai |
 
-| 115 |  |  | Ide tartozik: - a pedagógiai szakszolgálat által ellátott, a nemzeti köznevelésről szóló törvény szerinti szakértői bizottsági tevékenység, a nevelési tanácsadás, a logopédiai ellátás, a továbbtanulási, pályaválasztási tanácsadás, a konduktív pedagógiai ellátás, a gyógytestnevelés, az iskolapszichológiai, óvodapszichológiai ellátás, a kiemelten tehetséges gyermekek, tanulók gondozásával kapcsolatos működtetési feladatainak ellátása. Nem ebbe a funkcióba tartozik: - korai fejlesztés és fejlesztő nevelés tevékenység működtetési feladatai (098024). |
-
-| 115a |  | 098023 Korai fejlesztés és fejlesztő nevelés tevékenység szakmai feladatai |
-
-| 115b |  |  | Ide tartozik: - a gyógypedagógiai tanácsadás, korai fejlesztés, oktatás, gondozás és a fejlesztő nevelés szakmai feladatainak ellátása. |
-
-| 115c |  | 098024 Korai fejlesztés és fejlesztő nevelés tevékenység működtetési feladatai |
-
-| 115d |  |  | Ide tartozik: - a gyógypedagógiai tanácsadás, korai fejlesztés, oktatás, gondozás és a fejlesztő nevelés működtetési feladatainak ellátása. |
+| 115 |  |  | Ide tartozik: – a pedagógiai szakszolgálat a nemzeti köznevelésről szóló törvény szerinti tevékenységével kapcsolatos szakmai feladatok ellátása. |
 
 | 116 |  | 098031 | Pedagógiai szakmai szolgáltatások szakmai feladatai |
 
@@ -1605,6 +1597,22 @@
 | 120 |  | 098040 | Nemzetközi oktatási együttműködés |
 
 | 121 |  |  | Ide tartozik: - a külföldi oktatási intézményeknek, magyar oktatóknak, diákoknak, hallgatóknak, intézményeknek, illetve a Magyarországon dolgozó külföldi oktatóknak, az itt tanuló diákoknak, hallgatóknak, intézményeknek nyújtott támogatásokkal, a nemzetközi pályázatok alapján végzett tevékenységekkel összefüggő feladatok ellátása, kifizetések teljesítése. |
+
+| 122 |  |  | 098051 Utazó gyógypedagógusi, utazó konduktori tevékenység szakmai feladatai |
+
+| 123 |  |  | Ide tartozik: – a sajátos nevelési igényű, óvodai nevelésben, iskolai nevelésben-oktatásban részt vevő gyermek, tanuló utazó gyógypedagógusi, utazó konduktori hálózat útján történő ellátásával kapcsolatos szakmai feladatok ellátása. |
+
+| 124 |  |  | 098052 Utazó gyógypedagógusi, utazó konduktori tevékenység működtetési feladatai |
+
+| 125 |  |  | Ide tartozik: – a sajátos nevelési igényű, óvodai nevelésben, iskolai nevelésben-oktatásban részt vevő gyermek, tanuló utazó gyógypedagógusi, utazó konduktori hálózat útján történő ellátásával kapcsolatos működtetési feladatok ellátása. |
+
+| 126 |  |  | 098061 Fejlesztő nevelés-oktatás szakmai feladatai |
+
+| 127 |  |  | Ide tartozik: – a súlyos és halmozottan fogyatékos tanuló fejlesztő nevelésével-oktatásával kapcsolatos szakmai feladatok ellátása. |
+
+| 128 |  |  | 098062 Fejlesztő nevelés-oktatás működtetési feladatai |
+
+| 129 |  |  | Ide tartozik: – a súlyos és halmozottan fogyatékos tanuló fejlesztő nevelésével-oktatásával kapcsolatos működtetési feladatok ellátása. |
 
 ## 10. Szociális védelem
 
@@ -1902,9 +1910,13 @@
 
 | 116 |  |  | Ide tartozik: - a szociális foglalkoztatók önálló intézményeiben történő szociális foglalkoztatással, továbbá a fejlesztő foglalkoztatással összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
-| 117 |  | 107051 | Szociális étkeztetés |
+| 116a |  |  | 107050 Szociális étkeztetés népkonyhán |
 
-| 118 |  |  | Ide tartozik: - a koruk, egészségi állapotuk, fogyatékosságuk, pszichiátriai vagy szenvedélybetegségük, hajléktalanságuk miatt önmaguk, illetve eltartottjaik részére tartósan vagy átmeneti jelleggel étkezés biztosítására nem képes személyeknek nyújtott legalább napi egyszeri meleg étkezésével összefüggő feladatok ellátása, kifizetések teljesítése. Az e funkcióba sorolt alaptevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét a 889921 szakfeladaton el kell számolni. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+| 116b |  |  | Ide tartozik: – a más étkeztetési formát igénybe nem vevő, szociálisan rászoruló személyek számára népkonyha keretében alkalmi jelleggel és helyben fogyasztással nyújtott legalább napi egyszeri egy tál meleg étel biztosításával összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
+
+| 117 |  |  | 107051 Szociális étkeztetés szociális konyhán |
+
+| 118 |  |  | Ide tartozik: – a koruk, egészségi állapotuk, fogyatékosságuk, pszichiátriai vagy szenvedélybetegségük, hajléktalanságuk miatt önmaguk, illetve eltartottjaik részére tartósan vagy átmeneti jelleggel étkezés biztosítására nem képes személyeknek szociális konyha keretében – önálló konyhán, főzőhelyen, egyéb intézményi étkezőhelyen, utalvány ellenében vendéglátóipari egységben vagy egyéb intézményben történő fogyasztás biztosításával, a helyben fogyasztás hiányában az étel elvitelének lehetővé tételével, vagy lakásra szállítással – nyújtott legalább napi egyszeri meleg étkezéssel összefüggő feladatok ellátása, kifizetések teljesítése. Feladatmutató: ellátottak száma a tárgyévben (fő) |
 
 | 119 |  | 107052 | Házi segítségnyújtás |
 
@@ -2004,6 +2016,6 @@
 
 | 19 |  |  | Ide tartozik: - a vállalkozási tevékenységek kiadásainak és bevételeinek összesített elszámolása. Technikai- pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Az e funkcióban elszámolt tevékenységek pénzügyi számvitel szerinti önköltségét és eredményszemléletű bevételét az egyes tevékenységek szakfeladatrendi besorolása szerint a megfelelő szakfeladatokon el kell számolni. |
 
-3. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^18]
+3. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^19]
 
-[^18]: A 3. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § c) pontja, a 44/2015. (XII. 30.) NGM rendelet 2. § 3. pontja szerint módosított szöveg.
+[^19]: A 3. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § c) pontja, a 44/2015. (XII. 30.) NGM rendelet 2. § 3. pontja szerint módosított szöveg.

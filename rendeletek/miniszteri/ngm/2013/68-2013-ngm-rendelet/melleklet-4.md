@@ -862,7 +862,7 @@
 
 ## 999000 Szakfeladatra el nem számolt tételek
 
-4. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^19]
+4. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^20]
 
 Tartalmi meghatározások az államháztartási szakfeladatokhoz
 
@@ -1176,4 +1176,4 @@ Tartalmi meghatározások az államháztartási szakfeladatokhoz
 
 8. Szakmai, tudományos, műszaki tevékenység
 
-[^19]: A 4. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § d) pontja, a 44/2015. (XII. 30.) NGM rendelet 2. § 4. pontja szerint módosított szöveg.
+[^20]: A 4. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § d) pontja, a 44/2015. (XII. 30.) NGM rendelet 2. § 4. pontja szerint módosított szöveg.

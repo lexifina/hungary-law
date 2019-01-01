@@ -882,15 +882,19 @@
 
 ## 098022 Pedagógiai szakszolgáltató tevékenység működtetési feladatai
 
-## 098023 Korai fejlesztés és fejlesztő nevelés tevékenység szakmai feladatai
-
-## 098024 Korai fejlesztés és fejlesztő nevelés tevékenység működtetési feladatai
-
 ## 098031 Pedagógiai szakmai szolgáltatások szakmai feladatai
 
 ## 098032 Pedagógiai szakmai szolgáltatások működtetési feladatai
 
 ## 098040 Nemzetközi oktatási együttműködés
+
+## 098051 Utazó gyógypedagógusi, utazó konduktori tevékenység szakmai feladatai
+
+## 098052 Utazó gyógypedagógusi, utazó konduktori tevékenység működtetési feladatai
+
+## 098061 Fejlesztő nevelés-oktatás szakmai feladatai
+
+## 098062 Fejlesztő nevelés-oktatás működtetési feladatai
 
 ## 10. Szociális védelem
 
@@ -1038,8 +1042,6 @@
 
 ## 107013 Hajléktalanok átmeneti ellátása
 
-## 107014
-
 ## 107015 Hajléktalanok nappali ellátása
 
 ## 107016 Utcai szociális munka
@@ -1048,13 +1050,13 @@
 
 ## 107030 Szociális foglalkoztatás, fejlesztő foglalkoztatás
 
-## 107051 Szociális étkeztetés
+## 107050 Szociális étkeztetés népkonyhán
+
+## 107051 Szociális étkeztetés szociális konyhán
 
 ## 107052 Házi segítségnyújtás
 
 ## 107053 Jelzőrendszeres házi segítségnyújtás
-
-## 107054
 
 ## 107055 Falugondnoki, tanyagondnoki szolgáltatás
 
@@ -1100,6 +1102,6 @@
 
 ## 900090 Vállalkozási tevékenységek kiadásai és bevételei
 
-2. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^17]
+2. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^18]
 
-[^17]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja, a 9/2015. (III. 31.) NGM rendelet 55. §-a, a 44/2015. (XII. 30.) NGM rendelet 2. § 2. pontja, 3. § 8–16. pontja, 4. § (1) bekezdés 4–5. pontja és 4. § (2) bekezdés 3–5. pontja, a 11/2017. (VI. 28.) NGM rendelet 1. § 1–2. pontja és 2. § 2–4. pontja, a 43/2017. (XII. 20.) NGM rendelet 3. § 2. pontja szerint módosított szöveg.
+[^18]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja, a 9/2015. (III. 31.) NGM rendelet 55. §-a, a 44/2015. (XII. 30.) NGM rendelet 2. § 2. pontja, 3. § 8–16. pontja, 4. § (1) bekezdés 4–5. pontja és 4. § (2) bekezdés 3–5. pontja, a 11/2017. (VI. 28.) NGM rendelet 1. § 1–2. pontja és 2. § 2–4. pontja, a 43/2017. (XII. 20.) NGM rendelet 3. § 2. pontja, a 10/2018. (X. 29.) PM rendelet 1. § b) pontja, 2. §-a szerint módosított szöveg.
