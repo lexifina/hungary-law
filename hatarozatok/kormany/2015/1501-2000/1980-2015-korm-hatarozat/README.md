@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1980-30
 | 2016-07-04 | 2015-1980-30-22.5 | 1301/2016. (VI. 13.) Korm. határozat |
 | 2016-08-17 | 2015-1980-30-22.6 | 1301/2016. (VI. 13.) Korm. határozat |
 | 2017-05-05 | 2015-1980-30-22.7 | 1301/2016. (VI. 13.) Korm. határozat |
+| 2019-01-01 | 2015-1980-30-22.8 | 2011: CXCV. törvény |
