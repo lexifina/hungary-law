@@ -1,8 +1,10 @@
+## 30/A. § A honvédelmi miniszter által alapított Szolgálati Jelek, a Sebesülési Emlékérem, a Honvédségért Emlékplakett, a Honvédségért Emléklap, illetve Honvédségért Oklevél vonatkozásában, a honvédelmi miniszter az adományozási jogát a Magyar Honvédség parancsnoka útján gyakorolja.
+
 ## 26. A díjakra vonatkozó különös szabályok
 
 31. § (1) A díjak odaítélésére személyi javaslatot tehetnek
 
-a) a Honvédelmi Minisztérium állami vezetői, a Honvéd Vezérkar főnöke, a főosztályvezetők, csoportfőnökök, a Honvédség vezénylő zászlós,
+a)[^30] a Honvédelmi Minisztérium állami vezetői, a Magyar Honvédség parancsnoka, a főosztályvezetők, csoportfőnökök, a Honvédség vezénylő zászlós,
 
 b) a Honvédség középszintű vezető szervének parancsnoka,
 
@@ -24,9 +26,10 @@ d) hozzájárult a Honvédség társadalmi elismertségének javításához, a h
 
 e) tevékenységével jelentősen hozzájárult Magyarország nemzetbiztonságának védelméhez.
 
-(3)[^14] A díjak odaítélésére vonatkozó személyi javaslatokat a díjakra jogosító tevékenység részletes leírásával évenként, legkésőbb október 30-ig kell megküldeni az azokat véleményező Honvédelmi Minisztérium Díjadományozást Véleményező Munkacsoport (a továbbiakban: HM DVMCS) részére.
+(3)[^31] A díjak odaítélésére vonatkozó személyi javaslatokat a díjakra jogosító tevékenység részletes leírásával évenként, legkésőbb október 30-ig kell megküldeni az azokat véleményező Honvédelmi Minisztérium Díjadományozást Véleményező Munkacsoport (a továbbiakban: HM DVMCS) részére.
 
-(4)[^15] A díjak adományozásáról a HM DVMCS javaslata alapján a miniszter dönt. A HM DVMCS összetételét, tagjainak számát és működését a miniszter utasításban szabályozza.
+(4)[^32] A díjak adományozásáról a HM DVMCS javaslata alapján a miniszter dönt. A HM DVMCS összetételét, tagjainak számát és működését a miniszter utasításban szabályozza.
 
-[^14]: A 31. § (3) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.
-[^15]: A 31. § (4) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.
+[^30]: A 31. § (1) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja szerint módosított szöveg.
+[^31]: A 31. § (3) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.
+[^32]: A 31. § (4) bekezdése a 14/2015. (XII. 17.) HM rendelet 5. §-ával megállapított szöveg.

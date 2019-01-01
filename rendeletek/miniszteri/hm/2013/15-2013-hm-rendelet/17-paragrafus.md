@@ -1,4 +1,4 @@
-## 16. § Honvédség Önkéntes Tartalékos rendszerének támogatása, illetve az önkéntes tartalékosok felkészítésében, feladatvállalásában nyújtott jelentős támogatás elismeréseként Címzetes Önkéntes Tartalékos Cím adományozható.
+## 16/A. § A honvédelmi igazgatás területén nyújtott, valamint a Magyar Honvédség különleges jogrendben ellátandó feladataira történő felkészülés elősegítése érdekében végzett kiemelkedő szakmai tevékenység elismeréseként Címzetes Tartalékos Cím adományozható azon személyeknek, akik kormányrendeletben meghatározott szerveknél, szervezeteknél meghagyásra kijelölt munkakört töltenek be vagy munkakörükből eredően részesülnek meghagyásban.
 
 ## IV. Fejezet
 

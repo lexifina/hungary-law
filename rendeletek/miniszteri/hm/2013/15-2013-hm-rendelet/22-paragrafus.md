@@ -1,15 +1,22 @@
 ## 21. Emléktárgyak
 
-22. § (1) Emléktárgy adományozható kiemelt feladat, gyakorlat végrehajtása során nyújtott kiemelkedő teljesítményért, különleges helytállásért, huzamos időn át példamutatóan ellátott szolgálatteljesítésért, jeles nap alkalmából.
+22. § (1)[^16] Emléktárgy adományozható kiemelt feladat, gyakorlat végrehajtása során nyújtott kiemelkedő teljesítményért, különleges helytállásért, huzamos időn át példamutatóan ellátott szolgálatteljesítésért, jeles nap alkalmából, valamint az életút elismerésére a személyi állományból történő kiválás alkalmából.
 
-(2) A szolgálatból történő végleges kiválás alkalmából, ha az állomány tagja legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkezik és 50. születésnapját betöltötte, emléktárgyként adományozható
+(2)[^17] Az állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja részére 50. születésnapja alkalmából emléktárgyként:
 
-a) díszkard a tiszti állománycsoport tagjai,
+a) a tábornoki állománycsoport, ezredes vagy főtörzszászlós rendfokozat esetén díszkard,
 
-b) dísztőr az altiszti állománycsoport tagjai
+b) alezredes vagy őrnagy rendfokozat esetén dísztőr arany kivitelben,
 
-részére. E bekezdés szerinti emléktárgy adományozható rendkívüli érdemeire tekintettel a tiszti, altiszti állománycsoport tagjának is, aki 50. születésnapját betöltötte és legalább 15 év tényleges szolgálati viszonyban töltött idővel rendelkezik, feltéve, hogy szolgálati viszonya megszűnésére vagy megszüntetésére neki fel nem róható okból kerül sor.
+c) tiszti állománycsoport esetén dísztőr ezüst kivitelben, és
+
+d) altiszti állománycsoport esetén dísztőr bronz kivitelben
+
+## adományozható.
 
 (3) Az életút elismerésére, a személyi állományból történő kiválás alkalmából egyéb emléktárgy is adományozható.
 
 (4) A személyi állományból történő végleges kiválás alkalmából az emléktárgy mellett más, e rendelet szerinti elismerés is adományozható.
+
+[^16]: A 22. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § c) pontja szerint módosított szöveg.
+[^17]: A 22. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 83. §-ával megállapított szöveg.

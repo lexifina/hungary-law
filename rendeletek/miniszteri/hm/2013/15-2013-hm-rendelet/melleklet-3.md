@@ -4,7 +4,7 @@
 
 1. Honvédelemért Kitüntető Cím:
 
-a)[^39] Babérkoszorúval ékesített fokozat: leírása az I. fokozatéval egyezik meg azzal, hogy a kereszt alatt körbefutó, 5 mm széles, zöld, zománcozott cser- és babérkoszorú van.
+a)[^65] Babérkoszorúval ékesített fokozat: leírása az I. fokozatéval egyezik meg azzal, hogy a kereszt alatt körbefutó, 5 mm széles, zöld, zománcozott cser- és babérkoszorú van.
 
 b) I. fokozat: középpont felé összefutó szárú ezüstszínű kereszt sötétzöld zománcszegéllyel, közepén Magyarország zománcozott címerével. A felfüggesztésnél az ellenkarikán aranyszínű akantuszlevél.
 
@@ -34,8 +34,7 @@ c) Bronz fokozat: bronzszínű babérkoszorú és címer, sötétzöld tűzzomá
 
 A szalag háromszög alakúra hajtott, színe fokozatonként mustársárga, szürke, bordó, középen a nemzeti színeket tartalmazó sávval.
 
-4. Az Év Katonája Kitüntető Cím leírása: emlékplakettje 40 mm átmérőjű, aranyszínű, vert kivitelű, kör alakú érem. Fent a peremmel párhuzamosan „A BECSÜLETES MUNKA MINDENT LEGYŐZ”, alul „AZ ÉV KATONÁJA” felirat olvasható. Az érem középrészén a Honvédség emblémája, alatta négy darab hatágú csillag helyezkedik el a felirat ívét követve. A Honvédség emblémájában a babér- és a tölgyág találkozásánál a minősített év évszáma olvasható fekvő, ovális pajzsban.
+4.[^66]
 
-Az Év Katonája Kitüntető Cím jelvénye 20 mm átmérőjű, fehér zománcos, kör alakú, rajta a Magyar Honvédség emblémája. Az embléma alatt négy darab hatágú, aranyszínű csillag helyezkedik el. A babér- és a tölgyág találkozásánál a minősített év évszáma olvasható fekvő, ovális pajzsban.
-
-[^39]: A 3. melléklet 1. pont a) alpontja a 14/2015. (XII. 17.) HM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^65]: A 3. melléklet 1. pont a) alpontja a 14/2015. (XII. 17.) HM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^66]: A 3. melléklet 4. pontját a 20/2018. (XII. 28.) HM rendelet 90. § d) pontja hatályon kívül helyezte.
