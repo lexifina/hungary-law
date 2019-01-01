@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-40-00-00
 | 2013-07-06 | 2013. évi CXXIX. törvény | 1994-40-00-00.19 |
 | 2015-01-01 | 2014. évi LXXVI. törvény | 1994-40-00-00.20 |
 | 2015-07-21 | 2015. évi CXXXI. törvény | 1994-40-00-00.21 |
+| 2019-01-01 | 2018. évi XL. törvény | 1994-40-00-00.22 |
