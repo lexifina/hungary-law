@@ -1,5 +1,3 @@
-## 3. §[^2]
+## 3. § Hatályát veszti az R1. 4. és 5. §-a.
 
 ## 2. A ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosítása
-
-[^2]: A 3. § a 7. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
