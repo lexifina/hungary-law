@@ -1,0 +1,3 @@
+## 2. § A Korm. rendelet a következő 37/F. §-sal egészül ki:
+
+## „37/F. § A Nemzeti Örökségvédelmi Fejlesztési Nkft. a 34. § (4b) bekezdésében meghatározott feladatok tekintetében a Budavári Kft. jogutódja. A jogutódlásra a 2. §-t, a 3. § (1) és (6) bekezdését, az 5. §-t, a 6. §-t, valamint a 7/A. § (4) bekezdését megfelelően alkalmazni kell. A 7/A. § (4) bekezdése alkalmazása során a 3. mellékletben megjelölt ingatlanok tekintetében a Nemzeti Örökségvédelmi Fejlesztési Nkft. és a Budavári Kft. 2019. január 1. napja szerinti állapotra vonatkozó közös tételes (mennyiségi és értékbeni) ingó vagyonelem leltárt kötelesek felvenni, és a Nemzeti Örökségvédelmi Fejlesztési Nkft. e leltárban megjelölt vagyonelemeket köteles jogutódként átvenni.”
