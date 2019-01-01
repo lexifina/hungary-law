@@ -1,3 +1,3 @@
-## 8. § A Vhr. 5. alcím címe helyébe a következő cím lép:
+## 8. §[^8]
 
-## „5. A halgazdálkodási vízterületek és halgazdálkodásra jogosultak nyilvántartása alcímhez”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

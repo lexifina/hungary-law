@@ -1,5 +1,3 @@
-## „(4) Az állami horgászjegy és a horgász fogási napló díját a horgászszövetség részére kell befizetni.
+## 13. §[^13]
 
-## (5) A turista állami horgászjegy díját a horgászszövetség részére kell befizetni.
-
-## (6) A 12. mellékletben foglalt táblázat 6. sora szerinti díjat negyedévente, a tárgynegyedévet követő hónap 20. napjáig át kell utalni a 13. melléklet 1. pontjában meghatározott számlára.”
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## 24. § A Vhr. a következő 28/B. §-sal egészül ki:
+## 24. §[^31]
 
-## „28/B. § (1) A haltermelési létesítményben a horgászatra vonatkozó részletes szabályok és a kifogható halakra vonatkozó korlátozások kialakításáért és betartatásáért a haltermelési létesítmény üzemeltetője felelős.
-
-## (2) A (1) bekezdés szerinti szabályoknak tartalmaznia kell a Hhvtv. 46. § (4) bekezdésében, valamint az e rendelet 28. § (1), (14), (15) és (16) bekezdésében foglalt rendelkezéseket is.
-
-## (3) A haltermelési létesítményben kifogott halat a fogási naplóban nem kell rögzíteni.”
+[^31]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(17) Ha a nyilvántartott halgazdálkodási vízterület két vagy több halgazdálkodási hatóság illetékességi területén helyezkedik el, a halászati engedélyt kiadó halgazdálkodási hatóság a halászati engedélyt, valamint az annak visszavonásáról szóló határozatot, továbbá a kiadott fogási napló és fogási tanúsítvány egyedi azonosító adatait megküldi a nyilvántartott halgazdálkodási vízterülettel érintett többi halgazdálkodási hatóságnak.”
+## 10. §[^10]
+
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

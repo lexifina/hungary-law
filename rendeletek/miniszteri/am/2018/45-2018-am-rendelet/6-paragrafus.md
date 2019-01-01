@@ -1,1 +1,3 @@
-## „(6) Az állategészségügyi hatóság az (5) bekezdés szerinti esetben a vízből, a haltetemből és szükség szerint a takarmányból vett minták laboratóriumi vizsgálatát a halgazdálkodási hatóság állategészségügyi diagnosztikai laboratóriuma végzi.”
+## 5. §[^5]
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

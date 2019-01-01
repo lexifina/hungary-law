@@ -1,5 +1,3 @@
-## 6. § A Vhr. a következő 4/A. alcímmel egészül ki:
+## 6. §[^6]
 
-## „4/A. A halgazdálkodási jog alcímhez
-
-## 12/A. § A nyilvántartott halgazdálkodási vízterületen és partján horgászállás, egyéb horgászati célú létesítmény, vízilétesítmény – a létesítéshez szükséges hatósági, vagyonkezelői engedélyeken túl – csak a halgazdálkodásra jogosult előzetes hozzájárulásával létesíthető.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

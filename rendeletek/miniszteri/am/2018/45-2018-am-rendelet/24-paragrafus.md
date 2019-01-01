@@ -1,3 +1,3 @@
-## 23. § A Vhr. 28/A. §-a a következő (4) bekezdéssel egészül ki:
+## 23. §[^30]
 
-## „(4) A horgász a halfogásra jogosító okmányokat köteles horgászat közben a horgászhelyén magánál tartani.”
+[^30]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

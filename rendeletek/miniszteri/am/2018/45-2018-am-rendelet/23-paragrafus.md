@@ -1,5 +1,3 @@
-## „(23) A horgászati tevékenységet folytató személy egyidejűleg legfeljebb a területi jegy szerint 2 napi darabszám- és mennyiségi korlátozásnak megfelelő mennyiségű, a (14) bekezdésben foglaltaknak megfelelően élve tartott vagy a (16) bekezdés szerint elpusztított halat kizárólag a horgászatához használt vízi járművön vagy horgászhelyén és legfeljebb 48 órán át tárolhat addig, amíg maga is a helyszínen tartózkodik. Egy horgászhelyen több horgász esetén minden horgász saját zsákmányát a többi horgász zsákmányától csak elkülönítetten tárolhatja. Ha a horgász a horgászhelyét vagy a vízpartot elhagyja, köteles a saját zsákmányát magával vinni.
+## 22. §[^29]
 
-## (24) Tilos a vízminőséget rontó minőségű vagy a halak és más hasznos víziállatok számára egészségügyi kockázatot, vagy a kifogott és elfogyasztott hal útján humán-egészségügyi kockázatot jelentő etetőanyagot és csalit használni. Ezen előírások betartásával a vízminőséget nem befolyásoló horgászati tevékenység nem minősül vízhasználatnak.
-
-## (25) A halgazdálkodásra jogosult a (24) bekezdésben foglaltak közé nem sorolható, de vízminőségvédelmi, vagy halegészségügyi kockázatot jelentő egyes csalik vagy etetőanyagok használatát a helyi horgászrendben korlátozhatja vagy megtilthatja.”
+[^29]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
