@@ -1,4 +1,4 @@
-## 14. §[^19] Ha a változás átvezetésére vonatkozó, kérelem olyan adatot érint, amelyre vonatkozóan változásbejelentési eljárás van folyamatban, annak jogerős befejezésekor kezdődik az újabb változásbejelentési eljárás ügyintézési határideje.
+## 14. §[^24] Ha a változás átvezetésére vonatkozó, kérelem olyan adatot érint, amelyre vonatkozóan változásbejelentési eljárás van folyamatban, annak jogerős befejezésekor kezdődik az újabb változásbejelentési eljárás ügyintézési határideje.
 
 ## 8. A nyilvántartásból történő adatszolgáltatás
 
@@ -14,7 +14,7 @@ c) a kivonat kiállításának helyét és idejét, a hatáskör gyakorlójának
 
 (3) A kivonatot a miniszter a nyilvántartásában szereplő adatok alapján, a kiállítás napján fennálló állapotnak megfelelő adattartalommal állítja ki.
 
-(4)[^20] Ha a miniszter a kivonat kiállítását követően megállapítja, hogy a kivonat tartalma valótlan, a kivonatot a Ákr. kijavításra, kiegészítésre, visszavonásra vagy módosításra vonatkozó szabályai szerint kijavítja, kiegészíti, visszavonja vagy módosítja.
+(4)[^25] Ha a miniszter a kivonat kiállítását követően megállapítja, hogy a kivonat tartalma valótlan, a kivonatot a Ákr. kijavításra, kiegészítésre, visszavonásra vagy módosításra vonatkozó szabályai szerint kijavítja, kiegészíti, visszavonja vagy módosítja.
 
-[^19]: A 14. § a 441/2015. (XII. 28.) Korm. rendelet 200. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 449. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^20]: A 15. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 448. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^24]: A 14. § a 441/2015. (XII. 28.) Korm. rendelet 200. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 449. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^25]: A 15. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 448. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

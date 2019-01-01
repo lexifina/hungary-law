@@ -1,4 +1,4 @@
-## 25. §[^31] A bevett egyház jogutódlással való megszűnésének nyilvántartásban történő átvezetésére a 12. §–14. §-t kell alkalmazni azzal, hogy a változás átvezetésére vonatkozó, kérelemben meg kell jelölni a jogutódlás Ehtv. 26. § (2) bekezdésében meghatározott módját is.
+## 25. §[^42] A bevett egyház jogutódlással való megszűnésének nyilvántartásban történő átvezetésére a 12. §–14. §-t kell alkalmazni azzal, hogy a változás átvezetésére vonatkozó, kérelemben meg kell jelölni a jogutódlás Ehtv. 26. § (2) bekezdésében meghatározott módját is.
 
 26. § (1) Ha a bevett egyház
 
@@ -12,4 +12,4 @@ a miniszter a bevett egyházat a bevett egyháznak az Ehtv. mellékletéből val
 
 (2) Ha a bevett egyház ilyen jogállásának bármely okból történő elvesztését követően az Ehtv. alapján vallási tevékenységet végző szervezetként működik tovább, a miniszter e tényről és az ezzel összefüggő körülményekről a vallási tevékenységet végző szervezet nyilvántartásba vételére kizárólagosan illetékes bíróságot értesíti.
 
-[^31]: A 25. § a 457/2017. (XII. 28.) Korm. rendelet 449. § i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^42]: A 25. § a 457/2017. (XII. 28.) Korm. rendelet 449. § i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

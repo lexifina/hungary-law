@@ -24,14 +24,19 @@ b) a belső törvényét, szervezeti és működési szabályzatát vagy azoknak
 
 c) a székhely használatának jogcímét igazoló okirat egyszerű másolatát,
 
-d) a képviselője képviseleti jogosultságának igazolására alkalmas okirat hiteles másolatát, és
+d)[^10] a képviselője képviseleti jogosultságának igazolására alkalmas okirat hiteles másolatát
 
-e) – ha azzal rendelkezik – címerének és logójának képi megjelenítését és tartalmi leírását.
+e)[^11] képviselőjének aláírás-mintáját tartalmazó okirat hiteles másolatát, és
+
+f)[^12] – ha azzal rendelkezik – címerének és logójának képi megjelenítését és tartalmi leírását.
 
 (5) A (4) bekezdés szerinti dokumentumokat nem kell benyújtani, ha a bevett egyház belső szabálya alapján az a bevett egyház tekintetében nem értelmezhető.
 
-(6)[^9]
+(6)[^13]
 
 (7) A bevett egyház a nyilvántartásba vétel során kilencjegyű nyilvántartási számot kap, amelyben az első öt jegy a nyilvántartásba vétel sorszámát jelenti, amelyhez per jellel a nyilvántartásba vétel éve kapcsolódik.
 
-[^9]: A 10. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 201. § b) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: A 10. § (4) bekezdés d) pontja a 293/2018. (XII. 21.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^11]: A 10. § (4) bekezdés e) pontja a 293/2018. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 10. § (4) bekezdés f) pontját a 293/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 10. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 201. § b) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -4,11 +4,11 @@
 
 ## 28. § A belső egyházi jogi személy nyilvántartásból való törlésére a 24. §-t, a 25. §-t és a 27. §-t kell alkalmazni a következő eltérésekkel:
 
-a)[^32] az eljárás a 11. § (1) bekezdése szerinti kérelemmel indul,
+a)[^43] az eljárás a 11. § (1) bekezdése szerinti kérelemmel indul,
 
-b)[^33] a belső egyházi jogi személy nyilvántartásból való törlésére a bevett egyház egészének, legfőbb szervének vagy a belső egyházi jogi személy közvetlen felettes egyházi szervének kérelme alapján a belső egyházi jogi személy megszűnése nélkül is sor kerülhet,
+b)[^44] a belső egyházi jogi személy nyilvántartásból való törlésére a bevett egyház egészének, legfőbb szervének vagy a belső egyházi jogi személy közvetlen felettes egyházi szervének kérelme alapján a belső egyházi jogi személy megszűnése nélkül is sor kerülhet,
 
-c)[^34] a nyilvántartásból való törlés iránti, kérelemhez
+c)[^45] a nyilvántartásból való törlés iránti, kérelemhez
 
 ca) a 12. § (3) bekezdése szerinti dokumentumot, és
 
@@ -16,9 +16,9 @@ cb) a b) pontban foglalt eset kivételével a megszűnő belső egyházi jogi sz
 
 ## kell csatolni,
 
-d)[^35]
+d)[^46]
 
-[^32]: A 28. § a) pontja a 457/2017. (XII. 28.) Korm. rendelet 449. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^33]: A 28. § b) pontja a 457/2017. (XII. 28.) Korm. rendelet 448. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^34]: A 28. § c) pontja a 457/2017. (XII. 28.) Korm. rendelet 449. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át. [A 457/2017. (XII. 28.) Korm. rendelet 449. § k) pontja szerinti módosítás, mely szerint hatályát veszti a 28. § c) pontjában a „bejelentéshez” szövegrész, nem vezethető át.]
-[^35]: A 28. § d) pontját a 441/2015. (XII. 28.) Korm. rendelet 201. § c) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^43]: A 28. § a) pontja a 457/2017. (XII. 28.) Korm. rendelet 449. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^44]: A 28. § b) pontja a 457/2017. (XII. 28.) Korm. rendelet 448. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^45]: A 28. § c) pontja a 457/2017. (XII. 28.) Korm. rendelet 449. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át. [A 457/2017. (XII. 28.) Korm. rendelet 449. § k) pontja szerinti módosítás, mely szerint hatályát veszti a 28. § c) pontjában a „bejelentéshez” szövegrész, nem vezethető át.]
+[^46]: A 28. § d) pontját a 441/2015. (XII. 28.) Korm. rendelet 201. § c) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

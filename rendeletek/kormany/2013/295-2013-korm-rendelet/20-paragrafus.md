@@ -1,4 +1,4 @@
-20. § (1)[^29] A tábori lelkészi szolgálat a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó, a bevett egyházakkal erre vonatkozóan kötött megállapodásokban foglaltak alapján működő egységes szervezet, amely három, egymással azonos jogállású szolgálati ágra tagozódik.
+20. § (1)[^40] A tábori lelkészi szolgálat a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó, a bevett egyházakkal erre vonatkozóan kötött megállapodásokban foglaltak alapján működő egységes szervezet, amely három, egymással azonos jogállású szolgálati ágra tagozódik.
 
 (2) A szolgálati ágakat bevett egyházak vezetik.
 
@@ -6,4 +6,4 @@
 
 (4) A tábori lelkészi szolgálat felállításának és működésének költségei a honvédelemért felelős miniszter által vezetett minisztérium költségvetési fejezetét az igénybevétel szerint terhelik.
 
-[^29]: A 20. § (1) bekezdése a 197/2015. (VII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^40]: A 20. § (1) bekezdése a 197/2015. (VII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 2. § Az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter (a továbbiakban: miniszter) az Ehtv. 14/B. § (3) bekezdésében meghatározott feltételeknek megfelelő személyek közül elsősorban olyan szakértőt rendel ki, aki kiemelkedő tudással vagy a vallástudománnyal összefüggő legalább tízéves szakmai gyakorlattal rendelkezik.
+## 2. §[^2] A miniszter az Ehtv. 14/B. § (3) bekezdésében meghatározott feltételeknek megfelelő személyek közül elsősorban olyan szakértőt rendel ki, aki kiemelkedő tudással vagy a vallástudománnyal összefüggő legalább tízéves szakmai gyakorlattal rendelkezik.
 
 3. § (1) A kirendelt szakértő szakvéleményt ad arra vonatkozóan, hogy
 
@@ -27,3 +27,5 @@ b) a vallási tevékenységet végző szervezet tekintetében az (1) bekezdésbe
 c) a szakértői vélemény elkészítésének helyét és időpontját,
 
 d) a szakértő aláírását.
+
+[^2]: A 2. § a 293/2018. (XII. 21.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
