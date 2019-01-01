@@ -10,7 +10,7 @@ d)[^167] tizenegy krónikus ellátási, illetve rehabilitációs fekvőbeteg-sza
 
 e)[^168] egy rehabilitációs, illetve krónikus fekvőbeteg-szakellátási ágy helyébe legfeljebb heti 5 járóbeteg-szakellátási szolgáltatási óra,
 
-f)[^169] egy rehabilitációs, illetve krónikus fekvőbeteg-szakellátási ágy helyébe egynapos ellátásra az átcsoportosított, a szolgáltató – adott rehabilitációs, illetve krónikus fekvőbeteg-szakellátási szakmájának – kapacitására az átcsoportosítást megelőző finanszírozási évben jutó havi átlagos teljesítmény egyenértékének megfelelő mennyiségű súlyszám,
+f)[^169] egy rehabilitációs, illetve krónikus fekvőbeteg-szakellátási ágy helyébe egynapos ellátásra az átcsoportosított, a szolgáltató – adott rehabilitációs, illetve krónikus fekvőbeteg-szakellátási szakmájának – lekötött kapacitására az átcsoportosítást megelőző finanszírozási évben jutó havi átlagos teljesítmény egyenértékének megfelelő mennyiségű súlyszám,
 
 g)[^170] a járóbeteg-szakellátás keretében végezhető nappali ellátás esetében egy beteglétszám helyett egy járóbeteg-szakellátási óra
 
@@ -32,7 +32,7 @@ b) az a) pontban nem említett más rehabilitációs szakma keretében működte
 [^166]: A 8/A. § (1) bekezdés c) pontja a 364/2014. (XII. 30.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
 [^167]: A 8/A. § (1) bekezdés d) pontja a 464/2016. (XII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^168]: A 8/A. § (1) bekezdés e) pontját a 363/2010. (XII. 30.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 52. §-ával megállapított szöveg.
-[^169]: A 8/A. § (1) bekezdés f) pontját a 447/2012. (XII. 29.) Korm. rendelet 52. §-a iktatta be, szövege a 464/2016. (XII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^169]: A 8/A. § (1) bekezdés f) pontját a 447/2012. (XII. 29.) Korm. rendelet 52. §-a iktatta be, szövege a 464/2016. (XII. 23.) Korm. rendelet 19. §-ával megállapított, a 287/2018. (XII. 21.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^170]: A 8/A. § (1) bekezdés g) pontját a 40/2014. (II. 24.) Korm. rendelet 15. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 66. § (2) bekezdésével megállapított szöveg.
 [^171]: A 8/A. § (2) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^172]: A 8/A. § (3) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 68. §-a iktatta be.
