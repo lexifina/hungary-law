@@ -2,7 +2,7 @@
 
 13. § (1) A külön jogszabályban megjelölt azon személyek, akik az ügyben iratbetekintési joggal rendelkeznek, az ügy iratairól – kivéve, ha az iratról másolat adását jogszabály kizárja – hiteles vagy nem hiteles másolatot kaphatnak.
 
-(1a)[^29] A másolat papíralapú iratról elektronikus formában, elektronikus iratról pedig papír alapon is kiadható.
+(1a)[^30] A másolat papíralapú iratról elektronikus formában, elektronikus iratról pedig papír alapon is kiadható.
 
 (2) A másolatot a közjegyzői iroda vezetőjénél (a továbbiakban: irodavezető) kell megrendelni. Az irodavezető határozza meg a másolat kiadásának időpontját és gondoskodik a másolat elkészítéséről. A másolatot a közjegyzői iroda rendszerint legkésőbb a megrendeléstől számított harmadik munkanapon adja ki.
 
@@ -14,4 +14,4 @@
 
 (6) A külföldi felhasználásra szánt hiteles másolatot a közjegyző eredeti aláírásával és bélyegzőlenyomatával hitelesíti.
 
-[^29]: A 13. § (1a) bekezdését a 20/2017. (XII. 21.) IM rendelet 16. § (4) bekezdése iktatta be.
+[^30]: A 13. § (1a) bekezdését a 20/2017. (XII. 21.) IM rendelet 16. § (4) bekezdése iktatta be.

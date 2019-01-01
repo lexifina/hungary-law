@@ -2,6 +2,6 @@
 
 (2) A hagyatéki ügyben becsatolt eredeti végintézkedést nem lehet kiadni, arról – kihirdetés után – csak másolat vagy az érdekelt kérelmére hiteles másolat adható ki.
 
-(3)[^30]
+(3)[^31]
 
-[^30]: A 14. § (3) bekezdését a 40/2015. (XII. 22.) IM rendelet 2. § (12) bekezdése hatályon kívül helyezte.
+[^31]: A 14. § (3) bekezdését a 40/2015. (XII. 22.) IM rendelet 2. § (12) bekezdése hatályon kívül helyezte.

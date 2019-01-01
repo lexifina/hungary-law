@@ -1,4 +1,4 @@
-5/A. §[^25] (1) A MOKK a beadvány elektronikus úton történő előterjesztésére űrlapot rendszeresíthet. Ha a MOKK a beadvány elektronikus úton történő előterjesztésére űrlapot rendszeresít, az elektronikus úton kapcsolatot tartónak a beadványt a közjegyzőhöz űrlapon kell előterjesztenie.
+5/A. §[^26] (1) A MOKK a beadvány elektronikus úton történő előterjesztésére űrlapot rendszeresíthet. Ha a MOKK a beadvány elektronikus úton történő előterjesztésére űrlapot rendszeresít, az elektronikus úton kapcsolatot tartónak a beadványt a közjegyzőhöz űrlapon kell előterjesztenie.
 
 (2) Ha a MOKK a beadvány elektronikus úton történő előterjesztésére nem rendszeresít űrlapot, az elektronikus úton kapcsolatot tartó a beadványt és mellékletét az elektronikus ügyintézés részletszabályairól szóló kormányrendelet szerinti formában nyújthatja be.
 
@@ -12,4 +12,4 @@
 
 (7) A (6) bekezdésben meghatározott módon kell eljárni új űrlap kialakításánál.
 
-[^25]: Az 5/A. §-t a 20/2017. (XII. 21.) IM rendelet 16. § (3) bekezdése iktatta be.
+[^26]: Az 5/A. §-t a 20/2017. (XII. 21.) IM rendelet 16. § (3) bekezdése iktatta be.

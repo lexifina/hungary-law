@@ -330,7 +330,7 @@
 
 ## 3.5. a határozat jogerőre emelkedésének napja
 
-## 3.6.[^111] annak jelölése, ha a határozat a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
+## 3.6.[^112] annak jelölése, ha a határozat a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
 
 ## 3.7. annak jelölése, ha a határozat előzetesen végrehajtható.
 
@@ -464,9 +464,9 @@
 
 ## 9.2. a végrehajtást kérőnek a meghatározott cselekmény teljesítésére vagy elmaradására (ha pénzköveteléssel együtt érvényesíti, ennek csökkenésére és megszűnésére) vonatkozó bejelentési kötelezettsége és tájékoztatás arról, hogy további intézkedésre csak e közlés után kerül sor
 
-## 9.3.[^112] a kézbesítési kifogás előterjesztésének lehetősége és módja
+## 9.3.[^113] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
-## 9.4.[^113] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
+## 9.4.[^114] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 ## 9.5. a végrehajtható okirat kiállításával szembeni jogorvoslati kérelem és a végrehajtási kifogás előterjesztésének lehetősége és módja
 
@@ -502,9 +502,9 @@
 
 ## Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-3. melléklet a 37/2003. (X. 29.) IM rendelethez[^114]
+3. melléklet a 37/2003. (X. 29.) IM rendelethez[^115]
 
-[^111]: A 2. melléklet 3.6. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés i) pontja szerint módosított szöveg.
-[^112]: A 2. melléklet 9.3. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés j) pontja szerint módosított szöveg.
-[^113]: A 2. melléklet 9.4. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés d) pontja szerint módosított szöveg.
-[^114]: A 3. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.
+[^112]: A 2. melléklet 3.6. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés i) pontja szerint módosított szöveg.
+[^113]: A 2. melléklet 9.3. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés j) pontja szerint módosított szöveg.
+[^114]: A 2. melléklet 9.4. pontja a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés d) pontja szerint módosított szöveg.
+[^115]: A 3. mellékletet a 31/2012. (VI. 29.) KIM rendelet 12. § (2) bekezdése iktatta be.

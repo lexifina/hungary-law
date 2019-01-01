@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-37-20-0
 | 2016-01-01 | 2003-37-20-06.16 | 40/2015. (XII. 22.) IM rendelet |
 | 2017-01-01 | 2003-37-20-06.17 | 5/2016. (III. 8.) IM rendelet |
 | 2018-01-01 | 2003-37-20-06.18 | 20/2017. (XII. 21.) IM rendelet |
+| 2019-01-01 | 2003-37-20-06.19 | 29/2019. (XII. 20.) IM rendelet |

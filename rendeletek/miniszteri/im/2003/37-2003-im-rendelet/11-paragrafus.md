@@ -4,6 +4,6 @@
 
 (3) A hangfelvétel alapján a jegyzőkönyvet 8 napon belül írásba kell foglalni. Az írásbafoglalás napját a jegyzőkönyvön fel kell tüntetni.
 
-(4)[^27] A hangfelvételről leírt jegyzőkönyvet a közjegyző aláírásával hitelesíti és a leírást végző közjegyzői irodai ügyintéző vagy egyéb irodai alkalmazott aláírásával látja el.
+(4)[^28] A hangfelvételről leírt jegyzőkönyvet a közjegyző aláírásával hitelesíti és a leírást végző közjegyzői irodai ügyintéző vagy egyéb irodai alkalmazott aláírásával látja el.
 
-[^27]: A 11. § (4) bekezdése a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés c) pontja szerint módosított szöveg.
+[^28]: A 11. § (4) bekezdése a 20/2017. (XII. 21.) IM rendelet 16. § (12) bekezdés c) pontja szerint módosított szöveg.

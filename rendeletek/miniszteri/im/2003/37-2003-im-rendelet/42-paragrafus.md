@@ -1,6 +1,6 @@
 ## Az irat kézbesítése
 
-42. §[^78] (1) Az irat kézbesítése – ha jogszabály másként nem rendelkezik – általában postai úton történik. Szükség esetén az iratot a közjegyző futár útján is kézbesítheti.
+42. §[^79] (1) Az irat kézbesítése – ha jogszabály másként nem rendelkezik – általában postai úton történik. Szükség esetén az iratot a közjegyző futár útján is kézbesítheti.
 
 (2) A közjegyző az illetékességi területén személyesen vagy közjegyzői irodai ügyintéző vagy egyéb irodai alkalmazott útján is kézbesíthet.
 
@@ -12,4 +12,4 @@
 
 (6) A közjegyző a végrehajtható okiratot a bírósági végrehajtásról szóló 1994. évi LIII. törvény 32. § (1) bekezdésében foglaltak szerint küldi meg a végrehajtónak.
 
-[^78]: A 42. § a 20/2017. (XII. 21.) IM rendelet 16. § (7) bekezdésével megállapított szöveg.
+[^79]: A 42. § a 20/2017. (XII. 21.) IM rendelet 16. § (7) bekezdésével megállapított szöveg.
