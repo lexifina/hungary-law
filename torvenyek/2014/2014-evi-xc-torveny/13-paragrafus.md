@@ -1,3 +1,3 @@
 ## 5. Finanszírozás
 
-13. § A nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység költségigényét Magyarország nemzetközi és európai uniós vállalásainak figyelembe vételével a külpolitikáért felelős miniszter terjeszti elő.
+13. § A nemzetközi fejlesztési együttműködés költségigényét a külpolitikáért felelős miniszter, a nemzetközi humanitárius segítségnyújtási tevékenység költségigényét az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter terjeszti elő Magyarország nemzetközi és európai uniós vállalásainak figyelembe vételével.
