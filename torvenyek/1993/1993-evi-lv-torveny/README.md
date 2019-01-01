@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-55-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 1993-55-00-00.24 |
 | 2018-01-01 | 2017. évi L. törvény | 1993-55-00-00.25 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1993-55-00-00.26 |
+| 2019-01-01 | 2018. évi CXXXIII. törvény | 1993-55-00-00.27 |
