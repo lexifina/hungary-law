@@ -14,9 +14,9 @@
 
 6. Származékos műveletek különbözeteként az ÁKK Zrt.-nél elhelyezett fedezeti betétek záróállománya
 
-7.[^341] Államadósság állománya (1+2+3+4+5+6)
+7.[^342] Államadósság állománya (1+2+3+4+5+6)
 
-8.[^342]
+8.[^343]
 
-[^341]: A 13. melléklet 7. pontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^342]: A 13. melléklet 8. pontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 8. pontja hatályon kívül helyezte.
+[^342]: A 13. melléklet 7. pontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^343]: A 13. melléklet 8. pontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 8. pontja hatályon kívül helyezte.

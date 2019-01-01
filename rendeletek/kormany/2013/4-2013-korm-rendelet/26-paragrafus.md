@@ -32,7 +32,7 @@ c) az előzetesen felszámított, le nem vonható általános forgalmi adót,
 
 d) az immateriális javak, a tárgyi eszközök elszámolt terven felüli értékcsökkenésének, a követelések és a készletek értékvesztésének összegét,
 
-e)[^122] az eredeti követelést engedményezőnél az átruházott követelésnek a könyv szerinti értékét a követelés átruházásakor,
+e)[^122] az eredeti követelést engedményezőnél (eladónál) az engedményezett (az átruházott) követelésnek a könyv szerinti értékét a követelés átruházásakor,
 
 f)[^123] a szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott engedmény szerződés szerinti összegét, és
 
@@ -44,6 +44,6 @@ g)[^124] az Szt. 81. § (2) bekezdés k)–m) pontjában meghatározott gazdasá
 [^119]: A 26. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 402/2015. (XII. 15.) Korm. rendelet 22. § 9. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 3–4. pontja szerint módosított szöveg.
 [^120]: A 26. § (11a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^121]: A 26. § (11a) bekezdés a) pontja a 402/2015. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^122]: A 26. § (11a) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^122]: A 26. § (11a) bekezdés e) pontja a 402/2015. (XII. 15.) Korm. rendelet 23. § (1) bekezdés 1. pontja, a 203/2018. (XI. 5.) Korm. rendelet 4. § 3. pontja szerint módosított szöveg.
 [^123]: A 26. § (11a) bekezdés f) pontja a 402/2015. (XII. 15.) Korm. rendelet 22. § 8. pontja szerint módosított szöveg.
 [^124]: A 26. § (11a) bekezdés g) pontját a 402/2015. (XII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be.

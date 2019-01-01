@@ -10,13 +10,13 @@
 
 | 4. | XX. fejezet 21. cím 1. alcím 1. jogcímcsoport 8. jogcím, 3. jogcímcsoport 8. jogcím | fővárosi és megyei kormányhivatalok | A jogtalanul igénybe vett ellátásokkal kapcsolatos követelések és kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 5. | XI. fejezet 32. cím 6. alcím | kezelő szerv | A települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok részére biztosított működési és feladatalapú támogatásokkal kapcsolatos kötelezettségvállalások és követelések adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 5. | XI. fejezet, 32. cím, 6. alcím; XX. fejezet, 21. cím, 2. alcím | kezelő szerv | A települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok részére biztosított működési és feladatalapú támogatásokkal kapcsolatos kötelezettségvállalások és követelések adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 6. | XLI. fejezet | Államadósság Kezelő Központ Zrt. | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
 | 7. | A hitelekkel, kölcsönökkel, értékpapírokkal, más finanszírozási célú műveletekkel (pl. betételhelyezéssel, visszavonással, fedezeti ügyletekkel) kapcsolatos követelések és kötelezettségek, egyéb eszközök (pl. értékpapírok, betétek, devizaszámlák) adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 8. | XVII. fejezet 21. cím, 1. alcím, 1. jogcímcsoport, 3., 5–8. és 10. jogcím; XVIII. fejezet 8. cím; XLII. fejezet, 1. cím, 1–6. és 8–18. alcím, 2–3. cím, 4. cím, 1. alcím, 9. jogcímcsoport, 2. alcím, 2. jogcímcsoport, 7. cím, 2. alcím, 31. cím, 32. cím, 1. alcím 12., 22., 26 és 28. jogcímcsoport, 33. cím, 10–20. alcím | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok. | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
+| 8. | XVII. fejezet, 21. cím, 1. és 5. alcím; XVIII. fejezet, 8. cím; XLII. fejezet, 1. cím 1–6. és 8–18. alcím, 2–3. cím, 4. cím, 1. alcím, 9. jogcímcsoport, 2. alcím, 2. jogcímcsoport, 7. cím 2. alcím, 31. cím, 32. cím 1. alcím, 12., 22., 26. és 28. jogcímcsoport, 33. cím 10–15. alcím | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok. | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
 | 9. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok. A vállalkozások folyó támogatásához kapcsolódó követelések és kötelezettségvállalások. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
@@ -44,7 +44,7 @@
 
 | 20. | nincs címrendhez kötve | Európai Uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^303]
+3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^304]
 
 ## Maradványkimutatás
 
@@ -74,4 +74,4 @@ III. Vállalkozási tevékenység költségvetési egyenlege (05–06)
 
 IV. Vállalkozási tevékenység finanszírozási egyenlege (07–08)
 
-[^303]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
+[^304]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.

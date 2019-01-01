@@ -6,7 +6,7 @@
 
 (3) A 16. §-ban foglaltaktól eltérően társulás alapítása, a társulási szerződés módosításával vagyonának növelése esetén az átvett eszközök bekerülési értéke a társulási szerződésben, illetve annak módosításában szereplő bruttó érték. Az átvételt követően az átadónál az átadásig elszámolt értékcsökkenést, értékvesztést az átvevő társulásnak nyilvántartásba kell vennie.
 
-(3a)[^69] A 16. §-ban foglaltaktól eltérően a tulajdonosnál, tulajdonosi joggyakorló szervezetnél az államháztartáson belüli szervezet részére vagyonkezelésbe adott, illetve az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv, társulás tulajdonába adott eszköz visszavételkori bekerülési értéke, valamint a megszűnő nemzetiségi önkormányzat vagyonát átvevő szervnél az átvételkori, az újraalakult nemzetiségi önkormányzatnál e vagyon visszavételkori bekerülési értéke a korábbi vagyonkezelőnél, tulajdonosnál kimutatott bruttó érték. A visszavételt követően az átadásig esetleg elszámolt értékcsökkenést, értékvesztést nyilvántartásba kell venni.
+(3a)[^69] A 16. §-ban foglaltaktól eltérően a tulajdonosnál, tulajdonosi joggyakorló szervezetnél az államháztartáson belüli szervezet részére vagyonkezelésbe adott, illetve az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv, társulás tulajdonába adott eszköz visszavételkori bekerülési értéke, valamint a megszűnő nemzetiségi önkormányzat vagyonát átvevő szervnél az átvételkori, az újraalakult nemzetiségi önkormányzatnál e vagyon visszavételkori bekerülési értéke a korábbi vagyonkezelőnél, tulajdonosnál kimutatott bruttó érték. A visszavételt követően az átadásig esetleg elszámolt értékcsökkenést, értékvesztést nyilvántartásba kell venni, a társulási részesedés könyv szerinti értékét ki kell vezetni.
 
 (4) A 16. §-ban foglaltaktól eltérően az Szt. 49. § (5) bekezdése és 50. § (1), (2), (4) és (6) bekezdése szerint átvett eszközök bekerülési értékét az ott leírtak szerint kell meghatározni.
 
@@ -15,4 +15,4 @@
 (6) A külföldi pénzértékre szóló részesedés, értékpapír bekerülési értékét a bekerülés napjára vonatkozó, a 20. § (3) és (4) bekezdése szerinti devizaárfolyamon átszámított forintérték alapján kell meghatározni. A külföldi pénzértékre szóló követelések, kötelezettségek bekerülési értéke megegyezik a költségvetési számvitelben nyilvántartott követelés, végleges kötelezettségvállalás, más fizetési kötelezettség összegével.
 
 [^68]: A 15. § (2) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^69]: A 15. § (3a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 89. §-a iktatta be, szövege a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^69]: A 15. § (3a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 89. §-a iktatta be, szövege a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 12. pontja, a 203/2018. (XI. 5.) Korm. rendelet 4. § 2. pontja szerint módosított szöveg.

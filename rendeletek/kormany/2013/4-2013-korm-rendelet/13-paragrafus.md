@@ -2,7 +2,7 @@
 
 (2)[^53] A mérlegben a pénzeszközök között kell kimutatni a lekötött bankbetéteket, a pénztárakat, csekkeket, betétkönyveket, valamint a forintszámlákat és a devizaszámlákat.
 
-(2a)[^54] A mérlegben a lekötött bankbetéteken belül kell kimutatni a betét elhelyezésének évén túli lejáratú forint és deviza lekötött bankbetéteket és az éven belüli lejáratú forint és deviza lekötött bankbetéteket.
+(2a)[^54] A mérlegben a lekötött bankbetéteken belül kell kimutatni a betét elhelyezésének évén túli lejáratú forint és deviza lekötött bankbetéteket.
 
 (3)[^55] A mérlegben a pénztárak, csekkek, betétkönyvek között kell kimutatni a forint- és valutapénztárakban kezelt készpénzt, valamint a pénzforgalmi betétkönyvekben kezelt pénzeszközöket, a csekkeket és az elektronikus pénzt.
 
@@ -24,7 +24,7 @@
 
 [^52]: A 13. § (1) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
 [^53]: A 13. § (2) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^54]: A 13. § (2a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^54]: A 13. § (2a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 203/2018. (XI. 5.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
 [^55]: A 13. § (3) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^56]: A 13. § (4) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^57]: A 13. § (6) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 12. pontja szerint módosított szöveg.
