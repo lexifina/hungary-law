@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1156-30
 | --- | --- | --- |
 | 2015-03-17 | 2015-1156-30-22.1 | 1156/2015. (III. 17.) Korm. határozat |
 | 2015-03-18 | 2015-1156-30-22.2 | 2010: CXXX. törvény |
+| 2019-01-01 | 2015-1156-30-22.3 | 2011. évi CXCV. törvény |

@@ -1,15 +1,10 @@
 A Kormány
 
-1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcímnek a 70. A Magyar Foundation of North America támogatása jogcímcsoporttal történő kiegészítését;
-
-Felelős: nemzetgazdasági miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
+1.[^1]
 
 2. tudomásul veszi, hogy az Amerikai Egyesült Államokban bejegyzésre került „Friends of Hungary” Alapítvány neve „The Hungary Initiatives Foundation”-ra változott;
 
-3.[^1]
+3.[^2]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése lapján hatályát vesztette.
+[^1]: Az 1. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése lapján hatályát vesztette.
