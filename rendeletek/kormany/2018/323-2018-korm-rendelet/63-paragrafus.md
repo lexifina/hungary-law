@@ -1,4 +1,4 @@
-## 62. §[^26]
+## 62. § Nem lép hatályba az elektronikus ügyintézéssel kapcsolatos egyes Korm. rendeletek módosításáról szóló 179/2018. (X. 2.) Korm. rendelet 15. §-a.
 
 ## 20. Záró rendelkezések
 
@@ -11,5 +11,3 @@
 (4) Az 1. § és a 2. § 2019. április 1-jén lép hatályba.
 
 (5) Az 59. § az e rendelet kihirdetését követő hatodik hónap első napján lép hatályba.
-
-[^26]: A 62. § a 63. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.

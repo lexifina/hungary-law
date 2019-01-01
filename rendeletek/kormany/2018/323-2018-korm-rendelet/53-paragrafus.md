@@ -1,3 +1,3 @@
-## 52. §[^17]
+## 52. §[^6]
 
-[^17]: Az 52. § a 63. § (3) bekezdése alapján 2019. január 13-án lép hatályba.
+[^6]: Az 52. § a 63. § (3) bekezdése alapján 2019. január 13-án lép hatályba.

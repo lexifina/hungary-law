@@ -1,3 +1,3 @@
-## 59. §[^23]
+## 59. §[^8]
 
-[^23]: Az 59. § a 63. § (5) bekezdése alapján 2019. június 1-jén lép hatályba.
+[^8]: Az 59. § a 63. § (5) bekezdése alapján 2019. június 1-jén lép hatályba.
