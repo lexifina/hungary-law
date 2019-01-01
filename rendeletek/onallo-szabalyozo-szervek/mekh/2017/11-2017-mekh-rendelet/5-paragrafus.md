@@ -30,4 +30,8 @@ m) szervezett villamosenergia-piaci engedélyes a 14. melléklet,
 
 n) közvilágítási engedélyes a 15. melléklet,
 
-o) elektromos gépjármű töltőállomás üzemeltetője a 16. melléklet
+o) elektromos gépjármű töltőállomás üzemeltetője a 16. melléklet,
+
+p)[^5] villamosenergia-tárolói engedélyes a 36. melléklet
+
+[^5]: Az 5. § p) pontját a 15/2018. (XII. 21.) MEKH rendelet 2. §-a iktatta be.

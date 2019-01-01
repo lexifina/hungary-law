@@ -4,11 +4,11 @@
 
 (2) Az 500 kW alatti névleges teljesítőképességű KÁT termelő adatszolgáltatási kötelezettsége a KÁT-mérlegkör tagsági szerződés KÁT-mérlegkör felelőssel való megkötését követő napon kezdődik.
 
-(3) Az adatszolgáltató az engedély vagy a KÁT kvótahatározat kézhezvételét követő 8 napon belül az 1. mellékletben szereplő, „MEKH Energiainformációs Adattári Felhasználók és Kapcsolattartók Nyilvántartása” című adatlapot kitölti és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére megküldi.
+(3)[^2] Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 9. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató az engedély vagy a KÁT kvótahatározat kézhezvételét követő 8 napon belül az 1., az elektronikus kapcsolattartásra nem kötelezett adatszolgáltató az 1a. mellékletben szereplő adatlapot kitölti, és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére megküldi.
 
-(3a)[^2] Az 1. § (1) bekezdés c) pontjában meghatározott adatszolgáltató a (3) bekezdésben meghatározott adatlapot a tevékenységének megkezdését követő 8 napon belül köteles a Hivatal részére megküldeni.
+(3a)[^3] Az 1. § (1) bekezdés c) pontjában meghatározott adatszolgáltató a (3) bekezdésben meghatározott adatlapot a tevékenységének megkezdését követő 8 napon belül köteles a Hivatal részére megküldeni.
 
-(3b)[^3] A (3) bekezdésben meghatározott adatlap tartalmában bekövetkező változást az adatszolgáltató 8 napon belül köteles a Hivatal részére megküldeni.
+(3b)[^4] A (3) bekezdésben meghatározott adatlap tartalmában bekövetkező változást az adatszolgáltató 8 napon belül köteles a Hivatal részére megküldeni.
 
 (4) Az adatszolgáltató tevékenységének megkezdése előtt vagy annak szüneteltetése alatt mentesülhet rendszeres adatszolgáltatási kötelezettsége alól, amennyiben a Hivatal részére a 2. melléklet szerinti mentességi kérelmet előterjeszti, és az adatszolgáltatási kötelezettség alóli mentességet a Hivatal jóváhagyja.
 
@@ -16,5 +16,6 @@
 
 (6) A mentességi kérelem elutasítása esetén az adatszolgáltató köteles az időközben esedékessé vált adatszolgáltatási kötelezettségét 15 napon belül pótolni.
 
-[^2]: A 2. § (3a) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be.
-[^3]: A 2. § (3b) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be.
+[^2]: A 2. § (3) bekezdése a 15/2018. (XII. 21.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (3a) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be.
+[^4]: A 2. § (3b) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be.

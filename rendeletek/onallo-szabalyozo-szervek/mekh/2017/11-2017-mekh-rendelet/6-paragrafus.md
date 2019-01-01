@@ -20,12 +20,12 @@ h) a Hivatal által kiadott, Garantált Szolgáltatások végzésére vonatkozó
 
 i) földgáz egyetemes szolgáltatói engedélyes a 25. melléklet,
 
-j)[^4] szervezett földgázpiaci engedélyes a 26. melléklet,
+j)[^6] szervezett földgázpiaci engedélyes a 26. melléklet,
 
-k)[^5] a 67/2016. (XII. 29.) NFM rendelet 1. mellékletében megnevezett volt közüzemi nagykereskedő a 22., 23. és a 33. melléklet,
+k)[^7] a 67/2016. (XII. 29.) NFM rendelet 1. mellékletében megnevezett volt közüzemi nagykereskedő a 22., 23. és a 33. melléklet,
 
-l)[^6] a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 136. § (1) bekezdésében és a 67/2016. (XII. 29.) NFM rendelet 1. mellékletében meghatározott földgáz egyetemes szolgáltató és földgázkereskedő a 22., 23., 24., 25., 34. és 35. melléklet
+l)[^8] a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet 136. § (1) bekezdésében és a 67/2016. (XII. 29.) NFM rendelet 1. mellékletében meghatározott földgáz egyetemes szolgáltató és földgázkereskedő a 22., 23., 24., 25., 34. és 35. melléklet
 
-[^4]: A 6. § j) pontja a 12/2017. (XI. 6.) MEKH rendelet 3. §-ával megállapított szöveg.
-[^5]: A 6. § k) pontját a 12/2017. (XI. 6.) MEKH rendelet 3. §-a iktatta be.
-[^6]: A 6. § l) pontját a 12/2017. (XI. 6.) MEKH rendelet 3. §-a iktatta be, szövege a 17/2017. (XII. 21.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^6]: A 6. § j) pontja a 12/2017. (XI. 6.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^7]: A 6. § k) pontját a 12/2017. (XI. 6.) MEKH rendelet 3. §-a iktatta be.
+[^8]: A 6. § l) pontját a 12/2017. (XI. 6.) MEKH rendelet 3. §-a iktatta be, szövege a 17/2017. (XII. 21.) MEKH rendelet 1. §-ával megállapított szöveg.

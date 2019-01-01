@@ -1,3 +1,3 @@
-1. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^7]
+1. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^11]
 
-[^7]: Az 1. melléklet a 9/2018. (IX. 28.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 1. melléklet a 15/2018. (XII. 21.) MEKH rendelet 4. § (1) bekezdésével megállapított szöveg.
