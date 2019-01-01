@@ -1,6 +1,6 @@
-## 12. §[^9]
+## 12. §[^11]
 
-1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^10]
+1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^12]
 
 ## A települési szennyvízelvezetési agglomeráció lehatárolásának szempontjai és módszertana
 
@@ -66,7 +66,7 @@ d) a vízfolyás természetes medre, vízjárása és élővilága stabilitásá
 
 a lehető legkisebb legyen.
 
-4.6. A tisztított szennyvíz újrahasznosításának vizsgálatát az Irányelv 12. cikke fogalmazza meg. A tisztított szennyvizet, ha csak lehet, ismét fel kell használni. A tisztított szennyvíz időszakos hasznosítása megengedett, a hasznosítási időszakon kívül a tisztított szennyvizet a befogadóba kell vezetni a 4.5. pontban meghatározott követelményeknek eleget téve.
+4.6. A tisztított szennyvíz újrahasznosításának vizsgálatát az Irányelv 12. cikke fogalmazza meg. A tisztított szennyvizet, ha csak lehet, ismét fel kell használni. A tisztított szennyvíz időszakos hasznosítása megengedett, a hasznosítási időszakon kívül a tisztított szennyvíz befogadóba vezetéséről vagy – a külön jogszabályban meghatározott engedélyezési feltételek teljesülése esetén – elszikkasztásáról gondoskodni kell a 4.5. pontban meghatározott követelményeknek eleget téve.
 
 5. Műszaki, gazdasági szempontok és követelmények
 
@@ -130,15 +130,15 @@ a) a méretezéseknél elsősorban a tényleges kibocsátási értékeket kell f
 
 b) a szennyvíz-elvezetési agglomeráció LE-ben kifejezett névleges terhelése az azt alkotó települési szennyvízterhelésekből számított adatok összegzése útján nyerhető. Az egyes települések névleges terhelése az alábbi terhelésekből áll:
 
-– a helyben lakó népesség,
+ba) a helyben lakó népesség a KSH tárgyévi adata alapján,
 
-– egyéb népesség (üdülő stb.),
+bb) egyéb népesség (üdülő stb.),
 
-– az Irányelv 11. cikkében szereplő ipari kibocsátások,
+bc) az Irányelv 11. cikkében szereplő ipari kibocsátások,
 
-– vállalkozásokból és gazdasági tevékenységekből (beleértve a kis- és középvállalkozásokat) származó, olyan ipari szennyvíz, amelyet a szennyvíztörzshálózatba vagy települési szennyvíztisztító telepre bocsátanak ki, vagy oda tervezik kibocsátani,
+bd) vállalkozásokból és gazdasági tevékenységekből (beleértve a kis- és középvállalkozásokat) származó, olyan ipari szennyvíz, amelyet a szennyvíztörzshálózatba vagy települési szennyvíztisztító telepre bocsátanak ki, vagy oda tervezik kibocsátani,
 
-– az összes fennmaradó települési szennyvíz és az egyedi szennyvíztisztító berendezésből származó szennyvíziszap függetlenül attól, hogy összegyűjtésre kerül, vagy nem, de az agglomerációban keletkezik, és amely nem foglalja magában az olyan ipari szennyvíz okozta terhelést, amelynek tisztítása külön történik, és a tisztított szennyvizet más szennyvízzel történő keveredés nélkül bocsátják a befogadóba.
+be) az összes fennmaradó települési szennyvíz függetlenül attól, hogy összegyűjtésre kerül, vagy sem, de az agglomerációban keletkezik, és amely nem foglalja magában az olyan ipari szennyvíz okozta terhelést, amelynek tisztítása külön történik, és a tisztított szennyvizet más szennyvízzel történő keveredés nélkül bocsátják a befogadóba.
 
 5.7. Összehasonlító gazdasági szempontok:
 
@@ -162,5 +162,5 @@ de) az üzemi tapasztalatokról, a környezetre gyakorolt hatások elemzésérő
 
 5.8. Az előnyök és hátrányok értékelésénél az 5.3–5.7. pontokban leírt feltételek teljesülése a meghatározó.
 
-[^9]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: Az 1. melléklet a 195/2017. (VII. 10.) Korm. rendelet 14. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 1. melléklet a 195/2017. (VII. 10.) Korm. rendelet 14. § (1) bekezdése, a 288/2018. (XII. 21.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.

@@ -256,7 +256,7 @@
 
 | 113. | egyéb forrás megnevezése |  |
 
-3. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^12]
+3. melléklet a 379/2015. (XII. 8.) Korm. rendelethez[^14]
 
 Tájékoztató jegyzék a települések szennyvízelvezetéséről, a szennyvíztisztításáról, az egyedi zárt szennyvíztárolókról és az egyedi szennyvíztisztító létesítményekről
 
@@ -288,4 +288,4 @@ Tárgyév: ………
 
 (1) Közintézményi létesítmény: óvoda, iskola, idősek otthona, egyéb stb.
 
-[^12]: A 3. melléklet a 195/2017. (VII. 10.) Korm. rendelet 15. § e)–g) pontja szerint módosított szöveg.
+[^14]: A 3. melléklet a 195/2017. (VII. 10.) Korm. rendelet 15. § e)–g) pontja szerint módosított szöveg.

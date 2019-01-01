@@ -1,3 +1,4 @@
-## 10/A. §[^8] E rendeletnek az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 195/2017. (VII. 10.) Korm. rendelettel megállapított 6. §-át és 2. mellékletét első alkalommal a 2017. évről történő adatszolgáltatás során kell alkalmazni.
+## 10/B. §[^8] E rendeletnek a vízgazdálkodási tárgyú kormányrendeletek módosításáról szóló 288/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 5. §-át, 6. §-át és 1. mellékletét a Módr1. hatálybalépésekor[^9] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^8]: A 10/A. §-t a 195/2017. (VII. 10.) Korm. rendelet 13. §-a iktatta be.
+[^8]: A 10/B. §-t a 288/2018. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^9]: A hatálybalépés napja 2018. december 26.
