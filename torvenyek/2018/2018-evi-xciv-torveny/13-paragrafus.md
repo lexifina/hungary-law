@@ -1,0 +1,3 @@
+13. § Az Flt. „Fogalommeghatározások és záró rendelkezések” című alcíme a következő 59/G. §-sal egészül ki:
+
+„59/G. § E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2018. évi XCIV. törvénnyel (a továbbiakban: 2018. évi XCIV. tv.) megállapított 21. § (4) és (5) bekezdését, valamint 41/A. § (5) bekezdését a 2018. évi XCIV. tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”

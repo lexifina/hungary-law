@@ -1,0 +1,3 @@
+30. § Az Mvt. 82/A. §-a helyébe a következő rendelkezés lép:
+
+„82/A. § Az Mt. 295. § (1) bekezdés e) pontjában meghatározottak betartása, továbbá a munkavédelemre vonatkozó szabályok betartásának ellenőrzése céljából tartott vizsgálatok tapasztalatairól, valamint a munkabalesetek alakulásáról a munkavédelmi hatóság félévente beszámolót készít a foglalkoztatáspolitikáért felelős miniszter számára. A beszámolót a miniszter a tárgyidőszakot követő 60 napon belül elektronikusan közzéteszi. A beszámolóban foglalt megállapításokra a 14. § (1) bekezdés e) pontjában meghatározott jelentésnek ki kell terjednie.”
