@@ -62,6 +62,9 @@ l) a Forster Központ által ellátott egyéb, a (2)–(4) bekezdésben nem neve
 
 (4a)[^22] A (4) bekezdéstől eltérően a Nemzeti Kastélyprogram és a Nemzeti Várprogram vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Nemzeti Örökségvédelmi Fejlesztési Nkft.) látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
 
+(4b)[^23] A (4) bekezdéstől eltérően a 3. melléklet szerinti ingatlanok vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nkft. látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
+
 [^20]: A 34. § (2) bekezdés f) pontját a 317/2017. (XI. 7.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^21]: A 34. § (3a) bekezdését a 317/2017. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
 [^22]: A 34. § (4a) bekezdését a 270/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 34. § (4b) bekezdését a 250/2018. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
