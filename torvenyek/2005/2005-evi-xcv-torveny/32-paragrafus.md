@@ -90,6 +90,8 @@ x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportoka
 
 y) az engedélyezés előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
 
+z) a gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre, azok kezelésére vonatkozó részletszabályokat, illetve a biztonsági elemek kezelésére jogosultak körét
+
 rendeletben szabályozza.
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg

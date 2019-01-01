@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-95-00-00
 | 2017-07-01 | 2017. évi LIX. törvény | 2005-95-00-00.35 |
 | 2018-01-01 | 2017. évi L. törvény | 2005-95-00-00.36 |
 | 2018-01-18 | 2017. évi CLXXXVIII. törvény | 2005-95-00-00.37 |
+| 2019-01-01 | 2018. évi CXVIII. törvény | 2005-95-00-00.38 |
