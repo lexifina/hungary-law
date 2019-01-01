@@ -1,27 +1,27 @@
-6. § (1)[^37] A 2–4. §-ban meghatározott támogatás – kérelemre – nyújtható.
+6. § (1)[^43] A 2–4. §-ban meghatározott támogatás – kérelemre – nyújtható.
 
-(2)[^38] A 2. §-ban szabályozott támogatás iránti kérelemnek tartalmaznia kell a foglalkoztatni kívánt álláskereső nevét, lakóhelyét, tartózkodási helyét, munkakörét, foglalkoztatásának tervezett helyét, a munkaadó költségeinek megjelölését, az igényelt támogatás mértékét, időtartamát, a munkaadó nyilatkozatát arról, hogy a kérelem benyújtását megelőző hat hónapon belül a támogatással érintett munkavállaló munkaköréhez hasonló munkakörben foglalkoztatott munkavállaló munkaviszonyát a működésével összefüggő okból nem szüntette meg.
+(2)[^44] A 2. §-ban szabályozott támogatás iránti kérelemnek tartalmaznia kell a foglalkoztatni kívánt álláskereső nevét, lakóhelyét, tartózkodási helyét, munkakörét, foglalkoztatásának tervezett helyét, a munkaadó költségeinek megjelölését, az igényelt támogatás mértékét, időtartamát, a munkaadó nyilatkozatát arról, hogy a kérelem benyújtását megelőző hat hónapon belül a támogatással érintett munkavállaló munkaköréhez hasonló munkakörben foglalkoztatott munkavállaló munkaviszonyát a működésével összefüggő okból nem szüntette meg.
 
 (3) A 3. §-ban szabályozott támogatás iránti kérelemnek tartalmaznia kell a csoportos személyszállítással érintett munkavállalók nevét, lakóhelyét (tartózkodási helyét), munkakörét, foglalkoztatásának helyét, a munkaadó költségeinek megjelölését, valamint az igényelt támogatás mértékét és időtartamát.
 
-(4)[^39] A 4. §-ban meghatározott támogatás iránti kérelemnek tartalmaznia kell a kérelmező nevét, születési helyét és idejét, lakóhelyét, tartózkodási helyét, valamint az utolsó munkavégzési helyének megnevezését. A kérelemhez
+(4)[^45] A 4. §-ban meghatározott támogatás iránti kérelemnek tartalmaznia kell a kérelmező nevét, születési helyét és idejét, lakóhelyét, tartózkodási helyét, valamint az utolsó munkavégzési helyének megnevezését. A kérelemhez
 
-a)[^40] a 4. § (6) bekezdés a) pont szerinti esetben legkésőbb a kérelem benyújtását követő 10 napon belül a kérelmezőnek csatolnia kell a 4. § (4) bekezdés b) és c) pontja szerinti dokumentumokat,
+a)[^46] a 4. § (6) bekezdés a) pont szerinti esetben legkésőbb a kérelem benyújtását követő 10 napon belül a kérelmezőnek csatolnia kell a 4. § (4) bekezdés b) és c) pontja szerinti dokumentumokat,
 
-b)[^41] a 4. § (6) bekezdés b) pont szerinti esetben a kérelmezőnek a kérelem benyújtásával egyidejűleg csatolnia kell 4. § (4) bekezdés b) pontja szerinti dokumentumot, valamint legkésőbb a kérelem benyújtását követő 10 napon belül csatolnia kell 4. § (4) bekezdés c) pontja szerinti dokumentumot
+b)[^47] a 4. § (6) bekezdés b) pont szerinti esetben a kérelmezőnek a kérelem benyújtásával egyidejűleg csatolnia kell 4. § (4) bekezdés b) pontja szerinti dokumentumot, valamint legkésőbb a kérelem benyújtását követő 10 napon belül csatolnia kell 4. § (4) bekezdés c) pontja szerinti dokumentumot
 
 ## továbbá a támogatás feltételeire vonatkozó nyilatkozatait.
 
 (5) Ha a 2. § alapján a munkavállaló is kéri az őt terhelő utazási költség megtérítését, erre vonatkozó kérelmét a munkaadó kérelmével együtt kell benyújtani és elbírálni.
 
-(6)[^42] A 2. § a) pontjának, valamint a 3. § (4) bekezdésének alkalmazásában megváltozott munkaképességű személyen a foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet 27. § (5) bekezdésében meghatározott személyt kell érteni.
+(6)[^48] A 2. § a) pontjának, valamint a 3. § (4) bekezdésének alkalmazásában megváltozott munkaképességű személyen a foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet 27. § (5) bekezdésében meghatározott személyt kell érteni.
 
-(7)[^43] A 4. §-ban szabályozott támogatás iránti kérelemhez csatolni kell a munkaszerződést, amelynek a kötelező tartalmi elemeken kívül tartalmaznia kell a munkavégzés helyét és a foglalkoztatni kívánt álláskereső lakóhelyét és tartózkodási helyét. A tartózkodási helynek meg kell egyeznie a foglalkoztatás helyével vagy a 4. § (1) bekezdés c) pontjában meghatározott feltételeknek megfelelő településsel.
+(7)[^49] A 4. §-ban szabályozott támogatás iránti kérelemhez csatolni kell a munkaszerződést, amelynek a kötelező tartalmi elemeken kívül tartalmaznia kell a munkavégzés helyét és a foglalkoztatni kívánt álláskereső lakóhelyét és tartózkodási helyét. A tartózkodási helynek meg kell egyeznie a foglalkoztatás helyével vagy a 4. § (1) bekezdés c) pontjában meghatározott feltételeknek megfelelő településsel.
 
-[^37]: A 6. § (1) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^38]: A 6. § (2) bekezdése a 225/2005. (X. 13.) Korm. rendelet 12. § b) pontja, a 291/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^39]: A 6. § (4) bekezdését a 291/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 272/2012. (IX. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 167/2013. (V. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^40]: A 6. § (4) bekezdés a) pontja a 441/2015. (XII. 28.) Korm. rendelet 30. §-a szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^41]: A 6. § (4) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 30. §-a szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^42]: A 6. § (6) bekezdése a 225/2005. (X. 13.) Korm. rendelet 8. §-ával megállapított, a 89/2014. (III. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
-[^43]: A 6. § (7) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^43]: A 6. § (1) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^44]: A 6. § (2) bekezdése a 225/2005. (X. 13.) Korm. rendelet 12. § b) pontja, a 291/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^45]: A 6. § (4) bekezdését a 291/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 272/2012. (IX. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 167/2013. (V. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^46]: A 6. § (4) bekezdés a) pontja a 441/2015. (XII. 28.) Korm. rendelet 30. §-a szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^47]: A 6. § (4) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 30. §-a szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^48]: A 6. § (6) bekezdése a 225/2005. (X. 13.) Korm. rendelet 8. §-ával megállapított, a 89/2014. (III. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^49]: A 6. § (7) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 3. § (3) bekezdése iktatta be.
