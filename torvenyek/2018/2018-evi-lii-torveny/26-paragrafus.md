@@ -1,0 +1,1 @@
+26. § Az 1. § (4) bekezdés c) pontja szerinti kamatkedvezményből származó jövedelem után fizetendő adót évente, az adóévet követő év január 12-éig kell megfizetni. Ha a kamatkedvezmény év közben megszűnik, az adót a megszűnés napját követő hónap 12-éig kell megfizetni.

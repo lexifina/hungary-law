@@ -1,0 +1,9 @@
+## 8. Az adóalap megállapításának különös szabályai
+
+8. § (1) A közkereseti társaságot, a betéti társaságot, a korlátolt felelősségű társaságot, a közös vállalatot, az egyesülést, az európai gazdasági egyesülést, a szabadalmi ügyvivői irodát, a szabadalmi ügyvivői társaságot, az ügyvédi irodát, a közjegyzői irodát, a végrehajtói irodát, az egyéni céget a tagjára tekintettel havonta terhelő adó alapja legalább a minimálbér 112,5 százaléka. Az adó alapja legalább az adófizetési kötelezettséget eredményező jogviszony fennállása minden napjára számítva a minimálbér 112,5 százalékának harmincad része, ha a jogviszony nem áll fenn a hónap minden napján.
+
+(2) Az egyházi jogi személyt az egyházi szolgálati viszonyban álló egyházi személyre tekintettel havonta terhelő adó alapja a minimálbér. Az adó alapja az adófizetési kötelezettséget eredményező jogviszony fennállása minden napjára számítva a minimálbér harmincad része, ha a jogviszony nem áll fenn a hónap minden napján.
+
+(3) Az egyéni vállalkozót saját maga után havonta terhelő adó alapja legalább a minimálbér 112,5 százaléka. Az adó alapja az egyéni vállalkozói jogállás fennállása minden napjára számítva legalább a minimálbér 112,5 százalékának harmincad része, ha a természetes személy e jogállással nem rendelkezik a hónap minden napján.
+
+(4) Az (1)–(3) bekezdés alkalmazásakor az egy hónapra fizetendő adó alapjának megállapításkor a kifizető, valamint az egyéni vállalkozó nem veszi számításba a hónapnak azt a napját, amelyre a kifizető a tagjával fennálló jogviszonya, egyéni vállalkozói jogállására tekintettel e fejezet külön rendelkezése alapján mentesül az adófizetés különös szabályainak alkalmazása alól. Ilyen esetben az adó alapja a hónap többi napjára számítva egyházi jogi személy esetében a minimálbér harmincad része, más kifizető és egyéni vállalkozó esetében legalább minimálbér 112,5 százalékának harmincad része.

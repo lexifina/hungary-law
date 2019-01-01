@@ -1,0 +1,1 @@
+32. § A tanulói, hallgatói jogviszony szünetelésének időtartama alatt azt az időtartamot kell érteni, amíg a tanulói, hallgatói jogviszony szünetel, valamint a szünetelést közvetlenül követő 3 hónapot.
