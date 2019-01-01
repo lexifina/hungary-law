@@ -28,4 +28,28 @@ b) a szabálysértési eljárás jogerős befejezéséig, illetve a büntetőelj
 
 (4) A polgárőr, illetve az ifjú polgárőr köteles a polgárőr egyesületnek haladéktalanul jelezni, ha vele szemben szabálysértési vagy büntetőeljárás indult. A polgárőr egyesület e tényről haladéktalanul tájékoztatja az Országos Polgárőr Szövetséget, amely beszerzi a szabálysértési eljárásban az eljáró hatóság vagy bíróság, illetve büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság nyilatkozatát arra vonatkozóan, hogy a szabálysértési eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig indokoltnak tartja-e a polgárőr, illetve az ifjú polgárőr igazolványának bevonását.
 
+(4a) A polgárőr szervezetnél nem lehet vezető tisztségviselő,
+
+a) aki büntetőeljárás hatálya alatt áll, vagy
+
+b) akivel szemben a (4b) bekezdésben meghatározott mentesítés időtartama még nem telt el.
+
+(4b) Az a büntetett előéletű személy, akivel szemben
+
+a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
+
+aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+
+ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+
+b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltáig,
+
+c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett
+
+ca) szabadságvesztést szabtak ki, a mentesítés beálltától számított négy évig,
+
+cb) pénzbüntetést szabtak ki, a mentesítés beálltától számított egy évig
+
+nem lehet polgárőr szervezetnél vezető tisztségviselő.
+
 (5) Az Országos Polgárőr Szövetség a honlapján közzéteszi az érvényes, a bevont és a visszavont polgárőr igazolványok, illetve az ifjú polgárőr igazolványok egyedi azonosítóját, valamint a polgárőr egyesület működési területének megjelölését, amelynek tagja a polgárőr igazolvány, illetve az ifjú polgárőr igazolvány birtokosa.
