@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-54-20-0
 | --- | --- | --- |
 | 2017-01-01 | 2016-54-20-0A.1 | 54/2016. (XII. 22.) BM rendelet |
 | 2018-01-01 | 2016-54-20-0A.2 | 40/2017. (XII. 29.) BM rendelet |
+| 2019-01-01 | 2016-54-20-0A.3 | 34/2018. (XII. 20.) BM rendelet |
