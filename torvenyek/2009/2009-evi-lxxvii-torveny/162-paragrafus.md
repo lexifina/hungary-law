@@ -1,7 +1,0 @@
-## TIZENHARMADIK RÉSZ
-
-## A SZÖVETKEZETEKRŐL SZÓLÓ TÖRVÉNYT ÉRINTŐ MÓDOSÍTÁSOK
-
-## XXV. Fejezet
-
-162. §

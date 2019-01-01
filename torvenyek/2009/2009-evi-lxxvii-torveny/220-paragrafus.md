@@ -1,1 +1,0 @@
-220. § E törvény az Art. 31. § (5) bekezdését, valamint az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény 11. § (3) bekezdése a) pontját módosító rendelkezéseit a 2010. január 1-jét megelőző időszakra vonatkozó adómegállapítás során alkalmazni kell.

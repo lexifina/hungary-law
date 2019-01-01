@@ -1,3 +1,0 @@
-227. § (1) Az Mpt. 24. § (1) és (3) bekezdésének e törvénnyel megállapított rendelkezéseit az e törvény hatálybalépése után benyújtott átlépési nyilatkozatok tekintetében kell alkalmazni. A (3) bekezdés alkalmazása során az e törvény hatálybalépését megelőzően kezdeményezett átlépéseket nem kell figyelembe venni.
-
-(2) Az Mpt. 24. §-ának e törvénnyel megállapított (10)–(11) bekezdései szerint a Magyar Államnak átutalt követelések értékét a központi költségvetés XLII. A központi költségvetés fő bevételei fejezet, 4. Egyéb költségvetési bevételek cím, 1. Vegyes bevételek alcímén önálló jogcím-csoporton kell elszámolni költségvetési bevételként.

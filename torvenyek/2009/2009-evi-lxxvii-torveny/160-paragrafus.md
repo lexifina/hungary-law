@@ -1,7 +1,0 @@
-## TIZENEGYEDIK RÉSZ
-
-## AZ ÁLLAMI VAGYONRÓL SZÓLÓ TÖRVÉNYT ÉRINTŐ MÓDOSÍTÁS
-
-## XXIII. Fejezet
-
-160. §

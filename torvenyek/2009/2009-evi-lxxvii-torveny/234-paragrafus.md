@@ -1,3 +1,0 @@
-234. § (1) Az Adómód. tv.-nek az e törvény 165. és 185. §-ával megállapított rendelkezéseit azokban az esetekben is alkalmazni kell, amelyekben a lakóingatlan-értékesítés tekintetében az Áfa tv. 84. §-a szerint megállapított időpont 2009. július 1. és az e törvény hatálybalépését megelőző nap közötti időszakra esik. Abban az esetben, ha az előzőekben meghatározott időszakon belül a lakóingatlan-értékesítésről számla kibocsátása is történt, a lakóingatlan értékesítője köteles a kibocsátott számla adattartalmának megfelelő módosításáról gondoskodni.
-
-(2) Abban az esetben, ha az (1) bekezdés alkalmazása egyúttal az Art. szerint önellenőrzést is igényel, az önellenőrzés pótlékmentesen végezhető el.

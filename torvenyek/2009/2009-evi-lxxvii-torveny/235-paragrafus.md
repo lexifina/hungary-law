@@ -1,1 +1,0 @@
-235. § E törvénynek a – Gyftv. 36. §-a (7) bekezdésére vonatkozó módosító, valamint (8) és (9) bekezdését megállapító – 164. §-a első ízben a 2010. évre vonatkozó befizetési kötelezettség teljesítésére vonatkozóan, a 2011. évi befizetési kötelezettségek teljesítésekor érvényesítendő engedményre alkalmazhatók.

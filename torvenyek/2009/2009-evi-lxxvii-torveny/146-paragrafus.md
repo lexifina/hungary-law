@@ -1,7 +1,0 @@
-## HETEDIK RÉSZ
-
-## A SZÁMVITELT ÉRINTŐ MÓDOSÍTÁSOK
-
-## XVIII. Fejezet
-
-146–153. §

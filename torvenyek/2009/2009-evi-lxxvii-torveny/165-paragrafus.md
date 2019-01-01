@@ -1,7 +1,0 @@
-## TIZENHATODIK RÉSZ
-
-## EGYÉB MÓDOSÍTÁSOK
-
-## XXVIII. Fejezet
-
-165. §
