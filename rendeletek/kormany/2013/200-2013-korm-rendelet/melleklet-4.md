@@ -22,6 +22,8 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 3. | Atlétika | junior (U20) | junior (U20) |  |
 
+| 3a. | Baseball/Softball | junior (U18) | junior (U22) |  |
+
 | 4. | Birkózás | U23 | junior (18–20 évesek) | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
 
 | 5. | Kerékpár / BMX | junior (17–18 évesek) | junior (17–18 évesek) |  |
@@ -32,9 +34,13 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 8. | Golf | nincs | nincs |  |
 
+| 8a. | Gördeszka | junior (U19) | junior (U19) |  |
+
 | 9. | Gumiasztal | junior (13–17 évesek) | nincs |  |
 
 | 10. | Gyeplabda | U16 | U21 |  |
+
+| 10a. | Hullámszörf | junior (14–18 évesek) | junior (14–18 évesek) |  |
 
 | 11. | Íjászat | junior (U20) | junior (U20) |  |
 
@@ -43,6 +49,8 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 | 13. | Judo | U23 | junior (U21) | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
 
 | 14. | Kajak-Kenu | ifjúsági | ifjúsági |  |
+
+| 14a. | Karate | U21 (18–21 évesek) | U21 (18–21 évesek) | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
 
 | 15. | Kerékpár / Pálya és Országúti | U19 kategória | U19 kategória |  |
 
@@ -96,6 +104,8 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 40. | Sportlövészet | junior (14–20 évesek) | junior (14–20 évesek) |  |
 
+| 40a. | Sportmászás | ifjúsági B (14–15 évesek) | ifjúsági A (16–17 évesek) |  |
+
 | 41. | Súlyemelés | junior (15–20 évesek) | junior (15–20 évesek) | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
 
 | 42. | Szánkó és Bob | nincs | junior (19–23 évesek) |  |
@@ -122,4 +132,4 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 53. | Vízilabda | U19 | U20 |  |
 
-[^38]: A 4. mellékletet a 234/2016. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^38]: A 4. mellékletet a 234/2016. (VII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 279/2018. (XII. 21.) Korm. rendelet 12. §-a szerint módosított szöveg.
