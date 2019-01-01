@@ -15,3 +15,5 @@ a (3)–(8) bekezdésben foglaltak szerint.
 (7) A közreműködő szervezetek névjegyzékéből az adóhatóság törli azt a szervezet, amely az ajánlattételi eljárásokban ismételten elmulasztotta az árajánlat benyújtását, vagy a kijelölés ellenére a végzésben foglaltakat – neki felróható okból – nem teljesítette. Az ilyen okból a névjegyzékből törlésre került szervezet a törlés napjától számított 12 hónapon belül a névjegyzékbe nem vehető fel újra.
 
 (8) A legmegfelelőbb ajánlatot tevő szervezet végzésben meghatározott közreműködésének módját a végrehajtást foganatosító adóhatóság felügyeli az eljárás során.
+
+(9) Az (1) és (6) bekezdésben foglaltak szerint kiválasztott közreműködő szervezet végzi el a meghatározott cselekményt az adott cselekményre vonatkozó jogszabályok és szakmai előírások betartásával, ideértve az esetleg szükséges engedélyek beszerzését vagy bejelentések megtételét is.

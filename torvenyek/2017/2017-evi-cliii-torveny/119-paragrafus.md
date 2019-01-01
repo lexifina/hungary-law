@@ -1,6 +1,6 @@
 ## 56. Végrehajtás az általános közigazgatási rendtartás alapján átadott fizetési kötelezettségek esetén
 
-119. § (1) Az általános közigazgatási rendtartás szerinti behajtást kérő hatóság döntése kapcsán lefolytatandó végrehajtási eljárás során az 53. alcím szabályai szerint kell eljárni azzal, hogy a megkeresés időpontjára és a tartozás összegére vonatkozó előírás nem alkalmazható.
+119. § (1) Az általános közigazgatási rendtartás szerinti behajtást kérő hatóság döntése kapcsán lefolytatandó végrehajtási eljárás során az 53. alcím szabályai szerint kell eljárni azzal, hogy a megkeresés időpontjára, és a tartozás összegére vonatkozó előírás, valamint a hatásköri szabályozás nem alkalmazható.
 
 (2) Az általános közigazgatási rendtartás alapján megküldött megkereséshez csatolni kell azon döntést, amelynek végrehajtását elrendelte a hatóság.
 

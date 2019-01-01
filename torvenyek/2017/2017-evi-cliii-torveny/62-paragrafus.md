@@ -1,4 +1,4 @@
-62. § Az árverési hirdetményt – az Air. kézbesítésre vonatkozó rendelkezéseire figyelemmel – kézbesíteni kell:
+62. § Az árverési hirdetményt – az Air. adóhatósági iratok közlésére vonatkozó rendelkezéseire figyelemmel – kézbesíteni kell:
 
 a) az adósnak
 

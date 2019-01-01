@@ -1,0 +1,1 @@
+125/C. § A vagyonelkobzás végrehajtása során az állami adó- és vámhatóság a Vht. 210/C–210/G. §-a szerint jár el azzal az eltéréssel, hogy ha a bíróság a vagyonelkobzást pénzösszegben rendelte el, annak végrehajtását az I–XI. Fejezet szerint kell foganatosítani.

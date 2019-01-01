@@ -1,4 +1,4 @@
-74. § Az árverési hirdetményt az Air. kézbesítésre vonatkozó rendelkezéseire figyelemmel a 62. § a)–b) pontjában felsorolt személy mellett kézbesíteni kell
+74. § Az árverési hirdetményt az Air. adóhatósági iratok közlésére vonatkozó rendelkezéseire figyelemmel a 62. § a)–b) pontjában felsorolt személy mellett kézbesíteni kell
 
 a) azoknak, akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van,
 

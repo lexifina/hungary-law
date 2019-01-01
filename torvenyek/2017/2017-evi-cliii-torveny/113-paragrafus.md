@@ -1,4 +1,4 @@
-113. § (1) Az adók módjára behajtott összeget az adóhatóság átutalja a végrehajtást kérő által megjelölt számlaszámra. Ha a behajtott összeg a fizetésre kötelezettet terhelő tartozások mindegyikére nem nyújt fedezetet, az adóhatóság a bevételt a 13. §-ban és a 14. §-ban foglalt felosztási szabály alapján számolja el, és utalja át a megkereső hatóságnak.
+113. § (1) Az adók módjára behajtott összeget az adóhatóság átutalja a behajtást kérő által megjelölt számlaszámra. Ha a behajtott összeg a fizetésre kötelezettet terhelő tartozások mindegyikére nem nyújt fedezetet, az adóhatóság a bevételt a 13. §-ban és a 14. §-ban foglalt felosztási szabály alapján számolja el, és utalja át a megkereső hatóságnak.
 
 (2) Az adóhatóság a végrehajtás eredménytelensége esetén a kötelezettséget nem minősíti behajthatatlannak, a behajtási eljárást megszünteti. Az eredménytelenség miatt megszüntetett végrehajtási eljárás alapjául szolgáló adók módjára behajtandó köztartozás behajtása az eljárás megszüntetésétől számított egy év elteltével ismételten kezdeményezhető.
 

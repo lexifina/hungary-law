@@ -8,7 +8,7 @@
 
 2. adós: az adózó, az adó megfizetésére kötelezett személy, továbbá a pénzfizetésre vagy a meghatározott cselekmény végrehajtására, tűrésére vagy abbahagyására kötelezett személy;
 
-3. behajtást kérő: az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, vagy a tartozás jogosultja;
+3. behajtást kérő: az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv vagy a tartozás jogosultja, illetve a 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresések esetében jogszabály alapján végrehajtás kezdeményezésére jogosult szerv vagy személy, ideértve a zár alá vétel tekintetében a megkeresőt is;
 
 4. behajtást kérő hatóság: az általános közigazgatási rendtartáson alapuló végrehajtást kezdeményező hatóság;
 
@@ -49,6 +49,8 @@ a) a lakás céljára létesített és az ingatlan-nyilvántartásban lakóház 
 b) a tanya és
 
 c) az ingatlan-nyilvántartásban üdülőként nyilvántartott ingatlan, ha annak címe megegyezik az adós lakóhely igazolására szolgáló személyazonosító okmányában megjelölt címmel, és nem áll az adós tulajdonában olyan más ingatlan, amely lakás céljára alkalmas lenne;
+
+16a. minimálár: az árverésre kerülő ingóság vagy ingatlan azon legalacsonyabb vételára, amelyen az ingóságra vagy ingatlanra érvényes vételi ajánlat tehető;
 
 17. nettó tartozás: a tartozások összegének az adóhatóságnál nyilvántartott túlfizetés összegével csökkentett összege, amelynek számítása során túlfizetésként nem vehető figyelembe a letétként nyilvántartott összeg;
 

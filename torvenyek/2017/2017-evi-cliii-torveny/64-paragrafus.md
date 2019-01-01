@@ -12,4 +12,4 @@ d) a c) pontban felsorolt személyek közeli hozzátartozója és élettársa, v
 
 e) az árverési vételár megfizetését elmulasztó árverési vevő az ingóárverés további szakaszában.
 
-(3) Nem minősül kizártnak az árverezésből a (2) bekezdés c) és d) pontja szerinti személy, ha a dolog megszerzésére végrehajtást kérői vagy tulajdonostársi jogállása miatt van jogosultsága, vagy ha törvény számára elővásárlási jogot biztosít.
+(3) Nem minősül kizártnak az árverezésből a (2) bekezdés c) és d) pontja szerinti személy, ha a dolog megszerzésére behajtást kérőként, illetve behajtást kérő hatóságként vagy tulajdonostársi jogállása miatt van jogosultsága, vagy ha törvény számára elővásárlási jogot biztosít.

@@ -4,7 +4,7 @@ a) az adós, valamint az árverést lefolytató adóhatóság, továbbá megkere
 
 b) az árverés helyét és idejét,
 
-c) az árverésre kerülő ingóságok megnevezését és becsértékét, azt a legkisebb vételárat, amelyen az ingóság értékesíthető (a továbbiakban: minimálár),
+c) az árverésre kerülő ingóságok megnevezését és becsértékét, valamint a minimálárat,
 
 d) azt, hogy az ingóságokat az árverés előtt hol és mikor lehet megtekinteni, és
 

@@ -1,6 +1,6 @@
 ## 11. A végrehajtás megszüntetése
 
-18. § Meg kell szüntetni a végrehajtási eljárást, ha
+18. § Végzéssel meg kell szüntetni a végrehajtási eljárást, ha
 
 a) az adós a tartozását maradéktalanul megfizette,
 
