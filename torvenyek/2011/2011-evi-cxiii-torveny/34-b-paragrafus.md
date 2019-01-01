@@ -1,0 +1,1 @@
+34/B. § A honvédelmi adatkezelés szervei – hatáskörüknek és illetékességüknek megfelelően – együttműködnek egymással a meghagyás, valamint a gazdasági és anyagi szolgáltatások teljesítésének tervezése, végrehajtásának irányítása, felügyelete és ellenőrzése, továbbá biztosításának előkészítése során.

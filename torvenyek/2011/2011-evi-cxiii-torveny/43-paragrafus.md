@@ -1,7 +1,3 @@
-## VII. Fejezet
-
-## A HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
-
 ## 28. A Honvédség függelmi viszonyai
 
 43. § (1) A katonák a szolgálatukat a Honvédségnél fennálló függelmi rendszerben teljesítik. E rendszerben az a katona, akinek joga és kötelessége más katonák tevékenységének irányítása, elöljáró vagy felettes, akire pedig ez a jogkör kiterjed, alárendelt.
@@ -14,4 +10,4 @@
 
 (5) Az olyan elöljáró, vagy felettes, aki csak a saját szakterületén van felruházva rendelkezési jogkörrel, szakmai elöljáró, vagy szakmai felettes, akikre vonatkozóan rendelkezési jogkörrel rendelkezik – állományviszonyuktól függetlenül – szakmai alárendeltek. A különböző vezetési szinteken a szakmai elöljáró gondoskodik az elöljárói döntéseknek megfelelő szakmai feladatok végrehajtásáról. A szakmai elöljáró, vagy szakmai felettes vezetői jogosultságait hatásköri szabály, és a szolgálati elöljáró állapítja meg.
 
-(6) A Honvédség irányítása és vezetése – a hadrend és az állománytáblák szerinti szervezeti alá-fölérendeltségi viszonyon, valamint a szolgálati elöljárók rendelkezésein alapuló – szolgálati út betartásával történik. A szolgálati út betartása – a jogszabályban meghatározott kivételektől eltekintve – valamennyi elöljáró, felettes és alárendelt részére kötelező.
+(6) A Honvédség vezetése – a hadrend és az állománytáblák szerinti szervezeti alá-fölérendeltségi viszonyon, valamint a szolgálati elöljárók rendelkezésein alapuló – szolgálati út betartásával történik. A szolgálati út betartása – a jogszabályban meghatározott kivételektől eltekintve – valamennyi elöljáró, felettes és alárendelt részére kötelező.

@@ -20,7 +20,7 @@ a) elrendeli a területi közigazgatás működéséhez szükséges ingók és i
 
 b) megállapítja a területi jellegű szolgáltatások és a szolgáltatásra kötelezettek körét, valamint elrendeli a szolgáltatás igénybevételét,
 
-c) elrendeli a Honvédség és a rendvédelmi szervek működéséhez szükséges ingók és ingatlanok igénybevételét.
+c) elrendeli a honvédelmi szervezetek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség működéséhez, és a honvédelemben közreműködő egyéb szervek honvédelmi feladatainak végrehajtásához szükséges szolgáltatások és ingatlanok igénybevételét.
 
 (5) A polgármester
 
@@ -36,6 +36,6 @@ a) megállapítja a helyi jellegű szolgáltatások és szolgáltatásra kötele
 
 b) nyilvántartást vezet, amelyben elősegíti a megyei védelmi bizottság elnökének, valamint a helyi védelmi bizottság illetékességi területén a polgármesterek hatáskörébe tartozó igénybevételi jog gyakorlását, koordinálja az igénybevétel helyi szintű végrehajtását.
 
-(6) A Honvédség és a rendvédelmi szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője, lőterek és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésére pedig a lőtér és gyakorlótér működtetéséért felelős parancsnok jogosult.
+(6) A honvédelmi szervezetek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a honvédelemben közreműködő egyéb szervek részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelésére a katonai igazgatás területi szervének vezetője jogosult.
 
 (7) Rendkívüli állapot vagy szükségállapot idején, ha az (1) bekezdés b) és c) pontja szerinti igénybevételi hatóság intézkedésének időigénye miatt a honvédségi érdekek sérelmének súlyos és közvetlen veszélye áll fenn, az illetékes katonai szervezet parancsnoka közvetlenül a szolgáltatásra kötelezettel közölt határozattal elrendelheti a gépjárművek, műszaki munkagépek, üzemanyag-technikai eszközök, valamint a szükséges üzemanyag igénybevételét.

@@ -1,5 +1,3 @@
-## 38. Az egyéb kényszerítő eszközök alkalmazása
-
 59. § (1) Katonával szemben az őr-, ügyeleti, rendészeti és fogolykísérő szolgálatot teljesítő katona, továbbá a szolgálati elöljáró, és parancsára alárendeltje egyéb kényszerítő eszközt is alkalmazhat.
 
 (2) Polgári személlyel szemben egyéb kényszerítő eszközt az őr-, ügyeleti, rendészeti és fogolykísérő szolgálatot teljesítő katona abban az esetben alkalmazhat, ha az őt megtámadja vagy szolgálati feladata teljesítésében egyéb módon akadályozza.
@@ -16,7 +14,7 @@ b) könnygázszóró készülék,
 
 c) elektromos sokkoló eszköz,
 
-d) gumibot,
+d) gumibot, tonfa,
 
 e) bilincs,
 

@@ -1,4 +1,4 @@
-58. § (1) A fegyverhasználatot – az 55. § (5) bekezdésének kivételével – meg kell előznie:
+58. § (1) A fegyverhasználatot – kivéve, ha a műveletek jellege nem teszi lehetővé – meg kell előznie:
 
 a) felszólításnak cselekvésre vagy a kifogásolt jogellenes magatartás abbahagyására,
 
@@ -28,7 +28,7 @@ e) magatehetetlen személlyel, valamint a konfliktusban részt nem vevő terhes 
 
 f) jogellenesen összegyűlt, vagy fegyvertelenül jogellenes magatartást tanúsító tömeg, katonai csoportosulás szétoszlatására,
 
-g) a Honvédség feladatairól szóló rendelkezések közül olyan esetben, amikor a feladatait fegyverhasználati jog nélkül hajtja végre.
+g) amikor a katona a Honvédség feladatait fegyverhasználati jog nélkül hajtja végre, kivéve a jogos védelem és végszükség esetét.
 
 (5) Tömegben, katonai csoportosulásban levő katona ellen fegyver használata kizárólag akkor jogszerű, ha vele szemben a fegyverhasználat feltételei fennállnak. A fegyverhasználatnak az egyes katona ellen kell irányulnia.
 

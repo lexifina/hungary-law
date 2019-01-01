@@ -16,6 +16,6 @@ b) hogy az ország meghatározott területére utazni, azon átutazni vagy onnan
 
 (4) Elrendelhető, hogy az ország meghatározott területét a lakosságnak a szükséges időtartamra el kell hagynia, egyben kijelölhető a kitelepített lakosság új tartózkodási helye. A lakosság elszállításáról a polgármester gondoskodik.
 
-(5) Korlátozni lehet a lakosság utcán vagy más nyilvános helyen való tartózkodását (a továbbiakban: kijárási tilalom). A kijárási tilalmat és annak időtartamát a rádió, a televízió, a sajtótermék és hirdetmény útján, valamint a helyben szokásos módon a lakosság tudomására kell hozni.
+(5) Korlátozni lehet a lakosság utcán vagy más nyilvános helyen való tartózkodását (a továbbiakban: kijárási tilalom). A kijárási tilalmat és annak időtartamát a rádió, a televízió, a kormányzati internetes oldalak, a sajtótermék és hirdetmény útján, valamint a helyben szokásos módon a lakosság tudomására kell hozni.
 
 (6) Közterületen tartandó rendezvény, nyilvános gyűlés a védelmi érdekek sérelme esetén megtiltható.

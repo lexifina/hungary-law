@@ -17,3 +17,5 @@ bc) katonai védelem szempontjából fontos létesítmények elhelyezésében, f
 meghatározott feladatokat,
 
 c) a hatáskörébe tartozó költségvetés keretében elkülönítetten tervezi a honvédelmi feladatok végrehajtásának költségeit.
+
+(3) A miniszter a vezetése alatt álló minisztériumban a honvédelmi feladatok végrehajtására honvédelemmel foglalkozó szervezeti egységet jelöl ki.

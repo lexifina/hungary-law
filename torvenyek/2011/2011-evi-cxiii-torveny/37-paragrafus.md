@@ -6,10 +6,18 @@
 
 (2) A 36. § (1) bekezdés h) pontja, valamint a 36. § (2) bekezdés a) pontja szerinti közreműködői feladatukat az abban résztvevő honvédségi szervezetek katonai függelmi rendszerben, saját parancsnokaik vezetésével hajtják végre.
 
-(3) A 36. § (1) bekezdés h) pontja szerinti közreműködői feladat során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét. A 36. § (1) bekezdés h) pontjában és a 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről a Honvéd Vezérkar főnöke, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottságát tájékoztatja.
+(3) A 36. § (1) bekezdés h) pontja szerinti közreműködői feladat során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét. A 36. § (1) bekezdés h) pontjában és a 36. § (2) bekezdésében meghatározott feladatok teljesítésére alárendelt szervezeteitől legfeljebb 200 fő 21 napi időtartamot meg nem haladó igénybevételéről a Magyar Honvédség parancsnoka, az ezt meghaladó létszámú vagy időtartamú igénybevételről a honvédelemért felelős miniszter dönt. A 3000 főt meghaladó igénybevételről a honvédelemért felelős miniszter – a döntéssel egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottságát tájékoztatja.
 
 (3a) A 36. § (1) bekezdés i) pontja szerinti közreműködői feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. A 36. § (1) bekezdés i) pontja szerinti közreműködői feladat akkor rendelhető el, ha a közreműködői feladat olyan külföldi helyszínen hajtható végre, amely tekintetében a Honvédség határátlépéssel járó csapatmozgását az erre jogosult engedélyezte, és a terrorizmust elhárító szerv alkalmazása nem elegendő. A 36. § (1) bekezdés i) pontja szerinti közreműködői feladat elrendelése során meg kell határozni az igénybevétel pontos célját, időtartamát, a kirendelt erők feladatait, létszámát és eszközeit, fegyverzetét, továbbá földrajzilag körülírt területét.
 
-(4) A Honvédség szállítóeszközei és műszaki munkagépei – a rendszeresített harcjárművek és a fegyverzet kivételével – kérelemre, a honvédelemért felelős miniszter engedélyével, megállapodás alapján, térítés ellenében, ideiglenesen átengedhetők.
+(4) A Honvédség szállítóeszközei és műszaki munkagépei – a rendszeresített harcjárművek és a fegyverzet kivételével – kérelemre, a Magyar Honvédség parancsnoka engedélyével, megállapodás alapján, térítés ellenében, ideiglenesen átengedhetők.
 
-(5) A készenlét fokozása érdekében, a Honvédség szállítóeszközei, műszaki munkagépei, rendszeresített harcjárművei és fegyverzete a honvédelemért felelős miniszter engedélyével, a Honvéd Vezérkar főnöke és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatója által meghatározottak szerint kerülnek biztosításra a KNBSZ számára.
+(5) A Honvédség szállítóeszközei, műszaki munkagépei, rendszeresített harc- és légijárművei, valamint fegyverzetének és más technikai eszközparkjának egyes elemei a honvédelemért felelős miniszter engedélyével, a Magyar Honvédség parancsnoka és a KNBSZ főigazgatója által meghatározottak szerint kerülnek biztosításra a KNBSZ számára
+
+a) a készenlét fokozása,
+
+b) a honvédelmi veszélyhelyzet, vagy
+
+c) a KNBSZ-nek a Honvédség felderítését támogató tevékenysége
+
+esetén.

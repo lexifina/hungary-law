@@ -20,9 +20,9 @@ f) elsősegélynyújtás, lelki gondozás,
 
 g) tűzoltás,
 
-h) a veszélyes területek felderítése és megjelölése,
+h) veszélyes vagy szennyezett területek megjelölése,
 
-i) vegyi- és sugármentesítés, fertőtlenítés és hasonló óvintézkedések,
+i) vegyi-és sugárfelderítés, -mentesítés, fertőtlenítés és hasonló óvintézkedések,
 
 j) szükségelszállásolás és ellátás,
 
@@ -40,4 +40,4 @@ o) a fenti feladatok végrehajtásához szükséges további kiegészítő tevé
 
 (5) A törvényben meghatározott hivatásos katasztrófavédelmi szerveket, valamint polgári védelmi szervezeteket ki kell képezni, illetve fel kell készíteni a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatok ellátására.
 
-(6) A fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokkal összefüggő felkészítésre, végrehajtásra, valamint készletképzésre vonatkozó részletes követelményeket az ország fegyveres védelmi terve tartalmazza.
+(6) A fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokkal összefüggő felkészítésre, végrehajtásra, valamint készletképzésre vonatkozó részletes követelményeket a katasztrófák elleni védekezésért felelős miniszter a honvédelemért felelős miniszterrel egyetértésben állapítja meg.

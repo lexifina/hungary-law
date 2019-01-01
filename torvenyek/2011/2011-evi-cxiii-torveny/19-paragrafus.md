@@ -8,10 +8,10 @@
 
 a) Magyarország biztonság- és védelempolitikájának alapelveit, valamint az azokban előírt feladatok végrehajtásának főbb irányait és feltételeit,
 
-b) a Honvédség részletes bontású létszámát, ide értve az önkéntes tartalékosokat is, főbb haditechnikai eszközeit és biztosítja az ezekhez szükséges anyagi forrásokat.
+b) a Honvédségnél rendszeresíthető beosztások számát.
 
 (2) Az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága folyamatosan figyelemmel kíséri a Honvédség feladatainak megvalósítását, felkészültsége és felszereltsége színvonalát, a rendelkezésre bocsátott anyagi erőforrások felhasználását.
 
-(3) Az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága a Honvéd Vezérkar főnökének jelölt személyt kinevezése előtt meghallgatja, és alkalmasságáról véleményt nyilvánít.
+(3) Az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága a Magyar Honvédség parancsnokának jelölt személyt kinevezése előtt meghallgatja, és alkalmasságáról véleményt nyilvánít.
 
-(4) A honvédelemért felelős miniszter a Honvédséget érintő jogszabályok tervezeteit – azok államigazgatási egyeztetésével egyidejűleg – az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága tagjai részére elektronikus úton tájékoztatásul megküldi.
+(4)

@@ -14,7 +14,7 @@ d) az igénybevétel tervezéséhez szükséges adatok közlésére
 
 (2) Ha a honvédelem érdeke és a honvédelmi feladatok ellátása más módon nem, vagy nem megfelelő időben, vagy csak aránytalanul nagy ráfordítással elégíthető ki, szolgáltatás igénybevételével kell biztosítani:
 
-a) a Honvédség és a rendvédelmi szervek működéséhez szükséges anyagi javakat és szolgáltatásokat,
+a) a honvédelmi szervezetek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség működéséhez szükséges anyagi javakat és szolgáltatásokat, és a honvédelemben közreműködő egyéb szervek honvédelmi feladatainak végrehajtásához szükséges anyagi javakat és szolgáltatásokat,
 
 b) az ország kormányzati és közigazgatási rendszerének zavartalan működését,
 
@@ -36,7 +36,7 @@ c) a szolgáltatás teljesítéséhez szükséges előkészületi tevékenység,
 
 d) a bejelentések valódisága, a szolgáltatások teljesíthetősége céljából végrehajtásra kerülő helyszíni ellenőrzésben való közreműködés, az ellenőrzés során feltárt hiányosságok megszüntetése,
 
-e) a Honvédség, a rendvédelmi szervek és a védelmi igazgatás működéséhez, gyakorlataihoz, kiegészítéséhez szükséges ingatlanok és ingó dolgok ideiglenes igénybevétele.
+e) a honvédelmi szervezetek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a védelmi igazgatás működéséhez, gyakorlataihoz, kiegészítéséhez szükséges ingatlanok és ingó dolgok ideiglenes igénybevétele.
 
 (4) A szolgáltatás igénybevételének elrendelésekor figyelembe kell venni a közigazgatási, a közszolgáltatási, valamint a közellátási szempontokat, továbbá a szolgáltatásra kötelezett méltányos érdekeit.
 

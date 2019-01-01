@@ -2,7 +2,7 @@
 
 21. § (1) A Kormány Magyarország védelmi felkészültségének biztosítása céljából
 
-a) meghatározza a honvédelemért felelős miniszter honvédelmi-ágazati irányítási, valamint a Honvédség irányításával és vezetésével kapcsolatos feladatait,
+a) meghatározza a honvédelemért felelős miniszter honvédelmi-ágazati irányítási, valamint a Honvédség irányításával kapcsolatos feladatait,
 
 b) az Országgyűlés elé terjeszti a biztonság- és védelempolitikai alapelvekről szóló határozati javaslatot,
 
@@ -20,17 +20,27 @@ h) gondoskodik az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) 
 
 i) meghatározza a fegyveres összeütközések időszakában végrehajtandó polgári védelmi felkészítés feladatait,
 
-j) a köz- és a felsőoktatás keretein belül gondoskodik a honvédelmi nevelés programjának végrehajtásáról.
+j) a köz- és a felsőoktatás keretein belül gondoskodik a honvédelmi nevelés programjának végrehajtásáról,
+
+k) meghatározza a NATO Állandó Védelmi Terveivel kapcsolatos feladatok előkészítésével és végrehajtásával kapcsolatos feladatokat,
+
+l) meghatározza a polgári felkészültség követelményeit és feladatait,
+
+m) meghatározza a Honvédség haditechnikai eszközeit és az ezekhez szükséges anyagi forrásokat,
+
+n) dönt a nemzetközi katonai parancsnokság magyarországi településéről.
 
 (2) A Honvédség működésének irányítása körében a Kormány dönt különösen
 
 a) a Honvédség irányításának és felső szintű vezetésének rendjére vonatkozó szabályokról,
 
-b) a Honvédség területi elhelyezésének, felszerelésének, felkészítésének alapvető követelményekről,
+b)
 
-c) az ország területének hadműveleti előkészítésére vonatkozó feladatokról, továbbá
+c) az ország területének műveleti előkészítésére vonatkozó feladatokról, továbbá
 
-d) a Honvédség készenléte fokozásának elrendeléséről.
+d) a Honvédség készenléte fokozásának elrendeléséről,
+
+e) a Honvédség adott időszakban feltölthető beosztásainak számáról.
 
 (3) A Kormány az éves költségvetési tervben
 

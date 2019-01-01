@@ -18,4 +18,4 @@ f) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló
 
 g) a 65. életévét betöltött férfi és az 55. életévét betöltött nő.
 
-(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, kormánytisztviselőire és közalkalmazottaira, valamint a rendvédelmi szervek hivatásos állományú tagjaira, kormánytisztviselőire, köztisztviselőire és közalkalmazottaira.
+(3) A honvédelmi munkakötelezettség nem terjed ki a Honvédség tényleges állományú tagjaira, honvédelmi alkalmazottaira, közalkalmazottaira és munkavállalóira, a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselőire, kormányzati ügykezelőire, a rendvédelmi szervek hivatásos állományú tagjaira, kormánytisztviselőire, köztisztviselőire és közalkalmazottaira, a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjaira, valamint az Országgyűlési Őrség hivatásos állományú tagjaira, köztisztviselőire és munkavállalóira.

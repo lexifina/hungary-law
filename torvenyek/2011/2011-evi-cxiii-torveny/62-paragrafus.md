@@ -1,10 +1,10 @@
 ## 40. A légierőre vonatkozó különös fegyverhasználati szabályok
 
-62. § (1) A Magyarország légterének oltalmazásában részt vevő szövetségi és nemzeti légvédelmi készenléti erők feladatköre a légteret megsértő, vagy jogosulatlanul igénybe vevő, az azonosítatlan, ismeretlen szándékkal repülést végző vagy ott ellenséges tevékenységet folytató, repülési szabályt sértő, továbbá a bajbajutott légi járművekre terjed ki.
+62. § (1) A Magyarország légterének oltalmazásában részt vevő szövetségi és magyar légvédelmi készenléti erők feladatköre a légteret megsértő, vagy jogosulatlanul igénybe vevő, az azonosítatlan, ismeretlen szándékkal repülést végző vagy ott ellenséges tevékenységet folytató, repülési szabályt sértő, továbbá a bajbajutott légi járművekre terjed ki.
 
 (2) A szövetség által meghatározott NATO felelősségi körzet légterének oltalmazásában részt vevő, NATO műveleti alárendeltségű légvédelmi készenléti erők a stratégiai parancsnok alárendeltségében, a NATO regionális illetékes parancsnokának irányítása alatt teljesítik szolgálatukat.
 
-(3) A Magyarország légterének oltalmazásában részt vevő nemzeti és szövetséges légvédelmi készenléti erők fegyvereivel figyelmeztető vagy megsemmisítő tűz nyitható az ország légterében tartózkodó légi járműre, ha az
+(3) A Magyarország légterének oltalmazásában részt vevő magyar és szövetséges légvédelmi készenléti erők fegyvereivel figyelmeztető vagy megsemmisítő tűz nyitható az ország légterében tartózkodó légi járműre, ha az
 
 a) fedélzeti fegyverzetét alkalmazza, vagy
 
@@ -14,9 +14,11 @@ c) egyértelműen arra lehet következtetni, hogy az a) vagy a b) pont szerinti 
 
 (4) A (3) bekezdés c) pontja szerinti esetben a felszólítás, és a figyelmeztető tűz mellőzhető, ha az eset összes körülményei folytán arra már nincs idő, és a késedelem az élet- és vagyonbiztonság sérelmével járna.
 
-(5) A NATO műveleti alárendeltségében levő magyar vagy a szövetség más tagállama légvédelmi készenléti erői magyar légtérben történő figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancs végrehajtására csak a Honvédség légierő ügyeletes parancsnokának megerősítésével kerülhet sor.
+(5) A NATO műveleti alárendeltségében levő magyar vagy a szövetséges légvédelmi készenléti erői magyar légtérben történő figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancs végrehajtására csak a Honvédség légierő ügyeletes parancsnokának megerősítésével kerülhet sor.
 
-(6) A nemzeti alárendeltségű légvédelmi készenléti szolgálatot ellátó erők figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancsot a Honvédség légierő ügyeletes parancsnoka adhat.
+(6) A magyar vagy külföldi légtérben nemzeti alárendeltségű magyar légvédelmi készenléti szolgálatot ellátó erők figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancsot a Honvédség légierő ügyeletes parancsnoka adhat.
+
+(6a) A magyar légtérben nemzeti alárendeltségű szövetséges légvédelmi készenléti szolgálatot ellátó erők figyelmeztető vagy megsemmisítő tüze kiváltására vonatkozó parancsot a Honvédség légierő ügyeletes parancsnoka adhat, vagy a parancs végrehajtására csak a Honvédség légierő ügyeletes parancsnokának megerősítésével kerülhet sor.
 
 (7) Az elfogást végrehajtó repülőgép vezetője az ellene irányuló közvetlen támadás elhárítása érdekében – azonnali jelentési kötelezettség mellett – saját elhatározása alapján tüzet nyithat.
 

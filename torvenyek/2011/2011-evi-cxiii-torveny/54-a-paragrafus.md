@@ -1,6 +1,6 @@
 ## 35/A. A katonai rendészet
 
-54/A. § (1) A katonai rendészet rendeltetése a katonai rend és fegyelem fenntartása, valamint a Honvédség tevékenységének rendészeti biztosítása.
+54/A. § (1) A katonai rendészet rendeltetése a katonai rend és fegyelem fenntartása, valamint a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szerv és a Honvédség tevékenységének rendészeti biztosítása, továbbá az e törvényben meghatározott rendészeti feladatok ellátása.
 
 (2) A katonai rendészet feladata
 
@@ -14,9 +14,9 @@ d) katonai rendészeti ellenőrző áteresztő pontok működtetése,
 
 e) a Honvédség tevékenységével összefüggő forgalomszabályozás,
 
-f) a Honvédség – a Honvéd Vezérkar főnöke által meghatározott – rendezvényeinek rendészeti biztosítása,
+f) a Honvédség – Magyar Honvédség parancsnoka által meghatározott – rendezvényeinek rendészeti biztosítása; a rendezvényről a rendőrséggel előzetesen egyeztetni kell, ha az a honvédelmi szervezetek által használt objektum területén kívül kerül megrendezésre,
 
-g) a honvédelemért felelős miniszter által vezetett minisztérium állami vezetőinek, a Honvéd Vezérkar főnöke és a Honvéd Vezérkar főnökének helyettesei, valamint kijelölt vendégeik személyi kísérése,
+g) a honvédelemért felelős miniszter által vezetett minisztérium állami vezetőinek, a Magyar Honvédség parancsnoka és helyettesei, valamint kijelölt vendégeik személyi kísérése,
 
 h) a Honvédséget érintő érték-, pénzszállítások kísérésének fegyveres biztosítása,
 

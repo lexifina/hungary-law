@@ -1,15 +1,17 @@
-46. § (1) A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint a Honvédség irányításáért és vezetéséért felelős központi államigazgatási szerv.
+46. § (1) A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint a Honvédség irányításáért felelős központi államigazgatási szerv.
 
-(2) A közigazgatási államtitkár a Honvéd Vezérkar kivételével vezeti a honvédelemért felelős miniszter által vezetett minisztérium szerveinek tevékenységét.
+(1a) A honvédelemért felelős miniszter által vezetett minisztériumban honvédelmi államtitkár működik. A honvédelmi államtitkárnak katonai szolgálati viszonyban töltött legalább 20 év tényleges szolgálati idővel rendelkező – az egyéb törvényi feltételeknek megfelelő – személy nevezhető ki.
 
-(3) A közigazgatási államtitkár irányítja a honvédelemért felelős miniszter hatáskörébe tartozó döntések előkészítését, végrehajtásuk tervezését, szervezését, valamint – jogszabály eltérő rendelkezése hiányában – az általános katonai szakterület kivételével – felelős a Honvédség szakirányításért. A közigazgatási államtitkár a feladatának ellátása során együttműködik a Honvéd Vezérkar főnökével.
+(2)
 
-(4) A Honvéd Vezérkar békében – a honvédelemért felelős miniszter által vezetett minisztérium részeként – az ország katonai védelemre való felkészítésének felső szintű tervező-szervező, és a Honvédség katonai tevékenységének felső szintű vezető szerve.
+(3) A honvédelmi államtitkár és a közigazgatási államtitkár kormányrendeletben meghatározottak szerint irányítják a honvédelemért felelős miniszter hatáskörébe tartozó döntések előkészítését, végrehajtásuk tervezését, szervezését. A honvédelmi államtitkár és a közigazgatási államtitkár feladataik ellátása során együttműködnek.
 
-(5) A Honvéd Vezérkart és a hadrendbe tartozó katonai szervezeteket a Honvéd Vezérkar főnöke vezeti, aki az utóbbiak tekintetében hatáskörét részben átruházhatja. Szolgálati elöljárója a Honvédség tényleges állományú tagjainak. Kormányrendelet, valamint a honvédelemért felelős miniszter által megállapított hatáskör gyakorlásának keretei között felelős a hadrafoghatóságért, a Honvédség magas fokú fegyelméért, kiképzéséért és felkészítéséért, valamint jogszabályban meghatározott körben, az alárendeltségébe tartozó szervezetek tekintetében, a katonai szakterület vonatkozásában szakirányítási feladatok ellátásáért. A Honvéd Vezérkar főnöke a hatáskörének gyakorlása során együttműködik a közigazgatási államtitkárral.
+(4) A Magyar Honvédség Parancsnoksága a Honvédség felső szintű tervező-szervező és katonai tevékenységének vezető szerve.
 
-(6) Az (5) bekezdés szerinti szolgálati elöljárói jogkör tartalmi elemeit a Honvéd Vezérkar főnöke e törvényben, más jogszabályban, a Honvédség irányítására, szakirányítására, vezetésére és személyügyi hatásköreire vonatkozó rendelkezések szerint gyakorolja.
+(5) A Magyar Honvédség parancsnoka betölti a Honvéd Vezérkar főnöki beosztást is. Vezeti a Magyar Honvédség Parancsnokságát, irányítja – a 45. § (1a) bekezdés hatálya alá tartozó honvédségi szervezetek kivételével – a honvédségi szervezeteket. A Magyar Honvédség parancsnoka a honvédségi szervezetek tekintetében hatáskörét részben átruházhatja. Kormányrendelet, valamint a honvédelemért felelős miniszter által megállapított hatáskör gyakorlásának keretei között felelős a hadrafoghatóságért, a Honvédség magas fokú fegyelméért, kiképzéséért és felkészítéséért.
 
-(7) A Honvéd Vezérkar csoportfőnökségekre és adminisztratív feladatot ellátó szervezeti egységre tagozódik. A csoportfőnökségek a minisztériumi főosztályokkal azonos jogállású szervek. A csoportfőnökségek osztályokra tagozódnak.
+(6)
 
-(8) A Honvéd Vezérkar csoportfőnökségeit a csoportfőnök vezeti, akinek munkáját a Honvéd Vezérkar főnöke irányítja. A Honvéd Vezérkar csoportfőnökségeinek osztályait közvetlenül a csoportfőnök, vagy olyan csoportfőnök-helyettes vagy osztályvezető vezeti, akinek tevékenységét a csoportfőnök irányítja.
+(7)
+
+(8)

@@ -4,4 +4,4 @@
 
 (2) A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul jelenteni kell, aki a kényszerítő eszköz alkalmazásának a jogszerűségét köteles megvizsgálni, majd – a műveleti területen, valamint a 36. § (1) bekezdés h) pontja szerinti feladat végrehajtása során végzett katonai tevékenység kivételével – álláspontjáról a kényszerítő eszköz alkalmazásától számított nyolc napon belül értesíti azt, akivel szemben a kényszerítő eszközt alkalmazták. Ha a kényszerítő eszközt utasításra alkalmazták, a jelentés megtétele az utasítást adó elöljáró kötelezettsége, és annak jogszerűségéről a Honvéd Vezérkar főnöke foglal állást.
 
-(3) A kényszerítő eszköz jogszerűtlennek minősített használatáról a katonai ügyészt nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
+(3) A kényszerítő eszköz jogszerűtlennek minősített használatáról a katonai ügyészt vagy a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyészt nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.

@@ -4,7 +4,7 @@
 
 (1a) A Honvédség főparancsnokának lobogója a köztársasági elnök által használt címert a csapatzászló elemeivel ötvözi.
 
-(2) A csapatzászlóra elismerésként ünnepélyes alkalmakkor a honvédelemért felelős miniszter vagy a Honvéd Vezérkar főnöke zászlószalagot köthet.
+(2) A csapatzászlóra elismerésként ünnepélyes alkalmakkor a honvédelemért felelős miniszter vagy a Magyar Honvédség parancsnoka zászlószalagot köthet.
 
 (3) A Honvédség hadihajói az állami felségjog jelzésére hadilobogót használnak. A hadihajók árbocjelvénye az árbocszalag, a rangidős parancsnoki lengő és a miniszteri lengő.
 
@@ -14,7 +14,7 @@
 
 (6) A személyi állomány, a csapatok és a járművek megkülönböztetésére jelzéseket kell alkalmazni. Ezek a katonai egyenruha, a katonai rendfokozati jelzés, a csapatkarjelzés és csapatjelvény, a Honvédség meghatározott közúti, légi és vízi járműveinek jelzései, valamint az összefoglaló honvéd elnevezés.
 
-(7) A tényleges állomány tagjai szolgálati beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése miniszteri rendeletben meghatározottak szerint engedélyezhető a szolgálaton kívüli állománynak, továbbá a rendelkezésre állása időszakában az önkéntes tartalékosnak és műveleti területen a rendvédelmi szerv tagjának, ha a Honvédség érdekében végeznek tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. Állami vezető műveleti területen egyenruhát viselhet. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
+(7) A tényleges állomány tagjai beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése miniszteri rendeletben meghatározottak szerint engedélyezhető a szolgálaton kívüli állománynak, továbbá a rendelkezésre állása időszakában az önkéntes tartalékosnak és műveleti területen a rendvédelmi szerv tagjának, ha a Honvédség érdekében végeznek tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. Állami vezető műveleti területen egyenruhát viselhet. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.
 
 (7a) Az arra jogosult az öltözködésre vonatkozó szabályok betartásával kizárólag a Honvédségnél rendszeresített egyenruhát viselhet. Miniszteri rendeletben meghatározott esetekben az egyenruha viselése megtiltható, előzetes írásbeli engedélyhez köthető, megvonható, valamint egészségi okból korlátozható.
 

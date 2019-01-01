@@ -8,7 +8,7 @@ c) ellátja a hatáskörébe utalt, a fegyveres összeütközések időszakában
 
 d) egyedi határozattal megállapítja a honvédelemben közreműködő szervek részére a honvédelmi felkészítés követelményeit és feladatait, összehangolja azok végrehajtását,
 
-e) kijelöli a Honvédség és a rendvédelmi szervek, valamint a honvédelemben közreműködő egyéb szervek számára szükséges ingatlanokat és erről a polgármestert értesíti,
+e) kijelöli a honvédelmi szervezetek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a honvédelemben közreműködő egyéb szervek számára szükséges ingatlanokat, szolgáltatásokat, és erről a polgármestert értesíti,
 
 f) megállapítja a területi gazdasági és anyagi szolgáltatási kötelezettségeket,
 

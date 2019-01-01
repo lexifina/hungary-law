@@ -10,6 +10,6 @@ b) a rögtönbíráskodás hatálya kiterjeszthető a nemzet biztonságát, a Ho
 
 c) a rögtönbíráskodás hatálya alá tartozó bűncselekmények büntetési tétele életfogytig tartó vagy tíztől tizenöt évig terjedő szabadságvesztés. Kivételes esetben a büntetési tétel csökkenthető.
 
-(4) A rögtönbíráskodás bevezetését a sajtótermékben, rádióban, televízióban és egyéb, helyben szokásos módon közzé kell tenni.
+(4) A rögtönbíráskodás bevezetését a sajtótermékben, kormányzati internetes oldalon, rádióban, televízióban és egyéb, helyben szokásos módon közzé kell tenni.
 
 (5) A rögtönbíráskodás a törvényszék és a katonai bíróság hatáskörébe tartozik.

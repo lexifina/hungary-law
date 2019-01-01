@@ -1,0 +1,3 @@
+42/G. § (1) A közérdekű használati joggal terhelt ingatlanon az országvédelem vagy a szövetségesi kötelezettségek teljesítése érdekében épített, telepített létesítmények állami tulajdonba kerülnek, amelyek tekintetében az építtetői, valamint a tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter által vezetett minisztérium gyakorolja.
+
+(2) Az országvédelem vagy a szövetségesi kötelezettségek teljesítése érdekében épített létesítmény az épített környezet alakításáról és védelméről szóló törvény szerinti nemzetbiztonsági célú, illetve rendeltetésű sajátos építményfajtának minősül.

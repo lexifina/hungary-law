@@ -34,4 +34,6 @@ o) a közigazgatás, a Honvédség, a védelemben közreműködő szervek teleph
 
 p) a fenti objektumokban, illetve megközelítési útvonalukon közlekedők ruházata, gépjárművei átkutatását, ismeretlen eredetű, őrizetlenül hagyott dolgok felkutatását, megsemmisítését,
 
-q) az internet-, levél-, csomag- és postaforgalom fokozott ellenőrzését.
+q) az internet-, levél-, csomag- és postaforgalom fokozott ellenőrzését,
+
+r) honvédelmi, rendvédelmi vagy nemzetbiztonsági érdekből az internetes tartalmak, csatornák, tartományok elérésének korlátozását, illetve megtiltását.

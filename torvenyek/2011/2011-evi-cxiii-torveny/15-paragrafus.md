@@ -2,7 +2,7 @@
 
 a) az Országgyűlés, az Alkotmánybíróság, a Köztársasági Elnöki Hivatal, az Állami Számvevőszék, az Alapvető Jogok Biztosának munkaszervezete, a minisztériumok, a Kúria, a Legfőbb Ügyészség és a Magyar Nemzeti Bank,
 
-b) a Honvédség és a rendvédelmi szervek,
+b) a honvédelmi szervezetek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, valamint az Országgyűlési Őrség,
 
 c) a közigazgatási, bírósági és ügyészségi szervek alaprendeltetésük, valamint honvédelmi feladataik ellátásához szükséges mértékben,
 

@@ -6,13 +6,15 @@ a) ellátják a honvédelem érdekében meghatározott feladataikat,
 
 b) ellátják a részükre kijelölt személyek és létesítmények védelmét,
 
-c) támogatják a Honvédséget egyes feladatainak végrehajtásában,
+c) támogatják a honvédelmi szervezeteket egyes feladatainak végrehajtásában,
 
 d) részt vesznek a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatok ellátásában,
 
 e) közreműködnek a rendkívüli intézkedések végrehajtásában,
 
-f) együttműködnek a helyi védelmi igazgatás szerveivel a honvédelmi feladatok ellátásában.
+f) együttműködnek a helyi védelmi igazgatás szerveivel a honvédelmi feladatok ellátásában,
+
+g) részt vesznek a polgári felkészültség követelményei alapján meghatározott feladatok ellátásában.
 
 (2) A honvédelemi felkészülés egyes feladatainak ellátásában részt vesznek:
 
@@ -52,6 +54,8 @@ e) közreműködnek a lakosság honvédelmi célú tájékoztatásában, szüks�
 
 f) teljesítik gazdasági és anyagi szolgáltatási kötelezettségeiket,
 
-g) közreműködnek a különleges jogrend idején kiadott rendeletek és intézkedések végrehajtásában.
+g) közreműködnek a különleges jogrend idején kiadott rendeletek és intézkedések végrehajtásában,
+
+h) részt vesznek a polgári felkészültség követelményei alapján meghatározott feladatok ellátásában.
 
 (4) A társadalmi szervezetek, a vallási közösségek és a karitatív szervezetek – önkéntes alapon – a védelmi igazgatás szervei által koordináltan vehetnek részt a honvédelmi feladatok ellátásában.
