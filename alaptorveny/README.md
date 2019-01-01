@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00
 | 2016-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2011-4301-02-00.6 |
 | 2018-06-29 | Magyarország Alaptörvényének hetedik módosítása | 2011-4301-02-00.7 |
 | 2018-10-15 | Magyarország Alaptörvényének hetedik módosítása | 2011-4301-02-00.8 |
+| 2019-01-01 | Magyarország Alaptörvényének hetedik módosítása | 2011-4301-02-00.9 |
