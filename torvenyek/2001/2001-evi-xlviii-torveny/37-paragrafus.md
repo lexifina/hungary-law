@@ -4,7 +4,7 @@
 
 a) utalást a mintaoltalom iránti igényre,
 
-b) a bejelentő azonosítására alkalmas és a vele való kapcsolatfelvételt lehetővé tevő adatokat,
+b) a bejelentő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, képviselet esetén a képviselő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, vagy a bejelentővel való kapcsolatfelvételt lehetővé tevő más adatot, valamint
 
 c) a minta ábrázolását függetlenül attól, hogy az megfelel-e az egyéb követelményeknek.
 

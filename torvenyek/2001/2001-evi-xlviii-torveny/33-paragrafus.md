@@ -4,6 +4,8 @@
 
 (1a) Mintaoltalmi ügyekben eljárás folytatása iránti kérelem előterjesztésének nincs helye.
 
+(1b) Mintaoltalmi ügyekben a szabadalmi törvénynek a kérelem tartalmára, a beadványokkal kapcsolatos eljárásra és az azokkal kapcsolatban alkalmazható jogkövetkezményekre vonatkozó általános rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
+
 (2) Mintaoltalmi ügyekben az igazolás ki van zárva:
 
 a) az elsőbbségi nyilatkozat előterjesztésére előírt határidő [40. § (2) bek.] elmulasztása esetén;
