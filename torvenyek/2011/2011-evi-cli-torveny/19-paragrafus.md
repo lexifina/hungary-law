@@ -1,6 +1,6 @@
 19. § (1) Az elnök díjazásának az összege megegyezik a köztisztviselői illetményalap harminckilencszeresével.
 
-(2) Az elnök – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyi védelemre jogosult.
+(2) Az elnök – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.
 
 (3) Az elnök rezidencia használatára jogosult.
 

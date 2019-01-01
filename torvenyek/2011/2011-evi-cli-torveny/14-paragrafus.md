@@ -2,9 +2,9 @@
 
 (2) Az (1) bekezdésben meghatározott mentesség kiterjed a közhatalmat gyakorló személy vagy közszereplő politikus sérelmére elkövetett becsületsértésre, valamint – ha az Alkotmánybíróság tagjának nem volt tudomása arról, hogy a közlés a lényegét tekintve valótlan – rágalmazásra.
 
-(3) Az Alkotmánybíróság tagját csak tettenérés esetén lehet őrizetbe venni, és ellene csak az Alkotmánybíróság előzetes hozzájárulásával lehet büntetőeljárást, valamint szabálysértési eljárást indítani vagy folytatni, továbbá büntető eljárásjogi kényszerintézkedést alkalmazni.
+(3) Az Alkotmánybíróság tagjának őrizetét csak tettenérés esetén lehet elrendelni, és ellene csak az Alkotmánybíróság előzetes hozzájárulásával lehet büntetőeljárást, valamint szabálysértési eljárást indítani vagy folytatni, továbbá büntető eljárásjogi kényszerintézkedést alkalmazni.
 
-(4) A mentelmi jog felfüggesztésére irányuló indítványt a vádirat benyújtásáig a legfőbb ügyész, azt követően, illetve magánvádas ügyben a bíróság terjeszti elő az elnökhöz. Az indítványt az Alkotmánybíróság tagjának tettenérése esetén haladéktalanul elő kell terjeszteni. Szabálysértési ügyben a mentelmi jog felfüggesztésére irányuló indítványt – a szabálysértési hatóság megkeresése alapján – a legfőbb ügyész terjeszti elő az elnökhöz.
+(4) A mentelmi jog felfüggesztésére irányuló indítványt a vádemelés előtt a legfőbb ügyész, a vádemelés után, illetve magánvádas vagy pótmagánvádas eljárásban a bíróság terjeszti elő az elnökhöz. Az indítványt az Alkotmánybíróság tagjának tettenérése esetén haladéktalanul elő kell terjeszteni. Szabálysértési ügyben a mentelmi jog felfüggesztésére irányuló indítványt – a szabálysértési hatóság megkeresése alapján – a legfőbb ügyész terjeszti elő az elnökhöz.
 
 (5) A mentelmi jog felfüggesztése tárgyában hozott döntés csak arra az ügyre vonatkozik, amelyre az indítványt előterjesztették.
 

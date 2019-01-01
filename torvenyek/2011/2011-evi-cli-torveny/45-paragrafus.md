@@ -10,6 +10,6 @@
 
 (5) A jogszabály megsemmisítése nem érinti a megsemmisített jogszabályon alapuló, Alkotmánybíróság előtti eljárásban nem felülvizsgálható, vagy felül nem vizsgált bírói döntéseket, kivéve, ha az Alkotmánybíróság a megsemmisítésről szóló határozatában ettől eltérően rendelkezik.
 
-(6) Az Alkotmánybíróság az alaptörvény-ellenes jogszabály alkalmazása alapján jogerős határozattal befejezett büntetőeljárás és szabálysértési eljárás felülvizsgálatát rendeli el, ha az eljárásban alkalmazott jogszabály vagy jogszabályi rendelkezés semmisségéből a büntetés, illetve az intézkedés csökkentése vagy mellőzése, valamint a büntetőjogi, illetve a szabálysértési felelősség alóli mentesülés vagy annak korlátozása következne.
+(6) Az Alkotmánybíróság az alaptörvény-ellenes jogszabály alkalmazása alapján a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával befejezett büntetőeljárás és a jogerős határozattal befejezett szabálysértési eljárás felülvizsgálatát rendeli el, ha az eljárásban alkalmazott jogszabály vagy jogszabályi rendelkezés semmisségéből a büntetés, illetve az intézkedés csökkentése vagy mellőzése, valamint a büntetőjogi, illetve a szabálysértési felelősség alóli mentesülés vagy annak korlátozása következne.
 
 (7) A (6) bekezdésben meghatározott felülvizsgálat során a büntetőeljárásról, illetve a szabálysértésekről szóló törvény szabályait kell alkalmazni.

@@ -1,0 +1,3 @@
+## 5/A. Az Alkotmánybíróság által alapított ösztöndíj
+
+22/A. § Az Alkotmánybíróság a jogász szakma képviselőinek neves külföldi intézményekben, alkotmánybíróságokon és bíróságokon szerzett munkatapasztalatának, illetve kutatási tapasztalatának elősegítése, az Alkotmánybíróság joggyakorlatához köthető, színvonalas tudományos publikációk megszületése, az Alkotmánybíróság külföldi szakmai kapcsolatainak erősítése, szakmai munkájának támogatása, valamint gyakorlatának hazai és nemzetközi tudományos körökben való megismertetése érdekében ösztöndíjat alapíthat. Az ösztöndíjprogram fedezete az Alkotmánybíróság költségvetésében elkülönítetten szerepel.

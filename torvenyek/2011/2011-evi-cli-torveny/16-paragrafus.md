@@ -14,7 +14,7 @@ b) a tisztségére méltatlanná vált,
 
 (5) Ki kell zárni az Alkotmánybíróság tagjai közül azt, aki
 
-a) jogerős ítéletben megállapított, közvádra üldözendő szándékos bűncselekményt követ el,
+a) jogerős ügydöntő határozatban megállapított, közvádra üldözendő szándékos bűncselekményt követ el,
 
 b) neki felróható okból egy évig nem vesz részt az Alkotmánybíróság munkájában, vagy
 
