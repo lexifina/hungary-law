@@ -8,6 +8,6 @@
 
 (4) Ha a nemzetközi szabadalmi bejelentés fordítását a bejelentési nap elismerését tartalmazó értesítés napjáig nem nyújtják be, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt, hogy a hiányt a (3) bekezdésben előírt határidőn belül vagy a figyelmeztetéstől számított egy hónapon, illetve – ha ez a hosszabb – a nemzetközi bejelentés átvételétől számított két hónapon belül pótolja. Ennek elmaradása esetén a nemzetközi bejelentést visszavontnak kell tekinteni.
 
-(5) A nemzetközi szabadalmi bejelentés továbbításáért külön jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi bejelentéssel kapcsolatban a Szerződésben meghatározott nemzetközi illetéket és kutatási illetéket kell fizetni a Szerződésben előírt határidőn belül és az ott megszabott módon.
+(5) A nemzetközi szabadalmi bejelentés továbbításáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi bejelentéssel kapcsolatban a Szerződésben meghatározott nemzetközi illetéket és kutatási illetéket kell fizetni a Szerződésben előírt határidőn belül és az ott megszabott módon.
 
 (6) A Szellemi Tulajdon Nemzeti Hivatala a nemzetközi illeték és a kutatási illeték összegéről és a megfizetésére vonatkozó előírásokról tájékoztatót ad ki, amelyet közzé kell tenni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.

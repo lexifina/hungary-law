@@ -4,7 +4,7 @@
 
 (3) Az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelmet az elismert bejelentési naptól számított tíz hónapon belül kell benyújtani.
 
-(4) Az írásos véleménnyel kiegészített újdonságkutatási jelentésért jogszabályban meghatározott díjat kell fizetni.
+(4) Az írásos véleménnyel kiegészített újdonságkutatási jelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni.
 
 (5) Az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelmet el kell utasítani, ha az nem felel meg a (3) bekezdésben foglalt követelménynek.
 

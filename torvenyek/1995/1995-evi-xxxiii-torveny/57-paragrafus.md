@@ -8,9 +8,11 @@
 
 (2) A szabadalmi bejelentésnek bejelentési kérelmet, szabadalmi leírást igényponttal, kivonatot, továbbá — a szükséghez képest — rajzot és egyéb mellékletet kell tartalmaznia.
 
-(3) A szabadalmi bejelentést a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+(3) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a szabadalmi bejelentési kérelemnek tartalmaznia kell a feltaláló nevét és lakcímét vagy utalást arra, hogy a feltaláló nevének és lakcímének a szabadalmi iratokon való feltüntetése mellőzését kéri, és a feltaláló a nevét és lakcímét külön lapon adja meg.
 
-(4) A szabadalmi bejelentésért külön jogszabályban meghatározott bejelentési és kutatási díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
+(3a) A szabadalmi bejelentést egyebekben a szabadalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
+
+(4) A szabadalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési és kutatási díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
 
 (5) Ha a bejelentés mellékletei idegen nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot a bejelentés napjától számított négy hónapon belül kell benyújtani.
 

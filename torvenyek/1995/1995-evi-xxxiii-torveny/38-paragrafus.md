@@ -4,7 +4,7 @@
 
 ## Az ideiglenes szabadalmi oltalom megszűnése
 
-38. § Az ideiglenes szabadalmi oltalom keletkezésére visszaható hatállyal megszűnik, ha
+38. § Az ideiglenes szabadalmi oltalom a bejelentés napjára visszaható hatállyal megszűnik, ha
 
 a) a szabadalmi bejelentést jogerősen elutasítják;
 

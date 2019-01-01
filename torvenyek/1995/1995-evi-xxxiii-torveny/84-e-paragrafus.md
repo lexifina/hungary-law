@@ -4,9 +4,9 @@
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdésben meghatározott hatósági tájékoztatást akkor közli, ha a bejelentő erre irányuló kérelmet nyújtott be. A kérelemhez mellékelni kell a közzétett igénypontok magyar fordítását.
 
-(3) A kérelmet és az igénypontok magyar fordítását a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+(3) A 45. § (5)–(6) bekezdésben meghatározott adatokon túl a kérelemnek tartalmaznia kell a feltaláló nevét és lakcímét vagy utalást arra, hogy a feltaláló kéri nevének és lakcímének a szabadalmi iratokon való feltüntetése mellőzését azzal, hogy ebben az esetben a feltaláló nevét és lakcímét külön lapon kell megadni. A feltaláló nevének és lakcímének megadása történhet az európai szabadalmi bejelentés ezeket tartalmazó iratára való hivatkozással is. A kérelmet és az igénypontok magyar fordítását egyebekben a szabadalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
-(4) Az igénypontok fordításának közzétételéért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) Az igénypontok fordításának közzétételéért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (5) A Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a kérelmet abból a szempontból, hogy az kielégíti-e a (2) és a (3) bekezdésben meghatározott követelményeket. Ennek során a 68. § (2)–(4) bekezdésének megfelelő alkalmazásával jár el.
 

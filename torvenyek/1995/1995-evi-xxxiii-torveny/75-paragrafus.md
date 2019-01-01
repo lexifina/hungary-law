@@ -2,7 +2,7 @@
 
 (2) Az érdemi vizsgálatra irányuló kérelem visszavonásának nincs jogi hatálya.
 
-(3) A kérelem benyújtásától számított két hónap elteltéig meg kell fizetni a külön jogszabályban meghatározott vizsgálati díjat.
+(3) A kérelem benyújtásától számított két hónap elteltéig meg kell fizetni az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott vizsgálati díjat.
 
 (4) Ha a kérelem benyújtásakor nem fizették meg a vizsgálati díjat, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a (3) bekezdésben meghatározott határidőben történő hiánypótlásra. Ennek elmaradását úgy kell tekinteni, hogy a bejelentő visszavonta a szabadalmi bejelentést, illetve lemondott az ideiglenes szabadalmi oltalomról.
 

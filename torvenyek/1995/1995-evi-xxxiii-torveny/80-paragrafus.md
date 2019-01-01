@@ -4,8 +4,8 @@
 
 (2) A 42. § (1) bekezdésének d) pontja alapján az kérheti a szabadalom megsemmisítését, akit az a törvény szerint megilletne.
 
-(3) A kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
 
-(4) A megsemmisítési kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A megsemmisítési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (5) Ha a megsemmisítési kérelem nem felel meg a törvényben előírt feltételeknek, a megsemmisítést kérőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a megsemmisítési kérelmet visszavontnak kell tekinteni.

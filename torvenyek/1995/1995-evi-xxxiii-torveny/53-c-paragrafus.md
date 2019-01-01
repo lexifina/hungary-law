@@ -2,7 +2,7 @@
 
 53/C. § (1) Szabadalmi ügyben költségmentesség nem engedélyezhető.
 
-(2) Az e törvényben szabályozott díjfizetési kötelezettségeken túlmenően szabadalmi ügyben külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni – a külön jogszabályban megállapított részletes szabályok szerint – a következő kérelmekért is:
+(2) Az e törvényben szabályozott díjfizetési kötelezettségeken túlmenően szabadalmi ügyben az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni – a az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban megállapított részletes szabályok szerint – a következő kérelmekért is:
 
 a) a módosítási, a határidő-hosszabbítási, az igazolási és az eljárás folytatása iránti kérelemért;
 

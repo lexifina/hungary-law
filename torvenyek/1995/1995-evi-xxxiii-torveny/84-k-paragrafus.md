@@ -1,8 +1,8 @@
 84/K. § (1) A bejelentő, illetve a szabadalmas bármikor kérheti az igénypontok, illetve a leírás fordításának [84/E., 84/H. és 84/I. §] kijavítását. A kijavított fordítás szerinti oltalom akkor válik hatályossá, amikor a Szellemi Tulajdon Nemzeti Hivatala közölte a hatósági tájékoztatást a fordítás kijavításáról.
 
-(2) A kijavítási kérelemre és mellékleteire megfelelően alkalmazni kell a 84/E. § (2) és (3) bekezdésében, illetve a 84/H. § (4) bekezdésében foglaltakat.
+(2) A kijavítási kérelemre és mellékleteire megfelelően alkalmazni kell a 84/E. § (2) és (3) bekezdésében, illetve a 84/H. § (4) bekezdésében foglaltakat azzal, hogy a kérelemnek a feltaláló nevét és lakcímét akkor sem kell tartalmaznia, ha a feltaláló nem kérte neve feltüntetésének mellőzését.
 
-(3) A fordítás kijavításának közzétételéért külön jogszabályban meghatározott díjat kell fizetni az igénypontok, illetve a leírás fordításának kijavítására irányuló kérelem benyújtásától számított két hónapon belül.
+(3) A fordítás kijavításának közzétételéért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni az igénypontok, illetve a leírás fordításának kijavítására irányuló kérelem benyújtásától számított két hónapon belül.
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a kérelmet abból a szempontból, hogy az kielégíti-e a (2) bekezdésben meghatározott követelményeket. Ennek során a 68. § (2)–(4) bekezdésének megfelelő alkalmazásával jár el.
 

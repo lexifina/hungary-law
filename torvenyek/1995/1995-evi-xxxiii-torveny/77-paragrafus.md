@@ -6,4 +6,4 @@
 
 (3) Ha a bejelentő egyetért vagy nem nyilatkozik, a szabadalom megadására a megküldött leírás, igénypont és rajz alapján kerül sor. Ha a bejelentő változtatást kezdeményez, vagy újabb leírást, igénypontot és rajzot nyújt be, annak a végleges változat megállapítása során történő figyelembevételéről a Szellemi Tulajdon Nemzeti Hivatala dönt.
 
-(4) A szabadalom megadása előtt külön jogszabályban meghatározott megadási díjat kell fizetni a (2) bekezdés szerinti nyilatkozatra megszabott három hónapos határidőn belül. Ennek elmaradását úgy kell tekinteni, hogy a bejelentő lemondott az ideiglenes szabadalmi oltalomról.
+(4) A szabadalom megadása előtt az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott megadási díjat kell fizetni a (2) bekezdés szerinti nyilatkozatra megszabott három hónapos határidőn belül. Ennek elmaradását úgy kell tekinteni, hogy a bejelentő lemondott az ideiglenes szabadalmi oltalomról.

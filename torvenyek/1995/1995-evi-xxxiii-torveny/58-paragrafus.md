@@ -4,7 +4,7 @@
 
 a) utalást a szabadalom iránti igényre,
 
-b) a bejelentő azonosítására alkalmas és a vele való kapcsolatfelvételt lehetővé tevő adatokat,
+b) a bejelentő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, képviselet esetén a képviselő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, vagy a bejelentővel való kapcsolatfelvételt lehetővé tevő más adatot, valamint
 
 c) leírást, illetve leírásnak tekinthető iratot – függetlenül attól, hogy az megfelel-e az egyéb követelményeknek –, vagy helyette hivatkozást valamely korábbi bejelentésre.
 

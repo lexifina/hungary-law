@@ -18,7 +18,7 @@ e) a növényfajta-oltalmi bejelentések és a növényfajta-oltalmak nyilvánta
 
 f) a növényfajta-oltalommal kapcsolatos hatósági tájékoztatás.
 
-(2) A 106. § (3)–(5) bekezdéseiben meghatározott feltételekre vonatkozó kísérleti vizsgálatot az ország területén a külön jogszabályban kijelölt szerv (vizsgáló szerv) végzi.
+(2) A 106. § (3)–(5) bekezdéseiben meghatározott feltételekre vonatkozó kísérleti vizsgálatot az ország területén a növényfajták állami elismeréséről szóló jogszabályban kijelölt szerv (vizsgáló szerv) végzi.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a megsemmisítési eljárásban és a megszüntetési eljárásban. A tanács szótöbbséggel dönt.
 

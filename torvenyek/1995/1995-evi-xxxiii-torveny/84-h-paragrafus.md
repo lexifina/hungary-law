@@ -6,11 +6,11 @@
 
 (2) Ha az európai szabadalom igénypontokon kívüli szövegének angol vagy magyar nyelvű fordítását is be kell nyújtani, a fordítást azon a napon benyújtottnak kell tekinteni, amelyen a szabadalmas az (1) bekezdésben előírt mindkét fordítást vagy közülük már a másodikat is benyújtotta.
 
-(3) Az (1) bekezdésben előírt cselekmény az ott megjelölt határidő utolsó napjától számított három hónapon belül is teljesíthető, ha ez utóbbi határidőn belül megfizetik a külön jogszabályban erre az esetre meghatározott pótdíjat.
+(3) Az (1) bekezdésben előírt cselekmény az ott megjelölt határidő utolsó napjától számított három hónapon belül is teljesíthető, ha ez utóbbi határidőn belül megfizetik az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban erre az esetre meghatározott pótdíjat.
 
-(4) Az (1) vagy (1a) bekezdés szerinti fordítást vagy fordításokat (a továbbiakban együtt: fordítás) a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni és benyújtani.
+(4) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl az (1) vagy az (1a) bekezdés szerinti fordítás vagy fordítások (a továbbiakban együtt: fordítás) benyújtásáról szóló, az európai szabadalom hatályosítására irányuló kérelemnek tartalmaznia kell a feltaláló nevét és lakcímét vagy utalást arra, hogy a feltaláló kéri nevének és lakcímének a szabadalmi iratokon való feltüntetése mellőzését azzal, hogy ebben az esetben a feltaláló nevét és lakcímét külön lapon kell megadni. A feltaláló nevének és lakcímének megadása történhet az európai szabadalom ezeket tartalmazó iratára való hivatkozással is. A fordítást egyebekben a szabadalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
-(5) A fordítás meghirdetéséért külön jogszabályban meghatározott díjat kell fizetni a fordítás benyújtásától számított két hónapon belül.
+(5) A fordítás meghirdetéséért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a fordítás benyújtásától számított két hónapon belül.
 
 (6) A Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a fordítást abból a szempontból, hogy az megfelel-e a (4) bekezdésben meghatározott követelményeknek. Ennek során a 68. § (2)–(4) bekezdésének megfelelő alkalmazásával jár el azzal az eltéréssel, hogy a 68. § (3) és (4) bekezdésében szabályozott esetekben a fordítást be nem nyújtottnak kell tekinteni.
 

@@ -10,7 +10,7 @@ c) a növényfajta bejelentése megfelel-e az e törvényben megszabott feltéte
 
 (2) A 106. § (3)–(5) bekezdéseiben meghatározott feltételeket az állami elismerés során vagy a növényfajta-oltalmi eljárás céljára külön elvégzett kísérleti vizsgálat eredménye alapján kell megállapítani.
 
-(3) Külföldi szervnél végzett kísérleti vizsgálat eredményét e szerv hozzájárulásával lehet figyelembe venni. Ha a bejelentő külföldi vizsgáló szervnél végzett kísérleti vizsgálat eredményét nyújtja be, a Szellemi Tulajdon Nemzeti Hivatala a vizsgálati eredményt – a külföldi vizsgáló szerv hozzájáruló nyilatkozatával együtt – továbbítja a vizsgáló szervnek [114/G. § (2) bek.]. A vizsgáló szerv a vizsgálati eredmény felhasználása során a külön jogszabályban előírtak alapján jár el.
+(3) Külföldi szervnél végzett kísérleti vizsgálat eredményét e szerv hozzájárulásával lehet figyelembe venni. Ha a bejelentő külföldi vizsgáló szervnél végzett kísérleti vizsgálat eredményét nyújtja be, a Szellemi Tulajdon Nemzeti Hivatala a vizsgálati eredményt – a külföldi vizsgáló szerv hozzájáruló nyilatkozatával együtt – továbbítja a vizsgáló szervnek [114/G. § (2) bek.]. A vizsgáló szerv a vizsgálati eredmény felhasználása során a növényfajták állami elismeréséről szóló jogszabályban előírtak alapján jár el.
 
 (4) A kísérleti vizsgálat költségeit a bejelentő viseli.
 

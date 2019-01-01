@@ -1,6 +1,6 @@
 ## A szabadalom megsemmisítése és korlátozása
 
-42. § (1) A szabadalmat — keletkezésére visszaható hatállyal — meg kell semmisíteni, ha
+42. § (1) A szabadalmat — a bejelentés napjára visszaható hatállyal — meg kell semmisíteni, ha
 
 a) a szabadalom tárgya nem felelt meg a 6. § (1) bekezdésének a) pontjában meghatározott feltételeknek;
 
