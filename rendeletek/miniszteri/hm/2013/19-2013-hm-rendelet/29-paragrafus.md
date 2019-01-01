@@ -1,3 +1,5 @@
-## 28. § A katonai fegyelmi vagy méltatlansági eljárás során megjelenésre kötelezett honvéd és közalkalmazott részére meg kell téríteni a felmerülő helyközi utazási költségeket.
+## 28. §[^54] A katonai fegyelmi vagy méltatlansági eljárás során megjelenésre kötelezett honvéd, honvédelmi alkalmazott és közalkalmazott részére meg kell téríteni a felmerülő helyközi utazási költségeket.
 
 ## 17. Egészségügyi ellátással kapcsolatos utazások
+
+[^54]: A 28. § a 20/2018. (XII. 28.) HM rendelet 95. § k) pontja szerint módosított szöveg.

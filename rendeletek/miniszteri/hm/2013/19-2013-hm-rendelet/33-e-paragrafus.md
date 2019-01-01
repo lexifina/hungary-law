@@ -1,5 +1,0 @@
-33/E. § (1) Az elszámolási kötelezettséget a tárgyévre szóló, Magyarországon a munkáltató – áthelyezés esetén ideértve a korábbi munkáltatót is – nevére és címére kiállított számlával, a kifizetés időpontját követő harminc napon belül – annál a munkáltatónál kell teljesíteni, amelynél fennálló jogviszonyára tekintettel a közalkalmazott a ruházati költségtérítésben részesül.
-
-(2) Ha a közalkalmazott a meghatározott határidőig a ruházati költségtérítéssel nem, vagy csak részben számol el, a részére keletkező adó- és járulékteher összegét a következő havi illetményéből le kell vonni, amelynek végrehajtására a honvédelmi szervezet pénzügyi és számviteli szerve intézkedik.
-
-(3) A ruházati költségtérítés kifizetésének időpontjában vagy azt követő harminc napon belül külföldi szolgálatot teljesítő vagy külföldi képzésen részt vevő közalkalmazottnak elszámolási kötelezettség fennállása esetén az elszámolási kötelezettségét a külföldi szolgálatot vagy külföldi képzést követő harminc napon belül, de legkésőbb a tárgyév december 31-ig kell teljesítenie.

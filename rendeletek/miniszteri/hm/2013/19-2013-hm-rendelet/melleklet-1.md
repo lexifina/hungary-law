@@ -1,6 +1,6 @@
-## 39. §[^60] Az R1. hatálybalépése[^61] előtt engedélyezett negyedéves, féléves és éves helyi bérletre vonatkozó költségtérítésre e rendeletnek az R1.-gyel megállapított 17. §-a nem alkalmazható.
+## 39. §[^77] Az R1. hatálybalépése[^78] előtt engedélyezett negyedéves, féléves és éves helyi bérletre vonatkozó költségtérítésre e rendeletnek az R1.-gyel megállapított 17. §-a nem alkalmazható.
 
-1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^62]
+1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^79]
 
 ……………………………………….
 
@@ -256,6 +256,6 @@ aláírás
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^60]: A 39. §-t a 10/2017. (VIII. 31.) HM rendelet 51. §-a iktatta be.
-[^61]: A hatálybalépés időpontja 2017. szeptember 1.
-[^62]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja szerint módosított szöveg.
+[^77]: A 39. §-t a 10/2017. (VIII. 31.) HM rendelet 51. §-a iktatta be.
+[^78]: A hatálybalépés időpontja 2017. szeptember 1.
+[^79]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja szerint módosított szöveg.
