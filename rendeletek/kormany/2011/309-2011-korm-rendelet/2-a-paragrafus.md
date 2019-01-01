@@ -1,3 +1,3 @@
-## 2. §[^2] A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatások körét az 1. és a 3. melléklet határozza meg. A központi szolgáltatónak az 1. és a 3. mellékletekben meghatározott szolgáltatások nyújtásához szükséges, a központosított közbeszerzés hatálya alá tartozó termékek és szolgáltatások beszerzéseire a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló kormányrendeletnek a csatlakozásra kötelezett szervezetekre vonatkozó rendelkezéseit kell alkalmazni.
+## 2. §[^2] A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatások körét az 1. és a 3. melléklet határozza meg.
 
-[^2]: A 2. § a 257/2016. (VIII. 31.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § a 257/2016. (VIII. 31.) Korm. rendelet 18. § (1) bekezdésével megállapított, a 301/2018. (XII. 27.) Korm. rendelet 31. §-a szerint módosított szöveg.
