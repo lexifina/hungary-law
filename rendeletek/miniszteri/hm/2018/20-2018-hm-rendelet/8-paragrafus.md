@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. § Az R1. 9. §-a a következő (3) bekezdéssel egészül ki:
 
-[^7]: A 7. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(3) Kötelező a személyi beszélgetés lefolytatása és a jegyzőkönyv felvétele a honvédelmi egészségkárosodási ellátással kapcsolatos személyügyi eljárás során.”

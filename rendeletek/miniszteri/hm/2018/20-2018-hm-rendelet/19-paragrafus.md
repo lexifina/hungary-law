@@ -1,3 +1,1 @@
-## 18. §[^18]
-
-[^18]: A 18. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(1a) A szolgálati viszony a Hjt. 59. § (2) bekezdés d) pontja szerinti megszüntetése esetén a szolgálati viszonyt a Hjt. 38. § (4) bekezdés szerinti jogát érvényesítő fél jognyilatkozata szünteti meg. A szolgálati viszony megszüntetési eljárást a jognyilatkozatban meghatározott időponttól számított 8 napon belül be kell fejezni. A megszüntetési eljárás során a feleket fokozott együttműködési kötelezettség terheli.”

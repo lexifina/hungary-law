@@ -1,3 +1,1 @@
-## 45. §[^45]
-
-[^45]: A 45. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(2a) A (2) bekezdés a) pontja szerinti kérelem esetén a jogszerű adatkezelés érdekében az adatkezelőnek a kérelmezőt ezen adatkezelésről tájékoztatnia kell, ennek érdekében adatkezelési tájékoztatót kell készítenie a kérelmező számára. Az adatkezeléshez – még az adatkezelés megkezdése előtt – a kérelmező adatkezeléshez történő hozzájárulásának beszerzése szükséges.”

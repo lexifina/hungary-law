@@ -1,3 +1,3 @@
-## 78. §[^78]
+## 78. § Az R3. 2. §-a a következő (5) bekezdéssel egészül ki:
 
-[^78]: A 78. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(5) Ugyanazon a jogcímen csak egy elismerés adományozható.”

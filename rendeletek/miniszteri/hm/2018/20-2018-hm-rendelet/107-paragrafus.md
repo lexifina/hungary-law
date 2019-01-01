@@ -1,3 +1,1 @@
-## 106. §[^124]
-
-[^124]: A 106. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(1a) A KNBSZ hivatásos állománya tekintetében a pszichikai alkalmasság-vizsgálatokat a KNBSZ vizsgálatokért felelős szervezeti egysége végzi.”

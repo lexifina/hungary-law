@@ -1,3 +1,3 @@
-## 57. §[^57]
+## 57. § Az R1. 204. §-a a következő (3) bekezdéssel egészül ki:
 
-[^57]: Az 57. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(3) A külföldi szolgálat időtartama az állomány tagjának kérelmére vagy szolgálati érdekből a vezénylésre jogosult munkáltatói jogkört gyakorló által meghosszabbítható.”

@@ -1,3 +1,1 @@
-## 4. §[^4]
-
-[^4]: A 4. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „d) a központi személyügyi szerv vezetője gyakorolja a (3) bekezdés c)–e) pontja szerinti vezetők, valamint a HM személyügyi szervének vezetője tekintetében,”

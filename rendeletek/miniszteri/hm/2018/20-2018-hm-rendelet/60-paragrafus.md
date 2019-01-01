@@ -1,3 +1,3 @@
-## 59. §[^59]
+## 59. § Az R1. 237. §-a a következő (5) bekezdéssel egészül ki:
 
-[^59]: Az 59. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(5) E fejezet alkalmazásában elektronikus útnak minősül elsősorban a HM Költségvetés Gazdálkodási Információs Rendszer Ügyfélszolgálati Rendszer (a továbbiakban: HM KGIR ÜSZR), másodsorban elektronikus levél használata.”

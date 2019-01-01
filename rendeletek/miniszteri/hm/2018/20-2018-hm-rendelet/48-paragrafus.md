@@ -1,3 +1,3 @@
-## 47. §[^47]
+## 47. § Az R1. 126/B. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^47]: A 47. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(1) A Hjt. 108. § (2) bekezdése szerinti munkáltatói jogkört az állományilletékes parancsnok gyakorolja. Ha a Hjt. 108. § (2) bekezdése alapján a honvédelmi szervezet teljes állománya mentesül a szolgálatteljesítési kötelezettség alól, az állományilletékes parancsnok egyidejűleg köteles a szükséges intézkedéseket megtenni a honvédelmi szervezet alapvető feladatellátásának biztosítására.”

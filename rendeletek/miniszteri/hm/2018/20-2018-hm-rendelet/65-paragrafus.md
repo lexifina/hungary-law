@@ -1,3 +1,1 @@
-## 64. §[^64]
-
-[^64]: A 64. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(2) Az (1) bekezdés a) pontjától eltérően a bevonulási paranccsal ellátott önkéntes tartalékos katona a kérelmét a bevonulási parancs közlésekor elektronikus úton is előadhatja, kivéve, ha a szolgálathalasztás oka ezt követően keletkezett azzal, hogy az ezt követő 3 napon belül – elektronikus vagy postai úton vagy személyesen – írásban is be kell nyújtani a kérelmet a központi katonai igazgatási szerv parancsnokának címezve bármely katonai igazgatási szervhez.”

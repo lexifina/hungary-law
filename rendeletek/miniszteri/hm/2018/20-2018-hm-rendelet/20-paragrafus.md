@@ -1,3 +1,5 @@
-## 19. §[^19]
+## 19. § Az R1. 63. §-a helyébe a következő rendelkezés lép:
 
-[^19]: A 19. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „63. § (1) Az állomány tagja a lemondásról vagy a szerződésbontásról szóló nyilatkozatát az állományilletékes parancsnokhoz nyújthatja be.
+
+## (2) Ha nem az állományilletékes parancsnok a munkáltatói jogkört gyakorló, a lemondást az állományilletékes parancsnok soron kívül megküldi az MH PK részére.”

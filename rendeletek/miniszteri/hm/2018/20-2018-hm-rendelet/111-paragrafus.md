@@ -1,3 +1,1 @@
-## 110. §[^128]
-
-[^128]: A 110. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## 110. § Az R6. 24/A. § (4) bekezdésében az „(1)–(3) bekezdés” szövegrész helyébe az „(1)–(3a) bekezdés” szöveg lép.

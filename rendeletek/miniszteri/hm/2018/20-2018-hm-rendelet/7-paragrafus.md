@@ -1,3 +1,1 @@
-## 6. §[^6]
-
-[^6]: A 6. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(4) Ha nem az állományilletékes parancsnok a munkáltatói jogkört gyakorló, akkor javaslatát – az érintett közvetlen szolgálati elöljárója előzetes véleményének figyelembevételével – e rendelet szerint javaslati lapon terjeszti fel a munkáltatói jogkört gyakorló részére.”

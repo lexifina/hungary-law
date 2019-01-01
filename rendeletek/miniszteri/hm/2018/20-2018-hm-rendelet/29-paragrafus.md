@@ -1,3 +1,3 @@
-## 28. §[^28]
+## 28. § Az R1. 93. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^28]: A 28. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(1) A teljesítményértékelés eredményét az előmenetel szempontjából csak abban az esetben lehet figyelembe venni, ha az állomány tagja eredményesen teljesítette az értékelési időszakra vonatkozóan a fizikai állapotfelmérést és az éves kiképzési feladatokat.”

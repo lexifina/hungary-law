@@ -1,3 +1,1 @@
-## 22. §[^22]
-
-[^22]: A 22. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(6a) A Hjt. 123. § (4) bekezdés d) és e) pontjában meghatározott felsővezetői szolgálati beosztások, valamint a vezénylő zászlósi beosztások besorolását az 5. melléklet A) pontjához tartozó I. és II. táblázat alapján az állománytáblában kell megjeleníteni.”

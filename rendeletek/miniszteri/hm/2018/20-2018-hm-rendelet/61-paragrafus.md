@@ -1,3 +1,3 @@
-## 60. §[^60]
+## 60. § Az R1. 244. §-a a következő (5) bekezdéssel egészül ki:
 
-[^60]: A 60. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(5) A behívóparancs vagy bevonulási parancs elektronikus vagy postai úton kézbesíthető, illetve közölhető.”

@@ -1,3 +1,1 @@
-## 15. §[^15]
-
-[^15]: A 15. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(3) A katonai felsővezetői szakirányú továbbképzési szak elvégzésével azonos a KNBSZ és az NKE együttműködési keretében megszervezett felsővezetői nemzetbiztonsági tanfolyam teljesítése.”

@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „(8) A munkáltatói jogkört gyakorlót – távolléte vagy akadályoztatása esetén, valamint ha a beosztás ideiglenesen megüresedett – az erre jogszabályban vagy szervezeti és működési szabályzatban kijelölt személy vagy személyek helyettesíthetik.”

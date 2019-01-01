@@ -1,3 +1,3 @@
-## 51. §[^51]
+## 51. § Az R1. a következő 167/A. §-sal egészül ki:
 
-[^51]: Az 51. § a 121. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+## „167/A. § A KNBSZ főigazgatója tábornokot az MH PK egyidejű tájékoztatásával nyilváníthat a „Katonai szolgálat halottjává”.”
