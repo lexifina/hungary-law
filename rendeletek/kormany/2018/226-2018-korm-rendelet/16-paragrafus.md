@@ -1,3 +1,1 @@
-## 15. §[^15]
-
-[^15]: A 15. § a 21. § (2) bekezdés alapján 2019. január 1-jén lép hatályba.
+## 15. § Az Sznyr. 1. melléklete a 2. melléklet szerint módosul.
