@@ -16,6 +16,6 @@ c) a létesítés és a működés anyagi, tárgyi, technikai és személyi felt
 
 (5) Az egységes óvoda-bölcsődében – függetlenül attól, hogy önálló intézményként vagy intézményegységként működik – egy csoport alakítható ki.
 
-(6)[^356] Az egységes óvoda-bölcsődében a bölcsődés korú gyermekek száma nem haladhatja meg az öt főt. Az óvodás gyermekek létszáma az Nkt. 4. mellékletében meghatározott maximális létszámot akkor haladhatja meg, ha az óvodai csoportszoba alapterületére figyelemmel a 2. mellékletben előírt m2/fő feltétel biztosítható.
+(6)[^357] Az egységes óvoda-bölcsődében a bölcsődés korú gyermekek száma nem haladhatja meg az öt főt. Az óvodás gyermekek létszáma az Nkt. 4. mellékletében meghatározott maximális létszámot akkor haladhatja meg, ha az óvodai csoportszoba alapterületére figyelemmel a 2. mellékletben előírt m2/fő feltétel biztosítható.
 
-[^356]: A 178. § (6) bekezdése a 45/2014. (X. 27.) EMMI rendelet 48. §-ával megállapított szöveg.
+[^357]: A 178. § (6) bekezdése a 45/2014. (X. 27.) EMMI rendelet 48. §-ával megállapított szöveg.

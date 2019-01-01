@@ -1,8 +1,8 @@
 ## XVI. Fejezet
 
-## AZ EGYHÁZI, MAGÁN ÉS NEMZETISÉGI ÖNKORMÁNYZATI FENNTARTÁSÚ NEVELÉSI-OKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN SZABÁLYOK[^307]
+## AZ EGYHÁZI, MAGÁN ÉS NEMZETISÉGI ÖNKORMÁNYZATI FENNTARTÁSÚ NEVELÉSI-OKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN SZABÁLYOK[^308]
 
-## 60. [^308] A nyilvántartásba vétellel kapcsolatos és a működési engedély kiadására vonatkozó eljárási szabályok
+## 60. [^309] A nyilvántartásba vétellel kapcsolatos és a működési engedély kiadására vonatkozó eljárási szabályok
 
-[^307]: A XVI. Fejezet címe a 45/2014. (X. 27.) EMMI rendelet 38. § (1) bekezdésével megállapított, a 32/2015. (VI. 19.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
-[^308]: A 60. alcím címe a 32/2015. (VI. 19.) EMMI rendelet 17. § c) pontja szerint módosított szöveg.
+[^308]: A XVI. Fejezet címe a 45/2014. (X. 27.) EMMI rendelet 38. § (1) bekezdésével megállapított, a 32/2015. (VI. 19.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
+[^309]: A 60. alcím címe a 32/2015. (VI. 19.) EMMI rendelet 17. § c) pontja szerint módosított szöveg.

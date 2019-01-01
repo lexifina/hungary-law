@@ -10,6 +10,9 @@ c)[^292] az intézményi eredményeket, ide értve az ellenőrzés évét megel�
 
 (3)[^293] Az intézményvezető az intézményellenőrzés lezárását követő negyvenöt napon belül, az összegző szakértői dokumentuma alapján öt évre szóló intézkedési tervet készít, amelyben kijelöli az intézmény pedagógiai-szakmai munkája fejlesztésének feladatait. Az intézkedési tervet a nevelőtestület az intézményellenőrzés összegző szakértői dokumentumának 147. § (8) bekezdése szerinti rögzítésétől számított hatvan napon belül hagyja jóvá. Az intézkedési tervet az érintett intézmény vezetője a jóváhagyást követően haladéktalanul feltölti a hivatal által működtetett informatikai támogató rendszerbe, amely azt elérhetővé teszi a hivatal számára. Az intézkedési tervet az intézményvezető küldi meg a fenntartó számára.
 
+(4)[^294] Ha az óvodai intézményellenőrzést lefolytató szakértő szerint hatósági ellenőrzés keretén belül indokolt vizsgálni, hogy a köznevelési intézmény rendelkezésére álló eszközök és felszerelések megfelelnek-e a 2. mellékletben foglaltaknak, illetve elégségesek-e a pedagógiai program végrehajtásához, a szakértő indokolással ellátott megállapítását az ellenőrzés tapasztalatait összegző szakértői dokumentumban fel kell tüntetni. Az összegző szakértői dokumentum alapján a hivatal felhívja az illetékes megyeszékhely szerinti járási hivatalt hatósági ellenőrzés lefolytatására.
+
 [^291]: A 150. § a 22/2015. (IV. 21.) EMMI rendelet 15. §-ával megállapított szöveg.
 [^292]: A 150. § (1) bekezdés c) pontja a 24/2017. (X. 3.) EMMI rendelet 14. § 5. pont 5.1. alpontja szerint módosított szöveg.
 [^293]: A 150. § (3) bekezdése a 24/2017. (X. 3.) EMMI rendelet 14. § 5. pont 5.2. alpontja szerint módosított szöveg.
+[^294]: A 150. § (4) bekezdését a 34/2018. (X. 10.) EMMI rendelet 1. §-a iktatta be.
