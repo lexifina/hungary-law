@@ -14,6 +14,6 @@
 
 (6) A Mentelmi bizottság a fegyelmi és rendészeti ügyeket zárt ülésen tárgyalja.
 
-(7)[^18] Az Országgyűlés vita nélkül határoz az ülést vezető elnök rendészeti intézkedésének – az Országgyűlésről szóló törvény 53. § (5) bekezdése szerinti – megalapozottságáról.
+(7)[^20] Az Országgyűlés vita nélkül határoz az ülést vezető elnök rendészeti intézkedésének – az Országgyűlésről szóló törvény 53. § (5) bekezdése szerinti – megalapozottságáról.
 
-[^18]: A 148. § (7) bekezdése a 21/2014. (VI. 3.) OGY határozat 12. §-ával megállapított szöveg.
+[^20]: A 148. § (7) bekezdése a 21/2014. (VI. 3.) OGY határozat 12. §-ával megállapított szöveg.

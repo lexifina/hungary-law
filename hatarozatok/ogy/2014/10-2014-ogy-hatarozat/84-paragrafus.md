@@ -1,6 +1,6 @@
 84. § (1) Az Országgyűlés
 
-a)[^17] az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke, országgyűlési bizottság, a nemzetiségek helyzetéről és az Alaptörvény 47. cikk (4) bekezdése szerinti esetben a Kormány, továbbá
+a)[^18] az alapvető jogok biztosa, a legfőbb ügyész, az Állami Számvevőszék elnöke, a Magyar Nemzeti Bank elnöke, országgyűlési bizottság, a nemzetiségek helyzetéről és az Alaptörvény 47. cikk (4) bekezdése szerinti esetben a Kormány, továbbá
 
 b) – a 85. §-ban meghatározottakra is figyelemmel – az egyéb beszámolásra kötelezett
 
@@ -20,4 +20,4 @@ b) – a 85. §-ban meghatározottakra is figyelemmel – az egyéb beszámolás
 
 (8) Az Országgyűlés a beszámolóról a beszámolót tárgyaló bizottság által előterjesztett határozati javaslat elfogadásával dönt.
 
-[^17]: A 84. § (1) bekezdés a) pontja a 21/2014. (VI. 3.) OGY határozat 11. §-ával megállapított szöveg.
+[^18]: A 84. § (1) bekezdés a) pontja a 21/2014. (VI. 3.) OGY határozat 11. §-ával megállapított szöveg.

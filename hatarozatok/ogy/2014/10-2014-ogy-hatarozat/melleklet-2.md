@@ -196,12 +196,12 @@ Az Országgyűlés iromány-nyilvántartásában szereplő nem önálló indítv
 
 97. Túlterjeszkedő módosító javaslat /70. § (1) bekezdése, 71. § (2) bekezdése/
 
-98.[^22] Zárószavazás előtti jelentés /53. § (3) bekezdése/
+98.[^25] Zárószavazás előtti jelentés /53. § (3) bekezdése/
 
-99.[^23] Zárószavazás előtti módosító javaslat /53. § (2) és (4) bekezdése/
+99.[^26] Zárószavazás előtti módosító javaslat /53. § (2) és (4) bekezdése/
 
-100.[^24] Zárószavazást előkészítő módosító javaslat /52. §/
+100.[^27] Zárószavazást előkészítő módosító javaslat /52. §/
 
-[^22]: A 2. melléklet 98. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
-[^23]: A 2. melléklet 99. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
-[^24]: A 2. melléklet 100. pontját a 21/2014. (VI. 3.) OGY határozat 13. §-a iktatta be.
+[^25]: A 2. melléklet 98. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
+[^26]: A 2. melléklet 99. pontja a 21/2014. (VI. 3.) OGY határozat 13. §-ával megállapított szöveg.
+[^27]: A 2. melléklet 100. pontját a 21/2014. (VI. 3.) OGY határozat 13. §-a iktatta be.

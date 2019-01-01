@@ -30,6 +30,6 @@ irányuló indítvány tárgyalásánál.
 
 (7) Ha a miniszterelnök a Kormány által benyújtott előterjesztés kivételes eljárásban történő tárgyalása során indítványozza, hogy az előterjesztés feletti szavazás egyben bizalmi szavazás is legyen, az indítvány benyújtását követően a törvényjavaslat tárgyalását a törvényjavaslat tárgyalásának általános szabályai és a 129. § szerint újra meg kell kezdeni, erről a házelnök haladéktalanul tájékoztatja a képviselőket, a szószólókat és az Országgyűlés ülésén tanácskozási joggal rendelkező személyeket. Ebben az esetben a 34. § (1) bekezdését nem lehet alkalmazni.
 
-(8)[^13] Ha a kivételes eljárás során a törvényalkotási bizottság olyan összegző módosító javaslatot vagy túlterjeszkedő módosító javaslatot nyújt be, amely a (4) bekezdés b)–d) és g) pontjában foglaltak valamelyikére irányul, a további eljárásra a törvényjavaslat tárgyalásának általános szabályait – a g) pontban foglalt módosítás esetén a 100. § (4) bekezdése szerinti eltérésekkel – kell alkalmazni.
+(8)[^14] Ha a kivételes eljárás során a törvényalkotási bizottság olyan összegző módosító javaslatot vagy túlterjeszkedő módosító javaslatot nyújt be, amely a (4) bekezdés b)–d) és g) pontjában foglaltak valamelyikére irányul, a további eljárásra a törvényjavaslat tárgyalásának általános szabályait – a g) pontban foglalt módosítás esetén a 100. § (4) bekezdése szerinti eltérésekkel – kell alkalmazni.
 
-[^13]: A 61. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 7. §-ával megállapított szöveg.
+[^14]: A 61. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 7. §-ával megállapított szöveg.

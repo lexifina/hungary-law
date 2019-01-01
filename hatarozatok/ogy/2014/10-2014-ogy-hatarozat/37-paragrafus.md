@@ -60,6 +60,6 @@ c) nemzetiségi képviselő és szószóló aláírásával két alkalommal tám
 
 (7) A soros jegyző méri és képviselőcsoportonként összesíti a képviselők által igénybe vett felszólalási időt. Tájékoztatja az ülést vezető elnököt arról, ha a képviselőcsoport, a képviselő vagy a szószóló felszólalási idejét kitöltötte. A 36. § (6)–(7) bekezdése szerinti felszólalások addig folytathatók, amíg az (1) bekezdés szerint megállapított időkeret el nem fogy.
 
-(8)[^4] Időkeretes tárgyalási rendben a 35. § (8) bekezdését és a 38. § (1) bekezdés a) pontját nem kell alkalmazni.
+(8)[^5] Időkeretes tárgyalási rendben a 35. § (8) bekezdését és a 38. § (1) bekezdés a) pontját nem kell alkalmazni.
 
-[^4]: A 37. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 2. §-ával megállapított szöveg.
+[^5]: A 37. § (8) bekezdése a 21/2014. (VI. 3.) OGY határozat 2. §-ával megállapított szöveg.
