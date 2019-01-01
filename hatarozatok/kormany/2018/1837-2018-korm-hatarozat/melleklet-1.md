@@ -38,19 +38,67 @@
 
 ## Határidő: 2018. december 31.
 
-## 1.7.[^1]
+## 1.7. egyetért
 
-## 1.8.[^2]
+## a) a Gyógyfürdő további fejlesztésével, ennek keretében a szolgáltatás diverzifikációt biztosító fejlesztések – melyek között új gyógyászati szárny – megvalósításával,
 
-## 1.9.[^3]
+## b) azzal, hogy a Gyógyfürdő jövőbeni üzemeltetési költségeinek optimalizálása érdekében megvalósíthatósági tanulmány elkészítése szükséges, mely a Kormány részére bemutatott tervek szerint vizsgálja egyes kiegészítő beruházások szükségességét és költségigényét, illetve azok megtérülését,
 
-## 1.10.[^4]
+## c) a Gyógyfürdő környezetében egy fedett sportuszoda megvalósíthatóságának vizsgálatával;
 
-## 1.11.[^5]
+## 1.8. az 1.7. pont
 
-## 1.12.[^6]
+## a) a) alpontja szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés n)–p) pontja szerinti előkészítési fázisaira 301 117 000 forint,
 
-## 1.13.[^7]
+## b) b) alpontja szerinti beruházásnak a Rendelet 2. § (2) bekezdés a) pontja szerinti előkészítési fázisaira 57 531 000 forint,
+
+## c) c) alpontja szerinti beruházásnak a Rendelet 2. § (2) bekezdés a)–c) pontja szerinti előkészítési fázisaira 95 250 000 forint, – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen 454 474 500 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2020. június 30-ig kell megvalósítani;
+
+## 1.9. az 1.7. pont szerinti beruházások előkészítésének kormányzati felelőseként a miniszterelnök kabinetfőnökét jelöli ki;
+
+## 1.10. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1.7. pont szerinti beruházások előkészítési feladatainak finanszírozása érdekében a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Turisztikai fejlesztési célelőirányzat jogcímcsoport javára – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 454 475 500 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
+
+## Az átcsoportosítás tekintetében
+
+## Felelős: pénzügyminiszter
+
+## a miniszterelnök kabinetfőnöke
+
+## Határidő: 2019. január 31.
+
+## Az elszámolási és a visszafizetési kötelezettség tekintetében
+
+## Felelős: a miniszterelnök kabinetfőnöke
+
+## Határidő: az 1.12. pont a) alpontja szerinti beszámoló tudomásulvételét követő 15 napon belül
+
+## 1.11. egyetért azzal, hogy az 1.7. pont szerinti előkészítési fázisokat az Önkormányzat valósítsa meg, és felkéri a kormányzati felelőst, hogy az Önkormányzat részére az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatást nyújtson;
+
+## Felelős: a miniszterelnök kabinetfőnöke
+
+## Határidő: az 1.10. pont szerinti forrás rendelkezésre bocsátását követően azonnal
+
+## 1.12. felhívja miniszterelnök kabinetfőnökét, hogy
+
+## a) a Rendelet 8. § (1) bekezdésére figyelemmel számoljon be az 1.8. pontban meghatározott előkészítési fázisok végrehajtásáról, valamint a Beruházás Előkészítési Alap jogcímcsoport terhére átcsoportosított forrás felhasznált összegéről;
+
+## Felelős: a miniszterelnök kabinetfőnöke
+
+## Határidő: 2020. július 30.
+
+## b) az 1.7. pont a)–c) alpontja szerinti előkészítési fázisok végrehajtásának eredménye alapján készítsen előterjesztést – az 1.7. pont c) alpontjában meghatározott feladattal összefüggésben jelentkező sportszakmai kérdésben az emberi erőforrások minisztere bevonásával – a Kormány részére, és tegyen javaslatot a Kormány részére a megvalósításának kérdésében a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával;
+
+## Felelős: a miniszterelnök kabinetfőnöke
+
+## emberi erőforrások minisztere
+
+## Határidő: az 1.7. pont a)–c) alpontja szerinti előkészítési fázisok végrehajtását, illetve az előkészítésre számított forrásokkal történt elszámolás elfogadását követő 30 napon belül
+
+## 1.13. felhívja az emberi erőforrások miniszterét, hogy az 1.7. pont c) alpontjában meghatározott feladattal összefüggésben tájékoztassa az Önkormányzatot a megvalósíthatósági tanulmány elkészítésénél figyelembe veendő sportszakmai szempontokról.
+
+## Felelős: emberi erőforrások minisztere
+
+## Határidő: 2019. január 15.
 
 ## 2. Ez a határozat – a 3. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
@@ -125,11 +173,3 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: Az 1.7. pont a 3. pont alapján 2019. január 1-jén lép hatályba.
-[^2]: Az 1.8. pont a 3. pont alapján 2019. január 1-jén lép hatályba.
-[^3]: Az 1.9. pont a 3. pont alapján 2019. január 1-jén lép hatályba.
-[^4]: Az 1.10. pont a 3. pont alapján 2019. január 1-jén lép hatályba.
-[^5]: Az 1.11. pont a 3. pont alapján 2019. január 1-jén lép hatályba.
-[^6]: Az 1.12. pont a 3. pont alapján 2019. január 1-jén lép hatályba.
-[^7]: Az 1.13. pont a 3. pont alapján 2019. január 1-jén lép hatályba.
