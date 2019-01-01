@@ -32,7 +32,7 @@
 
 13.[^7] rendkívüli esemény: az Országgyűlési Őrség által védett objektum vagy az Országgyűlés elnökének biztonságával kapcsolatos, az objektum rendjét, az objektumban tartózkodók, illetve az Országgyűlés elnökének életét, testi épségét, személyes szabadságát, egészségét, anyagi javait sértő vagy veszélyeztető esemény, tevékenység vagy mulasztás,
 
-14.[^8] védett objektum: az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 125. § (2) bekezdés b) pontjában meghatározott, létesítményvédelmi feladatok ellátásával védett objektum.
+14.[^8] védett objektum: az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 125. § (2) bekezdés b) pontjában meghatározott, létesítménybiztosítási feladatok ellátásával védett objektum.
 
 [^1]: A 2. § 2. pontja a 36/2015. (VI. 16.) BM rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 4. pontja a 36/2015. (VI. 16.) BM rendelet 19. § (2) bekezdésével megállapított szöveg.
@@ -41,4 +41,4 @@
 [^5]: A 2. § 12. pontja a 9/2018. (IV. 25.) BM rendelet 34. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § 12a. pontját a 36/2015. (VI. 16.) BM rendelet 19. § (4) bekezdése iktatta be.
 [^7]: A 2. § 13. pontját a 18/2013. (V. 9.) BM rendelet 19. §-a iktatta be, szövege a 9/2018. (IV. 25.) BM rendelet 34. § (3) bekezdésével megállapított szöveg.
-[^8]: A 2. § 14. pontját a 9/2018. (IV. 25.) BM rendelet 34. § (4) bekezdése iktatta be.
+[^8]: A 2. § 14. pontját a 9/2018. (IV. 25.) BM rendelet 34. § (4) bekezdése iktatta be, szövege a 37/2018. (XII. 28.) BM rendelet 25. § a) pontja szerint módosított szöveg.

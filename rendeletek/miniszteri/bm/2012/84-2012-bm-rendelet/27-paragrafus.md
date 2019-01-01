@@ -38,6 +38,6 @@ c) ha az intézkedés alá vont, valamint az eseménynél jelen levő személy a
 
 (5) A szolgálati elöljáró a megállapításait írásban rögzíti, amelyben állást foglal a szakszerűség, szükségesség, jogszerűség, arányosság követelményének megtartásáról. Ha megállapítása szerint a kényszerítő eszközök alkalmazására jogszabálysértő módon került sor, – ha annak jogszabályi feltételei fennállnak – az intézkedő országgyűlési őr ellen kártérítési, fegyelmi, vagy fegyelmi és büntetőeljárást kezdeményez.
 
-(6)[^32] Ha a kényszerítő eszköz alkalmazását követően az országgyűlési őr az elfogott személyt előállítás céljából a rendőrségnek átadta, az Országgyűlési Őrség a személyi szabadságot korlátozó intézkedésről szóló írásos jelentés másolatát a rendőrség előállítást végrehajtó szervezeti egységének az intézkedés foganatosítását követően haladéktalanul, de legkésőbb az azt követő napon megküldi.
+(6)[^33] Ha a kényszerítő eszköz alkalmazását követően az országgyűlési őr az elfogott személyt előállítás céljából a rendőrségnek átadta, az Országgyűlési Őrség a személyi szabadságot korlátozó intézkedésről szóló írásos jelentés másolatát a rendőrség előállítást végrehajtó szervezeti egységének az intézkedés foganatosítását követően haladéktalanul, de legkésőbb az azt követő napon megküldi.
 
-[^32]: A 27. § (6) bekezdése a 36/2015. (VI. 16.) BM rendelet 25. § d) pontja szerint módosított szöveg.
+[^33]: A 27. § (6) bekezdése a 36/2015. (VI. 16.) BM rendelet 25. § d) pontja szerint módosított szöveg.

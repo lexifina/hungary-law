@@ -4,6 +4,6 @@
 
 79. § (1) Az országgyűlési őr a szolgálattal összefüggésben jutalmat vagy kivételes esetben ajándékot csak az állományilletékes parancsnok előzetes engedélyével fogadhat el.
 
-(2)[^67] Az országgyűlési őr az elöljáró vagy az általa megbízott személy által átadott jutalmat, ajándékot az átvétel után, a „Hazámat szolgálom” kifejezéssel köszöni meg.
+(2)[^71] Az országgyűlési őr az elöljáró vagy az általa megbízott személy által átadott jutalmat, ajándékot az átvétel után, a „Hazámat szolgálom” kifejezéssel köszöni meg.
 
-[^67]: [A 9/2018. (IV. 25.) BM rendelet 54. § n) pontjával elrendelt módosítás, amely szerint a „Hazámat szolgálom!” szövegrész helyébe a „Hazámat szolgálom hűséggel, becsülettel!” szöveg lép, nem vezethető át.]
+[^71]: [A 9/2018. (IV. 25.) BM rendelet 54. § n) pontjával elrendelt módosítás, amely szerint a „Hazámat szolgálom!” szövegrész helyébe a „Hazámat szolgálom hűséggel, becsülettel!” szöveg lép, nem vezethető át.]

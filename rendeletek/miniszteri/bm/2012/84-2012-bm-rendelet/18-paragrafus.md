@@ -4,6 +4,6 @@
 
 (2) A személyazonosság megállapítása során meg kell állapítani az érintett személy személyazonosságát, és – akinél ez a további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják – rögzíteni kell az intézkedés alá vont személy személyazonosító adatait (név, születési hely, idő, anyja születési neve), az igazolványának sorozatát és számát, valamint az intézkedés helyét, idejét és okát.
 
-(3)[^25] Ha az országgyűlési őr megállapítja, hogy az érintett személy vagy az általa bemutatott okmány körözését rendelték el, haladéktalanul jelenti szolgálati elöljáróján keresztül az ügyeletesnek, aki intézkedik az illetékes rendőr-főkapitányság ügyeleti szolgálati feladatokat ellátó szervezeti elem értesítése iránt.
+(3)[^26] Ha az országgyűlési őr megállapítja, hogy az érintett személy vagy az általa bemutatott okmány körözését rendelték el, haladéktalanul jelenti szolgálati elöljáróján keresztül az ügyeletesnek, aki intézkedik az illetékes rendőr-főkapitányság ügyeleti szolgálati feladatokat ellátó szervezeti elem értesítése iránt.
 
-[^25]: A 18. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 43. §-ával megállapított szöveg.
+[^26]: A 18. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 43. §-ával megállapított szöveg.

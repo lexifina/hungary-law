@@ -18,7 +18,7 @@ g) az eseményt szolgálati elöljárójának azonnal jelenti,
 
 h) feljegyezi, hogy a sérültet milyen rendszámú mentő gépkocsival, hova szállították el, valamint
 
-i)[^22] a helyszínre megérkező rendőri szemlebizottság parancsnokát tájékoztatja, az intézkedést átadja, és szükséges mértékben segítséget nyújt.
+i)[^23] a helyszínre megérkező rendőri szemlebizottság parancsnokát tájékoztatja, az intézkedést átadja, és szükséges mértékben segítséget nyújt.
 
 (2) A helyszínről való bevonulása után az országgyűlési őr írásban jelenti, hogy
 
@@ -34,4 +34,4 @@ e) változásokat eszközöltek-e a helyszínen, ha igen, kik és miért,
 
 f) a helyszínt kinek és mikor adta át.
 
-[^22]: A 14. § (1) bekezdés i) pontja a 9/2018. (IV. 25.) BM rendelet 40. §-ával megállapított szöveg.
+[^23]: A 14. § (1) bekezdés i) pontja a 9/2018. (IV. 25.) BM rendelet 40. §-ával megállapított szöveg.

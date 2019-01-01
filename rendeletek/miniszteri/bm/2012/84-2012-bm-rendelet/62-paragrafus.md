@@ -20,7 +20,7 @@ h) megbetegedését, felgyógyulását.
 
 (2) Az alárendelt szolgálati elöljárójának írásban jelenti
 
-a)[^56] a személyi és családi körülményeiben beállott, a Hszt. 1. mellékletében meghatározott adatokkal kapcsolatos változásokat, valamint
+a)[^58] a személyi és családi körülményeiben beállott, a Hszt. 1. mellékletében meghatározott adatokkal kapcsolatos változásokat, valamint
 
 b) ha bűncselekmény, szabálysértés vagy a helyszínen közigazgatási bírsággal sújtható szabályszegés miatt vele szemben intézkedés történt.
 
@@ -28,7 +28,7 @@ b) ha bűncselekmény, szabálysértés vagy a helyszínen közigazgatási bírs
 
 (4) Az alárendelt szolgálati időben a közvetlen szolgálati elöljárónak haladéktalanul, de legkésőbb szolgálatának letelte előtt, szolgálati időn kívül az eseményt követő szolgálati napon jelenti a jogszabály által előírt jelentési kötelezettség alá eső változásokat, továbbá – a változástól számított 8 munkanapon belül – írásban a személyügyi nyilvántartás adatkörébe tartozó adataiban bekövetkezett változásokat.
 
-(5)[^57] Az országgyűlési őr az intézkedésével összefüggő rendkívüli eseményről haladéktalanul írásban köteles jelentést tenni, amelyet a szolgálati elöljáró köteles kivizsgálni. Az elfogással, kényszerítő eszköz alkalmazásával összefüggő rendkívüli eseményt haladéktalanul jelenteni kell az ügyeletesnek, aki az eseményt jelenti az Országgyűlési Őrség parancsnokának.
+(5)[^59] Az országgyűlési őr az intézkedésével összefüggő rendkívüli eseményről haladéktalanul írásban köteles jelentést tenni, amelyet a szolgálati elöljáró köteles kivizsgálni. Az elfogással, kényszerítő eszköz alkalmazásával összefüggő rendkívüli eseményt haladéktalanul jelenteni kell az ügyeletesnek, aki az eseményt jelenti az Országgyűlési Őrség parancsnokának.
 
-[^56]: A 62. § (2) bekezdés a) pontja a 36/2015. (VI. 16.) BM rendelet 25. § e) pontja szerint módosított szöveg.
-[^57]: A 62. § (5) bekezdését a 9/2018. (IV. 25.) BM rendelet 49. §-a iktatta be.
+[^58]: A 62. § (2) bekezdés a) pontja a 36/2015. (VI. 16.) BM rendelet 25. § e) pontja szerint módosított szöveg.
+[^59]: A 62. § (5) bekezdését a 9/2018. (IV. 25.) BM rendelet 49. §-a iktatta be.
