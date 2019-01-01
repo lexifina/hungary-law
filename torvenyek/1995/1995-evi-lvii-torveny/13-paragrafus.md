@@ -14,7 +14,7 @@ a) a 20/B. § (1)–(4) bekezdését azzal, hogy „magasabb vezető” és „v
 
 b) a 22–22/A. §-t azzal, hogy az „E”–„H” fizetési osztályba sorolt közalkalmazott alatt a felsőfokú iskolai végzettséget igénylő munkakört betöltő közalkalmazottat;
 
-c) a 22. § (16) bekezdését azzal, hogy a „nem megfelelt” helyett elfogadhatatlant;
+c) a 22. § (16) bekezdését azzal, hogy a „nem megfelelt” helyett elfogadhatatlant, a „minősítés” helyett teljesítményértékelést;
 
 d) a 23/B. § (8) bekezdését azzal, hogy a „vezetői megbízású közalkalmazott” alatt az e törvény szerinti vezetői munkakört;
 

@@ -16,6 +16,6 @@ c) a 28/D. § (4) és (5) bekezdését,
 
 d) a 28/E. §-t,
 
-e) a 31. §-t,
+e) a 31. § (1) bekezdését,
 
 f) a 31/A. §-t.

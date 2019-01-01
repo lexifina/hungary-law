@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-57-00-00
 | 2018-01-01 | 2017. évi CXXXIV. törvény | 1995-57-00-00.55 |
 | 2018-01-02 | 2017. évi CLXXXIII. törvény | 1995-57-00-00.56 |
 | 2018-12-21 | 2018. évi CXXI. törvény | 1995-57-00-00.57 |
+| 2019-01-01 | 2018. évi CXXI. törvény | 1995-57-00-00.58 |

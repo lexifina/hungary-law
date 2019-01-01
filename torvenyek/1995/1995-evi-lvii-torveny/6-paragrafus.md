@@ -2,7 +2,11 @@
 
 ## A tulajdonra és a tulajdon működtetésére vonatkozó rendelkezések
 
-6. § (1)–(3)
+6. § (1)
+
+(2)
+
+(3)
 
 (4) Az ingatlan tulajdonosának a tulajdonában vannak:
 

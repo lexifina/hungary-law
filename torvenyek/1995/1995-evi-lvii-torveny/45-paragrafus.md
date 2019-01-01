@@ -4,7 +4,9 @@
 
 45. § (1) Ez a törvény 1996. január 1. napján lép hatályba.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) Vízvezetési szolgalom megállapításával kapcsolatban indult és e törvény hatálybalépésekor még folyamatban lévő ügyekben — ha a vízügyi hatóság már meghozta az elsőfokú határozatot — az 1964. évi IV. törvény 34. §-át kell alkalmazni.
 
@@ -128,7 +130,13 @@ p) a távlati vízbázisok megnevezésének, valamint az egyes távlati vízbáz
 
 rendeletben történő megállapítására.
 
-(8a) Felhatalmazást kap a vízügyi igazgatási szervek irányításáért felelős miniszter a folyók nagyvízi medrére vonatkozó kezelési tervek rendeletben történő megállapítására.
+(8a) Felhatalmazást kap a vízügyi igazgatási szervek irányításáért felelős miniszter
+
+a) a folyók nagyvízi medrére vonatkozó kezelési tervek,
+
+b) az ár- és belvíz által veszélyeztetett területek lehatárolásának, a települések ár- és belvíz veszélyeztetettségi alapon történő besorolásának, valamint a besorolás felülvizsgálata szabályainak
+
+rendeletben történő megállapítására.
 
 (9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyarország két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
 

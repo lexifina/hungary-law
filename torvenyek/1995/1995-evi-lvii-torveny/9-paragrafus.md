@@ -6,6 +6,8 @@ a) a 3. számú melléklet szerinti csatornák közül azoknak a működtetése,
 
 b) a víziközmű-társulatok által végzett közműlétesítés vagy -fejlesztés;
 
-c)–d)
+c)
+
+d)
 
 e)
