@@ -6,6 +6,8 @@ a) a bejelentési kérelmet;
 
 b) képviselet esetén annak igazolását;
 
-c) a Földművelésügyi és Vidékfejlesztési Minisztérium által – külön jogszabály alapján – ellenőrzött és jóváhagyott termékleírást, ha a bejelentés a mezőgazdasági termékek és az élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló 2081/92/EK rendelet hatálya alá nem tartozó mezőgazdasági termék vagy élelmiszer földrajzi árujelzőjének lajstromozására irányul.
+c)[^4] az agrárpolitikáért felelős miniszter által – külön jogszabály alapján – ellenőrzött és jóváhagyott termékleírást, ha a bejelentés szeszes italra vonatkozó földrajzi árujelző lajstromozására irányul.
 
 (2) Az (1) bekezdésben említett bejelentésekre az 1. § (2)–(3) bekezdéseit megfelelően alkalmazni kell.
+
+[^4]: A 4. § (1) bekezdés c) pontja a 30/2018. (XII. 12.) IM rendelet 13. §-ával megállapított szöveg.
