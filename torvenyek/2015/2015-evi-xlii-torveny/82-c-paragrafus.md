@@ -12,7 +12,7 @@
 
 (3) A miniszter a továbbfoglalkoztatási kötelezettség alóli mentesítés tárgyában harminc napon belül indokolt határozatban dönt. A miniszter a döntés során mérlegeli, hogy a rendvédelmi szervnél meghatározható-e olyan feladatkör, amelyet a hivatásos állomány tagja nem hivatásos munkakörben egészségi állapota alapján elláthat, valamint azt, ha a hivatásos állomány tagjának egészségi állapota alapján tőle már nem várható el a mindennapos rendelkezésre állási és munkavégzési kötelezettség. A döntéssel szemben önálló jogorvoslatnak nincs helye.
 
-(4) Ha az állományilletékes parancsnok személye egybeesik az országos parancsnokkal, akkor a (2) bekezdésben foglaltaktól eltérően az országos parancsnok legkésőbb a kérelem kézhezvételétől számított öt munkanapon belül összehívja a Becsületbíróságot.
+(4) Ha az állományilletékes parancsnok személye egybeesik az országos parancsnokkal, akkor a (2) bekezdésben foglaltaktól eltérően az országos parancsnok legkésőbb a kérelem kézhezvételétől számított tizenöt munkanapon belül összehívja a Becsületbíróságot.
 
 (5) A rendvédelmi szerv hivatásos állományának másik, e törvény hatálya alá tartozó rendvédelmi szervhez vezényelt tagja esetében az előterjesztést az eredeti rendvédelmi szerv országos parancsnoka terjeszti fel.
 

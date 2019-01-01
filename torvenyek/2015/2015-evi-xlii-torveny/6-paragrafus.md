@@ -34,7 +34,7 @@ d) ha a munkáltatói jogkör gyakorlója a hivatásos állomány tagja eljárá
 
 (7a) Ha az elektronikus dokumentum kiállítása bármely okból nem lehetséges, a hivatásos állomány tagja jognyilatkozatát papíralapú dokumentumban teszi meg.
 
-(8) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkör gyakorlója az iratot a (6) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkör gyakorlójának legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a (7) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
+(8) Többoldalú jognyilatkozat esetén, ha a munkáltatói jogkör gyakorlója az iratot a (6) bekezdés szerint elektronikusan írja alá, az akarategységet hitelesen tükröző kiadmány az a papír alapú kiadmány, amely a munkáltatói jogkör gyakorlójának legalább fokozott biztonságú aláírását tartalmazó elektronikus iratról – a 6/A. § (6) bekezdés rendelkezései alapján – készült és egyidejűleg tartalmazza az iratot nem elektronikusan aláíró személy aláírását is.
 
 (9) Az írásbeli jognyilatkozatokat – az Országgyűlési Őrség hivatásos állománya kivételével, valamint a (10) bekezdésben foglalt eltéréssel – a (4) vagy (6) bekezdés szerint kell kiadmányozni és a 6/A. § szerint kell kézbesíteni.
 

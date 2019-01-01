@@ -1,4 +1,4 @@
-123. § (1) Nem léptethető elő a hivatásos állomány tagja a 121. §-ban meghatározott feltételek megléte esetén sem,
+123. § (1) Fizetési fokozatban vagy rendfokozatban nem léptethető elő a hivatásos állomány tagja a 121. §-ban meghatározott feltételek megléte esetén sem,
 
 a) a rendfokozatot érintő fegyelmi fenyítés vagy bírósági ítélet végrehajtásának tartama alatt, vagy
 

@@ -20,6 +20,8 @@ i) ha a hivatásos állomány volt tagja másik, a 82/B. § (4) bekezdésébe va
 
 j) ha a rendvédelmi egészségkárosodási járadékra jogosulttal szemben a jogosultság időtartama alatt szándékos bűncselekmény elkövetése miatt a bíróság jogerősen szabadságvesztést vagy elzárást szabott ki, vagy kényszergyógykezelését rendelte el.
 
+(1a) A rendvédelmi egészségkárosodási ellátásra jogosultat a rendvédelmi szerv felhívhatja annak igazolására, hogy vele szemben az (1) bekezdés j) pontja szerinti megszűnési ok nem áll fenn. Az egészségkárosodási ellátás megszüntetésének van helye, ha a rendvédelmi szerv másodszori felhívására a jogosult a kért igazolást nem csatolja.
+
 (2) A rendvédelmi egészségkárosodási járadékra jogosultság akkor is megszűnik, ha a rendvédelmi szervnél történő továbbfoglalkoztatásra tekintettel a jogosult részére rendvédelmi egészségkárosodási keresetkiegészítést állapítanak meg. A rendvédelmi egészségkárosodási keresetkiegészítésre jogosultság akkor is megszűnik, ha a továbbfoglalkoztatási kötelezettség alól történő miniszteri mentesítésre tekintettel a jogosult részére rendvédelmi egészségkárosodási járadékot állapítanak meg.
 
 (3) Az egészségkárosodási ellátásra jogosult az egészségkárosodási ellátásra való jogosultságáról annak kezdőnapját követően írásban lemondhat. Lemondás esetén sem rendvédelmi egészségkárosodási keresetkiegészítés, sem rendvédelmi egészségkárosodási járadék újbóli megállapítása nem kérhető.

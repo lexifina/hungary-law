@@ -1,4 +1,4 @@
-180. § (1) A hivatásos állomány tagja részére kitüntető címként a miniszter tanácsosi vagy főtanácsosi címet adományozhat. A hivatásos állománynak a szolgálati beosztáshoz előírt végzettséggel és képzettséggel rendelkező tagja részére magas szintű szakmai ismeretei és példamutató magatartása alapján
+180. § (1) A hivatásos állomány tagja részére kitüntető címként a miniszter, az országos parancsnok vagy az országos főigazgató tanácsosi vagy főtanácsosi címet adományozhat. A hivatásos állománynak a szolgálati beosztáshoz előírt végzettséggel és képzettséggel rendelkező tagja részére magas szintű szakmai ismeretei és példamutató magatartása alapján
 
 a) tanácsosi cím akkor adományozható, ha legalább tizenöt év,
 

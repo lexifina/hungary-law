@@ -1,0 +1,5 @@
+354/A. § (1) A hivatásos állomány azon, 2018. december 31-én szolgálati viszonyban álló tagja részére, akinek az alapilletménye és a 161. § (1) bekezdés a) és b) pontja szerinti egy hónapra számított pótlékok együttes összege 2019. január 1-jén nem éri el a részére a betöltött szolgálati beosztása alapján a 351. § (3) bekezdése alapján megállapított összegű illetményt, az továbbra is a 351. § (3) bekezdése szerinti illetményre jogosult. Az ehhez szükséges különbözetet korrekciós díjként kell folyósítani.
+
+(2) Az (1) bekezdés szerinti korrekciós díjat a hivatásos állomány azon tagjának lehet csak megállapítani, aki a 353. § (6) bekezdése alapján 2015. július 1. és 2015. december 31. között kompenzációs díjra volt jogosult.
+
+(3) A hivatásos állomány tagja a korrekciós díjra mindaddig és olyan mértékben jogosult, ameddig a részére megállapított alapilletmény és a 161. § (1) bekezdés a) és b) pontja szerinti egy hónapra számított pótlékok együttes összege a 351. § (3) bekezdése alapján megállapított illetmény összegét el nem éri, vagy meg nem haladja.

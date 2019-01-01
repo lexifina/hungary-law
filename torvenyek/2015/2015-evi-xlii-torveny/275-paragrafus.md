@@ -14,6 +14,8 @@ f) a teljesítményértékelést vagy minősítést végző személy,
 
 g) a törvényességi ellenőrzéssel megbízott személy,
 
-h) a bíróság, az ügyészség és a nyomozó hatóság, valamint
+h) a bíróság, az ügyészség és a nyomozó hatóság,
 
-i) az illetmény-számfejtést végző szerv az illetményszámfejtéshez szükséges mértékig.
+i) az illetmény-számfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
+
+j) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a vezetői beosztásba kinevezés és a rendfokozatban történő soron kívüli előléptetést megelőző előzetes véleményalkotási eljárás keretében.

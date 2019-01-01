@@ -6,7 +6,7 @@ a) heti húsz vagy harminc óra,
 
 b) készenléti jellegű szolgálati beosztásban a kinevezés szerinti szolgálatteljesítési idő legalább felének megfelelő mértékű
 
-rész-szolgálatteljesítési időt engedélyez, ha a hivatásos állomány tagja a kérelem benyújtásakor a 150. § (1) bekezdés a) pontja szerinti illetmény nélküli szabadságot vesz igénybe, és az eredeti szolgálati beosztása – a szolgálati beosztás jellegéből fakadóan – rész-szolgálatteljesítési időben is ellátható.
+rész-szolgálatteljesítési időt engedélyez, ha a hivatásos állomány tagja a kérelem benyújtásakor a 149. § (1) bekezdése szerinti szülési szabadságot, illetve 150. § (1) bekezdés a) pontja szerinti illetmény nélküli szabadságot vesz igénybe, és az eredeti szolgálati beosztása – a szolgálati beosztás jellegéből fakadóan – rész-szolgálatteljesítési időben is ellátható.
 
 (2) Ha a hivatásos állomány tagjának eredeti szolgálati beosztása rész-szolgálatteljesítési időben nem látható el, a munkáltatói jogkört gyakorló elöljáró az eredeti szolgálati beosztástól eltérő szolgálati beosztást ajánl fel. Ha a munkáltatói jogkört gyakorló elöljáró az eredeti szolgálati beosztástól eltérő szolgálati beosztást nem tud felajánlani, azt írásban köteles indokolni.
 
@@ -14,15 +14,15 @@ rész-szolgálatteljesítési időt engedélyez, ha a hivatásos állomány tagj
 
 (4) A rész-szolgálatteljesítési idő – annak engedélyezése esetén –
 
-a) az illetmény nélküli szabadság megszűnését követő naptól,
+a) a szülési szabadság, illetve az illetmény nélküli szabadság megszűnését követő naptól,
 
 b) ha a hivatásos állomány tagjának az (5) bekezdés alapján ki kell adni a rendes szabadságát, a szabadság leteltét követő naptól
 
 hatályos.
 
-(5) A (4) bekezdés b) pontjában foglaltak alkalmazása esetén – a felek eltérő megállapodása hiányában – a rendes szabadság kiadását az illetmény nélküli szabadság lejártát követő első munkanapon meg kell kezdeni. Eltérő megállapodás esetén a rendes szabadság kiadását az illetmény nélküli szabadság lejártát követő harminc napon belül meg kell kezdeni.
+(5) A (4) bekezdés b) pontjában foglaltak alkalmazása esetén – a felek eltérő megállapodása hiányában – a rendes szabadság kiadását a szülési szabadság, illetve az illetmény nélküli szabadság lejártát követő első munkanapon meg kell kezdeni. Eltérő megállapodás esetén a rendes szabadság kiadását a szülési szabadság, illetve az illetmény nélküli szabadság lejártát követő harminc napon belül meg kell kezdeni.
 
-(6) A kérelmet az (1) bekezdés szerinti illetmény nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatói jogkört gyakorló elöljárónál benyújtatni. A kérelemben a hivatásos állomány tagja a munkáltatói jogkört gyakorló elöljárót köteles tájékoztatni
+(6) A kérelmet az (1) bekezdés szerinti szülési szabadság, illetve az illetmény nélküli szabadság igénybevételének megszűnése előtt legalább hatvan nappal kell a munkáltatói jogkört gyakorló elöljárónál benyújtatni. A kérelemben a hivatásos állomány tagja a munkáltatói jogkört gyakorló elöljárót köteles tájékoztatni
 
 a) az illetmény nélküli szabadság igénybevételére jogosító gyermeke harmadik életéve, a hivatásos állomány három vagy több gyermeket nevelő tagja esetében ötödik életéve betöltésének időpontjáról, továbbá
 

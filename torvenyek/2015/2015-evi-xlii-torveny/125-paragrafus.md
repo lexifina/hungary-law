@@ -6,6 +6,6 @@
 
 (4) A (3) bekezdés szerinti magasabb rendfokozatba kinevezésére, előléptetésre a besorolási kategórián belül legfeljebb egy alkalommal kerülhet sor.
 
-(5) A miniszter az (1) és (3) bekezdésben meghatározott feltételek nélkül is soron kívül eggyel magasabb fizetési fokozatba vagy rendfokozatba előléptetheti a hivatásos állomány tagját, ha a szolgálat teljesítésében kimagasló helytállást tanúsított.
+(5) Az országos parancsnok és az országos főigazgató az (1) és (3) bekezdésben meghatározott feltételek nélkül is soron kívül eggyel magasabb fizetési fokozatba vagy rendfokozatba előléptetheti a hivatásos állomány tagját, ha a szolgálat teljesítésében kimagasló helytállást tanúsított.
 
-(6) A soron kívül eggyel magasabb fizetési fokozatba előresoroláskor és a soron kívül eggyel magasabb rendfokozatba kinevezéskor, előléptetéskor a hivatásos állomány tagjának új fizetési fokozatában a fizetési várakozási idő újraindul.
+(6) A soron kívül eggyel magasabb fizetési fokozatba előresoroláskor és a soron kívül eggyel magasabb rendfokozatba kinevezéskor, előléptetéskor a hivatásos állomány tagjának új fizetési fokozatában a korábbi fizetési fokozatban már eltelt időtartamot továbbra is figyelembe kell venni.

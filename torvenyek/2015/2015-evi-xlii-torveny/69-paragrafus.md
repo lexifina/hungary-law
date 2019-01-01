@@ -8,13 +8,17 @@ b) nemzetközi kötelezettségvállalás alapján külföldi béketámogató, fe
 
 c) az Európai Unió intézményeibe nemzeti szakértőként, kormányrendeletben meghatározott jelölési eljárás alapján vagy gyakornokként a miniszter támogatásával,
 
-d) egyéb, Magyarország nemzetközi kötelezettségeinek ellátásához kapcsolódó feladatok ellátására
+d) egyéb, Magyarország nemzetközi kötelezettségeinek ellátásához kapcsolódó feladatok ellátására,
+
+e) a Rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (1) bekezdés f) pontja szerinti feladat ellátása érdekében magyar külképviseletre vagy a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervhez
 
 – rendelkezési állományba helyezés mellett – a miniszter külföldre vezényli a külföldi szolgálati tevékenység időtartamára, de legfeljebb három évre. A külföldre vezénylés egy alkalommal egy évvel meghosszabbítható.
 
 (2) Magyarországi szolgálatteljesítési hely esetén is a külföldre vezénylés szabályai szerint kell eljárni, ha a vezénylés az (1) bekezdés szerinti nemzetközi szervezethez vagy az Európai Unió intézményéhez, az ott meghatározott célból történik, és a nemzetközi szerv vagy az Európai Unió intézményének székhelye vagy telephelye Magyarországon van.
 
 (3) A hivatásos állomány tagját nemzetközi kötelezettség teljesítése érdekében vagy megállapodás alapján három hónapot meg nem haladó időtartamra – a szolgálati beosztása meghagyásával – az országos parancsnok vagy az országos főigazgató vezényli a külföldi szolgálatra.
+
+(3a) A hivatásos állomány más rendvédelmi szervhez vezényelt tagja a 65. § szerinti vezénylése megszüntetése nélkül is külföldre vezényelhető. Ebben az esetben a három hónapot meghaladó vezénylés időtartamára a hivatásos állomány tagja annak a szervnek a rendelkezési állományába kerül, amely szervtől külföldre vezénylik őt. E célból a 77. § (1) bekezdésében megjelöltek mellett az a rendvédelmi szerv is működtet rendelkezési állományt, amelynél kizárólag vezényelt hivatásos állomány teljesít szolgálatot.
 
 (4) A hivatásos állomány tagját külföldi szolgálatra vezénylés előtt az ezzel járó sajátos szolgálati kötelezettségekről, ezek teljesítése feltételeiről és körülményeiről, a részére járó juttatásokról és egyéb jogosultságairól tájékoztatni kell.
 
