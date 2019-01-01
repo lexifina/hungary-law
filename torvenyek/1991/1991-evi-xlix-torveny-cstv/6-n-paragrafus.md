@@ -10,6 +10,6 @@ b) az adós vezetői, volt vezetői, az adós jogi személy tagjai, tulajdonosai
 
 c) ha az eljárás egyszerűsített felszámolásként került lefolytatásra, ennek ténye,
 
-d) az adós és a vagyonfelügyelő, illetve a felszámoló elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elektronikus levélcíme.
+d) az adós és a vagyonfelügyelő, illetve a felszámoló elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus kapcsolattartásra szolgáló elérhetősége.
 
 (4) A fizetésképtelenségi nyilvántartás az adatokat kereshető formában, a bejegyzéstől számított 15 évig őrzi meg, ezt követően még öt évig archivált adatként kell megőrizni, majd azt követően haladéktalanul törölni kell.
