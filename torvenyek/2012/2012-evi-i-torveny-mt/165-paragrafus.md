@@ -29,3 +29,5 @@ c) a 160. §-ban,
 d) a 164. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.
+
+(3) A 94. § (3) bekezdés alkalmazása esetén órabéres munkavállalóval a 156. § (1) bekezdés b) pont szerinti eltérő megállapodás csak kollektív szerződés rendelkezése szerint köthető.

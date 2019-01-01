@@ -20,13 +20,13 @@ d) az a) pontban meghatározott bűncselekmények elkövetése miatt kényszergy
 
 a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
 
-aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
 
-ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig;
+ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított tíz évig;
 
-b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított két évig;
+b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított három évig;
 
-c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított három évig.
+c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított öt évig.
 
 (3) Azt a tényt, hogy a munkaviszonyt létesíteni kívánó személy megfelel az (1)–(2) bekezdésben meghatározott feltételeknek, az érintett
 

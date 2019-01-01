@@ -6,7 +6,7 @@
 
 a) a munkáltató személyében bekövetkező változás,
 
-b) a 99. § (3) bekezdése vagy a 135. § (4) bekezdése szerinti megállapodás munkavállaló általi felmondása
+b) a 99. § (3) bekezdése, a 109. § (2) bekezdése vagy a 135. § (3)–(4) bekezdése szerinti megállapodás munkavállaló általi felmondása
 
 nem szolgálhat a munkáltató felmondásának indokául.
 

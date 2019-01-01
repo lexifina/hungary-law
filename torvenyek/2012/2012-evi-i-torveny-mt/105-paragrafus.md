@@ -1,9 +1,17 @@
 ## 54. A heti pihenőnap
 
-105. § (1) A munkavállalót hetenként két pihenőnap illeti meg (heti pihenőnap).
+105. § (1) Hetenként két pihenőnapot (heti pihenőnap) kell beosztani. A heti pihenőnapok egyenlőtlenül is beoszthatók.
 
-(2) Egyenlőtlen munkaidő-beosztás esetén a heti pihenőnapok egyenlőtlenül is beoszthatók.
+(2) Egyenlőtlen munkaidő-beosztás esetén hat egybefüggő munkanapot követően legalább egy heti pihenőnapot be kell osztani.
 
-(3) A (2) bekezdésben foglaltak alkalmazásakor – a megszakítás nélküli, a több műszakos vagy az idényjellegű tevékenység keretében foglalkoztatott munkavállalót kivéve – a munkavállaló számára hat munkanapot követően egy heti pihenőnapot be kell osztani.
+(3) Egyenlőtlen munkaidő-beosztás esetén
 
-(4) A munkavállaló számára – a 101. § (1) bekezdés f) pont kivételével – havonta legalább egy heti pihenőnapot vasárnapra kell beosztani.
+a) a megszakítás nélküli,
+
+b) a több műszakos,
+
+c) az idényjellegű tevékenység
+
+keretében foglalkoztatott munkavállaló számára havonta legalább egy heti pihenőnapot be kell osztani.
+
+(4) Havonta legalább egy heti pihenőnapot – a 101. § (1) bekezdés f) pont kivételével – vasárnapra kell beosztani.

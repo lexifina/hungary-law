@@ -10,4 +10,4 @@ b) négy és fél órát meghaladó beosztás szerinti napi munkaidő esetén, l
 
 c) legalább tizenkét óra tartamú napi pihenőidőt kell biztosítani.
 
-(4) A fiatal munkavállaló esetében a 105. § (2) bekezdésében és a 106. § (3) bekezdésében foglaltak nem alkalmazhatók.
+(4) A fiatal munkavállaló esetében a heti pihenőnap és a heti pihenőidő egyenlőtlenül nem osztható be.

@@ -28,6 +28,12 @@ rendkívüli munkaidő tartamát be kell számítani.
 
 (6) A munkavállaló beosztás szerinti napi munkaidejébe az ügyelet teljes tartamát be kell számítani, ha a munkavégzés tartama nem mérhető.
 
-(7) Egyenlőtlen munkaidő-beosztás alkalmazása esetén a (2) bekezdés b) pontját és a (3) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy a beosztás szerinti heti munkaidő tartamát átlagban kell figyelembe venni.
+(7) Egyenlőtlen munkaidő-beosztás esetén a beosztás szerinti heti munkaidő tartamát
+
+a) a 94. § (1) és (2) bekezdés szerint meghatározott időszakon, vagy
+
+b) ha ezt objektív vagy műszaki vagy munkaszervezéssel kapcsolatos okok indokolják – kollektív szerződés rendelkezése szerint – tizenkét hónapon
+
+belül átlagban kell figyelembe venni.
 
 (8) A 102. § (5) bekezdése szerint meghatározott munkarendet alkalmazó munkáltatónál – munkaidőkeret hiányában – a szombaton történő munkavégzéssel érintett naptári héten a (2) bekezdés b) pont és a (3) bekezdés b) pont nem irányadó.
