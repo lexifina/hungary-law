@@ -1,28 +1,14 @@
-## 1. a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 19. § (2) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetben a 25. Modern Városok Program támogatása cím létrehozását;
+## 1.[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 2. a Kvtv. 19. § (2) bekezdésében és az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva a Modern Városok Program végrehajtásának érdekében az 1. melléklet szerinti átcsoportosítást rendeli el;
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. egyetért azzal, hogy az 1. pont szerinti jogcímből a Modern Városok Program megvalósítására
 
-## a)–f)[^1]
+## a)–f)[^3]
 
 ## g) Miskolc Megyei Jogú Város Önkormányzat 500,0 millió forint,
 
-## h)–n)[^2]
+## h)–n)[^4]
 
 ## o) Zalaegerszeg Megyei Jogú Város Önkormányzat 500,0 millió forint
 
@@ -48,69 +34,10 @@
 
 ## Határidő: folyamatos
 
-1. melléklet az 1885/2015. (XII. 3.) Korm. határozathoz
+1. melléklet az 1885/2015. (XII. 3.) Korm. határozathoz[^5]
 
-| IX. Helyi önkormányzatok támogatásai XI. Miniszterelnökség ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2015. Millió forintban, egy tizedessel |
-
-| Államház-tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | IX. |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 356017 |  | 25 |  |  |  |  |  | Modern Városok Program támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 25 000,0 |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 355717 |  |  |  | 67 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -25 000,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Államház-tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Államház-tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 355717 |  |  |  | 67 |  |  |  |  |  | Modern Városok Program |  |  |  |  |  |  |  |  |  |  | -25 000,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III. n.év | IV. n.év |
-
-| Fejezet |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: azonnal |  |  | 25 000,0 |  |  |  |  |  |  |  |  |  |  |  | 25 000,0 |
-
-| Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: A 3. pont a)–f) alpontját az 1003/2016. (I. 13.) Korm. határozat 6. pontja visszavonta.
-[^2]: A 3. pont h)–n) alpontját az 1003/2016. (I. 13.) Korm. határozat 6. pontja visszavonta.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 3. pont a)–f) alpontját az 1003/2016. (I. 13.) Korm. határozat 6. pontja visszavonta.
+[^4]: A 3. pont h)–n) alpontját az 1003/2016. (I. 13.) Korm. határozat 6. pontja visszavonta.
+[^5]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
