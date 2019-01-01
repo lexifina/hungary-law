@@ -1,1 +1,0 @@
-156. § A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvénynek az e törvény 86. §-ával megállapított rendelkezését a 2009. évi várható jövedelemadó 90 százalékának megállapítására nem kötelező alkalmazni.

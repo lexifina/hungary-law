@@ -1,7 +1,0 @@
-## HARMADIK RÉSZ
-
-## A HELYI ADÓKAT, AZ ILLETÉKEKET ÉS A GÉPJÁRMŰADÓT ÉRINTŐ MÓDOSÍTÁSOK
-
-## V–VII. Fejezet
-
-37–48. §

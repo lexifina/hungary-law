@@ -1,7 +1,0 @@
-## MÁSODIK RÉSZ
-
-## A KÖZÖSSÉGI VÁMJOG VÉGREHAJTÁSÁRÓL SZÓLÓ 2003. ÉVI CXXVI. TÖRVÉNYT ÉRINTŐ MÓDOSÍTÁSOK
-
-## IV. Fejezet
-
-36. §

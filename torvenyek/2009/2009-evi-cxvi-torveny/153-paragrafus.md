@@ -1,1 +1,0 @@
-153. § Aki szolgálati nyugdíjra jogosulttá vált és foglalkoztatója e törvény hatálybalépését megelőzően nem vonta le tőle a munkavállalói járulékot, azt e törvény hatálybalépésétől a magánszemélytől visszamenőleg követelni nem lehet.

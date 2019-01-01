@@ -1,7 +1,0 @@
-## HETEDIK RÉSZ
-
-## A TÁVHŐSZOLGÁLTATÁS VERSENYKÉPESEBBÉ TÉTELÉRŐL SZÓLÓ TÖRVÉNYT ÉRINTŐ MÓDOSÍTÁS
-
-## XV. Fejezet
-
-86. §

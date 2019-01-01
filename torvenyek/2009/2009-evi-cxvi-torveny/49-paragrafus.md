@@ -1,7 +1,0 @@
-## NEGYEDIK RÉSZ
-
-## AZ ADÓZÁS RENDJÉRŐL SZÓLÓ TÖRVÉNYT ÉRINTŐ MÓDOSÍTÁSOK
-
-## VIII. Fejezet
-
-49–65. §
