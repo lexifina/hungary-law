@@ -4,4 +4,4 @@
 
 (3) A követelés megfizetésére a magyar megkeresett hatóság (állami adó- és vámhatóság) az Art. fizetési könnyítésre vonatkozó rendelkezései szerint a kötelezett személy részére fizetési könnyítést engedélyezhet. A fizetési könnyítéssel kapcsolatos döntésről a magyar megkeresett hatóság a megkereső hatóságot is értesíti.
 
-(4) A magyar megkeresett hatóság a követelés, valamint a (2) és (3) bekezdés alapján felszámított késedelmi pótlék végrehajtási eljárásban érvényesített összegét átutalja a megkereső hatóság részére.
+(4) A magyar megkeresett hatóság a követelés, valamint a (2) és (3) bekezdés alapján felszámított késedelmi pótlék végrehajtási eljárásban érvényesített összegét euróban utalja át a megkereső hatóság részére.

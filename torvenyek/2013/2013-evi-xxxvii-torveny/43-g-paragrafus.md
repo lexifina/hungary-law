@@ -14,7 +14,9 @@ a) az (1)–(3) bekezdés szerinti bejelentés alapján a Jelentő Magyar Pénz�
 
 b) az 1. melléklet VIII/C/17. g) pontja szerinti Kizárt Pénzügyi Számlák listáját, és
 
-c) a Megállapodást kihirdető törvény 1. mellékletében felsorolt államok listáját.
+c) a Megállapodást kihirdető törvény 1. mellékletében felsorolt államok listáját, valamint
+
+d) az 1. melléklet VIII/D/4. b) pont bb) alpontja szerinti Résztvevő Joghatóságok jegyzékét.
 
 (5) A Jelentő Magyar Pénzügyi Intézmény az 1. melléklet III/B/5. és III/C/5. c) pontja szerinti Nem dokumentált Pénzügyi Számláról a Számlatulajdonos nevének és számlaszámának feltüntetésével a dokumentáció hiánya megállapításának adóévét követő év június 30. napjáig – bejelentést tesz az állami adóhatósághoz.
 

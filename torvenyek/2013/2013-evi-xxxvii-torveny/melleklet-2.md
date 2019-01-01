@@ -26,7 +26,7 @@
 
 ## 7. az 5. és 6. pontban nem szereplő számláknál az adóévben a Számlatulajdonos részére a számlával kapcsolatban kifizetett vagy jóváírt bruttó összeg, amelynek a Jelentő Magyar Pénzügyi Intézmény a kötelezettje vagy adósa, ideértve az adóévben a visszaváltásokból származó, a Számlatulajdonos részére teljesített kifizetések összevont összegét.
 
-## B. A szolgáltatott információnak tartalmaznia kell az egyes kifizetések pénznemét.
+## B. A szolgáltatott információnak tartalmaznia kell az egyes összegek pénznemét.
 
 ## C. Az A/1. ponttól eltérően, a Jelentendő Meglévő Pénzügyi Számlához kapcsolódóan, az adóazonosító számról vagy a születési időről nem kell adatot szolgáltatni, ha ezek a Jelentő Magyar Pénzügyi Intézmény nyilvántartásában nem szerepelnek. A Jelentő Magyar Pénzügyi Intézmény azonban megfelelő intézkedéseket tesz annak érdekében, hogy az azon adóévet követő második adóév végéig, amelyben a Meglévő Számlát Jelentendő Számlának minősítették, a Meglévő Számlához kapcsolódóan beszerezze az adóazonosító számot és a születési időre vonatkozó információt.
 
@@ -186,7 +186,7 @@
 
 ## a) A Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása
 
-## A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan, a VIII/A/6. b) pontja szerinti Pénzügyi Intézmény, amely nem Résztvevő joghatóság Pénzügyi Intézménye. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
+## A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan Pénzügyi Intézmény, amely nem tartozik a VIII/D/7. b) pontban meghatározott Pénzügyi Intézmények közé. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
 
 ## b) A Számlatulajdonos felett Ellenőrzést gyakorló személyek azonosítása
 
@@ -198,11 +198,7 @@
 
 ## ca) a pénzmosás elleni fellépés, illetve az ügyfél-azonosítás kapcsán végzendő átvilágítási eljárások keretében beszerzett adatokat azon, egy vagy több Nem Pénzügyi Jogalany Meglévő Számlái esetében, amelyek összesített egyenlege vagy értéke nem haladja meg az 1 000 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget; vagy
 
-## cb) a Számlatulajdonos vagy az Ellenőrzést gyakorló személy nyilatkozatát arról, hogy mely tagállamban, más államban vagy egyéb joghatóság területén rendelkezik adóügyi illetőséggel.
-
-## E. Meglévő Jogalanyi Számlákra vonatkozó ellenőrzési határidő és egyéb különös szabályok
-
-## 1. A 2015. december 31-én 250 000 USD-t meghaladó, forintban vagy külföldi fizetési eszközben (devizában) kifejezett, összesített egyenlegű vagy értékű Meglévő Jogalanyi Számlák ellenőrzését 2017. december 31-ig kell elvégezni.
+## cb) a Számlatulajdonos vagy az Ellenőrzést gyakorló személy nyilatkozatát arról, hogy mely tagállamban, más államban vagy egyéb joghatóság területén rendelkezik adóügyi illetőséggel. A Számlatulajdonos vagy az Ellenőrzést gyakorló személy érvényes nyilatkozatának hiányában a Jelentő Magyar Pénzügyi Intézmény az Ellenőrzést gyakorló személy adóügyi illetőségét a III/B/2. pontban meghatározott szempontok figyelembe vételével állapítja meg.
 
 ## 1a. Az 1. bekezdés rendelkezéseitől eltérően azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján 250 000 USD-t meghaladó, forintban vagy külföldi fizetési eszközben (devizában) kifejezett, összesített egyenlegű vagy értékű Meglévő Jogalanyi Számlák ellenőrzését a mellékletbe való bekerülés évének utolsó napjáig kell elvégezni.
 
@@ -568,13 +564,13 @@
 
 ## f) Pénzügyi Intézmény.
 
-## 3. Tagállami vagy más állami személy: olyan tagállami vagy más állambeli személy vagy Jogalany, aki vagy amely más tagállam vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt. E rendelkezés alkalmazásában az olyan Jogalanyt (például gazdasági társaságot, polgári jogi társasági szerződést vagy hasonló jogi megállapodást), amely nem rendelkezik adóügyi illetőséggel, a tényleges üzletvezetési helye szerinti joghatóságban illetőséggel rendelkezőnek kell tekinteni.
+## 3. Tagállami vagy más állambeli személy: az a személy vagy Jogalany, aki vagy amely más tagállam vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt. E rendelkezés alkalmazásában az olyan Jogalanyt (például gazdasági társaságot, polgári jogi társasági szerződést vagy hasonló jogi megállapodást), amely nem rendelkezik adóügyi illetőséggel, a tényleges üzletvezetési helye szerinti joghatóságban illetőséggel rendelkezőnek kell tekinteni.
 
 ## 4. Résztvevő joghatóság: Magyarország vonatkozásában:
 
-## a) egy más tagállam vagy más állam;
+## a) egy más tagállam;
 
-## b) más joghatósággal rendelkező terület,
+## b) más állam, vagy joghatósággal rendelkező terület,
 
 ## ba) amellyel Magyarországnak olyan hatályos megállapodása van, amely alapján a joghatósággal rendelkező terület közli az e melléklet I. pontjában meghatározott adatokat, és
 

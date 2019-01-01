@@ -14,7 +14,7 @@
 
 6. Hatóságközi Megállapodás: a FATCA Megállapodás 3. cikk 6. pontja szerinti megállapodás;
 
-7. adatszolgáltatási kötelezettség alól mentes multinacionális vállalatcsoport: olyan vállalatcsoport, amelynek az adatszolgáltatási pénzügyi évet megelőző pénzügyi évre vonatkozó összevont (konszolidált) éves beszámolójában szereplő összevont (konszolidált) bevétele nem éri el a 750 000 000 eurót vagy a 750 000 000 euróval a Magyar Nemzeti Bank által közzétett 2015. január havi átlagos devizaárfolyam alapján számított, megközelítően egyező forintösszeget;
+7. adatszolgáltatási kötelezettség alól mentes multinacionális vállalatcsoport: olyan vállalatcsoport, amelynek az adatszolgáltatási pénzügyi évet megelőző pénzügyi évre vonatkozó összevont (konszolidált) éves beszámolójában szereplő összevont (konszolidált) bevétele nem éri el a 750 000 000 eurót vagy a 750 000 000 euróval a Magyar Nemzeti Bank által közzétett 2015. január havi átlagos devizaárfolyam alapján számított, megközelítően egyező forintösszeget, illetve ha a vállalatcsoport végső anyavállalatának székhelye Magyarországon kívüli államban vagy területen található, az ezen állam vagy terület országonkénti jelentésekkel kapcsolatos belső szabályai által meghatározott 750 000 000 eurónak megfelelő helyi valutában kifejezett összeget;
 
 8. összevont (konszolidált) éves beszámoló: a multinacionális vállalatcsoport olyan pénzügyi évre vetített kimutatása, amely a végső anyavállalat és a csoporttagok eszközeit, kötelezettségeit, nyereségét, kiadásait és cash flow-ját mint egyetlen gazdálkodó szervezet eszközeit, kötelezettségeit, nyereségét, kiadásait és cash flow-ját mutatja be;
 
