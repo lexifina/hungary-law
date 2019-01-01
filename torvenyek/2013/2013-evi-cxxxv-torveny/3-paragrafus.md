@@ -1,6 +1,6 @@
 ## 2. Az Integrációs Szervezet tagja
 
-3. § (1) Az Integrációs Szervezet tagja a szövetkezeti hitelintézet, a Központi Bank valamint az MFB és az Integrációs Szervezet tagjai közé felvett személy vagy szervezet.
+3. § (1) Az Integrációs Szervezet tagja a szövetkezeti hitelintézet, a Központi Bank, az MFB, valamint az Integrációs Szervezet tagjai közé felvett személy vagy szervezet.
 
 (2) Az Integrációs Szervezet közgyűlése azt veheti fel az Integrációs Szervezet tagjai közé, aki
 

@@ -1,6 +1,6 @@
 11/D. § (1) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézethez integrációs biztost abban az esetben rendelhet ki, ha a veszélyeztető magatartás vagy az 1. § (1) bekezdés y) pont ya) alpontja szerinti válsághelyzet megszüntetése érdekében tett intézkedések nem vezettek eredményre, és a további intézkedések meghozatalától sem várható eredmény.
 
-(2) Az integrációs biztos átveszi a szövetkezeti hitelintézet igazgatóságának teljes jogkörét, e körben vezető tisztségviselőnek tekintendő.
+(2) Az integrációs biztos átveszi a szövetkezeti hitelintézet igazgatóságának teljes jogkörét – ideértve a munkáltatói jogok gyakorlását is –, e körben vezető tisztségviselőnek tekintendő.
 
 (3) Az integrációs biztos kirendeléséről rendelkező döntés kézhezvételéig hozott döntésekért a szövetkezeti hitelintézet igazgatósági tagjának a gazdasági társaságokra vagy a szövetkezetekre vonatkozó törvényi rendelkezések szerinti felelőssége fennmarad.
 

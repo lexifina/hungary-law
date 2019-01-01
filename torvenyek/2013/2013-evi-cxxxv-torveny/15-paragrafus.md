@@ -2,7 +2,7 @@
 
 15. § (1) A Központi Bank a szövetkezeti hitelintézetek integrációjának egységes üzleti működése, irányítása körében közreműködik a szövetkezeti hitelintézeti integráció központi szervének feladatai ellátásában.
 
-(2) A Központi Bank igazgatósága az Integrációs Szervezet igazgatóságának előzetes jóváhagyását követően valamennyi szövetkezeti hitelintézetre vonatkozóan kötelező szabályzatot fogad el
+(2) A Központi Bank az Integrációs Szervezet előzetes jóváhagyását követően valamennyi szövetkezeti hitelintézetre vonatkozóan kötelező szabályzatot fogad el
 
 a) a kockázatkezelés részletes szabályairól, ideértve a hitelengedélyezés, kockázati monitoring, betételhelyezés, készpénzgazdálkodás és befektetési politika, a minősítés és az értékvesztés szabályait;
 
@@ -10,7 +10,9 @@ b) a kockázati stratégiáról;
 
 c) a szövetkezeti hitelintézetek integrációs szintű beszerzési gyakorlatának kialakításáról, beleértve az integrációs szintű beszerzés körébe vont áruk és szolgáltatások meghatározását és a központi beszerzés lebonyolításának szabályait;
 
-d) az egységes informatikai rendszerről.
+d) az egységes informatikai rendszerről;
+
+e) az egyes pénzügyi és kiegészítő pénzügyi szolgáltatási, valamint befektetési és kiegészítő befektetési szolgáltatási tevékenység általános szerződési feltételeit tartalmazó üzletszabályzatokról.
 
 (3) A Központi Bank jogosult a szövetkezeti hitelintézeti integráció céljainak elérése érdekében a szövetkezeti hitelintézetek integrációjának egységes üzleti működése, irányítása tárgykörében a szövetkezeti hitelintézetekre kötelező szabályzatot elfogadni. Ha a Központi Bank olyan szabályzatot fogad el, amely az Integrációs Szervezet feladatkörének gyakorlását érinti, akkor a szabályzatot az Integrációs Szervezet igazgatóságának előzetesen jóvá kell hagynia.
 

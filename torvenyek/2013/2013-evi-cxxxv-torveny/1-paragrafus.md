@@ -1,6 +1,6 @@
 1. § (1) E törvény alkalmazásában
 
-a) egységes informatikai rendszer: az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagjai részére a Központi Bank irányításával, az Integrációs Szervezet prudenciális kontrollja mellett összeállított és fejlesztett, a Központi Adatfeldolgozó által üzemeltetett adatbázis és ahhoz kapcsolódó egyedi rendszerek együttese;
+a) egységes informatikai rendszer: az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagjai, valamint a szövetkezeti hitelintézetek, illetve a Központi Bank ellenőrző befolyása alatt működő pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, befektetési vállalkozás, biztosító, a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény szerinti ABAK és ÁÉKBV-alapkezelő részére a Központi Bank irányításával, az Integrációs Szervezet prudenciális kontrollja mellett összeállított és fejlesztett, a Központi Adatfeldolgozó által üzemeltetett adatbázis és ahhoz kapcsolódó egyedi rendszerek együttese;
 
 b)
 
@@ -24,7 +24,7 @@ k) könyvvizsgáló: könyvvizsgálattal főtevékenységként foglalkozó, pén
 
 l) Központi Adatfeldolgozó: az egységes informatikai rendszer folyamatos és biztonságos üzemeltetését, valamint fejlesztését az Integrációs Szervezet 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagjával kötött, – az e törvényben meghatározottak figyelembevételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) kiszervezésre vonatkozó szabályainak megfelelő megállapodás alapján végző informatikai szolgáltató;
 
-m) Központi Bank: a szövetkezeti hitelintézet tekintetében az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikkében meghatározott központi szerv feladatainak ellátásában e törvény felhatalmazása alapján közreműködő hitelintézet;
+m) Központi Bank: az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikkében meghatározott központi szerv feladatainak ellátásában e törvény felhatalmazása alapján közreműködő, szövetkezeti hitelintézetnek nem minősülő hitelintézet;
 
 n)
 
@@ -42,7 +42,7 @@ t) szövetkezeti hitelintézet: a takarékszövetkezet, a hitelszövetkezet és 
 
 u)
 
-v) tőkepozíciója rossz: nem felel meg az Európai Parlament és a Tanács 575/2013/EU rendeletének 92. cikkében meghatározott tőkekövetelményeknek;
+v) tőkepozíciója rossz: nem felel meg az Integrációs Szervezet által a 17/C. § (1) bekezdésében foglaltaknak megfelelően előírt tőkekövetelménynek;
 
 w) tőkepozíciója romlik: a tőkemegfelelési mutatója az Integrációs Szervezet által a 17/C. § (1) bekezdésében foglaltaknak megfelelően előírt minimálisan tartandó szint 20 százalékkal növelt értékénél alacsonyabb és egy naptári negyedév alatt legalább 1 százalékponttal csökkent;
 
@@ -64,9 +64,9 @@ z) Vezető tisztségviselő: a Hpt. 6. § (1) bekezdésének 122. pontjában „
 
 (5) A szövetkezeti hitelintézetek integrációja az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikke szerinti feltételek teljesülése esetén mentesül e rendelet második–nyolcadik részében meghatározott követelmények egyedi alkalmazása alól. A Központi Bank, az Integrációs Szervezet, valamint a szövetkezeti hitelintézetek a Hpt. szerinti összevont alapú felügyelet alatt állnak.
 
-(5a) Az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikke alapján egyedileg mentesített intézmények egymás közötti egyesüléséhez, valamint azok egymás között megvalósuló, a Hpt. 17–17/A. §-a vagy a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 140–141. §-a szerinti állományátruházásához a Felügyelet engedélye nem szükséges.
+(5a) Az Európai Parlament és a Tanács 575/2013/EU rendeletének 10. cikke alapján egyedileg mentesített intézmények egymás közötti egyesüléséhez, szétválásához, valamint azok egymás között megvalósuló, a Hpt. 17–17/A. §-a vagy a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 140–141. §-a szerinti állományátruházásához a Felügyelet engedélye nem szükséges.
 
-(5b) A szövetkezeti hitelintézet, illetve a Központi Bank az (5a) bekezdés szerinti állományátruházását köteles előzetesen bejelenteni a Felügyelet felé, megjelölve az állományátruházás időpontját. Az (5a) bekezdés szerinti állományátruházás során a Hpt. állományátruházásra vonatkozó szabályainak alkalmazása tekintetében az állományátruházás bejelentésben megjelölt időpontját kell figyelembe venni az átruházás Felügyelet által engedélyezett időpontja helyett.
+(5b) A szövetkezeti hitelintézet, illetve a Központi Bank az (5a) bekezdés szerinti állományátruházását megelőzően az átruházás szándékát köteles előzetesen bejelenteni a Felügyelet felé, megjelölve az állományátruházás időpontját. Az átvevő hitelintézet a 17/U. § (7)–(9) bekezdés alkalmazásával jogosult az érintett szerződések módosítására azzal, hogy a módosításra a 15. § (2) bekezdés e) pontjában meghatározott üzletszabályzat alkalmazása vagy annak történő megfelelés érdekében is sor kerülhet. Betétállomány és más visszafizetendő pénzeszköz, valamint pénzforgalmi szolgáltatási keretszerződés-állomány átruházása esetén a Felügyelet által jogszabály alapján a belföldi fizetési rendszerek közvetlen és közvetett résztvevőiről vezetett nyilvántartásban, hitelesítő táblában az átadó hitelintézet mint pénzforgalmi szolgáltató azonosító kódját az átvevő hitelintézet az átruházás időpontjától kezdődően jogosult sajátjaként használni. A Hpt. állományátruházásra vonatkozó szabályainak alkalmazása tekintetében az állományátruházás bejelentésben megjelölt időpontját kell figyelembe venni az átruházás Felügyelet által engedélyezett időpontja helyett.
 
 (5c) Az Integrációs Szervezet lekötött tartalékának összege, valamint a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjának vagyona a Központi Bank és a szövetkezeti hitelintézet összevont szavatoló tőkéjébe beszámítandó az (5) bekezdésnek megfelelően.
 

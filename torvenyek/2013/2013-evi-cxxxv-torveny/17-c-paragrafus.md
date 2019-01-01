@@ -1,6 +1,8 @@
 ## 8/C. Tőkekövetelmények
 
-17/C. § (1) Működési formájától függetlenül a szövetkezeti hitelintézet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről időre megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
+17/C. § (1) Működési formájától függetlenül a szövetkezeti hitelintézet, valamint a Központi Bank szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről időre – egységes szempontok szerint – megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
+
+(1a) Az egyes szövetkezeti hitelintézetek, valamint a Központi Bank egyedi alapon csak az (1) bekezdésben foglaltaknak megfelelően előírt tőkekövetelménynek köteles megfelelni.
 
 (2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed, az Integrációs Szervezet köteles – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyelet előzetes jóváhagyásával az alábbi egy vagy több kivételes intézkedéssel élni:
 

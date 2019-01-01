@@ -8,7 +8,7 @@ b) a belső ellenőrzés rendjéről;
 
 c) a vezető tisztségviselők alkalmasságának szabályairól és az alkalmasság ellenőrzésének módjáról;
 
-d) a 11/A. §-ban meghatározott ellenőrzés szabályairól;
+d) a 11/A. §-ban meghatározott ellenőrzés és folyamatos felügyelés szabályairól;
 
 e) a pénzügyi segítségnyújtás szabályairól;
 
@@ -28,13 +28,13 @@ l) minden olyan kérdésben, amelyben szabályzat alkotására e törvény vagy 
 
 (1a) Az Integrációs Szervezet igazgatósága a szövetkezeti hitelintézetek kockázatvállalásainak korlátozásáról szabályzatot alkot. A szabályzatban meghatározott esetekben a kockázatvállalás érvényességéhez a Központi Bank előzetes hozzájárulása szükséges. A Központi Bank kockázatvállalások jóváhagyásáról döntő ülésén az Integrációs Szervezet képviselője jogosult tanácskozási joggal részt venni.
 
-(1b) Az Integrációs Szervezet igazgatósága meghatározza a szövetkezeti hitelintézeti integráció prudens és biztonságos működését szolgáló irányelveket, valamint a Központi Bank és a szövetkezeti hitelintézetek e törvényben meghatározott integrációs célok elérését biztosító tevékenységének keretrendszerét (a továbbiakban együtt: irányelvek).
+(1b) Az Integrációs Szervezet igazgatósága meghatározza a szövetkezeti hitelintézeti integráció tagjai, valamint azok ellenőrző befolyása alatt működő szervezetek (a továbbiakban: Kapcsolt Vállalkozások) prudens és biztonságos működését szolgáló, a szövetkezeti hitelintézeti integráció tagjaira – az MFB kivételével – kötelező irányelveket, valamint a Központi Bank, a szövetkezeti hitelintézetek és a Kapcsolt Vállalkozások e törvényben meghatározott integrációs célok elérését biztosító tevékenységének keretrendszerét (a továbbiakban együtt: irányelvek).
 
 (1c) Az Integrációs Szervezet igazgatósága irányelvekben rögzíti különösen
 
 a) a veszélyeztető magatartás megállapításának alapjául szolgáló tevékenységek és mulasztások körét;
 
-b) a 11/A. §-ban meghatározott ellenőrzés módszertanára vonatkozó szabályokat;
+b) a 11/A. §-ban meghatározott ellenőrzés és folyamatos felügyelés módszertanára vonatkozó szabályokat;
 
 c) az egyedi tőkekövetelmény megkövetelésére vonatkozó szabályokat;
 
@@ -42,7 +42,13 @@ d) a jelentős összegű beszerzések jóváhagyására vonatkozó szabályokat;
 
 e) az átalakulásra, az egyesülésre és a szétválásra vonatkozó integrációs célokat és alapelveket;
 
-f) a tőkecsökkenéssel járó részjegy vagy vagyoni hozzájárulás visszaváltásának engedélyezésére vonatkozó szabályokat.
+f) a tőkecsökkenéssel járó részjegy vagy vagyoni hozzájárulás visszaváltásának engedélyezésére vonatkozó szabályokat;
+
+g) a Kapcsolt Vállalkozások irányítását, ellenőrzését, átláthatóságát és könyvvizsgálatát, a Kapcsolt Vállalkozásokkal kapcsolatos jelentéstételt, a Kapcsolt Vállalkozások által vállalható kockázatokat és az általuk végezhető tevékenység prudenciális szempontú korlátozásának szabályait;
+
+h) a szövetkezeti hitelintézetek és a Kapcsolt Vállalkozások ellenőrzése és folyamatos felügyelése rendjét, valamint a szövetkezeti hitelintézetek és a Kapcsolt Vállalkozások együttműködési kötelezettségét;
+
+i) a követeléskezelés és a követelések értékesítésének rendjét.
 
 (1d) Az irányelvekben rögzítettekkel a szabályzatok tartalma nem lehet ellentétes.
 

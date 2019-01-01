@@ -1,4 +1,4 @@
-11/B. § (1) Ha az ellenőrzés során az Integrációs Szervezet igazgatósága megállapítja, hogy a szövetkezeti hitelintézet vagy a Központi Bank
+11/B. § (1) Ha az ellenőrzés vagy a folyamatos felügyelés során az Integrációs Szervezet igazgatósága megállapítja, hogy a szövetkezeti hitelintézet vagy a Központi Bank
 
 a) a jogszabályokban, a szabályzatokban, az irányelvekben, az utasításokban, a szövetkezeti hitelintézet belső szabályzatában, vagy a csoportszintű helyreállítási tervben meghatározott kötelezettségét megszegte, késedelmesen vagy hiányosan teljesítette,
 
