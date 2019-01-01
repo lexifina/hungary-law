@@ -1,6 +1,6 @@
-## A honvédelmi- és gazdasági felkészülés központi kiadásaira
-
 ## a 2015. évi költségvetési törvényben jóváhagyott előirányzatok felosztása
+
+## 5K18067_0
 
 | Felelős | Feladat | Részfeladat | Jóváhagyott előirányzat | Költségvetési fejezet összesen |
 
@@ -48,4 +48,6 @@
 
 | Összesen: |  | 497 millió forint | 497 millió forint |
 
-2. melléklet az 1502/2015. (VII. 23.) Korm. határozathoz
+2. melléklet az 1502/2015. (VII. 23.) Korm. határozathoz[^2]
+
+[^2]: A 2. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
