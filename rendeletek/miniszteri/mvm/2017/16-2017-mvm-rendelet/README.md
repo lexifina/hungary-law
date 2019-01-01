@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-16-20-6
 | --- | --- | --- |
 | 2017-08-01 | 2017-16-20-6N.1 | 16/2017. (VI. 7.) MvM rendelet |
 | 2018-01-01 | 2017-16-20-6N.2 | 33/2017. (XII. 7.) MvM rendelet |
+| 2019-01-01 | 2017-16-20-6N.3 | 17/2018. (XII. 18.) MvM rendelet |
