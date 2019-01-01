@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-19-20-0
 | 2011-01-01 | 2005-19-20-0L.8 | 23/2010. (XII. 28) KIM rendelet |
 | 2012-01-01 | 2005-19-20-0L.9 | 35/2011. (XII. 22.) KIM rendelet |
 | 2016-07-05 | 2005-19-20-0L.10 | 8/2016. (VI. 27.) IM rendelet |
+| 2019-01-01 | 2005-19-20-0L.11 | 34/2018. (XII. 18.) ITM rendelet |
