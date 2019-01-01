@@ -7,11 +7,3 @@ b) újonnan felvett tevékenységet folytatni kívánó gazdasági társaságok 
 c) megkezdett hatósági eljárásban, megindított ellenőrzés során
 
 kell alkalmazni.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
