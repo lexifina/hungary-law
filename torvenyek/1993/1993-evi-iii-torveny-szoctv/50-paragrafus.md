@@ -8,7 +8,7 @@ c) a pénzellátásban részesülő hadigondozott és a nemzeti gondozott;
 
 d)
 
-e) a központi szociális segélyben részesülő;
+e)
 
 f) a rokkantsági járadékos;
 

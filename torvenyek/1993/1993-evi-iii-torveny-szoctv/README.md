@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2017-11-28 | 2017. évi CXLVI. törvény | 1993-3-00-00.111 |
 | 2018-01-01 | 2017. évi L. törvény | 1993-3-00-00.112 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1993-3-00-00.113 |
+| 2019-01-01 | 2018. évi CXVII. törvény | 1993-3-00-00.114 |

@@ -20,7 +20,7 @@ e) a tartós munkanélküliek, a fiatal munkanélküliek, az adósságterhekkel 
 
 f) a kríziskezelést, valamint a nehéz élethelyzetben élő családokat segítő szolgáltatásokat,
 
-g)
+g) a Gyvt. 40/A. § (2) bekezdés a) pont ad) alpontja szerinti készenléti szolgálatot az (1) bekezdés szerinti személyek számára,
 
 i) a nagy létszámú intézmények átalakítását követően támogatott lakhatást igénybe vevők utánkövetését biztosító esetmenedzseri feladatokat.
 

@@ -26,7 +26,7 @@ nyújtó intézmények esetén.
 
 a) a 75. § (1) bekezdés a) pontja szerinti lakhatási szolgáltatás intézményi térítési díjának, és
 
-b) az ellátott által az előző hónapban ténylegesen igénybe vett, a 75. § (1) bekezdés d) pontja szerinti szolgáltatások intézményi térítési díjának az összege azzal, hogy a személyi térítési díj nem haladhatja meg az ellátott havi jövedelmének 80%-át. A támogatott lakhatás térítési díjára egyebekben – ha e törvény vagy kormányrendelet másként nem rendelkezik – a tartós bentlakásos intézmények térítési díjára vonatkozó szabályokat kell alkalmazni.
+b) az ellátott által az előző hónapban ténylegesen igénybe vett, a 75. § (1) bekezdés d) pontja szerinti szolgáltatások intézményi térítési díjának az összege azzal, hogy a (2) bekezdés szerinti jövedelemhányad nem haladhatja meg az ellátott havi jövedelmének 80%-át. A támogatott lakhatás térítési díjára egyebekben – ha e törvény vagy kormányrendelet másként nem rendelkezik – a tartós bentlakásos intézmények térítési díjára vonatkozó szabályokat kell alkalmazni.
 
 (2b) A 117/C. § szabályait nem lehet alkalmazni arra az igénybevevőre, aki fogyatékos személyek, pszichiátriai vagy szenvedélybetegek ápoló-gondozó otthonában rendelkezik intézményi jogviszonnyal a támogatott lakhatás igénybevételét megelőzően.
 

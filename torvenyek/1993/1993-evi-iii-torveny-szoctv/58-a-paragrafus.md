@@ -6,7 +6,7 @@ a) az új szociális szolgáltatónak, intézménynek (székhely, telephely),
 
 b) az új szociális szolgáltatásnak,
 
-c) házi segítségnyújtás esetén az új ellátotti létszámnak, és azon belül a személyi gondozásban ellátható személyek legmagasabb számának (a továbbiakban együtt: ellátotti létszám),
+c) étkeztetés esetén az új ellátotti létszámnak, házi segítségnyújtás esetén az új ellátotti létszámnak, és azon belül a személyi gondozásban ellátható személyek legmagasabb számának (a továbbiakban együtt: ellátotti létszám),
 
 d) támogató szolgáltatás és közösségi alapellátás esetén a központi költségvetésről szóló törvény szerinti, új feladatmutatónak,
 
@@ -14,7 +14,11 @@ e) nappali ellátás és szakosított szociális ellátás esetén – a rehabil
 
 a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás).
 
-(2a) Új szolgáltatónak, intézménynek (székhelynek, telephelynek), szociális szolgáltatásnak, ellátotti létszámnak, feladatmutatónak, illetve férőhelyszámnak az minősül, amelyre az adott fenntartó a kérelem benyújtásakor nem rendelkezik befogadással. Nem minősül a szolgáltató, intézmény (székhely, telephely), szociális szolgáltatás, ellátotti létszám, feladatmutató, illetve férőhelyszám újnak, ha olyan változás történik, amelyik a szolgáltatói nyilvántartásba bejegyzett adatok módosítását nem teszi szükségessé.
+(2a) Új szolgáltatónak, intézménynek (székhelynek, telephelynek), szociális szolgáltatásnak, ellátotti létszámnak, feladatmutatónak, illetve férőhelyszámnak az minősül, amelyre az adott fenntartó a kérelem benyújtásakor nem rendelkezik befogadással. Nem minősül a szolgáltató, intézmény (székhely, telephely), szociális szolgáltatás, ellátotti létszám, feladatmutató, illetve férőhelyszám újnak, ha
+
+a) olyan változás történik, amely a szolgáltatói nyilvántartásba bejegyzett adatok módosítását nem teszi szükségessé, vagy
+
+b) az ellátási terület változatlanul hagyása mellett a szolgáltató, intézmény (székhely, telephely) másik címre költözik.
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságnak nem feltétele a befogadás
 
@@ -22,9 +26,9 @@ a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kij
 
 b) családsegítés és gyermekjóléti szolgáltatás esetén,
 
-c) utcai szociális munka esetén,
+c) a 131/A. § alapján támogatott szociális szolgáltatások esetén,
 
-d) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás esetén, valamint
+d)
 
 e) támogatott lakhatás esetén,
 
@@ -56,7 +60,7 @@ cd) hajléktalan személyek átmeneti szállása esetében a befogadott férőhe
 
 (2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
-a) házi segítségnyújtás esetén az ellátott személyek száma, támogató szolgáltatás és közösségi alapellátások esetén a teljesített feladatmutató, vagy nappali ellátás esetén a betöltött férőhelyek száma hat naptári hónap átlagában és a feltételek vizsgálatakor sem éri el a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám 90 százalékát,
+a) étkeztetés és házi segítségnyújtás esetén az ellátott személyek száma, támogató szolgáltatás és közösségi alapellátások esetén a teljesített feladatmutató, vagy nappali ellátás esetén a betöltött férőhelyek száma hat naptári hónap átlagában és a feltételek vizsgálatakor sem éri el a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám 90 százalékát,
 
 b) a fenntartó a 20/C. § szerinti nyilvántartásban valótlanul tüntetett fel valakit igénybevevőként, vagy
 

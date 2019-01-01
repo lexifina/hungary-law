@@ -28,6 +28,8 @@ dh) a szállítást,
 
 di) a háztartási vagy háztartást pótló segítségnyújtást.
 
+(1a) Támogatott lakhatásban az (1) bekezdés szerinti személy gyermeke is ellátható.
+
 (2) Az (1) bekezdés d) pontja szerinti szolgáltatási elemeket a fenntartó
 
 a) a (3) bekezdés szerinti szociális szolgáltatást nyújtó szolgáltatóval, intézménnyel a szolgáltatási elem nyújtására kötött megállapodás útján,
@@ -36,7 +38,7 @@ b) a támogatott lakhatás részeként, a szakmai létszám és tárgyi feltéte
 
 c) a szintén saját fenntartásában álló, (3) bekezdés szerinti szociális szolgáltatások útján, vagy
 
-d) az (1) bekezdés d) pontja szerinti szolgáltatási elemekre kiterjedő tevékenységi köre szerinti, a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett szervezet útján, az intézményi szolgáltatások intézményen kívüli szervezet által történő ellátásának szabályai szerint
+d) az (1) bekezdés d) pontja szerinti szolgáltatási elemekre kiterjedő tevékenységi köre szerinti működési feltételeknek megfelelő szervezet útján, az intézményi szolgáltatások intézményen kívüli szervezet által történő ellátásának szabályai szerint
 
 biztosíthatja.
 
@@ -78,10 +80,12 @@ biztosítható.
 
 (7) Ha az ellátott ápolást, gondozást nyújtó intézményből vagy ápoló-gondozó célú lakóotthonból kerül támogatott lakhatásba, az ellátott komplex szükségletfelmérését – folyamatos ellátása mellett – az intézményvezető végzi el. A komplex szükségletfelmérés alapján kell meghatározni az (1) bekezdés d) pontja szerinti szolgáltatási elemeket, annak eredménye azonban a támogatott lakhatásra való jogosultságot nem érinti.
 
+(7a) Kiskorú ellátása esetén az (1) bekezdés d) pont da) és db) alpontja szerinti szolgáltatási elemeket minden esetben biztosítani kell azzal, hogy a felügyelet szolgáltatási elem kizárólag személyes jelenléttel biztosítható.
+
 (8) Ha az ellátott 50 férőhelyesnél nagyobb ápolást, gondozást nyújtó intézményből kerül támogatott lakhatásba, az ápolást, gondozást nyújtó intézmény férőhelyszámát – a támogatott lakhatásba átkerülő ellátottak számával megegyezően – csökkenteni kell.
 
 (9) A támogatott lakhatásra egyebekben a bentlakásos intézményekre vonatkozó szabályokat kell alkalmazni azzal, hogy
 
 a) az ellátás – a komplex szükségletfelmérés alapján – határozott vagy határozatlan időtartamú,
 
-b) az 58/A. § (2) és (2a) bekezdését, a 85/B. §-t, a 94. § (1) bekezdés b)–d) pontját, valamint (2) és (3) bekezdését, a 94/A. § (4) bekezdését, a 99. §-t , a 99/A. §-t és a 105. §-t nem kell alkalmazni.
+b) az 58/A. § (2) és (2a) bekezdését, a 85/B. §-t, a 94. § (1) bekezdés b)–d) pontját, valamint (2) és (3) bekezdését, a 94/A. § (4) bekezdését, a 94/G. §-t, a 99. §-t , a 99/A. §-t és a 105. §-t nem kell alkalmazni.

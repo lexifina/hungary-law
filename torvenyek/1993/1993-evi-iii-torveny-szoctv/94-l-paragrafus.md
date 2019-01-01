@@ -4,19 +4,19 @@
 
 (2) Közfeladatot ellátó személynek minősül az alábbi munkaköröket betöltő személy:
 
-a) a házi segítségnyújtást végző szociális gondozó, ideértve a vezető gondozó,
+a) a házi segítségnyújtást végző gondozó, ápoló;
 
-b) a családsegítést és gyermekjóléti szolgáltatást végző munkatárs,
+b) a családsegítést és gyermekjóléti szolgáltatást végző munkatárs;
 
-c) a támogató szolgálatot, a pszichiátriai betegek közösségi ellátását, a szenvedélybetegek ellátását végző szociális gondozó,
+c) a támogató szolgálatot, a pszichiátriai betegek közösségi ellátását, a szenvedélybetegek ellátását végző segítő, gondozó, terápiás munkatárs, szociális munkatárs;
 
-d) a hajléktalan személyek ellátását végző szociális segítő és utcai szociális munkás,
+d) a hajléktalan személyek ellátását végző segítő és szociális munkatárs;
 
-e) az előgondozással megbízott személy,
+e) az előgondozással megbízott személy;
 
-f) az intézményi ellátásban foglalkoztatott ápoló, intézményvezető ápoló, gondozó, szociális, mentálhigiénés munkatárs,
+f) az intézményi ellátásban foglalkoztatott ápoló, vezető ápoló, szakápoló, vezető szakápoló, gondozó, szociális munkatárs, terápiás munkatárs, segítő, fejlesztő pedagógus;
 
-g) a falu- és a tanyagondnok,
+g) a falu- és a tanyagondnok;
 
 h) a támogatott lakhatásban foglalkoztatott esetfelelős munkatárs.
 

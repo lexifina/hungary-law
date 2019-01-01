@@ -8,9 +8,19 @@ c) az intézmény, szolgáltató külön jogszabály szerinti ágazati azonosít
 
 d) a finanszírozás, támogatás költségvetési törvény szerinti jogcímét és feladatmutatóját.
 
-e) házi segítségnyújtás esetén a megállapított gondozási szükségletre és az ellátott számára nyújtott szolgáltatás tartalmára vonatkozó adatokat.
+e) házi segítségnyújtás esetén a megállapított gondozási szükségletre és az ellátott számára nyújtott szolgáltatás tartalmára vonatkozó adatokat,
 
-(2) Nem kell az (1) bekezdés szerinti nyilvántartásba venni az adatokat falugondnoki és tanyagondnoki szolgáltatás, népkonyha, szenvedélybetegek alacsonyküszöbű ellátása és utcai szociális munka esetén.
+f) családsegítés és gyermekjóléti szolgáltatás esetén a szolgáltatás tartalmára vonatkozó adatokat,
+
+g) fejlesztő foglalkoztatás esetén
+
+ga) annak az ellátott által igénybe vett szociális szolgáltatásnak a típusát, amely alapján fejlesztő foglalkoztatásban részesül,
+
+gb) annak a jogviszonynak a típusát, amelyben az ellátott fejlesztő foglalkoztatása történik, és
+
+gc) az ellátott által ledolgozott foglalkoztatási órák számát.
+
+(2) Nem kell az (1) bekezdés szerinti nyilvántartásba venni az adatokat falugondnoki és tanyagondnoki szolgáltatás, szenvedélybetegek alacsonyküszöbű ellátása és utcai szociális munka esetén.
 
 (3) Az (1) bekezdés a) pontja szerinti adatok közül csak a 20. § (2) bekezdés a) pontja szerinti adatokat kell nyilvántartásba venni
 
@@ -18,7 +28,7 @@ a) nappali melegedő és éjjeli menedékhely esetében, valamint
 
 b) családsegítés esetében, ha a jogszabályban meghatározott szakmai tevékenység az első interjú kapcsán tett intézkedéssel lezárható.
 
-(4) Nappali melegedő, éjjeli menedékhely és családsegítés esetén, amennyiben az ellátásban részesülő személy Társadalombiztosítási Azonosító Jellel nem rendelkezik, ennek tényét kell a nyilvántartásban rögzíteni.
+(4) Nappali melegedő, éjjeli menedékhely, népkonyha és családsegítés esetén, amennyiben az ellátásban részesülő személy Társadalombiztosítási Azonosító Jellel nem rendelkezik, ennek tényét kell a nyilvántartásban rögzíteni.
 
 (5)
 

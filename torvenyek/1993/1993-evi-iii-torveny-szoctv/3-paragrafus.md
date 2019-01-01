@@ -73,3 +73,5 @@ c) a szolgáltatást igénybe vevő tartására jogszabály, szerződés vagy b�
 d) a térítési díjat vagy az egyszeri hozzájárulást megfizető személynek
 
 a szolgáltatás nyújtására szolgáló ingatlanon tulajdonjoga, haszonélvezeti joga, lakáshasználati joga vagy bérleti joga áll fenn (nyugdíjasház).
+
+(9) Nem tartozik e törvény hatálya alá az a szállást, étkezést nyújtó vagy más segítő, karitatív tevékenység, amelyet az igénybe vevőtől, hozzátartozójától, vagy rájuk tekintettel harmadik személytől származó ellenszolgáltatás és állami, helyi önkormányzati támogatás nélkül nyújtanak.

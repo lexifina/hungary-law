@@ -6,7 +6,7 @@ a) azon napot megelőzően, amelytől kezdődően az öregségi nyugdíját meg�
 
 b) az a) pontban foglaltakra figyelemmel az érintett időszakban ugyanazon gyermekre tekintettel
 
-ba) az e törvény alapján megállapított ápolási díjban részesült és azt részére a vizsgált időszakon belül legalább egy év időtartamban emelt összegű ápolási díjként vagy kiemelt ápolási díjként folyósították, illetve
+ba) az e törvény alapján megállapított gyermekek otthongondozási díjában vagy ápolási díjban részesült és az ápolási díj esetében azt részére a vizsgált időszakon belül legalább egy év időtartamban emelt összegű ápolási díjként vagy kiemelt ápolási díjként folyósították, illetve
 
 bb) tartósan beteg, illetve súlyosan fogyatékos gyermekére tekintettel a gyermekgondozási segélyről szóló 10/1982. (IV. 16.) MT rendelet 1. § (1) bekezdése vagy a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése alapján gyermekgondozási segélyben vagy gyermekgondozást segítő ellátásban részesült.
 

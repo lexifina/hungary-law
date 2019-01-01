@@ -8,4 +8,4 @@
 
 (5) A nagykorú fogyatékos személy fogyatékos személyek otthonában történő elhelyezésének feltétele a benyújtott orvosi dokumentáció felhasználásával lefolytatott alapvizsgálat elvégzése.
 
-(5a) Az alapvizsgálat elvégzésével egyidejűleg a komplex szükségletfelmérést is el kell végezni. A fogyatékos személyek bentlakásos intézményének vezetője tájékoztatja az ellátást igénylőt a támogatott lakhatás igénybevételének lehetőségéről.
+(5a) A fogyatékos személyek bentlakásos intézményének vezetője az alapvizsgálat elvégzésének kezdeményezésével egyidejűleg a komplex szükségletfelmérést is elvégzi, és tájékoztatja az ellátást igénylőt a támogatott lakhatás igénybevételének lehetőségéről.

@@ -2,7 +2,7 @@
 
 a) nagy létszámú intézmény átalakítása esetén támogatott lakhatás,
 
-b) új intézmény vagy új férőhely létrehozása esetén – a (2) és (3) bekezdésben foglaltak kivételével – a 75. § (2) bekezdés a) vagy b) pontja szerinti támogatott lakhatás
+b) új intézmény vagy új férőhely létrehozása esetén – a (2) és (3) bekezdésben foglaltak kivételével – a 75. § (5) bekezdés a) vagy b) pontja szerinti támogatott lakhatás
 
 formájában kell nyújtani.
 

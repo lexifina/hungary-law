@@ -1,6 +1,6 @@
-25. § (1) A jogosult részére jövedelme kiegészítésére, pótlására pénzbeli szociális ellátás nyújtható.
+25. § (1) A jogosult részére jövedelme kiegészítésére, pótlására, illetve a különös méltánylást érdemlő személyes élethelyzetére figyelemmel pénzbeli szociális ellátás nyújtható.
 
-(2)
+(2) A különös méltánylást érdemlő személyes élethelyzetre figyelemmel nyújtható pénzbeli szociális ellátás a tartós ápolást végzők időskori támogatása.
 
 (3) Szociális rászorultság esetén a jogosult számára
 
@@ -12,7 +12,9 @@ ab) foglalkoztatást helyettesítő támogatást,
 
 ac) egészségkárosodási és gyermekfelügyeleti támogatást,
 
-ad) a 41. § (1) bekezdése szerinti ápolási díjat, a 43. § szerinti ápolási díjat (a továbbiakban: kiemelt ápolási díj), a 43/A. § (1) bekezdése szerinti ápolási díjat (a továbbiakban: emelt összegű ápolási díj);
+ad) gyermekek otthongondozási díját,
+
+ae) a 41. § (1) bekezdése szerinti ápolási díjat, a 43. § szerinti ápolási díjat (a továbbiakban: kiemelt ápolási díj), a 43/A. § (1) bekezdése szerinti ápolási díjat (a továbbiakban: emelt összegű ápolási díj);
 
 b) a képviselő-testület – az e törvényben és a települési önkormányzat rendeletében meghatározott feltételek szerint – települési támogatást
 
@@ -20,7 +22,7 @@ b) a képviselő-testület – az e törvényben és a települési önkormányz
 
 (4) A jogosultságot megállapító szerv
 
-a) az időskorúak járadékára, az egészségkárosodási és gyermekfelügyeleti támogatásra és az ápolási díjra (a továbbiakban együtt: havi rendszeres szociális ellátás) való jogosultság feltételeinek fennállását kétévente,
+a) az időskorúak járadékára, az egészségkárosodási és gyermekfelügyeleti támogatásra, a gyermekek otthongondozási díjára és az ápolási díjra (a továbbiakban együtt: havi rendszeres szociális ellátás) való jogosultság feltételeinek fennállását kétévente,
 
 b) a foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek fennállását évente
 
@@ -34,9 +36,9 @@ b) csökkent, akkor az új összeget az öregségi nyugdíj legkisebb összege e
 
 kell folyósítani.
 
-(5a) Az (5) bekezdésben foglaltakat az ápolási díj alapösszegének, az időskorúak járadéka havi összegeinek, valamint a foglalkoztatást helyettesítő támogatás törvényben meghatározott összegének változása esetén megfelelően alkalmazni kell.
+(5a) Az (5) bekezdésben foglaltakat a gyermekek otthongondozási díja havi összegének, az ápolási díj alapösszegének, az időskorúak járadéka havi összegeinek, valamint a foglalkoztatást helyettesítő támogatás törvényben meghatározott összegének változása esetén megfelelően alkalmazni kell.
 
-(6) A havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultság jövedelmi feltételének fennállását felül kell vizsgálni, ha az ellátás megállapításának alapjául szolgáló jövedelemben tartós változás történt, vagy az ellátás megállapításánál figyelembe vett, egy háztartásban élő családtagok létszáma megváltozott.
+(6) Az időskorúak járadékának és az egészségkárosodási és gyermekfelügyeleti ellátásnak az összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultság jövedelmi feltételének fennállását felül kell vizsgálni, ha az ellátás megállapításának alapjául szolgáló jövedelemben tartós változás történt, vagy az ellátás megállapításánál figyelembe vett, egy háztartásban élő családtagok létszáma megváltozott.
 
 (7) Tartós jövedelemváltozásnak kell tekinteni
 
@@ -67,6 +69,8 @@ kell folyósítani.
 (10) Ha e törvény eltérően nem rendelkezik, a szociális rászorultságtól függő pénzbeli ellátásra való jogosultság megszűnik, ha a jogosultság megállapításának alapjául szolgáló feltételek már nem állnak fenn.
 
 (10a) A havi rendszeres szociális ellátásra vagy foglalkoztatást helyettesítő támogatásra való jogosultság megszűnése esetén a jogosultat a megszűnés napja szerinti hónapra jutó ellátás teljes havi összege megilleti.
+
+(10b) Ha a foglalkoztatást helyettesítő támogatás vagy az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása e törvény rendelkezései alapján szünetel, a jogosultat a szünetelés kezdetére okot adó körülmény bekövetkezése előtti nap szerinti hónapra jutó ellátás teljes havi összege megilleti.
 
 (11) A (7) bekezdés b)–c) pontja alkalmazásában nem minősül keresőtevékenységnek az aktív korúak ellátására jogosult személy közfoglalkoztatásban való részvétele.
 

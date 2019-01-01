@@ -11,3 +11,5 @@ fizeti meg az intézménynek.
 (2) Ha a személyi térítési díjat az (1) bekezdés szerint nem fizetik meg, illetve ha a költőpénzt az intézmény biztosítja, a követelést tartós bentlakásos intézményi ellátás esetében a kötelezett ingatlanvagyonán fennálló jelzálogjog biztosítja.
 
 (3) A jelzálogjogot a külön jogszabály szerint nyilvántartott hátralék erejéig lehet bejegyezni. A jelzálog bejegyzésének kezdeményezéséről a szociális hatóság a jogszabályi feltételek fennállása esetén – a fenntartó kérelme alapján – határozatot hoz. A határozatot az ingatlanügyi hatósággal közölni kell.
+
+(4) A 94/C. § szerinti megállapodásra kiskorú, valamint a bentlakásos szociális intézményi elhelyezést érintő jognyilatkozatok tekintetében cselekvőképességében részlegesen korlátozott vagy cselekvőképtelen nagykorú személy – mint ellátást igénylő – érintettsége esetén a Ptk. 2:15. § (1) bekezdés c) pontja vagy 2:23. § (1) bekezdés c) pontja szerinti rendelkezést nem kell alkalmazni.

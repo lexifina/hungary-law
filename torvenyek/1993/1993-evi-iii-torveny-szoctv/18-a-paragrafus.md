@@ -30,7 +30,7 @@ f) a szociális ellátás megállapításánál figyelembe vett, egy főre vagy 
 
 g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozói jogcímen történő tartózkodás esetén a rokoni kapcsolatot;
 
-h) az ápolási díjra jogosult személy adóazonosító jelét;
+h) a gyermekek otthongondozási díjára, az ápolási díjra jogosult személy adóazonosító jelét;
 
 i) azt a tényt, hogy a jogosult részére az ellátás folyósítása a hajléktalan személyekre vonatkozó szabályok szerint történik;
 

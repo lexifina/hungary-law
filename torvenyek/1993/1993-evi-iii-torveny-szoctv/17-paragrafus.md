@@ -32,14 +32,14 @@ c) részletekben fizettetheti meg.
 
 (6) A járási hivatal (4) bekezdés szerinti döntése ellen fellebbezésnek nincs helye.
 
-(7) Az időskorúak járadékát, aktív korúak ellátását vagy ápolási díjat igénylő személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha
+(7) Az időskorúak járadékát, aktív korúak ellátását, gyermekek otthongondozási díját vagy ápolási díjat igénylő személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha
 
 a) részére a kérelem benyújtásakor más rendszeres pénzellátás megállapítására irányuló eljárás van folyamatban, vagy
 
-b) az időskorúak járadéka, az aktív korúak ellátása vagy az ápolási díj megállapítása iránti kérelem benyújtását követően, de a végleges döntés meghozatalát megelőzően más rendszeres pénzellátás megállapítására irányuló eljárást indít.
+b) az időskorúak járadéka, az aktív korúak ellátása, gyermekek otthongondozási díja vagy az ápolási díj megállapítása iránti kérelem benyújtását követően, de a végleges döntés meghozatalát megelőzően más rendszeres pénzellátás megállapítására irányuló eljárást indít.
 
-(8) Az időskorúak járadékában vagy ápolási díjban részesülő, továbbá az aktív korúak ellátására jogosult személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha a jogosultságának fennállása alatt más rendszeres pénzellátás megállapítására irányuló eljárást indított, vagy álláskeresési ellátás igénylése céljából jelentkezett az állami foglalkoztatási szervnél.
+(8) Az időskorúak járadékában, gyermekek otthongondozási díjában vagy ápolási díjban részesülő, továbbá az aktív korúak ellátására jogosult személy köteles a szociális hatáskört gyakorló szervnek bejelenteni, ha a jogosultságának fennállása alatt más rendszeres pénzellátás megállapítására irányuló eljárást indított, vagy álláskeresési ellátás igénylése céljából jelentkezett az állami foglalkoztatási szervnél.
 
 (9) A (7) bekezdés b) pontja, valamint a (8) bekezdés szerinti esetben a bejelentést a más rendszeres pénzellátás megállapítására irányuló eljárás megindításától, illetve az állami foglalkoztatási szervnél való jelentkezés napjától számított 8 napon belül kell megtenni.
 
-(10) A más rendszeres pénzellátásra való jogosultság fennállásának időtartama alatt igénybe vett időskorúak járadéka, aktív korúak ellátása és ápolási díj jogosulatlanul, de – a (7)–(9) bekezdés szerinti bejelentési kötelezettség teljesítése esetén – nem rosszhiszeműen igénybevett ellátásnak minősül, amelynek megtérítéséről a szociális hatáskört gyakorló szerv az (1) bekezdése alapján rendelkezik.
+(10) A más rendszeres pénzellátásra való jogosultság fennállásának időtartama alatt jogosulatlanul igénybe vett időskorúak járadéka, aktív korúak ellátása, gyermekek otthongondozási díja és ápolási díj a (7)–(9) bekezdés szerinti bejelentési kötelezettség teljesítése esetén jogosulatlanul, de nem rosszhiszeműen igénybevett ellátásnak minősül, amelynek megtérítéséről a szociális hatáskört gyakorló szerv az (1) bekezdés alapján rendelkezik.

@@ -8,11 +8,11 @@ történik.
 
 (2) Az Mt. szerinti határozott idejű munkaviszonyban történő foglalkoztatás célja az önálló munkavégzést segítő képességek, készségek fenntartása, fejlesztése, új munkafolyamatok megismerése, új szakma elsajátítása, az ellátott felkészítése a nyílt munkaerőpiacon történő munkavégzésre.
 
-(3) A (4) bekezdés szerinti fejlesztési jogviszonyban történő foglalkoztatás célja az ellátott testi és szellemi képességeinek, valamint a munkavégzéssel összefüggő készségeinek helyreállítása, megőrzése és fejlesztése, továbbá az ellátott felkészítése az önálló munkavégzésre.
+(3) A (4) bekezdés szerinti fejlesztési jogviszonyban történő foglalkoztatás célja az ellátott testi és értelmi képességeinek, valamint a munkavégzéssel összefüggő készségeinek helyreállítása, megőrzése és fejlesztése, továbbá az ellátott felkészítése az önálló munkavégzésre.
 
 (4) A fejlesztési jogviszony
 
-a) munka-, szervezetpszichológus javaslata, vagy rehabilitációs alkalmassági vizsgálat eredményeképpen kiadott, hatályos, munka-rehabilitációt javasoló szakvélemény alapján, egyéni foglalkoztatási tervben foglaltak szerint akkor hozható létre, ha az ellátott kompetenciái nem érik el az önálló munkavégzéshez szükséges szintet, és
+a) rehabilitációs alkalmassági vizsgálat eredményeképpen kiadott, hatályos, munka-rehabilitációt javasoló szakvélemény, vagy a foglalkozás-egészségügyi orvos, a munka-szakpszichológus vagy munka- és szervezet-szakpszichológus, valamint a szociális szolgáltatást biztosító intézmény vezetője együttes javaslata alapján, az egyéni foglalkoztatási tervben foglaltak szerint akkor hozható létre, ha az ellátott kompetenciái nem érik el az önálló munkavégzéshez szükséges szintet, és
 
 b) fejlesztési szerződéssel jön létre, amelyet az ellátott, illetve törvényes képviselője írásban, az (5)–(7) bekezdésben foglaltak figyelembevételével köt a fejlesztő foglalkoztatást nyújtó szolgáltató, intézmény vezetőjével.
 
@@ -24,11 +24,11 @@ b) a fejlesztő foglalkoztatás időbeosztását és helyét azzal, hogy a fogla
 
 c) a fejlesztési foglalkoztatási óradíj összegét, amely nem lehet kevesebb a mindenkori kötelező legkisebb órabér 30%-ánál,
 
-d) az ellátott szándéknyilatkozatát arra nézve, hogy testi és szellemi képességeihez mérten elvárható módon közreműködik a fejlesztő foglalkoztatásban, és
+d) az ellátott szándéknyilatkozatát arra nézve, hogy testi és értelmi képességeihez mérten elvárható módon közreműködik a fejlesztő foglalkoztatásban, és
 
 e) a fejlesztő foglalkoztató munkavégzéssel összefüggő kötelezettségeit.
 
-(6) A fejlesztő foglalkoztatás keretében csak olyan feladatot végezhet az ellátott, amelyet egészségi állapota és szellemi képességei alapján tartósan és folyamatosan képes ellátni.
+(6) A fejlesztő foglalkoztatás keretében csak olyan feladatot végezhet az ellátott, amelyet egészségi állapota és értelmi képességei alapján tartósan és folyamatosan képes ellátni.
 
 (7) A fejlesztő foglalkoztató köteles folyamatos felügyelet mellett biztosítani – az ellátott speciális szükségleteinek megfelelően – az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, tárgyi, szakmai és műszaki feltételeit.
 
@@ -36,7 +36,7 @@ e) a fejlesztő foglalkoztató munkavégzéssel összefüggő kötelezettségeit
 
 (9) Ha a fejlesztő foglalkoztatás munkaviszony keretében történik, annak során
 
-a) 16. életévét betöltött személy foglalkoztatható,
+a)
 
 b) az Mt. 192. § (2) bekezdésétől eltérően a munkaviszony a fejlesztő foglalkoztatás időtartamára meghosszabbítható,
 

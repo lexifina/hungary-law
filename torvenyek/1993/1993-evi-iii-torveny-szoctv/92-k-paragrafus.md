@@ -46,7 +46,7 @@ b) bentlakásos intézmény esetén a szolgáltatói nyilvántartásba végleges
 
 éves átlagban pedig a férőhelyszám száz százalékát. Ha az intézményben egymást követő hatvan napot meghaladóan a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett férőhelyszámnál több személyt látnak el, a fenntartó köteles kérelmezni a szolgáltatói nyilvántartásba bejegyzett adatok módosítását.
 
-(6) Házi segítségnyújtás esetében az ellátottak száma egyetlen napon sem haladhatja meg a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett ellátotti létszám száztíz százalékát, éves átlagban pedig annak száz százalékát.
+(6) Házi segítségnyújtás és a szociális étkeztetés esetében az ellátottak száma éves átlagban nem haladhatja meg a szolgáltatói nyilvántartásba véglegessé vált döntéssel bejegyzett ellátotti létszám száz százalékát.
 
 (6)
 
