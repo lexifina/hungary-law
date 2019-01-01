@@ -2,4 +2,4 @@
 
 1. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^2]
 
-[^2]: Az 1. melléklet a 15. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. melléklet a 10/2018. (XI. 5.) MEKH rendelet 1. §-ával megállapított szöveg.
