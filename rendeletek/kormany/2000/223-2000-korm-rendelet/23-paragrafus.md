@@ -32,7 +32,9 @@ c) a tartaléktőkéből a likviditási céltartalékba átcsoportosított eszk�
 
 (8)[^53] Működés és kiegészítő vállalkozási tevékenység tárgyévi eredményeként kell kimutatni az Öpt. a 36. §-ának (3) bekezdésében foglaltak alapján a pénztár tárgyévi működési, illetve kiegészítő vállalkozási tevékenysége bevételeként, valamint az Öpt. 36. §-a (4) bekezdésének b) és d) pontjában foglaltak alapján a pénztár tárgyévi működési, illetve kiegészítő vállalkozási tevékenysége költségeként és ráfordításaként elszámolt összegek különbözetének adóval csökkentett összegét.
 
-(9)–(10)[^54]
+(9)[^54]
+
+(10)[^55]
 
 (11) Értékelési tartalékként kell kimutatni a 14. § (5) bekezdése, a 15. § (7) bekezdése szerint a pénztár működését, kiegészítő vállalkozási tevékenységét, szolgáltatásainak teljesítését szolgáló immateriális javak és rendeltetésszerűen használatba vett tárgyi eszközök – ide nem értve a tartós befektetési célú ingatlanokat – piaci értékelése alapján meghatározott értékhelyesbítés összegét.
 
@@ -41,4 +43,5 @@ c) a tartaléktőkéből a likviditási céltartalékba átcsoportosított eszk�
 [^51]: A 23. § (6) bekezdésének d) pontját a 288/2002. (XII. 23.) Korm. rendelet 28. §-ának (2) bekezdése hatályon kívül helyezte.
 [^52]: A 23. § (6) bekezdés e) pontját a 445/2017. (XII. 27.) Korm. rendelet 14. § 1. pontja hatályon kívül helyezte.
 [^53]: A 23. § (8) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 28. §-ának (2) bekezdése, a 484/2015. (XII. 29.) Korm. rendelet 42. § 1. pontja szerint módosított szöveg.
-[^54]: A 23. § (9)–(10) bekezdését a 288/2002. (XII. 23.) Korm. rendelet 28. §-ának (2) bekezdése hatályon kívül helyezte.
+[^54]: A 23. § (9) bekezdését a 288/2002. (XII. 23.) Korm. rendelet 28. §-ának (2) bekezdése hatályon kívül helyezte.
+[^55]: A 23. § (10) bekezdését a 288/2002. (XII. 23.) Korm. rendelet 28. §-ának (2) bekezdése hatályon kívül helyezte.
