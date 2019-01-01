@@ -24,7 +24,7 @@ bc) típusát (általános tematikájú vagy tematikus),
 
 c) a médiaszolgáltatás megkezdésének tervezett időpontját.
 
-(2) A lekérhető médiaszolgáltatás médiaszolgáltatója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az a médiaszolgáltatás nyilvántartásba vétele esetén sem keletkezne.
+(2) A lekérhető médiaszolgáltatás médiaszolgáltatója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az a médiaszolgáltatás nyilvántartásba vétele esetén sem keletkezne.
 
 (3) A lekérhető médiaszolgáltatást a Hivatal harminc napon belül nyilvántartásba veszi.
 

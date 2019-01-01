@@ -18,7 +18,7 @@
 
 (9) A Hatóság a hírközlés és a média területén a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére – így különösen a hírközlési és médiajog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok támogatására, a hírközlési és a médiajoggal, illetve fogyasztóvédelmi politikával foglalkozó szakemberek képzésére, a hírközlési és médiapolitikával, valamint a fogyasztói döntéshozatallal kapcsolatos tájékozottság növelése érdekében végzett tájékoztatásra – jogosult felhasználni az előző évben a hírközlési és médiapiac szereplőitől befolyt bírságok teljes összegét. A tárgyévben e célból rendelkezésre álló, de fel nem használt összeg a következő évre átvihető, és a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére fordítható.
 
-(10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdés szerinti mellékletet is. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
+(10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdése és a 137/F. § (13) bekezdése szerinti mellékletet is. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
 
 (11)
 

@@ -1,6 +1,6 @@
 ## A Médiaszolgáltatás-támogató és Vagyonkezelő Alap
 
-136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltató szervezeti átalakításának támogatása, a közszolgálati célú műsorszámok gyártása és támogatása, az elsőként filmszínházban bemutatásra szánt filmalkotások és a kortárs zeneművek támogatása, a tulajdonosi joggyakorlása alatt álló állami és saját vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
+136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltató szervezeti átalakításának támogatása, a filmalkotásnak nem minősülő közszolgálati célú műsorszámok gyártása és támogatása, a tulajdonosi joggyakorlása alatt álló állami és saját vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
 
 (2) Az Alap tulajdonában álló saját, valamint a tulajdonosi joggyakorlása alatt álló állami vagyon ideértve annak hasznosításából és tulajdonjogának átruházásából származó bevételt is – kizárólag törvényben meghatározott célokra használható fel.
 
