@@ -1,0 +1,1 @@
+36. § A büntetőeljárásról szóló 2017. évi XC. törvény 234. § (2) bekezdés b) pontjában a „visszaélés, az egészségügyi termék” szövegrész helyébe a „visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék” szöveg lép.
