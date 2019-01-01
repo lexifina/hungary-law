@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-6-20-7P
 | --- | --- | --- |
 | 2018-12-25 | 2018-6-20-7P.1 | 6/2018. (XII. 17.) NVTNM rendelet |
 | 2018-12-26 | 2018-6-20-7P.2 | 2010: CXXX. törvény |
+| 2019-01-01 | 2018-6-20-7P.3 | 2010: CXXX. törvény |
