@@ -76,7 +76,10 @@ u) a nevelőszülő, a nevelőszülő házastársa vagy élettársa és a műkö
 
 (5) A nevelőszülői foglalkoztatási jogviszony megszűnése vagy megszüntetése esetén a működtető haladéktalanul megszüntetési záradékkal látja el a keretmegállapodást. A záradékban fel kell tüntetni a nevelőszülőt a nevelőszülői díjazás keretében megillető alapdíj folyósítása megszüntetésének időpontját. A megszüntetési záradékot a nevelőszülő és a működtető képviselője aláírja.
 
+(6)[^16] Ha a nevelőszülő más működtetőnél kíván nevelőszülői tevékenységet végezni, vagy a jelenlegi működtetőjénél végzett tevékenysége mellett kíván más működtetőnél is nevelőszülői feladatokat ellátni, és azt a jelenlegi működtető nem engedélyezi, az új működtetővel a keretmegállapodást a jelenlegi működtetőnél fennálló jogviszonya megszüntetését és a jelenlegi működtetővel kötött keretmegállapodása megszüntetési záradékkal történő ellátását követően kötheti meg.
+
 [^12]: A 11. § (1) bekezdés b) pont bc) alpontja a 353/2014. (XII. 29.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
 [^13]: A 11. § (1) bekezdés n) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
 [^14]: A 11. § (1) bekezdés p) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg.
 [^15]: A 11. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 83. §-ával megállapított szöveg.
+[^16]: A 11. § (6) bekezdését a 306/2018. (XII. 27.) Korm. rendelet 14. §-a iktatta be.

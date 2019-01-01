@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-513-20-
 | 2015-09-01 | 2013-513-20-22.7 | 221/2015. (VIII. 7.) Korm. rendelet |
 | 2017-01-01 | 2013-513-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2013-513-20-22.9 | 384/2017. (XII. 12.) Korm. rendelet |
+| 2019-01-01 | 2013-513-20-22.10 | 306/2018. (XII. 27.) Korm. rendelet |
