@@ -1,3 +1,3 @@
-39. §[^126]
+39. §[^128]
 
-[^126]: A Vhr. 39. §-át az 55/2007. (XII. 21.) IRM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
+[^128]: A Vhr. 39. §-át az 55/2007. (XII. 21.) IRM rendelet 6. § (1) bekezdése hatályon kívül helyezte.

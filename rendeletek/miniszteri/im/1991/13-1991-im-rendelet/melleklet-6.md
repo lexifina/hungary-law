@@ -162,7 +162,7 @@
 
 | Kiállított európai öröklési bizonyítványok száma: |  |
 
-6. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^135]
+6. számú melléklet a 13/1991. (XI. 26.) IM rendelethez[^137]
 
 Közjegyző okirat-szerkesztési eljárására irányuló kérelem
 
@@ -236,4 +236,4 @@ Aláírás
 
 ** A választ jelölje X-szel.
 
-[^135]: A Vhr. 6. számú mellékletét a 24/2015. (IX. 21.) IM rendelet 1. § (7) bekezdése iktatta be.
+[^137]: A Vhr. 6. számú mellékletét a 24/2015. (IX. 21.) IM rendelet 1. § (7) bekezdése iktatta be.
