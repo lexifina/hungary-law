@@ -1,0 +1,3 @@
+28. § Az Stv. 65. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó versenyrendszer működtetése esetén a labdarúgás sportág tekintetében a szakszövetség, a sportági szövetség, valamint a versenyrendszerben részt vevő sportszervezet szakirányú képesítéssel rendelkező biztonsági felelőst köteles alkalmazni. A sportszövetség a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzatában határozza meg azokat a szakirányú képesítéseket, amellyel a biztonsági felelősnek rendelkeznie kell, és azokat a követelményeket, amelyeket teljesítenie kell.”
