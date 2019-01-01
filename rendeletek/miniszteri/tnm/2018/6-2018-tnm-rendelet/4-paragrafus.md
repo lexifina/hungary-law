@@ -1,0 +1,3 @@
+4. § (1) A díjazottakra a miniszter által felkért személyekből álló, legalább 3 tagú bizottságok (a továbbiakban: bíráló bizottságok) tesznek javaslatot. A bíráló bizottságok elnöke a miniszter által kijelölt személy. A bíráló bizottságok tagjai e tevékenységükért díjazásban nem részesülnek. A bíráló bizottságok melletti titkársági feladatok ellátásáról az egyházi és nemzetiségi kapcsolatokért felelős államtitkár gondoskodik.
+
+(2) A bíráló bizottságok a javaslataikat – a jelölt életútjának, valamint tevékenységének rövid ismertetését tartalmazó indoklással és ajánló levéllel – az egyházi és a nemzetiségi kapcsolatokért felelős államtitkár útján terjesztik fel a miniszterhez a díj átadásának napját legalább 60 nappal megelőzően.
