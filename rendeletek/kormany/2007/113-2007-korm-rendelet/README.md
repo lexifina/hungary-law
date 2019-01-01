@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-113-20-
 | 2016-12-17 | 2007-113-20-22.26 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2017-01-01 | 2007-113-20-22.27 | 301/2007. (XI. 9.) Korm. rendelet |
 | 2018-01-01 | 2007-113-20-22.28 | 411/2017. (XII. 15.) Korm. rendelet |
+| 2019-01-01 | 2007-113-20-22.29 | 277/2018. (XII. 21.) Korm. rendelet |

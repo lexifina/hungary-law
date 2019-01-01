@@ -1,14 +1,11 @@
-## 32. §[^93]
+## 32. §[^99]
 
 33. § (1) A Tv. 16. § (1) bekezdés d) pontjában foglalt feltétel igazolására a születési anyakönyvi kivonat szolgál.
 
-(2)[^94] A regionális igazgatóság a Tv. 16. § (2) bekezdése alkalmazásában – az életközösség Tv.-ben meghatározott feltételeknek megfelelő fennállásának ellenőrzése céljából –
+(2)[^100]
 
-a) a Tv. 82. § (1) bekezdés a) pontja alapján a személyi adat- és lakcímnyilvántartásból adatot igényel a magyar állampolgár és családtagja lakóhelyéről vagy tartózkodási helyéről, illetve
+(3)[^101]
 
-b) felhasználja az idegenrendészeti nyilvántartásban a harmadik országbeli állampolgár családtag szálláshelyére vonatkozó adatokat.
-
-(3) A magyar állampolgár házastársa házassági anyakönyvi kivonattal igazolja, hogy a házasságot a kérelem benyújtását megelőzően legalább két éve megkötötték.
-
-[^93]: A 32. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^94]: A 33. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^99]: A 32. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^100]: A 33. § (2) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^101]: A 33. § (3) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

@@ -8,4 +8,6 @@ b) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségr
 
 c) schengeni állam: a Tv. 2. § e) pontjában meghatározott állam;
 
-d) háztartás: az EGT-állampolgárral vagy magyar állampolgárral egy lakásban együtt élő, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező személyek közössége.
+d)[^1] háztartás: az EGT-állampolgárral egy lakásban együtt élő, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező személyek közössége.
+
+[^1]: Az 1. § d) pontja a 277/2018. (XII. 21.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
