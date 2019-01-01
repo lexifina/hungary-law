@@ -4,30 +4,10 @@
 
 (2) A rendelet hatálybalépésekor és azt követően a fennálló üzemeltetési szerződés mindaddig hatályban marad, amíg a vízhasználók minimum 51%-a vagy az igazgatóság kezdeményezésére kiírt pályázatot követően új üzemeltetési szerződést kötnek.
 
-(2a)[^22] E rendeletnek a mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet módosításáról szóló 119/2012. (XI. 23.) VM rendelettel (a továbbiakban: Mód. R.) megállapított rendelkezéseit a Mód. R. hatálybalépése[^23] napján fennálló jogviszonyokra is alkalmazni kell azzal, hogy a hatályos szerződéseket a Mód. R. hatályba lépését követő 30 napon belül felül kell vizsgálni, és szükség szerint módosítani kell.
+(2a)[^23] E rendeletnek a mezőgazdasági vízszolgáltató művek üzemeltetéséről szóló 2/1997. (II. 18.) KHVM rendelet módosításáról szóló 119/2012. (XI. 23.) VM rendelettel (a továbbiakban: Mód. R.) megállapított rendelkezéseit a Mód. R. hatálybalépése[^24] napján fennálló jogviszonyokra is alkalmazni kell azzal, hogy a hatályos szerződéseket a Mód. R. hatályba lépését követő 30 napon belül felül kell vizsgálni, és szükség szerint módosítani kell.
 
-(3) E rendelet alkalmazásában:
+(3)[^25]
 
-a) felszíni víz: a vízfolyásokban, tavakban, tározókban, holtágakban, csatornákban rendelkezésre álló területi lefolyásokból és/vagy vízátvezetésből, illetőleg vízelvezetésből származó víz;
-
-b) kettős működésű csatorna: az alapvető belvízelvezetés mellett mezőgazdasági és/vagy egyéb célú vízszolgáltatási feladatot is ellátó csatorna;
-
-c) mezőgazdasági vízszolgáltató mű: csatorna, kettős működésű csatorna, duzzasztott víztér, tározó;
-
-d) üzemeltetési szerződés: az igazgatóság és az üzemeltető között létrejött a vízszolgáltató művek üzemeltetésére irányuló szerződés;
-
-e) üzemeltető: a vízszolgáltató művek üzemeltetését, fenntartását szerződés alapján, esetleg alapfeladatként végző és megbízás esetén fejlesztését ellátó személy vagy szervezet;
-
-f)[^24] vízhasználó: a vízjogi engedély és szolgáltatási szerződés alapján vizet felhasználó természetes vagy jogi személy, valamint jogi személyiség nélküli szervezet;
-
-g) vízmérés: a víz mennyiségét mérőműszerekkel, hitelesített műtárgyakkal, vagy a vízkivételre alkalmas szivattyúk névleges teljesítménye alapján műszaki becsléssel kell meghatározni;
-
-h) vízszolgáltatás: a mező- és erdőgazdasági művelés alatt álló területek öntözését, a halastavak és egyéb mezőgazdasági vízhasználat vízellátását szolgáló, továbbá a mezőgazdasági vízszolgáltatási rendszerhez kapcsolódó, egyéb célú vízigények kielégítésére irányuló tevékenység;
-
-i) vízszolgáltatási szerződés: az üzemeltető és a vízhasználó között a szolgáltatással és az ellenszolgáltatással kapcsolatos megállapodás;
-
-j) záridő: az az időszak, amikor a vízszolgáltatás – karbantartás, fenntartás vagy fejlesztés miatt – szünetel.
-
-[^22]: A 11. § (2a) bekezdését a 119/2012. (XI. 23.) VM rendelet 4. §-a iktatta be.
-[^23]: A hatálybalépés időpontja 2012. december 8.
-[^24]: A 11. § (3) bekezdés f) pontja a 22/2014. (III. 12.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^23]: A 11. § (2a) bekezdését a 119/2012. (XI. 23.) VM rendelet 4. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2012. december 8.
+[^25]: A 11. § (3) bekezdését a 36/2018. (XII. 21.) BM rendelet 1. § (7) bekezdés c) pontja hatályon kívül helyezte.

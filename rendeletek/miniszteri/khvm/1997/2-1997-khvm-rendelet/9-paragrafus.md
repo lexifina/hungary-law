@@ -18,20 +18,21 @@ c) a vízszolgáltató művek üzemzavara
 
 (4)[^21] A vízkorlátozást – mezőgazdasági vízhasználat esetén a megyei kormányhivatal földművelésügyi igazgatóságával egyeztetve – egyéb vízhasználatoknál pedig a vízhasználók és egyéb érdekeltek előzetes tájékoztatása mellett, az üzemeltető bevonásával, a vízkorlátozási terv figyelembevételével az igazgatóság rendeli el. Ha a vízkorlátozás több igazgatóság illetékességi területét érinti, a korlátozást az Országos Vízügyi Főigazgatóság rendeli el.
 
-(5) A vízkorlátozást a Vgtv. 15. § (4) bekezdés e) pontján belül, mezőgazdasági célú vízhasználat esetén az alábbi – sorrendben fokozatosan alkalmazható – intézkedésekkel kell végrehajtani a vízjogi engedélyben meghatározott vízmennyiséghez (vízsugárhoz) viszonyítva:
+(5)[^22] A vízkorlátozást a Vgtv. 15. § (5) bekezdésének megfelelően, mezőgazdasági célú vízhasználat esetén az alábbi – sorrendben fokozatosan alkalmazható – intézkedésekkel kell végrehajtani a vízjogi engedélyben meghatározott egyidejűleg elvételezhető maximális vízsugárhoz viszonyítva:
 
-a) a halastavak (áruhal termelő tavak) vízpótlásának szükség szerinti arányos, de legfeljebb 50%-os csökkentése;
+a) vízpótló öntözések 30%-os csökkentése;
 
-b) a rizstelepek vízpótlásának szükség szerinti arányos, de legfeljebb 50%-os csökkentése;
+b) az öntözésre használt valamennyi vízmennyiség szükség szerinti arányos csökkentése;
 
-c) vízpótló öntözések 30%-os csökkentése;
+c) a rizstelepek vízpótlásának szükség szerinti arányos, de legfeljebb 50%-os csökkentése;
 
-d) a halastavak vízpótlásának az a) pontban rögzítetten felüli további 20%-os csökkentése;
+d) a halastavak (áruhal termelő tavak) vízpótlásának szükség szerinti arányos, de legfeljebb 50%-os csökkentése;
 
-e) az öntözésre használt valamennyi vízmennyiség szükség szerinti arányos csökkentése.
+e) a halastavak vízpótlásának a d) pontban rögzítetten felüli további 20%-os csökkentése.
 
 (6) A vízkorlátozás feloldása fordított sorrendben történik.
 
 [^19]: A 9. § (2) bekezdés a) pontja a 67/2014. (XII. 17.) BM rendelet 13. §-ával megállapított szöveg.
 [^20]: A 9. § (3a) bekezdését a 67/2014. (XII. 17.) BM rendelet 13. § (2) bekezdése iktatta be.
 [^21]: A 9. § (4) bekezdése a 119/2012. (XI. 23.) VM rendelet 3. §-ával megállapított, a 67/2014. (XII. 17.) BM rendelet 14. § d) pontja szerint módosított szöveg.
+[^22]: A 9. § (5) bekezdése a 36/2018. (XII. 21.) BM rendelet 1. § (5) bekezdésével megállapított szöveg.

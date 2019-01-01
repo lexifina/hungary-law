@@ -1,6 +1,6 @@
 ## Az üzemeltetésre vonatkozó pályázat
 
-2. §[^2] (1) A rendelet hatálya alá tartozó mezőgazdasági vízszolgáltatást ellátó művek üzemeltetéséről a vízügyi igazgatóság (a továbbiakban: igazgatóság) saját hatáskörben vagy – vízszolgáltatási fürt üzemeltetésére vonatkozó nyilvános pályázat kiírásával – egyéb vízszolgáltató szervezet útján gondoskodik.
+2. §[^2] (1)[^3] A rendelet hatálya alá tartozó mezőgazdasági vízszolgáltatást ellátó művek üzemeltetéséről a vízügyi igazgatóság (a továbbiakban: igazgatóság) saját hatáskörben vagy – mezőgazdasági vízszolgáltató mű üzemeltetésére vonatkozó pályázat kiírásával – egyéb vízszolgáltató szervezet útján gondoskodik.
 
 (2) A nyilvános pályázati kiírásnak tartalmaznia kell:
 
@@ -29,3 +29,4 @@ k) a pályázat elbírálásának szempontjait, a döntéshozatal szabályait;
 l) az eredménytelen pályázat megismétlésének feltételeit.
 
 [^2]: A 2. § a 67/2014. (XII. 17.) BM rendelet 7. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 36/2018. (XII. 21.) BM rendelet 1. § (6) bekezdés a) pontja szerint módosított szöveg.

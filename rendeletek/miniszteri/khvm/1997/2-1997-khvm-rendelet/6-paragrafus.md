@@ -1,38 +1,36 @@
-## 5. §[^6] A mezőgazdasági vízszolgáltatásra a vízhasználó a részére vízátadást végző vízszolgáltató mű üzemeltetőjével szolgáltatási szerződést köt.
+## 5. §[^8] A mezőgazdasági vízszolgáltatás díjképzési rendjéről szóló kormányrendeletben meghatározott mezőgazdasági vízhasználó (a továbbiakban: vízhasználó) a részére mezőgazdasági vízszolgáltatást biztosító vízszolgáltató mű üzemeltetőjével a vízjogi engedély véglegessé válásától számított 30 napon belül szolgáltatási szerződést köt.
 
 ## A vízigény, az üzemeltetés és a vízhasználat
 
-6. § (1)[^7] A vízhasználat a vízigény előzetes bejelentése, valamint a vízjogi üzemeltetési engedély vagy fennmaradási engedély alapján a vízhasználó és vízszolgáltató mű üzemeltetője között létrejött szerződés szerint gyakorolható. A mezőgazdasági vízhasznosítási idényen kívüli vagy vízjogi engedélyhez nem kötött vízszolgáltatás tekintetében – az igazgatóság véleményének figyelembevételével – az üzemeltető és a vízhasználó szerződése az irányadó.
+6. §[^9] (1) A vízhasználat a vízigény bejelentése, valamint a vízjogi üzemeltetési engedély vagy fennmaradási engedély alapján a vízhasználó és vízszolgáltató mű üzemeltetője között létrejött szolgáltatási szerződés szerint gyakorolható. A mezőgazdasági vízhasznosítási idényen kívüli vízszolgáltatás tekintetében – az igazgatóság véleménye alapján – az üzemeltető és a vízhasználó közötti szolgáltatási szerződésben meghatározott feltételeknek megfelelően kell elszámolni.
 
-(2)[^8] A vízhasználó a vízhasznosítási idényre vonatkozó vízigényét a vízszolgáltató mű üzemeltetőjének – annak hiányában az igazgatóságnak – tárgyévenként legkésőbb a (4) bekezdés szerinti hasznosítási idény kezdetéig jelentheti be.
+(2) A vízhasználó a vízhasznosítási idényre vonatkozó vízigényét a vízszolgáltató mű üzemeltetőjének – annak hiányában az igazgatóságnak – tárgyévenként legkésőbb február 10. napjáig jelenti be. A vízhasználó a február 10. napja után kiadott vízjogi üzemeltetési engedélyre vonatkozó vízigényét a szolgáltatási szerződés megkötésekor, a vízhasznosítási idényen belül is bejelentheti, ha az 5. §-ban foglaltak szerint köti meg a szolgáltatási szerződést.
 
-(3) A vízigény előzetes bejelentése során közölni kell:
+(3) A vízigény bejelentése során közölni kell:
 
-a) a vízhasználó (tulajdonos) vagy a vízhasználatot egyéb (bérlet) jogcímen gyakorló (megnevezését, címét) székhelyét;
+a) a vízhasználó (megnevezését, címét) székhelyét;
 
-b)[^9] a tervezett vízfelhasználás célját, időszakát és mennyiségét, az igényelt vízmennyiség alsó és felső határát (vízsugarat), valamint az engedélyezett éves vízmennyiséget;
+b) a tervezett vízfelhasználás célját, időszakát és mennyiségét, az igényelt vízmennyiség alsó és felső határát (vízsugarat), valamint az engedélyezett éves vízmennyiséget;
 
-c)[^10] a jogerős vízjogi engedély számát, vízikönyvi számát;
+c) a végleges vízjogi engedély számát, vízikönyvi számát;
 
 d) az öntözendő terület, tógazdaság esetén a tóterület nagyságát;
 
 e) a vízkivétel módjának, helyének meghatározását, továbbá a vízmérés módját;
 
-f) az esetleges lecsapolás időpontjának, helyének és az elvezetni tervezett víz mennyiségének meghatározását;
+f) az esetleges lecsapolás, vízbevezetés időpontjának, helyének és az elvezetni tervezett víz mennyiségének meghatározását;
 
-g) az üzemeltetési napló vezetésének helyét;
+g) az üzemnapló vezetésének helyét;
 
-h)[^11] a vízátadás helyén engedélyezett minimum és maximum üzemvízszintet;
+h) a vízátadás helyén engedélyezett minimum és maximum üzemvízszintet;
 
-i)[^12] vízszolgáltatás kezdetét, befejezését.
+i) vízszolgáltatás igénybe vételének kezdetét, befejezését.
 
-(4)[^13] A (2) bekezdésben meghatározott hasznosítási idény öntözés esetén április 15. napjától szeptember 30. napjáig, tógazdálkodásnál március 1. napjától november 30. napjáig, a téli vízellátás október 1. napjától március 31. napjáig tart. A szerződő felek az igazgatóság hozzájárulása esetén ettől eltérő időpontban is megállapodhatnak.
+(4) A mezőgazdasági vízszolgáltatást végző üzemeltető tájékoztatja a szolgáltatási szerződéssel rendelkező vízhasználókat a tárgyévre érvényes vízszolgáltatási díjról a vízhasználat megkezdéséig, de legkésőbb április 10. napjáig.
 
-[^6]: Az 5. § a 67/2014. (XII. 17.) BM rendelet 9. §-ával megállapított szöveg.
-[^7]: A 6. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 14. § a) pontja szerint módosított szöveg.
-[^8]: A 6. § (2) bekezdése a 67/2014. (XII. 17.) BM rendelet 14. § b) pontja szerint módosított szöveg.
-[^9]: A 6. § (3) bekezdés b) pontja a 67/2014. (XII. 17.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^10]: A 6. § (3) bekezdés c) pontja a 67/2014. (XII. 17.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^11]: A 6. § (3) bekezdés h) pontját a 67/2014. (XII. 17.) BM rendelet 10. § (2) bekezdése iktatta be.
-[^12]: A 6. § (3) bekezdés i) pontját a 67/2014. (XII. 17.) BM rendelet 10. § (2) bekezdése iktatta be.
-[^13]: A 6. § (4) bekezdése a 119/2012. (XI. 23.) VM rendelet 1. §-ával megállapított szöveg.
+(5) A vízhasznosítási idény öntözés esetén április 15. napjától szeptember 30. napjáig, tógazdálkodásnál március 1. napjától november 30. napjáig, a téli vízellátás december 1. napjától február 28. napjáig tart. Az üzemeltető és a vízhasználó az igazgatóság hozzájárulása esetén ettől eltérő időpontban is megállapodhatnak.
+
+(6) A vízhasználó a tényleges vízhasználatot annak megkezdését megelőzően három nappal korábban köteles bejelenteni a vízszolgáltató területi képviselőjének.
+
+[^8]: Az 5. § a 36/2018. (XII. 21.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 6. § a 36/2018. (XII. 21.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
