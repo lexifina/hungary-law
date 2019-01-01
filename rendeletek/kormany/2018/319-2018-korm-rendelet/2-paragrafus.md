@@ -1,0 +1,47 @@
+## 1. § A HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság feladatainak meghatározásáról, valamint a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet módosításáról szóló 163/2018. (IX. 10.) Korm. rendelet (a továbbiakban: R.) a következő 2/A. és 2/B. §-sal egészül ki:
+
+## „2/A. § (1) A 2. § (2) bekezdés 23. pontjában meghatározott feladatok körében, az egyes, a minisztérium által évente meghatározott szakmastratégia keretében megjelölt programok tekintetében a KGH NKft. lebonyolító szervként jár el.
+
+## (2) A lebonyolító szerv – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 65/C. § (1) bekezdése szerinti megállapodásban rögzítettek szerint – az alábbi feladatokat látja el:
+
+## a) közreműködik a programok végrehajtása keretében elkészítendő pályázati konstrukciók, minőségbiztosítási követelmények, megfelelő biztosítéki rendszer megalapozásában, kialakításában, a potenciális pályázói kör felmérésében, lefolytatja a szükséges egyeztetéseket, kialakítja a lebonyolítás módszertanát;
+
+## b) a minisztérium szakmai felügyelete mellett kiírja a programok megvalósítása érdekében meghirdetésre kerülő pályázati felhívásokat, értékeli, kezeli a felhívásra beérkező pályázatokat, előkészíti és a minisztérium felé beterjeszti a szakmai javaslatait is tartalmazó döntési listát;
+
+## c) a támogatási döntésről kiértesíti a pályázókat;
+
+## d) a támogató szakmai felügyelete mellett elkészíti és megköti a támogatási szerződéseket a támogatások végső kedvezményezettjeivel;
+
+## e) érkezteti és kezeli a támogatások kifizetésével kapcsolatban a támogatások végső kedvezményezettjeitől beérkező lehívásokat, ellátja a támogatásokkal összefüggő kifizetési feladatokat;
+
+## f) ellátja a szerződések biztosítékával kapcsolatban felmerülő feladatokat;
+
+## g) ellátja a szerződésekkel és a támogatáskezelési eljárás egyéb eljárási elemeivel összefüggő adatkezelési, adatfeldolgozási és adatszolgáltatási feladatokat, ide értve az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 56/B–56/C. §-ok rendelkezései által a Kincstári Monitoring Rendszer felé történő adatszolgáltatással kapcsolatban meghatározott feladatokat;
+
+## h) nyomon követi a projektek megvalósítását, ellenőrzi a projektek pénzügyi és szakmai teljesítését, ennek keretében gondoskodik a támogatásokkal összefüggő helyszíni ellenőrzési feladatok ellátásáról;
+
+## i) gondoskodik a támogatásokkal összefüggő követeléskezelési feladatok ellátásáról;
+
+## j) biztosítja a pályázati konstrukciók lebonyolítását lehetővé tevő információs és informatikai rendszer kialakítását és működtetését;
+
+## k) biztosítja a jogszabályoknak megfelelő adatkezelési és nyilvántartási rendszer kialakítását és működtetését;
+
+## l) gondoskodik a szerződések lezárásáról, valamint ellátja a támogatásokhoz kapcsolódó követelésállomány nyilvántartásával összefüggő és követeléskezelési feladatokat;
+
+## m) ellátja a minisztérium által számára meghatározott egyéb feladatokat.
+
+## (3) A (2) bekezdésben meghatározott feladatainak ellátása során a KGH Nkft. a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 140. § o) pontja szerinti közfeladat ellátásában működik közre, az ennek keretében nyújtott támogatás nem minősül az Európai Unió működéséről szóló szerződés 107. cikke szerinti állami támogatásnak.
+
+## (4) A minisztérium az Áht. VI. Fejezetében, valamint az Ávr. VI. Fejezetében a fejezetet irányító szerv részére előírt, az (1) és (2) bekezdésben nem szabályozott további feladatokat döntése szerint a KGH Nkft.-vel kölcsönösen együttműködve vagy saját hatáskörben látja el.
+
+## (5) Az Ávr. 65/C. § (1) bekezdése szerinti megállapodás tartalmazza
+
+## a) az (1) bekezdésben foglaltak alapján évente meghatározott programok kijelölését,
+
+## b) a (2) bekezdésben szereplő feladatok végrehajtásából fakadó jogosultságok és kötelezettségek részletszabályait, valamint
+
+## c) a (4) bekezdésben foglalt együttműködés keretébe tartozó feladatok ellátására vonatkozó szabályokat.
+
+## (6) A támogatások lebonyolító szerv általi kifizetése, továbbá a támogatáskezeléssel kapcsolatos egyéb feladatok forrásának a lebonyolító szerv részére történő rendelkezésre állása érdekében a minisztérium gondoskodik a Magyar Államkincstárnál vezetett kincstári számláján elkülönített alszámla megnyitásáról és fenntartásáról, továbbá a lebonyolító szerv részére az alszámla feletti rendelkezési jogosultság biztosításáról.
+
+## 2/B. § Az e rendelet szerinti támogatáskezeléssel kapcsolatos feladatok ellátásához, a határon túli magyarság támogatásához szükséges forrást a központi költségvetésben kell tervezni.”
