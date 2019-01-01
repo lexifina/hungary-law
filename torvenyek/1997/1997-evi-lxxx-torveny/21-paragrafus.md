@@ -10,4 +10,6 @@ c) a jövedelmet pótló kártérítés, keresetpótló járadék – ide nem é
 
 d) a szerzői jogi védelem, találmányi szabadalmi oltalom, védjegyoltalom, földrajzi árujelzők oltalma, mintaoltalom alatt álló mű, alkotás, valamint az újítás hasznosítására irányuló felhasználási, hasznosítási, használati szerződés alapján a vagyoni jog (védelem alatt álló jog, oltalmi jog) felhasználásának ellenértékeként kifizetett díj,
 
-e) a késedelmes teljesítéshez kapcsolódó kamat.
+e) a késedelmes teljesítéshez kapcsolódó kamat,
+
+f) a Külszoltv. 25. § (2) bekezdése szerinti átalány-költségtérítés.

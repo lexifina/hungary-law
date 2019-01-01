@@ -1,5 +1,9 @@
 Tbj. 44/B. § (1) Az egészségbiztosítási szerv az egészségügyi szolgáltatást igénybe vevő, de az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő személyekről a bejelentési- és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából – külön megállapodásban foglaltak szerint – havonta adatot szolgáltat az állami adóhatóságnak.
 
+(1a) Az egészségbiztosítási szerv, a munkaügyi hatóság, az állami adó- és vámhatóság a bejelentési kötelezettség ellenőrzése során az Art. szerinti be nem jelentett foglalkoztatás feltárása esetén a jogsértésről szóló határozatának véglegessé válását követően – az adózó bejelentési kötelezettségének önkéntes teljesítése hiányában – az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti.
+
+(1b) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő, de biztosítotti státuszát okirattal hitelesen igazoló természetes személyre vonatkozóan – a biztosítotti jogviszony fennállásának az egészségbiztosítási szerv eljárása során történő tisztázását követően – az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti az állami adó- és vámhatóság felé.
+
 (2) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában biztosítottként vagy egyéb jogcímen egészségügyi szolgáltatásra jogosultként nem szereplő személyekről a bejelentési- és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából – külön megállapodásban foglaltak szerint – adatot szolgáltathat az állami adóhatóságnak.
 
 (3) Az (1)–(2) bekezdésben meghatározott adatszolgáltatás kiterjedhet az Art. rendelkezései szerint az adóigazolvány kiállításához szükséges természetes azonosító adatokra.

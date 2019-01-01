@@ -16,7 +16,7 @@ f) gyermekgondozást segítő ellátásban, gyermekgondozási segélyben részes
 
 g) egyházi jogi személytől nyugdíjban vagy a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi vagy rokkantsági nyugdíjsegélyben (nyugdíjban) részesül,
 
-h) az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátásban, időskorúak járadékában, ápolási díjban, gyermeknevelési támogatásban
+h) az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátásban, időskorúak járadékában, gyermekek otthongondozási díjában, ápolási díjban vagy gyermeknevelési támogatásban
 
 részesül, továbbá
 

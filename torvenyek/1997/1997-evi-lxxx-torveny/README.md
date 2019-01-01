@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 1997-80-00-00.91 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1997-80-00-00.92 |
 | 2018-07-26 | 2018. évi XLI. törvény | 1997-80-00-00.93 |
+| 2019-01-01 | 2018. évi XLI. törvény | 1997-80-00-00.94 |

@@ -14,7 +14,7 @@ a) Foglalkoztató:
 
 4. az álláskeresési járadékban, keresetpótló juttatásban, vállalkozói járadékban, valamint munkanélküli-járadékban, álláskeresést ösztönző juttatásban, nyugdíj előtti álláskeresési segélyben (a továbbiakban együtt: álláskeresési támogatás) részesülő, biztosítottnak minősülő személy esetén az ellátást folyósító szerv,
 
-5. a gyermekgondozást segítő ellátásban, a gyermekgondozási segélyben, a gyermekgondozási díjban, a gyermeknevelési támogatásban, az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv;
+5. a gyermekgondozást segítő ellátásban, a gyermekgondozási segélyben, a gyermekgondozási díjban, a gyermeknevelési támogatásban, a gyermekek otthongondozási díjában és az ápolási díjban részesülő személyek esetében a segélyt, a támogatást, illetve a díjat folyósító szerv;
 
 6. a kincstár számfejtési körében a helyi önkormányzatok nettó finanszírozásának hatálya alá tartozó munkáltatók esetében a járulék megállapításával, bevallásával, megfizetésével, a nyilvántartással és adatszolgáltatással, valamint a biztosítottak bejelentésével összefüggő, az e törvényben és az az adóigazgatási rendtartásról szóló törvényben (a továbbiakban: Air.), az adózás rendjéről szóló törvényben (a továbbiakban: Art.), ezek végrehatására szolgáló rendeletben, valamint az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben (a továbbiakban: Avt.) előírt kötelezettségek tekintetében a kincstár,
 
@@ -92,11 +92,13 @@ f) Saját jogú nyugdíjas: az a természetes személy, aki
 
 2. a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, illetve az EGT-állam jogszabályai alkalmazásával saját jogú öregségi nyugdíjban részesül,
 
-3. az egyéni vagy társas vállalkozó e) pont szerinti jogállását nem érinti, ha az 1–2. alpontokban említett nyugdíj folyósítása szünetel.
+3. az egyéni vagy társas vállalkozó e) pont szerinti jogállását nem érinti, ha az 1–2. alpontokban említett nyugdíj folyósítása szünetel
+
+4. az 1–2. pont szerint saját jogú nyugdíjasnak minősül és az Mt. szerint munkaviszonyban áll, abban az esetben is, ha a nyugellátás folyósítása szünetel.
 
 g) Fogvatartott: akinek őrizetét rendelték el; az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el; a letartóztatott; a szabadságvesztést, vagy elzárást töltő; valamint a kényszergyógykezelés vagy előzetes kényszergyógykezelés alatt álló személy.
 
-h) Megbízási jogviszony, munkaviszony: a magyar jog hatálya alá tartozó megbízási jogviszony és munkaviszony, továbbá a külföldi jog hatálya alá tartozó olyan megbízási jogviszony és munkaviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
+h) Megbízási jogviszony, munkaviszony: a magyar jog hatálya alá tartozó megbízási jogviszony és munkaviszony, továbbá a külföldi jog hatálya alá tartozó olyan megbízási jogviszony és munkaviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezményben részes másik állam területén végzik.
 
 i) Foglalkoztatott:
 
@@ -108,7 +110,9 @@ k) Járulékalapot képező jövedelem:
 
 1. a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó önálló és nem önálló tevékenységből származó bevételből az adóelőleg-alap számításnál figyelembe vett jövedelem, a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj, a tanulószerződés alapján ténylegesen kifizetett díj, a felszolgálási díj, a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló (a továbbiakban: borravaló), az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíj,
 
-2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott alapbér; ha a munkát munkavégzésre irányuló egyéb jogviszony vagy külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege.
+2. az 1. alpont szerinti jövedelem hiányában a munkaszerződésben meghatározott alapbér; ha a munkát munkavégzésre irányuló egyéb jogviszony vagy külföldi jog hatálya alá tartozó munkaszerződés alapján végzik, a szerződésben meghatározott díj havi összege,
+
+3. Járulékalapot képező jövedelemként kell figyelembe venni azt a jövedelmet, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától, ha a kifizetés, juttatás időpontjában e törvény 13. §-a alapján más ország járulékszabályai alkalmazandók.
 
 l) Járulék: az egészségbiztosítási és munkaerő-piaci járulék (a természetbeni egészségbiztosítási járulék, a pénzbeli egészségbiztosítási járulék és a munkaerő-piaci járulék), a nyugdíjjárulék, a táppénz-hozzájárulás, az egészségügyi szolgáltatási járulék.
 

@@ -6,7 +6,7 @@ a) az 5. § és a 13. § szerinti biztosítási kötelezettséggel járó jogvis
 
 b) a biztosítása szünetel,
 
-nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 34 százalék nyugdíjjárulék fizetésének vállalása mellett megállapodást köthet.
+nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából 24 százalék nyugdíjjárulék fizetésének vállalása mellett megállapodást köthet.
 
 (2) Az (1) bekezdés szerinti megállapodás szolgálati időre és nyugdíj alapjául szolgáló átlagkereset megszerzésére külön-külön nem köthető meg.
 
@@ -14,7 +14,7 @@ nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedel
 
 (4) Az (1) bekezdés alapján kötött megállapodás esetén a járulékfizetés alapja a megállapodást kötő személy által megjelölt jövedelem, de legalább a megállapodás megkötése napján érvényes minimálbér összege. Amennyiben a megállapodást a minimálbér összegének figyelembevételével kötik meg, annak változása esetén a megállapodás alapján fizetendő nyugdíjjárulékot, a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni. Így kell eljárni akkor is, ha a megállapodást kötő személy az általa megjelölt jövedelmét módosítja. Ha a megállapodást kötő személy, kedvezményezett javára kötött megállapodás esetén a kedvezményezett a megállapodás időtartama alatt biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás alapján történő járulékfizetési kötelezettség szünetel.
 
-(5) Szolgálati idő szerzése érdekében megállapodást köthet a megállapodás megkötése napján érvényes minimálbér alapulvételével számított 34 százalék nyugdíjjárulék fizetésével az a nagykorú személy, aki
+(5) Szolgálati idő szerzése érdekében megállapodást köthet a megállapodás megkötése napján érvényes minimálbér alapulvételével számított 24 százalék nyugdíjjárulék fizetésével az a nagykorú személy, aki
 
 a) felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányoknak (ideértve a doktorandusz-képzést is) a Tny. 41. §-a szerint figyelembe vehető idejét,
 

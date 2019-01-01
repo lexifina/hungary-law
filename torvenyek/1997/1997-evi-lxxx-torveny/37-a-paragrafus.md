@@ -10,4 +10,4 @@ d) ügyvédi tevékenysége, közjegyzői vagy szabadalmi ügyvivői kamarai tag
 
 e) egyéni vállalkozói tevékenysége szünetel,
 
-f) foglalkoztatása a munkaviszonyában vagy egyidejűleg fennálló több munkaviszonyában együttesen eléri a heti 36 órát.
+f) foglalkoztatása a munkaviszonyában vagy egyidejűleg fennálló több munkaviszonyában (ide nem értve a saját jogú nyugdíjasnak minősülő személy által létesített Mt. szerinti munkaviszonyt) együttesen eléri a heti 36 órát.
