@@ -6,13 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a 2. pont szerinti társaság megalapításához szükséges forrásbiztosítás érdekében 10 000,0 millió forint egyszeri átcsoportosítását rendeli el a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 2. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 4. Állami tulajdoni részesedések növekedését eredményező kiadások jogcímcsoport, 1. Részesedésvásárlás, tőkeemelés, pótbefizetés jogcím javára az 1. melléklet szerint;
-
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 3.[^1]
 
 ## 4. felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. bevonásával előzetesen mérje fel az ipari területek fejlesztésének céljára, vagy a célok eléréséhez szükséges forrás biztosítására alkalmas állami tulajdonban lévő ingatlanok körét;
 
@@ -62,46 +56,7 @@
 
 ## Határidő: 2015. november 30.
 
-1. melléklet az 1835/2015. (XI. 24.) Korm. határozathoz
+1. melléklet az 1835/2015. (XI. 24.) Korm. határozathoz[^2]
 
-| XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Fejezet száma és megnevezése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2015. Millió forintban, egy tizedessel |
-
-| Államház- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jogcím csoport szám | Jogcím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jogcím csoport név | Jogcím név | K I A D Á S O K | A módosítás jogcíme | Módosítás ( + / - ) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XLIII. |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 2 |  |  |  |  |  | Az állami vagyonnal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Felhalmozási jellegű kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 1 |  |  |  |  |  | Ingatlan-beruházások, ingatlanvásárlás |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 329639 |  |  |  |  | 2 |  |  |  |  |  | Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | -10 000,0 |  |  |  |
-
-|  |  |  |  | 4 |  |  |  |  |  | Állami tulajdoni részesedések növekedését eredményező kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 296335 |  |  |  |  | 1 |  |  |  |  |  | Részesedésvásárlás, tőkeemelés, pótbefizetés |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 10 000,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki |  | Az előirányzatok felhasználása/zárolása (módosítás +/-) Összesen: |  |  |  |  |  |  |  |  | I. né. | II. né. | III. né. | IV. né. |
-
-| Fejezetet irányító szerv |  |  |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  |  |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  |  |  | 1 példány |  |  | egyéb: azonnal |  |  | 10 000,0 |  |  |  |  |  |  |  |  |  |  |  | 10 000,0 |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| x/ Az összetartozó előirányzat változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
