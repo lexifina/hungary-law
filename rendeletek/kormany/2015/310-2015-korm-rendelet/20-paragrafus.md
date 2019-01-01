@@ -36,7 +36,7 @@ j) a díjazásban vagy megvételben nem részesült pályaművek visszaadásána
 
 k) az eredményhirdetés helyére és időpontjára vonatkozó információkat.
 
-(3)[^5] A dokumentáció mellékleteinek tartalmaznia kell különösen:
+(3)[^6] A dokumentáció mellékleteinek tartalmaznia kell különösen:
 
 a) építészeti-műszaki tervek esetén a tervezési terület alaptérképét, helyszínrajzát, szükség esetén geodéziai adatokat;
 
@@ -86,4 +86,4 @@ q) a pályaművekre vagy annak egyes részeire vonatkozó felhasználási jogok 
 
 (6) A dokumentációt a tervpályázati eljárás meghirdetésének napjáig el kell készíteni, majd a pályázók számára elektronikus úton korlátlanul és teljes körűen, térítésmentesen hozzáférhetővé kell tenni a Kbt. 39. §-ában foglaltaknak megfelelően.
 
-[^5]: A 20. § (3) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^6]: A 20. § (3) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

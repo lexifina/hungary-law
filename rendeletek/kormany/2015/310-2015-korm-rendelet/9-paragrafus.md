@@ -6,6 +6,6 @@
 
 (3) Tervpályázati eljárás lefolytatható abban az esetben is, ha az a tervezési feladatok koncepciójának szakmai megalapozására, az igények előzetes tisztázására, a tervezési program vagy a tervkoncepció előkészítésére szolgál, és a tervpályázati eljárásnak nem célja tervezési szolgáltatás megrendelése (a továbbiakban: ötletpályázat).
 
-(4)–(5)[^2]
+(4)–(5)[^3]
 
-[^2]: A 9. § (4)–(5) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 6. § (7) bekezdése hatályon kívül helyezte.
+[^3]: A 9. § (4)–(5) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 6. § (7) bekezdése hatályon kívül helyezte.
