@@ -6,7 +6,7 @@ a) bíróság,
 
 b) ügyészség,
 
-c)[^17] a NEBEK,
+c)[^18] a NEBEK,
 
 d) járási hivatal
 
@@ -16,4 +16,4 @@ rendelte el.
 
 (4) Ha a körözött személy ellen elfogatóparancs van hatályban, akkor az őrizetbe vételét az előállítás helye szerinti rendőrkapitányság végzi.
 
-[^17]: A 10. § (2) bekezdés c) pontja a 74/2015. (XII. 21.) BM rendelet 6. §-ával megállapított szöveg.
+[^18]: A 10. § (2) bekezdés c) pontja a 74/2015. (XII. 21.) BM rendelet 6. §-ával megállapított szöveg.
