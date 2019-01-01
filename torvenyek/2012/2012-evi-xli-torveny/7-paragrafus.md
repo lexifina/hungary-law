@@ -41,3 +41,5 @@ d) a közszolgáltatási utazási kedvezmények igénybevételére való jogosul
 e) a közlekedési kártya egyes közlekedési szolgáltató szervezeteknél való érvényesítési adatait.
 
 (8) Az (1) bekezdés b) pontjában meghatározott szervezet a (7) bekezdés a) és d) pontjában meghatározott adatokat a közlekedési kártya érvényességének vagy a polgári jogi igény érvényesíthetőségének időpontjáig kezeli.
+
+(9) Az (1) bekezdésben meghatározott szervek a személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosítása céljából a polgárok személyi adatainak és lakcímének nyilvántartásából természetes személyazonosító adatok, lakcím és személyazonosító igazolvány okmányazonosítója adat igénylésére jogosultak a nyilvántartó szervtől az adatigénylés indokoltságának igazolása mellett.
