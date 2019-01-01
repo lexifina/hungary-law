@@ -1,0 +1,1 @@
+10. § Ez a törvény a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
