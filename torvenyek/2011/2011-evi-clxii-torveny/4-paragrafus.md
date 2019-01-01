@@ -52,7 +52,7 @@ d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszer
 
 e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 
-f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig,
+f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
 
 g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 

@@ -1,4 +1,4 @@
-104. § (1) A szolgálati bíróság bírájaként nem járhat el az, aki ellen fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban, az eljárás jogerős befejezéséig.
+104. § (1) A szolgálati bíróság bírájaként nem járhat el az, aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll.
 
 (2) A szolgálati bíróság bírájának e tisztsége megszűnik:
 

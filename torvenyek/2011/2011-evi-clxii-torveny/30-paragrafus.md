@@ -2,7 +2,7 @@
 
 30. § (1) A közigazgatási és munkaügyi ügyekben eljáró bírákat a törvényszék bírái tekintetében a törvényszék elnökének javaslatára az OBH elnöke jelöli ki.
 
-(2) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 17. §-ának (5) és (6) bekezdésében, továbbá 448. §-ának (2) bekezdésében meghatározott ügyekben ítélkező, továbbá a bírósági közvetítői tevékenységet végző bírákat – a bíróság elnökének javaslatára – az OBH elnöke jelöli ki.
+(2) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 680. § (4) bekezdésében meghatározott ügyekben ítélkező, továbbá a bírósági közvetítői tevékenységet végző bírákat – a bíróság elnökének javaslatára – az OBH elnöke jelöli ki.
 
 (3) Az (1) és (2) bekezdésben foglalt hatásköröket a Kúria bírái tekintetében a Kúria elnöke megfelelően gyakorolja.
 

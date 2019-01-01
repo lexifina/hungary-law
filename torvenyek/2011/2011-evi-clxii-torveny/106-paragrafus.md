@@ -14,6 +14,6 @@ kezdeményezi az elsőfokú szolgálati bíróság elnökénél.
 
 (3) Az OBH elnöke kizárólag az általa kinevezett bírósági vezetők, valamint az OBH-ba beosztott bíró ellen kezdeményezheti a fegyelmi eljárás megindítását.
 
-(4) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást meg kell indítani.
+(4) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádas eljárást –, a fegyelmi eljárást meg kell indítani.
 
-(5) Ha a bíróval szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indult – kivéve a magánvádas és a pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást kezdeményező elnök rendelkezhet arról, hogy az eljárás alá vont bíró tárgyalási tevékenységet, a nyilvános ülés és a tanácsülés tartására is kiterjedően, nem végezhet a vele szemben indult eljárás megszüntetéséig vagy jogerős határozattal történő felmentéséig.
+(5) Ha a bíróval szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indult – kivéve a magánvádas és a pótmagánvádas eljárást –, a fegyelmi eljárást kezdeményező elnök rendelkezhet arról, hogy az eljárás alá vont bíró tárgyalási tevékenységet, a nyilvános ülés és a tanácsülés tartására is kiterjedően, nem végezhet a vele szemben indult eljárás megszüntetéséig vagy jogerős határozattal történő felmentéséig.
