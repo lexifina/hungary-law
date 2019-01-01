@@ -23,3 +23,5 @@ d) az 1. § (1) bekezdés g) és h) pontja szerinti személy szakszemélyzeti jo
 e) a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 53. § (2) bekezdése szerinti ok fennáll.
 
 (4) Az 1. § (1) bekezdés g) és h) pontja alá tartozó személy esetében az (1) és (2) bekezdésben, valamint a 7. § (1) bekezdésében foglaltak tekintetében munkáltató helyett az erdészeti hatóság jár el.
+
+(5) A (2)–(3) bekezdés szerinti közigazgatási hatósági ügyben hozott elsőfokú döntés ellen fellebbezésnek van helye.
