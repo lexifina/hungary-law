@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2018-07-01 | 2017. évi CLXXXVI. törvény | 2006-5-00-00.62 |
 | 2018-07-26 | 2018. évi XLI. törvény | 2006-5-00-00.63 |
 | 2018-12-31 | 16/2018. (X. 8.) AB határozat | 2006-5-00-00.64 |
+| 2019-01-01 | 2018. évi XCI. törvény | 2006-5-00-00.65 |

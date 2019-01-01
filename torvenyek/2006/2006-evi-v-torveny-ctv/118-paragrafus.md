@@ -16,7 +16,7 @@ akkor a cégbíróság a kényszertörlési eljárást megszünteti, és kezdem�
 
 (6) Ha a céggel szemben követelés bejelentésére nem került sor, azonban a cég fellelhető vagyonnal rendelkezik, a cégbíróság – eltiltás mellőzése mellett – a céget – a 62. § (4) bekezdése figyelembevételével – törli a cégjegyzékből, és rendelkezik a vagyonnak a tagok közötti felosztásáról a Cstv. 61. §-ában foglaltak alkalmazásával azzal, hogy a 117. § (7) bekezdése szerinti eljárással felmerült költségek viselésére a tagokat egyetemlegesen kötelezi. Amennyiben azonban a cég fellelhető vagyonának tulajdonjogával összefüggésben kétség merül fel, azt úgy kell tekinteni, mintha a céggel szemben követelés bejelentésére került volna sor.
 
-(7) Az (1), a (2) és a (6) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a cég törlésére vonatkozó rendelkezésével szemben a végzés közzétételétől számított tizenöt napon belül fellebbezésnek van helye. A cég törlését elrendelő végzés jogerőre emelkedését a Cégközlönyben közzé kell tenni. Ha az eljárás adatai alapján a cég tagja, illetve vezető tisztségviselője elérhető, a végzést a cégbíróság részükre postai úton kézbesíti.
+(7) Az (1), a (2) és a (6) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a cég törlésére vonatkozó rendelkezésével szemben a végzés közzétételétől számított tizenöt napon belül fellebbezésnek van helye. A cég törlését elrendelő végzés jogerőre emelkedését a Cégközlönyben közzé kell tenni. Ha az eljárás adatai alapján a cég tagja, vezető tisztségviselője, illetve az eltiltással érintett személy elérhető, a végzést a cégbíróság részükre postai úton kézbesíti.
 
 4. CÍM
 

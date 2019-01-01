@@ -14,6 +14,8 @@ e) a céggel fennálló munkaviszonyon alapuló bérkövetelése vagy munkaviszo
 
 azt a közzétételt követő hatvan napon belül jelentse be a cégbíróságnak.
 
+(2a) A céggel szembeni követelés bejelentése esetén a bejelentőnek nyilatkoznia kell a követelés összege mellett a követelés jogcíméről, keletkezésének és esedékességének időpontjáról is.
+
 (3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e feljegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart.
 
 (4) A cégbíróság megkeresi a pénzforgalmi szolgáltatókat, befektetési vállalkozókat és az árutőzsdei szolgáltatókat a cég vagyonára vonatkozó adatszolgáltatás teljesítése érdekében.
