@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-515-20-
 | 2017-09-01 | 2013-515-20-22.31 | 218/2017. (VII. 31.) Korm. rendelet |
 | 2018-01-01 | 2013-515-20-22.32 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-09-04 | 2013-515-20-22.33 | 155/2018. (IX. 3.) Korm. rendelet |
+| 2019-01-01 | 2013-515-20-22.34 | 264/2018. (XII. 20.) Korm. rendelet |

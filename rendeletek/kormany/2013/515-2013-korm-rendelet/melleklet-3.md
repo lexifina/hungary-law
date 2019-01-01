@@ -6,15 +6,15 @@
 
 ## 3. Egyéni vállalkozói igazolvány pótlása iránti kérelem
 
-## 4.[^53]
+## 4.[^54]
 
 ## 5. Egyéni vállalkozói tevékenység megkezdésének bejelentése és nyilvántartásba vétele
 
-## 6.[^54]
+## 6.[^55]
 
 ## 7. Egyéni vállalkozói tevékenység megszüntetésének bejelentése és nyilvántartásba vétele
 
-## 8.[^55]
+## 8.[^56]
 
 ## 9. Egyéni vállalkozói tevékenység özvegy vagy örökös által történő folytatásának bejelentése és nyilvántartásba vétele
 
@@ -34,9 +34,9 @@
 
 ## 17. Személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás iránti kérelem
 
-## 18.[^56]
+## 18.[^57]
 
-## 19.[^57]
+## 19.[^58]
 
 ## 20. Vezetői engedély kiállítása iránti kérelem (első vezetői engedély)
 
@@ -50,13 +50,13 @@
 
 ## 25. Törzskönyv pótlására irányuló kérelem, elvesztés, eltulajdonítás, megsemmisülés bejelentésével együtt
 
-## 26–27.[^58]
+## 26–27.[^59]
 
 ## 28. Rendszámtábla elvesztésének, ellopásának bejelentése és rendszámtábla pótlására irányuló kérelem
 
 ## 29. Rendszámtábla megrongálódása esetén, annak utángyártása iránti kérelem
 
-## 30–31.[^59]
+## 30–31.[^60]
 
 ## 32. Regisztrációs matrica pótlására irányuló kérelem
 
@@ -80,31 +80,31 @@
 
 ## 42. Hajós szolgálati útlevél kiadása, cseréje iránti kérelem soron kívüli eljárásban
 
-## 43.[^60] Hatósági bizonyítvány kiállítása iránti kérelem az egyéni vállalkozók nyilvántartásából
+## 43.[^61] Hatósági bizonyítvány kiállítása iránti kérelem az egyéni vállalkozók nyilvántartásából
 
-## 44.[^61] Adatszolgáltatás az egyéni vállalkozók nyilvántartásából
+## 44.[^62] Adatszolgáltatás az egyéni vállalkozók nyilvántartásából
 
-## 45.[^62] Külföldön élő magyar állampolgár nyilvántartásba vétele
+## 45.[^63] Külföldön élő magyar állampolgár nyilvántartásba vétele
 
-## 46.[^63] Előzetes eredetiségvizsgálati nyilvántartásból egyedi adatszolgáltatás iránti kérelem
+## 46.[^64] Előzetes eredetiségvizsgálati nyilvántartásból egyedi adatszolgáltatás iránti kérelem
 
-## 47.[^64] Származásellenőrzés nyilvántartásból adatszolgáltatás iránti kérelem
+## 47.[^65] Származásellenőrzés nyilvántartásból adatszolgáltatás iránti kérelem
 
-## 48.[^65] Közúti közlekedési okmánytárból adatszolgáltatás iránti kérelem
+## 48.[^66] Közúti közlekedési okmánytárból adatszolgáltatás iránti kérelem
 
-3. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^66]
+3. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^67]
 
-[^53]: A 2. melléklet 4. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
-[^54]: A 2. melléklet 6. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § b) pontja hatályon kívül helyezte.
-[^55]: A 2. melléklet 8. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § c) pontja hatályon kívül helyezte.
-[^56]: A 2. melléklet 18. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése hatályon kívül helyezte.
-[^57]: A 2. melléklet 19. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése hatályon kívül helyezte.
-[^58]: A 2. melléklet 26–27. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (7) bekezdés e) pontja hatályon kívül helyezte.
-[^59]: A 2. melléklet 30–31. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (7) bekezdés e) pontja hatályon kívül helyezte.
-[^60]: A 2. melléklet 43. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte, újonnan a 379/2016. (XII. 2.) Korm. rendelet 258. § (4) bekezdése iktatta be.
-[^61]: A 2. melléklet 44. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (4) bekezdése iktatta be.
-[^62]: A 2. melléklet 45. pontját a 473/2016. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
-[^63]: A 2. melléklet 46. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^64]: A 2. melléklet 47. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^65]: A 2. melléklet 48. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^66]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 482. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^54]: A 2. melléklet 4. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
+[^55]: A 2. melléklet 6. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § b) pontja hatályon kívül helyezte.
+[^56]: A 2. melléklet 8. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § c) pontja hatályon kívül helyezte.
+[^57]: A 2. melléklet 18. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^58]: A 2. melléklet 19. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^59]: A 2. melléklet 26–27. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (7) bekezdés e) pontja hatályon kívül helyezte.
+[^60]: A 2. melléklet 30–31. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (7) bekezdés e) pontja hatályon kívül helyezte.
+[^61]: A 2. melléklet 43. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte, újonnan a 379/2016. (XII. 2.) Korm. rendelet 258. § (4) bekezdése iktatta be.
+[^62]: A 2. melléklet 44. pontját a 379/2016. (XII. 2.) Korm. rendelet 258. § (4) bekezdése iktatta be.
+[^63]: A 2. melléklet 45. pontját a 473/2016. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^64]: A 2. melléklet 46. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^65]: A 2. melléklet 47. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^66]: A 2. melléklet 48. pontját az 53/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^67]: A 3. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 482. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

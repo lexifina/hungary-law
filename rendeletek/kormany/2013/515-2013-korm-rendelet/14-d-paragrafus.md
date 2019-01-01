@@ -6,9 +6,9 @@
 
 (4) Amennyiben a hatáskörrel és illetékességgel rendelkező hatóság hívta fel hiánypótlásra az ügyfelet, a hiánypótlásra nyitva álló határidő megtartottnak tekintendő, ha az ügyfél a hiánypótlást határidőben a kormányablaknál teljesíti.
 
-(5)[^24] A kormányablak az (1) és (3) bekezdés szerinti továbbítást elektronikus úton végzi, kivéve, ha a kérelem, bejelentés benyújtott mellékletének vagy az arról készített hiteles elektronikus másolatnak az elektronikus úton történő továbbítása nem lehetséges.
+(5)[^25] A kormányablak az (1) és (3) bekezdés szerinti továbbítást elektronikus úton végzi, kivéve, ha a kérelem, bejelentés benyújtott mellékletének vagy az arról készített hiteles elektronikus másolatnak az elektronikus úton történő továbbítása nem lehetséges.
 
-(6)[^25] A kormányablak a 14/C. § és 14/D. § szerinti kérelmekkel kapcsolatos eljárásában közreműködő hatóságként jár el. Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az ügyfél a közigazgatási hatósági eljárásért fizetendő illetéket vagy igazgatási szolgáltatási díjat a kormányablaknál is megfizetheti.
+(6)[^26] A kormányablak a 14/C. § és 14/D. § szerinti kérelmekkel kapcsolatos eljárásában közreműködő hatóságként jár el. Ha törvény vagy kormányrendelet eltérően nem rendelkezik, az ügyfél a közigazgatási hatósági eljárásért fizetendő illetéket vagy igazgatási szolgáltatási díjat a kormányablaknál is megfizetheti.
 
-[^24]: A 14/D. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 480. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^25]: A 14/D. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 480. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^25]: A 14/D. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 480. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^26]: A 14/D. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 480. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

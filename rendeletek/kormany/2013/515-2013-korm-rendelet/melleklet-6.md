@@ -20,26 +20,41 @@
 
 ## 10. Cégbejegyzési és változásbejegyzési eljárásról tájékoztatás
 
-## 11.[^68] Egységes elektronikuskártya-kibocsátási keretrendszer kártyafelhasználói regisztráció
+## 11.[^69] Egységes elektronikuskártya-kibocsátási keretrendszer kártyafelhasználói regisztráció
 
-## 12.[^69] Ügyintézési rendelkezés tétele
+## 12.[^70] Ügyintézési rendelkezés tétele
 
-## 13.[^70] Megtett ügyintézési rendelkezésről szóló igazolás kiadásának kérése
+## 13.[^71] Megtett ügyintézési rendelkezésről szóló igazolás kiadásának kérése
 
-## 14.[^71] Ügyfélkapu-regisztráció birtokában internethasználat biztosítása a személyiadat- és lakcímnyilvántartás tekintetében adatszolgáltatások alanyára vonatkozó tájékoztatás iránti kérelem elektronikus úton történő benyújtásához
+## 14.[^72] Ügyfélkapu-regisztráció birtokában internethasználat biztosítása a személyiadat- és lakcímnyilvántartás tekintetében adatszolgáltatások alanyára vonatkozó tájékoztatás iránti kérelem elektronikus úton történő benyújtásához
 
-## 15.[^72] Internethasználat és elérés biztosítása a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásához
+## 15.[^73] Internethasználat és elérés biztosítása a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásához
 
-## 16.[^73] Kormány által biztosított elektronikus azonosítási szolgáltatás, illetve részleges kódú telefonos azonosítás (RKTA) birtokában a hatósági erkölcsi bizonyítvány elektronikus úton történő benyújtásának biztosítása
+## 16.[^74] Kormány által biztosított elektronikus azonosítási szolgáltatás, illetve részleges kódú telefonos azonosítás (RKTA) birtokában a hatósági erkölcsi bizonyítvány elektronikus úton történő benyújtásának biztosítása
 
-## 17.[^74] Pénzügyi fogyasztóvédelmi panaszok, közérdekű bejelentések, a Pénzügyi Békéltető Testület közigazgatási hatósági eljárásnak nem minősülő eljárására irányuló kérelmek továbbítása
+## 17.[^75] Pénzügyi fogyasztóvédelmi panaszok, közérdekű bejelentések, a Pénzügyi Békéltető Testület közigazgatási hatósági eljárásnak nem minősülő eljárására irányuló kérelmek továbbítása
+
+## 18.[^76] Tiltakozás továbbítása Elektronikus Egészségügyi Szolgáltatási Térben tárolt személyes adatok kezelése ellen
+
+## 19.[^77] Elektronikus Egészségügyi Szolgáltatási Térrel kapcsolatos adatmódosítás iránti kérelem továbbítása
+
+## 20.[^78] Elektronikus Egészségügyi Szolgáltatási Térrel kapcsolatos adatvédelmi incidens bejelentésének továbbítása
+
+## 21.[^79] Elektronikus Egészségügyi Szolgáltatási Térrel kapcsolatos adathordozhatósághoz való jog gyakorlása iránti kérelem továbbítása
+
+## 22.[^80] Elektronikus Egészségügyi Szolgáltatási Térben kezelt adatokról tájékoztatás kérésének továbbítása
 
 6. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^68]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^69]: Az 5. melléklet 12. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^70]: Az 5. melléklet 13. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^71]: Az 5. melléklet 14. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^72]: Az 5. melléklet 15. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^73]: Az 5. melléklet 16. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^74]: Az 5. melléklet 17. pontját a 155/2018. (IX. 3.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^69]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^70]: Az 5. melléklet 12. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^71]: Az 5. melléklet 13. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^72]: Az 5. melléklet 14. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^73]: Az 5. melléklet 15. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^74]: Az 5. melléklet 16. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^75]: Az 5. melléklet 17. pontját a 155/2018. (IX. 3.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^76]: Az 5. melléklet 18. pontját a 264/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^77]: Az 5. melléklet 19. pontját a 264/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^78]: Az 5. melléklet 20. pontját a 264/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^79]: Az 5. melléklet 21. pontját a 264/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^80]: Az 5. melléklet 22. pontját a 264/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
