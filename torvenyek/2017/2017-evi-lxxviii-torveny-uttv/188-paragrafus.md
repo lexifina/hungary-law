@@ -2,7 +2,7 @@
 
 (2) Ha a területi kamara a hatósági ellenőrzés során jogszabály, kamarai szabályzat vagy végrehajtható kamarai határozat megsértését (ezen alcím alkalmazásában a továbbiakban együtt: kötelességszegés) állapítja meg, és
 
-a) az a kötelességszegés megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a területi kamara erre a kötelességszegésre való figyelmeztetés mellett, megfelelő, de legalább tizenöt napos határidő megállapításával, valamint a jogkövetkezményekre való figyelmeztetéssel végzésben kötelezi az ügyvédi, illetve ügyvédasszisztensi tevékenység folytatóját,
+a) az a kötelességszegés megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a területi kamara megfelelő, de legalább tizenöt napos határidő megállapításával, valamint a jogkövetkezményekre való figyelmeztetéssel végzésben kötelezi az ügyvédi, illetve ügyvédasszisztensi tevékenység folytatóját,
 
 b) az a) pont szerinti határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, megindítja az e törvény szerinti hatósági eljárást vagy – ha fegyelmi vétség elkövetésének gyanúja merül fel – előzetes vizsgálat lefolytatását kezdeményezi.
 

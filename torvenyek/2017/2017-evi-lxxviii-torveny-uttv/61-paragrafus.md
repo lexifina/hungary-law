@@ -8,4 +8,4 @@
 
 (5) A munkáltató biztosítja az alkalmazott ügyvéd számára a továbbképzésben történő részvétel lehetőségét, ennek érdekében a képzés idejére őt a munkavégzés alól mentesíti.
 
-(6) Az alkalmazott ügyvéd munkaviszonyára egyebekben a Munka Törvénykönyve az irányadó. E törvénynek az ügyvédekre vonatkozó rendelkezései az ezen alcímben nem szabályozott kérdésekben az alkalmazott ügyvédekre is irányadók.
+(6) Az alkalmazott ügyvéd munkaviszonyára egyebekben a munka törvénykönyvéről szóló törvény az irányadó. E törvénynek az ügyvédekre vonatkozó rendelkezései az ezen alcímben nem szabályozott kérdésekben az alkalmazott ügyvédekre is irányadók.

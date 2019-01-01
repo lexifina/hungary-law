@@ -38,7 +38,7 @@
 
 19. az ügyvédi és ügyvédasszisztensi tevékenység kamarai hatósági ellenőrzésének részletes szabályairól,
 
-20. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítéséről, felügyeleti eljárásrendről, kockázatértékelésről és útmutatóról,
+20. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítéséről, felügyeleti eljárásrendről, kockázatértékelésről és útmutatóról, valamint az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeiről, auditálásának módjáról és az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtásáról,
 
 21. az ügyvédi tevékenységet folytatók továbbképzési kötelezettségéről, annak a nyilvántartásáról, a továbbképzés keretében elfogadható képzések, szakmai és tudományos tevékenységek követelményrendszeréről, valamint engedélyezésük, illetve elfogadásuk rendjéről,
 
@@ -62,7 +62,7 @@
 
 31. az ügyvédi letéti tevékenység kamarai hatósági ellenőrzése során a számlavezető megkeresése során alkalmazandó elektronikus űrlapról,
 
-32. a fegyelmi büntetésként alkalmazható pénzbírság felhasználásáról, valamint
+32. a fegyelmi büntetésként alkalmazható pénzbírság felhasználásáról,
 
 33. a regionális fegyelmi bizottságokra vonatkozó részletes szabályokról,
 

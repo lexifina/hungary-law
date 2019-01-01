@@ -20,4 +20,4 @@ terjedhet.
 
 a) írásbeli megrovás mellett más fegyelmi büntetés, valamint
 
-b) kizárás mellett kamarai közügyektől eltiltás vagy ügyvédjelölt foglalkoztatásától való eltiltás.
+b) végrehajtásában fel nem függesztett kizárás mellett kamarai közügyektől eltiltás vagy ügyvédjelölt foglalkoztatásától való eltiltás.

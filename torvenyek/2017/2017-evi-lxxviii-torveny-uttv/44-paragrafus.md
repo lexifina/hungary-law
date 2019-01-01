@@ -14,13 +14,25 @@ d) az okiratot a felek előtte írták alá vagy az okiraton szereplő aláírá
 
 a) az ellenjegyző ügyvéd helyettesítésére jogosult személy, vagy
 
-b) az ellenjegyző ügyvéd megbízásából eljáró, a saját EGT-államában ügyvédi tevékenységet gyakorló, nyilvántartásba vett személy
+b) az ellenjegyző ügyvéd megbízásából eljáró, a saját EGT-államában, valamint a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában ügyvédi tevékenységet gyakorló, nyilvántartásba vett személy
 
 azzal, hogy ezt a körülményt, valamint a b) pont szerinti esetben az (1) bekezdés d) pontjának tanúsítására való jogosultságot az ellenjegyzésben fel kell tüntetni.
 
 (4) Az (1) bekezdés b)–d) pontjának az alkalmazása során eljárhat az okiratot ellenjegyző kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója, azzal, hogy ezt a körülményt az ellenjegyzésben fel kell tüntetni.
 
-(5) Az (1) bekezdés d) pontját nem kell alkalmazni, ha a fél aláírását az aláírás helye szerint illetékes magyar külképviseleti hatóság hitelesítette vagy felülhitelesítette, vagy azt Apostille tanúsítvánnyal látták el, vagy a fél aláírását közjegyző hitelesítette, illetve ha a fél az okiratot a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával és időbélyegzővel látta el.
+(5) Nem kell alkalmazni
+
+a) az (1) bekezdés c) és d) pontját, ha
+
+aa) a fél aláírását az aláírás helye szerint illetékes konzuli tisztviselő hitelesítette,
+
+ab) a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát a hivatásos konzuli tisztviselő felülhitelesítette,
+
+ac) a fogadó állam hatóságának az okiraton szereplő aláírását és bélyegzőnyomatát Apostille tanúsítvánnyal látták el, vagy
+
+ad) a fél aláírását közjegyző hitelesítette,
+
+b) az (1) bekezdés d) pontját, ha az elektronikus okiratot a fél a 43. § (2a) bekezdés a) vagy b) pontja szerint írta alá.
 
 (6) Az okiratot az azt szerkesztő ügyvéd mellett – az okiratban megjelölt egyes felek vonatkozásában az (1) bekezdés c) és d) pontjaiban meghatározott körülmények fennállásának tanúsítására – más ügyvéd is ellenjegyezheti, azzal, hogy az érintett körülményeket az ellenjegyzésben fel kell tüntetni.
 

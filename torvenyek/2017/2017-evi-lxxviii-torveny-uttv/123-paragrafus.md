@@ -10,7 +10,7 @@ c) megszünteti az előzetes vizsgálatot.
 
 a) a fegyelmi vétség elkövetésének gyanúja nem állapítható meg,
 
-b) az előzetes vizsgálat alapjául szolgáló magatartásnak vagy mulasztásnak az e törvény szerinti fegyelmi eljárásban történő jogerős elbírálása már megtörtént,
+b) az előzetes vizsgálat alapjául szolgáló magatartásnak vagy mulasztásnak az az e rész szerinti eljárásban történő jogerős érdemi elbírálása már megtörtént,
 
 c) az előzetes vizsgálat alapjául szolgáló, a 113. § (3) bekezdés szerinti magatartásnak vagy mulasztásnak a kamarai jogtanácsos vagy jogi előadó ellen a munkáltató által indított, külön törvényben szabályozott fegyelmi eljárásban történő jogerős elbírálása már megtörtént, és a 113. § (4) bekezdése alkalmazásának nincs helye,
 

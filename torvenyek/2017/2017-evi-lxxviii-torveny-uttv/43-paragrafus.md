@@ -6,15 +6,25 @@
 
 a) több oldalból álló okirat esetén folyamatos oldalszámozással kell ellátni,
 
-b) minden oldalán a feleknek vagy arra az okiratban meghatalmazott félnek kézjegyével kell ellátnia,
+b) papíralapú okirat esetén annak minden oldalán a feleknek vagy arra az okiratban meghatalmazott félnek kézjegyével kell ellátnia,
 
 c) a feleknek alá kell írniuk,
 
 d) az ellenjegyző ügyvédnek a neve, a kamarai azonosító száma, az ellenjegyzés ténye, továbbá az ellenjegyzés helye és időpontja feltüntetése mellett alá kell írnia.
 
+(2a) Elektronikus okirat esetében a (2) bekezdés c) pontja szerinti aláírás történhet
+
+a) a fél minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásának elhelyezésével,
+
+b) a fél által azonosításra visszavezetett dokumentumhitelesítés szolgáltatással való hitelesítéssel, vagy
+
+c) a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés h) pontja szerinti szolgáltatással.
+
+(2b) Jogi személy vagy jogi személyiség nélküli szervezet esetében az elektronikus okiratot a képviseletére jogosult természetes személy a (2a) bekezdés szerint írja alá.
+
 (3) Az ellenjegyző ügyvéd a papíralapú okiraton az aláírása oldalán a szárazbélyegzőjének a lenyomatát elhelyezi, az elektronikus okiratot a 18. § (1) bekezdés szerinti követelményeknek megfelelő elektronikus aláírásával és időbélyegzővel látja el.
 
-(4) A (2) bekezdés b) pontjában foglalt követelmény alkalmazása mellőzhető, ha a papíralapú okirat lapjait az ellenjegyző ügyvéd úgy fűzi össze, hogy az az okirat sérelme nélkül ne legyen megbontható, illetve ha az elektronikus okiratot minden fél minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával és időbélyegzővel látja el.
+(4) A (2) bekezdés b) pontjában foglalt követelmény alkalmazása mellőzhető, ha a papíralapú okirat lapjait az ellenjegyző ügyvéd úgy fűzi össze, hogy az az okirat sérelme nélkül ne legyen megbontható.
 
 (5) Ha az ügyvédi tevékenység ellátásnak olyan okirat ellenjegyzése is részét képezi, amelynek valamely szerződő fele az okiratot szerkesztő ügyvédnek az adott ügy ellátására nem adott megbízást, az okiratot szerkesztő ügyvéd az okirat aláírását megelőzően írásban köteles e felet tájékoztatni arról, hogy az ellenjegyzés az okiratot szerkesztő ügyvéddel megbízási jogviszonyt nem hoz létre. Ha a szerződő fél jogi képviselővel jár el, e tájékoztatás mellőzhető.
 

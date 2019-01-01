@@ -8,7 +8,7 @@ c) az európai közösségi jogászok szakmai megnevezéseit, amelyek alatt az �
 
 d) az arcképes igazolványra vonatkozó részletes szabályokat,
 
-e) az adópolitikáért felelős miniszterrel egyetértésben, a kérelemre induló kamarai hatósági eljárásokért fizetendő igazgatási szolgáltatási díj összegére, befizetésére, visszatérítésére és nyilvántartására, valamint az igazgatási szolgáltatási díj alóli kedvezményekre és mentességekre vonatkozó szabályokat,
+e) az adópolitikáért felelős miniszterrel egyetértésben, a kérelemre induló kamarai hatósági eljárásokért fizetendő igazgatási szolgáltatási díj összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó szabályokat,
 
 f)
 

@@ -33,3 +33,7 @@ e) okirat ellenjegyzését,
 f) az a)–e) pont szerinti tevékenységgel összefüggésben a szerkesztett okiratok és mellékleteik elektronikus okirati formába alakítását
 
 folytathatja.
+
+(5) A munkavállalói érdekképviseleti szervezet meghatalmazása alapján annak kamarai jogtanácsosa a munkavállalói érdek-képviseleti szervezet saját tagjának munkaügyi vagy közszolgálati perében jogi képviseletet elláthat.
+
+(6) A kamarai jogtanácsos elektronikus kapcsolattartásra szolgáló elérhetőségét a Kormány rendeletben határozza meg.

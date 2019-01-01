@@ -2,7 +2,15 @@
 
 167. § (1) A területi elnökség a területi kamara elnökéből, egy vagy több elnökhelyetteséből, főtitkárából, illetve titkárából és a tagokból áll. Az ügyvéd tagok száma tizenöt, ha a területi kamara alapszabálya másképpen nem állapítja meg.
 
-(2) Ha a területi kamara tagjainak legalább öt százaléka kamarai jogtanácsos, illetve alkalmazott ügyvéd, a területi elnökségben az általános választás kiírásának napján fennálló létszámarányuknak megfelelő számú legalább egy, legfeljebb három tagja kamarai jogtanácsos, illetve legalább egy, legfeljebb három tagja alkalmazott ügyvéd.
+(2) Ha a területi kamara választásra jogosult tagjainak az általános választás kiírásának napján legalább
+
+a) öt százaléka kamarai jogtanácsos, illetve alkalmazott ügyvéd, a területi elnökség egy tagja,
+
+b) tíz százaléka kamarai jogtanácsos, illetve alkalmazott ügyvéd, a területi elnökség két tagja,
+
+c) húsz százaléka kamarai jogtanácsos, illetve alkalmazott ügyvéd, a területi elnökség három tagja
+
+kamarai jogtanácsos, illetve alkalmazott ügyvéd.
 
 (3) Az ezer főnél nagyobb taglétszámú területi kamara esetén, vagy ha a területi kamara tagjainak legalább húsz százaléka kamarai jogtanácsos, a (2) bekezdés szerinti tagok közül a kamarai jogtanácsosok területi tagozatának az elnöke a területi kamara egyik elnökhelyettese.
 

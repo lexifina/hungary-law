@@ -1,6 +1,6 @@
 150. § (1) Ha a területi kamara tagja a kamarai tagdíjfizetési vagy végrehajtható fegyelmi határozatból fakadó fizetési kötelezettségét határidőben nem teljesíti, illetve vele szemben összeférhetetlenségi ok merül fel, a területi kamara írásban felhívja az ügyvédet, hogy fizetési kötelezettségének tizenöt napon belül tegyen eleget, illetve az összeférhetetlenséget harminc napon belül szüntesse meg.
 
-(2) Ha az adóhatóság a kamarai tag adószámának a felfüggesztéséről értesíti, a területi kamara a tagot írásban figyelmezteti a 149. § (1) bekezdés g) pontja szerinti jogkövetkezményre.
+(2)
 
 (3) Ha a kamarai tag adószámát véglegesen törölték, a kamarai tagság azt követően szüntethető meg, hogy az állami adó- és vámhatóság, az ügyvéd irodájának fekvése szerint illetékes önkormányzati adóhatóság, továbbá a nyugdíjbiztosítási igazgatási szerv nyilatkozott arról, hogy a kamarai tag adóbevallási és nyugdíjbiztosítási adatszolgáltatási kötelezettségeinek eleget tett, adótartozása, véglegessé vált határozatban megállapított adófizetési kötelezettsége és más, adók módjára behajtandó köztartozása nincs, az ügyvédnél adóhatósági, vámhatósági eljárás nincs folyamatban, és ellenőrzést, végrehajtást az állami adóhatóság, illetve a vámhatóság nem kezdeményez.
 

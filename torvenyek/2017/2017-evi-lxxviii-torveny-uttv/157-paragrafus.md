@@ -30,4 +30,4 @@ f) ellátja az Alapszabályban hatáskörébe utalt feladatokat.
 
 (5) A küldöttgyűlés határozatának elfogadásához a jelen lévő tagok többségének a támogató szavazata, a szabályzatok elfogadásához, módosításához a jelen lévő tagok kétharmadának a támogató szavazata szükséges.
 
-(6) A küldöttgyűlés határozatának a hatályon kívül helyezését a küldöttgyűlés tagja kérheti a bíróságtól, ha az jogszabálysértő, az Alapszabályba vagy a Magyar Ügyvédi Kamara szabályzatába ütközik.
+(6)

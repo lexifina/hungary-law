@@ -20,4 +20,6 @@ g) az ügyvédi iroda számára irodagondnokot jelöltek ki, és a kijelölés m
 
 (3) Ha az ügyvédi iroda a létesítésére előírt feltételeknek nem felel meg, a területi kamara felszólítja, hogy e feltételeknek harminc napon belül tegyen eleget.
 
-(4) Ha az adóhatóság az ügyvédi iroda adószámának a felfüggesztéséről értesíti, a területi kamara a tagot írásban figyelmezteti a (2) bekezdés f) pontja szerinti jogkövetkezményre.
+(4)
+
+(5) Ha az ügyvédi iroda jogutód nélküli törlését követően olyan vagyontárgy kerül elő, amelynek a törölt ügyvédi iroda volt a tulajdonosa, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti vagyonrendezési eljárást kell lefolytatni azzal, hogy a törölt cégre vonatkozó rendelkezéseket a törölt ügyvédi irodára kell alkalmazni.

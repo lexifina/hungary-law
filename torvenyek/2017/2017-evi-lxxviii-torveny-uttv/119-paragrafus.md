@@ -10,7 +10,7 @@ b) bejelentés vagy hivatalos tudomásszerzés alapján hivatalból elrendelheti
 
 a) a tudomására jutott adatok alapján a fegyelmi vétség elkövetésének a gyanúja nem állapítható meg,
 
-b) a tudomására jutott magatartásnak vagy mulasztásnak az e törvény szerinti fegyelmi eljárásban történő jogerős elbírálása már megtörtént,
+b) a tudomására jutott magatartásnak vagy mulasztásnak az az e rész szerinti eljárásban történő jogerős érdemi elbírálása már megtörtént,
 
 c) a tudomására jutott magatartásnak vagy mulasztásnak a kamarai jogtanácsos vagy jogi előadó ellen a munkáltató által indított, külön törvényben szabályozott fegyelmi eljárásban történő elbírálása folyamatban van, vagy
 

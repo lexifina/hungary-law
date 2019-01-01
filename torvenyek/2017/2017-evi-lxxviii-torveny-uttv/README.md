@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-78-00-00
 | 2018-07-02 | 2010. évi CXXX. törvény | 2017-78-00-00.7 |
 | 2018-07-26 | 2018. évi XL. törvény | 2017-78-00-00.8 |
 | 2018-12-07 | 2018. évi XCI. törvény | 2017-78-00-00.9 |
+| 2019-01-01 | 2018. évi XCI. törvény | 2017-78-00-00.10 |

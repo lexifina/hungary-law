@@ -40,6 +40,6 @@ mb) ha a területi kamara törvényes működése másképp nem állítható hel
 
 n) elvégzi a küldöttgyűlés és az Alapszabály által meghatározott egyéb feladatokat.
 
-(5) Az elnökség nem hatósági határozatának a hatályon kívül helyezését a kamara tagja kérheti a bíróságtól, ha az jogszabályba, az Alapszabályba, vagy a Magyar Ügyvédi Kamara szabályzatába ütközik. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.
+(5)
 
 (6) Az elnökség nem egyedi ügyben hozott határozatai a tagok számára nyilvánosak.
