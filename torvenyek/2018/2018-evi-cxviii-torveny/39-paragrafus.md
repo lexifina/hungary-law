@@ -1,9 +1,1 @@
 39. § E törvény a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i 2017/2103/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
