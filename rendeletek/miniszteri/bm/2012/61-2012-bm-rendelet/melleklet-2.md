@@ -228,7 +228,7 @@
 
 | 28. | Petőfiszállás | III. |
 
-| 29. | Szabadszállás | II. |
+| 29. | Szabadszállás | III. |
 
 | 30. | Szalkszentmárton | II. |
 
@@ -358,7 +358,7 @@
 
 | 17. | Kölked | II. |
 
-| 18. | Lánycsók | III. |
+| 18. | Lánycsók | II. |
 
 | 19. | Lippó | III. |
 
@@ -382,7 +382,7 @@
 
 | 29. | Palotabozsok | II. |
 
-| 30. | Pócsa | II. |
+| 30. | Pócsa | III. |
 
 | 31. | Sárok | III. |
 
@@ -1996,7 +1996,7 @@
 
 | 12. | Előszállás | II. |
 
-| 13. | Enying | II. |
+| 13. | Enying | I. |
 
 | 14. | Ercsi | I. |
 
@@ -2206,9 +2206,9 @@
 
 | 4. | Bakonypéterd | III. |
 
-| 5. | Bakonyszentlászló | III. |
+| 5. | Bakonyszentlászló | II. |
 
-| 6. | Bezi | III. |
+| 6. | Bezi | II. |
 
 | 7. | Bőny | II. |
 
@@ -2224,7 +2224,7 @@
 
 | 13. | Enese | II. |
 
-| 14. | Fehértó | III. |
+| 14. | Fehértó | II. |
 
 | 15. | Felpéc | III. |
 
@@ -2340,7 +2340,7 @@
 
 | 3. | Babót | III. |
 
-| 4. | Bágyogszovát | III. |
+| 4. | Bágyogszovát | II. |
 
 | 5. | Barbacs | III. |
 
@@ -2364,7 +2364,7 @@
 
 | 15. | Edve | II. |
 
-| 16. | Egyed | III. |
+| 16. | Egyed | II. |
 
 | 17. | Farád | III. |
 
@@ -2380,11 +2380,11 @@
 
 | 23. | Kisfalud | III. |
 
-| 24. | Kóny | III. |
+| 24. | Kóny | II. |
 
 | 25. | Maglóca | III. |
 
-| 26. | Magyarkeresztúr | III. |
+| 26. | Magyarkeresztúr | II. |
 
 | 27. | Markotabödöge | III. |
 
@@ -2392,7 +2392,7 @@
 
 | 29. | Osli | III. |
 
-| 30. | Páli | III. |
+| 30. | Páli | II. |
 
 | 31. | Pásztori | III. |
 
@@ -2432,13 +2432,13 @@
 
 | 49. | Vág | II. |
 
-| 50. | Vásárosfalu | III. |
+| 50. | Vásárosfalu | II. |
 
 | 51. | Veszkény | III. |
 
 | 52. | Vitnyéd | II. |
 
-| 53. | Zsebeháza | III. |
+| 53. | Zsebeháza | II. |
 
 ## Mosonmagyaróvár székhelyű katasztrófavédelmi kirendeltség
 
@@ -2458,7 +2458,7 @@
 
 | 7. | Feketeerdő | II. |
 
-| 8. | Halászi | III. |
+| 8. | Halászi | II. |
 
 | 9. | Hédervár | II. |
 
@@ -3704,7 +3704,7 @@
 
 | 10. | Dunaharaszti | II. |
 
-| 11. | Dunavarsány | III. |
+| 11. | Dunavarsány | I. |
 
 | 12. | Érd | II. |
 
@@ -3896,7 +3896,7 @@
 
 | 28. | Újlengyel | III. |
 
-| 29. | Üllő | I. |
+| 29. | Üllő | II. |
 
 | 30. | Vasad | III. |
 
@@ -4782,7 +4782,7 @@
 
 | 37. | Tornyospálca | III. |
 
-| 38. | Tuzsér | I. |
+| 38. | Tuzsér | II. |
 
 | 39. | Újdombrád | II. |
 
@@ -5144,7 +5144,7 @@
 
 | 4. | Báta | II. |
 
-| 5. | Bátaapáti | III. |
+| 5. | Bátaapáti | II. |
 
 | 6. | Bátaszék | II. |
 
