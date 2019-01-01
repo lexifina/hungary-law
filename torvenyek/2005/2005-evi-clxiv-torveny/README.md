@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2018-07-01 | 2017. évi CXCIV. törvény | 2005-164-00-00.33 |
 | 2018-11-09 | 2018. évi LXVIII. törvény | 2005-164-00-00.34 |
 | 2018-12-31 | 2018. évi LXVIII. törvény | 2005-164-00-00.35 |
+| 2019-01-01 | 2017. évi CCIII. törvény | 2005-164-00-00.36 |
