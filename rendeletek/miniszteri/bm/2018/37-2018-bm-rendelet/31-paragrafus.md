@@ -1,0 +1,3 @@
+## 30. § Az 57/2014. (XII. 5.) BM rendelet 7. § (1) bekezdésében az „a rendőrnek a helyszínen lehetőséget kell biztosítania” szövegrész helyébe az „a rendőrnek – ha erre a célra hatóság által rendszeresített elektronikus eszköz rendelkezésre áll – a helyszínen lehetőséget kell biztosítania” szöveg lép.
+
+## 15. A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet módosítása

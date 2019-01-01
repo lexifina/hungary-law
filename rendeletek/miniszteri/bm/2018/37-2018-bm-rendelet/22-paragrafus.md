@@ -1,0 +1,3 @@
+## 21. § A belügyminiszter irányítása alá tartozó szervek sugárvédelmi ellenőrző rendszerének működési szabályairól szóló 7/2012. (III. 7.) BM rendelet 4. § b) pontjában az „Országos Közegészségügyi Központ Országos Sugárbiológiai és Sugáregészségügyi Kutató Igazgatóságában” szövegrész helyébe a „Nemzeti Népegészségügyi Központban” szöveg lép.
+
+## 10. A szabálysértési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés formájáról, módjáról és rendjéről, a szabálysértési nyilvántartó szerv által teljesített adatközlés rendjéről, valamint az egyes szabálysértési nyilvántartásokban kezelt adatokra tekintettel kiállított hatósági bizonyítvány kiadásának eljárási rendjéről szóló 21/2012. (IV. 13.) BM rendelet módosítása
