@@ -16,7 +16,7 @@
 
 ## ”
 
-14. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^164]
+14. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^165]
 
 ## A szabályozási pótdíj mértékének megállapítására vonatkozó szabályok
 
@@ -42,4 +42,4 @@ T – tervezési pontossági együttható, melynek értéke szélerőmű esetéb
 
 2. Naperőmű esetén a kötelező átvételi mérlegkör-tagsági szerződés hatálybalépésétől számított 6 hónapig a (7a) bekezdés szerinti tervezési pontossági együttható értéke 7%, azzal a feltétellel, hogy a menetrendadási kötelezettségének a kötelező átvételi mérlegkör-tagsági szerződés hatálybalépésétől kezdve ezen időszak alatt is folyamatosan eleget tesz, valamint ezen erőműegység korábban nem részesült ebben a kedvezményben.
 
-[^164]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^165]: A 14. számú mellékletet a 232/2017. (VIII. 14.) Korm. rendelet 11. § (2) bekezdése iktatta be.
