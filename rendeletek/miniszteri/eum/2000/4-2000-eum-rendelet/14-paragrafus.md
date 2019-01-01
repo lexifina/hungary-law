@@ -1,4 +1,4 @@
-14. §[^38] (1) Az ÁEEK megyénként és a fővárosban 1-1 fő megyei kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost (a továbbiakban együtt: megyei szakmai vezető) bíz meg. A megyei szakmai vezető pályázati eljárás útján kerül kiválasztásra. A pályázatot az ÁEEK írja ki, a pályázati hirdetményt a honlapján teszi közzé a pályázat benyújtási határidejének lejártát 30 nappal megelőzően.
+14. §[^40] (1) Az ÁEEK megyénként és a fővárosban 1-1 fő megyei kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost (a továbbiakban együtt: megyei szakmai vezető) bíz meg. A megyei szakmai vezető pályázati eljárás útján kerül kiválasztásra. A pályázatot az ÁEEK írja ki, a pályázati hirdetményt a honlapján teszi közzé a pályázat benyújtási határidejének lejártát 30 nappal megelőzően.
 
 (2) A beérkezett pályázatokat az ÁEEK főigazgatója által delegált 1 főből, az ÁEEK-ben működő alapellátási módszertani feladatokat ellátó vezetőből, valamint a szakterület szerint érintett egészségügyi szakmai kollégiumi tagozat által delegált 1 főből álló bizottság bírálja el. A bíráló bizottság döntése során vizsgálja, hogy a pályázó megfelel-e az e rendeletben meghatározott követelményeknek. A beérkezett pályázatokról a bírálatot megelőzően a Magyar Orvosi Kamara illetékes területi szerve véleményt nyilvánít, amelyet a bíráló bizottság döntése során figyelembe vesz.
 
@@ -24,4 +24,4 @@ d) 65 évnél fiatalabb.
 
 (9) A megyei szakmai vezető tevékenységének ellátásáért 366 000 Ft/hó tiszteletdíjban részesül, költségtérítés nem illeti meg. A tiszteletdíj a kifizetőt terhelő adó- és járulékterheket is tartalmazza.
 
-[^38]: A 14. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^40]: A 14. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.

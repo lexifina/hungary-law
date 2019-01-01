@@ -1,4 +1,4 @@
-15. §[^39] (1) Az országos kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos (a továbbiakban együtt: országos szakmai vezető) pályázati eljárás útján kerül kiválasztásra.
+15. §[^41] (1) Az országos kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos (a továbbiakban együtt: országos szakmai vezető) pályázati eljárás útján kerül kiválasztásra.
 
 (2) A pályázatot az ÁEEK írja ki, a pályázati hirdetményt a honlapján teszi közzé a pályázat benyújtási határidejének lejártát 30 nappal megelőzően.
 
@@ -24,4 +24,4 @@ c) 65 évnél fiatalabb.
 
 (10) Az országos szakmai vezető tevékenységének ellátásáért 600 000 Ft/hó tiszteletdíjban részesül, költségtérítés nem illeti meg. A tiszteletdíj a kifizetőt terhelő adó- és járulékterheket is tartalmazza.
 
-[^39]: A 15. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^41]: A 15. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
