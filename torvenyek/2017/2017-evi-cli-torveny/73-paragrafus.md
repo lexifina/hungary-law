@@ -1,6 +1,14 @@
 ### 73. § [A döntés tartalma]
 
-(1) A döntés tartalmazza az eljáró adóhatóság, az adózó és az ügy azonosításához szükséges minden adatot, a rendelkező részt – az adóhatóság döntésével, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel –, továbbá a megállapított tényállásra, a bizonyítékokra, a mérlegelés és a döntés indokaira, valamint az azt megalapozó jogszabályhelyek megjelölésére is kiterjedő indokolást.
+(1) A döntés tartalmazza:
+
+a) az eljáró adóhatóság, az adózó és az ügy azonosításához szükséges minden adatot,
+
+b) a rendelkező részt az adóhatóság döntésével, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel,
+
+c) a megállapított tényállásra és az annak alapjául elfogadott bizonyítékokra, az adózó által felajánlott és mellőzött bizonyítékokra, a mérlegelés és a döntés indokaira, az ügyintézési határidő leteltének napjára, továbbá a döntést megalapozó, valamint a hatóság hatáskörét és illetékességét megállapító jogszabályhelyek megjelölésére is kiterjedő indokolást, valamint
+
+d) a döntéshozatal helyét és idejét, a hatáskör gyakorlójának nevét, hivatali beosztását, valamint a döntés kiadmányozójának a nevét, hivatali beosztását, ha az nem azonos a hatáskör gyakorlójával.
 
 (2) Jogorvoslatról való tájékoztatást mellőző, az indokolásban pedig csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható, ha az adóhatóság a kérelemnek teljes egészében helyt ad.
 

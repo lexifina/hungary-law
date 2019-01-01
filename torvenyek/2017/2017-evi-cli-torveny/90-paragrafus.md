@@ -1,6 +1,6 @@
 ### 90. § [Adóellenőrzés]
 
-(1) Adóellenőrzés keretében az adóhatóság az adózó adómegállapítási, bevallási kötelezettsége teljesítését adónként, támogatásonként és időszakonként vagy meghatározott időszakra több adó és támogatás tekintetében is vizsgálja.
+(1) Adóellenőrzés keretében az adóhatóság az adózó adómegállapítási, adatbejelentési, bevallási kötelezettsége teljesítését adónként, támogatásonként és időszakonként vagy meghatározott időszakra több adó és támogatás tekintetében is vizsgálja.
 
 (2) Az adózó által igényelt költségvetési támogatást, adó-visszatérítést, adó-visszaigénylést a bevallási időszak ellenőrzéssel történt lezárásának hatályával a kiutalást megelőzően is vizsgálhatja az adóhatóság.
 

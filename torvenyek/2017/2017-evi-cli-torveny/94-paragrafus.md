@@ -10,7 +10,9 @@ b) jogkövetési vizsgálat esetében harminc nap.
 
 (2) Az (1) bekezdésben meghatározott határidőnél hosszabb határidőt törvény, rövidebb határidőt jogszabály állapíthat meg.
 
-(3) Az adóellenőrzés időtartama a csoportos adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
+(3) Az állami adó- és vámhatóság által végzett adóellenőrzés időtartama a csoportos adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
+
+(3a) Az önkormányzati adóhatóság által végzett adóellenőrzés időtartama a cégbejegyzésre nem kötelezett adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
 
 (4) Az adóellenőrzés időtartama nem haladhatja meg a háromszázhatvanöt napot.
 

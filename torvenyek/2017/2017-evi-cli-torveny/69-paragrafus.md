@@ -16,7 +16,7 @@ c) a nyilatkozattételi kötelezettség elmulasztása vagy jogosulatlan megtagad
 
 d) az iratrendezési, iratpótlási kötelezettség elmulasztása.
 
-(4) Az eljárási bírság legkisebb összege esetenként tízezer forint, legmagasabb összege természetes személy esetén ötszázezer forint, jogi személy vagy egyéb szervezet esetén egymillió forint.
+(4) Az eljárási bírság legkisebb összege esetenként tízezer forint, legmagasabb összege természetes személy esetén ötszázezer forint, nem természetes személy esetén egymillió forint.
 
 (5) Az eljárási bírság kiszabásánál az adóhatóság figyelembe veszi
 

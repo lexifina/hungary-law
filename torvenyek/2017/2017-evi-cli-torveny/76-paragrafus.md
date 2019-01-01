@@ -1,4 +1,4 @@
-## 36. A döntés közlése
+## 36. Az adóhatósági irat közlése
 
 ### 76. § [A döntés közlésének általános szabályai]
 

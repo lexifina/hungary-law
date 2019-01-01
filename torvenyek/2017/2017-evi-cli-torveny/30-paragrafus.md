@@ -9,3 +9,5 @@
 (3) Ha az adóhatóság döntésének magyar és idegen nyelvű szövege között eltérés van, a magyar nyelvű szöveget kell hitelesnek tekinteni.
 
 (4) A hatósági igazolvány, hatósági bizonyítvány kiállítására és a hatósági nyilvántartásba történő bejegyzés módjára jogszabály eltérő nyelvhasználati szabályokat állapíthat meg.
+
+(5) Ha az ellenőrzés lefolytatásában külföldi adóhatóság vesz részt, a magyar adóhatóság – az ellenőrzés zökkenőmentes lefolytatásához szükséges mértékben fordítás és tolmácsolás útján – gondoskodik arról, hogy a magyar nyelv, illetve a külföldi adóhatóság tisztviselője által használt nyelv ismeretének hiánya miatt az ellenőrzött adózót és a külföldi adóhatóság tisztviselőjét joghátrány ne érje.

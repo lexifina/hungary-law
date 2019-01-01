@@ -1,6 +1,6 @@
 ### 122. § [A fellebbezéssel támadható döntések]
 
-(1) A fellebbezésre jogosult az adóhatóság elsőfokú határozata ellen fellebbezhet.
+(1) A fellebbezésre jogosult az adóhatóság elsőfokú határozatával szemben – a törvény eltérő rendelkezése hiányában – fellebbezhet.
 
 (2) A határozathozatalt megelőző eljárás során hozott végzés a határozat ellen benyújtott fellebbezésben támadható meg, kivéve, ha az önálló fellebbezést törvény megengedi.
 

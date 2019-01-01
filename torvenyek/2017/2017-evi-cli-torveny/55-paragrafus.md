@@ -1,6 +1,6 @@
 ### 55. § [Az idézés helye]
 
-(1) Az adóhatóság az illetékességi területén lakóhellyel nem rendelkező személyt vagy székhellyel nem rendelkező szervezet törvényes képviselőjét akkor idézheti a hivatali helységébe, ha
+(1) Az adóhatóság az illetékességi területén lakóhellyel nem rendelkező személyt vagy székhellyel nem rendelkező szervezet törvényes képviselőjét akkor idézheti a hivatali helyiségébe, ha
 
 a) ezt jogszabály írja elő,
 

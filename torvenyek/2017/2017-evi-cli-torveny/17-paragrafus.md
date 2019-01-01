@@ -2,7 +2,7 @@
 
 (1) Jogi személyt és egyéb szervezetet az adóhatóság előtt állandó meghatalmazás alapján
 
-a) a képviseleti jogosultságát igazoló nagykorú tag, foglalkoztatott,
+a) a képviseleti jogosultságát igazoló nagykorú tag, foglalkoztatott – fióktelep esetében ide értve az anyavállalat foglalkoztatottját is –,
 
 b) kamarai jogtanácsos,
 
@@ -24,4 +24,4 @@ képviselheti.
 
 (2) Természetes személyt az adóhatóság előtt állandó meghatalmazás alapján bármely – képviseletre alkalmas – nagykorú személy is képviselheti.
 
-(3) Nem járhat el meghatalmazottként az adóhatóság előtti eljárásban az eltiltás hatálya alatt az a természetes személy, akit a cégbíróság vagy a bíróság jogerősen eltiltott a vezető tisztségviselői tisztség gyakorlásától.
+(3)

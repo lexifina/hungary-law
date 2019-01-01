@@ -6,7 +6,7 @@
 
 ### 11. § [Az adózó]
 
-(1) Adózó az a személy, akinek, illetve amelynek adókötelezettségét adót, költségvetési támogatást megállapító törvény, e törvény vagy önkormányzati rendelet írja elő.
+(1) Adózó az a személy, akinek vagy amelynek adókötelezettségét adót, költségvetési támogatást megállapító törvény, e törvény, az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) vagy önkormányzati rendelet előírja.
 
 (2) Adózónak kell tekinteni a bizalmi vagyonkezelési szerződés alapján kezelt vagyont.
 

@@ -8,4 +8,4 @@ a) az állami adó- és vámhatóság,
 
 b) az önkormányzat jegyzője mint önkormányzati adóhatóság (a továbbiakban: önkormányzati adóhatóság),
 
-c) e törvény, valamint az adózás rendjéről szóló törvény vonatkozásában az önkormányzati adóhatóság döntései elleni fellebbezések elbírálására jogosult hatóság.
+c) e törvény, valamint az Art. vonatkozásában az önkormányzati adóhatóság döntései elleni fellebbezések elbírálására jogosult hatóság.

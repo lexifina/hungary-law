@@ -14,4 +14,4 @@ eljárási bírsággal sújtható.
 
 (4) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, az adóhatóság visszavonja az eljárási bírságot megállapító és az elővezetést elrendelő végzést.
 
-(5) Ha jogi személy vagy egyéb szervezet szervezeti képviselője nem jelent meg az idézésre, és a képviselő nevét a törvényes képviselő az adóhatóság felhívására nem közli, a felhívott törvényes képviselő és a jogi személy vagy egyéb szervezet eljárási bírsággal sújtható. Ebben az esetben az elővezetést a felhívott törvényes képviselővel szemben is alkalmazni lehet.
+(5)

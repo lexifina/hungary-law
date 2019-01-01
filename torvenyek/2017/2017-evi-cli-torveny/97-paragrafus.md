@@ -4,7 +4,7 @@
 
 (1) Az adózó jogosult
 
-a) az ellenőrzést végző személyazonosságáról és megbízásáról meggyőződni,
+a) az ellenőrzést végző – ideértve a külföldi adóhatóság tisztviselőjét is – személyazonosságáról és megbízásáról meggyőződni,
 
 b) az ellenőrzési cselekményeknél jelen lenni,
 

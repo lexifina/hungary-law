@@ -1,3 +1,3 @@
 ### 105. § [Felhívás iratok fordításának átadására]
 
-Az adózó a tényállás tisztázásához szükséges idegen nyelvű – ide nem értve az angol, német és francia nyelvű – iratai szakfordítását, számla (egyszerűsített számla), illetve bizonylat esetében annak hiteles magyar nyelvű fordítását köteles felhívásra az adóhatóság részére átadni. Az iratok fordítására történő felhívás postára adásától, a postai kézbesítés mellőzése esetén a felhívás átadásának napjától a kötelezettség teljesítéséig, a kötelezettség elmulasztása esetén a felhívásban kitűzött határidő utolsó napjáig eltelt időtartamot az ellenőrzés határidejének számításánál figyelmen kívül kell hagyni.
+Az adózó a tényállás tisztázásához szükséges idegen nyelvű – ide nem értve az angol, német és francia nyelvű – iratai szakfordítását, számla (egyszerűsített számla), illetve bizonylat esetében annak hiteles magyar nyelvű fordítását köteles felhívásra az adóhatóság részére átadni.
