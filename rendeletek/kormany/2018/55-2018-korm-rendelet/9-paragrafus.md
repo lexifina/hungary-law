@@ -1,3 +1,1 @@
-9. §[^1]
-
-[^1]: A 9. § a 8. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+9. § Az 5. § (1) bekezdésében a „30” szövegrész helyébe a „20” szöveg lép.
