@@ -10,7 +10,7 @@
 
 |  | A | B | C |
 
-| 1. | Megnevezés: | Összesen: | Összesen felkészítő tanfolyam nélkül: |
+| 1. | Megnevezés: | Összesen felkészítő tanfolyammal | Összesen felkészítő tanfolyam nélkül: |
 
 | 2. | H-I. képzési díj | 165 000 Ft | 65 000 Ft |
 
@@ -24,7 +24,7 @@
 
 | 7. | M-II. képzési díj | 102 000 Ft | 50 000 Ft |
 
-| 8. | M-III. képzési díj | 57 000 Ft | 35 000 Ft |
+| 8. | M-III. képzési díj | – | 40 000 Ft |
 
 | 9. | Megújító képzés díja | 25 000 Ft | – |
 
@@ -34,7 +34,7 @@
 
 | 12. | Javítóvizsga díja | 8 000 Ft | – |
 
-2. melléklet a 60/2016. (XII. 28.) NFM rendelethez
+2. melléklet a 60/2016. (XII. 28.) NFM rendelethez[^15]
 
 ## A képesítési tanúsítvány megszerzéséhez szükséges szakmai előképzettségi feltételek és az előírt felkészítő tanfolyam
 
@@ -46,7 +46,7 @@
 
 | 2. | H-I. | a) Hűtő-, klíma- és hőszivattyú berendezésszerelő, b) Ipari- és kereskedelmi hűtőgépszerelő, c) Hűtő- és klímaberendezés-szerelő, -karbantartó, d) Szellőző- és klímaberendezés-szerelő, e) Háztartási gépszerelő, f) Egyéb hűtéstechnikai ismereteket tartalmazó szakirányú szakképzettség | – |
 
-| 3. | H-I. | a) Hűtő- és légtechnikai rendszerszerelő, b) Egyéb hűtéstechnikai ismereteket tartalmazó szakirányú szakképzettség | FT-H-I. |
+| 3. | H-I. | a) Hűtő- és légtechnikai rendszerszerelő, b) Ipari és kereskedelmi szállítmányhűtő és járműklíma javítás, c) Egyéb hűtéstechnikai ismereteket tartalmazó szakirányú szakképzettség | FT-H-I. |
 
 | 4. | H-II. | a) Hűtő-, klíma- és hőszivattyú berendezésszerelő b) Hűtő- és légtechnikai rendszerszerelő, c) Hűtő- és klímaberendezés-szerelő,- karbantartó, d) Ipari- és kereskedelmi hűtőgépszerelő, e) Szellőző- és klímaberendezés-szerelő, f) Háztartási gépszerelő, g) Épületgépész technikus, h) Egyéb szakirányú ismereteket tartalmazó szakképzettség | – |
 
@@ -64,4 +64,6 @@
 
 | 11. | M-II. | a) Egyéb műszaki szakképzettség, b) Egyéb hűtéstechnikai ismereteket tartalmazó szakirányú szakképzettség | FT-M-II. |
 
-| 12. | M-III. | Egyéb műszaki szakképzettség | FT-M-III. |
+| 12. | M-III. | Egyéb műszaki szakképzettség | – |
+
+[^15]: A 2. melléklet a 25/2018. (X. 25.) ITM rendelet 6. § e) pontja szerint módosított szöveg.

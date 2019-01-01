@@ -24,6 +24,8 @@ g) a képzési folyamatot támogató informatikai rendszer működtetéséről.
 
 (5) A Hatóság jogosult az e rendeletben és a képzési programban foglalt képzési követelményeket ellenőrizni. Ha a Hatóság az ellenőrzés során megállapítja, hogy a képzési követelmények nem teljesülnek, a képzési megállapodásban meghatározott jogkövetkezményeket alkalmazza, különösen a képző szerv részére átutalt képzési és vizsgadíj visszafizettetését, a képzési megállapodás megszüntetését.
 
-(6) A képzési megállapodás keretében végzett képzési tevékenység során a képzést végzővel munkaviszonyban álló természetes személy képzése tekintetében, a képzést végző vezetőjének kérelmére az 1. mellékletben meghatározott képzési díjakat 50%-kal csökkenti, ha a képzést végző szerv a képzési rendszer működését elősegíti.
+(6)[^3] A képzési megállapodás keretében végzett képzési tevékenység során a képzést végzővel munkaviszonyban álló természetes személy képzése tekintetében, a képzést végző vezetőjének kérelmére az 1. mellékletben meghatározott képzési díjakat a Hatóság 50%-kal csökkenti, ha a képzést végző szerv a képzési rendszer működését elősegíti.
 
 (7) A Hatóság által önállóan végzett képzési tevékenység során a képzést végzővel közszolgálati jogviszonyban álló természetes személy képzése tekintetében az 1. mellékletben meghatározott képzési díj 100%-kal csökkentett mértékben is megállapítható.
+
+[^3]: Az 5. § (6) bekezdése a 25/2018. (X. 25.) ITM rendelet 6. § a) pontja szerint módosított szöveg.

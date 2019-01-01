@@ -1,4 +1,4 @@
-3. melléklet a 60/2016. (XII. 28.) NFM rendelethez
+3. melléklet a 60/2016. (XII. 28.) NFM rendelethez[^16]
 
 ## A szakmai továbbképzés kreditpontjai
 
@@ -42,7 +42,7 @@
 
 | 11. | Csővezetékek: szivárgásmentes csővezetékrendszer összeállítása egy hűtő berendezésben | 7 |
 
-| 12. | A fluortartalmú üvegházhatású gázok felhasználását felváltó vagy csökkentő releváns technológiákkal és azok biztonságos kezelésével kapcsolatos információk | 10 |
+| 12. | A fluortartalmú üvegházhatású gázok felhasználását felváltó vagy csökkentő releváns technológiákkal és azok biztonságos kezelésével kapcsolatos információk | 15 |
 
 | 13. | E-I. képesítési kategóriára vonatkozó ismeretek | 10 |
 
@@ -58,11 +58,11 @@
 
 | 1. | A résztvevők száma | Szerezhető kreditpont |
 
-| 2. | 1–10 fő | 7 |
+| 2. | 1–30 fő | 15 |
 
-| 3. | 11–30 fő | 5 |
+| 3. | 31–80 fő | 10 |
 
-| 4. | 31–50 fő | 3 |
+| 4. | 81 fő felett | 5 |
 
 |  |  | 3. táblázat |
 
@@ -70,10 +70,12 @@
 
 | 1. | A továbbképzés időtartama | Szerezhető kreditpont |
 
-| 2. | 4 órát meghaladó | 7 |
+| 2. | 4 órát meghaladó | 15 |
 
-| 3. | 2–4 óra | 5 |
+| 3. | 2–4 óra | 10 |
 
-| 4. | 1–2 óra | 3 |
+| 4. | 1–2 óra | 5 |
 
-4. Egy kreditpontért a továbbképző szerv által a Hatóság részére fizetendő díj mértéke 10 000 forint.
+4. Egy kreditpontért a továbbképző szerv által a Hatóság részére fizetendő díj mértéke 7 000 forint.
+
+[^16]: A 3. melléklet a 25/2018. (X. 25.) ITM rendelet 5. §-a, 6. § f)–h) pontja szerint módosított szöveg.
