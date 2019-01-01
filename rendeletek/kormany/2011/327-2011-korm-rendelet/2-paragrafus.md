@@ -1,20 +1,21 @@
-## 2.[^8] Illetékességi szabályok
+## 2.[^12] Illetékességi szabályok
 
-2. §[^9] (1)[^10] A járási hivatal illetékessége a székhelye szerinti megye területére terjed ki. Budapest Főváros Kormányhivatala III. Kerületi Hivatalának illetékessége Budapest főváros és Pest megye területére terjed ki.
+2. §[^13] (1)[^14] A járási hivatal illetékessége a székhelye szerinti megye területére terjed ki. Budapest Főváros Kormányhivatala III. Kerületi Hivatalának illetékessége Budapest főváros és Pest megye területére terjed ki.
 
-(2)[^11] A megváltozott munkaképességű személyek ellátásaival kapcsolatos hatósági ügyekben rehabilitációs hatóságként, továbbá rehabilitációs szakértői szervként és orvosszakértői szervként első fokon a kérelmező lakó- vagy tartózkodási helye szerint illetékes járási hivatal jár el. Külföldön lakóhellyel vagy tartózkodási hellyel rendelkező kérelmező esetén, vagy ha a vizsgálandó személy nem rendelkezik Magyarországon lakóhellyel vagy tartózkodási hellyel, első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el.
+(2)[^15] A megváltozott munkaképességű személyek ellátásaival kapcsolatos hatósági ügyekben rehabilitációs hatóságként, továbbá rehabilitációs szakértői szervként és orvosszakértői szervként első fokon a kérelmező lakó- vagy tartózkodási helye szerint illetékes járási hivatal jár el. Külföldön lakóhellyel vagy tartózkodási hellyel rendelkező kérelmező esetén, vagy ha a vizsgálandó személy nem rendelkezik Magyarországon lakóhellyel vagy tartózkodási hellyel, első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el.
 
-(2a)[^12] Az 1. § (1a) bekezdésében meghatározott rehabilitációs feladatok ellátása során a szegedi, kisteleki és mórahalmi járás területén a Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala, a hódmezővásárhelyi, makói, szentesi és csongrádi járás területén a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala jár el.
+(2a)[^16] Az 1. § (1a) bekezdésében meghatározott rehabilitációs feladatok ellátása során a szegedi, kisteleki és mórahalmi járás területén a Csongrád Megyei Kormányhivatal Szegedi Járási Hivatala, a hódmezővásárhelyi, makói, szentesi és csongrádi járás területén a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatala jár el.
 
-(3) Az Mmtv. 20/A. § (2) bekezdése szerinti visszafizetési kötelezettséggel kapcsolatos ügyekben első fokon az elhunyt személy utolsó ismert lakó- vagy tartózkodási helye szerint illetékes járási hivatal jár el.
+(3)[^17] Az Mmtv. 20/A. § (2) bekezdése és a 22. § szerinti visszafizetési kötelezettséggel kapcsolatos ügyekben első fokon az elhunyt személy utolsó ismert lakó- vagy tartózkodási helye szerint illetékes járási hivatal jár el.
 
 (4) A Magyar Honvédség hivatásos és szerződéses, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjai egészségi alkalmasságának felülvizsgálata során az egészségkárosodás mértékének meghatározásában rehabilitációs szakértői szervként és orvosszakértői szervként első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el.
 
-(5)[^13] A felsőoktatásban részt vevő hallgatók, valamint a – köznevelési tanulói jogviszonnyal nem rendelkező – felsőoktatásba jelentkezők diszlexia, diszgráfia és diszkalkulia fogyatékosságának megállapítására irányuló eljárásban rehabilitációs szakértői szervként első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el.
+(5)[^18] A felsőoktatásban részt vevő hallgatók, valamint a – köznevelési tanulói jogviszonnyal nem rendelkező – felsőoktatásba jelentkezők diszlexia, diszgráfia és diszkalkulia fogyatékosságának megállapítására irányuló eljárásban rehabilitációs szakértői szervként első fokon Budapest Főváros Kormányhivatala III. Kerületi Hivatala jár el.
 
-[^8]: A 2. §-t megelőző alcím a 95/2012. (V. 15.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
-[^9]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (2) bekezdésével megállapított szöveg.
-[^10]: A 2. § (1) bekezdése az 52/2017. (III. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^11]: A 2. § (2) bekezdése a 235/2017. (VIII. 18.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^12]: A 2. § (2a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
-[^13]: A 2. § (5) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^12]: A 2. §-t megelőző alcím a 95/2012. (V. 15.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (2) bekezdésével megállapított szöveg.
+[^14]: A 2. § (1) bekezdése az 52/2017. (III. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: A 2. § (2) bekezdése a 235/2017. (VIII. 18.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^16]: A 2. § (2a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^17]: A 2. § (3) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^18]: A 2. § (5) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 7. §-a szerint módosított szöveg.

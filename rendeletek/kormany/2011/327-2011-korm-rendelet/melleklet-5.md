@@ -1,4 +1,4 @@
-5. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^154]
+5. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^172]
 
 A másodfokú rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői feladatokat ellátó fővárosi és megyei kormányhivatalok és illetékességi területük
 
@@ -20,4 +20,4 @@ A másodfokú rehabilitációs hatósági, rehabilitációs szakértői szervi �
 
 | 8. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar megye Jász-Nagykun-Szolnok megye Szabolcs-Szatmár-Bereg megye |
 
-[^154]: Az 5. mellékletet a 20/2017. (II. 2.) Korm. rendelet 9. § (8) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^172]: Az 5. mellékletet a 20/2017. (II. 2.) Korm. rendelet 9. § (8) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.

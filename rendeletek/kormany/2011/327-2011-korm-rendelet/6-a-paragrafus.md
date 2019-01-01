@@ -1,4 +1,4 @@
-6/A. §[^28] (1) Kivételes rokkantsági ellátás iránti kérelem esetén az adatlap és az elektronikus űrlap tartalmazza a kérelmező
+6/A. §[^35] (1) Kivételes rokkantsági ellátás iránti kérelem esetén az adatlap és az elektronikus űrlap tartalmazza a kérelmező
 
 a) természetes személyazonosító adatait,
 
@@ -6,7 +6,7 @@ b) lakóhelyét, tartózkodási helyét és elérhetőségét,
 
 c) társadalombiztosítási azonosító jelét,
 
-d) adóazonosító jelét, ha a kérelmező Rehabilitációs kártyát igényel,
+d)[^36]
 
 e) 6. § (4) bekezdés a), d) és e) pontjában felsorolt nyilatkozatait, és
 
@@ -20,4 +20,5 @@ b) ha a kérelmező nem rendelkezik hatályos komplex minősítéssel, az egész
 
 c) az (1) bekezdés f) pontja alapján megjelölt különös méltánylást igénylő körülmények igazolásához szükséges dokumentumokat vagy ezek másolatát.
 
-[^28]: A 6/A. §-t a 402/2017. (XII. 15.) Korm. rendelet 9. §-a iktatta be.
+[^35]: A 6/A. §-t a 402/2017. (XII. 15.) Korm. rendelet 9. §-a iktatta be.
+[^36]: A 6/A. § (1) bekezdés d) pontját a 304/2018. (XII. 27.) Korm. rendelet 5. § e) pontja hatályon kívül helyezte.

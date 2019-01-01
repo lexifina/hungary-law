@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-327-20-
 | 2017-12-16 | 2011-327-20-22.17 | 402/2017. (XII. 15.) Korm. rendelet |
 | 2017-12-23 | 2011-327-20-22.18 | 407/2017. (XII. 15.) Korm. rendelet |
 | 2018-01-01 | 2011-327-20-22.19 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-01-01 | 2011-327-20-22.20 | 304/2018. (XII. 27.) Korm. rendelet |

@@ -18,7 +18,7 @@
 
 ## 1 A + jel azt mutatja, hogy az adott sorban írt szükséglet kielégítéséhez az adott oszlopban írt szolgáltatás általában szükséges. Az egyéni élethelyzetek mérlegelése alapján a bejelölt szolgáltatások bővíthetőek vagy szűkíthetőek.
 
-2. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^151]
+2. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^169]
 
 ## A foglalkozási rehabilitációs szolgáltatások formái
 
@@ -56,6 +56,6 @@
 
 4. A foglalkozási rehabilitációs célú munkaközvetítés[^2,] amely a munkát kereső megváltozott munkaképességű személyek és a számukra állást kínáló munkaadók találkozását segíti elő annak érdekében, hogy közöttük foglalkoztatásra irányuló jogviszony jöjjön létre. A munkaközvetítés egyéni és csoportos közvetítés formájában valósulhat meg.
 
-[^151]: A 2. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^169]: A 2. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (2) bekezdése iktatta be.
 [^1.]: Az 1–3. pontokban szereplő szolgáltatások az Mmtv. 8. § (1) bekezdés a) pontja szerinti, a megváltozott munkaképességű személy megfelelő munkahelyen történő munkavégzésre való felkészítéshez szükséges szolgáltatások.
 [^2,]: A 4. pont szerinti szolgáltatás az Mmtv. 8. § (1) bekezdés b) pontjának megfelelően a megváltozott munkaképességű személy megfelelő munkahelyen történő elhelyezkedése érdekében a rehabilitációs célú munkaközvetítést célozza.

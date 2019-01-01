@@ -1,6 +1,6 @@
 ## 15. Hatályát vesztő rendelkezések
 
-30. §[^147] (1) Budapest Főváros Kormányhivatala által
+30. §[^165] (1) Budapest Főváros Kormányhivatala által
 
 a) a Baranya megyei, a Somogy megyei és a Tolna megyei illetékességgel ellátott másodfokú rehabilitációs hatósági feladatok, valamint az azokhoz kapcsolódó jogviszonyok tekintetében a Baranya Megyei Kormányhivatal,
 
@@ -18,4 +18,4 @@ f) a Hajdú-Bihar megyei, a Jász-Nagykun-Szolnok megyei és a Szabolcs-Szatmár
 
 (2) Az (1) bekezdés szerinti közfeladat-átvételre az egyes központi hivatalok és költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával összefüggő jogutódlásáról, valamint egyes közfeladatok átvételéről szóló 378/2016. (XII. 2.) Korm. rendelet 1. §-át, 2. § (1)–(3) bekezdését és 3–6. §-át megfelelően alkalmazni kell.
 
-[^147]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 20/2017. (II. 2.) Korm. rendelet 9. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^165]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 20/2017. (II. 2.) Korm. rendelet 9. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.

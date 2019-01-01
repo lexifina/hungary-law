@@ -1,8 +1,8 @@
 ## 4. A megváltozott munkaképességű személyek ellátásainak megállapítása
 
-6. §[^23] (1) A megváltozott munkaképességű személyek ellátásainak megállapítása – az Mmtv. 19. § (1) bekezdésében foglaltak kivételével – kérelemre történik.
+6. §[^28] (1) A megváltozott munkaképességű személyek ellátásainak megállapítása – az Mmtv. 19. § (1) bekezdésében foglaltak kivételével – kérelemre történik.
 
-(2)[^24] A szociál- és nyugdíjpolitikáért felelős miniszter által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – rendszeresített, a kérelem benyújtására szolgáló adatlapot és elektronikus űrlapot a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
+(2)[^29] A szociál- és nyugdíjpolitikáért felelős miniszter által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – rendszeresített, a kérelem benyújtására szolgáló adatlapot és elektronikus űrlapot a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
 
 (3) Az adatlap és az elektronikus űrlap tartalmazza a kérelmező
 
@@ -12,7 +12,7 @@ b) lakóhelyét, tartózkodási helyét és elérhetőségét,
 
 c) társadalombiztosítási azonosító jelét,
 
-d) adóazonosító jelét, amennyiben a kérelmező Rehabilitációs kártyát igényel,
+d)[^30]
 
 e) nyilatkozatait, amelyek a megváltozott munkaképességű személyek ellátásainak megállapításához szükségesek,
 
@@ -28,7 +28,7 @@ c) 2011. december 31-én az Mmtv. 2. § (2) bekezdés b) pontja szerinti ellát�
 
 d) rendszeres pénzellátásban részesül-e, ha igen, mely ellátásban,
 
-e) a jogosultsági feltételek fennállása esetén a Rehabilitációs kártya kiállítását igényli-e.
+e)[^31]
 
 (5) Az adatlaphoz csatolni kell
 
@@ -38,11 +38,11 @@ b) az Mmtv. 2. § (2) bekezdés a) pontjában meghatározottak fennállása eset
 
 c) a társadalombiztosítási nyilvántartásban nem szereplő jogviszonyok bizonyításához felhasználni kívánt iratot,
 
-d)[^25] a kérelmező egészségi állapotával kapcsolatos dokumentumokat, és
+d)[^32] a kérelmező egészségi állapotával kapcsolatos dokumentumokat, és
 
 e) a közlekedőképesség vizsgálatára vonatkozó kérelem esetén a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat.
 
-(6)[^26] Az (5) bekezdés d) pontja szerinti dokumentumok körében csatolni kell
+(6)[^33] Az (5) bekezdés d) pontja szerinti dokumentumok körében csatolni kell
 
 a) a kérelmező egészségi állapotára, gyógykezelésére, rehabilitációjára vonatkozó összefoglaló adatokat tartalmazó, a munkaképesség-változás vagy a súlyos fogyatékosság véleményezése céljából kiállított beutalót,
 
@@ -52,10 +52,12 @@ c) az a) és b) pont szerinti iratokban feltüntetett körülményekkel összef�
 
 d) ha a kérelmező foglalkoztatott, a foglalkozás-egészségügyi alapszolgáltatás orvosának tájékoztatóját az érintett személy munkaköri feladatairól, a munkavégzés körülményeiről, kockázati viszonyairól, valamint arról, hogy egészségi állapota alapján jelenlegi munkakörében továbbfoglalkoztatható-e.
 
-(7)[^27] A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+(7)[^34] A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
-[^23]: A 6. § a 117/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^24]: A 6. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (4) bekezdésével megállapított szöveg.
-[^25]: A 6. § (5) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^26]: A 6. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be.
-[^27]: A 6. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 370. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^28]: A 6. § a 117/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^29]: A 6. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (4) bekezdésével megállapított szöveg.
+[^30]: A 6. § (3) bekezdés d) pontját a 304/2018. (XII. 27.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
+[^31]: A 6. § (4) bekezdés e) pontját a 304/2018. (XII. 27.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
+[^32]: A 6. § (5) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^33]: A 6. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be.
+[^34]: A 6. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 370. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

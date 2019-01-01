@@ -1,8 +1,8 @@
-## 6. [^45] A megváltozott munkaképességű személyek ellátásainak folyósítása és a folyósítás felfüggesztése
+## 6. [^55] A megváltozott munkaképességű személyek ellátásainak folyósítása és a folyósítás felfüggesztése
 
-14. § (1)[^46] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról az azonosítás célját szolgáló folyósítási törzsszám alatt, – az (1a) bekezdésben meghatározott kivételekkel – a döntés vele való közlését követő tizenhárom napon belül gondoskodik.
+14. § (1)[^56] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról az azonosítás célját szolgáló folyósítási törzsszám alatt, – az (1a) bekezdésben meghatározott kivételekkel – a döntés vele való közlését követő tizenhárom napon belül gondoskodik.
 
-(1a)[^47] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tizenhárom napon belül gondoskodik
+(1a)[^57] A nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásának folyósításáról a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tizenhárom napon belül gondoskodik
 
 a) – a felülvizsgálat alapján hozott döntés kivételével – a rehabilitációs és rokkantsági ellátást megállapító határozat,
 
@@ -14,12 +14,12 @@ d) az Mmtv. 19. § (1a) bekezdése és 38/C. §-a alapján a rokkantsági ellát
 
 ## esetében.
 
-(1b)[^48] A megváltozott munkaképességű személyek ellátásainak folyósítására egyebekben az öregségi nyugdíj folyósítására vonatkozó szabályokat kell alkalmazni azzal, hogy a folyósítással összefüggő döntéseket – a nyugdíjfolyósító szerv értesítése alapján – az első fokon eljáró rehabilitációs hatóság hozza meg.
+(1b)[^58] A megváltozott munkaképességű személyek ellátásainak folyósítására egyebekben az öregségi nyugdíj folyósítására vonatkozó szabályokat kell alkalmazni azzal, hogy a folyósítással összefüggő döntéseket – a nyugdíjfolyósító szerv értesítése alapján – az első fokon eljáró rehabilitációs hatóság hozza meg.
 
-(2)[^49] A nyugdíjfolyósító szerv a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 75/B. §-a szerinti tájékoztatással egyidejűleg értesítést küld a megváltozott munkaképességű személyek ellátásában részesülő személynek az ellátás tárgyév január hónapban járó összegéről és az előző évben kiutalt ellátás összegéről.
+(2)[^59] A nyugdíjfolyósító szerv a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet 75/B. §-a szerinti tájékoztatással egyidejűleg értesítést küld a megváltozott munkaképességű személyek ellátásában részesülő személynek az ellátás tárgyév január hónapban járó összegéről és az előző évben kiutalt ellátás összegéről.
 
-[^45]: A 6. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^46]: A 14. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
-[^47]: A 14. § (1a) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be.
-[^48]: A 14. § (1b) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be.
-[^49]: A 14. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^55]: A 6. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^56]: A 14. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^57]: A 14. § (1a) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^58]: A 14. § (1b) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 42. § (2) bekezdése iktatta be.
+[^59]: A 14. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés b) pontja szerint módosított szöveg.
