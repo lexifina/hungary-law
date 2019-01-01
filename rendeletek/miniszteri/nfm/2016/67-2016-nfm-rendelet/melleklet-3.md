@@ -160,11 +160,11 @@ CEGY_ESZ = min (QNOM – QALL , QALL * 0,05) * (PAktuális import ár – Pme + 
 
 6.18.1. nem kevesebb, mint a betárolási időszak végi egyetemes szolgáltatási célú fizikai készlet (QTárolói_ténykészlet), akkor:
 
-PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUFFedezett tároló / 1000 + fk * ΣQTárolói fedezés * EURHUF / 1000 + QNyitókészlet * PNyitókészlet) / (ΣQTárolói fedezés + QNyitókészlet),
+PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUFFedezett tároló / 1000 + fk * Σ(QTárolói fedezés * EURHUF) / 1000 + QNyitókészlet * PNyitókészlet) / (ΣQTárolói fedezés + QNyitókészlet),
 
 6.18.2. kevesebb, mint a betárolási időszak végi egyetemes szolgáltatási célú fizikai készlet (QTárolói_ténykészlet), akkor:
 
-PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUFFedezett tároló / 1000 + fk * ΣQTárolói fedezés * EURHUF / 1000 + QNyitókészlet * PNyitókészlet + (QTárolói_ténykészlet – ΣQTárolói fedezés – QNyitókészlet) * (fgSNem_fedezett_tároló + sp) * EURHUFNem_fedezett_tároló / 1000) / QTárolói_ténykészlet
+PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) * EURHUFFedezett tároló / 1000 + fk * Σ(QTárolói fedezés * EURHUF) / 1000 + QNyitókészlet * PNyitókészlet + (QTárolói_ténykészlet – ΣQTárolói fedezés – QNyitókészlet) * (fgSNem_fedezett_tároló + sp) * EURHUFNem_fedezett_tároló / 1000) / QTárolói_ténykészlet
 
 6.18.3. Ahol:
 
@@ -176,7 +176,7 @@ PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) *
 
 6.18.3.4. EURHUFFedezett tároló: a volt közüzemi nagykereskedő által, a betárolási időszakban a QTárolóifedezés (tárolói fedezett mennyiség)-ek keretében kötött EURHUF-ra vonatkozó fedezeti ügyletek mennyiséggel súlyozott átlagárfolyamának 0,1 HUF-fal növelt értéke;
 
-6.18.3.5. EURHUF: az adott hónap utolsó 5 banki napjára vonatkozó hivatalos MNB napi EURHUF (tény) árfolyamának számtani átlaga;
+6.18.3.5. EURHUF: az adott betárolási időszak utolsó 5 banki napjára vonatkozó hivatalos MNB napi EURHUF (tény) árfolyamának számtani átlaga;
 
 6.18.3.6. fgSNem_fedezett_tároló: az adott betárolási időszak egyes hónapjaira vonatkozó ICE TTFI EUR/MWh árak számtani átlaga. Egy adott hónapra vonatkozó ICE TTFI ár az Intercontinental Exchange Inc. honlapján a Report Center „Indices – UK and European NaturalGas” részében publikált, a szállítási hónapra vonatkozó utolsó INDEX Price jegyzésár EUR/MWh-ban;
 
@@ -192,17 +192,17 @@ PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) *
 
 6.23. CEGY: a volt közüzemi nagykereskedő által végzett kiegyensúlyozó tevékenység indokolt havi költsége;
 
-6.24. QNOM : a Get. 141/A. § és 141/J. § keretében földgázt vételező egyetemes szolgáltató gáznapi igénybejelentésére az volt közüzemi nagykereskedő által visszaigazolt mennyiség [kWh];
+6.24. QNOM: a Get. 141/A. § és 141/J. § keretében földgázt vételező egyetemes szolgáltató gáznapi igénybejelentésére az volt közüzemi nagykereskedő által visszaigazolt mennyiség [kWh];
 
-6.25. QALL : a Get. 141/A. § és 141/J. § keretében földgázt vételező egyetemes szolgáltató adott gáznapi – a korrigált havi földgáz-forgalmi mérleg szerint – vételezett mennyisége [kWh];
+6.25. QALL: a Get. 141/A. § és 141/J. § keretében földgázt vételező egyetemes szolgáltató adott gáznapi – a korrigált havi földgáz-forgalmi mérleg szerint – vételezett mennyisége [kWh];
 
-6.26. a kiegyensúlyozó földgáz-forgalmat elszámoló fél által felszámított forgalmi díj [Ft/kWh];
+6.26. Pelszámoló forgalmi díja a kiegyensúlyozó földgáz-forgalmat elszámoló fél által felszámított forgalmi díj [Ft/kWh];
 
-6.27. a szállítási rendszerüzemeltető által publikált gáznapi marginális eladási ár [Ft/kWh];
+6.27. Pme: a szállítási rendszerüzemeltető által publikált gáznapi marginális eladási ár [Ft/kWh];
 
-6.28. a szállítási rendszerüzemeltető által publikált gáznapi marginális vételi ár [Ft/kWh];
+6.28. Pmv:a szállítási rendszerüzemeltető által publikált gáznapi marginális vételi ár [Ft/kWh];
 
-6.29. naz adott hónap napjainak száma.
+6.29. n: az adott hónap napjainak száma.
 
 6.30. QProfilozott tárolói összmennyiség (a kitárolási időszak hónapjaiban QTerv arányában felhasználandó – profilozott – tárolt mennyiség): értéke 2018/19-es gázév során 17 632 664 MWh, a további időszakokra vonatkozó eltérő értéket a Hivatal a honlapján közzéteszi;
 
@@ -214,4 +214,4 @@ PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) *
 
 6.34. ΣQTárolói fedezés: a havi tárolói fedezett mennyiségek összege;
 
-[^28]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított, a 8/2018. (III. 28.) NFM rendelet 7. § (3) bekezdése, a 3/2018. (VI. 29.) ITM rendelet 2. § (3) bekezdése, a 19/2018. (IX. 27.) ITM rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^28]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított, a 8/2018. (III. 28.) NFM rendelet 7. § (3) bekezdése, a 3/2018. (VI. 29.) ITM rendelet 2. § (3) bekezdése, a 19/2018. (IX. 27.) ITM rendelet 7. § (3) bekezdése, a 36/2018. (XII. 21.) ITM rendelet 5. § a)–b) pontja szerint módosított szöveg.
