@@ -1,0 +1,1 @@
+Annak érdekében, hogy a részben vagy egészben központi költségvetési forrásból finanszírozott, az állam által történő, magasépítés körébe tartozó beruházások megvalósítása a rendelkezésre álló források hatékonyabb felhasználásával történjék, az Országgyűlés a következő törvényt alkotja:

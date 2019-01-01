@@ -1,0 +1,1 @@
+3. § A kormányzati magasépítési beruházás és a központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházás megvalósításának, az abban való közreműködésnek a részletszabályait a Kormány az e törvény végrehajtására kiadott rendeletében határozza meg.
