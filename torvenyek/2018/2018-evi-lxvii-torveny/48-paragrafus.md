@@ -1,0 +1,3 @@
+48. § A Vt. 34. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A védjegyoltalomnak a használat hiánya miatti megszűnése nem állapítható meg, ha a 18. § (1)–(3) bekezdésében meghatározott időtartam elteltét követően, de a használat hiánya miatti megszűnés megállapítása iránti kérelem benyújtását megelőzően megkezdik, illetve folytatják a tényleges védjegyhasználatot. E rendelkezés nem alkalmazható, ha a védjegyjogosult a tényleges védjegyhasználatot a kérelem benyújtását megelőző – de legkorábban a használat elmulasztásának ötéves időtartama lejártakor kezdődő – három hónapos időszakban csupán azt követően kezdi meg, illetve folytatja, hogy értesül arról, hogy a használat hiánya miatt a megszűnés megállapítását kérhetik.”

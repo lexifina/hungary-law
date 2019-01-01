@@ -1,0 +1,3 @@
+90. § Az Fmtv. 59. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nemleges megállapításra irányuló kérelmet elektronikus kapcsolattartás esetén egy példányban, egyéb esetben eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak. A kérelemnek tartalmaznia kell a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokat és ahhoz mellékelni kell a hasznosított vagy hasznosítani kívánt termék, valamint a megjelölt mintaoltalom mintájának ábrázolását. A hasznosított vagy hasznosítani kívánt terméket a megjelölt mintaoltalom mintájának a mintaoltalmi lajstromban szereplő ábrázolásával megegyező egy vagy több nézetben kell bemutatni.”

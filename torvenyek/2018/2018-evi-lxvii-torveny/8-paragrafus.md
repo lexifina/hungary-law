@@ -1,0 +1,3 @@
+8. § A Toptv. 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A bejelentési kérelemnek a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl tartalmaznia kell a szerző nevét és lakcímét, vagy utalást arra, hogy a szerző nevének és lakcímének a topográfiaoltalmi iratokon való feltüntetése mellőzését kéri, és hogy a szerző a nevét és lakcímét külön lapon adja meg. A bejelentést egyebekben a topográfiaoltalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.”

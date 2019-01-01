@@ -1,0 +1,3 @@
+79. § A Vt. 113. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A földrajzi árujelző lajstromozására irányuló bejelentésnek tartalmaznia kell a bejelentési kérelmet, a földrajzi árujelző megnevezését, a termékjegyzéket és az egyéb mellékleteket. A bejelentési kérelemnek tartalmaznia kell a 38. § (2b) bekezdésében meghatározott adatokat. A bejelentést egyebekben a földrajzi árujelzőre vonatkozó bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.”
