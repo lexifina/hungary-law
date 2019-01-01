@@ -62,10 +62,12 @@ fa) intézkedik a biztonsági események megelőzéséről, a bekövetkezett biz
 
 fb) az e) pont eb) alpontja szerinti elemzések alapján biztonságnövelő megelőző intézkedéseket vezet be;
 
-g) az elektronikus információs rendszereket érintő biztonsági események kezelése során
+g)[^1] az elektronikus információs rendszereket érintő biztonsági események kezelése során
 
-ga) tájékoztatja a kormányzati eseménykezelő központot és az Ibtv. 19. § (2)–(4) bekezdése szerinti, feladat- és hatáskörrel rendelkező eseménykezelő központot az azonosított biztonsági eseményekről és fenyegetettségekről,
+ga) tájékoztatja az Ibtv. 19. § (1)–(3) bekezdése szerinti, feladat- és hatáskörrel rendelkező eseménykezelő központot az azonosított biztonsági eseményekről és fenyegetettségekről,
 
-gb) biztosítja a biztonsági események azonosításához, elemzéséhez és kezeléséhez szükséges, bizonyíték értékű információkat a kormányzati eseménykezelő központ és az Ibtv. 19. § (2)–(4) bekezdése szerinti, feladat- és hatáskörrel rendelkező eseménykezelő központ részére, valamint
+gb) biztosítja a biztonsági események azonosításához, elemzéséhez és kezeléséhez szükséges, bizonyító erejű információkat az Ibtv. 19. § (1)–(3) bekezdése szerinti, feladat- és hatáskörrel rendelkező eseménykezelő központ részére, valamint
 
-gc) közreműködik a kormányzati eseménykezelő központ és az Ibtv. 19. § (2)–(4) bekezdése szerinti eseménykezelő központok által végzett informatikai biztonsági eseménykezelésben a biztonsági eseményről szóló adatszolgáltatással, vizsgálat elvégzésével, illetve a kormányzati eseménykezelő központ és az Ibtv. 19. § (2)–(4) bekezdése szerinti eseménykezelő központok által elrendelt biztonságnövelő intézkedések végrehajtásával.
+gc) közreműködik az Ibtv. 19. § (1)–(3) bekezdése szerinti eseménykezelő központok által végzett informatikai biztonsági eseménykezelésben a biztonsági eseményről szóló adatszolgáltatással, vizsgálat elvégzésével, illetve az Ibtv. 19. § (1)–(3) bekezdése szerinti eseménykezelő központok által elrendelt biztonságnövelő intézkedések végrehajtásával.
+
+[^1]: A 2. § g) pontja a 323/2018. (XII. 28.) Korm. rendelet 40. §-ával megállapított szöveg.
