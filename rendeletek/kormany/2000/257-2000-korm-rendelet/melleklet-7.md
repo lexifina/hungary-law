@@ -1,3 +1,5 @@
+## Bölcsődei pótlék összege (Ft) a bölcsődében, mini bölcsődében foglalkoztatott középfokú végzettségű kisgyermeknevelők vonatkozásában
+
 | Sorszám | Közalkalmazotti jogviszonyban töltött idő | Fizetési osztály |
 
 | C | D | E |
@@ -100,9 +102,9 @@
 
 | 49. | 48 év felett | 67 216 | 81 204 | 101 822 |
 
-7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^104]
+7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^107]
 
-Az egészségügyi kiegészítő pótlék összege
+## Az egészségügyi kiegészítő pótlék összege
 
 I. Ápolók, szakápolók egészségügyi kiegészítő pótlékának összege (Ft)
 
@@ -312,4 +314,4 @@ II. Orvosok egészségügyi kiegészítő pótlékának összege (Ft)
 
 | 49. | 48 év felett | – | 189 945 | 219 527 |
 
-[^104]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^107]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a szerint módosított szöveg.

@@ -4,7 +4,7 @@ a) gyermekjóléti és gyermekvédelmi (a továbbiakban együtt: gyermekvédelmi
 
 b) a nem intézményi keretek között szociális, gyermekjóléti szakfeladat ellátására közalkalmazottként
 
-foglalkoztatott személy (a továbbiakban: közalkalmazott) közalkalmazotti jogviszonyára terjed ki.
+## foglalkoztatott személy (a továbbiakban: közalkalmazott) közalkalmazotti jogviszonyára terjed ki.
 
 (2)[^2] E rendelet hatálya kiterjed a javítóintézetekben foglalkoztatott közalkalmazottakra.
 

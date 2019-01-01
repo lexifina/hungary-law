@@ -1,14 +1,14 @@
-15/C. §[^79] (1) Egészségügyi kiegészítő pótlék illeti meg
+15/C. §[^80] (1) Egészségügyi kiegészítő pótlék illeti meg
 
-a) a szociális intézményben a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben kötelezően előírt egészségügyi végzettséggel betölthető munkakörökben foglalkoztatott (orvos, intézményvezető ápoló),
+a)[^81] a szociális intézményben a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben kötelezően előírt egészségügyi végzettséggel betölthető munkakörökben foglalkoztatott (orvos, vezető ápoló, vezető szakápoló),
 
 b) a gyermekvédelmi szakellátást biztosító intézményben a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben kötelezően előírt egészségügyi végzettséggel betölthető munkakörökben foglalkoztatott (orvos, ápoló),
 
 c) a javítóintézetben a javítóintézetek rendtartásáról szóló miniszteri rendeletben kötelezően előírt egészségügyi végzettséggel betölthető munkakörökben foglalkoztatott (orvos, ápoló), és
 
-d) az egészségügyi engedéllyel rendelkező szociális intézményben, valamint a szakápolási központban ápolói, szakápolói munkakörben, magyar egészségügyi szakdolgozói kamarai tagság mellett foglalkoztatott
+d)[^82] az otthoni szakápolásra vagy szakápolásra egészségügyi engedéllyel rendelkező bentlakásos szociális intézményben, valamint a szakápolási központban ápolói, szakápolói munkakörben, magyar egészségügyi szakdolgozói kamarai tagság mellett foglalkoztatott
 
-közalkalmazottat.
+## közalkalmazottat.
 
 (2) Az egészségügyi kiegészítő pótlék – a foglalkoztatott fizetési osztálya és a közalkalmazotti jogviszonyban töltött ideje alapján meghatározott – összegét a 7. számú melléklet tartalmazza.
 
@@ -16,4 +16,6 @@ közalkalmazottat.
 
 (4) Az egészségügyi kiegészítő pótlék tekintetében közalkalmazotti jogviszonyban töltött időnek a fizetési fokozat megállapításának alapjául szolgáló időt kell tekinteni. A közalkalmazott 7. számú mellékletben foglalt táblázat szerinti, a közalkalmazotti jogviszonyban töltött idő alapján történő besorolása minden megkezdett évre tekintettel a tárgyév első napján történik.
 
-[^79]: A 15/C. §-t a 351/2017. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^80]: A 15/C. §-t a 351/2017. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^81]: A 15/C. § (1) bekezdés a) pontja a 305/2018. (XII. 27.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^82]: A 15/C. § (1) bekezdés d) pontja a 305/2018. (XII. 27.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

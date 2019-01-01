@@ -1,3 +1,5 @@
+## A szociális ágazati összevont pótlék összege (Ft)
+
 | Sorszám | Közalkalmazotti jogviszonyban töltött idő | Fizetési osztály |
 
 | A | B | C | D | E | F | G | H | I | J |
@@ -100,8 +102,6 @@
 
 | 49. | 48 év felett | 25 200 | 38 216 | 38 216 | 50 204 | 51 822 | 137 105 | 122 453 | 154 097 | 122 875 | 93 293 |
 
-6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^103]
+6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^106]
 
-Bölcsődei pótlék összege (Ft) a bölcsődében, mini bölcsődében foglalkoztatott középfokú végzettségű kisgyermeknevelők vonatkozásában
-
-[^103]: A 6. számú mellékletet újonnan a 318/2016. (X. 25.) Korm. rendelet 4. §-a iktatta be.
+[^106]: A 6. számú mellékletet újonnan a 318/2016. (X. 25.) Korm. rendelet 4. §-a iktatta be.
