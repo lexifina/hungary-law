@@ -48,9 +48,9 @@ b) az eljárás folytatása iránti kérelmet vagy az igazolási kérelmet olyan
 
 a) az eljáró bíróság megnevezését,
 
-b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+b) a kérelmezőnek a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott azonosító adatait, illetve ha van ellenérdekű fél, annak az ismert azonosító adatait, és
 
-c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+c) a kérelmező jogi képviselőjének a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott azonosító adatait és biztonságos kézbesítési szolgáltatási címét.
 
 (11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
 

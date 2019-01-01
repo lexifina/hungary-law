@@ -8,7 +8,7 @@ c) különösen indokolt esetben sem adható a b) pontban foglaltaknál hosszabb
 
 d) szabadalmi bejelentésen mintaoltalmi bejelentést, szabadalmon mintaoltalmat, szabadalmi lajstromon mintaoltalmi lajstromot kell érteni, a szabadalmi bejelentés közzétételére és a Szabadalmi Jogi Szerződés alkalmazására vonatkozó rendelkezések pedig nem alkalmazhatók.
 
-(2) A szabadalmi törvénynek a mintaoltalmi eljárások igazgatási szolgáltatási díjaira és a mintaoltalom fenntartási díjaira vonatkozó rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
+(2) Mintaoltalmi ügyekben a szabadalmi törvénynek a kérelem tartalmára, a beadványokkal kapcsolatos eljárásra és az azokkal kapcsolatban alkalmazható jogkövetkezményekre vonatkozó általános rendelkezéseit, valamint a mintaoltalmi eljárások igazgatási szolgáltatási díjaira és a mintaoltalom fenntartási díjaira vonatkozó rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
 
 (3) Ha ugyanarra a tárgyra mintaoltalmat és szabadalmi oltalmat egyaránt szereztek, az egyik oltalom megsemmisítésére irányuló eljárásban hozott jogerős döntés a párhuzamos oltalom érvényességével kapcsolatos eljárásban a Szellemi Tulajdon Nemzeti Hivatalát – a döntés megállapításainak erejéig – köti.
 

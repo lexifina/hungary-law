@@ -4,7 +4,7 @@
 
 (2) Az oltalmazhatósági vélemény elkészítése a mintaoltalmi bejelentés vizsgálatától elkülönülten folyik, és a mintaoltalom megadható az oltalmazhatósági vélemény elkészültét megelőzően is.
 
-(3) Az oltalmazhatósági véleményért a szabadalmi törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(3) Az oltalmazhatósági véleményért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 (4) Ha a megfizetés időpontjában a mintaoltalmi igény, illetve a mintaoltalom jogosultja kizárólag maga a feltaláló, az oltalmazhatósági vélemény díjának a felét köteles megfizetni. A kedvezmény akkor illeti meg a feltalálót, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha a mintaoltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét. Az e bekezdésben foglalt rendelkezéseket alkalmazni kell akkor is, ha – több feltaláló esetén – a feltalálók valamelyike a mintaoltalmi igényéről, illetve a mintaoltalomról feltalálótársa javára lemondott, továbbá, ha a feltalálók bármelyike helyébe az örököse lép.
 

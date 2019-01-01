@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-38-00-00
 | 2013-04-01 | 2013. évi XVI. törvény | 1991-38-00-00.18 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1991-38-00-00.19 |
 | 2018-01-01 | 2017. évi CXX. törvény | 1991-38-00-00.20 |
+| 2019-01-01 | 2018. évi LXVII. törvény | 1991-38-00-00.21 |
