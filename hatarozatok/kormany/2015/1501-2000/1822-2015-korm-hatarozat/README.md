@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1822-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-11-13 | 2015-1822-30-22.1 | 1822/2015. (XI. 13.) Korm. határozat |
+| 2019-01-01 | 2015-1822-30-22.2 | 2011. évi CXCV. törvény |
