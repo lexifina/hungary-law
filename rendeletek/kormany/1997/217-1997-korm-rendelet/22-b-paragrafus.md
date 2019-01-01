@@ -1,9 +1,9 @@
-22/B. §[^402] (1) Az Ebtv. 35. § (1) bekezdésében előírt elkülönítési kötelezettségnek az egészségügyi szolgáltató a pénzügyileg teljesült bevételeinek és kiadásainak nyilvántartásában egyaránt köteles eleget tenni.
+22/B. §[^405] (1) Az Ebtv. 35. § (1) bekezdésében előírt elkülönítési kötelezettségnek az egészségügyi szolgáltató a pénzügyileg teljesült bevételeinek és kiadásainak nyilvántartásában egyaránt köteles eleget tenni.
 
-(2)[^403] A NEAK az általa folyósított pénzeszközök felhasználásának pénzügyi ellenőrzése során pénzforgalmi szemléletben vizsgálja az Ebtv. 35. § (1) és (2) bekezdésében előírtak teljesítését.
+(2)[^406] Az Ebtv. 36. § (3) bekezdésében foglalt ellenőrzési feladatok ellátása során az egészségbiztosító pénzforgalmi szemléletben vizsgálja az Ebtv. 35. § (1) és (2) bekezdésében előírtak teljesítését.
 
-(3)[^404] A (2) bekezdés szerinti pénzügyi ellenőrzés során a háziorvosi, házi gyermekorvosi és alapellátást nyújtó fogorvosi vállalkozásoknál figyelembe vehető bevételeket és kiadásokat az 1. melléklet tartalmazza.
+(3)[^407] A (2) bekezdés szerinti pénzügyi ellenőrzés során a háziorvosi, házi gyermekorvosi és alapellátást nyújtó fogorvosi vállalkozásoknál figyelembe vehető bevételeket és kiadásokat az 1. melléklet tartalmazza.
 
-[^402]: A Vhr. 22/B. §-át a 447/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^403]: A Vhr. 22/B. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
-[^404]: A Vhr. 22/B. § (3) bekezdését a 204/2016. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^405]: A Vhr. 22/B. §-át a 447/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^406]: A Vhr. 22/B. § (2) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^407]: A Vhr. 22/B. § (3) bekezdését a 204/2016. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
