@@ -26,7 +26,7 @@ l)[^22] az emberi felhasználásra kerülő gyógyszerek rendeléséről és kia
 
 m)[^23] a vény adatainak elküldésére az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) elektronikus vénynyilvántartása részére,
 
-n)[^24] az EESZT-ben rögzített elektronikus vény egyedi azonosítójának vonalkóddal történő kinyomtatására,
+n)[^24] az EESZT-ben rögzített elektronikus vény egyedi azonosítójának és csoportazonosítójának vonalkóddal történő kinyomtatására,
 
 o)[^25] az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet szerinti, az EESZT vénynyilvántartásába küldött elektronikus vényről felírási igazolás készítésére és kinyomtatására,
 
@@ -36,7 +36,7 @@ q)[^27] az EESZT által szolgáltatott egészségügyi profil adatainak lekérde
 
 (2)[^28] Az extra vonalkód adattartalmát és műszaki leírását e rendelet 1. számú melléklete tartalmazza.
 
-(2a)[^29] Az EESZT elektronikus vény egyedi azonosító vonalkódjának műszaki leírását a 3. számú melléklet tartalmazza.
+(2a)[^29] Az EESZT elektronikus vény egyedi azonosító és csoportazonosító vonalkódjának műszaki leírását a 3. számú melléklet tartalmazza.
 
 (3)[^30] A szoftvernek a gyógyszerrendelés támogatásához a NEAK által közzétett gyógyszertörzzsel azonos tartalmú adatokat kell használnia. A gyógyszertörzs (5) bekezdésben felsorolt adatain változtatást eszközölni nem lehet. A gyógyszertörzs adatállományának formátumát e rendelet 2. számú melléklete tartalmazza.
 
@@ -136,12 +136,12 @@ gc) amennyiben az szakorvosi javaslatra rendelhető, úgy ennek tényét, valami
 [^21]: A 4. § (1) bekezdés k) pontját a 2/2012. (I. 3.) NEFMI rendelet 18. § (2) bekezdése iktatta be.
 [^22]: A 4. § (1) bekezdés l) pontját az 56/2013. (VII. 31.) EMMI rendelet 37. §-a iktatta be.
 [^23]: A 4. § (1) bekezdés m) pontját a 25/2018. (VII. 31.) EMMI rendelet 1. § (2) bekezdése iktatta be.
-[^24]: A 4. § (1) bekezdés n) pontját a 25/2018. (VII. 31.) EMMI rendelet 1. § (2) bekezdése iktatta be.
+[^24]: A 4. § (1) bekezdés n) pontját a 25/2018. (VII. 31.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege az 5. § a) pontja szerint módosított szöveg.
 [^25]: A 4. § (1) bekezdés o) pontját a 25/2018. (VII. 31.) EMMI rendelet 1. § (2) bekezdése iktatta be.
 [^26]: A 4. § (1) bekezdés p) pontját a 25/2018. (VII. 31.) EMMI rendelet 1. § (2) bekezdése iktatta be.
 [^27]: A 4. § (1) bekezdés q) pontját a 25/2018. (VII. 31.) EMMI rendelet 1. § (2) bekezdése iktatta be.
 [^28]: A 4. § (2) bekezdése a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^29]: A 4. § (2a) bekezdését a 25/2018. (VII. 31.) EMMI rendelet 2. §-a iktatta be.
+[^29]: A 4. § (2a) bekezdését a 25/2018. (VII. 31.) EMMI rendelet 2. §-a iktatta be, szövege az 5. § b) pontja szerint módosított szöveg.
 [^30]: A 4. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 57. § c) pontja szerint módosított szöveg.
 [^31]: A 4. § (4) bekezdés a) pontja a 67/2011. (XII. 13.) NEFMI rendelet 7. §-ával megállapított szöveg.
 [^32]: A 4. § (4) bekezdés a) pont ab) alpontja a 33/2012. (X. 11.) EMMI rendelet 3. §-ával megállapított, a 3/2014. 8I. 16.) EMMI rendelet 31. §-a szerint módosított szöveg.

@@ -282,7 +282,7 @@
 
 3. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^48]
 
-## Az EESZT elektronikus vény egyedi azonosító vonalkódjának műszaki leírása
+## Az EESZT elektronikus vény egyedi azonosító és csoportazonosító vonalkódjának műszaki leírása
 
 1. Az elektronikus recept azonosítója egy 18 szám-karaktert tartalmazó azonosító.
 
@@ -298,4 +298,4 @@ A kód értékét alfanumerikusan is fel kell tüntetni, szabad szemmel jól olv
 
 2.4. Méret: szélesség legalább 50 mm, magasság 8–12 mm.
 
-[^48]: A 3. számú mellékletet a 25/2018. (VII. 31.) EMMI rendelet 7. §-a iktatta be.
+[^48]: A 3. számú mellékletet a 25/2018. (VII. 31.) EMMI rendelet 7. §-a iktatta be, szövege az 5. § b) pontja szerint módosított szöveg.
