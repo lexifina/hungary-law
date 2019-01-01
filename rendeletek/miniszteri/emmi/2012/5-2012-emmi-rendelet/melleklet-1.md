@@ -4,72 +4,72 @@
 
 1. Nemzeti minősítésű színházművészeti szervezet:
 
-1.1 Állami fenntartású szervezet:
+1.1. Állami fenntartású nemzeti színházművészeti szervezet:
 
-Budapesti Operettszínház (Budapest)
+1.1.1. Budapest Operettszínház (Budapest)
 
-MACIVA Magyar Cirkusz és Varieté Nonprofit Kft. (Budapest)
+1.1.2. MACIVA Magyar Cirkusz és Varieté Nonprofit Kft. (Budapest)
 
-Magyar Állami Operaház (Budapest)
+1.1.3. Magyar Állami Operaház (Budapest)
 
-Nemzeti Színház Közhasznú Nonprofit Zrt. (Budapest)
+1.1.4. Nemzeti Színház Közhasznú Nonprofit Zrt. (Budapest)
 
-1.2 A Magyar Állammal közszolgáltatási szerződést kötött szervezet:
+1.2. A Magyar Állammal közszolgáltatási szerződést kötött nemzeti színházművészeti szervezet:
 
-Csokonai Színház (Debrecen)
+1.2.1. Csokonai Színház (Debrecen)
 
-Győri Nemzeti Színház (Győr)
+1.2.2. Győri Nemzeti Színház (Győr)
 
-Miskolci Nemzeti Színház Nonprofit Kft. (Miskolc)
+1.2.3. Miskolci Nemzeti Színház Nonprofit Kft. (Miskolc)
 
-Pécsi Nemzeti Színház Nonprofit Kft. (Pécs)
+1.2.4. Pécsi Nemzeti Színház Nonprofit Kft. (Pécs)
 
-Szegedi Nemzeti Színház (Szeged)
+1.2.5. Szegedi Nemzeti Színház (Szeged)
 
 2. Nemzeti minősítésű táncművészeti szervezet:
 
-2.1 Állami fenntartású szervezet:
+2.1. Állami fenntartású nemzeti táncművészeti szervezet:
 
-Hagyományok Háza (Magyar Állami Népi Együttes) (Budapest)
+2.1.1. Hagyományok Háza (Magyar Állami Népi Együttes) (Budapest)
 
-Nemzeti Táncszínház Nonprofit Kft. (Budapest)
+2.1.2. Nemzeti Táncszínház Nonprofit Kft. (Budapest)
 
-2.2 A Magyar Állammal közszolgáltatási szerződést kötött szervezet:
+2.2. A Magyar Állammal közszolgáltatási szerződést kötött nemzeti táncművészeti szervezet:
 
-Győri Balett (Győr)
+2.2.1. Győri Balett (Győr)
+
+2.2.2. Pécsi Balett Nonprofit Kft. (Pécs)
 
 3. Nemzeti minősítésű zeneművészeti szervezet:
 
-3.1 Állami fenntartású szervezet:
+3.1. Állami fenntartású nemzeti zeneművészeti szervezet:
 
-Magyar Nemzeti Filharmonikus Zenekar, Énekkar és Kottatár Nonprofit Kft. (Budapest)
+3.1.1. Nemzeti Filharmonikus Zenekar, Énekkar és Kottatár Nonprofit Kft. (Budapest)
 
-3.2 A Magyar Állammal közszolgáltatási szerződést kötött szervezet:
+3.2. A Magyar Állammal közszolgáltatási szerződést kötött nemzeti zeneművészeti szervezet:
 
-Győri Filharmonikus Zenekar (Győr)
+3.2.1. Győri Filharmonikus Zenekar (Győr)
 
-Kodály Filharmónia Debrecen – Kodály Filharmonikusok (Debrecen)
+3.2.2. Kodály Filharmónia Debrecen – Kodály Filharmonikusok (Debrecen)
 
-Kodály Filharmónia Debrecen – Kodály Kórus (Debrecen)
+3.2.3. Kodály Filharmónia Debrecen – Kodály Kórus (Debrecen)
 
-Liszt Ferenc Kamarazenekar Alapítvány (Budapest)
+3.2.4. Liszt Ferenc Kamarazenekar Alapítvány (Budapest)
 
-Miskolci Szimfonikus Zenekar Nonprofit Kft. (Miskolc)
+3.2.5. Miskolci Szimfonikus Zenekar Nonprofit Kft. (Miskolc)
 
-Nyíregyházi Cantemus Kórus (Nyíregyháza)
+3.2.6. Nyíregyházi Cantemus Kórus (Nyíregyháza)
 
-Pannon Filharmonikusok-Pécs Közhasznú Nonprofit Kft. (Pécs)
+3.2.7. Pannon Filharmonikusok – Pécs Közhasznú Nonprofit Kft. (Pécs)
 
-Savaria Szimfonikus Zenekar (Szombathely)
+3.2.8. Savaria Szimfonikus Zenekar (Szombathely)
 
-Szegedi Szimfonikus Zenekar (Szeged)
+3.2.9. Szegedi Szimfonikus Zenekar (Szeged)
 
 4. Nemzeti minősítésű tánc- és zeneművészeti szervezet:
 
-4.1 Állami fenntartású szervezet:
+4.1. Állami fenntartású nemzeti tánc- és zeneművészeti szervezet:
 
-Duna Palota Nonprofit Kft. (Budapest)
+4.1.1. Honvéd Együttes Művészeti Nonprofit Kft. (Budapest)
 
-Honvéd Együttes Művészeti Nonprofit Kft. (Budapest)
-
-[^1]: Az 1. melléklet a 48/2014. (X. 30.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. melléklet a 43/2018. (XII. 18.) EMMI rendelet 1. §-ával megállapított szöveg.
