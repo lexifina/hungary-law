@@ -2,15 +2,15 @@
 
 a) belföldi vagy határon átmenő országos közforgalmú vasút 2. kocsiosztályán,
 
-b)[^9] menetrend szerinti országos, regionális és elővárosi autóbuszjáraton,
+b)[^10] menetrend szerinti országos, regionális és elővárosi autóbuszjáraton,
 
-c)[^10] elővárosi vasúton (HÉV-en),
+c)[^11] elővárosi vasúton (HÉV-en),
 
 d) menetrend szerint közlekedő hajón, kompon, vagy réven
 
 utazik a munkavégzés helyére, továbbá, ha hazautazás céljából légi közlekedési járművet vesz igénybe.
 
-(1a)[^11] A munkáltató a munkavállalóval való megállapodás szerint nem téríti meg az (1) bekezdésben meghatározott költségeket, ha a munkavállalóinak lakóhelyük (tartózkodási helyük) és a munkahelyük között történő oda-vissza utazását csoportos személyszállítás útján oldja meg.
+(1a)[^12] A munkáltató a munkavállalóval való megállapodás szerint nem téríti meg az (1) bekezdésben meghatározott költségeket, ha a munkavállalóinak lakóhelyük (tartózkodási helyük) és a munkahelyük között történő oda-vissza utazását csoportos személyszállítás útján oldja meg.
 
 (2) A munkáltató által fizetett napi munkába járással kapcsolatos költségtérítés a bérlettel vagy menetjeggyel való elszámolás ellenében azok árának legalább 86%-a.
 
@@ -18,13 +18,13 @@ utazik a munkavégzés helyére, továbbá, ha hazautazás céljából légi kö
 
 a) 2010-ben 30 000 forint,
 
-b) 2011-től minden évben az előző évben irányadó összegnek a Központi Statisztikai Hivatal által a megelőző évre megállapított és közzétett éves átlagos fogyasztói árnövekedés mértékével növelt összege.[^12]
+b) 2011-től minden évben az előző évben irányadó összegnek a Központi Statisztikai Hivatal által a megelőző évre megállapított és közzétett éves átlagos fogyasztói árnövekedés mértékével növelt összege.[^13]
 
-(4)[^13] A hazautazással kapcsolatos költségtérítés e rendeletben meghatározott felső korlátjának a tárgyévre vonatkozó mértékét a foglalkoztatáspolitikáért felelős miniszter 2011-től kezdődően minden év január 25-ig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményében teszi közzé.[^14]
+(4)[^14] A hazautazással kapcsolatos költségtérítés e rendeletben meghatározott felső korlátjának a tárgyévre vonatkozó mértékét a foglalkoztatáspolitikáért felelős miniszter 2011-től kezdődően minden év január 25-ig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményében teszi közzé.[^15]
 
-[^9]: A 3. § (1) bekezdés b) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^10]: A 3. § (1) bekezdés c) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^11]: A 3. § (1a) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^12]: A munkáltató által fizetett hazautazással kapcsolatos költségtérítés havi felső korlátja 2017-ben 35 340 forint.
-[^13]: A 3. § (4) bekezdése a 4/2017. (I. 12.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^14]: Lásd a Hivatalos Értesítő 2017. évi 3. számában megjelent NGM közleményt.
+[^10]: A 3. § (1) bekezdés b) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdés c) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § (1a) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A munkáltató által fizetett hazautazással kapcsolatos költségtérítés havi felső korlátja 2017-ben 35 340 forint.
+[^14]: A 3. § (4) bekezdése a 4/2017. (I. 12.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^15]: Lásd a Hivatalos Értesítő 2017. évi 3. számában megjelent NGM közleményt.
