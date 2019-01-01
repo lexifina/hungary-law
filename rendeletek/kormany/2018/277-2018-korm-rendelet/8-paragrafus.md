@@ -1,0 +1,3 @@
+## „(1a) Ha a bíróság által elrendelt kiutasítás végrehajtásának elrendelésére ismeretlen helyen tartózkodó, nem szabadságvesztés-büntetésből szabaduló EGT-állampolgár vagy családtaggal szemben kerül sor, a regionális igazgatóság végzése tartalmazza a Tv. 61. § b) és c) pontjában meghatározottakat. Ebben az esetben a beutazási és tartózkodási tilalom időtartama a bírósági ítélet jogerőre emelkedésének időpontjához igazodva kerül rögzítésre a nyilvántartásban.
+
+## (1b) Az (1a) bekezdésen túli esetben a regionális igazgatóság végzése a Tv. 61. § a)–f) pontjában meghatározottakat, valamint a kitoloncolásról való rendelkezést tartalmazza.”
