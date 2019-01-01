@@ -6,16 +6,16 @@
 
 (3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot
 
-a) a szervvel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban álló személyre,
+a) a szervnél politikai felsővezetőként politikai szolgálati jogviszonyban vagy szakmai felsővezetőként kormányzati szolgálati jogviszonyban álló személyre,
 
-b) a szervvel vezetői munkakörrel rendelkező kormányzati szolgálati jogviszonyban álló személyre,
+b) a szervnél szakmai vezetőként kormányzati szolgálati jogviszonyban álló személyre,
 
-c) a szervvel vezetői munkakörrel rendelkező közszolgálati jogviszonyban álló személyre,
+c) a szervnél vezetőként közszolgálati jogviszonyban álló személyre,
 
-d) a szervvel vezető beosztással rendelkező hivatásos szolgálati viszonyban álló személyre,
+d) a szervvel vezető beosztással rendelkező, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személyre,
 
-e) a szervvel vezető beosztással rendelkező katonai szolgálati viszonyban álló személyre, illetve
+e) a szervvel vezető beosztással rendelkező, a honvédek jogállásáról szóló törvény szerinti jogviszonyban álló személyre, illetve
 
 f) a miniszterelnök közvetlen irányítása alatt álló és kormányrendeletben a központi államigazgatási szervnél irányítási jogkörrel felruházott kormánybiztosra
 
-ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.
+g) ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár el.

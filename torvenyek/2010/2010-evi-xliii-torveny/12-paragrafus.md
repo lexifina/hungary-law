@@ -1,7 +1,1 @@
-12. § (1) Az országgyűlési képviselői megbízatással nem rendelkező politikai vezető megbízatása keletkezését követő harminc napon belül, majd azt követően évente, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
-
-(2) A vagyonnyilatkozatokat a Miniszterelnöki Kormányiroda kezeli.
-
-(3) A családtag vagyonnyilatkozata kivételével az országgyűlési képviselői megbízatással nem rendelkező politikai vezető vagyonnyilatkozata nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Miniszterelnöki Kormányiroda a honlapján közzéteszi. A vagyonnyilatkozat a honlapról az országgyűlési képviselői megbízatással nem rendelkező politikai vezető megbízatásának megszűnését követő egy év elteltével távolítható el.
-
-(4) A családtag vagyonnyilatkozatába az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának (a továbbiakban: összeférhetetlenségi bizottság) tagjai tekinthetnek be az országgyűlési képviselői megbízatással nem rendelkező politikai vezető vagyonnyilatkozatával kapcsolatos eljárás során.
+12. §

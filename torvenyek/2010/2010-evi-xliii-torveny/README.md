@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2018-05-18 | 2018. évi V. törvény | 2010-43-00-00.38 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2010-43-00-00.39 |
 | 2018-07-26 | 2018. évi XL. törvény | 2010-43-00-00.40 |
+| 2019-01-01 | 2018. évi CXXV. törvény | 2010-43-00-00.41 |

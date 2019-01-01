@@ -4,29 +4,25 @@
 
 ## A törvény hatálya
 
-1. § (1) E törvény hatálya a központi államigazgatási szervekre, a Kormány tagjaira, az államtitkárokra, valamint – ha törvény eltérően nem rendelkezik – a közigazgatási államtitkárokra és a helyettes államtitkárokra terjed ki.
+1. § (1) E törvény hatálya a központi államigazgatási szervekre, a Kormány tagjaira, az államtitkárokra, valamint a biztosi jogviszonyban álló személyekre terjed ki.
 
 (2) Központi államigazgatási szerv
 
-a) a Kormány,
+a) a központi kormányzati igazgatási szerv,
 
-b) a kormánybizottság,
+b) az önálló szabályozó szerv,
 
-c) a minisztérium,
+c) az autonóm államigazgatási szerv, és
 
-d) a Miniszterelnöki Kormányiroda,
+d) a rendvédelmi szerv és a Katonai Nemzetbiztonsági Szolgálat.
 
-e) az autonóm államigazgatási szerv,
+(3) Önálló szabályozó szerv
 
-f) a kormányhivatal,
+a) a Nemzeti Média- és Hírközlési Hatóság, és
 
-g) a központi hivatal,
+b) a Magyar Energetikai és Közmű-szabályozási Hivatal.
 
-h) a rendvédelmi szerv és a Katonai Nemzetbiztonsági Szolgálat,
-
-i) az önálló szabályozó szervek.
-
-(3) Autonóm államigazgatási szerv
+(4) Autonóm államigazgatási szerv
 
 a) a Közbeszerzési Hatóság,
 
@@ -34,40 +30,16 @@ b) az Egyenlő Bánásmód Hatóság,
 
 c) a Gazdasági Versenyhivatal,
 
-d) Nemzeti Adatvédelmi és Információszabadság Hatóság,
+d) a Nemzeti Adatvédelmi és Információszabadság Hatóság, és
 
 e) a Nemzeti Választási Iroda.
-
-(4) Kormányhivatal
-
-a) a Központi Statisztikai Hivatal,
-
-b) az Országos Atomenergia Hivatal,
-
-c) a Szellemi Tulajdon Nemzeti Hivatala,
-
-d)
-
-e) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal.
 
 (5) Rendvédelmi szerv
 
 a) a rendőrség,
 
-b)
+b) a büntetés-végrehajtási szervezet,
 
-c)
+c) a hivatásos katasztrófavédelmi szerv, és
 
-d) a büntetés-végrehajtási szervezet,
-
-e) a hivatásos katasztrófavédelmi szerv,
-
-f) a polgári nemzetbiztonsági szolgálatok.
-
-(6) Önálló szabályozó szerv
-
-a) a Nemzeti Média- és Hírközlési Hatóság,
-
-b)
-
-c) a Magyar Energetikai és Közmű-szabályozási Hivatal.
+d) a polgári nemzetbiztonsági szolgálatok.
