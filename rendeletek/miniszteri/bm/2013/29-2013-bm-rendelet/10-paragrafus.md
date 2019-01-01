@@ -12,7 +12,7 @@ e) a magyar jogszabályok által az emberi jogok védelmére feljogosított szer
 
 f) – saját kezdeményezésére – a hazája Magyarországon akkreditált diplomáciai képviselőjével, konzuli tisztségviselőjével, vagy ennek hiányában olyan állam képviselőjével, amely érdekei képviseletét ellátja, valamint
 
-g)[^5] – vallásgyakorlás céljából – az egyházi személlyel, a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjával és az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személlyel.
+g)[^7] – vallásgyakorlás céljából – az egyházi személlyel, a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjával és az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személlyel.
 
 (2) Az elismerését kérő és hozzátartozója, valamint az (1) bekezdésben meghatározottaktól különböző más személyek közötti kapcsolattartást (a továbbiakban: látogató fogadása) előzetes egyeztetés szerinti időpontban kell biztosítani. A látogatás gyakorisága nem korlátozható.
 
@@ -24,4 +24,4 @@ a) munkanapon a hivatali munkaidőben, vagy
 
 b) munkaszüneti napon a hivatali munkaidőnek megfelelő időben
 
-[^5]: A 10. § (1) bekezdés g) pontja a 68/2013. (XII. 10.) BM rendelet 11. §-a szerint módosított szöveg.
+[^7]: A 10. § (1) bekezdés g) pontja a 68/2013. (XII. 10.) BM rendelet 11. §-a szerint módosított szöveg.

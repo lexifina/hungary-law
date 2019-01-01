@@ -6,7 +6,7 @@ b) szükség szerint egyéni esetkezelést biztosít,
 
 c) szervezi a szabadidő hasznos eltöltését lehetővé tevő közösségi programokat,
 
-d) ellátja a szabad felhasználású havi költőpénz folyósításával kapcsolatosan rá háruló feladatokat,
+d)[^9]
 
 e) közreműködik a befogadás anyagi feltételei keretében nyújtott ellátások biztosításában,
 
@@ -21,3 +21,5 @@ i) szükség szerint közreműködik az elismerését kérő egészségügyi ell
 j) segítséget nyújt az elismerését kérő hatósági ügyeinek intézésében, szükség esetén segíti a kapcsolattartást, valamint
 
 k) közreműködik a konfliktusok megelőzésében, a kialakult konfliktus rendezésében.
+
+[^9]: A 19. § d) pontját a 35/2018. (XII. 21.) BM rendelet 19. §-a hatályon kívül helyezte.

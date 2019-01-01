@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-29-20-0
 | 2015-04-23 | 2013-29-20-0A.3 | 8/2015. (III. 24.) BM rendelet |
 | 2017-01-01 | 2013-29-20-0A.4 | 58/2016. (XII. 22.) BM rendelet |
 | 2018-07-01 | 2013-29-20-0A.5 | 21/2018. (VI. 29.) BM rendelet |
+| 2019-01-01 | 2013-29-20-0A.6 | 35/2018. (XII. 21.) BM rendelet |
