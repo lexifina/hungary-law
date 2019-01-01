@@ -28,7 +28,7 @@ c) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújt
 
 a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül;
 
-b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, ápolási díj folyósítása alatt a mezőgazdasági őstermelő e tevékenységét személyesen folytatja;
+b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, gyermekek otthongondozási díja, ápolási díj folyósítása alatt a mezőgazdasági őstermelő e tevékenységét személyesen folytatja;
 
 c) csecsemőgondozási díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban egyidejűleg részesül;
 

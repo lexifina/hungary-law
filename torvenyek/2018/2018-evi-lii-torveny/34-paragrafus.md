@@ -8,7 +8,7 @@
 
 3. harmadik állam: a Tbj.-ben ilyenként meghatározott állam;
 
-4. az iskolaszövetkezet és a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagja között fennálló ilyen jogviszony tekintetében tanulmányokat folytató tanuló, hallgató: az a személy, aki
+4. az iskolaszövetkezet és a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagja között fennálló jogviszony tekintetében tanulmányokat folytató tanuló, hallgató: az a személy, aki
 
 a) nappali rendszerű oktatás keretében a nemzeti köznevelésről szóló törvény szerinti tanulói jogviszonnyal rendelkezik,
 
@@ -18,17 +18,19 @@ c) az a) vagy b) pont szerinti jogviszonya megszűnését követően diákigazol
 
 5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat, továbbá az az özvegyi nyugdíjban részesülő személy, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte.
 
-6. kifizető: Art. szerinti kifizető
+6. kifizető: az Art. szerinti kifizető
 
 7. külföldi kifizető: a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel nem rendelkező személy;
 
-8. mezőgazdasági őstermelő: az Szja tv. szerint mezőgazdasági őstermelőnek minősülő természetes személy;
+8. Külföldi kiküldetés esetén alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér;
 
-9. mezőgazdasági kistermelő: az Szja tv. szerint mezőgazdasági kistermelőnek minősülő természetes személy;
+9. mezőgazdasági őstermelő: az Szja tv. szerint mezőgazdasági őstermelőnek minősülő természetes személy;
 
-10. minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény egyéni és társas vállalkozókra vonatkozó rendelkezéseiben említett minimálbért, amely a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel, ennek hiányában az előzőek szerint meghatározott minimálbér;
+10. mezőgazdasági kistermelő: az Szja tv. szerint mezőgazdasági kistermelőnek minősülő természetes személy;
 
-11. munkaviszony:
+11. minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény egyéni és társas vállalkozókra vonatkozó rendelkezéseiben említett minimálbért, amely a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel, ennek hiányában az év első napján érvényes kötelező legkisebb munkabér havi összege;
+
+12. munkaviszony:
 
 a) az Mt-ben meghatározott munkaviszony,
 
@@ -62,8 +64,8 @@ o) az a)–n) alpont szerinti jogviszonynak megfelelő, külföldi jog alapján 
 
 p) a rendvédelmi feladatokat ellátó szerv által a rendvédelmi egészségkárosodási járadék folyósításának időtartama, valamint a honvédségi szervezet vagy a Katonai Nemzetbiztonsági Szolgálat által megállapított honvédelmi egészségkárosodási járadék folyósításának időtartama;
 
-12. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
+13. nevelőszülői foglalkoztatási jogviszony: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszony, amely teljes munkaidős foglalkoztatási jogviszonynak minősül;
 
-13. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy;
+14. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy;
 
-14. társas vállalkozás: a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég.
+15. társas vállalkozás: a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői iroda, a szabadalmi ügyvivői társaság, az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég.

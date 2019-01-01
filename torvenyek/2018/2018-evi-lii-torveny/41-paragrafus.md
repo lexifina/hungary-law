@@ -32,18 +32,10 @@ c) 17/A. § (1) és (3) bekezdése;
 
 9. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 8. § (3) bekezdés b) pontjában az „egészségügyi hozzájárulás-fizetési” szövegrész;
 
-10. a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 4. § (1b) bekezdése;
+10. a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény 3. § 3. pont b) alpontja és 4. § (1b) bekezdése;
 
 11. az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény IX. fejezete;
 
 12. a Katv. 2. § 21. pontja;
 
 13. az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 17. pontja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

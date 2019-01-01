@@ -4,7 +4,7 @@
 
 a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül;
 
-b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, az egyéni vállalkozó, a mezőgazdasági őstermelő e tevékenységét személyesen folytatja;
+b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, gyermekek otthongondozási díja, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, az egyéni vállalkozó e tevékenységét személyesen folytatja;
 
 c) csecsemőgondozási díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban egyidejűleg részesül.
 
@@ -20,7 +20,7 @@ b) fogvatartott.
 
 (5) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, a nem eva adóalany egyéni vállalkozó az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben – az (1)–(4) bekezdésben meghatározottakon túlmenően – nem veszi számításba a hónapnak azt a napját, amelyen a tagja, az egyéni vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban áll, vagy a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat. Az egyidejűleg fennálló több munkaviszony esetében az egyes munkaviszonyokban előírt munkaidőt a heti legalább 36 órás foglalkoztatás megállapításánál össze kell adni.
 
-(6) Amennyiben az (5) bekezdésben meghatározott körülmények a naptári hónap egészében nem állnak fenn, akkor egy-egy naptári napra az adófizetési kötelezettség kiszámításánál egyéni vállalkozó esetében a 6. § (1) bekezdése szerinti adóalap harmincad részét, társas vállalkozó esetében a 8. § (1) bekezdés szerinti adóalap harmincad részét kell figyelembe venni.
+(6) Amennyiben az (5) bekezdésben meghatározott körülmények a naptári hónap egészében nem állnak fenn, akkor egy-egy naptári napra az adófizetési kötelezettség kiszámításánál egyéni vállalkozó esetében a 8. § (3) bekezdése szerinti adóalap harmincad részét, társas vállalkozó esetében a 8. § (1) bekezdés szerinti adóalap harmincad részét kell figyelembe venni.
 
 (7) Az (5) bekezdésben az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányokat a Tbj. vhr. 7/B. §-a szerint kell igazolni.
 

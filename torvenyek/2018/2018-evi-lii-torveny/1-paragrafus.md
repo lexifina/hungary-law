@@ -36,10 +36,12 @@ f) az átalányadózó mezőgazdasági kistermelő által e tevékenysége alapj
 
 g) a tételes költségelszámolást választó, nemleges nyilatkozatot benyújtó őstermelő bevételének 4 százaléka
 
-után.
+Magyarországon adóztatható része után.
 
 (6) Az (1)–(5) bekezdésben meghatározott jövedelem után a szociális hozzájárulási adót nem pénzbeli juttatás esetén is meg kell fizetni.
 
 (7) Adófizetési kötelezettség terheli az egyszerűsített vállalkozói adó alanyának minősülő egyéni vállalkozót (a továbbiakban: eva adóalany egyéni vállalkozó).
 
 (8) Ha a természetes személy ugyanazon adómegállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is szerez, az adóalap megállapításánál az (1)–(3) bekezdéseket megfelelően együttesen kell alkalmazni, azzal az eltéréssel, hogy a (3) bekezdés alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
+
+(9) Adóalapot képez az a jövedelem is, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától.

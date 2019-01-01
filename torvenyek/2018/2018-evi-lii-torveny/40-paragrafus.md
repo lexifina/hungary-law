@@ -4,21 +4,23 @@
 
 ## b) a személyi jövedelemadóról szóló törvény rendelkezései szerinti adókötelezettség alá eső önálló tevékenységből származó bevételből az adóelőleg-alap számításánál a személyi jövedelemadóról szóló törvény rendelkezései szerint figyelembe vett jövedelem;
 
-## c) a tanulószerződés alapján ténylegesen kifizetett díj;
+## c) a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási járadék;
 
-## d) a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási járadék;
+## d) az a)–b) pont hatálya alá tartozó juttatás hiányában a munkaszerződésben meghatározott alapbér vagy – ha a munkát munkavégzésre irányuló egyéb jogviszonyban végzik – a szerződésben meghatározott díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér;
 
-## e) az a)–b) pont hatálya alá tartozó juttatás hiányában a munkaszerződésben meghatározott alapbér vagy – ha a munkát munkavégzésre irányuló egyéb jogviszonyban végzik – a szerződésben meghatározott díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér.
+## e) az egyéni vállalkozó és a társas vállalkozás esetében a szociális hozzájárulási adó alapja.
 
-## (1a) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege,
+## (1a) Nem keletkezik szakképzési hozzájárulás fizetési kötelezettség azokban az esetekben, amikor a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) szerint nem keletkezik adófizetési kötelezettség.
 
-## a) de legfeljebb a kedvezménnyel érintett munkavállalónként havonta a minimálbér összege, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya a munkaerőpiacra lépő munkavállalók után a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) 10. §-a szerint a foglalkoztatás első két évében
+## (1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege,
 
-## b) de legfeljebb a kedvezménnyel érintett munkavállalónként havonta a minimálbér összege, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya a három vagy több gyermeket nevelő munkaerőpiacra lépő személyek után a Szocho tv. 11. §-a szerint a foglalkoztatás első három évében
+## a) de legfeljebb a kedvezménnyel érintett munkavállalónként havonta a minimálbér összege, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a Szocho tv. 11. §-a szerint a foglalkoztatás első két évében
 
-## c) de legfeljebb a kedvezménnyel érintett munkavállalónként havonta a minimálbér kétszeresének összege, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya a megváltozott munkaképességű személyek után a Szocho tv. 12. §-a szerint
+## b) de legfeljebb a kedvezménnyel érintett munkavállalónként havonta a minimálbér összege, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya a három vagy több gyermeket nevelő munkaerőpiacra lépő személyek után a Szocho tv. 12. §-a szerint a foglalkoztatás első három évében
 
-## d) de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya a kutatók foglalkoztatása után a Szocho tv. 14. §-a szerint
+## c) de legfeljebb a kedvezménnyel érintett munkavállalónként havonta a minimálbér kétszeresének összege, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya a megváltozott munkaképességű személyek után a Szocho tv. 13. §-a szerint
+
+## d) de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya a kutatók foglalkoztatása után a Szocho tv. 15. §-a szerint
 
 ## igénybe vehető szociális hozzájárulási adókedvezményt érvényesít.”
 
@@ -26,25 +28,39 @@
 
 (E törvény alkalmazásában)
 
-## „19. kedvezményezett foglalkoztatott: a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho. tv.)
+## „19. kedvezményezett foglalkoztatott: az a személy, aki után a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho. tv.)
 
-## a) 9. §-a szerinti személy,
+## a) 10. §-a szerinti adókedvezmény;
 
-## b) 10. §-a szerinti személy,
+## b) 11. §-a szerinti adókedvezmény;
 
-## c) 11. §-a szerinti személy,
+## c) 12. §-a szerinti adókedvezmény;
 
-## d) 12. §-a szerinti személy;
+## d) 13. § (1) bekezdés a) és c) pontja szerinti adókedvezmény;
 
-## 20. kedvezményezett foglalkoztatott munkabére után érvényesíthető kedvezmény: kedvezményezett foglalkoztatottanként a bruttó munkabér havi összege, de havonta legfeljebb
+## e) 15. § (1) bekezdés a) pontja szerinti adókedvezmény;
 
-## a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a minimálbér 50 százaléka,
+## f) 15. § (1) bekezdés b) pontja szerinti adókedvezmény;
 
-## b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a minimálbér a foglalkoztatás első két évében, továbbá személyenként a minimálbér 50 százaléka a foglalkoztatás harmadik évében,
+## g) 16. §-a szerinti adókedvezmény
 
-## c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a minimálbér a foglalkoztatás első három évében, továbbá személyenként a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében,
+## igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt kell érteni a tagot is;
 
-## d) a 19. pont d) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a minimálbér kétszerese;”
+## 20. kedvezményezett foglalkoztatott után érvényesíthető kedvezmény:
+
+## a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka;
+
+## b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első két évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás harmadik évében;
+
+## c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első három évében, továbbá személyenként a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében;
+
+## d) a 19. pont d) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a foglalkoztatott után megállapított Szocho. tv. szerinti adóalap, de havonta legfeljebb a minimálbér kétszerese;
+
+## e) a 19. pont e) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb 500 ezer forint;
+
+## f) a 19. pont f) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb 100 ezer forint;
+
+## g) a 19. pont g) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként havonta a kutatás-fejlesztési tevékenység közvetlen költségeként elszámolt bérköltség 50 százaléka;”
 
 (2) A Katv. 9. § (1) bekezdés c) és d) pontja helyébe a következő rendelkezés lép:
 

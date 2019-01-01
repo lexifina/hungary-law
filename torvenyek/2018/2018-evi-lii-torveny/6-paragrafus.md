@@ -16,6 +16,8 @@ a) az adóalap megállapításának különös szabályai alkalmazása alól leg
 
 b) tagként a kifizetővel az adóalap megállapításának különös szabályai hatálya alá tartozó jogviszonyban áll.
 
+E bekezdés alkalmazásakor a heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani.
+
 (5) A (4) bekezdés a) pontjában az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányokat a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Kormányrendelet (a továbbiakban: Tbj. vhr.) 7/B. §-a szerint kell igazolni.
 
 (6) A családi gazdaságok nyilvántartásában családi gazdálkodóként bejegyzett azon magánszemély, aki a mezőgazdasági termelő tevékenység tekintetében az egyéni vállalkozói nyilvántartásban szerepel, az adóval kapcsolatos adókötelezettségeket az egyéni vállalkozókra vonatkozó szabályok szerint teljesíti.

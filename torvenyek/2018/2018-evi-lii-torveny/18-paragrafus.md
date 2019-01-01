@@ -18,11 +18,11 @@ f) az egyházi jogi személy és az egyházi szolgálati viszonyban álló egyh�
 
 g) állami projektértékelői jogviszonyból;
 
-h) az Szja tv. szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–g) pont hatálya alá nem tartozó olyan jogviszonyból, amely alapján a tevékenységet Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik,
+h) az Szja tv. szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–g) pont hatálya alá nem tartozó olyan jogviszonyból, amely alapján a tevékenységet Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam, vagy Magyarország által kötött kétoldalú szociális biztonságról szóló egyezményben részes másik állam területén végzik,
 
-származó jövedelmet juttató, az 1. § (1)–(3) bekezdése szerint adófizetésre kötelezett. Az adó összegét természetes személy részére kiállított igazoláson nem tünteti fel. Amennyiben az adóalany természetes személy foglalkoztatására tekintettel kedvezményt vagy támogatást vesz igénybe, az Art. rendelkezései szerinti bevallási kötelezettségét úgy kell teljesítenie, hogy a bevallás adataiból a kedvezmény vagy támogatás jogcíme, alapja és a kedvezmény vagy támogatás összege személyenként megállapítható legyen.
+származó jövedelmet juttató, a 3. § szerint adófizetésre kötelezett kifizető, a Tbj. szerint járulékalapot képező jövedelmet juttató külföldi kifizető. Az adó összegét természetes személy részére kiállított igazoláson nem tünteti fel. Amennyiben az adóalany természetes személy foglalkoztatására tekintettel kedvezményt vagy támogatást vesz igénybe, az Art. rendelkezései szerinti bevallási kötelezettségét úgy kell teljesítenie, hogy a bevallás adataiból a kedvezmény vagy támogatás jogcíme, alapja és a kedvezmény vagy támogatás összege személyenként megállapítható legyen.
 
-(2) Az (1) bekezdésben foglaltakon kívül a kifizető az adót a juttatást követő hónap 12. napjáig fizeti meg és vallja be.
+(2) Az (1) bekezdésben foglaltakon kívül a kifizető az adót a természetes személytől levonja, és a juttatást követő hónap 12. napjáig fizeti meg és vallja be.
 
 (3) Amennyiben a jövedelem nem kifizetőtől, nem külföldi kifizetőtől származik vagy a juttatásból az adó, az adóelőleg levonása nem lehetséges, az adó megállapítására és megfizetésére a természetes személy kötelezett a 27. § rendelkezéseinek megfelelő alkalmazásával.
 
@@ -32,7 +32,13 @@ a) az önkéntes kölcsönös biztosítópénztár a tag kilépése, a várakoz�
 
 b) a számlavezető a nyugdíj-előtakarékossági számlákról szóló törvényben meghatározott számlatulajdonos részére kifizetett, egyéb jövedelemnek minősülő összeg tekintetében,
 
-c) az önkéntes egészségpénztár és az önkéntes önsegélyező pénztár a jogosulatlanul igénybe vett pénztári szolgáltatás esetén,
+c) az önkéntes kölcsönös egészségpénztár, önsegélyező pénztár, egészség- és önsegélyező pénztár
+
+ca) a jogosulatlanul igénybe vett pénztári szolgáltatás
+
+cb) a célzott szolgáltatásként nyújtott kiegészítő önsegélyező szolgáltatás
+
+esetén,
 
 d) az önkéntes kölcsönös biztosítópénztár a természetes személy javára jóváírt támogatói adomány tekintetében,
 

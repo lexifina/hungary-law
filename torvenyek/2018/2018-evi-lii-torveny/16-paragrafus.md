@@ -1,23 +1,15 @@
 ## 16. A kutatás-fejlesztési tevékenység után érvényesíthető adókedvezmény
 
-16. § (1) Az a kifizető, amelynek a saját tevékenységi körben végzett kutatás-fejlesztési tevékenység közvetlen költségére tekintettel a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 7. § (1) bekezdés t) pontja alapján érvényesített adóalap-csökkentés eredményeként negatív adóalapja keletkezik, a társasági adóbevallás benyújtását követő hónaptól – e hónapot az érvényesítésre nyitva álló időtartam első hónapjának tekintve – az adófizetési kötelezettséget eredményező munkaviszonyban foglalkoztatott természetes személyekre tekintettel terhelő adóból adókedvezményt vehet igénybe.
+16. § (1) Adófizetési kötelezettséget eredményező munkaviszonyban kutató-fejlesztő munkavállalót foglalkoztató – vállalkozásként működő saját tevékenységi körben alapkutatást, alkalmazott kutatást, kísérleti fejlesztést végző kutatóhelynek minősülő – kifizető, az őt e munkaviszonyra tekintettel terhelő adóból adókedvezményt vehet igénybe.
 
-(2) Az adókedvezmény egyenlő a Tao. törvény 7. § (1) bekezdés t) pontja alapján érvényesített adóalap-csökkentés eredményeként keletkező negatív adóalap 50 százalékának a Tao. törvény 19. §-a szerinti adókulccsal számított összegével, de havonta legfeljebb a kutatás-fejlesztési tevékenység közvetlen költségei között megjelenő, munkaviszonyban foglalkoztatott természetes személyek vonatkozásában, az e fejezet alapján érvényesített kedvezmények után fennmaradó, az e § szerinti adókedvezmény nélkül számított adókötelezettség összegével.
+(2) Az adókedvezmény összegét a kifizető havonta állapítja meg. A kedvezmény egyenlő a tárgyhónapban a kutatás-fejlesztési tevékenység közvetlen költségeként elszámolt bérköltség után a 2. § (1) bekezdés szerinti adómérték 50 százalékával megállapított összeggel.
 
-(3) Az adókedvezmény az érvényesítésének első hónapjától számított 12 hónapig vehető igénybe.
+(3) A kedvezmény igénybevétele esetén a kifizető a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés t) pontja alapján a saját tevékenységi körben végzett kutatás-fejlesztési tevékenység közvetlen költségeként nem vonhatja le a kutató-fejlesztő munkavállaló azon munkabérének a hozzá kapcsolódó szociális hozzájárulási adóval és szakképzési hozzájárulással növelt összegét, amelyre e § szerinti kedvezményt érvényesít.
 
-(4) Az adókedvezmény az alábbi feltételek együttes fennállása esetén érvényesíthető:
+(4) E § alkalmazásában
 
-a) a kifizető Tao. törvény szerinti összes bevételének 40 százaléka a negatív adózás előtti eredmény keletkezésének adóévében (a továbbiakban e § alkalmazásában: kedvezményezett adóév) kutatás-fejlesztési tevékenységből származik;
+a) kutatóhely: a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: Innovációs tv.) szerinti kutatóhely,
 
-b) a kifizető külső gyakorlóhelyként – kis- és középvállalkozás legalább egy fő, nagyvállalkozás legalább öt fő – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézménnyel hallgatói jogviszonyban álló személyt legalább egybefüggő három hónap időtartamra fogad a kedvezményezett adóévben;
+b) kutató-fejlesztő: az Innovációs tv. szerinti kutató-fejlesztő,
 
-c) a kifizető által foglalkoztatott, az Innovációs tv. szerinti kutató-fejlesztők átlagos statisztikai állományi létszáma a kedvezményezett adóévben az ezen adóévet közvetlenül megelőző adóévhez képest legfeljebb 10 százalékos mértékben csökken.
-
-(5) Amennyiben a (4) bekezdésben foglalt feltételek a kifizető tekintetében nem állnak fenn és a kedvezményezett adóévben átalakulásra (egyesülésre, szétválásra) került sor, akkor a (4) bekezdés szerinti feltételek teljesítése szempontjából a jogelőd teljesítményét is figyelembe lehet venni.
-
-(6) Az adókedvezmény feltételeinek teljesítését az állami adó- és vámhatóság az adókedvezmény első igénybevételét követő harmadik naptári év végéig legalább egyszer ellenőrzi.
-
-(7) E § alkalmazásában kutatás-fejlesztési tevékenység az Innovációs tv. szerinti kutatás-fejlesztési tevékenység.
-
-(8) Az e §-ban szabályozott adókedvezmény érvényesítése nem zárja ki az e fejezetben szabályozott más kedvezmények igénybevételét.
+c) alapkutatás, alkalmazott kutatás, kísérleti fejlesztés: az Innovációs tv. szerinti alapkutatás, alkalmazott kutatás, kísérleti fejlesztés.
