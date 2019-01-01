@@ -1,5 +1,7 @@
 ## 27. A bűnügyi igazgatóságok hatásköre
 
-87. § (1) A bűnügyi igazgatóságok a 83–86. §-ban foglaltak figyelembevételével végzik a Be. 36. § (2) bekezdésében meghatározott bűncselekmények megelőzését, felderítését, valamint nyomozását.
+87. § (1)[^138] A bűnügyi igazgatóságok a 83–86. §-ban foglaltak figyelembevételével nyomozó hatósági jogkört gyakorolnak.
 
 (2) A bűnügyi igazgatóságok hatáskörükben ellátják a NAV tv. IV. Fejezete szerinti felhatalmazott szerv feladatait.
+
+[^138]: A 87. § (1) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.

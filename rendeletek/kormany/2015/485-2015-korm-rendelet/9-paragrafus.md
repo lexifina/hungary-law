@@ -2,7 +2,7 @@
 
 ## 6. A pénzügyi információs egységként folytatott tevékenység
 
-## 9. §[^17] A Kormány a Központi Irányítás szervezetén belül működő Pénzmosás és Terrorizmusfinanszírozás Elleni Irodát jelöli ki
+## 9. §[^18] A Kormány a Központi Irányítás szervezetén belül működő Pénzmosás és Terrorizmusfinanszírozás Elleni Irodát jelöli ki
 
 a) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény (a továbbiakban: Pmt.) szerinti pénzügyi információs egységként működő hatóság,
 
@@ -12,4 +12,4 @@ ba) pénzügyi és vagyoni és
 
 bb) pénzeszközök átutalására vonatkozó
 
-[^17]: A 9. § a 214/2017. (VII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 9. § a 214/2017. (VII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

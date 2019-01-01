@@ -1,6 +1,6 @@
-## 43. §[^70]
+## 43. §[^75]
 
-44. § (1)[^71] Jövedéki ügyben az eljárást
+44. § (1)[^76] Jövedéki ügyben az eljárást
 
 a) az engedélyes, – az e) pontban foglalt kivétellel – a nyilvántartásba vett személy és a hivatalos zár felhasználó telephelye,
 
@@ -14,7 +14,7 @@ e) a regisztrált szárított, illetve fermentált dohányt termelő, előállí
 
 szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi.
 
-(2)[^72] Az (1) bekezdéstől eltérően a 10. alcímben foglalt általános illetékességi szabályok alkalmazandók:
+(2)[^77] Az (1) bekezdéstől eltérően a 10. alcímben foglalt általános illetékességi szabályok alkalmazandók:
 
 a) az adóztatási,
 
@@ -30,6 +30,6 @@ e) a Jöt. 44. § (1) bekezdése, 47. §-a, 62. §-a és 69. §-a szerinti tevé
 
 (3) A dohánytermék-kiskereskedelmi piac felügyelete körében végzett ellenőrzést a dohánybolt vagy elkülönített hely fekvése, illetve a jogosulatlan tevékenység végzésének helye szerinti megyei igazgatóság és a Repülőtéri Igazgatóság végzi.
 
-[^70]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
-[^71]: A 44. § (1) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^72]: A 44. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^75]: A 43. §-t a 88/2016. (IV. 29.) Korm. rendelet 21. § 1. pontja hatályon kívül helyezte.
+[^76]: A 44. § (1) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^77]: A 44. § (2) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

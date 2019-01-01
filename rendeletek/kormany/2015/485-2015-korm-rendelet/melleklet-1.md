@@ -1,4 +1,4 @@
-## 99. §[^140]
+## 99. §[^168]
 
 1. melléklet a 485/2015. (XII. 29.) Korm. rendelethez
 
@@ -18,7 +18,7 @@ B) A Nemzeti Adó- és Vámhivatal területi szervei
 
 3. A Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága, székhelye Budapest.
 
-4.[^141] A Nemzeti Adó- és Vámhivatal Repülőtéri Igazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9-12; továbbá nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légi közlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
+4.[^169] A Nemzeti Adó- és Vámhivatal Repülőtéri Igazgatósága, székhelye Budapest, illetékességi területe Budapest Liszt Ferenc Nemzetközi Repülőtér; Airport Business Park, 2220 Vecsés Lőrinci út 59–61. (helyrajzi szám: Vecsés 0148/41 és 0148/43); Airport City, 2220 Vecsés (helyrajzi szám: Vecsés 6030/9-12; továbbá nyilvános és nem nyilvános repülőtereken az egységes vámtechnológiai rend és a légi közlekedés védelme szempontjából a NAV-ra háruló feladatok tekintetében Magyarország területe, a légi forgalom tekintetében Pest megye közigazgatási területe.
 
 5. A Nemzeti Adó- és Vámhivatal Bevetési Igazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.
 
@@ -90,5 +90,5 @@ g) a Nemzeti Adó- és Vámhivatal Nyugat-dunántúli Bűnügyi Igazgatósága, 
 
 10. A Nemzeti Adó- és Vámhivatal Gazdasági Ellátó Igazgatósága, székhelye Budapest.
 
-[^140]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^141]: Az 1. melléklet B) rész 4. pontja a 475/2017. (XII. 28.) Korm. rendelet 80. § 7. pontja szerint módosított szöveg.
+[^168]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^169]: Az 1. melléklet B) rész 4. pontja a 475/2017. (XII. 28.) Korm. rendelet 80. § 7. pontja szerint módosított szöveg.

@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-485-20-
 | 2017-07-26 | 2015-485-20-22.8 | 214/2017. (VII. 25.) Korm. rendelet |
 | 2017-11-17 | 2015-485-20-22.9 | 345/2017. (XI. 16.) Korm. rendelet |
 | 2018-01-01 | 2015-485-20-22.10 | 475/2017. (XII. 28.) Korm. rendelet |
+| 2019-01-01 | 2015-485-20-22.11 | 311/2018. (XII. 27.) Korm. rendelet |

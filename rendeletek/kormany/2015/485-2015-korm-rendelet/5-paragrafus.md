@@ -1,4 +1,4 @@
-## 4. § Felülellenőrzések lefolytatására a Központi Irányítás jogosult.
+## 4. §[^3] Felülellenőrzés, valamint felülellenőrzés során a tényállás tisztázása érdekében szükséges jogkövetési vizsgálat és az azt követő hatósági eljárás lefolytatására a Központi Irányítás jogosult.
 
 ## 2. Vám- és jövedéki, valamint rendészeti ügyek
 
@@ -24,32 +24,33 @@ i) végzi az egyes ásványolajtermékekkel elkövetett nemzetközi visszaélés
 
 j) ellátja az Európai Unió és tagállamai, valamint a dohányipar szereplői között a dohány feketekereskedelem visszaszorításáért kötött együttműködési megállapodás alapján a különböző dohány-csalással kapcsolatos ügyben a kapcsolattartási feladatokat;
 
-k)[^3] jogszabályi kijelölés alapján szakhatóságként jár el;
+k)[^4] jogszabályi kijelölés alapján szakhatóságként jár el;
 
-l)[^4]
+l)[^5] ellátja az Uniós Vámkódex értelmében történő információcserét és információáramlást szolgáló elektronikus rendszerek kifejlesztésének, fenntartásának és alkalmazásának technikai szabályairól szóló, 2017. november 14-i EU 2017/2089 Bizottsági végrehajtási rendelet 3. cikke, 14. cikk (3) bekezdése, 18–19. cikke, 20. cikk (1), (2), (5) és (6) bekezdése, 21. cikk (3) bekezdése, 24. cikke, 27. cikke és a 28. cikke által meghatározott feladatokat;
 
 m) képviseli a NAV-ot a Határellenőrzési Munkacsoportban,
 
-n)[^5] ellátja a vámjogszabályok alkalmazása tekintetében az Európai Bizottság felé teljesítendő tagállami feladatokat;
+n)[^6] ellátja a vámjogszabályok alkalmazása tekintetében az Európai Bizottság felé teljesítendő tagállami feladatokat;
 
-o)[^6] ellátja a több tagállamot érintő engedélyek másik tagállam vámhatósága részére történő továbbításával kapcsolatos feladatokat;
+o)[^7] ellátja a több tagállamot érintő engedélyek másik tagállam vámhatósága részére történő továbbításával kapcsolatos feladatokat;
 
-p)[^7] közzéteszi a jövedéki adóról szóló 2016. évi LXVIII. törvényben (a továbbiakban: Jöt.) előírt, az üzemanyagok adómértékének megállapításához szükséges átlagos árat;
+p)[^8] közzéteszi a jövedéki adóról szóló 2016. évi LXVIII. törvényben (a továbbiakban: Jöt.) előírt, az üzemanyagok adómértékének megállapításához szükséges átlagos árat;
 
-q)[^8] közzéteszi a Jöt.-ben előírt, a dohánygyártmányok értékesítése során alkalmazható kiskereskedelmi eladási árat;
+q)[^9] közzéteszi a Jöt.-ben előírt, a dohánygyártmányok értékesítése során alkalmazható kiskereskedelmi eladási árat;
 
-r)[^9] közzéteszi az állami adó- és vámhatóság részére jogszabályban meghatározott kötelezettség alapján megjelenítendő formanyomtatványokat;
+r)[^10] közzéteszi az állami adó- és vámhatóság részére jogszabályban meghatározott kötelezettség alapján megjelenítendő formanyomtatványokat;
 
-s)[^10] jogszabály erre vonatkozó rendelkezése alapján közzéteszi a közhiteles nyilvántartás adatait;
+s)[^11] jogszabály erre vonatkozó rendelkezése alapján közzéteszi a közhiteles nyilvántartás adatait;
 
-t)[^11] végzi a megújuló energia közlekedési célú felhasználásának teljesítésével, illetve az közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentésével kapcsolatosan az állami adó- és vámhatóság részére jogszabályban meghatározott adatgyűjtési és adatszolgáltatási feladatokat.
+t)[^12] végzi a megújuló energia közlekedési célú felhasználásának teljesítésével, illetve az közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentésével kapcsolatosan az állami adó- és vámhatóság részére jogszabályban meghatározott adatgyűjtési és adatszolgáltatási feladatokat.
 
-[^3]: Az 5. § k) pontja a 475/2017. (XII. 28.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 5. § l) pontját a 475/2017. (XII. 28.) Korm. rendelet 80. § 1. pontja hatályon kívül helyezte.
-[^5]: Az 5. § n) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
-[^6]: Az 5. § o) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
-[^7]: Az 5. § p) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege e módosító rendelet 10. § (11) bekezdése szerint módosított szöveg.
-[^8]: Az 5. § q) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^9]: Az 5. § r) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^10]: Az 5. § s) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 475/2017. (XII. 28.) Korm. rendelet 79. § 1. pontja szerint módosított szöveg.
-[^11]: Az 5. § t) pontját a 475/2017. (XII. 28.) Korm. rendelet 68. § (2) bekezdése iktatta be.
+[^3]: A 4. § a 311/2018. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 5. § k) pontja a 475/2017. (XII. 28.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § l) pontját a 475/2017. (XII. 28.) Korm. rendelet 80. § 1. pontja hatályon kívül helyezte, újonnan a 311/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^6]: Az 5. § n) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 5. § o) pontját a 88/2016. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 5. § p) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege e módosító rendelet 10. § (11) bekezdése szerint módosított szöveg.
+[^9]: Az 5. § q) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^10]: Az 5. § r) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^11]: Az 5. § s) pontját a 419/2016. (XII. 14.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 475/2017. (XII. 28.) Korm. rendelet 79. § 1. pontja szerint módosított szöveg.
+[^12]: Az 5. § t) pontját a 475/2017. (XII. 28.) Korm. rendelet 68. § (2) bekezdése iktatta be.

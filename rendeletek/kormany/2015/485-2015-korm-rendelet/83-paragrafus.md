@@ -1,9 +1,11 @@
 ## 26. A Bűnügyi Főigazgatóság hatásköre
 
-## 83. § A Bűnügyi Főigazgatóság hatáskörébe tartozik a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által a NAV hatáskörébe utalt bűncselekmények tekintetében
+## 83. §[^129] A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) által a NAV hatáskörébe utalt bűncselekmények vonatkozásában a Bűnügyi Főigazgatóság gyakorolja a nyomozó hatósági jogkört:
 
-a) az egy milliárd forintot meghaladó értékre üzletszerűen vagy bűnszövetségben elkövetett bűncselekmények nyomozása;
+a) az egy milliárd forintot meghaladó értékre üzletszerűen vagy bűnszövetségben elkövetett bűncselekmények esetében;
 
-b) a bűnszervezetben elkövetett bűncselekmények nyomozása;
+b) a bűnszervezetben elkövetett bűncselekmények esetében;
 
-c) az a) és b) pontba nem tartozó olyan bűncselekmények nyomozása, amelyeket az elkövető személye, vagy az elkövetés körülményei, illetve a bűncselekmény társadalomra veszélyességének kiemelkedő foka miatt a Bűnügyi Főigazgatóság főigazgatója önállóan, vagy a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős helyettes államtitkár javaslatára a Bűnügyi Főigazgatóság hatáskörébe von, illetve utal.
+c) az a) és b) pontba nem tartozó olyan bűncselekmények esetében, amelyeket az elkövető személye vagy az elkövetés körülményei, illetve a bűncselekmény társadalomra veszélyességének kiemelkedő foka miatt a Bűnügyi Főigazgatóság főigazgatója saját hatáskörben, vagy a bűnmegelőzési és bűnüldözési feladatok ellátásáért felelős szakmai helyettes javaslatára a Bűnügyi Főigazgatóság hatáskörébe von, illetve utal.
+
+[^129]: A 83. § a 311/2018. (XII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
