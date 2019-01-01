@@ -1,4 +1,4 @@
-## 11. §[^4]
+## 11. §[^1]
 
 12. § (1) Az adatszolgáltató – a (2) bekezdésben foglaltak kivételével – a felügyeleti jelentést, valamint a 680/2014/EU bizottsági végrehajtási rendelet szerinti adatszolgáltatásokat az MNB által meghatározott elektronikus formában, fokozott biztonságú vagy minősített elektronikus aláírással ellátva az MNB „Kihelyezett Adatküldő Program” megnevezésű jelentésfogadó rendszerén (a továbbiakban: KAP rendszer) keresztül teljesíti. A KAP rendszer használatát segítő útmutatást a KAP rendszer MNB honlapján közzétett Felhasználói kézikönyve tartalmazza.
 
@@ -12,4 +12,4 @@
 
 (6) Az adatszolgáltatást az MNB akkor tekinti teljesítettnek, ha az adatszolgáltató elektronikus úton megküldött felügyeleti jelentése a KAP rendszerben „feldolgozott” státuszról szóló üzenetet, az ERA rendszerben az érkeztetési számot tartalmazó automatikus üzenetet kapott.
 
-[^4]: A 11. § a 15. § (4) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^1]: A 11. § a 15. § (4) bekezdése alapján 2019. július 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 7. §[^1]
+8. § (1) A hitelintézet, a pénzügyi vállalkozás, valamint az ezen típusú EGT-fióktelepek az általuk forgalmazott hitel- és pénzügyi lízing-, betéti és megtakarítási, valamint számlatermékekre vonatkozó felügyeleti jelentést a 10. mellékletben foglaltaknak megfelelő tartalommal, formában, gyakorisággal és határidőre teljesítik az MNB részére.
 
-[^1]: A 7. § a 15. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+(2) A kitöltésre vonatkozó általános előírásokat az 1. melléklet, a kitöltésre vonatkozó részletes előírásokat a 11. melléklet tartalmazza.
