@@ -38,7 +38,10 @@ b) az újraélesztési feladatok ellátására szervezett szakmai egység (a fel
 
 (8) A (6) bekezdés szerinti vezető döntése alapján az intézmény, illetve a (2) bekezdés b) pontja szerinti sürgősségi egység progresszivitását meghaladó esetben, továbbá a sürgősségi feladatok ellátásának akadályoztatása esetén a beteg továbbszállítása, illetve – a fogadó intézménnyel történt előzetes egyeztetést követően – más intézménybe történő áthelyezése indokolt.
 
+(9)[^5] A 4602 szakmakódú szervezeti egységgel rendelkező egészségügyi szolgáltatónak a sürgősségi betegellátó rendszerben a Magyar Sürgősségi Triázs Rendszert kell alkalmaznia. A sürgősségi osztály területére való belépést követően a lehető legrövidebb időn belül rögzítenie kell a beteget a sürgősségi ellátás informatikai rendszerében, valamint ennek során a megjelenés informatikai rendszerben történt rögzítését követő tíz percen belül a beteg állapotának súlyossága szerint meg kell határoznia a betegellátás szükséges szintjét és időbeliségét. Az egészségügyi szolgáltató a mentővel beszállított beteg informatikai rendszerben történő rögzítésére a mentőegység sürgősségi osztályra történő érkezésének menetlevélen dokumentált időpontjától számított öt percen belül köteles.
+
 [^1]: A 4. § (2) bekezdés b) pontja a 41/2014. (VI. 30.) EMMI rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: A 4. § (3) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^3]: A 4. § (4) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^4]: A 4. § (6) bekezdése a 41/2014. (VI. 30.) EMMI rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^5]: A 4. § (9) bekezdését a 44/2018. (XII. 19.) EMMI rendelet 3. §-a iktatta be.

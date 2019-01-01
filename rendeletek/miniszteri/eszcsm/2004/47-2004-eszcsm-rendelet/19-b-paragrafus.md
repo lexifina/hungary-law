@@ -1,4 +1,4 @@
-19/B. §[^42] (1) A 19/A. § (1) bekezdése szerinti adatbázis az alábbi adatokat tartalmazza:
+19/B. §[^44] (1) A 19/A. § (1) bekezdése szerinti adatbázis az alábbi adatokat tartalmazza:
 
 a) a sürgősségi betegellátó rendszerben való részvétel módját, naptári napra megadott időpontját, és az ellátási terület pontos megjelölését,
 
@@ -32,7 +32,7 @@ ej) a sürgősségi ellátásban résztvevő aktív fekvőbeteg-szakellátást v
 
 (2) Az (1) bekezdés szerinti adatokat a sürgősségi betegellátást végző fekvőbeteg-gyógyintézet informatikai rendszere útján biztosítja.
 
-(3)[^43] Az (1) bekezdés szerinti adatokhoz – az Eütv.-ben meghatározott feladatai ellátása céljából – az országos tisztifőorvos az OMSZ részére hozzáférést biztosít.
+(3)[^45] Az (1) bekezdés szerinti adatokhoz – az Eütv.-ben meghatározott feladatai ellátása céljából – az országos tisztifőorvos az OMSZ részére hozzáférést biztosít.
 
-[^42]: A 19/B. §-t a 21/2012. (IV. 4.) NEFMI rendelet 45. §-a iktatta be.
-[^43]: A 19/B. § (3) bekezdését a 41/2014. (VI. 30.) EMMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
+[^44]: A 19/B. §-t a 21/2012. (IV. 4.) NEFMI rendelet 45. §-a iktatta be.
+[^45]: A 19/B. § (3) bekezdését a 41/2014. (VI. 30.) EMMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 40. § e) pontja szerint módosított szöveg.
