@@ -1,6 +1,6 @@
-## 16–17. §[^13]
+## 16–17. §[^17]
 
-18. § (1)[^14]
+18. § (1)[^18]
 
 (2) Az elfogadott exportőri engedélykérelemhez csatolni kell az alábbi iratokat:
 
@@ -16,5 +16,5 @@ e) nyilatkozatot arra vonatkozóan, hogy könyvelését hol vezetik, amennyiben 
 
 f) nyilatkozatot azon személy megnevezéséről és elérhetőségéről, aki felelős a preferenciára jogosító nyilatkozatok kiadásáért.
 
-[^13]: A 16–17. §-t a 48/2017. (XII. 29.) NGM rendelet 17. § d) pontja hatályon kívül helyezte.
-[^14]: A 18. § (1) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § e) pontja hatályon kívül helyezte.
+[^17]: A 16–17. §-t a 48/2017. (XII. 29.) NGM rendelet 17. § d) pontja hatályon kívül helyezte.
+[^18]: A 18. § (1) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § e) pontja hatályon kívül helyezte.

@@ -22,6 +22,6 @@ Kitöltési útmutató a Módosító lap alkalmazásához
 
 1. A Módosító lap vagy azzal egyező adattartalmú és formátumú bizonylat a nyilatkozattevő által – fénymásolás útján, nyomdailag vagy más módon szabadon – előállított adatlap.
 
-2.[^37] A Módosító lapot egy példányban kiállítva kell benyújtani a kérelem elbírálására illetékes vámszervhez.
+2.[^45] A Módosító lapot egy példányban kiállítva kell benyújtani a kérelem elbírálására illetékes vámszervhez.
 
-[^37]: A 3. melléklet „Kitöltési útmutató a Módosító lap alkalmazásához” alcím 2. ponta a 37/2017. (XI. 6.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^45]: A 3. melléklet „Kitöltési útmutató a Módosító lap alkalmazásához” alcím 2. ponta a 37/2017. (XI. 6.) NGM rendelet 8. §-a szerint módosított szöveg.

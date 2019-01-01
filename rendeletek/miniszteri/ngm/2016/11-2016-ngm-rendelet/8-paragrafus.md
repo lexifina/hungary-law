@@ -6,7 +6,7 @@
 
 (2) Az áru kérelemre végzett kísérése esetén a tényleges költséget, de legalább óránként és a hivatalos kíséretet végző személyenként 5000 forint díjat kell fizetni. A kísérés tényleges költségének elemeit és számításának módját a NAV vezetője tájékoztatásban teszi közzé.
 
-(3)[^6]
+(3)[^7]
 
 (4) A szemledíjak összege:
 
@@ -50,7 +50,7 @@ a) az üzemeltető maga a külkereskedelmi forgalmat bonyolító személy, aki s
 
 b) a vámeljárás során az üzemeltető közvetlen vagy közvetett képviselőként jár el.
 
-(17)[^7] Árunak a megsemmisítés helyszínére a vámhatóság tulajdonát képező gépjárművel történő szállításával kapcsolatban felmerült tényleges költségelemeket és a költség számításának módját a NAV vezetője tájékoztatásban teszi közzé.
+(17)[^8] Árunak a megsemmisítés helyszínére a vámhatóság tulajdonát képező gépjárművel történő szállításával kapcsolatban felmerült tényleges költségelemeket és a költség számításának módját a NAV vezetője tájékoztatásban teszi közzé.
 
-[^6]: A 8. § (3) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § c) pontja hatályon kívül helyezte.
-[^7]: A 8. § (17) bekezdését a 37/2017. (XI. 6.) NGM rendelet 6. §-a iktatta be.
+[^7]: A 8. § (3) bekezdését a 48/2017. (XII. 29.) NGM rendelet 17. § c) pontja hatályon kívül helyezte.
+[^8]: A 8. § (17) bekezdését a 37/2017. (XI. 6.) NGM rendelet 6. §-a iktatta be.
