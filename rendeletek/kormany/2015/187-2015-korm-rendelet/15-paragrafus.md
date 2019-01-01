@@ -10,6 +10,6 @@ d) a Honvédelmi Tanács és a Kormány speciális működési területén szakm
 
 e) a honvédelemért felelős miniszter irányítása alatt álló központi hivatalnál, szervnél, szervezetnél, valamint tulajdonosi joggyakorlása alatt álló gazdasági társaságnál működő – a)–d) pontba nem tartozó – elektronikus információs rendszerek.
 
-(2)[^18] Az (1) bekezdés szerinti zárt célú elektronikus információs rendszerekkel kapcsolatos hatósági, biztonsági felügyeleti feladatok ellátására a Kormány a Katonai Nemzetbiztonsági Szolgálat főigazgatóját jelöli ki.
+(2)[^23] Az (1) bekezdés szerinti zárt célú elektronikus információs rendszerekkel kapcsolatos hatósági, biztonsági felügyeleti feladatok ellátására a Kormány a Katonai Nemzetbiztonsági Szolgálat főigazgatóját jelöli ki.
 
-[^18]: A 15. § (2) bekezdése a 22/2016. (II. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^23]: A 15. § (2) bekezdése a 22/2016. (II. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.

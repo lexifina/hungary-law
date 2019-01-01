@@ -18,7 +18,7 @@ g) Büntetés-végrehajtás Országos Parancsnokság,
 
 h) Országos Rendőr-főkapitányság és
 
-i)[^17] Terrorelhárítási Információs és Bűnügyi Elemző Központ.
+i)[^22] Terrorelhárítási Információs és Bűnügyi Elemző Központ.
 
 (2) Az (1) bekezdés szerinti szerveknél működő zárt célú elektronikus információs rendszerek a következők:
 
@@ -30,4 +30,4 @@ c) rendészeti, nemzetbiztonsági területen szakmai feladatok támogatását sz
 
 (3) A (2) bekezdés szerinti zárt célú elektronikus információs rendszerekkel kapcsolatos hatósági, biztonsági felügyeleti feladatok ellátására a Kormány a zárt célú elektronikus információs rendszert működtető szerv vezetőjét jelöli ki.
 
-[^17]: A 14. § (1) bekezdés i) pontja a 186/2016. (VII. 13.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^22]: A 14. § (1) bekezdés i) pontja a 186/2016. (VII. 13.) Korm. rendelet 16. §-ával megállapított szöveg.

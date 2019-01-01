@@ -1,5 +1,3 @@
-## 11. Jogorvoslat
+## 11.[^36]
 
-28. § (1) A hatóság határozatai ellen újrafelvételi eljárásnak nincs helye.
-
-(2) A hatóság határozatainak felügyeleti jogkörben való visszavonására, módosítására nincs lehetőség.
+[^36]: A 11. alcímet (28. §) a 323/2018. (XII. 28.) Korm. rendelet 54. §-a hatályon kívül helyezte.

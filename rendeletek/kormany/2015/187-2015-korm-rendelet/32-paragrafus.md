@@ -1,12 +1,7 @@
-## 31. §[^29] Ez a rendelet a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i 2016/1148/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+32. §[^40] (1) Az egyedüli kapcsolattartó pont a 29/A. § (2) bekezdés a)–d) pontja szerinti információkat első alkalommal 2018. november 9-éig, ezt követően legalább kétévente megküldi az Európai Bizottság részére.
 
-32. §[^30] (1) A hatóság a 6. § (1) bekezdés l) pontja szerinti stratégiát az elfogadástól számított három hónapon belül küldi meg az Európai Bizottságnak.
+(2) Az egyedüli kapcsolattartó pont 2018. augusztus 9-ig, azt követően pedig évente egyszer köteles összefoglaló jelentést benyújtani az Irányelv szerinti együttműködési csoportnak az alapvető szolgáltatásokat nyújtó szolgáltatóktól, valamint a bejelentés-köteles szolgáltatóktól kapott bejelentésekről, és a jelentésnek tartalmaznia kell a bejelentések számát, a bejelentett biztonsági események jellegét, valamint a hozott intézkedéseket.
 
-(2) A hatóság a 6. § (1a) bekezdés a)–d) pontja szerinti információkat első alkalommal 2018. november 9-éig, ezt követően legalább kétévente megküldi az Európai Bizottság részére.
+(3) A BM OKF első alkalommal 2018. október 31-éig, ezt követően legalább kétévente tájékoztatást nyújt az egyedüli kapcsolattartó pont részére a 25. § (5) bekezdés szerinti információkról.
 
-(3) A hatóság a 6. § (1a) bekezdés e) pontja szerinti információkat első alkalommal 2018. május 9-éig, jogszabály-módosítás esetén a hatálybalépést követő két hónapon belül megküldi az Európai Bizottság részére.
-
-(4) A BM OKF első alkalommal 2018. október 31-éig, ezt követően legalább kétévente tájékoztatást nyújt a Nemzeti Elektronikus Információbiztonsági Hatóság részére a 25. § (5) bekezdés szerinti információkról.
-
-[^29]: A 31. §-t a 32. § a) pontja hatályon kívül helyezte, újonnan a 441/2016. (XII. 16.) Korm. rendelet 60. §-a iktatta be.
-[^30]: A 32. § a 394/2017. (XII. 13.) Korm. rendelet 7. § (7) bekezdésével megállapított szöveg.
+[^40]: A 32. § a 323/2018. (XII. 28.) Korm. rendelet 51. §-ával megállapított szöveg.
