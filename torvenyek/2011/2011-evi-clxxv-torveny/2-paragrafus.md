@@ -24,6 +24,10 @@ c) – a közalapítvány és a pártalapítvány kivételével – az alapítv�
 
 8. feladatfinanszírozást szolgáló költségvetési támogatás: valamely közfeladat államháztartáson kívüli szervezet által történő ellátását, valamint e feladat ellátásához közvetlenül kapcsolódó, arányos működési költségeket finanszírozó költségvetési támogatás;
 
+8a. civil szervezetek normatív támogatása: a civil szervezetek által gyűjtött adományok után járó, a gyűjtött adomány mértékével arányos az 56. § (1) bekezdés a) pontja alapján nyújtott támogatás;
+
+8b. civil szervezetek egyszerűsített támogatása: a helyi vagy területi hatókörű civil szervezetek számára az 56. § (1) bekezdés h) pontja alapján egyszerűsített formában, jogosultsági alapon nyújtott támogatás a helyi közösség érdekében végzett tevékenységük támogatására;
+
 9. felelős személy: a civil szervezet vezető tisztségviselője, létesítő okiratában és belső szabályzataiban vezető tisztségviselőként megjelölt vagy egyébként érdemi döntési jogkörrel rendelkező személy, valamint az a személy, aki a létesítő okirat felhatalmazása, a civil szervezet döntéshozó szervének határozata vagy szerződés alapján a civil szervezet képviseletére vagy pénzforgalmi számlája feletti rendelkezésre jogosult;
 
 10. gazdálkodó tevékenység: azon tevékenységek összessége, amelyek a civil szervezet vagyoni, pénzügyi, jövedelmi helyzetére kiható gazdasági eseményt eredményeznek;
@@ -38,7 +42,7 @@ c) a pénzeszközök betétbe, értékpapírba, társasági részesedésbe tört
 
 d) az ingatlan megszerzését, használatának átengedését és átruházását;
 
-12. határon túli civil szervezet: határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében tevékenykedő, más állam területén működő nonprofit egyesület és alapítvány;
+12. határon túli civil szervezet: a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében tevékenykedő, más állam területén, annak jogszabályai alapján működő civil szervezet;
 
 13. hatókör: civil szervezet működésének földrajzi kiterjedése, amely lehet:
 

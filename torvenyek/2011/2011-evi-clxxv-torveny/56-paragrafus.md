@@ -2,7 +2,7 @@
 
 56. § (1) Az Alap terhére az alábbi célokra teljesíthetők kifizetések:
 
-a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltüntetett adományok értéke után járó öt százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít;
+a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltüntetett adományok értéke után járó tíz százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít;
 
 b) civil szervezetek működésének támogatása;
 
@@ -16,7 +16,7 @@ f) civil szférával kapcsolatos szolgáltató, tanácsadó, oktatási, fejleszt
 
 g) civil szférát bemutató kiadványok, elektronikus és írott szakmai sajtó támogatása;
 
-h) helyi vagy területi hatókörű civil szervezetek egyszerűsített támogatása, amelyet a civil szervezet alapcél szerinti tevékenységéhez kapcsolódó költségeinek fedezésére fordít.
+h) helyi vagy területi hatókörű civil szervezetek egyszerűsített támogatása, amelyet a civil szervezet alapcél szerinti közösségteremtő, a hatókörébe tartozó közösség érdekében végzett tevékenységéhez kapcsolódó költségeinek fedezésére fordít;
 
 i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési Alap Tanácsa (továbbiakban: Tanács), illetve a kollégiumok egységes elvek mentén meghatározott, forrásautomatizmus biztosításáról szóló döntései alapján;
 
@@ -28,11 +28,9 @@ l) civil információs centrumok működésének támogatása.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 
-a) kilencven százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–j) pontja szerinti,
+a) nyolcvanöt százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–j) pontja szerinti,
 
-b)
-
-c) tíz százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–j) pontja szerinti
+b) tizenöt százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–g) és i)–j) pontjai szerinti
 
 költségvetési támogatásokra történhet kötelezettségvállalás.
 

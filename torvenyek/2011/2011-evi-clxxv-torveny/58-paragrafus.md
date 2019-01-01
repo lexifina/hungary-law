@@ -22,7 +22,7 @@ g) egyéb bevételek.
 
 (4)
 
-(5) Az (1) bekezdés d) pontja szerinti összeg az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdése szerinti kedvezményezetteknek felajánlható és ténylegesen kiutalt összeg különbsége csökkentve az Alap működtetésére az Alap kezelő szervének költségvetésében tervezett összeggel.
+(5) Az (1) bekezdés d) pontja szerinti összeg az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdése szerinti kedvezményezetteknek felajánlható és ténylegesen kiutalt összeg különbsége.
 
 (6) Az adóhatóság minden év február 1-jéig adatot szolgáltat a miniszter, valamint az államháztartásért felelős miniszter számára az (5) bekezdésben foglaltak teljesítése céljából
 
@@ -30,4 +30,4 @@ a) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az
 
 b) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek ténylegesen kiutalt összegről.
 
-(7) Az Alap kezelő szerve elkülönítetten tartja nyilván az Alap működésének támogatására a kezelőszerv költségvetésében előirányzott összeget.
+(7) Az Alap kezelő szerve az Alap bevételei és kiadásai kezelésére elkülönített nyilvántartást vezet.

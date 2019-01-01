@@ -4,7 +4,7 @@
 
 (2)
 
-(3) Nem jogosult az Alapból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban.
+(3)
 
 (4) A határon túli civil szervezet
 
