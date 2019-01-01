@@ -37,3 +37,5 @@ i) a javasolt életmódról.
 (8a) Ha a betegnek az egészségügyi ellátással összefüggő döntései meghozatalában a támogatott döntéshozatalról szóló törvény szerinti támogatója van, a beteg kérelmére a tájékoztatás során biztosítani kell támogatója jelenlétét.
 
 (9) Az orvos a vizsgálatot megelőzően köteles a beteget – amennyiben állapota lehetővé teszi – arról tájékoztatni, hogy a vizsgálat és az azt követő ellátás térítési díját meg kell téríteni, ha a vizsgálat eredménye szerint sürgős szükség nem áll fenn és az ellátás költségének fedezete a központi költségvetésben és az Egészségbiztosítási Alapon keresztül sincs biztosítva.
+
+(10) A (2) bekezdés szerinti részletes tájékoztatást homeopátiás gyógyszer ajánlása esetén írásban is a beteg rendelkezésére kell bocsátani.

@@ -194,7 +194,7 @@ q) a szervekkel, szövetekkel és sejtekkel kapcsolatos tevékenységre vonatkoz
 
 r) a véradások szervezésével kapcsolatos részletes szabályokat, a térítéses véradások eseteit, a véradókat megillető költségtérítés, illetőleg a célzott (saját vagy meghatározott személy részére történő) véradás szabályait, továbbá a vérellátás biztonságának biztosítása érdekében szükséges önkéntes véradásra történő felhívás anyagi támogatásának ösztönzésével kapcsolatos szabályokat,
 
-s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait,
+s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait, és az ipari célú vérmintavételére és felhasználására vonatkozó részletes szabályokat,
 
 sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat, az étkeztetés, étrendtervezés és a diétás ételkészítés személyi feltételeit, valamint a hatósági ellenőrzés szabályait,
 
@@ -246,7 +246,7 @@ hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-
 
 hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
 
-i)
+i) a Szoptatást Támogató Nemzeti Bizottság működésére vonatkozó szabályokat,
 
 j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
 
@@ -277,9 +277,3 @@ rendeletben állapítsa meg.
 (4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
 
 (5) Felhatalmazást kap
-
-a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
-
-b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
-
-c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint

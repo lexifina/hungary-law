@@ -24,4 +24,6 @@ i) meghatározza az egészségügyi rendszer teljesítményértékelésére vona
 
 (3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az országos gyógyintézetek segítik.
 
+(3a) Az országos gyógyintézet az egészségügyért felelős miniszter által vezetett minisztérium gyógyító-megelőző, szervezési-módszertani, továbbképző és tudományos alapintézményeként, népegészségügyi szempontból kiemelkedő jelentőségű szakmacsoportokon belül lát el gyógyító, módszertani, epidemiológiai, szervezési, kutatási és oktatási tevékenységet.
+
 (4) A miniszter az egészségügyi felsőfokú szakirányú szakképzésért való feladatkörében az egészségügyi felsőfokú szakirányú szakképzésben résztvevőkre tekintettel támogatást nyújthat.
