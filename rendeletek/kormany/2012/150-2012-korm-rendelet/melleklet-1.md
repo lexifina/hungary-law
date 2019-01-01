@@ -454,7 +454,7 @@
 
 | 224 | 54 | 481 | 06 | Informatikai rendszerüzemeltető | 7 | XIII | 2 év | 960-1440 óra | N, E, L, TK, T | 5 | informatikáért felelős miniszter |
 
-| 225 | 53 | 814 | 01 | Ingatlankezelő | 19 | - | - | 240-360 óra | TK | 5 | lakásgazdálkodásért és lakáspolitikáért felelős miniszter |
+| 225 | 53 | 814 | 01 | Ingatlankezelő | 19 | - | - | 240-360 óra | TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 226 | 52 | 341 | 02 | Ingatlanközvetítő | 19 | XVI | - | 240-360 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -714,7 +714,7 @@
 
 | 354 | 35 | 542 | 01 | Munkaruha- és védőruha-készítő | 10 | XVII | - | 230-350 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 355 | 52 | 862 | 01 | Munkavédelmi technikus | 19 | - | - | 240-360 óra | TK | 4 | foglalkoztatáspolitikáért felelős miniszter |
+| 355 | 52 | 862 | 01 | Munkavédelmi technikus | 19 | - | - | 240-360 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 356 | 34 | 521 | 09 | Műanyagfeldolgozó | 8 | XIV | 3 év | 800-1000 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -956,7 +956,7 @@
 
 | 475 | 54 | 212 | 09 | Táncos II. (a szakmairány megjelölésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
-| 476 | 52 | 814 | 01 | Társasházkezelő | 19 | - | - | 200-300 óra | TK | 4 | lakásgazdálkodásért és lakáspolitikáért felelős miniszter |
+| 476 | 52 | 814 | 01 | Társasházkezelő | 19 | - | - | 200-300 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 477 | 34 | 541 | 09 | Tartósítóipari szakmunkás | 21 | XXXVI | 3 év | 960-1440 óra | N, E, TK | 4 | élelmiszeriparért felelős miniszter |
 
@@ -1154,4 +1154,4 @@
 
 2. táblázat: részszakképesítések
 
-[^35]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése, a 149/2017. (VI. 12.) Korm. rendelet 2. § (1) bekezdése, az 504/2017. (XII. 29.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^35]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése, a 149/2017. (VI. 12.) Korm. rendelet 2. § (1) bekezdése, az 504/2017. (XII. 29.) Korm. rendelet 3. § (1) bekezdése, a 307/2018. (XII. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
