@@ -1,6 +1,6 @@
 ## 5. Az adatszolgáltatás rendjének általános szabályai
 
-6. § (1)[^12] Az önkormányzati adóhatóság 7–18. § és 20. §, valamint az adópolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett útmutató szerint teljesíti adatszolgáltatását.
+6. § (1)[^15] Az önkormányzati adóhatóság 7–18. § valamint az adópolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett útmutató szerint teljesíti adatszolgáltatását.
 
 (2) Az önkormányzati adóhatóság a Kincstár területileg illetékes megyei igazgatósága részére történő adatszolgáltatást a Kincstár által üzemeltetett elektronikus rendszeren keresztül teljesíti.
 
@@ -14,7 +14,7 @@
 
 (7) Az e rendeletben meghatározott adatszolgáltatás adótitkot nem tartalmazhat.
 
-(8)[^13] Az adatszolgáltatás során a települési önkormányzat elnevezését, a törzskönyvi azonosító számát (PIR), a székhelyét, adószámát, KSH-statisztikai számjelét, államháztartási egyedi azonosító számát (ÁHTI), a települési önkormányzat fekvése szerinti megyét, pénzügyi körzetét, településtípusát is fel kell tüntetni.
+(8)[^16] Az adatszolgáltatás során a települési önkormányzat elnevezését, a törzskönyvi azonosító számát (PIR), a székhelyét, adószámát, KSH-statisztikai számjelét, államháztartási egyedi azonosító számát (ÁHTI), a települési önkormányzat fekvése szerinti megyét, pénzügyi körzetét, településtípusát is fel kell tüntetni.
 
-[^12]: A 6. § (1) bekezdése a 60/2016. (XII. 29.) NGM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^13]: A 6. § (8) bekezdését a 60/2016. (XII. 29.) NGM rendelet 8. § (2) bekezdése iktatta be.
+[^15]: A 6. § (1) bekezdése a 60/2016. (XII. 29.) NGM rendelet 8. § (1) bekezdésével megállapított, a 13/2018. (XII. 18.) PM rendelet 13. § 1. pontja szerint módosított szöveg.
+[^16]: A 6. § (8) bekezdését a 60/2016. (XII. 29.) NGM rendelet 8. § (2) bekezdése iktatta be.

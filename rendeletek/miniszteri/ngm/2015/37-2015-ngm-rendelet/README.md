@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-37-20-2
 | 2016-01-02 | 2015-37-20-2X.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2015-37-20-2X.3 | 60/2016. (XII. 29.) NGM rendelet |
 | 2018-01-01 | 2015-37-20-2X.4 | 52/2017. (XII. 29.) NGM rendelet |
+| 2019-01-01 | 2015-37-20-2X.5 | 13/2018. (XII. 18.) PM rendelet |

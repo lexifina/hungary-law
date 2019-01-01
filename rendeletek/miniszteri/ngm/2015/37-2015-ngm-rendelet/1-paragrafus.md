@@ -18,4 +18,6 @@ f) a magánszemély termőföld-bérbeadásából származó jövedelmének adó
 
 g) talajterhelési díjra,
 
-h) az önkormányzati adóhatóságnál adóüggyel összefüggően fizetendő közigazgatási hatósági eljárási illetékre [az a)–h) pontok a továbbiakban együtt: közteher]
+h)[^2] az önkormányzati adóhatóságnál adóüggyel összefüggésben fizetendő közigazgatási hatósági eljárási illetékre, bírságokra, pótlékokra [az a)–h) pontok a továbbiakban együtt: közteher]
+
+[^2]: Az 1. § (2) bekezdés h) pontja a 13/2018. (XII. 18.) PM rendelet 7. §-ával megállapított szöveg.

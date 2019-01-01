@@ -6,6 +6,6 @@
 
 (3) A Kincstár központi szerve a megyei (fővárosi) és településsoros összesítőkből országos, megyei (fővárosi) és településsoros összesítőt készít és azt a tárgyév április 30-áig az adópolitikáért felelős miniszter részére elektronikus úton megküldi.
 
-(4)[^19]
+(4)[^22]
 
-[^19]: A 8. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^22]: A 8. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § b) pontja hatályon kívül helyezte.

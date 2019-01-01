@@ -6,6 +6,6 @@
 
 (3) A Kincstár központi szerve a beérkezett adatokból országos összesítőt készít, és azt a tárgyév április 30-áig az adópolitikáért felelős miniszter részére elektronikus úton megküldi.
 
-(4)[^20]
+(4)[^23]
 
-[^20]: A 9. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § c) pontja hatályon kívül helyezte.
+[^23]: A 9. § (4) bekezdését a 60/2016. (XII. 29.) NGM rendelet 9. § c) pontja hatályon kívül helyezte.
