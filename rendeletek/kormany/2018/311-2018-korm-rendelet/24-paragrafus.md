@@ -1,0 +1,3 @@
+## 23. § Az Adóig. vhr. 15. §-a helyébe a következő rendelkezés lép:
+
+## „15. § Az állandó meghatalmazott, illetve az adózó a bejelentett képviseleti jogosultság megszűnését vagy a rendelkezési nyilvántartásban, illetve az állami adó-és vámhatóság által működtetett elektronikus felületen adott meghatalmazás visszavonását – az első bejelentésre vagy jognyilatkozatra irányadó szabályok szerint – haladéktalanul köteles bejelenteni az állami adó- és vámhatósághoz. Az állami adó- és vámhatóság a nyilvántartásból való törlésről – abban az esetben is, ha hivatalból jár el – értesíti az adózót, valamint az állandó meghatalmazottat.”
