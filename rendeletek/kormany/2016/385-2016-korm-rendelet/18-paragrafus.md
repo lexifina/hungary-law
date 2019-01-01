@@ -1,5 +1,3 @@
-## tekintetében az Emberi Erőforrások Minisztériuma jogutódja a Heim Pál Országos Gyermekgyógyászati Intézet.
-
 ## 18. § Ez a rendelet
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének,
