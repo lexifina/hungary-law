@@ -10,5 +10,8 @@
 
 (4) A Nemzetbiztonsági Szolgálati Jel leírását és viselési rendjét a 22. melléklet tartalmazza.
 
+(5)[^43] Szolgálati Jel adományozására a belügyminiszter jogosult. A Szolgálati Jel adományázására irányuló munkáltatói intézkedések tervezetét a rendvédelmi feladatokat ellátó szerv készíti elő és terjeszti fel a belügyminiszter részére kiadmányozásra.
+
 [^41]: A 27. § (1) bekezdése az 51/2014. (XI. 26.) BM rendelet 16. § e) pontja, a 37/2015. (VI. 16.) BM rendelet 61. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^42]: A 27. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 61. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^43]: A 27. § (5) bekezdését a 34/2018. (XII. 20.) BM rendelet 3. §-a iktatta be.
