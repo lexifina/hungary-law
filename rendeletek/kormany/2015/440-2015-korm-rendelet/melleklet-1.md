@@ -1,3 +1,3 @@
-1. melléklet a 440/2015. (XII. 28.) Korm. rendelethez[^12]
+1. melléklet a 440/2015. (XII. 28.) Korm. rendelethez[^23]
 
-[^12]: Az 1. melléklet a 379/2016. (XII. 2.) Korm. rendelet 315. § (1) bekezdés a) pontjával megállapított szöveg.
+[^23]: Az 1. mellékletet a 317/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdése hatályon kívül helyezte.
