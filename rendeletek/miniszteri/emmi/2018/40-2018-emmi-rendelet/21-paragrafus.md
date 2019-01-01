@@ -1,0 +1,1 @@
+## 20. § A Biztos Kezdet Gyerekházban 2019. január 1-jén vezetői és nem vezetői munkakörben foglalkoztatott személynek 2021. december 31-éig kell megfelelnie a 7. §-ban meghatározott képesítési előírásoknak.

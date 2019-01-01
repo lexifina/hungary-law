@@ -1,0 +1,1 @@
+## 19. § Az Emberi Erőforrás Operatív Program 1.4.3. pályázat keretében adott támogatásból létrejött Biztos Kezdet Gyerekház a szolgáltatói nyilvántartásba legfeljebb tizennyolc hónap időtartamra ideiglenes hatállyal akkor is bejegyezhető, ha nem felel meg az e rendeletben foglalt tárgyi és működési feltételeknek.
