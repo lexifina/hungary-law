@@ -1,8 +1,8 @@
 ## A földrajzi árujelző lajstromozására irányuló eljárás
 
-113. § (1) A földrajzi árujelző lajstromozására irányuló bejelentésnek tartalmaznia kell a bejelentési kérelmet, a földrajzi árujelző megnevezését, a termékjegyzéket és az egyéb mellékleteket. A bejelentést a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+113. § (1) A földrajzi árujelző lajstromozására irányuló bejelentésnek tartalmaznia kell a bejelentési kérelmet, a földrajzi árujelző megnevezését, a termékjegyzéket és az egyéb mellékleteket. A bejelentési kérelemnek tartalmaznia kell a 38. § (2b) bekezdésében meghatározott adatokat. A bejelentést egyebekben a földrajzi árujelzőre vonatkozó bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
-(2) A földrajzi árujelző bejelentéséért külön jogszabályban meghatározott bejelentési díjat kell fizetni a bejelentési naptól számított két hónapon belül.
+(2) A földrajzi árujelző bejelentéséért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni a bejelentési naptól számított két hónapon belül.
 
 (3) A földrajzi árujelző lajstromozására irányuló bejelentésről, ha az – a benyújtáskor vagy a hiánypótlás eredményeként – kielégíti a bejelentési nap elismeréséhez előírt feltételeket, a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában hatósági tájékoztatást tesz közzé (adatközlés). Az adatközlés különösen a következő adatokat tartalmazza:
 

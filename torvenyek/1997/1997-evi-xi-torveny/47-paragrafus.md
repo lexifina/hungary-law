@@ -28,11 +28,15 @@ i) a lajstromozásról szóló határozat keltét,
 
 j) a védjegy megújítását,
 
-k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását, és
+k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását,
 
 l) a használati engedélyeket,
 
-m) azt, ha a védjegyoltalmi igény vagy a védjegyoltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
+m) azt, ha a védjegyoltalmi igény vagy a védjegyoltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak,
+
+n) a védjegyoltalomra alapított jelzálogjogot és a végrehajtás alá vonás vagy foglalás tényét, valamint
+
+o) a 18. § (1) bekezdésében meghatározott ötéves időszak 18. § (1)–(3) bekezdései szerint meghatározott kezdő napját.
 
 (3) A védjegylajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a védjegylajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A védjegylajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 

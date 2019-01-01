@@ -2,7 +2,7 @@
 
 121. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) a védjegybejelentések és a megújítási kérelmek elektronikus úton való benyújtására vonatkozó részletes szabályokat rendelettel megállapítsa;
+a)
 
 b) a mezőgazdasági termékek és az élelmiszerek, a szeszes italok, a szőlészeti és borászati termékek, valamint az ízesített borászati termékek földrajzi árujelzőinek oltalmára irányuló eljárásra, a termékek ellenőrzésére és az azzal kapcsolatban felmerülő eljárási költségekre, az ellenőrzés során kiszabható bírság mértékére, valamint a 110/2008/EK rendelet 20. cikke értelmében oltalomban részesülő szeszes italok, az 1308/2013/EU rendelet 107. cikke értelmében oltalomban részesülő szőlészeti és borászati termékek, illetve a 251/2014/EU rendelet 26. cikke értelmében oltalomban részesülő ízesített borászati termékek esetében a termékleírás benyújtására, valamint az érintett forgalombahozatali, előállítási feltételek körére, továbbá a földrajzi árujelző használatának tilalmi körére vonatkozó részletes szabályokat rendelettel megállapítsa, és az ellenőrző hatóságot vagy hatóságokat kijelölje.
 

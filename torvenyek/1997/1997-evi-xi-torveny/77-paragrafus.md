@@ -1,3 +1,5 @@
+## X/D. Fejezet
+
 ## ÖTÖDIK RÉSZ
 
 ## BÍRÓSÁGI ELJÁRÁS VÉDJEGYÜGYEKBEN
@@ -52,9 +54,9 @@ b) az igazolási kérelmet olyan mulasztás kimentésére terjesztették elő, a
 
 a) az eljáró bíróság megnevezését,
 
-b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+b) a kérelmező 38. § (2b) bekezdésében meghatározott azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
 
-c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+c) a kérelmező jogi képviselőjének a 38. § (2b) bekezdésében meghatározott azonosító adatait és biztonságos kézbesítési szolgáltatási címét.
 
 (11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
 

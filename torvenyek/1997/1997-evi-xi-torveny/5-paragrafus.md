@@ -1,13 +1,13 @@
-5. § (1) Nem részesülhet védjegyoltalomban a megjelölés,
+5. § (1) Nem részesülhet védjegyoltalomban a megjelölés, amely
 
-a) amely másnak személyhez – különösen névhez, képmáshoz – fűződő korábbi jogát sértené;
+a) másnak korábbi személyiségi – különösen névhez, képmáshoz fűződő – jogát sértené;
 
-b) amely más korábbi szerzői vagy iparjogvédelmi jogába ütközne, ideértve a növényfajta nevével való ütközést is.
+b) más korábbi szerzői, szerzői joghoz kapcsolódó vagy iparjogvédelmi jogába ütközne.
 
 (2) Nem részesülhet védjegyoltalomban
 
-a) a megjelölés, amelyet más lajstromozás nélkül korábbtól fogva ténylegesen használ belföldön, ha a megjelölésnek a korábbi használó hozzájárulása nélkül történő használata jogszabályba ütközne; valamint
+a) a megjelölés, ha annak használatát egy olyan megjelölés alapján, amelyet korábban gazdasági tevékenység körében, lajstromozás nélkül ténylegesen használtak belföldön, a korábbi használó más jogszabály alapján megtilthatná;
 
-b) azonos vagy hasonló áruk, illetve szolgáltatások tekintetében a megjelölés, amely egy olyan védjeggyel azonos vagy ahhoz hasonló, amelynek oltalma korábban lejárat miatt megszűnt, ha a megszűnés óta két év még nem telt el, kivéve, ha a korábbi védjegyet nem használták a 18. § előírásainak megfelelően.
+b) az a megjelölés, amelynek használatát az eredetmegjelölések és földrajzi jelzések oltalmát biztosító európai uniós vagy nemzeti jogszabályok alapján a földrajzi árujelző oltalmából fakadó jogokat gyakorolni jogosult személy megtilthatná, feltéve, hogy az eredetmegjelölés vagy földrajzi jelzés lajstromozására irányuló bejelentést korábban tették meg és az eredetmegjelölést vagy a földrajzi jelzést utóbb lajstromozzák.
 
-(3) Annak megítélésekor, hogy a jog, a használat, illetve a megszűnés az (1) és (2) bekezdés alkalmazása szempontjából korábbinak számít-e, a megjelölésre vonatkozó bejelentés elsőbbségét kell figyelembe venni.
+(3) Annak megítélésekor, hogy a jog, a használat, illetve az eredetmegjelölés vagy földrajzi jelzés lajstromozására irányuló bejelentés az (1) és (2) bekezdés alkalmazása szempontjából korábbinak számít-e, a védjegybejelentés elsőbbségét kell figyelembe venni.

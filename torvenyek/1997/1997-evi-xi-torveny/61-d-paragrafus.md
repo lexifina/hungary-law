@@ -1,6 +1,8 @@
-61/D. § (1) A Szellemi Tulajdon Nemzeti Hivatala a felszólalással kapcsolatban nyilatkozattételre hívja fel a bejelentőt; majd – a (2) bekezdésben szabályozott eset kivételével – írásbeli előkészítés után határoz a védjegy lajstromozásának kérdésében. Az eljárást befejező végzés tárgyaláson kívül is meghozható.
+61/D. § (1) Felszólalás esetén a felek számára – együttes kérelmük alapján – egy alkalommal legalább kettő, de legfeljebb négy hónapos határidőt kell biztosítani egyezségkötésre. Ez alatt az időszak alatt az eljárás szünetel.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala az írásbeli előkészítést követően szóbeli tárgyalást tart, ha a tényállás tisztázásához szükség van a bejelentő és a felszólaló együttes meghallgatására, vagy ha bármelyik fél ezt kellő időben kéri.
+(1a) A Szellemi Tulajdon Nemzeti Hivatala a felszólalással kapcsolatban nyilatkozattételre hívja fel a bejelentőt; majd – a (2) bekezdésben szabályozott eset kivételével – írásbeli előkészítés után határoz a védjegy lajstromozásának kérdésében. Az eljárást befejező végzés és az egyezséget jóváhagyó határozat tárgyaláson kívül is meghozható.
+
+(2) A Szellemi Tulajdon Nemzeti Hivatala az írásbeli előkészítést követően szóbeli tárgyalást tart, ha a tényállás tisztázásához szükség van a bejelentő és a felszólaló együttes meghallgatására, vagy ha a felek ezt kellő időben egybehangzóan kérik.
 
 (3) Ha a bejelentő a felhívásra a kitűzött határidőben nem nyilatkozik, vagy nem jelenik meg a tárgyaláson, a Szellemi Tulajdon Nemzeti Hivatala a felszólalást a rendelkezésére álló adatok alapján bírálja el.
 
@@ -16,4 +18,4 @@ a) a felhívásra a kitűzött határidőben nem nyilatkozik, vagy
 
 b) a tárgyaláson nem jelenik meg, és nem kérte előzetesen annak távollétében történő megtartását sem.
 
-(8) A felszólalás benyújtására előírt határidő [61/B. § (1) és (2) bek.] elteltét követően a felszólalás alapjául szolgáló okként nem jelölhető meg olyan ok, amelyet az említett határidőn belül nem jelöltek meg a felszólalás okaként. Az így megjelölt okot a Szellemi Tulajdon Nemzeti Hivatala eljárást befejező határozatának meghozatalakor nem veszi figyelembe.
+(8) A felszólalás benyújtására előírt határidő [61/B. § (1) bek.] elteltét követően a felszólalás alapjául szolgáló okként nem jelölhető meg olyan ok, amelyet az említett határidőn belül nem jelöltek meg a felszólalás okaként. Az így megjelölt okot a Szellemi Tulajdon Nemzeti Hivatala eljárást befejező határozatának meghozatalakor nem veszi figyelembe.

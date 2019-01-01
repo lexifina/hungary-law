@@ -18,10 +18,10 @@ c) nemzetközi lajstrom: a Megállapodás, illetve a Jegyzőkönyv alapján beje
 
 d) Magyarországot megjelölő bejelentés: az a nemzetközi védjegybejelentés, amelyben az oltalmat Magyarország területére kiterjedően igénylik;
 
-e) származási hivatal: az esetnek megfelelően a Megállapodás 1. cikkének (3) bekezdése szerinti származási ország hivatala, a Jegyzőkönyv 2. cikkének (2) bekezdése szerinti származási ország hivatala, illetőleg mindkettő.
+e) származási hivatal: a Jegyzőkönyv 2. cikk (2) bekezdése szerinti származási ország hivatala.
 
 (2) Ahol e törvény a Megállapodás, illetve a Jegyzőkönyv alkalmazására utal, azon a Megállapodáshoz és a Jegyzőkönyvhöz kapcsolódó Közös Végrehajtási Szabályzat alkalmazását is érteni kell.
 
-(3) A nemzetközi védjegybejelentések tekintetében a Megállapodás, illetve a Jegyzőkönyv eltérő rendelkezése hiányában – az e részben (X/B–X/D. fejezetekben) foglalt eltérésekkel – e törvény rendelkezéseit kell megfelelően alkalmazni.
+(3) A nemzetközi védjegybejelentések tekintetében a Megállapodás, illetve a Jegyzőkönyv eltérő rendelkezése hiányában – az e részben (X/B–X/C. fejezetekben) foglalt eltérésekkel – e törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (4)

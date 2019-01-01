@@ -4,6 +4,6 @@
 
 (2) A védjegyoltalom megosztásához aszerint és annyi – egymással összhangban elkészített – kérelmet kell benyújtani és a megfelelő mellékletekkel felszerelni, ahogyan és ahány részre az eredeti védjegy árujegyzékét szét kívánják választani.
 
-(3) A megosztás iránti kérelemben meg kell jelölni az eredeti védjegy lajstromszámát; a kérelemre és mellékleteire egyébként a védjegybejelentés kellékeire megállapított rendelkezéseket [50. § (2), (3) bek.] kell megfelelően alkalmazni.
+(3) A megosztás iránti kérelemben meg kell jelölni az eredeti védjegy lajstromszámát; a kérelemre és mellékleteire egyébként a védjegybejelentés kellékeire megállapított rendelkezéseket [50. § (2)–(3b) bek.] kell megfelelően alkalmazni.
 
-(4) A védjegyoltalom megosztásáért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A védjegyoltalom megosztásáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.

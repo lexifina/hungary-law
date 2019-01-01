@@ -10,4 +10,4 @@ b) a használati szerződésre; valamint
 
 c) a védjegyekkel összefüggő egyéb személyi és vagyoni viszonyokban.
 
-(2) A 7. § szerinti hozzájáruló nyilatkozat a Ptk.-nak a szerződés tévedés, megtévesztés, illetve fenyegetés miatti megtámadására vonatkozó rendelkezései szerint támadható meg; a nyilatkozat vissza nem vonható, továbbá a bíróság ítéletével sem pótolható.
+(2)

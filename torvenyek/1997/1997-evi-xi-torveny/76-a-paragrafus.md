@@ -10,7 +10,7 @@
 
 76/A. § E törvény alkalmazásában
 
-a) európai uniós védjegyrendelet: a Tanács 207/2009/EK rendelete az európai uniós védjegyről;
+a)
 
 b) európai uniós védjegy: az európai uniós védjegyrendelet 1. cikkének (1) bekezdésében meghatározott védjegy;
 

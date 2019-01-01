@@ -1,0 +1,9 @@
+120/B. § (1) E törvénynek a 2018. évi LXVII. törvénnyel megállapított rendelkezéseit – a (2)–(5) bekezdésekben foglalt eltérésekkel és kiegészítésekkel – a 2019. január 1-jén vagy azt követően indult eljárásokban kell alkalmazni.
+
+(2) A 2019. január 1-jét megelőző bejelentési nappal lajstromozott védjegy törlésének és az ilyen védjegyoltalom megszűnése megállapításának feltételeire e törvény 2018. december 31-én hatályos rendelkezéseit kell alkalmazni, azzal az eltéréssel, hogy a 2019. január 1-jétől hatályos rendelkezéseket kell alkalmazni akkor, ha az e rendelkezések hatálybalépését megelőző bejelentési nappal lajstromozott védjegyet a hatálybalépést követően megújítják. Az így megújított védjegy törlése esetén a védjegyoltalom az előző oltalmi idő lejártának napjára visszaható hatállyal szűnik meg. Az eltérés nem alkalmazható akkor, ha a védjegy törlésének feltételei e törvény 2018. december 31-én hatályos szabályai szerint fennálltak.
+
+(3) E törvénynek a 2018. évi LXVII. törvénnyel megállapított 52. § (6) bekezdését a 2019. január 1-jei vagy annál későbbi bejelentési nappal rendelkező védjegybejelentések és az ezek alapján lajstromozott védjegyek tekintetében kell alkalmazni.
+
+(4) A 2019. január 1-jét megelőzően megkezdett védjegyhasználatra a védjegyoltalom tartalma és korlátai, a védjegyhasználat fogalma, valamint a védjegybitorlás tekintetében a használatnak a 2019. január 1-jén meglévő mértékéig e törvénynek a 2018. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(5) E törvénynek a 2018. évi LXVII. törvénnyel megállapított 65. § (3)–(5) bekezdését azokra a védjegyekre kell alkalmazni, amelyeknek az oltalma a 2019. június 30-át követően jár le. A korábban lejáró védjegyoltalom tekintetében a 65. § (3)–(4) bekezdésének a 2018. december 31-én hatályos rendelkezéseit kell alkalmazni.

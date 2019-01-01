@@ -8,10 +8,18 @@
 
 (2) A védjegybejelentésnek bejelentési kérelmet, megjelölést, árujegyzéket, továbbá – a szükséghez képest – egyéb mellékletet kell tartalmaznia.
 
-(3) A védjegybejelentést a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+(3) A 38. § (2b) bekezdésétől eltérően a védjegybejelentési kérelemnek tartalmaznia kell a bejelentő nevét és lakcímét vagy székhelyét, képviselet esetén a bejelentő képviselőjének nevét és lakcímét vagy székhelyét, továbbá – nem elektronikus úton történő kapcsolattartás esetén – a kérelmező vagy képviselője aláírását.
 
-(4) A védjegybejelentésért külön jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
+(3a) Ha a bejelentő vagy képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a védjegybejelentési kérelemnek a (3) bekezdésben meghatározott adatokon túl tartalmaznia kell
 
-(5) Ha a bejelentés árujegyzéke idegen nyelven készült, a magyar nyelvű árujegyzéket a bejelentés napjától számított négy hónapon belül kell benyújtani.
+a) a természetes személy bejelentő, illetve képviselő születési helyét és idejét, valamint anyja nevét,
+
+b) a nem természetes személy bejelentő, illetve képviselő adószámát.
+
+(3b) A védjegybejelentést egyebekben a védjegybejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
+
+(4) A védjegybejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő egy hónapon belül kell megfizetni.
+
+(5) Ha a bejelentés árujegyzéke idegen nyelven készült, a magyar nyelvű árujegyzéket a bejelentés napjától számított két hónapon belül kell benyújtani.
 
 (6) A bejelentő a lajstromozásig – a 32. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a védjegybejelentést.

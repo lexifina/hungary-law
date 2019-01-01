@@ -1,21 +1,25 @@
 ## Az Európai Unió jogának való megfelelés
 
-122. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+122. § (1) Ez a törvény
 
-a) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.) a szellemi tulajdonjogok érvényesítéséről;
+a) a szellemi tulajdonjogok érvényesítéséről szóló, 2004. április 29-i (EK) 2004/48/EK európai parlamenti és tanácsi irányelvnek, valamint
 
-b) az Európai Parlament és a Tanács 2008/95/EK irányelve (2008. október 22.) a védjegyekre vonatkozó tagállami jogszabályok közelítéséről.
+b) a védjegyekre vonatkozó tagállami jogszabályok közelítéséről szóló, 2015. december 16-i (EU) 2015/2436 európai parlamenti és tanácsi irányelvnek
 
-(2) Ez a törvény megállapítja a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket:
+való megfelelést szolgálja.
 
-a) a közösségi védjegyről szóló, 2009. február 26-i 207/2009/EK tanácsi rendelet és az azt módosító 2015/2424/EU európai parlamenti és tanácsi rendelet;
+(2) Ez a törvény
 
-b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet;
+a) az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendeletnek;
 
-c) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló 510/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 14-i 1898/2006/EK bizottsági rendelet;
+b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i (EU) 1151/2012 európai parlamenti és tanácsi rendeletnek;
 
-d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet III. fejezete;
+c) az 1151/2012/EU európai parlamenti és tanácsi rendeletnek az oltalom alatt álló eredetmegjelölések, az oltalom alatt álló földrajzi jelzések és a hagyományos különleges termékek uniós szimbólumainak létrehozása tekintetében, valamint a származásra vonatkozó bizonyos szabályok, bizonyos eljárási szabályok és bizonyos kiegészítő átmeneti szabályok tekintetében történő kiegészítéséről szóló, 2013. december 18-i (EU) 664/2014 felhatalmazáson alapuló bizottsági rendeletnek;
 
-e) a szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet II. része II. címe I. fejezetének 2. szakasza,
+d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i (EK) 110/2008 európai parlamenti és tanácsi rendelet III. fejezetének;
 
-f) az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 251/2014/EU európai parlamenti és tanácsi rendelet III. fejezete.
+e) a szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i (EU) 1308/2013 európai parlamenti és tanácsi rendelet II. része II. címe I. fejezetének 2. szakaszának;
+
+f) az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i (EU) 251/2014 európai parlamenti és tanácsi rendelet III. fejezetének
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.

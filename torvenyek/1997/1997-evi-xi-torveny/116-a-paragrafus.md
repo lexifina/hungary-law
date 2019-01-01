@@ -6,9 +6,9 @@
 
 ## A MEZŐGAZDASÁGI TERMÉKEK ÉS AZ ÉLELMISZEREK, A SZŐLÉSZETI ÉS BORÁSZATI TERMÉKEK, AZ ÍZESÍTETT BORÁSZATI TERMÉKEK, VALAMINT A SZESZES ITALOK FÖLDRAJZI ÁRUJELZŐINEK UNIÓS OLTALMÁRA VONATKOZÓ RENDELKEZÉSEK
 
-116/A. § (1) A mezőgazdasági termékek és az élelmiszerek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1151/2012/EU rendelet) rendelkezései az irányadók.
+116/A. § (1) A mezőgazdasági termékek és az élelmiszerek földrajzi árujelzőinek uniós oltalmára az 1151/2012/EU európai parlamenti és tanácsi rendelet rendelkezéseit kell alkalmazni.
 
-(2) A szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) rendelkezései, az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 251/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 251/2014/EU rendelet) rendelkezései az irányadók.
+(2) A szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára az 1308/2013/EU európai parlamenti és tanácsi rendelet rendelkezései, az ízesített borászati termékek földrajzi árujelzőinek oltalmára a 251/2014/EU európai parlamenti és tanácsi rendelet rendelkezéseit kell alkalmazni.
 
 (3) Az 1151/2012/EU rendelet, az 1308/2013/EU rendelet, illetve a 251/2014/EU rendelet alapján a tagállami hatáskörbe tartozó ügyekben a miniszter és a Szellemi Tulajdon Nemzeti Hivatala jár el.
 

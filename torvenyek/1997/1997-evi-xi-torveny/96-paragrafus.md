@@ -8,7 +8,7 @@
 
 ## Az együttes védjegy
 
-96. § (1) Az együttes védjegy olyan védjegy, amely valamely egyesület, köztestület vagy egyesülés (a továbbiakban együtt: egyesület) tagjainak áruit vagy szolgáltatásait különbözteti meg mások áruitól vagy szolgáltatásaitól, az együttes védjeggyel megjelölt áruk vagy szolgáltatások minősége, származása vagy egyéb tulajdonsága alapján.
+96. § (1) Az együttes védjegy olyan védjegy, amelyet a védjegybejelentésben ilyenként jelölnek meg, és amely alkalmas arra, hogy valamely egyesület, köztestület vagy egyesülés tagjainak áruit vagy szolgáltatásait mások áruitól vagy szolgáltatásaitól megkülönböztesse.
 
 (2)
 
@@ -18,8 +18,8 @@ a) jellegét vagy jelentőségét illetően alkalmas a fogyasztók megtéveszté
 
 b) a használatáról rendelkező szabályzat a közrendbe, a közerkölcsbe vagy jogszabályba ütköző előírást tartalmaz.
 
-(4) Az együttes védjegy oltalma az egyesületet illeti meg, használatára az egyesület tagjai is jogosultak.
+(4) Az együttes védjegy oltalma az egyesületet, köztestületet vagy egyesülést illeti meg, használatára azok tagjai is jogosultak.
 
-(5)
+(5) Az együttes védjegy lajstromozására irányuló bejelentés nem utasítható el, ha a bejelentő az együttes védjegy használatára vonatkozó szabályzat módosítása révén eleget tesz a 97. §-ban foglalt feltételeknek.
 
-(6) A 18. § alkalmazásában az is az együttes védjegy használatának minősül, ha a védjegyet az egyesület bármelyik tagja használja.
+(6) A 18. § alkalmazásában az is az együttes védjegy használatának minősül, ha a védjegyet az egyesület, köztestület vagy egyesülés bármelyik tagja használja.

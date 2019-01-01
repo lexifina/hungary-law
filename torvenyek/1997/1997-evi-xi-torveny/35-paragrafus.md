@@ -2,9 +2,9 @@
 
 35. § (1) A védjegyoltalom megszűnik, ha
 
-a) a védjegyjogosult magatartása miatt a megjelölés a gazdasági tevékenység körében azoknak az áruknak vagy szolgáltatásoknak a szokásos nevévé vált, amelyekre lajstromozták; vagy
+a) a megjelölés a védjegyjogosult magatartása vagy mulasztása következtében azoknak az áruknak vagy szolgáltatásoknak az üzleti forgalomban szokásos nevévé vált, amelyekre lajstromozták; vagy
 
-b) a védjegy – használata következtében – megtévesztővé vált, különösen a áruk vagy a szolgáltatások jellegét, minőségét vagy földrajzi származását illetően.
+b) a védjegy – a védjegyjogosult általi vagy a védjegyjogosult engedélyével történő használat következtében – megtévesztővé vált, különösen az áruk vagy a szolgáltatások jellegét, minőségét vagy földrajzi származását illetően.
 
 (2) A védjegyoltalom a megjelölés megkülönböztető képességének elvesztése vagy megtévesztővé válása miatt teljeskörűen vagy az árujegyzékben meghatározott egyes áruk, illetve szolgáltatások tekintetében részlegesen szűnik meg, attól függően, hogy a megszűnési ok az árujegyzék egészét vagy csak az áruk, illetve szolgáltatások egy részét érinti.
 

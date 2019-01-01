@@ -4,7 +4,7 @@
 
 (3) A Magyarországot megjelölő bejelentés tekintetében a 61/B. § (1) bekezdésének alkalmazásában a felszólalás határidejét a 76/O. § (1) bekezdése alapján történő meghirdetés napjától kell számítani.
 
-(4) Ha a nemzetközi védjegybejelentés nem felel meg a 61. § (2) bekezdése alapján vizsgált követelményeknek, vagy azzal kapcsolatban felszólalást nyújtottak be, erről a Megállapodásban meghatározott módon és határidőn belül értesíteni kell a Nemzetközi Irodát (ideiglenes elutasítás). Az értesítésben a nyilatkozattételre legalább három hónapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható.
+(4) Ha a nemzetközi védjegybejelentés nem felel meg a 61. § (2) bekezdése alapján vizsgált követelményeknek, vagy azzal kapcsolatban felszólalást nyújtottak be, erről a Jegyzőkönyvben meghatározott módon és határidőn belül értesíteni kell a Nemzetközi Irodát (ideiglenes elutasítás). Az értesítésben a nyilatkozattételre legalább három hónapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható.
 
 (5) Ha a bejelentő a felhívásra a kitűzött határidőben nem válaszol, a Szellemi Tulajdon Nemzeti Hivatala – kivéve, ha az (5a) bekezdés alkalmazásának van helye – értesíti a Nemzetközi Irodát arról, hogy a megjelölés Magyarországra kiterjedő oltalmát elutasítja (végleges elutasítás), vagy arról, hogy az oltalmat csak részben ismeri el. Az értesítéseket a Szellemi Tulajdon Nemzeti Hivatala a végleges elutasításról vagy az oltalom részben történő elismeréséről szóló döntés jogerőre emelkedését követően küldi meg a Nemzetközi Irodának. Az oltalom részben történő elismerése esetén a lajstromozás napjának a döntés keltezésének napját kell tekinteni.
 
@@ -20,4 +20,4 @@
 
 (6)–(7)
 
-(8) A Szellemi Tulajdon Nemzeti Hivatala – a 48. § megfelelő alkalmazásával – bejegyzi a védjegylajstromba, hogy a Megállapodás 4bis cikke alapján a nemzetközi lajstromozás a Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy helyébe lépett.
+(8) A Szellemi Tulajdon Nemzeti Hivatala – a 48. § megfelelő alkalmazásával – bejegyzi a védjegylajstromba, hogy a Jegyzőkönyv 4bis cikke alapján a nemzetközi lajstromozás a Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy helyébe lépett.

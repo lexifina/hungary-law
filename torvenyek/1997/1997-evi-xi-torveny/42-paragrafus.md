@@ -14,6 +14,6 @@ a) az elsőbbségi nyilatkozat előterjesztésére előírt határidő [53. § (
 
 b) az uniós, illetve a kiállítási elsőbbségi igény érvényesítésére megszabott hat hónapos határidő elmulasztása esetén;
 
-c) a felszólalás benyújtására előírt határidő [61/B. § (1) és (2) bek., illetve 76/P. § (3) bek.] elmulasztása esetén;
+c) a felszólalás benyújtására előírt határidő [61/B. § (1) bek., illetve 76/P. § (3) bek.] elmulasztása esetén;
 
 d) a gyorsított eljárásra vonatkozó kérelem előterjesztésére megszabott határidő [64/A. § (1) bek.] elmulasztása esetén.

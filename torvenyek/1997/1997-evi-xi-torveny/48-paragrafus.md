@@ -8,4 +8,4 @@
 
 (3a) Nem teljesíthető a jogutódlás tudomásulvétele iránti kérelem abban az esetben, ha a védjegyoltalmi igényt vagy a védjegyoltalomból eredő jogokat olyan bizalmi vagyonkezelési szerződés alapján ruházták át, amelyet nem bizalmi vagyonkezelő vállalkozással mint vagyonkezelővel kötöttek, és a kérelemhez nem mellékelték a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott bejelentési bizonyítványt is.
 
-(4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.
+(4)

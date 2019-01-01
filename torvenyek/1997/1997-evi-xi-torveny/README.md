@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-11-00-00
 | 2017-01-01 | 2016. évi CXXI. törvény | 1997-11-00-00.33 |
 | 2017-10-01 | 2016. évi XCIII. törvény | 1997-11-00-00.34 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 1997-11-00-00.35 |
+| 2019-01-01 | 2018. évi LXVII. törvény | 1997-11-00-00.36 |

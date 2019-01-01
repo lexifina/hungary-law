@@ -1,1 +1,1 @@
-6. § Ki van zárva a védjegyoltalomból a megjelölés, ha azt a képviselő, illetve az ügynök – a jogosult engedélye nélkül – saját nevében jelentette be lajstromozásra, kivéve, ha a képviselő vagy az ügynök igazolja, hogy eljárása helyénvaló volt.
+6. § A megjelölés nem részesülhet védjegyoltalomban, ha azt egy védjegy jogosultjának képviselője, illetve ügynöke – a jogosult engedélye nélkül – saját nevében jelentette be lajstromozásra, kivéve, ha a képviselő vagy az ügynök igazolja, hogy eljárása helyénvaló volt.

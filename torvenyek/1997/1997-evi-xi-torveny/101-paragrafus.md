@@ -4,7 +4,7 @@
 
 ## A tanúsító védjegy
 
-101. § (1) A tanúsító védjegy olyan védjegy, amely meghatározott minőségű vagy egyéb jellemzőjű árukat vagy szolgáltatásokat azzal különböztet meg más áruktól vagy szolgáltatásoktól, hogy e minőségüket vagy jellemzőjüket tanúsítja.
+101. § (1) A tanúsító védjegy olyan védjegy, amelyet a védjegybejelentésben ilyenként jelölnek meg, és amely alkalmas arra, hogy a védjegyjogosult által az anyagösszetétel, az áruk gyártási módja vagy a szolgáltatásnyújtás módja, illetve a minőség, pontosság vagy egyéb jellemző tekintetében tanúsított árukat vagy szolgáltatásokat megkülönböztesse az ilyen tanúsítással nem rendelkező más áruktól vagy szolgáltatásoktól.
 
 (2) Nem szerezhet oltalmat tanúsító védjegyre
 
@@ -34,6 +34,8 @@ f) a jogosulatlan védjegyhasználattal szembeni fellépés rendjét.
 
 (6) A tanúsító védjegy szabályzatára, bejelentésére és lajstromozására, használatára, átruházására, a tanúsító védjegy oltalmának megszűnésére és az ilyen védjegy oltalmából eredő jogok érvényesítésére az együttes védjegyre és oltalmára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
-(7) A tanúsító védjegyet törölni kell akkor is, ha a bejelentést a (2) bekezdés alapján arra nem jogosult nyújtotta be.
+(6a) A 18. § szerinti tényleges használatnak kell tekinteni azt is, ha a tanúsító védjegyet bármely arra jogosult személy használja a 18. §-ban foglaltaknak megfelelően.
+
+(7) A tanúsító védjegyet törölni kell akkor is, ha a bejelentést a (2) bekezdés alapján arra nem jogosult nyújtotta be. A tanúsító védjegy oltalma megszűnik – a megszűnést megállapító határozatban megjelölt időpontban – akkor is, ha a védjegyjogosult utóbb nem felel meg a (2) bekezdésben foglalt követelményeknek.
 
 (8) A tanúsító védjegy használatára alkalmazni kell a minőség vagy egyéb jellemzők tanúsításáról rendelkező külön jogszabályok előírásait is.

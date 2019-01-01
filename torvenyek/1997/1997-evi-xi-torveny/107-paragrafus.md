@@ -6,7 +6,7 @@ a) kielégíti a 103., illetve 104. §-okban meghatározott követelményeket, �
 
 b) bejelentése megfelel az e törvényben megszabott feltételeknek.
 
-(2) A földrajzi árujelzőre oltalmat szerezhet bármely természetes és jogi személy, valamint jogi személyiség nélküli gazdasági társaság, amely az árujelzőben feltüntetett földrajzi területen olyan terméket termel, dolgoz fel vagy állít elő, amelynek megjelölésére a földrajzi árujelzőt használják.
+(2) A földrajzi árujelzőre oltalmat szerezhet bármely természetes és jogi személy, amely az árujelzőben feltüntetett földrajzi területen olyan terméket termel, dolgoz fel vagy állít elő, amelynek megjelölésére a földrajzi árujelzőt használják.
 
 (3) A földrajzi árujelző oltalma együttesen illeti meg azokat, akik a (2) bekezdésnek megfelelően termelnek, dolgoznak fel vagy állítanak elő termékeket (a továbbiakban: jogosultak).
 

@@ -24,4 +24,4 @@ f) a védjegybejelentések és a védjegyek nyilvántartása,
 
 g) a hatósági tájékoztatás.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az európai uniós védjegyrendszerre (X/A. fejezet) és a védjegyek nemzetközi lajstromozására (X/B–X/D. fejezetek) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az európai uniós védjegyrendszerre (X/A. fejezet) és a védjegyek nemzetközi lajstromozására (X/B–X/C. fejezetek) vonatkozó rendelkezések alkalmazásából eredő ügyek is.

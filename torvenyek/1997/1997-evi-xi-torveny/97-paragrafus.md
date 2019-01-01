@@ -1,10 +1,10 @@
 ## Szabályzat az együttes védjegyhez
 
-97. § (1) A megjelölés akkor részesülhet együttes védjegyként oltalomban, ha használatáról – a (2) bekezdésben meghatározott követelményeknek megfelelő – szabályzat rendelkezik. A szabályzatot az együttes védjegyre jogosult egyesület állapítja meg.
+97. § (1) A megjelölés akkor részesülhet együttes védjegyként oltalomban, ha használatáról – a (2) bekezdésben meghatározott követelményeknek megfelelő – szabályzat rendelkezik. A szabályzatot az együttes védjegyre jogosult egyesület, köztestület vagy egyesülés állapítja meg.
 
 (2) A szabályzatnak tartalmaznia kell:
 
-a) a védjegyjogosult egyesület elnevezését és székhelyét;
+a) a védjegyjogosult egyesület, köztestület vagy egyesülés elnevezését és székhelyét;
 
 b) a védjegy használatára jogosult tagok felsorolását, nevük, címük, illetve székhelyük feltüntetésével;
 

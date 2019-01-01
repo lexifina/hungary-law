@@ -2,7 +2,7 @@
 
 39. § (1)
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a törlési eljárásban és a megszűnés megállapítására irányuló eljárásban, kivéve, ha az utóbbit a védjegyjogosult jogutód nélküli megszűnése miatt kérték. Ha a védjegy lajstromozására irányuló eljárásban a megjelölés lajstromozásával szemben benyújtott felszólalás tárgyában tárgyalást kell tartani, a Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hozza meg határozatát. A tanács szótöbbséggel dönt.
+(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a törlési eljárásban és a megszűnés megállapítására irányuló eljárásban. Ha a védjegy lajstromozására irányuló eljárásban a megjelölés lajstromozásával szemben benyújtott felszólalás tárgyában tárgyalást kell tartani, a Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hozza meg határozatát. A tanács szótöbbséggel dönt.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala döntése a kézbesítéssel emelkedik jogerőre, ha nem kérik annak megváltoztatását.
 
