@@ -20,7 +20,7 @@ a honlapján közzéteszi.
 
 (5) A rendszerhasználati díjak mértékét a Hivatal elnöke – figyelemmel a (2) bekezdés szerinti rendeletre és módszertani útmutatókra – rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
-(6) A 142. § (6) bekezdése szerinti kiegyenlítő fizetések mértékét a Hivatal elnöke a rendszerhasználati díjakat megállapító rendeletében – a rendszerhasználati díjakkal egyidejűleg – állapítja meg.
+(6) A kiegyenlítő fizetés végrehajtása érdekében a Hivatal elnöke a kiegyenlítő fizetések mértékét és formáját, továbbá a kiegyenlítő fizetés elszámolási szabályait rendeletben állapítja meg.
 
 (7) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 

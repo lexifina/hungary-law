@@ -198,7 +198,7 @@ rendeletben állapítsa meg.
 
 2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
 
-3. az elosztók közötti kiegyenlítő fizetések mértékét,
+3. a kiegyenlítő fizetés végrehajtása érdekében a kiegyenlítő befizetés, valamint a kiegyenlítő kifizetés mértékét és formáját, továbbá a kiegyenlítő fizetés elszámolási szabályait,
 
 4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket,
 

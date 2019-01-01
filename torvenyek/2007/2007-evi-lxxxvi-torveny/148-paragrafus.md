@@ -6,9 +6,9 @@ b) a 147. § (2) bekezdés b) pontjának megfelelően vásárolt
 
 villamos energia képezi.
 
-(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,05 Ft/kWh.
+(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0 Ft/kWh.
 
-(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,09 Ft/kWh.
+(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,08 Ft/kWh.
 
 (4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 0,81 Ft/kWh.
 
