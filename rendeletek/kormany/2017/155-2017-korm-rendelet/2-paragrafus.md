@@ -8,4 +8,6 @@
 
 (4) Ha a vezető munkaviszonya a határozott idejű jogviszony lejárta előtt megszűnik, a pályázatot a megszűnéstől számított hatvan napon belül ki kell írni.
 
-(5) A (4) bekezdésben meghatározott esetben a korábbi vezető helyettese, vagy annak akadályoztatása esetén a munkáltatói jogkör gyakorlója által meghatározott, a 8. § szerinti feltételeknek megfelelő személy határozott időre, de legfeljebb az új vezető kinevezéséig megbízható a vezetői feladatok ellátásával.
+(5)[^1] A (4) bekezdésben meghatározott esetben, vagy ha a (2) bekezdésben meghatározott idő alatt a pályázatot nem lehet kiírni vagy lefolytatni, a korábbi vezető, annak helyettese, vagy akadályoztatásuk esetén a munkáltatói jogkör gyakorlója által meghatározott, a 8. § szerinti feltételeknek megfelelő személy határozott időre, de legfeljebb az új vezető kinevezéséig megbízható a vezetői feladatok ellátásával.
+
+[^1]: A 2. § (5) bekezdése a 308/2018. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
