@@ -110,6 +110,8 @@ c) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvén
 
 42. szezonális üzemmód: rendszeresen idényszerű, időszakos ütemtervet követve üzemeltetett létesítmény működési jellemzője; nem ideértve a folyamatosan (normál üzemmódban) üzemeltetett, készenléti- vagy tartalék üzemmódban működő létesítményeket,
 
+43. Piaci stabilizációs tartalék: a 2015/1814/EU európai parlamenti és tanácsi határozattal létrehozott tartalék,
+
 44. üzemszerű működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk n) pontja szerinti időpont,
 
 45. megváltozott működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk o) pontja szerinti időpont.

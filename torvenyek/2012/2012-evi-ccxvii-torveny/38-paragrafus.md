@@ -10,6 +10,8 @@ b) a (4) bekezdés szerinti értékesítésre.
 
 (4) A miniszter az állam nevében ESD-egységeket értékesíthet és vásárolhat e törvény céljának hatékonyabb elérése érdekében. Az értékesítés az állami vagyonról szóló törvény, az Nvtv. és az értékesítés részletszabályait meghatározó, e törvény végrehajtására kiadott jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
-(5) A (4) bekezdés szerinti értékesítési bevétel felhasználásáról a miniszter előterjesztése alapján a Kormány dönt.
+(5) Az ESD-egységek értékesítéséből származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására és az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelvi célok hazai elérésére kell fordítani.
+
+(5a) A miniszter az ESD-egységek értékesítéséből származó bevételek felhasználásáról a Zöld Beruházási Rendszer keretében gondoskodik.
 
 (6) A bevételek felhasználásáról a miniszter a bevétel keletkezését követő évben beszámol az Országgyűlésnek.

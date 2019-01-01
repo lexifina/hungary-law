@@ -2,7 +2,7 @@
 
 25. § (1) Az állam tulajdonában lévő, térítés ellenében kiosztható (értékesíthető) légiközlekedési kibocsátási egységeket, valamint a térítés ellenében kiosztható (értékesíthető) kibocsátási egységeket a miniszter az 1031/2010/EU bizottsági rendeletnek megfelelően értékesíti. Az állam által térítés ellenében kiosztható (értékesíthető) ÜHG-egységek éves mennyiségét az Európai Bizottság állapítja meg.
 
-(2) Az állam tulajdonában lévő, térítésmentesen ki nem osztott valamennyi kibocsátási egység árverés útján kerül értékesítésre.
+(2) Az állam tulajdonában lévő, térítésmentesen ki nem osztott valamennyi kibocsátási egység, amely nem került a 2015/1814/EU európai parlamenti és tanácsi határozat által létrehozott piaci stabilizációs tartalékba, árverés útján kerül értékesítésre.
 
 (3) Az állam tulajdonában lévő légiközlekedési kibocsátási egységek esetében a térítésmentesen ki nem osztott kibocsátási egységek árverés útján kerülnek értékesítésre. Az árverés útján értékesítendő légiközlekedési kibocsátási egységek éves mennyiségét az Európai Bizottság határozza meg.
 

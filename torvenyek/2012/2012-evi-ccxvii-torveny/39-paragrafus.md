@@ -40,7 +40,11 @@ r) a derogációs kérelemben meghatározott beruházások utólagos nyomon köv
 
 s) a piaci érték megfizetésének módját és pénznemét,
 
-t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat
+t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat,
+
+u) az állam tulajdonában lévő ESD-egységek értékesítésére vonatkozó részletes szabályokat,
+
+v) az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait
 
 rendeletben állapítsa meg.
 
