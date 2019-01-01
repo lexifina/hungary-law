@@ -2,8 +2,9 @@
 
 (2) A költségkalkuláció kizárólag a felszíni víz mezőgazdasági célú szolgáltatása körébe tartozó tevékenységre terjedhet ki.
 
-(3) A költségkalkulációt a mezőgazdasági vízszolgáltató egyéves időszakra, legkésőbb minden év február 20-ig készíti el.
+(3)[^2] A tárgyévre vonatkozó költségkalkulációt a mezőgazdasági vízszolgáltató vízszolgáltatási egységenként az 1. mellékletben foglalt 1. táblázat szerinti tartalommal és formában készíti el.
 
-(4)[^1] A mezőgazdasági vízszolgáltató a költségkalkulációt az elkészítését követő 8 napon belül megküldi a mezőgazdasági vízhasználók, valamint a területi vízügyi igazgatási szerv részére. Ha a területi vízügyi igazgatási szerv végzi a mezőgazdasági vízszolgáltatást, az Országos Vízügyi Főigazgatóságnak küldi meg a költségkalkulációt. Vízszolgáltatási szerződés csak a területi vízügyi igazgatási szerv vagy – ha a területi vízügyi igazgatási szerv a vízszolgáltató – az Országos Vízügyi Főigazgatóság által előzetesen jóváhagyott költségkalkuláció alkalmazásával köthető.
+(4)[^3] A mezőgazdasági vízszolgáltató az általa üzemeltetett vízszolgáltatási egységek tárgyévi költségkalkulációit és a számított díjtételeket minden év február 18-ig továbbítja a területi vízügyi igazgatási szerv részére. A területileg illetékes vízügyi igazgatási szerv a saját üzemeltetésű vízszolgáltatási egységekre készített és az egyéb vízszolgáltató szervezet által készített költségkalkulációkat és díjtételeket minden év február 20-ig jóváhagyásra átadja az Országos Vízügyi Főigazgatóságnak. Az Országos Vízügyi Főigazgatóság a jóváhagyásról a benyújtó vízügyi igazgatási szervet tárgyév február 28-ig értesíti. Vízszolgáltatási szerződés csak az Országos Vízügyi Főigazgatóság által jóváhagyott díjtételek alkalmazásával köthető.
 
-[^1]: A 2. § (4) bekezdése a 232/2016. (VII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (4) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

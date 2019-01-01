@@ -1,1 +1,0 @@
-## szerződés tartalmazza.

@@ -1,6 +1,6 @@
 ## 9. § Ez a rendelet a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
 
-1. melléklet a 115/2014. (IV. 3.) Korm. rendelethez[^11]
+1. melléklet a 115/2014. (IV. 3.) Korm. rendelethez[^32]
 
 1. táblázat
 
@@ -8,21 +8,21 @@ Az állandó és változó költségek költségkalkulációs sémája
 
 |  |  | A | B | C |
 
-|  |  | Költség összetevők | Állandó költségelemek (alapdíj) | Változó költségelemek (változó díj) |
+|  |  | Költségösszetevők | Állandó költségek (Ft) | Változó költségek (Ft) |
 
 | Közvetlen költségek |
 
-| 1. |  | ANYAGKÖLTSÉG |
+| 1. |  | ANYAGKÖLTSÉG | Működéshez kapcsolódó üzemanyag, kenőanyag, alkatrész, építési anyag, egyéb anyag, alkatrész, energialekötési díj Saját kivitelezésű fenntartáshoz kapcsolódó anyag jellegű költségek | Szivattyútelepi üzemeléshez kapcsolódó költségek(villamos energia szállítási költségei stb.) Gravitációs rendszer üzemeltetési költségei |
 
-| 1.1. | Nyers- és alapanyagok | Működéshez kapcsolódó üzemanyag, kenőanyag, alkatrész, építési anyag, egyéb anyag, alkatrész, energialekötési díj stb. | Szivattyútelepi üzemeltetéshez kapcsolódó költségek (villamos energia, szállítási költségek stb.) |
+| 1.1. | nyers- és alapanyagok |
 
-| 1.2. | Készen vásárolt alkatrészek |
+| 1.2. | készen vásárolt alkatrészek |
 
-| 1.3. | Technológiai fűtőanyagok |
+| 1.3. | technológiai fűtőanyagok |
 
-| 1.4. | Technológiai energia |
+| 1.4. | technológiai energia |
 
-| 2. |  | BÉRKÖLTSÉG | A szivattyútelepi üzemelésen kívüli munkaerő bérköltsége | A szivattyútelepi üzemelés többletmunkaerő bérköltsége (munkaóra) |
+| 2. |  | BÉRKÖLTSÉG* | Mezőgazdasági vízszolgáltatást biztosító munkaerő bérköltsége | Mezőgazdasági vízszolgáltatásra felvett többlet munkaerő, és/vagy idényre alkalmazott munkaerő (szivattyútelepi gépész, fenntartó gépkezelő, vízőr bérköltsége) |
 
 | 2.1. | Közvetlen munkabér |
 
@@ -32,41 +32,37 @@ Az állandó és változó költségek költségkalkulációs sémája
 
 | 2.4. | Bérpótlékok |
 
-| 3. |  | EGYÉB KÖZVETLENÜL ELSZÁMOLHATÓ KÖLTSÉG |
+| 3. |  | EGYÉB KÖZVETELENÜL ELSZÁMOLHATÓ KÖLTSÉG |  |  |
 
-| 3.1. | Gyártási, szolgáltatási külön költség |
+| 3.1. | Gyártási, szolgáltatási külön költség |  |  |
 
-| 3.1.1. | fenntartás, karbantartás | a 2. táblázatban meghatározottak szerint | vízhiány miatt szükséges vízpótlásból eredő fenntartási költségek |
+| 3.1.1. | vízvizsgálat | Rendszeres vízvizsgálat | Esetenkénti vízvizsgálat |
 
-| 3.1.2. | vízvizsgálat | rendszeres vízvizsgálat | a tényleges vízátadáshoz kapcsolódó vízvizsgálat költsége |
+| 3.1.2. | egyéb dologi kiadások, szolgáltatások | Kiküldetés,alaptevékenység nem adóköteles részéhez vásárolt termék vagy szolgáltatás áfája: gépjármű-felelősségbiztosítás, CASCO, gépjárművek egyéb üzemi kiadásai stb. Külső vállalkozók által elvégzett fenntartási munkák költsége |  |
 
-| 3.1.3. | egyéb dologi kiadások, szolgáltatások | kiküldetés, alaptevékenység nem adóköteles részhez vásárolt termék vagy szolgáltatás ÁFA-ja; gépjármű-felelősségbiztosítás, CASCO; gépjárművek egyéb üzemi kiadásai stb. |  |
-
-| 3.2. | Értékesítési külön költség | Rendszerveszteség, ökológiai vízpótlás költsége | – |
-
-| 4. |  | ÉRTÉKCSÖKKENÉSI LEÍRÁS | az elmúlt 5 év átlagos vízforgalmából (mezőgazdasági vízfelhasználás és térségi, ökológiai, rekreációs célú vízátvezetés) a mezőgazdasági vízfelhasználás aránya | – |
+| 4. |  | ÉRTÉKCSÖKKENÉSI LEÍRÁS** | Az elmúlt 5 év átlagos vízforgalmából (mezőgazdasági vízfelhasználás és térségi, ökológiai, rekreációs célú vízátvezetés) a mezőgazdasági vízfelhasználás arányában elszámolható | – |
 
 | Közvetett költségek |
 
-| 5. |  | VÍZSZOLGÁLTATÁSBAN KÖZVETLENÜL RÉSZT VEVŐ TERÜLETI SZERVEZETI EGYSÉG ÁLTALÁNOS KIADÁSAI (közvetlen költségek maximum 10%-a) | irodabérlet, irodaszerek, telefon, bankköltségek, rendelkezésre állási díj | – |
+| 5. |  | VÍZSZOLGÁLTATÁSBAN KÖZVETLENÜL RÉSZT VEVŐ TERÜLETI SZERVEZETI EGYSÉG ÁLTALÁNOS KIADÁSAI (közvetlen költségek maximum 10%-a) | Irodabérlet, irodaszerek, telefon, bankköltségek, rendelkezésre állási díj | – |
 
-| 6. |  | KÖZPONTI IRÁNYÍTÁS KÖLTSÉGE | közvetlen költségek maximum 10%-a | – |
+| 6. |  | KÖZPONTI IRÁNYÍTÁS KÖLTSÉGE | Közvetlen költségek maximum 10%-a | – |
 
 | 7. |  | KÖLTSÉGEK ÖSSZESEN |  |  |
 
 2. táblázat
 
-A fenntartási, karbantartási költségek költségkalkulációs sémája
+A fenntartási, karbantartási munkák ajánlott költségnormái
 
-|  |  |  | A | B | C | D |
+|  |  |  | A | B | C |
 
-|  |  |  | Megnevezés | Ciklusidő (év) | Fajlagos költség (Ft) | Egy idényre jutó fajlagos költség (Ft) |
+|  |  |  | Megnevezés | fajlagos költségnorma saját | fajlagos költségnorma vállalkozó |
 
-| 1. |  |  | CSATORNA |  |  |  |
+| 1. |  |  | CSATORNA |  |  |
 
-| 1.1. |  | Földmunkák (1 km-re vetítve) |  |  |  |
+| 1.1. |  | Földmunkák (1 km-re vetítve) |  |  |
 
-| 1.1.1. | Iszaptalanítás rézsűkialakítással (m3/km) | 7 |  |  |
+| 1.1.1. | Iszaptalanítás rézsűkialakítással (Ft/m3) |  |  |
 
 | 1.1.2. | 0,5–1,5 m3/fm száraz mederből géppel |  |  |
 
@@ -74,72 +70,74 @@ A fenntartási, karbantartási költségek költségkalkulációs sémája
 
 | 1.1.4. | kézi |  |  |
 
-| 1.1.5. | Depóniarendezés géppel (korona domborítás) | 1 |  |  |
+| 1.1.5. | Depóniarendezés géppel (korona domborítás) Ft/m2 |  |  |
 
-| 1.1.6. | Töltés és mederrézsű helyreállítás, burkolat-karbantartás | 3 |  |  |
+| 1.1.6. | Töltés és mederrézsű helyreállítás, burkolat-karbantartás Ft/m2 |  |  |
 
-| 1.1.7. | Földszállítás földfelrakással 5 km-ig szállítva |  |  |  |
+| 1.1.7. | Földszállítás földfelrakással 5 km-ig szállítva (Ft/m3) |  |  |
 
-| 1.1.8. | Járóút építése géppel | 5 |  |  |
+| 1.1.8. | Járóút építése géppel Ft/m2 |  |  |
 
-| 1.2. |  | Irtási munkák (1 km-re vetítve) |  |  |  |
+| 1.2. |  | Irtási munkák (1 km-re vetítve) |  |  |
 
-| 1.2.1. | Gazkaszálás | 0,5 |  |  |
+| 1.2.1. | Gazkaszálás Ft/m2 |  |  |
 
-| 1.2.1.1. | kézzel, sík terepen |  |  |
+| 1.2.2. | kézzel, sík terepen |  |  |
 
-| 1.2.1.2. | kézzel, rézsűs felületen |  |  |
+| 1.2.3. | kézzel, rézsűs felületen |  |  |
 
-| 1.2.1.3. | géppel, sík felületen |  |  |
+| 1.2.4. | géppel, sík felületen |  |  |
 
-| 1.2.1.4. | géppel, rézsűs felületen |  |  |
+| 1.2.5. | géppel, rézsűs felületen |  |  |
 
-| 1.2.2. | Nádkaszálás, vízinövényzet szabályozás | 0,5 |  |  |
+| 1.2.6. | Nádkaszálás, vízi növényzet szabályozása Ft/m2 |  |  |
 
-| 1.2.2.1. | kézzel |  |  |
+| 1.2.7. | kézzel |  |  |
 
-| 1.2.2.2. | géppel |  |  |
+| 1.2.8. | géppel (TRUXOR) |  |  |
 
-| 1.2.3. | Cserjeirtás | 3 |  |  |
+| 1.2.9. | Cserjeirtás Ft/m2 |  |  |
 
-| 1.2.3.1. | kézzel |  |  |
+| 1.2.10. | kézi |  |  |
 
-| 1.2.3.2. | géppel |  |  |
+| 1.2.11. | géppel |  |  |
 
-| 1.3. |  | Fakitermelés: nem fenntartási tevékenység |  |  |  |
+| 1.2.12. | vegyszerezés |  |  |
 
-|  | Cserjézés utáni tuskózás | 3 |  |  |
+| 1.3. |  | Fakitermelés: nem fenntartási tevékenység |  |  |
 
-| 1.4. |  | Üzemi vízszint előállítása, fenntartása |  |  |  |
+|  | Cserjézés utáni tuskózás (Ft/m3) |  |  |
 
-| 2. |  |  | MŰTÁRGYAK |  |  |  |
+| 1.4. |  | Üzemi vízszint előállítás, fenntartása |  |  |
 
-| 2.1. |  | Műtárgyak általános karbantartása (1 db-ra vetítve) | 1 |  |  |
+| 2. |  |  | MŰTÁRGYAK |  |  |
+
+| 2.1. |  | Műtárgyak általános karbantartása (1 db-ra vetítve) |  |  |
 
 | 2.1.1. | 1 m3/sec vízszállításig |  |  |
 
 | 2.1.2. | 1 m3/sec vízszállítás felett |  |  |
 
-| 2.2. |  | Műtárgy nagykarbantartása (1 db-ra vetítve) | 5 |  |  |
+| 2.2. |  | Műtárgy nagykarbantartása (1 db-ra vetítve) |  |  |
 
 | 2.2.1. | 1 m3/sec vízszállításig |  |  |
 
 | 2.2.2. | 1 m3/sec vízszállítás felett |  |  |
 
-| 3. |  |  | GÉPÉSZET |  |  |  |
+| 3. |  |  | GÉPÉSZET |  |  |
 
-| 3.1. |  | Öntöző szivattyútelepek karbantartása (1 db-ra vetítve) |  |  |  |
+| 3.1. |  | Öntöző szivattyútelepek karbantartása (1 db-ra vetítve) |  |  |
 
-| 3.1.1. | elektromos | 6 |  |  |
+| 3.1.1. | elektromos |  |  |
 
-| 3.1.2. | dízel | 4 |  |  |
+| 3.1.2. | dízel |  |  |
 
-| 4. |  |  | ÖNTÖZŐVÍZ TÁROZÓK |  |  |  |
+| 4. |  |  | ÖNTÖZŐVÍZTÁROZÓK |  |  |
 
-| 4.1. |  | partvédelem, km | 1 |  |  |
+| 4.1. |  | partvédelem, km |  |  |
 
-| 4.2. |  | iszapeltávolítás, m3 | 15 |  |  |
+| 4.2. |  | iszapeltávolítás, m3 |  |  |
 
-| 4.3. |  | töltéskorona és burkolat karbantartás, km | 1 |  |  |
+| 4.3. |  | töltéskorona- és burkolat-karbantartás, Ft/m2 |  |  |
 
-[^11]: Az 1. melléklet a 232/2016. (VII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^32]: Az 1. melléklet a 288/2018. (XII. 21.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
