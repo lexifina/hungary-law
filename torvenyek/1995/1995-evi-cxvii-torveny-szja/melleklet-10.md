@@ -26,7 +26,7 @@ a) az egyéni vállalkozó az azzal kapcsolatos kiadásokat költségei között
 
 b) a terméket, a szolgáltatást elemi károk, katasztrófák esetén közadakozás keretében nyújtja;
 
-7. a 100 ezer – 2006. január 1-je előtti beszerzés esetén 50 ezer – forintnál magasabb egyedi értékű kizárólag üzemi célt szolgáló tárgyi eszköz – ha annak értékét az egyéni vállalkozó egy összegben elszámolta – ellenszolgáltatás nélküli átruházásakor – kivéve a magánszemélynek ellenszolgáltatás nélkül történő, adófizetési kötelezettséggel járó átadást – a beszerzés időpontjától számított
+7. a 200 ezer forintnál magasabb egyedi értékű kizárólag üzemi célt szolgáló tárgyi eszköz – ha annak értékét az egyéni vállalkozó egy összegben elszámolta – ellenszolgáltatás nélküli átruházásakor – kivéve a magánszemélynek ellenszolgáltatás nélkül történő, adófizetési kötelezettséggel járó átadást – a beszerzés időpontjától számított
 
 – egy éven belül a beszerzési érték 100 százaléka,
 
@@ -50,11 +50,11 @@ II. Az egyéni vállalkozói tevékenység megszüntetésével összefüggő bev
 
 Az egyéni vállalkozói jogállás megszűnésének adóévében a megszűnés napján megszerzett vállalkozói bevételnek minősül:
 
-1. a korábban költségként elszámolt és a megszűnéskor meglévő összes készlet (anyag, áru, félkész és késztermék) leltári értéke, a 100 ezer – 1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer – forintot meg nem haladó értékű tárgyi eszköz (ideértve a tartalékalkatrészt és gyártóeszközt is) leltári értéke;
+1. a korábban költségként elszámolt és a megszűnéskor meglévő összes készlet (anyag, áru, félkész és késztermék) leltári értéke, a 200 ezer forintot meg nem haladó értékű tárgyi eszköz (ideértve a tartalékalkatrészt és gyártóeszközt is) leltári értéke;
 
 2. a gazdasági épület, az üzlet, a műhely, az iroda és az egyéb – kizárólag a jövedelemszerző tevékenységhez használt – ingatlan használati vagy bérleti jogáról való lemondás miatti ellenérték – akkor is, ha azt a magánszemély a megszűnéskor még nem kapta meg –, ha a használati vagy bérleti jog megszerzésére fordított kiadást a magánszemély költségei között bármely évben elszámolta azzal, hogy ha a megszűnés évében az ellenérték összege még nem ismert, akkor az ingatlan használati vagy bérleti jogának megszerzésére fordított összeget kell bevételként figyelembe venni;
 
-3. Az egyéni vállalkozó halála esetén a vállalkozói tevékenységét nem folytató özvegye, örököse által az egyéni vállalkozói tevékenység korábbi folytatására tekintettel az egyéni vállalkozói jogállás megszűnésének napját követően megszerzett bevétel önálló tevékenységből származó bevételnek minősül, és az azzal összefüggő adókötelezettségeket (ideértve a jövedelem megállapítását is) ennek megfelelően kell teljesíteni. Nem számolható el költségként a megszüntetés évéről készített adóbevallás (illetőleg annak önellenőrzése) alapján – a vállalkozói osztalékalap után – megállapított egészségügyi hozzájárulás.
+3. Az egyéni vállalkozó halála esetén a vállalkozói tevékenységét nem folytató özvegye, örököse által az egyéni vállalkozói tevékenység korábbi folytatására tekintettel az egyéni vállalkozói jogállás megszűnésének napját követően megszerzett bevétel önálló tevékenységből származó bevételnek minősül, és az azzal összefüggő adókötelezettségeket (ideértve a jövedelem megállapítását is) ennek megfelelően kell teljesíteni. Nem számolható el költségként a megszüntetés évéről készített adóbevallás (illetőleg annak önellenőrzése) alapján – a vállalkozói osztalékalap után – megállapított egészségügyi hozzájárulás, szociális hozzájárulási adó.
 
 III. Egyéb rendelkezések
 

@@ -54,7 +54,7 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 2.6. a lakás-takarékpénztárakról szóló törvény szerint nyújtott állami támogatás és a támogatásra, valamint a lakástakarék-betétre fizetett (jóváírt) kamat;
 
-2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a kincstár útján, annak igazolása alapján, a 9.3. pontban és az adópolitikáért felelős miniszter rendeletében meghatározott feltételek és eljárás szerint nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét, továbbá a lakáscélú felhasználásra hitelintézettől vagy korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez, a hitelhez kapcsolódó más kötelezettségek megfizetéséhez nyújtott támogatást is) a vételár, a teljes építési költség vagy a korszerűsítés, akadálymentesítés költségének 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás szobaszáma nem haladja meg a méltányolható lakásigényt (lakáscélú munkáltatói támogatás), azzal, hogy a lakáscélú munkáltatói támogatásra vonatkozó rendelkezések alkalmazásában a pénzügyi vállalkozástól lakáscélú felhasználásra felvett hitel a lakáscélú felhasználásra hitelintézettől felvett hitellel esik egy tekintet alá;
+2.7.
 
 2.8.az az összeg, amelyet a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény rendelkezései szerint a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni;
 
@@ -68,15 +68,7 @@ kap;
 
 2.10. a nemzeti otthonteremtési közösségekről szóló törvény alapján a tag részére nyújtott valamennyi juttatás és azok hozama, valamint a tagot megillető állami támogatás összege.
 
-2.11. az ugyanazon munkáltató által nyújtott mobilitási célú lakhatási támogatás havi értékéből
-
-a) a foglalkoztatás első 24 hónapjában a minimálbér 60 százalékát,
-
-b) a foglalkoztatás második 24 hónapjában a minimálbér 40 százalékát,
-
-c) a foglalkoztatás b) pont szerinti időszakát követő 12 hónapban a minimálbér 20 százalékát
-
-meg nem haladó összeg, figyelemmel a 9. pont 9.7. alpont előírásaira is, azzal, hogy az ugyanazon munkáltatóval létrejött új munkaviszony esetén az a)–c) pont szerinti időtartamot a munkaviszonyok időtartamának összeszámításával kell meghatározni.
+2.11.
 
 2.12. a hősi halottá nyilvánított katonák hozzátartozói (katonaözvegyek, túlélő élettársak és az elhunyt saját háztartásában eltartott, árván maradt gyermekek, hadiárvák) részére belső szabályzat szerint biztosított lakhatási támogatás, lakáscélra adott vissza nem térítendő támogatás.
 
@@ -142,7 +134,7 @@ vállalkozási tevékenységet nem folytató alapítványtól, közalapítványt
 
 4.4. a külföldi középfokú és felsőoktatási intézmény nem magyar állampolgár hallgatójának belföldi szakmai gyakorlaton végzett munkájából származó jövedelem;
 
-4.5. a Magyar Corvin-lánc Testület által megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom, továbbá a kizárólag magánszemélyek által létrehozott, gazdasági tevékenységet nem folytató alapítvány által a tudományos kutatás, fejlesztés, utánpótlás-nevelés területén nemzetközi szinten is kimagasló eredményt elért személyek részére adott díj és az ahhoz kapcsolódó pénzjutalom (ideértve különösen a Bolyai János Alkotói Díjat);
+4.5. a Magyar Corvin-lánc Testület és az Alkotmánybíróság által megítélt ösztöndíj, továbbá a Nobel-díjhoz, az Abel-díjhoz, a „The Brain Prize”-díjhoz, valamint az Európai Unió Descartes-díjához kapcsolódó, a díj tulajdonosának a díjat adományozó szervezet által adott pénzjutalom, továbbá a kizárólag magánszemélyek által létrehozott, gazdasági tevékenységet nem folytató alapítvány által a tudományos kutatás, fejlesztés, utánpótlás-nevelés területén nemzetközi szinten is kimagasló eredményt elért személyek részére adott díj és az ahhoz kapcsolódó pénzjutalom (ideértve különösen a Bolyai János Alkotói Díjat);
 
 4.6. a Nobel-díj és az Európai Unió Descartes-díjának tárgyiasult formája, továbbá a Kossuth- és a Széchenyi-díj tárgyiasult formája, a Magyar Köztársaság Babérkoszorúja, a Magyar Érdemrend és Magyar Érdemkereszt tárgyiasult formája, a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Népművészet Mestere díj tárgyiasult formája, a Magyar Corvin-lánc kitüntetés tárgyiasult formája, továbbá a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott művészeti és szakmai díj tárgyiasult formája, az életmentő emlékérem tárgyiasult formája, az olimpiai játékokon és a fogyatékos sportolók világjátékán (Paralimpia, Siketlimpia, Speciális Olimpia, Szervátültetettek Világjátéka) szerzett 1–6. helyezéshez kapcsolódó érem, trófea tárgyiasult formája, továbbá a Kormány, a miniszterelnök, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, a Honvéd Vezérkar főnöke, valamint a büntetés-végrehajtásért, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, az Országgyűlés elnöke és a vallási közösség által adományozott emléktárgy (különösen szál- vagy lőfegyver, dísztőr, gyűrű) értékéből a Kossuth-díjjal járó pénzjutalom 1/10-ed részét meg nem haladó mértékű rész;
 
@@ -202,13 +194,15 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.12.3. oktató, kutató részére a nemzeti felsőoktatási kiválóság ösztöndíj;
 
+4.12.4. doktori fokozatszerzésre tekintettel kifizetett juttatás összege;
+
 4.13. a nemzeti köznevelésről szóló törvényben meghatározott nevelési-oktatási intézmény, a nemzeti felsőoktatásról szóló törvényben meghatározott felsőoktatási intézmény, a helyi önkormányzat vagy az egyházi jogi személy által a tanuló, hallgató részére e jogviszonyára tekintettel jogszabályban meghatározott feltételek szerint adott, valamint a roma szakkollégium által a szakkollégiumi tagsági jogviszonyra tekintettel nyújtott, e törvény alkalmazásában bevételnek minősülő, a 4.11–4.12. alpontban nem említett pénzbeli juttatás;
 
 4.14. a honvédtiszti alap- és mesterképzésben, a rendészeti felsőoktatási képzésben részt vevő hallgató, a honvéd tisztjelölt, a honvéd altiszt-jelölt ösztöndíja és egyéb pénzbeli juttatása, továbbá a honvédelemért felelős miniszter által alapított középiskolai, esélyegyenlőségi, önkéntes tartalékos szolgálati ösztöndíjban, a honvédelemért felelős miniszter által a polgári felsőoktatási intézmények és a szakképző iskolák hallgatói részére a katonai szolgálat vállalásának ösztönzése érdekében alapított ösztöndíjban, valamint a honvédelmi tárca gondoskodási körébe tartozó árvák részére alapított ösztöndíjban részesülők ösztöndíja;
 
 4.15. az ösztöndíjas foglalkoztatottnak az ösztöndíjas foglalkoztatási jogviszonyból származó ösztöndíja minimálbért meg nem haladó mértéke;
 
-4.16. az „Útravaló” Ösztöndíjprogram keretében a Kormány rendeletében meghatározott feltételekkel és módon adományozott tanuló és mentori ösztöndíj, a nemzetiségpolitikáért felelős miniszter rendeletével alapított anyanyelvű és kétnyelvű nemzetiségi program szerint működő középfokú iskolák, valamint – amennyiben az adott nemzetiség ilyen intézményt nem tart fenn – nemzetiségi nyelvoktatást folytató középfokú iskolák tanulói részére adományozható ösztöndíj;
+4.16. az „Útravaló” Ösztöndíjprogram keretében a Kormány rendeletében meghatározott feltételekkel és módon adományozott ösztöndíj, a nemzetiségpolitikáért felelős miniszter rendeletével alapított anyanyelvű és kétnyelvű nemzetiségi program szerint működő középfokú iskolák, valamint – amennyiben az adott nemzetiség ilyen intézményt nem tart fenn – nemzetiségi nyelvoktatást folytató középfokú iskolák tanulói részére adományozható ösztöndíj;
 
 4.17. a kormányrendeletben meghatározott Magyar Állami Eötvös Ösztöndíj, valamint a Kormány rendeletével alapított felsőoktatási ösztöndíj;
 
@@ -216,7 +210,7 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.19. a szépkorúak jubileumi köszöntéséről szóló kormányrendelet alapján folyósított juttatás;
 
-4.20. az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves, annak segítő családtagja, alkalmazottja részére külön jogszabály alapján juttatott gazdaságátadási támogatás egy hónapra eső összegének a havi minimálbért meg nem haladó része;
+4.20. az egyéni vállalkozónak, őstermelőnek, családi gazdálkodónak minősülő földműves, annak alkalmazottja részére külön jogszabály alapján juttatott gazdaságátadási támogatás egy hónapra eső összegének a havi minimálbért meg nem haladó része;
 
 4.21. a magánszemély által külön jogszabály szerint felszolgálási díj címen megszerzett bevétel, valamint a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló.
 
@@ -226,7 +220,7 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 
 4.24. a) a szociális szövetkezet tagja által a tagi munkavégzés, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja által a személyes közreműködés ellenértékeként élelmiszer, a szociális szövetkezet és a közérdekű nyugdíjas szövetkezet tevékenységének eredményeként előállított javak vagy fogyasztásra kész étel vásárlására felhasználható utalvány formájában együttesen legfeljebb havonta a minimálbér összegét meg nem haladó értékben megszerzett bevétel, azzal, hogy a fogyasztásra kész étel vásárlására felhasználható utalvány formájában juttatott bevétel nem haladhatja meg a minimálbér 25 százalékát;
 
-b) a közhasznú jogállású szociális szövetkezet által a közösségi alapból az alapszabályában rögzített közhasznú céljával összhangban a szövetkezeti tag természetes személynek vagy családtagjának, valamint a közérdekű nyugdíjas szövetkezet által a közösségi alapból az alapszabályában rögzítettek szerint az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagjának vagy családtagjának élelmiszer, fogyasztásra kész étel vásárlására felhasználható utalvány formájában legfeljebb havonta a minimálbér összegét meg nem haladó értékben támogatásként vagy segélyként juttatott bevétel,
+b) a közhasznú jogállású szociális szövetkezet által a közösségi alapból az alapszabályában rögzített közhasznú céljával összhangban a szövetkezeti tag természetes személynek vagy közös háztartásban élő Polgári Törvénykönyv szerinti hozzátartozójának, valamint a közérdekű nyugdíjas szövetkezet által a közösségi alapból az alapszabályában rögzítettek szerint az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagjának vagy közös háztartásban élő Polgári Törvénykönyv szerinti hozzátartozójának élelmiszer, fogyasztásra kész étel vásárlására felhasználható utalvány formájában legfeljebb havonta a minimálbér összegét meg nem haladó értékben támogatásként vagy segélyként juttatott bevétel,
 
 mindkét esetben azzal, hogy az élelmiszer juttatás vagy a szövetkezet tevékenységének eredményeként előállított javak értékének megállapításánál a szövetkezet értékesítési tevékenysége során alkalmazott árat, ennek hiányában a szokásos piaci értéket kell figyelembe venni;
 
@@ -296,7 +290,7 @@ e) mint sértett, jóvátételként közvetítői eljárás keretében a bűncse
 
 6.2. az 1988. január 1. napját megelőzően megállapított baleseti és kártérítési járadék (ideértve annak egyösszegű megváltását is), kivéve, ha annak összegét utóbb a bruttósított átlagkereset alapulvételével megemelték;
 
-6.3. a kockázati biztosítás más személy által – az ugyanazon díjat fizető személy által ugyanazon biztosítottra tekintettel egy hónapra vonatkozóan a minimálbér 30 százalékát meg nem haladóan – fizetett díja (azonos szolgáltatási tartalommal rendelkező csoportos biztosítás esetében a fizetett díj egy biztosítottra jutó része), ide nem értve, ha a biztosítási díj e melléklet más pontja szerint adómentes;
+6.3.
 
 6.4. az az összeg, amelyet
 
@@ -322,17 +316,23 @@ c) a magánszemélynek a nyugdíj-előtakarékossági számlájáról a számlav
 
 d) az önkéntes kölcsönös biztosítópénztár (ide nem értve az önkéntes kölcsönös nyugdíjpénztárat) törvényben meghatározott kiegészítő egészségbiztosítási szolgáltatás, illetve törvényben meghatározott kiegészítő önsegélyező szolgáltatás címén,
 
-fizet (juttat), nyugdíjszolgáltatás esetén feltéve, hogy a szolgáltatásra jogosult
+fizet (juttat),
 
-1. tagsági jogviszonya (átlépés esetén a korábbi tagsági jogviszonya) a teljesítés évét megelőző tizedik adóévben, vagy azt megelőzően keletkezett, illetve nyugdíj-előtakarékossági számláját a teljesítés évét megelőző tizedik adóévben, vagy azt megelőzően nyitotta meg, vagy
+feltéve, hogy
 
-2. jogosultsága rokkanttá nyilvánítása alapján keletkezett;
+1. nyugdíjszolgáltatás esetén a szolgáltatásra jogosult
+
+1.1. tagsági jogviszonya (átlépés esetén a korábbi tagsági jogviszonya) a teljesítés évét megelőző tizedik adóévben, vagy azt megelőzően keletkezett, illetve nyugdíj-előtakarékossági számláját a teljesítés évét megelőző tizedik adóévben, vagy azt megelőzően nyitotta meg, vagy
+
+1.2. jogosultsága rokkanttá nyilvánítása alapján keletkezett,
+
+2. a kiegészítő önsegélyező szolgáltatás nem célzott szolgáltatásként illeti meg a jogosultat;
 
 6.6. a 6.8. alpontban meghatározott biztosító szolgáltatása, kivéve
 
 a) a jövedelmet helyettesítő felelősségbiztosítás alapján fizetett jövedelmet pótló kártérítést,
 
-b) a baleset- és betegségbiztosítás alapján nyújtott jövedelmet pótló szolgáltatást (figyelemmel a 6.7. alpont c) pontjának rendelkezésére), feltéve, hogy a biztosítási díj vagy annak egy része a díjfizetés időpontjában a 6.3. alpont szerint adómentes bevételnek minősült azzal, hogy a biztosító adóköteles szolgáltatása utáni adókötelezettséget az elmaradt jövedelemre irányadó rendelkezések szerint kell meghatározni,
+b)
 
 c) a személybiztosítás alapján nyújtott olyan szolgáltatást, amely nem minősül halál esetére szóló biztosítási, nyugdíjbiztosítási, járadékbiztosítási, balesetbiztosítási vagy betegségbiztosítási szolgáltatásnak,
 
@@ -344,13 +344,13 @@ a) az olyan kártérítés, amelyet a károsult költségeinek fedezetére fizet
 
 b) a költségtérítést és a jövedelmet helyettesítő kártérítést is tartalmazó járadék, vagy annak egyösszegű megváltása esetén a költségtérítő rész,
 
-c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szolgáltatás összegéből (ideértve a szerződéses feltételek szerint az eltelt napok száma alapján járó napi térítésként vagy az eltelt napok száma alapján meghatározott biztosítási összeget is) a jövedelem-kiesés időszakára napi 15 ezer forintot meg nem haladó rész azzal, hogy az összeghatárt biztosítási szerződésenként (a hozzá kapcsolódó kiegészítő biztosításokkal együtt) kell vizsgálni;
+c)
 
 6.8. a 6.6. pont alkalmazásában biztosító a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
 6.9.
 
-6.10. az a juttatás, amelyet az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásként kap a magánszemély.
+6.10. az a juttatás, amelyet az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásként kap a magánszemély, ide nem értve a törvényben meghatározott kiegészítő önsegélyező szolgáltatást.
 
 7. Egyéb indokkal adómentes:
 
@@ -408,6 +408,8 @@ c) az a) pontban említett hiteladósnak vagy zálogkötelezettnek – mint volt
 
 d) a c) pontban említett opciós jog érvényesítésekor a magánszemély által megszerzett jövedelem;
 
+e) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvényben meghatározott ingatlanvásárlás esetében a magánszemélyt megillető kamatmentesség, vételárengedmény és részletfizetési kedvezmény;
+
 7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön (ideértve a deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelést is) adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
 
 7.21. a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából, pénzügyi lízingszerződésből származó követelés elengedése (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére
@@ -462,7 +464,7 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 
 a) alapján a gyermekvállaláshoz kapcsolódóan elengedett hallgatói hiteltartozás összege,
 
-b) szerinti hallgatói hitelszerződés alapján fennálló tartozás törlesztéséhez a munkavállaló számárakifizetett juttatás, a munkaviszony fennállásának időtartama alatt a munkavállalót terhelő előírt kötelező diákhitel törlesztő részlet erejéig, de havonta legfeljebb a minimálbér 20 százalékáig terjedő összegig;
+b)
 
 7.39. a nyugellátásban és egyes más ellátásban részesülő magánszemélyt kormányrendelet alapján megillető egyszeri juttatás a juttatás időpontjától függetlenül;
 
@@ -494,7 +496,7 @@ d) a foglalkozás-egészségügyi ellátás;
 
 e) a kegyeleti ellátás;
 
-f) a szolgálati lakásban, munkásszálláson történő elhelyezés; e rendelkezés alkalmazásában munkásszállás a kifizető tulajdonát képező vagy általa bérelt olyan szálláshely, amely egy lakóhelyiséggel rendelkező önálló ingatlan esetében a lakóhelyiségben egynél több, több lakóhelyiséggel rendelkező önálló ingatlan esetében pedig lakóhelyiségenként legalább egy, a kifizetővel munkaviszonyban lévő olyan magánszemély elhelyezésére szolgál, akinek nincs lakóhelye azon a településen, ahol a munkahelye van; nem munkásszállás az a szálláshely, ahol a kifizető olyan magánszemélyt, illetve ennek hozzátartozóját szállásolja el, akivel a társasági adóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő esetekben meghatározott kapcsolat áll fenn;
+f) szolgálati lakásban, munkásszálláson történő elhelyezés; e rendelkezés alkalmazásában munkásszállás a kifizető tulajdonát képező vagy általa bérelt olyan szálláshely, amely egy lakóhelyiséggel rendelkező önálló ingatlan esetében a lakóhelyiségben egynél több, több lakóhelyiséggel rendelkező önálló ingatlan esetében pedig lakóhelyiségenként legalább egy, a kifizetővel munkaviszonyban lévő olyan magánszemély elhelyezésére szolgál, aki nem rendelkezik lakás haszonélvezeti joggal nem terhelt 50 százalékot meghaladó mértékű tulajdonjogával, haszonélvezeti jogával azon a településen, ahol a munkahelye van; munkásszálláson történő elhelyezéssel esik egy tekintet alá az olyan más elhelyezés is, amely esetében a munkavállaló legfeljebb egy lakóhelyiséget használhat, ide nem értve a szállodának minősülő kereskedelmi szálláshelyen történő elhelyezést, azzal, hogy nem része az adómentes juttatásnak az étkezési szolgáltatás biztosítása, továbbá azzal, hogy nem adómentes az elhelyezés, ha a kifizető olyan magánszemélyt, illetve annak hozzátartozóját szállásol el, akivel a társasági adóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő esetekben meghatározott kapcsolat áll fenn;
 
 8.7. az a szolgáltatás, amelyet a kifizető az általa fenntartott vagy használt sportlétesítményben szervezett sportrendezvényen nyújt (kivéve az utazást, az elszállásolást), továbbá az a sportszolgáltatás, amelyet a kifizető az általa fenntartott sportlétesítmény használata útján juttat, valamint az a szolgáltatás, amelyet a sportszervezet, országos sportági szakszövetség a versenysport, diáksport érdekében szervezett edzés vagy verseny – vele munkaviszonyban, megbízási vagy vállalkozási jogviszonyban nem álló – résztvevőjének az edzési vagy versenyfeladathoz tartozó utazás, szállás és étkezési szolgáltatás révén juttat, azzal hogy a sportoló 30 napnál hosszabb folyamatos elszállásolására (így különösen szállodai elhelyezésére) csak akkor lehet e rendelkezést alkalmazni, ha az az olimpiai játékokon, a világbajnokságon, az Európa-bajnokságon, a speciális világjátékokon vagy a Heraklész program keretében való versenyzést, illetve az arra történő közvetlen felkészülést szolgálja;
 
@@ -560,11 +562,13 @@ c) az a)–b) pontokban említett rendezvényeken a gyermekek, tanulók felügye
 
 8.27. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény rendelkezései szerint rendszeres gyermekvédelmi kedvezményre jogosult gyermeknek, fiatal felnőttnek a települési önkormányzat jegyzője által fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható, az Erzsébet-programról szóló törvény szerinti Erzsébet-utalvány formájában nyújtott természetbeni támogatás;
 
-8.28. az ingyenesen vagy kedvezményesen
+8.28. a kifizető által ugyanazon magánszemélynek ingyenesen vagy kedvezményesen juttatott
 
-a) juttatott, a sportról szóló törvény hatálya alá tartozó sportrendezvényre szóló belépőjegy, bérlet;
+a) a sportról szóló törvény hatálya alá tartozó sportrendezvényre szóló belépőjegy, bérlet,
 
-b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ezer forint értékben juttatott, kulturális szolgáltatás igénybevételére – muzeális intézmény és művészeti létesítmény (kiállítóhely) kiállítására, színház-, tánc-, cirkusz- vagy zeneművészeti előadásra, közművelődési tevékenységet folytató szervezet által nyújtott kulturális szolgáltatás igénybevételére – szóló belépőjegy, bérlet, továbbá könyvtári beiratkozási díj, ide nem értve a Széchenyi Pihenő Kártya szabadidő alszámlájára utalt munkáltatói támogatást;
+b) kulturális szolgáltatás igénybevételére (muzeális intézmény és művészeti létesítmény (kiállítóhely) kiállítására, színház-, tánc-, cirkusz- vagy zeneművészeti előadásra, közművelődési tevékenységet folytató szervezet által nyújtott kulturális szolgáltatás igénybevételére ) szóló belépőjegy, bérlet, továbbá könyvtári beiratkozási díj
+
+az adóévben legfeljebb – az a) és b) pont szerinti juttatási körben külön-külön – a minimálbért meg nem haladó értékben, feltéve, hogy a belépőjegy, bérlet – a magánszemélynek ki nem osztott (nem juttatott) belépőjegyek, bérletek visszaváltása kivételével – nem visszaváltható, továbbá azzal, hogy nem adómentes az említett juttatásokra szóló utalvány;
 
 8.29. a munkáltató, volt munkáltató által a csoportos létszámleépítés miatt elbocsátott, vagy elbocsátandó munkavállalók részére nyújtott olyan szolgáltatás, mellyel a munkáltató a munkavállaló újra-elhelyezkedését támogatja, azzal, hogy e rendelkezés alkalmazásában a munkavállaló újra-elhelyezkedését támogató szolgáltatásnak minősül a pszichológiai tanácsadás, az át-, illetve továbbképzés, a munkajogi tanácsadás;
 
@@ -620,41 +624,7 @@ ce) a vízügy területén a gát- és csatornaőri munkakörökben, valamint a 
 
 d) a kifejezetten jelmezszerű öltözet (így különösen: a kosztümös színielőadások jelmezei), a szolgáltatási tevékenységet végzők (portás, pincér, sportjátékvezető, kegyeleti szolgáltatást végző stb.) megkülönböztető jellegű ruházata és tartozékai, amely az adott munkaköri feladat ellátásán kívüli viseletre alkalmatlan.
 
-9.3. A lakáscélú munkáltatói támogatás adómentességével kapcsolatos szabályok
-
-9.3.1. Lakáscélú felhasználás:
-
-a) a belföldön fekvő lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak adásvétel vagy más visszterhes szerződés keretében történő megszerzése (ideértve a lakás zártvégű lízingbe vételét is),
-
-b) a belföldön fekvő lakás építése, építtetése,
-
-c) a belföldön fekvő lakás alapterületének legalább egy lakószobával történő bővítését eredményező növelése,
-
-d) a korszerűsítés,
-
-e) a akadálymentesítés.
-
-9.3.2. A lakáscélú munkáltatói támogatás akkor tekinthető adómentesnek, ha a munkáltató a támogatás folyósításának évét követő év május 31-éig, lakás építéséhez, építtetéséhez, alapterületének növeléséhez, korszerűsítéséhez és akadálymentesítéséhez adott támogatás esetén a folyósítás évét követő második év május 31-éig rendelkezik az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal, azzal, hogy amennyiben a lakáscélú hitel felhasználásával megszerzett (épített, építtetett) lakás a támogatás folyósításakor már nincs a munkavállaló tulajdonában (haszonélvezetében), akkor a méltányolható lakásigénynek való megfelelés igazolására a hitel folyósítója által kiállított, a méltányolható lakásigény korábbi vizsgálatáról készült okirat másolata, ennek hiányában a munkavállaló által a méltányolható lakásigénynek való megfelelésről tett nyilatkozata és a megfelelést – a hitel folyósítását követő bármely, a tulajdonjog (haszonélvezeti jog) fennállásának időszakára eső időpontra vonatkozóan – igazoló okirat, bizonylat is elfogadható. Ha a munkáltató nem rendelkezik az e törvényben vagy az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal, a lakáscélú munkáltatói támogatás 20 százalékkal növelt összegben a támogatásban részesült magánszemély munkaviszonyból származó jövedelmének minősül. E jövedelem megszerzésének időpontja a támogatás folyósításának évét követő év május hónapja, lakás építéséhez, építtetéséhez, alapterületének növeléséhez és korszerűsítéséhez adott támogatás esetén a folyósítás évét követő második év május hónapja.
-
-9.3.3. A hitelintézet, a kincstár a közvetítésével nyújtott lakáscélú munkáltatói támogatásról kiállított igazolás adattartalmáról, a munkáltató a kölcsön általa elengedett összegéről adatot szolgáltat az állami adó- és vámhatóságnak.
-
-9.3.4. A lakáscélú munkáltatói támogatás adómentességével kapcsolatos rendelkezések alkalmazásában az egyes fogalmak jelentése a következő:
-
-a) korszerűsítés: a lakás komfortfokozatának növelése céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, megfelelő beltéri légállapoti és használati meleg vizet biztosító épülettechnikai rendszer kialakítása vagy cseréje, beleértve a megújuló energiaforrások (pl. napenergia) alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos cseréje, tető cseréje, felújítása, szigetelése. A korszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20% százalékáig;
-
-b) akadálymentesítés: a mozgáskorlátozott személy fogyatékossága jellegéből fakadó, a lakáshasználattal összefüggő életvitel nehézségeit csökkentő, a rendeltetésszerű használatot biztosító műszaki akadálymentesítési munkák elvégzése új lakóépületen vagy új lakáson, meglévő lakóépületen vagy használt lakáson;
-
-c) a méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
-
-ca) egy-két személy esetében: legfeljebb három lakószoba,
-
-cb) három-négy személy esetében: legfeljebb négy lakószoba.
-
-Minden további személy esetében egy lakószobával nő a lakásigény mértéke.
-
-E rendelkezés alkalmazásában nem minősül lakószobának az a lakóhelyiség, amelynek hasznos alapterülete nem haladja meg a 8 négyzetmétert. A lakószoba – a meglévő, kialakult állapotot kivéve – legfeljebb 30 négyzetméter, legalább egy 2 méter széles – ajtó és ablak nélküli – falfelülettel rendelkező lakóhelyiség. A 30 négyzetméternél nagyobb lakóhelyiséget két szobaként kell számításba venni. Ha a nappali szoba, az étkező és a konyha osztatlan közös térben van, és hasznos alapterületük együttesen meghaladja a 60 négyzetmétert, úgy két szobaként kell figyelembe venni. A 8 négyzetméternél nagyobb, de 12 négyzetmétert meg nem haladó lakóhelyiségek esetében két ilyen lakóhelyiséget egy lakószobaként kell figyelembe venni, azzal, hogy ha az így kapott szobaszám nem egész szám, a szobaszámot lefelé kerekítve kell megállapítani.
-
-d) együtt költöző, együtt lakó családtagok: a támogatást igénylő munkavállaló, továbbá jövedelmüktől és életkoruktól függetlenül a munkavállaló polgári törvénykönyv szerinti közeli hozzátartozói, házastársának közeli hozzátartozói, élettársa és annak közeli hozzátartozói, feltéve, hogy a lakáscélú munkáltatói támogatással, munkáltatói lakáscélú hitellel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak. Fiatal gyermektelen házaspár esetében a méltányolható lakásigény meghatározásánál együtt költöző, együtt lakó családtagként legfeljebb három születendő gyermeket, egy gyermekes fiatal házaspár esetében további két születendő gyermeket, két gyermekes fiatal házaspár esetében pedig további egy születendő gyermeket is számításba lehet venni. Fiatal a házaspár, ha a lakáscélú munkáltatói támogatás igénylésekor a házastársak egyike sem töltötte be a 40. életévét.
+9.3.
 
 9.4. A termőföld bérbeadásából származó jövedelem adómentességére vonatkozó szabályok
 
@@ -694,37 +664,7 @@ A jövedelem megállapítására értelemszerűen e törvénynek az ingatlan, va
 
 9.6.
 
-9.7. A munkáltató által nyújtott mobilitási célú lakhatási támogatás adómentességével kapcsolatos szabályok
-
-9.7.1. A lakhatási támogatás havi értékeként
-
-a) a munkavállaló által bérelt lakás bizonylattal igazolt havi bérleti díjából a munkáltató által térített rész,
-
-b) a munkáltató által bérelt lakás bizonylattal igazolt havi bérleti díjából a munkavállaló által meg nem térített rész,
-
-c) a munkáltató tulajdonában álló lakásban biztosított lakhatás szokásos piaci értékéből a munkavállaló által meg nem térített rész
-
-vehető figyelembe.
-
-9.7.2. A munkáltató által nyújtott lakhatási támogatás abban az esetben tekinthető mobilitási célú lakhatási támogatásnak, ha a munkáltató azt olyan munkavállalónak nyújtja
-
-a) akivel legalább heti 36 óra munkaidejű munkaviszonyt létesít, amely esetben a lakóhelye és a munkavégzés helye legalább 60 km-re van egymástól, vagy a munkavégzés helye és a lakóhelye közötti, naponta, tömegközlekedési eszközzel történő oda- és visszautazás ideje a 3 órát meghaladja,
-
-b) aki nem rendelkezett a munkaviszony létrejöttét megelőző 12 hónapban, és nem rendelkezik a támogatás nyújtásának időpontjában lakás haszonélvezeti joggal nem terhelt 50 százalékot meghaladó mértékű tulajdonjogával, haszonélvezeti jogával a munkavégzés helyén, valamint olyan településen, amelynek a munkavégzés helyétől való távolsága nem éri el a 60 km-t, vagy amelytől a munkavégzési helyéig, tömegközlekedési eszközzel történő oda- és visszautazás ideje nem éri el a 3 órát.
-
-9.7.3. Amennyiben munkavállaló által bérelt ugyanazon lakás tekintetében több magánszemély is jogosult adómentes lakhatási támogatás igénybevételére, azt közülük csak – a döntésük szerinti – egyikük veheti igénybe.
-
-9.7.4. A munkavállaló a 9.7.2. és 9.7.3. alpont szerinti feltételek teljesüléséről vagy azok megszűnéséről a munkáltatónak nyilatkozatot tesz. Valótlan tartalmú nyilatkozat esetén vagy a nyilatkozat módosításának elmulasztása esetén az adókötelezettséget a munkaviszonyból származó jövedelemre vonatkozó szabályok szerint kell megállapítani azzal, hogy az állami adó- és vámhatóság határozatában az egyébként a munkáltatót (foglalkoztatót) terhelő közterheket és azok teljesítése elmulasztásának jogkövetkezményeit a magánszemély terhére állapítja meg.
-
-9.7.5. A munkáltató által nyújtott mobilitási célú lakhatási támogatás adómentességével kapcsolatos szabályok alkalmazásában
-
-a) ugyanazon munkáltatónak minősül az a személy is, aki (amely) a munkáltatónak a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozása,
-
-b) munkaerő-kölcsönzés esetében az a) pont rendelkezését a kölcsönvevő és kapcsolt vállalkozásaira kell alkalmazni,
-
-c) nem tekinthető munkavállalónak az a magánszemély, akivel a munkáltató a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozásnak minősülő eset szerinti kapcsolatban áll.
-
-9.7.6. A munkáltató az adóévet követő év január 31-ig munkavállalónként adatot szolgáltat az adómentes támogatásban részesített magánszemélyek nevéről, adóazonosító jeléről, a munkavállaló által bérelt lakás címéről.
+9.7.
 
 9.8. Az erdőnek minősülő termőföld haszonbérbe adásából, valamint az erdőnek minősülő termőföldön folytatott társult erdőgazdálkodásból származó jövedelem adómentességére vonatkozó szabályok
 

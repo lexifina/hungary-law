@@ -24,6 +24,8 @@ k) a jóváhagyott osztalék adójával szemben az adóévet megelőzően felvet
 
 l) valamely bevételével összefüggésben az egyszerűsített közteherviselési hozzájárulásról szóló törvény szabályai szerint különadót köteles fizetni, vagy a kifizetőt és az őt terhelő egyszerűsített közteherviselési hozzájárulás megállapítását, bevallását és megfizetését a kifizetőtől átvállalta;
 
-m) valamely bevételével összefüggésben egészségügyi hozzájárulásra előlegfizetési kötelezettsége keletkezett;
+m) valamely bevételével összefüggésben szociális hozzájárulási adóra előlegfizetési kötelezettsége keletkezett;
 
-n) adóját e törvény külön rendelkezése szerint adóbevallásában kell (lehet) megállapítani.
+n) adóját e törvény külön rendelkezése szerint adóbevallásában kell (lehet) megállapítani;
+
+o) egyéni vállalkozó volt, kivéve, ha vállalkozói tevékenységét az adóév egészében szüneteltette és ezért ezzel összefüggésben bevallási kötelezettség nem terheli.

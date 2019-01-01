@@ -8,7 +8,7 @@
 
 (5) A mezőgazdasági őstermelő az adóévben elhatárolt veszteségét – a (2) bekezdésben foglaltaktól függetlenül – az adóévet megelőző két évre visszamenőlegesen is rendezheti adóbevallásának önellenőrzésével oly módon, hogy a megelőző két év egyikében vagy mindkettőben megszerzett, őstermelői tevékenységből származó jövedelmét (ideértve az önellenőrzés során feltárt jövedelmet is) csökkenti adóévenként az elhatárolt veszteség 30 százalékával. E rendelkezést a mezőgazdasági őstermelő döntése szerint az adóellenőrzés során is figyelembe kell venni. Ha ezzel nem él, vagy ha elhatárolt veszteségének csak egy részét rendezi a megelőző két év terhére, a fennmaradó részre a (2)–(3) bekezdés rendelkezései alkalmazhatók.
 
-(6) A tételes költségelszámolást alkalmazó mezőgazdasági kistermelő az e tevékenységéből származó – a 21. § rendelkezései szerint csökkentett – bevételéből ezen bevétel 40 százalékát kistermelői költségátalány címén igazolás nélkül számolhat el, igazolt költségein felül. Ebben az esetben veszteséget mindaddig nem határolhat el, amíg – választása szerint – ezt a kistermelői költséghányadot elszámolja.
+(6) A tételes költségelszámolást alkalmazó mezőgazdasági kistermelő az e tevékenységéből származó – a 21. § rendelkezései szerint csökkentett – bevételéből ezen bevétel 40 százalékát kistermelői költségátalány címén igazolás nélkül számolhat el, számlával (számlákkal), más bizonylattal (bizonylatokkal) igazolt költségein felül. Ebben az esetben veszteséget mindaddig nem határolhat el, amíg – választása szerint – ezt a kistermelői költséghányadot elszámolja.
 
 (7) Ha a mezőgazdasági őstermelő e tevékenysége mellett egyéni vállalkozói tevékenységet is folytat,
 

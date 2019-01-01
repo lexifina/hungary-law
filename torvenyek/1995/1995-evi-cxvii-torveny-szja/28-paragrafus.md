@@ -16,7 +16,7 @@ f) az önkéntes kölcsönös biztosítópénztár által a magánszemély tag e
 
 fa) a magánszemély saját befizetését,
 
-fb) azt a jóváírást, amelynek forrásául szolgáló összeget más jövedelemként kell figyelembe venni, vagy a jövedelem megállapításánál bevételként nem kell figyelembe venni,
+fb) azt a jóváírást, amelynek forrásául szolgáló összeget más jövedelemként kell figyelembe venni (ideértve különösen a munkáltatói hozzájárulást és a tag javára utalt támogatói adományt), vagy a jövedelem megállapításánál bevételként nem kell figyelembe venni,
 
 fc) a fedezeti alapból történő befektetések hozamát,
 

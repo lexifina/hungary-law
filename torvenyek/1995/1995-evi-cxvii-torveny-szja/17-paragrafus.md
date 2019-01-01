@@ -18,6 +18,8 @@ vagy
 
 b) az önálló tevékenység bevételének 10 százaléka (10 százalék költséghányad).
 
+(3a) Ingatlan bérbeadása esetén nem minősül bevételnek az ingatlan használatához kapcsolódó, más személy által nyújtott, e személytől vásárolt szolgáltatásnak (így különösen a közüzemi szolgáltatásnak) a bérbeadó által a bérbevevőre – az igénybevétellel arányosan – áthárított díja.
+
 (4) A 16. § (1) bekezdése, valamint e § (3) bekezdése rendelkezésétől eltérően a magánszemély termőföld-bérbeadásból származó bevételének – ha az nem adómentes – egésze külön adózó jövedelem, amelynek bevallására és a jövedelmet terhelő adó megfizetésére a 73. § rendelkezéseit kell alkalmazni.
 
 (5) Lakás bérbeadása esetén a bérbeadó magánszemély a bérbeadásból származó bevételéből levonhatja a más településen általa bérbevett lakás ugyanazon évben igazoltan megfizetett bérleti díját, feltéve, hogy a bérbeadás, illetve a bérbevétel időtartama a 90 napot meghaladja és a bérbevett lakással összefüggésben a magánszemély más tevékenységéből származó bevételével szemben költséget nem számol el, vagy az igazoltan megfizetett bérleti díjat számára még részben sem térítették meg.

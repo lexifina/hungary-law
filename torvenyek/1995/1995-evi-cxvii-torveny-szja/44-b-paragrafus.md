@@ -48,7 +48,7 @@ ac) az osztalék jóváírások,
 
 ad) a nyugdíj-előtakarékossági nyilatkozat alapján átutalt jóváírások
 
-halmozott összegét, azzal, hogy adózott követelésállomány feltüntetése esetén csak annak nyilvántartásba vételét követően jóváírt tételeket kell szerepeltetni az ab)–ad) pont szerinti halmozott összegekben;
+halmozott összegét, külön is feltüntetve az adóévben teljesített befizetéseket, azzal, hogy adózott követelésállomány feltüntetése esetén csak annak nyilvántartásba vételét követően jóváírt tételeket kell szerepeltetni az ab)–ad) pont szerinti halmozott összegekben;
 
 b) a bekezdés b) pontja szerinti áthelyezés esetén a (4) bekezdés rendelkezését csak akkor nem kell alkalmazni, ha az áthelyezést követő 30 napon belül, vagy az átruházásra vonatkozó ügyletben jogszabály alapján meghatározott időpontig a magánszemély nyugdíj-előtakarékossági pénzszámlájára az értékpapír eladására adott megbízás teljesítés-igazolása szerinti összeget az ügyletben közreműködő befektetési szolgáltató átutalta, vagy ennek hiányában a magánszemély az értékpapír áthelyezés napján irányadó szokásos piaci értékének megfelelő összeget befizette, azzal, hogy az átutalt/befizetett összeg nem minősül nyugdíj-előtakarékossági nyilatkozat adására jogosító befizetésnek;
 

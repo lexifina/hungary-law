@@ -12,7 +12,7 @@ Költségként elszámolható kiadások különösen a következők:
 
 1. az anyagbeszerzésre, az árubeszerzésre, a göngyöleg beszerzésére (csökkentve a szállítónak visszaküldött betétdíjas göngyöleg ellenértékével), a szállításra fordított kiadás;
 
-2. a kizárólag üzemi célt szolgáló tárgyi eszközök, nem anyagi javak beszerzésére, előállítására fordított kiadás, ha az a 100 ezer forintot nem haladja meg, továbbá ezen tárgyi eszközök – a mezőgazdasági őstermelő esetében a kizárólag üzemi célt szolgáló tárgyi eszközök és nem anyagi javak beszerzési értékétől függetlenül is – folyamatos, zavartalan, biztonságos üzemeltetését szolgáló javítási, karbantartási munkára fordított kiadás, azzal, hogy a járművek esetében a IV. fejezetben foglaltakat kell alkalmazni;
+2. a kizárólag üzemi célt szolgáló tárgyi eszközök, nem anyagi javak beszerzésére, előállítására fordított kiadás, ha az a 200 ezer forintot nem haladja meg, továbbá ezen tárgyi eszközök – a mezőgazdasági őstermelő esetében a kizárólag üzemi célt szolgáló tárgyi eszközök és nem anyagi javak beszerzési értékétől függetlenül is – folyamatos, zavartalan, biztonságos üzemeltetését szolgáló javítási, karbantartási munkára fordított kiadás, azzal, hogy a járművek esetében a IV. fejezetben foglaltakat kell alkalmazni;
 
 3. az önálló tevékenységet végző magánszeméllyel munkaviszonyban álló magánszemély (a továbbiakban: alkalmazott)
 
@@ -24,7 +24,7 @@ c) javára megítélt és kifizetett baleseti kártérítés,
 
 d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszerződés alapján járó, a munkáltatót kötelezően terhelő juttatás, kifizetés;
 
-4. a mezőgazdasági őstermelőnél a 16. életévét betöltött segítő családtag részére kifizetett – de legfeljebb a mindenkori minimálbért meg nem haladó – összeg és annak közterhei, feltéve, hogy a segítő családtag legalább heti 40 órában közreműködik (főállású segítő családtag) vagy, ha a közreműködés ideje ennél kevesebb, akkor ezzel arányos rész, azzal, hogy egyebekben a főállású segítő családtag kizárólag a 3. pont vonatkozásában alkalmazottnak minősül;
+4.
 
 5. a befizetett saját szociális hozzájárulási adó;
 
@@ -66,9 +66,9 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 24. a Munka Törvénykönyvének a távmunkavégzésre vonatkozó rendelkezéseinek megfelelően, a munkaszerződésben foglaltak szerint távmunkát végző munkavállalót a távmunkavégzéssel összefüggésben terhelő költség(ek) megtérítése érdekében a munkáltató által kifizetett bevétellel szemben a munkavállaló a következő, igazolt kiadás(ok) alapján számolhat el költséget
 
-a) a távmunkavégzéshez, valamint a kapcsolattartáshoz szükséges nem anyagi jószág, számítógép, számítástechnikai eszköz megszerzésére fordított, 100 ezer forintot meg nem haladó kiadás,
+a) a távmunkavégzéshez, valamint a kapcsolattartáshoz szükséges nem anyagi jószág, számítógép, számítástechnikai eszköz megszerzésére fordított, 200 ezer forintot meg nem haladó kiadás,
 
-b) a távmunkavégzéshez, valamint a kapcsolattartáshoz szükséges nem anyagi jószág, számítógép, számítástechnikai eszköz megszerzésére fordított, 100 ezer forintot meghaladó kiadás esetében 33 százalékos leírási kulcs alkalmazásával értékcsökkenési leírás címén megállapított összeg; az értékcsökkenési leírást egyebekben – a III. fejezetben foglaltaktól függetlenül – a 11. számú melléklet értékcsökkenés elszámolására vonatkozó rendelkezéseinek megfelelő alkalmazásával kell megállapítani, és a költségként történő elszámolás feltétele külön részletező nyilvántartás(ok) vezetése,
+b) a távmunkavégzéshez, valamint a kapcsolattartáshoz szükséges nem anyagi jószág, számítógép, számítástechnikai eszköz megszerzésére fordított, 200 ezer forintot meghaladó kiadás esetében 33 százalékos leírási kulcs alkalmazásával értékcsökkenési leírás címén megállapított összeg; az értékcsökkenési leírást egyebekben – a III. fejezetben foglaltaktól függetlenül – a 11. számú melléklet értékcsökkenés elszámolására vonatkozó rendelkezéseinek megfelelő alkalmazásával kell megállapítani, és a költségként történő elszámolás feltétele külön részletező nyilvántartás(ok) vezetése,
 
 c) az internet-használat díja (ideértve különösen az egyszeri, a havi, a forgalmi díjat),
 
@@ -100,7 +100,7 @@ b) az a) pontban nem említett esetben a külföldi kiküldetésre tekintettel m
 
 8. a járművezető gyakorlati szakoktatók saját jármű üzemeltetésének költségtérítéséről szóló kormányrendelet szerint figyelembe vehető költségátalány.
 
-9. a külképviseletekről és a tartós külszolgálatról szóló törvény szerint tartós külszolgálatra kihelyezett magánszemély, és a honvédek jogállásáról szóló törvény hatálya alatt álló tartós külföldi szolgálatra kihelyezett szolgálati jogviszonyban álló személy, valamint a közalkalmazottak jogállásáról szóló törvény hatálya alatt álló 90 napot meghaladó külföldi kiküldetést teljesítő, a Magyar Honvédség személyi állományába tartozó, közalkalmazotti jogviszonyban álló személy részére a saját és hozzátartozói külföldi életvitelével kapcsolatban felmerülő többletköltségek fedezetére az említett törvény vagy a végrehajtására kiadott más jogszabály alapján megállapított átalány-költségtérítés összege.
+9. a külképviseletekről és a tartós külszolgálatról szóló törvény szerint tartós külszolgálatra kihelyezett magánszemély, és a honvédek jogállásáról szóló törvény hatálya alatt álló tartós külföldi szolgálatra kihelyezett szolgálati jogviszonyban álló személy, valamint a közalkalmazottak jogállásáról szóló törvény hatálya alatt álló 90 napot meghaladó külföldi kiküldetést teljesítő, a Magyar Honvédség személyi állományába tartozó, közalkalmazotti jogviszonyban álló személy részére a saját és hozzátartozói külföldi életvitelével kapcsolatban felmerülő többletköltségek fedezetére a vonatkozó törvény vagy a végrehajtására kiadott más jogszabály alapján megállapított átalány-költségtérítés, valamint a külképviseletekről és a tartós külszolgálatról szóló törvény szerint tartós külszolgálatra kihelyezettet megillető egyszeri költözési költségtérítés összege;
 
 10. a magyar nyelv és a kultúra külföldi felsőoktatási intézményekben történő oktatásának és megismertetésének, valamint a külföldi hungarológiai oktatás és kutatás hatékonyabb támogatásának biztosítása érdekében működtetett vendégoktatói ösztöndíjprogram keretében a vendégoktató által végzett tevékenységre tekintettel juttatott, a Kormány rendeletében meghatározott mértékű költségtérítés összege.
 
@@ -168,7 +168,7 @@ V. A jövedelem megállapításakor költségként figyelembe nem vehető kiadá
 
 7. azok a kiadások, amelyek az I–IV. fejezetben és az általános, valamint az önálló tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
 
-8. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint nem megállapodás alapján fizetett nyugdíjjárulék és egészségbiztosítási járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett tagdíj;
+8. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint nem megállapodás alapján fizetett nyugdíjjárulék, egészségbiztosítási járulék és munkaerőpiaci járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett tagdíj;
 
 9. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján fizetett járulék, illetőleg tagdíj;
 
@@ -178,4 +178,4 @@ V. A jövedelem megállapításakor költségként figyelembe nem vehető kiadá
 
 12. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a magánszemély által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
 
-13. a jövedelem után a magánszemély által fizetendő 14 százalékos mértékű egészségügyi hozzájárulás.
+13. a jövedelem után a magánszemély által fizetendő szociális hozzájárulási adó.

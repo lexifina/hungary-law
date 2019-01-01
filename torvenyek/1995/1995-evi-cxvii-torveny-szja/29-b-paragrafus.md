@@ -2,7 +2,7 @@
 
 (1a) A családi kedvezményt a jogosult arra a hónapra tekintettel veheti igénybe, mely számára jogosultsági hónapnak minősül. Több jogosult esetén az adott jogosultsági hónap után járó családi kedvezményt a jogosultak közösen is igénybe vehetik.
 
-(1b) Ha az adott jogosultsági hónap után járó családi kedvezményre egy magánszemély jogosult, az őt megillető családi kedvezményt adóbevallásban megoszthatja a vele közös háztartásban élő, jogosultnak nem minősülő házastársával, élettársával, ideértve azt az esetet is, ha a családi kedvezményt a jogosult egyáltalán nem tudja érvényesíteni. Azon jogosultsági hónapokra eső családi kedvezményre, amelyre vonatkozóan a jogosult vagy házastársa, élettársa a gyermeket nevelő egyedülálló családi pótlékát igénybe veszi, a megosztás nem alkalmazható.
+(1b) Ha az adott jogosultsági hónap után járó családi kedvezményre egy magánszemély jogosult, az őt megillető családi kedvezményt adóbevallásban megoszthatja a vele közös háztartásban élő, jogosultnak nem minősülő házastársával, élettársával, ideértve azt az esetet is, ha a családi kedvezményt a jogosult egyáltalán nem tudja érvényesíteni. Azon jogosultsági hónapokra eső családi kedvezményre, amelyre vonatkozóan a jogosult vagy házastársa, élettársa a gyermeket nevelő egyedülálló családi pótlékát igénybe veszi, a megosztás nem alkalmazható, ide nem értve, ha a jogosult a családok támogatásáról szóló 1998. évi LXXXIV. törvény 12. § (3) bekezdése alapján minősül egyedülállónak.
 
 (1c) A családi kedvezmény közös igénybevétele, megosztása az adóbevallásban a 29/A. § (3) bekezdés c)–d) pontjában nem említett jogosultak esetében független attól, hogy az adóelőleg megállapításánál mely jogosultnál történt annak figyelembevétele.
 

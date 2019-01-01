@@ -18,11 +18,11 @@ d) az osztalékelőlegnek az a része, amely a kifizetését követő első besz
 
 e) az adó, az adóelőleg, a járulék, társadalombiztosítási és családtámogatási ellátás megállapításával (elszámolásával) összefüggésben, valamint a munkaviszonyból származó jövedelem elszámolása (számfejtése) során az elszámolás szokásszerű rendjéből adódóan keletkezett követelés; e rendelkezés nem alkalmazható a munkáltató, a bér kifizetője, a társas vállalkozás által megfizetett, de le nem vont adóelőleg miatt keletkezett követelésnek arra a részére, amelynek beszámítására az adóelőleg megfizetésének hónapját követő hatodik hónap elteltével nem került sor;
 
-f) lakáscélú hitel, ha azt a munkáltató munkavállalójának vagy helyi önkormányzat a magánszemélynek hitelintézet vagy a Magyar Államkincstár útján, annak igazolása alapján olyan lakása építéséhez, vásárlásához, bővítéséhez, korszerűsítéséhez, akadálymentesítéséhez, vagy bármely, az említett célra hitelintézettől, vagy bármely, az említett célra korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez nyújtotta, amely lakás nem haladja meg az 1. számú melléklet 9. pont 9.3. alpont 9.3.4. pontjában meghatározott méltányolható lakásigény mértékét, azzal, hogy korszerűsítésnek, akadálymentesítésnek az 1. számú melléklet 9. pont 9.3 alpont 9.3.4. pontjában meghatározott korszerűsítés, akadálymentesítés minősül;
+f) a folyósítás évét megelőző négy évben lakáscélú hitelként folyósított összegekkel együtt a 10 millió forint összeget meg nem haladó összegű, ugyanazon magánszemélynek nyújtott hitel, ha azt a munkáltató munkavállalójának vagy helyi önkormányzat a magánszemélynek hitelintézet vagy a Magyar Államkincstár útján, annak igazolása alapján saját lakás építéséhez, építtetéséhez, vásárlásához, bővítéséhez, korszerűsítéséhez, akadálymentesítéséhez, vagy bármely említett célra hitelintézettől vagy korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez nyújtotta;
 
 g) olyan munkabérelőleg, amelynek folyósítása legfeljebb hat havi visszafizetési kötelezettség mellett, legfeljebb a folyósítás napján érvényes minimálbér havi összegének ötszörösét meg nem haladó értékben történik, azzal, hogy ha a munkáltató az általa az előzőek szerint folyósított munkabérelőleg visszafizetése előtt újabb munkabérelőleget folyósít, arra ez a rendelkezés nem alkalmazható;
 
-h) a Magyar Honvédség, a rendvédelmi szervezetek és a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja részére jogszabály alapján folyósított családalapítási támogatás, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogszabály alapján folyósított toborzópénz és családalapítási támogatás;
+h) a rendvédelmi feladatokat ellátó szervek hivatásos állományú tagja részére jogszabály alapján folyósított családalapítási támogatás, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogszabály alapján folyósított toborzópénz, szerződés-hosszabbítási díj, visszailleszkedési támogatás, a honvédek jogállásáról szóló 2012. évi CCV. törvény 74/A. §-a szerinti juttatás és családalapítási támogatás, feltéve, ha azt vissza kell fizetni;
 
 i) az állami tulajdon megvásárlásához hitelintézet útján nyújtott hitel;
 
@@ -37,3 +37,15 @@ m) a Munka Törvénykönyve szerint a munkavállaló kártérítési felelőssé
 n) a külföldi kiküldetésre, külszolgálatra tekintettel adott előleg, elszámolásra kiadott összeg, feltéve, hogy annak a kifizetővel való elszámolása a visszaérkezést követő 30 napon belül megtörténik.
 
 o) a pénzügyi intézmény által független félnek üzletszerű pénzügyi szolgáltatása keretében nyújtott olyan hitel vagy kölcsön, amellyel összefüggésben az adós fizetőképességének helyreállítását vagy megőrzését célzó intézkedések kerültek végrehajtásra.
+
+(5) A (4) bekezdés f) pont alkalmazásában
+
+a) lakás vásárlása: a belföldön fekvő lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak adásvétel vagy más visszterhes szerződés keretében történő megszerzése (ideértve a lakás zártvégű lízingbe vételét is);
+
+b) lakás bővítése: a lakás alapterületének legalább egy lakószobával történő bővítését eredményező növelése;
+
+c) korszerűsítés: a lakás komfortfokozatának növelése céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, megfelelő beltéri légállapoti és használati meleg vizet biztosító épülettechnikai rendszer kialakítása vagy cseréje, beleértve a megújuló energiaforrások (pl. napenergia) alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos cseréje, tető cseréje, felújítása, szigetelése, a korszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20 százalékáig;
+
+d) akadálymentesítés: a mozgáskorlátozott személy fogyatékossága jellegéből fakadó, a lakáshasználattal összefüggő életvitel nehézségeit csökkentő, a rendeltetésszerű használatot biztosító műszaki akadálymentesítési munkák elvégzése új lakóépületen vagy új lakáson, meglévő lakóépületen vagy használt lakáson;
+
+e) lakószoba: legalább egy 2 méter széles – ajtó és ablak nélküli – falfelülettel is rendelkező lakóhelyiség; e rendelkezés alkalmazásában nem minősül lakószobának az a lakóhelyiség, amelynek hasznos alapterülete nem haladja meg a 8 négyzetmétert; a 8 négyzetméternél nagyobb, de 12 négyzetmétert meg nem haladó lakóhelyiségek esetében két ilyen lakóhelyiség egy lakószobaként vehető figyelembe.

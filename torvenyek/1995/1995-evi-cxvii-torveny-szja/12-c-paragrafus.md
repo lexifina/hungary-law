@@ -12,7 +12,7 @@ c) az egyszerűsített foglalkoztatásról szóló törvény szerinti jogviszony
 
 d) a magánszemélyek egyes jövedelmeinek különadójára vonatkozó szabályokat tartalmazó törvény hatálya alá tartozó különadóalapot képező bevételt és annak adóját,
 
-e) az egészségügyi hozzájárulásról szóló törvény szerinti százalékos mértékű egészségügyi hozzájárulás alapját képező jövedelmet és az utána fizetendő egészségügyi hozzájárulást.
+e) a szociális hozzájárulási adóról szóló törvény szerint a szociális hozzájárulási adó alapját képező jövedelmet és az utána fizetendő szociális hozzájárulási adót.
 
 (4) Ha a magánszemély az adóbevallási tervezetben feltüntetett adatokkal, illetve az annak alapjául szolgáló, az állami adó- és vámhatóság nyilvántartásában szereplő adatokkal nem ért egyet, az adóbevallási tervezet adatait az adóévet követő év május 20-ig az erre a célra kialakított elektronikus felületen javíthatja, kiegészítheti, vagy az erre a célra rendszeresített nyomtatványon bevallást nyújthat be. A postai úton megküldött adóbevallási tervezet adatainak kiegészítésére, javítására az Eüsztv. szerinti elektronikus azonosítási szolgáltatás alkalmazásával elérhető elektronikus felületen vagy az adóhatóság közreműködése nélkül elkészített bevallás benyújtásával van lehetőség.
 
@@ -20,7 +20,7 @@ e) az egészségügyi hozzájárulásról szóló törvény szerinti százaléko
 
 (6) Ha a magánszemély az adóbevallási tervezet adatait az adóévet követő év május 20. napjáig nem javítja, nem egészíti ki, vagy bevallási kötelezettségét más módon nem teljesíti, akkor – ide nem értve az (5) bekezdés és a 11/A. § (2) bekezdés szerinti esetet – úgy kell tekinteni, hogy az adóbevallási tervezetben foglaltakkal egyetért, és az adóbevallási tervezet a magánszemély által benyújtott bevallásnak minősül.
 
-(7) A (6) bekezdéstől eltérően az adóköteles bevételt szerzett mezőgazdasági őstermelő, az általános forgalmi adó fizetésére kötelezett magánszemély adóbevallási kötelezettségét akkor teljesíti, ha az adóbevallási tervezet felhasználásával vagy adóhatósági közreműködés nélkül bevallást nyújt be.
+(7) A (6) bekezdéstől eltérően az adóköteles bevételt szerzett mezőgazdasági őstermelő, az általános forgalmi adó fizetésére kötelezett magánszemély és az egyéni vállalkozó adóbevallási kötelezettségét akkor teljesíti, ha az adóbevallási tervezet felhasználásával vagy adóhatósági közreműködés nélkül bevallást nyújt be.
 
 (8) Ha a magánszemély az adóhatóság által elkészített adóbevallási tervezetet a (4) bekezdés szerint javította, kiegészítette, vagy bevallási kötelezettségét más módon teljesítette, a javított, a kiegészített, vagy az magánszemély által adóhatósági közreműködés nélkül elkészített bevallás válik a magánszemély személyi jövedelemadó bevallásává. Ha a magánszemély által a bevallási határidőt követően benyújtott bevallással együtt előterjesztett igazolási kérelmet az állami adó- és vámhatóság elfogadja, az így benyújtott bevallás minősül a magánszemély adóbevallásának.
 

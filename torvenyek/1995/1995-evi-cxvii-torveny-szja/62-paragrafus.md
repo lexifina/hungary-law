@@ -28,15 +28,17 @@ azzal, hogy amennyiben az illeték kiszabása az átruházásból származó jö
 
 g) ha az fb) pontban említett esetben az illetékügyi hatóság nem szab ki illetéket,
 
-ga) örökléssel szerzett ingatlan esetében a hagyatéki leltárban feltüntetett, vagy a hagyatéki eljárás során az ingatlan értékeként feltüntetett egyéb érték;
+ga) örökléssel szerzett ingatlan, vagyoni értékű jog esetében a hagyatéki leltárban feltüntetett, vagy a hagyatéki eljárás során az ingatlan értékeként feltüntetett egyéb érték;
 
-gb) ajándékozással szerzett ingatlan esetében
+gb) ajándékozással szerzett ingatlan, vagyoni értékű jog esetében
 
 1. az átruházásból származó bevétel 75 százaléka, azzal, hogy más kiadás költségként nem vonható le a bevételből, figyelembe véve, hogy az ajándékozást követő ráépítés, létesítés, alapterület-növelés esetében – az előbbi szerzési érték levonása után fennmaradó összeg egésze az utolsó szerzési időponthoz tartozó számított összegnek minősül,
 
 vagy
 
-2. az ajándékozást követő ráépítés, létesítés, alapterület-növelés esetén választható az átruházásból származó bevételből az e) pont szerinti érték, továbbá a ráépítéssel, létesítéssel, alapterület-növeléssel összefüggő egyéb kiadások és az átruházással kapcsolatos kiadások levonása, ha azok együttes összege meghaladja az átruházásból származó bevétel 75 százalékát azzal, hogy az így kapott teljes számított összegből (a bevétel fennmaradó részéből) a ráépítésre, a létesítésre, az alapterület-növelésre vonatkozó szerzési időpont(ok)hoz, valamint az ajándékozási-szerzési időponthoz tartozó számított összegeket az említett szerzési időpont(ok) szerinti szerzési érték(ek) arányában kell meghatározni úgy, hogy az ajándékozási-szerzési időponthoz tartozó szerzési értéknek az illetékekről szóló törvényben meghatározott forgalmi érték minősül.
+2. az ajándékozást követő ráépítés, létesítés, alapterület-növelés esetén választható az átruházásból származó bevételből az e) pont szerinti érték, továbbá a ráépítéssel, létesítéssel, alapterület-növeléssel összefüggő egyéb kiadások és az átruházással kapcsolatos kiadások levonása, ha azok együttes összege meghaladja az átruházásból származó bevétel 75 százalékát azzal, hogy az így kapott teljes számított összegből (a bevétel fennmaradó részéből) a ráépítésre, a létesítésre, az alapterület-növelésre vonatkozó szerzési időpont(ok)hoz, valamint az ajándékozási-szerzési időponthoz tartozó számított összegeket az említett szerzési időpont(ok) szerinti szerzési érték(ek) arányában kell meghatározni úgy, hogy az ajándékozási-szerzési időponthoz tartozó szerzési értéknek az illetékekről szóló törvényben meghatározott forgalmi érték minősül;
+
+h) az adófizetés alapjául szolgáló érték, ha az ingatlan megszerzésekor adóköteles jövedelemre tekintettel adófizetés történt.
 
 (3) Ha a megszerzésre fordított összeg a (2) bekezdés rendelkezései szerint nem állapítható meg, akkor a bevételt annak 75 százalékával kell csökkenteni. E szabály alkalmazása esetén más kiadás költségként nem vonható le a bevételből.
 

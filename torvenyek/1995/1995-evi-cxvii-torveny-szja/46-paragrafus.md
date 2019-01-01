@@ -12,7 +12,11 @@ a)–b)
 
 c) a nyugdíj-előtakarékossági számla terhére teljesített nem-nyugdíj szolgáltatás esetében megállapított adóalapot,
 
-d) az önkéntes kölcsönös biztosítópénztár által a magánszemély egyéni számláján jóváírt adóköteles összeget, ha az egyéb jövedelemnek minősül,
+d) az önkéntes kölcsönös biztosítópénztár
+
+da) által a magánszemély egyéni számláján jóváírt adóköteles összeget, ha az egyéb jövedelemnek minősül,
+
+db) egyéb jövedelemnek minősülő célzott szolgáltatását,
 
 e) a jövedelemszerzés helye szerint olyan államból származó jövedelmet, amellyel nincs Magyarországnak a kettős adóztatás elkerüléséről szóló egyezménye
 
@@ -24,7 +28,9 @@ azzal, hogy az a)–e) pontokban említett jövedelmek adóját a magánszemély
 
 a) az őstermelői tevékenységből származó bevételből, ha a magánszemély legkésőbb a kifizetéskor (a juttatáskor) bemutatja az adóévre hitelesített értékesítési betétlapját, illetve ha családi gazdálkodó (gazdálkodó családtagja), az e jogállását igazoló okiratát; a kifizető az ilyen kifizetéseket is feltünteti a kötelezettséget eredményező kifizetésekről, juttatásokról az adózás rendjéről szóló törvényben meghatározott formában és előírt határidőre teljesítendő bevallásában;
 
-b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről kiállított bizonylatán feltünteti az egyéni vállalkozói jogállását bizonyító közokirat számát.
+b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről kiállított bizonylatán feltünteti az egyéni vállalkozói jogállását bizonyító közokirat számát;
+
+c) lakás bérbeadásából származó bevételből, ha a magánszemély nyilatkozik arról, hogy a 17. § (5) bekezdését alkalmazza.
 
 (5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett családi kedvezményt, első házasok kedvezményét, valamint az érvényesített adókedvezményt.
 

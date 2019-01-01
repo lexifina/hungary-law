@@ -326,7 +326,7 @@ d) Az értékpapírra vonatkozó jogok nyilvántartása a következő adatokat t
 
 6. Munkabérek, más személyi jellegű kifizetések és a vállalkozói kivét nyilvántartása
 
-A magánszemélynek az alkalmazott, a segítő családtag, más magánszemély számára kifizetett összegekről, tartozásokról és követelésekről személyenkénti nyilvántartást kell vezetnie. A nyilvántartásnak – az érintett magánszemélyek adóazonosító adatainak feltüntetése mellett – tartalmaznia kell levonások nélkül a részükre különféle jogcímeken elszámolt személyi jövedelemadó-köteles összegeket, a levont személyi jövedelemadó előleget, nyugdíjjárulékot, munkavállalói járulékot, az egyéb levonásokat, a kifizetett összeget, továbbá a kifizetés keltét, valamint minden olyan adatot, amely a személyi jövedelemadó előleg, illetve – amennyiben erre a magánszemély köteles – év végén a személyi jövedelemadó tényleges összegének a megállapításához szükséges. Az egyéni vállalkozónak az előzőek értelemszerű alkalmazásával kell nyilvántartania a vállalkozói kivéttel kapcsolatos adatokat.
+A magánszemélynek az alkalmazott, más magánszemély számára kifizetett összegekről, tartozásokról és követelésekről személyenkénti nyilvántartást kell vezetnie. A nyilvántartásnak – az érintett magánszemélyek adóazonosító adatainak feltüntetése mellett – tartalmaznia kell levonások nélkül a részükre különféle jogcímeken elszámolt személyi jövedelemadó-köteles összegeket, a levont személyi jövedelemadó előleget, nyugdíjjárulékot, munkavállalói járulékot, az egyéb levonásokat, a kifizetett összeget, továbbá a kifizetés keltét, valamint minden olyan adatot, amely a személyi jövedelemadó előleg, illetve – amennyiben erre a magánszemély köteles – év végén a személyi jövedelemadó tényleges összegének a megállapításához szükséges. Az egyéni vállalkozónak az előzőek értelemszerű alkalmazásával kell nyilvántartania a vállalkozói kivéttel kapcsolatos adatokat.
 
 7. Gépjármű-használati nyilvántartás (útnyilvántartás)
 
@@ -410,7 +410,7 @@ A december 31-én, valamint a tevékenység megszüntetése esetén a megszünte
 
 – használatba nem vett eszközök (szerszám, műszer, berendezés, felszerelés, munkaruha, védőruha),
 
-– 100 ezer forintnál alacsonyabb értékű (1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer forintnál alacsonyabb értékű) használatba vett tárgyi eszközök,
+– 200 ezer forintnál alacsonyabb értékű használatba vett tárgyi eszközök,
 
 – áruk (kereskedelmi készletek),
 
@@ -426,17 +426,17 @@ A december 31-én, valamint a tevékenység megszüntetése esetén a megszünte
 
 Az áfát nem az általános szabályok szerint fizető magánszemélynek a leltárban
 
-– a vásárolt anyagokat, a használatba nem vett 100 ezer forintnál alacsonyabb értékű (1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer forintnál alacsonyabb értékű) eszközöket és az árukat a legutolsó, áfát is tartalmazó beszerzési áron, az előző évieket a nyitóleltári értéken kell szerepeltetnie;
+– a vásárolt anyagokat, a használatba nem vett 200 ezer forintnál alacsonyabb értékű eszközöket és az árukat a legutolsó, áfát is tartalmazó beszerzési áron, az előző évieket a nyitóleltári értéken kell szerepeltetnie;
 
-– a 100 ezer forintnál nem magasabb értékű (1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer forintnál alacsonyabb értékű) használatba vett tárgyi eszközöket az áfát tartalmazó beszerzési ár 50 százalékos értékén kell szerepeltetnie;
+– a 200 ezer forintnál nem magasabb értékű használatba vett tárgyi eszközöket az áfát tartalmazó beszerzési ár 50 százalékos értékén kell szerepeltetnie;
 
 – a saját termelésű félkész és készterméket (így különösen a magánszemély által előállított, felújított, átalakított gépet, szerszámot) előállítási áron – az anyagköltség és a mások által végzett munka igazolt együttes összegében – kell szerepeltetnie.
 
 Az áfát az általános szabályok szerint fizető magánszemélynek (a 4. számú melléklet 1. pont első mondata) a leltárban
 
-– a vásárolt anyagokat, a használatba nem vett 100 ezer forintnál alacsonyabb értékű (1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer forintnál alacsonyabb értékű) eszközöket és az árukat a legutolsó beszerzési számla szerinti, áfát nem tartalmazó beszerzési áron, az előző évieket a nyitóleltári értéken kell szerepeltetnie;
+– a vásárolt anyagokat, a használatba nem vett 200 ezer forintnál alacsonyabb értékű eszközöket és az árukat a legutolsó beszerzési számla szerinti, áfát nem tartalmazó beszerzési áron, az előző évieket a nyitóleltári értéken kell szerepeltetnie;
 
-– a 100 ezer forintnál nem magasabb értékű (1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer forintnál alacsonyabb értékű) használatba vett tárgyi eszközöket az áfát nem tartalmazó beszerzési ár 50 százalékos értékén kell szerepeltetnie;
+– a 200 ezer forintnál nem magasabb értékű használatba vett tárgyi eszközöket az áfát nem tartalmazó beszerzési ár 50 százalékos értékén kell szerepeltetnie;
 
 – a saját termelésű félkész és készterméket (így különösen a magánszemély által előállított, felújított, átalakított gépet, szerszámot) előállítási áron – az anyagköltség és a mások által végzett munka igazolt együttes összegében – kell szerepeltetnie.
 
