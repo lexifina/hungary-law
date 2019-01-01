@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-439-20-
 | --- | --- | --- |
 | 2017-01-02 | 2016-439-20-22.1 | 439/2016. (XII. 16.) Korm. rendelet |
 | 2018-01-01 | 2016-439-20-22.2 | 524/2017. (XII. 29.) Korm. rendelet |
+| 2019-01-01 | 2016-439-20-22.3 | 524/2017. (XII. 29.) Korm. rendelet |
