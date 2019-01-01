@@ -12,7 +12,7 @@ d) előkészíti a szervezet elektronikus információs rendszereinek biztonság
 
 e) véleményezi az elektronikus információs rendszerek biztonsága szempontjából a szervezet e tárgykört érintő szabályzatait és szerződéseit,
 
-f) kapcsolatot tart a hatósággal és a kormányzati eseménykezelő központtal.
+f) kapcsolatot tart a hatósággal és az eseménykezelő központtal.
 
 (3) Az elektronikus információs rendszer biztonságáért felelős személy e törvény hatálya alá tartozó bármely elektronikus információs rendszerét érintő biztonsági eseményről a jogszabályban meghatározottak szerint tájékoztatni köteles a jogszabályban meghatározott szervet.
 

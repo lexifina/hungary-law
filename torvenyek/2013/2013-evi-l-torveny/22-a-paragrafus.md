@@ -4,8 +4,8 @@
 
 a) a 7. § szerinti biztonsági osztályba sorolás eredményének bejelentése, a 8. § (5) bekezdése szerinti cselekvési terv, a 15. § (1) bekezdés a)–c) pontja szerinti adatok és a 15. § (1) bekezdés d) pontja szerinti szabályzat megküldése a hatóság felé,
 
-b) a 13. § (3) bekezdése szerinti biztonsági esemény bejelentése a kormányzati eseménykezelő központ felé
+b) a 13. § (3) bekezdése szerinti biztonsági esemény bejelentése az eseménykezelő felé
 
-a hatóság és a kormányzati eseménykezelő központ által működtetett elektronikus rendszerben, elektronikus úton történik.
+a hatóság és az eseménykezelő központ által működtetett elektronikus rendszerben, elektronikus úton történik.
 
 (2) Biztonsági esemény bejelentése bármely csatornán megvalósítható, ha a szervezet elektronikus információs rendszere oly mértékben sérül, hogy az elektronikus kapcsolattartás lehetetlenné válik.

@@ -8,7 +8,7 @@ c) a szervezetnek az elektronikus információs rendszer biztonságáért felel�
 
 d) a szervezet informatikai biztonsági szabályzatát,
 
-e) a biztonsági eseményekkel kapcsolatos, a kormányzati eseménykezelő központtól kapott értesítéseket.
+e) a biztonsági eseményekkel kapcsolatos, az eseménykezelő központtól kapott értesítéseket.
 
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja az elektronikus információs rendszerek védelmével kapcsolatos kötelezettségek teljesítése és hatósági ellenőrzésének biztosítása.
 

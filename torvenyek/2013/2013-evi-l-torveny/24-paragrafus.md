@@ -12,9 +12,9 @@ b) a hatóság által kiszabható bírság mértékét, a bírság kiszabásána
 
 c) az információbiztonsági felügyelő kirendelésének szabályait, feladatkörét és eljárásának rendjét,
 
-d)
+d) a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét,
 
-e) a kormányzati eseménykezelő központot, feladat- és hatáskörét, a biztonságiesemény-kezelési eljárás részletes szabályait,
+e) az eseménykezelő központot, feladat- és hatáskörét, a biztonságiesemény-kezelési eljárás részletes szabályait,
 
 f) a 21. § szerinti Tanács, Fórum és a kiberbiztonsági ágazati munkacsoportok létrehozásával, működtetésével kapcsolatos szabályokat, feladat- és hatáskörüket,
 
@@ -26,7 +26,11 @@ i) a 2. § (4)–(6) bekezdése szerinti hatóságot és a feladatellátás rés
 
 j) a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására feljogosított állami szerveket, a 18. § (3) bekezdés b) pontja szerinti gazdálkodó szervezettel szemben támasztott szakmai követelményeket, a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására vonatkozó eljárási szabályokat, és
 
-k) a 19. § (2)–(4) bekezdése szerinti eseménykezelő központot, feladat- és hatáskörét.
+k) a 19. § (2)–(4) bekezdése szerinti eseménykezelő központot, feladat- és hatáskörét,
+
+l) a 16. § (1) bekezdése szerinti független, képesített ellenőr igénybevételével kapcsolatos eljárásrendet,
+
+m) a honvédelmi célú elektronikus információs rendszerre vonatkozóan a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
 

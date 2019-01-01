@@ -4,6 +4,8 @@
 
 (2) A törvény hatálya alá tartozó szervezet sérülékenységvizsgálatot, biztonsági esemény vizsgálatát a hatóság felhívása nélkül is kezdeményezhet.
 
+(2a) A kormányrendeletben meghatározott, sérülékenységvizsgálat lefolytatására jogosult szerv saját hatáskörben maga is indíthat és lefolytathat sérülékenységvizsgálatot regisztrált felhasználói jogosultság birtokában, illetve annak hiányában is, külön jogszabályban meghatározott feltételek szerint.
+
 (3) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát – az (5) bekezdésben foglalt szervek és elektronikus információs rendszerek kivételével –
 
 a) a Kormány rendeletében meghatározott állami szerv, vagy
