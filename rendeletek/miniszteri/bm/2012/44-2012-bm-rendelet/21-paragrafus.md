@@ -1,13 +1,16 @@
-21. § (1)[^64] A hősi halottá, szolgálat halottjává nyilvánított hivatásos szolgálati jogviszonyban álló, valamint a munkavégzése során vagy annak következtében elhalálozott közalkalmazotti jogviszonyban álló, továbbá a Nemzeti Szakértői és Kutató Központ halottjává nyilvánított, valamint a munkavégzése során vagy annak következtében elhalálozott igazságügyi alkalmazotti jogviszonyban álló dolgozó részére nyújtott munkáltatói kölcsönből fennálló tartozást – amennyiben rendkívüli egyéni körülmények indokolják – az özvegy, a túlélő élettárs, vagy az örökös (örökösök) javára a belügyminiszter elengedheti.
+21. § (1)[^70] A hősi halottá, a szolgálat halottjává nyilvánított hivatásos szolgálati jogviszonyban álló, valamint a munkavégzése során vagy annak következtében elhalálozott közalkalmazotti jogviszonyban álló, továbbá a Nemzeti Szakértői és Kutató Központ halottjává nyilvánított, valamint a munkavégzése során vagy annak következtében elhalálozott igazságügyi alkalmazotti jogviszonyban álló dolgozó részére nyújtott munkáltatói kölcsönből fennálló tartozást – amennyiben rendkívüli egyéni körülmények indokolják – az özvegy, a túlélő élettárs, vagy az örökös, illetve örökösök javára, az 1. melléklet szerinti vezető elengedheti.
 
-(2) A tartozás elengedése iránti, a belügyminiszternek címzett, indokolással ellátott kérelmet az illetékes helyi lakásügyi szervhez kell benyújtani. A kérelemhez csatolni kell:
+(2)[^71] A tartozás elengedése iránti, indokolással ellátott kérelmet az illetékes helyi lakásügyi szervhez kell benyújtani. A kérelemhez csatolni kell:
 
 a) a házassági anyakönyvi kivonat, vagy az élettársi kapcsolatot hitelt érdemlően igazoló okirat másolatát, valamint
 
 b) a jogerős hagyatékátadó végzés másolatát.
 
-(3) A kérelmet a helyi lakásügyi szerv a kölcsönből fennálló tartozás összegének megjelölésével a központi lakásügyi szerv útján terjeszti fel a belügyminiszterhez.
+(3)[^72] A kérelmet a helyi lakásügyi szerv gazdasági vezetője – a kölcsönből fennálló tartozás összegének megjelölésével – az 1. melléklet szerinti vezetőhöz terjeszti fel.
 
-(4) A belügyminiszteri döntésről a helyi lakásügyi szerv értesíti a kérelmezőt. A fennálló munkáltatói kölcsön megszűnéséről a helyi lakásügyi szerv értesíti a folyósító pénzintézetet, valamint intézkedik a tartozás pénzügyi nyilvántartásokból történő kivezetésére.
+(4)[^73] A döntésről a helyi lakásügyi szerv értesíti a kérelmezőt. A fennálló munkáltatói kölcsön megszűnéséről a helyi lakásügyi szerv értesíti a folyósító pénzintézetet, valamint intézkedik a tartozás pénzügyi nyilvántartásokból történő kivezetésére.
 
-[^64]: A 21. § (1) bekezdése a 16/2014. (II. 28.) BM rendelet 10. § (3) bekezdésével megállapított, az 58/2016. (XII. 22.) BM rendelet 32. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^70]: A 21. § (1) bekezdése a 31/2018. (XII. 19.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^71]: A 21. § (2) bekezdés nyitó szövegrésze a 31/2018. (XII. 19.) BM rendelet 17. § a) pontja szerint módosított szöveg.
+[^72]: A 21. § (3) bekezdése a 31/2018. (XII. 19.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^73]: A 21. § (4) bekezdése a 31/2018. (XII. 19.) BM rendelet 17. § b) pontja szerint módosított szöveg.

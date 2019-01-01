@@ -12,7 +12,7 @@ b) a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának
 
 c) korábbi, nem belügyi munkáltató által lakáscélra nyújtott munkáltatói kölcsönnek az új, e rendelet hatálya alá tartozó munkáltató általi teljesítése;
 
-3. együtt költöző, együtt lakó családtag: az Szja. törvényben ekként meghatározott fogalom;
+3.[^3] együtt költöző, együtt lakó családtagok: a támogatást igénylő munkavállaló, továbbá jövedelmüktől és életkoruktól függetlenül a munkavállaló polgári törvénykönyv szerinti közeli hozzátartozói, házastársának közeli hozzátartozói, élettársa és annak közeli hozzátartozói, feltéve, hogy a lakáscélú munkáltatói támogatással, munkáltatói lakáscélú hitellel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak. Fiatal gyermektelen házaspár esetében a méltányolható lakásigény meghatározásánál együtt költöző, együtt lakó családtagként legfeljebb három születendő gyermeket, egy gyermekes fiatal házaspár esetében további két születendő gyermeket, két gyermekes fiatal házaspár esetében pedig további egy születendő gyermeket is számításba lehet venni. Fiatal a házaspár, ha a lakáscélú munkáltatói támogatás igénylésekor a házastársak egyike sem töltötte be a 40. életévét;
 
 4. korszerűsítés: az Szja. törvényben ekként meghatározott fogalom;
 
@@ -50,5 +50,15 @@ gb) az eladott lakás értékesítésével kapcsolatosan megfizetett, igazolt k�
 
 gc) a bővíteni, korszerűsíteni vagy akadálymentesíteni kívánt lakás megvétele, építése, cseréje esetén az erre fordított összeggel.
 
+9.[^4] méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
+
+a) egy-két személy esetében legfeljebb három lakószoba,
+
+b) három-négy személy esetében legfeljebb négy lakószoba,
+
+c) minden további személy esetében egy lakószobával nő;
+
 [^1]: Az 1. § a 16/2014. (II. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § az 1/2018. (I. 18.) BM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § 3. pontja a 31/2018. (XII. 19.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 9. pontját a 31/2018. (XII. 19.) BM rendelet 9. § (2) bekezdése iktatta be.
