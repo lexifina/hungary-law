@@ -2,7 +2,7 @@
 
 3. § (1) A szakképzésben jelöltként hazai felsőoktatási intézmény által kiadott vagy honosított, vagy a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény szerint elismert, az adott szakképesítés megszerzéséhez megfelelő végzettséget igazoló oklevéllel rendelkező, a szakképzésre az egyetemmel szakképzési megállapodást létesített személy vehet részt.
 
-(1a)[^5] A képzési keretszámok tervezhetősége érdekében a tárgyévben általános orvos képzésben oklevelet szerző személy – a képző intézménye útján – elektronikus úton, az oklevél kézhezvételétől számított legkésőbb harminc napon belül tájékoztatja az ÁEKK-t, hogy szakorvosi szakképzését Magyarországon, támogatott képzésben kívánja-e megszerezni és ha igen, mely évben tervezi a támogatott szakképzésbe történő bekapcsolódást.
+(1a)[^5] A képzési keretszámok tervezhetősége érdekében a tárgyévben általános orvos képzésben oklevelet szerző személy – a képző intézménye útján – elektronikus úton, az oklevél kézhezvételétől számított legkésőbb harminc napon belül tájékoztatja az ÁEEK-t, hogy szakorvosi szakképzését Magyarországon, támogatott képzésben kívánja-e megszerezni és ha igen, mely évben tervezi a támogatott szakképzésbe történő bekapcsolódást.
 
 (2) A szakképesítés megszerzése támogatott szakképzés vagy költségtérítéses szakképzés keretében történik.
 
@@ -26,7 +26,7 @@ b) költségtérítéses képzés esetén a munkáltató vagy külső képzőhel
 
 személy lehet.
 
-[^5]: A 3. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 299. § c) pontja szerint módosított szöveg.
+[^5]: A 3. § (1a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 299. § c) pontja, a 287/2018. (XII. 21.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
 [^7]: A 3. § (5) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 68. § a) pontja szerint módosított szöveg.
 [^8]: A 3. § (5a) bekezdését a 333/2015. (XI. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be.

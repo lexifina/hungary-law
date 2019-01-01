@@ -1,4 +1,4 @@
-22. §[^67] (1) Ha a támogatott szakképesítés megszerzését megelőzően a rezidens
+22. §[^64] (1) Ha a támogatott szakképesítés megszerzését megelőzően a rezidens
 
 a) az ÁEEK-tól külföldi munkavégzéshez szükséges hatósági bizonyítvány kiállítását kezdeményezi, és a szakképzése szüneteltetését az ÁEEK részére nem jelezte,
 
@@ -30,4 +30,4 @@ a szakképzésére tekintettel a 12. § (1) bekezdés a) pontja és b) pont bb) 
 
 (8) Ha a rezidens a (7) bekezdésben meghatározott határidőig nem szerez szakvizsgát, a (2)–(5) bekezdés szerint köteles a támogatás visszatérítésére.
 
-[^67]: A 22. § a a 250/2017. (IX. 5.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^64]: A 22. § a a 250/2017. (IX. 5.) Korm. rendelet 62. §-ával megállapított szöveg.

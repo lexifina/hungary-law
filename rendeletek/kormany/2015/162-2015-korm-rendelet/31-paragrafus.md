@@ -24,6 +24,10 @@ a) ha az értesítés az adott hónap 20-áig beérkezik, a tárgyhónapot köve
 
 b) ha az értesítés az adott hónap 20-át követően érkezik be, a tárgyhónapot követő második hónapban
 
+## esedékes támogatási összegből levonja.
+
+(8)[^101] A miniszter és a NEAK a szolgáltatótól kapott adatokat az esetleges elszámolásokkal kapcsolatos igényérvényesítés határidejének lejártáig, kizárólag az igényérvényesítés elbírálásának érdekében kezelheti.
+
 [^93]: A 31. § (1) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 45. § g) pontja szerint módosított szöveg.
 [^94]: A 31. § (2) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 75. § (1) bekezdésével megállapított, a 464/2016. (XII. 23.) Korm. rendelet 45. § g) pontja szerint módosított szöveg.
 [^95]: A 31. § (2a) bekezdését a 464/2016. (XII. 23.) Korm. rendelet 42. §-a iktatta be.
@@ -32,3 +36,4 @@ b) ha az értesítés az adott hónap 20-át követően érkezik be, a tárgyhó
 [^98]: A 31. § (5) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 45. § h) pontja szerint módosított szöveg.
 [^99]: A 31. § (6) bekezdése a 464/2016. (XII. 23.) Korm. rendelet 43. §-ával megállapított szöveg.
 [^100]: A 31. § (7) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 75. § (3) bekezdése iktatta be, szövege a 464/2016. (XII. 23.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^101]: A 31. § (8) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 39. §-a iktatta be.

@@ -1,22 +1,33 @@
-13. § (1)[^36] A támogatott szakképzésben a tutort az ÁEEK által – az Eütv. 114. § (2) bekezdés g) pontja szerinti adattartalommal – vezetett tutori névjegyzékből a képzőhely jelöli ki és erről az ÁEKK-t tájékoztatja.
+13. §[^36] (1) A támogatott szakképzésben a tutort az ÁEEK által – az Eütv. 114. § (2) bekezdés g) pontja szerinti adattartalommal – vezetett tutori névjegyzékből a képzőhely a rezidens gyakorlatának megkezdését megelőzően jelöli ki, és erről az ÁEEK-t és a rezidenst tájékoztatja.
 
 (2) Egy tutor egyidejűleg legfeljebb három jelölt szakképzését felügyelheti.
 
-(3)[^37] A tutori díj összege rezidensenként havonta 50 000 forint a támogatott szakképzés teljes időtartama alatt, amely díjazást a képzőhely biztosít az 5. § (4) bekezdése, valamint külső képzőhely esetén az ÁEEK és a külső képzőhely között kötött külön megállapodás alapján a tutor részére.
+(3) A tutori díj összege rezidensenként havonta 50 000 forint a támogatott szakképzés teljes időtartama alatt, amely díjazást a képzőhely biztosítja az 5. § (4) bekezdése, valamint külső képzőhely esetén az ÁEEK és a külső képzőhely között kötött külön megállapodás alapján a tutor részére.
 
-(4)[^38] A képzőhely az adott szakképesítés vonatkozásában tutorként kijelölhető személyekről, illetve a tutorok Eütv. 114. § (2) bekezdés g) pontjában meghatározott adataiban bekövetkezett változásokról folyamatosan tájékoztatja az ÁEKK-t.
+(4) A képzőhely az adott szakképesítés vonatkozásában tutorként kijelölhető személyekről, illetve a tutoroknak az Eütv. 114. § (2) bekezdés g) pontjában meghatározott adataiban bekövetkezett változásokról folyamatosan tájékoztatja az ÁEEK-t.
 
-(5)[^39] Az egyetemek a tutori névjegyzék adattartalmát az ÁEEK felkérése alapján folyamatosan felülvizsgálják.
+(5) Az egyetemek a tutori névjegyzék adattartalmát az ÁEEK felkérése alapján folyamatosan felülvizsgálják.
 
-(6)[^40] A tutori tevékenység minősítését – a 11. § (1) bekezdése szerint létrehozott minőségbiztosítási rendszer keretein belül – miniszteri rendeletben meghatározott módon a rezidensek végzik. Ha a minősítés során a tutor a miniszteri rendeletben meghatározott eredményt nem éri el, az ÁEEK a tutort a tutori névjegyzékből törli és erről a tutor munkáltatóját tájékoztatja.
+(6) A támogatott szakképzés során teljesítendő gyakorlati idő eltöltését, beavatkozások, vizsgálatok elvégzését a tutor havonta, de legkésőbb az adott képzési elem teljesítését követő két héten belül igazolja az ÁEEK és a szakképzésért felelős egyetem irányába.
 
-(7)[^41] Ha a tutorral szemben az illetékes szakmai kamara etikai vétség elkövetését jogerősen megállapítja, az ÁEEK a tutort a tutori névjegyzékből törli. Az etikai vétség elkövetésének megállapításáról az illetékes szakmai kamara a határozat jogerőre emelkedését követő 5 napon belül tájékoztatja az ÁEKK-t.
+(7) A tutor szakképzéssel összefüggő feladatait, valamint a tutori tevékenység szakmai követelményeit az ÁEEK az egyetemekkel, valamint az egészségügyi szolgáltatók és a rezidensek érdekképviseletét ellátó szakmai szervezetekkel együttesen állapítja meg, és az ÁEEK honlapján közzéteszi.
 
-(8) A (6) vagy a (7) bekezdés szerinti okból történő törlés esetén a tutor a törléstől számított két évig nem vehető fel újra a tutori névjegyzékbe. Nem vehető fel a tutori névjegyzékbe az, akit a tutori névjegyzékből a (6) vagy a (7) bekezdés szerinti okból három alkalommal töröltek.
+(8) A tutori tevékenység értékelését – a 11. § (1) bekezdése szerint létrehozott minőségbiztosítási rendszer keretein belül – a rezidensek, a tutor foglalkoztatója, valamint az ÁEEK végzi.
 
-[^36]: A 13. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) és c) pontja szerint módosított szöveg.
-[^37]: A 13. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
-[^38]: A 13. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § c) pontja szerint módosított szöveg.
-[^39]: A 13. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
-[^40]: A 13. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
-[^41]: A 13. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 299. § b) és c) pontja szerint módosított szöveg.
+(9) Ha a (8) bekezdés szerinti minősítés alapján a tutor
+
+a) a (6) bekezdés szerinti igazolási kötelezettségét legalább két rezidens vonatkozásában a (6) bekezdés szerinti határidőt követő egy hónapon belül nem teljesíti,
+
+b) a (7) bekezdés szerinti feladatait nem látja el, és ezzel akadályozza vagy aránytalanul megnehezíti a jelölt részére a képzés során elvégzendő vizsgálatok, beavatkozások teljesítését, vagy
+
+c) a konzultációs lehetőséget a rezidens legalább háromszori írásbeli kérésére, legalább 30 napon belül nem biztosítja,
+
+az ÁEEK a tutort a mulasztására írásban figyelmezteti, és határidő megjelölésével felhívja a kötelezettségeinek teljesítésére a (10)–(12) bekezdésben foglaltak egyidejű megjelölésével.
+
+(10) Ha a tutor a figyelmeztetés ellenére az ÁEEK által megjelölt határidőt követően is a (9) bekezdés a)–c) pontja szerinti magatartás valamelyikét tanúsítja, az ÁEEK a tutort a névjegyzékből törli.
+
+(11) Ha a tutorral szemben az illetékes szakmai kamara etikai vétség elkövetését jogerősen megállapítja, az ÁEEK a tutort a tutori névjegyzékből törli. Az etikai vétség elkövetésének megállapításáról az illetékes szakmai kamara a határozat jogerőre emelkedését követő 5 napon belül tájékoztatja az ÁEEK-t.
+
+(12) A (10)–(11) bekezdés szerinti okból történő törlés esetén a tutor a törléstől számított két évig nem vehető fel újra a tutori névjegyzékbe. Nem vehető fel a tutori névjegyzékbe az, akit a tutori névjegyzékből a (10) vagy a (11) bekezdés szerinti okból három alkalommal töröltek.
+
+[^36]: A 13. § a 287/2018. (XII. 21.) Korm. rendelet 36. §-ával megállapított szöveg.
