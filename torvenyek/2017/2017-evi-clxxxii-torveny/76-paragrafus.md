@@ -32,7 +32,7 @@ g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
 
 (6) Az ügyintézési határidő a vasúti igazgatási szerv eljárásában hat hét.
 
-(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatait a honlapján közhírré teszi.”
+(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatait a honlapján közhírré teszi.
 
 (2) Az Ektvn. 61. § (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -46,4 +46,4 @@ g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
 
 (4) A 18/A. § (1) bekezdés a) pontjában meghatározott bírság legmagasabb összege 500 ezer forint.”
 
-18. Hatályba nem lépő rendelkezések
+18. Hatályba nem lépő rendelkezések”
