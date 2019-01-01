@@ -20,7 +20,7 @@
 
 (9) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan, amelyek egészében a kisadózó
 
-a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy ápolási díjban részesül,
+a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekek otthongondozási díjában, ápolási díjban részesül,
 
 b) katonai szolgálatot teljesítő önkéntes tartalékos katona,
 

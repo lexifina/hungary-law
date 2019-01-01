@@ -8,13 +8,19 @@ b) a személyi jellegű kifizetésekkel
 
 növelt összege, de legalább a b) pont szerinti összeg.
 
-(2) E fejezet alkalmazásában személyi jellegű kifizetésnek azon személyi jellegű ráfordítás minősül, amely a Tbj. szerint járulékalapot képez az adóévben (ide nem értve a kiegészítő tevékenységet folytató egyéni vagy társas vállalkozó járulékalapját, valamint a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összegét). A tag esetében személyi jellegű kifizetésként (Tbj. szerint járulékalapot képező összes jövedelemként) a minimálbér 112,5%-át kell figyelembe venni, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb. E bekezdés alkalmazásában
+(2) E fejezet alkalmazásában személyi jellegű kifizetésnek minősül
 
-a) minimálbér a Tbj. 4. § s) pont 2. alpontja szerinti minimálbér,
+a) azon személyi jellegű ráfordítás, amely a Tbj. szerint járulékalapot képez az adóévben,
 
-b) tag a Tbj. szerinti társas vállalkozó
+b) az a) ponttól eltérően tag esetén a Tbj. 4. § s) pont 2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a tagnak nem keletkezik a Tbj. 27. § (2) bekezdése szerinti járulékalap utáni járulékfizetési kötelezettsége,
 
-azzal, hogy a tagra jutó személyi jellegű kifizetés meghatározása során nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a társas vállalkozónak nem keletkezik a Tbj. 27. § (2) bekezdése szerinti járulékalap utáni járulékfizetési kötelezettsége.
+c) a Szocho. tv. 1. § (4) bekezdés a) pontja szerinti béren kívüli juttatás,
+
+d) a Szocho. tv. 1. § (4) bekezdés b) pontja szerinti béren kívüli juttatásnak nem minősülő egyes meghatározott juttatás.
+
+(2a) A (2) bekezdés alkalmazásában nem minősül személyi jellegű kifizetésnek a kiegészítő tevékenységet folytató egyéni vagy társas vállalkozó járulékalapja, valamint a kedvezményezett foglalkoztatott után érvényesíthető kedvezmény éves összege.
+
+(2b) A (2) bekezdés alkalmazásában tagnak a Tbj. szerinti társas vállalkozó minősül.
 
 (3) Az adóalap megállapításakor növelő tételként kell figyelembe venni:
 
@@ -38,13 +44,13 @@ f) a behajthatatlannak nem minősülő követelés elengedése esetén az elenge
 
 a) a tőkebevonás (különösen a jegyzett tőke emelés) cégbírósági bejegyzésére tekintettel az adóévben a saját tőke növekedéseként elszámolt összeget,
 
-b) a kapott (járó) osztalék címén az adóévben elszámolt bevétel összegét,
+b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön megfizetett (fizetendő) adó összegével csökkentett bevétel összegét,
 
 c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
 
 d) a 2017. január 1-je előtt a kisvállalati adó hatálya alá tartozó vállalkozásnál e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (4) bekezdés e) és f) pontjai szerint elszámolt csökkentés, e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (5) bekezdés e) és f) pontja és 20. § (6)–(8) bekezdése szerint elszámolt növelés összegével csökkentett, a 2013–2016. adóévek pénzforgalmi szemléletű eredményével növelt pozitív összegét.
 
-(5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében (megállapodásában) olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést (megállapodást), feltéve, hogy a szerződés (megállapodás) alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
+(5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében, megállapodásában olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést, megállapodást, feltéve, hogy a szerződés, megállapodás alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
 
 (6) Ha a (3)–(5) bekezdés szerint megállapított egyenleg bármely adóévben negatív, ez az összeg a következő adóévekben – a (6a) és a (7) bekezdésben foglaltakat figyelembe véve – csökkenti a (3)–(5) bekezdés szerint megállapított pozitív egyenleget a kisvállalati adó alapja meghatározásakor, feltéve, hogy a (3)–(5) bekezdés szerint megállapított negatív egyenleg a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség).
 

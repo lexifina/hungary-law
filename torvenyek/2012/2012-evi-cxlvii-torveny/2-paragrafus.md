@@ -54,6 +54,8 @@ e) jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján
 
 f) a költségek fedezetére vagy fejlesztési célra folyósított támogatás
 
+g) a kisadózó egyéni vállalkozó esetében a nem kizárólag üzemi célt szolgáló tárgyi eszközök, nem anyagi javak értékesítésekor kapott ellenérték; ha a kisadózó egyéni vállalkozó olyan ingó vagyontárgyat, ingatlant, vagyoni értékű jogot idegenít el, amelyet nem kizárólag üzemi célból használt, akkor az ebből származó jövedelem adózására egészében az Szja tv. XI. Fejezetében foglalt rendelkezéseket kell alkalmaznia;
+
 azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Bank (a továbbiakban: MNB) a bevétel megszerzésének időpontjában irányadó hivatalos devizaárfolyamának, olyan külföldi pénznem esetén, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyam alapulvételével kell forintra átszámítani;
 
 13. bevétel megszerzésének időpontja: a kisadózó vállalkozás vonatkozásában
@@ -78,22 +80,44 @@ e) az adóalanyiság megszűnésének napja, amennyiben az általa kiállított 
 
 18. üzletvezetés helye: a Tao. tv. 4. § 35. pontja szerinti hely;
 
-19. kedvezményezett foglalkoztatott:
+19. kedvezményezett foglalkoztatott: az a személy, aki után a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho. tv.)
 
-a) az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) 462/B. § (2) bekezdése, 462/C. §-a és 462/D. §-a szerinti személy; és
+a) 10. §-a szerinti adókedvezmény;
 
-b) az Eat. 461. §-a és 462/B. § (3) bekezdése szerinti személy;
+b) 11. §-a szerinti adókedvezmény;
 
-20. kedvezményezett foglalkoztatott munkabére után érvényesíthető kedvezmény: kedvezményezett foglalkoztatottanként a bruttó munkabér havi összege, de havonta legfeljebb
+c) 12. §-a szerinti adókedvezmény;
 
-a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 100 ezer forint a foglalkoztatás első két évében, továbbá személyenként 50 ezer forint – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – a foglalkoztatás harmadik évében;
+d) 13. § (1) bekezdés a) és c) pontja szerinti adókedvezmény;
 
-b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként 50 ezer forint,
+e) 15. § (1) bekezdés a) pontja szerinti adókedvezmény;
 
-azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az a) pont szerinti esetben a foglalkoztatás első két évében 100 ezer, a foglalkoztatás harmadik évében – az Eat. 462/B. § (2) bekezdése szerinti személy kivételével – 50 ezer, a b) pont szerinti esetben 50 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után érvényesíthető;
+f) 15. § (1) bekezdés b) pontja szerinti adókedvezmény;
 
-21. részmunkaidős foglalkoztatás: az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+g) 16. §-a szerinti adókedvezmény
 
-22. költségek fedezetére vagy fejlesztési célra folyósított támogatás: a költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet az adózó kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett kap, ideértve az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló miniszteri rendelet szerinti támogatást is.
+igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt kell érteni a tagot is;
+
+20. kedvezményezett foglalkoztatott után érvényesíthető kedvezmény:
+
+a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka;
+
+b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első két évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás harmadik évében;
+
+c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első három évében, továbbá személyenként a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében;
+
+d) a 19. pont d) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a foglalkoztatott után megállapított Szocho. tv. szerinti adóalap, de havonta legfeljebb a minimálbér kétszerese;
+
+e) a 19. pont e) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb 500 ezer forint;
+
+f) a 19. pont f) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb 100 ezer forint;
+
+g) a 19. pont g) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként havonta a kutatás-fejlesztési tevékenység közvetlen költségeként elszámolt bérköltség 50 százaléka;
+
+21.
+
+22. költségek fedezetére vagy fejlesztési célra folyósított támogatás: jogszabály vagy nemzetközi szerződés alapján költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet az adózó kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett, vagy a tevékenység megvalósulásának ellenőrzését követően kap, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott, a fiatal mezőgazdasági termelők indulásához, gazdaságalapításához nyújtandó támogatások;
 
 23. pénztár mentesített értéke: a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy az adóalanyiság első évének nyitó mérlegében a pénztár kimutatott értéke; a kisvállalati adózásra 2016. december 31-ig áttért adózónál a tárgyévi összes bevétel 5 százaléka, de legalább 1 millió forint vagy a 2017. év nyitó mérlegében a pénztár kimutatott értéke.
+
+24. kizárólag üzemi célt szolgáló tárgyi eszközök és nem anyagi javak: olyan tárgyi eszközök és nem anyagi javak, amelyeket a kisadózó egyéni vállalkozó a kisadózó vállalkozás tevékenységével (tevékenységeivel) kapcsolatban használ, azokat más célra részben sem használja és üzleti nyilvántartásai ezt egyértelműen alátámasztják azzal, hogy nem minősül kizárólag üzemi célt szolgáló tárgyi eszköznek a személygépkocsi.

@@ -4,7 +4,7 @@
 
 (2) Az adóelőleg összege
 
-a) az adóelőleg-megállapítási időszakban az adóalany által fizetendő, e törvény 20. § (2) bekezdése szerint meghatározott személyi jellegű kifizetések összege, és
+a) az adóelőleg-megállapítási időszakban az adóalany által fizetendő, e törvény 20. § (2)–(2b) bekezdése szerint meghatározott személyi jellegű kifizetések összege, és
 
 b) az adóelőleg-megállapítási időszakban jóváhagyott fizetendő osztalék (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot), csökkentve az adóelőleg-megállapítási időszakban bevételként elszámolt osztalék összegével
 
