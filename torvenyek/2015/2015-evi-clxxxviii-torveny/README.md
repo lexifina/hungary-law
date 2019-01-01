@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-188-00-00
 | 2017-05-05 | 2017. évi XXXIII. törvény | 2015-188-00-00.7 |
 | 2018-01-01 | 2017. évi L. törvény | 2015-188-00-00.8 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2015-188-00-00.9 |
+| 2019-01-01 | 2018. évi CXXI. törvény | 2015-188-00-00.10 |
