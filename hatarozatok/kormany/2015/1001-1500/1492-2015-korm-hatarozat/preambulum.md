@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében meghatározott jogkörében eljárva az ITU Telecom World 2015 konferencia megszervezése érdekében a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet,
