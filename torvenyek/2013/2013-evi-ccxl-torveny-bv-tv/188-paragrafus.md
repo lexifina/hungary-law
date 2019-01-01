@@ -2,9 +2,21 @@
 
 188. § (1) A szabadságvesztésre ítélt feltételes szabadságra bocsátható, ha
 
-a) a büntetés végrehajtása alatt tanúsított kifogástalan magatartására, valamint arra a készségére tekintettel, hogy törvénytisztelő életmódot fog folytatni, alaposan feltehető, hogy a büntetés célja további szabadságelvonás nélkül is elérhető, és
+a) a határozott ideig tartó szabadságvesztésnek a bíróság által meghatározott részét vagy az életfogytig tartó szabadságvesztésnek a bíróság által meghatározott tartamát letöltötte, és
 
-b) a határozott ideig tartó szabadságvesztésnek a Btk. 38. § (2) bekezdése szerinti vagy a bíróság által az ügydöntő határozatban megállapított részét, az életfogytig tartó szabadságvesztés esetén a bíróság által a Btk. 43. § (1) bekezdése alapján az ügydöntő határozatban meghatározott tartamot letöltötte.
+b) alaposan feltehető, hogy a büntetés célja további szabadságelvonás nélkül is elérhető.
+
+(1a) Az (1) bekezdés b) pontjában meghatározott feltétel szempontjából a büntetés-végrehajtási bíró különösen
+
+a) az elítélt által elkövetett bűncselekményt, a kiszabott büntetés tartamát és a büntetésből még végrehajtásra váró részt,
+
+b) az elítélt büntetés végrehajtása alatt tanúsított magatartását,
+
+c) az elítéltnek a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
+
+d) az elítélt törvénytisztelő életmód folytatására vonatkozó készségét
+
+vizsgálja.
 
 (2) Ha az elítélt által a Btk. 92–92/B. §-a szerinti beszámításra figyelemmel indokolt, a feltételes szabadságra bocsátás tárgyában a bv. intézet soron kívül, egyébként a feltételes szabadságra bocsátás lehetséges időpontja előtt három hónappal tesz előterjesztést a büntetés-végrehajtási bírónak. Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
 

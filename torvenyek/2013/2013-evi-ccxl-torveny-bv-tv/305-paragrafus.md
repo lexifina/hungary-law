@@ -12,7 +12,7 @@ e) a törvényben kihirdetett nemzetközi szerződéssel létrehozott szervezet 
 
 f) az illetékes ügyvédi kamarának.
 
-(2) Ha katonai rendfokozattal rendelkező elítélttel szemben nem katonai büntetőeljárásban alkalmaztak közügyektől eltiltást, a közügyektől eltiltásról kiállított – és a soron következő római számmal ellátott – értesítőlapot
+(2) Ha katonai rendfokozattal rendelkező elítélttel szemben nem katonai büntetőeljárásban alkalmaztak közügyektől eltiltást, a közügyektől eltiltásról kiállított értesítőlapot
 
 a) nyugállományú és kiképzett tartalékos személy esetén a Honvédség katonai igazgatási és központi adatfeldolgozó szervének,
 

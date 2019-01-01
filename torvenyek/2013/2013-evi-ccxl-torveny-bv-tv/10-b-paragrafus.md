@@ -6,7 +6,13 @@
 
 (4) Ha a büntetés-végrehajtási bíró határozatában úgy rendelkezett, hogy részben vagy egészben meg nem térített polgári jogi igényt, illetve bűncselekmény miatt megállapított kártérítést vagy sérelemdíjat a kártalanítás összegéből le kell vonni, az ennek megfelelő összeget a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultja részére, a kártalanítási összeg fennmaradó részét az elítélt vagy az egyéb jogcímen fogvatartott részére kell kifizetni. Ha adat merül fel arra vonatkozóan, hogy gyermektartásdíj behajtása iránt végrehajtási eljárás indult, a kifizetésre csak a végrehajtó ennek lefoglalására irányuló végrehajtási cselekményének foganatosítását követően – a 10/A. § (8) bekezdésében foglaltakra figyelemmel – kerülhet sor azzal, hogy a követelés kielégítésére elsősorban az elítélt vagy az egyéb jogcímen fogvatartott részére kifizetendő összeg szolgál. Ez utóbbi esetben, ha a követelésfoglalás a 70/B. § (6) bekezdése szerinti teljesítési határnapot megelőző nyolcadik munkanapig nem érkezik meg a miniszterhez, akkor a kártalanítás kifizetésére annak figyelmen kívül hagyásával kerül sor.
 
-(5) A kifizetés történhet az elítéltnek vagy az egyéb jogcímen fogvatartottnak az általuk megjelölt számlaszámra utalással, illetve a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultjának rendelkezése szerint az általuk megjelölt számlaszámra utalással vagy készpénzben. Ha az elítélt vagy az egyéb jogcímen fogvatartott még fogva van, kérheti a kártalanítás összegének letéti számlájára való átutalását.
+(5) A kifizetés
+
+a) az elítéltnek vagy az egyéb jogcímen fogvatartottnak a megjelölt számlaszámra utalással, illetve ha fogva van – kérelmére – letéti számlájára való átutalással,
+
+b) a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultjának a megjelölt számlaszámra utalással vagy készpénzben
+
+történik.
 
 (5a) A kártalanítást megállapító határozatba foglalt kifizetési módnak az (5) bekezdés keretei között történő, illetve a teljesítési adatok, így különösen a számlaszám megváltoztatását az elítélt vagy az egyéb jogcímen fogvatartott, a védő, illetve a jogi képviselő, valamint a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultja a büntetés-végrehajtási bírónál megtett bejelentéssel kezdeményezheti. A kifizetési mód, illetve a teljesítési adatok megváltozásáról a büntetés-végrehajtási bíró haladéktalanul tájékoztatja az igazságügyért felelős minisztert. A változás akkor vehető figyelembe, ha a kifizetés a kártalanítást megállapító határozatban foglaltaknak megfelelően még nem történt meg.
 

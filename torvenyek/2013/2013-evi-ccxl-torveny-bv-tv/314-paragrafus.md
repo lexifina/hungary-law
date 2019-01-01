@@ -24,4 +24,4 @@ c) a Btk. 65. § (4) bekezdése szerint a próbaidő meghosszabbításának vagy
 
 d) a Btk. 68. § (2) bekezdése szerint a jóvátételi munka helyett büntetés kiszabásának
 
-lehet helye, azt az ügyészség a bíróságnál indítványozza. Kisebb súlyú szabályszegés esetén az ügyészség a külön magatartási szabályok megváltoztatását is indítványozhatja.
+lehet helye, azt az ügyészség az a)–b) pontban meghatározott esetben a büntetés-végrehajtási bírónál, a c)–d) pontban meghatározott esetben az alapügyben elsőfokon eljárt bíróságnál indítványozza. Kisebb súlyú szabályszegés esetén az ügyészség a külön magatartási szabályok megváltoztatását is indítványozhatja.
