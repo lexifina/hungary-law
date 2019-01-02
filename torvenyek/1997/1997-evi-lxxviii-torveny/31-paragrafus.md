@@ -35,3 +35,5 @@ d) a terület geológiai, hidrológiai és szeizmológiai sajátosságainak val�
 (6) Az építésügyi műszaki irányelvek kidolgozásáért felelős bizottság kidolgozza az épített környezet létrehozása és fenntartása érdekében végzett tervezési, építési és üzemeltetési tevékenység területére kiterjedő, jogszabály, szabvány által nem szabályozott, azokkal nem ellentétes követelményeket, tevékenységekre vonatkozó módszereket tartalmazó építésügyi műszaki irányelveket. Az építésügyi műszaki irányelv alkalmazása önkéntes.
 
 (7) Amennyiben az építésügyi műszaki irányelv által szabályozott területen jogszabály vagy szabvány kerül kiadásra, az építésügyi műszaki irányelvet vissza kell vonni.
+
+(8) Műszaki tartalmú jogszabály hivatkozhat építésügyi műszaki irányelvre. Az adott jogszabály vonatkozó követelményei teljesülnek, ha a hivatkozott építésügyi műszaki irányelvben meghatározottakkal azonos vagy kedvezőbb megoldások készülnek.

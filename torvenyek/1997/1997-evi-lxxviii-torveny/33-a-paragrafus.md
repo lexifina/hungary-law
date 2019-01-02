@@ -8,9 +8,11 @@ b) műemlék kivételével, a meglévő lakóépület 300 négyzetméter összes
 
 c) az a) és b) pontban foglalt építési munkákhoz szükséges tereprendezés, támfalépítés.
 
-(2) A természetes személy építtető egyszerű bejelentéssel bejelenti a 300 négyzetméter összes hasznos alapterületet meghaladó új lakóépületet érintő építési tevékenységet, ha azt saját lakhatás biztosítása céljából végzi és az így megépült új lakóépület egy lakásnál többet nem tartalmaz.
+(2) A természetes személy építtető egyszerű bejelentéssel bejelenti a 300 négyzetméter összes hasznos alapterületet meghaladó új lakóépületet érintő építési, valamint az ehhez szükséges tereprendezési, támfalépítési tevékenységet, ha azt saját lakhatás biztosítása céljából végzi és az így megépült új lakóépület egy lakásnál többet nem tartalmaz.
 
-(3) A természetes személy építtető – műemlék kivételével – egyszerű bejelentéssel bejelenti a meglévő lakóépület 300 négyzetméter összes hasznos alapterületet meghaladó bővítésére irányuló építési tevékenységet, ha azt saját lakhatása biztosítására szolgáló lakóépület tekintetében végzi.
+(3) A természetes személy építtető – műemlék kivételével – egyszerű bejelentéssel bejelenti a meglévő lakóépület 300 négyzetméter összes hasznos alapterületet meghaladó bővítésére irányuló építési, valamint az ehhez szükséges tereprendezési, támfalépítési tevékenységet, ha azt saját lakhatása biztosítására szolgáló lakóépület tekintetében végzi.
+
+(3a) A (2) és (3) bekezdés alkalmazásában saját lakhatásnak minősül minden olyan eset, amelynek során az építtető a lakóépületet vagy lakást életvitelszerű bentlakás céljából használja.
 
 (4) Egyszerű bejelentéssel folytatott építési tevékenység esetén
 

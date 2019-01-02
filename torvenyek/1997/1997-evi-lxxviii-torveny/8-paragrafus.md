@@ -4,6 +4,8 @@
 
 (2) A településfejlesztési koncepciót, az integrált településfejlesztési stratégiát és a településrendezési eszközöket a települési önkormányzat a településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök elkészítéséről és elfogadásáról szóló kormányrendeletben foglaltak szerint a megállapításuk előtt véleményezteti.
 
+(2a) A településrendezési eszköz elfogadásakor a (2) bekezdés szerinti kormányrendelet alapján záró szakmai vélemény kibocsátására jogosultnak a jogszabályi követelmények érvényesülését biztosító záró szakmai véleményét figyelembe kell venni. A záró szakmai vélemény megküldésére a (2) bekezdés szerinti kormányrendeletben megállapított határidő lejártát követő 5. napon a településrendezési eszköz elfogadható.
+
 (3) A településrendezési eszköz – a (2) bekezdés szerinti kormányrendeletben meghatározott kivétellel – legkorábban az elfogadásától számított 30. napon léptethető hatályba.
 
 (4) A polgármester (főpolgármester) gondoskodik

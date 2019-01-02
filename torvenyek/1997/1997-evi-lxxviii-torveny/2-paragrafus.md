@@ -105,3 +105,5 @@ e) a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt
 f) az 55/A. § (3) bekezdése alapján megillető felhasználási jogok vagy vagyoni jogok
 
 összessége, ideértve az állami, önkormányzati tulajdonú szervezetek általi megrendelésre készült épületek azon építészeti-műszaki dokumentációit is, amelyen a megrendelő a szerzői vagyoni jogokat vagy a felhasználási jogokat megszerezte.
+
+42. Építésügyi műszaki irányelv: jogszabály vagy európai vagy nemzeti szabvány által nem vagy nem teljeskörűen szabályozott területen, ismételt vagy folyamatos alkalmazás céljára, széles körű szakmai összefogással és állami felügyelet mellett létrehozott, magyar nyelven kiadott, mindenki számára hozzáférhető műszaki előírás.

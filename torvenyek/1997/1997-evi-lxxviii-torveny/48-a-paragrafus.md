@@ -16,9 +16,9 @@ b) – ha az építmény fennmaradása az (1) bekezdés alapján nem engedélyez
 
 (4) Veszélyhelyzet elhárítása érdekében történő vagy kihirdetett veszélyhelyzet következtében szükségessé váló, továbbá tömeges bevándorlás okozta válsághelyzetben nemzetbiztonsági érdekből végzett építési tevékenységek, valamint az építmények, építményszerkezetek veszélyes állapotának jogszerűtlen építési tevékenységgel történő, halasztást nem tűrő elhárítása vagy részleges elbontása esetén az építésügyi hatóság a megvalósult építmény, építményrész, építményszerkezet fennmaradását vagy elbontását – ha az az (1) bekezdésben előírtaknak, jogszabályban meghatározottak szerint megfelel – kérelemre tudomásul veszi.
 
-(5) Az építésügyi és az építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon 60 napon belül folytatja le a hatósági ellenőrzést és ha szabálytalanságot állapít meg, hivatalból megindítja az eljárást és megteszi az (1)–(4) bekezdésben meghatározott intézkedéseket. Az eljárás megindításának legkésőbb az építés befejezésétől – ha az nem állapítható meg, akkor az építmény használatbavételétől – számított tíz éven belül van helye.
+(5) Az építésügyi és az építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon 60 napon belül folytatja le a hatósági ellenőrzést. Szabálytalanság észlelése esetén hivatalból megindítja az eljárást, és megteszi az (1)–(4) bekezdésben meghatározott intézkedéseket. Az eljárás megindításának legkésőbb az építés befejezésétől – ha az nem állapítható meg, akkor az építmény használatbavételétől – számított tíz éven belül van helye.
 
-(6) az (5) bekezdés szerinti 90 napos időtartam újrakezdődik
+(6) Az (5) bekezdés szerinti hatósági ellenőrzés újrakezdődik
 
 a) a fennmaradási engedélykérelem benyújtására való felhívás nem teljesítése esetén, a teljesítési határidő lejártát követő napon,
 
