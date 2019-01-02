@@ -1,3 +1,3 @@
-## 7. § A Korm. rendelet 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^3]
 
-## „(3) A jóváhagyást végző szervezet a kérelemről annak beérkezésétől számított 8 napon belül dönt. A kérelemmel kapcsolatban hiánypótlásnak van helye, ha a kérelem nem tartalmazza az (1) bekezdésben foglaltakat. Ilyen esetben a támogatás igénybevételére jogosult szervezet 8 napon belül az (1) bekezdésben foglalt feltételeknek megfelelő kérelmet nyújthat be a jóváhagyást végző szervezet részére.”
+[^3]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

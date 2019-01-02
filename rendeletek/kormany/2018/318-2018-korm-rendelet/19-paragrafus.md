@@ -1,7 +1,6 @@
-## lép.
+## 18. §[^14]
 
-## 19. § Hatályát veszti a Korm. rendelet
+19. §[^15]
 
-a) 2. § (1) bekezdés 3. pont f) és g) alpontja,
-
-b) 17–20. §-a.
+[^14]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

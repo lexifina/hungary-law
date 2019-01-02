@@ -1,5 +1,3 @@
-## 6. § A Korm. rendelet 4. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 6. §[^2]
 
-## (A kérelemhez a támogatás igénybevételére jogosult szervezet részéről csatolni kell)
-
-## „a) – a (2a) bekezdés kivételével – 30 napnál nem régebbi kivonatot a támogatás igénybevételére jogosult szervezetet nyilvántartó szervezettől (bíróság) a szervezet nyilvántartásban szereplő adatairól, közjegyzői aláírás-hitelesítéssel ellátott aláírási címpéldányt,”
+[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(9) A látvány-csapatsport támogatás keretében közvetítő eljárását igénybe venni, közvetítői tevékenység ellenértékét elszámolni nem lehet.”
+## 5. §[^1]
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
