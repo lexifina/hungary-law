@@ -1,1 +1,0 @@
-6. § A Hmtv. 29. § (4) bekezdésében, 36/B. § (3) bekezdésében az „a szabadalmi törvény felhatalmazása alapján kiadott miniszteri rendeletben” szövegrész helyébe az „az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban” szöveg lép.

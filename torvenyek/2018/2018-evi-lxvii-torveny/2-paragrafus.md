@@ -1,3 +1,0 @@
-2. § A Hmtv. 29. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl a bejelentési kérelemnek tartalmaznia kell a feltaláló nevét és lakcímét, vagy utalást arra, hogy a feltaláló nevének és lakcímének a mintaoltalmi iratokon való feltüntetése mellőzését kéri, és hogy a feltaláló a nevét és lakcímét külön lapon adja meg. A mintaoltalmi bejelentést egyebekben a mintaoltalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.”

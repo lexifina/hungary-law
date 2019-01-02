@@ -1,3 +1,0 @@
-16. § Az Szt. 82. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a nemleges megállapításra (37. §) irányuló kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás, valamint a megjelölt szabadalom leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.”

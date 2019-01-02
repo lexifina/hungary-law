@@ -1,3 +1,0 @@
-89. § Az Fmtv. 57. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A megsemmisítési kérelmet elektronikus kapcsolattartás esetén egy példányban, egyéb esetben eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak és – szolgálati mintára adott mintaoltalom esetén – ahány szerzője van a mintának. A szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.”
