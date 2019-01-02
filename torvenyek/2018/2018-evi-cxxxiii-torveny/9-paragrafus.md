@@ -1,3 +1,1 @@
-9. § Az Szmtv. 40. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból, törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek. A javaslatban foglaltaktól az idegenrendészeti hatóság nem térhet el.”
+9. §

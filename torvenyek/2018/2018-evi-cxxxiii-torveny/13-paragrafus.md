@@ -1,5 +1,1 @@
-13. § Az Szmtv. 50. §-a a következő (2a)–(2b) bekezdéssel egészül ki:
-
-„(2a) A kitoloncolást elrendelő határozatot vagy végzést az idegenrendészeti hatóság módosítja a kitoloncolás végrehajtásának módja tekintetében, amennyiben azt a kitoloncolás végrehajtása során bekövetkezetett változások, így különösen a kiutasított személy magatartása, vagy egyéb, a kitoloncolás végrehajtásának módját befolyásoló tények indokolják. A módosító határozat vagy végzés ellen jogorvoslatnak nincs helye.
-
-(2b) A kiutasító döntésben meghatározott célországot az idegenrendészeti hatóság módosítja, amennyiben azt a kiutasított személy felróható magatartása, így különösen állampolgársága vonatkozásában tett valótlan tényközlése, vagy egyéb, a kiutasítás célországát befolyásoló tények indokolják. A módosító határozat vagy végzés ellen végrehajtási kifogásnak van helye. A végrehajtási kifogás a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő. A végrehajtási kifogás tárgyában hozott döntés ellen jogorvoslatnak nincs helye.”
+13. §

@@ -1,1 +1,1 @@
-86. § Az At. 89. § (3) bekezdésében az „a központi idegenrendészeti nyilvántartást vezető szervet” szövegrész helyébe az „a központi idegenrendészeti nyilvántartást vezető szervet, menedékes vagy befogadott jogállású személy esetén pedig a menekültügyi hatóságot” szöveg lép.
+86. §

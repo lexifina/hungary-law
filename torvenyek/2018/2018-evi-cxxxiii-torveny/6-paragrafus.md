@@ -1,3 +1,1 @@
-6. § Az Szmtv. 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Olyan érvényes úti okmánnyal, amelynek érvényessége legalább három hónappal meghaladja a tervezett távozása időpontját és a megelőző tíz éven belül bocsátották ki, valamint – amennyiben közvetlenül alkalmazandó európai közösségi jogi aktus vagy nemzetközi szerződés másként nem rendelkezik – érvényes kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal családtagként jogosult beutazni Magyarország területére az a harmadik ország állampolgárságával rendelkező személy is, aki – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartottja volt, vagy vele egy háztartásban élt, illetve akiről súlyos egészségügyi okból az EGT-állampolgár személyesen gondoskodik.”
+6. §
