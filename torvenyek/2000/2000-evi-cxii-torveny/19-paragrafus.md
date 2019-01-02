@@ -1,19 +1,25 @@
-19. § (1) A kempingek területének más célra történő igénybevétele csak zöldterületként 4%-os beépítettséggel vagy a turizmus fejlesztését szolgáló vegyes területként, üdülőházas üdülőterületként, illetve a különleges területfelhasználási egységek közül a vízpart-rehabilitációs szabályozási követelményekben meghatározott települési területfelhasználási egységként
+19. § (1) A vízparti kemping területén – tulajdoni formától függetlenül –
 
-a) közvetlen Balaton-parti kapcsolat esetén 15%-os beépítettséggel;
+a) kereskedelmi célú szállásférőhely, vendéglátó épület és pihenést, testedzést szolgáló építmény helyezhető el,
 
-b) amennyiben a közvetlen parti kapcsolattal rendelkező 30 méter széles – közhasználatú parti sétány kialakítására alkalmas – zöldterület települési területfelhasználási egységbe tartozó terület tulajdonjogát a települési önkormányzat megszerezte, a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett, eredetileg közvetlen Balaton-parti kapcsolattal rendelkező területen a visszamaradó telekre meghatározott települési területfelhasználási egység vízpart-rehabilitációs szabályozási követelményekben meghatározott beépítési százalékával;
+b) lakó- és üdülőépület, lakás nem alakítható ki.
 
-c) a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett, közvetlen Balaton-parti kapcsolattal nem rendelkező területen meghatározott települési területfelhasználási egység vízpart-rehabilitációs szabályozási követelményekben meghatározott beépítési százalékával;
+(2) A vízparti kempinget különleges terület kemping települési területfelhasználási egységbe kell sorolni, amelynek beépítettsége legfeljebb 15% lehet.
 
-d) a kiemelt üdülőkörzet parti és partközeli településeinek területén lévő, a balatoni vízpart-rehabilitációs szabályozási követelményekkel nem érintett területen a településrendezési eszközökben meghatározható beépítési szabályok szerint
+(3) A kemping területének más területfelhasználási egységbe történő besorolása csak
 
-történhet.
+a) zöldterületként legfeljebb 3%-os beépítettséggel, vagy
 
-(2) A vízpart-rehabilitációs szabályozási követelményekkel érintett területeken, ahol a kempingek területe nem került átsorolásra, a kempingek beépítettségének mértéke legfeljebb 15% lehet.
+b) különleges terület strandként, legfeljebb 15%-os beépítettséggel
 
-(3) A meglévő strandok területe a településrendezési eszközökben csak zöldterület kialakítása céljából csökkenthető. A strandok területén telekfelosztás csak zöldterület kialakítása céljából, telekhatár-rendezés csak zöldterületbe sorolás vagy a strandterület növelése, illetve a telekhatár kiigazítása céljából végezhető. A telekhatár-rendezés során a strandterület parthossza nem csökkenthető. A strandok területének
+valósítható meg.
 
-a) legfeljebb 10%-a építhető be a külön jogszabályokban meghatározott feltételek szerint,
+(4) A strand beépített területe legfeljebb a terület 10%-a lehet.
 
-b) legkevesebb 65%-át – legkésőbb a használatbavételi engedélykérelem benyújtásáig – növényzettel fedetten kell kialakítani és fenntartani.
+(5) A strand területének legkevesebb 65%-át fásított zöldfelületként kell kialakítani és fenntartani.
+
+(6) Strand területén – tulajdoni formától függetlenül –
+
+a) csak vendéglátó épület, pihenést, testedzést, valamint az átöltözést és tisztálkodást szolgáló építmény helyezhető el,
+
+b) lakó- és üdülőépület, lakás nem alakítható ki.
