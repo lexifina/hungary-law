@@ -1,3 +1,0 @@
-## 31. § A 65/2013. (III. 8.) Korm. rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A honvédelmi létfontosságú rendszerelemek kivételével, a létfontosságú rendszerelemek védelmét a helyszíni ellenőrzés lefolytatására jogosult szervek a hivatásos katasztrófavédelmi szerv központi szervének koordinálásával ütemezett módon, éves ellenőrzési terv alapján összehangoltan is ellenőrzik, oly módon, hogy a létfontosságú rendszerelem legalább 5 évente kerüljön ellenőrzésre. Az éves ellenőrzési tervet a hivatásos katasztrófavédelmi szerv központi szerve a tárgyévet megelőző év november 30-ig állítja össze.”

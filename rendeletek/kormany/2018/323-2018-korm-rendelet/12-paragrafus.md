@@ -1,5 +1,0 @@
-## 11. § A 161/2010. (V. 6.) Korm. rendelet 22. §-a a következő (6) és (7) bekezdéssel egészül ki:
-
-## „(6) Állami szervek esetében, ha a legfeljebb „Titkos!” minősítési szintű nemzeti minősített adatokat kezelő rendszer és elemei 1. kategóriájú biztonsági tároló használatával engedélyezett II. osztályú biztonsági területen helyezkednek el, a rendszer minősített adathordozói tekintetében biztonsági tárolónak, illetve zárnak tekinthető, ha az adathordozóhoz való hozzáférést legalább 1. kategóriájú tárolóval azonos szintű védelmet nyújtó zárható burkolattal vagy az adathordozó eltávolítását legalább hagyományos zárszerkezet alkalmazásával akadályozzák meg.
-
-## (7) A nemzeti minősített adatot kezelő elektronikus rendszert biztonsági területen kívül, adminisztratív zónában, a biztonsági vezető által megjelölt helyszínen, kizárólag személyes felügyelet alatt lehet üzemeltetni. Nemzeti „Titkos!” vagy „Szigorúan titkos!” elektronikus rendszer esetén a rendszer elemeinek meg kell felelnie a TEMPEST követelményeknek.”

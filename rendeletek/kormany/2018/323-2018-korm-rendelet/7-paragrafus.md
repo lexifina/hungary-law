@@ -1,3 +1,0 @@
-## 6. § A 92/2010. (III. 31.) Korm. rendelet 10/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az (1) bekezdés szerinti telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a gazdálkodó szervezet a 2. mellékletben meghatározott adattartalommal az NBF elnöke által rendszeresített és az NBF honlapján közzétett Cég-adatlap, a 4. § (5) bekezdésben foglaltak alapján az érintett személyek által kitöltött biztonsági kérdőív, valamint a 6. § (4) bekezdés b) pontjában meghatározott feltétel teljesítéséhez szükséges Adatlap egyszerre történő megküldésével kezdeményezi az NBF-nél.”
