@@ -1,3 +1,3 @@
-## „(1a) E rendelet hatálya kiterjed a Dokumentációs Központ részére átadni vagy szolgáltatni rendelt, az állami költségvetési források felhasználásával megvalósítani tervezett építészeti tervpályázatok tervanyagának és dokumentációinak gyűjtésére, kezelésére és szolgáltatására.
+## 1. §[^1]
 
-## (1b) E rendelet hatálya kiterjed az alábbi európai uniós fejlesztési programokhoz kapcsolódó iratanyag kezelésére, tárolására, őrzésére és az ellenőrzésre jogosult szervek számára a hozzáférés biztosítására: Phare, ISPA, Saphard, Access, Interreg, 2004–2006 időszak közötti AVOP, GVOP, HEFOP, KIOP, ROP, Svájci Alap, Twinning Program, 2007–2013 közötti időszak határon átnyúló, valamint a 2014–2020-ig terjedő programozási időszak Partnerségi Megállapodással érintett valamennyi programja.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
