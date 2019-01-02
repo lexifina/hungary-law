@@ -112,7 +112,7 @@ H) Emberi erőforrások minisztere
 
 | 9 | Nemzeti Népegészségügyi Központ | irányítás |
 
-| 10 | Magyar Nyelvstratégiai Intézet | irányítás |
+| 10 |  |  |
 
 I) Honvédelmi miniszter
 
@@ -158,4 +158,4 @@ L) Nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 | 2 | Szerencsejáték Felügyelet | irányítás |
 
-[^12]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a, a 206/2018. (XI. 10.) Korm. rendelet 8. §-a és 9. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a, a 206/2018. (XI. 10.) Korm. rendelet 8. §-a és 9. § a)–b) pontja szerint módosított szöveg.
