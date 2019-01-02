@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti az egyházi költségvetési céltámogatások folyósításáról és elszámolásáról szóló 58/2013. (VIII. 7.) EMMI rendelet.
+## 8. §[^1]
 
 1. melléklet az 5/2018. (XII. 21.) TNM rendelethez
 
@@ -117,3 +117,5 @@ Kelt ....................................................................
 az egyház neve képviselő aláírása
 
 P. H.
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
