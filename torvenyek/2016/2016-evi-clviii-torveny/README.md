@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-158-00-00
 | 2017-01-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-158-00-00.6 |
 | 2017-01-19 | 2010. évi CXXX. törvény | 2016-158-00-00.7 |
 | 2019-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-158-00-00.8 |
+| 2019-01-02 | 2010. évi CXXX. törvény | 2016-158-00-00.9 |
