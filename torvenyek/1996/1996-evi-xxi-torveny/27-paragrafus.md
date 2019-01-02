@@ -12,7 +12,7 @@ e) a szabad vállalkozási zónák létrehozásának és működésének, valami
 
 f) a területfejlesztéssel és területrendezéssel kapcsolatos információs rendszert és a kötelező adatközlés szabályait;
 
-g)
+g) a 8. § szerinti esetekben az egyedi, az országos, a kiemelt térségi és a megyei területrendezési terv rendelkezéseitől eltérő vagy annak alkalmazását kizáró területrendezési szabályokat és különös hatósági eljárási szabályokat.
 
 h) a területi monitoring rendszer feladat- és hatáskörét, szervezeti és működési rendjét, a területfejlesztést közvetlenül vagy közvetve szolgáló források felhasználásáról készülő területi értékelés elkészítésének módszertani szabályait;
 

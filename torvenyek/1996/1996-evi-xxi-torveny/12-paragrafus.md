@@ -1,6 +1,6 @@
 12. § (1) A megyei önkormányzat területrendezési feladatkörében:
 
-a) a 6. § d) pontjában meghatározott tervvel összhangban, az érintett települési önkormányzatok véleményeinek kikérésével elfogadja a megye területrendezési tervét, amely nem terjed ki a 6. § d) pontjában meghatározott kiemelt térségek területére,
+a) a 6. § d) pontjában meghatározott tervvel összhangban, az érintett települési önkormányzatok véleményeinek kikérésével elfogadja a megye területrendezési tervét, amely – a jogszabályban rögzített egyedileg meghatározott megyei övezet kivételével – nem terjed ki a 6. § d) pontjában meghatározott kiemelt térségek területére,
 
 b) előzetesen véleményezi az országos, valamint a területét érintő területrendezési terveket,
 
