@@ -1,3 +1,1 @@
-113. § A Hjt. 228. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A munkáltatói jogkört gyakorló a tisztjelölti szolgálati viszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a honvéd tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha egészségi, pszichikai vagy fizikai állapota miatt, vagy nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti szolgálati viszony a jognyilatkozat közlésétől számított 30. nap elteltével megszűnik. A tisztjelölt és a munkáltatói jogkört gyakorló közös megegyezéssel korábbi időpontban is megállapodhatnak.”
+113. §

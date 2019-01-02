@@ -1,3 +1,1 @@
-110. § A Hjt. 214. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az önkéntes tartalékos katona a rendelkezésre állás időszakában is köteles bejelenteni a munkáltatói jogkör gyakorlójának az országgyűlési képviselői, az európai parlamenti képviselői, a főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlés elnöki, alelnöki, a polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri, a helyi önkormányzati képviselői és a nemzetiségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, és annak elmaradását. A jelöltként történő nyilvántartásba vételtől tényleges szolgálatteljesítésre nem hívható be, és a tisztségbe történt megválasztásakor az önkéntes tartalékos szolgálati viszonya e törvény erejénél fogva megszűnik.”
+110. §

@@ -1,3 +1,1 @@
-126. § A Haktv. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Azon kiképzett tartalékosok adatait, akiknek a Honvédséggel fennálló hivatásos, szerződéses vagy önkéntes tartalékos szolgálati viszonya 2011. január 1-jét követően, legalább 6 hónap tényleges katonai szolgálat teljesítését követően szűnt meg, valamint életkoruk nem érte el a katonai szolgálat felső korhatárát és a szolgálati viszony megszűnésekor katonai szolgálatra alkalmas minősítéssel rendelkeztek, a Honvédség katonai szervezetei hadi beosztásába történő előzetes tervezése, valamint az önkéntes tartalékos állomány toborzása céljából a Honvédség katonai igazgatási és központi adatfeldolgozó szerve alárendeltségébe tartozó, az érintettek lakóhelye szerint illetékes katonai igazgatási központ már békeidőszakban is kezeli.”
+126. §

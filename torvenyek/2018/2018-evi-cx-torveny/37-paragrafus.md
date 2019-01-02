@@ -1,3 +1,1 @@
-37. § A Hvt. 53. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az ország fegyveres védelmének és a szövetségi szintű védelem tervezéséhez és felülvizsgálatához, valamint a Honvédség műveleteinek tervezéséhez, irányításához és vezetéséhez szükséges döntések meghozatalának támogatása érdekében a Honvédség és a KNBSZ felderítő rendszert működtet. A felderítő rendszer útján a Honvédség és a KNBSZ információkat gyűjt a műveleti terület valamennyi összetevőjéről, valamint a honvédelmi feladatok tervezését és végrehajtását meghatározó körülményekről, jelenségekről. E körben a Honvédség és a KNBSZ törvényben meghatározottak szerint biometrikus adatokat is gyűjthet és kezelhet.”
+37. §

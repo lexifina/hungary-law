@@ -1,3 +1,1 @@
-31. § A Hvt. 42. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő ingatlanok tekintetében alkalmazandó közigazgatási hatósági, illetve közigazgatási egyeztetési eljárási szabályokat – törvény vagy kormányrendelet erre vonatkozó rendelkezése alapján – a nem a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló ingatlan vonatkozásában létesített ingatlanhasználati jogviszony hatálya alatt az ingatlanhasználati jogviszonnyal érintett ingatlanok esetében is alkalmazni kell.”
+31. §

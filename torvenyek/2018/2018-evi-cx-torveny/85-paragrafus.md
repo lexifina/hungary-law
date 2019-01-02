@@ -1,3 +1,1 @@
-85. § A Hjt. 89. §-a a következő (3b) bekezdéssel egészül ki:
-
-„(3b) A (3a) bekezdés szerinti esetben a feleknek meg kell állapodniuk a tanulmányi szerződéssel kapcsolatos jogokról és kötelezettségekről, így különösen arról, hogy a képzésben résztvevő a honvédelmi szervezet által a tanulmányi szerződés megszüntetéséig teljesített tanulmányi támogatásokat köteles-e megtéríteni, és ha igen, milyen mértékben. A Magyar Honvédség parancsnoka a honvédelmi szervezetnek az állomány tagjával szemben fennálló, tanulmányi támogatásra vonatkozó megtérítési kötelezettségből származó követelését szolgálati érdekből részben vagy egészben elengedheti.”
+85. §
