@@ -1,1 +1,1 @@
-57. § Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény 2. § 1. pontjában a „közalkalmazotti jogviszony” szövegrész helyébe a „közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony” szöveg lép.
+57. §

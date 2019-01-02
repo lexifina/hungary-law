@@ -1,1 +1,1 @@
-21. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 4. pont e) alpontjában az „önkéntes tartalékos állományának szolgálati viszonya” szövegrész helyébe az „önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony” szöveg, a „hivatásos szolgálati jogviszonya” szövegrész helyébe a „hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya” szöveg lép.
+21. §

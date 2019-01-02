@@ -1,1 +1,1 @@
-59. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 7. § (1) bekezdés 12. pontjában a „közalkalmazotti jogviszonyon” szövegrész helyébe a „közalkalmazotti jogviszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon” szöveg lép.
+59. §

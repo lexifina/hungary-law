@@ -1,1 +1,1 @@
-38. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 2. § 23. pontjában a „rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony” szövegrész helyébe a „rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati és rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXV. törvény szerinti honvédelmi alkalmazotti jogviszony” szöveg lép.
+38. §

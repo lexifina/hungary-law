@@ -1,1 +1,1 @@
-29. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 4. § (2) bekezdés x) pontjában a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban” szöveg lép.
+29. §
