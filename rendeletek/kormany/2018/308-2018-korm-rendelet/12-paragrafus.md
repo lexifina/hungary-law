@@ -1,3 +1,0 @@
-## 11. § Az előadó-művészeti szervezet vezetőjének választására irányuló pályázati eljárásról és a munkakör betöltésének szabályairól szóló 155/2017. (VI. 15.) Korm. rendelet (a továbbiakban: R2.) 2. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A (4) bekezdésben meghatározott esetben, vagy ha a (2) bekezdésben meghatározott idő alatt a pályázatot nem lehet kiírni vagy lefolytatni, a korábbi vezető, annak helyettese, vagy akadályoztatásuk esetén a munkáltatói jogkör gyakorlója által meghatározott, a 8. § szerinti feltételeknek megfelelő személy határozott időre, de legfeljebb az új vezető kinevezéséig megbízható a vezetői feladatok ellátásával.”
