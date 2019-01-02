@@ -1,3 +1,5 @@
+## 12. §[^1]
+
 1. melléklet a 254/2018. (XII. 18.) Korm. rendelethez
 
 ## Az egyéni vállalkozói igazolvány törzslap tartalma
@@ -27,3 +29,5 @@
 12. az egyéni vállalkozó főtevékenysége
 
 13. az egyéni vállalkozó további tevékenységi köre(i)
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
