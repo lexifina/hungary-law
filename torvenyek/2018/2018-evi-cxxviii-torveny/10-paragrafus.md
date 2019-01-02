@@ -1,14 +1,14 @@
 10. § Hatályát veszti az MFB tv.
 
-a) 3. § (4) bekezdésében az „és kockázati tőkealap által kibocsátott kockázati tőkealap-jegyet” szöveg;
+a)
 
-b) 8. § (2a) bekezdése;
+b)
 
-c) 9. § (1) bekezdése;
+c)
 
-d) 9. § (2) bekezdésében a „vagy kockázati tőkealapba” szöveg;
+d)
 
-e) 9. § (3) bekezdésében az „, illetve kockázati tőkealapokba” szöveg;
+e)
 
 f)
 
@@ -16,4 +16,4 @@ g)
 
 h)
 
-i) 1. melléklet 7. pontja.
+i)
