@@ -1,3 +1,1 @@
-21. § Az Rtv. 93/A. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója a panaszról harmincöt napon belül közigazgatási hatósági eljárásban dönt. Az ügyintézési határidő a Testület állásfoglalásának kézhezvételét követő napon indul. Ha az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozatban eltér a Testület állásfoglalásától, ezt köteles megindokolni.”
+21. §

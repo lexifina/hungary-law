@@ -1,3 +1,1 @@
-43. § Az Nbtv. 71/B. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha a nemzetbiztonsági ellenőrzés elrendelését követően, a nemzetbiztonsági ellenőrzés befejezését megelőzően ugyanarra a személyre vonatkozóan más kezdeményező is kezdeményezi a nemzetbiztonsági ellenőrzés lefolytatását, akkor a későbbi kezdeményezés vonatkozásában a főigazgató az újabb elrendelést mellőzi. Az elrendelés mellőzéséről, valamint a korábban a kezdeményező részére megküldött írásbeli értesítések tartalmáról a nemzetbiztonsági szolgálat főigazgatója az újabb kezdeményezőt írásban értesíti. A már megkezdett nemzetbiztonsági ellenőrzésben ezt követően a későbbi kezdeményező is a kezdeményező jogkörében vesz részt, ennek tényéről a nemzetbiztonsági szolgálat főigazgatója mindkét kezdeményezőt írásban értesíti.”
+43. §
