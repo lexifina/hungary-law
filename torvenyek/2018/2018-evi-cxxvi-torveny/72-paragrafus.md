@@ -1,12 +1,12 @@
-72. § A Bszt.
+72. §
 
 a)
 
 b)
 
-c) 24/G. § (1) bekezdésében a „vállalkozás hatékony” szövegrész helyébe a „vállalkozás, továbbá a Felügyelet hatékony” szöveg,
+c)
 
-d) 24/G. § (3) bekezdésében a „jogsértés intézményen belüli” szövegrész helyébe a „jogsértés befektetési vállalkozáson belüli” szöveg,
+d)
 
 e)
 
@@ -21,5 +21,3 @@ i)
 j)
 
 k)
-
-lép.

@@ -1,4 +1,4 @@
-120. § A Hpt.
+120. §
 
 1.
 
@@ -6,9 +6,9 @@
 
 3.
 
-4. 116. § (1) bekezdésében a „hitelintézet” szövegrész helyébe a „hitelintézet, továbbá a Felügyelet” szöveg,
+4.
 
-5. 116. § (2) bekezdés b) pontjában az „az intézményen” szövegrész helyébe az „a hitelintézeten” szöveg,
+5.
 
 6.
 
@@ -33,5 +33,3 @@
 16.
 
 17.
-
-lép.

@@ -1,4 +1,4 @@
-181. § A Bit.
+181. §
 
 1.
 
@@ -6,7 +6,7 @@
 
 3.
 
-4. 103. § (4) bekezdésében az „a (2) bekezdés a)–c) pontjában” szövegrész helyébe a „(2) bekezdésében” szöveg,
+4.
 
 5.
 
@@ -33,5 +33,3 @@
 16.
 
 17.
-
-lép.

@@ -1,3 +1,1 @@
-75. § A Gfbt. 49. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A biztosító a szerződés létrejöttétől, illetve – a 21. § (4) bekezdésében meghatározott eset kivételével – megszűnésétől – érdekmúlással történő megszűnés esetén a biztosító tudomásszerzésétől –, továbbá a biztosítást igazoló okirat adataiban bekövetkező egyéb – a kötvénynyilvántartás adattartalmát képező – változás időpontjától számított 15 napon belül köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni – a 46. § (2) bekezdésében megjelölt adatok feltüntetésével – a biztosítási szerződés megkötéséről, illetve megszűnéséről, valamint az adatokban bekövetkező egyéb változásokról.”
+75. §
