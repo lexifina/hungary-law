@@ -128,17 +128,9 @@ f) egy tagállam nemzetiséghez tartozik, és akinek szakmai, nyelvi képzésén
 
 2. Súlyosan hátrányos helyzetű munkavállaló, aki legalább 24 hónapja munkanélküli;
 
-3. Fogyatékkal élő munkavállaló, aki
+3. Fogyatékossággal élő munkavállaló, aki tartósan vagy véglegesen olyan érzékszervi, kommunikációs, fizikai, értelmi, pszichoszociális károsodással – valamint ezek bármilyen halmozódásával – él, amely a környezeti, társadalmi és egyéb jelentős akadályokkal kölcsönhatásban a hatékony és másokkal egyenlő társadalmi részvételt korlátozza vagy gátolja;
 
-a) a nemzeti jog szerint fogyatékosnak elismert, vagy
-
-b) elismerten fizikai, elmebeli vagy pszichológiai károsodásban szenved.
-
-4. Megváltozott munkaképességű munkavállaló, aki
-
-a) rehabilitációs ellátásban részesül,
-
-b) aki 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesült.
+4. Megváltozott munkaképességű személy.
 
 (5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
