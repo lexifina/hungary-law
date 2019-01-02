@@ -1,4 +1,4 @@
-77. § Az államháztartásról szóló 2011. évi CXCV. törvény
+### 77. §
 
 1.
 
@@ -79,5 +79,3 @@
 39.
 
 40.
-
-lép.
