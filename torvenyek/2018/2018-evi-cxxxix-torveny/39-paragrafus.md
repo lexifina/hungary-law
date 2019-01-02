@@ -1,3 +1,1 @@
-39. § (1) A településszerkezeti terv készítése vagy módosítása során az e törvénnyel való összhang megteremtése érdekében történő felülvizsgálatot követően a természetközeli területként és erdőterületként kijelölt területfelhasználási egységek nagysága a település közigazgatási területére vonatkozóan összességében nem csökkenhet.
-
-(2) Az egymással határos, összességében legalább 10 ha-t meghaladó új sportolási célú területet beépítésre nem szánt különleges terület települési területfelhasználási egységbe kell sorolni, további átsorolás nem hajtható végre. Az így lehatárolt területen a testedzést szolgáló építmények helyezhetők el, kereskedelmi célú szállásférőhely, lakó- és üdülőépület, valamint lakás nem alakítható ki. A beépítésre nem szánt különleges terület beépítettsége az összterületének 3%-át nem haladhatja meg.
+### 39. §

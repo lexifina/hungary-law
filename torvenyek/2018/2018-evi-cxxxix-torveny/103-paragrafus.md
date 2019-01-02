@@ -24,4 +24,4 @@
 
 ## b) lakó- és üdülőépület, lakás nem alakítható ki.”
 
-103. § A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17. § (11) bekezdésében az „Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában” szövegrész helyébe a „Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában” szöveg lép.
+### 103. §
