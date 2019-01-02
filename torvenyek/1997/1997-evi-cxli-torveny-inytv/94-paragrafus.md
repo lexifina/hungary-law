@@ -25,3 +25,9 @@ b) 94. § (4a), (7) és (8) bekezdésében
 foglaltakat az e rendelkezések hatálybalépésekor folyamatban levő, valamint a megismételt eljárásokban is alkalmazni kell.
 
 (10) Ha a haszonélvezeti jog vagy a használat jogának a törlésére az egyes ingatlan-nyilvántartással és földméréssel összefüggő törvények módosításáról szóló 2015. évi XLIV. törvény hatálybalépését megelőzően és a (8) bekezdésben foglalt rendelkezéssel ellentétesen került sor, a jogosult 2015. május 31-ig fellebbezést nyújthat be.
+
+(11) Ha az ingatlan-nyilvántartás és az ingatlan művelési ága, fő rendeltetése vagy jogi jellege tekintetében közhiteles nyilvántartás között e rendelkezés hatálybalépésekor ellentmondás áll fenn, e rendelkezés hatálybalépésétől számított egy éven belül az ingatlan-nyilvántartásban szereplő ingatlan művelési ágát, fő rendeltetését, jogi jellegét összhangba kell hozni a közhiteles nyilvántartásban foglaltakkal. Az összhangba hozatalra irányuló eljárás a közhiteles nyilvántartást vezető hatóság részéről az ingatlanügyi hatóság hivatalbóli megkeresésével indul. Az ingatlan tulajdonosa vagy akinek jogi érdeke fűződik hozzá, az összhangba hozatalt bármikor kezdeményezheti az ingatlanügyi hatóságnál.
+
+(12) Ha a (11) bekezdés szerinti összhangba hozatal nem történik meg a (11) bekezdésben meghatározott határidőn belül, az ingatlan-nyilvántartásban szereplő adatok tekintendők irányadónak.
+
+(13) Ha e rendelkezés hatálybalépését követően történik változás a közhiteles nyilvántartásban az ingatlan művelési ága, fő rendeltetése vagy jogi jellege vonatkozásban, a közhiteles nyilvántartást vezető hatóság 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak a közhiteles nyilvántartással történő összhangba hozatala érdekében. Az ingatlan tulajdonosa vagy akinek jogi érdeke fűződik hozzá, az összhangba hozatalt bármikor kezdeményezheti az ingatlanügyi hatóságnál.
