@@ -1,1 +1,0 @@
-## „(4) Az egyéb egyházi költségvetési támogatások esetén a kedvezményezett által e célra megadott elektronikus címre elektronikusan – változatlan tartalom visszaidézésére alkalmas formában – megküldött támogatói okirat abban az időpontban minősül hivatalosan közöltnek, amikor a kedvezményezett számára hozzáférhetővé vált.”
