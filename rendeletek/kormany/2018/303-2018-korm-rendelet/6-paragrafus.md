@@ -1,3 +1,0 @@
-## 5. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet (a továbbiakban: Pr.) 1. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) A járási hivatal hatáskörébe tartozó szociális rászorultságtól függő pénzbeli vagy természetbeni szociális ellátás iránti kérelmet a szociál- és nyugdíjpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon (a továbbiakban: kérelemnyomtatvány) kell benyújtani. A kérelemnyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.”
