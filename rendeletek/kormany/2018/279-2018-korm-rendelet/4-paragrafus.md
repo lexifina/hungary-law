@@ -1,3 +1,0 @@
-## 3. § A sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet (a továbbiakban: R2.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A Sportrendezvényeket Biztonsági Szempontból Minősítő Bizottság (a továbbiakban: Minősítő Bizottság) javaslata alapján az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) – az általános közigazgatási rendtartásról szóló törvény szerint – dönt az 1. § (1) bekezdés a) és b) pontjában meghatározott sportrendezvények biztonsági kockázat szerinti minősítéséről, valamint fokozott biztonsági kockázatú sportrendezvény esetén beléptető rendszer alkalmazásának kötelezettségéről.”
