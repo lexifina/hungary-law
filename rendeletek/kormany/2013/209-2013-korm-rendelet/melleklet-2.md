@@ -12,11 +12,11 @@
 
 ## A gépjárművek környezetvédelmi kategória besorolása:
 
-## A kategória: EURO V és jobb besorolású motorral felszerelt gépjárművek (legalább 6-os vagy 5-ös környezetvédelmi osztályú és jobb besorolású motorral felszerelt gépjárművek);
+## A kategória: EURO V és jobb besorolású motorral felszerelt gépjárművek;
 
-## B kategória: EURO II, EURO III és EURO IV besorolású motorral felszerelt gépjárművek (4-es környezetvédelmi besorolású motorral felszerelt gépjárművek);
+## B kategória: EURO II, EURO III és EURO IV besorolású motorral felszerelt gépjárművek;
 
-## C kategória: EURO I és rosszabb besorolású motorral felszerelt gépjárművek (3-as vagy annál rosszabb környezetvédelmi osztályú motorral felszerelt gépjárművek).
+## C kategória: EURO I és rosszabb besorolású motorral felszerelt gépjárművek.
 
 2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^27]
 
