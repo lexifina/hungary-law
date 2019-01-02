@@ -1,1 +1,3 @@
-28. § Hatályát veszti a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló 14/2016. (V. 25.) MvM rendelet.
+28. §[^1]
+
+[^1]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

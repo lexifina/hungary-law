@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-257-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-01-01 | 2018-257-20-22.1 | 257/2018. (XII. 18.) Korm. rendelet |
+| 2019-01-02 | 2018-257-20-22.2 | 2010: CXXX. törvény |
