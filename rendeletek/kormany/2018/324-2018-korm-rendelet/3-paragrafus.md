@@ -24,4 +24,6 @@ c) alapbéren a közalkalmazotti, kormányzati szolgálati, politikai szolgálat
 
 ## is érteni kell.
 
-(5) Hatályát veszti a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló 430/2016. (XII. 15.) Korm. rendelet.
+(5)[^2]
+
+[^2]: A 3. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
