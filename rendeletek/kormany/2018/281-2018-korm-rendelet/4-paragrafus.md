@@ -1,9 +1,0 @@
-## „(3) A légiriasztási rendszer keretében elvégezhető az ország egész területén vagy meghatározott részén a lakosság katasztrófa riasztása is, ez azonban nem veszélyeztetheti az (1) és (2) bekezdés szerinti feladatok elvégzését. Különleges jogrend idején – a veszélyhelyzet kivételével – az (1) és (2) bekezdés szerinti feladatok végrehajtása elsőbbséget élvez. A légiriasztási rendszernek lakosság katasztrófa riasztására történő felhasználása esetén nem alkalmazható a 72. §, a 76/A. §, a 77. §, a 78. §, a 82. §, a 83. § (1) bekezdése, valamint a 8. és 9. melléklet.
-
-## (3) A Hvt. Vhr. 71. §-a a következő (4)–(6) bekezdéssel egészül ki:
-
-## „(4) A légiriasztási rendszer keretében elvégezhető az ország egész területén vagy meghatározott részén terrortámadás jelentős és közvetlen veszélye, terrortámadás bekövetkezése vagy terrorveszélyhelyzet esetén a lakosság riasztása és tájékoztatása is, ez azonban nem veszélyeztetheti az (1) és (2) bekezdés szerinti feladatok elvégzését. Különleges jogrend idején – a terrorveszélyhelyzet kivételével – az (1), (2) és (3) bekezdés szerinti feladatok végrehajtása elsőbbséget élvez. A légiriasztási rendszernek a terrortámadás jelentős és közvetlen veszélye, terrortámadás bekövetkezése vagy terrorveszélyhelyzet esetén a lakosság riasztására történő felhasználása során nem alkalmazható a 72. §, a 76. §, a 77. §, a 78. §, a 82. §, a 83. § (1) bekezdése, valamint a 8. és 9. melléklet.
-
-## (5) A lakosság tájékoztatásáért, szükség esetén a riasztásáért felelős szervek és személyek úgy kötelesek eljárni, hogy megfelelően szolgálják a lakosság gyors tájékoztatását és riasztását.
-
-## (6) A légiriasztási közlemények lakosság részére történő közzétételét a közszolgálati, valamint a külön jogszabályban kijelölt országos vagy helyi műsorszolgáltató, műsorcsatornákon a műsorszóró hálózatra telepített Országos Légiriasztási Rendszer alkalmazásával kell végrehajtani.”
