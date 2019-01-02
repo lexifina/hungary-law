@@ -1,3 +1,3 @@
-## 26. § A körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlésről és a körözési eljárás lefolytatásának részletes szabályairól, valamint egyes miniszteri rendeletek módosításáról szóló 63/2013. (XI. 28.) BM rendelet [a továbbiakban: 63/2013. (XI. 28.) BM rendelet] 6. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 26. §[^25]
 
-## „(5) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 268. § (1) bekezdés c)–e) pontja és 119. §-a, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 68. § (3) bekezdése és 117. § (8) bekezdése alapján a rendőrség által elrendelt körözés során a körözési eljárás lefolytatására a körözést elrendelő rendőri szerv illetékes.”
+[^25]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

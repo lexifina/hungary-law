@@ -1,3 +1,3 @@
-## 36. § A bizalmi szolgáltatásokra és ezek szolgáltatóira vonatkozó részletes követelményekről szóló 24/2016. (VI. 30.) BM rendelet [a továbbiakban: 24/2016. (VI. 30.) BM rendelet] 5. §-a a következő (3) bekezdéssel egészül ki:
+## 36. §[^35]
 
-## „(3) Ha a szolgáltató állami költségvetési szerv, az (1) bekezdésben meghatározott károk és költségek fedezetéről a (2) bekezdésben meghatározott mértékig költségvetése terhére köteles gondoskodni.”
+[^35]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

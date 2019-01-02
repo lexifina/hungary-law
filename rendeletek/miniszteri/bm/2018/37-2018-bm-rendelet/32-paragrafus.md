@@ -1,1 +1,3 @@
-## 31. § A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet [a továbbiakban: 9/2015. (III. 25.) BM rendelet] 1. melléklete a 4. melléklet szerint módosul.
+## 31. §[^30]
+
+[^30]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 27. § A 63/2013. (XI. 28.) BM rendelet 6. §-a a következő (5e) bekezdéssel egészül ki:
+## 27. §[^26]
 
-## „(5e) Az eltűnt személy által eltűnését követően feltételezhetően használt vagy birtokában lévő jármű körözése során a körözési eljárás lefolytatására a körözést elrendelő rendőri szerv illetékes.”
+[^26]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „i) igazolás: olyan hivatalos dokumentum, amelyből egyértelműen megállapítható, hogy a tűzvédelmi szakértő rendelkezik a jogszabályban előírt feltételekkel, így különösen a szakmai gyakorlati idő igazolására munkaviszony esetén munkáltatói igazolás, egyéb jogviszony esetén vezető tisztségviselő által cégszerűen aláírt igazolás.”
+## 15. §[^15]
+
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
