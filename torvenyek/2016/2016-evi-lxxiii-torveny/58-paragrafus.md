@@ -6,7 +6,7 @@
 
 (2) Az 1. § (1) bekezdés a) pontja és (2) bekezdése, a 23–26. §, a 18. alcím, a 58. § (4) bekezdése, a 59. § (2) bekezdés e)–f) és k) pontja, a 59. § (3) bekezdés c)–d) és f) pontja, a 63. §, a 64. § a) pont aa) alpontja, ac)–ae) alpontja és b) pontja, valamint az 1. és a 2. melléklet 2017. augusztus 1-jén lép hatályba.
 
-(3) E törvény rendelkezéseit a törvény hatálybalépésekor tartós külszolgálatot ellátó kormánytisztviselők és kormányzati ügykezelők esetében is alkalmazni kell.
+(3) E törvény rendelkezéseit a törvény hatálybalépésekor tartós külszolgálatot ellátó kormánytisztviselők esetében is alkalmazni kell.
 
 (4) Ha az e törvény szerint megállapított pénzbeli és nem pénzbeli juttatás és a jogviszonyból eredő egyéb jogosultságok a törvény hatálybalépésekor tartós külszolgálatát töltő kihelyezettre nézve kedvezőtlenebbek a kihelyezés időpontja szerint megállapított pénzbeli és nem pénzbeli juttatásainál és a jogviszonyból eredő egyéb jogosultságainál, akkor a folyamatban lévő tartós külszolgálatának befejezéséig a kihelyezett a kihelyezése időpontjában megállapított juttatásokra és a jogviszonyból eredő egyéb jogosultságokra jogosult.
 
@@ -20,9 +20,9 @@
 
 (9) Az EU ÁK diplomatája és szakdiplomatája részére – tevékenysége kiemelt jelentőségére, összetettségére tekintettel – állandó képviseleti devizapótlék fizethető.
 
-(10) A tartós külszolgálatot teljesítő, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 207. § (2a) bekezdésében foglalt végzettségi követelményeknek meg nem felelő kihelyezett kormányzati ügykezelők e végzettségi követelmény teljesítése alól külszolgálatuk megszűnéséig felmentést kapnak.
+(10) A tartós külszolgálatot teljesítő, a kormányzati igazgatásról szóló törvény 82. § (11) bekezdésében foglalt végzettségi követelményeknek meg nem felelő kihelyezettek e végzettségi követelmény teljesítése alól külszolgálatuk megszűnéséig felmentést kapnak.
 
-(10a) Az adminisztratív és technikai munkakört betöltő kihelyezettek számára a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 210. § (1) bekezdése szerinti vizsga letételére előírt határidőbe nem számít bele a tartós külszolgálat időtartama.
+(10a)
 
 (11) A 2017. költségvetési évre vonatkozó deviza-illetményalap, lakhatási és vegyes költségtérítés-alap, valamint óvodáztatási és iskoláztatási költségtérítés-alap összegeit e törvény tartalmazza. A 2017. költségvetési évre vonatkozó
 

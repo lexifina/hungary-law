@@ -1,10 +1,10 @@
 11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos, az intézetekben tartós külszolgálatot teljesítő diplomata, valamint az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a szakminiszter bevonásával történik.
 
-(2) A tartós külszolgálati kihelyezés előtt álló és kihelyezésre kerülő kormánytisztviselő vagy kormányzati ügykezelő (a továbbiakban: felkészülő) tartós külszolgálati felkészítésének időtartama – a kihelyező vezető döntése alapján, ide nem értve a 10. § (2) bekezdése szerinti kijelölés esetét – legalább egy, legfeljebb hat hónapig tarthat. A tartós külszolgálati felkészülés ideje alatt a felkészülőt a kihelyező szerv kormányzati szolgálati jogviszonyban kormánytisztviselőként vagy kormányzati ügykezelőként foglalkoztathatja.
+(2) A tartós külszolgálati kihelyezés előtt álló és kihelyezésre kerülő kormánytisztviselő (a továbbiakban: felkészülő) tartós külszolgálati felkészítésének időtartama – a kihelyező vezető döntése alapján, ide nem értve a 10. § (2) bekezdése szerinti kijelölés esetét – legalább egy, legfeljebb hat hónapig tarthat. A tartós külszolgálati felkészülés ideje alatt a felkészülőt a kihelyező szerv kormányzati szolgálati jogviszonyban kormánytisztviselőként foglalkoztathatja.
 
-(3) A (2) bekezdés szerinti felkészülés idejére a kihelyező vezető a kihelyező szerv tartós külszolgálati felkészülést támogató szervezeti egységébe, külföldi felkészülési állományba helyezi át kinevezésének módosításával a kormánytisztviselőt vagy kormányzati ügykezelőt.
+(3) A (2) bekezdés szerinti felkészülés idejére a kihelyező vezető a kihelyező szerv tartós külszolgálati felkészülést támogató szervezeti egységébe, külföldi felkészülési állományba helyezi át kinevezésének módosításával a kormánytisztviselőt.
 
-(4) A (2) bekezdés szerinti felkészülés ideje alatt a felkészülő közszolgálati tisztviselőkről szóló törvény szerinti illetménye helyett havonta
+(4) A (2) bekezdés szerinti felkészülés ideje alatt a felkészülő kormányzati igazgatásról szóló törvény szerinti illetménye helyett havonta
 
 a) az 1. melléklet szerinti technikai munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7) bekezdése szerinti deviza-illetményalap összegének 60%-ával,
 
@@ -17,6 +17,8 @@ d) az 1. melléklet szerinti vezetői munkaköri osztályba tartozó tartós kü
 megegyező összegű illetményre jogosult.
 
 (5) A kihelyező vezető a (2) bekezdés szerinti döntés meghozatala során mérlegeli az adott külképviselet politikai és gazdasági jelentőségét, az ellátandó feladatok összetettségét, valamint a diplomata felkészültségét.
+
+(5a) A (2) bekezdés szerinti felkészülés ideje alatt a felkészülő cafetéria-juttatásra nem jogosult.
 
 (6) A diplomata irányítását a külképviselet-vezető útján – a szakdiplomata tekintetében a szakminiszter feladat- és hatáskörébe tartozó kérdésben a szakminiszterrel egyeztetve – a kihelyező szerv vezetője végzi.
 

@@ -4,7 +4,7 @@
 
 a) a külképviselet tagjai tekintetében gondoskodik a nemzetközi jogi normák, valamint a fogadó állam és Magyarország jogszabályai és egyéb normái betartásáról és az azoknak megfelelő külképviseleti működésről, továbbá azok megsértése esetén gondoskodik a jogsértés kivizsgálásáról és megteszi a jogkörébe tartozó egyéb szükséges intézkedéseket,
 
-b) írásban – a közszolgálati tisztviselőkről szóló törvénnyel, valamint a munka törvénykönyvéről szóló törvénnyel és a fogadó állam munkajogi szabályozásával összhangban – meghatározza a külképviselet munkarendjét és a munkavégzés különleges szabályait,
+b) írásban – a kormányzati igazgatásról szóló törvénnyel, valamint a munka törvénykönyvéről szóló törvénnyel és a fogadó állam munkajogi szabályozásával összhangban – meghatározza a külképviselet munkarendjét és a munkavégzés különleges szabályait,
 
 c) gyakorolja a diplomaták és szakdiplomaták, valamint az adminisztratív és technikai személyzet tekintetében az európai uniós ügyek koordinációjáért felelős miniszter által átruházott munkáltatói jogokat,
 

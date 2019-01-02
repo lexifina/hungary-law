@@ -10,6 +10,6 @@ b) a feladatokhoz tartozó ingó és ingatlan eszköz- és infrastruktúra-állo
 
 c) az EU ÁK-ra kihelyezett adminisztratív és technikai személyzet, illetve az EU ÁK által foglalkoztatott munkavállalók kormányzati szolgálati jogviszonya, illetve munkaviszonya,
 
-d) a c) pontban foglaltakon kívüli azon kormánytisztviselők, kormányzati ügykezelők és munkavállalók kormányzati szolgálati jogviszonya, illetve munkaviszonya, akik az (1) bekezdés szerinti feladatot, e törvény hatálybalépéséig a Külgazdasági és Külügyminisztériumban ellátták, valamint
+d) a c) pontban foglaltakon kívüli azon kormánytisztviselők és munkavállalók kormányzati szolgálati jogviszonya, illetve munkaviszonya, akik az (1) bekezdés szerinti feladatot, e törvény hatálybalépéséig a Külgazdasági és Külügyminisztériumban ellátták, valamint
 
-e) a d) pontban megjelölt kormánytisztviselőkkel, kormányzati ügykezelőkkel, és munkavállalókkal összefüggő funkcionális feladatokat ellátó kormánytisztviselők, kormányzati ügykezelők és munkavállalók kormányzati szolgálati jogviszonya, illetve munkaviszonya.
+e) a d) pontban megjelölt kormánytisztviselőkkel, és munkavállalókkal összefüggő funkcionális feladatokat ellátó kormánytisztviselők és munkavállalók kormányzati szolgálati jogviszonya, illetve munkaviszonya.

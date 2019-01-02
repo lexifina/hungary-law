@@ -1,6 +1,6 @@
 31. § (1) A kihelyezett a tartós külszolgálatának időtartama alatt a kihelyezését megelőzően meglévő szabadságaival nem rendelkezhet. A tartós külszolgálat időtartamára járó alap- és pótszabadságot a kihelyezettnek tartós külszolgálata időtartama alatt igénybe kell vennie. A tartós külszolgálat kezdetét megelőzően fennálló szabadnapokat a kihelyező szervnek a tartós külszolgálat megszűnését követően, közvetlenül egybefüggően kell kiadnia. A kihelyező szerv szakdiplomaták esetében csak a tartós külszolgálat időtartama alatt keletkező, időarányos szabadságot adja ki.
 
-(2) A tartós külszolgálat idejére a kihelyezett részére a közszolgálati tisztviselőkről szóló törvény szerinti besorolása alapján, a tárgyévben időarányosan megállapított mennyiségű alap- és pótszabadság kerül megállapításra. A közszolgálati tisztviselőkről szóló törvényben foglaltaktól eltérően a külképviselet-vezetőt 10, helyettesét 5 nap vezetői pótszabadság illeti meg.
+(2) A tartós külszolgálat idejére a kihelyezett részére a kormányzati igazgatásról szóló törvény szerinti besorolása alapján, a tárgyévben időarányosan megállapított mennyiségű alap- és pótszabadság kerül megállapításra. A kormányzati igazgatásról szóló törvényben foglaltaktól eltérően a külképviselet-vezetőt 10, helyettesét 5 nap vezetői pótszabadság illeti meg.
 
 (2a) Ha a kihelyezett a tartós külszolgálatának megszűnéséig több szabadságot vett igénybe annál, mint ami a tartós külszolgálaton töltött időre megilletné, a különbözetre kifizetett devizailletményt köteles visszafizetni.
 
@@ -18,7 +18,7 @@ illeti meg.
 
 (5) Az éves szabadságolási tervet – a kihelyezett igényének megismerése után – a külképviselet-vezető készíti el, amelyről a kihelyezettet tájékoztatja.
 
-(6) Ha a kihelyezett kormányzati szolgálati jogviszonya tartós külszolgálata időtartama alatt szűnik meg, számára a végkielégítés, továbbá a szabadságmegváltás összege a közszolgálati tisztviselőkről szóló törvény szerinti besorolása szerinti mértékben kerül megállapításra.
+(6) Ha a kihelyezett kormányzati szolgálati jogviszonya tartós külszolgálata időtartama alatt szűnik meg, számára a végkielégítés, továbbá a szabadságmegváltás összege a kormányzati igazgatásról szóló törvény szerinti besorolása szerinti mértékben kerül megállapításra.
 
 (7) A kihelyezett a külszolgálata időtartama alatti rendkívüli munkavégzés ellentételezéseként ki nem adott szabadidő megváltására a tartós külszolgálatának időtartama alatt besorolás szerinti illetménye alapulvételével megállapított mértékben, a külszolgálat befejezését követően jogosult.
 

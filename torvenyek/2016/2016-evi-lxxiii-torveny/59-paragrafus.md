@@ -76,4 +76,4 @@ részletes szabályait rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az európai uniós szakmai vizsga részletes szabályait rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselőkre és kormányzati ügykezelőkre vonatkozó, e törvénytől eltérő szabályokat rendeletben állapítsa meg.
+(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselőkre vonatkozó, e törvénytől eltérő szabályokat rendeletben állapítsa meg.

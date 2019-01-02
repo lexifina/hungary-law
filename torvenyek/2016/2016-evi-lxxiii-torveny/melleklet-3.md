@@ -2,7 +2,7 @@
 
 A külpolitikáért felelős miniszter, valamint az európai uniós ügyek koordinációjáért felelős miniszter által kezelt adatok köre
 
-1. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő, valamint házas- és élettársának
+1. A tartós külszolgálatra kihelyezett kormánytisztviselő, valamint házas- és élettársának
 
 a) családi és utóneve (születési családi és utóneve), neme;
 
@@ -28,11 +28,11 @@ k) szakképzettsége;
 
 l) idegennyelv-ismerete.
 
-2. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő gyermekének esetleges magasabb összegű családi pótlékra való jogosultsága.
+2. A tartós külszolgálatra kihelyezett kormánytisztviselő gyermekének esetleges magasabb összegű családi pótlékra való jogosultsága.
 
 3. A tartós külszolgálatra kihelyezett kormánytisztviselő és kormányzati ügykezelő, valamint házas- és élettársának a fogadó államban nevelési-oktatási intézménybe járó gyermeke nevelési-oktatási intézményének neve, székhelye, telefonos elérhetősége.
 
-4. A kihelyezésre kerülő, külügyi szakmai vizsga, illetve az európai uniós szakmai vizsga tételére kötelezett kormánytisztviselő és kormányzati ügykezelő
+4. A kihelyezésre kerülő, külügyi szakmai vizsga, illetve az európai uniós szakmai vizsga tételére kötelezett kormánytisztviselő
 
 a) családi és utóneve (születési családi és utóneve), neme;
 
@@ -66,7 +66,7 @@ o) a kormányzati szolgálati jogviszony kezdete, a kiszámításánál figyelme
 
 p) állampolgársága.
 
-5. A 10. § (1) bekezdés szerinti pályázat benyújtására jogosult kormánytisztviselő és kormányzati ügykezelő, valamint munkavállaló házas- és élettársának
+5. A 10. § (1) bekezdés szerinti pályázat benyújtására jogosult kormánytisztviselő, valamint munkavállaló házas- és élettársának
 
 a) családi és utóneve (születési családi és utóneve), neme;
 
