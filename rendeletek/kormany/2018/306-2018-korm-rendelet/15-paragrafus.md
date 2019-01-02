@@ -1,3 +1,0 @@
-## 14. § A nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet (a továbbiakban: Nszr.) 11. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) Ha a nevelőszülő más működtetőnél kíván nevelőszülői tevékenységet végezni, vagy a jelenlegi működtetőjénél végzett tevékenysége mellett kíván más működtetőnél is nevelőszülői feladatokat ellátni, és azt a jelenlegi működtető nem engedélyezi, az új működtetővel a keretmegállapodást a jelenlegi működtetőnél fennálló jogviszonya megszüntetését és a jelenlegi működtetővel kötött keretmegállapodása megszüntetési záradékkal történő ellátását követően kötheti meg.”
