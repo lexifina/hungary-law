@@ -1,1 +1,0 @@
-22. § A KFI tv. 43. § (2) bekezdésében az „– az adópolitikáért felelős miniszterrel és az NKFI Hivatal elnökével egyetértésben, az SZTNH elnöke véleményének kikérésével –” szövegrész helyébe az „– az adópolitikáért felelős miniszter egyetértésével és az SZTNH elnöke véleményének kikérésével –” szöveg lép.
