@@ -1,3 +1,3 @@
-## 96. § A honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet (a továbbiakban: R5.) 1. §-a a következő (4) bekezdéssel egészül ki:
+## 96. §[^96]
 
-## „(4) A Magyar Honvédség Parancsnoksága törzsfőnök alapilletményét a Hjt. 6. mellékletében foglaltaktól eltérően 23,5 alapilletmény szorzószámmal kell megállapítani.”
+[^96]: A 96. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

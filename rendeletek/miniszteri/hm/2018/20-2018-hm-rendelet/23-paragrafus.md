@@ -1,1 +1,3 @@
-## „(6a) A Hjt. 123. § (4) bekezdés d) és e) pontjában meghatározott felsővezetői szolgálati beosztások, valamint a vezénylő zászlósi beosztások besorolását az 5. melléklet A) pontjához tartozó I. és II. táblázat alapján az állománytáblában kell megjeleníteni.”
+## 22. §[^22]
+
+[^22]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

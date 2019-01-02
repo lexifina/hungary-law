@@ -1,3 +1,3 @@
-## 16. § Az R1. 51. §-a a következő (5) bekezdéssel egészül ki:
+## 16. §[^16]
 
-## „(5) Az állományilletékes parancsnok a szinten tartó nyelvtanfolyamra az állomány tagját a Hjt. 42. § (2) bekezdés a) pontja szerint vezényli.”
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

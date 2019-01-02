@@ -1,11 +1,3 @@
-## lép.
+## 89. §[^89]
 
-## 90. § Hatályát veszti az R3.
-
-a) 8. § (2) bekezdése,
-
-b) 8/A. § (2) bekezdése,
-
-c) 10. § (2) bekezdése,
-
-d) 3. melléklet 4. pontja.
+[^89]: A 89. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

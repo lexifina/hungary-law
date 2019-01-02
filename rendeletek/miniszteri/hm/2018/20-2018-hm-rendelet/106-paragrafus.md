@@ -1,7 +1,5 @@
+## 105. §[^105]
+
 ## 6. A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosítása
 
-106. § (1) A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet (a továbbiakban: R6.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A katonai egészségi, pszichikai és fizikai alkalmasság-vizsgálatokat, felülvizsgálatokat és repülőorvosi vizsgálatokat – a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) hivatásos állománya pszichikai alkalmasságának vizsgálata kivételével – az MH központi egészségügyi szerve végzi. A katonai szolgálatra való egészségi, pszichikai, fizikai alkalmasságot és annak minősítését az MH központi egészségügyi szervezete kijelölt bizottságai állapítják meg. Az önkéntes területvédelmi tartalékos katonák estén a kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági feltételeiről és vizsgálatáról szóló 22/1991. (XI. 15.) NM rendelet szerinti II. típusú alkalmasság-vizsgálatot a vizsgált személy háziorvosa végzi. A háziorvos által kiállított alkalmassági vélemény alapján az önkéntes területvédelmi tartalékos katona szolgálatra való alkalmasság megállapítását az MH központi egészségügyi szervezete kijelölt bizottságai végzik.”
-
-(2) Az R6. 4. §-a a következő (1a) bekezdéssel egészül ki:
+[^105]: A 105. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

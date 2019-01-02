@@ -1,3 +1,3 @@
-## 58. § Az R1. 208. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 58. §[^58]
 
-## „(1) Az állomány tagja a szabadságát előzetesen köteles az állományilletékes parancsnokkal vagy az általa kijelölt vezetővel engedélyeztetni.”
+[^58]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

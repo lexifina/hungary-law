@@ -1,5 +1,3 @@
-## 84. § Az R3. VII. Fejezete a következő 25/A. alcímmel egészül ki:
+## 84. §[^84]
 
-## „25/A. Az adományozás rendje
-
-## 30/A. § A honvédelmi miniszter által alapított Szolgálati Jelek, a Sebesülési Emlékérem, a Honvédségért Emlékplakett, a Honvédségért Emléklap, illetve Honvédségért Oklevél vonatkozásában, a honvédelmi miniszter az adományozási jogát a Magyar Honvédség parancsnoka útján gyakorolja.”
+[^84]: A 84. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

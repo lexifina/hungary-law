@@ -1,3 +1,3 @@
-## 55. § Az R1. 192. §-a a következő (3) bekezdéssel egészül ki:
+## 55. §[^55]
 
-## „(3) Az ideiglenes külföldi szolgálatra vezénylésről szóló munkáltatói döntést a változás tudomásra jutásának napjától számított nyolc napon belül módosítani kell, ha az utazás során a munkáltatói döntésben foglaltakhoz képest változás következik be.”
+[^55]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

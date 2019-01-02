@@ -1,1 +1,3 @@
-## „25a. a KNBSZ igazgatói és főosztályvezetői által megrendezett szakmai értekezleten, tanácskozáson részt vevő személyi állomány évente legfeljebb négy alkalommal, alkalmanként legfeljebb két nap időtartamban azzal, hogy a berendelt vagy meghívott résztvevők körét a KNBSZ főigazgatója határozza meg, és az élelmezési ellátásra jogosult résztvevők létszáma rendezvényenként nem haladhatja meg a 100 főt,”
+## 119. §[^119]
+
+[^119]: A 119. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

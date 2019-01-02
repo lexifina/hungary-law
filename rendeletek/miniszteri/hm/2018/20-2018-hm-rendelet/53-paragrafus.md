@@ -1,3 +1,3 @@
-## 52. § Az R1. 168. §-a a következő (3) bekezdéssel egészül ki:
+## 52. §[^52]
 
-## „(3) A KNBSZ állománya esetében a Hjt. 2. mellékletében meghatározott munkáltatói jogkörökre vonatkozó személyügyi döntések előkészítését a KNBSZ személyügyi szervének vezetője végzi.”
+[^52]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

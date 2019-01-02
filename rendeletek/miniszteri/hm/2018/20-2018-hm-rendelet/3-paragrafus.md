@@ -1,1 +1,3 @@
-## „(8) A munkáltatói jogkört gyakorlót – távolléte vagy akadályoztatása esetén, valamint ha a beosztás ideiglenesen megüresedett – az erre jogszabályban vagy szervezeti és működési szabályzatban kijelölt személy vagy személyek helyettesíthetik.”
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

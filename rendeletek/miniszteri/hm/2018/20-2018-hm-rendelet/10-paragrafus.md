@@ -1,5 +1,3 @@
-## 9. § Az R1. 19. §-a a következő (3) és (4) bekezdéssel egészül ki:
+## 9. §[^9]
 
-## „(3) A Hjt. 32. § (1) bekezdés d) pontja szerint hivatásos szolgálati viszonyt létesíteni kérelemre azzal a személlyel lehet, aki a hivatásos állományba vételt közvetlenül megelőzően, legalább 2 év egybefüggő tiszti, illetve altiszti szerződéses szolgálati viszonnyal, önkéntes tartalékos szolgálati viszonnyal, honvédelmi szervezettel fennálló kormányzati szolgálati jogviszonnyal, honvédelmi alkalmazotti jogviszonnyal, közalkalmazotti jogviszonnyal vagy munkaviszonnyal rendelkezik.
-
-## (4) A (3) bekezdés szerinti korlátozástól szolgálati érdekből az MH PK engedélyével el lehet térni.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

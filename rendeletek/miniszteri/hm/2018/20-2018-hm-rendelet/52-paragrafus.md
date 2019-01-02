@@ -1,3 +1,3 @@
-## 51. § Az R1. a következő 167/A. §-sal egészül ki:
+## 51. §[^51]
 
-## „167/A. § A KNBSZ főigazgatója tábornokot az MH PK egyidejű tájékoztatásával nyilváníthat a „Katonai szolgálat halottjává”.”
+[^51]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

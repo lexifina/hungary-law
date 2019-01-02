@@ -1,3 +1,3 @@
-## 60. § Az R1. 244. §-a a következő (5) bekezdéssel egészül ki:
+## 60. §[^60]
 
-## „(5) A behívóparancs vagy bevonulási parancs elektronikus vagy postai úton kézbesíthető, illetve közölhető.”
+[^60]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

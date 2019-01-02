@@ -1,1 +1,3 @@
-## 110. § Az R6. 24/A. § (4) bekezdésében az „(1)–(3) bekezdés” szövegrész helyébe az „(1)–(3a) bekezdés” szöveg lép.
+## 110. §[^110]
+
+[^110]: A 110. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

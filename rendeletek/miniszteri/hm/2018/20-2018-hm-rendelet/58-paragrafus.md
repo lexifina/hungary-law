@@ -1,3 +1,3 @@
-## 57. § Az R1. 204. §-a a következő (3) bekezdéssel egészül ki:
+## 57. §[^57]
 
-## „(3) A külföldi szolgálat időtartama az állomány tagjának kérelmére vagy szolgálati érdekből a vezénylésre jogosult munkáltatói jogkört gyakorló által meghosszabbítható.”
+[^57]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

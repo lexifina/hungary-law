@@ -1,3 +1,3 @@
-## 67. § Az R1. 271. §-a a következő (5) bekezdéssel egészül ki:
+## 67. §[^67]
 
-## „(5) A 266. § (2)–(5) bekezdését megfelelően alkalmazni kell, ha a megtérítésre kötelezett altisztjelölti szolgálati viszonyának megszűnését követő 2 éven belül hivatásos, szerződéses, önkéntes tartalékos vagy tisztjelölti szolgálati viszonyt létesít.”
+[^67]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

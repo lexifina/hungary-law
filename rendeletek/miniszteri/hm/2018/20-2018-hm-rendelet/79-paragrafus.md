@@ -1,3 +1,3 @@
-## 78. § Az R3. 2. §-a a következő (5) bekezdéssel egészül ki:
+## 78. §[^78]
 
-## „(5) Ugyanazon a jogcímen csak egy elismerés adományozható.”
+[^78]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
