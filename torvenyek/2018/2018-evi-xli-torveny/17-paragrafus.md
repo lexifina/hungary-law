@@ -1,28 +1,28 @@
-17. § Az Szja tv.
+### 17. §
 
-1. 3. § 93. pontjának nyitó szövegrészében a „biztosító teljesítésére” szövegrész helyébe a „44/C. § (8) bekezdése szerinti visszafizetési kötelezettség összegével csökkentett biztosítói teljesítésre” szöveg, az „a biztosított jogosult” szövegrész helyébe az „az a biztosított jogosult, akire a nyugdíjbiztosítási szerződést megkötötték” szöveg, záró szövegrészében az „Amennyiben a járadékszolgáltatás” szövegrész helyébe az „Amennyiben a szerződés létrejöttétől számított 10. év végéig tartó időszakra kalkulált járadékszolgáltatás” szöveg,
+1.
 
-2. 22. § (6) bekezdésében az „igazolt” szövegrész helyébe a „számlával (számlákkal), más bizonylattal (bizonylatokkal) igazolt” szöveg,
+2.
 
-3. 44/B. § (7) bekezdés a) pont záró szövegrészében az „összegét, azzal” szövegrész helyébe az „összegét, külön is feltüntetve az adóévben teljesített befizetéseket, azzal” szöveg,
+3.
 
-4. 44/C. § (7) bekezdés nyitó szövegrészében a „biztosító pénzforgalmi” szövegrész helyébe a „biztosító (vagy jogutódja) pénzforgalmi” szöveg,
+4.
 
-5. 44/C. § (8) bekezdésében a „magánszemélynek húsz százalékkal” szövegrész helyébe a „magánszemélynek (a szerződőnek vagy – ha a szerződő és a biztosított személye eltér egymástól és a szerződő kifizető vagy külföldi illetőségű személy, akkor – a biztosítottnak) húsz százalékkal” szöveg, az „úgy módosul, hogy” szövegrész helyébe az „úgy módosul (ideértve a biztosított személyének cseréjére irányuló szerződésmódosítást is), hogy” szöveg,
+5.
 
 6.
 
-7. 62. § (2) bekezdés g) pont ga) és gb) alpontjában az „ingatlan esetében” szövegrész helyébe az „ingatlan, vagyoni értékű jog esetében” szöveg,
+7.
 
 8.
 
-9. 78/A. § (4) bekezdésében a „számlával (számlákkal)” szövegrész helyébe a „számlával (számlákkal), más bizonylattal (bizonylatokkal)” szöveg,
+9.
 
 10.
 
 11.
 
-12. 1. számú melléklet 4. pont 4.24. alpont b) alpontjában a „családtagjának” szövegrészek helyébe a „közös háztartásban élő Polgári Törvénykönyv szerinti hozzátartozójának” szöveg,
+12.
 
 13.
 
@@ -30,20 +30,18 @@
 
 15.
 
-16. 2. számú melléklet I. Jellemzően előforduló bevételek fejezet 7. pont nyitó szövegrészében az „a 100 ezer – 2006. január 1-je előtti beszerzés esetén 50 ezer – forintnál” szövegrész helyébe az „a 200 ezer forintnál” szöveg,
+16.
 
-17. 2. számú melléklet II. a mezőgazdasági őstermelő tevékenységének megszüntetése fejezet 1. pontjában az „a 100 ezer – 1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer – forintot meg nem haladó” szövegrész helyébe az „a 200 ezer forintot meg nem haladó” szöveg,
+17.
 
-18. 3. számú melléklet I. Jellemzően előforduló költségek fejezet 2. pontjában a „100 ezer forintot” szövegrész helyébe a „200 ezer forintot” szöveg, I. Jellemzően előforduló költségek fejezet 24. pont a) és b) alpontjában a „100 ezer forintot” szövegrész helyébe a „200 ezer forintot” szöveg,
+18.
 
-19. 3. számú melléklet V. fejezet 8. pontjában a „nyugdíjjárulék és egészségbiztosítási járulék” szövegrész helyébe a „nyugdíjjárulék, egészségbiztosítási járulék és munkaerőpiaci járulék” szöveg,
+19.
 
-20. 5. számú melléklet II. Részletező nyilvántartások fejezet 13. Leltár pontjában a „100 ezer forintnál alacsonyabb értékű (1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer forintnál alacsonyabb értékű)” szövegrészek helyébe a „200 ezer forintnál alacsonyabb értékű” szöveg, a „100 ezer forintnál nem magasabb értékű (1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer forintnál alacsonyabb értékű)” szövegrészek helyébe a „200 ezer forintnál nem magasabb értékű” szöveg,
+20.
 
-21. 10. számú melléklet I. Jellemzően előforduló bevételek fejezet 7. pont nyitó szövegrészében az „a 100 ezer – 2006. január 1-je előtti beszerzés esetén 50 ezer – forintnál” szövegrész helyébe az „a 200 ezer forintnál” szöveg,
+21.
 
-22. 10. számú melléklet II. Az egyéni vállalkozói tevékenység megszüntetésével összefüggő bevételek fejezet 1. pontjában az „a 100 ezer – 1991. december 31-ét követően és 2001. január 1-jét megelőzően történő beszerzés esetén 30 ezer, 2000. december 31-ét követően és 2006. január 1-jét megelőzően történő beszerzés esetén 50 ezer – forintot meg nem haladó” szövegrész helyébe az „a 200 ezer forintot meg nem haladó” szöveg,
+22.
 
-23. 11. számú melléklet I. Jellemzőn előforduló költségek fejezet 2. pontjában a „100 ezer forintot” szövegrész helyébe a „200 ezer forintot” szöveg
-
-lép.
+23.

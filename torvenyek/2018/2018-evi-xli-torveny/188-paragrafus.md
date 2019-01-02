@@ -1,7 +1,7 @@
-188. § Hatályát veszti az Art.
+### 188. §
 
 1.
 
-2. 268. § (1) bekezdés 15. pontjában a „valamint” szövegrész,
+2.
 
-3. 269. § (3) bekezdése.
+3.
