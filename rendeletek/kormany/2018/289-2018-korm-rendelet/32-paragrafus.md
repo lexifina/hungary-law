@@ -1,4 +1,4 @@
-## 31. §[^36]
+## 31. §[^35]
 
 ## 14. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 26. § (1) bekezdése és a 27. § (1) bekezdése 2019. január 30-án lép hatályba.
 
-[^36]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. melléklet a 289/2018. (XII. 21.) Korm. rendelethez[^39]
+3. melléklet a 289/2018. (XII. 21.) Korm. rendelethez[^38]
 
-[^39]: A 3. melléklet a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.
+[^38]: A 3. melléklet a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.
