@@ -1,11 +1,3 @@
-## lép.
+## 23. §[^2]
 
-## 24. § Hatályát veszti az Nmr.
-
-a) II. Fejezet 1/A. Címe,
-
-b) 160. §-a,
-
-c) 166. §-a,
-
-d) 13. számú melléklete.
+[^2]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

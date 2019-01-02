@@ -1,4 +1,4 @@
-## 27. § Az EMMI rendelet 2. § (2) bekezdésében az „1. § (2) bekezdés a) pontja” szövegrész helyébe az „1. § (2) bekezdés a) és c) pontja” szöveg lép.
+## 27. §[^6]
 
 1. melléklet a 40/2018. (XII. 4.) EMMI rendelethez
 
@@ -27,3 +27,5 @@
 4.2. a gyermeket kísérő személynek a gyermekhez fűződő kapcsolata (pl. szülő, nagyszülő, a Gyerekházat látogató másik szülő),
 
 4.3. a gyermeket kísérő személy aláírása.
+
+[^6]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

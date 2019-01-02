@@ -1,5 +1,3 @@
-## 26. § A vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet (a továbbiakban: EMMI rendelet) 1. § (2) bekezdése a következő c) ponttal egészül ki:
+## 26. §[^5]
 
-## (A vezetőképzésben való részvételi kötelezettség nem vonatkozik:)
-
-## „c) a gyermekek esélynövelő szolgáltatásaiban vezetői munkakörben foglalkoztatott személyre.”
+[^5]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
