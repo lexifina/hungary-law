@@ -1,29 +1,29 @@
 16. § Hatályát veszti az Flt.
 
-a) 2. § (2) bekezdésében a „vagy menedékesként” szövegrész,
+a)
 
-b) 14. § (1) bekezdés c) pontjában az „illetőleg terhességi-gyermekágyi segélyben, csecsemőgondozási díjban,” szövegrész,
+b)
 
 c)
 
-d) 26. § (7) bekezdésében a „vagy átlagkeresetet” szövegrész,
+d)
 
 e)
 
 f)
 
-g) 27. § (12) bekezdésében a „vagy átlagkeresetre” szövegrész,
+g)
 
 h)
 
 i)
 
-j) 41/A. § (2) bekezdése,
+j)
 
-k) 57/A. § (4) bekezdésében a „vagy rehabilitációs járadékban” szövegrész,
+k)
 
-l) 57/D. § (2) bekezdés g) pont gh)–gj) alpontja,
+l)
 
-m) 58. § (5) bekezdés d) pont 3. alpontjában a „rehabilitációs járadékban,” szövegrész,
+m)
 
 n)
