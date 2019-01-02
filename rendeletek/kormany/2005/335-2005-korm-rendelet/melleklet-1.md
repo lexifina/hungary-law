@@ -30,7 +30,7 @@
 
 13.[^173] Nemzeti Örökség Intézete
 
-14.[^174] Magyar Nyelvstratégiai Intézet
+14.[^174] Magyarságkutató Intézet
 
 15.[^175] Információs Hivatal
 
@@ -102,7 +102,7 @@
 [^171]: Az 1. melléklet 11. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^172]: Az 1. melléklet 12. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^173]: Az 1. melléklet 13. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
-[^174]: Az 1. melléklet 14. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
+[^174]: Az 1. melléklet 14. pontja a 206/2018. (XI. 10.) Korm. rendelet 6. § (1) bekezdés a) pontjával megállapított szöveg.
 [^175]: Az 1. melléklet 15. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^176]: Az 1. melléklet 16. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^177]: Az 1. melléklet 17. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.

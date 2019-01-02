@@ -76,7 +76,7 @@
 
 7. Nemzeti Örökség Intézete
 
-8. Magyar Nyelvstratégiai Intézet
+8.[^203] Magyarságkutató Intézet
 
 9. Nemzeti Kommunikációs Hivatal
 
@@ -120,7 +120,7 @@
 
 29. Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
-30.[^203] Agrárminisztérium
+30.[^204] Agrárminisztérium
 
 31. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -138,11 +138,11 @@
 
 38. Szellemi Tulajdon Nemzeti Hivatala
 
-39.[^204] Innovációs és Technológiai Minisztérium
+39.[^205] Innovációs és Technológiai Minisztérium
 
-40.[^205] Magyar Bányászati és Földtani Szolgálat
+40.[^206] Magyar Bányászati és Földtani Szolgálat
 
-41.[^206] Pénzügyminisztérium
+41.[^207] Pénzügyminisztérium
 
 42. Igazságügyi Minisztérium
 
@@ -152,7 +152,7 @@
 
 45. Pest Megyei Kormányhivatal
 
-46.[^207] Miniszterelnöki Kormányiroda
+46.[^208] Miniszterelnöki Kormányiroda
 
 [^194]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^195]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
@@ -163,8 +163,9 @@
 [^200]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése szerint módosított szöveg.
 [^201]: A 2. melléklet II. pont o) alpontját újonnan a 20/2017. (II. 2.) Korm. rendelet 3. §-a iktatta be.
 [^202]: A 3. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^203]: Az 1. melléklet 30. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 1. pontjával megállapított szöveg.
-[^204]: Az 1. melléklet 39. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 2. pontjával megállapított szöveg.
-[^205]: Az 1. melléklet 40. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^206]: Az 1. melléklet 41. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 4. pontjával megállapított szöveg.
-[^207]: A 3. melléklet 46. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 2. pontja iktatta be.
+[^203]: A 3. melléklet 8. pontja a 206/2018. (XI. 10.) Korm. rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.
+[^204]: Az 1. melléklet 30. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 1. pontjával megállapított szöveg.
+[^205]: Az 1. melléklet 39. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^206]: Az 1. melléklet 40. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^207]: Az 1. melléklet 41. pontja a 95/2018. (V. 22.) Korm. rendelet 2. § (2) bekezdés 4. pontjával megállapított szöveg.
+[^208]: A 3. melléklet 46. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 2. pontja iktatta be.

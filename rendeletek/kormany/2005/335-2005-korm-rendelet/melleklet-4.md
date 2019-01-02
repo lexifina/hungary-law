@@ -1,4 +1,4 @@
-4. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^208]
+4. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^209]
 
 ## Kötelezően biztosítandó központosított irattári szolgáltatások
 
@@ -46,4 +46,4 @@
 
 22. Levéltári átadás előkészítése
 
-[^208]: A 4. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^209]: A 4. mellékletet a 269/2017. (IX. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be.
