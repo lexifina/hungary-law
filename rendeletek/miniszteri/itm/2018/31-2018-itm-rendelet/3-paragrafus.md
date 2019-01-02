@@ -1,3 +1,3 @@
-## 2. § Az útdíj mértékéről és az útdíjköteles utakról szóló 25/2013. (V. 31.) NFM rendelet (a továbbiakban: R.) 3. §-a helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „3. § Az 1. mellékletben meghatározott infrastruktúra díjat az útdíjköteles gépjárművek környezetvédelmi besorolásának figyelembe vételével kell megfizetni. Az útdíjköteles gépjárművek díjszedési környezetvédelmi kategóriába sorolása és az infrastruktúra-díj mértéknek módosítása azok környezetvédelmi osztályba tartozása alapján történik, a Vhr.-ben rögzített értékek és az 1. mellékletben meghatározott infrastruktúra díjtételek alapján.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
