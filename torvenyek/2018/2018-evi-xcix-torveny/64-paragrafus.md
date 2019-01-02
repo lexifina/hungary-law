@@ -46,9 +46,9 @@
 
 23.
 
-24. 148. § (2) bekezdésében a „0,05 Ft/kWh” szövegrész helyébe a „0 Ft/kWh” szöveg,
+24.
 
-25. 148. § (3) bekezdésében a „0,09 Ft/kWh” szövegrész helyébe a „0,08 Ft/kWh” szöveg,
+25.
 
 26.
 

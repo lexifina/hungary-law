@@ -1,7 +1,3 @@
 ## 9. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
-96. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) a következő 15/A. §-sal egészül ki:
-
-„15/A. § (1) A létesítményeknek 2021–2025 között évente térítésmentesen kiosztható kibocsátásiegység-mennyiséget a II. Nemzeti Végrehajtási Intézkedés tartalmazza. Az üzemeltető a II. Nemzeti Végrehajtási Intézkedés alapjául szolgáló adatszolgáltatását akkreditált hitelesítő által hitelesítetten, a miniszter által vezetett minisztérium honlapján közzétett módon, határidőben készíti el és nyújtja be a miniszter részére.
-
-(2) A II. Nemzeti Végrehajtási Intézkedést és a 2021–2025 közötti időszakra vonatkozó nemzeti kiosztási táblát a miniszter az üzemeltető által benyújtott adatszolgáltatás ellenőrzését követően készíti el és nyújtja be 2019. szeptember 30-ig az Európai Bizottságnak jóváhagyásra. A II. Nemzeti Végrehajtási Intézkedés közzétételéről az Európai Bizottság jóváhagyását követően a miniszter gondoskodik. Az Európai Bizottság által jóváhagyott 2021–2025 közötti időszakra vonatkozó nemzeti kiosztási tábla alapján a miniszter ezen időszakra vonatkozóan minden év február 28-ig a jegyzékkezelő útján gondoskodik a kibocsátási egységeknek az üzemeltetők forgalmi jegyzékben vezetett számláin történő jóváírásáról.”
+96. §
