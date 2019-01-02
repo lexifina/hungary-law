@@ -1,3 +1,1 @@
-51. § A Gyvt. 132. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Ha a kapcsolattartás rendezésével, a kapcsolattartás végrehajtásával és a szülői felügyeleti jog gyakorlásával összefüggő gyámhatósági eljárásban a döntéshozatal a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben meghatározottak szerint lefolytatott közvetítői eljárás eredményétől függ, a gyámhatóság az előtte folyamatban lévő eljárást a közvetítői eljárás befejezéséig, de legfeljebb két hónapra felfüggeszti. A gyámhatóság kivételesen négy hónapra is felfüggesztheti az eljárást, ha a közvetítő a közvetítői eljárás megindításától számított két hónapon belül jelzi, hogy a közvetítői eljárás már megindult, de még nem fejeződött be, és további legfeljebb két hónap szükséges a megállapodás, részmegállapodás létrehozásához.”
+51. §

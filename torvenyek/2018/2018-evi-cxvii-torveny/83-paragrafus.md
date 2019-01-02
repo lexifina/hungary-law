@@ -1,3 +1,3 @@
 ## 16. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
 
-83. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény 1. § (2) bekezdés 1. pont b) alpontjában az „az ápolási díj” szövegrész helyébe az „a gyermekek otthongondozási díja vagy az ápolási díj” szöveg lép.
+83. §
