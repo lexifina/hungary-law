@@ -1,3 +1,3 @@
-## 39. § A 162/2015. Korm. rendelet 31. §-a a következő (8) bekezdéssel egészül ki:
+## 39. §[^45]
 
-## „(8) A miniszter és a NEAK a szolgáltatótól kapott adatokat az esetleges elszámolásokkal kapcsolatos igényérvényesítés határidejének lejártáig, kizárólag az igényérvényesítés elbírálásának érdekében kezelheti.”
+[^45]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

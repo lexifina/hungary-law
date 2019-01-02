@@ -1,3 +1,3 @@
-## 14. § A 43/1999. Korm. rendelet IV. Egészségügyi szakellátás „Általános szabályok” alcíme a következő 28/D. §-sal egészül ki:
+## 14. §[^14]
 
-## „28/D. § Az újszülöttek objektív hallásszűrését követő ellátások végzésére a Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központban (2917), a Debreceni Egyetem Klinikai Központban (2894), a Heim Pál Országos Gyermekgyógyászati Intézetben (2877), Pécsi Tudományegyetemen (2912), valamint a Semmelweis Egyetemen (2915) működő verifikációs központok 20 millió forint/év fix összegű finanszírozásban részesülnek, amelyet a finanszírozó minden év januárjában utalványoz.”
+[^14]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

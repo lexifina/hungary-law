@@ -1,3 +1,3 @@
-## 9. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: 43/1999. Korm. rendelet) 4. § (5a) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^9]
 
-## „(5a) Ha az ellátott személynek az ellátás igénybevételekor fennálló egészségügyi szolgáltatásra való jogosultsága hatósági eljárás keretében az ellátást követően megállapításra kerül, az egészségügyi szolgáltató köteles az ellátott személy – a jogviszonya végleges megállapítástól számított 30 napon belül benyújtott – kérelmére a megfizetett térítési díjat visszafizetni. Az egészségügyi szolgáltató a térítési díj visszafizetése esetén, annak igazolása mellett, a nyújtott szolgáltatás pótlólagos elszámolása iránti igényét az 5. § (1)–(4) bekezdésében meghatározott határidőkön túli esetekben a hatósági eljárás végleges befejezésétől számított második hónap 5. munkanapjáig küldheti meg a finanszírozónak.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

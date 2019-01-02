@@ -1,3 +1,3 @@
-## 10. § A 43/1999. Korm. rendelet 4/B. §-a helyébe a következő rendelkezés lép:
+## 10. §[^10]
 
-## „4/B. § A NEAK a szolgáltatók által az országos várólista nyilvántartásban – a várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet szerint – regisztrált adatok és a fekvőbeteg-szakellátás teljesítmény-elszámolási adatai között minden naptári évben a tárgyhónapot követő január-novemberi hónapokban a 20. napi, december hónapban a 15. napi (a továbbiakban: egyeztetési időpont) állapot szerint elszámolási egyeztetést végez. Ennek során a NEAK a várólista nyilvántartási tételeket a tárgyhónap utolsó napjának vége szerinti státusz alapján vizsgálja, azzal, hogy az adatokban a tárgyhónapot követő egyeztetési időpont 20. napjának végéig elvégzett adathiba javításokat és adathiány pótlásokat is figyelembe kell venni az 5/A. § szerinti eljárások során.”
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

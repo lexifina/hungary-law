@@ -1,7 +1,3 @@
-## A 102/1995. Korm. rendelet 3. számú melléklet d) pontja helyébe a következő rendelkezés lép:
+3. melléklet a 287/2018. (XII. 21.) Korm. rendelethez[^55]
 
-## (A heti jelentésnek tartalmaznia kell:)
-
-## „d) a jelentéskészítés dátumát.”
-
-3. melléklet a 287/2018. (XII. 21.) Korm. rendelethez
+[^55]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

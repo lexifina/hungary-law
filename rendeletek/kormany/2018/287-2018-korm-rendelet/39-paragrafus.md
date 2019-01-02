@@ -1,9 +1,3 @@
-## „(5) A (3) bekezdés c) pontja szerinti vállalási időszak
+## 38. §[^44]
 
-## a) a 8. § (1) bekezdése szerinti esetekben az ott meghatározott körülmény fennállásának az időtartamára,
-
-## b) kiemelt, valamint hiányszakmás ösztöndíj esetén a teljes munkaidőben további egészségügyi szakképesítés megszerzése érdekében végzett egészségügyi tevékenység időtartamára, vagy
-
-## c) egyéb ok miatt összesen legfeljebb 12 hónap időtartamra
-
-## szüneteltethető.”
+[^44]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

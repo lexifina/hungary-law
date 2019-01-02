@@ -1,3 +1,5 @@
-## 28. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény egészségügyi intézményekben történő végrehajtásáról szóló 356/2008. (XII. 31.) Korm. rendelet (a továbbiakban: 356/2008. Korm. rendelet) 1. melléklete a 10. melléklet szerint módosul.
+## 28. §[^34]
 
 ## 7. Az összevont adóalap adóját csökkentő kedvezmény igénybevétele szempontjából súlyos fogyatékosságnak minősülő betegségekről szóló 335/2009. (XII. 29.) Korm. rendelet módosítása
+
+[^34]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

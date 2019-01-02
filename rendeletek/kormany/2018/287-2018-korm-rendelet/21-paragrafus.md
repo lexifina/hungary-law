@@ -1,17 +1,26 @@
+## 20. §[^20]
+
 ## 21. § A 43/1999. Korm. rendelet
 
-a) 5. § (4) bekezdés b) pontjában az „a megelőző aktív ellátást nyújtó szolgáltató” szövegrész helyébe az „a megelőző aktív ellátást nyújtó másik szolgáltató” szöveg,
+a)[^21]
 
-b) 5/A. § (3) bekezdésében a „listát” szövegrész helyébe a „hibalistát” szöveg,
+b)[^22]
 
-c)[^2]
+c)[^23]
 
-d) 27/A. § (9) bekezdésében a „járhat” szövegrész helyébe a „jár” szöveg,
+d)[^24]
 
-e) 27/B. § (3) bekezdésében az „egynapos sebészeti ellátásba vagy meddőségkezelési ellátásba” szövegrész helyébe az „egynapos sebészeti ellátásba, általános anesztéziában végzett egynapos fogászati ellátásba vagy meddőségkezelési ellátásba” szöveg,
+e)[^25]
 
-f) 33/A. § (3) bekezdésében a „Mentés előirányzat” szövegrész helyébe a „15. Mentés előirányzat” szöveg,
+f)[^26]
 
-g) 40. § (2) bekezdésében az „az R. 8. számú mellékletének 1. és 2., valamint 8–12. pontja szerinti” szövegrész helyébe az „az R. 8. számú melléklet 4. és 6–8. pontja, valamint 12–14. pontja szerinti” szöveg, az „az R. 8. számú mellékletének 1. és 2. pontja, valamint 8–12. pontja szerinti” szövegrész helyébe az „az R. 8. számú melléklet 4. és 6–8. pontja, valamint 12–14. pontja szerinti” szöveg
+g)[^27]
 
-[^2]: A 21. § c) pontja a 47. § (3) bekezdése alapján 2019. április 1-jén lép hatályba.
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 21. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 21. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 21. § c) pontja a 47. § (3) bekezdése alapján 2019. április 1-jén lép hatályba.
+[^24]: A 21. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 21. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 21. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 21. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

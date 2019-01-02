@@ -1,9 +1,3 @@
-## „(16) Ha a beteg nem jelenik meg a számára megadott napon az ellátás igénybevétele céljából a szolgáltatónál, és ezt előzetesen nem jelezte a (14) bekezdésben foglaltak szerint, valamint a (12) bekezdésben meghatározott eset sem áll fenn, az intézményi várólista vezetéséért felelős személy 7 napon belül új időpontot jelöl ki az ellátás igénybevételére, amiről egyidejűleg tájékoztatni kell a beteget. A szolgáltató a tervezett ellátás elmaradásával egyidejűleg a regisztrálási tételt az intézményi várólistáról át helyezi az intézményi előjegyzési listára, ha a módosított tervezett ellátási időpont megfelel az Ebtv. 5/B. § u) pontjának. Ha a beteg az új időpontban sem jelenik meg a szolgáltatónál, az új időpontot követő 30. napon törölni kell az adatait az intézményi listáról. Annak a betegnek az adatait, akinek az egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvos-szakmai szempontból indokolatlanná teszi, törölni kell a várólistáról.”
+## 23. §[^29]
 
-## 24. § A 287/2006. Korm. rendelet
-
-a) 13/A. § (8) bekezdésében az „a keresőképtelenség” szövegrészek helyébe az „a keresőképtelenség és a transzplantáció előtti kivizsgálás” szöveg, az „a nem keresőképtelen” szövegrész helyébe az „a nem keresőképtelen és a nem transzplantáció előtti kivizsgálásra váró” szöveg,
-
-b) 13/B. § (1) bekezdésében az „a keresőképtelenség” szövegrész helyébe az „a keresőképtelenség és a transzplantáció előtti kivizsgálás” szöveg,
-
-c) 6. számú mellékletében a „Keresőképtelenség miatti beavatkozás (K)” szövegrész helyébe a „Keresőképtelenség miatti beavatkozás (K)/transzplantáció előtti kivizsgálás miatti soron kívüli ellátás (T)” szöveg, az „a keresőképtelenség” szövegrész helyébe az „a keresőképtelenség vagy transzplantáció előtti kivizsgálás” szöveg
+[^29]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## 12. § A 43/1999. Korm. rendelet 27. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 12. §[^12]
 
-## (A tárgyidőszakra vonatkozó TVK megállapítása a járóbeteg-szakellátás körébe tartozó,)
-
-## „b) a jogszabály szerinti újszülöttkori öröklődő anyagcsere-betegségek szűrése és a 42190 kódszámú újszülöttkori objektív hallásszűrés,”
-
-## (kivételével történik.)
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

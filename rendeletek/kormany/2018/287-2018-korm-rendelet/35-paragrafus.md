@@ -1,3 +1,3 @@
-## 34. § Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetről szóló 28/2015. (II. 25.) Korm. rendelet (a továbbiakban: 28/2015. Korm. rendelet) a következő 3/A. §-sal egészül ki:
+## 34. §[^40]
 
-## „3/A. § Az OGYÉI feladatköreivel összefüggésben minőségirányítási rendszert hoz létre és alkalmaz, és folyamatos felülvizsgálat útján gondoskodik annak az Európai Unió jogi aktusaival, valamint a jogszabályokkal való összhangjáról.”
+[^40]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

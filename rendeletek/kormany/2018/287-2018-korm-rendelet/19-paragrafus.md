@@ -1,3 +1,3 @@
-## 18. § A 43/1999. Korm. rendelet a következő 48/G. §-sal egészül ki:
+## 18. §[^18]
 
-## „48/G. § Az otthoni parenterális táplálás végzésére jogosult szolgáltatók esetében az ezekbe a HBCs-be sorolódott ellátások a tárgyhavi ellátásokkal együtt kerülnek elszámolásra, azzal, hogy a finanszírozási év végén ezen ellátások adott havi súlyszám összegével megemelésre kerül az ellátást nyújtó szolgáltató adott havi TVK értéke, amelynek figyelembevételével a szolgáltatók teljesítményei újból elszámolásra kerülnek. Az eredeti és az újbóli elszámolás különbözete kerül utalványozásra az érintett szolgáltatók részére.”
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
