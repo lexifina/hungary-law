@@ -1,1 +1,1 @@
-38. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 8. § (3) bekezdés a) pontjában a „társadalombiztosítási járulék, szakképzési hozzájárulás, egészségügyi hozzájárulás” szövegrész helyébe a „szociális hozzájárulási adó, szakképzési hozzájárulás” szöveg lép.
+### 38. §
