@@ -1,7 +1,3 @@
-## lép.
+## 12. §[^12]
 
-## 13. § Hatályát veszti a 118/2001. Korm. rendelet
-
-a) 17. § c) pontja,
-
-b) 2. számú melléklete.
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

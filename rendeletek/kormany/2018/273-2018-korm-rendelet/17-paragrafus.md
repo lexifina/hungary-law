@@ -1,1 +1,3 @@
-## „(7) Az (1)–(6) bekezdésben foglalt adatokat a 3. § (2) bekezdésében meghatározott igazolás hónapjának első napján közalkalmazotti jogviszonyban álló személyek létszáma alapján kell megállapítani.”
+## 16. §[^16]
+
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „(2a) Amennyiben a nyilvántartásból való törlésre az (1) bekezdés a) pont ab), ac) alpontjában vagy b) pont bb) alpontjában foglaltak alapján kerül sor, a kölcsönbeadó vagy a magán-munkaközvetítő legkorábban csak a törlést elrendelő határozat véglegessé válását követő egy év elteltével vehető újra nyilvántartásba.
+## 9. §[^9]
 
-## (2b) Amennyiben a nyilvántartásból való törlésre vagy a tevékenységtől eltiltásra az (1) bekezdés a) pont ad)–ag) alpontjában vagy a (2) bekezdésben foglaltak alapján került sor, a kölcsönbeadó vagy a magán-munkaközvetítő legkorábban csak a törlést vagy eltiltást elrendelő határozat véglegessé válását követő három év elteltével vehető újra nyilvántartásba vagy folytathatja újra tevékenységét.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
