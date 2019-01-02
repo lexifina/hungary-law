@@ -1,1 +1,3 @@
-## „(2a) A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény (a továbbiakban: Vt.) 65. § (4) bekezdése szerinti kiegészítő díj 30 000 forint.”
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
