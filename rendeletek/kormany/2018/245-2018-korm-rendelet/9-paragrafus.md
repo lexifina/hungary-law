@@ -1,3 +1,6 @@
-## 8. § Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény II. melléklete módosításának kihirdetéséről szóló 34/2016. (II. 26.) Korm. rendelet.
+## 8. §[^1]
 
-9. § Hatályát veszti az UNESCO által 2005. október 19-én elfogadott, a sportbeli dopping elleni nemzetközi egyezmény I. melléklete módosításának kihirdetéséről szóló 400/2017. (XII. 15.) Korm. rendelet.
+9. §[^2]
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
