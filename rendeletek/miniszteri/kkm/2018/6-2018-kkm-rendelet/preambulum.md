@@ -1,1 +1,0 @@
-A konzuli védelemről szóló 2001. évi XLVI. törvény 21. § a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 138. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
