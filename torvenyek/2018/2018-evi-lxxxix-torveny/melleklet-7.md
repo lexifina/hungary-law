@@ -35,29 +35,3 @@
 ## cc) a bizonyítvány kiállításának dátuma.
 
 7. melléklet a 2018. évi LXXXIX. törvényhez
-
-1. Az Nftv. 3. melléklet I. fejezet I/B. alcím 1. pont g) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alapján nyilvántartott adatok:)
-
-## „g) hallgatói vagy lakhatási támogatás nyújtása esetén, ha az csecsemőgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban részesülés okán, vagy hátrányos helyzetére tekintettel jár, e díjak, támogatások adatai;”
-
-2. Az Nftv. 3. melléklet I. fejezet I/B. alcím 1. pontja a következő j) alponttal egészül ki:
-
-(E törvény alapján nyilvántartott adatok:)
-
-## „j) a Diákhitel Központ által megítélt hitel fennálltára, típusára vonatkozó adat.”
-
-3. Az Nftv.
-
-a) 3. melléklet I. fejezet I/A. alcím 1. pont a) alpontjában az „azonosító szám” szövegrész helyébe az „oktatási azonosító szám, személyazonosító okmány száma, adóazonosító jele”,
-
-b) 3. melléklet I. fejezet I/B. alcím
-
-ba) 1. pont a) alpont aa) pontjában az „– megnevezése, száma” szövegrész helyébe az „– a Magyar igazolvány, Magyar hozzátartozói igazolvány, a nemzetközi biztosítási okmány adatai”,
-
-bb) 1. pont b) alpont bk) pontjában az „azonosító száma” szövegrész helyébe az „oktatási azonosító száma, személyazonosító okmány száma, fényképe”,
-
-c) 3. melléklet III. fejezet 5. pontjában az „a II/C. fejezet 1. a) pont aa) alpontja szerinti” szövegrész helyébe az „az oktatási nyilvántartás Hallgatói törzsében szereplő”
-
-szöveg lép.
