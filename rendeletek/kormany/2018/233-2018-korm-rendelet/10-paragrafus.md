@@ -1,3 +1,5 @@
 ## 9. § Ez a rendelet 2019. január 1-jén lép hatályba.
 
-10. § Hatályát veszti a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
