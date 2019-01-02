@@ -1,1 +1,3 @@
-## „(5) A pályaalkalmassági minősítés – a 10/C. §-ban foglalt pályaalkalmasságot korlátozó vagy kizáró okok alapján – 1–5 évig terjedő időtartamra korlátozható, a korlátozás hiányában az érvényesség – a (7) bekezdésben foglalt kivétellel – az alkalmatlanság megállapításáig áll fenn.”
+## 11. §[^13]
+
+[^13]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

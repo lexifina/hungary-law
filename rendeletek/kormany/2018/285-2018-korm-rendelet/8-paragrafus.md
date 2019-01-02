@@ -1,5 +1,3 @@
-## 7. § Az R3. 5. § c) pont cb) alpontja helyébe a következő rendelkezés lép:
+## 7. §[^9]
 
-## (A közúti járművezetők és a közúti közlekedési szakemberek képzésére, továbbképzésére, utánképzésére és vizsgáztatására vonatkozó jogszabályokban meghatározott képzési, továbbképzési, utánképzési, vizsgáztatási, képesítési követelményrendszer figyelembevételével meghatározza:)
-
-## „cb) az elméleti és gyakorlati vizsgakövetelményeket, az alkalmazandó vizsgafeladatokat, a vizsgáztatásra alkalmas vizsgahelyszíneket és vizsgaútvonalakat,”
+[^9]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

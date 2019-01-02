@@ -1,1 +1,3 @@
-## „(13) A közúti járművezetők pályaalkalmassági vizsgálatához kapcsolódó közlekedéspszichológiai igazságügyi szakértői vizsgálatokat a Kkt. 18. § (8) bekezdése alapján kijelölt szervezet végzi.”
+## 6. §[^8]
+
+[^8]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
