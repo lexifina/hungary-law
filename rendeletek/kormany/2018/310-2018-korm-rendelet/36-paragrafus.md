@@ -1,1 +1,3 @@
-## 35. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 1. melléklete helyébe a 6. melléklet lép.
+## 35. §[^30]
+
+[^30]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
