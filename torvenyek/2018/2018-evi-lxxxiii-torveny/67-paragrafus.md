@@ -1,6 +1,6 @@
 67. § (1) Hatályát veszti a Kbt.
 
-1. 28. § (2) bekezdés f) pontja,
+1.
 
 2.
 
@@ -10,11 +10,11 @@
 
 5.
 
-6. 187. § (2) bekezdés a) pont aa) alpontja,
+6.
 
-7. 195. § (7)–(11) bekezdése,
+7.
 
-8. 198. § (2) bekezdés f) pontja.
+8.
 
 (2) Hatályát veszti a Kbt.
 
@@ -48,15 +48,15 @@
 
 15.
 
-16. 181. § (1) bekezdésében az „A kinevezés egyszer ismételhető.”,
+16.
 
-17. 182. § (11) bekezdésében az „A tagok tiszteletdíjra jogosultak, amelynek havi mértékét a Hatóság szervezeti és működési szabályzata rögzíti.”,
+17.
 
-18. 187. § (2) bekezdés e) pontjában az „első ízben 2017. március 1-jéig, majd azt követően”,
+18.
 
-19. 187. § (2) bekezdés s) pontjában a „felhasználva árstatisztikát készít, amelyet a”,
+19.
 
-20. 187. § (2) bekezdés t) pontjában a „ , jóváhagyja a Közbeszerzési Döntőbizottság szervezeti és működési szabályzatát”,
+20.
 
 21.
 
