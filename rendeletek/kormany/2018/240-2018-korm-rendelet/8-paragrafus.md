@@ -1,1 +1,3 @@
-## 7. § Hatályát veszti a nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló 173/1995. (XII. 27.) Korm. rendelet 4. § (9) bekezdése.
+## 7. §[^4]
+
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
