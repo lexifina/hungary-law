@@ -24,29 +24,29 @@
 
 11. a korai magyar történelem helyének vizsgálata a XXI. századi magyar önazonosságtudatban,
 
-12.[^1]
+12. középtávú magyar nyelvstratégia kidolgozásának irányítása és felügyelete,
 
-13.[^2]
+13. a magyar nyelv belső szerkezetének, sajátosságainak, működésének, a magyar kultúra egészével való összefüggésének kutatása és annak eredményének alkalmazása a köznevelésben,
 
-14.[^3]
+14. nyelvtörténeti kutatások végzése, nyelvi adattárak fejlesztésének ösztönzése,
 
-15.[^4]
+15. a nyelvszerkezeti és a nyelvhasználati kutatások terén a különböző szaknyelvek, terminológiák tudatos fejlesztésének koordinálása, a határon túli és az anyaországi magyar nyelvű terminológia összehasonlító kutatása, összehasonlító terminológiai szótárak összeállítása,
 
-16.[^5]
+16. szakértői állásfoglalások készítése nyelvpolitikai kérdésekben a közigazgatás és a közmédia részére,
 
-17.[^6]
+17. a magyar nyelvi tankönyvprogram fejlesztésében való részvétel, nyelvészeti szakmai alapjainak kidolgozása, különösen gyermekbarát, az otthonról hozott anyanyelvi készségeket fejlesztő általános iskolai nyelvtankönyvek szakmai alapvetése kidolgozásának összehangolása a magyar kultúra egészével,
 
-18.[^7]
+18. a magyar szórványok, magyar nyelvjárások, rétegnyelvek, határon túli nyelvváltozatok, kisebbségben élő nyelvrokon népek helyzetének vizsgálata,
 
-19.[^8]
+19. a magyar nyelvi értékvesztéssel szemben irányelvek kidolgozása a Kormány számára,
 
-20.[^9]
+20. szakmai és nemzetközi kerekasztal-megbeszélések, nyári kurzusok és – kiemelten határon túli magyaroknak – nyári egyetemek szervezése, nyelvi kulturális napok társszervezése az adott feladathoz szükséges körben, együttműködve az illetékes hazai és Kárpát-medencei szervekkel, szervezetekkel, felsőoktatási intézményekkel,
 
-21.[^10]
+21. a magyar nyelv digitális, hálózati térben való fennmaradásával összefüggő kutatások szervezése,
 
-22.[^11]
+22. a fordítás, a többnyelvűség és az ezzel összefüggő lokalizációs tevékenységgel kapcsolatos programok tanulmányozása, ösztönzése, kidolgozása,
 
-23.[^12]
+23. a nyelvművelő tevékenység ösztönzése,
 
 24. az 1–23. pontok szerinti feladatok tekintetében maradandót alkotó jeles kutatók hagyatékának, szellemi örökségének gondozása, a kutatási anyagok digitalizálása,
 
@@ -59,16 +59,3 @@
 (2) Az Intézet tevékenységét nemzeti és nemzetközi működési körben látja el.
 
 (3) Az Intézet főigazgatója meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől személyes adatnak nem minősülő adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
-
-[^1]: A 3. § (1) bekezdés 12. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^2]: A 3. § (1) bekezdés 13. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^3]: A 3. § (1) bekezdés 14. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^4]: A 3. § (1) bekezdés 15. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^5]: A 3. § (1) bekezdés 16. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^6]: A 3. § (1) bekezdés 17. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^7]: A 3. § (1) bekezdés 18. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^8]: A 3. § (1) bekezdés 19. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^9]: A 3. § (1) bekezdés 20. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^10]: A 3. § (1) bekezdés 21. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^11]: A 3. § (1) bekezdés 22. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
-[^12]: A 3. § (1) bekezdés 23. pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.

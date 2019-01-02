@@ -1,11 +1,10 @@
-## 8. §[^15]
+## 8. §[^2]
 
 ## 9. § Hatályát veszti az R. 1. melléklet
 
-a)[^16]
+a)[^3]
 
-b)[^17]
+b) H) pontjában foglalt táblázat 10. sora.
 
-[^15]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 9. § b) pontja a 4. § (2) bekezdése alapján 2019. január 2-án lép hatályba.
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
