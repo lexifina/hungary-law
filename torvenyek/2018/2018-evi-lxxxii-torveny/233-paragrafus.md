@@ -1,3 +1,1 @@
-233. § Az MRP tv. 24/C. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A tagi részesedés, az alapszabály eltérő rendelkezése hiányában, örökölhető. Az alapszabály lehetővé teheti, hogy a résztvevő halála esetére írásban egy vagy több természetes személy kedvezményezettet jelöljön meg. Kedvezményezett megjelölése esetén a tagi részesedés nem képezi a hagyaték részét, hanem a résztvevő halálával a kedvezményezettre száll át. A résztvevő halála esetén az örökös, illetve a kedvezményezett a résztvevő helyébe lép. Természetes személy örökös, illetve kedvezményezett hiányában az elhunyt résztvevő tagi részesedése a résztvevő halálának napjával átszáll az alapítóra.”
+233. §

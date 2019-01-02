@@ -1,3 +1,1 @@
-239. § Az MRP tv. 24/L. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A jogi személyiséggel rendelkező szervezeti egység megszüntetésére az MRP szervezet megszüntetésére irányadó rendelkezéseket kell értelemszerűen alkalmazni. Ha a megszűnő szervezeti egység jogutódja az az MRP szervezet, amelynek alapszabálya jogi személlyé nyilvánította, a szervezeti egység a megszűnése napjára, mint mérlegfordulónapra részletes leltárral alátámasztott beszámolót kell készíteni, amelyet a jogutód legfőbb szerve a mérlegfordulónapot követő 90 napon belül fogad el. A szervezeti egység eszközeinek és a forrásainak a jogutódlás keretében az MRP szervezetre történő átszállását az MRP szervezet a szervezeti egység utolsó beszámolóját alátámasztó részletes leltárnak megfelelően rögzíti számviteli nyilvántartásaiban.”
+239. §

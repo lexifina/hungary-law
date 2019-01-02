@@ -1,3 +1,1 @@
-124. § Az Art. 177. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az ügyintézési határidőbe – az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) 50. § (5a) bekezdése szerinti eseteken túl – a külföldi állam illetékes hatóságával folytatott egyeztetés, az állami adó- és vámhatóság által lefolytatott valódiságvizsgálat időtartama sem számít bele. Ha ezek eredményeként az eljárás során az ügy szempontjából jelentős olyan új tény merül fel, kritikus feltételek módosulnak, illetve a szokásos piaci ár megbízhatóságának szempontjából jelentőséggel bíró, a határozathozatal alapjául szolgáló olyan körülmények lényeges mértékben megváltoznak, amelyek a szokásos piaci ár megállapítására érdemben kihatnak, az ügyintézési határidő az ennek alapjául szolgáló tény bekövetkeztének időpontjában újrakezdődik. Erről az állami adó- és vámhatóság értesíti a kérelmezőt.”
+124. §

@@ -1,5 +1,1 @@
-196. § A Készpénztörvény 6. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel (a továbbiakban: Mód1. tv.) megállapított 5/A. § (1a) és (1b) bekezdését a 2019. január 1-jén folyamatban lévő eljárásokban, valamint azon ügyekben is alkalmazni kell, amelyekben a vámhatóság 2018. január 1-jét követően véglegessé vált határozattal bírságot állapított meg.
-
-(2b) A Mód1. tv.-nyel megállapított 5/A. § (1a) és (1b) bekezdésének meg nem felelő, a (2a) bekezdés szerinti végleges határozatot a vámhatóság az 5/A. § (1a) és (1b) bekezdése hatálybalépését követő 30 napon belül hivatalból, saját hatáskörben módosítja, és intézkedik a bírságkülönbözet visszatérítése iránt. A visszatérítést a vámhatóság a bírság megfizetésének biztosítására ideiglenes biztosítási intézkedésként visszatartott készpénz esetén készpénzben, az 5/A. § (1) bekezdése alapján a helyszínen forintban megfizetett bírság esetén átutalással, a kötelezett személy által megjelölt fizetési számlára teljesíti.”
+196. §
