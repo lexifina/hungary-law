@@ -1,1 +1,3 @@
-9. § Az 5. § (1) bekezdésében a „30” szövegrész helyébe a „20” szöveg lép.
+9. §[^2]
+
+[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
