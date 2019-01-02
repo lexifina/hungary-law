@@ -1,5 +1,0 @@
-## 2. § Az R1. 14. és 15. §-a helyébe a következő rendelkezések lépnek:
-
-## „14. § Kivételes szolgálati érdek, illetve rendkívüli egyéni körülmények fennállása esetén a hozzájárulás összegét az állományilletékes parancsnok vagy a hivatali szervezet vezetője – a dolgozó írásbeli kérelmére – a havi bérleti díj és a dolgozó által bérelt lakás alapterületével azonos belügyi vagyonkezelésű lakás havi lakbérének különbözeti összegének mértékéig, de havonta legfeljebb kettőszázezer forint összegig az önálló belügyi szerv vezetője, illetve a Belügyminisztérium hivatali szervezetében a saját dolgozói állomány vonatkozásában a közigazgatási államtitkár előzetes engedélyével kiegészítheti. A kiegészítés összegét a kérelmező egyéni és családi körülményeinek vizsgálata alapján az állományilletékes parancsnok vagy a hivatali szervezet vezetője állapítja meg.
-
-## 15. § A 14. § szerinti előzetes engedély beszerzéséhez a dolgozó írásbeli kérelmét a munka- vagy szolgálati helye szerinti közvetlen vezetőjének részletes indokolásával ellátva, a szolgálati út betartásával kell a helyi lakásügyi szervhez benyújtani.”
