@@ -1,1 +1,0 @@
-## „15. átlagos állományi létszám: a Központi Statisztikai Hivatal munkaügyi-statisztikai adatszolgáltatáshoz kiadott útmutatójában foglaltak szerint számított átlagos állományi létszám, az 5. pont szerinti munkaviszonyban foglalkoztatott személyek létszámával számolva.”
