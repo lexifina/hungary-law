@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti a felügyeleti díj megfizetésének, kiszámításának módjáról és feltételeiről szóló 44/2013. (XII. 29.) MNB rendelet.
+## 10. §[^1]
 
 1. melléklet a 17/2018. (V. 29.) MNB rendelethez
 
@@ -1361,3 +1361,5 @@ Közraktár felügyeleti alapdíj számítása (éves)
 | a | b |
 
 | 001 | KOZRAD1 | Előírt alapdíj |  |  |
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
