@@ -1,3 +1,3 @@
-## 14. § A számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 479/2016. (XII. 28.) Korm. rendelet (a továbbiakban: Eszkr.) 34. §-a a következő (3) bekezdéssel egészül ki:
+15. §[^16]
 
-## „(3) A társasházakról szóló 2003. évi CXXXIII. törvény szerinti költségvetési javaslatban szereplő, a közös költséghez való hozzájárulás kapott (járó) összegét a társasház bevételként számolja el. Az így kimutatott közös költség bevételt módosítani kell, amennyiben a közgyűlés a társasház éves költségvetésének és elszámolásának elfogadásakor a tárgyévi közös költség összegét módosítja.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
