@@ -1,3 +1,0 @@
-## 2. § A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet 6. § (1) bekezdés c) pontjában a „vagy zsarolás” szövegrész helyébe a „ , zsarolás, testi sértés, magánlaksértés, zaklatás, rablás, rongálás vagy lopás” szöveg lép.
-
-## 2. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet módosítása
