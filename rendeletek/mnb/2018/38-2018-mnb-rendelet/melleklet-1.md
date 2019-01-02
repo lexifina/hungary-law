@@ -1,3 +1,5 @@
-## 4. § Hatályát veszti a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 27/2017. (XI. 21.) MNB rendelet.
+## 4. §[^1]
 
 1. melléklet a 38/2018. (XI. 14.) MNB rendelethez
+
+[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
