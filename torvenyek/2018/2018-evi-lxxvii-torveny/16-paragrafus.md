@@ -1,3 +1,0 @@
-16. § A Külszoltv. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A tartós külszolgálat időtartama legfeljebb négy év. A tartós külszolgálat várható időtartamát a pályázati kiírásban meg kell jelölni. A pályázati kiírásban foglalt tájékoztatás tartalmazza különösen a kihelyezés várható kezdő időpontját és a tartós külszolgálat befejezésének naptári évét. A tartós külszolgálat első napja az első utazási nappal azonos.”
