@@ -1,3 +1,3 @@
-## 24. §[^3]
+## 24. §[^24]
 
-[^3]: A 24. § a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^24]: A 24. § a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.

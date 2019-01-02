@@ -1,3 +1,3 @@
-## 5. § Az Szmvhr. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## „(2) Ahol e rendelet anyakönyvi kivonatot említ, azon a külföldi hatóság által kiállított, ezzel egyenértékű okiratot is érteni kell.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

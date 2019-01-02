@@ -1,5 +1,3 @@
-## 18. § A Harmvhr. 106. § f) pontja helyébe a következő rendelkezés lép:
+## 18. §[^18]
 
-## (A bevándorlási engedély, letelepedési engedély és nemzeti letelepedési engedély okmány érvénytelen, ha)
-
-## „f) jogosultja más jogcímen tartózkodási jogosultságot, vagy magyar állampolgárságot szerzett;”
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

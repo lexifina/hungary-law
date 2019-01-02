@@ -1,3 +1,3 @@
-## 21. §[^2]
+## 21. §[^21]
 
-[^2]: A 21. § a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^21]: A 21. § a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.

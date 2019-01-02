@@ -1,3 +1,3 @@
-## 8. §[^1]
+## 8. §[^8]
 
-[^1]: A 8. § a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^8]: A 8. § a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.

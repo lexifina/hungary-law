@@ -1,5 +1,3 @@
-## 17. § A Harmvhr. 101. § f) pontja helyébe a következő rendelkezés lép:
+## 17. §[^17]
 
-## (Az ideiglenes letelepedési engedély okmány érvénytelen, ha)
-
-## „f) jogosultja más jogcímen tartózkodási jogosultságot, vagy magyar állampolgárságot szerzett;”
+[^17]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

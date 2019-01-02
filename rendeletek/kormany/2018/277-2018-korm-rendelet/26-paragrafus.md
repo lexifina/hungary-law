@@ -1,26 +1,32 @@
-## 25. § A Harmvhr. a következő 180/A. §-sal egészül ki:
-
-## „180/A. § A regionális igazgatóság a Tv. 105/A. §-ában meghatározott adatokat a központi adatkezelő szerv részére továbbítja.”
+## 25. §[^25]
 
 ## 26. § A Harmvhr.
 
-a) 72/H. § (3a) bekezdés j) pontjában és (10) bekezdés b) pontjában a „Nemzetgazdasági Minisztérium” szövegrész helyébe a „foglalkoztatáspolitikáért felelős miniszter” szöveg,
+a)[^26]
 
-b) 91. § (1a) és (4a) bekezdésében az „A Tv. 35/A. § (1) bekezdése alapján” szövegrészek helyébe az „A nemzetgazdasági érdekből ” szöveg,
+b)[^27]
 
-c) 93. § (1d) bekezdésében az „A Tv. 35/A. § (1) bekezdése, valamint a 104. § (5) bekezdése alapján” szövegrész helyébe az „A Tv. 104. § (5) bekezdése alapján” szöveg,
+c)[^28]
 
-d) 93. § (3) bekezdésében az „állampolgár Tv. 35/A. § (1) bekezdése alapján” szövegrész helyébe az „állampolgárnak a nemzetgazdasági érdekből kiadott” szöveg,
+d)[^29]
 
-e) 104. § (5) bekezdésében az „a Tv. 35/A. § (1) bekezdése alapján” szövegrész helyébe a „nemzetgazdasági érdekből ” szöveg,
+e)[^30]
 
-f) 105. § (5) bekezdésében az „a Tv. 35/A. § (1) bekezdése alapján” szövegrész helyébe az „a nemzetgazdasági érdekből ” szöveg,
+f)[^31]
 
-g) 143. § (2) bekezdés a) pontjában az „a foganatosítás megkezdését megelőző legalább harminchat órával” szövegrész helyébe a „legkésőbb a foganatosítás megkezdésekor” szöveg,
+g)[^32]
 
-h)[^4]
+h)[^33]
 
-i)[^5]
+i)[^34]
 
-[^4]: A 26. § h) pontja a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
-[^5]: A 26. § i) pontja a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 26. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 26. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 26. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 26. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 26. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 26. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 26. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 26. § h) pontja a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^34]: A 26. § i) pontja a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.

@@ -1,1 +1,3 @@
-## „(4a) A (4) bekezdésen túli esetekben a regionális igazgatóság végzése a Tv. 46. § (1) bekezdés b)–f) pontjában foglaltakat tartalmazza.”
+## 20. §[^20]
+
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
