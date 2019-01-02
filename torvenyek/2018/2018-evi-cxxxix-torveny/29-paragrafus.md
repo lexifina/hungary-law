@@ -1,0 +1,3 @@
+## 17. Erdők övezete
+
+29. § Az erdők övezetébe tartozó területeket az adott településnek a településrendezési eszközében legalább 95%-ban erdőterület területfelhasználási egységbe kell sorolnia. Az e törvény hatálybalépését megelőzően kijelölt beépítésre szánt területek, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 4. § (2) bekezdésében meghatározott területek, továbbá az Ország Szerkezeti Terve, a Budapesti Agglomeráció Szerkezeti Terve, valamint a Balaton Kiemelt Üdülőkörzet Szerkezeti Terve által kijelölt települési térség területein lévő erdők övezetének területét a számításnál figyelmen kívül kell hagyni.

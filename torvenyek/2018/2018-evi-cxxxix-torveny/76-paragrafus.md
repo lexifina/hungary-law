@@ -1,0 +1,1 @@
+76. § Ha e törvény vagy az e törvény felhatalmazása alapján kiadott kormányrendelet eltérően nem rendelkezik, a településrendezési eszközökben strandként, kempingként, zöldterületként, parttal érintkező közlekedési területként kijelölt települési területfelhasználási egység területének nagysága és a tómederrel érintkező partszakaszának hossza összességében nem csökkenthető.

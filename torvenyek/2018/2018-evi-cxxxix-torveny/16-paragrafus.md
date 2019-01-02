@@ -1,0 +1,3 @@
+16. § (1) A kiemelt térségi és megyei területrendezési tervben szereplő regionális és egyéb vasúti pályák közül azok területét, amelyen a közszolgáltatás szünetel vagy megszűnt, a településszerkezeti tervben beépítésre nem szánt közlekedési terület területfelhasználási egységbe kell sorolni.
+
+(2) A közlekedési, az elektronikus hírközlési, továbbá az energetikai vonalas infrastruktúra-hálózatok erdőkön áthaladó szakaszainak építési területén a forgalom lebonyolítását és biztonságát, az elektronikus hírközlés működését, illetve a villamos energia és más energiahordozók továbbítását közvetlenül szolgáló építmények helyezhetők el.
