@@ -1,1 +1,3 @@
-## „(3) Az INF 4 adatlap kiadására irányuló kérelem elektronikus benyújtása esetén a kérelem tartalmazza a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i 2015/2446/EU bizottsági rendelet (a továbbiakban: FJA) 22-02. számú mellékletében meghatározott adatokat.”
+## 19. §[^17]
+
+[^17]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

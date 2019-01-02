@@ -1,3 +1,3 @@
-## 20. § Az R3. 14. §-a helyébe a következő rendelkezés lép:
+## 20. §[^18]
 
-## „14. § A regisztrált exportőrként való nyilvántartásba vétel iránti kérelem papír alapon, a VA 22-06A. számú mellékletében meghatározott formai követelményeknek megfelelően is benyújtható.”
+[^18]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

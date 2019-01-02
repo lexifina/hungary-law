@@ -1,3 +1,3 @@
-## 5. § Az R1. 19. §-a a következő (3) bekezdéssel egészül ki:
+## 5. §[^5]
 
-## „(3) Határozott idejű szolgálati jogviszonyban álló pénzügyőr akkor jogosult az (1) bekezdés szerinti egyenruházati és utánpótlási ellátmányra, ha a határozott idejű szolgálati jogviszony ideje legalább egy év.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

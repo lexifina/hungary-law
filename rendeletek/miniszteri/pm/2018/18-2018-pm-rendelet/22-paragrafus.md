@@ -1,5 +1,3 @@
-## 21. § Az R3. 25. § (1)–(2) bekezdése helyébe a következő rendelkezések lépnek:
+## 21. §[^19]
 
-## „(1) Az Európai Unió által kötött megállapodásokban, valamint a VA 22–10. számú mellékletében meghatározott EUR. 1 szállítási bizonyítvány első példánya a rendeltetési országban az áru származásának igazolására szolgál. Az okmányt, annak hitelesítését követően, az exportőr ország vámszerve adja ki a vámeljárás jogosultja részére. Az importőr ország vámhatósága a vámeljárás során ezt a példányt bevonja. A második példány, a „Szállítási Bizonyítvány iránti kérelem”, a hitelesítést végző illetékes vámhivatalnál marad. A „Szállítási Bizonyítvány iránti kérelem exportőr példánya” megnevezésű harmadik példányt a vámhatóság az exportőr kérelmére záradékolja. A záradékolt példány a vámhatóság előtt igazolásul nem használható. A negyedik, „Fordítási Példány” megnevezésű példányt az okmány idegen nyelvű kiállítása esetén a hitelesítést végző vámszerv bevonja.
-
-## (2) A preferenciális megállapodásokban meghatározott EUR-MED szállítási bizonyítvány példányainak rendeltetése megegyezik az (1) bekezdésben foglaltakkal.”
+[^19]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

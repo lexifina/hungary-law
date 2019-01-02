@@ -1,1 +1,3 @@
-## „t) polgári ruhás állomány: azok a NAV nyomozóhatósági feladatait ellátó központi és területi szerv állományába tartozó pénzügyőrök, akik a mindennapi szolgálatteljesítést polgári ruházatban látják el.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
