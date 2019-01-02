@@ -1,1 +1,0 @@
-## „h) az egységes nyomozó hatósági és ügyészségi bűnügyi statisztikai rendszerről, az adatgyűjtés és -feldolgozás részletes szabályairól szóló miniszteri rendeletben meghatározottak szerint bűnügyi statisztikai feladatokat lát el.”

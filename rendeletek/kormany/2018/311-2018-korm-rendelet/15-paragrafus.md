@@ -1,1 +1,0 @@
-## „(6) A Bűnügyi Főigazgatóság főigazgatója az előkészítő eljárás és a nyomozás lefolytatására azt a bűnügyi igazgatóságot is kijelölheti, amelynek eljárása a területén végzendő eljárási cselekmények száma miatt vagy a hatékonyabb bűnüldözés érdekében indokolt.”
