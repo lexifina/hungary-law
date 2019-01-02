@@ -1,1 +1,0 @@
-## 2. § Hatályát veszti a kormányzati funkciók, államháztartási szakfeladatok és szakágazatok osztályozási rendjéről szóló 68/2013. (XII. 29.) NGM rendelet 2. melléklet 9. pontjában foglalt táblázat 115a–115d sora.
