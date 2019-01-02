@@ -1,3 +1,0 @@
-31. § A Kjtv. 172/A. §-a helyébe a következő rendelkezés lép:
-
-„172/A. § Az e törvényben szabályozott eljárásokban – ha e törvény kifejezetten másként nem rendelkezik – a képviseletre az anyagi jog rendelkezéseit kell alkalmazni azzal, hogy a cselekvőképességében részlegesen vagy teljesen korlátozott természetes személy képviselőként nem járhat el, jogi képviselőnek pedig a Pp. 75. § (1) bekezdésében meghatározott személyek minősülnek.”
