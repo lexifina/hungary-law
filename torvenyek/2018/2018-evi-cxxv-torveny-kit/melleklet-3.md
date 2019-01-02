@@ -141,37 +141,3 @@
 ## 23. versenytilalmi korlátozásra vonatkozó információk
 
 ## 24. kötelező képzésre vonatkozó információk
-
-## 25. kártérítés, fegyelmi felelősségre vonatkozó adatok
-
-## 26. érdekképviseletben betöltött tagság
-
-## 27. vagyonnyilatkozat tételi kötelezettségre vonatkozó adatok
-
-## 28. nemzetbiztonsági vizsgálat előírása, eredménye
-
-## 29. tárgyi ellátmány adatai (gépkocsi, számítógép stb.)
-
-## V.
-
-## 1. az alkalmazó kormányzati igazgatási szerv neve, székhelye, statisztikai számjele
-
-## 2. e szervnél a kormányzati szolgálati jogviszony kezdete
-
-## 3. kormánytisztviselő jelenlegi besorolása, besorolásának időpontja
-
-## 4. feladat(ok) megnevezése és a betöltés időtartama, FEOR-szám
-
-## 5. vezetői kinevezésének és megszűnésének adatai
-
-## 6. jutalmazás, kitüntetés adatai
-
-## 7. hatályos fegyelmi büntetés
-
-## 8. pályázatának adatai
-
-## 9. kompetenciaadatai
-
-## 10. próbaidejének adatai
-
-## VI.
