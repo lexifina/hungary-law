@@ -1,0 +1,3 @@
+33. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló1997. évi CLIX. törvény 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Fegyveres biztonsági őrség az e törvényben, valamint jogszabály alapján megkötött együttműködési megállapodásban meghatározott őrzési feladatokat ellátó, szolgálati fegyverrel és más kényszerítő eszközzel rendelkező, sajátos jogokkal felruházott biztonsági szervezet, amelynek tagjai a létesítő, illetőleg a működtető állami, önkormányzati vagy egyéb intézménnyel, gazdálkodó szervezettel munkaviszonyban, illetve közalkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi szervnél a szervvel munkaviszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban állnak.”

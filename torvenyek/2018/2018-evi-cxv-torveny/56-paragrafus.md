@@ -1,0 +1,1 @@
+56. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 7. § (1) bekezdés 12. pontjában a „közalkalmazotti jogviszony” szövegrész helyébe a „közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony” szöveg lép.

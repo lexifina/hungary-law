@@ -1,0 +1,1 @@
+13. § A használati minták oltalmáról szóló 1991. évi XXXVIII. törvény 8. §-ában a „közalkalmazotti jogviszonyban” szövegrész helyébe a „közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban” szöveg lép.

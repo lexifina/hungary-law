@@ -1,0 +1,3 @@
+25. § A katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az ösztöndíjas hallgató az ösztöndíjszerződésben azt vállalja, hogy tanulmányai befejezése után meghatározott ideig az ösztöndíjszerződést kötő szervnél hivatásos szolgálatot teljesít vagy kormánytisztviselői, köztisztviselői, közalkalmazotti jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt, honvédelmi alkalmazotti jogviszonyt létesít, a szerződő szerv pedig a hallgató képzettségének és végzettségének megfelelő beosztásban munkát biztosít számára.”

@@ -1,0 +1,1 @@
+43. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (2) bekezdésének záró szövegében a „közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, rendvédelmi igazgatási szolgálati vagy honvédelmi alkalmazotti jogviszonyt,” szöveg lép.
