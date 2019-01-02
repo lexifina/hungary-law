@@ -1,1 +1,0 @@
-A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (1) bekezdés p) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
