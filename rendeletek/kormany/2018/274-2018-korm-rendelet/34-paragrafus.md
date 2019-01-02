@@ -2,8 +2,9 @@
 
 ## 20. Hatályon kívül helyező rendelkezés
 
-34. § (1) Hatályát veszti a Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról szóló 128/2012. (VI. 26.) Korm. rendelet.
+34. § (1)[^1]
 
-(2)[^1]
+(2)[^2]
 
-[^1]: A 34. § (2) bekezdése a 31. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^1]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 34. § (2) bekezdése a 31. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
