@@ -1,3 +1,0 @@
-13. § Az Mt. 298. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, valamint a közhasznú kölcsönzőkkel szemben támasztott feltételekre, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.”
