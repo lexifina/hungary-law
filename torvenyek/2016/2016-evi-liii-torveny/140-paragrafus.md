@@ -1,3 +1,0 @@
-## 15. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
-
-140–152. §
