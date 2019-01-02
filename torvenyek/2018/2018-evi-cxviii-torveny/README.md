@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-118-00-00
 | --- | --- | --- |
 | 2019-01-01 | 2018. évi CXVIII. törvény | 2018-118-00-00.0 (közlönyállapot) |
 | 2019-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-118-00-00.1 |
+| 2019-01-02 | 2010. évi CXXX. törvény | 2018-118-00-00.2 |

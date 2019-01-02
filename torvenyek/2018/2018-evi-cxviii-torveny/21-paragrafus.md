@@ -1,1 +1,1 @@
-21. § A Gyftv. 53/B. § (1) bekezdés a) pontjában a „bérleti joga az ingatlan tulajdonosának a bérlőt hátrányosan érintő rendelkezése okán” szövegrész helyébe a „használatát biztosító jogosultság – különösen a bérleti jogviszony vagy a tulajdonjog –” szöveg lép.
+21. §
