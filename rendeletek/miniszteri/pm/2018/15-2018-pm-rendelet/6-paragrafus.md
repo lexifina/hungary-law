@@ -1,5 +1,3 @@
-## 5. § A 45/2016. NGM rendelet 92. § a) pontja helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## (A lefoglalt termékről az állami adó- és vámhatóság által vezetett nyilvántartás tartalmazza)
-
-## „a) annak a személynek a nevét (elnevezését), adatait, lakóhelye (székhelye) pontos címét, akitől a terméket lefoglalták, és akinek a terméket kiadták;”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
