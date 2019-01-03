@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-18-20-5
 | 2018-12-31 | 2018-18-20-53.2 | 2010: CXXX. törvény |
 | 2019-01-01 | 2018-18-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-01-02 | 2018-18-20-53.4 | 2010: CXXX. törvény |
+| 2019-01-03 | 2018-18-20-53.5 | 2010: CXXX. törvény |
