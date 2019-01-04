@@ -4,8 +4,8 @@
 
 (2) E rendelet alkalmazásában honvédelmi létfontosságú rendszerelem:
 
-a)[^1] a Honvédelmi Minisztérium (a továbbiakban: HM), a honvédelemért felelős miniszter (a továbbiakban: miniszter) közvetlen alárendeltségébe tartozó szervezetek, a Katonai Nemzetbiztonsági Szolgálat, valamint a Magyar Honvédség katonai szervezetei (a továbbiakban együtt: honvédelmi szervezetek) által működtetett azon rendszerelem és létesítmény (a továbbiakban: ágazaton belüli honvédelmi létfontosságú rendszerelem),
+a)[^1] a Honvédelmi Minisztérium (a továbbiakban: HM), a honvédelemért felelős miniszter (a továbbiakban: miniszter) közvetlen alárendeltségébe tartozó szervezetek, a Katonai Nemzetbiztonsági Szolgálat, a Magyar Honvédség katonai szervezetei (a továbbiakban együtt: honvédelmi szervezetek), valamint a miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok által működtetett vagy használt rendszerelem és létesítmény (a továbbiakban: ágazaton belüli honvédelmi létfontosságú rendszerelem),
 
 b) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 18. §-ában felsorolt honvédelemben közreműködő szervek vagy az irányításuk, felügyeletük vagy tulajdonosi joggyakorlásuk alá tartozó szerv, szervezet, intézmény által működtetett azon rendszerelem és létesítmény (a továbbiakban: ágazaton kívüli honvédelmi létfontosságú rendszerelem),
 
-[^1]: Az 1. § (2) bekezdés a) pontja a 259/2016. (VIII. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (2) bekezdés a) pontja a 265/2018. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -18,4 +18,6 @@ f) amely a NATO szövetségi rendszer Magyarországon lévő rendszereleme, és 
 
 g) amely a NATO Válságreagálási Rendszerrel összhangban álló Nemzeti Intézkedési Rendszerben meghatározott rendszabályok végrehajtásához elengedhetetlenül szükséges, vagy
 
-h) amely speciális honvédelmi igényeket elégít ki, nincs helyettesítője és kiesése a honvédelmi igazgatás működésképtelenségét vagy súlyos zavarát okozza.
+h)[^2] amely speciális igényeket elégít ki, nincs helyettesítője és kiesése vagy meghibásodása a honvédelmi ágazat működésképtelenségét vagy súlyos zavarát okozza.
+
+[^2]: A 2. § h) pontja a 265/2018. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
