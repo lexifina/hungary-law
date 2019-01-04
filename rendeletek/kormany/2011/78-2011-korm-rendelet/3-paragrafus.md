@@ -1,8 +1,7 @@
-3. § (1) A Köztársasági Elnök Hivatala protokolláris jellegű őrzését, valamint a köztársasági elnökhöz kötődő, Országházon kívüli protokolláris díszelgési feladatokat a Nemzeti Honvéd Díszegység Honvéd Palotaőrség (a továbbiakban: Honvéd Palotaőrség) látja el.
+3. §[^5] (1) A köztársasági elnökhöz és a miniszterelnökhöz kötődő, Országházon kívüli, hivatalos feladatokhoz kapcsolódó protokolláris objektumőrzési és díszelgési feladatokat a Nemzeti Honvéd Díszegység látja el.
 
-(2)[^5] A Honvéd Palotaőrség szolgálati feladatai ellátása során együttműködik a Sándor-palota őrzésére rendelt Készenléti Rendőrséggel.
+(2) A Nemzeti Honvéd Díszegység szolgálati feladatai ellátása során együttműködik a Sándor-palota épületének védelmét megszervező és végrehajtó Készenléti Rendőrséggel, valamint a miniszterelnök állandó személyvédelmét megszervező és végrehajtó Terrorelhárítási Központtal.
 
-(3)[^6] A Honvéd Palotaőrség működésével, szolgálatteljesítésével kapcsolatban felmerült költségek a honvédelemért felelős miniszter által vezetett minisztérium költségvetési fejezetét terhelik.
+(3) A Nemzeti Honvéd Díszegység működésével, szolgálatteljesítésével kapcsolatban felmerült költségek a honvédelemért felelős miniszter által vezetett minisztérium költségvetési fejezetét terhelik.
 
-[^5]: A 3. § (2) bekezdése a 102/2012. (V. 18.) Korm. rendelet 24. § (1) bekezdése szerint módosított szöveg.
-[^6]: A 3. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 565. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § a 265/2018. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
