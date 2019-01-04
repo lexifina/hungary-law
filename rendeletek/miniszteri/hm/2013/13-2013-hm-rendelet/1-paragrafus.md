@@ -6,7 +6,7 @@
 
 2. előszezon: a naptári év kezdetétől az iskolai tanév befejezését követő első turnusváltásig terjedő, naptári napban meghatározott időszak,
 
-2a.[^2] éves kedvezményes keret: az igényjogosult és családtagja által, elő-, utó- és főszezonban vehető igénybe, időtartama az igényjogosult kérelme alapján és a rendelkezésre álló szabad férőhelyek függvényében évente legfeljebb 13 vendégéjszaka,
+2a.[^2]
 
 2b.[^3] félpanziós ellátás: vendégéjszakánként vacsorát és reggelit tartalmazó ellátás,
 
@@ -16,26 +16,32 @@
 
 5.[^5] honvédségi nyugdíjas: a honvédelmi szervezettől nyugállományba vonult korábbi kormánytisztviselő, kormányzati ügykezelő (a továbbiakban együtt: kormánytisztviselő), köztisztviselő, közalkalmazott, munkavállaló, vagy polgári alkalmazott, kinevezett polgári alkalmazott,
 
-5a.[^6] igénylő: az a személy, aki a szolgáltatást nyújtó szervezet által nyújtott szolgáltatásokat igénybe veszi vagy azt igénybe venni szándékozik,
+5a.[^6] igényjogosult: a 2. § (1) bekezdésében, a 3. § (1) bekezdésében, a 4. § (1) bekezdésében, a 6. § (1) bekezdésében, a 8. § (1) és (5) bekezdésében, a 11/A. § (6) bekezdésében, a 12. § (1) és (2) bekezdésében, a 15. § (1) bekezdésében, a 16. § (1) bekezdésében, a 18. § (1) bekezdésében, a 19. § (1), (2) és (3) bekezdésében felsorolt személyek,
+
+5b.[^7] igénylő: az az igényjogosult, illetve nem igényjogosult, aki a szolgáltatást nyújtó szervezet szolgáltatásait igénybe veszi, vagy azt igénybe venni szándékozik,
+
+5c.[^8] nem igényjogosult: az 5a. pontban fel nem sorolt igénylő,
 
 6. pótágy: 90x190 cm-nél kisebb vagy több fekvőfelületi elemből álló ágy,
 
-7.[^7] szolgáltatást nyújtó szervezet: a 2–11. §, a 16. § (1) bekezdés a) pontja, a 17. és a 18. § szerinti szolgáltatások esetén a Magyar Honvédség (a továbbiakban: MH) regenerálódást és kiképzést végző szervezete, a 6. § (4) bekezdése, a 12–15. §, a 16. § (1) bekezdés b) pontja és a 18. § szerinti szolgáltatások esetén az MH regenerálódást segítő és rekreációt végző szervezete, a 19. § szerinti szolgáltatások esetén az MH szolgáltatásokat koordináló szervezete,
+7.[^9] szolgáltatást nyújtó szervezet: a 2–11. §, a 16. § (1) bekezdés a) pontja, a 17. és a 18. § szerinti szolgáltatások esetén a Magyar Honvédség (a továbbiakban: MH) regenerálódást és kiképzést végző szervezete, a 6. § (4) bekezdése, a 12–15. §, a 16. § (1) bekezdés b) pontja és a 18. § szerinti szolgáltatások esetén az MH regenerálódást segítő és rekreációt végző szervezete, a 19. § szerinti szolgáltatások esetén az MH szolgáltatásokat koordináló szervezete,
 
-7a.[^8] teljes panziós ellátás: vendégéjszakánként ebédet, vacsorát és reggelit tartalmazó ellátás,
+7a.[^10] teljes panziós ellátás: vendégéjszakánként ebédet, vacsorát és reggelit tartalmazó ellátás,
 
 8. utószezon: a főszezon végétől a naptári év utolsó turnusának utolsó napjáig terjedő, naptári napban meghatározott időszak,
 
 9. vendégéjszaka: a helyi adókról szóló 1990. évi C. törvény 52. § 30. pontja szerinti időtartam.
 
-(2)[^9] Ahol e rendelet családtagot említ, azon érteni kell az igényjogosult élettársát is, ha élettársi viszonyát a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint igazolja.
+(2)[^11] Ahol e rendelet családtagot említ, azon érteni kell az igényjogosult élettársát is, ha élettársi viszonyát a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint igazolja.
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 6/2016. (IV. 15.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés 2a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (1) bekezdés 2a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 19/2018. (XII. 20.) HM rendelet 14. §-a.
 [^3]: Az 1. § (1) bekezdés 2b. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés 4. pontja a 6/2016. (IV. 15.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés 5. pontja a 6/2016. (IV. 15.) HM rendelet 16. § a) pontja szerint módosított szöveg.
-[^6]: Az 1. § (1) bekezdés 5a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (2) bekezdése iktatta be.
-[^7]: Az 1. § (1) bekezdés 7. pontja a 4/2017. (IV. 28.) HM rendelet 17. § a) és b) pontja szerint módosított szöveg.
-[^8]: Az 1. § (1) bekezdés 7a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
-[^9]: Az 1. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 18. §-ával megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés 5a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (2) bekezdése iktatta be, szövege a 19/2018. (XII. 20.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (1) bekezdés 5b. pontját a 19/2018. (XII. 20.) HM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: Az 1. § (1) bekezdés 5c. pontját a 19/2018. (XII. 20.) HM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (1) bekezdés 7. pontja a 4/2017. (IV. 28.) HM rendelet 17. § a) és b) pontja szerint módosított szöveg.
+[^10]: Az 1. § (1) bekezdés 7a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
+[^11]: Az 1. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 18. §-ával megállapított szöveg.

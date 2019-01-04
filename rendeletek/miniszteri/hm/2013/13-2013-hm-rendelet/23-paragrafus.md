@@ -20,14 +20,14 @@ c) előterjesztést készít a férőhely-keretek igénylők szerinti elosztás�
 
 d) a miniszteri utasítás szerinti nyomtatványon nyilvántartja a regenerálódási, a rekreációs és az üdültetési szolgáltatások igénybevételét,
 
-e)[^89] az 1. § (1) bekezdés 1. pontja szerinti gyermek és az élettárs igényjogosultságát a rekreáció igénybevétele iránti kérelemben – a személyügyi szervtől kapott adatok alapján, a nevek mellett – aláírásával igazolja,
+e)[^99] az 1. § (1) bekezdés 1. pontja szerinti gyermek és az élettárs igényjogosultságát a rekreáció igénybevétele iránti kérelemben – a személyügyi szervtől kapott adatok alapján, a nevek mellett – aláírásával igazolja,
 
-f)[^90] az intézmény napi látogatásához – az igényjogosult kérésére – a családtagok vonatkozásában igazolást ad ki.
+f)[^100] az intézmény napi látogatásához – az igényjogosult kérésére – a családtagok vonatkozásában igazolást ad ki.
 
 (4) A Szociális Munkacsoport a (3) bekezdés c) pontjára figyelemmel javaslatot tesz az állományilletékes parancsnok részére a férőhelyek elosztására. A Szociális Munkacsoport a javaslat kialakításánál figyelembe veszi az igényjogosult által előző évben igénybe vett szolgáltatás formáját, mértékét.
 
-(5)[^91] A Honvéd Kempingben igénybe vehető rekreációs szolgáltatások koordinálását és az adminisztrációs feladatok végrehajtását az MH regenerálódást segítő és rekreációt végző szervezete önállóan végzi.
+(5)[^101] A Honvéd Kempingben igénybe vehető rekreációs szolgáltatások koordinálását és az adminisztrációs feladatok végrehajtását az MH regenerálódást segítő és rekreációt végző szervezete önállóan végzi.
 
-[^89]: A 23. § (3) bekezdés e) pontját a 6/2016. (IV. 15.) HM rendelet 13. § (1) bekezdése iktatta be.
-[^90]: A 23. § (3) bekezdés f) pontját a 6/2016. (IV. 15.) HM rendelet 13. § (1) bekezdése iktatta be.
-[^91]: A 23. § (5) bekezdését a 6/2016. (IV. 15.) HM rendelet 13. § (2) bekezdése iktatta be, szövege a 4/2017. (IV. 28.) HM rendelet 17. § a) pontja szerint módosított szöveg.
+[^99]: A 23. § (3) bekezdés e) pontját a 6/2016. (IV. 15.) HM rendelet 13. § (1) bekezdése iktatta be.
+[^100]: A 23. § (3) bekezdés f) pontját a 6/2016. (IV. 15.) HM rendelet 13. § (1) bekezdése iktatta be.
+[^101]: A 23. § (5) bekezdését a 6/2016. (IV. 15.) HM rendelet 13. § (2) bekezdése iktatta be, szövege a 4/2017. (IV. 28.) HM rendelet 17. § a) pontja szerint módosított szöveg.

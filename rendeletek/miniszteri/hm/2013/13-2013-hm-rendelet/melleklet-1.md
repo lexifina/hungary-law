@@ -1,6 +1,6 @@
-## 27. §[^95] Az MH központi személyügyi szerv vezetője e rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 20/A. §-át a 2016. május 30-ától megállapított belföldi egyéni és családos igényjogosulti térítési díj esetében alkalmazhatja.
+## 27. §[^106] Az MH központi személyügyi szerv vezetője e rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 20/A. §-át a 2016. május 30-ától megállapított belföldi egyéni és családos igényjogosulti térítési díj esetében alkalmazhatja.
 
-1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^96]
+1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^107]
 
 1. Igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezetében
 
@@ -24,7 +24,7 @@
 
 | 9. | Hotel Sirály folyóvizes szoba, WC nélkül | 2550 | 3270 | 2850 | 3470 |
 
-1a. Igényjogosulti térítési díjak 13 vendégéjszaka időtartamon túl, és nem igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezetében
+1a. nem igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezetében
 
 |  | A | B | C | D | E |
 
@@ -222,15 +222,15 @@
 
 | 3. | Apartman ház (hétközi és hétvégi pihenés) | 1200 | 1400 |
 
-4. Belföldi gyermek rekreáció térítési díjai hazai gyermeküdülőben
+4. Belföldi gyermek rekreáció térítési díjai az MH regenerálódást és kiképzést végző, valamint az MH regenerálódást segítő és rekreációt végző szervezeteinél
 
-|  | A | B |
+|  |  | A | B |
 
-| 1. | Rekreáció formája | Nettó térítési díj (Ft/fő/éj) |
+|  | 1. | Pihenés formája | Nettó térítési díj (Ft/fő/éj) |
 
-| 2. | Gyermektábor 12. életév betöltéséig (13 vendégéjszaka mértékéig) | 2362 |
+|  | 2. | Gyermektábor 12. életév betöltéséig | 2362 |
 
-| 3. | Gyermektábor 12–16 év között (13 vendégéjszaka mértékéig) | 2835 |
+|  | 3. | Gyermektábor 12–16 életév között | 2835 |
 
-[^95]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 9/2016. (VI. 29.) HM rendelet 4. §-a iktatta be.
-[^96]: Az 1. melléklet a 4/2017. (IV. 28.) HM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^106]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 9/2016. (VI. 29.) HM rendelet 4. §-a iktatta be.
+[^107]: Az 1. melléklet a 4/2017. (IV. 28.) HM rendelet 16. § (2) bekezdésével megállapított, a 19/2018. (XII. 20.) HM rendelet 13. §-a szerint módosított szöveg.

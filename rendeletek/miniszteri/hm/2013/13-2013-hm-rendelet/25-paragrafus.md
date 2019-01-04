@@ -1,5 +1,5 @@
-## 24/A. §[^94] A 2., 5., 6. és 7. alcím szerinti pihenési formák igénybevételéhez kiállított beutalót az MH regenerálódást és kiképzést végző szervezete, az MH regenerálódást segítő és rekreációt végző szervezete és az MH szolgáltatásokat koordináló szervezete a szolgáltatási időpont előtt legkésőbb három héttel küldi meg az igényjogosult részére.
+## 24/B. §[^105] A kérelemben szereplő igények visszaigazolását a beutaló tartalmazza. A kérelmen szereplő nem igényjogosultra vonatkozó igények csak az igényjogosult által történő igénybevételt követően fennmaradó szabad férőhely terhére biztosíthatók. A beutalón nem szereplő személyek fogadására még szabad férőhely terhére sincs lehetőség.
 
 ## 13. Záró rendelkezések
 
-[^94]: A 24/A. §-t a 6/2016. (IV. 15.) HM rendelet 14. §-a iktatta be, szövege a 4/2017. (IV. 28.) HM rendelet 17. § a) és b) pontja szerint módosított szöveg.
+[^105]: A 24/B. §-t a 19/2018. (XII. 20.) HM rendelet 12. §-a iktatta be.
