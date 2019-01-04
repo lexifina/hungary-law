@@ -1,0 +1,1 @@
+## „(7) Az MH regenerálódást segítő és rekreációt végző szervezetében a szabad kapacitás terhére a nem igényjogosult az igényjogosulttal együtt, valamint önállóan is igénybe veheti a hétközi és hétvégi pihenést az 1. melléklet 1a. pontja szerinti térítési díj ellenében.”
