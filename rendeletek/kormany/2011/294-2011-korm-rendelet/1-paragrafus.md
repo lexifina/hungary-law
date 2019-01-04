@@ -1,4 +1,8 @@
-1. § (1) A munkáltató önkéntes tartalékos munkavállalója tényleges katonai szolgálatteljesítése időtartamára, valamint az ezzel kapcsolatban kiadott pótszabadság időtartamára kompenzációra jogosult.
+1. § (1)[^1] Az önkéntes tartalékos szolgálati viszony létesítése esetén a tényleges katonai szolgálatteljesítés időtartamára kompenzációra jogosult
+
+a) a munkáltató az önkéntes tartalékos munkavállalója után,
+
+b) az egyéni vállalkozókról és az egyéni cégekről szóló 2009. évi CXV. törvény hatálya alá tartozó egyéni vállalkozó, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18. pontja szerinti mezőgazdasági őstermelő.
 
 (2) Az önkéntes tartalékost foglalkoztató munkáltató kompenzációjának mértéke a Központi Statisztikai Hivatal által utoljára publikált féléves, vagy éves ágazati bruttó átlagkereseti adatok alapján számított napi összeg. A számításhoz a munkáltató statisztikai számjele szerinti nemzetgazdasági ágazat bruttó átlagkereseti adatát kell figyelembe venni.
 
@@ -15,3 +19,5 @@
 (8) Az 2. § (1) bekezdésben meghatározott megállapodás hiányában a munkáltató kompenzációra nem jogosult.
 
 (9) A munkáltatót megillető kompenzáció kifizetése utólagos finanszírozással történik.
+
+[^1]: Az 1. § (1) bekezdése a 265/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
