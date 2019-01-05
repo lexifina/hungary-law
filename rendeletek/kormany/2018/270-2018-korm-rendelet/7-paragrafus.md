@@ -10,6 +10,4 @@ c) az elvárt intézkedés megtételére.
 
 (2) A hatóság azonnali intézkedések megtételére kötelezi az érintett bejelentés-köteles szolgáltatást nyújtót, ha az elektronikus információbiztonságot veszélyeztető hiányosság, mulasztás, a megsértett biztonsági követelmény súlyos biztonsági esemény bekövetkeztével fenyeget. Ezzel összefüggésben fegyelmi felelősség megállapítására tehet javaslatot a munkáltatói jogkör gyakorlója felé.
 
-(3)[^2]
-
-[^2]: A 7. § (3) bekezdése a 11. § (2) bekezdése alapján 2019. január 5-én lép hatályba.
+(3) A hatóság az Ekertv. 6/C. §-a alapján, az 1. mellékletben megjelölt jogszabálysértés esetén, az 1. mellékletben rögzített mértékben bírságot szabhat ki.

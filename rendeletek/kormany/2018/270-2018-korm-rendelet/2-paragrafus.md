@@ -32,8 +32,6 @@ f) szükség szerint kötelezi a bejelentés-köteles szolgáltatást nyújtót 
 
 g) hatósági ellenőrzést végez a bejelentés-köteles szolgáltatást nyújtók kötelezettségeinek teljesítése vonatkozásában;
 
-h)[^1]
+h) az Ibtv. 19. § (1) bekezdése szerinti, az eseménykezelő központ feladat- és hatásköréről, valamint a biztonsági események kezelésének és műszaki vizsgálatának, továbbá a sérülékenységvizsgálat lefolytatásának szabályairól szóló kormányrendeletben kijelölt eseménykezelő központ (a továbbiakban: eseménykezelő központ) megkeresésére intézkedik a közvetítő szolgáltatókkal szemben.
 
 (3) Ha egy bejelentés-köteles szolgáltató központi ügyvezetésének helye vagy képviselője az egyik tagállamban van, míg az elektronikus információs rendszerei egy vagy több másik tagállamban találhatóak, a központi ügyvezetés helye vagy a képviselő helye szerinti tagállam illetékes hatóságával a hatóság együttműködik.
-
-[^1]: A 2. § (2) bekezdés h) pontja a 11. § (2) bekezdése alapján 2019. január 5-én lép hatályba.
