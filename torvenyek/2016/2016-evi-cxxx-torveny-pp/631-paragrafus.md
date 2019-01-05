@@ -35,11 +35,3 @@ E törvény
 16. a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló, 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek,
 
 17. az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról szóló, 2011. június 8-i 2011/61/EU európai parlamenti és tanácsi irányelvnek,
-
-18. a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló, 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelvnek,
-
-19. az Európai Igazságügyi Hálózat létrehozásáról polgári és kereskedelmi ügyekben szóló, 2001. május 28-i 2001/470/EK tanácsi határozatnak,
-
-20. a polgári és kereskedelmi ügyekben az Európai Igazságügyi Hálózat létrehozásáról szóló, 2001/470/EK tanácsi határozat módosításáról szóló, 2009. június 18-i 568/2009/EK európai parlamenti és tanács határozatnak,
-
-21. a fizetésképtelenségi eljárásról szóló, 2000. május 29-i 1346/2000/EK tanácsi rendeletnek,

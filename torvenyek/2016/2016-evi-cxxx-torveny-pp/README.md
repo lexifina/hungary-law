@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-130-00-00
 | 2018-01-02 | 2010. évi CXXX. törvény | 2016-130-00-00.2 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2016-130-00-00.3 |
 | 2018-12-29 | 2018. évi CXXVI. törvény | 2016-130-00-00.4 |
+| 2019-01-05 | 2018. évi XCII. törvény | 2016-130-00-00.5 |
