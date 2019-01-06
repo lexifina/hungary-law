@@ -1,3 +1,5 @@
+## 1/A. §[^1] E rendelet hatálya nem terjed ki a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapokra.
+
 ## MÁSODIK RÉSZ
 
 ## AZ ÁÉKBV BEFEKTETÉSEIRE ÉS MŰKÖDÉSÉRE VONATKOZÓ SZABÁLYOK
@@ -53,3 +55,5 @@ hc) a pénzpiaci eszközök kibocsátója vagy garanciavállalója olyan személ
 hd) a pénzpiaci eszközöket a Felügyelet által felügyelt intézmények bocsátották ki, feltéve, hogy az ilyen értékpapírokba történő befektetésekre olyan befektető-védelem vonatkozik, amely egyenértékű a ha), hb) vagy hc) pontokban meghatározott védelemmel, és a kibocsátó induló tőkéje és tőketartaléka legalább tízmillió euró, és a számvitelről szóló 2000. évi C. törvény szerint bemutatja és közzéteszi éves számviteli beszámolóit, továbbá a kibocsátó kifejezetten a csoport finanszírozásával foglalkozik olyan vállalkozáscsoporton belül, amelynek egy vagy több tagja tőzsdére bevezetett gazdasági társaság vagy intézmény, vagy banki likviditási keretből részesülő értékpapírrá alakított eszközök finanszírozását végzi.
 
 (2) Az ÁÉKBV eszközeinek legfeljebb 10 százalékát fektetheti az (1) bekezdésben nem említett átruházható értékpapírokba vagy pénzpiaci eszközökbe; és nem vásárolhat sem nemesfémeket, sem nemesfémeket megtestesítő okiratokat. Az ÁÉKBV-k rendelkezhetnek járulékos likvid eszközökkel.
+
+[^1]: Az 1/A. §-t a 278/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
