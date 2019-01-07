@@ -52,11 +52,11 @@
 
 31–32.[^12]
 
-33. vizsgajegyzőkönyv: a közlekedési hatóság által kiállított, nyilvántartási számmal ellátott dokumentum, amely tartalmazza a vizsgázók személyazonosító adatait (név, születési dátum), aláírását és vizsgaeredményeit is,
+33.[^13] vizsgajegyzőkönyv: a vizsgaközpont által kiállított, nyilvántartási számmal ellátott dokumentum, amely tartalmazza a vizsgázók személyazonosító adatait (név, születési dátum), aláírását és vizsgaeredményeit is,
 
-34.[^13]
+34.[^14]
 
-35. vizsgarendező: a vizsgabiztos munkájának elősegítése céljából a közlekedési hatóság által kijelölt személy,
+35.[^15] vizsgarendező: a vizsgabiztos munkájának elősegítése céljából a vizsgaközpont által kijelölt személy,
 
 36. zárt felépítmény: ponyvás vagy zárt kocsiszekrény,
 
@@ -66,19 +66,21 @@
 
 39. tanrend: tantermi oktatás esetén a tantervnek a tanfolyam időtartamára lebontott ütemezése a hozzá kapcsolódó erőforrások (pl. oktató, tanterem) meghatározásával,
 
-40.[^14]
+40.[^16]
 
 41. tanuló azonosító: a képző szerv azonosítóját, a tanfolyam képző szerv által meghatározott egyedi azonosítóját, és a tanuló tanfolyamon belüli egyedi sorszámát tartalmazó azonosító,
 
 42. képző szerv azonosító: a közlekedési hatóság által meghatározott, a képző szervet egyértelműen azonosító szám,
 
-43.[^15] foglalkozás: az egyben – legfeljebb egy óra szünetet beiktatva – tartott oktatási órák összessége,
+43.[^17] foglalkozás: az egyben – legfeljebb egy óra szünetet beiktatva – tartott oktatási órák összessége,
 
-44.[^16] A kézi sebességváltóval rendelkező jármű: az a jármű, amely olyan tengelykapcsoló-pedállal (illetve az „A”, az „A2” és az „A1” kategóriákban kézi váltókarral) van felszerelve, amelynek működtetése a jármű elindításakor, megállításakor és sebességváltáskor a vezetőre hárul.
+44.[^18] A kézi sebességváltóval rendelkező jármű: az a jármű, amely olyan tengelykapcsoló-pedállal (illetve az „A”, az „A2” és az „A1” kategóriákban kézi váltókarral) van felszerelve, amelynek működtetése a jármű elindításakor, megállításakor és sebességváltáskor a vezetőre hárul.
 
-45.[^17] Automata sebességváltóval rendelkező jármű: a 44. pontban előírt feltételeknek nem megfelelő jármű, amely tengelykapcsoló-pedállal vagy kézi váltókarral nem rendelkezik és ezeknek a működtetése a jármű elindításához nem szükséges.
+45.[^19] Automata sebességváltóval rendelkező jármű: a 44. pontban előírt feltételeknek nem megfelelő jármű, amely tengelykapcsoló-pedállal vagy kézi váltókarral nem rendelkezik és ezeknek a működtetése a jármű elindításához nem szükséges.
 
-46.[^18] Érvényes vezetői engedély, igazolvány: a közlekedési hatóság által kiadott végleges vezetői engedély, igazolvány, annak időbeli hatálya alatt.
+46.[^20] Érvényes vezetői engedély, igazolvány: a közlekedési igazgatási hatóság által kiadott végleges vezetői engedély, igazolvány, annak időbeli hatálya alatt.
+
+47.[^21] vizsgaközpont: a Közlekedési Alkalmassági és Vizsgaközpont.
 
 (2) E rendeletben az (1) bekezdésben nem meghatározott fogalmak értelmezésekor a közúti közlekedésről szóló törvényben, és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben foglalt értelmező rendelkezéseket kell megfelelően alkalmazni.
 
@@ -93,9 +95,12 @@
 [^10]: A 2. § (1) bekezdés 22. pontja a 14/2015. (III. 31.) NFM rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^11]: A 2. § (1) bekezdés 23–25. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
 [^12]: A 2. § (1) bekezdés 31–32. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
-[^13]: A 2. § (1) bekezdés 34. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
-[^14]: A 2. § (1) bekezdés 40. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
-[^15]: A 2. § (1) bekezdés 43. pontját a 45/2013. (VIII. 7.) NFM rendelet 1. § (3) bekezdése iktatta be.
-[^16]: A 2. § (1) bekezdés 44. pontját a 2/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
-[^17]: A 2. § (1) bekezdés 45. pontját a 2/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
-[^18]: A 2. § (1) bekezdés 46. pontját a 74/2016. (XII. 29.) NFM rendelet 3. §-a iktatta be, szövege az 55/2017. (XII. 27.) NFM rendelet 29. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés 33. pontja az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
+[^14]: A 2. § (1) bekezdés 34. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^15]: A 2. § (1) bekezdés 35. pontja az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
+[^16]: A 2. § (1) bekezdés 40. pontját a 45/2013. (VIII. 7.) NFM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^17]: A 2. § (1) bekezdés 43. pontját a 45/2013. (VIII. 7.) NFM rendelet 1. § (3) bekezdése iktatta be.
+[^18]: A 2. § (1) bekezdés 44. pontját a 2/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
+[^19]: A 2. § (1) bekezdés 45. pontját a 2/2014. (I. 24.) NFM rendelet 1. §-a iktatta be.
+[^20]: A 2. § (1) bekezdés 46. pontját a 74/2016. (XII. 29.) NFM rendelet 3. §-a iktatta be, szövege az 1/2019. (I. 7.) ITM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^21]: A 2. § (1) bekezdés 47. pontját az 1/2019. (I. 7.) ITM rendelet 6. § (2) bekezdése iktatta be.

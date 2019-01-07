@@ -1,6 +1,6 @@
-35. §[^192] (1) A szakfelügyelet és az ellenőrzés lehet előre bejelentett és soron kívüli.
+35. §[^212] (1) A szakfelügyelet és az ellenőrzés lehet előre bejelentett és soron kívüli.
 
-(2) A szakfelügyelő és az ellenőrzést végző tapasztalatairól az érintett szakoktatót, a vizsgabiztost, az iskolavezetőt, valamint a közlekedési hatóságot tájékoztatja.
+(2)[^213] A szakfelügyelő és az ellenőrzést végző tapasztalatairól az érintett szakoktatót, a vizsgabiztost, az iskolavezetőt, valamint a vizsgaközpontot tájékoztatja.
 
 (3) A szakfelügyelő megállapításától függően javaslatot tehet
 
@@ -24,9 +24,11 @@ b) a képzést, ha a feltételek hiánya vagy a körülmények miatt a képzés 
 
 c) a vizsgát, ha a feltételek hiánya, a vizsgakörülmények, vagy a vizsgáztatás szabályainak megsértése miatt a vizsgázó teljesítménye objektív módon nem értékelhető.
 
-(5) Amennyiben a szakoktató ellenőrzése során az ellenőrzést végző szakmai, módszertani hiányosságot tapasztal, úgy a szakoktató felé történő jelzés mellett köteles a szakfelügyeletet végző közlekedési hatóság részére az előírt módon jelentést tenni.
+(5)[^214] Amennyiben a szakoktató ellenőrzése során az ellenőrzést végző szakmai, módszertani hiányosságot tapasztal, úgy a szakoktató felé történő jelzés mellett köteles a vizsgaközpont részére az előírt módon jelentést tenni.
 
-(6)[^193] A közlekedési hatóság által meghatározott módon a közúti járművezetők gyakorlati képzésének soron kívüli ellenőrzése és szakfelügyelete végezhető a közúti forgalomban történő megállítással is.
+(6)[^215] A közlekedési hatóság által meghatározott módon a közúti járművezetők gyakorlati képzésének soron kívüli ellenőrzése és szakfelügyelete végezhető a közúti forgalomban történő megállítással is.
 
-[^192]: A 35. § az 58/2011. (XI. 24.) NFM rendelet 35. §-ával megállapított szöveg.
-[^193]: A 35. § (5) bekezdését a 45/2013. (VIII. 7.) NFM rendelet 16. §-a iktatta be.
+[^212]: A 35. § az 58/2011. (XI. 24.) NFM rendelet 35. §-ával megállapított szöveg.
+[^213]: A 35. § (2) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 22. pontja szerint módosított szöveg.
+[^214]: A 35. § (5) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 23. pontja szerint módosított szöveg.
+[^215]: A 35. § (5) bekezdését a 45/2013. (VIII. 7.) NFM rendelet 16. §-a iktatta be.

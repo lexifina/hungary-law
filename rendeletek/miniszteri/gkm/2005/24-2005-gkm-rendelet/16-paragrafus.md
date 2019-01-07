@@ -1,6 +1,6 @@
-## A közlekedési hatóság eljárása és az általa végzett tevékenység[^102]
+## A közlekedési hatóság eljárása és az általa végzett tevékenység[^115]
 
-## 16. §[^103] A közlekedési hatóság
+## 16. §[^116] A közlekedési hatóság
 
 a) meghatározza:
 
@@ -20,7 +20,7 @@ ag) a vezetési kartont helyettesítő, a vezetési gyakorlat oktatása során a
 
 ah) a legalább az alapfokú iskolai végzettség igazolásával és ennek ügyvitelével kapcsolatos szabályokat,
 
-ai)[^104]
+ai)[^117]
 
 aj) a vizsga sikeres letételéhez szükséges ismereti szintet a vonatkozó jogszabályi előírások hiányában,
 
@@ -38,18 +38,18 @@ e) a szakoktatókról, az iskolavezetőkről, a vizsgabiztosokról és a képző
 
 ea) az engedélyezett tevékenységének végzése közben tanúsított magatartásával bűncselekményt vagy szabálysértést követett el,
 
-eb)[^105] olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta, vagy a vezetési kartont elveszítette,
+eb)[^118] olyan magatartást tanúsít, amely alkalmas arra, hogy a vizsga eredményét vagy az erről vezetett nyilvántartások ellenőrizhetőségét befolyásolja vagy a 13. § (5) bekezdése szerinti eljárása során a vizsga rendjét megzavarta, vagy a vezetési kartont elveszítette,
 
-ec)[^106] az iskolavezető cselekménye következtében a közlekedési hatóság a képző szerv tevékenységét véglegesen legalább 60 napra felfüggesztette,
+ec)[^119] az iskolavezető cselekménye következtében a közlekedési hatóság a képző szerv tevékenységét véglegesen legalább 60 napra felfüggesztette,
 
-ed)[^107] ha a kijelölt biztosító személy feladatainak ellátásán túlmenően a szakoktató a járművezetéssel járó gyakorlati oktatás és az azt követő vizsga során – ide nem értve az „AM”, az „A1”, az „A2”, az „A” és a „T” kategóriás gyakorlati oktatást és az azt követő vizsgát – nem tartózkodik a járműben,
+ed)[^120] ha a kijelölt biztosító személy feladatainak ellátásán túlmenően a szakoktató a járművezetéssel járó gyakorlati oktatás és az azt követő vizsga során – ide nem értve az „AM”, az „A1”, az „A2”, az „A” és a „T” kategóriás gyakorlati oktatást és az azt követő vizsgát – nem tartózkodik a járműben,
 
-f)[^108] meghatározza – a 12. számú melléklet 7. pontja és 13. számú melléklet 1.1. pontja szerinti – a szaktanfolyamon való részvétel alóli mentesítés feltételeit és módját.
+f)[^121] meghatározza – a 12. számú melléklet 7. pontja és 13. számú melléklet 1.1. pontja szerinti – a szaktanfolyamon való részvétel alóli mentesítés feltételeit és módját.
 
-[^102]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
-[^103]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
-[^104]: A 16. § a) pont ai) alpontját a 45/2013. (VIII. 7.) NFM rendelet 21. § c) pontja hatályon kívül helyezte.
-[^105]: A 16. § e) pont eb) alpontja a 14/2015. (III. 31.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
-[^106]: A 16. § e) pont ec) alpontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (1) bekezdése iktatta be, szövege az 55/2017. (XII. 27.) NFM rendelet 29. § b) pontja szerint módosított szöveg.
-[^107]: A 16. § e) pont ed) alpontját a 74/2016. (XII. 29.) NFM rendelet 8. §-a iktatta be.
-[^108]: A 16. § f) pontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (2) bekezdése iktatta be.
+[^115]: A 16. §-t megelőző alcím az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^116]: A 16. § az 58/2011. (XI. 24.) NFM rendelet 17. §-ával megállapított szöveg.
+[^117]: A 16. § a) pont ai) alpontját a 45/2013. (VIII. 7.) NFM rendelet 21. § c) pontja hatályon kívül helyezte.
+[^118]: A 16. § e) pont eb) alpontja a 14/2015. (III. 31.) NFM rendelet 10. § c) pontja szerint módosított szöveg.
+[^119]: A 16. § e) pont ec) alpontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (1) bekezdése iktatta be, szövege az 55/2017. (XII. 27.) NFM rendelet 29. § b) pontja szerint módosított szöveg.
+[^120]: A 16. § e) pont ed) alpontját a 74/2016. (XII. 29.) NFM rendelet 8. §-a iktatta be.
+[^121]: A 16. § f) pontját a 45/2013. (VIII. 7.) NFM rendelet 11. § (2) bekezdése iktatta be.
