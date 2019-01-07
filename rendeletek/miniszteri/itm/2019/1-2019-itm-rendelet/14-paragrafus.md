@@ -1,0 +1,1 @@
+## „(9) A rendelet előírásait, különösen 5. §-a, 8. § (1) és (3)–(5) bekezdése, 9. § (5), (7), (8)–(9) bekezdése, 12. §-a, 15. §-a, 27. § (2) bekezdése, 28. § (1) bekezdése, 34. § (1)–(2), (4)–(5) bekezdése, 35–37/A. §-a, 3. melléklet 3.2.2. és 3.2.3. pontja rendelkezéseit a szaktanfolyami képzésre és vizsgáztatásra is megfelelően alkalmazni kell.”
