@@ -1,3 +1,6 @@
-1. számú melléklet a 41/2004. (IV. 7.) GKM rendelethez[^14]
+## 12. §[^23] A rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^14]: Az 1. számú mellékletet az 55/2017. (XII. 27.) NFM rendelet 28. § c) pontja hatályon kívül helyezte.
+1. számú melléklet a 41/2004. (IV. 7.) GKM rendelethez[^24]
+
+[^23]: A 12. §-t az 1/2019. (I. 7.) ITM rendelet 3. §-a iktatta be.
+[^24]: Az 1. számú mellékletet az 55/2017. (XII. 27.) NFM rendelet 28. § c) pontja hatályon kívül helyezte.
