@@ -1,6 +1,6 @@
 3. melléklet a 25/2014. (IV. 30.) NFM rendelethez
 
-## A veszélyes áru szállítási biztonsági tanácsadói szaktanfolyam személyi és tárgyi feltételei
+A veszélyes áru szállítási biztonsági tanácsadói szaktanfolyam személyi és tárgyi feltételei
 
 1. Személyi feltételek
 

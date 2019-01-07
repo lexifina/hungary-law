@@ -2,7 +2,7 @@
 
 9. § (1) Az a tanácsadó, aki bizonyítványa érvényességét további közlekedési alágazatra vagy árucsoportra kívánja kiterjeszteni, a megfelelő szaktanfolyam elvégzését követően kiterjesztő vizsgát tehet.
 
-(2)[^2] A tanácsadónak a kiterjesztő vizsgán a következő vizsgatárgyakból kell vizsgát tennie:
+(2)[^4] A tanácsadónak a kiterjesztő vizsgán a következő vizsgatárgyakból kell vizsgát tennie:
 
 a) adott közlekedési alágazaton belüli árucsoportra történő kiterjesztés esetén speciális ismeretek tesztvizsga az árucsoportra, új árucsoportra vonatkozó esettanulmány és szóbeli vizsga az adott közlekedési alágazatra,
 
@@ -12,4 +12,4 @@ b) új közlekedési alágazatra történő kiterjesztés esetén speciális ism
 
 (4) A sikeres kiterjesztő vizsga a tanácsadó bizonyítványa hatályának időtartamát nem módosítja.
 
-[^2]: A 9. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 74. § (1) bekezdésével megállapított szöveg.
+[^4]: A 9. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 74. § (1) bekezdésével megállapított szöveg.

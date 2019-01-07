@@ -1,6 +1,6 @@
 2. melléklet a 25/2014. (IV. 30.) NFM rendelethez
 
-## A vizsga elemei és értékelésük
+A vizsga elemei és értékelésük
 
 1. A tesztvizsga:
 
