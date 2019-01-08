@@ -1,1 +1,3 @@
-## 17. § Az R3. 3. melléklete az 1. melléklet szerint módosul.
+18. §[^24]
+
+[^24]: A 16–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

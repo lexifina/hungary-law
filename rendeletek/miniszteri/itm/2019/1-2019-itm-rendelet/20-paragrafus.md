@@ -1,1 +1,3 @@
-## 19. § Az R3. 12. számú melléklete a 3. melléklet szerint módosul.
+20. §[^26]
+
+[^26]: A 16–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

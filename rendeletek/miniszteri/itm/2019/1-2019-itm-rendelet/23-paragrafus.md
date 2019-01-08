@@ -1,1 +1,3 @@
-## „(4) Vizsgára jelentkezés esetében a vizsgadíj a képző szerv útján a vizsgára való jelentkezésig fizetendő meg. A közúti közlekedési szakemberek vizsgáztatása esetén a vizsgaszervezésben közreműködő képző szerv a vizsga díjának 78%-ára, a vizsgáztatásért felelős vizsgaközpont a vizsga díjának 22%-ára jogosult. A Mellékletben meghatározott díj a vizsgaközpont (2) bekezdésben nevesített számlára történő átutaláson kívül készpénzben is megfizethető és a befizetett díj a vizsgaközpontot illeti. A vizsgaközpont számlájára befizetett díj 3%-ára az Innovációs és Technológiai Minisztérium jogosult, melynek továbbítását a vizsgaközpont a (2a) bekezdésben nevesített számlára történő átutalással teljesíti.”
+23. §[^29]
+
+[^29]: A 22–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 18. § Az R3. 8. melléklete a 2. melléklet szerint módosul.
+19. §[^25]
+
+[^25]: A 16–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

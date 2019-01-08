@@ -1,3 +1,3 @@
-## 8. § Az R3. 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+9. §[^9]
 
-## „(2) A közúti járművezetők vizsgáztatását a vizsgaközpont végzi. A vizsgát a vizsgaközpont szervezi. A vizsgára bejelentett tanuló (a továbbiakban: vizsgázó) vizsgáztatásában – a (3) bekezdésben foglaltak kivételével – a közlekedési hatóság vizsgabiztosi névjegyzékében szereplő, a vizsgaközpont által szakmai szempontok figyelembevételével vezényelt vizsgabiztos működik közre.”
+[^9]: A 6–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
