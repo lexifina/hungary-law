@@ -1,68 +1,4 @@
-## Kezdeményezés
-
-## ....................................................................................................................... (az elismerés megnevezése)
-
-## miniszteri elismerésre
-
-## A javasolt személy, szervezet vagy munkacsoport, közösség adatai:
-
-## Természetes személy esetén:
-
-## Név:
-
-## Születési név:
-
-## Elérhetőségei (telefon és e-mail):
-
-## Korábbi állami/szakmai elismerés megnevezése és időpontja:
-
-## Az elismerés átadásának javasolt időpontja:
-
-## Nem természetes személy esetén:
-
-## Név:
-
-## Székhely/telephely vagy bejegyzett cím:
-
-## Elérhetőségei (telefon és e-mail):
-
-## Képviselő:
-
-## Korábbi állami/szakmai elismerés megnevezése és időpontja:
-
-## Az elismerés átadásának javasolt időpontja:
-
-## Munkacsoport, közösség esetén:
-
-## Neve vagy azonosításra alkalmas megnevezése:
-
-## A munkacsoport, közösség működésének helye, intézménye vagy működési területe:
-
-## A munkacsoport, közösség vezetője, tagjai:
-
-## Elérhetőségei (telefon és e-mail):
-
-## Korábbi állami/szakmai elismerés megnevezése és időpontja:
-
-## Az elismerés átadásának javasolt időpontja:
-
-## Az átadáskor méltatásként elhangzó hivatalos rövid indokolás (egy-két mondat):
-
-## A szakmai tevékenységet, életutat bemutató – a javasolt személy korábbi és jelenlegi munkahelyeit, munkaköreit is tartalmazó – részletes indokolás külön lapon csatolandó (legfeljebb három oldal terjedelemben)!
-
-## Dátum
-
-| ...................................................... kezdeményező aláírása |
-
-## A kezdeményező adatai:
-
-## Név (tisztség):
-
-## Cím:
-
-## Elérhetőség (e-mail, telefon):
-
-4. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^32]
+4. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^88]
 
 Nyilatkozat
 
@@ -186,4 +122,4 @@ elismerésre jelölt aláírása**
 
 ** Hivatalos/jogi képviselő, ügyvezető, meghatalmazott stb., munkacsoport, munkaközösség esetén elfogadható a tagok felkérése vagy munkáltatói igazolás is.
 
-[^32]: A 4. melléklet a 3/2017. (III. 7.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^88]: A 4. melléklet a 3/2017. (III. 7.) EMMI rendelet 5. §-ával megállapított szöveg.
