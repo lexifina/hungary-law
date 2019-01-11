@@ -20,7 +20,7 @@ i) a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a me
 
 j) a családi gazdálkodókról vezetett nyilvántartásban szereplő adatokat,
 
-k) a jegyző által a helyi földbizottságról és annak tagjairól vezetett nyilvántartásban szereplő adatokat
+k)
 
 díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vonatkozó adatszolgáltatási formáktól, módoktól.
 

@@ -1,4 +1,4 @@
-37. § (1) A föld tulajdonjogának megszerzésére irányuló jogügylet jóváhagyására irányuló eljárásban a mezőgazdasági igazgatási szerv döntésének – az Ákr.-ben meghatározottakon túl – tartalmaznia kell a helyi földbizottság megnevezését, a helyi földbizottság elnökének nevét, a helyi földbizottság állásfoglalását, illetve állásfoglalásának kiadása hiányában ennek tényét.
+37. § (1)
 
 (2) A mezőgazdasági igazgatási szerv egyszerűsített döntést nem hozhat.
 

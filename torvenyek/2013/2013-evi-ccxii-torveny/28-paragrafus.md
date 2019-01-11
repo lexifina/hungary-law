@@ -4,13 +4,15 @@ a) a természetes személy ügyfél
 
 aa) természetes személyazonosító adatait,
 
-ab) állampolgárságát,
+ab) állampolgárságára vonatkozó adatot,
 
 ac) lakcímét,
 
 ad) személyi azonosítóját a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében,
 
 ae) adóazonosító jelét vagy adószámát,
+
+af) kamarai tagsági azonosító számát.
 
 b) a gazdálkodó szervezet
 
@@ -28,4 +30,4 @@ bf) vezető tisztségviselőjének, cégvezetőjének természetes személyazono
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdésben meghatározott adatokat a jogügylet hatósági jóváhagyásával és a szerzési korlátozások hatósági ellenőrzésével kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni.
 
-(3) A mezőgazdasági igazgatási szerv az általa kezelt (1) bekezdés szerinti adatokat az ingatlanügyi hatóság részére, valamint a 35. §-ban meghatározott módon, az (1) bekezdés szerinti adatok közül az ügyfél nevét vagy megnevezését, lakcímét vagy székhelyét és az állampolgárságra vonatkozó adatát a helyi földbizottság részére adhatja át.
+(3) A mezőgazdasági igazgatási szerv az általa kezelt (1) bekezdés szerinti adatokat az ingatlanügyi hatóság részére, valamint a 35. §-ban meghatározott módon, az (1) bekezdés szerinti adatok közül az ügyfél nevét vagy megnevezését, lakcímét vagy székhelyét és az állampolgárságra vonatkozó adatát, valamint kamarai tagsági azonosító számát a helyi földbizottság részére adhatja át.

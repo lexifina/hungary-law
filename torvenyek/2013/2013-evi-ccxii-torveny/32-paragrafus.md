@@ -12,7 +12,7 @@ a) a keletkezést tanúsító, illetőleg konstituáló bejegyzési határozat e
 
 b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt.
 
-(3) Ha a szerző fél nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a mezőgazdasági igazgatási szerv az adatokat hivatalból szerzi be. A mezőgazdasági igazgatási szerv az ingatlanügyi hatóságtól hivatalból szerzi be a tulajdonjog megszerzéséhez szükséges, illetve a jogügylet hatósági jóváhagyásához szükséges feltételek közül a Földforgalmi törvény 27. § (2) bekezdés b) pont bb) alpontjában foglaltak megállapításához szükséges adatokat.
+(3) Ha a szerző fél nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a mezőgazdasági igazgatási szerv az adatokat hivatalból szerzi be. A mezőgazdasági igazgatási szerv az ingatlanügyi hatóságtól hivatalból szerzi be a tulajdonjog megszerzéséhez szükséges, illetve a jogügylet hatósági jóváhagyásához szükséges feltételek közül a Földforgalmi törvény 27. § (2) bekezdés b) pont ba) alpontjában foglaltak megállapításához szükséges adatokat.
 
 (4) Ha a jogügylet jóváhagyásához szükséges adatokat a cégnyilvántartás, az egyéni vállalkozók nyilvántartása, továbbá a 29. § (1) bekezdésében meghatározott valamely nyilvántartás tartalmazza és ezen adatok a nyilvántartásban elektronikus formában állnak rendelkezésre, a mezőgazdasági igazgatási szerv azokat elektronikus úton, közvetlen lekérdezéssel szerzi be.
 

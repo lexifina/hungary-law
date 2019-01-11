@@ -33,3 +33,5 @@ bh) bélyegzőjének lenyomatát.
 (2) Ha a szerző fél tagja a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Kamara), akkor az (1) bekezdésben foglaltakon túl a tagsági azonosító számát is tartalmaznia kell a szerződésnek.
 
 (3) Az adás-vételi szerződésben rögzíteni kell azt is, hogy a vevő elővásárlásra jogosult-e. E jogosultság fennállása esetén meg kell jelölni a szerződésben azt is, hogy a jogosultság mely törvényen, és az ott meghatározott sorrend mely ranghelyén áll fenn. A szerződésen alapuló elővásárlási jog esetén ennek tényét kell rögzíteni az adás-vételi szerződésben.
+
+(4) Ha a szerző fél családi gazdálkodó, akkor az (1) bekezdésben foglaltakon túl a családi gazdaságot nyilvántartásba vevő hatóság megnevezését, valamint a családi gazdaság nyilvántartási számát is tartalmaznia kell a szerződésnek.

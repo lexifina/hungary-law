@@ -1,4 +1,4 @@
-95. § (1) A földhasználó a használatot annak megkezdésétől számított 30 napon belül köteles az ingatlanügyi hatósághoz nyilvántartásba vétel céljából bejelenteni, kivéve, ha a földhasználati nyilvántartásba vételi eljárás a 95/A. § (1) bekezdése szerint hivatalból indul meg. Ha a használat részesművelési szerződés alapján jött létre, a bejelentési kötelezettség a részesművelési szerződésben meghatározott, a szerződő felek közül kijelölt képviselőt terheli.
+95. § (1) A földhasználó a használatot annak megkezdésétől számított 30 napon belül köteles az ingatlanügyi hatósághoz nyilvántartásba vétel céljából bejelenteni, kivéve, ha a földhasználati nyilvántartásba vételi eljárás a 95/A. § (1) bekezdése szerint hivatalból indul meg.
 
 (2) Az (1) bekezdésben meghatározott földhasználati bejelentést az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) kell teljesíteni, amelyhez a (3) bekezdésben meghatározott okiratot kell csatolni, kivéve, ha a tulajdonos vagy a tulajdonosi joggyakorló szervezet, illetve az ingatlan-nyilvántartásba bejegyzett haszonélvezet vagy vagyonkezelői jog fennállása esetén a haszonélvező vagy a vagyonkezelő a földhasználó.
 
@@ -10,7 +10,7 @@ b) a hatósági jóváhagyáshoz nem kötött földhasználati szerződés eset�
 
 c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatározott használati megosztásról szóló megállapodás vagy többlethasználati megállapodás eredeti példányát vagy annak közjegyző által hitelesített másolatát, vagy a 76. §-ban meghatározott sorsolás eredményéről szóló jegyzőkönyv eredeti vagy hitelesített másolatát és az ezekhez – szükség esetén – csatolt térképi kimutatást.
 
-(4) A (3) bekezdés b) pontjában meghatározott esetben a földhasználó, részesművelés esetén a képviselő (e fejezet alkalmazásában a továbbiakban együtt: földhasználó) a bejelentési adatlapon köteles nyilatkozni arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
+(4) A (3) bekezdés b) pontjában meghatározott esetben a földhasználó a bejelentési adatlapon köteles nyilatkozni arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
 
 (5) A földhasználó a 94. § (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett, az e törvény végrehajtására kiadott rendeletben meghatározott változásokat – ideértve a használat megszűnését is – 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: változás-bejelentési adatlap).
 

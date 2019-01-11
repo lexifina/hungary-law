@@ -16,4 +16,4 @@ a csere birtok-összevonási célú földcserének minősül.
 
 (4) A csere alapján csak azt a szerződő felet illetik meg a birtok-összevonási célú földcseréhez külön jogszabályban megállapított adó-, illeték-, és más kedvezmények, amelyiknél az (1) bekezdés szerinti feltételek teljesülnek.
 
-(5) A Földforgalmi törvény 32. §-ának alkalmazása során, a csereszerződés jóváhagyása esetén nem kell megkeresni a helyi földbizottságot az állásfoglalásának beszerzése céljából.
+(5)

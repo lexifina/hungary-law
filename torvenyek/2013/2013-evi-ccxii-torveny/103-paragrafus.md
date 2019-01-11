@@ -1,3 +1,21 @@
-103. § (1) Ha a településen 2014. május 1-jéig a helyi földbizottság tagjainak megválasztására nem kerül sor vagy a megválasztott helyi földbizottság működésképtelen, a mezőgazdasági igazgatási szerv a föld tulajdonjoga megszerzésének a hatósági jóváhagyása iránti eljárásban a Kamarának a föld fekvése szerinti területi szervét keresi meg állásfoglalás kiadása céljából. A helyi földbizottság működésképtelen, ha a feladatainak ellátását a tagjainak megválasztásától számított 30 napon belül nem kezdi meg vagy 30 napot meghaladóan szünetelteti, illetve, ha a tagok száma a Földforgalmi törvény végrehajtására kiadott rendeletben meghatározott létszám alá csökken.
+103. § A helyi földbizottság állásfoglalása tartalmazza:
 
-(2) Az (1) bekezdés szerinti esetben a Földforgalmi törvény és e törvény alkalmazása során a helyi földbizottság alatt a Kamara területi szervét kell érteni. A jegyző a 102. § (1) bekezdése szerinti nyilvántartásban annak tényét tünteti fel, hogy a helyi földbizottság feladatait a Kamara látja el.
+a) az eljáró szervezet megnevezését,
+
+b) az érintett természetes személy személyazonosító adatait,
+
+c) az érintett földrészletek azonosítására szolgáló adatokat,
+
+d) az érintett fél vonatkozásában a szerződés létrejötte támogatásának vagy nem támogatásának kimondását,
+
+e) az indokolásban:
+
+ea) a megállapított tényállást,
+
+eb) az ügyfél által a helyi földbizottság felhívására a Földforgalmi törvény 24. § (3) bekezdésében foglaltakról szolgáltatott adatokat vagy az adatszolgáltatás hiányát,
+
+ec) az állásfoglalás kialakításánál figyelembe vett és az állásfoglalást alátámasztó szempontokat,
+
+ed) az ec) alpont szerinti szempontok kormányrendeletben előírt mérlegelésének eredményét,
+
+f) az állásfoglalás kiadásának dátumát, a kiadmányozó aláírását.

@@ -1,1 +1,1 @@
-103/C. § Ha a jegyző arról értesíti a fővárosi és megyei kormányhivatalt, hogy a 103/B. § (4) bekezdése szerinti felhívásban megszabott határidő eredménytelenül járt le, a fővárosi és megyei kormányhivatal felhívja a mezőgazdasági igazgatási szervet, hogy a 103. § (1) bekezdése szerint járjon el.
+### 103/C. §
