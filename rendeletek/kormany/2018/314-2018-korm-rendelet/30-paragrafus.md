@@ -1,0 +1,1 @@
+## „27. § E rendeletnek az ÁAFK Kr. 29. § (1) és (2) bekezdésével megállapított rendelkezéseit akkor kell alkalmazni, ha az adott szervezet vonatkozásában az ÁAFK Kr. 26. § (2) bekezdése az ÁAFK Kr. 5. §, 7. §, 8. § és 12–24. § rendelkezései alkalmazását elrendelte.”

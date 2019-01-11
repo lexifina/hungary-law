@@ -1,0 +1,13 @@
+## 14. Az ÁAFK igénybevétele alóli mentesítés
+
+24. § (1) A 21. § szerinti szakrendszerek fejlesztése vagy továbbfejlesztése vonatkozásában a miniszter az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel a bizottság javaslatának mérlegelését követően együtt dönt az 5. § (2) bekezdésében foglalt rendelkezés alóli mentességről. A miniszter és az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter eltérő álláspontja esetén – a miniszter haladéktalanul előterjesztett kérelmére – a Nemzetbiztonsági Kabinet hozza meg a döntést.
+
+(2) Ha a honvédelemért felelős miniszter vagy a polgári hírszerzési tevékenység irányításáért felelős miniszter nem ért egyet a miniszter és az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter – a honvédelmi és katonai nemzetbiztonsági célú információs szakrendszerek, illetve az Információs Hivatal nemzetbiztonsági célú információs szakrendszerei fejlesztésével, illetve továbbfejlesztésével kapcsolatosan – az (1) bekezdés alapján hozott döntésével, 30 napon belül, vagy legkésőbb a Nemzetbiztonsági Kabinet soron következő rendes ülésén kérheti annak felülvizsgálatát a Nemzetbiztonsági Kabinettől.
+
+(3) Nem alapozza meg az (1) bekezdés szerinti mentesség megállapítását önmagában az a körülmény, ha a 21. § szerinti szakrendszerben az éles üzemi működés során minősített, szenzitív vagy egyéb okból védett adatot kezelnek, dolgoznak fel, illetve mentenek vagy archiválnak, vagy ilyen adatokkal kapcsolatos feladatokat terveznek a fejlesztendő alkalmazás keretében ellátni.
+
+(4) A mentességre irányuló kérelmet a 21. § (1) és (2) bekezdésében szabályozott – továbbfejlesztési igény esetén a már működő, új szakrendszer esetén a fejlesztést igénylő – szakrendszer működtetője terjeszti elő a miniszternél.
+
+(5) A miniszter és az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter a mentességre irányuló kérelem előterjesztésétől számított 30, a Nemzetbiztonsági Kabinet a mentességre irányuló kérelem előterjesztésétől számított 60 napon belül hozza meg az (1) bekezdés szerinti döntését.
+
+(6) A miniszter és az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (1) bekezdés szerinti, vagy a Nemzetbiztonsági Kabinet (1) vagy (2) bekezdés alapján hozott döntésétől számított 5 napon belül a miniszter – ha a döntés értelmében a fejlesztés vagy a továbbfejlesztés az ÁAFK igénybevétele nélkül elvégezhető, akkor az 5. § (4) bekezdésének alkalmazásával – intézkedik a Felügyelet felé az alkalmazásfejlesztés megvalósítását támogató tanúsítvány kibocsátására.
