@@ -28,6 +28,6 @@ k) a háromezer hektárnál kisebb területű természetvédelem alatt álló te
 
 l) a vadászterület határának egyértelmű azonosíthatóságára, tartósságára és nyomon követhetőségére.
 
-(3) A vadászati hatóság a vadászterület legkisebb kiterjedésétől – a (4) bekezdésben foglalt eset kivételével – legfeljebb ötszáz hektárral eltérhet, amennyiben a kialakítandó vadászterületen a vadászati jog szakszerű gyakorlása, illetőleg hasznosítása egyébként biztosított.
+(3) A vadászati hatóság a vadászterület legkisebb kiterjedésétől legfeljebb ötszáz hektárral eltérhet, amennyiben a kialakítandó vadászterületen a vadászati jog szakszerű gyakorlása, illetőleg hasznosítása egyébként biztosított.
 
-(4) Különleges rendeltetésű vadászterület esetén az azt elrendelő határozat a vadászterület legkisebb kiterjedésétől korlátozás nélkül eltérhet, amennyiben a kialakítandó vadászterületen a vadászati jog szakszerű gyakorlása, illetőleg hasznosítása egyébként biztosított.
+(4)

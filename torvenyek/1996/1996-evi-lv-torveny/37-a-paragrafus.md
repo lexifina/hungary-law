@@ -12,7 +12,7 @@
 
 5. a működése vagy felhasználása körülményei folytán nem szelektív háló;
 
-6. elöltöltő fegyver használata nem egyéni vadászatra;
+6.
 
 7. az önműködő (automata) és öntöltő (félautomata) golyós lőfegyver;
 

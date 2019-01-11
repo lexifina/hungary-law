@@ -4,7 +4,7 @@
 
 (1a) A vizsgát megelőző tanfolyam szervezésére az e törvény végrehajtására kiadott rendeletben meghatározottak szerint a vadászati hatóság ad engedélyt.
 
-(2) A vizsga a vadászati jog gyakorlásával, hasznosításával, továbbá a természetvédelemmel kapcsolatos elméleti ismeretekből, valamint sörétes és golyós vadászlőfegyverekről szóló elméleti részből és gyakorlati vadászlövészetből áll.
+(2) A vizsga a vadászati jog gyakorlásával, hasznosításával, továbbá a természetvédelemmel kapcsolatos elméleti ismeretekből, valamint sörétes és golyós vadászlőfegyverekről szóló elméleti részből és – kivéve a kizárólag vadászíjjal, ragadozó madárral vagy magyar agárral vadászókat – gyakorlati vadászlövészetből áll.
 
 (2a) Az
 

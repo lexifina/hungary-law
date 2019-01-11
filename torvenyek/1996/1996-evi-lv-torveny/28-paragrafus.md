@@ -4,7 +4,7 @@
 
 ## Általános szabályok
 
-28. § (1) A vadászatra jogosult nem veszélyeztetheti a nem vadászható állatfajok, az élő szervezetek, valamint a vadászterületre meghatározott legkisebb vadlétszám fennmaradását.
+28. § (1) A vadászatra jogosult nem veszélyeztetheti a vadászható és nem vadászható állatfajok, valamint az egyéb élő szervezetek fennmaradását.
 
 (2) A vadászaton kívül a vad nyugalmát mindenki köteles megóvni. Tilos vadászaton kívül a vad fennmaradását bármilyen módon veszélyeztetni.
 

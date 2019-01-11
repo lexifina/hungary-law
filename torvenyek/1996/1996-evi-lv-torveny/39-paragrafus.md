@@ -10,4 +10,4 @@ c) a halastó vagy a természetes víz területét a lehalászás idejére.
 
 (2) Az emberi környezet nyugalma és közbiztonsága érdekében vadászati kíméleti területnek nyilvánítható az (1) bekezdésben foglaltak szerint a település környezetének meghatározott része.
 
-(3) A vadászati kíméleti területen a tilalom feloldásáig tilos vadászni. Közösségi jelentőségű vadászható vadfaj vonatkozásában a 38/A. § (1)–(3) bekezdésében foglaltak szerint, más vadfaj esetében ha a vadkár másként nem hárítható el, a vadászati hatóság a vadászati kíméleti területen is engedélyezheti a vadászatot.
+(3) A vadászati kíméleti területen a tilalom feloldásáig a kímélendő fajokra tilos vadászni. Közösségi jelentőségű vadászható vadfaj vonatkozásában a 38/A. § (1)–(3) bekezdésében foglaltak szerint, más vadfaj esetében ha a vadkár másként nem hárítható el, a vadászati hatóság a vadászati kíméleti területen is engedélyezheti a vadászatot.

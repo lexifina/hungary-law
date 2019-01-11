@@ -8,7 +8,7 @@
 
 1. vadászati idénytől függetlenül az olyan időpontban történő vadászat, amikor a vad menekülési lehetősége bármilyen természeti ok miatt jelentősen korlátozott;
 
-2. az elöltöltő fegyverrel történő társas vadászat.
+2.
 
 (4) A vadászterületen a vadász a vadállomány védelme érdekében – a vad elfogására, elejtésére megengedett vadászati eszközzel – elfoghatja vagy elejtheti, ha a tulajdonosának felderítésére nincs közvetlen lehetőség
 

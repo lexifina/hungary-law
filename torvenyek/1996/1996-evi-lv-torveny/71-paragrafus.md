@@ -50,7 +50,7 @@
 
 25. a gímszarvasra, a dámszarvasra, a muflonra, valamint – a 6. pontban meghatározott kivétellel – a vaddisznóra történő vadászat esetében a kétezer ötszáz joule-nál kisebb csőtorkolati energiájú vadászlőszer, őzre történő vadászat esetében az ezer joule-nál kisebb csőtorkolati energiájú vadászlőszer alkalmazása;
 
-26. mesterséges fényforrás, továbbá a fényszóró engedély nélküli használatával való vadászat;
+26.
 
 27. a teríték-nyilvántartásra vonatkozó szabályok megsértése.
 

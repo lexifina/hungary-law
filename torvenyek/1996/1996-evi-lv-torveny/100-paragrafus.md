@@ -26,7 +26,7 @@ c) rendeletben szabályozza
 
 5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait,
 
-6. a vadászjegyre és a vadászati engedélyre vonatkozó szabályokat,
+6. a vadászjegy és a vadászati engedély kiállítására, érvényesítésére, visszavonására, valamint az értük fizetendő költségtérítés mértékére vonatkozó szabályokat,
 
 7. a vadászkutya használatának, valamint vizsgáztatásának szabályait,
 
@@ -68,7 +68,7 @@ c) rendeletben szabályozza
 
 26. a vadgazdálkodási-vadászati, valamint vadhúsvizsgálói képzettségekre, képesítésekre vonatkozó szabályokat,
 
-27.
+27. az éjszakai vadászat rendjének különös szabályait,
 
 28.
 

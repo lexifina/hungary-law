@@ -2,7 +2,7 @@
 
 81. § (1) Vadkár, vadászati kár, valamint vadban okozott kár (e § alkalmazásában a továbbiakban együtt: kár) megtérítése iránti igényt a kár bekövetkezésétől, illetve észlelésétől számított tizenöt napon belül írásban kell közölni a kárért felelős személlyel.
 
-(2) Ha a károsult és a kárért felelős személy között az (1) bekezdés szerinti közléstől számított öt napon belül nem jön létre egyezség a kár megtérítéséről és a kártérítés mértékéről, és a károsult kárának megtérítését nem közvetlenül a bíróságtól kéri, a károsult a károkozás helye szerint illetékes települési önkormányzat jegyzőjétől (a továbbiakban: jegyző) öt napon belül írásban vagy szóban kérelmezheti a károsult és a kárért felelős személy közötti egyezség létrehozására irányuló kárfelmérési eljárás lefolytatását. A határidő elmulasztása esetén az általános közigazgatási rendtartásról szóló törvény szerinti igazolási kérelemnek van helye.
+(2) Ha a károsult és a kárért felelős személy között az (1) bekezdés szerinti közléstől számított öt napon belül nem jön létre egyezség a kár megtérítéséről és a kártérítés mértékéről, a károsult a károkozás helye szerint illetékes települési önkormányzat jegyzőjétől (a továbbiakban: jegyző) öt napon belül írásban vagy szóban kérelmezheti a károsult és a kárért felelős személy közötti egyezség létrehozására irányuló kárfelmérési eljárás lefolytatását. A határidő elmulasztása esetén az általános közigazgatási rendtartásról szóló törvény szerinti igazolási kérelemnek van helye.
 
 (3) A kár megállapítását a miniszter által rendeletben meghatározott képesítéssel rendelkező kárszakértő (a továbbiakban: szakértő) végezheti. A szakértőt a jegyző három munkanapon belül rendeli ki.
 
@@ -17,3 +17,5 @@
 (7) Ha a felek között nem jött létre egyezség vagy az nem hagyható jóvá, a jegyző az eljárást megszünteti.
 
 (8) A károsult az eljárást megszüntető végzés véglegessé válásától számított harminc napon belül kérheti a bíróságtól kárának megtérítését. A határidő elmulasztása jogvesztéssel jár.
+
+(9) Abban az esetben, ha a károsult kérésére a közjegyző előzetes bizonyítási eljárás keretében vadkár felmérés céljából szakértőt rendel ki, a szakértő a kárfelmérési eljárás megindításáról, valamint a helyszíni felmérés helyéről és időpontjáról köteles igazolható módon értesíteni a vadászatra jogosultat. A vadászatra jogosult a szakértő eljárásáról készülő jegyzőkönyvben foglaltakra jogosult észrevételeket tenni a kár tényével és mértékével összefüggésben. Ha a vadászatra jogosult képviselője a szakértő értesítése ellenére nem jelenik meg a kárfelmérési eljárás helyszínén, úgy ez az eljárás lefolytatását nem akadályozza.

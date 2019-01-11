@@ -10,7 +10,7 @@ d) ragadozó madárral történő vadászat esetén a ragadozó madárral való 
 
 e) elöltöltő fegyverrel történő vadászat esetén az elöltöltő fegyver vadászati célú használatára jogosító engedélyt,
 
-f) vadászíjjal történő vadászat esetén a vadászíjászatra feljogosító kiegészítő vizsga teljesítésének igazolását, és
+f)
 
 g) magyar agárral történő vadászat esetén az agarászatra feljogosító kiegészítő vizsga teljesítésének igazolását
 

@@ -1,6 +1,6 @@
 ## Vadaskert
 
-27/C. § (1) A vadaskert a vadászterület gímszarvas, dámszarvas, őz, muflon, valamint vaddisznó vadászati célú tartására, illetve tenyésztésére kerítéssel bekerített része. Vadaskertbe szabad vadászterületről, vagy zárttéri vadtartásból származó vad telepíthető, ha a telepítendő egyed fenotípusos megjelenése az adott vadfajra jellemző jegyeket hordozza. Nagyvad vadaskertbe történő kihelyezését a vadászati hatóság engedélyezi.
+27/C. § (1) A vadaskert a vadászterület gímszarvas, dámszarvas, őz, muflon, valamint vaddisznó vadászati célú tartására, illetve tenyésztésére kerítéssel bekerített része. Vadaskertbe szabad vadászterületről, vagy zárttéri vadtartásból származó vad telepíthető, ha a telepítendő egyed küllemi megjelenése az adott vadfajra jellemző jegyeket hordozza. Nagyvad vadaskertbe történő kihelyezését a vadászati hatóság engedélyezi.
 
 (2) A vadaskertben történő vadászat alkalmával e törvénynek – a vadaskert létesítését engedélyező határozatban szereplő nagyvadfajok esetén – a vadászati tilalmi időkre és a vadászterület vadeltartó képességére vonatkozó előírásait nem kell alkalmazni.
 

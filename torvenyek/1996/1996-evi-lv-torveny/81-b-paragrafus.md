@@ -2,7 +2,7 @@
 
 81/B. § (1) A vadászatra jogosult a vadkárért fizetendő kártérítés fedezete biztosítása érdekében elkülönített számlán pénzügyi alapot (a továbbiakban: vadkár alap) hoz létre.
 
-(2) A vadászatra jogosult az adott vadászati évet megelőző vadászati évben a vadászatra jogosult által a vadkárért kifizetett kártérítés mértékének megfelelő összeget a vadkár alapban a vadászati év novemberének 1. napjáig biztosítja.
+(2) A vadászatra jogosult az adott vadászati évet megelőző vadászati évben a vadászatra jogosult által a vadkárért kifizetett kártérítés mértékének megfelelő – az adott vadászati év október 31. napjáig vadkárért ténylegesen kifizetett összeggel csökkentett – összeget a vadkár alapban az adott vadászati év november 1. napjáig biztosítja.
 
 (3) A vadászatra jogosult a (2) bekezdés szerinti összeg befizetésének igazolását a vadászati hatóság részére a vadászati év november 15-ig megküldi.
 

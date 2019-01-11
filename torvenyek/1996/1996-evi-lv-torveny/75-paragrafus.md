@@ -18,4 +18,4 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 
 (4) Nem tekinthető vadkárnak, és így a vadkár számításánál nem vehető figyelembe a megújuló természeti erőforrásnak és nemzeti vagyonnak minősülő vadállomány életfeltételeinek kielégítésére szolgáló, a (2) bekezdés szerinti természetes önfenntartási érték.
 
-(5) A vadkár megtérítésére az köteles, aki a kárt okozó vadfajjal vadgazdálkodási tevékenységet folytat és annak vadászatára jogosult, valamint akinek vadászterületén a károkozás bekövetkezett, illetve akinek vadászterületéről a vad kiváltott.
+(5) A vadkár megtérítésére az köteles, aki a kárt okozó vadfajjal vadgazdálkodási tevékenységet folytat és annak vadászatára jogosult, valamint akinek vadászterületén a károkozás bekövetkezett.

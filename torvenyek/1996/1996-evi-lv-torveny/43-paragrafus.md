@@ -4,7 +4,7 @@ a) a vad élőhelyének általános jellemzését;
 
 b) az egyes vadfajok állományának leírását;
 
-c) a vadállomány-szabályozás irányelveit, az egyes vadfajok szerint fenntartandó legkisebb vadlétszámot (törzsállomány), valamint az élőhelyet még nem veszélyeztető legmagasabb vadlétszámot;
+c) a vadállomány-szabályozás irányelveit;
 
 d) a tájegységi trófeabírálat irányelveit;
 

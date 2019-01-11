@@ -10,7 +10,7 @@ c) éves vadgazdálkodási terv
 
 készítésével;
 
-d) Országos Vadgazdálkodási Adattár (a továbbiakban: Adattár) fenntartásával, valamint az abban foglalt egyes adatok kötelező felhasználásával
+d) az Adattár fenntartásával, valamint az abban foglalt egyes adatok kötelező felhasználásával
 
 kell biztosítani.
 

@@ -16,14 +16,18 @@ d) a miniszter által kijelölt további 1 személy.
 
 (5) Az Országos Trófeabíráló Testület működési feltételeit a miniszter biztosítja.
 
-(6) Az Országos Trófeabíráló Testület közigazgatási hatósági jogkörben
+(6) Az Országos Trófeabíráló Testület
 
-a) a vadászati hatóság trófeabírálati határozata tekintetében másodfokon eljár;
+a) elvégzi az e törvény végrehajtására kiadott rendeletben meghatározott nemzetközi ponthatárt elérő trófeák felülbírálatát,
 
-b) dönt a rendkívüli értékű trófea nemzeti értékké nyilvánításáról;
+b) gondoskodik a hazai szabadterületi és zárttéri trófearanglista elkülönített vezetéséről.
 
-c) gondoskodik a hazai trófea-ranglista – zárttéri vadtartó létesítményben elejtett trófeától elkülönített – vezetéséről,
+(7) A miniszter az Országos Trófeabíráló Testület szakmai javaslata alapján
 
-d) engedélyezi a nemzeti értékké nyilvánított trófea Magyarország területéről való kivitelét.
+a) hatósági bizonyítványt állít ki az e törvény végrehajtására kiadott rendeletben meghatározott nemzetközi ponthatárt elérő trófeák felülbírálati eredményéről,
 
-(7)
+b) a vadászati hatóság trófeabírálati határozata tekintetében másodfokon eljár,
+
+c) határozatot hoz a rendkívüli értékű trófea nemzeti értékké nyilvánításáról,
+
+d) határozatban engedélyezi a nemzeti értékké nyilvánított trófea Magyarország területéről való kivitelét.

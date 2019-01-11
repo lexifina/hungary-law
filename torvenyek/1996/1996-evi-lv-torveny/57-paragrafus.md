@@ -6,7 +6,7 @@
 
 (3) A vad jelölésének szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
-(4) A vadászatra jogosult a fenntartható vadgazdálkodás biztosítása érdekében érvényes vadászjeggyel és
+(4) A vadászatra jogosult a tartamos vadgazdálkodás biztosítása érdekében érvényes vadászjeggyel és
 
 a) legalább középfokú végzettséggel és 10 éves, e törvény végrehajtására kiadott rendeletben meghatározott vadgazdálkodási-vadászati gyakorlattal, vagy
 
