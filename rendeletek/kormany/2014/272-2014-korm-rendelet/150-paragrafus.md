@@ -1,13 +1,13 @@
 150. § (1) Az alapok alapját végrehajtó szervezet – a pénzügyi közvetítőkkel kötött finanszírozási megállapodásokban megfelelő kikötések érvényesítésével – biztosítja, hogy a programszámlán lévő források a lehető legrövidebb időn belül kifizetésre kerüljenek a pénzügyi közvetítők részére.
 
-(2)[^797] A pénzügyi eszköz keretében nyújtott forrásokat az 1303/2013/EU európai parlamenti és tanácsi rendelet 42. cikke szerint lehet felhasználni.
+(2)[^798] A pénzügyi eszköz keretében nyújtott forrásokat az 1303/2013/EU európai parlamenti és tanácsi rendelet 42. cikke szerint lehet felhasználni.
 
 (3) A programszámlára visszautalt forrást az alapok alapját végrehajtó szervezet a finanszírozási megállapodás feltételeinek megfelelően ismételten felhasználhatja.
 
-(4)[^798] A finanszírozási keretből lehívott összeget az irányító hatóság kizárólag a programszámlára fizetheti ki. A programszámlára átutalt összeget az alapok alapját végrehajtó szervezet kizárólag az irányító hatóság által jóváhagyott program szerinti finanszírozás céljából, a finanszírozási megállapodás rendelkezései szerint használhatja fel.
+(4)[^799] A finanszírozási keretből lehívott összeget az irányító hatóság kizárólag a programszámlára fizetheti ki. A programszámlára átutalt összeget az alapok alapját végrehajtó szervezet kizárólag az irányító hatóság által jóváhagyott program szerinti finanszírozás céljából, a finanszírozási megállapodás rendelkezései szerint használhatja fel.
 
-(5)[^799] Az irányító hatóság az alapok alapját végrehajtó szervezet által vállalt kötelezettség teljes összege fedezetének megfelelő összeget a program előrehaladásának megfelelő ütemben az alapok alapját végrehajtó szervezet által benyújtott lehívási értesítés alapján a megfelelő programszámlára kifizeti és azon tartja, kivéve ha forrást más programra átcsoportosít. A kötelezettségvállalás fedezetéül szolgáló programszámla felett az alapok alapját végrehajtó szervezet szabadon rendelkezhet a finanszírozási megállapodás rendelkezései szerint.
+(5)[^800] Az irányító hatóság az alapok alapját végrehajtó szervezet által vállalt kötelezettség teljes összege fedezetének megfelelő összeget a program előrehaladásának megfelelő ütemben az alapok alapját végrehajtó szervezet által benyújtott lehívási értesítés alapján a megfelelő programszámlára kifizeti és azon tartja, kivéve ha forrást más programra átcsoportosít. A kötelezettségvállalás fedezetéül szolgáló programszámla felett az alapok alapját végrehajtó szervezet szabadon rendelkezhet a finanszírozási megállapodás rendelkezései szerint.
 
-[^797]: A 150. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 175. pontja, az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^798]: A 150. § (4) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^799]: A 150. § (5) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 52. pontja, 46. § 12. pontja szerint módosított szöveg.
+[^798]: A 150. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 175. pontja, az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^799]: A 150. § (4) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^800]: A 150. § (5) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 52. pontja, 46. § 12. pontja szerint módosított szöveg.

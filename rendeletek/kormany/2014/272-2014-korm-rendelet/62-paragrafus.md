@@ -1,4 +1,4 @@
-## 61/A. §[^352] A közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet (a továbbiakban: Közbesz. R.) 4. § (2) bekezdése szerinti informatikai eszközök és szolgáltatások fejlesztésére, valamint üzemeltetésére vonatkozó támogatási kérelem esetén, ha a támogatást igénylő, illetve kedvezményezett a Közbesz. R. 1. mellékletében szerepel, az irányító hatóság a támogatási kérelem elbírálása során az e-közigazgatásért felelős miniszternek véleményezési jogot biztosít.
+## az irányító hatóság véleményezési jogot biztosít a támogatási kérelem elbírálása során.
 
 62. §[^353] (1) Az értékelésben és a támogatási döntés előkészítésében részt vevőket a támogatást igénylő támogatási döntésről történő tájékoztatása időpontjáig titoktartási kötelezettség terheli. A titoktartási kötelezettség nem terjed ki a benyújtott támogatási kérelemnek a projekt-kiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
 
@@ -18,7 +18,6 @@ f)[^354] mikro-, kis- és középvállalkozások számára is nyitva álló, sta
 
 (3)[^355] A (2) bekezdés f) pontját akként kell alkalmazni, hogy a pénzügyi korrekciót eredményezett szabálytalanságokat pontszámot csökkentő tényezőként kell figyelembe venni.
 
-[^352]: A 61/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 323/2015. (X. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 17. §-a alapján a 2015. november 1. után megkezdett közbeszerzési eljárásokra kell alkalmazni.
 [^353]: A 62. § a 144/2015. (VI. 12.) Korm. rendelet 33. §-ával megállapított szöveg.
 [^354]: A 62. § (2) bekezdés f) pontját a 98/2016. (V. 13.) Korm. rendelet 21. § (1) bekezdése iktatta be.
 [^355]: A 62. § (3) bekezdését a 98/2016. (V. 13.) Korm. rendelet 21. § (2) bekezdése iktatta be.

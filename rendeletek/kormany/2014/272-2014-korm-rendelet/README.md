@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2018-06-17 | 2014-272-20-22.46 | 247/2016. (VIII. 17.) Korm. rendelet |
 | 2018-09-08 | 2014-272-20-22.47 | 160/2018. (IX. 7.) Korm. rendelet |
 | 2018-12-28 | 2014-272-20-22.48 | 310/2018. (XII. 27.) Korm. rendelet |
+| 2019-01-11 | 2014-272-20-22.49 | 314/2018. (XII. 27.) Korm. rendelet |
