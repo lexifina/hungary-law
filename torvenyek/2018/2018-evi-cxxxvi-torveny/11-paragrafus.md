@@ -1,0 +1,3 @@
+11. § Az Ftv. a következő 32/A. §-sal egészül ki:
+
+„32/A. § Csere esetében a helyi földbizottság állásfoglalását a 24. és 27. §-ban foglaltak megfelelő alkalmazásával adja ki azzal, hogy vizsgálja, hogy a föld cseréje esetén mennyiben szolgálja legalább az egyik szerződő félnél a birtokösszevonást.”
