@@ -88,6 +88,10 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 2. | Büntetőeljárási ügyviteli nyilvántartási rendszer | szakrendszer |
 
+| 2. | Állami Alkalmazás-katalógus | központi rendszer |
+
+| 3. | Állami Alkalmazás-fejlesztési Környezet | központi rendszer |
+
 | 3. | Elektronikus modus operandi rendszer (kriminalisztikai nyilvántartás) | szakrendszer |
 
 | 4. | A rendvédelmi szervek feladatkörébe utalt közhatalmi díj- és szankciójellegű bevételek kezelését támogató pénzügyi analitikus nyilvántartás | szakrendszer |
@@ -172,4 +176,4 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 44. | Ideiglenes Rendszámtáblák Nyilvántartásának rendszere | szakrendszer |
 
-[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 252/2018. (XII. 17.) Korm. rendelet 9. §-a, a 290/2018. (XII. 21.) Korm. rendelet 4. §-a szerint szerint módosított szöveg. Alkalmazására lásd a 252/2018. (VI. 25.) Korm. rendelet 7. §-át.
+[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 252/2018. (XII. 17.) Korm. rendelet 9. §-a, a 290/2018. (XII. 21.) Korm. rendelet 4. §-a, a 314/2018. (XII. 27.) Korm. rendelet 31. §-a szerint módosított szöveg. Alkalmazására lásd a 252/2018. (VI. 25.) Korm. rendelet 7. §-át, valamint a 314/2018. (XII. 27.) Korm. rendelet 26. §-át.
