@@ -1,4 +1,4 @@
-21. § (1) Az NFA a földrendező és a földkiadó bizottságokról szóló törvényben foglalt esetben a részarány-tulajdonos részére – a részarány-tulajdonnak megfelelő aranykorona érték erejéig – földrészletet ajánl fel. A részarány-tulajdonos a felajánlott földrészlet tulajdonjogát a mezőgazdasági igazgatási szerv jogerős határozata alapján szerzi meg.
+21. § (1) Az NFA a földrendező és a földkiadó bizottságokról szóló törvényben foglalt esetben a részarány-tulajdonos részére – a részarány-tulajdonnak megfelelő aranykorona érték erejéig – földrészletet ajánl fel. A részarány-tulajdonos a felajánlott földrészlet tulajdonjogát a mezőgazdasági igazgatási szerv véglegessé vált határozata alapján szerzi meg.
 
 (2) Az NFA telekalakítás végrehajtásához szükséges tulajdonjogi változást eredményező szerződést köthet.
 

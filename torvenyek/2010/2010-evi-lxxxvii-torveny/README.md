@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2017-07-01 | 2016. évi CIV. törvény | 2010-87-00-00.28 |
 | 2017-12-19 | 2017. évi CXCV. törvény | 2010-87-00-00.29 |
 | 2018-01-01 | 2017. évi L. törvény | 2010-87-00-00.30 |
+| 2019-01-11 | 2018. évi CXXXVI. törvény | 2010-87-00-00.31 |
