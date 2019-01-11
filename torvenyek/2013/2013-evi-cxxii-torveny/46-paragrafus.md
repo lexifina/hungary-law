@@ -16,11 +16,19 @@ g) az olyan mezőgazdasági termelőszervezetet, amelynek a mezőgazdasági üze
 
 (2) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányadának megfelelő területnek harmadik személy javára történő haszonbérbe adása esetén az (1) bekezdés b)–g) pontjában meghatározott előhaszonbérletre jogosultakat – az előhaszonbérletre jogosultak sorrendjében – megelőzi a földműves tulajdonostárs.
 
-(3) Az (1) bekezdés a)–g) pontjában, valamint a (2) bekezdésben meghatározott előhaszonbérletre jogosultakat – az előhaszonbérletre jogosultak sorrendjében – megelőzi
+(3) Az (1) bekezdés a) pontjával megegyező ranghelyen illeti meg előhaszonbérleti jog
 
-a) a szántó, rét, legelő (gyep), vagy fásított terület művelési ágban nyilvántartott föld haszonbérbe adása esetén az a helyben lakó földműves, vagy helybeli illetőségű mezőgazdasági termelőszervezet, aki, vagy amely a föld fekvése szerinti településen az előhaszonbérleti joga gyakorlását megelőzően legalább 1 éve állattartó telepet üzemeltet, és a haszonbérlet célja az állattartáshoz szükséges takarmány-előállítás biztosítása;
+a) a föld fekvése szerinti településen az előhaszonbérleti joga gyakorlását megelőzően legalább 3 éve állattartó telepet üzemeltető azon helyben lakó földművest vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki, illetve amely haszonbérletének a célja az állattartáshoz szükséges és azzal arányban álló takarmányszükséglet biztosítása és rendelkezik az e törvény végrehajtására kiadott rendeletben meghatározott állatsűrűséggel
 
-b) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld haszonbérbe adása esetén az a helyben lakó földműves, vagy helybeli illetőségű mezőgazdasági termelőszervezet, aki számára a haszonbérlet célja földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása, vagy ökológiai gazdálkodás folytatása.
+aa) rét, legelő (gyep), vagy fásított terület művelési ágban nyilvántartott föld haszonbérbe adása esetén szarvasmarhafélék, ló, szamár, öszvér, juh, kecske vagy méh állatfajok vonatkozásában,
+
+ab) szántó művelési ágban nyilvántartott föld haszonbérbe adása esetén az aa) alpontban fel nem sorolt állatfajok, valamint tejhasznú szarvasmarha vonatkozásában, továbbá nyilvántartásba vett takarmány-vállalkozásnak minősül;
+
+b) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása, vagy ökológiai gazdálkodás folytatása;
+
+c) kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja kertészeti tevékenység folytatásához szükséges terület biztosítása;
+
+d) szántó művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja szaporítóanyag-előállításhoz szükséges terület biztosítása.
 
 (4) Az (1) bekezdés b)–d) pontjában, valamint a (2)–(3) bekezdésben meghatározott földműves jogosulti csoportokon belül az előhaszonbérletre jogosultak sorrendje a következő
 

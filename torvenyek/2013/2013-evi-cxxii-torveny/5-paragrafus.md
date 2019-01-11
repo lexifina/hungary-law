@@ -24,7 +24,7 @@ b) a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgaz
 
 9. helyben lakó: az a természetes személy, akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen van, amelynek közigazgatási területén az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező föld fekszik;
 
-10. helyben lakó szomszéd: az a helyben lakó, akinek a tulajdonában vagy használatában lévő föld szomszédos az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező földdel;
+10. helyben lakó szomszéd: az a helyben lakó, vagy az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező föld fekvése szerinti településsel szomszédos település vonatkozásában helyben lakó, akinek a tulajdonában vagy használatában lévő föld szomszédos az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező földdel;
 
 11. helybeli illetőségű: az a jogi személy, illetve jogi személyiséggel nem rendelkező más szervezet, amelynek mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási területén a haszonbérleti szerződés tárgyát képező föld fekszik;
 

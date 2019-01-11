@@ -14,14 +14,12 @@ e) a záradékolás dátumát és a mezőgazdasági igazgatási szerv bélyegző
 
 (3) Ha a mezőgazdasági igazgatási szerv a 27. §-ban foglaltak alapján az adás-vételi szerződés jóváhagyását megtagadja, erről a 27. §
 
-a) (1) bekezdés a) pont aa) alpontjában foglalt esetben a helyi földbizottság állásfoglalásának beérkezése napját követő naptól számított 8 napon;
+a) (1) bekezdés a) pontjában foglalt esetben a helyi földbizottság állásfoglalásának beérkezése napját követő naptól számított 8 napon;
 
-b) (1) bekezdés a) pont ab) alpontjában meghatározott esetben a 26. §-ban meghatározott 15 napos határidő lejártát követő naptól számított 8 napon;
-
-c) (2) bekezdésében meghatározott esetben a helyi földbizottság állásfoglalásának beérkezése napját követő naptól számított 15 napon
+b) (2) bekezdésében meghatározott esetben a helyi földbizottság állásfoglalásának beérkezése napját követő naptól számított 15 napon
 
 belül döntést hoz.
 
-(4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli az eladóval, az adás-vételi szerződés szerinti vevővel, valamint azokkal az elővásárlásra jogosultakkal, akik az adás-vételi szerződésre elfogadó jognyilatkozatot tettek, továbbá a helyi földbizottsággal. A helyi földbizottság a 23. § (5) és (6) bekezdés alapján a részére megküldött okiratokat a döntés közlését követő 5 napon belül köteles a mezőgazdasági igazgatási szervnek visszaküldeni.
+(4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli az eladóval, az adás-vételi szerződés szerinti vevővel, valamint azokkal az elővásárlásra jogosultakkal, akik az adás-vételi szerződésre elfogadó jognyilatkozatot tettek, továbbá a helyi földbizottsággal.
 
-(5) A mezőgazdasági igazgatási szerv döntésével szemben jogorvoslatként csak a döntés bírósági felülvizsgálata kezdeményezhető.
+(5) A mezőgazdasági igazgatási szerv döntésével szemben fellebbezésnek nincs helye. A közigazgatási perben a bíróság a mezőgazdasági igazgatási szerv döntését nem változtathatja meg.

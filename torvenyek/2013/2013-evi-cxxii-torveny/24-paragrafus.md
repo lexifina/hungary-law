@@ -1,17 +1,31 @@
-24. § (1) A helyi földbizottság – a mezőgazdasági igazgatási szerv megkeresésének a beérkezésétől számított – 15 napon belül adja ki az adás-vételi szerződés jóváhagyásának megtagadásához, vagy a jóváhagyás megadásához szükséges állásfoglalását.
+24. § (1) A helyi földbizottság a feladatkörébe tartozó ügyben a mezőgazdasági igazgatási szerv megkeresésének beérkezésétől számított 30 napon belül adja ki az állásfoglalását.
 
-(2) A helyi földbizottság az adás-vételi szerződést a köztudomású tények és legjobb ismeretei alapján, különösen a következő szempontok szerint értékeli:
+(2) A helyi földbizottság az adás-vételi szerződést és a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozatát a köztudomású tények és legjobb ismeretei, valamint a (3) bekezdésben foglaltak szerint beszerzett információk együttes – kormányrendeletben meghatározott módon történő – mérlegelése alapján a 23/A. § (1) bekezdésében meghatározott szempontoknak való megfelelés vonatkozásában értékeli és támogatja vagy nem támogatja.
 
-a) az adás-vételi szerződés alkalmas-e a tulajdonszerzési korlátozás megkerülésére;
+(3) Az adásvételi szerződésnek a 23/A. § (1) bekezdésében meghatározott szempontoknak való megfelelése értékelésének során figyelembe kell venni
 
-b) megállapítható-e, hogy a felek már e törvény hatálybalépése előtt megállapodtak a tulajdonjog átruházásában, de az adás-vételi szerződést csak a jelen eljárás keretében léptetnék egyikük nyilatkozatával, illetve harmadik személy jognyilatkozatának megtételével hatályba;
+a) a vevő vagy a jegyzékben szereplő elővásárlásra jogosult és közeli hozzátartozói tulajdonában, használatában a föld fekvése szerinti településen, vagy annak közigazgatási határától számított húsz kilométeres körzetén belül hány darab, mekkora térmértékű, művelési ágú és aranykorona értékű föld található és azok hol helyezkednek el;
 
-c) az adás-vételi szerződés jóváhagyása esetén az adás-vételi szerződés szerinti vevő, illetve a jegyzék szerinti, az első helyen álló elővásárlásra jogosult, vagy ha több elővásárlásra jogosult áll az első helyen, akkor valamennyi első helyen álló elvásárlásra jogosult
+b) a föld fekvése szerinti településen, vagy annak közigazgatási határától számított húsz kilométeres körzetén belül az a mezőgazdasági termelőszervezet, amelyben a vevő, a jegyzékben szereplő elővásárlásra jogosult vagy ezen személyek közeli hozzátartozója tulajdoni részesedéssel rendelkezik, mekkora térmértékű és aranykorona értékű földterület használója;
 
-ca) alkalmas-e az adás-vételi szerződés és a 13. §-ban, illetve a 15. §-ban meghatározott kötelezettségvállalások teljesítésére,
+c) a vevő vagy a jegyzékben szereplő elővásárlásra jogosult az adásvételi szerződést megelőző három éven belül kötöttek-e közeli hozzátartozójukkal földre vonatkozó jogügyletet, és ezen föld kinek a használatában áll;
 
-cb) elnyer-e olyan jogi helyzetet, amelynek révén a jövőben az elővásárlási jogát visszaélésszerűen gyakorolhatja, vagy
+d) a vevő vagy a jegyzékben szereplő elővásárlásra jogosult az adásvételi szerződés megkötését megelőző öt évben tett-e a föld fekvése szerinti településen, vagy annak közigazgatási határától számított húsz kilométeres körzetén belül található földre elővásárlóként elfogadó nyilatkozatot, de a jogügylet a szerződésszegése miatt nem ment teljesedésbe;
 
-cc) indokolható gazdasági szükséglet nélkül, felhalmozási célból szerezné meg a föld tulajdonjogát;
+e) a föld adás-vétele mennyiben szolgálja a fiatal földműves, a pályakezdő gazdálkodó gazdaságátadással összefüggő tulajdonszerzését;
 
-d) az ellenérték a föld forgalmi értékével arányban áll-e, s ha nem, az aránytalansággal a vevő elővásárlásra jogosultat tartott távol az elővásárlási jogának gyakorlásától.
+f) az elővásárlásra jogosult rendszeresen elfogadó jognyilatkozatot tesz-e olyan földre, amelyre elővásárlási joga fennáll, anélkül, hogy annak megszerzését gazdaságának mérete indokolná;
+
+g) az adás-vételi szerződés szerinti vevő, illetve a jegyzék szerinti elővásárlásra jogosultak tulajdonában álló földek birtokmérete
+
+ga) között nagyságrendbeli különbözőség áll fenn,
+
+gb) és a település üzemeinek átlagos mérete között nagyságrendbeli különbözőség áll fenn;
+
+h) a földnek az ügylet szerinti ellenértéke alapos indok nélkül ne haladja meg
+
+ha) erdőnek nem minősülő föld esetén a földnek – indexálással meghatározott – 20 éves termelési időszakra számított jövedelemtermelő képességét,
+
+hb) erdőnek minősülő föld esetében a földnek 50 éves termelési ciklusra számított jövedelemtermelő képességét azzal, hogy az erdőtalaj és a faállomány értékét együttesen kell megállapítani, amelynek során az erdőtalaj értékét az erdő örökös járadékából, míg a faállomány értékét a potenciális véghasználatból levezetett jelenérték szerint kell kiszámítani,
+
+továbbá a földön létesített ültetvény vagy felépítmény értékét nettó pótlásiköltség alapú értékbecsléssel kell megállapítani.

@@ -1,1 +1,1 @@
-26. § Ha a helyi földbizottság a 24. § (1) bekezdésében meghatározott határidőn belül az állásfoglalását nem adja ki, a mezőgazdasági igazgatási szerv egy alkalommal – újabb 15 napos határidő kitűzésével – felhívja az állásfoglalásának kiadására.
+### 26. §

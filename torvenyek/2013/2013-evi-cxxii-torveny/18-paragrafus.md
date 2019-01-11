@@ -18,11 +18,19 @@ d) az olyan földművest, aki helyben lakónak minősül;
 
 e) az olyan földművest, akinek a lakóhelye vagy a mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási határa az adás-vétel tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra van.
 
-(2) Az (1) bekezdés c)–e) pontjában meghatározott földművest – az elővásárlásra jogosultak sorrendjében – megelőzi
+(2) Az (1) bekezdés d)–e) pontjában meghatározott földművest – az elővásárlásra jogosultak sorrendjében – megelőzi
 
-a) a szántó, rét, legelő (gyep), vagy fásított terület művelési ágban nyilvántartott föld eladása esetén az a földműves, aki a föld fekvése szerinti településen az elővásárlási joga gyakorlását megelőzően legalább 1 éve állattartó telepet üzemeltet, és a tulajdonszerzésének a célja az állattartáshoz szükséges takarmány-előállítás biztosítása;
+a) a föld fekvése szerinti településen az elővásárlási joga gyakorlását megelőzően legalább 3 éve állattartó telepet üzemeltető azon helyben lakó földműves, aki tulajdonszerzésének a célja az állattartáshoz szükséges és azzal arányban álló takarmányszükséglet biztosítása és rendelkezik az e törvény végrehajtására kiadott rendeletben meghatározott állatsűrűséggel
 
-b) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld eladása esetén az a földműves, aki számára a tulajdonszerzés célja földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása, vagy ökológiai gazdálkodás folytatása.
+aa) rét, legelő (gyep), vagy fásított terület művelési ágban nyilvántartott föld eladása esetén szarvasmarhafélék, ló, szamár, öszvér, juh, kecske vagy méh állatfajok vonatkozásában,
+
+ab) szántó művelési ágban nyilvántartott föld eladása esetén az aa) alpontban fel nem sorolt állatfajok, valamint tejhasznú szarvasmarha vonatkozásában, továbbá nyilvántartásba vett takarmány-vállalkozásnak minősül;
+
+b) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld eladása esetén az a földműves, aki számára a tulajdonszerzés célja földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása, vagy ökológiai gazdálkodás folytatása;
+
+c) a kert, szőlő vagy gyümölcsös művelési ágban nyilvántartott föld eladása esetén az a helyben lakó földműves, aki számára a tulajdonszerzés célja kertészeti tevékenység folytatásához szükséges terület biztosítása;
+
+d) a szántó művelési ágban nyilvántartott terület eladása esetén az a helyben lakó földműves, aki számára a tulajdonszerzés célja vetőmagelőállításhoz szükséges terület biztosítása.
 
 (3) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányadának harmadik személy javára történő eladása esetében az (1) bekezdés b)–e) pontjában, valamint a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – megelőzi a földműves tulajdonostárs.
 

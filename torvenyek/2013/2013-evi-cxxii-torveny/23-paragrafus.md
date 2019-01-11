@@ -18,7 +18,7 @@ cd) az elővásárlásra jogosulttól származik, de nem tartalmazza az elővás
 
 (2) A mezőgazdasági igazgatási szerv – az (1) bekezdésben foglaltakon túl – az okiratok beérkezésétől számított 15 napon belül döntést hoz az adás-vételi szerződés jóváhagyásának a megtagadásáról akkor is, ha a jegyző által megküldött okiratok alapján megállapítja az elővásárlási jog gyakorlására vonatkozó eljárási szabályok megsértését.
 
-(3) Ha az (1) és a (2) bekezdésben meghatározott előzetes vizsgálat eredményeként a mezőgazdasági igazgatási szerv nem tagadja meg az adás-vételi szerződés jóváhagyását, és több elővásárlásra jogosult nyújtott be elfogadó jognyilatkozatot, a mezőgazdasági igazgatási szerv – a (4) bekezdésben meghatározott eset kivételével – az elővásárlásra jogosultakat a törvény által meghatározott sorrend alapján rangsorolja, és arról jegyzéket készít.
+(3) Ha az (1) és a (2) bekezdésben meghatározott előzetes vizsgálat eredményeként a mezőgazdasági igazgatási szerv nem tagadja meg az adás-vételi szerződés jóváhagyását, és több elővásárlásra jogosult nyújtott be elfogadó jognyilatkozatot, a mezőgazdasági igazgatási szerv – a (4) bekezdésben meghatározott eset kivételével – az elővásárlásra jogosultakat és az adás-vételi szerződés szerinti vevőt a törvény által meghatározott sorrend alapján rangsorolja, és arról jegyzéket készít.
 
 (4) A mezőgazdasági igazgatási szerv nem készít az elővásárlásra jogosultak rangsoráról szóló jegyzéket (a továbbiakban: jegyzék), ha megállapítja, hogy a hirdetményi úton közölt adás-vételi szerződésre
 
