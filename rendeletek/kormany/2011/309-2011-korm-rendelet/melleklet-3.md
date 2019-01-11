@@ -118,7 +118,11 @@
 
 58. Független Rendészeti Panasztestület eljárást támogató rendszer
 
+58.[^28] Állami Alkalmazás-katalógus
+
 59. Határrendészeti, határellenőrzési és idegenrendészeti eljárást támogató ügyviteli nyilvántartási rendszer
+
+59.[^29] Állami Alkalmazás-fejlesztési Környezet
 
 60. Határrendészeti, igazgatásrendészeti, idegenrendészeti, közrendvédelmi, közlekedésrendészeti egységes rendészeti statisztika
 
@@ -199,3 +203,5 @@
 98. Elektronikus ügyintézést támogató IKR rendszer
 
 [^27]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 290/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^28]: A 3. melléklet második 58. pontját a 314/2018. (XII. 27.) Korm. rendelet 30. §-a iktatta be. Alkalmazására lásd a 26. §-t.
+[^29]: A 3. melléklet második 59. pontját a 314/2018. (XII. 27.) Korm. rendelet 31. §-a iktatta be. Alkalmazására lásd a 26. §-t.
