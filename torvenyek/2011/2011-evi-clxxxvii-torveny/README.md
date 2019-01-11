@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-187-00-00
 | 2018-05-18 | 2018. évi V. törvény | 2011-187-00-00.23 |
 | 2018-07-01 | 2017. évi CXCII. törvény | 2011-187-00-00.24 |
 | 2019-01-01 | 2018. évi CIV. törvény | 2011-187-00-00.25 |
+| 2019-01-11 | 2018. évi CXXXVII. törvény | 2011-187-00-00.26 |
