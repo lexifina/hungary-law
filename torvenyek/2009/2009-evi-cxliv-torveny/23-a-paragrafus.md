@@ -12,7 +12,7 @@
 
 (6) A közgyűlés időpontját, helyét és napirendjét tartalmazó értesítést minden tagnak a közgyűlés megtartására kitűzött időpontot legalább 15 nappal megelőzően meg kell küldeni és a helyben szokásos módon közzé kell tenni.
 
-(7) A tagot a közgyűlésen – két tanú által aláírt – írásbeli meghatalmazással ellátott személy is képviselheti. Egy képviselő legfeljebb száz tagot képviselhet.
+(7) A tagot a közgyűlésen – két tanú által aláírt – írásbeli meghatalmazással ellátott személy is képviselheti. Egy képviselő legfeljebb öt tagot képviselhet.
 
 (8) A közgyűlés határozata akkor érvényes, ha az összes társulati tag érdekeltségi egység aránya szerint számított, legalább kétharmados többsége, nyílt szavazással dönt az elfogadásáról. Egy tag egy szavazattal rendelkezik.
 
