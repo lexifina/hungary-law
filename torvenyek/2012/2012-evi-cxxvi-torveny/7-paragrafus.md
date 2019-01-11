@@ -28,7 +28,7 @@ ag) az adóazonosító jelét, adószámát,
 
 ah) az egyéni vállalkozói nyilvántartási számát, székhelyét, telephelyét, fióktelepét, egyéni vállalkozói tevékenység szüneteltetésének kezdetét és végét,
 
-ai) az őstermelői igazolványa számát, annak hatályossági időtartamát,
+ai) az őstermelői igazolványa számát, annak hatályossági és érvényességi időtartamát, valamint a biztosítási jogviszonyára vonatkozó adatát;
 
 aj) a családi gazdálkodói nyilvántartási számát,
 
@@ -90,7 +90,7 @@ f) a kamarai tagra vonatkozóan a 10. § (3) bekezdés szerinti kizárásra vona
 
 (3) A gazdaságszerkezeti nyilvántartás tartalmazza a tag által
 
-a) használt földterület művelési ágára és nagyságára vonatkozó adatokat;
+a) használt földterületre vonatkozó adatokat;
 
 b) folytatott agrárgazdasági tevékenységből származó árbevételének adatait;
 

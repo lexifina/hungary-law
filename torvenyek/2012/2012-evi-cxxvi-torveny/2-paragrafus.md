@@ -30,4 +30,6 @@ g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által
 
 h) ÖVTJ: az önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló mindenkor hatályos jogszabályban meghatározott tevékenységek jegyzéke;
 
-i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg.
+i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg;
+
+j) küldöttválasztó közgyűlés: a kamarai tagok olyan ülés tartása nélküli választói akaratnyilvánító fóruma, amelynek kizárólagos célja a megyei küldöttgyűlési küldöttek megválasztása.

@@ -8,7 +8,13 @@ b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jo
 
 c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttműködve ellátja a szakképzésről szóló törvényben és végrehajtási rendeletében, valamint a felnőttképzésről szóló törvényben és végrehajtási rendeletében meghatározott feladatait, szervezi és végzi a mesterképzést és a mestervizsgáztatást;
 
-d) országos jégkármegelőző rendszert működtet.
+d) országos jégkármegelőző rendszert működtet;
+
+e) ellátja az élelmiszerlánc-felügyeletért, illetve az erdőgazdálkodásért felelős miniszter által rendeletben meghatározott, a mezőgazdasági és az erdészeti gépkezelői jogosítvány megszerzésével összefüggő feladatokat;
+
+f) ellátja a Digitális Agrárakadémia működtetésével összefüggő feladatokat,
+
+g) ellátja a helyi földbizottsági feladatokat.
 
 (2) A kamara tagjai részére térítésmentes alapszolgáltatásként
 

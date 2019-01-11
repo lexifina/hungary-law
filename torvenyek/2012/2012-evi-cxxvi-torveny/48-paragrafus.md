@@ -1,1 +1,1 @@
-48. § A nemzetközi szerződésekben, továbbá Magyar Agrárkamara által külföldi szervezetekkel, gazdasági, kereskedelmi kamarákkal kötött szerződésekben a Magyar Agrárkamara részére megállapított – kamarai feladatokkal összefüggő – jogok és kötelezettségek az agrárkamarára szállnak át megalakulásával egyidejűleg.
+### 48. §

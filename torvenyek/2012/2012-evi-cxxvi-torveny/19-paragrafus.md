@@ -22,7 +22,9 @@ h) az agrárkamara éves költségvetésének meghatározásáról, az éves bes
 
 i) a kamarai tagdíj mértékéről és megfizetésének módjáról való döntéshozatal;
 
-j) az agrárkamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása.
+j) az agrárkamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása;
+
+k) az országos, valamint a megyei küldöttgyűlési küldöttek választása rendjének a megállapítása.
 
 (3) Az alapszabály – a (2) bekezdésben meghatározottakon túl – más ügyet is az országos küldöttgyűlés hatáskörébe utalhat.
 

@@ -8,6 +8,8 @@ a) az agrárkamara elnöke,
 
 b) az agrárkamara alelnökei,
 
-c) az agrárkamara megyei szervezetének elnökei.
+c) az agrárkamara megyei szervezetének elnökei,
 
-(3) Az elnökség ülésein az agrárkamara főigazgatója, valamint a kamarai osztályok vezetői állandó meghívottként tanácskozási joggal vesznek részt.
+d) országos etikai bizottság elnöke.
+
+(3) Az elnökség ülésein az agrárkamara főigazgatója, valamint az országos kamarai osztályok elnökei állandó meghívottként tanácskozási és javaslattételi joggal vesznek részt.

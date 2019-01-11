@@ -16,11 +16,11 @@ f) az agrárkamara által szervezett rendezvényen az alapszabályban meghatáro
 
 g) az agrárkamara által nyújtott alapszolgáltatásokat térítésmentesen, valamint egyéb szolgáltatásokat térítés ellenében igénybe vegyen.
 
-(2) Az (1) bekezdés a)–c) pontja szerinti jogokat a gazda közvetlenül, a gazdálkodó szervezet törvényes képviselője útján gyakorolhatja.
+(2) Az (1) bekezdés a)–c) pontja szerinti jogokat – amennyiben az alapszabály másképp nem rendelkezik – a gazda közvetlenül, a gazdálkodó szervezet törvényes képviselője útján gyakorolhatja.
 
 (3) A pártoló vagy tiszteletbeli tag jogosult
 
-a) tanácskozási joggal részt venni a megyei küldöttválasztó közgyűlésen,
+a)
 
 b) igénybe venni az agrárkamara által nyújtott – az alapszabály által meghatározott körű – szolgáltatásokat.
 

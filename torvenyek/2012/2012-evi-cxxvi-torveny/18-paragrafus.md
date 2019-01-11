@@ -16,7 +16,7 @@ f) a választási névjegyzék és a tagjegyzék vezetésének részletes szabá
 
 g) a kamarai tagdíj mértékét, valamint a tagdíj fizetésének módját, feltételeit,
 
-h) a küldöttválasztás részletes szabályait;
+h)
 
 i) a küldöttgyűlésébe történő delegálás részletes szabályait;
 
