@@ -1,1 +1,3 @@
-## 30. § A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 3. melléklete a 2. melléklet szerint módosul.
+## 30. §[^3]
+
+[^3]: A 30. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
