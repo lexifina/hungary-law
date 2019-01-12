@@ -1,3 +1,0 @@
-16. § A Vtv. a következő 112. §-sal egészül ki:
-
-„112. § Mentesül a 81/B. § (5) bekezdésében foglalt jogkövetkezmények alól az a vadászatra jogosult, amely 2018. november 1-ig a 2018. évi CXXXVII. törvény által megállapított 81/B. § (2) bekezdésben szabályozott módon biztosította a vadkár alap összegét.”

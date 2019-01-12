@@ -1,3 +1,0 @@
-12. § A Vtv. 81. §.-a a következő (9) bekezdéssel egészül ki
-
-„(9) Abban az esetben, ha a károsult kérésére a közjegyző előzetes bizonyítási eljárás keretében vadkár felmérés céljából szakértőt rendel ki, a szakértő a kárfelmérési eljárás megindításáról, valamint a helyszíni felmérés helyéről és időpontjáról köteles igazolható módon értesíteni a vadászatra jogosultat. A vadászatra jogosult a szakértő eljárásáról készülő jegyzőkönyvben foglaltakra jogosult észrevételeket tenni a kár tényével és mértékével összefüggésben. Ha a vadászatra jogosult képviselője a szakértő értesítése ellenére nem jelenik meg a kárfelmérési eljárás helyszínén, úgy ez az eljárás lefolytatását nem akadályozza.”
