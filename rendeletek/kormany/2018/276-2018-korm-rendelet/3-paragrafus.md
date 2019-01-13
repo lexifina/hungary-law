@@ -1,0 +1,1 @@
+## 2. § E rendelet alkalmazásában vonatkozó fix kamatozású kockázatmentes hozamgörbe: az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság által meghatározott és közzétett, a legjobb becslés számításához használt hozamgörbe.

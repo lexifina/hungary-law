@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 1. § (1) bekezdés a) pontjában meghatározott foglalkoztatói nyugdíjszolgáltató intézményekre terjed ki.

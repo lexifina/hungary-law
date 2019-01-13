@@ -1,0 +1,3 @@
+5. § (1) Nominális befektetési hozam éves rátájának megállapításakor a foglalkoztatói nyugdíjszolgáltató intézmény a legjobb becslés alapján kiszámított nyugdíjprognózishoz a vonatkozó fix kamatozású kockázatmentes hozamgörbét használja.
+
+(2) A foglalkoztatói nyugdíjszolgáltató intézmény a kedvezőtlen becslés alapján kiszámított nyugdíjprognózishoz a vonatkozó fix kamatozású kockázatmentes hozamgörbét az azt reprezentáló eszköz-portfolió lejárat előtti értékesítéséből, az eszköz-portfolió és a foglalkoztatói nyugdíjszolgáltatás esetlegesen eltérő pénzneméből származó, továbbá más befektetési kockázatok tagok számára hátrányos hatásának figyelembevételével használja fel.

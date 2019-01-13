@@ -1,0 +1,1 @@
+A Kormány a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 86/B. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

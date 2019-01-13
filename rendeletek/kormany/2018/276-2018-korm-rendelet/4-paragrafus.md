@@ -1,0 +1,9 @@
+## 3. § Amennyiben a nyugdíjprognózis gazdasági feltételezéseken alapul, a foglalkoztatói nyugdíjszolgáltató intézmény a tagok, a leendő tagok, a kedvezményezettek és az ellátottak részére nyújtott tájékoztatásban közölt nyugdíjprognózis kiszámításakor – e feltételezések megállapítása során – a 4–7. § figyelembevételével jár el.
+
+4. § (1) A nyugdíjprognózisokhoz használt gazdasági feltételezéseket legjobb becslés szerinti és kedvezőtlen forgatókönyv szerint kell elkészíteni. A prognózis elkészítésekor figyelembe kell venni a nyugdíjkonstrukció sajátosságait is.
+
+(2) A legjobb becslés és kedvezőtlen forgatókönyv alapján számított nyugdíjprognózis értékét aktuális és hiteles információkra, valamint valós feltevésekre támaszkodva, megfelelő, alkalmas és releváns aktuáriusi és statisztikai módszerekkel kell kiszámítani, és azt az infláció vagy a GDP deflátor előrejelzésének felhasználásával jelenértéken kell megadni. A foglalkoztatói nyugdíjszolgáltató intézmény a legjobb becslés értékét a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló 43/2015. (III. 12.) Korm. rendelet 5. §-ában foglaltak szerint határozza meg.
+
+(3) A foglalkoztatói nyugdíjszolgáltató intézmény a tagok, a leendő tagok, a kedvezményezettek és az ellátottak részére nyújtott tájékoztatásban felhívja a figyelmet arra, hogy a legjobb becslés a rendelkezésre álló adatok, feltételezések alapján a megfelelő, alkalmas és releváns aktuáriusi és statisztikai módszerek szerint megadható legpontosabb becslést jelenti, amelytől azonban a nyugdíjba vonuláskor ténylegesen folyósított ellátás eltérhet.
+
+(4) A kedvezőtlen forgatókönyv szerint elkészített nyugdíjprognózist a felmerülő kockázatok a tagok számára hátrányos hatásának figyelembevételével készíti el a foglalkoztatói nyugdíjszolgáltató intézmény.
