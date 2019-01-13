@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-187-20-
 | 2018-05-10 | 2015-187-20-22.9 | 394/2017. (XII. 13.) Korm. rendelet |
 | 2018-06-12 | 2015-187-20-22.10 | 101/2018. (VI. 11.) Korm. rendelet |
 | 2019-01-01 | 2015-187-20-22.11 | 323/2018. (XII. 28.) Korm. rendelet |
+| 2019-01-13 | 2015-187-20-22.12 | 323/2018. (XII. 28.) Korm. rendelet |

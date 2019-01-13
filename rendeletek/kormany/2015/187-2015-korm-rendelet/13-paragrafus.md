@@ -1,12 +1,18 @@
 ## 7. Jogkövetkezmények
 
-13. § (1) A hatóság az információbiztonsági követelmények teljesülése érdekében – határidő kitűzése mellett – felhívja az érintett szervezet vezetőjét az elektronikus információbiztonságot veszélyeztető hiányosság, mulasztás, a biztonsági követelmény megsértése megszüntetésére, jogszabályban meghatározott kötelezettség teljesítésére, az elvárt intézkedés megtételére.
+13. §[^21] (1) A hatóság az információbiztonsági követelmények teljesülése érdekében – határidő kitűzése mellett – felhívja az érintett szervezet vezetőjét az elektronikus információbiztonságot veszélyeztető hiányosság, mulasztás, a biztonsági követelmény megsértése megszüntetésére, jogszabályban meghatározott kötelezettség teljesítésére, valamint az elvárt intézkedés megtételére.
 
 (2) A hatóság azonnali intézkedések megtételére kötelezi az érintett szervezetet, ha az elektronikus információbiztonságot veszélyeztető hiányosság, mulasztás, a megsértett biztonsági követelmény súlyos biztonsági esemény bekövetkeztével fenyeget. Ezzel összefüggésben fegyelmi felelősség megállapítására tehet javaslatot a munkáltatói jogkör gyakorlója felé.
 
-(3)[^21] A hatóság által az Ibtv. 16. § (2) bekezdése alapján kiszabható bírság – amely az Ibtv. 16. § (3) bekezdése alapján költségvetési szervre nem szabható ki – ötvenezer forinttól ötmillió forintig terjedhet, amelyet a hatóság határozatának véglegessé válását követő nyolc napon belül kell befizetni a hatóság Magyar Államkincstárnál vezetett számlájára.
+(3) A hatóság az Ibtv. 19. § (1) bekezdése szerinti eseménykezelő központ értesítése esetén megfelelő határidő tűzése mellett felszólítja az érintett szervezetet a jogszabály sértő tevékenység, vagy a jogsértő állapot megszüntetésére, ennek keretében különösen bejelentési, adatszolgáltatási, együttműködési kötelezettségének teljesítésére.
 
-(4) A hatóság a jogkövetkezmények alkalmazása során jogszabályban meghatározottakon túl az alábbi szempontokat veszi figyelembe:
+(4) A 23. § (1) bekezdése és 24. § (1) bekezdése szerinti hatóság, az Ibtv. 19. § (2) és (3) bekezdése szerinti eseménykezelő központ értesítése esetén, megfelelő határidő tűzése mellett felszólítja az érintett szervezetet a jogszabálysértő tevékenység, vagy a jogsértő állapot megszüntetésére, ennek keretében különösen bejelentési, adatszolgáltatási, együttműködési kötelezettségének teljesítésére.
+
+(5) A hatóság az Ibtv. 16. § (2) bekezdés b) pontja, valamint az Ibtv. 16. § (3) bekezdés d) pontja alapján az 1. mellékletben megjelölt jogszabálysértés esetén az 1. mellékletben rögzített mértékben bírságot szabhat ki. A kiszabható bírság ötvenezer forinttól ötmillió forintig terjedhet, amelyet a hatóság határozatának véglegessé válását követő nyolc napon belül kell befizetni a hatóság Magyar Államkincstárnál vezetett számlájára.
+
+(6) Az (1)–(4) bekezdésben foglaltakon túlmenően az eljárás akadályozása, illetve az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a hatóság hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő vezető tisztségviselőjét is.
+
+(7) A hatóság a jogkövetkezmények alkalmazása során jogszabályban meghatározottakon túl az alábbi szempontokat veszi figyelembe:
 
 a) az elektronikus információbiztonságot veszélyeztető hiányosság, mulasztás, a megsértett biztonsági követelménynek a biztonsági osztályba sorolás és biztonsági szint szerinti súlyát,
 
@@ -18,4 +24,4 @@ d) az érintett szervezet magatartását, hatósággal való együttműködésé
 
 e) az esemény egyedi, vagy ismételt jellegét.
 
-[^21]: A 13. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 538. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 13. § a 323/2018. (XII. 28.) Korm. rendelet 47. §-ával megállapított szöveg.
