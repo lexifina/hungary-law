@@ -117,5 +117,3 @@
 ## jb) az általuk tett és módosított nyilvános vételi ajánlat jóváhagyására,
 
 ## k) a nyilvánosan forgalomba hozott értékpapír kibocsátója között a szabályozott információ bejelentésére
-
-## vonatkozó eljárásban kizárólag elektronikus úton történhet a kapcsolattartás.
