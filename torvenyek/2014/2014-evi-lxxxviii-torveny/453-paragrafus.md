@@ -22,6 +22,8 @@
 
 10. az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek,
 
-11. a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelvnek
+11. a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelvnek,
+
+12. a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i (EU) 2016/2341 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.

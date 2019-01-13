@@ -296,7 +296,13 @@ b) azok a biztosítási termékek, amelyek egy szerződés keretén belül több
 
 c) az ugyanazon biztosítási ágazatba vagy ugyanazon biztosítási ágazat valamely alágazatába tartozó biztosítási termék és az egy szerződés keretén belül több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék, ha ez utóbbi termék jellemző kockázat szerinti ágazati vagy alágazati besorolása megegyezik az előbbi termék ágazati vagy alágazati besorolásával;
 
-112. viszontbiztosítási tevékenység: a biztosító vagy viszontbiztosító, továbbá harmadik országbeli biztosító vagy viszontbiztosító által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása;
+112. viszontbiztosítási tevékenység:
+
+a) biztosító vagy viszontbiztosító, továbbá harmadik országbeli biztosító vagy viszontbiztosító által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása,
+
+b) a Lloyds néven ismert biztosító szervezet biztosítási kockázatátvállalói egyesülés esetében a Lloyds valamely tagja által átengedett kockázatnak a Lloyds néven ismert biztosító szervezettől eltérő biztosító vagy viszontbiztosító részéről történő átvállalása, vagy
+
+c) fedezet viszontbiztosító általi nyújtása foglalkoztatói nyugdíjszolgáltató intézmény részére;
 
 113. viszontbiztosítás-közvetítői tevékenység: a viszontbiztosító által végzett azon üzletszerű tevékenység, amely a viszontbiztosítási értékesítést és annak szervezését foglalja magában, azzal, hogy nem minősülnek viszontbiztosítás-közvetítői tevékenységnek a 124. pont a)–d) alpontjai szerinti tevékenységek;
 
