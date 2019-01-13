@@ -2,7 +2,7 @@
 
 3. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény vagyona elkülönül a foglalkoztató vagyonától. A nyugdíjkonstrukciókra a foglalkoztató, illetve a foglalkoztató hitelezői nem tarthatnak igényt.
 
-(2) A zárt gazdálkodás elve az alábbiak egyidejű érvényesítését jelenti:
+(2) A zárt gazdálkodás elve valamennyi nyugdíjkonstrukció tekintetében az alábbiak egyidejű érvényesítését jelenti:
 
 a) a foglalkoztatói nyugdíjszolgáltató intézmény gazdálkodása kizárólag e törvényben meghatározott nyugdíjszolgáltatás szervezésére és teljesítésére irányul,
 
@@ -23,3 +23,7 @@ g) a foglalkoztatói nyugdíjszolgáltató intézmény a működésével kapcsol
 (4) Az összehasonlítható teljesítmény elve alapján a foglalkoztatói nyugdíjszolgáltató intézménynek tevékenységéről – e törvény szabályainak megfelelően – olyan nyilvántartásokat kell vezetnie, és a vonatkozó szabályoknak megfelelően ezeket nyilvánosságra hoznia, amelyek alkalmasak arra, hogy a foglalkoztatói nyugdíjszolgáltató intézmények teljesítménye azonos adatokból és számításokból kiindulva összehasonlítható és megismerhető legyen.
 
 (5) A jó gazda gondosságának elvét megtartva a foglalkoztatói nyugdíjszolgáltató intézmény nevében eljáró személyek kötelesek a tagok, járadékosok és a kedvezményezettek érdekében különös gondossággal eljárni.
+
+(6) A kockázatok és előnyök generációk közötti egyenlő megosztása alapelvének érvényesülését a foglalkoztatói nyugdíjszolgáltató intézménynek nyugdíjkonstrukciója kialakítása és tevékenységének végzése során adott esetben szem előtt kell tartania.
+
+(7) A jó gazda gondosságának elvét megtartva, a foglalkoztatói nyugdíjszolgáltató intézmény a befektetési politikájában adott esetben figyelembe veszi a befektetési döntéseknek a környezeti, a társadalmi és irányítási szempontokra gyakorolt lehetséges hosszú távú hatásait.

@@ -1,6 +1,6 @@
 ## Határon átnyúló tevékenység végzése
 
-22. § (1) Ha a foglalkoztatói nyugdíjszolgáltató intézmény határon átnyúló tevékenységként első alkalommal kíván foglalkoztatói nyugdíjszolgáltatási tevékenységet végezni másik állam területén, köteles ezt a Felügyeletnek előzetesen bejelenteni. A foglalkoztatói nyugdíjszolgáltató intézmény általi bejelentésnek a fogadó állam nevét, a foglalkoztató megnevezését, valamint a nyugdíjkonstrukció csatlakozási szerződésben rögzített elemeit tartalmaznia kell.
+22. § (1) Ha a foglalkoztatói nyugdíjszolgáltató intézmény határon átnyúló tevékenységként első alkalommal kíván foglalkoztatói nyugdíjszolgáltatási tevékenységet végezni másik állam területén, köteles ezt a Felügyeletnek előzetesen bejelenteni. A foglalkoztatói nyugdíjszolgáltató intézmény általi bejelentésnek a fogadó állam nevét, a foglalkoztató megnevezését és a központi ügyintézésének helyét, valamint a nyugdíjkonstrukció csatlakozási szerződésben rögzített elemeit tartalmaznia kell.
 
 (2) A Felügyelet az (1) bekezdés szerinti bejelentés megérkezését követő naptól számított harminc napon belül tájékoztatja a másik állam illetékes felügyeleti hatóságát arról, hogy
 
@@ -12,7 +12,7 @@ A Felügyelet a tájékoztatást köteles egyidejűleg közölni a bejelentő fo
 
 (3) A Felügyelet a (2) bekezdésben foglalt tájékoztatást megtagadja, ha a foglalkoztatói nyugdíjszolgáltató intézmény az előzetes bejelentésében az (1) bekezdésben foglalt adatokat nem közli, illetve a foglalkoztatói nyugdíjszolgáltató intézmény nem felel meg a (2) bekezdés a)–b) pontjaiban foglalt feltételeknek. Ha a Felügyelet a (2) bekezdésben foglalt tájékoztatást megtagadja, erről legkésőbb a bejelentés megérkezését követő naptól számított harminc napon belül köteles határozatot hozni.
 
-(4) A Felügyelet a másik állam illetékes hatóságai által a másik állam szociális és munkajogának foglalkoztatói nyugdíjakra vonatkozó követelményeiről küldött tájékoztatását továbbítja a foglalkoztatói nyugdíjintézmény részére. A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységét a Felügyelet által továbbított tájékoztatás kézhezvételét követően vagy (ennek hiányában) a (2) bekezdésben említett tájékoztatás közlésétől számított hatvanöt napon belül kezdheti meg.
+(4) A Felügyelet a másik állam illetékes hatóságai által a másik állam szociális és munkajogának foglalkoztatói nyugdíjakra vonatkozó követelményeiről küldött tájékoztatását továbbítja a foglalkoztatói nyugdíjintézmény részére. A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységét a Felügyelet által továbbított tájékoztatás kézhezvételét követően vagy (ennek hiányában) az (1) bekezdés szerinti bejelentéstől számított három hónap elteltével kezdheti meg.
 
 (5) Ha a működés során a (2) bekezdés a)–b) pontjaiban meghatározott adatokban változás következik be, a Felügyelet tájékoztatja a fogadó állam illetékes hatóságát. A Felügyelet eljárására a (2)–(3) bekezdésekben foglaltak az irányadók.
 

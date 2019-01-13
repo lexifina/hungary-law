@@ -1,6 +1,6 @@
 ## A nyugdíjtechnikai tartalékok képzése
 
-38. § (1) A nyugdíjtechnikai tartalékot a foglalkoztatói nyugdíjszolgáltató intézménynek olyan mértékben kell képeznie, hogy az a kockázatokból származó kötelezettsége folyamatos és tartós teljesítésére – az ésszerűség és a foglalkoztatói nyugdíjszolgáltatói tevékenység tapasztalatai alapján – előreláthatóan fedezetet nyújtson.
+38. § (1) A nyugdíjtechnikai tartalékok legkisebb összegét körültekintő biztosításmatematikai értékelés alapján kell kiszámítani. A nyugdíjtechnikai tartalékot a foglalkoztatói nyugdíjszolgáltató intézménynek olyan mértékben kell képeznie, hogy az a kockázatokból származó kötelezettsége folyamatos és tartós teljesítésére – az észszerűség és a foglalkoztatói nyugdíjszolgáltatói tevékenység tapasztalatai alapján – előreláthatóan fedezetet nyújtson. A biztosításmatematikus a megképzés során a gazdasági és biztosításmatematikai feltételezéseket kellő körültekintéssel választja meg a kötelezettségek értékeléséhez, figyelembe véve az esetlegesen előforduló kedvezőtlen eltérések miatti hibahatárt.
 
 (2) A nyugdíjtechnikai tartalékokat negyedévente kell megképezni.
 
@@ -19,3 +19,13 @@ d) a befektetési egységekhez kötött (unit-linked) nyugdíjkonstrukciók tart
 kell megfelelően alkalmazni.
 
 (5) A csatlakozásra vonatkozó szerződések alapján fizetett foglalkoztatói hozzájárulásoknak és tagi kiegészítéseknek – ésszerű aktuáriusi feltételezések mellett – elegendőnek kell lenniük a foglalkoztatói nyugdíjszolgáltató intézmény valamennyi, e szerződésekkel összefüggésben felmerülő kötelezettségének teljesítésére, illetve a megfelelő nyugdíjtechnikai tartalék képzésére.
+
+(6) A nyugdíjtechnikai tartalékok kiszámítása során a legmagasabb kamatlábakat körültekintően kell megválasztani a következők figyelembe vételével:
+
+a) a foglalkoztatói nyugdíjszolgáltató intézmény birtokában lévő, megfelelő eszközök hozama, valamint az előre jelzett jövőbeni befektetési hozam,
+
+b) a magas besorolású kötvények, államkötvények, az Európai Stabilitási Mechanizmus kötvényeinek, az Európai Beruházási Bank kötvényeinek vagy az Európai Pénzügyi Stabilitási Eszköz kötvényeinek piaci hozama, vagy
+
+c) az a) és b) pontban meghatározott eszközök hozamának kombinációja.
+
+(7) A nyugdíjtechnikai tartalékok meghatározása során figyelemmel kell lenni a prudenciális elvekre, a tagság érdekeire és a nyugdíjkonstrukciók legfőbb jellemzőire azzal, hogy a kiszámítás módszere és alapja alapvetően stabil, azonban szükség szerint tükrözi a jogi, demográfiai vagy gazdasági környezet változását.

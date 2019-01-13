@@ -1,67 +1,21 @@
-## A tagok részére nyújtott tájékoztatás
+## A tájékoztatás alapelvei
 
-28. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény köteles a tag jogosultságának nyilvántartásáról, illetve tagi számlájának tárgyévi alakulásáról számlaértesítőt küldeni a tag részére évente legalább egy alkalommal, legkésőbb a tárgyévet követő év március 31-éig.
+28. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a leendő tagok, a tagok, az ellátottak és a kedvezményezettek részére rendszeresen naprakész tájékoztatást nyújt.
 
-(2) A tagnak küldött számlaértesítőnek különösen tartalmaznia kell:
+(2) A tájékoztatás megfogalmazása egyértelmű, világos, tömör és közérthető, könnyen olvasható szerkezetű, a szóhasználat és a tartalom következetes. A tájékoztatás nem tartalmazhat megtévesztő információt. Határon átnyúló tevékenység esetén a tájékoztatást valamennyi olyan tagállam hivatalos nyelvén el kell készíteni, ahol a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységet végez.
 
-a) a foglalkoztatói nyugdíjszolgáltató intézmény elérhetőségeit,
+(3) A tájékoztatást a foglalkoztatói nyugdíjszolgáltató intézmény honlapján vagy tartós adathordozón hozzáférhetővé kell tenni. A tag, az ellátott, a kedvezményezett vagy a leendő tag kérésére a tájékoztatást díjmentesen papíron is ki kell adni.
 
-b) a tag azonosítására szolgáló adatokat,
+(4) A foglalkoztatói nyugdíjszolgáltató intézmény által nyújtott valamennyi tájékoztatásból egyértelműen ki kell derülnie, hogy a közölt információk mely időpontra vonatkoznak.
 
-c) a tag tagsági jogviszonyának kezdetét,
+(5) Amennyiben a tájékoztatás nyugdíjprognózist tartalmaz, a tájékoztatás tartalmaz egy felelősségkizáró nyilatkozatot arról, hogy e prognózisok eltérhetnek a folyósítandó ellátások végső összegétől.
 
-d) a Felügyelet internetes honlapjának címét, és
+(6) A foglalkoztatói nyugdíjszolgáltató intézmény
 
-e) a tagokat érintő, az előző számlaértesítő időpontját követően bekövetkezett jogszabályi változásokat.
+a) a leendő tagoknak legalább a 28/C. §-ban,
 
-(3) A (2) bekezdésben meghatározottakon túl a befizetéssel meghatározott nyugdíjkonstrukció esetén a számlaértesítőnek tartalmaznia kell:
+b) a tagoknak legalább a 28/B. § és 28/D. §-ban,
 
-a) a tárgyévi nyitó egyenleget vagy a más foglalkoztatói nyugdíjszolgáltató intézményből a tárgyévben áthozott követelést,
+c) az ellátottaknak legalább a 28/B. § (1) bekezdés a)–k) pontjában, (3) bekezdésében és a 28/E. §-ban
 
-b) a foglalkoztató által a tárgyévben fizetett hozzájárulást, a tag által a tárgyévben fizetett kiegészítést,
-
-c) a tagi számlán jóváírt kedvezményezetti jogon áthozott követelést (jóváírt egyéb bevételeket),
-
-d) a befektetési tevékenység tárgyévi eredményét (befektetési tevékenység tagi számlára jutó nettó hozambevételeit),
-
-e) a tagi követelés nyilvántartási záróértékét (piaci értékét),
-
-f) az értékelési különbözetet,
-
-g) a tag által választott befektetési portfólió megnevezését, és
-
-h) a tagsági jogviszony kezdetétől felhalmozott hozam mértékét.
-
-(4) A (2) bekezdésben meghatározottakon túl a szolgáltatással meghatározott nyugdíjkonstrukció esetén a számlaértesítőnek tartalmaznia kell:
-
-a) a foglalkoztató által befizetett hozzájárulás, valamint a tag által a tárgyévben fizetett kiegészítés összegét,
-
-b) a foglalkoztatói nyugdíjszolgáltatás várható összegére vonatkozó tájékoztatást,
-
-c) a munkaviszony megszűnése esetén várható foglalkoztatói nyugdíjszolgáltatásra vonatkozó információkat,
-
-d) a korábbi években megszerzett nyugdíjjogosultságok előző évi valorizációjából eredő értéknövekedés összegét,
-
-e) a foglalkoztatói nyugdíjszolgáltató intézmény nyugdíjtechnikai tartalékainak a biometriai kockázatot is tartalmazó nyugdíjkonstrukciók kötelezettségeihez viszonyított arányát (fedezettségi ráta), és
-
-f) más foglalkoztatói nyugdíjszolgáltató intézményből a tárgyévben átutalt összeget és az abból konvertált jogosultságok értékét.
-
-(5) A (2) bekezdésben meghatározottakon túl a járadékos részére megküldött értesítésnek tartalmaznia kell:
-
-a) a tárgyévben kifizetett foglalkozatói nyugdíjszolgáltatás összegét, és
-
-b) a következő évben várható szolgáltatás mértékét.
-
-(6) A foglalkoztatói nyugdíjszolgáltató intézmény a tag, a járadékos, illetve a munkavállalói érdek-képviseleti szervek kérelmére rendelkezésükre bocsátja a befektetési politikáját, az éves jelentését, az éves beszámolókat, megadja a nyugdíjkonstrukciót érintő jogszabályi változásokra vonatkozó tájékoztatást, valamint több nyugdíjkonstrukciót szolgáltató foglalkoztatói nyugdíjszolgáltató intézmény esetén bármely nyugdíjkonstrukcióra vonatkozó tájékoztatást.
-
-(7) A munkavállalót a munkaszerződés, a munkavállalói érdek-képviseleti szervet a kollektív szerződés megkötését megelőzően tájékoztatni kell az alapszabályban, illetve a csatlakozási szerződésben foglaltakról, a befektetési politikáról.
-
-(8) A tag, illetve járadékos kérelmére az (1)–(5) bekezdésekben foglalt szokásos tájékoztatáson túl, a foglalkoztatói nyugdíjszolgáltató intézmény tájékoztatást nyújt:
-
-a) a választható portfóliós rendszer üzemeltetése esetén a választható portfóliókról, azok kockázati kitettségéről, a tag által választott portfólióról, a portfólióválasztáshoz kapcsolódó költségekről,
-
-b) a munkaviszony megszűnése esetén más foglalkoztatói nyugdíjszolgáltató intézménybe történő átvitel során követendő eljárásról, a szolgáltatással meghatározott nyugdíjkonstrukció esetén a jogosultság tőkeértékének megállapítására vonatkozó módszertanról.
-
-(9) A nyugdíjkorhatár elérésekor a foglalkoztatói nyugdíjszolgáltató intézmény tájékoztatást nyújt a tag részére az igénybe vehető foglalkoztatói nyugdíjszolgáltatásokról, azok igénybevételének módjáról.
-
-(10) A foglalkoztatói nyugdíjszolgáltató intézmény és a foglalkoztató megállapodása alapján az (1)–(9) bekezdésben foglalt tájékoztatást részben vagy egészben a foglalkoztató nyújtja a munkavállalói részére. A megállapodásban rögzíteni kell, hogy a tájékoztatást minden arra jogosult megkapja.
+meghatározott tájékoztatást biztosítja.

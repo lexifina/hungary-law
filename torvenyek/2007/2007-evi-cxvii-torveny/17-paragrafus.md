@@ -14,7 +14,7 @@ c) működési kockázatok csökkentését szolgáló információs és ellenőr
 
 a) mindenkori pénzügyi helyzetének megállapítására;
 
-b) az általa kialakított egyes alapok és portfóliók részét képező befektetési eszközök, pénzeszközök, tőzsdei termékek és ingatlanok állományának minden időpontban történő megállapítására;
+b) az általa kialakított egyes alapok és portfóliók részét képező pénzügyi eszközök, pénzeszközök, tőzsdei termékek és ingatlanok állományának minden időpontban történő megállapítására;
 
 c) a jogszabályban, illetőleg saját szabályzataiban foglalt előírások betartásának folyamatos ellenőrzésére;
 

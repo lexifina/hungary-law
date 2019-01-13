@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-117-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2007-117-00-00.25 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2007-117-00-00.26 |
 | 2018-08-08 | 2018. évi LIV. törvény | 2007-117-00-00.27 |
+| 2019-01-13 | 2018. évi CXXVI. törvény | 2007-117-00-00.28 |

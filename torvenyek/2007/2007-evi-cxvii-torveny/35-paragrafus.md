@@ -1,10 +1,8 @@
-## II. Fejezet
-
-## A TARTALÉKOK, A SZAVATOLÓ TŐKE ÉS A BIZTONSÁGI TŐKE SZABÁLYAI
-
 ## A fedezeti tartalék
 
 35. § (1) A befizetéssel meghatározott nyugdíjkonstrukciót nyújtó foglalkoztatói nyugdíjszolgáltató intézménynek a szolgáltatások fedezetének gyűjtésére és a biometriai kockázatot nem tartalmazó szolgáltatások finanszírozására fedezeti tartalékot kell létrehoznia. A fedezeti tartalékon belül elkülönítetten kell kezelni a tagi számlákat és a szolgáltatási tartalékokat. A felhalmozási időszakban lévő tagok összes nyilvántartott követelése megegyezik tagi számláik egyenlegének összegével.
+
+(1a) Szolgáltatással meghatározott nyugdíjkonstrukciót, tőke- vagy hozamgaranciát tartalmazó nyugdíjkonstrukciót vagy biometriai kockázatot is tartalmazó nyugdíjkonstrukciót működtető foglalkoztatói nyugdíjszolgáltató intézmény a nyugdíjtechnikai tartalékokon kívül állandó jelleggel kiegészítő eszközökkel is rendelkezik. Ezek mértéke tükrözi a kockázat fajtáját és az eszközportfóliót valamennyi működtetett konstrukció tekintetében. Ezek az eszközök minden előrelátható tehertől mentesek, és biztonsági tőkeként szolgálnak a feltételezett és a tényleges költségek és nyereség közötti eltérés kiegyenlítésére.
 
 (2) A fedezeti tartalék bevételei:
 

@@ -4,15 +4,15 @@
 
 a) felszólítást bocsáthat ki – határidő tűzésével – az e törvényben és a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységére vonatkozó más jogszabályban foglalt rendelkezések maradéktalan megtartására,
 
-b) előírhatja szanálási terv, pénzügyi terv, illetve pénzügyi helyreállítási terv határidőn belüli benyújtását, és a végrehajtásra is határidőt szabhat,
+b) előírhatja szanálási terv, pénzügyi terv, pénzügyi helyreállítási terv és nyugdíjtechnikai helyreállítási terv határidőn belüli benyújtását, és a végrehajtásra is határidőt szabhat,
 
-c) kezdeményezheti a foglalkoztatói nyugdíjszolgáltató intézmény vezetőinek felelősségre vonását vagy felmentését,
+c) kezdeményezheti a foglalkoztatói nyugdíjszolgáltató intézmény vezető állású személyének és egyéb vezetőjének felelősségre vonását vagy felmentését,
 
 d) összehívhatja az igazgatóságot,
 
 e) rendkívüli közgyűlést hívhat össze,
 
-f) felügyeleti bírság megfizetésére kötelezhet,
+f) a foglalkoztatói nyugdíjszolgáltató intézménnyel, továbbá annak vezető állású személyével és egyéb vezetőjével szemben bírságot szabhat ki,
 
 g) a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységi engedélyét visszavonhatja,
 
@@ -30,7 +30,11 @@ m) kezdeményezheti a foglalkoztatói nyugdíjszolgáltató intézmény felszám
 
 n) kötelezheti a foglalkoztatói nyugdíjszolgáltató intézményt állományának átruházására, ha van az átvételre vállalkozó másik foglalkoztatói nyugdíjszolgáltató intézmény,
 
-o) megtilthatja a 19. § (5) bekezdésében foglaltak szerint az ügymenet kiszervezését.
+o) megtilthatja a 19. § (5) bekezdésében foglaltak szerint az ügymenet kiszervezését,
+
+p) visszavonhatja a vezető állású személy vagy az egyéb vezető kinevezésére adott engedélyt, kezdeményezheti az alkalmazott felelősségre vonását, a könyvvizsgálója megbízásának megszüntetését, illetve
+
+q) megtilthatja, korlátozhatja vagy feltételhez kötheti a foglalkoztatói nyugdíjszolgáltató intézmény eszközei feletti rendelkezési jog gyakorlását.
 
 (2) A Felügyelet a felügyeleti eljárás során megtett intézkedésekről rendelkező határozatokat megküldi a székhely szerint illetékes bíróságnak, a határozat véglegessé válásának megjelölésével.
 

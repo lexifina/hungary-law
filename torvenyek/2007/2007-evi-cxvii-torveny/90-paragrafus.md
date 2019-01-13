@@ -16,4 +16,6 @@ f) az Európai Parlament és a Tanács 2013/14/EU irányelve (2013. május 21.) 
 
 g) az Európai Parlament és a Tanács 2009/138/EK irányelve (2009. november 25.) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II.),
 
-h) a munkavállalók mobilitásának a kiegészítő nyugdíjjogosultságok megszerzésének és megtartásának javításával történő növelésére vonatkozó minimumkövetelményekről szóló, 2014. április 16-i 2014/50/EK európai parlamenti és tanácsi irányelv.
+h) a munkavállalók mobilitásának a kiegészítő nyugdíjjogosultságok megszerzésének és megtartásának javításával történő növelésére vonatkozó minimumkövetelményekről szóló, 2014. április 16-i 2014/50/EK európai parlamenti és tanácsi irányelv,
+
+i) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i (EU) 2016/2341 európai parlamenti és tanácsi irányelv.

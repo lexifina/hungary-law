@@ -12,7 +12,9 @@ d) a foglalkoztatói nyugdíjszolgáltató intézmény átalakulásához, egyes�
 
 e) a foglalkoztatói nyugdíjszolgáltató intézmény által más EGT-államban történő foglalkoztatói nyugdíjszolgáltató intézmény alapításához, vagy más EGT-államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményben részesedés megszerzéséhez;
 
-f) a foglalkoztatói nyugdíjszolgáltató intézményben történő minősített befolyás megszerzéséhez.
+f) a foglalkoztatói nyugdíjszolgáltató intézményben történő minősített befolyás megszerzéséhez;
+
+g) a nyugdíjkonstrukció határon átnyúló átvétel keretében történő átvételéhez.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységi engedély iránti kérelemhez a vezető állású személyek, egyéb vezetők, kötelező alkalmazottak és megbízottak, a könyvvizsgáló, illetve a kiszervezett tevékenységet végző szolgáltatók adatainak bejelentését a Felügyelet által meghatározott formában köteles elkészíteni.
 

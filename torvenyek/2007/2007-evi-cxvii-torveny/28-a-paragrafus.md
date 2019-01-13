@@ -22,7 +22,7 @@ fogadja.
 
 (7) A foglalkoztatói nyugdíjszolgáltató intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi a tagnak.
 
-(8) A panasz elutasítása esetén a nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy az MNBtv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A nyugdíjszolgáltató intézménynek meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét.
+(8) A panasz elutasítása esetén a nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy a Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNBtv.) szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A nyugdíjszolgáltató intézménynek meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét.
 
 (9) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 

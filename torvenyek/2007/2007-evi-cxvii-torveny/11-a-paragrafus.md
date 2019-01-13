@@ -1,0 +1,3 @@
+11/A. § (1) A vezető állású személyek és az egyéb vezetők engedélyezése során a szakmai alkalmasságra és az üzleti megbízhatóságra vonatkozó feltételek vizsgálatánál a Felügyelet a Bit. 253. § és 254. § rendelkezéseit megfelelően alkalmazza.
+
+(2) A Felügyelet tájékoztatást nyújt a másik tagállam illetékes felügyeleti hatóságainak, továbbá az Európai Bizottságnak – a magyar állampolgárok és magyarországi székhelyű jogi személyek vonatkozásában – a szakmai alkalmasság és üzleti megbízhatóság igazolására szolgáló dokumentumok kiállítására jogosult hatáskörrel és illetékességgel rendelkező magyar hatóságokról.

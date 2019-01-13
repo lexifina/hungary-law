@@ -1,8 +1,8 @@
 ## A vezető állású személy
 
-10. § (1) Foglalkoztatói nyugdíjszolgáltató intézménynél az igazgatóság tagjának, a felügyelőbizottság tagjának, valamint cégvezetőnek (a továbbiakban: vezető állású személy) az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a foglalkoztatói nyugdíjszolgáltató intézmény a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet nem adja meg az engedélyt, ha a bejelentésben megjelölt személy nem felel meg az e törvényben foglalt feltételeknek. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
+10. § (1) Foglalkoztatói nyugdíjszolgáltató intézménynél vezető állású személynek az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a foglalkoztatói nyugdíjszolgáltató intézmény a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet nem adja meg az engedélyt, ha a bejelentésben megjelölt személy nem felel meg az e törvényben foglalt feltételeknek. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(2)
+(2) A foglalkoztatói nyugdíjszolgáltató intézmény az igazgatóság jogai gyakorlására vezető állású személyként vezérigazgatót csak a Felügyelet előzetes engedélye esetén nevezhet ki. A Felügyelet erre vonatkozó eljárása során megvizsgálja a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének nagyságrendjét, jellegét, mértékét, továbbá a csatlakozó foglalkoztatók irányításban betöltött szerepét. A foglalkoztatói nyugdíjszolgáltató intézmény igazgatósága, illetve az igazgatóság jogait gyakorló vezérigazgatója vállal felelősséget az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek teljesítéséért, ideértve a kiszervezett tevékenységet is.
 
 (3) A foglalkoztatói nyugdíjszolgáltató intézmény köteles felügyelőbizottságot létrehozni.
 

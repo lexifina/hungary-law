@@ -14,6 +14,6 @@ e) foglalkoztatói nyugdíjszolgáltatás teljesítése.
 
 (2) A foglalkoztatói nyugdíjszolgáltatási tevékenységet teljeskörűen kizárólag a foglalkoztatói nyugdíjszolgáltató intézmény végezheti.
 
-(3) A foglalkoztatói nyugdíjszolgáltató intézmény részére vagyonkezelési tevékenységet az láthat el, aki a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott portfóliókezelési tevékenyég végzésére vonatkozó engedéllyel rendelkezik.
+(3) A foglalkoztatói nyugdíjszolgáltató intézmény részére vagyonkezelési tevékenységet az láthat el, aki a Bszt.-ben meghatározott portfóliókezelési tevékenyég végzésére vonatkozó engedéllyel rendelkezik.
 
 (4) A foglalkoztatói nyugdíjszolgáltató intézmény részére nyugdíjkonstrukcióhoz kapcsolódó nyilvántartási feladatokat a foglalkoztatói nyugdíjszolgáltató intézmény végezheti, illetve az, aki eleget tesz a kiszervezésre vonatkozó előírásoknak.

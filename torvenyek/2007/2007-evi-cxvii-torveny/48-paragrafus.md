@@ -10,4 +10,4 @@
 
 (6) A foglalkoztatói nyugdíjszolgáltató intézmény foglalkoztatói nyugdíjszolgáltatási kötelezettsége teljesítéséhez szükséges mértékben, illetve a szabályzataiban foglaltak szerint köteles a befektetéseit likvid eszközben tartani.
 
-(7) Az elismert értékpapírpiacon vagy más szabályozott piacon nem forgalmazott befektetési eszközöket csak a kockázati kitettségre figyelemmel, kellő óvatossággal megválasztott, alacsony szinten lehet tartani.
+(7) Az elismert értékpapírpiacon vagy más szabályozott piacon, multilaterális kereskedési rendszeren vagy szervezett kereskedési rendszeren nem forgalmazott pénzügyi eszközöket csak a kockázati kitettségre figyelemmel, kellő óvatossággal megválasztott, alacsony szinten kell tartani.

@@ -10,6 +10,8 @@ c) a vezető állású személyek és egyéb vezetők, a letétkezelő, a száml
 
 történt változást a szerződés megkötését, illetve megszűnését követően öt napon belül a Felügyeletnek bejelenti.
 
+(1a) A foglalkoztatói nyugdíjszolgáltató intézmény a kiemelten fontos feladatkörök kiszervezése esetén az írásbeli szerződés megkötését és módosítását megelőzően kellő időben tájékoztatja a Felügyeletet a kiszervezésről, illetve a kiszervezéssel kapcsolatos változásokról.
+
 (2) A foglalkoztatói nyugdíjszolgáltató intézményben történő minősített befolyásszerzéssel kapcsolatban a Bit. 273. és 274. §-ában meghatározott, bejelentési kötelezettségre vonatkozó szabályokat megfelelően alkalmazni kell.
 
 (3) Az e törvényben meghatározott engedélyek kérelmezése és a bejelentések megtétele a Felügyelet által meghatározott formában történik. E célra a Felügyelet adatlapot rendszeresíthet.

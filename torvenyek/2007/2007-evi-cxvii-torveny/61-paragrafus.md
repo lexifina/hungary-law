@@ -6,8 +6,4 @@ b) más EGT-államban székhellyel rendelkező befektetési vállalkozás, hitel
 
 c) ellenőrző befolyással rendelkező természetes vagy jogi személy tulajdonosa valamely más EGT-államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményben minősített befolyással rendelkezik.
 
-(2) Nem szükséges a Felügyelet tevékenységi engedélye
-
-a) az EGT másik államában székhellyel rendelkező intézmény által a foglalkoztatói nyugdíjszolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK parlamenti és tanácsi irányelv (2003. június 3.) szabályainak a székhely szerinti ország jogrendszerébe történő átvétele alapján létrehozott foglalkoztatói nyugdíjszolgáltató intézmények által végzett foglalkoztatói nyugdíjszolgáltatási tevékenység folytatásához,
-
-b) a 2003/41/EK irányelv szabályainak a székhely szerinti ország jogrendszerébe történő átvétele alapján létrehozott fióktelep létesítéséhez, amennyiben a fióktelepet létrehozó foglalkoztatói nyugdíjszolgáltató intézmény a székhelye szerinti ország hatáskörrel rendelkező felügyeleti hatóságának az irányelv szerinti engedélyével rendelkezik.
+(2)

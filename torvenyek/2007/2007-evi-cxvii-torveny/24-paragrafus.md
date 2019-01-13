@@ -23,3 +23,5 @@ e) a fióktelep nevét és címét.
 (6) A fióktelep az (5) bekezdés szerinti tájékoztatás, illetve értesítés kézhezvételét követően hozható létre és kezdheti meg működését.
 
 (7) Ha a működés során a (2) bekezdés b)–e) pontjaiban meghatározott adatokban változás következik be, a foglalkoztatói nyugdíjszolgáltató intézmény legkésőbb harminc nappal a változást megelőzően, előre nem látható esemény bekövetkezése esetén haladéktalanul írásban köteles tájékoztatni a Felügyeletet és a másik állam illetékes felügyeleti hatóságát annak érdekében, hogy a felügyeleti hatóságok a (3) bekezdésben meghatározott hatáskörüket megfelelően gyakorolhassák.
+
+(8) Fióktelep létesítése esetén a Felügyelet által vezetett nyilvántartásban meg kell jeleníteni azon tagállamokat, amelyekben a foglalkoztatói nyugdíjszolgáltató intézmény működik.

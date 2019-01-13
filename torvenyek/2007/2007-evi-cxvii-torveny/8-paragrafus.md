@@ -30,6 +30,6 @@ l) a szerződés felmondásának határidejét;
 
 m) a szerződés felmondása esetén követendő eljárást.
 
-(3) A csatlakozott foglalkoztató átléphet egy másik foglalkoztatói nyugdíjszolgáltató intézményhez. Ez esetben az átadó foglalkoztatói nyugdíjszolgáltató intézménnyel megkötött szerződés felmondására a fogadó foglalkoztatói nyugdíjszolgáltató intézménnyel csatlakozásra vonatkozó szerződés megkötését követően kerülhet sor. Az új csatlakozásra vonatkozó szerződésben rendelkezni kell a nyugdíjkonstrukció átvételével kapcsolatos eljárásról is. Átlépés esetén a tagok jogosultságai nem csökkenhetnek.
+(3)
 
 (4) A foglalkoztatói nyugdíjszolgáltató intézményhez önfoglalkoztató is csatlakozhat. A csatlakozó önfoglalkoztató a csatlakozó foglalkoztatóval esik egy tekintet alá.

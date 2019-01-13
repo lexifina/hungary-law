@@ -14,7 +14,7 @@ d) az értékelési tartalék húsz százaléka;
 
 e) az eredménytartalék;
 
-f) az adózott eredmény; és
+f) az adózott eredmény a kifizetett osztalékkal csökkentve; és
 
 g) az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító, jegyzett és befizetett részvények.
 

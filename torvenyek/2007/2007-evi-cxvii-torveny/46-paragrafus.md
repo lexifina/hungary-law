@@ -8,12 +8,18 @@ b) a foglalkoztatói nyugdíjszolgáltató intézmény által megszerezhető esz
 
 c) a foglalkoztatói nyugdíjszolgáltató intézmény kockázatvállaló képessége, kockázatkezelése, valamint a meglévő, illetve várható kötelezettségei alakulása alapján meghatározott befektetési stratégiai eszközallokáció (minimum- és maximumarányok) és a megcélzott hozamok mutatói (referenciaindexek),
 
-d) a befektetési kockázat mérésének, a befektetési teljesítmény értékelésének módja, és
+d) a befektetési kockázat mérésének, a befektetési teljesítmény értékelésének módja,
 
-e) a foglalkoztatói nyugdíjszolgáltató intézmény által kezelt nyugdíjkonstrukciók jellege és futamideje.
+e) a foglalkoztatói nyugdíjszolgáltató intézmény által kezelt nyugdíjkonstrukciók jellege és futamideje,
+
+f) az alkalmazott kockázatkezelési folyamatok leírása és
+
+g) annak leírása, hogy a foglalkoztatói nyugdíjszolgáltató intézmény hogyan veszi figyelembe a befektetések környezetre, társadalomra és irányításra gyakorolt lehetséges hosszú távú hatásait.
 
 (2) A befektetési politikát a foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységi engedély hatálybalépését követő 180 napon belül egy alkalommal – annak elfogadását követő tizenöt napon belül – köteles a Felügyelethez benyújtani. A Felügyelet harminc napon belül megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak. Amennyiben a Felügyelet megállapítja, hogy a befektetési politika nem áll összhangban a vonatkozó jogszabályi előírásokkal, határidő kitűzésével felszólítja a foglalkoztatói nyugdíjszolgáltató intézményt a befektetési politika módosítására. Ha a foglalkoztatói nyugdíjszolgáltató intézmény a felszólításban meghatározott határidő eltelte után sem biztosítja a vonatkozó jogszabályi előírásokkal történő összhangot, a Felügyelet bírságot szabhat ki.
 
 (3) Az igazgatóság legalább évente – jogszabályi változás vagy más, a befektetési politikát lényegesen érintő ok miatt harminc napon belül – köteles döntést hozni a befektetési politika fenntartása vagy módosítása kérdésében. A meghozott döntésről az igazgatóság haladéktalanul tájékoztatja a foglalkoztatói nyugdíjszolgáltató intézmény tagjait és járadékosait.
 
-(4) A foglalkoztatói nyugdíjszolgáltató intézmény az általa kezelt nyugdíjkonstrukciókról negyedévente a Felügyelet által meghatározott formában és módon portfóliójelentést küld a Felügyeletnek.
+(4) A foglalkoztatói nyugdíjszolgáltató intézmény az általa kezelt nyugdíjkonstrukciókról negyedévente a Felügyelet által meghatározott formában és módon – a befektetési politika elveivel való összhangra vonatkozó elemzést is tartalmazó – portfólió-jelentést küld a Felügyeletnek.
+
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény a befektetési politika elveiről szóló nyilatkozatot a honlapján közzéteszi, továbbá az ügyfelek számára nyitva álló helyiségében, ennek hiányában a székhelyén kifüggeszti.

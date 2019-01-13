@@ -1,6 +1,6 @@
 ## A nyugdíjtechnikai tartalékok
 
-37. § (1) A biztonságos üzletmenet érdekében biometriai kockázatot tartalmazó nyugdíjszolgáltatást, illetve szolgáltatással meghatározott nyugdíjkonstrukciót nyújtó foglalkoztatói nyugdíjszolgáltató intézménynek a várható kötelezettségei teljesítésére nyugdíjtechnikai tartalékot kell képeznie.
+37. § (1) A biztonságos üzletmenet érdekében a tőke- vagy hozamgaranciát, illetve biometriai kockázatot tartalmazó nyugdíjkonstrukciót, illetve szolgáltatással meghatározott nyugdíjkonstrukciót nyújtó foglalkoztatói nyugdíjszolgáltató intézménynek a várható kötelezettségei teljesítésére nyugdíjtechnikai tartalékot kell képeznie.
 
 (2) Nyugdíjtechnikai tartaléknak minősülnek:
 

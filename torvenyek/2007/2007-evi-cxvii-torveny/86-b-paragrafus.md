@@ -1,0 +1,1 @@
+86/B. § Felhatalmazást kap a Kormány, hogy a foglalkoztatói nyugdíjszolgáltató intézmények által nyújtott várható nyugdíjszolgáltatás előrejelzésére vonatkozó részletes szabályokat rendeletben állapítsa meg.

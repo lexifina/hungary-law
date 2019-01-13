@@ -28,4 +28,10 @@ b) a biztosítás azon módszerére, amelyben a veszélyközösség tagjai arra 
 
 c) az önkéntes kölcsönös biztosító pénztárak és a magánnyugdíjpénztárak tevékenységére,
 
-d) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) szabályozott biztosítási és viszontbiztosítási tevékenységre.
+d) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvényben (a továbbiakban: Bit.) szabályozott biztosítási és viszontbiztosítási tevékenységre,
+
+e) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvényben szabályozott befektetési alapkezelési tevékenységre,
+
+f) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben szabályozott pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási és bankképviseleti tevékenységre, önkéntes intézményvédelemre, valamint betétbiztosításra,
+
+g) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési szolgáltatási tevékenységre, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásra.
