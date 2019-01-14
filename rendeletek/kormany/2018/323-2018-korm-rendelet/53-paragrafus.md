@@ -1,1 +1,3 @@
-## 52. § A 187/2015. (VII. 13.) Korm. rendelet az 1. melléklet szerinti melléklettel egészül ki.
+## 52. §[^17]
+
+[^17]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
