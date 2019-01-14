@@ -1,3 +1,1 @@
-41. § Az Fnyt. 35. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Szolgáltatással meghatározott nyugdíjkonstrukciót, tőke- vagy hozamgaranciát tartalmazó nyugdíjkonstrukciót vagy biometriai kockázatot is tartalmazó nyugdíjkonstrukciót működtető foglalkoztatói nyugdíjszolgáltató intézmény a nyugdíjtechnikai tartalékokon kívül állandó jelleggel kiegészítő eszközökkel is rendelkezik. Ezek mértéke tükrözi a kockázat fajtáját és az eszközportfóliót valamennyi működtetett konstrukció tekintetében. Ezek az eszközök minden előrelátható tehertől mentesek, és biztonsági tőkeként szolgálnak a feltételezett és a tényleges költségek és nyereség közötti eltérés kiegyenlítésére.”
+41. §
