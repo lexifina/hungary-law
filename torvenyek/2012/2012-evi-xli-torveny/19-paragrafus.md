@@ -23,3 +23,5 @@
 (6) A közúti személyszállítási szolgáltatást végző szolgáltatók személyszállítási üzletszabályzatát, annak módosítását az autóbuszos személyszállítási szolgáltatás 181/2011/EU rendeletben nem szabályozott részletes feltételeire, valamint a személyszállítási üzletszabályzat tartalmára és jóváhagyására vonatkozó jogszabály alapján az autóbuszos hatóság hagyja jóvá. Ha a bevételek beszedését a közlekedésszervező végzi, az üzletszabályzat elkészítésére vonatkozó kötelezettség a közlekedésszervezőre is kiterjed.
 
 (7) A személyszállítási üzletszabályzat hatályos szövegét a közlekedési szolgáltató és a közlekedésszervező nyilvánosan közzéteszi.
+
+(8) Az autóbuszos hatóság által végzett hatósági eljárásokért a miniszter által meghatározott igazgatási szolgáltatási díjat kell fizetni.

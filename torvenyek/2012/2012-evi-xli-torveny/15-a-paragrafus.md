@@ -1,7 +1,9 @@
-15/A. § (1) Az autóbuszos hatóság részére a piac felügyeletével kapcsolatos tevékenységéért az autóbusszal közúti személyszállítási szolgáltatásokat végző közlekedési szolgáltatók, továbbá a közlekedésszervező az autóbuszos személyszállítási tevékenységének a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladataihoz kapcsolódóan piacfelügyeleti díjat fizetnek.
+15/A. § (1) Az autóbuszos hatóság részére a piac felügyeletével kapcsolatos tevékenységéért az autóbusszal díj ellenében közúti személyszállítási tevékenységet végző közlekedési szolgáltató piacfelügyeleti díjat fizet.
 
-(2) A piacfelügyeleti díj mértéke az előző évi autóbusszal végzett közúti személyszállítási szolgáltatások vagy a közlekedésszervező által az autóbuszos személyszállítási tevékenységhez kapcsolódóan a 22. § (2) bekezdése szerinti kijelölő jogszabály alapján végzett feladatai teljesítéséből származó nettó árbevétel 0,1%-a. Előző évi nettó árbevétel hiányában a piacfelügyeleti díjat a tárgyidőszakban tényleges árbevétel alapján kell megfizetni.
+(2) A piacfelügyeleti díjat a tárgyévet megelőző év december 31-én érvényes – a közlekedési hatóság által kiadott tevékenység végzésére feljogosító autóbuszos személyszállító engedélyben (tevékenységi engedély) – feltüntetett, az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató által üzemeltethető autóbuszok után kell megfizetni. A díj mértékét az 1. melléklet tartalmazza.
+
+(2a) A piacfelügyeleti díjat az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató arra a naptári évre is megfizeti, amely naptári évben az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató a tevékenységét megszünteti vagy szünetelteti, továbbá, amely naptári évben a közlekedési hatóság az autóbuszos közúti személyszállítási szolgáltatást végző közlekedési szolgáltató tevékenységi engedélyét felfüggesztette vagy visszavonta.
 
 (3) A piacfelügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén az esedékesség napjától a teljesítés napjáig késedelmi pótlékot kell fizetni. A késedelmi pótlék mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének háromszázhatvanötöd része.
 
-(4) A felügyeleti díj számításának, megállapításának részletes szabályait, valamint megfizetésének módját és feltételeit a Kormány rendeletben állapítja meg.
+(4) A piacfelügyeleti díj az autóbuszos hatóság bevétele.

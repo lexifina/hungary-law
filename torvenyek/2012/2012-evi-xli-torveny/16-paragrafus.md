@@ -1,12 +1,10 @@
-16. § (1) Ha az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a számviteli elkülönítéssel és a keresztfinanszírozás tilalmával vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy az autóbuszos hatóság határozatában meghatározott valamely kötelezettség megsértését,
+16. § (1) Ha az autóbuszos hatóság az autóbuszos közúti személyszállítási szolgáltatási piac felügyelete során észleli a működési engedélyhez kötött tevékenység végzésével vagy a közlekedésszervező tevékenységével kapcsolatosan jogszabályban, vagy az autóbuszos hatóság határozatában meghatározott valamely kötelezettség megsértését
 
-a) megállapítja a tevékenység végzésének feltételeit és megtiltja a jogsértő magatartás folytatását,
+a) megállapítja a tevékenység végzésének feltételeit és megtiltja a jogsértő magatartás folytatását vagy
 
-b) a jogsértőt kötelezi az eljárás költségeinek megtérítésére,
+b) piacfelügyeleti bírságot szab ki.
 
-c) az autóbusszal végzett személyszállítási szolgáltatásokra vonatkozó piacfelügyeleti eljárásról és a piacfelügyeleti bírságról szóló jogszabály alapján bírságot szab ki.
-
-(2) A kötelezettségek további súlyos és ismétlődő megszegése esetén az autóbuszos hatóság felfüggesztheti vagy visszavonhatja a működési engedélyt.
+(2) A kötelezettségek további súlyos és ismétlődő megszegése esetén az autóbuszos hatóság kezdeményezi a működési engedély felfüggesztését vagy visszavonását.
 
 (3)
 
@@ -22,6 +20,6 @@ d) a közúti személyszállítási üzletszabályzatok érvényesülésének ny
 
 (5) Az autóbuszos hatóság és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, illetve az üzleti titokhoz fűződő érdekek ne sérüljenek. Ennek keretében az adatot a másik hatóságnak átadó hatóság értesíti az adatszolgáltatót az adatok átadásáról. Az átvevő hatóság biztosítja, hogy a részére átadott adatok legalább olyan védelemben részesüljenek, mint amilyen védelemben az átadó hatóságnál részesültek.
 
-(6) Az autóbuszos hatóság a (3) bekezdésben meghatározott eljárása során a versenyhatóság szakmai álláspontját kiemelten figyelembe veszi, amennyiben attól eltér, annak indokairól a versenyhatóságot és az ügyfelet tájékoztatja.
+(6) Az autóbuszos hatóság piacfelügyeleti eljárása során a versenyhatóság szakmai álláspontját figyelembe veszi, amennyiben attól eltér, annak indokairól a versenyhatóságot és az ügyfelet tájékoztatja.
 
 (7) Az autóbuszos hatóság, valamint a versenyhatóság az együttműködésük részleteit rögzítik, évente felülvizsgálják, és a nyilvánosság számára hozzáférhetővé teszik, ideértve az együttműködés eredményeként létrehozott módszertanokat is.
