@@ -79,3 +79,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2018-08-08 | 2018. évi LIV. törvény | 2008-40-00-00.77 |
 | 2018-10-01 | 2017. évi LXXV. törvény | 2008-40-00-00.78 |
 | 2018-12-19 | 2018. évi XCIX. törvény | 2008-40-00-00.79 |
+| 2019-01-15 | 2018. évi XCIX. törvény | 2008-40-00-00.80 |

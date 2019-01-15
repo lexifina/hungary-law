@@ -1,7 +1,7 @@
-57. § (1) A Hivatal a piacelemzést az érintett piacokon szükség szerint, de legalább az előző piacelemzési eljárás befejezését követő 3 éven belül ismételten elvégzi.
+57. § (1) Ha a Hivatal megállapítja a jelentős piaci erő eljárásban kiszabott kötelezettség megsértését, akkor az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírságot szab ki, és szükség esetén felszólítja az engedélyest a jogszerű állapot helyreállítására.
 
-(2) Amennyiben valamely érintett piacon fennálló verseny megítélése szempontjából jelentős körülmény jut tudomására, a Hivatal a piacelemzést haladéktalanul lefolytatja.
+(2) Ha a kötelezett a kötelezettségét a bírság kiszabása ellenére továbbra sem teljesíti, a bírság ismételten kiszabható.
 
-(3) A piacelemzés lefolytatását az adott érintett piacon engedéllyel rendelkező piaci szereplő is kérelmezheti, ha az adott piacon a verseny körülményei a legutolsó piacelemzés óta lényegesen és alapvetően megváltoztak, valamint a Hivatal legutolsó vonatkozó határozatának meghozatala óta legalább egy év eltelt.
+(3) Ha a bírság ismételt kiszabása ellenére sem teljesíti a kötelezett a kötelezettségét, akkor a Hivatal visszavonhatja az engedélyét.
 
-(4) A (3) bekezdésben foglalt kérelem elbírálásakor a Hivatal értékeli a piacelemzés lefolytatásának szükségességét, valamint erre vonatkozóan véleményt kér a Gazdasági Versenyhivataltól.
+(4) Nem indítható eljárás jelentős piaci erő eljárásban kiszabott kötelezettség megszegésének megállapítására, ha a kötelezettség megszegésétől számított öt év eltelt.

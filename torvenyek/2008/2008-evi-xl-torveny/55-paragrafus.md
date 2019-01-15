@@ -2,30 +2,18 @@
 
 ## A FÖLDGÁZPIACI VERSENY ELŐSEGÍTÉSE
 
-## Jelentős piaci erővel rendelkező engedélyes
+## A földgázpiacok nyomon követése
 
-55. § (1) A Hivatal a hatásos piaci verseny elősegítése, a piaci erőfölénnyel való visszaélés megelőzése, valamint a felhasználók érdekeinek védelme céljából piacelemzést köteles végezni az alábbi piacokon:
+55. § (1) A Hivatal a hatékony és fenntartható verseny előmozdítása és fenntartása érdekében nyomon követi a földgázpiacokat.
 
-a) földgáz-nagykereskedelem,
+(2) A nyomon követés keretében a Hivatal elemzi a rendelkezésére álló adatokat, továbbá jogosult
 
-b) földgáz-kiskereskedelem.
+a) adatot, információt, tájékoztatást kérni az engedélyestől, az engedélyes alkalmazásában álló személyektől;
 
-(2) Ha a piacelemzés alapján valamely azonosított piacon a verseny nem kellően hatékony, a Hivatal jelentős piaci erővel rendelkező engedélyesként azonosíthatja azt az engedélyest, aki piaci erőfölényben, azaz olyan piaci helyzetben van, amely lehetővé teszi, hogy tevékenységét a versenytársaitól, a tevékenysége végzésével összefüggő szerződésekben részes más engedélyesektől és vállalkozásoktól, valamint végső soron a felhasználóktól nagymértékben függetlenül folytassa.
+b) betekinteni az engedélyes birtokában lévő iratokba, azokról másolatot, kivonatot készíteni;
 
-(3) A jelentős piaci erő megállapítása során a Hivatal figyelembe veszi:
+c) helyszíni vizsgálatot folytatni az engedélyesnél;
 
-a) az engedélyesnek az adott piac földrajzi területén, illetve a kapcsolódó piacokon való jelenlétét, ha az adott érintett piac és a kapcsolódó piac közötti kapcsolatból eredően az engedélyes az egyik piacon fennálló gazdasági erejét átviheti a másik piacra, és ezzel gazdasági erejét erősítheti,
+d) olyan, engedélyesnek nem minősülő vállalkozástól adatot, tájékoztatást kérni, amelynél a piacok nyomon követéséhez szükséges adat megtalálható.
 
-b) az engedélyes méretét és piaci részesedését az adott piacon,
-
-c) az engedélyes és az általa a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerint irányított vállalatok, az őt irányító vállalat, vagy az engedélyest irányító vállalat által irányított vállalatok tevékenységi körét, a vertikális integrációt és az azonosított piacok kapcsolódási sajátosságait, a termékdiverzifikációt, valamint a csomagban értékesíthető termékek, szolgáltatások körét,
-
-d) a piacralépési korlátokat és a növekedési és terjeszkedési korlátokat,
-
-e) a kiegyenlítő vásárlóerő hiányát, vagy alacsony szintjét,
-
-f) a lehetséges verseny hiányát,
-
-g) a méret- és tevékenység-gazdaságosságot.
-
-(4) A piacok területi meghatározására, valamint a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására, valamint az 58. § és az 59. § szerinti kötelezettségek tartalmára, alkalmazási feltételeire vonatkozó további előírásokat külön jogszabály tartalmazza.
+(3) Ha a (2) bekezdés alapján megkeresett engedélyes vagy engedélyesnek nem minősülő vállalkozás nem működik együtt a Hivatallal, a Hivatal az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírságot szab ki. A bírság ismételten is kiszabható.
