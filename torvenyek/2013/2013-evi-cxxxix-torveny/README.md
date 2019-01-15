@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2018-12-29 | 2018. évi CXXVI. törvény | 2013-139-00-00.32 |
 | 2019-01-01 | 2018. évi CXXVI. törvény | 2013-139-00-00.33 |
 | 2019-01-13 | 2018. évi CXXVI. törvény | 2013-139-00-00.34 |
+| 2019-01-15 | 2018. évi CXXVI. törvény | 2013-139-00-00.35 |
