@@ -1,1 +1,3 @@
-25. §
+25. § A Tszt. a következő 61/C. §-sal egészül ki:
+
+„61/C. § E törvénynek az energetikai tárgyú törvények, valamint egyes klímapolitikai és adózási tárgyú törvények módosításáról szóló 2018. évi XCIX. törvénnyel megállapított 5. §-át első alkalommal a 2019. évi felügyeleti díjbevallás során – a 2018. évi árbevételre vonatkozóan – kell alkalmazni.”
