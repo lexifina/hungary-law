@@ -1,22 +1,18 @@
-93. § (1) A szerző fél köteles a Hivatalnak haladéktalanul bejelenteni, ha bármely villamosenergia-ipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének, szavazati jogának vagy közvetlen és közvetett befolyásának aránya eléri vagy meghaladja a tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 61. § (3) bekezdésében meghatározott mértéket. A Hivatal köteles a bejelentés tudomásulvételét a bejelentést, információ kérés esetén pedig a Hivatal által kért információk megérkezését követő naptól számított negyven napon belül visszaigazolni. A szavazati jogra, a közvetett befolyásra, a befolyásszerzésre, azok mértékére, az összehangoltan eljáró személyekre és a bejelentés tartalmára vonatkozóan a Tpt. rendelkezéseit kell megfelelően alkalmazni.
+93. § (1) A befolyásszerző – a (2) bekezdés szerinti esetek kivételével – köteles haladéktalanul a Hivatal tudomásulvételét kérni, ha bármely villamosenergia-ipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének vagy szavazati jogának aránya eléri vagy meghaladja az öt, tíz, tizenöt, húsz, huszonöt, harminc, harmincöt, negyven, negyvenöt, ötven, hetvenöt, nyolcvan, nyolcvanöt, kilencven, kilencvenegy, kilencvenkettő, kilencvenhárom, kilencvennégy, kilencvenöt, kilencvenhat, kilencvenhét, kilencvennyolc, kilencvenkilenc százalékot, vagy eléri a száz százalékot (a továbbiakban együtt: befolyásszerzés).
 
-(2) Bármely villamosenergia-ipari vállalkozásban a szavazatok 25%-át, 50%-át vagy 75%-át meghaladó szavazati jog vagy befolyás szerzéséhez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájárulása is szükséges.
+(2) Bármely villamosenergia-ipari vállalkozásban a szavazatok huszonöt, ötven vagy hetvenöt százalékát meghaladó, valamint száz százalékát elérő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájárulása szükséges.
 
-(2a) Nem kell a Hivatal előzetes hozzájárulása a (2) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyást szerző el nem éri a Hivatal előzetes hozzájárulásához kötött (2) bekezdés szerinti következő mértéket. Az (1) bekezdésben meghatározott bejelentési kötelezettség alól a befolyást szerző azonban nem mentesül.
+(2a) Nem kell a Hivatal előzetes hozzájárulása a (2) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyásszerző el nem éri a Hivatal előzetes hozzájárulásához kötött (2) bekezdés szerinti következő mértéket, az (1) bekezdésben meghatározott tudomásulvétel kérése iránti kötelezettség alól azonban a befolyásszerző nem mentesül.
 
 (3) Az (1)–(2a) bekezdésében meghatározottak vonatkoznak az e törvény hatálya alá tartozó villamosenergia-ipari vállalkozások és a Get. hatálya alá tartozó földgázipari vállalkozások közötti befolyásszerzésre is.
 
-(4) Az (1) bekezdés szerinti bejelentés nem alkalmazandó a közvetlen vezeték engedélyesére, a magánvezeték engedélyesére és a töltőállomás-üzemeltetőre, továbbá a (2) bekezdés szerinti befolyásszerzés nem igényli a Hivatal előzetes hozzájárulását a következő esetekben:
+(4) Nem kell alkalmazni
 
-a) kiserőművi összevont engedélyes esetében,
+a) a közvetlen vezeték engedélyesére, a magánvezeték engedélyesére és a töltőállomás-üzemeltetőre az (1) és (2) bekezdés,
 
-b) magánvezeték engedélyese esetében,
+b) a kiserőművi összevont engedélyesre, valamint a felhasználót el nem látó villamosenergia-kereskedelmi engedélyesre a (2) bekezdés
 
-c) közvetlen vezeték engedélyese esetében,
-
-d) a töltőállomás-üzemeltető esetében,
-
-e) villamosenergia-tárolói engedélyes esetében.
+rendelkezéseit.
 
 (5) Villamos energia termelésével, földgáz kitermelésével vagy villamos energia vagy földgáz kereskedelmével foglalkozó vállalkozás, valamint az ilyen vállalkozásokban irányítást gyakorló részvényes az átviteli rendszerirányítóban vagy annak irányító részvényesében sem közvetlenül, sem közvetetten nem szerezhet irányítást biztosító részesedést. Az átviteli rendszerirányítóban, illetve annak irányító részvényesében irányítást biztosító részesedésszerzéshez a Hivatal előzetes hozzájárulása is szükséges. E rendelkezés nem érinti a 102. § (1) bekezdésében rögzített rendelkezést.
 

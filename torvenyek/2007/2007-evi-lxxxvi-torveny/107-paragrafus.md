@@ -1,37 +1,21 @@
-107. § (1) A Hivatal a hatásos piaci verseny elősegítése, a piaci erőfölénnyel való visszaélés egyes formáinak megelőzése, valamint a felhasználók érdekeinek a védelme céljából piacelemzést végez
+## Jelentős piaci erő eljárás
 
-1. a villamos energia nagykereskedelem piacain,
+107. § (1) A Hivatal jelentős piaci erő eljárást folytat le, ha olyan körülmény jut a tudomására, amely arra utal, hogy a verseny valamely piacon azért nem kellően hatékony, mert az adott piacon egy vagy több piaci szereplő olyan piaci erőfölénnyel bír, vagy a piaci folyamatok alapján a jövőben olyan piaci erőfölénnyel bírhat, amely alkalmas a versenyt akadályozó, korlátozó vagy torzító magatartás kifejtésére.
 
-2. a villamos energia kiskereskedelem piacain,
+(2) A Hivatal a lefolytatott jelentős piaci erő eljárás alapján a jelentős piaci erővel rendelkező engedélyesre vagy az érintett piac valamennyi engedélyesére olyan indokolt és arányos mértékű kötelezettséget szab ki, amely előmozdítja a hatékony verseny kialakulását és fenntartását. Ilyen kötelezettség lehet különösen:
 
-3. a rendszerszintű szolgáltatások nyújtását biztosítani hivatott teljesítmény és energia piacain.
+a) nyilvános és átlátható módon történő értékesítésnek;
 
-(2) Amennyiben a piacelemzés alapján az azonosított valamely piacon a verseny nem kellően hatékony, a Hivatal jelentős piaci erővel rendelkező engedélyesként azonosíthatja azt az engedélyest, amelyik egyedül vagy más piaci szereplővel közösen piaci erőfölényben, azaz olyan piaci helyzetben van, amely lehetővé teszi, hogy tevékenységét a versenytársaitól, valamint a felhasználóktól nagymértékben függetlenül folytassa.
+b) árkorlát alkalmazásának;
 
-(3) A jelentős piaci erő megállapítása során a Hivatal figyelembe veszi:
+c) költségalapú árképzésnek;
 
-a) az engedélyesnek az adott piac földrajzi területén, illetve a kapcsolódó piacokon való jelenlétét, amennyiben az adott érintett piac és a kapcsolódó piac közötti kapcsolatból eredően az engedélyes az egyik piacon fennálló gazdasági erejét átviheti a másik piacra, és ezzel gazdasági erejét erősítheti,
+d) ajánlatadási kötelezettségnek;
 
-b) az engedélyes méretét és piaci részesedését az adott piacon,
+e) megkülönböztetésmentes szerződési feltételek alkalmazásának
 
-c) az engedélyes és az általa a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény szerint irányított vállalatok, vagy az őt irányító vállalat, illetőleg az engedélyest irányító vállalat által irányított vállalatok tevékenységi körét, a vertikális integrációt és az azonosított piacok kapcsolódási sajátosságait, a termékdiverzifikációt, valamint a csomagban értékesíthető termékek, szolgáltatások körét,
+előírása.
 
-d) a piacralépési korlátokat és a növekedési és terjeszkedési korlátokat,
+(3) A Hivatal a jelentős piaci erő eljárásokban együttműködik a Gazdasági Versenyhivatallal.
 
-e) a kiegyenlítő vásárlóerő hiányát vagy alacsony szintjét,
-
-f) a lehetséges verseny hiányát,
-
-g) a méret- és tevékenység-gazdaságosságot,
-
-h) a kereslet és kínálat viszonyát.
-
-(4) A piacok területi meghatározására, valamint a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és a 110–111. §-ok szerinti kötelezettségek tartalmára, alkalmazási feltételeire vonatkozó előírásokat külön jogszabály tartalmazza.
-
-(5) E fejezet alkalmazásában:
-
-a) villamos energia nagykereskedelem az olyan kereskedelem, amelynek során villamos energiát nem közvetlenül a felhasználónak értékesítenek,
-
-b) villamos energia kiskereskedelem az olyan kereskedelem, amelynek során villamos energiát közvetlenül a felhasználónak értékesítenek,
-
-c) a rendszerszintű szolgáltatások nyújtását biztosítani hivatott teljesítmény és energia piaca az olyan kereskedelem, amelynek során teljesítőképességet, illetve villamos energiát közvetlenül az átviteli rendszerirányítónak értékesítenek.
+(4) Az e fejezet alapján lefolytatott eljárások nem érintik a Gazdasági Versenyhivatal jogszabályban meghatározott hatásköreit.

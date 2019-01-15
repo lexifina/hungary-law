@@ -1,15 +1,21 @@
 ## Egyes cégjogi eseményekre vonatkozó közös szabályok
 
-92. § (1) Az engedélyes vállalkozásnak Ptk. gazdasági társaságokra vonatkozó rendelkezéseinek megfelelő szétválásához (különváláshoz, kiváláshoz), más vállalkozással történő egyesüléséhez (beolvadáshoz, összeolvadáshoz), jogutód nélküli megszűnéséhez, alaptőkéjének, illetve törzstőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együttesen: cégjogi esemény) a Hivatal hozzájáruló határozata is szükséges. A cégjegyzékbe való bejegyzésre (változásbejegyzésére) irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt lehet benyújtani. A Hivatal nem tagadhatja meg az alaptőke, illetve törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi.
+92. § (1) Az engedélyesnek a Ptk. rendelkezései szerinti szétválásához, más vállalkozással történő egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez, jegyzett tőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal előzetes hozzájáruló határozata szükséges.
 
-(2) Az (1) bekezdés szerinti egyesülés (beolvadás, összeolvadás) esetén a Hivatal által kiadott engedélyek vonatkozásában a Ptk. 3:39. § (1) bekezdésében foglaltak nem alkalmazhatók.
+(2) A cégjogi eseménnyel összefüggésben a cégjegyzékbe való bejegyzésre vagy változásbejegyzésére irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt kell benyújtani. A Hivatal nem tagadhatja meg a jegyzett tőke leszállításához való hozzájárulást, ha azt az engedélyes számára jogszabály kötelezővé teszi.
 
-(3) Az (1) bekezdés szerinti cégjogi esemény nem igényli a Hivatal (1) bekezdés szerinti hozzájáruló határozatát
+(3) A cégjogi esemény nem igényli a Hivatal (1) bekezdés szerinti hozzájáruló határozatát
 
-a) kiserőművi összevont engedélyes esetében,
+a) a kiserőművi összevont engedélyes,
 
-b) magánvezeték engedélyese esetében vagy
+b) a magánvezeték engedélyese,
 
-c) közvetlen vezeték engedélyese esetében.
+c) a közvetlen vezeték engedélyese,
+
+d) a töltőállomás-üzemeltető és
+
+e) a felhasználót el nem látó villamosenergia-kereskedő
+
+esetében.
 
 (4) Az átviteli rendszerirányítói, elosztó hálózati, egyetemes szolgáltatói, szervezett villamosenergia-piaci engedélyes esetében a Ptk. 3:49. § (1) bekezdésében és 3:50. §-ában meghatározott uralmi szerződés nem köthető, és az ilyen szerződés semmis, továbbá ezen engedélyesekre nem alkalmazható a Ptk. 3:62. §-a.
