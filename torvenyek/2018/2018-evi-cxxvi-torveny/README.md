@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-126-00-00
 | 2019-01-02 | 2010. évi CXXX. törvény | 2018-126-00-00.4 |
 | 2019-01-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-126-00-00.5 |
 | 2019-01-14 | 2010. évi CXXX. törvény | 2018-126-00-00.6 |
+| 2019-01-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-126-00-00.7 |
