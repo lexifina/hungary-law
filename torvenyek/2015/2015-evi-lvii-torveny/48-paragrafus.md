@@ -23,3 +23,7 @@
 (11) E törvénynek a Mód. Tv. által módosított 22. § (1b) bekezdését a 2015. december 5-ét követően létrejövő nagyvállalat, vagy nagyvállalattá minősülő vállalkozás esetében is alkalmazni kell.
 
 (12) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+(13) A Hivatal 2019. december 31-ig nem kezdeményezi bírság kiszabását a 21/B. § (1) bekezdés b) pontja szerinti almérő felszerelésére vonatkozó kötelezettség elmulasztása esetén.
+
+(14) Energetikai szakreferens tevékenységét névjegyzékbe vétel nélkül legkésőbb 2019. június 30-ig végezheti.

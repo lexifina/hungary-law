@@ -26,7 +26,7 @@ i) az energetikai auditra vonatkozó minimális tartalmi követelményeket és a
 
 j) az energetikai auditok ellenőrzésére, valamint a kötelező energetikai auditálás teljesítésének ellenőrzésére vonatkozó szabályokat,
 
-k) az energetikai auditorok és energetikai auditáló szervezetek energetikai auditálási tevékenység folytatására vonatkozó bejelentésének, valamint névjegyzékbe vételének részletes szabályait,
+k) az energetikai auditálási és az energetikai szakreferensi tevékenység engedélyezésére irányuló kérelem, valamint a névjegyzékbe vétel részletes szabályait,
 
 l) a közreműködő szervezetekkel szemben támasztott engedélyezési követelményeket, az engedély kiadásának és visszavonásának általános eljárási szabályait, a közreműködő szervezetek tevékenységének végzésére vonatkozó szabályokat,
 
@@ -38,10 +38,10 @@ o) a 7. § f) pontja szerinti költség-haszon elemzéssel kapcsolatos köteleze
 
 p) a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számlázással és a felhasználók tájékoztatásával kapcsolatos rendelkezéseket, a felek jogait és kötelezettségeit;
 
-q) az energetikai szakreferens igénybevételére köteles nagyvállalat energiafogyasztási szintjére, az energetikai szakreferens által ellátandó tevékenységre, a természetes személy energetikai szakreferens szükséges szakmai képesítésére és gyakorlatára, a szakreferens igénybevételével kapcsolatos adatszolgáltatási kötelezettségre, valamint az energetikai szakreferens tevékenységével kapcsolatos jelentéstételre – ide nem értve a személyes adatokat – vonatkozó részletes szabályokat,
+q) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet energiafogyasztási szintjére, az energetikai szakreferens által ellátandó tevékenységre, a természetes személy energetikai szakreferens szükséges szakmai képesítésére és gyakorlatára, a szakreferens igénybevételével kapcsolatos adatszolgáltatási kötelezettségre, valamint az energetikai szakreferens tevékenységével kapcsolatos jelentéstételre – ide nem értve a személyes adatokat – vonatkozó részletes szabályokat,
 
 r) a Nemzeti Energetikusi Hálózat irodáit működtető szervezet kijelölését, a Nemzeti Energetikusi Hálózat által alkalmazható, szakmai tanácsadást végző természetes személyek szakmai végzettségére vonatkozó követelményeket, az irodák illetékességi területét, valamint a szakmai tanácsadásra vonatkozó részletes szabályokat,
 
-s) a közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
+s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.

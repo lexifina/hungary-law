@@ -1,12 +1,12 @@
 29. § (1) Energetikai auditálási tevékenységet az a gazdálkodó szervezet folytathat,
 
-a) amelynek van az energetikai auditori névjegyzékben szereplő energetikai auditor tagja vagy alkalmazottja, aki a szervezet nevében az energetikai auditálási tevékenységet végzi,
+a) amely az energetikai auditori névjegyzékben szereplő energetikai auditorral munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban áll,
 
-b) amely az energetikai auditálási tevékenység folytatásának szándékát a Hivatalnak bejelentette, a regisztrációs díjat megfizette és
+b) amely a regisztrációs díjat megfizette és
 
 c) amely nem áll a (3) bekezdés szerinti tilalom alatt.
 
-(1a) Az energetikai auditori névjegyzékben szereplő energetikai auditor kizárólag egy energetikai auditáló szervezetnek lehet az (1) bekezdés a) pont szerinti tagja vagy alkalmazottja. Ha a gazdálkodó szervezet e szabály megsértésével kéri névjegyzékbe vételét, a névjegyzékbe vételi kérelmet határozattal el kell utasítani.
+(1a) Az energetikai auditori névjegyzékben szereplő energetikai auditor kizárólag egy energetikai auditáló szervezettel állhat az (1) bekezdés a) pont szerinti jogviszonyban.
 
 (2) Az energetikai auditáló szervezet felelősségére az energetikai auditor energetikai auditálással kapcsolatos, e törvényben meghatározott felelősségére vonatkozó szabályokat kell alkalmazni.
 

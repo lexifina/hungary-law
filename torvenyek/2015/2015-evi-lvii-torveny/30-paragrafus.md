@@ -1,3 +1,3 @@
-30. § (1) Az energetikai auditálási tevékenység folytatásának szándékára vonatkozó bejelentést a Hivatal felé, a regisztrációs díj egyidejű megfizetésével, kell megtenni.
+30. § (1) Az energetikai auditálási tevékenység folytatására irányuló kérelem benyújtásával egyidejűleg a regisztrációs díj megfizetését is igazolni kell a Hivatal felé.
 
-(2) A bejelentéshez csatolni kell az energetikai auditálási tevékenység folytatásához szükséges feltételek fennállását igazoló iratokat.
+(2) A kérelemhez csatolni kell az energetikai auditálási tevékenység folytatásához szükséges feltételek fennállását igazoló iratokat.

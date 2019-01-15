@@ -1,4 +1,4 @@
-41. § (1) A közreműködő szervezet az energetikai auditorok képzésével, továbbképzésével, valamint az energetikai auditori szakmai vizsgák, megújító vizsgák megszervezésével és lebonyolításával összefüggő feladatai ellátása céljából kezeli
+41. § (1) A közreműködő szervezet az energetikai auditorok és energetikai szakreferensek képzésével, valamint szakmai vizsgák, megújító vizsgák megszervezésével és lebonyolításával összefüggő feladatai ellátása céljából kezeli
 
 a) a képzésekre, továbbképzésekre jelentkező személyek személyes adatait (név, lakcím),
 

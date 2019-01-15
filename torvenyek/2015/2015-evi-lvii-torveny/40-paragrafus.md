@@ -1,8 +1,8 @@
 ## 25. A névjegyzék vezetésének és a közreműködő szervezetek nyilvántartásának, az adatok kezelésének közös szabályai
 
-40. § (1) A Hivatal az energetikai auditorok és energetikai auditáló szervezetek bejelentéseinek intézése, névjegyzékének vezetése, a közreműködő szervezetek nyilvántartásának vezetése, valamint az e törvény szerinti ellenőrzési feladatainak ellátása céljából kezeli
+40. § (1) A Hivatal az energetikai auditorok és energetikai auditáló szervezetek, valamint a természetes személy energetikai szakreferensek és az energetikai szakreferens szervezetek engedélyezése, névjegyzékének vezetése, a közreműködő szervezetek nyilvántartásának vezetése, valamint az e törvény szerinti ellenőrzési feladatainak ellátása céljából kezeli
 
-a) az energetikai auditorok és az energetikai auditáló szervezetek névjegyzékében szereplő adatokat, valamint a bejelentéseikben szereplő adatokat,
+a) az energetikai auditorok és az energetikai auditáló szervezetek névjegyzékében szereplő adatokat, valamint a tevékenység engedélyezésére irányuló kérelemben szereplő adatokat,
 
 b) az energetikai auditálás elvégzésére vonatkozó adatszolgáltatásból származó adatokat,
 

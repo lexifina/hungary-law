@@ -18,6 +18,12 @@
 
 (4) A vállalkozáscsoport azon tagjának, amely önmagában kis- és középvállalkozásnak minősülne és az auditálás évét megelőző 3 évben az átlagos éves összes energiafogyasztása nem éri el a 3 GWh-t, nem kell kötelező energetikai auditálást lefolytatnia vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetnie.
 
+(4a) Ha a nagyvállalat a (4) bekezdés szerinti mentesség igénybevételekor nem rendelkezik 3 teljes évre vonatkozó energiafogyasztási adatokkal, akkor a törtidőszakra vonatkozó fogyasztási adatait kell éves szintre vetíteni és ez alapján az éves fogyasztási átlagot megállapítani.
+
 (5) Nem kell külön energetikai auditálást lefolytatnia annak a nagyvállalatnak, amely egy vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó energetikai audit ezen nagyvállalatra is kiterjed.
 
 (6) Ha a nagyvállalat energetikai alapállapot felmérése során megállapították, hogy a valamely auditálandó részterület (épületek, folyamatok és szállítás) – tárgyévet megelőző 3 év átlagában – éves energiafelhasználása az összes éves energiafelhasználás 10 százalékát nem éri el, a részterület mentesül a kötelező auditálás alól.
+
+(7) Energetikai auditálás lefolytatása esetén a kötelező energetikai auditálás akkor minősül teljesítettnek, amikor a 23. § (1) bekezdése szerinti adatszolgáltatás a jogszabályoknak megfelelő módon megtörtént.
+
+(8) A (4) bekezdés szerinti mentesség igénybevételét a Hivatal számára be kell jelenteni.

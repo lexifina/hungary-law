@@ -1,41 +1,15 @@
 ## 22. Határon átnyúló energetikai auditálási szolgáltatásnyújtás
 
-35. § (1) Az EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor vagy energetikai auditáló szervezet az energetikai auditálás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a Hivatalnak bejelenteni.
+35. § (1) Az EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor vagy energetikai auditáló szervezet a Hivatal engedélye alapján láthat el Magyarországon határon átnyúló szolgáltatásnyújtás keretében energetikai auditálási tevékenységet. Az engedély határozatlan időre szól.
 
-(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai auditálási tevékenységet akkor folytathat, ha megfelel a 28. § (1) bekezdésében foglalt követelményeknek azzal, hogy nem kell teljesítenie a 28. § (3) bekezdése szerinti éves továbbképzést és 39. § szerinti megújító szakmai vizsgát.
+(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai auditálási tevékenységet akkor folytathat, ha megfelel a 28. § (1) bekezdésében foglalt követelményeknek azzal, hogy nem kell teljesítenie a 28. § (1) bekezdés d) pontja szerinti szakmai vizsgát, valamint a 28. § (3) bekezdése szerinti továbbképzést és megújító szakmai vizsgát.
 
-(3) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditáló szervezet Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében energetikai auditálási tevékenységet az energetikai auditorok névjegyzékében szereplő vagy Magyarország területén energetikai auditálásra a (2) bekezdés szerint jogosult tagja vagy alkalmazottja útján folytathatja.
+(3) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditáló szervezet Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében energetikai auditálási tevékenységet az energetikai auditorok névjegyzékében szereplő vagy Magyarország területén energetikai auditálásra a (2) bekezdés szerint jogosult, a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban álló energetikai auditor útján folytathatja.
 
 (4) A határon átnyúló szolgáltatásnyújtás keretében Magyarország területén energetikai auditálási tevékenységet végző személy és szervezet a működése során köteles betartani az energetikai auditálási tevékenység folytatására e törvényben és a végrehajtására kiadott rendeletekben meghatározott szabályokat.
 
 (4a) A határon átnyúló szolgáltatás keretében energetikai auditálási tevékenység folytatására jogosult személyekre és szervezetekre megfelelően alkalmazni kell az e törvényben és a végrehajtására kiadott rendeletekben az energetikai auditorokra és energetikai auditáló szervezetekre meghatározott szabályokat.
 
-(5) A Hivatal a határon átnyúló szolgáltatás nyújtását bejelentő személyekről és szervezetekről névjegyzéket vezet a 32. § (1) bekezdése, valamint a 33. § (1) bekezdése szerinti adattartalommal, amelynek a következő adatait az energiahatékonysági tájékoztató honlapon közzéteszi:
+(5) A Hivatal a névjegyzéki jelöléssel rendelkező, határon átnyúló szolgáltatásnyújtás keretében energetikai auditálási tevékenység végzésére jogosult természetes személyt és gazdálkodó szervezetet a 28. § (1a) bekezdése szerinti névjegyzékbe felveszi.
 
-a) az energetikai auditor
-
-aa) családi neve és utóneve,
-
-ab) elérhetőségi adatai (postacím, telefonszám, elektronikus levélcím, az energetikai auditor által megadott egyéb elérhetőségi adat),
-
-ac) nyelvismerete (nyelv, nyelvtudás foka),
-
-ad) bejelentésének időpontja,
-
-b) az energetikai auditáló szervezet
-
-ba) elnevezése,
-
-bb) székhelye,
-
-bc) cégjegyzékszáma vagy nyilvántartást vezető hatóság neve és nyilvántartási száma,
-
-bd) vezető tisztségviselőjének neve,
-
-be) elérhetőségi adatai (postacím, telefonszám, elektronikus levélcím, az energetikai auditáló szervezet által megadott egyéb elérhetőségi adat),
-
-bf) energetikai auditálást végző természetes személy tagjának vagy alkalmazottjának neve,
-
-bg) bejelentésének időpontja és ha az 5 évnél rövidebb időre szól, lejártának időpontja.
-
-(6) Az (5) bekezdés szerinti névjegyzékből történő törlésre az energetikai auditor és energetikai auditáló szervezet névjegyzékből történő törlésére vonatkozó szabályokat kell alkalmazni azzal, hogy a névjegyzékből akkor is törölni kell a bejelentőt, ha a határozott időre szóló bejelentés lejárt.
+(6)

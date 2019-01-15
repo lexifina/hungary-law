@@ -10,7 +10,7 @@
 
 a) nem felel meg e törvényben, valamint végrehajtására kiadott kormányrendeletben meghatározott követelményeknek,
 
-b) e törvény szerinti kötelezettségeit felszólítás ellenére sem teljesíti vagy
+b) e törvény és a végrehajtására kiadott jogszabályok kötelezettségeit felszólítás ellenére sem teljesíti vagy
 
 c) bejelenti közreműködő szervezeti tevékenysége megszüntetését.
 

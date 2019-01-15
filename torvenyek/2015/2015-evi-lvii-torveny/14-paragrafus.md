@@ -4,6 +4,6 @@
 
 a) gondoskodik a hatáskörébe tartozó szakpolitikai intézkedések végrehajtásáról és a végrehajtás ellenőrzéséről,
 
-b) – az egyes szakpolitikai intézkedések és egyéni fellépések révén elért energiamegtakarítás összesítése érdekében – minden év január 31-ig a Hivatal által meghatározott formában adatot szolgáltat a szakpolitikai intézkedés végrehajtásáról a Hivatalnak és a Hivatal megkeresésére az energiamegtakarítás összesítéséhez szükséges egyéb tájékoztatást nyújt.
+b) a szakpolitikai intézkedések által elért energiamegtakarítás nyilvántartásáért és az adatok hitelesítésért felelős minisztérium megkeresésére minden, az egyes szakpolitikai intézkedések és egyéni fellépések révén elért energiamegtakarítás számbavételéhez szükséges és rendelkezésre álló adatot átad, az adatok hitelesítési feladatainak teljesítésénél együttműködik és tájékoztatást megad.
 
 (2) Az egyes szakpolitikai intézkedések révén elért energiamegtakarítási adatokat közzé kell tenni.

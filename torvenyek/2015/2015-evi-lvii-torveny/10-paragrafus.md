@@ -4,4 +4,4 @@
 
 (2) Az (1) bekezdés csak olyan mértékben vonatkozik a katonai nemzetbiztonsági és az országos hatáskörrel rendelkező rendvédelmi szervekre, valamint a honvédségi szervezetekre, amennyiben az nem eredményez összeütközést ezen szervezetek alaptevékenységének céljával.
 
-(3) Az energiahatékony beszerzés lefolytatására köteles szervezet minden év január 31-ig a Hivatal rendelkezésére bocsátja a tárgyévet megelőző évben megvalósult energiahatékony beszerzéseivel kapcsolatban készített valamennyi dokumentációt.
+(3)
