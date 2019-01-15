@@ -34,6 +34,16 @@ p) a kifogott halat korábban kifogottal kicserélő,
 
 q) az e törvény végrehajtására kiadott rendeletben foglalt meghatározás szerint kívülről akasztott halat megtartó
 
+r) a halgazdálkodási hatóság által jóváhagyott hatályos halgazdálkodási tervben meghatározott – az adott halgazdálkodási vízterület specifikus adottságainak megfelelően kialakított – helyi horgászrendi előírásokat megsértő,
+
+s) nem nyilvántartott halgazdálkodási vízterületbe halat telepítő,
+
+t) a 34. §-ban foglalt kötelezettséget megszegő,
+
+u) nem nyilvántartott halgazdálkodási vízterületre területi jegyet kiadó, ott horgászatot engedélyező, vagy onnan térítés nélkül vagy térítésért őshonos halfaj elvitelét engedélyező,
+
+v) a 21. § (1a) bekezdésében meghatározott tilalmat megszegő
+
 személlyel szemben.
 
 (2) Ha a jogsértés súlya azt indokolja, a halgazdálkodási hatóság a vízilétesítmény üzemeltetőjére halvédelmi bírságot szab ki, ha a vízilétesítmény üzemeltetője a 19. § (1) vagy (3) bekezdésben foglaltaknak ismétlődő jelleggel nem tesz eleget és emiatt jelentős halpusztulás következik be.
@@ -43,3 +53,7 @@ személlyel szemben.
 (4) A halgazdálkodási hatóság halvédelmi bírságot szab ki az igazolatlan eredetű, nem nyomon követhető halat, halterméket vagy más hasznos víziállatot forgalmazó természetes vagy jogi személlyel szemben.
 
 (5) A halgazdálkodási hatóság halvédelmi bírságot szab ki a 38. § (2) bekezdése alapján kiadott halászati engedély 38. § (3) bekezdésében meghatározott rendelkezését megsértő természetes személlyel vagy jogi személlyel szemben.
+
+(6) A halgazdálkodási hatóság az általa kiszabott halvédelmi bírság fizetési kötelezettségének teljesítése érdekében a halvédelmi bírság megfizetésére kötelezett részére fizetési halasztást vagy részletekben történő teljesítést (a továbbiakban együtt: fizetési könnyítés) engedélyezhet, amennyiben a kötelezett a teljesítési határidő lejárta előtt fizetési könnyítést kérelmez, továbbá a fizetési nehézség a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható.
+
+(7) A fizetési kedvezményről szóló döntéssel szemben közigazgatási per kezdeményezhető.
