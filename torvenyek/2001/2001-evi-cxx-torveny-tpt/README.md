@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2018-08-08 | 2018. évi LIV. törvény | 2001-120-00-00.73 |
 | 2018-12-29 | 2018. évi CXXVI. törvény | 2001-120-00-00.74 |
 | 2019-01-01 | 2018. évi CXXVI. törvény | 2001-120-00-00.75 |
+| 2019-01-15 | 2018. évi CXXVI. törvény | 2001-120-00-00.76 |
