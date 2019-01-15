@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-111-00-00
 | 2018-12-31 | 2018. évi CXI. törvény | 2018-111-00-00.0 (közlönyállapot) |
 | 2018-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-111-00-00.1 |
 | 2019-01-01 | 2010. évi CXXX. törvény | 2018-111-00-00.2 |
+| 2019-01-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-111-00-00.3 |
