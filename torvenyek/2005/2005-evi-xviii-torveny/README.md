@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-18-00-00
 | 2018-05-18 | 2018. évi V. törvény | 2005-18-00-00.38 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2005-18-00-00.39 |
 | 2018-12-19 | 2018. évi XCIX. törvény | 2005-18-00-00.40 |
+| 2019-01-15 | 2018. évi XCIX. törvény | 2005-18-00-00.41 |

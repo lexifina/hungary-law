@@ -1,21 +1,21 @@
-## Társaság átalakulása, alaptőke-változás, befolyásszerzés engedélyezése
+## Cégjogi események, befolyásszerzés engedélyezése
 
-19. § (1) A Hivatal jóváhagyó határozata szükséges az engedélyes társaságnak a Ptk. gazdasági társaságokra vonatkozó rendelkezései szerinti
+19. § (1) Az engedélyesnek a Ptk. rendelkezései szerinti szétválásához, más vállalkozással történő egyesüléséhez, átalakulásához, jogutód nélküli megszűnéséhez, valamint jegyzett tőkéjének legalább egynegyed résszel történő leszállításához (a továbbiakban együtt: cégjogi esemény) a Hivatal előzetes hozzájáruló határozata szükséges.
 
-a) egyesüléséhez, és
+(2) A cégjogi eseménnyel összefüggésben a cégjegyzékbe való bejegyzésre vagy változásbejegyzésére irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt kell benyújtani.
 
-b) szétválásához (a továbbiakban együttesen: átalakulás),
+(3) A Hivatal nem tagadhatja meg a jegyzett tőke leszállításához való hozzájárulást, ha azt az engedélyes számára jogszabály kötelezővé teszi.
 
-c) valamint alaptőkéjének, illetve törzstőkéjének legalább egynegyed résszel történő leszállításához, valamint
+(4) Bármely engedélyes vállalkozásban a szavazatok huszonöt, ötven vagy hetvenöt százalékát meghaladó, valamint száz százalékát elérő közvetlenül birtokolt szavazati jogot biztosító részvény, üzletrész vagy közvetlen szavazati jog szerzéséhez (a továbbiakban együtt: befolyásszerzés) és az ehhez fűződő jogok gyakorlásához a befolyásszerzőnek a Hivatal előzetes hozzájárulását kell kérnie.
 
-d) bármely engedélyes vállalkozásban történő, a szavazatok 25 százalékát, 50 százalékát, illetve 75 százalékát meghaladó befolyás szerzéséhez és az ehhez fűződő jogok gyakorlásához.
+(5) Nem kell a Hivatal előzetes hozzájárulása a (4) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyásszerző el nem éri a Hivatal előzetes hozzájárulásához kötött (4) bekezdés szerinti következő mértéket.
 
-(2) A Hivatal nem tagadhatja meg az alaptőke, illetve a törzstőke leszállításához való hozzájárulást, ha azt az engedélyes számára külön jogszabály kötelezővé teszi. A cégjegyzékbe való bejegyzésre irányuló kérelmet a cégbírósághoz a Hivatal határozatával együtt kell benyújtani.
+(6) A (3) bekezdésben meghatározott kivétellel a Hivatal az (1) és (4) bekezdésben meghatározott ügyletekhez történő hozzájárulását megtagadhatja vagy feltételhez kötheti, ha azok végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, a felhasználók érdekeit sérti, vagy a legkisebb költség elvének érvényesülését veszélyezteti.
 
-(3) A Hivatal a jóváhagyást megtagadhatja, illetőleg feltételhez kötheti, ha az (1) bekezdés szerinti változások végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, illetőleg a felhasználók érdekeit sérti.
+(7) A (4) bekezdésben meghatározott hozzájáruló határozat hiányában a befolyásszerző a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, továbbá a részvénykönyvbe nem jegyezhető be vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal hozzájáruló határozatával együtt kell benyújtani.
 
-(4) A Hivatal határozatának hiányában az (1) bekezdés rendelkezéseivel kapcsolatos, a részvényesre és tagra vonatkozó változások a részvénykönyvbe nem jegyezhetők be, illetve a tagjegyzékbe nem tüntethetők fel és erre a társaságban jogot alapítani nem lehet.
+(8) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
 
-(5)
+(9) Cégjogi esemény esetén a (8) bekezdés szerinti megfelelés ellenőrzés kezdeményezésével egyidejűleg, továbbá befolyásszerzés esetén – ha a befolyásszerzés az engedélyes működési engedélyét érinti – az érintett engedélyes kezdeményezi a Hivatalnál az engedély módosítását vagy új engedély kiadását. Az engedély módosításáig vagy az új engedély kiadásáig az engedély vonatkozásában a jogutódlás szabályai alkalmazandóak. A Hivatal az engedély módosításáról vagy új engedély kiadásáról külön eljárás keretében dönt.
 
-(6) Ha az engedélyes villamosenergia-termelési működési engedéllyel is rendelkezik, az (1) bekezdésben szabályozott esetekben a Vet. rendelkezéseit is alkalmazni kell.
+(10) Az e §-ban meghatározottak megszegése vagy az előírt kötelezettségek elmulasztása esetén a Hivatal bírságot szabhat ki az engedélyessel és a befolyásszerzővel szemben.
