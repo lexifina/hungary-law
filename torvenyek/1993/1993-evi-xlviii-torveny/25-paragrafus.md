@@ -24,17 +24,19 @@ c) a földtani kutatás engedélyese által szolgáltatott adatokat az összefog
 
 d) az együttes művelési tervhez szolgáltatott földtani adatokat, a 29. § (2) bekezdése szerinti műszaki üzemi terv teljesítési idejét követő három évig.
 
-(3a) Közérdekű adatnak minősül
+(3a) Az adat keletkezésének idejétől függetlenül közérdekből nyilvános adatnak minősül:
 
 a) az elvégzett kutatások, illetve földtani kutatások helyére és idejére,
 
 b) a kutatási, illetve földtani kutatási adatok birtokosára,
 
-c) az éves kitermelt ásványi nyersanyag mennyiségére, minőségére, a kinyert geotermikus energia mennyiségére,
+c) a bányatelket megállapító vagy módosító határozatban szereplő vagy ahhoz csatolt, az ásványi nyersanyag elhelyezkedésére, a földtani és kitermelhető vagyon mennyiségére és minőségére,
 
-d) a kitermelés, kinyerés helyére, és
+d) az éves kitermelt ásványi nyersanyag mennyiségére, minőségére, a tárgyév végén a bányatelekben található ásványi nyersanyag elhelyezkedésére, a földtani és kitermelhető vagyon mennyiségére és minőségére, a kinyert geotermikus energia mennyiségére,
 
-e) a bevallott bányajáradék összegére
+e) a kitermelés, kinyerés helyére, és
+
+f) a bevallott bányajáradék összegére
 
 vonatkozó információ.
 

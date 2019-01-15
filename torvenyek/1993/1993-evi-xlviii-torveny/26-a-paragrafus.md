@@ -34,4 +34,4 @@ c) a gazdálkodó szervezet jogutód nélkül megszűnik.
 
 (7) A pályázatot a bányafelügyelet a honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben – szénhidrogének esetében az Európai Unió hivatalos lapjában is – meghirdeti.
 
-(8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat véglegessé válását követően a bányafelügyelet a 26/B. § (5) bekezdése szerint hivatalból törli a nyilvántartásból.
+(8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat véglegessé válását követően a bányafelügyelet hivatalból törli a nyilvántartásból.

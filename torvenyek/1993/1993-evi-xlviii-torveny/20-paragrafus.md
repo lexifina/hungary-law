@@ -52,7 +52,7 @@ g) kőszenek mélyműveléses bányászata esetén 0%-a;
 
 h) egyéb szilárd ásványi nyersanyagok esetében 2%-a;
 
-i) a nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén esetében 2%-a.
+i) a nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén esetében, továbbá a termálvízzel kitermelt kísérőgázból kinyert szénhidrogén hasznosítása esetében 2%-a.
 
 (3a) A bányajáradék mértéke
 
@@ -80,7 +80,7 @@ d) a 30 °C-ot el nem érő energiahordozóból kinyert geotermikus energia utá
 
 e) a kitermelt geotermikus energia 50%-ot meghaladóan hasznosított mennyisége után, valamint
 
-f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosított termálvíz visszahűtéséből származó geotermikus energiának (hőenergiának) az engedélyes saját céljára történő hasznosítása után.
+f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosított termálvíz visszahűtéséből származó geotermikus energiának (hőenergiának), továbbá a kísérőgázból kinyert szénhidrogénnek az engedélyes saját céljára történő hasznosítása után.
 
 (7) A bányajáradék mértéke geotermikus energia esetében a kitermelt geotermikus energia értékének 2%-a.
 

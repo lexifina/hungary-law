@@ -26,7 +26,7 @@ c) azt, hogy a kérelmezők a korábbi engedélyeik alapján tevékenységüket 
 
 d) átruházási szándék esetén az a)–c) pontokban foglaltak mellett azt is, hogy a kérelmező átvevő milyen összeget vállal fizetni az engedély elnyerése érdekében.
 
-(11) Nem minősül az (1) és (6) bekezdés szerinti engedély megadásának:
+(11) Nem minősül az (1) bekezdés szerinti engedély megadásának:
 
 a) a kutatási engedély, valamint a bányatelek jogosultjának névátírása, ha az a meglévő engedéllyel rendelkező vállalkozás névváltozásából vagy tulajdonosváltozásából, vagy az ilyen vállalkozás tulajdonosi összetételének változásából ered,
 
@@ -36,4 +36,4 @@ c) a bányafelügyelet olyan eljárás keretében hozott határozata, amely a te
 
 (12) Ha egyes szénhidrogén-bányászati tevékenységek megkezdéséhez, illetve e tevékenységek végzéséhez szükséges létesítmények megépítéséhez jogszabály környezetvédelmi-, vagy egységes környezethasználati engedély megszerzését írja elő, akkor e tevékenységeket, illetve ilyen létesítmények megépítését a bányafelügyelet csak véglegessé vált környezetvédelmi-, illetve egységes környezethasználati engedély megléte esetén engedélyezi.
 
-(13) Szénhidrogének esetében egy bányavállalkozó kutatási joga vagy kutatási engedélye összesen legfeljebb 15 000 km2 szénhidrogén kutatási területre terjedhet ki. A kutatási terület megállapítása során a kutatási jogot vagy a kutatási engedélyt megszerezni kívánó bányavállalkozóban a Polgári Törvénykönyv szerinti többségi befolyással rendelkező bányavállalkozó kutatási területét is figyelembe kell venni.
+(13) Szénhidrogének esetében egy bányavállalkozó kutatási joga vagy kutatási engedélye összesen legfeljebb 20 000 km2 szénhidrogén kutatási területre terjedhet ki. A kutatási terület megállapítása során a kutatási jogot vagy a kutatási engedélyt megszerezni kívánó bányavállalkozóban a Polgári Törvénykönyv szerinti többségi befolyással rendelkező bányavállalkozó kutatási területét is figyelembe kell venni.

@@ -92,7 +92,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter
 
-a) a műszaki biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésre és gyakorlatra vonatkozó rendelkezéseknek,
+a) a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítés és gyakorlat, valamint az ilyen munkakörben foglalkoztatottak alaptanfolyami és időszakos továbbképzésével kapcsolatos szabályok,
 
 b) egyes munkabiztonsági szaktevékenységnek minősülő feladatok ellátásához szükséges szakmai képesítésre és gyakorlatra vonatkozó rendelkezések,
 

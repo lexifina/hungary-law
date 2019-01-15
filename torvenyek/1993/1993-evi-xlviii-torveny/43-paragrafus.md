@@ -18,11 +18,11 @@
 
 (8)
 
-(9) A bányafelügyelet működését saját bevételeiből és központi költségvetési támogatásból fedezi. A bányafelügyelet részére felügyeleti tevékenységéért a bányatelek jogosítottja, a földgáztárolói, -szállítói és elosztói, PB-gáz forgalmazói engedélyes, a határon átnyúló szolgáltatásként PB-gáz forgalmazást végző, valamint a bányászati hulladék kezelője, a szén-dioxid-tárolóhely üzemeltetője és a szén-dioxid- szállítóhálózat üzemeltetője felügyeleti díjat köteles fizetni.
+(9) A bányafelügyelet működését saját bevételeiből és központi költségvetési támogatásból fedezi. A bányafelügyelet részére felügyeleti tevékenységéért a bányatelek vagy kutatási terület jogosítottja, a földgáztárolói, -szállítói és -elosztói, PB-gáz forgalmazói engedélyes, a határon átnyúló szolgáltatásként PB-gáz forgalmazást végző, valamint a bányászati hulladék kezelője, a szén-dioxid-tárolóhely üzemeltetője és a szén-dioxid-szállítóhálózat üzemeltetője felügyeleti díjat köteles fizetni.
 
 (9a) A felügyeleti díj éves mértéke
 
-a) a bányatelekből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,
+a) a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,
 
 b) az engedélyes tevékenység esetében a tárgyévet megelőző évi árbevétel 0,4%-a,
 

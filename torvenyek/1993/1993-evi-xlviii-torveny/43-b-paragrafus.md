@@ -4,7 +4,7 @@
 
 (3) Az e törvényben vagy az e törvény végrehajtására kiadott jogszabályban meghatározott hatásterületen lévő ingatlan tulajdonosa, és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-(4) A bányafelügyelet a kérelemre indult eljárásban az eljárás megindításáról – a kérelmező ügyfél kivételével – az ügyfeleket nyolc napon belül értesíti, kivéve, ha az eljárás megindítását követő nyolc napon belül dönt, az eljárást megszünteti vagy függő hatályú döntést hoz.
+(4)
 
 (5) A bányafelügyelet hatósági eljárásaiban
 
@@ -24,4 +24,4 @@ c) a döntés szóban nem közölhető.
 
 (10) A bányafelügyelet hatósági eljárása során a székhelyén lakcímmel nem rendelkező természetes személyt vagy a székhellyel nem rendelkező jogi személy törvényes képviselőjét is idézheti székhelyére.
 
-(11) Ha az eljárás a hatásterületen lévő ingatlan tulajdonosát, vagy azt, akinek a jogát az ingatlan-nyilvántartásba bejegyezték, illetve több mint ötven ügyfelet érint – az eljárás megindításáról szóló értesítés, valamint az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a bányafelügyelet a döntéseit hirdetményi úton közli.
+(11) Ha az eljárás a hatásterületen lévő ingatlan tulajdonosát, vagy azt, akinek a jogát az ingatlan-nyilvántartásba bejegyezték, illetve több mint ötven ügyfelet érint – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a bányafelügyelet a döntéseit hirdetményi úton közli.

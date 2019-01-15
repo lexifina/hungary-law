@@ -4,7 +4,11 @@
 
 49. § E törvény alkalmazásában:
 
-1. „Ásványi nyersanyag”: olyan ásványi anyag, mely a fennálló tudományos-technikai fejlettségi szinten hasznosítható. Nem minősül ásványi nyersanyagnak a külön törvény hatálya alá tartozó talaj és halmazállapotától függetlenül a víz.
+1. Ásványi nyersanyag: olyan ásványi anyag, amely a fennálló tudományos-technikai fejlettségi szinten hasznosítható; nem minősül ásványi nyersanyagnak
+
+a) a talajvédelmi terv készítésének részletes szabályairól szóló rendelet hatálya alá tartozó talaj talajvédelmi szempontból mentendő humuszos rétege, és
+
+b) halmazállapotától függetlenül a víz.
 
 2. ,,Ásványvagyon'' az ásványi nyersanyagoknak azon része, amelynek mennyiségét és minőségét földtani, valamint bányaműszaki és -gazdasági szempontok alapján becsléssel vagy számítással határozzák meg.
 
@@ -138,7 +142,7 @@ A bányavállalkozó tulajdonában lévő távadat-átviteli eszközök a száll
 
 35. „Polgári robbantási tevékenység”: a polgári felhasználású robbanóanyag gyártása, megszerzése, tárolása, felhasználása, megsemmisítése.
 
-36. Cél-kitermelőhely” a külön törvény hatálya alá tartozó gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges homok, kavics és agyag ásványi nyersanyag (ideértve ezek változatait és keverékeit is) felszín alatti vizet nem érintő kitermelésére létesített kitermelő hely.
+36. Cél-kitermelőhely” a külön törvény hatálya alá tartozó gyorsforgalmi utak és a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedésfejlesztési projektek földművei (töltései) megépítéséhez szükséges homok, kavics és agyag ásványi nyersanyag (ideértve ezek változatait és keverékeit is) felszín alatti vizet nem érintő kitermelésére létesített kitermelő hely.
 
 37. Magas inertgáz tartalmú földgáz”: az olyan földgáz, amelyben a nem éghető gázok (joghatású méréssel meghatározott) aránya eléri vagy meghaladja a 30(térfogat)%-ot.
 
