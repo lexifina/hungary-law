@@ -1,3 +1,0 @@
-7. § (1) Az adatkezelési előírások betartásáért az egészségügyi szolgáltatónál működő adatvédelmi felelős, annak hiányában az adatszolgáltató orvos, az adatszolgáltatás végrehajtásáért, az adatközlés teljességéért az egészségügyi szolgáltató vagy az adatot szolgáltató intézmény vezetője felelős. A Szívinfarktus Regiszter részére továbbított adatok hitelességéért a kezelőorvos, illetve a patológiai vizsgálatot végző orvos felelős. A jelentett adatoknak egyezniük kell a beteg egészségügyi dokumentációjában szereplő adatokkal.
-
-(2) Ha a Szívinfarktus Regiszterbe felvett személynél az infarktus megállapítása mégsem igazolódott, akkor a nyilvántartásból törölni kell valamennyi, az érintettre vonatkozó adatot.

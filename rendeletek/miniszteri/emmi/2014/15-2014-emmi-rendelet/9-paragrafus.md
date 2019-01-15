@@ -1,1 +1,0 @@
-## 8. § A Szívinfarktus Regiszter adattisztítás céljából a kimutatható hiányosságot vagy hibát tartalmazó adatszolgáltatásokról rendszeresen visszajelzést küld az érintett adatszolgáltatóknak. Az adatszolgáltató köteles a megkeresés alapján gondoskodni az adattartalom javításáról és a javításnak a Szívinfarktus Regiszter részére történő továbbításáról.

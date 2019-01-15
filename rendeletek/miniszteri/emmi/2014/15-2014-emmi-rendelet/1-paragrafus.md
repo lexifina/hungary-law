@@ -1,3 +1,0 @@
-1. § (1) A Nemzeti Szívinfarktus Regiszter (a továbbiakban: Szívinfarktus Regiszter) részére a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző orvos, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező orvos továbbítja az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 16. § (9) bekezdése szerinti adatokat.
-
-(2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott heveny szívinfarktusra, ha a diagnózis – a haláloki diagnózisokat is beleértve – a Betegségek Nemzetközi Osztályozása (a továbbiakban: BNO) 10. revíziója I21-I23 tételeinek bármelyike (a továbbiakban: infarktus).
