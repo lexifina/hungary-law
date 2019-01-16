@@ -1,4 +1,4 @@
-5. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^25]
+5. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^26]
 
 ## Az úti okmány iránti kérelem adattartalma
 
@@ -40,4 +40,4 @@
 
 19. Benyújtás dátuma
 
-[^25]: Az 5. számú mellékletet újonnan a 64/2004. (X. 28.) BM rendelet 6. §-ának (3) bekezdése iktatta be, szövege a 37/2018. (XII. 28.) BM rendelet 2. §-ával megállapított szöveg.
+[^26]: Az 5. számú mellékletet újonnan a 64/2004. (X. 28.) BM rendelet 6. §-ának (3) bekezdése iktatta be, szövege a 37/2018. (XII. 28.) BM rendelet 2. §-ával megállapított szöveg.

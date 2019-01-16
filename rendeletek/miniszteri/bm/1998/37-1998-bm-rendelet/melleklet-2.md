@@ -1,4 +1,4 @@
-2. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^22]
+2. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^23]
 
 ## Az ideiglenes magánútlevél adattartalma
 
@@ -48,4 +48,4 @@ Az ideiglenes magánútlevél borítólapjának színe: kék.
 
 Az ideiglenes magánútlevél gépi azonosító adatsort csak a géppel történő kiállítás technikai feltételeinek megléte esetén tartalmaz.
 
-[^22]: A 2. számú melléklet a 23/2006. (IX. 27.) IRM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. számú melléklet a 23/2006. (IX. 27.) IRM rendelet 4. § (2) bekezdésével megállapított szöveg.

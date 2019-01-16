@@ -1,4 +1,4 @@
-6. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^26]
+6. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^27]
 
 |  | IDEIGLENES MAGÁNÚTLEVÉL-IGÉNYLŐLAP |
 
@@ -14,4 +14,4 @@
 
 A vastagon bekeretezett részt a Kérelmező tölti ki.
 
-[^26]: A 6. számú mellékletet a 23/2006. (IX. 27.) IRM rendelet 4. § (3) bekezdése iktatta be.
+[^27]: A 6. számú mellékletet a 23/2006. (IX. 27.) IRM rendelet 4. § (3) bekezdése iktatta be.
