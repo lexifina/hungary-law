@@ -1,4 +1,4 @@
-3. melléklet a 39/2013. (XII. 30.) KIM rendelethez[^39]
+3. melléklet a 39/2013. (XII. 30.) KIM rendelethez[^40]
 
 ## A biankó okmányok, tartozékok, PIN borítékok, rendszámok és kellékek központi ellátásának rendje és az elszámolás szabályai
 
@@ -116,4 +116,4 @@ A nyomdai hibás/gyártáshibás biankó okmányokról és PIN borítékokról j
 
 Az okmányokat és PIN borítékokat biztonságos körülmények között, típusonként elkülönítve, tűzvédelmi szempontokból is megfelelő helyen kell tárolni.
 
-[^39]: A 3. melléklet a 19/2016. (VI. 29.) MvM rendelet 5. § (3) bekezdése, a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés e)–i) pontja szerint módosított szöveg.
+[^40]: A 3. melléklet a 19/2016. (VI. 29.) MvM rendelet 5. § (3) bekezdése, a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés e)–i) pontja szerint módosított szöveg.
