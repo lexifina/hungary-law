@@ -1,3 +1,1 @@
-7. § A Bt. 27. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, a településrendezési eszközökben foglaltaknak való megfelelést, továbbá a tájrendezés teljesítését.”
+7. §
