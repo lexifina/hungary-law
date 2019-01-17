@@ -18,7 +18,7 @@
 
 ## További vizsgálatokra is szükség lehet speciális komponensek vagy donorok esetén, illetve epidemiológiai helyzetekben.
 
-6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^76]
+6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^84]
 
 A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmények
 
@@ -196,4 +196,4 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Granulocita-tartalom | Több, mint 1×1010 granulocita egységenként |
 
-[^76]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § b) és j) pontja szerint módosított szöveg.
+[^84]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § b) és j) pontja szerint módosított szöveg.

@@ -1,3 +1,5 @@
+## 17/E. §[^62] A minőségügyi és vérmintaadó biztonsági előírásokat, ideértve az ipari célú vérmintaadók nyilvántartására, vérmintaadás előtti kivizsgálására és a vérminta levételére vonatkozó részletes szabályokat, az OVSZ által kiadott eljárásrend határozza meg.
+
 ## Vér és vérkomponensek szállítása, elosztása és tárolása
 
 18. § (1) A vér és vérkomponensek tárolásának, szállításának és elosztásának feltételeit a 7. számú melléklet tartalmazza.
@@ -11,3 +13,5 @@
 (5) A nem megfelelő körülmények között tárolt, illetve szállított vérkészítmény transzfúziós célra nem adható ki és transzfúzióra nem használható fel.
 
 (6) A vérkészítmény megsemmisítésére az egészségügyi intézményekben keletkező hulladék kezeléséről szóló külön jogszabály rendelkezéseit kell alkalmazni.
+
+[^62]: A 17/E. §-t a 2/2019. (I. 16.) EMMI rendelet 3. §-a iktatta be.

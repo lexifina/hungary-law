@@ -4,7 +4,7 @@
 
 1. donor: az a személy, aki a véradás keretében vért vagy vérkomponenst ad;
 
-2.[^1] vérgyűjtés: térítésmentes véradás keretében önkéntes donortól orvosi felügyelet alatt vér, vérkomponens vétele, továbbá a vizsgálat, feldolgozás helyére történő továbbítása;
+2.[^2] vérgyűjtés: térítésmentes véradás keretében önkéntes donortól orvosi felügyelet alatt vér, vérkomponens vétele, továbbá a vizsgálat, feldolgozás helyére történő továbbítása;
 
 3. transzfúzió: gyógyító-megelőző céllal vér vagy vérkészítmény bevitele a recipiens érrendszerébe;
 
@@ -12,11 +12,11 @@
 
 5. allogén (homológ) véradás: olyan folyamat, amely során vért, illetve vérkomponenst vesznek le valamely személytől azzal a céllal, hogy azt a későbbiekben egy másik személynél végzett transzfúzióra, orvostechnikai eszközökben, illetve gyógyszerkészítmények alapanyagaként használják fel;
 
-6.[^2] autológ véradás: olyan térítésmentes folyamat, amely során vért, illetve vérkomponenst vesznek le valamely személytől azzal a kizárólagos céllal, hogy azt a későbbiekben autotranszfúzióra vagy ugyanazon személyen végzett egyéb emberi alkalmazásokra használják fel;
+6.[^3] autológ véradás: olyan térítésmentes folyamat, amely során vért, illetve vérkomponenst vesznek le valamely személytől azzal a kizárólagos céllal, hogy azt a későbbiekben autotranszfúzióra vagy ugyanazon személyen végzett egyéb emberi alkalmazásokra használják fel;
 
-7.[^3] donor citoferezis: olyan térítésmentes véradási eljárás, amelynek során a teljes vér gépi feldolgozása útján egy vagy több alakos vérkomponenst kinyernek, és a folyamat közben vagy a végén a vér visszamaradó komponenseit visszajuttatják a donor szervezetébe;
+7.[^4] donor citoferezis: olyan térítésmentes véradási eljárás, amelynek során a teljes vér gépi feldolgozása útján egy vagy több alakos vérkomponenst kinyernek, és a folyamat közben vagy a végén a vér visszamaradó komponenseit visszajuttatják a donor szervezetébe;
 
-7a.[^4] donor plazmaferezis: olyan térítésmentes véradási eljárás, amelynek során a teljes vér gépi feldolgozása útján a vérplazmát stabilis vérkészítmény, illetve gyógyszerkészítmény gyártás céljából alapanyagként kinyerik, és a folyamat közben vagy a végén a vér visszamaradó komponenseit visszajuttatják a donor szervezetébe;
+7a.[^5] donor plazmaferezis: olyan térítésmentes véradási eljárás, amelynek során a teljes vér gépi feldolgozása útján a vérplazmát stabilis vérkészítmény, illetve gyógyszerkészítmény gyártás céljából alapanyagként kinyerik, és a folyamat közben vagy a végén a vér visszamaradó komponenseit visszajuttatják a donor szervezetébe;
 
 8. kizárás véradásból: annak megállapítása, hogy a donor átmenetileg, tartósan vagy véglegesen alkalmatlan arra, hogy vért vagy vérkomponenst adjon;
 
@@ -36,7 +36,7 @@
 
 16. plazma: a vérnek azon folyékony része, amelyben a vérsejtek szuszpenziót képeznek. A plazma a véradás alkalmával levett teljes vér sejtes elemeitől elválasztható;
 
-17.[^5] friss fagyasztott plazma: véradás során levett teljes vérből elválasztott felülúszó plazma vagy donor citoferezissel gyűjtött plazma, amelyet fagyasztva tárolnak;
+17.[^6] friss fagyasztott plazma: véradás során levett teljes vérből elválasztott felülúszó plazma vagy donor citoferezissel gyűjtött plazma, amelyet fagyasztva tárolnak;
 
 18. krioprecipitátum: olyan friss fagyasztott plazmakomponens, amelyet a fehérjék olvasztásos-fagyasztásos kicsapásával és az azt követő koncentrálással, majd a kicsapott fehérjék kis mennyiségű plazmában történő feloldásával állítanak elő;
 
@@ -60,11 +60,11 @@
 
 28. vörösvérsejt koncentrátum, fehérvérsejt-mentes, additív oldatban: egyszeri teljes véradásból származó vörösvérsejt mennyiség, amelyről a véradás során levett plazma nagy részét és a fehérvérsejteket eltávolították. A sejtekhez tápláló és tartósító oldatot adnak;
 
-29.[^6] vörösvérsejt koncentrátum, donor citoferezisből: az a vörösvérsejt mennyiség, amelyet vörösvérsejt donor citoferezis eljárással nyernek;
+29.[^7] vörösvérsejt koncentrátum, donor citoferezisből: az a vörösvérsejt mennyiség, amelyet vörösvérsejt donor citoferezis eljárással nyernek;
 
-30.[^7] trombocita koncentrátum, donor citoferezisből (egyedi): donor citoferezis útján előállított trombocita szuszpenzió;
+30.[^8] trombocita koncentrátum, donor citoferezisből (egyedi): donor citoferezis útján előállított trombocita szuszpenzió;
 
-31.[^8] trombocita koncentrátum, fehérvérsejt-mentes, donor citoferezisből (egyedi): donor citoferezis útján előállított trombocita szuszpenzió, amelyből a fehérvérsejteket eltávolítják;
+31.[^9] trombocita koncentrátum, fehérvérsejt-mentes, donor citoferezisből (egyedi): donor citoferezis útján előállított trombocita szuszpenzió, amelyből a fehérvérsejteket eltávolítják;
 
 32. trombocita koncentrátum, poolozott: olyan trombocita szuszpenzió, amelyet teljes vér egységek feldolgozásából a szétválasztás során vagy azt követően a vér egységekből származó trombocita egységek poolozása útján állítanak elő;
 
@@ -74,7 +74,7 @@
 
 35. trombocita koncentrátum, egy egységes, egyedi, fehérvérsejt-mentes: olyan trombocita szuszpenzió, amelyet egyetlen teljes vér egység feldolgozásával állítanak elő, és amelyből a fehérvérsejteket eltávolítják;
 
-36.[^9] granulocita koncentrátum, donor citoferezisből (egyedi): donor citoferezis útján előállított granulocita szuszpenzió;
+36.[^10] granulocita koncentrátum, donor citoferezisből (egyedi): donor citoferezis útján előállított granulocita szuszpenzió;
 
 37. tanúsítás: olyan eljárás, amely révén biztosított, hogy az előállított vérkészítmény transzfúziós célra kiadható;
 
@@ -92,75 +92,78 @@
 
 44. statisztikai folyamatellenőrzés: valamely termék vagy eljárás minőségellenőrzésének olyan módszere, amely megfelelő számú minta elemzésén alapul, az eljárás során keletkező valamennyi termék elemzésének szükségessége nélkül;
 
-45.[^10] nyomon követhetőség: minden egyes különálló vér vagy az abból származó vérkomponens nyomon követése a donortól a végső rendeltetési helyig – ideértve a recipienst, a gyógyszerek gyártóját vagy a megsemmisítő helyet – és fordítva;
+45.[^11] nyomon követhetőség: minden egyes különálló vér vagy az abból származó vérkomponens nyomon követése a donortól a végső rendeltetési helyig – ideértve a recipienst, a gyógyszerek gyártóját vagy a megsemmisítő helyet – és fordítva;
 
-46.[^11] bejelentő intézmény: az OVSZ azon területi szerve, illetve az a kórházi transzfúziós osztály, amely a 10. § szerinti bejelentéseket megteszi;
+46.[^12] bejelentő intézmény: az OVSZ azon területi szerve, illetve az a kórházi transzfúziós osztály, amely a 10. § szerinti bejelentéseket megteszi;
 
-47.[^12] kiadás: transzfúzió céljából egy recipiens vérrel vagy vérkomponenssel történő ellátása az OVSZ területi szerve vagy a kórházi transzfúziós osztály által;
+47.[^13] kiadás: transzfúzió céljából egy recipiens vérrel vagy vérkomponenssel történő ellátása az OVSZ területi szerve vagy a kórházi transzfúziós osztály által;
 
-48.[^13] hozzárendelési szintek: azok a szintek, amelyek megmutatják annak valószínűségét, hogy egy recipiens súlyos szövődménye a beadott vérnek vagy vérkomponensnek, illetve egy donor súlyos szövődménye a véradási eljárásnak tulajdonítható;
+48.[^14] hozzárendelési szintek: azok a szintek, amelyek megmutatják annak valószínűségét, hogy egy recipiens súlyos szövődménye a beadott vérnek vagy vérkomponensnek, illetve egy donor súlyos szövődménye a véradási eljárásnak tulajdonítható;
 
-49.[^14] intézmény: azon fekvőbeteg-gyógyintézet, gyógyszergyár, kutatóintézet, vérgyűjtést végző egyéb szervezet, amelybe vért vagy vérkomponenseket lehet szállítani;
+49.[^15] intézmény: azon fekvőbeteg-gyógyintézet, gyógyszergyár, kutatóintézet, vérgyűjtést végző egyéb szervezet, amelybe vért vagy vérkomponenseket lehet szállítani;
 
-50.[^15] szabvány: az összehasonlítás alapjául szolgáló követelmények;
+50.[^16] szabvány: az összehasonlítás alapjául szolgáló követelmények;
 
-51.[^16] előírás: az előírt minőségi követelmények elérése érdekében teljesítendő kritériumok leírása;
+51.[^17] előírás: az előírt minőségi követelmények elérése érdekében teljesítendő kritériumok leírása;
 
-52.[^17] minőségbiztosítási rendszer: a minőségirányítás végrehajtásához szükséges szervezeti felépítés, felelősségi körök, eljárások, folyamatok és erőforrások;
+52.[^18] minőségbiztosítási rendszer: a minőségirányítás végrehajtásához szükséges szervezeti felépítés, felelősségi körök, eljárások, folyamatok és erőforrások;
 
-53.[^18] minőségirányítás: az OVSZ valamennyi területi szervére vonatkozóan érvényes minőségügyi irányításra és ellenőrzésre szolgáló összehangolt tevékenység;
+53.[^19] minőségirányítás: az OVSZ valamennyi területi szervére vonatkozóan érvényes minőségügyi irányításra és ellenőrzésre szolgáló összehangolt tevékenység;
 
-54.[^19] minőségellenőrzés: a minőségbiztosítási rendszernek a minőségi követelmények teljesítésére vonatkozó része;
+54.[^20] minőségellenőrzés: a minőségbiztosítási rendszernek a minőségi követelmények teljesítésére vonatkozó része;
 
-55.[^20] minőségbiztosítás: a vér gyűjtésétől a kiadásig minden olyan tevékenység, amelynek célja, hogy a vér és vérkomponensek a felhasználáshoz megkövetelt minőségűek legyenek;
+55.[^21] minőségbiztosítás: a vér gyűjtésétől a kiadásig minden olyan tevékenység, amelynek célja, hogy a vér és vérkomponensek a felhasználáshoz megkövetelt minőségűek legyenek;
 
-56.[^21] visszakeresés: valamely transzfúzióval kapcsolatos káros esemény kivizsgálásának folyamata, amely visszavezethető a véradóra;
+56.[^22] visszakeresés: valamely transzfúzióval kapcsolatos káros esemény kivizsgálásának folyamata, amely visszavezethető a véradóra;
 
-57.[^22] műveleti utasítások: meghatározott műveletek elvégzésének módját leíró ellenőrzött dokumentumok;
+57.[^23] műveleti utasítások: meghatározott műveletek elvégzésének módját leíró ellenőrzött dokumentumok;
 
-58.[^23] mobil véradóhely: vér és vérkomponensek gyűjtésére használt ideiglenes vagy mobil egység, amely az OVSZ területi szervének területén kívül, de annak ellenőrzése alatt működik;
+58.[^24] mobil véradóhely: vér és vérkomponensek gyűjtésére használt ideiglenes vagy mobil egység, amely az OVSZ területi szervének területén kívül, de annak ellenőrzése alatt működik;
 
-59.[^24] feldolgozás: a vérgyűjtés és a vérkomponens kiadása között a vérkomponens elkészítése, ellenőrzése során elvégzett minden lépés;
+59.[^25] feldolgozás: a vérgyűjtés és a vérkomponens kiadása között a vérkomponens elkészítése, ellenőrzése során elvégzett minden lépés;
 
-60.[^25] helyes gyakorlat: olyan megalapozott gyakorlat, amelynek minden eleme hozzájárul ahhoz, hogy a végtermék, a vér vagy vérkomponens minősége előre meghatározott, és a hatályos jogszabályoknak is megfelel;
+60.[^26] helyes gyakorlat: olyan megalapozott gyakorlat, amelynek minden eleme hozzájárul ahhoz, hogy a végtermék, a vér vagy vérkomponens minősége előre meghatározott, és a hatályos jogszabályoknak is megfelel;
 
-61.[^26] karantén: a vérkomponensek vagy a bejövő anyag, illetve reagensek elfogadására, kiadására vagy visszautasítására történő várakozás ideje alatt a vérkomponensek, illetve anyagok, reagensek változó ideig tartó fizikai elkülönítése;
+61.[^27] karantén: a vérkomponensek vagy a bejövő anyag, illetve reagensek elfogadására, kiadására vagy visszautasítására történő várakozás ideje alatt a vérkomponensek, illetve anyagok, reagensek változó ideig tartó fizikai elkülönítése;
 
-62.[^27] validálás: dokumentált és objektív bizonyítékok létrehozása, hogy egy adott eljárás vagy folyamat előre meghatározott követelményeit következetesen képes teljesíteni;
+62.[^28] validálás: dokumentált és objektív bizonyítékok létrehozása, hogy egy adott eljárás vagy folyamat előre meghatározott követelményeit következetesen képes teljesíteni;
 
-63.[^28] minősítés: a validálás részeként annak tanúsítása, hogy a teljes személyzet, az intézmények, berendezések vagy anyagok megfelelően működnek, és az elvárt eredményt teljesítik;
+63.[^29] minősítés: a validálás részeként annak tanúsítása, hogy a teljes személyzet, az intézmények, berendezések vagy anyagok megfelelően működnek, és az elvárt eredményt teljesítik;
 
-64.[^29] számítógépes rendszer: a jelentéshez, automatikus ellenőrzéshez vagy dokumentációhoz használatos rendszer, beleértve az adatbevitelt, az elektronikus adatfeldolgozást, adathordozón történő tárolást és az információk kibocsátását;
+64.[^30] számítógépes rendszer: a jelentéshez, automatikus ellenőrzéshez vagy dokumentációhoz használatos rendszer, beleértve az adatbevitelt, az elektronikus adatfeldolgozást, adathordozón történő tárolást és az információk kibocsátását;
 
-65.[^30] speciálisan képzett egészségügyi dolgozó: a vérellátó azon egészségügyi dolgozója, aki rendelkezik igazolással az OVSZ-nek az egészséges véradók vizsgálatánál felmerülő szempontok ismereteinek elsajátításáról szóló képzésén való részvételről.
+65.[^31] speciálisan képzett egészségügyi dolgozó: a vérellátó azon egészségügyi dolgozója, aki rendelkezik igazolással az OVSZ-nek az egészséges véradók vizsgálatánál felmerülő szempontok ismereteinek elsajátításáról szóló képzésén való részvételről.
 
-[^1]: A 2. § 2. pontja a 44/2016. (XII. 28.) EMMI rendelet 43. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 6. pontja a 44/2016. (XII. 28.) EMMI rendelet 43. § (2) bekezdésével megállapított szöveg.
-[^3]: A 2. § 7. pontja a 44/2016. (XII. 28.) EMMI rendelet 43. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § 7a. pontját a 44/2016. (XII. 28.) EMMI rendelet 43. § (3) bekezdése iktatta be.
-[^5]: A 2. § 17. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § a) pontja szerint módosított szöveg.
-[^6]: A 2. § 29. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § b)–c) pontja szerint módosított szöveg.
-[^7]: A 2. § 30. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § b)–c) pontja szerint módosított szöveg.
-[^8]: A 2. § 31. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § b)–c) pontja szerint módosított szöveg.
-[^9]: A 2. § 36. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § b)–c) pontja szerint módosított szöveg.
-[^10]: A 2. § 45. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^11]: A 2. § 46. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^12]: A 2. § 47. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^13]: A 2. § 48. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^14]: A 2. § 49. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 44/2016. (XII. 28.) EMMI rendelet 43. § (4) bekezdésével megállapított szöveg.
-[^15]: A 2. § 50. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^16]: A 2. § 51. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^17]: A 2. § 52. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^18]: A 2. § 53. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^19]: A 2. § 54. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^20]: A 2. § 55. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^21]: A 2. § 56. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^22]: A 2. § 57. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^23]: A 2. § 58. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^24]: A 2. § 59. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^25]: A 2. § 60. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^26]: A 2. § 61. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^27]: A 2. § 62. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^28]: A 2. § 63. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^29]: A 2. § 64. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^30]: A 2. § 65. pontját a 6/2013. (I. 18.) EMMI rendelet 14. §-a iktatta be.
+66.[^32] ipari célú vérmintavétel: minden olyan vérmintavételi tevékenység, amelynek során a levett emberi vérmintákat biológiai reagens termékek minőségellenőrzési folyamatában használják fel, azok nem diagnosztikus, terápiás vagy kutatási céllal kerülnek felhasználásra, valamint azokat nem raktározzák.
+
+[^2]: A 2. § 2. pontja a 44/2016. (XII. 28.) EMMI rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 6. pontja a 44/2016. (XII. 28.) EMMI rendelet 43. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § 7. pontja a 44/2016. (XII. 28.) EMMI rendelet 43. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § 7a. pontját a 44/2016. (XII. 28.) EMMI rendelet 43. § (3) bekezdése iktatta be.
+[^6]: A 2. § 17. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § 29. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § b)–c) pontja szerint módosított szöveg.
+[^8]: A 2. § 30. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § b)–c) pontja szerint módosított szöveg.
+[^9]: A 2. § 31. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § b)–c) pontja szerint módosított szöveg.
+[^10]: A 2. § 36. pontja a 44/2016. (XII. 28.) EMMI rendelet 48. § b)–c) pontja szerint módosított szöveg.
+[^11]: A 2. § 45. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^12]: A 2. § 46. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^13]: A 2. § 47. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^14]: A 2. § 48. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^15]: A 2. § 49. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be, szövege a 44/2016. (XII. 28.) EMMI rendelet 43. § (4) bekezdésével megállapított szöveg.
+[^16]: A 2. § 50. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^17]: A 2. § 51. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^18]: A 2. § 52. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^19]: A 2. § 53. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^20]: A 2. § 54. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^21]: A 2. § 55. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^22]: A 2. § 56. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^23]: A 2. § 57. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^24]: A 2. § 58. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^25]: A 2. § 59. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^26]: A 2. § 60. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^27]: A 2. § 61. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^28]: A 2. § 62. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^29]: A 2. § 63. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^30]: A 2. § 64. pontját a 2/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^31]: A 2. § 65. pontját a 6/2013. (I. 18.) EMMI rendelet 14. §-a iktatta be.
+[^32]: A 2. § 66. pontját a 2/2019. (I. 16.) EMMI rendelet 2. §-a iktatta be.
