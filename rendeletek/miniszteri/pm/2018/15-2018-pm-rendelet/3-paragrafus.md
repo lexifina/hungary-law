@@ -1,3 +1,3 @@
-## 2. §[^2]
+## 2. § A 45/2016. NGM rendelet 49. §-a a következő (10) bekezdéssel egészül ki:
 
-[^2]: A 2. § a 9. § (2) bekezdése alapján 2019. január 18-án lép hatályba.
+## „(10) A lefoglalt dolognak az állami adó- és vámhatóság által üzemeltetett raktárban történt tárolásáért – a Jöt. 102. § (4) bekezdése szerinti esetben és időszakra – megkezdett naponként és 10 kilogrammonként 220 forint tárolási költséget kell fizetni.”
