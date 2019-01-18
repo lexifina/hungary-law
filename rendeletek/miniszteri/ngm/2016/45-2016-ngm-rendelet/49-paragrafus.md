@@ -20,10 +20,10 @@
 
 (9) Kérelemre végzett kötelező érvényű KN-kód besorolás esetén a termékminta szolgáltatásának, valamint az állami adó- és vámhatóság által elvégzett vizsgálatnak a költsége a kérelmezőt terheli. A költségtérítés mértékéről, megfizetésének módjáról az állami adó- és vámhatóság végzést hoz.
 
-(10)[^62]
+(10)[^62] A lefoglalt dolognak az állami adó- és vámhatóság által üzemeltetett raktárban történt tárolásáért – a Jöt. 102. § (4) bekezdése szerinti esetben és időszakra – megkezdett naponként és 10 kilogrammonként 220 forint tárolási költséget kell fizetni.
 
 [^58]: A 48. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 13. pontja hatályon kívül helyezte.
 [^59]: A 49. § (5) bekezdése a 15/2018. (XII. 18.) PM rendelet 7. § 4. pontja szerint módosított szöveg.
 [^60]: A 49. § (6) bekezdése az 5/2017. (III. 30.) NGM rendelet 15. §-ával megállapított szöveg.
 [^61]: A 49. § (7) bekezdése a 47/2017. (XII. 27.) NGM rendelet 6. §-ával megállapított szöveg.
-[^62]: A 49. § (10) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 14. pontja hatályon kívül helyezte.
+[^62]: A 49. § (10) bekezdését a 47/2017. (XII. 27.) NGM rendelet 14. § 14. pontja hatályon kívül helyezte, újonnan a 15/2018. (XII. 18.) PM rendelet 2. §-a iktatta be.
