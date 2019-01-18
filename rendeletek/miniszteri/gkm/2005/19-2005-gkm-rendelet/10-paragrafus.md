@@ -2,7 +2,7 @@
 
 10. § (1) A formatervezési mintaoltalmi bejelentés díja 32 000 forint, amely – egynél több mintára is oltalmat igénylő bejelentés esetén – a további mintánként 6400 forinttal emelkedik.
 
-(2)[^25]
+(2)[^26]
 
 (3) A formatervezési mintaoltalom megújítására irányuló kérelem díja
 
@@ -20,4 +20,4 @@ d) a negyedik megújítás esetén 160 000 forint.
 
 (6) A nemzetközi ipari mintaoltalmi bejelentés továbbításának díja 10 700 forint.
 
-[^25]: A 10. § (2) bekezdését a 35/2011. (XII. 22.) KIM rendelet 15. §-a hatályon kívül helyezte.
+[^26]: A 10. § (2) bekezdését a 35/2011. (XII. 22.) KIM rendelet 15. §-a hatályon kívül helyezte.
