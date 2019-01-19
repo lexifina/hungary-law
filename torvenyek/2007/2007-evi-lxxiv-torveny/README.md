@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-74-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2007-74-00-00.18 |
 | 2018-01-04 | 2017. évi CCVI. törvény | 2007-74-00-00.19 |
 | 2019-01-01 | 2018. évi CXII. törvény | 2007-74-00-00.20 |
+| 2019-01-19 | 2018. évi CXII. törvény | 2007-74-00-00.21 |
