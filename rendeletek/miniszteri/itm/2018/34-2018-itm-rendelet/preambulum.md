@@ -1,5 +1,0 @@
-A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 40. § (1) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklet K) pontjában foglalt táblázat 5. sorában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 109. § 1. pontjában meghatározott feladatkörében eljáró igazságügyi miniszterrel egyetértésben és a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével –,
-
-a 2. alcím tekintetében a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 118. § (6) és (8) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklet K) pontjában foglalt táblázat 5. sorában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben és a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével –,
-
-a következőket rendelem el:
