@@ -16,12 +16,12 @@
 
 7. [^3] Kifejlett szarvasmarha: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet III. melléklet IV. rész 2. pontja szerinti fogalom.
 
-8. [^4] Vágóállat: azonosító jelöléssel és azonosításra szolgáló dokumentumokkal ellátott vágósertés, vágómarha, vágójuh és vágókecske a vágóhelyre való útra indításától a vágóhelyen történő leöléséig.
+8. [^4] Vágóállat: azonosító jelöléssel és azonosításra szolgáló dokumentumokkal ellátott vágósertés, vágómarha, vágójuh és vágókecske a vágóhelyre való útra indításától a vágóhelyen történő levágásáig.
 
 9. [^5] Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
 [^1]: Az 1. § 1. pontja a 28/2010. (XI. 9.) VM rendelet 2. § (1) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 14. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § 2. pontja a 134/2011. (XII. 22.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 7. pontját a 28/2010. (XI. 9.) VM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a folyamatban lévő engedélyezési eljárásokat az e módosító rendeletben foglaltak szerint kell lefolytatni.
-[^4]: Az 1. § 8. pontját a 28/2010. (XI. 9.) VM rendelet 2. § (2) bekezdése iktatta be, szövege a 134/2011. (XII. 22.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 8. pontját a 28/2010. (XI. 9.) VM rendelet 2. § (2) bekezdése iktatta be, szövege a 134/2011. (XII. 22.) VM rendelet 1. § (2) bekezdésével megállapított, az 1/2019. (I. 15.) AM rendelet 21. §-a szerint módosított szöveg.
 [^5]: Az 1. § 9. pontját a 22/2014. (III. 14.) VM rendelet 14. § (1) bekezdése iktatta be.

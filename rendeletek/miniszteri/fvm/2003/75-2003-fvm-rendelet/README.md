@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-75-20-8
 | 2014-03-15 | 2003-75-20-82.11 | 28/2010. (XI. 9.) VM rendelet |
 | 2015-05-14 | 2003-75-20-82.12 | 23/2015. (V. 13.) FM rendelet |
 | 2017-08-18 | 2003-75-20-82.13 | 42/2017. (VIII. 17.) FM rendelet |
+| 2019-01-20 | 2003-75-20-82.14 | 1/2019. (I. 15.) AM rendelet |
