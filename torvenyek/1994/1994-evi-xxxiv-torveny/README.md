@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2018-01-01 | 2017. évi XXXIX. törvény | 1994-34-00-00.84 |
 | 2018-07-01 | 2017. évi XCIII. törvény | 1994-34-00-00.85 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 1994-34-00-00.86 |
+| 2019-01-20 | 2018. évi CXXI. törvény | 1994-34-00-00.87 |

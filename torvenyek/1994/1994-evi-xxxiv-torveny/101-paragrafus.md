@@ -46,7 +46,9 @@ e) az államháztartásért felelős miniszter és az igazságügyért felelős 
 
 f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény szerinti gyűlés bejelentésével és biztosításával összefüggő rendőrségi feladatok részletes szabályait,
 
-g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel és a szabálysértési szabályozásért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével, rendeletben állapítsa meg a törvény alapján rendőrségi fogdán végrehajtható fogvatartások végrehajtásának részletes szabályait, valamint a rendőrségi fogdák rendjét.
+g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel és a szabálysértési szabályozásért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével, rendeletben állapítsa meg a törvény alapján rendőrségi fogdán végrehajtható fogvatartások végrehajtásának részletes szabályait, valamint a rendőrségi fogdák rendjét,
+
+h) az adópolitikáért felelős miniszterrel egyetértésben rendeletben megállapítsa a polgári célú robbanóanyagok szállításának és belföldi átadásának rendőrségi engedélyezési eljárásához kapcsolódó igazgatási szolgáltatási díjakat, mértéküket és beszedésük, kezelésük, megosztásuk, nyilvántartásuk szabályait,
 
 (3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök rendőrség általi alkalmazásának, valamint a speciális kiadások felhasználásának részletes szabályait a miniszter utasításban állapítja meg.
 
