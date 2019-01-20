@@ -1,5 +1,3 @@
 ## 9. § E rendelet rendelkezéseit a hatálybalépést követően indult eljárásokban kell alkalmazni.
 
-10. §[^5]
-
-[^5]: A 10. § a 8. § (2) bekezdése alapján 2019. január 20-án lép hatályba.
+10. § Hatályát veszti a könyvviteli szolgáltatást végzők nyilvántartásba vételéért, a nyilvántartásban szereplő adatok módosításáért, valamint a nyilvántartásból való törlésért, továbbá a továbbképző szervezetek akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díjról és a díj megfizetésének részletes szabályairól szóló 39/2008. (XII. 31.) PM rendelet.
