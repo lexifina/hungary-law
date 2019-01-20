@@ -28,6 +28,6 @@
 
 ## – az alkalmazott minősítési módszer megjelölése
 
-4. számú melléklet a 14/1998. (IV. 3.) FM rendelethez[^45]
+4. számú melléklet a 14/1998. (IV. 3.) FM rendelethez[^37]
 
-[^45]: A 4. számú mellékletet a 76/2003. (VII. 4.) FVM rendelet 11. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 135/2011. (XII. 22.) VM rendelet 6. §-a.
+[^37]: A 4. számú mellékletet a 76/2003. (VII. 4.) FVM rendelet 11. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 135/2011. (XII. 22.) VM rendelet 6. §-a.
