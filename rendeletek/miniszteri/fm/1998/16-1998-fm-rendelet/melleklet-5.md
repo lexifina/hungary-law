@@ -30,6 +30,6 @@
 
 ## – az alkalmazott minősítési módszer megjelölése
 
-5. számú melléklet a 16/1998. (IV. 3.) FM rendelethez[^35]
+5. számú melléklet a 16/1998. (IV. 3.) FM rendelethez[^36]
 
-[^35]: Az 5. számú mellékletet a 78/2003. (VII. 4.) FVM rendelet 10. §-ának (2) bekezdése iktatta be, a 139/2011. (XII. 22.) VM rendelet 6. §-a hatályon kívül helyezte.
+[^36]: Az 5. számú mellékletet a 78/2003. (VII. 4.) FVM rendelet 10. §-ának (2) bekezdése iktatta be, a 139/2011. (XII. 22.) VM rendelet 6. §-a hatályon kívül helyezte.

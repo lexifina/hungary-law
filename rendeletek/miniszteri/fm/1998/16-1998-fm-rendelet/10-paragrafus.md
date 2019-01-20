@@ -1,11 +1,11 @@
 ## 9. § Ez a rendelet a kihirdetése napján lép hatályba, de rendelkezéseit kötelezően 2002. január 1. napjától kell alkalmazni.
 
-## 10. §[^29] Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+## 10. §[^32] Ez a rendelet
 
-a)[^30] a Tanács 1234/2007/EK rendelete (2007. október 22.) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”);
+a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet,
 
-b)[^31] a Bizottság 1249/2008/EK rendelete (2008. december 10.) a szarvasmarhák, sertések és juhok közösségi minősítési rendszereinek alkalmazására és e termékek árának bejelentésére vonatkozó részletes szabályok megállapításáról.
+b) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szarvasmarhák, a sertések és a juhok hasított testének uniós osztályozási rendszerei, valamint a hasított testek és az élő állatok bizonyos kategóriáira vonatkozó piaci árak bejelentése tekintetében történő kiegészítéséről szóló, 2017. április 20-i 2017/1182/EU bizottsági felhatalmazáson alapuló rendelet,
 
-[^29]: A 10. § a 174/2004. (XII. 30.) FVM rendelet 7. §-ával megállapított szöveg.
-[^30]: A 10. § a) pontja a 84/2009. (VII. 15.) FVM rendelet 7. §-ával megállapított szöveg.
-[^31]: A 10. § b) pontja a 84/2009. (VII. 15.) FVM rendelet 7. §-ával megállapított szöveg.
+c) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szarvasmarhák, a sertések és a juhok hasított testének uniós osztályozási rendszerei, valamint a hasított testek és az élő állatok bizonyos kategóriáira vonatkozó piaci árak bejelentése tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2017. április 20-i 2017/1184/EU bizottsági végrehajtási rendelet
+
+[^32]: A 10. § az 1/2019. (I. 15.) AM rendelet 10. §-ával megállapított szöveg.
