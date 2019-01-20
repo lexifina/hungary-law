@@ -10,4 +10,6 @@ Határidő: 2019. február 15.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti az ENSZ Nemzetközi Mezőgazdasági Fejlesztési Alapnál (IFAD) Magyarországot képviselő kormányzótanácsi tagok kinevezéséről szóló 1024/2016. (II. 9.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
