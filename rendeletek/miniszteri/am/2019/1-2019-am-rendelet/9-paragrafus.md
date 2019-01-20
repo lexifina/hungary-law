@@ -1,0 +1,3 @@
+## 8. § A 16/1998. (IV. 3.) FM rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A hasított testek jelölésénél a 2017/1182/EU rendelet 8. cikkében foglaltakat kell alkalmazni. A betűknek, illetve számoknak legalább két centiméter nagyságúaknak kell lenniük. A jelölésre bármilyen nem mérgező, véletlenszerűen eltávolíthatatlan hőálló tinta, élelmiszeriparban engedélyezett hőálló festék, ráakasztott címke használható. Jelölésként csak olyan címke használható, amely nem távolítható el és nem rongálható meg. A minősítő általi jelölést a kereskedelmi értékesítésig vagy a feldolgozásig tilos eltávolítani.”
