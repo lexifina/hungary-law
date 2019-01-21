@@ -1,3 +1,3 @@
-5. §[^4]
+5. §[^3]
 
-[^4]: Az 5. § a 4. § (3) bekezdése alapján 2019. június 1-jén lép hatályba.
+[^3]: Az 5. § a 4. § (3) bekezdése alapján 2019. június 1-jén lép hatályba.
