@@ -46,6 +46,8 @@
 
 | 13. | Közúti árutovábbítási engedéllyel, közúti személyszállítási engedéllyel, árutovábbítási vagy személyszállítási közösségi engedéllyel kapcsolatos adatváltozás bejelentésének, a tevékenység szüneteltetése bejelentésének, a lejárt engedély visszaadásának az elmulasztása, a helyettesítő járműre vonatkozó okmány, vagy az eredeti járműre kiállított engedély-kivonat (hiteles másolat) közúton való bemutatásának a hiánya | 30 000 | szállító |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^63]
+| 14. | A konténer vagy a cserefelépítmény tömegét tanúsító bizonylat hiánya a fuvarozás során | 30 000 | fuvarozó, feladó |  |
 
-[^63]: A 2. melléklet a 476/2016. (XII. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^67]
+
+[^67]: A 2. melléklet a 476/2016. (XII. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

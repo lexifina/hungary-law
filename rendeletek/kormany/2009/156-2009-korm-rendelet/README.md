@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2017-12-30 | 2009-156-20-22.37 | 516/2017. (XII. 29.) Korm. rendelet |
 | 2018-01-01 | 2009-156-20-22.38 | 516/2017. (XII. 29.) Korm. rendelet |
 | 2018-07-25 | 2009-156-20-22.39 | 516/2017. (XII. 29.) Korm. rendelet |
+| 2019-01-21 | 2009-156-20-22.40 | 289/2018. (XII. 21.) Korm. rendelet |

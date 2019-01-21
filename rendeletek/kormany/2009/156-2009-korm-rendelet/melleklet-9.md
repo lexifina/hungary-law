@@ -82,9 +82,9 @@
 
 | Műszaki alkalmasság |
 
-| 19. | A személy- vagy áruszállítási szolgáltatást végző gépjárműnek az uniós jog szerinti műszaki vizsgálatról szóló érvényes igazolás nélküli vezetése | RSJ | 800 000 | üzemben tartó |
+| 19. |  |  |  |  |
 
-| 20. | A személy- vagy áruszállítási szolgáltatást végző gépjármű biztonságilag és műszakilag megfelelő állapotban tartásának elmulasztása, aminek következtében a fékrendszer, a kormányrudazat, a kerekek/gumiabroncsok, a felfüggesztés vagy az alváz, illetve egyéb berendezések igen súlyos hiányosságokat mutatnak; mindez olyan arányú közvetlen veszélyt jelent a közúti közlekedés biztonságára, hogy az a jármű továbbhaladásának megtiltására vonatkozó döntést eredményez | RSJ | 600 000 | üzemben tartó |
+| 20. |  |  |  |  |
 
 | Egyéb jogsértések |
 
