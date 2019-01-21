@@ -1,0 +1,1 @@
+A Kormány az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 212. § d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
