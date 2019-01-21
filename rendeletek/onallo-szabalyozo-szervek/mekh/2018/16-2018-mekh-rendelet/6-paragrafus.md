@@ -1,0 +1,1 @@
+## 5. § A nyilvántartási díjat – a 6. §-ban foglalt eltéréssel – a nyilvántartási díjfizetésre kötelezett (a továbbiakban: kötelezett) tárgyév január 31-éig fizeti meg a Hivatal fizetési számlájára történő készpénzbefizetéssel vagy az arra történő átutalással.

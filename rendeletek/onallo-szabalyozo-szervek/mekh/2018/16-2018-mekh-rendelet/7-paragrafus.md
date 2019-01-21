@@ -1,0 +1,1 @@
+## 6. § Ha a kötelezett a tevékenységét év közben kezdi meg, akkor a nyilvántartási díj időarányos részét a tevékenység megkezdését engedélyező határozat véglegessé válását követő harmincadik munkanapig köteles az 5. § szerinti módon megfizetni.
