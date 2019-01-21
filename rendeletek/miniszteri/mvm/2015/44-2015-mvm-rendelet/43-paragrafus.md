@@ -4,25 +4,25 @@
 
 (2) A 2015. november 1. napját megelőzően megkezdett közbeszerzésekkel kapcsolatban megküldött kérelmekre és hirdetményekre a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 92/2011. (XII. 30.) NFM rendelet alkalmazandó.
 
-(3)–(4)[^25]
+(3)–(4)[^26]
 
-(5)[^26] Ahol jogszabály egységes európai közbeszerzési dokumentumot említ, abban az esetben az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendelet szerinti formanyomtatványt kell alkalmazni.
+(5)[^27] Ahol jogszabály egységes európai közbeszerzési dokumentumot említ, abban az esetben az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendelet szerinti formanyomtatványt kell alkalmazni.
 
-(6)[^27]
+(6)[^28]
 
 (7) Amennyiben az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló európai bizottsági végrehajtási rendelet szerinti dokumentum elektronikusan is kitölthető az Európai Bizottság által rendelkezésre bocsátott elektronikus felületen, ennek elérhetőségéről a Hatóság honlapján tájékoztatást tesz közzé.
 
-(8)[^28] E rendeletnek a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 44/2015. (XI. 2.) MvM rendelet módosításáról szóló 21/2018. (XII. 21.) MvM rendelettel (a továbbiakban: Módr.) megállapított 13. § (2a) bekezdését annak hatálybalépését[^29] követően megkezdett hirdetmény-ellenőrzések tekintetében kell alkalmazni.
+(8)[^29] E rendeletnek a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 44/2015. (XI. 2.) MvM rendelet módosításáról szóló 21/2018. (XII. 21.) MvM rendelettel (a továbbiakban: Módr.) megállapított 13. § (2a) bekezdését annak hatálybalépését[^30] követően megkezdett hirdetmény-ellenőrzések tekintetében kell alkalmazni.
 
-(9)[^30] E rendeletnek a Módr.-rel megállapított 15/A. §-át annak hatálybalépése[^31] után megkezdett közbeszerzési eljárások tekintetében kell alkalmazni.
+(9)[^31] E rendeletnek a Módr.-rel megállapított 15/A. §-át annak hatálybalépése[^32] után megkezdett közbeszerzési eljárások tekintetében kell alkalmazni.
 
-(10)[^32] E rendeletnek a Módr. 5. §-a által megállapított rendelkezéseit a 2019. évben lefolytatott közbeszerzési eljárások esetén kell alkalmazni. A 2018. évben lefolytatott eljárásokra vonatkozó statisztikai összegezéseket az ajánlatkérők a 2019. május 31-én hatályos rendelkezéseknek megfelelően kötelesek elkészíteni és közétenni.
+(10)[^33] E rendeletnek a Módr. 5. §-a által megállapított rendelkezéseit a 2019. évben lefolytatott közbeszerzési eljárások esetén kell alkalmazni. A 2018. évben lefolytatott eljárásokra vonatkozó statisztikai összegezéseket az ajánlatkérők a 2019. május 31-én hatályos rendelkezéseknek megfelelően kötelesek elkészíteni és közétenni.
 
-[^25]: A 43. § (3)–(4) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.
-[^26]: A 43. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 9. §-ával megállapított szöveg.
-[^27]: A 43. § (6) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.
-[^28]: A 43. § (8) bekezdését a 21/2018. (XII. 21.) MvM rendelet 3. §-a iktatta be.
-[^29]: A hatálybalépés időpontja 2018. december 22.
-[^30]: A 43. § (9) bekezdését a 21/2018. (XII. 21.) MvM rendelet 3. §-a iktatta be.
-[^31]: A hatálybalépés időpontja 2019. január 21.
-[^32]: A 43. § (10) bekezdését a 21/2018. (XII. 21.) MvM rendelet 3. §-a iktatta be.
+[^26]: A 43. § (3)–(4) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^27]: A 43. § (5) bekezdése a 43/2016. (XII. 30.) MvM rendelet 9. §-ával megállapított szöveg.
+[^28]: A 43. § (6) bekezdését a 43/2016. (XII. 30.) MvM rendelet 13. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^29]: A 43. § (8) bekezdését a 21/2018. (XII. 21.) MvM rendelet 3. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2018. december 22.
+[^31]: A 43. § (9) bekezdését a 21/2018. (XII. 21.) MvM rendelet 3. §-a iktatta be.
+[^32]: A hatálybalépés időpontja 2019. január 21.
+[^33]: A 43. § (10) bekezdését a 21/2018. (XII. 21.) MvM rendelet 3. §-a iktatta be.

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-44-20-6
 | 2017-06-28 | 2015-44-20-6N.6 | 18/2017. (VI. 27.) MvM rendelet |
 | 2018-02-06 | 2015-44-20-6N.7 | 1/2018. (II. 5.) MvM rendelet |
 | 2018-12-22 | 2015-44-20-6N.8 | 21/2018. (XII. 21.) MvM rendelet |
+| 2019-01-21 | 2015-44-20-6N.9 | 21/2018. (XII. 21.) MvM rendelet |
