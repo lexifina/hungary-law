@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-17-20-5
 | --- | --- | --- |
 | 2019-01-01 | 2018-17-20-53.1 | 17/2018. (XII. 20.) PM rendelet |
 | 2019-01-20 | 2018-17-20-53.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2019-01-21 | 2018-17-20-53.3 | 2010: CXXX. törvény |
