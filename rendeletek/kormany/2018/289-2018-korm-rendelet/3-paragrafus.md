@@ -4,12 +4,11 @@
 
 ## 178/2008. (VII. 3.) Korm. rendelet módosítása
 
-## 3. §
+## 3. § § A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet
 
 a)[^3]
 
-b)[^4]
+b) 10/A. § (3) bekezdésében a „két hónapnál” szövegrész helyébe a „három hónapnál” szöveg
 
 [^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapjén hatályát vesztette.
-[^4]: A 3. § b) pontja a 32. § (2) bekezdése alapján 2019. január 21-én lép hatályba.
+[^3]: A 3. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
