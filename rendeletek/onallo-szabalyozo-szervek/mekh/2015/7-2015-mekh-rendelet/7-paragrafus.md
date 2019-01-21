@@ -1,1 +1,0 @@
-## 6. § Ha kötelezett az energetikai auditálási tevékenységét év közben kezdi meg, akkor a nyilvántartási díj időarányos részét a névjegyzékbe történő felvétel jóváhagyásáról szóló határozat jogerőre emelkedését követő harmincadik munkanapig köteles az 5. § szerint megfizetni.

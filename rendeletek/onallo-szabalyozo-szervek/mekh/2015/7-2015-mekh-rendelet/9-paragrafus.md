@@ -1,3 +1,0 @@
-## 8. §[^5] A nyilvántartási díj a kötelezettnek a Hivatalhoz benyújtott kifejezett kérelme alapján, kizárólag abban az esetben téríthető vissza, ha a kötelezett a tárgyévre vonatkozó nyilvántartási díjfizetési kötelezettségének a tárgyév január 31-ig eleget tett, és a fizetési kötelezettség teljesítését követően, de legkésőbb a tárgyév január 31-éig bejelenti, hogy energetikai auditálási tevékenységét nem kívánja folytatni. Egyéb esetben a nyilvántartási díj kötelezett részére való visszatérítésének nincs helye.
-
-[^5]: A 8. § a 18/2016. (XII. 23.) MEKH rendelet 3. § c) pontja szerint módosított szöveg.
