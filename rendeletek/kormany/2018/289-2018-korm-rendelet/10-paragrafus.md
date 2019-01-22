@@ -1,3 +1,5 @@
-## 9. § Hatályát veszti a 156/2009. (VII. 29.) Korm. rendelet 8. mellékletében foglalt táblázat 19. és 20. sorszámú sora.
+## 9. §[^10]
 
 ## 4. A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 179/2011. (IX. 2.) Korm. rendelet módosítása
+
+[^10]: A 9. § pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
