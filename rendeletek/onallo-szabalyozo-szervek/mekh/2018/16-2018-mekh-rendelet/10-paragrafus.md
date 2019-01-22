@@ -4,4 +4,6 @@
 
 10. § (1) Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
 
-(2) Hatályát veszti az energetikai auditorok és energetikai auditáló szervezetek által fizetendő regisztrációs és nyilvántartási díj összegére, megfizetésének módjára és visszatérítésére vonatkozó szabályokról szóló 7/2015. (X. 16.) MEKH rendelet.
+(2)[^1]
+
+[^1]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
