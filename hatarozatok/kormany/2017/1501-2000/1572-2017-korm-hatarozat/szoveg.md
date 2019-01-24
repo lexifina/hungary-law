@@ -14,7 +14,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. december 31.
 
-3. felhívja a nemzetgazdasági minisztert, hogy a Miniszterelnökséget vezető miniszter és a földművelésügyi miniszter bevonásával gondoskodjon arról, hogy a hatvani Széchenyi Zsigmond Kárpát-medencei Magyar Vadászati Múzeumnak az Országos Magyar Vadászkamara által történő működtetéséhez szükséges források 2018–2022 között rendelkezésre álljanak a XII. Földművelésügyi Minisztérium fejezetben az alábbi mértékben és ütemezés szerint:
+3.[^1] felhívja a nemzetgazdasági minisztert, hogy a Miniszterelnökséget vezető miniszter és a földművelésügyi miniszter bevonásával gondoskodjon arról, hogy a hatvani Széchenyi Zsigmond Kárpát-medencei Magyar Vadászati Múzeumnak az Országos Magyar Vadászkamara vagy a kizárólagos tulajdonában álló Széchenyi Zsigmond Vadászati Múzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság által történő működtetéséhez szükséges források 2018–2022 között rendelkezésre álljanak a XII. Földművelésügyi Minisztérium fejezetben az alábbi mértékben és ütemezés szerint:
 
 a) a 2018. évben legfeljebb 231 171 700 forint, ebből 171 171 700 forint a Miniszterelnökség fejezetben rendelkezésre álló forrás átcsoportosítása útján,
 
@@ -31,3 +31,5 @@ földművelésügyi miniszter
 Határidő: az a) alpont esetében a felmerülés ütemében
 
 a b) és c) alpont esetében a központi költségvetés tervezése során
+
+[^1]: A 3. pont az 1009/2019. (I. 24.) Korm. határozattal módosított szöveg.

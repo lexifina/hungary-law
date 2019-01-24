@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1572-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-08-28 | 2017-1572-30-22.1 | 1572/2017. (VIII. 28.) Korm. határozat |
+| 2019-01-24 | 2017-1572-30-22.2 | 1009/2019. (I. 24.) Korm. határozat |
