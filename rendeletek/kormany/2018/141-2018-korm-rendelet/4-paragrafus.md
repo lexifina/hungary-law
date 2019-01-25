@@ -1,3 +1,6 @@
-4. § (1) A 2. mellékletben foglalt táblázat 4., 5., 6., 8. és 10. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, valamint a természetvédelmi eljárások kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+4. § (1)[^2] A 2. mellékletben foglalt táblázat 4., 5., 6., 8., 10. és 17. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, valamint a természetvédelmi eljárások kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
 
-(2) A 2. mellékletben foglalt táblázat 4., 5., 6., 8. és 10. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+(2)[^3] A 2. mellékletben foglalt táblázat 4., 5., 6., 8., 10. és 17. sora szerinti beruházás esetében az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+[^2]: A 4. § (1) bekezdése a 3/2019. (I. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdése a 3/2019. (I. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.
