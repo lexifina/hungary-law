@@ -16,6 +16,6 @@
 
 | 8. | Népfőiskola Alapítvány | Lakitelek Népfőiskola – Északi terület környezetének rendezése (öntözési, parkosítási, környezetrendezési munkák) | 150 000 000 |
 
-2. melléklet az 1835/2018. (XII. 27.) Korm. határozathoz[^5]
+2. melléklet az 1835/2018. (XII. 27.) Korm. határozathoz[^6]
 
-[^5]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
