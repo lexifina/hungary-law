@@ -4,7 +4,7 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1.[^1] anyajuh: minden olyan, a juh fajhoz tartozó nőivarú állat, amely már legalább egy ízben ellett, vagy a birtokon tartási időszak utolsó napján legalább egy éves;
+1.[^1] anyajuh: minden olyan, a juh fajhoz tartozó nőivarú állat, amely a birtokon tartási időszak utolsó napján legalább egyéves;
 
 2.[^2] anyatehén: húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született tehén, amely hústermelésre szánt borjak nevelésére tartott állományhoz tartozik, vagy nyolc hónapnál idősebb, még nem ellett, húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született nőivarú szarvasmarhaféle;
 
@@ -42,7 +42,7 @@
 
 19. történelmi bázis jogosultság: az ügyfél történelmi bázisa alapján megállapított mezőgazdasági vagyoni értékű jog.
 
-[^1]: Az 1. § 1. pontja a 13/2017. (III. 17.) FM rendelet 6. §-ával megállapított szöveg.
+[^1]: Az 1. § 1. pontja a 2/2019. (I. 25.) AM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pontja a 40/2015. (VII. 13.) FM rendelet 8. § (4) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § 7. pontját a 17/2015. (IV. 9.) FM rendelet 11. §-a hatályon kívül helyezte.
 [^4]: Az 1. § 11. pontja az 52/2015. (IX. 7.) FM rendelet 21. §-ával megállapított szöveg.
