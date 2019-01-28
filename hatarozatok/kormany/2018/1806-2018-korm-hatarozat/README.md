@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1806-30
 | --- | --- | --- |
 | 2018-12-23 | 2018-1806-30-22.1 | 1806/2018. (XII. 23.) Korm. határozat |
 | 2018-12-24 | 2018-1806-30-22.2 | 2010: CXXX. törvény |
+| 2019-01-28 | 2018-1806-30-22.3 | 1016/2019. (I. 28.) Korm. határozat |
