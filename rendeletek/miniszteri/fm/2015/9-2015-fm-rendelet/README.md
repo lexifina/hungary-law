@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-9-20-11
 | 2018-04-01 | 2015-9-20-11.25 | 55/2017. (XI. 6.) FM rendelet |
 | 2018-04-04 | 2015-9-20-11.26 | 9/2018. (IV. 3.) FM rendelet |
 | 2018-07-03 | 2015-9-20-11.27 | 9/2018. (VII. 2.) AM rendelet |
+| 2019-01-28 | 2015-9-20-11.28 | 2/2019. (I. 25.) AM rendelet |

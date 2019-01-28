@@ -6,7 +6,7 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1.[^1] anyajuh: minden olyan, a juh fajhoz tartozó nőivarú állat, amely már legalább egy ízben ellett, vagy a birtokon tartási időszak utolsó napján legalább egy éves;
+1.[^1] anyajuh: minden olyan, a juh fajhoz tartozó nőivarú állat, amely a birtokon tartási időszak utolsó napján legalább egyéves;
 
 2. anyatehén:
 
@@ -72,7 +72,7 @@ c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b)
 
 19.[^21] tőszámbeállottság: a tárgyévben az adott támogatási jogcím vonatkozásában igényelt területen a termés hozatalára képes egyedek és a telepítési engedélyben meghatározott tőszám szerinti egyedek – telepítési engedély hiányában a területen meghatározó térállásra jellemző tőszám alapján számított egyedek – aránya.
 
-[^1]: Az 1. § 1. pontja a 13/2017. (III. 17.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § 1. pontja a 2/2019. (I. 25.) AM rendelet 2. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pont b) alpontja a 40/2015. (VII. 13.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § 2a. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
 [^4]: Az 1. § 2b. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
