@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1837-30
 | --- | --- | --- |
 | 2018-12-28 | 2018-1837-30-22.1 | 1837/2018. (XII. 27.) Korm. határozat |
 | 2019-01-01 | 2018-1837-30-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2019-01-28 | 2018-1837-30-22.3 | 1016/2019. (I. 28.) Korm. határozat |

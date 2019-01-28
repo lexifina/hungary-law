@@ -56,7 +56,7 @@
 
 ## 1.9. az 1.7. pont szerinti beruházások előkészítésének kormányzati felelőseként a miniszterelnök kabinetfőnökét jelöli ki;
 
-## 1.10. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1.7. pont szerinti beruházások előkészítési feladatainak finanszírozása érdekében a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Turisztikai fejlesztési célelőirányzat jogcímcsoport javára – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 454 475 500 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
+## 1.10.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1.7. pont szerinti beruházások előkészítési feladatainak finanszírozása érdekében a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Turisztikai fejlesztési célelőirányzat jogcímcsoport javára – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 454 474 500 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
 
 ## Az átcsoportosítás tekintetében
 
@@ -173,3 +173,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1.10. pont az 1016/2019. (I. 28.) Korm. határozat 7. pontja szerint módosított szöveg.
