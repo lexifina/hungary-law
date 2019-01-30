@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-289-20-
 | 2019-01-03 | 2018-289-20-22.4 | 2010: CXXX. törvény |
 | 2019-01-21 | 2018-289-20-22.5 | 2010: CXXX. törvény |
 | 2019-01-22 | 2018-289-20-22.6 | 2010: CXXX. törvény |
+| 2019-01-30 | 2018-289-20-22.7 | 2010: CXXX. törvény |
