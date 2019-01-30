@@ -1,10 +1,12 @@
-## 25/A. §[^50] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^51] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+## 25/A. §[^51] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^52] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-26. § (1)[^52] Ez a rendelet
+26. § (1)[^53] Ez a rendelet
 
 a) a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet,
 
 b) a járművezetői kártyák elektronikus nyilvántartásának összekapcsolásához szükséges közös eljárásokról és előírásokról szóló, 2016. január 21-i (EU) 2016/68 bizottsági végrehajtási rendelet
+
+c)[^54] a közúti fuvarozó vállalkozásokról vezetett nemzeti elektronikus nyilvántartások összekapcsolására vonatkozó közös szabályok megállapításáról és az 1213/2010/EU rendelet hatályon kívül helyezéséről szóló, 2016. április 1-i (EU) 2016/480 bizottsági végrehajtási rendelet
 
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -124,9 +126,10 @@ j) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközök
 
 k) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelvnek
 
-l)[^53] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
+l)[^55] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
 
-[^50]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
-[^51]: A hatálybalépés időpontja 2017. július 1.
-[^52]: A 26. § (1) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^53]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^51]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
+[^52]: A hatálybalépés időpontja 2017. július 1.
+[^53]: A 26. § (1) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^54]: A 26. § (1) bekezdés c) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^55]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
