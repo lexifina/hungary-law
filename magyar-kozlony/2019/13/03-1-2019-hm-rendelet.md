@@ -1,0 +1,365 @@
+# A honvédelmi miniszter 1/2019. (I. 31.) HM rendelete
+
+Magyar Közlöny 2019. évi 13. szám, 2019. január 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Kt0jj18HOsKGY053FbEK5c4a0dee7d0d9/dokumentumok/7a62336a9e18b894f8792267c2b6051192d1b2d0/letoltes)
+
+---
+
+A honvédelmi miniszter 1/2019. (I. 31.) HM rendelete
+a honvédelmi ágazat katasztrófák elleni védekezésének irányításáról és feladatairól
+A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 82. § (3) bekezdés
+a)–d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet
+107. §-ában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.)
+Korm. rendelet 40. § (1) bekezdés 8. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben –
+a következőket rendelem el:
+1. Általános rendelkezések
+1. §
+E rendelet hatálya a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumra
+(a továbbiakban: HM), a miniszter közvetlen alárendeltségébe tartozó szervezetekre, a Katonai Nemzetbiztonsági
+Szolgálatra, a honvédségi szervezetekre, valamint a miniszter fenntartói irányítása alá tartozó köznevelési
+intézményre terjed ki.
+2. §
+E rendelet alkalmazásában
+1. HKR: honvédelmi katasztrófavédelmi rendszer, amely az országos katasztrófavédelmi rendszer részét képező,
+a honvédelmi ágazat katasztrófavédelmi feladatainak irányítására, végrehajtására, valamint az országos
+katasztrófavédelmi feladatokhoz való közreműködés érdekében létrehozott, a Magyar Honvédség
+(a továbbiakban: MH) meglévő képességein alapuló, kijelölt szervezeti elemekből felépülő, ideiglenes
+szervezet,
+2. katasztrófavédelmi terv: az a dokumentum, amely meghatározza – a katasztrófavédelemről és
+a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban:
+Kat.) rendelkezéseinek megfelelően – a katasztrófaveszély, valamint a veszélyhelyzet esetén az MH
+katasztrófavédelmi tevékenysége tervezésére, szervezésére, működésére, riasztására, részleges vagy teljes
+aktivizálására és ezek végrehajtására vonatkozó feladatokat,
+3. objektumvédelmi terv: a veszélyes anyagokkal foglalkozó üzem vagy a veszélyes katonai objektum
+veszélyességi övezetében lévő, külön jogszabály hatálya alá nem tartozó ágazati létesítményekben
+tartózkodó személyi állomány mentése, a haditechnikai eszközökben, egyéb anyagi javakban,
+a környezetben bekövetkező károk enyhítése érdekében a végrehajtandó rendszabályok bevezetésére,
+a végrehajtó szervezetre, a vezetésre és a mentési feladatokat elősegítő adatszolgáltatásra vonatkozó terv,
+4. SMK: a Stratégiai Művelet Központ az MH Parancsnoksága (a továbbiakban: MHP) vezetési elemének helyhez
+kötött eleme, a HKR MH-n belüli, összhaderőnemi katonai képességeket igénylő, a katasztrófaveszély,
+valamint a veszélyhelyzet esetén az MHP bázisán megalakított stratégiai és hadműveleti szintű, ideiglenes
+katonai vezetési szerve,
+5. TÖVE: a Telepíthető Összhaderőnemi Vezetési Elem az MHP vezetési elemének telepíthető eleme, a HKR MH-n
+belüli, összhaderőnemi katonai képességeket igénylő, a katasztrófaveszély, valamint a veszélyhelyzet esetén
+az MHP bázisán megalakított stratégiai és hadműveleti szintű, ideiglenes, telepíthető katonai vezetési szerve.
+2. A HKR rendeltetése
+3. § (1) A HKR kijelölt elemei közreműködnek a katasztrófák elleni védekezésre történő felkészülésben, a Kat.
+3. § 9. pontja szerinti katasztrófaveszély időszaki tevékenységekben, a katasztrófa időszakában történő
+védekezésben, a következmények felszámolásában, a helyreállításban, valamint a nemzetközi katasztrófavédelmi
+segítségnyújtásban.
+(2) A HKR feladata a honvédelmi ágazatot érintő veszélyhelyzet, súlyos szerencsétlenség esetén a veszélyeztetett
+személyi állomány és vagyoni javak megóvása, mentése, a következmények hatásainak csökkentése, ágazaton belüli
+felszámolása, valamint a Kormány döntése, a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban:
+KKB) vagy a KKB Nemzeti Veszélyhelyzet-kezelési Központja, valamint a védelmi igazgatási szervek felkérése alapján
+közreműködés a hazai és nemzetközi katasztrófavédelmi feladatok végrehajtásában.
+
+4. §
+A HKR elemei katasztrófa bekövetkezésekor vagy katasztrófaveszély esetén kerülnek aktivizálásra.
+5. §
+Az MH Atom, Biológiai, Vegyi Riasztási és Értesítési Rendszer Automata Mérő és Adatgyűjtő Rendszere
+katasztrófaveszély, valamint veszélyhelyzet esetén vegyi adatokat szolgáltat az SMK részére a Magyarország
+területén kialakult esetleges vegyi helyzetről.
+3. A HKR felépítése
+6. § (1) A HKR-nek a HM-ben működő eleme a Honvédelmi Igazgatási Katasztrófavédelmi Készenléti Szolgálat
+(a továbbiakban: HIKKSZ).
+(2) A HKR MH-ban működő elemei
+a) az SMK,
+b) a TÖVE,
+c) a műveletvezetési központ,
+d) a vezetési pont,
+e) a végrehajtó erők,
+f) az Ágazati Információs Központ,
+g) az MH Járványügyi Védekezési Csoport.
+4. A HKR működtetésével összefüggő feladatok a katasztrófa időszakában
+7. §
+A HM honvédelmi államtitkára a katasztrófa időszakában
+a) irányítja a HIKKSZ-t,
+b) jóváhagyásra előterjeszti a miniszternek a katasztrófaveszély esetén alkalmazandó intézkedések,
+a veszélyhelyzet esetén alkalmazandó rendeleti úton bevezetett intézkedések ágazaton belüli
+érvényesülésének szabályait, továbbá – különleges jogrend idejét kivéve – a katasztrófák esetén
+bevezetendő rendszabályokat, és
+c) felterjeszti a miniszternek az MH parancsnoka jogkörét meghaladó kirendelésekre vonatkozó javaslatokat,
+előkészíti a tájékoztatót az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága részére.
+8. §
+Az MH parancsnoka a katasztrófa időszakában
+a) dönt a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető
+intézkedésekről szóló 2011. évi CXIII. törvény 37. § (3) bekezdése alapján a hatáskörébe tartozó erők
+kirendeléséről,
+b) vezeti az MH katasztrófavédelmi tevékenységét, és
+c) irányítja az SMK-t és a TÖVE-t.
+9. § (1) A HIKKSZ a HKR HM-ben működő, a honvédelmi ágazat katasztrófavédelmi közreműködésével kapcsolatos védelmi
+igazgatási, valamint külső-belső koordinációs feladatokat ellátó szerve, amely a HM honvédelmi államtitkára
+döntéseinek előkészítéséért, a miniszter részére felterjesztésre kerülő javaslatok szakmai kidolgozásáért, az MH-hoz
+beérkező igények pontosításáért, a pontosított igények SMK felé történő továbbításáért, valamint a KKB Nemzeti
+Veszélyhelyzet-kezelési Központtal történő minisztériumi szintű együttműködésért felel, támogatva ezzel az MH
+katasztrófavédelmi tevékenységét.
+(2) A HIKKSZ a HM honvédelmi államtitkára intézkedése alapján, az MH parancsnoka egyidejű tájékoztatása mellett
+kerül aktivizálásra. Azonnali intézkedést igénylő helyzetben, a HIKKSZ vezetőjének döntése alapján – a HM
+honvédelmi államtitkára tájékoztatása mellett – is aktivizálásra kerülhet.
+(3) A HIKKSZ a katasztrófa időszakában
+a) kidolgozza a HM honvédelmi államtitkára KKB-ban való képviseletével összefüggő, a honvédelmi ágazatra
+háruló feladatok végrehajtásához szükséges előterjesztéseket,
+b) előkészíti a miniszter és a HM honvédelmi államtitkára döntéseit,
+c) a HM honvédelmi államtitkára által meghatározottak szerint koordinálja a minisztériumi szintű feladatok
+végrehajtását,
+d) kijelölt ágazati szakértőjén keresztül a HM nevében folyamatos kapcsolatot tart fenn a KKB Nemzeti
+Veszélyhelyzet-kezelési Központjával, a védekezésben érintett központi államigazgatási szervekkel,
+
+a védelmi igazgatás területi és helyi szerveivel, valamint a honvédelemben közreműködő szervekkel, elemzi
+az információkat, végzi a szükséges HM-en belüli és kívüli minisztériumi szintű koordinációt,
+e) közreműködik a védelmi igazgatás területi szerveinek hatáskörébe utalt döntések előkészítésében és
+végrehajtásában, és
+f) folyamatosan együttműködik az SMK-val, és visszaellenőrzés által pontosított információkkal látja el az SMK-t
+az MH védekezésben való közreműködésével kapcsolatos igények vonatkozásában.
+10. §
+Az SMK a HKR MH-n belüli felsőszintű katonai vezetési feladatokat ellátó eleme, amely részleges vagy teljes
+állománnyal az MH parancsnokának intézkedése alapján, a HM honvédelmi államtitkára egyidejű tájékoztatása
+mellett kerül aktivizálásra.
+11. § (1) Az SMK parancsnok feladatait, valamint az SMK szakmai feladatait az MH parancsnoka által kijelölt személyek
+látják el.
+(2) Az SMK a katasztrófa időszakában
+a) összegyűjti és feldolgozza a várható és a bekövetkezett katasztrófák felméréséhez, értékeléséhez szükséges
+információkat,
+b) riasztja a katasztrófavédelemre kijelölt honvédségi erőket,
+c) kezdeményezi a végrehajtó erők igénybevételét,
+d) az MH parancsnoka vagy a miniszter döntése alapján kirendeli a riasztott erőket,
+e) irányítja a katasztrófavédelmi feladatok végrehajtásába bevont honvédségi erőket,
+f) irányítja a veszélyeztetett katonai szervezetek biztonságos helyre történő kivonását,
+g) javaslatot tesz a HKR-be kijelölt erők alkalmazására, esetleges megerősítésére, váltására, valamint
+a katasztrófavédelembe bevonandó erők kijelölésére és felkészítésére,
+h) időszakos és eseti jelentések formájában információt biztosít a HIKKSZ-en keresztül a HM állami vezetői
+részére a honvédségi erők védekezésben való közreműködéséről,
+i) kijelölt ágazati szakértőjén keresztül az MH nevében folyamatos kapcsolatot tart fenn a KKB Nemzeti
+Veszélyhelyzet-kezelési Központjával, és
+j) előkészíti az MH parancsnokának a katasztrófák elleni védekezéssel kapcsolatos döntéseit.
+(3) A TÖVE szakmai feladatait az MH parancsnoka által kijelölt személyek látják el. A TÖVE az SMK megerősítéseként
+vagy kikülönítve, a műveletvezetési központok megerősítéseként hajtja végre a részére meghatározott
+katasztrófavédelmi feladatokat.
+12. § (1) A műveletvezetési központ a HKR MH-n belüli középszintű katonai vezetési szerve, amely teljes állománnyal az MH
+parancsnokának vagy az SMK parancsnok intézkedése alapján kerül aktivizálásra.
+(2) A műveletvezetési központok a katasztrófa időszakában az SMK irányítása alapján az alárendeltségükben lévő
+honvédségi szervezetek vezetési pontjain keresztül vagy közvetlenül vezetik a végrehajtó erőket.
+13. §
+A katasztrófavédelmi tevékenység során, szükség esetén az SMK parancsnok vagy a műveletvezetési központokat
+működtető szervezetek vezetőinek javaslata alapján a HKR-be kijelölt végrehajtó erőkből előzetesen kialakított
+munkacsoportoktól eltérő végrehajtó szervezetek is kialakíthatóak, és felkészítés után alkalmazhatóak.
+14. §
+A végrehajtó erők a HKR aktivizálását követően a várható következmények előre jelzésére, megelőzésére,
+a védekezésben, a következmények felszámolásában és a helyreállításban történő közreműködésre kijelölt és
+felkészített erők, munkacsoportok.
+15. § (1) A végrehajtó erők feladata
+a) a nukleáris, vegyi és biológiai veszély előrejelzése, felmérésére ellenőrző és jelző szervezet működtetése,
+mérési adatok folyamatos szolgáltatása Magyarország területén a gamma háttérsugárzás szintjéről, helyi
+riasztás adása veszélyes ipari anyag jelenléte esetén, adatszolgáltatás a nukleáris és vegyi katasztrófák
+értékeléséhez, és
+b) közreműködés az SMK és a műveletvezetési központok feladatszabása alapján a katasztrófák elleni
+védekezésben.
+
+(2) A katasztrófavédelmi tevékenységet végző végrehajtó erők vezetése az MH Művelet Vezetési Rendszer vezetési
+rendje szerint történik. A katasztrófavédelmi munkák helyszínén a kirendelt végrehajtó erők szakmai feladatait
+parancsnokaik útján a helyi védelemvezető határozza meg.
+(3) A feladatok végrehajtásában csak a kijelölt és felkészített, munkavédelmi oktatásban részesített, a szükséges egyéni
+védőeszközökkel, egészségvédelmi felszereléssel ellátott erők vehetnek részt.
+(4) Az MH egészségügyi feladatokat ellátó központi szervezete az SMK útján hajtja végre a katasztrófavédelmi feladatok
+egészségügyi biztosítását, ellátja a katasztrófavédelmi tervben meghatározott közegészségügyi-járványügyi
+feladatokat.
+(5) Az MH geoinformációkat szolgáltató szervezete adatot biztosít a katasztrófák elleni védelem megszervezéséhez.
+16. §
+Az Ágazati Információs Központ végrehajtja a 15. § (1) bekezdés a) pontjában meghatározott feladatokat – nukleáris,
+vegyi és biológiai veszélyhelyzetben –, értékelt adatokat szolgáltat az SMK döntései előkészítéséhez, és azonnal
+értesíti a közvetlenül veszélyeztetett honvédelmi szervezeteket.
+5. Együttműködés a KKB munkaszerveivel
+17. § (1) A KKB Nemzeti Veszélyhelyzet-kezelési Központjában ágazati szakértőként és összekötőként részt vesz
+párhuzamosan 1 fő a HIKKSZ kijelölt állományából a HM képviseletében, valamint 1 fő az SMK kijelölt állományából
+az MH képviseletében.
+(2) Az (1) bekezdés szerinti személyek feladatkörükben folyamatosan információt szolgáltatnak a HIKKSZ, illetve
+az SMK részére, valamint a HM és az MH részéről a KKB Nemzeti Veszélyhelyzet-kezelési Központ részére.
+18. §
+A KKB Tudományos Tanácsába és annak Nukleárisbaleset-elhárítási Műszaki Tudományos Szekciójába ágazati
+szakértőt a HM honvédelmi államtitkára jelöl ki.
+6. Katasztrófavédelmi riasztás, aktivizálás
+19. §
+A HKR riasztása történhet
+a) az országos katasztrófavédelmi rendszer riasztásra jogosult szervei által,
+b) a honvédelmi ágazaton belüli súlyos szerencsétlenség, veszélyhelyzet, valamint az ágazaton kívüli
+veszélyhelyzet esetén a honvédelmi szervezet parancsnoka vagy vezetője, illetve az ügyeleti szolgálatok
+jelentése, vagy
+c) az MH nukleáris, vegyi és biológiai veszély előrejelzésére, felmérésére létrehozott szervezet értesítése
+alapján.
+20. § (1) A KKB-tól, a KKB Nemzeti Veszélyhelyzet-kezelési Központjától, valamint annak működése eléréséig a védelmi
+igazgatás területi szerveitől érkező katasztrófavédelmi feladatokban való közreműködésre történő felkérés esetén
+a HIKKSZ-t, valamint a KKB Nemzeti Veszélyhelyzet-kezelési Központjába beosztott minisztériumi ágazati szakértőt
+az ágazat központi ügyeleti szerve riasztja. A HIKKSZ riasztáson keresztül történő aktivizálását a HM honvédelmi
+államtitkára rendeli el.
+(2) A KKB-tól, a KKB Nemzeti Veszélyhelyzet-kezelési Központjától, valamint annak működése eléréséig a védelmi
+igazgatás területi szerveitől érkező katasztrófavédelmi feladatokban való közreműködésre történő felkérés esetén
+az MH-tól a KKB Nemzeti Veszélyhelyzet-kezelési Központjába beosztott ágazati szakértőt, valamint a HKR MH-n
+belüli elemeit az ágazat központi ügyeleti szerve riasztja. Az MH-tól a KKB Nemzeti Veszélyhelyzet-kezelési
+Központjába beosztott ágazati szakértő, valamint a HKR MH-n belüli elemeinek riasztáson keresztül történő
+részleges vagy teljes aktivizálását az MH parancsnoka rendeli el a HM honvédelmi államtitkára tájékoztatása mellett.
+(3) A HKR teljes aktivizálását a miniszter rendeli el a HM honvédelmi államtitkára és az MH parancsnokának együttes
+szakmai javaslatára.
+(4) A HKR MH-n belüli elemeinek riasztását, és a riasztáson keresztül történő részleges vagy teljes aktivizálását
+– azonnali intézkedést igénylő esetben az MH parancsnokának tájékoztatása mellett – az SMK parancsnoka is
+jogosult elrendelni.
+
+21. § (1) A HIKKSZ, az SMK, a műveletvezetési központok állománya, az Ágazati Információs Központ kijelölt állománya,
+valamint a kijelölt végrehajtó erők meghatározott munkacsoportjai laktanyán kívüli katasztrófavédelmi készenléti
+szolgálatot látnak el.
+(2) Az (1) bekezdésben meghatározott készenléti szolgálatok részleges vagy teljes aktivizálását a jogosultak az arra
+okot adó helyzet szakmai szempontok szerinti értékelése alapján rendelik el. A szakmai értékelés kiterjed különösen
+a kialakult helyzet földrajzi kiterjedésére, a fenyegetett személyek és anyagi javak körére, valamint a honvédségi
+közreműködés mértékére.
+7. A honvédelmi erők ágazaton kívüli igénybevételének rendje
+22. §
+A végrehajtó erők katasztrófavédelmi közreműködés céljából való kirendelésének általános rendje szerint
+a katasztrófa típusa szerinti országos illetékességű irányító szerv, illetve a védelmi igazgatás területi szerve
+a honvédségi közreműködésre vonatkozó kérését a KKB-hez vagy annak operatív munkaszervéhez terjeszti fel.
+A KKB vagy a KKB Nemzeti Veszélyhelyzet-kezelési Központja az igényeket továbbítja az ágazat központi ügyeleti
+szervének. Ha a KKB vagy a Nemzeti Veszélyhelyzet-kezelési Központja nem kerül összehívásra, a honvédségi
+közreműködésre vonatkozó kérést közvetlenül az ágazat központi ügyeleti szerve részére kell megküldeni,
+amely erről haladéktalanul értesíti az SMK parancsnokát és a HIKKSZ vezetőjét. A kijelölt végrehajtó erők
+katasztrófavédelmi közreműködés céljából történő kirendeléséről a miniszter vagy az MH parancsnoka dönt.
+23. § (1) Rendkívüli esetben, ha a katasztrófa következtében az élet- és vagyonmentés indokolja az azonnali intézkedést
+és katonai képességek közreműködését, a védelmi igazgatási, rendvédelmi vagy az Országos Mentő Szolgálathoz
+tartozó szervek igénye alapján vagy ha az ebből adódó késedelem súlyos következménnyel járna, közvetlenül
+az érintett által felkért honvédségi szervezet parancsnoka a regionális együttműködés kereteire figyelemmel saját
+hatáskörben dönt a segítségnyújtásról, amelynek során a közreműködés mértéke és jellege nem veszélyeztetheti
+az adott honvédségi szervezet alaprendeltetés szerinti feladatellátásának maradéktalan biztosítását, a készenlét
+fenntartását, a hadrafoghatóság szintjét.
+(2) A rendkívüli kirendelés időtartama kizárólag a közvetlen életveszély és a jelentős anyagi kár bekövetkezte közvetlen
+veszélyének fennállásáig vagy a védekezésben részt vevő társszervek, szervezetek részére történő feladatátadásig
+tarthat.
+8. A HKR működési feltételei biztosításának feladatai a védekezésre történő felkészülés időszakában
+24. §
+A miniszter a felkészülés és a megelőzés időszakában
+a) kiadja a HKR Szervezeti és Működési Szabályzatát, és
+b) szabályozza a HM katasztrófavédelmi készenléti szolgálata vezénylésének rendjét.
+25. § (1) A HM honvédelmi államtitkára a felkészülés és a megelőzés időszakában
+a) gondoskodik a HKR felkészítéséről,
+b) irányítja a honvédelmi ágazat katasztrófavédelmi tevékenységével kapcsolatos nemzetközi együttműködést,
+c) a HM közigazgatási államtitkárával egyetértésben kijelöli a KKB Nemzeti Veszélyhelyzet-kezelési Központba
+a HM-et képviselő ágazati szakértőket, és
+d) meghatározza a HIKKSZ szakmai összetételét.
+(2) A HM közigazgatási államtitkára a felkészülés és a megelőzés időszakában
+a) gondoskodik a HKR minisztériumi szintű szabályozóinak kidolgozásáról és naprakészen tartásáról,
+b) a HKR részére történő dedikált költségvetési előirányzat biztosításával gondoskodik a HKR
+működőképességéről és lehetőségeken belüli fejlesztéséről, és
+c) a katasztrófavédelmi ágazati költségvetés felhasználása irányelveinek – a HM honvédelmi államtitkárával
+egyetértésben való – jóváhagyásával meghatározza a HKR működésének, valamint fejlesztésének fő
+irányait, továbbá gondoskodik a HKR feladatok során alkalmazandó egyes speciális eszközök és felszerelések
+biztosításáról.
+
+26. §
+Az MH parancsnoka a felkészülés és a megelőzés időszakában
+a) szabályozza a végrehajtásban részt vevő honvédségi szervezetek katasztrófavédelmi alkalmazási terveinek
+kidolgozását,
+b) kijelöli a műveletvezetési központokat, a tervezett végrehajtó erőket,
+c) jóváhagyja a katasztrófavédelmi tervet,
+d) biztosítja a katasztrófavédelmi feladatok végrehajtására kijelölt erők igénybevételi feltételeinek folyamatos
+meglétét,
+e) szabályozza az alárendeltségébe tartozó készenléti szolgálatok vezénylésének, ellátásának rendjét, a HKR
+riasztási feltételeit,
+f) gondoskodik a katasztrófavédelmi feladatok végrehajtásához szükséges technikai eszközök
+hadrafoghatóságáról,
+g) kijelöli az MH nukleáris, vegyi és biológiai veszély előrejelzésére, felmérésére létrehozott szervezet HKR
+részeként működő elemeit, szabályozza a működésük rendjét,
+h) meghatározza az SMK és a TÖVE szakmai összetételét, és
+i) kijelöli a KKB Nemzeti Veszélyhelyzet-kezelési Központba az MH-t képviselő ágazati szakértőket.
+27. § (1) A HM katasztrófavédelmi költségvetés tervezést koordináló és a HKR HM szintű szabályozásáért felelős önálló
+szervezeti egysége a felkészülés és a megelőzés időszakában
+a) felelős a Kat. 82. § (3) bekezdése szerinti miniszteri rendelet tervezetének szakmai előkészítéséért – a HM
+veszélyes katonai objektum felügyeleti hatósági feladatokat ellátó önálló szervezeti egysége bevonásával –,
+b) előkészíti a HKR Szervezeti és Működési Szabályzatát,
+c) előkészíti és jóváhagyásra felterjeszti a HKR költségvetési előirányzatai felhasználására vonatkozó
+irányelveket, a katasztrófavédelmi elemi költségvetést, valamint a hozzá kapcsolódó éves beszerzési tervet,
+d) végzi a HKR fenntartására és fejlesztésére fordítandó költségvetési előirányzat elosztásának szakmai
+koordinációját, éves tervezési, továbbá annak időarányos felhasználása ellenőrzési feladatait, valamint
+az azzal kapcsolatos HM és MH közötti koordinációs feladatokat,
+e) meghatározott szakállományának katasztrófavédelmi készenléti szolgálatba vezénylésével biztosítja
+a HIKKSZ működését,
+f) a HM védelmi igazgatási és katasztrófavédelmi koordinációs feladatokat ellátó önálló szervezeti egysége
+felkérésére szakállományával részt vesz a katasztrófavédelemmel kapcsolatos országos és nemzetközi
+rendezvényeken, és
+g) részt vesz a HIKKSZ állományának szakmai felkészítésében.
+(2) A HM védelmi igazgatási és katasztrófavédelmi koordinációs feladatokat ellátó önálló szervezeti egysége
+a felkészülés és a megelőzés időszakában
+a) koordinálja a HM honvédelmi államtitkára KKB tagságából adódó honvédelmi ágazati katasztrófavédelmi és
+védelmi igazgatási feladatokat,
+b) szakmai segítséget nyújt a védelmi igazgatás területi szervei részére intézkedési tervek kidolgozásához,
+c) a katasztrófavédelmi szervekkel együttműködve részt vesz a védelmi igazgatás területi szerveinek elnökei
+részére szervezett komplex védelmi igazgatási továbbképzések megszervezésében, végrehajtásában,
+d) javaslatot tesz a HM honvédelmi államtitkára részére a központi államigazgatási szervekkel való
+katasztrófavédelmi és védelmi igazgatási szakmai kapcsolattartás rendjére,
+e) meghatározott állományának katasztrófavédelmi készenléti szolgálatba vezénylésével biztosítja a HIKKSZ
+működését,
+f) biztosítja a HIKKSZ működésének infrastrukturális feltételeit,
+g) koordinálja a KKB szerveivel való kapcsolattartást, képviseli a HM-et a katasztrófavédelemmel kapcsolatos
+országos és nemzetközi rendezvényeken,
+h) végzi a katasztrófavédelmi gyakorlatok minisztériumi szintű koordinációs feladatait, és
+i) tervezi, valamint végrehajtja a HIKKSZ állomány szakmai felkészítését.
+(3) Az MHP-nak az SMK működtetéséért felelős önálló szervezeti egysége a felkészülés és a megelőzés időszakában
+a) összeállítja a katasztrófavédelmi tervet,
+b) részt vesz a katasztrófavédelmi gyakorlatok előkészítésében és levezetésében,
+c) összehangolja a más magasabb szintű parancsnokság, az MH parancsnoka közvetlen alárendeltségébe
+tartozó szervezetek és a végrehajtó erők katasztrófavédelemmel kapcsolatos operatív tervező és kidolgozó
+munkáját, irányítja azok katasztrófavédelmi felkészítését,
+
+d) biztosítja az SMK és a TÖVE riasztási, aktivizálási feltételeit,
+e) szervezi és végrehajtja a katasztrófavédelmi feladatokra kijelölt erők felkészítésének és készenlétének
+ellenőrzését, és
+f) előkészíti, valamint levezeti az SMK katasztrófavédelmi feladatokra történő szakmai felkészítését.
+(4) A HM veszélyes katonai objektum felügyeleti hatósági feladatokat ellátó önálló szervezeti egysége
+a) végzi az ágazati objektumok veszélyességi minősítésének nyilvántartását, és
+b) működteti az ágazati veszélyes anyag és veszélyes objektum adatbázist.
+(5) A (4) bekezdés b) pontja szerinti adatbázis felhasználhatóságát a HM veszélyes katonai objektum felügyeleti
+hatósági feladatokat ellátó önálló szervezeti egysége biztosítja az MHP-nak az SMK működtetéséért felelős önálló
+szervezeti egysége és az Ágazati Információs Központot működtető honvédségi szervezet részére.
+9. Az ágazati létesítmények katasztrófavédelmi tervezése
+28. §
+A veszélyes anyagokkal foglalkozó üzem vagy a veszélyes katonai objektum veszélyességi övezetében lévő, külön
+jogszabály hatálya alá nem tartozó ágazati létesítményekre az ágazati létesítmény parancsnoka objektumvédelmi
+tervet készít.
+10. Segítségnyújtás nemzetközi katasztrófavédelmi feladatokhoz
+29. § (1) A katasztrófák elleni védekezés tárgykörében a Kormány döntéseinek és az Országgyűlés határozatainak
+előkészítésével kapcsolatos ágazati feladatokat, valamint a nemzetközi katasztrófavédelmi feladatok ágazati
+koordinációját a HM honvédelmi államtitkára végzi.
+(2) A HKR nemzetközi katasztrófavédelmi segítségnyújtásban közreműködő erői és eszközei kijelölésével,
+felkészítésével és igénybevételével kapcsolatos, a Kormány döntéséből adódó feladatokat – az érintett honvédelmi
+szervezetekkel együttműködésben – az MH parancsnoka végzi.
+11. A katasztrófavédelemmel kapcsolatos képzés, felkészítés, kiképzés
+30. § (1) A HM honvédelmi államtitkára irányítást gyakorol a HIKKSZ felkészítése, kiképzése, továbbképzése, valamint
+gyakorlatokon történő részvétele felett.
+(2) Az MH parancsnoka
+a) irányítást gyakorol az MH-n belüli HKR elemek katasztrófavédelmi felkészítése, kiképzése, továbbképzése,
+valamint gyakorlatokon történő részvétele felett,
+b) intézkedik a katasztrófavédelemre kijelölt alárendeltségében lévő állomány felkészítési rendszere, módszere,
+tematikája kidolgozására,
+c) irányítja az MH-n belüli katasztrófavédelmi felkészítést, kiképzést és a gyakorlatok tervezését,
+d) biztosítja az országos katasztrófavédelmi rendszer, nemzetközi katasztrófavédelmi együttműködés keretében
+szervezett közös kiképzéseken, gyakorlatokon az MH részvételét, és
+e) jóváhagyja az MHP-nak az SMK működtetéséért felelős önálló szervezeti egysége által az SMK
+katasztrófavédelmi felkészítésére vonatkozó felkészítési tervét.
+(3) A katasztrófavédelmi felkészítés és kiképzés kiterjed a katasztrófavédelmi munkavédelem és baleset-elhárítás
+különös szabályaira is.
+12. A katasztrófavédelmi feladatok végrehajtását követő intézkedések
+31. §
+A katasztrófavédelmi feladatok végrehajtását követően haladéktalanul fel kell mérni, és elkülönítetten nyilván
+kell tartani a keletkezett károkat, a vagyoni hátrányokozást, a védekezésben részt vevők egészségkárosodását,
+a balesetet, valamint a felmerült költségtérítési igény mértékét.
+13. A lakosság tájékoztatása
+32. § (1) A HM kommunikációs tevékenységéért felelős szervezete
+a) végzi a lakosságtájékoztatás, a társadalommal és a sajtóval való kapcsolattartás minisztériumi szintű
+feladatait,
+
+b) elkészíti az ágazati lakossági tájékoztatási tervet, és
+c) nukleáris veszélyhelyzetben működteti a Lakossági Tájékoztatási Munkacsoportot.
+(2) A lakosságtájékoztatás, a társadalommal és a sajtóval való kapcsolattartás MH szintű feladatait az MHP
+kommunikációs tevékenységéért felelős szerve végzi.
+14. Záró rendelkezések
+33. §
+Ez a rendelet 2019. február 1-jén lép hatályba.
+34. §
+Hatályát veszti a honvédelmi ágazat katasztrófák elleni védekezésének irányításáról és feladatairól szóló 23/2005.
+(VI. 16.) HM rendelet.
+ Dr. Benkő Tibor s. k.,
+ honvédelmi miniszter
