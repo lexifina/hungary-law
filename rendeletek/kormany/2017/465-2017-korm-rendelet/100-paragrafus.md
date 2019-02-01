@@ -8,6 +8,6 @@ b) azon adózók – a költségvetési szervek, a személyi jövedelemadóról 
 
 ba) az adóévet megelőző második évben vagy azt megelőzően kezdték meg tevékenységüket, és
 
-bb)[^38] adóteljesítményük értéke a 3 300 000 000 forintot elérte.
+bb)[^39] adóteljesítményük értéke a 3 300 000 000 forintot elérte.
 
-[^38]: A 100. § b) pont bb) alpontja a 311/2018. (XII. 27.) Korm. rendelet 36. § 12. pontja szerint módosított szöveg.
+[^39]: A 100. § b) pont bb) alpontja a 311/2018. (XII. 27.) Korm. rendelet 36. § 12. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## I/A. Fejezet[^24]
+## I/A. Fejezet[^25]
 
 ## AZ ELJÁRÁSI KÖLTSÉGEK, AZ IRATBETEKINTÉSSEL ÖSSZEFÜGGŐ KÖLTSÉGTÉRÍTÉS, A KÖLTSÉGEK MEGFIZETÉSE, VALAMINT A KÖLTSÉGMENTESSÉG RÉSZLETES SZABÁLYAI
 
@@ -40,4 +40,4 @@
 
 17. az ügygondnok munkadíja.
 
-[^24]: Az I/A. Fejezetet (27/B–27/L. §-t) a 311/2018. (XII. 27.) Korm. rendelet 30. §-a iktatta be.
+[^25]: Az I/A. Fejezetet (27/B–27/L. §-t) a 311/2018. (XII. 27.) Korm. rendelet 30. §-a iktatta be.

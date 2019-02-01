@@ -12,6 +12,6 @@ d) az állami adó- és vámhatóság EFER POS befizetések elszámolási száml
 
 e) tételes elszámolású fizetési kötelezettség esetén a határozatszámot.
 
-(3)[^30] Az internetes felületen (VPOS) bankkártyával bonyolított fizetési művelet során a fizetéshez szükséges adatokat (ideértve a felosztási rendelkezést) az adózó rögzíti. Az állami adó- és vámhatóság a fizetés kezdeményezésekor az EFER részére a (2) bekezdés a)–c) és e) pontjában meghatározott adatok mellett az állami adó- és vámhatóság EFER VPOS befizetések elszámolási számla számát adja át.
+(3)[^31] Az internetes felületen (VPOS) bankkártyával bonyolított fizetési művelet során a fizetéshez szükséges adatokat (ideértve a felosztási rendelkezést) az adózó rögzíti. Az állami adó- és vámhatóság a fizetés kezdeményezésekor az EFER részére a (2) bekezdés a)–c) és e) pontjában meghatározott adatok mellett az állami adó- és vámhatóság EFER VPOS befizetések elszámolási számla számát adja át.
 
-[^30]: A 64. § (3) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 36. § 8. pontja szerint módosított szöveg.
+[^31]: A 64. § (3) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 36. § 8. pontja szerint módosított szöveg.

@@ -24,7 +24,7 @@
 
 12. észrevételt rögzít az adószámla egészét, illetve egyes adónemeit érintően,
 
-13.[^33] az adózó adó- és jövedelemigazolás iránti kérelmét rögzíti,
+13.[^34] az adózó adó- és jövedelemigazolás iránti kérelmét rögzíti,
 
 14. a gépjármű forgalmazók illetékmentességének megállapításához kapcsolódó nyilatkozatot rögzíti,
 
@@ -34,4 +34,4 @@
 
 17. egyedi tájékoztatást ad az adózó állami adó- és vámhatósághoz bejelentett törzsadatairól, az adózó adószámlájáról, az adózó adószámla-kivonatáról, az adózót érintő fizetési kötelezettségekről, köztartozásokról, az elektronikus ügyintézéshez kapcsolódó regisztrációról, az állandó meghatalmazásról, az adózó bevallásainak adatairól, az adózó hibás bevallásáról, az adózó által elmulasztott bevallások miatt kiszabott mulasztási bírságról.
 
-[^33]: A 72. § 13. pontja a 311/2018. (XII. 27.) Korm. rendelet 36. § 10. pontja szerint módosított szöveg.
+[^34]: A 72. § 13. pontja a 311/2018. (XII. 27.) Korm. rendelet 36. § 10. pontja szerint módosított szöveg.

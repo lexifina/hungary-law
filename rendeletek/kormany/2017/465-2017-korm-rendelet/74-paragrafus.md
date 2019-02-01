@@ -1,6 +1,6 @@
 ## 29. Megbízólevél
 
-74. § (1)[^34] A megbízólevél tartalmazza:
+74. § (1)[^35] A megbízólevél tartalmazza:
 
 a) az ellenőrzést végző adóhatóság, továbbá az Air. 87/A. § (2) és (5) bekezdése szerinti esetben az ellenőrzés lefolytatásában részt vevő külföldi adóhatóság megnevezését,
 
@@ -16,4 +16,4 @@ d) adóellenőrzés esetén az ellenőrzés alá vont adónemet és időszakot.
 
 (4) Az általános megbízólevéllel az állami adó- és vámhatóság adóellenőre területi megkötés nélkül jogosult ellenőrzés lefolytatására.
 
-[^34]: A 74. § (1) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^35]: A 74. § (1) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 33. §-ával megállapított szöveg.
