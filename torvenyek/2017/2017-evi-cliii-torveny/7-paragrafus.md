@@ -26,7 +26,7 @@
 
 11. jármű: közúti szállító- vagy vontató eszköz, ideértve az önjáró vagy vontatott munkagépet is;
 
-12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
+12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
 
 13. költségvetési támogatás: az államháztartásról szóló törvény (a továbbiakban: Áht.) szerinti támogatás és az Art. szerinti azon költségvetési támogatások, amelyek az Áht. alapján nem minősülnek támogatásnak;
 
