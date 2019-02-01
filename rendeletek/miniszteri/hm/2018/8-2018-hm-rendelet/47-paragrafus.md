@@ -6,7 +6,7 @@
 
 (4) A (2) bekezdéstől eltérően, ha az állomáshely sajátosságai a készpénzben történő kifizetést nem teszik lehetővé, az állomány tagjának arról kell nyilatkoznia, hogy az 53. § (2) bekezdése alapján mekkora összegű havi előleget kíván felvenni a külföldi szolgálat megkezdése előtt.
 
-(5) A (4) bekezdés szerinti állomáshelyeket a Honvédség középszintű vezető szerve határozza meg.
+(5)[^46] A (4) bekezdés szerinti állomáshelyeket a Magyar Honvédség Parancsnoksága határozza meg.
 
 (6) A töredék havi külszolgálati ellátmány kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
 
@@ -15,3 +15,5 @@
 a) (2) és (3) bekezdés szerinti nyilatkozatban kézhez kért összeget meghaladó részét vagy a (4) bekezdés alapján a külföldi szolgálat előtt tárgyhóra felvett előleggel csökkentett összegét az állomány tagja devizaszámlájára havonta utólag, a tárgyhót követő hónap 5. napjáig kell átutalni,
 
 b) külföldi szolgálat megszűnése vagy megszüntetése esetén történő kifizetését a külföldi szolgálat vezénylési okmányban megállapított utolsó napját követő 7 napon belül kell végrehajtani.
+
+[^46]: A 47. § (5) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 15. pontja szerint módosított szöveg.

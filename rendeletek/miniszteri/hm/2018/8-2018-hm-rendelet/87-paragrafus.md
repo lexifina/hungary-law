@@ -1,7 +1,7 @@
-## 86. § A külföldi szolgálattal összefüggésben tévesen kifizetett összeg kormánytisztviselő esetén a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 192. § (1) és (2) bekezdése szerinti elévülési időn belül követelhető vissza.
+## 86. § A külföldi szolgálattal összefüggésben tévesen kifizetett összeg kormánytisztviselő esetén a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 98. §-a szerinti elévülési időn belül követelhető vissza.
 
 ## 53. A II. Fejezethez kapcsolódó rendelkezések
 
-87. § (1) A 7. § (2) bekezdésétől eltérően a kormánytisztviselő alapellátmányát a külföldön betöltött beosztáshoz vagy a besorolási osztályhoz és fizetési fokozathoz az 1. mellékletben meghatározott szorzószám alapulvételével kell megállapítani.
+87. § (1) A Külszoltv. 23. § (5) bekezdés b) pontja szerinti munkaköri osztályhoz tartozó szorzót a rangadományozás és ranghasználat részletes szabályairól szóló 6/2016. (X. 12.) KKM rendelet figyelembevételével kell megállapítani.
 
-(2) Az (1) bekezdéstől eltérően a képviselet-vezetői beosztást betöltő kormánytisztviselő alapellátmányát az 1. mellékletben az adott beosztáshoz meghatározott szorzószámnál 0,7-del magasabb szorzószám alapján kell megállapítani.
+(2) A MÁNK VPR képviselet-vezető Külszoltv. 23. § (5) bekezdése szerinti illetményét az „első beosztott diplomata, első beosztott konzul” munkakörhöz tartozó szorzó, a MÁEK KK képviselet-vezető Külszoltv. 23. § (5) bekezdése szerinti illetményét a „beosztott diplomata” munkakör I. osztályú tanácsosi ranghoz meghatározott szorzó alapján kell megállapítani.

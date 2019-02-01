@@ -4,11 +4,13 @@ a) az ideiglenes elhelyezés költségeit, ideértve a szállásköltség rész�
 
 b) lakhatási átalány-költségtérítés formájában a lakóingatlan és az ahhoz tartozó garázs bérleti díját, együttesen a 20. § (3) bekezdése szerinti mértékben, valamint
 
-c) vegyes átalány-költségtérítés formájában a b) pontban fel nem sorolt, egyéb lakhatással összefüggő költségeket az állomány tagja részére
+c)[^29] vegyes átalány-költségtérítés formájában a b) pontban fel nem sorolt, egyéb lakhatással összefüggő költségeket az állomány tagja részére havonta 300 euró (a továbbiakban: EUR) összegben, továbbá egy főnél több családi átalány-költségtérítésre jogosító hozzátartozó esetén a második családi átalány-költségtérítésre jogosító hozzátartozótól hozzátartozónként havonta további 30 EUR összegben.
 
-ca) havonta 300 euró (a továbbiakban: EUR) összegben, továbbá egy főnél több családi átalány-költségtérítésre jogosító hozzátartozó esetén a második családi átalány-költségtérítésre jogosító hozzátartozótól hozzátartozónként havonta további 30 EUR összegben, és
+(1a)[^30] Az (1) bekezdés c) pontjában foglaltaktól eltérően, azon állomáshelyek tekintetében, ahol az ellátmányalap összege
 
-cb) a ca) pontban foglaltaktól eltérően, azon állomáshelyek tekintetében, ahol az ellátmányalap összege amerikai dollárban (a továbbiakban: USD) került meghatározásra, havonta 333 USD összegben, továbbá egy főnél több családi átalány-költségtérítésre jogosító hozzátartozó esetén a második családi átalány-költségtérítésre jogosító hozzátartozótól hozzátartozónként havonta további 33 USD összegben.
+a) amerikai dollárban (a továbbiakban: USD) került meghatározásra, a vegyes átalány-költségtérítés összege havonta 333 USD, továbbá egy főnél több családi átalány-költségtérítésre jogosító hozzátartozó esetén a második családi átalány-költségtérítésre jogosító hozzátartozótól hozzátartozónként havonta további 33 USD,
+
+b) kanadai dollárban (a továbbiakban: CAD) került meghatározásra, a vegyes átalány-költségtérítés összege havonta 458 CAD, továbbá egy főnél több családi átalány-költségtérítésre jogosító hozzátartozó esetén a második családi átalány-költségtérítésre jogosító hozzátartozótól hozzátartozónként havonta további 46 CAD.
 
 (2) A Honvédség megtéríti
 
@@ -21,6 +23,8 @@ b) az állomány tagja szolgálati célú telefonbeszélgetéseinek részletes s
 (4) Az állomány tagja nem jogosult a berendezett lakhatási átalány-költségtérítésre abban az esetben, ha az általa bérelt lakóingatlan honvédségi bútorzattal van ellátva, vagy ha az állomány tagjának saját lakásberendezése Magyarországról kiszállításra került. Ebben az esetben az állomány tagja részére kizárólag a berendezés nélküli lakhatási átalány-költségtérítés állapítható meg.
 
 (5) Berendezett lakóingatlan bérlése esetén, valamint a 20. § (2) bekezdés b) pontja szerinti esetben az állomány tagja a berendezett lakhatási átalány-költségtérítésre jogosult.
+
+(5a)[^31] Ha a Honvédség rendelkezik olyan lakóingatlannal vagy lakóingatlan bérleti jogával, amely a 19. § (3) és (4) bekezdésében foglalt szempontoknak megfelel, és az állomány tagja beosztásából adódóan indokolt, az engedélyező elöljáró döntése szerint az állomány tagja köteles a rendelkezésre álló, a számára lakhatás céljából felajánlott lakóingatlant elfogadni, ha az az állomány tagja számára nem okoz indokolatlan többletterhet, ideértve különösen a munkába járás időtartamának, költségének, illetve a közüzemi szolgáltatások díjának az indokolatlan emelkedését. Ebben az esetben az állomány tagja lakhatási átalány-költségtérítésre nem jogosult.
 
 (6) A vegyes átalány-költségtérítés a lakóingatlan bérlése során felmerülő költségekhez, így különösen
 
@@ -48,9 +52,9 @@ k) a lakóingatlanra vonatkozó helyi adó
 
 ## költségeihez való hozzájárulás céljából nyújtott juttatás.
 
-(7) A lakhatási átalány-költségtérítés és a vegyes átalány-költségtérítés a lakóingatlan átvételének napjától illeti meg az állomány tagját. Törthavi lakhatási átalány-költségtérítést és vegyes átalány-költségtérítést kell megállapítani az állomány tagja részére, ha a tárgyhónapnak csak egy részében áll fenn a jogosultsági feltétel, ideértve különösen az ideiglenes elhelyezés, a tárgyhónap közben lezajló ki- és hazatelepülés, továbbá a vegyes átalány-költségtérítés esetén a családi átalány-költségtérítésre való jogosultság megállapításának vagy megszüntetésének esetét.
+(7)[^32] A lakhatási átalány-költségtérítés és a vegyes átalány-költségtérítés a lakóingatlan átvételének napjától illeti meg az állomány tagját. Törthavi lakhatási átalány-költségtérítést és vegyes átalány-költségtérítést kell megállapítani az állomány tagja részére, ha a tárgyhónapnak csak egy részében áll fenn a jogosultsági feltétel, ideértve különösen az ideiglenes elhelyezés, a tárgyhónap közben lezajló ki- és hazatelepülés, továbbá a vegyes átalány-költségtérítés esetén a családi átalány-költségtérítésre való jogosultság megállapításának vagy megszüntetésének esetét. A lakhatási átalány-költségtérítés megállapítása során a lakóingatlan átvételének napjától kell figyelembe venni a 19. § (4) bekezdése szerinti hozzátartozókat akkor is, ha a lakóingatlan átvételének napjától számított 30 napon belül költöznek az állomáshelyre, és válnak családi átalány-költségtérítésre jogosító hozzátartozókká.
 
-(8)[^2] A vegyes átalány-költségtérítés összegének megállapítása során a 10. § és a 11. § rendelkezései szerint kell eljárni.
+(8)[^33] A vegyes átalány-költségtérítés összegének megállapítása során a 10. § és a 11. § rendelkezései szerint kell eljárni.
 
 (9) A Honvédség megfizeti az állomány tagja részére a lakóingatlan és a garázs bérlésével összefüggésben felmerült letét összegét.
 
@@ -68,4 +72,8 @@ a) a bérbeadó tulajdonát képezik, de a bérlés ideje alatt azokat a lakóin
 
 b) külön szolgáltatótól kerülnek bérlésre, és a bérlés díja a biztosítási díjat nem tartalmazza.
 
-[^2]: A 21. § (8) bekezdése a 17/2018. (IX. 27.) HM rendelet 2. §-ával megállapított szöveg.
+[^29]: A 21. § (1) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 13. §-ával megállapított szöveg.
+[^30]: A 21. § (1a) bekezdését a 2/2019. (I. 31.) HM rendelet 14. §-a iktatta be.
+[^31]: A 21. § (5a) bekezdését a 2/2019. (I. 31.) HM rendelet 15. §-a iktatta be.
+[^32]: A 21. § (7) bekezdése a 2/2019. (I. 31.) HM rendelet 16. §-ával megállapított szöveg.
+[^33]: A 21. § (8) bekezdése a 17/2018. (IX. 27.) HM rendelet 2. §-ával megállapított szöveg.

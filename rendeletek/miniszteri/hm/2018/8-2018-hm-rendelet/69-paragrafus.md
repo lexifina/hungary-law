@@ -2,6 +2,9 @@
 
 69. § (1) Az állomány ideiglenes külföldi képzésben részt vevő tagja a VI. Fejezetben meghatározottak szerint külföldi napidíjra jogosult.
 
-(2) Az állomány tartós külföldi képzésben részt vevő tagja külszolgálati ellátmányra jogosult, amely ellátmányból és a 18 hónapot meghaladó időtartamú képzés esetén családi ellátmánypótlékból áll.
+(2)[^54] Az állomány tartós külföldi képzésben részt vevő tagja külszolgálati ellátmányra jogosult, amely ellátmányból és a 18 hónapot meghaladó időtartamú képzés esetén ellátmánypótlékból áll.
 
-(3) Az állomány tagja a külszolgálati ellátmányra való jogosultságát érintő változásokat az illetékes személyügyi szervnek köteles a változás bekövetkezését követő 10 napon belül írásban bejelenteni.
+(3)[^55]
+
+[^54]: A 69. § (2) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 18. pontja szerint módosított szöveg.
+[^55]: A 69. § (3) bekezdését a 2/2019. (I. 31.) HM rendelet 39. § g) pontja hatályon kívül helyezte.

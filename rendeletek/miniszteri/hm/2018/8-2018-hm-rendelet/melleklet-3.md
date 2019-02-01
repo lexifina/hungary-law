@@ -1,4 +1,4 @@
-## A NATO- és a nemzeti beosztást betöltők, továbbá a tartós külföldi szolgálatot teljesítő közalkalmazottak és kormánytisztviselők ellátmányalapjának havi nettó összege és élhetőségi indexe országonként
+## A NATO- és a nemzeti beosztást betöltők, a tartós külföldi szolgálatot teljesítő közalkalmazottak és honvédelmi alkalmazottak, továbbá a tartós külföldi képzésben részt vevők ellátmányalapjának havi nettó összege és élhetőségi indexe országonként
 
 |  | A | B | C | D |
 
@@ -40,7 +40,7 @@
 
 | 19. | Ecuador | 958 | EUR | 15% |
 
-| 20. | Kanada | 1032 | EUR | 10% |
+| 20. | Kanada | 1577 | CAD | 10% |
 
 | 21. | Kolumbia | 893 | EUR | 15% |
 

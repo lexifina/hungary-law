@@ -4,6 +4,12 @@ a) a 14. § (1) bekezdés a), b) és f) pontja esetén legkésőbb az utazás me
 
 b) a 14. § (1) bekezdés c) és e) pontja esetén soron kívül, de legkésőbb az állomány tagja kérelmének beérkezését követő 5. napig,
 
-c) a 14. § (1) bekezdés d) pontja esetén külön kérelem nélkül, tárgyév március 31-éig és
+c)[^22] a 14. § (1) bekezdés d) pontja esetén külön kérelem nélkül, tárgyév március 31-éig,
 
-d) a 14. § (1) bekezdés g) pontja esetén a hozzátartozó állomáshelyre történő kiérkezéséről szóló, 10. § (1) bekezdés szerinti bejelentést követő 15 napon belül
+d)[^23] a 14. § (1) bekezdés g) pontja esetén a hozzátartozó állomáshelyre történő kiérkezéséről szóló, 10. § (1) bekezdés szerinti bejelentést követő 15 napon belül,
+
+e)[^24] a 14. § (2a) bekezdése esetén legkésőbb az állomány tagja kérelmének beérkezését követő 15. napig
+
+[^22]: A 16. § c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 8. pontja szerint módosított szöveg.
+[^23]: A 16. § d) pontja a 2/2019. (I. 31.) HM rendelet 37. § 9. pontja szerint módosított szöveg.
+[^24]: A 16. § e) pontját a 2/2019. (I. 31.) HM rendelet 10. §-a iktatta be.

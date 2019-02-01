@@ -8,8 +8,11 @@
 
 a) az állománynak a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó tagja, kivéve, ha az e rendeletben foglalt valamely juttatás biztosítását a Magyarországon települő katonai szervezetről szóló, vagy a Magyar Honvédség (a továbbiakban: Honvédség) és a Magyarországon települő katonai szervezet közötti megállapodás a Honvédség részére előírja,
 
-b) az állománynak a Hjt. 46. § (1) bekezdés c) pontja szerinti rendelkezési állományba tartozó azon tagja, aki nem a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) képzési igényéhez kapcsolódóan lát el külföldön feladatot, és
+b)[^1] az állománynak a Hjt. 46. § (1) bekezdés c) pontja szerinti rendelkezési állományba tartozó azon tagja, aki nem a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: HM) képzési igényéhez kapcsolódóan lát el külföldön feladatot, és
 
 c) az állomány Hjt. 117. § (3) bekezdése szerinti illetmény nélküli szabadságon lévő azon tagja, aki nemzetközi szervezetnél olyan beosztást, munkakört (a továbbiakban együtt: beosztás) tölt be, amely nem esik egybe a szolgálat érdekével.
 
-(2) A Honvéd Vezérkar főnökére (a továbbiakban: HVKF) és helyettesére e rendeletet az állami vezetői juttatásokról szóló jogszabály által nem szabályozott kérdésekben kell alkalmazni.
+(2)[^2] A Magyar Honvédség parancsnokára és helyettesére e rendeletet az állami vezetői juttatásokról szóló jogszabály által nem szabályozott kérdésekben kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 2/2019. (I. 31.) HM rendelet 37. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 2. pontja szerint módosított szöveg.

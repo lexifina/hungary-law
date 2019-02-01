@@ -2,7 +2,7 @@
 
 91. § (1) A Hjt. 196. § (2) bekezdése alapján beosztásba helyezett állomány az e rendeletben meghatározott juttatásokra és költségtérítésekre jogosult. A jogosultsági feltételek megállapítását követően részére költségtérítés, illetve a külszolgálati ellátmány részeként kiegészítő juttatás állapítható meg, ha elmarad a betöltött beosztás alapján megállapított havi nettó juttatása, illetve költségtérítése e rendelet szerinti járandóságaitól. A kiegészítő juttatás és költségtérítés megállapításának és folyósításának rendjét a KNBSZ főigazgatója intézkedésben határozza meg.
 
-(2) Az állomány 2. § (2) bekezdés b) pontja szerinti tagja és a KNBSZ közalkalmazotti jogviszonyban álló tagja esetében
+(2)[^93] Az állomány 2. § (2) bekezdés b) pontja szerinti tagja és a KNBSZ közalkalmazotti vagy honvédelmi alkalmazotti jogviszonyban álló tagja esetében
 
 1. a 14. § (7) bekezdése szerinti igazolást a KNBSZ egészségügyi szervezeti egységének vezetője állítja ki,
 
@@ -10,17 +10,17 @@
 
 3. a 16. § c) pontja szerinti utazási átalány-költségtérítés átutalásának határidejét a KNBSZ főigazgatója határozza meg,
 
-4. a KNBSZ főigazgatója engedélyezhet a 19. § (4) bekezdésében foglaltaktól eltérést,
+4.[^94] a KNBSZ főigazgatója engedélyezhet a 19. § (4)–(6) bekezdésében foglaltaktól eltérést,
 
 5. a 20. § (2) bekezdés d) pontja szerinti állomáshelyektől eltérő állomáshelyen történő bútorbeszerzésről a KNBSZ főigazgatója dönt,
 
 6. a berendezett és berendezés nélküli lakhatási átalány-költségtérítés mértékét a 20. § (3) bekezdésétől eltérően a KNBSZ főigazgatója határozza meg,
 
-7. a 21. § (1) bekezdés c) pontja szerinti vegyes átalány-költségtérítés mértékét a KNBSZ főigazgatója a jogos lakásigény mértékén felüli reprezentációs feladatok miatt arányosan, de legfeljebb 25%-os mértékben megemelheti,
+7.[^95] a 21. § (1) bekezdés c) pontja és 21. § (1a) bekezdése szerinti vegyes átalány-költségtérítés mértékét a KNBSZ főigazgatója a jogos lakásigény mértékén felüli reprezentációs feladatok miatt arányosan, de legfeljebb 25%-os mértékben megemelheti,
 
 8. a technikai biztosítás költsége megtérítésének 21. § (2) bekezdés a) pontja szerinti szükségességét a KNBSZ főigazgatója állapítja meg,
 
-9. a Honvédség megtéríti a vezetékes telefon bekötésének, valamint a kommunikációs szolgáltatások díját, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
+9.[^96] a KNBSZ megtéríti a vezetékes telefon bekötésének, valamint a kommunikációs szolgáltatások díját, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
 
 10. a 19–26. §-ban foglaltakhoz kapcsolódó eljárásrendet a KNBSZ főigazgatója intézkedésben határozza meg,
 
@@ -34,7 +34,7 @@
 
 15. a 35. §-ban foglaltak helyett az ellátmányelőleg kifizetésének rendjét a KNBSZ főigazgatója határozza meg,
 
-16. a 35. § (3) bekezdése nem alkalmazható, azonban a 35. § (1) bekezdése alapján folyósítható ellátmányelőlegek összege együttesen nem haladhatja meg a kiküldött kiküldetésének időtartamára összességében folyósított nettó ellátmány 50%-át,
+16.[^97] a 35. § (4) bekezdése nem alkalmazható, azonban a 35. § (1) bekezdése alapján folyósítható ellátmányelőleg összege nem haladhatja meg a kiküldött kiküldetésének időtartamára összességében folyósított nettó ellátmány 50%-át,
 
 17. a 37. §-t azzal az eltéréssel kell alkalmazni, hogy az utazási előleg kérelem alapján folyósítható, amelyet a kiutazást megelőző 8 napon belül kell kifizetni, és
 
@@ -45,3 +45,24 @@
 a) katonai, légügyi, véderő attasék és
 
 b) ezredes vagy alezredes rendszeresített rendfokozatú beosztást betöltő kiküldöttek
+
+## esetében a KNBSZ főigazgatója jelöli ki azon személyi kört, akik reprezentációs feladataik miatt rezidenciai ellátásra jogosultak, és esetükben a 17–21. § helyett a 23–26. §-t kell alkalmazni.
+
+(4)[^98] Az 1. melléklet alapján
+
+a) a katonai, légügyi, véderő attasék ellátmányát a dandártábornoki rendszeresített rendfokozatú,
+
+b) a katonai, légügyi, véderő attasé-helyettesek ellátmányát az alezredesi (vezetői beosztás) rendszeresített rendfokozatú,
+
+c) az attaséhivatali titkár-gyakornokok ellátmányát az őrnagyi rendszeresített rendfokozatú, és
+
+d) az altiszti titkárok ellátmányát a törzszászlósi rendszeresített rendfokozatú
+
+beosztáshoz tartozó szorzószám alapján kell megállapítani.
+
+[^93]: A 91. § (2) bekezdés nyitó szövegrésze a 2/2019. (I. 31.) HM rendelet 37. § 33. pontja szerint módosított szöveg.
+[^94]: A 91. § (2) bekezdés 4. pontja a 2/2019. (I. 31.) HM rendelet 37. § 34. pontja szerint módosított szöveg.
+[^95]: A 91. § (2) bekezdés 7. pontja a 2/2019. (I. 31.) HM rendelet 37. § 35. pontja szerint módosított szöveg.
+[^96]: A 91. § (2) bekezdés 9. pontja a 2/2019. (I. 31.) HM rendelet 37. § 36. pontja szerint módosított szöveg.
+[^97]: A 91. § (2) bekezdés 16. pontja a 2/2019. (I. 31.) HM rendelet 33. §-ával megállapított szöveg.
+[^98]: A 91. § (4) bekezdését a 2/2019. (I. 31.) HM rendelet 34. §-a iktatta be.

@@ -14,8 +14,11 @@ a) az állomány tagját terheli a gépjárműre vonatkozó teljes körű CASCO 
 
 b) az állomány tagja jogosult a 64. § (2) bekezdése szerinti költségtérítésekre.
 
-(4) A 35. § (1) bekezdés b) pontja szerinti ellátmányelőleg felhasználásával vásárolt gépkocsikat – a 64. § (2) bekezdése szerinti költségtérítés ellenében – az állomány tagja az engedélyező elöljáró utasítása alapján beosztásával összefüggő feladatai ellátására is köteles használni.
+(4)[^41]
 
-(5) Az (1) és a (4) bekezdés szerinti lehetőségek hiányában az állomány tagja részére indokolt esetben, szolgálati feladatai ellátása érdekében, alkalmanként bérelt gépjármű igénybevétele engedélyezhető, amelynek költsége a Honvédséget terheli.
+(5)[^42] Az (1) bekezdés szerinti lehetőségek hiányában az állomány tagja részére indokolt esetben, szolgálati feladatai ellátása érdekében, alkalmanként bérelt gépjármű igénybevétele engedélyezhető, amelynek költsége a Honvédséget terheli.
 
 (6) A gépjárműhasználat és gépjárműbérlés engedélyezésére és elszámolására – az e rendeletben nem szabályozott kérdésekben – a honvédségi járművek fenntartásáról szóló miniszteri rendeletet kell alkalmazni.
+
+[^41]: A 39. § (4) bekezdését a 2/2019. (I. 31.) HM rendelet 39. § e) pontja hatályon kívül helyezte.
+[^42]: A 39. § (5) bekezdése a 2/2019. (I. 31.) HM rendelet 39. § f) pontja szerint módosított szöveg.

@@ -18,6 +18,8 @@ g) évente egy alkalommal a 10. § (1) bekezdése szerinti alkalmi látogatásko
 
 (2) Az (1) bekezdés d) és g) pontjának alkalmazása során úgy kell eljárni, hogy az állomány tagja részére egy naptári évben ugyanazon hozzátartozó után kizárólag egy alkalommal állapítható meg a jogosultság.
 
+(2a)[^18] A 14. § (1) bekezdés d) és g) pontját, valamint a 14. § (2) bekezdését kell alkalmazni a 9 hónapot meghaladó, de legfeljebb 12 hónapig terjedő külföldi szolgálat esetén is azzal, hogy szabadságra történő hazautazás vagy alkalmi látogatás céljából az állomány tagja egyazon személy után a külföldi szolgálat időtartama alatt összesen egy alkalommal jogosult támogatásra. Az állomány tagja részére az utazási átalány-költségtérítés az illetékes pénzügyi ellátó szerv részére benyújtott írásbeli kérelem alapján folyósítható.
+
 (3) Az állomány tagja az (1) bekezdés a), b) és f) pontja szerinti utazások alkalmával
 
 a) utazási jegyre jogosult, vagy
@@ -32,8 +34,12 @@ b) az a) pont helyett utazási átalány-költségtérítésre jogosult, ha ezt 
 
 c) az a) és a b) pont helyett a 61. § és a 64. § szerinti költségtérítésekre jogosult, ha az utazáshoz szolgálati vagy saját gépjárművet vesz igénybe azzal, hogy az utazás időtartamát és útvonalát az engedélyező elöljáró határozza meg.
 
-(5) Az állomány tagja az (1) bekezdés d) és g) pontja szerinti utazások alkalmával utazási átalány-költségtérítésre jogosult.
+(5)[^19] Az állomány tagja az (1) bekezdés d) és g) pontja, valamint a (2a) bekezdés szerinti utazások alkalmával utazási átalány-költségtérítésre jogosult.
 
-(6) A (4) bekezdéstől eltérően az állománynak az NFTC program keretében Kanadában tartós külföldi szolgálatot teljesítő tagja az (1) bekezdés d) és g) pontja szerinti utazások alkalmával utazási jegyre jogosult, ha az utazási átalány-költségtérítésről való lemondásáról és az utazások időpontjáról legkésőbb a tárgyév február 28-áig – a szolgálati elöljáró egyidejű tájékoztatása mellett – írásban nyilatkozik az illetékes pénzügyi ellátó szerv és az illetékes logisztikai ellátó szerv felé. A tárgyév márciusában kezdődő külföldi szolgálat esetén a nyilatkozatot az állomány tagja legkésőbb tárgyév március 15-éig köteles megtenni. A Honvédség pénzügyi feladatokat ellátó központi szervezetének utaztatásért felelős szerve a nyilatkozat alapján intézkedik az állomány tagja által megadott utazási időpontokra érvényes repülőjegy megvásárlására, és annak az állomány tagja részére az utazás megkezdése előtti 15. napig történő megküldésére.
+(6)[^20] Az (5) bekezdéstől eltérően az állománynak az NFTC program keretében Kanadában tartós külföldi szolgálatot teljesítő tagja az (1) bekezdés d) és g) pontja szerinti utazások alkalmával utazási jegyre jogosult, ha az utazási átalány-költségtérítésről való lemondásáról és az utazások időpontjáról legkésőbb a tárgyév február 28-áig – a szolgálati elöljáró egyidejű tájékoztatása mellett – írásban nyilatkozik az illetékes pénzügyi ellátó szerv és az illetékes logisztikai ellátó szerv felé. A tárgyév márciusában kezdődő külföldi szolgálat esetén a nyilatkozatot az állomány tagja legkésőbb tárgyév március 15-éig köteles megtenni. Ettől eltérően, a 9 hónapot meghaladó, de legfeljebb 12 hónapig terjedő külföldi szolgálat esetén a nyilatkozatot az állomány tagja legkésőbb az utazás megkezdése előtti 90. napig köteles megtenni. A Honvédség nemzetközi utazásszervezésért felelős szerve a nyilatkozat alapján intézkedik az állomány tagja által megadott utazási időpontokra érvényes repülőjegy megvásárlására, és annak az állomány tagja részére az utazás megkezdése előtti 15. napig történő megküldésére.
 
 (7) Az állomány tagja és családi átalány-költségtérítésre jogosító hozzátartozója hazai egészségügyi kivizsgálásra vagy gyógykezelésre történő utazásának és a kísérő kirendelésének szükségességét a Honvédség egészségügyi feladatokat ellátó központi szervezete igazolja.
+
+[^18]: A 14. § (2a) bekezdését a 2/2019. (I. 31.) HM rendelet 7. §-a iktatta be.
+[^19]: A 14. § (5) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 7. pontja szerint módosított szöveg.
+[^20]: A 14. § (6) bekezdése a 2/2019. (I. 31.) HM rendelet 8. §-ával megállapított szöveg.

@@ -1,33 +1,37 @@
-## A NATO- és a nemzeti beosztást betöltők, továbbá a tartós külföldi szolgálatot betöltő közalkalmazottak és kormánytisztviselők ellátmánya szorzószámainak mértéke
+## A NATO- és a nemzeti beosztást betöltők, továbbá a tartós külföldi szolgálatot teljesítő közalkalmazottak és honvédelmi alkalmazottak ellátmánya szorzószámainak mértéke
 
-|  | A | B | C | D | E |
+|  | A | B | C |
 
-| 1. | Hivatásos, szerződéses és önkéntes tartalékos katonák (rendszeresített rendfokozat) | Közalkalmazottak (beosztás, fizetési osztály/fizetési fokozat, vezetői megbízás) | Kormánytisztviselők (beosztás, besorolási osztály/fizetési fokozat, vezetői munkakör) | Nem Magyarországon települő honvédségi szervezet vezetője, továbbá a katonai, légügyi, véderő attasé (jogviszonytól és rendszeresített rendfokozattól függetlenül) | Ellátmány szorzószáma |
+| 1. | Hivatásos, szerződéses és önkéntes tartalékos katonák (rendszeresített rendfokozat) | Közalkalmazottak és honvédelmi alkalmazottak (beosztás, fizetési osztály / fizetési fokozat, vezetői megbízás) | Ellátmány szorzószáma |
 
-| 2. | vezérőrnagy | – | – | – MH KKH katonai képviselő – MÁNK VPR képviselet-vezető – MH NKK katonai képviselő | 2,9 |
+| 2. | altábornagy | – | 3,0 |
 
-| 3. | dandártábornok | – | főosztályvezető | katonai, légügyi, véderő attasé | 2,8 |
+| 3. | vezérőrnagy | – | 2,9 |
 
-| 4. | ezredes | fizetési osztálytól függetlenül magasabb vezető | főosztályvezető- helyettes | – MH NÖK képviselet-vezető – MÁEK KK képviselet-vezető | 2,6 |
+| 4. | dandártábornok | – | 2,8 |
 
-| 5. | alezredes (vezetői beosztás) | – HM Hadtörténeti Intézet és Múzeum kirendeltségvezető – fizetési osztálytól függetlenül vezető | osztályvezető | – | 2,5 |
+| 5. | ezredes | fizetési osztálytól függetlenül magasabb vezető | 2,6 |
 
-| 6. | alezredes (nem vezetői beosztás) | „H”–„J” fizetési osztály | I/12–I/17 | – | 2,4 |
+| 6. | alezredes (vezetői beosztás) | – HM Hadtörténeti Intézet és Múzeum kirendeltségvezető – fizetési osztálytól függetlenül vezető | 2,5 |
 
-| 7. | őrnagy | G/5–G/17 | I/10–I/11 | – | 2,3 |
+| 7. | alezredes (nem vezetői beosztás) | „H”–„J” fizetési osztály | 2,4 |
 
-| 8. | százados | G/1–G/4 F/3–F/17 | I/7–I/9 | – | 2,2 |
+| 8. | őrnagy | G/5–G/17 | 2,3 |
 
-| 9. | főhadnagy | F/2 | I/5–I/6 | – | 2,1 |
+| 9. | százados | G/1–G/4 F/3–F/17 | 2,2 |
 
-| 10. | hadnagy | F/1 | I/1–I/4 | – | 2,0 |
+| 10. | főhadnagy | F/2 | 2,1 |
 
-| 11. | főtörzszászlós– törzszászlós | „E” fizetési osztály | II/12–II/17 | – | 2,0 |
+| 11. | hadnagy | F/1 | 2,0 |
 
-| 12. | zászlós- főtörzsőrmester | „D” fizetési osztály | II/6–II/11 | – | 1,8 |
+| 12. | főtörzszászlós–törzszászlós | „E” fizetési osztály | 2,0 |
 
-| 13. | törzsőrmester-őrmester | „C” fizetési osztály | II/1–II/5 | – | 1,5 |
+| 13. | zászlós–főtörzsőrmester | „D” fizetési osztály | 1,8 |
 
-| 14. | legénységi állománycsoport | „A”–„B” fizetési osztály | kormányzati ügykezelő | – | 1,3 |
+| 14. | törzsőrmester–őrmester | „C” fizetési osztály | 1,5 |
 
-2. melléklet a 8/2018. (VI. 22.) HM rendelethez
+| 15. | legénységi állománycsoport | „A”–„B” fizetési osztály | 1,3 |
+
+2. melléklet a 8/2018. (VI. 22.) HM rendelethez[^106]
+
+[^106]: A 2. melléklet a 2/2019. (I. 31.) HM rendelet 37. § 37. pontja és 38. § b) pontja szerint módosított szöveg.

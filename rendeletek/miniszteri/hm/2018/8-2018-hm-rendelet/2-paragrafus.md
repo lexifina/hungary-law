@@ -4,11 +4,13 @@
 
 1. belföldi szolgálati kiküldetés: az egyes költségtérítésekről szóló 19/2013. (IX. 6.) HM rendelet (a továbbiakban: HM rendelet1) szerinti szolgálati kiküldetés,
 
-2. családi átalány-költségtérítés: az állománynak a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet (a továbbiakban: HM rendelet2) 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő tagja részére a hozzátartozói külföldi tartózkodásával összefüggésben felmerülő többletkiadásokhoz való hozzájárulás céljából, külföldi pénznemben folyósított juttatás,
+2.[^3] családi átalány-költségtérítés: az állománynak a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet (a továbbiakban: HM rendelet2) 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő tagja, valamint az állománynak a 18 hónapot meghaladó időtartamban a HM rendelet2 1. § 10. pont i) alpontja szerint külföldi szolgálatot teljesítő tagja részére a hozzátartozói külföldi tartózkodásával összefüggésben felmerülő többletkiadásokhoz való hozzájárulás céljából, külföldi pénznemben folyósított juttatás,
 
-3. családi ellátmánypótlék: az állománynak a 18 hónapot meghaladó időtartamban a HM rendelet2 1. § 10. pont i) alpontja szerint külföldi szolgálatot teljesítő tagja részére a hozzátartozói külföldi tartózkodásával összefüggésben felmerülő többletkiadásokhoz való hozzájárulás céljából, külföldi pénznemben folyósított juttatás,
+3.[^4]
 
 4. engedélyező elöljáró: az e rendelet szerinti juttatások kifizetésének és elszámolásának engedélyezésére jogosult, a (2) bekezdésben meghatározott vezető,
+
+4a.[^5] életvitelszerű együttélés: az állomány tagja és a családi átalány-költségtérítésre jogosító hozzátartozója a tartós külföldi szolgálat megkezdését követően az állomáshely szerinti országban lakóhelyül szolgáló ingatlanban szervezi az életét, az életvitelhez szükséges tevékenységeket jellemzően az állomáshely szerinti országban folytatja, továbbá a közüzemi szolgáltatásokat személyesen az állomáshely szerinti országban veszi igénybe,
 
 5. felszámítási alap: egyes juttatások számításának alapját képező bázisösszeg,
 
@@ -18,7 +20,7 @@
 
 8. harmadik ország: a Magyarországtól és a HM rendelet2 1. § 1. pontja szerinti állomáshely (a továbbiakban: állomáshely) szerinti országtól eltérő ország vagy földrajzilag körülhatárolt terület,
 
-9. honvédelmi szervezet: a Hjt. 2. § 13. pontja szerinti honvédségi szervezet, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) és a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó köznevelési intézmény,
+9.[^6] honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 13. pontja szerinti szervezet,
 
 10. hozzátartozó: az állomány tagjával a külföldi szolgálat ideje alatt közös háztartásban élő, vele életvitelszerűen együtt lakó házastársa, élettársa (a továbbiakban együtt: házastárs) és juttatásra jogosító gyermeke addig, amíg a nemzeti köznevelésről szóló törvény szerinti tankötelezettsége fennáll, továbbá annak a tanévnek a végéig, amelynek időtartama alatt a gyermek a 20. életévét, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékos tanuló esetén a 23. életévét betölti, feltéve, hogy a tankötelezettség megszűnését követően köznevelési intézményben tanul,
 
@@ -74,7 +76,7 @@ ae) az egyéb, nem műveleti területen elhelyezkedő nemzetközi katonai paranc
 
 af) a Magyarország önálló külföldi képviseleteinél és külföldön működő nemzeti szervezeteinél, szervezeti elemeinél beosztást tölt be,
 
-b) az a) ponttól eltérően, a KNBSZ főigazgatója az állománynak a HM rendelet2 185. § e) pontja szerinti, valamint a Hjt. 196. § (2) bekezdése szerinti beosztásban külföldi szolgálatot teljesítő tagja esetén,
+b)[^7] az a) ponttól eltérően, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) főigazgatója az állománynak a HM rendelet2 185. § e) pontja szerinti, valamint a Hjt. 196. § (2) bekezdése szerinti beosztásban külföldi szolgálatot teljesítő tagja esetén,
 
 c) az állományilletékes parancsnoki jogkört gyakorló elöljáró az állománynak a Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó, valamint a HM rendelet2 1. § 10. pont o) alpontja szerint külföldi szolgálatot teljesítő tagja esetén,
 
@@ -90,7 +92,7 @@ a) a Honvédség központi logisztikai gazdálkodási és ellátási felelőssé
 
 b) a KNBSZ-nek az e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége az állomány (2) bekezdés b) pontja szerinti tagja esetén és
 
-c) a Honvédség középszintű vezető szervének alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet az állomány (2) bekezdés c), d) és e) pontja szerinti tagja esetén.
+c)[^8] a Magyar Honvédség Parancsnokságának alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet az állomány (2) bekezdés c), d) és e) pontja szerinti tagja esetén.
 
 (4) Az illetékes pénzügyi ellátó szerv
 
@@ -98,8 +100,19 @@ a) a Honvédség pénzügyi feladatokat ellátó központi szervezete az állom�
 
 b) a KNBSZ-nek az e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége az állomány (2) bekezdés b) pontja szerinti tagja esetén,
 
-c) a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által az adott művelet vonatkozásában – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) szerinti belső rendelkezésben – kijelölt pénzügyi és számviteli szervezet vagy szervezeti elem – időtartamtól függetlenül – a béketámogató műveletekben részt vevők és az állomány (2) bekezdés d) pontja szerinti tartós külföldi szolgálatot teljesítő tagja esetén és
+c)[^9] a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által az adott művelet vonatkozásában – Hvt. szerinti belső rendelkezésben – kijelölt pénzügyi és számviteli szervezet vagy szervezeti elem – időtartamtól függetlenül – a béketámogató műveletekben részt vevők és az állomány (2) bekezdés d) pontja szerinti tartós külföldi szolgálatot teljesítő tagja esetén és
 
 d) a HM védelemgazdaságért felelős helyettes államtitkára (a továbbiakban: HM VGHÁT) honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsági rendjéről szóló szakutasításában meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem az állomány (2) bekezdés e) pontja szerinti tagja esetén.
 
 (5) A felszámítási alap összege 38 650 Ft.
+
+(6)[^10] E rendelet honvédelmi szervezetekre vonatkozó rendelkezéseit a miniszter fenntartói irányítása alá tartozó, katonai szervezetnek nem minősülő köznevelési intézményre is alkalmazni kell.
+
+[^3]: A 2. § (1) bekezdés 2. pontja a 2/2019. (I. 31.) HM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés 3. pontját a 2/2019. (I. 31.) HM rendelet 39. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (1) bekezdés 4a. pontját a 2/2019. (I. 31.) HM rendelet 2. §-a iktatta be.
+[^6]: A 2. § (1) bekezdés 9. pontja a 2/2019. (I. 31.) HM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 2. § (2) bekezdés b) pontja a 2/2019. (I. 31.) HM rendelet 37. § 3. pontja szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 4. pontja szerint módosított szöveg.
+[^9]: A 2. § (4) bekezdés c) pontja a 2/2019. (I. 31.) HM rendelet 37. § 5. pontja szerint módosított szöveg.
+[^10]: A 2. § (6) bekezdését a 2/2019. (I. 31.) HM rendelet 4. §-a iktatta be.
