@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-125-00-00
 | 2016-01-01 | 2014. évi LXXXVIII. törvény | 2003-125-00-00.33 |
 | 2017-07-01 | 2017. évi XCVI. törvény | 2003-125-00-00.34 |
 | 2018-01-01 | 2017. évi L. törvény | 2003-125-00-00.35 |
+| 2019-02-01 | 2018. évi CXV. törvény | 2003-125-00-00.36 |
