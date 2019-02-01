@@ -6,9 +6,11 @@ a) közszolgálatban álló személy:
 
 1. a rendvédelmi szerv, továbbá a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja,
 
-2. a Magyar Honvédség hivatásos és szerződéses állományú katonája,
+2. a Magyar Honvédség hivatásos és szerződéses állományú katonája és a honvédelmi alkalmazott,
 
 3. aki közalkalmazotti jogviszonyban áll,
+
+3a. aki rendvédelmi igazgatási szolgálati jogviszonyban áll,
 
 4. aki közszolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati jogviszonyban áll,
 

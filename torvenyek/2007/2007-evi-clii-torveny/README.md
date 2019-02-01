@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-152-00-00
 | 2015-07-01 | 2015. évi XLII. törvény | 2007-152-00-00.15 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2007-152-00-00.16 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2007-152-00-00.17 |
+| 2019-02-01 | 2018. évi CXV. törvény | 2007-152-00-00.18 |
