@@ -1,18 +1,16 @@
-### 89. § [A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv adatszolgáltatása]
+### 89. § [A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv, valamint a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhely szolgáltatás kijelölt szolgáltatójának adatszolgáltatása]
 
-(1) A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv
+(1) A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv az állami adó- és vámhatóság részére napi gyakorisággal elektronikus úton, kapcsolati kód alkalmazásával megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, a regisztráció és a regisztráció megszüntetésének időpontját, továbbá – ha a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
 
-a) minden hónap tizenötödik napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően az állami adó- és vámhatóság részére,
+(2) A Központi Ügyfél-regisztrációs Nyilvántartás vezetéséért felelős szerv évente egy alkalommal, a megkeresés napja szerinti állapotnak megfelelően az önkormányzati adóhatóság természetes személyazonosító adatokat tartalmazó kérelmére megküldi az elektronikus azonosítási szolgáltatás igénybevétele érdekében regisztráló vagy regisztrációjukat megszüntető személyek természetes személyazonosító adatait és egyedi azonosítóját, a regisztráció és a regisztráció megszüntetésének időpontját, továbbá – ha a természetes személy a Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz kapcsolódó tárhellyel rendelkezik – a tárhely létrehozásának tényére vonatkozó adatot.
 
-b) az önkormányzati adóhatóság kérésére évente egy alkalommal, a megkeresés napja szerinti állapotnak megfelelően az önkormányzati adóhatóság részére
+(3) A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhely szolgáltatás kijelölt szolgáltatója az adóhatóság természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi az adóhatóság részére a természetes személy kapcsolati kódját és tárhely azonosítóját.
 
-elektronikus úton, kapcsolati kód alkalmazásával megküldi azon személyek elektronikus azonosítási szolgáltatás, illetve tárhely azonosítóját, akik elektronikus azonosítási szolgáltatást, illetve tárhelyet hoztak létre vagy szüntettek meg, továbbá az elektronikus azonosítási szolgáltatás, illetve tárhely létrehozásának, illetve megszüntetésének időpontját.
-
-(2) Az (1) bekezdés szerinti adatszolgáltatás adatait az adóhatóság
+(4) Az (1)–(3) bekezdés szerinti adatszolgáltatás adatait az adóhatóság
 
 a) az Szja tv. szerinti adóbevallási tervezethez kapcsolódó eljárásban,
 
-b) az elektronikus kapcsolattartásra kötelezett adózót érintő eljárásában,
+b) az elektronikus kapcsolattartásra kötelezett vagy azt választó adózót érintő eljárásában,
 
 c) az adózó képviselőjével való kapcsolattartáshoz, és
 
@@ -20,4 +18,4 @@ d) joghatás nélküli tájékoztatás küldéséhez
 
 használhatja fel.
 
-(3) Az (1) bekezdés szerinti adatszolgáltatás adatait az adóhatóság az adózó 37. § szerinti nyilvántartásból való törléséig, illetve az adózó képviselője esetében a képviseleti jog megszűnéséig kezeli.
+(5) Az (1)–(3) bekezdés szerinti adatszolgáltatás adatait az adóhatóság az adózó 37. § szerinti nyilvántartásból való törléséig, illetve az adózó képviselője esetében a képviseleti jog megszűnéséig kezeli.

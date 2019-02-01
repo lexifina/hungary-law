@@ -273,9 +273,3 @@
 ## 7. Külön fel nem sorolt befizetések
 
 ## Az előzőekben fel nem sorolt adókat a jogszabályban megállapított módon és határidőben kell megfizetni. Ennek hiányában, ha törvény előlegfizetést ír elő, azt a tárgyhó huszonnyolcadik napjáig, az adót a tárgyhót követő hó huszadik napjáig, az adóévre megállapított adót az éves adóbevallással egyidejűleg kell megfizetni. A hatályon kívül helyezett jogszabályok alapján teljesítendő önellenőrzés során feltárt, helyesbített, illetve az adóhatóság által megállapított adót egyéb befizetés címén kell megfizetni, a költségvetési támogatást egyéb támogatás címén lehet visszaigényelni.
-
-## II.
-
-## AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
-
-## Általános rendelkezések
