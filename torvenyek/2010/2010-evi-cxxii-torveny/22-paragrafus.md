@@ -4,7 +4,7 @@
 
 a) a NAV-nál és jogelődeinél kormányzati szolgálati, hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszonyban és munkaviszonyban töltött időt,
 
-b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, igazságügyi alkalmazotti, bírói vagy ügyészségi szolgálati viszonyban töltött időt, ha a NAV-nál a kormányzati szolgálati jogviszony vagy a hivatásos szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
+b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, igazságügyi alkalmazotti, bírói vagy ügyészségi szolgálati viszonyban töltött időt, ha a NAV-nál a kormányzati szolgálati jogviszony vagy a hivatásos szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
 
 (3) E § alkalmazásában nem minősül szolgálati jogviszonyban eltöltött időnek az állásból történő felfüggesztésnek, a jogviszony szünetelésének, a letartóztatásnak, az előzetes kényszergyógykezelésnek, illetve az olyan bűnügyi felügyeletnek az időtartama, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet engedély nélkül nem hagyhat el, továbbá az illetmény nélküli szabadságnak a 3 évet meghaladó időtartama.
 

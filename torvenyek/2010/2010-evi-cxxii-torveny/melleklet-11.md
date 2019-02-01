@@ -57,5 +57,3 @@ Minősítési lap
 ## j) kapcsolatteremtő, -fenntartó készség,
 
 ## k) szorgalom, igyekezet,
-
-## továbbá pénzügyőr esetében:

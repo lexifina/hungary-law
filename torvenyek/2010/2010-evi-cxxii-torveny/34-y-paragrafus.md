@@ -48,7 +48,7 @@ b) a NAV állományában lévő azon személy, aki az a) pont szerinti feladatok
 
 a) belső áthelyezés: a NAV szervei közötti áthelyezés; a belső áthelyezés nem eredményezi a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony megszűnését;
 
-b) külső áthelyezés: a kormánytisztviselők, ügykezelők tekintetében a közigazgatási szervek közötti áthelyezés, a hivatásos állományúak tekintetében az állami adó- és vámhatóság vezetője és az érintett miniszter megállapodása alapján a NAV és a Hszt. szerinti valamely rendvédelmi szerv között történő áthelyezés, továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés.
+b) külső áthelyezés: a kormánytisztviselők, ügykezelők tekintetében a közigazgatási szervek közötti áthelyezés, a hivatásos állományúak tekintetében az állami adó- és vámhatóság vezetője és az érintett miniszter megállapodása alapján a NAV és a Hszt. szerinti valamely rendvédelmi szerv között történő áthelyezés, továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, honvédelmi alkalmazotti jogviszonyba illetve azokból hivatásos szolgálati jogviszonyba helyezés.
 
 (3) A belső áthelyezés esetén követendő eljárás rendjét a foglalkoztatási szabályzat állapítja meg.
 

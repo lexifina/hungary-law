@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2010-122-00-00.36 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2010-122-00-00.37 |
 | 2018-12-25 | 2018. évi XCVIII. törvény | 2010-122-00-00.38 |
+| 2019-02-01 | 2018. évi CXV. törvény | 2010-122-00-00.39 |
