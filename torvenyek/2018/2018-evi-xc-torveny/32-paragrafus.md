@@ -12,7 +12,7 @@ e)
 
 f)
 
-g)
+g) 53. § (4) bekezdésében az „ , a 45. § (2) bekezdésben szabályozott” szövegrész,
 
 h)
 
