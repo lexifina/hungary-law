@@ -28,7 +28,9 @@ f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztat
 
 g) a Kttv., a Ktv., Ktjv., Áttv., illetve a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 
-h) az állami vezetői szolgálati jogviszonyban
+h) az állami vezetői szolgálati jogviszonyban,
+
+i) rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban
 
 töltött időt kell figyelembe venni.
 
