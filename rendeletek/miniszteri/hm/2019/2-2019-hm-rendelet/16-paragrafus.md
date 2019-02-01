@@ -1,0 +1,3 @@
+## 15. § Az R. 21. §-a a következő (5a) bekezdéssel egészül ki:
+
+## „(5a) Ha a Honvédség rendelkezik olyan lakóingatlannal vagy lakóingatlan bérleti jogával, amely a 19. § (3) és (4) bekezdésében foglalt szempontoknak megfelel, és az állomány tagja beosztásából adódóan indokolt, az engedélyező elöljáró döntése szerint az állomány tagja köteles a rendelkezésre álló, a számára lakhatás céljából felajánlott lakóingatlant elfogadni, ha az az állomány tagja számára nem okoz indokolatlan többletterhet, ideértve különösen a munkába járás időtartamának, költségének, illetve a közüzemi szolgáltatások díjának az indokolatlan emelkedését. Ebben az esetben az állomány tagja lakhatási átalány-költségtérítésre nem jogosult.”
