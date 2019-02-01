@@ -1,0 +1,1 @@
+289/W. § A rendvédelmi alkalmazottra a XXV. Fejezet rendelkezései közül a 272–276. §-okat megfelelően alkalmazni kell azzal, hogy a 272. § (3) bekezdésében foglaltaktól eltérően a rendvédelmi alkalmazott személyügyi alapnyilvántartásában kezelhető adatait a 13. melléklet tartalmazza.

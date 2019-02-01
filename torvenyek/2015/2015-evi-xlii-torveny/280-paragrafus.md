@@ -6,9 +6,9 @@
 
 a) a rendvédelmi szervnél szolgálati viszonyban töltött időt,
 
-b) a rendvédelmi szervnél kormánytisztviselői, köztisztviselői, közalkalmazotti, igazságügyi alkalmazotti jogviszonyban és munkaviszonyban töltött időt,
+b) a rendvédelmi szervnél kormánytisztviselői, köztisztviselői, közalkalmazotti, igazságügyi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban töltött időt,
 
-c) e törvény hatálya alá tartozó másik rendvédelmi szervnél szolgálati viszonyban, közalkalmazotti, kormányzati szolgálati, közszolgálati, igazságügyi alkalmazotti jogviszonyban töltött időt,
+c) e törvény hatálya alá tartozó másik rendvédelmi szervnél szolgálati viszonyban, közalkalmazotti, kormányzati szolgálati, közszolgálati, igazságügyi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban töltött időt,
 
 d) a Magyar Honvédség hivatásos és szerződéses katonai állományában töltött időt,
 

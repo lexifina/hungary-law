@@ -4,7 +4,7 @@
 
 (3) Etikai vétség gyanúja esetén az MRK a tagja ellen etikai eljárást folytat le.
 
-(4) Etikai vétséget követ el az, aki a 14. § rendelkezéseit, a Rendvédelmi Hivatásetikai Kódexnek a rendvédelmi szerv hivatásos vagy közalkalmazotti állományára vonatkozó előírásait, valamint az Alapszabály vagy az Etikai Eljárási Szabályzat rendelkezéseit megszegi.
+(4) Etikai vétséget követ el az, aki a 14. § rendelkezéseit, a Rendvédelmi Hivatásetikai Kódexnek a rendvédelmi szerv hivatásos vagy rendvédelmi igazgatási alkalmazotti állományára vonatkozó előírásait, valamint az Alapszabály vagy az Etikai Eljárási Szabályzat rendelkezéseit megszegi.
 
 (5) Az etikai eljárás eredménye alapján az MRK a hivatásos állomány tagjával szemben
 
@@ -16,4 +16,4 @@ c) figyelmeztetést vagy megrovást alkalmaz, vagy
 
 d) megszünteti az etikai eljárást.
 
-(6) Az etikai eljárás eredménye alapján az MRK a közalkalmazottal szemben az (5) bekezdés c) vagy d) pontjában foglaltakat alkalmazhatja.
+(6) Az etikai eljárás eredménye alapján az MRK a rendvédelmi igazgatási alkalmazottal szemben az (5) bekezdés a), c) vagy d) pontjában foglaltakat alkalmazhatja.

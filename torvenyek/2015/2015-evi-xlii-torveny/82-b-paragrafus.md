@@ -6,7 +6,7 @@
 
 (4) A rendvédelmi egészségkárosodási keresetkiegészítésre jogosultság abban az esetben állapítható meg, ha az egészségi alkalmatlanság megállapításától számított negyvenöt napon belül az (1) bekezdésben meghatározott eljárás eredményeként a hivatásos állomány tagjának
 
-a) szolgálati viszonya a rendvédelmi szerven belül, a 96. § szerinti kormányzati szolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel szűnik meg,
+a) szolgálati viszonya a rendvédelmi szerven belül rendvédelmi igazgatási szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel szűnik meg,
 
 b) felajánlott munkavállalói munkakör elfogadására tekintettel az érintett a rendvédelmi szervnél munkaviszonyt létesít, vagy
 

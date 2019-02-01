@@ -1,0 +1,1 @@
+287/R. § Jogszabály vagy a rendvédelmi szerv döntése alapján a kinevezés meghívásos vagy pályázati eljárás alapján történhet. Pályázati eljárás esetén kinevezést adni csak olyan személynek lehet, aki a pályázaton részt vett és a pályázati feltételeknek megfelelt.

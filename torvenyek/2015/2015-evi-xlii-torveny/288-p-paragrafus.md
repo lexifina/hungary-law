@@ -1,0 +1,3 @@
+288/P. § (1) A rendvédelmi alkalmazott köteles a munkáltatói jogkört gyakorlónak haladéktalanul bejelenteni, ha vele szemben a törvényben meghatározott összeférhetetlenségi ok merült fel, vagy ha az igazgatási jogviszonyának fennállása alatt összeférhetetlen helyzetbe került. A munkáltatói jogkör gyakorlója köteles – kivéve, ha a rendvédelmi alkalmazott engedélyt kapott – írásban felszólítani a rendvédelmi alkalmazottat az összeférhetetlenség megszüntetésére, vagy köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
+
+(2) Ha a rendvédelmi alkalmazott az összeférhetetlenséget a felszólítástól számított harminc napon belül nem szüntette meg, igazgatási jogviszonya a törvény erejénél fogva megszűnik.

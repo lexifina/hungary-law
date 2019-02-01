@@ -1,6 +1,6 @@
 ## 122. A rendvédelmi érdekegyeztetés fórumai
 
-308. § (1) A rendvédelmi szervvel fennálló szolgálati viszonyt vagy közalkalmazotti jogviszonyt érintő ágazati jelentőségű szakmai kérdésekben a miniszter az ágazati érdekvédelmi tanáccsal egyeztet.
+308. § (1) A rendvédelmi szervvel fennálló szolgálati viszonyt vagy rendvédelmi igazgatási szolgálati jogviszonyt érintő ágazati jelentőségű szakmai kérdésekben a miniszter az ágazati érdekvédelmi tanáccsal egyeztet.
 
 (2) Az ágazati érdekvédelmi tanács a miniszter, az országos parancsnok, valamint az MRK képviseletében eljáró konzultatív tanács részvételével működik.
 
@@ -8,7 +8,7 @@
 
 (4) Az ágazati érdekvédelmi tanácsot a (3) bekezdés szerinti megállapodásban meghatározott rendben és időközönként kell összehívni.
 
-(5) Az ágazati érdekvédelmi tanács hatáskörébe az adott ágazatban foglalkoztatott hivatásos és közalkalmazotti állomány tagjainak élet- és munkakörülményeire, foglalkoztatási feltételeire vonatkozó tárgykörök tartoznak, továbbá mindazok a tárgykörök, amelyek e törvény alapján az MRK feladatkörébe tartoznak.
+(5) Az ágazati érdekvédelmi tanács hatáskörébe az adott ágazatban foglalkoztatott hivatásos és rendvédelmi igazgatási alkalmazotti állomány tagjainak élet- és munkakörülményeire, foglalkoztatási feltételeire vonatkozó tárgykörök tartoznak, továbbá mindazok a tárgykörök, amelyek e törvény alapján az MRK feladatkörébe tartoznak.
 
 (6) Az ágazati érdekvédelmi tanács tájékoztatáskérésre, valamint javaslattételre jogosult az (5) bekezdés szerinti hatáskörébe tartozó egyéb ügyekkel kapcsolatban.
 

@@ -1,0 +1,1 @@
+362/L. § A XXVIII/A. Fejezet hatálya alá tartozó rendvédelmi szerv által kötött, 2019. január 31-én hatályos kollektív szerződés közalkalmazottakra vonatkozó rendelkezéseit 2019. december 31-éig alkalmazni kell.

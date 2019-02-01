@@ -1,6 +1,6 @@
 ## 120. Az MRK tisztségviselőire, valamint ügyintézői testületei nem tisztségviselő tagjaira vonatkozó közös szabályok
 
-305. § (1) Az MRK tisztségviselője a hivatásos vagy közalkalmazotti állomány legalább ötéves rendészeti vagy közigazgatási gyakorlattal rendelkező tagja lehet. Az MRK tagja azonos tisztségre legfeljebb két egymást követő alkalommal választható meg.
+305. § (1) Az MRK tisztségviselője a hivatásos vagy rendvédelmi igazgatási alkalmazotti állomány legalább ötéves rendészeti vagy közigazgatási gyakorlattal rendelkező tagja lehet. Az MRK tagja azonos tisztségre legfeljebb két egymást követő alkalommal választható meg.
 
 (2) A tisztségviselő megbízatása megszűnik
 

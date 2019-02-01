@@ -12,9 +12,9 @@
 
 3. konzultációs joggal közreműködik a tagjai foglalkoztatásának és hivatásgyakorlásának feltételeit befolyásoló, az előírt szakmai vizsgákkal kapcsolatos, valamint az MRK-t érintő jogszabályok megalkotásában,
 
-4. véleményét ki kell kérni a szolgálati viszonnyal valamint a közalkalmazotti jogviszonnyal összefüggő kérdésekben,
+4. véleményét ki kell kérni a szolgálati viszonnyal valamint a rendvédelmi igazgatási szolgálati jogviszonnyal összefüggő kérdésekben,
 
-5. kezdeményezheti a miniszternél a szolgálati viszonnyal vagy közalkalmazotti jogviszonnyal kapcsolatos jogszabálysértő gyakorlat megváltoztatását,
+5. kezdeményezheti a miniszternél a szolgálati viszonnyal vagy rendvédelmi igazgatási szolgálati jogviszonnyal kapcsolatos jogszabálysértő gyakorlat megváltoztatását,
 
 6. feladat- és hatáskörét érintő bármely kérdésben felterjesztési jogot gyakorol,
 
@@ -42,6 +42,6 @@
 
 18. ellátja mindazokat a feladatokat, amelyeket törvény, kormányrendelet vagy az Alapszabály határoz meg.
 
-(5) A rendvédelmi szerv vezetője köteles kikérni az MRK véleményét a hivatásos vagy közalkalmazotti állomány szolgálatteljesítésére vagy munkavégzésére, szolgálatteljesítési idejére vagy munkaidejére, pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a hatáskörébe utalt szabályozásról.
+(5) A rendvédelmi szerv vezetője köteles kikérni az MRK véleményét a hivatásos vagy rendvédelmi igazgatási alkalmazotti állomány szolgálatteljesítésére vagy munkavégzésére, szolgálatteljesítési idejére vagy munkaidejére, pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a hatáskörébe utalt szabályozásról.
 
 (6) Az MRK jogosult véleményezni a tagjai csoportját érintő munkáltatói intézkedést, döntést vagy annak tervezetét, továbbá ezzel összefüggésben konzultációt kezdeményezni.

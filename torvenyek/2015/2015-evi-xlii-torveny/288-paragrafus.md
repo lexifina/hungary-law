@@ -1,15 +1,47 @@
-## 114. A tisztjelölt járandóságai
+## 115/G. Az igazgatási jogviszony módosítása és a kinevezéstől eltérő foglalkoztatás
 
-288. § (1) A tisztjelöltet az e törvényben a hivatásos állomány tagját megillető járandóságok – a (2) bekezdésben megállapított korlátozások figyelembevételével – illetik meg.
+288. § (1) Az igazgatási jogviszony – az e fejezetben meghatározott eseteket kivéve – a rendvédelmi alkalmazott beleegyezésével módosítható.
 
-(2) Ha a törvény eltérően nem rendelkezik, a tisztjelölt havonta ösztöndíjra jogosult. Az ösztöndíj a 11. mellékletben meghatározottak szerint alapösztöndíjból, alapösztöndíj-kiegészítésből, a tanulmányi pótlékból, valamint egyéb pótlékokból áll.
+(2) A kinevezés tartalmának módosítására a kinevezésre és annak elfogadására vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(3) Az ösztöndíj összegét az egyes ösztöndíjelemekre megállapított szorzószámok és a rendvédelmi illetményalap szorzataként kell kiszámolni. Tört időszak esetén az alapösztöndíj, az alapösztöndíj-kiegészítés, a tanulmányi pótlék összegét időarányosan, az adott hónap naptári napjainak figyelembevételével kell meghatározni. Az ösztöndíjra az illetményfolyósítás és a visszatartás szabályait kell megfelelően alkalmazni.
+(3) Az igazgatási jogviszony módosításának esetei:
 
-(4) Az egyes ösztöndíjelemek megállapítása a Nemzeti Közszolgálati Egyetem által kialakított rendben történik, amelyről a Nemzeti Közszolgálati Egyetem illetékes szerve havonta tájékoztatja az állományilletékes rendvédelmi szervet. A tájékoztatás és adatszolgáltatás rendjét az együttműködési megállapításban kell rögzíteni.
+a) fizetési fokozatban történő előresorolás,
 
-(5) Nem jogosult ösztöndíjra a tisztjelölt, ha a tisztjelölti jogviszonya szünetel, valamint ha jogellenesen távol van.
+b) illetmény megállapítása,
 
-(6) A tisztjelölt miniszteri rendeletben meghatározottak szerint kollégiumi elhelyezésre, térítésmentes élelmezési, ruházati ellátásra, tanszertámogatásra, ezen túlmenően egyes költségtérítésre és szociális juttatásokra jogosult.
+c) a rendvédelmi alkalmazott előmeneteléhez előírt képzési, továbbképzési és vizsgakötelezettség megállapítása,
 
-(7) A tisztjelölt pénzbeli járandóságait a rendvédelmi szerv havonta egy összegben a tisztjelölt által megnevezett fizetési számlára átutalja.
+d) a munkakör, feladatkör-változással történő módosítása,
+
+e) a munkavégzés helyének a település területén belüli megváltozása,
+
+f) magasabb munkaköri osztályba vagy magasabb munkaköri kategóriába tartozó munkakörbe besorolás,
+
+g) vezetői munkakörbe kinevezés,
+
+h) a rendvédelmi érdekből történő kirendelés (más szervhez kirendelés),
+
+i) tartós átirányítás.
+
+(4) Nem minősül a kinevezés módosításának ha:
+
+a) a rendvédelmi alkalmazott munkakörének megnevezése – feladatkörének változása nélkül – megváltozik,
+
+b) az őt foglalkoztató szervezeti egység elnevezése – feladatkörének változása nélkül – megváltozik.
+
+(5) A (4) bekezdés szerinti esetekben a rendvédelmi alkalmazottat negyvenöt napon belül írásban értesíteni kell.
+
+(6) Nem kell a rendvédelmi alkalmazott beleegyezése a (3) bekezdés a)–e) pontja szerinti esetekben.
+
+(7) A (3) bekezdés d) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a rendvédelmi alkalmazott belegyezése nélkül, ha az új munkakör megfelel a rendvédelmi alkalmazott iskolai végzettségének, szakképzettségének vagy szakképesítésének, szakmai tapasztalatának.
+
+(8) A (3) bekezdés e) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a rendvédelmi alkalmazott belegyezése nélkül, ha az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a három órát, tíz éven aluli gyermeket nevelő rendvédelmi alkalmazott esetében a két órát nem haladja meg.
+
+(9) A (3) bekezdés d) és e) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a rendvédelmi alkalmazott belegyezése nélkül, ha az a rendvédelmi alkalmazottra nézve – különösen egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem jár.
+
+(10) A nőt várandóssága megállapításától gyermeke egyéves koráig az állapotának egészségügyi szempontból megfelelő munkakörbe kell ideiglenesen áthelyezni vagy meglévő munkakörében a munkafeltételeket kell megfelelően módosítani, ha munkaköri alkalmasságára vonatkozó orvosi vélemény bemutatása alapján a munkakörében nem foglalkoztatható.
+
+(11) A (10) bekezdés szerinti rendvédelmi alkalmazottat a munkavégzési kötelezettség alól mentesíteni kell, ha az egészségi állapotának megfelelő foglalkoztatása a munkáltatónál nem lehetséges.
+
+(12) A rendvédelmi alkalmazott a módosított feltételeknek megfelelő munkakörnek megfelelő illetményre jogosult, ami a korábbi munkaköre szerinti illetménynél kevesebb nem lehet.

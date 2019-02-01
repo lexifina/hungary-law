@@ -2,4 +2,4 @@
 
 (2) A miniszter e törvényben meghatározottakon túl, a szolgálat sajátosságainak megfelelő további alkalmassági követelményeket határozhat meg.
 
-(3) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, igazságügyi alkalmazotti szolgálati jogviszonyból, a Magyar Honvédség hivatásos katonai állományából vagy más rendvédelmi szervnél fennálló szolgálati viszonyból áthelyezéssel történik, próbaidő a 49. § (1)–(3) bekezdésében foglaltakra figyelemmel kiköthető.
+(3) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, igazságügyi alkalmazotti szolgálati jogviszonyból, a Magyar Honvédség hivatásos katonai állományából vagy más rendvédelmi szervnél fennálló szolgálati viszonyból áthelyezéssel történik, próbaidő a 49. § (1)–(3) bekezdésében foglaltakra figyelemmel kiköthető.

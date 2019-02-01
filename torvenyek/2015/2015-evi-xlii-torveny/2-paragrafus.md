@@ -54,7 +54,7 @@
 
 25. szolgálati beosztás: az állománytáblázatban rendszeresített, a hivatásos állomány tagjával betölthető munkakör;
 
-26. szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, kormánytisztviselőként, igazságügyi alkalmazottként vagy közalkalmazottként foglalkoztatott személy is minősülhet;
+26. szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, rendvédelmi igazgatási alkalmazottként vagy igazságügyi alkalmazottként foglalkoztatott személy is minősülhet;
 
 27. szolgálati érdek: a rendvédelmi szerv vagy a szervezeti egység jogszerű, rendeltetésszerű és eredményes működéséhez, jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott feladatainak teljesítéséhez szükséges vagy azt meghatározó módon befolyásoló személyi feltétel vagy körülmény;
 

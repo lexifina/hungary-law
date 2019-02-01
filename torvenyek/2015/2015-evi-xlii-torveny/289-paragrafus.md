@@ -1,13 +1,9 @@
-## 115. A tisztjelölt fegyelmi és kártérítési felelőssége
+289. § (1) A rendvédelmi alkalmazott – igazgatási jogviszonya alapján – az e törvény szerint jogosult illetményre, amelyet száz forintra kerekítve kell megállapítani.
 
-289. § (1) Ha a tisztjelölt a tisztjelölti jogviszonyából vagy a hallgatói jogviszonyából eredő kötelezettségét vétkesen megszegi, fegyelemsértést követ el. A tisztjelölttel szemben fenyítésként a 185. § (1) bekezdés a) és b) pontja, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 55. § (2) bekezdés c) és e) pontja szerinti fegyelmi büntetés szabható ki azzal, hogy az Nftv. 55. § (2) bekezdés c) pontja szerint az ösztöndíj legfeljebb öt hónapra 10–50%-kal csökkenthető. Az elévülésre az Nftv. 55. § (4) bekezdését kell alkalmazni.
+(2) A rendvédelmi alkalmazott illetménye alapilletményből és az e törvény szerinti pótlékokból áll.
 
-(2) A tisztjelölt beosztásából – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a szolgálati helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
+(3) A rendvédelmi alkalmazott garantált alapilletménye összegének legalább a Kormány által rendeletben megállapított minimálbér és garantált bérminimum összegét el kell érnie.
 
-(2a) A tisztjelölt vonatkozásában a 192. § nem alkalmazandó, a fegyelmi jogkör gyakorlójának személyét miniszteri rendelet határozza meg. A fegyelmi jogkör gyakorlásába a Rendvédelmi Tagozat, valamint a Nemzeti Közszolgálati Egyetem bevonható.
+(4) A rendvédelmi alkalmazott alapilletményét úgy kell megállapítani, hogy annak összege elérje a munkakör besorolása szerinti fizetési fokozathoz tartozó alsó határt, de – az „F” munkaköri kategória kivételével – ne haladja meg annak felső határát.
 
-(3) A tisztjelölt kártérítési felelőssége kiterjed a tisztjelölti jogviszonyából és a hallgatói jogviszonyából eredő kötelezettségének vétkes megszegésével okozott kár megtérítésére is.
-
-(4) A fegyelmi és a kártérítési eljárás jogszabályban nem szabályozott kérdéseiben a Nemzeti Közszolgálati Egyetem fegyelmi és kártérítési szabályzatának rendelkezéseit kell alkalmazni.
-
-(5) A tisztjelölt képviseletében a kari hallgatói önkormányzat is eljárhat.
+(5) A rendvédelmi alkalmazott a munkakör besorolása szerinti fizetési fokozathoz tartozó alsó határ szerinti alapilletményre alanyi jogon jogosult.
