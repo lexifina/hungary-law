@@ -12,7 +12,7 @@
 
 6.
 
-7.
+7. 102. § (3) bekezdésében az „eljárás” szövegrész helyébe az „ügy” szöveg,
 
 8.
 
