@@ -16,7 +16,11 @@ g) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII
 
 h) az állami vezetői szolgálati jogviszonyban,
 
-i) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
+i) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban,
+
+j) honvédelmi alkalmazottak jogállásáról szóló törvény szerinti honvédelmi alkalmazotti jogviszonyban,
+
+k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban
 
 töltött időt.
 

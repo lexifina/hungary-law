@@ -1,1 +1,1 @@
-43/B. § A 41–43. §-ban foglaltakon túlmenően, a katasztrófavédelmi feladatot ellátó, végrehajtási jogszabályban megnevezett munkáltatóknál összeférhetetlen a munkavégzésre irányuló további jogviszony létesítése, ha a munkavégzés a munkáltató tevékenységi körébe is tartozik, vagy ha a munkavégzésre a közalkalmazott munkáltatójával gazdasági vagy egyéb elszámolási kapcsolatban álló munkáltatónál kerül sor.
+43/B. §
