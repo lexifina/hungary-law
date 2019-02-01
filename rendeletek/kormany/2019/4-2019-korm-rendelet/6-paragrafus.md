@@ -1,0 +1,3 @@
+## 5. § Az R1. 18/E. §-a helyébe a következő rendelkezés lép:
+
+## „18/E. § Az azonos tárgy vagy személy tekintetében, egy eljárás keretében a 18/D. § c) pontjában meghatározottak szerint szükséges újabb minősítés elkészítésével kapcsolatos feladatok pártatlan, tárgyilagos szempontokon alapuló ellátása céljából a DKT szervezetének részeként három tagból álló Felülvizsgálati Bizottságot kell működtetni. A Felülvizsgálati Bizottság kettő tagját a tudománypolitika koordinációjáért felelős miniszter, egy tagját a miniszter delegálja, megbízásukra, összeférhetetlenségükre a DKT tagjaira vonatkozó szabályokat kell alkalmazni, azzal, hogy nem lehet a Felülvizsgálati Bizottság tagja az a személy, aki a megbízását megelőző három éven belül a DKT tagja volt.”
