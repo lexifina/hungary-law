@@ -237,23 +237,3 @@ e) a felsőfokú képzésére vonatkozó adatok
 f) érettségi éve
 
 g) a pályázó szociális rászorultságát igazoló – a pályázóra, a pályázó közeli hozzátartozóira, illetve a pályázóval egy háztartásban élőkre vonatkozó – személyes és különleges adatok
-
-h) a pályázó felsőoktatási intézménybe történő felvételének eredménye
-
-i) a pályázó hallgatói jogviszonyának állapotára vonatkozó adatok
-
-2. Az 1. pontban megjelölt adatok kezelésére jogosult
-
-a) a miniszter vagy a miniszter által a pályázat lebonyolítására kijelölt szervezet (továbbiakban: pályázatkezelő szervezet),
-
-b) az ösztöndíjrendszerhez csatlakozott helyi önkormányzat,
-
-c) az ösztöndíjat folyósító felsőoktatási intézmény.
-
-3. Az adatkezelés célja:
-
-az ösztöndíjpályázat lebonyolítása, és az ösztöndíjra való jogosultság ellenőrzése.
-
-4. Az adatkezelés időtartama:
-
-az ösztöndíj időtartamának lejártától számított 5 év.

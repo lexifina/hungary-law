@@ -79,3 +79,5 @@ d) a Zsigmond Király Egyetem Milton Friedman Egyetem
 megnevezéssel működik.
 
 (24) E törvénynek – a 2018. évi XC. törvénnyel módosított – 37. § (6) bekezdésében foglaltakat a 2018. évi XC. törvény hatálybalépésekor folyamatban lévő pályázatokra is alkalmazni kell.
+
+(25) A Győri Hittudományi Főiskola 2019. február 1-jétől Brenner János Hittudományi Főiskola megnevezéssel működik.

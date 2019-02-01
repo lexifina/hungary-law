@@ -1,6 +1,6 @@
 114/D. § (1) A 85/A. § (1) bekezdése alapján
 
-a) az egy főre megállapított hallgatói normatíva 119 000 Ft/év,
+a) az egy főre megállapított hallgatói normatíva 128 520 Ft/év,
 
 b) a doktori képzésben részt vevők egy főre meghatározott támogatása
 
@@ -14,9 +14,9 @@ c) a nemzeti felsőoktatási ösztöndíjban részesülők normatívája 400 000
 
 d) a kollégiumi-diákotthoni elhelyezés normatívája 116 500 Ft/év,
 
-e) a lakhatási támogatás normatívája 60 000 Ft/év,
+e) a lakhatási támogatás normatívája 67 200 Ft/év,
 
-f) a tankönyv- és jegyzettámogatás, valamint a sport- és kulturális tevékenység normatívája 11 900 Ft/év.
+f) a tankönyv- és jegyzettámogatás, valamint a sport- és kulturális tevékenység normatívája 14 566 Ft/év.
 
 (2) A XXIV. Fejezet alkalmazásában államilag támogatott hallgató az államilag támogatott képzésben részt vevő hallgató, valamint 2012 szeptemberétől kezdődően magyar állami (rész)ösztöndíjas képzésre felvételt nyert hallgató.
 
