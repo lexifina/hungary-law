@@ -18,54 +18,66 @@
 
 | 8 | Bács-Kiskun Megyei Büntetés-végrehajtási Intézet telephelyeként működő Fiatalkorúak Regionális Büntetés-végrehajtási Intézete – Kecskemét | börtön, fogház |
 
-3. melléklet a 16/2018. (VI. 7.) BM rendelethez
+3. melléklet a 16/2018. (VI. 7.) BM rendelethez[^2]
 
 I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek
 
-|  | A | B |
+|  |  | A | B |
 
-| 1 | Büntetés-végrehajtási intézet | Végrehajtási fokozat |
+|  | 1 | Büntetés-végrehajtási intézet | Végrehajtási fokozat |
 
-| 2 | A felnőtt korú férfi szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
+|  | 2 | A felnőtt korú férfi szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
 
-| 3 | Állampusztai Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+|  | 3 | Állampusztai Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
 
-| 4 | Balassagyarmati Fegyház és Börtön | fegyház, börtön |
+|  | 4 | Balassagyarmati Fegyház és Börtön | fegyház, börtön |
 
-| 5 | Budapesti Fegyház és Börtön | fegyház, börtön |
+|  | 5 | Budapesti Fegyház és Börtön | fegyház, börtön |
 
-| 6 | Tököli Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+|  | 6 | Kalocsai Fegyház és Börtön | fegyház, börtön |
 
-| 7 | Közép-Dunántúli Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+|  | 7 | Kiskunhalasi Országos Büntetés-végrehajtási Intézet | börtön, fogház |
 
-| 8 | Márianosztrai Fegyház és Börtön | fegyház, börtön |
+|  | 8 | Közép-Dunántúli Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
 
-| 9 | Pálhalmai Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+|  | 9 | Márianosztrai Fegyház és Börtön | fegyház, börtön |
 
-| 10 | Sátoraljaújhelyi Fegyház és Börtön | fegyház, börtön |
+|  | 10 | Pálhalmai Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
 
-| 11 | Sopronkőhidai Fegyház és Börtön | fegyház, börtön |
+|  | 11 | Sátoraljaújhelyi Fegyház és Börtön | fegyház, börtön |
 
-| 12 | Szegedi Fegyház és Börtön | fegyház, börtön, fogház |
+|  | 12 | Sopronkőhidai Fegyház és Börtön | fegyház, börtön |
 
-| 13 | Szombathelyi Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+|  | 13 | Szegedi Fegyház és Börtön | fegyház, börtön, fogház |
 
-| 14 | Tiszalöki Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+|  | 14 | Szombathelyi Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
 
-| 15 | Váci Fegyház és Börtön | fegyház, börtön |
+|  | 15 | Tiszalöki Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
 
-| 16 | A felnőtt korú női szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
+|  | 16 | Tököli Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
 
-| 17 | Heves Megyei Büntetés-végrehajtási Intézet | börtön |
+|  | 17 | Váci Fegyház és Börtön | fegyház, börtön |
 
-| 18 | Kalocsai Fegyház és Börtön | fegyház, börtön |
+|  | 18 | A felnőtt korú női szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
 
-| 19 | Pálhalmai Országos Büntetés-végrehajtási Intézet | börtön, fogház |
+|  | 19 | Heves Megyei Büntetés-végrehajtási Intézet | börtön |
 
-| 20 | Szombathelyi Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+|  | 20 | Kalocsai Fegyház és Börtön | fegyház, börtön |
 
-| 21 | Tiszalöki Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+|  | 21 | Kiskunhalasi Országos Büntetés-végrehajtási Intézet | börtön, fogház |
 
-II. Azon büntetés-végrehajtási intézetek, amelyekben olyan enyhébb rezsimkategóriába sorolt fegyház fokozatú szabadságvesztésre ítélt is elhelyezhető, akinek engedélyezett a büntetés-végrehajtási intézeten kívüli munkavégzés
+|  | 22 | Pálhalmai Országos Büntetés-végrehajtási Intézet | börtön, fogház |
 
-1. Az I. pontban szereplő táblázat A:3, A:6, A:7 és A:9 mezője szerinti büntetés-végrehajtási intézet.
+|  | 23 | Szombathelyi Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+
+|  | 24 | Tiszalöki Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+
+II. Azon büntetés-végrehajtási intézetek, amelyekben olyan enyhébb rezsimkategóriába sorolt
+
+fegyház fokozatú szabadságvesztésre ítélt is elhelyezhető, akinek engedélyezett
+
+a büntetés-végrehajtási intézeten kívüli munkavégzés
+
+1. Az I. pontban foglalt táblázat A:3, A:8, A:10 és A:16 mezője szerinti büntetés-végrehajtási intézet.
+
+[^2]: A 3. melléklet a 2/2019. (I. 22.) BM rendelet 1. §-ával megállapított szöveg.

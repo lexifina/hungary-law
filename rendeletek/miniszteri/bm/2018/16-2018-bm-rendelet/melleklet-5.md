@@ -8,7 +8,7 @@
 
 | 3 | Baranya megye | Baranya Megyei Büntetés-végrehajtási Intézet |
 
-| 4 | Bács-Kiskun megye | Bács-Kiskun Megyei Büntetés-végrehajtási Intézet |
+| 4 | Bács-Kiskun megye | a) Bács-Kiskun Megyei Büntetés-végrehajtási Intézet b) Kiskunhalasi Országos Büntetés-végrehajtási Intézet |
 
 | 5 | Békés megye | Békés Megyei Büntetés-végrehajtási Intézet |
 
@@ -40,7 +40,7 @@
 
 | 19 | Zala megye | Zala Megyei Büntetés-végrehajtási Intézet |
 
-5. melléklet a 16/2018. (VI. 7.) BM rendelethez
+5. melléklet a 16/2018. (VI. 7.) BM rendelethez[^4]
 
 Az elzárásra ítélt, illetve a szabálysértési elzárást töltő fiatalkorúak elhelyezésére szolgáló büntetés-végrehajtási intézetek, valamint az e rendeletben meghatározott esetben kijelölhető büntetés-végrehajtási intézetek
 
@@ -54,4 +54,6 @@ Az elzárásra ítélt, illetve a szabálysértési elzárást töltő fiatalkor
 
 | 4 | Az e rendeletben meghatározott esetben a 4. mellékletben foglaltaktól eltérően kijelölhető büntetés-végrehajtási intézetek |
 
-| 5 | Budapest főváros és az ország bármelyik megyéje | a) Fővárosi Büntetés-végrehajtási Intézet (férfiak és nők) b) Állampusztai Országos Büntetés-végrehajtási Intézet (férfiak) c) Budapesti Fegyház és Börtön (férfiak) d) Szegedi Fegyház és Börtön (férfiak) e) Tiszalöki Országos Büntetés-végrehajtási Intézet (férfiak) f) Pálhalmai Országos Büntetés-végrehajtási Intézet (nők) |
+| 5 | Budapest főváros és az ország bármelyik megyéje | a) Fővárosi Büntetés-végrehajtási Intézet (férfiak és nők) b) Állampusztai Országos Büntetés-végrehajtási Intézet (férfiak) c) Budapesti Fegyház és Börtön (férfiak) d) Szegedi Fegyház és Börtön (férfiak) e) Tiszalöki Országos Büntetés-végrehajtási Intézet (férfiak) f) Tököli Országos Büntetés-végrehajtási Intézet (férfiak) g) Pálhalmai Országos Büntetés-végrehajtási Intézet (nők) |
+
+[^4]: Az 5. melléklet a 2/2019. (I. 22.) BM rendelet 3. §-a szerint módosított szöveg.
