@@ -20,7 +20,7 @@ a) az országgyűlési képviselő és a nemzetiségi szószóló,
 
 b) az európai parlamenti képviselő,
 
-c) az állami vezető, a vezetői megbízású, valamint feladatköre szerint katasztrófavédelmi feladatot ellátó kormánytisztviselő, köztisztviselő és közalkalmazott,
+c) az szakmai felsővezető, a vezetői megbízású, valamint feladatköre szerint katasztrófavédelmi feladatot ellátó kormánytisztviselő, köztisztviselő és közalkalmazott,
 
 d) a jegyző,
 
