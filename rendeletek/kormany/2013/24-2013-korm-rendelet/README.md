@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-24-20-2
 | 2017-01-01 | 2013-24-20-22.8 | 170/2016. (VII. 1.) Korm. rendelet |
 | 2017-12-01 | 2013-24-20-22.9 | 362/2017. (XI. 30.) Korm. rendelet |
 | 2017-12-23 | 2013-24-20-22.10 | 407/2017. (XII. 15.) Korm. rendelet |
+| 2019-02-01 | 2013-24-20-22.11 | 4/2019. (I. 24.) Korm. rendelet |
