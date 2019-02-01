@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2018-09-28 | 14/2018. (IX. 27.) AB határozat | 1997-81-00-00.71 |
 | 2018-12-23 | 2018. évi CXIX. törvény | 1997-81-00-00.72 |
 | 2019-01-01 | 2018. évi CXVII. törvény | 1997-81-00-00.73 |
+| 2019-02-01 | 2018. évi CXV. törvény | 1997-81-00-00.74 |
