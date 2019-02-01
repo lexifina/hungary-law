@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-125-00-00
 | 2018-06-29 | 12/2017. (VI. 19.) AB határozat | 1995-125-00-00.55 |
 | 2018-07-01 | 2017. évi XCIII. törvény | 1995-125-00-00.56 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 1995-125-00-00.57 |
+| 2019-02-01 | 2018. évi CXV. törvény | 1995-125-00-00.58 |

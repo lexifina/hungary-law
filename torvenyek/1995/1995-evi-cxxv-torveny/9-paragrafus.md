@@ -8,4 +8,4 @@ c) ellátják e törvény keretei között a Kormány, a polgári nemzetbiztons�
 
 d)
 
-e) gondoskodnak a hivatásos állományú munkatársak és a közalkalmazottak szakirányú képzéséről.
+e) gondoskodnak a hivatásos állományú munkatársak és a rendvédelmi igazgatási alkalmazottak, illetve a honvédelmi alkalmazottak szakirányú képzéséről.

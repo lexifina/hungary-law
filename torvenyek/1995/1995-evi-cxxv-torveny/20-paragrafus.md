@@ -1,8 +1,8 @@
 ## A nemzetbiztonsági szolgálatok személyi állománya
 
-20. § (1) A nemzetbiztonsági szolgálatok személyi állománya kormánytisztviselőkből,hivatásos szolgálati viszonyban álló személyekből és közalkalmazottakból áll.
+20. § (1) A nemzetbiztonsági szolgálatok személyi állománya hivatásos szolgálati viszonyban álló személyekből, rendvédelmi igazgatási alkalmazottakból és munkavállalókból, a Katonai Nemzetbiztonsági Szolgálat személyi állománya hivatásos szolgálati viszonyban álló személyekből, honvédelmi alkalmazottakból és munkavállalókból áll.
 
-(1a) A Terrorelhárítási Információs és Bűnügyi Elemző Központba az együttműködő szervnél hivatásos szolgálati viszonyban állók vezényelhetőek, a kormánytisztviselők kirendelhetőek.
+(1a) A Terrorelhárítási Információs és Bűnügyi Elemző Központba az együttműködő szervnél hivatásos szolgálati viszonyban állók vezényelhetőek, a rendvédelmi igazgatási alkalmazottak kirendelhetőek.
 
 (1b) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott rendvédelmi feladatokat ellátó szervnél hivatásos szolgálati viszonyban állók, valamint a honvédek jogállásáról szóló törvényben meghatározottak szerint a Katonai Nemzetbiztonsági Szolgálathoz vezényelt állomány tagjának szolgálatteljesítési helyéül kijelölhető.
 
