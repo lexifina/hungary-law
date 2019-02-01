@@ -6,7 +6,11 @@ Pénztártitokként kezelendő személyes adatok
 
 a) természetes személyazonosító adatok
 
-b)–d)
+b)
+
+c)
+
+d)
 
 e) elhalálozás időpontja
 

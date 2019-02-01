@@ -10,7 +10,11 @@ b) a tag az átadó pénztárba történt belépést követő két éven belül 
 
 az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag követelésének egy ezreléket meghaladó részét, de legfeljebb ötezer forintot átlépési díjként érvényesít. Az átlépési díj nem engedhető el, a tag számára a befogadó pénztár által nem téríthető meg, a tagot illető tagdíjbefizetésből vagy a tag egyéni számlájának egyenlegéből nem vonható le.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
 
 (7)
 
