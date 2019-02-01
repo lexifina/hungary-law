@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-41-00-00
 | 2018-12-25 | 2018. évi XCVIII. törvény | 2012-41-00-00.24 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 2012-41-00-00.25 |
 | 2019-01-15 | 2018. évi XCVIII. törvény | 2012-41-00-00.26 |
+| 2019-02-01 | 2018. évi CXV. törvény | 2012-41-00-00.27 |
