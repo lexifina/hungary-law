@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-33-00-00
 | 2018-05-18 | 2018. évi V. törvény | 1995-33-00-00.39 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1995-33-00-00.40 |
 | 2019-01-01 | 2018. évi LXVII. törvény | 1995-33-00-00.41 |
+| 2019-02-01 | 2018. évi CXV. törvény | 1995-33-00-00.42 |
