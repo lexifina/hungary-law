@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-19-20-2
 | 2016-07-01 | 2012-19-20-22.14 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2016-07-09 | 2012-19-20-22.15 | 170/2016. (VII. 1.) Korm. rendelet |
 | 2018-01-01 | 2012-19-20-22.16 | 407/2017. (XII. 15.) Korm. rendelet |
+| 2019-02-01 | 2012-19-20-22.17 | 4/2019. (I. 24.) Korm. rendelet |
