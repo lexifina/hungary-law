@@ -10,6 +10,6 @@ c) a Központi Elszámolóház és Értéktár (Budapest) Zrt.-re és
 
 d) az összevont alapú felügyelet alá nem tartozó lakás-takarékpénztárra,
 
-e)[^1] a három milliárd forintnál alacsonyabb 1 éven túli hátralévő lejáratú nettó lakossági jelzáloghitel-állománnyal rendelkező hitelintézetre.
+e)[^1] a tíz milliárd forintnál alacsonyabb 1 éven túli hátralévő lejáratú nettó lakossági jelzáloghitel-állománnyal rendelkező hitelintézetre.
 
-[^1]: Az 1. § (2) bekezdés e) pontját a 6/2016. (III. 1.) MNB rendelet 1. §-a iktatta be.
+[^1]: Az 1. § (2) bekezdés e) pontját a 6/2016. (III. 1.) MNB rendelet 1. §-a iktatta be, szövege a 2/2019. (I. 9.) MNB rendelet 4. §-a szerint módosított szöveg.

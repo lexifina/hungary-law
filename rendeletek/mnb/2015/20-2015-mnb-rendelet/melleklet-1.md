@@ -24,11 +24,13 @@ b) lakossági jelzáloghitel vagy lakóingatlanon alapított zálogjog fedezete 
 
 c)[^4] a jelzáloglevél vagy a 2. pont b) alpontja szerinti értékpapír kibocsátásakor, a Jht. 8. § (4) bekezdése szerinti önálló zálogjog eladásakor vagy a refinanszírozási jelzáloghitel felvételekor
 
-ca) 2018. szeptember 30-ig legalább egy éves,
+ca) 2018. szeptember 30-ig legalább egyéves,
 
-cb) 2018. október 1-jétől legalább két éves
+cb) 2018. október 1-jétől 2019. szeptember 30-ig legalább kétéves,
 
-futamidővel rendelkeztek, és
+cc) 2019. október 1-jétől legalább hároméves
+
+futamidővel rendelkeztek,
 
 d) nem ugyanazon hitelintézeti csoport tagjának mérlegében vannak nyilvántartva.
 
@@ -44,24 +46,22 @@ bb) 2018. október 1-jétől a jelzálog-hitelintézettel összevont alapú fel�
 
 6. A jelzáloghitel-finanszírozás megfelelési mutató számlálójából levonandó a jelzálog-hitelintézet által a saját hitelintézeti csoporton kívüli intézmény részére nyújtott refinanszírozási jelzáloghitelek, illetve a saját hitelintézeti csoporton kívüli intézmény által fizetendő visszavásárlási vételár összege.
 
-6a.[^6]
-
-A jelzáloghitel-finanszírozás megfelelési mutató számlálója 2–6. pont szerint számított értékét 2018. október 1-jétől csökkenteni kell a következő képlet szerint számított értékkel, kivéve, ha ezen érték negatív előjelű:
+6a.[^6] A jelzáloghitel-finanszírozás megfelelési mutató számlálójának 2–6. pont szerint számított értékét csökkenteni kell a következő képlet szerint számított értékkel, kivéve, ha ezen érték negatív előjelű:
 
 J – SF × A
 
 ahol
 
-J: a hitelintézeti csoportba tartozó intézmény esetében az ugyanazon hitelintézeti csoportba tartozó jelzálog-hitelintézet által kibocsátott jelzáloglevelek 2–6. pont szerinti értékének és a saját hitelintézeti csoporton kívüli, Magyarországon székhellyel rendelkező jelzálog-hitelintézet által kibocsátott, forintban denominált jelzáloglevelek mérlegben kimutatott értékének összege, amennyiben azok ugyanazon hitelintézeti csoport valamely tagjának mérlegében vannak nyilvántartva, ide nem értve az ugyanazon hitelintézeti csoporthoz tartozó lakás-takarékpénztár mérlegében nyilvántartott jelzáloglevelek értékét;
+J: hitelintézeti csoportba nem tartozó hitelintézet esetében a hitelintézet tulajdonában lévő, Magyarországon székhellyel rendelkező jelzálog-hitelintézet által kibocsátott, forintban denominált jelzáloglevelek mérlegben kimutatott értékének összege; hitelintézeti csoportba tartozó intézmény esetében az ugyanazon hitelintézeti csoportba tartozó jelzálog-hitelintézet által kibocsátott jelzáloglevelek 2–6. pont szerinti értékének és a saját hitelintézeti csoporton kívüli, Magyarországon székhellyel rendelkező jelzálog-hitelintézet által kibocsátott, forintban denominált jelzáloglevelek mérlegben kimutatott értékének összege, amennyiben azok ugyanazon hitelintézeti csoport valamely tagjának tulajdonában vannak, ide nem értve az ugyanazon hitelintézeti csoporthoz tartozó lakástakarékpénztár mérlegében nyilvántartott jelzáloglevelek értékét;
 
-SF: a jelzáloghitel-finanszírozás megfelelés mutató számlálójának 2–6. pont szerint számított értéke;
+SF: a jelzáloghitel-finanszírozás megfelelési mutató számlálójának 2–6. pont szerint számított értéke;
 
-A = J-nek a szabályozott piacra bevezetett részaránya × 0,9 + J-nek a szabályozott piacra be nem vezetett részaránya × 0,85
+A = J-nek a szabályozott piacra bevezetett részaránya × 0,9 + J-nek a szabályozott piacra be nem vezetett részaránya × 0,85.
 
 7. A jelzáloghitel-finanszírozás megfelelési mutató nevezője az éven túli hátralévő lejáratú, lakossági forint jelzáloghitel-állomány könyv szerinti nettó értéke.
 
 8. A jelzáloghitel-finanszírozás megfelelési mutató nevezőjéből a hitelintézeti csoport lakástakarék-pénztár tagja éven túli hátralévő lejáratú, lakossági forint jelzáloghitel-állományának könyv szerinti nettó értéke levonható. A levonható jelzáloghitel-állományt csökkenteni kell a lakástakarék-pénztár részére a saját hitelintézeti csoport tagja által nyújtott hitelek mérlegben kimutatott értékével.
 
-[^4]: Az 1. melléklet 3. pont c) alpontja az 55/2016. (XII. 22.) MNB rendelet 2. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 3. pont c) alpontja a 2/2019. (I. 9.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. melléklet 4. pont b) alpontja az 55/2016. (XII. 22.) MNB rendelet 2. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet 6a. pontját az 55/2016. (XII. 22.) MNB rendelet 2. §-a iktatta be.
+[^6]: Az 1. melléklet 6a. pontját az 55/2016. (XII. 22.) MNB rendelet 2. §-a iktatta be, szövege a 2/2019. (I. 9.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
