@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1997-159-00-00.31 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 1997-159-00-00.32 |
 | 2019-01-05 | 2018. évi CXXI. törvény | 1997-159-00-00.33 |
+| 2019-02-01 | 2018. évi CXV. törvény | 1997-159-00-00.34 |
