@@ -1,1 +1,1 @@
-30. §
+30. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 27. § (5) és (7) bekezdésében a „közalkalmazotti jogviszonyban” szövegrész helyébe a „közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban” szöveg lép.

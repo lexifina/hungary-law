@@ -1,1 +1,1 @@
-19. §
+19. § A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 12. § (1) bekezdésében és 14. § (1) bekezdés a) pontjában a „hivatásos szolgálati” szövegrész helyébe a „hivatásos szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, a honvédelmi alkalmazotti jogviszonyban” szöveg lép.

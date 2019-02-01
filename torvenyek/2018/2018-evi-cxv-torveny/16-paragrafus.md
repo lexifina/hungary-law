@@ -1,1 +1,1 @@
-16. §
+16. § Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (2) bekezdésében a „valamint szolgálati jogviszonyban” szövegrész helyébe a „szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, valamint honvédelmi alkalmazotti jogviszonyban” szöveg lép.

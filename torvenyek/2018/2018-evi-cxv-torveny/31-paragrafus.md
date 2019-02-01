@@ -1,1 +1,1 @@
-31. §
+31. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § d) pontjában a „közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban” szöveg lép.

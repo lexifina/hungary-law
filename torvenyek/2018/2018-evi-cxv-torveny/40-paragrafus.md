@@ -1,1 +1,1 @@
-40. §
+40. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 3. § (2) bekezdés b) pontjában a „közalkalmazotti jogviszonyból” szövegrész helyébe a „közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, honvédelmi alkalmazotti jogviszonyból” szöveg lép.
