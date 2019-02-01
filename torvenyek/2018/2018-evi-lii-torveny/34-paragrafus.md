@@ -34,7 +34,7 @@ c) az a) vagy b) pont szerinti jogviszonya megszűnését követően diákigazol
 
 a) az Mt-ben meghatározott munkaviszony,
 
-b) a közalkalmazotti jogviszony,
+b) a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony,
 
 c) a közszolgálati jogviszony, az állami szolgálati jogviszony, a kormányzati szolgálati viszony,
 
