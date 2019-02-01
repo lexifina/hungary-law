@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-68-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 1997-68-00-00.54 |
 | 2017-09-01 | 2017. évi LXXXVII. törvény | 1997-68-00-00.55 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1997-68-00-00.56 |
+| 2019-02-01 | 2018. évi CXV. törvény | 1997-68-00-00.57 |
