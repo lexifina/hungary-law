@@ -1,0 +1,1 @@
+## 1. § A közigazgatási bíróságokról szóló törvény hatálybalépéséről és egyes átmeneti szabályokról szóló 2018. évi CXXXI. törvény (a továbbiakban: Átmtv.) 2. § (1) bekezdése szerint nyilatkozattételre jogosult bíró a nyilatkozatát az 1. melléklet szerinti formanyomtatványon teheti meg.
