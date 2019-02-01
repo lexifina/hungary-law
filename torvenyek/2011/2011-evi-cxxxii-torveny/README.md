@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-132-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2011-132-00-00.23 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-132-00-00.24 |
 | 2018-08-15 | 2018. évi XLVIII. törvény | 2011-132-00-00.25 |
+| 2019-02-01 | 2018. évi CXV. törvény | 2011-132-00-00.26 |
