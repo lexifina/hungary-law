@@ -30,7 +30,9 @@ f) az e törvény, a Ktv., Ktjv., illetőleg a Kjt. hatálya alá tartozó szerv
 
 g) a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot, és
 
-h) az állami vezetői szolgálati jogviszonyban
+h) az állami vezetői szolgálati jogviszonyban,
+
+i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban
 
 töltött időt kell figyelembe venni.
 

@@ -1,5 +1,1 @@
-183/B. § (1) A büntetés-végrehajtás központi szerve a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselőinek 6. mellékletben meghatározott adatait a kormánytisztviselők munkavégzésével összefüggésben belépési jogosultságot biztosító igazolványok kibocsátása, nyilvántartása és bevonása céljából kezeli.
-
-(2) A 6. melléklet szerinti adatokat, az abban bekövetkező változásokat, valamint a kormányzati szolgálati jogviszony megszűnésére vagy a kormánytisztviselő tartós távollétére vonatkozó adatokat a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatokat ellátó kormánytisztviselőt alkalmazó büntetés-végrehajtási szerv vezetője köteles a közszolgálati alapnyilvántartás adatai alapján továbbítani az (1) bekezdésben meghatározott adatkezelő részére.
-
-(3) Az (1) bekezdés szerinti nyilvántartásba – az eljárásban indokolt mértékig – saját adatai tekintetében kizárólag a kormánytisztviselő jogosult betekinteni, illetve abból adatokat átvenni.
+### 183/B. §
