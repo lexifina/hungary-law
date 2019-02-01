@@ -2,7 +2,7 @@
 
 2. § (1) E rendelet alkalmazásában:
 
-1–3.[^3]
+1–3.[^4]
 
 4. adaptív rendszer: olyan rádiótávközlő rendszer, amely a csatorna minőségének megfelelően változtatja rádiótechnikai jellemzőit;
 
@@ -10,9 +10,9 @@
 
 6. adásmód: egy adás jellemzőinek összessége, úgymint a fő vivőhullám modulációs módja, a moduláló jel természete, a továbbítandó információ típusa és egyes esetekben más kiegészítő jellemzők, melyeknek mindegyikét szabványosított kódjelek együttesével látják el;
 
-6a.[^4] adathálózat: hálózati elemként szolgáló több kis hatótávolságú eszköz összessége, beleértve az adathálózati hozzáférési pontot is, és a köztük lévő vezetéknélküli összeköttetések;
+6a.[^5] adathálózat: hálózati elemként szolgáló több kis hatótávolságú eszköz összessége, beleértve az adathálózati hozzáférési pontot is, és a köztük lévő vezetéknélküli összeköttetések;
 
-6b.[^5] adathálózati hozzáférési pont: olyan helyhez kötött földfelszíni kis hatótávolságú eszköz, amely csatlakozási pontként szolgál az adathálózat más kis hatótávolságú eszközei számára az adott adathálózaton kívül található szolgáltatási platformok eléréséhez;
+6b.[^6] adathálózati hozzáférési pont: olyan helyhez kötött földfelszíni kis hatótávolságú eszköz, amely csatlakozási pontként szolgál az adathálózat más kis hatótávolságú eszközei számára az adott adathálózaton kívül található szolgáltatási platformok eléréséhez;
 
 7. aktív beültethető orvostechnikai eszköz: minden olyan aktív orvostechnikai eszköz, amelynek rendeltetése, hogy teljes egészében vagy részben, sebészeti vagy más orvosi úton az emberi testbe vagy orvosi beavatkozás révén természetes testnyílásba helyezzék, és a beavatkozást követően a helyén maradjon;
 
@@ -20,7 +20,9 @@
 
 9. aktív orvosi implantátum: minden olyan aktív beültethető orvostechnikai eszköz rádióhullámokat használó része, amelynek rendeltetése, hogy teljes egészében vagy részben, sebészeti vagy orvosi úton az emberi testbe vagy egy állat testébe helyezzék, valamint adott esetben ennek külső kiegészítő berendezése;
 
-9a.[^6] alapvető követelmény: a rádióberendezésekről szóló NMHH rendeletben meghatározott alapvető követelmény;
+9a.[^7] alapvető követelmény: a rádióberendezésekről szóló NMHH rendeletben meghatározott alapvető követelmény;
+
+9b.[^8] ALD: rendszerint egy vagy több rádióadót, valamint egy vagy több rádióvevőt magában foglaló rádiótávközlő rendszer, amely lehetővé teszi a hallási fogyatékkal élők számára hallóképességük javítását;
 
 10. állandóhelyű állomás: az állandóhelyű szolgálat állomása;
 
@@ -28,9 +30,9 @@
 
 12. állandó telephelyű állomás: olyan állomás, amely előre meghatározott telepítési helyen üzemelhet;
 
-13.[^7]
+13.[^9]
 
-14.[^8] állomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából; a fogalom magában foglalja a következő állomásokat: állandóhelyű állomás, állandó telephelyű állomás, amatőrállomás, átjátszóállomás, bázisállomás, bázis földi állomás, fedélzeti BTS, fedélzeti távközlő állomás, felhasználói állomás, fix állomás, földfelszíni állomás, földi állomás, földi mozgóállomás, földi mozgó földi állomás, gyűjtőállomás, hajóállomás, hajó-bázisállomás, hajó földi állomás, hajóvészadó, HAPS, helyhez kötött állomás, helyhez kötött földi állomás, HEST, hiteles frekvenciák és órajelek állomása, kikötői állomás, kísérleti állomás, koordinált földi állomás, központi állomás, központi földi állomás, légiforgalmi állomás, légiforgalmi földi állomás, légijármű állomás, légijármű földi állomás, LEST, markeradó, mentőjármű állomás, mozgóállomás, mozgó földi állomás, műsorszóró állomás, parti állomás, parti földi állomás, rádiócsillagászati állomás, rádió-irányadó állomás, rádió-iránymérő állomás, rádiólokációs helyhez kötött állomás, rádiólokációs mozgóállomás, rádiómeghatározó állomás, rádiónavigációs helyhez kötött állomás, rádiónavigációs mozgóállomás, SNG, szerencsétlenségek helyét jelző műholdas rádióbója, szerencsétlenségek helyét jelző rádióbója állomás, űrállomás, változó telephelyű állomás, végfelhasználói állomás, VSAT;
+14.[^10] állomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából; a fogalom magában foglalja a következő állomásokat: állandóhelyű állomás, állandó telephelyű állomás, amatőrállomás, átjátszóállomás, bázisállomás, bázis földi állomás, fedélzeti BTS, fedélzeti távközlő állomás, felhasználói állomás, fix állomás, földfelszíni állomás, földi állomás, földi mozgóállomás, földi mozgó földi állomás, gyűjtőállomás, hajóállomás, hajó-bázisállomás, hajó földi állomás, hajóvészadó, HAPS, helyhez kötött állomás, helyhez kötött földi állomás, HEST, hiteles frekvenciák és órajelek állomása, kikötői állomás, kísérleti állomás, koordinált földi állomás, központi állomás, központi földi állomás, légiforgalmi állomás, légiforgalmi földi állomás, légijármű állomás, légijármű földi állomás, LEST, markeradó, mentőjármű állomás, meteorológiai helyhez kötött állomás, meteorológiai mozgóállomás, mozgóállomás, mozgó földi állomás, műsorszóró állomás, parti állomás, parti földi állomás, rádiócsillagászati állomás, rádió-irányadó állomás, rádió-iránymérő állomás, rádiólokációs helyhez kötött állomás, rádiólokációs mozgóállomás, rádiómeghatározó állomás, rádiónavigációs helyhez kötött állomás, rádiónavigációs mozgóállomás, SNG, szerencsétlenségek helyét jelző műholdas rádióbója, szerencsétlenségek helyét jelző rádióbója állomás, űrállomás, változó telephelyű állomás, végfelhasználói állomás, VSAT;
 
 15. általános alkalmazás: alkalmazástól és rendeltetéstől függetlenül minden olyan SRD alkalmazás – így különösen távmérő, távirányító, riasztó, általános adatátviteli alkalmazás –, amely teljesíti az adott frekvenciasáv tekintetében meghatározott műszaki feltételeket;
 
@@ -56,9 +58,9 @@ c) rövid függőleges antennára vonatkoztatott nyereség (Gv), amikor a vonatk
 
 23. átlagos EIRP-sűrűség: az átlagos teljesítmény adott felbontási sávszélességgel, RMS érzékelővel mérve, és adott időtartamon átlagolva;
 
-24.[^9] átlagteljesítmény: egy rádió-adóberendezésnél annak a teljesítménynek az átlaga, amelyet az adóberendezés normál üzemi feltételek mellett a moduláció legkisebb frekvenciájú összetevőjének periódusidejéhez képest elegendően hosszú időintervallum alatt az antennatápvonalra juttat;
+24.[^11] átlagteljesítmény: egy rádió-adóberendezésnél annak a teljesítménynek az átlaga, amelyet az adóberendezés normál üzemi feltételek mellett a moduláció legkisebb frekvenciájú összetevőjének periódusidejéhez képest elegendően hosszú időintervallum alatt az antennatápvonalra juttat;
 
-25.[^10] autósmozi alkalmazás: a nézők által jellemzően autórádióval, mint vevőberendezéssel mozihangosítás céljából igénybe vett vezetéknélküli hangfrekvenciás PMSE berendezéssel megvalósított alkalmazás, amelyben a mozifilm hangjának átvitelét egy FM adóállomás biztosítja;
+25.[^12] autósmozi alkalmazás: a nézők által jellemzően autórádióval, mint vevőberendezéssel mozihangosítás céljából igénybe vett vezetéknélküli hangfrekvenciás PMSE berendezéssel megvalósított alkalmazás, amelyben a mozifilm hangjának átvitelét egy FM adóállomás biztosítja;
 
 26. bázisállomás: a földi mozgószolgálat helyhez kötött állomása;
 
@@ -82,9 +84,11 @@ c) rövid függőleges antennára vonatkoztatott nyereség (Gv), amikor a vonatk
 
 36. CGC: a műholdas mozgószolgálati rendszer szerves része, amely – a mozgó földi állomásokkal összeköttetést megvalósító – helyhez kötött földi telepítésű állomásokból áll annak érdekében, hogy javuljon a műholdas mozgószolgálati rendszer elérhetősége azokban a – rendszer műholdjának vagy műholdjainak fedési körzetében található – földrajzi térségekben, ahol az egy vagy több űrállomással való összeköttetés nem biztosítható a szükséges minőségben;
 
-37. civil önvédelmi szervezet: a polgárőrségről szóló törvényben vagy az egyesülési jogról szóló törvényben meghatározott szervezeti formában létrehozott, a lakosság élet- és vagyonvédelmének biztosítása érdekében létesült szervezet;
+37.[^13]
 
 38. CT: elektronikus hírközlő hálózat azon földi mozgószolgálati része, amelynek bázisállomásai közvetlenül csatlakoznak a nyilvános telefonhálózathoz;
+
+38a.[^14] csatornán belüli IoT-alkalmazás: a vezetéknélküli szélessávú elektronikus hírközlési szolgáltatások nyújtására használt névleges csatornán belüli erőforrások egy részének előzetes elkülönítésével megvalósított IoT-alkalmazás;
 
 39. csoportkommunikációs igény: természetes személyek kivételével a frekvenciafelhasználók csoporton belüli és csoportok közötti kommunikációs igénye;
 
@@ -92,7 +96,7 @@ c) rövid függőleges antennára vonatkoztatott nyereség (Gv), amikor a vonatk
 
 41. csúcs EIRP-sűrűség: a legmagasabb átlagos kisugárzott teljesítmény frekvenciája körüli 50 MHz-es sávszélességen belül előforduló legmagasabb adásszint; ha az értéket x MHz sávszélességen mérik, akkor ezt a szintet 20lg(50/x) dB tényezővel kell csökkenteni;
 
-42.[^11] csúcsteljesítmény: egy rádió-adóberendezésnél annak a teljesítménynek az átlaga, amelyet az adóberendezés normál üzemi feltételek mellett a modulációs burkológörbe maximális amplitúdójának megfelelő rádiófrekvenciás periódus alatt az antennatápvonalra juttat;
+42.[^15] csúcsteljesítmény: egy rádió-adóberendezésnél annak a teljesítménynek az átlaga, amelyet az adóberendezés normál üzemi feltételek mellett a modulációs burkológörbe maximális amplitúdójának megfelelő rádiófrekvenciás periódus alatt az antennatápvonalra juttat;
 
 43. duplex rendszer: duplex üzemmódban működő rádiótávközlő rendszer;
 
@@ -108,15 +112,15 @@ c) rövid függőleges antennára vonatkoztatott nyereség (Gv), amikor a vonatk
 
 49. EIRP: az antennára juttatott teljesítmény és az adott irányban az izotrop antennára vonatkoztatott nyereség (izotrop vagy abszolút nyereség) szorzata;
 
-50.[^12] elfoglalt sávszélesség: az a frekvenciasáv-szélesség, amelynél az alsó frekvenciahatár alatt, illetve a felső frekvenciahatár felett kisugárzott átlagteljesítmények egyenként egyenlőek az adott adás teljes átlagteljesítményének adott ß/2 százalékértékével; ha a kérdéses adásmódra vonatkozóan ITU-R-ajánlás másképpen nem rendelkezik, a ß/2 értékét 0,5%-ra kell felvenni;
+50.[^16] elfoglalt sávszélesség: az a frekvenciasáv-szélesség, amelynél az alsó frekvenciahatár alatt, illetve a felső frekvenciahatár felett kisugárzott átlagteljesítmények egyenként egyenlőek az adott adás teljes átlagteljesítményének adott ß/2 százalékértékével; ha a kérdéses adásmódra vonatkozóan ITU-R-ajánlás másképpen nem rendelkezik, a ß/2 értékét 0,5%-ra kell felvenni;
 
 51. elsődleges radar: olyan rádiómeghatározó rendszer, amely a referenciajeleknek a meghatározandó helyről visszaverődő rádiófrekvenciás jelekkel való összehasonlításán alapul;
 
-52. elsősorban katonai használat: adott frekvenciasávba tartozó rádióalkalmazás használata főként a honvédség, valamint a NATO felhasználók által;
+52.[^17]
 
 53. ERP: az antennára juttatott teljesítmény és az antenna félhullámú dipólra vonatkoztatott nyereségének szorzata egy adott irányban;
 
-54.[^13] fedélzeti BTS: a légijármű fedélzetén elhelyezett egy vagy több mobilhírközlési állomás, amely a GSM 1800 MCA, LTE 1800 MCA és UMTS 2100 MCA rendszerek használatát támogatja;
+54.[^18] fedélzeti BTS: a légijármű fedélzetén elhelyezett egy vagy több mobilhírközlési állomás, amely a GSM 1800 MCA, LTE 1800 MCA és UMTS 2100 MCA rendszerek használatát támogatja;
 
 55. fedélzeti távközlő állomás: a tengeri mozgószolgálat kis teljesítményű mozgóállomása, amelyet hajófedélzeti belső távközlésre, mentési gyakorlatok vagy műveletek alatt a hajó és mentőcsónakjai vagy mentőtutajai közötti távközlésre, vontatott vagy tolt hajócsoportokon belüli távközlésre, valamint kötélkezelési és kikötési utasítások továbbítására használnak;
 
@@ -128,9 +132,11 @@ c) rövid függőleges antennára vonatkoztatott nyereség (Gv), amikor a vonatk
 
 59. felhasználói gazdálkodás: a frekvenciák és frekvenciasávok, az alkalmazott rádióberendezések használatának, valamint a működési terület – rádióengedélyben megadott feltételek melletti – a nem polgári célú frekvenciafelhasználó általi tervezése és a rádiórendszer ennek alapján történő üzemeltetése;
 
-60. felosztás: az elektronikus hírközlésről szóló 2003. évi C. törvény értelmező rendelkezéseiben meghatározott frekvenciafelosztás fogalommal azonos;
+60.[^19]
 
 61. fix állomás: a mozgószolgálat olyan állandó telephelyű állomása, amely sem átjátszó, sem egyéb központi feladatot nem lát el;
+
+61a.[^20] forgószárnyas légijármű: EASA CS-27 vagy CS-29 kategóriájú légijármű;
 
 62. földfelszíni állomás: földfelszíni rádiótávközlést biztosító állomás;
 
@@ -154,7 +160,7 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 70. frekvenciahasználat jellege: kizárólagos, megosztott vagy közös a kizárólagos használatú frekvenciára, a megosztott használatú frekvenciára és a közös használatú frekvenciára vonatkozó meghatározások szerint;
 
-71.[^14]
+71.[^21]
 
 72. frekvenciatűrés: a kijelölt frekvencia és az adás által elfoglalt frekvenciasáv sávközépi frekvenciája között, vagy az adás vonatkoztatási frekvenciája és jellemző frekvenciája között megengedhető – milliomod részekben vagy hertzben kifejezett – legnagyobb eltérés;
 
@@ -168,13 +174,13 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 77. gépjármű: olyan motorral hajtott, önállóan mozgásképes, legalább négykerekű, teljes, befejezett vagy nem teljes jármű, melynek legnagyobb tervezett sebessége meghaladja a 25 km/h-t, beleértve annak pótkocsiját, amely önálló hajtással nem rendelkező kerekes jármű, és amelyet arra terveztek, gyártottak, hogy gépjármű vontassa;
 
-78. GSM rendszer: elektronikus hírközlő hálózat, amely megfelel a GSM nemzeti szabványoknak, különösen az MSZ EN 301 502-nek és az MSZ EN 301 511-nek, vagy az azokkal egyenértékű előírásoknak;
+78.[^22] GSM rendszer: a nemzeti szabványokban, különösen az MSZ EN 301 502, az MSZ EN 301 511 és az MSZ EN 301 908-18 szabványban meghatározott elektronikus hírközlő hálózat, ideértve az EC-GSM-IoT-t is;
 
 79. gyűjtőállomás: az állandóhelyű szolgálat olyan központi állomása, amely csak vételre szolgál;
 
 80. hajóállomás: a tengeri mozgószolgálat nem állandó jelleggel kikötött hajó fedélzetén elhelyezett mozgóállomása, a mentőjármű állomás kivételével;
 
-81.[^15] hajó-bázisállomás: hajón elhelyezett olyan mobil pikocella, amely támogatja a GSM-, LTE- vagy UMTS-szolgáltatásokat;
+81.[^23] hajó-bázisállomás: hajón elhelyezett olyan mobil pikocella, amely támogatja a GSM-, LTE- vagy UMTS-szolgáltatásokat;
 
 82. hajó földi állomás: a műholdas tengeri mozgószolgálat hajó fedélzetén elhelyezett mozgó földi állomása;
 
@@ -182,13 +188,15 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 84. hajóvészadó: a hajó olyan adóállomása, amely kizárólag vészfrekvencián, vészjelzési, sürgősségi vagy biztonsági célokra használható;
 
-85. hallássegítő eszköz: rendszerint egy vagy több rádióadót, valamint egy vagy több rádióvevőt magában foglaló rádiótávközlő rendszer, amely lehetővé teszi a hallási fogyatékkal élők számára, hogy növeljék hallóképességüket;
+85.[^24] hallássegítő rendszer: hallássérültek által nyilvános helyen, különösen repülőtéren, vasútállomáson, templomban és színházban használt olyan rendszer, ahol az adókészülék hanganyag-közvetítő vagy nyilvános kihangosító rendszerhez kapcsolódik és a vevőkészüléket a hallássérült felhasználó viseli, vagy az be van építve a felhasználó hallókészülékébe;
 
 86. HAPS: olyan állomás, amely 20–50 km magasságban és a Földhöz képest meghatározott, állandó helyzetű névleges pontban lévő hordozón helyezkedik el;
 
-86a.[^16] harmonizált frekvenciahasználatú rádióalkalmazás: olyan rádióalkalmazás, amelyre vonatkozó rádióinterfész-előírások (beleértve a frekvenciafelosztást, a csatornaelrendezési tervet és a vonatkozó frekvenciagazdálkodási jellemzőket) az Európai Gazdasági Térségről szóló megállapodásban részes minden államban azonosak;
+86a.[^25] harmonizált frekvenciahasználatú rádióalkalmazás: olyan rádióalkalmazás, amelyre vonatkozóan európai uniós jogi aktus határozza meg a frekvenciahasználat feltételeit;
 
-87.[^17] hatósági frekvenciajegyzék: olyan, jegyzékben foglalt frekvenciakijelölési terv, amely az adott rádióalkalmazás tekintetében feladat- és hatáskörrel rendelkező államigazgatási szerv és a Hivatal közötti egyeztetés alapján készült, és amelyet a Hivatal az NMHH internetes honlapján tesz közzé;
+86b.[^26] harmonizált szabvány: a rádióberendezésekről szóló NMHH rendeletben meghatározott harmonizált szabvány;
+
+87.[^27] hatósági frekvenciajegyzék: olyan, jegyzékben foglalt frekvenciakijelölési terv, amely az adott rádióalkalmazás tekintetében feladat- és hatáskörrel rendelkező államigazgatási szerv és a Hivatal közötti egyeztetés alapján készült, és amelyet a Hivatal az NMHH internetes honlapján tesz közzé;
 
 88. HDFSS: a műholdas állandóhelyű szolgálat keretében működő olyan szélessávú rádióalkalmazás, amelyet megvalósító rendszeren belül kis antennamérettel rendelkező, nagyszámú nem koordinált földi állomás üzemel;
 
@@ -214,13 +222,15 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 99. induktív alkalmazás: a közeltéri kommunikációhoz az indukciós hurok rendszer mágneses terét felhasználó, különösen gépjármű-indításgátlás, állatazonosítás, riasztórendszerek, kábelérzékelés, hulladékkezelés, személyazonosítás, vezetéknélküli beszédátviteli összeköttetések, beléptető rendszerek, közelségérzékelők, lopásgátló rendszerek (beleértve a rádiófrekvenciás indukciós lopásgátló rendszereket is), kézi eszközökre történő adatátvitel, automatikus áruazonosítás, vezetéknélküli vezérlőrendszerek vagy automatikus útdíjbeszedés céljára használt rádióalkalmazás;
 
+99a.[^28] IoT: általában olyan, használati tárgyakba beépített eszközök interneten keresztüli összekapcsolása, mely eszközök lehetővé teszik a szóban forgó tárgyak közötti adatcserét;
+
 100. ISM alkalmazás: olyan készülékek vagy berendezések működtetése, melyeket ipari, tudományos, orvosi, háztartási vagy hasonló célra, a rádiófrekvenciás energia kis térben való előállítására és hasznosítására hoztak létre, ide nem értve a távközlés területén történő alkalmazásokat;
 
 101. ITS: a közúti közlekedési rendszerben alkalmazott rendszer és szolgáltatás, amely információs és kommunikációs technológiákra épül, beleértve a közúti közlekedési rendszerek által alkalmazott feldolgozást, vezérlést, helymeghatározást, kommunikációt és elektronikát;
 
 102. jellemző frekvencia: egy adott adás könnyen azonosítható és mérhető frekvenciája; a vivőfrekvencia megjelölhető ilyen frekvenciaként;
 
-102a.[^18] katonai frekvenciajegyzék: olyan, jegyzékben foglalt frekvenciakijelölési terv, amely az adott rádióalkalmazás tekintetében feladat- és hatáskörrel rendelkező államigazgatási szerv és a Hivatal közötti egyeztetés alapján készült;
+102a.[^29] katonai frekvenciajegyzék: olyan, jegyzékben foglalt frekvenciakijelölési terv, amely az adott rádióalkalmazás tekintetében feladat- és hatáskörrel rendelkező államigazgatási szerv és a Hivatal közötti egyeztetés alapján készült;
 
 103. keringési pálya: valamely meghatározott vonatkoztatási rendszerhez viszonyítva egy olyan műhold vagy más űrbeli tárgy súlypontja által leírt útvonal, amely túlnyomóan a természeti erők, főként a nehézségi erő hatásának van alárendelve;
 
@@ -236,9 +246,9 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 109. kis teljesítményű analóg FM-adó: a személyi használatú hangátviteli eszközök, különösen mobiltelefonok és a gépjárműbe szerelt vagy otthoni szórakoztatóelektronikai rendszerek összekapcsolására szolgáló rádióalkalmazás;
 
-110.[^19] kitöltési tényező: a megfigyelési frekvenciasávban a megfigyelési időtartamon belüli azon időtartamok összegének a megfigyelési időtartamhoz viszonyított, százalékban kifejezett aránya, amely időtartamok alatt a rádióberendezés ténylegesen adás üzemmódban van;
+110.[^30] kitöltési tényező: a megfigyelési frekvenciasávban a megfigyelési időtartamon belüli azon időtartamok összegének a megfigyelési időtartamhoz viszonyított, százalékban kifejezett aránya, amely időtartamok alatt a rádióberendezés ténylegesen adás üzemmódban van;
 
-111. kizárólag katonai használat: adott frekvenciasávba tartozó rádióalkalmazás használata csak a honvédség, valamint a NATO felhasználók által;
+111.[^31]
 
 112. kizárólagos használatú frekvencia: egyedi engedélyben megjelölt területen és időben, időbeli megosztás nélkül, a Hivatal által meghatározott zavarvédelemmel igénybe vehető frekvencia;
 
@@ -278,7 +288,7 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 130. LT2: emberek és tárgyak helyzetkövetésére szolgáló rendszer ipari környezetben;
 
-131.[^20] LTE rendszer: elektronikus hírközlő hálózat, amely megfelel az LTE nemzeti szabványoknak, különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-13-nak, az MSZ EN 301 908-14-nek és az MSZ EN 301 908-15-nek, vagy az azokkal egyenértékű előírásoknak;
+131.[^32]
 
 132. markeradó: a légi rádiónavigáció szolgálatban alkalmazott olyan adóállomás, amely függőleges nyalábot sugároz abból a célból, hogy a légijárművek részére helyzetjelölést adjon;
 
@@ -288,17 +298,17 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 135. maximális EIRP-sűrűség: a meghatározott tartomány bármely frekvenciáján tetszőleges irányban mért legmagasabb jelerősség;
 
-135a.[^21] MBANS: az egészségügyi intézményekben és a betegek otthonában történő felhasználásra szánt olyan kis teljesítményű, orvosi adatgyűjtésre szolgáló rádiórendszer, amelyet a betegek megfelelő engedéllyel rendelkező egészségügyi szakember által előírt megfigyelése, diagnosztizálása és kezelése céljából használnak nem hangalapú adatok orvostechnikai eszközöktől, illetve ilyen eszközökhöz való továbbításához;
+135a.[^33] MBANS: az egészségügyi intézményekben és a betegek otthonában történő felhasználásra szánt olyan kis teljesítményű, orvosi adatgyűjtésre szolgáló rádiórendszer, amelyet a betegek megfelelő engedéllyel rendelkező egészségügyi szakember által előírt megfigyelése, diagnosztizálása és kezelése céljából használnak nem hangalapú adatok orvostechnikai eszközöktől, illetve ilyen eszközökhöz való továbbításához;
 
 136. MCA-szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amelyet valamely vállalkozás bocsát a légiutasok rendelkezésére nyilvános elektronikus hírközlő hálózatok repülés közben, a földi mobilhálózatokkal való közvetlen kapcsolatteremtés nélkül történő igénybevételére;
 
-137.[^22] MCV-szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amelyet valamely vállalkozás nyújt a hajón levő személyek részére GSM, LTE vagy UMTS rendszert használó nyilvános elektronikus hírközlő hálózaton történő kommunikáció céljából, a földi mobilhálózatokkal való közvetlen kapcsolatteremtés nélkül;
+137.[^34] MCV-szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amelyet valamely vállalkozás nyújt a hajón levő személyek részére GSM, LTE vagy UMTS rendszert használó nyilvános elektronikus hírközlő hálózaton történő kommunikáció céljából, a földi mobilhálózatokkal való közvetlen kapcsolatteremtés nélkül;
 
-138.[^23] megengedhető zavarás: olyan megfigyelt vagy előre jelzett zavarás, amely eleget tesz az RR-ben, az ITU-R-ajánlásokban vagy az RR rendelkezéseinek megfelelően megkötött különmegállapodásokban foglalt kvantitatív zavarási és megosztási kritériumoknak;
+138.[^35] megengedhető zavarás: olyan megfigyelt vagy előre jelzett zavarás, amely eleget tesz az RR-ben, az ITU-R-ajánlásokban vagy az RR rendelkezéseinek megfelelően megkötött különmegállapodásokban foglalt kvantitatív zavarási és megosztási kritériumoknak;
 
-138a.[^24] megfigyelési frekvenciasáv: a kitöltési tényező meghatározásánál eltérő rendelkezés hiányában az adott működési frekvenciasáv;
+138a.[^36] megfigyelési frekvenciasáv: a kitöltési tényező meghatározásánál eltérő rendelkezés hiányában az adott működési frekvenciasáv;
 
-138b.[^25] megfigyelési időtartam: a kitöltési tényező meghatározásánál eltérő rendelkezés hiányában egy megszakítás nélküli, egy órán át tartó időszak;
+138b.[^37] megfigyelési időtartam: a kitöltési tényező meghatározásánál eltérő rendelkezés hiányában egy megszakítás nélküli, egy órán át tartó időszak;
 
 139. megosztott használatú frekvencia: egyedi engedély alapján legalább kettő engedélyes által azonos területen, de különböző időben, a Hivatal által meghatározott zavarvédelemmel igénybe vehető frekvencia;
 
@@ -309,6 +319,10 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 142. mentőjármű állomás: a tengeri mozgószolgálat vagy a légi mozgószolgálat mozgóállomása, amely kizárólag a szerencsétlenségek túlélőinek szükségleteit szolgálja, és amelyet mentőcsónakon, mentőtutajon vagy bármely egyéb mentőeszközön helyeznek el;
 
 143. mérőeszköz: olyan, kétirányú rádiótávközlő rendszer részét alkotó rádióberendezés, amely intelligens hálózati infrastruktúrákban – így különösen áram-, gáz- és vízszolgáltatásban – távfelügyeletet, mérést és adattovábbítást tesz lehetővé;
+
+143a.[^38] meteorológiai helyhez kötött állomás: a meteorológiát segítő szolgálat olyan állomása, amely nem helyváltoztatás alatti használatra szolgál;
+
+143b.[^39] meteorológiai mozgóállomás: a meteorológiát segítő szolgálat olyan állomása, amely helyváltoztatás vagy meghatározatlan helyen történő megállás alatti használatra szolgál;
 
 144. meteorológiát segítő szolgálat: meteorológiai, valamint hidrológiai megfigyelésekre és kutatásokra használt rádiótávközlési szolgálat;
 
@@ -392,17 +406,17 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 176. MWA rendszer: olyan rádiótávközlő rendszer, amely felhasználói állomásokból, valamint a felhasználói állomásokat az alaphálózathoz kapcsoló rendszerből áll, és amelyben mozgó felhasználói állomás is lehet;
 
-177.[^26]
+177.[^40]
 
-178.[^27] nagy kitöltési tényezőjű, folyamatos átvitelt megvalósító eszköz: alacsony késleltetési idejű és nagy kitöltési tényezőjű átvitelt megvalósító rádióberendezés, beleértve a vezetéknélküli audio- és multimédia-streaming alkalmazások rádióberendezéseit, a mobiltelefonokat, a gépjárműbe szerelt vagy otthoni szórakoztatóelektronikai rendszereket, a vezetéknélküli hangfalakat, a vezetéknélküli fejhallgatókat, a személyen viselt hordozható rádióberendezéseket, a hallássegítő eszközöket, a monitor-fülhallgatókat, valamint a kis teljesítményű analóg FM-adókat;
+178.[^41] nagy kitöltési tényezőjű, folyamatos átvitelt megvalósító eszköz: alacsony késleltetési idejű és nagy kitöltési tényezőjű átvitelt megvalósító rádióberendezés, beleértve a vezetéknélküli audio- és multimédia-streaming alkalmazások rádióberendezéseit, a mobiltelefonokat, a gépjárműbe szerelt vagy otthoni szórakoztatóelektronikai rendszereket, a vezetéknélküli hangfalakat, a vezetéknélküli fejhallgatókat, a személyen viselt hordozható rádióberendezéseket, az ALD-ket, a monitor-fülhallgatókat, valamint a kis teljesítményű analóg FM-adókat;
 
-179. NATO előírás: a NATO illetékes szerve által elfogadott, a NATO felhasználók érvényes frekvenciahasználatát szabályozó dokumentumok és a NATO Egységesítési Egyezményének vonatkozó előírásai;
+179.[^42]
 
 180. NATO felhasználó: NATO tagállam vagy az 1995. évi LXVII. törvényben kihirdetett Békepartnerségben részt vevő más állam katonai szervezete;
 
 181. NAVTEX: MSI keskenysávú távgépíróval történő adására és automatikus vételére szolgáló rendszer;
 
-182.[^28] NCU: a légijárműveken elhelyezett berendezés, amely a mozgóállomás vételi frekvenciasávjában a zajszint növelésével biztosítja, hogy a földi telepítésű elektronikus mobilhírközlő rendszerek – így különösen UMTS, GSM és LTE – által sugárzott jeleket ne lehessen venni a fedélzeten;
+182.[^43] NCU: a légijárműveken elhelyezett berendezés, amely a mozgóállomás vételi frekvenciasávjában a zajszint növelésével biztosítja, hogy a földi telepítésű elektronikus mobilhírközlő rendszerek – így különösen UMTS, GSM és LTE – által sugárzott jeleket ne lehessen venni a fedélzeten;
 
 183. nemkívánt sugárzás: a mellékhullám-sugárzás és a sávon kívüli adás által keltett sugárzások összessége;
 
@@ -420,7 +434,9 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 190. (OR) légi mozgószolgálat: elsődlegesen a nemzetközi és nemzeti polgári légiútvonalakon kívüli összeköttetések – beleértve a repülés koordinálásával kapcsolatosakat is – biztosítására szolgáló légi mozgószolgálat;
 
-190a.[^29] orvosi adatgyűjtés: a betegek egészségügyi intézményekben vagy otthonukban történő megfigyelése, diagnosztizálása és kezelése céljából a nem hangalapú adatoknak a nem beültethető orvostechnikai eszközöktől, illetve az ilyen eszközökhöz való továbbítása;
+190a.[^44] orvosi adatgyűjtés: a betegek egészségügyi intézményekben vagy otthonukban történő megfigyelése, diagnosztizálása és kezelése céljából a nem hangalapú adatoknak a nem beültethető orvostechnikai eszközöktől, illetve az ilyen eszközökhöz való továbbítása;
+
+190b.[^45] önálló IoT-alkalmazás: a vezetéknélküli szélessávú elektronikus hírközlési szolgáltatások nyújtásától független – ilyen, illetve GSM-szolgáltatás nyújtására nem használt csatornán megvalósított – IoT-alkalmazás;
 
 191. PAMR rendszer: kizárólag elektronikus hírközlési szolgáltatás céljából létesített, csoportkommunikációs igényeket kielégítő hálózat, amelyet üzleti és intézményi felhasználók vagy azok előre meghatározott felhasználói csoportjai számára terveztek úgy, hogy azokon belül nincs korlátozás a felhasználói csoportok számára, jellegére vagy típusára, és nem szükséges, hogy ezek kapcsolatban legyenek egymással;
 
@@ -434,13 +450,15 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 196. PMR rendszer: mozgószolgálat keretében vállalkozások és intézmények saját célra használt, esetleg részben más felhasználónak átengedett, zárt felhasználói csoport forgalmának lebonyolítására szolgáló rádiótávközlő rendszere;
 
-197.[^30] PMSE alkalmazás: a vezetéknélküli hangfrekvenciás PMSE berendezéssel megvalósított alkalmazás, valamint a videoátviteli PMSE alkalmazás;
+197.[^46] PMSE alkalmazás: a vezetéknélküli hangfrekvenciás PMSE berendezéssel megvalósított alkalmazás, valamint a videoátviteli PMSE alkalmazás;
+
+197a.[^47] polgárőr szervezet: a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvény szerinti polgárőr szervezet;
 
 198. pont-pont rendszer: az állandóhelyű szolgálat keretében működő olyan rádiótávközlő rendszer, amelyet két, egymással kizárólagos rádiókapcsolatban lévő állomás alkot;
 
 199. pont-többpont rendszer: az állandóhelyű szolgálat keretében működő olyan rádiótávközlő rendszer, amelyben a felhasználói állomások mindegyike a központi állomáshoz közvetlenül vagy átjátszóállomás közvetítésével kapcsolódik, és a felhasználói állomások között közvetlen rádiókapcsolat nincs;
 
-199a.[^31] PPDR rendszer: a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendeletben meghatározott EDR felhasználók és csatlakozó felhasználók által különösen közrendvédelmi, katasztrófavédelmi, honvédelmi és nemzetbiztonsági célból – ideértve a különleges jogrendben felmerülő szükségleteket is – használt rádiórendszer;
+199a.[^48] PPDR rendszer: a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendeletben meghatározott EDR felhasználók és csatlakozó felhasználók által különösen közrendvédelmi, katasztrófavédelmi, honvédelmi és nemzetbiztonsági célból – ideértve a különleges jogrendben felmerülő szükségleteket is – használt rádiórendszer;
 
 200. radar: olyan rádiómeghatározó rendszer, amely a referenciajeleknek a meghatározandó helyről visszaverődő vagy visszatovábbított rádiófrekvenciás jelekkel való összehasonlításán alapul;
 
@@ -496,7 +514,7 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 226. rádiótávközlés: rádióhullámok segítségével történő távközlés;
 
-227. rádiótávközlési szolgálat: olyan szolgálat, amely magában foglalja a rádióhullámok sajátos távközlési célokból történő továbbítását, adását vagy vételét; a fogalom magában foglalja a következő szolgálatokat: állandóhelyű szolgálat, amatőrszolgálat, belvízi mozgószolgálat, biztonsági szolgálat, földi mozgószolgálat, hajók mozgásával kapcsolatos szolgálat, hiteles frekvenciák és órajelek szolgálata, kikötői műveletek szolgálata, különleges szolgálat, légi mozgószolgálat, légi rádiónavigáció szolgálat, meteorológiát segítő szolgálat, mozgószolgálat, műholdak közötti szolgálat, műholdas állandóhelyű szolgálat, műholdas amatőrszolgálat, műholdas földi mozgószolgálat, műholdas Föld-kutató szolgálat, műholdas hiteles frekvenciák és órajelek szolgálata, műholdas légi mozgószolgálat, műholdas légi rádiónavigáció szolgálat, műholdas meteorológiai szolgálat, műholdas mozgószolgálat, műholdas műsorszóró szolgálat, műholdas (OR) légi mozgószolgálat, műholdas rádiólokáció szolgálat, műholdas rádiómeghatározó szolgálat, műholdas rádiónavigáció szolgálat, műholdas (R) légi mozgószolgálat, műholdas tengeri mozgószolgálat, műholdas tengeri rádiónavigáció szolgálat, műsorszóró szolgálat, (OR) légi mozgószolgálat, rádiólokáció szolgálat, rádiómeghatározó szolgálat, rádiónavigáció szolgálat, (R) légi mozgószolgálat, tengeri mozgószolgálat, tengeri rádiónavigáció szolgálat, űrbeli üzemeltetési szolgálat, űrkutatási szolgálat;
+227.[^49] rádiótávközlési szolgálat: olyan szolgálat, amely magában foglalja a rádióhullámok sajátos távközlési célokból történő továbbítását, adását vagy vételét; a fogalom magában foglalja a következő szolgálatokat: állandóhelyű szolgálat, amatőrszolgálat, belvízi mozgószolgálat, biztonsági szolgálat, földi mozgószolgálat, hajók mozgásával kapcsolatos szolgálat, hiteles frekvenciák és órajelek szolgálata, kikötői műveletek szolgálata, különleges szolgálat, légi mozgószolgálat, légi rádiónavigáció szolgálat, meteorológiát segítő szolgálat, mozgószolgálat, műholdas szolgálatok (beleértve: műholdak közötti szolgálat, műholdas állandóhelyű szolgálat, műholdas amatőrszolgálat, műholdas földi mozgószolgálat, műholdas Föld-kutató szolgálat, műholdas hiteles frekvenciák és órajelek szolgálata, műholdas légi mozgószolgálat, műholdas légi rádiónavigáció szolgálat, műholdas meteorológiai szolgálat, műholdas mozgószolgálat, műholdas műsorszóró szolgálat, műholdas (OR) légi mozgószolgálat, műholdas rádiólokáció szolgálat, műholdas rádiómeghatározó szolgálat, műholdas rádiónavigáció szolgálat, műholdas (R) légi mozgószolgálat, műholdas tengeri mozgószolgálat, műholdas tengeri rádiónavigáció szolgálat), műsorszóró szolgálat, (OR) légi mozgószolgálat, rádiólokáció szolgálat, rádiómeghatározó szolgálat, rádiónavigáció szolgálat, (R) légi mozgószolgálat, tengeri mozgószolgálat, tengeri rádiónavigáció szolgálat, űrbeli üzemeltetési szolgálat, űrkutatási szolgálat;
 
 228. rádiótávközlő rendszer: együttműködő adó- vagy vevőállomások, vagy adó- és vevőállomások meghatározott célú rádiótávközlésre szolgáló csoportja;
 
@@ -506,7 +524,7 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 231. RFID alkalmazás: címkén és címkeolvasón alapuló olyan rádiótávközlő rendszerrel megvalósított rádióalkalmazás, amely élőlényhez vagy tárgyhoz rögzített rádióberendezésből (címke), valamint a címkét aktiváló és abból adatokat kiolvasó adóvevő egységből (címkeolvasó) áll; jellemző felhasználási területek: árucikkek nyomon követése és azonosítása, így különösen az EAS keretében, továbbá az – elem nélküli, elemes rásegítésű vagy elemmel működő – címkével ellátott árucikkekkel kapcsolatos adatok gyűjtése és továbbítása; a címkeolvasó ellenőrzi a címkétől kapott információt, majd továbbítja a központi számítógépnek;
 
-232.[^32] riasztó: olyan rádiótávközlő rendszer – beleértve a szociális segélykérő rendszereket, valamint a személy- és vagyonbiztonságot szolgáló riasztókat is –, amelynek az a fő funkciója, hogy probléma vagy meghatározott esemény bekövetkezésekor rádiótávközlés útján távoli helyszínről egy rendszernek vagy egy személynek riasztást adjon;
+232.[^50] riasztó: olyan rádiótávközlő rendszer – beleértve a szociális segélykérő rendszereket, valamint a személy- és vagyonbiztonságot szolgáló riasztókat is –, amelynek az a fő funkciója, hogy probléma vagy meghatározott esemény bekövetkezésekor rádiótávközlés útján távoli helyszínről egy rendszernek vagy egy személynek riasztást adjon;
 
 233. (R) légi mozgószolgálat: elsődlegesen a nemzetközi és nemzeti polgári légiútvonalak mentén a légijáratok biztonságával és rendszerességével kapcsolatos összeköttetésekre fenntartott légi mozgószolgálat;
 
@@ -516,9 +534,9 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 236. sávon kívüli tartomány: egy adásnál közvetlenül a szükséges sávszélességen kívül eső, de a mellékhullám-tartományt nem tartalmazó frekvenciatartomány, ahol a sávon kívüli adások rendszerint túlsúlyban vannak; az eredetük alapján definiált sávon kívüli adások a sávon kívüli tartományban és kisebb mértékben a mellékhullám-tartományban fordulnak elő; a mellékhullám-sugárzások is előfordulhatnak a sávon kívüli tartományban, valamint a mellékhullám-tartományban;
 
-237.[^33] SNG: olyan nem koordinált földi állomás, amely geostacionárius keringési pályán lévő műhold felé irányuló rádió- és televízióhíranyag-, továbbá rádió- és televízióműsor-átvitelt valósít meg;
+237.[^51] SNG: olyan nem koordinált földi állomás, amely geostacionárius keringési pályán lévő műhold felé irányuló rádió- és televízióhíranyag-, továbbá rádió- és televízióműsor-átvitelt valósít meg;
 
-237a.[^34] spektrumgazdálkodási alapvető követelmény: a rádióberendezés kialakítására vonatkozó azon alapvető követelmény, hogy a rádióberendezés a káros zavarás elkerülése mellett biztosítsa a rádióspektrum eredményes és hatékony használatát;
+237a.[^52] spektrumgazdálkodási alapvető követelmény: a rádióberendezés kialakítására vonatkozó azon alapvető követelmény, hogy a rádióberendezés a káros zavarás elkerülése mellett biztosítsa a rádióspektrum eredményes és hatékony használatát;
 
 238. SRD: olyan kis távolság áthidalására szolgáló kis teljesítményű rádióadó, amellyel egy- vagy kétirányú információátvitel valósítható meg, és amely kis valószínűséggel okoz zavarást más rádióberendezésnek;
 
@@ -530,7 +548,7 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 242. szélesebb sávú rendszer: 25 kHz-nél nagyobb csatornaosztást használó rádiótávközlő rendszer vagy az olyan technológiát használó rádiótávközlő rendszer, amely 25 kHz-nél nagyobb csatornaosztást is tud támogatni;
 
-243.[^35] szélessávú adatátviteli alkalmazás: a rádióspektrumhoz való hozzáféréshez szélessávú modulációs technikát alkalmazó rádióalkalmazás, amelynek jellemző felhasználási területe a WAS/RLAN rendszer és az adathálózatokban használt szélessávú SRD-k;
+243.[^53] szélessávú adatátviteli alkalmazás: a rádióspektrumhoz való hozzáféréshez szélessávú modulációs technikát alkalmazó rádióalkalmazás, amelynek jellemző felhasználási területe a WAS/RLAN rendszer és az adathálózatokban használt szélessávú SRD-k;
 
 244. személyhívó rendszer: rádiótávközlő rendszer, amely meghatározott, címzett üzenetek közvetítését teszi lehetővé, változó helyű frekvenciafelhasználók számára;
 
@@ -552,6 +570,8 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 253. távmérés: a távközlés felhasználása méréseknek a mérőműszertől bizonyos távolságra történő automatikus jelzése vagy rögzítése céljából;
 
+253a.[^54] távmérő és távvezérlő rendszer: olyan rendszer, beleértve a földi, légi és vízi személyzet nélküli rendszereket is, amelyen belül rádiófrekvenciás csatornák állnak rendelkezésre távmérésre, távvezérlésre és kétirányú információtovábbításra;
+
 254. távoli űr: az űr azon része, amelynek a Földtől mért távolsága nagyobb vagy egyenlő 2Ű106 kilométernél;
 
 255. távvezérlés: a távközlés felhasználása egy berendezés működésének bizonyos távolságból történő beindítására, megváltoztatására vagy beszüntetésére szolgáló jelek továbbítása céljából;
@@ -562,7 +582,7 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 258. TLPR: egy valamilyen anyag tárolására szolgáló tartályban lévő anyag szintjének meghatározására használt speciális rádiómeghatározó alkalmazás, amelyet fémből vagy vasbetonból készült tartályba vagy azzal összemérhető rádiófrekvenciás csillapító tulajdonsággal rendelkező anyagból készült hasonló létesítménybe telepítenek;
 
-258a.[^36] további alapvető követelmény: a rádióberendezésekről szóló NMHH rendeletben meghatározott további alapvető követelmény;
+258a.[^55] további alapvető követelmény: a rádióberendezésekről szóló NMHH rendeletben meghatározott további alapvető követelmény;
 
 259. több-műholdas összeköttetés: rádió-összeköttetés egy adó földi állomás és egy vevő földi állomás között legalább két műhold segítségével, közbeiktatott földi állomás nélkül; egy több-műholdas összeköttetés egy felszálló összeköttetésből, egy vagy több műholdak közötti összeköttetésből és egy leszálló összeköttetésből áll;
 
@@ -572,9 +592,9 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 262. TTT alkalmazás: (a vonatkozó műszaki korlátozások függvényében közúti, vasúti, vízi vagy légi) közlekedésben, forgalomirányításban, navigációban, mobilitáskezelésben és ITS-ben használt olyan rádiótávközlő rendszerrel megvalósított rádióalkalmazás, amely jellemzően különböző szállítási módok közötti kapcsolódási pontok, járművek közötti (különösen gépkocsi–gépkocsi) összeköttetés, járművek és rögzített pontok közötti (különösen gépkocsi–infrastruktúra) összeköttetés, valamint a frekvenciafelhasználókkal folytatott kétirányú összeköttetés céljára szolgál;
 
-263.[^37] UMTS rendszer: elektronikus hírközlő hálózat, amely megfelel az UMTS nemzeti szabványoknak, különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-2-nek, az MSZ EN 301 908-3-nak és az MSZ EN 301 908-11-nek, vagy az azokkal egyenértékű előírásoknak;
+263.[^56] UMTS rendszer: a nemzeti szabványokban, különösen az MSZ EN 301 908-1, az MSZ EN 301 908-2, az MSZ EN 301 908-3 és az MSZ EN 301 908-11 szabványban meghatározott elektronikus hírközlő hálózat;
 
-264.[^38] UTC: az ITU-R TF.460-6 Ajánlásban meghatározott, másodpercen (SI) alapuló időskála; az RR-hez kapcsolódó gyakorlati alkalmazások nagy részében az UTC idő azonos a korábban GMT-ben kifejezett, a kezdő délkörre (0 hosszúsági fok) vonatkoztatott közepes napidővel;
+264.[^57] UTC: az RR 655. (WRC-15) Határozatban leírt, másodpercen (SI) alapuló időskála;
 
 265. UWB alkalmazás: UWB technológiát használó berendezésekkel megvalósított alkalmazás;
 
@@ -602,19 +622,21 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 277. változó telephelyű állomás: olyan állomás, amely helyváltoztatásra alkalmas, de csak telepített helyzetben üzemelhet;
 
-278. vasúti jármű: a vasúti közlekedés statisztikájáról szóló 2002. december 16-i 91/2003/EK európai parlamenti és tanácsi rendelet szerinti jármű;
+278.[^58] vasúti jármű: a vasúti közlekedés statisztikájáról szóló, 2002. december 16-i 91/2003/EK európai parlamenti és tanácsi rendelet szerinti jármű;
+
+278a.[^59] védősávi IoT-alkalmazás: a vezetéknélküli szélessávú elektronikus hírközlési szolgáltatások nyújtására használt névleges csatornán belül, annak szélén – a csatornán belüli erőforrások által nem használt részen – megvalósított IoT-alkalmazás;
 
 279. végfelhasználói állomás: olyan felhasználói állomás, amely az elektronikus átvitel végpontját képezi;
 
 280. versenyeztetési eljárás: frekvenciahasználati jogosultság elosztására irányuló árverési vagy pályázati eljárás;
 
-281.[^39] vezetéknélküli audio- és multimédia-streaming alkalmazás: kombinált hang- vagy képátvitelre és audio- vagy videoszinkronizációs jelek átvitelére szolgáló, magánhasználatú, vezetéknélküli, folyamatos adatátvitelt biztosító audio- és multimédiás rendszerrel megvalósított rádióalkalmazás;
+281.[^60] vezetéknélküli audio- és multimédia-streaming alkalmazás: kombinált hang- vagy képátvitelre és audio- vagy videoszinkronizációs jelek átvitelére szolgáló, magánhasználatú, vezetéknélküli, folyamatos adatátvitelt biztosító audio- és multimédiás rendszerrel megvalósított rádióalkalmazás;
 
 282. vezetéknélküli hangfrekvenciás PMSE berendezés: analóg vagy digitális hangfrekvenciás jelek korlátozott számú adó- és vevőegység közötti továbbítására szolgáló rádióberendezés, különösen rádiómikrofon, monitorfülhallgató-rendszer és hangátviteli összeköttetés, amelyet főként sugárzott műsorok készítéséhez, illetve magánjellegű vagy nyilvános társadalmi vagy kulturális események során használnak;
 
-282a.[^40] videoátviteli PMSE alkalmazás: a műsorgyártáshoz és különleges eseményekhez használt zsinórnélküli kamerák, valamint hordozható és mobil vezetéknélküli videoátviteli összeköttetések;
+282a.[^61] videoátviteli PMSE alkalmazás: a műsorgyártáshoz és különleges eseményekhez használt zsinórnélküli kamerák, valamint hordozható és mobil vezetéknélküli videoátviteli összeköttetések;
 
-283.[^41] vivőteljesítmény: egy rádió-adóberendezésnél annak a teljesítménynek az átlaga, amelyet az adóberendezés moduláció nélküli esetben egy rádiófrekvenciás periódus alatt az antennatápvonalra juttat;
+283.[^62] vivőteljesítmény: egy rádió-adóberendezésnél annak a teljesítménynek az átlaga, amelyet az adóberendezés moduláció nélküli esetben egy rádiófrekvenciás periódus alatt az antennatápvonalra juttat;
 
 284. vonatkoztatási frekvencia: olyan frekvencia, amelynek állandó és pontosan meghatározott helyzete van a kijelölt frekvenciához viszonyítva; ennek a frekvenciának a kijelölt frekvenciához viszonyított eltérése ugyanolyan abszolút értékű és előjelű, mint a jellemző frekvenciának az adás által elfoglalt frekvenciasáv közepéhez viszonyított eltérése;
 
@@ -622,49 +644,69 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 
 286. WAS: szélessávú rádiótávközlő rendszer, amely tekintet nélkül a hálózat topológiájára, vezetéknélküli hozzáférést biztosít nyilvános és magáncélú alkalmazások számára;
 
-287.[^42] WiMAX rendszer: az állandóhelyű szolgálatban olyan pont-többpont rendszer, valamint a mozgószolgálatban olyan mozgó rádiótávközlő rendszer, amelynek berendezései a WiMAX Fórum által kiadott WiMAX-típustanúsítvánnyal rendelkeznek; a 880–915/925–960 MHz és az 1710–1785/1805–1880 MHz sávban a WiMAX nemzeti szabványoknak, ezen belül különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-21-nek és az MSZ EN 301 908-22-nek megfelelő elektronikus hírközlő hálózat is WiMAX rendszernek minősül;
+287.[^63] WiMAX rendszer: az állandóhelyű szolgálatban olyan pont-többpont rendszer, valamint a mozgószolgálatban olyan mozgó rádiótávközlő rendszer, amelynek berendezései a WiMAX Fórum által kiadott WiMAX-típustanúsítvánnyal rendelkeznek;
 
 288. zavarás: adás, sugárzás vagy indukció, illetve ezek valamely kombinációja következtében fellépő nem kívánt energiának egy rádiótávközlő rendszerben a vételre gyakorolt hatása, amely az átvitel minőségének olyan romlásában, az információ olyan torzulásában vagy veszteségében jelentkezik, ami elkerülhető lett volna ezen nem kívánt energia megjelenése nélkül.
 
 (2) Az e rendeletben alkalmazott egyéb frekvenciagazdálkodási fogalmakat az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) szerint kell értelmezni.
 
-[^3]: A 2. § (1) bekezdés 1–3. pontját az 1/2018. (V. 29.) NMHH rendelet 6. § a) pontja hatályon kívül helyezte.
-[^4]: A 2. § (1) bekezdés 6a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (1) bekezdése iktatta be.
-[^5]: A 2. § (1) bekezdés 6b. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (1) bekezdése iktatta be.
-[^6]: A 2. § (1) bekezdés 9a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (1) bekezdése iktatta be.
-[^7]: A 2. § (1) bekezdés 13. pontját az 1/2018. (V. 29.) NMHH rendelet 6. § a) pontja hatályon kívül helyezte.
-[^8]: A 2. § (1) bekezdés 14. pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^9]: A 2. § (1) bekezdés 24. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^10]: A 2. § (1) bekezdés 25. pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés b) pontja, az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
-[^11]: A 2. § (1) bekezdés 42. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^12]: A 2. § (1) bekezdés 50. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^13]: A 2. § (1) bekezdés 54. pontja a 11/2017. (IX. 25.) NMHH rendelet 5. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^14]: A 2. § (1) bekezdés 71. pontját a 8/2017. (VII. 28.) NMHH rendelet 22. § a) pontja hatályon kívül helyezte.
-[^15]: A 2. § (1) bekezdés 81. pontja a 11/2017. (IX. 25.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^16]: A 2. § (1) bekezdés 86a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (2) bekezdése iktatta be.
-[^17]: A 2. § (1) bekezdés 87. pontja a 8/2017. (VII. 28.) NMHH rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^18]: A 2. § (1) bekezdés 102a. pontját a 8/2017. (VII. 28.) NMHH rendelet 17. § (2) bekezdése iktatta be.
-[^19]: A 2. § (1) bekezdés 110. pontja az 1/2018. (V. 29.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^20]: A 2. § (1) bekezdés 131. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^21]: A 2. § (1) bekezdés 135a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (3) bekezdése iktatta be.
-[^22]: A 2. § (1) bekezdés 137. pontja a 11/2017. (IX. 25.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^23]: A 2. § (1) bekezdés 138. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^24]: A 2. § (1) bekezdés 138a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (4) bekezdése iktatta be.
-[^25]: A 2. § (1) bekezdés 138b. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (4) bekezdése iktatta be.
-[^26]: A 2. § (1) bekezdés 177. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés a) pontja hatályon kívül helyezte.
-[^27]: A 2. § (1) bekezdés 178. pontja az 1/2018. (V. 29.) NMHH rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^28]: A 2. § (1) bekezdés 182. pontja a 11/2017. (IX. 25.) NMHH rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^29]: A 2. § (1) bekezdés 190a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (6) bekezdése iktatta be.
-[^30]: A 2. § (1) bekezdés 197. pontja a 8/2017. (VII. 28.) NMHH rendelet 17. § (3) bekezdésével megállapított, az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
-[^31]: A 2. § (1) bekezdés 199a. pontját a 11/2017. (IX. 25.) NMHH rendelet 1. § (3) bekezdése iktatta be.
-[^32]: A 2. § (1) bekezdés 232. pontja az 1/2018. (V. 29.) NMHH rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^33]: A 2. § (1) bekezdés 237. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^34]: A 2. § (1) bekezdés 237a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (3) bekezdése iktatta be.
-[^35]: A 2. § (1) bekezdés 243. pontja az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
-[^36]: A 2. § (1) bekezdés 258a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (4) bekezdése iktatta be.
-[^37]: A 2. § (1) bekezdés 263. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^38]: A 2. § (1) bekezdés 264. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^39]: A 2. § (1) bekezdés 281. pontja az 1/2018. (V. 29.) NMHH rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^40]: A 2. § (1) bekezdés 282a. pontját a 8/2017. (VII. 28.) NMHH rendelet 17. § (4) bekezdése iktatta be, szövege az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
-[^41]: A 2. § (1) bekezdés 283. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^42]: A 2. § (1) bekezdés 287. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 1–3. pontját az 1/2018. (V. 29.) NMHH rendelet 6. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (1) bekezdés 6a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdés 6b. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (1) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés 9a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (1) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 9b. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (1) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés 13. pontját az 1/2018. (V. 29.) NMHH rendelet 6. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (1) bekezdés 14. pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés a) pontja, az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^11]: A 2. § (1) bekezdés 24. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés 25. pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés b) pontja, az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés 37. pontját az 1/2019. (I. 22.) NMHH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^14]: A 2. § (1) bekezdés 38a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (2) bekezdése iktatta be.
+[^15]: A 2. § (1) bekezdés 42. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^16]: A 2. § (1) bekezdés 50. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^17]: A 2. § (1) bekezdés 52. pontját az 1/2019. (I. 22.) NMHH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^18]: A 2. § (1) bekezdés 54. pontja a 11/2017. (IX. 25.) NMHH rendelet 5. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^19]: A 2. § (1) bekezdés 60. pontját az 1/2019. (I. 22.) NMHH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^20]: A 2. § (1) bekezdés 61a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (3) bekezdése iktatta be.
+[^21]: A 2. § (1) bekezdés 71. pontját a 8/2017. (VII. 28.) NMHH rendelet 22. § a) pontja hatályon kívül helyezte.
+[^22]: A 2. § (1) bekezdés 78. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^23]: A 2. § (1) bekezdés 81. pontja a 11/2017. (IX. 25.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^24]: A 2. § (1) bekezdés 85. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^25]: A 2. § (1) bekezdés 86a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (2) bekezdése iktatta be, szövege az 1/2019. (I. 22.) NMHH rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^26]: A 2. § (1) bekezdés 86b. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (6) bekezdése iktatta be.
+[^27]: A 2. § (1) bekezdés 87. pontja a 8/2017. (VII. 28.) NMHH rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^28]: A 2. § (1) bekezdés 99a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (7) bekezdése iktatta be.
+[^29]: A 2. § (1) bekezdés 102a. pontját a 8/2017. (VII. 28.) NMHH rendelet 17. § (2) bekezdése iktatta be.
+[^30]: A 2. § (1) bekezdés 110. pontja az 1/2018. (V. 29.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^31]: A 2. § (1) bekezdés 111. pontját az 1/2019. (I. 22.) NMHH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^32]: A 2. § (1) bekezdés 131. pontját az 1/2019. (I. 22.) NMHH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^33]: A 2. § (1) bekezdés 135a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (3) bekezdése iktatta be.
+[^34]: A 2. § (1) bekezdés 137. pontja a 11/2017. (IX. 25.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^35]: A 2. § (1) bekezdés 138. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^36]: A 2. § (1) bekezdés 138a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (4) bekezdése iktatta be.
+[^37]: A 2. § (1) bekezdés 138b. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (4) bekezdése iktatta be.
+[^38]: A 2. § (1) bekezdés 143a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (8) bekezdése iktatta be.
+[^39]: A 2. § (1) bekezdés 143b. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (8) bekezdése iktatta be.
+[^40]: A 2. § (1) bekezdés 177. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (8) bekezdés a) pontja hatályon kívül helyezte.
+[^41]: A 2. § (1) bekezdés 178. pontja az 1/2018. (V. 29.) NMHH rendelet 1. § (5) bekezdésével megállapított, az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
+[^42]: A 2. § (1) bekezdés 179. pontját az 1/2019. (I. 22.) NMHH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^43]: A 2. § (1) bekezdés 182. pontja a 11/2017. (IX. 25.) NMHH rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^44]: A 2. § (1) bekezdés 190a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (6) bekezdése iktatta be.
+[^45]: A 2. § (1) bekezdés 190b. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (9) bekezdése iktatta be.
+[^46]: A 2. § (1) bekezdés 197. pontja a 8/2017. (VII. 28.) NMHH rendelet 17. § (3) bekezdésével megállapított, az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^47]: A 2. § (1) bekezdés 197a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (10) bekezdése iktatta be.
+[^48]: A 2. § (1) bekezdés 199a. pontját a 11/2017. (IX. 25.) NMHH rendelet 1. § (3) bekezdése iktatta be.
+[^49]: A 2. § (1) bekezdés 227. pontja az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^50]: A 2. § (1) bekezdés 232. pontja az 1/2018. (V. 29.) NMHH rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^51]: A 2. § (1) bekezdés 237. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^52]: A 2. § (1) bekezdés 237a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (3) bekezdése iktatta be.
+[^53]: A 2. § (1) bekezdés 243. pontja az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
+[^54]: A 2. § (1) bekezdés 253a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (11) bekezdése iktatta be.
+[^55]: A 2. § (1) bekezdés 258a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (4) bekezdése iktatta be.
+[^56]: A 2. § (1) bekezdés 263. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^57]: A 2. § (1) bekezdés 264. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (12) bekezdésével megállapított szöveg.
+[^58]: A 2. § (1) bekezdés 278. pontja az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés a) pont ad) alpontja szerint módosított szöveg.
+[^59]: A 2. § (1) bekezdés 278a. pontját az 1/2019. (I. 22.) NMHH rendelet 2. § (13) bekezdésével megállapított szöveg.
+[^60]: A 2. § (1) bekezdés 281. pontja az 1/2018. (V. 29.) NMHH rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^61]: A 2. § (1) bekezdés 282a. pontját a 8/2017. (VII. 28.) NMHH rendelet 17. § (4) bekezdése iktatta be, szövege az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^62]: A 2. § (1) bekezdés 283. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^63]: A 2. § (1) bekezdés 287. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (14) bekezdésével megállapított szöveg.

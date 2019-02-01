@@ -1,6 +1,6 @@
-## 14. §[^64] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+## 14. §[^129] E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-## 15. §[^65] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2. és 3. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti frekvenciafelosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
+## 15. §[^130] Ez a rendelet a 7. § (6) bekezdésében, valamint a 2., 3. és 6. mellékletben hivatkozott ERC- és ECC-határozatokon kívül a nemzeti felosztás, illetve a frekvenciasávok felhasználási szabályai tekintetében az alábbi határozatok végrehajtását is szolgálja:
 
 1. ERC/DEC/(96)06: az ERC 1996. március 7-i határozata a „Határozat a digitális kis hatókörzetű rádió (DSRR) összehangolt bevezetéséhez kijelölendő frekvenciasávokról” című (93)01 ERC-határozat visszavonásáról;
 
@@ -18,7 +18,7 @@
 
 8. ECC/DEC/(03)03: az ECC 2003. október 17-i határozata a „Határozat a repülőgépes földfelszíni távközlő rendszerre vonatkozó Schiever Terv kezeléséről” című (97)08 ERC-határozat visszavonásáról;
 
-9. ECC/DEC/(03)05: az ECC 2003. október 17-i határozata a frekvenciasávok nemzeti felosztási és felhasználási táblázatainak közzétételéről;
+9. ECC/DEC/(03)05: a frekvenciasávok nemzeti felosztási és felhasználási táblázatainak (NTFA-k) közzététele;
 
 10. ECC/DEC/(03)06: az ECC 2003. október 17-i határozata a „Határozat a frekvenciasávok nemzeti felosztási táblázatainak közzétételéről” című (97)01 ERC-határozat visszavonásáról;
 
@@ -26,7 +26,7 @@
 
 12. ECC/DEC/(05)03: az ECC 2005. március 18-i határozata a „Határozat az európai rádiós személyhívó rendszer (ERMES) összehangolt bevezetéséhez kijelölendő frekvenciasávról” című ERC/DEC/(94)02 Határozat visszavonásáról;
 
-13. ECC/DEC/(06)10: az ECC 2006. december 1-jei határozata az 1980–2010 MHz és a 2170–2200 MHz sávú állandóhelyű szolgálati és harcászati rádiórelé rendszerekre vonatkozó, a műholdas mozgószolgálati rendszerek – beleértve a kiegészítő földfelszíni komponenssel kiegészítetteket is – harmonizált bevezetésének és fejlesztésének elősegítését szolgáló átmeneti rendelkezésekről;
+13. ECC/DEC/(06)10: az 1980–2010 MHz és a 2170–2200 MHz sávú állandóhelyű szolgálati és harcászati rádiórelé rendszerekre vonatkozó, a műholdas mozgószolgálati rendszerek – beleértve a kiegészítő földfelszíni komponenssel kiegészítetteket is – harmonizált bevezetésének és fejlesztésének elősegítését szolgáló átmeneti rendelkezések;
 
 14. ECC/DEC/(08)02: az ECC 2008. március 14-i határozata az ERC/DEC/(97)06, ERC/DEC/(01)01, ERC/DEC/(01)05, ERC/DEC/(01)06, ERC/DEC/(01)14 és az ERC/DEC/(01)21 Határozat visszavonásáról;
 
@@ -36,16 +36,17 @@
 
 17. ECC/DEC/(08)07: az ECC 2008. június 27-i határozata az ERC/DEC/(98)03, ERC/DEC/(98)17, ERC/DEC/(98)18 és az ERC/DEC/(98)24 ERC-határozat visszavonásáról;
 
-18.[^66] ECC/DEC/(08)08: az ECC 2016. március 4-i határozata a 900 MHz-es és az 1800 MHz-es sávban működő GSM rendszerek, a 2 GHz-es sávban működő UMTS rendszerek és az 1800 MHz-es és a 2,6 GHz-es sávban működő LTE rendszerek hajók fedélzetén történő harmonizált használatáról;
+18. ECC/DEC/(09)05: az ECC 2009. október 30-i határozata az ERC/DEC/(96)04, ECC/DEC/(04)01 és az ECC/DEC/(04)02 ERC/ECC-határozat visszavonásáról;
 
-19. ECC/DEC/(09)05: az ECC 2009. október 30-i határozata az ERC/DEC/(96)04, ECC/DEC/(04)01 és az ECC/DEC/(04)02 ERC/ECC-határozat visszavonásáról;
+19. ECC/DEC/(11)05: az ERC/DEC/(01)02, ERC/DEC/(01)03, ERC/DEC/(01)07, ERC/DEC/(01)10 és az ERC/DEC/(01)16 ERC-határozat visszavonása;
 
-20. ECC/DEC/(11)05: az ERC/DEC/(01)02, ERC/DEC/(01)03, ERC/DEC/(01)07, ERC/DEC/(01)10 és az ERC/DEC/(01)16 ERC-határozat visszavonása;
+20. ECC/DEC/(13)02: ECC-határozat a (03)02 ECC-határozat visszavonásáról;
 
-21. ECC/DEC/(13)02: ECC-határozat a (03)02 ECC-határozat visszavonásáról;
+21. ECC/DEC/(14)01: ECC-határozat a (02)07 ECC-határozat visszavonásáról;
 
-22. ECC/DEC/(14)01: ECC-határozat a (02)07 ECC-határozat visszavonásáról.
+22. ECC/DEC/(16)03: ECC-határozat a (99)17 ERC-határozat visszavonásáról;
 
-[^64]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
-[^65]: A 15. § nyitó szövegrésze a 2/2016. (II. 26.) NMHH rendelet 37. § (2) bekezdése szerint módosított szöveg.
-[^66]: A 15. § 18. pontja a 11/2017. (IX. 25.) NMHH rendelet 3. §-ával megállapított, az 1/2018. (V. 29.) NMHH rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
+23. ECC/DEC/(17)03: ECC-határozat az „Az Euteltracs rendszer Omnitracs végberendezéseinek az egyedi engedélyezés alóli mentesítéséről” című ERC/DEC/(98)15 Határozat visszavonásáról.
+
+[^129]: A 14. § a 8/2017. (VII. 28.) NMHH rendelet 19. §-ával megállapított szöveg.
+[^130]: A 15. § az 1/2019. (I. 22.) NMHH rendelet 5. §-ával megállapított szöveg.

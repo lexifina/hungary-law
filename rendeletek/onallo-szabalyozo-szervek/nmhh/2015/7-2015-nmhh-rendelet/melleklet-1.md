@@ -1,6 +1,6 @@
-## 16. §[^67]
+## 16. §[^131]
 
-1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^68]
+1. melléklet a 7/2015. (XI. 13.) NMHH rendelethez[^132]
 
 ## Nemzetközi felosztás
 
@@ -10,13 +10,13 @@
 
 1.2. Az ITU tagállamainak Meghatalmazotti Értekezlete által összehívott Rádiótávközlési Világértekezletek keretében az érintett államok együttműködésével határoznak a rádióspektrum felosztásáról, a rádiószolgálatok sávhatárairól. A három Körzet földrajzi határait az alábbi ábra mutatja.
 
-2. A nemzetközi frekvenciafelosztási táblázat
+2. A nemzetközi felosztási táblázat
 
 2.1. Általános leírás
 
-2.1.1. A 2.2. pontban foglalt táblázat A-C oszlopa az RR alapján közzéteszi az 1. pont szerinti Körzetekre érvényes felosztást. Ennek keretében meghatározza a felosztott rádiószolgálatokat szolgálati kategóriáiknak megfelelően frekvenciasávonként, valamint a frekvenciafelhasználás feltételeit – különösen a helyettesítő és a járulékos felosztást, az eltérő szolgálati kategóriát, a korlátozásokat, a műszaki követelményeket, az eljárási és rádióforgalmazási szabályokat – tartalmazó lábjegyzetek hivatkozási sorszámait. A lábjegyzeteket – az RR szerinti számozással megegyezően, 5.53 sorszámtól kezdődően – a 3. pont tartalmazza.
+2.1.1. A 2.2. pontban foglalt táblázat A−C oszlopa az RR alapján közzéteszi az 1. pont szerinti Körzetekre érvényes felosztást. Ennek keretében meghatározza a felosztott rádiószolgálatokat szolgálati kategóriáiknak megfelelően frekvenciasávonként, valamint a frekvenciafelhasználás feltételeit – különösen a helyettesítő és a járulékos felosztást, az eltérő szolgálati kategóriát, a korlátozásokat, a műszaki követelményeket, az eljárási és rádióforgalmazási szabályokat – tartalmazó lábjegyzetek hivatkozási számait. A lábjegyzetek hivatkozási számát – az RR szerinti számozással megegyezően, 5.53-tól kezdődően –, valamint szövegét a 3. pont tartalmazza.
 
-2.1.2. A táblázat D oszlopa meghatározza a Magyarország számára felosztott rádiószolgálatokat szolgálati kategóriáiknak megfelelően, valamint a magyarországi frekvenciafelhasználásra vonatkozó, lábjegyzetekben foglalt feltételeket az RR alapján.
+2.1.2. A táblázat D oszlopa tartalmazza az RR szerint a Magyarországra érvényes felosztást. Ennek keretében meghatározza a Magyarországon felosztható rádiószolgálatokat szolgálati kategóriáiknak megfelelően, valamint a magyarországi frekvenciafelhasználásra vonatkozó, lábjegyzetekben foglalt feltételeket.
 
 2.1.3. A táblázatban a szolgálati kategória a frekvenciafelhasználó részére nemzetközi szinten állapít meg zavarvédelmet vagy zavarokozás szempontjából használati korlátozást. A táblázatban meghatározott szolgálati kategóriától lábjegyzet eltérően is rendelkezhet. Az elsődleges rádiószolgálat – kiegészítés nélküli – megnevezése nagybetűvel, a másodlagosé nagy kezdőbetűt követően kisbetűvel van jelölve.
 
@@ -28,5 +28,5 @@
 
 2.1.5. Amennyiben a rádiószolgálat megnevezése mellett zárójeles kiegészítés szerepel, akkor a rádiószolgálatra vonatkozó felosztás az így megjelölt működési típusra, alkalmazásra, frekvenciára korlátozódik.
 
-[^67]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^68]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése, az 1/2018. (V. 29.) NMHH rendelet 4. § (1) bekezdése és az 5. § (2) bekezdése szerint módosított szöveg.
+[^131]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: Az 1. melléklet a 8/2017. (VII. 28.) NMHH rendelet 21. § (2) bekezdése, az 1/2018. (V. 29.) NMHH rendelet 4. § (1) bekezdése és az 5. § (2) bekezdése, az 1/2019. (I. 22.) NMHH rendelet 6. § (1) bekezdése, 7. § (2) bekezdése, 8. § b) pontja szerint módosított szöveg.
