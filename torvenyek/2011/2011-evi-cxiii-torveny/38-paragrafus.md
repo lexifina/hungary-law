@@ -10,7 +10,9 @@
 
 (3) A Honvédséget a Magyar Honvédség Parancsnoksága, a szárazföldi csapatok, a légierő csapatai, a logisztikai és támogató erők, valamint a Honvédség feladatainak végrehajtása érdekében egyéb szaktevékenységet folytató szervezetek alkotják. A szárazföldi csapatok és a légierő csapatai haderőnemet képeznek. A haderőnemek fegyvernemekből és szakcsapatokból tevődnek össze.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6)
 
