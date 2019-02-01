@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-30-00-00
 | 2017-06-17 | 2017. évi LXXII. törvény | 2016-30-00-00.3 |
 | 2018-01-01 | 2017. évi CLXXXIX. törvény | 2016-30-00-00.4 |
 | 2018-08-08 | 2018. évi LIV. törvény | 2016-30-00-00.5 |
+| 2019-02-01 | 2018. évi CXV. törvény | 2016-30-00-00.6 |
