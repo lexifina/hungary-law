@@ -2,7 +2,7 @@
 
 ## A KAMARAI JOGTANÁCSOS
 
-66. § (1) A kamarai jogtanácsos az ügyvédi tevékenységet nem természetes személy jogalannyal fennálló munkaviszonya, kormányzati szolgálati, közszolgálati, állami szolgálati, közalkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati jogviszonya, egyházi szolgálati viszonya (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) keretei között,
+66. § (1) A kamarai jogtanácsos az ügyvédi tevékenységet nem természetes személy jogalannyal fennálló munkaviszonya, kormányzati szolgálati, közszolgálati, állami szolgálati, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati jogviszonya, egyházi szolgálati viszonya (e fejezet alkalmazásában a továbbiakban együtt: munkaviszony) keretei között,
 
 a) ügyvédi kamarai nyilvántartásba bejelentett munkáltatója, egyházi szolgálati viszony esetében az egyházi jogi személy (e fejezet alkalmazásában a továbbiakban együtt: munkáltató),
 
