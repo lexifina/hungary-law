@@ -202,7 +202,9 @@ h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 i) az állami tisztviselőkről szóló 2016. évi LII. törvény szerinti állami szolgálati jogviszony,
 
-j) a külön jogszabály által mentelmi jogot biztosító jogállás
+j) a külön jogszabály által mentelmi jogot biztosító jogállás,
+
+k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti jogviszony
 
 keretében végzett kötelezettség;
 
