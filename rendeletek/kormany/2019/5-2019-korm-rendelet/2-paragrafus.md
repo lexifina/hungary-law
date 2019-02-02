@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a nemesfémtárgyak ellenőrzéséről és jelöléséről szóló, Bécsben, 1972. november 15. napján aláírt Egyezmény 2018. április 20. napján elfogadott PMC/W2/2000 számú módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
