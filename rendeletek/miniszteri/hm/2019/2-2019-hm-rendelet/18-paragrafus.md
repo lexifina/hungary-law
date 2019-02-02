@@ -1,3 +1,0 @@
-## 17. § Az R. 32. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-## „(9) A tandíjköltséghez történő hozzájárulás összegét juttatásra jogosító gyermekenként abban a pénznemben kell megállapítani és folyósítani, amelyben az állomány tagja külszolgálati ellátmánya megállapításra került. Az ettől eltérő pénznemben felmerülő tandíjköltség esetén annak összegét a (3) bekezdés szerinti kérelem benyújtását megelőző hónap 15. napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell átszámítani. Az MNB által nem jegyzett, az MNB hivatalos devizalapján nem szereplő, egyéb árfolyamok esetében a kérelem benyújtását megelőző hónap 1. napján, az MNB által közzétett árfolyamon kell a tandíjköltséget EUR-ra átszámítani.”

@@ -1,5 +1,0 @@
-## 11. § Az R. 19. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(3) Az állomány tagja – a 3. § (9a) bekezdése szerinti kivétellel – köteles az állomáshelyen a külföldi szolgálat alatt betöltött beosztásának, a katonai hierarchiában elfoglalt helyének, a lakásigény jogos mértékének, valamint a szolgálati és biztonsági követelményeknek megfelelő lakóingatlant bérelni.
-
-## (4) A lakásigény jogos mértékének megállapításánál az együtt lakó személyek körében az állomány tagját és a családi átalány-költségtérítésre jogosító hozzátartozóit kell figyelembe venni, ideértve azt is, aki a jogosultsági feltételekben bekövetkező valamely változás miatt a külföldi szolgálat időtartamának egy része alatt már nem minősül családi átalány-költségtérítésre jogosító hozzátartozónak, azonban a jogosultság megszűnését követően is az állomány tagja által bérelt lakóingatlanban tartózkodik életvitelszerűen. Ettől való eltérést indokolt esetben az illetékes logisztikai ellátó szerv javaslata alapján a HM VGHÁT engedélyezhet.”
