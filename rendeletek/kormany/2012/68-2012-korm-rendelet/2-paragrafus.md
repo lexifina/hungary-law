@@ -1,1 +1,0 @@
-## 1. § A Kormány a nemesfémtárgyak ellenőrzéséről és jelöléséről szóló, Bécsben, 1972. november 15. napján aláírt Egyezmény 2010. október 11. napján elfogadott PMC/W/2/2001 számú módosítását (a továbbiakban: Módosítás) e rendelettel kihirdeti.
