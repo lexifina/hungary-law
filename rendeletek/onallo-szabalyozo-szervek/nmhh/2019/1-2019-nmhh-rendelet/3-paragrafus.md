@@ -1,1 +1,0 @@
-## „287. WiMAX rendszer: az állandóhelyű szolgálatban olyan pont-többpont rendszer, valamint a mozgószolgálatban olyan mozgó rádiótávközlő rendszer, amelynek berendezései a WiMAX Fórum által kiadott WiMAX-típustanúsítvánnyal rendelkeznek;”
