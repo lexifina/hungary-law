@@ -1,10 +1,4 @@
-51. § (1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogyt.) 124/L. § (3) bekezdése a következő i) ponttal egészül ki:
-
-(A jubileumi jutalomra jogosító idő megállapításánál)
-
-„i) rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban”
-
-(töltött időt kell figyelembe venni.)
+51. § (1)
 
 (2) Az Ogyt.
 

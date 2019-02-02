@@ -1,1 +1,1 @@
-36. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 3. § (1) bekezdés a) pontjában a „közalkalmazotti jogviszony” szövegrész helyébe a „közalkalmazotti jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony” szöveg lép.
+36. §

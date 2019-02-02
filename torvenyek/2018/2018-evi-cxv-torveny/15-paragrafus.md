@@ -1,1 +1,1 @@
-15. § A munkavédelemről szóló 1993. évi XCIII. törvény 87. § 9. pontjában a „közalkalmazotti jogviszonyban,” szövegrész helyébe a „közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban,” szöveg lép.
+15. §

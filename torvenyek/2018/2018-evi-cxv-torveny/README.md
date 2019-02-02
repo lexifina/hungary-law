@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-115-00-00
 | 2019-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-115-00-00.1 |
 | 2019-01-03 | 2010. évi CXXX. törvény | 2018-115-00-00.2 |
 | 2019-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-115-00-00.3 |
+| 2019-02-02 | 2010. évi CXXX. törvény | 2018-115-00-00.4 |

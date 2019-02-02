@@ -1,1 +1,1 @@
-34. § A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény 14. § (6) bekezdésében a „közalkalmazotti jogviszonyban” szövegrész helyébe a „közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban” szöveg lép.
+34. §
