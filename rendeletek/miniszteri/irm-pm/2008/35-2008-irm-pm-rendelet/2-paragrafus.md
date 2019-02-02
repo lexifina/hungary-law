@@ -1,5 +1,0 @@
-2. §[^4] (1) Az elővezetés költségének megtérítésére (a továbbiakban: költségtérítés) az elővezetést elrendelő határozatban vagy – hatósági ügyben – végzésben (a továbbiakban együtt: elrendelő határozat) megjelölt személyt kell kötelezni.
-
-(2) A költségtérítés összegének megállapítása, valamint megtérítése során a büntetőeljárásban, a szabálysértési eljárásban, valamint a büntetés-végrehajtás során elrendelt elővezetés, a terhelt, illetve az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetve nyomozó hatóság vagy végrehajtásért felelős szerv elé állítása, továbbá az elítélt vagy az egyéb jogcímen fogvatartott kérelmére történő előállítás során felmerült költség megtérítésének részletes szabályairól szóló 71/2014. (XII. 19.) BM rendelet (a továbbiakban: BM rendelet) 2–7. §-ának rendelkezéseit kell alkalmazni azzal, hogy a BM rendelet 2. § (2) bekezdésében foglalt rendelkezések az e rendelet hatálya alá tartozó eljárásokban is alkalmazandóak.
-
-[^4]: A 2. § a 20/2014. (XII. 23.) IM rendelet 12. § (1) bekezdésével megállapított szöveg.
