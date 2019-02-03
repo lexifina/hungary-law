@@ -494,6 +494,8 @@
 
 4. § (1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
 
-(2) Hatályát veszti a nemesfémtárgyak ellenőrzéséről és jelöléséről szóló, Bécsben, 1972. november 15. napján aláírt Egyezmény 2010. október 11. napján elfogadott PMC/W/2/2001 számú módosítása kihirdetéséről szóló 68/2012. (IV. 6.) Korm. rendelet.
+(2)[^1]
 
 (3) E rendelet végrehajtásához szükséges intézkedésekről az iparügyekért felelős miniszter gondoskodik.
+
+[^1]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
