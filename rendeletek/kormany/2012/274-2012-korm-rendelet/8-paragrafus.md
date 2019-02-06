@@ -6,8 +6,8 @@
 
 (3) Súlyos szabálytalanság esetén vagy ismételt figyelmeztetés után a vizsgabiztos a vizsgázó vizsgáját felfüggeszti, melynek tényét és körülményeit az (1) bekezdés szerint a vizsgajegyzőkönyvben rögzíti. Súlyos szabálytalanságnak minősül különösen a vizsgán nem megengedett segédeszköz igénybe vétele, beszélgetés a többi vizsgázóval, valamint a vizsga rendjének megzavarása. A vizsga felfüggesztése esetében az alapvizsgát nem megfeleltnek kell minősíteni.
 
-(4)–(5)[^20]
+(4)–(5)[^26]
 
 (6) A vizsgabiztos személyét a RASZB elnöke jelöli ki. A kijelölésről a vizsgázót és a munkáltatói jogkör gyakorlóját a vizsga megkezdéséig tájékoztatni nem lehet.
 
-[^20]: A 8. § (4)–(5) bekezdését a 396/2017. (XII. 13.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^26]: A 8. § (4)–(5) bekezdését a 396/2017. (XII. 13.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.

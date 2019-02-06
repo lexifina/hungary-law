@@ -1,4 +1,4 @@
-2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^70]
+2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^83]
 
 ## A RENDÉSZETI SZAKVIZSGA KÖVETELMÉNYRENDSZERE
 
@@ -56,7 +56,7 @@ XIII. Büntetés-végrehajtási igazgatás
 
 XIV. Adó- és vámigazgatás
 
-## II.[^71] VÁLASZTHATÓ VIZSGATÁRGYAK
+## II.[^84] VÁLASZTHATÓ VIZSGATÁRGYAK
 
 ## II.1. BÜNTETÉS-VÉGREHAJTÁSI IGAZGATÁS
 
@@ -160,5 +160,5 @@ IV. Áruosztályozás és áruismereti feladatok
 
 V. Büntető- és szabálysértési jogi feladatok
 
-[^70]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^71]: A 2. melléklet II. része a 396/2017. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^83]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^84]: A 2. melléklet II. része a 396/2017. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.

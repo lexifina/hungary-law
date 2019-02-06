@@ -1,4 +1,8 @@
-28. § (1)[^65] A rendészeti alapvizsgára kötelezett felkészítési díját, első alkalommal a vizsgadíját, a felmerülő szállás- és utazási költségét, valamint a rendészeti szakvizsgára kötelezett felmerülő szállás- és utazási költségét az őt foglalkoztató szerv biztosítja. A rendészeti szakvizsgára kötelezett felkészítési díját, első alkalommal a vizsgadíját a belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet hatálya alá tartozó vizsgázó esetében a foglalkoztató a továbbképzési hozzájárulás keretében, a továbbképzési hozzájárulásra vonatkozó szabályok szerint fizeti meg a központi szerv részére.
+28. § (1)[^75] A rendészeti alapvizsgára kötelezett hivatásos állományú felkészítési díját, első alkalommal a vizsgadíját, a felmerülő szállás- és utazási költségét, valamint a rendészeti szakvizsgára kötelezett hivatásos állományú felmerülő szállás- és utazási költségét az őt foglalkoztató szerv biztosítja. A rendészeti szakvizsgára kötelezett hivatásos állományú felkészítési díját, első alkalommal a vizsgadíját a belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet hatálya alá tartozó vizsgázó esetében a foglalkoztató a továbbképzési hozzájárulás keretében, a továbbképzési hozzájárulásra vonatkozó szabályok szerint fizeti meg a központi szerv részére.
+
+(1a)[^76] A rendészeti alapvizsgára kötelezett rendvédelmi alkalmazott felkészítési díját, első alkalommal a vizsgadíját, a felmerülő szállás- és utazási költségét, valamint a rendészeti szakvizsgára kötelezett felmerülő szállás- és utazási költségét az őt foglalkoztató szerv biztosítja.
+
+(1b)[^77] A rendészeti szakvizsgára kötelezett rendvédelmi alkalmazott felkészítési díját, első alkalommal a vizsgadíját a foglalkoztató szerv biztosítja.
 
 (2) Önkéntes jelentkezés esetén a felkészítés és a vizsga díja, valamint a felmerülő szállás- és utazási költség az önként jelentkezőt terheli. A szakvizsga díjának legfeljebb 50%-át – az önként jelentkező kérelmére – a munkáltató saját költségvetése terhére átvállalhatja.
 
@@ -12,4 +16,6 @@
 
 (7) Az (5) bekezdésben meghatározott eljárási díj megfizetése nem mentesít az újabb felkészítés vagy vizsga díjának megfizetése alól. Az ismételt felkészítés vagy vizsga díjának megfizetésére a munkáltató köteles, ha az alap- vagy szakvizsgára kötelezett a munkáltató érdekkörében felmerült okból halasztott.
 
-[^65]: A 28. § (1) bekezdése a 43/2014. (II. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^75]: A 28. § (1) bekezdése a 43/2014. (II. 25.) Korm. rendelet 5. §-ával megállapított, a 11/2019. (II. 5.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^76]: A 28. § (1a) bekezdését a 11/2019. (II. 5.) Korm. rendelet 3. § (11) bekezdése iktatta be.
+[^77]: A 28. § (1b) bekezdését a 11/2019. (II. 5.) Korm. rendelet 3. § (11) bekezdése iktatta be.

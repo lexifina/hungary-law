@@ -1,4 +1,4 @@
-## 13. §[^33]
+## 13. §[^41]
 
 14. § (1) A rendészeti szakvizsgát a RASZB által kijelölt vizsgabizottság (a továbbiakban: vizsgabizottság) előtt kell letenni. A vizsgabizottság háromtagú, elnökét a RASZB jelöli ki.
 
@@ -8,4 +8,4 @@
 
 (4) A jegyző személyére a központi szerv vezetője a központi szerv munkatársai közül tesz javaslatot.
 
-[^33]: A 13. §-t a 396/2017. (XII. 13.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^41]: A 13. §-t a 396/2017. (XII. 13.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.

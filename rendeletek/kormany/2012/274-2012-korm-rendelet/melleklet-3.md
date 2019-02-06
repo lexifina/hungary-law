@@ -1,3 +1,3 @@
-3–6. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^72]
+3–6. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^85]
 
-[^72]: A 3–6. mellékletet a 396/2017. (XII. 13.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
+[^85]: A 3–6. mellékletet a 396/2017. (XII. 13.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
