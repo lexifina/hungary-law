@@ -1,4 +1,4 @@
-12/A. §[^35] (1) Ha a vizsgálat végrehajtásáról szóló részletes tervben szereplő mesterséges élethelyzet kialakítása objektív körülmények miatt meg sem kezdődött, az eljárást megszüntető határozat tartalmazza
+12/A. §[^36] (1) Ha a vizsgálat végrehajtásáról szóló részletes tervben szereplő mesterséges élethelyzet kialakítása objektív körülmények miatt meg sem kezdődött, az eljárást megszüntető határozat tartalmazza
 
 a) a védett állomány
 
@@ -18,4 +18,4 @@ c) a megszüntetésre okot adó körülmény leírását.
 
 (5) Az eljárás megszüntetéséről szóló határozatot a (2) vagy a (3) bekezdés szerinti tájékoztatással egyidejűleg meg kell küldeni az elrendelést jóváhagyó ügyész számára.
 
-[^35]: A 12/A. §-t a 134/2017. (VI. 9.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^36]: A 12/A. §-t a 134/2017. (VI. 9.) Korm. rendelet 3. § (5) bekezdése iktatta be.
