@@ -1,6 +1,6 @@
 1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján a Rómer Flóris Terv megvalósításának elősegítésére, a pályázati forrásokról történő célszerű és megalapozott döntéshozatal érdekében bíráló bizottságot (a továbbiakban: Bizottság) hoz létre.
 
-2. A Bizottság elnöke a Miniszterelnökség kulturális örökségvédelméért felelős helyettes államtitkára.
+2.[^1] A Bizottság elnökét a kulturális örökség védelméért felelős miniszter jelöli ki.
 
 3. A Bizottság további tagja
 
@@ -16,7 +16,7 @@ c) a külgazdasági és külügyminiszter által,
 
 d) a Teleki László Alapítvány elnöke által,
 
-e)[^1]
+e)[^2]
 
 delegált egy-egy tag.
 
@@ -34,4 +34,5 @@ delegált egy-egy tag.
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 3. pont e) alpontját az 1853/2016. (XII. 27) Korm. határozat 55. pontja hatályon kívül helyezte.
+[^1]: A 2. pont az 1019/2019. (II. 5.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 3. pont e) alpontját az 1853/2016. (XII. 27) Korm. határozat 55. pontja hatályon kívül helyezte.
