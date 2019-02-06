@@ -4,4 +4,6 @@
 
 (3) A munkáltató és a közreműködő szervezet között az elszámolás legkésőbb a nemzetközi közigazgatási szakértői tevékenység befejezését követő utolsó kifizetéstől számított 60 napon belül történik meg.
 
-(4) Ha a szakértő a nemzetközi közigazgatási szakértői tevékenységet – a Kttv. 154. § (4) bekezdésében foglalt korlátozásra figyelemmel több részletben – 6 hónapnál hosszabb időkeretben látja el, akkor a (3) bekezdésben foglaltaktól eltérően a munkáltató és a közreműködő szervezet legalább hathavonta egyszer elszámol.
+(4)[^10] Ha a szakértő a nemzetközi közigazgatási szakértői tevékenységet több részletben hat hónapnál hosszabb időkeretben látja el, akkor a (3) bekezdésben foglaltaktól eltérően a munkáltató és a közreműködő szervezet legalább hathavonta egyszer elszámol.
+
+[^10]: A 13. § (4) bekezdése a 11/2019. (II. 5.) Korm. rendelet 6. § (6) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## kerülhet sor.
-
 ## 3. A más foglalkoztatási jogviszony keretében végzett nemzetközi közigazgatási szakértői tevékenység
 
 6. § (1) A foglalkoztatott a más foglalkoztatási jogviszony keretében végzett nemzetközi közigazgatási szakértői tevékenységre irányuló, a közreműködő szervezettel megkötendő kétoldalú megállapodás tervezetét a munkáltatója vagy állományilletékes parancsnoka (a továbbiakban együtt: munkáltató) részére a megállapodás aláírását megelőzően – legalább a nemzetközi közigazgatási szakértői tevékenység megkezdését megelőző 30 nappal – benyújtja.
