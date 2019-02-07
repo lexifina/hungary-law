@@ -34,8 +34,8 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a 2020. évi központi költségvetés tervezésekor
 
-2. A Rómer Flóris Terv megvalósítását elősegítő bíráló bizottságról szóló 1550/2015. (VIII. 7.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-„2. A Bizottság elnökét a kulturális örökség védelméért felelős miniszter jelöli ki.”
+2.[^1]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
