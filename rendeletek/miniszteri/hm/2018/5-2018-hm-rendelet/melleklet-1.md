@@ -1,8 +1,8 @@
-## 17. §[^1]
+## 17. §[^4]
 
-1. melléklet az 5/2018. (III. 8.) HM rendelethez
+1. melléklet az 5/2018. (III. 8.) HM rendelethez[^5]
 
-A XIII. Honvédelmi Minisztérium fejezet 2018. évi költségvetési kiadási előirányzatainak feladatterve
+A XIII. Honvédelmi Minisztérium fejezet 2019. évi költségvetési kiadási előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -18,7 +18,7 @@ A XIII. Honvédelmi Minisztérium fejezet 2018. évi költségvetési kiadási e
 
 | 6 | 264378 |  |  |  | Honvédelem érdekében tevékenykedő civil szervezetek pályázati támogatása | A honvédelemmel összefüggő kulturális, sport és hagyományőrző tevékenységet és egyéb, honvédelmi feladatokat segítő civil szervezetek támogatása | pályázatot elnyert civil szervezetek | pályázat útján | nyújtható | egy összegben vagy részletekben |  | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat |  |  |  |
 
-| 7 | 302724 |  |  |  | Honvédelem érdekében tevékenykedő civil szervezetek és érdekképviseleti szervek támogatása | Katonai hagyományőrző, honvédelmet népszerűsítő vagy katonai érdekképviseleti tevékenységet végző civil szervezetek és érdekképviseleti szervek támogatása | 1. Magyar Hadtudományi Társaság 2. Honvédség és Társadalom Baráti Körök Országos Közhasznú Szövetsége 3. Honvédségi Nyugdíjas Klubok Országos Szövetsége 4. Magyar Tartalékosok Szövetsége 5. Magyar Cserkészszövetség 6. Magyar Huszár és Katonai Hagyományőrző Szövetség 7. Budapesti Honvéd Sportegyesület 8. Honvéd Sportegyesületek Országos Szövetsége 9. Hadirokkantak, Hadiözvegyek és Hadiárvák Országos Nemzeti Szövetsége 10. Vak Hadirokkantak Országos Egyesülete 11. Magyar Hadigondozottak Országos Nemzeti Szövetsége 12. Honvéd Kulturális Egyesület 13. Magyar Atlanti Tanács 14. Honvédségi Dolgozók Szakszervezete 15. Honvédszakszervezet 16. Csapatok Érdekvédelmi Szövetsége 17. Bajtársi Egyesületek Országos Szövetsége 18. Honvéd Kerékpáros és Hagyományőrző Egyesület 19. Asociatia Szentegyházi Hagyományőrző Huszár Egyesület (Szentegyházi Hagyományőrző Huszár Egyesület) 20. Doni Bajtársi és Kegyeleti Szövetség 21. Honvéd Hagyományőrző Egyesület, 22. Magyar Katonai Jogi és Hadijogi Társaság 23. Kapunyitás Közhasznú Alapítvány 24. „Halhatatlan Magyar Sportolók” Egyesülete 25. Magyar Szablyavívó Egyesület 26. Magyar Ejtőernyősök Bajtársi Szövetsége 27. 39M Lövész Egyesület 28. Centenáriumi Hadtörténeti Egyesület 29. Középfokú Elektronikai Szakképzésért és Honvédelmi Oktatásért Alapítvány | egyedi döntéssel | nyújtható | egy összegben, vagy részletekben |  | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat, vagy külföldi illetőségű kedvezmé- nyezettnél zálogjog, óvadék, bankgarancia vagy kezesség |  |  |  |
+| 7 | 302724 |  |  |  | Honvédelem érdekében tevékenykedő civil szervezetek és érdekképviseleti szervek támogatása | Katonai hagyományőrző, honvédelmet népszerűsítő vagy katonai érdekképviseleti tevékenységet végző civil szervezetek és érdekképviseleti szervek támogatása | 1. honvédségi érdekvédelmi szervek és nyugdíjasklubok 2. honvéd sportegyesületek 3. egyesülési jog alapján létrejött egyéb szervezetek, így különösen – a katonai hagyományokat őrző és érdekvédelmi feladatokat ellátó, a honvédelem érdekében tevékenykedő és a honvédelmet népszerűsítő sport-, kulturális, oktatási és tudományos szövetségek, egyesületek, alapítványok, – a hadirokkantak, hadigondozottak egyesülete vagy szövetsége | egyedi döntéssel | nyújtható | egy összegben, vagy részletekben |  | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat, vagy külföldi illetőségű kedvezmé- nyezettnél zálogjog, óvadék, bankgarancia vagy kezesség |  |  |  |
 
 | 8 |  |  |  | Hadisírgondozás támogatása |  |  |  |  |  |  |  |  |  |  |
 
@@ -40,7 +40,7 @@ A XIII. Honvédelmi Minisztérium fejezet 2018. évi költségvetési kiadási e
 
 | 17 | 277589 |  |  |  | Magyar Futball Akadémia Alapítvány támogatása | A Magyar Futball Akadémia Alapítvány által ellátott feladatok támogatása | Magyar Futball Akadémia Alapítvány | egyedi döntéssel | nyújtható | teljesítésarányosan |  | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat |  |  |  |
 
-| 18 | 249756 |  |  |  | MH Szociálpolitikai Közalapítvány által ellátott feladatok támogatása | Az MH Szociálpolitikai Közalapítvány által adott juttatások, a feladattervében szereplő ellátási feladatok támogatása | MH Szociálpolitikai Közalapítvány | egyedi döntéssel | nyújtható | teljesítésarányosan |  | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat |  |  |  |
+| 18 | 249756 |  |  |  | MH Szociálpolitikai Közalapítvány által ellátott feladatok támogatása | Az MH Szociálpolitikai Közalapítvány által adott juttatások, a feladattervében szereplő ellátási feladatok támogatása | MH Szociálpolitikai Közalapítvány | egyedi döntéssel | nyújtható | teljesítésarányosan |  | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat | Magyar Honvédség Parancsnokság |  |  |
 
 | 19 | 014881 |  |  |  | Hozzájárulás a hadigondozásról szóló törvényt végrehajtó közalapítványhoz | A hadigondozásról szóló törvényt végrehajtó közalapítvány működésének és az általa biztosított juttatások támogatása, továbbá az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak egyösszegű kárpótlásának fedezetének biztosítása | a hadigondozásról szóló törvényt végrehajtó közalapítvány | a hadi-gondo-zásról szóló törvény alapján | nyújtható | teljesítésarányosan |  | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat |  |  |  |
 
@@ -54,6 +54,7 @@ A XIII. Honvédelmi Minisztérium fejezet 2018. évi költségvetési kiadási e
 
 | 24 | 372539 |  |  | A gazdasági társaságok által ellátott feladatok támogatása | A minimálbér-emelés és a garantált bérminimum-emelés gazdálkodásra gyakorolt hatásainak enyhítése | HM tulajdonosi joggyakorlása alá tartozó állami tulajdonú gazdasági társaságok | egyedi döntéssel | nyújtható | egy összegben vagy részletekben |  |  |  |  |  |
 
-| 25 | 352117 |  | Fejezeti stabilitási tartalék |  | Az Ávr. 23/A. § (2) bekezdése szerinti kormányhatározatban meghatározott cél | Az Ávr. 23/A. § (2) bekezdése szerinti előirányzat- átcsoportosítás kedvezményezettje |  |  | előirányzat- átcsoportosítás |  |  |  |  |  |
+| 25 | 375806 |  |  | Légierő fejlesztés |  | A Zrínyi 2026 honvédelmi és haderő-fejlesztési program végrehajtása során felmerülő költségek fedezetének biztosítása | a Zrínyi 2026 honvédelmi és haderő-fejlesztési program végrehajtásában részt vevő katonai szervezetek | egyedi döntéssel | nyújtható | egy összegben, előirányzat- átcsoportosítás |  |  |  |  |  |
 
-[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 3/2019. (II. 7.) HM rendelet 3. §-a szerint módosított szöveg.

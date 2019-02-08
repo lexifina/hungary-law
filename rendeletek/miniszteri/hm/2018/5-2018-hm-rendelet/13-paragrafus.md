@@ -1,8 +1,34 @@
 ## számolható el.
 
-13. § (1) Az 1. mellékletben foglalt táblázat G:7 mező 1., 2., 6., 18., 19., 22., 25., 26., 27. és 28. pontja szerinti civil szervezet, valamint a G:11 mező 2. pontja szerinti gazdasági társaság részére nyújtott támogatás a 651/2014/EU bizottsági rendelet szerinti kulturális támogatás.
+13. § (1)[^1] Az 1. mellékletben foglalt táblázat
 
-(2) Az 1. mellékletben foglalt táblázat G:7 mező 7. pontja szerinti civil szervezet, valamint G:11 mező 1. pontja szerinti gazdasági társaság részére nyújtott támogatás az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis) támogatás.
+a) G:7 mezője szerinti kedvezményezettek közül
+
+aa) a Magyar Hadtudományi Társaság,
+
+ab) a Honvédség és Társadalom Baráti Körök Országos Közhasznú Szövetsége,
+
+ac) a Magyar Huszár és Katonai Hagyományőrző Szövetség,
+
+ad) a Honvéd Kerékpáros és Hagyományőrző Egyesület,
+
+ae) az Asociatia Szentegyházi Hagyományőrző Huszár Egyesület (Szentegyházi Hagyományőrző Huszár Egyesület),
+
+af) a Magyar Katonai Jogi és Hadijogi Társaság,
+
+ag) a Magyar Szablyavívó Egyesület,
+
+ah) a Magyar Ejtőernyősök Bajtársi Szövetsége,
+
+ai) a 39M Lövész Egyesület,
+
+aj) a Centenáriumi Hadtörténeti Egyesület, valamint
+
+b) G:11 mező 2. pontja szerinti gazdasági társaság
+
+## részére nyújtott támogatás a 651/2014/EU bizottsági rendelet szerinti kulturális támogatás.
+
+(2)[^2] Az 1. mellékletben foglalt táblázat G:7 mezője szerinti kedvezményezettek közül a Budapesti Honvéd Sportegyesület, valamint a G:11 mező 1. pontja szerinti gazdasági társaság részére nyújtott támogatás az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis) támogatás.
 
 (3) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű (de minimis) támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -19,3 +45,6 @@
 (9) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
 (10) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű (de minimis) támogatások támogatástartalmáról.
+
+[^1]: A 13. § (1) bekezdése a 3/2019. (II. 7.) HM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 13. § (2) bekezdése a 3/2019. (II. 7.) HM rendelet 1. §-ával megállapított szöveg.
