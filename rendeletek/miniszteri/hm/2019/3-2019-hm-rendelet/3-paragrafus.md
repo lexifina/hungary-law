@@ -1,3 +1,0 @@
-## 2. § A Rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az 1. mellékletben foglalt táblázat G:13 mezője szerinti kedvezményezett, valamint G:7 mezője szerinti kedvezményezettek közül a Bajtársi Egyesületek Országos Szövetsége és a Honvédségi Nyugdíjas Klubok Országos Szövetsége részére – a támogató és a kedvezményezett közötti támogatási szerződésben foglalt célra és feltételekkel – biztosított költségvetési támogatás e rendelet és a támogatási szerződés rendelkezéseinek megfelelő harmadik személy által is felhasználható.”
