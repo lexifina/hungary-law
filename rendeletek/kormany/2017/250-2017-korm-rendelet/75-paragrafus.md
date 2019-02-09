@@ -6,6 +6,4 @@ b) az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK tanácsi
 
 ## való megfelelést szolgálja.
 
-(2)[^39]
-
-[^39]: A 75. § (2) bekezdése a 74. § (6) bekezdése alapján 2019. február 9-én lép hatályba.
+(2) Az 54. § és az 55. § a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 161/2016 bizottsági rendelet végrehajtásához szükséges intézkedéseket állapít meg.
