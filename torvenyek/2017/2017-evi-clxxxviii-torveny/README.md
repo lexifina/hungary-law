@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-188-00-00
 | 2018-01-19 | 2010. évi CXXX. törvény | 2017-188-00-00.6 |
 | 2018-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-188-00-00.7 |
 | 2018-07-02 | 2010. évi CXXX. törvény | 2017-188-00-00.8 |
+| 2019-02-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-188-00-00.9 |
