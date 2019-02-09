@@ -13,3 +13,7 @@ c) – az orvos által rendelkezésre bocsátott adatok alapján – a Gytv. 1. 
 (3) Ha az OGYÉI olyan nyilatkozatot tesz, amely szerint az (1) bekezdés szerinti feltételek fennállnak, az orvos – vényen történő rendelés esetén – az OGYÉI nyilatkozatának másolatát a vénnyel együtt a betegnek átadja.
 
 (4) Ha az OGYÉI olyan nyilatkozatot tesz, hogy véleménye szerint a Gytv. 1. § 23. pontja szerinti különös méltánylást érdemlő betegellátási érdek nem áll fenn, az orvos – ha a gyógyszer vényen történő rendelésének szükségességét továbbra is fenntartja – az OGYÉI nyilatkozatának másolatát a vénnyel együtt a betegnek átadja, és a beteget tájékoztatja a nyilatkozat tartalmáról és lehetséges következményeiről.
+
+(5)[^1] A lakossági gyógyszerellátásra engedéllyel rendelkező vagy arra jogosult személyek a lakossági ellátásra általuk kiadott, az (1) bekezdésben meghatározott feltételek alapján rendelt gyógyszerek esetében a kiadás időpontjában ellenőrzik a gyógyszer biztonsági elemeit, és deaktiválják minden, biztonsági elemmel ellátott gyógyszer egyedi azonosítóját.
+
+[^1]: Az 5. § (5) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 43. §-a iktatta be.
