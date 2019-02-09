@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-28-20-2
 | 2017-04-01 | 2015-28-20-22.4 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2015-28-20-22.5 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-01-01 | 2015-28-20-22.6 | 287/2018. (XII. 21.) Korm. rendelet |
+| 2019-02-09 | 2015-28-20-22.7 | 250/2017. (IX. 5.) Korm. rendelet |

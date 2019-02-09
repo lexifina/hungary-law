@@ -32,9 +32,12 @@ n) ellátja a jogszabályban, az alapító okiratában vagy hatósági határoza
 
 o)[^3] ellátja az orvostechnikai eszközökkel kapcsolatos hatósági, piacfelügyeleti hatósági, az orvostechnikai eszközök klinikai vizsgálatának engedélyezésével kapcsolatos hatósági, valamint az orvostechnikai eszközök megfelelőség-értékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat,
 
-p)[^4] lefolytatja a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekkel kapcsolatos engedélyezési eljárásokat és vezeti az ezzel összefüggő nyilvántartásokat.
+p)[^4] lefolytatja a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekkel kapcsolatos engedélyezési eljárásokat és vezeti az ezzel összefüggő nyilvántartásokat,
+
+q)[^5] ellátja a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 161/2016 bizottsági rendeletben meghatározott nemzeti hatósági feladatokat.
 
 [^1]: A 3. § a) pontja a 457/2017. (XII. 28.) Korm. rendelet 527. § a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^2]: A 3. § l) pontja a 379/2016. (XII. 2.) Korm. rendelet 290. § (8) bekezdése szerint módosított szöveg.
 [^3]: A 3. § o) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
 [^4]: A 3. § p) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
+[^5]: A 3. § q) pontját a 250/2017. (IX. 5.) Korm. rendelet 54. §-a iktatta be.
