@@ -10,7 +10,7 @@ a) elrendelheti a jogsértő állapot megszüntetését, vagy
 
 b) megtilthatja a jogsértő magatartás további folytatását, vagy
 
-c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy
+c) elrendelheti, illetve kezdeményezheti az emberi életet, egészséget, testi épséget veszélyeztető vagy az (EU) 2016/161 rendeletben rögzített követelményeknek nem megfelelő gyógyszer vagy annak gyártási tétele forgalomból történő kivonását, vagy
 
 d) határidővel felhívhatja az ellenőrzöttet a hiányosságok megszüntetésére, illetve a hiányosságok megszüntetéséig a tevékenység folytatását felfüggesztheti, vagy
 
