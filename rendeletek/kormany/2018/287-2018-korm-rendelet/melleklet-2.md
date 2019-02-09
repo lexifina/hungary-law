@@ -1,3 +1,3 @@
-2. melléklet a 287/2018. (XII. 21.) Korm. rendelethez[^54]
+2. melléklet a 287/2018. (XII. 21.) Korm. rendelethez[^52]
 
-[^54]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

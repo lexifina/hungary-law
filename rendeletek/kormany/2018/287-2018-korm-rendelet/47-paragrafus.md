@@ -1,4 +1,4 @@
-## 46. §[^52]
+## 46. §[^50]
 
 ## 16. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 11. § és a 21. § c) pontja 2019. április 1-jén lép hatályba.
 
-[^52]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
