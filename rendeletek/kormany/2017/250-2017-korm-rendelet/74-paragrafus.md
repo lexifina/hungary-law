@@ -1,5 +1,3 @@
-## 73. §[^37]
-
 ## 25. Záró rendelkezések
 
 74. § (1) Ez a rendelet – a (2)–(6) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
@@ -13,5 +11,3 @@
 (5) A 32. § és a 33. § 2018. február 1-jén lép hatályba.
 
 (6) Az 54. §, az 55. § és a 75. § (2) bekezdése 2019. február 9-én lép hatályba.
-
-[^37]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. melléklet a 250/2017. (IX. 5.) Korm. rendelethez[^40]
+4. melléklet a 250/2017. (IX. 5.) Korm. rendelethez[^86]
 
-[^40]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

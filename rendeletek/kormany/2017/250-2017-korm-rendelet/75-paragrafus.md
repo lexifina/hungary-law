@@ -4,6 +4,6 @@ a) az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel 
 
 b) az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK tanácsi irányelv II. és III. mellékletének módosításáról szóló, 2015. október 6-i (EU) 2015/1787 tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (2) Az 54. § és az 55. § a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 161/2016 bizottsági rendelet végrehajtásához szükséges intézkedéseket állapít meg.
