@@ -1,3 +1,3 @@
-## 43. § Az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló 448/2017. (XII. 27.) Korm. rendelet (a továbbiakban: 448/2017. Korm. rendelet) 5. §-a a következő (5) bekezdéssel egészül ki:
+## 43. §[^49]
 
-## „(5) A lakossági gyógyszerellátásra engedéllyel rendelkező vagy arra jogosult személyek a lakossági ellátásra általuk kiadott, az (1) bekezdésben meghatározott feltételek alapján rendelt gyógyszerek esetében a kiadás időpontjában ellenőrzik a gyógyszer biztonsági elemeit, és deaktiválják minden, biztonsági elemmel ellátott gyógyszer egyedi azonosítóját.”
+[^49]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
