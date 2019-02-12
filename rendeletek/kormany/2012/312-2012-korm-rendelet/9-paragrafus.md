@@ -10,8 +10,9 @@ b) egyidejűleg hozzáférést biztosít az eljáró hatóságnak és a szakhat�
 
 (4)[^39] Több építtető esetén az építtetők meghatalmazottja az építtetőtársak nevében járhat el, a (2) bekezdésben meghatározottak szerint.
 
-(5) Az eljárást megindító kérelem iktatása és szignálása az ÉTDR-be történt feltöltést követően történik.
+(5)[^40]
 
 [^37]: A 9. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 4. pontja, a 156/2016. (VI. 13.) Korm. rendelet 13. § 12. pontja szerint módosított szöveg.
 [^38]: A 9. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 5. pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 8. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^39]: A 9. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 413. § 9. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^40]: A 9. § (5) bekezdését a 13/2019. (II. 11.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.

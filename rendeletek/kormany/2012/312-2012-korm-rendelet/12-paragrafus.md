@@ -1,12 +1,12 @@
 ## 11. Szakhatóság közreműködése
 
-12. § (1)–(3)[^62]
+12. § (1)–(3)[^63]
 
 (4) Előzetes szakhatósági állásfoglalás nélkül benyújtott építésügyi hatósági engedély iránti kérelem esetén a szakhatóságot szakhatósági állásfoglalás beszerzése érdekében az építésügyi hatóság
 
 a) hiánytalan kérelem és mellékletek esetén az eljárás megindulását követően haladéktalanul, de legkésőbb öt napon belül,
 
-b)[^63] hiányos kérelem esetén a hiánypótlást követően haladéktalanul, de legkésőbb három napon belül
+b)[^64] hiányos kérelem esetén a hiánypótlást követően haladéktalanul, de legkésőbb három napon belül
 
 az ÉTDR alkalmazásával, elektronikus úton keresi meg, biztosítva a szakhatóság számára a kérelem, az építészeti-műszaki dokumentáció és az 5. mellékletben meghatározott dokumentáció ÉTDR-ben történő megtekintésének, elérésének és véleményezésének lehetőségét.
 
@@ -26,5 +26,5 @@ f) az építésügyi hatóság által a szakhatósági állásfoglalás megadás
 
 (6) A szakhatóság állásfoglalásának kialakítását és az általa vizsgált dokumentáció záradékolását a számára biztosított ÉTDR-ben végzi.
 
-[^62]: A 12. § (1)–(3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 13. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^63]: A 12. § (4) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 6. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^63]: A 12. § (1)–(3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 13. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^64]: A 12. § (4) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 180. § 6. pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

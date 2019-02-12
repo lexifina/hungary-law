@@ -2,11 +2,11 @@
 
 10. § (1) Az elektronikus mappában lévő kérelem automatikusan ÉTDR-azonosítót kap, amely alkalmas a beérkezett irat és mellékletei azonosítására, valamint tartalmazza az ügy azonosítóját, amely biztosítja az ügyhöz később csatolt dokumentumok azonosíthatóságát. Az ÉTDR az azonosítókról a kérelem és mellékletei feltöltésekor automatikusan értesítést küld a kérelmezőnek, építtetőnek.
 
-(2)[^40]
+(2)[^41]
 
-(3)[^41] Az eljáró hatóság – a 11. § (2) bekezdés kivételével – az ÉTDR-ben kiállított dokumentummal az ügyfél által megjelölt kapcsolattartási forma alkalmazásával értesíti az eljárás megindulásáról az építtetőt és a már ismert ügyfelet. Amennyiben az építésügyi hatóság függő hatályú döntést is hoz, az értesítést a döntésbe foglalja.
+(3)[^42] Az eljáró hatóság – a 11. § (2) bekezdés kivételével – az ÉTDR-ben kiállított dokumentummal az ügyfél által megjelölt kapcsolattartási forma alkalmazásával értesíti az eljárás megindulásáról az építtetőt és a már ismert ügyfelet. Amennyiben az építésügyi hatóság függő hatályú döntést is hoz, az értesítést a döntésbe foglalja.
 
-(4)[^42] A (3) bekezdés szerinti értesítés tartalmazza
+(4)[^43] A (3) bekezdés szerinti értesítés tartalmazza
 
 a) az ügy tárgyát, iktatási számát, az eljárás megindításának napját és az adott ügyfajtára irányadó ügyintézési határidőt, az ügyintézési határidőbe nem számító időtartamokat, az ügyintéző nevét és hivatali elérhetőségét,
 
@@ -30,17 +30,17 @@ j) a tájékoztatást az ügyre vonatkozó minden egyéb lényeges információr
 
 k) a tájékoztatást arról, hogy – az Ákr. 26. § (1) bekezdésében meghatározottakon túl – ha a kapcsolattartás módjáról nyolc napon belül nem nyilatkozik, az eljárással kapcsolatos érdemi döntésről az ÉTDR általános felületén milyen módon értesülhet.
 
-(5)[^43] Az építésügyi és az építésfelügyeleti hatóság az eljárásában az ügyfelek és az értesítendők adatait
+(5)[^44] Az építésügyi és az építésfelügyeleti hatóság az eljárásában az ügyfelek és az értesítendők adatait
 
 a) az ingatlan-nyilvántartásból,
 
-b)[^44] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
+b)[^45] polgárok személyi, lakcím- és értesítési cím adatait tartalmazó nyilvántartásból, vagy
 
 c) az elektronikus elérhetőségi adatai tekintetében az ügyintézési rendelkezési nyilvántartásból
 
 elektronikus úton közvetlen lekérdezés útján a vonatkozó jogszabályok szerint szerzi be.
 
-(6)[^45] Az építésügyi hatóság az ÉTDR általános tájékoztatási felületén mindenki által hozzáférhető módon – személyes adatot nem tartalmazó – általános tájékoztatást ad a hatáskörébe tartozó megindult és lezárult engedélyezési eljárás következő főbb ismérveiről:
+(6)[^46] Az építésügyi hatóság az ÉTDR általános tájékoztatási felületén mindenki által hozzáférhető módon – személyes adatot nem tartalmazó – általános tájékoztatást ad a hatáskörébe tartozó megindult és lezárult engedélyezési eljárás következő főbb ismérveiről:
 
 a) az eljárás megindulását követő munkanapon
 
@@ -54,12 +54,12 @@ ad) a 8. mellékletben meghatározott tartalmú helyszínrajz, utcai homlokzati 
 
 b) a döntés kiadmányozását követő munkanapon a döntés rövid tartalma és meghozatalának időpontja,
 
-c)[^46] a döntés véglegessé válását követően, az építtető értesítésével egyidejűleg a döntés véglegessé válásának napja.
+c)[^47] a döntés véglegessé válását követően, az építtető értesítésével egyidejűleg a döntés véglegessé válásának napja.
 
-[^40]: A 10. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 10. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^41]: A 10. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (5) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 13. § 13. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^42]: A 10. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^43]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^44]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^45]: A 10. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
-[^46]: A 10. § (6) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 9–10. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^41]: A 10. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 10. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^42]: A 10. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (5) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 13. § 13. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^43]: A 10. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^44]: A 10. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^45]: A 10. § (5) bekezdés b) pontja a 176/2013. (VI. 3.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^46]: A 10. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (6) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
+[^47]: A 10. § (6) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 9–10. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -20,7 +20,7 @@ e) annak vizsgálatát, hogy az engedély hatályának meghosszabbítását mily
 
 f) az általa kérelmezni szándékozott eljárásra vonatkozó szabályokról egyéb tájékoztatás nyújtását.
 
-(3)[^13] Az építésügyi hatóság – függetlenül attól, hogy a szolgáltatás iránti kérelem milyen módon érkezett – az építésügyi hatósági szolgáltatás iránti kérelem benyújtását követő munkanaptól számított tizenöt napon belül szakmai nyilatkozatot fogalmaz meg, melynek tartalma nem köti az építtetőt az építésügyi hatósági engedély vagy az építésügyi hatósági tudomásulvétel iránti kérelmének benyújtásában és nem kötelezi az építtetőt az építésügyi hatósági engedély iránti kérelem benyújtására.
+(3)[^13] Az építésügyi hatóság az építésügyi hatósági szolgáltatás iránti kérelem benyújtását követő munkanaptól számított tizenöt napon belül szakmai nyilatkozatot fogalmaz meg, melynek tartalma nem köti az építtetőt az építésügyi hatósági engedély vagy az építésügyi hatósági tudomásulvétel iránti kérelmének benyújtásában és nem kötelezi az építtetőt az építésügyi hatósági engedély iránti kérelem benyújtására.
 
 (4)[^14] Az építésügyi hatóság a (3) bekezdés szerinti szakmai nyilatkozatát a tárhelyen vagy a kérelemben a kapcsolattartás módjára megjelölt rendelkezésnek megfelelően küldi meg az építtetőnek.
 
@@ -33,7 +33,7 @@ f) az általa kérelmezni szándékozott eljárásra vonatkozó szabályokról e
 [^10]: A 3. § (2) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdés a) pontja a 441/2015. (XII. 28.) Korm. rendelet 179. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^12]: A 3. § (2) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 2. pontja szerint módosított szöveg.
-[^13]: A 3. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 4. pontja, a 144/2017. (VI. 12.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 4. pontja, a 144/2017. (VI. 12.) Korm. rendelet 16. § b) pontja, a 13/2019. (II. 11.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^14]: A 3. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 5. pontja, a 457/2017. (XII. 28.) Korm. rendelet 413. § 4. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^15]: A 3. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. A bekezdés a 156/2016. (VI. 13.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
 [^16]: A 3. § (6) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 8. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 412. § 1. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

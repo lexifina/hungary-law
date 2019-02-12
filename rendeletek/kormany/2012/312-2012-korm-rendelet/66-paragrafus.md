@@ -1,14 +1,14 @@
-66. § (1)[^339] Az építésfelügyeleti hatóság a hatáskörébe nem tartozó szabálytalanság esetén a jegyzőkönyv, hivatalos feljegyzés, valamint az egyéb bizonyítékok megküldésével a szükséges intézkedések megtételét az ellenőrzés napjától számított nyolc napon belül kezdeményezi a hatáskörrel és illetékességgel rendelkező hatóságnál.
+66. § (1)[^354] Az építésfelügyeleti hatóság a hatáskörébe nem tartozó szabálytalanság esetén a jegyzőkönyv, hivatalos feljegyzés, valamint az egyéb bizonyítékok megküldésével a szükséges intézkedések megtételét az ellenőrzés napjától számított nyolc napon belül kezdeményezi a hatáskörrel és illetékességgel rendelkező hatóságnál.
 
-(2)[^340] Az építési műszaki ellenőr, a felelős műszaki vezető, az építészeti-műszaki tervező, a szakági tervező,, az építőipari kivitelező (a továbbiakban együtt: szakmagyakorló) személy kötelezésekor és bírságolásakor az építésfelügyeleti hatóság a végleges döntése egyidejű megküldésével a szakmagyakorlóról névjegyzéket vezető szervnél a jogszabály szerinti eljárást kezdeményezi.
+(2)[^355] Az építési műszaki ellenőr, a felelős műszaki vezető, az építészeti-műszaki tervező, a szakági tervező,, az építőipari kivitelező (a továbbiakban együtt: szakmagyakorló) személy kötelezésekor és bírságolásakor az építésfelügyeleti hatóság a végleges döntése egyidejű megküldésével a szakmagyakorlóról névjegyzéket vezető szervnél a jogszabály szerinti eljárást kezdeményezi.
 
-(3)[^341] Az építésfelügyeleti hatóság eljárást kezdeményez a névjegyzéket vezető szervnél, ha
+(3)[^356] Az építésfelügyeleti hatóság eljárást kezdeményez a névjegyzéket vezető szervnél, ha
 
-a)[^342] az építészeti-műszaki tervező a kivitelezési dokumentációt jogosulatlanul készítette,
+a)[^357] az építészeti-műszaki tervező a kivitelezési dokumentációt jogosulatlanul készítette,
 
 b) építési-műszaki ellenőrre vagy felelős műszaki vezetőre vonatkozó összeférhetetlenséget észlel.
 
-[^339]: A 66. § (1) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 32. § h) pontja szerint módosított szöveg.
-[^340]: A 66. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 180. § 12. pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 81. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. szerint módosított szöveg.
-[^341]: A 66. § (3) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (3) bekezdésével megállapított szöveg.
-[^342]: A 66. § (3) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 13. § 22. pontja szerint módosított szöveg.
+[^354]: A 66. § (1) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 32. § h) pontja szerint módosított szöveg.
+[^355]: A 66. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 180. § 12. pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 81. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. szerint módosított szöveg.
+[^356]: A 66. § (3) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (3) bekezdésével megállapított szöveg.
+[^357]: A 66. § (3) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 13. § 22. pontja szerint módosított szöveg.

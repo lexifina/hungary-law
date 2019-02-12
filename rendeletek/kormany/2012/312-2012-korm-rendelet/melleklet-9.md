@@ -14,7 +14,7 @@
 
 ## 1.1.3. az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerinti számított építményértéket,
 
-## 1.1.4. azoknak az adatoknak, információknak az ismertetését, amelyek alapján egyértelműen eldönthető a 6. melléklet I-III. táblázatában rögzített szakhatósági bevonás feltételeinek fennállása.
+## 1.1.4. azoknak az adatoknak, információknak az ismertetését, amelyek alapján egyértelműen eldönthető a 6. melléklet III. táblázatában rögzített szakkérdések vizsgálatának és az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendeletben rögzített szakhatósági bevonás feltételeinek fennállása.
 
 ## 1.2. Épületgépészeti műszaki leírás, melynek minden esetben része:
 
@@ -292,7 +292,7 @@
 
 ## 9.4.9. az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
-9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^391]
+9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^406]
 
 Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvételéhez
 
@@ -338,4 +338,4 @@ Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvé
 
 | 16. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^391]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
+[^406]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
