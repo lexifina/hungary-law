@@ -32,7 +32,7 @@
 
 ## * A megfelelő témakör vagy témakörök aláhúzandók.
 
-4. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^48]
+4. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^50]
 
 Szám: .............
 
@@ -64,4 +64,4 @@ P. H.
 
 | vizsgabizottság elnöke |
 
-[^48]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 38/2015. (III. 11.) Korm. rendelet 25. § (14) bekezdése iktatta be.
+[^50]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 38/2015. (III. 11.) Korm. rendelet 25. § (14) bekezdése iktatta be.
