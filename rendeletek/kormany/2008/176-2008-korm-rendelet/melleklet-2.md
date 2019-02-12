@@ -44,7 +44,7 @@
 
 ## (3) csak „BB” vagy annál jobb besorolású épület esetén kötelező megadni
 
-2. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^58]
+2. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^59]
 
 ## Energetikai tanúsítvány alátámasztó munkarésze
 
@@ -96,7 +96,7 @@
 
 1.12. Arra vonatkozó információ, hogy az épület egésze műemléki vagy helyi védelem alatt áll-e.
 
-1.12.1.[^59] Műemléki védettség esetében minden épületelem, ami az épületnek a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott értékleltárában szerepel.
+1.12.1.[^60] Műemléki védettség esetében minden épületelem, ami az épületnek a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott értékleltárában szerepel.
 
 1.13. Az épület fűtött szintjeinek száma.
 
@@ -202,7 +202,7 @@
 
 2.15. „BB” vagy annál jobb besorolású épület esetén a megújuló részarány meghatározása.
 
-2.16.[^60] A használatbavételi engedély kiadásához vagy a használatbavétel tudomásulvételéhez, továbbá az épített környezet alakításáról és védelméről szóló törvényben meghatározott egyszerű bejelentéshez kötött építési tevékenység esetén a megvalósulást igazoló hatósági bizonyítvány iránti kérelemhez készülő tanúsítvány esetén az épületre, épületszerkezetekre, gépészeti rendszerekre és azok elemeire az építési tevékenységre vonatkozóan meghatározott módon a Rend. 6. §-a szerinti követelmények és az azoknak való megfelelés igazolása.
+2.16.[^61] A használatbavételi engedély kiadásához vagy a használatbavétel tudomásulvételéhez, továbbá az épített környezet alakításáról és védelméről szóló törvényben meghatározott egyszerű bejelentéshez kötött építési tevékenység esetén a megvalósulást igazoló hatósági bizonyítvány iránti kérelemhez készülő tanúsítvány esetén az épületre, épületszerkezetekre, gépészeti rendszerekre és azok elemeire az építési tevékenységre vonatkozóan meghatározott módon a Rend. 6. §-a szerinti követelmények és az azoknak való megfelelés igazolása.
 
 3. Egész épület számítással végzett tanúsítása esetén a 2. pontban meghatározottakon felül az alátámasztó munkarésznek tartalmaznia kell továbbá a következőket:
 
@@ -242,9 +242,9 @@
 
 6. További, önkéntesen csatolható munkarészek: tervrajz, infra-felvétel, mérési jegyzőkönyv, iratmásolatok, költség-haszon elemzés, a 2. pont szerinti részletezettségében energetikai méretezés a tervezett felújításról.
 
-7.[^61] Műemléki védettségű építmény esetében az alátámasztó munkarésznek tartalmaznia kell a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott értékleltárt. A javasolt korszerűsítési megoldás nem változtathatja meg a műemlék egészét vagy az értékleltárban szereplő épületelemeket.
+7.[^62] Műemléki védettségű építmény esetében az alátámasztó munkarésznek tartalmaznia kell a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott értékleltárt. A javasolt korszerűsítési megoldás nem változtathatja meg a műemlék egészét vagy az értékleltárban szereplő épületelemeket.
 
-[^58]: A 2. melléklet a 261/2015. (IX. 14.) Korm. rendelet 6. § b) pontjával megállapított szöveg.
-[^59]: A 2. melléklet 1. pont 1.12.1. alpontja a 497/2016. (XII. 28.) Korm. rendelet 3. § a) alpontja szerint módosított szöveg.
-[^60]: A 2. melléklet 2.16. pontja a 456/2015. (XII. 29.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^61]: A 2. melléklet 7. pontja a 497/2016. (XII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^59]: A 2. melléklet a 261/2015. (IX. 14.) Korm. rendelet 6. § b) pontjával megállapított szöveg.
+[^60]: A 2. melléklet 1. pont 1.12.1. alpontja a 497/2016. (XII. 28.) Korm. rendelet 3. § a) alpontja szerint módosított szöveg.
+[^61]: A 2. melléklet 2.16. pontja a 456/2015. (XII. 29.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^62]: A 2. melléklet 7. pontja a 497/2016. (XII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
