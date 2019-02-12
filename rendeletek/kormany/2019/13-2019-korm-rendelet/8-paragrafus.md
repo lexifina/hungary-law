@@ -1,0 +1,3 @@
+## 7. § Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet (a továbbiakban: R3.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 39/A. § (6) bekezdése szerinti kivitelezési szerződést üzletszerű gazdasági tevékenységként folytatott építőipari kivitelezési tevékenység esetén írásba kell foglalni. A kivitelezési szerződés megkötését követően a vállalkozó kivitelező viseli annak jogkövetkezményét, amely a tervdokumentáció olyan hiányosságából adódik, melyet a vállalkozó kivitelezőnek a tőle elvárható szakmai gondosság mellett észlelnie kellett volna, de a szerződéskötést megelőzően nem jelzett.”
