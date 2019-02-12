@@ -22,13 +22,7 @@
 
 ## Határidő: azonnal
 
-## 2. Az Európai Hálózatfinanszírozási Eszköz társfinanszírozásával megvalósítandó fejlesztésekhez szükséges éven túli kötelezettségvállaláshoz történő hozzájárulásról szóló 1179/2018. (III. 28.) Korm. határozat
-
-## a) b) pontjában a „114 002 430 228” szövegrész helyébe a „127 502 430 228” szöveg,
-
-## b) c) pontjában a „10 375 014 959” szövegrész helyébe a „12 177 411 069” szöveg
-
-## lép.
+## 2.[^1]
 
 1. melléklet az 1032/2019. (II. 11.) Korm. határozathoz
 
@@ -39,3 +33,5 @@
 | 2. | A projekt tervezett költsége (nettó, Ft) | A projekt tervezett összköltsége (bruttó, Ft) | Európai Hálózatfinanszírozási Eszköz révén finanszírozott támogatás összege (nettó, Ft) | Hazai költségvetési támogatás tervezett összege (Ft) | A projekt tervezett költsége (nettó, Ft) | A projekt tervezett összköltsége (bruttó, Ft) | Európai Hálózatfinanszírozási Eszköz révén finanszírozott támogatás összege (nettó, Ft) | Hazai költségvetési támogatás tervezett összege (Ft) | A projekt tervezett költsége (nettó, Ft) | A projekt tervezett összköltsége (bruttó, Ft) | Európai Hálózatfinanszírozási Eszköz révén finanszírozott támogatás összege (nettó, Ft) | Hazai költségvetési támogatás tervezett összege (Ft) |
 
 | 3. | Európai Hálózatfinanszírozási Eszköz | Kelenföld–Pusztaszabolcs vasútvonal átépítése II. ütem (Százhalombatta–Pusztaszabolcs korszerűsítése és ETCS2 vonatbefolyásoló rendszer kiépítése) | Magyar Állam | NIF Nemzeti Infrastruktúra Fejlesztő Zrt. | 111 464 490 506 | 140 811 455 120 | 72 506 288 117 | 68 305 167 003 | 12 064 901 758 | 15 302 396 110 | 0 | 15 302 396 110 | 123 529 392 264 | 156 113 851 230 | 72 506 288 117 | 83 607 563 113 | A projekt keretében sor kerül a Százhalombatta– Pusztaszabolcs vasúti vonalszakaszon a vasúti pálya és a biztosítóberendezés átépítésére, valamint az Európai Vonatbefolyásoló Rendszer (ETCS) 2. szintjének megfelelő vonatbefolyásoló rendszer kiépítésére a vonatkozó uniós és hazai előírásoknak és elvárásoknak megfelelően. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

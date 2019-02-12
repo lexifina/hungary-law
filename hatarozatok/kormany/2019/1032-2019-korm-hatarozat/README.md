@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1032-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-02-11 | 2019-1032-30-22.1 | 1032/2019. (II. 11.) Korm. határozat |
+| 2019-02-12 | 2019-1032-30-22.2 | 2010: CXXX. törvény |
