@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-191-20-
 | 2016-10-14 | 2009-191-20-22.32 | 306/2016. (X. 13.) Korm. rendelet |
 | 2017-01-01 | 2009-191-20-22.33 | 482/2016. (XII. 28.) Korm. rendelet |
 | 2018-01-01 | 2009-191-20-22.34 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-02-12 | 2009-191-20-22.35 | 13/2019. (II. 11.) Korm. rendelet |

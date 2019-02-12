@@ -2,27 +2,21 @@
 
 ## ÉPÍTŐIPARI KIVITELEZÉSI TEVÉKENYSÉG
 
-3. § (1)[^18] Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 39/A. § (6) bekezdése szerinti kivitelezési szerződést
+3. § (1)[^18] Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 39/A. § (6) bekezdése szerinti kivitelezési szerződést üzletszerű gazdasági tevékenységként folytatott építőipari kivitelezési tevékenység esetén írásba kell foglalni. A kivitelezési szerződés megkötését követően a vállalkozó kivitelező viseli annak jogkövetkezményét, amely a tervdokumentáció olyan hiányosságából adódik, melyet a vállalkozó kivitelezőnek a tőle elvárható szakmai gondosság mellett észlelnie kellett volna, de a szerződéskötést megelőzően nem jelzett.
 
-a) üzletszerű gazdasági tevékenységként folytatott építőipari kivitelezési tevékenység esetén írásba kell foglalni, és
+(2)[^19] A kivitelezési szerződés tartalmazza
 
-b)[^19] – ha az építtető és a fővállalkozó kivitelező között jön létre – a 17. § (2) bekezdés a) pontja szerinti esetben ügyvéd vagy kamarai jogtanácsos általi ellenjegyzése szükséges.
+a)[^20] az építtető, alvállalkozói szerződés esetén a megrendelő vállalkozó kivitelező nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét és elektronikus építési napló (a továbbiakban: e-építési napló) vezetés esetén az alkalmazás használatához szükséges naplóügyfél-jelét (a továbbiakban: NÜJ),
 
-A kivitelezési szerződés megkötését követően a vállalkozó kivitelező viseli annak jogkövetkezményét, amely a tervdokumentáció olyan hiányosságából adódik, melyet a vállalkozó kivitelezőnek a tőle elvárható szakmai gondosság mellett észlelnie kellett volna, de a szerződéskötést megelőzően nem jelzett.
-
-(2)[^20] A kivitelezési szerződés tartalmazza
-
-a)[^21] az építtető, alvállalkozói szerződés esetén a megrendelő vállalkozó kivitelező nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét és elektronikus építési napló (a továbbiakban: e-építési napló) vezetés esetén az alkalmazás használatához szükséges naplóügyfél-jelét (a továbbiakban: NÜJ),
-
-b)[^22] a szolgáltatásra kötelezett vállalkozó kivitelező nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, vállalkozó kivitelezők nyilvántartása szerinti nyilvántartási számát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
+b)[^21] a szolgáltatásra kötelezett vállalkozó kivitelező nevét vagy megnevezését, címét vagy székhelyét, elérhetőségét, adószámát, vállalkozó kivitelezők nyilvántartása szerinti nyilvántartási számát, pénzforgalmi számlaszámát, valamint a képviseletében eljáró személy nevét vagy megnevezését, címét vagy székhelyét és elérhetőségét,
 
 c) a szerződés tárgyában megjelölve a vállalt építőipari kivitelezési tevékenység vagy építési-szerelési munka pontos megnevezését, az építési munkaterület pontos körülírását (cím, helyrajzi szám), az építményre, építési tevékenységre vonatkozó követelmény (mennyiségi és minőségi mutatók) meghatározásával,
 
-d)[^23] a vállalt teljesítési szakaszokat, határidőket részletesen (ideértve a kivitelezési tervszolgáltatásnak, az építési munkaterület átadásának, az építési napló megnyitásának, a tervezett kezdésnek, figyelemmel a (12) bekezdésre, a részteljesítés, az átadás-átvétel, a birtokbaadás határidejét vagy határnapját, az igényelt befejezési határidőt vagy határnapot),
+d)[^22] a vállalt teljesítési szakaszokat, határidőket részletesen (ideértve a kivitelezési tervszolgáltatásnak, az építési munkaterület átadásának, az építési napló megnyitásának, a tervezett kezdésnek, figyelemmel a (12) bekezdésre, a részteljesítés, az átadás-átvétel, a birtokbaadás határidejét vagy határnapját, az igényelt befejezési határidőt vagy határnapot),
 
 e) a vállalkozói díj összege mellett az elszámolás formáját, módját, a fizetés módját, határidejét, a d) pontban foglaltak figyelembevételével szakaszait,
 
-f)[^24] annak rögzítését, hogy az építtető vagy a megrendelő vállalkozó kivitelező, alvállalkozó igénybevételéhez nem járul hozzá,
+f)[^23] annak rögzítését, hogy az építtető vagy a megrendelő vállalkozó kivitelező, alvállalkozó igénybevételéhez nem járul hozzá,
 
 g) a kivitelezési dokumentáció szolgáltatására vonatkozó rendelkezést,
 
@@ -32,7 +26,7 @@ i) a vállalkozói díj megállapításának alapjául szolgáló árazatlan kö
 
 j) az építőipari kivitelezési tevékenység végzése során esetlegesen felmerülő pótmunka díjának elszámolási módját,
 
-k)[^25] fővállalkozói szerződés esetén a teljesítésigazolás kiadására jogosult építési műszaki ellenőr, alvállalkozói szerződés esetén a teljesítésigazolás kiadására jogosult felelős műszaki vezető megnevezését,
+k)[^24] fővállalkozói szerződés esetén a teljesítésigazolás kiadására jogosult építési műszaki ellenőr, alvállalkozói szerződés esetén a teljesítésigazolás kiadására jogosult felelős műszaki vezető megnevezését,
 
 l) a szerződő felek erre irányuló megállapodása és a jogszabályi feltételek fennállása esetén annak rögzítését, hogy a szerződéses jogviszonyukból keletkező vitájuk rendezése érdekében igénybe vesznek-e mediátori közreműködést, illetve jogvitájukat eseti vagy állandó választottbíróság elé terjesztik-e,
 
@@ -42,21 +36,21 @@ n) ha az építtető a fővállalkozó kivitelező részére az ellenszolgáltat
 
 o) a felek megállapodása esetén a fővállalkozó kivitelező által a szavatossági, jótállási (a továbbiakban: garanciális), valamint a nem vagy nem szerződésszerű teljesítés esetére nyújtott (a továbbiakban: teljesítési) biztosíték összegének meghatározását, biztosításának formáját, célját, felhasználásának lehetőségét,
 
-p)[^26] a tartalékkeret felhasználásának részletes szabályait, ha a szerződő felek a pótmunka fedezetének biztosítására tartalékkeretet kötnek ki,
+p)[^25] a tartalékkeret felhasználásának részletes szabályait, ha a szerződő felek a pótmunka fedezetének biztosítására tartalékkeretet kötnek ki,
 
-q)[^27] a fogyasztó és vállalkozás közötti szerződések részletes szabályairól szóló kormányrendelet (a továbbiakban: Fgyr.) szerinti üzlethelyiségen kívül kötött szerződésnek minősülő kivitelezési szerződés esetén
+q)[^26] a fogyasztó és vállalkozás közötti szerződések részletes szabályairól szóló kormányrendelet (a továbbiakban: Fgyr.) szerinti üzlethelyiségen kívül kötött szerződésnek minősülő kivitelezési szerződés esetén
 
 qa) az Fgyr. szerinti szerződéskötést megelőző tájékoztatást, és
 
 qb) az építtető kifejezett nyilatkozatát arra vonatkozóan, hogy kívánja-e a szerződéskötéstől számított 14 napon belül a kivitelezési tevékenység megkezdését,
 
-r)[^28] a kivitelező nyilatkozatát arra vonatkozóan, hogy a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítással rendelkezik vagy legkésőbb a munkaterület átadásakor rendelkezni fog.
+r)[^27] a kivitelező nyilatkozatát arra vonatkozóan, hogy a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítással rendelkezik vagy legkésőbb a munkaterület átadásakor rendelkezni fog.
 
-(2a)[^29] Az általános építmények körében, ha az építtető nem az építési tevékenységgel érintett telek, építmény vagy építményrész tulajdonosa, a kivitelezési szerződés mellékletét képezi az a teljes bizonyító erejű magánokiratba foglalt nyilatkozat, amelyben a telek, építmény, építményrész tulajdonosa az építési munkaterület átadás-átvételét tudomásul veszi.
+(2a)[^28] Az általános építmények körében, ha az építtető nem az építési tevékenységgel érintett telek, építmény vagy építményrész tulajdonosa, a kivitelezési szerződés mellékletét képezi az a teljes bizonyító erejű magánokiratba foglalt nyilatkozat, amelyben a telek, építmény, építményrész tulajdonosa az építési munkaterület átadás-átvételét tudomásul veszi.
 
-(3)[^30] Az alvállalkozói kivitelezési szerződés – a (2) bekezdésben foglaltakon túlmenően – tartalmazza név, illetve megnevezés, adószám, lakcím, illetve székhely szerint rögzítve, hogy mely vállalkozó (fővállalkozó) kivitelezővel kötött kivitelezési szerződés teljesítése érdekében kerül sor az alvállalkozói kivitelezési szerződés megkötésére, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő megnevezését és elérhetőségét.
+(3)[^29] Az alvállalkozói kivitelezési szerződés – a (2) bekezdésben foglaltakon túlmenően – tartalmazza név, illetve megnevezés, adószám, lakcím, illetve székhely szerint rögzítve, hogy mely vállalkozó (fővállalkozó) kivitelezővel kötött kivitelezési szerződés teljesítése érdekében kerül sor az alvállalkozói kivitelezési szerződés megkötésére, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő megnevezését és elérhetőségét.
 
-(4)[^31] A (2) bekezdésben nem szabályozott kérdésekben a Polgári Törvénykönyvnek (a továbbiakban: Ptk.) a kivitelezési szerződésre vonatkozó rendelkezései irányadóak.
+(4)[^30] A (2) bekezdésben nem szabályozott kérdésekben a Polgári Törvénykönyvnek (a továbbiakban: Ptk.) a kivitelezési szerződésre vonatkozó rendelkezései irányadóak.
 
 (5) A vállalkozói díjnak magában kell foglalnia
 
@@ -70,40 +64,39 @@ b) a fedezetet, ennek keretében
 
 ba) a közvetlen költségek között nem szereplő általános költségeket,
 
-bb)[^32] a tervezett nyereséget, amennyiben azt a rezsióradíj nem tartalmazza.
+bb)[^31] a tervezett nyereséget, amennyiben azt a rezsióradíj nem tartalmazza.
 
-(6)[^33] Aránytalanul alacsony árajánlatnak minősül, ha a vállalkozó kivitelező által alkalmazott rezsióradíj alacsonyabb az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján az építésügyért felelős miniszter rendeletében megállapított minimális építőipari rezsióradíj mértékénél. A kivitelezési szerződés megkötésekor az aránytalanul alacsony ár vizsgálata során az építésügyért felelős miniszter által működtetett honlapon található elektronikus költségvetési kiírási programban meghatározott élőmunka szükségleti normatívákat irányadónak lehet tekinteni.
+(6)[^32] Aránytalanul alacsony árajánlatnak minősül, ha a vállalkozó kivitelező által alkalmazott rezsióradíj alacsonyabb az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján az építésgazdaságért felelős miniszter rendeletében megállapított minimális építőipari rezsióradíj mértékénél. A kivitelezési szerződés megkötésekor az aránytalanul alacsony ár vizsgálata során az építésgazdaságért felelős miniszter által működtetett honlapon található elektronikus költségvetési kiírási programban meghatározott élőmunka szükségleti normatívákat irányadónak lehet tekinteni.
 
-(7)[^34]
+(7)[^33]
 
-(8)[^35] A többletmunka utólag csak akkor számolható el, ha a vállalkozó kivitelező által készített árazott tételes költségvetési kiírásban a tétel szerepelt, de a mennyiség változott.
+(8)[^34] A többletmunka utólag csak akkor számolható el, ha a vállalkozó kivitelező által készített árazott tételes költségvetési kiírásban a tétel szerepelt, de a mennyiség változott.
 
-(9)[^36] A kivitelező – az erre vonatkozó külön megállapodásban foglaltak szerint – a műszaki szükségesség, vagy a rendeltetésszerű és biztonságos használat miatt szükséges pótmunkát köteles elvégezni.
+(9)[^35] A kivitelező – az erre vonatkozó külön megállapodásban foglaltak szerint – a műszaki szükségesség, vagy a rendeltetésszerű és biztonságos használat miatt szükséges pótmunkát köteles elvégezni.
 
 (10) A szerződés módosítását megalapozó körülménynek tekintendő különösen, ha a szerződés teljesítése során olyan természeti vagy építészeti érték kerül elő, amelyről a kulturális örökségvédelmi hatóság külön jogszabályban meghatározott intézkedése alapján feltételezhető, hogy kulturális örökségi értéknek minősül és annak megőrzése a vállalkozó kivitelező feladata.
 
-(11)[^37] A megrendelő vállalkozó kivitelezőnek haladéktalanul tájékoztatni kell az általa vállalt kivitelezési tevékenység megvalósításában részt vevő alvállalkozó kivitelezőt arról, ha a kivitelezési tevékenység ellenértékét meghaladja az abban megjelenő alvállalkozói munkák ellenértéke.
+(11)[^36] A megrendelő vállalkozó kivitelezőnek haladéktalanul tájékoztatni kell az általa vállalt kivitelezési tevékenység megvalósításában részt vevő alvállalkozó kivitelezőt arról, ha a kivitelezési tevékenység ellenértékét meghaladja az abban megjelenő alvállalkozói munkák ellenértéke.
 
-(12)[^38] Ha a kivitelezési szerződés az Fgyr. szerinti üzlethelyiségen kívül kötött szerződésnek minősül és az építtető nem tett (2) bekezdés q) pont qb) alpontja szerinti nyilatkozatot, akkor a vállalkozó kivitelező a teljesítést a szerződés megkötésétől számított 14. napot követően kezdi meg. E bekezdés vonatkozásában üzlethelyiségnek minősül különösen a vállalkozó kivitelező valamint a nevében vagy képviseletében eljáró személy székhelye, telephelye, fióktelepe vagy irodája.
+(12)[^37] Ha a kivitelezési szerződés az Fgyr. szerinti üzlethelyiségen kívül kötött szerződésnek minősül és az építtető nem tett (2) bekezdés q) pont qb) alpontja szerinti nyilatkozatot, akkor a vállalkozó kivitelező a teljesítést a szerződés megkötésétől számított 14. napot követően kezdi meg. E bekezdés vonatkozásában üzlethelyiségnek minősül különösen a vállalkozó kivitelező valamint a nevében vagy képviseletében eljáró személy székhelye, telephelye, fióktelepe vagy irodája.
 
-[^18]: A 3. § (1) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja, záró szövegrésze a 12. § 4. pontja szerint módosított szöveg.
-[^19]: A 3. § (1) bekezdés b) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 3. pontja, a 393/2017. (XII. 13.) Korm. rendelet 33. §-a szerint módosított szöveg.
-[^20]: A 3. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
-[^21]: A 3. § (2) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a, a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont aa) alpontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 5. pontja, a 482/2016. (XII. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
-[^22]: A 3. § (2) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a, a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ab) alpontja, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 2. pontja szerint módosított szöveg.
-[^23]: A 3. § (2) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 6. pontja szerint módosított szöveg.
-[^24]: A 3. § (2) bekezdés f) pontja a 322/2012. (XI. 16.) Korm. rendelet 57. § (1) bekezdésével megállapított szöveg.
-[^25]: A 3. § (2) bekezdés k) pontja a 322/2012. (XI. 16.) Korm. rendelet 57. § (2) bekezdésével megállapított szöveg.
-[^26]: A 3. § (2) bekezdés p) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^27]: A 3. § (2) bekezdés q) pontját a 62/2014. (III. 6.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^28]: A 3. § (2) bekezdés r) pontját a 353/2016. (XI. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^29]: A 3. § (2a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^30]: A 3. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ac) alpontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
-[^31]: A 3. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^32]: A 3. § (5) bekezdés b) pont bb) alpontja a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
-[^33]: A 3. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
-[^34]: A 3. § (7) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § b) pontja hatályon kívül helyezte.
-[^35]: A 3. § (8) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^36]: A 3. § (9) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 482/2016. (XII. 28.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
-[^37]: A 3. § (11) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ad) alpontja szerint módosított szöveg.
-[^38]: A 3. § (12) bekezdését a 62/2014. (III. 6.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^18]: A 3. § (1) bekezdése a 13/2019. (II. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^19]: A 3. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
+[^20]: A 3. § (2) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a, a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont aa) alpontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 5. pontja, a 482/2016. (XII. 28.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^21]: A 3. § (2) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 65. §-a, a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ab) alpontja, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 2. pontja szerint módosított szöveg.
+[^22]: A 3. § (2) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 6. pontja szerint módosított szöveg.
+[^23]: A 3. § (2) bekezdés f) pontja a 322/2012. (XI. 16.) Korm. rendelet 57. § (1) bekezdésével megállapított szöveg.
+[^24]: A 3. § (2) bekezdés k) pontja a 322/2012. (XI. 16.) Korm. rendelet 57. § (2) bekezdésével megállapított szöveg.
+[^25]: A 3. § (2) bekezdés p) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^26]: A 3. § (2) bekezdés q) pontját a 62/2014. (III. 6.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^27]: A 3. § (2) bekezdés r) pontját a 353/2016. (XI. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^28]: A 3. § (2a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^29]: A 3. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ac) alpontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^30]: A 3. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^31]: A 3. § (5) bekezdés b) pont bb) alpontja a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
+[^32]: A 3. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja, a 13/2019. (II. 11.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^33]: A 3. § (7) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § b) pontja hatályon kívül helyezte.
+[^34]: A 3. § (8) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^35]: A 3. § (9) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 482/2016. (XII. 28.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^36]: A 3. § (11) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ad) alpontja szerint módosított szöveg.
+[^37]: A 3. § (12) bekezdését a 62/2014. (III. 6.) Korm. rendelet 11. § (3) bekezdése iktatta be.

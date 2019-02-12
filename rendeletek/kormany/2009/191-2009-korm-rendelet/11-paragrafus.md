@@ -1,5 +1,5 @@
 ## Összeférhetetlenségi szabályok
 
-11. §[^75]
+11. §[^74]
 
-[^75]: A 11. §-t a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont ge) alpontja hatályon kívül helyezte.
+[^74]: A 11. §-t a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont ge) alpontja hatályon kívül helyezte.

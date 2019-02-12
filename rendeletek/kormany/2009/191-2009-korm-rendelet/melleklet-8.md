@@ -1,18 +1,4 @@
-|  | A | B |
-
-| 1. | Építési beruházás kivitelezési szerződésben rögzített visszaigényelhető általános forgalmi adó nélküli értéke | Fedezetkezelés havi díja a beruházás értékének ezrelékében meghatározva |
-
-| 2. | 100 millió-500 millió Ft között | 0,1 ezrelék, de legalább 30 000 Ft |
-
-| 3. | 500 millió-1 000 millió Ft között | 0,1 ezrelék, de legalább 75 000 Ft |
-
-| 4. | 1000 millió-1 500 millió Ft között | 0,1 ezrelék, de legalább 130 000 Ft |
-
-| 5. | 1500 millió-2 000 millió Ft között | 0,09 ezrelék, de legalább 165 000 Ft |
-
-| 6. | 2000 millió Ft felett | 200 000 Ft |
-
-8. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^346]
+8. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^352]
 
 Nyilvántartásba vett vállalkozó kivitelezők teljesítésre való alkalmasságának megítélése
 
@@ -54,4 +40,4 @@ II. A műszaki és szakmai alkalmasság területén
 
 | 8. | 7. | önkéntes | minőségbiztosítási szabványnak való megfelelőség tanúsítása | független szerveztet által kiállított tanúsítvány vagy az EU más tagállamában bejegyzett szervezettől származó egyenértékű tanúsítvány vagy az egyenértékű minőségbiztosítási intézkedés bizonyítékainak benyújtása |
 
-[^346]: A 8. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 91. § e) pontja iktatta be.
+[^352]: A 8. mellékletet a 322/2012. (XI. 16.) Korm. rendelet 91. § e) pontja iktatta be.
