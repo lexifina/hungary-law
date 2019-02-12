@@ -1,4 +1,4 @@
-## Az Építésügyi Szolgáltató Pont 1. § (9) bekezdésében meghatározott feladatait ellátó, építésügyi hatósági feladattal és hatáskörrel nem rendelkező települési önkormányzatok
+## Az Építésügyi Szolgáltatási Pont 1. § (9) bekezdésében meghatározott feladatait ellátó, építésügyi hatósági feladattal és hatáskörrel nem rendelkező települési önkormányzatok
 
 |  | A | B |
 
@@ -258,6 +258,6 @@
 
 | 128. | Berhida | Veszprém |
 
-1/A. melléklet a 343/2006. (XII. 23.) Korm. rendelet 1. mellékletéhez[^86]
+1/A. melléklet a 343/2006. (XII. 23.) Korm. rendelet 1. mellékletéhez[^88]
 
-[^86]: Az 1/A. mellékletet a 393/2007. (XII. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 394/2012. (XII. 20.) Korm. rendelet 17. § (7) bekezdése.
+[^88]: Az 1/A. mellékletet a 393/2007. (XII. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 394/2012. (XII. 20.) Korm. rendelet 17. § (7) bekezdése.
