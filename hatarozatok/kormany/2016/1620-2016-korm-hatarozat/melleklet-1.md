@@ -1,42 +1,16 @@
 ## 1. A Kormány a Belügyminisztérium teljes személyi állományának budai Várnegyedben történő elhelyezése érdekében
 
-## 1.1. egyetért az állam tulajdonában álló, természetben a Budapest I. kerület, Nándor utca 5–7. szám alatt található, Budapest 6628 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) felújításával és átalakításával (a továbbiakban: Beruházás);
+## 1.1.[^1]
 
-## 1.2. egyetért azzal, hogy a Beruházás
+## 1.2.[^2]
 
-## a) építtetője a Belügyminisztérium,
+## 1.3.[^3]
 
-## b) lebonyolítója a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság
+## 1.4.[^4]
 
-## legyen;
+## 1.5.[^5]
 
-## 1.3. felhívja a belügyminisztert, hogy az 1.1. és az 1.2. pont alapján gondoskodjon az Ingatlant érintő Beruházás előkészítéséről;
-
-## Felelős: belügyminiszter
-
-## Határidő: 2016. december 31.
-
-## 1.4. az 1.1. pontban foglaltakkal összefüggésben felhívja a nemzeti fejlesztési minisztert, hogy – a belügyminiszter közreműködésével – intézkedjen az MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság által az Ingatlan felújítására és átalakítására kidolgoztatott tervek megvásárlása és a Belügyminisztérium részére történő átadása érdekében;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## belügyminiszter
-
-## Határidő: 2016. december 31.
-
-## 1.5. az 1.1. pontban foglaltakkal összefüggésben felhívja a belügyminisztert, hogy intézkedjen az 1.4. pont szerinti terveknek a Belügyminisztérium elhelyezési igényeinek megfelelő áttervezése érdekében;
-
-## Felelős: belügyminiszter
-
-## Határidő: 2017. március 31.
-
-## 1.6. az 1.1. pontban foglaltakkal összefüggésben felhívja a nemzeti fejlesztési minisztert, hogy – a nemzetgazdasági miniszter közreműködésével – intézkedjen az Ingatlannak a Közbeszerzési és Ellátási Főigazgatóság vagyonkezelésébe adása érdekében;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: 2018. március 31.
+## 1.6.[^6]
 
 ## 1.7. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva elrendeli a Belügyminisztérium budai Várnegyedben történő elhelyezéséhez kapcsolódó további intézkedések finanszírozásához 60,0 millió forint egyszeri jellegű átcsoportosítását elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 1. Belügyminisztérium igazgatása cím javára, az 1. melléklet szerint;
 
@@ -48,11 +22,7 @@
 
 ## az elszámolás és a visszatérítés tekintetében 2017. június 30.
 
-## 1.8. felhívja a belügyminisztert, hogy a részletes költség- és ütemterv alapján gondoskodjon a Beruházás megvalósításához szükséges költségvetési források Kormány részére történő bemutatásáról;
-
-## Felelős: belügyminiszter
-
-## Határidő: 2017. április 30.
+## 1.8.[^7]
 
 ## 1.9. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján tegye meg a szükséges intézkedéseket
 
@@ -90,9 +60,9 @@
 
 ## Határidő: a Belügyminisztérium Budavárban történő elhelyezéséhez szükséges ingatlanok közműcsatlakozást érintő közterületi munkáinak befejezését követő 30 napon belül
 
-## 1.12.[^1]
+## 1.12.[^8]
 
-## 2.[^2]
+## 2.[^9]
 
 1. melléklet az 1620/2016. (XI. 11.) Korm. határozathoz
 
@@ -148,5 +118,12 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont 1.12. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.1. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
+[^2]: Az 1. pont 1.2. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
+[^3]: Az 1. pont 1.3. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
+[^4]: Az 1. pont 1.4. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
+[^5]: Az 1. pont 1.5. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
+[^6]: Az 1. pont 1.6. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
+[^7]: Az 1. pont 1.8. alpontját az 1034/2019. (II. 13.) Korm. határozat 5. pontja visszavonta.
+[^8]: Az 1. pont 1.12. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
