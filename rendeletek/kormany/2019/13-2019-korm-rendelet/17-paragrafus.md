@@ -1,1 +1,3 @@
-## „(5) Az építésfelügyeleti hatóság az (1) bekezdés b) és c) pontja szerinti ellenőrzéseit – az építésügyi hatóság, az illetékes területi építész-, illetve mérnöki kamara, valamint területi ipar- és kereskedelmi kamara, az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, továbbá az építtetői fedezetkezelők javaslatát is figyelembe véve – a (4) bekezdés szerinti ellenőrzési utasítás figyelembevételével az ellenőrzési időszakot megelőző 15. napjáig elkészített éves munkaterv szerint végzi.”
+## 16. §[^16]
+
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 21. § Hatályát veszti az R5. 2. § (1) bekezdésében az „Az alapvizsgával rendelkező köztisztviselő első szakmai továbbképzési időszaka 2014. január 1-jével kezdődik.” szövegrész.
+## 21. §[^21]
 
 ## 7. A lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet módosítása
+
+[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
