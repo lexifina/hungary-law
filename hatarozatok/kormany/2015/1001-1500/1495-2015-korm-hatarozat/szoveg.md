@@ -2,21 +2,17 @@ A Kormány
 
 1. egyetért a Nyíregyháza város építészeti örökségének részét képező Kállay-kúria Nyíregyháza 6019/1/A/1 helyrajzi számon nyilvántartott részének felújításával;
 
-2. felhívja a nemzetgazdasági minisztert, hogy az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon 964,5 millió forint többletforrás rendelkezésre állásáról a 2015. évi központi költségvetés XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetében;
+2.[^1] egyetért a Kállay-kúria 1. mellékletben meghatározott helyrajzi számokon nyilvántartott részeinek felújításához (a továbbiakban: Beruházások) – az állam által már megvalósított felújítási munkálatok költségeinek figyelembevételével – összesen 994 000 000 forint költségvetési forrás biztosításával azzal, hogy a költségvetési forrásnak a 8. pont alapján meghatározott részét a Modern Városok Program keretében kell a Beruházások második ütemét megvalósító Nyíregyháza Megyei Jogú Város Önkormányzatának (a továbbiakban: Önkormányzat) nyújtani,
 
-Felelős: nemzetgazdasági miniszter
-
-Határidő: a felmerülés ütemében
-
-3.[^1] felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) közreműködésével tegye meg a szükséges intézkedéseket az 1. pont szerinti ingatlan felújítása érdekében.
+3.[^2] felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) közreműködésével tegye meg a szükséges intézkedéseket az 1. pont szerinti ingatlan felújítása érdekében.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2016. december 31.
 
-4.[^2] az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (2) bekezdés c) pontjában, valamint 36. § (3) bekezdésében biztosított jogkörében eljárva úgy dönt, hogy az 1. mellékletben meghatározott, állami vagyonba tartozó ingatlanok (a továbbiakban: Ingatlanok) ingyenesen Nyíregyháza Megyei Jogú Város Önkormányzatának (a továbbiakban: Önkormányzat) tulajdonába kerüljenek;
+4.[^3] az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (2) bekezdés c) pontjában, valamint 36. § (3) bekezdésében biztosított jogkörében eljárva úgy dönt, hogy az 1. mellékletben meghatározott, állami vagyonba tartozó ingatlanok (a továbbiakban: Ingatlanok) ingyenesen az Önkormányzat tulajdonába kerüljenek;
 
-5.[^3] felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján tegye meg a szükséges intézkedéseket annak érdekében, hogy a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés (a továbbiakban: Szerződés) az Önkormányzattal megkötésre kerüljön oly módon, hogy a Szerződés – a tulajdonátruházási szerződésekre vonatkozó általános jogszabályi követelményeken túlmenően – tartalmazza:
+5.[^4] felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján tegye meg a szükséges intézkedéseket annak érdekében, hogy a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés (a továbbiakban: Szerződés) az Önkormányzattal megkötésre kerüljön oly módon, hogy a Szerződés – a tulajdonátruházási szerződésekre vonatkozó általános jogszabályi követelményeken túlmenően – tartalmazza:
 
 a) az Ingatlanok tulajdonosi joggyakorló által megállapított forgalmi értékét,
 
@@ -34,15 +30,17 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: az állami vagyont érintő egyes kormányhatározatok módosításáról szóló 1209/2018. (IV. 5.) Korm. határozat közzétételét követő három hónapon belül
 
-6.[^4] felhívja a nemzetgazdasági minisztert, hogy – a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter bevonásával – a Kállay-kúria felújításához szükséges további, az Ingatlanokon megvalósuló beruházások (a továbbiakban: Beruházások) megvalósítása érdekében gondoskodjon a 8. pont szerinti előterjesztés alapján a Beruházások megvalósításához szükséges, legfeljebb 400,0 millió forint többletforrás biztosításáról a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport javára, azzal, hogy a Kállay-kúria 1. pont szerinti felújításához biztosított és a Beruházásokhoz biztosítandó költségvetési forrás együttes összege nem haladhatja meg a 2. pont szerinti 964,5 millió forintos összeget;
+6.[^5] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter kezdeményezése alapján – gondoskodjon a Beruházások második ütemének finanszírozásához biztosított legfeljebb 400 000 000 forint többletforrás visszapótlásáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport javára, ha az a jogcímcsoportot terhelő 2019. évi kifizetések teljesítéséhez szükséges,
 
-Felelős: nemzetgazdasági miniszter
+Felelős: pénzügyminiszter
 
-Határidő: a 8. pont szerinti előterjesztés alapján meghozott támogatási döntést követően azonnal
+Miniszterelnökséget vezető miniszter
 
-7.[^5] egyetért azzal, hogy a Beruházások megvalósítója az Önkormányzat legyen;
+Határidő: a felmerülés ütemében
 
-8.[^6] felhívja a nemzeti fejlesztési minisztert mint a Beruházások szakpolitikai felelősét, hogy – a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter bevonásával, a 6. pontban foglaltak figyelembevételével – a Beruházások Önkormányzat általi megvalósításához szükséges forrás, de legfeljebb 400,0 millió forint biztosítása érdekében – a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet 6. § (1) bekezdése alapján – nyújtson be előterjesztést a Modern Városok Program Bizottság részére.
+7.[^6] egyetért azzal, hogy a Beruházások megvalósítója az Önkormányzat legyen;
+
+8.[^7] felhívja a nemzeti fejlesztési minisztert mint a Beruházások szakpolitikai felelősét, hogy – a megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter bevonásával, a 6. pontban foglaltak figyelembevételével – a Beruházások Önkormányzat általi megvalósításához szükséges forrás, de legfeljebb 400,0 millió forint biztosítása érdekében – a Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet 6. § (1) bekezdése alapján – nyújtson be előterjesztést a Modern Városok Program Bizottság részére.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -50,28 +48,34 @@ megyei jogú városok fejlesztéséért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-1 melléklet az 1495/2015. (VII. 21.) Korm. határozathoz[^7]
+9.[^8] egyetért azzal, hogy a Beruházások az Ingatlanok egy helyrajzi szám alá történő összevonásából kialakuló ingatlanon valósuljanak meg.
 
-Az Önkormányzat részére tulajdonba adásra kerülő, az MNV Zrt. tulajdonosi joggyakorlása alatt álló ingatlanok jegyzéke
+1 melléklet az 1495/2015. (VII. 21.) Korm. határozathoz[^9]
 
-| Önkormányzat | Település | Hrsz. | Ingatlan- nyilvántartási megnevezés | Terület (m2) | Segítendő feladat / felhasználási cél |
+Az Önkormányzat részére tulajdonba adásra kerülő, az MNV Zrt. tulajdonosi joggyakorlása alatt álló ingatlanok jegyzéke.
 
-| Nyíregyháza Megyei Jogú Város Önkormányzata | Nyíregyháza | 6019/1/A/1 | kivett múzeum | 478 | a) településfejlesztés, településrendezés; b) kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; c) a helyi közművelődési tevékenység támogatása / építészeti örökség védelme, Jósa András Múzeum állandó és időszakos kiállításainak, múzeumi tevékenységet kiszolgáló helyiségek elhelyezése, közművelődési színtér kialakítása, az egykori miniszterelnök hagyatékának méltó elhelyezése és bemutatása |
+|  | A | B | C | D | E | F |
 
-| 6019/1/A/2 | egyéb helyiség | 896 | a) településfejlesztés, településrendezés; b) kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; c) a helyi közművelődési tevékenység támogatása / építészeti örökség védelme, Jósa András Múzeum állandó és időszakos kiállításainak, múzeumi tevékenységet kiszolgáló helyiségek elhelyezése, közművelődési színtér kialakítása |
+| 1. | Önkormányzat | Település, fekvés | Helyrajzi szám | Ingatlan nyilvántartási megnevezés | Terület (m2) | Segítendő feladat / felhasználási cél |
 
-| 6019/1/B | önálló gazdasági épület | 130 | a) kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; b) filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; c) a helyi közművelődési tevékenység támogatása / Jósa András Múzeum egyes közgyűjteményi raktárainak elhelyezése |
+| 2. | Nyíregyháza Megyei Jogú Város Önkormányzata | Nyíregyháza, belterület | 6019/1/A/1 | kivett múzeum | 478 | a) Településfejlesztés, településrendezés, b) kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása, filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme, c) a helyi közművelődési tevékenység támogatása, illetve az építészeti örökség védelme, Jósa András Múzeum állandó és időszakos kiállításainak, múzeumi tevékenységet kiszolgáló helyiségek elhelyezése, közművelődési színtér kialakítása, az egykori miniszterelnök hagyatékának méltó elhelyezése és bemutatása, d) településüzemeltetés. |
 
-| 6019/1/C/1 | egyéb helyiség | 78 | a) kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; b) filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; c) a helyi közművelődési tevékenység támogatása / Jósa András Múzeum tevékenységét kiszolgáló helyiségek elhelyezése |
+| 3. | 6019/1/A/2 | egyéb helyiség | 896 |
 
-| 6019/C/2 | egyéb helyiség | 90 | a) kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; b) filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; c) a helyi közművelődési tevékenység támogatása / Jósa András Múzeum tevékenységét kiszolgáló helyiségek elhelyezése |
+| 4. | 6019/1/B | önálló gazdasági épület | 130 |
 
-| 6019/1/C/3 | raktár | 11 | a) kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; b) filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; c) a helyi közművelődési tevékenység támogatása / Jósa András Múzeum raktárainak elhelyezése |
+| 5. | 6019/1/C/1 | egyéb helyiség | 78 |
 
-[^1]: A 3. pont az 1209/2018. (IV. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^2]: A 4. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be.
-[^3]: Az 5. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be.
-[^4]: A 6. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be.
-[^5]: A 7. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be.
-[^6]: A 8. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be.
-[^7]: Az 1. mellékletet az 1209/2018. (IV. 5.) Korm. határozat 2. pontja iktatta be.
+| 6. | 6019/1/C/2 | egyéb helyiség | 90 |
+
+| 7. | 6019/1/C/3 | raktár | 11 |
+
+[^1]: A 2. pont az 1036/2019. (II. 13.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1209/2018. (IV. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 4. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be, szövege az 1036/2019. (II. 13.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^4]: Az 5. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be.
+[^5]: A 6. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be, szövege az 1036/2019. (II. 13.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: A 7. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be.
+[^7]: A 8. pontot az 1209/2018. (IV. 5.) Korm. határozat 1. pontja iktatta be.
+[^8]: A 9. pontot az 1036/2019. (II. 13.) Korm. határozat 3. pontja iktatta be.
+[^9]: Az 1. mellékletet az 1209/2018. (IV. 5.) Korm. határozat 2. pontja iktatta be, szövege az 1036/2019. (II. 13.) Korm. határozat 4. pontjával megállapított szöveg.
