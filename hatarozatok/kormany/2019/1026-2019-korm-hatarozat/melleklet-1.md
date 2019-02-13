@@ -18,8 +18,11 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:69 mezőjében a „16,10” szövegrész helyébe a „18,12” szöveg lép.
+## 4.[^1]
 
-## 5. A Kormány visszavonja a KEHOP-1.4.0-15-2016-00017 azonosító számú („Tisza hullámtér: Nagyvízi meder vízszállító képességének javítása a szolnoki vasúti híd és Kisköre közötti szakaszon” című) nagyprojekt-javaslat jóváhagyásáról szóló 1140/2016. (III. 21.) Korm. határozatot.
+## 5.[^2]
 
 1. melléklet az 1026/2019. (II. 11.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
