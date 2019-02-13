@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:83 mezőjében a „0,88” szövegrész helyébe az „1,31” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1027/2019. (II. 11.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 |  | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, Ft) | Többlettámogatás legfeljebb (bruttó, Ft) | Megnövelt támogatás legfeljebb (bruttó, Ft) | Projekt rövid bemutatása |
 
 |  | 2. | KEHOP-1.6.0-15- 2016-00005 | Tűzoltó laktanyák kialakítása – Gyöngyös | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 880 000 000 | 421 736 802 | 1 301 736 802 | A projekt a katasztrófákkal szembeni ellenálló képesség fokozása érdekében új tűzoltó laktanya kialakítására irányul. A katasztrófavédelmi célt szolgáló ingatlan-beruházás révén elérhető az alacsonyabb riasztási fokozat és biztosítható a gyorsabb helyszínre érkezés. A projekt „Az emelt minőségű katasztrófa-védelem előnyeit élvező lakosság” című indikátorhoz 114 202 fő értékkel járul hozzá. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
