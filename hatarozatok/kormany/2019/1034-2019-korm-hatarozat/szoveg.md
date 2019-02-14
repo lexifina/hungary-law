@@ -48,4 +48,6 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a 2020. és a 2021. évi központi költségvetés tervezése során
 
-5. visszavonja a Belügyminisztérium budai Várnegyedben történő elhelyezéséhez kapcsolódó további intézkedésekről, valamint az elhelyezéssel összefüggő források biztosításáról szóló 1620/2016. (XI. 11.) Korm. határozat 1.1–1.6. és 1.8. pontját.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
