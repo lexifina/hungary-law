@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-39-20-2
 | 2017-01-13 | 2010-39-20-22.10 | 4/2017. (I. 12.) Korm. rendelet |
 | 2017-08-12 | 2010-39-20-22.11 | 223/2017. (VIII. 11.) Korm. rendelet |
 | 2019-01-01 | 2010-39-20-22.12 | 144/2012. (VII. 3.) Korm. rendelet |
+| 2019-02-15 | 2010-39-20-22.13 | 223/2017. (VIII. 11.) Korm. rendelet |
