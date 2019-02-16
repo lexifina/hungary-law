@@ -36,6 +36,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (7) A 26. § (1) bekezdés i) és r) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal való összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187, 2014.6.26.) hatálya alá tartozó támogatást tartalmaz.
 
+(8) A 33. § (2) bekezdés 73. pontja az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet 11. cikkének való megfelelést szolgálja.
+
 ## Melléklet
 
 I. A szabálysértési eljárás illetéke

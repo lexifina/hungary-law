@@ -156,6 +156,8 @@ d)
 
 71. az első sikeres nyelvvizsga és az első emelt szintű idegen nyelvből tett érettségi vizsga díjához nyújtott támogatás megállapítására irányuló hatósági eljárás;
 
-72. a fiatalok „B” kategóriás közúti járművezetői engedélyének megszerzéséhez nyújtott támogatás megállapítására irányuló hatósági eljárás.
+72. a fiatalok „B” kategóriás közúti járművezetői engedélyének megszerzéséhez nyújtott támogatás megállapítására irányuló hatósági eljárás;
+
+73. az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet szerinti többnyelvű formanyomtatvány kiállítása.
 
 (3) A 18. életévét be nem töltött személy mentesül a 29. § (1) bekezdés szerinti illeték megfizetése alól.
