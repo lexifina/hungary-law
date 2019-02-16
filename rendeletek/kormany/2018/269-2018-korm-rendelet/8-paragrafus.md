@@ -1,5 +1,5 @@
-## 7. §[^4]
+## „51. § (1) E rendelet 9. § (6) bekezdése, 10/A. § f) pontja, 19. § (3a) és (6) bekezdése és 21. § (2) bekezdése a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## (2) E rendelet 9. § (8) bekezdése, 17. § (4) bekezdése és 50/A. §-a az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i (EU) 2016/1191 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
 
 ## 3. A belső piaci információs rendszer hazai működéséről és az abban való részvételnek a szabályairól, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv szerinti bejelentési kötelezettség teljesítéséről szóló 354/2013. (X. 7.) Korm. rendelet módosítása
-
-[^4]: A 7. § a 18. § (2) bekezdése alapján 2019. február 16-án lép hatályba.

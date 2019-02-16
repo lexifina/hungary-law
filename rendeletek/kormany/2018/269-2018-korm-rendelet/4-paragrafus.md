@@ -1,3 +1,5 @@
-## 3. §[^1]
+4. § (1) Ha valamely hatóságnak, amelyhez a Rendelet hatálya alá tartozó külföldi közokiratot vagy hiteles másolatot mutattak be (a továbbiakban: eljáró hatóság), észszerű kétsége támad a bemutatott közokirat vagy hiteles másolat hitelességét illetően, és a Rendelet 14. cikk (1) bekezdés a) pontja szerinti ellenőrzést követően az észszerű kétség fennmarad, az eljáró hatóság a Rendelet 14. cikk (1) bekezdés b) pontja szerinti megkeresés előterjesztése érdekében megkeresi a fő központi hatóságot. Az eljáró hatóság a megkereséshez csatolja a bemutatott közokiratot vagy hiteles másolatát, illetve megjelöli az észszerű kétség indokát.
 
-[^1]: A 3. § a 18. § (2) bekezdése alapján 2019. február 16-án lép hatályba.
+(2) A fő központi hatóság az eljáró hatóság megkeresésének megérkezésétől számított öt munkanapon belül terjeszti elő a külföldi hatósághoz a Rendelet 14. cikk (1) bekezdés b) pontja szerinti megkeresést.
+
+(3) A fő központi hatóság a megkeresett külföldi hatóság válaszáról az annak megérkezésétől számított öt munkanapon belül tájékoztatja az eljáró hatóságot.
