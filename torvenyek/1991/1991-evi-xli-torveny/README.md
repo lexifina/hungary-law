@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-41-00-00
 | 2018-01-01 | 2017. évi CXXXVI. törvény | 1991-41-00-00.48 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1991-41-00-00.49 |
 | 2019-01-01 | 2018. évi LXIX. törvény | 1991-41-00-00.50 |
+| 2019-02-16 | 2007. évi LXXXII. törvény | 1991-41-00-00.51 |
