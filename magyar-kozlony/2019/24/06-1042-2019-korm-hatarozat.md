@@ -1,0 +1,54 @@
+# A Kormány 1042/2019. (II. 18.) Korm. határozata
+
+Magyar Közlöny 2019. évi 24. szám, 2019. február 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Bd5h3VD1Q1IxzvJXTwrm5c63e8f6f107b/dokumentumok/3bf78cb00ce060ebbaa4c214be33a38b1a58ee90/letoltes)
+
+---
+
+A Kormány 1042/2019. (II. 18.) Korm. határozata
+a nemzeti identitás erősítését célzó programokról
+A Kormány
+1. egyetért azzal, hogy az ezeréves magyar kultúra a jelen állampolgárainak és a jövő nemzedékeinek művelődése,
+önkifejezése és nemzeti identitása, valamint Magyarország kulturális fennmaradása szempontjából fundamentális
+jelentőségű érték, ennél fogva kiteljesítése az állam kiemelt felelőssége;
+2. az 1. pontban meghatározott kultúrstratégiai célhoz kapcsolódóan létrehozza a Lázár Ervin Programot, amely
+szociális helyzettől és lakóhelytől függetlenül minden, az 1–8. évfolyamon tanuló általános iskolai diák részére
+
+tanévenként egyszeri alkalommal ingyenesen biztosítja a színházi, tánc- és cirkuszi előadások, komolyzenei
+hangversenyek, illetve az őshonos állatok bemutatóhelyei látogatásának élményét;
+3. az 1. pontban meghatározott kultúrstratégiai célhoz kapcsolódóan létrehozza a „Sportlétesítmények a kultúra
+szolgálatában” programot a hazai sportlétesítmények és a nemzeti kultúra összekapcsolása, ezáltal a magyar
+történelmi és irodalmi örökséget bemutató nagyprodukciók létrehozása érdekében;
+4. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a 2. pont
+szerinti program 2019. évi megvalósításához szükséges 6 000 000 000 forint többletforrás rendelkezésre
+állásáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XX. Emberi
+Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím,
+14. Az előadó-művészeti szervezetek többlettámogatása jogcímcsoport javára;
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+Határidő: azonnal
+5. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a 2. pont
+szerinti program megvalósításához szükséges 5 550 000 000 forint többletforrás beépülő jelleggel történő
+biztosításáról 2020. évtől kezdődően a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet,
+20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 14. Az előadó-művészeti szervezetek
+többlettámogatása jogcímcsoport javára;
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+Határidő: az adott évi központi költségvetés tervezése során
+6. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a 3. pont
+szerinti program 2019. évi megvalósításához szükséges 4 000 000 000 forint többletforrás rendelkezésre
+állásáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XX. Emberi
+Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím,
+14. Az előadó-művészeti szervezetek többlettámogatása jogcímcsoport javára;
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+Határidő: azonnal
+7. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a 3. pont
+szerinti program megvalósításához szükséges 1 600 000 000 forint többletforrás beépülő jelleggel történő
+biztosításáról 2020. évtől kezdődően a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet,
+20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 14. Az előadó-művészeti szervezetek
+többlettámogatása jogcímcsoport javára.
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+Határidő: az adott évi központi költségvetés tervezése során
+ Orbán Viktor s. k.,
+ miniszterelnök

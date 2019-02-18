@@ -1,0 +1,30 @@
+# A Kormány 1051/2019. (II. 18.) Korm. határozata
+
+Magyar Közlöny 2019. évi 24. szám, 2019. február 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Bd5h3VD1Q1IxzvJXTwrm5c63e8f6f107b/dokumentumok/3bf78cb00ce060ebbaa4c214be33a38b1a58ee90/letoltes)
+
+---
+
+A Kormány 1051/2019. (II. 18.) Korm. határozata
+a Muravidéki Magyar Önkormányzati Nemzeti Közösség működésének és beruházásának finanszírozásához
+szükséges forrás biztosításáról
+A Kormány
+1. egyetért a Muravidéki Magyar Önkormányzati Nemzeti Közösség működésének és beruházásának támogatásával;
+2. felhívja a miniszterelnök általános helyettesét, hogy gondoskodjon az 1. pontban meghatározott célok
+megvalósítását szolgáló intézkedések végrehajtásáról;
+Felelős: a miniszterelnök általános helyettese
+Határidő: azonnal
+
+3. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese közreműködésével gondoskodjon
+az 1. pontban meghatározott célok megvalósítása érdekében
+a) a 2019. évben a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet
+XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása cím, 2. Bethlen Gábor Alap
+támogatása alcím javára egyszeri 700 000 000 forint,
+b) a 2020. évtől a központi költségvetés XLII. A költségvetés közvetlen bevételei és kiadásai fejezet javára
+beépülő jelleggel 25 000 000 forint
+forrás biztosításáról.
+Felelős: pénzügyminiszter
+a miniszterelnök általános helyettese
+Határidő: az a) alpont tekintetében a felmerülés ütemében
+a b) alpont tekintetében a 2020. évi központi költségvetés tervezése során
+ Orbán Viktor s. k.,
+ miniszterelnök

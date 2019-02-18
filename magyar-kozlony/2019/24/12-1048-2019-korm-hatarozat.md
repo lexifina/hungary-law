@@ -1,0 +1,32 @@
+# A Kormány 1048/2019. (II. 18.) Korm. határozata
+
+Magyar Közlöny 2019. évi 24. szám, 2019. február 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Bd5h3VD1Q1IxzvJXTwrm5c63e8f6f107b/dokumentumok/3bf78cb00ce060ebbaa4c214be33a38b1a58ee90/letoltes)
+
+---
+
+A Kormány 1048/2019. (II. 18.) Korm. határozata
+Bonyhád Város Önkormányzata sportinfrastruktúra fejlesztési célú támogatása kapcsán szükséges
+intézkedésekről
+A Kormány
+1. egyetért Bonyhád Város Önkormányzata sportinfrastruktúra fejlesztési koncepciója (a továbbiakban: Beruházás)
+megvalósításával;
+2. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Beruházás megvalósításához szükséges összesen
+1 567 180 000 forint költségvetési támogatás biztosításáról a Magyarország 2019. évi központi költségvetéséről
+szóló 2018. évi L. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű
+előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és
+fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím
+terhére;
+Felelős: emberi erőforrások minisztere
+Határidő: a felmerülés ütemében
+3. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával a 2. pontban biztosított forrás
+visszapótlásáról, szükség szerint a felmerülés ütemében gondoskodjon;
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+Határidő: a felmerülés ütemében
+4. egyetért azzal, hogy a 2. pont alapján biztosított forrás terhére Bonyhád Város Önkormányzata részére az emberi
+erőforrások minisztere – külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az államháztartásról
+szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó –
+2020. december 31-éig történő elszámolási kötelezettséggel támogatást nyújtson, a támogatás felhasználásának és
+elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
+ Orbán Viktor s. k.,
+ miniszterelnök
