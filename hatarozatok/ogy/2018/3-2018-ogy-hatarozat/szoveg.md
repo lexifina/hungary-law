@@ -30,7 +30,7 @@ Móring József Attila (KDNP)
 
 dr. Simicskó István (KDNP)[^3]
 
-Szávay István (Jobbik)
+Dr. Lukács László György (Jobbik)[^4]
 
 Szilágyi György (Jobbik)
 
@@ -46,8 +46,9 @@ Tordai Bence (Párbeszéd)
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^4]
+3.[^5]
 
 [^2]: A 12/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 9/2018. (VI. 5.) OGY határozat iktatta be.
-[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3/2019. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
