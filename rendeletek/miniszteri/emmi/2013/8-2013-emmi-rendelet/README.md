@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-8-20-5H
 | 2016-08-13 | 2013-8-20-5H.4 | 18/2016. (VIII. 5.) EMMI rendelet |
 | 2016-09-01 | 2013-8-20-5H.5 | 18/2016. (VIII. 5.) EMMI rendelet |
 | 2017-01-01 | 2013-8-20-5H.6 | 18/2016. (VIII. 5.) EMMI rendelet |
+| 2019-02-19 | 2013-8-20-5H.7 | 18/2016. (VIII. 5.) EMMI rendelet |

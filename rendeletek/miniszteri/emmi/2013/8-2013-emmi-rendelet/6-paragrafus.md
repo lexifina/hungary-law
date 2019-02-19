@@ -1,6 +1,6 @@
 ## 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-6. §[^9] (1) E rendelet rendelkezései alapján a hitoktatási területén osztatlan képzésben a tanárképzés, felmenő rendszerben, először 2014. szeptember 1. után indulhat.
+6. §[^11] (1) E rendelet rendelkezései alapján a hitoktatási területén osztatlan képzésben a tanárképzés, felmenő rendszerben, először 2014. szeptember 1. után indulhat.
 
 (2) Az egyházi felsőoktatási intézmény jogosulttá válik e rendeletben meghatározott osztatlan képzésben folyó hittanár-nevelőtanár szak szakindításának nyilvántartásba vételére, ha az egyházi felsőoktatási intézmény szakindítását hittanár-nevelő tanár szakon, osztott képzésben az Oktatási Hivatal 2006. szeptember 1. után nyilvántartásba vette. Az intézményi bejelentés alapján az Oktatási Hivatal nyilvántartásba veszi az osztatlan képzést.
 
@@ -8,4 +8,8 @@
 
 (4) Ha egyházi felsőoktatási intézmény állami felsőoktatási intézménnyel köt a (3) bekezdés szerint hitéleti tanárképzést érintő együttműködési megállapodást, az ennek eredményeként megvalósuló képzésre felvett hallgató hallgatói jogviszonya – az Nftv. 91. § (1) bekezdésében foglaltakra is tekintettel – az egyházi felsőoktatási intézménnyel jön létre.
 
-[^9]: A 6. §-t a 79/2013. (XII. 19.) EMMI rendelet 3. §-a iktatta be.
+(5)[^12] E rendeletnek a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló 8/2013. (I. 30.) EMMI rendelet és a felsőoktatási szakképzések, az alap- és mesterképzések képzési és kimeneti követelményeiről, valamint a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló 8/2013. (I. 30.) EMMI rendelet módosításáról szóló 18/2016. (VIII. 5.) EMMI rendelet módosításáról szóló 3/2019. (II. 11.) EMMI rendelet (a továbbiakban: Mód. rendelet) által módosított 1. § c) pontját, 3. § (3) bekezdését, valamint 1., 3., 4., 5. és 7. mellékletét a Mód. rendelet hatálybalépését[^13] követően az első évfolyamon tanulmányaikat kezdő hallgatókra, majd azt követően felmenő rendszerben kell alkalmazni.
+
+[^11]: A 6. §-t a 79/2013. (XII. 19.) EMMI rendelet 3. §-a iktatta be.
+[^12]: A 6. § (5) bekezdését a 3/2019. (II. 11.) EMMI rendelet 2. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2019. február 19.

@@ -1,4 +1,4 @@
-3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^11]
+3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^15]
 
 A)
 
@@ -4226,18 +4226,4 @@ b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
 
 – Tananyagkészítés, projektmunka és a személyre szabott oktatás.
 
-III. Matematika műveltségi terület
-
-1. Matematikatanár (általános iskolai)
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles általános iskolai matematikatanár
-
-– angol nyelvű megjelölése: teacher of Mathematics
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 10 félév
-
-[^11]: A 3. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (2) és (3) bekezdése, az 53/2016. (XII. 29.) EMMI rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 3. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (2) és (3) bekezdése, az 53/2016. (XII. 29.) EMMI rendelet 19. § (2) bekezdése, a 3/2019. (II. 11.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.

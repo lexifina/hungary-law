@@ -2,7 +2,7 @@
 
 (2) Az 1. § a) pontja szerinti, két tanárszakon egyidejűleg folyó tanárképzésben a tanári felkészítés szakmódszertani követelményeit, valamint az adott tanárszakhoz tartozó tantárgyak tanításával kapcsolatos – a képzéssel párhuzamosan, vezetőpedagógus (vezető tanár) irányításával folyó és az összefüggő egyéni iskolai gyakorlat keretében folyó – tanítási gyakorlatokat mindkét tanárszakon teljesíteni kell.
 
-(3) A hallgató mesterszak felvételi eljárásban az 1. § c) pontja szerinti tanári mesterszakra legkorábban a művészeti képzési terület szerinti nem tanári mesterszakon folytatott tanulmányok második, az osztatlan szakon folytatott tanulmányok ötödik félévétől vehető fel. Párhuzamos képzésben a Korm. rendelet 3. § (1) bekezdés c) pontja szerinti összefüggő egyéni iskolai gyakorlat, a Korm. rendelet 3. § (3) bekezdésében foglaltakat is figyelembe véve, a nem tanári mesterszak vagy osztatlan szak tanulmányi és vizsgakövetelményeinek eredményes teljesítését követően kezdhető meg. A párhuzamos képzésben a két szak együttes képzési ideje legfeljebb 1 félévvel lehet hosszabb az adott nem tanári mesterszak vagy osztatlan szak képzési és kimeneti követelményeiben meghatározott képzési idejénél.
+(3)[^5] A hallgató mesterszak felvételi eljárásban az 1. § c) pontja szerinti tanári mesterszakra legkorábban a művészeti képzési terület szerinti, valamint a műszaki, az informatika, a gazdaságtudományok és az agrár képzési terület szerinti nem tanári mesterszakon folytatott tanulmányok második, az osztatlan szakon folytatott tanulmányok ötödik félévétől vehető fel. Párhuzamos képzésben a Korm. rendelet 3. § (1) bekezdés c) pontja szerinti összefüggő egyéni iskolai gyakorlat, a Korm. rendelet 3. § (3) bekezdésében foglaltakat is figyelembe véve, a nem tanári mesterszak vagy osztatlan szak tanulmányi és vizsgakövetelményeinek eredményes teljesítését követően kezdhető meg. A párhuzamos képzésben a két szak együttes képzési ideje legfeljebb 1 félévvel lehet hosszabb az adott nem tanári mesterszak vagy osztatlan szak képzési és kimeneti követelményeiben meghatározott képzési idejénél.
 
 (4) Az 1. § c) és d) pontja szerinti tanári mesterszakokon a Korm. rendelet 3. § (1) bekezdés c) pontja szerinti összefüggő egyéni iskolai gyakorlat időtartama 1 félév.
 
@@ -12,9 +12,10 @@
 
 (7) A felsőoktatási intézmény a tanári szakképzettség megszerzésének az 1. § d) pontja szerinti képzési formáját, az adott nem tanári mesterszak, osztatlan szak szakindítási engedélyének birtokában akkor folytathatja, ha a mesterszak vagy az osztatlan szak szakterülete szerinti tanárszakon az 1. § a)–c) pontja szerinti tanárképzési formák valamelyikén rendelkezik szakindítási jogosultsággal. Ez alól kivételt képeznek azok a tanárszakok, amelyeken csak az 1. § d) pontja szerint szervezhető meg a tanárképzés.
 
-(8)[^4] Ha a tanárképzésnek van általános iskolai és középiskolai formája is, a felsőoktatási intézmény akkor is folytathat az 1. § d) pontja szerinti tanárképzési formában középiskolai tanári szakképzettség megszerzésére irányuló képzést, ha szakindítási jogosultsággal az adott nem tanári mesterszak szakterülete szerinti általános iskolai tanárszakon rendelkezik.
+(8)[^6] Ha a tanárképzésnek van általános iskolai és középiskolai formája is, a felsőoktatási intézmény akkor is folytathat az 1. § d) pontja szerinti tanárképzési formában középiskolai tanári szakképzettség megszerzésére irányuló képzést, ha szakindítási jogosultsággal az adott nem tanári mesterszak szakterülete szerinti általános iskolai tanárszakon rendelkezik.
 
-(9)[^5] Ha a tanárképzésnek van általános iskolai és középiskolai formája is, akkor a felsőoktatási intézmény a Korm. rendelet 5. § (3) bekezdése és 6. § (6) bekezdése szerinti újabb oklevelet adó tanárképzésben is a szakindítási engedélyének megfelelően folytathat általános iskolai tanári, illetve középiskolai tanári szakképzettséget eredményező képzést.
+(9)[^7] Ha a tanárképzésnek van általános iskolai és középiskolai formája is, akkor a felsőoktatási intézmény a Korm. rendelet 5. § (3) bekezdése és 6. § (6) bekezdése szerinti újabb oklevelet adó tanárképzésben is a szakindítási engedélyének megfelelően folytathat általános iskolai tanári, illetve középiskolai tanári szakképzettséget eredményező képzést.
 
-[^4]: A 3. § (8) bekezdését a 18/2016. (VIII. 5.) EMMI rendelet 14. §-a iktatta be.
-[^5]: A 3. § (9) bekezdését a 18/2016. (VIII. 5.) EMMI rendelet 14. §-a iktatta be.
+[^5]: A 3. § (3) bekezdése a 3/2019. (II. 11.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (8) bekezdését a 18/2016. (VIII. 5.) EMMI rendelet 14. §-a iktatta be.
+[^7]: A 3. § (9) bekezdését a 18/2016. (VIII. 5.) EMMI rendelet 14. §-a iktatta be.

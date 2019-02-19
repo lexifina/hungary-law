@@ -1,4 +1,4 @@
-1. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^10]
+1. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^14]
 
 ## A TANÁRKÉPZÉS ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -50,7 +50,7 @@ ab) 3 félév 90 kredit, amelyben az egyéni összefüggő iskolai gyakorlat 1 f
 
 b) művészeti tanárszakon 4 félév 120 kredit.
 
-4.1.3. Az 1. § c) pontjában foglaltak szerinti művészeti tanárszakokon, a művészeti képzési terület szerinti nem tanári mesterszakkal vagy osztatlan szakkal párhuzamosan felvett képzésben: 2 félév, 60 kredit.
+4.1.3. Az 1. § c) pontjában foglaltak szerinti tanárszakokon, a Korm. rendelet 5. § (1) bekezdés c) pontja szerinti képzési területeken a nem tanári mesterszakkal vagy osztatlan szakkal párhuzamosan felvett képzésben: 2 félév, 60 kredit.
 
 4.1.4. Az 1. § d) pontja alapján a tanárszak szerinti nem tanári szakon szerzett mesterfokozatot követő képzésben: 2 félév, 60 kredit.
 
@@ -148,7 +148,7 @@ A gyakorlati tanulmányokhoz tartoznak az oktató közreműködésével folyó g
 
 5. Idegennyelvi követelmények:
 
-A mesterfokozat megszerzéséhez az Európai Unió és az Egyesült Nemzetek Szervezete (ENSZ) hivatalos nyelveiből legalább egy, államilag elismert középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
+A mesterfokozat megszerzéséhez az Európai Unió és az Egyesült Nemzetek Szervezete (ENSZ) hivatalos nyelveiből vagy romani, illetve lovári (cigány) vagy beás (cigány) nyelvből legalább egy, államilag elismert középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél szükséges.
 
 6. A tanárképzés különböző képzési formáiban a képzés sajátos követelményei
 
@@ -158,4 +158,4 @@ A mesterfokozat megszerzéséhez az Európai Unió és az Egyesült Nemzetek Sze
 
 6.3. Az 1. § b)–d) pontja szerinti tanári mesterszakokon a 4.5. pont tekintetében a portfólió neveléstudományi szempontú, tudományos alaposságú bemutatása, elemzése, értékelése a tanári képesítés szempontjából meghatározó tapasztalatok rendszerezett összegzése a záróvizsga szakdolgozati eleme.
 
-[^10]: Az 1. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (1) bekezdése, az 53/2016. (XII. 29.) EMMI rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^14]: Az 1. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (1) bekezdése, az 53/2016. (XII. 29.) EMMI rendelet 19. § (1) bekezdése, a 3/2019. (II. 11.) EMMI rendelet 3. §-a szerint módosított szöveg.
