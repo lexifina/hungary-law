@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-18-20-5
 | 2016-09-02 | 2016-18-20-5H.4 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-18-20-5H.5 | 53/2016. (XII. 29.) EMMI rendelet |
 | 2017-12-06 | 2016-18-20-5H.6 | 31/2017. (XII. 5.) EMMI rendelet |
+| 2019-02-19 | 2016-18-20-5H.7 | 3/2019. (II. 11.) EMMI rendelet |

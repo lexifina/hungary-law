@@ -182,4 +182,6 @@
 
 ## - Különböző bonyolultságú és különböző mértékben kiszámítható kontextusokban a módszerek és technikák széles körét alkalmazza önállóan a gyakorlatban.
 
-2. melléklet a 18/2016. (VIII. 5.) EMMI rendelethez
+2. melléklet a 18/2016. (VIII. 5.) EMMI rendelethez[^24]
+
+[^24]: A 2. melléklet a 3/2019. (II. 11.) EMMI rendelet 10. §-a szerint módosított szöveg.

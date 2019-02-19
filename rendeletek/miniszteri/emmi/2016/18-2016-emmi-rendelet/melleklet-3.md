@@ -580,9 +580,129 @@
 
 ## A gyakorlati képzés megszervezhető a felsőoktatási intézményben, illetve annak gyakorlati képzést biztosító szervezeti egységében (tangazdaság, tanműhely, laboratórium, taniroda), valamint a felsőoktatási intézmény által alapított gazdálkodó szervezetben, továbbá egyesületnél, alapítványnál és egyéb gazdálkodó szervezetnél.
 
-## 10. A felsőoktatási szakképzésre történő felvétel feltételei
+## 4. GYÓGY- ÉS FŰSZERNÖVÉNYEK FELSŐOKTATÁSI SZAKKÉPZÉS
 
-## A felvétel feltétele az egészségügyi alkalmassági követelményeknek való megfelelés.
+## 1. A felsőoktatási szakképzés megnevezése: gyógy- és fűszernövények felsőoktatási szakképzés (Medicinal Plants and Herbs)
+
+## 2. A felsőoktatási szakképzés oklevélben szereplő megjelölése
+
+## - szakképzettség: felsőfokú gyógynövény technológus
+
+## - szakképzettség angol nyelvű megjelölése: Medicinal Plant Technologist
+
+## 3. Képzési terület: agrár
+
+## 4. A felsőoktatási szakképzettséggel legjellemzőbben betölthető FEOR szerinti munkakör(ök):
+
+## 3623 Gyógynövény-felvásárló
+
+## 5111 Gyógynövénykereskedő
+
+## 6111 Szántóföldinövény-termesztő
+
+## 6112 Bionövény-termesztő
+
+## 6113 Zöldségtermesztő
+
+## 6114 Szőlő-, gyümölcstermesztő
+
+## 6116 Gyógynövény- és fűszernövénytermesztő és -feldolgozó
+
+## 6119 Egyéb növénytermesztési foglalkozású
+
+## 9331 Gyógynövénygyűjtő
+
+## 5. A képzési idő félévekben: 4 félév
+
+## 6. A felsőoktatási szakképzettség megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
+
+## - A képzés orientációja: gyakorlatorientált (60-70 százalék).
+
+## - Az összefüggő szakmai gyakorlat időtartama teljes idejű képzésben: egy félév, legalább 560 óra, amely az agrártermelés sajátosságai miatt megosztható, de legalább öthetes összefüggő szakmai gyakorlatot kell külső szakmai gyakorlóhelyen teljesíteni. Részidős képzésben a szakmai gyakorlat hat hét (ebből összefüggő három hét), legalább 240 óra.
+
+## - A képzési terület szerinti továbbtanulás esetén beszámítandó kreditek száma: legalább 30 kredit.
+
+## 7. A felsőoktatási szakképzés célja
+
+## A képzés célja olyan szakképzettség elérésének biztosítása, amelynek birtokosa képes a gyógy- és fűszernövények Magyarországon termeszthető fajainak termesztéstechnológiáit megvalósítani, azt fejleszteni, a vadon termő gyógynövények fenntartható gyűjtését megvalósítani, az egyes munkafolyamatokat megtervezni és azokat irányítani, az ökológiai adottságoknak megfelelően a termesztéstechnológia elemeit (biológiai, agrotechnikai) összehangolni és adaptálni. Jártas a feldolgozás módjaiban, a minőségi követelmények előírásaiban és a forgalmazás rendjében. Ismeri a gyógy- és fűszernövények felhasználásának lehetőségeit, formáit, rendelkezik az ehhez szükséges gyógynövény- és drogismerettel. Képes a kis- és középüzemekben korszerű irányítói és vezetői tevékenységre.
+
+## 7.1. Az elsajátítandó szakmai kompetenciák
+
+## 7.1.1. A felsőfokú gyógynövény technológus
+
+## a) tudása
+
+## - Rendelkezik a gyógy- és fűszernövény szakterülethez kapcsolódó általános és szakspecifikus elméleti és gyakorlati ismeretekkel.
+
+## - Ismeri a gyógy- és fűszernövény szakterület alapvető fogalmait, tényeit és összefüggéseit a legfőbb gazdasági szereplőkre, funkciókra és folyamatokra vonatkozóan.
+
+## - Ismeri a termelési folyamatok tervezésének és irányítástechnikájának alapjait.
+
+## - Ismeri a termékek feldolgozásával, forgalmazásával kapcsolatos előírásokat.
+
+## - Ismeri a gyógy- és fűszernövények felhasználásának lehetőségeit, formáit.
+
+## - Folyamatosan figyelemmel kíséri az élelmiszer-ipari, környezetvédelmi, higiéniai, élelmiszer-biztonsági, gyógyszerkönyvi, élelmezés- és munkaegészségügyi, munkavédelmi előírásokat, valamint betartja és betartatja azokat.
+
+## - Ismeri anyanyelven a szakterület szakmai szókincsét, és legalább egy idegen nyelven, minimum alapszintű nyelvismerettel rendelkezik.
+
+## - Ismeri a munkájához szükséges hardvereket, szoftvereket és informatikai eszközöket.
+
+## - Ismereteit folyamatosan bővíti a kamarai és egyéb szakmai továbbképzéseken.
+
+## b) képességei
+
+## - Képes a gyógy- és fűszernövények konvencionális és ökológiai szemléletű termesztéstechnológiájának (gyűjtésének) megvalósítására, szakszerű ápolási munkáinak végzésére.
+
+## - Képes biztonságos és minőségi termékek előállítására, forgalmazására, ezen feladatok irányítására.
+
+## - Képes felmérni a feladatokhoz szükséges személyi és tárgyi feltételeket.
+
+## - Képes önálló gazdálkodásra, irányítási feladatok ellátására, a vállalkozással kapcsolatos felelős döntések meghozatalára.
+
+## - Szakmai információkat gyűjt, tart nyilván és szolgáltat, szervezési, előkészítési és elemzési feladatokat végez, közreműködik a szakmai rendezvények, bemutatók és tanácskozások előkészítésében, szervezésében.
+
+## - Munkájában képes az egyének és a társadalom egészségét javító-támogató, környezetbarát megoldások előnyben részesítésére.
+
+## c) attitűdje
+
+## - Elkötelezett a minőségi szakmai munkavégzés iránt.
+
+## - Elfogadja szakmája társadalmi szerepét, értékeit.
+
+## - Törekszik az újdonságok, a szakterülethez kapcsolódó folyamatok megismerésére, megértésére, alkalmazására.
+
+## - Részt vesz a szakmai, vezetői fejlődését szolgáló kamarai, hatósági rendezvényeken, továbbképzéseken, tréningeken.
+
+## - Betartja a szakirányú etikai elvárásokat és a szakirányú viselkedéskultúra elveit; a jobbítás szándékával kritikusan, de együttműködési szándékkal szemléli saját munkáját és környezetében zajló szakmai tevékenységet.
+
+## d) autonómiája és felelőssége
+
+## - Ellenőrzi a tevékenységéhez szükséges dokumentáció meglétét, kamarai és hatósági engedély érvényességét.
+
+## - Biztosítja a termelési folyamatok feltételeit.
+
+## - Maga is elvégzi az egyes munkafolyamatokat.
+
+## - Irányítja a rábízott személyi állomány munkavégzését.
+
+## - Hibalehetőségeket tár fel és hárít el.
+
+## - Figyelemmel kíséri a szakterülettel kapcsolatos jogszabályi, technikai és adminisztrációs változásokat.
+
+## - Operatív döntéseit a szakterület jogi, etikai szabályainak figyelembevételével hozza meg.
+
+## 8. A felsőoktatási szakképzés moduljai és azok kreditarányai
+
+## - valamennyi felsőoktatási szakképzés közös kompetencia modulja: 12 kredit;
+
+## - a képzési terület szerinti közös modul: 21 kredit;
+
+## - a szakképzési modul: 87 kredit, amelyből az összefüggő szakmai gyakorlat: 30 kredit.
+
+## 9. A felsőoktatási szakképzés összefüggő szakmai gyakorlatának követelményei
+
+## A gyakorlati képzés a felsőoktatási szakképzésre vonatkozó rendelkezések szerint a felsőoktatási intézményben, illetve annak gyakorlati képzést biztosító szervezeti egységében (tangazdaság, tanműhely, laboratórium), valamint a felsőoktatási intézmény által alapított gazdálkodó szervezetben, továbbá egyesületnél, alapítványnál és egyéb gazdálkodó szervezetnél szerezhető meg.
 
 ## II. INFORMATIKA KÉPZÉSI TERÜLET
 
@@ -740,15 +860,15 @@
 
 ## 4. A felsőoktatási szakképzettséggel legjellemzőbben betölthető FEOR szerinti munkakörök:
 
-## 2151 Adatbázis-tervező és -üzemeltető
+## 2151 Adatbázis-tervező és -üzemeltető
 
 ## 2152 Rendszergazda
 
-## 2153 Számítógép-hálózati elemző̋, üzemeltető̋
+## 2153 Számítógép-hálózati elemző, üzemeltető
 
-## 2159 Egyéb adatbázis- és hálózati elemző̋, üzemeltető̋
+## 2159 Egyéb adatbázis- és hálózati elemző, üzemeltető
 
-## 3141 Informatikai és kommunikációs rendszereket kezelő̋ technikus
+## 3141 Informatikai és kommunikációs rendszereket kezelő technikus
 
 ## 3142 Informatikai és kommunikációs rendszerek felhasználóit támogató technikus
 
@@ -756,7 +876,7 @@
 
 ## 3144 Webrendszer- (hálózati) technikus
 
-## 3145 Mű̋sorszóró és audiovizuális technikus
+## 3145 Műsorszóró és audiovizuális technikus
 
 ## 3146 Telekommunikációs technikus
 
@@ -1880,11 +2000,7 @@
 
 ## 10. Idegennyelvi követelmény
 
-## A felsőoktatási szakképzésben a szakképzettség megszerzéséhez legalább középfokú (B2), komplex típusú, a képzési területnek megfelelő államilag elismert szaknyelvi vizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
-
-## 11. A felsőoktatási szakképzésre történő felvétel feltételei
-
-## A felvétel az egészségügyi alkalmassági követelményeknek való megfelelés.
+## A felsőoktatási szakképzésben a szakképzettség megszerzéséhez legalább középfokú (B2), komplex típusú, a képzési területnek megfelelő államilag elismert szaknyelvi vizsga vagy felsőfokú (C1), komplex típusú általános nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány, illetve oklevél szükséges.
 
 ## V. ORVOS- ÉS EGÉSZSÉGTUDOMÁNY KÉPZÉSI TERÜLET
 
@@ -1897,6 +2013,8 @@
 ## - szakképzettség: felsőfokú orvosdiagnosztikai asszisztens
 
 ## - szakképzettség angol nyelvű megjelölése: Medical Diagnostic Assistant
+
+## - választható specializációk: orvosdiagnosztikai laboratóriumi, képi diagnosztikai és intervenciós.
 
 ## 3. Képzési terület: orvos- és egészségtudomány
 
@@ -3176,7 +3294,7 @@
 
 ## A szakmai gyakorlat a képzés negyedik félévében a felsőoktatási intézményben, illetve annak gyakorlati képzést biztosító szervezeti egységében, valamint a felsőoktatási intézmény által alapított gazdálkodó szervezetnél, továbbá egyesületnél, alapítványnál, költségvetési szervnél, önkormányzatnál és egyéb gazdálkodó szervezetnél végzett gyakorlat.
 
-3. melléklet a 18/2016. (VIII. 5.) EMMI rendelethez[^15]
+3. melléklet a 18/2016. (VIII. 5.) EMMI rendelethez[^25]
 
 AZ ALAPKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
@@ -3208,7 +3326,7 @@ I. AGRÁR KÉPZÉSI TERÜLET
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 541
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 541/0721
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -3328,7 +3446,7 @@ Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert, 
 
 8.3. A szakmai gyakorlat követelményei
 
-A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább három hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritériumfeltétel, valamint egy félévig (tizenöt hétig) tartó szakmai gyakorlatból.
+A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzéshez kapcsolódóan összesen, legalább három hét gyakorlati képzésből, amelynek teljesítése kreditérték nélküli kritériumfeltétel, valamint egy félévig (tizenkettő-tizenöt hétig) tartó szakmai gyakorlatból.
 
 2. FÖLDMÉRŐ ÉS FÖLDRENDEZŐ MÉRNÖKI ALAPKÉPZÉSI SZAK
 
@@ -3358,7 +3476,7 @@ A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzés
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 582
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 582/0732
 
 7. Az alapképzési szak képzési célja és szakmai kompetenciák
 
@@ -3510,7 +3628,7 @@ A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzés
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 622
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 622/0812
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -3678,7 +3796,7 @@ A szakmai gyakorlat két részből tevődik össze:
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621/0811
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -3840,7 +3958,7 @@ A képzés teljes idejű képzésként folyik.
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 521
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 521/0715
 
 7. Az alapképzési szak képzési célja és szakmai kompetenciák
 
@@ -3988,7 +4106,7 @@ A szakmai gyakorlat három részből álló, féléves időtartamú (tizenkettő
 
 5. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 180+30 kredit
 
-- a szak orientációja: gyakorlatorientált (60-40 százalék)
+- a szak orientációja: gyakorlatorientált (60-70 százalék)
 
 - a szakdolgozat elkészítéséhez rendelt kreditérték: 15 kredit
 
@@ -3996,7 +4114,7 @@ A szakmai gyakorlat három részből álló, féléves időtartamú (tizenkettő
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621/0811
 
 7. Az alapképzési szak képzési célja és szakmai kompetenciák
 
@@ -4136,7 +4254,7 @@ A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzés
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 146
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 146/0114
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -4310,7 +4428,7 @@ A képzés utolsó félévében kötelező összefüggő iskolai és munkahelyi 
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621/0811
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -4340,7 +4458,7 @@ a) tudása
 
 - Tisztában van a szőlő növényvédelmével, a szőlő-fajtaismerettel és -használattal, a szőlőnemesítés és a biotechnológia alapjaival, a szőlőszaporítás ismereteivel.
 
-- Ismeri a szőlőtermesztés rendeleti szabályozását és eredetvédelmét.
+- Ismeri a szőlő- és borágazat jogi szabályozását.
 
 - Tisztában van a szőlészet és borászat gyakorlatának elemeivel (műszerek, gépek, berendezések működési alapelveivel, a melléktermékek kezelésére vonatkozó ismeretekkel).
 
@@ -4452,9 +4570,9 @@ A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak
 
 Az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert, középfokú (B2), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
-8.3. A szakmai gyakorlatra vonatkozó követelmények
+8.3. A szakmai gyakorlat követelményei
 
-A szakmai gyakorlat két részből tevődik össze. Egy legalább három alkalommal megszervezett, egyenként egy hét időtartamú, a szak kiemelt tárgyköreit (szőlészet, borászat) érintő, a szorgalmi időszakba beépített szakmai gyakorlat, amelyeknek hallgatói munkaigényét a megfelelő tantárgyak kreditértékébe kell beépíteni, továbbá egy fél évig (tizenöt hétig) tartó szakmai gyakorlat.
+A szakmai gyakorlat két részből tevődik össze. Egy legalább három alkalommal megszervezett, egyenként egy hét időtartamú, a szak kiemelt tárgyköreit (szőlészet, borászat) érintő, a szorgalmi időszakba beépített szakmai gyakorlat, amelyeknek hallgatói munkaigényét a megfelelő tantárgyak kreditértékébe kell beépíteni, továbbá egy fél évig (tizenkettő-tizenöt hétig) tartó szakmai gyakorlat.
 
 9. TÁJRENDEZŐ ÉS KERTÉPÍTŐ MÉRNÖKI ALAPKÉPZÉSI SZAK
 
@@ -4484,7 +4602,7 @@ A szakmai gyakorlat két részből tevődik össze. Egy legalább három alkalom
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 581
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 581/0731
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -4630,7 +4748,7 @@ A szakmai gyakorlat egy félévig (tizenkettő-tizenöt hétig) tartó egybefüg
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 9 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 852
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 852/0522
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -4768,7 +4886,7 @@ A szakmai gyakorlat része a nappali képzésben az első hat képzési időszak
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 623
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 623/0821
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -4926,7 +5044,7 @@ A szakmai gyakorlat két részből tevődik össze: a szakmai elméleti képzés
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 621/0811
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -5118,7 +5236,7 @@ II. BÖLCSÉSZETTUDOMÁNY KÉPZÉSI TERÜLET
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 222
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 222/0231
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -5320,7 +5438,7 @@ A szak lehetővé teszi másik, elsősorban a bölcsészettudomány, a társadal
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 222
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 222/0231
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -5726,7 +5844,7 @@ választható szakirányok: altajisztika, arab, hebraisztika, indológia, iranis
 
 - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 10 kredit
 
-6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 222
+6. A szakképzettség képzési területek egységes osztályozási rendszere szerinti tanulmányi területi besorolása: 222/0231
 
 7. Az alapképzési szak képzési célja és a szakmai kompetenciák
 
@@ -5786,190 +5904,4 @@ c) attitűdje
 
 - Igénye van az Európán kívüli kultúrák megismerésére.
 
-- Igénye van a közel- és távol-keleti kultúrák, különösképpen a választott szakirányának megfelelő kultúra megismerésére.
-
-- Igénye van arra, hogy a választott szakirányának megfelelően a közel- vagy távol-keleti, illetve az újgörög kultúrákkal kapcsolatos aktuális eseményekkel, történésekkel kapcsolatban tájékozott legyen.
-
-- Tiszteli az Európán kívüli kultúrákat, vallásokat.
-
-- Törekszik szakmai nyelvtudásának fejlesztésére.
-
-- Nyitott különféle kultúrák, népek, vallások megismerésére.
-
-- Hatékonyan együttműködik a szakirányának megfelelő hazai és nemzetközi kulturális közösségekkel.
-
-- Szakterületéről szerzett ismereteit alkalmazza önművelésében, önismeretében.
-
-- Nyitott a szakirányához kapcsolódó idegen nyelv kulturális hátterére.
-
-- Elfogadja és a gyakorlatban is megvalósítja az egészségmegőrző szemléletet és életvitelt.
-
-d) autonómiája és felelőssége
-
-- Kialakít olyan történetileg és politikailag koherens egyéni álláspontot, amely segíti önmaga és környezete fejlődését, tudatosodását.
-
-- Felelősséget vállal szövegeiért, tudatában van azok lehetséges következményeinek.
-
-- Tudatosan képviseli azon módszereket, amelyekkel szakterületén dolgozik, és elfogadja más tudományágak eltérő módszertani sajátosságait.
-
-- Önállóan értékeli a szakirányához kapcsolódó kulturális jelenségeket.
-
-- Felelősséggel végzi a szakirányához kapcsolódó fordítási feladatokat.
-
-7.1.2.Szakirányon szerezhető további sajátos kompetenciák
-
-7.1.2.1. Altajisztika szakirányon továbbá a keleti nyelvek és kultúrák alapszakos bölcsész
-
-a) tudása
-
-- Tájékozott az altáji nyelvű népek kulturális jelenségei és történetük körében.
-
-- Ismeri az altáji nyelvű népek kultúrájának legfontosabb vonásait.
-
-- Tisztában van az altáji nyelvek jellemző kutatási kérdéseivel, elemzési és értelmezési módszereivel.
-
-- Szakterületéhez szükséges módon, a középfokú (B2), komplex típusú nyelvvizsga szintjének megfelelően ismeri a mai törökországi török nyelvet.
-
-- Ismeri az altajisztikai alap-szakterminológiát.
-
-b) képességei
-
-- Képes a török és mongol nyelvű népek kultúrája, eszmerendszere szempontjából saját szakterületének jelenségeit értelmezni.
-
-- Legalább egy idegen nyelven képes hatékonyan kommunikálni írásban és szóban, valamint megérti a tudományterületéhez kapcsolódó török nyelvű szakmai szövegeket.
-
-c) attitűdje
-
-- Tudatosan képviseli az altáji nyelvű népek nyelvi és kommunikációs normáit.
-
-- Törekszik török szakmai nyelvtudásának fejlesztésére.
-
-7.1.2.2. Arab szakirányon továbbá a keleti nyelvek és kultúrák alapszakos bölcsész
-
-a) tudása
-
-- Tájékozott az arab nyelvű kulturális jelenségek történetiségének általánosan elfogadott jellemzői, adatai körében.
-
-- Ismeri az arab országok, arab nyelvű kultúrák legfontosabb vonásait.
-
-- Ismeri az arabisztika egyes területeinek (irodalom-, nyelv-, történelem-, vallás- és kultúratudomány) alapvető szakkifejezéseit.
-
-- Ismeri a modern irodalmi arab írott és beszélt nyelvet a középfokú (B2), komplex típusú nyelvvizsga szintjén, valamint a klasszikus arab nyelvet.
-
-- Ismer egy mai arab nyelvjárást.
-
-- Ismeri az iszlám vallás történetét, mai alakulását.
-
-b) képességei
-
-- Képes közérthetően kommunikálni irodalmi arab nyelven, mind szóban, mind írásban.
-
-- Képes műfajilag sokszínű arab nyelvű szövegeket és kulturális jelenségeket értelmezni.
-
-- Képes kiválasztani és alkalmazni a szakmai problémának megfelelő arab nyelv- vagy irodalomtudományi, vagy kultúratudományi módszert.
-
-- A klasszikus és modern arab nyelvű forrásszövegek önálló történeti-nyelvészeti-filológiai elemzésére képes.
-
-- Képes megérteni az arabisztika szakirányhoz kapcsolódó alapvető szakmai szövegeket.
-
-c) attitűdje
-
-- Tudatosan képviseli az arab nyelvterület nyelvi és kommunikációs normáit.
-
-- Az arab nyelv-, irodalom-, történelem-, vallás- és kultúratudomány gondolkodásmódját hitelesen közvetíti.
-
-- Törekszik az arab kultúra hazai megismertetésére.
-
-- Törekszik arab szaknyelvi tudásának fejlesztésére.
-
-d) autonómiája és felelőssége
-
-- Törekszik arra, hogy objektíven értékelje a Közel-Kelet, elsősorban az arab nyelvterület történelmi és aktuális eseményeit, történéseit.
-
-- Felelősséget vállal anyanyelvű és arab szövegeiért, tudatában van azok lehetséges következményeinek.
-
-7.1.2.3. Hebraisztika szakirányon továbbá a keleti nyelvek és kultúrák alapszakos bölcsész
-
-a) tudása
-
-- Tájékozott az ókori és későbbi zsidó kulturális jelenségek történetiségének általánosan elfogadott jellemzői, adatai körében.
-
-- Ismeri az ókori és modern izraeli kultúra legfontosabb vonásait.
-
-- Ismeri a klasszikus héber nyelvet a középfokú (B2), komplex típusú nyelvvizsga szintjén, valamint a modern héber nyelvet.
-
-b) képességei
-
-- Képes klasszikus és modern héber nyelvű forrásszövegek önálló történeti- nyelvészeti-filológiai elemzésére.
-
-- Képes megérteni a hebraisztika szakirányhoz kapcsolódó alapvető - elsősorban angol nyelvű - szakmai szövegeket.
-
-c) attitűdje
-
-- A héber nyelv és irodalom, a zsidó kultúra gondolkodásmódját hitelesen közvetíti.
-
-- Törekszik héber szaknyelvi tudásának fejlesztésére.
-
-d) autonómiája és felelőssége
-
-- Nyitott a közel-keleti kultúrák, ezen belül az izraeli kultúra hátterére.
-
-7.1.2.4. Indológia szakirányon továbbá a keleti nyelvek és kultúrák alapszakos bölcsész
-
-a) tudása
-
-- Tájékozott a szanszkrit és hindi nyelvű kulturális jelenségek történetiségének általánosan elfogadott jellemzői, adatai körében.
-
-- Ismeri a modern hindi írott és beszélt nyelvet a középfokú (B2), komplex típusú nyelvvizsgának megfelelően, valamint a klasszikus szanszkrit nyelvi és lexikai sajátosságait.
-
-b) képességei
-
-- Képes értelmezni a szanszkrit és hindi nyelvű kulturális jelenségeket és azok történeti beágyazottságát.
-
-- Képes India nyelveit elhelyezni a világ nyelvei közt.
-
-- Képes világos, részletes szövegeket alkotni hindi nyelven, különféle témákban.
-
-- Képes megérteni az indológia szakirányhoz kapcsolódó alapvető - elsősorban angol nyelvű - szakmai szövegeket.
-
-c) attitűdje
-
-- Érdeklődik más indiai nyelvek iránt, törekszik legalább egy elsajátítására, kiindulva saját szakiránya megszerzett ismereteiből és kompetenciáiból.
-
-- Igénye van a dél-ázsiai kultúrához kapcsolódó egyéb kultúrák megismerésére.
-
-- Tudatosan képviseli a hindi nyelvterület nyelvi és kommunikációs normáit.
-
-- Hitelesen közvetíti az indiai kultúra nyelvészeti, irodalom-, kultúratudományi és történelmi gondolkodásmódját.
-
-- Törekszik általános és szaknyelvi tudásának a fejlesztésére.
-
-- Nyitott a szanszkrit és a hindi nyelv kulturális hátterére.
-
-d) autonómiája és felelőssége
-
-- Felelősséget vállal anyanyelvű és hindi szövegeiért, tudatában van azok lehetséges következményeinek.
-
-- Az indológia szakirányon szerzett ismereteit alkalmazza önművelésében, önismeretében.
-
-7.1.2.5. Iranisztika szakirányon, továbbá a keleti nyelvek és kultúrák alapszakos bölcsész
-
-a) tudása
-
-- Tájékozott a perzsa nyelvű kulturális jelenségek történetiségének általánosan elfogadott jellemzői, adatai körében.
-
-- Ismeri a perzsa kultúra legfontosabb vonásait.
-
-- Ismeri az iranisztika egyes területeinek (irodalom-, nyelv-, történelem-, vallás- és kultúratudomány) alapvető szakkifejezéseit.
-
-- Ismeri a modern perzsa írott és beszélt nyelvet a középfokú (B2), komplex típusú nyelvvizsga szintjén, valamint a klasszikus perzsa nyelvi és lexikai sajátosságait.
-
-- Elégséges nyelvismerettel rendelkezik arab nyelvű írott szövegek szótárral való lefordításához.
-
-b) képességei
-
-- Képes közérthetően kommunikálni perzsa nyelven mind szóban, mind írásban.
-
-- Képes műfajilag sokszínű perzsa nyelvű szövegeket és kulturális jelenségeket értelmezni.
-
-[^15]: A 3. melléklet a 31/2017. (XII. 5.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^25]: A 3. melléklet a 31/2017. (XII. 5.) EMMI rendelet 1. §-a, a 3/2019. (II. 11.) EMMI rendelet 11. §-a szerint módosított szöveg.
