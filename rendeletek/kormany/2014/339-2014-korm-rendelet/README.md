@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-339-20-
 | 2016-01-21 | 2014-339-20-22.6 | 4/2016. (I. 20.) Korm. rendelet |
 | 2016-06-21 | 2014-339-20-22.7 | 159/2016. (VI. 13.) Korm. rendelet |
 | 2017-03-21 | 2014-339-20-22.8 | 57/2017. (III. 20.) Korm. rendelet |
+| 2019-02-19 | 2014-339-20-22.9 | 15/2019. (II. 11.) Korm. rendelet |
