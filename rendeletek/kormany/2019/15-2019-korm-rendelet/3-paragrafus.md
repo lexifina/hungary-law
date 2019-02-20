@@ -1,3 +1,0 @@
-## 2. § A 339/2014. (XII. 19.) Korm. rendelet 10. alcíme a következő 17/C. §-sal egészül ki:
-
-## „17/C. § E rendeletnek az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet módosításáról szóló 15/2019. (II. 11.) Korm. rendelettel módosított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.”
