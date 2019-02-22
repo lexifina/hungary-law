@@ -10,7 +10,7 @@
 
 ## Felelős: nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2017. június 30., a Közgyűjtemények cím javára biztosított 80 000 ezer forint tekintetében 2018. december 31.
+## Határidő: 2017. június 30., a Közgyűjtemények cím javára biztosított 80 000 ezer forint tekintetében 2019. június 30.
 
 ## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 50 000 ezer forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 41. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport javára a 2. melléklet szerint.
 
@@ -24,4 +24,4 @@
 
 1. melléklet az 1437/2016. (VIII. 17.) Korm. határozathoz
 
-[^1]: Az 1. pont az 1601/2017. (VIII. 31.) Korm. határozat 6. pontja, az 1454/2018. (IX. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1601/2017. (VIII. 31.) Korm. határozat 6. pontja, az 1454/2018. (IX. 21.) Korm. határozat 2. pontja, az 1057/2019. (II. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
