@@ -4,7 +4,7 @@
 
 | 2. | Nyírlugosi Sportegyesület | Sportöltöző és edzőközpont kialakítása | 160 000 000 |
 
-| 3. | Batthyány Lajos Alapítvány | Médiakutató Intézet létrehozása és működésének támogatása | 500 000 000 |
+| 3. | Batthyány Lajos Alapítvány | Batthyány Lajos Alapítvány működésének támogatása | 500 000 000 |
 
 | 4. | Népfőiskola Alapítvány | Lakitelek Népfőiskola – Kölcsey Ház felújítása | 540 000 000 |
 
@@ -16,6 +16,6 @@
 
 | 8. | Népfőiskola Alapítvány | Lakitelek Népfőiskola – Északi terület környezetének rendezése (öntözési, parkosítási, környezetrendezési munkák) | 150 000 000 |
 
-2. melléklet az 1835/2018. (XII. 27.) Korm. határozathoz[^6]
+2. melléklet az 1835/2018. (XII. 27.) Korm. határozathoz[^7]
 
-[^6]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

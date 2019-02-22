@@ -36,10 +36,11 @@
 
 ## 5.[^5]
 
-1. melléklet az 1835/2018. (XII. 27.) Korm. határozathoz
+1. melléklet az 1835/2018. (XII. 27.) Korm. határozathoz[^6]
 
 [^1]: Az 1. pont b) alpont bc) alpontja az 1016/2019. (I. 28.) Korm. határozat 6. pontjával megállapított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet az 1058/2019. (II. 22.) Korm. határozat 3. pontja szerint módosított szöveg.
