@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1971-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-19 | 2017-1971-30-22.1 | 1971/2017. (XII. 19.) Korm. határozat |
+| 2019-02-22 | 2017-1971-30-22.2 | 1057/2019. (II. 22.) Korm. határozat |
