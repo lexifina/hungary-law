@@ -56,7 +56,7 @@
 
 | 18. | Bíró Károly Alapítvány | A Magyar Ház működésének és fejlesztésének támogatása | 25 000 000 |
 
-| 19. | Rákóczi Szövetség | A szervezet ingatlanvásárlásának támogatása | 762 000 000 |
+| 19. | Rákóczi Szövetség | A szervezet ingatlanvásárlásának és egyéb eszközbeszerzéseinek támogatása | 762 000 000 |
 
 | 20. | Erdélyi Református Egyházkerület | Kárpát-medencei óvodafejlesztési program támogatása | 250 000 000 |
 
@@ -106,4 +106,4 @@
 
 | 43. | Bicskei Torna Club Egyesület | Határon túli ingatlanfejlesztés támogatása | 120 000 000 |
 
-[^1]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja, az 1058/2019. (II. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
