@@ -12,7 +12,7 @@
 
 ## Határidő: 2018. december 28.
 
-1. melléklet az 1809/2018. (XII. 23.) Korm. határozathoz
+1. melléklet az 1809/2018. (XII. 23.) Korm. határozathoz[^1]
 
 | Sor- szám | A támogatási cél, illetve fejlesztés megnevezése | A támogatás célja | A támogatás összege (forint) | Kedvezményezett |
 
@@ -114,7 +114,7 @@
 
 | 49. | sportcélú támogatások | A sportegyesület sportszakmai többletfeladatainak támogatása | 180 000 000 | Kaposvári Sportközpont és Sportiskola |
 
-| 50. | sportcélú támogatások | A sportegyesület sportszakmai többletfeladatainak támogatása | 180 000 000 | Dunaferr Sportegyesület |
+| 50. | sportcélú támogatások | A sportegyesület sportszakmai többletfeladatainak támogatása és adósságkonszolidáció | 180 000 000 | Dunaferr Sportegyesület |
 
 | 51. | sportcélú támogatások | A sportegyesület sportszakmai többletfeladatainak támogatása | 180 000 000 | Tatabányai Sport Club |
 
@@ -142,9 +142,9 @@
 
 | 63. | sportcélú támogatások | Nemzeti Kézilabda Akadémia működésének támogatása | 1 700 000 000 | Magyar Kézilabda Utánpótlásért Alapítvány |
 
-| 64. | sportcélú támogatások | Dunaújváros PASE működésének támogatása | 250 000 000 | Dunaújváros Pálhalma Agrospeciál Sportegyesület |
+| 64. | sportcélú támogatások | Dunaújváros PASE működésének támogatása és adósságkonszolidációja | 250 000 000 | Dunaújváros Pálhalma Agrospeciál Sportegyesület |
 
-| 65. | sportcélú támogatások | Sportszálloda építésének támogatása | 500 000 000 | Mezőkövesd-Zsóry Futball Club Kft. |
+| 65. | sportcélú támogatások | Sportszálloda építésének és egyéb sportcélú fejlesztések, sportcélú beruházáshoz kapcsolódó területvásárlás támogatása | 500 000 000 | Mezőkövesd-Zsóry Futball Club Kft. |
 
 | 66. | sportcélú támogatások | A nemzeti Kosárlabda Akadémia működésének támogatása | 1 500 000 000 | Rátgéber Kosárlabda Akadémia |
 
@@ -158,6 +158,8 @@
 
 | 71. | sportcélú támogatások | A budafoki center pálya, valamint a műfüves pálya kivitelezési munkái | 53 340 000 | Budafoki Munkás Testedző Egyesület |
 
-| 72. | sportcélú támogatások | Sportcélú beruházáshoz kapcsolódó területvásárlás | 430 000 000 | Pécsi Vasutas Sportkör |
+| 72. | sportcélú támogatások | Sportcélú beruházás befejezése és sportcélú beruházáshoz kapcsolódó területvásárlás | 430 000 000 | Pécsi Vasutas Sportkör |
 
 | 73. | sportcélú támogatások | Pécsi labdarúgó utánpótlás akadémia beruházás támogatása | 870 000 000 | Pécsi Sport Nonprofit Zrt. |
+
+[^1]: Az 1. melléklet az 1058/2019. (II. 22.) Korm. határozat 1. pontja szerint módosított szöveg.
