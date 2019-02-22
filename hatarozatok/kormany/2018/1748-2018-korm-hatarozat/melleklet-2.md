@@ -6,7 +6,7 @@
 
 | 2. | Gerjen Község Önkormányzata | önkormányzati feladatok ellátására szolgáló intézmények fejlesztése, járdák és utak építése, felújítása, szolgálati lakások kialakítása, településrendezési terv készítése | 235 000 000 |
 
-| 3. | Kalocsa Város Önkormányzata | közétkeztetési feladatok | 66 000 000 |
+| 3. | Kalocsa Város Önkormányzata | tartozások rendezése és közétkeztetési feladatok ellátása | 66 000 000 |
 
 | 4. | Újkígyós Község Önkormányzata | településüzemeltetési feladatok; víztorony rekonstrukció | 122 000 000 |
 

@@ -106,4 +106,6 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1748/2018. (XII. 20.) Korm. határozathoz
+1. melléklet az 1748/2018. (XII. 20.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1059/2019. (II. 22.) Korm. határozat 7. pontja szerint módosított szöveg.
