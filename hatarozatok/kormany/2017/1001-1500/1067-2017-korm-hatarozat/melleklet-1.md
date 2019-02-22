@@ -16,7 +16,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. június 30.
+## Határidő: 2020. december 31.
 
 1. melléklet az 1067/2017. (II. 9.) Korm. határozathoz
 
@@ -96,4 +96,4 @@ Költségvetési év: 2017.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1080/2018. (III. 13.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1080/2018. (III. 13.) Korm. határozat 5. pontja, az 1057/2019. (II. 22.) Korm. határozat 3. pontja szerint módosított szöveg.

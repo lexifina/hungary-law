@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1067-30
 | --- | --- | --- |
 | 2017-02-09 | 2017-1067-30-22.1 | 1067/2017. (II. 9.) Korm. határozat |
 | 2018-03-13 | 2017-1067-30-22.2 | 1080/2018. (III. 13.) Korm. határozat |
+| 2019-02-22 | 2017-1067-30-22.3 | 1080/2018. (III. 13.) Korm. határozat |
