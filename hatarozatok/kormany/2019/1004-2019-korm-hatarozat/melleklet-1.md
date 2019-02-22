@@ -18,4 +18,6 @@
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 2. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően, támogatási előlegként folyósítsa az érintett önkormányzatok számára.
 
-1. melléklet az 1004/2019. (I. 18.) Korm. határozathoz
+1. melléklet az 1004/2019. (I. 18.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1059/2019. (II. 22.) Korm. határozat 9. pontja szerint módosított szöveg.

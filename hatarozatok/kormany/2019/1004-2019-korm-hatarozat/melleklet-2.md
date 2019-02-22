@@ -12,9 +12,9 @@
 
 | 5. | Miskolc Megyei Jogú Város Önkormányzata feladatainak támogatása | Miskolci Művészeti Központ megvalósításának támogatása | 500 000 000 |
 
-| 6. | Szendrő Város Önkormányzata feladatainak támogatása | Tornacsarnok és Tanuszoda épülete rekonstrukciójának támogatása | 300 000 000 |
+| 6. | Szendrő Város Önkormányzata feladatainak támogatása | tornacsarnok létesítése | 300 000 000 |
 
-| 7. | Apátfalva Község Önkormányzata feladatainak támogatása | sportcsarnok és útfelújítás támogatása | 100 000 000 |
+| 7. | Apátfalva Község Önkormányzata feladatainak támogatása | sportcsarnok építése támogatásnyújtással és útfelújítás | 100 000 000 |
 
 | 8. | Kiszombor Község Önkormányzata feladatainak támogatása | bölcsődefelújítás, óvodakonyha- felújítás támogatása | 60 000 000 |
 
@@ -42,7 +42,7 @@
 
 | 20. | Vál Község Önkormányzata feladatainak támogatása | belterületi útépítés támogatása | 70 000 000 |
 
-| 21. | Sáránd Község Önkormányzata feladatainak támogatása | Petőfi park rehabilitációjának támogatása | 50 000 000 |
+| 21. | Sáránd Község Önkormányzata feladatainak támogatása | Petőfi park felújítása és infrastrukturális fejlesztések | 50 000 000 |
 
 | 22. | Heves Város Önkormányzata feladatainak támogatása | Hevesi Strand és környezete kialakításának támogatása | 350 000 000 |
 
@@ -56,7 +56,7 @@
 
 | 27. | Tiszafüred Város Önkormányzata feladatainak támogatása | városi strandfürdő tervezési feladatainak támogatása | 180 000 000 |
 
-| 28. | Kisbér Város Önkormányzata feladatainak támogatása | belvárosi városközpont revitalizációjának támogatása | 1 025 000 000 |
+| 28. | Kisbér Város Önkormányzata feladatainak támogatása | belvárosi városközpont revitalizációjának támogatása részben támogatás nyújtásával | 1 025 000 000 |
 
 | 29. | Tata Város Önkormányzata feladatainak támogatása | Malomárok-patak mederrekonstrukciójának támogatása | 150 000 000 |
 
@@ -76,7 +76,7 @@
 
 | 37. | Söpte Község Önkormányzata feladatainak támogatása | óvoda felújításának támogatása | 15 000 000 |
 
-| 38. | Szentgotthárd Város Önkormányzata feladatainak támogatása | Szentgotthárdi Sportcsarnok fejlesztésének kiegészítő támogatása | 150 000 000 |
+| 38. | Szentgotthárd Város Önkormányzata feladatainak támogatása | sport infrastruktúra fejlesztés részben támogatás nyújtásával | 150 000 000 |
 
 | 39. | Bakonybél Község Önkormányzata feladatainak támogatása | Szent Gellért tér rekonstrukciójának támogatása | 170 000 000 |
 
