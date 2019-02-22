@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-35-20-2
 | 2018-01-14 | 2017-35-20-2C.2 | 2010: CXXX. törvény |
 | 2018-07-01 | 2017-35-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-07-02 | 2017-35-20-2C.4 | 2010: CXXX. törvény |
+| 2019-02-22 | 2017-35-20-2C.5 | 10/2019. (II. 21.) MNB rendelet |

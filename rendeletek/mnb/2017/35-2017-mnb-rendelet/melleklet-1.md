@@ -1,4 +1,4 @@
-## 62. §[^25]
+## 62. §[^28]
 
 1. melléklet a 35/2017. (XII. 14.) MNB rendelethez
 
@@ -20,4 +20,4 @@ b) a 3. és 4. karakter az ellenőrzőszám, amelynek algoritmusát az Európai 
 
 c) az 5–28. karakter a belföldi pénzforgalmi jelzőszám (16 karakter hosszúságú pénzforgalmi jelzőszám esetében az IBAN képzésekor az utolsó 8 karaktert nulla számjeggyel kell feltölteni).
 
-[^25]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 62. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
