@@ -1,6 +1,6 @@
 13. § (1) Ybl Miklós-díj (e § alkalmazásában a továbbiakban: díj) a legalább tizenöt év kimagasló egyéni – önállóan tervezett építészeti alkotásokra vonatkozó – építészeti alkotói, oktatói tevékenység elismeréséül, életműdíjként adományozható.
 
-(2)[^4] A díj évente legfeljebb 5 fő részére adományozható, az elismerést ugyanaz a személy csak egyszer kaphatja meg.
+(2)[^6] A díj évente legfeljebb 5 fő részére adományozható, az elismerést ugyanaz a személy csak egyszer kaphatja meg.
 
 (3) A díj átadására a március 15-i nemzeti ünnep alkalmából kerül sor.
 
@@ -10,4 +10,4 @@
 
 (6) A díjhoz 1 500 000 Ft összegű pénzjutalom jár.
 
-[^4]: A 13. § (2) bekezdése a 26/2016. (VIII. 30.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+[^6]: A 13. § (2) bekezdése a 26/2016. (VIII. 30.) MvM rendelet 5. § b) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 (2) A díj évente legfeljebb 2 fő részére adományozható.
 
-(3)[^5] A díj átadására március 15-i nemzeti ünnep alkalmából kerül sor.
+(3)[^8] A díj átadására március 15-i nemzeti ünnep alkalmából kerül sor.
 
 (4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap.
 
@@ -10,4 +10,4 @@
 
 (6) A díjhoz 500 000 Ft összegű pénzjutalom jár.
 
-[^5]: A 16. § (3) bekezdése a 32/2016. (XII. 14.) MvM rendelet 12. § a) pontja szerint módosított szöveg.
+[^8]: A 16. § (3) bekezdése a 32/2016. (XII. 14.) MvM rendelet 12. § a) pontja szerint módosított szöveg.

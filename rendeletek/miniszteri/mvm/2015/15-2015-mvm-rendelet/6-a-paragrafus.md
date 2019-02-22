@@ -1,4 +1,4 @@
-6/A. §[^3] (1) A Pro Architectura díj elnyerésére vonatkozó pályázatokat legfeljebb 9 tagból álló szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja. A bíráló bizottság javaslatát az építészeti és építésügyi helyettes államtitkár útján terjeszti fel a miniszternek.
+6/A. §[^5] (1) A Pro Architectura díj elnyerésére vonatkozó pályázatokat legfeljebb 9 tagból álló szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja. A bíráló bizottság javaslatát az építészeti és építésügyi helyettes államtitkár útján terjeszti fel a miniszternek.
 
 (2) A bíráló bizottság tagjai:
 
@@ -16,4 +16,4 @@ c) az elnök által felkért, a magyar építészeti kultúra népszerűsítés�
 
 (6) A bíráló bizottság tagjai e tevékenységükért díjazásban nem részesülnek. A bíráló bizottság melletti titkársági feladatok ellátásáról az építészeti és építésügyi helyettes államtitkár gondoskodik.
 
-[^3]: A 6/A. §-t a 26/2016. (VIII. 30.) MvM rendelet 2. §-a iktatta be.
+[^5]: A 6/A. §-t a 26/2016. (VIII. 30.) MvM rendelet 2. §-a iktatta be.
