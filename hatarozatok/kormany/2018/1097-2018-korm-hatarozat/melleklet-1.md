@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére 2 826 500 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 56. Egyes települési önkormányzatok feladatainak támogatása cím alábbi alcímei javára, az 1. melléklet szerint;
+## 2.[^1] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – az egyes települési önkormányzatok fejlesztési feladatainak támogatása érdekében – a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére 2 826 500 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 56. Egyes települési önkormányzatok feladatainak támogatása cím alábbi alcímei javára, az 1. melléklet szerint;
 
 | A. Alcím- szám | B. Alcímnév | C. Támogatási cél | D. Támogatás (forintban) |
 
@@ -30,7 +30,7 @@
 
 | 10. | Székesfehérvár Megyei Jogú Város karsztakna védelembe helyezésével kapcsolatos előkészítési feladatainak támogatása | Csóri karsztakna védelembe helyezésével kapcsolatos előkészítési, tervezési feladatok | 23 000 000 |
 
-| 11. | Szentkirályszabadja Község fejlesztési feladatainak támogatása | bölcsőde építése | 107 000 000 |
+| 11. | Szentkirályszabadja Község fejlesztési feladatainak támogatása | bölcsőde létesítése ingatlanvásárlással, valamint járda és közlekedési csomópont építése | 107 000 000 |
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -42,7 +42,7 @@
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett települési önkormányzatok számára;
 
-## 5–6.[^1]
+## 5–6.[^2]
 
 1. melléklet az 1097/2018. (III. 13.) Korm. határozathoz
 
@@ -136,4 +136,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pontban foglalt táblázat az 1059/2019. (II. 22.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
