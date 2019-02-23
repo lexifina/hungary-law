@@ -62,22 +62,20 @@
 
 ## g) az Ávr. 172/A. § (9) bekezdésében biztosított jogkörében eljárva, az Ávr. 172/A. § (3) bekezdése alapján a 2018. évben a szeptember–november hónapokra vonatkozóan, a XIX. Uniós fejlesztések fejezet részére megállapított befizetési kötelezettséget elengedi.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és fejezetek közötti átcsoportosításról szóló 1437/2016. (VIII. 17.) Korm. határozat 1. pontjában a „2018. december 31.” szövegrész helyébe a „2019. június 30.” szöveg lép.
+## 2.[^1]
 
-## 3. Az Arany János-emlékév programjainak megvalósításához szükséges forrás biztosításáról szóló 1067/2017. (II. 9.) Korm. határozat 2. pontjában a „2019. június 30.” szövegrész helyébe a „2020. december 31.” szöveg lép.
+## 3.[^2]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 2. pontjában a „2018. december 31.” szövegrész helyébe a „2019. december 31.” szöveg lép.
+## 4.[^3]
 
-## 5. Az egészségügyi ellátórendszer működési feltételeinek javítása érdekében szükséges kiemelt vidéki beruházások előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1971/2017. (XII. 19.) Korm. határozat
+## 5.[^4]
 
-## a) 2. pontjában a „2018. december 31-ig” szövegrész helyébe a „2019. július 31-ig” szöveg,
-
-## b) 6. pont a) alpontjában a „2019. január 31.” szövegrész helyébe az „az 1. pont b), c) és e) alpontja tekintetében 2019. január 31., az 1. pont a) és d) alpontja tekintetében 2019. augusztus 31.” szöveg, valamint
-
-## c) 6. pont b) alpontjában a „2019. március 31.” szövegrész helyébe az „az 1. pont b), c) és e) alpontja tekintetében 2019. március 31., az 1. pont a) és d) alpontja tekintetében 2019. október 31.” szöveg
-
-## lép.
-
-## 6. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról, fejezeten belüli előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1211/2018. (IV. 6.) Korm. határozat 1. pontjában a „2019. június 30.” szövegrész helyébe a „2019. június 30., a Közgyűjtemények cím javára biztosított 254 000 000 forint tekintetében 2019. december 31.” szöveg lép.
+## 6.[^5]
 
 1. melléklet az 1057/2019. (II. 22.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
