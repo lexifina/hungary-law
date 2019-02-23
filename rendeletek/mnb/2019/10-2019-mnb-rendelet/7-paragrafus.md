@@ -1,9 +1,9 @@
-7. § (1)[^5]
+## 6. §[^6]
 
-(2) Hatályát veszti
+7. § (1)[^7]
 
-a) a tőkepiacról szóló törvény szerinti elszámolóházi tevékenységet végző szervezet üzletszabályzatára és szabályzataira vonatkozó követelményekről szóló 9/2009. (II. 27.) MNB rendelet,
+(2)[^8]
 
-b) a pénzforgalom lebonyolításáról szóló 18/2009. (VIII. 6.) MNB rendelet módosításáról szóló 8/2011. (VII. 13.) MNB rendelet.
-
-[^5]: A 7. § (1) bekezdése a 8. § (2) bekezdése alapján 2019. március 31-én lép hatályba.
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § (1) bekezdése a 8. § (2) bekezdése alapján 2019. március 31-én lép hatályba.
+[^8]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
