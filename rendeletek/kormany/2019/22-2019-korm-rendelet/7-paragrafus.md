@@ -1,0 +1,3 @@
+## 6. § A közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályvesztésének időpontjában miniszteri döntéssel befejezett, de az igénylőnek birtokba nem adott vagyontárgyak átvételére az igénylő 6 hónapos – jogvesztő – határidőn belül jogosult akkor, ha az igénylő a birtokbavételt e rendelet hatálybalépéséig nem kezdeményezte. Az igénylő halála esetén az örökös kérheti a birtokbaadást, ebben az esetben a 6 hónapos jogvesztő határidő a hagyatéki eljárás időtartamával meghosszabbodik.
+
+7. § Ez a rendelet a kihirdetését követő napon lép hatályba.
