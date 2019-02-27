@@ -10,7 +10,7 @@
 
 | 4 | Építési műszaki ellenőr közreműködésének mellőzése, jogszabályban előírt kötelezettség esetén | 100 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  |  |  |  |  |  |
 
-| 4a. | Az építtető az Étv. 33/A. § (2)–(3) bekezdései szerinti egyszerű bejelentéshez kötött építési tevékenységet – az építésfelügyeleti hatóság tájékoztatásában foglaltak ellenére – a bejelentéstől számított 16. napon megkezdi | 500 000 Ft + 0,015×SZÉ legfeljebb 5 000 000 Ft |  |  |  |  |  |  |  |
+| 4a. | Az építtető az Étv. 33/A. § (2)–(3) bekezdései szerinti egyszerű bejelentéshez kötött építési tevékenységet – az építésfelügyeleti hatóság tájékoztatásában foglaltak ellenére – a bejelentéstől számított 15. nap elteltével megkezdi | 500 000 Ft + 0,015×SZÉ legfeljebb 5 000 000 Ft |  |  |  |  |  |  |  |
 
 | 4b. | Az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységet az egyszerű bejelentés kivitelezési dokumentáció alapján, de az Étv. 13. § (2) bekezdés a) és b) pontjának megsértésével végzik |  | 200 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  |  |  |  |  |
 
@@ -70,6 +70,6 @@
 
 | 32 | Építtetői fedezetkezelés hatálya alá tartozó építési beruházás esetén az alvállalkozó kivitelező - használatot biztosító jelszó birtokában - nem rögzíti szerződésének adatait az elektronikus alvállalkozói nyilvántartásban |  |  |  |  |  |  | 80 000 Ft |  |
 
-2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^46]
+2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^47]
 
-[^46]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, a 156/2016. (VI. 13.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^47]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, a 156/2016. (VI. 13.) Korm. rendelet 5. §-a hatályon kívül helyezte.
