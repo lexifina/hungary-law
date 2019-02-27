@@ -4,11 +4,7 @@
 
 Melléklet a 43/2007. (VI. 1.) FVM rendelethez[^5]
 
-20078220000043_1
-
-20078220000043_2
-
-20078220000043_3
+20078220000043_4
 
 [^4]: A 4. §-t a 120/2009. (IX. 10.) FVM rendelet 1. §-a iktatta be.
-[^5]: A melléklet a 43/2013. (V. 29.) VM rendelet 1. §-ával megállapított szöveg.
+[^5]: A melléklet a 3/2019. (II. 19.) AM rendelet 1. §-ával megállapított szöveg.
