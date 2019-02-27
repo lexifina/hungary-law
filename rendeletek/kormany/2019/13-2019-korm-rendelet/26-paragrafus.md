@@ -1,4 +1,4 @@
-## 25. §[^25]
+## 25. §[^24]
 
 ## 8. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és a 2. § e rendelet kihirdetését követő 16. napon lép hatályba.
 
-[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

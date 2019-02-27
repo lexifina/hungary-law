@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 26. § (2) bekezdése alapján 2019. február 27-én lép hatályba.
+## 1. § Az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: R1.) 1. mellékletében foglalt táblázat A:4a mezőjében az „a bejelentéstől számított 16. napon megkezdi” szövegrész helyébe az „a bejelentéstől számított 15 nap elteltével megkezdi” szöveg lép.
