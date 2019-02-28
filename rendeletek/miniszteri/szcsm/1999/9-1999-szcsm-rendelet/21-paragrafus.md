@@ -18,9 +18,9 @@ c)[^49] az Szt. 65/C. §-ának (5) bekezdése szerinti dokumentumokat.
 
 (4) A közösségi pszichiátriai ellátás igénybevételére irányuló kérelemhez mellékelni kell a pszichiáter vagy neurológus szakorvos szakvéleményét a pszichiátriai betegség fennállásáról. Ha a szolgáltatást igénylő nem rendelkezik szakvéleménnyel, a szolgáltatás részére a kérelem benyújtásától számított legfeljebb három hónapig átmeneti jelleggel biztosítható.
 
-(5)[^51] Demens személyek ellátása esetén az igénybevételre irányuló kérelemhez be kell nyújtani az orvosszakértői szerv vagy a Pszichiátriai/Neurológiai Szakkollégium által befogadott demencia centrum vagy pszichiáter, neurológus, geriáter szakorvos által kiállított,
+(5)[^51] Demens személyek ellátása esetén az igénybevételre irányuló kérelemhez be kell nyújtani a pszichiáter, neurológus vagy geriáter szakorvos által kiállított,
 
-a) nappali ellátás esetén a demencia kórképet megállapító,
+a) nappali ellátás esetén a demencia kórképet igazoló,
 
 b) bentlakásos intézményi ellátás esetén a demencia kórkép legalább középsúlyos fokozatát megállapító
 
@@ -38,7 +38,7 @@ b) bentlakásos intézményi ellátás esetén a demencia kórkép legalább kö
 [^48]: A 21. § (2) bekezdését a 92/2008. (IV. 23.) Korm. rendelet 14. § (6) bekezdés a) pont ab) alpontja hatályon kívül helyezte, újonnan a 35/2009. (XII. 30.) SZMM rendelet 5. §-a iktatta be.
 [^49]: A 21. § (2) bekezdés c) pontja a 7/2018. (II. 5.) EMMI rendelet 2. §-a szerint módosított szöveg.
 [^50]: A 21. § (3) bekezdése az 55/2013. (VII. 29.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
-[^51]: A 21. § (5) bekezdése a 27/2010. (XII. 30.) NEFMI rendelet 6. §-ával megállapított szöveg.
+[^51]: A 21. § (5) bekezdése a 4/2019. (II. 27.) EMMI rendelet 11. §-ával megállapított szöveg.
 [^52]: A 21. § (6) bekezdését az 55/2013. (VII. 29.) EMMI rendelet 3. §-a iktatta be.
 [^53]: A 21. § (7) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 13. §-a iktatta be.
 [^54]: A 21. § (8) bekezdését a 7/2018. (II. 5.) EMMI rendelet 1. §-a iktatta be.

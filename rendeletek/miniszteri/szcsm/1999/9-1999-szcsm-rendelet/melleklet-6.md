@@ -1,3 +1,3 @@
-6. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^79]
+6. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^81]
 
-[^79]: A 6. számú mellékletet a 9/2009. (IV. 11.) SZMM rendelet 11. § (4) bekezdésének ac) alpontja hatályon kívül helyezte.
+[^81]: A 6. számú mellékletet a 9/2009. (IV. 11.) SZMM rendelet 11. § (4) bekezdésének ac) alpontja hatályon kívül helyezte.
