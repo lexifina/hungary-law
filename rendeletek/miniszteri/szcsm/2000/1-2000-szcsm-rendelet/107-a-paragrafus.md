@@ -2,12 +2,12 @@
 
 ## Az időszakos férőhelyszám-bővítés
 
-107/A. §[^314] (1)[^315] A hajléktalanok átmeneti szállását, az éjjeli menedékhelyet, valamint a nappali melegedőt működtető fenntartó a közterületen vagy lakhatásra alkalmatlan helyiségben életvitelszerűen tartózkodó hajléktalan személyek ellátásának, a közvetlen életveszély elhárításának érdekében a téli időszakban időszakos férőhelyeket biztosíthat.
+107/A. §[^319] (1)[^320] A hajléktalanok átmeneti szállását, az éjjeli menedékhelyet, valamint a nappali melegedőt működtető fenntartó a közterületen vagy lakhatásra alkalmatlan helyiségben életvitelszerűen tartózkodó hajléktalan személyek ellátásának, a közvetlen életveszély elhárításának érdekében a téli időszakban időszakos férőhelyeket biztosíthat.
 
 (2) A férőhelyszám-bővítés végrehajtható már működő intézmény épületében, az engedélyezett férőhelyszám növelésével, illetve különálló, az éves intézményi ellátásban nem hasznosított, a téli időszakban működtetni kívánt saját tulajdonban lévő, bérelt, vagy használati joggal biztosított épületben, helyiségben.
 
-(3)[^316]
+(3)[^321]
 
-[^314]: A 107/A. §-t és az azt megelőző alcímet a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be.
-[^315]: A 107/A. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 36. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^316]: A 107/A. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § m) pontja hatályon kívül helyezte.
+[^319]: A 107/A. §-t és az azt megelőző alcímet a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be.
+[^320]: A 107/A. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 36. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^321]: A 107/A. § (3) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § m) pontja hatályon kívül helyezte.

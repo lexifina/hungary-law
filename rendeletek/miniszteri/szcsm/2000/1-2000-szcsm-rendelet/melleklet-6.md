@@ -158,6 +158,6 @@
 
 ## Szükség esetén a bentlakásos szociális intézménybe történő beköltözés segítése
 
-6. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^376]
+6. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^383]
 
-[^376]: A 6. számú melléklet a 4/2004. (I. 28.) ESZCSM rendelet 27. §-ának (3) bekezdésével megállapított, az 55/2013. (VII. 29.) EMMI rendelet 13. § g) pontja szerint módosított szöveg.
+[^383]: A 6. számú melléklet a 4/2004. (I. 28.) ESZCSM rendelet 27. §-ának (3) bekezdésével megállapított, az 55/2013. (VII. 29.) EMMI rendelet 13. § g) pontja szerint módosított szöveg.

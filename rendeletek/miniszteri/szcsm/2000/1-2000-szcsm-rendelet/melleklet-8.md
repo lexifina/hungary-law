@@ -132,7 +132,7 @@
 
 ## 5.19. Minden egyéb, orvos által elrendelt és felügyelt szakápolási tevékenység.
 
-8. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^378]
+8. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^385]
 
 ## Tevékenységnapló
 
@@ -172,4 +172,4 @@ Kitöltési útmutató a falu- és tanyagondnoki szolgáltatás tevékenységén
 
 9. Ezen oszlop vezetése a fenntartó döntése alapján mellőzhető.
 
-[^378]: A 8. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^385]: A 8. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (5) bekezdésével megállapított szöveg.

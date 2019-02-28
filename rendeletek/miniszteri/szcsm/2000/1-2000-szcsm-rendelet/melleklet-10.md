@@ -12,6 +12,6 @@
 
 | __________________ * Külön jelezve, hogy rendszeresen ® vagy esti jelleggel (E) került felírásra a gyógyszer. |
 
-10. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^380]
+10. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^387]
 
-[^380]: A 10. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 57. § (4) bekezdésével megállapított szöveg.
+[^387]: A 10. számú melléklet az 1/2017. (II. 14.) EMMI rendelet 57. § (4) bekezdésével megállapított szöveg.
