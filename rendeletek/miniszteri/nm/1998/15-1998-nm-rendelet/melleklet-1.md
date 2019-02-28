@@ -1,10 +1,12 @@
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^531]
+## 180. §[^543] A gyermekotthonban a Módr1. hatálybalépésekor gyógypedagógus munkakörben foglalkoztatott személyt foglalkoztatásának időtartama alatt szakképzettnek kell tekinteni, ha végzettsége a Módr1. hatálybalépését[^544] megelőző napon hatályos 2. számú melléklet II. Rész „II. Szakellátások” cím 2. pontjában a gyógypedagógus munkakörre előírt képesítési előírásoknak megfelel.
+
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^545]
 
 A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
 I. Alapellátások
 
-## 8K00164N_0
+## 9K00673M_0
 
 | Ellátás | Munkakör/fő |
 
@@ -16,25 +18,71 @@ I. Alapellátások
 
 | 10 000 fő járási lakosságszámra vetítve | szociális asszisztens (ajánlott létszám) | 1 fő |
 
-| b) Család- és gyermekjóléti központ 4000 fő lakosságszámra (település/közös hivatalhoz tartozó települések) vetítve, vagy – ha ez magasabb létszámot eredményez – minden 25 ellátott családra 1 fő, de minimum 1 fő | intézményvezető családsegítő | 1 fő 1 fő |
+| b) Család- és gyermekjóléti központ | intézményvezető | 1 fő |
 
-| 7000 fő járási lakosságszámra vetítve, de minimum 3 fő, azzal, hogy esetmenedzser esetében – ha ez magasabb létszámot eredményez – minden 50 ellátott családra 1 fő | esetmenedzser/tanácsadó | 1 fő |
+| 4000 fő lakosságszámra (település / közös hivatalhoz tartozó települések) vetítve, vagy – ha ez magasabb létszámot eredményez –,minden 25 ellátott családra 1 fő, de minimum 1 fő | családsegítő | 1 fő |
+
+| 7000 fő járási lakosságszámra vetítve, de minimum 3 fő azzal, hogy esetmenedzser esetében – ha ez magasabb létszámot eredményez – minden 50 ellátott családra 1 fő | esetmenedzser/tanácsadó | 1 fő |
+
+| család- és gyermekjóléti központonként | szociális diagnózist készítő esetmenedzser | 1 fő |
 
 | 10 000 fő járási lakosságszámra vetítve | szociális asszisztens (ajánlott létszám) | 1 fő |
 
 | 1000 fő köznevelési intézményben nyilvántartott gyermekre vetítve | óvodai és iskolai szociális segítő | 1 fő |
 
-| 2. Bölcsődei ellátás 2.1. Bölcsőde (csoportonként) | kisgyermeknevelő Többcélú, közös igazgatású intézmény esetén az egycsoportos bölcsődében vezetői feladatokat ellátó kisgyermeknevelő Többcélú, közös igazgatású intézmény esetén a kétcsoportos bölcsődében a vezetői feladatokat ellátó kisgyermeknevelő bölcsődei dajka (bölcsődei egységenként, egy vagy két csoport esetén) | 2 fő heti 2 óra heti 4 óra 1 fő |
+| 2. Bölcsődei ellátás |
 
-| Bölcsődénként Önálló bölcsőde, bölcsődei igazgatóság, egyesített bölcsőde, és ezek tagintézménye szervezeti forma esetén Bölcsődei igazgatóság, egyesített bölcsőde | orvos intézményvezető/vezető intézményvezető-helyettes (létszáma a fenntartó döntése alapján kerül meghatározásra) | havi 4 óra 1 fő 1 fő |
+| 2.1. Bölcsőde (csoportonként) | kisgyermeknevelő | 2 fő |
 
-| Többcélú óvoda-bölcsőde, vagy többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egysége szervezeti formában 3 vagy annál több csoport esetén | intézményvezető/vezető gazdasági vezető, élelmezésvezető, tejkonyhavezető (létszámuk fenntartói döntés alapján kerül meghatározásra) 5 vagy több gyermekcsoport esetén további kisgyermeknevelő (a létszámból az egyik kisgyermeknevelő vezető-helyettesi feladatokat végez, azzal, hogy szükség esetén a bölcsődei csoportban kisgyermeknevelői feladatokat is ellát) | 1 fő 1 fő 2 fő |
+|  | Többcélú, közös igazgatású intézmény esetén az egycsoportos bölcsődében vezetői feladatokat ellátó kisgyermeknevelő | heti 2 óra |
 
-| Sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermekeket is ellátó bölcsődében Egyesített bölcsődei igazgatóságokon, illetve többcélú intézmény esetén, ha korábban a bölcsődei ellátás szervezetileg egyesített bölcsődei intézményként vagy bölcsődei igazgatóságként működött | gyógypedagógus, gyógytornász, konduktor, gyógypedagógiai asszisztens (létszámuk fenntartói döntés alapján kerül megállapításra) szaktanácsadó | 1 fő |
+|  | Többcélú, közös igazgatású intézmény esetén a kétcsoportos bölcsődében a vezetői feladatokat ellátó kisgyermeknevelő | heti 4 óra |
 
-| 2.2. Mini bölcsőde (csoportonként) 2.3. Munkahelyi bölcsőde (csoportonként) 2.4. Családi bölcsőde Családi bölcsőde hálózat | kisgyermeknevelő heti 1 órában vezetői feladatokat is ellát bölcsődei dajka önálló mini bölcsőde esetén intézményvezető (a fenntartó döntése alapján) szolgáltatást nyújtó személy/kisgyermeknevelő 6-8 fős csoport esetén segítő személy (az Nmr.-ben meghatározottak szerint) szolgáltatást nyújtó személy/kisgyermeknevelő 6-7 fős csoport esetén segítő személy (az Nmr.-ben meghatározottak szerint) koordinátor (létszáma fenntartói döntés alapján kerül meghatározásra) | 1 fő 1 fő heti 20 óra 1 fő 1 fő 1 fő 1 fő |
+|  | bölcsődei dajka (bölcsődei egységenként, egy vagy két csoport esetén) | 1 fő |
 
-| 3. Napközbeni gyermekfelügyelet Napközbeni gyermekfelügyelet hálózat | szolgáltatást nyújtó személy nevelő vagy szakgondozó (hivatásos, társadalmi), vagy gondozó vagy segédgondozó (a Gyvt. 44/C. §-a szerinti ellátás során, létszáma fenntartói döntés alapján kerül megállapításra) koordinátor (létszáma fenntartói döntés alapján kerül megállapításra; 3-4 hálózatba szervezett napközbeni gyermekfelügyelet esetén a szolgáltatást nyújtó személy is elláthatja a koordinátori feladatokat)” |  |
+|  | orvos | havi 4 óra |
+
+| Bölcsődénként |  |  |
+
+| Önálló bölcsőde, bölcsődei igazgatóság, egyesített bölcsőde, és ezek tagintézménye szervezeti forma esetén | intézményvezető/vezető | 1 fő |
+
+| Bölcsődei igazgatóság, egyesített bölcsőde |  |  |
+
+|  | intézményvezető-helyettes (létszáma a fenntartó döntése alapján kerül meghatározásra) | 1 fő |
+
+| Többcélú óvoda-bölcsőde, vagy többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egysége szervezeti formában 3 vagy annál több csoport esetén | intézményvezető/vezető | 1 fő |
+
+|  | gazdasági vezető, élelmezésvezető, tejkonyhavezető (létszámuk fenntartói döntés alapján kerül meghatározásra) | 1 fő |
+
+|  | 5 vagy több gyermekcsoport esetén további kisgyermeknevelő (a létszámból az egyik kisgyermeknevelő vezető-helyettesi feladatokat végez, azzal, hogy szükség esetén a bölcsődei csoportban kisgyermeknevelői feladatokat is ellát) | 2 fő |
+
+| Sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermekeket is ellátó bölcsődében | gyógypedagógus, gyógytornász, konduktor, gyógypedagógiai asszisztens (létszámuk fenntartói döntés alapján kerül megállapításra) |  |
+
+| Egyesített bölcsődei igazgatóságokon, illetve többcélú intézmény esetén, ha korábban a bölcsődei ellátás szervezetileg egyesített bölcsődei intézményként vagy bölcsődei igazgatóságként működött | szaktanácsadó | 1 fő |
+
+| 2.2. Mini bölcsőde (csoportonként) | kisgyermeknevelő heti 1 órában vezetői feladatokat is ellát | 1 fő |
+
+|  | bölcsődei dajka | 1 fő |
+
+|  | önálló mini bölcsőde esetén intézményvezető (a fenntartó döntése alapján) | heti 20 óra |
+
+| 2.3. Munkahelyi bölcsőde (csoportonként) |  |  |
+
+|  | szolgáltatást nyújtó személy/kisgyermeknevelő | 1 fő |
+
+|  | 6-8 fős csoport esetén segítő személy (az Nmr.-ben meghatározottak szerint) |  |
+
+|  |  | 1 fő |
+
+| 2.4. Családi bölcsőde | szolgáltatást nyújtó személy/kisgyermeknevelő |  |
+
+|  | 6-7 fős csoport esetén segítő személy (az Nmr.-ben meghatározottak szerint) | 1 fő |
+
+| Családi bölcsőde hálózat | koordinátor (létszáma fenntartói döntés alapján kerül meghatározásra) | 1 fő |
+
+| 3. Napközbeni gyermekfelügyelet | szolgáltatást nyújtó személy nevelő vagy szakgondozó (hivatásos, társadalmi), vagy gondozó vagy segédgondozó (a Gyvt. 44/C. §-a szerinti ellátás során, létszáma fenntartói döntés alapján kerül megállapításra) |  |
+
+| Napközbeni gyermekfelügyelet hálózat | koordinátor (létszáma fenntartói döntés alapján kerül megállapításra; 3-4 hálózatba szervezett napközbeni gyermekfelügyelet esetén a szolgáltatást nyújtó személy is elláthatja a koordinátori feladatokat) |  |
 
 | 3/a. |  |  |
 
@@ -72,4 +120,6 @@ I. Alapellátások
 
 II. Szakellátások
 
-[^531]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (1) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (2) bekezdés a) pontja, az 1/2017. (II. 14.) EMMI rendelet 23. § (1) bekezdés a) pontja, a 19/2017. (IX. 18.) EMMI rendelet 6. § g) pontja, a 2/2018. (I. 18.) EMMI rendelet 29. § (1)–(2) bekezdése szerint módosított szöveg.
+[^543]: A 180. §-t a 4/2019. (II. 27.) EMMI rendelet 7. §-a iktatta be.
+[^544]: A hatálybalépés időpontja 2019. február 28.
+[^545]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (1) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (2) bekezdés a) pontja, az 1/2017. (II. 14.) EMMI rendelet 23. § (1) bekezdés a) pontja, a 19/2017. (IX. 18.) EMMI rendelet 6. § g) pontja, a 2/2018. (I. 18.) EMMI rendelet 29. § (1)–(2) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (1) bekezdése szerint módosított szöveg.

@@ -4,9 +4,9 @@
 
 (2) A családi bölcsődében, ha
 
-a)[^104] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb három gyermek,
+a)[^113] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb négy gyermek,
 
-b)[^105] kizárólag sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb két gyermek
+b)[^114] kizárólag sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb két gyermek
 
 nevelhető, gondozható.
 
@@ -20,5 +20,5 @@ nevelhető, gondozható.
 
 (4) A bölcsődei szolgáltatást nyújtó személy melletti segítő tevékenységet szociális gondozói díjban részesülő személy, illetve munkaviszonyban vagy más foglalkoztatásra irányuló jogviszonyban foglalkoztatott személy is elláthatja általános teljes napi munkaidőben vagy részmunkaidőben.
 
-[^104]: Az 51/F. § (2) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
-[^105]: Az 51/F. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^113]: Az 51/F. § (2) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § f) pontja szerint módosított szöveg.
+[^114]: Az 51/F. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.

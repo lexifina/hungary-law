@@ -12,7 +12,7 @@
 
 (6)[^20] A munkáltató a személyes gondoskodás körébe tartozó feladatokat ellátó személyek részére – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 79. §-ának (1)–(2) bekezdésében foglaltak szerint – munkaruhát biztosít.
 
-(7)[^21] A munkáltató beszerzi az 1. számú mellékletben meghatározott munkakörben és a gyermekek esélynövelő szolgáltatásaiban foglalkoztatni kívánt személy nyilatkozatát arról, hogy nem áll fenn vele szemben a Gyvt. 15. §-ának (8) bekezdésében meghatározott kizáró ok.
+(7)[^21] A munkáltató beszerzi az 1. számú mellékletben meghatározott munkakörben és a gyermekek esélynövelő szolgáltatásaiban foglalkoztatni kívánt személy nyilatkozatát arról, hogy nem áll fenn vele szemben a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok.
 
 (8)[^22] Többcélú intézményben vezetői megbízást az kaphat, illetve vezetői munkakörbe az nevezhető ki, aki bármely, az intézmény által biztosított szolgáltatás, illetve ellátás vezetőjére meghatározott, felsőfokú végzettség körébe tartozó képesítési előírásoknak megfelel.
 
@@ -29,6 +29,6 @@ b) a tanácsadó munkakör munkaviszony vagy munkavégzésre irányuló egyéb j
 [^18]: A 3. § (4) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja iktatta be, hatályon kívül helyezte a 25/2017. (X. 18.) EMMI rendelet 24. §-a.
 [^19]: A 3. § eredeti (2) bekezdésének számozását (5) bekezdésre változtatta a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja.
 [^20]: A 3. § eredeti (3) bekezdésének számozását (6) bekezdésre változtatta a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja. A (6) bekezdés a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^21]: A 3. § (7) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (3) bekezdése iktatta be, szövege a 40/2018. (XII. 4.) EMMI rendelet 23. § b) pontja szerint módosított szöveg.
+[^21]: A 3. § (7) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (3) bekezdése iktatta be, szövege a 40/2018. (XII. 4.) EMMI rendelet 23. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
 [^22]: A 3. § (8) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 5. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
 [^23]: A 3. § (9) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 1. § (3) bekezdése iktatta be.
