@@ -1,6 +1,6 @@
 4. § (1) Az Szt. 68/A. §-ának (3) bekezdése szerinti, gondozási szükségletet megalapozó egyéb körülmények a következők:
 
-a)[^16] a demencia kórkép legalább középsúlyos fokozata, amelyet az orvosszakértői szerv vagy a Pszichiátriai, illetve Neurológiai Szakkollégium által befogadott demencia centrum vagy pszichiáter, neurológus, geriáter szakorvos szakvéleményével igazoltak;
+a)[^16] a demencia kórkép legalább középsúlyos fokozata, amelyet pszichiáter, neurológus vagy geriáter szakorvos szakvéleményével igazoltak;
 
 b) az ellátást igénylő egyedül él, és
 
@@ -22,7 +22,7 @@ bf)[^20] munkaképességét 100%-ban elvesztette vagy legalább 70%-os mérték�
 
 (4)[^23] Az (1) bekezdés szerinti körülmények fennállása esetén a gondozási szükséglet mértékét nem kell a 3. számú melléklet szerinti értékelő adatlap alapján vizsgálni, azonban a gondozási szükségletet megalapozó egyéb körülmények fennállását az adatlapon jelölni kell.
 
-[^16]: A 4. § (1) bekezdés a) pontja a 21/2010. (XII. 30.) NEFMI rendelet 3. § b) pontja, a 25/2010. (XII. 30.) NEFMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^16]: A 4. § (1) bekezdés a) pontja a 4/2019. (II. 27.) EMMI rendelet 33. §-ával megállapított szöveg.
 [^17]: A 4. § (1) bekezdés b) pont ba) alpontja a 21/2010. (XII. 30.) NEFMI rendelet 4. § a) pontja szerint módosított szöveg.
 [^18]: A 4. § (1) bekezdés b) pont bd) alpontja a 23/2009. (X. 6.) SZMM rendelet 3. § a) pontja, a 25/2010. (XII. 30.) NEFMI rendelet 7. § b) pontja szerint módosított szöveg.
 [^19]: A 4. § (1) bekezdés b) pont be) alpontja a 26/2017. (X. 18.) EMMI rendelet 11. §-ával megállapított szöveg.
