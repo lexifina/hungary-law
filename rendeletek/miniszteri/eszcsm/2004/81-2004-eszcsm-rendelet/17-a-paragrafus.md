@@ -1,7 +1,14 @@
-17/A. §[^24] (1) 2018. december 31-éig a 17. § szerinti képzésen való részvétel nélkül komplex támogatási szükségletmérő vizsgát tehet az a személy, aki 2017. december 31-én a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló jogszabály szerint minősített tanfolyam sikeres elvégzéséről szóló igazolással vagy támogatási szükségletfelmérő szakmentor képzettséggel rendelkezik.
+## Az óvodai és iskolai szociális segítő képzés[^32]
 
-(2) A vizsgára az 1/A. számú melléklet szerinti adatlapnak a Főigazgatósághoz történő megküldésével kell jelentkezni. A jelentkezéshez mellékelni kell a személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló jogszabály szerint minősített tanfolyam sikeres elvégzéséről szóló igazolást vagy a támogatási szükségletfelmérő szakmentor bizonyítványt.
+17/A. §[^33] (1) Az óvodai és iskolai szociális segítő képzés felkészíti a képzésen részt vevő személyt a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 25. és 26. §-ában foglalt óvodai és iskolai szociális segítéshez kapcsolódó szakmai feladatok elvégzésére.
 
-(3) A képzésen való részvétel nélkül történő vizsgára a 8. § (1) és (3) bekezdését, a 9. § (1) és (2) bekezdését, valamint (3) bekezdés b) és c) pontját, a 10. §-t és a 3. számú mellékletet kell alkalmazni.
+(2) A képzés kötelező óraszáma 90 óra, ebből
 
-[^24]: A 17/A. §-t a 7/2018. (II. 5.) EMMI rendelet 44. §-a iktatta be.
+a) 27 óra elméleti oktatás,
+
+b) 63 óra gyakorlati oktatás.
+
+(3) Felsőfokú szociális szakképzettséggel nem rendelkező személyeknek a (2) bekezdés szerinti óraszámon túl 30 óra kiegészítő képzésben kell részt venniük, amelyből 15 óra elméleti oktatás, 15 óra gyakorlati oktatás.
+
+[^32]: Az „Az óvodai és iskolai szociális segítő képzés” alcím címét a 4/2019. (II. 27.) EMMI rendelet 27. §-a iktatta be.
+[^33]: A 17/A. §-t a 7/2018. (II. 5.) EMMI rendelet 44. §-a iktatta be, szövege a 4/2019. (II. 27.) EMMI rendelet 28. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-5. §[^11] (1)[^12] A képzőhely és a képzésen részt vevő személy képzési szerződést köt. A képzési szerződésnek tartalmaznia kell
+5. §[^15] (1)[^16] A képzőhely és a képzésen részt vevő személy képzési szerződést köt. A képzési szerződésnek tartalmaznia kell
 
 a) a képzőhely megnevezését, címét, képviselőjének nevét,
 
@@ -18,5 +18,5 @@ h) a panaszkezelés módját.
 
 (2) A képzési szerződést a képzőhely köteles 5 évig megőrizni.
 
-[^11]: Az 5. § a 48/2015. (X. 28.) EMMI rendelet 12. §-ával megállapított szöveg.
-[^12]: Az 5. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^15]: Az 5. § a 48/2015. (X. 28.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^16]: Az 5. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 42. §-ával megállapított szöveg.

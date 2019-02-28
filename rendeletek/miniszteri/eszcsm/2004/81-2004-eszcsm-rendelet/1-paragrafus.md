@@ -8,22 +8,20 @@
 
 a) a családsegítés vonatkozásában az adósságkezelési tanácsadó,
 
-b) a támogató szolgálat vonatkozásában:
-
-ba) a támogató szolgálat-vezető,
-
-bb) a személyi segítő,
-
-bc) a személyszállító,
+b)[^1] a támogató szolgálat,
 
 c) a falu- és tanyagondnoki szolgálat vonatkozásában a falu- és tanyagondnoki,
 
-d) a közösségi pszichiátriai ellátás vonatkozásában:
+d)[^2] a közösségi pszichiátriai ellátás,
 
-da) a közösségi koordinátor,
+e)[^3] a komplex támogatási szükségletmérő,
 
-db) a közösségi gondozó,
+f)[^4] az óvodai és iskolai szociális segítő,
 
-e)[^1] a komplex támogatási szükségletmérő
+g)[^5] a szociális diagnózist készítő esetmenedzser
 
-[^1]: Az 1. § e) pontját az 55/2013. (VII. 29.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 41. §-a iktatta be.
+[^1]: Az 1. § b) pontja a 4/2019. (II. 27.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § d) pontja a 4/2019. (II. 27.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § e) pontját az 55/2013. (VII. 29.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 41. §-a iktatta be.
+[^4]: Az 1. § f) pontját a 4/2019. (II. 27.) EMMI rendelet 22. § (3) bekezdése iktatta be.
+[^5]: Az 1. § g) pontját a 4/2019. (II. 27.) EMMI rendelet 22. § (3) bekezdése iktatta be.

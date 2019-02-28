@@ -1,3 +1,7 @@
-1. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^28]
+## 19. §[^39] Az egyes szociális és gyermekvédelmi tárgyú miniszteri rendeletek módosításáról szóló 4/2019. (II. 27.) EMMI rendelettel (a továbbiakban: Módr.) megállapított 1. § b) és d) pontját, valamint 12. és 16. §-át a Módr. hatálybalépését[^40] követően indult képzésekre kell alkalmazni. A Módr. hatálybalépésekor folyamatban lévő támogató szolgálattal és közösségi pszichiátriai ellátással kapcsolatos képzéseket eredményesen elvégző személyek számára a tanúsítványt a „támogató szolgálat képzés” és a „közösségi pszichiátriai ellátás képzés” elvégzéséről kell kiállítani.
 
-[^28]: Az 1. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 46. § (3) bekezdésével megállapított szöveg.
+1. számú melléklet a 81/2004. (IX. 18.) ESZCSM rendelethez[^41]
+
+[^39]: A 19. §-t a 4/2019. (II. 27.) EMMI rendelet 30. §-a iktatta be.
+[^40]: A hatálybalépés időpontja 2019. február 28.
+[^41]: Az 1. számú mellékletet a 4/2019. (II. 27.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
