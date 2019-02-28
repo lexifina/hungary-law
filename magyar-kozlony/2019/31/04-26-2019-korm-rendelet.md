@@ -1,0 +1,203 @@
+# A Kormány 26/2019. (II. 28.) Korm. rendelete
+
+Magyar Közlöny 2019. évi 31. szám, 2019. február 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/PvGzgYjYD7CCYGWcV9im5c70275b818e9/dokumentumok/5f2b976be49291f6a688e247e7512b9687c9c45f/letoltes)
+
+---
+
+A Kormány 26/2019. (II. 28.) Korm. rendelete
+a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító
+Zártkörűen Működő Részvénytársaság működésével összefüggő egyes kormányrendeletek módosításáról
+A Kormány
+a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi
+XLII. törvény 26. § (1) bekezdés c) pontjában,
+a 2. alcím tekintetében a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról
+szóló 1994. évi XLII. törvény 26. § (1) bekezdés b) pontjában,
+a 3. alcím tekintetében a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról
+szóló 1994. évi XLII. törvény 26. § (1) bekezdés d) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló
+85/1998. (V. 6.) Korm. rendelet módosítása
+1. § (1) A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.)
+Korm. rendelet (a továbbiakban: R1.) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Áruexport e rendelet szerint akkor finanszírozható, ha a külkereskedelmi szerződés alapján teljesített ügylet
+keretében kiszállításra kerülő áruk legalább fele magyar származásúnak minősül, amely feltétel teljesülését
+az Eximbank a belső szabályzatában foglaltak szerint ellenőrzi. A külkereskedelmi tevékenységet folytató
+gazdálkodó szervezet az áruk származásának igazolására az Eximbankhoz, refinanszírozás esetén a finanszírozó
+pénzügyi intézményhez származási bizonyítványt nyújt be, amelyet az annak kiadására felhatalmazott kamarai
+szervtől szerez be. Az áruk magyar származásának megállapítására és tanúsítására a származási bizonyítvány
+kiadására felhatalmazott kamarai szerv által alkalmazott, a felhatalmazott kamarai szerv honlapján elérhető
+származási szabályokat és a származási bizonyítvány kibocsátására vonatkozó kamarai eljárásrendben foglaltakat
+kell alkalmazni.”
+(2) Az R1. 6. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Ha a külkereskedelmi tevékenységet folytató gazdálkodó szervezet a külkereskedelmi szerződés alapján
+ugyanazon vevő részére azonos árumegnevezésű, vámtarifa számú és származási helyű áruk tekintetében, több
+alkalommal teljesít áruexportot, az áruk magyar származásának igazolásához elegendő az első áruexport teljesítését
+követően az illetékes Kamara által kiállított és külön záradékkal ellátott származási bizonyítványt beszerezni és
+azt az Eximbank, refinanszírozás esetén a finanszírozó pénzügyi intézmény részére megküldeni. A záradékkal
+ellátott bizonyítvány az abban szereplő – az árumegnevezés, a vámtarifa szám és a származási hely tekintetében
+azonos – áru vonatkozásában ugyanazon vevő részére teljesített további áruexport tekintetében is megfelelően
+igazolja annak magyar származását. Amennyiben a záradékkal ellátott származási bizonyítványon szereplő áru
+megnevezésében, vámtarifa számában vagy származási helyében, illetve a vevő személyében változás következik
+be, a külkereskedelmi tevékenységet folytató gazdálkodó szervezet a változást követő első exportjára vonatkozóan
+az illetékes kamarai szervtől új származási bizonyítványt szerez be, és azt az Eximbankhoz, refinanszírozás esetén
+a finanszírozó pénzügyi intézményhez nyújtja be.”
+(3) Az R1. 6. § (11) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(E § vonatkozásában külkereskedelmi szerződésnek minősül)
+„b) ha a teljesítés helye szerinti ország irányadó jogszabályai értelmében a belföldi gazdálkodó szervezet az adott
+országban nem jogosult a teljesítésre, úgy az adott ország joga szerint alapított gazdasági társaság, vagy”
+(által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.)
+
+2. §
+Az R1. 10. §-a helyébe a következő rendelkezés lép:
+„10. § A kamatkiegyenlítés alapjául szolgáló bázisköltséget az Eximbank javaslatára a CIRR Bizottság negyedévente
+határozza meg a megelőző negyedév utolsó hónapjának 25. napjáig. A CIRR Bizottság által megállapított banküzemi
+költség nem haladhatja meg a jóváhagyott üzleti tervben szereplő mértéket. Minden hitel-, pénzkölcsön- és
+követelésvásárlási szerződés kamatkiegyenlítésénél az adott negyedévben érvényes bázisköltség mértékét kell
+alkalmazni, kivéve, ha az adott hitel-, pénzkölcsön- és követelésvásárlási szerződés kamatkiegyenlítésére a Kormány
+egyedi döntése szerinti esetben az Eximbank javaslatára a CIRR Bizottság egyedi bázisköltséget határoz meg.”
+3. §
+Az R1.
+a) 6. § (2), (7) és (7a) bekezdésében az „az egészségbiztosítási feladatkörében eljáró fővárosi és megyei
+kormányhivatal által kiállított dokumentumokkal alátámasztottan igazolja” szövegrész helyébe
+az„a biztosítotti jogviszony nyilvántartásért felelős szerv által kiállított igazolással támasztja alá”szöveg,
+b) 6. § (3) bekezdésében a„származási igazolást”szövegrész helyébe a„magyar hányad igazolást”szöveg
+lép.
+2. A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére,
+a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről
+szóló 312/2001. (XII. 28.) Korm. rendelet módosítása
+4. § (1) A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető
+kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.)
+Korm. rendelet (a továbbiakban: R2.) 2. § (1) bekezdés y) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„y) külföldi székhelyű hitelbiztosító: minden olyan nemzetközi szervezet, amely vagy a Berni Unió tagja, vagy
+legalább befektetési kategóriájú külső hitelminősítéssel rendelkező biztosító, vagy viszontbiztosító, vagy
+exporthitel-ügynökség, amely a rá irányadó jog szabályai szerint jogosult biztosítási vagy viszontbiztosítási vagy
+exporthitel-ügynökségi tevékenységet végezni;”
+(2) Az R2. 2. § (1) bekezdése a következő z) és zs) ponttal egészül ki:
+(E rendelet alkalmazásában)
+„z) export szerződéses értéke: a vevő által vagy nevében az exportált árukért és szolgáltatásokért fizetendő, helyi
+költséget nem tartalmazó összeg;
+zs) helyi költség: a vevő országában felmerülő, azon árukért és szolgáltatásokért fizetendő, az exportőr
+képviselőjének a vevő országában fizetendő jutalékát nem tartalmazó kiadás, amely az exportőr szerződésének
+teljesítéséhez vagy az exportőr szerződését magában foglaló projekt megvalósításához szükséges.”
+5. § (1) Az R2. 7. § (1)–(5) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Áruexport esetén
+a) az OECD Megállapodás hatálya alá tartozó közép- és hosszú lejáratú ügyletek keretében a Mehib Rt.
+kockázatviselésének feltétele, hogy a kockázatvállalása akkor terjedhet ki legfeljebb az OECD Megállapodásban
+foglalt mértékig (ideértve az idegen tartalmat és a helyi költséget), ha a külkereskedelmi szerződésben az export
+szerződéses értékének legalább fele – a (7) bekezdésben foglaltak teljesülése esetén legalább 25%-a – magyar
+származásúnak minősül, amit a Mehib Rt. a belső szabályzataiban előírt módon ellenőriz;
+b) rövidlejáratú ügyletek tekintetében a Mehib Rt. kockázatvállalása az idegen tartalomra akkor terjedhet
+ki, ha a külkereskedelmi szerződés keretében kiszállított áruk legalább fele – a (7) bekezdésben foglaltak
+teljesülése esetén legalább 25%-a – magyar származásúnak minősül, amely feltétel teljesülését a Mehib Rt. belső
+szabályzatában foglaltak szerint ellenőriz.
+(2) Az (1) bekezdés a) és b) pontjaiban foglalt esetekben a részteljesítést elfogadottnak kell tekinteni, ha
+az áruexport részteljesítéskori tényleges magyar hányad mértéke megfelel a biztosítási kötvényben előre
+meghatározott teljesítési ütemterv szerinti magyar hányadnak. Amennyiben a biztosítási kötvény nem
+tartalmazza az áruexport teljesítési ütemtervét, és a külkereskedelmi szerződés keretében megvalósuló áruexport
+az e bekezdésben előírt magyar hányadot nem éri el, a Mehib Rt. kockázatvállalása – a (7) bekezdésben foglalt
+kivétellel – csak a tényleges magyar hányadra terjedhet ki.
+(3) A külkereskedelmi tevékenységet folytató gazdálkodó szervezet az áruk származásának az igazolására a Mehib
+Rt. részére a biztosítási szerződésben előírt módon származási bizonyítványt nyújt be, amelyet az annak kiadására
+
+felhatalmazott kamarai szervtől szerez be. Az áruk magyar származásának megállapítására és tanúsítására
+a származási bizonyítvány kiadására felhatalmazott kamarai szerv által alkalmazott, a felhatalmazott kamarai
+szerv honlapján elérhető származási szabályokat és a származási bizonyítvány kibocsátására vonatkozó kamarai
+eljárásrendben foglaltakat kell alkalmazni.
+(4) Ha a külkereskedelmi tevékenységet folytató gazdálkodó szervezet a külkereskedelmi szerződés alapján
+ugyanazon vevő részére azonos árumegnevezésű, vámtarifa számú és származási helyű áruk tekintetében több
+alkalommal teljesít áruexportot, az áruk magyar származásának igazolásához elegendő az első áruexport teljesítését
+követően az illetékes kamara által kiállított és külön záradékkal ellátott származási bizonyítványt beszerezni
+és a Mehib Rt. részére megküldeni. A záradékkal ellátott bizonyítvány az abban szereplő – az árumegnevezés,
+a vámtarifa szám és a származási hely tekintetében azonos – áru vonatkozásában ugyanazon vevő részére teljesített
+további áruexport tekintetében is megfelelően igazolja annak magyar származását.
+(5) Amennyiben a záradékkal ellátott származási bizonyítványon szereplő áru megnevezésében, vámtarifa
+számában vagy származási helyében, illetve a vevő személyében változás következik be, a biztosított a változást
+követő első exportjára vonatkozóan az illetékes kamarai szervtől új származási bizonyítványt szerez be, és azt
+a Mehib Rt. részére megküldi.”
+(2) Az R2. 7. § (11) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[Az (1)–(8) bekezdésben foglaltak alkalmazása során külkereskedelmi szerződésnek minősül]
+„b) ha a teljesítés helye szerinti ország irányadó jogszabályai értelmében a belföldi gazdálkodó szervezet az adott
+országban nem jogosult a teljesítésre, úgy az adott ország joga szerint alapított gazdasági társaság, vagy”
+(által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.)
+(3) Az R2. 13. §-a és az azt megelőző alcím címe helyébe a következő rendelkezés lép:
+„Díjvisszatérítési tartalék
+13. § (1) A Mehib Rt. a forgalmi típusú módozatok keretében végzett biztosítási tevékenységéhez kapcsolódóan
+díjvisszatérítési tartalékot képezhet. A díjvisszatérítési tartalék a biztosítási szerződés szerint a biztosítottnak adható,
+feltételekhez kötött díjvisszatérítés fedezetére szolgál.
+(2) A díjvisszatérítési tartalékot a tárgyév mérleg fordulónapjával az érvényben levő szerződések alapján kell
+megképezni. Ha valamely szerződésnél a mérlegforduló napján rendelkezésre álló információk alapján a biztosítási
+időszak végén a díjvisszatérítés feltételei várhatóan fennállnak, akkor tartalékként a kötvény időszak megszolgált
+díjából a várható díjvisszatérítési aránynak megfelelő részt kell megképezni.
+(3) A tárgyévben képzett díjvisszatérítési tartalékot a díjvisszatérítés megtörténtekor fel kell használni, a tartalék
+fennmaradó részét pedig legkésőbb a tárgyévet követő év mérleg fordulónapján a szükséges szintre kell
+módosítani.
+(4) A díjvisszatérítési tartalék tárgyévi meghatározásának számítási módját és tárgyévi alakulását az éves beszámoló
+kiegészítő mellékletében kell összesítve bemutatni.
+(5) A Mehib Rt. díjvisszatérítési tartalék számítási módját és a felhasznált adatokat egyértelműen dokumentálja.
+A tartalék képzési szabályait a biztosító által készített tartalékolási szabályzat tartalmazza.”
+6. §
+Az R2.
+a) 7. § (2) bekezdésében az „az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatal
+által kiállított dokumentumokkal alátámasztottan igazolja” szövegrész helyébe az „a biztosítotti jogviszony
+nyilvántartásért felelős szerv által kiállított igazolással támasztja alá”szöveg,
+b) 7. § (3) bekezdésében a„származási igazolást”szövegrész helyébe a„magyar hányad igazolást”szöveg
+lép.
+3. A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák,
+valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes
+szabályairól szóló 435/2012. (XII. 29.) Korm. rendelet módosítása
+7. § (1) A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza-
+és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 435/2012. (XII. 29.)
+Korm. rendelet (a továbbiakban: R3.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az exporthitel garancia alapját képező export ügylet érték alapján a belföldi gazdálkodó szervezet által
+teljesített exportügylet keretében kiszállított áruk legalább felének magyar származásúnak kell minősülnie, amely
+feltétel teljesülését az Eximbank a belső szabályzatában foglaltak szerint ellenőrzi. A külkereskedelmi tevékenységet
+
+folytató gazdálkodó szervezet az áruk származásának az igazolására az Eximbankhoz, refinanszírozás esetén
+a finanszírozó pénzügyi intézményhez származási bizonyítványt nyújt be, amelyet az annak kiadására felhatalmazott
+kamarai szervtől szerez be. Az áruk magyar származásának megállapítására és tanúsítására a származási
+bizonyítvány kiadására felhatalmazott kamarai szerv által alkalmazott, a felhatalmazott kamarai szerv honlapján
+elérhető származási szabályokat és a származási bizonyítvány kibocsátására vonatkozó kamarai eljárásrendben
+foglaltakat kell alkalmazni.”
+(2) Az R3. 4. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Ha a külkereskedelmi tevékenységet folytató gazdálkodó szervezet a külkereskedelmi szerződés alapján
+ugyanazon vevő részére azonos árumegnevezésű, vámtarifa számú és származási helyű áruk tekintetében,
+több alkalommal teljesít áruexportot, az áruk magyar származásának igazolásához elegendő az első áruexport
+teljesítését követően az illetékes kamara által kiállított és külön záradékkal ellátott származási bizonyítványt
+beszerezni és azt az Eximbank, refinanszírozás esetén a finanszírozó pénzügyi intézmény részére megküldeni.
+A záradékkal ellátott bizonyítvány az abban szereplő – az árumegnevezés, a vámtarifa szám és a származási hely
+tekintetében azonos – áru vonatkozásában ugyanazon vevő részére teljesített további áruexport tekintetében is
+megfelelően igazolja annak magyar származását. Amennyiben a záradékkal ellátott származási bizonyítványon
+szereplő áru megnevezésében, vámtarifa számában vagy származási helyében, illetve a vevő személyében
+változás következik be, úgy a külkereskedelmi tevékenységet folytató gazdálkodó szervezet a változást követő első
+exportjára vonatkozóan az illetékes kamarai szervtől új származási bizonyítványt szerez be, és azt az Eximbankhoz,
+refinanszírozás esetén a finanszírozó pénzügyi intézményhez nyújtja be.”
+(3) Az R3. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Szolgáltatásexporthoz e rendelet alapján akkor nyújtható garancia, ha a szolgáltatást nyújtó belföldi gazdálkodó
+szervezet vagy annak az exportált szolgáltatás nyújtásában részt vevő, belföldi gazdálkodó szervezetnek minősülő
+alvállalkozója által foglalkoztatottak több mint fele olyan személy, aki a társadalombiztosítás ellátásaira és
+a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, illetve a kisadózó vállalkozások
+tételes adójáról és a kisvállalati adóról szóló törvény szabályai szerint vele biztosítási kötelezettséggel járó
+jogviszonyban áll. A szolgáltatást nyújtó az e bekezdésben foglalt feltételeknek való megfelelést a biztosítotti
+jogviszony nyilvántartásért felelős szerv által kiállított igazolással támasztja alá. A feltételek megvalósulását
+az Eximbank a belső szabályzatában foglalt eljárásnak megfelelően ellenőrzi.”
+8. §
+Az R3. 11. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(Az Eximbank akkor vállalhat kereskedelmi garanciát, ha)
+„c) egy ügylettel kapcsolatosan az Eximbank által vállalt kereskedelmi garanciák együttes mértéke nem haladja meg
+a kereskedelmi ügylet szerződéses értékének 80%-át, továbbá”
+9. §
+Az R3.
+a) 4. § (3) bekezdésében a„származási igazolást”szövegrész helyébe a„magyar hányad igazolást”szöveg,
+b) 4. § (6) bekezdésében az „az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatal
+által kiállított dokumentumokkal alátámasztottan igazolja” szövegrész helyébe az „a biztosítotti jogviszony
+nyilvántartásért felelős szerv által kiállított igazolással támasztja alá”szöveg
+lép.
+4. Záró rendelkezés
+10. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
