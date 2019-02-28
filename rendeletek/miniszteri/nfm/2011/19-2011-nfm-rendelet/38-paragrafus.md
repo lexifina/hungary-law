@@ -1,6 +1,6 @@
 ## 33. Az Európai Unió jogának való megfelelés
 
-38. §[^182] (1)[^183] Ez a rendelet
+38. §[^185] (1)[^186] Ez a rendelet
 
 a) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúrakapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról szóló, 2004. április 29-i 2004/49/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -18,5 +18,5 @@ a) a 2007/59/EK európai parlamenti és tanácsi irányelvvel összhangban a moz
 
 b) az Európai Unió vasúti rendszerének forgalmi szolgálat és forgalomirányítás alrendszerére vonatkozó átjárhatósági műszaki előírásokról és a 2007/756/EK határozat módosításáról szóló, 2012. november 14-i 2012/757/EU bizottsági határozat I. melléklet 4.6. pontjának, valamint J és L függelékének
 
-[^182]: A 38. § a 22/2015. (V. 6.) NFM rendelet 37. §-ával megállapított szöveg.
-[^183]: A 38. § (1) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 30. §-ával megállapított szöveg.
+[^185]: A 38. § a 22/2015. (V. 6.) NFM rendelet 37. §-ával megállapított szöveg.
+[^186]: A 38. § (1) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 30. §-ával megállapított szöveg.
