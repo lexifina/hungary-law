@@ -126,10 +126,6 @@ A Sopron-Fertő kiemelt turisztikai fejlesztési térségben európai uniós és
 
 | 18. | Előkészítés költségei | 0,3 | hazai forrás |
 
-| 19. | A Fertő tó turisztikai attraktivitásának fejlesztése (A Fertő tavi vízitelep fejlesztése a Modern Városok program keretében) | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Fertő tó) | 7,93 | hazai forrás |
+| 19. | A Fertő tó turisztikai attraktivitásának fejlesztése (A Fertő tavi vízitelep fejlesztése) | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Fertő tó) – Fertő tó alapinfrastruktúrájának fejlesztése, vízminőség javítása, valamint vendégfogadás és szállásadás infrastruktúrájának megteremtése | 23,26 | hazai forrás |
 
-| 20. | A Fertő tó alapinfrastruktúrájának fejlesztése, vízminőség javítása | 5,28 | hazai forrás |
-
-| 21. | Vendégfogadás és szállásadás infrastruktúrájának megteremtése a Fertő tónál | 10,05 | hazai forrás |
-
-[^1]: Az 1. melléklet az 1527/2017. (VIII. 14.) Korm. határozat 3. pontja, az 1062/2018. (II. 26.) Korm. határozat 2. pontja és 6. pontja, az 1503/2018. (X. 12.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1527/2017. (VIII. 14.) Korm. határozat 3. pontja, az 1062/2018. (II. 26.) Korm. határozat 2. pontja és 6. pontja, az 1503/2018. (X. 12.) Korm. határozat 7. pontja, az 1075/2019. (II. 28.) Korm. határozat 2–3. pontja szerint módosított szöveg.
