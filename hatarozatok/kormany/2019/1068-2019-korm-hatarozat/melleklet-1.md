@@ -22,11 +22,7 @@
 
 ## Határidő: 2019. július 31.
 
-## 5. visszavonja
-
-## a) az ukrajnai Beregszászi Járásban működő II. Rákóczi Ferenc Kárpátaljai Magyar Főiskolán tervezett tanuszoda- és tornaterem-fejlesztés megvalósításához szükséges intézkedésekről szóló 1690/2016. (XI. 29.) Korm. határozat 2–4. pontját,
-
-## b) az ukrajnai Beregszászi járásban működő II. Rákóczi Ferenc Kárpátaljai Magyar Főiskolán tervezett tanuszoda- és tornaterem-fejlesztés megvalósításához szükséges forrás biztosításáról szóló 1783/2017. (XI. 7.) Korm. határozatot.
+## 5.[^1]
 
 1. melléklet az 1068/2019. (II. 27.) Korm. határozathoz
 
@@ -119,3 +115,5 @@
 | Magyar Államkincstár |  | 1 példány |  | egyéb: |  | azonnal |  | 405 000 000 |  |  |  |  |  |  |  |  | 405 000 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
