@@ -1,1 +1,0 @@
-## 1. § Az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: R1.) 1. mellékletében foglalt táblázat A:4a mezőjében az „a bejelentéstől számított 16. napon megkezdi” szövegrész helyébe az „a bejelentéstől számított 15 nap elteltével megkezdi” szöveg lép.
