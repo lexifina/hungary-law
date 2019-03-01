@@ -1,3 +1,0 @@
-## 1. § A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet (a továbbiakban: Nmr.) 6. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A családsegítés és gyermekjóléti szolgáltatás a feladatait tájékoztatás nyújtásával, szociális segítőmunkával, ezen belül a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 2. § l) pont lb) alpontja szerinti esetkezeléssel, valamint más személy, illetve szervezet által nyújtott szolgáltatások, ellátások közvetítésével látja el.”
