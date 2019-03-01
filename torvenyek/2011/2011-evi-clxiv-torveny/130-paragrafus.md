@@ -44,7 +44,7 @@ c) a tisztviselő, írnok, fizikai alkalmazott ügyészségi szolgálati viszony
 
 d) a tisztviselő, az írnok és a fizikai alkalmazott lemondási ideje két hónap;
 
-e) ha a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, állami szolgálati jogviszonyt vagy a Kttv. 1. és 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
+e) ha a tisztviselő, az írnok és a fizikai alkalmazott ügyészségi szolgálati viszonya megszüntetésekor végkielégítésben részesült, az ügyészségi szolgálati viszony megszűnésétől számított tíz hónapon belül újabb ügyészségi szolgálati viszonyt, igazságügyi alkalmazotti szolgálati viszonyt, hivatásos szolgálati jogviszonyt, a Kttv. 1. és 2. §-ában, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 2. §-ában megjelölt szervvel fennálló szolgálati viszonyt vagy munkaviszonyt abban az esetben létesíthet, ha
 
 ea) ezt a tényt korábbi munkáltatójának haladéktalanul írásban bejelenti, és
 
