@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2019-01-01 | 2018. évi CXXI. törvény | 1994-34-00-00.86 |
 | 2019-01-20 | 2018. évi CXXI. törvény | 1994-34-00-00.87 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1994-34-00-00.88 |
+| 2019-03-01 | 2018. évi CXXV. törvény | 1994-34-00-00.89 |
