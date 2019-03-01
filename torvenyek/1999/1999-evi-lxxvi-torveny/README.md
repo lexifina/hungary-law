@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-76-00-00
 | 2018-10-10 | 2018. évi LVI. törvény | 1999-76-00-00.34 |
 | 2019-01-01 | 2018. évi CXXXIV. törvény | 1999-76-00-00.35 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1999-76-00-00.36 |
+| 2019-03-01 | 2018. évi CXXV. törvény | 1999-76-00-00.37 |
