@@ -14,9 +14,9 @@
 
 ## Határidő: 2019. március 31.
 
-## 2. A Sopron-Fertő kiemelt turisztikai fejlesztési térség meghatározásáról és a térségben megvalósítandó egyes fejlesztések megvalósításához szükséges források biztosításáról szóló 1862/2016. (XII. 27.) Korm. határozat [a továbbiakban: 1862/2016. (XII. 27.) Korm. határozat] 1. melléklete az 1. melléklet szerint módosul.
+## 2.[^1]
 
-## 3. A Kormány visszavonja az 1862/2016. (XII. 27.) Korm. határozat 1. mellékletében foglalt táblázat 20. és 21. sorát.
+## 3.[^2]
 
 1. melléklet az 1075/2019. (II. 28.) Korm. határozathoz
 
@@ -31,3 +31,6 @@ Az 1862/2016. (XII. 27.) Korm. határozat 1. mellékletében foglalt táblázat 
 | 19. | A Fertő tó turisztikai attraktivitásának fejlesztése (A Fertő tavi vízitelep fejlesztése) | Turisztikailag frekventált térségek integrált termék- és szolgáltatásfejlesztése (Fertő tó) – Fertő tó alapinfrastruktúrájának fejlesztése, vízminőség javítása, valamint vendégfogadás és szállásadás infrastruktúrájának megteremtése | 23,26 | hazai forrás |
 
 „
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
