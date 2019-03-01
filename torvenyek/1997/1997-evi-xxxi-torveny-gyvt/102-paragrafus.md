@@ -1,12 +1,12 @@
 ## A hivatásos gondnok
 
-102. § (1) A hivatásos gondnok a Kormány által kijelölt szervvel állami szolgálati jogviszonyban, kormányzati szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, kivéve, ha hivatásos gondnokul a Ptk. 2:31. § (5) bekezdése alapján mentális zavarban szenvedő személyekkel foglalkozó jogi személyt rendel ki a gyámhatóság.
+102. § (1) A hivatásos gondnok a Kormány által kijelölt szervvel kormányzati szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll, kivéve, ha hivatásos gondnokul a Ptk. 2:31. § (5) bekezdése alapján mentális zavarban szenvedő személyekkel foglalkozó jogi személyt rendel ki a gyámhatóság.
 
 (1a) A hivatásos gondnok egyidejűleg 30 gondnokolt érdekében járhat el, kivéve ha
 
 a) az adott gondnokoltak igényeinek figyelembevétele alapján a gondnoki feladatok ellátását legfeljebb 35 gondnokolt egyidejű ellátása nem veszélyezteti, vagy
 
-b) a hivatásos gondnoki feladatokat állami szolgálati jogviszonyban vagy kormányzati szolgálati jogviszonyban álló személy látja el.
+b) a hivatásos gondnoki feladatokat kormányzati szolgálati jogviszonyban álló személy látja el.
 
 (1b) Az (1a) bekezdés b) pontjában meghatározott személy egyidejűleg legfeljebb 45 gondnokolt érdekében járhat el.
 

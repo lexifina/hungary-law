@@ -18,4 +18,4 @@ c) az örökbefogadás engedélyezése és felbontása iránti eljárásban val�
 
 (3) A szolgáltatás körében olyan tevékenység nem végezhető, amely sérti a gyermeki jogokat, illetve a gyermekvédelem jogszabályban meghatározott céljaival összeegyeztethetetlen.
 
-(4) A közhasznú szervezet szolgáltatásában nem vehet részt gyermekjóléti alapellátást nyújtó személy, gyermekjóléti alapellátást vagy gyermekvédelmi szakellátást nyújtó intézménynél foglalkoztatott személy, gyámhatóságnál közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyban foglalkoztatott személy.
+(4) A közhasznú szervezet szolgáltatásában nem vehet részt gyermekjóléti alapellátást nyújtó személy, gyermekjóléti alapellátást vagy gyermekvédelmi szakellátást nyújtó intézménynél foglalkoztatott személy, gyámhatóságnál kormányzati szolgálati jogviszonyban foglalkoztatott személy.
