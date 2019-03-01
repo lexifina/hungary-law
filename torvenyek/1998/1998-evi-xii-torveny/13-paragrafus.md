@@ -1,6 +1,6 @@
 13. § (1) Külügyi szolgálati útlevélre jogosult
 
-a) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai ranggal nem rendelkező közszolgálati tisztviselője;
+a) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai ranggal nem rendelkező kormánytisztviselője;
 
 b) Magyarország diplomáciai képviseletének igazgatási és műszaki személyzete, illetve kisegítő személyzetének tagja, kivéve a külképviseletekről és a tartós külszolgálatról szóló törvény szerint a külképviselet által foglalkoztatott munkavállaló;
 
