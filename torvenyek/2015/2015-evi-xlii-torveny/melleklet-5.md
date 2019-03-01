@@ -62,7 +62,7 @@
 
 ## 3. a tartalékállományba helyezés időtartama
 
-## 4. a közszolgálati tisztviselőkről szóló törvény szerinti kompetenciavizsgálat adatai
+## 4. a közszolgálati tisztviselőkről szóló törvény vagy a kormányzati igazgatásról szóló törvény szerinti kompetenciavizsgálat adatai
 
 ## V.
 

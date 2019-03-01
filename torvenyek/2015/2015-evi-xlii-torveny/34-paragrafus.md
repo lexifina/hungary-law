@@ -1,6 +1,6 @@
 ## 26. Szolgálati viszony létesítése áthelyezéssel
 
-34. § (1) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból vagy a Magyar Honvédség hivatásos katonai állományából áthelyezéssel történik, próbaidő kikötésére nem kerül sor.
+34. § (1) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból vagy a Magyar Honvédség hivatásos katonai állományából áthelyezéssel történik, próbaidő kikötésére nem kerül sor.
 
 (2) Ha a szolgálati viszony közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti jogviszonyból áthelyezéssel létesül, a próbaidő kikötése kötelező, azzal, hogy próbaidő legfeljebb hat hónap időtartamra köthető ki. Mellőzhető a próbaidő kikötése, ha az áthelyezett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
 

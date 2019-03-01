@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2018-12-07 | 2018. évi XCV. törvény | 2015-42-00-00.15 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 2015-42-00-00.16 |
 | 2019-02-01 | 2018. évi CXV. törvény | 2015-42-00-00.17 |
+| 2019-03-01 | 2018. évi CXXV. törvény | 2015-42-00-00.18 |
