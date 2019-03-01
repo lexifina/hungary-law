@@ -1,0 +1,1 @@
+## „j) a miniszter által vezetett minisztérium (a továbbiakban: HM) állománya és a miniszter közvetlen alárendeltségébe tartozó szervezet vezetője tekintetében a HM közigazgatási államtitkára (a továbbiakban: HM KÁT).”
