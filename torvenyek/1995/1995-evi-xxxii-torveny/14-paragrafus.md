@@ -1,6 +1,6 @@
 14. § (1) A szabadalmi ügyvivői tevékenység gyakorlásával összeférhetetlen
 
-a) az e törvényben meghatározott kivétellel a munkaviszony, a kormányzati szolgálati, a közszolgálati, az állami szolgálati, a közalkalmazotti, a rendvédelmi feladatokat ellátó szerveknél fennálló hivatásos szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, a honvédelmi alkalmazotti jogviszonyban, a hivatásos vagy szerződéses katonai szolgálati jogviszony, továbbá a közjegyzői, bírósági végrehajtói jogállás,
+a) az e törvényben meghatározott kivétellel a munkaviszony, a kormányzati szolgálati, a közszolgálati, a közalkalmazotti, a rendvédelmi feladatokat ellátó szerveknél fennálló hivatásos szolgálati, rendvédelmi igazgatási szolgálati jogviszonyban, a honvédelmi alkalmazotti jogviszonyban, a hivatásos vagy szerződéses katonai szolgálati jogviszony, továbbá a közjegyzői, bírósági végrehajtói jogállás,
 
 b) a szabadalmi ügyvivői társaságon kívül más gazdasági társaságban a korlátlan felelősséggel járó tagsági jogviszony,
 
