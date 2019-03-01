@@ -4,13 +4,13 @@
 
 ## 6. A KSH jogállása
 
-7. § (1) A KSH kormányhivatalként működő központi költségvetési szerv, amely szakmailag független.
+7. § (1) A KSH kormányzati főhivatalként működő központi költségvetési szerv, amely szakmailag független.
 
 (2) A KSH székhelye Budapest.
 
 (3) A jogszabályok és a közjogi szervezetszabályozó eszközök nem sérthetik a KSH szakmai függetlenségét.
 
-(4) A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 67. § (4) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
+(4) A kormányzati igazgatásról szóló CXXV. törvény 262. § (2) bekezdésében foglaltakat a KSH vonatkozásában nem kell alkalmazni.
 
 (5) A KSH elnöke törvényben meghatározott feladatkörében nem utasítható.
 
