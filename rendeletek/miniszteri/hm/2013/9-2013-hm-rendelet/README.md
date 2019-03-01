@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-9-20-15
 | 2018-02-09 | 2013-9-20-15.21 | 4/2015. (VI. 22.) HM rendelet |
 | 2018-07-28 | 2013-9-20-15.22 | 12/2018. (VII. 27.) HM rendelet |
 | 2019-01-01 | 2013-9-20-15.23 | 20/2018. (XII. 28.) HM rendelet |
+| 2019-03-01 | 2013-9-20-15.24 | 4/2019. (II. 28.) HM rendelet |

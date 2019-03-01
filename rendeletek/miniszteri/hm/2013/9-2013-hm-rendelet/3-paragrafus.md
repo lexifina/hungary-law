@@ -2,7 +2,7 @@
 
 (2)[^25] Állományilletékes parancsnoki jogkört gyakorol
 
-a) a miniszter közvetlen alárendeltségébe tartozó szervezet állománya tekintetében – a Tábori Lelkészi Szolgálat kivételével – a szervezet vezetője,
+a)[^26] a miniszter közvetlen alárendeltségébe tartozó szervezet állománya tekintetében a szervezet vezetője,
 
 b) a honvédségi szervezet más helyőrségben települő, oda kikülönített szervezeti elemének állománya tekintetében a szervezeti elem vezetője, ha azt a honvédségi szervezet alapító okirata rögzíti,
 
@@ -20,13 +20,13 @@ h) az állomány Hjt. 46. § (1) bekezdés v) pontja szerinti rendelkezési áll
 
 i) az állományilletékes parancsnok tekintetében az elöljáró parancsnok, és
 
-j) a miniszter által vezetett minisztérium (a továbbiakban: HM) állománya, a Tábori Lelkészi Szolgálat állománya és a miniszter közvetlen alárendeltségébe tartozó szervezet vezetője tekintetében a HM közigazgatási államtitkára (a továbbiakban: HM KÁT).
+j)[^27] a miniszter által vezetett minisztérium (a továbbiakban: HM) állománya és a miniszter közvetlen alárendeltségébe tartozó szervezet vezetője tekintetében a HM közigazgatási államtitkára (a továbbiakban: HM KÁT).
 
-(2a)[^26] A Hvt. 36. § (1) bekezdés h) pontja szerinti feladatban a Hjt. 42. § (2) bekezdés a) pontja szerinti vezényléssel részt vevő állomány tekintetében a Hjt. 237/A. § (2) bekezdése szerinti belső rendelkezésben a szolgálatteljesítésére vonatkozó szabályokkal összefüggő egyes állományilletékes parancsnoki jogköröket az MH PK által kijelölt parancsnok gyakorolja.
+(2a)[^28] A Hvt. 36. § (1) bekezdés h) pontja szerinti feladatban a Hjt. 42. § (2) bekezdés a) pontja szerinti vezényléssel részt vevő állomány tekintetében a Hjt. 237/A. § (2) bekezdése szerinti belső rendelkezésben a szolgálatteljesítésére vonatkozó szabályokkal összefüggő egyes állományilletékes parancsnoki jogköröket az MH PK által kijelölt parancsnok gyakorolja.
 
-(3)[^27] A (2) bekezdés d) pontja esetén, továbbá a (2) bekezdés f) pontja esetén az állományilletékes parancsnoki jogkört gyakorló szolgálati elöljárót a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) esetén az MH PK, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetén a miniszter jelöli ki.
+(3)[^29] A (2) bekezdés d) pontja esetén, továbbá a (2) bekezdés f) pontja esetén az állományilletékes parancsnoki jogkört gyakorló szolgálati elöljárót a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) esetén az MH PK, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetén a miniszter jelöli ki.
 
-(3a)[^28] Ha a Hjt. 52/A. § (3) bekezdése szerinti megállapodásban a felek a Hjt. 51. § (6) bekezdésétől, illetve 52. § (1) bekezdésétől eltérően rendelkeznek, az e megállapodás alapján a nem a más szerv vezetője által gyakorolt munkáltatói jogkörök tekintetében – a (2) bekezdés e) pontjától eltérően – az állomány tagja felett
+(3a)[^30] Ha a Hjt. 52/A. § (3) bekezdése szerinti megállapodásban a felek a Hjt. 51. § (6) bekezdésétől, illetve 52. § (1) bekezdésétől eltérően rendelkeznek, az e megállapodás alapján a nem a más szerv vezetője által gyakorolt munkáltatói jogkörök tekintetében – a (2) bekezdés e) pontjától eltérően – az állomány tagja felett
 
 a) a szolgálati viszony létesítése, módosítása, megszüntetése és az illetmény-megállapítás tekintetében a központi személyügyi szerv vezetője,
 
@@ -34,7 +34,7 @@ b) egyéb állományilletékes parancsnoki döntés tekintetében a miniszter á
 
 gyakorolja az állományilletékes parancsnoki jogkört.
 
-(3b)[^29] Ha a Hjt. 52/A. § (4) bekezdése alapján a Hjt. 51. § (1) bekezdése szerinti megállapodásban a felek a Hjt. 51. § (6) és (8) bekezdésétől, illetve 52. § (1) bekezdésétől eltérően rendelkeznek, az e megállapodás alapján a nem a más szerv vezetője által gyakorolt munkáltatói jogkörök tekintetében – a (2) bekezdés e) pontjától eltérően – az állomány tagja felett
+(3b)[^31] Ha a Hjt. 52/A. § (4) bekezdése alapján a Hjt. 51. § (1) bekezdése szerinti megállapodásban a felek a Hjt. 51. § (6) és (8) bekezdésétől, illetve 52. § (1) bekezdésétől eltérően rendelkeznek, az e megállapodás alapján a nem a más szerv vezetője által gyakorolt munkáltatói jogkörök tekintetében – a (2) bekezdés e) pontjától eltérően – az állomány tagja felett
 
 a) a szolgálati viszony létesítése, módosítása, megszüntetése és az illetmény-megállapítás tekintetében a központi személyügyi szerv vezetője,
 
@@ -46,12 +46,14 @@ gyakorolja az állományilletékes parancsnoki jogkört.
 
 (5) Ha miniszteri rendelet eltérően nem rendelkezik, az állományilletékes parancsnok munkáltatói jogköre az általa vezetett honvédelmi szervezet állományára, valamint a közvetlen alárendeltségében lévő honvédségi szervezet vezetőjére terjed ki.
 
-(6)[^30]
+(6)[^32]
 
 [^24]: A 3. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 3. §-ával megállapított szöveg.
 [^25]: A 3. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 3. §-ával megállapított szöveg.
-[^26]: A 3. § (2a) bekezdését a 10/2016. (VI. 29.) HM rendelet 3. § (1) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
-[^27]: A 3. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 7–8. pontja, a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
-[^28]: A 3. § (3a) bekezdését a 15/2016. (VIII. 31.) HM rendelet 1. §-a iktatta be.
-[^29]: A 3. § (3b) bekezdését a 10/2017. (VIII. 31.) HM rendelet 2. §-a iktatta be.
-[^30]: A 3. § (6) bekezdését a 20/2018. (XII. 28.) HM rendelet 72. § 2. pontja hatályon kívül helyezte.
+[^26]: A 3. § (2) bekezdés a) pontja a 4/2019. (II. 28.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^27]: A 3. § (2) bekezdés j) pontja a 4/2019. (II. 28.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^28]: A 3. § (2a) bekezdését a 10/2016. (VI. 29.) HM rendelet 3. § (1) bekezdése iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^29]: A 3. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 7–8. pontja, a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^30]: A 3. § (3a) bekezdését a 15/2016. (VIII. 31.) HM rendelet 1. §-a iktatta be.
+[^31]: A 3. § (3b) bekezdését a 10/2017. (VIII. 31.) HM rendelet 2. §-a iktatta be.
+[^32]: A 3. § (6) bekezdését a 20/2018. (XII. 28.) HM rendelet 72. § 2. pontja hatályon kívül helyezte.

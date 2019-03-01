@@ -1,6 +1,6 @@
 ## 69. Behívás, szolgálathalasztás, átütemezés
 
-244. § (1)[^344] A Hjt. 216. § (1) bekezdése szerinti – a központi katonai igazgatási szerv által kiadott – behívóparancs vagy bevonulási parancs tartalmazza
+244. § (1)[^348] A Hjt. 216. § (1) bekezdése szerinti – a központi katonai igazgatási szerv által kiadott – behívóparancs vagy bevonulási parancs tartalmazza
 
 a) az önkéntes tartalékos katona családi- és utónevét, rendfokozatát, születési helyét és idejét, lakcímét, édesanyja születési nevét,
 
@@ -24,13 +24,13 @@ b) a bevonulási parancsban – a bevonulási parancs közlését követően –
 
 tölti ki.
 
-(3)[^345] A tényleges szolgálatteljesítés a bevonulási időponttól a tényleges szolgálatból történő elbocsátásig tart. Az állományilletékes honvédelmi szervezet az önkéntes tartalékos katona tényleges szolgálatból történő elbocsátását megelőző 2 munkanappal értesíti a központi katonai igazgatási szervet az elbocsátás tervezett időpontjáról.
+(3)[^349] A tényleges szolgálatteljesítés a bevonulási időponttól a tényleges szolgálatból történő elbocsátásig tart. Az állományilletékes honvédelmi szervezet az önkéntes tartalékos katona tényleges szolgálatból történő elbocsátását megelőző 2 munkanappal értesíti a központi katonai igazgatási szervet az elbocsátás tervezett időpontjáról.
 
-(4)[^346] Az önkéntes tartalékos katona tényleges szolgálatból történő elbocsátásakor az állományilletékes honvédelmi szervezet átadja részére a tényleges katonai szolgálat lefolyásáról szóló igazolást.
+(4)[^350] Az önkéntes tartalékos katona tényleges szolgálatból történő elbocsátásakor az állományilletékes honvédelmi szervezet átadja részére a tényleges katonai szolgálat lefolyásáról szóló igazolást.
 
-(5)[^347] A behívóparancs vagy bevonulási parancs elektronikus vagy postai úton kézbesíthető, illetve közölhető.
+(5)[^351] A behívóparancs vagy bevonulási parancs elektronikus vagy postai úton kézbesíthető, illetve közölhető.
 
-[^344]: A 244. § (1) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 71. § 22. pontja szerint módosított szöveg.
-[^345]: A 244. § (3) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
-[^346]: A 244. § (4) bekezdését a 6/2014. (IV. 14.) HM rendelet 7. §-a iktatta be, szövege a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
-[^347]: A 244. § (5) bekezdését a 20/2018. (XII. 28) HM rendelet 60. §-a iktatta be.
+[^348]: A 244. § (1) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 71. § 22. pontja szerint módosított szöveg.
+[^349]: A 244. § (3) bekezdése a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^350]: A 244. § (4) bekezdését a 6/2014. (IV. 14.) HM rendelet 7. §-a iktatta be, szövege a 19/2015. (XII. 22.) HM rendelet 7. § b) pontja szerint módosított szöveg.
+[^351]: A 244. § (5) bekezdését a 20/2018. (XII. 28) HM rendelet 60. §-a iktatta be.

@@ -6,11 +6,11 @@
 
 237. § (1) Az önkéntes tartalékos katonára e rendelet állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
-(2)[^334] Nem alkalmazható a 2. § (1) bekezdése, a 3. § (2) bekezdés c)–g) pontja, az 5–12. §, a 16. §, a 17. §, a 19–33. §, a 35–50. §, az 52–61. §, a 63. §, a 64. §, a 66. §, a 67. §, a 69. §, a 74–120. §, 121–123. §, a 124. § (1) bekezdése,, a 2–10. és a 13. és a 14. melléklet.
+(2)[^338] Nem alkalmazható a 2. § (1) bekezdése, a 3. § (2) bekezdés c)–g) pontja, az 5–12. §, a 16. §, a 17. §, a 19–33. §, a 35–50. §, az 52–61. §, a 63. §, a 64. §, a 66. §, a 67. §, a 69. §, a 74–120. §, 121–123. §, a 124. § (1) bekezdése,, a 2–10. és a 13. és a 14. melléklet.
 
 (3) Az önkéntes tartalékos katonákra az 1. melléklet 10. pontját kell alkalmazni.
 
-(4)[^335] Az önkéntes tartalékos szolgálati viszony típusai a következők:
+(4)[^339] Az önkéntes tartalékos szolgálati viszony típusai a következők:
 
 a) önkéntes műveleti tartalékos szolgálati viszony,
 
@@ -18,8 +18,8 @@ b) önkéntes védelmi tartalékos szolgálati viszony és
 
 c) önkéntes területvédelmi tartalékos szolgálati viszony.
 
-(5)[^336] E fejezet alkalmazásában elektronikus útnak minősül elsősorban a HM Költségvetés Gazdálkodási Információs Rendszer Ügyfélszolgálati Rendszer (a továbbiakban: HM KGIR ÜSZR), másodsorban elektronikus levél használata.
+(5)[^340] E fejezet alkalmazásában elektronikus útnak minősül elsősorban a HM Költségvetés Gazdálkodási Információs Rendszer Ügyfélszolgálati Rendszer (a továbbiakban: HM KGIR ÜSZR), másodsorban elektronikus levél használata.
 
-[^334]: A 237. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 45. § g) pontja, a 12/2018. (VII. 27.) HM rendelet 22. § j) pontja szerint módosított szöveg.
-[^335]: A 237. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 37. §-a iktatta be.
-[^336]: A 237. § (5) bekezdését a 20/2018. (XII. 28) HM rendelet 59. §-a iktatta be.
+[^338]: A 237. § (2) bekezdése a 25/2016. (XII. 22.) HM rendelet 45. § g) pontja, a 12/2018. (VII. 27.) HM rendelet 22. § j) pontja szerint módosított szöveg.
+[^339]: A 237. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 37. §-a iktatta be.
+[^340]: A 237. § (5) bekezdését a 20/2018. (XII. 28) HM rendelet 59. §-a iktatta be.
