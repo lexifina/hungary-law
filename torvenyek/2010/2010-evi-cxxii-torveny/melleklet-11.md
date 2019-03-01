@@ -55,5 +55,3 @@ Minősítési lap
 ## i) szóbeli kifejezőkészség,
 
 ## j) kapcsolatteremtő, -fenntartó készség,
-
-## k) szorgalom, igyekezet,
