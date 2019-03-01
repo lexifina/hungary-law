@@ -14,6 +14,6 @@ e) döntés minden olyan ügyben, amelyet az alapszabály a közgyűlés kizár�
 
 (3) Az NVESZ közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
 
-(4) Az NVESZ-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az NVESZ elnökségének tagjai: az elnök, valamint az NVESZ alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az NVESZ elnökségének tagja nem lehet állami vezető.
+(4) Az NVESZ-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). Az NVESZ elnökségének tagjai: az elnök, valamint az NVESZ alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. Az NVESZ elnökségének tagja nem lehet politikai felsővezető.
 
 (5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.

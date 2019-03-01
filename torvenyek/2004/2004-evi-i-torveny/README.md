@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2018-07-31 | 2018. évi XLVI. törvény | 2004-1-00-00.61 |
 | 2018-08-02 | 2018. évi XL. törvény | 2004-1-00-00.62 |
 | 2019-01-01 | 2018. évi CXXXV. törvény | 2004-1-00-00.63 |
+| 2019-03-01 | 2018. évi CXXV. törvény | 2004-1-00-00.64 |
