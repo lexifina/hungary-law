@@ -34,11 +34,11 @@ k)[^15] ellátja az állami foglalkoztatási szerv hatáskörében eljáró korm
 
 l) hatósági jogkört gyakorol, amelynek keretében
 
-la) dönt a munkahelyteremtő beruházáshoz pályázati eljárás keretében nyújtott támogatásról,
+la)[^16]
 
 lb) ellátja a munkavállalók kölcsönös foglalkoztatásának cseréjéről szóló nemzetközi szerződések végrehajtásával kapcsolatos feladatokat,
 
-lc)[^16] dönt az EURES-tagként, valamint EURES-partnerként történő nyilvántartásba vételről vagy a nyilvántartásból való törlésről,
+lc)[^17] dönt az EURES-tagként, valamint EURES-partnerként történő nyilvántartásba vételről vagy a nyilvántartásból való törlésről,
 
 ld) ellátja az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alá tartozó tartózkodási engedélyhez szükséges szakhatósági állásfoglalással kapcsolatos másodfokú hatósági feladatot,
 
@@ -52,25 +52,27 @@ mc) a külföldiek – engedély-, illetve bejelentés köteles – magyarorszá
 
 n) nemzetközi feladatokat lát el, amelynek keretében
 
-na)[^17] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal nemzetközi tevékenységét,
+na)[^18] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal nemzetközi tevékenységét,
 
 nb) elősegíti az ILO, WAPES és EU tagságból adódó feladatok végrehajtását,
 
-nc)[^18] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal – a személyek szabad áramlásához kapcsolódó – feladatainak végrehajtását,
+nc)[^19] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal – a személyek szabad áramlásához kapcsolódó – feladatainak végrehajtását,
 
-nd)[^19] ellátja az Európai Foglalkoztatási Szolgálat (a továbbiakban: EURES) magyarországi rendszere működtetésének és fejlesztésének feladatait, ügyfélszolgálatot működtet, az EURES Nemzeti Koordinációs Iroda útján kapcsolatot tart az EURES európai intézményeivel, az Európai Unió szervei által működtetett információs hálózatokkal, valamint az egyenlő bánásmódot népszerűsítő és az uniós munkavállalókat és családtagjaikat támogató szervekkel,
+nd)[^20] ellátja az Európai Foglalkoztatási Szolgálat (a továbbiakban: EURES) magyarországi rendszere működtetésének és fejlesztésének feladatait, ügyfélszolgálatot működtet, az EURES Nemzeti Koordinációs Iroda útján kapcsolatot tart az EURES európai intézményeivel, az Európai Unió szervei által működtetett információs hálózatokkal, valamint az egyenlő bánásmódot népszerűsítő és az uniós munkavállalókat és családtagjaikat támogató szervekkel,
 
 ne) együttműködik az Európai Gazdasági Térségről szóló Megállapodásban részes tagállamok foglalkoztatási szolgálataival,
 
 o) ellátja a jogszabályok által meghatározott nyilvántartások vezetésével kapcsolatos feladatokat,
 
-p)[^20] munkaügyi kutatásokat kezdeményez, amelynek keretében független felméréseket és elemzéseket készít vagy rendel meg az uniós munkavállalók és családtagjaik szabad mozgáshoz való joga gyakorlásának indokolatlan korlátozása és akadályozása vagy az állampolgárság alapján történő megkülönböztetése tárgyában,
+p)[^21] munkaügyi kutatásokat kezdeményez, amelynek keretében független felméréseket és elemzéseket készít vagy rendel meg az uniós munkavállalók és családtagjaik szabad mozgáshoz való joga gyakorlásának indokolatlan korlátozása és akadályozása vagy az állampolgárság alapján történő megkülönböztetése tárgyában,
 
-q)[^21] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal európai uniós támogatással megvalósuló tevékenységeit,
+q)[^22] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal európai uniós támogatással megvalósuló tevékenységeit,
 
-r)[^22] ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal munkaerőpiaci feladatokat ellátó kormánytisztviselőinek humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat.
+r)[^23] ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal munkaerőpiaci feladatokat ellátó kormánytisztviselőinek humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat,
 
-(1a)[^23] Az állami foglalkoztatási szerv feladatkörében eljáró kormányhivatal által lefolytatott hatósági ügyben – ideértve a Nemzeti Foglalkoztatási Alap pénzeszközeinek működtetésével összefüggő feladatok ellátását is – felügyeleti szervként a miniszter jár el.
+s)[^24] az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet költségvetési támogatásokra vonatkozó szabályai szerint a munkahelyteremtő támogatásról a pályázati eljárás alapján benyújtott támogatási igény alapján mérlegelési jogkörében dönt.
+
+(1a)[^25] Az állami foglalkoztatási szerv feladatkörében eljáró kormányhivatal által lefolytatott hatósági ügyben – ideértve a Nemzeti Foglalkoztatási Alap pénzeszközeinek működtetésével összefüggő feladatok ellátását is – felügyeleti szervként a miniszter jár el.
 
 (2) A miniszter a munkaügyi kapcsolatok feladatkörében
 
@@ -82,9 +84,9 @@ c) nyilvántartja az üzemi tanács (európai üzemi tanács) választási eredm
 
 d) működteti a Munkaügyi Kapcsolatok Információs Rendszerét (MKIR),
 
-e)[^24] kialakítja a kollektív munkaügyi érdekviták és békéltetés esetén a kollektív munkaügyi jogviták – országos, egységes elveken nyugvó – szakmailag független támogató rendszerét, valamint koordinálja a munkaügyi alternatív vitarendezési szolgáltatás működését.
+e)[^26] kialakítja a kollektív munkaügyi érdekviták és békéltetés esetén a kollektív munkaügyi jogviták – országos, egységes elveken nyugvó – szakmailag független támogató rendszerét, valamint koordinálja a munkaügyi alternatív vitarendezési szolgáltatás működését.
 
-f)[^25] működteti a munkaügyi tanácsadó és vitarendező szolgálatot.
+f)[^27] működteti a munkaügyi tanácsadó és vitarendező szolgálatot.
 
 (3) Az (1)–(2) bekezdésben meghatározott feladatainak ellátása érdekében együttműködik
 
@@ -108,13 +110,15 @@ d) egyéb szervezetekkel.
 [^13]: A 4. § (1) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
 [^14]: A 4. § (1) bekezdés j) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
 [^15]: A 4. § (1) bekezdés k) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
-[^16]: A 4. § (1) bekezdés l) pont lc) alpontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés a) pontja hatályon kívül helyezte, újonnan a 130/2018. (VII. 23.) Korm. rendelet 13. §-a iktatta be.
-[^17]: A 4. § (1) bekezdés n) pont na) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (7) bekezdésével megállapított szöveg.
-[^18]: A 4. § (1) bekezdés n) pont nc) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (8) bekezdésével megállapított szöveg.
-[^19]: A 4. § (1) bekezdés n) pont nd) alpontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^20]: A 4. § (1) bekezdés p) pontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^21]: A 4. § (1) bekezdés q) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (9) bekezdésével megállapított szöveg.
-[^22]: A 4. § (1) bekezdés r) pontját a 70/2015. (III. 30.) Korm. rendelet 258. § (10) bekezdése iktatta be.
-[^23]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 515. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^24]: A 4. § (2) bekezdés e) pontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^25]: A 4. § (2) bekezdés f) pontját a 335/2016. (XI. 11.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^16]: A 4. § (1) bekezdés l) pont la) alpontját a 273/2018. (XII. 20.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^17]: A 4. § (1) bekezdés l) pont lc) alpontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés a) pontja hatályon kívül helyezte, újonnan a 130/2018. (VII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^18]: A 4. § (1) bekezdés n) pont na) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (7) bekezdésével megállapított szöveg.
+[^19]: A 4. § (1) bekezdés n) pont nc) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (8) bekezdésével megállapított szöveg.
+[^20]: A 4. § (1) bekezdés n) pont nd) alpontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^21]: A 4. § (1) bekezdés p) pontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^22]: A 4. § (1) bekezdés q) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (9) bekezdésével megállapított szöveg.
+[^23]: A 4. § (1) bekezdés r) pontját a 70/2015. (III. 30.) Korm. rendelet 258. § (10) bekezdése iktatta be.
+[^24]: A 4. § (1) bekezdés s) pontját a 273/2018. (XII. 20.) Korm. rendelet 22. §-a iktatta be.
+[^25]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 515. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^26]: A 4. § (2) bekezdés e) pontja a 335/2016. (XI. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^27]: A 4. § (2) bekezdés f) pontját a 335/2016. (XI. 11.) Korm. rendelet 4. § (5) bekezdése iktatta be.

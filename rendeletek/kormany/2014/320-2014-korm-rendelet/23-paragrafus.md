@@ -2,13 +2,13 @@
 
 (2) Az NMH 2014. december 31-én hivatalban lévő főigazgatója, illetve az általa adott meghatalmazás alapján az NMH más vezetője vagy vezetői 2014. december 31-ig jegyzőkönyv felvétele mellett személyesen adják át a foglalkoztatáspolitikáért felelős miniszternek, illetve az általa adott meghatalmazás alapján a minisztérium más vezetőjének az NMH folyamatban lévő, lezárt vagy fenntartási időszak alatt lévő európai uniós finanszírozású pályázatokhoz és projektekhez kapcsolódó valamennyi dokumentumot.
 
-(3)[^78]
+(3)[^81]
 
-(4)[^79]
+(4)[^82]
 
 (5) A 18. § (7) bekezdés szerinti vagyon tekintetében az NMH-nak és a KEF-nek átadás-átvételi megállapodást kell kötni 2014. december 31-ig.
 
 (6) A 18. § (8) bekezdés szerinti vagyon tekintetében az NMH-nak és a NISZ Zrt.-nek átadás-átvételi megállapodást kell kötni 2014. december 31-ig.
 
-[^78]: A 23. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés g) pontja hatályon kívül helyezte.
-[^79]: A 23. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés g) pontja hatályon kívül helyezte.
+[^81]: A 23. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés g) pontja hatályon kívül helyezte.
+[^82]: A 23. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezedés g) pontja hatályon kívül helyezte.
