@@ -46,7 +46,7 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (4) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy a szerencsejáték-felügyeleti hatóságnál foglalkoztatott
 
-a) kormánytisztviselők személyi illetményének, továbbá
+a)
 
 b) kormánytisztviselők és munkavállalók részére feltételekhez kötött személyi juttatás és az intézményi feladatok
 
