@@ -106,30 +106,28 @@
 
 | 53. | magyar– szerb | Baja– Hercegszántó | Bács-Kiskun | Sombor (Zombor) | Vajdaság | Főúti fejlesztés előkészítése (valamint Zombor és országhatár közötti szakasz részbeni felújítása) |
 
-2. melléklet az 1007/2016. (I. 18.) Korm. határozathoz[^9]
+2. melléklet az 1007/2016. (I. 18.) Korm. határozathoz[^17]
 
-|  | A | B | C | D | E | F | G |
+|  | A | B | C | D | E |
 
-| 1. | Határszakasz | Közúti kapcsolat megnevezése | Beruházás indikatív összköltsége (bruttó, millió Ft) | Interreg V-A programok keretében biztosított indikatív forrás (nemzeti társfinanszírozással együtt) (bruttó, millió Ft) | Szükséges hazai költségvetési forrás (önerő és el nem számolható költségek) (bruttó, millió Ft) |
+| 1. | Határszakasz | Közúti kapcsolat megnevezése | Beruházás indikatív összköltsége (bruttó, millió Ft) | Interreg V-A programok keretében biztosított indikatív forrás (nemzeti társfinanszírozással együtt) (bruttó, millió Ft) | Szükséges hazai költségvetési forrás 2018–2020 (önerő és el nem számolható költségek) (bruttó, millió Ft) |
 
-| 2. | 2018 | 2019 | Összesen |
+| 2. | magyar–osztrák | Kőszeg–Rattersdorf (Rőtfalva) | 2120 | 753 | 1367 |
 
-| 3. | magyar–osztrák | Kőszeg–Rattersdorf (Rőtfalva) | 1 020 | 753 | 120 | 147 | 267 |
+| 3. | magyar–osztrák | Zsira–Lutzmannsburg (Locsmánd) | 239 | 184 | 55 |
 
-| 4. | magyar–osztrák | Zsira – Lutzmannsburg (Locsmánd) | 249 | 184 | 65 | – | 65 |
+| 4. | magyar–osztrák | Fertőrákos– Sopronpuszta– Sankt Margarethen im Burgenland (Szentmargitbánya) | 1070 | 652 | 418 |
 
-| 5. | magyar–osztrák | Fertőrákos- Sopronpuszta – Sankt Margarethen im Burgenland (Szentmargitbánya) | 883 | 652 | 113 | 118 | 231 |
+| 5. | magyar–osztrák | Várbalog– Albertkázmérpuszta– Halbturn (Féltorony) | 1206 | 987 | 219 |
 
-| 6. | magyar–osztrák | Várbalog- Albertkázmérpuszta – Halbturn (Féltorony) | 1 338 | 987 | 191 | 160 | 351 |
+| 6. | magyar–osztrák | Rajka–Deutsch Jahrndorf (Németjárfalu) | 906 | 523 | 383 |
 
-| 7. | magyar–osztrák | Rajka–Deutsch Jahrndorf (Németjárfalu) | 708 | 523 | 59 | 126 | 185 |
+| 7. | magyar–szerb | Kübekháza–Rabe (Rábé) | 1939 | 1463 | 476 |
 
-| 8. | magyar–szerb | Kübekháza–Rabe (Rábé) | 1 939 | 1 463 | 381 | 95 | 476 |
+| 8. | magyar–szerb | Baja–Hercegszántó– Sombor (Zombor) | 254 | 154 | 100 |
 
-| 9. | magyar–szerb | Baja-Hercegszántó – Sombor (Zombor) | 254 | 154 | – | 100 | 100 |
+| 9. | magyar–szlovén | Lendvadedes– Dedeskecskés–Dolga Vas (Lendvahosszúfalu) | 560 | 346 | 214 |
 
-| 10. | magyar–szlovén | Lendvadedes- Dedeskecskés – Dolga Vas (Lendvahosszúfalu) | 560 | 346 | 170 | 44 | 214 |
+| 10. | magyar–szlovén | Orfalu–Budinci (Büdfalva) | 425 | 336 | 89 |
 
-| 11. | magyar–szlovén | Orfalu–Budinci (Bűdfalva) | 425 | 336 | 55 | 34 | 89 |
-
-[^9]: A 2. mellékletet az 1010/2017. (II. 1.) Korm. határozat 4. pontja iktatta be.
+[^17]: A 2. mellékletet az 1010/2017. (II. 1.) Korm. határozat 4. pontja iktatta be, szövege az 1083/2019. (III. 1.) Korm. határozat 4. pontjával megállapított szöveg.
