@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-75-00-00
 | 2017-11-24 | 2017. évi CLXI. törvény | 2010-75-00-00.16 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 2010-75-00-00.17 |
 | 2019-01-01 | 2018. évi LII. törvény | 2010-75-00-00.18 |
+| 2019-03-01 | 2018. évi CXXV. törvény | 2010-75-00-00.19 |

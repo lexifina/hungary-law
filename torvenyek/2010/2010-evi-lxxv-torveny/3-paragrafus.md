@@ -4,4 +4,4 @@
 
 (2)–(3)
 
-(4) Nem létesíthető egyszerűsített foglalkoztatásra irányuló jogviszony a közszolgálati tisztviselőkről szóló törvény 1. § e) pontjában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 1. § (1) bekezdésében meghatározott munkáltató által az alaptevékenységébe tartozó feladatai ellátására.
+(4) Nem létesíthető egyszerűsített foglalkoztatásra irányuló jogviszony a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 1. § (1) bekezdésében, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 1. § (1) bekezdésében meghatározott munkáltató által az alaptevékenységébe tartozó feladatai ellátására.
