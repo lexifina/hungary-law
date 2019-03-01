@@ -4,6 +4,6 @@
 
 (2) Ha a határidő utolsó napja munkaszüneti nap, a határidő a következő munkanapon jár le.
 
-(3) A szabálysértési hatósághoz vagy a bírósághoz intézett beadvány előterjesztésének és az előttük teljesíthető cselekménynek a határideje a hivatali munkaidő végével jár le. Nem számít a határidő elmulasztásának, ha a beadványt a határidő utolsó napján postára adták.
+(3) A szabálysértési hatósághoz vagy a bírósághoz intézett beadvány előterjesztésének és az előttük teljesíthető cselekménynek a határideje a hivatali munkaidő végével jár le. Nem számít a határidő elmulasztásának, ha a beadványt a határidő utolsó napján postára adták. E bekezdés alkalmazásában hatósági hivatali munkaidő a közszolgálati tisztviselőkről szóló törvényen alapuló általános munkarend szerinti munkaidő.
 
 (4) A határnap az eljárási cselekmény elvégzésére meghatározott időpont. A határnapot a szabálysértési hatóság vagy a bíróság állapítja meg.
