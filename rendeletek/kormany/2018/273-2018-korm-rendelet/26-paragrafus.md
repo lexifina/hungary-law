@@ -1,4 +1,4 @@
-## 25. §[^25]
+## 25. §[^23]
 
 ## 9. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 22–24. § 2019. március 1-jén lép hatályba.
 
-[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

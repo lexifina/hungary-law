@@ -1,3 +1,7 @@
-## 23. §[^23]
+## 23. § A 320/2014. Korm. rendelet 10. § (4) bekezdés e) pontja helyébe a következő rendelkezés lép:
 
-[^23]: A 23. § a 26. § (2) bekezdése alapján 2019. március 1-jén lép hatályba.
+## (Az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal át nem ruházható hatáskörben a jogszabályban meghatározott illetékességi területén első fokú hatósági jogkört gyakorol)
+
+## „e) a pályázati eljárásban a miniszter által hozott döntés figyelembe vételével a munkahelyteremtő támogatásra vonatkozó döntéssel,”
+
+## (kapcsolatos ügyekben.)

@@ -1,4 +1,4 @@
-## 15. §[^15]
+## 15. §[^16]
 
 ## 5. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó
 
@@ -6,4 +6,4 @@
 
 ## 24/2011. (III. 9.) Korm. rendelet módosítása
 
-[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
