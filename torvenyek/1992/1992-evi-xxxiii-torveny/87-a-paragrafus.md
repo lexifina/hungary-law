@@ -20,7 +20,9 @@ i) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkál
 
 j) honvédelmi alkalmazottak jogállásáról szóló törvény szerinti honvédelmi alkalmazotti jogviszonyban,
 
-k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban
+k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban,
+
+l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban
 
 töltött időt.
 

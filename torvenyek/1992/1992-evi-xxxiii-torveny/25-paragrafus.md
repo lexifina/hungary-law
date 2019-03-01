@@ -30,7 +30,7 @@ b) áthelyezéssel
 
 4. és a hivatásos, továbbá a szerződéses szolgálati jogviszonyt szabályozó jogszabályok,
 
-5. az e törvény és az állami tisztviselőkről szóló törvény
+5.
 
 hatálya alá tartozó munkáltatók között.
 
