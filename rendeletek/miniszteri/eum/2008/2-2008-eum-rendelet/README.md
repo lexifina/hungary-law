@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-2-20-0B
 | 2015-04-29 | 2008-2-20-0B.10 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2016-04-01 | 2008-2-20-0B.11 | 41/2011. (VII. 5.) NEFMI rendelet |
 | 2017-11-01 | 2008-2-20-0B.12 | 29/2017. (X. 31.) EMMI rendelet |
+| 2019-03-02 | 2008-2-20-0B.13 | 5/2019. (III. 1.) EMMI rendelet |
