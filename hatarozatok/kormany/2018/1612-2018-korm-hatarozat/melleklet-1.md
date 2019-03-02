@@ -24,7 +24,7 @@
 
 ## 3.[^1]
 
-1. melléklet az 1612/2018. (XI. 27.) Korm. határozathoz
+1. melléklet az 1612/2018. (XI. 27.) Korm. határozathoz[^2]
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -36,7 +36,7 @@
 
 | 4. | KEHOP-2.1.3- 15-2016-00030 | A Tolna megyei Értény település ivóvízminőség-javító programja | Értény Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 130 524 151 | 4 025 191 | 14 949 928 | 134 549 342 | A projekt keretében a vízminőségi problémák megoldása érdekében vízkezelési technológia kiépítése valósul meg. |
 
-| 5. | KEHOP-2.1.3- 15-2017-00050 | Újireg település ivóvízminőség-javító program | Újireg Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 109 999 998 | 12 789 957 | 18 418 495 | 122 789 955 | A projekt keretében a vízminőségi problémák megoldása érdekében vízkezelési technológia kiépítése valósul meg. |
+| 5. |  |  |  |  |  |  |  |  |
 
 | 6. | KEHOP-2.1.3- 15-2017-00061 | Rábahídvég és Püspökmolnári település ivóvízminőség-javító program | Rábahídvég Község Önkormányzata és Püspökmolnári Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 220 000 000 | 6 520 609 | 33 978 091 | 226 520 609 | A projekt keretében a vízminőségi problémák megoldása érdekében a kutak ammóniumtartalmának eltávolítása valósul meg vízkezelési technológia kiépítésével. |
 
@@ -57,3 +57,4 @@
 | 14. | KEHOP-2.2.2- 15-2017-00130 | Monostorpályi szennyvízelvezetés fejlesztése II. ütem | Monostorpályi Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 110 007 095 | 13 651 944 | 21 822 183 | 123 659 039 | A projekt keretében megvalósítják a Hosszúpályi központú szennyvízelvezetési agglomeráció Monostorpályi tagtelepülésén a csatornahálózat bővítését. |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1081/2019. (III. 1.) Korm. határozat 4. pontja szerint módosított szöveg.
