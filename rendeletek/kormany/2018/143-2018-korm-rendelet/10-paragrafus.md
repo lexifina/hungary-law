@@ -1,4 +1,4 @@
-## 9. § Az elsőfokú rendeltetésmódosítási hatóság az építmény rendeltetésmódosítási engedély nélküli használata vagy átalakítása esetén bírsággal sújtja azt, akinek a rendeltetésmódosítási engedély iránti kérelmet be kellett volna nyújtania.
+## 9. §[^6]
 
 ## 10. § A bírság mértékének meghatározásakor figyelemmel kell lenni arra, hogy
 
@@ -6,4 +6,7 @@ a) a rendeltetésmódosítási engedély nélkül használt kereskedelmi építm
 
 b) a kereskedelmi építményt mennyi ideje használják rendeltetésmódosítási engedély nélkül, és azóta mennyi volt a nettó árbevétel,
 
-c) a rendeltetésmódosítási engedély iránti kérelem benyújtását mulasztóval szemben a rendeltetésmódosítási hatóság szabott-e már ki korábban bírságot.
+c)[^7] a rendeltetésmódosítási engedély iránti kérelem benyújtását mulasztóval szemben a rendeltetésmódosítási hatóság szabott-e már ki korábban bírságot.
+
+[^6]: A 9. §-t a 23/2019. (II. 25.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^7]: [A 10. § c) pontjának a 23/2019. (II. 25.) Korm. rendelet 4. §-ával elrendelt módosítása, amely szerint az „A rendeltetésmódosítási hatóság” szövegrész helyébe az „Az elsőfokú rendeltetésmódosítási hatóság” szöveg lép, nem vezethető át.]

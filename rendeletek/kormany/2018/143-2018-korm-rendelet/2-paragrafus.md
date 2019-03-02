@@ -1,5 +1,3 @@
-## (a továbbiakban együtt: rendeltetésmódosítási eljárás) kell alkalmazni.
-
 ## 2. Az eljáró hatóság kijelölése
 
 2. § (1) A Kormány a rendeltetésmódosítási engedély kiadására irányuló eljárás során eljáró elsőfokú hatóságként az építmény fekvése szerinti járás székhelyének települési önkormányzati jegyzőjét, a fővárosi kerületben a fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt (a továbbiakban: elsőfokú rendeltetésmódosítási hatóság) jelöli ki.
