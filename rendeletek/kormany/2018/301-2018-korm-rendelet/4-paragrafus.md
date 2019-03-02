@@ -10,7 +10,7 @@ c) a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) 
 
 (2)[^6]
 
-(3) Az NHIT a Kormány részére
+(3)[^7] Az NHIT stratégiai tudományos tevékenységként végzi a Kormány részére a következő feladatokat:
 
 a) véleményezi a kormányzati informatikai beszerzésekre és alkalmazásfejlesztésekre vonatkozó javaslatokat;
 
@@ -18,10 +18,12 @@ b) javaslatot tesz a kormányzati informatikai fejlesztések és alkalmazásfejl
 
 c) a miniszterelnök felkérésére véleményezi a Kormány hírközléssel és az informatikával összefüggő előterjesztéseit, egyedi döntéseit.
 
-(4)[^7]
+(4)[^8]
 
-(5) Az NHIT ellátja a kormányzati informatikai beszerzésekkel kapcsolatban e rendeletben meghatározott feladatokat.
+(5)[^9] Az NHIT ellátja a kormányzati informatikai beszerzésekkel kapcsolatban e rendeletben meghatározott stratégiai tudományos feladatokat.
 
 [^5]: A 3. § a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
 [^6]: A 4. § (2) bekezdése a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
-[^7]: A 4. § (4) bekezdése a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
+[^7]: A 4. § (3) bekezdés nyitó szövegrésze a 31/2019. (III. 1.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^8]: A 4. § (4) bekezdése a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
+[^9]: A 4. § (5) bekezdése a 31/2019. (III. 1.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
