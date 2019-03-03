@@ -28,25 +28,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
+## 3.[^1]
 
-## a) D:134 mezőjében a „0,33” szövegrész helyébe a „0,43” szöveg,
-
-## b) E:134 mezőjében a „0,05” szövegrész helyébe a „0,07” szöveg,
-
-## c) D:179 mezőjében a „0,18” szövegrész helyébe a „0,22” szöveg,
-
-## d) E:179 mezőjében a „0,03” szövegrész helyébe a „0,04” szöveg,
-
-## e) D:194 mezőjében a „0,13” szövegrész helyébe a „0,16” szöveg,
-
-## f) E:194 mezőjében a „0,02” szövegrész helyébe a „0,03” szöveg,
-
-## g) D:208 mezőjében a „0,15” szövegrész helyébe a „0,18” szöveg
-
-## lép.
-
-## 4. Hatályát veszti a KEHOP-2.1.1, a KEHOP-2.1.3 és a KEHOP-2.2.2 azonosító jelű felhívások keretében megvalósuló egyes projektek támogatásának növeléséről, valamint a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat módosításáról szóló 1612/2018. (XI. 27.) Korm. határozat 1. mellékletében foglalt táblázat 5. sora.
+## 4.[^2]
 
 1. melléklet az 1081/2019. (III. 1.) Korm. határozathoz
 
@@ -61,3 +45,6 @@
 | 4. | KEHOP-2.1.3- 15-2017-00053 | Kaposfő település ivóvízminőség-javító program | Kaposfő Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 150 000 000 | 25 406 522 | 26 310 978 | 175 406 522 | A projekt keretében a vízminőségi problémák megoldása érdekében vízkezelési technológia kiépítése valósul meg. |
 
 | 5. | KEHOP-2.1.3- 15-2017-00067 | Harc Község ivóvízminőség-javítása | Harc Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 178 572 999 | 34 625 819 | 31 979 825 | 213 198 818 | A projekt keretében a vízminőségi problémák megoldása érdekében vízkezelési technológia kiépítése valósul meg. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
