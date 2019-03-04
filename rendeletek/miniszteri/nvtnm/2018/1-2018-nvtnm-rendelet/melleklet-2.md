@@ -254,7 +254,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Korlátolt Felelősségű Társaság | 01-09-907073 | 2022. december 31. |
+| 1. | Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140096 | 2022. december 31. |
 
 | 2. | KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-048661 | 2022. december 31. |
 
@@ -272,7 +272,7 @@
 
 | 9. | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-916308 | 2022. december 31. |
 
-| 10. | Várgondnokság Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-919323 | 2022. december 31. |
+| 10. |  |  |  |
 
 | 11. | DBC Dél-budai Centrum Projekt Beruházó és Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság | 01-10-049996 | 2022. december 31. |
 
@@ -298,4 +298,4 @@
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a szerint módosított szöveg.

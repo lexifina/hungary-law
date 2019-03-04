@@ -144,6 +144,14 @@
 
 | 2. | VIZITERV Export Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-308251 | 2022. december 31. |
 
+## XV. Tulajdonosi joggyakorló: Nemzeti Sportközpontok
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Sportesemények Szervezéséért, Lebonyolításáért és Sportszolgáltatásért Felelős Nonprofit Korlátolt Felelősségű Társaság | 01-09-335203 | 2022. december 31. |
+
 3. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^5]
 
 [^5]: A 3. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (3) bekezdése, a 7/2018. (XII. 21.) NVTNM rendelet 2. § (2) bekezdése szerint módosított szöveg.
