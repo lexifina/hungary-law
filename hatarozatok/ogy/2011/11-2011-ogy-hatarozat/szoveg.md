@@ -8,7 +8,7 @@ dr. Kocziszky Györgyöt 2017. április 6-i hatállyal
 
 – hat évre – a Magyar Nemzeti Bank monetáris tanácsa tagjává
 
-Pleschinger Gyulát 2013. március 5-től
+Pleschinger Gyulát 2019. március 5-i hatállyal
 
 – hat évre – a Magyar Nemzeti Bank monetáris tanácsa tagjává
 
