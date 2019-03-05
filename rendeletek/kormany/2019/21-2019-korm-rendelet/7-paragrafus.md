@@ -1,0 +1,1 @@
+## 6. § A megyénként és a fővárosra tekintettel meghatározott, a Szabóky Adolf Szakképzési Ösztöndíjról szóló 252/2016. (VIII. 24.) Korm. rendelet alapján a 2019/2020. tanévben induló képzésekben tanulmányi ösztöndíjra jogosító hiány-szakképesítéseket az 5. melléklet tartalmazza.
