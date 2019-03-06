@@ -1,4 +1,4 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^3] E rendeletnek a komáromi ipari park bővítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 344/2017. (XI. 15.) Korm. rendelet módosításáról szóló 37/2019. (III. 5.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 3. §-át a Módr1. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 344/2017. (XI. 15.) Korm. rendelethez
 
@@ -51,3 +51,6 @@
 23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 7. §-t a 37/2019. (III. 5.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2019. március 6.
