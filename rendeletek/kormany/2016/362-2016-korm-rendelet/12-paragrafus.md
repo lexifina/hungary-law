@@ -1,3 +1,7 @@
 12. § (1) A jogi segítségnyújtási támogatások engedélyezésével és az Európai Unió tagállamába irányuló jogi segítségnyújtás iránti kérelemmel kapcsolatos eljárás lefolytatására az ügyfél munkavégzésének helye szerinti járási hivatal is illetékes.
 
 (2) A magyarországi lakóhellyel, tartózkodási hellyel, szálláshellyel vagy munkavégzési hellyel nem rendelkező külföldi személy esetében a jogi segítségnyújtási támogatások engedélyezésével összefüggő kérelem elbírálására Budapest Főváros Kormányhivatala XI. Kerületi Hivatala az illetékes.
+
+(3)[^7] Azon személy esetén, akiről a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló törvény szerinti eljárásban megállapították, hogy bűncselekmény áldozata és jogosult az áldozatsegítési szolgáltatások igénybevételére, a bűncselekménnyel okozott kár, illetve a bűncselekménnyel összefüggésben keletkezett jog- vagy érdeksérelem elhárításához szükséges jogi segítségnyújtási támogatások engedélyezésével kapcsolatos eljárás lefolytatására az a járási hivatal is illetékes, amely a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló törvény szerinti eljárást lefolytatta. Ha az áldozat kéri, az ügyet a lakóhelye, a tartózkodási helye vagy a munkavégzésének helye szerint illetékes járási hivatalhoz kell áttenni.
+
+[^7]: A 12. § (3) bekezdését a 33/2019. (III. 5.) Korm. rendelet 2. § (3) bekezdése iktatta be.
