@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-87-00-00
 | --- | --- | --- |
 | 2018-12-07 | 2018. évi LXXXVII. törvény | 2018-87-00-00.0 (közlönyállapot) |
 | 2018-12-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-87-00-00.1 |
+| 2019-03-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-87-00-00.2 |
