@@ -1,3 +1,3 @@
-2. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^21]
+2. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^23]
 
-[^21]: A 2. melléklet a 152/2018. (VIII. 30.) Korm. rendelet 2. §-a, a 200/2018. (X. 30.) Korm. rendelet 2. §-a, a 205/2018. (XI. 9.) Korm. rendelet 2. §-a, a 243/2018. (XII. 13.) Korm. rendelet 4. §-a, a 320/2018. (XII. 27.) Korm. rendelet 2. §-a, a 3/2019. (I. 24.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^23]: A 2. melléklet a 152/2018. (VIII. 30.) Korm. rendelet 2. §-a, a 200/2018. (X. 30.) Korm. rendelet 2. §-a, a 205/2018. (XI. 9.) Korm. rendelet 2. §-a, a 243/2018. (XII. 13.) Korm. rendelet 4. §-a, a 320/2018. (XII. 27.) Korm. rendelet 2. §-a, a 3/2019. (I. 24.) Korm. rendelet 2. §-a, a 35/2019. (III. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.

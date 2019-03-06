@@ -36,6 +36,8 @@
 
 | 17 | Iparterület-fejlesztésre, valamint szennyvízelvezetésre és -tisztításra irányuló beruházás Egyek nagyközség területén | Egyek nagyközség külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0348 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^22]
+| 18. | Gyümölcsfeldolgozó üzem megvalósítására és üzemeltetésére irányuló beruházás Tornyospálca külterületén | Tornyospálca közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 074/38 és 074/39 helyrajzi számú ingatlanok. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^22]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^24]
+
+[^24]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
