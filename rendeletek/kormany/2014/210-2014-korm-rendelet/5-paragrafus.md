@@ -1,6 +1,6 @@
-## 4. §[^24] A támogató – a támogatási szerződés, annak módosításai és a kapcsolódó dokumentumok pénzügyi és jogi szempontú vizsgálata és ellenjegyzése kivételével – felelős a támogatási eljárások során felmerülő szakmai és szakmastratégiai kérdés megvizsgálásáért, az ehhez kapcsolódó és ebből adódó eljárási, igazgatási feladatok ellátásáért és előkészítéséért, valamint valamennyi egyéb, az eljárások során felmerülő, a BC-t érintő pénzügyi kérdésben, továbbá ellátja az államháztartásról szóló 2011. évi CXCV. törvényben (a továbbiakban: Áht.) és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.) a támogatónak meghatározott feladatokat.
+## 4. §[^30] A támogató – a támogatási szerződés, annak módosításai és a kapcsolódó dokumentumok pénzügyi és jogi szempontú vizsgálata és ellenjegyzése kivételével – felelős a támogatási eljárások során felmerülő szakmai és szakmastratégiai kérdés megvizsgálásáért, az ehhez kapcsolódó és ebből adódó eljárási, igazgatási feladatok ellátásáért és előkészítéséért, valamint valamennyi egyéb, az eljárások során felmerülő, a BC-t érintő pénzügyi kérdésben, továbbá ellátja az államháztartásról szóló 2011. évi CXCV. törvényben (a továbbiakban: Áht.) és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.) a támogatónak meghatározott feladatokat.
 
-## 4. [^25] A lebonyolító szerv
+## 4. [^31] A lebonyolító szerv
 
 5. § (1) A BC lebonyolító szerve a Nemzeti Befektetési Ügynökség.
 
@@ -14,7 +14,7 @@ ab) a nyilvántartási és előrejelzési feladatokat,
 
 ac) a beruházások végrehajtásának szakmai ellenőrzési és monitoring feladatait, ideértve a helyszíni ellenőrzéseket,
 
-ad) a szerződések biztosítékával felmerülő feladatokat,
+ad)[^32] a szerződések biztosítékával felmerülő feladatokat, a biztosítékról való lemondás kivételével,
 
 ae) a folyamatlezárási tevékenységet,
 
@@ -26,11 +26,14 @@ ah) a BC-hez kapcsolódó analitikus nyilvántartások vezetésével kapcsolatos
 
 ai) a támogatásból megvalósuló beruházások kapcsán felmerülő költségek elszámolhatóságát igazoló, valamint a számlacsomagokhoz kapcsolódó ellenőrzési feladatokat, beleértve a szakmai teljesítésre és a kifizetés jogosságára vonatkozó feladatokat,
 
-aj) a támogatási szerződések, módosításaik, illetve a kapcsolódó dokumentumok teljes körű jogi és pénzügyi szempontú vizsgálatát és jogi, illetve pénzügyi ellenjegyzését,
+aj)[^33] a támogatási szerződések, módosításaik, illetve a kapcsolódó dokumentumok teljes körű jogi és pénzügyi szempontú vizsgálatát és szakmai, jogi illetve pénzügyi ellenjegyzését,
 
 b) részt vesz az utóvizsgálaton, a támogatáshoz kapcsolódó egyéb helyszíni ellenőrzésen, és
 
-c) gondoskodik a szerződések lezárásáról, végzi a BC-hez kapcsolódó követelésállomány nyilvántartásával összefüggő és a követeléskezelési feladatokat.
+c)[^34] gondoskodik a szerződések lezárásáról, végzi a BC-hez kapcsolódó követeléskezelési feladatokat.
 
-[^24]: A 4. § a 118/2018. (VII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^25]: A 4. alcím (5. §) a 118/2018. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^30]: A 4. § a 118/2018. (VII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^31]: A 4. alcím (5. §) a 118/2018. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^32]: Az 5. § (2) bekezdés a) pont ad) alpontja a 36/2019. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: Az 5. § (2) bekezdés a) pont aj) alpontja a 36/2019. (III. 5.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^34]: Az 5. § (2) bekezdés c) pontja a 36/2019. (III. 5.) Korm. rendelet d) pontja szerint módosított szöveg.
