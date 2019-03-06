@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1-20-2R
 | --- | --- | --- |
 | 2017-11-01 | 2017-1-20-2R.1 | 1/2017. (X. 31.) PTNM rendelet |
 | 2018-02-14 | 2017-1-20-2R.2 | 1/2018. (II. 13.) PTNM rendelet |
+| 2019-03-06 | 2017-1-20-2R.3 | 1/2018. (II. 13.) PTNM rendelet |
