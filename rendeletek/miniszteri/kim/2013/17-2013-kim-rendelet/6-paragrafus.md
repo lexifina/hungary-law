@@ -8,13 +8,17 @@
 
 6. § (1) Az NVI a választások hivatalos honlapján folyamatosan tájékoztatja a választópolgárokat a központi névjegyzékkel összefüggő kérelmekkel kapcsolatos tudnivalókról, és elérhetővé teszi a kérelemnyomtatványokat.
 
-(2)[^8] Az NVI
+(2)[^8] Az NVI a központi névjegyzékbe vétel iránti kérelem, illetve az adatmódosítási, törlési kérelem benyújtásával kapcsolatos tudnivalókról
 
-a) az országgyűlési képviselők általános választását – az Országgyűlés feloszlása vagy feloszlatása miatti választás kivételével – megelőző év októberében, valamint
+a) a magyarországi lakcímmel nem rendelkező választópolgárokat
 
-b) az országos népszavazási kezdeményezés aláírásai ellenőrzésének eredményét megállapító határozat jogerőre emelkedését követő tizenöt napon belül, ha az érvényes aláírások száma a kétszázezret eléri
+aa) az országgyűlési képviselők általános választását – az Országgyűlés feloszlása vagy feloszlatása miatti választás kivételével – megelőző év októberében,
 
-## – a (2a) bekezdésben foglalt kivétellel – tájékoztatja a magyarországi lakcímmel nem rendelkező választópolgárokat a központi névjegyzékbe vétel iránti kérelem, illetve az adatmódosítási, törlési kérelem benyújtásával kapcsolatos tudnivalókról.
+ab) az országos népszavazási kezdeményezés aláírásai ellenőrzésének eredményét megállapító határozat jogerőre emelkedését követő tizenöt napon belül, ha az érvényes aláírások száma a kétszázezret eléri,
+
+b) a magyarországi lakcímmel nem rendelkező, de Magyarországon élő vagy az Európai Unió területén kívüli lakóhellyel rendelkező választópolgárokat az Európai Parlament tagjai választása évének februárjában
+
+## tájékoztatja.
 
 (2a)[^9] A (2) bekezdés szerinti tájékoztatást, valamint a 3. melléklet szerinti kérelemnyomtatványt
 
@@ -26,7 +30,7 @@ b) a központi névjegyzékben szereplő választópolgár részére a Ve. 92. �
 
 (2b)[^10] A (2) és a (2a) bekezdés rendelkezéseit csak abban az esetben kell alkalmazni, ha azok alkalmazására a (2) bekezdésben megjelölt hónap első napját megelőző egy éven belül nem került sor.
 
-(2c)[^11] Az NVI az országgyűlési képviselők általános választásán, valamint az országos népszavazáson a szavazás napját megelőző harmincadik napig tájékoztatja a szavazási levélcsomag személyes átvételét kérő választópolgárokat a levélcsomag átvételének pontos helyéről és idejéről.
+(2c)[^11] Az NVI a szavazás napját megelőző harmincadik napig tájékoztatja a szavazási levélcsomag személyes átvételét kérő választópolgárokat a levélcsomag átvételének pontos helyéről és idejéről.
 
 (2d)[^12] A (2) és a (2c) bekezdés szerinti tájékoztatást a kettős állampolgárságot tiltó országokban lévő postacímekre a külképviseleten keresztül is eljuttathatja az NVI.
 
@@ -46,8 +50,8 @@ a magyarországi lakcímmel nem rendelkező választópolgár részére átadja,
 
 (6) Az NVI az Európai Parlament tagjai választásának évében január 31-ig a központi névjegyzékben szereplő valamennyi magyarországi lakcímmel rendelkező uniós állampolgárnak megküldi a Ve. 334. §-ában foglalt kérelem benyújtásával kapcsolatos tudnivalókat, valamint a kérelemnyomtatvány egy példányát.
 
-[^8]: A 6. § (2) bekezdése a 27/2015. (X. 16.) IM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 6. § (2) bekezdése a 3/2019. (II. 27.) IM rendelet 26. §-ával megállapított szöveg.
 [^9]: A 6. § (2a) bekezdését a 27/2015. (X. 16.) IM rendelet 1. §-a iktatta be, szövege a 26/2018. (IX. 7.) IM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^10]: A 6. § (2b) bekezdését a 27/2015. (X. 16.) IM rendelet 1. §-a iktatta be.
-[^11]: A 6. § (2c) bekezdését az 1/2018. (I. 3.) IM rendelet 27. §-a iktatta be.
+[^11]: A 6. § (2c) bekezdését az 1/2018. (I. 3.) IM rendelet 27. §-a iktatta be, szövege a 3/2019. (II. 27.) IM rendelet 33. §-a szerint módosított szöveg.
 [^12]: A 6. § (2d) bekezdését az 1/2018. (I. 3.) IM rendelet 27. §-a iktatta be, szövege a 26/2018. (IX. 7.) IM rendelet 5. § (2) bekezdésével megállapított szöveg.
