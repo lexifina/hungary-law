@@ -28,6 +28,10 @@
 
 | 11. | ÓNTE Ópusztaszeri Nemzeti Történeti Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014162 | 2022. december 31. |
 
+| 12. | Balatoni Hajózási Zártkörűen működő Részvénytársaság | 14-10-300113 | 2022. december 31. |
+
+| 13. | M A H A R T – PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2022. december 31. |
+
 ## II. Tulajdonosi joggyakorló: a Kárpát-medencei Tehetséggondozó Nonprofit Korlátolt Felelősségű Társaság
 
 |  | A | B | C |

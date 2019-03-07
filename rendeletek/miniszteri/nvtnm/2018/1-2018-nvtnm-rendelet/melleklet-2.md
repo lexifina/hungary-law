@@ -18,7 +18,7 @@
 
 | 6. | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2022. december 31. |
 
-| 7. | M A H A R T – PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2022. december 31. |
+| 7. |  |  |  |
 
 | 8. | MAHART-Szabadkikötő Zártkörűen Működő Részvénytársaság | 01-10-045276 | 2022. december 31. |
 
