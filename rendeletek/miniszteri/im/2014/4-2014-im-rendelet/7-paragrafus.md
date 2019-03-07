@@ -10,13 +10,13 @@ b) az informatikai rendszerben biztosítja a szavazóköri névjegyzék megtekin
 
 c) megállapítja és közzéteszi a polgármesterjelölt, valamint az egyéni listás vagy egyéni választókerületi jelölt állításához szükséges ajánlások számát,
 
-d)[^3] átveszi az ajánlóív-igénylő nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és az igénylő figyelmét felhívja az esetleges formai hiányosságokra, továbbá az igénylést az informatikai rendszerben regisztrálja; az informatikai rendszerből kinyomtatja, és átvételi elismervény ellenében átadja az igénylő részére az ajánlóíveket; gondoskodik a jelölt fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájl feltöltéséről az informatikai rendszerbe; ellenőrzi a jelölt nemzetiségi nevét tartalmazó, Word formátumú fájl tartalmát, gondoskodik annak feltöltéséről az informatikai rendszerbe,
+d)[^5] átveszi az ajánlóív-igénylő nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és az igénylő figyelmét felhívja az esetleges formai hiányosságokra, továbbá az igénylést az informatikai rendszerben regisztrálja; az informatikai rendszerből kinyomtatja, és átvételi elismervény ellenében átadja az igénylő részére az ajánlóíveket; gondoskodik a jelölt fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájl feltöltéséről az informatikai rendszerbe; ellenőrzi a jelölt nemzetiségi nevét tartalmazó, Word formátumú fájl tartalmát, gondoskodik annak feltöltéséről az informatikai rendszerbe,
 
-e)[^4] átveszi a jelölt, illetve a kompenzációs lista bejelentését tartalmazó nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és a bejelentő figyelmét felhívja az esetleges hiányokra; a bejelentésről átvételi elismervényt ad ki, továbbá a bejelentést az informatikai rendszerben regisztrálja,
+e)[^6] átveszi a jelölt, illetve a kompenzációs lista bejelentését tartalmazó nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és a bejelentő figyelmét felhívja az esetleges hiányokra; a bejelentésről átvételi elismervényt ad ki, továbbá a bejelentést az informatikai rendszerben regisztrálja,
 
 f) átveszi az ajánlóíveket, az informatikai rendszerben ellenőrzi, hogy a jelölt, illetve a jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet leadta-e; jelzi a helyi választási bizottságnak (a továbbiakban: HVB), ha a jelölt, illetve a jelölő szervezet nem adta le a rendelkezésére bocsátott összes ajánlóívet,
 
-g)[^5] az ajánlóíveken adott ajánlásokat – a HVB döntésének előkészítése érdekében – a szavazóköri névjegyzék, valamint a szavazókörök és választókerületek nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
+g)[^7] az ajánlóíveken adott ajánlásokat – a HVB döntésének előkészítése érdekében – a szavazóköri névjegyzék, valamint a szavazókörök és választókerületek nyilvántartása alapján ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
 ga) az ajánlóív eredeti-e,
 
@@ -74,11 +74,11 @@ z) továbbítja a névjegyzék lezárását követően beérkező mozgóurna ir�
 
 (2) A HVI vezetője – a Ve.-ben foglalt feladatain túl –
 
-a)[^6]
+a)[^8]
 
 b) a kinyomtatott névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti, és a hitelesítésről értesíti az NVI-t.
 
-[^3]: A 7. § (1) bekezdés d) pontja a 26/2018. (IX. 7.) IM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^4]: A 7. § (1) bekezdés e) pontja a 26/2018. (IX. 7.) IM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^5]: A 7. § (1) bekezdés g) pontja a 26/2018. (IX. 7.) IM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^6]: A 7. § (2) bekezdés a) pontját a 26/2018. (IX. 7.) IM rendelet 20. §-a hatályon kívül helyezte.
+[^5]: A 7. § (1) bekezdés d) pontja a 26/2018. (IX. 7.) IM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^6]: A 7. § (1) bekezdés e) pontja a 26/2018. (IX. 7.) IM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^7]: A 7. § (1) bekezdés g) pontja a 26/2018. (IX. 7.) IM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^8]: A 7. § (2) bekezdés a) pontját a 26/2018. (IX. 7.) IM rendelet 20. §-a hatályon kívül helyezte.

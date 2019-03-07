@@ -14,7 +14,7 @@ f) a jelölő szervezetek, jelöltek és listák adatainak nyilvántartásához,
 
 g) az ajánlóívek elkészítéséhez, átvételéhez, az ajánlások ellenőrzéséhez,
 
-h) a polgármester- és főpolgármester-jelöltek fényképének, a jelöltek nemzetiségi nevének, a jelölő szervezetek jelképének és nemzetiségi nevének kezeléséhez,
+h)[^2] a jelöltek fényképének, a jelöltek nemzetiségi nevének, a jelölő szervezetek jelképének és nemzetiségi nevének kezeléséhez,
 
 i) a szavazólapok adattartalma jóváhagyásának támogatására és a nyomdai adatátadáshoz,
 
@@ -33,3 +33,5 @@ o) a választási eredmény megállapításának támogatásához,
 p) a választási visszaélések valószínűségét jelző rendszer működtetéséhez és
 
 q) a bírságokkal kapcsolatos feladatok támogatásához.
+
+[^2]: A 4. § h) pontja a 3/2019. (II. 27.) IM rendelet 28. §-a szerint módosított szöveg.

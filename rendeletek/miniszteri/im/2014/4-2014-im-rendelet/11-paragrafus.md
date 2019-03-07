@@ -8,7 +8,7 @@ b) az informatikai rendszerből kinyomtatja, és átvételi elismervény ellené
 
 c) átveszi a jelölő szervezet, a főpolgármester-jelölt, illetve a megyei lista, fővárosi kompenzációs lista, területi nemzetiségi önkormányzati lista bejelentését tartalmazó nyomtatványokat és azok mellékleteit, azokat ellenőrzi, és a bejelentő figyelmét felhívja az esetleges hiányokra; a bejelentésről átvételi elismervényt ad ki, továbbá a bejelentést az informatikai rendszerben regisztrálja,
 
-d)[^8] átveszi a jelölő szervezet jelképét tartalmazó, legalább 300 dpi minőségű, 472 × 236 pixel méretű, TIFF, JPG vagy PNG fájlformátumú fájlokat, továbbá a jelöltek fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
+d)[^10] átveszi a jelölő szervezet jelképét tartalmazó, legalább 300 dpi minőségű, 472 × 236 pixel méretű, TIFF, JPG vagy PNG fájlformátumú fájlokat, továbbá a jelöltek fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
 
 e) ellenőrzi a jelölő szervezet nemzetiségi nevét tartalmazó word formátumú fájl tartalmát, gondoskodik annak feltöltéséről az informatikai rendszerbe,
 
@@ -18,7 +18,7 @@ g) a bíróság megkeresése útján ellenőrzi a jelölő szervezet létezésé
 
 h) átveszi az ajánlóíveket, ellenőrzi, hogy a jelölt, illetve a jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet leadta-e; jelzi a területi választási bizottságnak (a továbbiakban: TVB), ha a jelölt, illetve a jelölő szervezet nem adta le a rendelkezésére bocsátott összes ajánlóívet,
 
-i)[^9] az ajánlóíveken leadott ajánlásokat – a TVB döntésének előkészítése érdekében – ellenőrzi; az ellenőrzés kiterjed arra, hogy
+i)[^11] az ajánlóíveken leadott ajánlásokat – a TVB döntésének előkészítése érdekében – ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
 ia) az ajánlóív eredeti-e,
 
@@ -68,5 +68,5 @@ a) elkészíti az üzemzavar esetére irányadó intézkedési tervet és
 
 b) kiadja a jegyzőkönyvek továbbításával kapcsolatos utasítását.
 
-[^8]: A 11. § (1) bekezdés d) pontja a 26/2018. (IX. 7.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^9]: A 11. § (1) bekezdés i) pontja a 26/2018. (IX. 7.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^10]: A 11. § (1) bekezdés d) pontja a 26/2018. (IX. 7.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^11]: A 11. § (1) bekezdés i) pontja a 26/2018. (IX. 7.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.

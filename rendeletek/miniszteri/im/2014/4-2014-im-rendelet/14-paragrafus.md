@@ -22,7 +22,7 @@ g) átveszi az országos nemzetiségi lista állításához szükséges ajánló
 
 h) ellenőrzi, hogy a jelölő szervezet a rendelkezésére bocsátott összes ajánlóívet leadta-e; jelzi a Nemzeti Választási Bizottságnak (a továbbiakban: NVB), ha a jelölő szervezet nem adta le a rendelkezésére bocsátott összes ajánlóívet,
 
-i)[^10] az ajánlóíveken leadott ajánlásokat – az NVB döntésének előkészítése érdekében – ellenőrzi; az ellenőrzés kiterjed arra, hogy
+i)[^12] az ajánlóíveken leadott ajánlásokat – az NVB döntésének előkészítése érdekében – ellenőrzi; az ellenőrzés kiterjed arra, hogy
 
 ia) az ajánlóív eredeti-e,
 
@@ -40,7 +40,7 @@ j) az NVB-nek a jelölő szervezet, illetve az országos nemzetiségi lista nyil
 
 k) előkészíti az országos nemzetiségi listák sorsolását, a sorsolás eredményét rögzíti az informatikai rendszerben,
 
-l)[^11] átveszi a jelölő szervezet jelképét tartalmazó, legalább 300 dpi minőségű, 472 × 236 pixel méretű, TIFF, JPG vagy PNG fájlformátumú fájlokat, továbbá a jelöltek fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
+l)[^13] átveszi a jelölő szervezet jelképét tartalmazó, legalább 300 dpi minőségű, 472 × 236 pixel méretű, TIFF, JPG vagy PNG fájlformátumú fájlokat, továbbá a jelöltek fényképét tartalmazó, JPEG kiterjesztésű, 240 × 340 pixel felbontású, álló formátumú fájlokat, és gondoskodik azok feltöltéséről az informatikai rendszerbe,
 
 m) bejelentett igény alapján, az adatszolgáltatási díj megfizetésének igazolását követően a szavazóköri névjegyzékben szereplő választópolgárok név- és lakcímadatait elektronikus adathordozón átadja a jelölő szervezetnek,
 
@@ -68,5 +68,5 @@ a) meghatározza az országos igazgatási és informatikai próbák időpontjait
 
 b) kiadja a jegyzőkönyvek továbbításával kapcsolatos utasítását.
 
-[^10]: A 14. § (1) bekezdés i) pontja a 26/2018. (IX. 7.) IM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^11]: A 14. § (1) bekezdés l) pontja a 26/2018. (IX. 7.) IM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^12]: A 14. § (1) bekezdés i) pontja a 26/2018. (IX. 7.) IM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^13]: A 14. § (1) bekezdés l) pontja a 26/2018. (IX. 7.) IM rendelet 16. § (2) bekezdésével megállapított szöveg.
