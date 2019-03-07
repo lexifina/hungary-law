@@ -1,3 +1,0 @@
-## lép.
-
-## 3. A jogi segítségnyújtás keretében nyújtott szolgáltatások engedélyezése, folyósítása és visszatérítése iránti eljárások részletes szabályairól szóló 421/2017. (XII. 19.) Korm. rendelet módosítása
