@@ -6,4 +6,6 @@ a) helyiségenként legalább három választott szavazatszámláló bizottsági
 
 b) a mozgóurna vagy mozgóurnák kiviteléhez szükséges számú további szavazatszámláló bizottsági tagok rendelkezésre állása
 
+biztosított.
+
 [^1]: Az 5/A. alcímet (7/A. §) a 26/2018. (IX. 7.) IM rendelet 32. §-a iktatta be.

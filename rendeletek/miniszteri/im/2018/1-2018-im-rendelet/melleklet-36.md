@@ -1,5 +1,3 @@
-## 20180620000001_4
+36. melléklet az 1/2018. (I. 3.) IM rendelethez[^21]
 
-36–40. melléklet az 1/2018. (I. 3.) IM rendelethez[^19]
-
-[^19]: A 36–40. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. [A 36. mellékletben a 26/2018. (IX. 7.) IM rendelet 36. § o) pontjával elrendelt módosítás nem vezethető át.]
+[^21]: A 36. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 3/2019. (II. 27.) IM rendelet 32. § (2) bekezdése iktatta be.
