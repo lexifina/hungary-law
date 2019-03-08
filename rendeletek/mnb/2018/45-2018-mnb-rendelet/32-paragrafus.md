@@ -2,7 +2,7 @@
 
 (2) A szolgáltató, amennyiben
 
-a)[^1]
+a)[^2]
 
 b) az ügyfeleinek száma a tárgyévet megelőző év végén meghaladta az ötvenezret,
 
@@ -10,4 +10,4 @@ b) az ügyfeleinek száma a tárgyévet megelőző év végén meghaladta az öt
 
 (3) A (2) bekezdésben foglaltakon kívül a szolgáltató manuális szűrést alkalmazhat.
 
-[^1]: A 32. § (2) bekezdés a) pontja a 48. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^2]: A 32. § (2) bekezdés a) pontja a 48. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
