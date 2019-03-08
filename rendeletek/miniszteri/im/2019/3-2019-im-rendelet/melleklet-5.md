@@ -1,5 +1,3 @@
-## Jegyzék a szavazási levélcsomag átadásához az Európai Parlament tagjainak választásán
-
 ## JEGYZÉK
 
 ## A SZAVAZÁSI LEVÉLCSOMAG ÁTADÁSÁHOZ
@@ -11,6 +9,8 @@
 ## (település)
 
 ## oldal 1 / …
+
+## 9K00695_0
 
 |  | A választópolgár adatai | A választópolgár aláírása |
 

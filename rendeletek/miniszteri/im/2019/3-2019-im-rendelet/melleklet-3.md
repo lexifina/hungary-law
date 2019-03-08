@@ -10,6 +10,8 @@
 
 ## (szavazókör sorszáma) számú szavazókör (szavazóhelyiség címe)*
 
+## 9K00693_0
+
 |  | A választópolgárok adatai | Aláírás |
 
 | 1. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) |  |

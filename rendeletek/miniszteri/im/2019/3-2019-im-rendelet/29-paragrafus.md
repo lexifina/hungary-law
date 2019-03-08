@@ -1,1 +1,3 @@
-## 28. § A helyi önkormányzati képviselők és polgármesterek választásán, valamint a nemzetiségi önkormányzati képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól és a választási eljárásban használandó nyomtatványokról szóló 4/2014. (VII. 24.) IM rendelet (a továbbiakban: Önk. vhr.) 4. § h) pontjában a „polgármester- és főpolgármester-jelöltek” szövegrész helyébe a „jelöltek” szöveg lép.
+29. §[^5]
+
+[^5]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

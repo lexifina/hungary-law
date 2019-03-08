@@ -1,4 +1,4 @@
-## Ajánlóív lista ajánlásához személyi azonosítóval rendelkező választópolgárok számára az Európai Parlament tagjainak választásán
+## 9K00707_0
 
 | (Jelölő szervezet(ek) neve) | AJÁNLÓÍV az Európai Parlament tagjainak választása | Sorszám: |
 
@@ -57,3 +57,5 @@
 |  |  | - |  |  |  |  |  |  | - |  |  |  |  |  |
 
 12. melléklet a 3/2019. (II. 27.) IM rendelethez
+
+Ajánlóív lista ajánlásához magyarországi lakcímmel nem rendelkező választópolgárok számára az Európai Parlament tagjainak választásán

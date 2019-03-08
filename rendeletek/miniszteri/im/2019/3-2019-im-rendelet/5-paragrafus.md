@@ -5,3 +5,5 @@
 a) helyiségenként legalább három választott szavazatszámláló bizottsági tag és egy jegyzőkönyvvezető folyamatos jelenléte, valamint
 
 b) a mozgóurna vagy mozgóurnák kiviteléhez szükséges számú további szavazatszámláló bizottsági tagok rendelkezésre állása
+
+biztosított.

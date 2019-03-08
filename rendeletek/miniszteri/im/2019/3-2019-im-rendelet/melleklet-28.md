@@ -1,7 +1,3 @@
-## „3. melléklet a 17/2013. (VII. 17.) KIM rendelethez
+28. melléklet a 3/2019. (II. 27.) IM rendelethez[^11]
 
-## 20190620000003_11
-
-## ”
-
-28. melléklet a 3/2019. (II. 27.) IM rendelethez
+[^11]: A 28. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

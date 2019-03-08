@@ -8,6 +8,8 @@
 
 ## Készült (a szavazás napja) napján, a szavazóhelyiség címe: (közterület megnevezése, jellege, házszám)
 
+## 9K00720_1
+
 | A |
 
 | A szavazóhelyiség nyitásának időpontja: _______ |
@@ -29,6 +31,8 @@
 | Szavazóként megjelent választópolgárok száma: |  | SZ | Az NVI-hez küldendő urnák száma: |  | U |
 
 |  | KÜVI vezetője |
+
+## 9K00720_4
 
 | Megfigyelők |
 

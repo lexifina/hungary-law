@@ -1,5 +1,3 @@
-## biztosított.
-
 ## 6. A kormányhivatalok feladatai
 
 6. § (1) A fővárosi és megyei kormányhivatalok (a továbbiakban együtt: kormányhivatal) a választási feladatok ellátása érdekében a területi választási iroda, illetve a Fővárosi Választási Iroda (a továbbiakban együtt: TVI), az országgyűlési egyéni választókerületi iroda (a továbbiakban: OEVI), valamint a helyi választási iroda (a továbbiakban: HVI) vezetője számára – megállapodás alapján – biztosítja

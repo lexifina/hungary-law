@@ -69,3 +69,5 @@
 ## Megjegyzés: A szavazók számlálását úgy kell végezni, hogy az egyes rubrikákba négy függőleges és egy azokat középen keresztező vízszintes vonalat húzunk. A megjelent választópolgárok számának megállapításához az utolsó felhasznált rubrikában lévő vonalak számát hozzá kell adni a rubrika bal felső sarkában lévő számhoz.
 
 20. melléklet a 3/2019. (II. 27.) IM rendelethez
+
+Jegyzőkönyvminta a szavazás közben előfordult rendkívüli eseményekről, illetve a szavazatszámláló bizottság elnökének a rend fenntartása érdekében tett intézkedéséről

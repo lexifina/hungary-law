@@ -10,6 +10,8 @@
 
 ## (szavazókör sorszáma) számú szavazókör (szavazóhelyiség címe)*
 
+## 9K00691_0
+
 |  | A választópolgárok adatai | Aláírás |
 
 | 1. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) |  |
@@ -47,6 +49,8 @@
 ## ÖSSZESÍTŐ LAP
 
 ## (A névjegyzék utolsó oldalán)
+
+## 9K00691_1
 
 | a névjegyzékben és a mozgóurnát igénylő választópolgárok jegyzékében szereplő választópolgárok száma összesen |
 

@@ -1,1 +1,3 @@
-## 29. § Az Önk. vhr. 16. melléklete helyébe a 28. melléklet lép.
+30. §[^6]
+
+[^6]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

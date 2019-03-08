@@ -10,6 +10,8 @@
 
 ## (szavazóhelyiség címe)*
 
+## 9K00694_0
+
 |  | A választópolgárok adatai | Aláírás |
 
 | 1. | (név) (személyi azonosító) (születési név) |  |
@@ -44,6 +46,8 @@
 
 ## (A névjegyzék utolsó oldalán:)
 
+## 9K00694_1
+
 |  | a külképviseleti névjegyzékben szereplő választópolgárok száma összesen |
 
 |  |  | B |
@@ -53,3 +57,5 @@
 ## * A szavazóhelyiség címe csak a névjegyzék első oldalán jelenik meg.
 
 4. melléklet a 3/2019. (II. 27.) IM rendelethez
+
+Jegyzék a szavazási levélcsomag átadásához az Európai Parlament tagjainak választásán

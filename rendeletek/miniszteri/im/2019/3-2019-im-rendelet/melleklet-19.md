@@ -1,4 +1,4 @@
-## Visszautasítottak jegyzéke
+## 9K00716_0
 
 | VISSZAUTASÍTOTTAK JEGYZÉKE |
 
@@ -29,6 +29,8 @@
 | 9. |  |  |  |
 
 | 10. |  |  |  |
+
+## 9K00716_1
 
 |  | , |  | év |  | hó | nap |
 

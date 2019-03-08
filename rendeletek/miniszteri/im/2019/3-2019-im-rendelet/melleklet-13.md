@@ -1,4 +1,4 @@
-## Ajánlóív lista ajánlásához magyarországi lakcímmel nem rendelkező választópolgárok számára az Európai Parlament tagjainak választásán
+## 9K00708_0
 
 | (Jelölő szervezet(ek) neve) | AJÁNLÓÍV az Európai Parlament tagjainak választása | Sorszám: |
 

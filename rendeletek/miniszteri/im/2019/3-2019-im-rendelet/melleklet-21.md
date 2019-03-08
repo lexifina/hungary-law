@@ -1,5 +1,3 @@
-## Jegyzőkönyvminta a szavazás közben előfordult rendkívüli eseményekről, illetve a szavazatszámláló bizottság elnökének a rend fenntartása érdekében tett intézkedéséről
-
 | JEGYZŐKÖNYV a szavazás közben előfordult rendkívüli eseményről, illetve a szavazatszámláló bi zottság / helyi választási bizottság elnökének / külképviseleti választási iroda vezetőjének a rend fenntartása érdekében tett intézkedéséről |
 
 | Készült: |  | év |  | hó |  | nap |  | település |
