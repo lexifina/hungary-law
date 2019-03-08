@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 683 502 499 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 683 502 499 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. június 30.
+## Határidő: 2018. június 30., a Herman Ottó Intézet által ellátott közfeladatok támogatása előirányzat javára átcsoportosított 80 000 000 forint tekintetében 2020. június 30.
 
 ## 2. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a 2016. évi kötelezettségvállalással nem terhelt költségvetési maradványokból a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 450 000 000 forint felhasználását.
 
@@ -18,7 +18,7 @@
 
 ## Határidő: azonnal
 
-## 3–5.[^1]
+## 3–5.[^2]
 
 ## 6. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő átcsoportosításról szóló 1094/2017. (II. 24.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 7. MK felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 227,0 millió forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
@@ -136,4 +136,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1104/2019. (III. 8.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A 3–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
