@@ -10,8 +10,10 @@ a) a megbízó a 12. § szerint elvégzett minősítés alapján nincs nehéz he
 
 b) a garanciavállalás terjedelme a garancia nyújtásának időpontjában megfelelően mérhető, azaz a garanciavállalás meghatározott ügylethez kapcsolódik, meghatározott maximális összegre vonatkozik, és időben korlátozott,
 
-c) egy ügylettel kapcsolatosan az Eximbank által vállalt kereskedelmi garanciák együttes mértéke nem haladja meg az export szerződéses értékének 80%-át, továbbá
+c)[^21] egy ügylettel kapcsolatosan az Eximbank által vállalt kereskedelmi garanciák együttes mértéke nem haladja meg a kereskedelmi ügylet szerződéses értékének 80%-át, továbbá
 
 d) a garanciavállalásért piaci alapú díjat fizetnek.
 
 (3) A piaci alapú díjszámításra vonatkozó módszertanát az Eximbank a kezesi közleményben meghatározottakkal összhangban alakítja ki és az alkalmazott módszer és díjszámítás leírását belső szabályzatában rögzíti.
+
+[^21]: A 4. § (2) bekezdése a 26/2019. (II. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
