@@ -6,7 +6,7 @@ Felelős: belügyminiszter
 
 Határidő: azonnal
 
-2. a) a nemzetgazdasági minisztert, hogy a környezetvédelmi hatóság határozatában rögzített tényfeltáráshoz és a beavatkozási terv elkészítéséhez biztosítson 80 millió forint forrást a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 37. Herman Ottó Intézet által ellátott közfeladatok támogatása jogcímcsoport javára;
+2. a)[^1] a nemzetgazdasági minisztert, hogy a környezetvédelmi hatóság határozatában rögzített tényfeltáráshoz és a beavatkozási terv elkészítéséhez, valamint a szükséges monitoring feladatok elvégzéséhez és azok alapján a kiértékelő jelentések és záró dokumentáció hatósági elfogadásához biztosítson 80 millió forint forrást a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 37. Herman Ottó Intézet által ellátott közfeladatok támogatása jogcímcsoport javára;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -21,3 +21,5 @@ Felelős: földművelésügyi miniszter
 nemzetgazdasági miniszter
 
 Határidő: 2018. január 30.
+
+[^1]: A 2. pont a) alpontja az 1104/2019. (III. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
