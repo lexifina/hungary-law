@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-85-20-2
 | 2016-05-01 | 1998-85-20-22.18 | 88/2016. (IV. 29.) Korm. rendelet |
 | 2017-04-04 | 1998-85-20-22.19 | 75/2017. (IV. 3.) Korm. rendelet |
 | 2017-07-26 | 1998-85-20-22.20 | 211/2017. (VII. 25.) Korm. rendelet |
+| 2019-03-08 | 1998-85-20-22.21 | 26/2019. (II. 28.) Korm. rendelet |
