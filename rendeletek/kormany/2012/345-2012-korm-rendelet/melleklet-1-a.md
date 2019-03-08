@@ -824,6 +824,8 @@
 
 ## 1.412. Az M76 autóút Zalaegerszeg (észak) és Körmend (kelet) közötti szakasz előkészítése.
 
+## 1.413. 8. sz. főút Veszprém déli elkerülő út fejlesztéséhez kapcsolódó feladatok.
+
 ## 2. Egyes országos vasúti közlekedési projektek és a hozzájuk kapcsolódó, nemzetgazdasági szempontból kiemelt jelentőségű beruházások listája
 
 ## 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
@@ -1216,4 +1218,4 @@
 
 1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^39]
 
-[^39]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a, a 368/2017. (XII. 7.) Korm. rendelet 4. §-a, a 385/2017. (XII. 12.) Korm. rendelet 2. §-a, az 527/2017. (XII. 29.) Korm. rendelet 2. §-a, a 289/2018. (XII. 21.) Korm. rendelet 24. § (2) és (4) bekezdése szerint módosított szöveg.
+[^39]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, szövege a 490/2016. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 129/2017. (VI. 8.) Korm. rendelet 2. §-a, a 368/2017. (XII. 7.) Korm. rendelet 4. §-a, a 385/2017. (XII. 12.) Korm. rendelet 2. §-a, az 527/2017. (XII. 29.) Korm. rendelet 2. §-a, a 289/2018. (XII. 21.) Korm. rendelet 24. § (2) és (4) bekezdése, a 34/2019. (III. 5.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.

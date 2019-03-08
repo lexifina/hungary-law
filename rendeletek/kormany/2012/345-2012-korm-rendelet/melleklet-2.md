@@ -540,6 +540,8 @@
 
 ## 1.269. M3 – M35 autópálya, görbeházi csomópont fejlesztése.
 
+## 1.270. 8. sz. főút Veszprém déli elkerülő út fejlesztéséhez kapcsolódó feladatok.
+
 ## 2. Vasúti közlekedési projektek
 
 ## 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
