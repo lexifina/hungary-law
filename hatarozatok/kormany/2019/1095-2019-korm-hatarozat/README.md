@@ -1,0 +1,9 @@
+# 1095/2019. (III. 8.) Korm. határozat
+
+a Modern Városok Program keretében a Győr és Pannonhalma Világörökség közötti kerékpárút kiépítése érdekében szükséges forrás-átcsoportosításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1095-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-03-08 | 2019-1095-30-22.1 | 1095/2019. (III. 8.) Korm. határozat |
