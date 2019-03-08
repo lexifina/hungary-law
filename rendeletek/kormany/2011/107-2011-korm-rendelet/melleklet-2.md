@@ -1,6 +1,6 @@
-| Elszámolásért felelős személy neve és telefonszáma:……………………………………………………. |  |  |  |
+## Elszámolásért felelős személy neve és telefonszáma: ..............................................................................
 
-| Összesített elszámolási táblázat |
+## Összesített elszámolási táblázat
 
 | Támogatott szervezet neve |  |
 
@@ -16,7 +16,9 @@
 
 | A jogcímen lehívott közvetlen támogatási összeg |  |
 
-| Az elszámolás módja (az ÁFA-levonási nyilatkozatnak megfelelően, aláhúzandó) | 1.) Bruttó /nincs ÁFA levonás/, 2.) Nettó /ÁFA levonás/, 2.A) Bruttó /elkülönítetten kezelt támogatott tevékenység/ |
+| Kiegészítő sportfejlesztési támogatás összege |  |
+
+| Az elszámolás módja (az ÁFA-levonási nyilatkozatnak megfelelően, aláhúzandó) | 1.) Bruttó /nincs ÁFA levonás/, | 2.) Nettó /ÁFA levonás/, | 2.A) Bruttó /elkülönítetten kezelt támogatott tevékenység/ |
 
 | Sor- szám | Számla száma | Számla kibocsátója | Konkrét esemény, feladat, tevékenység, eszköz megnevezése | Számla kelte | Számla teljesítésének időpontja | A számla kifizetésének időpontja | Számla bruttó értéke | A számlából elszámolni kívánt érték | A számlából elszámolni kívánt közvetlen támogatási összeg |
 
@@ -40,17 +42,19 @@
 
 | 10. |  |  |  |  |  |  |  |  |  |
 
-| ÖSSZESEN: |  |  | 0 |  | 0 |
+| ÖSSZESEN: |  |  |  |  |  |
 
-| Büntetőjogi felelősségem tudatában kijelentem, hogy az alább felsorolt számlák hitelesek és csak a sportigazgatási szerv felé, a(z)......................................................... iktatószámú sportfejlesztési programmal kapcsolatban lettek elszámolva. Igazolom, hogy az elszámolásban foglaltak a hatályos pénzügyi és számviteli előírások szerint kerültek felhasználásra, kifizetésre és könyvelésre. |
+## Büntetőjogi felelősségem tudatában kijelentem, hogy az alább felsorolt számlák hitelesek, és csak a sportigazgatási szerv felé, a(z) ..................................................................... iktatószámú sportfejlesztési programmal kapcsolatban lettek elszámolva. Igazolom, hogy az elszámolásban foglaltak a hatályos pénzügyi és számviteli előírások szerint kerültek felhasználásra, kifizetésre és könyvelésre.
 
-| Az elszámolás kelte: .............................................. |  |  |  |  | P. H. |  |  |
+## Az elszámolás kelte: .....................................................................
 
-|  |  |  |  |  |  |  | ..................................................................... |
+## P. H.
 
-|  |  |  |  |  |  |  | a képviseletre jogosult személy neve és aláírása |
+## ....................................................................
 
-2. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^211]
+## a képviseletre jogosult személy neve és aláírása
+
+2. melléklet a 107/2011. (VI. 30.) Korm. rendelethez[^223]
 
 | Könyvvizsgálói összesített adatlap |
 
@@ -74,4 +78,4 @@
 
 |  |  |  |  |  |  |  |  |  |  | a könyvvizsgáló aláírása |  |
 
-[^211]: A 2. melléklet a 96/2016. (V. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^223]: A 2. melléklet a 96/2016. (V. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
