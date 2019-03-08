@@ -1,6 +1,6 @@
-17/B. §[^120] (1) A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. a Ptk.-ban meghatározott mentesülési okokon túl akkor is mentesül a kárfizetési kötelezettsége alól, ha:
+17/B. §[^124] (1) A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. a Ptk.-ban meghatározott mentesülési okokon túl akkor is mentesül a kárfizetési kötelezettsége alól, ha:
 
-a)[^121] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
+a)[^125] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
 
 aa) ezzel ok-okozati összefüggésben következik be a biztosított kára,
 
@@ -12,14 +12,14 @@ c) a biztosított a biztosított ügylethez kapcsolódóan jogerős bírósági 
 
 (2) Az egyes termékek esetén a (1) bekezdés alapján alkalmazandó mentesülési okokat a 19. § c) pontjának megfelelően az általános szerződési feltételek tartalmazzák.
 
-(3)[^122] A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek és faktoring-biztosítás esetén a 17/A. § (1) bekezdésében szereplő mentesülési okok az (1) bekezdés c) pontjában, valamint a 17/A. § (1) bekezdés d) pont db) és dd) alpontjában meghatározott kivétellel nem alkalmazandók.
+(3)[^126] A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek és faktoring-biztosítás esetén a 17/A. § (1) bekezdésében szereplő mentesülési okok az (1) bekezdés c) pontjában, valamint a 17/A. § (1) bekezdés d) pont db) és dd) alpontjában meghatározott kivétellel nem alkalmazandók.
 
-(4)[^123] A 17/A. § (4) bekezdésében meghatározottakat a forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek és faktoring-biztosítás esetén is alkalmazni kell azzal, hogy ezen ügyletek esetén is lehetőség van a 6. § (2) és (3) bekezdésében meghatározott visszkereset alkalmazására.
+(4)[^127] A 17/A. § (4) bekezdésében meghatározottakat a forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek és faktoring-biztosítás esetén is alkalmazni kell azzal, hogy ezen ügyletek esetén is lehetőség van a 6. § (2) és (3) bekezdésében meghatározott visszkereset alkalmazására.
 
-(5)[^124] Az egyéb módozatok esetén lehetőség van arra, hogy a Mehib Rt. az általános szerződési feltételekben a 17/A. § szerinti mentesülési okok helyett a 17/B. § szerinti mentesülési okokat szerepeltesse.
+(5)[^128] Az egyéb módozatok esetén lehetőség van arra, hogy a Mehib Rt. az általános szerződési feltételekben a 17/A. § szerinti mentesülési okok helyett a 17/B. § szerinti mentesülési okokat szerepeltesse.
 
-[^120]: A 17/B. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^121]: A 17/B. § (1) bekezdés a) pontja a 185/2013. (VI. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^122]: A 17/B. § (3) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^123]: A 17/B. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^124]: A 17/B. § (5) bekezdése a 185/2013. (VI. 7.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^124]: A 17/B. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^125]: A 17/B. § (1) bekezdés a) pontja a 185/2013. (VI. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^126]: A 17/B. § (3) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^127]: A 17/B. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^128]: A 17/B. § (5) bekezdése a 185/2013. (VI. 7.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.

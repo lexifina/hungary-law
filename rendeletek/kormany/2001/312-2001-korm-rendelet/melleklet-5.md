@@ -2,7 +2,7 @@
 
 ## Ha a Biztosító a 21. § (8) bekezdésben foglalt eltérésekkel kíván élni, a tervezett döntését haladéktalanul be kell jelentenie a Bizottságnak, mint a védzáradék alkalmazására vonatkozó szándékát. A bejelentésnek olyan piaci jelentést kell tartalmaznia, amely kimutatja, hogy a magánbiztosítási piacon nem áll rendelkezésre fedezet a kockázatra, és ezt két nagy, közismert, magántulajdonú nemzetközi exporthitel biztosító, és egy hazai hitelbiztosító támasztja alá, ily módon indokolva a védzáradék alkalmazását. A bejelentésnek ezen túlmenően tartalmaznia kell azoknak a feltételeknek a leírását, amelyeket az állami vagy államilag támogatott exporthitel biztosító alkalmazni kíván az ilyen kockázatok tekintetében.
 
-5. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^158]
+5. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^162]
 
 ## A 21. § (10) bekezdésben foglaltak teljesítéséhez az 1233/2011/EU rendelet alapján az Európai Bizottság számára összeállítandó éves tevékenységi jelentés tartalmára vonatkozó ellenőrzési lista
 
@@ -92,4 +92,4 @@ VI. A környezeti kockázatok értékelése
 
 |  | 4 | Hogyan kerülnek figyelembe vételre az OECD Megállapodás 5. pontja alá tartozó hivatalosan támogatott exporthitelezési tevékenységükben azok a környezeti kockázatok, amelyek egyéb jelentős kockázatokat okozhatnak? |  |
 
-[^158]: Az 5. mellékletet a 205/2012. (VII. 27.) Korm. rendelet 7. §-a iktatta be.
+[^162]: Az 5. mellékletet a 205/2012. (VII. 27.) Korm. rendelet 7. §-a iktatta be.

@@ -1,10 +1,10 @@
-## A kárfizetés alóli mentesülés[^116]
+## A kárfizetés alóli mentesülés[^120]
 
-17/A. §[^117] (1) Közép- és hosszú lejáratú ügyletek és az egyedi módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. mentesül a kárfizetési kötelezettség alól, ha
+17/A. §[^121] (1) Közép- és hosszú lejáratú ügyletek és az egyedi módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Rt. mentesül a kárfizetési kötelezettség alól, ha
 
 a) a biztosított a biztosítási szerződés megkötéséhez valótlan vagy megtévesztő adatokat közölt, kivéve, ha a biztosított bizonyítja, hogy a biztosítónak tudomása volt arról, hogy az adatok valótlanok vagy megtévesztőek, vagy azok nem befolyásolják a biztosító által vállalt kockázat mértékét, vagy nem hatottak közre a biztosítási esemény bekövetkeztében;
 
-b)[^118] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
+b)[^122] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
 
 ba) ezzel ok-okozati összefüggésben következik be a biztosított kára,
 
@@ -16,7 +16,7 @@ d) a Mehib Rt. a 19. §-ban meghatározott általános szerződési feltételeib
 
 da) a biztosított vagy a nevében eljáró személy cselekménye vagy mulasztása,
 
-db)[^119] olyan rendelkezés, előírás a biztosított kereskedelmi vagy hitelszerződésben, vagy bármely, a Mehib Rt. által előírt, a hitelintézet által vállalt garanciával, egyéb biztosítékokkal kapcsolatos dokumentumokban, amely a biztosított igényérvényesítési jogait korlátozza,
+db)[^123] olyan rendelkezés, előírás a biztosított kereskedelmi vagy hitelszerződésben, vagy bármely, a Mehib Rt. által előírt, a hitelintézet által vállalt garanciával, egyéb biztosítékokkal kapcsolatos dokumentumokban, amely a biztosított igényérvényesítési jogait korlátozza,
 
 dc) a biztosítási szerződés megkötését követően a biztosított és az adós által létrejött olyan megállapodás, amely a követelés kifizetését késlelteti vagy megakadályozza,
 
@@ -28,7 +28,7 @@ dd) szállítói hitel esetében a 6. § (2) bekezdésében meghatározott eset 
 
 (4) Ha az adós vagy a kezes a követelés jogalapját vagy összegszerűségét vitatja, a Mehib Rt. a 6. § (2) bekezdésben meghatározott eset kivételével mindaddig elhalasztja a kárfizetést, amíg a vitát a külkereskedelmi szerződésben vagy a hitelmegállapodásban kikötött választottbíróság, ezek hiányában az irányadó jog szerinti bíróság jogerős ítélete vagy határozata nem zárja le a biztosított javára. A Mehib Rt. a kárfizetést a választottbíróság vagy bíróság jogerős ítéletének vagy határozatának kézhezvételétől számított 30 napon belül teljesíti.
 
-[^116]: A 17/A. §-t megelőző alcím címet a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^117]: A 17/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^118]: A 17/A. § (1) bekezdés b) pontja a 185/2013. (VI. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^119]: A 17/A. § (1) bekezdés d) pont db) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^120]: A 17/A. §-t megelőző alcím címet a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^121]: A 17/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^122]: A 17/A. § (1) bekezdés b) pontja a 185/2013. (VI. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^123]: A 17/A. § (1) bekezdés d) pont db) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés i) pontja szerint módosított szöveg.

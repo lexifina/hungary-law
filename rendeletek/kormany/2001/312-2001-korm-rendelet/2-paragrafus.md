@@ -60,11 +60,15 @@ w)[^26] faktoring biztosítás: a hitelintézetekről és a pénzügyi vállalko
 
 x)[^27] gazdálkodó szervezet: az Etv. 1. § (5a) bekezdés 3. pontjában meghatározott szervezet,
 
-y)[^28] külföldi székhelyű hitelbiztosító: minden olyan nemzetközi szervezet, OECD tagországban bejegyzett biztosító és exporthitel-ügynökség, amely a rá irányadó jog szabályai szerint jogosult nem piacképes kockázatokra vonatkozó biztosítási tevékenységet végezni.
+y)[^28] külföldi székhelyű hitelbiztosító: minden olyan nemzetközi szervezet, amely vagy a Berni Unió tagja, vagy legalább befektetési kategóriájú külső hitelminősítéssel rendelkező biztosító, vagy viszontbiztosító, vagy exporthitel-ügynökség, amely a rá irányadó jog szabályai szerint jogosult biztosítási vagy viszontbiztosítási vagy exporthitel-ügynökségi tevékenységet végezni;
+
+z)[^29] export szerződéses értéke: a vevő által vagy nevében az exportált árukért és szolgáltatásokért fizetendő, helyi költséget nem tartalmazó összeg;
+
+zs)[^30] helyi költség: a vevő országában felmerülő, azon árukért és szolgáltatásokért fizetendő, az exportőr képviselőjének a vevő országában fizetendő jutalékát nem tartalmazó kiadás, amely az exportőr szerződésének teljesítéséhez vagy az exportőr szerződését magában foglaló projekt megvalósításához szükséges.
 
 (2) Az állami adósra vonatkozó előírásokat kell alkalmazni az (1) bekezdés b) pontja szerinti szervezet esetében, ha a kötelezettségeiért az állami adós, mint kezes vállal felelősséget.
 
-(3)[^29] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
+(3)[^31] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
 
 [^3]: A 2. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdésének d) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
@@ -91,5 +95,7 @@ y)[^28] külföldi székhelyű hitelbiztosító: minden olyan nemzetközi szerve
 [^25]: A 2. § (1) bekezdés v) pontját a 185/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
 [^26]: A 2. § (1) bekezdés w) pontját az 537/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be.
 [^27]: A 2. § (1) bekezdés x) pontját a 80/2014. (III. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^28]: A 2. § (1) bekezdés y) pontját a 215/2015. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^29]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^28]: A 2. § (1) bekezdés y) pontját a 215/2015. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 26/2019. (II. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^29]: A 2. § (1) bekezdés z) pontját a 26/2019. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^30]: A 2. § (1) bekezdés zs) pontját a 26/2019. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^31]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.

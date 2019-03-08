@@ -1,28 +1,28 @@
-## 14. §[^102]
+## 14. §[^106]
 
 ## Kárfizetési türelmi idő
 
-15. § (1)[^103] A kárfizetési türelmi idő annak megállapítására szolgál, hogy a kár a biztosítási esemény következtében valóban bekövetkezett-e, és ha igen, tartósan fennáll-e. A szükséges kárenyhítési intézkedéseket elsődlegesen a kárfizetési türelmi idő alatt el kell végezni.
+15. § (1)[^107] A kárfizetési türelmi idő annak megállapítására szolgál, hogy a kár a biztosítási esemény következtében valóban bekövetkezett-e, és ha igen, tartósan fennáll-e. A szükséges kárenyhítési intézkedéseket elsődlegesen a kárfizetési türelmi idő alatt el kell végezni.
 
-(2)[^104] A kárfizetési türelmi idő legkisebb időtartama a kár bekövetkeztétől számított
+(2)[^108] A kárfizetési türelmi idő legkisebb időtartama a kár bekövetkeztétől számított
 
-a)[^105] 180 nap befektetési és gyártási kockázatok esetén,
+a)[^109] 180 nap befektetési és gyártási kockázatok esetén,
 
-b)[^106] 90 nap hitelkockázat és hitelintézet által vállalt garancia biztosítása esetében,
+b)[^110] 90 nap hitelkockázat és hitelintézet által vállalt garancia biztosítása esetében,
 
 c) 30 nap az 5. § k) pontjában foglalt esetben,
 
-d)[^107] 90 nap az a)–c) pontban nem említett egyéb esetben.
+d)[^111] 90 nap az a)–c) pontban nem említett egyéb esetben.
 
-(3)[^108] Kárfizetési türelmi idő nem kerül alkalmazásra magánadós fizetésképtelensége folytán bekövetkezett biztosítási események és kétoldalú kormányközi adósság átütemezési megállapodások esetében.
+(3)[^112] Kárfizetési türelmi idő nem kerül alkalmazásra magánadós fizetésképtelensége folytán bekövetkezett biztosítási események és kétoldalú kormányközi adósság átütemezési megállapodások esetében.
 
-(4)[^109]
+(4)[^113]
 
-[^102]: A 14. §-t a 303/2005. (XII. 25.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
-[^103]: A 15. § (1) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^104]: A 15. § (2) bekezdés nyitó szövegrésze a 437/2012. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^105]: A 15. § (2) bekezdés a) pontja a 437/2012. (XII. 29.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^106]: A 15. § (2) bekezdés b) pontja a 303/2005. (XII. 25.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés h) pontja szerint módosított szöveg.
-[^107]: A 15. § (2) bekezdésének d) pontját a 48/2003. (IV. 3.) Korm. rendelet 8. §-a iktatta a szövegbe, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
-[^108]: A 15. § (3) bekezdése az 50/2010. (III. 9.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^109]: A 15. § (4) bekezdését újonnan a 303/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése.
+[^106]: A 14. §-t a 303/2005. (XII. 25.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^107]: A 15. § (1) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^108]: A 15. § (2) bekezdés nyitó szövegrésze a 437/2012. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^109]: A 15. § (2) bekezdés a) pontja a 437/2012. (XII. 29.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^110]: A 15. § (2) bekezdés b) pontja a 303/2005. (XII. 25.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^111]: A 15. § (2) bekezdésének d) pontját a 48/2003. (IV. 3.) Korm. rendelet 8. §-a iktatta a szövegbe, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
+[^112]: A 15. § (3) bekezdése az 50/2010. (III. 9.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^113]: A 15. § (4) bekezdését újonnan a 303/2005. (XII. 25.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése.

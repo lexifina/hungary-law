@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-312-20-
 | 2015-04-01 | 2001-312-20-22.17 | 185/2013. (VI. 7.) Korm. rendelet |
 | 2015-08-31 | 2001-312-20-22.18 | 215/2015. (VII. 31.) Korm. rendelet |
 | 2016-05-01 | 2001-312-20-22.19 | 88/2016. (IV. 29.) Korm. rendelet |
+| 2019-03-08 | 2001-312-20-22.20 | 26/2019. (II. 28.) Korm. rendelet |

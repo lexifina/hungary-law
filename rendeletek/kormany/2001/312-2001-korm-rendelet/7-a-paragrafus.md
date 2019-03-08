@@ -1,6 +1,6 @@
 ## által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.
 
-7/A. §[^78] (1) Ha a Mehib Rt. által nyújtott biztosítási fedezettel érintett fővállalkozási szerződés teljesítésében kizárólag az Európai Unió egy vagy több tagállamából származó alvállalkozó vesz részt, a Mehib Rt. kockázatvállalása kiterjed ezen alvállalkozói szerződésekre, feltéve hogy az alvállalkozói szerződés keretében szállított árukat vagy a nyújtott szolgáltatásokat a fővállalkozási szerződés tartalmazza, vagy azok a fővállalkozói szerződés teljesítésének lényeges kellékeként kerülnek felhasználásra, és ha az ilyen alvállalkozói szerződések értéke:
+7/A. §[^82] (1) Ha a Mehib Rt. által nyújtott biztosítási fedezettel érintett fővállalkozási szerződés teljesítésében kizárólag az Európai Unió egy vagy több tagállamából származó alvállalkozó vesz részt, a Mehib Rt. kockázatvállalása kiterjed ezen alvállalkozói szerződésekre, feltéve hogy az alvállalkozói szerződés keretében szállított árukat vagy a nyújtott szolgáltatásokat a fővállalkozási szerződés tartalmazza, vagy azok a fővállalkozói szerződés teljesítésének lényeges kellékeként kerülnek felhasználásra, és ha az ilyen alvállalkozói szerződések értéke:
 
 a) 7 500 000 eurónál kisebb értékű fővállalkozási szerződés esetén legfeljebb a fővállalkozói szerződés értékének 40%-a;
 
@@ -18,4 +18,4 @@ c) 10 000 000 eurót meghaladó értékű exportszerződés esetén a fővállal
 
 (6) Amennyiben a Mehib Rt. a fővállalkozási szerződések teljesítésében részt vevő alvállalkozók részére az (1) vagy (2) bekezdés alapján biztosítási fedezetet nyújt, ezen alvállalkozókra is alkalmazni kell a 6. § (1) bekezdés c)–d) pontjában meghatározottakat.
 
-[^78]: A 7/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^82]: A 7/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
