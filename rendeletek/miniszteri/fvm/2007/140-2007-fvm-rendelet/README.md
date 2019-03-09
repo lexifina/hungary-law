@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-140-20-
 | 2017-01-01 | 2007-140-20-82.19 | 56/2009. (IV. 29.) FVM rendelet |
 | 2017-02-14 | 2007-140-20-82.20 | 6/2017. (II. 13.) FM rendelet |
 | 2018-12-07 | 2007-140-20-82.21 | 39/2018. (XII. 13.) AM rendelet |
+| 2019-03-09 | 2007-140-20-82.22 | 80/2016. (XII. 13.) FM rendelet |
