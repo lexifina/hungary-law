@@ -1,1 +1,3 @@
-## „(6) Amennyiben a jóváhagyást végző szervezet az (1) bekezdés szerinti kérelem vizsgálatának eredményeként megállapítja, hogy a támogatás igénybevételére jogosult szervezet nem felel meg minden feltételnek, vagy a sportfejlesztési program jóváhagyása a sportági keretösszegre figyelemmel nem lehetséges, úgy az (1) bekezdés szerinti kérelmet elutasítja, és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel. Az elutasítás tényét a jóváhagyást végző szervezet honlapján is közzéteszi.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

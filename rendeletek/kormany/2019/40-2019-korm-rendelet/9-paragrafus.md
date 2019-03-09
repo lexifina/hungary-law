@@ -1,13 +1,9 @@
-## 8. § Az R. 1. melléklete helyébe az 1. melléklet lép.
+## 8. §[^8]
 
-9. § (1) Az R.
+9. § (1)[^9]
 
-a) 2. § (3a) bekezdésében a „február 15. napjáig” szövegrész helyébe a „március 15. napjáig” szöveg,
+(2)[^10]
 
-b) 2. § (3b) bekezdésében a „támogatás, valamint” szövegrész helyébe a „támogatás, kiegészítő sportfejlesztési támogatás, valamint” szöveg
-
-## lép.
-
-(2)[^1]
-
-[^1]: A 9. § (2) bekezdése a 10. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § (2) bekezdése a 10. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.

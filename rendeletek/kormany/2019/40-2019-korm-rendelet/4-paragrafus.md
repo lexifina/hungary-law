@@ -1,1 +1,3 @@
-## „(6b) A (2), (4) vagy (6) bekezdés szerinti módosítási kérelemről a jóváhagyást végző szervezet a sportági keretösszegre figyelemmel dönt.”
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
