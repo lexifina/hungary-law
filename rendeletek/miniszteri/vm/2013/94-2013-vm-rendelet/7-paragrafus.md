@@ -1,6 +1,6 @@
-7. § (1)[^40] A kezességi díjtámogatásról a támogatástartalomról szóló igazolást a kezességvállaló intézmény állítja ki, és megküldi a kedvezményezett és – a támogatástartalom lekötése céljából – elektronikus úton a Kincstár részére.
+7. § (1)[^42] A kezességi díjtámogatásról a támogatástartalomról szóló igazolást a kezességvállaló intézmény állítja ki, és megküldi a kedvezményezett és – a támogatástartalom lekötése céljából – elektronikus úton a Kincstár részére.
 
-(2)[^41] E rendelet hatálybalépéséig megelőlegezett kezességi díjtámogatásról a kezességvállaló intézmény által kiállított támogatástartalomról szóló igazolást a kezességvállaló intézmény e rendelet hatálybalépését követő hatvan napon belül – de legkésőbb a vonatkozó támogatáslehívási kérelem benyújtását megelőzően – elektronikus úton megküldi a Kincstár részére a támogatástartalom lekötése céljából.
+(2)[^43]
 
-[^40]: A 7. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 62. § d) pontja szerint módosított szöveg.
-[^41]: A 7. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 62. § d) pontja szerint módosított szöveg.
+[^42]: A 7. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 62. § d) pontja szerint módosított szöveg.
+[^43]: A 7. § (2) bekezdését a 4/2019. (III. 6.) AM rendelet 4. § (5) bekezdés b) pontja hatályon kívül helyezte.
