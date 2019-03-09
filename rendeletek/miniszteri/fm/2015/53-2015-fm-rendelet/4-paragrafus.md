@@ -10,11 +10,13 @@ d) az elismert tevékenység keretében támogatási jogosultságonként legalá
 
 e)[^10] a 2016. évtől kezdődően a tárgyévet követő év február 15-ig a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon a személyi azonosításához szükséges adatokon túl nyilatkozni a c) és d) pontban foglalt feltételeknek a tárgyév alatti teljesítéséről, valamint arról, hogy élőmunka ráfordítási kötelezettségét a jogosult településen történő munkavégzéssel teljesítette.
 
+(1a)[^11] A dohánytermelő az (1) bekezdés e) pontja szerinti nyilatkozatot a 2019. évben március 18-ig teheti meg.
+
 (2) Ha a dohánytermelőt megillető támogatási jogosultságot töredék hektár figyelembevételével állapították meg, akkor az (1) bekezdés c) és d) pontjában foglalt éves kötelezettségeket is arányosan csökkentve kell a dohánytermelőnek teljesíteni.
 
 (3) Az (1) bekezdésben foglalt élőmunka ráfordítási, vagy élőmunka ráfordítási és árbevétel teljesítési kötelezettségét a dohánytermelő legfeljebb három, valamelyik jogosult településen mezőgazdasági tevékenységet folytató együttműködő termelővel megoszthatja, függetlenül attól, hogy az egységes kérelmet a családi gazdálkodó nyújtotta-e be. A megosztás legalább egy támogatási jogosultság vonatkozásában lehetséges azzal, hogy a megosztás következtében a dohánytermelőnek nem keletkezhet alacsonyabb élőmunka ráfordítási kötelezettsége, mint az együttműködő termelőknek.
 
-(4)[^11] A kötelezettség-megosztásra vonatkozó, az együttműködő termelő a (3) bekezdésben foglalt feltételek teljesítését igazoló adatait is tartalmazó bejelentőlapot és az átvállalt kötelezettségek megismerésére vonatkozó nyilatkozatát a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon a dohánytermelőnek és az együttműködő termelőnek 2015-ben szeptember 15. és október 7., a 2016. évtől kezdődően április 1. és április 30. közötti időszakban, közösen kell benyújtani a Kincstár részére. A jogszabályi előírásnak nem megfelelő kötelezettség-megosztási kérelemről a Kincstár a dohánytermelőt végzésben értesíti.
+(4)[^12] A kötelezettség-megosztásra vonatkozó, az együttműködő termelő a (3) bekezdésben foglalt feltételek teljesítését igazoló adatait is tartalmazó bejelentőlapot és az átvállalt kötelezettségek megismerésére vonatkozó nyilatkozatát a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon a dohánytermelőnek és az együttműködő termelőnek 2015-ben szeptember 15. és október 7., a 2016. évtől kezdődően április 1. és április 30. közötti időszakban, közösen kell benyújtani a Kincstár részére. A jogszabályi előírásnak nem megfelelő kötelezettség-megosztási kérelemről a Kincstár a dohánytermelőt végzésben értesíti.
 
 (5) A (3) bekezdés szerinti kötelezettség-megosztás esetén is köteles a dohánytermelő a szerkezetátalakítási program feltételeinek teljesítését igazolni, és a nem teljesítésből fakadó jogkövetkezményt viselni.
 
@@ -52,4 +54,5 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 
 [^9]: A 4. § (1) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 95. § a) pontja szerint módosított szöveg.
 [^10]: A 4. § (1) bekezdés e) pontja a 88/2016. (XII. 29.) FM rendelet 94. § c) pontja szerint módosított szöveg.
-[^11]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § d) pontja szerint módosított szöveg.
+[^11]: A 4. § (1a) bekezdését a 4/2019. (III. 6.) AM rendelet 5. § (1) bekezdése iktatta be.
+[^12]: A 4. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § d) pontja szerint módosított szöveg.
