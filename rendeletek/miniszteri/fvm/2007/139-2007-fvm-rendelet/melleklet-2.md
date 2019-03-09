@@ -26,6 +26,6 @@
 
 | 12 | növendék pulyka | 0,0067 |
 
-2. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^97]
+2. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^100]
 
-[^97]: A 2. számú melléklet a 80/2015. (XII. 4.) FM rendelet 8. § (1) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 6. § h) pontja, a 43/2017. (IX. 5.) FM rendelet 2. § a) pontja, a 35/2018. (XII. 6.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^100]: A 2. számú melléklet a 80/2015. (XII. 4.) FM rendelet 8. § (1) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 6. § h) pontja, a 43/2017. (IX. 5.) FM rendelet 2. § a) pontja, a 35/2018. (XII. 6.) AM rendelet 3. § a) pontja szerint módosított szöveg.
