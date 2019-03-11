@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1827-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-12-27 | 2018-1827-30-22.1 | 1827/2018. (XII. 27.) Korm. határozat |
+| 2019-03-11 | 2018-1827-30-22.2 | 1106/2019. (III. 11.) Korm. határozat |

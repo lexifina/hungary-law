@@ -2,7 +2,7 @@ A Kormány – figyelemmel a Magyarország Kormánya és Zalaegerszeg Megyei Jog
 
 1. egyetért a Modern Városok Program keretében a Hevesi Sándor Színház felújítása és korszerűsítése (a továbbiakban: Beruházás) előkészítésének, kiviteli terveinek (a továbbiakban: Beruházás előkészítése) Zalaegerszeg Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) általi megvalósításával és azzal, hogy a Beruházás előkészítése mindösszesen 255 358 000 forint összegű költségvetési támogatással valósuljon meg;
 
-2. egyetért azzal, hogy a Beruházás előkészítéséhez szükséges, 1. pont szerinti támogatás a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére kerüljön biztosításra az Önkormányzat részére;
+2.[^1] egyetért azzal, hogy a Beruházás előkészítéséhez szükséges, 1. pont szerinti támogatás a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére kerüljön biztosításra az Önkormányzat részére;
 
 3. felhívja a Miniszterelnökséget vezető minisztert, hogy a Beruházás előkészítése érdekében az 1. pont szerinti költségvetési támogatás biztosítására, a költségvetési támogatás felhasználására, valamint az elszámolás részletes feltételeinek meghatározására támogatói okiratot adjon ki az Önkormányzat részére, és a támogatói okirat kiadását követően a költségvetési támogatást – támogatási előlegként – folyósítsa az Önkormányzat részére;
 
@@ -23,3 +23,5 @@ Határidő: a kivitelezésre vonatkozó közbeszerzési eljárás lezárását k
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a támogatói okirat kiadásakor
+
+[^1]: A 2. pont az 1106/2019. (III. 11.) Korm. határozat 2. pontjával megállapított szöveg.
