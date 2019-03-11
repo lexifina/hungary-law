@@ -88,4 +88,13 @@ emberi erőforrások minisztere
 
 Határidő: 2018. december 31.
 
+9.[^2] a versenyképesség növelése céljából – figyelemmel a 2. pontra – egyetért a modern oktatási környezet kialakítására vonatkozó fejlesztési célokkal, amely érdekében felhívja az emberi erőforrások miniszterét és a Miniszterelnökséget vezető minisztert, hogy – a Budapesti Gazdasági Egyetem bevonásával – gondoskodjanak a fejlesztéshez szükséges beruházások megvalósítását szolgáló kormányzati intézkedések megtételéről.
+
+Felelős: emberi erőforrások minisztere
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
+
 [^1]: A 8. pontot az 1826/2018. (XII. 27.) Korm. határozat iktatta be.
+[^2]: A 9. pontot az 1106/2019. (III. 11.) Korm. határozat 1. pontja iktatta be.
