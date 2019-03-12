@@ -1,3 +1,5 @@
+## is érteni kell.
+
 ## 2. A technikai eszköz és a helymeghatározó eszköz alkalmazásának általános feltételei
 
 2. § (1) Az állományilletékes parancsnok rendelheti el a rendvédelmi szerv hivatásos állományú (a továbbiakban: hivatásos állomány) tagja vonatkozásában
