@@ -1,8 +1,8 @@
-59. § (1)[^74] A belügyminiszter által e rendeletben alapított, illetve adományozott díjakkal, kitüntető címekkel és egyéb elismerésekkel összefüggő kiadások fedezetét a költségvetés Belügyminisztérium fejezetében a minisztérium igazgatási költségvetésében kell tervezni.
+59. § (1)[^76] A belügyminiszter által e rendeletben alapított, illetve adományozott díjakkal, kitüntető címekkel és egyéb elismerésekkel összefüggő kiadások fedezetét a költségvetés Belügyminisztérium fejezetében a minisztérium igazgatási költségvetésében kell tervezni.
 
-(2)[^75]
+(2)[^77]
 
 (3) A 31. §-ban meghatározott pénzjutalmat a rendelet hatályba lépésétől függetlenül annak is ki kell fizetni, akinek 2012. évben esedékessé válik, illetve vált.
 
-[^74]: Az 59. § (1) bekezdése az 51/2014. (XI.26.) BM rendelet 17. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^75]: Az 59. § (2) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 13. pontja hatályon kívül helyezte.
+[^76]: Az 59. § (1) bekezdése az 51/2014. (XI.26.) BM rendelet 17. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^77]: Az 59. § (2) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 13. pontja hatályon kívül helyezte.
