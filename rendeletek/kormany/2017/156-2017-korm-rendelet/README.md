@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-156-20-
 | 2018-01-01 | 2017-156-20-22.3 | 393/2017. (XII. 13.) Korm. rendelet |
 | 2018-01-02 | 2017-156-20-22.4 | 2010: CXXX. törvény |
 | 2018-04-25 | 2017-156-20-22.5 | 78/2018. (IV. 20.) Korm. rendelet |
+| 2019-03-12 | 2017-156-20-22.6 | 5/2019. (III. 11.) AB határozat |

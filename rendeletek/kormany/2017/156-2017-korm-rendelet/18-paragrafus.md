@@ -2,7 +2,7 @@
 
 a) hon- és rendvédelmi, továbbá katonai nemzetbiztonsági feladatokat ellátó szervek, illetve tanúsított vállalatok részére történő kiszállítás, kivitel, újrakivitel, szolgáltatásnyújtás vagy azoktól történő beérkezés, behozatal, szolgáltatás igénybevétel;
 
-b)[^9] az eredeti szállító általi karbantartásra és javításra, valamint kiállításra, bemutatóra, tesztelésre, bevizsgálásra vonatkozó devizamentes, ideiglenes árumozgással járó kiszállítás, kivitel, újrakivitel, beérkezés, behozatal esetében.
+b)[^10] az eredeti szállító általi karbantartásra és javításra, valamint kiállításra, bemutatóra, tesztelésre, bevizsgálásra vonatkozó devizamentes, ideiglenes árumozgással járó kiszállítás, kivitel, újrakivitel, beérkezés, behozatal esetében.
 
 (2) Az általános forgalmi engedély hatályos tevékenységi engedély birtokában használható fel.
 
@@ -14,4 +14,4 @@ b)[^9] az eredeti szállító általi karbantartásra és javításra, valamint 
 
 (6) A Hatóság az általános forgalmi engedélyt honlapján magyar és angol nyelven teszi közzé.
 
-[^9]: A 18. § (1) bekezdés b) pontja a 78/2018. (IV. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 18. § (1) bekezdés b) pontja a 78/2018. (IV. 20.) Korm. rendelet 3. §-ával megállapított szöveg.

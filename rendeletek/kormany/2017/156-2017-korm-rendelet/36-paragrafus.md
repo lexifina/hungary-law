@@ -34,10 +34,10 @@ e) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 
 f) a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2016. május 27-i 2016/970/EU és 2017. március 7-i 2017/433/EU bizottsági irányelveknek
 
-g)[^12] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2017. november 8-i (EU) 2017/2054 bizottsági irányelvnek
+g)[^13] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékek jegyzéke tekintetében történő módosításáról szóló, 2017. november 8-i (EU) 2017/2054 bizottsági irányelvnek
 
 ## való megfelelést szolgálja.
 
 (3) A rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti bejelentése megtörtént.
 
-[^12]: A 36. § (2) bekezdés g) pontját a 78/2018. (IV. 20.) Korm. rendelet 4. §-a iktatta be.
+[^13]: A 36. § (2) bekezdés g) pontját a 78/2018. (IV. 20.) Korm. rendelet 4. §-a iktatta be.

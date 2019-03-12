@@ -28,7 +28,7 @@ b) az engedély kiadását követően olyan változás áll be, amely alapján a
 
 (3) A Hatóság a kiadott engedélyt visszavonhatja, ha a vállalkozás e rendeletben foglalt előírásokat, az engedélyben meghatározott feltételeket vagy a kereskedelemre vonatkozó jogszabályi rendelkezéseket megsérti.
 
-(4) Az (1) bekezdés c) és d) pontjában meghatározott esetekben, illetve az engedély ezek alapján történő visszavonása esetén a Hatóság a döntésében az indokolást mellőzi.
+(4)[^6]
 
 (5) A Hatóság az (1) bekezdés f) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
 
@@ -43,3 +43,5 @@ c) a tárgyalási engedély vagy a forgalmi engedély kiadását követően olya
 (7) A Hatóság a felfüggesztett hatályú engedélyt visszavonja, ha a felfüggesztésre okot adó körülmény a (6) bekezdés szerinti időtartam lejártát követően is fennáll.
 
 (8) Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek jogszabályban meghatározott tevékenységének ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
+
+[^6]: A 9. § (4) bekezdését az Alkotmánybíróság 5/2019. (III. 11.) AB határozat 1. pontjával megsemmisítette 2019. március 12. napjával.
