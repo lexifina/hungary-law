@@ -1,14 +1,10 @@
-## 1. a szegedi sportfejlesztések megvalósítása körében egyetért a szegedi atlétikai központ (a továbbiakban: Beruházás) előkészítésére vonatkozó fejlesztési koncepcióval, amely a Szeged belterület 25853/1 helyrajzi számú ingatlanon, az ingatlan állami tulajdonba kerülésével, állami beruházásként kerül megvalósításra;
+## 1.[^1]
 
-## 2. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján tegye meg a szükséges intézkedéseket az 1. pont szerinti ingatlan ingyenes, per-, teher- és igénymentes állami tulajdonba kerülése érdekében, majd gondoskodjon annak a Nemzeti Sportközpontok (a továbbiakban: NSK) részére történő vagyonkezelésbe adásáról;
+## 2.[^2]
 
-## Felelős: nemzeti fejlesztési miniszter
+## 3.[^3]
 
-## Határidő: azonnal
-
-## 3. egyetért azzal, hogy a Beruházás építtetője és a megvalósult Beruházás vagyonkezelője az NSK legyen, amellyel összefüggésben – kizárólag a Beruházás megvalósításának tekintetében – mentesíti az NSK-t a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontjában foglalt tilalom alól;
-
-## 4. egyetért azzal, hogy a Beruházás előkészítése, az engedélyezési és kivitelezési terveinek elkészítése 60 000 000 forint összegű költségvetési támogatással valósuljon meg;
+## 4.[^4] egyetért azzal, hogy a szegedi atlétikai központ (a továbbiakban: Beruházás) előkészítése, az engedélyezési és kivitelezési terveinek elkészítése 60 000 000 forint összegű költségvetési támogatással valósuljon meg;
 
 ## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a Beruházás megvalósítása érdekében 60 000 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére, a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 16. Nemzeti Sportközpontok cím javára, az 1. melléklet szerint;
 
@@ -20,11 +16,7 @@
 
 ## Határidő: azonnal
 
-## 6. felhívja a nemzeti fejlesztési minisztert, hogy az NSK útján, a Magyar Atlétikai Szövetség bevonásával tegye meg a szükséges intézkedéseket a Beruházás előkészítése, az engedélyezési és kivitelezési terveinek elkészítése érdekében, továbbá a kivitelezési tervek rendelkezésre állását követően mutassa be a Beruházás forrásszükségletét a Kormány részére.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: a kivitelezési tervek rendelkezésre állását követően azonnal
+## 6.[^5]
 
 1. melléklet az 1114/2018. (III. 19.) Korm. határozathoz
 
@@ -95,3 +87,9 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pontot az 1111/2019. (III. 12.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 2. pontot az 1111/2019. (III. 12.) Korm. határozat 3. pontja visszavonta.
+[^3]: A 3. pontot az 1111/2019. (III. 12.) Korm. határozat 3. pontja visszavonta.
+[^4]: A 4. pont az 1111/2019. (III. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^5]: A 6. pontot az 1111/2019. (III. 12.) Korm. határozat 3. pontja visszavonta.
