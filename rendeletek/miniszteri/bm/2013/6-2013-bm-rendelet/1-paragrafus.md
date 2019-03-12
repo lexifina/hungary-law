@@ -26,7 +26,7 @@ c) igényjogosult:
 
 ca)[^3] a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja,
 
-cb)[^4] a rendvédelmi feladatokat ellátó szervvel közalkalmazotti jogviszonyban álló személy,
+cb)[^4] a rendvédelmi feladatokat ellátó szervvel rendvédelmi igazgatási szolgálati jogviszonyban álló személy,
 
 cc) a rá vonatkozó mértékben a nyugállományba helyezett személy, valamint
 
@@ -42,7 +42,7 @@ f) személyi állomány:
 
 fa)[^8] a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, valamint
 
-fb)[^9] a rendvédelmi feladatokat ellátó szervvel közalkalmazotti jogviszonyban álló személy;
+fb)[^9] a rendvédelmi feladatokat ellátó szervvel rendvédelmi igazgatási szolgálati jogviszonyban álló személy;
 
 g)[^10] személyügyi szolgálat: a rendvédelmi feladatokat ellátó szervnél vagy annak szervezeti egységénél működő személyügyi feladatokat ellátó munkaszervezet,
 
@@ -51,11 +51,11 @@ h)[^11] központi gondozott: a hősi halottá vagy a szolgálat halottjává, va
 [^1]: Az 1. § a) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 29/2016. (VII. 15.) BM rendelet 25. §-ával megállapított szöveg.
 [^3]: Az 1. § c) pont ca) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § c) pont cb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § c) pont cb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja, a 6/2019. (III. 11.) BM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^5]: Az 1. § c) pont cd) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § b) pontja szerint módosított szöveg.
 [^6]: Az 1. § d) pontja az 54/2015. (X. 5.) BM rendelet 1. §-ával megállapított szöveg.
 [^7]: Az 1. § e) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § f) pont fa) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^9]: Az 1. § f) pont fb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § f) pont fb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja, a 6/2019. (III. 11.) BM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^10]: Az 1. § g) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^11]: Az 1. § h) pontját az 54/2015. (X. 5.) BM rendelet 2. §-a iktatta be.
