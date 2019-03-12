@@ -2,13 +2,15 @@
 
 3. § (1) A gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek minősülnek – a (2)–(5) bekezdésben meghatározott kivételekkel – az 1. mellékletben meghatározott ügyintézői munkakörök.
 
-(2) A rendőrség szerveinél, a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek – kizárólag a bűnügyi és a rendészeti szakterületeken meglévő – csoportvezető, főelőadó, főrevizor, jogtanácsos, kiemelt főelőadó és revizor munkakörök minősülnek.
+(2)[^13]
 
-(3) A büntetés-végrehajtási szervnél a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek a 2. mellékletben meghatározott munkakörök közül a jogtanácsos, a csoportvezető, az ellenőr, a főelőadó, a referens, a főreferens, a tanár, a főtanár és az osztályvezető-helyettes munkakörök minősülnek.
+(3)[^14]
 
-(4)[^6] A Bevándorlási és Menekültügyi Hivatal befogadó állomása esetében a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek minősülnek a szociális munkás, valamint a pénzügyi ügyintéző munkakörök.
+(4)[^15] A Bevándorlási és Menekültügyi Hivatal befogadó állomása esetében a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek minősülnek a szociális munkás, valamint a pénzügyi ügyintéző munkakörök.
 
-(5)[^7] A hivatásos katasztrófavédelmi szerveknél a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek – kizárólag a polgári védelmi és a tűzoltó szakterületeken meglévő – csoportvezető, főelőadó, jogtanácsos, kiemelt főelőadó munkakörök minősülnek.
+(5)[^16]
 
-[^6]: A 3. § (4) bekezdése az 58/2016. (XII. 22.) BM rendelet 28. § c) pontja szerint módosított szöveg.
-[^7]: A 3. § (5) bekezdése a 46/2012. (IX. 20.) BM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 3. § (2) bekezdését a 4/2019. (III. 11.) BM rendelet 36. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^14]: A 3. § (3) bekezdését a 4/2019. (III. 11.) BM rendelet 36. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^15]: A 3. § (4) bekezdése az 58/2016. (XII. 22.) BM rendelet 28. § c) pontja szerint módosított szöveg.
+[^16]: A 3. § (5) bekezdését a 4/2019. (III. 11.) BM rendelet 36. § (1) bekezdés c) pontja hatályon kívül helyezte.

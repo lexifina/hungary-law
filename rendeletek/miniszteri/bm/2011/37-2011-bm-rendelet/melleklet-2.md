@@ -478,6 +478,6 @@
 
 ## 6. Ha a rendelet nem tartalmazza a munkáltató által alkalmazni kívánt munkakörre vonatkozóan a megfelelő munkaköri megnevezést, akkor a munkakör ellátására alkalmazni kívánt közalkalmazottat a hasonló munkaköri feladatokat igénylő, a rendeletben szereplő munkakörbe kell besorolni.
 
-2. melléklet a 37/2011. (X. 28.) BM rendelethez[^18]
+2. melléklet a 37/2011. (X. 28.) BM rendelethez[^29]
 
-[^18]: A 2. melléklet a 37/2015. (VI. 16.) BM rendelet 47. §-a, a 37/2018. (XII. 28.) BM rendelet 14. §-a szerint módosított szöveg.
+[^29]: A 2. mellékletet a 4/2019. (III. 11.) BM rendelet 36. § (1) bekezdés f) pontja hatályon kívül helyezte.

@@ -4,14 +4,18 @@
 
 2. § (1) Az e rendelet hatálya alá tartozó munkáltatóknál a közalkalmazotti jogviszony létesítésének feltétele a magyar nyelvtudás, valamint a magasabb vezetői beosztások és a vezetői beosztások esetében a magyar állampolgárság.
 
-(2) Az Országos Rendőr-főkapitányságon és alárendelt szerveinél – az ügyintézői munkakörök, az ügyviteli munkakörök, a biztonságtechnikai előadói munkakör, a fegyveres biztonsági őri munkakör, a helikopter-főszerelői munkakör, a helikopterszerelői munkakör, valamint a híradástechnikai szerelői munkakör esetében – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
+(2)[^8]
 
-(3) A Nemzeti Védelmi Szolgálatnál, valamint a Terrorelhárítási Központnál – valamennyi munkakör esetében – a közalkalmazotti jogviszony létesítésének általános feltétele a magyar állampolgárság.
+(3)[^9]
 
-(4) A büntetés-végrehajtási szervnél – az őrzésvédelmi, az igazgatási és az informatikai szakterületen foglalkoztatott közalkalmazottak esetében – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
+(4)[^10]
 
-(5)[^5] A Bevándorlási és Menekültügyi Hivatal befogadó állomásánál – a fizikai munkakörök kivételével – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
+(5)[^11] A Bevándorlási és Menekültügyi Hivatal befogadó állomásánál – a fizikai munkakörök kivételével – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
 
-(6) Az 1. § d)–f) pontjában felsorolt munkáltatóknál – a nemzetbiztonsági ellenőrzés alá tartozó munkakörök esetében – a közalkalmazotti jogviszony létesítésének feltétele a magyar állampolgárság.
+(6)[^12]
 
-[^5]: A 2. § (5) bekezdése az 58/2016. (XII. 22.) BM rendelet 28. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdését a 4/2019. (III. 11.) BM rendelet 36. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^9]: A 2. § (3) bekezdését a 4/2019. (III. 11.) BM rendelet 36. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^10]: A 2. § (4) bekezdését a 4/2019. (III. 11.) BM rendelet 36. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^11]: A 2. § (5) bekezdése az 58/2016. (XII. 22.) BM rendelet 28. § b) pontja szerint módosított szöveg.
+[^12]: A 2. § (6) bekezdését a 4/2019. (III. 11.) BM rendelet 36. § (1) bekezdés b) pontja hatályon kívül helyezte.
