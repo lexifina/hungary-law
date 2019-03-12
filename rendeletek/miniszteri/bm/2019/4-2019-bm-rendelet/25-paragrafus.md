@@ -1,0 +1,3 @@
+25. § (1) Ha a rendvédelmi alkalmazott csecsemőgondozási díj, gyermekgondozási segély, gyermekgondozási díj igénybevétele, tartós külszolgálat teljesítése miatt vagy egyéb okból három hónapot meghaladóan fizetés nélküli szabadságot vesz igénybe, vagy három hónapot meghaladó időtartamban betegség miatt keresőképtelenné válik, a tárgyévben teljesítendő továbbképzési kötelezettséget a munkáltatói jogkör gyakorlója felülvizsgálhatja.
+
+(2) Ha a rendvédelmi alkalmazottnak a rá irányadó öregségi nyugdíjkorhatár eléréséig öt évnél rövidebb idő van hátra, a munkáltatói jogkör gyakorlója mentesítheti a rendvédelmi alkalmazottat a továbbképzési kötelezettség alól.
