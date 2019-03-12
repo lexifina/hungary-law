@@ -1,4 +1,4 @@
-## 4/A. §[^1] A 3. § (1) bekezdésében és a 4. § (1) bekezdésében foglaltaktól eltérően a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 54/2016. (XII. 22.) BM rendelet 5. § (2) bekezdésében foglalt esetben az állományilletékes parancsnok az állománytáblázatot saját hatáskörben módosítja.
+## 4/A. §[^4] A 3. § (1) bekezdésében és a 4. § (1) bekezdésében foglaltaktól eltérően a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 54/2016. (XII. 22.) BM rendelet 5. § (2) bekezdésében foglalt esetben az állományilletékes parancsnok az állománytáblázatot saját hatáskörben módosítja.
 
 5. § (1) A rendvédelmi szerv központi szerve a rendvédelmi szerv egészére kiterjedő összesítő adatokat tartalmazó szervezeti állománytáblázatot vezet. A szervezeti állománytáblázatot elektronikus nyilvántartási rendszerben folyamatosan, havonta frissítve kell vezetni.
 
@@ -14,4 +14,4 @@ bb) a tiszti és tiszthelyettesi beosztási osztályba tartozó szolgálati beos
 
 bc) a beosztotti munkakörök megnevezését, a hozzárendelt jogviszonyt, a munkakör jogviszonynak megfelelő besorolását, valamint a rendszeresített és ténylegesen betöltött státuszok számát.
 
-[^1]: A 4/A. §-t az 55/2016. (XII. 22.) BM rendelet 8. §-a iktatta be.
+[^4]: A 4/A. §-t az 55/2016. (XII. 22.) BM rendelet 8. §-a iktatta be.

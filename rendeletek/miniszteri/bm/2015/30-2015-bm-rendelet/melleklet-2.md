@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^9]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^12]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -1124,4 +1124,4 @@ MRFK: Megyei Rendőr-főkapitányság
 
 RRI: Repülőtéri Rendőr Igazgatóság
 
-[^9]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
