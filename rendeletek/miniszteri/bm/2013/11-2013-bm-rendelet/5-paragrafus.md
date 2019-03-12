@@ -1,4 +1,4 @@
-5. § (1)[^8] A nyugállományú a nyugállományba vonulása előtti utolsó szolgálati helye szerinti állományilletékes parancsnoknál terjesztheti elő a fogászati költségtérítés iránti kérelmét. Ha az utolsó szolgálati hely jogutód nélkül megszűnt, a kérelmet elintézésre az állomány szerinti rendvédelmi szerv országos parancsnokságához, ennek hiányában a belügyminiszterhez kell benyújtani.
+5. § (1)[^11] A nyugállományú a nyugállományba vonulása előtti utolsó szolgálati helye szerinti állományilletékes parancsnoknál terjesztheti elő a fogászati költségtérítés iránti kérelmét. Ha az utolsó szolgálati hely jogutód nélkül megszűnt, a kérelmet elintézésre az állomány szerinti rendvédelmi szerv országos parancsnokságához, ennek hiányában a belügyminiszterhez kell benyújtani.
 
 (2) A kérelemhez mellékelni kell a fogászati ellátást végző orvos igazolását az elvégzett beavatkozásról, valamint az (1) bekezdésben meghatározott belügyi szerv nevére és címére kiállított, a nyugállományú nevével ellátott, a beavatkozás szerint részletezett számlát.
 
@@ -6,4 +6,4 @@
 
 (4) Nem jogosult e rendelet szerinti támogatásra a nyugállományú, akinek a szolgálati viszonya 2012. január 1-jét megelőzően, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 53. § b), f) vagy g) pontja, az 56. § (2) bekezdés b) pontja vagy az 59. § (1) bekezdés d) pontja miatt szűnt meg.
 
-[^8]: Az 5. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 71. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 71. § b) pontja szerint módosított szöveg.
