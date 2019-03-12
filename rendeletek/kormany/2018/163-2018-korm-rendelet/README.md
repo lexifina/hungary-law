@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-163-20-
 | 2018-11-08 | 2018-163-20-22.4 | 1/2018. (XI. 15.) KKM határozat |
 | 2018-12-28 | 2018-163-20-22.5 | 321/2018. (XII. 27.) Korm. rendelet |
 | 2019-01-01 | 2018-163-20-22.6 | 319/2018. (XII. 27.) Korm. rendelet |
+| 2019-03-12 | 2018-163-20-22.7 | 42/2019. (III. 11.) Korm. rendelet |
