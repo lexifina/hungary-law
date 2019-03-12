@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-23-20-0
 | 2016-07-01 | 1997-23-20-0A.9 | 20/2016. (VI. 9.) BM rendelet |
 | 2018-01-01 | 1997-23-20-0A.10 | 40/2017. (XII. 29.) BM rendelet |
 | 2019-01-01 | 1997-23-20-0A.11 | 21/2000. (VIII. 23.) BM-IM-TNM együttes rendelet |
+| 2019-03-12 | 1997-23-20-0A.12 | 6/2019. (III. 11.) BM rendelet |

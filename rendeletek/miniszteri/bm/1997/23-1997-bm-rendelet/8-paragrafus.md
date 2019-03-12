@@ -1,8 +1,8 @@
 ## Kizárás
 
-8. § (1)[^12] Az eljárás lefolytatásával megbízott személy, a kijelölt bizottság tagja (a továbbiakban együtt: eljáró személy) a Hszt. szerinti közeli hozzátartozója ügyében nem járhat el.
+8. § (1)[^15] Az eljárás lefolytatásával megbízott személy, a kijelölt bizottság tagja (a továbbiakban együtt: eljáró személy) a Hszt. szerinti közeli hozzátartozója ügyében nem járhat el.
 
-(2)[^13] Az állományilletékes parancsnok határozatával szemben benyújtott panasz elbírálásában nem vehet részt
+(2)[^16] Az állományilletékes parancsnok határozatával szemben benyújtott panasz elbírálásában nem vehet részt
 
 a) az első fokú eljárás lefolytatásában részt vevő személy;
 
@@ -14,8 +14,8 @@ d) az, aki az ügyben szakértőként vett részt.
 
 (3) Az eljárásban nem vehet részt az, akitől az ügy tárgyilagos megítélése egyéb okból nem várható el.
 
-(4)[^14] A 14/A. § (1) bekezdésében meghatározott esetben, ha a másodfokú eljárás elbírálására jogosult állományilletékes parancsnok az első fokú határozatot hozó állományilletékes parancsnok elöljárója, az országos parancsnok egy másik szervet jelöl ki a másodfokú határozat meghozatalára, vagy ő maga hozza meg az adott ügyben a másodfokú határozatot.
+(4)[^17] A 14/A. § (1) bekezdésében meghatározott esetben, ha a másodfokú eljárás elbírálására jogosult állományilletékes parancsnok az első fokú határozatot hozó állományilletékes parancsnok elöljárója, az országos parancsnok egy másik szervet jelöl ki a másodfokú határozat meghozatalára, vagy ő maga hozza meg az adott ügyben a másodfokú határozatot.
 
-[^12]: A 8. § (1) bekezdése a 34/2014. (IV. 24.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^13]: A 8. § (2) bekezdése a 34/2014. (IV. 24.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^14]: A 8. § (4) bekezdését a 34/2014. (IV. 24.) BM rendelet 3. § (2) bekezdése iktatta be.
+[^15]: A 8. § (1) bekezdése a 34/2014. (IV. 24.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^16]: A 8. § (2) bekezdése a 34/2014. (IV. 24.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^17]: A 8. § (4) bekezdését a 34/2014. (IV. 24.) BM rendelet 3. § (2) bekezdése iktatta be.
