@@ -2,7 +2,7 @@
 
 ## Általános rendelkezések
 
-3. § (1)[^12] A szolgálati, munkaköri követelmények érvényre juttatása érdekében a személyi állomány tagja hivatásos szolgálatra való alkalmasságát, egészségi, pszichikai és fizikai állapotát a szolgálati viszony, illetve munkaköri alkalmasságát közalkalmazotti, kormánytisztviselői, illetve köztisztviselői jogviszony létesítését megelőzően és annak fennállása alatt rendszeresen vizsgálni és véleményezni kell (a továbbiakban együtt: alkalmassági vizsgálat). A rendészeti oktatási intézményekbe jelentkezők számára előírt követelményeknek való megfelelés megállapítása érdekében is vizsgálni kell az alkalmasságot.
+3. § (1)[^12] A szolgálati, munkaköri követelmények érvényre juttatása érdekében a személyi állomány tagja hivatásos szolgálatra való alkalmasságát, egészségi, pszichikai és fizikai állapotát a szolgálati viszony, illetve munkaköri alkalmasságát rendvédelmi igazgatási szolgálati jogviszony létesítését megelőzően és annak fennállása alatt rendszeresen vizsgálni és véleményezni kell (a továbbiakban együtt: alkalmassági vizsgálat). A rendészeti oktatási intézményekbe jelentkezők számára előírt követelményeknek való megfelelés megállapítása érdekében is vizsgálni kell az alkalmasságot.
 
 (2)[^13] Az egészségi és pszichikai alkalmassági vizsgálatokat a rendvédelmi szerv egészségügyi és pszichológiai szolgálata, az országos parancsnoksággal rendelkező rendvédelmi szervek vonatkozásában az országos parancsnokság egészségügyi és pszichológiai szakirányító szerve által kidolgozott, és a Belügyminisztérium Személyügyi Főosztály Egészségügyi Koordinációs Osztály (a továbbiakban: BM EKO) vezetője által jóváhagyott szakmai protokoll szerint kell végezni. Az egészségügyi és pszichológiai szakterület szakirányító szerve a szakmai és módszertani előírások figyelembevételével biztosítja az egységes szakmai elvek, módszerek és kritériumok érvényre juttatását. Az egészségi alkalmasságot orvos, a pszichikai alkalmasságot pszichológus, a fizikai alkalmasságot testnevelési, vagy sportszakmai szakképesítéssel, vagy legalább 2 év, a fizikai alkalmasság felmérésében szerzett gyakorlattal rendelkező személy (a továbbiakban: testnevelési vagy sportszakmai szakképesítéssel rendelkező munkatárs) bírálja el.
 
@@ -16,7 +16,7 @@
 
 (7)[^17] Az Országgyűlési Őrség hivatásos állománya vonatkozásában az egészségi és pszichikai alkalmassági vizsgálatokat a (2) bekezdésben meghatározottak szerint a rendőrség vonatkozásában jóváhagyott szakmai protokoll szerint kell elvégezni. Az Országgyűlési Őrség hivatásos állománya vonatkozásában a (6) bekezdésben meghatározott másodfokú vizsgálatot – a rendőrséggel kötött megállapodás alapján –, térítés ellenében, a miniszter által az ORFK állományából kijelölt orvosok és pszichológusok végzik.
 
-[^12]: A 3. § (1) bekezdése a 10/2010. (XII. 22.) BM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdése a 6/2019. (III. 11.) BM rendelet 2. § d) pontja szerint módosított szöveg.
 [^13]: A 3. § (2) bekezdése a 67/2011. (XII. 30.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^14]: A 3. § (3) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § l) pontja szerint módosított szöveg.
 [^15]: A 3. § (4) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja szerint módosított szöveg.

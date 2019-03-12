@@ -1,4 +1,4 @@
-17. §[^49] (1) A fizikai alkalmasság vizsgálatára szolgáló mozgásformák az IV. korcsoportban a következők:
+17. §[^50] (1) A fizikai alkalmasság vizsgálatára szolgáló mozgásformák az IV. korcsoportban a következők:
 
 a) mellső fekvőtámaszban karhajlítás-nyújtás,
 
@@ -20,4 +20,4 @@ b) „Fizikailag alkalmatlan”.
 
 (5) Az egyes mozgásformák leírását a 10. melléklet tartalmazza.
 
-[^49]: A 17. §-t a 67/2011. (XII. 30.) BM rendelet 24. § c) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.
+[^50]: A 17. §-t a 67/2011. (XII. 30.) BM rendelet 24. § c) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.

@@ -12,17 +12,17 @@ b) a szolgálati lőfegyver ideiglenes bevonása, a szolgálati-, munkabalesetek
 
 c) a közlekedés-pszichológiai vizsgálat követelményeinek meghatározása és az eljárás rendje tekintetében az a) pontban meghatározott szervek hivatásos állományú tagjaira;
 
-d)[^3] az alkalmasság elbírálásának eljárási rendje tekintetében az Országgyűlési Őrség kivételével az aa) pontban meghatározott szervek közalkalmazotti, kormánytisztviselői, köztisztviselői állományára, illetve a közalkalmazotti, kormánytisztviselői, köztisztviselői állományba pályázókra a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabály alapján végzett munkaköri alkalmassági vizsgálat vonatkozásában.
+d)[^3] az alkalmasság elbírálásának eljárási rendje tekintetében az Országgyűlési Őrség kivételével az aa) pontban meghatározott szervek rendvédelmi igazgatási alkalmazotti (a továbbiakban: rendvédelmi alkalmazotti) állományára, illetve a közalkalmazotti, kormánytisztviselői, köztisztviselői állományba pályázókra a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabály alapján végzett munkaköri alkalmassági vizsgálat vonatkozásában.
 
 (2)[^4] A rendelet hatálya kiterjed az egészségügyi alapellátás tekintetében:
 
-a)[^5] az Országgyűlési Őrség kivételével a rendvédelmi szervek és a polgári nemzetbiztonsági szolgálatok közalkalmazottaira, köztisztviselőire és kormánytisztviselőire;
+a)[^5] az Országgyűlési Őrség kivételével a rendvédelmi szervek és a belügyminiszter irányítása alatt álló polgári nemzetbiztonsági szolgálatok rendvédelmi alkalmazottaira, valamint a polgári nemzetbiztonsági szolgálatok közalkalmazottaira, köztisztviselőire és kormánytisztviselőire;
 
-b)[^6] a hivatásos, a közalkalmazotti, a köztisztviselői vagy a kormánytisztviselői állományból nyugállományba helyezettekre, valamint szolgálati járandóságra jogosultakra, az Országgyűlési Őrség esetében a hivatásos állományból nyugállományba helyezettekre.
+b)[^6] a hivatásos, a rendvédelmi alkalmazotti, a közalkalmazotti, a köztisztviselői vagy a kormánytisztviselői állományból nyugállományba helyezettekre, valamint szolgálati járandóságra jogosultakra, az Országgyűlési Őrség esetében a hivatásos, a rendvédelmi alkalmazotti állományból nyugállományba helyezettekre.
 
 [^1]: Az 1. § (1) bekezdés a) pont aa) alpontja az 56/2012. (XI. 22.) BM rendelet 159. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pont ab) alpontja a 31/2012. (VI. 28.) BM rendelet 6. §-a és 8. §-a, a 20/2018. (VI. 29.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés d) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (2) bekezdése, az 56/2012. (XI. 22.) BM rendelet 159. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés d) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (2) bekezdése, az 56/2012. (XI. 22.) BM rendelet 159. § b) pontja szerint módosított szöveg. [Az 1. § (1) bekezdés d) pontjának a 6/2019. (III. 11.) BM rendelet 2. § a) pontjával elrendelt módosítása, amely szerint a „közalkalmazotti, kormánytisztviselői, köztisztviselői állományába” szövegrész helyébe a „rendvédelmi alkalmazotti állományába” szöveg lép, nem vezethető át.]
 [^4]: Az 1. § (2) bekezdése a 10/2010. (XII. 22.) BM rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. § (2) bekezdés a) pontja az 56/2012. (XI. 22.) BM rendelet 159. § c) pontja szerint módosított szöveg.
-[^6]: Az 1. § (2) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § a) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § d) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés a) pontja az 56/2012. (XI. 22.) BM rendelet 159. § c) pontja, a 6/2019. (III. 11.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § a) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § d) pontja, a 6/2019. (III. 11.) BM rendelet 2. § c) pontja szerint módosított szöveg.

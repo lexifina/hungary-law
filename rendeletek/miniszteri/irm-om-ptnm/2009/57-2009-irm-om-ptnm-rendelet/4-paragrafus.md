@@ -18,7 +18,7 @@ h) speciális szolgálati beosztásba helyezés előtt,
 
 i) külföldi szolgálatra vezénylést megelőzően és azt követően,
 
-j) közalkalmazotti, illetve közszolgálati jogviszony létesítése előtt, és fennállása alatt,
+j)[^20] rendvédelmi igazgatási szolgálati jogviszony létesítése előtt, és fennállása alatt,
 
 k) e rendeletben meghatározott esetekben soron kívül.
 
@@ -26,3 +26,4 @@ k) e rendeletben meghatározott esetekben soron kívül.
 
 [^18]: A 4. § (1) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 2. §-ával megállapított szöveg.
 [^19]: A 4. § (1) bekezdés e) pontja a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés j) pontja a 6/2019. (III. 11.) BM rendelet 2. § e) pontja szerint módosított szöveg.
