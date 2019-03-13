@@ -1,6 +1,6 @@
-101/A. §[^401] (1)[^402] A Kormány egyedi határozatán alapuló, vissza nem térítendő költségvetési támogatásra – a Kormány eltérő rendelkezése hiányában – e fejezet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
+101/A. §[^403] (1)[^404] A Kormány egyedi határozatán alapuló, vissza nem térítendő költségvetési támogatásra – a Kormány eltérő rendelkezése hiányában – e fejezet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(1a)[^403] Az (1) bekezdés szerinti támogatásra a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 3. § (1b) bekezdését minden esetben, más rendelkezéseit abban az esetben kell alkalmazni, ha e § eltérően nem rendelkezik.
+(1a)[^405] Az (1) bekezdés szerinti támogatásra a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 3. § (1b) bekezdését minden esetben, más rendelkezéseit abban az esetben kell alkalmazni, ha e § eltérően nem rendelkezik.
 
 (2) A támogatási döntés meghozatalához nem szükséges
 
@@ -50,19 +50,19 @@ e) a 76. § (1) bekezdés e) és i) pontját nem kell alkalmazni.
 
 (10) A kedvezményezett a támogatott tevékenység részletes bemutatását és a 76. § (1) bekezdés d) pontja szerinti költségtervet a támogatói okirat kiadásától számított hatvan napon belül küldi meg a támogatónak.
 
-(10a)[^404] A támogatási előlegként nyújtott költségvetési támogatást – a Kormány eltérő rendelkezése hiányában – a Kormány egyedi határozatának közzétételét követő tizenöt napon belül kell folyósítani.
+(10a)[^406] A támogatási előlegként nyújtott költségvetési támogatást – a Kormány eltérő rendelkezése hiányában – a Kormány egyedi határozatának közzétételét követő tizenöt napon belül kell folyósítani.
 
 (11) A kedvezményezett a megvalósításba a támogató előzetes tájékoztatása esetén vonhat be közreműködőket.
 
 (12) Az e § szerinti költségvetési támogatásokra a 81. § d) pontját és a 85. § (3) bekezdés első mondatát nem kell alkalmazni.
 
-(13)[^405] Az e § szerinti költségvetési támogatásokra a 95. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a Kormány egyedi határozatában meghozott támogatási döntésének eredeti célját egyedi határozatában utóbb módosítja, a támogatói okirat tartalmát a módosított kormányhatározatban foglaltaknak megfelelően módosítani kell.
+(13)[^407] Az e § szerinti költségvetési támogatásokra a 95. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a Kormány egyedi határozatában meghozott támogatási döntésének eredeti célját egyedi határozatában utóbb módosítja, a támogatói okirat tartalmát a módosított kormányhatározatban foglaltaknak megfelelően módosítani kell.
 
-(14)[^406] A (13) bekezdést a Kormány egyedi határozatában meghozott támogatási döntését módosító határozatának (a továbbiakban: módosító kormányhatározat) megjelenését megelőzően létrejött jogviszonyokra abban az esetben kell alkalmazni, ha a kedvezményezett a támogatott tevékenység megvalósítását és a részére támogatási előlegként nyújtott költségvetési támogatás felhasználását a módosító kormányhatározat megjelenésének időpontjában még nem kezdte meg, amely tényről a kedvezményezett a támogató felszólítását követően haladéktalanul, írásban köteles nyilatkozni. A nyilatkozattétel felszólítás ellenére való elmaradása esetén a támogató a jogosulatlanul igénybe vett támogatás jogkövetkezményeit alkalmazza.
+(14)[^408] A (13) bekezdést a Kormány egyedi határozatában meghozott támogatási döntését módosító határozatának (a továbbiakban: módosító kormányhatározat) megjelenését megelőzően létrejött jogviszonyokra abban az esetben kell alkalmazni, ha a kedvezményezett a támogatott tevékenység megvalósítását és a részére támogatási előlegként nyújtott költségvetési támogatás felhasználását a módosító kormányhatározat megjelenésének időpontjában még nem kezdte meg, amely tényről a kedvezményezett a támogató felszólítását követően haladéktalanul, írásban köteles nyilatkozni. A nyilatkozattétel felszólítás ellenére való elmaradása esetén a támogató a jogosulatlanul igénybe vett támogatás jogkövetkezményeit alkalmazza.
 
-[^401]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^402]: Az Ávr. 101/A. § (1) bekezdése a 140/2018. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^403]: Az Ávr. 101/A. § (1a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^404]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.
-[^405]: Az Ávr. 101/A. § (13) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.
-[^406]: Az Ávr. 101/A. § (14) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.
+[^403]: Az Ávr. 101/A. §-át a 425/2016. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^404]: Az Ávr. 101/A. § (1) bekezdése a 140/2018. (VII. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^405]: Az Ávr. 101/A. § (1a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^406]: Az Ávr. 101/A. § (10a) bekezdését a 140/2018. (VII. 26.) Korm. rendelet 3. §-a iktatta be.
+[^407]: Az Ávr. 101/A. § (13) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.
+[^408]: Az Ávr. 101/A. § (14) bekezdését a 12/2019. (II. 5.) Korm. rendelet 1. §-a iktatta be.

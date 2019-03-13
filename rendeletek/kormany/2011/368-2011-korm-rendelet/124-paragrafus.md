@@ -6,6 +6,6 @@
 
 (3) A Kincstár a Magyar Tudományos Akadémia kutatóhálózatába tartozó szervezetek államháztartáson kívüli bevételei kezelésére külön fizetési számlát vezet.
 
-(4)[^494] A Kincstár a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság számára az Áht. 51. § (4) bekezdése szerinti európai uniós forrásból és fejlesztési célú, nem európai uniós forrásból nyújtott költségvetési támogatások fogadására külön fizetési számlát vezet.
+(4)[^496] A Kincstár a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság számára az Áht. 51. § (4) bekezdése szerinti európai uniós forrásból és fejlesztési célú, nem európai uniós forrásból nyújtott költségvetési támogatások fogadására külön fizetési számlát vezet.
 
-[^494]: Az Ávr. 124. § (4) bekezdését a 175/2018. (IX. 27.) Korm. rendelet 4. §-a iktatta be.
+[^496]: Az Ávr. 124. § (4) bekezdését a 175/2018. (IX. 27.) Korm. rendelet 4. §-a iktatta be.

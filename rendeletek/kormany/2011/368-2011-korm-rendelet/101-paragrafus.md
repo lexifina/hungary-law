@@ -1,5 +1,5 @@
 ## [Az Áht. 56/A. §-ához]
 
-101. §[^400] A támogató és a kedvezményezett a költségvetési támogatásokkal kapcsolatos valamennyi dokumentumot köteles a kedvezményezett beszámolójának támogató általi jóváhagyásától számított legalább tíz évig megőrizni.
+101. §[^402] A támogató és a kedvezményezett a költségvetési támogatásokkal kapcsolatos valamennyi dokumentumot köteles a kedvezményezett beszámolójának támogató általi jóváhagyásától számított legalább tíz évig megőrizni.
 
-[^400]: Az Ávr. 101. §-a a 175/2015. (VII. 7.) Korm. rendelet 28. § 10. pontja szerint módosított szöveg.
+[^402]: Az Ávr. 101. §-a a 175/2015. (VII. 7.) Korm. rendelet 28. § 10. pontja szerint módosított szöveg.

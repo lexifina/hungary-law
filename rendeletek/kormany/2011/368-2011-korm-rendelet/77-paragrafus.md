@@ -8,8 +8,8 @@ c) a felek a támogatási szerződést közös megegyezéssel felbontják, megsz
 
 a támogató a felszabaduló összegig a szakmailag megfelelő pályázatok rangsorában a következő helyen álló pályázók részére lehetővé teheti a költségvetési támogatás igénybevételét.
 
-(1a)[^360] Ha a pályázati kiírás célja másképp nem biztosítható, a támogató a felszabaduló összeg hatékony felhasználása céljából az (1) bekezdéstől eltérően a szakmailag megfelelő pályázatok rangsorára tekintet nélkül nyújthat költségvetési támogatást.
+(1a)[^362] Ha a pályázati kiírás célja másképp nem biztosítható, a támogató a felszabaduló összeg hatékony felhasználása céljából az (1) bekezdéstől eltérően a szakmailag megfelelő pályázatok rangsorára tekintet nélkül nyújthat költségvetési támogatást.
 
 (2) Az (1) bekezdés szerinti esetben a 71. § (2) bekezdése szerinti döntési listát az új kedvezményezettek tekintetében módosítani kell.
 
-[^360]: Az Ávr. 77. § (1a) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 10. §-a iktatta be.
+[^362]: Az Ávr. 77. § (1a) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 10. §-a iktatta be.
