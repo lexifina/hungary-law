@@ -18,6 +18,6 @@ f) ellátja a játékosvédelemmel, illetve felelős játékszervezéssel kapcso
 
 (2) A Felügyelet az (1) bekezdés d) pontja szerinti feladatával összefüggésben büntetőeljárást kezdeményez, a megtett feljelentések alapján indult eljárásokat nyomon követi, azok tárgyában, illetve a nyomozás során a nyomozóhatóság által meghozott határozatokkal kapcsolatban szükséges intézkedéseket megteszi.
 
-(3)[^1] Ha jogszabály eltérően nem rendelkezik, az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
+(3)[^2] Ha jogszabály eltérően nem rendelkezik, az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
 
-[^1]: Az 5. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 612. §-a iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: Az 5. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 612. §-a iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
