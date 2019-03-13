@@ -18,7 +18,7 @@
 
 ## Törvényes képviselő :
 
-## (szülő, nagyszülő, testvér, intézeti gyám, egyéb: )
+## (szülő, nagyszülő, testvér, gyermekvédelmi gyám, egyéb: )
 
 ## Elérhetőség: □□
 
@@ -28,15 +28,15 @@
 
 ## Őrizetbe véve:
 
-## Előzetes letartóztatásba helyezve:
+## Letartóztatásba helyezve:
 
-## Előzetes letartóztatás elrendelt időtartama:
+## Letartóztatás elrendelt időtartama:
 
 ## Befogadás időpontja: …….... év ……... hó ……. nap
 
 ## Eljáró rendőrkapitányság: …..……..……….…………. Ügyszám: …....……….
 
-## Előzetes letartóztatást elrendelő bíróság: ……………..……..… Ügyszám: ……....…….
+## Letartóztatást elrendelő bíróság: ……………..……..… Ügyszám: ……....…….
 
 ## Ügyészség: ……………………………..………..……. Ügyszám: ……………
 

@@ -1,6 +1,6 @@
 ## A vezetők, pedagógusok és a nevelő-gondozó munkát segítő más dolgozók létszáma
 
-| 1. Vezető beosztások |  |
+| 1. Vezetői munkakörök |  |
 
 |  | Létszám |
 
@@ -14,7 +14,7 @@
 
 | Javítóintézeti otthonvezető | helyi döntés alapján, feladatoktól függően |
 
-| 2. Munkakörök |  |
+| 2. Szakmai munkakörök |  |
 
 |  | Létszám |
 

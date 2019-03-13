@@ -1,7 +1,10 @@
 ## 56. § A fiatalkorú befogadásáról a 17. § (1) bekezdésében meghatározottakon túl értesíteni kell
 
-a) az előzetes letartóztatást elrendelő bíróságot,
+a)[^41] a letartóztatást elrendelő bíróságot,
 
 b) a fiatalkorú lakó- vagy tartózkodási helye szerint illetékes rendőrkapitányságot, és
 
-c) a vádirat benyújtásáig az ügyészt.
+c)[^42] a vádemelés előtt az ügyészséget.
+
+[^41]: Az 56. § a) pontja a 6/2019. (III. 12.) EMMI rendelet 5. § l) pontja szerint módosított szöveg.
+[^42]: Az 56. § c) pontja a 6/2019. (III. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
