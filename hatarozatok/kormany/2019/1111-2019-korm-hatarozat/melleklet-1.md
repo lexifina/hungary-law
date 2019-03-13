@@ -32,9 +32,9 @@
 
 ## Határidő: azonnal
 
-## 2. A Korm. határozat 4. pontjában a „Beruházás” szövegrész helyébe a „szegedi atlétikai központ (a továbbiakban: Beruházás)” szöveg lép.
+## 2.[^1]
 
-## 3. A Kormány visszavonja a Korm. határozat 1–3. és 6. pontját.
+## 3.[^2]
 
 1. melléklet az 1111/2019. (III. 12.) Korm. határozathoz
 
@@ -105,3 +105,6 @@
 | Magyar Államkincstár |  | 1 példány |  | egyéb: | azonnal |  | 32 000 000 | 32 000 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
