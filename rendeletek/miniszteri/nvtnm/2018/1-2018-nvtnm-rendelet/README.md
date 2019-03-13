@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-7P
 | 2019-01-01 | 2018-1-20-7P.7 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2019-03-04 | 2018-1-20-7P.8 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2019-03-07 | 2018-1-20-7P.9 | 3/2018. (VIII. 1.) NVTNM rendelet |
+| 2019-03-13 | 2018-1-20-7P.10 | 3/2018. (VIII. 1.) NVTNM rendelet |

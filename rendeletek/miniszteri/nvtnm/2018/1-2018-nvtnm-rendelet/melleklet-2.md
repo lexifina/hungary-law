@@ -212,6 +212,8 @@
 
 | 11. | Vasúti Műszaki Vizsgálóközpont Zártkörűen Működő Részvénytársaság | 01-10-049678 | 2022. december 31. |
 
+| 12. | ÓAM ÓZDI ACÉLMÜVEK Korlátolt Felelősségű Társaság | 05-09-002456 | 2022. december 31. |
+
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
 |  | A | B | C |
