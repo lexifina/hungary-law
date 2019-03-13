@@ -1,4 +1,4 @@
-## 3. § Az előirányzatok felhasználása során felmerülő költségek, így különösen a Magyar Államkincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj, a pénzügyi tranzakciós illeték, a postaköltség, a fordítási, tolmácsolási, szakértői költség fedezetét vagy az előirányzat terhére vagy a Fejezeti általános tartalék terhére kell biztosítani.
+## 3. §[^1] Az előirányzatok felhasználása során felmerülő költségek, így különösen a Magyar Államkincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj, a pénzügyi tranzakciós illeték, a postaköltség, a fordítási, tolmácsolási, szakértői költség fedezetét az előirányzat terhére vagy az előirányzat tekintetében kötelezettségvállalásra jogosult, szakmai felügyeletet ellátó állami vezető vagy a miniszter által meghatározott előirányzat terhére kell biztosítani.
 
 ## III. Fejezet
 
@@ -113,3 +113,5 @@
 52. újrahasználat: a 651/2014/EU bizottsági rendelet 2. cikk 126. pontja szerinti művelet,
 
 53. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
+
+[^1]: A 3. § a 4/2019. (III. 12.) MvM rendelet 1. §-ával megállapított szöveg.
