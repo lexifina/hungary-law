@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-114-20-
 | 2017-12-30 | 2006-114-20-22.24 | 519/2017. (XII. 29.) Korm. rendelet |
 | 2018-01-01 | 2006-114-20-22.25 | 169/2012. (VII. 20.) Korm. rendelet |
 | 2018-06-26 | 2006-114-20-22.26 | 108/2018. (VI. 25.) Korm. rendelet |
+| 2019-03-13 | 2006-114-20-22.27 | 108/2018. (VI. 25.) Korm. rendelet |
