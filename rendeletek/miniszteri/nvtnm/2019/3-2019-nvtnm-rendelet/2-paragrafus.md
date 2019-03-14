@@ -1,1 +1,0 @@
-## 1. § Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2018. (VI. 25.) NVTNM rendelet 1. melléklete az 1. melléklet szerint módosul.
