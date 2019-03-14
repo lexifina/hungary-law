@@ -12,7 +12,7 @@
 
 | 5. | d) tájképvédelmi szempontból kiemelten kezelendő terület | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
-| 6. | e) világörökségi és világörökségi várományos terület | kulturális örökség védelméért felelős miniszter | kulturális örökség védelméért felelős miniszter |
+| 6. | e) világörökségi és világörökségi várományos terület | kulturális örökség védelméért felelős miniszter | fővárosi és megyei kormányhivatal örökségvédelmi hatáskörében eljáró járási (fővárosi kerületi) hivatala |
 
 | 7. | f) országos vízminőség- védelmi terület | területi vízügyi igazgatóság | területi vízügyi igazgatóság |
 
@@ -36,6 +36,6 @@
 
 | 17. | h) honvédelmi terület | honvédelemért felelős miniszter | honvédelemért felelős miniszter |
 
-2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^34]
+2. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^36]
 
-[^34]: A 2. melléklet a 379/2016. (XII. 2.) Korm. rendelet 148. § b) pontjával megállapított szöveg.
+[^36]: A 2. melléklet a 379/2016. (XII. 2.) Korm. rendelet 148. § b) pontjával megállapított, a 38/2019. (III. 6.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.

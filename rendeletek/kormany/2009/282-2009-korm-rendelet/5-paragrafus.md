@@ -1,15 +1,15 @@
-5. §[^20] (1)[^21] A területrendezési terv készítése vagy módosítása esetén megkeresett államigazgatási szerv a megkeresés kézhezvételétől számított huszonegy napon belül adja ki a térségi övezet kiterjedésére vonatkozó előzetes adatszolgáltatást. Az adatszolgáltatási határidő a megkeresésnek az államigazgatási szervhez történő megérkezését követő napon kezdődik.
+5. §[^21] (1)[^22] A területrendezési terv készítése vagy módosítása esetén megkeresett államigazgatási szerv a megkeresés kézhezvételétől számított huszonegy napon belül adja ki a térségi övezet kiterjedésére vonatkozó előzetes adatszolgáltatást. Az adatszolgáltatási határidő a megkeresésnek az államigazgatási szervhez történő megérkezését követő napon kezdődik.
 
-(2)[^22] A településrendezési eszköz készítése vagy módosítása esetén a megkeresett államigazgatási szerv a térségi övezet kiterjedésére vonatkozó előzetes adatszolgáltatását a 3. § (2) bekezdésében meghatározott előzetes tájékoztatási szakaszban, a 3. § (3) bekezdésében meghatározott esetben az előzetes tájékoztatási szakasszal egyidejűleg, huszonegy napon belül adja meg.
+(2)[^23] A településrendezési eszköz készítése vagy módosítása esetén a megkeresett államigazgatási szerv a térségi övezet kiterjedésére vonatkozó előzetes adatszolgáltatását a 3. § (2) bekezdésében meghatározott előzetes tájékoztatási szakaszban, a 3. § (3) bekezdésében meghatározott esetben az előzetes tájékoztatási szakasszal egyidejűleg, huszonegy napon belül adja meg.
 
-(3)[^23] Az előzetes adatszolgáltatást – az (5) bekezdésben meghatározott kivétellel – elektronikus úton kell az adatszolgáltatást kérő részére megküldeni.
+(3)[^24] Az előzetes adatszolgáltatást – az (5) bekezdésben meghatározott kivétellel – elektronikus úton kell az adatszolgáltatást kérő részére megküldeni.
 
 (4) Az államigazgatási szerv előzetes adatszolgáltatása térítésmentes.
 
-(5)[^24] A kiemelt fontosságú honvédelmi területre és a honvédelmi területre vonatkozó adatszolgáltatást postai úton, papír alapon kell az adatszolgáltatást kérő részére megküldeni.
+(5)[^25] A kiemelt fontosságú honvédelmi területre és a honvédelmi területre vonatkozó adatszolgáltatást postai úton, papír alapon kell az adatszolgáltatást kérő részére megküldeni.
 
-[^20]: Az 5. § a 7. § (2) bekezdése alapján 2009. december 26. napján lépett hatályba.
-[^21]: Az 5. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 122. §-a szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^22]: Az 5. § (2) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 63. § b) pontja, a 25/2014. (II. 7.) Korm. rendelet 21. § a) pontja, a 441/2015. (XII. 28.) Korm. rendelet 123. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^23]: Az 5. § (3) bekezdése a 342/2014. (XII. 19.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 477/2016. (XII. 27.) Korm. rendelet 47. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^24]: Az 5. § (5) bekezdését a 342/2014. (XII. 19.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^21]: Az 5. § a 7. § (2) bekezdése alapján 2009. december 26. napján lépett hatályba.
+[^22]: Az 5. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 122. §-a szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^23]: Az 5. § (2) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 63. § b) pontja, a 25/2014. (II. 7.) Korm. rendelet 21. § a) pontja, a 441/2015. (XII. 28.) Korm. rendelet 123. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^24]: Az 5. § (3) bekezdése a 342/2014. (XII. 19.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 477/2016. (XII. 27.) Korm. rendelet 47. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^25]: Az 5. § (5) bekezdését a 342/2014. (XII. 19.) Korm. rendelet 8. § (2) bekezdése iktatta be.

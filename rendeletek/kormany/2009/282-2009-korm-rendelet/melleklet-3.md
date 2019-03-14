@@ -12,7 +12,7 @@
 
 | 5. | d) tájképvédelmi szempontból kiemelten kezelendő terület | nemzeti park igazgatóság |
 
-| 6. | e) világörökségi és világörökségi várományos terület | kulturális örökség védelméért felelős miniszter |
+| 6. | e) világörökségi és világörökségi várományos terület | fővárosi és megyei kormányhivatal örökségvédelmi hatáskörében eljáró járási (fővárosi kerületi) hivatala |
 
 | 7. | f) országos vízminőség-védelmi terület | területi vízügyi igazgatóság |
 
@@ -42,7 +42,7 @@
 
 | 20. | d) tómeder | területi vízügyi igazgatóság |
 
-3. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^35]
+3. melléklet a 282/2009. (XII. 11.) Korm. rendelethez[^37]
 
 Az Agglomerációs törvény hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
@@ -58,7 +58,7 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | 5. | d) tájképvédelmi szempontból kiemelten kezelendő terület | nemzeti park igazgatóság |
 
-| 6. | e) világörökségi és világörökségi várományos terület | kulturális örökség védelméért felelős miniszter |
+| 6. | e) világörökségi és világörökségi várományos terület | fővárosi és megyei kormányhivatal örökségvédelmi hatáskörében eljáró járási (fővárosi kerületi) hivatala |
 
 | 7. | f) országos vízminőség-védelmi terület | területi vízügyi igazgatóság |
 
@@ -82,4 +82,4 @@ Az Agglomerációs törvény hatálya alá tartozó település településrende
 
 | 17. | h) honvédelmi terület | honvédelemért felelős miniszter |
 
-[^35]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 148. § c) pontjával megállapított szöveg.
+[^37]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 148. § c) pontjával megállapított, a 38/2019. (III. 6.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
