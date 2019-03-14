@@ -6,11 +6,15 @@
 
 (3) A régészeti feladatellátás tekintetében a 2018. április 1-ig a 3. § (3) bekezdés szerinti örökségvédelmi szervvel megkötött vállalkozási szerződésekben foglalt kötelezettségeket a 3. § (3) bekezdése szerinti örökségvédelmi szervnek kell teljesítenie.
 
-(4)[^13] E rendeletnek a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet módosításáról szóló 190/2018. (X. 12.) Korm. rendelettel (a továbbiakban: Módosító rendelet) megállapított rendelkezései alapján, a helyi egyedi védelem alatt álló ingatlan vonatkozásában az adózónak 2018. december 31-ig van lehetősége a 2017. január 1-je és a Módosító rendelet hatálybalépése[^14] között megkezdett és befejezett beruházása és felújítása vonatkozásában igazolás kiállításának kérelmezésére.
+(4)[^16] E rendeletnek a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet módosításáról szóló 190/2018. (X. 12.) Korm. rendelettel (a továbbiakban: Módosító rendelet) megállapított rendelkezései alapján, a helyi egyedi védelem alatt álló ingatlan vonatkozásában az adózónak 2018. december 31-ig van lehetősége a 2017. január 1-je és a Módosító rendelet hatálybalépése[^17] között megkezdett és befejezett beruházása és felújítása vonatkozásában igazolás kiállításának kérelmezésére.
 
-(5)[^15] E rendeletnek a Módosító rendelettel megállapított rendelkezései alapján, a helyi egyedi védelem alatt álló ingatlan vonatkozásában az adózónak 2018. december 31-ig van lehetősége a 2018-ban kezdődő adóéve első napja és a Módosító rendelet hatálybalépése[^16] között megkezdett és befejezett karbantartása vonatkozásában igazolás kiállításának kérelmezésére.
+(5)[^18] E rendeletnek a Módosító rendelettel megállapított rendelkezései alapján, a helyi egyedi védelem alatt álló ingatlan vonatkozásában az adózónak 2018. december 31-ig van lehetősége a 2018-ban kezdődő adóéve első napja és a Módosító rendelet hatálybalépése[^19] között megkezdett és befejezett karbantartása vonatkozásában igazolás kiállításának kérelmezésére.
 
-[^13]: A 119. § (4) bekezdését a 190/2018. (X. 12.) Korm. rendelet 5. §-a iktatta be.
-[^14]: A hatálybalépés időpontja 2018. október 20.
-[^15]: A 119. § (5) bekezdését a 190/2018. (X. 12.) Korm. rendelet 5. §-a iktatta be.
-[^16]: A hatálybalépés időpontja 2018. október 20.
+(6)[^20] E rendeletnek a településtervezéssel összefüggésben az örökségvédelmi feladatellátás egyszerűsítését szolgáló kormányrendeletek módosításáról szóló 38/2019. (III. 6.) Korm. rendelettel (a továbbiakban: Mód. Kr.2.) megállapított 10. § (1) és (7) bekezdését, valamint 87. § (3) bekezdését a Mód. Kr.2. hatálybalépésekor[^21] folyamatban lévő településfejlesztési koncepcióhoz, integrált településfejlesztési stratégiához és településrendezési eszközhöz kapcsolódó adatszolgáltatás és véleményezés, valamint települési arculati kézikönyvhöz és településképi rendelethez kapcsolódó adatszolgáltatás során is alkalmazni kell.
+
+[^16]: A 119. § (4) bekezdését a 190/2018. (X. 12.) Korm. rendelet 5. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2018. október 20.
+[^18]: A 119. § (5) bekezdését a 190/2018. (X. 12.) Korm. rendelet 5. §-a iktatta be.
+[^19]: A hatálybalépés időpontja 2018. október 20.
+[^20]: A 119. § (6) bekezdését a 38/2019. (III. 6.) Korm. rendelet 10. §-a iktatta be.
+[^21]: A hatálybalépés időpontja 2019. március 14.
