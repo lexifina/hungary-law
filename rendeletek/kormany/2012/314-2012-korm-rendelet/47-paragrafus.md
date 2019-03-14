@@ -1,6 +1,6 @@
-## 46/G. §[^190] E rendeletnek a településtervezéssel és területrendezéssel összefüggő kormányrendeletek módosításáról szóló 217/2018. (XI. 27.) Korm. rendelettel (a továbbiakban: Mód. Kr.7.) megállapított 6. § (2b) bekezdését, 42. § (2) bekezdését, 42/A. § (3a) és (3b) bekezdését, valamint 2. mellékletét a Mód. Kr.7. hatálybalépésekor[^191] folyamatban lévő integrált településfejlesztési stratégia és településrendezési eszköz készítése és módosítása során is alkalmazni kell.
+## 46/H. §[^193] E rendeletnek a településtervezéssel összefüggésben az örökségvédelmi feladatellátás egyszerűsítését szolgáló kormányrendeletek módosításáról szóló 38/2019. (III. 6.) Korm. rendelettel (a továbbiakban: Mód. Kr.8.) megállapított 38/A. §-át, 43/A. § (6) bekezdés b) és c) pontját és 9. mellékletét a Mód. Kr.8. hatálybalépésekor[^194] folyamatban lévő településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszköz, településképi arculati kézikönyv és településképi rendelet készítése és módosítása, illetve az ezekhez kapcsolódó adatszolgáltatás során is alkalmazni kell.
 
 ## 34. Módosuló és hatályon kívül helyező rendelkezések
 
-[^190]: A 46/G. §-t a 217/2018. (XI. 27.) Korm. rendelet 22. §-a iktatta be.
-[^191]: A hatálybalépés időpontja 2018. december 5.
+[^193]: A 46/H. §-t a 38/2019. (III. 6.) Korm. rendelet 6. §-a iktatta be.
+[^194]: A hatálybalépés időpontja 2019. március 14.

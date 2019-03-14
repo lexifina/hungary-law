@@ -24,8 +24,8 @@ b) a kormányhivatal járási hivatala jogszabályi ütközést észlel,
 
 ## haladéktalanul kezdeményezi a fővárosi és megyei kormányhivatalnál – a polgármester egyidejű tájékoztatása mellett – a döntés jogszerűségével kapcsolatos törvényességi felügyeleti eljárás lefolytatását.
 
-(3)[^160] A polgármester gondoskodik a kézikönyv és a településképi rendelet monitorozása érdekében az önkormányzat honlapján nyilvános értékelő felület működtetéséről.
+(3)[^161] A polgármester gondoskodik a kézikönyv és a településképi rendelet monitorozása érdekében az önkormányzat honlapján nyilvános értékelő felület működtetéséről.
 
 (4) Az önkormányzati főépítész évente egy alkalommal a felületre beérkezett véleményeket kiértékeli és ismerteti a képviselő-testülettel.
 
-[^160]: A 43/B. § (3) bekezdése a 217/2018. (XI. 27.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
+[^161]: A 43/B. § (3) bekezdése a 217/2018. (XI. 27.) Korm. rendelet 24. § h) pontja szerint módosított szöveg.
