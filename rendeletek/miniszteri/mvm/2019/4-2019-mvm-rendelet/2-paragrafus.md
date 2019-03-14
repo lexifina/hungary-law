@@ -1,3 +1,0 @@
-## 1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 3. §-a helyébe a következő rendelkezés lép:
-
-## „3. § Az előirányzatok felhasználása során felmerülő költségek, így különösen a Magyar Államkincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj, a pénzügyi tranzakciós illeték, a postaköltség, a fordítási, tolmácsolási, szakértői költség fedezetét az előirányzat terhére vagy az előirányzat tekintetében kötelezettségvállalásra jogosult, szakmai felügyeletet ellátó állami vezető vagy a miniszter által meghatározott előirányzat terhére kell biztosítani.”
