@@ -124,7 +124,20 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
+9.[^5] a város vonzerejének növelése és élhetőbbé tételének elősegítése érdekében
+
+a) egyetért a Vas Megyei Kormányhivatal székhelyéül szolgáló, Szombathely, Berzsenyi Dániel tér 1. szám alatti Megyeháza épülete átfogó felújításának támogatásával;
+
+b) felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy tegye meg a szükséges intézkedéseket az a) pont szerinti fejlesztéshez szükséges források biztosítására.
+
+Felelős: pénzügyminiszter
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: a felmerülés ütemében
+
 [^1]: Az 1. pont c) alpontját az 1422/2016. (VII. 29.) Korm. határozat 10. pontja visszavonta.
 [^2]: Az 1. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 1. pontja iktatta be.
 [^3]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont a) alpontja szerinti határidő 2018. december 31.
 [^4]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont b) alpontja szerinti határidő 2020. december 31.
+[^5]: A 9. pontot az 1130/2019. (III. 14.) Korm. határozat iktatta be.
