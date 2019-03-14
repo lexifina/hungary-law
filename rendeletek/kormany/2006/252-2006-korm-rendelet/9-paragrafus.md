@@ -28,7 +28,7 @@ szükséges építészeti-műszaki dokumentációt,
 
 b) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben a másodfokú építésügyi hatóság megkeresésére az első fokú eljárásban a döntés alapjául szolgáló, az önkormányzat polgármestere által – a helyi építészeti-műszaki tervtanács szakmai álláspontjára alapozott – véleményezett építészeti-műszaki dokumentációt, továbbá
 
-c)[^37] az elsőfokú építésügyi hatósági eljárásban – az elsőfokú építésügyi hatóság megkeresésére – a több települést magában foglaló világörökségi tájegységi területen az új épület építéséhez, meglévő épület bővítéséhez, valamint a településképet érintő homlokzati felújításához vagy átalakításához szükséges építészeti-műszaki dokumentációt.
+c)[^37] a több települést magában foglaló világörökségi tájegységi területen az új épület építéséhez vagy a meglévő épület bővítéséhez, valamint a meglévő építmény közterületről látható homlokzatának felújításához vagy közterületről látható homlokzata legalább 20%-át érintő átalakításához szükséges építészeti-műszaki dokumentációt.
 
 d)–f)[^38]
 
@@ -42,7 +42,7 @@ d)–f)[^38]
 [^34]: A 9. § (2a) bekezdését újonnan a 19/2018. (II. 14.) Korm. rendelet 55. §-a iktatta be.
 [^35]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 30. § d) pontja, a 70/2015. (III. 30.) Korm. rendelet 82. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^36]: A 9. § (4) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
-[^37]: A 9. § (4) bekezdés c) pontját a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte, újonnan a 279/2015. (IX. 22.) Korm. rendelet 1. §-a iktatta be, szövege a 217/2018. (XI. 27.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^37]: A 9. § (4) bekezdés c) pontját újonnan a 279/2015. (IX. 22.) Korm. rendelet 1. §-a iktatta be, szövege a 38/2019. (III. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^38]: A 9. § (4) bekezdés d)–f) pontját a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte.
 [^39]: A 9. § (5) bekezdését a 217/2018. (XI. 27.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^40]: A 9. § (6) bekezdését a 217/2018. (XI. 27.) Korm. rendelet 4. § (3) bekezdése iktatta be.
