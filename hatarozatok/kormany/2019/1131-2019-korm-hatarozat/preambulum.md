@@ -1,0 +1,1 @@
+A Magyarország Kormánya és Szombathely Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1936/2015. (XII. 12.) Korm. határozat 9. pontjának végrehajtása érdekében a Kormány
