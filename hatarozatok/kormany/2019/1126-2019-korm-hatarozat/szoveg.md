@@ -36,14 +36,6 @@ Határidő: 2020. január 30.
 
 6. jóváhagyja, hogy a Nemzeti Sportközpontok által az 1. pont szerinti beruházásokkal kapcsolatban lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni;
 
-7. visszavonja a Határozat
+7.[^1]
 
-a) 1. pont b)–g) alpontját,
-
-b) 2. pont a)–f) alpontját,
-
-c) 2. pont záró szövegrészében az „az a)–f) alpont tekintetében legkésőbb 2018. december 31. napjáig,” szövegrészt,
-
-d) 7. pontjában az „a 2. pont a)–f) alpontja tekintetében legkésőbb 2019. január 30.” szövegrészt, valamint
-
-e) 8. pontját.
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
