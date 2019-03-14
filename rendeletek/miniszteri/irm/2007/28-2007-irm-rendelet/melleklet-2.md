@@ -1,4 +1,4 @@
-2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^21]
+2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^22]
 
 ## Az egyes eljárások díja
 
@@ -142,4 +142,4 @@ VI. Egyéb igazgatási szolgáltatási díjak
 
 | 2. Fellebbezési kérelem díja | 5 500 Ft |
 
-[^21]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a szerint módosított szöveg.
+[^22]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a szerint módosított szöveg.

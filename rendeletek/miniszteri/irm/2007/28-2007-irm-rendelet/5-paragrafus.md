@@ -12,9 +12,11 @@ c) aki magyar állami ösztöndíj vagy az oktatásért felelős miniszter álta
 
 (2a)[^11] Mentesül az ukrán állampolgár a 2. melléklet II. pont 1., 3. és 4. alpontjában meghatározott igazgatási szolgáltatási díj megfizetése alól.
 
-(3)[^12] Mentes a vízumdíj megfizetése alól a diplomata útlevéllel rendelkező harmadik országbeli állampolgár.
+(2b)[^12] Mentesül a 2. melléklet II. pont 1., 3. és 4. alpontjában meghatározott igazgatási szolgáltatási díj megfizetése alól az a belorusz állampolgár, aki a tartózkodási engedélyt munkavállalási vagy tanulmányi célból kérelmezi.
 
-(4)[^13] A (3) bekezdésben foglalt mentesség nem vonatkozik a vízumdíjra nemzeti vízum vagy szezonális munkavállalási vízum iránti kérelem esetén.
+(3)[^13] Mentes a vízumdíj megfizetése alól a diplomata útlevéllel rendelkező harmadik országbeli állampolgár.
+
+(4)[^14] A (3) bekezdésben foglalt mentesség nem vonatkozik a vízumdíjra nemzeti vízum vagy szezonális munkavállalási vízum iránti kérelem esetén.
 
 (5) A (2) bekezdés b) pontjában foglalt esetben a viszonosság kérdésében a külügyminiszter állásfoglalása az irányadó.
 
@@ -22,5 +24,6 @@ c) aki magyar állami ösztöndíj vagy az oktatásért felelős miniszter álta
 [^9]: Az 5. § (2) bekezdés nyitó szövegrésze a 12/2010. (IV. 2.) IRM rendelet 3. § (1) bekezdése szerint módosított szöveg.
 [^10]: Az 5. § (2) bekezdés b) pontja a 68/2011. (XII. 30.) BM rendelet 26. § (1) bekezdése szerint módosított szöveg.
 [^11]: Az 5. § (2a) bekezdését a 44/2016. (XI. 23.) BM rendelet 1. §-a iktatta be, szövege a 38/2017. (XII. 27.) BM rendelet 10. §-ával megállapított szöveg.
-[^12]: Az 5. § (3) bekezdése a 12/2010. (IV. 2.) IRM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (4) bekezdése a 12/2010. (IV. 2.) IRM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (2b) bekezdését a 7/2019. (III. 13.) BM rendelet 1. §-a iktatta be.
+[^13]: Az 5. § (3) bekezdése a 12/2010. (IV. 2.) IRM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (4) bekezdése a 12/2010. (IV. 2.) IRM rendelet 2. § (3) bekezdésével megállapított szöveg.
