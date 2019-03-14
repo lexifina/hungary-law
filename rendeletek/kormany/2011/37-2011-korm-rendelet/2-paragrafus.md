@@ -60,7 +60,7 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 10c.[^24] mezőgazdasági termék: az EUMSz I. mellékletében felsorolt termékek az 1379/2013/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó halászati és akvakultúra-termékek kivételével,
 
-10d.[^25]
+10d.[^25] mezőgazdasági csekély összegű ágazati korlát: az egy termékágazat részére bármely három pénzügyi évet felölelő időszakban egyedi támogatásként vagy támogatási programból nyújtott támogatási intézkedések teljes halmozott összege, amely nem haladhatja meg az 1408/2013/EU bizottsági rendelet II. mellékletében Magyarország számára meghatározott összeg 50%-át,
 
 10e.[^26] mezőgazdasági termékek feldolgozása: a mezőgazdasági termékeken végzett minden olyan művelet, amelynél a művelet eredményeként létrejött termékek szintén mezőgazdasági termékeknek minősülnek, kivéve a gazdaságon belüli olyan tevékenységeket, amelyekkel az állati vagy növényi mezőgazdasági termékeket az első alkalommal való értékesítésre készítik elő,
 
@@ -90,7 +90,11 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 20.[^33] visszafizettetési kamatláb: a 794/2004/EK bizottsági rendelet 9–11. cikkében foglaltak szerint megállapított kamatláb,
 
-21–23.[^34]
+21.[^34] termékágazat: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 20-i 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés a)–w) pontjában szereplő ágazat.
+
+22.[^35]
+
+23.[^36]
 
 [^4]: A 2. § 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 543. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 1. pont b) alpontja a 38/2016. (III. 3.) Korm. rendelet 12. § 2. pontja szerint módosított szöveg.
@@ -113,7 +117,7 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 [^22]: A 2. § 10a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^23]: A 2. § 10b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, szövege a 328/2016. (X. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^24]: A 2. § 10c. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, szövege a 38/2016. (III. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^25]: A 2. § 10d. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, hatályon kívül helyezte a 38/2016. (III. 3.) Korm. rendelet 13. § c) pontja.
+[^25]: A 2. § 10d. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^26]: A 2. § 10e. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^27]: A 2. § 10f. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^28]: A 2. § 12. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 7. pontja szerint módosított szöveg.
@@ -122,4 +126,6 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 [^31]: A 2. § 19a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be.
 [^32]: A 2. § 19b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^33]: A 2. § 20. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
-[^34]: A 2. § 21–23. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése.
+[^34]: A 2. § 21. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^35]: A 2. § 22. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése.
+[^36]: A 2. § 23. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése.
