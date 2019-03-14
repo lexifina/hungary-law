@@ -1,1 +1,0 @@
-## „(3) Az utógondozó részlegen elhelyezett fiatalkorú számára a javítóintézet biztosítja a korábban megkezdett oktatásban, képzésben való részvételt. Az utógondozó segítséget nyújt a fiatalkorú számára a lakhatási és megélhetési feltételek megteremtéséhez, valamint a fiatalkorú önálló életének megkezdéséhez.”
