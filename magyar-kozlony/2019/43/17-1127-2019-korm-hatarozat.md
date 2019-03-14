@@ -1,0 +1,68 @@
+# A Kormány 1127/2019. (III. 14.) Korm. határozata
+
+Magyar Közlöny 2019. évi 43. szám, 2019. március 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/EtYxsB5EF8d1JpQbjlRD5c881390199d6/dokumentumok/54e44611e6288a65b1f4e88c0e8e3199bbc79434/letoltes)
+
+---
+
+A Kormány 1127/2019. (III. 14.) Korm. határozata
+a 2020. évi Dubaji Világkiállításon történő magyar megjelenésről
+1. A Kormány
+a) egyetért a 2020. évi Dubaji Világkiállításon történő magyar megjelenés előzetes tematikájáról és a részvételhez
+szükséges előkészítő feladatokhoz kapcsolódó működési és finanszírozási feltételek megteremtéséről szóló
+2131/2017. (XII. 29.) Korm. határozatban foglaltak alapján előkészített és részére bemutatott, a 2020. évi Dubaji
+Világkiállításon (a továbbiakban: Világkiállítás) történő magyar megjelenés Magyar Turisztikai Ügynökség
+Zártkörűen Működő Részvénytársaság (a továbbiakban: Ügynökség) általi biztosításával, és a Világkiállítást
+követően a Világkiállítás magyar pavilonjának (a továbbiakban: Pavilon) elbontásával;
+b) egyetért azzal, hogy az a) alpontban megfogalmazott feladat – tranzakciós illeték és kincstári díjak nélkül –
+legfeljebb 20 941 000 000 forint összegű költségvetési támogatásból valósuljon meg;
+c) felhívja a pénzügyminisztert, hogy gondoskodjon a Világkiállításon történő magyar megjelenés biztosítása,
+valamint a kifizetésekhez kapcsolódó tranzakciós illeték és kincstári díjak finanszírozása érdekében a 2019. évben
+szükséges 7 828 188 000 forint forrás biztosításáról a Magyarország 2019. évi központi költségvetéséről szóló
+2018. évi L. törvény 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím,
+1. Célelőirányzatok alcím, 13.Turisztikai fejlesztési célelőirányzat jogcímcsoport (a továbbiakban:TFC) javára;
+Felelős: pénzügyminiszter
+Határidő: a felmerülés ütemében
+d) felhívja a pénzügyminisztert, hogy gondoskodjon a Világkiállításon történő magyar megjelenés biztosítása,
+valamint a kifizetésekhez kapcsolódó tranzakciós illeték és kincstári díjak finanszírozása érdekében
+da) a 2020. évben szükséges 8 557 092 000 forint,
+db) a 2021. évben szükséges 4 639 484 000 forint
+forrás biztosításáról a központi költségvetés TFC vagy azzal azonos célú előirányzata javára;
+Felelős: pénzügyminiszter
+Határidő: a 2020. évi forrás tekintetében a 2020. évi központi költségvetés tervezése során
+a 2021. évi forrás tekintetében a 2021. évi központi költségvetés tervezése során
+e) az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében
+eljárva a TFC terhére vállalható kötelezettségek mértékét a 2020. és 2021. évekre az alábbiak szerint állapítja
+meg:
+ea) a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 8 523 000 000 forint,
+eb) a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 4 621 000 000 forint;
+f) felhívja a miniszterelnök kabinetfőnökét, hogy az Ügynökség bevonásával nyújtson be jelentést
+a Világkiállításon való magyar részvétel megvalósításáról;
+Felelős: a miniszterelnök kabinetfőnöke
+Határidő: 2022. március 31.
+g) egyetért azzal, hogy a Pavilon
+ga) közepes méretű telken, összesen 1828,2 m2-en épüljön meg, valamint
+gb) a víz és a fenntarthatóság jegyét hordozó, az országimázs erősítésére szolgáló szimbolikával
+rendelkezzen.
+2. A Kormány
+a) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Világkiállítás magyar
+programjainak és eseményeinek előkészítése, szervezése és teljes körű lebonyolítási feladatai ellátására
+a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon 150 000 000
+forint pénzbeli hozzájárulással a magyar állam 100%-os tulajdonában álló gazdasági társaság, nonprofit
+korlátolt felelősségű gazdasági társaság formájában történő megalapításáról;
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: azonnal
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó.
+Felelős kiadó: Köves Béla ügyvezető.
+b) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges
+intézkedéseket annak érdekében, hogy az a) alpont szerinti társasági részesedés tekintetében a tulajdonosi
+jogok és kötelezettségek összességének gyakorlójaként az Ügynökség kerüljön kijelölésre.
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: az a) alpont szerinti gazdasági társaság megalapítását követően azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
