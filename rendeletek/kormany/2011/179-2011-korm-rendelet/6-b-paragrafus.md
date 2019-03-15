@@ -1,4 +1,4 @@
-## 6/B. [^34] A Közlekedési Szakértői Testület
+## 6/B. [^35] A Közlekedési Szakértői Testület
 
 6/B. § (1) A Közlekedési Szakértői Testület (a továbbiakban: Testület) az e rendeletben és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályait tartalmazó miniszteri rendeletben meghatározott feladatok tekintetében a közlekedési hatóság szakmai tanácsadó, véleményező, döntés-előkészítő testülete. A Testület szakértői eljárásával közreműködik a közlekedési hatóság tevékenységében.
 
@@ -48,4 +48,4 @@ d) a felkérésben megjelölt határidő elteltével.
 
 (11) A Testület költségvetését – ideértve a Testület elnökének és a tagok díjazását – a közlekedési hatóság saját költségvetésében tervezi.
 
-[^34]: A 6/B. alcímet (6/B. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
+[^35]: A 6/B. alcímet (6/B. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.

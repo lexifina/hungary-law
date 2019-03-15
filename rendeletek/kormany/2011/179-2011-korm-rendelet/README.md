@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-179-20-
 | 2016-01-01 | 2011-179-20-22.4 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2018-12-29 | 2011-179-20-22.5 | 118/2013. (IV. 23.) Korm. rendelet |
 | 2019-01-01 | 2011-179-20-22.6 | 285/2018. (XII. 21.) Korm. rendelet |
+| 2019-03-15 | 2011-179-20-22.7 | 285/2018. (XII. 21.) Korm. rendelet |
