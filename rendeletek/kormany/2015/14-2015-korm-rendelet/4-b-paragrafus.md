@@ -1,5 +1,3 @@
-## 4/A. § Ha a Hatóság a kérelem vagy nyilatkozat benyújtására formanyomtatványt tett közzé az adatbázisban vagy a honlapján, a kérelmet vagy nyilatkozatot az erre a célra rendszeresített formanyomtatványon kell benyújtani.
-
 4/B. § (1) A hatósági ellenőrzés lehetséges eszközei:
 
 a) adatszolgáltatás, iratbemutatás és egyéb tájékoztatás kérésével megvalósuló ellenőrzés,

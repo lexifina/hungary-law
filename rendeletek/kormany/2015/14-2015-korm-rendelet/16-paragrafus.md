@@ -1,4 +1,4 @@
-## 15. §[^74]
+## 15. §[^85]
 
 ## 11. F-ÜHG-t tartalmazó elemek, berendezések és rendszerek tervezése és kezelése, szivárgásvizsgálata
 
@@ -8,4 +8,4 @@
 
 (3) Az F-ÜHG-t tartalmazó tűzoltó-technikai termékek, valamint az F-ÜHG-t tartalmazó beépített tűzvédelmi rendszerek és tűzoltó készülékek töltetét érintő javítás, a töltet kezelése csak a 3. mellékletben meghatározott zárt technológiával végezhető.
 
-[^74]: A 15. §-t a 285/2017. (IX. 22.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
+[^85]: A 15. §-t a 285/2017. (IX. 22.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.

@@ -1,49 +1,42 @@
-## 7. [^53] F-ÜHG-t tartalmazó, valamint F-ÜHG-val működtetett termékek és berendezések címkézéséről, valamint magyarországi forgalomba hozataláról, forgalmazásáról
+## 7. [^69] F-ÜHG-t tartalmazó, valamint F-ÜHG-val működtetett alkalmazások címkézéséről, valamint magyarországi forgalomba hozataláról, forgalmazásáról
 
-7. §[^54] (1)[^55] A kötelezett
+7. §[^70] (1) A kötelezett
 
-a) a (2) és (3) bekezdés alapján az F-ÜHG-t tartalmazó, valamint azzal működtetett terméket és berendezést az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikke, valamint a 2015/2068/EU bizottsági végrehajtási rendelet szerinti forgalomba-hozatali címkével;
+a) a (2) bekezdés alapján az F-ÜHG-t tartalmazó, valamint azzal működtetett alkalmazásokat az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikke, valamint a 2015/2068/EU bizottsági végrehajtási rendelet szerinti forgalomba-hozatali címkével;
 
-b) a (4) és (5) bekezdés alapján az 5. § (2a) bekezdése szerint regisztrációköteles alkalmazást az adatbázisból generált (7) bekezdés szerinti telepítési hatósági címkével;
+b) a (3) és (4) bekezdés alapján az 5. § (2a) bekezdése szerint regisztrációköteles alkalmazást az adatbázisból generált (6) bekezdés szerinti telepítési hatósági címkével;
 
-c) a (6) bekezdés alapján az F-ÜHG közeget tartalmazó tartályt, a tartály változó tartalmának megjelölésére szolgáló – adatbázisból generált – címkével
+c) az (5) bekezdés alapján az F-ÜHG közeget tartalmazó tartályt a tartály tartalmának megjelölésére szolgáló címkével
 
 ## látja el.
 
-(2) Az Európai Unió területén első alkalommal Magyarország területére importált vagy ott forgalomba hozott, az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (1) és (2) bekezdésében rögzített F-ÜHG-t tartalmazó, illetve ilyen gázokkal működő termékeket és berendezéseket az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (3) és (4) bekezdésében meghatározott adattartalommal rendelkező forgalomba-hozatali címkével szükséges ellátni.
+(2) Az Európai Unió területén első alkalommal Magyarország területére importált vagy ott forgalomba hozott, az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (1) és (2) bekezdésében rögzített F-ÜHG-t tartalmazó, valamint ilyen gázokkal működő alkalmazásokat a gyártó vagy importőr a forgalomba helyezés előtt a 12. cikk (3) és (4) bekezdésében és a Bizottság (EU) 2015/2068 végrehajtási rendeletében meghatározott adattartalommal rendelkező forgalomba-hozatali címkével látja el.
 
-(3)[^56] A 7. § (1) bekezdés a) pontja szerinti forgalomba-hozatali címke esetén az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (1) és (2) bekezdésben meghatározott, F-ÜHG-t tartalmazó, illetve ilyen gázokkal működő termékeket és berendezéseket a 12. cikk (3) és (4) bekezdése szerinti adattartalmú forgalomba-hozatali címkével a termékregisztrációt követően a gyártó vagy importőr a forgalomba helyezés előtt köteles ellátni.
+(3) A (6) bekezdés szerinti telepítési hatósági címkével történő ellátás feltétele, hogy az 5. § (2a) bekezdés szerint regisztrációköteles alkalmazást az üzemeltető regisztrálja, és az alkalmazás műszaki adatait a képesített vállalkozás rögzítse az adatbázisban.
 
-(4)[^57] A telepítési hatósági címkével történő ellátás feltétele, hogy az 5. § (2a) bekezdés szerint regisztrációköteles alkalmazást az üzemeltető regisztrálja, és a hűtőkör, a kapcsolóberendezés műszaki adatait a képesített vállalkozás rögzítse az adatbázisban.
+(4) A képesített vállalkozás jól látható helyen a (6) bekezdés szerinti telepítési hatósági címkével ellátja
 
-(5) A képesített vállalkozás látja el jól látható helyen a telepítési hatósági címkével
+a) a forgalomba helyezett, újonnan telepített alkalmazásokat telepítéskor, de legkésőbb a beüzemeléskor,
 
-a) a forgalomba helyezett, újonnan telepített termékeket és berendezéseket telepítéskor, de legkésőbb a beüzemeléskor,
+b) a már korábban telepített, működő alkalmazásokat az első szervizelés, az első karbantartás vagy az első kötelező szivárgásvizsgálat alkalmával.
 
-b) a már korábban telepített, működő termékeket és berendezéseket az első szervizelés, az első karbantartás vagy az első kötelező szivárgásvizsgálat alkalmával.
+(5) A képesített vállalkozás az F-ÜHG közeget tartalmazó tartály használatakor az (1) bekezdés c) pontja szerinti címkét használja, amelyen feltünteti az F-ÜHG közeget tartalmazó tartályban lévő F-ÜHG közeg fajtáját és típusát (gyári új, regenerált, lefejtett).
 
-(6)[^58] Az F-ÜHG visszanyerése, valamint regenerálása során F-ÜHG közeg tartály használatakor az (1) bekezdés c) pontja szerinti címkét köteles használni a képesített vállalkozás.
+(6) A telepítési hatósági címkén feltünteti
 
-(7)[^59] A telepítési hatósági címkén fel kell tüntetni
+a) a klímagázt tartalmazó, valamint azzal működtetett alkalmazások megnevezését, típusát, MR szektorba tartozó alkalmazás esetén az alvázszámot,
 
-a) a klímagázt tartalmazó, valamint azzal működtetett termék és berendezés megnevezését, típusát, MR szektorba tartozó alkalmazás esetén az alvázszámot;
-
-b) a klímagázt tartalmazó, valamint azzal működtetett termék és berendezés tulajdonosát, üzemeltetőjét,
+b) a klímagázt tartalmazó, valamint azzal működtetett alkalmazás tulajdonosát, üzemeltetőjét,
 
 c) a klímagáz megnevezését,
 
-d) a termékben vagy berendezésben lévő klímagáz tömegben és CO2-egyenértékben kifejezett mennyiségét, továbbá a klímagáz globális felmelegedési potenciálját, ózonbontó képességét,
+d) az alkalmazásban lévő klímagáz tömegben és CO2-egyenértékben kifejezett mennyiségét, továbbá a klímagáz globális felmelegedési potenciálját, ózonbontó képességét,
 
 e) azt a tényt, hogy szivárgásészlelő rendszer felszerelésre került-e,
 
-f) azt, hogy a klímagázt tartalmazó berendezés hermetikusan zárt-e,
+f) azt, hogy a klímagázt tartalmazó alkalmazás hermetikusan zárt-e,
 
 g) elektromos kapcsolóberendezés esetén arra vonatkozó adatot, hogy az igazolt szivárgás mértéke a gyártó műszaki leírásában foglaltak szerint évente kevesebb-e, mint 0,1%, továbbá, hogy az elektromos kapcsolóberendezés a nyomást vagy sűrűséget ellenőrző eszközzel van-e felszerelve.
 
-[^53]: A 7. alcím címe a 112/2016. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^54]: A 7. § a 112/2016. (V. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^55]: A 7. § (1) bekezdése a 285/2017. (IX. 22.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^56]: A 7. § (3) bekezdése a 285/2017. (IX. 22.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^57]: A 7. § (4) bekezdése a 285/2017. (IX. 22.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^58]: A 7. § (6) bekezdése a 285/2017. (IX. 22.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^59]: A 7. § (7) bekezdése a 285/2017. (IX. 22.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^69]: A 7. alcím címe a 112/2016. (V. 27.) Korm. rendelet 6. §-ával megállapított, a 24/2019. (II. 27.) Korm. rendelet 23. § 11. pontja szerint módosított szöveg.
+[^70]: A 7. § a 24/2019. (II. 27.) Korm. rendelet 11. §-ával megállapított szöveg.

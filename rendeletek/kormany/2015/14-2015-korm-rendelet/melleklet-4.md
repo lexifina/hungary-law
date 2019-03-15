@@ -1,4 +1,4 @@
-4. melléklet a 14/2015. (II. 10.) Korm. rendelethez[^132]
+4. melléklet a 14/2015. (II. 10.) Korm. rendelethez[^153]
 
 1. HR és MR szektor klímagázt tartalmazó alkalmazást szerelő, karbantartó, szervizelő és szivárgásvizsgáló, valamint klímagázkezelést végző természetes személy képesítési igazolásainak jele, megnevezése és az 517/2014/EU európai parlamenti és tanácsi rendeletnek való megfelelése:
 
@@ -88,9 +88,9 @@
 
 | 5. | Gyártó | Gyártó: klímagáz gyártása, F-ÜHG-t tartalmazó vagy azzal előtöltött alkalmazás gyártása, F-ÜHG felhasználása gyártási tevékenység során, F-ÜHG alapanyagként való felhasználása gyártási tevékenység során |
 
-| 6. | Ártalmatlanító | Klímagáz ártalmatlanítása |
+| 6. | Ártalmatlanító | Klímagáz ártalmatlanításra történő átvétele és ártalmatlanítása |
 
-| 7. | Regeneráló | Klímagáz regenerálása |
+| 7. | Regeneráló | Klímagáz regenerálásra történő átvétele és regenerálása |
 
 | 8. | Szakképzési Centrum | Hatósággal kötött képzési megállapodás alapján képzési tevékenység folytatása: klímagáz vásárlásra képzési tevékenysége mértékében, korlátozottan jogosít. |
 
@@ -98,4 +98,4 @@
 
 | 10. | Szolgáltatásközvetítő | A telepítés, beüzemelés, címkézés, karbantartás, szervizelés, szivárgásvizsgálat, javítás, valamint használaton kívül helyezés elvégzésének szervezése szivárgásvizsgálatra kötelezett, klímagázt tartalmazó vagy azzal működtetett alkalmazáson más személy vagy vállalkozás megbízásából. |
 
-[^132]: A 4. mellékletet a 20/2015. (II. 17.) Korm. rendelet 32. § b) pontja iktatta be, szövege a 285/2017. (IX. 22.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^153]: A 4. mellékletet a 20/2015. (II. 17.) Korm. rendelet 32. § b) pontja iktatta be, szövege a 285/2017. (IX. 22.) Korm. rendelet 16. § (3) bekezdésével megállapított, a 24/2019. (II. 27.) Korm. rendelet 23. § 21. pontja szerint módosított szöveg.
