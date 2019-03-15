@@ -1,4 +1,4 @@
-## I. Fejezet
+## I.
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 

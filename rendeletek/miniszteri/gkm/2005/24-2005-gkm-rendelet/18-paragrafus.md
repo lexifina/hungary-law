@@ -1,10 +1,10 @@
-18. §[^126] (1) A szakoktatók képzését a közlekedési hatóság engedélye alapján szakirányú műszaki felsőoktatási intézmény végzi. A szakoktatói képesítés megszerzéséhez szükséges tantervek oktatási témaköreit és a képzési engedély megszerzéséhez szükséges feltételeket a 11. melléklet tartalmazza.
+18. §[^126] (1)[^127] A szakoktatók képzését a Kkt. 18. § (1) bekezdése alapján a KTI Közlekedéstudományi Intézet Nonprofit Kft. (a továbbiakban: KTI) végzi. A szakoktatói képesítés megszerzéséhez szükséges tantervek oktatási témaköreit és a képzési engedély megszerzéséhez szükséges feltételeket a 11. melléklet tartalmazza.
 
 (2) Szakoktatói szaktanfolyamra az iskolázható be, aki sikeres szakoktatói felvételi vizsgát tett.
 
 (3) A szakoktatói szaktanfolyami felvételi vizsgára jelentkezés feltételei:
 
-a)[^127] betöltött 23. életév,
+a)[^128] betöltött 23. életév,
 
 aa) középiskolai érettségi,
 
@@ -16,10 +16,11 @@ bb) E kategóriás kiegészítő képzésre jelentkezés esetén legalább két 
 
 bc) Trolibusz kategóriás kiegészítő képzésre jelentkezés esetén legalább két éves „Tr” kategóriás vezetői engedély.
 
-(4)[^128] A felvételi vizsgán a vizsgaközpont által vezényelt a névjegyzékben szereplő vizsgabiztosok vizsgáztatnak. A szakoktatói felvételi vizsga a 16. § ab) és ac) pontjai alapján meghatározottak szerint történik.
+(4)[^129] A felvételi vizsgán a vizsgaközpont által vezényelt a névjegyzékben szereplő vizsgabiztosok vizsgáztatnak. A szakoktatói felvételi vizsga a 16. § ab) és ac) pontjai alapján meghatározottak szerint történik.
 
 (5) Szakoktatói szaktanfolyam csak a 3. melléklet 2.1 pontjában említett szakok együttes megszerzésére irányuló alapképzésre vagy a „D”, „E”, „Tr” kategóriás járművezetési gyakorlat szakos kiegészítő képzésekre indíthatók.
 
 [^126]: A 18. § az 58/2011. (XI. 24.) NFM rendelet 19. §-ával megállapított szöveg.
-[^127]: A 18. § (3) bekezdés a) pontja a 45/2013. (VIII. 7.) NFM rendelet 20. § h) pontja szerint módosított szöveg.
-[^128]: A 18. § (4) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
+[^127]: A 18. § (1) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 12. pontja szerint módosított szöveg.
+[^128]: A 18. § (3) bekezdés a) pontja a 45/2013. (VIII. 7.) NFM rendelet 20. § h) pontja szerint módosított szöveg.
+[^129]: A 18. § (4) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Az Európai Unió jogának való megfelelés
 
-42. §[^234] (1) Ez a rendelet
+42. §[^238] (1) Ez a rendelet
 
 a) a vezetői engedélyekről szóló, 1991. július 29-i 91/439/EGK tanácsi irányelvnek, valamint az azt módosító 2000/56/EK bizottsági irányelvnek és 2008/65/EK bizottsági irányelvnek;
 
@@ -22,8 +22,8 @@ i) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanác
 
 j) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2014. július 1-jei 2014/85/EU bizottsági irányelv Melléklet 1. pontjának
 
-való megfelelést szolgálja.
+## való megfelelést szolgálja.
 
 (2) Ez a rendelet a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^234]: A 42. § a 74/2016. (XII. 29.) NFM rendelet 12. §-ával megállapított szöveg.
+[^238]: A 42. § a 74/2016. (XII. 29.) NFM rendelet 12. §-ával megállapított szöveg.

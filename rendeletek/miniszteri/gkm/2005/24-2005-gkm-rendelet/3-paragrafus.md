@@ -1,4 +1,4 @@
-## II. Fejezet
+## II.
 
 ## A KÖZÚTI JÁRMŰVEZETŐK KÉPZÉSE
 

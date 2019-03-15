@@ -1,5 +1,6 @@
-32. §[^164] (1) Az iskolavezetőnek évenként a 16. § ab) és ac) pontjai alapján meghatározottak szerinti továbbképzésen kell részt vennie és ezt követően sikeres vizsgát kell tennie.
+32. §[^167] (1) Az iskolavezetőnek évenként a 16. § ab) és ac) pontjai alapján meghatározottak szerinti továbbképzésen kell részt vennie és ezt követően sikeres vizsgát kell tennie.
 
-(2) Az iskolavezetők továbbképzése a közlekedési hatóság engedélye alapján szakirányú műszaki felsőoktatási intézményekben végezhető.
+(2)[^168] Az iskolavezetők továbbképzését a Kkt. 18. § (1) bekezdése alapján végzi.
 
-[^164]: A 32. § az 58/2011: (XI. 24.) NFM rendelet 30. §-ával megállapított szöveg.
+[^167]: A 32. § az 58/2011: (XI. 24.) NFM rendelet 30. §-ával megállapított szöveg.
+[^168]: A 32. § (2) bekezdése az 1/2019. (I. 7.) ITM rendelet 12. §-ával megállapított szöveg.
