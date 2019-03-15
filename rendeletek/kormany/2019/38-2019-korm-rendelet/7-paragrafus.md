@@ -1,3 +1,0 @@
-## 6. § Az R3. a következő 46/H. §-sal egészül ki:
-
-## „46/H. § E rendeletnek a településtervezéssel összefüggésben az örökségvédelmi feladatellátás egyszerűsítését szolgáló kormányrendeletek módosításáról szóló 38/2019. (III. 6.) Korm. rendelettel (a továbbiakban: Mód. Kr.8.) megállapított 38/A. §-át, 43/A. § (6) bekezdés b) és c) pontját és 9. mellékletét a Mód. Kr.8. hatálybalépésekor folyamatban lévő településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszköz, településképi arculati kézikönyv és településképi rendelet készítése és módosítása, illetve az ezekhez kapcsolódó adatszolgáltatás során is alkalmazni kell.”
