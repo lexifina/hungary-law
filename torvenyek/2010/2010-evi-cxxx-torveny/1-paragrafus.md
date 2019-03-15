@@ -20,4 +20,4 @@ foglalt eltérésekkel kell alkalmazni.
 
 (3) A IV. Fejezet rendelkezéseit az Alaptörvény és módosítása előkészítésére is alkalmazni kell.
 
-(4) E törvénynek a jogszabályokra vonatkozó rendelkezéseit – a 3–6. §, a 13. § (1) bekezdése, a 16. §, a 18–20. § és a 26. § (1) bekezdése kivételével – a közjogi szervezetszabályozó eszközre is megfelelően alkalmazni kell.
+(4) E törvénynek a jogszabályokra vonatkozó rendelkezéseit – a 2. § (5) bekezdés c) és d) pontja, a 3–6. §, a 13. § (1) bekezdése, a 4. alcím, a 17/A–20. §, a 26. § (1) bekezdése és a 28/B. § (4) bekezdése kivételével – a közjogi szervezetszabályozó eszközre is megfelelően alkalmazni kell.

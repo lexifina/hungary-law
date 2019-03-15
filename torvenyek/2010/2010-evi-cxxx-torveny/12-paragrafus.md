@@ -2,12 +2,4 @@
 
 (2) A jogszabály (1) bekezdés szerint végrehajtottá vált rendelkezése a végrehajtottá válást követő napon hatályát veszti.
 
-(3) A kizárólag
-
-a) az (1) bekezdés szerint végrehajtottá vált rendelkezést,
-
-b) hatályba léptető rendelkezést, illetve
-
-c) az európai uniós követelményekre utaló rendelkezést
-
-tartalmazó jogszabály az (1) bekezdés szerint utoljára végrehajtottá vált rendelkezése végrehajtottá válását követő napon hatályát veszti.
+(3) Az (1) és a (2) bekezdést a joghatás kiváltására nem alkalmas módosító rendelkezésre és hatályon kívül helyező rendelkezésre is alkalmazni kell azzal az eltéréssel, hogy a hatályvesztés időpontjának az azt követő napot kell tekinteni, amikor e rendelkezés joghatás kiváltására alkalmassága esetén végrehajtottá vált volna.

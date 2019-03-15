@@ -1,4 +1,4 @@
-## 12. A jogszabályok kihirdetése
+## 12. A jogszabályok kihirdetése és a közjogi szervezetszabályozó eszközök közzététele
 
 26. § (1) A jogszabályokat az önkormányzati rendelet kivételével a Magyar Közlönyben kell kihirdetni.
 

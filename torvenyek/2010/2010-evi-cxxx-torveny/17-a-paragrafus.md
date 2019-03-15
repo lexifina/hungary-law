@@ -1,0 +1,1 @@
+17/A. § A jogszabály előkészítőjének feladata, hogy az előzetes hatásvizsgálat eredményét mérlegelje, és – a jogalkotás alapvető követelményei figyelembevételével – akkor tegyen javaslatot a jogszabály megalkotására, ha az a szabályozási cél eléréséhez feltétlenül szükséges.

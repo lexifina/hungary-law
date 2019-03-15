@@ -1,6 +1,6 @@
 ## 10. A jogszabályok tartalmi felülvizsgálata
 
-22. § (1) A jogalkalmazás és az utólagos hatásvizsgálat tapasztalatait is figyelembe véve a miniszter gondoskodik arról, hogy a tárgykört érintő új jogi szabályozás vagy módosítás megalkotása során, ennek hiányában e célból kiadott jogszabály keretében
+22. § (1) A jogalkalmazás és az utólagos hatásvizsgálat tapasztalatait is figyelembe véve a Kormány tagja gondoskodik arról, hogy a tárgykört érintő új jogi szabályozás vagy módosítás megalkotása során, ennek hiányában e célból kiadott jogszabály keretében
 
 a) az elavult, szükségtelenné vált,
 

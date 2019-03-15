@@ -1,12 +1,16 @@
-31. § (1) Felhatalmazást kap a Kormány, hogy
+31. § (1) Felhatalmazást kap a Kormány, hogy rendeletben hatályon kívül helyezze
 
-a) – ha arra kormányrendelet adott felhatalmazást, vagy ha a törvényben arra adott felhatalmazás hatályát vesztette és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak – a Kormány tagjának rendeletét,
+a) a Kormány tagjának rendeletét vagy annak rendelkezését, ha
 
-b) azon kormányrendeletet, amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása
+aa) a törvényben adott felhatalmazás hatályát vesztette, és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak,
 
-hatályon kívül helyezze.
+ab) a kormányrendeletben adott felhatalmazás hatályát vesztette, és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak, vagy
 
-(2) Felhatalmazást kap a Kormány tagja, hogy rendeletével hatályon kívül helyezze a feladatkörébe tartozó azon miniszteri, illetve miniszterelnöki rendeletet,
+ac) a tárgykör szabályozására alkotott új felhatalmazó rendelkezés kormányrendelet kiadására ad felhatalmazást,
+
+b) azt a kormányrendeletet vagy annak rendelkezését, amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
+
+(2) Felhatalmazást kap a Kormány tagja, hogy rendeletével hatályon kívül helyezze a feladatkörébe tartozó azon miniszteri, illetve miniszterelnöki rendeletet vagy annak rendelkezését,
 
 a) amelyet felhatalmazás nélkül alkottak meg, vagy
 

@@ -4,21 +4,33 @@ a) ha a hatályon kívül helyezendő jogszabályt vagy jogszabályi rendelkezé
 
 b) ha a módosítandó jogszabályi rendelkezést tételesen megjelölő, annak helyébe lépését kimondó jogszabályi rendelkezés módosítja,
 
-c) a 12. § (2) és (3) bekezdésében meghatározottak szerint, vagy
+c) a 12. § (2) bekezdésében, a 12/A. § (2) bekezdésében és a 12/B. §-ban meghatározottak szerint, vagy
 
 d) ha azt az Alkotmánybíróság vagy a bíróság megsemmisíti.
 
-(2) A hatályos jogszabályt vagy jogszabályi rendelkezést az (1) bekezdés a) pontja szerint – a (3) bekezdésben meghatározott kivétellel – a hatályon kívül helyezni kívánt jogszabály vagy jogszabályi rendelkezés megalkotására hatáskörrel rendelkező szerv helyezheti hatályon kívül.
+(2) A hatályos jogszabályt vagy jogszabályi rendelkezést az (1) bekezdés a) pontja szerint – a (3) bekezdésben meghatározott kivétellel – a hatályon kívül helyezni kívánt jogszabály vagy jogszabályi rendelkezés megalkotására hatáskörrel rendelkező szerv vagy személy helyezheti hatályon kívül.
 
 (3) Hatályon kívül helyezhető
 
-a) törvényben kormányrendelet, a Kormány tagjának rendelete a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével és az önálló szabályozó szerv vezetőjének rendelete a rendelet kiadásában való helyettesítésére jogosult helyettesét kijelölő rendelete kivételével,
+a) törvényben
 
-b) kormányrendeletben – ha kormányrendelet adott felhatalmazást, vagy ha a törvényben adott felhatalmazás hatályát vesztette és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak – a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével a Kormány tagjának rendelete.
+aa) kormányrendelet vagy annak rendelkezése,
 
-(4) A Kormány rendeletével hatályon kívül helyezheti azon kormányrendeleteket, amelyek módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
+ab) a Kormány tagjának rendelete vagy annak rendelkezése – a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével – és
 
-(5) A Kormány tagja rendeletével hatályon kívül helyezheti a feladatkörébe tartozó azon miniszteri rendeleteket, miniszterelnöki rendeleteket, amelyeket felhatalmazás nélkül alkottak meg, vagy amelyek módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
+ac) az önálló szabályozó szerv vezetőjének rendelete vagy annak rendelkezése – a rendelet kiadásában való helyettesítésére jogosult helyettesét kijelölő rendelete kivételével –,
+
+b) kormányrendeletben – a miniszterelnök miniszterelnök-helyettest kijelölő rendelete kivételével – a Kormány tagjának rendelete vagy annak rendelkezése, ha
+
+ba) a törvényben adott felhatalmazás hatályát vesztette, és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak,
+
+bb) a kormányrendeletben adott felhatalmazás hatályát vesztette, és a tárgykör szabályozására új felhatalmazó rendelkezést nem alkottak, vagy
+
+bc) a tárgykör szabályozására alkotott új felhatalmazó rendelkezés kormányrendelet kiadására ad felhatalmazást.
+
+(4) A Kormány rendeletével hatályon kívül helyezheti az olyan kormányrendeletet vagy annak rendelkezését, amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
+
+(5) A Kormány tagja rendeletével hatályon kívül helyezheti a feladatkörébe tartozó azon miniszteri rendeletet, miniszterelnöki rendeletet vagy azok rendelkezését, amelyet felhatalmazás nélkül alkottak meg, vagy amely módosítására vagy hatályon kívül helyezésére – a felhatalmazás hatályvesztése miatt – már nincs felhatalmazása.
 
 (6) A hatályvesztés időpontjának meghatározása esetén rögzíteni kell a hatályvesztés naptári napját, vagy azt valamely jövőbeli feltétel bekövetkeztének időpontjához kell kötni. Ha a szabályozás célja másként nem érhető el, a hatályvesztés időpontja órában is meghatározható.
 

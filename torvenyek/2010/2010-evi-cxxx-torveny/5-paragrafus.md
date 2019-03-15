@@ -1,11 +1,21 @@
-5. § (1) A jogszabály alkotására adott felhatalmazásban meg kell határozni a felhatalmazás jogosultját, tárgyát és kereteit. Ha a miniszteri rendelet esetében a felhatalmazásban adott jogalkotási jogosultság nem önálló, a felhatalmazásban az egyetértési jog jogosultját is meg kell jelölni. Miniszteri rendelet kiadására adott felhatalmazásban a felhatalmazás jogosultját feladatkör szerint kell megjelölni.
+5. § (1) A jogszabály alkotására adott felhatalmazásban meg kell határozni a felhatalmazás jogosultját, tárgyát és kereteit.
 
-(1a) Ha a felhatalmazás jogosultja a helyi önkormányzat képviselő-testülete, társulás esetén – ha a társulási megállapodásban meghatározott feladat- és hatáskör a felhatalmazás tárgyának szabályozására kiterjed – az önkormányzati rendelet megalkotására a társulási megállapodásban kijelölt vagy ennek hiányában a társulás székhelye szerinti helyi önkormányzat képviselő-testülete jogosult. A rendelet megalkotásához a társulásban résztvevő helyi önkormányzat képviselő-testületének hozzájárulása szükséges.
+(2) Nem lehet felhatalmazást adni
 
-(1b) Ha a felhatalmazás jogosultja a helyi önkormányzat képviselő-testülete, társult képviselő-testület esetén – ha az adott ügy szabályozásáról az egyes települések képviselő-testülete a helyi önkormányzatokról szóló törvény szerint nem önállóan dönt – az önkormányzati rendelet megalkotására a társulás székhelye szerinti helyi önkormányzat jogosult a társult képviselő-testület döntésének megfelelően.
+a) a szabályozás tárgykörébe tartozó alapvető jogintézmények, továbbá jogok és kötelezettségek alapvető szabályainak megállapítására,
 
-(2) A felhatalmazás jogosultja a jogi szabályozásra másnak további felhatalmazást nem adhat.
+b) a jogszabály egészének végrehajtására, valamint
 
-(3) A szabályozás tárgykörébe tartozó alapvető jogintézmények, jogok és kötelezettségek alapvető szabályainak megállapítására, a jogszabály egészének végrehajtására, valamint olyan tárgykör szabályozására, amit a felhatalmazást adó jogszabály nem szabályoz, nem lehet felhatalmazást adni.
+c) olyan tárgykör szabályozására, amelyet a felhatalmazást adó jogszabály nem szabályoz.
 
-(4) A felhatalmazás jogosultja a jogszabályt köteles megalkotni, feltéve, hogy a felhatalmazást adó jogszabályból kifejezetten más nem következik.
+(3) Kötelezettség alóli mentesülés, illetve kötelezettséggel kapcsolatos kedvezmény szabályainak megalkotására – a 4. §-ban foglaltak sérelme nélkül – felhatalmazás adható.
+
+(4) A Kormány tagjának rendelet kiadására adott felhatalmazásban a felhatalmazás jogosultját feladatkör szerint kell megjelölni. Ha a Kormány tagjának felhatalmazásban adott jogalkotási jogosultsága nem önálló, a felhatalmazásban az egyetértési jog jogosultját is meg kell jelölni.
+
+(5) Ha a felhatalmazás jogosultja a helyi önkormányzat képviselő-testülete, társulás esetén – ha a társulási megállapodásban meghatározott feladat- és hatáskör a felhatalmazás tárgyának szabályozására kiterjed – az önkormányzati rendelet megalkotására a társulási megállapodásban kijelölt, ennek hiányában a társulás székhelye szerinti helyi önkormányzat képviselő-testülete jogosult. Az önkormányzati rendelet megalkotásához a társulásban részt vevő helyi önkormányzat képviselő-testületének hozzájárulása szükséges.
+
+(6) Ha a felhatalmazás jogosultja a helyi önkormányzat képviselő-testülete, társult képviselő-testület esetén – ha az adott ügy szabályozásáról az egyes települések képviselő-testülete a helyi önkormányzatokról szóló törvény szerint nem önállóan dönt – az önkormányzati rendelet megalkotására a társult képviselő-testület döntésének megfelelően a társulás székhelye szerinti helyi önkormányzat jogosult.
+
+(7) A felhatalmazás jogosultja a jogi szabályozásra további felhatalmazást nem adhat.
+
+(8) A felhatalmazás jogosultja a jogszabályt köteles megalkotni, kivéve, ha a felhatalmazást adó jogszabályból kifejezetten más következik.

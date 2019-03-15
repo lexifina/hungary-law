@@ -1,4 +1,4 @@
-25/A. § (1) A Magyar Közlöny kiadása során a Magyar Közlöny felelős szerkesztője az elektronikus dokumentumot minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A Magyar Közlöny és a mellékleteként megjelenő külön sorozatának egyes lapszámain a megjelenés dátumát fel kell tüntetni, amely nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
+25/A. § (1) A Magyar Közlöny kiadása során a Magyar Közlöny felelős szerkesztője az elektronikus dokumentumot minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel látja el, amely e szolgáltatást minősített szolgáltatóként nyújtja. A Magyar Közlöny egyes lapszámain a megjelenés dátumát fel kell tüntetni, amely nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
 
 (2) A Magyar Közlöny felelős szerkesztőjét és a helyettesítésére jogosult személyt az igazságügyért felelős miniszter normatív utasításban jelöli ki.
 

@@ -17,3 +17,13 @@ b) illeszkedjen a jogrendszer egységébe,
 c) megfeleljen a nemzetközi jogból és az európai uniós jogból eredő kötelezettségeknek és
 
 d) megfeleljen a jogalkotás szakmai követelményeinek.
+
+(5) A jogszabályok megalkotásakor biztosítani kell, hogy a jogszabály ne tartalmazzon indokolatlanul olyan rendelkezést, amely
+
+a) a szabályozási cél eléréséhez nem feltétlenül szükséges,
+
+b) normatív tartalommal nem rendelkezik,
+
+c) felhatalmazás alapján olyan más jogszabályban is megalkotható, amely a jogszabállyal az Alaptörvény alapján nem lehet ellentétes, vagy
+
+d) közjogi szervezetszabályozó eszközben is megalkotható.

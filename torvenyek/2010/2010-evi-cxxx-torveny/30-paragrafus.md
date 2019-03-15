@@ -10,7 +10,7 @@ a) az előzetes bejelentési eljárás rendjét,
 
 b) az Európai Unió jogának való megfelelés érdekében szükséges jogszabály-előkészítési feladatok teljesítésének részletes szabályait, valamint
 
-c) a Nemzeti Jogszabálytárban közzéteendő jogszabályok és közjogi szervezetszabályozó eszközök körét, valamint a Nemzeti Jogszabálytár működtetésének részletes szabályait,
+c) a Nemzeti Jogszabálytár tartalmát és működtetésének részletes szabályait,
 
 d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű másolat készítésére jogosult szervet.
 
@@ -20,9 +20,11 @@ d) a Magyar Közlönyről vagy annak egy részéről papír alapú oldalhű más
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
-a) a jogszabály kihirdetés során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelölésének, valamint
+a) a Magyar Közlöny kiadásának,
 
-b) a Magyar Közlöny kiadásának
+b) a kihirdetés során a jogszabályok, a közzététel során a közjogi szervezetszabályozó eszközök és egyes más jogi aktusok megjelölésének,
+
+c) a jogszabály tervezetéhez tartozó indokolások közzétételének
 
 részletes szabályait.
 
