@@ -1,5 +1,3 @@
-## 14. §
+## lép.
 
-## 5.[^5]
-
-[^5]: Az 5. alcím (15–17. §) a 28. § (2) bekezdése alapján 2019. március 15-én lép hatályba.
+## 5. A területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, megőrzéséről, nyilvántartásáról és hasznosításáról szóló 16/2010. (II. 5.) Korm. rendelet módosítása

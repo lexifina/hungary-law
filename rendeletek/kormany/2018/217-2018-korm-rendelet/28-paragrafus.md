@@ -1,4 +1,4 @@
-## 26–27. §[^7]
+## 26–27. §[^6]
 
 ## 8. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 4., 5. alcím és az 1. melléklet 2019. március 15-én lép hatályba.
 
-[^7]: A 26–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 26–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
