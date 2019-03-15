@@ -18,7 +18,7 @@ e) a lakóingatlanon pénzügyi intézmény javára bejegyzett olyan jelzálogjo
 
 f) a jelzáloghitel-szerződés ingatlanfedezetét az államnak megvételre felajánlott lakóingatlanon kívül más lakóingatlan nem képezi,
 
-g) a lakóingatlannak a jelzáloghitel-szerződés megkötésekor megállapított forgalmi értéke Budapesten, a megyei jogú városokban és a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 1/1. számú mellékletében felsorolt településeken (a továbbiakban: agglomeráció) a huszonötmillió forintot, egyéb településeken a húszmillió forintot nem haladta meg, és a jelzáloghitel-szerződés megkötésekor jelzáloghitel-szerződésben meghatározott hitel összege nem haladta meg a lakóingatlan jelzáloghitel kihelyezésekor megállapított forgalmi értékének a 90%-át, a jogszabályon alapuló állami készfizető kezességvállalás esetében a 100%-át, de elérte a 25%-át,
+g) a lakóingatlannak a jelzáloghitel-szerződés megkötésekor megállapított forgalmi értéke Budapesten, a megyei jogú városokban és a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt településeken (a továbbiakban: agglomeráció) a huszonötmillió forintot, egyéb településeken a húszmillió forintot nem haladta meg, és a jelzáloghitel-szerződés megkötésekor jelzáloghitel-szerződésben meghatározott hitel összege nem haladta meg a lakóingatlan jelzáloghitel kihelyezésekor megállapított forgalmi értékének a 90%-át, a jogszabályon alapuló állami készfizető kezességvállalás esetében a 100%-át, de elérte a 25%-át,
 
 h) a rangsorban legelőrébb álló pénzügyi intézmény megkötötte a Nemzeti Eszközkezelővel az 5. § (1) bekezdése szerinti keretszerződést,
 

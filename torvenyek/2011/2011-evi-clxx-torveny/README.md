@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-170-00-00
 | 2015-09-01 | 2015. évi CV. törvény | 2011-170-00-00.13 |
 | 2017-12-28 | 2017. évi CXCIX. törvény | 2011-170-00-00.14 |
 | 2019-01-01 | 2018. évi CIII. törvény | 2011-170-00-00.15 |
+| 2019-03-15 | 2018. évi CXXXIX. törvény | 2011-170-00-00.16 |
