@@ -1,3 +1,3 @@
-17. §[^23]
+17. §[^18]
 
-[^23]: A 16–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 16–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
