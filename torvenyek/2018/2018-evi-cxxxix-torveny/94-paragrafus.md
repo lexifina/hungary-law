@@ -1,1 +1,3 @@
-### 94. §
+94. § (1) A 2003. december 3-án az ingatlan-nyilvántartásban, vagy a hatályos településrendezési eszközökben kemping és strand települési területfelhasználási egységbe sorolt kempingek és strandok területének átsorolására és beépíthetőségére, valamint a strandok területének tekintetében előírt telekfelosztásra és telekhatár-rendezésre vonatkozó vízpart-rehabilitációs tanulmánytervben foglalt előírások és szabályozási elemek helyett e törvény megfelelő rendelkezéseit kell alkalmazni a településrendezési tervezés során.
+
+(2) A Balaton Kiemelt Üdülőkörzet területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az az Étv. 48/A. § (1) bekezdésében foglaltakon túlmenően e törvény előírásainak is megfelel vagy szabályossá tehető.

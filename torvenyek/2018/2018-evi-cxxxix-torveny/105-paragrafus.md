@@ -1,1 +1,1 @@
-### 105. §
+105. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 5. § (2) bekezdésében „Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában” szövegrész helyébe a „Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában” szöveg lép.

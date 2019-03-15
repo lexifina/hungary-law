@@ -1,1 +1,1 @@
-### 67. §
+67. § A parti és partközeli települések beépítésre szánt területeinek növelésekor a területnövekmény legkevesebb 10%-ának megfelelő, 50%-ban azzal közvetlen településszerkezeti kapcsolatban lévő zöldterületet kell biztosítani. A gazdasági terület települési területfelhasználási egység területének növelése esetén a zöldterület helyett védőerdő is kijelölhető. A beépítésre szánt terület csak a zöldterület települési önkormányzati tulajdonba adása és a zöldterület, illetve védőerdő megvalósítása, valamint ingatlan-nyilvántartási bejegyzése után jelölhető ki.
