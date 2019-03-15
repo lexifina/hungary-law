@@ -1,0 +1,3 @@
+## 18. § A 14/2015. Korm. rendelet 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha a gyártó vagy importőr a tárgyévre érvényesen forgalomba hozható fluorozott szénhidrogén-mennyiségre vonatkozó, az Európai Bizottság által kiosztott forgalomba-hozatali kvóta nélkül vagy az adott kvótamennyiséget túllépve kéri a fluorozott szénhidrogének vagy az azokat tartalmazó berendezések, termékek tekintetében az Uniós Vámkódex létrehozásáról szóló 952/2013/EU parlamenti és tanácsi rendeletben meghatározott szabad forgalomba bocsátásra vonatkozó vámeljárás elvégzését, azt az illetékes vámszerv visszautasítja.”
