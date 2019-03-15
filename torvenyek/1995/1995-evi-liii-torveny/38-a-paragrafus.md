@@ -1,6 +1,6 @@
 38/A. § A meteorológiai tevékenységgel összefüggő állami feladatok:
 
-a) a környezet- és klímavédelemhez, árvíz- és belvízvédelemhez, az erdővédelemhez, valamint az élet- és vagyonbiztonság megóvásához szükséges meteorológiai adatok gyűjtése, információk szolgáltatása,
+a) a környezet- és klímavédelemhez, árvíz- és belvízvédelemhez, az erdővédelemhez, valamint az élet- és vagyonbiztonság megóvásához szükséges meteorológiai adatok gyűjtése, információk szolgáltatása, meteorológiai obszervatórium és más mérőállomás üzemeltetése,
 
 b) a honvédelmi és nemzetbiztonsági érdekek érvényesítéséhez szükséges meteorológiai adatok és információk biztosítása,
 

@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2018-01-01 | 2017. évi L. törvény | 1995-53-00-00.69 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1995-53-00-00.70 |
 | 2018-12-31 | 2018. évi CXI. törvény | 1995-53-00-00.71 |
+| 2019-03-15 | 2018. évi CXXXIX. törvény | 1995-53-00-00.72 |
