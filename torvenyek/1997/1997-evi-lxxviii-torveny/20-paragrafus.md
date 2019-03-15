@@ -30,6 +30,6 @@ c) az állékonyságot, életet és egészséget, köz- és vagyonbiztonságot v
 
 d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a településrendezési követelményeket nem érintő módosítására irányuló építésügyi hatósági engedélyezési eljárásra,
 
-e) a honvédelmi és a kiemelt fontosságú honvédelmi területre,
+e) a honvédelmi és katonai célú területre,
 
 f) tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények elhelyezésére szolgáló területre.

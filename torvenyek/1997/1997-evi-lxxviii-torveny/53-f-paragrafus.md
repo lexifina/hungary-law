@@ -2,4 +2,4 @@
 
 (2) Építésügyi és építésfelügyeleti hatósági eljárásban az ügyfél nyilatkozata nem pótolja a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges.
 
-(3) Az építésügyi hatóság határozata honvédelmi okból akkor nyilvánítható azonnal végrehajthatónak, ha az kiemelt fontosságú meglévő honvédelmi területen megvalósuló, és a külön jogszabály szerinti honvédelmi és katonai célú építmény építésügyi hatósági engedélyezésére irányul.
+(3) Az építésügyi hatóság határozata honvédelmi okból akkor nyilvánítható azonnal végrehajthatónak, ha az honvédelmi és katonai célú területen megvalósuló, és a külön jogszabály szerinti honvédelmi és katonai célú építmény építésügyi hatósági engedélyezésére irányul.
