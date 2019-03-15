@@ -1,4 +1,4 @@
-7. § (1) A Budapesti Agglomeráció Területrendezési Tervéről szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni.
+7. § (1) Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényt az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A városligeti ingatlan területén az építési beruházások befejezését követően a zöldfelület aránya nem lehet kevesebb a 2013. december 31-i állapotnál.
 
@@ -36,4 +36,4 @@ rendeltetésű épület, valamint parkoló és gépjárművek, illetve kerékpá
 
 (8) A Városligeti építési szabályzat készítése és jóváhagyása során nem kell alkalmazni az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott, zöldterületre vonatkozó előírásokat.
 
-(9) A Városligeti építési szabályzat és a településszerkezeti terv készítése és jóváhagyása során a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 5. § (7) bekezdésében foglaltakat a városligeti ingatlan területére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a beépítésre szánt, és beépítésre nem szánt különleges terület területfelhasználási egységek köréből olyan terület jelölhető ki, amelyen a (3) bekezdés szerinti rendeltetések elhelyezhetők.
+(9) A Városligeti építési szabályzat és a településszerkezeti terv készítése és jóváhagyása során a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 42. § (5) bekezdésében foglaltakat a városligeti ingatlan területére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a beépítésre szánt, és beépítésre nem szánt különleges terület területfelhasználási egységek köréből olyan terület jelölhető ki, amelyen a (3) bekezdés szerinti rendeltetések elhelyezhetők.
