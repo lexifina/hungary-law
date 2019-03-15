@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Beruházási Bank és Magyarország Kormánya között a Nemzetközi Beruházási Bank Magyarországi Székhelyéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
