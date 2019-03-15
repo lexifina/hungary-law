@@ -1,7 +1,7 @@
-## 5. §[^17] A Dokumentációs Központ az átadott dokumentációkat az 1. §-ban felsoroltaknak megfelelően elkülönítetten gyűjti, a Nemzeti Alkalmazkodási Térinformatikai Rendszer működésének részletes szabályairól szóló kormányrendelet szerinti metaadatokat feldolgozza és adatbázisban tárolja, valamint az 1. § c) pontja szerinti dokumentációkat a 2. mellékletnek megfelelően tartja nyilván.
+## 5. §[^21] A Dokumentációs Központ az átadott dokumentációkat az 1. §-ban felsoroltaknak megfelelően elkülönítetten gyűjti, a Nemzeti Alkalmazkodási Térinformatikai Rendszer működésének részletes szabályairól szóló kormányrendelet szerinti metaadatokat feldolgozza és adatbázisban tárolja, valamint az 1. § c) pontja szerinti dokumentációkat a 2. mellékletnek megfelelően tartja nyilván.
 
 6. § (1) A Dokumentációs Központ az ügyfelek számára a kereséshez és tájékozódáshoz internetes keresőfelületet tart fenn. A keresőfelületen biztosítani kell a dokumentációk címe, valamint a dokumentációkhoz rendelt kulcsszavak szerinti keresést.
 
 (2) A Dokumentációs Központ által kezelt dokumentumállományra a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvénynek a közérdekű adatokra vonatkozó szabályait kell alkalmazni.
 
-[^17]: Az 5. § a 343/2016. (XI. 17.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^21]: Az 5. § a 343/2016. (XI. 17.) Korm. rendelet 14. §-ával megállapított szöveg.
