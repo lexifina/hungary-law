@@ -12,7 +12,7 @@ c) a megye fejlesztésének átfogó célja;
 
 d) helyzetértékelés; a jövőkép, a fejlesztési elvek és az átfogó cél kapcsolata;
 
-e)[^57] külső koherencia vizsgálata: a célrendszer kapcsolata más országos szintű tervdokumentumokkal;
+e)[^58] külső koherencia vizsgálata: a célrendszer kapcsolata más országos szintű tervdokumentumokkal;
 
 f) a fejlesztési célok értelmezése a megyén belül különféle sajátosságokkal rendelkező területi részegységekre (a részcélok és beavatkozás területi egységei);
 
@@ -72,7 +72,7 @@ df) a környezeti értékelés,
 
 dg) a teljesítés-igazolás követelményrendszerének kialakítása;
 
-e)[^58] a megyei operatív programnak a megye felelősségén túlmutató fejlesztési igényeinek leírása: azokat az intézkedéseket és fontosabb projekteket írja le, melyek a megye stratégiai programjának megvalósítása szempontjából fontos fejlesztési irányt képviselnek, de megvalósításuk nem a megye operatív programjának kompetenciájába esik, hanem igényként fogalmazódik meg országos vagy ágazati programok irányába.
+e)[^59] a megyei operatív programnak a megye felelősségén túlmutató fejlesztési igényeinek leírása: azokat az intézkedéseket és fontosabb projekteket írja le, melyek a megye stratégiai programjának megvalósítása szempontjából fontos fejlesztési irányt képviselnek, de megvalósításuk nem a megye operatív programjának kompetenciájába esik, hanem igényként fogalmazódik meg országos vagy ágazati programok irányába.
 
-[^57]: A 3. melléklet 1. pont e) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
-[^58]: A 3. melléklet 2.2. pont e) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^58]: A 3. melléklet 1. pont e) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^59]: A 3. melléklet 2.2. pont e) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
