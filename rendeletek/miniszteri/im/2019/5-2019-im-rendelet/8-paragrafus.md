@@ -1,0 +1,7 @@
+8. § (1) A kérelmet és az ahhoz csatolt dokumentumot a kézhezvételt követően – a Jat. és a jogszabályszerkesztésről szóló rendelet szerinti formai követelményeknek, valamint a magyar nyelv szabályainak való megfelelés szempontjából – a felelős szerkesztő a 3. § (1) bekezdés a) pontja szerinti feladatkörében ellenőrzi.
+
+(2) Ha a dokumentum megfelel az (1) bekezdés szerinti követelményeknek, azt a felelős szerkesztő a Magyar Közlönyben megjelenteti. Ha a felelős szerkesztő azt állapítja meg, hogy a kérelem, illetve a dokumentum nem felel meg az (1) bekezdés szerinti követelményeknek, a jogszabályba ütközés megjelölése mellett a kérelmezőt az informatikai rendszer útján – vagy sürgős esetben telefonon – változtatásra hívja fel. A kérelmező a felhívásra az informatikai rendszer alkalmazásával köteles válaszolni.
+
+(3) A változtatásra történő felhívásban a felelős szerkesztő – igazodva a kérelmező által kért megjelentetési időponthoz – tájékoztatást ad a módosításra nyitva álló határidőről. A határidő eredménytelen eltelte esetén a felelős szerkesztő – a hirdetmények kivételével – a dokumentumot a kérelemben foglaltaknak megfelelően jelenteti meg.
+
+(4) A kérelmező a kérelmét a tervezett megjelentetés napjáig, az arra jogosult által papír alapon aláírt vagy minősített elektronikus aláírásával ellátott kérelemmel vonhatja vissza, a visszavonás tényének az informatikai rendszer útján történő egyidejű jelzésével.
