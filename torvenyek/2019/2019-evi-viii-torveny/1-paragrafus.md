@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unió és tagállamai, valamint Japán közötti Stratégiai Partnerségi Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
