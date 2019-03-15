@@ -1,8 +1,8 @@
-## 4/A.[^70] Az ÜHG-egységek jóváírása és törlése
+## 4/A.[^71] Az ÜHG-egységek jóváírása és törlése
 
 11/B. § (1) Az ÜHG-egységek jóváírását a nemzeti kiosztási táblában és a nemzeti légiközlekedési kiosztási táblában szereplő adatoknak megfelelően kell elvégezni, a jóváírás végrehajtásáért a jegyzékkezelő felel.
 
-(2)–(4)[^71]
+(2)–(4)[^72]
 
-[^70]: A 4/A. alcímet (11./B. §) a 329/2013. (IX. 3.) Korm. rendelet 12. §-a iktatta be.
-[^71]: A 11/B. § (2)–(4) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^71]: A 4/A. alcímet (11./B. §) a 329/2013. (IX. 3.) Korm. rendelet 12. §-a iktatta be.
+[^72]: A 11/B. § (2)–(4) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.

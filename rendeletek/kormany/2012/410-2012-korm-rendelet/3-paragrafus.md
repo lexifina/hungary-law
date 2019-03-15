@@ -1,10 +1,10 @@
-3. §[^35] (1)[^36] Az üzemeltető a harmadik kereskedési időszakban minden tárgyévet követő év január 20-ig
+3. §[^36] (1)[^37] Az üzemeltető a harmadik kereskedési időszakban minden tárgyévet követő év január 20-ig
 
 a) a létesítmény kapacitásával, tevékenységi szintjével és működésével kapcsolatos, az Ügkr. tv. 2. § 13., 40. és 41. pontjában foglaltaknak megfelelő jelentős, a tárgyévben bekövetkezett tényleges változásról akkreditált hitelesítő szervezet által hitelesített,
 
 b) az Ügkr. tv. 2. § 12., 13., 40. és 41. pontjában foglaltaknak megfelelő, továbbá a 12. § (1) bekezdése, valamint a 12/A. § (1) és (3) bekezdése szerinti, a tárgyévet követő évre vonatkozó bármely tervezett változásról, valamint
 
-c)[^37] ha a létesítményben
+c)[^38] ha a létesítményben
 
 ca) a tárgyévre vonatkozóan nem történt a térítésmentesen kiosztandó kibocsátási egységek mennyiségét csökkentő, az a) pontban hivatkozott tényleges jelentős változás;
 
@@ -14,7 +14,7 @@ cc) korábban a kiosztandó kibocsátási egységmennyiséget módosító jelent
 
 ## elektronikus jelentést nyújt be az iparügyekért felelős miniszternek (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett módon.
 
-(1a)[^38] Nem kell benyújtani az (1) bekezdés c) pontja szerinti nyilatkozatot
+(1a)[^39] Nem kell benyújtani az (1) bekezdés c) pontja szerinti nyilatkozatot
 
 a) annak a létesítménynek, amely az összes hőjét exportálja egy vagy több, az Ügkr. tv. hatálya alá tartozó létesítmény számára, valamint
 
@@ -46,28 +46,28 @@ b) ha a létesítményre vonatkozóan jelentős változás miatti adatszolgálta
 
 (7) Ha az üzemeltető által az (1) és (6) bekezdés alapján tett jelentés a tárgyévet követő év vonatkozásában a térítésmentesen kiosztásra kerülő kibocsátási egységek mennyiségében változást eredményez a tárgyévre vonatkozó utolsó nemzeti kiosztási táblában térítésmentes kiosztásra megállapított kibocsátási egységek számához képest, úgy a tárgyévre és az adott kereskedési időszak további éveire kiosztásra kerülő kibocsátási egységek mennyiségét az üzemeltető részére a miniszter határozatban állapítja meg.
 
-(8)[^39] Ha a tárgyévet megelőző évben nem történt a létesítmény működésében a térítésmentesen kiosztandó kibocsátási egység mennyiségét csökkentő jelentős változás, úgy egyszerűsített eljárás keretében, az (1) bekezdés c) pontja szerinti jelentés alapján a miniszter tájékoztatását követően a hatóság az érintett létesítmény részére az adott évre vonatkozóan kiosztja a korábban megállapított kibocsátási egységmennyiséget. Ha a létesítményt érintően olyan, e rendelet szerinti eljárás van folyamatban, amely a térítésmentesen kiosztandó kibocsátási egységmennyiségnél több egységmennyiséget állapít meg, egyszerűsített eljárás keretében a miniszter által kiadott határozat alapján a hatóság az érintett létesítmény részére az adott évre vonatkozóan kiosztja a korábban megállapított kibocsátási egységmennyiséget, míg a többlet-egységmennyiség kiosztására a többlet-egységmennyiség megállapításáról szóló miniszteri határozat véglegessé válását követően kerül sor.
+(8)[^40] Ha a tárgyévet megelőző évben nem történt a létesítmény működésében a térítésmentesen kiosztandó kibocsátási egység mennyiségét csökkentő jelentős változás, úgy egyszerűsített eljárás keretében, az (1) bekezdés c) pontja szerinti jelentés alapján a miniszter tájékoztatását követően a hatóság az érintett létesítmény részére az adott évre vonatkozóan kiosztja a korábban megállapított kibocsátási egységmennyiséget. Ha a létesítményt érintően olyan, e rendelet szerinti eljárás van folyamatban, amely a térítésmentesen kiosztandó kibocsátási egységmennyiségnél több egységmennyiséget állapít meg, egyszerűsített eljárás keretében a miniszter által kiadott határozat alapján a hatóság az érintett létesítmény részére az adott évre vonatkozóan kiosztja a korábban megállapított kibocsátási egységmennyiséget, míg a többlet-egységmennyiség kiosztására a többlet-egységmennyiség megállapításáról szóló miniszteri határozat véglegessé válását követően kerül sor.
 
-(9)[^40] A (7) és (8) bekezdés tekintetében az ügyintézési határidő az (1) bekezdésben meghatározott jelentés miniszterhez történő megérkezését követő napot követő hónap utolsó napja. Az e rendelet hatálya alá tartozó egyéb eljárásokban az ügyintézési határidő 25 nap.
+(9)[^41] A (7) és (8) bekezdés tekintetében az ügyintézési határidő az (1) bekezdésben meghatározott jelentés miniszterhez történő megérkezését követő napot követő hónap utolsó napja. Az e rendelet hatálya alá tartozó egyéb eljárásokban az ügyintézési határidő 25 nap.
 
-(10)[^41] Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló elektronikus rendszert létrehozni az üzemeltetők megfelelő tájékoztatása mellett. Erről a tényről a miniszter az önálló elektronikus rendszer üzembe helyezését követő 15 napon belül tájékoztatja az üzemeltetőket.
+(10)[^42] Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló elektronikus rendszert létrehozni az üzemeltetők megfelelő tájékoztatása mellett. Erről a tényről a miniszter az önálló elektronikus rendszer üzembe helyezését követő 15 napon belül tájékoztatja az üzemeltetőket.
 
-(11)[^42]
+(11)[^43]
 
-(12)[^43]
+(12)[^44]
 
-(13)[^44] A hatóság a miniszter részére hozzáférést biztosít az 1. § (2) bekezdés, a 4. § (2) és (6) bekezdése szerinti önálló elektronikus rendszer információihoz.
+(13)[^45] A hatóság a miniszter részére hozzáférést biztosít az 1. § (2) bekezdés, a 4. § (2) és (6) bekezdése szerinti önálló elektronikus rendszer információihoz.
 
-(14)[^45] Ha az (1) bekezdés szerinti jelentés nem felel meg az e rendelet szerinti követelményeknek, a miniszter az üzemeltetőt legfeljebb két ízben hiánypótlásra szólítja fel.
+(14)[^46] Ha az (1) bekezdés szerinti jelentés nem felel meg az e rendelet szerinti követelményeknek, a miniszter az üzemeltetőt legfeljebb két ízben hiánypótlásra szólítja fel.
 
-[^35]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^36]: A 3. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 65. § (1) bekezdésével megállapított, záró szövegrésze a 135/2018. (VII. 25.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^37]: A 3. § (1) bekezdés c) pontja a 435/2017. (XII. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^38]: A 3. § (1a) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^39]: A 3. § (8) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 8. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^40]: A 3. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 421. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^41]: A 3. § (10) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^42]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 135/2018. (VII. 25.) Korm. rendelet 7. § (1) bekezdés a) pontja.
-[^43]: A 3. § (12) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be, hatályon kívül helyezte a 135/2018. (VII. 25.) Korm. rendelet 7. § (1) bekezdés a) pontja.
-[^44]: A 3. § (13) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
-[^45]: A 3. § (14) bekezdését a 435/2017. (XII. 21.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^36]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^37]: A 3. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 65. § (1) bekezdésével megállapított, záró szövegrésze a 135/2018. (VII. 25.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^38]: A 3. § (1) bekezdés c) pontja a 435/2017. (XII. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^39]: A 3. § (1a) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^40]: A 3. § (8) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 8. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^41]: A 3. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 421. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^42]: A 3. § (10) bekezdése a 435/2017. (XII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^43]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 135/2018. (VII. 25.) Korm. rendelet 7. § (1) bekezdés a) pontja.
+[^44]: A 3. § (12) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be, hatályon kívül helyezte a 135/2018. (VII. 25.) Korm. rendelet 7. § (1) bekezdés a) pontja.
+[^45]: A 3. § (13) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^46]: A 3. § (14) bekezdését a 435/2017. (XII. 21.) Korm. rendelet 2. § (3) bekezdése iktatta be.

@@ -2,9 +2,9 @@
 
 1. § (1) Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) szerinti kibocsátási engedély iránti kérelem részletes tartalmi követelményeit az 1. melléklet állapítja meg.
 
-(1a)[^1] Az e rendelet hatálya alá tartozó tevékenységekre vonatkozó kérelem kizárólag a Nemzeti Klímavédelmi Hatóságnál (a továbbiakban: hatóság) nyújtható be, az e rendeletben foglalt kivételekkel.
+(1a)[^1] A klímavédelemért felelős hatóság Ügkr. tv-ben megállapított feladatait országos illetékességgel a Nemzeti Klímavédelmi Hatóság (a továbbiakban: hatóság) látja el. Az e rendelet hatálya alá tartozó tevékenységekre vonatkozó kérelem kizárólag a hatóságnál nyújtható be, az e rendeletben foglalt kivételekkel.
 
-(2)[^2] A kibocsátási engedély iránti kérelmet az üzemeltető a hatóság honlapján közzétett nyomtatványok kitöltésével cégszerű aláírással ellátva írásban, a hatóság külön felhívására postai úton nyújtja be a hatósághoz. A hatóság a kibocsátási engedélyezési eljárás lefolytatásához és a vonatkozó hazai és európai uniós jogszabályokban foglalt követelmények teljesítéséhez jogosult önálló elektronikus rendszert létrehozni az üzemeltetők erre irányuló tájékoztatása mellett. A hatóság minden év december 31. napjáig köteles a honlapján közzétenni a kibocsátási engedélyezési eljárás jogszabályi követelményeit a következő évre vonatkozóan.
+(2)[^2] A kibocsátási engedély iránti kérelmet az üzemeltető nyújtja be a hatósághoz. A hatóság a kibocsátási engedélyezési eljárás lefolytatásához és a vonatkozó hazai és európai uniós jogszabályokban foglalt követelmények teljesítéséhez jogosult önálló elektronikus rendszert létrehozni az üzemeltetők erre irányuló tájékoztatása mellett. A hatóság minden év december 31. napjáig a honlapján közzéteszi a kibocsátási engedélyezési eljárás kapcsán felmerülő egyéb követelményeket a következő évre vonatkozóan.
 
 (3) Az Ügkr. tv. 4. § (4) bekezdése szerinti esetben az adatokat valamennyi, technológiailag nem egybetartozó – a 2. melléklet szerinti – tevékenységre külön-külön kell megadni.
 
@@ -28,8 +28,8 @@ b) a 127/1991. Korm. rendelet szerint szükséges, etalonra visszavezethető mé
 
 (11)[^11] Ha a forrásanyag szolgáltatója, beszállítója a kalibrálási bizonyítvány másolatát az üzemeltető részére a (9) bekezdésben meghatározottak szerint nem adja át, akkor a hatóság határidő tűzésével kötelezi a forrásanyag szolgáltatóját, beszállítóját a kalibrálási bizonyítvány hatóság részére történő átadására.
 
-[^1]: Az 1. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 421. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^2]: Az 1. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 421. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^1]: Az 1. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 421. § (1) bekezdése iktatta be, szövege a 24/2019. (II. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 24/2019. (II. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (4) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^4]: Az 1. § (5) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^5]: Az 1. § (6) bekezdése a 178/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.

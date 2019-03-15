@@ -1,4 +1,4 @@
-13. §[^91] (1)[^92] A működését részlegesen beszüntetett létesítmény számára történő kibocsátási egység kiosztást a működés részleges beszüntetésének évét követő évben, illetve ha a részleges beszüntetésre 2013. január 1-je előtt került sor, 2013-tól úgy kell kiigazítani, hogy ha a mérvadó létesítményrész tevékenységi szintje a Nemzeti Végrehajtási Intézkedések szerinti, vagy a jóváhagyott új belépő kérelem szerinti, vagy a kapacitáscsökkentés figyelembe vételével meghatározott kezdeti tevékenységi szinthez képest
+13. §[^92] (1)[^93] A működését részlegesen beszüntetett létesítmény számára történő kibocsátási egység kiosztást a működés részleges beszüntetésének évét követő évben, illetve ha a részleges beszüntetésre 2013. január 1-je előtt került sor, 2013-tól úgy kell kiigazítani, hogy ha a mérvadó létesítményrész tevékenységi szintje a Nemzeti Végrehajtási Intézkedések szerinti, vagy a jóváhagyott új belépő kérelem szerinti, vagy a kapacitáscsökkentés figyelembe vételével meghatározott kezdeti tevékenységi szinthez képest
 
 a) 50–75%-kal csökken, a létesítményrész az eredetileg megállapított kibocsátási egységek mennyiségének 50%-át kapja,
 
@@ -20,5 +20,5 @@ c) az a) és b) pontok szerinti esetek valamelyikének fennállása esetén a t�
 
 (5) Az Európai Bizottság jóváhagyását követően a miniszter határozatban megállapítja a létesítményeknek térítésmentesen kiosztható kibocsátási egységek módosított mennyiségét és a jegyzékkezelő útján gondoskodik a módosított és jóváhagyott kibocsátási egységek üzemeltető számláján történő jóváírásáról.
 
-[^91]: A 13. § a 131/2015. (V. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^92]: A 13. § (1) bekezdés nyitó szövegrésze a 435/2017. (XII. 21.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^92]: A 13. § a 131/2015. (V. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^93]: A 13. § (1) bekezdés nyitó szövegrésze a 435/2017. (XII. 21.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
