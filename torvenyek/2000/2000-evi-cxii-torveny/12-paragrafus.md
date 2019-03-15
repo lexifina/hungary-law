@@ -1,1 +1,0 @@
-12. § A települések beépítésre szánt területén a településkép és a tájkarakter védelme érdekében csarnok jellegű épület építése – látványtervvel igazoltan – tájba illesztve, illetve növényzettel takartan engedélyezhető.

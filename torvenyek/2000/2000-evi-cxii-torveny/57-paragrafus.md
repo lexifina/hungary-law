@@ -1,1 +1,0 @@
-57. § A Balaton kiemelt üdülőkörzetének területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az az épített környezet alakításáról és védelméről szóló 1999. évi CXV. törvénnyel módosított 1997. évi LXXVIII. törvény 48/A. § (1) bekezdésében foglaltakon túlmenően e törvény előírásainak is megfelel vagy szabályossá tehető.
