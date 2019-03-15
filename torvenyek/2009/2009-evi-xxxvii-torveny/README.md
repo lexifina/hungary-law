@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-37-00-00
 | 2018-01-02 | 2017. évi CLXXXIII. törvény | 2009-37-00-00.27 |
 | 2018-07-01 | 2017. évi CCV. törvény | 2009-37-00-00.28 |
 | 2018-12-31 | 2018. évi CXI. törvény | 2009-37-00-00.29 |
+| 2019-03-15 | 2018. évi CXXXIX. törvény | 2009-37-00-00.30 |

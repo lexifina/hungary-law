@@ -56,7 +56,7 @@ b) a településvédelmi rendeltetést, ha az nem erdőgazdálkodó kérelmére 
 
 (23) Az erdészeti hatóság a módosító törvény hatálybalépését követően, 2018. június 30-ig az erdő rendeltetéseit a 23. § (2) bekezdésében foglalt rendelkezésekkel, elsődleges rendeltetéseit a 23/A. §-ban foglalt rendelkezésekkel összhangban felülvizsgálja és a szükséges módosításokat az Adattáron átvezeti.
 
-(24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő két éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő öt éven belül van lehetőség.
+(24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő négy éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő öt éven belül van lehetőség.
 
 (25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján, valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény hatálybalépését megelőzően megkötött megbízási szerződést bármelyik fél 60 napos felmondási idővel felmondhatja.
 
@@ -70,7 +70,7 @@ a) kivezeti az Adattárból, vagy
 
 b) ha a terület a 6. § (2) bekezdésében foglalt feltételeknek megfelel, átminősíti szabad rendelkezésű erdővé.
 
-A kérelem benyújtására a módosító törvény hatálybalépését követő két éven belül van lehetőség.
+A kérelem benyújtására a módosító törvény hatálybalépését követő négy éven belül van lehetőség.
 
 (28) Az erdészeti hatóság a módosító törvény hatálybalépésekor az Adattárban nyilvántartott erdőt, ha az a 4. § (2) bekezdésben foglalt feltételeknek megfelel, az erdőgazdálkodó kérelmére, de legkésőbb a soron következő körzeti erdőtervezéskor kivezeti az Adattárból.
 
