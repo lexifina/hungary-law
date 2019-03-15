@@ -1,7 +1,0 @@
-12/A. § (1) A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési eszközök készítése során a 12. § (1) és (2) bekezdésében felsorolt térségi övezetek által érintett területeket az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatos állásfoglalásra kötelezett államigazgatási szervek köréről szóló kormányrendelet szerint, az abban meghatározott államigazgatási szervek előzetes adatszolgáltatása figyelembevételével kell lehatárolni.
-
-(2) A megyei területrendezési tervben a világörökségi és világörökségi várományos terület övezetét, a kiemelt fontosságú honvédelmi terület övezetét, az ásványi nyersanyagvagyon-terület övezetét, a földtani veszélyforrás területének övezetét, a honvédelmi terület övezetét az érintett települések közigazgatási területének megjelölésével kell meghatározni. A megyei területrendezési tervekben alkalmazott, továbbá ott megállapított egyéb térségi övezeteket tényleges kiterjedésüknek megfelelően kell lehatárolni.
-
-(3) A kiemelt térségek területrendezési tervében a térségi övezetek határait – az övezet jellegére tekintettel – a (2) bekezdésben rögzítettektől eltérően is meg lehet határozni.
-
-(4) A településrendezési eszközök készítésénél a hatályos kiemelt térségi és megyei területrendezési terv térségi övezeteinek lehatárolásához képest a térségi övezetek területének a település közigazgatási területére eső része legfeljebb ±5%-kal változhat.
