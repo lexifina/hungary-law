@@ -52,7 +52,7 @@ r) innovációs központok: azon megfelelő termelési és szellemi háttérrel,
 
 s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
 
-t) területcsere: a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszasorolni kívánt beépítésre szánt területtel, megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni;
+t) területcsere: a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszasorolni kívánt beépítésre szánt területtel, megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni;
 
 u) területfejlesztési terv: a térségre készülő területfejlesztési koncepció és program,
 

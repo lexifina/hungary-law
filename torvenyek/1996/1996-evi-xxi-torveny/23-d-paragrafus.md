@@ -1,22 +1,14 @@
 ## A területrendezési hatósági eljárások általános szabályai és az eljárások keretében kiadható térségi területfelhasználási engedélyek
 
-23/D. § (1) A területrendezési tervekben nem szereplő, külön jogszabályban meghatározott térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezéséhez az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye szükséges.
+23/D. § (1) A területrendezési tervekben nem szereplő, külön jogszabályban meghatározott műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezéséhez az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye szükséges.
 
 (2) A településrendezési terv hiányában vagy a tervi elem településrendezési mélységű lehatárolásának hiányában a kiemelt térségi vagy a megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítása az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
 
-(3) A kiváló termőhelyi adottságú szántóterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a Budapesti Agglomeráció területrendezési tervéről szóló törvény hatálya alá tartozó települések területén a területcsere az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
+(3) A kiváló termőhelyi adottságú szántóterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében és valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelölése, továbbá a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartozó települések területén a területcsere az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
 
-(3a) Az országos, a kiemelt térségi vagy a megyei területrendezési tervben nem szereplő, de más rendelkezéseinek megfelelő,
+(3a)
 
-a) az energiaellátás biztonságának biztosításához szükséges atomerőműnek nem minősülő erőmű, villamosenergia-átviteli hálózat távvezeték elemei, nemzetközi és hazai szénhidrogén- és szén-dioxid-szállítóvezeték elemei,
-
-b) a közlekedési infrastruktúra-hálózat elemei közül a gyorsforgalmi utak, főutak és az országos vasúti törzshálózat elemei,
-
-c) az egyedi építmények közül a gyorsforgalmi úton, főúton és vasúti törzshálózaton lévő híd a Dunán és a Tiszán, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló vízkárelhárítási célú szükségtározók
-
-területi elhelyezése az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
-
-(3b) A 23/D. § (1)–(3a) bekezdése és (9) bekezdése szerinti területrendezési hatósági eljárás során a kapcsolattartás írásban történik.
+(3b) A 23/D. § (1)–(3) bekezdése és (9) bekezdése szerinti területrendezési hatósági eljárás során a kapcsolattartás írásban történik.
 
 (4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
@@ -37,3 +29,5 @@ a) a területrendezési terv megnevezése, amelyre a térségi területfelhaszn�
 b) a térségi területfelhasználási engedély által érintett települések megnevezése, valamint
 
 c) a térségi területfelhasználási engedély kiadásának dátuma, iktató száma, érvényesség dátuma, valamint az engedélyezés típusa.
+
+(12) Az országos és a kiemelt térségi területrendezési terveket érintő változások, valamint a térségi területfelhasználási engedélyek tervi következményeit a területrendezésért felelős miniszter – amennyiben indokolt – évente rendeletében kihirdeti.

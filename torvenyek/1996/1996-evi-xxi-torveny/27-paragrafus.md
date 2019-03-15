@@ -34,13 +34,13 @@ o) a területrendezési tervezési tevékenység folytatásának részletes felt
 
 p)
 
-q) az országos és a térségi műszaki infrastruktúrahálózatoknak a területrendezési tervek szerkezeti tervében ábrázolt nyomvonalától való kivételes eltérésre vonatkozó területrendezési hatósági eljárás részletes szabályait;
+q)
 
 r)
 
 s) az állami főépítész vagy főépítészek kijelölését és feladatkörük szabályozását;
 
-t) a területrendezési tervekben nem szereplő, térségi jelentőségű műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezésére, beillesztésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
+t) a területrendezési tervekben nem szereplő műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezésére, beillesztésére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
 u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére, valamint a területcserére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
@@ -60,4 +60,4 @@ z) a területfejlesztéssel és a területrendezéssel összefüggésben megőrz
 
 (6)
 
-(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy a területrendezési feladatok előirányzat felhasználásának szabályait rendeletben állapítsa meg.
+(7) Felhatalmazást kap a területrendezésért felelős miniszter, hogy az országos és a kiemelt térségi területrendezési terveket érintő változások, valamint a térségi területfelhasználási engedélyek tervi következményeit rendeletben kihirdesse.
