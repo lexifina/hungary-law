@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1144-30
 | 2018-05-22 | 2010-1144-30-22.13 | 1243/2018. (V. 22.) Korm. határozat |
 | 2018-09-04 | 2010-1144-30-22.14 | 1407/2018. (IX. 3.) Korm. határozat |
 | 2019-01-23 | 2010-1144-30-22.15 | 1006/2019. (I. 22.) Korm. határozat |
+| 2019-03-15 | 2010-1144-30-22.16 | 1128/2019. (III. 14.) Korm. határozat |
