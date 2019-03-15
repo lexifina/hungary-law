@@ -1,4 +1,4 @@
-## 2. A településképi követelmények és azok meghatározása
+## 2. A helyi településképi követelmények és azok meghatározása
 
 3. § (1) A településképi rendelet
 

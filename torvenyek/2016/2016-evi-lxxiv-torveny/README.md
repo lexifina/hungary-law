@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-74-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2016-74-00-00.10 |
 | 2018-02-15 | 2016. évi CLXXIV. törvény | 2016-74-00-00.11 |
 | 2018-07-26 | 2018. évi XL. törvény | 2016-74-00-00.12 |
+| 2019-03-15 | 2018. évi CXXXIX. törvény | 2016-74-00-00.13 |

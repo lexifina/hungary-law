@@ -4,4 +4,4 @@
 
 (3)
 
-(4) A településképi rendelet vagy a 2. § (2a) bekezdés szerinti jogszabály legfeljebb évente összesen tizenkét naptári hét időszakra eltérést engedhet az (1) és (2) bekezdésben, továbbá az e törvény végrehajtására kiadott kormányrendeletben meghatározott tilalmak és követelmények alól, ha a település szempontjából jelentős valamely eseményről való tájékoztatás érdekében az szükséges.
+(4) A településképi rendelet vagy a 2. § (2a), (2b), (2c) és (2e) bekezdés szerinti jogszabály legfeljebb évente összesen tizenkét naptári hét időszakra eltérést engedhet az (1) és (2) bekezdésben, továbbá az e törvény végrehajtására kiadott kormányrendeletben meghatározott tilalmak és követelmények alól, ha a település szempontjából jelentős valamely eseményről való tájékoztatás érdekében az szükséges.

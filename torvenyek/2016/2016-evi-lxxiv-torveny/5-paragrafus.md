@@ -1,4 +1,4 @@
-5. § (1) A kézikönyv és a településképi rendelet az egy település által önállóan foglalkoztatott települési főépítész vagy több település által közösen foglalkoztatott térségi főépítész (a továbbiakban együtt: önkormányzati főépítész) közreműködésével készül.
+5. § (1) A kézikönyv és a településképi rendelet az egy település által önállóan foglalkoztatott települési főépítész, több település által közösen foglalkoztatott térségi főépítész vagy a megyei főépítész (a továbbiakban együtt: önkormányzati főépítész) közreműködésével készül.
 
 (2) A kézikönyv egyeztetése során a Magyar Építész Kamara, a településképi rendelet egyeztetése során az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal véleményét ki kell kérni. A kézikönyv és a településképi rendelet elkészítésére, egyeztetésére, elfogadására és módosítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
