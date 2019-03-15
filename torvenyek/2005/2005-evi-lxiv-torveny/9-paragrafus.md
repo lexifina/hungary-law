@@ -1,3 +1,0 @@
-9. § (1) Az országos és a térségi jelentőségű műszaki infrastruktúra-hálózatok térbeli rendjét és az egyedi építmények elhelyezkedését a 2. számú (térképi) melléklet, a térbeli rend szempontjából meghatározó települések felsorolását pedig az 1/2. számú melléklet tartalmazza.
-
-(2) Az országos és a térségi jelentőségű műszaki infrastruktúra-hálózatok és egyedi építmények kialakítását az OTrT 1/1–10. számú mellékletében, valamint az e törvény 1/2. számú mellékletében megjelölt települések közigazgatási területének érintésével és a 2. számú (térképi) melléklet figyelembevételével kell meghatározni.

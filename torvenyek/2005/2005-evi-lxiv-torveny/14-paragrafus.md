@@ -1,1 +1,0 @@
-14. § A térségi komplex tájrehabilitációt igénylő terület övezet területén az érintett települések településszerkezeti tervének készítése és módosítása során a térségi összefüggéseket, környezetvédelmi, és tájvédelmi szempontokat is figyelembe vevő tájrendezési tervet kell készíteni.

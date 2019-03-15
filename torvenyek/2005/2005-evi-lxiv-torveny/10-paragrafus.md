@@ -1,1 +1,0 @@
-10. § A vízgazdálkodási térséget legalább 95%-ban vízgazdálkodási terület, illetve természetközeli terület területfelhasználási egységbe kell sorolni. A fennmaradó részen olyan területfelhasználási egység jelölhető ki, amely nem veszélyezteti a vízgazdálkodás érdekeit.
