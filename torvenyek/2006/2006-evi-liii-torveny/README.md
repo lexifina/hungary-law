@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-53-00-00
 | 2018-08-04 | 2018. évi XLIX. törvény | 2006-53-00-00.33 |
 | 2018-12-21 | 2018. évi CXXIV. törvény | 2006-53-00-00.34 |
 | 2018-12-25 | 2018. évi XCVIII. törvény | 2006-53-00-00.35 |
+| 2019-03-15 | 2018. évi CXXXIX. törvény | 2006-53-00-00.36 |
