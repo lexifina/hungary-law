@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-49-00-00
 | 2018-08-04 | 2018. évi XLIX. törvény | 2018-49-00-00.0 (közlönyállapot) |
 | 2018-08-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-49-00-00.1 |
 | 2018-08-05 | 2010. évi CXXX. törvény | 2018-49-00-00.2 |
+| 2019-03-15 | 2018. évi CXXXIX. törvény | 2018-49-00-00.3 |

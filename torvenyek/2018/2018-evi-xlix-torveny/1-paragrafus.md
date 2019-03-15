@@ -6,7 +6,7 @@
 
 1. § E törvény alkalmazásában:
 
-1. agglomeráció: a Budapesti Agglomeráció Területrendezési Tervéről szóló törvény szerinti Budapesti Agglomerációhoz tartozó települések;
+1. agglomeráció: a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény szerinti Budapesti Agglomerációhoz tartozó települések;
 
 2. Budapest Diákváros – Déli Városkapu Fejlesztési Program: a Kormány által rendeletben meghatározott területen megvalósuló, diákotthoni elhelyezést biztosító, szabadidős, közpark, sport, rekreációs és egyéb infrastrukturális és kiegészítő funkciót magában foglaló komplex városfejlesztés, amelynek részét képezik az 1. mellékletben meghatározott létesítményfejlesztési projektek;
 
