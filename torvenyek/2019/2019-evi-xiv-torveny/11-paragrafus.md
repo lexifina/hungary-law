@@ -1,0 +1,1 @@
+11. § A Beruházás tekintetében az Ngtv. 11/G. §-át azzal az eltéréssel kell alkalmazni, hogy az Ngtv. 11/G. § (2) és (3) bekezdése szerinti tájékoztatás, valamint indokolással ellátott nyilatkozatban rögzített álláspont közlésének határideje a tájékoztatáskérés és az intézkedési javaslat kézhezvételétől számított öt nap.

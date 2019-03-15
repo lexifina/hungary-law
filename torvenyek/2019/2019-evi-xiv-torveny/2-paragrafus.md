@@ -1,0 +1,1 @@
+2. § A Beruházás, valamint a Projekt megvalósítása, a Világkiállításon történő magyar megjelenés, a rendezvények lebonyolítása és szervezése kiemelkedően fontos közérdek, amelyek érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekintendők, teljesítésükhöz kiemelkedően fontos közérdek fűződik.
