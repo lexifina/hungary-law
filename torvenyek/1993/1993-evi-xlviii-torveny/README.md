@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2018-12-25 | 2018. évi XCVIII. törvény | 1993-48-00-00.75 |
 | 2019-01-01 | 2018. évi CXXIX. törvény | 1993-48-00-00.76 |
 | 2019-01-15 | 2018. évi XCIX. törvény | 1993-48-00-00.77 |
+| 2019-03-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 1993-48-00-00.78 |
