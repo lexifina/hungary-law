@@ -1,0 +1,5 @@
+## 1. § Az „Ösztöndíjprogram Keresztény Fiataloknak” elnevezésű ösztöndíjprogramról és a felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet módosításáról szóló 120/2017. (VI. 1.) Korm. rendelet (a továbbiakban: Rendelet) 1. § a) pontja helyébe a következő rendelkezés lép:
+
+## [Az „Ösztöndíjprogram Keresztény Fiataloknak” program (a továbbiakban: ösztöndíjprogram) a Kormány által alapított ösztöndíj, amelynek célja, hogy]
+
+## „a) lehetőséget biztosítson felsőfokú tanulmányok – beleértve a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 16. §-a szerinti doktori képzést is – folytatására Magyarország államilag elismert felsőoktatási intézményeiben (a továbbiakban: magyar felsőoktatási intézmény) keresztény fiatalok számára, akiknek származási országában a keresztény közösségek vallási üldöztetésnek, fenyegetésnek vannak kitéve, vagy a szabad vallásgyakorlásban korlátozást szenvednek el, továbbá”
