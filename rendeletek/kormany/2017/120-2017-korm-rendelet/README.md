@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-120-20-
 | 2017-06-10 | 2017-120-20-22.2 | 2010: CXXX. törvény |
 | 2018-08-21 | 2017-120-20-22.3 | 151/2018. (VIII. 13.) Korm. rendelet |
 | 2018-12-06 | 2017-120-20-22.4 | 151/2018. (VIII. 13.) Korm. rendelet |
+| 2019-03-16 | 2017-120-20-22.5 | 41/2019. (III. 8.) Korm. rendelet |
