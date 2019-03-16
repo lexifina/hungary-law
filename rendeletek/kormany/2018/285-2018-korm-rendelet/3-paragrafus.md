@@ -1,3 +1,0 @@
-## 2. § A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 179/2011. (IX. 2.) Korm. rendelet (a továbbiakban: R2.) 3. § (3a) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3a) A járművezető vizsgabiztosok, a szakoktatók és az iskolavezetők képzését és továbbképzését – a közúti közlekedésről szóló 1988. évi I. törvény alapján – a KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság végzi a képzésre, továbbképzésre vonatkozó ügyviteli, dokumentálási, tantervi és vizsgakövetelmények, valamint egyéb szabályzatok alapján.”
