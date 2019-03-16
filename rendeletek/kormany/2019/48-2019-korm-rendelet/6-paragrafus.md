@@ -1,3 +1,5 @@
-## 5. § A Nemzeti Jogszabálytárról szóló 338/2011. (XII. 29.) Korm. rendelet 9. § (2) bekezdésében a „működtetésével” szövegrész helyébe a „működtetésével, fejlesztésével, üzemeltetésével” szöveg lép.
+## 5. §[^6]
 
 6. § Ez a rendelet 2019. március 15-én lép hatályba.
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
