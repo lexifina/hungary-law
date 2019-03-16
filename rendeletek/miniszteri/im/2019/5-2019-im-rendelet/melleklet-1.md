@@ -1,4 +1,4 @@
-## 24. § Hatályát veszti a Magyar Közlöny kiadásáról, valamint a jogszabály kihirdetése során történő és a közjogi szervezetszabályozó eszköz közzététele során történő megjelöléséről szóló 32/2010. (XII. 31.) KIM rendelet.
+## 24. §[^1]
 
 1. melléklet az 5/2019. (III. 13.) IM rendelethez
 
@@ -49,3 +49,5 @@
 3.4. a Magyar Nemzeti Bank elnökének rendeleteihez, valamint az önálló szabályozó szerv vezetőjének rendeleteihez tartozó indokolások,
 
 3.5. a Kormány tagjainak rendeleteihez tartozó indokolások.
+
+[^1]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
