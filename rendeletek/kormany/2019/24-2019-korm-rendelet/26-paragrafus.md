@@ -1,3 +1,5 @@
-## 25. § A 14/2015. Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+## 3–25. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 3–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
