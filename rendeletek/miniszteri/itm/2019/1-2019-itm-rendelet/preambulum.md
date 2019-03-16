@@ -1,7 +1,0 @@
-A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés e) pontjában kapott felhatalmazás alapján – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 1. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –,
-
-a 3. alcím tekintetében a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 18. alpontjában kapott felhatalmazás alapján,
-
-az 5. alcím tekintetében a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke 2011. évi módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2011. évi LXXX. törvény 5. § (2) bekezdés a) pontjában, a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2015. évi LXXXIX. törvény 5. § (2) bekezdés b) pontjában, valamint a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló 2015. évi LXXXIV. törvény 6. § (2) bekezdés a) pontjában kapott felhatalmazás alapján,
-
-a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 18. pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
