@@ -1,3 +1,5 @@
-## 6. § A Rendelet 6. § (3) bekezdés d) pontjában a „tanulmányok” szövegrész helyébe a „képzés” szöveg lép.
+## 1–6. §[^2]
 
 7. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+[^2]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
