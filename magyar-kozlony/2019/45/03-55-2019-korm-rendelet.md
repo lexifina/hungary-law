@@ -1,0 +1,95 @@
+# A Kormány 55/2019. (III. 18.) Korm. rendelete
+
+Magyar Közlöny 2019. évi 45. szám, 2019. március 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/cMchzZwxekt8aF5BLM9W5c8958dfe7df7/dokumentumok/07f87f80cc65a034930643f927c0ed7f94e8cff5/letoltes)
+
+---
+
+A Kormány 55/2019. (III. 18.) Korm. rendelete
+a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló
+168/1997. (X. 6.) Korm. rendelet módosításáról
+A Kormány a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 101. § (1) bekezdés a) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.)
+Korm. rendelet 2. számú melléklete helyébe az 1. melléklet lép.
+2. §
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 55/2019. (III. 18.) Korm. rendelethez
+„2. számú melléklet a 168/1997. (X. 6.) Korm. rendelethez
+A keresetek, jövedelmek beszámítása során alkalmazandó valorizációs szorzószámok 2019. január 1-je
+és december 31-e közötti időponttól megállapításra kerülő nyugellátások esetén
+A B
+1. Év Szorzószám
+2. 1950. 336,616
+3. 1951. 315,228
+4. 1952. 248,071
+5. 1953. 233,599
+6. 1954. 213,295
+7. 1955. 202,867
+8. 1956. 187,532
+9. 1957. 161,062
+10. 1958. 157,505
+
+11. 1959. 151,043
+12. 1960. 147,528
+13. 1961. 145,551
+14. 1962. 142,020
+15. 1963. 136,662
+16. 1964. 132,305
+17. 1965. 131,846
+18. 1966. 125,605
+19. 1967. 121,720
+20. 1968. 119,178
+21. 1969. 114,227
+22. 1970. 107,199
+23. 1971. 102,484
+24. 1972. 97,234
+25. 1973. 90,618
+26. 1974. 84,139
+27. 1975. 78,931
+28. 1976. 75,316
+29. 1977. 70,061
+30. 1978. 64,871
+31. 1979. 61,665
+32. 1980. 58,339
+33. 1981. 54,779
+34. 1982. 51,435
+35. 1983. 49,220
+36. 1984. 43,908
+37. 1985. 40,172
+38. 1986. 37,264
+39. 1987. 34,314
+40. 1988. 31,251
+41. 1989. 26,733
+42. 1990. 21,985
+43. 1991. 17,518
+44. 1992. 14,441
+45. 1993. 12,270
+46. 1994. 9,639
+47. 1995. 8,560
+48. 1996. 7,291
+49. 1997. 5,876
+50. 1998. 4,962
+51. 1999. 4,403
+52. 2000. 3,952
+53. 2001. 3,401
+54. 2002. 2,844
+55. 2003. 2,489
+56. 2004. 2,354
+57. 2005. 2,138
+
+58. 2006. 1,987
+59. 2007. 1,929
+60. 2008. 1,803
+61. 2009. 1,771
+62. 2010. 1,658
+63. 2011. 1,558
+64. 2012. 1,527
+65. 2013. 1,455
+66. 2014. 1,412
+67. 2015. 1,355
+68. 2016. 1,257
+69. 2017. 1,113
+ ”
