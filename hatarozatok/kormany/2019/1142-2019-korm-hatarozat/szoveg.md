@@ -1,0 +1,5 @@
+A Kormány
+
+1. a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 5. melléklet 3.12.6. pontja alapján hozzájárul a VEKOP-6.3.2-17-2017-00002 azonosító számú, „Irmák Nonprofit Kft. – Speciális Foglalkoztató Otthon és Intézményeinek férőhely kiváltása” című projekt (a továbbiakban: projekt) tekintetében a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.12.1. pontjában meghatározott költségek ingatlanvásárlás költségtípusra történő – a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.3.6.4. pont szerinti mértéket meghaladó mértékű – átcsoportosításhoz,
+
+2. a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.12.7. pontja alapján hozzájárul a projekt tekintetében, hogy a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.12.1. pontjában meghatározott költségtípusokra vonatkozó mértékek együttes összege a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.12.1a. pontja szerinti mértéket meghaladja.
