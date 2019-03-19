@@ -38,6 +38,8 @@
 
 | 18. | Gyümölcsfeldolgozó üzem megvalósítására és üzemeltetésére irányuló beruházás Tornyospálca külterületén | Tornyospálca közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 074/38 és 074/39 helyrajzi számú ingatlanok. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^24]
+| 19. | iparterület kialakítása Bükön | Bük város külterület 04/47, 04/49, 04/56, 04/58, 04/46, 04/44, 04/16, 04/17, 04/19, 04/45, 04/48, 04/57, valamint a Bük város belterület 1474/3, 1475/1, 1475/3, 1474/1, 1475/2 és 1474/2 helyrajzi számok alatt található ingatlanok, valamint az ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészletek | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^24]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^26]
+
+[^26]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

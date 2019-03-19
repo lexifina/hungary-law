@@ -1,4 +1,4 @@
-## 17. §[^21] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 35/2019. (III. 5.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 2. mellékletben foglalt táblázat 18. sorát a Módr9. hatálybalépésekor[^22] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 18. §[^23] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 58/2019. (III. 18.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított 2. mellékletben foglalt táblázat 19. sorát a Módr10. hatálybalépésekor[^24] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^21]: A 17. §-t a 35/2019. (III. 5.) Korm. rendelet 1. §-a iktatta be.
-[^22]: A hatálybalépés időpontja 2019. március 6.
+[^23]: A 18. §-t az 58/2019. (III. 18.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2019. március 19.
