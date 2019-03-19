@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Eritrea Állam Kormánya között a gazdasági és műszaki együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
