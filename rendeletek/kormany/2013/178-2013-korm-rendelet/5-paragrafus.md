@@ -6,6 +6,6 @@ b) összehangolja a szervezeti tagok veszélyhelyzetben folytatott karitatív se
 
 c) figyelemmel kíséri a veszélyhelyzetben folytatott adományozási gyakorlatot.
 
-(2)[^1] A szervezeti tagok saját adománygyűjtő vonalainak működtetése a 3. § (1) bekezdése szerinti megállapodás alapján a veszélyhelyzet kihirdetésekor felfüggesztésre kerül. A felfüggesztés a veszélyhelyzet megszűnéséig vagy a Tanács döntése alapján a veszélyhelyzet megszűnését megelőző időpontig tart.
+(2)[^2] A szervezeti tagok saját adománygyűjtő vonalainak működtetése a 3. § (1) bekezdése szerinti megállapodás alapján a veszélyhelyzet kihirdetésekor felfüggesztésre kerül. A felfüggesztés a veszélyhelyzet megszűnéséig vagy a Tanács döntése alapján a veszélyhelyzet megszűnését megelőző időpontig tart.
 
-[^1]: Az 5. § (2) bekezdése a 231/2013. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 5. § (2) bekezdése a 231/2013. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
