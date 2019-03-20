@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1140-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-03-19 | 2019-1140-30-22.1 | 1140/2019. (III. 18.) Korm. határozat |
+| 2019-03-20 | 2019-1140-30-22.2 | 2010: CXXX. törvény |
