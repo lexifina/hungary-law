@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-7-20-11
 | 2018-08-18 | 2018-7-20-11.3 | 22/2018. (VIII. 17.) AM rendelet |
 | 2019-03-01 | 2018-7-20-11.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-03-02 | 2018-7-20-11.5 | 2010: CXXX. törvény |
+| 2019-03-20 | 2018-7-20-11.6 | 6/2019. (III. 19.) AM rendelet |

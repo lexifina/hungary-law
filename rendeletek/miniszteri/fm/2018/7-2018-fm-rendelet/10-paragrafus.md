@@ -1,6 +1,6 @@
-10. § (1) A madárinfluenza tekintetében a pénzügyi hozzájárulás a SANTE/VP/2018/HU/SI2.774134. számú támogatási határozat 3. cikk 3. pont b) alpontjával elfogadott nemzeti program szerinti felmérési programok laboratóriumi vizsgálatainak költségeire, valamint a tenyésztett baromfiból és vadon élő madarakból történő mintavétel költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra 302 433 eurónak megfelelő forintösszeg.
+10. § (1)[^12] A madárinfluenza tekintetében a pénzügyi hozzájárulás a SANTE/VP/2018/HU/SI2.774134. számú támogatási határozat 3. cikk 3. pont b) alpontjával elfogadott nemzeti program szerinti felmérési programok laboratóriumi vizsgálatainak költségeire, valamint a tenyésztett baromfiból és vadon élő madarakból történő mintavétel költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra 300 000 eurónak megfelelő forintösszeg.
 
-(2) A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 281 300 eurónak megfelelő forint keretösszegig.
+(2)[^13] A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 278 867 eurónak megfelelő forint keretösszegig.
 
 (3) A (2) bekezdés szerinti pénzügyi hozzájárulás mértéke az igazolt költségek 100%-a, de a maximális átalányösszeg nem haladhatja meg
 
@@ -35,3 +35,6 @@ b) vadmadarak esetén más szervezet a NÉBIH-nek
 ## benyújtja a mintavétellel kapcsolatos költségeket igazoló pénzügyi bizonylatok másolatát.
 
 (7) A megyei kormányhivatal és a NÉBIH a (4) bekezdés szerinti pénzügyi hozzájárulás számlájára történt átutalását követően haladéktalanul intézkedik annak azon mintavevő fizetési számlájára történő továbbításáról, aki vagy amely esetében a NÉBIH vizsgálatra alkalmasnak minősítette a levett mintákat, valamint a mintavevő benyújtotta az adott naptári félévre vonatkozóan egy alkalommal, a tárgyfélévet követő hónap 15. napjáig – 2018. első félévére vonatkozóan 2018. július 15-ig, 2018. második félévére vonatkozóan 2019. január 15-ig – a mintavétel költségeit igazoló számlák másolati példányát a megyei kormányhivatalnak vagy a NÉBIH-nek. A vadászatra jogosultnak, a szolgáltató állatorvosnak vagy más szervezetnek a számlákhoz csatolnia kell a NÉBIH által kiadott éves madárinfluenza monitoring programban előírt, a mintavevő által aláírt minta-azonosító lapok másolati példányát.
+
+[^12]: A 10. § (1) bekezdése a 6/2019. (III. 19.) AM rendelet 2. § i) pontja szerint módosított szöveg.
+[^13]: A 10. § (2) bekezdése a 6/2019. (III. 19.) AM rendelet 2. § j) pontja szerint módosított szöveg.

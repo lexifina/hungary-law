@@ -1,8 +1,8 @@
 ## 3. A pénzügyi hozzájárulás igénybevételének részletes szabályai
 
-7. § (1) A szalmonellózis tekintetében a pénzügyi hozzájárulás a SANTE/VP/2018/HU/SI2.774134. számú támogatási határozat 3. cikk 3. pont e) alpontjával elfogadott nemzeti program szerinti baromfiállományokból történő hatósági mintavétel költségeire, az ennek keretében elvégzett bakteriológiai vizsgálatok, antimikrobiális gátló hatásra irányuló vizsgálatok és a szerotipizálás költségeire, a felszámolásra került állatok és tojások értékéért az állattartó részére fizetendő kárenyhítésre, az oltóanyagok beszerzésére, valamint a fertőtlenítés hatékonyságának ellenőrzésére végzett hatósági laboratóriumi vizsgálatok költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra összesen 3 993 056 eurónak megfelelő forintösszeg.
+7. § (1)[^4] A szalmonellózis tekintetében a pénzügyi hozzájárulás a SANTE/VP/2018/HU/SI2.774134. számú támogatási határozat 3. cikk 3. pont e) alpontjával elfogadott nemzeti program szerinti baromfiállományokból történő hatósági mintavétel költségeire, az ennek keretében elvégzett bakteriológiai vizsgálatok, antimikrobiális gátló hatásra irányuló vizsgálatok és a szerotipizálás költségeire, a felszámolásra került állatok és tojások értékéért az állattartó részére fizetendő kárenyhítésre, az oltóanyagok beszerzésére, valamint a fertőtlenítés hatékonyságának ellenőrzésére végzett hatósági laboratóriumi vizsgálatok költségeire vehető igénybe. A keretösszeg a végrehajtási időszakra összesen 4 032 000 eurónak megfelelő forintösszeg.
 
-(2) A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 84 000 eurónak megfelelő forint keretösszegig
+(2)[^5] A pénzügyi hozzájárulás igénybevételére a NÉBIH jogosult 79 000 eurónak megfelelő forint keretösszegig
 
 a) a hatósági mintavétel keretében végzett bakteriológiai vizsgálatok és szerotipizálások,
 
@@ -24,7 +24,7 @@ d) a szalmonella-fertőzöttség szempontjából vizsgált állományokból szá
 
 ## megfelelő forintösszeget.
 
-(4) A pénzügyi hozzájárulás igénybevételére az a) és b) pont esetében a megyei kormányhivatal, a c) pont esetében a megyei kormányhivatal és a NÉBIH jogosult 3 909 056 eurónak megfelelő forint keretösszegig
+(4)[^6] A pénzügyi hozzájárulás igénybevételére az a) és b) pont esetében a megyei kormányhivatal, a c) pont esetében a megyei kormányhivatal és a NÉBIH jogosult 3 953 000 eurónak megfelelő forint keretösszegig
 
 a) az állattartónak a megyei kormányhivatal által, a fertőzött tojó- vagy tenyészállomány felszámolása érdekében elrendelt állatleölés (leöletés) vagy elkülönített vágás, tojásártalmatlanítás vagy nem keltetett tenyésztojás hőkezelése következtében keletkezett kára enyhítéséhez,
 
@@ -95,3 +95,7 @@ c) a (9) bekezdés h) pontja tekintetében a mintavétel időpontja.
 (11) Ha a pénzügyi hozzájárulás igénybevételére vonatkozó feltételek teljesítésének helyszíni ellenőrzése során az állattartónál a NÉBIH vagy a megyei kormányhivatal a pénzügyi hozzájárulás kifizetését követően megállapítja, hogy az állattartó a feltételeket nem teljesítette, akkor az állattartó részére a végrehajtási időszakban az adott célterületre vonatkozóan kifizetett teljes összeg a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti, intézkedésben való jogosulatlan részvételnek minősül.
 
 (12) Ha az e rendelet alapján történt kifizetések ellenőrzése során az ellenőrzésre jogosult szerv megállapítja, hogy az állattartó nem az (5) bekezdés e) pontjának megfelelően küldte meg a jogosultságot igazoló dokumentumokat a megyei kormányhivatalnak, az állattartót kötelezi a jogosulatlanul igénybe vett összeg megyei kormányhivatal részére történő visszatérítésére, a megyei kormányhivatal pedig ezt követően haladéktalanul intézkedik az összeg Kincstár részére történő visszautalásáról.
+
+[^4]: A 7. § (1) bekezdése a 6/2019. (III. 19.) AM rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: A 7. § (2) bekezdés nyitó szövegrésze a 6/2019. (III. 19.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^6]: A 7. § (4) bekezdés nyitó szövegrésze a 6/2019. (III. 19.) AM rendelet 2. § c) pontja szerint módosított szöveg.
