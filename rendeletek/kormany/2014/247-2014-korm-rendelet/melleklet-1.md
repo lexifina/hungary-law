@@ -1,4 +1,4 @@
-1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^54]
+1. melléklet a 247/2014. (X. 1.) Korm. rendelethez[^55]
 
 Kormányzati kommunikációs feladatok
 
@@ -24,4 +24,4 @@ Kormányzati kommunikációs feladatok
 
 | 10. |  |  |
 
-[^54]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a, a 189/2016. (VII. 13.) Korm. rendelet 11. §-a, a 99/2018. (VI. 8.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^55]: Az 1. melléklet a 475/2015. (XII. 29.) Korm. rendelet 21. §-a, a 189/2016. (VII. 13.) Korm. rendelet 11. §-a, a 99/2018. (VI. 8.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.

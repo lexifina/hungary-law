@@ -1,4 +1,4 @@
-## 5. [^45] Kommunikációs beszerzésre és szponzorációra vonatkozó igények
+## 5. [^46] Kommunikációs beszerzésre és szponzorációra vonatkozó igények
 
 12. § (1) A 8. § (1) bekezdés c) pontja szerint a Hivatalhoz kizárólag olyan kommunikációs beszerzés elbírálására nyújtható be igény, amely az éves összesített kommunikációs beszerzési tervben szerepel.
 
@@ -30,4 +30,4 @@ c) a kommunikációs beszerzésre vonatkozó igény összes körülménye alapj�
 
 (7) Az érintett szervezetnek a megvalósítani kívánt kommunikációs beszerzés becsült értékét a Kbt. becsült értékre vonatkozó rendelkezéseire figyelemmel kell megállapítania.
 
-[^45]: Az 5. alcím (12–13. §) a 99/2018. (VI. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^46]: Az 5. alcím (12–13. §) a 99/2018. (VI. 8.) Korm. rendelet 9. §-ával megállapított szöveg.

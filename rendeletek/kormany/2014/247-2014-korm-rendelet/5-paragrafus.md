@@ -16,7 +16,10 @@ f) az a)–e) pontokba nem tartozó olyan szervezet, amely a csatlakozást önk�
 
 (2) A központosított közbeszerzési rendszerbe való önkéntes csatlakozásra a Hivatal engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–e) pontjai alapján központosított közbeszerzésre kötelezett szervezetek folyamatos ellátását. Ennek érdekében a Hivatal az (1) bekezdés f) pontja szerinti szervezet központosított közbeszerzési rendszerbe való belépését megtagadhatja vagy feltételhez kötheti.
 
+(3)[^22] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jogok gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
+
 [^18]: A 3. alcím címe a 99/2018. (VI. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^19]: Az 5. § a 48/2017. (III. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^20]: Az 5. § (1) bekezdés nyitó szövegrésze a 99/2018. (VI. 8.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^21]: Az 5. § (1) bekezdés a) pontja a 101/2018. (VI. 11.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^22]: Az 5. § (3) bekezdését az 50/2019. (III. 14.) Korm. rendelet 1. §-a iktatta be.
