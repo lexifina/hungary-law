@@ -24,7 +24,7 @@
 
 (12)[^83]
 
-(13)[^84] Az Eximbank az Európai Bizottság számára készítendő éves tevékenységi jelentéshez a 2. mellékletben meghatározott tartalmú jelentést készít. A jelentésben azokat az ügyleteket, amelyekhez az Eximbank és a Magyar Exporthitel Biztosító Részvénytársaság közösen nyújtott hivatalos támogatást, az Európai Uniónak és az OECD-nek megküldött jelentések esetén követett gyakorlatnak megfelelően csak az egyik intézmény szerepeltetheti. Az Eximbank a tevékenységi jelentésben megadja közérdekű adatai elektronikus elérhetőségét is.
+(13)[^84] Az Eximbank az Európai Bizottság számára készítendő éves tevékenységi jelentéshez a 2. mellékletben meghatározott tartalmú jelentést készít. A jelentésben azokat az ügyleteket, amelyekhez az Eximbank és a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaság közösen nyújtott hivatalos támogatást, az Európai Uniónak és az OECD-nek megküldött jelentések esetén követett gyakorlatnak megfelelően csak az egyik intézmény szerepeltetheti. Az Eximbank a tevékenységi jelentésben megadja közérdekű adatai elektronikus elérhetőségét is.
 
 [^72]: A 11/A. §-t a 311/2001. (XII. 28.) Korm. rendelet 4. §-a iktatta a szövegbe.
 [^73]: A 11/A. § (1) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 8. §-a hatályon kívül helyezte.
@@ -38,4 +38,4 @@
 [^81]: A 11/A. § (10) bekezdését a 304/2005. (XII. 25.) Korm. rendelet 11. § (5) bekezdése iktatta be, hatályon kívül helyezte a 183/2013. (VI. 7.) Korm. rendelet 8. §-a.
 [^82]: A 11/A. § (11) bekezdését a 304/2005. (XII. 25.) Korm. rendelet 11. § (5) bekezdése iktatta be, hatályon kívül helyezte a 183/2013. (VI. 7.) Korm. rendelet 8. §-a.
 [^83]: A 11/A. § (12) bekezdését a 304/2005. (XII. 25.) Korm. rendelet 11. § (5) bekezdése iktatta be, hatályon kívül helyezte a 183/2013. (VI. 7.) Korm. rendelet 8. §-a.
-[^84]: A 11/A. § (13) bekezdését a 304/2005. (XII. 25.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 204/2012. (VII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^84]: A 11/A. § (13) bekezdését a 304/2005. (XII. 25.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 204/2012. (VII. 27.) Korm. rendelet 4. §-ával megállapított, az 53/2019. (III. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
