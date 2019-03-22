@@ -38,7 +38,10 @@ k)[^3] az állami felsőoktatási intézménynek a nemzeti felsőoktatásról sz
 
 (4) E rendelet 15–17. §-ának rendelkezéseit nem kell alkalmazni az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság által az államadósság-kezelés körében megkötésre kerülő azon szerződésekre, amelyekre közbeszerzési eljárást a közbeszerzési törvény 9. § (8) bekezdés e) pontja alapján nem kell lefolytatni, továbbá ezen eljárások eredményeként kötött szerződések módosítására.
 
+(5)[^5] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
+
 [^1]: Az 1. § (2) bekezdés d) pontja a 206/2016. (VII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés e) pontja a 101/2018. (VI. 11.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés k) pontja a 473/2015. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: Az 1. § (3) bekezdése a 29/2017. (II. 13.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^5]: Az 1. § (5) bekezdését az 50/2019. (III. 14.) Korm. rendelet 2. §-a iktatta be.

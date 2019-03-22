@@ -1,4 +1,4 @@
-## 3.[^7] Az e-közigazgatásért, valamint a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által végzett ellenőrzés
+## 3.[^8] Az e-közigazgatásért, valamint a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által végzett ellenőrzés
 
 4. § (1) Az informatikai eszközök és szolgáltatások tekintetében, az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs infrastruktúrához történő illeszkedés szempontjaira figyelemmel az e-közigazgatásért felelős miniszter, valamint a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a miniszter 2. §-ban foglalt feladatainak ellátásában e rendeletben meghatározottak szerint működik közre.
 
@@ -40,4 +40,4 @@ m) az elektronikus közbeszerzési szolgáltatások – elektronikus árlejtés 
 
 (6) Az e-közigazgatásért felelős miniszter a jóváhagyást megtagadja, ha az 1. mellékletben megjelölt szervnek az előterjesztéssel összefüggő, az E-ügyintézési tv. szerinti informatikai fejlesztési tervével nem értett egyet vagy az előterjesztés alapján a szerv az informatikai fejlesztést az e-közigazgatásért felelős miniszter álláspontjának figyelmen kívül hagyásával kívánja megvalósítani. Az e-közigazgatásért felelős miniszter a jóváhagyását akkor is megtagadja, ha az előterjesztés az állami szervek informatikai fejlesztéseinek koordinációjáról szóló rendelet szerinti bejelentésben vagy annak módosításában nem szerepelt, és az 1. mellékletében megjelölt szervezet nem igazolja, hogy a bejelentés elmaradása önhibáján kívüli okból következett be.
 
-[^7]: A 3. alcím (4–4/A. §) a 314/2018. (XII. 27.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. alcím (4–4/A. §) a 314/2018. (XII. 27.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
