@@ -1,3 +1,3 @@
-## 27. §[^35]
+## 27. §[^36]
 
-[^35]: A 27. § a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
+[^36]: A 27. § a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
