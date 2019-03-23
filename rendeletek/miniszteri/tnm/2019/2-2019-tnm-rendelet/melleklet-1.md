@@ -1,4 +1,4 @@
-## 19. § Hatályát veszti a nemzetiségi és egyházi célú, valamint az üldözött keresztények megsegítését célzó fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 1/2018. (VIII. 31.) TNM rendelet.
+## 19. §[^1]
 
 1. melléklet a 2/2019. (III. 19.) TNM rendelethez
 
@@ -81,3 +81,5 @@
 | 38 | 286023 |  |  |  | 30/1/31/5 Nemzetiségi Önkormányzatok 2018. évi kompenzációja | A nemzetiségi önkormányzatok által fenntartott intézményekben foglalkoztatottak részére – az adó- és járulékfizetési kötelezettséget megállapító törvények módosításából adódó nettó jövedelemcsökkenés kompenzálására jogszabály alapján – járó többlet-személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére biztosított támogatás. A költségvetési támogatás az egyházi jogi személyek foglalkoztatottjainak kompenzációjáról szóló Korm. rendelet rendelkezései szerint nyújtható. A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható. | nemzetiségi önkormányzatok, társulás | támogatási szerződéssel vagy támogatói okirattal | biztosítható (az egyházi jogi személyek foglalkoz- tatottjainak kompenzációjáról szóló Korm. rendelet rendelkezései szerint) | az egyházi jogi személyek foglalkoz- tatottjainak kompenzációjáról szóló Korm. rendelet rendelkezései szerint | az egyházi jogi személyek foglalkozta- tottjainak kompen- zációjáról szóló Korm. rendelet rendelkezései szerint | az egyházi jogi személyek foglalkozta- tottjainak kompen- zációjáról szóló Korm. rendelet rendelkezései szerint | – | – | – |
 
 |  |  |  |  |  |  | Ezen előirányzaton állnak rendelkezésre a költségvetési szervek és az egyházi jogi személyek foglalkoztatottjainak kompenzációjáról szóló Korm. rendelet, valamint, a központi költségvetési szerveknél foglalkoztatottak kompenzációjához szükséges előirányzat- átcsoportosításról szóló Korm. határozatalapján biztosított támogatások maradványai. |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
