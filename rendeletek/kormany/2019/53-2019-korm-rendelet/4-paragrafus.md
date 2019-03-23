@@ -1,3 +1,5 @@
-## 3. § Az R. 11/A. § (13) bekezdésében és 11/B. §-ában a „Magyar Exporthitel Biztosító Részvénytársaság” szövegrész helyébe a „Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaság” szöveg lép.
+## 1–3. §[^2]
 
 4. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
