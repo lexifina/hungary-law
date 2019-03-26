@@ -1,10 +1,10 @@
-## 23. §[^152] A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet módosításáról szóló 185/2013. (VI. 7.) Korm. rendelet (a továbbiakban: MódR.) 6. §-ával megállapított 7. § (1) és (3) bekezdése, 11. § b) és c) pontjával megállapított 7. § (4) bekezdése és 7. § (7) bekezdése a 2012. december 30. és a MódR. hatálybalépése[^153] közötti időszakban megkötött biztosítási szerződésekre is alkalmazandók.
+## 23. §[^156] A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet módosításáról szóló 185/2013. (VI. 7.) Korm. rendelet (a továbbiakban: MódR.) 6. §-ával megállapított 7. § (1) és (3) bekezdése, 11. § b) és c) pontjával megállapított 7. § (4) bekezdése és 7. § (7) bekezdése a 2012. december 30. és a MódR. hatálybalépése[^157] közötti időszakban megkötött biztosítási szerződésekre is alkalmazandók.
 
-1. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^154]
+1. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^158]
 
 ## A piacképes kockázatú országok jegyzéke
 
-## I.[^155] Az Európai Unió tagállamai Görögország kivételével
+## I.[^159] Az Európai Unió tagállamai Görögország kivételével
 
 II. Az OECD tagállamai közül
 
@@ -24,7 +24,7 @@ II. Az OECD tagállamai közül
 
 8. Amerikai Egyesült Államok
 
-[^152]: A 23. §-t a 185/2013. (VI. 7.) Korm. rendelet 12. §-a iktatta be.
-[^153]: A hatálybalépés napja: 2013. június 8.
-[^154]: A rendelet eredeti mellékletének számozását a 303/2005. (XII. 25.) Korm. rendelet 18. §-a 1. számú mellékletre változtatta.
-[^155]: Az 1. számú melléklet I. pontja a 205/2012. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^156]: A 23. §-t a 185/2013. (VI. 7.) Korm. rendelet 12. §-a iktatta be.
+[^157]: A hatálybalépés napja: 2013. június 8.
+[^158]: A rendelet eredeti mellékletének számozását a 303/2005. (XII. 25.) Korm. rendelet 18. §-a 1. számú mellékletre változtatta.
+[^159]: Az 1. számú melléklet I. pontja a 205/2012. (VII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
