@@ -26,10 +26,12 @@ d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 
 e) a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
 
-f) a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont Régészeti Intézete, valamint
+f) a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont,
 
-g) a jogszabályban kijelölt örökségvédelmi szerv.
+g) a jogszabályban kijelölt örökségvédelmi szerv, valamint
 
-(4a) A jogszabályban kijelölt örökségvédelmi szerv feltárási jogosultsága az előzetes régészeti dokumentáció készítéséhez kapcsolódó régészeti feladatellátásra, a jogszabályban kijelölt örökségvédelmi szerv saját vagyonkezelésében lévő ingatlanon megvalósuló régészeti feltárásra, valamint tervásatás végzésére terjed ki.
+h) a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet szerint régészeti területen szakértői tevékenység végzésére jogosult szakértő kizárólag az örökségvédelmi hatástanulmányok készítéséhez végzett terepbejárás és műszeres lelőhely- és leletfelderítés esetén.
+
+(4a)
 
 (5) A jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén a hatóság – jogszabályban meghatározottak szerint – a feltárást leállítja vagy a régészeti feltárásra vonatkozó engedélyt visszavonja, jogszabályban meghatározott esetekben örökségvédelmi bírság kiszabásáról rendelkezik.

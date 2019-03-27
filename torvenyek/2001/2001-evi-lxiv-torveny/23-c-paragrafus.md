@@ -14,4 +14,4 @@
 
 (7) A műszeres lelőhely- és leletfelderítéshez kapcsolódó feladatok ellátásába gazdasági társaság bevonható.
 
-(8) Az előzetes régészeti dokumentáció keretében végzett régészeti feladatellátáshoz kapcsolódó régészeti földmunka elvégzéséről a jogszabályban kijelölt örökségvédelmi szerv – a közbeszerzésekről szóló törvény szerint – gondoskodik a beruházó költségén.
+(8) Amennyiben a beruházó a régészeti gépi földmunka elvégzését nem tudja biztosítani, az előzetes régészeti dokumentáció keretében végzett régészeti feladatellátáshoz kapcsolódó régészeti gépi földmunka elvégzéséről a jogszabályban kijelölt örökségvédelmi szerv – a közbeszerzésekről szóló törvény szerint – gondoskodik a beruházó költségén.

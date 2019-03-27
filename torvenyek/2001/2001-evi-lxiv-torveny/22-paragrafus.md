@@ -50,7 +50,9 @@ ba) nincs területi múzeum a beruházással érintett területen,
 
 bb) a területi múzeum kapacitása nem teszi lehetővé az önálló feladatellátást,
 
-bc) a beruházással érintett terület túllépi a területi múzeum gyűjtőterületét.
+bc) a beruházással érintett terület túllépi a területi múzeum gyűjtőterületét;
+
+c) jogszabályban kijelölt örökségvédelmi szerv a 23/G. §-ban meghatározott feladatok ellátásánál és a saját vagyonkezelésében levő ingatlanjain.
 
 (6) Az (5) bekezdés b) pont bb) alpontja szerinti kapacitás rendelkezésre állásáról a területi múzeum a beruházó megkeresésére nyolc napon belül nyilatkozni köteles.
 
