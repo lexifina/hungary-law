@@ -6,11 +6,11 @@
 
 ## Határidő: 2018. szeptember 1.
 
-## 2. egyetért a Beruházás II. ütemének előkészítésével;
+## 2.[^1]
 
-## 3. a 2. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
+## 3.[^2]
 
-## 4. a 2. pont szerinti beruházás előkészítése érdekében, a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés k), m), n) és o) pontja szerinti fázisokra legfeljebb – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 50 000 000 forint forrást biztosít a 2018. évben a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2018. december 31. napjáig kell megvalósítani;
+## 4.[^3]
 
 ## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a 2. pont szerinti beruházás előkészítési feladatainak finanszírozása érdekében összesen 50 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelési előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 40. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport javára az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
 
@@ -30,27 +30,11 @@
 
 ## Határidő: a 8. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül
 
-## 6. egyetért azzal, hogy a 4. pont szerinti előkészítési fázisokat a Király Szabadidősport Egyesület (nyilvántartási szám: 18-02-0199993, adószám: 18896596-1-18) valósítsa meg;
+## 6.[^4]
 
-## 7. felhívja az emberi erőforrások miniszterét, hogy az 1. pontban és a 4–5. pontban megjelölt forrásnak a Beruházás I. ütemének megvalósítása és II. ütemének előkészítése érdekében történő felhasználásáról a fejlesztési területet képező ingatlanok egységes és rendezett tulajdoni viszonyainak ellenőrzését követően kössön támogatási szerződést a Király Szabadidősport Egyesülettel, amelynek keretében 150 000 000 forint a folyamatban lévő beruházások befejezésére, 50 000 000 forint pedig a további fejlesztési ütemek előkészítésére, engedélyes tervek elkészítésére kerüljön biztosításra;
+## 7.[^5]
 
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2018. szeptember 15.
-
-## 8. felhívja az emberi erőforrások miniszterét, hogy a Király Szabadidősport Egyesület bevonásával
-
-## a) készítsen jelentést a Rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 4. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről;
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: a 4. pont szerinti határidőt követő 30 napon belül
-
-## b) a 4. pont szerinti előkészítési feladatok végrehajtását és az engedélyes tervek rendelkezésre bocsátását követően készítsen előterjesztést a Kormány részére a 2. pont szerinti beruházás megvalósítása kérdésében a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2019. március 1.
+## 8.[^6]
 
 1. melléklet az 1358/2018. (VII. 26.) Korm. határozathoz
 
@@ -131,3 +115,10 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pontot az 1160/2019. (III. 27.) Korm. határozat 6. pontja visszavonta.
+[^2]: A 3. pontot az 1160/2019. (III. 27.) Korm. határozat 6. pontja visszavonta.
+[^3]: A 4. pontot az 1160/2019. (III. 27.) Korm. határozat 6. pontja visszavonta.
+[^4]: A 6. pontot az 1160/2019. (III. 27.) Korm. határozat 6. pontja visszavonta.
+[^5]: A 7. pontot az 1160/2019. (III. 27.) Korm. határozat 6. pontja visszavonta.
+[^6]: A 8. pontot az 1160/2019. (III. 27.) Korm. határozat 6. pontja visszavonta.
