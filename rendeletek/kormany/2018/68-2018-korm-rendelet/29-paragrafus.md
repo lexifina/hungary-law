@@ -1,6 +1,6 @@
 ## 9. Bejelentésköteles feltárási tevékenységek, valamint a fémkereső műszer hivatás gyakorlásához szükséges használatának bejelentése
 
-29. § (1) A Kötv. 20. § (2) bekezdésében megjelölt tevékenységet annak megkezdése előtt legalább öt nappal be kell jelenteni lelőhelyenként
+29. § (1)[^13] A Kötv. 20. § (2) bekezdésében megjelölt tevékenységet annak megkezdése előtt legalább egy munkanappal be kell jelenteni lelőhelyenként
 
 a) elektronikus úton a hatóságnak, valamint
 
@@ -35,3 +35,5 @@ c) az alkalmazni tervezett fémkereső műszer típusának megnevezését és le
 (7) A (3) bekezdés a) pontja szerinti tevékenység végzése során az (1) bekezdés a) és b) pontjában megjelölt szervnek a 47. § (3) bekezdése szerinti tudomásulvételről szóló értesítését a tevékenység végzője köteles a tevékenység végzése során magánál tartani, és a fémkereső műszer használatának ellenőrzésére jogosult szerv felszólítására bemutatni.
 
 (8) A (3) bekezdés b) és c) pontja esetében a fémkereső műszer használójának igazolnia kell, hogy hivatása gyakorlásához szükséges a fémkereső műszer.
+
+[^13]: A 29. § (1) bekezdés nyitó szövegrésze a 62/2019. (III. 26.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

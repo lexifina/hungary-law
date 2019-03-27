@@ -70,7 +70,7 @@
 
 | 33 | Előzetes régészeti dokumentáció járulékos költségei: térképészeti előfeldolgozási díj [ha a beruházó nem tud olyan georeferált, CAD vagy GIS alapú digitális állományokat biztosítani, melyeken egyértelműen azonosítható a beruházás helye, kiterjedése, és lehetőleg a földmunka mértéke (keresztszelvények)], koordináció | Ft | 25 000 + áfa |
 
-| 34 | Teljes felületű feltárás 10 méteres poligonnal határolt területe (az ár a beruházó által végzett földmunka költségét nem tartalmazza) |  |  |
+| 34 | Teljes felületű feltárás 10 méteres poligonnal, illetve az 5 méternél nem nagyobb szélességű területet igénybe vevő beruházások esetén 5 méteres raszterben határolt területe (az ár a beruházó által végzett földmunka költségét nem tartalmazza) |  |  |
 
 | 35 | a) egy vagy több korszak történeti összefüggésben megmaradt emlékanyagának feltárása (1 vagy 2 rétegű) | Ft/m² | 3 150 + áfa |
 

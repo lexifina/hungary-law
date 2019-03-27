@@ -14,7 +14,7 @@ d) a Kötv.-ben és az e rendeletben meghatározott feladatok tekintetében a ku
 
 (2) A fővárosi és megyei kormányhivatal örökségvédelemmel kapcsolatos feladatköreinek gyakorlásával összefüggésben szakmai irányító miniszterként a miniszter gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket, továbbá eljár az Ákr. szerinti felügyeleti szervként.
 
-(3) A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv a Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Kft.
+(3)[^4] A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság.
 
 (4) A magyar államot megillető elővásárlási jog gyakorlására a Kötv. 86. § (3) bekezdésében meghatározott kormányrendeletben kijelölt örökségvédelmi szerv
 
@@ -24,6 +24,7 @@ b) kulturális javak esetében az e rendeletben foglaltak szerint kijelölt áll
 
 (5) A hatóság ügyintézési határideje – ha a Kötv. vagy e rendelet eltérően nem rendelkezik – huszonöt nap.
 
-(6)[^4] A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
+(6)[^5] A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
 
-[^4]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 3. § (3) bekezdése a 62/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be.

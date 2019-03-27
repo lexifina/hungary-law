@@ -12,4 +12,6 @@ d) Natura 2000 területen
 
 ## végzik.
 
-(3) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetén a hatóságnak a megelőző feltárás engedélyezésére irányuló eljárásában szakhatóság nem vesz részt, szakkérdést nem kell vizsgálni.
+(3)[^15]
+
+[^15]: A 49. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés b) pontja hatályon kívül helyezte.
