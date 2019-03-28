@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az egyrészről az Európai Közösség és tagállamai, másrészről a Svájci Államszövetség közötti, a személyek szabad mozgásáról szóló megállapodáshoz csatolt, a Horvát Köztársaságnak az Európai Unióhoz történő csatlakozása következtében a megállapodásban szerződő félként való részvételéről szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e törvénnyel kihirdeti.
