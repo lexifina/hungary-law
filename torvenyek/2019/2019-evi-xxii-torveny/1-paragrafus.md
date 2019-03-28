@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a végzettségek, a képesítések és a tudományos fokozatok kölcsönös elismeréséről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
