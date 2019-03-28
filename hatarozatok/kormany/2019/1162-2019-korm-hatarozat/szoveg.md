@@ -30,4 +30,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: az 5. pont szerinti jelentéssel egy időben
 
-7. visszavonja a Határozat 1–3. és 5–7. pontját.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
