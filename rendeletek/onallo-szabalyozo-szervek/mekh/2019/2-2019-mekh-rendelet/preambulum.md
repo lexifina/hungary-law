@@ -1,0 +1,1 @@
+A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 21. § 1. pontjában kapott felhatalmazás alapján, a 12. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
