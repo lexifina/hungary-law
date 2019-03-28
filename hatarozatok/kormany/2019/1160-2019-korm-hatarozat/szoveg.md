@@ -18,4 +18,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2019. szeptember 1.
 
-6. visszavonja a Határozat 2–4. és 6–8. pontját.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
