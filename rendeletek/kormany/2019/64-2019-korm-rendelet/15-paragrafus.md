@@ -1,0 +1,1 @@
+## 14. § A helyi településrendezési eszközben előírt infrastruktúra fejlesztések elmaradása a Beruházással összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem lehet a feltétele.
