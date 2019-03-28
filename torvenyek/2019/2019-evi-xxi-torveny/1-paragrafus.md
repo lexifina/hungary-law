@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió, az Európai Atomenergia-közösség és tagállamaik, másrészről az Örmény Köztársaság közötti átfogó és megerősített partnerségi megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
