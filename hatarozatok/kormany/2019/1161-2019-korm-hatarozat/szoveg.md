@@ -28,4 +28,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. február 29.
 
-7. visszavonja a Határozat 1–5. és 7–9. pontját.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
