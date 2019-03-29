@@ -1,4 +1,4 @@
-5. melléklet a 19/2011. (V. 10.) NFM rendelethez[^193]
+5. melléklet a 19/2011. (V. 10.) NFM rendelethez[^195]
 
 ## Okmányok
 
@@ -94,4 +94,4 @@ A nyilvántartást a vasúti társaság 6 évig köteles megőrizni.
 
 4.2.1. A vizsgajegyzőkönyv tartalmazza a vizsga megnevezését, a vizsgázó adatait, valamint a vizsgán elért minősítést.
 
-[^193]: Az 5. melléklet a 7/2018. (VII. 26.) ITM rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^195]: Az 5. melléklet a 7/2018. (VII. 26.) ITM rendelet 15. § (4) bekezdésével megállapított szöveg.

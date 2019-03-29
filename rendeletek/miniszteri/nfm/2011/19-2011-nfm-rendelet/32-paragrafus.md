@@ -6,7 +6,7 @@
 
 32. § (1) Az alapképzések és az időszakos oktatások okmányainak kötelező adatait az 5. melléklet tartalmazza.
 
-(2)[^127] A hatóság és a vizsgaközpont az (1) bekezdés szerinti okmányok tekintetében kötelezően alkalmazandó formanyomtatványt, vagy a vizsgaközpont – a hatóság egyetértésével – az adatokat kódolt formában tartalmazó, a hatósági ellenőrzésre alkalmas kártyaformátumú igazolványt is rendszeresíthet.
+(2)[^129] A hatóság és a vizsgaközpont az (1) bekezdés szerinti okmányok tekintetében kötelezően alkalmazandó formanyomtatványt, vagy a vizsgaközpont – a hatóság egyetértésével – az adatokat kódolt formában tartalmazó, a hatósági ellenőrzésre alkalmas kártyaformátumú igazolványt is rendszeresíthet.
 
 (3) Az alapképzésre jelentkezéskor a jelentkezőről az 5. melléklet szerinti adattartalommal a képzőszervezet képzési jelentkezési lapot tölt ki.
 
@@ -16,4 +16,4 @@
 
 (6) A regisztrált szervezetnek az időszakos oktatásokról, az oktatás ismeretanyagáról, valamint az azon részt vevő munkavállalókról oktatási naplót kell vezetni. Az időszakos oktatásokon való részvételről, valamennyi munkavállalóról külön adatlapot kell vezetni.
 
-[^127]: A 32. § (2) bekezdése a 22/2015. (V. 6.) NFM rendelet 27. §-ával megállapított szöveg.
+[^129]: A 32. § (2) bekezdése a 22/2015. (V. 6.) NFM rendelet 27. §-ával megállapított szöveg.

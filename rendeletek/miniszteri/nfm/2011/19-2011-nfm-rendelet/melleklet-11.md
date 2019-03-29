@@ -1,4 +1,4 @@
-11. melléklet a 19/2011. (V. 10.) NFM rendelethez[^199]
+11. melléklet a 19/2011. (V. 10.) NFM rendelethez[^201]
 
 ## Képzési programok jóváhagyásának szempontjai
 
@@ -62,4 +62,4 @@ A képzési program tartalmazza:
 
 4. Díjfizetés, valamint az erről szóló dokumentum csatolása megtörtént.
 
-[^199]: A 11. mellékletet a 7/2018. (VII. 26.) ITM rendelet 15. § (7) bekezdése iktatta be.
+[^201]: A 11. mellékletet a 7/2018. (VII. 26.) ITM rendelet 15. § (7) bekezdése iktatta be.

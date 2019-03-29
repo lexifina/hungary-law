@@ -4,7 +4,7 @@
 
 (2)[^29] Az alapképzéshez a képzőszervezet a vizsgáztató szervezet által jóváhagyott képzési programot alkalmazza.
 
-(3)[^30] Ha az adott alapképzésre a vizsgáztató szervezet nem határozott meg képzési programot, a képzőszervezet az általa, más képző szervezet vagy vasúti társaság által meghatározott és a vizsgáztató szervezet által jóváhagyott képzési programot alkalmazza. A vonal- és állomásismereti képzési programok jóváhagyásához a pályahálózat működtetőjének nyilatkoznia kell arról, hogy a képzési program a valós állapotoknak megfelelő adatokat tartalmazza. A pályahálózat működtetőjének nyilatkozatát a jóváhagyás iránti kérelemhez csatolni kell.
+(3)[^30] Ha az adott alapképzésre a vizsgáztató szervezet nem határozott meg képzési programot, a képzőszervezet az általa, más képző szervezet vagy vasúti társaság által meghatározott és a vizsgáztató szervezet által jóváhagyott képzési programot alkalmazza. A vonal- és állomásismereti képzési programok jóváhagyásához a pályahálózat működtetőjének nyilatkoznia kell arról, hogy a képzési program a valós állapotoknak megfelelő adatokat tartalmazza. A pályahálózat működtetőjének nyilatkozatát a jóváhagyás iránti kérelemhez csatolni kell. Ha a vonalismereti képzés az útvonalat a vezetőfülkében tartózkodó járművezető szemszögéből bemutató videófelvétellel vagy szimulációs gyakorlattal történik, akkor ezt a képzési programban fel kell tüntetni, és a videofelvételt a képzési program részeként kell kezelni. A vonalismereti képzés során csak a vizsgaközpont honlapján közzétett szempontrendszernek megfelelő videófelvétel, szimulációval történő képzés esetén csak a vizsgaközpont által minősített szimulációs berendezés és szimuláció használható.
 
 (4)[^31] A (3) bekezdés szerinti esetben a képzési program készítője a képzési programot évente felülvizsgálja, és az időközben bekövetkezett változásokat figyelembe véve aktualizálja. A módosítás alkalmazásához a 11. melléklet szerinti szempontrendszer alapján a vizsgáztató szervezet jóváhagyása szükséges.
 
@@ -18,7 +18,7 @@
 
 [^28]: A 6. § (1) bekezdése a 7/2018. (VII. 26.) ITM rendelet 16. § 1. pontja szerint módosított szöveg.
 [^29]: A 6. § (2) bekezdése a 7/2018. (VII. 26.) ITM rendelet 2. §-ával megállapított szöveg.
-[^30]: A 6. § (3) bekezdése a 7/2018. (VII. 26.) ITM rendelet 2. §-ával megállapított szöveg.
+[^30]: A 6. § (3) bekezdése a 3/2019. (II. 27.) ITM rendelet 1. §-ával megállapított szöveg.
 [^31]: A 6. § (4) bekezdése a 7/2018. (VII. 26.) ITM rendelet 2. §-ával megállapított szöveg.
 [^32]: A 6. § (4a) bekezdését az 5/2013. (II. 12.) NFM rendelet 4. §-a iktatta be, szövege a 22/2015. (V. 6.) NFM rendelet 40. § b) pontja, a 7/2018. (VII. 26.) ITM rendelet 16. § 1. pontja szerint módosított szöveg.
 [^33]: A 6. § (4b) bekezdését az 5/2013. (II. 12.) NFM rendelet 4. §-a iktatta be, szövege a 7/2018. (VII. 26.) ITM rendelet 16. § 6. pontja szerint módosított szöveg.

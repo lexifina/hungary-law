@@ -1,25 +1,25 @@
 ## 10. Az alapképzésben részt vevőkkel szemben támasztott követelmények
 
-12. § (1)[^53] Gyakorlati képzésen az vehet részt, aki – az alapképzéssel betölthető munkakörre vonatkozóan – a vasúti közlekedés biztonságával összefüggő munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményekről és az egészségügyi vizsgálat rendjéről szóló kormányrendeletben meghatározott feltételeknek megfelel.
+12. § (1)[^55] Gyakorlati képzésen az vehet részt, aki – az alapképzéssel betölthető munkakörre vonatkozóan – a vasúti közlekedés biztonságával összefüggő munkaköröket betöltő munkavállalókkal szemben támasztott egészségügyi követelményekről és az egészségügyi vizsgálat rendjéről szóló kormányrendeletben meghatározott feltételeknek megfelel.
 
-(2)[^54] Az alapképzés – életkorra, iskolai végzettségre, szakismeretekre, előzetes gyakorlatra vonatkozó – részvételi előfeltételeit a vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő munkakörök tekintetében a 3. melléklet határozza meg.
+(2)[^56] Az alapképzés – életkorra, iskolai végzettségre, szakismeretekre, előzetes gyakorlatra vonatkozó – részvételi előfeltételeit a vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő munkakörök tekintetében a 3. melléklet határozza meg.
 
-(3)[^55] Az alapképzés elméleti tantárgyainak oktatásán való részvétel alól az állami felsőfokú végzettséggel rendelkező képzésben részt vevő és a képzést megrendelő vasúti társaság együttes kérelmére a vizsgaközpont mentesítést adhat, ha a vasúti társaság igazolja, hogy a képzésben részt vevő felkészüléséhez a szükséges konzultációs lehetőség biztosított.
+(3)[^57] Az alapképzés elméleti tantárgyainak oktatásán való részvétel alól az állami felsőfokú végzettséggel rendelkező képzésben részt vevő és a képzést megrendelő vasúti társaság együttes kérelmére a vizsgaközpont mentesítést adhat, ha a vasúti társaság igazolja, hogy a képzésben részt vevő felkészüléséhez a szükséges konzultációs lehetőség biztosított.
 
-(4)[^56]
+(4)[^58]
 
-(4a)[^57] Ha egy új képzési program teljes egészében tartalmazza a pályahálózatra vagy vasúti járműre vonatkozó korábbi képzési programot, akkor a képzésben részt vevő és a képzést megrendelő vasúti társaság együttes kérelmére a vizsgaközpont felmentést ad az új képzési program tantárgyainak oktatásán való részvétel alól annak a munkavállalónak, aki érvényes vizsgával rendelkezik a korábbi képzési program ismeretanyagából.
+(4a)[^59] Ha egy új képzési program teljes egészében tartalmazza a pályahálózatra vagy vasúti járműre vonatkozó korábbi képzési programot, akkor a képzésben részt vevő és a képzést megrendelő vasúti társaság együttes kérelmére a vizsgaközpont felmentést ad az új képzési program tantárgyainak oktatásán való részvétel alól annak a munkavállalónak, aki érvényes vizsgával rendelkezik a korábbi képzési program ismeretanyagából.
 
 (5) A mentesítés, vagy a felmentés iránti kérelmet az alapképzésre való jelentkezéssel egyidejűleg, a képzés indítását megelőzően kell előterjeszteni.
 
-(6)[^58] Az alapképzésben a képzésben részt vevő – ha nem kapott a (3)–(4) bekezdésben foglaltak szerint mentesítést vagy felmentést – köteles részt venni, és a képzési idő – modulrendszerű képzéseknél modulonként – 10%-át meghaladó hiányzásokat pótolni. A hiányzás elméleti ismereteknél konzultációval, gyakorlati ismereteknél a képzési programban előírt gyakorlat elvégzésével pótolható. Ha a hiányzást a képzésben részt vevő igazoltan nem pótolja, vagy annak mértéke meghaladja a képzési idő – a modulrendszerű képzéseknél a képzési modul óraszámának – 30%-át, a képzést nem folytathatja, és vizsgát csak az alapképzés megismétlése után tehet.
+(6)[^60] Az alapképzésben a képzésben részt vevő – ha nem kapott a (3)–(4) bekezdésben foglaltak szerint mentesítést vagy felmentést – köteles részt venni, és a képzési idő – modulrendszerű képzéseknél modulonként – 10%-át meghaladó hiányzásokat pótolni. A hiányzás elméleti ismereteknél konzultációval, gyakorlati ismereteknél a képzési programban előírt gyakorlat elvégzésével pótolható. Ha a hiányzást a képzésben részt vevő igazoltan nem pótolja, vagy annak mértéke meghaladja a képzési idő – a modulrendszerű képzéseknél a képzési modul óraszámának – 30%-át, a képzést nem folytathatja, és vizsgát csak az alapképzés megismétlése után tehet.
 
-(7)[^59] Az alapképzésen való részvétel alól az Országos Képzési Jegyzékben szereplő, a 9. számú mellékletben felsorolt OKJ bizonyítvánnyal rendelkező képzésben résztvevő és a képzést megrendelő vasúti társaság együttes kérelmére a vizsgaközpont mentesítést ad.
+(7)[^61] Az alapképzésen való részvétel alól az Országos Képzési Jegyzékben szereplő, a 9. számú mellékletben felsorolt OKJ bizonyítvánnyal rendelkező képzésben résztvevő és a képzést megrendelő vasúti társaság együttes kérelmére a vizsgaközpont mentesítést ad.
 
-[^53]: A 12. § (1) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 32. § h) pontja szerint módosított szöveg.
-[^54]: A 12. § (2) bekezdése a 7/2018. (VII. 26.) ITM rendelet 16. § 1. pontja szerint módosított szöveg.
-[^55]: A 12. § (3) bekezdése az 5/2013. (II. 12.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^56]: A 12. § (4) bekezdését a 22/2015. (V. 6.) NFM rendelet 40. § c) pontja hatályon kívül helyezte.
-[^57]: A 12. § (4a) bekezdését az 5/2013. (II. 12.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 19. §-ával megállapított szöveg.
-[^58]: A 12. § (6) bekezdése a 20/2017. (VI. 22.) NFM rendelet 8. §-ával megállapított szöveg.
-[^59]: A 12. § (7) bekezdését a 22/2015. (V. 6.) NFM rendelet 14. § (2) bekezdése iktatta be.
+[^55]: A 12. § (1) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 32. § h) pontja szerint módosított szöveg.
+[^56]: A 12. § (2) bekezdése a 7/2018. (VII. 26.) ITM rendelet 16. § 1. pontja szerint módosított szöveg.
+[^57]: A 12. § (3) bekezdése az 5/2013. (II. 12.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^58]: A 12. § (4) bekezdését a 22/2015. (V. 6.) NFM rendelet 40. § c) pontja hatályon kívül helyezte.
+[^59]: A 12. § (4a) bekezdését az 5/2013. (II. 12.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 19. §-ával megállapított szöveg.
+[^60]: A 12. § (6) bekezdése a 20/2017. (VI. 22.) NFM rendelet 8. §-ával megállapított szöveg.
+[^61]: A 12. § (7) bekezdését a 22/2015. (V. 6.) NFM rendelet 14. § (2) bekezdése iktatta be.

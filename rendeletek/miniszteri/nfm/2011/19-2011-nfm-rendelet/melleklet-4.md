@@ -362,7 +362,7 @@
 
 | 1. | Képzés-modul és a hozzá kapcsolódó hatósági vizsgamegnevezése | A képzésben való részvétel feltételei | A képzés témakörei | Hatósági vizsga vizsgatevékenységei, témakörök | Vizsgáztatásra jogosult | Az elméleti képzés minimális ideje órában megadva | Előírt gyakorlatok óraszámban |
 
-| 2. | Vonalismeret: vonal, vonalrész megjelöléssel | - Valamely EGT államban kiadott Mozdonyvezetői engedély, valamint az adott vonalnak megfelelő infrastruktúra vizsga vagy - Munkamódszer átadás képzésben való részvétel | A vasúti közlekedés biztonságával összefüggő témakörök: 1. Szolgálati helyek, általános és különleges előírások, közlekedési korlátozások, útvonalkönyv 2. Követési rendek 3. Lejt viszonyok 4. Értekezési lehetőségek | Szóbeli: 1. Szolgálati helyek, általános és különleges előírások, közlekedési korlátozások, útvonalkönyv 2. Követési rendek 3. Lejt viszonyok 4. Értekezési lehetőségek | 1 fő vizsgabiztos | 1 | Felügyelet alatti vezetési gyakorlat vagy a járművezető mellett legfeljebb 1 fő utazási gyakorlat* útvonalanként: legalább 3 oda vissza út |
+| 2. | Vonalismeret: vonal, vonalrész megjelöléssel | - Valamely EGT államban kiadott Mozdonyvezetői engedély, valamint az adott vonalnak megfelelő infrastruktúra vizsga vagy - Munkamódszer átadás képzésben való részvétel | A vasúti közlekedés biztonságával összefüggő témakörök: 1. Szolgálati helyek, általános és különleges előírások, közlekedési korlátozások, útvonalkönyv 2. Követési rendek 3. Lejt viszonyok 4. Értekezési lehetőségek | Szóbeli: 1. Szolgálati helyek, általános és különleges előírások, közlekedési korlátozások, útvonalkönyv 2. Követési rendek 3. Lejt viszonyok 4. Értekezési lehetőségek | 1 fő vizsgabiztos | 1 óra elmélet vagy a vonal mindkét viszonylatát bemutató videófelvétel vagy a vonal mindkét viszonylatát bemutató szimulációs gyakorlat | Felügyelet alatti vezetési gyakorlat vagy a járművezető mellett legfeljebb 1 fő utazási gyakorlat* útvonalanként: legalább 3 oda-vissza út vagy a vonal mindkét viszonylatát bemutató videofelvétel vagy a vonal mindkét viszonylatát bemutató szimulációs gyakorlat esetén 1 oda-vissza út |
 
 | 3. | Állomásismeret: szolgálati hely, tolatási körzet megjelöléssel | - Valamely EGT államban kiadott Mozdonyvezetői engedély, valamint az adott szolgálat helynek megfelelő infrastruktúra vizsga vagy - Munkamódszer átadás képzésben való részvétel | A vasúti közlekedés biztonságával összefüggő témakörök: 1. Szolgálati helyek, általános és különleges előírások, közlekedési korlátozások, útvonalkönyv 2. Helyi ismeretek 3. Lejt viszonyok 4. Értekezési lehetőségek | Szóbeli: 1. Szolgálati helyek, általános és különleges előírások, közlekedési korlátozások, útvonalkönyv 2. Helyi ismeretek 3. Lejt viszonyok 4. Értekezési lehetőségek | 1 fő vizsgabiztos | 1 | Felügyelet alatti vezetési gyakorlat, vagy a járművezető mellett legfeljebb 1 fő utazási gyakorlat* szolgálati helyenként: legalább 2x8 óra, tolatási körzetenként legalább 2x4 óra |
 
@@ -402,7 +402,7 @@
 
 | 2. | Munkamódszer-átadás | - Vezetési gyakorlat vizsga | Az alapvizsgának megfelelő járművön és infrastruktúrán más járművezető kísérete mellett végzett járművezetés | 50 |
 
-4. melléklet a 19/2011. (V. 10.) NFM rendelethez[^192]
+4. melléklet a 19/2011. (V. 10.) NFM rendelethez[^194]
 
 ## Az alapképzés végzésére irányuló szándék bejelentésének tartalma
 
@@ -414,4 +414,4 @@
 
 4. A 4. §-ban előírt nyilatkozatok
 
-[^192]: A 4. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^194]: A 4. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (3) bekezdésével megállapított szöveg.
