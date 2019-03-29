@@ -1,0 +1,9 @@
+# 9/2019. (III. 28.) BM rendelet
+
+a büntetés-végrehajtási gazdasági társaságoknál rendszeresített szolgálati beosztások átsorolásáról, valamint a belügyminiszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről, valamint egyes, szakmai és vizsgakövetelmények kiadásáról szóló miniszteri rendeletek hatályon kívül helyezéséről szóló 20/2013. (V. 28.) BM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-9-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-03-29 | 2019-9-20-0A.1 | 9/2019. (III. 28.) BM rendelet |
