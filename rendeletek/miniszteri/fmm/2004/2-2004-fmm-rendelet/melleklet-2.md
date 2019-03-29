@@ -1,6 +1,6 @@
 |  |  | A kollektív szerződés kötés (módosítás, megszűnés) bejelentésére szolgáló adatlap tartalma |
 
-| 1. |  | Egy, illetve több munkáltatóra (gazdálkodó szervezetre, illetve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény hatálya alá tartozó közigazgatási szervnél foglalkoztatott munkavállalókra) kiterjedő hatályú, a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseinek alkalmazásával, valamint az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény rendelkezéseinek alkalmazásával kötött kollektív szerződés nyilvántartásba vételére szolgáló adatlap tartalmának pontjai: |
+| 1. |  | Egy, illetve több munkáltatóra (gazdálkodó szervezetre, illetve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó közigazgatási szervnél foglalkoztatott munkavállalókra) kiterjedő hatályú, a munka törvénykönyvéről szóló 2012. évi I. törvény rendelkezéseinek alkalmazásával, valamint az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény rendelkezéseinek alkalmazásával kötött kollektív szerződés nyilvántartásba vételére szolgáló adatlap tartalmának pontjai: |
 
 | 1.1. |  | A szerződő felek és a kollektív szerződés általános adatai |
 
@@ -158,6 +158,6 @@
 
 | 2.4.3. |  | Rendelkezés sztrájk esetére |
 
-2–5. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^17]
+2. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^17]
 
-[^17]: A 2–5. számú mellékletet a 9/2010. (IV. 13.) SZMM rendelet 3. §-a hatályon kívül helyezte.
+[^17]: A 2. számú mellékletet a 9/2010. (IV. 13.) SZMM rendelet 3. §-a hatályon kívül helyezte.

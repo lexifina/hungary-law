@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-2-20-SY
 | 2015-01-01 | 2004-2-20-SY.11 | 55/2014. (XII. 31.) NGM rendelet |
 | 2017-01-01 | 2004-2-20-SY.12 | 62/2016. (XII. 29.) NGM rendelet |
 | 2018-01-01 | 2004-2-20-SY.13 | 55/2014. (XII. 31.) NGM rendelet |
+| 2019-03-29 | 2004-2-20-SY.14 | 9/2010. (IV. 13.) SZMM rendelet |

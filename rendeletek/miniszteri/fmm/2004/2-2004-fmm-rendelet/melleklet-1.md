@@ -2,4 +2,4 @@
 
 1. számú melléklet a 2/2004. (I. 15.) FMM rendelethez[^16]
 
-[^16]: Az 1. számú melléklet a 17/2012. (VII. 5.) NGM rendelet 4. § (8) bekezdésével megállapított, az 51/2017. (XII. 29.) NGM rendelet 10. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^16]: Az 1. számú melléklet a 17/2012. (VII. 5.) NGM rendelet 4. § (8) bekezdésével megállapított, az 51/2017. (XII. 29.) NGM rendelet 10. § (2) bekezdés f) pontja, az 1/2019. (III. 28.) PM rendelet 4. §-a szerint módosított szöveg.
