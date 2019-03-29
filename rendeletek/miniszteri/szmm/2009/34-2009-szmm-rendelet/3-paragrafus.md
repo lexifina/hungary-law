@@ -2,15 +2,15 @@
 
 3. § (1) Ez a rendelet 2010. január 1-jén lép hatályba.
 
-(2)[^3]
+(2)[^6]
 
-(3)[^4] Az álláskeresési járadék és az álláskeresési segély megállapításához szükséges igazolólap kitöltése során a munkaviszony megszűnésének időpontjában hatályos szabályokat kell alkalmazni.
+(3)[^7] Az álláskeresési járadék és az álláskeresési segély megállapításához szükséges igazolólap kitöltése során a munkaviszony megszűnésének időpontjában hatályos szabályokat kell alkalmazni.
 
-(4)[^5]
+(4)[^8]
 
-(5)[^6]
+(5)[^9]
 
-[^3]: A 3. § (2) bekezdését az (5) bekezdés hatályon kívül helyezte.
-[^4]: A 3. § (3) bekezdése a 16/2011. (IV. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^5]: A 3. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
-[^6]: A 3. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^6]: A 3. § (2) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^7]: A 3. § (3) bekezdése a 16/2011. (IV. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: A 3. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^9]: A 3. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
