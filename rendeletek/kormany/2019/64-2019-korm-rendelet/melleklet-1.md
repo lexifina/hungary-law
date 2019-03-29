@@ -1,4 +1,4 @@
-## 17. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R.) 3. melléklete a 2. melléklet szerint módosul.
+## 17. §[^1]
 
 1. melléklet a 64/2019. (III. 27.) Korm. rendelethez
 
@@ -51,3 +51,5 @@
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
