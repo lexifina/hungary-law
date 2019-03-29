@@ -20,7 +20,7 @@ h)[^7] kötelező szakmai továbbképzésben közreműködő szervezet: a kötel
 
 i)[^8]
 
-j)[^9] központi költségvetésből támogatott képzés: költségvetési szervnél munkajogi, közszolgálati, hivatásos szolgálati, szolgálati vagy közalkalmazotti jogviszonyban foglalkoztatott továbbképzésre kötelezett részére a továbbképzési kötelezettség teljesítéséhez előírt képzés, amelynek – szervezési formájától függetlenül – az e-learning szolgáltatási költségét, továbbá – vizsgával záruló képzés esetén – a vizsga költségét a központi költségvetés finanszírozza az Éves Továbbképzési Tájékoztatóban meghatározott mértékig;
+j)[^9] központi költségvetésből támogatott képzés: költségvetési szervnél munkajogi, kormányzati szolgálati, közszolgálati, hivatásos szolgálati, szolgálati vagy közalkalmazotti jogviszonyban foglalkoztatott továbbképzésre kötelezett részére a továbbképzési kötelezettség teljesítéséhez előírt képzés, amelynek – szervezési formájától függetlenül – az e-learning szolgáltatási költségét, továbbá – vizsgával záruló képzés esetén – a vizsga költségét a központi költségvetés finanszírozza az Éves Továbbképzési Tájékoztatóban meghatározott mértékig;
 
 k)[^10] térítési díj: az Éves Továbbképzési Tájékoztatóban közölt díj, amely mértékének meghatározása önköltségszámítás alapján történik. A térítési díj formái lehetnek:
 
@@ -46,7 +46,7 @@ n)[^13] továbbképzésre kötelezett: az a természetes személy, akinek a 7. �
 [^6]: Az 1. § g) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 4. és 5. pontja szerint módosított szöveg.
 [^7]: Az 1. § h) pontját a 44/2014. (XII. 30.) NGM rendelet 17. §-a hatályon kívül helyezte, újonnan a 49/2016. (XII. 8.) NGM rendelet 1. §-a iktatta be.
 [^8]: Az 1. § i) pontját a 44/2014. (XII. 30.) NGM rendelet 17. §-a hatályon kívül helyezte.
-[^9]: Az 1. § j) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. § j) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított, az 1/2019. (III. 28.) PM rendelet 7. §-a szerint módosított szöveg.
 [^10]: Az 1. § k) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^11]: Az 1. § l) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
 [^12]: Az 1. § m) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
