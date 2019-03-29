@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § Az R. 8. §-a a következő (6a) bekezdéssel egészül ki:
 
-[^3]: A 3. § a 7. § (2) bekezdése alapján 2019. március 29-én lép hatályba.
+## „(6a) Vasúti járművezetők esetében a vonalismereti képzés elméleti képzésének részeként az elméleti oktatónak rendelkeznie kell az adott vonalra, vonalszakaszra érvényes tanúsítvánnyal az útvonalat a vezetőfülkében tartózkodó járművezető szemszögéből bemutató videófelvételekkel vagy szimulációkkal történő oktatás esetén.”
