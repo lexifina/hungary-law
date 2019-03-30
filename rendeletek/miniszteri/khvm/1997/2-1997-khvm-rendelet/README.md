@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-2-20-6B
 | 2014-05-01 | 1997-2-20-6B.7 | 22/2014. (IIII. 12.) BM rendelet |
 | 2014-12-25 | 1997-2-20-6B.8 | 67/2014. (XII. 17.) BM rendelet |
 | 2019-01-01 | 1997-2-20-6B.9 | 36/2018. (XII. 21.) BM rendelet |
+| 2019-03-30 | 1997-2-20-6B.10 | 10/2019. (III. 29.) BM rendelet |

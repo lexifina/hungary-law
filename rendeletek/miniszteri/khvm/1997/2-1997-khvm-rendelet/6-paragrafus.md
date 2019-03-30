@@ -28,9 +28,10 @@ i) vízszolgáltatás igénybe vételének kezdetét, befejezését.
 
 (4) A mezőgazdasági vízszolgáltatást végző üzemeltető tájékoztatja a szolgáltatási szerződéssel rendelkező vízhasználókat a tárgyévre érvényes vízszolgáltatási díjról a vízhasználat megkezdéséig, de legkésőbb április 10. napjáig.
 
-(5) A vízhasznosítási idény öntözés esetén április 15. napjától szeptember 30. napjáig, tógazdálkodásnál március 1. napjától november 30. napjáig, a téli vízellátás december 1. napjától február 28. napjáig tart. Az üzemeltető és a vízhasználó az igazgatóság hozzájárulása esetén ettől eltérő időpontban is megállapodhatnak.
+(5)[^10] A vízhasznosítási idény öntözés esetén március 1. napjától október 31. napjáig, tógazdálkodásnál március 1. napjától november 30. napjáig, a téli vízellátás december 1. napjától február 28. napjáig tart. Az üzemeltető és a vízhasználó az igazgatóság hozzájárulása esetén ettől eltérő időpontban is megállapodhatnak.
 
 (6) A vízhasználó a tényleges vízhasználatot annak megkezdését megelőzően három nappal korábban köteles bejelenteni a vízszolgáltató területi képviselőjének.
 
 [^8]: Az 5. § a 36/2018. (XII. 21.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 6. § a 36/2018. (XII. 21.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. § (5) bekezdése a 10/2019. (III. 29.) BM rendelet 1. §-a szerint módosított szöveg.
