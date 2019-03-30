@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti a közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet módosításáról szóló 29/2018. (XI. 30.) IM rendelet.
+## 3. §[^2]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
