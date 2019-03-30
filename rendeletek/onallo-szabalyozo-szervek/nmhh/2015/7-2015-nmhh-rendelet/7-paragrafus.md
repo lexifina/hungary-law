@@ -14,8 +14,8 @@ b) tervezett
 
 (5) A tengeri mozgószolgálat, a légi mozgószolgálat, a rádiónavigáció szolgálat, a műholdas tengeri mozgószolgálat, a műholdas légi mozgószolgálat és a műholdas rádiónavigáció szolgálat fedélzeti állomásai, valamint az űrtávközlési szolgálatok űrállomásai részére – nemzetközi forgalomban és a világűrben való használat céljából – az 1. és a 6. mellékletben foglalt szabályok alapján szerezhető frekvenciahasználati jog.
 
-(6)[^66] A műholdas állandóhelyű szolgálat hálózataiban hajók fedélzetén elhelyezett földi állomások részére – nemzetközi forgalomban való használat céljából – az 1. mellékletben foglalt szabályok, valamint az ECC/DEC/(05)09,
+(6)[^75] A műholdas állandóhelyű szolgálat hálózataiban hajók fedélzetén elhelyezett földi állomások részére – nemzetközi forgalomban való használat céljából – az 1. mellékletben foglalt szabályok, valamint az ECC/DEC/(05)09,
 
 ECC/DEC/(05)10, ECC/DEC/(13)01 és az ECC/DEC/(15)04 Határozat alapján szerezhető frekvenciahasználati jog.
 
-[^66]: A 7. § (6) bekezdése az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^75]: A 7. § (6) bekezdése az 1/2019. (I. 22.) NMHH rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.

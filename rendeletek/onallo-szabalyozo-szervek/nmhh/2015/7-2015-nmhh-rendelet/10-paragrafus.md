@@ -1,4 +1,4 @@
-10. § (1)[^75] A frekvenciasávok felhasználási szabályainak a 2. mellékletben foglaltakhoz képest szükséges további részletezését, kiegészítését az alábbi mellékletek tartalmazzák:
+10. § (1)[^87] A frekvenciasávok felhasználási szabályainak a 2. mellékletben foglaltakhoz képest szükséges további részletezését, kiegészítését az alábbi mellékletek tartalmazzák:
 
 a) az egyes alkalmazások sávhasználati feltételeit és frekvenciagazdálkodási követelményeit a 3. melléklet,
 
@@ -10,4 +10,4 @@ c) egyes végfelhasználói állomások rádiótávközlő végberendezéseinek 
 
 (3) Az alkalmazott betűszók, rövidítések jegyzékét a 7. melléklet, a hivatkozott dokumentumok jegyzékét a 8. melléklet tartalmazza.
 
-[^75]: A 10. § (1) bekezdése az 1/2019. (I. 22.) NMHH rendelet 4. §-ával megállapított szöveg.
+[^87]: A 10. § (1) bekezdése az 1/2019. (I. 22.) NMHH rendelet 4. §-ával megállapított szöveg.

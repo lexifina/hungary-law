@@ -12,15 +12,15 @@ e) adási teljesítmény, teljesítménysűrűség;
 
 f) a jel vételéhez szükséges minimális térerősség vagy bemenőjel;
 
-g) csatornahozzáférés és csatornafoglalás szabályai; vagy
+g)[^76] csatorna-hozzáférés és csatornafoglalás szabályai; vagy
 
 h) zavarvédelmi kritériumok.
 
-(2)[^67] A rádióberendezés – a spektrumgazdálkodási alapvető követelmény teljesítéséhez szükséges – frekvenciagazdálkodási jellemzői az alábbiak:
+(2)[^77] A rádióberendezés – a spektrumgazdálkodási alapvető követelmény teljesítéséhez szükséges – frekvenciagazdálkodási jellemzői az alábbiak:
 
 a) adójellemzők: frekvenciaeltérés, frekvenciastabilitás, teljesítmény, szomszédoscsatorna-teljesítmény, mellékhullám-sugárzás, intermodulációs csillapítás, feléledési idő, tranziens viselkedés, moduláció pontossága, kitöltési tényező;
 
-b)[^68] vevőjellemzők: legnagyobb használható érzékenység, azonoscsatorna-szelektivitás, szomszédoscsatorna-szelektivitás, mellékhullám-szelektivitás, intermodulációs szelektivitás, blokkolás vagy érzékenységcsökkenés, mellékhullám-sugárzás, többutas érzékenység;
+b)[^78] vevőjellemzők: legnagyobb használható érzékenység, azonoscsatorna-szelektivitás, szomszédoscsatorna-szelektivitás, mellékhullám-szelektivitás, intermodulációs szelektivitás, blokkolás vagy érzékenységcsökkenés, mellékhullám-sugárzás, többutas érzékenység;
 
 c) antennajellemzők: antennanyereség, iránypontosság, keresztpolarizációs csillapítás, hátrasugárzási csillapítás, karakterisztika, aktív antenna mellékhullám-sugárzása.
 
@@ -28,7 +28,7 @@ c) antennajellemzők: antennanyereség, iránypontosság, keresztpolarizációs 
 
 1. egyedi engedélyezési kötelezettség alóli mentesítés;
 
-2.[^69] telepítés vagy üzemben tartás egyedi engedély alapján, beleértve az egyszerűsített rádióengedélyt;
+2.[^79] telepítés vagy üzemben tartás egyedi engedély alapján, beleértve az egyszerűsített rádióengedélyt;
 
 3. a frekvenciaelosztás módja (érkezési sorrend, versenyeztetési eljárás);
 
@@ -38,7 +38,7 @@ c) antennajellemzők: antennanyereség, iránypontosság, keresztpolarizációs 
 
 6. a rádióalkalmazás távközlési jellemzői;
 
-7.[^70]
+7.[^80]
 
 8. blokkgazdálkodás és szabályai;
 
@@ -56,10 +56,14 @@ c) antennajellemzők: antennanyereség, iránypontosság, keresztpolarizációs 
 
 15. a haszonbérbe adás esetleges lehetőségei, feltételei;
 
-16.[^71] a rádióberendezésre vonatkozó egyes további alapvető követelmények.
+15a.[^81] a sávátrendezés esetleges lehetősége, feltételei;
 
-[^67]: A 8. § (2) bekezdés nyitó szövegrésze a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^68]: A 8. § (2) bekezdés b) pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^69]: A 8. § (3) bekezdés 2. pontja a 8/2017. (VII. 28.) NMHH rendelet 22. § b) pont ba) alpontja szerint módosított szöveg.
-[^70]: A 8. § (3) bekezdés 7. pontját a 8/2017. (VII. 28.) NMHH rendelet 22. § b) pont bb) alpontja hatályon kívül helyezte.
-[^71]: A 8. § (3) bekezdés 16. pontja a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés c) pontja szerint módosított szöveg.
+16.[^82] a rádióberendezésre vonatkozó egyes további alapvető követelmények.
+
+[^76]: A 8. § (1) bekezdés g) pontja a 2/2019. (III. 22.) NMHH rendelet 12. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^77]: A 8. § (2) bekezdés nyitó szövegrésze a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^78]: A 8. § (2) bekezdés b) pontja a 8/2017. (VII. 28.) NMHH rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^79]: A 8. § (3) bekezdés 2. pontja a 8/2017. (VII. 28.) NMHH rendelet 22. § b) pont ba) alpontja szerint módosított szöveg.
+[^80]: A 8. § (3) bekezdés 7. pontját a 8/2017. (VII. 28.) NMHH rendelet 22. § b) pont bb) alpontja hatályon kívül helyezte.
+[^81]: A 8. § (3) bekezdés 15a. pontját a 2/2019. (III. 22.) NMHH rendelet 8. §-a iktatta be.
+[^82]: A 8. § (3) bekezdés 16. pontja a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés c) pontja szerint módosított szöveg.
