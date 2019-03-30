@@ -1,11 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 4/2019. (III. 28.) NVTNM rendelethez
+1. melléklet a 4/2019. (III. 28.) NVTNM rendelethez[^3]
 
-Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2018. (VI. 25.) NVTNM rendelet 1. melléklet VII. pontjában foglalt táblázat a következő 13. sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
-
-| 13. | Egy a Természettel Nonprofit Korlátolt Felelősségű Társaság | 01-09-337636 | 2022. december 31. |
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
