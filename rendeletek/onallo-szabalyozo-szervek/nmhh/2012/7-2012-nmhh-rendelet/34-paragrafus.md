@@ -2,7 +2,7 @@
 
 34. § (1) A Hatóság köteles nyilvántartani:
 
-a)[^59] a jogosultak, az engedélyesek és a frekvenciadíj fizetésére kötelezettek személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát, adóazonosító jelét, jogi személy, jogi személyiséggel nem rendelkező más szervezet esetében a szervezet-nyilvántartási adatokat;
+a)[^60] a jogosultak, az engedélyesek és a frekvenciadíj fizetésére kötelezettek személyazonosító és lakcím adatait, levelezési címét, e-mail címét, telefonszámát, adóazonosító jelét, jogi személy, jogi személyiséggel nem rendelkező más szervezet esetében a szervezet-nyilvántartási adatokat;
 
 b) a rádióállomások földrajzi és telepítési adatait;
 
@@ -16,7 +16,7 @@ f) a rádiórendszerek más elektronikus hírközlő hálózattal való csatlako
 
 g) a lepecsételt rádióberendezés típusát vagy más azonosításra alkalmas megjelölését, az üzemeltető nevét és címét, az őrzés helyét, a pecsételés indokát, a pecsét eltávolításának okát, idejét;
 
-h)[^60] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító kódjait.
+h)[^61] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító kódjait.
 
 (2) Keretengedély esetében a Hatóság a 14. § (4) bekezdése szerint bejelentett adatokat nyilvántartásba veszi.
 
@@ -26,5 +26,5 @@ h)[^60] az analóg lineáris rádiós médiaszolgáltatások műsorazonosító k
 
 (5) A nemzetközi megállapodások mellékletei szerinti frekvenciajegyzékek nem hozhatóak nyilvánosságra.
 
-[^59]: A 34. § (1) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 15. pontja szerint módosított szöveg.
-[^60]: A 34. § (1) bekezdés h) pontját a 14/2012. (IX. 28.) NMHH rendelet 5. §-a iktatta be.
+[^60]: A 34. § (1) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 15. pontja szerint módosított szöveg.
+[^61]: A 34. § (1) bekezdés h) pontját a 14/2012. (IX. 28.) NMHH rendelet 5. §-a iktatta be.

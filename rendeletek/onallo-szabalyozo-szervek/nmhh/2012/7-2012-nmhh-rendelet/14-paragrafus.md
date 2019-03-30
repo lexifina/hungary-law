@@ -1,6 +1,6 @@
 14. § (1) A rádióengedély tartalmazza:
 
-a)[^43] az engedélyes természetes személy személyazonosító és lakcím adatait, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a szervezet-nyilvántartási adatokat;
+a)[^44] az engedélyes természetes személy személyazonosító és lakcím adatait, jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a szervezet-nyilvántartási adatokat;
 
 b) az üzemben tartás célját;
 
@@ -26,23 +26,23 @@ l) a rádióengedély érvényességi idejét;
 
 m) a frekvenciadíj mértékét és fizetési gyakoriságát;
 
-n)[^44] a frekvenciadíj megfizetésére kötelezett természetes személy személyazonosító és lakcím adatait, valamint adóazonosító jelét jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a szervezet-nyilvántartási adatokat, ha azok eltérőek az engedélyesétől;
+n)[^45] a frekvenciadíj megfizetésére kötelezett természetes személy személyazonosító és lakcím adatait, valamint adóazonosító jelét jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetében a szervezet-nyilvántartási adatokat, ha azok eltérőek az engedélyesétől;
 
 o) az üzemeltetés és a szüneteltetés időtartamát, továbbá
 
 p) a rádiórendszer telepítési és sugárzási jellemzőiről, az üzemben tartásához szükséges okmányokról és a rádióforgalmazás ellenőrzéséhez szükséges műszaki, forgalmi adatokról szóló rendszeres, valamint eseti adatszolgáltatás rendjét;
 
-q)[^45] analóg lineáris rádiós médiaszolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatás nyújtása esetében a műsorazonosító kódot.
+q)[^46] analóg lineáris rádiós médiaszolgáltatáshoz kapcsolódó kiegészítő médiaszolgáltatás nyújtása esetében a műsorazonosító kódot.
 
 (2) A műsorszórásra vonatkozó rádióengedély az (1) bekezdésben foglaltakon túl az Eht. 55. § (13) bekezdésében foglaltakat is tartalmazza.
 
-(3)[^46] A keretengedély az (1) bekezdés d), f), h), – valamint versenyeztetési eljárás során elnyert frekvenciahasználati jogosultság esetén – m) és n) pontjában foglaltak kivételével tartalmazza az (1) bekezdésben foglaltakat.
+(3)[^47] A keretengedély az (1) bekezdés d), f), h), – valamint versenyeztetési eljárás során elnyert frekvenciahasználati jogosultság esetén – m) és n) pontjában foglaltak kivételével tartalmazza az (1) bekezdésben foglaltakat.
 
 (4) Keretengedély esetén az engedélyes köteles a 13. § (2) bekezdés d), f)–h) pontjában és a 13. § (3) bekezdésében felsoroltakat, valamint a rádióállomások műszaki jellemzőit a keretengedélyben meghatározottak szerint a Hatóságnak a tervezett üzemben tartás megkezdése előtt harminc nappal bejelenteni.
 
 (5) Az (1) bekezdés a) pontja szerinti adatokban beálló változást annak bekövetkezésétől számított harminc napon belül be kell jelenteni a megváltozott adat egyidejű igazolásával.
 
-[^43]: A 14. § (1) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 9. pontja szerint módosított szöveg.
-[^44]: A 14. § (1) bekezdés n) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 9. pontja, a 2/2018. (VI. 21.) NMHH rendelet 8. §-a szerint módosított szöveg.
-[^45]: A 14. § (1) bekezdés q) pontját a 14/2012. (IX. 28.) NMHH rendelet 4. §-a iktatta be.
-[^46]: A 14. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 28. §-ával megállapított szöveg.
+[^44]: A 14. § (1) bekezdés a) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 9. pontja szerint módosított szöveg.
+[^45]: A 14. § (1) bekezdés n) pontja a 2/2016. (II. 26.) NMHH rendelet 31. § 9. pontja, a 2/2018. (VI. 21.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^46]: A 14. § (1) bekezdés q) pontját a 14/2012. (IX. 28.) NMHH rendelet 4. §-a iktatta be.
+[^47]: A 14. § (3) bekezdése a 2/2016. (II. 26.) NMHH rendelet 28. §-ával megállapított szöveg.

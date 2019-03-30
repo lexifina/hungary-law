@@ -4,7 +4,7 @@
 
 a) rádióberendezést és rádiórendszert,
 
-b)[^58] nagyfrekvenciás villamos berendezést,
+b)[^59] nagyfrekvenciás villamos berendezést,
 
 c) nagyfrekvenciás jelet vagy mellékhatást keltő berendezést, valamint
 
@@ -20,4 +20,4 @@ d) villamos vagy elektronikus alkatrészeket tartalmazó berendezést
 
 (5) A Hatóság hivatalból térerősség és ellátottsági paraméterek vizsgálatával ellenőrzi az elektronikus hírközlési szolgáltatókkal kötött hatósági szerződésben foglalt ellátottsági és minőségi mutatók teljesülését.
 
-[^58]: A 28. § (1) bekezdés b) pontja a 2/2017. (I. 17.) NMHH rendelet 24. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 21. §-át.
+[^59]: A 28. § (1) bekezdés b) pontja a 2/2017. (I. 17.) NMHH rendelet 24. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 21. §-át.

@@ -1,3 +1,3 @@
-## 10.[^56]
+## 10.[^57]
 
-[^56]: A 10. alcímet (24. §) a 7/2013. (IX. 19.) NMHH rendelet 12. §-a hatályon kívül helyezte.
+[^57]: A 10. alcímet (24. §) a 7/2013. (IX. 19.) NMHH rendelet 12. §-a hatályon kívül helyezte.
