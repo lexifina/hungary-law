@@ -1,4 +1,4 @@
-## 8. §[^14] A szolgáltató a támogatással érintett kártya-elfogadói szerződések alábbi adatairól elkülönített, analitikus nyilvántartást vezet, és 2019. április 30-ig az eAdaton keresztül továbbítja a kezelő szerv részére:
+## 8. §[^14] A szolgáltató a támogatással érintett kártya-elfogadói szerződések alábbi adatairól elkülönített, analitikus nyilvántartást vezet, és 2020. július 31-ig az eAdaton keresztül továbbítja a kezelő szerv részére:
 
 a) az elfogadóhely neve,
 
@@ -10,4 +10,4 @@ d) a terminál telepítésének helye, valamint ideje, és
 
 e) az adott telepítési helyen telepített terminálok száma.
 
-[^14]: A 8. § nyitó szövegérsze a 31/2017. (X. 17.) NGM rendelet 4. § i) pontja szerint módosított szöveg.
+[^14]: A 8. § nyitó szövegrésze a 3/2019. (III. 29.) PM rendelet 3. § c) pontja szerint módosított szöveg.
