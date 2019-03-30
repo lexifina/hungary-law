@@ -62,8 +62,11 @@ b) back-to-back: rádiójelek vételére és eltérő irányú továbbsugárzás
 
 25. telepítési jellemzők: a földrajzi koordináta, a telephely tengerszint feletti magassága és az antenna súlypontjának földfelszín feletti magassága;
 
-26. területre szóló frekvenciakijelölés: a hatóság által kiadott frekvenciakijelölés, amely telepítési jellemzők nélkül meghatározza egy állomás vagy hálózat frekvenciáit vagy frekvenciablokkját, rögzítve a frekvenciafelhasználás feltételeit egy adott földrajzi területre.
+26. területre szóló frekvenciakijelölés: a hatóság által kiadott frekvenciakijelölés, amely telepítési jellemzők nélkül meghatározza egy állomás vagy hálózat frekvenciáit vagy frekvenciablokkját, rögzítve a frekvenciafelhasználás feltételeit egy adott földrajzi területre;
+
+27.[^6] új generációs mobilrádiótelefon-hálózat: olyan mobilrádiótelefon-hálózat, amely többféle felhasználói eset rugalmas kezelésére alkalmas, a rendelkezésre álló sávszélességtől, az alkalmazott hálózati architektúrától és a paraméterek megválasztásától függően lehetővé teheti – többek között – 20 Gbit/s letöltési és 10 Gbit/s feltöltési irányú adatsebesség elérését, 1 ms késleltetésű, nagy megbízhatóságú összeköttetések megvalósítását vagy gépek közötti kommunikáción alapuló alkalmazások esetén négyzetkilométerenként 1 millió eszköz egyidejű csatlakozását.
 
 (2) Az e rendeletben alkalmazott egyéb frekvenciagazdálkodási fogalmakat az elektronikus hírközlésről szóló törvény, a polgári frekvenciagazdálkodás egyes hatósági eljárásairól szóló NMHH rendelet és a nemzeti frekvenciafelosztásról, valamint a frekvenciasávok felhasználási szabályairól szóló NMHH rendelet (a továbbiakban: NFFF) szerint kell értelmezni.
 
 [^5]: Az 1/A. §-t a 2/2016. (II. 26.) NMHH rendelet 2. §-a iktatta be.
+[^6]: Az 1/A. § (1) bekezdés 27. pontját a 2/2019. (III. 22.) NMHH rendelet 1. §-a iktatta be.

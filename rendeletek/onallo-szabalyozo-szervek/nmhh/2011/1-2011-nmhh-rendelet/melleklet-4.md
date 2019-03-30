@@ -1,4 +1,4 @@
-4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^61]
+4. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^64]
 
 Földi, belvízi és légiforgalmi mozgószolgálatok, valamint a 30 MHz-nél nagyobb és 960 MHz-nél kisebb frekvenciájú állandóhelyű szolgálatok frekvenciahasználati díjai
 
@@ -204,4 +204,4 @@ c) a b) alatti frekvenciahasználati egységdíjat az állomásra engedélyezett
 
 7. A helyhez kötött és az állandóhelyű állomások átlagos effektív antenna magasságának kiszámításánál a heff legkisebb figyelembe vehető értéke az antenna földfelszín feletti magassága.
 
-[^61]: A 4. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 10. § (2) bekezdése, a 11. § 17. pontja, a 12. § e) pontja szerint módosított szöveg.
+[^64]: A 4. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 10. § (2) bekezdése, a 11. § 17. pontja, a 12. § e) pontja szerint módosított szöveg.

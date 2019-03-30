@@ -1,6 +1,10 @@
-9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^66]
+9. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^69]
 
-1. Az értékesített, megszerzett frekvenciasávok esetében az egységdíj 7500 Ft/kHz/hó.
+1. Az értékesített, megszerzett frekvenciasávok esetében az egységdíj:
+
+1.1. 2019. március 15-ét megelőzően indított versenyeztetési eljárás keretében értékesített frekvenciasáv frekvenciahasználati jogosultságának, jogának megszerzése esetén 7500 Ft/kHz/hó,
+
+1.2. 2019. március 15-ét követően indított versenyeztetési eljárás keretében értékesített frekvenciasáv frekvenciahasználati jogosultságának, jogának megszerzése esetén 6500 Ft/kHz/hó.
 
 2. Az egységdíjat meg kell szorozni az értékesített, megszerzett sávok kHz-ben kifejezett összegével és a sávszorzóval.
 
@@ -8,24 +12,24 @@
 
 4. A jogosítottnak minden olyan hónapra a teljes havi sávdíjat kell megfizetnie, amely hónapban a frekvenciahasználati jogosultsága, joga keletkezett, fennállt, vagy megszűnt.
 
-5. Országos frekvenciahasználati jogosultság esetén a sávszorzókat az alábbi táblázat tartalmazza:
+5. Országos frekvenciahasználati jogosultság esetén a sávszorzók
 
-|  | Frekvencia tartomány | Sávszorzó értéke |
+|  | A | B |
 
-|  | 450–470 MHz | 0,4 |
+| 1 | Frekvenciatartomány | Sávszorzó értéke |
 
-|  | 790–960 MHz | 1,0 |
+| 2 | 450–470 MHz | 0,4 |
 
-|  | 1710–2200 MHz frekvenciatartományban 2014. január 1. napján használatban lévő sávok esetén | 0,25 |
+| 3 | 790–960 MHz | 1 |
 
-|  | 1710–2200 MHz frekvenciatartományban 2014. január 1. napján használatban nem lévő sávok esetén | 0,5 |
+| 4 | 1710–2200 MHz 2014. január 1-jén használatban lévő sávok esetén | 0,25 |
 
-|  | 2500–2690 MHz | 0,4 |
+| 5 | 1710–2200 MHz 2014. január 1-jén használatban nem lévő sávok esetén | 0,5 |
 
-|  | 3400–3800 MHz frekvenciatartományban 2014. január 1. napját megelőzően megszerzett frekvenciahasználati jogosultság esetén | 0,004 |
+| 6 | 2500–2690 MHz | 0,4 |
 
-|  | 3400–3800 MHz frekvenciatartományban 2014. január 1. napját követően megszerzett frekvenciahasználati jogosultság esetén | 0,12 |
+| 7 | 3400–3800 MHz | 0,12 |
 
-|  | 24500–26500 MHz | 0,002 |
+| 8 | 24,5–26,5 GHz | 0,002 |
 
-[^66]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított, a 2/2016. (II. 26.) NMHH rendelet 11. § 19. pontja szerint módosított szöveg.
+[^69]: A 9. számú melléklet a 12/2013. (IX. 19.) NMHH rendelet 7. §-ával megállapított, a 2/2016. (II. 26.) NMHH rendelet 11. § 19. pontja, a 2/2019. (III. 22.) NMHH rendelet 3. § (1) bekezdése szerint módosított szöveg.

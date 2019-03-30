@@ -1,4 +1,4 @@
-1. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^58]
+1. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^61]
 
 Műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai
 
@@ -52,4 +52,4 @@ frekvencialekötési díjának megállapítási módja
 
 2. Középhullámú (KH) és rövidhullámú (RH) rádióműsorszóró állomások esetében az engedélyezett maximális adóteljesítménynek (Pa) megfelelő frekvencialekötési díjat (Ft/állomás) kell kiválasztani a 4–5. táblázatokból.
 
-[^58]: Az 1. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 11. § 14. pontja szerint módosított szöveg.
+[^61]: Az 1. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 11. § 14. pontja szerint módosított szöveg.

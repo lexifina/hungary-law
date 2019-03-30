@@ -1,4 +1,4 @@
-2. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^59]
+2. számú melléklet az 1/2011. (III. 31.) NMHH rendelethez[^62]
 
 Műsorszóró állomások, valamint a 87,5–108 MHz frekvenciasávú PMSE alkalmazások adóállomásai frekvenciahasználati díjai
 
@@ -130,4 +130,4 @@ b) a kiválasztott táblázatban az engedélyezett átlagos effektív kisugárzo
 
 2. Középhullámú (KH) és rövidhullámú (RH) rádióműsorszóró állomások esetében az engedélyezett maximális adóteljesítménynek megfelelő frekvenciahasználati díjat (Ft/állomás/hó) kell kiválasztani a 8–9. táblázatok közül.
 
-[^59]: A 2. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 11. § 15. pontja, a 12. § d) pontja szerint módosított szöveg.
+[^62]: A 2. számú melléklet a 2/2016. (II. 26.) NMHH rendelet 11. § 15. pontja, a 12. § d) pontja szerint módosított szöveg.

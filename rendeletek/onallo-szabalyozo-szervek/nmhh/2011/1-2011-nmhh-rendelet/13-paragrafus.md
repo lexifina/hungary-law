@@ -1,3 +1,3 @@
-## 12. §[^21]
+## 12. §[^22]
 
-[^21]: A 12. §-t a 2/2016. (II. 26.) NMHH rendelet 12. § b) pontja hatályon kívül helyezte.
+[^22]: A 12. §-t a 2/2016. (II. 26.) NMHH rendelet 12. § b) pontja hatályon kívül helyezte.
