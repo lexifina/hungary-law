@@ -1,5 +1,5 @@
 82. § Hatályát veszti a Pft.
 
-a)
+a) 13. §-ában az „ – ideértve a legalább fokozott biztonságú elektronikus aláírással ellátott elektronikus okirati formát is – vagy a Hpt.-ben meghatározottak szerinti azonosított elektronikus úton” szövegrész,
 
 b)
