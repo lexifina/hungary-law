@@ -1,1 +1,1 @@
-274. § A betétre vonatkozó reklámban a betétbiztosítással kapcsolatban az OBA által előírt betétbiztosítási emblémát kell feltüntetni az OBA által előírt módon.
+274. § A betétre vonatkozó reklámban a betétbiztosítással kapcsolatban az OBA által előírt betétbiztosítási emblémát az OBA által előírt módon fel kell tüntetni. A betétbiztosítással kapcsolatban kizárólag az OBA által előírt betétbiztosítási embléma szerepeltethető.

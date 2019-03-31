@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2018-12-29 | 2018. évi CXXVI. törvény | 2013-237-00-00.43 |
 | 2019-01-01 | 2018. évi CXXVI. törvény | 2013-237-00-00.44 |
 | 2019-01-15 | 2018. évi CXXVI. törvény | 2013-237-00-00.45 |
+| 2019-03-31 | 2018. évi CXXVI. törvény | 2013-237-00-00.46 |
