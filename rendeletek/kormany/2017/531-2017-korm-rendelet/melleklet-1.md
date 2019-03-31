@@ -920,6 +920,10 @@
 
 | 194. | A 312/2012. (XI. 8.) Korm. rendelet szerinti összevont telepítési eljárás integrált építési engedélyezési szakaszában az építési engedélyezési eljárás és az országos építési követelményektől való eltérés engedélyezési eljárása esetén. | A Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e. | Honvédelmi és katonai célú építmény működési vagy védőterületén belüli építmény építése esetén. | Polgári célú légiközlekedésre gyakorolt hatás vizsgálata tekintetében a légiközlekedési hatóság | - | - |
 
+| 195. | A repülőtéri akadálykorlátozási felületek kijelölésével kapcsolatos eljárás. | Annak kérdésében, hogy a tervezett tevékenység az állami célú légiközlekedés biztonságát, így különösen a honvédelemért felelős miniszter által létrehozott légi kutató-mentő szolgálat hatáskörébe tartozó feladatok ellátását, Magyarország légterének védelmét ellátó szolgálatok tevékenységét vagy a Magyar Honvédség, illetve a szövetséges fegyveres erők feladatainak ellátását akadályozza-e. | Minden esetben | Katonai légügyi hatóság | – | – |
+
+| 196. | A repülőtéri akadálykorlátozási felületek kijelölésével kapcsolatos eljárás. | Annak kérdésében, hogy a repülőtér megfelel-e a fegyveres biztonsági őrség működtetéséhez, nemzetközi repülőtér esetében a határellenőrzéshez szükséges feltételeknek, továbbá teljesülnek-e a repülőtérre vonatkozó biztonsági alapkövetelmények. | Minden esetben | A repülőtér fekvése szerinti illetékes rendőr-főkapitányság; Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság | – |
+
 11. Mérésügyi ügyek
 
 |  | A | B | C | D | E | F |
@@ -1270,4 +1274,4 @@
 
 | 71. | a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/C. § (4) bekezdése, 27/A. § (6a) bekezdése, valamint a 66. § (6) bekezdése szerinti hatósági nyilvántartásba vétellel és a hatósági nyilvántartás vezetésével kapcsolatos eljárások | egyéb, a 70. pontba nem tartozó szakképzés tartalma | Amennyiben a kérelem elbírálásához a 70. pontba nem tartozó, egyéb szakképzettség tartalmának meghatározása szükséges. | Nemzeti Szakképzési és Felnőttképzési Hivatal | – | – |
 
-[^1]: Az 1. melléklet a 103/2018. (VI. 11.) Korm. rendelet 27. §-a, a 108/2018. (VI. 25.) Korm. rendelet 7. §-a, a 162/2018. (IX. 10.) Korm. rendelet 41. §-a, a 226/2018. (XII. 4.) Korm. rendelet 20. § a) pontja, a 265/2018. (XII. 20.) Korm. rendelet 7. §-a, a 305/2018. (XII. 27.) Korm. rendelet 23. §-a, a 322/2018. (XII. 28.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 103/2018. (VI. 11.) Korm. rendelet 27. §-a, a 108/2018. (VI. 25.) Korm. rendelet 7. §-a, a 162/2018. (IX. 10.) Korm. rendelet 41. §-a, a 226/2018. (XII. 4.) Korm. rendelet 20. § a) pontja, a 265/2018. (XII. 20.) Korm. rendelet 7. §-a, a 305/2018. (XII. 27.) Korm. rendelet 23. §-a, a 322/2018. (XII. 28.) Korm. rendelet 17. §-a, a 29/2019. (III. 1.) Korm. rendelet 1. §-a szerint módosított szöveg.
