@@ -12,10 +12,10 @@ a) az Országos Atomenergia Hivatallal,
 
 b) az országos tisztifőorvossal,
 
-c)[^1]
+c)[^3]
 
 d) az engedélyes székhelye (telephelye) szerint illetékes közlekedési hatósággal és
 
 e) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatósággal.
 
-[^1]: A 171. § (4) bekezdés c) pontját a 162/2018. (IX. 10.) Korm. rendelet 42. §-a hatályon kívül helyezte.
+[^3]: A 171. § (4) bekezdés c) pontját a 162/2018. (IX. 10.) Korm. rendelet 42. §-a hatályon kívül helyezte.

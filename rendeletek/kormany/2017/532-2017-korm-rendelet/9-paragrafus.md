@@ -12,7 +12,7 @@ c) rádióállomás kísérleti üzembe helyezésére, próbaüzemére,
 
 d) frekvencia-, fedésterület- és magasságváltozás esetében.
 
-(2) A kérelemnek tartalmaznia kell a rádióberendezés tervezett frekvenciáját, hívójelét, telepítési helyét, a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvény (a továbbiakban: 2007. évi XLVI. törvény) által közzétett 15. függelékben meghatározott pontossággal földrajzi WGS–84 rendszerű koordinátáit, a rendszer megnevezését.
+(2)[^1] A kérelemnek tartalmaznia kell a rádióberendezés tervezett frekvenciáját, hívójelét, telepítési helyét, a légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásának szabályairól szóló miniszteri rendeletben meghatározott pontossággal földrajzi WGS–84 rendszerű koordinátáit, a rendszer megnevezését.
 
 (3) A kérelem benyújtásakor igazolni kell a rádióberendezés megfelelőségét.
 
@@ -27,3 +27,5 @@ d) frekvencia-, fedésterület- és magasságváltozás esetében.
 (8) A légiközlekedési hatóság a nemzetközi egyezményekben foglaltaknak megfelelően jár el a légiforgalmi célú frekvenciákra vonatkozó nemzetközi egyeztetés és koordinációs eljárás lefolytatásában. Az ICAO vonatkozásában a légiközlekedési hatóság egyeztet, a Nemzetközi Távközlési Egyesület vonatkozásában a koordinációt az NMHH végzi.
 
 (9) Az NMHH a nemzetközi frekvenciakoordináció eredményeit frekvenciakiosztási tervbe foglalva teszi közzé a légiközlekedési hatóság és a felhasználók tájékoztatása, valamint a tételes frekvencia-igénybevétel lehetősége céljából.
+
+[^1]: A 9. § (2) bekezdése a 30/2019. (III. 1.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
