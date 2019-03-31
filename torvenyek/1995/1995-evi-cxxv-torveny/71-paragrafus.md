@@ -18,7 +18,7 @@ azt jóváhagyta.
 
 (3) A (2) bekezdés a) pontjában meghatározott irányító vagy felügyelő személy vagy szerv hiányában a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítésére jogosult személy vagy testület dönt a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nemzetbiztonsági ellenőrzés lefolytatását megelőzően történő létrehozásáról.
 
-(4) Ha a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony csak akkor hozható létre, illetve tartható fenn, ha annak létrehozását vagy fenntartását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
+(4)
 
 (5) Az (2)–(4) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
 

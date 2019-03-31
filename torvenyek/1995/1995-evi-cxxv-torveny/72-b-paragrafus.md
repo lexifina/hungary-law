@@ -58,7 +58,7 @@ c) a (2) bekezdés c) pontja alapján a 71/D. § (2) bekezdésében foglaltak sz
 
 (7) A felülvizsgálati eljárás alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt állít ki, amelyet megküld a kezdeményezőnek. A kezdeményező a 71/C. § (6) bekezdésében foglaltak szerint tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt.
 
-(8) Ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nem hozható létre vagy azt haladéktalanul meg kell szüntetni, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását vagy fenntartását jóváhagyta.
+(8)
 
 (9) A felülvizsgálati eljárás eredményeként kiadott kockázatmentes biztonsági szakvélemény a kiállítástól számított 5 évig érvényes.
 

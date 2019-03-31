@@ -46,6 +46,6 @@ bc) a nemzetbiztonsági ellenőrzés alá eső személy által kezdeményezett �
 
 (12) A bíróság e § szerinti eljárására a közigazgatási perrendtartás rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
-(13) A bíróság a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény kiadásának alapjául szolgáló eljárás jogszerűségét vizsgálja, jogköre nem terjed ki a nemzetbiztonsági kockázat megállapításának szakszerűségére.
+(13)
 
-(14) Eljárási szabálysértés esetén a bíróság a nemzetbiztonsági kockázat megállapítására vonatkozó döntést hatályon kívül helyezi és a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot új eljárásra kötelezi.
+(14)
