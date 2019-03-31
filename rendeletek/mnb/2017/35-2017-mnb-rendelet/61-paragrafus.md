@@ -1,3 +1,3 @@
-## 60. §[^26]
+## 60. §[^28]
 
-[^26]: A 60. § az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^28]: A 60. § az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
