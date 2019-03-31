@@ -1,5 +1,5 @@
 ## (Az Lt. 37—38. §-aihoz)
 
-17. §[^26] A nemzetközi repülőtéren nemzetközi személyforgalom számára megnyitott útvonalon tranzitterület létesíthető a Nemzeti Adó- és Vámhivatal Repülőtéri Főigazgatóság engedélye alapján, továbbá az egyéb, jogszabályban előírt szolgálatokon kívül határrendészeti, vámhatósági, légiközlekedés-védelmi, továbbá közegészségügyi szolgálatot kell fenntartani.
+17. §[^27] A nemzetközi repülőtéren nemzetközi személyforgalom számára megnyitott útvonalon tranzitterület létesíthető a Nemzeti Adó- és Vámhivatal Repülőtéri Főigazgatóság engedélye alapján, továbbá az egyéb, jogszabályban előírt szolgálatokon kívül határrendészeti, vámhatósági, légiközlekedés-védelmi, továbbá közegészségügyi szolgálatot kell fenntartani.
 
-[^26]: A Vhr. 17. §-a a 273/2010. (XII. 9.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^27]: A Vhr. 17. §-a a 273/2010. (XII. 9.) Korm. rendelet 77. §-ával megállapított szöveg.
