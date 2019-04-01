@@ -1,4 +1,4 @@
-## Üzemszünet, üzemzavar
+## Üzemszünet, üzemzavar, működési hiba[^5]
 
 2. § (1) Az EKR üzemeltetője minden, az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet szerinti üzemszünetet munkanapokon este tizenkilenc óra és hajnali kettő óra közötti időszakra, vagy munkanapokon kívüli időszakra ütemezi.
 
@@ -11,3 +11,5 @@ a) a technikai tevékenység tervezett kezdő és záró időpontját (nap, óra
 b) a technikai tevékenységgel érintett szolgáltatások meghatározását, funkcionalitásukban bekövetkező változásokat,
 
 c) – ha a tervezett technikai tevékenység az elektronikus szolgáltatás módosulásával jár – a módosítás pontos leírását, valamint a felhasználásban bekövetkező változások leírását.
+
+[^5]: Az „Üzemszünet, üzemzavar, működési hiba” alcím címe az 5/2019. (III. 28.) MvM rendelet 26. §-ával megállapított szöveg.

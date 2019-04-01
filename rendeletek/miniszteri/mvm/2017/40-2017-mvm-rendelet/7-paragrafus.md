@@ -1,0 +1,6 @@
+## 6. § Ez a rendelet 2018. január 1-jén lép hatályba.
+
+7. §[^10] E rendeletnek a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 44/2015. (XI. 2.) MvM rendelet, valamint az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos szabályokról szóló 40/2017. (XII. 27.) MvM rendelet módosításáról szóló 5/2019. (III. 28.) MvM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^11] követően felmerülő üzemzavar vagy működési hiba esetén a folyamatban lévő beszerzésekben, közbeszerzési eljárásokban is kell alkalmazni.
+
+[^10]: A 7. § az 5/2019. (III. 28.) MvM rendelet 29. §-ával megállapított szöveg.
+[^11]: A hatálybalépés időpontja 2019. április 1.
