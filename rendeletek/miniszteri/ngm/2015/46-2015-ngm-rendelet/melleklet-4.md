@@ -8,7 +8,7 @@
 
 | 3 | Adatkezelők | Illetékesség | saját adatokban (aktuális elöljáró) | Felü- gyelete alatt dolgozó szervek adatai | saját adatok- ban (aktuális elöljáró) | Felü- gyelete alatt dolgozó szervek adatai | saját adatok- ban (aktuális elöljáró) | Felü- gyelete alatt dolgozó szervek adatai | személyre | Cég- re |
 
-| 4 | az állami adó- és vámhatóság vezetőjének a NAV vámszakmai és nemzetközi ügyekért felelős szakmai helyettese | országos hozzáférési jog | X | X |  |  |  |  | X | X |
+| 4 | az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese | országos hozzáférési jog | X | X |  |  |  |  | X | X |
 
 | 5 | a NAV szabálysértési tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője, vezetőjének helyettese és osztályvezetői | országos hozzáférési jog | X | X | X | X | X |  | X | X |
 
@@ -28,7 +28,7 @@
 
 | 13 | a NAV vámhatósági feladatokat ellátó területi szerve kirendeltségeinek vezetői, az állomány e szerv vezetője által kijelölt tagja | országos hozzáférési jog |  |  |  |  |  |  | X | X |
 
-4. melléklet a 46/2015. (XII. 30.) NGM rendelethez
+4. melléklet a 46/2015. (XII. 30.) NGM rendelethez[^7]
 
 A Határon Átlépő Készpénzforgalom Nyilvántartást kezelő szervek és a hozzáférési jogosultságok
 
@@ -40,7 +40,7 @@ A Határon Átlépő Készpénzforgalom Nyilvántartást kezelő szervek és a h
 
 | 3 | Adatkezelők | Illetékesség | saját adatokban (aktuális eljáró) | (adatátvitelt végző valamennyi szerv adatai) felügyelete alatt dolgozó szervek | saját adatokban (aktuális eljáró) | felügyelete alatt dolgozó szervek adatai | saját adatokban (aktuális eljáró) | felügye- lete alatt dolgozó szervek adatai |
 
-| 4 | az állami adó- és vámhatóság vezetőjének a NAV vámszakmai és nemzetközi ügyekért felelős szakmai helyettese | országos hozzáférés jog | - | X | - | - | - | - |
+| 4 | az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese | országos hozzáférés jog | - | X | - | - | - | - |
 
 | 5 | a NAV rendészeti tevékenységet irányító, felügyelő, ellenőrző szervezeti egységének vezetője és az általa kijelölt tagja | országos hozzáférési jog | - | X | - | - | - | - |
 
@@ -59,3 +59,5 @@ Megjegyzés:
 X: AZ ADATOK TELJES KÖRÉRE VONATKOZÓ JOGOSULTSÁG.
 
 C: A SZEMÉLYES ADATOK KIVÉTELÉVEL AZ ADATOKHOZ VALÓ HOZZÁFÉRÉSI JOG.
+
+[^7]: A 4. melléklet a 3/2019. (III. 29.) PM rendelet 1. § b) pontja szerint módosított szöveg.

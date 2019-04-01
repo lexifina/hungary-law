@@ -8,7 +8,7 @@
 
 | 3 | Adatkezelők | Illetékesség | saját adatokban (aktuális elöljáró) | Felügye- lete alatt dolgozó szervek adatai | saját ada- tokban (aktu- ális elöl- járó) | Felügye- lete alatt dolgozó szervek adatai | saját adatokban (aktuális elöljáró) | Felügye- lete alatt dolgozó szervek adatai | személyre | cégre |
 
-| 4 | az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatok ellátásáért felelős szakmai helyettese | országos hozzáférési jog | X | X |  |  |  |  | X | X |
+| 4 | az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese | országos hozzáférési jog | X | X |  |  |  |  | X | X |
 
 | 5 | bűnügyi főigazgató és szakmai helyettese | országos hozzáférési jog | X | X | X | X | X |  | X | X |
 
@@ -38,4 +38,6 @@
 
 | 18 | a NAV pénzügyi információs szervezeti egység kijelölt tagjai | országos hozzáférési jog |  |  |  |  |  |  | X | X |
 
-2. melléklet a 46/2015. (XII. 30.) NGM rendelethez
+2. melléklet a 46/2015. (XII. 30.) NGM rendelethez[^5]
+
+[^5]: A 2. melléklet a 3/2019. (III. 29.) PM rendelet 1. § a) pontja szerint módosított szöveg.
