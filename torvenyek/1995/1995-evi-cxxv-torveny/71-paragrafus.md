@@ -18,8 +18,14 @@ azt jóváhagyta.
 
 (3) A (2) bekezdés a) pontjában meghatározott irányító vagy felügyelő személy vagy szerv hiányában a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony létesítésére jogosult személy vagy testület dönt a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony nemzetbiztonsági ellenőrzés lefolytatását megelőzően történő létrehozásáról.
 
-(4)
+(4) Ha a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapított meg, a nemzetbiztonsági ellenőrzés alá eső jogviszony csak akkor hozható létre, ha annak létrehozását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
 
-(5) Az (2)–(4) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
+(4a) Ha a (2) bekezdés szerinti esetben a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozását követően a nemzetbiztonsági ellenőrzés nemzetbiztonsági kockázatot állapít meg,
 
-(6) A (4) bekezdésben meghatározott esetben a Nemzeti Biztonsági Felügyelet nem adja ki a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítványt.
+a) a nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése iránt kell intézkedni akként, hogy a munkáltatói jogkört gyakorló mérlegeli az érintett személy más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezését vagy foglalkoztatási jogviszonyának megszüntetését, vagy
+
+b) a nemzetbiztonsági ellenőrzés alá eső jogviszony akkor tartható fenn, ha annak fenntartását a (2) vagy (3) bekezdésben meghatározott szerv, személy vagy testület jóváhagyta.
+
+(5) Az (2)–(4a) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
+
+(6) A (4) vagy (4a) bekezdésben meghatározott esetben a Nemzeti Biztonsági Felügyelet nem adja ki a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítványt.

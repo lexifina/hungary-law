@@ -10,7 +10,7 @@ c) az általa kezdeményezett felülvizsgálati eljárás elrendelésének eluta
 
 szemben – a kézhezvételétől számított 15 napon belül – panasszal élhet a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója útján a miniszternél.
 
-(2) Az előterjesztett panasznak a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony 71. § (4) bekezdése, illetve a 72/B. § (8) bekezdése alapján történő megszüntetésére nincs halasztó hatálya.
+(2) Az előterjesztett panasznak a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszony a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése, illetve a 72/B. § (8) vagy (8a) bekezdése alapján történő megszüntetésére nincs halasztó hatálya.
 
 (3) Ha a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálat főigazgatója az (1) bekezdésben meghatározott panaszban foglaltakkal egyetért,
 
@@ -40,12 +40,12 @@ bc) a nemzetbiztonsági ellenőrzés alá eső személy által kezdeményezett �
 
 (9) A nemzetbiztonsági ellenőrzés alá eső személy a miniszter döntésével szemben, annak kézhezvételétől számított 15 napon belül panasszal élhet a Bizottságnál.
 
-(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) bekezdése vagy a 72/B. § (8) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) vagy (4a) bekezdése, a 71/C. § (9) bekezdése vagy a 72/B. § (8) vagy (8a) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 (11) A (10) bekezdés szerinti közigazgatási per megindításának joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
 
 (12) A bíróság e § szerinti eljárására a közigazgatási perrendtartás rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
-(13)
+(13) A (10) bekezdés szerinti eljárásban a bíróság a nemzetbiztonsági kockázat megállapítására vonatkozó döntés megváltoztatására nem jogosult.
 
 (14)

@@ -58,7 +58,15 @@ c) a (2) bekezdés c) pontja alapján a 71/D. § (2) bekezdésében foglaltak sz
 
 (7) A felülvizsgálati eljárás alapján a nemzetbiztonsági szolgálat biztonsági szakvéleményt állít ki, amelyet megküld a kezdeményezőnek. A kezdeményező a 71/C. § (6) bekezdésében foglaltak szerint tájékoztatja a nemzetbiztonsági ellenőrzés alá eső személyt.
 
-(8)
+(8) Az (1) bekezdés a) és c) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyt haladéktalanul meg kell szüntetni, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását vagy fenntartását jóváhagyta. A nemzetbiztonsági ellenőrzés alá eső jogviszony megszüntetése érdekében a munkáltatói jogkört gyakorló mérlegelése alapján az érintett személy
+
+a) más, nemzetbiztonsági ellenőrzés alá nem eső munkakörbe, beosztásba helyezése vagy
+
+b) foglalkoztatási jogviszonyának megszüntetése
+
+iránt intézkedik.
+
+(8a) Az (1) bekezdés b) pontja szerinti esetben, ha a nemzetbiztonsági szolgálat a felülvizsgálati eljárás során nemzetbiztonsági kockázatot állapít meg, a nemzetbiztonsági ellenőrzés alá vont személy vonatkozásában a jelölés szerinti nemzetbiztonsági ellenőrzés alá eső jogviszony nem hozható létre, kivéve, ha a 71. § (2) vagy (3) bekezdésében meghatározott személy, szerv vagy testület a jogviszony létrehozását jóváhagyta.
 
 (9) A felülvizsgálati eljárás eredményeként kiadott kockázatmentes biztonsági szakvélemény a kiállítástól számított 5 évig érvényes.
 
