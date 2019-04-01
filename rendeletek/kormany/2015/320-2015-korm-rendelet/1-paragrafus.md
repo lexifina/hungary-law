@@ -4,7 +4,7 @@
 
 a) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik ideértve a magyar állam, vagy közalapítvány által önállóan, vagy más jogosulttal együttesen alapított és fenntartott felsőoktatási intézményeket;
 
-b) azok a többségi állami tulajdonban lévő gazdálkodó szervezetek, amelyekben az állam nevében az állami vagyonról szóló 2007. évi CVI. törvény szerint a tulajdonosi (részvényesi, tagsági stb.) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött szerződés alapján központi költségvetési szerv vagy intézménye gyakorolja;
+b)[^1] azok a többségi állami tulajdonban lévő gazdálkodó szervezetek, amelyekben az állam nevében az állami vagyonról szóló 2007. évi CVI. törvény szerint a tulajdonosi (részvényesi, tagsági stb.) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött szerződés alapján a Kormány tagja, központi költségvetési szerv vagy intézménye gyakorolja;
 
 c) a Kormány közalapítványai;
 
@@ -18,9 +18,9 @@ b) a közbeszerzési törvény 9. § (1) bekezdés d) és e) pontja alá eső, a
 
 c) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény hatálya alá tartozó szervezetek beszerzéseire;
 
-d)[^1] a külpolitikáért felelős miniszter, az európai uniós ügyek koordinációjáért felelős miniszter, valamint a honvédelemért felelős miniszter által vezetett minisztériumok irányítása alá tartozó külképviseletek számára történő beszerzésekre;
+d)[^2] a külpolitikáért felelős miniszter, az európai uniós ügyek koordinációjáért felelős miniszter, valamint a honvédelemért felelős miniszter által vezetett minisztériumok irányítása alá tartozó külképviseletek számára történő beszerzésekre;
 
-e)[^2] a közbeszerzésekért felelős miniszter által vezetett minisztérium állami protokoll feladatokkal összefüggő beszerzéseire;
+e)[^3] a közbeszerzésekért felelős miniszter által vezetett minisztérium állami protokoll feladatokkal összefüggő beszerzéseire;
 
 f) a Magyar Nemzeti Bank beszerzéseire;
 
@@ -32,16 +32,17 @@ i) azon beszerzésekre, amelyek megvalósítása európai uniós alapokból, vag
 
 j) az i) pontban meghatározott beszerzéseken túlmenően azon beszerzésekre, amelyek fedezetét legalább 50%-ban nem az államháztartás alrendszereiből vagy az államháztartásról szóló 2011. évi CXCV. törvény 3/A. §-a szerinti közfeladat ellátásából származó pénzeszközök biztosítják;
 
-k)[^3] az állami felsőoktatási intézménynek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontjában meghatározott felsőoktatási kutatás-fejlesztési vállalkozási tevékenység érdekében, valamint 100. § (5) bekezdésében foglaltak érdekében történő beszerzéseire.
+k)[^4] az állami felsőoktatási intézménynek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontjában meghatározott felsőoktatási kutatás-fejlesztési vállalkozási tevékenység érdekében, valamint 100. § (5) bekezdésében foglaltak érdekében történő beszerzéseire.
 
-(3)[^4] Az (1) bekezdésében meghatározott szervezetek (a továbbiakban együttesen: érintett szervezet) közül a közalapítványok, a nem kizárólagos állami tulajdonban álló gazdálkodó szervezetek, valamint az (1) bekezdés d) pontjában meghatározott alapítványok e rendelet előírásait kizárólag az államháztartás alrendszereiből származó pénzeszközök felhasználásával történő beszerzéseikre, szerződéskötéseikre kötelesek alkalmazni.
+(3)[^5] Az (1) bekezdésében meghatározott szervezetek (a továbbiakban együttesen: érintett szervezet) közül a közalapítványok, a nem kizárólagos állami tulajdonban álló gazdálkodó szervezetek, valamint az (1) bekezdés d) pontjában meghatározott alapítványok e rendelet előírásait kizárólag az államháztartás alrendszereiből származó pénzeszközök felhasználásával történő beszerzéseikre, szerződéskötéseikre kötelesek alkalmazni.
 
 (4) E rendelet 15–17. §-ának rendelkezéseit nem kell alkalmazni az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság által az államadósság-kezelés körében megkötésre kerülő azon szerződésekre, amelyekre közbeszerzési eljárást a közbeszerzési törvény 9. § (8) bekezdés e) pontja alapján nem kell lefolytatni, továbbá ezen eljárások eredményeként kötött szerződések módosítására.
 
-(5)[^5] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
+(5)[^6] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
 
-[^1]: Az 1. § (2) bekezdés d) pontja a 206/2016. (VII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés e) pontja a 101/2018. (VI. 11.) Korm. rendelet 33. §-a szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés k) pontja a 473/2015. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: Az 1. § (3) bekezdése a 29/2017. (II. 13.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
-[^5]: Az 1. § (5) bekezdését az 50/2019. (III. 14.) Korm. rendelet 2. §-a iktatta be.
+[^1]: Az 1. § (1) bekezdés b) pontja a 66/2019. (III. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés d) pontja a 206/2016. (VII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés e) pontja a 101/2018. (VI. 11.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés k) pontja a 473/2015. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 1. § (3) bekezdése a 29/2017. (II. 13.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^6]: Az 1. § (5) bekezdését az 50/2019. (III. 14.) Korm. rendelet 2. §-a iktatta be.

@@ -10,6 +10,6 @@
 
 (5) Amennyiben az érintett szervezet az ellenőrző szervezet mulasztásából eredően nem képes az e rendeletben meghatározott határidők betartására, bírság nem szabható ki.
 
-(6)[^7] A bírságot az ellenőrző szervezet vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni. A határozat ellen fellebbezésnek nincs helye. A bírsággal sújtott érintett szervezet a határozat közlésétől számított tizenöt napon belül kérheti a döntés bírósági felülvizsgálatát.
+(6)[^8] A bírságot az ellenőrző szervezet vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni. A határozat ellen fellebbezésnek nincs helye. A bírsággal sújtott érintett szervezet a határozat közlésétől számított tizenöt napon belül kérheti a döntés bírósági felülvizsgálatát.
 
-[^7]: A 3. § (6) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^8]: A 3. § (6) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.

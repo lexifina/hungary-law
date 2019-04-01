@@ -1,4 +1,4 @@
-13. §[^40] (1) A miniszter a 12. §-ban meghatározott iratok és adatok hiánytalan megküldését követően, tíz munkanapon belül állást foglal az adott közbeszerzésről:
+13. §[^41] (1) A miniszter a 12. §-ban meghatározott iratok és adatok hiánytalan megküldését követően, tíz munkanapon belül állást foglal az adott közbeszerzésről:
 
 a) támogató tartalmú záró tanúsítványt ad ki, ha az érintett szervezet részvételi szakaszt lezáró, illetve az eljárást lezáró döntése közbeszerzési jogi szempontból, a 12. § szerinti ellenőrzés tekintetében megfelelő,
 
@@ -10,4 +10,4 @@ c) nem támogató tartalmú záró tanúsítványt ad ki.
 
 (3) A (2) bekezdéstől eltérően, ha az ellenőrző szervezet nem küldött hiánypótlási felhívást az érintett szervezetnek és a miniszter az (1) bekezdés szerinti döntését nem közli az ott meghatározott határidőben az érintett szervezettel, az összegezés záró tanúsítvány hiányában is kiküldhető, az ajánlattételi szakaszt megindító felhívás a záró tanúsítvány hiányában is kiküldhető, és a szerződés záró tanúsítvány hiányában is hatályba lép.
 
-[^40]: A 13. § a 478/2016. (XII. 27.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^41]: A 13. § a 478/2016. (XII. 27.) Korm. rendelet 19. §-ával megállapított szöveg.
