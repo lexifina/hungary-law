@@ -54,7 +54,7 @@
 
 ## KML: Katasztrófavédelmi mobil laborok
 
-6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^16]
+6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^18]
 
 ## A büntetés-végrehajtási szervezet szolgálati beosztásai
 
@@ -106,7 +106,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | 4. | főigazgató-főorvos | 100 |  |
 
-|  | 5. | ügyvezető igazgató (gazdasági társaságok) | 100 |  |
+|  | 5. | ügyvezető igazgató (Bv. Holding Kft.) | 100 |  |
 
 |  | 6. | igazgató (intézmény) | 100 |  |
 
@@ -122,7 +122,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | 11. | főosztályvezető 2 | parancsnok-helyettes | 100 |  |
 
-|  | 12. | ügyvezető igazgató-helyettes (gazdasági társaságok) | 100 |  |
+|  | 12. |  |  |  |
 
 |  | 13. |  |  |  |
 
@@ -130,23 +130,33 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | 15. | beosztott vezető | osztályvezető 1 | osztályvezető | 100 |  |
 
-|  | 16. | biztonsági vezető (gazdasági társaságok) | 100 |  |
+|  | 16. |  |  |  |
 
 3. Helyi szervnél
 
 |  | A | B | C | D | E |
 
-|  | 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-|  | 2. | alapfeladat | nem alapfeladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-|  | 3. | középvezető | szakirányító 2 | parancsnok | 100 |  |
+| 3. | középvezető | szakirányító 2 | parancsnok | 100 |  |
 
-|  | 4. | beosztott vezető | főosztályvezető-helyettes 1 | parancsnok-helyettes | 100 |  |
+| 4. | középvezető | szakirányító 2 | ügyvezető igazgató (gazdasági társaságok) | 100 |  |
 
-|  | 5. | gazdasági vezető | 100 |  |
+| 5. | beosztott vezető | főosztályvezető- helyettes 1 | parancsnok-helyettes | 100 |  |
 
-|  | 6. | osztályvezető 2 | osztályvezető | 100 |  |
+| 6. | beosztott vezető | főosztályvezető- helyettes 1 | ügyvezető igazgató-helyettes (gazdasági társaságok) | 100 |  |
+
+| 7. | beosztott vezető | főosztályvezető- helyettes 1 | gazdasági vezető | 100 |  |
+
+| 8. | beosztott vezető | főosztályvezető- helyettes 1 | gazdasági vezető (gazdasági társaságok) | 100 |  |
+
+| 9. | beosztott vezető | osztályvezető 2 | osztályvezető | 100 |  |
+
+| 10. | beosztott vezető | osztályvezető 2 | osztályvezető (gazdasági társaságok) | 100 |  |
+
+| 11. | beosztott vezető | osztályvezető 2 | biztonsági vezető (gazdasági társaságok) | 100 |  |
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
@@ -214,6 +224,8 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 30. | helyi | D | osztályvezető-helyettes | 100 | 50 |
 
+| 30a. | osztályvezető- helyettes (gazdasági társaságok) | 100 |  |
+
 | 31. | csoportvezető | 100 | 50 |
 
 | 32. | kiemelt főelőadó | 100 | 50 |
@@ -242,4 +254,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^16]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja, az 55/2016. (XII. 22.) BM rendelet 9. §-a, a 15/2017. (VI. 22.) BM rendelet 5. §-a, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja, az 55/2016. (XII. 22.) BM rendelet 9. §-a, a 15/2017. (VI. 22.) BM rendelet 5. §-a, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés b) pontja, a 9/2019. (III. 28.) BM rendelet 4. §-a szerint módosított szöveg.

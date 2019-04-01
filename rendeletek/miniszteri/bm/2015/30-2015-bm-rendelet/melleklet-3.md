@@ -1,4 +1,4 @@
-3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^13]
+3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^15]
 
 ## A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolgálati beosztásai
 
@@ -52,4 +52,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^13]: A 3. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § b) pontja szerint módosított szöveg.
+[^15]: A 3. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § b) pontja szerint módosított szöveg.
