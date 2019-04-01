@@ -32,7 +32,7 @@
 
 | 13 | E23 | A központi értéktárnál vezetett egyesített összevont értékpapírszámlákon és biztosíték értékpapír letéti számlákon lévő értékpapír-állományok | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 3. munkanap |
 
-| 14 |  |  |  |  |  |  |
+| 14 | E24 | A hitelintézetek saját tulajdonában lévő értékpapírok állományának napi adatai | a hitelintézeti csoporthoz tartozó, nem csoportvezető, magyarországi székhelyű bank kivételével a bank, az ezen típusú EGT-fióktelep, valamint a kijelölt szakosított hitelintézet | napi | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő 2. munkanap |
 
 | 15 | E27 | Értékpapírok központi értéktár által kiadott ISIN kódjai és egyéb alapadatai | központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (EBEAD rendszer) | tárgynapot követő munkanap 9 óra |
 
