@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-67-20-2
 | 2018-07-01 | 2016-67-20-2W.10 | 3/2018. (VI. 29.) ITM rendelet |
 | 2018-10-01 | 2016-67-20-2W.11 | 19/2018. (IX. 27.) ITM rendelet |
 | 2019-01-01 | 2016-67-20-2W.12 | 36/2018. (XII. 21.) ITM rendelet |
+| 2019-04-01 | 2016-67-20-2W.13 | 4/2019. (III. 29.) ITM rendelet |
