@@ -14,8 +14,12 @@ e) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai p
 
 f) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai parlamenti és tanácsi irányelv I. és II. mellékletének módosításáról szóló, 2014. június 10-i 2014/77/EU bizottsági irányelvnek;
 
-g) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai parlamenti és tanácsi irányelv szerinti számítási módszerek és jelentéstételi követelmények meghatározásáról szóló, 2015. április 20-i (EU) 2015/652/EU tanácsi irányelvnek
+g) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK európai parlamenti és tanácsi irányelv szerinti számítási módszerek és jelentéstételi követelmények meghatározásáról szóló, 2015. április 20-i (EU) 2015/652/EU tanácsi irányelvnek;
+
+h)[^8] az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelvnek
 
 ## való megfelelést szolgálja.
 
 (2) Ez a rendelet az üzemanyagok minőségére vonatkozó nemzeti adatokat összefoglaló beadvány egységes formájáról szóló, 2002. február 18-i 2002/159/EK bizottsági határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^8]: A 15. § (1) bekezdés h) pontját a 36/2018. (XII. 21.) ITM rendelet 8. §-a iktatta be.

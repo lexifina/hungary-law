@@ -14,4 +14,9 @@ d) fémtartalmú adalékot tartalmazó motorhajtóanyag esetében „Fémtartalm
 
 ## jelöléssel kell ellátni, és fel kell hívni a figyelmet a motorhajtóanyagok rendeltetésszerű használatára.
 
-(2) Az (1) bekezdés szerinti jelölésnek jól láthatónak és könnyen olvashatónak kell lennie.
+(1a)[^6] A motorhajtóanyagot kiszolgáló kútoszlopon és annak töltőpisztolyán az MSZ EN 16942 legkésőbbi évjelzetű szabványban meghatározott jelöléseket kell elhelyezni.
+
+(2)[^7] Az (1) és (1a) bekezdés szerinti jelölésnek jól láthatónak és könnyen olvashatónak kell lennie.
+
+[^6]: A 10. § (1a) bekezdését a 36/2018. (XII. 21.) ITM rendelet 6. §-a iktatta be.
+[^7]: A 10. § (2) bekezdése a 36/2018. (XII. 21.) ITM rendelet 7. §-a szerint módosított szöveg.

@@ -1448,6 +1448,6 @@
 
 ## A forgalmazók a villamos energiára vonatkozó üvegházhatásúgáz-intenzitás (gCO2eq/MJ) értékeit a jelentett adatokból kiindulva az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet alapján határozzák meg.
 
-6. melléklet a 17/2017. (V. 26.) NFM rendelethez[^8]
+6. melléklet a 17/2017. (V. 26.) NFM rendelethez[^11]
 
-[^8]: A 6. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § c)–e) pontja és 7. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 6. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § c)–e) pontja és 7. § (2) bekezdése szerint módosított szöveg.

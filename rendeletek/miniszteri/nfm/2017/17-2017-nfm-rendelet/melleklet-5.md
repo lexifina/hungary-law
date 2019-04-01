@@ -36,6 +36,6 @@
 
 | 17. | Szulfáttartalom | mg/kg |  | 4,0 |
 
-5. melléklet a 17/2017. (V. 26.) NFM rendelethez[^7]
+5. melléklet a 17/2017. (V. 26.) NFM rendelethez[^10]
 
-[^7]: Az 5. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § b) pontja és 7. § (1) bekezdése szerint módosított szöveg.
+[^10]: Az 5. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § b) pontja és 7. § (1) bekezdése szerint módosított szöveg.
