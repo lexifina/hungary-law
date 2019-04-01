@@ -1,4 +1,4 @@
-29/E. § (1) Az állandó személyazonosító igazolvány érvényességének időtartama – a (2) és (4) bekezdésben, valamint a 29/G. § (2) bekezdésében foglalt kivétellel –, ha a jogosult
+29/E. § (1) Az állandó személyazonosító igazolvány érvényességének időtartama – a (2), (4) és a (4a) bekezdésben, valamint a 29/G. § (2) bekezdésében foglalt kivétellel –, ha a jogosult
 
 a) a 12. életévét még nem töltötte be, a kiállítás napjától számított 3 évet követő születési idejének napja, de legfeljebb a 12. életév betöltésének napjáig terjedő időtartam,
 
@@ -13,5 +13,7 @@ c) a 18. életévét betöltötte, a kiállítás napjától számított 6 évet
 (3a) Ha a jogosult február 29-én született, és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a személyazonosító igazolvány érvényességi ideje február 28-án jár le.
 
 (4) A letelepedett jogállású személy állandó személyazonosító igazolványát az (1) bekezdésben meghatározott érvényességi idővel, de legfeljebb a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, illetve EK letelepedési engedélyébe bejegyzett érvényességi idővel kell kiállítani.
+
+(4a) A menekült vagy oltalmazott jogállású személy állandó személyazonosító igazolványát a menekültkénti vagy oltalmazottkénti státuszról rendelkező döntés meghozatalának napjától számított 4 évre kell kiállítani.
 
 (5) Az ideiglenes személyazonosító igazolvány 30 napos érvényességi idővel állítható ki. Az ideiglenes személyazonosító igazolvány kiállításával kapcsolatos részletes szabályokat kormányrendelet határozza meg.
