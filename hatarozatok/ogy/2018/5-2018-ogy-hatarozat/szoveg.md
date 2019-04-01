@@ -408,7 +408,7 @@ Molnár Gyula (MSZP)[^67]
 
 Hiszékeny Dezső (MSZP)
 
-dr. Tóth Bertalan (MSZP)
+Tóbiás József (MSZP)[^68]
 
 Arató Gergely (DK)
 
@@ -418,7 +418,7 @@ dr. Keresztes László Lóránt (LMP)
 
 Burány Sándor (Párbeszéd)
 
-Hegedűs Lorántné (független)[^68]
+Dr. Gyüre Csaba (Jobbik)[^69]
 
 3. Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő nemzetiségi képviselőt és nemzetiségi szószólót választja:
 
@@ -434,7 +434,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 6. A Magyarországi nemzetiségek bizottságának megbízatása 2018. május 9-én kezdődik.
 
-7.[^69]
+7.[^70]
 
 [^2]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
@@ -502,5 +502,6 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^65]: A 4/2019. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
 [^66]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
 [^67]: A 19/2018. (X. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^68]: A 9/2019. (III. 5.) OGY határozat 2. pontjával megállapított szöveg.
-[^69]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 12/2019. (IV. 2.) OGY határozat 1. pontjával megállapított szöveg.
+[^69]: A 12/2019. (IV. 2.) OGY határozat 1. pontjával megállapított szöveg.
+[^70]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
