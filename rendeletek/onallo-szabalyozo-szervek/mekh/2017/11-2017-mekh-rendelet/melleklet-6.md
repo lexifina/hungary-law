@@ -1,5 +1,5 @@
 ## 20175Z20000011_89
 
-6. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^16]
+6. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^17]
 
-[^16]: A 6. melléklet a 12/2017. (XI. 6.) MEKH rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^17]: A 6. melléklet a 12/2017. (XI. 6.) MEKH rendelet 4. § (5) bekezdésével megállapított szöveg.

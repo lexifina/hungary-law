@@ -1,5 +1,5 @@
 ## 20175Z20000011_64
 
-35. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^41]
+35. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^43]
 
-[^41]: A 35. mellékletet a 17/2017. (XII. 21.) MEKH rendelet 3. §-a iktatta be.
+[^43]: A 35. mellékletet a 17/2017. (XII. 21.) MEKH rendelet 3. §-a iktatta be.
