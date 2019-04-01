@@ -4,7 +4,7 @@
 
 151. § (1) A Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter felelős a Magyarország Kormánya és az Oroszországi Föderáció Kormánya közötti nukleáris energia békés célú felhasználása terén folytatandó együttműködésről szóló Egyezmény értelmében
 
-a)[^10] a Paksi két új blokk (5–6. blokkok)
+a)[^19] a Paksi két új blokk (5–6. blokkok)
 
 aa) tervezésről, beszerzésről és kivitelezésről szóló,
 
@@ -26,4 +26,4 @@ b) a Paksi két új blokkhoz (5–6. blokkok) kapcsolódó térségfejlesztés �
 
 c) az atomenergia-ipar innovációs feladatainak összehangolásáért.
 
-[^10]: A 151. § (1) bekezdés a) pont záró szövegrésze a 115/2018. (VII. 2.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^19]: A 151. § (1) bekezdés a) pont záró szövegrésze a 115/2018. (VII. 2.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-87. § (1) A miniszter az ingatlan-nyilvántartásért való felelőssége keretében előkészíti az ingatlan-nyilvántartás vezetésére, rendszerére és az abból történő adatszolgáltatásra vonatkozó jogszabályokat.
+87. §[^16]
 
-(2) A miniszter az ingatlan-nyilvántartásért való felelőssége keretében gondoskodik az ingatlan-nyilvántartás vezetéséről, rendszeréről és az abból történő adatszolgáltatásról.
+[^16]: A 87. §-t az 59/2019. (III. 25.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.

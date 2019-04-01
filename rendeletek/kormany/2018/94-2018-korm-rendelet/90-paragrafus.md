@@ -1,15 +1,5 @@
-90. § (1) A miniszter a térképészetért való felelőssége keretében előkészíti
+90. §[^17] (1) A miniszter a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért való felelőssége keretében előkészíti a birtokrendezéssel, a földüggyel, az agrár-vidékfejlesztési támogatással összefüggésben – az ingatlan-nyilvántartásért felelős miniszterrel és a térképészetért felelős miniszterrel együttműködésben – a földmérésre, a térképészetre, a távérzékelésre és térinformatikára vonatkozó jogszabályokat.
 
-a) a földmérésre, a térképészetre és a távérzékelésre, valamint – a Kormány feladatkörében érintett tagjával együttműködve – az államhatárral kapcsolatos nemzetközi kötelezettségek teljesítésére,
+(2) A miniszter a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért való felelőssége keretében gondoskodik a kapcsolódó földügyi és térinformatikai rendszerek kialakításáról és működtetéséről.
 
-b) a földtulajdoni előírások érvényesülésére,
-
-c) a földügyi informatikai rendszerre
-
-vonatkozó jogszabályokat.
-
-(2) A miniszter a térképészetért való felelőssége keretében
-
-a) gondoskodik a polgári célú állami földmérési, térképészeti és a távérzékelési feladatokról, a térinformatikai rendszerek kialakításáról, és működteti a földügyi informatikai rendszert,
-
-b) – a Kormány feladatkörében érintett tagjával közösen – biztosítja az államhatár felmérését, megjelölését, a határjelek felújítását és karbantartását, az államhatárral kapcsolatos nemzetközi kötelezettségek teljesítését.
+[^17]: A 90. § az 59/2019. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
