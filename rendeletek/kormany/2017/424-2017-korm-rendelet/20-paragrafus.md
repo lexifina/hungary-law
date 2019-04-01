@@ -1,29 +1,48 @@
+## 19. §
+
 ## 12. Egyéb eljárási cselekmények részletes szabályai
 
 20. § (1) A Kbt. szerinti iratbetekintést az ajánlatkérő az EKR-ben található dokumentumok tekintetében a gazdasági szereplő képviselőjének személyes megjelenése útján biztosítja.
 
 (2) A Kbt. 51. § (1) bekezdése szerinti esetben ugyanazon előzetes tájékoztatóval csak egy közbeszerzési eljárás hirdethető meg.
 
+(2a)[^34] A Kbt. 113. § (1) bekezdése szerinti, ugyanazon összefoglaló tájékoztatással csak egy közbeszerzési eljárás indítható meg.
+
 (3) A Kbt. 57. § (2) bekezdésében és 120. § (3) bekezdésében foglalt követelmény nem alkalmazandó.
 
-(4) Az eljárásban a gazdasági szereplőknek nem kell a Kbt. 66. § (4) bekezdése szerinti nyilatkozatot benyújtani.
+(4)[^35] Ha az ajánlatkérő lehetővé teszi a részekre történő ajánlattételt, az ajánlattevőnek az EKR-ben az erre szolgáló űrlap kitöltésével külön felolvasólapot kell benyújtania minden olyan rész tekintetében, amelyre ajánlatot kíván tenni.
 
-(5) A Kbt. 71. § (11) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha az ajánlatkérő az ajánlatban az értékelésre kiható számítási hibát észlel – a hiba és a javítandó érték, valamint a javítás eredményeként meghatározott érték megjelölésével –, felhívja az ajánlattevőt annak javítására. A számítási hiba javításának az eredményét az ajánlatkérő akként állapítja meg, hogy a közbeszerzés tárgya elemeinek tételesen meghatározott értékeit (az alapadatokat) alapul véve kiszámítja az összesített ellenértéket vagy más – az ajánlatban megtalálható számításon alapuló – adatot. Ha a számítási hiba javítását nem, vagy nem az előírt határidőben, vagy továbbra is hibásan teljesítették, az ajánlat érvénytelen.
+(5)[^36]
 
-(6) Az ajánlatkérő eredménytelenné nyilváníthatja az eljárást a Kbt. 75. § (2) bekezdésében foglalt eseteken túl akkor is, ha az EKR működési hibája olyan jogsértést eredményez, amely a Kbt.-ben meghatározott alapelvek érvényesülését biztosító módon nem orvosolható.
+(6)[^37]
 
-(7) A Kbt. 75. § (2) bekezdés b) pontjában foglalt esetben az ajánlatkérő az ajánlatok bontását megelőzően az EKR-ben rögzített adattal igazolhatja a rendelkezésre álló fedezet összegét.
+(7)[^38]
 
-(8) A Kbt. 75. § (6) bekezdésétől eltérően, elektronikus árlejtés alkalmazása esetén az ajánlatkérő alkalmazhatja a Kbt. 75. § (2) bekezdés e) pontját, annak az eljárást megindító felhívásban történő megadása nélkül.
+(8)[^39]
 
-(9) Az előzetes vitarendezési kérelem megküldése és az előzetes vitarendezés során a kommunikáció az EKR-ben történik.
+(9)[^40]
 
 (10) Ahol a Kbt. tárgyalási jegyzőkönyv átadását vagy megküldését írja elő, a jegyzőkönyvet az EKR-ben kell az adott tárgyaláson részt vett ajánlattevőknek megküldeni.
 
-(11) A Kbt. 113. §-át azzal az eltéréssel kell alkalmazni, hogy az ajánlatkérő a Közbeszerzési Hatóság részére történő megküldés nélkül az összefoglaló tájékoztatást az EKR-ben teszi közzé. Az összefoglaló tájékoztatás visszavonása a Közbeszerzési Hatóság értesítése nélkül az EKR-ben történik. Az ajánlatkérő a Közbeszerzési Hatóság értesítése nélkül az EKR-ben köteles az összefoglaló tájékoztatás közzétételét megelőzően rögzíteni, hogy mely gazdasági szereplőknek kívánja saját kezdeményezésére az eljárást megindító felhívást megküldeni.
+(11)[^41]
 
-(12) Az ajánlatkérő a Kbt. 115. § (7) bekezdése szerinti közzétételi kötelezettségének az EKR-ben történő közzététellel tesz eleget.
+(12)[^42]
 
-(13) Az ajánlatkérő az eljárást megindító felhívásban előírhatja, hogy az ajánlatokat elektronikus katalógus formájában kell benyújtani vagy, hogy az ajánlattevőnek elektronikus katalógust kell csatolnia az ajánlatához.
+(13)[^43]
 
-(14) Dinamikus beszerzési rendszerben történő beszerzés esetén a kiegészítő tájékoztatást a kérés beérkezését követően – az ajánlattételi határidőt megelőzően – észszerű határidőn belül kell megválaszolni.
+(14)[^44] Dinamikus beszerzési rendszerben történő beszerzés esetén a kiegészítő tájékoztatást a kérés beérkezését követően – az ajánlattételi határidőt megelőzően – észszerű határidőn belül kell megadni.
+
+(15)[^45] A Kbt. 154. § (3) bekezdése vagy a Kbt. 156. § (2) bekezdés a) pontja szerinti esetben az ajánlatkérő az EKR-ben intézkedik az eljárási cselekmények megtételének – különösen az ajánlatok vagy részvételi jelentkezések bontásának – felfüggesztése iránt. Az ajánlatkérő a jogorvoslati eljárás lezárását követően haladéktalanul intézkedik az EKR-ben az eljárási határidőknek a felfüggesztés időtartamával történő meghosszabbítása és az eljárás folytatása iránt.
+
+[^34]: A 20. § (2a) bekezdését a 66/2019. (III. 27.) Korm. rendelet 32. § (1) bekezdése iktatta be.
+[^35]: A 20. § (4) bekezdése a 66/2019. (III. 27.) Korm. rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^36]: A 20. § (5) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^37]: A 20. § (6) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^38]: A 20. § (7) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^39]: A 20. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^40]: A 20. § (9) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^41]: A 20. § (11) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^42]: A 20. § (12) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^43]: A 20. § (13) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés j) pontja hatályon kívül helyezte.
+[^44]: A 20. § (14) bekezdése a 66/2019. (III. 27.) Korm. rendelet 37. § 4. pontja szerint módosított szöveg.
+[^45]: A 20. § (15) bekezdését a 66/2019. (III. 27.) Korm. rendelet 32. § (3) bekezdése iktatta be.

@@ -1,3 +1,6 @@
-12. § (1) Az elektronikusan megküldött dokumentum beérkezésének tényéről az EKR – valamint ahol e rendelet lehetővé teszi, az alkalmazott más informatikai rendszer – haladéktalanul automatikus elektronikus visszaigazolást küld. Az elektronikus dokumentum beérkezésének ideje az automatikus visszaigazolásban szereplő időpont.
+12. § (1)[^18] Az elektronikusan megküldött dokumentum beérkezésének tényéről az EKR – valamint ahol a Kbt. lehetővé teszi, az alkalmazott más informatikai rendszer – haladéktalanul automatikus elektronikus visszaigazolást küld. Az elektronikus dokumentum beérkezésének ideje az automatikus visszaigazolásban szereplő időpont.
 
-(2) Az alkalmassági követelményeknek megfelelés és a kizáró okok fenn nem állása igazolásának körében nem kérhető a gazdasági szereplőtől olyan igazolás benyújtása, amelyet ugyanazon ajánlatkérő részére a gazdasági szereplő korábbi közbeszerzési eljárásban az EKR-ben elektronikus úton már benyújtott. Ebben az esetben a gazdasági szereplő nyilatkozik arról, hogy mely korábbi eljárásban benyújtott igazolást kéri figyelembe venni a bírálat során. Az ajánlatkérő attól függetlenül vizsgálja meg, hogy a korábban benyújtott igazolás megfelel-e az adott közbeszerzési eljárásban benyújtandó igazolásra irányadó tartalmi követelményeknek, hogy a korábbi igazolás adott esetben megjelöli, hogy azt mely közbeszerzési eljárásban való felhasználás céljára állították ki.
+(2)[^19]
+
+[^18]: A 12. § (1) bekezdése a 66/2019. (III. 27.) Korm. rendelet 37. § 3. pontja szerint módosított szöveg.
+[^19]: A 12. § (2) bekezdését a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés e) pontja hatályon kívül helyezte.

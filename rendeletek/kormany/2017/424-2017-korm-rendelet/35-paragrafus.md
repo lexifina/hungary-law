@@ -15,3 +15,12 @@
 (7) Azon természetes személy vagy szervezet, aki az EKR-ben a (4) és (5) bekezdés szerinti regisztrációját 2017. november 15. és 2017. december 31. között kezdeményezte, 2018. január 1-jét követően nem köteles a regisztrációt megismételni.
 
 (8) A 2018. január 1-jét megelőzően elektronikusan megkezdett eljárásokra a közbeszerzési eljárásokban elektronikusan gyakorolható eljárási cselekmények szabályairól, valamint az elektronikus árlejtés alkalmazásáról szóló 257/2007. (X. 4.) Korm. rendeletnek az eljárás megindításakor hatályos rendelkezéseit kell alkalmazni.
+
+(9)[^52] E rendeletnek az egyes kormányrendeleteknek az elektronikus közbeszerzés szabályainak rendezésével összefüggő módosításáról szóló 66/2019. (III. 27.) Korm. rendelet (a továbbiakban: Módr.) által – a (10) bekezdésben hivatkozott rendelkezések kivételével – megállapított rendelkezéseit a Módr. hatálybalépése[^53] után megkezdett beszerzésekre, közbeszerzési eljárásokra kell alkalmazni.
+
+(10)[^54] E rendeletnek a Módr. által megállapított 16. § (2)–(4) bekezdésének, valamint 22. § (3)–(4) bekezdésének rendelkezéseit a Módr. hatálybalépését[^55] követően felmerülő üzemzavar vagy működési hiba esetén, a folyamatban lévő beszerzésekben, közbeszerzési eljárásokban is kell alkalmazni.
+
+[^52]: A 35. § (9) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^53]: A hatálybalépés időpontja 2019. április 1.
+[^54]: A 35. § (10) bekezdése a 66/2019. (III. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^55]: A hatálybalépés időpontja 2019. április 1.
