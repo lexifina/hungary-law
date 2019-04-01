@@ -1,6 +1,6 @@
-## 20182C20000036_18
+## 20182C20000036_2
 
-3. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^4]
+3. melléklet a 36/2018. (XI. 13.) MNB rendelethez
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -2966,7 +2966,131 @@ A tábla soraiban a pénzváltási tevékenységre vonatkozó adatokat kiemelt k
 
 Egy sorban egy valutanem szerepeltethető, ezért ha egy kiemelt közvetítő a tárgyhónapban különböző valutákban végzett pénzváltást, a kiemelt közvetítő több sorban is megjelenik.
 
-51.
+51. 9R1 Banki könyvi kamatlábkockázat – Kamatkockázati adatok és 9R2 Banki könyvi kamatlábkockázat – Kamatkockázati eredmények
+
+Az adatszolgáltatónak a táblák kitöltésekor – eltérő előírás hiányában – figyelembe kell vennie a nem kereskedési könyvi tevékenységekből származó kamatlábkockázat kezeléséről szóló EBA/GL/2018/02 számú iránymutatás (a továbbiakban: EBA iránymutatás) vonatkozó pontjait.
+
+9R1 Kamatkockázati adatok
+
+Általános kitöltési előírások
+
+Minden, banki könyvbe besorolt kamatozó instrumentumot szerepeltetni kell az adatszolgáltatásban. A kereskedési könyvi instrumentumok nem szerepelhetnek az adatszolgáltatásban.
+
+Kötelezően jelentendő devizanemek: HUF, EUR, USD. Az adatszolgáltatónak legalább annyi devizanemben kell jelentenie, hogy a jelentett devizanemek eszközeinek vagy forrásainak összesített értéke elérje vagy meghaladja az összes eszköz vagy forrás értékének 90%-át (a továbbiakban: jelentős devizanemek). A további devizanemekben fennálló állományok összevontan, egyéb devizás tételként jelentendők.
+
+Jelentendők továbbá a banki és kereskedési könyv között kötött, belső elszámolású ügyletek is.
+
+Az adatok nagyságrendje egységnyi Ft, a devizás tételek esetében a referenciadátumon érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani az értékeket.
+
+A kamatérzékeny állományokhoz tartozó pénzáramlásokat és átárazódásokat a megadott csoportosító mezők mentén (a-e) kell összegezni és jelenteni a f)-h) mezőkben. Ennek értelmében nem fordulhat elő, hogy az adatszolgáltatás különböző soraiban jelentett rekordok minden csoportosítő mező (a-e oszlop) mentén megegyeznek.
+
+A pénzáramlásokat az irányuknak megfelelő előjellel kell jelenteni, vagyis a beáramlásokat pozitív, a kiáramlásokat negatív előjellel. Az átárazódásokat pozitív előjellel kell jelenteni, ha követelésnek, illetve negatív előjellel, ha kötelezettségnek minősül.
+
+Adatszolgáltatás módszertana
+
+Az adatszolgáltatásban a tőke- és kamatfizetésekhez, valamint a tőke átárazódásához tartozó összegek jelentendők. A tőke- és a kamatfizetéssel kapcsolatos események hatása külön jelentendő.
+
+A fix kamatozású instrumentumok esetében ezek egyrészt a tőketörlesztések, másrészt a fix kamatok kifizetései. A zérókupon kötvények a fix kamatozású instrumentumok közé sorolandók, nulla kamattal.
+
+A változó kamatozású instrumentumok az első átárazódás előtt a fix kamatozású instrumentumokkal azonos módon jelentendők. A referenciakamat és egy konstans szorzatához kötött kamatozású termékek feláraként a képletben szereplő felárat kell jelenteni (pl. AKK × 130% + 0% esetében 0%-ot). Az átárazódáskor a fennálló tőketartozás összegét kell jelenti, ezt követően a kamatfizetéseknek a csak felár komponense jelentendő a szerződéses lejáratig.
+
+Az olyan instrumentumoknál, ahol az adatszolgáltatónak lehetősége van egyoldalúan megváltoztatni a kamatot, a legkorábbi ilyen időpont tekintendő az első átárazódás időpontjának, és a továbbiakban a változó kamatozású instrumentumoknál ismertetett módon kell eljárni. Azokat a tételeket, melyekhez átárazási periódust a szerződés nem köt ki, és az adatszolgáltató a kamatmozgásoknak megfelelően szabadon változtathatja a kamatlábat, az 1-30 napos oszlopba kell besorolni. A változtatható kamatozású termékek esetében a kamatfelárat az ügyleti kamatláb és a legutolsó átárazás napján érvényes kockázatmentes kamatláb különbségeként kell meghatározni. A derivatívákat követelés és kötelezettség lábakra kell bontani, és ennek megfelelően szerepeltetni a táblázatban.
+
+A tábla oszlopai
+
+a) Devizanem
+
+A pénzáramlás devizaneme ISO kód formátumban. A nem jelentős devizanemekben denominált pénzáramlásokat összevontan (Egyéb deviza) kell jelenteni.
+
+b) Termékkód
+
+A kódtár szerinti termékkódokat alkalmazva kell megadni.
+
+A tábla vonatkozásában a hitelek magukban foglalják az eszköz oldali betéteket is. Ezzel összhangban a betétekbe beleértendők a felvett hitelek is.
+
+c) Kamatozás típusa
+
+Itt a kamatozás típusát kell megadni, amely lehet fix, változó vagy lejárat nélküli.
+
+d) Pénzáramlás (átárazódás) típusa
+
+Tőke vagy kamat.
+
+e) Átárazódás időkategóriája
+
+A tőketörlesztés, tőke átárazódása vagy kamatfizetés dátuma, besorolva a kódtárban megadott értékek egyikébe.
+
+Az a)-e) oszlophoz tartozó lehetséges kódértékeket az MNB honlapján közzétett technikai segédlet tartalmazza.
+
+f) Modellezett pénzáramlás (átárazódás) összege
+
+Amennyiben az adatszolgáltató a banki könyvi kamatlábkockázat mérésére modellezett pénzáramlásokat és átárazódásokat használ, akkor ezeket itt kell feltüntetni. Ezeknek pontosnak kell lenniük, kapcsolódniuk kell az adatszolgáltató jelenlegi mérlegéhez, figyelembe véve az esetleges opcionalitást és az adatszolgáltató magatartásra vonatkozó feltételezéseit (például az előtörlesztéseket).
+
+Amennyiben a kamatok szintje és a modellezett pénzáramlás nem független egymástól, akkor a kamatszint változatlansága mellett feltételezett pénzáramlásokat kell jelenteni.
+
+g) Szerződés szerinti pénzáramlás (átárazódás) összege
+
+Az adatszolgáltatónak a nem modellezett pénzáramlásokat és átárazódásokat itt kell feltüntetnie. Ebben az esetben a pénzáramlások és átárazódások futamidő-kategóriák szerinti bontását a mindenkori szerződéses feltételeknek megfelelően kell elkészíteni, anélkül, hogy tükröznék az opcionalitást és a magatartásra vonatkozó feltételezéseket (például az előtörlesztéseket).
+
+Az f) és a g) oszlop együttesen tartalmazza az adatszolgáltató teljes várt pénzáramlásait és átárazódásait.
+
+h) Modellezett termékek eredeti (szerződéses) pénzáramlásának (átárazódásának) összege
+
+Az adatszolgáltatónak itt kizárólag a modellezett portfóliók eredeti, szerződés szerinti pénzáramlásait és átárazódásait kell feltüntetniük. Ebben az esetben a pénzáramlások és átárazódások futamidő-kategóriák szerinti bontását a mindenkori szerződéses feltételeknek megfelelően kell elkészíteni, anélkül, hogy tükröznék az opcionalitást és a magatartásra vonatkozó feltételezéseket (például az előtörlesztéseket).
+
+Itt csak a modellezett portfóliók pénzáramlásait és átárazódásait szabad feltüntetni.
+
+A termékbe való besorolással kapcsolatos elvárások
+
+Amennyiben az adatszolgáltató a nem teljesítő hiteleket is szerepelteti a kamatkockázati számításokban, akkor a g) oszlopban a várható megtérüléssel járó pénzáramlásokat kell a megfelelő idősávokban jelenteni, az adatszolgáltató saját feltételezései mellett.
+
+A táblában a spot és egyéb azonnali konverziókból származó nyitott pozíciókat nem kell szerepeltetni.
+
+Az OTC határidős kamatláb megállapodásokat (FRA) egy hosszú és egy rövid pozíció kombinációjaként kell szerepeltetni. Egy FRA lejárati sávba sorolásának alapja a leszállításig vagy elszámolásig hátralévő időtartam, plusz – ahol az értelmezhető – a mögöttes termék (alapügylet) futamideje [például egy áprilisi kötésű júniusi három hónapos tőzsdei kamatláb ügyletet úgy kell tekinteni, mint egy 5 hónapos lejárati sávba tartozó hosszú (követelés) pozíciót és egy két hónapos lejárati sávba tartozó (kötelezettség) rövid pozíciót].
+
+Határidős hitelviszonyt megtestesítő értékpapírok vétele esetén a kötési értéket a vétel időpontjának megfelelő lejáratnál, mint kötelezettséget kell szerepeltetni, a követelések között pedig az értékpapír átárazódásának megfelelő sávba kell helyezni. Határidős értékpapír eladása esetén fordítva kell eljárni.
+
+Az adatszolgáltatónak az „Egyéb” sorokon (Eszközök vagy Források) kizárólag azokat a banki könyvi kamatozó instrumentumokhoz kapcsolódó cash flow-kat kell feltüntetnie, amelyek más kategóriában nem kerültek kimutatásra, és amelyek nem minősülnek saját tőkének. Az „Egyéb kamatozó források” sor nem a saját tőke feltüntetésére szolgál.
+
+Az adatszolgáltatónak a mérleg alatti eszközök és források soraiban kizárólag azokat a banki könyvi mérlegen kívüli tételeket kell megjelenítenie, amelyek a tábla más soraiban nem kerültek feltüntetésre, megkülönböztetve a Banki könyvi eszközöket és a Banki könyvi forrásokat.
+
+Nem jelentendő tételek, a teljesség igénye nélkül: részvények, részesedések, ingatlanok, saját tőke.
+
+9R2 Kamatkockázati eredmények
+
+Az ebben a táblában jelentett adatok áttekintést nyújtanak az alábbiakról:
+
+• egy ± 200 bázispontos párhuzamos kamatlábváltozás, valamint az EBA iránymutatásban ismertetett 6 felügyeleti kamatszcenárió hatása az adatszolgáltató alábbi mutatóira:
+
+- gazdasági érték – 9R202–9R209 sor;
+
+- becsült 12 havi nettó kamatjövedelem – 9R210–9R217 sor;
+
+• az EBA iránymutatás alapján alkalmazott kamatszcenáriókra vonatkozó sokktípusok – 9R218–9R220 sor;
+
+• beágyazott opcionalitással rendelkező eszközök és források aránya a banki könyvben (a saját belső modellek szerint) – 9R221–9R224 sor.
+
+Az adatszolgáltatónak valamennyi jelentős devizanemben jelentenie kell a különböző hozamgörbe feltételezések melletti gazdasági érték és becsült kamatjövedelem mutatókat.
+
+A tábla sorai
+
+9R202–9R217 sor: A banki könyv becsült gazdasági értékének és nettó kamatbevétel 12 hónapos előrejelzésének változása
+
+Az adatszolgáltatóknak az EBA iránymutatás elvárásaival összhangban kell a számításokat elvégezni és az adatpontokat megadni.
+
+9R218–9R220 sor: Alkalmazott sokktípusok
+
+Az adatszolgáltatóknak a korábbi sorokban használt párhuzamos, rövid és hosszú sokktípusokat kell minden devizára megadnia, amelyeken az alkalmazott szcenáriók alapulnak az EBA iránymutatás III. melléklet 3. pontja szerint.
+
+9R221–9R224 sor: Opciókkal rendelkező termékek a banki mérlegben
+
+Az adatszolgáltatónak e sorokban meg kell adnia az automatikus és fogyasztói magatartás alapú opcionalitásnak kitett banki könyvi kamatozó eszközök és források arányát. Az arányok kiszámításához az adatszolgáltatónak:
+
+- nominális összegeket kell használnia,
+
+- szerepeltetnie kell a banki könyvhöz kapcsolódó mérlegben szereplő és mérlegen kívüli kamatozó tételeket,
+
+- a 9R223 és 9R224 sorban szereplő mutatók számlálójában szerepeltetnie kell a lejárat nélküli tételeket (pl. lejárat nélküli betéteket a 9R224 sorban és hitelkártyákat a 9R223 sorban), a 9R221 és 9R222 sor számlálójában azonban nem.
 
 52. 10GA Legnagyobb betétesek
 
@@ -3101,87 +3225,3 @@ A 11AA4 Összesen és 11AA5 Ország szerinti tulajdonosi megoszlás összesen so
 11AB Tulajdonosi szerkezet 2
 
 Ez a tábla a hitelintézet tulajdonosainak név és tulajdoni-, illetve szavazati arányok szerinti alakulását részletezi a tényleges részjegyállomány változásának nyomonkövetésével.
-
-A hitelintézet jegyzett tőkéjét a névérték és a tulajdoni-, illetve szavazati arány szerint kell tulajdonosonként kimutatni. Ennek érdekében a hitelintézetnek rendelkeznie kell – elsősorban a részvénykönyv alapján – olyan kimutatással, amelyből az egyes tulajdonosokhoz (ügyfelekhez) kapcsolódó tulajdoni-, illetve szavazati arány – ennek mértékétől függetlenül – megállapítható.
-
-A tulajdoni, illetve szavazati arány megállapításánál figyelembe kell venni:
-
-• a Hpt. 3. mellékletében foglaltakat a közvetett tulajdon számításáról, továbbá ugyanezen melléklet 2. pontját a természetes személynek a közeli hozzátartozóival együtt birtokolt, illetve gyakorolt tulajdoni és szavazati hányadának számításáról;
-
-• a Hpt. VII. fejezetében foglaltakat a tulajdonjog gyakorlásának szabályairól, a tulajdonosokra, a vezető testületek tagjaira és a vezető állású személyekre vonatkozó szabályairól;
-
-• a szövetkezeti formában működő hitelintézetekre vonatkozó (a 11AA kódú táblában leírt) sajátosságokat.
-
-A tulajdoni, illetve szavazati arány megállapításánál a tulajdonlás aktuális helyzetének, a valós állapotnak megfelelően kell a közvetlen-, illetve a közvetett tulajdonosokra vonatkozó adatokat kitölteni, ideértve, ha a tulajdonlás a Hpt. 6. § (1) bekezdés 6. pontjában meghatározottak szerinti befolyásoló részesedést vagy ellenőrző, de nem számszerűsíthető részesedést jelent. Ebben az esetben a részletező sorban a név (megnevezés) melletti kódjel oszlopba „V” jelet kell írni, és az érintett tulajdonlás jellegének megfelelő – közvetlen- vagy közvetett tulajdoni (szavazati) arány – oszlopba 10%-ot, illetve 51%-ot kell feltüntetni. Ezt az eltérő tulajdonlást az összesítő a) vagy b) sorokban a valós értékkel és aránnyal kell kimutatni.
-
-A szövetkezeti formában működő hitelintézeteknél a tulajdoni részesedés százalékos mértékének meghatározásakor a tagok által birtokolt részjegy állomány összegét az összes tag által rendelkezésre bocsátott bruttó részjegy állományhoz kell viszonyítani. Ettől eltér az egy tulajdonos részjegyének szavazati aránya, amely az alapító okiratban (vagy jogszabályban) meghatározott hányad.
-
-A felsorolás sorrendje elsődlegesen a tulajdoni arány nagyságához igazodik.
-
-Azokat az intézményeket is ki kell mutatni, amelyek a kistulajdonosokat, mint „befektetési letétkezelő”, illetve a részvényekre vonatkozó letéti igazolásokat szolgáltató társaság fogják össze a tulajdonosok által képviselt részarány feltüntetésével (pl. GDR társaságok).
-
-A sorok száma nem korlátozott, a felsorolást folytatni kell mindaddig, amíg az összes tulajdonos kimutatásra nem kerül.
-
-A kapcsolódó ügylettel rendelkező ügyfeleken belül is a felsorolást a minősített befolyással (10%-ot elérő vagy meghaladó közvetlen és közvetett) rendelkezőkkel kell kezdeni és folytatni az 5%-ot elérő vagy azt meghaladó aránnyal rendelkező tulajdonosokkal.
-
-A tulajdonosi szerkezet megismerése érdekében azokat az 5%-ot elérő vagy azt meghaladó aránnyal rendelkező tulajdonosokat is fel kell sorolni, akiknek nincs kapcsolódó ügyletük a hitelintézettel.
-
-A tételeket – elsősorban a minősített befolyások felsorolásával – az együttes szavazati (tulajdoni) részarányok csökkenő sorrendjében kell a tábla soraiban szerepeltetni.
-
-A tábla oszlopai
-
-Az a) oszlopban a tulajdonos nevét, a b) Kódjel oszlopban K jelzéssel a Számv. tv. szerint kapcsolt vállalkozásnak minősülő vállalkozást, V jellel a nem számszerűsített minősített befolyás vagy ellenőrző részesedésű tulajdonlást, M jelzéssel a Hpt. 6. § (1) bekezdés 122. pontja szerinti vezető állású személyt kell megjelölni.
-
-A c) oszlopban a tulajdonos törzsszámát, illetve a külföldi azonosító adatát, a d) oszlopban a tulajdonos országának két karakteres ISO kódját (pl. Magyarország esetén HU), az e) oszlopban az ügyfél tevékenységét rögzítő TEÁOR ágat kell feltüntetni (a nemzetgazdasági ágak, ágazatok TEÁOR számjele és az adatszolgáltatásban feltüntetendő betűjel közötti összefüggés tábla elérési útvonala az MNB honlapon:
-
-MNB\Felügyelet\Adatszolgáltatás\Hitelintézetek\2019. évre vonatkozó adatszolgáltatások\Kapcsolódó előírások, technikai segédletek\Technikai segédletek).
-
-A közvetlenül tulajdonolt részvények névértékét az f) oszlopban, a szavazatelsőbbségi részvényekét a g) oszlopban, illetve a különleges vétójogot biztosító szavazatelsőbbségi részvényekét h) oszlopban kell kimutatni.
-
-Az osztalékelsőbbséget, illetve a különleges osztalékelsőbbséget biztosító részvényeket a 11AB4 Egyéb 5% alatti tulajdonosok összesen sorban kell figyelembe venni, úgy, hogy az értékét az f) oszlopban kell feltüntetni.
-
-Az f), g) és h) oszlop összegének meg kell egyezni a jegyzett tőke értékével, az i) oszlopnak pedig a teljes tulajdoni aránnyal.
-
-Az i) oszlopban kell kimutatni a jegyzett tőke összértékéhez viszonyított tulajdoni arányokat, beleértve a szavazatelsőbbségi részvényeket, illetve a különleges vétójogot biztosító szavazatelsőbbségi részvényeket is, amelynek arányát a szavazati jogot, illetve a különleges vétójogot biztosító részvény névértékének figyelembevételével kell kiszámítani.
-
-A j) oszlopban a közvetlen tulajdonlású részvények szavazati arányát kell feltüntetni.
-
-A szavazati arány megállapításánál a szavazati jogot biztosító (szavazatelsőbbségi, illetve a különleges vétójogot biztosító szavazatelsőbbségi) részvény szavazati arányához hozzá kell adni a törzsrészvények korrigált mértékű tulajdoni hányadait is.
-
-Az Arány % megfelelő oszlopaiban két tizedesjegy pontossággal kell kimutatni a tulajdoni hányadot, illetve szavazati jogot, amely a jegyzett tőkéhez viszonyított arányt jelenti. (A százalék jelét nem kell feltüntetni.)
-
-Az i), illetve a j) oszlopban lévő összesen sorok összegének meg kell egyezni a teljes tulajdoni aránnyal.
-
-A közvetett tulajdonlást a k) oszlopban kell kimutatni. A szavazati jogot, mint tulajdoni hányadot kell figyelembe venni.
-
-Az l) Szavazati arány összesen oszlopban kell összesíteni a tulajdonosnak – a j) és a k) oszlopban feltüntetett – együttes közvetett és közvetlen tulajdoni és szavazati arányát. Ennek az aránynak a mértékét kell figyelembe venni a minősített befolyás megállapításánál.
-
-A tábla sorai
-
-11AB1 Minősített befolyású tulajdonosok összesen
-
-Ez a sor összesíti az alábbi sorokban feltüntetett adatokat.
-
-11AB11 Minősített befolyások kapcsolódó ügylettel összesen (alább részletezve)
-
-Ebben a sorban kell azoknak a befolyásoló részesedéssel rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfeleknek – a tulajdoni, illetve szavazati arányát összesíteni, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
-
-11AB12 Minősített befolyások kapcsolódó ügylettel nem rendelkező összesen (alább részletezve)
-
-Ebben a sorban azoknak a minősített befolyással (10%-ot elérő vagy meghaladó közvetlen és közvetett) rendelkező tulajdonosoknak a részletező sorokban feltüntetett ügyfelek – az adatait kell összesíteni, amelyek a hitelintézetnél kapcsolódó ügylettel nem rendelkeznek.
-
-11AB21 5% és 10% közötti tulajdonosok, kapcsolódó ügylettel összesen (alább részletezve)
-
-Ebben a sorban kell azoknak a nem minősített befolyással (5%-ot elérő vagy meghaladó közvetlen és közvetett tulajdoni-, illetve szavazati aránnyal) rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfelek – az adatait összesíteni a tulajdonlás mértékétől függetlenül, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
-
-11AB22 1% és 5% közötti tulajdonosok, kapcsolódó ügylettel összesen (alább részletezve)
-
-Ebben a sorban kell összesíteni azoknak az 1% és 5% közötti tulajdoni-, illetve szavazati aránnyal rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfelek – az adatait összesíteni a tulajdonlás mértékétől függetlenül, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
-
-11AB3 1% és 10% közötti tulajdonosok, befektetési alapok, GDR társaságok kapcsolódó ügylet nélkül összesen (alább részletezve)
-
-Ebben a sorban kell összesíteni az ügyleti kapcsolatban nem álló, nem minősített befolyással (10% alatti tulajdoni-, illetve szavazati aránnyal) rendelkező részvényeseket, továbbá a befektetési letétkezelőket, a részvények tulajdonosaira letéti igazolásokat szolgáltató (pl. GDR társaságokat). A letéti igazolásokat nyújtó, illetve összefogó intézmények által képviselt tulajdoni adatokat a részletező sorokban fel kell tüntetni.
-
-11AB4 Egyéb 5% alatti tulajdonosok összesen (nem részletezve)
-
-[^4]: A 3. melléklet II.51. és III.3. pontja a 15. § (3) bekezdése alapján 2019. április 1-jén lép hatályba.
