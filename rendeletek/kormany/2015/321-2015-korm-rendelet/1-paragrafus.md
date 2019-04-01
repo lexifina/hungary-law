@@ -16,5 +16,8 @@
 
 (7)[^2] A kizáró okokra és az alkalmassági követelményekre vonatkozóan a közbeszerzés megkezdését megelőzően kiállított igazolások is benyújthatóak (felhasználhatóak) mindaddig, ameddig az igazolásokban foglalt tény, illetve adat tartalma valós. Az ajánlatkérő – ellenkező bizonyításig – az adat valóságtartalmát az ajánlattevő erre vonatkozó külön nyilatkozata nélkül vélelmezi.
 
+(8)[^3] Részekre történő ajánlattétel esetén nem kérhető a gazdasági szereplőtől olyan nyilatkozat vagy igazolás benyújtása, amelyet ugyanazon közbeszerzési eljárás valamely része tekintetében a gazdasági szereplő már benyújtott. Ebben az esetben a gazdasági szereplő nyilatkozik arról, hogy mely rész tekintetében benyújtott nyilatkozatot vagy igazolást kéri figyelembe venni a bírálat során.
+
 [^1]: Az 1. § (1) bekezdése a 487/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (7) bekezdését a 481/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
+[^3]: Az 1. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 9. §-a iktatta be.

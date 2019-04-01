@@ -4,4 +4,6 @@
 
 (2) A 8. § i) pont ib) és ic) alpontjában, valamint a 10. § gb) és gc) alpontjában foglalt nyilatkozat benyújtása mellett a nyilatkozattal igazolt kizáró ok tekintetében az ajánlatkérőt további ellenőrzési kötelezettség – hatóságok, más szervezetek megkeresése – nem terheli és kizárólag a tudomására jutott kétséget kizáró bizonyíték esetében köteles a hamis nyilatkozattétel tényét megállapítani.
 
-(3) A 8. § i) pont ib) alpontja, valamint a 10. § g) pont gb) alpontja alkalmazásában szabályozott tőzsde alatt a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 114. pontjában meghatározott szabályozott piacot kell érteni.
+(3)[^22]
+
+[^22]: A 14. § (3) bekezdését a 66/2019. (III. 27.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
