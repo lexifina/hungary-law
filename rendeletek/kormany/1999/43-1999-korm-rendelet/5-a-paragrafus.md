@@ -22,9 +22,19 @@ d)–e)[^46]
 
 (7a)[^51] Ha az (1) bekezdés szerinti adathiány, illetve a (2) bekezdés szerinti adathiba folyamatosan, a (3) bekezdés szerinti listára való felkerülését követő hetedik egyeztetési időpontban is fennáll, a NEAK az érintett tételeket – az (5) bekezdés szerinti szankció mellőzésével – véglegesen kivezeti a (3) bekezdés szerinti listáról. A kivezetett tételek finanszírozására nem kerül sor.
 
-(7b)[^52] A (4)–(7) bekezdésben foglaltakat nem kell alkalmazni a finanszírozási szerződés hatálybalépését követő két hónap teljesítményének elszámolása során.
+(7b)[^52] A (4)–(7) és (7c) bekezdésben foglaltakat nem kell alkalmazni a finanszírozási szerződés hatálybalépését követő két hónap teljesítményének elszámolása során.
 
-(8)[^53] Az Ebtv. 5/B. § u) pontja szerinti intézményi előjegyzési lista tekintetében az (1)–(7b) bekezdésben foglaltakat alkalmazni kell.
+(7c)[^53] A várólistán hibásan ütemezett ellátások a (7) bekezdés szerinti hibával azonos elbírálás alá esnek, ezen ellátásokra az (5) bekezdés szerinti szankciót kell alkalmazni. E bekezdés alkalmazásában hibás az ütemezés, ha a várakozási listán nyilvántartott esetről – a szakmai ok miatti halasztással várakozók kivételével – az ütemezés ellenőrzésének időpontjában megállapítható, hogy az ütemezés
+
+a) a lehetséges ellátási helyek kihagyásával történt, és
+
+b) a tervezett ellátás időpontja legalább 14 nappal meghaladja az egészségügyi szolgáltatónál az esetre a hozzá tartozó intézményi várólistán kiadható legkorábbi tervezhető ellátási napot.
+
+(7d)[^54] A (7c) bekezdés szerinti legkorábbi tervezhető ellátási nap meghatározása érdekében a tervezhető ellátási helyek számát úgy kell meghatározni, hogy ellátási naponként az ütemezhető ellátások minimális esetszáma a finanszírozási tárgyévet megelőző év „1” térítési kategóriában elszámolt átlagos egy ellátási napra jutó esetszámának várólistánként a 35. számú mellékletben meghatározott százaléka legyen.
+
+(7e)[^55] Nem kell alkalmazni a (7c) és (7d) bekezdés szerinti szabályokat, ha az egészségügyi szolgáltató várólistáján a finanszírozási tárgyévet megelőző évben a tervezett várakozási idő nem haladta meg a 60 naptári napot.
+
+(8)[^56] Az Ebtv. 5/B. § u) pontja szerinti intézményi előjegyzési lista tekintetében az (1)–(7b) bekezdésben foglaltakat alkalmazni kell.
 
 [^45]: Az 5/A. §-t a 254/2013. (VII. 5.) Korm. rendelet 22. §-a iktatta be.
 [^46]: Az 5/A. § (2) bekezdés d)–e) pontját az 519/2013. (XII. 30.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
@@ -33,5 +43,8 @@ d)–e)[^46]
 [^49]: Az 5/A. § (6) bekezdése az 519/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^50]: Az 5/A. § (7) bekezdését az 519/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
 [^51]: Az 5/A. § (7a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 25. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
-[^52]: Az 5/A. § (7b) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 18. §-a iktatta be.
-[^53]: Az 5/A. § (8) bekezdését az 519/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^52]: Az 5/A. § (7b) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 18. §-a iktatta be, szövege a 287/2018. (XII. 21.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^53]: Az 5/A. § (7c) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 11. §-a iktatta be.
+[^54]: Az 5/A. § (7d) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 11. §-a iktatta be.
+[^55]: Az 5/A. § (7e) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 11. §-a iktatta be.
+[^56]: Az 5/A. § (8) bekezdését az 519/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
