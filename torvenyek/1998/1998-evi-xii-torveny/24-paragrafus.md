@@ -6,7 +6,7 @@
 
 a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, továbbá annak megváltozása esetén anyja előző születési családi és utónevét, nemét, állampolgárságát, menekült, menedékes, bevándorolt vagy oltalmazott jogállását (a továbbiakban együtt: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetve lakcímét, valamint hozzájárulása esetén e-mail címét, telefonszámát,
 
-b) az állampolgár arcképmását és saját kezű aláírását, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
+b) az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
 
 c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
 
