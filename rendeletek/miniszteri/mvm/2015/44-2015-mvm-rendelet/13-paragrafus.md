@@ -1,10 +1,10 @@
-## 4. [^10] Az ellenőrzési díj, a közzétételi költségtérítés és a rendszerhasználati díj
+## 4. [^31] Az ellenőrzési díj, a közzétételi költségtérítés és a törvényességi ellenőrzési díj
 
 13. § (1) Amennyiben a hirdetmény ellenőrzése kötelező vagy azt a kérelmező kéri, a hirdetmények, illetve erre irányuló kérelem esetén a közbeszerzési dokumentumok ellenőrzéséért – a (6)–(7) bekezdés szerinti ajánlatkérők kivételével – ellenőrzési díjat kell fizetni.
 
-(2)[^11] Az ellenőrzési díj mértéke – függetlenül az érintett hirdetmény, illetve közbeszerzési dokumentumok terjedelmétől – egységesen
+(2)[^32] Az ellenőrzési díj mértéke – függetlenül az érintett hirdetmény, illetve közbeszerzési dokumentumok terjedelmétől – egységesen
 
-a)[^12] a 9. § (1) bekezdése szerinti felhívás, illetve közbeszerzési eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében: 200 000 forint, az EKR alkalmazása esetén 160 000 forint,
+a)[^33] a 9. § (1) bekezdése szerinti felhívás, illetve közbeszerzési eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében: 200 000 forint, az EKR alkalmazása esetén 160 000 forint,
 
 b) a közbeszerzési dokumentumok esetében: 200 000 forint,
 
@@ -16,7 +16,7 @@ e) a szerződés módosításáról szóló tájékoztató esetében: 100 000 fo
 
 f) az a) és c)–e) pontok alá nem tartozó hirdetmények esetében: 80 000 forint.
 
-(2a)[^13] A (2) bekezdés c) pontja szerinti ellenőrzési díjat nem kell befizetni, ha a hirdetmény feladása az EKR jogszabályban meghatározott üzemzavara miatt, kizárólag az ajánlattételi és részvételi határidő kötelező meghosszabbítása céljából szükséges.
+(2a)[^34] A (2) bekezdés c) pontja szerinti ellenőrzési díjat nem kell befizetni, ha a hirdetmény feladása az EKR jogszabályban meghatározott üzemzavara miatt, kizárólag az ajánlattételi és részvételi határidő kötelező meghosszabbítása céljából szükséges.
 
 (3) Az ellenőrzési díjat a Hatóságnak a Magyar Államkincstárnál vezetett MNB 10032000-01720361-00000000 számú számlájára kell befizetni.
 
@@ -28,7 +28,7 @@ f) az a) és c)–e) pontok alá nem tartozó hirdetmények esetében: 80 000 fo
 
 (7) Az ellenőrzési díj megfizetése alól mentesség illeti meg a külön jogszabály szerinti kedvezményezett járásokban található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 5. § (1) bekezdés c) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
 
-[^10]: A 4. alcím címe a 43/2016. (XII. 30.) MvM rendelet 11. § 5. pontjával megállapított szöveg.
-[^11]: A 13. § (2) bekezdése a 43/2016. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.
-[^12]: A 13. § (2) bekezdés a) pontja az 1/2018. (II. 5.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^13]: A 13. § (2a) bekezdését a 21/2018. (XII. 21.) MvM rendelet 1. §-a iktatta be.
+[^31]: A 4. alcím címe az 5/2019. (III. 28.) MvM rendelet 12. §-ával megállapított szöveg.
+[^32]: A 13. § (2) bekezdése a 43/2016. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.
+[^33]: A 13. § (2) bekezdés a) pontja az 1/2018. (II. 5.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^34]: A 13. § (2a) bekezdését a 21/2018. (XII. 21.) MvM rendelet 1. §-a iktatta be.

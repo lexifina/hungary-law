@@ -10,7 +10,7 @@
 
 ## 2 adott esetben
 
-10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^39]
+10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^90]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -126,4 +126,4 @@ V. szakasz: Az eljárás eredménye
 
 VI. szakasz: Kiegészítő információk
 
-[^39]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^90]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított szöveg.

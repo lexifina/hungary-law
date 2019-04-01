@@ -4,4 +4,6 @@
 
 (3) Az éves statisztikai összegezés mintáját a Kbt. 6. § szerint eljáró ajánlatkérők, illetve a Kbt. 7. § szerinti ajánlatkérők vonatkozásában a 18. melléklet tartalmazza.
 
-(4) A Kbt. 43. § (1) bekezdés g) pontja szerinti éves statisztikai összegezés megküldése és közzététele esetén a 36. § (1)–(5) bekezdései szerint kell eljárni.
+(4)[^73] A éves statisztikai összegezés megküldése és közzététele esetén a 36. § (2) bekezdése szerint kell eljárni.
+
+[^73]: A 40. § (4) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 17. pontja szerint módosított szöveg.

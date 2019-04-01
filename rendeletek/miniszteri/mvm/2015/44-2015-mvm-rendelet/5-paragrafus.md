@@ -2,21 +2,12 @@
 
 ## 2. A hirdetmények megküldése, feladása, javítása, visszavonása, valamint a hirdetmények TED-en történő közzétételre való feladása
 
-5. § (1) Az ajánlatkérőnek a 26–32. § szerinti hirdetményeket a közbeszerzési eljárásokban elektronikusan gyakorolható eljárási cselekmények szabályairól szóló kormányrendeletben meghatározott elektronikus úton – a Hatóságon keresztül, a Hatóság által nyújtott informatikai rendszer igénybevételével – kell megküldenie az Európai Unió Kiadóhivatalának (a továbbiakban: Kiadóhivatal).
+5. §[^4] (1) Az ajánlatkérőnek a 26–32. § szerinti hirdetményeket az elektronikus közbeszerzés részletes szabályairól szóló kormányrendeletben foglaltak szerint – a közbeszerzésekért felelős miniszter által üzemeltetett, egységes, elektronikus közbeszerzési rendszer (a továbbiakban: EKR) igénybevételével, a Hatóságon keresztül – kell megküldenie az Európai Unió Kiadóhivatalának (a továbbiakban: Kiadóhivatal).
 
-(2) Az ajánlatkérőnek a 34. § szerinti hirdetményeket a közbeszerzési eljárásokban elektronikusan gyakorolható eljárási cselekmények szabályairól szóló kormányrendeletben meghatározott elektronikus úton és módon – a Hatóság által nyújtott informatikai rendszer igénybevételével – kell megküldenie a Hatóságnak.
+(2) Ha az elektronikus kommunikáció az EKR-től eltérő informatikai rendszerben történik, vagy ha az elektronikus úton történő kommunikáció és az EKR alkalmazása nem kötelező, az ajánlatkérőnek az (1) bekezdés szerinti hirdetményeket a Hatóságon keresztül, a Hatóság által üzemeltetett informatikai rendszer igénybevételével kell megküldenie a Kiadóhivatalnak.
 
-(3) Hirdetményt közzétételre csak az az ajánlatkérő küldhet meg, illetve hirdetményben ajánlatkérőként csak olyan szervezet szerepelhet, amely a Kbt. 26. § (1) bekezdése szerinti értesítési kötelezettségének – legkésőbb a hirdetmény Hatóság részére történő megküldése előtt kettő munkanappal – eleget tett.
+(3) Az ajánlatkérőnek a 34. § szerinti hirdetményeket az elektronikus közbeszerzés részletes szabályairól szóló kormányrendeletben foglaltak szerint – az EKR igénybevételével – kell megküldenie a Hatóságnak.
 
-(4)[^1] Az ajánlatkérőnek minősülő szervezetek esetében a Kbt. 26. § (1) bekezdése szerinti kötelezettség teljesítése az ajánlatkérő felvételére, adatváltozására, illetve törlésére irányuló kérelemmel a Miniszterelnökség által üzemeltetett, egységes, elektronikus közbeszerzési rendszerben (a továbbiakban: EKR) történik.
+(4) Ha az elektronikus kommunikáció az EKR-től eltérő informatikai rendszerben történik, vagy az elektronikus úton történő kommunikáció és az EKR alkalmazása nem kötelező, az ajánlatkérőnek a (3) bekezdés szerinti hirdetményeket a Hatóság által üzemeltetett informatikai rendszer igénybevételével kell megküldenie a Hatóságnak.
 
-(5) A hirdetményellenőrzésért felelős szervezeti egység a (4) bekezdés szerinti kérelmet haladéktalanul, de legkésőbb annak beérkezésétől számított egy munkanapon belül bírálja el.
-
-(6) Amennyiben a (4) bekezdés szerinti kérelemben foglaltak megfelelnek a Kbt., illetve a vonatkozó jogszabályok szerinti követelményeknek, a hirdetményellenőrzésért felelős szervezeti egység a kérelmet jóváhagyja.
-
-(7) Amennyiben a (4) bekezdés szerinti kérelemben foglaltak hiányosak vagy nem felelnek meg a Kbt., illetve a vonatkozó jogszabályok szerinti követelményeknek, a hirdetményellenőrzésért felelős szervezeti egység a kérelmet elutasítja, és erről az ajánlatkérőt haladéktalanul, de legkésőbb egy munkanapon belül tájékoztatja, megjelölve az elutasítás indokát. Az elutasított kérelem esetében ajánlatkérő jogosult javított kérelmet benyújtani, melyben az elutasítás indokaként megjelölt hiányosságot vagy a Kbt.-nek, illetve a vonatkozó jogszabályoknak nem megfelelő tartalmat javítja.
-
-(8)[^2] A Kbt. 26. § (1) bekezdésben foglalt kivétel alá tartozó ajánlatkérők esetében e § (4)–(7) bekezdései megfelelően alkalmazandók azzal, hogy az ilyen szervezetek kötelesek az EKR-ben regisztrálni, de nem kötelesek a Hatóság által vezetett ajánlatkérők nyilvántartásába (a továbbiakban: ajánlatkérők nyilvántartása) történő felvételre.
-
-[^1]: Az 5. § (4) bekezdése az 1/2018. (II. 5.) MvM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 5. § (8) bekezdése az 1/2018. (II. 5.) MvM rendelet 2. §-a szerint módosított szöveg.
+[^4]: Az 5. § az 5/2019. (III. 28.) MvM rendelet 3. §-ával megállapított szöveg.

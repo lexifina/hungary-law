@@ -14,9 +14,9 @@ e) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezésé
 
 f) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2014. február 26-ai 2014/25/EU irányelv 67–72. cikkeinek, 92. cikkének és 96. cikkének való megfelelést szolgálja;
 
-g)[^34] a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és a 842/2011/EK végrehajtási rendelet hatályon kívül helyezéséről szóló 2015. november 11-i 2015/1986 végrehajtási rendeletnek;
+g)[^85] a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és a 842/2011/EK végrehajtási rendelet hatályon kívül helyezéséről szóló 2015. november 11-i 2015/1986 végrehajtási rendeletnek;
 
-h)[^35] az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendeletnek
+h)[^86] az egységes európai közbeszerzési dokumentum formanyomtatványának meghatározásáról szóló 2016. január 5-i 2016/7 végrehajtási rendeletnek
 
-[^34]: A 44. § g) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
-[^35]: A 44. § h) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
+[^85]: A 44. § g) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
+[^86]: A 44. § h) pontját a 43/2016. (XII. 30.) MvM rendelet 10. §-a iktatta be.
