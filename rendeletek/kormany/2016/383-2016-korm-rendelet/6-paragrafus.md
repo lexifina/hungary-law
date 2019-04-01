@@ -18,7 +18,7 @@ b) a súlyos, várhatóan hosszú ideig tartó és nem enyhíthető fájdalommal
 
 ## foglaltak tekintetében.
 
-(6)[^10] Az Ávtv. 19/A. § (2) bekezdésében, 24/A. § (1), (2), (4) és (8) bekezdésében, 24/B. § (1), (2) és (4) bekezdésében, 24/C. § (1)–(4) bekezdésében, 41. § (1) bekezdésében, 42/A. § (1a) bekezdésében foglaltak tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal a kijelölt állatvédelmi hatóság.
+(6)[^12] Az Ávtv. 19/A. § (2) bekezdésében, 24/A. § (1), (2), (4) és (8) bekezdésében, 24/B. § (1), (2) és (4) bekezdésében, 24/C. § (1)–(4) bekezdésében, 41. § (1) bekezdésében, 42/A. § (1a) bekezdésében foglaltak tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal a kijelölt állatvédelmi hatóság.
 
 (7) Az Ávtv. 41. § (1) bekezdésében foglalt bejelentési eljárásban az állatvédelmi hatóságként élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal a nyilvántartás tényét az összes adattartalommal együtt közli az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatallal.
 
@@ -26,4 +26,4 @@ b) a súlyos, várhatóan hosszú ideig tartó és nem enyhíthető fájdalommal
 
 (9) Az Ávtv. 48/A. § (1), (3) és (4) bekezdése tekintetében a jegyző a kijelölt állatvédelmi hatóság.
 
-[^10]: A 6. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 590. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 6. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 590. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,4 +1,4 @@
-## 33. [^74] Az újrahasznosítási eljárásban és a földvédelmi hatósági eljárásokban vizsgálandó szakkérdések
+## 33. [^77] Az újrahasznosítási eljárásban és a földvédelmi hatósági eljárásokban vizsgálandó szakkérdések
 
 79/A. § (1) A járási hivatal, valamint a kormányhivatal az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet (a továbbiakban: R.) 1. melléklete szerinti, a Tfvt. hatálya alá tartozó hatósági eljárásokban a bevonás és a közreműködés e mellékletben meghatározott feltételeinek fennállása esetén, az e mellékletben megjelölt szakkérdések tekintetében, az e mellékletben meghatározott hatóságokat mint kijelölt szakhatóságokat köteles megkeresni.
 
@@ -14,4 +14,4 @@ c) a rendelkező részbe foglalt előírások és feltételek indokainak részle
 
 (4) Ha a fellebbezés az elsőfokú eljárásban vizsgált olyan szakkérdést érint, amelynek elbírálására a másodfokú ingatlanügyi hatóság nem rendelkezik szakértelemmel, a szakkérdés vizsgálatára a 79/D. § (3) bekezdésében megjelölt szerv rendelhető ki szakértőként.
 
-[^74]: A 33. alcímet (79/A–79/D. §-t) a 457/2017. (XII. 28.) Korm. rendelet 589. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^77]: A 33. alcímet (79/A–79/D. §-t) a 457/2017. (XII. 28.) Korm. rendelet 589. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.

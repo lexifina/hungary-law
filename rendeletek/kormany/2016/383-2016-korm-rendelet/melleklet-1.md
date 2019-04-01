@@ -1,4 +1,4 @@
-## 82. §[^76] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 18. § (1) bekezdés d) és e) pontjának hatálybalépése előtt megkezdett és a hatálybalépése[^77] időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+## 82. §[^79] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 18. § (1) bekezdés d) és e) pontjának hatálybalépése előtt megkezdett és a hatálybalépése[^80] időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
 1. melléklet a 383/2016. (XII. 2.) Korm. rendelethez
 
@@ -500,7 +500,7 @@ Dunakeszi járás
 
 15. SOMOGY MEGYEI KORMÁNYHIVATAL (székhelye: Kaposvár)
 
-15.1.[^78] Fonyódi Járási Hivatal (székhelye: Fonyód)
+15.1.[^81] Fonyódi Járási Hivatal (székhelye: Fonyód)
 
 Fonyódi járás
 
@@ -676,6 +676,6 @@ Zalaegerszegi járás
 
 Zalaszentgróti járás
 
-[^76]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 171/2017. (VI. 29.) Korm. rendelet 24. § (7) bekezdése iktatta be.
-[^77]: A hatálybalépés időpontja 2017. július 1.
-[^78]: Az 1. melléklet 15. pont 15.1. pontja a 186/2018. (X. 9.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^79]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 171/2017. (VI. 29.) Korm. rendelet 24. § (7) bekezdése iktatta be.
+[^80]: A hatálybalépés időpontja 2017. július 1.
+[^81]: Az 1. melléklet 15. pont 15.1. pontja a 186/2018. (X. 9.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.

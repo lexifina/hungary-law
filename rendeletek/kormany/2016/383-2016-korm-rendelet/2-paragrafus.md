@@ -10,5 +10,11 @@
 
 (3)[^2] A fővárosi és megyei kormányhivatalnak az (1) bekezdésben, valamint a NÉBIH-nek e rendeletben meghatározott hatáskörébe tartozó közigazgatási hatósági ügyekben a felügyeleti szervet megillető hatásköröket a miniszter gyakorolja.
 
+(4)[^3] A fővárosi és megyei kormányhivatalok, továbbá a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hivatalainak, valamint a földmérési és térinformatikai államigazgatási szervnek az 1. § a), d) és h) pontjában meghatározott feladat- és hatáskörei gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvényben meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a Miniszterelnökséget vezető miniszter gyakorolja.
+
+(5)[^4] A (4) bekezdésben meghatározott közigazgatási hatósági ügyekben a felügyeleti szervet megillető hatásköröket a Miniszterelnökséget vezető miniszter gyakorolja.
+
 [^1]: A 2. § (1) bekezdése a 186/2018. (X. 9.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (3) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 23. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 591. § a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^3]: A 2. § (4) bekezdését az 59/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^4]: A 2. § (5) bekezdését az 59/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.

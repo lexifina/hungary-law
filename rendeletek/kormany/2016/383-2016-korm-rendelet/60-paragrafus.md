@@ -6,7 +6,7 @@
 
 (3) A területi vadászati hatóság döntéseivel kapcsolatban a másodfokon eljáró vadászati hatóság a Pest Megyei Kormányhivatal.
 
-(3a)[^59] A területi vadászati hatóság felügyeleti szerveként a Pest Megyei Kormányhivatal jár el.
+(3a)[^62] A területi vadászati hatóság felügyeleti szerveként a Pest Megyei Kormányhivatal jár el.
 
 (4) Ha a vadászterület két vagy több területi vadászati hatóság illetékességi területén található, az a területi vadászati hatóság jár el, amelynek illetékességi területén a vadászterület nagyobbik hányada található.
 
@@ -14,4 +14,4 @@
 
 (6) Országos illetékességű vadászati hatóságként – kormányrendeletben hatáskörébe utalt hatósági ügyben – a Pest Megyei Kormányhivatal jár el.
 
-[^59]: A 60. § (3a) bekezdését a 186/2018. (X. 9.) Korm. rendelet 17. §-a iktatta be.
+[^62]: A 60. § (3a) bekezdését a 186/2018. (X. 9.) Korm. rendelet 17. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## 6. A földmérési és térinformatikai államigazgatási szerv kijelölése
 
-27. § (1) A Kormány földmérési és térinformatikai államigazgatási szervként az országos illetékességgel eljáró Budapest Főváros Kormányhivatalát jelöli ki.
+27. § (1)[^40] A Kormány a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörének gyakorlására, továbbá a 27. § (2) bekezdésében és a 38. §-ban meghatározott hatósági hatáskörök gyakorlására a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
 
 (2) A földmérési és térinformatikai államigazgatási szerv országos illetékességgel
 
@@ -53,3 +53,5 @@ v) kiállítja a földmérő és földminősítő igazolványokat és vezeti az 
 w) jogszabályban foglaltaknak megfelelően ellátja az ingatlanrendező földmérő minősítéssel kapcsolatos feladatokat,
 
 x) fenntartja és működteti az országos földügyi és távérzékelési levéltárat.
+
+[^40]: A 27. § (1) bekezdése az 59/2019. (III. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
