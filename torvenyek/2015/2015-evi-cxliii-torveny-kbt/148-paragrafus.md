@@ -16,7 +16,7 @@
 
 a) a jogellenes tartalmú, a közbeszerzési eljárást megindító hirdetmény és a 113. § (1) bekezdése szerinti tájékoztatás közzétételének vagy közvetlen felhívás kézhezvételének, vagy közbeszerzési dokumentumok esetében azok rendelkezésre bocsátásának napját;
 
-b) az előírt határidő lejártánál később feladott hirdetmény esetében a hirdetmény közzétételétől számított tizenötödik napot, a Közbeszerzési Hatóság részére az előírt határidő lejártánál később megküldött 113. § (1) bekezdése szerinti, a tájékoztatás visszavonásáról szóló értesítés esetében az értesítés Közbeszerzési Hatóság honlapján történt közzétételétől számított tizenötödik napot;
+b) az előírt határidő lejártánál később feladott hirdetmény esetében a hirdetmény közzétételétől számított tizenötödik napot, az EKR-ben az előírt határidő lejártánál később rögzített 113. § (1) bekezdése szerinti, a tájékoztatás visszavonásáról szóló értesítés esetében az értesítés EKR-ben történt közzétételétől számított tizenötödik napot;
 
 c) a közbeszerzési eljárást lezáró döntésben szereplő, a megtekintett iratokat érintő jogsértéssel kapcsolatban az iratbetekintés befejezésének napját, ha a kérelmező az írásbeli összegezés kézhezvételét követő tíz napon belül az ajánlat(ok)ba betekintett az ajánlatkérőnél vagy a Közbeszerzési Döntőbizottságnál;
 
@@ -26,7 +26,7 @@ da) ha az ajánlatkérő a jogsértéssel kapcsolatban álláspontját határid�
 
 db) ha az ajánlatkérő a jogsértéssel kapcsolatban álláspontját határidőben nem küldte meg, ezen jogsértés tekintetében az ajánlatkérői álláspont megküldésére vonatkozó határidő lejártának napját;
 
-e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [43. § (1) bekezdés f) pont] Közbeszerzési Hatóság által működtetett adatbázisban – amennyiben a Közbeszerzési Adatbázisban való közzététel valamely okból nem lehetséges az ajánlatkérő saját vagy fenntartója honlapján – való közzétételétől számított harmincadik napot.
+e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [43. § (1) bekezdés c) pont] a CoRe-ban történő közzétételétől számított harmincadik napot.
 
 (7a) Ha egy adott jogsértés kapcsán a (7) bekezdés c) pontja szerinti iratbetekintést követően a (7) bekezdés d) pontja szerinti előzetes vitarendezés kezdeményezésére is sor került, a tudomásra jutás időpontjának meghatározására a (7) bekezdés d) pontja alkalmazandó.
 

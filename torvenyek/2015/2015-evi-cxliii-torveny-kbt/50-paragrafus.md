@@ -6,9 +6,9 @@
 
 a) az ajánlatkérő nevét, címét, telefon- és telefaxszámát, e-mail és (ha van) honlap címét;
 
-b) a közbeszerzési eljárás fajtáját, tárgyalásos és gyorsított eljárás, versenypárbeszéd, valamint hirdetmény közzététele nélküli tárgyalásos eljárás esetén annak indokolását;
+b) a közbeszerzési eljárás fajtáját, tárgyalásos és gyorsított eljárás, versenypárbeszéd, valamint hirdetmény nélküli tárgyalásos eljárás esetén annak indokolását;
 
-c) azt az elérhetőséget, amelyen a közbeszerzési dokumentumok korlátlanul és teljeskörűen, közvetlenül és díjmentesen elektronikusan elérhetőek, illetve elérhetőek lesznek. Ha egyes közbeszerzési dokumentumokhoz való közvetlen elektronikus hozzáférés a 39. §-ban foglalt okok miatt nem biztosított, annak megjelölését, hogy az érintett dokumentumokat az ajánlatkérő milyen módon bocsátja rendelkezésre;
+c) azt az információt, hogy a közbeszerzési dokumentumok az EKR-ben milyen elérhetőségen érhetőek el. Ha egyes közbeszerzési dokumentumokhoz való közvetlen elektronikus hozzáférés a 41/C. § (1) bekezdésében foglalt okok miatt nem biztosított, annak megjelölését, hogy az érintett dokumentumokat az ajánlatkérő milyen módon bocsátja rendelkezésre;
 
 d) a közbeszerzés tárgyát és mennyiségét;
 
@@ -34,11 +34,11 @@ n) az alkalmassági követelményeket és utalást a megkövetelt igazolási mó
 
 o) az ajánlattételi határidőt vagy részvételi felhívás esetén a részvételi határidőt;
 
-p) az ajánlat vagy részvételi jelentkezés benyújtásának címét, és a benyújtás módját;
+p) az ajánlat vagy részvételi jelentkezés benyújtásának címét, és a benyújtás módját (az EKR internetcímét);
 
 q) az ajánlattétel vagy részvételi jelentkezés nyelvét (nyelveit), annak feltüntetését, hogy a magyar nyelven kívül más nyelven is benyújtható-e az ajánlat vagy részvételi jelentkezés;
 
-r) az ajánlat(ok) felbontásának idejét és – amennyiben nem elektronikusan történik – helyét, az ajánlatok felbontásán jelenlétre jogosultakat; részvételi felhívás esetén a részvételi jelentkezések felbontásának idejét és – amennyiben nem elektronikusan történik – helyét;
+r) az ajánlat(ok) felbontásának idejét és – amennyiben a 41/C. § (1) bekezdésben foglalt valamely okból részben vagy egészben nem elektronikusan történik – helyét, az ajánlatok felbontásán jelenlétre jogosultakat; részvételi felhívás esetén a részvételi jelentkezések felbontásának idejét és – amennyiben a 41/C. § (1) bekezdésben foglalt valamely okból részben vagy egészben nem elektronikusan történik – helyét;
 
 s) az ajánlati kötöttség minimális időtartamát, a részvételi felhívás kivételével;
 

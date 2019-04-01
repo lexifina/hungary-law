@@ -26,6 +26,8 @@ b) az árakon, illetve az eljárásban alkalmazott más értékelési szempontok
 
 (8) Az ajánlatok (7) bekezdés szerinti értékelését követően az ajánlatkérő köteles minden ajánlattevőt elektronikus úton értesíteni és egyidejűleg felhívni arra, hogy vegyen részt az elektronikus árlejtésen, az értesítésben szereplő utasítások szerinti kapcsolattartás alkalmazásával, a megjelölt időpontban.
 
+(8a) Ha nem nyújtottak be az ajánlattételi határidőben legalább két ajánlatot, és az ajánlatkérő az eljárást megindító felhívásban jelezte, hogy fenntartja ennek a lehetőségét, dönthet úgy, hogy nem tart elektronikus árlejtést, hanem a benyújtott ajánlat bírálatával és értékelésével befejezi az eljárást. Ebben az esetben döntéséről haladéktalanul értesíti az ajánlattevőt, az ajánlattevő ajánlati kötöttsége az értesítés ajánlatkérő általi megküldésével áll be.
+
 (9) Az ajánlatkérő nem használhatja az elektronikus árlejtést rendeltetésével össze nem férő célra, különösen a verseny megakadályozására, korlátozására vagy torzítására, valamint az elektronikus árlejtés lefolytatása nem járhat azzal, hogy az eljárás alapján megkötött szerződés tárgya eltér az eljárást megindító felhívásban és a közbeszerzési dokumentumokban meghatározott beszerzési tárgytól.
 
 (10) Az elektronikus árlejtés lezárása után az ajánlatkérő a nyertes ajánlattevőt a 76. §-nak – és ha az igazolások benyújtására korábban nem került sor, a 69. § (4)–(6) bekezdésének – megfelelően az elektronikus árlejtés eredményei alapján választja ki.

@@ -34,7 +34,7 @@ h) az ellenszolgáltatás teljesítésének feltételeit vagy a vonatkozó jogsz
 
 i) az ajánlattételi határidőt és az ajánlatok benyújtásának címét, valamint annak meghatározását, ha az ajánlatkérő a magyar mellett más nyelven is biztosítja az ajánlattételt;
 
-j) az ajánlat felbontásának helyét (amennyiben nem elektronikusan történik), idejét, az ott jelenlétre jogosultakat;
+j) az ajánlat felbontásának idejét, és – amennyiben az ajánlatok benyújtása a 41/C. § (1) bekezdésben foglalt valamely okból részben vagy egészben nem elektronikusan történik – helyét, az ott jelenlétre jogosultakat;
 
 k) az ajánlattevőknek szóló felhívást, amely szerint a kizáró okok fenn nem állásáról nyilatkozniuk kell;
 
@@ -46,4 +46,4 @@ n) az értékelési szempontokat és módszert a 76. §-nak megfelelően.
 
 (4) Az ajánlatkérő akkor alkalmazhat a keretmegállapodás megkötésére irányuló közbeszerzési eljárásban alkalmazott értékelési szempontoktól eltérő értékelési szempontokat, ha már a keretmegállapodás megkötésére irányuló közbeszerzési eljárásban a közbeszerzési dokumentumokban azt előírta és amelyet egyben a keretmegállapodás tartalmaz. Az értékelési szempontokat és módszert a 76. §-nak megfelelően kell meghatározni. Az ajánlattevő csak a keretmegállapodásban foglaltakkal azonos vagy annál az ajánlatkérő számára kedvezőbb ajánlatot tehet.
 
-(5) Az ajánlatok bontására a 68. § (4) bekezdése, elbírálására a 69. § (1) bekezdése és a 73–75. §, az ajánlatkérő döntéseinek közlésére a 79. §, valamint a szerződés megkötésére a 131. § alkalmazandó. A 73. § (6) bekezdés c) pontja szerinti összeg a keretmegállapodásban részes ajánlattevőknek küldött konzultációra szóló felhívásban vagy ajánlattételi felhívásban is megjelölhető.
+(5) Az ajánlatok bontására a 68. § (4) bekezdése, elbírálására a 69. § (1) bekezdése és a 71–76. §, az ajánlatkérő döntéseinek közlésére a 79. §, valamint a szerződés megkötésére a 131. § alkalmazandó. A 73. § (6) bekezdés c) pontja szerinti összeg a keretmegállapodásban részes ajánlattevőknek küldött konzultációra szóló felhívásban vagy ajánlattételi felhívásban is megjelölhető.

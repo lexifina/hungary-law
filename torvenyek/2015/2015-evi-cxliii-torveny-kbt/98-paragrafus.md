@@ -16,6 +16,8 @@ e) az feltétlenül szükséges, mivel az ajánlatkérő által előre nem láth
 
 (2a) Nem alkalmazható a (2) bekezdés a) és b) pontja abban az esetben, ha az eljárásban nyújtottak be ajánlatot (részvételi szakasz esetén részvételi jelentkezést) és az eljárás eredménytelensége – az adott eljárásban alkalmazott – 75. § (2) bekezdés e) pontja alapján is megállapítható lett volna.
 
+(2b) A (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárás eredményeként nem köthető keretmegállapodás.
+
 (3) Az ajánlatkérő hirdetmény nélküli tárgyalásos eljárást alkalmazhat továbbá építési beruházás vagy szolgáltatás megrendelése esetében, ha olyan új építési beruházásra vagy szolgáltatás megrendelésére kerül sor, amelyet a korábbi nyertes ajánlattevővel köt meg ugyanazon ajánlatkérő azonos vagy hasonló építési beruházás vagy szolgáltatás teljesítésére. Ennek feltétele, hogy az új építési beruházás vagy szolgáltatás összhangban van azzal az alapprojekttel, amelyre a korábbi szerződést nyílt vagy meghívásos eljárásban megkötötték, és a korábbi eljárást megindító vagy meghirdető hirdetményben az ajánlatkérő jelezte, hogy tárgyalásos eljárást alkalmazhat, megjelölte a lehetséges további építési beruházások és szolgáltatások tárgyát és azok beszerzésének feltételeit, valamint a korábbi eljárásban az építési beruházás vagy a szolgáltatás becsült értékének meghatározásakor figyelembe vette az újabb építési beruházás vagy szolgáltatás becsült értékét is (az uniós értékhatár elérésének meghatározása szempontjából). Ilyen tárgyalásos eljárást azonban csak a korábbi első szerződés megkötésétől számított három éven belül lehet indítani.
 
 (4) Az ajánlatkérő hirdetmény nélküli tárgyalásos eljárást alkalmazhat továbbá árubeszerzés esetében, ha

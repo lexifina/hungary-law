@@ -1,0 +1,9 @@
+41/B. § (1) Az EKR-nek működése során biztosítania kell a gazdasági szereplők esélyegyenlőségét, együtt kell működnie a széles körben használt informatikai alkalmazásokkal, és nem korlátozhatja a gazdasági szereplők részvételét a közbeszerzési eljárásban. A gazdasági szereplőktől az EKR használata az általánosan használt informatikai és elektronikus hírközlési eszközök rendelkezésre állását követelheti meg.
+
+(2) Az ajánlatkérő annak érdekében, hogy a gazdasági szereplők által benyújtott dokumentumok tartalmát meg tudja jeleníteni, a közbeszerzési dokumentumokban előírja a rendszerben csatolt formában benyújtandó elektronikus dokumentumok jellemzőire, így különösen a fájlformátumra vonatkozó követelményeket. Az ajánlatkérő ilyen előírásának meg kell felelnie az (1) bekezdés szerinti követelményeknek.
+
+(3) A (2) bekezdéstől eltérően az ajánlatkérő szükség esetén megkövetelheti a gazdasági szereplőktől olyan alkalmazások és berendezések használatát, amelyek nem állnak széles körben rendelkezésre, feltéve, hogy azok használatához alternatív hozzáférést biztosít a következő feltételek valamelyikének megfelelően:
+
+a) elektronikus úton korlátlan és teljes körű közvetlen hozzáférést kínál díjmentesen ezekhez az alkalmazásokhoz és berendezésekhez az eljárást megindító felhívás közzétételének, illetve a gazdasági szereplők részére megküldésének időpontjától. Az eljárást megindító felhívás szövegében meg kell jelölni azt az internetcímet, amelyen ezek az alkalmazások és berendezések elérhetők;
+
+b) biztosítja, hogy azok a gazdasági szereplők, amelyek nem rendelkeznek hozzáféréssel az érintett alkalmazásokhoz és berendezésekhez feltéve, hogy a hozzáférés hiányáért nem a gazdasági szereplő okolható, online díjmentesen rendelkezésre bocsátott ideiglenes kódok használata révén részt vehessenek a közbeszerzési eljárásban.

@@ -4,7 +4,7 @@ a) az ajánlatkérő nevét és címét, telefon- és telefaxszámát, e-mail c�
 
 b) hivatkozást a közzétett részvételi felhívásra és közzétételének napját;
 
-c) a közbeszerzési dokumentumok elektronikus elérhetőségének helyét; a 39. § (2) bekezdése szerinti esetekben, ha más módon még nem bocsátották rendelkezésre, a felhíváshoz csatolni kell az érintett dokumentumokat;
+c) azt az információt, hogy a közbeszerzési dokumentumok az EKR-ben milyen elérhetőségen érhetőek el; ha a közbeszerzési dokumentumok a 41/C. § (1) bekezdésben foglalt valamely ok miatt elektronikusan nem bocsáthatóak rendelkezésre, a felhívással egyidejűleg rendelkezésre kell bocsátani az érintett dokumentumokat;
 
 d) a megoldási javaslat benyújtásának határidejét;
 

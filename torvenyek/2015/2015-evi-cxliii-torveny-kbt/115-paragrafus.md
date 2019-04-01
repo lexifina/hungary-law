@@ -10,4 +10,4 @@
 
 (6) A 71. § azzal az eltéréssel alkalmazandó, hogy az ajánlatkérő – anélkül, hogy ezt a közbeszerzési dokumentumokban külön jelezte volna – nem köteles újabb hiánypótlást elrendelni, ha egy hiánypótlás keretében benyújtott dokumentumra vagy hiánypótlás keretében újonnan megnevezett gazdasági szereplőre tekintettel lenne szükséges az újabb hiánypótlás.
 
-(7) Az ajánlatkérő köteles honlapján és a Közbeszerzési Adatbázisban – az eljárás megindításával egyidejűleg – nyilvánosan közzétenni az eljárást megindító felhívást, a közbeszerzési dokumentumokat, majd – az ajánlatok bontását követően haladéktalanul – az ajánlattételre felhívott gazdasági szereplők nevét és címét, valamint az ajánlatok bontásáról készült jegyzőkönyvet.
+(7) Az ajánlatkérő köteles az EKR-ben – az eljárás megindításával egyidejűleg – nyilvánosan közzétenni az eljárást megindító felhívást, a közbeszerzési dokumentumokat, majd – az ajánlatok bontását követően haladéktalanul – az ajánlattételre felhívott gazdasági szereplők nevét és címét, valamint az ajánlatok bontásáról készült jegyzőkönyvet.

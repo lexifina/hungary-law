@@ -1,6 +1,6 @@
 ## Az alkalmazandó eljárásrend
 
-21. § (1) Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárásokra a Második Részt, az ezek alatti és egyben a nemzeti értékhatárokat elérő értékű közbeszerzési eljárásokra a Harmadik Részt alkalmazva kell eljárni, kivéve, ha e törvény másként rendelkezik. Jogszerűen jár el az ajánlatkérő akkor is, ha e törvény valamely közbeszerzés megvalósítására a Harmadik Rész alkalmazását rendeli, az ajánlatkérő azonban a Második Rész szabályait alkalmazva folytatja le a közbeszerzési eljárást.
+21. § (1) Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárásokra a Második Részt, az ezek alatti és egyben a nemzeti értékhatárokat elérő értékű közbeszerzési eljárásokra a Harmadik Részt alkalmazva kell eljárni, kivéve, ha e törvény másként rendelkezik. Jogszerűen jár el az ajánlatkérő akkor is, ha e törvény valamely közbeszerzés megvalósítására – ideértve a 3. melléklet szerinti szociális és egyéb szolgáltatások igénybevételére irányuló közbeszerzési eljárásokat is – a Harmadik Rész alkalmazását rendeli, az ajánlatkérő azonban a Második Rész szabályait alkalmazva folytatja le a közbeszerzési eljárást.
 
 (2) A 3. melléklet szerinti szociális és egyéb szolgáltatások igénybevételére irányuló közbeszerzési eljárások esetében – ide nem értve a koncessziós beszerzési eljárásokat – a Harmadik Részt alkalmazva kell eljárni.
 
@@ -10,4 +10,4 @@
 
 (5) A – főként a település- és területrendezés, építészet és építés, illetve adatfeldolgozás területén alkalmazható – tervpályázati eljárásra vonatkozó részletes szabályokat külön jogszabály határozza meg.
 
-(6) Az 5. § (3) bekezdése szerinti ajánlatkérő a Harmadik részt alkalmazva köteles eljárni, kivéve, ha ajánlatkérői minősége az 5. § (2) bekezdése alapján is megállapítható. Ez utóbbi esetben az alkalmazandó eljárásrendet az (1) bekezdés alkalmazásával kell megállapítani.
+(6) Az 5. § (3) bekezdése szerinti ajánlatkérő a Harmadik Részt alkalmazva is eljárhat, kivéve, ha ajánlatkérői minősége az 5. § (2) bekezdése alapján is megállapítható. Ez utóbbi esetben az alkalmazandó eljárásrendet az (1) bekezdés alkalmazásával kell megállapítani.

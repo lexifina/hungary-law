@@ -4,7 +4,7 @@
 
 a) az ajánlatkérő nevét, címét, telefon- és telefaxszámát, e-mail és (amennyiben van) honlap címét;
 
-b) azt az elérhetőséget, amelyen a közbeszerzési dokumentumok korlátlanul és teljeskörűen, közvetlenül és díjmentesen elektronikusan elérhetőek vagy az ajánlattétel vonatkozásában később elérhetőek lesznek. Amennyiben egyes közbeszerzési dokumentumokhoz való közvetlen elektronikus hozzáférés a 39. §-ban foglalt okok miatt nem biztosított, annak megjelölését, hogy az érintett dokumentumokat az ajánlatkérő milyen módon bocsátja rendelkezésre;
+b) azt az elérhetőséget, amelyen a közbeszerzési dokumentumok korlátlanul és teljeskörűen, közvetlenül és díjmentesen elektronikusan elérhetőek vagy az ajánlattétel vonatkozásában később elérhetőek lesznek. Amennyiben egyes közbeszerzési dokumentumokhoz való közvetlen elektronikus hozzáférés a 41/C. §-ban foglalt okok miatt nem biztosított, annak megjelölését, hogy az érintett dokumentumokat az ajánlatkérő milyen módon bocsátja rendelkezésre;
 
 c) az építési vagy szolgáltatási koncesszió tárgyát és mennyiségét a 121. § (1) bekezdésének megfelelően, adott esetben opcionális rész megadásával;
 
@@ -22,11 +22,11 @@ i) az alkalmassági követelményeket, az alkalmasság megítéléséhez szüks�
 
 j) az ajánlattételi határidőt vagy részvételi határidőt;
 
-k) az ajánlat vagy részvételi jelentkezés benyújtásának címét és a benyújtás módját;
+k) az ajánlat vagy részvételi jelentkezés benyújtásának címét (az EKR internetcímét) és a benyújtás módját;
 
 l) az ajánlattétel vagy részvételi jelentkezés nyelvét (nyelveit), annak feltüntetését, hogy a magyar nyelven kívül más nyelven is benyújtható-e az ajánlat vagy részvételi jelentkezés;
 
-m) az ajánlatok felbontásának idejét és – ha nem elektronikusan történik – helyét, az ajánlatok felbontásán jelenlétre jogosultakat; részvételi felhívás esetén a részvételi jelentkezések felbontásának idejét és – ha nem elektronikusan történik – helyét;
+m) az ajánlatok felbontásának idejét és – ha a 41/C. § (1) bekezdésében foglalt valamely okból részben vagy egészben nem elektronikusan történik – helyét, az ajánlatok felbontásán jelenlétre jogosultakat; részvételi felhívás esetén a részvételi jelentkezések felbontásának idejét és – ha a 41/C. § (1) bekezdésében foglalt valamely okból részben vagy egészben nem elektronikusan történik – helyét;
 
 n) ha a szerződés teljesítésére különleges feltételek vonatkoznak, ezen feltételeket;
 

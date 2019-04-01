@@ -8,4 +8,4 @@
 
 a) a pályázóknak fizetendő díjat vagy egyéb kifizetést (jutalékot) és egyéb ellenszolgáltatást, valamint
 
-b) annak a szolgáltatásnak a becsült értékét, amelynek megrendelésére a tervpályázati eljárást követő, 98. § (5) bekezdése szerinti hirdetmény közzététele nélküli tárgyalásos közbeszerzési eljárásban kell a nyertessel vagy – a bírálóbizottság ajánlása alapján – a nyertesek (díjazottak) valamelyikével szerződést kötni, kivéve, ha az eljárást megindító felhívásban az ajánlatkérő (kiíró) kizárja az ilyen szerződés megkötését.
+b) annak a szolgáltatásnak a becsült értékét, amelynek megrendelésére a tervpályázati eljárást követő, 98. § (5) bekezdése szerinti hirdetmény nélküli tárgyalásos közbeszerzési eljárásban kell a nyertessel vagy – a bírálóbizottság ajánlása alapján – a nyertesek (díjazottak) valamelyikével szerződést kötni, kivéve, ha az eljárást megindító felhívásban az ajánlatkérő (kiíró) kizárja az ilyen szerződés megkötését.

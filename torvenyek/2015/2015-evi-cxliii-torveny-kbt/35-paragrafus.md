@@ -4,6 +4,8 @@
 
 (2) Az (1) bekezdés szerinti esetben a közös ajánlattevők vagy részvételre jelentkezők kötelesek maguk közül egy, a közbeszerzési eljárásban a közös ajánlattevők vagy részvételre jelentkezők nevében eljárni jogosult képviselőt megjelölni.
 
+(2a) Az ajánlatban vagy több szakaszból álló eljárásban a részvételi jelentkezésben csatolni kell a (2) bekezdés szerinti meghatalmazást tartalmazó okiratot. A meghatalmazásnak ki kell terjednie arra, hogy a közös ajánlattevők vagy részvételre jelentkezők képviseletére jogosult gazdasági szereplő az EKR-ben elektronikus úton teendő nyilatkozatok megtételekor az egyes közös ajánlattevők vagy részvételre jelentkezők képviseletében eljárhat.
+
 (3) A közös ajánlattevők vagy részvételre jelentkezők csoportjának képviseletében tett minden nyilatkozatnak egyértelműen tartalmaznia kell a közös ajánlattevők vagy részvételre jelentkezők megjelölését.
 
 (4) Ahol e törvény az ajánlatkérő számára az ajánlattevők vagy részvételre jelentkezők értesítését írja elő, valamint a kiegészítő tájékoztatás megadása [56. §], a hiánypótlás [71. §], a felvilágosítás [71. §] és indokolás [72. §] kérése esetében az ajánlatkérő a közös ajánlattevőknek vagy közös részvételre jelentkezőknek szóló értesítését, tájékoztatását, illetve felhívását a (2) bekezdés szerinti képviselőnek küldi meg.

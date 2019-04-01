@@ -10,7 +10,7 @@
 
 (3) A részvételi jelentkezésben a részvételre jelentkező nem tehet ajánlatot.
 
-(4) Az ajánlatban, több szakaszból álló eljárásban a részvételi jelentkezésben az ajánlattevőnek vagy részvételre jelentkezőnek az egyéb előírt dokumentumok benyújtása mellett nyilatkoznia kell arról, hogy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint mikro-, kis- vagy középvállalkozásnak minősül-e.
+(4)
 
 (5) Az ajánlatnak és a részvételi jelentkezésnek felolvasólapot kell tartalmaznia, amely feltünteti ajánlat esetében a 68. § (4) bekezdése, részvételi jelentkezés esetében a 68. § (5) bekezdése szerinti információkat.
 

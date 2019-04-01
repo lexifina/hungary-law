@@ -2,4 +2,4 @@
 
 (2) A központosított közbeszerzési rendszer működtetéséért a központi beszerző szerv felelős. A rendszert igénybe vevő ajánlatkérő felelős a közbeszerzés általa lefolytatott részeinek megvalósításáért, így különösen a központi beszerző szerv által működtetett dinamikus beszerzési rendszerből való megrendelésért, vagy a központi beszerző szerv által kötött keretmegállapodás alapján – a verseny újbóli megnyitásával vagy anélkül – történő beszerzésért.
 
-(3) A központosított közbeszerzési eljárásokban – az e törvény végrehajtására kiadott jogszabályban meghatározott kivételekkel – a központi beszerző szerv és a gazdasági szereplők között minden írásbeli kommunikáció – ideértve a részvételi jelentkezések és ajánlatok benyújtását is – elektronikus úton történik.
+(3)

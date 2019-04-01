@@ -4,7 +4,7 @@ a) az ajánlatkérő nevét és címét, telefon- és telefaxszámát, e-mail c�
 
 b) hivatkozást a közzétett részvételi felhívásra vagy előzetes tájékoztatóra és közzétételének napját, a közvetlen részvételi felhívás megküldésének napját;
 
-c) a közbeszerzési dokumentumok elektronikus elérhetőségének helyét; a 39. § (2) bekezdés szerinti esetekben, ha más módon még nem bocsátották rendelkezésre, a felhíváshoz csatolni kell az érintett dokumentumokat;
+c) azt az információt, hogy a közbeszerzési dokumentumok az EKR-ben milyen elérhetőségen érhetőek el; ha a közbeszerzési dokumentumok a 41/C. § (1) bekezdésben foglalt valamely ok miatt elektronikusan nem bocsáthatók rendelkezésre, a felhívással egyidejűleg rendelkezésre kell bocsátani az érintett dokumentumokat;
 
 d) a részvételi vagy közvetlen részvételi felhívásban előírtakkal összhangban az ajánlattételi szakaszban az egységes európai közbeszerzési dokumentumban foglalt nyilatkozat alátámasztására a 69. § szerint benyújtandó igazolások meghatározását, valamint – ha szükséges – az ajánlathoz csatolandó azon nyilatkozatok, dokumentumok meghatározását, amelyek igazolják, hogy az ajánlattevő, illetve alvállalkozója és az alkalmasság igazolásában részt vevő szervezet az ajánlattételi szakaszban sem tartozik a kizáró okok hatálya alá;
 
@@ -24,7 +24,7 @@ j) az ajánlattételi felhívás megküldésének napját.
 
 (3) Az ajánlattevőnek az ajánlathoz nem kell csatolni azt az igazolást, nyilatkozatot, amelyet a részvételi jelentkezéshez már csatolt, kivéve, ha a korábban benyújtott igazolás vagy nyilatkozat már nem alkalmas az előírtak bizonyítására.
 
-(4) A meghívásos eljárás ajánlattételi szakaszában az ajánlattételi határidőt az ajánlatkérő nem határozhatja meg az ajánlattételi felhívás megküldésének napjától számított harminc napnál rövidebb időtartamban. Az ajánlattételi határidőt az ajánlattételi felhívás megküldésének napjától számított legalább huszonöt napban lehet meghatározni, ha a közbeszerzési eljárásban az ajánlatok elektronikus úton is benyújthatóak.
+(4) A meghívásos eljárás ajánlattételi szakaszában az ajánlattételi határidőt az ajánlatkérő nem határozhatja meg az ajánlattételi felhívás megküldésének napjától számított huszonöt napnál rövidebb időtartamban. Az ajánlattételi határidőt az ajánlattételi felhívás megküldésének napjától számított legalább harminc napban lehet meghatározni, ha a közbeszerzési eljárásban az ajánlatok nem vagy csak részben nyújthatóak be elektronikus úton..
 
 (5) Részvételi felhívással meghirdetett eljárás esetében, ha az ajánlatkérő a részvételi felhívást tartalmazó hirdetmény feladásának napját legalább harmincöt nappal megelőzően, de legfeljebb tizenkét hónapon belül előzetes tájékoztatót tartalmazó hirdetményt adott fel, és az tartalmazta a külön jogszabályban foglaltak szerint a tájékoztatót tartalmazó hirdetmény szerinti adatokat, a (4) bekezdésben előírt határidőnél rövidebbet is meg lehet határozni. Ebben az esetben az ajánlattételi határidő nem lehet rövidebb az ajánlattételi felhívás megküldésének napjától számított tíz napnál.
 

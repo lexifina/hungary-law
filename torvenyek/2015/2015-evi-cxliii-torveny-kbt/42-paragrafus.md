@@ -7,3 +7,5 @@
 (3) A közbeszerzési terv nem vonja maga után az abban megadott közbeszerzésre vonatkozó eljárás lefolytatásának kötelezettségét. Az ajánlatkérő a közbeszerzési tervben nem szereplő közbeszerzésre vagy a tervben foglaltakhoz képest módosított közbeszerzésre vonatkozó eljárást is lefolytathat. Ezekben az esetekben a közbeszerzési tervet módosítani kell az ilyen igény vagy egyéb változás felmerülésekor, megadva a módosítás indokát is.
 
 (4) Az ajánlatkérő köteles a Közbeszerzési Hatóság vagy a jogszabályban az ajánlatkérő ellenőrzésére feljogosított szerv kérésére a közbeszerzési tervét megküldeni.
+
+(5) A közbeszerzési terv minimális adattartalmát e törvény felhatalmazása alapján alkotott jogszabály határozza meg.

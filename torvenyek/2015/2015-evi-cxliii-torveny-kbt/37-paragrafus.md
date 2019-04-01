@@ -26,7 +26,7 @@ i) a tervpályázati eljárás eredményéről szóló tájékoztatót;
 
 j) a szerződés módosításáról szóló tájékoztatót.
 
-(2) Az (1) bekezdés h)–i) pontja szerinti eljárás eredményéről szóló tájékoztatót az ajánlatkérő legkésőbb a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról [131. § (9) bekezdés] szóló ajánlatkérői döntést követő tíz munkanapon belül köteles megküldeni közzétételre. A közbeszerzési eljárás e hirdetmény közzétételével zárul le.
+(2) Az (1) bekezdés h)–i) pontja szerinti eljárás eredményéről szóló tájékoztatót az ajánlatkérő legkésőbb a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról [131. § (9) bekezdés] szóló ajánlatkérői döntést követő tíz munkanapon belül köteles megküldeni közzétételre. Részekre történő ajánlattétel esetén a közzétételre megküldés határideje valamennyi rész tekintetében az utolsó szerződés megkötésétől, a teljes eljárás eredménytelensége esetén valamennyi rész tekintetében az utolsóként meghozott, az eljárás eredménytelenné nyilvánításáról szóló ajánlatkérői döntéstől kezdődik. A közbeszerzési eljárás e hirdetmény közzétételével zárul le.
 
 (3) Az ajánlatkérő köteles az eljárás eredményéről szóló tájékoztatóban feltüntetni, ha az előzetes tájékoztatóban meghatározott időszak alatt további szerződést nem kíván kötni.
 

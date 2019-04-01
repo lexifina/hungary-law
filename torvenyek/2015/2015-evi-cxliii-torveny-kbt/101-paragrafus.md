@@ -1,4 +1,4 @@
-101. § (1) A tárgyalásokra a 88. § (2)–(4) bekezdését is megfelelően alkalmazni kell. A 88. § (9) bekezdése azzal alkalmazandó, hogy végleges ajánlat írásbeli benyújtása csak akkor szükséges, ha az eljárásban több ajánlattevő vesz részt.
+101. § (1) A tárgyalásokra a 88. § (2)–(4) bekezdését is megfelelően alkalmazni kell.
 
 (2) A tárgyalás során a közbeszerzés tárgya és feltételei nem változhatnak olyan módon, hogy
 

@@ -20,6 +20,8 @@ c) építési beruházás esetén az építőanyag-eladót;
 
 5. egységes európai közbeszerzési dokumentum: a Második Rész alkalmazásában a kizáró okok fenn nem állása, az alkalmassági követelményeknek való megfelelés, illetve a 82. § (5) bekezdés szerinti objektív kritériumok teljesülése előzetes igazolását szolgáló dokumentum, amely a gazdasági szereplőnek az Európai Bizottság által meghatározott egységes formanyomtatvány szerint tett nyilatkozatát tartalmazza;
 
+5a. elektronikus közbeszerzési rendszer: a közbeszerzésekért felelős miniszter által üzemeltetett központi közbeszerzési nyilvántartás és a közbeszerzési eljárások elektronikus lebonyolítását támogató informatikai rendszer;
+
 6. elektronikus hírközlő hálózat és elektronikus hírközlési szolgáltatás: az elektronikus hírközlésről szóló törvényben meghatározott fogalom;
 
 7. életciklus: egy termék használatának, szolgáltatás nyújtásának vagy egy építési beruházás fennállásának összes egymást követő, illetve egymással kapcsolatban álló szakasza – ideértve az elvégzendő kutatást és fejlesztést, a gyártást, a kereskedelmet és annak feltételeit, a szállítást, a felhasználást és a karbantartást is – a nyersanyag beszerzésétől, illetve az erőforrások megteremtésétől az eltávolításig, ártalmatlanításig, az adott területek eredeti állapotának helyreállításáig, illetve a szolgáltatás vagy a használat végéig;

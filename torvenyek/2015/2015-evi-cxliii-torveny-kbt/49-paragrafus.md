@@ -20,9 +20,9 @@ d) tárgyalásos eljárás,
 
 e) versenypárbeszéd,
 
-f) hirdetmény közzététele nélküli tárgyalásos eljárás.
+f) hirdetmény nélküli tárgyalásos eljárás.
 
-(2) Tárgyalásos eljárás, versenypárbeszéd és hirdetmény közzététele nélküli tárgyalásos eljárás csak az e törvényben meghatározott feltételek fennállása esetén folytatható le. Az innovációs partnerség az e törvényben meghatározott célra alkalmazható.
+(2) Tárgyalásos eljárás, versenypárbeszéd és hirdetmény nélküli tárgyalásos eljárás csak az e törvényben meghatározott feltételek fennállása esetén folytatható le. Az innovációs partnerség az e törvényben meghatározott célra alkalmazható.
 
 (3) A közbeszerzési eljárás során nem lehet áttérni egyik eljárási fajtáról a másikra.
 

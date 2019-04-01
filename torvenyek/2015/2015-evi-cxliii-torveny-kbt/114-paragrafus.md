@@ -12,6 +12,8 @@ b) építési beruházás esetén tizenöt napnál
 
 rövidebb időtartamban. A több szakaszból álló eljárások részvételi szakaszában annyi részvételi határidőt kell biztosítani, amely alatt megfelelően lehet részvételre jelentkezni.
 
+(4a) Az ajánlattételi vagy részvételi határidő meghosszabbítására az 52. § (5) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy nem köteles az ajánlatkérő a határidőt meghosszabbítani, ha a közbeszerzési dokumentumok módosítása nem jelentős és a módosítás megküldése az ajánlattételi vagy részvételi határidő lejártának napját megelőző legkésőbb ötödik, ha a módosításról hirdetményt kell feladni, annak feladása az ajánlattételi vagy részvételi határidő lejártának napját megelőző legkésőbb nyolcadik napra esik.
+
 (5) A tárgyalásos eljárás és a versenypárbeszéd bármely esetben alkalmazható. Ha a 3. melléklet szerinti szolgáltatások tárgyában készített előzetes tájékoztató tizenkét hónapnál hosszabb időtartamra vonatkozik, a közvetlen részvételi felhívás az előzetes tájékoztatót tartalmazó hirdetmény közzététele napjától számított tizenkét hónapon túl is megküldhető, de legkésőbb az előzetes tájékoztató által érintett időtartamon belül kell megküldeni.
 
 (6) A kiegészítő tájékoztatást az ajánlattételi vagy részvételi határidő lejárta előtt ésszerű időben köteles az ajánlatkérő megadni. Az ajánlatkérő, ha úgy ítéli meg, hogy a kérdés megválaszolása a megfelelő ajánlattételhez, illetve részvételre jelentkezéshez szükséges, azonban az ésszerű időben történő válaszadáshoz és a válasz figyelembevételéhez nem áll megfelelő idő rendelkezésre, az 52. § (3) bekezdésében foglalt módon élhet az ajánlattételi vagy részvételi határidő meghosszabbításának lehetőségével.
@@ -20,13 +22,13 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (8) Ha az értékelés alapján legkedvezőbb ajánlatot tett ajánlattevővel történő szerződéskötés esetén a szerződés értéke a becsült értéket meghaladná, és az ajánlatkérő az eljárást olyan szabályok szerint indította meg, amelyek nem lettek volna jogszerűen alkalmazhatóak, ha az ajánlatkérő az eljárás becsült értékeként ezt a szerződéses értéket határozta volna meg, az ajánlatkérő köteles az eljárást eredménytelenné nyilvánítani.
 
-(9) Az ajánlatkérő hirdetmény közzététele nélküli tárgyalásos eljárást indíthat, ha a beszerzés nyilvánosan közzétett, bárki által igénybe vehető és kivételesen kedvező feltételei csak rövid ideig állnak fenn, és az ellenszolgáltatás a piaci árakhoz képest lényegesen alacsonyabb, továbbá e kedvező feltételek igénybevétele az e rész szerinti eljárás alkalmazása esetén meghiúsulna.
+(9) Az ajánlatkérő hirdetmény nélküli tárgyalásos eljárást indíthat, ha a beszerzés nyilvánosan közzétett, bárki által igénybe vehető és kivételesen kedvező feltételei csak rövid ideig állnak fenn, és az ellenszolgáltatás a piaci árakhoz képest lényegesen alacsonyabb, továbbá e kedvező feltételek igénybevétele az e rész szerinti eljárás alkalmazása esetén meghiúsulna.
 
 (10) Az ajánlatkérő a (9) bekezdés szerinti esetben is köteles biztosítani a versenyt és legalább három – a szerződés teljesítésére való alkalmasság feltételeit az ajánlatkérő megítélése szerint teljesíteni képes – gazdasági szereplőt ajánlattételre felhívni.
 
 (11) Az ajánlatkérő a közbeszerzési eljárásban való részvétel jogát fenntarthatja az előző évben, árubeszerzés és szolgáltatás esetén százmillió forint, építési beruházás esetén egymilliárd forint, általános forgalmi adó nélkül számított árbevételt el nem érő azon ajánlattevők számára, akik teljesítésükhöz a jelen bekezdés szerinti feltételnek ugyancsak megfelelő alvállalkozót vesznek igénybe, és akik az előírt alkalmassági követelményeknek a jelen bekezdés szerinti feltételeknek ugyancsak megfelelő más szervezet kapacitására támaszkodva felelnek meg.
 
-(12) A (11) bekezdés építési beruházás esetében csak akkor alkalmazható, ha a beszerzés értéke nem haladja meg az ötszázmillió forintot.
+(12) A (11) bekezdés építési beruházás esetében csak akkor alkalmazható, ha az adott beszerzés – a 19. § (3) bekezdésének alkalmazása nélkül számított – becsült értéke nem haladja meg az ötszázmillió forintot.
 
 (13) A 80. § (1) bekezdés b) pontja szerinti esetben előzetes vitarendezés az ajánlattételi, illetve részvételi határidő lejártáig, a 113. § (1) bekezdés szerinti összefoglaló tájékoztatással kapcsolatban az érdeklődés jelzésére meghatározott határidő lejártáig kezdeményezhető.
 

@@ -8,9 +8,9 @@
 
 a) az ajánlattétel határidejét, az ajánlatok benyújtásának helyét,
 
-b) az ajánlatok bontásának helyét és időpontját,
+b) az ajánlatok bontásának időpontját és – amennyiben az ajánlat benyújtása a 41/C. § (1) bekezdésben foglalt valamely okból részben vagy egészben nem elektronikusan történik – helyét,
 
-c) a (2) bekezdés szerinti esetben a közbeszerzési dokumentumok elérésére vonatkozó információkat,
+c) a (2) bekezdés szerinti esetben azt az információt, hogy a közbeszerzési dokumentumok az EKR-ben milyen elérhetőségen érhetőek el,
 
 d) az ajánlati kötöttség időtartamát,
 

@@ -16,7 +16,7 @@
 
 (6)
 
-(7) Az ajánlati felhívásban az ajánlatkérő nem határozhatja meg az ajánlattételi határidőt az ajánlati felhívást tartalmazó hirdetmény feladásának napjától számított harmincöt napnál rövidebb időtartamban. Az ajánlattételi határidőt az ajánlati felhívást tartalmazó hirdetmény feladásának napjától számított legalább harminc napban lehet meghatározni, ha a közbeszerzési eljárásban az ajánlatok elektronikus úton is benyújthatóak.
+(7) Az ajánlati felhívásban az ajánlatkérő nem határozhatja meg az ajánlattételi határidőt az ajánlati felhívást tartalmazó hirdetmény feladásának napjától számított harminc napnál rövidebb időtartamban. Az ajánlattételi határidőt az ajánlati felhívást tartalmazó hirdetmény feladásának napjától számított legalább harmincöt napban lehet meghatározni, ha a közbeszerzési eljárásban az ajánlatok nem vagy csak részben nyújthatóak be elektronikus úton..
 
 (8) Ha az ajánlatkérő az ajánlati felhívást tartalmazó hirdetmény feladásának napját legalább harmincöt nappal megelőzően, de legfeljebb tizenkét hónapon belül előzetes tájékoztatót tartalmazó hirdetményt adott fel, és az tartalmazta a külön jogszabályban foglaltak szerint a tájékoztatót tartalmazó hirdetmény szerinti adatokat, a (7) bekezdésben előírt határidőnél rövidebbet is meg lehet határozni, az ajánlattételi határidő azonban nem lehet rövidebb az ajánlati felhívást tartalmazó hirdetmény feladásának napjától számított tizenöt napnál.
 
