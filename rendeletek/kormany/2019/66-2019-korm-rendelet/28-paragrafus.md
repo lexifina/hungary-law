@@ -1,0 +1,1 @@
+## „(6a) Az ajánlattevő vagy részvételre jelentkező kapacitásait rendelkezésre bocsátó szervezetként csak olyan gazdasági szereplőt vehet igénybe, amely regisztrált az EKR-ben, vagy amelynek adatait az ajánlattétel vagy részvételre jelentkezés során az EKR-ben előzetesen rögzítette.”

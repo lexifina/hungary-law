@@ -1,0 +1,1 @@
+## „(3) A jegyzőkönyvet az írásba foglalást követően öt napon belül meg kell küldeni az ellenőrzött szervezetnek, a kezdeményezőnek, valamint az európai uniós forrásból támogatott szerződés esetén az adott projektre (programra) kijelölt irányító hatóságnak.”
