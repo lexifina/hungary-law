@@ -1,3 +1,1 @@
-## 7. §[^7]
-
-[^7]: A 7. § a 9. § (2) bekezdése alapján 2019. április 1-jén lép hatályba.
+## 7. § Az R3. 10. § (2) bekezdésében az „Az (1) bekezdés” szövegrész helyébe az „Az (1) és (1a) bekezdés” szöveg lép.
