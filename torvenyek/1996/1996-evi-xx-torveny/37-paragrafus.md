@@ -32,7 +32,7 @@ j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási 
 
 (1d) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – az erdészeti hatóság erre irányuló igénye esetén rendszeres adatátadást teljesít az erdészeti hatóság részére az erdőgazdálkodói nyilvántartásban nyilvántartott polgár családi és utónevéről, névváltozásáról, születési nevéről, anyja nevéről, születési helyéről és idejéről, a lakóhelyének változásáról, külföldön történő letelepedéséről, valamint az érintett elhalálozásáról.
 
-(1e) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít a közúti közlekedési nyilvántartás járműnyilvántartását vezető szervnek a személyiadat- és lakcímnyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja születési, családi és utónevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, külföldön történő letelepedéséről, valamint az érintett elhalálozásáról.
+(1e)
 
 (1f) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít a cégbíróságnak a személyiadat- és lakcímnyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja születési családi és utónevének, születési helyének és időpontjának, lakcímének változásáról, valamint az érintett elhalálozásának tényéről és időpontjáról.
 
@@ -46,7 +46,7 @@ b) az idegenrendészeti hatóságnak a bevándorolt és a letelepedett polgár c
 
 c) a bűntettesek nyilvántartását kezelő szervnek, a bűntettesek nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének változásáról, továbbá az érintett elhalálozásáról;
 
-d)
+d) a közúti közlekedési nyilvántartó szervnek a központi közúti közlekedési nyilvántartás hatálya alá tartozó polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról;
 
 e) a központi menekültügyi szervnek a menekült és oltalmazott jogállású személyek családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről.
 
@@ -54,4 +54,4 @@ f) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető s
 
 g) a választójoggal nem rendelkező polgárok nyilvántartását vezető szervnek a választójoggal nem rendelkező polgárok nyilvántartásában szereplő polgár természetes személyazonosító adatainak, személyi azonosítójának, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett elhalálozásáról.
 
-(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek – az (1) bekezdés a) pontja szerinti állami adóhatóság és az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv, valamint az (1) bekezdés j) pontja szerinti oktatási nyilvántartás működéséért felelős szerv kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
+(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek – az (1) bekezdés a) pontja szerinti állami adóhatóság és az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv, valamint a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv, valamint az (1) bekezdés j) pontja szerinti oktatási nyilvántartás működéséért felelős szerv kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
