@@ -1,3 +1,3 @@
-## 1. §[^1]
+## 1. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet (a továbbiakban: Utvvhr.) 13. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: Az 1. § a 63. § (4) bekezdése alapján 2019. április 1-jén lép hatályba.
+## „(2) Az útlevél iránti kérelemről az általános hatáskörű útlevélhatóság, a járási hivatal vagy a konzuli tisztviselő – az egészségi állapot miatti meghatalmazotti eljárás kivételével – a kérelemnek megfelelő adattartalmú, elektronikus kérelmet állít elő, amely tartalmazza a kérelmező saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá arcképmását és – az Utv. 7. § (4) bekezdésében foglalt kivétellel – a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet 1. cikk (2) bekezdés második mondata szerinti biometrikus adatát (a továbbiakban: második biometrikus adat), továbbá a kérelmező birtokában lévő előző útlevél érvénytelenítésére, visszahagyására vonatkozó bejegyzést is.”
