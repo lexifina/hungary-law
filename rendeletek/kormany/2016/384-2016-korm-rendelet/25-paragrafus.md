@@ -1,4 +1,4 @@
-## 24. §[^23]
+## 24. §[^24]
 
 25. § (1) Nem minősül telekalakítási eljárásnak a tulajdonosi jogokat gyakorló NFA kérelmére induló olyan megosztási eljárás, amely a Nemzeti Földalapba tartozó, kizárólagos állami tulajdonban lévő földrészlet árverés útján történő értékesítése céljából az erdő művelési ágú alrészlet önálló ingatlanná alakítására és a változás ingatlan-nyilvántartási átvezetésére irányul.
 
@@ -8,4 +8,4 @@
 
 (4) Az (1) bekezdés szerinti, az ahhoz kapcsolódó művelési ág változási, valamint a változás átvezetésére irányuló eljárást rangsorban megelőző kérelmek elbírálására irányuló valamennyi eljárást soron kívül kell lefolytatni.
 
-[^23]: A 24. §-t a 457/2017. (XII. 28.) Korm. rendelet 595. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^24]: A 24. §-t a 457/2017. (XII. 28.) Korm. rendelet 595. § c) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
