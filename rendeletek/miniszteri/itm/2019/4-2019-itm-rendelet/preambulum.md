@@ -1,0 +1,1 @@
+A földgázellátásról szóló 2008. évi XL. törvény 133. § (1) bekezdés 3. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
