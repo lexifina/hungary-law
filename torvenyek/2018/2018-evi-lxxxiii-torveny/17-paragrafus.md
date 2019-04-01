@@ -1,1 +1,7 @@
-17. §
+17. § (1) A Kbt. 47. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az ajánlatkérő a nem magyar nyelven benyújtott dokumentumok ajánlattevő általi fordítását is köteles elfogadni.”
+
+(2) A Kbt. 47. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha a 41/C. § (1) bekezdés e)–f) pontja alapján az ajánlatok benyújtása egészében papíralapon történik és ahol e törvény vagy e törvény felhatalmazása alapján megalkotott jogszabály alapján az ajánlatkérő a közbeszerzési eljárás során valamely dokumentum benyújtását írja elő, a dokumentum – ha jogszabály eltérően nem rendelkezik – egyszerű másolatban is benyújtható. Az ajánlatkérő előírhatja az olyan nyilatkozat eredeti vagy – ha az ajánlatkérő lehetővé teszi – hiteles másolatban történő benyújtását, amely közvetlenül valamely követelés érvényesítésének alapjául szolgál (különösen garanciavállaló nyilatkozat vagy kezességvállalásról szóló nyilatkozat). Az ajánlat 68. § (2) bekezdése szerint benyújtott egy eredeti példányának a 66. § (2) bekezdése szerinti nyilatkozat eredeti aláírt példányát kell tartalmaznia.”
