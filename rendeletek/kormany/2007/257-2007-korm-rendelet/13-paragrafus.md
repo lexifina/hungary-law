@@ -1,5 +1,0 @@
-## 12. §[^21]
-
-## Az elektronikus úton benyújtott ajánlatok felbontásig történő megőrzése
-
-[^21]: A 12. §-t a 424/2017. (XII. 19.) Korm. rendelet 37. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 35. §-át.
