@@ -1,6 +1,9 @@
-## 2. §[^2]
+## 2. §[^1]
 
-## 3.[^3]
+## 3. A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél
 
-[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. alcím (3–4. §) az 5. § (2) bekezdése alapján 2019. április 1-jén lép hatályba.
+## a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló
+
+## 30/2015. (VI. 16.) BM rendelet módosítása
+
+[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

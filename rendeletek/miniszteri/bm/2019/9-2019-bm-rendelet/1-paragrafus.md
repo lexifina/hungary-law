@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1. §) az 5. § (2) bekezdése alapján 2019. április 1-jén lép hatályba.
+## 1. Az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet módosítása

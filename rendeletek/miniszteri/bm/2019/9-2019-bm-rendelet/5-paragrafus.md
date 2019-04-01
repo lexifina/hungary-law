@@ -1,4 +1,4 @@
-## 3–4. §
+## 4. § A 30/2015. (VI. 16.) BM rendelet 6. melléklete a 3. melléklet szerint módosul.
 
 ## 4. Záró rendelkezések
 
