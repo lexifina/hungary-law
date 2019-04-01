@@ -2,4 +2,4 @@
 
 a)
 
-b)
+b) 37. § (1e) bekezdése.
