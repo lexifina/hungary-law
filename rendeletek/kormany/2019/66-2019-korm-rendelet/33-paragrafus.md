@@ -1,1 +1,3 @@
-## „(15) A Kbt. 154. § (3) bekezdése vagy a Kbt. 156. § (2) bekezdés a) pontja szerinti esetben az ajánlatkérő az EKR-ben intézkedik az eljárási cselekmények megtételének – különösen az ajánlatok vagy részvételi jelentkezések bontásának – felfüggesztése iránt. Az ajánlatkérő a jogorvoslati eljárás lezárását követően haladéktalanul intézkedik az EKR-ben az eljárási határidőknek a felfüggesztés időtartamával történő meghosszabbítása és az eljárás folytatása iránt.”
+## 32. §[^32]
+
+[^32]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 28. § Az R5. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 28. §[^28]
 
-## „(3) Az ajánlatkérő a Kbt. 43. § (1) bekezdés a)–c) pontja szerinti adatokat az EKR-ben is köteles közzétenni.”
+[^28]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,3 @@
-## lép.
+## 15. §[^15]
 
-## 16. § Hatályát veszti az R3.
-
-a) 2. § (2) bekezdése,
-
-b) 14. § (3) bekezdése,
-
-c) 46. § (3) bekezdésében a „vagy jogszabályban meghatározott” szövegrész.
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

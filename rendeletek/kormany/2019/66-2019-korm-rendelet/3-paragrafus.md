@@ -1,3 +1,3 @@
-## 2. § A közszolgáltatók közbeszerzéseire vonatkozó sajátos közbeszerzési szabályokról szóló 307/2015. (X. 27.) Korm. rendelet (a továbbiakban: R1.) 16. §-a a következő (6a) bekezdéssel egészül ki:
+## 2. §[^2]
 
-## „(6a) A 15. § (1) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárásnak a közbeszerzésekért felelős miniszter által üzemeltetett egységes elektronikus közbeszerzési rendszer üzemzavara esetén az elektronikus úttól eltérő kommunikáció használatával történő lefolytatására a Kbt. és végrehajtási rendeleteinek a Kbt. 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárásra vonatkozó rendelkezéseit kell alkalmazni.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

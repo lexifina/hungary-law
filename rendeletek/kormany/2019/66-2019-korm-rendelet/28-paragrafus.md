@@ -1,1 +1,3 @@
-## „(6a) Az ajánlattevő vagy részvételre jelentkező kapacitásait rendelkezésre bocsátó szervezetként csak olyan gazdasági szereplőt vehet igénybe, amely regisztrált az EKR-ben, vagy amelynek adatait az ajánlattétel vagy részvételre jelentkezés során az EKR-ben előzetesen rögzítette.”
+## 27. §[^27]
+
+[^27]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 9. § A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet (a továbbiakban: R3.) 1. §-a a következő (8) bekezdéssel egészül ki:
+## 9. §[^9]
 
-## „(8) Részekre történő ajánlattétel esetén nem kérhető a gazdasági szereplőtől olyan nyilatkozat vagy igazolás benyújtása, amelyet ugyanazon közbeszerzési eljárás valamely része tekintetében a gazdasági szereplő már benyújtott. Ebben az esetben a gazdasági szereplő nyilatkozik arról, hogy mely rész tekintetében benyújtott nyilatkozatot vagy igazolást kéri figyelembe venni a bírálat során.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

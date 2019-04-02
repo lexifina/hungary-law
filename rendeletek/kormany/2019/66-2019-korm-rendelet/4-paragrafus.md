@@ -1,3 +1,3 @@
-## 3. § Az R1. 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## „(2) Az eljárás megkezdéséről az ajánlatkérőnek haladéktalanul tájékoztatnia kell a Közbeszerzési Hatóságot a Kbt. 103. §-ának megfelelően.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

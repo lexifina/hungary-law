@@ -1,1 +1,3 @@
-## „(4) Az ajánlatkérő működési hiba esetén a Kbt. 41/C. § (1) bekezdés e) pontját a működési hibára vonatkozó tájékoztatás közzétételét követően megfelelően alkalmazhatja.”
+## 34. §[^34]
+
+[^34]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

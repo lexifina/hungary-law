@@ -1,13 +1,3 @@
-## 10. § Az R3. 3. §-a helyébe a következő rendelkezés lép:
+## 10. §[^10]
 
-## „3. § (1) Az ajánlattevő vagy részvételre jelentkező az ajánlatával vagy részvételi jelentkezésével együtt benyújtja a 4–7. §-nak megfelelően, valamint az ajánlatkérő által a 2. § alapján kért módon kitöltött formanyomtatványt.
-
-## (2) Az (1) bekezdés alkalmazásában az ajánlatok vagy részvételi jelentkezések papíralapú benyújtása esetén vagy a közbeszerzésekért felelős miniszter által üzemeltetett elektronikus közbeszerzési rendszertől (a továbbiakban: EKR) eltérő informatikai rendszer alkalmazása esetén – ha az informatikai rendszer elektronikus űrlapként nem, csak a papíralapú dokumentum egyszerű elektronikus másolata formájában vagy legalább fokozott biztonságú elektronikus aláírással ellátott dokumentumként teszi lehetővé a formanyomtatvány benyújtását – az ajánlattevő vagy részvételre jelentkező a kitöltött formanyomtatványt a megfelelő képviseleti jogosultsággal rendelkező személy által aláírt formában nyújtja be.
-
-## (3) Ha egy ajánlattevő vagy részvételre jelentkező az előírt alkalmassági követelményeknek más szervezet vagy személy kapacitásaira támaszkodva kíván megfelelni, az érintett szervezetek vagy személyek képviseletében a formanyomtatványt az ajánlattevő vagy részvételre jelentkező nyújtja be. A kapacitásaikat rendelkezésre bocsátó szervezetek vagy személyek körében az alkalmassági feltételek vonatkozásában csak azokról szükséges nyilatkozni, amelyeket az ajánlattevő vagy részvételre jelentkező igénybe kíván venni alkalmasságának igazolásához.
-
-## (4) A (3) bekezdés alkalmazásában az ajánlatok vagy részvételi jelentkezések papíralapú benyújtása esetén az ajánlattevő vagy részvételre jelentkező az érintett szervezetek vagy személyek mindegyike által kitöltött külön formanyomtatványokat is benyújtja. Az ajánlatok vagy részvételi jelentkezések papíralapú benyújtása esetén, valamint ha az EKR-től eltérő informatikai rendszer elektronikus űrlapként nem, csak a papíralapú dokumentum egyszerű elektronikus másolata formájában vagy legalább fokozott biztonságú elektronikus aláírással ellátott dokumentumként teszi lehetővé a formanyomtatvány benyújtását, azt a megfelelő képviseleti jogosultsággal rendelkező személy által aláírt formában kell benyújtani.
-
-## (5) Közös ajánlattétel vagy részvételi jelentkezés esetén a közös ajánlattevők vagy részvételre jelentkezők képviseletében a nyilatkozatot az ajánlatot vagy részvételi jelentkezést benyújtó gazdasági szereplő teszi meg.
-
-## (6) Az (5) bekezdés alkalmazásában az ajánlatok vagy részvételi jelentkezések papíralapú benyújtása esetén a közös ajánlattevők vagy részvételre jelentkezők mindegyike külön formanyomtatványt nyújt be.”
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
