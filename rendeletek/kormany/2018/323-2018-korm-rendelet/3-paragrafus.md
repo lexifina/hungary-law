@@ -1,5 +1,5 @@
-## 2. § Az Utvvhr. 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az úti okmány iránti kérelem előterjesztésekor a kérelmező a kérelmezett úti okmány adattartalmát képező személyes adatait, azok ellenőrzésére szolgáló okiratokat, lakcímét, illetve értesítési címét, továbbá arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, köteles az eljáró útlevélhatóság rendelkezésére bocsátani. Az írásképtelen vagy írástudatlan, illetőleg a 12. életévét be nem töltött kérelmező útlevelének aláírás rovata bejegyzést nem tartalmaz. Az Utv. 7. § (4) bekezdésében foglalt kivétellel a kérelmező az útlevél kérelmezésekor köteles a második biometrikus adatot az útlevélhatóság rendelkezésére bocsátani. A kiskorú vagy gondnokság alatt álló személy kérelmét törvényes képviselője nyújtja be és írja alá.”
+## 2. §[^2]
 
 ## 2. Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet módosítása
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
