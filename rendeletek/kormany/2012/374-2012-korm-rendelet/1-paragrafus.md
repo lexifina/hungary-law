@@ -20,6 +20,12 @@ g) a kizárólag szakmai használatra rendelkezésre bocsátott, nem közúti mo
 
 h) az aktív beültethető orvostechnikai eszközökre,
 
-i) a fényelektromos eszközökre, amelyeket olyan rendszerben szándékoznak alkalmazni, amelyet egy meghatározott helyen való tartós használatra terveztek, szereltek össze és üzemeltek be szakemberek közüzemi, kereskedelmi, ipari és lakossági felhasználás céljából, napfényből származó energiatermeléshez és
+i)[^1] a fényelektromos eszközökre, amelyeket olyan rendszerben szándékoznak alkalmazni, amelyet egy meghatározott helyen való tartós használatra terveztek, szereltek össze és üzemeltek be szakemberek közüzemi, kereskedelmi, ipari és lakossági felhasználás céljából, napfényből származó energiatermeléshez,
 
-j) a kifejezetten kutatás és fejlesztés céljából tervezett, kizárólag vállalkozások által egymás rendelkezésére bocsátott berendezésekre
+j)[^2] a kifejezetten kutatás és fejlesztés céljából tervezett, kizárólag vállalkozások által egymás rendelkezésére bocsátott berendezésekre és
+
+k)[^3] az orgona hangszerekre
+
+[^1]: Az 1. § (2) bekezdés i) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés j) pontja a 60/2019. (III. 25.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés k) pontját a 60/2019. (III. 25.) Korm. rendelet 1. §-a iktatta be.

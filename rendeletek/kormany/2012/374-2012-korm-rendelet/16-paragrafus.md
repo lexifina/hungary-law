@@ -1,4 +1,4 @@
-## 16. §[^13] Ez a rendelet
+## 16. §[^23] Ez a rendelet
 
 1. az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló, 2011. június 8-i 2011/65/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -54,36 +54,60 @@
 
 27. a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a reklámokban, a dekorációkban, az épületmegvilágításban, a speciális megvilágításban és a művészeti alkotásokban használt, kézzel előállított, cső alakú kisülőlámpákban lévő higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2014. március 13-i 2014/76/EU bizottsági irányelvnek
 
-28.[^14] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az in vitro diagnosztikai orvostechnikai eszközök polivinilklorid érzékelőiben használt ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/573/EU bizottsági irányelvnek,
+28.[^24] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az in vitro diagnosztikai orvostechnikai eszközök polivinilklorid érzékelőiben használt ólom mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/573/EU bizottsági irányelvnek,
 
-29.[^15] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az intravaszkuláris ultrahangos képalkotó rendszerekben használt higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/574/EU bizottsági irányelvnek
+29.[^25] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az intravaszkuláris ultrahangos képalkotó rendszerekben használt higany mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2015. január 30-i 2015/574/EU bizottsági irányelvnek
 
-30.[^16] a 2011/65/EU európai parlamenti és tanácsi irányelv II. mellékletének a korlátozott anyagok jegyzéke tekintetében történő módosításáról szóló, 2015. március 31-i 2015/863/EU bizottsági irányelvnek,
+30.[^26] a 2011/65/EU európai parlamenti és tanácsi irányelv II. mellékletének a korlátozott anyagok jegyzéke tekintetében történő módosításáról szóló, 2015. március 31-i 2015/863/EU bizottsági irányelvnek,
 
-31.[^17] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az orvostechnikai eszközökből származó és orvostechnikai eszközök vagy elektronmikroszkópok javítására vagy felújítására felhasználandó cserealkatrészekben található ólom, kadmium, hat vegyértékű króm és polibrómozott difenil-éterek (PBDE) mentesítése tekintetében a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. február 12-i 2016/585/EU bizottsági irányelvnek
+31.[^27] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az orvostechnikai eszközökből származó és orvostechnikai eszközök vagy elektronmikroszkópok javítására vagy felújítására felhasználandó cserealkatrészekben található ólom, kadmium, hat vegyértékű króm és polibrómozott difenil-éterek (PBDE) mentesítése tekintetében a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. február 12-i 2016/585/EU bizottsági irányelvnek
 
-32.[^18] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az egyes berendezések hőmérsékletmérő érzékelőinek elektromos összeköttetéseihez használt forraszanyagban lévő ólomra irányuló mentesítés tekintetében, a műszaki fejlődéshez való hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1028/EU bizottsági irányelvnek,
+32.[^28] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az egyes berendezések hőmérsékletmérő érzékelőinek elektromos összeköttetéseihez használt forraszanyagban lévő ólomra irányuló mentesítés tekintetében, a műszaki fejlődéshez való hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1028/EU bizottsági irányelvnek,
 
-33.[^19] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az ipari felügyeleti és vezérlő eszközökben használt egyes oxigénérzékelők Hersch-celláiban található kadmiumanódok mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1029/EU bizottsági irányelvnek,
+33.[^29] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének az ipari felügyeleti és vezérlő eszközökben használt egyes oxigénérzékelők Hersch-celláiban található kadmiumanódok mentesítése tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2016. április 19-i 2016/1029/EU bizottsági irányelvnek,
 
-34.[^20] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a reflexiós tényezőre vonatkozó követelmények céljára használt üveg filterekben és üvegekben használt kadmiumra és ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 13-i, (EU) 2017/1009 felhatalmazáson alapuló bizottsági irányelvnek,
+34.[^30] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a reflexiós tényezőre vonatkozó követelmények céljára használt üveg filterekben és üvegekben használt kadmiumra és ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 13-i, (EU) 2017/1009 felhatalmazáson alapuló bizottsági irányelvnek,
 
-35.[^21] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes hűtőközeget tartalmazó kompresszorok csapágycsészéiben és -béléseiben felhasznált ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 13-i, (EU) 2017/1010 felhatalmazáson alapuló bizottsági irányelvnek,
+35.[^31] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes hűtőközeget tartalmazó kompresszorok csapágycsészéiben és -béléseiben felhasznált ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 13-i, (EU) 2017/1010 felhatalmazáson alapuló bizottsági irányelvnek,
 
-36.[^22] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az optikai alkalmazásokban használt fehér üvegekben lévő ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 15-i, (EU) 2017/1011 felhatalmazáson alapuló bizottsági irányelvnek,
+36.[^32] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az optikai alkalmazásokban használt fehér üvegekben lévő ólomra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. március 15-i, (EU) 2017/1011 felhatalmazáson alapuló bizottsági irányelvnek,
 
-37.[^23] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a kijelző rendszerekben használt színátalakító fénykibocsátó diódákban (LED-ek) alkalmazott kadmiumra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. augusztus 7-i, (EU) 2017/1975 felhatalmazáson alapuló bizottsági irányelvnek
+37.[^33] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a kijelző rendszerekben használt színátalakító fénykibocsátó diódákban (LED-ek) alkalmazott kadmiumra megadott mentesség tekintetében, a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2017. augusztus 7-i, (EU) 2017/1975 felhatalmazáson alapuló bizottsági irányelvnek,
+
+38.[^34] az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 2011/65/EU európai parlamenti és tanácsi irányelv módosításáról szóló, 2017. november 15-i 2017/2102/EU európai parlamenti és a tanácsi irányelvnek,
+
+39.[^35] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének egyes, ólmot üvegben vagy kerámiában tartalmazó elektromos és elektronikus alkatrészekre megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. február 27-i 2018/736/EU bizottsági irányelvnek,
+
+40.[^36] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a korong- és síkmátrix alakú többrétegű kerámiakondenzátorok géppel készített átmenőfuratokba történő forrasztásához használt forrasztóanyagokban lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. február 27-i 2018/737/EU bizottsági irányelvnek,
+
+41.[^37] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a cermet-alapú beállító potenciométer egyes alkatrészeiben lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. február 27-i 2018/738/EU bizottsági irányelvnek,
+
+42.[^38] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az ólomra, mint az acél ötvözőelemére megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. március 1-i 2018/739/EU bizottsági irányelvnek,
+
+43.[^39] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az ólomra, mint az alumínium ötvözőelemére megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. március 1-i 2018/740/EU bizottsági irányelvnek,
+
+44.[^40] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az ólomra mint a réz ötvözőelemére megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. március 1-i 2018/741/EU bizottsági irányelvnek,
+
+45.[^41] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a magas olvadáspontú forrasztóanyagokban lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. március 1-i 2018/742/EU bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
-[^13]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^14]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
-[^15]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
-[^16]: A 16. § 30. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
-[^17]: A 16. § 31. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
-[^18]: A 16. § 32. pontját a 42/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
-[^19]: A 16. § 33. pontját a 42/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
-[^20]: A 16. § 34. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
-[^21]: A 16. § 35. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
-[^22]: A 16. § 36. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
-[^23]: A 16. § 37. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^24]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^25]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 16. § 30. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 16. § 31. pontját a 307/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.
+[^28]: A 16. § 32. pontját a 42/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 16. § 33. pontját a 42/2017. (III. 7.) Korm. rendelet 1. §-a iktatta be.
+[^30]: A 16. § 34. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^31]: A 16. § 35. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^32]: A 16. § 36. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^33]: A 16. § 37. pontját a 125/2018. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^34]: A 16. § 38. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^35]: A 16. § 39. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^36]: A 16. § 40. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^37]: A 16. § 41. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^38]: A 16. § 42. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^39]: A 16. § 43. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^40]: A 16. § 44. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^41]: A 16. § 45. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.

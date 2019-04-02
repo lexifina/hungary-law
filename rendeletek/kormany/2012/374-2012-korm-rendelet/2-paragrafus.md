@@ -32,11 +32,11 @@
 
 14. in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendelet szerinti in vitro diagnosztikai orvostechnikai eszköz;
 
-15.[^1] ipari ellenőrző és vezérlő eszközök: kizárólag ipari vagy szakmai célú használatra kialakított ellenőrző és vezérlő eszközök;
+15.[^4] ipari ellenőrző és vezérlő eszközök: kizárólag ipari vagy szakmai célú használatra kialakított ellenőrző és vezérlő eszközök;
 
 16. kábelek: 250 voltnál kisebb feszültségű kábel, amely elektromos és elektronikus berendezések elektromos kimenethez való csatlakoztatásához, két vagy több elektromos és elektronikus berendezés egymáshoz való csatlakoztatásához összeköttetésként vagy hosszabbítóként szolgál;
 
-17. kizárólag szakmai használatra szánt nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép, amelynek működtetése mobilitást, folyamatos vagy részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között, és kizárólag szakmai célra használható;
+17.[^5] kizárólag szakmai használatra szánt nem közúti mozgó gép: fedélzeti energiaforrással rendelkező gép vagy külső energiaforrással működő, trakciós meghajtással rendelkező gép, amelynek működtetése mobilitást vagy folyamatos vagy részben folyamatos mozgást követel meg meghatározott munkavégzési helyek között, és kizárólag szakmai célra használható;
 
 18. megbízható helyettesítő anyag: olyan helyettesítő anyag, amellyel az elektromos és elektronikus berendezés valószínűleg hiba nélkül fogja a megkövetelt funkciót ellátni adott körülmények között, adott időtartamig;
 
@@ -60,4 +60,5 @@
 
 28. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználó számára már elérhető termék visszajuttatása.
 
-[^1]: A 2. § 15. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 15. pontja a 365/2015. (XII. 2.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 17. pontja a 60/2019. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -140,17 +140,45 @@
 
 | 46. | Fénycsövek üvegében használt ólom | ≤ 0,2 m/m % | mentesség ideje nincs korlátozva |
 
-| 47. | Ólom a megmunkálásra szánt acél ötvözőelemeként, illetve galvanizált acélban | ≤ 0,35 m/m % | mentesség ideje nincs korlátozva |
+| 47. | Ólom a megmunkálásra szánt acél ötvözőelemeként vagy galvanizált acélban a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | ≤ 0,35 m/m% | 2021. július 21-ig |
 
-| 48. | Ólom az alumínium ötvözőelemeként | ≤ 0,4 m/m % | mentesség ideje nincs korlátozva |
+| 47a. | Ólom a megmunkálásra szánt acél ötvözőelemeként vagy galvanizált acélban a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
 
-| 49. | Rézötvözet | ≤ 4 m/m % | mentesség ideje nincs korlátozva |
+| 47b. | Ólom a megmunkálásra szánt acél ötvözőelemeként vagy galvanizált acélban a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
 
-| 50. | Magas olvadáspontú, ólomtartalmú forraszanyagok (azaz olyan ólomötvözetek, amelyek legalább 85 tömegszázalékban tartalmaznak ólmot) |  | mentesség ideje nincs korlátozva |
+| 47c. | Ólom a megmunkálásra szánt acél ötvözőelemeként A mentesség a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportokra vonatkozik. | 2021. július 21-ig |
+
+| 47d. | Ólom a szakaszosan tűzihorganyzott acélban A mentesség a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportokra vonatkozik. | ≤ 0,2 m/m% | 2021. július 21-ig |
+
+| 48. | Ólom az alumínium ötvözőelemeként a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | ≤ 0,4 m/m% | 2021. július 21-ig |
+
+| 48a. | Ólom az alumínium ötvözőelemeként a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| 48b. | Ólom az alumínium ötvözőelemeként a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
+
+| 48c. | Ólom az alumínium ötvözőelemeként, amely ólom, ólomtartalmú alumíniumhulladék újrahasznosításából ered A mentesség a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportokra vonatkozik. | 2021. július 21-ig |
+
+| 48d. | Ólom a megmunkálásra szánt alumínium ötvözőelemeként A mentesség a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportokra vonatkozik. | 2021. május 18-ig |
+
+| 49. | Rézötvözet a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | ≤ 0,4m/m% | 2021. július 21-ig |
+
+| 49a. | Rézötvözet a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| 49b. | Rézötvözet a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
+
+| 50. | Magas olvadáspontú, ólomtartalmú forraszanyagok (azaz olyan ólomötvözetek, amelyek legalább 85 tömegszázalékban tartalmaznak ólmot) a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében – kivéve a 2. mellékletben foglalt táblázat 69. sorában meghatározott alkalmazásokat –, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | nincs korlátozás | 2021. július 21-ig |
+
+| 50a. | Magas olvadáspontú, ólomtartalmú forraszanyagok (azaz olyan ólomötvözetek, amelyek legalább 85 tömegszázalékban tartalmaznak ólmot) a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| 50b. | Magas olvadáspontú, ólomtartalmú forraszanyagok (azaz olyan ólomötvözetek, amelyek legalább 85 tömegszázalékban tartalmaznak ólmot) a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
 
 | 51. | A szerverekben, az adattároló rendszerekben, a tárolási és elrendezési rendszerekben, a hálózati infrastruktúra kapcsoló, jelző és adatátviteli berendezéseiben és a távközlési hálózatok hálózatkezelése során használt forrasztóanyagokban lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 52. | Elektronikus és elektromos alkatrészek, amelyek üvegben vagy kerámiában, de nem a kondenzátorokban, például piezoelektronikus berendezésekben lévő dielektromos kerámiákban, továbbá nem üveg vagy kerámia mátrix anyagokban tartalmaznak ólmot | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 52. | Elektronikus és elektromos alkatrészek, amelyek üvegben vagy kerámiában, de nem a kondenzátorokban, például piezoelektronikus berendezésekben lévő dielektromos kerámiákban, továbbá nem üveg vagy kerámia mátrix anyagokban tartalmaznak ólmot a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében – kivéve a 2. melléklet 76. sorában meghatározott alkalmazásokat –, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | nincs korlátozás | 2021. július 21-ig |
+
+| 52a. | Elektronikus és elektromos alkatrészek, amelyek üvegben vagy kerámiában, de nem a kondenzátorokban, például piezoelektronikus berendezésekben lévő dielektromos kerámiákban, továbbá nem üveg vagy kerámia mátrix anyagokban tartalmaznak ólmot a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| 52b. | Elektronikus és elektromos alkatrészek, amelyek üvegben vagy kerámiában, de nem a kondenzátorokban, például piezoelektronikus berendezésekben lévő dielektromos kerámiákban, továbbá nem üveg vagy kerámia mátrix anyagokban tartalmaznak ólmot a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
 
 | 53. | 125 V AC vagy 250 V DC vagy ennél magasabb névleges feszültségű kondenzátorokban használt dielektromos kerámiában lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
 
@@ -210,7 +238,11 @@
 
 | 68. | Ólom a csatlakozók kivételével a 0,65 mm vagy kisebb osztóközű, finom osztású (fine-pitch) komponensek felületén | nincs korlátozás | a 2010. szeptember 24. előtt forgalomba hozott elektronikus és elektromos berendezések pótalkatrészeiben használható |
 
-| 69. | Korong- és síkmátrix alakú többrétegű kerámiakondenzátorok géppel készített átmenőfuratokba történő forrasztásához használt forrasztóanyagokban lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 69. | Korong- és síkmátrix alakú többrétegű kerámiakondenzátorok géppel készített átmenőfuratokba történő forrasztásához használt forrasztóanyagokban lévő ólom a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | nincs korlátozás | 2021. július 21-ig |
+
+| 69a. | Korong- és síkmátrix alakú többrétegű kerámiakondenzátorok géppel készített átmenőfuratokba történő forrasztásához használt forrasztóanyagokban lévő ólom a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| 69b. | Korong- és síkmátrix alakú többrétegű kerámiakondenzátorok géppel készített átmenőfuratokba történő forrasztásához használt forrasztóanyagokban lévő ólom a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
 
 | 70. | Ólom-oxid a felületvezető elektronkibocsátó kijelzőkben (SED) használt szerkezeti elemekben, a lezáró frittben és a frittgyűrűben | nincs korlátozás | mentesség ideje nincs korlátozva |
 
@@ -224,7 +256,11 @@
 
 | 75. | A transzformátorokban alkalmazott, 100 µm-es vagy annál kisebb átmérőjű vékony vörösréz vezetékek forrasztásához használt forrasztóanyagban lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
 
-| 76. | A cermet-alapú beállító potenciométer egyes alkatrészeiben lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
+| 76. | A cermet-alapú beállító potenciométer egyes alkatrészeiben lévő ólom a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, valamint a 7. melléklet 8. és 9. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközöktől és az ipari felügyeleti és vezérlő eszközöktől eltérő eszközök esetében | nincs korlátozás | 2021. július 21-ig |
+
+| 76a. | A cermet-alapú beállító potenciométer egyes alkatrészeiben lévő ólom a 7. melléklet 8. pontjában szereplő termékcsoportba tartozó in vitro diagnosztikai orvostechnikai eszközök esetében | 2023. július 21-ig |
+
+| 76b. | A cermet-alapú beállító potenciométer egyes alkatrészeiben lévő ólom a 7. melléklet 9. pontjában szereplő termékcsoportba tartozó ipari felügyeleti és vezérlő eszközök és a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök esetében | 2024. július 21-ig |
 
 | 77. | A cink-borát üvegből készült burkolatban elhelyezett nagyfeszültségű diódák bevonatában lévő ólom | nincs korlátozás | mentesség ideje nincs korlátozva |
 
@@ -250,7 +286,7 @@
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^27]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^45]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -434,4 +470,4 @@ lejár.
 
 47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
 
-[^27]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^45]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
