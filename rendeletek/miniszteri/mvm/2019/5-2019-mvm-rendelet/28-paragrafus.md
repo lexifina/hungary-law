@@ -1,1 +1,0 @@
-## „(2) Az EKR üzemeltetője köteles az üzemzavar vagy működési hiba észlelésére vonatkozó bejelentések fogadását folyamatosan, az általa közzétett elérhetőségeken (legalább elektronikus úton, munkanapokon nyolc és tizennyolc óra között telefonon is) biztosítani, és azokat kivizsgálni.”

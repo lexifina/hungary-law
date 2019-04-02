@@ -1,3 +1,3 @@
-## 13. §[^1]
+## 13. §[^2]
 
-[^1]: A 13. § a 31. § (2) bekezdése alapján 2019. április 28-án lép hatályba.
+[^2]: A 13. § a 31. § (2) bekezdése alapján 2019. április 28-án lép hatályba.

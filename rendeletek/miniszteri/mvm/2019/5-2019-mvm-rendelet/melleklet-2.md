@@ -1,1 +1,3 @@
-2. melléklet az 5/2019. (III. 28.) MvM rendelethez
+2–5. melléklet az 5/2019. (III. 28.) MvM rendelethez[^14]
+
+[^14]: A 2–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

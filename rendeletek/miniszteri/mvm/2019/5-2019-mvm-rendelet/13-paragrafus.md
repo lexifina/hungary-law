@@ -1,3 +1,3 @@
-## 12. § Az R1. 4. alcím címe helyébe a következő cím lép:
+## 1–12. §[^1]
 
-## „4. Az ellenőrzési díj, a közzétételi költségtérítés és a törvényességi ellenőrzési díj”
+[^1]: Az 1–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

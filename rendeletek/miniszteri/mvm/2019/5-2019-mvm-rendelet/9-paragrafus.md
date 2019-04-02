@@ -1,3 +1,0 @@
-## 8. § Az R1. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A közbeszerzési eljárást megindító felhívás, a koncessziós beszerzési eljárást megindító felhívás, a tervpályázati kiírás, a közbeszerzési eljárást meghirdető hirdetmény és a koncessziós eljárást meghirdető hirdetmény ellenőrzése kötelező, kivéve, ha a kérelmező csatolja kérelméhez az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló jogszabály alapján az uniós támogatásból megvalósuló közbeszerzések közbeszerzési jogi minőségellenőrzéséért felelős szervezet által kiállított közbeszerzési minőségellenőrzési tanúsítványt.”
