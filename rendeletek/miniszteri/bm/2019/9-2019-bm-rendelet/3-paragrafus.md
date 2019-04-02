@@ -1,4 +1,4 @@
-## 2. §[^1]
+## 2. §[^3]
 
 ## 3. A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél
 
@@ -6,4 +6,4 @@
 
 ## 30/2015. (VI. 16.) BM rendelet módosítása
 
-[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
