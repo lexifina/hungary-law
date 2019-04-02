@@ -1,1 +1,0 @@
-A Kormány az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 139. § b) pont kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
