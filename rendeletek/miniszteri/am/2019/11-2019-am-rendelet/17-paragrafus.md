@@ -1,0 +1,1 @@
+## „(5a) Az Átr. 2. § 10d. pontjában meghatározott mezőgazdasági csekély összegű ágazati korlát mértékéig arányosan kell csökkenteni az adott tárgyévben támogatásra jogosult igényeket, ha azok együttes összege meghaladja a mezőgazdasági csekély összegű ágazati korlát mértékét.”
