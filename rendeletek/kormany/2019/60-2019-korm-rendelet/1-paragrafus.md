@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1–9. §) a 12. § (2) bekezdése alapján 2019. április 2-án lép hatályba.
+## 1. Az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 374/2012. (XII. 18.) Korm. rendelet módosítása
