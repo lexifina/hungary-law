@@ -1,1 +1,0 @@
-A polgári perrendtartásról szóló 2016. évi CXXX. törvény 628. § (2) bekezdés g) pontjában és a közigazgatási perrendtartásról szóló törvény 2017. évi I. törvény 155. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
