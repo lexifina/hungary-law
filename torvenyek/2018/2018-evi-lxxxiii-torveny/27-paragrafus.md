@@ -1,3 +1,1 @@
-27. § A Kbt. 71. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) Ha az ajánlatkérő az ajánlatban az értékelésre kiható számítási hibát észlel – a hiba és a javítandó érték, valamint a javítás eredményeként meghatározott érték megjelölésével –, felhívja az ajánlattevőt annak javítására. A számítási hiba javításának az eredményét az ajánlatkérő akként állapítja meg, hogy a közbeszerzés tárgya elemeinek tételesen meghatározott értékeit (az alapadatokat) alapul véve kiszámítja az összesített ellenértéket vagy más – az ajánlatban megtalálható számításon alapuló – adatot. Ha a számítási hiba javítását nem, vagy nem az előírt határidőben, vagy hibásan teljesítették, az ajánlat érvénytelen.”
+27. §

@@ -1,5 +1,1 @@
-23. § A Kbt. 62. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(Az eljárásban nem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt alkalmasság igazolásában olyan gazdasági szereplő, aki)
-
-„j) esetében az ajánlatkérő bizonyítani tudja, hogy az adott eljárásban megkísérelte jogtalanul befolyásolni az ajánlatkérő döntéshozatali folyamatát, vagy olyan bizalmas információt kísérelt megszerezni, amely jogtalan előnyt biztosítana számára a közbeszerzési eljárásban, vagy korábbi közbeszerzési vagy koncessziós beszerzési eljárásból ebből az okból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor az érintett közbeszerzési eljárás lezárulásától számított három évig, vagy amennyiben a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését – a jogtalan befolyásolás megállapítása mellett – a Közbeszerzési Döntőbizottság véglegessé vált, – a Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki;”
+23. §

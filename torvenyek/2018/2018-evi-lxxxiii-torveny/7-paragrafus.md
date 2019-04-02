@@ -1,3 +1,1 @@
-7. § A Kbt. 31. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Nem kötelező az ajánlatkérő és a gazdasági szereplők között az elektronikus kapcsolattartás során az EKR alkalmazása a központi beszerző szerv által működtetett dinamikus beszerzési rendszerben az ajánlattételi szakasz lefolytatása vagy elektronikus katalógus alkalmazása esetén, vagy a központi beszerző szerv által kötött keretmegállapodás alapján – a verseny újbóli megnyitásával vagy anélkül – történő beszerzés megvalósításakor. A központi beszerző szerv vagy a beszerzést megvalósító ajánlatkérő azonban ez esetben is köteles az EKR útján nyilvánosan közzétenni vagy az EKR-ben rögzíteni mindazon hirdetményeket és adatokat, amelyek közzétételére vagy a szerződés tekintetében a rendszerben történő rögzítésére e törvény vagy végrehajtási rendelete alapján köteles.”
+7. §
