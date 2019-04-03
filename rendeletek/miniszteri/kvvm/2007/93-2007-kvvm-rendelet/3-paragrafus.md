@@ -10,18 +10,20 @@ c) azoknak a napoknak a dátumát, amelyen az üzemeltető a zajkibocsátási ha
 
 d) a felmentéssel érintett napokon megtartásra kerülő rendezvény vagy esemény megnevezését, jellegét, rövid leírását,
 
-e) a felmentés idején a 284/2007. (X. 29.) Korm. rendelet szerinti kritikus ponton várható zajkibocsátás mértékét az alábbi sávok egyikének megadásával:
+e)[^4] a felmentés idején a 284/2007. (X. 29.) Korm. rendelet szerinti kritikus ponton várható zajkibocsátás mértékét az alábbi sávok egyikének megadásával:
 
-ea) 45–50 dB,
+ea) 48–55 dB,
 
-eb) 51–55 dB,
+eb) 56–60 dB,
 
-ec) 56–59 dB,
+ec) 61–65 dB,
 
-ed) 61–64 dB,
+ed) 66–70 dB,
 
-ee) 66–70 dB.
+f)[^5] az e) pont ed) alpontjának alkalmazása esetén az üzemeltető nyilatkozatát arról, hogy a felmentés ideje alatt megtartásra kerülő eseti rendezvény a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet szerinti nemzetközi versenynek minősül.
 
 (3) A (2) bekezdés b) pontja szerinti felmentéssel érintett napok dátumának megadásakor a korábbi felmentésre irányuló bejelentésekben szereplő napok közül csak azokat kell figyelembe venni, amelyeken a zajforrás zajkibocsátása ténylegesen túllépte a környezetvédelmi hatóság által a felmentéssel nem érintett napokra megállapított zajkibocsátási határértéket.
 
 [^3]: A 3. § a 91/2015. (XII. 23.) FM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdés e) pontja a 8/2019. (III. 26.) AM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § (2) bekezdés f) pontját a 8/2019. (III. 26.) AM rendelet 1. §-a iktatta be.

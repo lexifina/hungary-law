@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-93-20-0
 | 2008-01-01 | 2007-93-20-0N.1 | 93/2007. (XII. 18.) KvVM rendelet |
 | 2016-02-01 | 2007-93-20-0N.2 | 91/2015. (XII. 23.) FM rendelet |
 | 2018-01-01 | 2007-93-20-0N.3 | 70/2017. (XII. 29.) FM rendelet |
+| 2019-04-03 | 2007-93-20-0N.4 | 8/2019. (III. 26.) AM rendelet |
