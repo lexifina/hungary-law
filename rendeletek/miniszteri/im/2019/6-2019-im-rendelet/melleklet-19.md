@@ -2,9 +2,9 @@
 
 ## PÓTLAP
 
-## EGYÉB BIZONYÍTÁS INDÍTVÁNYOZÁSA[^740]
+## EGYÉB BIZONYÍTÁS INDÍTVÁNYOZÁSA[^742]
 
-## 1. A pótlap sorszáma:[^741]
+## 1. A pótlap sorszáma:[^743]
 
 ## 2. Az egyéb bizonyítási indítvány
 
@@ -22,5 +22,5 @@
 
 19. melléklet a 6/2019. (III. 18.) IM rendelethez
 
-[^740]: Egyéb bizonyítási indítvány lehet pl. a szemle tartására irányuló indítvány, amikor a perben jelentős tény megállapításához helyszín, tárgy, személy közvetlen megvizsgálása, megtekintése szükséges, továbbá a más bíróságnál, közjegyzőnél, más hatóságnál, közigazgatási szervnél vagy valamely szervezetnél lévő irat, illetve adat beszerzése iránti indítvány. Ha több egyéb bizonyítási indítvány tesz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
-[^741]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
+[^742]: Egyéb bizonyítási indítvány lehet pl. a szemle tartására irányuló indítvány, amikor a perben jelentős tény megállapításához helyszín, tárgy, személy közvetlen megvizsgálása, megtekintése szükséges, továbbá a más bíróságnál, közjegyzőnél, más hatóságnál, közigazgatási szervnél vagy valamely szervezetnél lévő irat, illetve adat beszerzése iránti indítvány. Ha több egyéb bizonyítási indítvány tesz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
+[^743]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.

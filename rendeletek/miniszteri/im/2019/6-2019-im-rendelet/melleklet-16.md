@@ -2,9 +2,9 @@
 
 ## PÓTLAP
 
-## TANÚBIZONYÍTÁS INDÍTVÁNYOZÁSA[^731]
+## TANÚBIZONYÍTÁS INDÍTVÁNYOZÁSA[^733]
 
-## 1. A pótlap sorszáma:[^732]
+## 1. A pótlap sorszáma:[^734]
 
 ## 2.1. Tanú
 
@@ -20,7 +20,7 @@
 
 ## amennyiben nem,
 
-## Tanú lakóhelye (tartózkodási helye):[^733]
+## Tanú lakóhelye (tartózkodási helye):[^735]
 
 ## ____________________________________________________________________________________________________________________________________________________________________________________
 
@@ -44,6 +44,6 @@
 
 16. melléklet a 6/2019. (III. 18.) IM rendelethez
 
-[^731]: Ezt a nyomtatványt kell kitölteni, ha a fél perben tényállításait tanúval kívánja bizonyítani. Ha több tanú meghallgatását indítványozza, a további tanúbizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
-[^732]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
-[^733]: A tanú lakóhelye, tartózkodási helye csak akkor tölthető ki, ha a tanú előzetesen hozzájárult adatainak feltüntetéséhez vagy ha az adatokat valamennyi peres fél ismeri, vagy ha azok valamely közhiteles nyilvántartásból bárki számára megismerhető. A hozzájárulás megadásáról vagy a tanú címének ismertségéről a nyomtatványon nyilatkozni kell. Ha a tanú adatainak feltüntetéséhez nem járul hozzá, a tanú idézhető címét külön lapon kell a nyomtatványhoz csatolni.
+[^733]: Ezt a nyomtatványt kell kitölteni, ha a fél perben tényállításait tanúval kívánja bizonyítani. Ha több tanú meghallgatását indítványozza, a további tanúbizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
+[^734]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
+[^735]: A tanú lakóhelye, tartózkodási helye csak akkor tölthető ki, ha a tanú előzetesen hozzájárult adatainak feltüntetéséhez vagy ha az adatokat valamennyi peres fél ismeri, vagy ha azok valamely közhiteles nyilvántartásból bárki számára megismerhető. A hozzájárulás megadásáról vagy a tanú címének ismertségéről a nyomtatványon nyilatkozni kell. Ha a tanú adatainak feltüntetéséhez nem járul hozzá, a tanú idézhető címét külön lapon kell a nyomtatványhoz csatolni.

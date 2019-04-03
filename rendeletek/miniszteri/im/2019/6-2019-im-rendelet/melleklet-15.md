@@ -2,9 +2,9 @@
 
 ## PÓTLAP
 
-## ÁLLÍTÁSI VAGY BIZONYÍTÁSI SZÜKSÉGHELYZETBEN AZ ELLENFÉLHEZ INTÉZETT FELHÍVÁSRA[^729]
+## ÁLLÍTÁSI VAGY BIZONYÍTÁSI SZÜKSÉGHELYZETBEN AZ ELLENFÉLHEZ INTÉZETT FELHÍVÁSRA[^731]
 
-## 1. A pótlap sorszáma:[^730]
+## 1. A pótlap sorszáma:[^732]
 
 ## 2. Az ellenfélhez intézett felhívás
 
@@ -18,5 +18,5 @@
 
 15. melléklet a 6/2019. (III. 18.) IM rendelethez
 
-[^729]: Ezen a pótlapon tüntethető fel az állítási, illetve bizonyítási szükséghelyzet esetén a szükséges információ szolgáltatására vagy a bizonyítási eszköz csatolására vonatkozó felhívás.
-[^730]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
+[^731]: Ezen a pótlapon tüntethető fel az állítási, illetve bizonyítási szükséghelyzet esetén a szükséges információ szolgáltatására vagy a bizonyítási eszköz csatolására vonatkozó felhívás.
+[^732]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
