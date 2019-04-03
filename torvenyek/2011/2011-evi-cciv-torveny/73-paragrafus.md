@@ -30,7 +30,7 @@ db) a szakmai munka eredményességét;
 
 e) kezdeményezi a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat;
 
-f) nem állami felsőoktatási intézményben megbízza a gazdasági vezetőt, illetve visszavonja a megbízását;
+f) nem állami felsőoktatási intézményben megbízza az elnököt és a kancellárt – utóbbi hiányában a magasabb vezetőként (vezető állású munkavállalóként) foglalkoztatott gazdasági vezetőt –, illetve visszavonja a megbízásukat;
 
 g) gondoskodik a költségvetési szervként működő felsőoktatási intézmény éves költségvetési beszámolójának ellenőrzéséről,
 

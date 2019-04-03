@@ -20,7 +20,7 @@ ea) képzési programját,
 
 eb) szervezeti és működési szabályzatát, doktori szabályzatát,
 
-ec) a minőség és teljesítmény alapján differenciáló jövedelemelosztás elveit,
+ec)
 
 ed) a fenntartó által meghatározott keretek között költségvetését,
 
@@ -34,7 +34,7 @@ fb) az oktatói munka hallgatói véleményezési rendszerét;
 
 g) a fenntartó egyetértésével dönt
 
-ga) fejlesztés indításáról,
+ga)
 
 gb) az intézmény vagyongazdálkodási tervéről,
 

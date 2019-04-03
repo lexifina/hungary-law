@@ -14,7 +14,9 @@ c) főigazgató, klinikai központ esetén elnök,,
 
 d) dékán,
 
-e) kancellár.
+e) kancellár,
+
+f) nem állami felsőoktatási intézmény esetében az elnök.
 
 (2) A felsőoktatási intézményekben – a szervezeti és működési szabályzatban meghatározottak alapján az (1) bekezdésben felsoroltakon kívül – a következő vezetői megbízások adhatók:
 

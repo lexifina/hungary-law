@@ -18,6 +18,6 @@
 
 a) a Civil tv. 37. § (2) bekezdésének a)–b) és d) pontjában, valamint 37. § (3) bekezdésének a)–d) pontjaiban foglalt rendelkezéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell rögzíteni, azzal, hogy a szenátus legalább évi két alkalommal tart ülést,
 
-b) a Civil tv. 37. § (2) bekezdésének c) pontja esetében a felügyelő szerv működésére, hatáskörére vonatkozó szabályokat a fenntartó határozza meg az intézmény alapító okiratában, ahol kötelező gondoskodnia a felügyelő szerv létrehozásáról is.
+b)
 
 (7) A közhasznú jogállás megszerzését követően a szervezeti és működési szabályzatnak a (6) bekezdés a) pontjával összefüggő valamennyi módosítását a rektor küldi meg az oktatási hivatalnak. Az alapító okiratnak a (6) bekezdés b) pontjával összefüggő módosításai akkor lépnek hatályba, ha az abban foglaltakat az oktatási hivatal végleges határozatával nyilvántartásba vette.
