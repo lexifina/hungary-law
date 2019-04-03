@@ -1,4 +1,4 @@
-## 10–11. §[^1]
+## 10–11. §[^3]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) E rendelet 1. alcíme, 13. §-a és 1. melléklete az e rendelet kihirdetését követő 8. napon lép hatályba.
 
-[^1]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
