@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-32-20-0
 | 2017-10-01 | 2004-32-20-0M.65 | 18/2017. (VIII. 31.) EMMI rendelet |
 | 2018-02-14 | 2004-32-20-0M.66 | 8/2018. (II. 13.) EMMI rendelet |
 | 2018-10-15 | 2004-32-20-0M.67 | 53/2006. (XII. 28.) EüM rendelet |
+| 2019-04-03 | 2004-32-20-0M.68 | 38/2007. (VII. 25.) EüM rendelet |
