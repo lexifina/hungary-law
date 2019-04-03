@@ -1,0 +1,1 @@
+A Kormány – összhangban az Ős-Dráva Program keretében turistaházak építéséhez szükséges források biztosításáról szóló 1838/2016. (XII. 23.) Korm. határozatban (a továbbiakban: Korm. határozat) foglalt döntésével, azt kiegészítve –
