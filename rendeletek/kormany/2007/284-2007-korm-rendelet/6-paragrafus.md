@@ -10,6 +10,8 @@ d) zajtól nem védendő környezetben – gazdasági területek kivételével �
 
 e) gazdasági területek zajtól nem védendő részén nappal (6:00–22:00) 55 dB, éjjel (6:00–22:00) 45 dB.
 
+(1a)[^12] Ha egy környezeti zajforrásra ugyanarra a napszakra és ugyanarra a védendő épületre vagy területre többféle zajkibocsátási határértéket szükséges megállapítani, a zajforrás hatásterületét abból a zajkibocsátási határérték megállapításának alapjául szolgáló zajterhelési határértékből kiindulva kell megállapítani, amely alapján a hatásterület nagysága nagyobb.
+
 (2) A környezeti zajforrás hatásterületének megállapítása során
 
 a) beépítetlen területen a számítást, illetve a mérést másfél méteres magasságra kell elvégezni,
@@ -18,6 +20,7 @@ b) beépített területen a számítást, illetve a mérést arra a magasságra 
 
 (3) A környezeti zajforrás hatásterületének lehatárolásakor azt a napszakot kell figyelembe venni, amely alapján a legnagyobb hatásterület mérhető, illetve számítható.
 
-(4)[^12] Azoknál a környezeti zajforrásoknál, amelyeknél a környezeti zajforrás üzemeltetője a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló miniszteri rendelet alapján felmentést kaphatnak a környezetvédelmi hatóság által határozatban megállapított zajkibocsátási határérték betartása alól, hatásterületnek a felmentéssel nem érintett napokra vonatkozó zajterhelési határérték alapján megállapított hatásterületet kell tekinteni.
+(4)[^13] Azoknál a környezeti zajforrásoknál, amelyeknél a környezeti zajforrás üzemeltetője a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló miniszteri rendelet alapján felmentést kaphatnak a környezetvédelmi hatóság által határozatban megállapított zajkibocsátási határérték betartása alól, hatásterületnek a felmentéssel nem érintett napokra vonatkozó zajterhelési határérték alapján megállapított hatásterületet kell tekinteni.
 
-[^12]: A 6. § (4) bekezdését a 427/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^12]: A 6. § (1a) bekezdését a 61/2019. (III. 26.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 6. § (4) bekezdését a 427/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.

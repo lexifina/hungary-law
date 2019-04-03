@@ -10,18 +10,28 @@ b) rezgésterhelés okozója részére előírja a rezgésterhelési határért�
 
 (4) Ha a kérelmező a zajkibocsátási határérték megállapítására vonatkozó – az (1) bekezdés szerinti – kérelmét visszavonja, a környezetvédelmi hatóság a határérték megállapítására vonatkozó eljárást hivatalból folytatja.
 
-(5)[^19] Az üzemi vagy szabadidős zajforrás üzemeltetője
+(5)[^20] Az üzemi vagy szabadidős zajforrás üzemeltetője
 
 a) a zajforrás területén és hatásterületén tervezett vagy bekövetkezett minden olyan változást, amely határérték-túllépést okozhat, a változás bekövetkezését követő 30 napon belül,
 
-b) a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló 27/2008. (XII. 3.) KvVM–EüM együttes rendelet [a továbbiakban: 27/2008. (XII. 3.) KvVM–EüM együttes rendelet] 2/A. § (3) bekezdése szerinti felmentés alkalmazásának szándékát a felmentéssel érintett rendezvény első napja előtt legalább 15 nappal
+b)[^21] a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló 27/2008. (XII. 3.) KvVM–EüM együttes rendelet [a továbbiakban: 27/2008. (XII. 3.) KvVM–EüM együttes rendelet] 2/B. § (1) bekezdése szerinti felmentés alkalmazásának szándékát a felmentéssel érintett rendezvény első napja előtt legalább 20 nappal
 
 a zajkibocsátási határértékek megállapításának, valamint a zaj- és rezgéskibocsátás ellenőrzésének módjáról szóló miniszteri rendeletben meghatározott tartalommal köteles bejelenteni a környezetvédelmi hatóságnak.
 
-(5a)[^20] A környezetvédelmi hatóság az (5) bekezdés a) pontja szerinti bejelentés alapján, amennyiben szükséges, a meglévő zajkibocsátási határértéket tartalmazó határozatot módosítja vagy visszavonja, illetve új kibocsátási határértéket állapít meg.
+(5a)[^22] A környezetvédelmi hatóság az (5) bekezdés a) pontja szerinti bejelentés alapján, amennyiben szükséges, a meglévő zajkibocsátási határértéket tartalmazó határozatot módosítja vagy visszavonja, illetve új kibocsátási határértéket állapít meg.
 
-(6)[^21] Amennyiben környezeti zajt előidéző üzemi vagy szabadidős zajforrásnak minősülő tevékenység végzése bejelentés- vagy engedélyköteles, a hatóság, amely a bejelentéssel kapcsolatosan vagy az engedély kiadására hatáskörrel és illetékességgel rendelkezik, a tevékenység megszűnéséről történő értesülést követően haladéktalanul értesíti a környezetvédelmi hatóságot.
+(5b)[^23] Ha a környezetvédelmi hatóság az (5) bekezdés b) pontja szerinti bejelentés alapján azt állapítja meg, hogy a bejelentő a felmentés igénybevételére a bejelentésben szereplő feltételekkel nem jogosult, hivatalból indított eljárás keretében a rendezvény megtartását megtiltja.
 
-[^19]: A 11. § (5) bekezdése a 427/2015. (XII. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
-[^20]: A 11. § (5a) bekezdését a 427/2015. (XII. 23.) Korm. rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
-[^21]: A 11. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 93. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+(5c)[^24] Az (5b) bekezdés szerinti eljárást a környezetvédelmi hatóság automatikus döntéshozatali eljárás keretében folytatja le.
+
+(5d)[^25] A környezetvédelmi hatóság az (5b) bekezdés szerint megtiltott rendezvény tervezett időpontjában a helyszínen hatósági ellenőrzést tart.
+
+(6)[^26] Amennyiben környezeti zajt előidéző üzemi vagy szabadidős zajforrásnak minősülő tevékenység végzése bejelentés- vagy engedélyköteles, a hatóság, amely a bejelentéssel kapcsolatosan vagy az engedély kiadására hatáskörrel és illetékességgel rendelkezik, a tevékenység megszűnéséről történő értesülést követően haladéktalanul értesíti a környezetvédelmi hatóságot.
+
+[^20]: A 11. § (5) bekezdése a 427/2015. (XII. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^21]: A 11. § (5) bekezdés b) pontja a 61/2019. (III. 26.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^22]: A 11. § (5a) bekezdését a 427/2015. (XII. 23.) Korm. rendelet 5. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^23]: A 11. § (5b) bekezdését a 61/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 11. § (5c) bekezdését a 61/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
+[^25]: A 11. § (5d) bekezdését a 61/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
+[^26]: A 11. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 93. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

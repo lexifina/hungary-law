@@ -78,9 +78,9 @@ w)[^5] közterület: a közhasználatra szolgáló minden olyan állami vagy ön
 
 x)[^6] kritikus pont: a zajforrás hatásterületének az a megítélési pontja, ahol a vizsgált zajforrás kibocsátásától eredő megítélési szint a legnagyobb;
 
-y)[^7] nemzetközi licenccel rendelkező versenypálya: olyan motor- vagy autóversenyek céljára épített pálya és az ehhez tartozó létesítmények, amelyeken a Nemzetközi Motorkerékpáros Szövetség vagy az Európai Motorkerékpáros Unió által kiadott licenc alapján gyorsasági motorkerékpár-verseny vagy a Nemzetközi Automobil Szövetség által kiadott licenc alapján gyorsasági autóverseny rendezhető.
+y)[^7] nemzetközi licenccel rendelkező versenypálya: olyan motor- vagy autóversenyek céljára épített pálya és az ehhez tartozó létesítmények, amelyeken a Nemzetközi Automobil Szövetség (Fédération Internationale de l'Automobile) által kiadott licenc alapján gyorsasági autóverseny vagy a Nemzetközi Motorkerékpáros Szövetség (Fédération Internationale de Motocyclisme) vagy annak európai tagszervezete (Fédération Internationale de Motocyclisme Europe) által kiadott licenc alapján gyorsasági motorkerékpár-verseny rendezhető.
 
 [^4]: A 2. § v) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazásár lásd e módosító rendelet 11. §-át.
 [^5]: A 2. § w) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
 [^6]: A 2. § x) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
-[^7]: A 2. § y) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^7]: A 2. § y) pontját a 427/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 61/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-6. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^53]
+6. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^59]
 
 ## Környezeti rezgésforrás mérési jegyzőkönyvének tartalmi követelményei
 
@@ -36,4 +36,4 @@ A rezgésmérést dokumentáló jegyzőkönyvnek legalább a következő adatoka
 
 16. a mérésért felelős személy nevét és aláírását.
 
-[^53]: A 6. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 201. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^59]: A 6. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 201. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
