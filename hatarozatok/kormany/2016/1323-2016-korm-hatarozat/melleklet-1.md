@@ -1,18 +1,8 @@
 ## 1. A Kormány
 
-## a) jóváhagyja
+## a)[^1]
 
-## aa) a KEHOP-1.4.0-15-2016-00011 azonosító számú, „VTT Felső-Tisza árvízvédelmi rendszerének kiépítése, Tisza-Túr tározó” című és
-
-## ab)[^1]
-
-## nagyprojekt-javaslatokat (a továbbiakban együtt: nagyprojekt-javaslatok) az 1. melléklet szerint,
-
-## b) felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a nagyprojekt-javaslatok támogatására irányuló kérelmek Európai Bizottsághoz történő benyújtásáról,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: a kivitelezésre vonatkozó szerződés – legalább hatályának feltétel bekövetkeztével történő beállása kikötésével – történő megkötését követően, legkésőbb 2017. június 30-áig
+## b)[^2]
 
 ## c) a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 5. melléklet 3.12.6. pontja alapján hozzájárul
 
@@ -24,7 +14,7 @@
 
 ## cd) a KEHOP-1.4.0-15-2016-00011 azonosító számú, „VTT Felső-Tisza árvízvédelmi rendszerének kiépítése Tisza-Túr tározó című,
 
-## ce)[^2]
+## ce)[^3]
 
 ## cf) a KEHOP-1.4.0-15-2016-00014 azonosító számú, „VTT Hullámtér rendezése a Közép-Tiszán” című,
 
@@ -42,19 +32,12 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3–4.[^3]
+## 3–4.[^4]
 
-1. melléklet az 1323/2016. (VII. 1.) Korm. határozathoz[^4]
+1. melléklet az 1323/2016. (VII. 1.) Korm. határozathoz[^5]
 
-|  | A | B | C | D | E |
-
-| 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (Ft) | Projekt rövid bemutatása |
-
-| 2. | KEHOP-1.4.0-15- 2016-00011 | VTT Felső-Tisza árvízvédelmi rendszerének kiépítése, Tisza-Túr tározó | az Országos Vízügyi Főigazgatóság és a Felső-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 27 296 659 117 | A Tisza-Túr tározó projekt célja a szükséges árvízvédelmi biztonság megteremtése a Felső-Tisza országhatárhoz közeli szakaszán kialakított, hozzávetőlegesen 45 millió köbméter árapasztó kapacitású tározó létesítésével, összhangban a Vásárhelyi Terv továbbfejlesztése (a továbbiakban: VTT) komplex program célkitűzéseivel. A projekt megvalósulása több mint 130 ezer ember nagyobb árvízi biztonságát szolgálja, míg a közvetetten érintett lakosszám 210 ezer fő. |
-
-| 3. |  |  |  |  |  |
-
-[^1]: Az 1. pont a) alpont ab) alpontját az 1124/2018. (III. 19.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
-[^2]: Az 1. pont c) alpont ce) alpontját az 1124/2018. (III. 19.) Korm. határozat 4. pont b) alpontja hatályon kívül helyezte.
-[^3]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1124/2018. (III. 19.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontját az 1180/2019. (IV. 3.) Korm. határozat 5. pont a) alpontja hatályon kívül helyezte.
+[^2]: Az 1. pont b) alpontját az 1180/2019. (IV. 3.) Korm. határozat 5. pont b) alpontja hatályon kívül helyezte.
+[^3]: Az 1. pont c) alpont ce) alpontját az 1124/2018. (III. 19.) Korm. határozat 4. pont b) alpontja hatályon kívül helyezte.
+[^4]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. mellékletet az 1180/2019. (IV. 3.) Korm. határozat 5. pont c) alpontja hatályon kívül helyezte.
