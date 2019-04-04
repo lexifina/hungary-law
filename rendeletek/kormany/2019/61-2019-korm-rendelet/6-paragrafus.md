@@ -1,3 +1,3 @@
-## 5. § A 284/2007. (X. 29.) Korm. rendelet 17. §-a a következő (2) bekezdéssel egészül ki:
+## 5. §[^5]
 
-## „(2) Ha a környezetvédelmi hatóság azt állapítja meg, hogy a nemzetközi licenccel rendelkező versenypálya által okozott zaj az éves adatszolgáltatás alapján a zajkibocsátási határértéket naptári évenként legalább 20 alkalommal túllépi, a zajforrás üzemeltetőjét környezetvédelmi felülvizsgálat végzésére kötelezi.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

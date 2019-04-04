@@ -1,4 +1,4 @@
-## 10. §[^8]
+## 10. §[^16]
 
 11. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 8. § (1) bekezdése és az 1. melléklet 2020. január 1-jén lép hatályba.
 
-[^8]: A 10. § a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
+[^16]: A 10. § a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.

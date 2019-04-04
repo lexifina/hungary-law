@@ -1,18 +1,20 @@
 ## 9. § A 284/2007. (X. 29.) Korm. rendelet
 
-a) 11. § (5) bekezdés b) pontjában a „2/A. § (3) bekezdése” szövegrész helyébe a „2/B. § (1) bekezdése” szöveg, a „legalább 15” szövegrész helyébe a „legalább 20” szöveg,
+a)[^10]
 
-b) 17. § (1) bekezdésében az „üzemeltetőjét intézkedési” szövegrész helyébe az „üzemeltetőjét – a (2) bekezdésben foglalt kivétellel – intézkedési” szöveg,
+b)[^11]
 
-c)[^4]
+c)[^12]
 
-d)[^5]
+d)[^13]
 
-e)[^6]
+e)[^14]
 
-f)[^7]
+f)[^15]
 
-[^4]: A 9. § c) pontja a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
-[^5]: A 9. § d) pontja a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
-[^6]: A 9. § e) pontja a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
-[^7]: A 9. § f) pontja a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
+[^10]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § c) pontja a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
+[^13]: A 9. § d) pontja a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
+[^14]: A 9. § e) pontja a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
+[^15]: A 9. § f) pontja a 11. § (2) bekezdése alapján 2019. április 11-én lép hatályba.
