@@ -1,1 +1,3 @@
-## 9. § A 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 1. melléklet 1. pontjában a „2. § (3)–(4) bekezdésben” szövegrész helyébe a „2. § (3)–(4) bekezdésében és a 2. pontban” szöveg lép.
+## 9. §[^9]
+
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

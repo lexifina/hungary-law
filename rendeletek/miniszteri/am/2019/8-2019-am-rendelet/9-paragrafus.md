@@ -1,3 +1,3 @@
-## 8. § A 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 10. §-a helyébe a következő rendelkezés lép:
+## 8. §[^8]
 
-## „10. § Arra a nemzetközi licenccel rendelkező versenypályára, amelyre a környezetvédelmi hatóság a zajkibocsátási határértékek megállapításának, valamint a zaj- és rezgéskibocsátás ellenőrzésének módjáról szóló 93/2007. (XII. 18.) KvVM rendelet, valamint a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló 27/2008. (XII. 3.) KvVM–EüM együttes rendelet módosításáról szóló 8/2019. (III. 26.) AM rendelet hatálybalépését megelőzően állapított meg zajkibocsátási határértéket, a 2/A. § (4) bekezdés alkalmazása esetén a zajkibocsátási határértéket megállapító határozatban szereplő zajkibocsátási határértéket kell figyelembe venni.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
