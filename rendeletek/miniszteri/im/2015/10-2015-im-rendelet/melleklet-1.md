@@ -2,7 +2,7 @@
 
 1. melléklet a 10/2015. (V. 29.) IM rendelethez[^16]
 
-| X. Igazságügyi Minisztérium 2018. évi fejezeti kezelésű előirányzatainak feladatterve |
+| X. Igazságügyi Minisztérium 2019. évi fejezeti kezelésű előirányzatainak feladatterve |
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -16,11 +16,11 @@
 
 | 3a | 353740 |  |  | A jogászképzés színvonalának emelését célzó programok támogatása | Az előirányzatból közpolitikai céllal összefüggő jogtudományi kutatásokhoz és jogtudományi tanulmányi tehetséggondozási rendszer kialakításához, valamint tartós működtetéséhez nyújtható támogatás, így különösen a) az egyes vidéki egyetemeken, nappali tagozaton tanuló, az osztatlan jogász mesterszakon hallgatói jogviszonnyal rendelkezők kiemelkedő tanulmányi eredményéhez és a tudományos munkában történő aktív közreműködéséhez; b) állam- és jogtudományi témakörben folytatott tudományos munka, oktatási, kutatási tevékenység végzéséhez. Az előirányzat terhére kifizethetőek a felhasználással összefüggésben a minisztériumnál, illetve az egyetemeknél felmerülő egyes kiadások is. | költségvetési szerv, államháztartáson kívüli jogi személy vagy jogi személyiség nélküli szervezet | egyedi döntéssel | előleg biztosítható | egy összegben vagy részletekben | – | az Ávr. 84. §-a szerint | – | – | – |
 
-| 4 | 349595 |  |  | IM társadalom- és szakpolitikai célkitűzéseinek megvalósítása | Az előirányzat az igazságügyi alrendszerek átvilágítására, hazai- és külföldi joggyakorlat elemzésére, az adatok feldolgozására biztosít fedezetet, továbbá a kiemelt jogalkotási feladatok elvégzésnek támogatását, megalapozását szolgálja. | költségvetési szerv, önkormányzat, gazdasági társaság, civil szervezet, közalapítvány, egyházi jogi személy, társulás, egyéni vállalkozónak nem minősülő természetes személy, határon túli személy, határon túli egyesület, szervezet, intézmény | egyedi döntéssel | előleg biztosítható | egy összegben vagy részletekben | – | az Ávr. 84. § (2) bekez- dése szerint |  |  |  |
+| 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 5 | 349151 |  |  | Igazságszolgáltatási szervek részvétele a jogszabály- előkészítésben | Az előirányzat a minisztérium közfeladatai ellátásához a jogszabályalkotás során az igazságszolgáltatásban tetemes tapasztalatot szerzett szakemberek időszaki bevonásával felmerülő kiadások fedezetére szolgál. A nevezettek kirendelésére vonatkozó szabályok alapján történő folyamatos feladatellátás biztosításához a foglalkoztatásukhoz szükséges források. | a minisztériumba kirendelt személyek |  |  | IM Igazgatás részére előirányzat átcsoportosí- tással | – |  |  |  |  |
 
-| 6 | 351484 |  |  | 2016. évi Fédération Internationale pour le Droit Européen kongresszus előkészítésének támogatása | Az előirányzat a 2016. évi Fédération Internationale pour le Droit Européen kongresszus budapesti megrendezésének lebonyolításával kapcsolatos 2015. évi kiadásainak Pázmány Péter Katolikus Egyetem részére történő biztosítására szolgál. | Pázmány Péter Katolikus Egyetem | egyedi döntéssel | előleg biztosítható | egy összegben vagy részletekben |  | az Ávr. 84. § (2) bekez- dése szerint |  |  |  |
+| 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 7 | 296768 |  |  | Igazságügyi regionális együttműködés | Az előirányzat biztosítja az igazságügyi regionális kapcsolatok fenntartásához és fejlesztéséhez társuló kiadások finanszírozását | gazdálkodó szervezet, civil szervezet, közalapítvány, természetes személy, államháztartáson belüli szervezet, államháztartáson kívüli egyéb jogi személy vagy jogi személyiség nélküli szervezet | egyedi döntéssel | előleg biztosítható | egy összegben vagy részletekben | támogatói okiratban vagy támogatási szerződésben foglaltak szerint | az Ávr. 84. § (2) bekez- dése szerint | – | – | – |
 
@@ -36,7 +36,7 @@
 
 | 12a | 351795 |  |  | Magán- és egyéb jogi személyek kártérítése | Az előirányzat az igazságügyi miniszter feladatkörébe tartozó, az Emberi Jogok Európai Bírósága által hozott ítéletek, illetve határozatok alapján az államot terhelő fizetési kötelezettségek megtérítésével kapcsolatos kifizetések, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény szerinti alapvető jogokat sértő elhelyezési körülmények miatti kártalanítás, illetve a kártalanításból történő – törvény szerinti – kielégítések megfizetésére, valamint az ezekkel összefüggő banki, kincstári díjak, jutalékok, költségek és postaköltség fedezetére szolgál. | természetes személyek, jogi személyek | - | - | közvetlen kifizetés | – | – | – | – | – |
 
-| 12b |  |  |  |
+| 12b | 375928 |  |  | A közigazgatási bírósági szervezet létrehozásának és működésének előkészítésével kapcsolatos kiadások támogatása | Az előirányzat a közigazgatási bírósági szervezetrendszer létrehozásának és működésének előkészítésével kapcsolatosan felmerülő kiadások támogatására szolgál, így különösen a) az Esztergom belterület 16236 helyrajzi számú ingatlanon megvalósuló infrastruktúra fejlesztés előkészítésével és megvalósításával, valamint a Déli Kanonoksor épületének közcélú hasznosítás érdekében történő felújításával kapcsolatos kiadások, b) a közigazgatási bíráskodás önálló szervezeti keretek közötti működtetését elősegítő informatikai beruházásokkal összefüggő kiadások, valamint c) a regionális bírósági szervezetrendszer elhelyezésével, működtetésével összefüggő költségek kifizetésére fordítható. | költségvetési szerv, gazdálkodó szervezet, államháztartáson belüli szervezet, államháztartáson kívüli jogi személy | egyedi döntéssel | előleg biztosítható | előirányzat- átcsoportosítással vagy szerződésben foglaltak szerint | – | az Ávr. 84. § (2) bekez- dése szerint | – | – | – |
 
 | 12c |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -44,7 +44,7 @@
 
 | 13 | 10025 |  | Fejezeti általános tartalék | Az előirányzat az előre nem tervezett, de az év közben szükségessé váló feladatok megoldására, eseti jellegű, elháríthatatlan igények finanszírozására szolgál. | fejezeten belüli költségvetési szerv és fejezeti kezelésű előirányzat |  | – | előirányzat átcsoporto- sítás | – | – |  |  |  |
 
-| 14 | 352062 |  | Fejezeti stabilitási tartalék | Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 23/A. § (2) bekezdése szerinti kormányhatározat által meghatározott cél. | Az Ávr. 23/A. § (2) bekezdése szerinti kormányhatározat által meghatározott kedvezményezettek. | egyedi döntéssel | előleg biztosítható | egy összegben vagy részletekben | – | az Ávr. 84. § (2) bekezdése szerint | – | – | – |
+| 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 [^15]: A 15. §-t a 36/2015. (XI. 19.) IM rendelet 2. §-a iktatta be.
-[^16]: Az 1. melléklet a 36/2015. (XI. 19.) IM rendelet 3. §-a, a 4/2016. (III. 3.) IM rendelet 1–2. §-a, a 20/2016. (IX. 20.) IM rendelet 1. §-a, a 26/2016. (XII. 27.) IM rendelet 21. §-a, a 8/2018. (VI. 4.) IM rendelet 9–10. §-a, a 28/2018. (XI. 15.) IM rendelet 2. §-a szerint módosított szöveg.
+[^16]: Az 1. melléklet a 36/2015. (XI. 19.) IM rendelet 3. §-a, a 4/2016. (III. 3.) IM rendelet 1–2. §-a, a 20/2016. (IX. 20.) IM rendelet 1. §-a, a 26/2016. (XII. 27.) IM rendelet 21. §-a, a 8/2018. (VI. 4.) IM rendelet 9–10. §-a, a 28/2018. (XI. 15.) IM rendelet 2. §-a, a 9/2019. (IV. 4.) IM rendelet 1–2. §-a szerint módosított szöveg.
