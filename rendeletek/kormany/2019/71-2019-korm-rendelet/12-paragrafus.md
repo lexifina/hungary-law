@@ -1,0 +1,5 @@
+12. § (1) A 7. § (3)–(5) bekezdését a hivatásos állomány tagja esetében azzal az eltéréssel kell alkalmazni, hogy áthelyezés alatt a hivatásos állomány tagjának kormányzati szolgálati vagy közszolgálati jogviszonyba történő áthelyezését, valamint közigazgatási szervnél közszolgálati tisztviselővé történő kinevezését kell érteni.
+
+(2) A 10. § (3) bekezdése alapján tartalékállományba helyezett hivatásos állomány tagjára a 7. § (3) és (5) bekezdését nem kell alkalmazni. A Hszt. 93. § (1) bekezdése alapján tartalékállományba helyezését kérő hivatásos állomány tagjának áthelyezéséhez vagy közigazgatási szervnél közszolgálati tisztviselővé történő kinevezéséhez történő előzetes hozzájárulása esetén a hivatásos szolgálati jogviszonyát a Hszt. 80. § (2) bekezdés e) pontja alapján kell megszüntetni.
+
+(3) A tartalékállományba helyezett hivatásos állomány tagjára – a 10–11. §-ban, valamint az (1) és (2) bekezdésben foglalt eltérésekkel – megfelelően alkalmazni kell a 4. §-ban és a 6–8. §-ban foglaltakat.
