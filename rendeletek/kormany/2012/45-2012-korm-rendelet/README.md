@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-45-20-2
 | 2016-09-01 | 2012-45-20-22.16 | 227/2016. (VII. 29.) Korm. rendelet |
 | 2017-01-01 | 2012-45-20-22.17 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2012-45-20-22.18 | 394/2017. (XII. 13.) Korm. rendelet |
+| 2019-04-05 | 2012-45-20-22.19 | 71/2019. (IV. 4.) Korm. rendelet |

@@ -1,3 +1,5 @@
+## 26/D. §
+
 ## VII. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK

@@ -1,4 +1,4 @@
-## 14. §[^15]
+## 14. §[^16]
 
 ## 4. Közszolgálati statisztikai adatgyűjtés
 
@@ -16,4 +16,4 @@
 
 (7) A közigazgatási szerv a tárgyév január 1-jei állapotnak megfelelően legkésőbb tárgyév március 31-éig köteles évente az 5. mellékletben meghatározott adatokat szolgáltatni.
 
-[^15]: A 14. §-t a 227/2016. (VII. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^16]: A 14. §-t a 227/2016. (VII. 29.) Korm. rendelet 7. §-a hatályon kívül helyezte.
