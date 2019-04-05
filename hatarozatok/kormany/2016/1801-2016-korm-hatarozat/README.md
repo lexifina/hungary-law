@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1801-30
 | 2017-06-02 | 2016-1801-30-22.3 | 1251/2017. (V. 5.) Korm. határozat |
 | 2017-06-08 | 2016-1801-30-22.4 | 1251/2017. (V. 5.) Korm. határozat |
 | 2017-12-22 | 2016-1801-30-22.5 | 1251/2017. (V. 5.) Korm. határozat |
+| 2019-04-05 | 2016-1801-30-22.6 | 1251/2017. (V. 5.) Korm. határozat |

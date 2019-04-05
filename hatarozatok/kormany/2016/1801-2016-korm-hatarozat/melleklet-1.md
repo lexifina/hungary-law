@@ -30,8 +30,6 @@
 
 | Multifunkcionális sportcsarnok Kisvárdán | a kisvárdai multifunkcionális sportcsarnok építésének támogatása | 3 500 |
 
-| Hévízi kézilabda fejlesztése | a hévízi kézilabda fejlesztését szolgáló támogatás | 500 |
-
 | Rekortán pálya fejlesztési program | új országos program keretében kültéri pályák építése, és meglévő kültéri pályák felújítása | 3 000 |
 
 | Sportcsarnok fejlesztés Bicskén | a bicskei Sportcsarnok fejlesztésének támogatása | 900 |
@@ -88,4 +86,4 @@
 
 | Népliget rekonstrukciója | Fradiváros I. ütem | 10 000 | Ferencvárosi Torna Club |
 
-[^1]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja, a 2014/2017. (XII. 22.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja, a 2014/2017. (XII. 22.) Korm. határozat 8. pontja, az 1189/2019. (IV. 5.) Korm. határozat 10. pontja szerint módosított szöveg.
