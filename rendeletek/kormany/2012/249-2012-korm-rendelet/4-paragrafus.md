@@ -1,3 +1,5 @@
+## 3. §[^8]
+
 ## IV. Céljuttatás
 
 4. § (1) A közszolgálati tisztviselő, szakmai vezető számára a Kttv. 154. § (2) bekezdésben foglaltak szerint állapítható meg célfeladat, illetve céljuttatás.
@@ -6,8 +8,9 @@
 
 (3) A célfeladat nem lehet azonos a teljesítményértékelés során a közszolgálati tisztviselő, részére megállapított feladattal.
 
-(4)[^14] A céljuttatással kapcsolatos adatokról (a célfeladat megnevezéséről, a céljuttatás kifizetéséről, annak összegéről, a közszolgálati tisztviselők besorolásáról, a szervezet megnevezéséről, amennyiben a céljuttatás uniós forrásból kerül kifizetésre, akkor a projekt elnevezéséről és számáról) a hivatali szervezet vezetője a tárgynegyedévet követő hónap 15. napjáig tájékoztatja a közszolgálati életpálya kidolgozásáért felelős minisztert.
+(4)[^9] A céljuttatással kapcsolatos adatokról (a célfeladat megnevezéséről, a céljuttatás kifizetéséről, annak összegéről, a közszolgálati tisztviselők besorolásáról, a szervezet megnevezéséről, amennyiben a céljuttatás uniós forrásból kerül kifizetésre, akkor a projekt elnevezéséről és számáról) a hivatali szervezet vezetője a tárgynegyedévet követő hónap 15. napjáig tájékoztatja a közszolgálati életpálya kidolgozásáért felelős minisztert.
 
 (5) A Kttv. 154. § (3) bekezdése szerint megállapított célfaladat, illetve céljuttatás esetében a céljuttatás fedezetét a célfeladatot tűző államigazgatási szerv költségvetéséből kell biztosítani.
 
-[^14]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 688. §-a szerint módosított szöveg.
+[^8]: A 3. §-t a 70/2019. (IV. 4.) Korm. rendelet 27. § d) pontja hatályon kívül helyezte.
+[^9]: A 4. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 688. §-a szerint módosított szöveg.

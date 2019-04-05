@@ -1,5 +1,5 @@
-## 7. §[^15]
+## 7. §[^10]
 
 ## VII. Kegyeleti juttatás
 
-[^15]: A 7. §-t a 415/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^10]: A 7. §-t a 415/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdés a) pontja hatályon kívül helyezte.
