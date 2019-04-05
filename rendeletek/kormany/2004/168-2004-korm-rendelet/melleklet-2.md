@@ -2,94 +2,88 @@
 
 ## A termék megnevezése
 
-## Kommunikációs eszközök és szolgáltatások
+## 1. Kommunikációs eszközök és szolgáltatások
 
-## – Beszédcélú kapcsolók, készülékek és kapcsolódó szolgáltatások
+## 1.1. Beszédcélú kapcsolók, készülékek és kapcsolódó szolgáltatások
 
-## – Aktív és passzív hálózati elemek
+## 1.2. Aktív és passzív hálózati elemek
 
-## – Mobil kommunikációs eszközök és szolgáltatások
+## 1.3. Mobil kommunikációs eszközök és szolgáltatások
 
-## – Zártcélú mobil kommunikációs eszközök és szolgáltatások
+## 1.4. Zártcélú mobil kommunikációs eszközök és szolgáltatások
 
-## – Kommunikációs eszközökhöz kapcsolódó szolgáltatások
+## 1.5. Kommunikációs eszközökhöz kapcsolódó szolgáltatások
 
-## Információtechnológiai rendszerek és szolgáltatások
+## 2. Információtechnológiai rendszerek és szolgáltatások
 
-## – Szoftverrendszerek és elemeik
+## 2.1. Szoftverrendszerek és elemeik
 
-## – Hardverrendszerek és elemeik
+## 2.2. Hardverrendszerek és elemeik
 
-## – Digitális vizuáltechnikai eszközök
+## 2.3. Digitális vizuáltechnikai eszközök
 
-## – Szoftverekhez kapcsolódó szolgáltatások
+## 2.4. Szoftverekhez kapcsolódó szolgáltatások
 
-## – Hardverrendszerekhez, kiegészítőikhez kapcsolódó szolgáltatások
+## 2.5. Hardverrendszerekhez, kiegészítőikhez kapcsolódó szolgáltatások
 
-## – Digitális vizuáltechnikai eszközökhöz kapcsolódó szolgáltatások
+## 2.6. Digitális vizuáltechnikai eszközökhöz kapcsolódó szolgáltatások
 
-## Irodatechnikai berendezések és szolgáltatások
+## 3. Irodatechnikai berendezések és szolgáltatások
 
-## – Nyomtatók
+## 3.1. Nyomtatók
 
-## – Másolók és sokszorosítók
+## 3.2. Másolók és sokszorosítók
 
-## –[^97]
+## 3.3. Irodatechnikai termékekhez kapcsolódó szolgáltatások
 
-## – Irodatechnikai termékekhez kapcsolódó szolgáltatások
+## 4. Irodabútorok
 
-## Irodabútorok
+## 4.1. Irodai asztalok
 
-## – Irodai asztalok
+## 4.2. Irodai szekrények, tároló bútorok
 
-## – Irodai szekrények, tároló bútorok
+## 4.3. Irodai ülőbútorok
 
-## – Irodai ülőbútorok
+## 4.4. Irodabútorokhoz kapcsolódó szolgáltatások
 
-## – Irodabútorokhoz kapcsolódó szolgáltatások
+## 5. Papíripari termékek és irodaszerek
 
-## Papíripari termékek és irodaszerek
+## 5.1. Papírok
 
-## – Papírok
+## 5.2. Papírtermékek
 
-## – Papírtermékek
+## 5.3. Számítógép-kiírópapírok
 
-## – Számítógép-kiírópapírok
+## 5.4. Irodaszerek és írószerek
 
-## – Irodaszerek és írószerek
+## 5.5. Papíripari termékekhez kapcsolódó szolgáltatások
 
-## – Papíripari termékekhez kapcsolódó szolgáltatások
+## 5.6. Belföldi újság és folyóiratok
 
-## Gépjárművek
+## 6. Gépjárművek
 
-## – Személyszállító gépjárművek
+## 6.1. Személyszállító gépjárművek
 
-## – Haszongépjárművek
+## 6.2. Haszongépjárművek
 
-## – Gépjármű-flottaüzemeltetési szolgáltatások
+## 6.3. Gépjármű-flottaüzemeltetési szolgáltatások
 
-## –[^98] Új gépjárművekhez kapcsolódó szolgáltatások
+## 6.4. Új gépjárművekhez kapcsolódó szolgáltatások
 
-## –[^99]
+## 7. Gépjármű-üzemanyagok
 
-## Gépjármű-üzemanyagok
+## 7.1. Gépjármű-üzemanyag tankautós kiszállítással (nagykereskedelem)
 
-## – Gépjármű-üzemanyag tankautós kiszállítással (nagykereskedelem)
+## 7.2. Gépjármű-üzemanyag és üzemanyagkártya töltőállomási kiszolgálással (kiskereskedelem)
 
-## – Gépjármű-üzemanyag és üzemanyagkártya töltőállomási kiszolgálással (kiskereskedelem)
+## 8. Utazásszervezések
 
-## Utazásszervezések
+## 8.1. Nemzetközi utazásszervezések
 
-## – Nemzetközi utazásszervezések
+## 9. Elektronikus közbeszerzési szolgáltatások
 
-## Elektronikus közbeszerzési szolgáltatások[^100]
+## 9.1. Elektronikus árlejtés szolgáltatás
 
-## – elektronikus árlejtés szolgáltatás
+2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^97]
 
-2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^101]
-
-[^97]: Az 1. számú melléklet „Irodatechnikai berendezések és szolgáltatások” termékkör harmadik franciabekezdését a 33/2012. (III. 7.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
-[^98]: Az 1. számú melléklet „Gépjárművek” termékkör negyedik franciabekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^99]: Az 1. számú melléklet „Gépjárművek” termékkörének ötödik franciabekezdését a 360/2007. (XII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 33/2012. (III. 7.) Korm. rendelet 11. § b) pontja.
-[^100]: Az 1. számú melléklet „Elektronikus közbeszerzési szolgáltatások” termékkörét a 257/2007. (X. 4.) Korm. rendelet 27. § (2) bekezdésének b) pontja iktatta be. E módosító rendelet 27. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napja után megkezdett közbeszerzésekre [Kbt. 35. § (2) bekezdés], tervpályázatokra, illetőleg ezekkel kapcsolatban a kérelmező által feladott, illetőleg megküldött hirdetményekre kell alkalmazni.
-[^101]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+[^97]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
