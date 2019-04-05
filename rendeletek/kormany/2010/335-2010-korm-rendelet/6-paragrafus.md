@@ -1,3 +1,0 @@
-6. § (1) Az önkiszolgáló felületen a foglalkoztatottak megtekinthetik saját adataikat, azokhoz dokumentumokat csatolhatnak, intézkedéseket kezdeményezhetnek, megteszik a távolléteikkel és a képzéseikkel kapcsolatos kezdeményezéseket, illetve ellátják a mindezekkel kapcsolatos feladataikat. Az egyes szervezeti egységek vezetői az irányításuk alá tartozó foglalkoztatottak adataiba betekinthetnek, elláthatnak egyes munkáltatói feladatokat (utasításadás, kezdeményezések jóváhagyása).
-
-(2) Az ügyfélszolgálat a felhasználók számára nyújt segítséget, továbbá lehetőséget biztosít a felhasználóknak a KSzSzR-t érintő bejelentések, igények megtételére.
