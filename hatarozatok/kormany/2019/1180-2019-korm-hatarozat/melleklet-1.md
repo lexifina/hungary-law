@@ -22,14 +22,11 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:52 mezőjében a „27,30” szöveg helyébe a „35,90” szöveg lép.
+## 4.[^1]
 
-## 5. Hatályát veszti a KEHOP-1.4.0-15-2016-00011 azonosító számú („VTT Felső-Tisza árvízvédelmi rendszerének kiépítése, Tisza–Túr tározó” című) és a KEHOP-1.4.0-15-2016-00013 azonosító számú („VTT Közép-tiszai tározó kiépítése, Inérháti tározó”) című nagyprojekt-javaslatok jóváhagyásáról, a Környezeti és Energiahatékonysági Operatív Program 1. prioritása keretében megvalósuló egyes árvízvédelmi és vízgazdálkodási célú projektek tekintetében a költségek ingatlanvásárlásra történő átcsoportosításáról, valamint a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat módosításáról szóló 1323/2016. (VII. 1.) Korm. határozat
-
-## a) 1. pont a) alpontja,
-
-## b) 1. pont b) alpontja, valamint
-
-## c) 1. melléklete.
+## 5.[^2]
 
 1. melléklet az 1180/2019. (IV. 3.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
