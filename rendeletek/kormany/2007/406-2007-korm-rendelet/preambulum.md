@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-a (1) bekezdésének b) pontjában megállapított feladatkörében eljárva, valamint a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 80. § (1) bekezdésének k) és l) pontjában kapott felhatalmazás alapján a következőket rendeli el:
