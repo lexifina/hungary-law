@@ -1,1 +1,0 @@
-## 15. § A panaszos, illetve a munkáltató helyett azok képviselője, meghatalmazottja is eljárhat. A panaszost meghatalmazás útján képviselheti a hozzátartozója, jogi képviselője, érdekképviseleti szerv.

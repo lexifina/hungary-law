@@ -1,1 +1,0 @@
-## VI. Záró rendelkezések

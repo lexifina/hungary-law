@@ -1,1 +1,0 @@
-## 16. § A Döntőbizottság az eljárása során a Titkárság útján gondoskodik arról, hogy a panaszos, illetve a munkáltató minden, az eljárás során felvetődött tényt, iratot, nyilatkozatot megismerhessen, és azokkal kapcsolatban álláspontját kifejthesse.
