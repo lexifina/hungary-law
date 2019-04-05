@@ -1,6 +1,6 @@
-## 7. §[^15]
+## 7. §[^17]
 
-1. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^16]
+1. melléklet a 250/2014. (X. 2.) Korm. rendelethez[^18]
 
 ## Alapfeladatként nyújtott szolgáltatások
 
@@ -76,9 +76,11 @@ II. ELLÁTÁSI SZOLGÁLTATÁSOK
 
 3.1. Nyomdai termékek biztosítása (levélpapír, névjegy, boríték stb.)
 
-3.2. Újság, folyóirat biztosítása
+3.2.[^19] Újság, folyóirat biztosítása
 
-3.3. Szakkönyv, szakkiadvány biztosítása meglévő könyvtáron keresztül
+3.2.1. Belföldi újság és folyóiratok
+
+3.2.2. Külföldi újság és folyóiratok
 
 4. Irodaberendezés biztosítása
 
@@ -208,5 +210,6 @@ III. GÉPJÁRMŰVEKKEL KAPCSOLATOS SZOLGÁLTATÁSOK
 
 2.1. Speciális igény esetén bérelt gépjármű biztosítása
 
-[^15]: A 7. §-t a 293/2017. (X. 10.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
-[^16]: Az 1. melléklet a 293/2017. (X. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^17]: A 7. §-t a 293/2017. (X. 10.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^18]: Az 1. melléklet a 293/2017. (X. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet II. pont 3.2. alpontja a 72/2019. (IV. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
