@@ -46,8 +46,11 @@ e) a 2024. évre vonatkozó kötelezettségvállalás felső korlátja: 40 002 9
 
 1.5. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében, az 1.4. alpont szerinti éven túli korlátok kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegével csökkentett mértékéig, a 2020–2024 évek vonatkozásában összesen legfeljebb 977 631 290 484 forint összegben kötelezettségeket vállaljon;
 
-1.6. visszavonja a Magyarország rövid- és középtávú közútfejlesztéseinek 2022-ig történő megvalósításához szükséges feltételek biztosításáról szóló 1505/2016. (IX. 21.) Korm. határozatot.
+1.6.[^1]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat.
+3.[^2]
+
+[^1]: Az 1. pont 1.6. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
