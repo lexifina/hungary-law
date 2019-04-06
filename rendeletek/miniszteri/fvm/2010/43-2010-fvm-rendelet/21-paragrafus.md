@@ -32,7 +32,7 @@ c) a növényvédő szer forgalmazására, vásárlására, felhasználására, 
 
 (10)[^55] A növényvédelmi szakképesítéssel rendelkező mentesül a (8) bekezdésben előírt továbbképzési kötelezettség alól, ha
 
-a)[^56] a miniszter által vezetett minisztérium, illetve a NÉBIH, a növény- és talajvédelmi hatáskörben eljáró Pest Megyei Kormányhivatal vagy a járási hivatal állományában növényvédelmi munkakörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
+a)[^56] a miniszter által vezetett minisztérium, illetve a NÉBIH, a növény- és talajvédelmi hatáskörben eljáró Pest Megyei Kormányhivatal vagy a járási hivatal állományában növényvédelmi feladatkörben teljesít szolgálatot, és a miniszter által előírt rendszeres továbbképzési kötelezettségeinek eleget tesz,
 
 b) a növényvédelmi felsőoktatás szaktanára, vagy
 
@@ -52,7 +52,7 @@ d)[^58] a mező- és erdőgazdasági légi munkavégzésről szóló miniszteri 
 [^53]: A 21. § (8) bekezdése a 84/2015. (XII. 17.) FM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^54]: A 21. § (9) bekezdését a 84/2015. (XII. 17.) FM rendelet 15. § b) pontja hatályon kívül helyezte.
 [^55]: A 21. § (10) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^56]: A 21. § (10) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 33. § a) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 6. és 16. pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § f) pontja szerint módosított szöveg.
+[^56]: A 21. § (10) bekezdés a) pontja a 19/2014. (III. 12.) VM rendelet 33. § a) pontja, a 84/2015. (XII. 17.) FM rendelet 14. § 6. és 16. pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § f) pontja, a 13/2019. (IV. 5.) AM rendelet 11. §-a szerint módosított szöveg.
 [^57]: A 21. § (10) bekezdés c) pontja a 84/2015. (XII. 17.) FM rendelet 14. § 17. pontja szerint módosított szöveg.
 [^58]: A 21. § (10) bekezdés d) pontját a 84/2015. (XII. 17.) FM rendelet 6. § (4) bekezdése iktatta be.
 [^59]: A 21. § (11) bekezdését a 66/2010. (V. 12.) FVM rendelet 13. § (9) bekezdése iktatta be, szövege a 84/2015. (XII. 17.) FM rendelet 6. § (5) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 153. § b) pontja szerint módosított szöveg.
