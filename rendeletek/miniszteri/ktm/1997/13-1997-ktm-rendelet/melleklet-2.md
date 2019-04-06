@@ -1,4 +1,4 @@
-2. számú melléklet a 13/1997. (V. 28.) KTM rendelethez[^18]
+2. számú melléklet a 13/1997. (V. 28.) KTM rendelethez[^20]
 
 1. Védett (fokozottan védett) élő szervezetekre vonatkozó Értékek Törzskönyve alapadatai tartalmazzák a védett természeti érték
 
@@ -24,4 +24,4 @@ d) térbeli előfordulásának földrajzi adatai,
 
 e) élő szervezetek védetté (fokozottan védetté) nyilvánított életközösségei, élőhelytípusai esetén az azokra jellemző fajok.
 
-[^18]: A 2. számú melléklet a 88/2007. (X. 25.) KvVM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. számú melléklet a 88/2007. (X. 25.) KvVM rendelet 9. § (2) bekezdésével megállapított szöveg.
