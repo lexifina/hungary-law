@@ -66,6 +66,8 @@
 
 ## Határidő: a 3–4. és a 6–8. pont teljesülését követően azonnal
 
-## 10. visszavonja a Korm. határozat 1. mellékletében foglalt táblázat „Hévízi kézilabda fejlesztése” megnevezésű sorát.
+## 10.[^1]
 
 1. melléklet az 1189/2019. (IV. 5.) Korm. határozathoz
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
