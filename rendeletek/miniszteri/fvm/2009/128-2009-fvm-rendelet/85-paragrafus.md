@@ -16,7 +16,7 @@ d) a mellékhatás-figyelő rendszerrel kapcsolatos tevékenységeket a forgalom
 
 (3)[^209] A NÉBIH a kiindulási anyagok gyártóinál a gyártó felkérésére is végezhet helyszíni ellenőrzést.
 
-(4)[^210] A NÉBIH hatósági ellenőrzést végző köztisztviselője (a továbbiakban: inspektor) jogosult
+(4)[^210] A NÉBIH hatósági ellenőrzést végző kormánytisztviselője (a továbbiakban: inspektor) jogosult
 
 a) ellenőrzés céljából a gyártó vagy forgalmazó telephelyére, illetve a laboratóriumba belépni,
 
@@ -50,7 +50,7 @@ i) állategészségügyi vagy közegészségügyi veszély, illetve minőségi h
 [^207]: A 85. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
 [^208]: A 85. § (2) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
 [^209]: A 85. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
-[^210]: A 85. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^210]: A 85. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja, a 13/2019. (IV. 5.) AM rendelet 10. §-a szerint módosított szöveg.
 [^211]: A 85. § (4) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
 [^212]: A 85. § (4) bekezdés g) pontja a 33/2010. (IV. 7.) FVM rendelet 11. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^213]: A 85. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.

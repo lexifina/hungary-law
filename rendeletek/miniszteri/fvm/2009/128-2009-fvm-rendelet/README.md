@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-128-20-
 | 2015-08-15 | 2009-128-20-82.7 | 151/2012. (XII. 29.) VM rendelet |
 | 2016-02-19 | 2009-128-20-82.8 | 8/2016. (II. 11.) FM rendelet |
 | 2017-08-18 | 2009-128-20-82.9 | 42/2017. (VIII. 17.) FM rendelet |
+| 2019-04-06 | 2009-128-20-82.10 | 70/2013. (VII. 31.) VM rendelet |
