@@ -1,10 +1,10 @@
-## 56. §[^131] Az elkobzott bűnjel értékesítése
+## 56. §[^156] Az elkobzott bűnjel értékesítése
 
 a) kereskedelmi tevékenység folytatására jogosult gazdálkodó szervezet (kereskedő) közreműködésével történő eladás vagy
 
-b)[^132] a törvényszéki végrehajtó által megtartott árverés vagy elektronikus árverés
+b)[^157] a törvényszéki végrehajtó által megtartott árverés vagy elektronikus árverés
 
 útján történik.
 
-[^131]: Az 56. § a 47/2009. (IX. 28.) IRM–PM együttes rendelet 17. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^132]: Az 56. § b) pontja a 40/2011. (XII. 30.) KIM rendelet 23. § e) pontja szerint módosított szöveg.
+[^156]: Az 56. § a 47/2009. (IX. 28.) IRM–PM együttes rendelet 17. §-ával megállapított szöveg. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^157]: Az 56. § b) pontja a 40/2011. (XII. 30.) KIM rendelet 23. § e) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-27. §[^83] (1) Ha
+27. §[^102] (1) Ha
 
 a) a hatóság az ügyet véglegessé vált, illetve további jogorvoslattal nem támadható határozattal átteszi más hatósághoz, és a bűnjel kezelésére nem jogosult, vagy
 
@@ -10,4 +10,4 @@ b) valamely hatóság kizárása miatt az eljáró hatóság kijelölésére ker
 
 (3) Ha az áttett ügyben lefoglalt bűnjelet előzetesen értékesítették, illetve az érintett vagy egyes szerv őrizetében hagyták, az átadó a bűnjelre vonatkozó átvételi elismervényt, (az őrzéssel kapcsolatban felvett jegyzőkönyvet, egyéb ügyiratot) az átvevő hatóság bűnjelkezelőjéhez megküldött kísérő bűnjeljegyzékkel együtt kezeli. Az átvevő hatóság bűnjelkezelője az ügyiratok átvételét a kísérő bűnjeljegyzékre feljegyzi, és azt visszaküldi az átadó hatóság bűnjelkezelőjének, valamint annak egy papíralapú példányát vagy egy másolatát megőrzi.
 
-[^83]: A 27. § a 17/2018. (VI. 27.) IM rendelet 22. §-ával megállapított szöveg.
+[^102]: A 27. § a 17/2018. (VI. 27.) IM rendelet 22. §-ával megállapított szöveg.
