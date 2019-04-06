@@ -20,7 +20,7 @@
 
 | 8. | A hulladékégetés műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló rendelet alapján indított eljárás. | minden esetben | A hulladékégető vagy hulladék-együttégető műre vonatkozó engedély szennyvíz-kibocsátási követelményeinek megállapítása. | Katasztrófavédelmi Igazgatóság (vízvédelmi hatáskörében eljárva) | BM Országos Katasztrófavédelmi Főigazgatóság (vízvédelmi hatáskörében eljárva) |
 
-7. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^93]
+7. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^95]
 
 I. Egyes hulladékgazdálkodással összefüggő eljárásokban vizsgálandó szakkérdések
 
@@ -36,4 +36,4 @@ I. Egyes hulladékgazdálkodással összefüggő eljárásokban vizsgálandó sz
 
 II. Egyes hulladékgazdálkodással összefüggő eljárásokban kijelölt szakhatóságok
 
-[^93]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés g) pontjával megállapított szöveg.
+[^95]: A 7. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés g) pontjával megállapított szöveg.

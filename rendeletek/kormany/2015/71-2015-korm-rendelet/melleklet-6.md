@@ -12,7 +12,7 @@
 
 | 5. | – | Minden esetben. | – | a) az ipari baleseti kockázatok tekintetében: a veszélyes anyagokkal kapcsolatos súlyos baleseteknek való kitettségből eredő várható hatások elbírálása b) a természeti katasztrófáknak való kitettség tekintetében: annak elbírálása, hogy a kérelem megfelelően tartalmazza-e a telepítési hely környezetében feltárt kockázatokat és azok várható hatásait. | a hivatásos katasztrófa- védelmi szerv területi szerve | a hivatásos katasztrófa-védelmi szerv központi szerve |
 
-6. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^92]
+6. melléklet a 71/2015. (III. 30.) Korm. rendelethez[^94]
 
 I. Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések, kirendelendő szakértők
 
@@ -32,4 +32,4 @@ I. Egyes környezetvédelmi eljárásokban vizsgálandó szakkérdések, kirende
 
 II. Egyes környezetvédelmi eljárásokban kijelölt szakhatóságok
 
-[^92]: A 6. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés e) pontjával megállapított szöveg.
+[^94]: A 6. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés e) pontjával megállapított szöveg.

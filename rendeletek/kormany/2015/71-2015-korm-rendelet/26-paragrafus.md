@@ -8,14 +8,14 @@
 
 26. § (1) A Kormány környezetvédelmi szakhatóságként
 
-a)[^56] a Pest Megyei Kormányhivatalt, valamint
+a)[^58] a Pest Megyei Kormányhivatalt, valamint
 
-b)[^57] a területi környezetvédelmi hatóságot
+b)[^59] a területi környezetvédelmi hatóságot
 
 ## jelöli ki.
 
-(2)[^58] Környezetvédelmi szakhatóságként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
+(2)[^60] Környezetvédelmi szakhatóságként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
 
-[^56]: A 26. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 2. pontja szerint módosított szöveg.
-[^57]: A 26. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 11. pontjával megállapított szöveg.
-[^58]: A 26. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.
+[^58]: A 26. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 2. pontja szerint módosított szöveg.
+[^59]: A 26. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 11. pontjával megállapított szöveg.
+[^60]: A 26. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 4. pontja szerint módosított szöveg.

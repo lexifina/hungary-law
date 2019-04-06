@@ -1,6 +1,6 @@
 ## 11. A környezetvédelmi hatóság eljárásaiban vizsgálandó szakkérdések és a közreműködő szakhatóságok kijelölése, szakértő igénybevétele
 
-28. § (1)[^62] A területi környezetvédelmi hatóság elsőfokon az 5. melléklet I. táblázatában meghatározott szakkérdéseket is vizsgálja, ha az 5. melléklet I. táblázata szerinti előzetes vizsgálati, környezeti hatásvizsgálati, egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint az egységes környezethasználati engedélynek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 20/A. § (4) és (6) bekezdése szerinti felülvizsgálatára irányuló eljárásban (a továbbiakban: felülvizsgálati eljárásban) az 5. melléklet I. táblázatában megjelölt feltételek fennállnak.
+28. § (1)[^64] A területi környezetvédelmi hatóság elsőfokon az 5. melléklet I. táblázatában meghatározott szakkérdéseket is vizsgálja, ha az 5. melléklet I. táblázata szerinti előzetes vizsgálati, környezeti hatásvizsgálati, egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint az egységes környezethasználati engedélynek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 20/A. § (4) és (6) bekezdése szerinti felülvizsgálatára irányuló eljárásban (a továbbiakban: felülvizsgálati eljárásban) az 5. melléklet I. táblázatában megjelölt feltételek fennállnak.
 
 (2) Az előzetes vizsgálati, környezeti hatásvizsgálati, egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban, valamint a felülvizsgálati eljárásban, ha elsőfokon a szakkérdést a kormányhivatal járási (fővárosi kerületi) hivatala, vagy a kormányhivatal vizsgálta, a másodfokon eljáró környezetvédelmi hatóság az 5. melléklet I. táblázatában megjelölt feltételek fennállása esetén az 5. melléklet I. táblázatában meghatározott szakkérdést is vizsgálja, melynek eldöntéséhez – szakértő igénybevétele esetén – az 5. melléklet I. táblázatában meghatározott szervet rendeli ki szakértőként.
 
@@ -8,4 +8,4 @@
 
 (4) Az előzetes vizsgálati, környezeti hatásvizsgálati, egységes környezethasználati engedélyezési eljárásban, az összevont eljárásban valamint a felülvizsgálati eljárásban hozott határozatot a megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
-[^62]: A 28. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 7. pontja szerint módosított szöveg.
+[^64]: A 28. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 293. § (18) bekezdés 7. pontja szerint módosított szöveg.
