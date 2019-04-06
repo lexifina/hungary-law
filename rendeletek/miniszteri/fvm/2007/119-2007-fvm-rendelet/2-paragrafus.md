@@ -38,7 +38,7 @@ k)[^6]
 
 6.[^11] ENAR: a szarvasmarha-, a juh- és kecskefélék Egységes Nyilvántartási és Azonosítási Rendszereinek, valamint a Sertés Nyomonkövetési Rendszernek az összefoglaló elnevezése;
 
-7.[^12] ENAR-koordinátor: az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) által kijelölt állami tisztviselő, aki irányítja és ellenőrzi az adott megyében a TIR és az ENAR működtetését;
+7.[^12] ENAR-koordinátor: az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) által kijelölt kormánytisztviselő, aki irányítja és ellenőrzi az adott megyében a TIR és az ENAR működtetését;
 
 8.[^13] ENAR-felelős: a tenyészetekben az állatok jelölésének végrehajtásáért és a számára előírt ENAR feladatok ellátásáért felelős személy. A megyei körzetekbe sorolt tenyészetekben a megyei kormányhivatal által kijelölt körzeti kapcsolattartó állatorvos, önálló tenyészetekben az állattartó vagy megbízottja;
 
@@ -79,7 +79,7 @@ k)[^6]
 [^9]: A 2. § 4. pontja a 22/2014. (III. 14.) VM rendelet 46. § b) pontja szerint módosított szöveg.
 [^10]: A 2. § 5. pontja a 40/2018. (XII. 15.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^11]: A 2. § 6. pontja a 40/2018. (XII. 15.) AM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^12]: A 2. § 7. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § a) pontja, a 40/2018. (XII. 15.) AM rendelet 5. § d) pontja szerint módosított szöveg.
+[^12]: A 2. § 7. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § a) pontja, a 13/2019. (IV. 5.) AM rendelet 9. §-a szerint módosított szöveg.
 [^13]: A 2. § 8. pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
 [^14]: A 2. § 10. pontját a 88/2013. (X. 2.) VM rendelet 43. § a) pontja hatályon kívül helyezte.
 [^15]: A 2. § 12. pontja a 40/2018. (XII. 15.) AM rendelet 4. § (4) bekezdésével megállapított szöveg.
