@@ -1,6 +1,6 @@
-3. § (1)[^7] A nyilvántartásba vételre irányuló kérelmet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által rendszeresített és a honlapján közzétett formanyomtatványon, a kérelmező állandó lakóhelye, vagy tartózkodási helye szerint illetékes erdészeti hatósághoz kell benyújtani.
+3. § (1)[^8] A nyilvántartásba vételre irányuló kérelmet a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által rendszeresített és a honlapján közzétett formanyomtatványon, a kérelmező állandó lakóhelye, vagy tartózkodási helye szerint illetékes erdészeti hatósághoz kell benyújtani.
 
-(2)[^8] Az (1) bekezdés szerinti kérelemhez csatolni kell
+(2)[^9] Az (1) bekezdés szerinti kérelemhez csatolni kell
 
 a) az erdészeti végzettséget igazoló dokumentum másolatát,
 
@@ -16,8 +16,8 @@ d) rendészeti feladatokat ellátó szakszemélyzet esetében a 2. § (2a) bekez
 
 e) kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet esetében egy 3x4 cm méretű arcfényképet.
 
-(3)[^9] A NÉBIH az erdészeti szakszemélyzet vagy a jogosult erdészeti szakszemélyzet (a továbbiakban együtt: szakszemélyzet) kérelmére annak családi és utónevét, jellemző működési területét és elérhetőségét a honlapján közzéteszi.
+(3)[^10] A NÉBIH az erdészeti szakszemélyzet vagy a jogosult erdészeti szakszemélyzet (a továbbiakban együtt: szakszemélyzet) kérelmére annak családi és utónevét, jellemző működési területét és elérhetőségét a honlapján közzéteszi.
 
-[^7]: A 3. § (1) bekezdése a 102/2013. (XI. 4.) VM rendelet 3. §-ával megállapított szöveg.
-[^8]: A 3. § (2) bekezdése a 102/2013. (XI. 4.) VM rendelet 3. §-ával megállapított szöveg.
-[^9]: A 3. § (3) bekezdését a 27/2016. (IV. 11.) FM rendelet 6. §-a iktatta be.
+[^8]: A 3. § (1) bekezdése a 102/2013. (XI. 4.) VM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 3. § (2) bekezdése a 102/2013. (XI. 4.) VM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 3. § (3) bekezdését a 27/2016. (IV. 11.) FM rendelet 6. §-a iktatta be.

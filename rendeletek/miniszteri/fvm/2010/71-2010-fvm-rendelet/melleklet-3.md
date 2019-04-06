@@ -76,6 +76,6 @@
 
 ## 3. Az 1. és 2. pontban szereplő kiegészítő jelzések 60 mm átmérőjűek, a külső részükön sötétzöld (irány színkód Pantone 377C), belül világoszöld (irány színkód Pantone 378C) alapszínűek. A kiegészítő jelzéseken lévő erdészcsillag alapszíne a külső rész alapszínével megegyező. A két alapszínt egymástól körben, fekete színű vonal választja el. A kiegészítő jelzéseken lévő feliratok, fehér színűek.
 
-3. számú melléklet a 71/2010. (V. 13.) FVM rendelethez[^52]
+3. számú melléklet a 71/2010. (V. 13.) FVM rendelethez[^53]
 
-[^52]: A 3. számú mellékletet a 45/2013. (VI. 3.) VM rendelet 5. § (7) bekezdése iktatta be, hatályon kívül helyezte a 102/2013. (XI. 4.) VM rendelet 14. § (2) bekezdés e) pontja.
+[^53]: A 3. számú mellékletet a 45/2013. (VI. 3.) VM rendelet 5. § (7) bekezdése iktatta be, hatályon kívül helyezte a 102/2013. (XI. 4.) VM rendelet 14. § (2) bekezdés e) pontja.

@@ -1,4 +1,4 @@
-7/A. §[^22] (1) A 7. § (2) bekezdés szerinti vizsga a továbbképzés keretében, a megismételt vizsga a NÉBIH előtt tehető.
+7/A. §[^23] (1) A 7. § (2) bekezdés szerinti vizsga a továbbképzés keretében, a megismételt vizsga a NÉBIH előtt tehető.
 
 (2) A továbbképzés és a vizsga lebonyolításának, értékelésének szabályait tartalmazó vizsgaszabályzatot a NÉBIH elnöke hagyja jóvá.
 
@@ -22,4 +22,4 @@ f) a választott továbbképzési vagy vizsgaidőpont.
 
 (6) A vizsgaszabályzatot, a továbbképzések és a megismételt vizsgák időpontjait, valamint a továbbképzés tárgyát képező, és a vizsgán számon kérhető tananyagot a NÉBIH a honlapján közzéteszi.
 
-[^22]: A 7/A. §-t a 102/2013. (XI. 4.) VM rendelet 8. §-a iktatta be.
+[^23]: A 7/A. §-t a 102/2013. (XI. 4.) VM rendelet 8. §-a iktatta be.

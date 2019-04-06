@@ -1,4 +1,4 @@
-6/A. §[^13] (1) Az erdészeti hatóság a kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet részére egyedi sorszámozású szolgálati igazolványt ad ki.
+6/A. §[^14] (1) Az erdészeti hatóság a kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet részére egyedi sorszámozású szolgálati igazolványt ad ki.
 
 (2) Az (1) bekezdés szerinti szolgálati igazolványnak az alábbi adatokat kell tartalmaznia:
 
@@ -40,4 +40,4 @@ b) annak megrongálódás vagy adatváltozás miatti cseréje alkalmával
 
 bevonja.
 
-[^13]: A 6/A. §-t a 102/2013. (XI. 4.) VM rendelet 6. §-a iktatta be.
+[^14]: A 6/A. §-t a 102/2013. (XI. 4.) VM rendelet 6. §-a iktatta be.
