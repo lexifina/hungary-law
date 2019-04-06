@@ -5,3 +5,7 @@
 (2) A megismerés indítványnak megfelelő biztosításának számít, ha arra az indítványt előterjesztő által utóbb elfogadott módon, illetve időben kerül sor.
 
 (3) Az ügyirat megismerésnek valamely módja nem akadálya annak, hogy az arra jogosult azzal egyidejűleg vagy az eljárás későbbi szakaszában más módon is megismerje az ügyiratot.
+
+(4)[^2] A megismerést az arra jogosulttal egyeztetett más módon kell biztosítani, ha az ügyirat megismerésének valamely módja törvénysértő lenne, vagy az az ügyirat jellegére tekintettel lehetetlen.
+
+[^2]: A 17. § (4) bekezdését a 11/2019. (IV. 5.) IM rendelet 16. §-a iktatta be.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-12-20-0
 | --- | --- | --- |
 | 2018-07-01 | 2018-12-20-06.1 | 12/2018. (VI. 12.) IM rendelet |
 | 2018-07-02 | 2018-12-20-06.2 | 2010: CXXX. törvény |
+| 2019-04-06 | 2018-12-20-06.3 | 11/2019. (IV. 5.) IM rendelet |
