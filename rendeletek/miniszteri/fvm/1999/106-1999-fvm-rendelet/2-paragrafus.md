@@ -4,7 +4,7 @@
 
 ## A lakásbérleti jogviszony létesítése, a felek jogai és kötelességei
 
-2. § (1)[^1] A költségvetési szerv rendelkezése alatt álló lakás, a költségvetési szervvel köztisztviselői, közalkalmazotti jogviszonyban és munkaviszonyban, valamint más címen foglalkoztatási jogviszonyban (a továbbiakban együtt: szolgálati jogviszonyban) álló személy részére adható bérbe, ha a munkahelyével azonos településen, maga vagy házastársa és velük együtt élő kiskorú gyermeke (vér szerinti, örökbe fogadott, mostoha-, nevelt gyermek, a továbbiakban együtt: gyermek) önálló lakással nem rendelkezik.
+2. § (1)[^1] A költségvetési szerv rendelkezése alatt álló lakás, a költségvetési szervvel kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban és munkaviszonyban, valamint más címen foglalkoztatási jogviszonyban (a továbbiakban együtt: szolgálati jogviszonyban) álló személy részére adható bérbe, ha a munkahelyével azonos településen, maga vagy házastársa és velük együtt élő kiskorú gyermeke (vér szerinti, örökbe fogadott, mostoha-, nevelt gyermek, a továbbiakban együtt: gyermek) önálló lakással nem rendelkezik.
 
 (2) A költségvetési szervvel szolgálati jogviszonyban álló házastársak részére csak egy lakás adható bérbe.
 
@@ -18,4 +18,4 @@ c) a munkahellyel azonos településen lévő, magasabb komfortfokozatú vagy na
 
 d) a bérbeadás szempontjából lényeges tény, körülmény elhallgatásával vagy valótlan tény, körülmény állításával a költségvetési szervet megtévesztette.
 
-[^1]: A 2. § (1) bekezdése a 38/2006. (V. 18.) FVM rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § (1) bekezdése a 38/2006. (V. 18.) FVM rendelet 1. §-ával megállapított, a 13/2019. (IV. 5.) AM rendelet 3. §-a szerint módosított szöveg.
