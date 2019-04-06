@@ -21,3 +21,9 @@
 ## aláírás
 
 36. melléklet a 9/2018. (VI. 11.) IM rendelethez
+
+Büntetés-végrehajtás Országos Parancsnoksága
+
+Jegyzék a szabadságvesztés végrehajtására behívott elítéltekről
+
+Szabadságvesztés végrehajtására 20..... év ...................... hó ....... napjáig behívott elítéltekről

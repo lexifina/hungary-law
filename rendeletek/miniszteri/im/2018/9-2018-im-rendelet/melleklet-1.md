@@ -1,4 +1,4 @@
-## 146. §[^1]
+## 146. §[^10]
 
 1. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
@@ -220,4 +220,4 @@
 
 16.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése
 
-[^1]: A 146. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 146. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
