@@ -1,0 +1,1 @@
+## „(3a) A hatóság az érintett őrizetében hagyott bűnjel meglétét, állapotát, valamint a bűnjel kezelésére vonatkozó kötelezettségek teljesítését a bűnjel és a kezelésére vonatkozó kötelezettségek jellegének megfelelő időközönként ellenőrzi.”
