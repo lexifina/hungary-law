@@ -1,1 +1,0 @@
-## „(3d) A Főigazgatóság az (1) bekezdés m) pontjában meghatározott szervezetekkel megállapodásban rendezi a Főigazgatóság által nyújtott szolgáltatások részletezését és igénybevételének rendjét, valamint a szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezését.”
