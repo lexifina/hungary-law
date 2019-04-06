@@ -1,4 +1,4 @@
-## 4/A.[^15] A NÉBIH feladatai
+## 4/A.[^18] A NÉBIH feladatai
 
 4/A. § (1) A NÉBIH
 
@@ -38,4 +38,4 @@ k) ellátja a szakmai szintű hazai és nemzetközi állatvédelmi kapcsolattart
 
 (8) Az élelmiszerlánc-termékek ellenőrzése tekintetében a Nemzeti Adó- és Vámhivatal köteles a NÉBIH-hel szorosan együttműködni, és minden elvárható segítséget és információt megadni a NÉBIH hatékony élelmiszerlánc-felügyeleti tevékenységének elősegítése érdekében. A Nemzeti Adó- és Vámhivatal ennek keretében különösen a NÉBIH rendelkezésére bocsátja a feladatkörében tudomására jutott, az élelmiszerlánc szempontjából jelentős áruforgalmi és határellenőrzési adatokat.
 
-[^15]: A 4/A. alcímet (4/A–4/B. §-t) a 379/2016. (XII. 2.) Korm. rendelet 195. § (3) bekezdése iktatta be.
+[^18]: A 4/A. alcímet (4/A–4/B. §-t) a 379/2016. (XII. 2.) Korm. rendelet 195. § (3) bekezdése iktatta be.

@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-2
 | 2016-07-22 | 2012-22-20-22.36 | 203/2016. (VII. 21.) Korm. rendelet |
 | 2016-07-23 | 2012-22-20-22.37 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2017-01-01 | 2012-22-20-22.38 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2019-04-06 | 2012-22-20-22.39 | 73/2019. (IV. 5.) Korm. rendelet |
