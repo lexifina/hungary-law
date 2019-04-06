@@ -2,7 +2,7 @@
 
 1. számú melléklet
 
-9/2000. (V. 19.) KöM rendelethez[^41]
+9/2000. (V. 19.) KöM rendelethez[^45]
 
 ## A természetvédelmi őrök egyenruházata és az egyenruha viselés előírásai
 
@@ -22,9 +22,9 @@ I. Általános szabályok, az egyenruha ellátás rendszere
 
 (6) Az évi utánpótlási ruházati illetménykeretet január 1-jével kell a természetvédelmi őrökre meghatározni, teljes vagy részösszeggel. Részösszeg akkor jár, ha a természetvédelmi őr az alapellátást az előző évben kapta meg. Az alapellátás kiadását követő első naptári évben időarányosan csökkentett utánpótlási ruházati illetménykeret jár, és csak annyi hónapra eső hányad írható jóvá, ahány hónap az alapellátás utáni 13. hónaptól kezdve az év végéig hátra van.
 
-(7) Az egyes ruházati cikkek a természetvédelmi őri foglalkoztatás megszűnéséig a természetvédelmi őr birtokában vannak. A természetvédelmi őri foglalkoztatás megszűnésekor – a közszolgálati jogviszony nyugellátásra szerzett jogosultság miatti felmentéssel történő megszűnésének esetét kivéve:
+(7)[^46] Az egyes ruházati cikkek a természetvédelmi őri foglalkoztatás megszűnéséig a természetvédelmi őr birtokában vannak. A természetvédelmi őri foglalkoztatás megszűnésekor – kivéve, ha a természetvédelmi őr felmentésére azért került sor, mert nyugdíjasnak minősül –
 
-a)[^42] a rendészeti feladatokat ellátó személyek, valamint a fegyveres biztonsági őrök ruházati ellátására vonatkozó részletes szabályokról szóló rendeletben foglaltak szerint meghatározott az egyenruha-jelleget meghatározó ruházati cikkeket az alkalmazónak le kell adni,
+a)[^47] a rendészeti feladatokat ellátó személyek, valamint a fegyveres biztonsági őrök ruházati ellátására vonatkozó részletes szabályokról szóló rendeletben foglaltak szerint meghatározott az egyenruha-jelleget meghatározó ruházati cikkeket az alkalmazónak le kell adni,
 
 b) a további ruházati cikkeket a volt természetvédelmi őr – az alkalmazó hozzájárulásával – az elvi kihordási időn belül időarányos pénzbeli elszámolás alapján, az elvi kihordási időn túl pedig térítésmentesen megválthatja.
 
@@ -36,7 +36,7 @@ b) a további ruházati cikkeket a volt természetvédelmi őr – az alkalmazó
 
 II. Az egyenruházat meghatározása és az egyenruházati jelzések leírása
 
-(1)[^43] A természetvédelmi őri egyenruházat terepi szolgálati (a továbbiakban: szolgálati) és társasági egyenruhából áll.
+(1)[^48] A természetvédelmi őri egyenruházat terepi szolgálati (a továbbiakban: szolgálati) és társasági egyenruhából áll.
 
 (2) Az egyenruházat egyes ruházati viseletelemein a (3), (4), (5) és (6) bekezdésben foglaltak szerint a 3. számú függelékben meghatározott egyenruházati jelzések, illetve szolgálatban a szolgálati jelvény kerülnek rögzítésre.
 
@@ -82,9 +82,9 @@ III. Az egyenruha viselésének szabályai
 
 (14) Az egyenruhán az egyenruházati jelzéseken és a szolgálati jelvényen kívül más jelvény nem viselhető.
 
-(15)[^44]
+(15)[^49]
 
-(16)[^45] Az egyenruhához csak a rendszeresített védőruházat viselhető.
+(16)[^50] Az egyenruhához csak a rendszeresített védőruházat viselhető.
 
 (17) Az egyenruhaként már nem alkalmas, de még használható ruházati cikkeket a természetvédelmi őr az egyenruházati jelzések levétele után szolgálatban, a (3) bekezdésben foglaltak figyelembevételével szolgálati munkaruhaként viselheti. A már nem használható ruházati cikkeket selejtezni kell.
 
@@ -92,14 +92,15 @@ III. Az egyenruha viselésének szabályai
 
 (19) A ruházattal a természetvédelmi őrök mind mennyiségi, mind pedig minőségi tekintetben bármikor elszámoltathatók.
 
-(20)[^46] A közszolgálati jogviszony nyugellátásra szerzett jogosultság miatti felmentéssel történő megszűnése után megtartott ruházat csak a szolgálatibeosztás-jelzés nélkül viselhető.
+(20)[^51] A kormányzati szolgálati, illetve közszolgálati jogviszony nyugdíjasnak minősülés miatti felmentéssel történő megszüntetése után megtartott ruházat csak a szolgálatibeosztás-jelzés nélkül viselhető.
 
-(21)[^47] Az egyenruha-viselés szabályainak betartását állami természetvédelmi őr esetében az igazgató, az igazgatósági őrszolgálat-vezető és a természetvédelmi őr közvetlen szolgálati felettese, önkormányzati természetvédelmi őr esetében az önkormányzati őrszolgálat-vezető vagy a közvetlen irányítást ellátó jegyző, valamennyi természetvédelmi őr esetében pedig a Minisztérium erre feljogosított kormánytisztviselője ellenőrzi.
+(21)[^52] Az egyenruha-viselés szabályainak betartását állami természetvédelmi őr esetében az igazgató, az igazgatósági őrszolgálat-vezető és a természetvédelmi őr közvetlen szolgálati felettese, önkormányzati természetvédelmi őr esetében az önkormányzati őrszolgálat-vezető vagy a közvetlen irányítást ellátó jegyző, valamennyi természetvédelmi őr esetében pedig a Minisztérium erre feljogosított kormánytisztviselője ellenőrzi.
 
-[^41]: Az 1. számú melléklet a 41/2006. (X. 6.) KvVM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^42]: Az 1. számú melléklet I. pont (7) alpont a) alpontja a 17/2014. (X. 27.) FM rendelet 6. § b) pontja szerint módosított szöveg.
-[^43]: Az 1. számú melléklet II. pont (1) alpont a 17/2014. (X. 27.) FM rendelet 7. § a) pontja szerint módosított szöveg.
-[^44]: Az 1. számú melléklet III. pont (15) alpontját a 17/2014. (X. 27.) FM rendelet 7. § b) pontja hatályon kívül helyezte.
-[^45]: Az 1. számú melléklet III. pont (16) alpontja a 17/2014. (X. 27.) FM rendelet 7. § b) pontja szerint módosított szöveg.
-[^46]: Az 1. számú melléklet III. részének (20) bekezdése a 7/2008. (III. 18.) KvVM rendelet 3. § (1) bekezdésének b) pontja szerint módosított szöveg.
-[^47]: Az 1. számú melléklet III. pont (21) alpontja a 45/2013. (VI. 3.) VM rendelet 3. § (6) bekezdés f) pontja szerint módosított szöveg.
+[^45]: Az 1. számú melléklet a 41/2006. (X. 6.) KvVM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 1. számú melléklet I. pont (7) alpont nyitó szövegrésze a 13/2019. (IV. 5.) AM rendelet 5. §-a szerint módosított szöveg.
+[^47]: Az 1. számú melléklet I. pont (7) alpont a) alpontja a 17/2014. (X. 27.) FM rendelet 6. § b) pontja szerint módosított szöveg.
+[^48]: Az 1. számú melléklet II. pont (1) alpont a 17/2014. (X. 27.) FM rendelet 7. § a) pontja szerint módosított szöveg.
+[^49]: Az 1. számú melléklet III. pont (15) alpontját a 17/2014. (X. 27.) FM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^50]: Az 1. számú melléklet III. pont (16) alpontja a 17/2014. (X. 27.) FM rendelet 7. § b) pontja szerint módosított szöveg.
+[^51]: Az 1. számú melléklet III. pont (20) alpontja a 13/2019. (IV. 5.) AM rendelet 5. §-ával megállapított szöveg.
+[^52]: Az 1. számú melléklet III. pont (21) alpontja a 45/2013. (VI. 3.) VM rendelet 3. § (6) bekezdés f) pontja szerint módosított szöveg.

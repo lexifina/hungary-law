@@ -2,7 +2,7 @@
 
 a) figyelőszolgálat: a természetvédelmi őr úgy tartja megfigyelés alatt a területet, hogy illetéktelen személyek az ott tartózkodását nem fedezhetik fel;
 
-b)[^12] őrző szolgálat: a figyelőszolgálat sajátos formája, amelynek célja egy objektum (pl. élőhely, régészeti lelőhely) őrzése veszélyeztetett időszakban;
+b)[^16] őrző szolgálat: a figyelőszolgálat sajátos formája, amelynek célja egy objektum (pl. élőhely, régészeti lelőhely) őrzése veszélyeztetett időszakban;
 
 c) járőrszolgálat: a természetvédelmi őr meghatározott útvonalon megfigyelő-ellenőrző bejárást végez;
 
@@ -24,7 +24,7 @@ b) két fős szolgálat,
 
 c) csoportszolgálat.
 
-(3)[^13] A szolgálat ellátása közlekedés szempontjából lehet:
+(3)[^17] A szolgálat ellátása közlekedés szempontjából lehet:
 
 a) gyalogos,
 
@@ -36,5 +36,5 @@ d) gépjárműves (motorkerékpár, gépkocsi),
 
 e) vízi járműves
 
-[^12]: A 7. § (1) bekezdésének b) pontja a 41/2006. (X. 6.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^13]: A 7. § (3) bekezdése a 41/2006. (X. 6.) KvVM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^16]: A 7. § (1) bekezdésének b) pontja a 41/2006. (X. 6.) KvVM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^17]: A 7. § (3) bekezdése a 41/2006. (X. 6.) KvVM rendelet 6. § (2) bekezdésével megállapított szöveg.
