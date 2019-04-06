@@ -1,7 +1,3 @@
-## Az elítélt átadása és átvétele
+## 3. §[^5]
 
-4. § (1)[^6] Az elítélt átadásáról és átvételéről az Országos Rendőr-főkapitányság Interpol Magyar Nemzeti Iroda a Készenléti Rendőrség közreműködésével gondoskodik.
-
-(2) Az elítélt átadásának és átvételének költségei, valamint az átszállítással kapcsolatban felmerülő fordítási költségek bűnügyi költségek.
-
-[^6]: A 4. § (1) bekezdése a 9/2013. (VI. 29.) KIM rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: A 3. §-t a 11/2019. (IV. 5.) IM rendelet 1. § d) pontja hatályon kívül helyezte.
