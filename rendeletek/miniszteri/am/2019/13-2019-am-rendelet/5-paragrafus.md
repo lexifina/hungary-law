@@ -1,0 +1,1 @@
+## „(5) A természetvédelmi őr kormányzati szolgálati jogviszonyának vagy álláshelyén ellátandó feladatának megszűnésekor, illetve közszolgálati jogviszonyának megszűnésekor vagy munkakörének megváltozásakor bevont szolgálati naplókat a munkáltató szerv köteles 5 évig megőrizni.”
