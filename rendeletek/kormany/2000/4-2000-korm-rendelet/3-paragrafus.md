@@ -8,15 +8,16 @@ c) állami természetvédelmi őr esetén a szolgálati maroklőfegyver tartás�
 
 d) sikeres természetvédelmi őri vizsgát tett.
 
-(2) Az (1) bekezdés d) pontja szerinti vizsga nem jelent mentességet a Ktv. 25. § (2) bekezdés szerinti vizsga alól.
+(2)[^6]
 
 (3) A szakirányú közép- vagy felsőfokú képesítések körét külön jogszabály tartalmazza.
 
-(4)[^6] Azt az állami vagy önkormányzati természetvédelmi őrt, aki a külön jogszabály szerinti szakirányú középfokú képesítéssel és nem szakirányú felsőfokú végzettséggel rendelkezik, a felsőfokú végzettsége alapján kell besorolni. A külön jogszabály szerinti munkaköri megnevezésként azonban legfeljebb természetvédelmi tájegységvezető megnevezés alkalmazható.
+(4)[^7] Azt az állami vagy önkormányzati természetvédelmi őrt, aki a külön jogszabály szerinti szakirányú középfokú képesítéssel és nem szakirányú felsőfokú végzettséggel rendelkezik, a felsőfokú végzettsége alapján kell besorolni. A miniszteri rendelet szerinti szolgálati beosztási megnevezésként azonban legfeljebb természetvédelmi tájegységvezető megnevezés alkalmazható.
 
-(5)[^7] A természetvédelmi vagy ahhoz közvetlenül kapcsolódó tudományterületen szerzett tudományos fokozattal rendelkező személyt a felsőfokú végzettséggel és szakképesítéssel rendelkezőkre vonatkozó szabályok szerint kell besorolni.
+(5)[^8] A természetvédelmi vagy ahhoz közvetlenül kapcsolódó tudományterületen szerzett tudományos fokozattal rendelkező személyt a felsőfokú végzettséggel és szakképesítéssel rendelkezőkre vonatkozó szabályok szerint kell besorolni.
 
 [^4]: A 3. § (1) bekezdés a) pontja a 319/2012. (XI. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdésének b) pontja a 238/2000. (XII. 23.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított és a 247/2009. (XI. 10.) Korm. rendelet 39. § f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^6]: A 3. § (4) bekezdését a 238/2000. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 247/2009. (XI. 10.) Korm. rendelet 31. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: A 3. § (5) bekezdését a 238/2000. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 3. § (2) bekezdését a 73/2019. (IV. 5.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^7]: A 3. § (4) bekezdését a 238/2000. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 73/2019. (IV. 5.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (5) bekezdését a 238/2000. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
