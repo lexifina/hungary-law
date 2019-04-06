@@ -422,6 +422,6 @@
 
 | 211 | Zirci | második |
 
-2. melléklet a 47/2017. (IX. 29.) FM rendelethez[^3]
+2. melléklet a 47/2017. (IX. 29.) FM rendelethez[^5]
 
-[^3]: A 2. melléklet a 67/2017. (XII. 27.) FM rendelet 8. §-a szerint módosított szöveg.
+[^5]: A 2. melléklet a 67/2017. (XII. 27.) FM rendelet 8. §-a szerint módosított szöveg.
