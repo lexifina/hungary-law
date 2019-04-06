@@ -1,12 +1,12 @@
-9. §[^39] (1)[^40] A megyei kormányhivatal – a NÉBIH egyetértésével – a szerződést azonnali hatállyal felmondhatja, ha a jogosult állatorvos
+9. §[^40] (1)[^41] A megyei kormányhivatal – a NÉBIH egyetértésével – a szerződést azonnali hatállyal felmondhatja, ha a jogosult állatorvos
 
 a) a szerződés megkötését követően beállott körülmény folytán nem felel meg a rá vonatkozó követelményeknek;
 
 b) a szerződésben meghatározott feladatait, kötelezettségeit neki felróható okból nem, illetve nem személyesen, vagy jogszabálysértő módon, vagy nem szakszerűen, vagy neki felróható módon nem határidőre látja el;
 
-c)[^41] a jogosultság elnyerése során fontos tényt, adatot, körülményt elhallgat, adatot hamisít, vagy a NÉBIH-et, a megyei kormányhivatalt, illetve a járási hivatalt a szerződés szerinti feladatainak ellátásával összefüggésben megtéveszti;
+c)[^42] a jogosultság elnyerése során fontos tényt, adatot, körülményt elhallgat, adatot hamisít, vagy a NÉBIH-et, a megyei kormányhivatalt, illetve a járási hivatalt a szerződés szerinti feladatainak ellátásával összefüggésben megtéveszti;
 
-d)[^42] a szerződésben meghatározott működési területét és hatáskörét túllépi;
+d)[^43] a szerződésben meghatározott működési területét és hatáskörét túllépi;
 
 e) a szerződés szerinti feladatainak ellátásával összefüggő jelentési és adatszolgáltatási kötelezettségének neki felróható módon ismétlődően nem, vagy nem határidőre tesz eleget;
 
@@ -22,7 +22,7 @@ j) a szerződés megkötését követően beállott körülmény folytán már n
 
 (2) Az (1) bekezdés b)–g) pontjában foglaltak miatti felmondás esetében az állatorvos a szerződés felmondásától számított 3 évig nem szerezhet jogosultságot az 1. § szerinti feladat elvégzésére.
 
-[^39]: A 9. § a 369/2012. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^40]: A 9. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 79. § (2) bekezdésével megállapított szöveg.
-[^41]: A 9. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 79. § (3) bekezdés e) és h) pontja, a 441/2015. (XII. 28.) Korm. rendelet 72. § e) pontja szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^42]: A 9. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 175. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^40]: A 9. § a 369/2012. (XII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^41]: A 9. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 79. § (2) bekezdésével megállapított szöveg.
+[^42]: A 9. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 79. § (3) bekezdés e) és h) pontja, a 441/2015. (XII. 28.) Korm. rendelet 72. § e) pontja szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^43]: A 9. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 175. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
