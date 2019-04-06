@@ -1,4 +1,4 @@
-5. § (1)[^8] Az ellenőrzést a járási hivatallal közszolgálati jogviszonyban álló zöldség-gyümölcs minőségellenőr (a továbbiakban: ellenőr) végzi, aki szakirányú képzettséggel rendelkezik, rendszeres továbbképzésben részesül, továbbá a zöldség és gyümölcs ellenőrzéséhez szükséges érvényes hatósági igazolvánnyal rendelkezik. Az ellenőr jogosult az ellenőrzési intézkedések megtételére, szankcionálásra, a külön jogszabály szerinti minőségvédelmi bírság kiszabására. Az ellenőr a járási hivatal illetékességi területén kívül is jogosult vizsgálatok végzésére. Az ellenőrök cím- és telefonjegyzékét a minisztérium közleményben teszi közzé.
+5. § (1)[^8] Az ellenőrzést a járási hivatallal kormányzati szolgálati jogviszonyban álló zöldség-gyümölcs minőségellenőr (a továbbiakban: ellenőr) végzi, aki szakirányú képzettséggel rendelkezik, rendszeres továbbképzésben részesül, továbbá a zöldség és gyümölcs ellenőrzéséhez szükséges érvényes hatósági igazolvánnyal rendelkezik. Az ellenőr jogosult az ellenőrzési intézkedések megtételére, szankcionálásra, a külön jogszabály szerinti minőségvédelmi bírság kiszabására. Az ellenőr a járási hivatal illetékességi területén kívül is jogosult vizsgálatok végzésére. Az ellenőrök cím- és telefonjegyzékét a minisztérium közleményben teszi közzé.
 
 (2)[^9] A Koordinációs Központ szakmai koordináló, operatív feladatokat lát el. A Koordinációs Központ vezetője főosztályvezetői besorolású, és feladatait közvetlenül a NÉBIH vezetőjének irányításával látja el. A Koordinációs Központ:
 
@@ -68,7 +68,7 @@ h) érvényesíti az ellenőrök 1. számú melléklet szerinti arcképes hatós
 
 i) a Koordinációs Központ javaslata alapján a 2. számú melléklet feltételeinek megfelelő vizsgálóhelyeket kijelöli.
 
-[^8]: Az 5. § (1) bekezdése a 63/2005. (VII. 12.) FVM rendelet 2. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 70. § c) és d) pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdése a 63/2005. (VII. 12.) FVM rendelet 2. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 70. § c) és d) pontja, a 13/2019. (IV. 5.) AM rendelet 8. §-a szerint módosított szöveg.
 [^9]: Az 5. § (2) bekezdés nyitó szövegrésze a 63/2005. (VII. 12.) FVM rendelet 2. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 41. § g) pontja szerint módosított szöveg.
 [^10]: Az 5. § (2) bekezdés a) pontja a 63/2005. (VII. 12.) FVM rendelet 2. § (2) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 70. § e) pontja szerint módosított szöveg.
 [^11]: Az 5. § (2) bekezdés s) pontját a 42/2017. (VIII. 17.) FM rendelet 71. §-a hatályon kívül helyezte.

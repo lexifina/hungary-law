@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-82-20-8
 | 2014-03-15 | 2004-82-20-82.9 | 22/2014. (III. 14.) VM rendelet |
 | 2017-01-01 | 2004-82-20-82.10 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-08-18 | 2004-82-20-82.11 | 63/2005. (VII. 12.) FVM rendelet |
+| 2019-04-06 | 2004-82-20-82.12 | 63/2005. (VII. 12.) FVM rendelet |
