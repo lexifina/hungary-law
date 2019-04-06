@@ -8,7 +8,9 @@ c) a 2. számú mellékletben meghatározott igazolás, vagy
 
 d) a Gfbt.-ben meghatározott zöldkártya.
 
-(2) A biztosító köteles a kockázatviselést tanúsító – az (1) bekezdésben meghatározott valamely – igazolóeszközt gépjárművenként egyedileg előállítani és a kockázatviselés teljes időtartamára – késedelmes díjfizetés esetén a késedelemre való tekintettel – az üzemben tartó rendelkezésére bocsátani.
+(2)[^1] A biztosító a kockázatviselést tanúsító, az (1) bekezdésben meghatározott valamely igazolóeszközt gépjárművenként egyedileg előállítja, és a kockázatviselés teljes időtartamára – késedelmes díjfizetés esetén a késedelemre való tekintettel –, akár a biztosításközvetítői tevékenysége keretében eljáró függő vagy független biztosításközvetítő közreműködésével az üzemben tartó rendelkezésére bocsátja. A rendelkezésre bocsátás történhet papír alapon vagy – erre vonatkozó megállapodás alapján – az igazolóeszköz elektronikus képi formájának elektronikus úton történő rendelkezésre bocsátásával.
+
+(2a)[^2] A zöldkártya mint igazolóeszköz elektronikus képi formájának az üzemben tartó részére elektronikus úton történő rendelkezésre bocsátása esetén a biztosító és a közreműködő biztosításközvetítő felhívja az üzemben tartó figyelmét arra, hogy a zöldkártya kizárólag zöld papírra nyomtatva alkalmas a kötelező gépjármű-felelősségbiztosítási fedezet meglétének igazolására. Az üzemben tartó kérése alapján a biztosító a zöldkártyát az elektronikus út mellett papír alapon is díjmentesen rendelkezésére bocsátja.
 
 (3) Késedelmes díjfizetés esetén, ha az üzemben tartó a díjfizetést megfelelő módon igazolja, a biztosító a (2) bekezdésben meghatározott kötelezettségének – az igazolást követően – haladéktalanul köteles eleget tenni.
 
@@ -17,3 +19,6 @@ d) a Gfbt.-ben meghatározott zöldkártya.
 (5) Határozatlan tartamú szerződés esetén az (1) bekezdés a) pontja szerinti biztosítást igazoló okirat, az (1) bekezdés b) pontja szerinti feladóvevény, díjfizetési bizonylat az azokon feltüntetett, díjfizetéssel rendezett időszak végét követő 60 napig, de az időszak végére történő felmondás esetén legfeljebb a biztosítási időszak (évforduló) végéig tanúsítja a kockázatviselés fennállását.
 
 (6) Határozott tartamú szerződés esetén az (1) bekezdés a) pontja szerinti biztosítást igazoló okirat a kockázatviselést a tartam során, annak záró napjáig tanúsítja.
+
+[^1]: Az 1. § (2) bekezdése a 4/2019. (IV. 5.) PM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2a) bekezdését a 4/2019. (IV. 5.) PM rendelet 1. § (2) bekezdése iktatta be.
