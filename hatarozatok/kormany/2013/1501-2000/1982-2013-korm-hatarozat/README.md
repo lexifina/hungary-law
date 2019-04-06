@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1982-30
 | 2014-12-30 | 2013-1982-30-22.4 | 1833/2014. (XII. 29.) Korm. határozat |
 | 2015-09-05 | 2013-1982-30-22.5 | 1598/2015. (IX. 4.) Korm. határozat |
 | 2016-01-01 | 2013-1982-30-22.6 | 2020/2015. (XII. 29.) Korm. határozat |
+| 2019-04-06 | 2013-1982-30-22.7 | 1187/2019. (IV. 5.) Korm. határozat |
