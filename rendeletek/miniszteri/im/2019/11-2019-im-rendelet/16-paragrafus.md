@@ -1,3 +1,5 @@
-## 15. § A 9/2018. (VI. 11.) IM rendelet 84. § (1) bekezdésében a „központosított beszedési számlájára” szövegrész helyébe az „előirányzat-felhasználási keretszámlájára” szöveg és a „központosított beszedési számlaszámról” szövegrész helyébe az „előirányzat-felhasználási keretszámlaszámról” szöveg lép.
+## 14–15. §[^6]
 
 ## 6. Az egyes büntetőeljárási cselekményekre és a büntetőeljárásban részt vevő személyekre vonatkozó szabályokról szóló 12/2018. (VI. 12.) IM rendelet módosítása
+
+[^6]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

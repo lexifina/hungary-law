@@ -1,1 +1,0 @@
-## „(2a) A lefoglalás foganatosításáról készített jegyzőkönyvben a bűnjel egyedi azonosításra alkalmas jellemzőit olyan részletességgel kell feltüntetni, amely megfelel a lefoglalás céljának. Nem szükséges a vagyonelkobzás érdekében lefoglalt bűnjel sorszámának, illetve egyedi azonosító jelének feltüntetése, ha azt más módon – különösen képfelvétel útján – rögzítették.”

@@ -1,3 +1,5 @@
-## 12. § A bíróságon kezelt letétekről szóló 27/2003. (VII. 2.) IM rendelet 52. §-ában a „39. § (2) bekezdésében meghatározott” szövegrész helyébe a „bíróság nevére nyitott központosított beszedési” szöveg lép.
+## 12. §[^4]
 
 ## 4. A büntetés-végrehajtási intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak fegyelmi felelősségéről szóló 14/2014. (XII. 17.) IM rendelet módosítása
+
+[^4]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

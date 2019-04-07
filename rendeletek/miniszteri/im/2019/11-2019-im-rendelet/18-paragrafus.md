@@ -1,5 +1,7 @@
-## 17. § A 12/2018. (VI. 12.) IM rendelet 16. § (2) bekezdésében az „ügyészég” szövegrész helyébe az „ügyészség” szöveg lép.
+## 16–17. §[^7]
 
 ## 7. Záró rendelkezések
 
 18. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^7]: A 16–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
