@@ -1,5 +1,0 @@
-1. § (1) A magyarországi telephelyű gépjárművek, továbbá más tagállami telephelyű és magyarországi rendeltetési hellyel rendelkező gépjárművek kötelező gépjármű-felelősségbiztosítási fedezetének fennállását tanúsító igazolóeszközökre vonatkozó szabályokról szóló 34/2009. (XII. 22.) PM rendelet (a továbbiakban: R.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A biztosító a kockázatviselést tanúsító, az (1) bekezdésben meghatározott valamely igazolóeszközt gépjárművenként egyedileg előállítja, és a kockázatviselés teljes időtartamára – késedelmes díjfizetés esetén a késedelemre való tekintettel –, akár a biztosításközvetítői tevékenysége keretében eljáró függő vagy független biztosításközvetítő közreműködésével az üzemben tartó rendelkezésére bocsátja. A rendelkezésre bocsátás történhet papír alapon vagy – erre vonatkozó megállapodás alapján – az igazolóeszköz elektronikus képi formájának elektronikus úton történő rendelkezésre bocsátásával.”
-
-(2) Az R. 1. §-a a következő (2a) bekezdéssel egészül ki:
