@@ -4,6 +4,7 @@
 
 (2) A támogatható minimális állatlétszám tíz egyed.
 
-(3) A mezőgazdasági termelő, mint tartó tenyészeteiben a kérelmező által tartott állatok létszámát és az (1) bekezdésben meghatározott feltételeket a Magyar Juh- és Kecsketenyésztő Szövetség, az igazolás kiállításakor aktuális adatok szerint, – az agrárpolitikáért felelős miniszterrel kötött megállapodás alapján – térítésmentesen igazolja. Az igazolás másolata elektronikusan, ügyfélkapun keresztül nyújtható be.
+(3)[^40] A mezőgazdasági termelő mint tartó tenyészeteiben a kérelmező által tartott állatok létszámát és az (1) bekezdésben meghatározott feltételeket a Magyar Juh- és Kecsketenyésztő Szövetség az igazolás kiállításakor aktuális adatok szerint – az agrárpolitikáért felelős miniszterrel kötött megállapodás alapján – térítésmentesen igazolja. Az igazolást a mezőgazdasági termelőnek a támogatási kérelméhez kell csatolnia.
 
 [^39]: A 20. § (1a) bekezdését a 17/2017. (IV. 10.) FM rendelet 10. §-a iktatta be.
+[^40]: A 20. § (3) bekezdését a 10/2019. (IV. 1.) AM rendelet 6. §-a iktatta be.
