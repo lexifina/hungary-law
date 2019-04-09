@@ -14,11 +14,11 @@ bb) összesített adatokkal alátámasztva legkésőbb tárgyév szeptember 30-i
 
 ## küldi meg a miniszter részére.
 
-(3)[^38] Az (1) bekezdésben hivatkozott szakvélemény elkészítéséhez a mezőgazdasági igazgatási szerv az OMSZ-től, az OVF-től, az FTFF-től, és az agrárkár-megállapító szervtől a szükséges adatokat hivatalból bekéri. A szakvéleményt az érintett területek településsoros bontásával – megjelölve az érintett járást is –, az aszály vagy az árvíz mértékének részletes bemutatásával kell elkészíteni.
+(3)[^43] Az (1) bekezdésben hivatkozott szakvélemény elkészítéséhez a mezőgazdasági igazgatási szerv az OMSZ-től, az OVF-től, az FTFF-től, és az agrárkár-megállapító szervtől a szükséges adatokat hivatalból bekéri. A szakvéleményt az érintett területek településsoros bontásával – megjelölve az érintett járást is –, az aszály vagy az árvíz mértékének részletes bemutatásával kell elkészíteni.
 
-(4)[^39] A miniszter az Mkk. tv. 12. § (5) bekezdése szerinti közleményt vagy közleményeket a mezőgazdasági igazgatási szerv szakvéleményének kézhezvételét követően adja ki.
+(4)[^44] A miniszter az Mkk. tv. 12. § (5) bekezdése szerinti közleményt vagy közleményeket a mezőgazdasági igazgatási szerv szakvéleményének kézhezvételét követően adja ki.
 
 (5) A miniszter az (1) bekezdés szerinti szakvélemény alapján nyújt tájékoztatást az árvízhelyzetről az Európai Bizottság részére.
 
-[^38]: A 15. § (3) bekezdése a 35/2017. (VII. 6.) FM rendelet 17. § g) pontja szerint módosított szöveg. [A 42/2017. (VIII. 17.) FM rendelet 200. § c) pontjával elrendelt módosítás, amely szerint a „FÖMI-től” szövegrész helyébe a „földmérési és térinformatikai államigazgatási szervtől” szöveg lép, nem vezethető át.]
-[^39]: A 15. § (4) bekezdése a 35/2017. (VII. 6.) FM rendelet 17. § h) pontja szerint módosított szöveg.
+[^43]: A 15. § (3) bekezdése a 35/2017. (VII. 6.) FM rendelet 17. § g) pontja szerint módosított szöveg. [A 42/2017. (VIII. 17.) FM rendelet 200. § c) pontjával elrendelt módosítás, amely szerint a „FÖMI-től” szövegrész helyébe a „földmérési és térinformatikai államigazgatási szervtől” szöveg lép, nem vezethető át.]
+[^44]: A 15. § (4) bekezdése a 35/2017. (VII. 6.) FM rendelet 17. § h) pontja szerint módosított szöveg.

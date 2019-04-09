@@ -1,8 +1,8 @@
 ## 8. A kárenyhítő juttatás összegének megállapítása
 
-12. § (1)[^31] A kárenyhítő juttatás összegének 2. melléklet V. pontja és 3. melléklet szerinti megállapítása során kizárólag a növénykultúra azon hozamérték-csökkenése vehető figyelembe, amelyet elemi káresemény okozott, és azt az agrárkár-megállapító szerv igazolta.
+12. § (1)[^36] A kárenyhítő juttatás összegének 2. melléklet V. pontja és 3. melléklet szerinti megállapítása során kizárólag a növénykultúra azon hozamérték-csökkenése vehető figyelembe, amelyet elemi káresemény okozott, és azt az agrárkár-megállapító szerv igazolta.
 
-(2)[^32] Nem nyújtható kárenyhítő juttatás, ha az agrárkár-megállapító szerv a 10. § (1) bekezdés szerinti döntésében nem igazolta a 9. § (3) bekezdés b) pontjában meghatározott mértékű hozamérték-csökkenést.
+(2)[^37] Nem nyújtható kárenyhítő juttatás, ha az agrárkár-megállapító szerv a 10. § (1) bekezdés szerinti döntésében nem igazolta a 9. § (3) bekezdés b) pontjában meghatározott mértékű hozamérték-csökkenést.
 
 (3) A kárenyhítő juttatás összegének 3. melléklet szerinti számítási módszer alapján történő megállapítása során az elemi káresemények folytán lecsökkent termés betakarításához kapcsolódó ráfordítás-csökkenést, az Mkk. tv. 22. §-ában meghatározott haszonbér-mérséklésből eredő bérleti díjcsökkenést le kell vonni a hozamérték-csökkenés összegéből, és a számítás során a 3. melléklet szerinti költségmegtakarítási fajlagos összegeket kell alkalmazni.
 
@@ -12,5 +12,5 @@
 
 (6) A (4) bekezdés szerinti támogatási intenzitás maximumának túllépése esetén a mezőgazdasági termelőt a túllépés összegével megegyező visszafizetési kötelezettség terheli. A túllépés összegét és a visszafizetési kötelezettségre történő felszólítást az agrárkár-enyhítési szerv határozatban közli a mezőgazdasági termelővel.
 
-[^31]: A 12. § (1) bekezdése a 35/2017. (VII. 6.) FM rendelet 14. §-ával megállapított szöveg.
-[^32]: A 12. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § c) pontja szerint módosított szöveg.
+[^36]: A 12. § (1) bekezdése a 35/2017. (VII. 6.) FM rendelet 14. §-ával megállapított szöveg.
+[^37]: A 12. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § c) pontja szerint módosított szöveg.

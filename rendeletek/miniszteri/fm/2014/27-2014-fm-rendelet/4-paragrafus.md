@@ -16,13 +16,15 @@
 
 (7)[^13] Az (1) és (1a) bekezdés szerinti kárbejelentés elmulasztása esetén a mezőgazdasági termelő kárenyhítő juttatásra vonatkozó kérelmében az adott mezőgazdasági káresemény által előidézett hozamcsökkenés nem vehető figyelembe.
 
-(8)[^14] A fóliás és üvegházi növénykultúrák esetében nem lehetséges kárbejelentést tenni
+(8)[^14] Az egységes kérelemben feltüntetett hasznosítási kódtár szerinti, termesztő berendezésben termesztett fóliás és üvegházi növénykultúrák esetében nem lehetséges kárbejelentést tenni
 
 a) aszálykárra,
 
 b) az aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, őszi fagy, tavaszi fagy, téli fagy, vagy vihar által termelőeszközökben okozott károkra.
 
 (9)[^15] A (8) bekezdésben meghatározott károk nem keletkeztetnek kárenyhítő juttatás igénybevételére vonatkozó jogosultságot.
+
+(10)[^16] Az őszi vetésű szántóföldi növénykultúrák esetében – a tárgyévi kárenyhítő juttatás összegének meghatározásánál – a tárgyév október 31-ig bekövetkezett mezőgazdasági káreseményt a tárgyév november 1. napján bekövetkezettnek kell tekinteni.
 
 [^7]: A 4. § (1a) bekezdését a 36/2016. (V. 13.) Fm rendelet 1. §-a iktatta be.
 [^8]: A 4. § (2) bekezdése az 54/2015. (IX. 16.) FM rendelet 6. § (1) bekezdésével megállapított, a 35/2017. (VII. 6.) FM rendelet 17. § c) pontja szerint módosított szöveg. [A 42/2017. (VIII. 17.) FM rendelet 200. § a) pontjával elrendelt módosítás, amely szerint a „földművelésügyi hatáskörében eljáró megyei kormányhivatal” szövegrész helyébe a „megyei kormányhivatal agrárkár-megállapító szervként eljáró járási hivatala” szöveg lép, nem vezethető át.]
@@ -31,5 +33,6 @@ b) az aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, ősz
 [^11]: A 4. § (5) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § a) pontja szerint módosított szöveg.
 [^12]: A 4. § (6) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § a) pontja szerint módosított szöveg.
 [^13]: A 4. § (7) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § a) pontja szerint módosított szöveg.
-[^14]: A 4. § (8) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be.
+[^14]: A 4. § (8) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be, nyitó szövegrésze a 10/2019. (IV. 1.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^15]: A 4. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be.
+[^16]: A 4. § (10) bekezdését a 10/2019. (IV. 1.) AM rendelet 1. § (2) bekezdése iktatta be.

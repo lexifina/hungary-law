@@ -2,13 +2,13 @@
 
 5. § (1) Az agrárkár-megállapító szerv a mezőgazdasági káresemény bekövetkezését, annak határidőben történt bejelentését, a mezőgazdasági káresemény és a várható hozamcsökkenés közötti ok-okozati összefüggést ellenőrzi.
 
-(2) Az agrárkár-megállapító szerv a várható hozamcsökkenés mértékét az adott mezőgazdasági káresemény, a károsodással érintett terület, valamint a károsodással érintett területen található növénykultúrák vonatkozásában állapítja meg.
+(2)[^17] Az agrárkár-megállapító szerv a várható hozamcsökkenés mértékét az adott mezőgazdasági káresemény, a károsodással érintett terület, valamint a károsodással érintett területen beazonosításra alkalmas állapotban található növénykultúrák vonatkozásában állapítja meg.
 
 (3) Az agrárkár-megállapító szerv a várható hozamcsökkenés megállapítása során
 
 a) az Országos Meteorológiai Szolgálat (a továbbiakban: OMSZ) internetes honlapján közzétett tájékoztatást és az általa az Mkk. tv. 18. § (1) bekezdése szerinti mezőgazdasági kockázatkezelési adatbázisba (a továbbiakban: mezőgazdasági kockázatkezelési adatbázis) szolgáltatott adatokat,
 
-b)[^16] az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) és a Budapest Főváros Kormányhivatalának Földmérési, Távérzékelési és Földhivatali Főosztálya (a továbbiakban: FTFF) által a mezőgazdasági kockázatkezelési adatbázisba szolgáltatott adatokat,
+b)[^18] az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) és a Budapest Főváros Kormányhivatalának Földmérési, Távérzékelési és Földhivatali Főosztálya (a továbbiakban: FTFF) által a mezőgazdasági kockázatkezelési adatbázisba szolgáltatott adatokat,
 
 c) a biztosítók által átadott, az Mkk. tv. 17. § (2) bekezdés a) és b) pontja szerinti adatokat,
 
@@ -32,11 +32,15 @@ b) bármely mezőgazdasági káresemény bejelentését követően, ha megállap
 
 (8) A (7) bekezdés szerinti eljárás esetén az agrárkár-megállapító szerv a lefolytatott adminisztratív ellenőrzés alapján hozza meg a (6) bekezdés szerinti határozatot a mezőgazdasági káresemény bejelentésétől számított hét napon belül.
 
-(9)[^17] A fóliás és üvegházi növénykultúrák esetében
+(9)[^19] A fóliás és üvegházi növénykultúrák esetében
 
 a) az agrárkár-megállapító szerv minden esetben helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot a felhőszakadáskár, jégesőkár, őszi fagykár, tavaszi fagykár, téli fagykár, vagy viharkár vonatkozásában tett kárbejelentésről,
 
 b) a belvíz vagy mezőgazdasági árvíz vonatkozásában tett kárbejelentésre a (7) bekezdésben foglaltak alkalmazandók.
 
-[^16]: Az 5. § (3) bekezdés b) pontja a 35/2017. (VII. 6.) FM rendelet 17. § d) pontja szerint módosított szöveg. [A 42/2017. (VIII. 17.) FM rendelet 200. § b) pontjával elrendelt módosítás, amely szerint a „Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI)” szövegrész helyébe a „földmérési és térinformatikai államigazgatási szerv” szöveg lép, nem vezethető át.]
-[^17]: Az 5. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (3) bekezdése iktatta be.
+(10)[^20] Az agrárkár-megállapító szerv a tárgyévre vonatkozóan szaporítóanyag előállítás céljából termesztett és ilyen minőségében a növénytermesztési hatóság által nyilvántartásba vett növénykultúrák esetében helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot.
+
+[^17]: Az 5. § (2) bekezdése a 10/2019. (IV. 1.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (3) bekezdés b) pontja a 35/2017. (VII. 6.) FM rendelet 17. § d) pontja szerint módosított szöveg. [A 42/2017. (VIII. 17.) FM rendelet 200. § b) pontjával elrendelt módosítás, amely szerint a „Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI)” szövegrész helyébe a „földmérési és térinformatikai államigazgatási szerv” szöveg lép, nem vezethető át.]
+[^19]: Az 5. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (3) bekezdése iktatta be.
+[^20]: Az 5. § (10) bekezdését a 10/2019. (IV. 1.) AM rendelet 2. § (2) bekezdése iktatta be.
