@@ -1,6 +1,6 @@
 ## 12. Rizstermesztés támogatása
 
-15. §[^100] (1) Rizstermesztés támogatása azon területek után vehető igénybe, amelyen a mezőgazdasági termelő
+15. §[^102] (1) Rizstermesztés támogatása azon területek után vehető igénybe, amelyen a mezőgazdasági termelő
 
 a) 1006 10 KN kód alá tartozó rizst termeszt,
 
@@ -18,7 +18,7 @@ b) betakarítást követő két héten belüli értékesítése esetén számlá
 
 igazolja.
 
-(3)[^101]
+(3)[^103]
 
-[^100]: A 15. § a 13/2017. (III. 17.) FM rendelet 22. §-ával megállapított szöveg.
-[^101]: A 15. § (3) bekezdését az 55/2017. (XI. 6.) FM rendelet 26. §-a hatályon kívül helyezte.
+[^102]: A 15. § a 13/2017. (III. 17.) FM rendelet 22. §-ával megállapított szöveg.
+[^103]: A 15. § (3) bekezdését az 55/2017. (XI. 6.) FM rendelet 26. §-a hatályon kívül helyezte.

@@ -12,20 +12,22 @@ d)[^43] a b) pontban meghatározott – Juh ENAR rendelet szerinti – tartós j
 
 (2)[^44] A támogatási kérelem 2015-ben az egységes kérelem benyújtásának kezdő napjától május 22-éig, azt követően tárgyévente február 1. és március 20. között nyújtható be.
 
-(3) A támogatási kérelemhez mellékelni kell a Magyar Juh- és Kecsketenyésztők Szövetsége által kiállított, az igazolás kiállításakor a kérelmező tenyészetében tartott állatok létszámáról és az (1) bekezdés a) pontjában meghatározott feltételekről szóló igazolás másolatát.
+(3)[^45] A támogatási kérelemhez mellékelni kell a Magyar Juh- és Kecsketenyésztő Szövetség által kiállított, az igazolás kiállításakor a kérelmező tenyészetében tartott állatok létszámáról és az (1) bekezdés a) pontjában meghatározott feltételekről szóló igazolás másolatát.
 
 (4) A mezőgazdasági termelő a (3) bekezdés szerinti igazoláson feltüntetett állatlétszámnál nagyobb állatlétszámot a támogatási jogcím vonatkozásában nem igényelhet.
 
-(5)[^45] Az (1) bekezdés c) pontjában meghatározott birtokon tartási időszak végén a Magyar Juh- és Kecsketenyésztők Szövetsége igazolást állít ki a birtokon tartási időszak alatt a kérelmező tenyészetében tartott állatlétszámról, és azt termelőnként legkésőbb tárgyév szeptember 30-ig megküldi a Kincstárnak.
+(5)[^46] Az (1) bekezdés c) pontjában meghatározott birtokon tartási időszak végén a Magyar Juh- és Kecsketenyésztő Szövetség igazolást állít ki a birtokon tartási időszak alatt a kérelmező tenyészetében tartott állatlétszámról, és azt termelőnként legkésőbb tárgyév szeptember 30-ig megküldi a Kincstárnak.
 
-(6)[^46] Az (1) bekezdés c) pontjában meghatározott birtokon tartási kötelezettség teljesülése legfeljebb az (5) bekezdés szerint a mezőgazdasági termelő vonatkozásában megállapított állatlétszámra, és azon állatok esetében állapítható meg, amelyek vonatkozásában az (1) bekezdés b) pontja szerinti követelmény a birtokon tartási időszak első napját megelőző naptól a birtokon tartási időszak alatt teljesült.
+(6)[^47] Az (1) bekezdés c) pontjában meghatározott birtokon tartási kötelezettség teljesülése legfeljebb az (5) bekezdés szerint a mezőgazdasági termelő vonatkozásában megállapított állatlétszámra, és azon állatok esetében állapítható meg, amelyek vonatkozásában az (1) bekezdés b) pontja szerinti követelmény a birtokon tartási időszak első napját megelőző naptól a birtokon tartási időszak alatt teljesült.
 
-(7) A Magyar Juh- és Kecsketenyésztők Szövetsége a (3) és (5) bekezdés szerinti igazolást – az agrárpolitikáért felelős miniszterrel kötött megállapodás alapján – térítésmentesen állítja ki.
+(7)[^48] A Magyar Juh- és Kecsketenyésztő Szövetség a (3) és (5) bekezdés szerinti igazolást – az agrárpolitikáért felelős miniszterrel kötött megállapodás alapján – térítésmentesen állítja ki.
 
-(8)[^47] Ha a mezőgazdasági termelő a SAPS-ÁNT rendelet szerinti anyajuhtartás támogatásához kapcsolódó átmeneti nemzeti támogatással érintett állatállomány után kíván anyajuhtartás támogatásához kapcsolódó termeléshez kötött közvetlen támogatást igénybe venni, és benyújtotta a SAPS-ÁNT rendelet szerinti, az anyajuhtartás támogatásához kapcsolódó átmeneti nemzeti támogatás igénybevételéhez szükséges igazolásokat, akkor ezen igazolásokat a Kincstár a (3) bekezdésben meghatározott igazolásként fogadja el.
+(8)[^49] Ha a mezőgazdasági termelő a SAPS-ÁNT rendelet szerinti anyajuhtartás támogatásához kapcsolódó átmeneti nemzeti támogatással érintett állatállomány után kíván anyajuhtartás támogatásához kapcsolódó termeléshez kötött közvetlen támogatást igénybe venni, és benyújtotta a SAPS-ÁNT rendelet szerinti, az anyajuhtartás támogatásához kapcsolódó átmeneti nemzeti támogatás igénybevételéhez szükséges igazolásokat, akkor ezen igazolásokat a Kincstár a (3) bekezdésben meghatározott igazolásként fogadja el.
 
 [^43]: A 10. § (1) bekezdés d) pontját a 17/2017. (IV. 10.) FM rendelet 12. §-a iktatta be.
 [^44]: A 10. § (2) bekezdése a 22/2015. (V. 13.) FM rendelet 4. § a) pontja, a 4/2016. (I. 20.) FM rendelet 25. §-a szerint módosított szöveg.
-[^45]: A 10. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 80. § e) pontja szerint módosított szöveg.
-[^46]: A 10. § (6) bekezdése a 17/2015. (IV. 9.) FM rendelet 16. § a) pontja szerint módosított szöveg.
-[^47]: A 10. § (8) bekezdése a 88/2016. (XII. 29.) FM rendelet 80. § d) pontja szerint módosított szöveg.
+[^45]: A 10. § (3) bekezdése a 10/2019. (IV. 1.) AM rendelet 9. §-a szerint módosított szöveg.
+[^46]: A 10. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 80. § e) pontja, a 10/2019. (IV. 1.) AM rendelet 9. §-a szerint módosított szöveg.
+[^47]: A 10. § (6) bekezdése a 17/2015. (IV. 9.) FM rendelet 16. § a) pontja szerint módosított szöveg.
+[^48]: A 10. § (7) bekezdése a 10/2019. (IV. 1.) AM rendelet 9. §-a szerint módosított szöveg.
+[^49]: A 10. § (8) bekezdése a 88/2016. (XII. 29.) FM rendelet 80. § d) pontja szerint módosított szöveg.

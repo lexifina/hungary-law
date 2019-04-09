@@ -1,4 +1,4 @@
-## 22/E. §[^137] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrárágazati tárgyú támogatásokat szabályozó rendeletek módosításáról szóló 65/2016. (IX. 21.) FM rendelettel [a továbbiakban: 65/2016. (IX. 21.) FM rendelet] megállapított 11. § (1) bekezdés e) és f) pontját, valamint (9) bekezdését a 65/2016. (IX. 21.) FM rendelet hatálybalépésekor[^138] folyamatban lévő eljárásokban is alkalmazni kell.
+## 22/E. §[^139] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrárágazati tárgyú támogatásokat szabályozó rendeletek módosításáról szóló 65/2016. (IX. 21.) FM rendelettel [a továbbiakban: 65/2016. (IX. 21.) FM rendelet] megállapított 11. § (1) bekezdés e) és f) pontját, valamint (9) bekezdését a 65/2016. (IX. 21.) FM rendelet hatálybalépésekor[^140] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^137]: A 22/E. §-t a 65/2016. (IX. 21.) FM rendelet 24. §-a iktatta be.
-[^138]: A hatálybalépés napja 2016. szeptember 21.
+[^139]: A 22/E. §-t a 65/2016. (IX. 21.) FM rendelet 24. §-a iktatta be.
+[^140]: A hatálybalépés napja 2016. szeptember 21.

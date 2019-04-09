@@ -54,6 +54,12 @@
 
 | 26 | Csipkebogyó | Rosa canina | 1500 | – | 15 év |
 
-6. melléklet a 9/2015. (III. 13.) FM rendelethez[^156]
+| 27 | Kivi | Actinidia deliciosa |  | 400 | 25 év |
 
-[^156]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.
+| 28 | Datolyaszilva | Diospyros kaki | 270 | 660 | 20 év |
+
+| 29 | Közönséges füge | Ficus carica | 330 | 625 | 25 év |
+
+6. melléklet a 9/2015. (III. 13.) FM rendelethez[^158]
+
+[^158]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.
