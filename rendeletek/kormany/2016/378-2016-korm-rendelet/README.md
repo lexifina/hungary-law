@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-378-20-
 | 2018-01-01 | 2016-378-20-22.8 | 437/2017. (XII. 22.) Korm. rendelet |
 | 2018-11-01 | 2016-378-20-22.9 | 270/2017. (IX. 13.) Korm. rendelet |
 | 2019-01-01 | 2016-378-20-22.10 | 250/2018. (XII. 17.) Korm. rendelet |
+| 2019-04-09 | 2016-378-20-22.11 | 12/2019. (IV. 8.) AB határozat |
