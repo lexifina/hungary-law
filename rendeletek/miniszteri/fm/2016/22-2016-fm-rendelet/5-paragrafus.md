@@ -1,25 +1,25 @@
-5. § (1)[^6]
+5. § (1)[^12]
 
-(2) A 9/2015. (III. 13.) FM rendelet 16. §-a szerinti, cukorrépa termesztés támogatását igénylő
+(2)[^13] A 9/2015. (III. 13.) FM rendelet 16. §-a szerinti azon cukorrépa termesztés támogatását igénylőnek, aki
 
-a) azon cukorrépa-termelőnek, aki közvetlenül termel cukorrépát,
+a) közvetlenül termel cukorrépát, a 9/2015. (III. 13.) FM rendelet 16. § (1) bekezdés szerinti szállítási szerződés másolatát,
 
-aa) a 9/2015. (III. 13.) FM rendelet 16. § (1) bekezdés a) pontja szerinti szállítási szerződés másolatát és
+b) cukorrépa integrátoron keresztül termel cukorrépát, a cukorrépa integrátorral kötött termeltetési szerződés másolatát
 
-ab) a 9/2015. (III. 13.) FM rendelet 16. § (1) bekezdés b) pontja szerinti szállítási jog igazolását szolgáló dokumentum másolatát;
+kell az egységes kérelméhez csatolnia.
 
-b) azon cukorrépa-termelőnek, aki cukorrépa integrátoron keresztül termel cukorrépát,
+(3)[^14] A 9/2015. (III. 13.) FM rendelet
 
-ba) a cukorrépa integrátorral kötött termeltetési szerződés másolatát, és
+a) 19. §-a szerinti extenzív gyümölcstermesztés támogatását igénylő ügyfélnek a 9/2015. (III. 13.) FM rendelet 19. § (1) bekezdés d) pontja szerinti nyilatkozatot,
 
-bb) amennyiben az igénylő nem rendelkezik önálló szállítási joggal, a cukorrépa integrátor által a tag nevére szóló, a 9/2015. (III. 13.) FM rendelet 16. § (1) bekezdés b) pontjában foglaltakról kiállított igazolás másolatát
+b) 19/A §-a szerinti intenzív gyümölcstermesztés támogatását igénylő ügyfélnek a 9/2015. (III. 13.) FM rendelet 19/A. § (1) bekezdés d) pontja szerinti nyilatkozatot
 
-## az egységes kérelméhez kell csatolnia.
-
-(3) A 9/2015. (III. 13.) FM rendelet 19. §-a szerinti, gyümölcstermesztés támogatását igénylő ügyfélnek a 9/2015. (III. 13.) FM rendelet 19. § (1) bekezdés d) pontja szerinti nyilatkozatot az egységes kérelemben kell megtennie.
+az egységes kérelem felületen kell megtennie.
 
 (4) A 9/2015. (III. 13.) FM rendelet 21. §-a szerinti, többéves szálas fehérjetakarmány-növények termesztésének támogatását igénylő ügyfélnek az egységes kérelemben kell megjelölnie az első vetés évét és az első vetéssel érintett terület nagyságát, továbbá ha a tárgyévben a 9/2015. (III. 13.) FM rendelet 21. § (3) bekezdése szerinti felülvetés valósul meg, a felülvetés tényét és a felülvetéssel érintett terület nagyságát.
 
 (5) Az ügyfél az egységes kérelemben köteles megjelölni, hogy az adott táblán termesztett növénykultúra – vagy az egymás után termesztett növénykultúrák esetében mely növénykultúra – vonatkozásában igényli a 9/2015. (III. 13.) FM rendelet szerinti támogatást.
 
-[^6]: Az 5. § (1) bekezdését a 72/2016. (XI. 3.) FM rendelet 15. §-a hatályon kívül helyezte.
+[^12]: Az 5. § (1) bekezdését a 72/2016. (XI. 3.) FM rendelet 15. §-a hatályon kívül helyezte.
+[^13]: Az 5. § (2) bekezdése a 10/2019. (IV. 1.) AM rendelet 18. §-ával megállapított szöveg.
+[^14]: Az 5. § (3) bekezdése a 10/2019. (IV. 1.) AM rendelet 18. §-ával megállapított szöveg.

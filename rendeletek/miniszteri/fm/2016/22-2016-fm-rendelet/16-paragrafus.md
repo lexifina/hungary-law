@@ -1,8 +1,8 @@
 ## 4. Az egységes kérelem késedelmes benyújtása
 
-16. § (1)[^31] Az egységes kérelem tárgyév május 15-e után – a (2) bekezdésben foglalt jogkövetkezménnyel – tárgyév június 9-éig nyújtható be, amely benyújtási határidő jogvesztő.
+16. § (1)[^40] Az egységes kérelem tárgyév május 15-e után – a (2) bekezdésben foglalt jogkövetkezménnyel – tárgyév június 9-éig nyújtható be, amely benyújtási határidő jogvesztő.
 
-(2)[^32] A tárgyév május 15-e után, de tárgyév június 9-éig benyújtott egységes kérelem esetében a Kincstár a támogatási összeget munkanaponként egy százalékkal csökkenti az igényelt támogatás vonatkozásában.
+(2)[^41] A tárgyév május 15-e után, de tárgyév június 9-éig benyújtott egységes kérelem esetében a Kincstár a támogatási összeget munkanaponként egy százalékkal csökkenti az igényelt támogatás vonatkozásában.
 
-[^31]: A 16. § (1) bekezdése a 13/2017. (III. 17.) FM rendelet 54. § a)–b) pontja szerint módosított szöveg.
-[^32]: A 16. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 109. § b) pontja, a 13/2017. (III. 17.) FM rendelet 54. § a)–b) pontja szerint módosított szöveg.
+[^40]: A 16. § (1) bekezdése a 13/2017. (III. 17.) FM rendelet 54. § a)–b) pontja szerint módosított szöveg.
+[^41]: A 16. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 109. § b) pontja, a 13/2017. (III. 17.) FM rendelet 54. § a)–b) pontja szerint módosított szöveg.

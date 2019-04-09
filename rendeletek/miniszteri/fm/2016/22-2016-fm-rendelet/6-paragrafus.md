@@ -1,4 +1,4 @@
-6. § (1)[^7] A 10/2015. (III. 13.) FM rendelet szerinti támogatást igénylő ügyfélnek – a 10/2015. (III. 13.) FM rendelet 8. § (5)–(7b) bekezdésében foglaltakra figyelemmel – az egységes kérelemben kell mezőgazdasági parcellánként feltüntetnie
+6. § (1)[^15] A 10/2015. (III. 13.) FM rendelet szerinti támogatást igénylő ügyfélnek – a 10/2015. (III. 13.) FM rendelet 8. § (5)–(7b) bekezdésében foglaltakra figyelemmel – az egységes kérelemben kell mezőgazdasági parcellánként feltüntetnie
 
 a) a vetőmagkeverékek vetésének tényét,
 
@@ -18,4 +18,4 @@ c) kiterjedését a 10/2015. (III. 13.) FM rendelet 5. mellékletében foglalt f
 
 (4) Az ügyfélnek a bejelentett táblák vonatkozásában az egységes kérelemben kell megneveznie az egyazon területen tárgyévben termesztett vagy termeszteni kívánt valamennyi növénykultúrát, valamint meghatároznia a tárgyévben több egymás után termesztett növénykultúrával érintett földterület nagyságát, azok fizikai elhelyezkedésének térképen történő megjelölésével. Ha az ügyfél az egységes kérelemben a tárgyévben egyazon területen másodvetés termesztését is bejelenti, akkor az első és minden további növénykultúra tekintetében is be kell jelenteni a vetés és a betakarítás megvalósulásának időpontját. Az egységes kérelem benyújtása után vetett növénykultúrák megvalósult vetési időpontját a 20. § szerint kell bejelenteni.
 
-[^7]: A 6. § (1) bekezdés nyitó szövegrésze a 8/2018. (III. 29.) FM rendelet 49. § b) pontja szerint módosított szöveg.
+[^15]: A 6. § (1) bekezdés nyitó szövegrésze a 8/2018. (III. 29.) FM rendelet 49. § b) pontja szerint módosított szöveg.
