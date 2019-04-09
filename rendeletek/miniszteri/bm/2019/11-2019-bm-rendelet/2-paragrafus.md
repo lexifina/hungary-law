@@ -1,0 +1,1 @@
+## 1. § A belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet (a továbbiakban: R1.) 2. § (1) bekezdésében a „hivatásos szolgálati,” szövegrész helyébe a „hivatásos szolgálati, rendvédelmi igazgatási szolgálati,” szöveg lép.
