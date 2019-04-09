@@ -1,4 +1,4 @@
-2. § (1)[^3] A szállóférőhelyen történő elhelyezés annak a belügyi szervvel hivatásos szolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személynek biztosítható, aki munka- vagy szolgálati helyén önálló lakással nem rendelkezik, lakhatását egyéb módon megoldani nem tudja.
+2. § (1)[^3] A szállóférőhelyen történő elhelyezés annak a belügyi szervvel hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személynek biztosítható, aki munka- vagy szolgálati helyén önálló lakással nem rendelkezik, lakhatását egyéb módon megoldani nem tudja.
 
 (2)–(3)[^4]
 
@@ -20,7 +20,7 @@ b) a kérelmezőt – szállóférőhely hiányában – a nyilvántartásba vé
 
 (10)[^10] A szabad szállóférőhelyek hasznosításáról – a férőhellyel rendelkező szerv hozzájárulásával – az üzemeltető dönt. Kivételesen, egyedi esetekben a szabad szállóférőhelyek hasznosíthatók a szolgálati jogviszonyban álló személy Polgári Törvénykönyv szerinti közeli hozzátartozója számára, az üzemeltető döntése alapján, legfeljebb 30 napra, a használati díj előzetes megfizetésével.
 
-[^3]: A 2. § eredeti (1) bekezdését az Alkotmánybíróság 7/2002. (II. 28.) AB határozatával megsemmisítette, szövegét újonnan a 42/2012. (VIII. 23.) BM rendelet 2. § (1) bekezdése állapította meg. A 2. § (1) bekezdése a 16/2014. (II. 28.) BM rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 2. § eredeti (1) bekezdését az Alkotmánybíróság 7/2002. (II. 28.) AB határozatával megsemmisítette, szövegét újonnan a 42/2012. (VIII. 23.) BM rendelet 2. § (1) bekezdése állapította meg. A 2. § (1) bekezdése a 16/2014. (II. 28.) BM rendelet 12. § (1) bekezdése, a 11/2019. (IV. 8.) BM rendelet 1. §-a szerint módosított szöveg.
 [^4]: A 2. § (2)–(3) bekezdését a 42/2012. (VIII. 23.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
 [^5]: A 2. § (4) bekezdése a 31/2003. (VII. 18.) BM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 10. §-ának (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^6]: A 2. § (5) bekezdése a 31/2003. (VII. 18.) BM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 10. §-ának (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

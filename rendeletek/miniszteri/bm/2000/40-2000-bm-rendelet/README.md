@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-40-20-0
 | 2017-01-01 | 2000-40-20-0A.14 | 42/2012. (VIII. 23.) BM rendelet |
 | 2018-01-26 | 2000-40-20-0A.15 | 1/2018. (I. 18.) BM rendelet |
 | 2019-01-01 | 2000-40-20-0A.16 | 31/2003. (VII. 18.) BM rendelet |
+| 2019-04-09 | 2000-40-20-0A.17 | 7/2002. (II. 28.) AB határozat |
