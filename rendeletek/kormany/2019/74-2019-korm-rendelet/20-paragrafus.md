@@ -1,0 +1,1 @@
+## 19. § A Mecenatúra a támogatási szerződésben foglalt cél megvalósításához kapcsolódó jogviszonyokat és ügyleteket teljeskörűen és valódi tartalmuk alapján vizsgálja, annak érdekében, hogy kétséget kizáróan megállapítható legyen, hogy a támogatási cél megvalósulása a kedvezményezettel kötött támogatási szerződés rendelkezéseinek megfelelően történt-e.

@@ -1,0 +1,1 @@
+## 4. § A Televíziós Film Mecenatúra (a továbbiakban: Mecenatúra) Általános Pályázati Feltételeit (a továbbiakban: ÁPF) a Televíziós Filmkollégium (a továbbiakban: Filmkollégium) az e rendeletben foglalt szabályok szerint határozza meg.

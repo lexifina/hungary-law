@@ -1,0 +1,1 @@
+## 18. § A támogatás felhasználásának ellenőrzése során a Mecenatúra a teljesség, az észszerűség, az objektivitás, az átláthatóság és a megkülönböztetéstől mentes, hatékony eljárás elveinek figyelembevételével jár el.
