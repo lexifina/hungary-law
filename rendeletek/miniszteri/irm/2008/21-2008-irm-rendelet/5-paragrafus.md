@@ -14,7 +14,7 @@ ae) méltatlanná válás
 
 ## miatt szűnik meg;
 
-b)[^7] a Budapesti Rendőr-főkapitányságról, a Fővárosi Büntetés-végrehajtási Intézetből, a Budapesti Fegyház és Börtönből, az Igazságügyi Megfigyelő és Elmegyógyító Intézetből, illetve az 1/A. §-ára figyelemmel a támogatás engedélyezésekor fennálló szolgálati helyről saját kérésére más szolgálati helyre áthelyezésre kerül;
+b)[^10] a Budapesti Rendőr-főkapitányságról, a Fővárosi Büntetés-végrehajtási Intézetből, a Budapesti Fegyház és Börtönből, az Igazságügyi Megfigyelő és Elmegyógyító Intézetből, illetve az 1/A. §-ára figyelemmel a támogatás engedélyezésekor fennálló szolgálati helyről saját kérésére más szolgálati helyre áthelyezésre kerül;
 
 c) nem tesz eleget az ingatlan-adásvételéhez kapcsolódó kölcsönszerződésben meghatározott fizetési, vagy a 4. § (4) bekezdése szerinti tájékoztatási kötelezettségének, vagy
 
@@ -32,7 +32,7 @@ d) a törvény erejénél fogva
 
 ## szűnik meg.
 
-(3)[^8] A támogatás folyósításának megszüntetését, illetve a támogatottal történt elszámolást követően a jelzálogjog ingatlan-nyilvántartásba történő bejegyzésének törléséről a munkáltató gondoskodik.
+(3)[^11] A támogatás folyósításának megszüntetését, illetve a támogatottal történt elszámolást követően a jelzálogjog ingatlan-nyilvántartásba történő bejegyzésének törléséről a munkáltató gondoskodik.
 
-[^7]: Az 5. § (1) bekezdés b) pontja a 77/2009. (XII. 28.) IRM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (3) bekezdése a 9/2009. (IV. 14.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés b) pontja a 77/2009. (XII. 28.) IRM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (3) bekezdése a 9/2009. (IV. 14.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.

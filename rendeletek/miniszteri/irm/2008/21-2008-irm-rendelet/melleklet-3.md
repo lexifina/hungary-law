@@ -1,4 +1,4 @@
-3. melléklet a 21/2008. (IX. 23.) IRM rendelethez[^10]
+3. melléklet a 21/2008. (IX. 23.) IRM rendelethez[^14]
 
 MINTA
 
@@ -108,4 +108,4 @@ Csatolandó:
 
 3. számú melléklet: Pénzügyi intézménnyel kötött kölcsönszerződés
 
-[^10]: A 3. melléklet a 9/2009. (IV. 14.) IRM rendelet 4. §-a szerint módosított szöveg.
+[^14]: A 3. melléklet a 9/2009. (IV. 14.) IRM rendelet 4. §-a szerint módosított szöveg.
