@@ -1,0 +1,1 @@
+## „(10) Az agrárkár-megállapító szerv a tárgyévre vonatkozóan szaporítóanyag előállítás céljából termesztett és ilyen minőségében a növénytermesztési hatóság által nyilvántartásba vett növénykultúrák esetében helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot.”

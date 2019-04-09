@@ -1,0 +1,3 @@
+## 19. § A 22/2016. (IV. 5.) FM rendelet 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az egységes kérelem, az adatváltozás bejelentése, az adategyeztetés során tett nyilatkozat, a jogszerű földhasználatra vonatkozó nyilatkozat és a 10. § (5) bekezdése szerinti ügyféli észrevétel (a továbbiakban együtt: beadvány) Kincstár általi elektronikus fogadásának tényét az ezeket tartalmazó KR dokumentumnak a benyújtó ügyfél vagy meghatalmazott értesítési tárhelyére történő feltöltése jelenti, beérkezésének időpontját pedig KR dokumentum igazolja. A beadvány beérkezéséről a Kincstár elektronikus úton értesíti az ügyfelet.”
