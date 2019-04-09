@@ -1,4 +1,4 @@
-4. § (1)[^12] E rendelet alapján a legalább 2 éves szolgálati jogviszonnyal rendelkező dolgozó részére saját lakáshelyzetének rendezése céljából a belügyi szerv – a lakáscélú számla vezetésével megbízott pénzintézet útján – lakáscélú kamatmentes munkáltatói kölcsönt (a továbbiakban: munkáltatói kölcsön) nyújthat
+4. § (1)[^13] E rendelet alapján a legalább 2 éves szolgálati jogviszonnyal rendelkező dolgozó részére saját lakáshelyzetének rendezése céljából a belügyi szerv – a lakáscélú számla vezetésével megbízott pénzintézet útján – lakáscélú kamatmentes munkáltatói kölcsönt (a továbbiakban: munkáltatói kölcsön) nyújthat
 
 a) a dolgozó tulajdonába kerülő lakás építéséhez,
 
@@ -12,11 +12,11 @@ e) a dolgozó tulajdonában lévő lakás korszerűsítéséhez, valamint
 
 f) a dolgozó tulajdonában lévő lakás akadálymentesítéséhez.
 
-(2)[^13] Szolgálati jogviszonyként figyelembe vehető a belügyi szerveknél és azok jogelődjeinél eltöltött hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, köztisztviselői közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, igazságügyi alkalmazotti jogviszonyban vagy munkaviszonyban folyamatosan eltöltött idő. A szolgálati jogviszony számításánál – a jogutódlás, átszervezés kivételével – figyelmen kívül kell hagyni az e rendelet hatálya alá nem tartozó munkáltatónál hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban, köztisztviselői közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, igazságügyi alkalmazotti jogviszonyban vagy munkaviszonyban töltött időt. A szolgálati jogviszony időtartamának a megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.
+(2)[^14] Szolgálati jogviszonyként figyelembe vehető a belügyi szerveknél és azok jogelődjeinél eltöltött hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási jogviszonyban, kormánytisztviselői jogviszonyban, köztisztviselői közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, igazságügyi alkalmazotti jogviszonyban vagy munkaviszonyban folyamatosan eltöltött idő. A szolgálati jogviszony számításánál – a jogutódlás, átszervezés kivételével – figyelmen kívül kell hagyni az e rendelet hatálya alá nem tartozó munkáltatónál hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási jogviszonyban, kormánytisztviselői jogviszonyban, köztisztviselői közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, igazságügyi alkalmazotti jogviszonyban vagy munkaviszonyban töltött időt. A szolgálati jogviszony időtartamának a megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.
 
-(3)[^14] Az (1) bekezdés a)–b) pontja szerinti célra munkáltatói kölcsön a következő feltételek együttes fennállása esetén nyújtható:
+(3)[^15] Az (1) bekezdés a)–b) pontja szerinti célra munkáltatói kölcsön a következő feltételek együttes fennállása esetén nyújtható:
 
-a)[^15] a lakás megfelel a méltányolható lakásigény mértékének az együtt költöző, együtt lakó családtagokat is figyelembe véve,
+a)[^16] a lakás megfelel a méltányolható lakásigény mértékének,
 
 b) a lakás haszonélvezeti jogtól mentesen, legalább 50%-os arányban a dolgozó tulajdonába kerül,
 
@@ -36,9 +36,9 @@ g) a dolgozó vállalja, hogy a munkáltatói kölcsönnel érintett lakást ál
 
 h) a dolgozó vállalja, hogy a munkáltatói kölcsönnel érintett lakásra biztosítási szerződést köt, és abban a kár esetére járó biztosítási összeget a munkáltatói kölcsön összegének erejéig a munkáltatói kölcsönt nyújtó belügyi szervre engedményezi.
 
-(4)[^16] Az (1) bekezdés c) pontja szerinti célra munkáltatói kölcsön a következő feltételek együttes fennállása esetén nyújtható:
+(4)[^17] Az (1) bekezdés c) pontja szerinti célra munkáltatói kölcsön a következő feltételek együttes fennállása esetén nyújtható:
 
-a) a lakás megfelel az Szja. törvényben meghatározott méltányolható lakásigény mértékének az együtt költöző, együtt lakó családtagokat is figyelembe véve,
+a)[^18] a lakás megfelel a méltányolható lakásigény mértékének,
 
 b) a lakás haszonélvezeti jogtól mentesen, 100%-os arányban a dolgozó tulajdonába kerül,
 
@@ -56,9 +56,9 @@ f) a dolgozó vállalja, hogy a munkáltatói kölcsönnel érintett lakást ál
 
 g) a dolgozó vállalja, hogy a munkáltatói kölcsönnel érintett lakásra biztosítási szerződést köt, és abban a kár esetére járó biztosítási összeget a munkáltatói kölcsön összegének erejéig a munkáltatói kölcsönt nyújtó belügyi szervre engedményezi.
 
-(5)[^17] Az (1) bekezdés d)–f) pontja szerinti célra munkáltatói kölcsön a következő feltételek együttes fennállása esetén nyújtható:
+(5)[^19] Az (1) bekezdés d)–f) pontja szerinti célra munkáltatói kölcsön a következő feltételek együttes fennállása esetén nyújtható:
 
-a) a lakás megfelel az Szja. törvényben meghatározott méltányolható lakásigény mértékének az együtt költöző, együtt lakó családtagokat is figyelembe véve,
+a)[^20] a lakás megfelel a méltányolható lakásigény mértékének,
 
 b) a lakás haszonélvezeti jogtól mentesen, legalább 50%-os arányban a dolgozó tulajdonában áll,
 
@@ -78,12 +78,14 @@ g) a dolgozó vállalja, hogy a munkáltatói kölcsönnel érintett lakást ál
 
 h) a dolgozó vállalja, hogy a munkáltatói kölcsönnel érintett lakásra biztosítási szerződést köt, és abban a kár esetére járó biztosítási összeget a munkáltatói kölcsön összegének erejéig a munkáltatói kölcsönt nyújtó belügyi szervre engedményezi.
 
-(6)[^18] A korszerűsítéshez, akadálymentesítéshez közvetlenül kapcsolódó helyreállítási munka költsége a korszerűsítés, akadálymentesítés költségének legfeljebb 20%-áig költségként elszámolható.
+(6)[^21] A korszerűsítéshez, akadálymentesítéshez közvetlenül kapcsolódó helyreállítási munka költsége a korszerűsítés, akadálymentesítés költségének legfeljebb 20%-áig költségként elszámolható.
 
-[^12]: A 4. § (1) bekezdése az 1/2018. (I. 18.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^13]: A 4. § (2) bekezdése a 16/2014. (II. 28.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^14]: A 4. § (3) bekezdése az 1/2018. (I. 18.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^15]: A 4. § (3) bekezdés a) pontja a 31/2018. (XII. 19.) BM rendelet 10. §-ával megállapított szöveg.
-[^16]: A 4. § (4) bekezdése az 1/2018. (I. 18.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^17]: A 4. § (5) bekezdése az 1/2018. (I. 18.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^18]: A 4. § (6) bekezdését az 1/2018. (I. 18.) BM rendelet 3. § (3) bekezdése iktatta be.
+[^13]: A 4. § (1) bekezdése az 1/2018. (I. 18.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^14]: A 4. § (2) bekezdése a 16/2014. (II. 28.) BM rendelet 10. § (2) bekezdésével megállapított, a 11/2019. (IV. 8.) BM rendelet 12. § c) pontja szerint módosított szöveg.
+[^15]: A 4. § (3) bekezdése az 1/2018. (I. 18.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. § (3) bekezdés a) pontja a 31/2018. (XII. 19.) BM rendelet 10. §-ával megállapított, a 11/2019. (IV. 8.) BM rendelet 13. §-a szerint módosított szöveg.
+[^17]: A 4. § (4) bekezdése az 1/2018. (I. 18.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^18]: A 4. § (4) bekezdése a) pontja a 11/2019. (IV. 8.) BM rendelet 8. §-ával megállapított szöveg.
+[^19]: A 4. § (5) bekezdése az 1/2018. (I. 18.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^20]: A 4. § (5) bekezdése a) pontja a 11/2019. (IV. 8.) BM rendelet 9. §-ával megállapított szöveg.
+[^21]: A 4. § (6) bekezdését az 1/2018. (I. 18.) BM rendelet 3. § (3) bekezdése iktatta be.

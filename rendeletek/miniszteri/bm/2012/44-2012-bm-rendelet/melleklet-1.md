@@ -1,6 +1,6 @@
-## 35. §[^82] A rendeletnek az egyes lakhatási támogatásokkal, valamint egyéb belügyi feladatokkal kapcsolatos miniszteri rendeletek módosításáról szóló 31/2018. (XII. 19.) BM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésének időpontjában[^83] folyamatban lévő eljárásokban és megismételt eljárásokban is alkalmazni kell.
+## 36. §[^88] E rendeletnek az egyes lakhatási támogatásokkal kapcsolatos miniszteri rendeletek módosításáról szóló 11/2019. (IV. 8.) BM rendelettel megállapított rendelkezéseit a rendvédelmi igazgatási szolgálati jogviszonyban lévőkre 2019. február 1-jétől kell alkalmazni. A 2019. február 1-jén rendvédelmi igazgatási szolgálati jogviszonyban továbbfoglalkoztatott 2019. január 31. napján fennálló lakáscélú munkáltatói kölcsönét a foglalkoztatási jogviszonyának megváltozása nem érinti.
 
-1. melléklet a 44/2012. (VIII. 29.) BM rendelethez[^84]
+1. melléklet a 44/2012. (VIII. 29.) BM rendelethez[^89]
 
 |  | A | B |
 
@@ -24,6 +24,5 @@
 
 | 9. | Terrorelhárítási Központ vezetője | a teljes személyi állomány tekintetében |
 
-[^82]: A 35. §-t a 31/2018. (XII. 19.) BM rendelet 15. §-a iktatta be.
-[^83]: A hatálybalépés időpontja 2019. január 1.
-[^84]: Az 1. mellékletet a 31/2018. (XII. 19.) BM rendelet 16. §-a iktatta be.
+[^88]: A 36. §-t a 11/2019. (IV. 8.) BM rendelet 11. §-a iktatta be.
+[^89]: Az 1. mellékletet a 31/2018. (XII. 19.) BM rendelet 16. §-a iktatta be.

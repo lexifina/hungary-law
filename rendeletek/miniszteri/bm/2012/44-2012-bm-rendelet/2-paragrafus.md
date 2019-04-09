@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya kiterjed a belügyminiszter vezetése, irányítása vagy felügyelete alá tartozó szervekkel (a továbbiakban: belügyi szerv) hivatásos szolgálati, közalkalmazotti, valamint igazságügyi alkalmazotti jogviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személyekre (a továbbiakban együtt: dolgozó).
+## 1. §[^1] A rendelet hatálya kiterjed a belügyminiszter vezetése, irányítása vagy felügyelete alá tartozó szervekkel (a továbbiakban: belügyi szerv) hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közalkalmazotti, valamint igazságügyi alkalmazotti jogviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személyekre (a továbbiakban együtt: dolgozó).
 
 ## 2. §[^2] E rendelet alkalmazásában
 
@@ -12,7 +12,7 @@ b) a munkáltatói kölcsönben részesült dolgozó szolgálati jogviszonyának
 
 c) korábbi, nem belügyi munkáltató által lakáscélra nyújtott munkáltatói kölcsönnek az új, e rendelet hatálya alá tartozó munkáltató általi teljesítése;
 
-3.[^3] együtt költöző, együtt lakó családtagok: a támogatást igénylő munkavállaló, továbbá jövedelmüktől és életkoruktól függetlenül a munkavállaló polgári törvénykönyv szerinti közeli hozzátartozói, házastársának közeli hozzátartozói, élettársa és annak közeli hozzátartozói, feltéve, hogy a lakáscélú munkáltatói támogatással, munkáltatói lakáscélú hitellel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak. Fiatal gyermektelen házaspár esetében a méltányolható lakásigény meghatározásánál együtt költöző, együtt lakó családtagként legfeljebb három születendő gyermeket, egy gyermekes fiatal házaspár esetében további két születendő gyermeket, két gyermekes fiatal házaspár esetében pedig további egy születendő gyermeket is számításba lehet venni. Fiatal a házaspár, ha a lakáscélú munkáltatói támogatás igénylésekor a házastársak egyike sem töltötte be a 40. életévét;
+3.[^3] együtt költöző, együtt lakó családtagok: a támogatást igénylő munkavállaló, továbbá jövedelmüktől és életkoruktól függetlenül a munkavállaló a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozói, házastársának közeli hozzátartozói, élettársa és annak közeli hozzátartozói, feltéve, hogy a lakáscélú munkáltatói támogatással, munkáltatói lakáscélú hitellel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak. Fiatal gyermektelen házaspár esetében a méltányolható lakásigény meghatározásánál együtt költöző, együtt lakó családtagként legfeljebb három születendő gyermeket, egy gyermekes fiatal házaspár esetében további két születendő gyermeket, két gyermekes fiatal házaspár esetében pedig további egy születendő gyermeket is számításba lehet venni. Fiatal a házaspár, ha a lakáscélú munkáltatói támogatás igénylésekor a házastársak egyike sem töltötte be a 40. életévét;
 
 4. korszerűsítés: az Szja. törvényben ekként meghatározott fogalom;
 
@@ -21,6 +21,8 @@ c) korábbi, nem belügyi munkáltató által lakáscélra nyújtott munkáltat�
 6. lakásbővítés: a lakás alapterületének olyan növelése, amely legalább eggyel több lakószoba kialakítását eredményezi;
 
 7. lakásépítés: a dolgozó tulajdonába kerülő lakás építése, ideértve az önálló lakást eredményező emeletráépítést, tetőtér-beépítést, lakás műszaki megosztását, valamint a nem lakás céljára szolgáló helyiségek lakássá történő átalakítását;
+
+7a.[^4] lakás vásárlása: az Szja. törvényben ekként meghatározott fogalom;
 
 8. önerő:
 
@@ -50,7 +52,7 @@ gb) az eladott lakás értékesítésével kapcsolatosan megfizetett, igazolt k�
 
 gc) a bővíteni, korszerűsíteni vagy akadálymentesíteni kívánt lakás megvétele, építése, cseréje esetén az erre fordított összeggel.
 
-9.[^4] méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
+9.[^5] méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
 
 a) egy-két személy esetében legfeljebb három lakószoba,
 
@@ -58,7 +60,8 @@ b) három-négy személy esetében legfeljebb négy lakószoba,
 
 c) minden további személy esetében egy lakószobával nő;
 
-[^1]: Az 1. § a 16/2014. (II. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § a 16/2014. (II. 28.) BM rendelet 10. § (1) bekezdésével megállapított, a 11/2019. (IV. 8.) BM rendelet 12. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § az 1/2018. (I. 18.) BM rendelet 2. §-ával megállapított szöveg.
-[^3]: A 2. § 3. pontja a 31/2018. (XII. 19.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § 9. pontját a 31/2018. (XII. 19.) BM rendelet 9. § (2) bekezdése iktatta be.
+[^3]: A 2. § 3. pontja a 31/2018. (XII. 19.) BM rendelet 9. § (1) bekezdésével megállapított, a 11/2019. (IV. 8.) BM rendelet 12. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 7a. pontját a 11/2019. (IV. 8.) BM rendelet 7. §-a iktatta be.
+[^5]: A 2. § 9. pontját a 31/2018. (XII. 19.) BM rendelet 9. § (2) bekezdése iktatta be.

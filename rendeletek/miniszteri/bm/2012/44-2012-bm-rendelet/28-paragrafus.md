@@ -10,6 +10,6 @@
 
 (5) A Büntetés-végrehajtás Országos Parancsnokságával, valamint a büntetés-végrehajtási intézetekkel és intézményekkel szolgálati jogviszonyban álló igénylő esetén a kérelmek elbírálására a helyi lakásügyi szerv vezetője jogosult.
 
-(6)[^78] Az Alkotmányvédelmi Hivatalnál, a Nemzetbiztonsági Szakszolgálatnál szolgálati jogviszonyban álló vagy a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt igénylő esetén a kérelmek elbírálására e szervek vezetője jogosult.
+(6)[^82] Az Alkotmányvédelmi Hivatalnál, a Nemzetbiztonsági Szakszolgálatnál szolgálati jogviszonyban álló vagy a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt igénylő esetén a kérelmek elbírálására e szervek vezetője jogosult.
 
-[^78]: A 28. § (6) bekezdése a 29/2016. (VII. 15.) BM rendelet 22. §-ával megállapított szöveg.
+[^82]: A 28. § (6) bekezdése a 29/2016. (VII. 15.) BM rendelet 22. §-ával megállapított szöveg.
