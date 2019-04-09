@@ -1,0 +1,3 @@
+5. § (1) A 2. § (1) bekezdésében meghatározott jogcímek esetében a kifizetésekre az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet, valamint a 2. § (1) bekezdésében felsorolt miniszteri rendeletek rendelkezéseit kell alkalmazni.
+
+(2) A 2. § (2) bekezdésében meghatározott intézkedésekkel kapcsolatos kifizetések tekintetében a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet, valamint a 2. § (2) bekezdésében felsorolt kódszámú felhívások rendelkezései az irányadóak.
