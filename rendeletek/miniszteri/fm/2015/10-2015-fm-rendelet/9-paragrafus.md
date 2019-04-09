@@ -4,9 +4,9 @@
 
 a) aki a szántóterülete egészén és a növénytermesztési ciklus jelentős részében víz alatt álló kultúrát termel;
 
-b)[^59] akinek szántóterületének mérete tíz hektárnál kisebb;
+b)[^60] akinek szántóterületének mérete tíz hektárnál kisebb;
 
-c)[^60] akinek a szántóterülete több mint 75%-a
+c)[^61] akinek a szántóterülete több mint 75%-a
 
 ca) parlagon hagyott terület,
 
@@ -16,7 +16,7 @@ cc) hüvelyes növénnyel bevetett terület vagy
 
 cd) a ca)–cc) alpontokban meghatározottak kombinációja;
 
-d)[^61] akinek a szántóterülete, az állandó gyepterülete és az állandó kultúra által együttesen elfoglalt területe több mint 75%-a
+d)[^62] akinek a szántóterülete, az állandó gyepterülete és az állandó kultúra által együttesen elfoglalt területe több mint 75%-a
 
 da) állandó gyepterület,
 
@@ -30,6 +30,6 @@ vagy
 
 e) akinek a tárgyévi egységes kérelemben bejelentett szántóterülete több mint 50%-át az előző évi egységes kérelmében nem jelentette be, vagy nem ugyanazon mezőgazdasági termelő jelentette be, és a szántóterület egészén az előző naptári évben termesztettől növényektől eltérő növényeket termeszt.
 
-[^59]: A 9. § b) pontja a 40/2015. (VII. 13.) FM rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^60]: A 9. § c) pontja a 8/2018. (III. 29.) FM rendelet 22. §-ával megállapított, a 36. § b) pontja szerint módosított szöveg.
-[^61]: A 9. § d) pont záró szövegrésze a 8/2018. (III. 29.) FM rendelet 36. § b) pontja szerint módosított szöveg.
+[^60]: A 9. § b) pontja a 40/2015. (VII. 13.) FM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^61]: A 9. § c) pontja a 8/2018. (III. 29.) FM rendelet 22. §-ával megállapított, a 36. § b) pontja szerint módosított szöveg.
+[^62]: A 9. § d) pont záró szövegrésze a 8/2018. (III. 29.) FM rendelet 36. § b) pontja szerint módosított szöveg.

@@ -10,15 +10,18 @@ c)[^32] az állandó gyepterületen és az ideiglenes gyepterületen – amennyi
 
 (2) Az a terület, amelyen mezőgazdasági termelés folyik, de nagymértékű, súlyos lágyszárú vagy fás szárú vagy nagymértékű, súlyos és maradandó fás szárú gyomosodás észlelhető, a vizsgált támogatási évben nem támogatható. A nagymértékű, súlyos és maradandó fás szárú gyomosodás esetén a területet a Mezőgazdasági Parcella Azonosító Rendszerről szóló miniszteri rendelet értelmében nem támogatható területté kell átsorolni.
 
-(3)[^33] Az a terület, amelyre vonatkozóan a parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.) Korm. rendelet [a továbbiakban: 221/2008. (VIII. 30.) Korm. rendelet] 1. §-a alapján parlagfű elleni közérdekű védekezést rendelnek el, a vizsgált támogatási évben nem támogatható.
+(3)[^33]
 
-(4)[^34] A (3) bekezdés szerinti meg nem felelés megállapításához a Kincstár a földmérési és térinformatikai államigazgatási szerv által működtetett, a parlagfűvel szennyezett területekkel kapcsolatos adatbázisból a 221/2008. (VIII. 30.) Korm. rendelet 4. §-ában foglaltak szerint a vizsgált támogatási év szeptember 15-éig rendelkezésére bocsátott térinformatikai adatokat veszi figyelembe.
+(4)[^34]
 
-(5)[^35] A (3) bekezdés szerinti meg nem felelés adott mezőgazdasági parcella vonatkozásában abban az esetben állapítható meg, ha az adatbázis szerinti területre a mezőgazdasági parcella területe legalább 3 méterrel úgy nyúlik túl, hogy a túlnyúlással érintett terület nagysága eléri a 0,03 hektárt.
+(5)[^35]
+
+(6)[^36] A (3) bekezdés szerinti meg nem felelés esetén a meg nem felelésről szóló döntés véglegessé válását követően a Magyar Államkincstár (a továbbiakban: Kincstár) a meg nem feleléssel érintett tábla kérelmezője tekintetében az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet 3. cikk (2) bekezdésében foglaltak szerint jár el.
 
 [^30]: A 2. § a 13/2017. (III. 17.) FM rendelet 33. §-ával megállapított szöveg.
 [^31]: A 2. § (1) bekezdés a) pontja a 8/2018. (III. 29.) FM rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^32]: A 2. § (1) bekezdés c) pontja a 8/2018. (III. 29.) FM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^33]: A 2. § (3) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be.
-[^34]: A 2. § (4) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be.
-[^35]: A 2. § (5) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be.
+[^33]: A 2. § (3) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 10/2019. (IV. 1.) AM rendelet 12. §-a.
+[^34]: A 2. § (4) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 10/2019. (IV. 1.) AM rendelet 12. §-a.
+[^35]: A 2. § (5) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 10/2019. (IV. 1.) AM rendelet 12. §-a.
+[^36]: A 2. § (6) bekezdését a 10/2019. (IV. 1.) AM rendelet 10. §-a iktatta be.
