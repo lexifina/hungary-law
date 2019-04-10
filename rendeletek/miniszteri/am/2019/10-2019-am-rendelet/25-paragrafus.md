@@ -1,3 +1,5 @@
-## 24. § Hatályát veszti a 22/2016. (IV. 5.) FM rendelet 2. § (3) bekezdése és 27. § (6) bekezdése.
+## 16–24. §[^9]
 
 ## 7. Záró rendelkezés
+
+[^9]: A 16–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

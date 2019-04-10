@@ -1,1 +1,0 @@
-## „(3) Ha a 2. § (1) bekezdésében meghatározott miniszteri rendelet másként nem rendelkezik, az igénybe vehető támogatások alapjául szolgáló terület megállapításánál nem vehetők figyelembe a MePAR rendelet 1. § 10. pontjában felsorolt területek.”
