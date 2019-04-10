@@ -252,16 +252,4 @@ A szárítószekrény olyan felépítésű legyen, hogy a hő gyorsan átjárja 
 
 6.4. 10 cm3 meleg vízzel hígítjuk a mintát, és átmossuk az egész mennyiséget az üvegbot segítségével a bemérőedénybe.
 
-6.5. A vizsgálati mintát tartalmazó bemérőedényt az üvegbottal együtt helyezzük a szárítószekrénybe, és csökkentsük a nyomást 3,3 kPa (34 mbar)-ig vagy annál kisebbre. Szárítsuk 70 ±1 °C-on, a száraz levegő lassú áramlását biztosítva a szárítószekrényen keresztül. A szárítási műveletet 20 órán át kell folytatni. A vákuumszivattyút egész éjszaka üzemeltetni kell, hogy a kb. 3,3 kPa (34 mbar) nyomást biztosítsuk, és a száraz levegő lassú áramlással keringjen.
-
-6.6. Óvatosan növeljük a száraz levegő mennyiségét a külső légnyomás értékéig. Ezután a bemérőedényt tartalmával együtt gyorsan exszikkátorba helyezzük. Lehűtjük és megmérjük 1 mg pontossággal.
-
-6.7. A 6.5. műveletet ismételjük további 4 órán át. Majd újra visszaállítjuk a légnyomást a szárítószekrényben, a bemérőedényt azonnal exszikkátorba téve lehűlni hagyjuk és megmérjük. A szárítást tömegállandóságig folytatjuk. Ez azt jelenti, hogy az azonos bemérőedény két egymást követő mérésénél a különbség nem haladhatja meg a 2 mg-ot. Ha a különbség nagyobb, a 6.7. műveletet meg kell ismételni.
-
-6.8. A vízmentes dextróz vagy dextróz monohidrát szárazanyagtartalmának meghatározásánál a kovaföld és a víz használata nem szükséges.
-
-7. Az eredmények kiszámítása
-
-A szárazanyagtartalmat – a minta tömegszázalékában – a következő képlettel számítjuk ki:
-
 [^87]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.

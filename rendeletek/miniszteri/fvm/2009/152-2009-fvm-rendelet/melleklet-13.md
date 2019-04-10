@@ -30,6 +30,16 @@
 
 ## 5. Nem számít a jelölés szempontjából húsnak a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.14. pontja szerint mechanikailag szétválasztott hús, azaz csontokról mechanikusan lefejtett hús [angolul: Mechanically Separated Meat, MSM] (a továbbiakban: csontokról mechanikusan lefejtett hús). A csontokról mechanikusan lefejtett hús nem számítható be a hústartalomba, és nem jelölhető az 1169/2011/EU európai parlamenti és tanácsi rendelet VII. melléklet B. rész 17. pontja szerint. A csontokról mechanikusan lefejtett hús külön jelölése szükséges az 1169/2011/EU európai parlamenti és tanácsi rendelet VII. melléklet B. rész 18. pontja szerint.
 
+## 5.1. A húskészítmények és előkészített húsok jelölésénél továbbá figyelembe kell venni a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.14. pontja szerinti csontokról mechanikusan lefejtett hús meghatározásán túl, hogy
+
+## a) ha a húskészítmény vagy előkészített hús előállításához használt alapanyag (elsődleges összetevő) több mint 200 mg/kg kalciumot tartalmaz, azt csontokról mechanikusan lefejtett húsnak kell tekinteni;
+
+## b) ha a húskészítmény vagy előkészített hús kalciumtartalma több mint 350 mg/kg, a termék bizonyosan tartalmaz csontokról mechanikusan lefejtett húst. A határérték a termékben lévő húson és csontokról mechanikusan lefejtett húson kívüli egyéb kalciumtartalmú összetevőkben levő kalciumtartalom nélkül értendő.
+
+## 5.1.1. A B és C részben szereplő termékek megnevezése csak abban az esetben használható, ha a húskészítmény vagy előkészített hús kalciumtartalma a 350 mg/kg határértéket nem haladja meg.
+
+## 5.1.2. A kalcium vizsgálati módszere: MSZ EN 15505:2008 B melléklet szerint vagy azzal egyenértékű módszer szerint történik.
+
 ## 6. A B és C részben szereplő termékcsoportok és termékek esetében csontokról mechanikusan lefejtett húst nem lehet felhasználni, kivéve, ha a B és C rész erről másként rendelkezik.
 
 ## III.

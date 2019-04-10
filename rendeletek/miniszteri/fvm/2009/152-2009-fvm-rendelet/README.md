@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2017-12-30 | 2009-152-20-82.35 | 10/2014. (IX. 18.) FM rendelet |
 | 2018-01-01 | 2009-152-20-82.36 | 85/2016. (XII. 19.) FM rendelet |
 | 2018-03-17 | 2009-152-20-82.37 | 37/2010. (IV. 13.) FVM rendelet |
+| 2019-04-10 | 2009-152-20-82.38 | 48/2016. (VII. 18.) FM rendelet |
