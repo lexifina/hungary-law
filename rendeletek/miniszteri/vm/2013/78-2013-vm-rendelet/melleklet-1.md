@@ -1,6 +1,6 @@
-## 13. §[^42] Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel [a továbbiakban: 55/2017. (XI. 6.) FM rendelet] megállapított 4. § (1) bekezdést az 55/2017. (XI. 6.) FM rendelet hatálybalépésekor[^43] folyamatban lévő eljárásokban is alkalmazni kell.
+## 13. §[^43] Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel [a továbbiakban: 55/2017. (XI. 6.) FM rendelet] megállapított 4. § (1) bekezdést az 55/2017. (XI. 6.) FM rendelet hatálybalépésekor[^44] folyamatban lévő eljárásokban is alkalmazni kell.
 
-1. melléklet a 78/2013. (IX. 10.) VM rendelethez[^44]
+1. melléklet a 78/2013. (IX. 10.) VM rendelethez[^45]
 
 ## A beszerzésre kerülő tenyészsertésekkel, szaporítóanyaggal és eszközökkel kapcsolatos követelmények
 
@@ -12,7 +12,7 @@ A beszerzésre kerülő tenyészsertés és a sperma donor kan fajtája nagyfeh�
 
 Közvetlenül a gyártótól vagy forgalmazótól beszerzett új mérleg, amely a Sertés Teljesítményvizsgálati Kódex sajátteljesítmény-vizsgálat fejezetében előírtaknak megfelelő, rögzített vagy mobil, elektronikus, saját belső akkumulátorról is működtethető kiértékelő műszerrel ellátott 1 kg-os pontosságú állatmérleg.
 
-3.[^45] Telepi számítógép
+3.[^46] Telepi számítógép
 
 Közvetlenül a gyártótól vagy forgalmazótól beszerzett új számítógép és új nyomtató, amelyek megfelelnek az alább meghatározottaknak, azokkal egyenértékűek, azonos vagy nagyobb teljesítményre képesek.
 
@@ -42,7 +42,7 @@ Nyomtató:
 
 Közvetlenül a gyártótól vagy forgalmazótól beszerzett új eszközök a 2. mellékletben foglaltak szerint.
 
-[^42]: A 13. §-t az 55/2017. (XI. 6.) FM rendelet 10. §-a iktatta be.
-[^43]: A hatálybalépés időpontja 2017. november 7.
-[^44]: Az 1. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^45]: Az 1. számú melléklet 3 pontja a 9/2018. (VII. 2.) AM rendelet 7. §-a szerint módosított szöveg.
+[^43]: A 13. §-t az 55/2017. (XI. 6.) FM rendelet 10. §-a iktatta be.
+[^44]: A hatálybalépés időpontja 2017. november 7.
+[^45]: Az 1. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 1. számú melléklet 3 pontja a 9/2018. (VII. 2.) AM rendelet 7. §-a szerint módosított szöveg.
