@@ -44,7 +44,7 @@ f) a döntéshozatal helyét és idejét, a hatáskör gyakorlójának nevét, h
 
 g) a döntés kiadmányozójának aláírását és a mezőgazdasági és vidékfejlesztési támogatási szerv bélyegzőlenyomatát.
 
-(4c) A végzésnek – ha jogszabály további követelményt nem állapít meg – tartalmaznia kell az (1) bekezdés a)–c) pontjában, d) pont da) és dc) alpontjában, e) pont ee) és ef) alpontjában, f) és g) pontjában meghatározott tartalmi elemeket. Az eljárást megszüntető végzésnek tartalmaznia kell az (1) bekezdés e) pont ed) alpontjában meghatározott tartalmi elemeket is.
+(4c) A végzésnek – ha jogszabály további követelményt nem állapít meg – tartalmaznia kell az (4b) bekezdés a)–c) pontjában, d) pont da) és dc) alpontjában, e) pont ee) és ef) alpontjában, f) és g) pontjában meghatározott tartalmi elemeket. Az eljárást megszüntető végzésnek tartalmaznia kell az (4b) bekezdés e) pont ed) alpontjában meghatározott tartalmi elemeket is.
 
 (4d) Ügyfél-azonosító megállapítására irányuló kérelem esetében, továbbá a kérelemnek maradéktalanul helyt adó döntés esetében indokolást és jogorvoslatról való tájékoztatást nem tartalmazó egyszerűsített döntés hozható.
 
@@ -64,8 +64,8 @@ g) a döntés kiadmányozójának aláírását és a mezőgazdasági és vidék
 
 (9) Amennyiben jogszabály másként nem rendelkezik, a mezőgazdasági és vidékfejlesztési támogatási szerv az eredeti, az ügyfél aláírásával hitelesített eljárás megindítására irányuló kérelem vagy pályázat alapján hozza meg döntését.
 
-(10) A mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet visszautasítja, amennyiben az ügyfél az intézkedésben való részvételhez szükséges feltételeket mesterséges körülmények létrehozásával azért teremtette meg, hogy az adott támogatási intézkedés céljaival ellentétes előnyhöz jusson.
+(10) A mezőgazdasági és vidékfejlesztési támogatási szerv a kérelmet elutasítja, amennyiben az ügyfél az intézkedésben való részvételhez szükséges feltételeket mesterséges körülmények létrehozásával azért teremtette meg, hogy az adott támogatási intézkedés céljaival ellentétes előnyhöz jusson.
 
-(11) Nem kell a szakhatóságot megkeresni, ha a mezőgazdasági és vidékfejlesztési támogatási szerv a hiánypótlási felszólítás kibocsátására nyitva álló határidőn belül megállapítja, hogy a kérelmet a szakhatósági állásfoglalástól függetlenül el kell utasítani.
+(11) Nem kell a végrehajtásban közreműködő szervet megkeresni, ha a mezőgazdasági és vidékfejlesztési támogatási szerv a hiánypótlási felszólítás kibocsátására nyitva álló határidőn belül megállapítja, hogy a kérelmet a végrehajtásban közreműködő szerv állásfoglalásától függetlenül el kell utasítani.
 
 (12)

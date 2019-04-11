@@ -6,7 +6,7 @@ b) a fellebbezésről lemondtak vagy a fellebbezést visszavonták,
 
 c) a fellebbezésnek – ideértve a végzések elleni önálló fellebbezést – nincs helye, vagy
 
-d) a fellebbezés elbírálására jogosult hatóság az elsőfokú hatóság döntését helybenhagyta.
+d) a miniszter a mezőgazdasági és vidékfejlesztési támogatási szerv döntését helybenhagyta.
 
 (2) A fellebbezésről lemondás vagy a fellebbezés visszavonása esetén a döntés véglegessé válik az elsőfokú döntés közlésekor, ha az ügyfél a kérelem teljesítése esetére már a döntés közlése előtt lemondott a fellebbezésről, és az ügyben nincs ellenérdekű ügyfél.
 

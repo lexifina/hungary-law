@@ -14,4 +14,6 @@ b) a mezőgazdasági és vidékfejlesztési támogatási szerv döntést hozó �
 
 (5) Ha az intézkedés befejezését megelőzően a véglegessé vált határozattal lezárt eljárást követően az ügyfél az intézkedésben vagy az intézkedéscsoportban való részvétel iránti kérelmét visszavonja, és a támogatás folyósítása még nem történt meg, – ha a kérelem visszavonásához jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazható, kötelező jogi aktusa külön jogkövetkezményt nem fűz – a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyben hozott határozatát visszavonja.
 
-(6) Amennyiben az ügyfél folyamatban lévő ügy során olyan intézkedésben vagy intézkedéscsoportban való részvétel iránti kérelmét vonja vissza, amelyben a visszavonásra irányuló kérelme előterjesztéséig a támogatás vagy annak egy részének folyósítása megtörtént (támogatásról való lemondás), úgy a már folyósított támogatásra az intézkedésben való jogosulatlan részvétel szabályait kell alkalmazni.
+(6) Amennyiben az ügyfél folyamatban lévő támogatás során olyan intézkedésben vagy intézkedéscsoportban való részvétel iránti kérelmét vonja vissza, amelyben a visszavonásra irányuló kérelme előterjesztéséig a támogatás vagy annak egy részének folyósítása megtörtént (támogatásról való lemondás), úgy a már folyósított támogatásra az intézkedésben való jogosulatlan részvétel szabályait kell alkalmazni.
+
+(7) A visszavonó, illetve módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a visszavont, illetve a módosított döntés ellen volt.

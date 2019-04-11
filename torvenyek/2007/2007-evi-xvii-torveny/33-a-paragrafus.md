@@ -1,6 +1,6 @@
 33/A. § (1) A tényállás megállapítása céljából a mezőgazdasági és vidékfejlesztési támogatási szerv felhívhatja az ügyfelet okirat vagy más irat bemutatására.
 
-(2) Ha jogszabály másként nem rendelkezik, az ügyfél az iratot másolatban is benyújthatja, ha nyilatkozik arról, hogy az az eredetivel mindenben megegyezik.
+(2) Ha jogszabály másként nem rendelkezik, az ügyfél az iratot, illetve más hatóság által kiállított elektronikus iratot papíralapú másolatban is benyújthatja, ha nyilatkozik arról, hogy az az eredetivel mindenben megegyezik.
 
 (3) Ha a külföldön kiállított közokirat eredetiségével vagy tartalmával kapcsolatban kétség merül fel, a mezőgazdasági és vidékfejlesztési támogatási szerv felhívja az ügyfelet a külön jogszabály szerint felülhitelesített, külföldön kiállított közokirat bemutatására.
 

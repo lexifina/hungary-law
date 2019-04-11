@@ -4,4 +4,4 @@
 
 (3) Az eljárási cselekmény előtt a hatósági tanút a jogairól és kötelességeiről fel kell világosítani.
 
-(4) A hatósági tanút az eljárási cselekmény során tudomására jutott tényekre, adatokra nézve titoktartási kötelezettség terheli, amely alól támogatási szerv, a fellebbezés elbírálására jogosult hatóság vagy bíróság az ügy tárgyát érintő tényekre, adatokra, körülményekre nézve felmentheti.
+(4) A hatósági tanút az eljárási cselekmény során tudomására jutott tényekre, adatokra nézve titoktartási kötelezettség terheli, amely alól támogatási szerv, a miniszter vagy bíróság az ügy tárgyát érintő tényekre, adatokra, körülményekre nézve felmentheti.

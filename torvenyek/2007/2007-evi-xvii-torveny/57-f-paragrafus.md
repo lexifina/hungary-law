@@ -18,7 +18,7 @@ f) ha a szerződés tárgya ezt indokolttá teszi, a tevékenység ellenőrzés�
 
 (3) Ha az ügyfél a szerződésben foglaltakat megszegi, akkor a mezőgazdasági és vidékfejlesztési támogatási szerv az ellenőrzése során feltárt tények, a szerződésszegés súlya, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok jellege, valamint a szerződés alapját képező közérdek hatékony érvényesülése szempontjából, továbbá az addigi teljesítések figyelembevételével mérlegeli, hogy hivatalból megindítja eljárását, intézkedik a végrehajtás megindítása iránt, vagy a hatósági szerződés módosítását kezdeményezi.
 
-(4) Ha a mezőgazdasági támogatási eljárásban szakhatósági állásfoglalást kell beszerezni, a szerződés csak a szakhatóság hozzájárulása esetén és a szakhatósági állásfoglalásban meghatározott előírásoknak és feltételeknek a szerződésbe történő foglalásával köthető meg.
+(4) Ha a mezőgazdasági támogatási eljárásban végrehajtásban közreműködő szerv állásfoglalását kell beszerezni, a szerződés csak a végrehajtásban közreműködő szerv hozzájárulása esetén és a végrehajtásban közreműködő szerv állásfoglalásában meghatározott előírásoknak és feltételeknek a szerződésbe történő foglalásával köthető meg.
 
 (5) Ha a szerződés harmadik személy jogát vagy jogos érdekét érinti, a szerződés megkötése előtt be kell szerezni az érintett írásos hozzájárulását. A hozzájárulás a szerződés érvényességének feltétele.
 

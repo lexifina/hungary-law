@@ -1,4 +1,4 @@
-52. § (1) A helyszíni ellenőrzés során, a helyszínen talált és feltárt körülményt jegyzőkönyvben rögzíteni kell, továbbá az ellenőr a bizonylatokról, könyvekről, nyilvántartásokról és egyéb iratokról az eredetivel egyező másolatot kérhet, fényképet és filmfelvételt készíthet. Ha a technikai feltételek adottak, akkor az ellenőr az ügyfél kérésére a jelenlétében elkészített, az eredetivel egyező másolatot ad a jegyzőkönyvről.
+52. § (1) A helyszíni ellenőrzés során, a helyszínen talált és feltárt körülményt jegyzőkönyvben rögzíteni kell, továbbá az ellenőr a bizonylatokról, könyvekről, nyilvántartásokról és egyéb iratokról az eredetivel egyező másolatot kérhet, fényképet, valamint kép- és hangfelvételt készíthet. Ha a technikai feltételek adottak, akkor az ellenőr az ügyfél kérésére a jelenlétében elkészített, az eredetivel egyező másolatot ad a jegyzőkönyvről.
 
 (2) A jegyzőkönyvben rögzíteni kell az ügyfél által felajánlott és az ellenőr által visszautasított bizonyítást, kitérve a visszautasítás indokaira is.
 
@@ -16,11 +16,15 @@ e) az ügyre vonatkozó lényeges nyilatkozatokat és megállapításokat, az (1
 
 f) a jegyzőkönyv készítésének helyét és időpontját, valamint
 
-g) az eljárási cselekményben érintett személy, az eljárási képességgel nem rendelkező személy képviselője, a hatósági tanú, az eljáró ügyintéző és a jegyzőkönyvvezető oldalankénti aláírását.
+g) a jelen lévő, az eljárási cselekményben érintett személy, az eljárási képességgel nem rendelkező személy képviselője, a hatósági tanú, az eljáró ügyintéző és a jegyzőkönyvvezető oldalankénti aláírását, valamint
+
+h) ha az eljárási cselekményben érintett személy vagy az eljárási képességgel nem rendelkező személy képviselője a jegyzőkönyv aláírását megtagadja, ennek tényét.
 
 (2b) Az eljárási cselekményben érintett személy indokolt kérelmére nyilatkozatát, vallomását, szakértői véleményét vagy azok egyes részét a jegyzőkönyv szó szerint tartalmazza.
 
 (2c) A hangfelvételre, mintavételre, valamint a kép- és hangfelvételre a jegyzőkönyvre vonatkozó szabályokat azzal kell alkalmazni, hogy azok a (2a) bekezdés a)–f) pontjában felsoroltakat tartalmazzák. A hangfelvételt, a mintavétel eredményét tartalmazó dokumentumot, valamint a kép- és hangfelvételt hordozó eszközt az iratokhoz kell csatolni, vagy arról az eljárás befejezéséig a (2a) bekezdésnek megfelelő tartalmú jegyzőkönyvet kell készíteni.
+
+(2d) A helyszíni ellenőrzés során készített fénykép a helyszíni ellenőrzésről készült jegyzőkönyv elválaszthatatlan részét képezi.
 
 (3) Az ellenőr a tényállás tisztázása során az ügyfél javára szolgáló tényeket is köteles rögzíteni és feltárni. A nem bizonyított körülmény az ügyfél terhére nem értékelhető.
 

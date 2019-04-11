@@ -2,6 +2,6 @@
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a 4/A. § (5) bekezdése szerinti kiskorú ügyfél védelme érdekében erre irányuló kérelem nélkül is dönthet a kiskorú ügyfél adatainak zárt kezeléséről. A végzést a kiskorú ügyfél törvényes képviselőjével is közölni kell.
 
-(3) A zártan kezelt adatok megismerésére csak az ügyintéző, a jegyzőkönyvvezető és a leíró, a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője, a felügyeleti szerv, valamint a fellebbezés elbírálására jogosult hatóság erre felhatalmazott ügyintézője és vezetője, az illetékes ügyész és a közigazgatási per során eljáró bíró jogosult.
+(3) A zártan kezelt adatok megismerésére csak az ügyintéző, a jegyzőkönyvvezető és a leíró, a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője, a felügyeleti szerv, valamint a miniszter által vezetett minisztérium erre felhatalmazott ügyintézője és vezetője, az illetékes ügyész és a közigazgatási per során eljáró bíró jogosult.
 
 (4) Az iratbetekintési jog biztosítása érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv – a jogszabályban meghatározott tartalmi és formai követelményeknek egyebekben megfelelő – kivonatot készít az eljárás során keletkezett iratról akként, hogy abból az (1) bekezdésben meghatározott személy kilétére vonatkozóan következtetés ne legyen levonható.

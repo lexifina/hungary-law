@@ -1,4 +1,4 @@
-28/B. § (1) A mezőgazdasági támogatási eljárásban az ügyfél helyett az ügyfél-nyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású, az elektronikus kapcsolattartás feltételeinek megfelelő meghatalmazott személy, illetve törvényes képviselője, valamint elsődleges képviselője is eljárhat. A meghatalmazást – az eseti meghatalmazás kivételével – a mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartásba veszi, hatályát és érvényességét valamennyi eljárási cselekménynél megvizsgálja, és azt ötévente felülvizsgálhatja.
+28/B. § (1) A mezőgazdasági támogatási eljárásban az ügyfél helyett az ügyfél-nyilvántartási rendszerben kérelemre nyilvántartásba vett besorolású, az elektronikus kapcsolattartás feltételeinek megfelelő meghatalmazott személy, illetve törvényes képviselője, valamint elsődleges képviselője is eljárhat. Az állandó meghatalmazást a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon kell bejelenteni. A meghatalmazást – az eseti meghatalmazás kivételével – a mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartásba veszi, hatályát és érvényességét valamennyi eljárási cselekménynél megvizsgálja, és azt ötévente felülvizsgálhatja.
 
 (1a) A meghatalmazás általános jelleggel vagy egyes intézkedésekre szólhat. A meghatalmazás kiterjed az eljárással kapcsolatos minden nyilatkozatra és cselekményre, ideértve a biztosítási intézkedést és a végrehajtási eljárást.
 
@@ -6,7 +6,7 @@
 
 (2) Az ügyfél a meghatalmazás visszavonását, felmondását a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon haladéktalanul köteles bejelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. A képviseleti jog megszűnését a meghatalmazott is bejelentheti.
 
-(3) A képviseleti jog keletkezése és megszűnése a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától hatályos.
+(3) A képviseleti jog keletkezése és megszűnése a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától, vagy ha az ügyfél a bejelentésben későbbi időpontot jelölt meg, akkor a bejelentésben megjelölt, a bejelentés beérkezése napjánál későbbi időponttól hatályos.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az (1) és (1a) bekezdésben foglaltaknak meg nem felelő nyilvántartásba vételi kérelmet visszautasítja A meghatalmazott visszautasítása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv felhívja az ügyfelet, hogy járjon el személyesen, vagy gondoskodjon az (1) és (1a) bekezdésben foglaltaknak megfelelő képviselő alkalmazásáról.
 

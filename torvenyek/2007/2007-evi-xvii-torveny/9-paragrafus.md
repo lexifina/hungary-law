@@ -42,7 +42,7 @@ alapján kijelölt hatóság;
 
 17. mezőgazdasági célú csekély összegű támogatások:
 
-a) az 1407/2013/EU bizottsági rendelet szerinti mezőgazdasági célú általános csekély összegű támogatás,
+a) az 1407/2013/EU bizottsági rendelet szerinti vidékfejlesztési, erdészeti vagy vadgazdálkodási célú általános csekély összegű támogatás,
 
 b) az 1408/2013/EU bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás, továbbá
 
@@ -70,7 +70,7 @@ c) a 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű tá
 
 28. tanúsító szerv: az 1306/2013/EU európai parlamenti és tanácsi rendelet 9. cikkében meghatározottak szerinti szerv;
 
-29. ügyfél: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely támogatást igényel, támogatásra jogosult, vagy akit vagy amelyet a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőrzés alá vont;
+29. ügyfél: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely támogatást igényel, támogatásra, intézkedésben való részvételre jogosult, valamint ezekkel összefüggésben befizetésre, adatszolgáltatásra kötelezett, illetve akit vagy amelyet a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőrzés alá vont;
 
 30. üzemzavar: az ügyfél és a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv és egyéb szervek közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós olyan meghibásodása, valamint olyan karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását;
 

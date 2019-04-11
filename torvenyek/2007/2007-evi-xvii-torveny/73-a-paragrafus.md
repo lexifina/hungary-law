@@ -16,6 +16,6 @@
 
 (8) A nem teljesítési bírság megállapítása nem érinti a késedelmi pótlékfizetési kötelezettséget.
 
-(9) Az (1) bekezdésben vállalt kötelezettségek ismételt megszegése esetén a bírság mértékének megállapításánál jogszabályban meghatározottak szerint a (3)–(5) bekezdésekben szereplő összegek legfeljebb kétszerese vehető figyelembe.
+(9) Az (1) bekezdésben vállalt kötelezettségek ismételt megszegése esetén a bírság mértékének megállapításánál jogszabályban meghatározottak szerint a (3) és (4) bekezdésben szereplő összegek legfeljebb kétszerese vehető figyelembe.
 
 (10) A (3) bekezdésben foglalt élőmunka-ráfordítás jogszabályban meghatározott feltételek teljesülése esetén termelési költségeket csökkentő gépesítéssel legfeljebb 50 százalékkal mérsékelhető.

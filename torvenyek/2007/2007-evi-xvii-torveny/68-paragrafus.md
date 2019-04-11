@@ -12,7 +12,7 @@ d) a pályázat folyamatba épített (adminisztratív, illetve helyszíni), vala
 
 e) az a)–d) pontban szereplő személyek Polgári Törvénykönyv szerinti közeli hozzátartozója;
 
-f) politikai párt vezető tisztségviselője vagy alkalmazottja, valamint önkormányzati vagy országgyűlési képviselő, illetve nemzetiségi szószóló;
+f) politikai párt vezető tisztségviselője vagy alkalmazottja, valamint önkormányzati, európai parlamenti vagy országgyűlési képviselő, illetve nemzetiségi szószóló;
 
 g) akitől a tárgyilagos eljárás egyéb okból nem várható el.
 

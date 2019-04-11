@@ -12,7 +12,7 @@ d)
 
 e) intervenciós raktárregiszter,
 
-f) az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és a 717/2014/EU bizottsági rendelet hatálya alá tartozó, az egy és ugyanazon vállalkozásokra vonatkozó adatokat is tartalmazó mezőgazdasági, halászati, erdészeti és vadgazdálkodási, vidékfejlesztési csekély összegű támogatások nyilvántartási rendszere,
+f) a mezőgazdasági célú csekély összegű támogatások rendszere, amely az egy és ugyanazon vállalkozásokra vonatkozó adatokat is tartalmazza,
 
 g) monitoring adat-nyilvántartási rendszer,
 

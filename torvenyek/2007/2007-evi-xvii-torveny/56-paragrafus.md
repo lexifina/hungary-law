@@ -8,9 +8,9 @@ c) az intézkedés során arányos csökkentést alkalmaz és a kérelmet kizár
 
 d) a döntését közhiteles nyilvántartás adatainak – a 29/A. § (3) bekezdése alkalmazásával – az ügyfél-nyilvántartási rendszerben történt átvezetésével hozta meg,
 
-e) a kérelmet a (2) bekezdés b), c), f) vagy g) pontban meghatározott indokkal utasítja vissza.
+e) a kérelmet a (2) bekezdés b), c) vagy f) pontjában meghatározott indokkal utasítja vissza.
 
-(2) A kérelmet érdemi vizsgálat nélkül el kell utasítani, ha:
+(2) A vissza kell utasítani, ha:
 
 a) a kérelmet a keret kimerülését követően nyújtották be;
 
@@ -42,7 +42,7 @@ n) a mezőgazdasági és vidékfejlesztési támogatási szerv olyan döntésév
 
 (3) Végzés – az (5) bekezdésben foglaltak kivételével – csak a határozat, ennek hiányában az eljárást megszüntető végzés elleni fellebbezésben támadható meg.
 
-(4) Az önálló fellebbezéssel meg nem támadható döntés ellen irányuló fellebbezést az elsőfokú döntést hozó hatóság visszautasítja.
+(4) Az önálló fellebbezéssel meg nem támadható döntés ellen irányuló fellebbezést a mezőgazdasági és vidékfejlesztési támogatási szerv visszautasítja.
 
 (5) Az alábbi elsőfokú végzések ellen önálló fellebbezésnek van helye:
 
@@ -52,12 +52,12 @@ b) az eljárás felfüggesztéséről, a felfüggesztés megszüntetéséről sz
 
 c) az eljárás megszüntetéséről, a kérelem visszautasításáról szóló végzés,
 
-d) a fizetési kedvezményre irányuló kérelmet elutasító végzés,
+d) a fizetési kedvezményre irányuló kérelem tárgyában hozott végzés,
 
 e) az iratbetekintési kérelem elutasításáról szóló végzés,
 
 f) kézbesítési vélelem megdöntésére irányuló kérelem elbírálásáról szóló végzés,
 
-g) az eljárásbeli jogutódlás tárgyában hozott végzés.
+g) a jogutódlás tárgyában hozott végzés.
 
 (6) Az (5) bekezdésben foglalt végzésekkel szembeni fellebbezést elbíráló másodfokú végzések közigazgatási perben megtámadhatóak.

@@ -32,7 +32,7 @@ ac) adózás rendjéről szóló törvény szerinti adóazonosító jelét,
 
 ad) lakóhelyét (egyéni vállalkozó esetében székhelyét),
 
-ae) kiskorú esetében törvényes képviselője, cselekvőképtelen vagy korlátozottan cselekvőképes esetében gyám, gondnok jelen a) pont szerinti adatát,
+ae) kiskorú, illetve cselekvőképtelen vagy korlátozottan cselekvőképes nagykorú esetében törvényes képviselője születési családi- és utónevét, anyja születési családi- és utónevét, születési helyét, idejét és lakóhelyét,
 
 af) iratai őrzésének helyét, ha az nem azonos az ügyfél lakóhelyével,
 
@@ -42,7 +42,7 @@ ah) elektronikus levélcímét,
 
 ai) ügyfélkör szerinti azonosító adatát,
 
-aj) bankszámlaszámát és annak devizanemét – nem magyar állampolgárságú külföldi illetőségű magánszemély (a továbbiakban: külföldi természetes személy) – külföldi természetes személy esetén nemzetközi fizetési szám megadása is lehetséges,
+aj) a 28/A. § (1a) bekezdésében foglaltak szerinti fizetési számlaszámát és annak devizanemét – nem magyar állampolgárságú külföldi illetőségű magánszemély (a továbbiakban: külföldi természetes személy) esetén külföldi fizetési számlaszám megadása is lehetséges;
 
 ak) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
 
@@ -50,7 +50,7 @@ b) nem természetes személy esetén
 
 ba) elnevezését, továbbá rövidített cégnevét,
 
-bb) képviseletére jogosult nevét, lakcímét,
+bb) képviseletére jogosult nevét, lakcímét, az adózás rendjéről szóló törvény szerinti adóazonosító jelét,
 
 bc) telephelyét vagy telephelyeit,
 
@@ -70,11 +70,11 @@ bj) működésének kezdetét,
 
 bk) ügyfélkör szerinti további azonosító adatát,
 
-bl) bankszámlaszámát és annak devizanemét – külföldi természetes személy esetén nemzetközi fizetési szám megadása is lehetséges,
+bl) a 28/A. § (1a) bekezdésében foglaltak szerinti fizetési számlaszámát és annak devizanemét – külföldi nem természetes személy esetén külföldi fizetési számlaszám is megadható,
 
 bm) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
 
-c) külföldi természetes személy vagy külföldi vállalkozás esetén az a) és b) pontban foglalt adatok mellett az illetősége szerinti állam hatósága által megállapított adóazonosító számát,
+c) külföldi természetes személy vagy külföldi nem természetes személy esetén az a) és b) pontban foglalt adatok mellett a magyar adóazonosító számát és az illetékessége szerinti állam hatósága által megállapított adóazonosító számát,
 
 d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező külföldi természetes személy vagy külföldi vállalkozás esetében.
 

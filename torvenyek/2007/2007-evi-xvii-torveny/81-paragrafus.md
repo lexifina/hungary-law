@@ -26,9 +26,11 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a mezőgazdasági és vidékfejlesztési támogatási szervet, a fellebbezés elbírálására jogosult szervet valamint
+a) a mezőgazdasági és vidékfejlesztési támogatási szervet,
 
-b) a gazdasági elemzésekkel foglalkozó intézményt
+b) a gazdasági elemzésekkel foglalkozó intézményt, valamint
+
+c) a végrehajtásban közreműködő szervet
 
 rendeletben kijelölje.
 

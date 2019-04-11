@@ -24,6 +24,32 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 (8) A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát igazolják vagy az önhiba hiányát valószínűsítik.
 
-(9) A kérelmet a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a fellebbezés elbírálására jogosult hatóság bírálja el, a kézbesítés tárgyát képező iratot kiadmányozásától függően.
+(9) A kérelmet a mezőgazdasági és vidékfejlesztési támogatási szerv vagy a miniszter bírálja el, a kézbesítés tárgyát képező irat kiadmányozásától függően.
 
 (10) Az ügyfélkapun keresztül elektronikus úton kézbesített irat az átvétel napján kézbesítettnek minősül, ha a központi elektronikus szolgáltató rendszer az irat kézhezvételét igazolja vissza. Amennyiben az irat átvétele hét napon belül nem kerül visszaigazolásra, a mezőgazdasági és vidékfejlesztési támogatási szerv az iratot ismételten megküldi az ügyfél értesítési tárhelyére. Ebben az esetben az elektronikus úton kézbesített hatósági irat vonatkozásában a kézbesítési vélelem az iratnak az értesítési tárhelyen történő ismételt elhelyezésétől számított hetedik napot követő napon áll be.
+
+(11) Ha jogszabály másként nem rendelkezik, hirdetményi úton történő közlésnek van helye, feltéve, hogy
+
+a) az ügyfél jogutódja nem ismert,
+
+b) az ügyfél nem jelöl meg kézbesítési meghatalmazottat, vagy
+
+c) a hirdetményi kézbesítésen kívül igénybe vehető egyéb közlési módok alkalmazása elháríthatatlan akadályba ütközik, vagy alkalmazásuk előre eredménytelennek mutatkozik.
+
+(12) A hirdetmény tartalmazza
+
+a) a kifüggesztés napját,
+
+b) a mezőgazdasági és vidékfejlesztési támogatási szerv megnevezését,
+
+c) az ügy számát és tárgyát,
+
+d) az ügyfél nevét és az ügyfél-nyilvántartási rendszerben rögzített lakcímét, illetőleg székhelyét, továbbá
+
+e) azt a figyelemfelhívást, hogy a mezőgazdasági és vidékfejlesztési támogatási szerv az ügyben döntést hozott, de annak kézbesítése meghiúsult, ezért az ügyfél vagy képviselője a döntést a mezőgazdasági és vidékfejlesztési támogatási szervnél átveheti.
+
+(13) A hirdetményt a mezőgazdasági és vidékfejlesztési támogatási szerv hirdetőtáblájára ki kell függeszteni, és a szerv elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni.
+
+(14) A hirdetmény mezőgazdasági és vidékfejlesztési támogatási szerv hirdetőtábláján való kifüggesztésének és elektronikus tájékoztatásra szolgáló honlapján való megjelentetésének azonos napon kell megtörténnie. A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a mezőgazdasági és vidékfejlesztési támogatási szerv hirdetőtábláján való kifüggesztését kell alapul venni. Hirdetményi közlés esetén a hirdetmény mezőgazdasági és vidékfejlesztési támogatási szerv hirdetőtábláján való kifüggesztésének és levételének napját az iraton meg kell jelölni, az internetes honlapon történő közzététel idejét pedig visszakereshető módon dokumentálni kell.
+
+(15) Ha a hirdetményi úton történő közlés feltételei már nem állnak fenn, a mezőgazdasági és vidékfejlesztési támogatási szerv haladéktalanul gondoskodik a hirdetmény eltávolításáról, és a kapcsolattartás általános szabályai szerint felveszi a kapcsolatot az ügyféllel.

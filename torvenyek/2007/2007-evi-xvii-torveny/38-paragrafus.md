@@ -4,7 +4,7 @@
 
 (2) A (3) bekezdésben foglalt esetek kivételével a kérelmet postai úton kell benyújtani.
 
-(3) Amennyiben az e törvény végrehajtására kiadott jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító szám megállapítása, valamint az ügyél-nyilvántartási regisztrációs adatok módosítása iránti kérelem személyesen is benyújtható. Az ügyfél-nyilvántartási regisztrációs adatok módosítása iránti kérelem elektronikus úton is benyújtható.
+(3) Amennyiben az e törvény végrehajtására kiadott jogszabály vagy pályázati felhívást tartalmazó közlemény lehetővé teszi, a kérelmet benyújtani, illetve az adatszolgáltatási kötelezettséget teljesíteni a mezőgazdasági és vidékfejlesztési támogatási szervnél személyesen, telefax útján vagy elektronikus úton is lehet a jogszabályban vagy pályázati felhívást tartalmazó közleményben foglaltaknak megfelelően. Az ügyfél-azonosító szám megállapítása iránti kérelem személyesen is, az ügyél-nyilvántartási adatok módosítása iránti kérelem személyes és elektronikus úton is benyújtható.
 
 (4) Jogszabály eltérő rendelkezése hiányában vagy a miniszternek az általa vezetett minisztérium honlapján közzétett közleményében meghatározott, a kérelem benyújtására megállapított határidőt megtartottnak kell tekinteni, ha a kérelem a határidő leteltét követően érkezett meg, de a kérelmet legkésőbb a határidő utolsó napján postára adták, illetve az elektronikus úton benyújtásra kerülő kérelmek esetében az automatikus értesítés legkésőbb a határidő utolsó napjának dátumával történő beérkezést igazolja.
 
@@ -21,6 +21,8 @@ b) az adott támogatási intézkedés konkrét megjelölését,
 c) az egyes intézkedések szerinti támogatások igénybevételének feltételeit meghatározó jogszabályban vagy pályázati felhívásban rögzített adatokat, dokumentumokat, mellékleteket, nyilatkozatokat,
 
 d) az elektronikus úton benyújtott kérelmek kivételével az ügyfél aláírását.
+
+(6b) Ha jogszabály nem írja elő nyomtatvány alkalmazását, a kérelmet a tartalma szerint kell elbírálni.
 
 (7) A kérelem, illetve a pályázat benyújtása, valamint a vonatkozó jogszabályokban, illetve a pályázati felhívásban rögzített feltételek teljesítése az intézkedésben való részvételre nem jelent alanyi jogosultságot, arról csak a rendelkezésre álló jogosultsági keretekre tekintettel hozható döntés.
 

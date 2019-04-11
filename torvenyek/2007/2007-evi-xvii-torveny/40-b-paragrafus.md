@@ -8,8 +8,10 @@ b) az eljárás kérelemre indult és az ügyfél a teljes kérelmét visszavont
 
 c) az ügyfél halála vagy a jogi személy megszűnése következtében az eljárás okafogyottá vált, és eljárásbeli jogutódlás sem következett be,
 
-d) – jogszabály eltérő rendelkezése hiányában – a hivatalbóli eljárás jogsértést nem tárt fel.
+d) – jogszabály eltérő rendelkezése hiányában – a hivatalbóli eljárás jogsértést nem tárt fel,
 
-(2) A mezőgazdasági és vidékfejlesztési támogatási szerv az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak nem tett eleget, illetve nyilatkozattételének elmaradása megakadályozta a tényállás tisztázását.
+e) az eljárás folytatására okot adó körülmény már nem áll fenn.
+
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv az eljárást megszüntetheti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak nem vagy nem teljeskörűen tett eleget, illetve nyilatkozattételének elmaradása vagy hiányossága megakadályozta a tényállás tisztázását.
 
 (3) Ha az ügyfél az eljárást megindító kérelmét a határozat véglegessé válását megelőzően a 38. § (8a) bekezdés szerint visszavonja, a mezőgazdasági és vidékfejlesztési támogatási szerv a határozatát visszavonja és az eljárást megszünteti.

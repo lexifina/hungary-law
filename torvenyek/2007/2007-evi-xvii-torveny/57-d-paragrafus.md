@@ -20,4 +20,4 @@ d) azt jogszabály kizárja vagy feltételhez köti, és a feltétel nem áll fe
 
 (6) A jogszabálysértő döntést megsemmisítő vagy megváltoztató döntés jogorvoslattal történő megtámadása esetén az (5) bekezdés szerinti eljárást fel kell függeszteni.
 
-(7) Felügyeleti eljárás során a felügyeleti szerv jogszabálysértés esetén a mezőgazdasági és vidékfejlesztési támogatási szerv által hozott döntést nem változtathatja meg.
+(7)
