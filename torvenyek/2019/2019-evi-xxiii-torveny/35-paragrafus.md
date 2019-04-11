@@ -1,9 +1,1 @@
 35. § Ez a törvény a kihirdetését követő tizenötödik napon lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
