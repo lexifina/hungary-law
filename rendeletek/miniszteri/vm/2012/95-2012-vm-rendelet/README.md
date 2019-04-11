@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-95-20-2
 | 2017-01-01 | 2012-95-20-2Y.10 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-02-14 | 2012-95-20-2Y.11 | 6/2017. (II. 13.) FM rendelet |
 | 2018-04-04 | 2012-95-20-2Y.12 | 9/2018. (IV. 3.) FM rendelet |
+| 2019-04-11 | 2012-95-20-2Y.13 | 14/2019. (IV. 10.) AM rendelet |

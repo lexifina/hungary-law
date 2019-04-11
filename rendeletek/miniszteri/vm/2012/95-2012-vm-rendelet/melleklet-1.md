@@ -1,6 +1,6 @@
-## 14. §[^32]
+## 14. §[^28]
 
-1. melléklet a 95/2012. (VIII. 30.) VM rendelethez[^33]
+1. melléklet a 95/2012. (VIII. 30.) VM rendelethez[^29]
 
-[^32]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
