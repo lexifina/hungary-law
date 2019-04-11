@@ -4,7 +4,7 @@
 
 |  | A | B | C | D | E | F |
 
-|  | Állomáshelyek | Deviza-alapilletmény | Külképviseleti besorolás | Lakhatási költségtérítés szorzó | Vegyes költségtérítés szorzó | Óvodáztatási és iskoláztatási költségtérítés szorzó |
+|  | Állomáshelyek | Deviza- alapilletmény | Külképviseleti besorolás | Lakhatási költségtérítés szorzó | Vegyes költségtérítés szorzó | Óvodáztatási és iskoláztatási költségtérítés szorzó |
 
 | Nagykövetség |
 
@@ -192,7 +192,7 @@
 
 | 91 | New York ENSZ NK | 489 175 HUF | 30% | 265% | 29% | 261% |
 
-| 92 | Párizs OECD/UNESCO | 476 000 HUF | 20% | 184% | 25% | 191% |
+| 92 | Párizs OECD/ UNESCO | 476 000 HUF | 20% | 184% | 25% | 191% |
 
 | 93 | Ramallah | 474 725 HUF | 15% | 254% | 25% | 85% |
 
@@ -262,7 +262,7 @@
 
 | 125 | Szentpétervár | 482 375 HUF | 5% | 178% | 26% | 210% |
 
-| 126 | Toronto | 446 250 HUF | 10% | 125% | 31% | 131% |
+| 126 | Toronto | 446 250 HUF | 10% | 189% | 36% | 140% |
 
 | 127 | Ungvár | 421 175 HUF | 30% | 85% | 24% | 175% |
 
@@ -272,54 +272,62 @@
 
 | 129 | Edinburgh | 469 200 HUF | 0% | 268% | 29% | 234% |
 
-| 130 | Harare | 467 075 HUF | 0% | 161% | 37% | 141% |
+| 130 | Genf | 521 900 HUF | 0% | 303% | 26% | 160% |
 
-| 131 | Houston | 459 000 HUF | 0% | 186% | 35% | 222% |
+| 131 | Harare | 467 075 HUF | 0% | 161% | 37% | 141% |
 
-| 132 | Kampala | 410 125 HUF | 15% | 205% | 36% | 121% |
+| 132 | Houston | 459 000 HUF | 0% | 186% | 35% | 222% |
 
-| 133 | Kartúm | 459 850 HUF | 40% | 122% | 38% | 188% |
+| 133 | Jeruzsálem | 474 725 HUF | 15% | 254% | 25% | 85% |
 
-| 134 | Lagos | 415 650 HUF | 40% | 220% | 37% | 113% |
+| 134 | Kampala | 410 125 HUF | 15% | 205% | 36% | 121% |
 
-| 135 | Luxembourg | 495 550 HUF | 0% | 210% | 25% | 231% |
+| 135 | Kartúm | 459 850 HUF | 40% | 122% | 38% | 188% |
 
-| 136 | Lyon | 476 000 HUF | 0% | 184% | 25% | 191% |
+| 136 | Lagos | 415 650 HUF | 40% | 220% | 37% | 113% |
 
-| 137 | Lviv | 421 175 HUF | 5% | 118% | 24% | 150% |
+| 137 | Luxembourg | 495 550 HUF | 0% | 210% | 25% | 231% |
 
-| 138 | Melbourne | 448 800 HUF | 0% | 180% | 49% | 90% |
+| 138 | Lviv | 421 175 HUF | 5% | 118% | 24% | 150% |
 
-| 139 | Miami | 459 000 HUF | 0% | 227% | 35% | 222% |
+| 139 | Lyon | 476 000 HUF | 0% | 184% | 25% | 191% |
 
-| 140 | Montevideo | 436 900 HUF | 5% | 250% | 46% | 84% |
+| 140 | Melbourne | 448 800 HUF | 0% | 180% | 49% | 90% |
 
-| 141 | Nürnberg | 453 050 HUF | 0% | 151% | 25% | 95% |
+| 141 | Miami | 459 000 HUF | 0% | 227% | 35% | 222% |
 
-| 142 | Nicosia | 397 800 HUF | 0% | 91% | 29% | 85% |
+| 142 | Montevideo | 436 900 HUF | 5% | 250% | 46% | 84% |
 
-| 143 | Odessza | 421 125 HUF | 5% | 118% | 24% | 150% |
+| 143 | Nicosia | 397 800 HUF | 0% | 91% | 29% | 85% |
 
-| 144 | Panamaváros | 445 825 HUF | 5% | 240% | 46% | 95% |
+| 144 | Nürnberg | 453 050 HUF | 0% | 151% | 25% | 95% |
 
-| 145 | Phenjan | 464 100 HUF | 0% | 85% | 36% | 85% |
+| 145 | Odessza | 421 125 HUF | 5% | 118% | 24% | 150% |
 
-| 146 | Phnompen | 434 350 HUF | 15% | 148% | 36% | 156% |
+| 146 | Panamaváros | 445 825 HUF | 5% | 240% | 46% | 95% |
 
-| 147 | Rosztov | 482 375 HUF | 5% | 140% | 25% | 210% |
+| 147 | Phenjan | 464 100 HUF | 0% | 85% | 36% | 85% |
 
-| 148 | San Francisco | 459 000 HUF | 0% | 415% | 38% | 222% |
+| 148 | Phnompen | 434 350 HUF | 15% | 148% | 36% | 156% |
 
-| 149 | Sepsiszentgyörgy | 405 450 HUF | 0% | 85% | 25% | 128% |
+| 149 | Rosztov | 482 375 HUF | 5% | 140% | 25% | 210% |
 
-| 150 | Split | 425 000 HUF | 0% | 195% | 24% | 85% |
+| 150 | San Francisco | 459 000 HUF | 0% | 415% | 38% | 222% |
 
-| 151 | Sydney | 448 800 HUF | 0% | 272% | 49% | 90% |
+| 151 | Sepsiszentgyörgy | 405 450 HUF | 0% | 85% | 25% | 128% |
 
-| 152 | Valletta | 450 500 HUF | 0% | 114% | 25% | 127% |
+| 152 | Split | 425 000 HUF | 0% | 195% | 24% | 85% |
 
-| 153 | Vancouver | 446 250 HUF | 0% | 227% | 40% | 140% |
+| 153 | Sydney | 448 800 HUF | 0% | 272% | 49% | 90% |
 
-| 154 | Wrocław | 396 525 HUF | 0% | 89% | 25% | 85% |
+| 154 | Szczecin | 396 525 HUF | 0% | 89% | 25% | 85% |
 
-[^1]: Az 1. melléklet a 7/2018. (XII. 28.) KKM rendelet 1. §-ával megállapított szöveg.
+| 155 | Valletta | 450 500 HUF | 0% | 114% | 25% | 127% |
+
+| 156 | Vancouver | 446 250 HUF | 0% | 227% | 40% | 140% |
+
+| 157 | Wrocław | 396 525 HUF | 0% | 89% | 25% | 85% |
+
+| 158 | Xiamen | 471 750 HUF | 5% | 259% | 34% | 179% |
+
+[^1]: Az 1. melléklet az 1/2019. (IV. 10.) KKM rendelet 1. §-ával megállapított szöveg.
