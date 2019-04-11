@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-37-20-2
 | 2017-12-23 | 2014-37-20-2Y.7 | 66/2017. (XII. 22.) FM rendelet |
 | 2018-12-07 | 2014-37-20-2Y.8 | 35/2018. (XII. 6.) AM rendelet |
 | 2019-01-01 | 2014-37-20-2Y.9 | 35/2018. (XII. 6.) AM rendelet |
+| 2019-04-11 | 2014-37-20-2Y.10 | 14/2019. (IV. 10.) AM rendelet |
