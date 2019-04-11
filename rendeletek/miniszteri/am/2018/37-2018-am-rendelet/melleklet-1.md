@@ -1,4 +1,4 @@
-## 10. §[^1]
+## 10. §[^4]
 
 1. melléklet a 37/2018. (XII. 10.) AM rendelethez
 
@@ -72,4 +72,4 @@
 
 34. Fekete berkenye
 
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

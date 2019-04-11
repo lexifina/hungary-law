@@ -16,6 +16,8 @@ c) költségtámogatás
 
 ## formában vehető igénybe.
 
+(2a)[^1] Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, a folyó üzleti évben, valamint az azt megelőző két üzleti évben Magyarországon megállapított mezőgazdasági csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet II. mellékletében foglalt felső határt.
+
 (3) A mezőgazdasági vállalkozásnak az (1) bekezdés a) pontja szerinti tevékenység vagy tevékenységek végzését, a tenyészetében tartott, állategységben kifejezett sertésállományát, valamint a fás szárú gyümölcs termesztéssel érintett terület nagyságát az alábbi dokumentumok igénylőlaphoz történő csatolásával kell igazolnia a KAVOSZ Zrt. számára:
 
 a) sertéstenyésztő tevékenységhez kapcsolódóan a Nemzeti Élelmiszerlánc-biztonsági Hivatal által üzemeltetett, ügyfélkapun keresztül elérhető webENAR felületen közzétett és onnan letölthető, a mezőgazdasági vállalkozás saját tenyészetére vonatkozó – a 2. melléklet szerinti számítási módszertan alapján meghatározott, átlagos állategységben kifejezett sertésállományról szóló – igazolás nyomtatott és a mezőgazdasági vállalkozás által aláírt példánya;
@@ -49,3 +51,5 @@ c) a regisztrációs díj, a fedezetek egy alkalommal történő értékbecslés
 (10) Az ASZK Konstrukciók keretében létrejött ügylet támogatástartalmának kimutatása során a mezőgazdasági csekély összegű támogatás összegének euróra történő átszámításakor az igénylőlap benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
 
 (11) A (6) bekezdés c) pontja szerinti kezelési költségen kívüli költség támogatása esetén a támogatás összegét – a 6. § (2) bekezdése szerinti – kezelési költségen kívüli költségtámogatás iránti kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
+
+[^1]: A 2. § (2a) bekezdését a 14/2019. (IV. 10.) AM rendelet 45. §-a iktatta be.
