@@ -2,17 +2,17 @@
 
 (2) Az (1) bekezdésben foglalt támogatás további feltétele, hogy a dohánytermelő a dohányszárítót dohánylevél szárítás céljára tárgyévben ténylegesen működtesse, és erről a (3) bekezdés szerinti üzemnaplóval alátámasztott nyilatkozatot tegyen.
 
-(3)[^27] Az (2) bekezdésben meghatározott működtetés nyilvántartása céljából az (1) bekezdésben foglalt támogatásra jogosult dohánytermelő a saját és a bérszárított dohány termelése vonatkozásában is köteles telephelyenként üzemnaplót vezetni a Kincstár által rendszeresített és a honlapján közleményben közzétett nyomtatványnak megfelelően. Az üzemnaplót a számvitelről szóló törvény szerinti számviteli bizonylatként kell kezelni.
+(3)[^32] Az (2) bekezdésben meghatározott működtetés nyilvántartása céljából az (1) bekezdésben foglalt támogatásra jogosult dohánytermelő a saját és a bérszárított dohány termelése vonatkozásában is köteles telephelyenként üzemnaplót vezetni a Kincstár által rendszeresített és a honlapján közleményben közzétett nyomtatványnak megfelelően. Az üzemnaplót a számvitelről szóló törvény szerinti számviteli bizonylatként kell kezelni.
 
 (4) Bérszárítás esetén az üzemnaplót mind a bérbeadónak, mind pedig a bérbevevőnek alá kell írnia, amelyből egy példányt a bérbevevő kap meg.
 
-(5)[^28] A természetes szárítású dohány esetében az (1)–(4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a dohányszárító működési költségei alatt a felhasznált tüzelőanyag helyett a számlával igazoltan megvásárolt természetes alapanyagú fűzőzsineg felhasználását kell érteni (jogosultságonként 7 kilogramm természetes alapanyagú fűzőzsineg).
+(5)[^33] A természetes szárítású dohány esetében az (1)–(4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a dohányszárító működési költségei alatt a felhasznált tüzelőanyag helyett a számlával igazoltan megvásárolt természetes alapanyagú fűzőzsineg felhasználását kell érteni (jogosultságonként 7 kilogramm természetes alapanyagú fűzőzsineg).
 
-(6)[^29] Az energiával fűtött dohányszárítónként vagy az (5) bekezdés szerinti dohányszárítók falugazdász által igazolt minden 400 légköbmétere után az igényelhető általános csekély összegű támogatás legmagasabb összege
+(6)[^34] Az energiával fűtött dohányszárítónként vagy az (5) bekezdés szerinti dohányszárítók falugazdász által igazolt minden 400 légköbmétere után az igényelhető általános csekély összegű támogatás legmagasabb összege
 
-a)[^30] 1 500 000 Ft – a 2016. évben benyújtott támogatási kérelmek esetében 1 559 300 Ft, a 2017. évben benyújtott támogatási kérelmek esetében 1 548 300 Ft, a 2018. évben benyújtott támogatási kérelmek esetében 1 550 300 Ft –,
+a)[^35] 1 500 000 Ft – a 2016. évben benyújtott támogatási kérelmek esetében 1 559 300 Ft, a 2017. évben benyújtott támogatási kérelmek esetében 1 548 300 Ft, a 2018. évben benyújtott támogatási kérelmek esetében 1 550 300 Ft –,
 
-b)[^31] a dohánytermelő által aktivált és a 4. § (3) bekezdése szerinti kötelezettség-megosztással nem érintett összes támogatási jogosultságai számánál öttel kisebb szám megszorozva 300 000 Ft-tal – a 2016. évben benyújtott támogatási kérelmek esetében 311 860 Ft-tal, a 2017. évben benyújtott támogatási kérelmek esetén 309 780 Ft-tal, a 2018. évben benyújtott támogatási kérelmek esetén 310 060 Ft-tal –, de legfeljebb 195 000 euró, vagy
+b)[^36] a dohánytermelő által aktivált és a 4. § (3) bekezdése szerinti kötelezettség-megosztással nem érintett összes támogatási jogosultságai számánál öttel kisebb szám megszorozva 300 000 Ft-tal – a 2016. évben benyújtott támogatási kérelmek esetében 311 860 Ft-tal, a 2017. évben benyújtott támogatási kérelmek esetén 309 780 Ft-tal, a 2018. évben benyújtott támogatási kérelmek esetén 310 060 Ft-tal –, de legfeljebb 195 000 euró, vagy
 
 c) ha a támogatás összege – a támogatáshalmozódási szabályokra is figyelemmel – az a) és b) pontban foglaltaknál alacsonyabb, akkor a dohánytermelő rendelkezésére álló szabad általános csekély összegű támogatási keretösszeg.
 
@@ -20,7 +20,7 @@ c) ha a támogatás összege – a támogatáshalmozódási szabályokra is figy
 
 (8) Az (5) bekezdésben foglalt fűzőzsineg-felhasználást igazoló bizonylatokat a dohánytermelő köteles az általános csekély összegű támogatás iránti kérelméhez csatolni.
 
-(9) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU rendelet hatálya alá tartozó, a folyó pénzügyi évben, valamint az azt megelőző két pénzügyi év során odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget.
+(9)[^37] Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU rendelet hatálya alá tartozó, a folyó üzleti évben, valamint az azt megelőző két üzleti év során odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget.
 
 (10) Amennyiben a dohányszárítót tárgyévben több dohánytermelő is használja, akkor a dohányszárító üzemeltetése után a (6) bekezdés szerinti támogatást az üzemnaplóban dokumentált használat arányában kell az egyes dohánytermelők között megosztani.
 
@@ -30,11 +30,12 @@ c) ha a támogatás összege – a támogatáshalmozódási szabályokra is figy
 
 (13) A (6) bekezdés szerinti, támogatásra rendelkezésre álló összeg a 13. § (1) bekezdése szerint megállapított, összes mezőgazdasági csekély összegű támogatás levonása után a 12. §-ban meghatározott keretösszegből fennmaradó összeg. Ha a (6) bekezdés szerint kifizethető összes általános csekély összegű támogatás meghaladja a rendelkezésre álló összeget, akkor a támogatás mértékét minden dohánytermelő vonatkozásában arányos csökkentéssel kell megállapítani.
 
-(14)[^32] Az általános csekély összegű támogatásról a Kincstár határozatot hoz a mezőgazdasági csekély összegű támogatásról szóló határozat kiadását követő 70 napon belül.
+(14)[^38] Az általános csekély összegű támogatásról a Kincstár határozatot hoz a mezőgazdasági csekély összegű támogatásról szóló határozat kiadását követő 70 napon belül.
 
-[^27]: A 14. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § c) pontja szerint módosított szöveg.
-[^28]: A 14. § (5) bekezdése a 4/2019. (III. 6.) AM rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^29]: A 14. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 68. §-ával megállapított szöveg.
-[^30]: A 14. § (6) bekezdés a) pontja a 9/2018. (VII. 2.) AM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^31]: A 14. § (6) bekezdés b) pontja a 9/2018. (VII. 2.) AM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^32]: A 14. § (14) bekezdését a 9/2018. (VII. 2.) AM rendelet 18. § (2) bekezdése iktatta be.
+[^32]: A 14. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 94. § c) pontja szerint módosított szöveg.
+[^33]: A 14. § (5) bekezdése a 4/2019. (III. 6.) AM rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^34]: A 14. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 68. §-ával megállapított szöveg.
+[^35]: A 14. § (6) bekezdés a) pontja a 9/2018. (VII. 2.) AM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^36]: A 14. § (6) bekezdés b) pontja a 9/2018. (VII. 2.) AM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^37]: A 14. § (9) bekezdése a 14/2019. (IV. 10.) AM rendelet 37. §-a szerint módosított szöveg.
+[^38]: A 14. § (14) bekezdését a 9/2018. (VII. 2.) AM rendelet 18. § (2) bekezdése iktatta be.

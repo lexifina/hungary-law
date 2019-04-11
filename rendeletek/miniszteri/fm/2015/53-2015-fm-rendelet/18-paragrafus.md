@@ -1,5 +1,5 @@
-## 17. §[^37] A Kincstár a 4. §-ban foglaltak teljesülését a támogatás kifizetését megelőzően és követően ellenőrzi, amely kiterjed a szerkezetátalakítási programban résztvevő valamennyi dohánytermelő 5%-ára.
+## 17. §[^43] A Kincstár a 4. §-ban foglaltak teljesülését a támogatás kifizetését megelőzően és követően ellenőrzi, amely kiterjed a szerkezetátalakítási programban résztvevő valamennyi dohánytermelő 5%-ára.
 
 ## 4. Záró rendelkezések
 
-[^37]: A 17. § a 88/2016. (XII. 29.) FM rendelet 94. § i) pontja szerint módosított szöveg.
+[^43]: A 17. § a 88/2016. (XII. 29.) FM rendelet 94. § i) pontja szerint módosított szöveg.
