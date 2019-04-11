@@ -222,6 +222,10 @@
 
 |  |  | 566 | Kormány által létrehozott alapítvány |
 
+|  |  | 567 | Vagyonkezelő alapítvány |
+
+|  |  | 568 | Közérdekű vagyonkezelő alapítvány |
+
 |  |  | 569 | Egyéb alapítvány |
 
 |  | 57 |  | Nonprofit gazdasági társaság |
