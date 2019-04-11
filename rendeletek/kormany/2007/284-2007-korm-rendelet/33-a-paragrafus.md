@@ -1,6 +1,6 @@
-## Zaj vagy rezgés mérésével kapcsolatos szabályok[^52]
+## Zaj vagy rezgés mérésével kapcsolatos szabályok[^55]
 
-33/A. §[^53] (1) A környezetvédelmi hatóság vagy az ügyfél által végzett joghatással járó zajmérés (a továbbiakban: joghatással járó zajmérés) csak hitelesített és 1. pontossági osztályú zajmérő műszerrel végezhető.
+33/A. §[^56] (1) A környezetvédelmi hatóság vagy az ügyfél által végzett joghatással járó zajmérés (a továbbiakban: joghatással járó zajmérés) csak hitelesített és 1. pontossági osztályú zajmérő műszerrel végezhető.
 
 (2) A joghatással járó eseti zaj- vagy rezgésmérésről mérési jegyzőkönyvet kell készíteni.
 
@@ -10,5 +10,5 @@
 
 (5) A rezgésmérésről készült mérési jegyzőkönyv tartalmi követelményeit a 6. számú melléklet tartalmazza.
 
-[^52]: A 33/A. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 577. § (3) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 200. § (4) bekezdésével megállapított szöveg.
-[^53]: A 33/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 577. § (3) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 200. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^55]: A 33/A. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 577. § (3) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 200. § (4) bekezdésével megállapított szöveg.
+[^56]: A 33/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 577. § (3) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 200. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

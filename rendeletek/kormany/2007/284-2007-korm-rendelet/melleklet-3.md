@@ -1,4 +1,4 @@
-3. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^57]
+3. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^60]
 
 ## A zaj-, illetve rezgésvédelmi bírság kiszabására vonatkozó számítási szabályok
 
@@ -48,7 +48,7 @@
 
 – CB: az 1.3 összefüggés szerinti módosító tényező.
 
-1.4. A 28. § (3) bekezdésében felsorolt jogsértések vonatkozásában a környezetvédelmi hatóság a zajbírságot egész évre egy összegben szabja ki. A zajbírság megállapításának módját az 1.4.1.–1.4.3. alpont tartalmazza.
+1.4. A 28. § (3) bekezdésében felsorolt jogsértések vonatkozásában a zajbírság megállapításának módját az 1.4.1.–1.4.3. alpont tartalmazza.
 
 1.4.1. A környezetvédelmi hatóság valamennyi határérték túllépéssel érintett napra külön meghatározza a határérték túllépés miatti zajbírság összeget.
 
@@ -128,14 +128,20 @@ nappal megállapított túllépés esetén: k =1,
 
 4.1. A környezeti zajforrás üzemeltetője:
 
-a) a jogszabályban, vagy a hatósági határozatban foglalt kötelezettség – ide nem értve a b)–d) pont szerinti kötelezettséget és a zajterhelési vagy a zajkibocsátási határérték betartására vonatkozó kötelezettséget – teljesítésnek elmulasztása esetén 100 000 Ft összegű,
+a) a jogszabályban, vagy a hatósági határozatban foglalt kötelezettség – ide nem értve a b)–e) pont szerinti kötelezettséget és a zajterhelési vagy a zajkibocsátási határérték betartására vonatkozó kötelezettséget – teljesítésnek elmulasztása esetén 100 000 Ft összegű,
 
-b) a zaj vagy rezgés elleni védelemmel kapcsolatos adatszolgáltatási kötelezettség vagy az adatszolgáltatással összefüggő hiánypótlás teljesítésének elmulasztása esetén: 50 000 Ft összegű,
+b) a zaj vagy rezgés elleni védelemmel kapcsolatos adatszolgáltatási kötelezettség vagy az adatszolgáltatással összefüggő hiánypótlás határidőre történő teljesítésének elmulasztása esetén:
 
-c) a 27/2008. (XII. 3.) KvVM–EüM rendelet 2/A. § (2) bekezdés c) pontja, (6) bekezdés c) pontja vagy (7) bekezdése szerinti tilalom megszegése esetén 100 000 Ft/nap összegű,
+ba) az éves adatszolgáltatásra kötelezett üzemeltetők vonatkozásában: 50 000 Ft/nap összegű,
+
+bb) a ba) alponttól eltérő esetben: egyszeri 50 000 Ft összegű,
+
+c) a 27/2008. (XII. 3.) KvVM–EüM rendelet 2/A. § (2) bekezdés b) pontja vagy 2/B. § (7) bekezdés c) pontja szerinti tilalom megszegése esetén 100 000 Ft/nap összegű,
 
 d) a zajkibocsátási határértékek megállapításának, valamint a zaj- és rezgéskibocsátás ellenőrzésének módjáról szóló 93/2007. (XII. 18.) KvVM rendelet 4. § (1a) vagy (1d) bekezdése szerinti mérési kötelezettség teljesítésének elmulasztása esetén: 100 000 Ft/nap összegű
 
+e) a nemzetközi licenccel rendelkező versenypályán a környezetvédelmi hatóság által megtiltott rendezvény megtartása esetén rendezvénynaponként 1 000 000 Ft összegű
+
 bírság megfizetésére köteles.
 
-[^57]: A 3. számú melléklet a 427/2015. (XII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^60]: A 3. számú melléklet a 427/2015. (XII. 23.) Korm. rendelet 9. §-a, a 61/2019. (III. 26.) Korm. rendelet 8. § (2) bekezdése, a 9. § e)–f) pontja és 10. §-a szerint módosított szöveg.

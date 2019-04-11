@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-284-20-
 | 2017-01-01 | 2007-284-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2007-284-20-22.13 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-04-03 | 2007-284-20-22.14 | 61/2019. (III. 26.) Korm. rendelet |
+| 2019-04-11 | 2007-284-20-22.15 | 61/2019. (III. 26.) Korm. rendelet |

@@ -6,7 +6,7 @@ a) az üzemi vagy szabadidős zajforrás által okozott
 
 aa) zajkibocsátási határérték túllépése esetén a védendő terület jellegétől függően a 3. számú melléklet 1.1 alpontja vagy 1.2 alpontja,
 
-ab) a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 2/A. § (3) bekezdése szerinti felmentés idejére vonatkozó zajterhelési határérték túllépése esetén a 3. számú melléklet 1.4 alpontja,
+ab)[^46] a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet 2/B. § (1) bekezdése szerinti felmentés idejére vonatkozó zajterhelési határérték túllépése esetén a 3. számú melléklet 1.4 alpontja,
 
 b) az üzemi vagy szabadidős zajforrás által a védendő helyiségekben okozott zajterhelési határértékek túllépése esetén a 3. számú melléklet 1.3. alpontja,
 
@@ -21,3 +21,4 @@ e) a jogszabályban vagy hatósági határozatban foglalt kötelezettségek megs
 (2) Az (1) bekezdés a)–d) pontja szerinti bírság az intézkedési terv végrehajtásának ideje alatt nem szabható ki.
 
 [^45]: A 26. § (1) bekezdése a 427/2015. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
+[^46]: A 26. § (1) bekezdés a) pont ab) alpontja a 61/2019. (III. 26.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
