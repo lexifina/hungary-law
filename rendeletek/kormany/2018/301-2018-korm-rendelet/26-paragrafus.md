@@ -1,5 +1,7 @@
-## 25. §[^34]
-
 ## 6. Az informatikai fejlesztés irányának meghatározása
 
-[^34]: A 25. § a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
+26. § (1) Az NHIT a Digitális Kormányzati Ügynökség által, az 5. § (5) bekezdésében meghatározott jelentést rendes ülésén megvizsgálja.
+
+(2) Az NHIT saját tapasztalatai, valamint a Digitális Kormányzati Ügynökség által készített jelentés alapján az (1) bekezdésben meghatározott ülést követő 60 napon belül jelentést készít a Kormány részére az elmúlt év informatikai beszerzéseiről. A jelentés részét képezi az NHIT javaslata az éves informatikai beszerzések iránya szempontjairól.
+
+(3) Ha az NHIT tevékenysége során észleli, hogy valamely érintett szervezet az éves informatikai beszerzések, valamint az informatikai fejlesztések meghatározott irányától eltér, ezt soron kívül jelzi a miniszternek.

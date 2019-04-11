@@ -1,3 +1,1 @@
-## 27. §[^36]
-
-[^36]: A 27. § a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
+## 27. § A Digitális Kormányzati Ügynökség által – hazai forrás terhére – megkötött keretmegállapodások terhére igénybe vett beszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet rendelkezéseit nem kell alkalmazni.

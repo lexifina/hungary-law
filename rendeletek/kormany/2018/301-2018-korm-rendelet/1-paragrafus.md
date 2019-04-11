@@ -4,7 +4,7 @@
 
 a) a Nemzeti Hírközlési és Informatikai Tanácsra (a továbbiakban: NHIT),
 
-b)[^1]
+b) a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságra (a továbbiakban: Digitális Kormányzati Ügynökség).
 
 (2) Az informatikai beszerzések során e rendelet előírásai szerint jár el:
 
@@ -18,11 +18,11 @@ d) a Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó k�
 
 e) az a)–d) pontokba nem tartozó olyan szervezet, amely a csatlakozást önként vállalja. [az a)–e) pont együtt a továbbiakban: érintett szervezet]
 
-(2a)[^2] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
+(2a)[^1] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
 
 (3) E rendelet meghatározza
 
-a)[^3]
+a) a Digitális Kormányzati Ügynökség közfeladatait,
 
 b) az NHIT feladatait,
 
@@ -30,7 +30,7 @@ c) az érintett szervezetek informatikai beszerzésével összefüggő adatszolg
 
 d) a kormányzati központosított informatikai közbeszerzési rendszer részletes szabályait,
 
-e)[^4]
+e) a Digitális Kormányzati Ügynökség által a központosított közbeszerzés lefolytatása során ellátott feladatokért fizetendő közbeszerzési díj mértékét,
 
 f) az NHIT szervezetét, valamint
 
@@ -60,7 +60,4 @@ g) az NHIT eljárására vonatkozó szabályokat.
 
 11. szoftver: az informatikai eszköz memóriatartalma, és az ahhoz tartozó valamennyi fejlesztési dokumentáció, valamennyi felhasználói dokumentáció, valamennyi kereskedelmi dokumentáció, valamint az ezek bármelyikét tartalmazó adathordozó.
 
-[^1]: Az 1. § (1) bekezdés b) pontja a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
-[^2]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be.
-[^3]: Az 1. § (3) bekezdés a) pontja a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
-[^4]: Az 1. § (3) bekezdés e) pontja a 29. § (2) bekezdése alapján a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
+[^1]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be.

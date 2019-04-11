@@ -1,6 +1,6 @@
 ## 8. Átmeneti rendelkezések
 
-30. §[^37] (1) A 3. alcímben meghatározott kormányzati informatikai beszerzéssel kapcsolatos eljárást – e §-ban foglalt eltérésekkel – a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő naptól (a továbbiakban: kezdő nap) kell alkalmazni.
+30. §[^7] (1) A 3. alcímben meghatározott kormányzati informatikai beszerzéssel kapcsolatos eljárást – e §-ban foglalt eltérésekkel – a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő naptól (a továbbiakban: kezdő nap) kell alkalmazni.
 
 (2) A kezdő napot megelőzően az érintett szervezet által kormányzati informatikai beszerzésére kötött, valamint a kezdő napon folyamatban lévő közbeszerzési eljárások eredményeként megkötött keretmegállapodások vagy más keret jellegű szerződések, valamint az azok alapján megkötött, valamint a kezdő napon folyamatban lévő közbeszerzési eljárások eredményeként megkötött visszterhes szerződések hatályát e rendelet nem érinti.
 
@@ -18,4 +18,4 @@
 
 (9) A Digitális Kormányzati Ügynökség létrejöttével, tevékenységének megkezdésével összefüggésben álló közbeszerzési eljárások tekintetében az ajánlatkérő a kezdő naptól számított 120. napig minden beszerzés esetében jogosult a Kbt. szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására és megindítására.
 
-[^37]: A 30. § a 31/2019. (III. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 30. § a 31/2019. (III. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
