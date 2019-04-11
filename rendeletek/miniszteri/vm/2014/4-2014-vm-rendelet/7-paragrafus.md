@@ -1,6 +1,6 @@
-## 6. §[^16] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+## 6. §[^20] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-7–8. §[^17]
+7–8. §[^21]
 
-[^16]: A 6. § a 36/2014. (IV. 4.) VM rendelet 107. §-ával megállapított szöveg.
-[^17]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 6. § a 36/2014. (IV. 4.) VM rendelet 107. §-ával megállapított szöveg.
+[^21]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
