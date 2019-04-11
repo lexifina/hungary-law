@@ -1,0 +1,1 @@
+2. § Az 1. § a) pontjában megállapított kiadási főösszeg részletezését az 1. melléklet 1. pontja, az 1. § b) pontjában megállapított bevételi főösszeg részletezését a 1. melléklet 2. pontja tartalmazza.
