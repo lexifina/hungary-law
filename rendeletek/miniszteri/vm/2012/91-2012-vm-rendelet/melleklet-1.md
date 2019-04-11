@@ -2,9 +2,9 @@
 
 1. melléklet a 91/2012. (VIII. 29.) VM rendelethez
 
-## Támogatási kérelem adattartalma a szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű támogatás igényléséhez[^40]
+## Támogatási kérelem adattartalma a szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű támogatás igényléséhez[^42]
 
-1.[^41] A mezőgazdasági termelő ügyfél-azonosítója.
+1.[^43] A mezőgazdasági termelő ügyfél-azonosítója.
 
 2. A támogatás igényléséhez felhasznált számlák alapján:
 
@@ -22,5 +22,5 @@ e) a támogatás alapját képző gázolaj mennyisége literben.
 
 4. Keltezés és a kérelmező aláírása.
 
-[^40]: Az 1. melléklet címe a 80/2016. (XII. 13.) FM rendelet 11. § m) pontja szerint módosított szöveg.
-[^41]: Az 1. melléklet 1. pontja a 36/2014. (IV. 4.) VM rendelet 70. § d) pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet címe a 80/2016. (XII. 13.) FM rendelet 11. § m) pontja szerint módosított szöveg.
+[^43]: Az 1. melléklet 1. pontja a 36/2014. (IV. 4.) VM rendelet 70. § d) pontja szerint módosított szöveg.
