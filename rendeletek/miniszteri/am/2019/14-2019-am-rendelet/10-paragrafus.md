@@ -1,0 +1,1 @@
+## 9. § A 95/2012. (VIII. 30.) VM rendelet 3. § (1) bekezdésében a „Földművelésügyi Minisztérium” szövegrész helyébe az „Agrárminisztérium” szöveg, a „Nemzeti Erdőprogram 10032000-01220191-52000001” szövegrész helyébe a „Nemzeti Erdőstratégia 10032000-01220191-52000001” szöveg lép.

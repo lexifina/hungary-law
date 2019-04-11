@@ -1,0 +1,3 @@
+## 23. § A 37/2014. (IV. 4.) VM rendelet 4. § d) pontjában az „az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet” szövegrész helyébe az „az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet]” szöveg lép.
+
+## 8. A tenyésznyúl tenyésztésbe állításának mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 54/2014. (IV. 29.) VM rendelet módosítása

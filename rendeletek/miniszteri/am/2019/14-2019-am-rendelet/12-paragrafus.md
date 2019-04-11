@@ -1,0 +1,3 @@
+## 11. § A sertéságazati stratégiai intézkedések keretében a törzstenyészetek fejlesztését szolgáló mezőgazdasági csekély összegű (de minimis) támogatásról szóló 78/2013. (IX. 10.) VM rendelet [a továbbiakban: 78/2013. (IX. 10.) VM rendelet] 4. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, a folyó üzleti évben, valamint az azt megelőző két üzleti év során Magyarországon odaítélt mezőgazdasági csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet II. mellékletében foglalt felső határt.”

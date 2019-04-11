@@ -1,0 +1,3 @@
+## 40. § A tenyészkos és tenyészbak tenyésztésbe állításának mezőgazdasági csekély összegű támogatásáról szóló 74/2016. (XI. 29.) FM rendelet [a továbbiakban: 74/2016. (XI. 29.) FM rendelet] 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltakat, illetve a II. mellékletében meghatározott felső határt.”

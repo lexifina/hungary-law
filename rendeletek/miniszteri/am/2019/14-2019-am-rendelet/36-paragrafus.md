@@ -1,0 +1,3 @@
+## „(5a) Az (5) bekezdés szerinti támogatás a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013 EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdésének n) pontjában meghatározott termékágazathoz kapcsolódó támogatásnak minősül.
+
+## (5b) A 37/2011. (III. 22.) Korm. rendelet 2. § 10d. pontjában meghatározott mezőgazdasági csekély összegű ágazati korlát mértékéig arányosan kell csökkenteni az adott tárgyévben támogatásra jogosult mezőgazdasági csekély összegű igényeket, ha azok együttes összege meghaladja a mezőgazdasági csekély összegű ágazati korlát mértékét.”

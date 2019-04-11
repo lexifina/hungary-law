@@ -1,0 +1,3 @@
+## 32. § Az MFB Agrár Forgóeszköz Hitelprogram 2020 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról szóló 47/2015. (VIII. 12.) FM rendelet [a továbbiakban: 47/2015. (VIII. 12.) FM rendelet] 11. §-a helyébe a következő rendelkezés lép:
+
+## „11. § Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, a folyó üzleti évben, valamint az azt megelőző két üzleti év során Magyarországon odaítélt mezőgazdasági csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet II. mellékletében foglalt felső határt.”
