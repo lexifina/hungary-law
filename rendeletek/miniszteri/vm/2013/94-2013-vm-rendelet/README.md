@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-94-20-2
 | 2017-12-23 | 2013-94-20-2Y.12 | 36/2014. (IV. 4.) VM rendelet |
 | 2018-10-06 | 2013-94-20-2Y.13 | 28/2018. (X. 5.) AM rendelet |
 | 2019-03-09 | 2013-94-20-2Y.14 | 4/2019. (III. 6.) AM rendelet |
+| 2019-04-11 | 2013-94-20-2Y.15 | 14/2019. (IV. 10.) AM rendelet |
