@@ -6,7 +6,7 @@
 
 (3)[^6] Egy tenyésznyúl után csak a tenyésztésbe állítást követő első támogatási kérelem benyújtási időszakban és csak egy alkalommal igényelhető támogatás, kivéve a 4/A. § szerinti kiegészítő támogatási kérelem benyújtása esetét.
 
-(4)[^7] Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltak figyelembevételével.
+(4)[^7] Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében és II. mellékletében foglaltakat.
 
 (5)[^8] A támogatáshoz kapcsolódó iratokat az odaítélést követő tíz évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni. A támogatásról az Európai Bizottság kérésére húsz munkanapon belül információt kell szolgáltatni.
 
@@ -18,7 +18,7 @@
 
 [^5]: A 2. § (2) bekezdése a 69/2015. (XI. 2.) FM rendelet 7. §-ával megállapított szöveg.
 [^6]: A 2. § (3) bekezdése a 69/2015. (XI. 2.) FM rendelet 7. §-ával megállapított szöveg.
-[^7]: A 2. § (4) bekezdését a 69/2015. (XI. 2.) FM rendelet 7. §-a iktatta be.
+[^7]: A 2. § (4) bekezdését a 69/2015. (XI. 2.) FM rendelet 7. §-a iktatta be, szövege a 14/2019. (IV. 10.) AM rendelet 24. §-ával megállapított szöveg.
 [^8]: A 2. § (5) bekezdését a 69/2015. (XI. 2.) FM rendelet 7. §-a iktatta be.
 [^9]: A 2. § (6) bekezdését a 69/2015. (XI. 2.) FM rendelet 7. §-a iktatta be.
 [^10]: A 2. § (7) bekezdését a 69/2015. (XI. 2.) FM rendelet 7. §-a iktatta be.
