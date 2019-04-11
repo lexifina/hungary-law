@@ -1,0 +1,3 @@
+32. § A Tv. a következő 93. §-sal egészül ki:
+
+„93. § E törvénynek a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosításáról szóló 2019. évi XXIII. törvénnyel (a továbbiakban: 2019. évi XXIII. törvény) megállapított 3/F. §-át és 11. §-át a 2019. évi XXIII. törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.”

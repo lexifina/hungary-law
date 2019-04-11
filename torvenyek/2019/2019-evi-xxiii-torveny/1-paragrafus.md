@@ -1,0 +1,3 @@
+1. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) a következő 3/F. §-sal egészül ki:
+
+„3/F. § Hatáskör hiányában a mezőgazdásági és vidékfejlesztési támogatási szerv a kérelmet és az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a kérelem beérkezésétől, folyamatban levő támogatás esetén a hatáskör hiányának megállapításától számított nyolc napon belül átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.”
