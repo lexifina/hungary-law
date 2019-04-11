@@ -1906,7 +1906,7 @@
 
 ## Összesen: 45 db
 
-5. melléklet a 77/2015. (XII. 1.) FM rendelethez[^24]
+5. melléklet a 77/2015. (XII. 1.) FM rendelethez[^26]
 
 Kamat- és költségmentességben részesülő települések listája
 
@@ -2596,4 +2596,4 @@ Zalaszentmihály
 
 Zebecke
 
-[^24]: Az 5. mellékletet a 66/2017. (XII. 22.) FM rendelet 28. §-a iktatta be.
+[^26]: Az 5. mellékletet a 66/2017. (XII. 22.) FM rendelet 28. §-a iktatta be.
