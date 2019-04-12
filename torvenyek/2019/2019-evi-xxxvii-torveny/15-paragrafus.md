@@ -6,9 +6,7 @@ b) 16. § (3) bekezdésében és a 17. § (4) bekezdésében az „osztályvezet
 
 c) 17. § (1) bekezdésében és a 21. § (12) bekezdés c) pontjában az „osztályvezető-főtanácsosnak” szövegrész helyébe az „osztályvezetőnek” szöveg,
 
-d) 20. § (1) bekezdésében a „kilencszerese” szövegrész helyébe a „tizenkétszerese” szöveg,
-
-e) 20. § (2) bekezdésében a „hét és félszerese” szövegrész helyébe a „tíz és félszerese” szöveg,
+d)–e)
 
 f) 26. § (1) bekezdés d) pontjában a „közszolgálati tisztviselőkről szóló törvény” szövegrész helyébe a „Kttv.” szöveg,
 
