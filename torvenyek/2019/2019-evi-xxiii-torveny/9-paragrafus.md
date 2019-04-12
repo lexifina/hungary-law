@@ -1,3 +1,0 @@
-9. § A Tv. 29. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ügyfél-nyilvántartási rendszerbe bejelentett fizetési számlaszám – az ügyfél és a pénzügyi intézmény közötti finanszírozási kapcsolat miatt szükségessé váló – módosításához az ügyfél és a pénzügyi intézmény erre vonatkozó együttes megállapodása, továbbá a megállapodásnak – az erre rendszeresített nyomtatványon – az ügyfél vagy a pénzügyi intézmény által a mezőgazdasági és vidékfejlesztési támogatási szervnek történt benyújtása szükséges. A megállapodás nyilvántartásba vételéről a mezőgazdasági és vidékfejlesztési támogatási szerv tájékoztatja az ügyfelet és a pénzügyi intézményt.”
