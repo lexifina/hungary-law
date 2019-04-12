@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1-20-6Q
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-04-11 | 2019-1-20-6Q.1 | 1/2019. (IV. 10.) KKM rendelet |
+| 2019-04-12 | 2019-1-20-6Q.2 | 2010: CXXX. törvény |
