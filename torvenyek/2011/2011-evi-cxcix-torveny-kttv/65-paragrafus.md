@@ -4,6 +4,10 @@ a) a kormánytisztviselő átlag alatti vagy elfogadhatatlan teljesítményszint
 
 b)
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) A kormánytisztviselő a teljesítményértékelés vagy minősítés tartalmának vizsgálata iránt a Közszolgálati Döntőbizottsághoz fordulhat. A Közszolgálati Döntőbizottság határozatával szemben kizárólag jogi tények vizsgálata tekintetében, jogszabálysértésre hivatkozással – hibás vagy valótlan ténymegállapításának megsemmisítése iránt – a kormánytisztviselő közszolgálati jogvitát kezdeményezhet a bíróságnál.

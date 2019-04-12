@@ -46,4 +46,6 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (7) Az (1)–(5a) bekezdésben foglaltak alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
-(8)–(9)
+(8)
+
+(9)

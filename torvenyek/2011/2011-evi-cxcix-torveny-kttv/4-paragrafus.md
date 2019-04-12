@@ -1,6 +1,6 @@
 4. § E törvény hatálya nem terjed ki
 
-a) törvény eltérő rendelkezésének hiányában a Honvédség, a nemzetbiztonsági szolgálatok és a fegyveres biztonsági őrség szerveire;
+a) törvény eltérő rendelkezésének hiányában az Állami Számvevőszéknél foglalkoztatottakra és a Honvédség, a nemzetbiztonsági szolgálatok és a fegyveres biztonsági őrség szerveire;
 
 b) jogszabály eltérő rendelkezésének hiányában a helyi önkormányzat feladatkörébe tartozó közszolgáltatások ellátására – polgármesteri hivatalban – foglalkoztatottakra;
 

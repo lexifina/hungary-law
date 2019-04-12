@@ -58,7 +58,7 @@ b) legkésőbb a kormányzati szolgálati jogviszony megszűnésének időpontj�
 
 c) felmentésére a 63. § (2) bekezdés b) pontjában meghatározott okból került sor;
 
-d) kormányzati szolgálati jogviszonya a 72. § szerint alakult át;
+d) kormányzati szolgálati jogviszonya a 72. vagy 72/A. § szerint alakult át;
 
 e) méltatlanság vagy bizalomvesztés címén mentették fel.
 

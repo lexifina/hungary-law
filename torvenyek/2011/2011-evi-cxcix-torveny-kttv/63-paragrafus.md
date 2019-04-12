@@ -26,7 +26,9 @@ f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törv�
 
 g) a foglalkoztatást kizáró ok jut a munkáltató tudomására;
 
-h) azt a kormánytisztviselő a 64/A. § (2) bekezdése vagy a 155/A. § (2) bekezdése alapján kéri.
+h) azt a kormánytisztviselő a 64/A. § (2) bekezdése vagy a 155/A. § (2) bekezdése alapján kéri;
+
+i) a 72/A. § (3), (4), (8) vagy (9) bekezdése szerinti ok áll fenn.
 
 (2a) A (2) bekezdés g) pontja alapján az államigazgatási szerv a kormányzati szolgálati jogviszonyt – a (2b) bekezdésben foglalt kivétellel – azonnali hatállyal megszünteti.
 
