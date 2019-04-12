@@ -1,16 +1,21 @@
-## 9. § A 284/2007. (X. 29.) Korm. rendelet
+## 9. §[^10]
 
-a)[^8]
+a)[^11]
 
-b)[^9]
+b)[^12]
 
-c) 26. § (1) bekezdés a) pont ab) alpontjában a „2/A. § (3) bekezdése” szövegrész helyébe a „2/B. § (1) bekezdése” szöveg,
+c)[^13]
 
-d) 30. § (2) bekezdésében a „3. számú melléklet 1. c) pontja” szövegrész helyébe a „3. számú melléklet 1.3. pontja” szöveg,
+d)[^14]
 
-e) 3. számú melléklet 4.1. pont a) alpontjában a „b)–d) pont” szövegrész helyébe a „b)–e) pont” szöveg,
+e)[^15]
 
-f) 3. számú melléklet 4.1. pont c) alpontjában a „2/A. § (2) bekezdés c) pontja, (6) bekezdés c) pontja vagy (7) bekezdése” szövegrész helyébe a „2/A. § (2) bekezdés b) pontja vagy 2/B. § (7) bekezdés c) pontja” szöveg
+f)[^16]
 
-[^8]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 9. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 9. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 9. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 9. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
