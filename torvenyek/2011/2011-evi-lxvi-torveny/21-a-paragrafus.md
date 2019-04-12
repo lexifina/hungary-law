@@ -1,0 +1,11 @@
+## Az Állami Számvevőszék személyi állományára vonatkozó egyéb rendelkezések
+
+21/A. § (1) Az Állami Számvevőszék vezetőinek és számvevőinek jogviszonyára az e törvényben nem szabályozott kérdésekben
+
+a) a Kttv. rendelkezései közül a 6. § 2. pontját, 3. pontját, 7a–b. pontját, 8–12. pontját, 15a. és 16. pontját, 20a. pontját, 23. pontját, 25–26. pontját, 31a. pontját, 7. §-át, 9. § (2)–(3) bekezdését, 10. § (1) és (3)–(4) bekezdését, 11. § (1)–(4) bekezdését, 12–13. §-át, 14. § (2)–(3) bekezdését, 15–25. §-át, 39. § (1) bekezdés első mondatát, azzal az eltéréssel, hogy számvevői jogviszony csak felsőfokú végzettséggel rendelkező személlyel létesíthető és tartható fenn, 39. § (1) bekezdés a)–b) pontját, 42. § (1), (3) bekezdés, (4) bekezdés a)–b) pontját és (6)–(7) bekezdését, 43. § (4)–(6) bekezdését, 44. §-át, 46. §-át, 49–50. §-át, 51. § (2) és (6)–(7) bekezdését, 52. § (2)–(6) bekezdését, 54. § (1), (3) és (5)–(6) bekezdését azzal az eltéréssel, hogy csak külföldi kiküldetésre alkalmazható, 59. §-át, 60. § (1) bekezdés a)–c), e)–h) és j) pontját, valamint (2)–(3), (6), (7) és (10) bekezdését, 61. §-át, 63. §-át, 64. § (1)–(3) és (5) bekezdését, 64/A. §-át, 66–71. §-át, 74. §-át, 75. § (1) bekezdés a)–b) és d)–j) pontját, valamint (2)–(4) bekezdését, 76. §-át, 78–79. §-át, 80. § (1), (2b) és (3)–(5) bekezdését, 81–82. §-át, 83. § (1)–(2) bekezdését, 83/A. §-át, 84. § (1) bekezdését, 85. § (3) bekezdését és a (4) bekezdés a)–b) pontját, 89–100. §-át, 101. § (1)–(2) bekezdését, 102–107. §-át, 109–115. §-át, 130. § (1) bekezdését, 131. § (1) és (5) bekezdését, 143. §-át, 144. § (2)–(4) bekezdését, 145–149. §-át, 149/A. §-át, 150–153. §-át, 153/A. §-át, 154. §-át, 160–164. §-át, 166. §-át, 167. § (1)–(5) bekezdését, 168–175. §-át, 176. § (1)–(4) bekezdését, 177. §-át, 180. § (1) bekezdés a)–c), f)–g) és i)–j) pontját, valamint (2) bekezdését, 183/C. §-át, 184. §-át, 192. §-át, 193. § (1) bekezdés a), d) és e) pontját, valamint (2)–(6) bekezdését, 194. §-át, 195–202. §-át, 238. § (1)–(4) bekezdését, továbbá a 2. és az 5. mellékletét, és
+
+b) az Mt. rendelkezései közül a 20. § (2)–(3) bekezdését, 78. § (1)–(2) bekezdését, 79. §-át, 177. §-át
+
+kell megfelelően alkalmazni.
+
+(2) A munkaviszonyban állók jogviszonyára az Mt. rendelkezéseit kell megfelelően alkalmazni.

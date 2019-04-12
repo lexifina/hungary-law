@@ -8,7 +8,7 @@
 
 (4) Az ellenőrzéssel érintett adatnyilvántartó rendszerben szereplő olyan személyek személyes adatai, illetve különleges személyes adatai nem vehetők át, akik az ellenőrzött tevékenységgel nem érintettek és személyes adatuk az ellenőrzés lefolytatásához nem szükséges.
 
-(5) Az ellenőrzés során az ellenőrzött szervezetről vagy annak dolgozójáról, tisztségviselőjéről megszerzett információk a jelentés készítésén kívül – ha törvény eltérően nem rendelkezik – nem használhatók fel más célra. A számvevő a tudomására jutott minősített adatot vagy egyéb, törvény által védett titkot köteles megőrizni, azt külön felhatalmazás nélkül harmadik személynek nem adhatja át, és feladatkörén kívül nem használhatja fel.
+(5) Az ellenőrzés során az ellenőrzött szervezetről vagy annak dolgozójáról, tisztségviselőjéről megszerzett információk a jelentés, az e törvény 5. § (13) bekezdése szerinti elemzés és tanulmány készítésén kívül nem használhatók fel más célra. A számvevő a tudomására jutott minősített adatot vagy egyéb, törvény által védett titkot köteles megőrizni, azt külön felhatalmazás nélkül harmadik személynek nem adhatja át, és feladatkörén kívül nem használhatja fel.
 
 (6) Az Állami Számvevőszék a hozzá érkezett közérdekű bejelentéseket, a jogszabályi kötelezettség alapján részére megküldött tájékoztatókat, illetve egyéb dokumentumokat, valamint a bennük szereplő személyes adatokat és különleges személyes adatokat – az Infotv. 3. § 3. pont a) alpontjába tartozó adat kivételével – kezelheti.
 

@@ -14,7 +14,7 @@ kategóriák valamelyikébe kell besorolni.
 
 (2) Az Állami Számvevőszék elnöke a nem vezetői munkakört betöltő számvevő főtanácsos és számvevő vezető főtanácsos részére – ha a munkakör ellátása során nyújtott kiemelkedő szakmai teljesítménye indokolja – tanácsadói vagy főtanácsadói cím használatát engedélyezheti. A címhasználathoz címpótlék jár. A címhasználat visszavonható, ha az engedélyezés indokai már nem állnak fenn.
 
-(3) Az Állami Számvevőszék elnöke az ellenőrzést vezető számvevő részére – amennyiben nem tölt be vezetői munkakört – az ellenőrzés idejére osztályvezető-főtanácsosi besorolásnak megfelelő illetményt állapíthat meg.
+(3) Az Állami Számvevőszék elnöke az ellenőrzést vezető számvevő részére – amennyiben nem tölt be vezetői munkakört – az ellenőrzés idejére osztályvezetői besorolásnak megfelelő illetményt állapíthat meg.
 
 (4) A számvevő jogviszonya felmentéssel megszüntethető, ha a külön jogszabályban megállapított rá irányadó öregségi nyugdíjkorhatárt elérte. Az e címen történő felmentés az erre vonatkozó tény megjelölésével történik.
 

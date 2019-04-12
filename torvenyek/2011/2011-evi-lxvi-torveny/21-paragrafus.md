@@ -74,7 +74,7 @@ d) további középfokú szakképesítés esetén az illetményalap 6%-a.
 
 (10) A számvevő főigazgató és a főtitkár a közigazgatási államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
 
-(11) Az Állami Számvevőszék elnöke át nem ruházható hatáskörében a megállapított személyi juttatások előirányzatán belül, munkája értékelésétől függően a számvevő (1)–(2) bekezdések szerint számított alapilletményét legfeljebb 50%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg.
+(11) Az Állami Számvevőszék elnöke át nem ruházható hatáskörében a megállapított személyi juttatások előirányzatán belül, munkája értékelésétől függően a számvevő (1)–(2) bekezdés szerint számított alapilletményét legfeljebb 60%-kal megemelheti vagy legfeljebb 10%-kal csökkentett mértékben állapíthatja meg.
 
 (12) Az alapszabadságon felül
 
@@ -82,7 +82,7 @@ a) a számvevőnek és a számvevő tanácsosnak 11 munkanap,
 
 b) a számvevő főtanácsosnak 12 munkanap,
 
-c) a számvevő vezető főtanácsosnak, az elnöki (alelnöki) tanácsadónak, az elnöki (alelnöki) főtanácsadónak, a számvevő osztályvezető-főtanácsosnak és a számvevő igazgatóhelyettesnek 13 munkanap,
+c) a számvevő vezető főtanácsosnak, az elnöki (alelnöki) tanácsadónak, az elnöki (alelnöki) főtanácsadónak, a számvevő osztályvezetőnek és a számvevő igazgatóhelyettesnek 13 munkanap,
 
 d) a számvevő főigazgatónak, számvevő igazgatónak és a főtitkárnak 14 munkanap
 

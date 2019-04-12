@@ -1,6 +1,6 @@
 ## Külső szakértők
 
-22. § (1) Ellenőrzés elvégzéséhez, megállapítások megtételéhez, véleményadáshoz az Állami Számvevőszék külső szakértőt vehet igénybe, ha olyan speciális szakértelemre van szükség, amellyel a számvevők nem rendelkeznek.
+22. § (1) Ellenőrzés elvégzéséhez, megállapítások megtételéhez, véleményadáshoz az Állami Számvevőszék külső szakértőt vehet igénybe.
 
 (2) Minden olyan személy vagy szervezet megbízható szakértői feladattal, aki vagy amely megfelelő szakmai felkészültséggel rendelkezik.
 

@@ -18,7 +18,7 @@ g) tanácskozási joggal részt vesz az Országgyűlés és bizottságainak ül�
 
 h) képviseli az Állami Számvevőszéket,
 
-i) a Szervezeti és Működési Szabályzat szerint gyakorolja a munkáltatói jogokat, meghatározza a személyi állományra vonatkozó teljesítményértékelés rendszerét és szempontjait,
+i) a szervezeti és működési szabályzat szerint gyakorolja a munkáltatói jogokat, meghatározza a személyi állományra vonatkozó teljesítményértékelés rendszerét és szempontjait, szervezet-átalakítási joga gyakorlása keretében dönt a személyi állomány létszámáról,
 
 j) ellenőrzi a vezetők és a számvevők vagyonnyilatkozatát, gondoskodik azok nyilvántartásáról,
 

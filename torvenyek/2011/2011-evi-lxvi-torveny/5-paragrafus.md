@@ -24,7 +24,7 @@ b) az elkülönített állami pénzalapok költségvetésének végrehajtásról
 
 (9) Az Állami Számvevőszék ellenőrzéseinek gyakoriságát törvény, törvényi szabályozás hiányában az Állami Számvevőszék elnöke határozza meg.
 
-(10) Az Állami Számvevőszék ellenőrzi a Magyar Nemzeti Bank gazdálkodását és a Magyar Nemzeti Bankról szóló törvényben foglaltak alapján folytatott, az alapvető feladatok körébe nem tartozó tevékenységét. E körben az Állami Számvevőszék azt ellenőrzi, hogy a Magyar Nemzeti Bank a jogszabályoknak, az alapszabályának és a közgyűlése határozatának megfelelően működik-e.
+(10) Az Állami Számvevőszék ellenőrzi a Magyar Nemzeti Bank gazdálkodását és a Magyar Nemzeti Bankról szóló törvényben foglaltak alapján folytatott, az alapvető feladatok körébe nem tartozó tevékenységét. E körben az Állami Számvevőszék azt ellenőrzi, hogy a Magyar Nemzeti Bank a jogszabályoknak és az alapszabályának megfelelően működik-e.
 
 (11) Az Állami Számvevőszék – törvény rendelkezéseinek megfelelően – törvényességi szempontok szerint ellenőrzi
 
