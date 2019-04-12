@@ -1,0 +1,21 @@
+1. § (1) A Műszaki Szabályozási Bizottság (a továbbiakban: MSZB) feladata a hazai kis- és középvállalkozások versenyképességének javítása érdekében:
+
+a) jogszabály vagy szabvány által nem szabályozott tárgykörben műszaki előírások felülvizsgálata, valamint más bizottságok feladatkörébe nem tartozó műszaki előírások előkészítése, megalkotása,
+
+b) az a) pontban hivatkozott felülvizsgálat keretében a piaci szereplők korszerű műszaki ismeretekkel való ellátása érdekében azon szabványok körének a meghatározása, melyeket célszerű kedvezményesen és magyar nyelven biztosítani a felhasználók számára,
+
+c) javaslatot tesz a műszaki szabályozásért felelős miniszter részére a szabványok kedvezményes és magyar nyelven történő hozzáférésének lehetőségét biztosító pénzügyi források felhasználására, valamint
+
+d) javaslatot tesz az iparügyekért felelős miniszter részére a szabványok, műszaki előírások megalkotásához szükséges kutatási feladatokkal kapcsolatban.
+
+(2) Az MSZB elnöke és tagjai feladatukat díjazás nélkül látják el.
+
+(3) Az MSZB működésének részletes szabályait ügyrendjében állapítja meg.
+
+(4) Az MSZB elnöke és tagjai egy-egy szavazattal rendelkeznek. Az MSZB akkor határozatképes, ha az ülésen az elnök – vagy meghatalmazott helyettese – és legalább további két tag – vagy meghatalmazott helyettese – jelen van.
+
+(5) Az MSZB a döntéseit zárt ülésen vagy ülés tartása nélkül, elektronikus hírközlő eszközök igénybevételével hozza meg. A szakértői testület ügyrendjében meg kell határozni az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját akként, hogy a tagok azonosítása és a tagok közötti kölcsönös és befolyásmentes kommunikáció biztosított legyen. Ülés tartása esetén az MSZB döntéseit nyílt szavazással, szavazattöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(6) Az MSZB szükség szerint, de legalább évente két alkalommal ülésezik. Az ülést az MSZB elnöke hívja össze.
+
+(7) Az MSZB összehívására, az 1. § (1) bekezdés a) pontjában meghatározott műszaki előírás megalkotására, az 1. § (1) bekezdés b) pontjában meghatározott szabványra az MSZB bármely tagja javaslatot tehet, amelyre vonatkozó javaslatot a Magyar Szabványügyi Testület (a továbbiakban: MSZT) részére kell megküldeni.
