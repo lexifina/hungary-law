@@ -1,0 +1,9 @@
+9. § Hatályát veszti az Nvtv. 2. melléklet III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építmények és építményegyüttesek cím 1. pontjában foglalt táblázat 1.48. sora.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke
