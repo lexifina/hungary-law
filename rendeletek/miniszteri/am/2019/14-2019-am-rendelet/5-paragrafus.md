@@ -1,3 +1,0 @@
-## 4. § A szőlő- és gyümölcsös ültetvények műveléséhez nyújtott csekély összegű (de minimis) támogatásról szóló 91/2012. (VIII. 29.) VM rendelet [a továbbiakban: 91/2012. (VIII. 29.) VM rendelet] 6/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet szerinti, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet II. mellékletében meghatározott felső határt.”

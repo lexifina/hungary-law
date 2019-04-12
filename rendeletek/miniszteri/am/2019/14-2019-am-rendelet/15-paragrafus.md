@@ -1,3 +1,0 @@
-## 14. § A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet [a továbbiakban: 94/2013. (X. 10.) VM rendelet] 7/C. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az 1408/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti egy és ugyanazon vállalkozásnak minősülő vállalkozások részére a folyó üzleti évben, valamint az azt megelőző két üzleti év során az 1408/2013/EU bizottsági rendelet alapján Magyarországon odaítélt mezőgazdasági csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet II. mellékletében foglalt felső határt.”

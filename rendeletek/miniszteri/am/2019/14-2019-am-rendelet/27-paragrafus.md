@@ -1,3 +1,0 @@
-## 26. § Az anyakecsketartás csekély összegű támogatásáról szóló 26/2014. (XI. 20.) FM rendelet [a továbbiakban: 26/2014. (XI. 20.) FM rendelet] 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) E rendelet feltételei szerint anyakecske tartásához vissza nem térítendő mezőgazdasági csekély összegű támogatás vehető igénybe, amely a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013 EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdésének r) pontjában meghatározott termékágazathoz kapcsolódó támogatásnak minősül.”

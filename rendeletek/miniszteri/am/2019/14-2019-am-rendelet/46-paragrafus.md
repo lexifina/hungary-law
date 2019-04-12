@@ -1,3 +1,0 @@
-## 45. § Az egyes kedvezőtlen piaci helyzettel érintett agrárgazdasági szakágazatok részére az Agrár Széchenyi Kártya Konstrukciók keretében nyújtott mezőgazdasági csekély összegű támogatásról szóló 37/2018. (XII. 10.) AM rendelet [a továbbiakban: 37/2018. (XII. 10.) AM rendelet] 2. §-a a következő (2a) bekezdéssel egészül ki:
-
-## „(2a) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, a folyó üzleti évben, valamint az azt megelőző két üzleti évben Magyarországon megállapított mezőgazdasági csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet II. mellékletében foglalt felső határt.”

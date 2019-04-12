@@ -1,3 +1,0 @@
-## 28. § A 26/2014. (XI. 20.) FM rendelet 5/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3a) bekezdés a) pontjában meghatározott ágazati korlátra vonatkozó rendelkezést, valamint a 3. cikk (5)–(6) bekezdésében és a II. mellékletében foglaltakat.”

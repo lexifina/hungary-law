@@ -1,3 +1,0 @@
-## 24. § A tenyésznyúl tenyésztésbe állításának mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 54/2014. (IV. 29.) VM rendelet [a továbbiakban: 54/2014. (IV. 29.) VM rendelet] 2. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében és II. mellékletében foglaltakat.”
