@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^14]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^17]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -537,6 +537,8 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 | 2. | alapfeladat | nem alap- feladat |
 
 | 3. | kiemelt vezető | központi szerv vezetőjének helyettese | műveleti országos rendőrfőkapitány-helyettes (Készenléti Rendőrség parancsnoka) | 100 |  |
+
+| 3a. | kiemelt vezető | területi szerv vezetője | igazgató (NNI) | 200 |  |
 
 | 4. | közép- vezető | szakirányító 1 | igazgató | 200 | 150 |
 
@@ -1124,4 +1126,4 @@ MRFK: Megyei Rendőr-főkapitányság
 
 RRI: Repülőtéri Rendőr Igazgatóság
 
-[^14]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a szerint módosított szöveg.
