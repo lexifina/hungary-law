@@ -20,6 +20,8 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 7. adóügy: az adóval és az e törvényben meghatározott esetben a költségvetési támogatással összefüggő ügy,
 
+7a. automataberendezés: olyan kezelőszemélyzet nélkül is működni képes berendezés, ami termékértékesítés vagy szolgáltatásnyújtás pénzbeli ellenértékének helyben történő megtérítésére szolgál,
+
 8. áfa-regisztrált adóalany: olyan, belföldön gazdasági célú letelepedéssel, lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany, aki (amely) belföldön általános forgalmi adó köteles tevékenységet folytat, amely tekintetében ő az adófizetésre kötelezett,
 
 9. Alapok: a Nemzeti Foglalkoztatási Alap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap,

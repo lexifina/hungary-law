@@ -18,7 +18,7 @@
 
 a) az automataberendezések üzemeltetői adókötelezettségeinek, az automataberendezés és az AFE üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésének,
 
-b) a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésének, kezelésének, nyilvántartásának, visszatérítésének,
+b)
 
 c) az AFE műszaki követelményeinek, üzemeltetésének és szervizelésének, az AFE által rögzített adatok állami adó- és vámhatóság felé történő szolgáltatásának, a felügyeleti szolgáltatókat tanúsító független tanúsító szervezet tevékenységének, a felügyeleti szolgáltatói szerződésnek, valamint a felügyeleti szolgáltató felelősségének,
 

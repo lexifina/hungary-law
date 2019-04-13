@@ -22,7 +22,7 @@ f) a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanb
 
 g) folyamatosan azon adózónak a rendelkezésre álló azonosító adatait, aki vagy amely bejelentkezési kötelezettségének nem tett eleget,
 
-h) az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezés regisztrációs számát és az üzemeltetési helyét,
+h) az e törvény szerint bejelentett automataberendezés regisztrációs számát és az üzemeltetési helyét,
 
 i) a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvényben meghatározottak szerinti közzétételi kötelezettségének teljesítését,
 

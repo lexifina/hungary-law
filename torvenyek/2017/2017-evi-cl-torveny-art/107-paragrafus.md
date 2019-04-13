@@ -1,6 +1,6 @@
-### 107. § [Élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezés adatszolgáltatása]
+### 107. § [Az automataberendezés adatszolgáltatása]
 
-(1) Az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezést (a továbbiakban: automataberendezés) üzemeltető adózó köteles a jogszabályban meghatározott adattartalommal – automataberendezésenként – az állami adó- és vámhatósághoz elektronikus úton bejelenteni:
+(1) Az automataberendezést üzemeltető adózó köteles a jogszabályban meghatározott adattartalommal – automataberendezésenként – az állami adó- és vámhatósághoz elektronikus úton bejelenteni:
 
 a) az üzemeltetés megkezdését, legkésőbb az üzemeltetés megkezdését megelőző napon,
 
