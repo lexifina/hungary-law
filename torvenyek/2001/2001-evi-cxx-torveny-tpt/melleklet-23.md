@@ -11,5 +11,3 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 4. az Ázsiai Fejlesztési Bank,
 
 5. az Európai Beruházási Alap,
-
-6. az Európai Beruházási Bank,
