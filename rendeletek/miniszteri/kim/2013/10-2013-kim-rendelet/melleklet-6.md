@@ -66,7 +66,7 @@
 
 | értékelt személy |  |  |  |  |  |  |  |  |  | értékelő vezető |
 
-6. melléklet a 10/2013. (VI. 30.) KIM rendelethez
+6. melléklet a 10/2013. (VI. 30.) KIM rendelethez[^2]
 
 ## Módszertan a közszolgálati tisztviselők egyéni teljesítményértékelési szabályainak alkalmazásához
 
@@ -98,25 +98,19 @@ A módszertan célja, hogy gyakorlati segítséget nyújtson a közszolgálati t
 
 A módszertan
 
-- a Kttv. 259. § (5) bekezdés c) pont cc) alpontjában foglalt felhatalmazás, valamint
+– a Kttv. 259. § (5) bekezdés c) pont cc) alpontjában foglalt felhatalmazás, valamint
 
-- a Korm. rendelet 3. § (1) bekezdésében foglalt rendelkezések alapján
+– a Korm. rendelet 3. § (1) bekezdésében foglalt rendelkezések alapján
 
 kerül kiadásra. Ebből következően a módszertan a közszolgálati tisztviselők teljesítményértékelésére vonatkozó jogszabályok alkalmazásához nyújt segítséget. Itt fontos utalnunk ugyanakkor arra, hogy a teljesítményértékelés nem terjed ki:
 
-- a szakmai vezetőre (közigazgatási államtitkárra és helyettes államtitkárra);
+– az önkormányzati tanácsadóra és főtanácsadóra;
 
-- a kabinetfőnökre;
+– a kormányzati ügykezelőre;
 
-- a politikai tanácsadóra és a politikai főtanácsadóra;
+– a közszolgálati ügykezelőre, valamint
 
-- az önkormányzati tanácsadóra és főtanácsadóra;
-
-- a kormányzati ügykezelőre;
-
-- a közszolgálati ügykezelőre, valamint
-
-- a közigazgatási szervnél foglalkoztatott munkavállalóra.
+– a közigazgatási szervnél foglalkoztatott munkavállalóra.
 
 Felhívjuk a figyelmet arra, hogy a munkáltató mérlegelése alapján dönthet úgy, hogy a szervnél foglalkoztatott munkavállalókra közszolgálati szabályzatban alkalmazni rendeli a teljesítményértékelés szabályait.
 
@@ -557,3 +551,5 @@ A közigazgatási szerv díjmentesen megkapja a webes TÉR szoftvert (és a kés
 c) A TÉR rendszer offline használata
 
 A rendszer „egygépes”, hálózat nélkül is működő verziója. A közszolgálati tisztviselők vonatkozásában nem választható.
+
+[^2]: A 6. melléklet a 12/2019. (IV. 12.) IM rendelet 4. §-a szerint módosított szöveg.
