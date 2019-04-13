@@ -2,7 +2,7 @@
 
 | ………………………………. aláírás |
 
-4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^80]
+4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^88]
 
 ## A jogi szakvizsga vizsgaszabályzata
 
@@ -88,4 +88,4 @@ e) a sikeres részvizsgáról szóló tanúsítványt a jelölt részére átadn
 
 11. A pótvizsgára, valamint a vizsgatárgyból tett ismétlő vizsgára a részvizsga menetének szabályait kell megfelelően alkalmazni.
 
-[^80]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja, a 20/2017. (XII. 21.) IM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^88]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja, a 20/2017. (XII. 21.) IM rendelet 3. § (3) bekezdése szerint módosított szöveg.

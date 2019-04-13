@@ -1,4 +1,4 @@
-4. §[^15] (1)[^16] A jogi szakvizsgára a minisztérium erre a célra kialakított informatikai felületén (a továbbiakban: Jogi Szakvizsga Rendszer) kell jelentkezni. A jelölt a jelentkezéssel elfogadja a 4. számú mellékletben meghatározott vizsgaszabályzatot.
+4. §[^23] (1)[^24] A jogi szakvizsgára a minisztérium erre a célra kialakított informatikai felületén (a továbbiakban: Jogi Szakvizsga Rendszer) kell jelentkezni. A jelölt a jelentkezéssel elfogadja a 4. számú mellékletben meghatározott vizsgaszabályzatot.
 
 (2) Az első részvizsgára jelentkezésnél a jelöltnek meg kell adnia
 
@@ -14,30 +14,30 @@ e) a választott vizsgatárgy megjelölését, amelyből a jelölt írásbeli vi
 
 f) az e rendeletben foglaltak szerint választott vizsgaidőpontot.
 
-(3)[^17] A jelöltnek a teljes joggyakorlat teljesítését igazoló okiratokat és a jogi végzettséget igazoló doktori oklevelet a Jogi Szakvizsga Rendszerben történő regisztrációval egyidejűleg elektronikus dokumentumként kell csatolnia. A vizsgadíjat a jelentkezéskor a Jogi Szakvizsga Rendszeren keresztül – elektronikus úton – kell megfizetni.
+(3)[^25] A jelöltnek a teljes joggyakorlat teljesítését igazoló okiratokat és a jogi végzettséget igazoló doktori oklevelet a Jogi Szakvizsga Rendszerben történő regisztrációval egyidejűleg elektronikus dokumentumként kell csatolnia. A vizsgadíjat a jelentkezéskor a Jogi Szakvizsga Rendszeren keresztül – elektronikus úton – kell megfizetni.
 
-(3a)[^18] Ha a jelölt által a (3) bekezdés alapján csatolt elektronikus igazolások valódiságával kapcsolatban kétség merül fel, a minisztérium haladéktalanul felhívja a jelöltet az okirat eredeti példányának bemutatására.
+(3a)[^26] Ha a jelölt által a (3) bekezdés alapján csatolt elektronikus igazolások valódiságával kapcsolatban kétség merül fel, a minisztérium haladéktalanul felhívja a jelöltet az okirat eredeti példányának bemutatására.
 
-(4)[^19] Az első részvizsga letételét követő jelentkezésben a (2) bekezdés a), d) és f) pontjában foglaltakat, valamint az előző részvizsgáról kiállított tanúsítvány ügyszámát és keltét kell feltüntetni. A vizsgadíjat a jelentkezéskor a Jogi Szakvizsga Rendszeren keresztül – elektronikus úton – kell megfizetni.
+(4)[^27] Az első részvizsga letételét követő jelentkezésben a (2) bekezdés a), d) és f) pontjában foglaltakat, valamint az előző részvizsgáról kiállított tanúsítvány ügyszámát és keltét kell feltüntetni. A vizsgadíjat a jelentkezéskor a Jogi Szakvizsga Rendszeren keresztül – elektronikus úton – kell megfizetni.
 
 (5) A jelölt a jelentkezéstől számított 30 napon túli és négy hónapon belüli vizsgaidőpontra jelentkezhet. A négy hónapos időtartam számítása során figyelmen kívül kell hagyni azon időszakokat, amelyekre vizsga nem tűzhető ki.
 
-(6)[^20] A jelentkezés akkor kerül elfogadásra, ha a jelölt eleget tesz a (2)–(5) bekezdésben foglalt követelményeknek. Az elfogadott jelentkezésről vagy annak elutasításáról az elutasítás okának megjelölésével a jelölt a jelentkezést követő 15 napon belül elektronikus úton kap értesítést.
+(6)[^28] A jelentkezés akkor kerül elfogadásra, ha a jelölt eleget tesz a (2)–(5) bekezdésben foglalt követelményeknek. Az elfogadott jelentkezésről vagy annak elutasításáról az elutasítás okának megjelölésével a jelölt a jelentkezést követő 15 napon belül elektronikus úton kap értesítést.
 
 (7) A jelentkezés elutasításával szemben a jelölt a (6) bekezdés szerinti értesítéstől számított 5 napon belül kifogással élhet. A kifogást a miniszter bírálja el annak megérkezésétől számított 15 napon belül. A miniszter a kifogásnak akkor ad helyt, ha a jelentkezés a (6) bekezdésben foglaltaknak megfelel.
 
-(8)[^21] Ha a jelentkezés elutasítását követő 30 napon belül a jelölt nem jelentkezik újabb vizsgaidőpontra, részére a már befizetett vizsgadíjat – 5000 Ft adminisztrációs költség levonásával – és az általa megküldött iratokat az újabb vizsgaidőpontra való jelentkezésre nyitva álló határidő eredménytelen elteltét követő 45 napon belül vissza kell küldeni. A határidőben benyújtott kifogás elutasítása esetén az új jelentkezésre nyitva álló határidőt a kifogás elutasításáról szóló értesítéstől kell számítani.
+(8)[^29] Ha a jelentkezés elutasítását követő 30 napon belül a jelölt nem jelentkezik újabb vizsgaidőpontra, részére a már befizetett vizsgadíjat – 5000 Ft adminisztrációs költség levonásával – és az általa megküldött iratokat az újabb vizsgaidőpontra való jelentkezésre nyitva álló határidő eredménytelen elteltét követő 45 napon belül vissza kell küldeni. A határidőben benyújtott kifogás elutasítása esetén az új jelentkezésre nyitva álló határidőt a kifogás elutasításáról szóló értesítéstől kell számítani.
 
-(9)[^22] A jelentkezés elfogadása esetén a miniszter a vizsgát a jelentkezők számának függvényében a jelentkező által megjelölt időpontra, vagy az ahhoz képest legkorábbi időpontra tűzi ki és erről a jelöltet a jelentkezést követő 15 napon belül elektronikus úton értesíti.
+(9)[^30] A jelentkezés elfogadása esetén a miniszter a vizsgát a jelentkezők számának függvényében a jelentkező által megjelölt időpontra, vagy az ahhoz képest legkorábbi időpontra tűzi ki és erről a jelöltet a jelentkezést követő 15 napon belül elektronikus úton értesíti.
 
-(10)[^23] A jelentkezés során – ideértve a vizsgaidőpont kitűzését is – hiánypótlásnak, valamint méltányosságnak a 13. § (5) bekezdésében foglaltak kivételével nincs helye.
+(10)[^31] A jelentkezés során – ideértve a vizsgaidőpont kitűzését is – hiánypótlásnak, valamint méltányosságnak a 13. § (5) bekezdésében foglaltak kivételével nincs helye.
 
-[^15]: A 4. § a 42/2012. (IX. 14.) KIM rendelet 4. §-ával megállapított szöveg.
-[^16]: A 4. § (1) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^17]: A 4. § (3) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^18]: A 4. § (3a) bekezdését a 25/2015. (IX. 25.) IM rendelet 1. § (3) bekezdése iktatta be.
-[^19]: A 4. § (4) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^20]: A 4. § (6) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^21]: A 4. § (8) bekezdése a 12/2014. (II. 28.) KIM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^22]: A 4. § (9) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^23]: A 4. § (10) bekezdése a 25/2015. (IX. 25.) IM rendelet 4. § b) pontja szerint módosított szöveg.
+[^23]: A 4. § a 42/2012. (IX. 14.) KIM rendelet 4. §-ával megállapított szöveg.
+[^24]: A 4. § (1) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: A 4. § (3) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^26]: A 4. § (3a) bekezdését a 25/2015. (IX. 25.) IM rendelet 1. § (3) bekezdése iktatta be.
+[^27]: A 4. § (4) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^28]: A 4. § (6) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^29]: A 4. § (8) bekezdése a 12/2014. (II. 28.) KIM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^30]: A 4. § (9) bekezdése a 25/2015. (IX. 25.) IM rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^31]: A 4. § (10) bekezdése a 25/2015. (IX. 25.) IM rendelet 4. § b) pontja szerint módosított szöveg.
