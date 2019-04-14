@@ -1164,7 +1164,7 @@
 
 | 13.3.3. | A vad vadászterületek közötti szállításának engedélyezésére benyújtott kérelem díja (szállítmányonként) | 3000 |
 
-| 13.3.4.1. | Vadászvizsgát megelőző tanfolyam szervezése iránti kérelem | 500 000 |
+| 13.3.4.1. |  |  |
 
 | 13.4. | Azonosító jel díja darabonként | 100 |
 
