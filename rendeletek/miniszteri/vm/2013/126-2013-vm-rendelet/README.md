@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-126-20-
 | 2014-01-18 | 2013-126-20-2Y.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2013-126-20-2Y.3 | 89/2016. (XII. 29.) FM rendelet |
 | 2018-01-01 | 2013-126-20-2Y.4 | 70/2017. (XII. 28.) FM rendelet |
+| 2019-04-14 | 2013-126-20-2Y.5 | 5/2019. (III. 14.) AM rendelet |
