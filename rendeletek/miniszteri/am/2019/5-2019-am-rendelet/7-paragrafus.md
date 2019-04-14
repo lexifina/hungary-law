@@ -1,0 +1,3 @@
+## 6. § A vadászvizsgát megelőző tanfolyamról és a vadászvizsgáról szóló 126/2013. (XII. 17.) VM rendelet (a továbbiakban: Vizsgarendelet) 4. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A tanfolyam befejezését követően a tanfolyamszervező a tanfolyamvezető útján a hallgató számára igazolást állít ki, ha a hallgató a 2. melléklet szerinti elméleti foglalkozás legalább 80%-án és a gyakorlati foglalkozás 100%-án részt vett. A gyakorlati foglalkozás vonatkozásában nem tekintendő hiányzásnak a gyakorlati vadászlövészeti vizsgára nem kötelezett, kizárólag vadászíjjal, ragadozó madárral vagy magyar agárral vadászni kívánók távolmaradása a gyakorlati lővizsga előtti lőgyakorlatról.”
