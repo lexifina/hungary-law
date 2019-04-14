@@ -38,7 +38,7 @@
 
 ## 3.6. Tulajdoni hányadra eső terület hektárban:
 
-## 4.[^248] A meghatalmazás tárgya, valamint a meghatalmazó nyilatkozata, hogy a meghatalmazás aláírásával valamennyi, azonos tárgykörben korábban adott meghatalmazását visszavonja.
+## 4.[^251] A meghatalmazás tárgya, valamint a meghatalmazó nyilatkozata, hogy a meghatalmazás aláírásával valamennyi, azonos tárgykörben korábban adott meghatalmazását visszavonja.
 
 ## 5. Keltezés, a meghatalmazó aláírása
 
@@ -54,4 +54,4 @@
 
 TRÓFEÁS VAD KOROSZTÁLY BESOROLÁSA
 
-[^248]: A Vhr. 15. számú melléklet 4. pontja a 41/2016. (VI. 22.) FM rendelet 3. §-a szerint módosított szöveg.
+[^251]: A Vhr. 15. számú melléklet 4. pontja a 41/2016. (VI. 22.) FM rendelet 3. §-a szerint módosított szöveg.

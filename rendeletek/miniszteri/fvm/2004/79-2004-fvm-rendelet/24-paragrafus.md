@@ -1,6 +1,6 @@
 ## (A Vtv. 32. §-ához)
 
-24. §[^52] A Vtv. 17. § (2) és 29/A. § (4) bekezdése alkalmazásában a vad mozgását befolyásoló, tartós telepítésű kerítésnek minősül
+24. §[^53] A Vtv. 17. § (2) és 29/A. § (4) bekezdése alkalmazásában a vad mozgását befolyásoló, tartós telepítésű kerítésnek minősül
 
 a) a mezőgazdasági növénykultúra védelmében, valamint állattenyésztési vagy vadgazdálkodási célból telepített villanypásztor, továbbá
 
@@ -8,4 +8,4 @@ b) a rét, legelő hasznosítású gyepterületen, a legelő háziállatok adott
 
 kivételével az olyan, mezőgazdasági művelés alatt álló szomszédos földterületeket térben elválasztó, lehatároló építmény, amely a bekerített mezőgazdasági növénykultúra tenyészidőszakát követő egy hónap elteltével is fennáll.
 
-[^52]: A Vhr. 24. §-a a 24/2017. (V. 17.) FM rendelet 6. §-ával megállapított szöveg.
+[^53]: A Vhr. 24. §-a a 24/2017. (V. 17.) FM rendelet 6. §-ával megállapított szöveg.

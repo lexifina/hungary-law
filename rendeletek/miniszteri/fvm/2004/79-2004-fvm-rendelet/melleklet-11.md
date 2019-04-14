@@ -24,6 +24,6 @@
 
 ## vadászati hatóság
 
-11. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^243]
+11. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^246]
 
-[^243]: A Vhr. 11. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés c) pontjával megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § g) pontja, a 24/2017. (V. 17.) FM rendelet 33. § (6) bekezdése szerint módosított szöveg. [A Vhr. 11. számú melléklet I. pontjában a 70/2013. (VII. 31.) VM rendelet 40. § i) pontjával elrendelt módosítás, amely szerint a „Földművelésügyi és Vidékfejlesztési Minisztérium ..... Megyei Vadászati Hatóság” szövegrész helyébe „.... Megyei Kormányhivatal Földművelésügyi Igazgatóság” szöveg lép, nem vezethető át.]
+[^246]: A Vhr. 11. számú melléklete a 45/2013. (VI. 3.) VM rendelet 4. § (4) bekezdés c) pontjával megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § g) pontja, a 24/2017. (V. 17.) FM rendelet 33. § (6) bekezdése szerint módosított szöveg. [A Vhr. 11. számú melléklet I. pontjában a 70/2013. (VII. 31.) VM rendelet 40. § i) pontjával elrendelt módosítás, amely szerint a „Földművelésügyi és Vidékfejlesztési Minisztérium ..... Megyei Vadászati Hatóság” szövegrész helyébe „.... Megyei Kormányhivatal Földművelésügyi Igazgatóság” szöveg lép, nem vezethető át.]

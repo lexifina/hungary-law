@@ -246,8 +246,8 @@
 
 ## szakértő
 
-20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^252]
+20. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^255]
 
 A VADÁSZHATÓ ÁLLATOK ÉS A HULLOTT AGANCS VADGAZDÁLKODÁSI ÉRTÉKE
 
-[^252]: A Vhr. 20. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § c) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 4. § d) pontja szerint módosított szöveg.
+[^255]: A Vhr. 20. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § c) pontjával megállapított, a 65/2015. (X. 26.) FM rendelet 4. § d) pontja szerint módosított szöveg.
