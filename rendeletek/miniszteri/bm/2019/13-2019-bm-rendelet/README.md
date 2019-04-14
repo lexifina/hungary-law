@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-13-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-04-13 | 2019-13-20-0A.1 | 13/2019. (IV. 12.) BM rendelet |
+| 2019-04-14 | 2019-13-20-0A.2 | 2010: CXXX. törvény |
