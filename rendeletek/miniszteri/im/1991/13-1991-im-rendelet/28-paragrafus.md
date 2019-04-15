@@ -1,6 +1,6 @@
-## Közjegyzői ügyek nyilvántartása[^87]
+## Közjegyzői ügyek nyilvántartása[^76]
 
-28. §[^88] (1) A közjegyző köteles a közjegyzői ügyekről nyilvántartást (a továbbiakban: nyilvántartás) vezetni, amelybe érkezési sorrendben bejegyzi az általa készített közjegyzői okiratot, és olyan közjegyzői tanúsítványt, amelyet a 29. § (1) bekezdésében szabályozott nyilvántartásba nem kell felvenni.
+28. §[^77] (1) A közjegyző köteles a közjegyzői ügyekről nyilvántartást (a továbbiakban: nyilvántartás) vezetni, amelybe érkezési sorrendben bejegyzi az általa készített közjegyzői okiratot, és olyan közjegyzői tanúsítványt, amelyet a 29. § (1) bekezdésében szabályozott nyilvántartásba nem kell felvenni.
 
 (2) A nyilvántartás a következő adatokat tartalmazza:
 
@@ -28,11 +28,11 @@ e) annak feltüntetését, hogy az ügyhöz a 30. § szerinti bizalmi őrzés ka
 
 (9) Az egyes intézkedések, utóiratok folyamatos sorszámot kapnak, melyet az ügyszámhoz törtvonallal kapcsolva, arab számjeggyel kell feltüntetni. Az első sorszámot a kezdő irat kapja, a soron következő iratok eggyel magasabb sorszámot kapnak.
 
-(10)[^89] A tartós helyettes a helyettesítés időtartamában a helyettesített közjegyző ügyszámát használva a helyettesített közjegyző nyilvántartását köteles folyamatosan vezetni. A nyilvántartás megjegyzés rovatában a helyettesítés tényét az ügyszámnál fel kell tüntetni.
+(10)[^78] A tartós helyettes a helyettesítés időtartamában a helyettesített közjegyző ügyszámát használva a helyettesített közjegyző nyilvántartását köteles folyamatosan vezetni. A nyilvántartás megjegyzés rovatában a helyettesítés tényét az ügyszámnál fel kell tüntetni.
 
-(11)[^90] A közjegyző a nyilvántartást elektronizált formában vezeti.
+(11)[^79] A közjegyző a nyilvántartást elektronizált formában vezeti.
 
-[^87]: A Vhr. 28. §-át megelőző alcím a 33/2008. (XII. 31.) IRM rendelet 4. §-ával megállapított szöveg.
-[^88]: A Vhr. 28. §-a a 33/2008. (XII. 31.) IRM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a közjegyző a 2009. január 1-jén folyamatban lévő ügyeket a 2009. évi nyilvántartásaiban új ügyszámmal átvezeti. Folyamatban lévő ügyek esetében – a soron következő intézkedés megtételekor – a 2008. évi nyilvántartások megjegyzés rovatában a 2009. évi ügyszámot, a 2009. évi nyilvántartás megjegyzés rovatában pedig a 2008. évi ügyszámot is fel kell tüntetni.
-[^89]: A Vhr. 28. §-ának (10) bekezdése a 4/2009. (III. 6.) IRM rendeletet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 25. §-a alapján az országos kamara a 2009. március 7. napját követő 30. napig gondoskodik arról, hogy a Végintézkedések Központi Nyilvántartásába az országos kamara iránymutatása alapján bejegyzett adatok a nyilvántartásból lekérdezésre, az abban való javításra és kiegészítésre alkalmasak legyenek.
-[^90]: A Vhr. 28. §-ának (11) bekezdését a 4/2009. (III. 6.) IRM rendeletet 24. § (1) bekezdése hatályon kívül helyezte, újonnan e módosító rendelet 24. § (4) bekezdése iktatta be. E módosító rendelet 25. §-a alapján az országos kamara a 2009. március 7. napját követő 30. napig gondoskodik arról, hogy a Végintézkedések Központi Nyilvántartásába az országos kamara iránymutatása alapján bejegyzett adatok a nyilvántartásból lekérdezésre, az abban való javításra és kiegészítésre alkalmasak legyenek.
+[^76]: A Vhr. 28. §-át megelőző alcím a 33/2008. (XII. 31.) IRM rendelet 4. §-ával megállapított szöveg.
+[^77]: A Vhr. 28. §-a a 33/2008. (XII. 31.) IRM rendelet 4. §-ával megállapított szöveg. E módosító rendelet 21. § (3) bekezdése alapján a közjegyző a 2009. január 1-jén folyamatban lévő ügyeket a 2009. évi nyilvántartásaiban új ügyszámmal átvezeti. Folyamatban lévő ügyek esetében – a soron következő intézkedés megtételekor – a 2008. évi nyilvántartások megjegyzés rovatában a 2009. évi ügyszámot, a 2009. évi nyilvántartás megjegyzés rovatában pedig a 2008. évi ügyszámot is fel kell tüntetni.
+[^78]: A Vhr. 28. §-ának (10) bekezdése a 4/2009. (III. 6.) IRM rendeletet 24. § (3) bekezdésével megállapított szöveg. E módosító rendelet 25. §-a alapján az országos kamara a 2009. március 7. napját követő 30. napig gondoskodik arról, hogy a Végintézkedések Központi Nyilvántartásába az országos kamara iránymutatása alapján bejegyzett adatok a nyilvántartásból lekérdezésre, az abban való javításra és kiegészítésre alkalmasak legyenek.
+[^79]: A Vhr. 28. §-ának (11) bekezdését a 4/2009. (III. 6.) IRM rendeletet 24. § (1) bekezdése hatályon kívül helyezte, újonnan e módosító rendelet 24. § (4) bekezdése iktatta be. E módosító rendelet 25. §-a alapján az országos kamara a 2009. március 7. napját követő 30. napig gondoskodik arról, hogy a Végintézkedések Központi Nyilvántartásába az országos kamara iránymutatása alapján bejegyzett adatok a nyilvántartásból lekérdezésre, az abban való javításra és kiegészítésre alkalmasak legyenek.

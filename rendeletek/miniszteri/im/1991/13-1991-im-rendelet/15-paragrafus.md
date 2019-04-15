@@ -1,5 +1,5 @@
-15. § (1) Ha a közjegyző 5 egymást követő munkanapot meghaladó időtartamra szolgálati helyétől távol kíván maradni, ezt az ok és az időpont megjelölésével jóváhagyás végett köteles előzetesen bejelenteni a területi elnökségnek. Ha a közjegyzőnek nincs a tárgyévre kirendelt állandó helyettese, a bejelentésben a helyettes személyét is meg kell jelölnie.
+15. § (1) Ha a közjegyző 5 egymást követő munkanapot meghaladó időtartamra szolgálati helyétől távol kíván maradni, ezt a távollét kezdő és befejező időpontjának megjelölésével köteles előzetesen bejelenteni a területi kamara elnökének.
 
-(2)[^45] Ha a közjegyző baleset, betegség, vagy más, önhibáján kívüli ok miatt nem képes munkáját elvégezni, távolmaradását engedélyezni nem kell, de az akadályoztatásáról értesítenie kell a területi elnökséget.
+(2) Ha a közjegyzőnek nincs állandó helyettese, a bejelentést 30 nappal a távollét tervezett kezdőnapja előtt kell megtennie, és a bejelentésben a helyettes személyére is javaslatot kell tennie.
 
-[^45]: A Vhr. 15. §-ának (2) bekezdése a 26/2004. (VII. 26.) IM rendelet 1. §-ának (3) bekezdésével megállapított szöveg.
+(3) Ha a közjegyző baleset, betegség, vagy más, önhibáján kívüli ok miatt nem képes munkáját elvégezni, akadályoztatásáról – ha ezt egészségi állapota lehetővé teszi – haladéktalanul értesíti a területi kamara elnökét.

@@ -1,5 +1,17 @@
-## (A Ktv. 33. §-ához)
+17. § (1) Állandó helyettesítés esetén, ha az állandó helyettes
 
-17. §[^49] Állandó helyettesítés esetén — minden egyes helyettesítés megkezdése előtt 8 nappal — a közjegyző és a kirendelt állandó helyettes közösen bejelenti a helyettesítést a területi kamara elnökének. E bejelentésben meg kell jelölni a helyettesítés okát és időtartamát.
+a) közjegyző, a saját bélyegzőjét,
 
-[^49]: A Vhr. 17. §-a a 7/1999. (VII. 16.) IM rendelet 16. §-ának (1) bekezdése szerint módosított szöveg.
+b) nem közjegyző, a helyettesített közjegyző bélyegzőjét
+
+használja.
+
+(2) Tartós helyettesítés esetén, ha a tartós helyettes
+
+a) közjegyző, a saját bélyegzőjét,
+
+b) nem közjegyző, a helyettesített közjegyző bélyegzőjét,
+
+c) nem közjegyző, és a helyettesítéssel érintett székhely betöltetlen vagy a helyettesített közjegyzőt hivatalából felfüggesztették, a tartós helyettesi hivatali bélyegzőt
+
+használja.

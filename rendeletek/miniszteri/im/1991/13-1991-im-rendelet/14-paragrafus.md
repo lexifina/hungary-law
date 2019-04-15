@@ -1,11 +1,15 @@
-## A KÖZJEGYZŐ HELYETTESÍTÉSE
+## A KÖZJEGYZŐ HELYETTESÍTÉSE[^44]
 
-## (A Ktv. 32. §-ához)
+## (a Ktv. 32–37/E. §-ához)
 
-14. § (1) A területi elnökség a közjegyző részére összesen évi 60 munkanapot meg nem haladó távollétet engedélyezhet. Az engedélyt függővé lehet tenni a helyettes kirendelésétől.
+14. § (1) A közjegyző összesen évi 60 munkanap távollétet vehet igénybe.
 
-(2)[^44] Évi 60 munkanapot meghaladó távollétet az országos kamara elnöke különösen fontos okból engedélyezhet.
+(2) Évi 60 munkanapot meghaladó távollétet az országos kamara elnöke különösen fontos okból engedélyezhet.
 
-(3) Ha a közjegyző az engedélyezett távollét időtartamát túllépi, őt a területi kamara elnöke visszatérésre és munkájának folytatására szólítja fel.
+(3) A távollét az állandó vagy tartós helyettesítési megállapodásnak a területi kamara elnöksége általi jóváhagyása, illetve a helyettes kirendelése után kezdhető meg.
 
-[^44]: A Vhr. 14. §-ának (2) bekezdése az 55/2007. (XII. 21.) IRM rendelet 1. § (4) bekezdésével megállapított szöveg.
+(4) Közjegyzőhelyettest, nyugalmazott közjegyzőt vagy nyugalmazott bírót akkor lehet helyettesként kirendelni, ha a közjegyzői kinevezés feltételeinek megfelel.
+
+(5) Ha a közjegyző a bejelentett vagy engedélyezett távollét időtartamát túllépi, a területi kamara elnöke visszatérésre és munkájának folytatására szólítja fel, illetve intézkedik a helyettesítés időtartamának meghosszabbítása vagy új helyettes kirendelése érdekében.
+
+[^44]: A Vhr. „A közjegyző helyettesítése” alcíme (14–19. §) a 10/2019. (IV. 5.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.

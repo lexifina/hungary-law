@@ -1,7 +1,11 @@
-## (A Ktv. 36. §-ához)
+18. § (1) A helyettesítés megkezdésének és befejezésének időpontját a közjegyző nyilvántartásaiban fel kell tüntetni.
 
-18. § (1)[^50] A területi kamara elnöke a helyettesítésről szóló kirendelő okiratban meghatározza azt a napot, amelyen a helyettes működését megkezdi, illetőleg azt az évet, amelyre az állandó helyettest kirendelte. Az okirat másolatát meg kell küldeni a helyettesnek és a helyettesített közjegyzőnek.
+(2) A helyettesítés időtartama alatt
 
-(2) Ismételt kirendelés esetén a Ktv. 36. §-ának (2) bekezdése szerinti eskütétel és aláírásminta bemutatása mellőzhető.
+a) készült közjegyzői okiratban,
 
-[^50]: A Vhr. 18. § (1) bekezdése a 7/1999. (VII. 16.) IM rendelet 10. §-ával megállapított szöveg.
+b) hozott határozatban, végzésben, valamint
+
+c) nemperes ügyben felvett jegyzőkönyvben
+
+a helyettesítés tényére utalni kell.

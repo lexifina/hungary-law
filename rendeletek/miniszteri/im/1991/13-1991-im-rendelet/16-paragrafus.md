@@ -1,11 +1,5 @@
-16. § (1)[^46] Ha a közjegyző helyettesítése bármely okból szükségessé válik, a területi elnökség a helyettes kirendeléséről soron kívül intézkedik.
+16. § (1) Ha a közjegyző helyettesítése bármely okból szükségessé válik, a területi kamara elnöksége a helyettes kirendeléséről soron kívül intézkedik.
 
-(2)[^47] A területi elnökség kijelöli a helyettes személyét és meghatározza a helyettesítés időtartamát. Az intézkedésnél elsősorban a közjegyző kérelmére kell tekintettel lenni.
+(2) Tartós helyettes kirendelése esetén – ha a helyettesítés nem jóváhagyott tartós helyettesítési megállapodás alapján történik – a területi kamara elnöksége beszerzi a kirendelni javasolt személy hozzájáruló nyilatkozatát is.
 
-(3)[^48] Tartós helyettes kirendelése esetén be kell szerezni a kirendelni javasolt személy hozzájárulásáról szóló nyilatkozatot is.
-
-(4) Közjegyzőhelyettest, nyugalmazott közjegyzőt vagy nyugalmazott bírót akkor lehet helyettesként kirendelni, ha egyébként a közjegyzői kinevezés feltételeinek megfelel.
-
-[^46]: A Vhr. 16. § (1) bekezdése a 7/1999. (VII. 16.) IM rendelet 9. §-ával megállapított szöveg.
-[^47]: A Vhr. 16. § (2) bekezdése a 7/1999. (VII. 16.) IM rendelet 9. §-ával megállapított szöveg.
-[^48]: A Vhr. 16. § (3) bekezdése a 7/1999. (VII. 16.) IM rendelet 9. §-ával megállapított szöveg.
+(3) Ismételt kirendelés esetén a Ktv. 35. § (2) bekezdése szerinti eskütétel és aláírásminta bemutatása mellőzhető.

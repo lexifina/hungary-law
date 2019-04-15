@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-13-20-0
 | 2017-01-01 | 1991-13-20-06.28 | 55/2007. (XII. 21.) IRM rendelet |
 | 2018-01-01 | 1991-13-20-06.29 | 20/2017. (XII. 21.) IM rendelet |
 | 2019-01-01 | 1991-13-20-06.30 | 20/2017. (XII. 21.) IM rendelet |
+| 2019-04-15 | 1991-13-20-06.31 | 10/2019. (IV. 5.) IM rendelet |
