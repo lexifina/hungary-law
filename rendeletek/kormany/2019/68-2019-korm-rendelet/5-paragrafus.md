@@ -1,3 +1,5 @@
-## 4. § Az R. 5. §-ában a „törvény” szövegrész helyébe a „törvény (a továbbiakban: Vtv.)” szöveg lép.
+## 1–4. §[^2]
 
 5. § Ez a rendelet 2019. április 14-én lép hatályba.
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
