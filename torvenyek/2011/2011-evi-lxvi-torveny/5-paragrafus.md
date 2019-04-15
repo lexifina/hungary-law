@@ -32,7 +32,7 @@ a) a pártok gazdálkodását,
 
 b) a pártok országgyűlési képviselőcsoportjai számára az Országgyűlés által folyósított hozzájárulás felhasználását,
 
-c) az egyházi jogi személyek vagy azok nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenység végzésére létrehozott, a bevett egyház belső szabálya szerint jogi személyiséggel nem rendelkező intézménye részére az államháztartásból nem hitéleti célra nyújtott támogatás felhasználását, valamint
+c) a vallási egyesület, az egyházi jogi személyek vagy azok nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenység végzésére létrehozott, a jogi személyiséggel rendelkező vallási közösség belső szabálya szerint jogi személyiséggel nem rendelkező intézménye részére az államháztartásból nem hitéleti célra nyújtott támogatás felhasználását, valamint
 
 d) a nemzetbiztonsági szolgálatok speciális működési költségkeret felhasználására vonatkozó adatait.
 

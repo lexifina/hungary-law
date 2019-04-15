@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-66-00-00
 | 2015-01-01 | 2014. évi CI. törvény | 2011-66-00-00.13 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2011-66-00-00.14 |
 | 2019-04-12 | 2019. évi XXXVII. törvény | 2011-66-00-00.15 |
+| 2019-04-15 | 2019. évi XXXVI. törvény | 2011-66-00-00.16 |
