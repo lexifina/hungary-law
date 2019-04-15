@@ -1,6 +1,6 @@
-## 20. §[^42] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i, 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 20. §[^44] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i, 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. számú melléklet a 49/2004. (VIII. 31.) BM rendelethez[^43]
+1. számú melléklet a 49/2004. (VIII. 31.) BM rendelethez[^45]
 
 ## Fegyverismereti vizsgakérdése
 
@@ -128,5 +128,5 @@ Marok (rövid) lőfegyverismeret:
 
 A fegyverismereti és jártassági vizsgán a vizsgabizottság tagjai a fentieken kívül további olyan jogszabály- és fegyverismereti kérdéseket is feltehetnek, amelynek ismerete a vizsgázótól elvárható.
 
-[^42]: A 20. §-t a 25/2012. (V. 11.) BM rendelet 5. §-a iktatta be.
-[^43]: Az 1. számú mellékletet a 71/2009. (XII. 22.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte, újonnan a 25/2012. (V. 11.) BM rendelet 6. § (1) bekezdés a) pontja iktatta be.
+[^44]: A 20. §-t a 25/2012. (V. 11.) BM rendelet 5. §-a iktatta be.
+[^45]: Az 1. számú mellékletet a 71/2009. (XII. 22.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte, újonnan a 25/2012. (V. 11.) BM rendelet 6. § (1) bekezdés a) pontja iktatta be.
