@@ -1,0 +1,1 @@
+110. § Az Ehtv. 38. §-ában meghatározott nyilvántartási adatok átvezetése a bíróság részéről hivatalból történik, amelynek során a vallási egyesületek a vallási tevékenységet végző szervezetek általános jogutódjaként kerülnek nyilvántartásba vételre.

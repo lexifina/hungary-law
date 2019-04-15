@@ -1,0 +1,1 @@
+109. § Az Ehtv. 36. § (7) bekezdésében meghatározott vallási közösségek bírósági nyilvántartásával kapcsolatos eljárás során a bíróság a feltételek vizsgálatánál a korábbi hatósági közigazgatási eljárás, illetve az Országgyűlés eljárása során keletkezett iratanyagokban foglaltakat figyelembe veheti.

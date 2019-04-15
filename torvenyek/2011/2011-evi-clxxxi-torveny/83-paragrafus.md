@@ -18,8 +18,14 @@ f) Munkavállalói Résztulajdonosi Program szervezet,
 
 g) európai területi társulás,
 
-h) országos sportági szakszövetség és
+h) országos sportági szakszövetség,
 
-i) egyéb szervezet.
+i) bejegyzett egyház,
+
+j) nyilvántartásba vett egyház,
+
+k) vallási egyesület, és
+
+l) egyéb szervezet.
 
 (3) Ha külön törvény alapján valamely szervezet nyilvántartásba vétele a Fővárosi Törvényszék kizárólagos illetékességébe tartozik, a törvényszéki nyilvántartást úgy kell kialakítani, hogy a szervezet csak a Fővárosi Törvényszék törvényszéki nyilvántartásába legyen felvehető.

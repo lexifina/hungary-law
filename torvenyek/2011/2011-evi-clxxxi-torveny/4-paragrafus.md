@@ -20,7 +20,7 @@ i) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 
 
 j) a Munkavállalói Résztulajdonosi Programról szóló törvény szerint alapított Munkavállalói Résztulajdonosi Program szervezetet,
 
-k)
+k) a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) alapján működő bejegyzett egyházat, nyilvántartásba vett egyházat, vallási egyesületet,
 
 l) a 2013. évi CXXXV. törvénnyel létrehozott Szövetkezeti Hitelintézetek Integrációs Szervezetét és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapját.
 

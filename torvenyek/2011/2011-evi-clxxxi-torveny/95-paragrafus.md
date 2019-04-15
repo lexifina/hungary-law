@@ -8,7 +8,7 @@ ab) párt,
 
 ac) sportegyesület,
 
-ad) vallási tevékenységet végző szervezet,
+ad)
 
 ae) nemzetiségi egyesület,
 
