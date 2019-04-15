@@ -40,7 +40,7 @@ l) az állami magasépítési beruházások megvalósításáról szóló 2018. 
 
 (4a) A kincstár fizetési számlát vezet
 
-a) a bevett egyház megbízása esetén a bevett egyház számára,
+a) a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház megbízása esetén a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház számára,
 
 b) törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén a gazdasági társaság számára,
 
