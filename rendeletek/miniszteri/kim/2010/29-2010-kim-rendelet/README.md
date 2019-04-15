@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-29-20-2
 | 2015-08-17 | 2010-29-20-2T.6 | 12/2015. (VII. 23.) IM rendelet |
 | 2016-01-01 | 2010-29-20-2T.7 | 40/2015. (XII. 22.) IM rendelet |
 | 2018-01-01 | 2010-29-20-2T.8 | 20/2017. (XII. 21.) IM rendelet |
+| 2019-04-15 | 2010-29-20-2T.9 | 12/2015. (VII. 23.) IM rendelet |
