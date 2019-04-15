@@ -4,7 +4,7 @@ a) a személy a tevékenységet maga vagy a Polgári Törvénykönyv szerinti k�
 
 b) a tevékenység jogszabályi kötelezésen, jogerős bírósági határozaton, illetve hatósági kötelezésen alapul, vagy
 
-c) a felek úgy állapodnak meg, hogy azt más jogviszony keretében végzik, így különösen polgári jogi jogviszonyban egyesület, alapítvány vagy közalapítvány kezelő szervének, vagy vallási közösség tagjaként.
+c) a felek úgy állapodnak meg, hogy azt más jogviszony keretében végzik, így különösen polgári jogi jogviszonyban egyesület, alapítvány vagy közalapítvány kezelő szervének, vagy jogi személyiséggel rendelkező vallási közösség tagjaként.
 
 (2) Ellenszolgáltatásnak minősül minden olyan vagyoni előny, amelyhez az önkéntes vagy közeli hozzátartozója a közérdekű önkéntes tevékenységhez kapcsolódóan jut.
 

@@ -6,7 +6,7 @@
 
 a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát,
 
-b) nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolás másolatát,
+b) nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 18. § (3) bekezdése szerinti igazolás másolatát,
 
 c) civil szervezet, közalapítvány vagy közhasznú szervezet esetén a fogadó szervezet hatályos létesítő okiratának másolatát,
 
@@ -18,7 +18,7 @@ e) nem költségvetési szervként működő közművelődési intézmény eset�
 
 a) civil szervezet vagy közalapítvány, a miniszter a civil és egyéb, bírósági bejegyzéssel létrejött, cégnek nem minősülő szervezetek országos névjegyzékéből beszerzi, illetve ellenőrzi a fogadó szervezet bírósági nyilvántartásba vett adatait,
 
-b) egyházi jogi személy, a miniszter a bevett egyházak nyilvántartásából beszerzi, illetve ellenőrzi a fogadó szervezet adatait, illetve nyilvántartásba nem vett belső egyházi jogi személy esetén a bevett egyház és a (3) bekezdés b) pontja nyilatkozatot kiállító belső egyházi jogi személy adatait,
+b) egyházi jogi személy, a miniszter a bevett egyházak, illetve nyilvántartásba vett belső egyházi jogi személyeik vonatkozásában az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter nyilvántartásából, a nyilvántartásba vett és a bejegyzett egyházak, illetve nyilvántartásba vett belső egyházi jogi személyeik vonatkozásában a bíróságtól beszerzi, illetve ellenőrzi a fogadó szervezet adatait, illetve nyilvántartásba nem vett belső egyházi jogi személy esetén a bevett egyház, a bejegyzett egyház, a nyilvántartásba vett egyház és a (3) bekezdés b) pontja szerinti nyilatkozatot kiállító belső egyházi jogi személy adatait,
 
 c) cég, a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel beszerzi a fogadó szervezet cégkivonatát,
 
