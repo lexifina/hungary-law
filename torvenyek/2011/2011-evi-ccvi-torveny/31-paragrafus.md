@@ -6,20 +6,14 @@
 
 31. § Felhatalmazást kap a Kormány, hogy
 
-a) az egyházként történő elismerésre irányuló kérelem tartalmát és benyújtásának rendjét,
+a) a 13/A. § (1) bekezdése és a 14. § (1) bekezdése szerinti kérelem tartalmát és benyújtásának rendjét,
 
-b) a tábori lelkészi szolgálat végzésének szabályait,
+b) a 13/A. § (1) bekezdés a)–e) pontja, valamint a 14. § (1) bekezdés a)–e) pontja szerinti feltételek igazolására szolgáló dokumentumok tartalmát és benyújtásának rendjét,
 
-c) a miniszter által vezetett nyilvántartás tekintetében
+c) a tábori lelkészi szolgálat végzésének szabályait,
 
-ca) a nyilvántartásba vétel szabályait,
+d) a 13. § (2) bekezdése, a 16/A–17.§ és a 18. § (1) bekezdése szerinti nyilvántartás részletes szabályait,
 
-cb) a nyilvántartásba bejegyzendő technikai és egyéb adatokat, valamint ezek változása bejelentésének szabályait,
+e) a 9/C. §, a 9/D. § (3) bekezdése, valamint a 9/F. § (1) bekezdése szerinti megállapodás megkötésére jogosult szerv kijelölését és eljárásának szabályait,
 
-cc) a nyilvántartásból történő adatszolgáltatás, valamint a bevett egyház és a belső egyházi jogi személy nyilvántartásba bejegyzett adatairól kért papír alapú és elektronikus kivonat tartalmát,
-
-cd) a belső egyházi jogi személy nyilvántartásba vételének szabályait, és
-
-d) a bevett egyház megszűnésére vonatkozó részletes eljárási szabályokat, valamint a bevett egyház és a belső egyházi jogi személy nyilvántartásból való törlésének szabályait
-
-rendeletben meghatározza.
+rendeletben határozza meg.

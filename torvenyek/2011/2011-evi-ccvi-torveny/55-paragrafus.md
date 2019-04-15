@@ -1,6 +1,12 @@
 ## 13. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-55. § A 6–9. §, a 10–13. §, a 14–22. §, a 23. § (1) és (2) bekezdése, a 24–30. § és a melléklet az Alaptörvény VII. cikk (4) bekezdése, a 23. § (3) bekezdése az Alaptörvény 43. cikk (4) bekezdése alapján sarkalatosnak minősül.
+55. § E törvény
+
+a) 6–9. §-a, 9/C–12. §-a, 13–15. §-a, 16–19/C. §-a, 20–30. §-a, 33–38. §-a, 38/B. §-a, és melléklete az Alaptörvény VII. cikk (5) bekezdése alapján,
+
+b) 19/D. §-a az Alaptörvény 43. cikk (4) bekezdése alapján
+
+sarkalatosnak minősül.
 
 ## Melléklet a 2011. évi CCVI. törvényhez
 

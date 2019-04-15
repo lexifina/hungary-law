@@ -1,5 +1,9 @@
-12. § (1) A bevett egyház belső szabálya szerint jogi személyiséggel rendelkező egysége, szervezete vagy intézménye jogi személy.
+## II/A. Fejezet
 
-(2) A belső egyházi jogi személy a bevett egyház belső szabálya szerint működik, a bevett egyház belső szabályában meghatározott viszonyokban a bevett egyház képviseletében jár el. A belső egyházi jogi személyre a bevett egyházra vonatkozó szabályokat megfelelően kell alkalmazni.
+## A JOGI SZEMÉLYISÉGGEL RENDELKEZŐ VALLÁSI KÖZÖSSÉG SZOLGÁLATÁBAN ÁLLÓ SZEMÉLY
 
-(3) A 9. § (1) bekezdése szerinti tevékenységet ellátó intézmény a bevett egyház belső szabálya szerint belső egyházi jogi személynek minősülhet. Nem minősül belső egyházi jogi személynek a vallási közösség által létrehozott gazdasági társaság, alapítvány és egyesület.
+12. § (1) Az egyházi személy a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház belső szabályában meghatározott, az egyházi jogi személy szolgálatában álló, egyházi szolgálatot sajátos egyházi szolgálati viszonyban, munkaviszonyban vagy egyéb jogviszonyban teljesítő természetes személy.
+
+(2) Az egyházi személy a hitéleti szolgálata során tudomására jutott, személyiségi jogot érintő információkat nem köteles állami hatóság tudomására hozni.
+
+(3) Az egyházi személy fokozott szabálysértési és büntetőjogi védelemben részesül.

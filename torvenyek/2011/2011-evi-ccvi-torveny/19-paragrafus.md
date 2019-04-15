@@ -1,15 +1,11 @@
 ## IV. Fejezet
 
-## A VALLÁSI KÖZÖSSÉGEK
+## A JOGI SZEMÉLYISÉGGEL RENDELKEZŐ VALLÁSI KÖZÖSSÉG MŰKÖDÉSE
 
-## 6. A vallási közösség működésének szabályai
+## 6. A jogi személyiséggel rendelkező vallási közösség támogatása
 
-19. § (1) A vallási közösség saját belső szabálya, hitelvei és szertartási rendje szerint működik.
+19. § (1) A jogi személyiséggel rendelkező vallási közösség részére a közcélú tevékenységek ellátásához az állam költségvetési támogatást nyújt.
 
-(2) A vallási közösség részt vállalhat a társadalom értékteremtő szolgálatában, ennek érdekében önmaga vagy e célra létrehozott intézménye útján a 9. § (1) bekezdésében meghatározott olyan tevékenységet is elláthat, amelyet törvény nem tart fenn kizárólagosan az állam vagy annak intézménye számára.
+(2) A bevett egyház és belső egyházi jogi személye az általa vagy intézménye útján ellátott közcélú tevékenysége után a hasonló tevékenységet folytató állami vagy helyi önkormányzati intézményekkel azonos mértékű költségvetési támogatásra jogosult. A bejegyzett egyház, a nyilvántartásba vett egyház és ezek belső egyházi jogi személyei az általuk vagy intézményeik útján ellátott közcélú tevékenységük után – erre vonatkozó megállapodás alapján – legfeljebb a hasonló tevékenységet folytató állami vagy helyi önkormányzati intézményekkel azonos mértékű költségvetési támogatásra jogosultak. A megállapodás megkötésénél figyelembe kell venni a 9. § (1) bekezdésében foglalt feltételeket.
 
-(3) A 9. § (1) bekezdése szerinti tevékenységet a vallási közösség közvetlenül vagy intézményei útján identitásának megfelelően végzi, amelyre tekintettel a felvételhez és a foglalkoztatásra irányuló jogviszony létesítéséhez, fenntartásához és megszüntetéséhez a világnézeti elkötelezettség természete vagy tartalma miatt indokolt, annak megőrzéséhez és gyakorlásához szükséges és arányos feltételek határozhatók meg.
-
-(4) Az Alaptörvény VIII. cikk (2) bekezdése vagy XII. cikk (1) bekezdése alapján létrejött szervezet által ellátott 9. § (1) bekezdése szerinti tevékenységet e célból létrehozott vagy már működő belső egyházi jogi személy az ilyen szervezet egyetemes jogutódjaként nem veheti át.
-
-(5) A vallási közösség a polgári jogviszonyokban korlátozás nélkül részt vehet, ennek keretében jogosult gazdasági társaságot és civil szervezetet létrehozni, azokban részt venni.
+(3) Amennyiben az egyházi jogi személy önmaga vagy intézménye útján közfeladatot lát el, a közfeladatot ténylegesen ellátó szervezet köteles a közfeladat ellátásával összefüggő közérdekű és közérdekből nyilvános adatainak közzétételére. Amennyiben a közfeladatot ellátó intézmény szervezetileg nem különül el a fenntartótól, abban az esetben is csak a közfeladat-ellátással ténylegesen összefüggő, elkülönítetten nyilvántartandó intézményi adatokat kell közzétenni. A közzétételi kötelezettség egyik esetben sem terjed ki az egyház belső struktúrájára, hitéleti tevékenységére, döntéshozatali mechanizmusára vonatkozó adatokra.

@@ -1,0 +1,1 @@
+28/A. § A Kormány a miniszter előterjesztésére a 27. és a 28. §-ban meghatározott esetben kezdeményezi az Országgyűlésnél az érintett bevett egyház mellékletből való törlését, illetve egyesülés, különválás esetén a melléklet módosítását.

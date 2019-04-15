@@ -18,4 +18,4 @@ Az Országgyűlés
 
 – külön is elismerve Magyarország történelmében és kultúrájában folyamatosan meghatározó jelentőséggel bíró egyházak kiemelkedő szerepét
 
-az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (4) bekezdése alapján, a következő törvényt alkotja:
+az Alaptörvény végrehajtására, az Alaptörvény VII. cikk (5) bekezdése alapján, a következő törvényt alkotja:

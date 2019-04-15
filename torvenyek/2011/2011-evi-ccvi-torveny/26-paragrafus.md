@@ -1,19 +1,9 @@
-## V. Fejezet
+26. § (1) A bíróság az ügyész keresete alapján – a bevett egyház kivételével – megszünteti azt a jogi személyiséggel rendelkező vallási közösséget, és elrendeli a nyilvántartásból való törlését,
 
-## AZ EGYHÁZI JOGI SZEMÉLYEK ÁTALAKULÁSA ÉS MEGSZŰNÉSE
+a) amely az Alkotmánybíróság elvi véleménye alapján alaptörvény-ellenesen működik, vagy
 
-26. § (1) A bevett egyház jogutód nélkül szűnik meg, ha a bevett egyház
+b) amelynek a nyilvántartásba vételét meg kellett volna tagadni.
 
-a) legfőbb szerve a bevett egyház feloszlásáról határoz vagy
+(2) A bíróság az ügyész keresete alapján – a bevett egyház kivételével – megszüntetheti azt a jogi személyiséggel rendelkező vallási közösséget és elrendelheti a nyilvántartásból való törlését, amelynek tevékenysége súlyos, szándékos és többszöri törvénysértést valósított meg.
 
-b) tevékenységével felhagy és vagyonáról nem rendelkezik.
-
-(2) A bevett egyház jogutóddal – a bevett egyház képviselőjének kérelmére – szűnik meg
-
-a) más bevett egyházba való beolvadása vagy összeolvadása (a továbbiakban együtt: egyesülés) vagy
-
-b) két vagy több bevett egyházra való különválás
-
-esetén.
-
-(3) A bevett egyházból való kiválás esetén a kiválással létrejövő vallási közösség vallási tevékenységet végző szervezet.
+(3) A bíróság az ügyész keresete alapján – a bevett egyház kivételével – megállapítja a jogi személyiséggel rendelkező vallási közösség megszűnését és elrendeli a nyilvántartásból való törlését, ha tevékenységével felhagy, és vagyonáról nem rendelkezik.

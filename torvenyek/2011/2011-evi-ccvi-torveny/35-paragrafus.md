@@ -1,13 +1,11 @@
-35. § (1) Az e törvény 2012. január 1-jén hatályos 34. § (1) bekezdése szerinti olyan szervezet, amellyel szemben
+35. § (1) E törvény 2019. április 14-én hatályos 33. § (3) és (4) bekezdése szerinti vallási közösség a Módtv. hatálybalépésétől számított 45 napon belül kezdeményezheti a bíróságnál nyilvántartásba vett egyházként történő nyilvántartásba vételét, ha e törvény 2019. április 14-én hatályos 33. § (4) bekezdése szerinti eljárást nem kezdeményezett.
 
-a) a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépésekor az e törvény 2012. január 1-jén hatályos 35. § (3) bekezdése alapján kényszer-végelszámolási eljárás van folyamatban, vagy
+(2) Ha e törvény 2019. április 14-én hatályos 33. § (3) és (4) bekezdése szerinti vallási közösség a nyilvántartásba vett egyházként történő nyilvántartásba vételét az (1) bekezdésben foglalt határidőben kezdeményezi, ügyében a bíróság soron kívül, de legkésőbb a kérelem benyújtásától számított 30 napon belül dönt.
 
-b) a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépését követően az a) pont szerinti befejezett eljárással összefüggésben új eljárásra utasítás alapján új eljárás indul,
+(3) Ha a bíróság e törvény 2019. április 14-én hatályos 33. § (3) és (4) bekezdése szerinti vallási közösséget nyilvántartásba vett egyházként nyilvántartásba veszi, a vallási közösség a Módtv. hatálybalépésétől nyilvántartásba vett egyháznak minősül.
 
-az erre vonatkozó beadványával a bíróságtól a kényszer-végelszámolási eljárás megszüntetését annak egyidejű igazolása mellett kérheti, hogy vallási tevékenységet végző szervezetként történő bejegyzését a 9/B. § (1) bekezdése szerinti bíróságtól kérte.
+(4) E törvény 2019. április 14-én hatályos 33. § (4) bekezdése szerinti vallási közösség e § szerinti nyilvántartásba vétele során a 9/D. § (1) bekezdés a) pontja szerinti feltétel akkor is teljesül, ha az e törvény hatálybalépését megelőző 3 év átlagában legalább ezer magánszemély ajánlotta fel befizetett személyi jövedelemadójának külön törvény szerint meghatározott részét.
 
-(2) A kérelem az (1) bekezdés a) pontja szerinti esetben a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépését követő 30. napig, az (1) bekezdés b) pontja szerinti esetben az új eljárásra utasításról történő tudomásszerzéstől számított 30. napig nyújtható be.
+(5) E törvény 2019. április 14-én hatályos 33. § (4) bekezdése szerinti vallási közösség e § szerinti nyilvántartásba vétele során a 14. § (1) bekezdés e) pontja szerinti feltétel akkor is teljesül, ha vele szemben az e törvény hatálybalépését megelőző 5 éven belül a számviteli és gazdálkodási szabályok ismételt megsértése miatt nem került alkalmazásra joghátrány.
 
-(3) A bíróság az (1) bekezdés a) vagy b) pontja szerinti eljárást a vallási tevékenységet végző szervezetként történő bejegyzés iránti eljárás jogerős befejezéséig felfüggeszti.
-
-(4) Ha a 9/B. § (1) bekezdése szerinti bíróság az (1) bekezdés szerinti szervezetet vallási tevékenységet végző szervezetként bejegyzi, az (1) bekezdés a) vagy b) pontja szerinti eljárást a bíróság megszünteti.
+(6) E törvény 2019. április 14-én hatályos 33. § (4) bekezdése szerinti vallási közösség esetében az 1990. évi IV. törvény alapján egyházként, illetve az e törvény szerinti vallási közösségként történt folyamatos működés a 9/D. § alkalmazásában a vallási egyesületként történő működés időtartamába beszámít.

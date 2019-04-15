@@ -1,9 +1,11 @@
-## II/A. Fejezet
+## III. Fejezet
 
-## A VALLÁSI KÖZÖSSÉG SZOLGÁLATÁBAN ÁLLÓ SZEMÉLY
+## A JOGI SZEMÉLYISÉGGEL RENDELKEZŐ VALLÁSI KÖZÖSSÉG ÉS A BELSŐ EGYHÁZI JOGI SZEMÉLY NYILVÁNTARTÁSA
 
-13. § (1) Az egyházi személy a bevett egyház belső szabályában meghatározott, az egyházi jogi személy szolgálatában álló, egyházi szolgálatot sajátos egyházi szolgálati viszonyban, munkaviszonyban vagy egyéb jogviszonyban teljesítő természetes személy.
+## 4. A jogi személyiséggel rendelkező vallási közösség nyilvántartása
 
-(2) Az egyházi személy a hitéleti szolgálata során tudomására jutott, személyiségi jogot érintő információkat nem köteles állami hatóság tudomására hozni.
+13. § (1) A jogi személyiséggel rendelkező vallási közösséget – a bevett egyházakat kivéve – a Fővárosi Törvényszék (a továbbiakban: bíróság) veszi nyilvántartásba. A bíróság kizárólagos illetékességgel jár el.
 
-(3) Az egyházi személy fokozott szabálysértési és büntetőjogi védelemben részesül.
+(2) A bíróság a bejegyzett egyházak, a nyilvántartásba vett egyházak és a vallási egyesületek nyilvántartásait (a továbbiakban együtt: nyilvántartás) elkülönítetten vezeti.
+
+(3) A nyilvántartásra az e törvényben nem szabályozott kérdésekben a civil szervezetek bírósági nyilvántartására vonatkozó szabályokat kell alkalmazni.

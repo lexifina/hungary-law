@@ -1,3 +1,3 @@
-8. § (1) Az állam a vallási közösségek irányítására, felügyeletére szervet nem működtethet és nem hozhat létre.
+8. § (1) Az állam a vallási közösségek irányítására, felügyeletére szervet nem működtethet, és nem hozhat létre.
 
 (2) A vallási közösség hitelvei, belső törvénye, alapszabálya, szervezeti és működési szabályzata vagy azoknak megfelelő más szabályzata (a továbbiakban együtt: belső szabály) alapján hozott határozat érvényre juttatására állami kényszer nem alkalmazható, azt állami hatóság nem vizsgálhatja. A vallási közösség belső szabályon alapuló döntését állami szerv nem módosíthatja vagy bírálhatja felül, a jogszabályban nem szabályozott belső jogviszonyokból eredő jogviták elbírálására állami szervnek nincs hatásköre.

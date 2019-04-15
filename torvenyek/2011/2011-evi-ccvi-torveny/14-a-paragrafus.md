@@ -1,23 +1,51 @@
-14/A. § (1) A 14. § c) pont ca) alpontja szerinti nemzetközi működést
+14/A. § (1) Ha a 9/D. § (2) bekezdése alapján a nyilvántartásban szereplő nyilvántartásba vett egyház hitéleti tevékenysége vagy közcélú tevékenysége érdekében az államháztartás alrendszereiből, európai uniós forrásokból vagy nemzetközi megállapodás alapján finanszírozott programokból, pályázati úton vagy pályázati rendszeren kívül, egyedi döntés alapján támogatást vesz igénybe, ezt a tényt köteles a támogatás folyósítását követő 15 napon belül a bíróságnak bejelenteni. A bejelentés alapján, annak kézhezvételét követő 8 napon belül a bíróság 15 napos határidő tűzésével felszólítja a nyilvántartásba vett egyházat, hogy nyilatkozzon arról, hogy
 
-a) legalább két országban egyházi státusszal rendelkező és azonos hitelveket valló egyházak által kiállított igazolás,
+a) a támogatás összegét a támogatást folyósító szervnek visszafizette, vagy
 
-b) legalább két országban működő és azonos hitelveket valló egyházak, tagegyházak szövetsége által a szövetségi tagságról kiállított igazolás, vagy
+b) amennyiben a nyilvántartásba vett egyház a támogatás összegét nem fizeti vissza,
 
-c) legalább két országban működő részegyházakat összefogó világegyház által kiállított igazolás
+ba) kérelmezi a nyilvántartásba vett egyházak nyilvántartásából való törlését vallási egyesületként történő egyidejű nyilvántartásba vételével, vagy
 
-alapján kell megállapítani.
+bb) vállalja a 9/D. § (1) bekezdés a) pontjában meghatározott feltétel teljesítését.
 
-(2) A 14. § c) pont cb) alpontja szerinti működésbe beszámít az e törvény hatálybalépése előtt a lelkiismereti és vallásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény alapján nyilvántartásba vett egyházként, valamint a 2012. január 1-je és a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló 2013. évi CXXXIII. törvény hatálybalépése, illetve a 33. § (3) bekezdésében meghatározott időpont között alapcélként vallási tevékenységet végző szervezetként való működés is.
+(2) A nyilvántartásba vett egyházat a bíróság törli a nyilvántartásba vett egyházak nyilvántartásából, és vallási egyesületként veszi nyilvántartásba, ha a nyilvántartásba vett egyház
 
-(3) A 14. § c) pont cb) alpontja szerinti taglétszámot a Magyarország lakosságszámára vonatkozóan – a kezdeményezés benyújtását megelőzően – a Központi Statisztikai Hivatal által közzétett legutolsó adat alapulvételével kell meghatározni.
+a) nem teljesíti a 9/D. § (1) bekezdés a) pontjában meghatározott feltételt, vagy
 
-(4) Az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter (a továbbiakban: miniszter) a vallási tevékenységet végző szervezet taglétszámának igazolása keretében tudomására jutott személyes adatot a 14. § a)–f) pontja szerinti feltételek
+b) elmulasztja a nyilatkozattételt.
 
-a) fennállására vonatkozó döntés esetén a döntés közléséig,
+(3) Ha a 9/E. § (3) bekezdése alapján a nyilvántartásban szereplő nyilvántartásba vett bejegyzett egyház hitéleti tevékenysége vagy közcélú tevékenysége érdekében az államháztartás alrendszereiből, európai uniós forrásokból vagy nemzetközi megállapodás alapján finanszírozott programokból, pályázati úton vagy pályázati rendszeren kívül egyedi döntés alapján támogatást vesz igénybe, ezt a tényt köteles a támogatás megítéléséről való tudomásszerzést követő 15 napon belül a bíróságnak bejelenteni. A bejelentés alapján, annak kézhezvételét követő 8 napon belül a bíróság 15 napos határidő tűzésével felszólítja a nyilvántartásba vett bejegyzett egyházat, hogy nyilatkozzon arról, hogy
 
-b) fennállásának hiányára vonatkozó döntés esetén a döntés jogerőre emelkedéséig vagy ha ez későbbi, a jogerős döntés ellen benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig
+a) a támogatás összegét a támogatást folyósító szervnek visszafizette, vagy
 
-kezelheti.
+b) amennyiben a nyilvántartásba vett bejegyzett egyház a támogatás összegét nem fizeti vissza,
 
-(5) A 14. § h) pontja szerinti feltétel teljesülését – a nemzetbiztonsági szolgálatokról szóló törvény szerinti, a nemzetbiztonsági kockázati tényezők vizsgálatát követően – az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottsága állapítja meg.
+ba) kérelmezi a nyilvántartásba vett bejegyzett egyházak nyilvántartásából való törlését vallási egyesületként történő egyidejű nyilvántartásba vételével, vagy
+
+bb) vállalja a 9/E. § (1) bekezdés a) pontjában meghatározott feltétel teljesítését.
+
+(4) A nyilvántartásba vett bejegyzett egyházat törli a bíróság a bejegyzett egyházak nyilvántartásából, és vallási egyesületként veszi nyilvántartásba, ha a bejegyzett egyház
+
+a) nem teljesíti a 9/E. § (1) bekezdés a) pontjában meghatározott feltételt, vagy
+
+b) elmulasztja a nyilatkozattételt.
+
+(5) Ha a 9/E. § (4) bekezdése alapján a nyilvántartásban szereplő nyilvántartásba vett bejegyzett egyház hitéleti tevékenysége vagy közcélú tevékenysége érdekében az államháztartás alrendszereiből, európai uniós forrásokból vagy nemzetközi megállapodás alapján finanszírozott programokból, pályázati úton vagy pályázati rendszeren kívül, egyedi döntés alapján támogatást vesz igénybe, ezt a tényt köteles a támogatás megítéléséről való tudomásszerzést követő 15 napon belül a bíróságnak bejelenteni. A bejelentés alapján, annak kézhezvételét követő 8 napon belül a bíróság 15 napos határidő tűzésével felszólítja a nyilvántartásba vett bejegyzett egyházat, hogy nyilatkozzon arról, hogy
+
+a) a támogatás összegét a támogatást folyósító szervnek visszafizette, vagy
+
+b) amennyiben a nyilvántartásba vett bejegyzett egyház a támogatás összegét nem fizeti vissza
+
+ba) kérelmezi a nyilvántartásba vett bejegyzett egyházak nyilvántartásából való törlését nyilvántartásba vett egyházként történő egyidejű nyilvántartásba vételével, vagy
+
+bb) vállalja a 9/E. § (1) bekezdés a) pontjában meghatározott feltétel teljesítését.
+
+(6) A nyilvántartásba vett bejegyzett egyházat a bíróság törli a bejegyzett egyházak nyilvántartásából, és nyilvántartásba vett egyházként veszi nyilvántartásba, ha a bejegyzett egyház
+
+a) nem teljesíti a 9/E. § (2) bekezdés a) pontjában meghatározott feltételt, vagy
+
+b) elmulasztja a nyilatkozattételt.
+
+(7) A vallási egyesület vagy a nyilvántartásba vett egyház, vagy a bejegyzett egyház általános jogutódja.
+
+(8) Ha az ügyész törvényben meghatározott jogkörében eljárva észleli, hogy a 9/E. § (3)–(4) bekezdése, vagy a 9/D. § (2) bekezdése szerint nyilvántartásba vett bejegyzett egyház, illetve nyilvántartásba vett egyház az (1)–(3) bekezdés szerinti bejelentési kötelezettségének nem tett eleget, a 26. § (1) bekezdése szerint keresetet nyújt be. A bíróság az ügyész keresete alapján az (1)–(3) bekezdésben meghatározott jogkövetkezményeket alkalmazza.

@@ -1,0 +1,3 @@
+9/F. § (1) A bejegyzett egyházzal az állam határozott időre – legfeljebb 15 évre – megállapodást köthet közcélú tevékenység ellátására, illetve a hitéleti tevékenység támogatására. A megállapodás – esetenként legfeljebb az eredeti időtartamnak megfelelő mértékben – meghosszabbítható. A megállapodás alapján a bejegyzett egyház külön törvény szerinti adó-, illetve azzal egy tekintet alá eső más kedvezményben részesülhet.
+
+(2) A bejegyzett egyház jogosult a magánszemélyek befizetett személyi jövedelemadójának külön törvény szerint felajánlott és meghatározott részére és annak állami kiegészítésére, illetve az ennek helyébe lépő juttatásra.

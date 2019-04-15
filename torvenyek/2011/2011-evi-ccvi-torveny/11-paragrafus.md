@@ -1,7 +1,5 @@
-11. § (1) A bevett egyház azonos hitelveket valló természetes személyekből álló, önkormányzattal rendelkező autonóm szervezet, amelynek ezt a közjogi jogállást az Országgyűlés a közösségi célok érdekében történő együttműködés céljából biztosítja.
+11. § (1) A bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház belső szabálya szerint jogi személyiséggel rendelkező egysége, szervezete vagy intézménye jogi személy.
 
-(2) A bevett egyház jogi személy.
+(2) A belső egyházi jogi személy a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház belső szabálya szerint működik; a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház belső egyházi jogi személye a belső szabályban meghatározott viszonyokban a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház képviseletében jár el. A belső egyházi jogi személyre a bevett egyházra, a bejegyzett egyházra, illetve a nyilvántartásba vett egyházra vonatkozó szabályokat megfelelően kell alkalmazni.
 
-(3) A bevett egyházakat azonos jogok illetik és azonos kötelezettségek terhelik.
-
-(4) A bevett egyházakat a melléklet tartalmazza.
+(3) A bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház közcélú tevékenységet ellátó intézménye a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház belső szabálya szerint belső egyházi jogi személynek minősülhet. Nem minősül belső egyházi jogi személynek a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház által létrehozott gazdasági társaság, alapítvány és egyesület.
