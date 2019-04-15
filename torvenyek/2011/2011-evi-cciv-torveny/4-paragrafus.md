@@ -6,7 +6,7 @@ b) az egyházi jogi személy (a továbbiakban: egyházi fenntartó),
 
 c) a Magyarország területén székhellyel rendelkező gazdasági társaság,
 
-d) a Magyarországon nyilvántartásba vett alapítvány, közalapítvány vagy vallási tevékenységet végző szervezet, továbbá – az e törvényben meghatározott esetben – a 95/A. § szerinti fenntartó testület
+d) a Magyarországon nyilvántartásba vett alapítvány, közalapítvány vagy vallási egyesület, továbbá – az e törvényben meghatározott esetben – a 95/A. § szerinti fenntartó testület
 
 alapíthat.
 

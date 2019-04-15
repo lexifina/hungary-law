@@ -243,3 +243,5 @@ h) a pályázó felsőoktatási intézménybe történő felvételének eredmén
 i) a pályázó hallgatói jogviszonyának állapotára vonatkozó adatok
 
 2. Az 1. pontban megjelölt adatok kezelésére jogosult
+
+a) a miniszter vagy a miniszter által a pályázat lebonyolítására kijelölt szervezet (továbbiakban: pályázatkezelő szervezet),
