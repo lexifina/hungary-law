@@ -20,7 +20,7 @@
 
 (9) A kijelölés ötévi időtartamra szól, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
-(10) A kijelölt egyházi módszertani intézmény feladatkörében, a bevett egyháza által fenntartott tanoda szolgáltatást, nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
+(10) A kijelölt egyházi módszertani intézmény feladatkörében, az egyháza által fenntartott tanoda szolgáltatást, nevelőszülői ellátást, gyermekotthoni ellátást nyújtó intézmények vonatkozásában
 
 a) részt vesz a minőségfejlesztési elvek kidolgozásában,
 
@@ -36,4 +36,4 @@ e) kezdeményezi a személyes gondoskodást nyújtó munkakörben dolgozók tov�
 
 (12) A miniszter a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
 
-(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha bevett egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben a módszertani feladatokat ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti a módszertani feladatokat ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.
+(13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha az egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben a módszertani feladatokat ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti a módszertani feladatokat ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.

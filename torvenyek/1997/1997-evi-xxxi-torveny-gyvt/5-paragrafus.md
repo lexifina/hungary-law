@@ -56,7 +56,7 @@ s) fenntartó:
 
 sa) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása (a továbbiakban együtt: állami fenntartó),
 
-sb) az egyházi jogi személy (a továbbiakban: egyházi fenntartó),
+sb) a bevett egyház, annak belső egyházi jogi személye, továbbá az olyan nyilvántartásba vett egyház, bejegyzett egyház és azok belső egyházi jogi személye, amely a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 9/D. § (5) bekezdése, illetve 9/F. § (1) bekezdése szerinti, a gyermekjóléti, gyermekvédelmi vagy szociális feladatok ellátására is kiterjedő megállapodással rendelkezik (a továbbiakban együtt: egyházi fenntartó),
 
 sc) az egyéni vállalkozó,
 
