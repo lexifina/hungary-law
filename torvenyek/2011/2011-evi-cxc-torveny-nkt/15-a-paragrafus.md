@@ -6,4 +6,4 @@
 
 (2) Az utazó gyógypedagógusi, utazó konduktori hálózat megszervezése és működtetése az illetékes tankerületi központ feladata.
 
-(3) Az állami intézményfenntartó központ az e §-ban meghatározott feladatokra, állami felsőoktatási intézmény, továbbá egyházi jogi személy, vallási tevékenységet végző szervezet, vagy más nem állami, nem önkormányzati köznevelési intézményfenntartó által fenntartott utazó gyógypedagógusi, utazó konduktori hálózatot is felkérhet.
+(3) Az állami intézményfenntartó központ az e §-ban meghatározott feladatokra, állami felsőoktatási intézmény, továbbá egyházi jogi személy, vallási egyesület, vagy más nem állami, nem önkormányzati köznevelési intézményfenntartó által fenntartott utazó gyógypedagógusi, utazó konduktori hálózatot is felkérhet.

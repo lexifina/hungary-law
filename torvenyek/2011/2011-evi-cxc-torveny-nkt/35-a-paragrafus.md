@@ -1,1 +1,1 @@
-35/A. § Az állami iskola 1–8. évfolyamán az etika óra vagy az ehelyett választható, az egyházi jogi személy által szervezett hit- és erkölcstan óra a kötelező tanórai foglalkozások része.
+35/A. § Az állami iskola 1–8. évfolyamán az etikaóra vagy az ehelyett választható, a bevett egyház, illetve belső egyházi jogi személye által szervezett hit- és erkölcstan óra a kötelező tanórai foglalkozások része.

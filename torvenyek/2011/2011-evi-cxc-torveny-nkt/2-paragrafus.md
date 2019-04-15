@@ -12,7 +12,7 @@ ba) a nemzetiségi önkormányzat,
 
 bb) az egyházi jogi személy,
 
-bc) a vallási tevékenységet végző szervezet vagy
+bc) a vallási egyesület vagy
 
 bd) más személy vagy szervezet
 
