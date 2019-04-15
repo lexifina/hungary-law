@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2018-12-29 | 2018. évi CXXVI. törvény | 1997-141-00-00.76 |
 | 2018-12-31 | 2018. évi CXI. törvény | 1997-141-00-00.77 |
 | 2019-01-02 | 2018. évi CXXXIX. törvény | 1997-141-00-00.78 |
+| 2019-04-15 | 2019. évi XXXVI. törvény | 1997-141-00-00.79 |
