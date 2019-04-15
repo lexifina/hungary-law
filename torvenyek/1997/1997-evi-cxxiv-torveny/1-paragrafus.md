@@ -1,1 +1,1 @@
-1. § E törvényt az egyházi jogi személyre kell alkalmazni.
+1. § E törvényt az egyházi jogi személyekre, illetve az e törvényben meghatározott esetekben a vallási egyesületekre kell alkalmazni.
