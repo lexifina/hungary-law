@@ -1,0 +1,5 @@
+4. § (1) Az igazolvány érvénytelenné válik, ha a közjegyzői szolgálat megszűnik, az igazságügyért felelős miniszter a közjegyzői kinevezés érvénytelenségét állapítja meg, a közjegyzőhelyettest és a közjegyzőjelöltet törlik a névjegyzékből, az országos kamara vagy a területi kamara elnökének megbízatása lejár, továbbá ha az igazolvány megrongálódott, elveszett, eltulajdonították, vagy megsemmisült. Az érvénytelen igazolványt vissza kell vonni.
+
+(2) A közjegyző, a közjegyzőhelyettes, a közjegyzőjelölt, valamint az országos kamara és a területi kamara elnöke köteles az igazolvány megrongálódását, elvesztését, eltulajdonítását, megsemmisülését és az igazolványban feltüntetett adatokban bekövetkezett változás tényét haladéktalanul, de legkésőbb 5 napon belül bejelenteni az országos kamarának, és ezzel egyidejűleg új igazolvány kiállítását kérni.
+
+(3) Az igazolványt be kell vonni, ha visszavonták, vagy ha az igazolvány adataiban változás következett be. A bevont igazolványt az országos kamara szabályzatában foglaltak szerint meg kell semmisíteni.
