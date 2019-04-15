@@ -16,7 +16,7 @@ d) a térségben található járásokban levő önkormányzatok megyénként eg
 
 e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
 
-f) az olyan vallási közösségek egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
+f) az olyan jogi személyiséggel rendelkező vallási közösségek egy közös képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 
 g) az a)–f) pontban foglaltak alapján nem képviselt – a térségben működő – egészségügyi szolgáltatók fenntartói közül azoknak az egy közös képviselője, akik gyógyintézetnek minősülnek és közfinanszírozásban részesülnek,
 

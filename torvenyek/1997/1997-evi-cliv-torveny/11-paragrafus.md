@@ -10,6 +10,6 @@
 
 (5) A szülő nőnek joga van arra, hogy az általa megjelölt nagykorú személy a vajúdás és a szülés alatt folyamatosan vele lehessen, a szülést követően pedig arra, hogy – amennyiben ezt az ő vagy újszülöttje egészségi állapota nem zárja ki – újszülöttjével egy helyiségben helyezzék el.
 
-(6) A beteget megilleti a vallási meggyőződésének megfelelő egyházi személlyel vagy vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjával való kapcsolattartásnak és vallása szabad gyakorlásának joga.
+(6) A beteget megilleti a vallási meggyőződésének megfelelő egyházi személlyel vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjával való kapcsolattartásnak és vallása szabad gyakorlásának joga.
 
 (7) A beteg – törvény eltérő rendelkezése hiányában – jogosult saját ruháinak és személyes tárgyainak a használatára.
