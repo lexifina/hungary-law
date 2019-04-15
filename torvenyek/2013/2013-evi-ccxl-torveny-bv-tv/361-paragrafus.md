@@ -10,4 +10,4 @@
 
 (5) Az igazgató indokolt esetben rendkívüli látogatást is engedélyezhet.
 
-(6) Egyházi jogi személy, civil szervezet vagy karitatív szervezet képviselője részéről a fiatalkorú hetente egyszer jogosult látogató fogadására.
+(6) Jogi személyiséggel rendelkező vallási közösség, civil szervezet vagy karitatív szervezet képviselője részéről a fiatalkorú hetente egyszer jogosult látogató fogadására.

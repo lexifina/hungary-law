@@ -21,5 +21,3 @@
 (10) E törvénynek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény és ehhez kapcsolódóan más törvények módosításáról szóló 2016. évi CX. törvény 22. §-ával megállapított 10/A. § szerinti kártalanítási igény benyújtására az az elítélt és egyéb jogcímen fogvatartott is jogosult,
 
 a) akinek az alapvető jogokat sértő elhelyezési körülményekből eredő sérelme a módosítás hatálybalépése előtt egy éven belül szűnt meg,
-
-b) aki az alapvető jogokat sértő elhelyezési körülmények miatt az EJEB-hez nyújtott be kérelmet, ha a kérelmet az EJEB a módosítás hatálybalépésének napjáig nyilvántartásba vette, kivéve, ha a fogvatartott az EJEB-hez címzett kérelmét 2015. június 10. napját követően nyújtotta be és a kérelem benyújtásakor a jogsértés megszűnésétől számítottan több mint hat hónap telt el.

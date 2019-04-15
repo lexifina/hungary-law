@@ -8,7 +8,7 @@ b) a jogszabályok által az alapvető jogok védelmére feljogosított szerveze
 
 c) nevelésbe vett fiatalkorú esetén a gyermekvédelmi gyámja,
 
-d) vallásgyakorlás céljából az egyházi személy,
+d) vallásgyakorlás céljából az egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagja mint hivatalos kapcsolattartó,
 
 e) a kirendelt pártfogó felügyelője vagy megelőző pártfogó felügyelője,
 

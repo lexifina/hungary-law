@@ -28,7 +28,7 @@ c) az elítélt és az egyéb jogcímen fogvatartott államának konzuli tisztvi
 
 d) a büntetőügyben eljáró tolmács és szakértő,
 
-e) az egyházi személy hitéleti szolgálata ellátása során, a büntetés-végrehajtási szervvel (a továbbiakban: bv. szerv) kötött megállapodás alapján a bv. intézetben vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személy e tevékenység végzése során,
+e) az egyházi személy hitéleti szolgálata ellátása során, a büntetés-végrehajtási szervvel (a továbbiakban: bv. szerv) kötött megállapodás alapján a bv. intézetben vallási egyesület vallásos szertartást hivatásszerűen végző tagja, az egyházi jogi személy vagy a vallási egyesület által megbízott más személy e tevékenység végzése során,
 
 f) a bv. szervvel kötött megállapodás alapján a bv. intézetben jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy e tevékenység végzése során,
 

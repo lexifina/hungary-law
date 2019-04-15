@@ -1,4 +1,4 @@
-109/A. § (1) Vallási részleg a bv. intézet és a vallási közösség együttműködési megállapodása alapján hozható létre a vallásgyakorlás és a családi kapcsolattartás erősítése céljából.
+109/A. § (1) Vallási részleg a bv. intézet és a jogi személyiséggel rendelkező vallási közösség együttműködési megállapodása alapján hozható létre a vallásgyakorlás és a családi kapcsolattartás erősítése céljából.
 
 (2) Az elítélt írásbeli kérelmére vallási részlegre helyezhető, ha
 

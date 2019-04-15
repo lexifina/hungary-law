@@ -16,9 +16,9 @@ d) a pártfogó felügyelővel,
 
 e) jogszabályok által az alapvető jogok védelmére feljogosított szervezet tagjával, a nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársával,
 
-f) vallásgyakorlás céljából a hitéleti szolgálatot ellátó egyházi személlyel és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagjával.
+f) vallásgyakorlás céljából a hitéleti szolgálatot ellátó egyházi személlyel és a vallási egyesület vallásos szertartást hivatásszerűen végző tagjával.
 
-(4) A javítóintézettel kötött megállapodás alapján az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személy, jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy is ellenőrzés nélkül tarthat kapcsolatot a fiatalkorúval.
+(4) A javítóintézettel kötött megállapodás alapján az egyházi jogi személy vagy a vallási egyesület által megbízott más személy, jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy is ellenőrzés nélkül tarthat kapcsolatot a fiatalkorúval.
 
 (5) A javítóintézeti nevelés végrehajtása során a fiatalkorú kérelmére az igazgató az (1), (3) és (4) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
 

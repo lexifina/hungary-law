@@ -10,7 +10,7 @@ c) megfelelő ruházat biztosítására,
 
 d) kapcsolattartásra hozzátartozóival, valamint harmadik személyekkel és szervezetekkel,
 
-e) lelkiismereti vagy vallási meggyőződésének szabad megválasztására, annak kinyilvánítására és gyakorlására; a hitéleti szolgálatot ellátó egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja részéről lelki gondozására,
+e) lelkiismereti vagy vallási meggyőződésének szabad megválasztására, annak kinyilvánítására és gyakorlására; a hitéleti szolgálatot ellátó egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagja részéről lelki gondozására,
 
 f) munkavégzése után – annak mennyiségének és minőségének – megfelelő, a javítóintézeti rendtartásban meghatározott díjazásra,
 
