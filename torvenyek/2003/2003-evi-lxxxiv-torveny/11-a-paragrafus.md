@@ -4,7 +4,7 @@
 
 (2) Az e fejezetben, valamint a 29–31. §-ban meghatározott egészségügyi ágazati előmeneteli szabályokat
 
-a) a Kormány által rendeletben meghatározott, érvényes finanszírozási szerződéssel rendelkező, kizárólag – ide nem értve a munkavállalói résztulajdont – az állam, a helyi önkormányzat, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet tulajdonában vagy fenntartásában álló fekvő- vagy járóbeteg-szakellátást, valamint a Kormány által rendeletben meghatározott egyéb egészségügyi ellátást, szolgáltatást nyújtó, egészségügyi szolgáltató munkáltatónál, ide nem értve az Eütv. 4. § (3) bekezdése szerinti intézményeket,
+a) a Kormány által rendeletben meghatározott, érvényes finanszírozási szerződéssel rendelkező, kizárólag – ide nem értve a munkavállalói résztulajdont – az állam, a helyi önkormányzat, az egyházi jogi személy vagy a vallási egyesület tulajdonában vagy fenntartásában álló fekvő- vagy járóbeteg-szakellátást, valamint a Kormány által rendeletben meghatározott egyéb egészségügyi ellátást, szolgáltatást nyújtó, egészségügyi szolgáltató munkáltatónál, ide nem értve az Eütv. 4. § (3) bekezdése szerinti intézményeket,
 
 b) az a) pontban meghatározott ellátások, szolgáltatások nyújtása keretében tevékenységet végző, a (4)–(6a) bekezdésben meghatározott munkakörben foglalkoztatott alkalmazott egészségügyi dolgozókra és egészségügyben dolgozókra,
 
