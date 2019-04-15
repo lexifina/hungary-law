@@ -34,7 +34,7 @@ m) az újratemetés.
 
 (3) E törvény értelmében nem minősül temetkezési szolgáltatásnak
 
-a) a vallási közösség tulajdonában lévő temetőben, temetkezési emlékhelyen a vallási közösség által vallási szertartás keretében végzett urnaelhelyezés,
+a) a jogi személyiséggel rendelkező vallási közösség tulajdonában lévő temetőben, temetkezési emlékhelyen a vallási közösség által vallási szertartás keretében végzett urnaelhelyezés,
 
 b) a felnőtt hospice-palliatív vagy gyermek palliatív ellátás nyújtására működési engedéllyel rendelkező fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál végzett ravatalozás.
 
