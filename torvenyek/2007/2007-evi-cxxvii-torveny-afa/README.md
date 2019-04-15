@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2018-07-26 | 2018. évi XLI. törvény | 2007-127-00-00.54 |
 | 2018-11-24 | 2018. évi LXXXII. törvény | 2007-127-00-00.55 |
 | 2019-01-01 | 2018. évi XLI. törvény | 2007-127-00-00.56 |
+| 2019-04-15 | 2019. évi XXXVI. törvény | 2007-127-00-00.57 |
