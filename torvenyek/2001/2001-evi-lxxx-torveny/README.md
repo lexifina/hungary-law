@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-80-00-00
 | 2014-01-12 | 2013. évi CCXVII. törvény | 2001-80-00-00.6 |
 | 2015-12-18 | 2015. évi CCVIII. törvény | 2001-80-00-00.7 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2001-80-00-00.8 |
+| 2019-04-15 | 2019. évi XXXVI. törvény | 2001-80-00-00.9 |
