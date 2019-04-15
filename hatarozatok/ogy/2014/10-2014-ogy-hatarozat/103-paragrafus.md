@@ -1,7 +1,5 @@
-## 67. Az egyházként történő elismerésre irányuló eljárás
+## 67. [^19] Az Országgyűlés feladat- és hatáskörébe tartozó, egyházakkal kapcsolatos eljárások
 
-103. § Az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter által a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti eljárásban hozott határozat közlését követően a vallásügyekkel foglalkozó bizottság
+103. § A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti, az állam által bejegyzett egyházzal kötött átfogó együttműködési megállapodás (a továbbiakban ezen alcím alkalmazásában: átfogó megállapodás) kihirdetéséről, továbbá a bevett egyházak felsorolásának módosításáról szóló törvényjavaslattal kapcsolatos eljárásban a határozati házszabályi rendelkezéseket az ezen alcímben foglalt eltéréssel kell alkalmazni.
 
-a) a határozatot – véleményezés céljából – megküldi a nemzetbiztonsági ügyekkel foglalkozó bizottságnak és
-
-b) nyilvános ülésén meghallgatja a határozattal érintett vallási tevékenységet végző szervezet képviselőit.
+[^19]: A 67. alcím (103–106. §) a 13/2019. (IV. 2.) OGY határozat 1. §-ával megállapított szöveg.
