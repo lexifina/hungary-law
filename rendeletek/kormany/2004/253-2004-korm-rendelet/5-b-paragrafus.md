@@ -1,4 +1,4 @@
-5/B. §[^15] (1) A lőtér üzemeltetésének engedélyezése tárgyában hozott döntéséről a hatóság tájékoztatja
+5/B. §[^18] (1) A lőtér üzemeltetésének engedélyezése tárgyában hozott döntéséről a hatóság tájékoztatja
 
 a) az érintett rendvédelmi feladatokat ellátó szervet, ha a lőtér a rendvédelmi feladatokat szerv lőterétől számított 10 km távolságon belül létesül, valamint
 
@@ -22,4 +22,4 @@ f) annak megjelölését, hogy a lőtéren milyen jellegű, kaliberjelű és kat
 
 (4) A lőtér üzemeltetésére jogosító engedély kiadására irányuló eljárásban ügyfélnek minősül a lőtér hatásterületén lévő ingatlan tulajdonosa is, valamint az is, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
-[^15]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^18]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

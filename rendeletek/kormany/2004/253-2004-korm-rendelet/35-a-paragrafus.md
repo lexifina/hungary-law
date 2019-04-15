@@ -1,4 +1,4 @@
-35/A. §[^103] (1) A muzeális fegyver sportlövészeti célú használatára jogosító engedély tartalmazza a sportegyesület
+35/A. §[^106] (1) A muzeális fegyver sportlövészeti célú használatára jogosító engedély tartalmazza a sportegyesület
 
 a) nevét, címét, bírósági bejegyzésének számát,
 
@@ -14,4 +14,4 @@ a) a jogosult természetes személyazonosító adatait és lakóhelyét, valamin
 
 b) az elöltöltő fegyver rendeltetésszerű működtetéséhez szükséges lőszerelemeknek a jogosult lakóhelyétől eltérő helyen történő tárolása esetén a tárolóhely címét.
 
-[^103]: A 35/A. §-t a 371/2016. (XI. 29.) Korm. rendelet 12. §-a iktatta be.
+[^106]: A 35/A. §-t a 371/2016. (XI. 29.) Korm. rendelet 12. §-a iktatta be.
