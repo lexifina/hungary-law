@@ -184,7 +184,7 @@ h) a bányászatról szóló törvényben meghatározott átmeneti bányászjár
 
 i) a nemzeti helytállásért elnevezésű pótlék bevezetéséről szóló kormányrendeletben meghatározott pótlék;
 
-j) a bevett egyház belső szabálya szerint létrehozott és az egyházi jogi személy által működtetett nyugdíjalapból a bevett egyház idős, rokkant egyházi személy tagja vagy az említett tag özvegye számára folyósított nyugellátás vagy nyugdíjkiegészítés;
+j) a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház belső szabálya szerint létrehozott és az egyházi jogi személy által működtetett nyugdíjalapból a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház idős, rokkant egyházi személy tagja vagy az említett tag özvegye számára folyósított nyugellátás vagy nyugdíjkiegészítés;
 
 k) a sportról szóló törvényben meghatározott olimpiai járadék, valamint az említett törvény alapján a „Nemzet Sportolója” címmel járó életjáradék;
 
