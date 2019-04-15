@@ -26,9 +26,9 @@
 
 |  |  | 124 | Agrárgazdasági szövetkezet |
 
-|  |  | 126 | Biztosító szövetkezet |
+|  |  | 126 | Biztosító és viszontbiztosító szövetkezet |
 
-|  |  | 128 | Foglalkoztatási szövetkezet |
+|  |  | 128 |  |
 
 |  |  | 129 | Egyéb szövetkezet |
 
@@ -184,7 +184,7 @@
 
 |  |  | 524 | Kölcsönös biztosító egyesület |
 
-|  |  | 525 | Vallási tevékenységet végző szervezet |
+|  |  | 525 | Vallási egyesület |
 
 |  |  | 526 | Polgárőr egyesület |
 
@@ -202,11 +202,17 @@
 
 |  |  | 551 | Bevett egyház |
 
-|  |  | 552 | Elsődlegesen közfeladatot ellátó belső egyházi jogi személy |
+|  |  | 552 | Bevett egyház elsődlegesen közfeladatot ellátó belső egyházi jogi személye |
 
-|  |  | 555 | Elsődlegesen vallási tevékenységet végző belső egyházi jogi személy |
+|  |  | 555 | Bevett egyház elsődlegesen vallási tevékenységet végző belső egyházi jogi személye |
 
-|  |  | 559 | Egyházi szervezet technikai kód |
+|  |  | 556 | Bejegyzett egyház |
+
+|  |  | 557 | Nyilvántartásba vett egyház |
+
+|  |  | 558 | Bejegyzett egyház és Nyilvántartásba vett egyház belső egyházi jogi személye |
+
+|  |  | 559 | Egyéb egyházi szervezet |
 
 |  | 56 |  | Alapítvány, jogi személyiségű intézménye és szervezeti egysége |
 
@@ -272,19 +278,15 @@
 
 |  |  | 699 | Egyéb, jogi személyiség nélküli nonprofit szervezet |
 
-| 7, 8, 9 | Átmeneti és technikai kódok |
+| 7,9 | Átmeneti, megszűnt és technikai kódok |
 
-| 7 |  |  | Egyéb gazdasági szervezet |
+| 7 |  |  | Átmeneti és megszűnt gazdálkodási formák |
 
-|  | 71 |  | Állami gazdálkodó szervezet |
+|  | 71 |  |  |
 
-|  |  | 711 | Állami vállalat |
+|  | 72 |  |  |
 
-|  | 72 |  | Egyéb vállalat |
-
-|  |  | 721 | Leányvállalat |
-
-|  | 73 |  | Megszűnt gazdálkodási forma |
+|  | 73–74 |  | Megszűnt gazdálkodási forma |
 
 |  |  | 731 | Gazdasági munkaközösség |
 
@@ -301,6 +303,10 @@
 |  |  | 738 | Egyéb, máshova nem sorolt vállalat |
 
 |  |  | 739 | Egyéb megszűnt gazdálkodási forma |
+
+|  |  | 741 | Foglalkoztatási szövetkezet |
+
+|  |  | 742 | Állami vállalat |
 
 | 8 |  |  |  |
 

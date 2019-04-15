@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-21-20-2
 | 2017-03-08 | 2012-21-20-2T.7 | 22/2014. (III. 13.) KIM rendelet |
 | 2017-07-01 | 2012-21-20-2T.8 | 22/2014. (III. 13.) KIM rendelet |
 | 2019-04-11 | 2012-21-20-2T.9 | 22/2014. (III. 13.) KIM rendelet |
+| 2019-04-15 | 2012-21-20-2T.10 | 22/2014. (III. 13.) KIM rendelet |
