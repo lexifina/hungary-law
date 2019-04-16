@@ -8,4 +8,4 @@
 
 (4) A Közigazgatási Felsőbíróság megválasztott elnöke ellátja a közigazgatási bírósági szervezet felállításával kapcsolatban e törvényben meghatározott feladatait, azonban a közigazgatási bíróságokról szóló törvény hatálybalépéséig őt – kérése szerinti mértékben – mentesíteni kell az ítélkezési tevékenység alól.
 
-(5) A Közigazgatási Felsőbíróság megválasztott elnöke a Kúria elnökét megillető javadalmazásban részesül, és munkáját a Kúrián működő ötfős titkárság segíti, amelynek személyi és tárgyi feltételeit a közigazgatási bíróságokról szóló törvény hatálybalépéséig a Kúria biztosítja.
+(5) A Közigazgatási Felsőbíróság megválasztott elnöke a Kúria elnökét megillető javadalmazásban részesül, és munkáját a Kúrián működő ötfős titkárság segíti, amelynek személyi és tárgyi feltételeit a közigazgatási bíróságokról szóló törvény hatálybalépéséig a Kúria biztosítja. A Közigazgatási Felsőbíróság megválasztott elnöke személyvédelemre nem jogosult.
