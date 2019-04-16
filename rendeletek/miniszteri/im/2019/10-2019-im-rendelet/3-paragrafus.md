@@ -1,3 +1,5 @@
-## 2. § A hagyatéki eljárás egyes cselekményeiről szóló 29/2010. (XII. 31.) KIM rendelet 2. melléklete helyébe az 1. melléklet lép.
+## 2. §[^3]
 
 ## 3. Záró rendelkezés
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
