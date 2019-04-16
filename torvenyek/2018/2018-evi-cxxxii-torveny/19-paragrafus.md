@@ -1,3 +1,1 @@
-19. § Az Ehtv. 10. alcíme a következő 38/A. §-sal egészül ki:
-
-„38/A. § A Magyar Köztársaság Kormánya és a Szuverén Jeruzsálemi, Rodoszi és Máltai Szent János Katonai és Ispotályos Rend (a továbbiakban: Szuverén Máltai Lovagrend) közötti Együttműködési Megállapodás figyelembevételével a Szuverén Máltai Lovagrendet, és a Megállapodásban kijelölt szervezeteket megilletik a bevett egyház belső egyházi jogi személye által igénybe vehető támogatások, illetve vonatkoznak rájuk a 20/A. §-ban és a 20/C. §-ban foglalt rendelkezések.”
+19. §
