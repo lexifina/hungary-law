@@ -1,5 +1,3 @@
 ## 2. A hadigondozásról szóló 1994. évi XLV. törvény módosítása
 
-3. § A hadigondozásról szóló 1994. évi XLV. törvény 16. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A járadékban részesült hadirokkant halála esetén – ha a temetés nem közköltségen történt – temetési hozzájárulást kell folyósítani annak, aki igazolja, hogy a temetés költségeit fedezte. Temetési költség különösen a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.8. a) pontjában meghatározott, a temetéssel összefüggő egyházi szertartásért, vagy egyházi szolgálatért egyházi jogi személy, illetve egyházi személy részére juttatott vagyoni érték az egyházi személy által igazolt mértékben, de legfeljebb az öregségi nyugdíj mindenkori legkisebb összege 200%-ának megfelelő összeg. E § alkalmazásában egyházi szertartásnak, illetve egyházi szolgálatnak kell tekinteni a vallási egyesület, illetve annak vallási szertartást hivatásszerűen végző tagja által végzett temetési szertartást, illetve temetési költségnek az azért juttatott vagyoni értéket is a vallási egyesület vallási szertartást hivatásszerűen végző tagja által igazolt mértékben, de legfeljebb az öregségi nyugdíj mindenkori legkisebb összege 200%-ának megfelelő összeg.”
+3. §
