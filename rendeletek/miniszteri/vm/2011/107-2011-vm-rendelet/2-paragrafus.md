@@ -18,4 +18,8 @@ g) idegen anyag: a gomba felületére tapadt szennyeződés;
 
 h) lakossági gombaminősítés: a lakosság részére történő gombaminősítés és tájékoztatás;
 
-i) gyűjtési napló: az élelmiszer-vállalkozó által vezetett névre szóló papír alapú nyilvántartás, mely tartalmazza a gombát gyűjtő élelmiszer-vállalkozó nevét, születési helyét, születési idejét, személyi igazolvány számát, valamint fajonként a gomba gyűjtési helyét, idejét és mennyiségét.
+i) gyűjtési napló: az élelmiszer-vállalkozó által vezetett névre szóló papír alapú nyilvántartás, mely tartalmazza a gombát gyűjtő élelmiszer-vállalkozó nevét, születési helyét, születési idejét, személyi igazolvány számát, valamint fajonként a gomba gyűjtési helyét, idejét és mennyiségét;
+
+j)[^1] termékkísérő dokumentum: számviteli bizonylat és szállítólevél.
+
+[^1]: A 2. § j) pontját a 12/2019. (IV. 1.) AM rendelet 1. §-a iktatta be.

@@ -1,5 +1,7 @@
 5. § (1) A gomba-szakellenőr a mérgező gombát a begyűjtött gombák közül kiválogatja és elkülöníti.
 
+(1a)[^12] A védett és a fokozottan védett növény- és állatfajokról, a fokozottan védett barlangok köréről, valamint az Európai Közösségben természetvédelmi szempontból jelentős növény- és állatfajok közzétételéről szóló miniszteri rendelet alapján védett gombafajnak minősített fajhoz tartozó gomba emberi fogyasztásra alkalmatlannak minősül, amelyet a gomba-szakellenőr a begyűjtött gombák közül kiválogat és elkülönít.
+
 (2) A gomba-szakellenőr emberi fogyasztásra alkalmatlannak minősíti az azonos gyűjtőedényből származó gombatételeket, amennyiben azokból a mérgező gomba egyértelműen nem különíthető el, vagy azok gyilkos galócát tartalmaznak.
 
 (3) A gomba-szakellenőr tájékoztatja az (1), valamint (2) bekezdésben foglalt gomba minősíttetőjét arról, hogy
@@ -16,6 +18,7 @@ b) a nem munkavállalóként végzett gombaminősítés esetén a gomba-szakelle
 
 gondoskodik.
 
-(5)[^10] Amennyiben a gomba minősíttetője nem ért egyet a gomba-szakellenőr által elvégzett gombaminősítés eredményével, kifogást nyújthat be az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalhoz (a továbbiakban: járási hivatal). Az eljáráshoz a gomba minősíttetője a kifogás elbírálásához szükséges mennyiségű, de legalább 0,5 kg, a tételt reprezentáló mintát köteles biztosítani, melyet a gomba-szakellenőr és a minősíttető közösen zárt le és írt alá.
+(5)[^13]
 
-[^10]: Az 5. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 172. § e) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1a) bekezdését a 12/2019. (IV. 1.) AM rendelet 3. §-a iktatta be.
+[^13]: Az 5. § (5) bekezdését a 12/2019. (IV. 1.) AM rendelet 10. § a) pontja hatályon kívül helyezte.

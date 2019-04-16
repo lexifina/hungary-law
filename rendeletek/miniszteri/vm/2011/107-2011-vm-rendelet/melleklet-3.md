@@ -1,139 +1,173 @@
-## Élelmiszer-piaci, vásárcsarnok, valamint az egész ország területén árusításra engedélyezett gombafajok jegyzéke
+## Piacon, valamint az egész ország területén árusításra engedélyezett gombafajok jegyzéke
 
-|  | A | B |
+|  | A | B | C |
 
-|  | Magyar név Latin név | Árusítási és felhasználási feltételek |
+| 1. | Magyar név Latin név | Árusítási feltételek | Felhasználási feltételek |
 
-| 1. | Cseh kucsmagomba Ptychoverpa bohemica (Krombh.) Boud. | *20 perces hőkezelés után fogyasztható |
+| 2. | Cseh kucsmagomba Verpa bohemica |  | 20 perces hőkezelés után fogyasztható |
 
-| 2. | Fattyú kucsmagomba Mitrophora semilibera (DC.) Lév. | *20 perces hőkezelés után fogyasztható |
+| 3. | Fattyú kucsmagomba Morchella semilibera |  | 20 perces hőkezelés után fogyasztható |
 
-| 3. | Hegyes kucsmagomba Morchella elata Fr. | *20 perces hőkezelés után fogyasztható |
+| 4. | Hegyes kucsmagomba Morchella deliciosa |  | 20 perces hőkezelés után fogyasztható |
 
-| 4. | Ízletes kucsmagomba Morchella esculenta (L.) Pers. s. l. | *20 perces hőkezelés után fogyasztható |
+| 5. | Ízletes kucsmagomba Morchella esculenta |  | 20 perces hőkezelés után fogyasztható |
 
-| 5. | Pusztai kucsmagomba Morchella steppicola Zerova | *20 perces hőkezelés után fogyasztható |
+| 6. | Pusztai kucsmagomba Morchella steppicola |  | 20 perces hőkezelés után fogyasztható |
 
-| 6. | Júdásfülgomba Auricularia auricula-judae (Bull.) Quél. | Csak a rugalmas példányok árusíthatók |
+| 7. | Júdásfülgomba Auricularia auricula-judae | Csak a rugalmas példányok árusíthatók |  |
 
-| 7. | Sárga gévagomba Laetiporus sulphureus (Bull.) Murrill | A fával érintkező fásodó rész kivágásával árusítható a fiatal, puha példány. *20 perces hőkezelés után fogyasztható |
+| 8. | Sárga gévagomba Laetiporus sulphureus | A fával érintkező fásodó rész kivágásával árusítható a fiatal, puha példány | 20 perces hőkezelés után fogyasztható |
 
-| 8. | Sárga rókagomba Cantharellus cibarius Fr. |  |
+| 9. | Sárga gereben Hydnum repandum | Csak a fiatal termőtest árusítható |  |
 
-| 9. | Sötét trombitagomba Craterellus cornucopioides (L.) Pers. |  |
+| 10. | Sárgásvörös gereben Hydnum rufescens | Csak a fiatal termőtest árusítható |  |
 
-| 10. | Bronzos vargánya Boletus aereus Bull. |  |
+| 11. | Sárga rókagomba Cantharellus cibarius |  |  |
 
-| 11. | Ízletes vargánya Boletus edulis Bull. |  |
+| 12. | Halvány rókagomba Cantharellus pallens |  |  |
 
-| 12. | Nyári vargánya Boletus reticulatus Schaeff. |  |
+| 13. | Szagos rókagomba Craterellus lutescens |  |  |
 
-| 13. | Barna tinórú Xerocomus badius (Fr.) Kühner |  |
+| 14. | Tölcséres rókagomba Craterellus tubaeformis |  |  |
 
-| 14. | Molyhos tinórú Xerocomus subtomentosus (L.) Quél. |  |
+| 15. | Szürke rókagomba Craterellus cinereus |  |  |
 
-| 15. | Barna gyűrűstinórú Suillus luteus (L.) Roussel |  |
+| 16. | Sötét trombitagomba Craterellus cornucopioides |  |  |
 
-| 16. | Sárga gyűrűstinórú Suillus grevillei (Klotzsch) Singer |  |
+| 17. | Bronzos vargánya Boletus aereus |  |  |
 
-| 17. | Szemcsésnyelű fenyőtinórú Suillus granulatus (L.) Roussel |  |
+| 18. | Ízletes vargánya Boletus edulis |  |  |
 
-| 18. | Nyárfa-érdestinórú Leccinum duriusculum (Schulzer) Singer | Csak a fiatal termőtest árusítható *20 perces hőkezelés után fogyasztható |
+| 19. | Nyári vargánya Boletus reticulatus |  |  |
 
-| 19. | Sötét érdestinórú Leccinum pseudoscabrum (Kallenb.) Šutara | Csak a fiatal termőtest árusítható *20 perces hőkezelés után fogyasztható |
+| 20. | Barna tinóru Imleria badia |  |  |
 
-| 20. | Tölgyfa-érdestinórú Leccinum aurantiacum (Bull.) Gray | Csak a fiatal termőtest árusítható *20 perces hőkezelés után fogyasztható |
+| 21. | Molyhos tinóru Xerocomus subtomentosus | Csak a fiatal termőtest árusítható |  |
 
-| 21. | Vöröses nyálkásgomba Chroogomphus rutilus (Schaeff.) O. K. Mill. |  |
+| 22. | Barna gyűrűstinóru Suillus luteus |  | Elkészítés előtt a kalap bőrét le kell húzni |
 
-| 22. | Késői laskagomba Pleurotus ostreatus (Jacq.) P. Kumm. | Csak a fiatal termőtest árusítható |
+| 23. | Sárga gyűrűstinóru Suillus grevillei |  | Elkészítés előtt a kalap bőrét le kell húzni |
 
-| 23. | Nyári laskagomba Pleurotus pulmonarius (Fr.) Quél. | Csak a fiatal termőtest árusítható |
+| 24. | Szemcsésnyelű fenyőtinóru Suillus granulatus |  | Elkészítés előtt a kalap bőrét le kell húzni |
 
-| 24. | Erestönkű laskagomba Pleurotus cornucopiae (Paulet) Rolland | Csak a fiatal termőtest árusítható |
+| 25. | Rózsástövű fenyőtinóru Suillus collinitus |  | Elkészítés előtt a kalap bőrét le kell húzni |
 
-| 25. | Ördögszekér-laskagomba Pleurotus eryngii (DC.) Gillet | Csak a fiatal termőtest árusítható |
+| 26. | Nyárfa-érdestinóru Leccinum duriusculum |  | 20 perces hőkezelés után fogyasztható |
 
-| 26. | Piruló galóca Amanita rubescens Pers. | *20 perces hőkezelés után fogyasztható |
+| 27. | Sötét érdestinóru Leccinum pseudoscabrum |  | 20 perces hőkezelés után fogyasztható |
 
-| 27. | Fenyő-pereszke Tricholoma myomyces (Pers.) J. E. Lange |  |
+| 28. | Tölgyfa-érdestinóru Leccinum aurantiacum |  | 20 perces hőkezelés után fogyasztható |
 
-| 28. | Májusi pereszke Calocybe gambosa (Fr.) Donk |  |
+| 29. | Vörös érdestinóru Leccinum albostipitatum |  | 20 perces hőkezelés után fogyasztható |
 
-| 29. | Lila pereszke Lepista nuda (Bull.) Cooke | Aromás gomba, egyéni érzékenység előfordulhat |
+| 30. | Vöröses nyálkásgomba Chroogomphus rutilus |  |  |
 
-| 30. | Lilatönkű pereszke Lepista personata (Fr.) Cooke | Aromás gomba, egyéni érzékenység előfordulhat |
+| 31. | Kései laskagomba Pleurotus ostreatus |  |  |
 
-| 31. | Mezei szegfűgomba Marasmius oreades (Bolton) Fr. | Csak a gomba kalapja árusítható legfeljebb 1 cm-es tönkkel |
+| 32. | Nyári laskagomba Pleurotus pulmonarius |  |  |
 
-| 32. | Szürke tölcsérgomba Clitocybe nebularis (Batsch) P. Kumm. | *20 perces hőkezelés után fogyasztható. A főzőlevet fogyasztás előtt le kell önteni. |
+| 33. | Erestönkű laskagomba Pleurotus cornucopiae |  |  |
 
-| 33. | Téli fülőke Flammulina velutipes (Curtis) Singer | Csak a gomba kalapja árusítható legfeljebb 1 cm-es tönkkel |
+| 34. | Ördögszekér-laskagomba Pleurotus eryngii |  |  |
 
-| 34. | Csoportos tuskógomba Armillaria tabescens (Scop.) Emel | Csak a gomba kalapja árusítható legfeljebb 1 cm-es tönkkel. *20 perces hőkezelés után fogyasztható |
+| 35. | Piruló galóca Amanita rubescens |  | 20 perces hőkezelés után fogyasztható |
 
-| 35. | Gyűrűs tuskógomba Armillaria mellea (Vahl) P. Kumm. | Gallérig levágott tönkkel árusítható. *20 perces hőkezelés után fogyasztható |
+| 36. | Fenyő-pereszke Tricholoma terreum |  |  |
 
-| 36. | Déli tőkegomba Agrocybe cylindracea (DC.) Gillet | Gallérig levágott tönkkel árusítható |
+| 37. | Sárguló pereszke Tricholoma scalpturatum |  |  |
 
-| 37. | Erdei csiperke Agaricus silvaticus Schaeff. |  |
+| 38. | Májusi pereszke Calocybe gambosa |  |  |
 
-| 38. | Erdőszéli csiperke Agaricus arvensis Schaeff. |  |
+| 39. | Lila pereszke Lepista nuda |  | Aromás gomba, egyéni érzékenység előfordulhat |
 
-| 39. | Ízletes csiperke Agaricus bitorquis (Quél.) Sacc. |  |
+| 40. | Lilatönkű pereszke Lepista personata |  | Aromás gomba, egyéni érzékenység előfordulhat |
 
-| 40. | Ligeti csiperke Agaricus benesii (Pilát) Pilát |  |
+| 41. | Mezei szegfűgomba Marasmius oreades | Csak a gomba kalapja árusítható legfeljebb 1 cm-es tönkkel |  |
 
-| 41. | Mezei csiperke Agaricus campestris L. |  |
+| 42. | Szürke tölcsérgomba Clitocybe nebularis |  | Aromás gomba, egyéni érzékenység előfordulhat Elkészítés előtt előfőzés, majd főzőlé leöntése javasolt |
 
-| 42. | Nagyspórás csiperke Agaricus urinascens (Jul. Schaeff. et F. H. Mrller) Singer |  |
+| 43. | Téli fülőke Flammulina velutipes | Csak a gomba kalapja árusítható legfeljebb 1 cm-es tönkkel |  |
 
-| 43. | Karcsú őzlábgomba Macrolepiota mastoidea (Fr.) Singer | Csak a gomba kalapja árusítható |
+| 44. | Csoportos tuskógomba Desarmillaria tabescens | Csak a gomba kalapja árusítható legfeljebb 1 cm-es tönkkel |  |
 
-| 44. | Nagy őzlábgomba Macrolepiota procera (Scop.) Singer | Csak a gomba kalapja árusítható |
+| 45. | Gyűrűs tuskógomba Armillaria mellea | Csak a gomba kalapja a gallérig levágott tönkkel árusítható | 20 perces hőkezelés után fogyasztható |
 
-| 45. | Dióízű galambgomba Russula heterophylla (Fr.) Fr. |  |
+| 46. | Gumós tuskógomba Armillaria lutea | Csak a gomba kalapja a gallérig levágott tönkkel árusítható | 20 perces hőkezelés után fogyasztható |
 
-| 46. | Kékhátú galambgomba Russula cyanoxantha (Schaeff.) Fr. |  |
+| 47. | Déli tőkegomba Cyclocybe cylindracea | Csak a gomba kalapja a gallérig levágott tönkkel árusítható |  |
 
-| 47. | Ráncos galambgomba Russula vesca Fr. |  |
+| 48. | Erdei csiperke Agaricus sylvaticus |  |  |
 
-| 48. | Varashátú galambgomba Russula virescens (Schaeff.) Fr. |  |
+| 49. | Erdőszéli csiperke Agaricus arvensis |  |  |
 
-| 49. | Ízletes rizike Lactarius deliciosus (L.) Gray |  |
+| 50. | Ízletes csiperke Agaricus bitorquis |  |  |
 
-| 50. | Lucfenyvesi rizike Lactarius deterrimus Gröger |  |
+| 51. | Ligeti csiperke Agaricus benesii |  |  |
 
-| 51. | Vörösödőtejű rizike Lactarius semisanguifluus R. Heim et Leclair |  |
+| 52. | Mezei csiperke Agaricus campestris |  |  |
 
-| 52. | Vöröstejű rizike Lactarius sanguifluus (Paulet) Fr. |  |
+| 53. | Nagyspórás csiperke Agaricus crocodilinus |  |  |
 
-| 53. | Óriás pöfeteg Calvatia gigantea (Batsch) Lloyd | Addig árusítható, amíg a termőtest belseje hófehér |
+| 54. | Karcsú őzlábgomba Macrolepiota mastoidea | Csak a gomba kalapja árusítható |  |
 
-| 54. | Pikkelyes pöfeteg Lycoperdon utriforme Bull. | Addig árusítható, amíg a termőtest belseje hófehér |
+| 55. | Nagy őzlábgomba Macrolepiota procera | Csak a gomba kalapja árusítható |  |
 
-| 55. | Változékony pöfeteg Lycoperdon excipuliforme (Scop.) Pers. | Addig árusítható, amíg a termőtest belseje hófehér |
+| 56. | Dióízű galambgomba Russula heterophylla |  |  |
 
-| 56. | Fehér szarvasgomba Choiromyces meandriformis Vittad. | Június 10-től október 22-ig hozható forgalomba *20 perces hőkezelés után fogyasztható |
+| 57. | Kékhátú galambgomba Russula cyanoxantha |  |  |
 
-| 57. | Nagyspórás szarvasgomba Tuber macrosporum Vittad. | Szeptember 1-től január 7-ig hozható forgalomba |
+| 58. | Ráncos galambgomba Russula vesca |  |  |
 
-| 58. | Nyári szarvasgomba Tuber aestivum Vittad (beleértve Tuber uncinatum Chatin, burgundi szarvasgomba) | Május 15-től január 7-ig hozható forgalomba |
+| 59. | Varashátú galambgomba Russula virescens |  |  |
 
-| 59. | Téli szarvasgomba Tuber brumale Vittad. | November 15-től március 22-ig hozható forgalomba |
+| 60. | Fehértejű keserűgomba Lactifluus piperatus | Csak a fiatal termőtest árusítható | Elkészítés előtt előfőzés, majd főzőlé leöntése javasolt |
 
-| 60. | Kátrányszagú szarvasgomba Tuber mesentericum Vittad. | Augusztus 1-től január 7-ig hozható forgalomba |
+| 61. | Zöldülőtejű keserűgomba Lactifluus glaucescens | Csak a fiatal termőtest árusítható | Elkészítés előtt előfőzés, majd főzőlé leöntése javasolt |
 
-| 61. | Isztriai szarvasgomba Tuber magnatum Pico | Október 1-től január 7-ig hozható forgalomba |
+| 62. | Ízletes rizike Lactarius deliciosus |  |  |
 
-| 62. | Homoki szarvasgomba Mattirolomyces terfezioides (Mattir.) E. Fisch. | Csak a fiatal termőtest árusítható Augusztus 20-tól november 22-ig hozható forgalomba |
+| 63. | Lucfenyvesi rizike Lactarius deterrimus |  |  |
 
-3. melléklet a 107/2011. (XI. 10.) VM rendelethez
+| 64. | Vörösödőtejű rizike Lactarius semisanguifluus |  |  |
 
-I. A piaci árusításhoz szükséges gombavizsgálati igazolás formanyomtatványa
+| 65. | Vöröstejű rizike Lactarius sanguifluus |  |  |
 
-|  | A gombavizsgálat helye: ……………………… Sorszám: ……………….. GOMBAVIZSGÁLATI IGAZOLÁS piaci árusításhoz ……………………………………………………………………………………… forgalomba hozó élelmiszer-vállalkozó (lakóhely):……………………………….. …………………………………………………………………………..……………… a mai napon …………… kg ………………..…………………………… fajú gombát vizsgálatra bemutatott, melyet emberi fogyasztásra alkalmasnak találtam. A következő felhasználási feltételt a gomba-szakellenőr jelöli meg a minősített gomba fajától függően X, vagy + jellel: □ A GOMBA 20 PERCES HŐKEZELÉS UTÁN FOGYASZTHATÓ! EZEN IGAZOLÁS CSAK A KIÁLLÍTÁS NAPJÁN ÉS HELYÉN JOGOSÍT PIACI ÁRUSÍTÁSRA ………………………., ………. év ………… hónap ……. nap. …………………………………………………. gomba-szakellenőr aláírása |
+| 66. | Óriás pöfeteg Langermannia gigantea | Addig árusítható, amíg a termőtest belseje hófehér |  |
 
-II. A vendéglátó-ipari felhasználáshoz, kereskedelmi célú értékesítéshez szükséges gombavizsgálati igazolás formanyomtatványa
+| 67. | Pikkelyes pöfeteg Lycoperdon utriforme | Addig árusítható, amíg a termőtest belseje hófehér |  |
 
-|  | A gombavizsgálat helye: …………………………… Sorszám: ……………….. GOMBAVIZSGÁLATI IGAZOLÁS Vendéglátó-ipari felhasználáshoz / kereskedelmi célú értékesítéshez …………………………………………………………………………vállalkozás által …………………………………………………..………………………………………………………………… …………… cím alatt működő vendéglátó-ipari létesítmény, ………………………………………… …………………………………..nevű képviselője a mai napon …………………… kg ………………..…………………………… fajú gombát vizsgálatra bemutatott, melyet emberi fogyasztásra alkalmasnak találtam. A következő felhasználási feltételt a gomba-szakellenőr jelöli meg a minősített gomba fajától függően X, vagy + jellel: □ A GOMBA 20 PERCES HŐKEZELÉS UTÁN FOGYASZTHATÓ! ………………………., ………. év ………… hónap ……. nap. …………………………………………………. gomba-szakellenőr aláírása |
+| 68. | Változékony pöfeteg Lycoperdon excipuliforme | Addig árusítható, amíg a termőtest belseje hófehér |  |
+
+| 69. | Fehér szarvasgomba Choiromyces meandriformis | A földalatti gombák gyűjtéséről szóló miniszteri rendeletben meghatározott gyűjtési időszak alatt, valamint az ezt követő héten árusítható | 20 perces hőkezelés után fogyasztható |
+
+| 70. | Nagyspórás szarvasgomba Tuber macrosporum | A földalatti gombák gyűjtéséről szóló miniszteri rendeletben meghatározott gyűjtési időszak alatt, valamint az ezt követő héten árusítható |  |
+
+| 71. | Nyári szarvasgomba Tuber aestivum | A földalatti gombák gyűjtéséről szóló miniszteri rendeletben meghatározott gyűjtési időszak alatt, valamint az ezt követő héten árusítható |  |
+
+| 72. | Téli szarvasgomba Tuber brumale | A földalatti gombák gyűjtéséről szóló miniszteri rendeletben meghatározott gyűjtési időszak alatt, valamint az ezt követő héten árusítható |  |
+
+| 73. | Fodrosbélű szarvasgomba Tuber mesentericum | A földalatti gombák gyűjtéséről szóló miniszteri rendeletben meghatározott gyűjtési időszak alatt, valamint az ezt követő héten árusítható |  |
+
+| 74. | Isztriai szarvasgomba Tuber magnatum | A földalatti gombák gyűjtéséről szóló miniszteri rendeletben meghatározott gyűjtési időszak alatt, valamint az ezt követő héten árusítható |  |
+
+| 75. | Homoki szarvasgomba Mattirolomyces terfezioides | Csak a fiatal termőtest árusítható A földalatti gombák gyűjtéséről szóló miniszteri rendeletben meghatározott gyűjtési időszak alatt, valamint az ezt követő héten árusítható |  |
+
+3. melléklet a 107/2011. (XI. 10.) VM rendelethez[^37]
+
+## A gombaminősítési igazolás adattartalma:
+
+A gombaminősítési igazolás az alábbi adatokat tartalmazza:
+
+1. a gombaminősítés helye, dátuma (év, hónap, nap),
+
+2. a gombaminősítési igazolás sorszáma (a gomba-szakellenőr képzi a következő módon: a gombaminősítés éve négy számjeggyel, kötőjel, az adott évben minősített gombatétel sorszáma, kötőjel, a Pest Megyei Kormányhivatal által kiadott nyilvántartási szám utolsó négy számjegye),
+
+3. a gombatételt forgalomba hozó természetes személy neve, lakóhelye; jogi személy, jogi személyiség nélküli szervezet esetében a szervezet neve és székhelye,
+
+4. az emberi fogyasztásra alkalmas gomba gombajegyzék szerinti magyar elnevezése, mennyisége és a 2. melléklet C oszlopában az adott gombafajra előírt felhasználási feltétel,
+
+5. arra vonatkozó figyelmeztetés, hogy az igazolás a piaci árusítás esetén csak a kiállítás napján és helyén jogosít árusításra, valamint
+
+6. a gomba-szakellenőr cégszerű aláírása.
+
+[^37]: A 3. melléklet a 12/2019. (IV. 1.) AM rendelet 9. § b) pontjával megállapított szöveg.

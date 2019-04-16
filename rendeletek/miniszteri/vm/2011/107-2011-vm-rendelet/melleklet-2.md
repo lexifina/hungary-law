@@ -1,3 +1,3 @@
-2. melléklet a 107/2011. (XI. 10.) VM rendelethez[^21]
+2. melléklet a 107/2011. (XI. 10.) VM rendelethez[^36]
 
-[^21]: A 2. melléklet a 34/2016. (V. 4.) FM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 2. melléklet a 12/2019. (IV. 1.) AM rendelet 9. § a) pontjával megállapított szöveg.
