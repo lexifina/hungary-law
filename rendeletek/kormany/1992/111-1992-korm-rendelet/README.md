@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-111-20-
 | 2017-07-30 | 1992-111-20-22.15 | 210/2017. (VII. 25.) Korm. rendelet |
 | 2018-01-01 | 1992-111-20-22.16 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-03-31 | 1992-111-20-22.17 | 56/2018. (III. 26.) Korm. rendelet |
+| 2019-04-17 | 1992-111-20-22.18 | 78/2019. (IV. 12.) Korm. rendelet |
