@@ -1,3 +1,5 @@
-## 13. § Hatályát veszti a 24/2012. (III. 19.) VM rendelet Mellékletének 1.5. pontja.
+## 11–13. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 11–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
