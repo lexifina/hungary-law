@@ -1,6 +1,4 @@
-## 57. §[^253] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 294/2018. (XII. 21.) Korm. rendelettel [a továbbiakban: 294/2018. (XII. 21.) Korm. rendelet] megállapított rendelkezéseit a 294/2018. (XII. 21.) Korm. rendelet hatálybalépésekor[^254] folyamatban lévő ügyekben is alkalmazni kell.
-
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^255]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^268]
 
 Kezelő szervi kijelölés
 
@@ -72,7 +70,7 @@ Kezelő szervi kijelölés
 
 | 33. | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi felzárkózásért felelős miniszter |
 
-| 34. |  |  |
+| 34. | Európai Hálózatfinanszírozási Eszköz (CEF) projektek | közlekedésért felelős miniszter |
 
 | 35. |  |  |
 
@@ -102,6 +100,4 @@ Kezelő szervi kijelölés
 
 | 48. | Alapok alapja EFOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-[^253]: Az 57. §-t a 294/2018. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
-[^254]: A hatálybalépés időpontja 2018. december 22.
-[^255]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja szerint módosított szöveg.
+[^268]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja, a 287/2017. (IX. 22.) Korm. rendelet 2. §-a, a 427/2017. (XII. 19.) Korm. rendelet 9. §-a, a 106/2018. (VI. 15.) Korm. rendelet 10. § 30–43. pontja, a 79/2019. (IV. 12.) Korm. rendelet 8. §-a szerint módosított szöveg.

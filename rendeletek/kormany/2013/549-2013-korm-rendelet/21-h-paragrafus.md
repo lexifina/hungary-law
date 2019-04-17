@@ -1,6 +1,6 @@
-21/H. §[^109] (1) A Magyar Halgazdálkodási Operatív Program előirányzat felhasználása uniós és hazai társfinanszírozással valósul meg. A közösségi finanszírozás ETHA forrásból kerül biztosításra.
+21/H. §[^119] (1) A Magyar Halgazdálkodási Operatív Program előirányzat felhasználása uniós és hazai társfinanszírozással valósul meg. A közösségi finanszírozás ETHA forrásból kerül biztosításra.
 
-(2)[^110] Az előirányzat
+(2)[^120] Az előirányzat
 
 a) az Európai Tengerügyi és Halászati Alapról, valamint a 2328/2003/EK, a 861/2006/EK, az 1198/2006/EK és a 791/2007/EK tanácsi rendelet, valamint az 1255/2011/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. május 15-i 508/2014/EU európai parlamenti és tanácsi rendelet,
 
@@ -12,11 +12,11 @@ d) a 272/2014. (XI. 5.) Korm. rendelet
 
 ## szerint használható fel.
 
-(3)[^111] A Vidékfejlesztési és halászati programok technikai segítségnyújtása előirányzat célja a Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program végrehajtásával kapcsolatos feladatokat ellátó alkalmazottaknál felmerült személyi juttatások, valamint a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiadásainak finanszírozása.
+(3)[^121] A Vidékfejlesztési és halászati programok technikai segítségnyújtása előirányzat célja a Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program végrehajtásával kapcsolatos feladatokat ellátó alkalmazottaknál felmerült személyi juttatások, valamint a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiadásainak finanszírozása.
 
-(4)[^112] Az ÚMVP (II. NVT) Európai Unió felé el nem számolható kiadásai előirányzat célja a kifizetések finanszírozása, ha a 2007–2013 programozási időszakban európai uniós forrásra benyújtott kérelem szerinti agrár-vidékfejlesztési tevékenység támogatása már nem finanszírozható európai uniós forrásból, de jogorvoslati eljárás alapján a támogatásra való jogosultságot megállapítják, feltéve, hogy az az Európai Unió működéséről szóló szerződés 107. cikkével összhangban nyújtható állami támogatásnak minősül.
+(4)[^122] Az ÚMVP (II. NVT) Európai Unió felé el nem számolható kiadásai előirányzat célja a kifizetések finanszírozása, ha a 2007–2013 programozási időszakban európai uniós forrásra benyújtott kérelem szerinti agrár-vidékfejlesztési tevékenység támogatása már nem finanszírozható európai uniós forrásból, de jogorvoslati eljárás alapján a támogatásra való jogosultságot megállapítják, feltéve, hogy az az Európai Unió működéséről szóló szerződés 107. cikkével összhangban nyújtható állami támogatásnak minősül.
 
-[^109]: A 21/H. §-t a 287/2015. (X. 6.) Korm. rendelet 15. §-a iktatta be.
-[^110]: A 21/H. § (2) bekezdése a 401/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^111]: A 21/H. § (3) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 7. §-a iktatta be.
-[^112]: A 21/H. § (4) bekezdését a 200/2017. (VII. 10.) Korm. rendelet 2. §-a iktatta be.
+[^119]: A 21/H. §-t a 287/2015. (X. 6.) Korm. rendelet 15. §-a iktatta be.
+[^120]: A 21/H. § (2) bekezdése a 401/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^121]: A 21/H. § (3) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 7. §-a iktatta be.
+[^122]: A 21/H. § (4) bekezdését a 200/2017. (VII. 10.) Korm. rendelet 2. §-a iktatta be.

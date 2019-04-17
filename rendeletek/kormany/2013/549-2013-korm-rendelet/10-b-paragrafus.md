@@ -1,6 +1,6 @@
-## 10/A. §[^55] Az országos kihatású projekt részére nyújtandó támogatás kifizetése céljából a projekt szakmai tartalmáért felelős irányító hatóság csak olyan átutalást teljesíthet a kedvezményezett vagy a szállító részére, amely esetén a folyósítás évében történő visszapótlás a Versenyképes Közép-Magyarország Operatív Program előirányzat terhére, az érintett operatív program javára lehetséges.
+## 10/A. §[^63] Az országos kihatású projekt részére nyújtandó támogatás kifizetése céljából a projekt szakmai tartalmáért felelős irányító hatóság csak olyan átutalást teljesíthet a kedvezményezett vagy a szállító részére, amely esetén a folyósítás évében történő visszapótlás a Versenyképes Közép-Magyarország Operatív Program előirányzat terhére, az érintett operatív program javára lehetséges.
 
-10/B. §[^56] (1) Az előirányzat 6. §-ban foglaltak szerinti társfinanszírozáson felüli felhasználásának, illetve a tartalék 21. § szerinti felhasználására irányuló igény jóváhagyása esetén a biztosított finanszírozás terhére a támogató költségvetési támogatást nyújthat
+10/B. §[^64] (1) Az előirányzat 6. §-ban foglaltak szerinti társfinanszírozáson felüli felhasználásának, illetve a tartalék 21. § szerinti felhasználására irányuló igény jóváhagyása esetén a biztosított finanszírozás terhére a támogató költségvetési támogatást nyújthat
 
 a) fejezetek közötti előirányzat-átcsoportosítással az érintett fejezetet irányító szervek megállapodása alapján,
 
@@ -24,5 +24,5 @@ c) a folyósított támogatással való elszámolás módját és az annak ellen
 
 (5) A támogató a támogatás szabályszerű felhasználását a szerződésben meghatározott gyakorisággal, de legalább a projekt pénzügyi befejezésekor ellenőrzi. A fejezetet irányító szerv az ellenőrzési feladatát az irányító hatóság, illetve a közreműködő szervezet bevonásával is elláthatja.
 
-[^55]: A 10/A. §-t a 287/2015. (X. 6.) Korm. rendelet 6. §-a iktatta be.
-[^56]: A 10/B. §-t a 427/2017. (XII. 19.) Korm. rendelet 4. §-a iktatta be.
+[^63]: A 10/A. §-t a 287/2015. (X. 6.) Korm. rendelet 6. §-a iktatta be.
+[^64]: A 10/B. §-t a 427/2017. (XII. 19.) Korm. rendelet 4. §-a iktatta be.

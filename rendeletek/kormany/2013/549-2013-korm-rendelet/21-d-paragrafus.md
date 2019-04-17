@@ -1,4 +1,4 @@
-## 21/A–21/C. §[^99]
+## 21/A–21/C. §[^109]
 
 21/D. § (1) Az ÚMVP (II. NVT) előirányzat uniós és hazai társfinanszírozással valósul meg. A közösségi finanszírozás az EMVA-ból kerül biztosításra.
 
@@ -18,12 +18,12 @@ d) IV. tengely: LEADER programok;
 
 e) Technikai segítségnyújtás.
 
-(5)[^100] A támogatás kedvezményezettek részére történő kifizetése a végső kifizetést teljesítő mezőgazdasági és vidékfejlesztési támogatási szerven keresztül valósul meg.
+(5)[^110] A támogatás kedvezményezettek részére történő kifizetése a végső kifizetést teljesítő mezőgazdasági és vidékfejlesztési támogatási szerven keresztül valósul meg.
 
 (6) Támogatási előleg a (4) bekezdés a), c) és d) pontja szerinti támogatások esetében indokolt esetben nyújtható.
 
-(7)[^101]
+(7)[^111]
 
-[^99]: A 21/A–21/C. §-t a 427/2017. (XII. 19.) Korm. rendelet 11. § 9. pontja hatályon kívül helyezte.
-[^100]: A 21/D. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^101]: A 21/D. § (7) bekezdését a 287/2015. (X. 6.) Korm. rendelet 31. § 8. pontja hatályon kívül helyezte.
+[^109]: A 21/A–21/C. §-t a 427/2017. (XII. 19.) Korm. rendelet 11. § 9. pontja hatályon kívül helyezte.
+[^110]: A 21/D. § (5) bekezdése a 287/2015. (X. 6.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^111]: A 21/D. § (7) bekezdését a 287/2015. (X. 6.) Korm. rendelet 31. § 8. pontja hatályon kívül helyezte.
