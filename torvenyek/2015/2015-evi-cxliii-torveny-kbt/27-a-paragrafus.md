@@ -1,0 +1,1 @@
+27/A. § Az ajánlatkérő – kivéve az 5. § (2)–(4) bekezdése szerinti ajánlatkérőt – köteles fogadni és feldolgozni az olyan elektronikus számlákat, amelyek megfelelnek az EN 16931-1:2017 számú európai szabványnak és az Európai Bizottság által e szabványhoz az Európai Unió Hivatalos Lapjában közzétett szintaxislistának.
