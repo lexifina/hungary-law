@@ -4,8 +4,8 @@
 
 (2) Az (1) bekezdés szerinti biztosíték összege legalább tizenöt millió forint.
 
-(3)[^33] Az (1) bekezdés szerinti biztosíték felhasználása, korlátozása, megszűnése esetén azt 45 napon belül a (2) bekezdésnek megfelelő szintre helyre kell állítani. A biztosíték felhasználásáról, korlátozásáról, megszűnéséről, továbbá helyreállításáról a hitelesítő az akkreditáló szervet 8 napon belül értesíti.
+(3)[^36] Az (1) bekezdés szerinti biztosíték felhasználása, korlátozása, megszűnése esetén azt 45 napon belül a (2) bekezdésnek megfelelő szintre helyre kell állítani. A biztosíték felhasználásáról, korlátozásáról, megszűnéséről, továbbá helyreállításáról a hitelesítő az akkreditáló szervet 8 napon belül értesíti.
 
 (4) A hitelesítő szervezet a hitelesítési tevékenysége körében okozott kár megtérítéséért a Polgári Törvénykönyv szerint felel. A hitelesítő szervezet köteles a hitelesítési tevékenységével okozott károk fedezetére a hitelesítői tevékenysége teljes tartama alatt e rendelet szerint biztosítékot fenntartani.
 
-[^33]: A 10. § (3) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § j) pontja szerint módosított szöveg.
+[^36]: A 10. § (3) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § j) pontja szerint módosított szöveg.

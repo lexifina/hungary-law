@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-295-20-
 | 2016-12-21 | 2012-295-20-22.9 | 394/2016. (XII. 5.) Korm. rendelet |
 | 2018-01-01 | 2012-295-20-22.10 | 475/2017. (XII. 28.) Korm. rendelet |
 | 2018-07-30 | 2012-295-20-22.11 | 394/2016. (XII. 5.) Korm. rendelet |
+| 2019-04-18 | 2012-295-20-22.12 | 76/2019. (IV. 10.) Korm. rendelet |

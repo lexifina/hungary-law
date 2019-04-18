@@ -34,13 +34,13 @@
 
 | 16 | 99 | Egyéb | A 2003/87/EK európai parlamenti és tanácsi irányelv 24. cikkének megfelelően az irányelv I. mellékletében meghatározottakon túlmenően a tagállam által az EU ETS hatálya alá vont egyéb tevékenységek, amelyeket az akkreditálási okiratban kell részletesen meghatározni |
 
-2. melléklet a 295/2012. (X. 16.) Korm. rendelethez[^39]
+2. melléklet a 295/2012. (X. 16.) Korm. rendelethez[^43]
 
 Az EU ETS hitelesítő szakértőre vonatkozó szakmai követelmények
 
 I. Általános követelmények
 
-I.1 Az EU ETS hitelesítő szakértőnek energetikai vagy analitikai, vagy az érintett létesítmény által végzett tevékenységhez kapcsolódó ipari eljárástechnológiai vagy légiközlekedési területen szaktudással kell rendelkeznie és meg kell felelnie a 600/2012/EU bizottsági rendelet 37. cikkében foglalt követelményeknek.
+I.1 Az EU ETS hitelesítő szakértőnek energetikai vagy analitikai, vagy az érintett létesítmény által végzett tevékenységhez kapcsolódó ipari eljárástechnológiai vagy légiközlekedési területen szaktudással kell rendelkeznie és meg kell felelnie a 2018/2067/EU bizottsági végrehajtási rendelet 38. cikkében foglalt követelményeknek.
 
 A megfelelő szaktudást a II.1.1, II.1.2, II.1.3 vagy II.1.4 pont szerinti szakirányú felsőfokú végzettség egyikével és a III.1 pont szerinti kapcsolódó szakmai gyakorlat meglétével kell igazolni.
 
@@ -50,7 +50,7 @@ I.3 Az az EU ETS hitelesítő szakértő, aki csak a II.1.3 b) pont szerinti ipa
 
 I.4. Az 1. mellékletben található 98-as tevékenységi csoport esetén a hitelesítőnek az alábbi feltételek mindegyikének meg kell felelnie:
 
-a) Az 1. melléklet 1–9 és 12 tevékenységi csoportok valamennyi, a 600/2012/EU bizottsági rendelet 35–39. cikkén alapuló kompetenciájával rendelkezik.
+a) Az 1. melléklet 1–9 és 12 tevékenységi csoportok valamennyi, a 2018/2067/EU bizottsági végrehajtási rendelet 36–40. cikkén alapuló kompetenciájával rendelkezik.
 
 b) Bemutatja a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló 2011. április 27-i 2011/278/EK európai bizottsági határozat teljes mélységű ismeretét az akkreditáló szerv számára, beleértve a kibocsátási egységek 2012 utáni harmonizált ingyenes kiosztására vonatkozó módszertani segédletek ismeretét is.
 
@@ -150,4 +150,4 @@ III.1 A 6. § (1) bekezdés szerinti megfelelő szakmai gyakorlatnak minősül a
 
 III.2 Az EU ETS vezető hitelesítő igazolhatja az I.2 pont szerinti szaktudását minőségbiztosítási, kockázatkezelési vagy audit szakterületen eltöltött, legalább ötéves szakmai gyakorlattal is.
 
-[^39]: A 2. melléklet a 394/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^43]: A 2. melléklet a 394/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése, a 76/2019. (IV. 10.) Korm. rendelet 5. § d)–e) pontja szerint módosított szöveg.

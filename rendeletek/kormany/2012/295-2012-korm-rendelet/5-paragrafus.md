@@ -6,11 +6,11 @@ a) a kérelmező hatályos létesítő okiratát vagy annak hiteles másolatát,
 
 b) a 10. § (2) bekezdésben meghatározott biztosíték rendelkezésre állásáról szóló pénzügyi intézmény által kiadott igazolást vagy a biztosítási szerződés másolatát,
 
-c) nyilatkozatot arról, hogy a kérelmező – munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében – a 600/2012/EU bizottsági rendeletnek megfelelő EU ETS hitelesítő szakértőket és köztük legalább egy EU ETS vezető hitelesítőt foglalkoztat,
+c)[^8] nyilatkozatot arról, hogy a kérelmező – munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében – a 2018/2067/EU bizottsági végrehajtási rendeletnek megfelelő EU ETS hitelesítő szakértőket és köztük legalább egy EU ETS vezető hitelesítőt foglalkoztat,
 
 d) a foglalkoztatott EU ETS hitelesítő szakértő és vezető EU ETS hitelesítő nevét, levelezési címét, születési idejét, telefonszámát, faxszámát, elektronikus levelezési címét,
 
-e)[^6] a foglalkoztatott EU ETS hitelesítő szakértő és EU ETS vezető hitelesítő szakképesítését biztosító oktatási intézmény (egyetem, főiskola, kar, szak) megjelölését, diplomájának (oklevelének) számát és keltét, szakképzettségét, foglalkozását, beosztását,
+e)[^9] a foglalkoztatott EU ETS hitelesítő szakértő és EU ETS vezető hitelesítő szakképesítését biztosító oktatási intézmény (egyetem, főiskola, kar, szak) megjelölését, diplomájának (oklevelének) számát és keltét, szakképzettségét, foglalkozását, beosztását,
 
 f) az igazgatási szolgáltatási díj befizetése igazolásának másolatát,
 
@@ -18,11 +18,12 @@ g) az alkalmazott hitelesítési eljárások, valamint a hitelesítési tevéken
 
 h) a vezető tisztségviselők, a munkavállalóként vagy egyéb foglalkoztatásra irányuló jogviszonyban foglalkoztatott EU ETS hitelesítő szakértők, EU ETS vezető hitelesítő szakértők 30 napnál nem régebbi hatósági erkölcsi bizonyítványát,
 
-i)–j)[^7]
+i)–j)[^10]
 
 (2) Az akkreditálás iránti kérelemben meg kell határozni, hogy a hitelesítő szervezet mely szakterület vagy szakterületek tekintetében kíván hitelesítési tevékenységet végezni. A szakterületek felsorolását az 1. melléklet tartalmazza.
 
 (3) Amennyiben a hitelesítő szervezet több szakterület vonatkozásában kíván hitelesítési tevékenységet végezni, az akkreditálás során be kell mutatnia, hogy minden gyakorolni kívánt szakterület vonatkozásában legalább két EU ETS hitelesítő szakértővel munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban áll.
 
-[^6]: Az 5. § (1) bekezdés e) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^7]: Az 5. § (1) bekezdés i)–j) pontját a 15. § (2) bekezdése hatályon kívül helyezte.
+[^8]: Az 5. § (1) bekezdés c) pontja a 76/2019. (IV. 10.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdés e) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés i)–j) pontját a 15. § (2) bekezdése hatályon kívül helyezte.

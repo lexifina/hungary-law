@@ -6,7 +6,7 @@
 
 a) a hitelesítési tevékenységével érintett üzemeltetővel, légi jármű üzembentartóval,
 
-b)[^15] más hitelesítő szervezettel, akkreditált hitelesítői névjegyzékben szereplő, más tagállamban akkreditált hitelesítő szervezettel vagy
+b)[^18] más hitelesítő szervezettel, akkreditált hitelesítői névjegyzékben szereplő, más tagállamban akkreditált hitelesítő szervezettel vagy
 
 c) kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezettel.
 
@@ -14,7 +14,7 @@ c) kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más 
 
 (4) Az EU ETS hitelesítő szakértő egyidejűleg csak egyetlen hitelesítő szervezettel létesíthet munkaviszonyt vagy foglalkoztatásra irányuló egyéb jogviszonyt.
 
-(5)[^16] A (2)–(4) bekezdésben meghatározott összeférhetetlenséget annak felmerülésétől számított 25 napon belül be kell jelenteni az akkreditáló szervnek, és a felmerüléstől számított 45 napon belül meg kell szüntetni és a megszüntetésről az akkreditáló szervet egyidejűleg tájékoztatni kell.
+(5)[^19] A (2)–(4) bekezdésben meghatározott összeférhetetlenséget annak felmerülésétől számított 25 napon belül be kell jelenteni az akkreditáló szervnek, és a felmerüléstől számított 45 napon belül meg kell szüntetni és a megszüntetésről az akkreditáló szervet egyidejűleg tájékoztatni kell.
 
 (6) A (2) bekezdés a) pontja szerinti összeférhetetlen üzleti kapcsolatnak minősül, ha
 
@@ -28,16 +28,16 @@ d) a hitelesítő szervezet, az EU ETS hitelesítő szakértő, a hitelesítő s
 
 (7) A (2) bekezdés b)–c) pontja szerinti összeférhetetlen üzleti kapcsolatnak minősül, ha
 
-a)[^17] a hitelesítő szervezet, annak vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója, vagy az EU ETS hitelesítő szakértő részesedéssel rendelkezik más hitelesítő szervezetben, akkreditált hitelesítői névjegyzékben szereplő, más tagállamban akkreditált hitelesítő szervezetben vagy kibocsátási egység kereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezetben,
+a)[^20] a hitelesítő szervezet, annak vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója, vagy az EU ETS hitelesítő szakértő részesedéssel rendelkezik más hitelesítő szervezetben, akkreditált hitelesítői névjegyzékben szereplő, más tagállamban akkreditált hitelesítő szervezetben vagy kibocsátási egység kereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezetben,
 
-b)[^18] a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója vagy az EU ETS hitelesítő szakértő más hitelesítő szervezet, akkreditált hitelesítői névjegyzékben szereplő, más tagállamban akkreditált hitelesítő szervezet vagy kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója,
+b)[^21] a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója vagy az EU ETS hitelesítő szakértő más hitelesítő szervezet, akkreditált hitelesítői névjegyzékben szereplő, más tagállamban akkreditált hitelesítő szervezet vagy kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezet vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója,
 
-c)[^19] a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója vagy az EU ETS hitelesítő szakértő és a más hitelesítő szervezet, akkreditált hitelesítői névjegyzékben szereplő, más tagállamban akkreditált hitelesítő szervezet vagy kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezet és azok vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója között a hitelesítési tevékenység függetlenségének befolyásolására alkalmas egyéb jogviszony áll fenn.
+c)[^22] a hitelesítő szervezet vezető tisztségviselője, felügyelő bizottsági tagja, könyvvizsgálója vagy az EU ETS hitelesítő szakértő és a más hitelesítő szervezet, akkreditált hitelesítői névjegyzékben szereplő, más tagállamban akkreditált hitelesítő szervezet vagy kibocsátási egységkereskedelmi szolgáltató tevékenységet végző más gazdálkodó szervezet és azok vezető tisztségviselője, felügyelő bizottsági tagja vagy könyvvizsgálója között a hitelesítési tevékenység függetlenségének befolyásolására alkalmas egyéb jogviszony áll fenn.
 
 (8) Hitelesítő szervezet hitelesítési tevékenységet legalább két, a hitelesítő szakterületére vonatkozó szaktudással rendelkező, a hitelesítővel munkaviszonyban vagy egyéb foglalkoztatási jogviszonyban álló EU ETS hitelesítő szakértő útján végezhet.
 
-[^15]: A 7. § (2) bekezdés b) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^16]: A 7. § (5) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § i) és j) pontja szerint módosított szöveg.
-[^17]: A 7. § (7) bekezdés a) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^18]: A 7. § (7) bekezdés b) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^19]: A 7. § (7) bekezdés c) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^18]: A 7. § (2) bekezdés b) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^19]: A 7. § (5) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 8. § i) és j) pontja szerint módosított szöveg.
+[^20]: A 7. § (7) bekezdés a) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^21]: A 7. § (7) bekezdés b) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^22]: A 7. § (7) bekezdés c) pontja a 394/2016. (XII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
