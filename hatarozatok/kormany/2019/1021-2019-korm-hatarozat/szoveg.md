@@ -50,8 +50,10 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: minden év január 31.
 
-5. felhívja a Miniszterelnökséget vezető minisztert, hogy a Népi Építészeti Program lebonyolítói feladatainak ellátására kössön megállapodást a Teleki László Alapítvánnyal.
+5.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a Népi Építészeti Program megvalósításával összefüggő, továbbá szakmai minőségbiztosítási és egyéb feladatainak ellátására kössön szerződést a Teleki László Alapítvánnyal a 3. pont figyelembevételével.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a forrás rendelkezésre állását követően azonnal
+
+[^1]: Az 5. pont az 1209/2019. (IV. 18.) Korm. határozattal megállapított szöveg.
