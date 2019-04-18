@@ -8,7 +8,9 @@ c) a 2003/87/EK irányelvnek az üvegházhatást okozó gázok kibocsátási egy
 
 d) a 2003/87/EK irányelvnek az üvegházhatású gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének továbbfejlesztése és kiterjesztése tekintetében történő módosításáról szóló, 2009. április 23-i 2009/29/EK európai parlamenti és tanácsi irányelvnek,
 
-e) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 17. cikk (2) bekezdésének, 18. cikk (1) bekezdésének és 28. cikkének
+e) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 17. cikk (2) bekezdésének, 18. cikk (1) bekezdésének és 28. cikkének,
+
+f) a 2003/87/EK irányelvnek a költséghatékony kibocsátáscsökkentés és az alacsony szén-dioxid-kibocsátású technológiákba történő beruházások növelése érdekében történő módosításáról és a 2015/1814/EU határozat módosításáról szóló, 2018. március 14-i 2018/410/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -16,13 +18,13 @@ való megfelelést szolgálja.
 
 a) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló, 2010. november 12-i 1031/2010/EU bizottsági rendelet,
 
-b) a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló, 2012. június 21-i 600/2012/EU bizottsági rendelet,
+b) a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében az adatok hitelesítéséről és a hitelesítők akkreditálásáról szóló, 2018. december 19-i 2018/2067/EU bizottsági végrehajtási rendelet,
 
 c) az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendelet,
 
 d) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet,
 
-e) az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló közösségi kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat,
+e) az üvegházhatású gázok kibocsátásának a 2020-ig terjedő időszakra szóló uniós kötelezettségvállalásoknak megfelelő szintre történő csökkentésére irányuló tagállami törekvésekről szóló, 2009. április 23-i 2009/406/EK európai parlamenti és tanácsi határozat,
 
 f) a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló, 2011. április 27-i 2011/278/EU bizottsági határozat,
 
@@ -36,6 +38,10 @@ j) az üvegházhatást okozó gázok kibocsátási egységei Közösségen belü
 
 k) a nemzetközi jóváírási jogosultságoknak a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében történő meghatározásáról szóló, 2013. november 8-i 1123/2013/EU bizottsági rendelet,
 
-l) az üvegházhatású gázok uniós kibocsátáskereskedelmi rendszeréhez piaci stabilizációs tartalék létrehozásáról és működtetéséről, valamint a 2003/87/EK irányelv módosításáról szóló, 2015. október 6-i, 2015/1814/EU európai parlamenti és tanácsi határozat
+l) az üvegházhatású gázok uniós kibocsátáskereskedelmi rendszeréhez piaci stabilizációs tartalék létrehozásáról és működtetéséről, valamint a 2003/87/EK irányelv módosításáról szóló, 2015. október 6-i, 2015/1814/EU európai parlamenti és tanácsi határozat,
+
+m) az üvegházhatású gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről, valamint a 601/2012/EU bizottsági rendelet módosításáról szóló, 2018. december 19-i 2018/2066/EU európai bizottsági végrehajtási rendelet,
+
+n) az 1031/2010/EU rendeletnek a piaci stabilitási tartalékból 50 millió ki nem osztott kibocsátási egységnek az innovációs alap számára árverés útján való értékesítése tekintetében és egy Németország által kijelölendő aukciós platform bejegyzése céljából történő módosításáról szóló, 2018. október 30-i 2019/7/EU felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

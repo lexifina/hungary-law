@@ -10,7 +10,7 @@ a) a légi jármű üzembentartó nem nyújtott be hitelesített éves kibocsát
 
 b) a hitelesített éves kibocsátási jelentés nincs összhangban e törvény rendelkezéseivel, vagy
 
-c) a légi jármű üzembentartó kibocsátási jelentését nem hitelesítették a 600/2012/EU bizottsági rendeletnek megfelelően,
+c) a légi jármű üzembentartó kibocsátási jelentését nem hitelesítették a 2018/2067/EU bizottsági végrehajtási rendeletnek megfelelően,
 
 a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív becslést készít a légi jármű üzembentartó kibocsátásáról, amely alapjául szolgál a térítésmentesen járó kibocsátási egységek számának megállapításának. Az e körben megbecsült kvótamennyiség ugyanakkor nem adhat alapot későbbi térítésmentes kiosztáshoz.
 

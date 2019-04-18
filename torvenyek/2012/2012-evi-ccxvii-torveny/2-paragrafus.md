@@ -8,7 +8,7 @@ a) az adott légi jármű üzembentartó számára az 1008/2008/EK európai parl
 
 b) minden egyéb esetben az a tagállam, ahol a referenciaévben az adott légi jármű üzembentartó által végzett repülésekből származó, légiközlekedésnek tulajdonított becsült kibocsátások mértéke a legnagyobb,
 
-2. akkreditált hitelesítő szervezet: a 600/2012/EU bizottsági rendeletnek megfelelően, az Európai Unió bármely tagállamának nemzeti akkreditáló testülete által akkreditált olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
+2. akkreditált hitelesítő szervezet: a 2018/2067/EU bizottsági végrehajtási rendeletnek megfelelően, az Európai Unió bármely tagállamának nemzeti akkreditáló testülete által akkreditált olyan hitelesítő szervezet, amely üvegházhatású gázok kibocsátói által elkészített kibocsátási és tonnakilométer-adatokat tartalmazó jelentéseket hitelesít,
 
 3. aukciós platform: az 1031/2010/EU bizottsági rendelet 26. cikk (1) és (2) bekezdése alapján kijelölt aukciós platform,
 
@@ -28,7 +28,7 @@ b) adott tüzelőanyag-típus, nyersanyag vagy termék, amely szenet tartalmaz �
 
 9. harmadik kereskedési időszak: a létesítmények számára 2013. január 1-jétől 2020. december 31-ig terjedő kereskedési időszak,
 
-10. hitelesítés: a 600/2012/EU bizottsági rendelet 3. cikk 4. pontjában meghatározott tevékenység,
+10. hitelesítés: a 2018/2067/EU bizottsági végrehajtási rendelet 3. cikk 4. pontjában meghatározott tevékenység,
 
 11. jelentési időszak: egy naptári év, amely alatt a kibocsátást nyomon kell követni és jelentést kell róla készíteni, vagy tonnakilométer-adatok esetében az ellenőrzési év,
 
@@ -56,13 +56,7 @@ b) a fizikai változások által érintett létesítményrész jelentősen magas
 
 21. légiközlekedési kibocsátási egység: az e törvény szerinti kötelezettségek teljesítésére a légi jármű üzembentartó által felhasználható, egy tonna szén-dioxid-egyenérték meghatározott időn belül történő kibocsátását lehetővé tévő forgalomképes vagyoni értékű jog,
 
-22. légiközlekedési új belépő: olyan légi jármű üzembentartó,
-
-a) amely az 1. melléklet XXII. pontja szerinti tevékenységet az azt követő ellenőrzési év után kezdi meg, amelyre vonatkozóan a kibocsátási egység kiosztási kérelemmel egyidejűleg a tonnakilométer-adatokat benyújtotta, vagy
-
-b) amelynek tonnakilométer adatai az ellenőrzési év és a kérelemmel érintett kereskedési időszak második naptári éve között évente több, mint 18%-kal emelkednek
-
-és az a) vagy b) pont szerinti tevékenysége sem részben, sem egészben nem jelenti egy másik légi jármű üzembentartó által korábban végzett légiközlekedési tevékenység folytatását,
+22.
 
 23. légiközlekedésnek tulajdonított kibocsátások: az 1. melléklet XXII. pontjában felsorolt légiközlekedési tevékenységek közé tartozó összes olyan repülésből származó kibocsátás, amely egy tagállam területén található repülőtérről indul vagy egy ilyen repülőtérre harmadik országból érkezik,
 
@@ -76,13 +70,17 @@ b) amelynek tonnakilométer adatai az ellenőrzési év és a kérelemmel érint
 
 28. tonnakilométer: a repülés során a légi jármű fedélzetén szállított áruk, postai küldemények, utasok és csomagok összes tömege (együtt: hasznos teher) egy kilométerre szállított tonnája,
 
-29. új belépő: azon létesítmény, amely
+29. új belépő:
 
-a) 2011. június 30. után kapott kibocsátási engedélyt,
+a) a harmadik kereskedési időszakban azon létesítmény, amely
 
-b) 2011. június 30. után bekövetkezett jelentős kapacitásbővítés következtében kapott új kibocsátási engedélyt, vagy
+aa) 2011. június 30. után kapott kibocsátási engedélyt,
 
-c) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvény hatálya alá,
+ab) 2011. június 30. után bekövetkezett jelentős kapacitásbővítés következtében kapott új kibocsátási engedélyt, vagy
+
+ac) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvény hatálya alá,
+
+b) a negyedik kereskedési időszakban a 2018/410/EU európai parlamenti és tanácsi irányelv 1. cikk 7. pontjában meghatározott létesítmény.
 
 30. üvegházhatású gáz: a szén-dioxid (CO2), a metán (CH4), a dinitrogén-oxid (N2O), a fluorozott szénhidrogének (HFC-k), a perfluorkarbonok (PFC-k), a kén-hexafluorid (SF6) és a nitrogén-trifluorid (NF3), valamint a légkör azon természetes és emberi tevékenységből származó gáznemű alkotóelemei, amelyek elnyelik, majd újra kibocsátják az infravörös sugárzást,
 
@@ -114,4 +112,14 @@ c) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvén
 
 44. üzemszerű működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk n) pontja szerinti időpont,
 
-45. megváltozott működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk o) pontja szerinti időpont.
+45. megváltozott működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk o) pontja szerinti időpont,
+
+46. tartalék egység: egy létesítményen belül az üzemszerűen működő berendezés kiváltására szolgáló, kibocsátást eredményező berendezés,
+
+47. készenléti egység: egy létesítményen belül az elsődleges energiaforrás elháríthatatlan külső ok miatti rendelkezésre nem állása esetén működő és üzemelő, kibocsátást eredményező berendezés,
+
+48. negyedik kereskedési időszak: 2021. január 1-jétől 2030. december 31-ig tartó időszak,
+
+49. kiosztási időszak: a negyedik kereskedési időszaktól kezdődően, az egy kereskedési időszakon belüli, egy Nemzeti Végrehajtási Intézkedés által lefedett 5 éves időszak,
+
+50. nemzeti légiközlekedési kiosztási táblázat: a hazai légi jármű üzembentartókat és a részükre térítésmentesen kiosztható kvótamennyiségeket tartalmazó táblázat, amelyet az Európai Bizottság jóváhagyott.

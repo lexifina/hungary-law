@@ -1,5 +1,9 @@
 ## 7. A légiközlekedési kibocsátási egységek kiosztása a légi jármű üzembentartóknak
 
-19. § (1) A légiközlekedési kibocsátási egységek teljes mennyiségének az Európai Bizottság által a 2011/638/EU bizottsági határozatban meghatározott referenciaérték alapján kiszámított része térítés nélkül kerül kiosztásra a 20. § (1) bekezdése szerinti kérelmet benyújtó légi jármű üzembentartók részére.
+19. § (1) Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblázatban szereplő légi jármű üzembentartók részére a 2017–2023. közötti időszakra vonatkozóan a 2003/87/EK európai parlamenti és tanácsi irányelv 28a. cikk (2) bekezdése alapján meghatározott térítésmentes kvótamennyiség kerül kiosztásra.
 
-(2) A légiközlekedési kibocsátási egységeknek az Európai Bizottság által meghatározott referenciaérték alapján kiszámított része a közösségi, egyes légi jármű üzembentartók részére fenntartott tartalékalapból kerül kiosztásra a légiközlekedési új belépők részére a 21. § (1) bekezdésében meghatározott kérelmek alapján.
+(2) Az Európai Bizottság által elfogadott nemzeti légiközlekedési kiosztási táblát a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
+
+(3) A nemzeti légiközlekedési kiosztási tábla alapján a miniszter – a jegyzékkezelő útján – minden év február 28-ig gondoskodik az üzembentartó forgalmi jegyzékben vezetett számláján az adott évre jóváhagyott kibocsátási egységek jóváírásáról.
+
+(4) A 2003/87/EK európai parlamenti és tanácsi irányelv 28a. cikk (2) bekezdése értelmében az ezen irányelv 3f. cikk (2) bekezdése szerinti légiközlekedési új belépő kérelem nem nyújtható be 2023. június 30-ig.

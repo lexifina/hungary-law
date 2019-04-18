@@ -14,6 +14,6 @@ a) az üzemeltető nem nyújtott be hitelesített éves kibocsátási jelentést
 
 b) a hitelesített éves kibocsátási jelentés nincs összhangban e törvény rendelkezéseivel, vagy
 
-c) az üzemeltető kibocsátási jelentését nem hitelesítették a 600/2012/EU bizottsági rendeletnek megfelelően
+c) az üzemeltető kibocsátási jelentését nem hitelesítették a 2018/2067/EU bizottsági végrehajtási rendeletnek megfelelően
 
 a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív becslést készít a létesítmény kibocsátásáról, amely becslésnek megfelelő kibocsátási egységet köteles az üzemeltető a 24. § (1) bekezdésének megfelelően visszaadni.
