@@ -14,9 +14,9 @@
 
 ## A.3.1 A létesítmény telephelyén végzett 2. melléklet szerinti tevékenység (tevékenységek) megnevezése.
 
-## A.3.2.[^141] A létesítmény telephelyére kiadott, a környezethasználat feltételeit megállapító határozat megnevezése, engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély véglegessé válásának dátuma.
+## A.3.2.[^148] A létesítmény telephelyére kiadott, a környezethasználat feltételeit megállapító határozat megnevezése, engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély véglegessé válásának dátuma.
 
-## A.3.3[^142] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása (folyamatos működés, tartalék üzemmód, készenléti üzemmód vagy szezonális üzemmód).
+## A.3.3[^149] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása (folyamatos működés, tartalék üzemmód, készenléti üzemmód vagy szezonális üzemmód).
 
 ## A.4 A LÉTESÍTMÉNY KIBOCSÁTÁSI KATEGÓRIÁJA
 
@@ -26,7 +26,7 @@
 
 ## b) B kategóriájú létesítmény: 50 000 tCO2(e) és 500 000 tCO2(e) között
 
-## c)[^143] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
+## c)[^150] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
 
 ## B. A KIBOCSÁTÁSOK NYOMON KÖVETÉSÉVEL KAPCSOLATOS ADATOK ÉS MÓDSZEREK (Nyomon követési Terv – NykT)
 
@@ -46,7 +46,7 @@
 
 ## B.2.4 Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a 601/2012/EU bizottsági rendelet iránymutatásait.
 
-## B.2.5.[^144] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és megyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
+## B.2.5.[^151] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és megyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
 
 ## B.2.6 Amennyiben a kibocsátási számítása az anyagmérlegen alapuló megközelítéssel történik, akkor meg kell jelölni a létesítmény területére belépő összes karbontartalmú forrásanyagot, a létesítmény területéről kilépő összes karbontartalmú forrásanyagot, valamint létesítményben készletként megmaradó összes karbontartalmú forrásanyagot, valamint mindezek mennyiségének és karbontartalmának meghatározáshoz kiválasztott adatmeghatározási szinteket, módszereket.
 
@@ -106,7 +106,7 @@
 
 ## Hulladékégetés esetén tüzelőanyagként vagy alap-, illetve segédanyagként használatos hulladékok típusát a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendeletben meghatározott Európai Hulladék Katalógus szerinti osztályozás (EWC kódszám) alkalmazásával is meg kell jelölni.
 
-2. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^145]
+2. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^152]
 
 ## A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gázok
 
@@ -264,7 +264,7 @@
 
 2.6. Tüzelőberendezés (I): idetartozik minden olyan, a teljesítményhatárt a fenti 2.3. pont szerint elérő berendezés, amelyben tüzelőanyag oxidációja folyik az így termelt hő hasznosítása céljából, függetlenül attól, hogy a termelt hőt energetikai (hő- vagy villamosenergia-termelés) vagy technológiai célra hasznosítják. 2008. január 1-jétől idetartozik a hőbontás (pirolízis, krakkolás) is.
 
-2.7. Ha egy létesítmény teljes névleges bemenő hőteljesítményét a közösségi rendszer hatálya alá tartozás meghatározása céljából számítják ki, akkor a létesítményen belül a részét képező valamennyi üzemanyag-égetést folytató technikai egység névleges bemenő hőteljesítménye összeadandó. Ezen egységek lehetnek valamennyi típusú kazánok, égetőművek, turbinák, fűtőberendezések, kohók, égetők, kalcináló- és égetőkemencék, szárítók és motorok, üzemanyagcellák, vegyi tüzelőberendezések, fáklyázók, hő- vagy katalitikus utánégetők. A 3 MW alatti névleges bemenő hőteljesítményű, továbbá a kizárólag biomasszát használó egységeket e számítás céljából nem kell figyelembe venni. A „kizárólag biomasszát használó egységekbe” azon egységek is beleértendők, amelyek csak indításukhoz vagy leállításukhoz használnak fosszilis tüzelőanyagot.
+2.7. Ha egy létesítmény teljes névleges bemenő hőteljesítményét a közösségi rendszer hatálya alá tartozás meghatározása céljából számítják ki, akkor a létesítményen belül a részét képező valamennyi – beleértve az Ügkr. tv. 15/B. §-a szerinti kivett berendezéseket is – üzemanyag-égetést folytató technikai egység névleges bemenő hőteljesítménye összeadandó. Ezen egységek lehetnek valamennyi – beleértve az Ügkr. tv. 15/B. §-a szerinti kivett berendezéseket is – típusú kazánok, égetőművek, turbinák, fűtőberendezések, kohók, égetők, kalcináló- és égetőkemencék, szárítók és motorok, üzemanyagcellák, vegyi tüzelőberendezések, fáklyázók, hő- vagy katalitikus utánégetők. A 3 MW alatti névleges bemenő hőteljesítményű, továbbá a kizárólag biomasszát használó egységeket e számítás céljából nem kell figyelembe venni. A „kizárólag biomasszát használó egységekbe” azon egységek is beleértendők, amelyek csak indításukhoz vagy leállításukhoz használnak fosszilis tüzelőanyagot.
 
 2.8. Ásványolaj-feldolgozó (II): idetartoznak a katalizátorok regenerálása, petrolkokszgyártás és a kőolaj-feldolgozáshoz kapcsolódó hidrogéntermelés technológiai kibocsátásai, valamint az azonos telephelyen az ezekhez szükséges energia előállítást biztosító és a technológiai véggázokat elégető, azonos üzemeltető által működtetett tüzelőberendezések.
 
@@ -272,8 +272,8 @@
 
 2.10. Üveggyártás (XIII): 2008. január 1-jétől az üveggyártást folytató létesítmény esetében a telephelyen az üvegtermékek előállításakor keletkező valamennyi tüzelési eredetű kibocsátást figyelembe kell venni.
 
-[^141]: Az 1. melléklet A.3.2. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^142]: Az 1. melléklet A.3.3. pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^143]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
-[^144]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^145]: A 2. melléklet a 178/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 17. §-a és 18. § c) pontja szerint módosított szöveg.
+[^148]: Az 1. melléklet A.3.2. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 422. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^149]: Az 1. melléklet A.3.3. pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^150]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^151]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^152]: A 2. melléklet a 178/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 76/2019. (IV. 10.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
