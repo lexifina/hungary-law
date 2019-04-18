@@ -19,11 +19,3 @@ b) az üvegházhatású gázok kibocsátásának a 2003/87/EK európai parlament
 c) az 1031/2010/EU rendeletnek a piaci stabilitási tartalékból 50 millió ki nem osztott kibocsátási egységnek az innovációs alap számára árverés útján való értékesítése tekintetében és egy Németország által kijelölendő aukciós platform bejegyzése céljából történő módosításáról szóló, 2018. október 30-i 2019/7/EU felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

@@ -16,4 +16,4 @@ g) 41/A. § (2), (3) és (4) bekezdésében a „2016. december 31.” szövegr�
 
 lép.
 
-(2) Az Ügkr. tv. 32. § (1) bekezdésében az „irányuló” szövegrész helyébe az „irányuló, továbbá a 15/B. § szerinti” szöveg lép.
+(2)
