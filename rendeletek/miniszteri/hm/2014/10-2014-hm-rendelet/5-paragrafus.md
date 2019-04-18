@@ -1,14 +1,14 @@
-5. § (1)[^31] A lakáspénz megállapítása iránti kérelmet az e célra rendszeresített igénylőlapon (a továbbiakban: igénylés), az állományilletékes parancsnok útján kell az R. 1. melléklete alapján a szolgálati hely szerint illetékes helyi lakásgazdálkodási szervhez benyújtani.
+5. § (1)[^32] A lakáspénz megállapítása iránti kérelmet az e célra rendszeresített igénylőlapon (a továbbiakban: igénylés), az állományilletékes parancsnok útján kell az R. 1. melléklete alapján a szolgálati hely szerint illetékes helyi lakásgazdálkodási szervhez benyújtani.
 
 (2) Az igényléshez csatolni kell:
 
 a) az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatát a lakáspénzre való jogosultságot kizáró, a 3. § (6) bekezdés 3–9. és 11–14. pontjában megjelölt okok vonatkozásában,
 
-b)[^32] az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arról, hogy a 6. § (1) bekezdés 1–6. és 9–11. pontjában megjelölt, a lakáspénzre való jogosultságot megszüntető okot a lakáspénz megállapítása során eljáró helyi lakásgazdálkodási szervnek és a folyósító pénzügyi szervnek a bekövetkezéstől számított 8 napon belül bejelenti, valamint a bejelentés elmulasztása esetén a jogosulatlanul felvett támogatást annak törvényes kamatával együtt a honvédelmi szervezet részére visszafizeti,
+b)[^33] az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arról, hogy a 6. § (1) bekezdés 1–6. és 9–11. pontjában megjelölt, a lakáspénzre való jogosultságot megszüntető okot a lakáspénz megállapítása során eljáró helyi lakásgazdálkodási szervnek és a folyósító pénzügyi szervnek a bekövetkezéstől számított 8 napon belül bejelenti, valamint a bejelentés elmulasztása esetén a jogosulatlanul felvett támogatást annak törvényes kamatával együtt a honvédelmi szervezet részére visszafizeti,
 
 c) a kinevezési, áthelyezési, vezénylési parancs másolatát,
 
-d)[^33] az élettársi kapcsolatot igazoló hatósági bizonyítványt vagy az élettársak közös lakhelyét is tartalmazó, a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratot,
+d)[^34] az élettársi kapcsolatot igazoló hatósági bizonyítványt vagy az élettársak közös lakhelyét is tartalmazó, a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratot,
 
 e) a házassági és az igénylő háztartásában eltartott gyermek születési anyakönyvi kivonatának másolatát,
 
@@ -22,9 +22,9 @@ i) az igénylő és az igénylő házastársa, élettársa, saját háztartásá
 
 j) a lakáscélú támogatási szerv igazolását arról, hogy a 3. § (6) bekezdés 1., 2. és 10. pontjában foglalt kizáró ok nem áll fent,
 
-k)[^34] a 3. § (6) bekezdés 6. és 7. pontja szerinti esetben a lakásbérleti szerződés vagy a jogcím nélküli lakáshasználat megszüntetésére vonatkozó megállapodást.
+k)[^35] a 3. § (6) bekezdés 6. és 7. pontja szerinti esetben a lakásbérleti szerződés vagy a jogcím nélküli lakáshasználat megszüntetésére vonatkozó megállapodást.
 
-l)[^35]
+l)[^36]
 
 (3) A helyi lakásgazdálkodási szerv a benyújtástól számított 15 napon belül ellenőrzi az igénylést és
 
@@ -42,8 +42,8 @@ c) a lakáspénzre való jogosultság fennállása esetén az igénylést az ál
 
 (7) A helyi lakásgazdálkodási szerv lakáspénzzel kapcsolatos érdemi döntése ellen panaszt az elbírálásra jogosult HM központi lakásgazdálkodási szervhez lehet írásban benyújtani.
 
-[^31]: Az 5. § (1) bekezdése a 22/2018. (XII. 28.) HM rendelet 6. § (10) bekezdésével megállapított szöveg.
-[^32]: Az 5. § (2) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 7. § d) pontja szerint módosított szöveg.
-[^33]: Az 5. § (2) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 6. § (11) bekezdésével megállapított szöveg.
-[^34]: Az 5. § (2) bekezdés k) pontja a 22/2018. (XII. 28.) HM rendelet 7. § g) pontja szerint módosított szöveg.
-[^35]: Az 5. § (2) bekezdés l) pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
+[^32]: Az 5. § (1) bekezdése a 22/2018. (XII. 28.) HM rendelet 6. § (10) bekezdésével megállapított szöveg.
+[^33]: Az 5. § (2) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 7. § d) pontja szerint módosított szöveg.
+[^34]: Az 5. § (2) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^35]: Az 5. § (2) bekezdés k) pontja a 22/2018. (XII. 28.) HM rendelet 7. § g) pontja szerint módosított szöveg.
+[^36]: Az 5. § (2) bekezdés l) pontját a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.

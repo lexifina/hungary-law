@@ -1,4 +1,4 @@
-4. § (1)[^24] A 4/A. §-ban foglalt kivétellel a lakáspénz havi összege legfeljebb a (2)–(4) bekezdésben meghatározott támogatási alapösszeg és rendfokozati szorzó szorzatának a saját háztartásban eltartott gyermek után járó kiegészítéssel megnövelt összege, amely azonban nem haladhatja meg a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal igazolt bérleti vagy lízingdíjat.
+4. § (1)[^25] A 4/A. §-ban foglalt kivétellel a lakáspénz havi összege legfeljebb a (2)–(4) bekezdésben meghatározott támogatási alapösszeg és rendfokozati szorzó szorzatának a saját háztartásban eltartott gyermek után járó kiegészítéssel megnövelt összege, amely azonban nem haladhatja meg a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal igazolt bérleti vagy lízingdíjat.
 
 (2) A támogatási alapösszeg
 
@@ -44,4 +44,4 @@ c) 60 000 Ft, ha a lakóingatlan nem az a)–b) pontban felsorolt településeke
 
 (4) A (2)–(3) bekezdésben foglaltak figyelembevételével kiszámított összeget az igényjogosult háztartásában eltartott, a lakóingatlanba vele együtt költöző olyan gyermek esetében, aki után az igénylő vagy annak házastársa, élettársa családi pótlékban részesül, gyermekenként 5000 Ft-tal kell kiegészíteni. A kiegészítést legfeljebb négy gyermek figyelembevételével lehet megállapítani.
 
-[^24]: A 4. § (1) bekezdése a 9/2017. (VIII. 31.) HM rendelet 11. §-ával megállapított szöveg.
+[^25]: A 4. § (1) bekezdése a 9/2017. (VIII. 31.) HM rendelet 11. §-ával megállapított szöveg.

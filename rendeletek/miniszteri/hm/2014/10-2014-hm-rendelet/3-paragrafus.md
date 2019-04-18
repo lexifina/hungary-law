@@ -68,6 +68,10 @@ b) a (6) bekezdés 3. pontja szerinti lakásvásárlás vagy
 
 c) a bérlőkijelölési vagy bérlőkiválasztási jogról történő, (6) bekezdés 4. pontja szerinti lemondás
 
+## a kinevezést, áthelyezést, vezénylést megelőzően történt.
+
+(13)[^21] Az állami tulajdonú, HM vagyonkezelői jogú lakás megvásárlásától számított öt évig nem teljesíthető a (12) bekezdés szerinti kérelem akkor, ha az elidegenített lakásra az ingatlan-nyilvántartásba bejegyzett jelzálogjog, valamint elidegenítési és terhelési tilalom törlésére az állomány tagjának kérelmére azért került sor, mert másik helyőrségbe történő áthelyezésével összefüggésben vállalta, hogy lakhatását saját erőből oldja meg.
+
 [^3]: A 3. § (1) bekezdése a 22/2018. (XII. 28.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^4]: A 3. § (2) bekezdése a 22/2018. (XII. 28.) HM rendelet 6. § (3) bekezdésével megállapított szöveg.
 [^5]: A 3. § (3) bekezdését a 22/2018. (XII. 28.) HM rendelet 8. §-a hatályon kívül helyezte.
@@ -86,3 +90,4 @@ c) a bérlőkijelölési vagy bérlőkiválasztási jogról történő, (6) beke
 [^18]: A 3. § (10) bekezdését az 1/2018. (I. 26.) HM rendelet 34. § (4) bekezdése iktatta be, szövege a 22/2018. (XII. 28.) HM rendelet 7. § e) pontja szerint módosított szöveg.
 [^19]: A 3. § (11) bekezdését a 22/2018. (XII. 28.) HM rendelet 6. § (7) bekezdése iktatta be.
 [^20]: A 3. § (12) bekezdését a 22/2018. (XII. 28.) HM rendelet 6. § (7) bekezdése iktatta be.
+[^21]: A 3. § (13) bekezdését a 6/2019. (IV. 15.) HM rendelet 24. §-a iktatta be.
