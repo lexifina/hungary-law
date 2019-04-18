@@ -1,0 +1,9 @@
+# 1215/2019. (IV. 18.) Korm. határozat
+
+települési önkormányzatok támogatásáról és egyes települési önkormányzatok támogatását érintő kormányhatározatok módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1215-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-04-18 | 2019-1215-30-22.1 | 1215/2019. (IV. 18.) Korm. határozat |
