@@ -24,7 +24,7 @@
 
 | 11. | Bodmér Község Önkormányzata feladatainak támogatása | új lakóövezet kialakításának támogatása | 15 000 000 |
 
-| 12. | Dunaújváros Megyei Jogú Város Önkormányzata feladatainak támogatása | Vasmű út aszfalburkolata kopórétege cseréjének támogatása | 968 000 000 |
+| 12. | Dunaújváros Megyei Jogú Város Önkormányzata feladatainak támogatása | Vasmű út belvárosi szakaszának út- és járdafelújítása, a gyalogos zóna közvilágítás-fejlesztésével | 968 000 000 |
 
 | 13. | Kajászó Község Önkormányzata feladatainak támogatása | óvodafejlesztés támogatása | 75 000 000 |
 
@@ -66,7 +66,7 @@
 
 | 32. | Mándok Város Önkormányzata feladatainak támogatása | Szent István téren buszforduló kiépítésének, valamint a Petőfi utca, Mónus Illés utca és Szabadság téri csomópont korszerűsítésének támogatása | 70 000 000 |
 
-| 33. | Nyíregyháza Megyei Jogú Város Önkormányzata feladatainak támogatása | Sóstó Gyógyfürdők fejlesztésére felvett svájcifrank-alapú hitel törlesztésének támogatása | 1 677 950 000 |
+| 33. | Nyíregyháza Megyei Jogú Város Önkormányzata feladatainak támogatása | önkormányzati fejlesztések | 1 677 950 000 |
 
 | 34. | Petneháza Község Önkormányzata feladatainak támogatása | bölcsődei eszközök beszerzésének támogatása | 20 000 000 |
 
