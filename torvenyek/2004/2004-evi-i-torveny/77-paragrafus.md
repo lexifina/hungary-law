@@ -58,4 +58,6 @@ w) olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társa
 
 x) CAS: Nemzetközi Sportdöntőbíróság,
 
-y) nemzetközi szintű sportoló: olyan sportoló, aki sportversenyeken vesz részt nemzetközi szinten (az egyes nemzetközi szövetségek általi meghatározás szerint).
+y) nemzetközi szintű sportoló: olyan sportoló, aki sportversenyeken vesz részt nemzetközi szinten (az egyes nemzetközi szövetségek általi meghatározás szerint),
+
+z) kontinentális sportági szövetség: olyan szövetség, amelynek tagjai egy sportágban egy kontinensen működő nemzeti sportszövetségek.

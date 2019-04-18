@@ -6,7 +6,7 @@
 
 19. § (1) A sportszövetségek meghatározott sporttevékenységek körében a sportversenyek szervezésére, a tagok érdekvédelmére és a részükre való szolgáltatásokra, valamint a nemzetközi kapcsolatok lebonyolítására létrehozott, jogi személyiséggel és önkormányzattal rendelkező, a Civil tv. és a Polgári Törvénykönyv alapján – az e törvényben foglalt eltérésekkel – különös formában működő egyesületek.
 
-(2) Az országos sportági szakszövetségre a sportszövetségekre vonatkozó rendelkezéseket az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2) Az országos sportági szakszövetségekre és a nemzetközi sportszövetségekre a sportszövetségekre vonatkozó rendelkezéseket az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (3) A sportszövetségek típusai a (2) bekezdésben foglaltakra is figyelemmel:
 
@@ -18,7 +18,9 @@ c) szabadidősport szövetségek,
 
 d) fogyatékosok sportszövetségei,
 
-e) diák- és egyetemi-főiskolai sport sportszövetségei.
+e) diák- és egyetemi-főiskolai sport sportszövetségei,
+
+f) nemzetközi sportszövetségek.
 
 (4) A sportszövetség sportszövetségi jellegét és típusát a bírósági nyilvántartásban fel kell tüntetni.
 
