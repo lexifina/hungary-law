@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-60-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2007-60-00-00.22 |
 | 2018-07-30 | 2018. évi XL. törvény | 2007-60-00-00.23 |
 | 2019-01-01 | 2018. évi XCIX. törvény | 2007-60-00-00.24 |
+| 2019-04-18 | 2019. évi XXVIII. törvény | 2007-60-00-00.25 |
