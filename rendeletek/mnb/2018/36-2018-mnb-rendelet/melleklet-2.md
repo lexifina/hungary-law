@@ -892,4 +892,6 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet a 36/2018. (XI. 13.) MNB rendelethez
+2. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^3]
+
+[^3]: A 2. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (1) bekezdése szerint módosított szöveg.

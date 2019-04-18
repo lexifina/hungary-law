@@ -1,6 +1,6 @@
-## 20182C20000036_2
+## 20182C20000036_25
 
-3. melléklet a 36/2018. (XI. 13.) MNB rendelethez
+3. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^4]
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -1466,7 +1466,7 @@ A w) Összes befektetés nettó értéke oszlopba azoknak a befektetési korlát
 
 Az összes közvetlen és közvetett befektetés állományának megállapításához az i) oszlopban feltüntetett befektetések értékéből le kell vonni a közvetlen és közvetett, szavatoló tőkével fedezett befolyásoló részesedésű PIBB befektetéseket), a részükre nyújtott alárendelt kölcsöntőkéket, a Garantiqa Hitelgarancia Zrt. értékét, az o) oszlopban szereplő veszteségmérséklés érdekében szerzett befektetést, illetve az r1), r2) és az s1), s2) oszlopból a befektetési limit túllépése miatt a szavatoló tőkéből levonásba kerülő értéket, az u) oszlopban kimutatott az előírt limit feletti túllépést, illetve az állampapír és hitelviszonyt megtestesítő értékpapír állomány nettó értékét, valamint a t) és v) oszlopban feltüntetett egyéb, szükséges korrekciót.
 
-A Hpt. 102. §-ának betartásához az C2H5 sor w) Összes befektetés nettó értéke oszlopának értékét kell a szavatoló tőke 100%-ához viszonyítani. A korlátozás túllépése felügyeleti intézkedést von maga után. A kötelezettség betartásához elidegenítési tilalom kapcsolódik, a túllépésből eredően szavatolótőke-állítási kötelezettség nem.
+A Hpt. 102. §-ának betartásához az C2H5 sor w) Összes befektetés nettó értéke oszlopának értékét kell a szavatoló tőke 125%-ához viszonyítani. A korlátozás túllépése felügyeleti intézkedést von maga után. A kötelezettség betartásához elidegenítési tilalom kapcsolódik, a túllépésből eredően szavatolótőke-állítási kötelezettség nem.
 
 A tábla sorai
 
@@ -1574,7 +1574,7 @@ Az 5A2 szakaszban a befektetési korlátozás alól mentesülő befektetések k�
 
 Az 5A3 szakaszban a hitelintézet tulajdonába elidegenítési kötelezettséggel került befektetések állományának elidegenítési határidő szerinti bontása szerepel. Az alábontó sorokban a jelentés dátumától az elidegenítési kötelezettség – szerzéstől számított – határnapjáig hátralévő napok száma szerint kell az állományt a megadott lejárati sávokba besorolni. Az értékesítés határnapja ingatlanok esetében hat év, egyéb befektetéseknél három év, ezért külön bontásban jelennek meg az ingatlanok és az egyéb befektetések. Az 1 éven belüli sávban az elidegenítési kötelezettség dátumához, míg az egyéb (1-3,3-6 év) sávokban fokozatosan a szerzés vagy átvétel napjához közelebb eső tételek jelentendők. A 6, illetve 3 éves elidegenítési határidőt meghaladó tétel az alábontó sorokban nem szerepelhet.
 
-Az 5A4 szakaszban az ingatlanbefektetések Hpt. 101. §-a szerinti, az 5A5 szakaszban a közvetlen és közvetett összes befektetések Hpt. 102. §-a szerinti korlátozásának és a korlátok túllépésének levezetése jelenik meg. Ingatlanok esetében a befektetési korlát a Hpt. 79. § (2) bekezdésében előírt szavatolótőke követelmény 5%-a, míg az összbefektetések könyv szerinti (nettó) értéke nem haladhatja meg a Hpt. 79. § (2) bekezdésben előírt szavatolótőke követelmény 100 %-át.
+Az 5A4 szakaszban az ingatlanbefektetések Hpt. 101. §-a szerinti, az 5A5 szakaszban a közvetlen és közvetett összes befektetések Hpt. 102. §-a szerinti korlátozásának és a korlátok túllépésének levezetése jelenik meg. Ingatlanok esetében a befektetési korlát a szavatolótőke 5%-a, míg az összbefektetések könyv szerinti (nettó) értéke nem haladhatja meg a szavatolótőke 125%-át.
 
 Mindkét befektetési korlátozás levezetése az alábbi sorrendben történik:
 
@@ -3225,3 +3225,9 @@ A 11AA4 Összesen és 11AA5 Ország szerinti tulajdonosi megoszlás összesen so
 11AB Tulajdonosi szerkezet 2
 
 Ez a tábla a hitelintézet tulajdonosainak név és tulajdoni-, illetve szavazati arányok szerinti alakulását részletezi a tényleges részjegyállomány változásának nyomonkövetésével.
+
+A hitelintézet jegyzett tőkéjét a névérték és a tulajdoni-, illetve szavazati arány szerint kell tulajdonosonként kimutatni. Ennek érdekében a hitelintézetnek rendelkeznie kell – elsősorban a részvénykönyv alapján – olyan kimutatással, amelyből az egyes tulajdonosokhoz (ügyfelekhez) kapcsolódó tulajdoni-, illetve szavazati arány – ennek mértékétől függetlenül – megállapítható.
+
+A tulajdoni, illetve szavazati arány megállapításánál figyelembe kell venni:
+
+[^4]: A 3. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (3) bekezdés d)–e) pontja szerint módosított szöveg.
