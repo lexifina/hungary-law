@@ -28,7 +28,7 @@ d)–e)[^12]
 
 (3)–(4)[^13]
 
-(5)[^14] Munkakörhöz kötött lakás a házfelügyelői, szálló- és lőtérgondnoki, a műterem-, valamint más, a honvédelmi szervezet területén lévő lakás.
+(5)[^14] Munkakörhöz kötött lakás a honvédelmi szervezet területén lévő lakás, a házfelügyelői, szálló- és lőtérgondnoki, a műteremlakás, valamint a HM központi lakásgazdálkodási szerv előzetes hozzájárulásával, meghatározott beosztás, munkakör ellátásához kötötten bérbe adott lakás.
 
 (6) Vezetői lakás a vezetői beosztáshoz rendelt lakás. E tekintetben vezetői beosztás:
 
@@ -100,7 +100,7 @@ c)[^22] más helyőrségben lévő katonai szervezet vagy ugyanazon katonai szer
 [^11]: A 3. § (2) bekezdés c) pontja a 22/2018. (XII. 28.) HM rendelet 4. § e) pontja szerint módosított szöveg.
 [^12]: A 3. § (2) bekezdés d)–e) pontját a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^13]: A 3. § (3)–(4) bekezdését a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^14]: A 3. § (5) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: A 3. § (5) bekezdése a 6/2019. (IV. 15.) HM rendelet 1. §-ával megállapított szöveg.
 [^15]: A 3. § (6) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § f) pontja szerint módosított szöveg.
 [^16]: A 3. § (7) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 3. § (8) bekezdés a) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (2) bekezdése szerint módosított szöveg.

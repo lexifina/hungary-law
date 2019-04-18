@@ -6,11 +6,13 @@
 
 a) tiszti állományú katonák,
 
-b)[^55] altiszti állományú katonák,
+b)[^58] altiszti állományú katonák,
 
-c)[^56] kormánytisztviselők, közalkalmazottak és munkavállalók,
+c)[^59] kormánytisztviselők, közalkalmazottak és munkavállalók,
 
-d) nyugállományúak, valamint özvegyek és az 5. § (1) bekezdés c) pontjában meghatározott túlélő élettárs.
+d) nyugállományúak, valamint özvegyek és az 5. § (1) bekezdés c) pontjában meghatározott túlélő élettárs,
+
+e)[^60] legénységi állományú katonák.
 
 (2) Az (1) bekezdés szerinti csoportokon belül az igénylőket a következő kategóriákba kell besorolni:
 
@@ -20,7 +22,7 @@ aa) a szolgálati helye szerinti vonzáskörzetben lévő településen nem rend
 
 ab) az építési hatóság megállapítása szerint olyan lakásban lakik, amely lakás céljára alkalmatlan,
 
-ac)[^57] az egészségügyi államigazgatási szerv megállapítása szerint egészségre ártalmas lakásban lakik;
+ac)[^61] az egészségügyi államigazgatási szerv megállapítása szerint egészségre ártalmas lakásban lakik;
 
 b) a II. kategóriába azt, aki
 
@@ -42,6 +44,7 @@ b) a II. kategóriába kell sorolni, ha a végleges letelepedés helyéül vála
 
 c) a III. kategóriába kell sorolni, ha a végleges letelepedés helyéül választott településen a 10. § (1) bekezdésben meghatározott igény mértékének megfelelő HM rendelkezésű lakásban lakik, és annál nagyobb szobaszámú, magasabb komfortfokozatú vagy számára kedvezőbb fekvésű, beosztású, alapterületű, jobb minőségű lakást kér.
 
-[^55]: A 16. § (1) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^56]: A 16. § (1) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^57]: A 16. § (2) bekezdés a) pont ac) alpontja a 22/2013. (X. 7.) HM rendelet 4. §-ával megállapított szöveg.
+[^58]: A 16. § (1) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^59]: A 16. § (1) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^60]: A 16. § (1) bekezdés e) pontját a 6/2019. (IV. 15.) HM rendelet 3. §-a iktatta be.
+[^61]: A 16. § (2) bekezdés a) pont ac) alpontja a 22/2013. (X. 7.) HM rendelet 4. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 77. § (1) A lakáscseréhez megtagadható a hozzájárulás, ha
 
-a)[^146] az lakásgazdálkodási érdeket sért, különösen ha a cseréhez történő hozzájárulás megadását követően a honvédelmi szervezetet megillető rendelkezési jog megszűnne, vagy
+a)[^151] az lakásgazdálkodási érdeket sért, különösen ha a cseréhez történő hozzájárulás megadását követően a honvédelmi szervezetet megillető rendelkezési jog megszűnne, vagy
 
 b) azzal a cserélő felek egyike aránytalanul hátrányos helyzetbe kerülne.
 
@@ -18,4 +18,4 @@ d) a HM rendelkezésű lakásba beköltözni kívánó fél nem természetes sze
 
 (4) Ha a szerződéshez más személy vagy szerv hozzájárulása is szükséges, HM rendelkezésű lakás csak e hozzájárulás megadása után adható bérbe.
 
-[^146]: A 77. § (1) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § n) pontja szerint módosított szöveg.
+[^151]: A 77. § (1) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 4. § n) pontja szerint módosított szöveg.

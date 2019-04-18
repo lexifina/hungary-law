@@ -20,7 +20,7 @@
 
 E rendelet alkalmazásában két fél lakószoba egy lakószobának felel meg.
 
-(2)[^44] Az (1) bekezdésben meghatározott igény mértékét meghaladó nagyságú lakás csak a közigazgatási államtitkár előzetes engedélyével juttatható. Nem szükséges előzetes engedély, ha az igény mértékét legfeljebb egy lakószobával meghaladó lakást tartósan beteg személy elkülönítése vagy a bérlő beosztásának, illetőleg munkájának ellátása indokolja.
+(2)[^47] Az (1) bekezdésben meghatározott igény mértékét meghaladó nagyságú lakás csak a közigazgatási államtitkár előzetes engedélyével juttatható. Nem szükséges előzetes engedély, ha az igény mértékét legfeljebb egy lakószobával meghaladó lakást tartósan beteg személy elkülönítése vagy a bérlő beosztásának, illetőleg munkájának ellátása indokolja.
 
 (3) Ahol a rendelet a HM rendelkezésű lakás meghatározott személy részére történő bérbeadását vagy a lakásbérleti jogviszony folytatását írja elő, az (1) bekezdés rendelkezéseit nem kell alkalmazni.
 
@@ -36,15 +36,15 @@ c) cselekvőképtelen elmebeteg.
 
 (6) A (2) bekezdés alkalmazásában figyelembe vehető beosztás, illetőleg munkavégzés
 
-a)[^45] a hivatásos szolgálati viszonyban, az állománytáblában dandártábornoki vagy annál magasabb rendfokozattal rendszeresített beosztás,
+a)[^48] a hivatásos szolgálati viszonyban, az állománytáblában dandártábornoki vagy annál magasabb rendfokozattal rendszeresített beosztás,
 
-b)[^46] kormánytisztviselői jogviszony alapján főosztályvezetői vagy ennél magasabb beosztás,
+b)[^49] kormánytisztviselői jogviszony alapján főosztályvezetői vagy ennél magasabb beosztás,
 
-c)[^47] hivatásos szolgálati viszony, kormánytisztviselői vagy közalkalmazotti jogviszony alapján végzett rendszeres kutatómunka, tudományos és publicisztikai tevékenység a jogszabályban meghatározott tudományos minősítés esetén.
+c)[^50] hivatásos szolgálati viszony, kormánytisztviselői vagy közalkalmazotti jogviszony alapján végzett rendszeres kutatómunka, tudományos és publicisztikai tevékenység a jogszabályban meghatározott tudományos minősítés esetén.
 
 (7) Vezetői lakás tekintetében az igény mértékét nem kell figyelembe venni.
 
-[^44]: A 10. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
-[^45]: A 10. § (6) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 1. §-ával megállapított szöveg.
-[^46]: A 10. § (6) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^47]: A 10. § (6) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^47]: A 10. § (2) bekezdése a 9/2017. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
+[^48]: A 10. § (6) bekezdés a) pontja a 26/2016. (XII. 22.) HM rendelet 1. §-ával megállapított szöveg.
+[^49]: A 10. § (6) bekezdés b) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^50]: A 10. § (6) bekezdés c) pontja a 4/2012. (IV. 5.) HM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 175. §[^208] A 167–174. §-ban foglalt rendelkezéseket a honvédelmi szervezet által üzemeltetett külügyi szállókra, szállodákra és szállodai részlegekre, továbbá a laktanyai szálláshelyekre nem kell alkalmazni.
+## 175. §[^214] A 167–174. §-ban foglalt rendelkezéseket a honvédelmi szervezet által üzemeltetett külügyi szállókra, szállodákra és szállodai részlegekre, továbbá a laktanyai szálláshelyekre nem kell alkalmazni.
 
 ## XI. Fejezet
 
@@ -8,7 +8,7 @@
 
 (2) A központi költségvetésben megállapított lakástámogatási előirányzat pénzforgalmának lebonyolítására a HM az arra jogosult pénzintézetnél „Lakásépítés és -vásárlás munkáltatói támogatása” elnevezésű számlát vezet.
 
-(3)[^209] Az e rendeletben megállapított, a (2) bekezdés szerinti körbe nem tartozó támogatások és térítési kötelezettségek teljesítése az arra illetékes honvédelmi szervezet által vezetett kincstári számláról történik.
+(3)[^215] Az e rendeletben megállapított, a (2) bekezdés szerinti körbe nem tartozó támogatások és térítési kötelezettségek teljesítése az arra illetékes honvédelmi szervezet által vezetett kincstári számláról történik.
 
-[^208]: A 175. § a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^209]: A 176. § (3) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^214]: A 175. § a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^215]: A 176. § (3) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.

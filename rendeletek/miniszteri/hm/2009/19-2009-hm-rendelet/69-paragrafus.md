@@ -10,6 +10,6 @@ c) a lakáshasználó vagy a vele együttlakó személyek a bérbeadóval vagy a
 
 d) a lakáshasználó vagy a vele együttlakó személyek a lakást, a közös használatra szolgáló helyiséget, illetőleg területet rongálják, vagy a rendeltetésével ellentétesen használják.
 
-(2)[^134] Az (1) bekezdés szerinti esetekben a lakásbérleti szerződés felmondására irányadó törvényi rendelkezéseket kell alkalmazni azzal, hogy a bérleti szerződés felmondása helyett a helyi lakásgazdálkodási szerv a megfelelő elhelyezésre nem jogosult jogcím nélküli lakáshasználatot állapítja meg, és erről a használót írásban tájékoztatja.
+(2)[^139] Az (1) bekezdés szerinti esetekben a lakásbérleti szerződés felmondására irányadó törvényi rendelkezéseket kell alkalmazni azzal, hogy a bérleti szerződés felmondása helyett a helyi lakásgazdálkodási szerv a megfelelő elhelyezésre nem jogosult jogcím nélküli lakáshasználatot állapítja meg, és erről a használót írásban tájékoztatja.
 
-[^134]: A 69. § (2) bekezdése a 15/2015. (XII. 21.) HM rendelet 29. § d) pontja szerint módosított szöveg.
+[^139]: A 69. § (2) bekezdése a 15/2015. (XII. 21.) HM rendelet 29. § d) pontja szerint módosított szöveg.

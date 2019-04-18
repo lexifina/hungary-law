@@ -1,5 +1,5 @@
-## 49. §[^104]
+## 49. §[^109]
 
 ## A lakás visszaadása
 
-[^104]: A 49. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^109]: A 49. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.

@@ -1,8 +1,8 @@
 68. § (1) Ha a lakásbérlet megszűnését követően a 34. § (1) bekezdés szerinti bérbeadás nem lehetséges, a lakás volt bérlője a (2)–(4) bekezdésben foglalt esetek kivételével e rendeletben meghatározott megfelelő elhelyezésre tarthat igényt.
 
-(2)[^129] Nem tarthat igényt megfelelő elhelyezésre az, akinek a lakásbérleti szerződése a bérleti díj vagy a bérlőt terhelő költségek és terhek megfizetésének elmulasztása vagy egyéb szerződésszegés miatti bérbeadói felmondás következtében, vagy bérlő általi rendes felmondással szűnt meg.
+(2)[^134] Nem tarthat igényt megfelelő elhelyezésre az, akinek a lakásbérleti szerződése a bérleti díj vagy a bérlőt terhelő költségek és terhek megfizetésének elmulasztása vagy egyéb szerződésszegés miatti bérbeadói felmondás következtében, vagy bérlő általi rendes felmondással szűnt meg.
 
-(3)[^130] Nem tarthat igényt megfelelő elhelyezésre az a volt bérlő, akinek a HM szolgálati lakásra 1994. január 1-je előtt határozatlan időtartamra, továbbá a HM rendelkezésű lakásra a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig szólóan kötött bérleti szerződése azért szűnt meg, mert
+(3)[^135] Nem tarthat igényt megfelelő elhelyezésre az a volt bérlő, akinek a HM szolgálati lakásra 1994. január 1-je előtt határozatlan időtartamra, továbbá a HM rendelkezésű lakásra a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig szólóan kötött bérleti szerződése azért szűnt meg, mert
 
 a) hivatásos vagy szerződéses katonai szolgálati viszonya a létesítéstől számított tíz éven belül közös megegyezéssel szűnt meg;
 
@@ -42,18 +42,18 @@ r) közalkalmazotti vagy munkavállalói jogviszonya az egészségügyi ok kivé
 
 s) közalkalmazotti jogviszonya a büntetlen előélet, továbbá a munkakörének megfelelő vagy a munkakörének részét képező foglalkozástól eltiltás hatálya alatt nem állás igazolásának elmulasztása miatt szűnt meg.
 
-(3a)[^131] A (3) bekezdés a)–k) pontjában foglaltakat nem kell alkalmazni akkor, ha a hivatásos katona a szolgálati viszony megszűnésével egyidejűleg nyugellátásra vagy a megváltozott munkaképességű személyek ellátására szerzett jogosultságot.
+(3a)[^136] A (3) bekezdés a)–k) pontjában foglaltakat nem kell alkalmazni akkor, ha a hivatásos katona a szolgálati viszony megszűnésével egyidejűleg nyugellátásra vagy a megváltozott munkaképességű személyek ellátására szerzett jogosultságot.
 
 (4) Nem igényelhet megfelelő elhelyezést az a személy, akinek a lakásbérlete a
 
 a) szerződésben kikötött határozott idő elteltével,
 
-b)[^132] 9. § (1) bekezdésben foglalt kizáró ok alóli felmentés alapján kapott lakás tekintetében, a 30. § (1) bekezdés szerint kikötött feltétel bekövetkezésével,
+b)[^137] 9. § (1) bekezdésben foglalt kizáró ok alóli felmentés alapján kapott lakás tekintetében, a 30. § (1) bekezdés szerint kikötött feltétel bekövetkezésével,
 
-c)[^133] 30. § (1) bekezdéstől eltérően kikötött feltétel bekövetkezésével
+c)[^138] 30. § (1) bekezdéstől eltérően kikötött feltétel bekövetkezésével
 
-[^129]: A 68. § (2) bekezdése a 15/2015. (XII. 21.) HM rendelet 7. §-ával megállapított szöveg.
-[^130]: A 68. § (3) bekezdése a 22/2013. (X. 7.) HM rendelet 8. § (1) bekezdésével megállapított, nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 30. § d) pontja szerint módosított szöveg.
-[^131]: A 68. § (3a) bekezdését a 22/2013. (X. 7.) HM rendelet 8. § (2) bekezdése iktatta be.
-[^132]: A 68. § (4) bekezdés b) pontja a 15/2015. (XII. 21.) HM rendelet 30. § e) pontja szerint módosított szöveg.
-[^133]: A 68. § (4) bekezdés c) pontja a 15/2015. (XII. 21.) HM rendelet 30. § f) pontja szerint módosított szöveg.
+[^134]: A 68. § (2) bekezdése a 15/2015. (XII. 21.) HM rendelet 7. §-ával megállapított szöveg.
+[^135]: A 68. § (3) bekezdése a 22/2013. (X. 7.) HM rendelet 8. § (1) bekezdésével megállapított, nyitó szövegrésze a 15/2015. (XII. 21.) HM rendelet 30. § d) pontja szerint módosított szöveg.
+[^136]: A 68. § (3a) bekezdését a 22/2013. (X. 7.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^137]: A 68. § (4) bekezdés b) pontja a 15/2015. (XII. 21.) HM rendelet 30. § e) pontja szerint módosított szöveg.
+[^138]: A 68. § (4) bekezdés c) pontja a 15/2015. (XII. 21.) HM rendelet 30. § f) pontja szerint módosított szöveg.
