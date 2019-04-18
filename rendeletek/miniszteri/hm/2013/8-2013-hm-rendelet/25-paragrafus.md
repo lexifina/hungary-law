@@ -1,9 +1,3 @@
-## 24. § A HM vagyonkezelésű lakóépületben lévő vagy ahhoz tartozó gépkocsi tároló, valamint nem lakáscélú helyiség elidegenítésére a HM vagyonkezelésű lakásra vonatkozó szabályokat az E fejezetben foglalt eltérésekkel kell alkalmazni.
+## 24. §[^40] A HM vagyonkezelésű gépkocsi tároló helyiség és állóhely vonatkozásában a lakás elidegenítésére vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a 8. § (1) bekezdése akkor sem alkalmazható, ha az R. 9. § (1) bekezdés c) és d) pontjában megjelölt személy állami vagy önkormányzati tulajdonú személygépkocsi tároló helyiség, állóhely tulajdonjogát kedvezményes vásárlás útján szerezte meg.
 
-25. § (1) A gépkocsi tároló vételára
-
-a) a forgalmi érték 85%-a, ha azt a 6. § (1) és (2) bekezdésében meghatározott feltételekkel rendelkező bérlő vásárolja meg, és a vételárat az adásvételi szerződés megkötésekor egyösszegben megfizeti,
-
-b) minden más esetben a forgalmi érték 100%-a.
-
-(2) A gépkocsi tároló elidegenítése esetén a szolgálati idő elismerésre vonatkozó szabályokat nem lehet alkalmazni.
+[^40]: A 24. § a 6/2019. (IV. 15.) HM rendelet 20. §-ával megállapított szöveg.

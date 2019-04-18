@@ -6,11 +6,11 @@
 
 (3) HM általi értékesítés esetén az elidegenítés teljes körű lebonyolításáról és az adásvételi szerződés megkötéséről a HM vagyonkezelői feladatokat ellátó szerv gondoskodik.
 
-(4) A HM általi értékesítés teljes körű lebonyolítására a közbeszerzésre vonatkozó szabályok betartásával, gazdálkodó szervezettel megbízási szerződés is köthető, ha ahhoz a miniszter és a tulajdonosi joggyakorló előzetesen hozzájárult.
+(4)[^8]
 
 (5) Az elidegenítés teljes körű lebonyolítása magában foglalja
 
-a) a társasház alapítását és annak ingatlan-nyilvántartási bejegyeztetését,
+a)[^9]
 
 b) a vételár e rendelet szerint megállapítását,
 
@@ -21,3 +21,6 @@ d) az adásvételi szerződések és a tulajdonjog változáshoz kapcsolódó eg
 e) az ingatlan-nyilvántartási eljáráshoz kapcsolódó intézkedések megtételét, valamint
 
 f) az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben előírt energetikai tanúsítvány elkészítését.
+
+[^8]: Az 5. § (4) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § b) pontja hatályon kívül helyezte.
+[^9]: Az 5. § (5) bekezdés a) pontját a 6/2019. (IV. 15.) HM rendelet 23. § c) pontja hatályon kívül helyezte.

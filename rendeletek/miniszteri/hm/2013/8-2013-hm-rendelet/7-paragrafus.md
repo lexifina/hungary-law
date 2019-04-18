@@ -1,7 +1,5 @@
-7. § (1) Az elidegenítésre kijelölt HM vagyonkezelésű lakás vételárát a beköltözhető forgalmi érték (a továbbiakban: forgalmi érték) alapján kell megállapítani. A forgalmi értékből, ha az nem tartozik a bérlői kötelezettségek körébe, le kell vonni a bérlő, használó lakásra fordított és meg nem térített, számlával igazolt, értéknövelő beruházásának összegét.
+7. §[^11] (1) Az elidegenítésre kijelölt HM vagyonkezelésű lakás vételárát a beköltözhető, becsült forgalmi érték (a továbbiakban: forgalmi érték) alapján kell megállapítani.
 
-(2) Ha a forgalmi érték alapján készített vételi ajánlat megtételétől számított 1 év eltelt, új ingatlan-értékbecslést kell készíttetni és a vételi ajánlatot az alapján kell megtenni.
+(2) Ha a rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő lakást a bérlő és a bérbeadó megállapodása folytán a bérlő újította fel, a forgalmi értékből le kell vonni a bérlő számlával igazolt beruházási költségeinek a lakbérbe be nem számított részét.
 
-(3) A (2) bekezdésben foglaltak szerint kell eljárni akkor is, ha a lakás megvásárlására jogosult személy a vételi ajánlatra az abban megállapított határidőn belül nem vagy nemlegesen nyilatkozott, azonban később a lakás elidegenítését kéri.
-
-(4) Az ingatlannak a (2) és a (3) bekezdés alapján elkészített új értékbecslési költsége a vételi szándékát utólagosan bejelentő személyt terheli.
+[^11]: A 7. § a 6/2019. (IV. 15.) HM rendelet 13. §-ával megállapított szöveg.

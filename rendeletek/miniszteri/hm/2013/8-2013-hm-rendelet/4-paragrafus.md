@@ -1,11 +1,5 @@
-4. § (1) Az elidegenítésre előkészített HM vagyonkezelésű lakások értékesítésére vonatkozó javaslatot
+4. §[^7] (1) Az előkészítést követően a HM vagyonkezelésű lakás elidegenítésére vonatkozó javaslatot a HM vagyonkezelői feladatokat ellátó szerv terjeszti elő a HM központi lakásgazdálkodási szerv részére.
 
-a) a HM vagyonkezelői feladatokat ellátó szerv a HM központi lakásgazdálkodási szerv útján, vagy
+(2) A HM vagyonkezelésű lakás elidegenítéséhez szükséges hozzájárulást a HM központi lakásgazdálkodási szerv kéri meg a tulajdonosi joggyakorlótól.
 
-b) megbízási szerződés alapján történő előkészítés esetén a megbízott a HM vagyonkezelői feladatokat ellátó szerv és a HM központi lakásgazdálkodási szerv útján
-
-## terjeszti elő a miniszternek.
-
-(2)[^5] Az elidegenítésre előkészített lakások értékesítésének engedélyezésére vonatkozó javaslatot a Honvéd Vezérkar főnöke véleményének kikérését követően a miniszter küldi meg a tulajdonosi joggyakorlónak.
-
-[^5]: A 4. § (2) bekezdése a 24/2013. (XII. 20.) HM rendelet 4. § c) pontja szerint módosított szöveg.
+[^7]: A 4. § a 6/2019. (IV. 15.) HM rendelet 12. §-ával megállapított szöveg.
