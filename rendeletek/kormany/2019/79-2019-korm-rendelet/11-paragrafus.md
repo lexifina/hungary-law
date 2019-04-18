@@ -1,1 +1,3 @@
-## 10. § Hatályát veszti az 549/2013. (XII. 30.) Korm. rendelet 38. § c) pont cb) alpontja.
+## 1–10. §[^2]
+
+[^2]: Az 1–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

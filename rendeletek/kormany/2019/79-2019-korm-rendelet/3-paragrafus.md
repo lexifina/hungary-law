@@ -1,3 +1,0 @@
-## 2. § Az 549/2013. (XII. 30.) Korm. rendelet 6. §-a a következő (1c) bekezdéssel egészül ki:
-
-## „(1c) Az EGT, Norvég Alap támogatásból megvalósuló projektek 2014–2021 előirányzat (XIX. fejezet 2. cím 6. alcím 8. jogcímcsoport) felhasználása lehetséges az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus 2014–2021-es időszakának a norvég szabályzat 8.11. cikk 2. pont (i) alpontja szerinti előkészítéséhez kapcsolódóan a nemzeti kapcsolattartónál az együttműködési megállapodás aláírásáig felmerülő azon költség finanszírozására, amely a norvég szabályzat 8.11. cikk 8. pontja alapján az együttműködési megállapodás aláírása esetén a donor ország felé elszámolhatóvá válik.”
