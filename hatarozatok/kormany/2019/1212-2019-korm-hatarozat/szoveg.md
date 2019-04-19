@@ -16,4 +16,6 @@ Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: az 1. pont teljesítését követően azonnal
 
-3. visszavonja az infokommunikációs tárgyú beszerzések, valamint az infokommunikációs infrastruktúra központi nyilvántartásáról szóló 1235/2016. (V. 13.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
