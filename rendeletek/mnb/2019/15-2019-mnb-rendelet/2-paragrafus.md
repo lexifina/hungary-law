@@ -6,21 +6,24 @@
 
 (3) A 38/2018. (XI. 14.) MNB rendelet
 
-a) 1. melléklet I. pontjában foglalt táblázat 2. sora szerinti AL8 MNB azonosító kódú adatszolgáltatás tekintetében az adatszolgáltatás megnevezését meghatározó mezőben az „NHP és az NHP+” szövegrész helyébe az „NHP, az NHP+ és az NHP fix” szöveg, az adatszolgáltatás adatszolgáltatói körét meghatározó mezőben az „illetve a Növekedési Hitelprogram Pluszban (a továbbiakban: NHP+)” szövegrész helyébe az „a Növekedési Hitelprogram Pluszban (a továbbiakban: NHP+), illetve a Növekedési Hitelprogram Fixben (a továbbiakban: NHP fix)” szöveg, az adatszolgáltatás határidejét meghatározó mezőben a „pillére és az NHP+” szövegrész helyébe a „pillére, az NHP+ és az NHP fix” szöveg,
+a)[^8]
 
-b)[^5]
+b)[^9]
 
-c)[^6]
+c)[^10]
 
-d)[^7]
+d)[^11]
 
-e) 2. melléklet I. B. 3. pont 3.2., 3.5. és 3.6. alpontjában az „L74 és P56” szövegrészek helyébe az „L74, P56, P67, P68, P69, W08” szöveg,
+e)[^12]
 
-f)[^8]
+f)[^13]
 
-g) 2. melléklet II. pontjában az AL8 MNB azonosító kódú adatszolgáltatás táblája címében az „NHP és az NHP+” szövegrész helyébe az „NHP, az NHP+ és az NHP fix” szöveg
+g)[^14]
 
-[^5]: A 2. § (3) bekezdés b) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^6]: A 2. § (3) bekezdés c) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^7]: A 2. § (3) bekezdés d) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^8]: A 2. § (3) bekezdés f) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^8]: A 2. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 2. § (3) bekezdés b) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^10]: A 2. § (3) bekezdés c) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^11]: A 2. § (3) bekezdés d) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^12]: A 2. § (3) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 2. § (3) bekezdés f) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^14]: A 2. § (3) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
