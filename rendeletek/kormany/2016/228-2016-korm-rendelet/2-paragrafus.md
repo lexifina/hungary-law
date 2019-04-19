@@ -2,7 +2,7 @@
 
 (2) Az informatikai fejlesztések egységességének és az informatikai rendszerek együttműködési képességének biztosítása érdekében az állami szerv az (1) bekezdés szerinti informatikai fejlesztési tervét – a nemzetbiztonsági szolgálatokat, a törvényben meghatározott zárt célú elektronikus információs rendszereket (a nemzetbiztonsági, honvédelmi, rendészeti, diplomáciai információs feladatok ellátását biztosító, rendeltetése szerint elkülönült elektronikus információs rendszer), valamint a minősített adatokat tartalmazó beszerzések és infokommunikációs infrastruktúrákat kivéve – évente, a tárgyév február 15-éig a KIBER-rendszeren keresztül bejelenti a miniszternek.
 
-(3) Az informatikáért felelős miniszter a miniszter 3. § szerinti álláspontja kialakítása érdekében a miniszter részére az informatikai fejlesztési tervek tekintetében megfelelő hozzáférést biztosít a KIBER-rendszerben.
+(3)[^3] A Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság a miniszter 3. § szerinti álláspontja kialakítása érdekében a miniszter részére az informatikai fejlesztési tervek tekintetében megfelelő hozzáférést biztosít a KIBER rendszerben. A miniszter álláspontja és az azzal kapcsolatos adatok – ideértve az állami szerv által megküldött adatokat, valamint az állami szerv és a miniszter közötti e rendelet szerinti ügyekben történt kommunikációt – a KIBER rendszerben rögzítésre kerülnek.
 
 (4) A miniszter a bejelentést véleményezés céljából megküldi az Elektronikus Ügyintézési Felügyeletnek (a továbbiakban: Felügyelet) és az elektronikus információs rendszerek biztonságának felügyeletét ellátó hatóságnak.
 
@@ -13,3 +13,5 @@
 (7) Ha a (6) bekezdés szerinti bejelentés-módosítás egyben olyan beszerzési igény, amelyhez a bejelentés tárgya és a bejelentő miatt a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet (a továbbiakban: R1.) vagy a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet (a továbbiakban: R2.) alapján a miniszter jóváhagyása szükséges, a bejelentést a beszerzési igény ezen jóváhagyási kérelmével, e rendeletek szerint meghatározott dokumentáció csatolásával együttesen, az R1. vagy R2. rendeletben előírt módon kell benyújtani.
 
 (8) A (7) bekezdés szerinti bejelentés-módosítást a miniszter az R1. vagy az R2. szerinti kérelemmel együtt bírálja el, az eljárás határidejére az R1., valamint az R2. rendelkezéseit kell alkalmazni. A miniszter a 4. § (1) bekezdése szerinti döntését az R1., valamint az R2. szerinti kérelemre vonatkozó döntésével együtt közli.
+
+[^3]: A 2. § (3) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
