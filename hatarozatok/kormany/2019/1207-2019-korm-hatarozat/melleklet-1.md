@@ -46,12 +46,17 @@
 
 ## Határidő: azonnal
 
-## 6. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1741/2015. (X. 13.) Korm. határozat 1. pontjában a „2019. június 30.” szövegrész helyébe a „2020. június 30.” szöveg lép.
+## 6.[^1]
 
-## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és Korm. határozat módosításáról szóló 1494/2016. (IX. 15.) Korm. határozat 1. pontjában a „2019. június 30.” szövegrész helyébe a „2020. június 30.” szöveg lép.
+## 7.[^2]
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 1. pont b) alpontjában az „és a Közbeszerzési és Ellátási Főigazgatóság cím részére biztosított 3 556 000 000 forint tekintetében 2018. december 31.;” szövegrész helyébe a „2018. december 31.; a Közbeszerzési és Ellátási Főigazgatóság cím részére biztosított 3 556 000 000 forint,” szöveg lép.
+## 8.[^3]
 
-## 9. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 2. pont e) alpont ea) pontjában a „Tarján–Héreg–Mogyorósbánya–Tát–(Esztergom)” szövegrész helyébe a „Tarján–Bajót–(Péliföldszentkereszt)” szöveg lép.
+## 9.[^4]
 
 1. melléklet az 1207/2019. (IV. 18.) Korm. határozathoz
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
