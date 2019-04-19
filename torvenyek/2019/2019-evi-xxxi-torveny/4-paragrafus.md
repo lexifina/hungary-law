@@ -1,0 +1,1 @@
+4. § A Fót külterület 0242 és Fót külterület 0204/1 helyrajzi számú ingatlan vonatkozásában a vagyonkezelő és a tulajdonosi joggyakorló közt létrejött szerződésen alapuló vagyonkezelői jogok e törvény erejénél fogva 2020. augusztus 31-i hatállyal megszűnnek. A vagyonkezelő és a tulajdonosi joggyakorló között elszámolási és megtérítési kötelezettség nem keletkezik.

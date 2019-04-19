@@ -1,0 +1,1 @@
+2. § Az ingatlanok vonatkozásában az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.), a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.), valamint a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
