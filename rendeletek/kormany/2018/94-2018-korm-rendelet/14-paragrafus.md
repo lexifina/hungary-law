@@ -38,11 +38,11 @@
 
 18. társadalmi és civil kapcsolatok fejlesztéséért,
 
-19.[^2] üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért,
+19.[^5] üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért,
 
-20.[^3] ingatlan-nyilvántartásért,
+20.[^6] ingatlan-nyilvántartásért,
 
-21.[^4] térképészetért
+21.[^7] térképészetért
 
 felelős tagja.
 
@@ -54,6 +54,6 @@ felelős tagja.
 
 (5) A miniszter a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kérhet a kormányzati szervektől, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek számára.
 
-[^2]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 14. § (1) bekezdés 20. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^4]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^5]: A 14. § (1) bekezdés 19. pontját a 172/2018. (IX. 26.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 14. § (1) bekezdés 20. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^7]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.

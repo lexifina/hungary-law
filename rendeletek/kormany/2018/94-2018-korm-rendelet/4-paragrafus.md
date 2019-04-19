@@ -1,3 +1,5 @@
+## 3/A. §[^1] A miniszterelnök a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló Korm. rendelet szerint az abban meghatározott szervezetek tekintetében gondoskodik az e-közigazgatási és informatikai fejlesztések egységesítéséről.
+
 ## II. Fejezet
 
 ## A KORMÁNYZATI KÖZPONT
@@ -41,3 +43,5 @@ i) koordinálja az alkotmányos szervek, az önálló szabályozó szervek és a
 j) ellátja az állami vezetők állami vezetői szolgálati jogviszonyával kapcsolatos személyügyi műveleteket,
 
 k) biztosítja az állami vezetők munkavégzéséhez szükséges tárgyi eszközellátást.
+
+[^1]: A 3/A. §-t a 83/2019. (IV. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be.
