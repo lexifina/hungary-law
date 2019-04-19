@@ -26,14 +26,11 @@
 
 ## 1.4. egyetért azzal, hogy a belügyminiszter az 1.3. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően támogatási előlegként folyósítsa a kedvezményezett települési önkormányzatok számára.
 
-## 2. A helyi érdekű települési fejlesztések érdekében szükséges források biztosításáról, valamint a IX. Helyi önkormányzatok támogatásai és a XX. Emberi Erőforrások Minisztériuma költségvetési fejezetek közötti előirányzat-átcsoportosításról szóló 1717/2017. (X. 3.) Korm. határozat 3. pontjában foglalt táblázat 60. sorában a „Szent Imre Általános Iskola tornacsarnok építése” szövegrész helyébe a „sportcsarnok építése támogatásnyújtással” szöveg lép.
+## 2.[^1]
 
-## 3. A települési önkormányzatok 2019. évi feladatainak támogatásáról szóló 1004/2019. (I. 18.) Korm. határozat 1. mellékletében foglalt táblázat
-
-## a) 12. sorában a „Vasmű út aszfaltburkolata kopórétege cseréjének támogatása” szövegrész helyébe a „Vasmű út belvárosi szakaszának út- és járdafelújítása, a gyalogos zóna közvilágítás-fejlesztésével” szöveg,
-
-## b) 33. sorában a „Sóstó Gyógyfürdők fejlesztésére felvett svájcifrank-alapú hitel törlesztésének támogatása” szövegrész helyébe az „önkormányzati fejlesztések” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1215/2019. (IV. 18.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
