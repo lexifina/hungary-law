@@ -1,33 +1,51 @@
 ## megküldeni.
 
-8. § (1) A Digitális Kormányzati Ügynökség az érintett szervezet részére hiánypótlásra a beérkezést követő 12 munkanapon belül visszaküldi a 7. § a)–c) pontjában foglalt olyan tervet vagy igényt, amely
+8. §[^18] (1) A DKÜ az érintett szervezet részére, annak kézhezvételétől számított 5 munkanapon belül, visszaküldheti az éves informatikai beszerzési tervet vagy éves informatikai fejlesztési tervet, ha azt észleli, hogy az
 
-a) formai szempontból nem megfelelő vagy
+a) formailag vagy tartalmilag nem megfelelő,
 
-b) hiányos.
+b) hiányos, vagy
 
-(2) Az (1) bekezdésben meghatározott esetben a Digitális Kormányzati Ügynökség röviden indokolja döntését és javaslatot tesz az érintett szervezet részére a 7. § a)–c) pontjában meghatározott terv vagy igény átdolgozásának szempontjaira. A Digitális Kormányzati Ügynökség az ismételt megküldésre 5 munkanap határidőt állapít meg.
+c) nincsen összhangban a kormányzati informatikai fejlesztések irányával.
 
-(3) Az érintett szervezet a Digitális Kormányzati Ügynökség által meghatározott indokolás és szempontok alapján átdolgozott tervet a Digitális Kormányzati Ügynökség részére a (2) bekezdésben megállapított határidőn belül küldheti vissza.
+(2) Az (1) bekezdésben meghatározott esetben a DKÜ megjelöli a hiánypótlás vagy az átdolgozás kérésének okát, és ennek keretében – ha az indokolt – javaslatot tesz az érintett szervezet részére az éves informatikai beszerzési terv vagy éves informatikai fejlesztési terv átdolgozásának szempontjaira. A DKÜ az éves informatikai beszerzési terv vagy éves informatikai fejlesztési terv ismételt megküldésére legalább 2, legfeljebb 10 munkanapos határidőt állapít meg.
 
-(4) A Digitális Kormányzati Ügynökség a 7. § a) pontjában meghatározott éves informatikai beszerzési terveket és informatikai fejlesztési terveket összesíti, és véleményezés céljából megküldi az NHIT részére.
+(3) A DKÜ az egyes érintett szervezetek által megküldött éves informatikai beszerzési terveket és éves informatikai fejlesztési terveket összesíti, – ha az indokolt – észrevételekkel, javaslatokkal látja el, majd véleményezés céljából megküldi az NHIT részére.
 
-(5) Az érintett szervezetekre vonatkozó, a 7. § a) pontja szerinti éves informatikai beszerzési tervvel és az informatikai fejlesztési tervvel kapcsolatos álláspontját az NHIT a kézhezvételtől számított 60 napon belül köteles közölni. Az NHIT jóváhagyását e határidőben a Digitális Kormányzati Ügynökség részére küldi meg. Az NHIT jóváhagyását megadottnak kell tekinteni, ha az NHIT a jelen pontban megjelölt határidőben jóváhagyást megtagadó választ nem ad ki.
+(4) Az egyes érintett szervezetekre vonatkozó, az éves informatikai beszerzési tervvel és éves informatikai fejlesztési tervvel kapcsolatos véleményét az NHIT a kézhezvételtől számított 60 napon belül köteles a DKÜ-vel közölni. Az NHIT a véleménye kialakítása előtt a miniszterrel egyeztethet.
 
-(6) Ha az NHIT az érintett szervezet éves informatikai beszerzési tervét vagy informatikai fejlesztési tervét vagy azok egyes részeit nem hagyja jóvá
+(5) Az NHIT véleménye szerint az éves informatikai beszerzési terv és éves informatikai fejlesztési terv
 
-a) az érintett szervezettől a Digitális Kormányzati Ügynökség útján felvilágosítást kérhet,
+a) végrehajtásra javasolt,
 
-b) az érintett szervezet részére a Digitális Kormányzati Ügynökség útján hiánypótlást bocsájthat ki.
+b) végrehajtásra részben javasolt vagy
 
-(7) A (6) bekezdés a) pontja esetén a felvilágosítást 10 munkanap alatt kell az érintett szervezetnek a Digitális Kormányzati Ügynökségen keresztül az NHIT-nek megadni.
+c) végrehajtásra nem javasolt
 
-(8) A (6) bekezdés b) pontja esetén az NHIT az érintett szervezetekre vonatkozó, a 7. § a) pontja szerinti éves informatikai beszerzési terv és informatikai fejlesztési terv kézhezvételétől számított 40. napig bocsájthat ki hiánypótlást.
+## lehet.
 
-(9) Az érintett szervezet a (6) bekezdés b) pontja alapján visszaküldött éves informatikai beszerzési terv vagy informatikai fejlesztési terv egészét vagy kifogásolt részét 10 munkanapon belül, az NHIT által közölt szempontok alapján átdolgozza és a Digitális Kormányzati Ügynökség útján az NHIT részére megküldi. Ezt követően az NHIT a (6) bekezdés alapján jár el azzal, hogy az NHIT eljárása az (5) bekezdésben foglalt határidőt nem haladhatja meg.
+(6) Az NHIT a véleménye kialakítása során informatikai szakmai szempontokat és kormányzati fejlesztési szempontokat is figyelembe vesz, a véleményét a rendelkezésre álló információk alapján alakítja ki. Az (5) bekezdés b) és c) pontja szerinti véleményét az NHIT indokolni köteles.
 
-(10) Ha az (5) bekezdésben meghatározott határidő úgy telik el, hogy az érintett szervezet az NHIT által meghatározottakat nem hajtja végre, úgy az éves informatikai beszerzési terv vagy informatikai fejlesztési terv engedélyezési eljárása eredménytelen, ennek tényéről az NHIT az érintett szervezetet a Digitális Kormányzati Ügynökségen keresztül tájékozatja.
+(7) Ha az érintett szervezet éves informatikai beszerzési tervének vagy éves informatikai fejlesztési tervének véleményezéséhez szükséges, annak kézhezvételétől számított 30 napon belül az NHIT
 
-(11) Az NHIT a jóváhagyott a 7. § a) pontja szerinti éves informatikai beszerzési tervet és az informatikai fejlesztési tervet a Digitális Kormányzati Ügynökségnek küldi meg. A Digitális Kormányzati Ügynökség az NHIT által jóváhagyott tervet nyilvántartásba veszi, és a miniszternek megküldi.
+a) az érintett szervezettől a DKÜ útján felvilágosítást kérhet, valamint
 
-(12) Az éves informatikai beszerzési terv és az informatikai fejlesztési terv végrehajthatóságáról a miniszter – az NHIT álláspontjának figyelembevételével – dönt.
+b) az érintett szervezettől a DKÜ útján hiánypótlást, átdolgozást kérhet, és ennek keretében – ha azt indokoltnak tartja – javaslatot tesz az érintett szervezet részére az éves informatikai beszerzési terv vagy éves informatikai fejlesztési terv átdolgozásának szempontjaira.
+
+(8) A (7) bekezdés a) és b) pontja esetén a DKÜ az érintett szervezetet a kérés kézhezvételétől számított 2 munkanapon belül felvilágosítás nyújtására, valamint hiánypótlásra szólítja fel.
+
+(9) Az érintett szervezet a (7) bekezdés a) és b) pontja szerinti felvilágosítást, valamint hiánypótlást a (8) bekezdés szerinti felszólítás kézhezvételétől számított 8 munkanapon belül a DKÜ részére küldi meg, aki azt a kézhezvételtől számított 2 munkanapon belül köteles az NHIT részére továbbítani. Az NHIT az (5) bekezdés szerinti véleményét a DKÜ részére küldi meg.
+
+(10) A DKÜ az érintett szervezet éves informatikai beszerzési tervét vagy éves informatikai fejlesztési tervét, az NHIT (5) bekezdés szerinti véleményével együtt, nyilvántartásba veszi. Ha az NHIT a véleményét a (4) bekezdésben foglalt határidőn belül nem közli, az érintett szervezet éves informatikai beszerzési tervét vagy éves informatikai fejlesztési tervét az (5) bekezdés a) pontja szerint kell nyilvántartásba venni.
+
+(11) A (5) bekezdés a) és b) pontja szerint nyilvántartásba vett éves informatikai beszerzési terv vagy éves informatikai fejlesztési terv végrehajtásra javasolt elemei a miniszter jóváhagyásával hajthatóak végre. A miniszter általi jóváhagyásra történő előterjesztésről a DKÜ gondoskodik.
+
+(12) A DKÜ a (10) bekezdés szerinti nyilvántartásba vételt, továbbá a 12. § (4) bekezdés szerinti miniszteri döntést, az erre okot adó körülmény bekövetkezését követő 2 munkanapon belül az érintett szervezettel közli.
+
+(13) Az éves informatikai beszerzési terv és az informatikai fejlesztési terv végrehajthatóságáról a miniszter – az NHIT álláspontjának figyelembevételével – dönt.
+
+(14) Ha az NHIT véleménye szerint az éves informatikai beszerzési terv vagy az éves informatikai fejlesztési terv egésze vagy annak valamely része végrehajtásra nem javasolt, vagy javasolt, de azt a miniszter nem hagyta jóvá, az átdolgozott terv véleményezés, valamint jóváhagyás céljából ismételten előterjeszthető.
+
+(15) A (10) bekezdés szerinti nyilvántartásba vételt, továbbá a (11) bekezdés szerinti miniszteri jóváhagyást követően az éves informatikai beszerzési terv vagy éves informatikai fejlesztési terv módosítását az érintett szervezet bármikor kezdeményezheti. Ebben az esetben a 7. § a) pontja, valamint az (1)–(14) bekezdés megfelelően alkalmazandó.
+
+[^18]: A 8. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.

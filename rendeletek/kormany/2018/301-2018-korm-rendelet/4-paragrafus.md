@@ -1,35 +1,47 @@
-4. § (1) Az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (a továbbiakban: miniszter)
+4. §[^12] (1) A miniszter – a 3. § (1) bekezdésében foglaltak érvényesítése érdekében – az e rendeletben foglaltak szerint
 
-a) ellátja az érintett szervezetek informatikai beszerzési tevékenységének szakmai felügyeletét;
+a) jóváhagyja az egyes informatikai fejlesztések végrehajtását,
 
-b) e rendeletben meghatározottak szerint elbírálja az érintett szervezetek informatikai beszerzésre vonatkozó igényeit;
+b) jóváhagyja az egyes informatikai beszerzésekre vonatkozó igényeket,
 
-c) a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 13. §-ában meghatározottakkal összhangban figyelemmel kíséri e rendelet alkalmazása során az NHIT által meghatározott e-közigazgatási és informatikai fejlesztési irányok megvalósulását.
+c) a DKÜ útján ellenőrzi az egyes informatikai beszerzések esetében e rendelet szabályainak a betartását,
 
-(2) A Digitális Kormányzati Ügynökség
+d) az a)–c) pontok szerinti tevékenységén keresztül felügyeli a Kormány informatikai és e-közigazgatási stratégiájának végrehajtását.
 
-a) közreműködik a miniszter (1) bekezdés a)–c) pontjában meghatározott feladatainak ellátásában;
+(2) A DKÜ
 
-b) koordinálja és ellenőrzi az érintett szervezetek informatikai beszerzési tevékenységének megvalósítását, javaslatot tesz egyes informatikai fejlesztések megvalósításának módjára;
+a) közreműködik a miniszter (1) bekezdésben meghatározott feladatainak ellátásában,
 
-c) összehangolja az érintett szervezetek informatikai beszerzési tevékenységeit biztosító szolgáltatásokat;
+b) javaslattevőként közreműködik az NHIT (3) bekezdés a) és b) pontja szerinti feladatainak ellátásában,
 
-d) megvizsgálja az érintett szervezetek éves összesített informatikai beszerzési tervét, költségkerettervét, továbbá informatikai beszerzési igényét;
+c) vizsgálja, véleményezésre, jóváhagyásra előkészíti az érintett szervezetek
 
-e) központi beszerző szervként lebonyolítja az e rendeletben meghatározott keretek között az érintett szervek informatikai tárgyú beszerzéseit;
+ca) informatikai beszerzési és fejlesztési tervét,
 
-(3)[^2] Az NHIT stratégiai tudományos tevékenységként végzi a Kormány részére a következő feladatokat:
+cb) informatikai beszerzési igényét,
 
-a) véleményezi a kormányzati informatikai beszerzésekre és alkalmazásfejlesztésekre vonatkozó javaslatokat;
+cc) rendkívüli informatikai beszerzésre vonatkozó igényét, valamint
 
-b) javaslatot tesz a kormányzati informatikai fejlesztések és alkalmazásfejlesztések irányának meghatározására;
+cd) üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igényét,
 
-c) a miniszterelnök felkérésére véleményezi a Kormány hírközléssel és az informatikával összefüggő előterjesztéseit, egyedi döntéseit.
+d) összehangolja az érintett szervezetek informatikai beszerzési igényeit,
 
-(4)[^3] Az NHIT a kormányzati informatikai beszerzésekkel kapcsolatos stratégiai tudományos feladatkörében minden évben megvizsgálja a Digitális Kormányzati Ügynökség által a miniszternek beterjesztett éves informatikai beszerzési terveket, valamint informatikai fejlesztési terveket.
+e) központi beszerző szervként – az e rendeletben meghatározott keretek között – az érintett szervezetek nevében és javára eljárva lefolytatja az érintett szervek a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti informatikai beszerzéseit,
 
-(5)[^4] Az NHIT ellátja a kormányzati informatikai beszerzésekkel kapcsolatban e rendeletben meghatározott stratégiai tudományos feladatokat.
+f) ellenőrzi az egyes informatikai beszerzések esetében e rendelet szabályainak betartását.
 
-[^2]: A 4. § (3) bekezdése a 31/2019. (III. 1.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^3]: A 4. § (4) bekezdése a 31/2019. (III. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^4]: A 4. § (5) bekezdése a 31/2019. (III. 1.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+(3) Az NHIT stratégiai tudományos tevékenységként végzi a Kormány részére a következő feladatokat:
+
+a) véleményezi a kormányzati informatikai beszerzésekre és alkalmazásfejlesztésekre vonatkozó javaslatokat,
+
+b) elemzi, értékeli és véleményezi a kormányzati informatikai fejlesztéseket és beszerzéseket, javaslatokat tesz a kormányzati informatikai fejlesztések irányának rövid, közép- és hosszú távú meghatározására,
+
+c) elemzi, értékeli és véleményezi a kormányzati informatikai fejlesztések és beszerzések döntési, irányítási és engedélyeztetési folyamatát, javaslatokat dolgoz ki ezek egyszerűsítésére és a folyamatok gyorsítására, egységesítés érdekében történő átalakítására,
+
+d) a miniszterelnök felkérésére véleményezi a Kormány hírközléssel és informatikával összefüggő előterjesztéseit, egyedi döntéseit.
+
+(4) Az NHIT a kormányzati informatikai beszerzésekkel kapcsolatos stratégiai tudományos feladatkörében minden évben megvizsgálja a DKÜ által a miniszternek beterjesztett éves informatikai beszerzési terveket, valamint informatikai fejlesztési terveket.
+
+(5) Az NHIT stratégiai tudományos tevékenysége keretében ellátja az e rendeletben részére meghatározott feladatokat.
+
+[^12]: A 4. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.

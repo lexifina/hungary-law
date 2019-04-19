@@ -1,5 +1,5 @@
-## 2. § A Digitális Kormányzati Ügynökség a kormányzati informatikai beszerzések központosításával és az egyes informatikai beruházások szükségességéről szóló döntés központosításával kapcsolatos – e rendeletben meghatározott – állami feladatokat közfeladatként látja el.
+3. §[^11] (1) A miniszter a miniszterelnök nevében az e rendeletben foglaltak alkalmazásán keresztül egységesíti és összehangolja a kormányzati informatikai fejlesztéseket és beszerzéseket, továbbá ennek érdekében a Kormány irányítása vagy felügyelete alá tartozó érintett szervezetek munkáját.
 
-3. § (1) Az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter a Digitális Kormányzati Ügynökségen keresztül összehangolja a kormányzati informatikai beszerzések körében a Kormány irányítása vagy felügyelete alá tartozó szervek munkáját.
+(2) A miniszterelnök és a miniszter e rendelet szerinti hatásköre a 12. § (2) bekezdés b) pontjában meghatározott kivétellel nem terjed ki az irányító hatósági feladatokat ellátó minisztériumi szervezeti egységek feladat- és hatáskörébe tartozó kérdésekre.
 
-(2) A miniszter (1) bekezdés szerinti hatásköre, a 12. § (4) bekezdés b) pontjában meghatározott kivétellel, nem terjed ki az irányító hatósági feladatokat ellátó minisztériumi szervezeti egységek feladat- és hatáskörébe tartózó kérdésekre.
+[^11]: A 3. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.

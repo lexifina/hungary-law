@@ -1,3 +1,3 @@
-23. § (1) Az NHIT elnöke az NHIT ülését két rendes ülés között összehívhatja (rendkívüli ülés).
+## 22. §[^29]
 
-(2) Az NHIT elnöke az NHIT rendkívüli ülését összehívja, amennyiben azt a tagok fele vagy a miniszterelnök kezdeményezi.
+[^29]: A 22. §-t a 83/2019. (IV. 18.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.

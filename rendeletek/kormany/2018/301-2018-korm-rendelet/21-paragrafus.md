@@ -1,3 +1,5 @@
-21. § (1) Az NHIT legalább havonta egy alkalommal ülésezik (rendes ülés).
+21. § (1)[^28] Az NHIT az ügyrendjét maga határozza meg, de havonta legalább kettő alkalommal rendes ülést tart.
 
 (2) Az NHIT ülését az elnök hívja össze.
+
+[^28]: A 21. § (1) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

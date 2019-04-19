@@ -1,5 +1,15 @@
-6. § (1) Az érintett szervezet informatikai beszerzésével összefüggő feladatainak ellátására a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) és – (3) bekezdésben meghatározott kivétellel – az e rendeletben foglalt eljárási szabályokat kell alkalmazni.
+6. § (1)[^14]
 
-(2) Az érintett szervezet köteles az érintett szervezetté válásától számított 5 munkanapon belül a Digitális Kormányzati Ügynökség Központosított Közbeszerzési Portálján (a továbbiakban: Portál) regisztrálni.
+(2)[^15] Az érintett szervezet köteles
 
-(3) A Kormány egyedi döntésével mentesítést adhat az e rendeletben foglalt eljárási szabályok alkalmazása alól, különös tekintettel a védelmi és biztonsági tárgyú informatikai beszerzések esetére.
+a) az érintett szervezetté válásától, valamint
+
+b) a már regisztrált adataiban bekövetkező adatváltozástól
+
+számított 5 munkanapon belül a Portálon – az ott meghatározott struktúra és adattartalom szerint részletezve – regisztrálni, továbbá a megváltozott adatait rögzíteni.
+
+(3)[^16]
+
+[^14]: A 6. § (1) bekezdését a 83/2019. (IV. 18.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^15]: A 6. § (2) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 4. § (10) bekezdésével megállapított szöveg.
+[^16]: A 6. § (3) bekezdését a 83/2019. (IV. 18.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

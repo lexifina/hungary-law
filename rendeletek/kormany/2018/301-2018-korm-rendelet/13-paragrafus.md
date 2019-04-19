@@ -1,29 +1,61 @@
-13. § (1) A Digitális Kormányzati Ügynökség a jóváhagyást vagy a „megfelelő” minősítést követően a beszerzési igény alapján
+13. §[^23] (1) A DKÜ az e rendelet előírásainak megfelelő beszerzési igény kielégítése érdekében
 
-a) az érintett szervezet értesítését követően, a beszerzési eljárást maga lefolytatja,
+a) a beszerzési igény kielégítésére szolgáló beszerzési eljárást az érintett szervezet nevében és javára eljárva maga folytatja le, vagy
 
-b) a beszerzési eljárás lefolytatásával a beszerzést igénylő érintett szervezetet megbízza.
+b) a beszerzési igény kielégítésére szolgáló beszerzési eljárást saját hatáskörben történő lefolytatásra az érintett szervezetnek visszaadja.
 
-(2) Az (1) bekezdés a) pontja esetén, az érintett szervezet részére szükséges informatikai beszerzés megvalósítása érdekében a Digitális Kormányzati Ügynökség az érintett szervezet nevében és javára beszerzési eljárást folytat le.
+(2) A DKÜ az (1) bekezdés szerinti döntésekor – a lehetőségek, az erőforrások és a kockázatok vizsgálatát követően, a célszerűségi szempontokra is figyelemmel – szabadon mérlegelhet, a döntését a rendelkezésre álló információk alapján hozza meg, és a döntéséről a 9. § (3) bekezdése, a 10. § (2) bekezdése és a 11. § (2) bekezdése szerinti tájékoztatással egy időben tájékoztatja az érintett szervezetet.
 
-(3) A Digitális Kormányzati Ügynökség a beszerzési stratégiáját maga alakítja ki, keretmegállapodást vagy szerződést köthet.
+(3) A DKÜ a beszerzési igények hatékony kielégítése érdekében a beszerzési stratégiáját maga alakítja ki, figyelemmel az 5. § (2) bekezdésében foglaltakra is. Ennek keretében különösen
 
-(4) Ha a Digitális Kormányzati Ügynökség
+a) a DKÜ a Kbt. szerinti sajátos beszerzési módszereket alkalmazhat, különösen
 
-a) egy vagy több ajánlattevővel olyan keretmegállapodást kötött, amely az annak alapján adott közbeszerzés megvalósítására irányuló szerződés minden feltételét kötelező erővel tartalmazza, az érintett szervezet a közbeszerzését a keretmegállapodásban meghatározott feltételeknek megfelelően a Kbt. 105. § (1) bekezdés a) pontja vagy 105. § (2) bekezdés a) pontja szerint közvetlen megrendeléssel, vagy ha a keretmegállapodásban ennek a lehetőségét az ajánlatkérő kikötötte, akkor a Kbt. 105. § (1) bekezdés b) pontja szerinti írásbeli konzultációval vagy a Kbt. 105. § (2) bekezdés b) pontja szerinti verseny újranyitásával valósítja meg,
+aa) keretmegállapodást vagy más keret jellegű szerződést köthet,
 
-b) egy vagy több ajánlattevővel, olyan keretmegállapodást kötött, amely nem tartalmazza az annak alapján adott közbeszerzés megvalósítására irányuló szerződés minden feltételét vagy azokat nem kötelező erővel tartalmazza, a keretmegállapodásban rendelkezni kell arról, hogy annak alapján a Kbt. 105. § (1) bekezdés c) pontja szerinti konzultációt vagy a Kbt. 105. § (2) bekezdés c) pontja szerinti verseny újranyitását a Digitális Kormányzati Ügynökség bonyolítja le.
+ab) visszterhes szerződés megkötésére irányuló eljárásokat alkalmazhat,
 
-(5) A Digitális Kormányzati Ügynökség egy vagy több ajánlattevővel megkötött olyan keretmegállapodás esetén, amely nem tartalmazza az annak alapján adott közbeszerzés megvalósítására irányuló szerződés minden feltételét vagy azokat nem kötelező erővel tartalmazza, konzultáció vagy a verseny újranyitásának eredményeként közbeszerzési szerződés helyett egy vagy több ajánlattevővel olyan keretmegállapodást is köthet, amely az annak alapján adott közbeszerzés megvalósítására irányuló szerződés minden feltételét kötelező erővel tartalmazza. Az így megkötött keretmegállapodás alapján – az (1) bekezdésre figyelemmel – az érintett szervezet vagy a Digitális Kormányzati Ügynökség a beszerzését közvetlen megrendeléssel valósítja meg.
+ac) dinamikus beszerzési rendszert alkalmazhat,
 
-(6) A szállító köteles a Digitális Kormányzati Ügynökség kérésére a megrendelésekre és a szállításokra vonatkozó dokumentumok megküldésével a keretmegállapodások alapján teljesített megrendelésekről, a szállított informatikai eszközök és az azokhoz kapcsolódó szoftver termékek mennyiségéről és értékéről a Digitális Kormányzati Ügynökséget értesíteni.
+ad) elektronikus árlejtést alkalmazhat, vagy
 
-(7) Ha a Digitális Kormányzati Ügynökség a (4) és (5) bekezdés alapján keretmegállapodást köt, a Kbt. 37. § (4) bekezdése szerinti, a közbeszerzési eljárás eredményéről szóló tájékoztató hirdetményt a Digitális Kormányzati Ügynökség teszi közzé.
+ae) elektronikus katalógusokat alkalmazhat,
 
-(8) Az érintett szervezet köteles a megvalósított informatikai beszerzés eredményeképpen kötött szerződést annak aláírásától számított 5 munkanapon belül a Digitális Kormányzati Ügynökség részére megküldeni.
+b) a DKÜ más ajánlatkérőt is meghatalmazhat azzal, hogy a nevében közbeszerzési eljárást folytasson le,
 
-(9) Az érintett szervezet köteles megküldeni a szerződés lényeges elemeire – különösen a beszerzés tartalmára és összegszerűségére – vonatkozó módosításának tervezetét, a módosítás indokolását és az azt alátámasztó dokumentumokat azok elkészítését követő 5 munkanapon belül.
+c) a DKÜ más ajánlatkérővel közösen is megvalósíthat közbeszerzést,
 
-(10) A Digitális Kormányzati Ügynökség a kézhezvételtől számított 12 munkanapon belül észrevételt tehet a (9) bekezdésben foglalt dokumentumokkal kapcsolatban.
+d) a DKÜ a közbeszerzés megvalósítása érdekében igénybe veheti más központi beszerző szerv szolgáltatásait, valamint
 
-(11) Amennyiben a Digitális Kormányzati Ügynökség a (10) bekezdésben meghatározott határidőn belül nem tesz észrevételt, úgy a Digitális Kormányzati Ügynökség hozzájárulását a szerződés módosításához megadottnak kell tekinteni.
+e) a DKÜ más központi beszerző szervvel együttműködve közösen is megvalósíthat beszerzést vagy működtethet összevont központi beszerzési vagy dinamikus beszerzési rendszert.
+
+(4) A (3) bekezdés c)–e) pontjai alkalmazása esetén az ajánlatkérők együttműködésének szabályait együttműködési megállapodásban kell rögzíteni, amely tartalmazza különösen
+
+a) az egyes ajánlatkérők felelősségi körét,
+
+b) a közbeszerzés megvalósításának megszervezését, különös tekintettel az eljárás lefolytatására, valamint
+
+c) az érintett szervezetek beszerzési igényének kiszolgálási körülményeit.
+
+(5) A (3) bekezdés e) pontja szerinti esetben az együttműködés létrehozható határozatlan vagy határozott időre, meghatározott beszerzéstípusokra, valamint egy vagy több közbeszerzés megvalósítására is.
+
+(6) Ha a DKÜ eljárása eredményeképpen
+
+a) egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely az adott közbeszerzés megvalósítására irányuló visszterhes szerződés minden feltételét kötelező erővel tartalmazza, az érintett szervezet a közbeszerzését a keretmegállapodásban meghatározott feltételeknek megfelelően a Kbt. 105. § (1) bekezdés a) pontja vagy a Kbt. 105. § (2) bekezdés a) pontja szerint közvetlen megrendeléssel, vagy ha a keretmegállapodásban ennek a lehetőségét az ajánlatkérő kikötötte, akkor a Kbt. 105. § (1) bekezdés b) pontja szerinti írásbeli konzultációval vagy a Kbt. 105. § (2) bekezdés b) pontja szerinti verseny újranyitásával valósítja meg,
+
+b) egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely az adott közbeszerzés megvalósítására irányuló visszterhes szerződés minden feltételét nem, vagy azokat nem kötelező erővel tartalmazza, a keretmegállapodásban rendelkezni kell arról, hogy annak alapján a Kbt. 105. § (1) bekezdés c) pontja szerinti konzultációt vagy a Kbt. 105. § (2) bekezdés c) pontja szerinti verseny újranyitását a DKÜ bonyolítja le.
+
+(7) Ha a DKÜ eljárása eredményeképpen egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely nem tartalmazza az adott közbeszerzés megvalósítására irányuló szerződés minden feltételét, vagy azokat nem kötelező erővel tartalmazza, konzultáció vagy a verseny újranyitásának eredményeként olyan keretszerződés is köthető, amely az annak alapján adott közbeszerzés megvalósítására irányuló visszterhes szerződés minden feltételét kötelező erővel tartalmazza, és az így megkötött keretszerződés alapján az érintett szervezet a beszerzését közvetlen megrendeléssel valósítja meg.
+
+(8) Az érintett szervezet a 13. § (1) bekezdés b) pontja szerint beszerzési eljárás eredményéről szóló döntés, valamint – ha a beszerzést követően a szerződés megkötésre került – a szerződés másolatát a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról hozott döntést követő 10 munkanapon belül a Portálra feltölti.
+
+(9) Az érintett szervezet a 13. § (1) bekezdés a) és b) pontja eredményeképpen létrejövő szerződések teljesítéséről a teljesítést követő – vagy ha a teljesítés meghiúsult, a teljesítésre meghatározott határidő lejártát követő – 10 munkanapon belül köteles a DKÜ részére, az ott meghatározott struktúra és adattartalom szerint részletezve, a Portálon keresztül számot adni.
+
+(10) A DKÜ a (8) és (9) bekezdés szerinti adatszolgáltatási kötelezettségen túlmenően is jogosult adatszolgáltatást kérni az érintett szervezettől a beszerzési igényük teljesítési körülményeiről vagy egyéb, a központosított közbeszerzési rendszer működtetéséhez szükséges adatokról, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
+
+(11) A DKÜ a (8)–(10) bekezdés szerinti adatszolgáltatási kötelezettség ellenőrzése céljából a teljesítéssel érintett szállítótól adatszolgáltatást kérhet, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
+
+(12) A 10. és 11. § szerinti beszerzési igény esetében, ha azt a miniszter a 12. § (4) bekezdés a) vagy b) pontja szerinti döntésekor, azzal egyidejűleg előírta, az érintett szervezet a 13. § (1) bekezdés a) pontja eredményeképpen létrejövő szerződés módosításának feltétele a miniszter jóváhagyása.
+
+(13) A 13. § (1) bekezdés a) pontja eredményeképpen létrejövő szerződések módosításának (12) bekezdés szerinti jóváhagyása tekintetében a 9–12. § megfelelően alkalmazandó.
+
+[^23]: A 13. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.

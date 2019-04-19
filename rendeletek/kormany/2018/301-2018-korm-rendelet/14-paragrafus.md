@@ -1,13 +1,23 @@
-14. § (1) A Digitális Kormányzati Ügynökség által a központosított közbeszerzés lefolytatása során ellátott feladatokért az érintett szervezet a Digitális Kormányzati Ügynökség részére, a (2) bekezdésben meghatározottak szerint, közbeszerzési díjat fizet.
+14. §[^24] (1) A 13. § (1) bekezdés a) pontja szerinti esetben az érintett szervezet a DKÜ részére közbeszerzési díjat fizet.
 
-(2) A központosított közbeszerzési díj mértéke:
+(2) Az (1) bekezdés szerinti közbeszerzési díj mértéke legfeljebb
 
-a) eredményesen lefolytatott, nemzeti értékhatárokat el nem érő értékű beszerzési eljárás esetén megvalósított beszerzés alapján kötött szerződés általános forgalmi adó nélkül számított értékének 4%-a; eredménytelen beszerzési eljárás esetén – amennyiben az eredménytelenség nem olyan okból következett be, melyért a Digitális Kormányzati Ügynökség felelős – a beszerzési eljárás becsült értékének 2%-a;
+a) a Kbt. szerinti nemzeti értékhatárt el nem érő becsült értékű beszerzési eljárás esetén a létrejövő visszterhes szerződés általános forgalmi adó nélkül számított értékének 4%-a; eredménytelen beszerzési eljárás esetén a beszerzési eljárás Kbt. szerinti – egybeszámítás nélküli – becsült értékének 2%-a;
 
-b) uniós értékhatárt el nem érő, és egyben a nemzeti értékhatárokat elérő értékű beszerzési és közbeszerzési eljárás esetén megvalósított beszerzés vagy közbeszerzés alapján kötött szerződés általános forgalmi adó nélkül számított értékének 2,5%-a; eredménytelen beszerzési vagy közbeszerzési eljárás esetén – amennyiben az eredménytelenség nem olyan okból következett be, melyért a Digitális Kormányzati Ügynökség felelős – az eljárás becsült értékének 1,75%-a;
+b) a Kbt. szerinti nemzeti értékhatárt elérő vagy meghaladó, de az uniós értékhatárt el nem érő becsült értékű beszerzési eljárás esetén a létrejövő visszterhes szerződés általános forgalmi adó nélkül számított értékének 2,5%-a; eredménytelen beszerzési eljárás esetén a beszerzési eljárás Kbt. szerinti – egybeszámítás nélküli – becsült értékének 1,75%-a;
 
-c) uniós értékhatárt elérő vagy meghaladó értékű beszerzési és közbeszerzési eljárás esetén megvalósított beszerzés vagy közbeszerzés (részenként megvalósított beszerzés vagy közbeszerzés esetén az adott rész) alapján kötött szerződés általános forgalmi adó nélkül számított értékének nettó 1 000 000 000 Ft-ig: 1%-a. Nettó 1 000 000 001 Ft – nettó 5 000 000 000 Ft közötti részre vonatkozóan: 0,75%-a. Nettó 5 000 000 000 Ft feletti rész vonatkozásában: 0,5%-a. Eredménytelen beszerzési vagy közbeszerzési eljárás esetén – amennyiben az eredménytelenség nem olyan okból következett be, melyért a Digitális Kormányzati Ügynökség felelős – a jelen pontban megjelölt mértékek 50%-a;
+c) a Kbt. szerinti uniós értékhatárt elérő vagy meghaladó becsült értékű beszerzési eljárás esetén a létrejövő visszterhes szerződés általános forgalmi adó nélkül számított értékének 2%-a; eredménytelen beszerzési eljárás esetén a beszerzési eljárás Kbt. szerinti – egybeszámítás nélküli – becsült értékének 1%-a;
 
-d) a beszerzés keretmegállapodás alapján, a Kbt. 105. §-a szerint történő megvalósítása esetén kötött szerződés általános forgalmi adó nélkül számított, több részből álló beszerzési vagy közbeszerzési eljárás esetén az egyes részek alapján kötött szerződések általános forgalmi adó nélkül számított összes értékének 1%-a, de legfeljebb nettó kettőmillió forint; eredménytelen beszerzési vagy közbeszerzési eljárás esetén – amennyiben az eredménytelenség nem olyan okból következett be, melyért a Digitális Kormányzati Ügynökség felelős – az eljárás – több részből álló eljárás esetén az egyes részek – összes becsült értékének 0,5%-a, de legfeljebb nettó kettőszázötvenezer forint.
+d) keretmegállapodás alapján lefolytatott közbeszerzési eljárás esetén a létrejövő visszterhes szerződés általános forgalmi adó nélkül számított értékének 2%-a; eredménytelen beszerzési eljárás esetén a beszerzési eljárás Kbt. szerinti – egybeszámítás nélküli – becsült értékének 1%-a
 
-(3) Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) és (3) bekezdésére figyelemmel, a (2) bekezdés alapján megfizetett központosított közbeszerzési díjat a Digitális Kormányzati Ügynökség az e rendeletben meghatározott közfeladata ellátásának pénzügyi fedezetére használhatja fel.
+lehet.
+
+(3) A 13. § (1) bekezdés a) pontja szerinti eljárás megindításának feltétele, hogy az érintett szervezet a DKÜ részére a beszerzés Kbt. szerinti – egybeszámítás nélküli – becsült értékének a DKÜ által meghatározott mértékét, de legfeljebb 1%-át előlegként megfizesse.
+
+(4) A (2) bekezdés szerinti közbeszerzési díj megfizetésére az érintett szervezet nem köteles, továbbá részére a már megfizetett előleg vagy közbeszerzési díj visszajár, ha a (2) bekezdés szerinti beszerzési eljárás olyan okból vált eredménytelenné, amelyért a DKÜ felelős.
+
+(5) Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) és (3) bekezdésére figyelemmel, a (2) bekezdés alapján megfizetett központosított közbeszerzési díjat a DKÜ az e rendeletben meghatározott közfeladata ellátásának pénzügyi fedezetére használhatja fel.
+
+(6) A 13. § (3) bekezdés d)–e) pontjai alkalmazása esetén az érintett szervezetnek a más jogszabály szerinti közbeszerzési díjat megfizetnie nem kell, kizárólag az e rendelet előírásai szerint köteles a közbeszerzési díj megfizetésére.
+
+[^24]: A 14. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
