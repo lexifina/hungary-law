@@ -1,3 +1,0 @@
-## 1. § Az állami szervek informatikai fejlesztéseinek koordinációjáról szóló 228/2016. (VII. 29.) Korm. rendelet (a továbbiakban: Infofejl. Korm. rendelet) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság a miniszter 3. § szerinti álláspontja kialakítása érdekében a miniszter részére az informatikai fejlesztési tervek tekintetében megfelelő hozzáférést biztosít a KIBER rendszerben. A miniszter álláspontja és az azzal kapcsolatos adatok – ideértve az állami szerv által megküldött adatokat, valamint az állami szerv és a miniszter közötti e rendelet szerinti ügyekben történt kommunikációt – a KIBER rendszerben rögzítésre kerülnek.”
