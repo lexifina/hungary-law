@@ -1,5 +1,3 @@
-## „2/A. § A Nemzeti Földalapba tartozó földrészlet vagyonkezelésbe adását törvény elrendelheti az abban meghatározott szervezet részére. A törvényben kell rendelkezni a vagyonkezelésbe adás és a vagyonkezelői jog gyakorlásának feltételeiről.”
-
 1. melléklet a 2019. évi XXXI. törvényhez
 
 A Nemzetközi Gyermekmentő Szolgálat Magyar Egyesület vagyonkezelésébe kerülő ingatlanok
