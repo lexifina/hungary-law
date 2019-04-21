@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-3-20-3H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-04-20 | 2019-3-20-3H.1 | 3/2019. (IV. 15.) NMHH rendelet |
+| 2019-04-21 | 2019-3-20-3H.2 | 2010: CXXX. törvény |
