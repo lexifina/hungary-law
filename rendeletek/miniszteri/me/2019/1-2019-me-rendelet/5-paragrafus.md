@@ -1,3 +1,5 @@
 ## 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-5. § Hatályát veszti a Külhoni Magyarságért Díj alapításáról szóló 3/2011. (XII. 30.) ME rendelet.
+5. §[^1]
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
