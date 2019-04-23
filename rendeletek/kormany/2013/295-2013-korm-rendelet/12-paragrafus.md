@@ -12,7 +12,7 @@ ab) létesítő okiratának keltét és módosításának időpontját,
 
 b) – ha a változás a belső egyházi jogi személy nyilvántartásban szereplő adatait érinti – a belső egyházi jogi személy 11. § (3) bekezdésében meghatározott adatait,
 
-## valamint ezen adatok módosításának irányára történő utalást tartalmazza.
+valamint ezen adatok módosításának irányára történő utalást tartalmazza.
 
 (2a)[^20] Amennyiben a bevett egyház vagy belső egyházi jogi személy képviselője változik, akkor a változás átvezetésére vonatkozó kérelemhez csatolni kell az új képviselő aláírás-mintáját tartalmazó okirat hiteles másolatát.
 

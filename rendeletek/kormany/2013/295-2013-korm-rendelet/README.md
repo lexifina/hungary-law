@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-295-20-
 | 2016-12-14 | 2013-295-20-22.8 | 20/2015. (II. 17.) Korm. rendelet |
 | 2018-01-01 | 2013-295-20-22.9 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-01-01 | 2013-295-20-22.10 | 293/2018. (XII. 21.) Korm. rendelet |
+| 2019-04-23 | 2013-295-20-22.11 | 91/2019. (IV. 23.) Korm. rendelet |

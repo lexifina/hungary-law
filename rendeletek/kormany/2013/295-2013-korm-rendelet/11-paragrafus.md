@@ -10,7 +10,7 @@ a) a bevett egyház 10. § (3) bekezdés a) pontjában meghatározott adatát é
 
 b) a belső egyházi jogi személy 10. § (3) bekezdése szerinti adatát
 
-## tartalmazza.
+tartalmazza.
 
 (4)[^17] Az (1) bekezdés szerinti, kérelemhez a bevett egyház csatolja
 
