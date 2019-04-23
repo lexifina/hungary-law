@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy Magyarország külpolitikai és külgazdasági érdekeinek érvényesülése érdekében Teheránban Magyarország Nagykövetsége egy reprezentációs céloknak megfelelő ingatlanba költözzön;
 
-2. az 1. pontban meghatározott cél megvalósítása érdekében felhatalmazza a külgazdasági és külügyminisztert, hogy folytasson tárgyalásokat a 19448-63611 Teherán-Darrous, Saleh Hoseini u. 28. sz. alatt található ingatlan (a továbbiakban: Ingatlan) tulajdonosával az épület – földterülettel együtt történő – megvásárlásáról azzal, hogy a tulajdonszerzés és az épület felújításának költségei – ideértve különösen, de nem kizárólagosan az Ingatlan vételárát; a tranzakcióhoz szükséges szakértők díjazását, valamint a felújítás és bútorozás költségeit – a 4 668 470 000 forintot nem haladhatják meg;
+2.[^1] az 1. pontban meghatározott cél megvalósítása érdekében felhatalmazza a külgazdasági és külügyminisztert, hogy folytasson tárgyalásokat a 19439-64511 Teherán-Darrous Yakchal St., 11. szám alatt található ingatlan (a továbbiakban: Ingatlan) tulajdonosával az épület – földterülettel együtt történő – megvásárlásáról azzal, hogy a tulajdonszerzés és az épület felújításának költségei – ideértve különösen, de nem kizárólagosan az Ingatlan vételárát; a tranzakcióhoz szükséges szakértők díjazását, valamint a felújítás és bútorozás költségeit – a 4 668 470 000 forintot nem haladhatják meg;
 
 Felelős: külgazdasági és külügyminiszter
 
@@ -24,19 +24,13 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-5. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a kivitelezés, műszaki ellenőrzés, kiviteli terv készítése, konzuli, biztonsági, kerítés és informatikai beruházások, bútor és kapcsolódó eszközbeszerzések, továbbá a lebonyolítással kapcsolatos egyéb költségek finanszírozása érdekében – a 2. pontban meghatározott összegből – legfeljebb 1 161 330 000 forint forrás biztosításáról a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím részére;
+5.[^2] felhívja a pénzügyminisztert, hogy gondoskodjon a kivitelezés, műszaki ellenőrzés, kiviteli terv készítése, konzuli, biztonsági, kerítés- és informatikai beruházások, bútor- és kapcsolódó eszközbeszerzések, továbbá a lebonyolítással kapcsolatos egyéb költségek finanszírozása érdekében – a 2. pontban meghatározott összegből – legfeljebb 1 138 800 000 forint forrás biztosításáról a 2020. évi központi költségvetés tervezése során a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím részére;
 
-Felelős: nemzetgazdasági miniszter
+Felelős: pénzügyminiszter
 
-Határidő: a 2018. évi költségvetés végrehajtása során a felmerülés ütemében
+Határidő: a 2020. évi központi költségvetés tervezése során
 
-6. felhívja a külgazdasági és külügyminisztert és a nemzetgazdasági minisztert, hogy a 2019. évi költségvetés tervezése során gondoskodjanak 11 470 000 forint biztosításáról a központi költségvetés Külgazdasági és Külügyminisztérium fejezetben;
-
-Felelős: külgazdasági és külügyminiszter
-
-nemzetgazdasági miniszter
-
-Határidő: a 2019. évi költségvetés tervezése során
+6.[^3]
 
 7. felhívja a nemzeti fejlesztési minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zrt. útján – a külgazdasági és külügyminiszter bevonásával gondoskodjon a 2. pontban megjelölt, a Magyar Állam tulajdonába kerülő Ingatlan Külgazdasági és Külügyminisztérium részére történő vagyonkezelésbe adásáról;
 
@@ -53,3 +47,10 @@ Határidő: a tulajdonjog megszerzését követően azonnal
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: az Ingatlan állami tulajdonba kerülését követően azonnal
+
+10.[^4] egyetért azzal, hogy a 4. pont szerint biztosított összeg a 2. pontban meghatározott ingatlan vásárlásával, felújításával és bútorozásával kapcsolatos költségekre kerüljön a 2019. évben, a felmerülés helyének megfelelően felhasználásra.
+
+[^1]: A 2. pont az 1224/2019. (IV. 23.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1224/2019. (IV. 23.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 6. pontot az 1224/2019. (IV. 23.) Korm. határozat 4. pontja visszavonta.
+[^4]: A 10. pontot az 1224/2019. (IV. 23.) Korm. határozat 2. pontja iktatta be.
