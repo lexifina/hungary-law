@@ -1,0 +1,1 @@
+A Kormány – tekintettel Magyarország Kormánya és Szeged Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1151/2017. (III. 20.) Korm. határozat 2. pont a) alpontjára –
