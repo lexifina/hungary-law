@@ -1,4 +1,4 @@
-## 1. egyetért Kratochvil Károly tábornok Balatonszepezd belterületén 431 helyrajzi szám alatt található egykori lakóházának (a továbbiakban: Ingatlan) interaktív hadtörténeti központtá történő átalakításával;
+## 1.[^1] egyetért Kratochvil Károly tábornok Balatonszepezd belterületén 431 és 432 helyrajzi szám alatt található egykori lakóházának (a továbbiakban: Ingatlan) interaktív hadtörténeti központtá történő átalakításával;
 
 ## 2. támogatja Balatonszepezd Község Önkormányzatát (a továbbiakban: Önkormányzat), annak érdekében, hogy az Ingatlant megvásárolja és felújítsa;
 
@@ -89,3 +89,5 @@
 | egyéb: | azonnal | 150 000 000 |  | 150 000 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont az 1220/2019. (IV. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
