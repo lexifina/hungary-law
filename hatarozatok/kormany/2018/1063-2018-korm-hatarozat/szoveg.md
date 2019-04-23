@@ -32,14 +32,10 @@ Felelős: a Kormány nemzetpolitikáért felelős tagja
 
 Határidő: azonnal
 
-7.[^5] felhívja a Kormány nemzetpolitikáért felelős tagját, hogy az 1. pont szerinti támogatási cél megvalósítása érdekében nyújtson – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a 2. pont szerinti kedvezményezett részére a 2019. költségvetési évben 250 000 000 forint költségvetési támogatást;
-
-Felelős: a Kormány nemzetpolitikáért felelős tagja
-
-Határidő: 2019. március 15.
+7.[^5]
 
 [^1]: A 2. pont az 1476/2018. (X. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 3. pontot az 1476/2018. (X. 1.) Korm. határozat 4. pontja visszavonta.
 [^3]: Az 5. pont az 1476/2018. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: A 6. pont az 1476/2018. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
-[^5]: A 7. pontot az 1476/2018. (X. 1.) Korm. határozat 2. pontja iktatta be.
+[^5]: A 7. pontot az 1476/2018. (X. 1.) Korm. határozat 2. pontja iktatta be, visszavonta az 1220/2019. (IV. 23.) Korm. határozat 1. pont c) alpontja.
