@@ -1,0 +1,79 @@
+## 1. egyetért Budapest belvárosa zöldfelületeinek bővítése, a gyalogos-kerékpáros és közösségi közlekedés feltételeinek javítása, a sokszínű szabadidő-eltöltési lehetőségek támogatása és pihenőterek kialakítása, valamint a gépjárműforgalom csökkenése érdekében a Budapest I. kerület, Clark Ádám tér, a Budapest V. kerület, Széchenyi István tér és József Attila utca közterületi megújításának szükségességével a Fővárosi Közfejlesztések Tanácsa által rögzített, 1. melléklet szerinti elvek mentén;
+
+## 2. egyetért azzal, hogy az 1. pont szerinti közterületek megújításának engedélyezési terv, építési engedély, kiviteli terv és kapcsolódó tenderdokumentáció szintű részletességgel történő előkészítését és tervezését, engedélyeztetését Budapest Főváros Önkormányzata (a továbbiakban: Fővárosi Önkormányzat), a tulajdonában álló BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: BKK Zrt.) útján a lehetséges leggyorsabb ütemezéssel valósítsa meg;
+
+## 3. egyetért a 2. pont szerinti tervezési tevékenység költségéhez kapcsolódóan központi költségvetés támogatás biztosításával a Fővárosi Önkormányzat részére, az 6. pont szerinti előterjesztés alapján;
+
+## 4. felkéri a Fővárosi Önkormányzatot, hogy a 2. pont szerinti előkészítés és a terveztetés folyamatába a Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljáró Miniszterelnökséget vezető miniszter útján vonja be a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaságot (a továbbiakban: KKBK Nonprofit Zrt.);
+
+## 5. egyetért azzal, hogy az 1. melléklet szerinti elvek mentén a Fővárosi Önkormányzat a BKK Zrt. útján, a KKBK Nonprofit Zrt. szakmai közreműködésével feltételes közbeszerzési eljárást folytasson le az 1. pont szerinti közterületek megújítása tervezőjének kiválasztására;
+
+## 6. felhívja a Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljáró Miniszterelnökséget vezető minisztert, hogy Budapest főpolgármesterével együttműködve, az eljárás során megismert árajánlatok alapján készítsenek előterjesztést a Kormány részére az előkészítés költségeinek 3. pont szerinti biztosítása érdekében.
+
+## Felelős: Miniszterelnökséget vezető miniszter
+
+## Határidő: a közbeszerzési eljárás lezárását követően azonnal
+
+1. melléklet az 1221/2019. (IV. 23.) Korm. határozathoz
+
+## A Budapest I. kerület, Clark Ádám tér, a Budapest V. kerület, Széchenyi István tér és József Attila utca közterületi megújításának elvei
+
+1. Az általános elvek körében biztosítani kell, hogy
+
+a) olyan közfunkciókkal bíró egységes közterület és zöldfelület jöjjön létre, amely integrálódik a Budai Várnegyed és Budapest belvárosa (a továbbiakban: Belváros) gyalogos-turisztikai zónájába, szerves kapocsként szolgálva a kettő között,
+
+b) a szabadidő-eltöltési, pihenési és turisztikai lehetőségek javítása érdekében a gyalogos felületek és zöldfelületek kerüljenek megújításra és összekapcsolásra, azok elérhetőségének biztosítása érdekében,
+
+c) az épületek, építmények előtti járdafelületek legyenek megnövelve, a megmaradó útfelületeken új gyalogos átkelési lehetőségek legyenek biztosítva,
+
+d) érvényesüljenek a Belváros – Balázs Mór-tervben rögzített – forgalomcsillapítására, a gyalogos-kerékpáros és közösségi közlekedés előtérbe helyezésére vonatkozó célkitűzések,
+
+e) jelentősen csökkenjenek a gépjárműforgalom számára szolgáló felületek az útfelületek és a forgalomtechnikai megoldások újragondolásával,
+
+f) a gépjárműforgalom csillapítása mellett maradjon fenn a Bel-Buda és a pesti belváros összekötését biztosító fontos közlekedési folyosó forgalmi szerepe,
+
+g) olyan magas minőségű és presztízsű közterület jöjjön létre, mint a Fővárosi Önkormányzat által felújított Margitsziget, illetve a TÉR_KÖZ program keretében megújult Madách Imre tér,
+
+h) igazodjon a Steindl Imre Program keretében újjáépített Kossuth Lajos tér arculatához, ugyanakkor vegye figyelembe a korábbi tervelőzményeket is,
+
+i) az előkészítés, majd a megvalósítás a Széchenyi lánchíd (a továbbiakban: Lánchíd) és a budai Váralagút teljes körű rekonstrukciójával egyidejűleg, a fővárosi közlekedés lehető legkisebb korlátozásával és a műszakilag lehetséges leggyorsabb ütemezéssel valósuljon meg.
+
+2. A Budapest I. kerület, Clark Ádám tér esetében biztosítani kell,
+
+a) hogy a tervezés kiindulási alapja a BKK Zrt. megbízásából 2016-ban készített engedélyezési és kiviteli terv legyen,
+
+b) a Clark Ádám tér hagyományainak életre keltése érdekében a gyalogos terek növelését,
+
+c) a minden irányban való gyalogosátjárás lehetőségét,
+
+d) a körforgalom mai átmérőjének jelentős csökkentését a külső gyalogos területek érdemi bővítése érdekében,
+
+e) díszburkolat kiépítését.
+
+3. A Budapest V. kerület, Széchenyi István tér esetében biztosítani kell
+
+a) a Lánchíd 2×1 forgalmi sávos megközelítését és a József Attila utcára való rávezetését a Széchenyi István tér déli oldalán,
+
+b) a tér átépítése során a körfogalom megszüntetését,
+
+c) az Apáczai Csere János utca, a Dorottya utca forgalomtechnikai kapcsolatának fenntartását,
+
+d) a Széchenyi István tér keleti oldalán vegyes funkciójú, forgalomcsökkentett útpálya létrejöttét a helyi intézményi forgalom gépjárművel való kiszolgálásának fenntartásával,
+
+e) a Jane Haining rakpart és a Széchenyi István tér közötti gépjármű fel- és lehajtó rendszer egyszerűsített fenntartását,
+
+f) a Lánchíd gyalogosforgalmat bonyolító járda-konzolai közvetlen összekapcsolását a Széchenyi István tér gyalogos zónájával és a fő gyalogos folyosókkal,
+
+g) a Szent István Bazilika (a továbbiakban: Bazilika) – Lánchíd – Budai Vár összefüggő gyalogostengely létrehozását úgy, hogy a Bazilikától a Lánchíd északi járdája érdemi közúti forgalom keresztezése nélkül, szintben elérhető legyen,
+
+h) a zöldfelületi és a burkolt terek optimális arányának kialakítását,
+
+i) a Magyar Tudományos Akadémia előtti parkoló megszüntetését,
+
+j) a Széchenyi rakpart átépítésével közvetlen gyalogos kapcsolat létrehozását a Steindl Imre Program keretében újjáépített Kossuth Lajos térrel.
+
+4. A Budapest V. kerület, József Attila utca esetében biztosítani kell
+
+a) a BKK Zrt. által, a KKBK Nonprofit Zrt. szakmai közreműködésével, külön eljárás keretében történő Megvalósíthatósági Tanulmány készítését a 2×1 sávos, csillapított forgalmú, a Budapest V. kerület, Október 6. utcától a Lánchídig vezetett buszsáv létesítésével, a növelt járdafelületű, növényzetet tartalmazó kialakítás szempontjainak kidolgozása érdekében,
+
+b) a Széchenyi István tér átépítéshez modulárisan kapcsolódó, függetleníthető megvalósítás lehetőségét.
