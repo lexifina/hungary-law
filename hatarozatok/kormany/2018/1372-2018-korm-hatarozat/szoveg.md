@@ -54,7 +54,7 @@ a) a Vértanúk tere átépítéséhez szükséges tervezésre és kivitelezésr
 
 b) a Vértanúk tere az átépítést követően – a BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság délre tartó autóbuszjáratait kivéve – autómentes övezetté váljon,
 
-c) az a) és b) alpont megvalósítása érdekében a Szabadság téren található mélygarázs kijárata áthelyezésre kerüljön;
+c)[^1]
 
 2.2. felhívja a Miniszterelnökséget vezető minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy működjenek közre a 2.1. pontban rögzített, a Vértanúk terének átépítésével kapcsolatos tervezési és kivitelezési munkáknak a Társaság útján történő megvalósításában;
 
@@ -101,3 +101,5 @@ Határidő: azonnal
 Felelős: Miniszterelnökséget vezető miniszter, az Országgyűlés Hivatala főigazgatójának felkérésével
 
 Határidő: az 5.2. pont szerinti forrás rendelkezésre állását követően azonnal
+
+[^1]: A 2.1. pont c) alpontját az 1216/2019. (IV. 23.) Korm. határozat 4. pontja visszavonta.
