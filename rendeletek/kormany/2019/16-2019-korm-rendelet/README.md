@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-16-20-2
 | --- | --- | --- |
 | 2019-02-14 | 2019-16-20-22.1 | 16/2019. (II. 13.) Korm. rendelet |
 | 2019-03-13 | 2019-16-20-22.2 | 47/2019. (III. 12.) Korm. rendelet |
+| 2019-04-24 | 2019-16-20-22.3 | 47/2019. (III. 12.) Korm. rendelet |
