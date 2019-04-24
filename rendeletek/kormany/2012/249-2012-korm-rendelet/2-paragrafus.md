@@ -14,15 +14,15 @@ b) felsőfokú iskolai rendszerű képzésben, továbbképzésben szerzett tová
 
 c) akkreditált iskolai rendszerű felsőfokú szakképzésben vagy iskolarendszeren kívüli felsőfokú szakképzésben szerzett szakképesítés, szakképzettség esetén az illetményalap 40%-a,
 
-d)[^4] akkreditált iskolai rendszerű emeltszintű szakképzésben vagy iskolarendszeren kívüli emeltszintű szakképzésben szerzett szakképesítés, szakképzettség esetén az illetményalap 35%-a,
+d)[^6] akkreditált iskolai rendszerű emeltszintű szakképzésben vagy iskolarendszeren kívüli emeltszintű szakképzésben szerzett szakképesítés, szakképzettség esetén az illetményalap 35%-a,
 
-e)[^5] iskolarendszeren kívüli középfokú szakképzésben szerzett további szakképesítés, szakképzettség esetén az illetményalap 30%-a.
+e)[^7] iskolarendszeren kívüli középfokú szakképzésben szerzett további szakképesítés, szakképzettség esetén az illetményalap 30%-a.
 
-(5)[^6] A több feltételnek is megfelelő kormánytisztviselő, köztisztviselő csak egy, a magasabb összegű pótlékra jogosult. A (4) bekezdésben meghatározott több, a képzettségi pótlék szempontjából azonos szintű oklevél vagy szakképesítés esetén is csak egyszeres pótlék állapítható meg.
+(5)[^8] A több feltételnek is megfelelő kormánytisztviselő, köztisztviselő csak egy, a magasabb összegű pótlékra jogosult. A (4) bekezdésben meghatározott több, a képzettségi pótlék szempontjából azonos szintű oklevél vagy szakképesítés esetén is csak egyszeres pótlék állapítható meg.
 
-(6)[^7] A felsőfokú iskolai végzettségű kormánytisztviselő, köztisztviselő nem jogosult képzettségi pótlékra, ha a (4) bekezdés e) pontjában meghatározott további szakképesítéssel rendelkezik.
+(6)[^9] A felsőfokú iskolai végzettségű kormánytisztviselő, köztisztviselő nem jogosult képzettségi pótlékra, ha a (4) bekezdés e) pontjában meghatározott további szakképesítéssel rendelkezik.
 
-[^4]: A 2. § (4) bekezdés d) pontja a 338/2017. (XI. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^5]: A 2. § (4) bekezdés e) pontját a 338/2017. (XI. 14.) Korm. rendelet 6. §-a iktatta be.
-[^6]: A 2. § (5) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^7]: A 2. § (6) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § (4) bekezdés d) pontja a 338/2017. (XI. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^7]: A 2. § (4) bekezdés e) pontját a 338/2017. (XI. 14.) Korm. rendelet 6. §-a iktatta be.
+[^8]: A 2. § (5) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (6) bekezdése a 338/2017. (XI. 14.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

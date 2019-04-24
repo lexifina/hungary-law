@@ -1,5 +1,9 @@
-12. § (1) A nyugállományú közszolgálati tisztviselő, szakmai vezető szociális gondozásának, illetve szakmai tapasztalata hasznosításának elősegítésére, a velük való kapcsolattartás biztosítására a munkáltató nyugdíjas bizottságot hozhat létre, illetve támogathatja az e célokat szolgáló egyesületek létrehozását. A rendkívüli feladatok végrehajtása során, így különösen választás, népszámlálás, egyéb statisztikai felmérések keretében elsősorban az életpályájukat a közszolgálatban letöltő, tapasztalt nyugdíjas közszolgálati tisztviselőt, szakmai vezetőt előnyben kell részesíteni. A nyugdíjas bizottság javaslatot tehet nyugdíjas közszolgálati tisztviselő, szakmai vezető elismerésére a Közszolgálati Tisztviselők Napja alkalmából.
+12. § (1)[^34] A nyugállományú közszolgálati tisztviselő szociális gondozásának, illetve szakmai tapasztalata hasznosításának elősegítésére, a velük való kapcsolattartás biztosítására a munkáltató nyugdíjas bizottságot hozhat létre, illetve támogathatja az e célokat szolgáló egyesületek létrehozását. A rendkívüli feladatok végrehajtása során, így különösen választás, népszámlálás, egyéb statisztikai felmérések keretében elsősorban az életpályájukat a közszolgálatban letöltő, tapasztalt nyugdíjas közszolgálati tisztviselőt előnyben kell részesíteni. A nyugdíjas bizottság javaslatot tehet nyugdíjas közszolgálati tisztviselő elismerésére a Közszolgálati Tisztviselők Napja alkalmából.
 
-(2) A központi államigazgatási szerv vezetője legalább kétévente áttekinti, értékeli az (1) bekezdésben, valamint a 10–11. §-okban meghatározott rendelkezések érvényesülését, és szükség esetén a nyugdíjas közszolgálati tisztviselő, szakmai vezető helyzetét javító intézkedést hoz. Az értékelés megvitatására a nyugdíjas bizottság képviselőjét is meg kell hívni.
+(2)[^35]
 
-(3) Ha nyugdíjas bizottságot nem hoznak létre, a nyugdíjas közszolgálati tisztviselő, szakmai vezető ügyeinek intézésével referens bízható meg.
+(3)[^36] Ha nyugdíjas bizottságot nem hoznak létre, a nyugdíjas közszolgálati tisztviselő ügyeinek intézésével referens bízható meg.
+
+[^34]: A 12. § (1) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 114. § (2) bekezdés e) és k) pontja szerint módosított szöveg.
+[^35]: A 12. § (2) bekezdését a 88/2019. (IV. 23.) Korm. rendelet 114. § (2) bekezdés l) pontja hatályon kívül helyezte.
+[^36]: A 12. § (3) bekezdése a 88/2019. (IV. 23.) Korm. rendelet 114. § (2) bekezdés c) pontja szerint módosított szöveg.
