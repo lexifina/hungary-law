@@ -14,9 +14,9 @@
 
 ## Határidő: 2019. május 31.
 
-## c) visszavonja a Korm. határozat 7. pontját.
+## c)[^1]
 
-## 2. A Kratochvil Károly tábornok egykori balatonszepezdi lakóházának hadtörténeti központtá alakításához szükséges intézkedésekről szóló 1156/2019. (III. 25.) Korm. határozat 1. pontjában a „431 helyrajzi szám” szövegrész helyébe a „431 és 432 helyrajzi szám” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1220/2019. (IV. 23.) Korm. határozathoz
 
@@ -107,3 +107,6 @@
 |  |  | egyéb: | azonnal |  |  | 250 000 000 |  | 250 000 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
