@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-238-20-
 | 2017-08-20 | 2017-238-20-22.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2017-238-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-02-15 | 2017-238-20-22.4 | 17/2019. (II. 14.) Korm. rendelet |
+| 2019-04-24 | 2017-238-20-22.5 | 88/2019. (IV. 23.) Korm. rendelet |
