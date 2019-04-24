@@ -1,1 +1,0 @@
-## 4. § A közszolgálati tisztviselő e rendelet szerinti határidő mulasztását akkor mentheti ki, ha az akadályoztatása megszűnését követő nyolc napon belül, de legkésőbb az elmulasztott határidő utolsó napjától számított három hónapon belül igazolja a mulasztás okát, és egyúttal pótolja az elmulasztott cselekményt.
