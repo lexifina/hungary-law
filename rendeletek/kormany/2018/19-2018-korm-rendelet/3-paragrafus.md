@@ -6,7 +6,7 @@
 
 2. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom;
 
-3. cégér: reklámnak, plakátnak nem minősülő cégtábla, cégfelirat, céglogó, üzletfelirat, üzlettábla;
+3.[^1] cégjelzés: reklámnak, plakátnak nem minősülő cégtábla, cégfelirat, céglogó;
 
 4. egyéb berendezés: építmény, sajátos építményfajta rendeltetésszerű használatát biztosító, szerelt, gépnek, egyéb műszaki berendezésnek nem minősülő eszköz, felszerelés;
 
@@ -20,7 +20,7 @@
 
 9. építészeti együttes: egymáshoz legalább homlokzati kialakításban illeszkedő, több telken álló épületek egységes építészeti koncepció szerint tervezett és megvalósított csoportja, épületegyüttese;
 
-10.[^1] építménymagasság: az illetékes kerületi önkormányzat által elfogadott, e rendelet hatálybalépése időpontjában hatályos helyi építési szabályzat szerinti beépítési paraméter;
+10.[^2] építménymagasság: az illetékes kerületi önkormányzat által elfogadott, e rendelet hatálybalépése időpontjában hatályos helyi építési szabályzat szerinti beépítési paraméter;
 
 11. fennálló: meglévő és akként dokumentált vagy dokumentálható építmény, építményrész, szerkezet vagy egyéb elem;
 
@@ -64,8 +64,13 @@ e) a kollektív befektetési formákról és kezelőikről, valamint egyes pénz
 
 25. társasház: a kiemelt nemzeti emlékhely településkép-védelmi környezetében álló ingatlanon a társasházakról szóló 2003. évi CXXXIII. törvényben meghatározott társasház;
 
-26. üzletportál: minden olyan földszinti és esetlegesen hozzá kapcsolódó félemeleti nyílászáró, annak aránya, anyaga és környezetének építészeti kialakítása, részletképzése, amely az épület földszinti helyiségeibe való bejutást lehetővé teszi és nem az épület bejárati kapuja vagy garázsbehajtója, továbbá minden olyan ezektől független nyílás, amely így megközelíthető helyiségből az utcafrontról nyílik;
+25a.[^3] üzletjelzés: reklámnak, plakátnak nem minősülő, falsíkra merőleges cégér, üzlettábla, üzletfelirat;
+
+26.[^4] üzletportál: minden olyan földszinti és esetlegesen hozzá kapcsolódó félemeleti nyílászáró, annak aránya, anyaga és környezetének építészeti kialakítása, részletképzése, amely az épület földszinti helyiségeibe való bejutást lehetővé teszi és nem az épület bejárati kapuja, garázsbehajtója vagy üzlet gazdasági bejárata, továbbá minden olyan ezektől független nyílás, amely így megközelíthető helyiségből az utcafrontról nyílik;
 
 27. vendéglátási rendeltetés: a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontjában meghatározott tevékenységet szolgáló rendeltetés, ideértve az OTÉK szerinti vendéglátó rendeltetést.
 
-[^1]: A 3. § 10. pontja a 90/2018. (IV. 25.) Korm. rendelet 7. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^1]: A 3. § 3. pontja a 85/2019. (IV. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § 10. pontja a 90/2018. (IV. 25.) Korm. rendelet 7. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^3]: A 3. § 25a. pontját a 85/2019. (IV. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^4]: A 3. § 26. pontja a 85/2019. (IV. 23.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

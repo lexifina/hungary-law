@@ -24,14 +24,14 @@ ca) terepszint alatti építmény a szükséges közműkiváltásokkal létesít
 
 cb) terepszint alatt az Országházhoz kapcsolódó látogató vagy fogadóépítmény, mélygarázs a hozzájuk tartozó kiszolgáló rendeltetések elhelyezését biztosító építményrészekkel, közlekedési célú építmény, épületgépészeti célú építmény, közműellátás építménye, illetve a b) pont ba) alpontja szerinti építményrész helyezhető el;
 
-d)[^13] a Budapest V. kerület belterület 24876, 24881, 24890, 24891, 24892, 24893, 24898, 24899, 24971/2, 24973/2, 24715, 24725, 24747/1 helyrajzi számú telek, valamint ezen földrészletekből a telekalakítási eljárások befejezését követően kialakított földrészletek tekintetében mélygarázs és egyéb közlekedési célú építmény, a hozzá tartozó kiszolgáló rendeltetések elhelyezését biztosító építményrészekkel, épületgépészeti célú építmény, közműellátás építménye, továbbá köztéri szobor és műalkotás helyezhető el;
+d)[^20] a Budapest V. kerület belterület 24876, 24881, 24890, 24891, 24892, 24893, 24898, 24899, 24971/2, 24973/2, 24715, 24725, 24747/1 helyrajzi számú telek, valamint ezen földrészletekből a telekalakítási eljárások befejezését követően kialakított földrészletek tekintetében mélygarázs és egyéb közlekedési célú építmény, a hozzá tartozó kiszolgáló rendeltetések elhelyezését biztosító építményrészekkel, épületgépészeti célú építmény, közműellátás építménye, továbbá köztéri szobor és műalkotás helyezhető el;
 
 e) a Budapest V. kerület belterület 24719 helyrajzi számú telken a mélygarázs létesítményei megszüntethetők;
 
-f)[^14] a beruházással érintett építményre, építményrészre vonatkozó műszaki, hatékonysági, funkcionális, fenntarthatósági okok miatt építési tevékenység – a településképi arculat helyreállításának kötelezettsége mellett – teljeskörűen végezhető;
+f)[^21] a beruházással érintett építményre, építményrészre vonatkozó műszaki, hatékonysági, funkcionális, fenntarthatósági okok miatt építési tevékenység – a településképi arculat helyreállításának kötelezettsége mellett – teljeskörűen végezhető;
 
-g)[^15] a közterületet érintő telekalakítás során a településrendezési eszközökben rögzített előírásokat nem kell figyelembe venni.
+g)[^22] a közterületet érintő telekalakítás során a településrendezési eszközökben rögzített előírásokat nem kell figyelembe venni.
 
-[^13]: A 19. § (2) bekezdés d) pontja a 145/2018. (VIII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^14]: A 19. § (2) bekezdés f) pontját a 145/2018. (VIII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^15]: A 19. § (2) bekezdés g) pontját a 145/2018. (VIII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^20]: A 19. § (2) bekezdés d) pontja a 145/2018. (VIII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^21]: A 19. § (2) bekezdés f) pontját a 145/2018. (VIII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^22]: A 19. § (2) bekezdés g) pontját a 145/2018. (VIII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.

@@ -12,7 +12,7 @@ a) a területi építészeti,
 
 b) az építészeti,
 
-c) a cégérekre, plakátokra, emléktáblákra, egyéb berendezésre és egyéb műszaki berendezésekre vonatkozó,
+c)[^5] a cégjelzésekre, üzletjelzésekre, plakátokra, emléktáblákra, egyéb berendezésre és egyéb műszaki berendezésekre vonatkozó,
 
 d) a sajátos építményfajtákra, műtárgyakra vonatkozó és
 
@@ -22,7 +22,7 @@ e) a közterületek alakítására vonatkozó
 
 (2) A kiemelt településkép-védelmi környezetben lévő telken az egyedi településképi követelményekkel, a IV. fejezetben és a 2. mellékletben meghatározott beépítési szabályokkal összhangban tartható fenn építmény, valamint végezhető építési és egyéb tevékenység.
 
-(3) A kiemelt településkép-védelmi környezetben cégér, plakát, emléktábla, egyéb berendezés és egyéb műszaki berendezés önállóan vagy építményen az egyedi településképi követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon tevékenység.
+(3)[^6] A kiemelt településkép-védelmi környezetben cégjelzés, üzletjelzés, plakát, emléktábla, egyéb berendezés és egyéb műszaki berendezés önállóan vagy építményen az egyedi településképi követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon tevékenység.
 
 (4) A kiemelt településkép-védelmi környezetben lévő telken sajátos építményfajta, műtárgy az egyedi településképi követelményekkel összhangban tartható fenn, helyezhető el, illetve végezhető azon építési és egyéb tevékenység.
 
@@ -37,3 +37,6 @@ e) a közterületek alakítására vonatkozó
 (9) Az egyszerűsített építéstörténeti tudományos dokumentáció tartalmát a 3. melléklet határozza meg. Az egyszerűsített építéstörténeti tudományos dokumentációt okleveles építészmérnök vagy okleveles művészettörténész készíti.
 
 (10) Az egyedi településképi követelmények a kiemelt településkép-védelmi környezetben lévő nyilvántartott műemléki értékekre, műemléki környezetre, műemléki jelentőségű területre és a fővárosi helyi egyedi és területi védett értékekre is kiterjednek.
+
+[^5]: A 6. § (1) bekezdés c) pontja a 85/2019. (IV. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § (3) bekezdése a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

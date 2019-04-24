@@ -61,3 +61,7 @@ c) a KNEB (8) bekezdés szerinti nyilatkozatát és annak részletes indokolás�
 (11) A hatóság a KNEB nyilatkozatának beérkezésétől számított 10 napon belül, amennyiben a KNEB határidőn belül nem nyilatkozik, a kérelem beérkezésétől számított 115 napon belül megküldi véleményét a kérelmezőnek, továbbá a véleményét elektronikus formában feltölti az elektronikus tárhelyre.
 
 (12) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
+
+(13)[^25] A hatóság a (9) bekezdés szerinti döntését közli a KNEB-bel.
+
+[^25]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be.

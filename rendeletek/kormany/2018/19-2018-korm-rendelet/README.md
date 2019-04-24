@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-19-20-2
 | 2018-03-02 | 2018-19-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-04-26 | 2018-19-20-22.4 | 90/2018. (IV. 25.) Korm. rendelet |
 | 2018-08-14 | 2018-19-20-22.5 | 145/2018. (VIII. 13.) Korm. rendelet |
+| 2019-04-24 | 2018-19-20-22.6 | 85/2019. (IV. 23.) Korm. rendelet |

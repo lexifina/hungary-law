@@ -17,3 +17,7 @@ bb) a tervezett építési tevékenység vagy rendeltetésváltoztatás nem ille
 bc) a KNEB nyilatkozatában a tudomásulvételt nem támogatja.
 
 (2) A hatóság (1) bekezdés szerinti döntésével szemben a 41. § (1) bekezdés b) pont szerinti hatósághoz lehet fellebbezni.
+
+(3)[^26] A hatóság az (1) bekezdés szerinti döntését közli a KNEB-bel.
+
+[^26]: A 35. § (3) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 9. §-a iktatta be.

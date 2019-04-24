@@ -1,6 +1,6 @@
 ## 21. A beruházási kölcsön támogatás szabályai
 
-48. § (1)[^19] A beruházás finanszírozásához beruházási kölcsön támogatás nyújtható.
+48. § (1)[^29] A beruházás finanszírozásához beruházási kölcsön támogatás nyújtható.
 
 (2) A beruházási kölcsön támogatás
 
@@ -42,4 +42,4 @@ d) a c) pont szerinti lakóingatlan a támogatás megítélésekor bejelentett l
 
 (10) Amennyiben a (6) bekezdés szerinti kedvezményezett a tőketörlesztés futamidejének, a tőke törlesztésének lezárulta előtt a (6) bekezdés c) pontja szerinti lakástulajdont eladja, úgy az (5) bekezdés b) pontja szerinti támogatás a Kezelő útján visszajár.
 
-[^19]: A 48. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
+[^29]: A 48. § (1) bekezdése a 90/2018. (IV. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 5. §-át.
