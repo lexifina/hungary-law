@@ -1,0 +1,1 @@
+## 97. § A vizsgálóbiztos a kijelölésétől számított 22 munkanapon belül köteles a vizsgálatot lefolytatni. Ezen határidőt a vizsgálóbiztos indítványára a fegyelmi jogkör gyakorlója indokolt esetben, a tényállás további tisztázása érdekében egy alkalommal 10 munkanappal meghosszabbíthatja.

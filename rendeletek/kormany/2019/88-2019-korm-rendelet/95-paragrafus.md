@@ -1,0 +1,1 @@
+## 94. § A kormánytisztviselő az eljárás során képviselőt vehet igénybe. A kormánytisztviselő képviselőjeként meghatalmazás útján eljárhat a hozzátartozója, a jogi képviselője és az érdekképviseleti szerv.

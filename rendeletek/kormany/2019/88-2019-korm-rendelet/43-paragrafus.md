@@ -1,0 +1,1 @@
+## 42. § A lakhatási jellegű támogatásban részesülő kormánytisztviselő a lakhatási támogatás felhasználásáról a jogosultság utolsó hónapjának 10. napjáig vagy a jogviszony megszűnése, illetve tartós távollét esetén az utolsó munkában töltött napon köteles a közszolgálati szabályzatban meghatározott módon a kormányzati igazgatási szerv felé elszámolni.
