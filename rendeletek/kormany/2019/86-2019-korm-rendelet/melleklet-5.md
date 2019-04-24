@@ -1,0 +1,128 @@
+5. melléklet a 86/2019. (IV. 23.) Korm. rendelethez
+
+A kormányablakban azonnal intézhető ügyek
+
+1. Új személyi azonosítóról és lakcímről szóló hatósági igazolvány kiállítása iránti kérelem
+
+2. Személyazonosító igazolvány eltulajdonításának, megsemmisülésének, elvesztésének, megrongálódásának, illetve megtalálásának bejelentése
+
+3. Lakóhely címének, megváltoztatásának bejelentése és nyilvántartásba vétele, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása (lakcímbejelentés)
+
+4. Tartózkodási hely címének, megváltoztatásának, megszüntetésének, megújításának a bejelentése és nyilvántartásba vétele, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása (lakcímbejelentés)
+
+5. A törvényes képviselő arra irányuló kérelme, hogy a személyi azonosítót és lakcímet igazoló hatósági igazolvány tartalmazza a 14. életévét be nem töltött kiskorú esetén a kiskorú törvényes képviselőinek nevét és a kiállítás időpontja szerinti telefonszámát
+
+6. Értesítési cím bejelentése
+
+7. Címjogosult és postafiók bérlőjének előzetes nyilatkozata arra vonatkozóan, hogy a cím (címhely vagy postafiók) értesítési címként történő nyilvántartását nem kívánja biztosítani
+
+8. Lakcímbejelentésről, értesítési cím bejelentéséről értesítés kérése
+
+9. Szállásadói nyilatkozat bejelentése és nyilvántartásba vétele
+
+10. Személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás korlátozásáról szóló nyilatkozat megtétele, visszavonása
+
+11. Egyéni vállalkozói igazolvány leadása (szünetelés, adatváltozás, megszűnés miatt)
+
+12. Forgalmi engedély cseréjére irányuló kérelem
+
+13. Forgalmi engedély pótlására irányuló kérelem, elvesztés, eltulajdonítás, megsemmisülés bejelentésével
+
+14. Törzskönyv elvesztésének bejelentése (pótlásra irányuló kérelem nélkül)
+
+15. Közúti közlekedési nyilvántartásból történő adatszolgáltatást korlátozó, tiltó nyilatkozat megtétele
+
+16. Közúti közlekedési nyilvántartásból történő adatszolgáltatást korlátozó, tiltó nyilatkozat visszavonása
+
+17. Közúti közlekedési nyilvántartás járműnyilvántartásából egyedi adatszolgáltatás iránti kérelem
+
+18. Közúti közlekedési nyilvántartás engedély-nyilvántartásából egyedi adatszolgáltatás iránti kérelem
+
+19. Jármű forgalomból történő ideiglenes kivonása iránti kérelem
+
+20. Jármű forgalomból történő átmeneti időszakra történő kivonása iránti kérelem
+
+21. Jármű forgalomból történő végleges kivonása iránti kérelem
+
+22. Jármű forgalomból történő ideiglenes kivonásának a lejárati idő előtt megelőzően való megszüntetése iránti kérelem
+
+23. Származás-ellenőrzés nyilvántartásba vétele iránti kérelem
+
+24. Eladó bejelentése a jármű tulajdonjogának változásáról
+
+25. Üzembentartó személyében bekövetkezett változás bejelentése
+
+26. Jármű átrendszámozása iránti kérelem (forgalmi engedély cseréjével együtt)
+
+27. Közúti közlekedési okmánykiállítással nem járó záradék bejegyzése, törlése iránti kérelem
+
+28. Parkolási igazolvány kiadására irányuló kérelem
+
+29. Parkolási igazolvány cseréjére irányuló kérelem
+
+30. Parkolási igazolvány pótlására irányuló kérelem
+
+31. Közúti közlekedési parkolási igazolvány nyilvántartásból adatszolgáltatás iránti kérelem
+
+32. Nemzetközi vezetői engedély kiállítása iránti kérelem
+
+33. Az előzetes eredetiségvizsgálat elvégzését és eredményét igazoló hatósági bizonyítvány kiállítása a nyilvántartásból (ha az korábban nem került kézbesítésre)
+
+34. Hatósági bizonyítvány másolat kiállítása az előzetes eredetiségvizsgálati nyilvántartásból
+
+35. Útlevél tároló elem adattartalmának ellenőrzésére irányuló kérelem
+
+36. Papíralapú hiteles tulajdonilap-másolat szolgáltatás iránti kérelem
+
+37. Ingatlan-nyilvántartási térképi adatbázisból kiadott hiteles térképmásolat iránti kérelem
+
+38. Az állandó személyazonosító igazolvány tároló eleme adattartalmának ellenőrzése
+
+39. A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló kormányrendelet (a továbbiakban: Szig. R.) szerinti állandó személyazonosító igazolványhoz tartozó PIN kód, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. § (3) bekezdése szerinti elektronikus aláíráshoz tartozó PIN kód létrehozása és cseréje, a visszavonási jelszó cseréje, valamint a blokkolódott PUK kód feloldása
+
+40. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. § (3) bekezdése szerinti e-aláírási funkcióhoz és időbélyegzés szolgáltatáshoz tartozó szolgáltatási szerződés megkötésével, új tanúsítvány igényléssel és tanúsítvány visszavonással kapcsolatos, a Szig. R.-ben előírt feladatok
+
+41. Papíralapú hiteles földhasználati lap másolat kiadása iránti kérelem
+
+42. Elektronikus Egészségügyi Szolgáltatási Tér önrendelkezési nyilatkozattal kapcsolatos bejelentés
+
+43. Elektronikus Egészségügyi Szolgáltatási Tér önrendelkezési nyilatkozattal kapcsolatos bejegyzésekről való tájékoztatás kérése
+
+44. A személyazonosító igazolvány tároló elemén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (23) bekezdése szerinti vészhelyzet esetén értesítendő telefonszáma rögzítése, cseréje és törlése
+
+45. Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában a jogosult járművek kérelem alapján történő rögzítése, módosítása
+
+46. Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában a jogosult járművek kérelem alapján történő törlése
+
+47. Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásából történő adatszolgáltatás iránti kérelem
+
+48. Új jármű első forgalomba helyezése iránti kérelem (törzskönyv, forgalmi engedély és rendszámtábla kiadásával)
+
+49. Használt jármű forgalomba helyezése iránti kérelem (törzskönyv, forgalmi engedély és rendszámtábla kiadásával)
+
+50. Jármű ideiglenes forgalomban tartásának engedélyezése iránti kérelem (ideiglenes forgalmi engedély, ideiglenes rendszámtábla és szükség esetén indítási napló kiadása – a rendszám jellegétől függően)
+
+51. Gépjármű átírása iránti kérelem (a járművek tulajdonjog-változásának nyilvántartásba vétele, törzskönyv és forgalmi engedély kiadásával)
+
+52. Különleges rendszámtábla kiadása iránti kérelem (világoszöld alapszínű rendszámtáblák esetében)
+
+53. Földműves nyilvántartásból papíralapú hiteles adatlap másolat kiadása iránti kérelem
+
+54.[^1]
+
+55.[^2]
+
+56.[^3]
+
+57.[^4]
+
+58.[^5]
+
+59.[^6]
+
+[^1]: Az 5. melléklet 54. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^2]: Az 5. melléklet 55. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^3]: Az 5. melléklet 56. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^4]: Az 5. melléklet 57. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^5]: Az 5. melléklet 58. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^6]: Az 5. melléklet 59. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
