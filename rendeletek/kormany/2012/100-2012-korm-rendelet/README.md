@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-100-20-
 | 2018-01-01 | 2012-100-20-22.17 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2018-02-15 | 2012-100-20-22.18 | 294/2016. (IX. 29.) Korm. rendelet |
 | 2018-08-14 | 2012-100-20-22.19 | 145/2018. (VIII. 13.) Korm. rendelet |
+| 2019-04-24 | 2012-100-20-22.20 | 85/2019. (IV. 23.) Korm. rendelet |

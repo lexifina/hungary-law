@@ -10,7 +10,7 @@ d) Balassi Bálint utca 1–5. szám alatti épület, Kossuth Lajos tér 11. sz�
 
 e) Vértanúk tere rekonstrukciója,
 
-f)[^2] Alkotmány utca (24892 hrsz.-ú ingatlan) felszíni rendezése,
+f)[^2] Alkotmány utca (24892 hrsz.-ú ingatlan) felszíni rendezése, Nemzeti Összetartozás Emlékhelye építése,
 
 g)[^3] a Kossuth Lajos tér 11. szám (24891 hrsz.-ú ingatlan) alatti mélygarázs és a határos közterületek alatt egyéb közlekedési célú építmény építése
 
@@ -35,7 +35,7 @@ d)[^5] a beruházással érintett épületek homlokzatához való illeszkedés �
 (5)[^7]
 
 [^1]: Az 1. § (1) bekezdése a 19/2018. (II. 14.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés f) pontja a 145/2018. (VIII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés f) pontja a 85/2019. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés g) pontját a 145/2018. (VIII. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (2) bekezdés b) pontja a 19/2018. (II. 14.) Korm. rendelet 56. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés d) pontját a 294/2016. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
