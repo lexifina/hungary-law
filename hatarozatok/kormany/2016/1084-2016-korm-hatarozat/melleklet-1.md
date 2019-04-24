@@ -34,7 +34,7 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | KEHOP- 1.1.0. | Vízgazdálkodással és az éghajlatváltozás hatásaival kapcsolatos tervezés, informatikai és monitoring fejlesztés | 14,66 | kiemelt | Meghirdetve 2015. október 12-én |
+| 2. | KEHOP- 1.1.0. | Vízgazdálkodással és az éghajlatváltozás hatásaival kapcsolatos tervezés, informatikai és monitoring fejlesztés | 14,37 | kiemelt | Meghirdetve 2015. október 12-én |
 
 | 3. | KEHOP- 1.2.0. | Klímastratégiák kidolgozásához kapcsolódó módszertan- és kapacitásfejlesztés, valamint szemléletformálás | 1,28 | kiemelt | Meghirdetve 2015. október 12-én |
 
@@ -42,11 +42,11 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 5. | KEHOP- 1.3.0. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása | 108,34 | kiemelt | Meghirdetve 2015. október 12-én |
 
-| 6. | KEHOP- 1.3.1. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása – szakaszolt projektek | 10,60 | kiemelt | Meghirdetve 2015. július 30-án |
+| 6. | KEHOP- 1.3.1. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása – szakaszolt projektek | 10,44 | kiemelt | Meghirdetve 2015. július 30-án |
 
 | 7. | KEHOP- 1.4.0. | Árvízvédelmi fejlesztések | 177,34 | kiemelt | Meghirdetve 2015. október 6-án |
 
-| 8. | KEHOP- 1.4.1. | Árvízvédelmi fejlesztések – szakaszolt projektek | 0,93 | kiemelt | Meghirdetve 2015. július 30-án |
+| 8. | KEHOP- 1.4.1. | Árvízvédelmi fejlesztések – szakaszolt projektek | 1,38 | kiemelt | Meghirdetve 2015. július 30-án |
 
 | 9. | KEHOP- 1.5.0. | Dombvidéki vízgazdálkodás fejlesztése | 14,85 | kiemelt | Meghirdetve 2015. október 12-én |
 
@@ -174,4 +174,4 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 [^6]: Az 1. pont i) alpontját az 1905/2017. (XII. 6.) Korm. határozat 1. pontja iktatta be.
 [^7]: Az 1. pont j) alpontját az 1636/2018. (XII. 5.) Korm. határozat 5. pontja iktatta be.
 [^8]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja, az 1268/2018. (VI. 11.) Korm. határozat 1. pont a) alpontja és 2. pont 2.2–2.4. alpontja, az 1636/2018. (XII. 5.) Korm. határozat 6. pont a) alpontja, 8. pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja, az 1268/2018. (VI. 11.) Korm. határozat 1. pont a) alpontja és 2. pont 2.2–2.4. alpontja, az 1636/2018. (XII. 5.) Korm. határozat 6. pont a) alpontja, 8. pontja, az 1229/2019. (IV. 23.) Korm. határozat 3. pont a)–c) pontja szerint módosított szöveg.
