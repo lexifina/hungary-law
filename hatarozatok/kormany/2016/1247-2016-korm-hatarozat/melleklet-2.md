@@ -8,11 +8,11 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások |
 
-| 2. | IKOP-1.1.0-15 | M86 gyorsforgalmi út Szeleste–Csorna szakasz II. ütem megvalósítása Hegyfalu–Csorna szakasz a 105+800–139+165 kmsz. – szakaszolt projekt | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) | 15,62 (92,33% támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése. |
+| 2. | IKOP-1.1.0-15 | M86 gyorsforgalmi út Szeleste–Csorna szakasz II. ütem megvalósítása Hegyfalu–Csorna szakasz a 105+800–139+165 kmsz. – szakaszolt projekt | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (a továbbiakban: NIF Zrt.) | 16,8 (támogatási intenzitás: 100%) | 2x2 sávos autóút építése. |
 
-| 3. | IKOP-1.1.0-15 | 8. sz. főút Székesfehérvár nyugati elkerülő III. szakasz építése – szakaszolt projekt | NIF Zrt. | 1,73 (78,7% támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos emelt sebességű főút építése. |
+| 3. | IKOP-1.1.0-15 | 8. sz. főút Székesfehérvár nyugati elkerülő III. szakasz építése – szakaszolt projekt | NIF Zrt. | 2,2 (támogatási intenzitás: 100%) | 2x2 sávos emelt sebességű főút építése. |
 
-| 4. | IKOP-1.1.0-15 | 8. sz. főút Várpalota I. szakasz 23+900–29+700 km szelvények közötti szakasz tervezése és kivitelezése – szakaszolt projekt | NIF Zrt. | 10,21 (78,7% támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos emelt sebességű főút építése. |
+| 4. | IKOP-1.1.0-15 | 8. sz. főút Várpalota I. szakasz 23+900–29+700 km szelvények közötti szakasz tervezése és kivitelezése – szakaszolt projekt | NIF Zrt. | 12,97 (támogatási intenzitás: 100%) | 2x2 sávos emelt sebességű főút építése. |
 
 | 5. | IKOP-1.1.0-15 | A TEN-T közúti hálózat közlekedésbiztonságának, szolgáltatási színvonalának, fenntarthatóságának javítását célzó, az üzemeltetési, fenntartási telephelyek fejlesztése – szakaszolt projekt | Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (továbbiakban: MK NZrt.) | 1,85 (becsült támogatási intenzitás: 100%) | A támogatást igénylő azon üzemmérnökségeinek fejlesztése, amelyek 2016-tól transzeurópai közlekedési hálózat (a továbbiakban: TEN-T) részét képező autópályák üzemeltetési feladatait is ellátják (Szombathely, Csorna, Szolnok). |
 
@@ -22,9 +22,9 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 8. | IKOP-1.1.0-15 | Tengelysúly- és össztömegmérő állomás kiépítése az M7 autópálya 192 km szelvényében lévő kétoldali pihenőhelyen (Zalakomári pihenő) – szakaszolt projekt | NIF Zrt. | 0,58 (támogatási intenzitás: 100%) | Kétoldali tengelysúlymérő és össztömegmérő állomások kialakítása. |
 
-| 9. | IKOP-1.1.0-15 | M4 autópálya Berettyóújfalu–Nagykereki (országhatár) közötti szakasz megvalósítása | NIF Zrt. | 93,09 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autópálya építése két építési ütemre bontva: “M4 autópálya Berettyóújfalu – 47. sz. főút (2+550-5+500) szakasz” között és “M4 autópálya Berettyóújfalu–Nagykereki, országhatár közötti szakasz” megvalósítása a 47. sz. főút – Nagykereki oh. (5+500-32+038) között. |
+| 9. | IKOP-1.1.0-15 | M4 autópálya Berettyóújfalu–Nagykereki (országhatár) közötti szakasz megvalósítása | NIF Zrt. | 96,42 (támogatási intenzitás: 93,22%) | 2x2 sávos autópálya építése két építési ütemre bontva: “M4 autópálya Berettyóújfalu – 47. sz. főút (2+550-5+500) szakasz” között és “M4 autópálya Berettyóújfalu–Nagykereki, országhatár közötti szakasz” megvalósítása a 47. sz. főút – Nagykereki oh. (5+500-32+038) között. |
 
-| 10. | IKOP-1.1.0-15 | M35 autópálya (I. ütem) 4. sz. főút – 481. sz. főút közötti szakasz és a 481. sz. főút megvalósítása” valamint M35 autópálya (II. ütem) 481. sz. főút – Berettyóújfalu közötti szakasz megvalósítása | NIF Zrt. | 67,50 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autópálya építése és a 481. számú főút építése. |
+| 10. | IKOP-1.1.0-15 | M35 autópálya (I. ütem) 4. sz. főút – 481. sz. főút közötti szakasz és a 481. sz. főút megvalósítása” valamint M35 autópálya (II. ütem) 481. sz. főút – Berettyóújfalu közötti szakasz megvalósítása | NIF Zrt. | 72,75 (támogatási intenzitás: 97,39%) | 2x2 sávos autópálya építése és a 481. számú főút építése. |
 
 | 11. | IKOP-1.1.0-15 | M34 gyorsforgalmi út Vásárosnamény–Záhony közötti szakasz előkészítése | NIF Zrt. | 2,67 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút előkészítése. |
 
@@ -34,7 +34,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 14. | IKOP-1.1.0-15 | M6 autóút Bóly–Ivándárda, országhatár közötti szakasz megvalósítása Villányi csomóponttal | NIF Zrt. | 54,58 (becsült támogatási intenzitás: 100%) | 2x2 sávos autóút építése Villányi csomóponttal. |
 
-| 15. | IKOP-1.1.0-15 | 62. sz. főút Szabadegyháza-ipartelep elkerülő szakasz megvalósítása | NIF Zrt. | 2,63 (77,39% támogatási intenzitás szerint csökkentett összeg) | 2x1 sávos főút építése. |
+| 15. | IKOP-1.1.0-15 | 62. sz. főút Szabadegyháza-ipartelep elkerülő szakasz megvalósítása | NIF Zrt. | 3,23 (támogatási intenzitás: 95,65%) | 2x1 sávos főút építése. |
 
 | 16. | IKOP-1.1.0-15 | M70 autóút Letenye– Tornyiszentmiklós közötti szakasz 2×2 sávra történő bővítése kiegészítő munkák | NIF Zrt. | 2,46 (96,1% támogatási intenzitás szerint csökkentett összeg) | A projekttel szembeni szakmai elvárás M70 autópálya kiegészítő munkálatainak elvégzése: 1. A 9+195–9+535 kilométerszelvény között (340 m hosszban), valamint a 11+510–11+850 kilométerszelvény között (340 m hosszban) a bal pálya szélesítése és a jobb pálya építése szalagkorláttal. 2. A 9+535–11+510 kilométerszelvény között (1975 m hosszban) a szalagkorlát cseréje. 3. Tornyiszentmiklós pihenőhely 20+600 km szelvényben lévő térfigyelő és forgalomfigyelő kamera és portálszerkezet telepítése, valamint a Tornyiszentmiklós pihenőhelyhez mintegy 350 m hosszban üzemi forduló építése. 4. A jobb és bal pálya kopóréteg kifuttatása és szalagkorlát cseréje a kezdő szelvény előtt a 3+295–3+760 kilométerszelvény között, valamint a végszelvény után a 16+510–17+000 kilométerszelvény közötti szakaszon, valamint 4 cm kopóréteg marása és szőnyegezése a 9+535–11+510 kilométerszelvény között (1975 m hosszban). |
 
@@ -46,7 +46,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 19. | IKOP-1.1.0-15 | M2 gyorsforgalmi út megvalósítása Budapest–Vác között | NIF Zrt. | 35,55 (90% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autópályává fejleszthető autóút építése bekötőutak nélkül. |
 
-| 20. | IKOP-1.1.0-15 | 8. sz. főút Várpalota elkerülő II. ütem Pétfürdői csomópont (29+700-33+100 kmsz. között) kivitelezése | NIF Zrt. | 5,38 (78,7% támogatási intenzitás szerint csökkentett összeg) | A 8. számú főút Várpalotát elkerülő szakasza I. üteme keretében elkészült útszakasznak a 8. számú főút eredeti nyomvonalába történő visszakötésének megépítése külön szintű pétfürdői csomópont építésével. |
+| 20. | IKOP-1.1.0-15 | 8. sz. főút Várpalota elkerülő II. ütem Pétfürdői csomópont (29+700-33+100 kmsz. között) kivitelezése | NIF Zrt. | 6,83 (támogatási intenzitás: 100%) | A 8. számú főút Várpalotát elkerülő szakasza I. üteme keretében elkészült útszakasznak a 8. számú főút eredeti nyomvonalába történő visszakötésének megépítése külön szintű pétfürdői csomópont építésével. |
 
 | 21. | IKOP-1.1.0-15 | M0 autóút Északi szektor, 11.– 10. sz. főutak közötti szakasz előkészítése (tervezés) | NIF Zrt. | 1,91 (becsült támogatási intenzitás: 100%) | 2x2 sávos, részben alagútban vezetett autóút építésének előkészítése (tervezés). |
 
@@ -54,7 +54,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 23. | IKOP-1.1.0-15 | M30 autóút Tornyosnémeti-országhatár közötti szakasz megvalósítása | NIF Zrt. | 4,32 (90% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése. |
 
-| 24. | IKOP-1.1.0-15 | 55. sz. főút Mórahalom elkerülő és megyehatár közötti szakaszán 115 kN tengelyterhelésre történő burkolat megerősítés és a főúttal párhuzamosan kerékpárút kivitelezési munkáinak elvégzése | NIF Zrt. | 4,99 (75,14% támogatási intenzitás szerint csökkentett összeg) | Az 55. számú főút burkolatának 11,5 tonnás tengelyterhelésre történő megerősítése, és a főúttal párhuzamos kerékpárút kivitelezése. |
+| 24. | IKOP-1.1.0-15 | 55. sz. főút Mórahalom elkerülő és megyehatár közötti szakaszán 115 kN tengelyterhelésre történő burkolat megerősítés és a főúttal párhuzamosan kerékpárút kivitelezési munkáinak elvégzése | NIF Zrt. | 6,44 (támogatási intenzitás: 97,1%) | Az 55. számú főút burkolatának 11,5 tonnás tengelyterhelésre történő megerősítése, és a főúttal párhuzamos kerékpárút kivitelezése. |
 
 | 25. | IKOP-1.1.0-15 | M7 autópálya és 710. sz. főút csomópontjának kialakítása, 710. sz. főúti bekötéssel | NIF Zrt. | 7,76 (93% támogatási intenzitás szerint csökkentett összeg) | Az M7 autópálya és a 710. számú főút csomópontjának kialakítása, valamint a 710. számú főúti bekötés megvalósítása. |
 
@@ -270,4 +270,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 47,25 (támogatási intenzitás: 100%) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^10]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja, az 1342/2018. (VII. 25.) Korm. határozat 2. pontja és 3. pont c) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 4. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 3. pontja, 4. pont c) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 8. pontja, az 1563/2018. (XI. 10.) Korm. határozat 3. pontja, az 1580/2018. (XI. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^10]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja, az 1342/2018. (VII. 25.) Korm. határozat 2. pontja és 3. pont c) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 4. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 3. pontja, 4. pont c) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 8. pontja, az 1563/2018. (XI. 10.) Korm. határozat 3. pontja, az 1580/2018. (XI. 17.) Korm. határozat 3. pontja, az 1225/2019. (IV. 23.) Korm. határozat 5. pontja szerint módosított szöveg.
