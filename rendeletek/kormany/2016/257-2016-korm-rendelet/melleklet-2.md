@@ -28,7 +28,7 @@
 
 | 11. | hagyatéki leltár rendszer | Kincstár | Kincstár | Kincstár |
 
-2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^36]
+2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^47]
 
 ## Az önkormányzati ASP rendszer szakrendszereinek használatához szükséges felhasználói (önkormányzati) munkaállomásokkal szembeni minimális elvárások
 
@@ -174,16 +174,16 @@
 
 | IT biztonság | Elvárt informatikai biztonsági megfelelés: Az állami és önkormányzati szervek elektronikus információbiztonságáról történő megfelelésről szóló 2013. évi L. törvény, továbbá a biztonsági osztályba és biztonsági szintbe sorolásra vonatkozó követelményekről szóló 41/2015. (VII. 15.) BM rendelet rendelkezéseiből következő, a rendszer biztonsági osztályba sorolása alapján megállapított információbiztonsági követelményeknek történő megfelelés |
 
-| Sávszélesség és szükséges hálózati eszközök | Interneteléréshez és helyi hálózat kiépítéséhez, bővítéséhez szükséges eszközök, pl. router, switch, kábelek. Minimum feltételek: |
+| Sávszélesség és szükséges hálózati eszközök | Interneteléréshez és helyi hálózat kiépítéséhez, bővítéséhez szükséges eszközök, pl. router, switch, kábelek. Minimumfeltételek: |
 
-|  | Lakos szám: | ASP minimumelvárás: |  |
+|  | Lakosszám: | ASP minimumelvárás: |  |
 
-|  | 500 alatt | 4 Mbit/sec néveleges sávszélesség |  |
+| 500 alatt | 4 Mbit/sec néveleges sávszélesség |
 
-|  | 500-10 1000 között | 8 Mbit/sec néveleges sávszélesség |  |
+| 500–10 000 között | 8 Mbit/sec néveleges sávszélesség |
 
-|  | 10 000 felett | 30 Mbit/sec néveleges sávszélesség |  |
+| 10 000 felett | 30 Mbit/sec néveleges sávszélesség |
 
 | Ajánlott feltételek: A kormányzati hálózatfejlesztési koncepciókkal összhangban valamennyi településtípus ajánlott sávszélessége minimum 30/30 Mbit/sec szimmetrikus sávszélesség |
 
-[^36]: A 2. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^47]: A 2. melléklet a 100/2017. (IV. 28.) Korm. rendelet 10. § (1) bekezdésével, a 75/2019. (IV. 9.) Korm. rendelet 9. §-a szerint módosított szöveg.

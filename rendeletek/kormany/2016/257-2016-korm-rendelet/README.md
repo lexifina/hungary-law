@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-257-20-
 | 2017-12-01 | 2016-257-20-22.5 | 361/2017. (XI. 30.) Korm. rendelet |
 | 2018-08-16 | 2016-257-20-22.6 | 148/2018. (VIII. 13.) Korm. rendelet |
 | 2018-10-03 | 2016-257-20-22.7 | 179/2018. (X. 2.) Korm. rendelet |
+| 2019-04-24 | 2016-257-20-22.8 | 75/2019. (IV. 9.) Korm. rendelet |
