@@ -1,12 +1,12 @@
-## 3. [^4] A közszolgálati továbbképzés ágazati irányítása
+## 3. [^8] A közszolgálati továbbképzés ágazati irányítása
 
 ## A közszolgálati életpálya kidolgozásáért felelős miniszter feladatai
 
 3. § (1) A kormánytisztviselő, köztisztviselő továbbképzése állami feladat.
 
-(2)[^5] A kormánytisztviselők, köztisztviselők továbbképzésének, vezetőképzésének ágazati irányítása a közszolgálati életpálya kidolgozásáért felelős miniszter (a továbbiakban: miniszter) feladata.
+(2)[^9] A kormánytisztviselők, köztisztviselők továbbképzésének, vezetőképzésének ágazati irányítása a közszolgálati életpálya kidolgozásáért felelős miniszter (a továbbiakban: miniszter) feladata.
 
-(3)[^6] A miniszter irányítási és felügyeleti jogkörében különösen:
+(3)[^10] A miniszter irányítási és felügyeleti jogkörében különösen:
 
 a) irányítja a továbbképzés intézményrendszerét, kialakítja és működteti – az NKE közreműködésével – a továbbképzés minőségirányítási rendszerét;
 
@@ -20,12 +20,12 @@ e) egyetértési jogot gyakorol minősített továbbképzési program – ágaza
 
 f) jóváhagyja a megvalósított közszolgálati továbbképzésekről és az éves továbbképzési tervek végrehajtásáról szóló, az NKE által elkészített jelentést;
 
-g)[^7] a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel közösen kiadja az állami tisztviselői továbbképzés és a közszolgálati továbbképzés egységes minőségirányítási szabályzatát az NKE – az Állami Tisztviselői Továbbképzési Kollégium és a Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK) által véleményezett – javaslata alapján, és az NKE bevonásával ellenőrzi a továbbképzési programok minőségét;
+g)[^11] a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel közösen kiadja a közszolgálati továbbképzés egységes minőségirányítási szabályzatát az NKE – a Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK) által véleményezett – javaslata alapján, és az NKE bevonásával ellenőrzi a továbbképzési programok minőségét;
 
-h)[^8] 15 munkanapon belül elbírálja a programminősítési eljárással kapcsolatban benyújtott panaszt.
+h)[^12] 15 munkanapon belül elbírálja a programminősítési eljárással kapcsolatban benyújtott panaszt.
 
-[^4]: A 3. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 691. §-a szerint módosított szöveg.
-[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 690. §-ával megállapított szöveg.
-[^6]: A 3. § (3) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: A 3. § (3) bekezdés g) pontja a 321/2016. (X. 27.) Korm. rendelet 15. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14. §-át.
-[^8]: A 3. § (3) bekezdés h) pontja a 108/2016. (V. 18.) Korm. rendelet 30. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 3. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 691. §-a szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 690. §-ával megállapított szöveg.
+[^10]: A 3. § (3) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: A 3. § (3) bekezdés g) pontja a 321/2016. (X. 27.) Korm. rendelet 15. §-ával megállapított, a 90/2019. (IV. 23.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^12]: A 3. § (3) bekezdés h) pontja a 108/2016. (V. 18.) Korm. rendelet 30. § (1) bekezdés a) pontja szerint módosított szöveg.

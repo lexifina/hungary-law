@@ -1,6 +1,6 @@
 ## 2. Értelmező rendelkezések
 
-2. § (1)[^3] E rendelet alkalmazásában:
+2. § (1)[^7] E rendelet alkalmazásában:
 
 a) felnőttképzési intézmény: a felnőttképzésről szóló törvényben szabályozott feltételeknek megfelelő, engedéllyel rendelkező, felnőttképzést folytató intézmény;
 
@@ -32,4 +32,4 @@ m) továbbképzési programminősítés: továbbképzési programok megfelelős�
 
 (3) A nemzetközi kötelezettség teljesítéséhez kapcsolódó speciális szakmai ismeretek, készségek megszerzésére irányuló kül- és belföldi képzésre, illetve nemzetközi konferenciára, tanulmányútra a belső továbbképzési programra vonatkozó szabályokat kell alkalmazni.
 
-[^3]: A 2. § (1) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (1) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
