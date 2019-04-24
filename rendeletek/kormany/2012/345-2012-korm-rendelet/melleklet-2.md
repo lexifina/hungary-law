@@ -542,6 +542,8 @@
 
 ## 1.270. 8. sz. főút Veszprém déli elkerülő út fejlesztéséhez kapcsolódó feladatok.
 
+## 1.271. Az 5. sz. főút M43 autópálya és Szeged közötti szakasz fejlesztése és kapcsolódó közúti beruházások
+
 ## 2. Vasúti közlekedési projektek
 
 ## 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
