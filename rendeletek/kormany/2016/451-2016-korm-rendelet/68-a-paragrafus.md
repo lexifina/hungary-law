@@ -1,10 +1,10 @@
 ## 68. § Az elektronikus ügyintézést biztosító szerv köteles biztosítani az e-Papír szolgáltatás útján előterjesztett beadványok befogadását, ha az adott ügytípus elektronikus űrlappal nem támogatott.
 
-## 23/A. [^25] Szabályozott, illetve központi elektronikus ügyintézési szolgáltatások elektronikus ügyintézést nem biztosító szerv általi igénybevétele
+## 23/A. [^26] Szabályozott, illetve központi elektronikus ügyintézési szolgáltatások elektronikus ügyintézést nem biztosító szerv általi igénybevétele
 
 68/A. § (1) Az elektronikus ügyintézést biztosítónak nem minősülő gazdálkodó szervezet (a továbbiakban: piaci szereplő) a SZEÜSZ-t, valamint KEÜSZ-t – a (2) bekezdésben meghatározott kivétellel – a 2. melléklet szerint megállapított díj megfizetése ellenében veheti igénybe. A piaci szereplő és az adott SZEÜSZ, illetve KEÜSZ nyújtására a SZEÜSZ vagy KEÜSZ szolgáltató szerződést köt. A piaci szereplőt az igénybevétel során az adott SZEÜSZ és KEÜSZ felhasználása tekintetében elektronikus ügyintézést biztosító szervnek kell tekinteni.
 
-(2)[^26] Az EFER tranzakciós díjak és a Magyar Államkincstár által alkalmazott, átutalási műveletekhez kapcsolódó díjak, valamint a dokumentumtárolási szolgáltatáshoz kapcsolódó tárhelyszolgáltatás kapacitásdíja kivételével nem köteles díj fizetésére, és jogosult a szolgáltatás igénybevételére a piaci szereplő, ha
+(2)[^27] Az EFER tranzakciós díjak és a Magyar Államkincstár által alkalmazott, átutalási műveletekhez kapcsolódó díjak, valamint a dokumentumtárolási szolgáltatáshoz kapcsolódó tárhelyszolgáltatás kapacitásdíja kivételével nem köteles díj fizetésére, és jogosult a szolgáltatás igénybevételére a piaci szereplő, ha
 
 a) állami vagy önkormányzati költségvetési szerv, vagy
 
@@ -32,5 +32,5 @@ a) a (4) bekezdés szerinti okból, vagy
 
 b) ha az igénybevevő nem teljesíti a szerződésben vállalt kötelezettségeit.
 
-[^25]: A 23/A. alcímet (68/A–68/B. §) a 361/2017. (XI. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be.
-[^26]: A 68/A. § (2) bekezdése a 179/2018. (X. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^26]: A 23/A. alcímet (68/A–68/B. §) a 361/2017. (XI. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be.
+[^27]: A 68/A. § (2) bekezdése a 179/2018. (X. 2.) Korm. rendelet 12. §-ával megállapított szöveg.

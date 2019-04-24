@@ -2,7 +2,7 @@
 
 ## 40. § A 16. alcím vonatkozásában:
 
-1.[^12] csatlakozott ügyfélszolgálat: 1818-as számon hívható, az országos telefonos ügyfélszolgálathoz csatlakozott olyan telefonos ügyfélszolgálat, mely a 8. pontban foglalt országos telefonos ügyfélszolgálat feladatainak ellátásában közvetlenül vesz részt, és a Kormányzati Ügyfélvonal működtetője által meghatározott szolgáltatási szabályok alapján működik;
+1.[^13] csatlakozott ügyfélszolgálat: 1818-as számon hívható, az országos telefonos ügyfélszolgálathoz csatlakozott olyan telefonos ügyfélszolgálat, mely a 8. pontban foglalt országos telefonos ügyfélszolgálat feladatainak ellátásában közvetlenül vesz részt, és a Kormányzati Ügyfélvonal működtetője által meghatározott szolgáltatási szabályok alapján működik;
 
 2. kapcsolattartási csatorna: a 8. pontban foglalt országos telefonos ügyfélszolgálat és az ügyfelek között rendelkezésre álló szóbeli és elektronikus kapcsolattartási formák, ilyen különösen a telefon, internetprotokollon alapuló telefon (VoIP), telefax, rövid szöveges üzenet (SMS), azonnali válaszadást lehetővé tevő chatszolgáltatás, a fórum és az elektronikus levél (e-mail);
 
@@ -18,4 +18,4 @@
 
 8. országos telefonos ügyfélszolgálat: online hozzáférés lehetőségét is biztosító telefonos ügyfélszolgálati hálózat, amely a Kormányzati Ügyfélvonalból és a csatlakozott ügyfélszolgálatokból áll.
 
-[^12]: A 40. § 1. pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^13]: A 40. § 1. pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

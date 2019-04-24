@@ -1,4 +1,4 @@
-134/F. §[^85] (1)[^86] A KKSZB-n keresztül nyújtott szolgáltatás szolgáltatója biztosítja a szolgáltatásának keretében megvalósuló valamennyi műveletnek olyan megoldással történő naplózását, amely az utólagos észlelhetetlen módosítás lehetőségét kizárja.
+134/F. §[^86] (1)[^87] A KKSZB-n keresztül nyújtott szolgáltatás szolgáltatója biztosítja a szolgáltatásának keretében megvalósuló valamennyi műveletnek olyan megoldással történő naplózását, amely az utólagos észlelhetetlen módosítás lehetőségét kizárja.
 
 (2) A naplónak tartalmaznia kell legalább
 
@@ -12,5 +12,5 @@ d) a KKSZB-n keresztül nyújtott szolgáltatás igénybevételével lezajlott i
 
 (3) A KKSZB-n keresztül nyújtott szolgáltatás szolgáltatója a naplónyilvántartásban szereplő adatokat történeti nyilvántartásban kezeli.
 
-[^85]: A 134/F. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
-[^86]: A 134/F. § (1) bekezdése a 179/2018. (X. 2.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^86]: A 134/F. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^87]: A 134/F. § (1) bekezdése a 179/2018. (X. 2.) Korm. rendelet 25. §-ával megállapított szöveg.

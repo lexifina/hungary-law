@@ -22,9 +22,9 @@ b) természetes személy ügyfél esetében, ha rendelkezik KASZ-szal, és azzal
 
 c) gazdálkodó szervezet és egyéb nem természetes személy esetében, ha az önálló képviseletre jogosult képviselője vagy meghatalmazottja rendelkezik KASZ-szal, és azzal azonosítja magát, és képviseleti jogosultságát is igazolja.
 
-(3)[^57] A telefonos ügyfélszolgálatnál tett nyilatkozatot az ügyfél azonosítását követően az ügyfélszolgálat írásban rögzíti, és a személyhez rendelést záradékban igazolja.
+(3)[^58] A telefonos ügyfélszolgálatnál tett nyilatkozatot az ügyfél azonosítását követően az ügyfélszolgálat írásban rögzíti, és a személyhez rendelést záradékban igazolja.
 
-(4)[^58] A szolgáltató az ügyintézési rendelkezések nyilvántartása alapján kiállított, általa hitelesített igazolásban automatikus információátadás útján, a 134. § szerinti ügynöki szolgáltatás igénybevételével vagy más, automatizált feldolgozásra alkalmas módon tájékoztatja az elektronikus ügyintézést biztosító szervet vagy más szolgáltatót az ügyintézési rendelkezés tartalmáról.
+(4)[^59] A szolgáltató az ügyintézési rendelkezések nyilvántartása alapján kiállított, általa hitelesített igazolásban automatikus információátadás útján, a 134. § szerinti ügynöki szolgáltatás igénybevételével vagy más, automatizált feldolgozásra alkalmas módon tájékoztatja az elektronikus ügyintézést biztosító szervet vagy más szolgáltatót az ügyintézési rendelkezés tartalmáról.
 
-[^57]: A 93. § (3) bekezdése a 179/2018. (X. 2.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^58]: A 93. § (4) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^58]: A 93. § (3) bekezdése a 179/2018. (X. 2.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^59]: A 93. § (4) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.

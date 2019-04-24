@@ -14,6 +14,8 @@ e) a 38. § (3) bekezdés e) pontja szerinti tájékoztatók tekintetében az eg
 
 (3) Ha egy ügykör tekintetében több szakminiszter érintett, az ügykörhöz kapcsolódóan a tudástár tartalmának hatályosítását a szabályozási területért első helyen felelős szakminiszter köteles elvégezni.
 
+(3a)[^12] Az önkormányzati ASP rendszerről szóló 257/2016. (VIII. 31.) Korm. rendelet 3. § (2) bekezdés c) pontja szerinti elektronikus űrlap-szolgáltatással érintett ügykörök esetén a Magyar Államkincstár jelzi a tudástárban, hogy az adott ügykör elektronikus űrlap kitöltésével kezdeményezhető-e.
+
 (4) A tudástárba új ügykör bejegyzésére, a tudástárban lévő ügykörök tartalmának módosítására, illetve törlésére a közigazgatás szervezéséért felelős miniszter formai és tartalmi ellenőrzését követően kerülhet sor.
 
 (5) Formai hiba észlelése esetén a formai hibát a közigazgatás szervezéséért felelős miniszter az (1) bekezdés szerinti felelős egyidejű értesítése mellett kijavítja.
@@ -23,3 +25,4 @@ e) a 38. § (3) bekezdés e) pontja szerinti tájékoztatók tekintetében az eg
 (7) Ha tartalmi hiba kijavításának módjáról vagy annak szükségességéről vita van a közigazgatás szervezéséért felelős miniszter és az (1) bekezdés szerinti felelős szakminiszter között, a felek kötelesek a vitát egyeztetés keretében megkísérelni rendezni.
 
 [^11]: A 39. § (1) bekezdés c) pontja a 171/2017. (VI. 29.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^12]: A 39. § (3a) bekezdését a 75/2019. (IV. 9.) Korm. rendelet 12. §-a iktatta be.

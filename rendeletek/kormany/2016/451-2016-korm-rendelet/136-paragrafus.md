@@ -8,9 +8,9 @@ a) nevét, székhelyét, hivatalos elektronikus elérhetőségét;
 
 b) kapcsolattartójának nevét és elektronikus elérhetőségét, ha a kapcsolattartó az adatai kezeléséhez hozzájárult;
 
-c)[^90] azon ügyeket, amelyekben az elektronikus ügyintézés lehetőségét biztosítja, és ennek kezdő időpontját, valamint
+c)[^91] azon ügyeket, amelyekben az elektronikus ügyintézés lehetőségét biztosítja, és ennek kezdő időpontját, valamint
 
-d)[^91]
+d)[^92]
 
-[^90]: A 136. § (3) bekezdés c) pontja a 179/2018. (X. 2.) Korm. rendelet 33. § f) pontja szerint módosított szöveg.
-[^91]: A 136. § (3) bekezdés d) pontját a 179/2018. (X. 2.) Korm. rendelet 34. § c) pontja hatályon kívül helyezte.
+[^91]: A 136. § (3) bekezdés c) pontja a 179/2018. (X. 2.) Korm. rendelet 33. § f) pontja szerint módosított szöveg.
+[^92]: A 136. § (3) bekezdés d) pontját a 179/2018. (X. 2.) Korm. rendelet 34. § c) pontja hatályon kívül helyezte.

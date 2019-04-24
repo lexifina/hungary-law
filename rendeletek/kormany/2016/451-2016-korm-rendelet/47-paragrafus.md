@@ -1,4 +1,4 @@
-47. § (1)[^18] Az országos telefonos ügyfélszolgálat feladatai ellátásának biztosítására az országos telefonos ügyfélszolgálat működtetője a csatlakozni kívánó szervvel és az elektronikus ügyintézést biztosító szervvel egyedileg együttműködési megállapodást köt, amely tartalmazza különösen:
+47. § (1)[^19] Az országos telefonos ügyfélszolgálat feladatai ellátásának biztosítására az országos telefonos ügyfélszolgálat működtetője a csatlakozni kívánó szervvel és az elektronikus ügyintézést biztosító szervvel egyedileg együttműködési megállapodást köt, amely tartalmazza különösen:
 
 a) az ügyfélszolgálatot működtető szerv
 
@@ -22,4 +22,4 @@ f) továbbá az e rendeletben és a szolgáltatási szabályzatban nem szabályo
 
 (2) Az együttműködési megállapodásban foglaltak a szolgáltatási szabályzatban meghatározottaktól kizárólag az országos telefonos ügyfélszolgálat működtetőjének szakmai mérlegelése eredményeképpen történő jóváhagyásával térhetnek el.
 
-[^18]: A 47. § (1) bekezdés nyitó szövegrésze a 361/2017. (XI. 30.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^19]: A 47. § (1) bekezdés nyitó szövegrésze a 361/2017. (XI. 30.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
