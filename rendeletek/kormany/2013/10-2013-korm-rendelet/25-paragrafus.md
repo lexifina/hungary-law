@@ -4,9 +4,9 @@
 
 25. § (1) Ez a rendelet 2013. július 1-jén lép hatályba.
 
-(2)–(4)[^24]
+(2)–(4)[^25]
 
-(5)[^25]
+(5)[^26]
 
-[^24]: A 25. § (2)–(4) bekezdését a 157/2015. (VI. 25.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
-[^25]: A 25. § (5) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 157/2015. (VI. 25.) Korm. rendelet 42. § b) pontja.
+[^25]: A 25. § (2)–(4) bekezdését a 157/2015. (VI. 25.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
+[^26]: A 25. § (5) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 157/2015. (VI. 25.) Korm. rendelet 42. § b) pontja.
