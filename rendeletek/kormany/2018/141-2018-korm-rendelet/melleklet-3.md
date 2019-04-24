@@ -40,6 +40,10 @@
 
 | 19. | iparterület kialakítása Bükön | Bük város külterület 04/47, 04/49, 04/56, 04/58, 04/46, 04/44, 04/16, 04/17, 04/19, 04/45, 04/48, 04/57, valamint a Bük város belterület 1474/3, 1475/1, 1475/3, 1474/1, 1475/2 és 1474/2 helyrajzi számok alatt található ingatlanok, valamint az ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészletek | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^26]
+| 20. | Új üzemcsarnok megvalósítására irányuló beruházás Litér külterületén | Litér külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti 1403/1 és 1403/2 helyrajzi számú ingatlanok. | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^26]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| 21. | Élelmiszeripari, illetve kapcsolódó logisztikai beruházás Szeged II. kerület külterületén | Szeged közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti II. kerület külterület 01387, 01385/4, 01383/7, 01379/12, 01386 és 01380 helyrajzi számú ingatlanok. | Csongrád Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^30]
+
+[^30]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
