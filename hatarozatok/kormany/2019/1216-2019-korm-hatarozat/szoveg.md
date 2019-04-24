@@ -12,10 +12,12 @@ b) 2.1. pont b) alpontjában foglaltaktól eltérően egyetért azzal, hogy a V�
 
 c) 3. pontjában foglaltaktól eltérően, az abban meghatározott határidőt – 2019. december 31. napja helyett – 2020. június 30. napjában határozza meg;
 
-4. visszavonja az 1372/2018. (VIII. 13.) Korm. határozat 2.1. pont c) alpontját;
+4.[^1]
 
 5. felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy szükséges esetben gondoskodjanak a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársasággal megkötött egyes támogatási szerződések módosításáról az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 95. § (5) bekezdése alapján.
 
 Felelős: Miniszterelnökséget vezető miniszter, az Országgyűlés Hivatala főigazgatójának felkérésével
 
 Határidő: a felmerülés ütemében
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
