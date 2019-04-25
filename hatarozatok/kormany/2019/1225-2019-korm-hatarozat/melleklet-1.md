@@ -6,29 +6,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 1. pont h) alpontjában a „201,12%-áig” szövegrész helyébe a „201,04%-áig” szöveg lép.
+## 3.[^1]
 
-## 4. Az 1247/2016. (V. 18.) Korm. határozat 1. melléklet 1. pontjában foglalt táblázat C:2 mezőjében a „633,30” szövegrész helyébe a „648,48” szöveg lép.
+## 4.[^2]
 
-## 5. Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:2 mezőjében a „15,62 (92,33% támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „16,8 (támogatási intenzitás: 100%)” szöveg,
-
-## b) D:3 mezőjében az „1,73 (78,7% támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „2,2 (támogatási intenzitás: 100%)” szöveg,
-
-## c) D:4 mezőjében a „10,21 (78,7% támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „12,97 (támogatási intenzitás: 100%)” szöveg,
-
-## d) D:9 mezőjében a „93,09 (90% becsült támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „96,42 (támogatási intenzitás: 93,22%)” szöveg,
-
-## e) D:10 mezőjében a „67,50 (90% becsült támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „72,75 (támogatási intenzitás: 97,39%)” szöveg,
-
-## f) D:15 mezőjében a „2,63 (77,39% támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „3,23 (támogatási intenzitás: 95,65%)” szöveg,
-
-## g) D:20 mezőjében az „5,38 (78,7% támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „6,83 (támogatási intenzitás: 100%)” szöveg,
-
-## h) D:24 mezőjében a „4,99 (75,14% támogatási intenzitás szerint csökkentett összeg)” szövegrész helyébe a „6,44 (támogatási intenzitás: 97,1%)” szöveg
-
-## lép.
+## 5.[^3]
 
 1. melléklet az 1225/2019. (IV. 23.) Korm. határozathoz
 
@@ -57,3 +39,7 @@
 | 11. | IKOP-1.1.0-15- 2016-00020 | 55. sz. főút Mórahalom elkerülő és megyehatár közötti szakaszán 115 kN tengely- terhelésre történő burkolat megerősítés és a főúttal párhuzamosan kerékpárút kivitelezési munkáinak elvégzése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvény- társaság | 75,14% | 4 985 656 937 | 1 649 500 018 | 1 759 451 970 | 0 | 21,96% | 1 457 080 466 | -1 457 080 466 | 0 | 0 | 97,1% | 6 442 737 403 | 192 419 552 | 1 759 451 970 | 0 | 8 394 608 925 | 15,7 km hosszúságú 2x1 sávos főút burkolat megerősítése és párhuzamos kerékpárút építése |
 
 *kerekítve
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
