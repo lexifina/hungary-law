@@ -108,21 +108,21 @@ A kormányablakban azonnal intézhető ügyek
 
 53. Földműves nyilvántartásból papíralapú hiteles adatlap másolat kiadása iránti kérelem
 
-54.[^1]
+54.[^3]
 
-55.[^2]
+55.[^4]
 
-56.[^3]
+56.[^5]
 
-57.[^4]
+57.[^6]
 
-58.[^5]
+58.[^7]
 
-59.[^6]
+59.[^8]
 
-[^1]: Az 5. melléklet 54. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^2]: Az 5. melléklet 55. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^3]: Az 5. melléklet 56. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^4]: Az 5. melléklet 57. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^5]: Az 5. melléklet 58. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^6]: Az 5. melléklet 59. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^3]: Az 5. melléklet 54. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^4]: Az 5. melléklet 55. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^5]: Az 5. melléklet 56. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^6]: Az 5. melléklet 57. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^7]: Az 5. melléklet 58. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^8]: Az 5. melléklet 59. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
