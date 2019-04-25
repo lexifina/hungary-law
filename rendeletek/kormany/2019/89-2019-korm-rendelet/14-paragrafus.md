@@ -1,3 +1,6 @@
-## 13. § A közszolgálati egyéni teljesítményértékelésről szóló 10/2013. (I. 21.) Korm. rendelet 1. § a) pontjában az „a kabinetfőnök, a politikai tanácsadó és politikai főtanácsadó, valamint szakmai vezető” szövegrész helyébe az „az” szöveg lép.
+## 13. §[^1]
 
-14. § Hatályát veszti az állami tisztviselők teljesítményértékeléséről szóló 354/2017. (XI. 29.) Korm. rendelet.
+14. §[^2]
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
