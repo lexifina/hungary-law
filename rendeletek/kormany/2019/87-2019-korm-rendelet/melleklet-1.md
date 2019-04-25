@@ -1,4 +1,4 @@
-## 28. § Hatályát veszti a közszolgálati tisztviselők személyi irataira, a közigazgatási szerveknél foglalkoztatott munkavállalók személyi irataira és a munkaügyi nyilvántartásra, a közszolgálati alapnyilvántartásra és közszolgálati statisztikai adatgyűjtésre, valamint a tartalékállományra vonatkozó egyes szabályokról szóló 45/2012. (III. 20.) Korm. rendelet.
+## 28. §[^3]
 
 1. melléklet a 87/2019. (IV. 23.) Korm. rendelethez
 
@@ -71,3 +71,5 @@
 7.2. Tudományos publikációk, kutatások
 
 7.3. Tudományos fokozat esetén témavázlat
+
+[^3]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
