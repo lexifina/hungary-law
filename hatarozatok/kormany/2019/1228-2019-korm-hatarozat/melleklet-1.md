@@ -16,21 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:138 mezőjében az „1,65” szövegrész helyébe a „2,38” szöveg,
-
-## b) E:138 mezőjében a „0,32” szövegrész helyébe a „0,33” szöveg,
-
-## c) D:175 mezőjében a „0,04” szövegrész helyébe a „0,08” szöveg,
-
-## d) E:175 mezőjében a „0,01” szövegrész helyébe a „0,02” szöveg,
-
-## e) D:256 mezőjében a „0,34” szövegrész helyébe a „0,62” szöveg,
-
-## f) E:256 mezőjében a „0,04” szövegrész helyébe a „0,07” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1228/2019. (IV. 23.) Korm. határozathoz
 
@@ -43,3 +29,5 @@
 | 3. | KEHOP-2.1.3-15- 2017-00043 | Csonkamindszent község ivóvízminőség-javító programja | Csonkamindszent Község Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint | 40 000 000 | 32 107 304 | 10 816 096 | 72 107 304 | A projekt keretében a vízminőségi problémák megoldása érdekében vízkezelési technológia kiépítése valósul meg. |
 
 | 4. | KEHOP-2.2.2-15- 2016-00100 | Kaszaper község szennyvízelvezetése és -tisztításának fejlesztése | Kaszaper Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint | 332 000 000 | 286 563 839 | 68 729 316 | 618 563 839 | A projekt keretében megvalósul a Kaszaper központú szennyvíz-elvezetési agglomerációban üzemelő szennyvíztisztító telep fejlesztése és a szennyvízcsatorna-hálózat bővítése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
