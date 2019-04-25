@@ -1,1 +1,0 @@
-## „6. önkormányzati ASP rendszer: az önkormányzati feladatellátást támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást (Application Service Provider, ASP) nyújtó elektronikus információs rendszer;”
