@@ -12,17 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat
-
-## a) 1. melléklet 1. pontjában foglalt táblázat C:2 mezőjében a „14,66” szövegrész helyébe a „14,37” szöveg,
-
-## b) 1. melléklet 1. pontjában foglalt táblázat C:6 mezőjében a „10,60” szövegrész helyébe a „10,44” szöveg,
-
-## c) 1. melléklet 1. pontjában foglalt táblázat C:8 mezőjében a „0,93” szövegrész helyébe az „1,38” szöveg,
-
-## d) 2. mellékletében foglalt táblázat D:70 mezőjében a „0,93” szövegrész helyébe az „1,38” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1227/2019. (IV. 23.) Korm. határozathoz
 
@@ -31,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Finanszírozás forrása KEOP (bruttó, forint) | Projekt eredeti támogatási összege KEHOP (bruttó, forint) | Projekt hatályos támogatási szerződés szerinti összege KEHOP (bruttó, forint) | Többlet-támogatás KEHOP (bruttó, forint) | Megnövelt támogatás KEHOP (bruttó, forint) | Összesen (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | KEOP-2.1.2/2F/ 09-11-2011-0004 | KEHOP-1.4.1- 15-2016-00002 | Duna-menti árvízvédelmi beruházások Visegrádon | Visegrád Város Önkormányzata | 1 287 695 525 | 757 233 921 | 928 631 422 | 450 815 990 | 1 379 447 412 | 2 667 142 937 | A projekt alapvető célja Visegrád belterületén az árvízi biztonság előírt szintre történő növelése és az árvízi kockázatok csökkentése a jogszabályi előírásoknak megfelelő árvízvédelmi vonal kiépítésével. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
