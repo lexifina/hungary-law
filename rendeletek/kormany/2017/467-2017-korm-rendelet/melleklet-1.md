@@ -1,4 +1,4 @@
-## 15–16. §[^3]
+## 15–16. §[^4]
 
 1. melléklet a 467/2017. (XII. 28.) Korm. rendelethez
 
@@ -184,4 +184,4 @@ A katasztrófatűrő, nagy megbízhatóságú működési szempontok és az adat
 
 Adatmegőrzési szolgáltatáskeretében kezelt adatokkal kapcsolatban a szakrendszerek végponti felhasználói számára közvetlen adatkiszolgálás nincs, ez a terület a külvilágtól (a kormányzati, vagy a közcélú adatátviteli hálózatoktól) hermetikusan el lesz választva.
 
-[^3]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
