@@ -108,7 +108,9 @@ w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti prog
 
 x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott,
 
-y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó, a mostoha- és a nevelőszülő, az örökbe fogadott, a mostoha- és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa.
+y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó, a mostoha- és a nevelőszülő, az örökbe fogadott, a mostoha- és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa,
+
+z) külföldi: az a természetes személy, aki nem magyar állampolgár.
 
 (6) A törvény alkalmazásában a
 

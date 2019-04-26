@@ -1,65 +1,73 @@
 ## Az Európai Szociális Alap által finanszírozott intézkedésekben résztvevő személyek adatbázisa
 
-57/D. § (1) Az állami foglalkoztatási szerv az Európai Szociális Alap által finanszírozott intézkedésekben résztvevőkről az egyéni szintű nyomonkövetés, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében elektronikus nyilvántartást vezet.
+57/D. § (1) A járási hivatal a (2a) bekezdésben meghatározott célok biztosítása érdekében elektronikus nyilvántartást (a továbbiakban: ESZA adatbázis) vezet a résztvevő adatairól. Az ESZA adatbázis tartalmazza:
 
-(2) Az adatbázis tartalmazza a résztvevők alábbi adatait, amelyet a kedvezményezettek szolgáltatnak:
+a) a természetes személyazonosító adatokat,
 
-a) természetes személyazonosító adatok,
+b) az állampolgárságot, valamint a bevándorolt, a letelepedett vagy a menekültstátuszt,
 
-b) állampolgárság, illetőleg bevándorolt, letelepedett vagy menekült státusza,
+c) a belföldi lakó- vagy tartózkodási helyet,
 
-c) belföldi lakó-, illetve tartózkodási helye,
+d) az iskolai végzettséget, szakképesítést,
 
-d) iskolai végzettsége, szakképesítése,
+e) annak tényét, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartásában,
 
-e) annak ténye, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartásában,
+f) TAJ számot,
 
-f) Társadalombiztosítási Azonosító Jele (TAJ szám),
+g) az intézkedésbe történő belépésekor a munkaerő-piaci, társadalmi helyzetével összefüggő következő adatokat:
 
-g) intézkedésbe történő belépésekor a munkaerő-piaci, társadalmi helyzetével összefüggő következő adatokat:
+ga) az intézkedésbe történő belépés dátumát,
 
-ga) intézkedésbe történő belépés dátuma,
+gb) munkaerő-piaci státuszát,
 
-gb) munkaerő-piaci státusza,
+gc) annak tényét, hogy megváltozott munkaképességűnek minősül-e,
 
-gc) annak ténye, hogy megváltozott munkaképességűnek minősül-e,
+gd) annak tényét, hogy a gc) alponton belül fogyatékossággal élőnek minősül-e,
 
-gd) annak ténye, hogy a gc) ponton belül fogyatékossággal élőnek minősül-e,
+ge) a résztvevő nemzetiségének megjelölését,
 
-ge) a résztvevő önkéntes nyilatkozata alapján, nemzetiségének megjelölése,
+gf) annak tényét, hogy tartós munkanélkülinek minősül-e,
 
-gf) annak ténye, hogy tartós munkanélkülinek minősül-e,
+gg) annak tényét, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
 
-gg) annak ténye, hogy egyéb, a támogatásnyújtásnál figyelembe vett szempontból hátrányos helyzetűnek minősül-e,
-
-gh)
-
-gi)
-
-gj)
-
-gk) annak ténye, hogy hajléktalan-e.
+gh) annak tényét, hogy hajléktalan-e.
 
 h) az intézkedésből történő kilépésekor a munkaerő-piaci helyzetével összefüggő következő adatokat:
 
-ha) intézkedésből történő kilépés dátuma,
+ha) az intézkedésből történő kilépés dátuma,
 
-hb) a résztvevő munkaerő-piaci státusza,
+hb) a résztvevő munkaerő-piaci státuszát,
 
-hc) annak ténye, hogy álláskeresési tevékenységet folytat-e,
+hc) annak tényét, hogy álláskeresési tevékenységet folytat-e,
 
-hd) annak ténye, hogy oktatásban vagy szakképzésben részt vesz-e,
+hd) annak tényét, hogy oktatásban vagy szakképzésben részt vesz-e,
 
-he) annak ténye, hogy az intézkedés keretében képzettséget szerzett-e,
+he) annak tényét, hogy az intézkedés keretében képzettséget szerzett-e,
 
-hf) milyen szolgáltatásban, illetve támogatásban részesült a program keretében.
+hf) annak tényét, milyen szolgáltatásban, illetve támogatásban részesült a program keretében.
 
-(3) A (2) bekezdés alapján nyilvántartásba vett adatokba a foglalkoztatáspolitika koordinációjával, a foglalkoztatási és képzési célú programok kidolgozásával, a hazai és nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a miniszter, nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter, valamint az uniós támogatások felhasználásának ellenőrzését végző szerv tekinthet be.
+(2) Az ESZA adatbázis a (1) bekezdés g) pont gc)–ge), gg) és gh) pontjaiban meghatározott adatokat a kedvezményezett önkéntes nyilatkozata alapján, míg az ESZA adatbázis többi adatát a kedvezményezettnek az 1304/2013/EU rendeletében kötelezően előírt adatszolgáltatása alapján tartalmazza.
+
+(2a) A járási hivatal az Európai Szociális Alap által finanszírozott intézkedésekben résztvevőkről az uniós szintű eredmények monitoringja és értékelése, a közös indikátorok mentén történő tagállami jelentéstétel teljesíthetősége, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében kezeli az (1) bekezdésben meghatározott adatokat.
+
+(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a kormányhivatal részére az adatok összesítése, a járási hivatal európai uniós támogatással megvalósuló tevékenységeinek koordinálása érdekében. A kormányhivatal az (1) bekezdés szerinti adatokat a feladatai ellátása során kezeli.
+
+(2c) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter részére az adatok összesítése, a közös indikátorok előállítása, a kormányhivatal európai uniós támogatással megvalósuló tevékenységeinek koordinálása érdekében. A miniszter az (1) bekezdés szerinti adatokat a feladatai ellátása során kezeli.
+
+(3) Az (1) bekezdés alapján nyilvántartásba vett adatokba
+
+a) a foglalkoztatáspolitika koordinációjával, a foglalkoztatási és képzési célú programok kidolgozásával, a hazai és nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a miniszter,
+
+b) a nemzetközi források felhasználásával megvalósuló fejlesztési programok kezdeményezésével és megvalósításával összefüggő feladatai ellátása érdekében a gyermek- és ifjúságpolitikáért felelős miniszter, valamint az uniós támogatások felhasználásának ellenőrzését végző szerv
+
+tekinthet be.
+
+(3a) A miniszter az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes fejlesztési, foglalkoztatási, képzési és informatikai programok megvalósításának tervezése és szervezése, valamint ezen programok megvalósítása keretében történő támogatás folyósítása érdekében kezeli az (1) bekezdés szerinti nyilvántartás adatait.
 
 (4) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
 (4a) Az adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(5) A (2) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
+(5) Az (1) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
 
-(6) Az (1) és (2) bekezdésben meghatározott adatbázissal kapcsolatos fejlesztéseket a miniszter kezdeményezheti.
+(6) Az (1) bekezdésben meghatározott adatbázissal kapcsolatos fejlesztéseket a miniszter kezdeményezheti.

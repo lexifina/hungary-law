@@ -1,6 +1,8 @@
 39/B. § (1) A Nemzeti Foglalkoztatási Alap egyes alaprészeinek pénzeszközei a miniszter döntése szerint egymás közt átcsoportosíthatók, feltéve, ha erre az eredeti előirányzatokon felül képződő többletbevételek fedezetet biztosítanak, vagy az egyes alaprészek tényleges kiadásainak az előirányzatoktól való elmaradása várhatóan fedezetet nyújt.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4)
 

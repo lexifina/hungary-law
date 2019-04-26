@@ -6,4 +6,6 @@ b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) 
 
 (2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
 
-(3)–(4)
+(3)
+
+(4)

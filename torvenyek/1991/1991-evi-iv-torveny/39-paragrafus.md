@@ -38,7 +38,9 @@ d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. tö
 
 e) a képzési alaprészt, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben, valamint a felnőttképzésről szóló törvényben meghatározott feladatok, támogatási programok finanszírozására;
 
-f)–g)
+f)
+
+g)
 
 h)
 
