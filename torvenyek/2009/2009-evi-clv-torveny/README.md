@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2009-155-00-00.28 |
 | 2018-07-26 | 2018. évi XL. törvény | 2009-155-00-00.29 |
 | 2019-01-01 | 2018. évi CX. törvény | 2009-155-00-00.30 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2009-155-00-00.31 |
