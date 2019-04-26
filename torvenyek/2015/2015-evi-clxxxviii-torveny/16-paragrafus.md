@@ -1,6 +1,6 @@
 ## 12. Adattovábbítási nyilvántartás
 
-16. § (1) A nyilvántartásból teljesített adatigénylésekről az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottakon kívül tartalmazza az adatkezelő nyilvántartási azonosítóját és az adattovábbítás célját is. Az arcképelemző tevékenységet végző szerv az adattovábbítási nyilvántartás vezetéséhez szükséges adatokról közvetlen adatkapcsolat útján tájékoztatja a központi szervet.
+16. § (1) A nyilvántartásból teljesített adatigénylésekről az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást kell vezetni. Az arcképelemző tevékenységet végző szerv az adattovábbítási nyilvántartás vezetéséhez szükséges adatokról közvetlen adatkapcsolat útján tájékoztatja a központi szervet.
 
 (2) Az adattovábbítási nyilvántartást a központi szerv vezeti. A központi szerv az adattovábbításokat arckép profilok szerint rögzíti az adattovábbítási nyilvántartásban.
 
