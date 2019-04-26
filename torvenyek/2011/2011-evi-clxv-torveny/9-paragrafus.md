@@ -22,7 +22,7 @@ e) képviseli és védi a polgárőrség, valamint a polgárőrök érdekeit,
 
 f) véleményt nyilvánít az e törvény hatálya alá tartozó tevékenységeket érintő jogszabályokról, kezdeményezheti jogszabályok kiadását,
 
-g) az információs önrendelkezési jogról és az információszabadságról szóló törvény adatvédelmi szabályai megtartásával a nyilvántartásában szereplő adatokról – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat, valamint
+g) a nyilvántartásában szereplő adatokról – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat, valamint
 
 h) kapcsolatot tart a polgárőri tevékenységet ellátó külföldi szervezetekkel,
 
