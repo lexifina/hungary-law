@@ -15,3 +15,7 @@ a) a beavatkozást igénylő eseményt szándékosan okozta;
 b) a tűzoltásra vagy a műszaki mentésre vonatkozóan szándékosan megtévesztő jelzést adott;
 
 c) gondatlansága miatt téves automatikus tűzátjelzés keletkezett.
+
+(7) A hivatásos katasztrófavédelmi szerv a költségek megtéríttetése céljából jogosult a (6) bekezdésben meghatározott személyek nevének, lakcímének kezelésére.
+
+(8) A (7) bekezdésben meghatározott adatot a hivatásos katasztrófavédelmi szerv az adat rögzítésétől számított 5 évig kezeli.

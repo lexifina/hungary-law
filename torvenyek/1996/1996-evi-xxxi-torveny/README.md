@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-31-00-00
 | 2018-01-01 | 2017. évi L. törvény | 1996-31-00-00.34 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 1996-31-00-00.35 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1996-31-00-00.36 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 1996-31-00-00.37 |
