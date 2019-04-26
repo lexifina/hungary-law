@@ -26,7 +26,7 @@ j) személy vizsgálatával járó kirendelés esetén a szakkonzultáns személ
 
 k) a hatóság előzetes hozzájárulását a vizsgálati tárgy megváltozásával és megsemmisülésével járó vizsgálat elvégzéséhez, ha a hozzájárulásra a miniszter rendelete alapján szükség van,
 
-l) – indokolt esetben – a hatóság arra vonatkozó utasítását, hogy a szakértő az érintett részére az általa kezelt adatokra vonatkozó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatást megtagadni köteles,
+l) – indokolt esetben – a hatóság arra vonatkozó utasítását, hogy a szakértő az érintettnek az általa kezelt személyes adataihoz való hozzáférési jogának gyakorlását megtagadni köteles,
 
 m) a szakértőhöz intézett figyelmeztetést arra vonatkozóan, hogy
 

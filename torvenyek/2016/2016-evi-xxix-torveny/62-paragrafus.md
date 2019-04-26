@@ -22,4 +22,4 @@ j) törvényben meghatározott esetekben kezdeményezi az igazságügyi szakért
 
 k) a szakértők által beküldött statisztikai adatokat gyűjti és feldolgozza.
 
-(2) A Kamara a feladatellátásának érdekében jogosult az igazságügyi szakértők 1. melléklet 1.1.–1.6. pontjaiban, 1.15. pontjában és 1.18.1. alpontjában szereplő személyes adatait, valamint a szakértőjelöltek 3. melléklet szerinti személyes adatait kezelni.
+(2) A Kamara a feladatellátásának érdekében jogosult az igazságügyi szakértők 11. § (4) bekezdése alapján átvett személyes adatait, valamint a szakértőjelöltek 3. melléklet szerinti személyes adatait kezelni.
