@@ -10,15 +10,15 @@ c) 5. cikke szerinti, a piaci manipulációra és a piaci manipuláció megkís�
 
 megsértését.
 
-(2) A Hivatal a 114/A. § (1) bekezdése szerinti cselekmények vizsgálata céljából jogosult az (1) bekezdés szerinti nagykereskedelmi piacfelügyeleti eljárása során az ügyfélre vonatkozó,
+(2) A Hivatal a 114/A. § (1) bekezdése szerinti cselekmények vizsgálata céljából kezeli az (1) bekezdés szerinti nagykereskedelmi piacfelügyeleti eljárása során az ügyfélre vonatkozó,
 
 a) a számlaforgalommal, a terhelendő és a jóváírandó számla számával, tulajdonosával, a terhelés, a jóváírás jogcímével és az átutalás pénzforgalmi azonosító kódjával,
 
 b) az elektronikus hírközlésről szóló törvényben meghatározott előfizetői állomás számával vagy egyéb azonosítójával, a hívó és a hívott előfizetői számokkal, valamint a hívás és egyéb szolgáltatás dátumával és kezdő időpontjával
 
-kapcsolatos adatok megismerésére és kezelésére.
+kapcsolatos adatok adatokat.
 
-(3) A Hivatal feladatának ellátása érdekében jogosult a (2) bekezdés alapján felmerült, a nagykereskedelmi piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges családi- és utónév, születési név és lakcím megismerésére és kezelésére.
+(3) A Hivatal feladatának ellátása érdekében kezeli a (2) bekezdés alapján felmerült, a nagykereskedelmi piacfelügyeleti eljárás szempontjából valószínűsíthetően további bizonyítékokkal rendelkező természetes személy beazonosításához szükséges személyes adatokat, így családi és utónevét, születési nevét és lakcímét.
 
 (4) A (2)–(3) bekezdésben meghatározott adat igénylésekor a Hivatal köteles valószínűsíteni, hogy a tényállás maradéktalan tisztázása érdekében az adat megismerése szükséges.
 

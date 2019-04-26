@@ -6,6 +6,6 @@
 
 (4) A megfelelési ellenőr megbízatását a felügyelőbizottság a Hivatal előzetes jóváhagyásával jogosult megszüntetni. A felügyelőbizottság köteles azonnali hatállyal megszüntetni a megfelelési ellenőr megbízatását, amennyiben a Hivatal a megfelelési ellenőr függetlenségének vagy szakmai alkalmasságának hiányát állapítja meg.
 
-(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi releváns adatot, előzetes értesítés nélkül is beléphet az átviteli rendszerirányító irodáiba és hozzáférhet valamennyi egyéb szükséges információhoz. Az átviteli rendszerirányítóval munkaviszonyban álló személyek személyes adatait a megfelelési ellenőr a 151. § (1a) bekezdésben foglaltak szerint az e törvényben és a Vhr.-ben meghatározott feladatai ellátása érdekében az adatvédelmi jogszabályokkal összhangban kezelheti.
+(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi releváns adatot, előzetes értesítés nélkül is beléphet az átviteli rendszerirányító irodáiba és hozzáférhet valamennyi szükséges információhoz.
 
 (6) A megfelelési ellenőr a megfelelési program végrehajtásáról, az annak érdekében hozott intézkedésekről, a feltárt eredményekről és a megfelelési program végrehajtása során tapasztalt jelentős hiányosságokról évente megfelelési jelentést készít, és azt benyújtja a Hivatalhoz jóváhagyás céljából. A jóváhagyást követően az átviteli rendszerirányító a megfelelési jelentést honlapján közzéteszi.

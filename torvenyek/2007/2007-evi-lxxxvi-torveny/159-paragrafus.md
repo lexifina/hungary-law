@@ -98,9 +98,9 @@ f) részt vesz és megállapodik a 2015/1222/EU bizottsági rendelet 32. cikk (4
 
 4. elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
 
-(6) A Hivatal az adatszolgáltatással és adatvédelemmel kapcsolatos feladatai körében:
+(6) A Hivatal az adatszolgáltatással kapcsolatos feladatai körében:
 
-1. eleget tesz a személyes adatok gyűjtésére vonatkozó, törvényben előírt, valamint a Vhr.-ben meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének,
+1. eleget tesz a jogszabályban meghatározott adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének,
 
 2. végrehajtja a 714/2009/EK rendelet 20. cikkében meghatározott feladatokat, és
 

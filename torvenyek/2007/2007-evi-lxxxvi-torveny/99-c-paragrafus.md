@@ -28,7 +28,7 @@ ab) a felhasználó jogállása (természetes vagy jogi személy),
 
 ac) a felhasználó neve,
 
-ad) a 151. § (1) bekezdés alapján a felhasználó nyilvántartott személyes adatai vagy cégadatai
+ad) a felhasználó nyilvántartott személyes adatai vagy cégadatai
 
 ae) a felhasználó kézbesítési címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
 
@@ -54,7 +54,7 @@ e) a fizető adatai, ha a fizető nem azonos a felhasználóval:
 
 ea) a fizető neve,
 
-eb) a 151. § (1c) bekezdésére figyelemmel a 151. § (1) bekezdése alapján a fizető nyilvántartott személyes vagy cégadatai,
+eb) a fizető nyilvántartott személyes vagy cégadatai,
 
 ec) a fizető címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
 

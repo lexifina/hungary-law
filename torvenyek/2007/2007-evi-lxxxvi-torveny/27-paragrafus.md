@@ -32,7 +32,7 @@ c) 132 kV-os feszültségszintre történő csatlakozás esetén, ha a felhaszn�
 
 (5) A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja. A hálózati engedélyes, az igénybejelentő és az általa megbízott vállalkozás kötelesek egymással együttműködni. Az igénybejelentő a vállalkozást a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő vállalkozások közül választhatja ki. A nyilvántartást a műszaki biztonsági hatóság vezeti. A nyilvántartásba olyan vállalkozás vehető fel, amely rendelkezik a kormány rendeletében meghatározott felelősségbiztosítással. A kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét kormányrendelet határozza meg.
 
-(5a) A bejelentett és jogosult villanyszerelők nyilvántartásában kezelhető személyes adatok köre:
+(5a) A bejelentett és jogosult villanyszerelők (5) bekezdés szerinti nyilvántartásában a műszaki biztonsági hatóság az alábbi személyes adatokat kezeli:
 
 a) a bejelentő, a tevékenységet személyesen ellátó munkavállaló és a személyesen közreműködő tag neve, székhelye, születési helye, ideje, anyja neve, lakcíme, értesítési címe, telefonszáma, elektronikus levélcíme, végzettsége, szakképesítése,
 

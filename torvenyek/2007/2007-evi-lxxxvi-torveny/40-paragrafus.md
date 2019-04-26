@@ -24,7 +24,7 @@ d) a villamos energia határon keresztül történő szállítása esetén az á
 
 (4c) Az elosztó a felhasználóval kötött megállapodás alapján a mérőberendezés leolvasását a felhasználó részére biztosított, a mérőállást fényképen rögzítő és az elosztó részére továbbító applikáció útján is végrehajthatja.
 
-(5) A (3) bekezdésben meghatározott mérési adatokat – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
+(5) A (3) bekezdésben meghatározott mérési adatokat az érintett rendszerhasználó részére külön díjfizetés nélkül hozzáférhetővé kell tenni.
 
 (5a) A (3) bekezdés szerinti mérőberendezések éves gyakorisággal történő leolvasása esetén az adott naptári évben történő leolvasás legkésőbbi időpontja az adott naptári évet megelőző évben történt leolvasás napjának megfelelő nap. Nem minősül e bekezdés megsértésének, ha a leolvasás
 
