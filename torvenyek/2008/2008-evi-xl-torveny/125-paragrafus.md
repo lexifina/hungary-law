@@ -2,41 +2,23 @@
 
 ## ADATSZOLGÁLTATÁS, TITOKVÉDELEM, INFORMÁCIÓKEZELÉS
 
-125. § (1) Az engedélyesek és a 142. § (1) bekezdése szerinti projekttársaság (a továbbiakban együtt: adatkezelő) az e törvényben meghatározott engedélyköteles tevékenység végzése, az ehhez szükséges műszaki berendezések létesítésére és üzemeltetésére vonatkozó szerződés megkötése, tartalmának meghatározása, módosítása, a teljesítésének figyelemmel kísérése, a szerződésben meghatározott díjak számlázása, továbbá a szerződésből eredő egyéb követelések érvényesítése, és az Üzemi és Kereskedelmi Szabályzatban foglalt együttműködési, adatszolgáltatási kötelezettségek teljesítése céljából kezelhetik a felhasználó, valamint a külön jogszabályban meghatározott fizető azonosításához szükséges és elégséges – e törvény vagy a végrehajtására kiadott külön jogszabály szerint a szerződés tartalmát képező – személyes adatokat. A felhasználó azonosításához a természetes személy felhasználó esetén neve, lakcíme, születésének helye és ideje, valamint anyja neve, nem természetes személy felhasználó esetén elnevezése, székhelye, adószáma, cégjegyzékszáma (egyéb nyilvántartási száma) szükséges.
+125. § (1)
 
-(1a) A megfelelési ellenőr az e törvényben és a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott, szétválasztási követelményeknek való megfelelés ellenőrzésével, valamint a megfelelési program végrehajtásával kapcsolatos feladatai elvégzése céljából az ahhoz szükséges mértékben kezelheti a tevékenysége során tudomására jutott, a megfelelési ellenőrt munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztató engedélyes üzleti titkait, valamint az engedélyesnél munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztatott személyek személyes adatait, így nevüket, lakcímüket, születési helyüket és idejüket, anyja nevét, valamint munkakörükre és végzettségükre vonatkozó adatokat.
+(1a) A megfelelési ellenőr az e törvényben és a földgázellátásról szóló törvény végrehajtásáról szóló kormányrendeletben meghatározott szétválasztási szabályoknak való megfelelés ellenőrzésével, valamint a megfelelési program végrehajtásával kapcsolatos feladatai elvégzése céljából az ahhoz szükséges mértékben megismerheti a megfelelési ellenőrt munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztató engedélyes üzleti titkait, valamint – megfelelési program végrehajtásának lezárultáig – kezeli az engedélyesnél munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében foglalkoztatott személyek személyes adatait, így nevüket, lakcímüket, születési helyüket és idejüket, anyja nevét, valamint munkakörükre és végzettségükre vonatkozó adatokat.
 
-(1b) A földgázelosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából kezelheti a védendő fogyasztók nyilvántartásának kezeléséhez szükséges személyes és különleges személyes adatokat, így a védendő fogyasztó nevét, lakcímét, születési helyét és idejét, anyja nevét, valamint a védendő fogyasztói státuszt megalapozó adatokat.
+(1b) A földgázelosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából a védendő fogyasztói jogosultság megszűnését követő 3 évig kezeli a védendő fogyasztó azonosításához szükséges, valamint a védendő fogyasztói státuszt megalapozó személyes adatokat és a személyes adatok különleges kategóriáiba tartozó adatokat. Az adatokat a földgázelosztó a védendő fogyasztót megillető kedvezmény vagy a különleges bánásmód egy felhasználási helyen való igénybevételének ellenőrzése céljából más földgázelosztónak, valamint a védendő fogyasztót megillető kedvezmény vagy különleges bánásmód biztosítása érdekében a földgázkereskedőnek továbbítja. Az átvett személyes adatokat a földgázelosztó, valamint a földgázkereskedő a védendő fogyasztói jogosultság megszűnését követő 3 évig kezeli
 
-(1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának az e törvény 115/A. § szerinti kezdeményezése esetén az e törvény 115/B. § (1) bekezdése szerinti visszavonó és a kijelölő határozat kézhezvételének napjától az érintett felhasználók átvétele, földgázellátásuk biztosításához szükséges teendők elvégzése céljából kezelheti az érintett felhasználók azonosításához szükséges és elégséges, az (1) bekezdésben, valamint a külön jogszabályban meghatározott személyes adatokat, továbbá adott felhasználóval kapcsolatban az átadó egyetemes szolgáltató által kezelt egyéb személyes adatokat.
+(1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának az e törvény 115/A. § szerinti kezdeményezése esetén az e törvény 115/B. § (1) bekezdése szerinti visszavonó és a kijelölő határozat kézhezvételének napjától a 115/B. § (1) bekezdés a) pontjában meghatározott időpontig az érintett felhasználók átvétele, földgázellátásuk biztosításához szükséges teendők elvégzése céljából kezeli az érintett felhasználó azonosításához és földgázellátása biztosításához szükséges – az átadó egyetemes szolgáltató által továbbított – személyes adatokat.
 
 (1d)
 
-(2) Az adatkezelő a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az (1) bekezdésben meghatározott célból történt, vagy az adatkezelés célja megszűnt.
+(2)
 
-(3) Az adatkezelő rendszerhasználóval történő szerződéskötése nem tehető függővé a rendszerhasználónak valamely, az (1) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulásától.
+(3)
 
-(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a), b) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
+(4)
 
-a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását vagy az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
-
-b) a számlázási és forgalmazási jogviták rendezésére jogszabály vagy a szerződő felek megállapodása alapján jogosult szervezetek részére,
-
-c)
-
-d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, továbbá a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, a bíróságnak, az ügyészségnek, valamint a nyomozó hatóságnak,
-
-e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak,
-
-f) a fogyasztóvédelmi hatóságnak,
-
-g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek, valamint
-
-h) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
-
-(4a) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok a Hivatal részére átadhatók, amelyeket a Hivatal köteles az Ákr. adatkezelésre vonatkozó szabályai szerint kezelni.
-
-(5) A (4) bekezdés a), b) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
+(5)
 
 (6) Az engedélyesek és a földgáztermelő kötelesek biztosítani, hogy a tevékenységgel kapcsolatos információk és adatok megőrzése, kezelése, továbbítása, más módon hozzáférhetővé tétele, valamint nyilvánosságra hozatala megfeleljen:
 

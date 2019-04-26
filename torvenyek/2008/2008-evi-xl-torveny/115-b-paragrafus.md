@@ -50,13 +50,13 @@ db) a felhasználási hely címe (irányítószám, település, közterület ne
 
 e) a felhasználó adatai:
 
-ea) a felhasználó neve,
+ea)
 
-eb) a felhasználó nyilvántartott személyes vagy cégadatai,
+eb)
 
-ec) a felhasználó címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
+ec)
 
-ed) a felhasználó kézbesítési címe (irányítószám, település, közterület neve és típusa, házszám, cím további része, helyrajzi szám),
+ed)
 
 f) az elszámolás alapját képező fogyasztásmérő azonosítója,
 

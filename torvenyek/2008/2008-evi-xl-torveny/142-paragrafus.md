@@ -8,7 +8,7 @@
 
 (5) A rendszerüzemeltető és a VET. szerinti hálózati engedélyes a mintaprojektet az okos mérésről szóló jogszabály alapján a Hivatal felügyeletével folytatja. A rendszerüzemeltető és a VET. szerinti hálózati engedélyes a mintaprojekt megkezdése előtt a Hivatalt a mintaprojekt leírásának bemutatásával, a mintaprojekt lezárását követően a mintaprojekt eredményeit és az azok alapján tett megállapításokat tartalmazó dokumentum átadásával tájékoztatja.
 
-(6) A rendszerüzemeltető, a VET. szerinti hálózati engedélyes és a projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során jogosultak a felhasználó, valamint a jogszabályban meghatározott fizető személyes adatainak kezelésére. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a földgázelosztó jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
+(6) A projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során – a mintaprojekt zárását követő 3 évig – a mintaprojekt lebonyolítása céljából – kezeli a felhasználó, valamint a jogszabályban meghatározott fizető személyes adatait. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a földgázelosztó jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
 
 (7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
 

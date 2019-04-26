@@ -6,7 +6,7 @@
 
 (4) A megfelelési ellenőr megbízatását a felügyelőbizottság a Hivatal előzetes jóváhagyásával jogosult megszüntetni. A felügyelőbizottság köteles azonnali hatállyal megszüntetni a megfelelési ellenőr megbízatását, amennyiben a Hivatal a megfelelési ellenőr függetlenségének vagy szakmai alkalmasságának hiányát állapítja meg.
 
-(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi szükséges adatot, előzetes értesítés nélkül is beléphet a szállítási rendszerüzemeltető irodáiba és hozzáférhet valamennyi egyéb szükséges információhoz. A szállítási rendszerüzemeltető munkaviszonyban álló személyek személyes adatait a megfelelési ellenőr e törvényben és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feladatai ellátása érdekében az adatvédelmi jogszabályokkal összhangban kezelheti.
+(5) A megfelelési ellenőr e törvényben meghatározott feladatai ellátása céljából megismerhet valamennyi szükséges adatot, előzetes értesítés nélkül beléphet a szállítási rendszerüzemeltető irodáiba és hozzáférhet valamennyi szükséges információhoz.
 
 (6) A megfelelési ellenőr a megfelelési program végrehajtásáról, az annak érdekében hozott intézkedésekről, a feltárt eredményekről és jelentős hiányosságokról évente megfelelési jelentést készít, és azt jóváhagyásra benyújtja a Hivatalhoz. A jóváhagyást követően a szállítási rendszerüzemeltető a megfelelési jelentést honlapján közzéteszi.
 

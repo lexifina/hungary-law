@@ -36,7 +36,7 @@ b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó eng
 
 kiállított számla érvénytelen.
 
-(2) A szállítási rendszerüzemeltető és a földgázelosztó – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban és a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó-fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A mérési adatokat a földgázkereskedő – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett felhasználó számára köteles hozzáférhetővé tenni.
+(2) A szállítási rendszerüzemeltető és a földgázelosztó – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban és a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó-fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A mérési adatokat a földgázkereskedő az érintett felhasználó számára köteles hozzáférhetővé tenni.
 
 (2a)
 
