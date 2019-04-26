@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-175-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 2013-175-00-00.7 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2013-175-00-00.8 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2013-175-00-00.9 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2013-175-00-00.10 |
