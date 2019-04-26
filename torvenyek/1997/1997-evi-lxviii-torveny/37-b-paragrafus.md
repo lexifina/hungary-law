@@ -4,7 +4,7 @@
 
 (2) Ha az (1) bekezdésben meghatározott felhívásra az igazságügyi alkalmazott igazolja, hogy vele szemben a 11. § (4) és (5) bekezdésében meghatározott körülmény nem áll fenn, az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az igazságügyi szerv az igazságügyi alkalmazott részére megtéríti.
 
-(3) A munkáltatói jogkör gyakorlója a 11/A. § (4) és (5) bekezdésben meghatározott körülmény vizsgálata céljából kezeli
+(3) A munkáltatói jogkör gyakorlója a 11. § (4) és (5) bekezdésben meghatározott körülmény vizsgálata céljából kezeli
 
 a) az igazságügyi alkalmazottként szolgálati jogviszonyt létesíteni szándékozó személy,
 

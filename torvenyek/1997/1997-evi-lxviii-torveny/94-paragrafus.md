@@ -2,7 +2,7 @@
 
 (2) Az igazságügyi alkalmazott a róla készült személyi nyilvántartást bármikor megtekintheti, jogosult a nyilvántartott helytelen adatok helyesbítését és a jogellenesen nyilvántartott adatok törlését kérni, illetve a jogellenesen kért adat közlését megtagadni. A személyi nyilvántartásba egyébként csak az igazságügyi alkalmazott vezetői, illetve a vezetői döntéseket előkészítő és végrehajtó alkalmazottak tekinthetnek be.
 
-(2a) Az igazságügyi alkalmazotti szolgálati jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató az igazságügyi alkalmazott személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – az igazságügyi alkalmazott hozzájárulásával adatfeldolgozó számára átadhatja.
+(2a) Az igazságügyi alkalmazotti szolgálati jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató az igazságügyi alkalmazott személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben vagy az Európai Unió kötelező jogi aktusában meghatározott keretek között és feltételekkel – az igazságügyi alkalmazott hozzájárulásával adatfeldolgozó számára átadhatja.
 
 (2b) Az igazságügyi alkalmazottnak a személyi nyilvántartásban szereplő adatairól és a vele kapcsolatos iratok tartalmáról törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére lehet adatot továbbítani.
 
