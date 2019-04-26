@@ -1,6 +1,6 @@
 ## Adatvédelem és adatbiztonság
 
-5. § (1) A tudományos kutatás, a közvélemény-kutatás és piackutatás, valamint a közvetlen üzletszerzés céljára történő adatkezelés során — az információs önrendelkezési jogról és az információszabadságról szóló törvényben, valamint az e törvényben foglaltaknak megfelelően — biztosítani kell az érintett jogát a személyes adatainak védelméhez. Így különösen:
+5. § (1) A tudományos kutatás, a közvélemény-kutatás és piackutatás céljára történő adatkezelés során — a személyes adatok védelmére vonatkozó előírásoknak megfelelően — biztosítani kell az érintett jogát a személyes adatainak védelméhez. Így különösen:
 
 a) a kapcsolatfelvétellel egyidejűleg az érintettet írásban tájékoztatni kell arról, hogy a megkereső az adatokat milyen forrásból szerezte; az adatfelhasználás céljáról, módjáról, időtartamáról, az adatkezelés során közreműködő (megbízott) igénybevételéről és az esetleges későbbi adatátadási szándékról; az adatkezelésre jogosult szerv vagy személy nevéről és címéről, valamint arról, hogy az adatszolgáltatás önkéntes, és jogában áll adatainak a megjelölt célra vagy annak egy részére történő kezelésének a megszüntetését kérni;
 
@@ -18,6 +18,6 @@ a) az a cél, amelyre az adatokat kérték megvalósult, kivéve, ha az érintet
 
 b) az érintett nyilatkozata szerint a megkereső szervezettel nem kíván együttműködni.
 
-(4) Az adatkezelés megszüntetésén a megsemmisítést vagy az anonimizálást, közvetlen üzletszerzés esetén pedig – ha a megszüntetés a (3) bekezdés b) pontján alapul – egyidejűleg a 21. § szerinti tilalmi listára történő felvételt kell érteni.
+(4) Az adatkezelés megszüntetésén a megsemmisítést vagy az anonimizálást kell érteni.
 
 (5) Ha az adatkezelést annak bármely szakaszában az érintett kérelme alapján kell megszüntetni, ezért az érintettet jogi felelősség nem terheli.

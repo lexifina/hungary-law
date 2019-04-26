@@ -1,6 +1,6 @@
 ## A név- és lakcímadatok átvételének általános szabályai
 
-3. § (1) A tudományos kutató, a közvélemény-kutató és a piackutató kapcsolatfelvétel és kapcsolattartás céljából, valamint a közvetlen üzletszerző szerv kizárólag a kapcsolatfelvételi lista, illetve – a Grt. 6. §-ának (4) bekezdése szerinti esetben – az üzletszerzési lista összeállítása céljából, illetőleg az általuk az adatok kezelésére, átvételére megbízott szerv név- és lakcímadatot a következő forrásból gyűjthet, illetve használhat fel:
+3. § (1) A tudományos kutató, a közvélemény-kutató és a piackutató kapcsolatfelvétel és kapcsolattartás céljából, illetőleg az általuk az adatok kezelésére, átvételére megbízott szerv név- és lakcímadatot a következő forrásból gyűjthet, illetve használhat fel:
 
 a) annak az érintettnek az adata, akivel korábban az adatkezelő szerv kapcsolatban állt (ügyfél, támogató);
 
@@ -10,4 +10,4 @@ c) más, ugyanazon tevékenységet végző személytől vagy szervtől adat átv
 
 d) adat igénylésével a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) hatálya alá tartozó nyilvántartásból az Nytv.-ben meghatározott feltételekkel, feltéve, hogy a polgár az adatainak kiadását nem tiltotta meg [Nytv. 2. § (1) bek.].
 
-(2) A tudományos kutatás, a közvélemény-kutatás, illetőleg a piackutatás megkezdéséhez szükséges minta kiválasztásakor, valamint kapcsolatfelvételi, illetve üzletszerzési lista összeállításakor nem lehet kiválasztási szempont olyan ismérv, amelyből egyértelműen különleges adatra lehet következtetni.
+(2) A tudományos kutatás, a közvélemény-kutatás, illetőleg a piackutatás megkezdéséhez szükséges minta kiválasztásakor, nem lehet kiválasztási szempont olyan ismérv, amelyből egyértelműen különleges adatra lehet következtetni.

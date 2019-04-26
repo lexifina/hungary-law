@@ -4,7 +4,7 @@ a) a tudományos kutatás céljára a kapcsolatfelvételhez az Nytv. 11. §-a (1
 
 b) a közvélemény-kutatás és piackutatás megkezdéséhez szükséges minta kiválasztásához az Nytv. 11. §-a (1) bekezdésének c)—d), h) pontjában meghatározott bármely szempont, valamint a családi állapot meghatározott bármely szempont, valamint
 
-c) a kapcsolatfelvételi, illetve üzletszerzési lista összeállításához az Nytv. 11. §-a (1) bekezdésének c), d) és h) pontjában meghatározott szempont, valamint a családi állapot
+c)
 
 szerinti megoszlásban.
 
