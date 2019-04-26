@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme álló téglalap alakú, 75% réz és 25% nikkel ötvözetéből készült, súlya 27 gramm, mérete 26,4 × 39,6 mm, széle sima.
+
+(2) Az emlékérme előlapján a Magyar Bányászati és Földtani Szolgálat – az egykori Földtani Intézet – épülete Stefánia út felőli részletének ábrázolása látható, előtérben a virágmotívumokkal díszített oromzat, háttérben az épület tetőzetének csúcsa, a földgömböt vállaikkal tartó Atlasz figurákkal. Az emlékérme szélén, fent a „MAGYARORSZÁG” felirat, alatta két vízszintes sorban – jobbra rendezve – a „2000” értékjelzés és a „forint” felirat olvasható, lent, az ábrázolásba illesztve Szunyogh László DLA tervezőművész mesterjegye látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján egy ammonitesz fosszíliát tartalmazó kőzetdarab ábrázolása látható, a fosszília körvonalát követve az „ammonitesz” felirattal. Az emlékérme szélén, fent, három egymás alatti sorban – jobbra rendezve – a „FÖLDTANI”, az „INTÉZET” és az „1869” felirat, lent, bal oldalon a „2019” verési évszám, jobb oldalon a „BP.” verdejel olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
