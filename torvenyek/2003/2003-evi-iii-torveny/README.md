@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-3-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 2003-3-00-00.14 |
 | 2017-07-05 | 2017. évi XCIV. törvény | 2003-3-00-00.15 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2003-3-00-00.16 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2003-3-00-00.17 |
