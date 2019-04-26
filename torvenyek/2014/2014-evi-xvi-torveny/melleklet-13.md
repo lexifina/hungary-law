@@ -19,3 +19,5 @@ f) a kockázatkezeléssel és megfelelőség-ellenőrzéssel foglalkozó vezető
 g) amennyiben a javadalmazást a teljesítményhez kötik, a javadalmazás teljes összege az egyén és az érintett szervezeti egység vagy befektetési alap teljesítményének együttes értékelésén, valamint a befektetési alapkezelő általános eredményein és kockázatain alapul, az egyéni teljesítmény értékelése során pedig pénzügyi és nem pénzügyi kritériumokat is figyelembe vesznek;
 
 h) a teljesítményértékelésre a befektetési alapkezelő kezelésében lévő befektetési alapok életciklusának, illetve a befektetőknek ajánlott tartási időszaknak megfelelő többéves kereten belül kerül sor annak biztosítása érdekében, hogy az értékelési folyamat alapja a hosszabb távú teljesítmény legyen, és hogy a javadalmazás teljesítményalapú összetevőinek tényleges kifizetése egy olyan időszakra legyen elosztva, amelynél figyelembe veszik a befektetési alapkezelő kezelésében lévő befektetési alapok visszaváltással kapcsolatos politikáját és befektetési kockázatait;
+
+i) a garantált változó javadalmazás kivételes jellegű, csak új alkalmazottak felvételével összefüggésben kerül rá sor, és az első évre korlátozódik;

@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-16-00-00
 | 2018-08-08 | 2018. évi LIV. törvény | 2014-16-00-00.29 |
 | 2018-12-29 | 2018. évi CXXVI. törvény | 2014-16-00-00.30 |
 | 2019-01-01 | 2018. évi CXXVI. törvény | 2014-16-00-00.31 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2014-16-00-00.32 |

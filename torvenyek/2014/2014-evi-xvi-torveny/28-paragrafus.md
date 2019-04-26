@@ -20,7 +20,7 @@ a) olyan személyes ügylet végrehajtása, amely
 
 aa) bennfentes kereskedelmet vagy piacbefolyásolást valósítana meg,
 
-ab) üzleti titok, értékpapírtitok, biztosítási titok, banktitok vagy az adatvédelemről szóló jogszabályok által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
+ab) üzleti titok, értékpapírtitok, biztosítási titok, banktitok vagy az adatvédelemről szóló jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által védett információ jogszerűtlen feltárásával vagy felhasználásával jár, vagy
 
 ac) ügylet ellentétben áll az ÁÉKBV-alapkezelő e törvényben vagy a Bszt.-ben meghatározott kötelezettségeivel;
 

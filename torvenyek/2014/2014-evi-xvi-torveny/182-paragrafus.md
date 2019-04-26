@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben meghatározott együttműködés céljából a Felügyelet mint együttműködésre felkért felügyeleti hatóság akkor is eljárhat, ha a vizsgált magatartás kizárólag az együttműködést kezdeményező EGT-állam jogszabályaiba ütközik.
 
-(3) A Felügyelet a más EGT-állam felügyeleti hatósága, valamint az EÉPH részére haladéktalanul rendelkezésére bocsátja a feladataik ellátásához szükséges információkat. A Felügyelet a személyes adatok más felügyeleti hatóság részére történő továbbítása során a 95/46/EK irányelvben foglaltak figyelembe vételével jár el.
+(3) A Felügyelet a más EGT-állam felügyeleti hatósága, valamint az EÉPH részére haladéktalanul rendelkezésére bocsátja a feladataik ellátásához szükséges információkat.
 
 (4) A Felügyelet a vonatkozó együttműködési megállapodások egy-egy példányát, megküldi azon fogadó EGT-állam részére, amelyekben a magyarországi székhelyű ABAK fióktelepet létesít, avagy határon átnyúló szolgáltatást nyújt.
 

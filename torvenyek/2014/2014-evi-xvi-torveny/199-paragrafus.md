@@ -32,7 +32,7 @@ b) a Felügyelet a külföldi felügyeleti hatósággal kötött együttműköd�
 
 c) a magyar bűnüldöző szerv nemzetközi szerződés alapján, külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése érdekében írásban kér adatot a befektetési alapkezelőtől, ha a megkeresés tartalmazza a külföldi bűnüldöző szerv által aláírt titoktartási záradékot,
 
-d) a Befektető-védelmi Alap által külföldi befektető-védelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
+d) a Befektető-védelmi Alap által külföldi befektető-védelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan az adatvédelmi jogszabályokkal és az Európai Unió közvetlenül alkalmazandó jogi aktusaival legalább egyenrangú védelem biztosított,
 
 e)
 
