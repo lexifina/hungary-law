@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-179-00-00
 | 2014-10-12 | 2013. évi CCVII. törvény | 2011-179-00-00.31 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2011-179-00-00.32 |
 | 2017-12-21 | 2017. évi CCI. törvény | 2011-179-00-00.33 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2011-179-00-00.34 |
