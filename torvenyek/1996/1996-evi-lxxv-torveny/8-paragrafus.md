@@ -32,4 +32,4 @@ c) – amennyiben azt a munkaügyi ellenőrzés során tisztázni lehetett – a
 
 (7) A munkaügyi hatóság a nyilvántartásban szereplő adatokat a bejegyzés alapjául szolgáló határozat véglegessé válásának napjától számított két év elteltével törli.
 
-(8) A munkaügyi hatóság az Flt. 57/A. § (2) bekezdése alapján kezelt adatokból – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
+(8) A munkaügyi hatóság az Flt. 57/A. § (1) bekezdése alapján kezelt adatokból – az ellenőrzési tevékenysége keretében – hatósági hozzáférést biztosító kód alkalmazásával, elektronikusan kérhet tájékoztatást.
