@@ -1,0 +1,1 @@
+80/C. § A NAV első alkalommal 2021. május 25-ig törli az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt azon személyes adatot, amelynek kezelése az adatkezelés céljának megvalósulására tekintettel már nem szükséges.

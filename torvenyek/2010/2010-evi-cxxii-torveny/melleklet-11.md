@@ -47,11 +47,3 @@ Minősítési lap
 ## e) hivatástudat,
 
 ## f) szakmai pontosság,
-
-## g) hatékonyság,
-
-## h) írásbeli kifejezőkészség,
-
-## i) szóbeli kifejezőkészség,
-
-## j) kapcsolatteremtő, -fenntartó készség,

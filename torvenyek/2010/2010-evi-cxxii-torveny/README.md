@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2018-12-25 | 2018. évi XCVIII. törvény | 2010-122-00-00.38 |
 | 2019-02-01 | 2018. évi CXV. törvény | 2010-122-00-00.39 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 2010-122-00-00.40 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2010-122-00-00.41 |

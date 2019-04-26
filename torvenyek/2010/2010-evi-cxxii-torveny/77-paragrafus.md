@@ -4,4 +4,4 @@
 
 (3) Amennyiben utólag megállapításra kerül, hogy hibás adatokat továbbítottak vagy adatokat jogellenesen továbbítottak, erről a címzettet haladéktalanul értesíteni kell.
 
-(4) A nemzetközi bűnügyi együttműködés keretében végzett adatátadásokról az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint adattovábbítási nyilvántartást kell vezetni.
+(4) A nemzetközi bűnügyi együttműködés keretében végzett adatáttovábbításról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás a kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását és az adattovábbítás célját tartalmazza.
