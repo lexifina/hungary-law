@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-20-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1996-20-00-00.61 |
 | 2019-01-01 | 2018. évi LXXXIX. törvény | 1996-20-00-00.62 |
 | 2019-04-01 | 2018. évi CXXI. törvény | 1996-20-00-00.63 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 1996-20-00-00.64 |

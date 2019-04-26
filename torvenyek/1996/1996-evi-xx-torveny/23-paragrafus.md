@@ -34,4 +34,8 @@ n) a családtámogatási kifizetőhely a családtámogatási ellátások megáll
 
 o) a Központi Statisztikai Hivatal statisztikai célra;
 
-p) az oktatási hivatal az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban részt vevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben.
+p) az oktatási hivatal az oktatással kapcsolatos hatáskörei gyakorlásához, a nemzetgazdasági szintű tervezéshez, továbbá az oktatásban részt vevők jogainak gyakorlásához és kötelezettségeinek teljesítéséhez szükséges feladatainak ellátásával összefüggésben;
+
+r) az atomenergia-felügyeleti szerv az atomenergiáról szóló 1996. évi CXVI. törvény 16/A. §-ában meghatározott, Országos Személyi Dozimetriai Nyilvántartás vezetése során a sugárterhelésnek kitett munkavállalók egészségügyi nyomon követéséhez.
+
+s) az önkormányzati adóhatóság a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § f) pontjában meghatározott adómentesség megállapítása, valamint a helyi adókról szóló 1990. évi C. törvény 14/A. §-a és 26/A. §-a szerinti adófelfüggesztés iránt benyújtott kérelem elbírálása és az adózással kapcsolatos nyilvántartás vezetése során.
