@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-96-00-00
 | 2018-08-08 | 2018. évi LIV. törvény | 1993-96-00-00.67 |
 | 2019-01-01 | 2018. évi LII. törvény | 1993-96-00-00.68 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1993-96-00-00.69 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 1993-96-00-00.70 |

@@ -52,9 +52,9 @@ e) kihelyezés: a pénztár feladatkörébe tartozó tevékenységének e tevék
 
 f) kiszervezés: tevékenység olyan kihelyezése, melynek során adatkezelés vagy adatfeldolgozás is megvalósul,
 
-g) adatkezelés: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatkezelési tevékenység,
+g)
 
-h) adatfeldolgozás: a személyes adat, illetve pénztártitkot képező adat tekintetében végzett adatfeldolgozási tevékenység,
+h)
 
 i) tagszervezői tevékenység: a pénztári tagsági jogviszony (a továbbiakban: tagsági jogviszony) létrehozására irányuló rendszeres, üzletszerű tevékenység. E tevékenység kiterjed a tagsági jogviszony létrehozatalának elősegítésére, pénztári termékek ismertetésére, ajánlására, az ezzel kapcsolatos felvilágosításra, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott kötelezettségek teljesítésére, illetve a tagsági jogviszony létrehozatalában, a tagsági jogviszonyt érintő adat- és egyéb módosítási igények – így különösen személyi adatváltozás, portfólióváltás, kedvezményezett jelölés, tagdíjmódosítás –, valamint a kifizetési igények felvételére és a pénztár részére való továbbítására, továbbá a tagsági jogviszonyból fakadóan a pénztártagot megillető kifizetések igénylésében való közreműködésre.
 
