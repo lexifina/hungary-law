@@ -1,0 +1,1 @@
+## „a) az 5. § (1) bekezdése szerinti közszolgáltatási szerződés alapján a kormányzati hírközlési szolgáltató által kötelezően nyújtott kormányzati célú hírközlési szolgáltatások, továbbá hogy ezeket mely felhasználók számára nyújtja, és a szolgáltatásokhoz való hozzáférést mely földrajzi címeken biztosítja kötelezően,”
