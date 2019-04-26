@@ -4,7 +4,7 @@ a) az állománytáblázat elemeit, elfogadásának és módosításának rendj�
 
 b) a rendvédelmi igazgatási alkalmazott mely vagyontárgyak, magáncélú telekommunikációs eszközök esetében, valamint a készpénz, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszköz vonatkozásában mely értékhatárt meghaladóan korlátozható abban, hogy azokat a munkavégzés közben magánál tartsa, valamint a korlátozás feltételeit, továbbá, hogy megállapítsa a magáncélú telekommunikációs eszközök munkavégzés közben történő használatának korlátozására vonatkozó szabályokat,
 
-c) azokat a munkaköröket, amelyeknél az igazgatási jogviszony létesítésének feltétele az e törvényben meghatározottak szerint kifogástalan életvitel ellenőrzéshez történő hozzájárulás,
+c) azokat a munkaköröket, amelyeknél az igazgatási jogviszony létesítésének feltétele az e törvényben meghatározottak szerint kifogástalan életvitel ellenőrzés lehetőségének tudomásulvétele,
 
 d) a kirendelés részletes szabályait,
 

@@ -6,7 +6,7 @@
 
 ## A jelentkező nyilatkozata:
 
-## Hozzájárulok, hogy az adatlapon szereplő adataim valóságát, az életvitelemet, jövedelmi és vagyoni viszonyaimat, életkörülményeimet, lakó- és családi környezetemet a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 42. és 43. §-a alapján elrendelt ellenőrzés során megvizsgálják.
+## Tudomásul veszem, hogy az adatlapon szereplő adataim valóságát, az életvitelemet, jövedelmi és vagyoni viszonyaimat, életkörülményeimet, lakó- és családi környezetemet a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 42. és 43. §-a alapján elrendelt ellenőrzés során megvizsgálják.
 
 ## .........................................., 20........................................................-n
 

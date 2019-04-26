@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2019-02-01 | 2018. évi CXV. törvény | 2015-42-00-00.17 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 2015-42-00-00.18 |
 | 2019-04-12 | 2019. évi XXXV. törvény | 2015-42-00-00.19 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2015-42-00-00.20 |

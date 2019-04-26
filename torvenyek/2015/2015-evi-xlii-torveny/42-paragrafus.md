@@ -8,11 +8,13 @@ a) a hivatásos állomány nemzetbiztonsági ellenőrzés alá eső szolgálati 
 
 b) a hivatásos állományba jelentkezővel szemben, és a nemzetbiztonsági ellenőrzés alá eső jogviszony létesítését a nemzetbiztonsági ellenőrzés tárgykörét szabályozó törvény szerint arra feljogosított személy nem hagyta jóvá, de a rendvédelmi szerv a jelentkező részére más, nemzetbiztonsági ellenőrzés alá nem eső szolgálati beosztás felajánlását tervezi, intézkedni kell a kifogástalan életvitel-ellenőrzés lefolytatására.
 
+(2a) A hivatásos állomány tagjának 1. mellékletben meghatározott személyes és bűnügyi adatait, valamint a közeli hozzátartozójának a bűnügyi nyilvántartásban kezelt adatait a kifogástalan életvitel ellenőrzését végző szerv a kifogástalan életvitel ellenőrzés céljából megismerheti, ennek tényét előbbi esetben a hivatásos állomány tagja vagy a hivatásos állományba jelentkező, utóbbi esetben a közeli hozzátartozó írásban tudomásul veszi.
+
 (3) Szolgálati viszony a 33. §-ban meghatározott feltételeken túl akkor létesíthető vagy az a 86. § (9) és (10) bekezdésében meghatározottakra figyelemmel tartható fenn, ha a hivatásos állomány tagja vagy a hivatásos állományba jelentkező
 
-a) írásban hozzájárul az 1. mellékletben meghatározott személyes adatai és bűnügyi személyes adatai kezeléséhez,
+a)
 
-b) írásban hozzájárul életvitele kifogástalanságának ellenőrzése érdekében a (4) bekezdésben meghatározottaknak a felvételét megelőzően és a szolgálati viszony tartama alatt történő ellenőrzéséhez,
+b) a 3. melléklet szerinti adatlapon szereplő nyilatkozattal írásban tudomásul veszi az életvitele kifogástalanságának ellenőrzése érdekében a (4) bekezdésben meghatározottaknak a felvételét megelőzően és a szolgálati viszony tartama alatt történő ellenőrzését,
 
 c) csatolja a vele közös háztartásban élő közeli hozzátartozójának a 2. melléklet szerinti nyilatkozatát.
 
@@ -32,7 +34,9 @@ b) a hivatásos állományba jelentkezőre vonatkozó rendelkezéseket a rendvé
 
 is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, tanuló jogviszonyt kell érteni.
 
-(6) A kifogástalan életvitel ellenőrzésének lefolytatásához a 3. melléklet szerinti adatlapot kell kitölteni.
+(6) A kifogástalan életvitel ellenőrzésének lefolytatásához a 3. melléklet szerinti adatlapot kell kitölteni, az abban foglalt adatokat a kifogástalan életvitel ellenőrzését végző szerv kezeli.
+
+(6a) A rendvédelmi szervnek átadott 3. melléklet szerinti adatlapot a rendvédelmi szerv zárt borítékban továbbítja a kifogástalan életvitel ellenőrzését lefolytató szervnek.
 
 (7) A (4) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi. A polgári nemzetbiztonsági szolgálatok a saját munkatársaikra vonatkozóan végzett, a nemzetbiztonsági szolgálatokról szóló törvény szerinti biztonsági ellenőrzés alkalmával adatszolgáltatás végett e szervet megkeresik. A megkeresett szerv a biztonsági ellenőrzéssel érintett körben adatszolgáltatásra köteles.
 

@@ -48,6 +48,6 @@ c) az összeférhetetlenség megszüntetését elmulasztotta,
 
 d) állami vezetővé nevezték ki, vagy
 
-e) a kifogástalan életvitel ellenőrzéséhez való hozzájárulását az igazgatási jogviszony fennállása alatt visszavonja.
+e) a kifogástalan életvitel ellenőrzésével kapcsolatos, a 287/M. § (1) bekezdése szerinti nyilatkozatát az igazgatási jogviszony fennállása alatt visszavonja.
 
 (7) Az igazgatási jogviszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.

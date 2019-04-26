@@ -14,7 +14,7 @@ e) az egészségi alkalmatlanság megállapítását követően rendvédelmi eg�
 
 f) az egészségi alkalmatlanság megállapítását követően a rendvédelmi szervnél történő munkaviszony létesítésére tekintettel részére rendvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
 
-g) a kifogástalan életvitel szolgálati viszony fennállása alatti ellenőrzéséhez való hozzájárulását visszavonja.
+g) a kifogástalan életvitel szolgálati viszony fennállása alatti ellenőrzésével kapcsolatos, a 42. § (3) bekezdés b) pontja szerinti nyilatkozatát visszavonja.
 
 (2) A szolgálati viszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 
