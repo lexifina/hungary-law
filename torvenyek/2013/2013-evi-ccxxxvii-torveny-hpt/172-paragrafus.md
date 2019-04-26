@@ -20,7 +20,7 @@ b) az összevont alapú felügyelet alá tartozó hitelintézet anyavállalatáv
 
 c) az 575/2013/EU rendelet 19. cikke alapján mentesített hitelintézettől, pénzügyi vállalkozástól, befektetési vállalkozástól vagy járulékos vállalkozástól.
 
-(8) A (7) bekezdés alapján a Felügyelet által kért adatszolgáltatás csak jogszabályban meghatározott esetben tagadható meg.
+(8) A (7) bekezdés alapján a Felügyelet által kért adatszolgáltatás csak jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott esetben tagadható meg.
 
 (9) Az összevont alapú felügyelet alá tartozó hitelintézet vagy a pénzügyi holding társaság rendelkezik az összevont alapú felügyelete érdekében szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, és azok megbízhatóságát biztosító informatikai és belső ellenőrzési rendszerrel.
 

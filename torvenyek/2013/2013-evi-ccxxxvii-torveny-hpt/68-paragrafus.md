@@ -16,7 +16,7 @@ c) a kiszervezés időtartamát.
 
 a) az adatvédelemre vonatkozó előírások érvényesülésének bemutatását,
 
-b) a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a hitelintézet belső ellenőrzése, adatvédelmi felelőse, külső könyvvizsgálója, a Felügyelet helyszíni, illetve helyszínen kívüli ellenőrzéséhez,
+b) a kiszervezett tevékenységet végző hozzájárulását a kiszervezett tevékenységnek a hitelintézet belső ellenőrzése, adatvédelmi tisztviselője, külső könyvvizsgálója, a Felügyelet helyszíni, illetve helyszínen kívüli ellenőrzéséhez,
 
 c) a kiszervezett tevékenységet végző felelősségét a tevékenység megfelelő színvonalon történő végzéséért, illetve a szerződés hitelintézet részéről történő azonnali felmondási lehetőségét a szerződés ismételt vagy súlyos megsértése esetére,
 

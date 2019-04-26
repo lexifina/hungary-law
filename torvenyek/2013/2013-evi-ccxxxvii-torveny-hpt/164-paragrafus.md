@@ -20,7 +20,7 @@ gb) a nemzetgazdasági folyamatok elemzése, illetve a központi költségvetés
 
 részére,
 
-h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára történő adattovábbítás, abban az esetben, ha a pénzügyi intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzügyi intézménynél (adatkezelőnél) a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
+h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára történő adattovábbítás, abban az esetben, ha a pénzügyi intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzügyi intézménynél (adatkezelőnél) a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzügyi intézmény székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
 
 i) a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, ha a megállapodás tartalmazza az adatok bizalmas kezelésére, felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
 
