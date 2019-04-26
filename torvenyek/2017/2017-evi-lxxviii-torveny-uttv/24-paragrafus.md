@@ -18,7 +18,7 @@ h) a nem igazságügyi szakértői tevékenység,
 
 i) a választási bizottsági tagság,
 
-j) a belső adatvédelmi felelősi tevékenység,
+j) az adatvédelmi tisztviselői tevékenység,
 
 k) a végelszámolói feladat ellátása,
 
