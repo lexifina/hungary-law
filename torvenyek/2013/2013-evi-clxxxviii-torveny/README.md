@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-188-00-00
 | 2015-09-01 | 2015. évi CXIX. törvény | 2013-188-00-00.11 |
 | 2016-07-01 | 2015. évi CCXI. törvény | 2013-188-00-00.12 |
 | 2017-07-01 | 2016. évi LXVIII. törvény | 2013-188-00-00.13 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2013-188-00-00.14 |
