@@ -8,7 +8,7 @@ b) állami célú légiközlekedéssel kapcsolatos szakértői tevékenység ese
 
 bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait, lakcímét, elérhetőségét és iskolai végzettségét.
 
-(3) A légiközlekedési hatóság, a katonai légügyi hatóság, illetve a kamara a szakértői tevékenység végzésére jogosult – (2) bekezdés szerinti – bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, lakcímét, elérhetőségét és iskolai végzettségét. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A légiközlekedési hatóság, a katonai légügyi hatóság, illetve a kamara a szakértői tevékenység végzésére jogosult – a (2) bekezdés szerinti – bejelentést tevő személyekről a tevékenység folytatása megszüntetésének bejelentését követő egy évig nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, lakcímét a szakértői tevékenység végzésére jogosult által választott kapcsolattartási formára vonatkozó adatot és iskolai végzettségét.
 
 (4) Ha hatósági eljárásban légiközlekedési szakkérdésben szakértő kirendelése szükséges, és jogszabály meghatározott szakértő igénybevételét nem írja elő, e § szerinti szakértőt, ennek hiányában az igazságügyi szakértői tevékenységről szóló törvény szerinti igazságügyi szakértői tevékenység végzésére jogosult szakértőt kell kirendelni.
 

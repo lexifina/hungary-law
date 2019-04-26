@@ -12,7 +12,7 @@
 
 (5) A (3) bekezdésben meghatározott esetben az általános rendőrségi feladatok ellátására létrehozott szerv a védelmi ellenőrzés átvételéről határozatot hoz.
 
-(6)
+(6) A repülőtér üzembentartója a légiközlekedés védelme érdekében, továbbá a (17) bekezdésben meghatározott védelmi háttérellenőrzés, valamint a személyek és gépjárművek repülőtéri mozgásának nyilvántartása céljából, a repülőtérre repülőtéri belépőkártyát kapott személyek természetes személyazonosító adatait, lakcímét, az általuk választott kapcsolattartási formára vonatkozó adatot, a behajtáshoz használt gépjárművek adatait, a korábban bevont állandó repülőtéri belépőkártya bevonásának idejére és annak indokára vonatkozó adatokat, a belépőkártya kibocsátásától számított 5 évig kezeli.
 
 (7) Az (1) bekezdésben meghatározott szervezetek és személyek légiközlekedés védelmével kapcsolatos tevékenységét a légiközlekedési hatóság és az általános rendőrségi feladatok ellátására létrehozott szerv, a Kormány által rendeletben meghatározottak szerint felügyeli és ellenőrzi.
 

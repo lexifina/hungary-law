@@ -8,7 +8,7 @@
 
 (5) A hivatásos katasztrófavédelmi szerv az e törvény alapján hivatalból indított eljárása során – annak tárgyával összefüggésben – az ügyfelet az érdemi döntéshez szükséges adatszolgáltatásra vagy nyilatkozattételre kötelezheti. Az adatszolgáltatás vagy nyilatkozattétel elmulasztása, az ügy eldöntése szempontjából jelentős tény elhallgatása, valótlan tény állítása, illetve valótlan adatok közlése estén a hivatásos katasztrófavédelmi szerv a kötelezettet eljárási bírsággal sújtja.
 
-(6) A hivatásos katasztrófavédelmi szerv jogosult a veszélyes áru szállításában érintett vállalkozásra, természetes személyre vonatkozó adatok – beleértve a személyes adatokat is – kezelésére és nyilvántartására.
+(6) A hivatásos katasztrófavédelmi szerv a veszélyes áru szállításában érintett vállalkozásra, továbbá természetes személyre vonatkozó természetes személyazonosító adatokat, lakcímadatokat a légiközlekedés biztonsága érdekében a (8) bekezdés b) pontjában meghatározott ideig kezeli.
 
 (7) A veszélyes áruk légi úton történő szállításával kapcsolatos nyilvántartásában a hivatásos katasztrófavédelmi szerv a következő adatokat kezeli:
 
