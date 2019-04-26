@@ -238,19 +238,9 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. |  |  |  |
+| 1. | Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-140237 | 2022. december 31. |
 
-| 2. |  |  |  |
-
-| 3. |  |  |  |
-
-| 4. | Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-041364 | 2022. december 31. |
-
-| 5. |  |  |  |
-
-| 6. |  |  |  |
-
-| 7. |  |  |  |
+| 2. | Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-041364 | 2022. december 31. |
 
 ## X. Tulajdonosi joggyakorló: a Miniszterelnökség
 
