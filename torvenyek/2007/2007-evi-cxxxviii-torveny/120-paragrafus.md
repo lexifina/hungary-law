@@ -10,11 +10,11 @@ d) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató által
 
 e) a befektetési vállalkozás, az árutőzsdei szolgáltató által a külföldi befektetési vállalkozás, árutőzsdei szolgáltató számára történő adattovábbítás, ha
 
-ea) az ügyfél ahhoz írásban hozzájárult,
+ea) az ügyfél ahhoz kifejezetten hozzájárult,
 
-eb) a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei a külföldi befektetési vállalkozásnál, árutőzsdei szolgáltatónál minden egyes adatra nézve biztosítottak,
+eb) a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelés feltételei a külföldi befektetési vállalkozásnál, árutőzsdei szolgáltatónál minden egyes adatra nézve biztosítottak,
 
-ec) a külföldi befektetési vállalkozás, árutőzsdei szolgáltató székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
+ec) a külföldi befektetési vállalkozás, árutőzsdei szolgáltató székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
 
 f) a befektetési vállalkozás, az árutőzsdei szolgáltató igazgatóságának írásbeli hozzájárulásával a befektetési vállalkozásban, az árutőzsdei szolgáltatóban minősített befolyással rendelkező tulajdonosnak vagy az ilyen befolyást szerezni kívánó személynek vagy szervezetnek, a szerződéses kötelezettségek állományának átruházásáról szóló megállapodás szerinti átvevő társaságnak, vagy ezek tulajdonosa, jövőbeni tulajdonosa által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
 

@@ -16,7 +16,7 @@ a) nincs érvényes és hatályos, a felügyeleti hatóságok kölcsönös elism
 
 b) a kérelmező székhelye szerinti állam nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni jogszabályi előírásokkal,
 
-c) a kérelmező nem rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
+c) a kérelmező nem rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 
 d) a kérelmező nem nyilatkozik arról, hogy korlátlanul helytáll a fióktelep cégneve alatt keletkezett kötelezettségekért,
 

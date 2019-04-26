@@ -46,11 +46,11 @@ b) a Felügyelet a külföldi felügyeleti hatósággal kötött együttműköd�
 
 c) a magyar bűnüldöző szerv nemzetközi szerződés alapján, külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése érdekében írásban kér adatot a befektetési vállalkozástól, illetőleg az árutőzsdei szolgáltatótól, ha a megkeresés tartalmazza a külföldi bűnüldöző szerv által aláírt titoktartási záradékot,
 
-d) a Befektető-védelmi Alap által külföldi befektetővédelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
+d) a Befektető-védelmi Alap által külföldi befektetővédelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a jogszabályokkal és az Európai Unió közvetlenül alkalmazandó jogi aktusaival legalább egyenrangú védelem biztosított,
 
 e)
 
-f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól,
+f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól, valamint ha a befektetési vállalkozás vagy az árutőzsdei szolgáltató csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti,
 
 g) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot,
 
