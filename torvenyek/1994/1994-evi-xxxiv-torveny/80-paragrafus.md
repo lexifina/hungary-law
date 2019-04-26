@@ -2,7 +2,7 @@
 
 (2) A rendőrségi adatkezelő szerv, illetőleg a megbízási szerződés keretei között az adatfeldolgozó szerv [91/A. § (2) bekezdés] vezetője köteles gondoskodni arról, hogy a személyes adatok védelmének biztosítása érdekében
 
-a) az érintett – az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott módon –
+a) az érintett
 
 aa) a rendőri szerv által kezelt, illetve továbbított személyes adatairól kérelmére tájékoztatást kapjon, valamint
 

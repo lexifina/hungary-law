@@ -10,7 +10,9 @@ c) az állam működése szempontjából kiemelten fontos, illetve a Kormány á
 
 d) a korlátozott robbanóanyag-prekurzorokkal kapcsolatos gyanús tranzakciók jelentésével, valamint a gyanús tranzakciókra vonatkozó jelentési kötelezettség teljesítésének ellenőrzésével összefüggő rendőrségi feladatok ellátásához szükséges adatokat a jelentés megtételétől, illetve a jelentéstételi kötelezettség rendőrség általi ellenőrzésének időpontjától számított öt évig,
 
-e) a légiközlekedésről szóló törvény szerinti légiközlekedési szakszemélyzet képzése, valamint ejtőernyős ugrás során bejelentett személyek adatait a bejelentést követő legfeljebb két évig.
+e) a légiközlekedésről szóló törvény szerinti légiközlekedési szakszemélyzet képzése, valamint ejtőernyős ugrás során bejelentett személyek adatait a bejelentést követő legfeljebb két évig,
+
+f) a közlekedési rendszabályok megtartásának, a járműhasználat szabályszerűségének, az okmányokra és a felszerelésekre vonatkozó előírások megtartásának, a jármű birtoklása jogszerűségének, az üzemben tartó, valamint a használó személyazonosító adatainak, a jármű közlekedésbiztonsági állapotának és adatainak a forgalomban és a telephelyen – a jogszabályban meghatározottak alapján – történő ellenőrzése során vizsgált és rögzített adatokat az adatok rögzítésétől számított 30 napig.
 
 (2) A (1) bekezdés b) pontja szerinti adatállományból a rendőrség a közrend és közbiztonság, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, továbbá mások jogainak védelme céljából a külföldi rendőri szerv részére, valamint a rendezvények biztonságának védelme, a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek továbbíthat adatot.
 
