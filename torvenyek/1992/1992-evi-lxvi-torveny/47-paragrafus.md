@@ -30,7 +30,7 @@ b) a nyilvántartási eljárás során használandó iratmintákat;
 
 c) az adópolitikáért felelős miniszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetve értesítésért, a lakcímbejelentésről és az értesítési cím bejelentésről történő értesítésért, továbbá a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért fizetendő igazgatási szolgáltatási díj összegét és megfizetésének részletes szabályait;
 
-d) az adatvédelmi felelős [30. § (2) bekezdés] feladatát és hatáskörét,
+d)
 
 e) a személyazonosítás célját szolgáló és a jogosultságot igazoló kitöltetlen biztonsági okmányok nyilvántartásának, azok kezelésének és tárolásának szabályait.
 
