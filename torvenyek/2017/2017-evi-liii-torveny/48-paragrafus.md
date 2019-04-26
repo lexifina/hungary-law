@@ -14,7 +14,7 @@ részére.
 
 (2) A pénzügyi információs egység az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott feladatai ellátásához adatokat adhat át a pénzügyi és vagyoni korlátozó intézkedés foganatosításáért felelős szervnek.
 
-(3) A pénzügyi információs egység az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény alapján vezetett adattovábbítási nyilvántartásban rögzített adatokat az információ továbbításától számított húsz évig köteles megőrizni.
+(3) A pénzügyi információs egység az (1) és (2) bekezdés szerinti adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából adattovábbítási nyilvántartást vezet, amely tartalmazza az általa kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat. A pénzügyi információs egység az adattovábbítási nyilvántartásban rögzített adatokat az információ továbbításától számított húsz évig köteles megőrizni.
 
 (4) A pénzügyi információs egység adatkezelési rendszeréből az (1) bekezdésben meghatározott hatóságok törvényben meghatározott feladataik teljesítése érdekében, azok teljesítéséhez szükséges mértékben a cél megjelölésével megkeresést küldhetnek.
 
