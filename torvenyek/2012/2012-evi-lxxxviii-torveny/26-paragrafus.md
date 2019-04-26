@@ -10,4 +10,4 @@ c) nem felel meg az általános hatályú, közvetlenül alkalmazandó európai 
 
 a) tájékoztathatják a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot a termék biztonságosságának követelményeivel kapcsolatos észrevételeikről,
 
-b) tájékoztatást kérhetnek a KPIR működtetéséért felelős fogyasztóvédelmi hatóságtól a KPIR-ben nyilvántartott adatokról, amelyet a KPIR működtetéséért felelős fogyasztóvédelmi hatóság az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseinek betartása mellett adhat meg.
+b) tájékoztatást kérhetnek a KPIR működtetéséért felelős fogyasztóvédelmi hatóságtól a KPIR-ben nyilvántartott adatokról, amelyet a KPIR működtetéséért felelős fogyasztóvédelmi hatóság a személyes adatok védelmére vonatkozó előírások betartása mellett adhat meg.

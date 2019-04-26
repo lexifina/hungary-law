@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-88-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2012-88-00-00.4 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2012-88-00-00.5 |
 | 2018-01-01 | 2017. évi L. törvény | 2012-88-00-00.6 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2012-88-00-00.7 |
