@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-133-00-00
 | 2017-01-01 | 2016. évi CXXVII. törvény | 2003-133-00-00.25 |
 | 2018-01-01 | 2017. évi CXXXVI. törvény | 2003-133-00-00.26 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2003-133-00-00.27 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2003-133-00-00.28 |
