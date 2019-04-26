@@ -1,4 +1,4 @@
-17. § (1) A nyilvántartásból teljesített adatszolgáltatásokról az Info tv.-ben meghatározott adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás az Info tv.-ben meghatározottakon kívül tartalmazza az adatkezelő nyilvántartási azonosítóját és az adattovábbítás célját is.
+17. § (1) A nyilvántartásból teljesített adatszolgáltatásokról az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából az adatkezelési tevékenységek nyilvántartása részeként adattovábbítási nyilvántartást kell vezetni. Az adattovábbítási nyilvántartás a kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását, és az adattovábbítás célját tartalmazza.
 
 (2) Az adattovábbítási nyilvántartást az OBH elnöke vezeti.
 

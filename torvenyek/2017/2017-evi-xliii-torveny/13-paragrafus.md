@@ -6,6 +6,6 @@
 
 (3) Az OBH elnöke a nyilvántartás adatait és az azokban bekövetkezett változásokat – a nyilvántartásba bejegyzett általános meghatalmazásoknak az elektronikus ügyintézés és bizalmi szolgáltatások általános szabályairól szóló törvény szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) történő feltüntetése céljából – automatikus információátadás útján átadja a rendelkezési nyilvántartást vezető szervnek.
 
-(4) A nyilvántartás adatait az OBH elnöke az adat nyilvántartásból történő törlését követő öt évig tartja nyilván, majd haladéktalanul gondoskodik azoknak az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Info tv.) szerinti végleges törléséről.
+(4) A nyilvántartás adatait az OBH elnöke az adat nyilvántartásból történő törlését követő öt évig tartja nyilván, majd haladéktalanul gondoskodik azok végleges törléséről.
 
 (5) A nyilvántartásban kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
