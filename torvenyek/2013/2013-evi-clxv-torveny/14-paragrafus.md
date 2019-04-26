@@ -1,11 +1,21 @@
-14. § (1) A foglalkoztatói szervezet a jogszabályok, valamint a 13. § szerinti magatartási szabályok megsértésének bejelentésére visszaélés-bejelentési rendszert (a továbbiakban: bejelentési rendszer) hozhat létre, ebben a bejelentőnek, valamint a bejelentésben érintett személynek a bejelentésben megadott személyes adatait a bejelentés kivizsgálása céljából kezelheti és a bejelentés kivizsgálásában közreműködő külső szervezet részére továbbíthatja. A bejelentési rendszerhez kapcsolódó adatkezelést az adatkezelő bejelenti a Nemzeti Adatvédelmi és Információszabadság Hatóság által vezetett adatvédelmi nyilvántartásba. A bejelentési rendszerhez kapcsolódó adatkezelés adatvédelmi nyilvántartásba vételére az Infotv. 65. § (3) bekezdés a) pontját nem kell alkalmazni.
+14. § (1) A foglalkoztatói szervezet – jogszerű és prudens működése érdekében – a jogszabályok, valamint a 13. § szerinti magatartási szabályok megsértésének bejelentésére visszaélés-bejelentési rendszert (a továbbiakban: bejelentési rendszer) hozhat létre, amelynek keretei között a munkáltató munkavállalói, valamint a foglalkoztatói szervezettel szerződéses viszonyban álló, vagy olyan személyek tehetnek bejelentést, akiknek a bejelentés megtételéhez vagy a bejelentés tárgyát képező magatartás orvoslásához vagy megszüntetéséhez méltányolható jogos érdekük fűződik (a továbbiakban: bejelentő).
 
-(2) A bejelentési rendszer működésére, valamint a bejelentéssel kapcsolatos eljárásra vonatkozóan a munkáltató honlapján magyar nyelvű, részletes tájékoztatást tesz közzé.
+(2) A bejelentési rendszer működésére, valamint a bejelentéssel kapcsolatos eljárásra vonatkozóan a foglalkoztatói szervezet honlapján magyar nyelvű, részletes tájékoztatást tesz közzé.
 
-(3) A bejelentési rendszerben különleges adatok kezelése tilos.
+(3) A foglalkoztatói szervezet a bejelentési rendszer keretei között
 
-(4) A bejelentési rendszerből haladéktalanul törölni kell a bejelentésben nem érintett harmadik személyre vonatkozó, a bejelentés kivizsgálásához nem szükséges, valamint az e törvény szerint nem kezelhető adatokat.
+a) a bejelentőnek és
 
-(5) A bejelentési rendszerben kezelt személyes adatok kezelésére a 3. § (3) bekezdésében és – a bejelentőre vonatkozó adatok tekintetében – a 3. § (4) bekezdésében foglaltakat kell alkalmazni.
+b) annak a személynek,
 
-(6) A bejelentési rendszerbe a munkáltató munkavállalói, valamint a foglalkoztatói szervezettel szerződéses viszonyban álló, vagy olyan személyek tehetnek bejelentést, akiknek a bejelentés megtételéhez vagy a bejelentés tárgyát képező magatartás orvoslásához méltányolható jogos érdekük fűződik. A bejelentés megtételekor a bejelentő nevét és lakcímét, jogi személy bejelentő esetén annak székhelyét és a bejelentést benyújtó törvényes képviselőjének nevét köteles megadni, továbbá nyilatkoznia kell arról, hogy a bejelentést jóhiszeműen teszi olyan körülményekről, amelyekről tudomása van, vagy kellő alappal feltételezi, hogy azok valósak. A bejelentő figyelmét fel kell hívni a rosszhiszemű bejelentés következményeire, a bejelentés kivizsgálására irányadó eljárási szabályokra és arra, hogy személyazonosságát a vizsgálat valamennyi szakaszában bizalmasan kezelik. A bejelentőt tájékoztatni kell arról, hogy a név nélküli vagy azonosíthatatlan bejelentő által megtett bejelentés vizsgálata mellőzhető.
+ba) akinek a magatartása vagy mulasztása a bejelentésre okot adott, vagy
+
+bb) aki a bejelentésben foglaltakról érdemi információval rendelkezhet [a továbbiakban a ba) és bb) alpont együtt: a bejelentésben érintett személy]
+
+a bejelentés kivizsgálásához elengedhetetlenül szükséges személyes adatait – ideértve a különleges adatokat és a bűnügyi személyes adatokat is – kizárólag a bejelentés kivizsgálása és a bejelentés tárgyát képező magatartás orvoslása vagy megszüntetése céljából kezelheti és a bejelentővédelmi ügyvéd, illetve a bejelentés kivizsgálásában közreműködő külső szervezet részére továbbíthatja.
+
+(4) A bejelentési rendszer keretei között kezelt adatok közül haladéktalanul törölni kell a (3) bekezdés hatálya alá nem tartozó személyes adatokat.
+
+(5) A bejelentési rendszer keretei között kezelt személyes adatok kezelésére a 3. § (3) bekezdésében és – a bejelentőre vonatkozó adatok tekintetében – a 3. § (4) bekezdésében foglaltakat kell alkalmazni.
+
+(6) A bejelentés megtételekor a bejelentőnek nyilatkoznia kell arról, hogy a bejelentést jóhiszeműen teszi olyan körülményekről, amelyekről tudomása van, vagy kellő alappal feltételezi, hogy azok valósak. Jogi személy bejelentő a bejelentés megtételekor köteles megadni székhelyét és a bejelentést benyújtó törvényes képviselőjének nevét. A bejelentő figyelmét fel kell hívni a rosszhiszemű bejelentés következményeire, a bejelentés kivizsgálására irányadó eljárási szabályokra és arra, hogy személyazonosságát – ha az annak megállapításához szükséges adatokat megadja – a vizsgálat valamennyi szakaszában bizalmasan kezelik.
