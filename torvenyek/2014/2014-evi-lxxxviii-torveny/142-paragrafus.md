@@ -1,4 +1,4 @@
-142. § (1) Az adattovábbítási nyilvántartásban szereplő személyes adatokat az adattovábbítástól számított öt év elteltével, a 136. § alá eső adatok vagy az Infotv. szerint különleges adatnak minősülő adatok továbbítása esetén húsz év elteltével törölni kell.
+142. § (1) Az adattovábbítási nyilvántartásban szereplő személyes adatokat az adattovábbítástól számított öt év elteltével, a különleges adatnak vagy bűnügyi személyes adatnak minősülő adatok továbbítása esetén húsz év elteltével törölni kell.
 
 (2) A biztosító és a viszontbiztosító az érintett személyt nem tájékoztathatja a 138. § (1) bekezdés b), f) és j) pontjai, illetve a 138. § (6) bekezdése alapján végzett adattovábbításokról.
 

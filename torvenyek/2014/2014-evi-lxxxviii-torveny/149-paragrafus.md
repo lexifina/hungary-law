@@ -56,7 +56,7 @@ b) az adott járművet érintően a biztosító által elvégzett kárfelvétel 
 
 (11) A megkereső biztosító az (1) bekezdésben meghatározott megkeresés és a megkeresés teljesítésének tényéről, továbbá az abban szereplő adatok köréről a megkereséssel érintett ügyfelet a biztosítási időszak alatt legalább egyszer értesíti.
 
-(12) Ha az ügyfél az Infotv.-ben szabályozott módon az adatairól tájékoztatást kér és a megkereső biztosító – a (8)–(10) bekezdésben meghatározottakra tekintettel – már nem kezeli a kérelemmel érintett adatokat, akkor ennek a tényéről kell tájékoztatni a kérelmezőt.
+(12) Ha az ügyfél a személyes adataihoz való hozzáférést kér és a megkereső biztosító – a (8)–(10) bekezdésben meghatározottakra tekintettel – már nem kezeli a kérelemmel érintett adatokat, akkor ennek a tényéről kell tájékoztatni a kérelmezőt.
 
 (13) A megkereső biztosító a megkeresés eredményeként kapott adatokat biztosított érdekre nem vonatkozó, tudomására jutott, illetve általa kezelt egyéb adatokkal az (1) bekezdésben meghatározottól eltérő célból nem kapcsolhatja össze.
 

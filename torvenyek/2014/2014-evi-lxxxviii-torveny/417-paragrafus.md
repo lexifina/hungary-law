@@ -12,9 +12,9 @@ a) érvényes és hatályos, a felügyeleti hatóságok kölcsönös elismerés�
 
 b) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó jogszabályi előírásokkal,
 
-c) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal,
+c) a kérelmező biztosításközvetítő székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi előírásokkal,
 
-d) a kérelmező biztosításközvetítő rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal,
+d) a kérelmező biztosításközvetítő rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelési szabályzattal,
 
 e) a kérelmező biztosításközvetítő nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért,
 

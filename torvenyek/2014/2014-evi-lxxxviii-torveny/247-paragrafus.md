@@ -14,9 +14,9 @@ a) a felügyeleti hatóságok kölcsönös elismerésén alapuló – fióktelep
 
 b) a kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő pénzmosás és a terrorizmus finanszírozása elleni, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó jogszabályi előírásokkal;
 
-c) a kérelmező székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi előírásokkal;
+c) a kérelmező székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi előírásokkal;
 
-d) a kérelmező rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelési szabályzattal;
+d) a kérelmező rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelési szabályzattal;
 
 e) a kérelmező nyilatkozik arról, hogy helytáll a fióktelep útján keletkezett kötelezettségeiért;
 

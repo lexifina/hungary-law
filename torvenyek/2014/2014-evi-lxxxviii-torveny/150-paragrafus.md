@@ -36,4 +36,4 @@ d) a biztosító megnevezését és a biztosítást igazoló okirat számát.
 
 (15) Az Adatbázisból adatot igénylő biztosító az adatigénylés eredményeként tudomására jutott adatot csak az (1) bekezdésben meghatározott célból kezelheti.
 
-(16) Az igénylő biztosító a (3) bekezdésben meghatározott igénylésről, az abban szereplő adatokról, továbbá az igénylés teljesítéséről az ügyfelet a biztosítási időszak alatt legalább egyszer értesíti, továbbá az ügyfél kérelmére az Infotv.-ben szabályozott módon tájékoztatja.
+(16) Az igénylő biztosító a (3) bekezdésben meghatározott igénylésről, az abban szereplő adatokról, továbbá az igénylés teljesítéséről az ügyfelet a biztosítási időszak alatt legalább egyszer értesíti, továbbá az ügyfél kérelmére a személyes adataihoz hozzáférést biztosít.
