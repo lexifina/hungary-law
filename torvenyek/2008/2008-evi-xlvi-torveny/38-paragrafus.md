@@ -74,13 +74,11 @@ h) vágóhídi segédszemélyzetről;
 
 a) a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számot,
 
-b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát, továbbá
+b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát,
 
-c) az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben
+c) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelét, egyéni vállalkozó természetes személy esetén a székhelyet és adószámot, őstermelő természetes személy esetén az adószámot is,
 
-ca) természetes személyek esetén a természetes személyazonosító adatokat, lakcímet, telephelyet, elérhetőséget, adóazonosító jelet, egyéni vállalkozó természetes személy esetén a székhelyet és adószámot, őstermelő természetes személy esetén az adószámot is,
-
-cb) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
+d) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevet, adóazonosító számot, székhelyet, telephelyet, statisztikai számjelet, elérhetőséget.
 
 (2a) Az (1) bekezdés 3.,12.,13.,14.,15.,17.,18. és 27. pontja szerinti nyilvántartás a (2) bekezdés b) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 

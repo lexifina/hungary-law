@@ -10,4 +10,4 @@
 
 (2a) Amennyiben az élelmiszer eredete kétséget kizáró módon nem állapítható meg, a nyomon-követhetőségre vonatkozó előírások megsértése az emberi életet és egészséget veszélyeztető helyzetnek minősül.
 
-(3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely az információs önrendelkezési jogról és az információszabadságról szóló törvény hatálya alá tartozó adatkörben tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.
+(3) Az állatgyógyászati készítmény forgalomba hozója az e törvény végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást köteles vezetni, amely tartalmazza az állatgyógyászati készítmény beszállítójának és vevőjének nevét és címét.
