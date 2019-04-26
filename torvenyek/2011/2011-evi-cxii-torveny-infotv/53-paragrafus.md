@@ -18,9 +18,11 @@ d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem t
 
 e) a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be,
 
-f) a bejelentés az 51/A. § (2) bekezdésében meghatározott feltételeknek nem felel meg, vagy
+f) a bejelentés az 51/A. § (2) bekezdésében meghatározott feltételeknek nem felel meg,
 
-g) a bejelentés tárgyában hatósági ellenőrzést végez vagy hatósági eljárást folytat.
+g) a bejelentés tárgyában hatósági ellenőrzést végez vagy hatósági eljárást folytat, vagy
+
+h) a bejelentés tárgya nem tartozik a hatáskörébe és a rendelkezésre álló adatok alapján a bejelentés tárgya tekintetében hatáskörrel rendelkező szerv kiléte nem állapítható meg.
 
 (4) Ha a bejelentést az alapvető jogok biztosa tette, a Hatóság a bejelentést érdemi vizsgálat nélkül csak abban az esetben utasíthatja el, ha az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született.
 

@@ -1,4 +1,4 @@
-60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százhúsz nap.
+60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százötven nap.
 
 (2) A Hatóság az adatvédelmi hatósági eljárást az általános adatvédelmi rendelet
 

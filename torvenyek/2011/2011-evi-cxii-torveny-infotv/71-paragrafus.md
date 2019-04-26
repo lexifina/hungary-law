@@ -8,6 +8,8 @@ b) az e törvényben a Hatóság részére előírt, az érintett számára telj
 
 hogy azon érdekek, amelyek az érintettet megillető jogok jogszerű korlátozásának alapjául szolgálhatnak, ne szenvedjenek sérelmet.
 
+(1b) A Hatóság megkeresésére a települési önkormányzat jegyzője ellenőrzi az illetékességi területén folytatott, a Hatóság által a megkeresésben megjelölt adatkezelés tényleges körülményeit, így különösen a kezelt személyes adatok körét, a személyes adatokkal végzett műveleteket és e műveletek eszközeit, továbbá az adatkezelő által alkalmazott technikai és szervezési intézkedéseket.
+
 (2) A Hatóság az eljárásai során jogszerűen megszerzett iratot, adatot vagy egyéb bizonyítási eszközt más eljárásában felhasználhatja.
 
 (2a) Védekezés céljából készült irat esetén az (1) és (2) bekezdésben foglaltakat az ügyvédi tevékenységről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
