@@ -1,16 +1,12 @@
-54. § (1) Az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére történő belépést a házelnök engedélyezi. E hatáskört a házelnök átruházhatja.
+54. § (1) Az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépést a házelnök engedélyezi. E hatáskört a házelnök átruházhatja.
 
-(2) A házelnök meghatározza és az Országgyűlés honlapján közzéteszi az (1) bekezdésben meghatározott épületek területére történő belépés és az ott-tartózkodás rendjét, az Országgyűlési Őrség e feladatkörével összefüggő tevékenysége részletes szabályait, valamint a belépés engedélyezésére vonatkozó jogosultság átruházásának szabályait. A házelnök nem állapíthat meg olyan rendelkezést, amely az Országgyűlés ülésének nyilvánosságát, a demokratikus közvélemény kialakulásához szükséges szabad tájékoztatás feltételeit kizárná.
+(2) A házelnök meghatározza és az Országgyűlés honlapján közzéteszi az (1) bekezdésben meghatározott épületek területére történő belépés és az ott-tartózkodás rendjét, az Országgyűlési Őrség és az Országgyűlés Hivatala e feladatkörével összefüggő tevékenysége részletes szabályait, valamint a belépés engedélyezésére vonatkozó jogosultság átruházásának szabályait. A házelnök nem állapíthat meg olyan rendelkezést, amely az Országgyűlés ülésének nyilvánosságát, a demokratikus közvélemény kialakulásához szükséges szabad tájékoztatás feltételeit kizárná.
 
 (3) Az (1) bekezdésben meghatározott épületek területére belépők és ott tartózkodók belépésükkel elfogadják a házelnök (2) bekezdésben meghatározott rendelkezéseit, és kötelesek azokat tiszteletben tartani.
 
-(4) Az (1) bekezdésben meghatározott épületek területére belépők és ott tartózkodók belépésükkel elfogadják, hogy
+(4)
 
-a) a természetes személyazonosító adataikat, valamint a belépésükre és ott-tartózkodásukra vonatkozó adataikat – a létesítmények védelme, illetve az ezek működésével összefüggésben elkövetett bűncselekmények felderítése érdekében – az adatok rögzítésétől számított öt évig kezeli az Országgyűlés Hivatala és az Országgyűlési Őrség, valamint
-
-b) az a) pont szerint kezelt adatokat az Országgyűlés Hivatala és az Országgyűlési Őrség törvényben meghatározott esetben más szervek részére átadhatja.
-
-(5) Az Országgyűlési Őrség részére a (4) bekezdés a) pontja szerinti adatokat az Országgyűlés Hivatala adja át.
+(5)
 
 (6) Ha az (1) bekezdésben meghatározott épületek területére belépők és ott tartózkodók (3) bekezdés szerinti kötelezettségüket nem teljesítik, akkor belépésük megtagadható, illetve onnan kivezettethetők. A házelnök döntése alapján az ilyen személynek az (1) bekezdésben meghatározott épületek területére történő belépését meg lehet tagadni.
 

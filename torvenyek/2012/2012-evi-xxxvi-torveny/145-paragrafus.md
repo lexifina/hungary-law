@@ -8,7 +8,7 @@
 
 (3) E törvény hatálybalépését követően az Országgyűlés, az Országház és a Parlament nevét, jelképeit az e törvény hatálybalépése előtti időponttól felhasználó 2012. december 31-ig kérvényezheti a házelnöknél a név-, illetve jelképhasználat engedélyeztetését.
 
-(4) A 2013. január 1-jét megelőzően kihirdetett jogszabályban az Országgyűlés védelmével, függetlenségének és külső befolyástól mentes működésének biztosításával, továbbá az Országház és az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekben történő rendőri intézkedésekkel és a tűzbiztonsági követelmények megtartásával összefüggésben a rendőrség, illetve a hivatásos katasztrófavédelmi szerv számára meghatározott feladatokat és hatásköröket az Országgyűlési Őrség látja el.
+(4) A 2013. január 1-jét megelőzően kihirdetett jogszabályban az Országgyűlés védelmével, függetlenségének és külső befolyástól mentes működésének biztosításával, továbbá az Országház és az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben történő rendőri intézkedésekkel és a tűzbiztonsági követelmények megtartásával összefüggésben a rendőrség, illetve a hivatásos katasztrófavédelmi szerv számára meghatározott feladatokat és hatásköröket az Országgyűlési Őrség látja el.
 
 (5) Ahol jogszabály az Országgyűlési Őrség részére a (4) bekezdésben meghatározott feladatok tekintetében a rendőrséget, illetve a hivatásos katasztrófavédelmi szervet említi, azon az Országgyűlési Őrséget kell érteni.
 

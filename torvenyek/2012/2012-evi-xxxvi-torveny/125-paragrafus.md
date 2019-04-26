@@ -10,11 +10,11 @@
 
 a) ellátja a házelnök személyvédelmét,
 
-b) az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek, valamint az abban tartózkodók biztonsága érdekében létesítménybiztosítási feladatokat lát el,
+b) az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint az abban tartózkodók biztonsága érdekében létesítménybiztosítási feladatokat lát el,
 
-c) biztosítja az Országház, az Országgyűlés Irodaháza, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjére vonatkozó szabályok betartását,
+c) az Országgyűlés Hivatalával együttműködve biztosítja az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjére vonatkozó szabályok betartását,
 
-d) az Országházban, az Országgyűlés Irodaházában, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekben gondoskodik a jogszabályokban meghatározott tűzbiztonsági követelmények megtartásáról, valamint a tevékenységi körükkel kapcsolatos veszélyhelyzetek megelőzésének és elhárításának a feltételeiről,
+d) az Országházban, az Országgyűlés Irodaházában, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben gondoskodik a jogszabályokban meghatározott tűzbiztonsági követelmények megtartásáról, valamint a tevékenységi körükkel kapcsolatos veszélyhelyzetek megelőzésének és elhárításának a feltételeiről,
 
 e) ellátja a tárgyalási rend fenntartásával kapcsolatos, e törvényben meghatározott feladatokat,
 

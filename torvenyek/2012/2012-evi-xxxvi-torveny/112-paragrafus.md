@@ -6,6 +6,46 @@
 
 (4) A képviselő tevékenységét segítő alkalmazottak határozott idejű szerződéssel, a képviselő mandátuma alatt munkaviszonyban vagy polgári jogi jogviszonyban foglalkoztathatók. A munkáltatói jogkört a képviselő az Országgyűlés Hivatala ellenjegyzésével gyakorolja. A (3) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jog és a munkáltatói jogkör gyakorlása átruházható a képviselőcsoport vezetőjére.
 
+(4a) Az Országgyűlés Hivatala a társadalombiztosítási nyugellátásra való jogosultság és a jogviszony igazolása céljából a (4) bekezdés szerinti képviselő tevékenységét segítő alkalmazott
+
+a) nevét,
+
+b) születési nevét,
+
+c) születési helyét és idejét,
+
+d) nemét,
+
+e) anyja születési családi és utónevét,
+
+f) állampolgárságát,
+
+g) társadalombiztosítási azonosító jelét,
+
+h) adóazonosító jelét,
+
+i) legmagasabb iskolai végzettségét igazoló okiratának adatait,
+
+j) juttatásaira vonatkozó adatokat, valamint
+
+k) jogviszonyának időtartamára vonatkozó adatokat
+
+a jogviszony megszűnésétől számított ötven évig kezeli.
+
+(4b) A képviselő tevékenységét segítő alkalmazott a jogviszony megszűnésétől számított tíz év elteltével írásban kérheti a társadalombiztosítási nyugellátásra való jogosultság és a jogviszony igazolása céljából kezelt adatai törlését.
+
+(4c) A (4a) bekezdésen túl az Országgyűlés Hivatala kapcsolattartás céljából a (4) bekezdés szerinti képviselő tevékenységét segítő alkalmazott
+
+a) fizetési számlájának számát,
+
+b) lakcímét,
+
+c) értesítési címét és
+
+d) telefonszámát
+
+a jogviszony megszűnésétől számított egy évig kezeli.
+
 (5) Képviselő közeli hozzátartozója nem foglalkoztatható a 111. § (3) bekezdése alapján képviselő tevékenységét segítő alkalmazottként.
 
 (6) A képviselő a 111. § (1) bekezdésében meghatározott jogosultságának gyakorlásáról – teljes egészében vagy részlegesen – a képviselőcsoportja javára írásbeli nyilatkozatban lemondhat, amely nyilatkozatban a képviselő a (2) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jogot a képviselőcsoport vezetőjére ruházza át. Ha a képviselő a (2) bekezdés szerinti keret egésze vagy meghatározott része feletti rendelkezési jogot a képviselőcsoport vezetőjére átruházta, a (2) bekezdés szerinti összeg egésze vagy meghatározott része a képviselőcsoport 113. § (1) bekezdése szerinti keretére kerül átcsoportosításra.
