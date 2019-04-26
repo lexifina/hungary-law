@@ -4,6 +4,8 @@
 
 (3) A (2) bekezdésben meghatározott írásbeli jelentés tartalmára az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szabályait kell alkalmazni.
 
+(3a) A hivatásos katasztrófavédelmi szerv kezeli azon személy lakcímét és a személyazonosság igazolására alkalmas hatósági igazolványának számát, akivel szemben az intézkedést vagy kényszerítő eszközt alkalmazták.
+
 (4) Akinek a kényszerítő eszköz alkalmazása alapvető jogát sértette, jogát vagy jogos érdekét érintette, panasszal fordulhat a kényszerítő eszközt alkalmazó hivatásos katasztrófavédelmi szerv vezetőjéhez.
 
 (5) A panaszt a panasz elbírálására jogosultnál a kényszerítő eszköz alkalmazásától, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, a tudomásszerzéstől számított nyolc napon, de legkésőbb a kényszerítő eszköz alkalmazásának időpontjától számított három hónapon belül lehet előterjeszteni.

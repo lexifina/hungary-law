@@ -18,7 +18,7 @@ c) a minősített önkéntes mentőszervezet tagja neve.
 
 (7) A mentési igazolványt a hivatásos katasztrófavédelmi szerv a (8) bekezdés alapján vezetett nyilvántartás alapján állítja ki.
 
-(8) A hivatásos katasztrófavédelmi szerv a minősített önkéntes mentőszervezetek védekezésbe történő bevonásának elrendelése, az önkéntes mentőszervezet tagja nyilvántartási számmal történő azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése érdekében a minősített önkéntes mentőszervezetekről és azok tagjairól vezetett nyilvántartásban (a továbbiakban: nyilvántartás) kezeli a tag
+(8) A hivatásos katasztrófavédelmi szerv a minősített önkéntes mentőszervezetek védekezésbe történő bevonásának elrendelése, az önkéntes mentőszervezet tagja nyilvántartási számmal történő azonosítása, a lezárt kárterületre történő belépési jogosultság ellenőrzése, felkészítések és gyakorlatok megszervezése érdekében a minősített önkéntes mentőszervezetekről és azok tagjairól vezetett nyilvántartásban (a továbbiakban: nyilvántartás) kezeli a tag
 
 a) természetes személyazonosító adatait,
 
@@ -36,7 +36,9 @@ g) oltásainak típusára, érvényességi idejére vonatkozó adatait,
 
 h) nyelvtudására vonatkozó adatait,
 
-i) útlevélszámát.
+i) útlevélszámát,
+
+j) vezetői engedélye kategóriáját.
 
 (9) A (8) bekezdés szerinti adatokban bekövetkezett változás esetén az adatokat a minősített önkéntes mentőszervezet tagja – a mentőszervezet vezetője útján – az adatváltozás időpontjától számított 15 napon belül szolgáltatja.
 
