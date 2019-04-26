@@ -10,4 +10,4 @@
 
 (5) A (2)–(3) bekezdésben meghatározott célokból kezelt adatokat a szerződés létrejöttének elmaradását követően haladéktalanul, a szerződés megszűnése esetén pedig a megszűnéstől számított 5 év elteltével kell törölni. A (4) bekezdésben meghatározott célból kezelt adatokat haladéktalanul törölni kell, ha az adatkezelési cél megszűnt.
 
-(6) Ahol a szolgáltatás keretében adatfeldolgozás valósul meg, a szolgáltatási szerződést oly módon kell megkötni, hogy a szerződés tartalma a személyes adatok tekintetében kielégítse az információs önrendelkezési jogról és az információszabadságról szóló törvény által az adatfeldolgozás vonatkozásában meghatározott feltételeket.
+(6) Ahol a szolgáltatás keretében adatfeldolgozás valósul meg, a szolgáltatási szerződést oly módon kell megkötni, hogy a szerződés tartalma a személyes adatok tekintetében megfeleljen az adatkezelő által az adatfeldolgozóval kötendő szerződésre előírt követelményeknek.

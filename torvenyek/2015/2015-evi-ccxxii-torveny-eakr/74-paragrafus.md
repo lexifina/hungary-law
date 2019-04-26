@@ -18,7 +18,7 @@ d) központi kormányzati szolgáltatás busz, amelynek keretében
 
 da) a szolgáltató az együttműködő szervek, valamint a szolgáltatáshoz önkéntesen csatlakozott egyéb szervezetek információs rendszereinek automatikus információátadási felületei csatlakoztatásával, ennek hiányában információátadási szolgáltatásként biztosítja az egymás közötti automatikus információátadás biztonságos feltételeit, valamint
 
-db) a csatlakozott együttműködő szervek személyes adatokat tartalmazó információs rendszereinek adattovábbítási nyilvántartásai vonatkozásában – az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján – az érintett személyes adatainak továbbítására vonatkozó tájékoztatásadást támogató egyablakos, tájékoztatási szolgáltatást biztosít.
+db) a csatlakozott együttműködő szervek személyes adatokat tartalmazó információs rendszereinek adattovábbítási nyilvántartásai vonatkozásában az érintett személyes adatainak továbbítására vonatkozó tájékoztatásadást támogató egyablakos, tájékoztatási szolgáltatást biztosít.
 
 (4) Törvény vagy kormányrendelet valamely központi elektronikus ügyintézési szolgáltatás igénybevételét az együttműködés során is kötelezővé teheti.
 

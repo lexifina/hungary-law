@@ -10,4 +10,4 @@
 
 (5) Az együttműködő szerv az informatikai együttműködés egyetlen formáját sem kötheti – az igazoltan felmerülő költségek jogszabályban előírt megtérítésén felül – illeték, díj vagy más ellenérték megfizetéséhez.
 
-(6) E törvény rendelkezéseit a személyes adatok kezelésére vonatkozó más törvényekben meghatározott szabályok betartásával kell alkalmazni.
+(6)
