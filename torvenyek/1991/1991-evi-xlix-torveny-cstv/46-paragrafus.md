@@ -24,6 +24,8 @@ b) a 28. § (2) bekezdés f) pontjában előírt határidőben bejelentett köve
 
 c) a 28. § (2) bekezdés f) pontjában előírt határidőn túl, de a 180 napos jogvesztő határidőn belül bejelentett követeléseket.
 
+(5a) A nem természetes személy hitelezőket a Pp. 7. § (1) bekezdés 2. pontjában, a természetes személy hitelezőket pedig a Pp. 7. § (1) bekezdés 3. pontjában meghatározott azonosító adataikkal és az adóazonosító jellel kell az (5) bekezdés szerinti nyilvántartásba felvenni.
+
 (6) A felszámoló az (5) bekezdés b) pontja szerinti követeléseket a bejelentési határnapot követő 45 napon belül felülvizsgálja, annak eredményeképpen a szükséges esetekben az érdekeltekkel egyeztet, és a hitelezőket a nyilvántartásba vett és a nyilvántartásba nem vehető hitelezői igényükről írásban 15 napon belül tájékoztatja. A felszámoló a vitatott igényeket – kivéve a Pp. 508. § (7) bekezdése szerinti esetet – elbírálás végett 15 napon belül a felszámolást elrendelő bíróságnak megküldi – a vitatott hitelezői igénynek a felszámolási bíróság általi elbírálása tárgyában hozott végzés ellen fellebbezésnek van helye –, és a felülvizsgálat eredményeit az 50. § szerinti közbenső mérlegbe építi be.
 
 (6a) A Pp. 508. § (7) bekezdése szerinti esetben a felszámoló a követelés vitatásáról szóló közléssel egyidejűleg tájékoztatja a munkavállalót, hogy követelését a vitatásról szóló közléstől számított harminc napon belül – a munkáltatóval szembeni keresetlevél előterjesztése útján – munkaügyi perben érvényesítheti.
