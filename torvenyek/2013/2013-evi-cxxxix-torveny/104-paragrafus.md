@@ -14,7 +14,7 @@ e) az elutasított panaszt és az elutasítást tartalmazó iratot,
 
 f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben közvetítői eljárást vagy polgári peres eljárást nem indított,
 
-g) amennyiben a kérelemhez különleges adat is kapcsolódik, a fogyasztó nyilatkozatát arra nézve, hogy a kérelme benyújtásával egyidejűleg különleges adata tekintetében hozzájárul az Infotv. 5. § (2) bekezdés a) pont szerinti adatkezeléshez és adatátadáshoz,
+g) amennyiben a kérelemhez különleges adat is kapcsolódik, a fogyasztó nyilatkozatát arra nézve, hogy a kérelme benyújtásával egyidejűleg különleges adata tekintetében hozzájárul az adatkezeléshez és adatátadáshoz,
 
 h) a döntésre irányuló indítványt,
 

@@ -71,3 +71,9 @@
 ## 7. a Kbftv. 82. § (7) bekezdésében meghatározott körbe tarozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülés engedélyezésére,
 
 ## 8. a kollektív befektetési forma, illetve annak részalapja szétválásának engedélyezésére,
+
+## 9. egyesülés esetén a befektetési jegyek folyamatos forgalmazása felfüggesztésének engedélyezésére,
+
+## 10. a befektetési jegyek folyamatos forgalmazása felfüggesztésének meghosszabbítására,
+
+## 11. ingatlanértékelővel kötött szerződés és annak módosítása jóváhagyására,
