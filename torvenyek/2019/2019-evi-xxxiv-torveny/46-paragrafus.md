@@ -1,0 +1,3 @@
+## 22. Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény módosítása
+
+46. § Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény 4. § (1) bekezdésében az „az információs önrendelkezési jogról és az információszabadságról szóló törvénynek a tudományos kutatás céljára való adatkezelésre vonatkozó előírásai szerint” szövegrész helyébe az „a tudományos kutatás céljára való adatkezelésre vonatkozó előírásokban meghatározottak szerint” szöveg lép.

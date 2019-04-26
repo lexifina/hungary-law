@@ -1,0 +1,1 @@
+48. § A Tht. 25. § (1) bekezdésében az „az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseivel összhangban megállapított” szövegrész helyébe az „a személyes adatok védelmére vonatkozó előírásokkal összhangban megállapított” szöveg lép.

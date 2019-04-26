@@ -1,0 +1,1 @@
+51. § Az Lszt. 14/A. § (1) bekezdésében az „a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény rendelkezéseivel összhangban megállapított” szövegrész helyébe az „a személyes adatok védelmére vonatkozó előírásokkal összhangban megállapított” szöveg lép.
