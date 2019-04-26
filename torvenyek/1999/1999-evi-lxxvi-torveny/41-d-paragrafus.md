@@ -6,9 +6,9 @@
 
 a) az eljáró bíróság megnevezését,
 
-b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+b) a kérelmezőnek a 41/B. § (1b) bekezdésében meghatározott azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
 
-c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több jogi képviselő esetén a hivatalos iratok átvételére kijelölt jogi képviselő nevét.
+c) a kérelmező jogi képviselőjének a 41/B. § (1b)–(1c) bekezdésében meghatározott azonosító adatait, és biztonságos kézbesítési szolgáltatási címét.
 
 (3a) A kérelem érdemi részében fel kell tüntetni:
 
