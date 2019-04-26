@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2019-01-01 | 2018. évi CXXI. törvény | 1998-12-00-00.47 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 1998-12-00-00.48 |
 | 2019-04-01 | 2018. évi CXXI. törvény | 1998-12-00-00.49 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 1998-12-00-00.50 |
