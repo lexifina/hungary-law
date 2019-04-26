@@ -2,33 +2,33 @@
 
 ## 11. § Ezen alcím alkalmazásában:
 
-1–2.[^50]
+1–2.[^59]
 
-3.[^51] végfelhasználó: a felhasználó által az EDR használatára feljogosított természetes személy.
+3.[^60] végfelhasználó: a felhasználó által az EDR használatára feljogosított természetes személy.
 
-4.[^52]
+4.[^61]
 
-5.[^53] diszpécser: az EDR hálózatban a VPN alárendeltségébe tartozó, VPN menedzseri és teljes körű forgalom-szervezési feladatokat ellátó természetes személy;
+5.[^62] diszpécser: az EDR hálózatban a VPN alárendeltségébe tartozó, VPN menedzseri és teljes körű forgalom-szervezési feladatokat ellátó természetes személy;
 
-6.[^54] EDR felhasználó: a 3. mellékletben szereplő, az EDR szolgáltatást használó vagy igénybe vevő jogi személy, valamint más szervezet;
+6.[^63] EDR felhasználó: a 3. mellékletben szereplő, az EDR szolgáltatást használó vagy igénybe vevő jogi személy, valamint más szervezet;
 
-7.[^55] Készenléti EDR felhasználó: jogszabály alapján állandó rendelkezésre állásra, illetve kötelező beavatkozásra kötelezett szerv;
+7.[^64] Készenléti EDR felhasználó: jogszabály alapján állandó rendelkezésre állásra, illetve kötelező beavatkozásra kötelezett szerv;
 
-8.[^56] általános VPN használati szabályzat: az adott VPN-re vonatkozóan az EDR-eszközök használatbavételének, a VPN-ek üzemeltetésének és használatának szabályait, a VPN-ek felhasználóival kapcsolatos erőforrások elosztását, a VPN-ek biztonsági szabályozását, valamint az adatkezeléssel kapcsolatos általános feladatokat rögzítő, VPN gazda szervezet által – a jóváhagyott általános EDR használati szabályzatban foglaltak alapján – kiadott szabályzat;
+8.[^65] általános VPN használati szabályzat: az adott VPN-re vonatkozóan az EDR-eszközök használatbavételének, a VPN-ek üzemeltetésének és használatának szabályait, a VPN-ek felhasználóival kapcsolatos erőforrások elosztását, a VPN-ek biztonsági szabályozását, valamint az adatkezeléssel kapcsolatos általános feladatokat rögzítő, VPN gazda szervezet által – a jóváhagyott általános EDR használati szabályzatban foglaltak alapján – kiadott szabályzat;
 
-9.[^57] különös VPN használati szabályzat: a jóváhagyott általános VPN használati szabályzatban foglaltak alapján kiadott, az egyes felhasználó vonatkozásában az EDR használatára vonatkozó egyedi feltételeket rögzítő szabályzat;
+9.[^66] különös VPN használati szabályzat: a jóváhagyott általános VPN használati szabályzatban foglaltak alapján kiadott, az egyes felhasználó vonatkozásában az EDR használatára vonatkozó egyedi feltételeket rögzítő szabályzat;
 
-10.[^58] általános EDR használati szabályzat: az EDR-eszközök használatbavételének, valamint a VPN-ek üzemeltetésének és használatának általános szabályait, valamint a minimum használati követelményeket meghatározó, a kormányzati célú hírközlési szolgáltató által kiadott – az EDR rendszert használókra kötelező – szabályzat;
+10.[^67] általános EDR használati szabályzat: az EDR-eszközök használatbavételének, valamint a VPN-ek üzemeltetésének és használatának általános szabályait, valamint a minimum használati követelményeket meghatározó, a kormányzati célú hírközlési szolgáltató által kiadott – az EDR rendszert használókra kötelező – szabályzat;
 
-11.[^59] EDR üzemeltetési szabályzat: a kormányzati célú hírközlési szolgáltató által létrehozott VPN Központi Menedzser Szervezet által kiadott, e szervezet működtetését meghatározó szabályzat, amely rendelkezik e szervezet üzemeltetése mellett a VPN gazda szervezetek részére a VPN-ek, valamint a VPN-nek közötti működtetés és jogosultság-kiosztás alapvető szabályairól.
+11.[^68] EDR üzemeltetési szabályzat: a kormányzati célú hírközlési szolgáltató által létrehozott VPN Központi Menedzser Szervezet által kiadott, e szervezet működtetését meghatározó szabályzat, amely rendelkezik e szervezet üzemeltetése mellett a VPN gazda szervezetek részére a VPN-ek, valamint a VPN-nek közötti működtetés és jogosultság-kiosztás alapvető szabályairól.
 
-[^50]: A 11. § 1–2. pontját a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^51]: A 11. § 3. pontja a 169/2013. (V. 29.) Korm. rendelet 32. § (15) bekezdése szerint módosított szöveg.
-[^52]: A 11. § 4. pontját a 300/2012. (X. 26.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja.
-[^53]: A 11. § 5. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
-[^54]: A 11. § 6. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
-[^55]: A 11. § 7. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
-[^56]: A 11. § 8. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
-[^57]: A 11. § 9. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
-[^58]: A 11. § 10. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^59]: A 11. § 11. pontját a 188/2016. (VII. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^59]: A 11. § 1–2. pontját a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^60]: A 11. § 3. pontja a 169/2013. (V. 29.) Korm. rendelet 32. § (15) bekezdése szerint módosított szöveg.
+[^61]: A 11. § 4. pontját a 300/2012. (X. 26.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja.
+[^62]: A 11. § 5. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^63]: A 11. § 6. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^64]: A 11. § 7. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^65]: A 11. § 8. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^66]: A 11. § 9. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^67]: A 11. § 10. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^68]: A 11. § 11. pontját a 188/2016. (VII. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.

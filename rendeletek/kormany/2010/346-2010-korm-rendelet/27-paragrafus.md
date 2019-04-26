@@ -1,8 +1,8 @@
 ## 8. A K-600/KTIR Hírközlési és Informatikai Rendszerre vonatkozó különös szabályok
 
-27. § (1)[^102] A K-600/KTIR Hírközlési és Informatikai Rendszer a Honvédelmi Tanács és a Kormány speciális működési feltételeinek, valamint a Magyarország védelmi igazgatási szervei által folytatott döntés-előkészítés és döntéshozatal informatikai támogatását biztosító, kormányzati célú hálózatnak minősülő hírközlési és informatikai rendszer.
+27. § (1)[^111] A K-600/KTIR Hírközlési és Informatikai Rendszer a Honvédelmi Tanács és a Kormány speciális működési feltételeinek, valamint a Magyarország védelmi igazgatási szervei által folytatott döntés-előkészítés és döntéshozatal informatikai támogatását biztosító, kormányzati célú hálózatnak minősülő hírközlési és informatikai rendszer.
 
-(2)[^103] A K-600/KTIR Hírközlési és Informatikai Rendszert a kormányzati célú hírközlési szolgáltató működteti a miniszter szakmai irányításával a szolgáltatás igénybevételéhez szükséges szerződések megkötésével és a honvédelmi igazgatás kormányzati, szakmai feladatait ellátó szerv, mint a szerződéseket ellenjegyző által meghatározott fejlesztési és működési követelményrendszer alapján. A követelményrendszer érvényesítéséért a kormányzati célú hírközlési szolgáltató felelős.
+(2)[^112] A K-600/KTIR Hírközlési és Informatikai Rendszert a kormányzati célú hírközlési szolgáltató működteti a miniszter szakmai irányításával a szolgáltatás igénybevételéhez szükséges szerződések megkötésével és a honvédelmi igazgatás kormányzati, szakmai feladatait ellátó szerv, mint a szerződéseket ellenjegyző által meghatározott fejlesztési és működési követelményrendszer alapján. A követelményrendszer érvényesítéséért a kormányzati célú hírközlési szolgáltató felelős.
 
 (3) A K-600/KTIR Hírközlési és Informatikai Rendszer működtetése során a kormányzati célú hírközlési szolgáltató VPN használatával is biztosítja az azon nyújtott szolgáltatások biztonságos logikai elkülöníthetőségét.
 
@@ -10,8 +10,8 @@
 
 (5) Az 5. § (1) bekezdésben meghatározott közszolgáltatási szerződés rögzíti a K-600/KTIR Hírközlési és Informatikai Rendszeren nyújtott szolgáltatások körét.
 
-(6)[^104] A közszolgáltatási szerződésben meghatározott, az (5) bekezdés szerinti szolgáltatásokat a kormányzati célú hírközlési szolgáltató a felhasználók számára a központi költségvetésről szóló törvényben a miniszter által vezetett minisztérium fejezete részére biztosított előirányzatok terhére nyújtja.
+(6)[^113] A közszolgáltatási szerződésben meghatározott, az (5) bekezdés szerinti szolgáltatásokat a kormányzati célú hírközlési szolgáltató a felhasználók számára a központi költségvetésről szóló törvényben a miniszter által vezetett minisztérium fejezete részére biztosított előirányzatok terhére nyújtja.
 
-[^102]: A 27. § (1) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
-[^103]: A 27. § (2) bekezdése a 169/2013. (V. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^104]: A 27. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 530. §-ával megállapított szöveg.
+[^111]: A 27. § (1) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^112]: A 27. § (2) bekezdése a 169/2013. (V. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^113]: A 27. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 530. §-ával megállapított szöveg.

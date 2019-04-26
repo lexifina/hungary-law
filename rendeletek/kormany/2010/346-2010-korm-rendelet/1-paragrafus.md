@@ -1,15 +1,19 @@
 ## 1. Általános rendelkezések
 
-1. § (1) E rendelet hatálya kiterjed:
+1. § (1)[^1] E rendelet hatálya kiterjed:
 
 a) a kormányzati célú hírközlési szolgáltatóra;
 
 b) az elkülönült hírközlési tevékenység végzésére jogosultra;
 
-c)[^1] a csatlakozni kívánó természetes vagy jogi személyre, valamint más szervezetre (a továbbiakban: csatlakozó), illetve a már csatlakozott felhasználóra;
+c) az igénybevételre kötelezett felhasználóra;
 
-d) az a) és b) pontban foglaltak által igénybe vett más elektronikus hírközlési szolgáltatóra (nem kormányzati célú elektronikus hírközlési szolgáltatóra).
+d) a csatlakozni kívánó természetes vagy jogi személyre, valamint más szervezetre (a továbbiakban: csatlakozó felhasználó);
+
+e) a már csatlakozott felhasználóra; valamint
+
+f) az a) és b) pontban foglaltak által igénybe vett más elektronikus hírközlési szolgáltatóra (a továbbiakban: nem kormányzati célú elektronikus hírközlési szolgáltató).
 
 (2) E rendeletet a kormányzati célú hálózatra, a kormányzati célú hírközlési tevékenységre és kormányzati célú hírközlési szolgáltatásra kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdés c) pontja a 169/2013. (V. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 81/2019. (IV. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
