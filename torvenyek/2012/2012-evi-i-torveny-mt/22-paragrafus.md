@@ -6,7 +6,7 @@
 
 a) ha annak közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban (a továbbiakban: elektronikus dokumentum) kerül sor;
 
-b) a 93. § (4) bekezdésében, a 97. § (4) bekezdésében, a 108. § (1) bekezdésében, a 110. § (5) és (6) bekezdésében, a 138. § (4) bekezdésében, 193. § (2) bekezdésében meghatározott esetekben akkor is, ha azt a helyben szokásos és általában ismert módon közzé teszik.
+b) a 9. § (2) bekezdésében, a 10. § (5) bekezdésében, a 11. § (5) bekezdésében, a 11/A. § (1) bekezdésében, a 93. § (4) bekezdésében, a 97. § (4) bekezdésében, a 108. § (1) bekezdésében, a 110. § (5) és (6) bekezdésében, a 138. § (4) bekezdésében és a 193. § (2) bekezdésében meghatározott esetekben akkor is, ha azt a helyben szokásos és általában ismert módon közzéteszik.
 
 (3) A megállapodást, ha írásba kellett foglalni, módosítani vagy megszüntetni csak írásban lehet.
 

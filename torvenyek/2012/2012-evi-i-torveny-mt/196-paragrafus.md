@@ -1,6 +1,6 @@
 ## 87. A távmunkavégzés
 
-196. § (1) Távmunkavégzés a munkáltató telephelyétől elkülönült helyen rendszeresen folytatott olyan tevékenység, amelyet információtechnológiai vagy számítástechnikai eszközzel (együtt: számítástechnikai eszköz) végeznek és eredményét elektronikusan továbbítják.
+196. § (1) Távmunkavégzés a munkáltató telephelyétől elkülönült helyen rendszeresen folytatott olyan tevékenység, amelyet számítástechnikai eszközzel végeznek és eredményét elektronikusan továbbítják.
 
 (2) A munkaszerződésben meg kell állapodni a munkavállaló távmunkavégzés keretében történő foglalkoztatásában.
 

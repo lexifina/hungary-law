@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2012-1-00-00.18 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-1-00-00.19 |
 | 2019-01-01 | 2018. évi CXVI. törvény | 2012-1-00-00.20 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2012-1-00-00.21 |

@@ -8,7 +8,7 @@ b) a 195. § (2)–(3) és (5) bekezdésében,
 
 c) a 196. §-ban,
 
-d) a 197. § (3) bekezdésében,
+d)
 
 e) a 198. §-ban,
 
