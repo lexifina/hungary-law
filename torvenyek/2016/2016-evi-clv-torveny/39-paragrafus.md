@@ -56,6 +56,8 @@ b) az Európai Statisztikai Rendszer, illetve a KBER tagja részére, ha az egye
 
 c) a Hivatalos Statisztikai Szolgálat tagjai esetében szerven belül hivatalos statisztikai célból, a cél eléréshez szükséges mértékben.
 
+(6a) Az általános adatvédelmi rendelet 15. cikkében foglalt hozzáférési jogot a természetes személy statisztikai egység kizárólag a (6) bekezdés a) pontjában, valamint a 46. §-ban foglaltak szerint, statisztikai adatgyűjtésekből származó adatok vonatkozásában gyakorolhatja.
+
 (7) A (3) bekezdés a) pontjában foglalt hozzájárulásban meg kell jelölni a nyilvánosságra hozandó adatot, a nyilvánosságra hozatal célját és – ha értelmezhető – időtartamát.
 
 (8) A statisztikai adatfelvétel keretében kezelt egyedi adat kizárólag statisztikai célra használható. Tilos annak bármely nem statisztikai, azaz a statisztikai adat-előállítási folyamaton kívüli célra, különös tekintettel az egyedi adat büntető-, polgári peres, nemperes eljárás, hatósági, adóigazgatási eljárás során történő felhasználása, illetve belföldi jogsegély keretében való felhasználásra történő átadása.
