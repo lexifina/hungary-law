@@ -44,7 +44,9 @@ t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó ré
 
 u) az állam tulajdonában lévő ESD-egységek értékesítésére vonatkozó részletes szabályokat,
 
-v) az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait
+v) az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait,
+
+w) a 31/B. § szerinti elektronikus nyilvántartás vezetésére, a regisztrációra, az adatszolgáltatásra, a jelentéstételre vonatkozó részletes szabályokat, és a megszegésük esetén alkalmazandó jogkövetkezmények részletes szabályait
 
 rendeletben állapítsa meg.
 
