@@ -1,58 +1,58 @@
-3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^27]
+3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^33]
 
 ## Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
 
 1. az önkormányzati ASP rendszer keretében működő gazdálkodási szakrendszer
 
-2. Külön jogszabályban meghatározott személyiadat- és lakcímnyilvántartáshoz kapcsolódó rendszerek (SZL, SZIG, eSZIG, LIG, cím és körzetnyilvántartás, TSZR, ESZF, Nemzeti Arcképtár /NAT/)
+2. Jogszabályban meghatározott személyiadat- és lakcímnyilvántartáshoz kapcsolódó rendszerek (SZL, SZIG, eSZIG, LIG, cím- és körzetnyilvántartás, TSZR, ESZF, Nemzeti Arcképtár /NAT/)
 
-3. Külön jogszabályban meghatározott központi címregiszter (KCR)
+3. Jogszabályban meghatározott központi címregiszter (KCR)
 
-4. Külön jogszabályban meghatározott központi idegenrendészeti nyilvántartáshoz kapcsolódó egyes rendszerek (IDR, ISZL, IDEGEN)
+4. Jogszabályban meghatározott központi idegenrendészeti nyilvántartáshoz kapcsolódó egyes rendszerek (IDR, ISZL, IDEGEN)
 
-5. Külön jogszabályban meghatározott közúti közlekedési nyilvántartáshoz kapcsolódó rendszerek (JÁRMŰ, Vezetői engedély /VEN/, Származásellenőrzés /SZENY/, Közlekedési Okmánytár, PARKIG, eredetiségvizsgálat /KERT/, Útdíj-díjmentes, EUCARIS)
+5. Jogszabályban meghatározott közúti közlekedési nyilvántartáshoz kapcsolódó rendszerek (JÁRMŰ, Vezetői engedély /VEN/, Származásellenőrzés /SZENY/, Közlekedési Okmánytár, PARKIG, eredetiségvizsgálat /KERT/, Útdíj-díjmentes, EUCARIS)
 
-6. Külön jogszabályban meghatározott közlekedési biztonsági kiszolgáló rendszer (KBKR)
+6. Jogszabályban meghatározott közlekedési biztonsági kiszolgáló rendszer (KBKR)
 
-7. Külön jogszabályban meghatározott elektronikus útdíj rendszer gyorsítótár (e-Útdíj)
+7. Jogszabályban meghatározott elektronikus útdíj rendszer gyorsítótár (e-Útdíj)
 
-8. Külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási rendszer (IGFB)
+8. Jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási rendszer (IGFB)
 
-9. Külön jogszabályban meghatározott közúti közlekedési előéleti pontrendszer (Pontrendszer)
+9. Jogszabályban meghatározott közúti közlekedési előéleti pontrendszer (Pontrendszer)
 
-10. Külön jogszabályban meghatározott elektronikus anyakönyvi rendszer (EAK)
+10. Jogszabályban meghatározott elektronikus anyakönyvi rendszer (EAK)
 
-11. Külön jogszabályban meghatározott arcképelemzési nyilvántartás és arcképelemző rendszer (ÁAAR)
+11. Jogszabályban meghatározott arcképelemzési nyilvántartás és arcképelemző rendszer (ÁAAR)
 
-12. Külön jogszabályban meghatározott egyéni vállalkozó nyilvántartási rendszer (EVNY)
+12. Jogszabályban meghatározott egyéni vállalkozó nyilvántartási rendszer (EVNY)
 
-13. Külön jogszabályban meghatározott szabálysértési nyilvántartási rendszerhez kapcsolódó egyes rendszerek (SZNYR, STAT-VIR)
+13. Jogszabályban meghatározott szabálysértési nyilvántartási rendszerhez kapcsolódó egyes rendszerek (SZNYR, STAT-VIR)
 
-14. Külön jogszabályban meghatározott bűnügyi nyilvántartási rendszerhez kapcsolódó egyes rendszerek (HCR-bűnügyi, ERHAB)
+14. Jogszabályban meghatározott bűnügyi nyilvántartási rendszerhez kapcsolódó egyes rendszerek (HCR-bűnügyi, ERHAB)
 
-15. Külön jogszabályban meghatározott központi útiokmány nyilvántartási rendszer (EPASS)
+15. Jogszabályban meghatározott központi útiokmány nyilvántartási rendszer (EPASS)
 
-16. Külön jogszabályban meghatározott elektronikus ügyfélazonosítást segítő és elektronikus ügyintézést támogató rendszerek (UKAPU), Összerendelési Nyilvántartáshoz kapcsolódó rendszerek (ÖNY), Az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartása (3NYT), Időszakos Értesítési Szolgáltatás (RÉR), Részleges Kódú Telefonos Azonosítás (RKTA), Elektronikus hatósági ügyintézést és tájékoztatást segítő internetes szolgáltató rendszer
+16. Jogszabályban meghatározott elektronikus ügyfélazonosítást segítő és elektronikus ügyintézést támogató rendszerek (UKAPU), Összerendelési Nyilvántartáshoz kapcsolódó rendszerek (ÖNY), Az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartása (3NYT), Időszakos Értesítési Szolgáltatás (RÉR), Részleges Kódú Telefonos Azonosítás (RKTA), Elektronikus hatósági ügyintézést és tájékoztatást segítő internetes szolgáltató rendszer
 
 17. Elektronikus hatósági ügyintézést és tájékoztatást segítő internetes szolgáltató rendszer – Webes Ügysegéd (WÜ)
 
 18. Elektronikus hatósági ügyintézést és tájékoztatást segítő telefonos szolgáltató rendszer (Effector)
 
-19. Külön jogszabályban meghatározott Schengeni Információs Rendszer magyar nemzeti részének központi informatikai elemei (SIS II NS.CP)
+19. Jogszabályban meghatározott Schengeni Információs Rendszer magyar nemzeti részének központi informatikai elemei (SIS II NS.CP)
 
-20. Külön jogszabályban meghatározott nemzeti egységes kártya-kibocsátási keretrendszer (NEK)
+20. Jogszabályban meghatározott nemzeti egységes kártya-kibocsátási keretrendszer (NEK)
 
 21. Jogügyletek biztonságát szolgáló keretrendszer (JÜB)
 
-22. Külön jogszabályban meghatározott jármű figyelőztetési rendszer üzemeltetése (Figyelőztetés)
+22. Jogszabályban meghatározott jármű figyelőztetési rendszer üzemeltetése (Figyelőztetés)
 
-23. Külön jogszabályban meghatározott központi tanúvédelmi rendszer üzemeltetése (KTR, BÁSTYA)
+23. Jogszabályban meghatározott központi tanúvédelmi rendszer üzemeltetése (KTR, BÁSTYA)
 
 24. A szolgálati lőfegyverek, lőszerek, robbanóanyagok és pirotechnikai eszközök tárolásának és biztonsági követelményeinek meghatározásáról, a lőfegyverek, lőszerek és fegyverzeti tartozékok kezelésének, nyilvántartásának, őrzésének és ellenőrzésének szabályozásáról szóló 13/2013. (IV. 11.) ORFK utasítás alapján kialakított szolgálati lőfegyver-nyilvántartás (Fegyver)
 
-25. Külön jogszabályban meghatározott Magyar igazolvány rendszer (MIG)
+25. Jogszabályban meghatározott Magyar igazolvány rendszer (MIG)
 
-26. Külön jogszabályban nevesített Központi Ügyfél-regisztrációs Nyilvántartás (KÜNY)
+26. Jogszabályban nevesített Központi Ügyfél-regisztrációs Nyilvántartás (KÜNY)
 
 27. Szakrendszeri Kódképző és Kapcsolatkezelő Alkalmazások
 
@@ -72,7 +72,7 @@
 
 35. Központi Közigazgatási Adatszolgáltató és Adatfogadó Rendszer (KAAR)
 
-36. Központi okmánygyártás (SZIG, Útlevél, VEN, Magyar igazolvány), (MOKA)
+36. Központi okmánygyártás (SZIG, Útlevél, VEN, Magyar igazolvány) (MOKA)
 
 37. Okmányügyek Intézését Segítő Mobilalkalmazás rendszer (OkmányApp)
 
@@ -118,11 +118,7 @@
 
 58. Független Rendészeti Panasztestület eljárást támogató rendszer
 
-58.[^28] Állami Alkalmazás-katalógus
-
 59. Határrendészeti, határellenőrzési és idegenrendészeti eljárást támogató ügyviteli nyilvántartási rendszer
-
-59.[^29] Állami Alkalmazás-fejlesztési Környezet
 
 60. Határrendészeti, igazgatásrendészeti, idegenrendészeti, közrendvédelmi, közlekedésrendészeti egységes rendészeti statisztika
 
@@ -202,6 +198,12 @@
 
 98. Elektronikus ügyintézést támogató IKR rendszer
 
-[^27]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 290/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^28]: A 3. melléklet második 58. pontját a 314/2018. (XII. 27.) Korm. rendelet 30. §-a iktatta be. Alkalmazására lásd a 26. §-t.
-[^29]: A 3. melléklet második 59. pontját a 314/2018. (XII. 27.) Korm. rendelet 31. §-a iktatta be. Alkalmazására lásd a 26. §-t.
+99. Állami Alkalmazás-katalógus
+
+100. Állami Alkalmazás-fejlesztési Környezet
+
+101. A Szerencsejáték Felügyelet működését támogató „Fortuna” szakrendszer
+
+102. Álláshely Nyilvántartó Rendszer (ÁNYR)
+
+[^33]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
