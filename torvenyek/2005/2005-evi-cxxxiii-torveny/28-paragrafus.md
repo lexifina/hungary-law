@@ -14,6 +14,6 @@ b) a területre bevinni tilos tárgyakról, azok jellegéről;
 
 c) arról a tényről, hogy az adott területen elektronikus megfigyelőrendszert alkalmaznak (térfigyelés);
 
-d) az elektronikai vagyonvédelmi rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az információs önrendelkezési jogról és az információszabadságról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről;
+d) az elektronikai vagyonvédelmi rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről;
 
 e) a vagyonőr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.

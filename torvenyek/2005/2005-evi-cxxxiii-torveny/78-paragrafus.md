@@ -8,7 +8,7 @@ c) a felelősségbiztosítási szerződésre,
 
 d)
 
-e) a 31. § (7) bekezdésében meghatározott jegyzőkönyvre,
+e) a 31. §-ában meghatározott jegyzőkönyvre,
 
 f) az e törvényben meghatározott tevékenységek végzéséhez szükséges szakképesítésekre
 
