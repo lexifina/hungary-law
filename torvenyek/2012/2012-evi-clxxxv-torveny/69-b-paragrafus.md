@@ -10,7 +10,7 @@ c) az elektronikus megfigyelő- és beléptető rendszert üzemeltető személy�
 
 d) a felvétel és az adatok kezelésének módjáról, valamint
 
-e) az információs önrendelkezési jogról és az információszabadságról szóló törvénynek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről.
+e) az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről.
 
 (3) A felvétel és az adatok – megkeresés alapján vagy a hatóság által végzett helyszíni ellenőrzés alkalmával – kizárólag
 

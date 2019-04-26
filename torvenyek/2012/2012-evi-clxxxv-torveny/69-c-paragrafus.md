@@ -1,6 +1,6 @@
-69/C. § (1) A személyes adatokat tartalmazó felvétel és az adatok az információs önrendelkezési jogról és az információszabadságról szóló törvényben, valamint az e törvényben meghatározottak szerint rögzíthető, gyűjthető, tárolható és használható fel. A járulékfizetésre kötelezett a felvétel és az adatok rögzítése, gyűjtése, tárolása során adatkezelőnek minősül. Az adatkezelő – a 69/A. § (1) bekezdésében védett érdek biztosítása céljából – kizárólag a felvétel és az adatok rögzítését, gyűjtését, tárolását végezheti.
+69/C. § (1)
 
-(2) Az (1) bekezdés szerinti felhasználásnak minősül, ha a felvételt vagy az adatokat hatósági vagy bírósági eljárásban bizonyítékként felhasználják.
+(2)
 
 (3) Az, akinek jogát vagy jogos érdekét a felvétel vagy a rögzített adatok érintik, a felvétel vagy az adatok rögzítésétől számított 60 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt vagy az adatokat annak kezelője ne törölje.
 

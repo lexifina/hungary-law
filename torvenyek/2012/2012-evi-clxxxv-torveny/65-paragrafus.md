@@ -8,7 +8,7 @@ a) a természetes személyazonosító adatokat, valamint
 
 b) a lakcímet
 
-tarthatja nyilván.
+kezeli.
 
 (3) Az (1) bekezdés szerinti nyilvántartást a hulladékjegyzékről szóló miniszteri rendeletben meghatározott azonosító kódok alapján kell vezetni.
 
