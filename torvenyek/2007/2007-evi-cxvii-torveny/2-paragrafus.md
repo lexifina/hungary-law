@@ -2,9 +2,9 @@
 
 2. § E törvény alkalmazásában
 
-1. adatfeldolgozás: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett adatfeldolgozási tevékenység;
+1.
 
-2. adatkezelés: a személyes adat, illetve üzleti, foglalkoztatói nyugdíjtitkot képező adat tekintetében végzett adatkezelési tevékenység;
+2.
 
 3. állampapír: a magyar vagy külföldi állam, a Magyar Nemzeti Bank, az Európai Központi Bank vagy az Európai Unió más államának jegybankja által kibocsátott hitelviszonyt megtestesítő értékpapír;
 
