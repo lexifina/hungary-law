@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2018-01-01 | 2017. évi CLXXXVI. törvény | 2010-1-00-00.11 |
 | 2019-01-01 | 2018. évi CXXXIII. törvény | 2010-1-00-00.12 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 2010-1-00-00.13 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2010-1-00-00.14 |

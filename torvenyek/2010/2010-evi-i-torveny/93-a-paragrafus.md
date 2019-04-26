@@ -20,6 +20,6 @@ c) a kutatás – a kérelmező költségére – anonimizált másolattal is me
 
 (3) A (2) bekezdés a) pontjában meghatározott hozzájárulás megadásakor a hozzájáruló személy írásban nyilatkozik a kutató által megismerhető személyes adat – kutatás célja szerinti – felhasználásának elfogadásáról, valamint a személyes adatot tartalmazó iratok másolhatóságáról.
 
-(4) Az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti különleges adatok az anyakönyv kutatása során személyazonosításra alkalmas módon nem rögzíthetők és nem használhatók fel, kivéve, ha az érintett vagy az érintett halálát követően leszármazója ahhoz hozzájárult, vagy a kutatást ő végzi.
+(4) Különleges adatok az anyakönyv kutatása során személyazonosításra alkalmas módon nem rögzíthetők és nem használhatók fel, kivéve, ha az érintett vagy az érintett halálát követően leszármazója ahhoz hozzájárult, vagy a kutatást ő végzi.
 
 (5) Ha a kutató a kutatást tudományos célból végzi, a kutatás a bejegyzés keletkezését követő harminc év elteltével az (1) bekezdésben meghatározott védelmi időn belül is lefolytatható, feltéve, hogy a kutatás a közlevéltárakról szóló törvényben meghatározott, a kutatási tervre és az arra jogosult intézmény támogató állásfoglalására, továbbá a személyes adatok kezelésére vonatkozó előírásoknak és a (4) bekezdésben foglaltaknak megfelel.

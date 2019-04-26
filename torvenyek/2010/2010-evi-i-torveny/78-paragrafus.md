@@ -6,6 +6,6 @@ b) az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 
 c) az arra jogosult kérelmére anyakönyvi hatósági bizonyítványt állít ki, vagy
 
-d) az érintettet az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint tájékoztatja személyes adatainak kezeléséről.
+d) biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
 
-(2) Az 1980. december 31-ig vezetett anyakönyv levéltár által őrzött másodpéldányában nyilvántartott adatok tekintetében az érintettet a levéltár az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint tájékoztatja személyes adatainak kezeléséről.
+(2) Az 1980. december 31-ig vezetett anyakönyv levéltár által őrzött másodpéldányában nyilvántartott adatok tekintetében a levéltár biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.

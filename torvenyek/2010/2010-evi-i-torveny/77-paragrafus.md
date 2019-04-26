@@ -10,4 +10,4 @@ c) az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyak�
 
 d) az anyakönyvvezető, valamint az anyakönyvi szerv kormánytisztviselője vagy állami tisztviselője az arra jogosult részére anyakönyvi okiratot állít ki, vagy
 
-e) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az érintett számára teljesíti az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti tájékoztatást.
+e) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv biztosítja az érintett személyes adataihoz való hozzáférési jogának gyakorlását.
