@@ -6,4 +6,6 @@ a) a pénztártag felhalmozási időszakban bekövetkezett halála esetén a ked
 
 b)
 
-(2)–(3)
+(2)
+
+(3)

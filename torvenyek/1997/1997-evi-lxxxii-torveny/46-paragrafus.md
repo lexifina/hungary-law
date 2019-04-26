@@ -18,6 +18,18 @@
 
 (9) Ha a pénztár közgyűlését az igazgatótanács – a tudomására jutástól számított nyolc napon belül – nem hívja össze, arra a könyvvizsgáló jogosult. Ha a pénztár közgyűlése nem hozza meg a szükséges döntéseket, a könyvvizsgáló köteles értesíteni a Felügyeletet és a bíróságot.
 
-(10)–(13)
+(10)
 
-(14)–(17)
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+(17)

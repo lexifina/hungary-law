@@ -1,6 +1,8 @@
 ## Átmeneti rendelkezések
 
-123. § (1)–(2)
+123. § (1)
+
+(2)
 
 (3)
 
@@ -10,7 +12,9 @@
 
 (6)
 
-(6a)–(6b)
+(6a)
+
+(6b)
 
 (6c) Az a természetes személy, aki e törvény 1998. január 1-je 2010. november 2-a között hatályos rendelkezései szerint pályakezdőnek minősült, de pénztártagsága 2010. november 2-áig nem jött létre, a 3. § (2) bekezdése alapján már csak önkéntesen létesíthet pénztártagságot.
 

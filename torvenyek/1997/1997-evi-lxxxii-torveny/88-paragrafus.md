@@ -4,7 +4,9 @@
 
 a) a 89. §-ban meghatározott kifizetések teljesítése,
 
-b)–c)
+b)
+
+c)
 
 d) külön megállapodás alapján működteti a pénztárak szövetségének erre irányuló kezdeményezése esetén a 85. § (4) bekezdésében meghatározott garanciarendszert.
 

@@ -18,4 +18,8 @@ b) önkéntes belépéssel keletkező pénztártagsági jogviszony esetén a bel
 
 (7)
 
-(8)–(10)
+(8)
+
+(9)
+
+(10)

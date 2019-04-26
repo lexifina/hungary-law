@@ -24,7 +24,9 @@ a)
 
 b) adatszolgáltatási kötelezettségének eleget tenni,
 
-c)–d)
+c)
+
+d)
 
 e) a jogalap nélkül felvett szolgáltatás összegét, ezek kamatait, határidőben, maradéktalanul a pénztárnak visszafizetni,
 
