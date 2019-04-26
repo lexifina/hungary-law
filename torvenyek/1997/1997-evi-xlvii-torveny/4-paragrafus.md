@@ -70,6 +70,6 @@ z) az egészségügyi ellátásokra jogosult részére a hatásos és biztonság
 
 zs) az Európai Unión belüli határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése.
 
-(3) Az (1)–(2) bekezdésekben meghatározott céloktól eltérő célra is lehet az érintett, illetve törvényes vagy meghatalmazott képviselője (a továbbiakban együtt: törvényes képviselő) – megfelelő tájékoztatáson alapuló – írásbeli hozzájárulásával egészségügyi és személyazonosító adatot kezelni.
+(3) Az (1) és (2) bekezdésben meghatározott céloktól eltérő célra is lehet az érintett, illetve törvényes vagy meghatalmazott képviselője (a továbbiakban együtt: törvényes képviselő) – megfelelő tájékoztatáson alapuló önkéntes, egyértelműen kifejezett akaratot tartalmazó, és a szabályszerű nyilatkozat megtételét hitelt érdemlően bizonyító módon tett – hozzájárulásával egészségügyi adatot kezelni teljes körűen vagy egyes adatkezelési tevékenységre kiterjedően.
 
 (4) Az (1)–(2) bekezdések szerinti adatkezelési célokra csak annyi és olyan egészségügyi, illetve személyazonosító adat kezelhető, amely az adatkezelési cél megvalósításához elengedhetetlenül szükséges.

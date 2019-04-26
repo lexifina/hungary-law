@@ -8,4 +8,4 @@
 
 (4) Az érintett jogosult megtiltani, hogy az (1) bekezdés szerinti adatait az érintett kezelőorvosa, háziorvosa, vagy az állami vérellátó szolgálat rögzítse.
 
-(5) Az érintett írásban kérheti az egészségügyiprofil-nyilvántartásba bejegyzett adatának javítását – a téves adat tudomásszerzésétől számított 30 napon belül – az azt bejegyző (1) bekezdés szerinti orvosától, az állami vérellátótól, illetve a működtetőtől.
+(5) Az érintett írásban kérheti az egészségügyiprofil-nyilvántartásba bejegyzett adatának helyesbítését – a téves adat tudomásszerzésétől számított 30 napon belül – az azt bejegyző (1) bekezdés szerinti orvosától, az állami vérellátótól, illetve a működtetőtől.

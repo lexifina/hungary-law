@@ -8,7 +8,7 @@ a) az egészségügyi és személyazonosító adat továbbítására az érintet
 
 b) az egészségügyi és személyazonosító adat továbbítása törvény előírásai szerint kötelező.
 
-(3) Az érintett jogosult tájékoztatást kapni a gyógykezeléssel összefüggésben történő adatkezelésről, a rá vonatkozó egészségügyi és személyazonosító adatokat megismerheti, az egészségügyi dokumentációba betekinthet, valamint azokról – saját költségére – másolatot kaphat.
+(3) Az érintettnek az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 15. cikk (3) bekezdésében meghatározott, az adatkezelés tárgyát képező személyes adatok minden további másolatért miniszteri rendeletben meghatározott költségelemek alapján díjat kell fizetni.
 
 (4) A (3) bekezdés szerinti jog
 

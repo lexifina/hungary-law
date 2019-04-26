@@ -12,22 +12,14 @@ d) biztosítja az adatkezeléssel és adatfeldolgozással foglalkozó személyek
 
 e) tudományos kutatás esetén [21. § (1) bekezdés] engedélyezi az egészségügyi dokumentációba való betekintést,
 
-f) kijelöli az adatvédelmi felelőst (felelősöket),
+f) kijelöli az adatvédelemi tisztviselőt,
 
-g) ellenőrzi az adatvédelmi felelős (felelősök) tevékenységét,
+g) ellenőrzi az adatvédelemi tisztviselő tevékenységét,
 
 h) gondoskodik az intézmény adatvédelmi szabályzatának elkészítéséről,
 
 i) dönt a kötelező nyilvántartási időt követően a nyilvántartott adatok további tárolásáról vagy megsemmisítéséről.
 
-(3) A (2) bekezdés a)–e) pontjai szerinti tevékenységet az adatvédelmi felelős is elláthatja.
+(3) A (2) bekezdés a)–e) pontjai szerinti tevékenységet az adatvédelmi tisztviselő is elláthatja.
 
-(4) A szervezeti egységenként 20 főnél több adatkezelőt foglalkoztató munkáltató esetén az intézményvezető – szervezeti egységenként – adatvédelmi felelőst jelöl ki. Adatvédelmi felelősnek
-
-a) szakorvos szakképesítéssel rendelkező orvos, vagy
-
-b) legalább 2 év joggyakorlattal rendelkező jogi egyetemi végzettségű személy, vagy
-
-c) felsőfokú végzettségű, az egészségügyi adatkezelésben legalább 2 év gyakorlatot szerzett személy
-
-jelölhető ki.
+(4)

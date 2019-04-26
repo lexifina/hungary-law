@@ -4,7 +4,7 @@ a) a betegellátó,
 
 b) az intézményvezető, valamint
 
-c) az adatvédelmi felelős,
+c) az adatvédelmi tisztviselő,
 
 d)
 

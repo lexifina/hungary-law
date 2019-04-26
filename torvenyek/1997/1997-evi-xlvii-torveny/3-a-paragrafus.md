@@ -1,0 +1,1 @@
+3/A. § Az elhunyt személy elhalálozásának körülményeire és a halál okára vonatkozó, valamint az elhunyt személyre vonatkozó egészségügyi dokumentációban foglalt személyes adat kezelésére az egészségügyi adat és az egészségügyi dokumentációban foglalt személyes adat kezelésére vonatkozó kötelező európai uniós jogi aktusban vagy jogszabályban foglalt szabályokat kell alkalmazni.

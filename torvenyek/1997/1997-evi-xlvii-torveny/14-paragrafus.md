@@ -12,6 +12,6 @@ d) a b)–c) pontok szerinti személyek, ha bűnüldözési érdekből a beteg s
 
 a) aki az érintettet az adott betegség miatt korábban gyógykezelte,
 
-b) akinek erre az intézményvezető vagy az adatvédelemért felelős személy szakmai-tudományos célból engedélyt adott,
+b) akinek erre az intézményvezető vagy az adatvédelmi tisztviselő szakmai-tudományos célból engedélyt adott,
 
 kivéve, ha ez ellen az érintett kifejezetten tiltakozott.
