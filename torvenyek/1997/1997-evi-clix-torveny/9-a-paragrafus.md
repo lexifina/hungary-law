@@ -1,4 +1,4 @@
-9/A. § (1) A fegyveres biztonsági őr elektronikus megfigyelőrendszer működtetése (a továbbiakban: elektronikus megfigyelőrendszer) útján kép-, hang-, valamint kép- és hangfelvételt a fegyveres biztonsági őrzésből adódó kötelezettségei teljesítése, így a létesítmény telephelyének védelme, a radioaktív és veszélyes anyagok őrzése, a rendkívüli események megelőzése, következményeinek elhárítása, kivizsgálásának segítése, a jogsértések észlelése, az elkövető tettenérése, valamint a jogsértő cselekmények megelőzése céljából, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Info tv.) szerinti adatvédelmi jogok érvényesítése mellett készíthet, illetve kezelhet. E tevékenysége során a fegyveres biztonsági őr adatkezelőnek minősül.
+9/A. § (1) A fegyveres biztonsági őr elektronikus megfigyelőrendszer működtetése (a továbbiakban: elektronikus megfigyelőrendszer) útján kép-, hang-, valamint kép- és hangfelvételt a fegyveres biztonsági őrzésből adódó kötelezettségei teljesítése, így a létesítmény telephelyének védelme, a radioaktív és veszélyes anyagok őrzése, a rendkívüli események megelőzése, következményeinek elhárítása, kivizsgálásának segítése, a jogsértések észlelése, az elkövető tettenérése, valamint a jogsértő cselekmények megelőzése céljából, a személyes adatok védelmére vonatkozó jogok érvényesítése mellett készíthet, illetve kezelhet. E tevékenysége során a fegyveres biztonsági őr adatkezelőnek minősül.
 
 (2) A fegyveres biztonsági őr elektronikus megfigyelőrendszert a védett létesítmény területe és annak környezete megfigyelésére alkalmazhat.
 
@@ -32,7 +32,7 @@ a) a területre bevinni tilos tárgyakról, azok jellegéről;
 
 b) arról a tényről, hogy az adott területen elektronikus megfigyelőrendszert alkalmaznak;
 
-c) az elektronikus megfigyelőrendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az Info tv.-nek az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezéseiről; valamint
+c) az elektronikus megfigyelőrendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá az érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről; valamint
 
 d) a fegyveres biztonsági őr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.
 
