@@ -1,4 +1,4 @@
-## 16. §[^8]
+## 16. §[^15]
 
 1. melléklet a 138/2014. (IV. 30.) Korm. rendelethez
 
@@ -26,4 +26,4 @@ g) az Szjt. 41/F. § (4) alapján benne foglalt vagy más irodalmi mű szerves r
 
 5. Az e mellékletben meghatározott díjak nem érintik a jogosultaknak a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezelésében érvényesített díjait és díjigényeit, és kizárólag az Szjt. 41/F. § szerinti felhasználás vonatkozásában tekinthetőek irányadónak.
 
-[^8]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
