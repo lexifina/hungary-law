@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-93-00-00
 | 2017-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-93-00-00.5 |
 | 2017-10-02 | 2010. évi CXXX. törvény | 2016-93-00-00.6 |
 | 2018-01-01 | 2017. évi L. törvény | 2016-93-00-00.7 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2016-93-00-00.8 |

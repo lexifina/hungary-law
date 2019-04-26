@@ -2,7 +2,11 @@
 
 83. § (1) A jogkezeléssel kapcsolatos hatósági ügyekben az SZTNH és az ügyfél elektronikus úton kötelesek kapcsolatot tartani egymással.
 
-(2) Az SZTNH által erre rendszeresített elektronikus űrlap használatával kell a beadványokat elektronikus úton benyújtani.
+(2) Az SZTNH által erre rendszeresített elektronikus űrlap használatával kell a beadványokat elektronikus úton benyújtani. A beadványnak tartalmaznia kell
+
+a) a természetes személy kérelmező, illetve képviselő nevét, születési helyét és idejét, valamint anyja nevét;
+
+b) a nem természetes személy kérelmező, illetve képviselő nevét és adószámát.
 
 (3) Az elektronikus úton benyújtott beadvány megérkezéséről az SZTNH – jogszabályban meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld az ügyfélnek.
 
