@@ -6,7 +6,7 @@
 
 2. genetikai minta: minden, e törvény szerinti humángenetikai vizsgálat, illetve humángenetikai kutatás céljából levett vagy e törvény keretei között e célra egyébként felhasználni kívánt, emberből származó biológiai anyagminta;
 
-3. genetikai adat: meghatározott érintett személy örökletes tulajdonságaira vonatkozó olyan információ, amely genetikai minta feldolgozásából, illetve az egészségügyi dokumentációból származik, és amely az egyén genetikai eredetű betegségekkel kapcsolatos kockázatára, örökölt hajlamára, testi vagy viselkedésbeli jellemzőire utal, és alkalmas lehet arra, hogy az egyén azonosítható legyen;
+3.
 
 4. kódolt genetikai minta vagy adat: olyan genetikai minta vagy adat, amely mellett a mintát szolgáltató személyre vonatkozó összes személyazonosító adatot kóddal helyettesítették;
 
@@ -38,4 +38,6 @@
 
 18. közeli hozzátartozó: a házastárs, az egyeneságbeli rokon, a testvér, a bejegyzett élettárs, az élettárs, az egyeneságbeli rokon házastársa, valamint a testvér házastársa és leszármazója.
 
-(2) Az (1) bekezdésben foglaltakon túl e törvény alkalmazásában az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.), valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) értelmező rendelkezéseit kell figyelembe venni.
+(2) Az (1) bekezdésben foglaltakon túl e törvény alkalmazásában az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.), az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.), valamint a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) értelmező rendelkezéseit kell figyelembe venni.
+
+(3) Az általános adatvédelmi rendelet 4. cikk 13. pontjában meghatározott genetikai adat e törvény alkalmazásában a humángenetikai vizsgálat és a humángenetikai kutatás céljából kezelhető.
