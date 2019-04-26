@@ -6,7 +6,7 @@
 
 (4) A víziközmű-szolgáltató a mintaprojektet a Hivatal felügyeletével folytatja. A víziközmű-szolgáltató a mintaprojekt megkezdése előtt a Hivatalt a mintaprojekt leírásának bemutatásával, a mintaprojekt lezárást követően a mintaprojekt eredményeit és az azok alapján tett megállapításokat tartalmazó dokumentum átadásával tájékoztatja.
 
-(5) A víziközmű-szolgáltató és a projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során jogosult a felhasználó személyes adatainak kezelésére. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a víziközmű-szolgáltató jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
+(5) A projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenysége során – a mintaprojekt zárását követő 3 évig – a mintaprojekt lebonyolítása céljából – a felhasználó személyes adatait kezeli. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a víziközmű-szolgáltató jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
 
 (6) A víziközmű-szolgáltató a központi mintaprojekt gazdasági értékeléséhez és költség-haszon elemzéséhez köteles a 60. §-ban foglaltak szerint a Hivatal részére adatot szolgáltatni.
 

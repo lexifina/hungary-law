@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-209-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2011-209-00-00.32 |
 | 2018-04-01 | 2017. évi CLXIV. törvény | 2011-209-00-00.33 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2011-209-00-00.34 |
+| 2019-04-26 | 2019. évi XXXIV. törvény | 2011-209-00-00.35 |

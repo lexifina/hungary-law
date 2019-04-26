@@ -1,8 +1,8 @@
 21. § Az üzemeltetési szerződés megszűnése esetében a víziközmű-szolgáltató az ellátásért felelős részére átadja az érintett felhasználókra, felhasználási helyekre és víziközművekre vonatkozóan:
 
-a) a felhasználók nevét és címét,
+a) a felhasználók és a víziközmű-szolgáltatásba bekapcsolt ingatlanok 61. §-ban meghatározott adatait,
 
-b) az egyes felhasználókhoz tartozó felhasználási helyek címét,
+b)
 
 c) a felhasználási helyekre vonatkozó, a fogyasztás megállapításához szükséges adatokat öt évre visszamenőleg,
 
