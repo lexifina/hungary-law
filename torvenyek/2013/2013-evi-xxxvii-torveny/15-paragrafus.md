@@ -26,4 +26,4 @@ c) a 22. § (1)–(2) bekezdésében meghatározott követelések és a kötelez
 
 (9) A magyar megkereső hatóság vagy magyar megkeresett hatóság által az adómegállapítási jogsegély keretében szerzett vagy szolgáltatott információt kizárólag a központi adattár és a CCN-hálózat gondozásához, karbantartásához, fejlesztéséhez szükséges mértékben lehet az Európai Bizottság biztonsági akkreditációs hatósága által akkreditált személyek rendelkezésére bocsátani.
 
-(10) Az adómegállapítási jogsegély teljesítése körében a személyes adatok kezelésére az információs önrendelkezésről és az információszabadságról szóló törvény, az Air., az Art., valamint az állami adóhatóságra vonatkozó törvényi rendelkezések előírásait az e §-ban meghatározott kiegészítésekkel kell alkalmazni.
+(10) Az adómegállapítási jogsegély teljesítése körében a személyes adatok kezelésére az Air., az Art., valamint az állami adóhatóságra vonatkozó törvényi rendelkezések előírásait az e §-ban meghatározott kiegészítésekkel kell alkalmazni.
