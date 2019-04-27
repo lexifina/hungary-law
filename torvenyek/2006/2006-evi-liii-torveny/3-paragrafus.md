@@ -16,6 +16,8 @@ b) az elektronikus hírközlésről szóló törvény szerinti elektronikus hír
 
 c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 
-d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap.
+d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap,
+
+e) az atomenergiáról szóló törvény szerinti nukleáris létesítménnyel és radioaktívhulladék-tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése esetén az ott meghatározott határidő.
 
 (6)
