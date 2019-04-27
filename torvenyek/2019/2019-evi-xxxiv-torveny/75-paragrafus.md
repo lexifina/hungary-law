@@ -1,5 +1,3 @@
 ## 35. Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása
 
-75. § Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A közjegyző a nemperes eljárás lefolytatása céljából a nemperes eljárással összefüggésben megismert személyes adatokat az adatkezelés céljának megvalósulásáig, de legkésőbb az eljárás tárgyát képező ügy iratainak selejtezéséig vagy levéltárba adásáig kezeli. A közjegyző e személyes adatokat eljárásának jogerős befejezését követően kizárólag a jogerős döntés végrehajtása, a jogerős döntésben foglaltak ellenőrzése, a jogerős döntésével összefüggő jogorvoslat vagy törvényben meghatározott egyéb feladat végrehajtása céljából kezelheti, és kizárólag e személyes adatok kezelésére jogosult más szerv vagy személy részére továbbíthatja. Az eljárásban az adatok, az iratok és a tények nyilvántartása, kezelése, az adatokba történő betekintés engedélyezése és az adatok kiadása tekintetében egyebekben a bíróságokra vonatkozó jogszabályok megfelelően irányadóak.”
+75. §

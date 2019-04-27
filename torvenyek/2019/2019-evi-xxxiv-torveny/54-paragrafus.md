@@ -1,1 +1,0 @@
-54. § A Tszt. 57. § (4) bekezdésében a „megfeleljen az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírtaknak, és tegye lehetővé” szövegrész helyébe a „lehetővé tegye” szöveg lép.

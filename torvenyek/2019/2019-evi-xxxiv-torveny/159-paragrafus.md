@@ -1,1 +1,0 @@
-159. § Az Ánytv. 13. § (4) bekezdésében az „azoknak az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Info tv.) szerinti” szövegrész helyébe az „azok” szöveg lép.

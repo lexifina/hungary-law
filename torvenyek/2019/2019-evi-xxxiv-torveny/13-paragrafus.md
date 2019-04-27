@@ -1,1 +1,0 @@
-13. § Az Rtv. 88. § (1) bekezdésében az „az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint” szövegrész helyébe az „az adatkezelési tevékenységek nyilvántartása részeként” szöveg lép.
