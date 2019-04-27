@@ -1,0 +1,7 @@
+# 2019. évi XXXIX. törvény az atomenergiáról szóló 1996. évi CXVI. törvény és a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-39-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2019-04-27 | 2019. évi XXXIX. törvény | 2019-39-00-00.0 (közlönyállapot) |
