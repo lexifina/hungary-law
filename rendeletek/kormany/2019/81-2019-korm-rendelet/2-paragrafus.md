@@ -1,3 +1,0 @@
-## 1. § A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet [a továbbiakban: 309/2011. (XII. 23.) Korm. rendelet] 4. §-a helyébe a következő rendelkezés lép:
-
-## „4. § A központi szolgáltató feladatát a 2. mellékletben meghatározott költségvetési szervek esetében a miniszterrel kötött közszolgáltatási szerződés (a továbbiakban: közszolgáltatási szerződés) alapján látja el, amelyben a felek rögzítik az elvárt szolgáltatások körét, azok alapvető szakmai-műszaki tartalmát, valamint a szolgáltatások teljesítésének, illetve nyújtásának időtartamát. A közszolgáltatási szerződésben foglalt szolgáltatások teljesítésének, illetve nyújtásának fedezetét a miniszter biztosítja.”
