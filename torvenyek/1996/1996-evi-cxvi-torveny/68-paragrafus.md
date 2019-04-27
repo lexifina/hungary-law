@@ -10,7 +10,7 @@ d) az atomenergia-felügyeleti szerv igazgatási szolgáltatási díj ellenében
 
 e) az atomenergia-felügyeleti szerv hatósági tevékenységéhez igénybe vett intézetek, intézmények részére a szolgáltatásért járó díj fizetésének feltételeit;
 
-f)
+f) a tevékenység jellege szerint érintett miniszterrel egyetértésben az atomenergia alkalmazása körében a munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét;
 
 g) az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat, az adópolitikáért felelős miniszterrel egyetértésben;
 
@@ -46,7 +46,7 @@ b) a vizek és a víztartó képződmények radioaktív és hőszennyezés ellen
 
 (4) Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg a nukleáris és radioaktív anyagok szállítása és csomagolása követelményeit a környezetvédelemért felelős miniszterrel, az egészségügyért felelős miniszterrel, továbbá a miniszterrel egyetértésben.
 
-(5) Felhatalmazást kap a tevékenység jellege szerint érintett miniszter, hogy a miniszterrel egyetértésben szabályozza az atomenergia alkalmazása körében munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét.
+(5)
 
 (6)
 

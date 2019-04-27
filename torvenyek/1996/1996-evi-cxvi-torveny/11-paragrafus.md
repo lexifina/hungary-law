@@ -81,3 +81,5 @@ e) szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt bün
 (7) Külföldi foglalkoztatásakor a (3) és (4) bekezdésben meghatározott feltételek fennállását a munkavállalónak azon állam irányadó jogszabályai szerint kell igazolnia, melynek állampolgára, illetve hontalan esetében, amely állam területén a lakóhelye vagy szokásos tartózkodási helye van.
 
 (8) A (7) bekezdés szerinti esetben a rendőrség a közbiztonsági engedélyt a foglalkoztatás időtartalmának végéig, de legfeljebb a kiállítástól számított 1 naptári évig adja meg. Külföldi munkavállalót a foglalkoztatásának időtartalma alatt az (5) bekezdésben meghatározott bűnügyi nyilvántartásokban is ellenőrizni kell.
+
+(9) Az atomenergia polgári célú hasznosítására feljogosított engedélyes a közbiztonsági engedélyre kötelezett munkakörben dolgozó vagy ilyen feladattal megbízott foglalkoztatottak tekintetében jelenti, ha az adott személy foglalkoztatása vagy feladatköre megszűnik.

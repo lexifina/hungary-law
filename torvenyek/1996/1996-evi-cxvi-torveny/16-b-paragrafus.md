@@ -4,7 +4,7 @@
 
 (2) Sugárvédelmi szakértői tevékenységet az erre feljogosított
 
-a) természetes személy (a továbbiakban: igazságügyi szakértő),
+a) természetes személy,
 
 b) cégjegyzékbe bejegyzett gazdasági társaság (a továbbiakban: sugárvédelmi szakértői társaság), valamint a Szolgtv. szerinti szabad szolgáltatásnyújtás jogával rendelkező vállalkozás (a továbbiakban: sugárvédelmi szakértői vállalkozás)
 

@@ -1,6 +1,6 @@
 12/B. § (1) A 17. § (2) bekezdés 1. pont b) alpontjában foglalt létesítés, bővítés engedélyezése és a 17. § (2) bekezdés 12. pontja szerinti nukleáris létesítmény biztonsági övezetének kijelölése esetében az ügyintézési határidő tizenkét hónap, amely indokolt esetben, egy alkalommal, legfeljebb három hónappal meghosszabbítható.
 
-(2) A 17. § (2) bekezdés 15. pontja szerinti radioaktívhulladék-tároló létesítése engedélyezésének és a 17. § (2) bekezdés 12. pontja szerint radioaktívhulladék-tároló biztonsági övezete kijelölése esetén az ügyintézési határidő tizenkét hónap, amely indokolt esetben, legfeljebb három hónappal meghosszabbítható.
+(2) A 17. § (2) bekezdés 15. pontja szerinti radioaktívhulladék-tároló telepítése és létesítése engedélyezésének és a 17. § (2) bekezdés 12. pontja szerint radioaktívhulladék-tároló biztonsági övezete kijelölése esetén az ügyintézési határidő tizenkét hónap, amely indokolt esetben, legfeljebb három hónappal meghosszabbítható.
 
 (3) Az ügyintézési határidő tizenegy hónap:
 
@@ -14,7 +14,7 @@ d) a 17. § (2) bekezdés 15. pontja szerinti engedélyezési eljárásban, bele
 
 (4) Az ügyintézési határidő nyolc hónap
 
-a) a 17. § (2) bekezdés 18. pontjában meghatározott nukleáris létesítményre, radioaktív hulladék átmeneti és végleges tárolójára vonatkozó tervezési alapfenyegetettség megállapítása és felülvizsgálata, fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében,
+a) a 17. § (2) bekezdés 18. pontjában meghatározott nukleáris létesítményre, radioaktív hulladék átmeneti és végleges tárolójára vonatkozó tervezési alapfenyegetettség megállapítása és felülvizsgálata – a (7) bekezdésben meghatározott kivétellel –, fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében,
 
 b) nukleáris létesítményekre vonatkozó első biztosítéki nyilvántartásba-vételi eljárás esetében.
 
@@ -39,3 +39,21 @@ g) a határozott időre adott engedély időbeli hatályának módosítására i
 h) az atomenergia-felügyeleti szerv által kiadott engedélyben előírt feltétel teljesítése határidejének módosítására irányuló eljárásban,
 
 i) a hivatalból indított eljárásban.
+
+(7) Az ügyintézési határidő kilencven nap a 17. § (2) bekezdés 18. pontjában meghatározott engedélyezési eljárásban – a (4) bekezdés a) pontjában meghatározott kivétellel – a nukleáris anyag, radioaktív sugárforrás és radioaktív hulladék alkalmazására, tárolására, illetve a szabotázs és a jogtalan eltulajdonítás megakadályozását, a szabotázs és a jogtalan eltulajdonítás lehetőségének csökkentését, vagy a jogtalan eltulajdonítás lehetőségének csökkentését biztosító védelmet igénylő szállítására vonatkozó fizikai védelmi rendszer fizikai védelmi terv alapján történő engedélyezése esetében.
+
+(8) Az ügyintézési határidő
+
+a) százötven nap a 17. § (2) bekezdés 3. pontja szerinti építési engedélyezési eljárások közül a konténment engedélyezési eljárásban,
+
+b) negyvenkét nap
+
+ba) a nukleáris biztonság szempontjából sajátos olyan építmények esetében, amelyek a nukleáris létesítmény vagy a radioaktív hulladéktároló létesítéséhez szükségesek, de nincs szerepük a létesítmény üzemeltetésében,
+
+bb) azon építmények esetében, amelyek vagy amelyeknek egyes részei a biztonsági övezethez tartoznak, de nincs szerepük a létesítmény üzemeltetésében, valamint
+
+c) hatvan nap az a) és b) pont kivételével a 17. § (2) bekezdés 3. pontjában meghatározott egyéb hatósági engedélyezési eljárásokban,
+
+ha ezeket a közigazgatási hatósági ügyeket az Ngtv. felhatalmazása alapján a Kormány rendeletben kiemelt jelentőségű üggyé nyilvánította.
+
+(9) A (8) bekezdés c) pontjában meghatározott ügyintézési határidő indokolt esetben 30 nappal meghosszabbítható.

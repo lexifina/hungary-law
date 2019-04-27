@@ -10,7 +10,7 @@ a) az abban meghatározott időtartam lejár, vagy az engedélyben meghatározot
 
 b) a nukleáris berendezés, illetve a nukleáris létesítmény az engedélyezett időtartamon belül, az engedélyben meghatározottnál hosszabb ideig folyamatosan üzemen kívül áll.
 
-(3) Az atomenergia-felügyeleti szerv az engedélyt visszavonhatja, vagy az engedély időbeli hatályát korlátozhatja, ha az engedély megadása alapjául szolgáló biztonsági körülményeknek, illetve a kockázat mértékének a megváltozását állapította meg.
+(3) Az atomenergia-felügyeleti szerv az engedélyt visszavonhatja vagy az engedély időbeli hatályát korlátozhatja, ha megállapítja, hogy az engedély megadása alapjául szolgáló nukleáris biztonsági, biztosítéki, védettségi, valamint az ionizáló sugárzás elleni védelemmel kapcsolatos körülmények megváltoztak és az ebből fakadó kockázat mértéke növekedett.
 
 (4) Az átalakítási engedély kiadása előtt végzett ellenőrzés során feltárt, a nukleáris biztonságot veszélyeztető nem-megfelelőség esetén az atomenergia-felügyeleti szerv az átalakítás folytatását megtilthatja.
 

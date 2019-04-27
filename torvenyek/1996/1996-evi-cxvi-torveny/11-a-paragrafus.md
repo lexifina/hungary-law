@@ -18,6 +18,12 @@ e) radioaktívhulladék-tárolóra vonatkozó engedélynél (a létesítmény te
 
 (1a) Az atomenergia-felügyeleti szerv által lefolytatott eljárásban az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait csak akkor gyakorolhatja, ha az eljárásban nyilatkozatot tett vagy kérelmet nyújtott be. A nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedélyezési eljárásba a döntés véglegessé válásától és végrehajthatóvá válásától számított hat hónapon túl nem léphet be további ügyfél, e határidő elmulasztása esetén igazolásnak helye nincs.
 
+(1b) Ha az eljárás több mint ötven ügyfelet érint, vagy az eljárásban a (4) bekezdés alapján közmeghallgatásra kerül sor, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – az atomenergia-felügyeleti szerv a kérelmezővel elektronikus, az egyéb ügyféllel hirdetményi úton tart kapcsolatot.
+
+(1c) Az eljárás megindításáról szóló értesítés tartalmára az Ákr. hivatalbóli eljárásra vonatkozó szabályait kell alkalmazni.
+
+(1d) Az (1b) bekezdésben és az (1) bekezdés a) és e) pontjában meghatározott eljárásokban az atomenergia-felügyeleti szerv a kérelmezővel elektronikus úton, az egyéb ügyfelekkel hirdetményben közli a döntését. A hirdetményt az atomenergia-felügyeleti szerv az (5) bekezdés a) pontja szerinti helyeken teszi közzé.
+
 (2) Az atomenergia-felügyeleti szerv eljárásaiban – a (2a)–(2d) bekezdésben meghatározott kivétellel – a hatásterület a biztonsági övezet területe.
 
 (2a) A nukleáris létesítmény telephelye vizsgálatának és értékelésének, valamint a nukleáris létesítmény telephelye jellemzői és alkalmassága megállapításának engedélyezése iránti nukleáris biztonsági hatósági eljárásban a hatásterület a nukleáris létesítmény tervezett telephelye, valamint
@@ -50,7 +56,7 @@ a) hirdetményt tesz közzé az atomenergia-felügyeleti szerv honlapján és hi
 
 b) értesíti az eljárásban közreműködő szakhatóságot.
 
-(6) A közmeghallgatáson elhangzottakról készült feljegyzés az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban Ákr.) meghatározottakon kívül
+(6) A közmeghallgatáson elhangzottakról készült feljegyzés az Ákr.-ben meghatározottakon kívül
 
 a) az eljáró hatóság megnevezését, az ügyintéző nevét, az ügy tárgyát,
 

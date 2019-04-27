@@ -1,6 +1,6 @@
 ## Az atomenergia-felügyeleti szerv hatásköre
 
-17. § (1) Az atomenergia-felügyeleti szerv alapvető feladata az atomenergia békés célú, biztonságos és védett alkalmazásával – különösen a nukleáris létesítmények és radioaktívhulladék-tárolók nukleáris biztonságával és védettségével – a nukleáris és más radioaktív anyagok, ionizáló sugárzást kibocsátó berendezések biztonságával és védettségével, a nukleáris fegyverek elterjedése elleni tevékenységgel, a nukleáris s veszélyhelyzet-kezeléssel kapcsolatos hatósági feladatok, valamint az ezekre vonatkozó tájékoztatási tevékenység ellátása, illetve összehangolása.
+17. § (1) Az atomenergia-felügyeleti szerv alapvető feladata az atomenergia békés célú, biztonságos és védett alkalmazásával – különösen a nukleáris létesítmények és radioaktívhulladék-tárolók nukleáris biztonságával és védettségével – a nukleáris és más radioaktív anyagok, ionizáló sugárzást kibocsátó berendezések biztonságával és védettségével, a nukleáris fegyverek elterjedése elleni tevékenységgel, a nukleáris veszélyhelyzet-kezeléssel kapcsolatos hatósági feladatok, valamint az ezekre vonatkozó tájékoztatási tevékenység ellátása, illetve összehangolása.
 
 (2) Az atomenergia-felügyeleti szerv hatáskörébe tartozik:
 
