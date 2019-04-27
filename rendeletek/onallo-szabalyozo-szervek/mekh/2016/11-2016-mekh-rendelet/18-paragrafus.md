@@ -1,6 +1,6 @@
 ## 8. A szállítói nominálási eltérési pótdíj
 
-18. §[^46] (1) Ha a rendszerhasználó az ÜKSZ-ben foglaltak szerint nominált vagy újranominált, és a szállítási rendszerüzemeltető ezt – saját hibájából – nem tudja teljesíteni, a szállítási rendszerüzemeltető szállítói nominálási eltérési pótdíjat köteles fizetni az érintett rendszerhasználónak.
+18. §[^52] (1) Ha a rendszerhasználó az ÜKSZ-ben foglaltak szerint nominált vagy újranominált, és a szállítási rendszerüzemeltető ezt – saját hibájából – nem tudja teljesíteni, a szállítási rendszerüzemeltető szállítói nominálási eltérési pótdíjat köteles fizetni az érintett rendszerhasználónak.
 
 (2) A szállítói nominálási eltérési pótdíj az átadási-átvételi ponton gáznapra véglegesen nominált gáznapi szállítási mennyiség és a rendelkezésre bocsátott gáznapi kapacitás különbözetének, valamint a szállítói nominálási eltérési pótdíj mértékének szorzata.
 
@@ -8,4 +8,4 @@
 
 (4) A szállítói nominálási eltérési pótdíj minden érintett gáznapon újra felszámítandó.
 
-[^46]: A 18. § a 7/2017. (VII. 13.) MEKH rendelet 10. §-ával megállapított szöveg.
+[^52]: A 18. § a 7/2017. (VII. 13.) MEKH rendelet 10. §-ával megállapított szöveg.

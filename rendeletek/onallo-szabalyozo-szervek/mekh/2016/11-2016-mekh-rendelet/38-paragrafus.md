@@ -1,4 +1,4 @@
-38. § (1)[^77] A földgáztárolási díj az ÜKSZ-ben meghatározott földgáztárolói rendszerszintű szolgáltatásokra nyújt fedezetet az alábbi korlátok figyelembevételével, melyek részletes leírását a földgáztárolói engedélyes a szerződő partnerek részére a szerződéskötési folyamatot megelőzően biztosítja:
+38. § (1)[^85] A földgáztárolási díj az ÜKSZ-ben meghatározott földgáztárolói rendszerszintű szolgáltatásokra nyújt fedezetet az alábbi korlátok figyelembevételével, melyek részletes leírását a földgáztárolói engedélyes a szerződő partnerek részére a szerződéskötési folyamatot megelőzően biztosítja:
 
 a) a rendszerhasználó a tároló kitárolásának és betárolásának az indítására vonatkozó – a földgáztárolói engedélyes üzletszabályzatában rögzített – szabályoknak megfelelően veheti igénybe a tárolási szolgáltatást; az indításkor elérhető kapacitást a földgáztárolói engedélyes honlapján folyamatosan közzéteszi;
 
@@ -14,4 +14,4 @@ a) 5–20%-os csökkenése esetén a betárolási díj 50%-át,
 
 b) 20%-nál nagyobb csökkenése esetén a betárolási díj 100%-át
 
-[^77]: A 38. § (1) bekezdés nyitó szövegrésze a 14/2016. (XII. 20.) MEKH rendelet 11. § i) pontja szerint módosított szöveg.
+[^85]: A 38. § (1) bekezdés nyitó szövegrésze a 14/2016. (XII. 20.) MEKH rendelet 11. § i) pontja szerint módosított szöveg.

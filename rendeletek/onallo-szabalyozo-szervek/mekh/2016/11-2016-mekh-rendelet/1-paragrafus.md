@@ -92,11 +92,11 @@ k) kitárolási időszak: a földgáztárolói engedélyes által a honlapján k
 
 l) kitárolási kapacitás: szerződésben rögzített, a tárolási kapacitást lekötő számára a gáznapon maximálisan kitárolható energiamennyiség, amelynek órai maximuma nem haladhatja meg a napi érték 1/24-ed részét (kWh),
 
-m) megszakítható kapacitás: a szállítási rendszerüzemeltető, a földgázelosztó vagy a földgáztárolói engedélyes által a rendszerhasználó számára adott átadási-átvételi ponton rendelkezésre bocsátott kapacitás, amelynek igénybevétele mértékét a szállítási rendszerüzemeltető, a földgázelosztó vagy a földgáztárolói engedélyes jogosult csökkenteni,
+m)[^10] megszakítható kapacitás: a szállítási rendszerüzemeltető, vagy a földgáztárolói engedélyes által a rendszerhasználó számára adott átadási-átvételi ponton rendelkezésre bocsátott kapacitás, amelynek igénybevétele mértékét a szállítási rendszerüzemeltető, vagy a földgáztárolói engedélyes jogosult csökkenteni,
 
-n)[^10] mobilkapacitás: a földalatti földgáztároló azon energiában mért (kWh) befogadóképessége, amely szerződésben rögzített és a tárolási kapacitást lekötő rendszerhasználó számára a tárolási szerződés időtartama alatt rendelkezésre áll,
+n)[^11] mobilkapacitás: a földalatti földgáztároló azon energiában mért (kWh) befogadóképessége, amely szerződésben rögzített és a tárolási kapacitást lekötő rendszerhasználó számára a tárolási szerződés időtartama alatt rendelkezésre áll,
 
-ny)[^11] gáznapi középhőmérséklet:
+ny)[^12] gáznapi középhőmérséklet:
 
 nya) a szállítási rendszerüzemeltető és a rendszerhasználó eltérő megállapodása hiányában az 1. § (1) bekezdés a) pont aa) alpontja szerinti átadási-átvételi ponthoz tartozó, a 3. melléklet szerint megfeleltetett mérési ponton az Országos Meteorológiai Szolgálat (a továbbiakban: OMSZ) órás adataiból az ÜKSZ szerint meghatározott átlagos hőmérsékletérték,
 
@@ -106,7 +106,7 @@ o) szagosítási díj: az a díj, amelyet a földgáz kapacitás-lekötési szer
 
 p) szállítási forgalmi díj: az a díj, amelyet az átadási-átvételi ponton mért földgázmennyiség energiamennyiségre átszámított értéke (kWh) alapján kell fizetni,
 
-q)[^12] szállítási kapacitásdíj: az a díj, amelyet a lekötött kapacitás (betáplálási és kiadási ponton Ft/kWh/h) alapján kell fizetni,
+q)[^13] szállítási kapacitásdíj: az a díj, amelyet a lekötött kapacitás (betáplálási és kiadási ponton Ft/kWh/h) alapján kell fizetni,
 
 r) rendszerhasználati szerződési időszak (a továbbiakban: szerződési időszak):
 
@@ -114,27 +114,31 @@ ra) éves kapacitás-lekötés esetében a gázév,
 
 rb) a gázéven belüli negyedéves kapacitás-lekötés esetében a teljes naptári negyedévből álló időszak,
 
-rc)[^13] a gázéven belüli havi kapacitás-lekötés esetében a teljes naptári hónapból álló időszak,
+rc)[^14] a gázéven belüli havi kapacitás-lekötés esetében a teljes naptári hónapból álló időszak,
 
 rd) a gázéven belüli napi kapacitás-lekötés esetében a teljes gáznapból álló időszak,
 
-re)[^14] a gázéven belüli napon belüli kapacitás-lekötés esetében a gáznap végéig hátralévő időszak,
+re)[^15] a gázéven belüli napon belüli kapacitás-lekötés esetében a gáznap végéig hátralévő időszak,
 
 s) tárolási év: adott naptári év április 1-jétől a következő naptári év március 31-éig tartó időszak,
 
 sz) tárolói kapacitásdíj: az az éves díj, amelyet a rendszerhasználó által szerződéssel lekötött mobilkapacitás (kWh) alapján kell fizetni,
 
-t)[^15] nem téli fogyasztási időszak: a gázéven belül az április 1-jétől szeptember 30-áig terjedő időszak,
+t)[^16] nem téli fogyasztási időszak: a gázéven belül az április 1-jétől szeptember 30-áig terjedő időszak,
 
-ty)[^16] téli fogyasztási időszak: a gázéven belül az október 1-jétől március 31-éig terjedő időszak,
+ty)[^17] téli fogyasztási időszak: a gázéven belül az október 1-jétől március 31-éig terjedő időszak,
 
-u)[^17] utólagos kapacitásdíj: az a díj, amelyet a 8. § (2) bekezdés a)–c) és e) pontjában és a 22. § (7) bekezdésében meghatározott díjfizetésre kötelezett a –12,0 °C-nál hidegebb gáznapi középhőmérsékletű gáznapon jogosulatlanul igénybe vett legnagyobb órai többletkapacitás után fizet, és melynek mértéke megegyezik az adott napra vonatkozó árszabás szerinti szállítási, illetve elosztási napi kapacitásdíjakkal,
+u)[^18] utólagos kapacitásdíj: az a díj, amelyet a 8. § (2) bekezdés a)–c) és e) pontjában és a 22. § (7) bekezdésében meghatározott díjfizetésre kötelezett a –12,0 °C-nál hidegebb gáznapi középhőmérsékletű gáznapon jogosulatlanul igénybe vett legnagyobb órai többletkapacitás után fizet, és melynek mértéke megegyezik az adott napra vonatkozó árszabás szerinti szállítási, illetve elosztási napi kapacitásdíjakkal,
 
-v)[^18] kapacitás-túllépési pótdíj: az a díj, amelyet a 8. § (2) bekezdés a)–c) és e) pontjában és a 22. § (7) bekezdésében meghatározott díjfizetésre kötelezett a –12,0 °C vagy annál melegebb gáznapi középhőmérsékletű gáznapon jogosulatlanul igénybe vett legnagyobb órai többletkapacitás után fizet, és melynek mértéke megegyezik az adott napra vonatkozó árszabás szerinti szállítási, illetve elosztási napi kapacitásdíjak négyszeresével,
+v)[^19] kapacitás-túllépési pótdíj: az a díj, amelyet a 8. § (2) bekezdés a)–c) és e) pontjában és a 22. § (7) bekezdésében meghatározott díjfizetésre kötelezett a –12,0 °C vagy annál melegebb gáznapi középhőmérsékletű gáznapon jogosulatlanul igénybe vett legnagyobb órai többletkapacitás után fizet, és melynek mértéke megegyezik az adott napra vonatkozó árszabás szerinti szállítási, illetve elosztási napi kapacitásdíjak négyszeresével,
 
-w)[^19] vásárolt kapacitás túllépése miatti pótdíj: az a díj, amelyet a 22. § (7) bekezdésében meghatározott díjfizetésre kötelezett a –12,0 °C vagy annál melegebb gáznapi középhőmérsékletű gáznapon a vásárolt kapacitása felett jogosulatlanul igénybe vett legnagyobb órai kapacitás után fizet, és melynek mértéke megegyezik az éves elosztási kapacitásdíj másfélszeresével,
+w)[^20] vásárolt kapacitás túllépése miatti pótdíj: az a díj, amelyet a 22. § (7) bekezdésében meghatározott díjfizetésre kötelezett a –12,0 °C vagy annál melegebb gáznapi középhőmérsékletű gáznapon a vásárolt kapacitása felett jogosulatlanul igénybe vett legnagyobb órai kapacitás után fizet, és melynek mértéke megegyezik az éves elosztási kapacitásdíj másfélszeresével,
 
-x)[^20] órai többletkapacitás: a túllépéssel érintett órában átvett energiamennyiség és a szerződésben rögzített, adott órára lekötött kapacitás teljes különbözete.
+x)[^21] órai többletkapacitás: a túllépéssel érintett órában átvett energiamennyiség és a szerződésben rögzített, adott órára lekötött kapacitás teljes különbözete,
+
+y)[^22] mFRR kiegyenlítő szabályozási kapacitás: a villamos energia kiegyenlítő szabályozásra vonatkozó iránymutatás létrehozásáról szóló, 2017. november 23-i 2017/2195/EU bizottsági rendelet (a továbbiakban: 2017/2195/EU bizottsági rendelet) 18. cikk (1) bekezdése alapján meghatározott kapacitás (a továbbiakban: mFRR kapacitás),
+
+z)[^23] kiegyenlítő szabályozási szolgáltató: a 2017/2195/EU bizottsági rendelet 2. cikk 6. pontja szerinti szolgáltató.
 
 (2) A csatlakozási díjak tekintetében e rendelet alkalmazásában:
 
@@ -158,11 +162,11 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 
 8. rákapcsolás: a 2004. január 27. előtt létesült leágazó elosztóvezetékkel rendelkező ingatlanokon a leágazó elosztóvezeték, a csatlakozó vezeték és a fogyasztói vezeték üzembe helyezése.
 
-(3)[^21] Az e rendeletben meg nem határozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok, valamint a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló 459/2017/EU bizottsági rendelet (a továbbiakban: 459/2017/EU bizottsági rendelet) szerint kell értelmezni.
+(3)[^24] Az e rendeletben meg nem határozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok, valamint a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló 459/2017/EU bizottsági rendelet (a továbbiakban: 459/2017/EU bizottsági rendelet) szerint kell értelmezni.
 
-(4)[^22] Az e rendeletben foglaltakat az egyetemes szolgáltatóra vonatkozóan a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló 69/2016. (XII. 29.) NFM rendeletben foglaltakra tekintettel kell alkalmazni.
+(4)[^25] Az e rendeletben foglaltakat az egyetemes szolgáltatóra vonatkozóan a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló 69/2016. (XII. 29.) NFM rendeletben foglaltakra tekintettel kell alkalmazni.
 
-(5)[^23] Az e rendeletben foglaltakat a rendszerüzemeltető és rendszerhasználó viszonylatában azon rendszerhasználóra kell alkalmazni, aki rendszerhasználati szerződéses kapcsolatban áll az adott rendszerüzemeltetővel.
+(5)[^26] Az e rendeletben foglaltakat a rendszerüzemeltető és rendszerhasználó viszonylatában azon rendszerhasználóra kell alkalmazni, aki rendszerhasználati szerződéses kapcsolatban áll az adott rendszerüzemeltetővel.
 
 [^1]: Az 1. alcím (1. §) a 14/2016. (XII. 20.) MEKH rendelet 3. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pont aa) alpont aah) alpontja a 7/2017. (VII. 13.) MEKH rendelet 19. § a) pontja szerint módosított szöveg.
@@ -173,17 +177,20 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 [^7]: Az 1. § (1) bekezdés g) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (1) bekezdés gy) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^9]: Az 1. § (1) bekezdés h) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (1) bekezdés n) pontja a 7/2017. (VII. 13.) MEKH rendelet 19. § d) pontja szerint módosított szöveg.
-[^11]: Az 1. § (1) bekezdés ny) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^12]: Az 1. § (1) bekezdés q) pontja a 7/2017. (VII. 13.) MEKH rendelet 20. § a) pontja szerint módosított szöveg.
-[^13]: Az 1. § (1) bekezdés r) pont rc) alpontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^14]: Az 1. § (1) bekezdés r) pont re) alpontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^15]: Az 1. § (1) bekezdés t) pontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^16]: Az 1. § (1) bekezdés ty) pontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^17]: Az 1. § (1) bekezdés u) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^18]: Az 1. § (1) bekezdés v) pontját a 7/2017. (VII. 13.) MEKH rendelet 2. § (4) bekezdése iktatta be.
-[^19]: Az 1. § (1) bekezdés w) pontját a 7/2017. (VII. 13.) MEKH rendelet 2. § (4) bekezdése iktatta be.
-[^20]: Az 1. § (1) bekezdés x) pontját a 7/2017. (VII. 13.) MEKH rendelet 2. § (4) bekezdése iktatta be.
-[^21]: Az 1. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^22]: Az 1. § (4) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdése iktatta be.
-[^23]: Az 1. § (5) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (6) bekezdése iktatta be.
+[^10]: Az 1. § (1) bekezdés m) pontja a 4/2019. (IV. 12.) MEKH rendelet 9. § a) pontja szerint módosított szöveg.
+[^11]: Az 1. § (1) bekezdés n) pontja a 7/2017. (VII. 13.) MEKH rendelet 19. § d) pontja szerint módosított szöveg.
+[^12]: Az 1. § (1) bekezdés ny) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: Az 1. § (1) bekezdés q) pontja a 7/2017. (VII. 13.) MEKH rendelet 20. § a) pontja szerint módosított szöveg.
+[^14]: Az 1. § (1) bekezdés r) pont rc) alpontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 1. § (1) bekezdés r) pont re) alpontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^16]: Az 1. § (1) bekezdés t) pontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^17]: Az 1. § (1) bekezdés ty) pontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^18]: Az 1. § (1) bekezdés u) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^19]: Az 1. § (1) bekezdés v) pontját a 7/2017. (VII. 13.) MEKH rendelet 2. § (4) bekezdése iktatta be.
+[^20]: Az 1. § (1) bekezdés w) pontját a 7/2017. (VII. 13.) MEKH rendelet 2. § (4) bekezdése iktatta be.
+[^21]: Az 1. § (1) bekezdés x) pontját a 7/2017. (VII. 13.) MEKH rendelet 2. § (4) bekezdése iktatta be.
+[^22]: Az 1. § (1) bekezdés y) pontját a 4/2019. (IV. 12.) MEKH rendelet 1. §-a iktatta be.
+[^23]: Az 1. § (1) bekezdés z) pontját a 4/2019. (IV. 12.) MEKH rendelet 1. §-a iktatta be.
+[^24]: Az 1. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^25]: Az 1. § (4) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdése iktatta be.
+[^26]: Az 1. § (5) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (6) bekezdése iktatta be.
