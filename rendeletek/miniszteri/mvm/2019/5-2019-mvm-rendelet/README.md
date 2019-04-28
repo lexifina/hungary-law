@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-5-20-6N
 | --- | --- | --- |
 | 2019-04-01 | 2019-5-20-6N.1 | 5/2019. (III. 28.) MvM rendelet |
 | 2019-04-02 | 2019-5-20-6N.2 | 2010: CXXX. törvény |
+| 2019-04-28 | 2019-5-20-6N.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
