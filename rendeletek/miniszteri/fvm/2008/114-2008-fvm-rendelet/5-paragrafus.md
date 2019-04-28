@@ -1,20 +1,18 @@
 5. § (1) A 4. § szerinti támogatások igénybevételére a mezőgazdasági vállalkozás abban az esetben jogosult, amennyiben:
 
-a) igazolja, hogy:
+a)[^9] igazolja, hogy:
 
-aa)[^8] őstermelő, egyéni vállalkozó, valamint a jogi személy vagy jogi személyiséggel nem rendelkező szervezet tulajdonosa vagy alkalmazottja és rendelkezik legalább középfokú „mezőgazdasági vállalkozó” (OKJ 32 6201 02), „ezüstkalászos gazda” (OKJ 21 6201 01) vagy „aranykalászos gazda” (OKJ 32 6201 01) szakképesítéssel;
+aa) őstermelő, egyéni vállalkozó, vagy jogi személy tulajdonosa vagy alkalmazottja, és rendelkezik legalább középfokú „mezőgazdasági vállalkozó” (OKJ 32 6201 02), „ezüstkalászos gazda” (OKJ 21 6201 01), „aranykalászos gazda” (OKJ 32 6201 01 vagy új OKJ 31 621 02), vagy mezőgazdasági tevékenységéhez kapcsolódóan az Országos Képzési Jegyzékben szereplő, legalább középfokú szakképesítéssel,
 
-ab)[^9] belföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező szervezet, fő tevékenységi köre az 1. § a) pontjában meghatározott tevékenység,
+ab) belföldi székhelyű jogi személy fő tevékenységi köre az 1. § 7. pontjában meghatározott tevékenység,
 
-ac)[^10]
+ac) beruházási célú hiteligénylés esetén rendelkezik a fejlesztés megvalósításához szükséges, általános forgalmi adót nem tartalmazó költségeinek a pénzügyi intézmény belső szabályzatának megfelelő mértékű saját erővel,
 
-ad) beruházási célú hiteligénylés esetén rendelkezik a fejlesztés megvalósításához szükséges, áfát nem tartalmazó költségeinek a pénzügyi intézmény belső szabályzatának megfelelő mértékű saját erővel,
+ad) a beruházással érintett mezőgazdasági üzem – az Európai Unióban működő mezőgazdasági üzemek jövedelmére és üzleti tevékenységére vonatkozó számviteli adatok gyűjtésére szolgáló hálózat létrehozásáról szóló 1217/2009/EK tanácsi rendelet alkalmazására vonatkozó szabályok megállapításáról szóló, 2015. február 3-i 2015/220/EU bizottsági végrehajtási rendeletben meghatározott módszertan szerint számolt – standard termelési értéke (STÉ) legalább 6000 euró, és
 
-ae) a beruházással érintett üzem – mezőgazdasági termelő esetén – az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokkal összefüggésben a tesztüzemi rendszer keretében kialakított standard fedezeti hozzájárulás értékek alkalmazásáról szóló 146/2004. (IX. 30.) FVM rendelet szerint számított standard fedezeti hozzájárulása meghaladja az 5 európai mértékegységet (EUME-t),
+ae) rendelkezik az általa működtetett, korszerűsítésre kerülő állattartó telep szakhatósági igazolásával vagy az állattartás helye szerint illetékes fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága által kiállított hatósági bizonyítvánnyal, amely szerint az adott állattartó telep egy önálló állategészségügyi egységként szerepel az élelmiszerlánc-felügyeleti szerv nyilvántartásában, valamint a nevezett címen tartott állomány hatósági, valamint szolgáltató állatorvosi felügyelete biztosított;
 
-af)[^11] rendelkezik az általa működtetett, korszerűsítésre kerülő állattartó telep szakhatósági igazolásával, vagy az állattartás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal által kiállított hatósági bizonyítvánnyal, amely szerint az adott állattartó telep egy önálló állategészségügyi egységként szerepel az élelmiszerlánc-felügyeleti szerv nyilvántartásában, valamint a nevezett címen tartott állomány hatóság, valamint kezelő állatorvosi felügyelete biztosított;
-
-b)[^12] nyilatkozik, hogy:
+b)[^10] nyilatkozik, hogy:
 
 ba) a 2. § (1) bekezdés b) és c) pontja szerinti beruházást a hitelszerződés kötést követő 12 hónapon belül befejezi,
 
@@ -28,13 +26,11 @@ be) nem áll csőd-, felszámolási, végelszámolási eljárás alatt, vagy vel
 
 bf) köztartozása nem áll fenn,
 
-bg) az államháztartásról szóló 1992. évi XXXVIII. törvény 15. §-ában szabályozott rendezett munkaügyi kapcsolatok feltételeinek megfelel.
+bg)[^11] megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) és c) pontjában foglaltaknak.
 
-(2)[^13]
+(2)[^12]
 
-[^8]: Az 5. § (1) bekezdés a) pont aa) alpontja a 22/2014. (III. 14.) VM rendelet 64. § b) pontja szerint módosított szöveg.
-[^9]: Az 5. § (1) bekezdés a) pontj ab) alpontja a 171/2009. (XII. 22.) FVM rendelet 6. § (3) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 64. § b) pontja szerint módosított szöveg.
-[^10]: Az 5. § (1) bekezdés a) pont ac) alpontját a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
-[^11]: Az 5. § (1) bekezdés a) pont af) alpontja a 70/2013. (VII. 31.) VM rendelet 98. § c) és d) pontja, a 19/2014. (III. 12.) VM rendelet 28. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 119. § a) pontja szerint módosított szöveg.
-[^12]: Az 5. § (1) bekezdés b) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (2) bekezdését a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^9]: Az 5. § (1) bekezdés a) pontja a 15/2019. (IV. 25.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (1) bekezdés b) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (1) bekezdés b) pont bg) alpontja a 15/2019. (IV. 25.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (2) bekezdését a 171/2009. (XII. 22.) FVM rendelet 8. § (2) bekezdés d) pontja hatályon kívül helyezte.

@@ -12,10 +12,20 @@ e) a kérelem benyújtását megelőző 5 éven belül jogosulatlanul igénybe v
 
 f) az azonos jogcím keretében támogatott befejezetlen projekttel rendelkezik;
 
-g) az adott beruházás az Új Magyarország Vidékfejlesztési Program fejlesztési támogatásban, vagy az Európai Mezőgazdasági Garancia Alapból finanszírozható termelői szervezet támogatásban részesül;
+g)[^4] az adott beruházás a Vidékfejlesztési Program 2014–2020 fejlesztési támogatásban, vagy az Európai Mezőgazdasági Garancia Alapból finanszírozható termelői szervezet támogatásban részesül;
 
 h) az adott beruházás csak a meglévő közösségi vagy nemzeti előírásoknak való megfelelésre irányul;
 
-i)[^7] a hitel-, illetve lízingszerződés nem HUF alapon kerül megkötésre.
+i)[^5] a hitel-, illetve lízingszerződés nem HUF alapon kerül megkötésre;
 
-[^7]: A 3. § i) pontját a 163/2008. (XII. 18.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a 2008. december 26. napját követően megkötött hitel- és lízingszerződésekre kell alkalmazni.
+j)[^6] nehéz helyzetben lévő vállalkozásnak minősül;
+
+k)[^7] a beruházás termelési jogok, állatok és egynyári növények beszerzésére, illetve forgótőke finanszírozására irányul;
+
+l)[^8] a beruházás megvalósítása a kamattámogatás vagy a lízingdíj kamattámogatás iránti kérelem benyújtását megelőzően már megkezdődött.
+
+[^4]: A 3. § g) pontja a 15/2019. (IV. 25.) AM rendelet 11. § c) pontja szerint módosított szöveg.
+[^5]: A 3. § i) pontját a 163/2008. (XII. 18.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a rendelkezést a 2008. december 26. napját követően megkötött hitel- és lízingszerződésekre kell alkalmazni.
+[^6]: A 3. § j) pontját a 15/2019. (IV. 25.) AM rendelet 2. §-a iktatta be.
+[^7]: A 3. § k) pontját a 15/2019. (IV. 25.) AM rendelet 2. §-a iktatta be.
+[^8]: A 3. § l) pontját a 15/2019. (IV. 25.) AM rendelet 2. §-a iktatta be.

@@ -1,3 +1,3 @@
-4. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^26]
+4. számú melléklet a 114/2008. (IX. 5.) FVM rendelethez[^30]
 
-[^26]: A 4. számú melléklet a 171/2009. (XII. 22.) FVM rendelet 6. § (9) bekezdésével megállapított szöveg.
+[^30]: A 4. számú mellékletet a 15/2019. (IV. 25.) AM rendelet 12. § b) pontja hatályon kívül helyezte.
