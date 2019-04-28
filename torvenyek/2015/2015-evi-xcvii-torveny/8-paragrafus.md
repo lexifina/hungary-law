@@ -25,3 +25,5 @@ c) az áradatokról,
 d) a vonatkozó mennyiségi adatokról,
 
 e) a megfigyelés alá vont termékek köréről.
+
+(7) Az (5) bekezdés szerint adatszolgáltatásra kötelezettek e kötelezettségük teljesítését a mezőgazdasági igazgatási szerv ellenőrzi. Ha a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, egy hónapos határidő kitűzésével felhívja az adatszolgáltatót a kötelezettség teljesítésére. Ha az adatszolgáltató a határidő elteltével sem teljesíti a kötelezettségét, a mezőgazdasági igazgatási szerv ágazatfelügyeleti bírságot szab ki, amelynek legkisebb mértéke tízezer forint, legmagasabb mértéke 1 millió forint, de legfeljebb a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel öt százaléka.

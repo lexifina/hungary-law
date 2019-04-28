@@ -1,13 +1,31 @@
-7/A. § (1) A friss meggy Magyarországon történő értékesítésére irányuló szerződést a friss meggy feldolgozásáig írásba kell foglalni.
+7/A. § (1) Magyarországon történő feldolgozása esetén kötelező írásba foglalni a feldolgozásra alaptermékként beszállított
 
-(2) Az (1) bekezdés szerinti, határozott időre szóló szerződést legalább egyéves időtartamra kell megkötni. A határozatlan időre kötött szerződés rendes felmondással egyéves felmondási idővel szüntethető meg.
+a) meggy és
 
-(3) Az (1) bekezdés szerinti szerződés megkötésére a vevőnek kell írásbeli ajánlatot tennie az eladónak, amely ajánlathoz a vevő hat hónapig kötve van.
+b) alma
 
-(4) Az (1) bekezdés szerinti szerződésnek és az ajánlattételnek meg kell felelnie a Rendelet 168. cikk (4) és (6) bekezdésében meghatározott követelményeknek.
+értékesítésére irányuló szerződést.
 
-(5) Az (1)–(4) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, egy hónapos határidő kitűzésével felhívja a feleket a kötelezettség teljesítésére. A mezőgazdasági igazgatási szerv akkor alkalmaz szankciót, ha a felek a határidő elteltével sem teljesítik a kötelezettségeiket.
+(2) Az (1) bekezdés szerinti szerződésnek a beszállított termékekért fizetendő árat
 
-(6) Ha a felek között nem jön létre megállapodás az (1) bekezdés szerinti szerződés megkötésére, a felek közötti közvetítésre a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: agrárkamara) jogosult.
+a) rögzített módon, illetve
 
-(7) A Rendelet 168. cikk (5) bekezdésének rendelkezéseit a szövetkezetek mellett a gazdasági társaságokra is alkalmazni kell.
+b) meghatározott tényezők összesítése alapján számítva
+
+kell tartalmaznia.
+
+(3) Az (1) bekezdés szerinti szerződésnek egyebekben meg kell felelnie a Rendelet 168. cikk (4) bekezdésében meghatározott követelményeknek. A (2) bekezdés b) pontja vonatkozásában a Rendelet 168. cikk (4) bekezdés c) pontja i. alpontjának második francia bekezdésében foglaltakat kell alkalmazni.
+
+(4) A feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló (1) bekezdés szerinti szerződésnek
+
+a) meggy esetében az adott év május 15. napjáig,
+
+b) alma esetében az adott év augusztus 1. napjáig
+
+hatályba kell lépnie.
+
+(5) Az (1)–(4) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Ha a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, ágazatfelügyeleti bírságot szab ki, amelynek legkisebb mértéke tízezer forint, legmagasabb mértéke 50 millió forint.
+
+(6) Az (1)–(4) bekezdésben foglaltak a gazdasági társaság tagja mint beszállító által a gazdasági társasággal kötött szerződésre nem vonatkoznak, ha teljesülnek azok a feltételek, amelyeket a Rendelet 168. cikk (5) bekezdése a szövetkezetek esetében előír.
+
+(7) Nem kell alkalmazni a (4) bekezdésben foglaltakat annak a feldolgozónak, amely az adott évben legfeljebb 100 tonna meggyet, illetve legfeljebb 200 tonna almát dolgoz fel.
