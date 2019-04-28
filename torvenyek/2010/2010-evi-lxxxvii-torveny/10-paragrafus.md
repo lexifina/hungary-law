@@ -1,4 +1,4 @@
-10. § (1) A Tanács elnökét és további négy tagját a miniszter nevezi ki.
+10. § (1) A Tanács elnökét és további hat tagját a miniszter nevezi ki.
 
 (2) A Tanács elnöke és tagja (a továbbiakban együtt: tag) magyar állampolgár lehet. A Tanács tagja nem lehet:
 
