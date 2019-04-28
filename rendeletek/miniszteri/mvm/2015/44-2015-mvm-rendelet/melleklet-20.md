@@ -64,6 +64,6 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben 3 súlyszám helyett fontosság is megadható 4 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges |
 
-20. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^96]
+20. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^97]
 
-[^96]: A 20. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (5) bekezdésével megállapított szöveg.
+[^97]: A 20. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (5) bekezdésével megállapított szöveg.

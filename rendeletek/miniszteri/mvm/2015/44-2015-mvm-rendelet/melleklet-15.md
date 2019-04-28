@@ -26,6 +26,6 @@
 
 ## 2 adott esetben
 
-15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^93]
+15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^94]
 
-[^93]: A 15. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^94]: A 15. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (2) bekezdésével megállapított szöveg.

@@ -32,7 +32,7 @@
 
 ## 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-4. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^88]
+4. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^89]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -206,4 +206,4 @@ V. szakasz: Az eljárás eredménye 1
 
 VI. szakasz: Kiegészítő információk
 
-[^88]: A 4. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^89]: A 4. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (1) bekezdésével megállapított szöveg.
