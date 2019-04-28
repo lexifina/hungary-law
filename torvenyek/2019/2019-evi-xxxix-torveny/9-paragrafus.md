@@ -1,3 +1,1 @@
-9. § Az Atv. „Vegyes és hatályba léptető rendelkezések” című alcíme a következő 66/G. §-sal egészül ki:
-
-„66/G. § A 11/A. § (1b)–(1d) bekezdését az atomenergiáról szóló 1996. évi CXVI. törvény és a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosításáról szóló 2019. évi XXXIX. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+9. §
