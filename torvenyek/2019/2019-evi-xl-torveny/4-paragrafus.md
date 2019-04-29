@@ -1,3 +1,1 @@
-4. § A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény (a továbbiakban: Mgtp.) 7. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az (1) és (2) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, ágazatfelügyeleti bírságot szab ki, amelynek legkisebb mértéke tízezer forint, legmagasabb mértéke 50 millió forint, de legfeljebb az elmarasztalt szerződő fél által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tíz százaléka.”
+4. §
