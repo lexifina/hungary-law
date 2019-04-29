@@ -1,1 +1,3 @@
-## „c) a közbeszerzési eljárást megindító, illetve meghirdető felhívás, a koncessziós beszerzési eljárást megindító, illetve meghirdető felhívás, a tervpályázati kiírás módosítása, továbbá az ajánlattételi vagy részvételi, illetve pályaművek benyújtására vonatkozó határidő meghosszabbítását tartalmazó hirdetmény esetében 80 000 forint,”
+## 13. §[^2]
+
+[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
