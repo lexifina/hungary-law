@@ -14,12 +14,15 @@ d)[^20] a Bizottság 2005/28/EK irányelve (2005. április 8.) a helyes klinikai
 
 e)[^21] az Európai Parlament és a Tanács 2010/84/EU irányelve (2010. december 15.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról;
 
-f)[^22] az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról, 1. cikk 2. pont, 4-6. pont, 10. pont és 21. pont.
+f)[^22] az Európai Parlament és a Tanács 2011/62/EU irányelve (2011. június 8.) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról, 1. cikk 2. pont, 4-6. pont, 10. pont és 21. pont;
 
-(3)[^23] Ez a rendelet a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004. EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+g)[^23] a Bizottság 2017. szeptember 15-i (EU) 2017/1572 irányelve a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről.
+
+(3)[^24] Ez a rendelet a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004. EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 [^19]: Az 5. §-t a 8/2018. (II. 13.) EMMI rendelet 29. § c) pontja hatályon kívül helyezte.
 [^20]: A 6. § (2) bekezdésének d) pontját a 31/2006. (VIII. 23.) EüM rendelet 2. §-a iktatta be.
 [^21]: A 6. § (2) bekezdés e) pontját a 15/2012. (VIII. 22.) EMMI rendelet 32. §-a iktatta be.
 [^22]: A 6. § (2) bekezdés f) pontját az 53/2012. (XII. 28.) EMMI rendelet 17. §-a iktatta be.
-[^23]: A 6. § (3) bekezdését az 53/2008. (XII. 31.) EüM rendelet 3. § (2) bekezdése iktatta be.
+[^23]: A 6. § (2) bekezdés g) pontját a 9/2019. (IV. 29.) EMMI rendelet 5. §-a iktatta be.
+[^24]: A 6. § (3) bekezdését az 53/2008. (XII. 31.) EüM rendelet 3. § (2) bekezdése iktatta be.

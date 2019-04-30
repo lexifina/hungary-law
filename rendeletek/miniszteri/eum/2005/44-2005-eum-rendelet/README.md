@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-44-20-0
 | 2014-03-15 | 2005-44-20-0B.11 | 2/2012. (I. 3.) NEFMI rendelet |
 | 2015-04-29 | 2005-44-20-0B.12 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2018-02-14 | 2005-44-20-0B.13 | 8/2018. (II. 13.) EMMI rendelet |
+| 2019-04-30 | 2005-44-20-0B.14 | 9/2019. (IV. 29.) EMMI rendelet |
