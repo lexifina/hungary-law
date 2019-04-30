@@ -18,7 +18,7 @@ b) azoknak a gyógyszereknek a körét, amelyek forgalomba hozatali engedélye v
 
 (6)[^95] Az (1) bekezdés a) pontja szerinti listát az OGYÉI a közzététellel egyidejűleg megküldi a Bizottságnak, az Ügynökségnek és a tagállamoknak.
 
-(7)[^96] A jogosult a gyógyszer kereskedelmi forgalomba hozatalát megelőzően köteles a gyógyszer – első forgalomba hozatalra szánt gyártási tételéből származó – végleges mintáját vagy mintájának fényképét az OGYÉI részére megküldeni. Az OGYÉI a végleges mintát – az átvételétől számított 8 napon belül – megvizsgálja. Ha a vizsgálat eredményeként az OGYÉI azt állapítja meg, hogy a minta nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek, a gyógyszer nem hozható forgalomba.
+(7)[^96] A jogosult a gyógyszer első magyarországi kereskedelmi forgalomba hozatalát, valamint a gyógyszer csomagolását vagy a betegtájékoztatót érintő változás esetén a gyógyszer magyarországi kereskedelmi forgalomba hozatalát követő nyolcadik napig tájékoztatásul megküldi az OGYÉI részére a gyógyszer végleges mintáját vagy mintájának fényképét, valamint a gyógyszernek a gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott felszabadítási bizonylatát annak jogosult általi igazolása céljából, hogy a gyógyszer a forgalomba hozatali engedélyben foglaltaknak megfelel.
 
 (8)[^97] Az OGYÉI értesíti az Ügynökséget azokról a forgalomba hozatali engedélyekről, amelyeket a Gytv. 7. § (3)–(4) bekezdése, 7/A. §-a alapján feltételekhez kötve adott meg.
 
@@ -28,5 +28,5 @@ b) azoknak a gyógyszereknek a körét, amelyek forgalomba hozatali engedélye v
 [^93]: A 33. § (4) bekezdése a 3/2014. (I. 16.) EMMI rendelet 21. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § b) és d) pontja szerint módosított szöveg.
 [^94]: A 33. § (4a) bekezdését az 52/2012. (XII. 27.) EMMI rendelet 24. §-a iktatta be, hatályon kívül helyezte a 3/2014. (I. 16.) EMMI rendelet 22. §-a.
 [^95]: A 33. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
-[^96]: A 33. § (7) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 26. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § b) és d) pontja szerint módosított szöveg.
+[^96]: A 33. § (7) bekezdése a 9/2019. (IV. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
 [^97]: A 33. § (8) bekezdését a 15/2012. (VIII. 22.) EMMI rendelet 42. § (2) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja, a 8/2018. (II. 13.) EMMI rendelet 32. § j) pontja szerint módosított szöveg.
