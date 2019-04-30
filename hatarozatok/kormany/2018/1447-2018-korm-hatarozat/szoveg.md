@@ -2,9 +2,9 @@ A Kormány a Széchenyi lánchíd, a budai Váralagút és a hozzájuk kapcsoló
 
 1. támogatja, hogy Budapest Főváros Önkormányzata a Széchenyi lánchíd és a budai Váralagút teljes körű rekonstrukcióját egy időben, a fővárosi közlekedés lehető legkisebb korlátozásával és a műszakilag lehetséges leggyorsabb ütemezéssel valósítsa meg, azzal, hogy a gépjárműforgalom ezen közúti szakaszon való teljes vagy részleges korlátozása ne haladja meg a 18 hónap időtartamot;
 
-2. egyetért a Beruházás megvalósítása érdekében összesen legfeljebb 7 000 000 000 forint központi költségvetési támogatás biztosításával;
+2.[^1] egyetért a Beruházás megvalósítása érdekében összesen legfeljebb 6 000 000 000 forint központi költségvetési támogatás biztosításával;
 
-3. felhívja a pénzügyminisztert, hogy az 1. és 2. pont végrehajtása érdekében – a Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljáró Miniszterelnökséget vezető miniszter közreműködésével – gondoskodjon 7 000 000 000 forint rendelkezésre állásáról a Beruházás megvalósításának finanszírozása céljára Magyarország 2020. évi központi költségvetésének XI. Miniszterelnökség fejezetében erre a célra létrehozott önálló előirányzaton;
+3.[^2] felhívja a pénzügyminisztert, hogy az 1. és 2. pont végrehajtása érdekében – a Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljáró Miniszterelnökséget vezető miniszter közreműködésével – gondoskodjon 6 000 000 000 forint rendelkezésre állásáról a Beruházás megvalósításának finanszírozása céljára Magyarország 2020. évi központi költségvetésének XI. Miniszterelnökség fejezetében erre a célra létrehozott önálló előirányzaton;
 
 Felelős: pénzügyminiszter
 
@@ -14,7 +14,7 @@ Határidő: Magyarország 2020. évi központi költségvetésének tervezése s
 
 4. felhívja a Miniszterelnökséget vezető minisztert, hogy a Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljárva a 2. pont szerinti támogatás felhasználásának és utólagos elszámolásának feltételeiről, valamint a Beruházás műszaki tartalmának és ütemezésének rögzítésével Budapest Főváros Önkormányzatával támogatási szerződést kössön, azzal, hogy
 
-a) a Beruházás részeként történjen meg a Széchenyi lánchíd gyalogosforgalmat bonyolító járdakonzolai szélesítése is,
+a)[^3]
 
 b) a 2. pont szerinti támogatás biztosításának feltételeként rögzíteni kell, hogy az 1. ponttal összhangban a gépjárműforgalom teljes vagy részleges korlátozása nem haladhatja meg a 18 hónap időtartamot,
 
@@ -47,3 +47,10 @@ Határidő: az 5. pont végrehajtása keretében
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2018. november 30.
+
+8.[^4] egyetért azzal, hogy Budapest Főváros Önkormányzata részére, a központi költségvetési terhére biztosításra kerüljön a Széchenyi lánchídhoz kapcsolódó közterek – a Budapest I. kerület, Clark Ádám tér, valamint a Budapest V. kerület, Széchenyi tér és József Attila utca – felújításával kapcsolatos tervezési és előkészítési feladatok elvégzéséhez szükséges támogatás.
+
+[^1]: A 2. pont az 1248/2019. (IV. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1248/2019. (IV. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 4. pont a) alpontját az 1248/2019. (IV. 30.) Korm. határozat 3. pontja visszavonta.
+[^4]: A 8. pontot az 1248/2019. (IV. 30.) Korm. határozat 1. pontja iktatta be.
