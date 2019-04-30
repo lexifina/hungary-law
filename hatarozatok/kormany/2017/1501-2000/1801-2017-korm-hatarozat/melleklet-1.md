@@ -18,8 +18,8 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2019. június 30.
+## Határidő: 2020. június 30.
 
 1. melléklet az 1801/2017. (XI. 8.) Korm. határozathoz
 
-[^1]: A 3. pont az 1080/2018. (III. 13.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1244/2019. (IV. 30.) Korm. határozat 7. pontja szerint módosított szöveg.
