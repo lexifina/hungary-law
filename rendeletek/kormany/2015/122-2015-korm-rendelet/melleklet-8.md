@@ -1,4 +1,4 @@
-8. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^38]
+8. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^64]
 
 I. rész: A szakpolitikai intézkedés alkalmazására vonatkozó módszertan kötelező tartalmi elemei
 
@@ -42,4 +42,4 @@ e) a számítás módja, beleértve az alkalmazott árrugalmasságot is.
 
 II. rész: Az egyes szakpolitikai intézkedések és megvalósításukért felelős végrehajtó hatóságok
 
-[^38]: A 8. melléklet a 393/2016. (XII. 5.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^64]: A 8. melléklet a 393/2016. (XII. 5.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 80/2019. (IV. 15.) Korm. rendelet 39. § l)–o) pontja szerint módosított szöveg.

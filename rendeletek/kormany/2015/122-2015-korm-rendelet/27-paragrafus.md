@@ -1,28 +1,31 @@
 ## 16. Határon átnyúló energetikai auditálási szolgáltatásnyújtás
 
-27. § (1) EGT tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenységére vonatkozó bejelentésének – magyar nyelvű fordításban – tartalmaznia kell
+27. § (1)[^51] EGT tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor határon átnyúló szolgáltatásnyújtás keretében folytatni kívánt tevékenység engedélyezésére irányuló kérelemnek – magyar nyelvű fordításban – tartalmaznia kell
 
-a)[^28] a 21. § (1) bekezdés a)–b), e) és g) pontjában foglalt adatokat,
+a)[^52] a 21. § (1) bekezdés a)–b), e) és g) pontjában foglalt adatokat,
 
-b)[^29] a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (3) bekezdésében foglaltakat,
+b)[^53] a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (3) bekezdésében foglaltakat,
 
 c) az e rendeletben meghatározott szakmai gyakorlatnak megfelelő gyakorlat igazolását,
 
 d) a büntetlen előélet igazolását,
 
-e) igazolást arról, hogy az energetikai auditor az energetikai auditálási tevékenység folytatása céljából jogszerűen letelepedett valamely EGT tagállamban,
+e)[^54]
 
 f) nyilatkozatot arról, hogy a szolgáltatásnyújtó a nyilatkozat benyújtásakor átmenetileg sincs eltiltva az energetikai auditálási tevékenység gyakorlásától,
 
-g)[^30] nyilatkozatot – az időtartam megjelölésével – arra vonatkozóan, hogy a bejelentését öt évnél rövidebb időtartamra kívánja megtenni.
+g)[^55]
 
-(2)[^31] Az energetikai auditáló szervezet bejelentésének – magyar nyelvű fordításban – tartalmaznia kell
+(2)[^56] Az energetikai auditáló szervezet engedély iránti kérelmének – magyar nyelvű fordításban – tartalmaznia kell
 
-a) az (1) bekezdés b) és e)–g) pontja szerinti nyilatkozatokat és iratokat, valamint
+a)[^57] az (1) bekezdés b) pontja szerinti nyilatkozatokat és iratokat, valamint
 
 b) a 21. § (2) bekezdés a)–d) pontjában foglalt adatokat, igazolást és nyilatkozatot.
 
-[^28]: A 27. § (1) bekezdés a) pontja a 391/2015. (XII. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^29]: A 27. § (1) bekezdés b) pontja a 391/2015. (XII. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^30]: A 27. § (1) bekezdés g) pontja a 391/2015. (XII. 11.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^31]: A 27. § (2) bekezdése a 391/2015. (XII. 11.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^51]: A 27. § (1) bekezdés nyitó szövegrésze a 80/2019. (IV. 15.) Korm. rendelet 39. § k) pontja szerint módosított szöveg.
+[^52]: A 27. § (1) bekezdés a) pontja a 391/2015. (XII. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^53]: A 27. § (1) bekezdés b) pontja a 391/2015. (XII. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^54]: A 27. § (1) bekezdés e) pontját a 80/2019. (IV. 15.) Korm. rendelet 40. § f) pontja hatályon kívül helyezte.
+[^55]: A 27. § (1) bekezdés g) pontját a 80/2019. (IV. 15.) Korm. rendelet 40. § f) pontja hatályon kívül helyezte.
+[^56]: A 27. § (2) bekezdése a 391/2015. (XII. 11.) Korm. rendelet 4. § (6) bekezdésével megállapított, nyitó szövegrésze a 80/2019. (IV. 15.) Korm. rendelet 39. § f) pontja szerint módosított szöveg.
+[^57]: A 27. § (2) bekezdés a) pontja a 80/2019. (IV. 15.) Korm. rendelet 40. § g) pontja szerint módosított szöveg.

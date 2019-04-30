@@ -6,11 +6,11 @@ b) az önkormányzatokkal folyamatos kapcsolatot tart fenn,
 
 c) ösztönzi a közintézményeket, hogy regionális és helyi szinten energetikai auditokat is magukba foglaló energiagazdálkodási rendszert hozzanak létre,
 
-d) szakmai segítséget nyújt a közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épületekre vonatkozó energiamegtakarítási intézkedési terv elkészítéséhez,
+d)[^12] szakmai segítséget nyújt a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épületekre vonatkozó energiamegtakarítási intézkedési terv elkészítéséhez,
 
-e) szakmai segítséget nyújt a közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület üzemeltetéséért felelős számára az épület energiafogyasztási adatainak bejelentésével kapcsolatban,
+e)[^13] szakmai segítséget nyújt a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület üzemeltetéséért felelős számára az épület energetikai és energiafogyasztási adatainak bejelentésével kapcsolatban,
 
-f) közreműködik a közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület használóinak energiahatékonysági szemléletformálásában,
+f)[^14] közreműködik a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület használóinak energiahatékonysági szemléletformálásában,
 
 g) közreműködik a megyei területfejlesztési program kidolgozásában,
 
@@ -37,3 +37,7 @@ b) tájékoztatást nyújt az elérhető energiahatékonysági pályázatokról.
 a) gondoskodik egyes alternatív szakpolitikai intézkedésekből származó megtakarítások szükség szerinti monitoringjáról, valamint az intézkedések ellenőrzéséről,
 
 b) közreműködik a helyi szintű energiabiztonsági válsághelyzetek kezelésében.
+
+[^12]: A 7/D. § (1) bekezdés d) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
+[^13]: A 7/D. § (1) bekezdés e) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b)–c) pontja szerint módosított szöveg.
+[^14]: A 7/D. § (1) bekezdés f) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
