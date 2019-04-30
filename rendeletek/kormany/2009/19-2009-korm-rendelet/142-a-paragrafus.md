@@ -1,0 +1,1 @@
+142/A. § A GET 123. §-a szerinti szavazati jogra, a közvetett befolyásra, a befolyásszerzés részletszabályaira, azok mértékének kiszámítására, valamint az összehangoltan eljáró személyekre a Tpt. rendelkezéseit kell megfelelően alkalmazni.

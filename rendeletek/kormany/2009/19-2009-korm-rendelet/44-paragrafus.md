@@ -1,14 +1,11 @@
-44. §[^170] A piaci verseny hatékonyságának elemzésekor a Hivatal figyelembe veszi:
+44. § A jelentős piaci erő eljárásban a Hivatal a kötelezettség előírása során figyelemmel van arra, hogy az előírt kötelezettség
 
-a) az érintett piacon működő három legnagyobb piaci részesedéssel rendelkező engedélyes együttes piaci részesedését, alkalmazva a 45. § a) pontjában az engedélyes piaci erejének megítélésére vonatkozó szabályokat,
+a) a versenyhiány következményeinek kiküszöbölésére irányuljon,
 
-b) az érintett piac likviditását, azaz az áruk és szolgáltatások gyors és alacsony költségek melletti értékesíthetőségét, illetve beszerezhetőségét,
+b) hozzájáruljon a kellően hatékony és fenntartható piaci verseny elősegítéséhez,
 
-c) az érintett piacon értékesített áruk és szolgáltatások árának alakulását és a piacon tevékenykedő vállalkozások árképzési gyakorlatát,
+c) hozzájáruljon a felhasználói érdekek védelméhez,
 
-d)[^171] a felhasználók szolgáltató váltásának mértékét, azaz a vizsgált időszakban bekövetkezett összes szolgáltató váltásnak a felhasználókkal kötött összes földgáz-kereskedelmi szerződésen belüli arányát,
+d) a versenyt korlátozó akadályokkal arányos legyen, valamint
 
-e) az érintett piacon megfigyelhető verseny többi piacra gyakorolt hatását.
-
-[^170]: A Vhr. 44. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^171]: A Vhr. 44. § d) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (5) bekezdése szerint módosított szöveg.
+e) figyelembe vegye az érintett piac sajátosságait.

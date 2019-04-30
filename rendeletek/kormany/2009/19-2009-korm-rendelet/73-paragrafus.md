@@ -2,7 +2,7 @@
 
 ## Kapacitáslekötés és az együttműködő földgázrendszerhez való hozzáférés
 
-73. §[^282] (1) A kapacitáslekötési platform szabályzat a kapacitáslekötési és aukciós folyamatok működési szabályait, a rendszerhasználói részvétel feltételeit, a kapacitáslekötési platform szabályzat használatára vonatkozó szerződés szabályait, a kapacitástermékeket, a szerződő felek jogait és kötelezettségeit, továbbá az alkalmazott pénzügyi biztosíték rendszert tartalmazza.
+73. §[^280] (1) A kapacitáslekötési platform szabályzat a kapacitáslekötési és aukciós folyamatok működési szabályait, a rendszerhasználói részvétel feltételeit, a kapacitáslekötési platform szabályzat használatára vonatkozó szerződés szabályait, a kapacitástermékeket, a szerződő felek jogait és kötelezettségeit, továbbá az alkalmazott pénzügyi biztosíték rendszert tartalmazza.
 
 (2) A szállítási rendszerüzemeltető által működtetett kapacitáslekötési platform szabályzatot a Hivatal hagyja jóvá.
 
@@ -12,4 +12,4 @@
 
 (5) A kapacitáslekötési platform használatának díját a rendszerhasználók vonatkozásában a szállítási rendszerhasználati díjak tartalmazzák.
 
-[^282]: A Vhr. 73. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^280]: A Vhr. 73. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

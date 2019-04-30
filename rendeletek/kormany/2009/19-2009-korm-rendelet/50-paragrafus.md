@@ -1,3 +1,1 @@
-50. §[^178] A Hivatal előírhatja, hogy a kiskereskedelmi piacokon jelentős piaci erővel rendelkező engedélyes egyetemes szolgáltatásra jogosult felhasználók részére értékesített szolgáltatási csomagjaira vonatkozó szerződéses kondíciókat a Hivatal határozata szerinti bontásban és részletezettségben, üzletszabályzatában és honlapján tegye közzé. A közzétett szerződéses kondíciók az engedélyest minden egyetemes szolgáltatásra jogosult felhasználó irányában kötik, azoktól egyetlen szolgáltatási csomag esetén sem térhet el.
-
-[^178]: A Vhr. 50. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+50. §

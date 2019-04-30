@@ -1,11 +1,3 @@
-46. §[^173] (1) A piaci verseny előmozdításához szükséges átláthatóság biztosítása érdekében a Hivatal különösen az alábbi információknak legalább az engedélyes honlapján történő nyilvánosságra hozatalára kötelezheti a jelentős piaci erővel rendelkező engedélyest:
+46. § (1) Az árkorlát alkalmazásának vagy a költségalapú árképzésnek az előírása esetén a Hivatal megvizsgálja az engedélyesi tevékenység végzésével összefüggésben felmerült költségek indokoltságát az engedélyestől bekért gazdasági és műszaki adatok, összehasonlító (benchmark) adatok, valamint piaci modellezés alapján, és megállapítja, hogy a felmerült költségek mennyiben ismerhetők el indokolt költségnek.
 
-a) az engedélyes által megvásárolt, átvételi kötelezettséget tartalmazó szerződésekkel lekötött, illetve ilyen szerződések keretében átvett földgáz mennyisége, szerződő felenként,
-
-b) az engedélyes adott piaci szegmensben alkalmazott értékesítési szerződéseinek mintapéldánya vagy értékesítési szerződéseinek kondíciós listája, különös tekintettel a szerződés időtartamára, a szerződő felek jogaira és kötelezettségeire, a szerződés tárgyát képező termékek és szolgáltatás tartalmának és árának meghatározására.
-
-(2) A Hivatal honlapján közzéteszi a nyilvánosságra hozatalra kötelezett engedélyesek listáját, az engedélyesekre vonatkozóan előírt kötelezettséget, valamint az engedélyes honlapjának elérhetőségét.
-
-(3) Ha a Hivatal az (1) bekezdés szerinti nyilvánosságra hozatalra kötelezi a jelentős piaci erővel rendelkező engedélyest, úgy az engedélyes a közzétett információkban bekövetkezett változást is – a változás bekövetkeztét követően haladéktalanul – köteles nyilvánosságra hozni.
-
-[^173]: A Vhr. 46. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+(2) A méltányos megtérülés az engedélyesi tevékenység végzésével felmerült indokolt költségek, valamint befektetések alapján határozható meg. Árkorlát az indokolt költségek, valamint az indokolt költségek és befektetések méltányos megtérülése, továbbá az érintett piacon várható piaci árak figyelembevételével alkalmazható.

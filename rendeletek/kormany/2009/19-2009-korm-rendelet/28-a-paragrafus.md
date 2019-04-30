@@ -1,3 +1,3 @@
-28/A. §[^140] Ha a földgázkereskedő egyetemes szolgáltatásra vonatkozó engedéllyel is rendelkezik, az engedélyes a nyilvántartásaiban és a rendszerhasználati szerződésekben az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges földgázmennyiségre vonatkozó adatokat elkülönítetten tartja nyilván és kezeli.
+28/A. §[^141] Ha a földgázkereskedő egyetemes szolgáltatásra vonatkozó engedéllyel is rendelkezik, az engedélyes a nyilvántartásaiban és a rendszerhasználati szerződésekben az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges földgázmennyiségre vonatkozó adatokat elkülönítetten tartja nyilván és kezeli.
 
-[^140]: A Vhr. 28/A. §-át újonnan a 497/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^141]: A Vhr. 28/A. §-át újonnan a 497/2017. (XII. 29.) Korm. rendelet 7. §-a iktatta be.

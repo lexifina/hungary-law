@@ -1,6 +1,6 @@
-## A földgázellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^215]
+## A földgázellátásból történő kikapcsolás alóli mentességre vonatkozó részletes szabályok[^213]
 
-55/A. §[^216] A GET és e rendelet alkalmazásában közintézményi felhasználó
+55/A. §[^214] A GET és e rendelet alkalmazásában közintézményi felhasználó
 
 a) a közoktatásról szóló törvény szerinti óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda vagy iskola, és az ezekhez tartozó kollégium, ha
 
@@ -14,7 +14,7 @@ ba) állami vagy önkormányzati fenntartású, vagy
 
 bb) állami vagy önkormányzati feladatok ellátására hatályos ellátási szerződéssel rendelkezik,
 
-c)[^217] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
+c)[^215] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti bölcsődei ellátást nyújtó intézmény és szolgáltató, napközbeni gyermekfelügyelet, gyermekek átmeneti otthona, családok átmeneti otthona, gyermekotthon, lakásotthon, utógondozói otthon és javítóintézet, ha
 
 ca) állami vagy önkormányzati fenntartású, vagy
 
@@ -26,6 +26,6 @@ da) állami vagy önkormányzati fenntartású, vagy
 
 db) egészségügyi közszolgáltatás biztosítására vonatkozó hatályos szerződéssel rendelkezik.
 
-[^215]: A Vhr. 55/A. §-t megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
-[^216]: A Vhr. 55/A. §-t a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
-[^217]: A Vhr. 55/A. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^213]: A Vhr. 55/A. §-t megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
+[^214]: A Vhr. 55/A. §-t a 378/2011. (XII. 31.) Korm. rendelet 47. §-a iktatta be.
+[^215]: A Vhr. 55/A. § c) pont nyitó szövegrésze a 191/2016. (VII. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.

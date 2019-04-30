@@ -2,7 +2,7 @@
 
 Üzletszabályzatok
 
-A benyújtandó üzletszabályzatok formátumára vonatkozó előírások[^626]
+A benyújtandó üzletszabályzatok formátumára vonatkozó előírások[^616]
 
 1. Az üzletszabályzatot elektronikus úton, szerkeszthető formában kell jóváhagyásra benyújtani. Az üzletszabályzat módosításának kérelmezése esetében szükséges korrektúrás változat benyújtása is, amelyben egyértelműen meg kell jelölni (például színeltéréssel) a módosításokat, továbbá azok indokát.
 
@@ -14,13 +14,13 @@ A benyújtandó üzletszabályzatok formátumára vonatkozó előírások[^626]
 
 5. Az eljárás során véglegezett, jóváhagyásra kerülő üzletszabályzatot két, cégszerű aláírással ellátott példányban papír alapon is be kell nyújtani a Hivatal számára.
 
-Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása[^627]
+Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása[^617]
 
 Az üzletszabályzatok jóváhagyásra történő benyújtása során csatolni szükséges a társadalmi szervezetekkel történt egyeztetések eredményeit tanúsító iratokat. Ha a társadalmi érdekképviseletekkel az egyetértés megvan, azt elegendő röviden jelezni. Ha az egyetértés hiányzik, a kifogásokat – a kifogást tevő pontos megnevezését és az elutasítás indokát tartalmazó összefoglaló táblázatot – csatolni kell a Vhr. 121. §-ában foglaltaknak megfelelően jóváhagyásra beterjesztett üzletszabályzat mellékleteként. A csatolt dokumentumot az abban érintett érdekelt felek aláírásukkal hitelesítik.
 
 Az üzletszabályzatok kötelező tartalmi követelményei
 
-1.1.[^628] A szállítási rendszerüzemeltető üzletszabályzatának tartalmi elemei
+1.1.[^618] A szállítási rendszerüzemeltető üzletszabályzatának tartalmi elemei
 
 1. Az üzletszabályzat hatálya és érvényességi köre, fogalommeghatározások, az engedélyesre vonatkozó adatok, az engedélyes által végzett tevékenység bemutatása.
 
@@ -54,7 +54,7 @@ b) az engedélyesek által működtetett rendszer üzemviteli irányítási rend
 
 6. A rendszerhasználói igény kielégítésének módjai és részletes szabályai:
 
-a)[^629] az igénykielégítés feltételei, a rendszerhasználóval kötött szállítási rendszerüzemeltetési szerződés,
+a)[^619] az igénykielégítés feltételei, a rendszerhasználóval kötött szállítási rendszerüzemeltetési szerződés,
 
 b) az igénybejelentő részére történő tájékoztatás rendje és szabályai,
 
@@ -118,13 +118,11 @@ a) az általa végzett, az alaptevékenységhez kapcsolódó szolgáltatások be
 
 b) az engedélyes által a felhasználók igénye alapján külön díj ellenében végezhető, alapszolgáltatáson túli kiegészítő szolgáltatások köre és díja.
 
-11.[^630] A szállítóvezetékkel összefüggésben a csatlakozás és kapacitásnövelés általános műszaki és pénzügyi feltételei.
+11.[^620] A szállítóvezetékkel összefüggésben a csatlakozás és kapacitásnövelés általános műszaki és pénzügyi feltételei.
 
 Mellékletek
 
 1. A működtetett rendszer leírása, műszaki adatai.
-
-2. Az ügyfélszolgálat elérhetősége.
 
 3. A csatlakozás pénzügyi feltétele és a megállapodás dokumentum mintái.
 
@@ -132,21 +130,9 @@ Mellékletek
 
 5. Szerződésminták.
 
-6. A korlátozási menetrend sorrend.
-
-7. Minőség Elszámolási Rend.
-
 8. Eljárásrend a szerződésszegés és szabálytalan vételezés esetén, kötbértábla.
 
-Függelék
-
-1. A társaság szervezeti felépítése.
-
-2. Jogszabályok, szabványok, belső utasítások.
-
-3. Az érdek-képviseleti szervezetek felsorolása.
-
-1.2. A földgázelosztó üzletszabályzatának tartalmi elemei
+1.2.[^621] A földgázelosztó üzletszabályzatának tartalmi elemei
 
 1. Az üzletszabályzat hatálya és érvényességi köre, fogalommeghatározások, az engedélyesre vonatkozó adatok, az engedélyes által végzett tevékenység bemutatása.
 
@@ -182,11 +168,11 @@ a) a folyamatos és biztonságos szolgáltatásra vonatkozó, üzleti titkok kö
 
 b) az engedélyesek által működtetett rendszer üzemviteli irányítási rendje, beleértve az ezek távfelügyeletét és adatforgalmát biztosító rendszert,
 
-c)[^631] Az alkalmazott fogyasztásmérő berendezés mérőteljesítményére és a fogyasztói nyomásszabályozóra vonatkozó műszaki követelmények, valamint a fogyasztásmérő berendezés cseréjének eljárási és formai feltételei,
+c)[^622] Az alkalmazott fogyasztásmérő berendezés mérőteljesítményére és a fogyasztói nyomásszabályozóra vonatkozó műszaki követelmények, valamint a fogyasztásmérő berendezés cseréjének eljárási és formai feltételei,
 
-d)[^632] a földgáz mennyisége mellett szükséges egyéb jellemzők mérési adatainak képzése és a mérési adatok közreadása.
+d)[^623] a földgáz mennyisége mellett szükséges egyéb jellemzők mérési adatainak képzése és a mérési adatok közreadása.
 
-6.[^633] A felhasználói igény kielégítésének módjai és részletes szabályai:
+6.[^624] A felhasználói igény kielégítésének módjai és részletes szabályai:
 
 a) az igény-kielégítés feltételei, a felhasználóval kötött csatlakozási szerződés mintája, tartalmi elemei,
 
@@ -200,7 +186,7 @@ e) a felhasználó személyében történt változás esetén alkalmazott eljár
 
 f) a csatlakozóvezeték és a felhasználói berendezés készítése, átalakítása vagy megszüntetése esetén készült kiviteli terv műszaki-biztonsági felülvizsgálatának eljárása, díjai.
 
-7.[^634] A szerződési feltételek az elosztói csatlakozási és az elosztóhálózat-használati szerződésekhez:
+7.[^625] A szerződési feltételek az elosztói csatlakozási és az elosztóhálózat-használati szerződésekhez:
 
 a) általános szerződéses feltételek, különösen a felek jogai és kötelezettségei,
 
@@ -248,7 +234,7 @@ hi) a késedelmes fizetés esetére alkalmazható szankciók,
 
 i) a fogyasztásmérő berendezés nélküli fogyasztás feltételei.
 
-8.[^635] Szabálytalan és szerződés nélküli vételezésre vonatkozó szabályok:
+8.[^626] Szabálytalan és szerződés nélküli vételezésre vonatkozó szabályok:
 
 a) a szerződésszegés esetei,
 
@@ -292,15 +278,13 @@ c) kölcsönös értesítések rendje, határideje, módja.
 
 a) az engedélyes által végzett, az alaptevékenységhez kapcsolódó szolgáltatások felsorolása,
 
-b) az engedélyes által a felhasználók igénye alapján külön díj ellenében végezhető, alapszolgáltatáson túli kiegészítő szolgáltatások körét és díját.
+b)[^627]
 
-14.[^636] Az elosztóvezetékkel összefüggésben a csatlakozás és kapacitásnövelés általános műszaki és pénzügyi feltételei.
+14.[^628] Az elosztóvezetékkel összefüggésben a csatlakozás és kapacitásnövelés általános műszaki és pénzügyi feltételei.
 
 Mellékletek
 
 1. A működtetett rendszer leírása, műszaki adatai.
-
-2. Ügyfélszolgálati irodák felsorolása, azok nyitvatartása.
 
 3. Telefonszámok, postacímek, egyéb elérhetőségek.
 
@@ -314,17 +298,7 @@ Mellékletek
 
 8. Kötbértábla.
 
-Függelék
-
-1. A társaság szervezeti felépítése.
-
-2. Jogszabályok, szabványok, belső utasítások.
-
-3. Az érdek-képviseleti szervezetek felsorolása.
-
-4. A társasági azonosító bemutatása.
-
-1.3. A földgáztároló üzletszabályzatának tartalmi elemei
+1.3.[^629] A földgáztároló üzletszabályzatának tartalmi elemei
 
 1. Az üzletszabályzat hatálya és érvényességi köre, fogalommeghatározások, az engedélyesre vonatkozó adatok, az engedélyes által végzett tevékenység bemutatása, a tárolórendszerek jellemző adatai.
 
@@ -458,8 +432,6 @@ Mellékletek
 
 1. A működtetett rendszer leírása, műszaki adatai.
 
-2. Az ügyfélszolgálat elérhetősége.
-
 3. A tárolás pénzügyi feltételei és a megállapodás dokumentum mintái.
 
 4. Elszámolás során alkalmazott számítási eljárás, paraméterek.
@@ -476,26 +448,97 @@ Mellékletek
 
 7. Eljárásrend a szerződésszegés esetén.
 
-Függelék
-
-1. A társaság szervezeti felépítése.
-
-2. Jogszabályok, szabványok, belső utasítások.
-
-3. Az érdek-képviseleti szervezetek felsorolása.
-
-1.4. Az egyetemes szolgáltató üzletszabályzatának tartalmi elemei
+1.4.[^630] Az egyetemes szolgáltató üzletszabályzatának tartalmi elemei
 
 1. Az üzletszabályzat hatálya, fogalommeghatározások, az engedélyesre vonatkozó adatok, az engedélyes által végzett tevékenység bemutatása.
 
-[^626]: A Vhr. 4. mellékletének „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” alcíme a 275/2017. (IX. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^627]: A Vhr. 4. mellékletének „Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása” alcíme a 275/2017. (IX. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^628]: A Vhr. 4. számú melléklet 1.1. pont címe a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
-[^629]: A Vhr. 4. számú melléklet 1.1. pont 6. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
-[^630]: A Vhr. 4. számú melléklet 1.1. pont 11. alpontját a 300/2013. (VII. 29.) Korm. rendelet 18. §-a iktatta be.
-[^631]: A Vhr. 4. számú melléklet 1.2. pont 5. pont c) alpontját a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése iktatta be.
-[^632]: A Vhr. 4. számú melléklet 1.2. pont 5. pont d) alpontját a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése iktatta be.
-[^633]: A Vhr. 4. számú melléklet 1.2. pont 6. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
-[^634]: A Vhr. 4. számú melléklet 1.2. pont 7. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
-[^635]: A Vhr. 4. számú melléklet 1.2. pont 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
-[^636]: A Vhr. 4. számú melléklet 1.2. pont 14. alpontját a 300/2013. (VII. 29.) Korm. rendelet 18. §-a iktatta be.
+2. Az engedélyes külső környezettel való kapcsolata:
+
+a) felettes szervekkel való kapcsolat,
+
+b) a fogyasztói kapcsolattartás szervezetének és működésének rendje.
+
+3. Az üzletszabályzattól – mint általános szerződési feltételrendszertől – történő eltérés lehetőségei, egyedi feltételek kialakításának lehetősége. Egyedi feltételek alkalmazása esetén az engedélyes köteles az egyedi feltételeket nyilvánosságra hozni, és azokat minden, a feltételeket teljesítő szerződő fél részére biztosítani. E rendelkezést az üzletszabályzatban fel kell tüntetni, a nyilvánosságra hozatal helyének megjelölésével együtt.
+
+4. Általános biztonsági előírások:
+
+a) fogyasztók és rendszerhasználók biztonságos ellátására vonatkozó garanciák és az ellátást biztosító rendelkezések,
+
+b) az adatvédelemre vonatkozó biztosítékok (a szerződő fél kezelt adatainak köre, azon személyek megjelölése, akik számára a kezelt adatok, vagy azok meghatározott részei átadhatók, eljárásrend a személyes adatokhoz fűződő jogok megsértése esetén),
+
+c) a környezetvédelmi előírások és az előírást biztosító rendelkezések.
+
+5. Az ellátás minőségi és szolgáltatási színvonala:
+
+a) az engedélyes tevékenység minőségi jellemzői,
+
+b) a forgalmazott gáz minőségi előírásai,
+
+c) a gázminőség ellenőrzésének részletes eljárásrendje,
+
+d) a szolgáltatás színvonalának eljárásrendje és mutatói,
+
+e) a fogyasztói elégedettség vizsgálat bemutatása.
+
+6. Az engedélyes által nyújtott szolgáltatás részletes bemutatása, ehhez kapcsolódóan:
+
+a) a szolgáltatást igénybe venni kívánó felhasználó szerződéskötési igényének kezelése (folyamat a szerződéskötésig, a szerződéskötést megelőzően a felek által teljesítendő feltételek)
+
+aa) igénybejelentés rendje,
+
+ab) tájékoztatás az igénybejelentésre az engedélyes részéről, annak megjelölésével, hogy más engedélyeseknél történő eljárást megbízási szerződés alapján lát el, mely engedélyeseknél és milyen feltételek szerint,
+
+ac) a szerződéskötéshez szükséges adatok, iratok biztosításának rendje,
+
+ad) a szerződő partnerrel szemben támasztott követelmények,
+
+ae) ajánlattétel szabályai, ajánlati kötöttség,
+
+b) a szerződéskötésre vonatkozó szabályok
+
+ba) a szerződés létrejöttének módja, a létrejövő szerződést – annak teljes tartalmával – írásba kell foglalni,
+
+bb) a szerződés hatálybalépéséhez szükséges esetleges további feltételek,
+
+c) a szerződés módosítása
+
+ca) a szerződés egyoldalú módosításának esetei, a módosítás közzétételének módjára és határidejére vonatkozó előírások,
+
+cb) a felhasználónál történt változás esetén alkalmazott eljárás,
+
+d) a szerződés teljesítésére vonatkozó rendelkezések
+
+da) az engedélyes által nyújtott szolgáltatás mennyiségi és minőségi paraméterei,
+
+db) leolvasás gyakorisága, rendje,
+
+dc) mérés, elszámolás hibás mérés esetén,
+
+dd) a mérés és az elszámolás során alkalmazott számítások részletes szabályai,
+
+de) az elszámolás alapja, elszámolási időszakok,
+
+df) a számlázás rendje,
+
+dg)[^631] jogszabályban vagy a Hivatal által meghatározott ár, annak alkalmazási feltételei és az árhoz képest alkalmazott árengedményezés szabályai, az árváltozás bejelentésének módjára és határidejére vonatkozó előírások,
+
+dh) választható fizetési és elszámolási módok és határidők,
+
+di) fizetési és elszámolási módok közötti váltás lehetőségére, módjára, feltételeire, az igénybe vehető kedvezményekre és az igénybevétel feltételeire vonatkozó aktuális tájékoztatás elérhetősége,
+
+[^616]: A Vhr. 4. mellékletének „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” alcíme a 275/2017. (IX. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^617]: A Vhr. 4. mellékletének „Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása” alcíme a 275/2017. (IX. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^618]: A Vhr. 4. számú melléklet 1.1. pont címe a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg. A Vhr. 4. számú melléklet 1.1. alcíme 80/2019. (IV. 15.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.
+[^619]: A Vhr. 4. számú melléklet 1.1. pont 6. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
+[^620]: A Vhr. 4. számú melléklet 1.1. pont 11. alpontját a 300/2013. (VII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^621]: A Vhr. 4. számú melléklet 1.2. alcíme a 80/2019. (IV. 15.) Korm. rendelet 31. § d) pontja szerint módosított szöveg.
+[^622]: A Vhr. 4. számú melléklet 1.2. pont 5. pont c) alpontját a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése iktatta be.
+[^623]: A Vhr. 4. számú melléklet 1.2. pont 5. pont d) alpontját a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése iktatta be.
+[^624]: A Vhr. 4. számú melléklet 1.2. pont 6. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^625]: A Vhr. 4. számú melléklet 1.2. pont 7. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^626]: A Vhr. 4. számú melléklet 1.2. pont 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^627]: A Vhr. 4. számú melléklet 1.2. pont 13. pont b) alpontját a 80/2019. (IV. 15.) Korm. rendelet 31. § e) pontja hatályon kívül helyezte.
+[^628]: A Vhr. 4. számú melléklet 1.2. pont 14. alpontját a 300/2013. (VII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^629]: A Vhr. 4. számú melléklet 1.3. alcíme a 80/2019. (IV. 15.) Korm. rendelet 31. § f) pontja szerint módosított szöveg.
+[^630]: A Vhr. 4. számú melléklet 1.4. alcíme a 80/2019. (IV. 15.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
+[^631]: A Vhr. 4. számú melléklet 1.4. pont 6. pont d) pont dg) alpontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.

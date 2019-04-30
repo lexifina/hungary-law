@@ -1,19 +1,30 @@
-## (A GET 55–61. §-ához)
+## (A GET III. Fejezetéhez)[^171]
 
-## Jelentős piaci erővel rendelkező engedélyes
+## A földgázpiaci verseny elősegítése
 
-43. §[^169] (1) A GET 55. § (1) bekezdésében meghatározott piacokon a Hivatal a keresleti és kínálati helyettesíthetőség alapján azonosítja az érintett piacokat. A Hivatal az érintett piacok azonosítását, a piaci verseny hatékonyságának elemzését, a jelentős piaci erővel rendelkező engedélyesek azonosítását, valamint a rájuk vonatkozó kötelezettségek előírását a versenyjog vonatkozó szabályaival összhangban, a magyar földgáz-piac sajátosságainak, valamint a Gazdasági Versenyhivatal és az Európai Unió Bizottságának korábbi vizsgálati eredményeinek figyelembevételével végzi el.
+43. §[^172] (1) A jelentős piaci erő eljárásban a Hivatal az általa meghatározott érintett piacokon a piaci erő vizsgálatakor az alábbiakat mérlegeli:
 
-(2) E cím alkalmazásában érintett piac a Hivatal által – a versenyjog szabályaival összhangban – meghatározott, keresleti és kínálati helyettesíthetőséggel jellemezhető, területileg elhatárolható, szabad árképzésen alapuló termék- és szolgáltatási piac, amelyen a verseny hatékonyságának elemzése és az engedélyesek piaci erejének vizsgálata történik.
+a) az engedélyesnek az adott piac földrajzi területén, valamint esetlegesen a kapcsolódó piacokon való jelenlétét,
 
-(3) Az érintett piacok területi meghatározása során a Hivatal figyelembe veszi
+b) az engedélyes méretét és piaci részesedését a vizsgált piacon,
 
-a) a vizsgált termék- és szolgáltatási piacon értékesített földgáz árában megfigyelhető területi eltéréseket,
+c) az engedélyes kapcsolatát más vállalkozásokkal, különös tekintettel az integrált villamosenergia-ipari vállalkozásokra,
 
-b) a földgáz beszerzésének, illetve értékesítésének lehetőségeit, korlátait, figyelemmel a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 14. § (3) bekezdésében foglalt szempontokra,
+d) a piacralépési korlátokat, valamint a növekedési és terjeszkedési korlátokat,
 
-c) a hálózati szűk keresztmetszeteket, az egyes földrajzi területeken érvényesülő szabályozási gyakorlatban megnyilvánuló különbségeket,
+e) az áruk és szolgáltatások gyors és alacsony költségek melletti beszerezhetőségét és értékesíthetőségét,
 
-d) egyéb, a piaci versenyfeltételek homogenitását befolyásoló tényezőket.
+f) a kereslet és kínálat viszonyát,
 
-[^169]: A Vhr. 43. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+g) a hálózati szűk keresztmetszeteket, valamint az egyes földrajzi területeken érvényesülő szabályozási gyakorlatban megnyilvánuló különbségeket, továbbá
+
+h) az esetleges verseny hiányát.
+
+(2) A Hivatal az eljárásával érintett piacon belül további termék- vagy szolgáltatási részpiacokat azonosíthat.
+
+(3) Ha a jelentős piaci erő eljárásban a Hivatal az érintett piac valamennyi engedélyesére kötelezettséget ír elő, a Hivatal kötelezheti a piacműködtetőt, hogy a kötelezettség teljesítésére a piac működésére vonatkozó szabályok módosításával kerüljön sor.
+
+(4) A Hivatal piacműködtetőként azt azonosíthatja, aki az érintett piac vonatkozásában olyan szabályrendszert működtet, amely az érintett piacon biztosítja, hogy a piaci szereplők vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve, amikor a piacműködtető egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik.
+
+[^171]: A Vhr. „(A GET III. Fejezetéhez) A földgázpiaci verseny elősegítése” alcíme (43–48. §) a 80/2019. (IV. 15.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^172]: A Vhr. 43. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
