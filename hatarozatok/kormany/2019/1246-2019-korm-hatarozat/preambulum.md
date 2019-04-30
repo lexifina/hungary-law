@@ -1,0 +1,1 @@
+A Kormány a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság tőkeemeléséről szóló 1044/2018. (II. 14.) Korm. határozat [a továbbiakban: 1044/2018. (II. 14.) Korm. határozat] 1. pontjában meghatározott hálózat fejlesztési célok elérése érdekében – az 1044/2018. (II. 14.) Korm. határozatban meghatározottakra figyelemmel –
