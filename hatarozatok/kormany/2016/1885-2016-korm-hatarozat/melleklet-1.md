@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2019. június 30.[^1]
+## Határidő: 2020. július 30.[^1]
 
 1. melléklet az 1885/2016. (XII. 28.) Korm. határozathoz
 
@@ -82,4 +82,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A határozat az 1133/2018. (III. 26.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: A határozat az 1244/2019. (IV. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
