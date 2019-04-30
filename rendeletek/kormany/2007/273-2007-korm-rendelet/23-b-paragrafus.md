@@ -1,3 +1,3 @@
-23/B. §[^108] A VET 50/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiség nyitva tartása tekintetében az ügyfélszolgálati fiókirodákra vonatkozó rendelkezéseket kell alkalmazni. Ha a VET 50/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiséget az egyetemes szolgáltató más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tartja fenn és ennek nyitvatartási ideje hosszabb, a VET 50/B. §-a szerinti ügyfélforgalom számára nyitva álló helyiséget a hosszabb nyitva tartás szerint kell üzemeltetni.
+23/B. §[^109]
 
-[^108]: A Vhr. 23/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 2. §-a iktatta be.
+[^109]: A Vhr. 23/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 80/2019. (IV. 15.) Korm. rendelet 17. § a) pontja.

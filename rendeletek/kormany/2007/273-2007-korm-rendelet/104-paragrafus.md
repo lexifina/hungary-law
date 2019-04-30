@@ -1,17 +1,29 @@
-## (A VET 107–114. §-ához)
+## (A VET XIII. Fejezetéhez)
 
-## A villamosenergia-piaci verseny elősegítése
+## A villamosenergia-piaci verseny elősegítése[^339]
 
-104. §[^345] (1) A VET 107. § (1) bekezdésében meghatározott piacokon belül a Hivatal termék vagy szolgáltatási részpiacokat azonosíthat. A Hivatal a termék vagy szolgáltatási részpiacok azonosítását, a piaci verseny hatékonyságának elemzését, a jelentős piaci erővel rendelkező engedélyesek azonosítását, valamint a rájuk vonatkozó kötelezettségek előírását a versenyjog vonatkozó szabályaival összhangban és a magyar villamos-energiapiac sajátosságainak figyelembevételével végzi el.
+104. § (1) A jelentős piaci erő eljárásban a Hivatal az általa meghatározott érintett piacokon a piaci erő vizsgálatakor az alábbiakat mérlegeli:
 
-(2) A Hivatal meghatározott, keresleti és kínálati helyettesíthetőséggel jellemezhető, területileg elhatárolható termék vagy szolgáltatási részpiacokon elemzi a verseny hatékonyságát, és megvizsgálja az engedélyesek piaci erejét.
+a) az engedélyesnek az adott piac földrajzi területén, valamint esetlegesen a kapcsolódó piacokon való jelenlétét,
 
-(3) A termék vagy szolgáltatási részpiacok meghatározása során a Hivatal figyelembe veszi
+b) az engedélyes méretét és piaci részesedését a vizsgált piacon,
 
-a) a villamos energia beszerzésének, illetve értékesítésének lehetőségeit, korlátait, figyelemmel a tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 14. § (3) bekezdésében foglalt szempontokra,
+c) az engedélyes kapcsolatát más vállalkozásokkal, különös tekintettel az integrált villamosenergia-ipari vállalkozásokra,
 
-b) a hálózati szűk keresztmetszeteket, az egyes földrajzi területeken érvényesülő szabályozási gyakorlatban megnyilvánuló különbségeket,
+d) a piacralépési korlátokat, valamint a növekedési és terjeszkedési korlátokat,
 
-c) egyéb, a piaci versenyfeltételek homogenitását befolyásoló tényezőket.
+e) az áruk és szolgáltatások gyors és alacsony költségek melletti beszerezhetőségét és értékesíthetőségét,
 
-[^345]: A Vhr. 104. §-a a 378/2011. (XII. 31.) Korm. rendelet 25. §-ával megállapított szöveg.
+f) a kereslet és kínálat viszonyát,
+
+g) a hálózati szűk keresztmetszeteket, valamint az egyes földrajzi területeken érvényesülő szabályozási gyakorlatban megnyilvánuló különbségeket, továbbá
+
+h) az esetleges verseny hiányát.
+
+(2) A Hivatal az eljárásával érintett piacon belül további termék- vagy szolgáltatási részpiacokat azonosíthat.
+
+(3) Ha a jelentős piaci erő eljárásban a Hivatal az érintett piac valamennyi engedélyesére kötelezettséget szab ki, a Hivatal kötelezheti a piacműködtetőt, hogy a kötelezettség teljesítésére a piac működésére vonatkozó szabályok módosításával kerüljön sor.
+
+(4) A Hivatal piacműködtetőként azt azonosíthatja, aki az érintett piac vonatkozásában olyan szabályrendszert működtet, amely az érintett piacon biztosítja, hogy a piaci szereplők vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve, amikor a piacműködtető egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik.
+
+[^339]: A Vhr. „A villamosenergia-piaci verseny elősegítése” alcíme (104–112. §) a 80/2019. (IV. 15.) Korm. rendelet 13. §-ával megállapított szöveg.

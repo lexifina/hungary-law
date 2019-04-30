@@ -1,5 +1,3 @@
-61. § (1) A Hivatal az atomerőműre vonatkozó engedélyeit az atomenergiáról szóló 1996. évi CXVI. törvényben előírt engedélyek megléte esetén adja ki.
+61. §[^248] A Hivatal az atomerőműre vonatkozó engedélyeket az atomenergiáról szóló 1996. évi CXVI. törvényben (a továbbiakban: Atv.) előírt, az 5. és 6. számú mellékletben megjelölt engedélyek megléte esetén adja ki.
 
-(2)[^246]
-
-[^246]: A Vhr. 61. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 574. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^248]: A Vhr. 61. §-a a 80/2019. (IV. 15.) Korm. rendelet 10. §-ával megállapított szöveg.

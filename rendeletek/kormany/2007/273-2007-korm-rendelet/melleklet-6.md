@@ -1,6 +1,6 @@
 6. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működési engedély iránti kéreleméhez benyújtandó dokumentumok[^482]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működési engedély iránti kéreleméhez benyújtandó dokumentumok[^474]
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
@@ -8,7 +8,11 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 3. Nyilatkozat arról, hogy a kérelmező rendelkezik környezeti károk megtérítését biztosító felelősségbiztosítással,
 
-4.[^483] Annak igazolása, hogy a kérelmező rendelkezik a véglegessé vált egységes környezethasználati engedéllyel és a véglegessé vált építési engedéllyel,
+4.[^475] Annak igazolása, hogy a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló, véglegessé vált
+
+4.1. egységes környezethasználati engedéllyel vagy igazolással arról, hogy a tevékenység egységes környezethasználati engedélyhez nem kötött, valamint
+
+4.2. építési engedéllyel vagy az Atv. szerinti üzembe helyezési engedéllyel,
 
 5. A hálózati engedélyessel kötött hálózati csatlakozási szerződés eredeti vagy annak hiteles másolati példánya,
 
@@ -18,7 +22,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 8. A beruházás finanszírozásának bemutatása,
 
-9. Próbaüzem záró jegyzőkönyve,
+9.[^476] Próbaüzem záró jegyzőkönyve vagy az Atv. szerinti üzembe helyezési engedély alapján az üzembe helyezési program sikeres végrehajtását igazoló jegyzőkönyv,
 
 10. Kereskedelmi üzem kezdetének tervezett időpontja,
 
@@ -30,7 +34,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 14. Ellenőrzött minőségbiztosítási rendszer bevezetésének ütemterve és határideje,
 
-15.[^484] Műszaki adatok:
+15.[^477] Műszaki adatok:
 
 15.1. egyvonalas villamos kapcsolási rajz,
 
@@ -52,6 +56,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 15.10. az erőmű(rész) tervezett maradó élettartama.
 
-[^482]: A Vhr. 6. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdése szerint módosított szöveg.
-[^483]: A Vhr. 6. számú melléklet 4. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^484]: A Vhr. 6. számú melléklet 15. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.
+[^474]: A Vhr. 6. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdése szerint módosított szöveg.
+[^475]: A Vhr. 6. számú melléklet 4. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^476]: A Vhr. 6. számú melléklet 9. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^477]: A Vhr. 6. számú melléklet 15. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.

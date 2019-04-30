@@ -1,6 +1,6 @@
 ## Átmeneti rendelkezések
 
-120. §[^397] A Hivatal az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 300/2013. (VII. 29.) Korm. rendelet (a továbbiakban: Mód. 2. rendelet) hatálybalépését[^398] követően köteles az engedélyköteles tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyeket felülvizsgálni, és szükség esetén azt módosítani vagy visszavonni. A Hivatal eljárásának ügyintézési határideje a Mód. 2. rendelet hatálybalépésének napját követő naptól számított három hónap.
+120. §[^388] A Hivatal az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 300/2013. (VII. 29.) Korm. rendelet (a továbbiakban: Mód. 2. rendelet) hatálybalépését[^389] követően köteles az engedélyköteles tevékenységek elemeivel, valamint a kiszervezéssel összefüggésben az engedélyeket felülvizsgálni, és szükség esetén azt módosítani vagy visszavonni. A Hivatal eljárásának ügyintézési határideje a Mód. 2. rendelet hatálybalépésének napját követő naptól számított három hónap.
 
-[^397]: A Vhr. 120. §-át a 99/2013. (III. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte, újonnan a 300/2013. (VII. 29.) Korm. rendelet 7. §-a iktatta be.
-[^398]: A hatálybalépés időpontja 2013. augusztus 8.
+[^388]: A Vhr. 120. §-át a 99/2013. (III. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte, újonnan a 300/2013. (VII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^389]: A hatálybalépés időpontja 2013. augusztus 8.

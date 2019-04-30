@@ -8,7 +8,7 @@
 
 (3) A hálózati engedélyes a hálózathoz való hozzáférést befolyásoló tervezett karbantartási, javítási, felújítási munkákról vagy fejlesztésekről az érintett hálózati szakaszra csatlakozott termelői engedélyessel egyeztet.
 
-(4)[^39] Az elosztó évente jelentést küld a Hivatalnak, a hálózatára csatlakozott nem engedélyköteles kiserőművek számáról (a háztartási méretű kiserőműveket elkülönítve), fajtájáról, beépített teljesítményéről, a hálózatra adott és az onnan vételezett villamos energia mennyiségéről.
+(4)[^39] Az elosztó évente jelentést küld a Hivatalnak, a hálózatára csatlakozott nem engedélyköteles kiserőművek számáról (a háztartási méretű kiserőműveket elkülönítve), fajtájáról, beépített névleges teljesítőképességéről, a hálózatra adott és az onnan vételezett villamos energia mennyiségéről.
 
 [^37]: A Vhr. 8. § (1) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^38]: A Vhr. 8. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.

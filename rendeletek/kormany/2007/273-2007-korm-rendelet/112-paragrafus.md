@@ -1,1 +1,3 @@
-112. § A rendszerszintű szolgáltatások érdekében beszerzett teljesítmények és energia piacán jelentős piaci erővel rendelkező engedélyes által az ajánlatban érvényesített költségek indokoltságát a Hivatal vizsgálja meg, és az engedélyestől bekért gazdasági és műszaki adatok, összehasonlító (benchmark) adatok, valamint piaci modellezés alapján megállapítja, hogy a felmerült költségek mennyiben ismerhetők el indokolt költségnek. A költségek indokoltsági vizsgálatánál a Hivatal figyelembe veszi a felajánlott szolgáltatáshoz egyértelműen kapcsolódó közvetett költségeket, a felajánlott szolgáltatáshoz kapcsolódó költségek okozathelyes érvényesítését, továbbá a méltányos megtérülést.
+112. §[^342]
+
+[^342]: A Vhr. 112. §-a a 80/2019. (IV. 15.) Korm. rendelet 13. §-a alapján hatályát vesztette.

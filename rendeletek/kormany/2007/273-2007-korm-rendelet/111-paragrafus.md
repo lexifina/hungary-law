@@ -1,1 +1,3 @@
-111. § A Hivatal előírhatja, hogy a kiskereskedelmi piacokon jelentős piaci erővel rendelkező engedélyes egyetemes szolgáltatásra jogosult felhasználók részére értékesített szolgáltatási csomagjaira vonatkozó szerződéses kondíciókat a Hivatal határozata szerinti bontásban és részletezettségben, üzletszabályzatában és honlapján tegye közzé. A közzétett szerződéses kondíciók az engedélyest minden egyetemes szolgáltatásra jogosult felhasználó irányában kötik, azoktól egyetlen szolgáltatási csomag esetén sem térhet el.
+111. §[^341]
+
+[^341]: A Vhr. 111. §-a a 80/2019. (IV. 15.) Korm. rendelet 13. §-a alapján hatályát vesztette.
