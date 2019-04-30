@@ -24,6 +24,8 @@ e)[^82] a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő m
 
 (6)[^84] A rendelet az egyes alapvető gyógyszerek kereskedelme Európai Unióba történő eltérítésének elkerüléséről szóló, 2016. május 11-i (EU) 2016/793 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(7)[^85] Ez a rendelet a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^78]: A 21. §-t megelőző alcímet az 53/2012. (XII. 28.) EMMI rendelet 7. §-a iktatta be.
 [^79]: A 21. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 25. pontja hatályon kívül helyezte.
 [^80]: A 21. § (4) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 28. §-ával megállapított szöveg.
@@ -31,3 +33,4 @@ e)[^82] a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő m
 [^82]: A 21. § (4) bekezdés e) pontját az 53/2012. (XII. 28.) EMMI rendelet 8. §-a iktatta be.
 [^83]: A 21. § (5) bekezdését a 47/2015. (X. 19.) EMMI rendelet 14. §-a iktatta be.
 [^84]: A 21. § (6) bekezdését a 18/2018. (VII. 4.) EMMI rendelet 3. §-a iktatta be.
+[^85]: A 21. § (7) bekezdését a 9/2019. (IV. 29.) EMMI rendelet 2. §-a iktatta be.
