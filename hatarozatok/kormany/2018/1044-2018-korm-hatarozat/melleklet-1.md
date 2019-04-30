@@ -28,13 +28,7 @@
 
 ## Határidő: a 2019. évi központi költségvetés tervezése során
 
-## 5. felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján gondoskodjon a MAVIR Zrt. jegyzett tőkéjének
-
-## 15 154 700 000 forinttal történő megemeléséről.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: 2019. február 28.
+## 5.[^1]
 
 1. melléklet az 1044/2018. (II. 14.) Korm. határozathoz
 
@@ -97,3 +91,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pontot az 1246/2019. (IV. 30.) Korm. határozat 3. pontja visszavonta.
