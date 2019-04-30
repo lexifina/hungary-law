@@ -18,6 +18,6 @@
 
 | 8. | A bányák föld alatti létesítményei kivételével, ha vízi utat, vízi közlekedést érint az építmény építése, megszüntetése. | Annak elbírálása kérdésében, a keresztező műtárgy méretei megfelelnek-e a vonatkozó jogszabály követelményeinek, továbbá a Dunán a Duna Bizottság hatályos ajánlásainak, a tervezett, felújított vagy átalakított keresztező műtárgy és tartozékai alkalmasak-e a zavartalan és biztonságos hajóforgalom lebonyolítására, és megfelelnek-e a nemzetközi gyakorlatnak. | közlekedésért felelős miniszter |
 
-3. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^4]
+3. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^6]
 
-[^4]: A 3. melléklet a 457/2017. (XII. 28.) Korm. rendelet 607. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 3. melléklet a 457/2017. (XII. 28.) Korm. rendelet 607. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

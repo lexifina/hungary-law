@@ -26,7 +26,7 @@ c) a területfejlesztéssel és a területrendezéssel kapcsolatos információs
 
 d) az Európai Parlament és Tanács a tengeri olaj- és gázipari tevékenységek biztonságáról és a 2004/35/EK irányelv módosításáról szóló 2013/30/EU irányelvben meghatározott előírások tekintetében;
 
-9. a szén-dioxid szállítására és tárolására alkalmas létesítmények engedélyezésével kapcsolatos eljárásában összegyűjti a 256/2014/EU európai parlamenti és tanácsi rendelet mellékletének 5. pontja szerinti projektekre vonatkozó jelentéshez szükséges adatokat, és az 1113/2014/EU európai bizottsági végrehajtási rendelet szerinti formában továbbítja azokat a Magyar Energetikai és Közmű-szabályozási Hivatal részére;
+9.[^1]
 
 10. a 2009/31/EK európai parlamenti és tanácsi irányelv alapján az Európai Bizottságnak megküldendő jelentést előkészíti a miniszter számára;
 
@@ -37,3 +37,5 @@ d) az Európai Parlament és Tanács a tengeri olaj- és gázipari tevékenység
 13. szakmai képzéseket, valamint szakmai, koordinációs értekezleteket szervez, melyeken a kormányhivatal munkakörükben érintett kormánytisztviselői vesznek részt;
 
 14. szakmúzeumot, szakkönyvtárat tart fenn.
+
+[^1]: A 7. § 9. pontját a 80/2019. (IV. 15.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
