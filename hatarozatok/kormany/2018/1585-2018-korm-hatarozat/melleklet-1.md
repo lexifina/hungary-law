@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva a Szatmári Római Katolikus Püspökség programjának finanszírozása érdekében szükséges 1 625 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a Kvtv. 1. melléklet LXV. Bethlen Gábor Alap fejezet, 4. Nemzetpolitikai célú támogatások cím javára, az 1. melléklet szerint.
+## 3.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva a Szatmári Római Katolikus Püspökség programjának finanszírozása érdekében szükséges 1 625 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a Kvtv. 1. melléklet LXV. Bethlen Gábor Alap fejezet, 4. Nemzetpolitikai célú támogatások cím javára, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,7 +18,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2019. június 30.
+## Határidő: 2020. június 30.
 
 1. melléklet az 1585/2018. (XI. 21.) Korm. határozathoz
 
@@ -83,3 +83,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1244/2019. (IV. 30.) Korm. határozat 10. pontja szerint módosított szöveg.
