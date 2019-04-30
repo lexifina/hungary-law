@@ -1,3 +1,3 @@
-4/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^55]
+4/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^59]
 
-[^55]: A 4/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^59]: A 4/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
