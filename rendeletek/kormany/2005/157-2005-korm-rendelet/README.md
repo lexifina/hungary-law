@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-157-20-
 | 2017-01-01 | 2005-157-20-22.30 | 281/2016. (IX. 21.) Korm. rendelet |
 | 2017-04-01 | 2005-157-20-22.31 | 369/2016. (XI. 29.) Korm. rendelet |
 | 2018-01-01 | 2005-157-20-22.32 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-04-30 | 2005-157-20-22.33 | 80/2019. (IV. 15.) Korm. rendelet |
