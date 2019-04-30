@@ -1,4 +1,4 @@
-8/G. §[^99] (1) A földtani kutatás eredményéről készített összefoglaló földtani jelentést földtani szakértőnek kell ellenjegyeznie.
+8/G. §[^100] (1) A földtani kutatás eredményéről készített összefoglaló földtani jelentést földtani szakértőnek kell ellenjegyeznie.
 
 (2) Az összefoglaló földtani jelentésnek tartalmaznia kell:
 
@@ -40,4 +40,4 @@ d) a külön – a földtani kutatás keretein belül – készült szakanyagoka
 
 (5) A bányafelügyelet az összefoglaló földtani jelentést elfogadja, ha a bányafelügyelet a (2) bekezdés h) pontja szerinti értékeléssel egyetért.
 
-[^99]: A Vhr. 8/G. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be.
+[^100]: A Vhr. 8/G. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be.

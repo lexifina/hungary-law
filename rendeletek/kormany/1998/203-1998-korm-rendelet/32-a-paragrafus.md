@@ -1,6 +1,6 @@
-## (A Bt. 47–47/F. §-ához)[^311]
+## (A Bt. 47–47/F. §-ához)[^312]
 
-32/A. §[^312] (1) A komplex műveleti terv jóváhagyása iránti kérelemnek tartalmaznia kell:
+32/A. §[^313] (1) A komplex műveleti terv jóváhagyása iránti kérelemnek tartalmaznia kell:
 
 a) a tevékenységet végző megnevezését, székhelyét, amennyiben az nem az engedélyes, és
 
@@ -52,24 +52,24 @@ f) a kitermelés miatt eltávolított humusz lerakásának helyét.
 
 a) az igénybe venni tervezett ingatlan tulajdonosával (vagyonkezelőjével) az ingatlan igénybevételre kötött megállapodás egy példányát,
 
-b)[^313] termőföld esetében a más célú hasznosítást engedélyező végleges ingatlanügyi hatósági határozatot, erdő esetében a végleges igénybevételi engedélyt,
+b)[^314] termőföld esetében a más célú hasznosítást engedélyező végleges ingatlanügyi hatósági határozatot, erdő esetében a végleges igénybevételi engedélyt,
 
-c)[^314] a végleges vízjogi létesítési engedélyt,
+c)[^315] a végleges vízjogi létesítési engedélyt,
 
-d)[^315] védett természeti terület vagy Natura 2000 terület esetében a végleges környezetvédelmi engedélyt vagy azt a határozatot, amelyben a környezetvédelmi hatóság megállapította, hogy a tervezett tevékenység nem környezetvédelmi engedély köteles,
+d)[^316] védett természeti terület vagy Natura 2000 terület esetében a végleges környezetvédelmi engedélyt vagy azt a határozatot, amelyben a környezetvédelmi hatóság megállapította, hogy a tervezett tevékenység nem környezetvédelmi engedély köteles,
 
 e) a biztosíték nagyságát alátámasztó költségtervet, és a biztosítékadás módjára vonatkozó ajánlatot,
 
 f) a tevékenységgel érintett közmű esetén a közmű üzemeltető nyilatkozatát.
 
-(8)[^316] Ha a kérelmező a kérelemhez a (7) bekezdés d) pontja szerinti dokumentumot nem mellékeli, annak beszerzéséről a bányafelügyelet gondoskodik.
+(8)[^317] Ha a kérelmező a kérelemhez a (7) bekezdés d) pontja szerinti dokumentumot nem mellékeli, annak beszerzéséről a bányafelügyelet gondoskodik.
 
-(9)[^317] A (7) bekezdés e) pontja szerinti költségterv elkészítésére a 25. § (9) bekezdését kell megfelelően alkalmazni.
+(9)[^318] A (7) bekezdés e) pontja szerinti költségterv elkészítésére a 25. § (9) bekezdését kell megfelelően alkalmazni.
 
-[^311]: A Vhr. 32/A. §-át megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 16. §-a iktatta be.
-[^312]: A Vhr. 32/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 16. §-a iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^313]: A Vhr. 32/A. § (7) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 63. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^314]: A Vhr. 32/A. § (7) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 63. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^315]: A Vhr. 32/A. § (7) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 63. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^316]: A Vhr. 32/A. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 32. § (3) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^317]: A Vhr. 32/A. § (9) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 32. § (3) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^312]: A Vhr. 32/A. §-át megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 16. §-a iktatta be.
+[^313]: A Vhr. 32/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 16. §-a iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^314]: A Vhr. 32/A. § (7) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 63. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^315]: A Vhr. 32/A. § (7) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 63. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^316]: A Vhr. 32/A. § (7) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 63. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^317]: A Vhr. 32/A. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 32. § (3) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^318]: A Vhr. 32/A. § (9) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 32. § (3) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

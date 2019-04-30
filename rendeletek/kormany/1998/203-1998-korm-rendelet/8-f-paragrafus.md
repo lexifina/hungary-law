@@ -1,4 +1,4 @@
-8/F. §[^98] (1) A földtani kutatási engedély iránti kérelemnek tartalmaznia kell:
+8/F. §[^99] (1) A földtani kutatási engedély iránti kérelemnek tartalmaznia kell:
 
 a) a földtani kutatási terület közigazgatási megjelölését és sarokpontjainak EOV rendszer szerinti koordinátáit, mélységi lehatárolását,
 
@@ -50,4 +50,4 @@ f) a kutatóépítményekkel érintett ingatlanok település és helyrajzi szá
 
 (8) A földtani kutatásra jogosult szervezet köteles a kutatási tevékenység megkezdésének tervezett időpontját a kutatás megkezdését megelőzően legalább 8 nappal korábban a bányafelügyeletnek és a kutatási tevékenységgel érintett ingatlan tulajdonosának vagy használójának írásban bejelenteni.
 
-[^98]: A Vhr. 8/F. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be.
+[^99]: A Vhr. 8/F. §-át a 311/2014. (XII. 11.) Korm. rendelet 4. §-a iktatta be.
