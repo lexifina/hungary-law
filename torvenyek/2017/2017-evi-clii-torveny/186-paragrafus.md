@@ -16,4 +16,4 @@ c) a gazdasági igények és az igazgatási költségek észszerű arányát ere
 
 (2) Az (1) bekezdés szerinti döntés érdekében a kérelmet a vámszabad terület üzemeltetését végző személy a miniszterhez elektronikus úton vagy papíralapon nyújtja be.
 
-(3)
+(3) A vámszabad terület kijelölése iránti kérelem alapján induló eljárásban, ha a kérelmező személy vámtanácsadó, vagy vámtanácsadót foglalkoztat önállóan is, ellenkező esetben kizárólag vámtanácsadó képviseletével járhat el.
