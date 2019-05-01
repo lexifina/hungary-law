@@ -1,11 +1,11 @@
 A Kormány – a Fővárosi Közfejlesztések Tanácsának javaslatára – a Széchenyi lánchíd, a budai Váralagút, valamint a hozzájuk kapcsolódó közterületek rekonstrukciójával és fejlesztésével összefüggő intézkedésekről szóló 1447/2018. (IX. 18.) Korm. határozatot (a továbbiakban: Határozat) a következők szerint módosítja:
 
-1. A Határozat a következő 8. ponttal egészül ki:
+1.[^2]
 
-[A Kormány a Széchenyi lánchíd, a budai Váralagút és a hozzájuk kapcsolódó közterületek értékeinek megőrzése, teljes körű rekonstrukciója, valamint közösségi és turisztikai funkcióik fejlesztése (a továbbiakban együtt: Beruházás) érdekében]
+2.[^3]
 
-„8. egyetért azzal, hogy Budapest Főváros Önkormányzata részére, a központi költségvetési terhére biztosításra kerüljön a Széchenyi lánchídhoz kapcsolódó közterek – a Budapest I. kerület, Clark Ádám tér, valamint a Budapest V. kerület, Széchenyi tér és József Attila utca – felújításával kapcsolatos tervezési és előkészítési feladatok elvégzéséhez szükséges támogatás.”
+3.[^4]
 
-2. A Határozat 2. és 3. pontjában a „7 000 000 000 forint” szövegrész helyébe a „6 000 000 000 forint” szöveg lép.
-
-3. A Kormány visszavonja a Határozat 4. pont a) alpontját.
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
