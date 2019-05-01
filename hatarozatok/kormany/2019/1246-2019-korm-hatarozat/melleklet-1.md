@@ -14,7 +14,7 @@
 
 ## Határidő: az 1. pont szerinti forrás átcsoportosítását követően azonnal
 
-## 3. visszavonja az 1044/2018. (II. 14.) Korm. határozat 5. pontját.
+## 3.[^1]
 
 1. melléklet az 1246/2019. (IV. 30.) Korm. határozathoz
 
@@ -89,3 +89,5 @@
 | Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 15 154 700 000 |  | 15 154 700 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
