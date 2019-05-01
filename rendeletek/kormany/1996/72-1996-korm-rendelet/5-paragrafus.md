@@ -66,11 +66,37 @@ c) az engedély területi és időbeli hatályáról.
 
 (13c)[^60] A talajvédelmi terv külön jogszabályban meghatározott felülvizsgálatára vonatkozó kötelezettség teljesítése alapján a talajvédelmi hatóság megkeresésére az öntözésre vonatkozó vízjogi üzemeltetési engedély hivatalból módosítható, visszavonható.
 
-(14)[^61]
+(14)[^61] A Vgtv. 15/C. § (9) bekezdésében meghatározott tartósan vízhiányos időszakban a vízhasználó bejelentése alapján, vízjogi engedély nélkül, egy alkalommal, rendkívüli öntözési célú vízhasználat lehetséges. Rendkívüli öntözési célú vízhasználatnak minősül a tartósan vízhiányos időszakban, közvetlenül felszíni vízből, ideiglenes szivattyúállással, legfeljebb 120 mm/hektár (1200 m3/hektár) vízmennyiség 100 hektár nagyságot meg nem haladó területre öntözési célból, legfeljebb megszakítás nélkül egy hónap időtartamig történő kijuttatása.
 
-(15)[^62] Ha a tavas szennyvízleürítő helyet utótisztító funkcióval szükséges ellátni, akkor arra a szennyvízleürítő hely üzemeltetőjének a vízügyi hatóságtól külön vízjogi létesítési, majd vízjogi üzemeltetési engedélyt kell kérni.
+(14a)[^62] A rendkívüli öntözési célú vízhasználatot a területileg illetékes vízügyi hatósághoz írásban kell bejelenteni. A bejelentéshez a vízkivétellel érintett felszíni víz kezelőjének hozzájárulását csatolni kell. A bejelentés tartalmazza
 
-(16)[^63] A (14) bekezdés szerinti vízjogi engedélyben az üzemeltetéssel járó jogokat és kötelezettségeket a tavas szennyvízleürítő hely
+a) a vízhasználó családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét, ha a vízhasználó gazdálkodó szervezet, annak nevét, székhelyét, telephelyét, fióktelepét, képviselőjének nevét, cégjegyzékszámát vagy egyéb nyilvántartási számát;
+
+b) a vízkivétel helyét [helyrajzi szám, Egységes Országos Vetületi Rendszer (EOV) koordináta vagy szelvényszám megadásával];
+
+c) a vízkivétel módjának meghatározását, továbbá a vízmérés módját;
+
+d) a vízkivétel időtartamát, kezdő és befejező időpontját;
+
+e) a kivenni tervezett víz mennyiségét (m3/nap és m3/hónap megadásával);
+
+f) a vízkivételi szivattyú kapacitását (teljesítmény szerint) és az üzemnapló vezetésének helyét;
+
+g) az öntözött terület nagyságát (hektárban megadva).
+
+(14b)[^63] A vízkivétellel érintett felszíni víz kezelője a hozzájárulását akkor adja meg, ha a vízkivétel nem veszélyezteti a vízkivétellel érintett felszíni víz ökoszisztémáját és a Vgtv. szerinti vízgazdálkodási érdekeket, továbbá a hozzájárulásában megállapíthatja a vízkivétel feltételeit.
+
+(14c)[^64] A rendkívüli öntözési célú vízhasználat bejelentéséhez szakhatósági állásfoglalást nem kell csatolni. A vízügyi hatóság a bejelentés tartalmáról a növény- és talajvédelmi, valamint a környezetvédelmi és természetvédelmi hatóságot a bejelentés kézhezvételét követő nyolc napon belül tájékoztatja.
+
+(14d)[^65] A rendkívüli öntözési célú vízhasználat bejelentését követően a vízhasználat azonnal megkezdhető. A rendkívüli öntözési célú vízhasználat bejelentés szerinti gyakorlását a vízügyi hatóság a vízhasználat időtartama alatt a helyszínen ellenőrizheti. A kezelői hozzájárulás hiányában folytatott vagy a hozzájárulásban foglaltaktól, valamint a bejelentéstől eltérő vízkivételre utaló adat esetén a vízügyi hatóság soron kívül ellenőrzést tart, és a vízkivételt megtiltja.
+
+(14e)[^66] Ha ugyanazon mezőgazdasági területet a vízhasználó a rendkívüli öntözési célú vízhasználat időtartamát követően is öntözni tervezi, a további öntözéshez egynyári öntözésre szóló vízjogi üzemeltetési engedély vagy öntözési célú vízkivételre jogosító vízjogi üzemeltetési engedély szükséges.
+
+(14f)[^67] A rendkívüli öntözési célú vízhasználat során kivett vízmennyiséget az 5/F. § (2) bekezdés b) pontja szerint a vízhasználó a vízkészletjárulék adatszolgáltatásban feltünteti.
+
+(15)[^68] Ha a tavas szennyvízleürítő helyet utótisztító funkcióval szükséges ellátni, akkor arra a szennyvízleürítő hely üzemeltetőjének a vízügyi hatóságtól külön vízjogi létesítési, majd vízjogi üzemeltetési engedélyt kell kérni.
+
+(16)[^69] A (14) bekezdés szerinti vízjogi engedélyben az üzemeltetéssel járó jogokat és kötelezettségeket a tavas szennyvízleürítő hely
 
 a) területi elhelyezkedésére, a terület vízgazdálkodási, ár- és belvízvédelmi, környezet-, természet- és tájvédelmi, továbbá kulturális örökségvédelmi és közegészségügyi szempontjaira,
 
@@ -80,7 +106,7 @@ c) a vizek védelmére vonatkozó jogszabályokban foglalt előírásokra
 
 figyelemmel kell meghatározni.
 
-(17)[^64] A tavas szennyvízleürítő hely üzemeltetésére vonatkozó végleges határozattal és a változási vázrajz közlésével a vízügyi hatóság megkeresi a tavas szennyvízleürítő hely fekvése szerint illetékes első fokon eljáró ingatlanügyi hatóságot, hogy a tavas szennyvízleürítő helyet ezzel a megnevezéssel, művelés alól kivett területként jegyezze be az ingatlan-nyilvántartásba.
+(17)[^70] A tavas szennyvízleürítő hely üzemeltetésére vonatkozó végleges határozattal és a változási vázrajz közlésével a vízügyi hatóság megkeresi a tavas szennyvízleürítő hely fekvése szerint illetékes első fokon eljáró ingatlanügyi hatóságot, hogy a tavas szennyvízleürítő helyet ezzel a megnevezéssel, művelés alól kivett területként jegyezze be az ingatlan-nyilvántartásba.
 
 [^41]: Az 5. § (1) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
 [^42]: Az 5. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
@@ -102,7 +128,13 @@ figyelemmel kell meghatározni.
 [^58]: Az 5. § (13a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 27. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^59]: Az 5. § (13b) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^60]: Az 5. § (13c) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^61]: Az 5. § (14) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 28. § e) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^62]: Az 5. § (15) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
-[^63]: Az 5. § (16) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
-[^64]: Az 5. § (17) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 18. § a) pontja, az 518/2017. (XII. 29.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^61]: Az 5. § (14) bekezdését újonnan a 98/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^62]: Az 5. § (14a) bekezdését a 98/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^63]: Az 5. § (14b) bekezdését a 98/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^64]: Az 5. § (14c) bekezdését a 98/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^65]: Az 5. § (14d) bekezdését a 98/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^66]: Az 5. § (14e) bekezdését a 98/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^67]: Az 5. § (14f) bekezdését a 98/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^68]: Az 5. § (15) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
+[^69]: Az 5. § (16) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
+[^70]: Az 5. § (17) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 18. § a) pontja, az 518/2017. (XII. 29.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
