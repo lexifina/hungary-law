@@ -2,7 +2,7 @@
 
 11. § (1) A kötelező átvételi rendszerben a KÁT termelő jogosult a Hivatal 18. § (1) bekezdése szerinti határozatában foglaltaknak megfelelő mennyiségű villamos energiát a befogadónak átadni, a befogadó köteles azt befogadni, valamint a KÁT termelővel a villamos energia ellenértékét a (3)–(6) bekezdésekben és a 8. §-ban foglaltaknak megfelelően a KÁT mérlegkörben elszámolni.
 
-(2)[^12] A KÁT termelők a KÁT mérlegkörön belül menetrendadással kapcsolatos jogaik közös gyakorlása és kötelezettségeik közös teljesítése céljából összevont menetrendadásra jogosultak az alábbi feltételek szerint:
+(2)[^17] A KÁT termelők a KÁT mérlegkörön belül menetrendadással kapcsolatos jogaik közös gyakorlása és kötelezettségeik közös teljesítése céljából összevont menetrendadásra jogosultak az alábbi feltételek szerint:
 
 a) a KÁT termelők összevont menetrendadási csoport alakítása esetén kötelesek egy menetrend-csoport képviselőt kijelölni. A menetrend-csoport képviselő több összevont menetrendadási csoportot is képviselhet, azonban a KÁT termelő – menetrendje tekintetében – kizárólag egy csoport tagja lehet;
 
@@ -34,4 +34,4 @@ f) ha egy KÁT termelő az erőműegységeit összevontan kívánja kezelni, akk
 
 (11) A havi elszámolási villamosenergia-mennyiség az elszámolási mérési időegységenkénti mennyiségek e rendeletben meghatározott napszakok (zónaidők) időtartama szerinti összegzésével kerül meghatározásra. Ha az erőműegység villamosenergia-termelése ugyanazon technológiai (primerenergia-átalakítási) folyamatban különböző energiaforrásokból történik, az adott hónapra kiszámított energiaforrás-arányokat minden elszámolási-mérési időegységre azonosan kell alkalmazni.
 
-[^12]: A 11. § (2) bekezdése a 25. §-sal megállapított szöveg.
+[^17]: A 11. § (2) bekezdése a 25. §-sal megállapított szöveg.

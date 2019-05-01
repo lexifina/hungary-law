@@ -7,3 +7,7 @@
 (3) A kötelező átvétel helyett zöld prémium típusú támogatást választó termelő esetében az alkalmazandó támogatott ár a termelőre vonatkozó aktuális kötelező átvételi árak időben egyenletes termelés melletti átlagával egyezik meg, és a támogatás időtartama változatlan marad.
 
 (4) Ha a kötelező átvételre jogosult erőműegység a közcélú hálózaton piaci alapon is kíván értékesíteni villamos energiát, akkor át kell lépnie az e rendelet szerinti prémium típusú támogatási rendszerbe. Ebben az esetben a (3) bekezdésben meghatározott támogatott árat és időtartamot kell alkalmazni.
+
+(5)[^4] A kötelező átvétellel vagy prémium típusú támogatással kapcsolatos eljárásokban nem kérelmezhető az eljárásnak az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 49. §-a szerinti szünetelése.
+
+[^4]: A 3. § (5) bekezdését a 99/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
