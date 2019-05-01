@@ -1,4 +1,4 @@
-36. § (1) A miniszterelnök általános helyettese a nemzetiségpolitikáért való felelőssége keretében – a 102. §-ban foglaltak kivételével – előkészíti a nemzetiségek jogaira vonatkozó jogszabályokat.
+36. § (1)[^16] A miniszterelnök általános helyettese a nemzetiségpolitikáért való felelőssége keretében – a 63/B. §-ban foglaltak kivételével – előkészíti a nemzetiségek jogaira vonatkozó jogszabályokat.
 
 (2) A miniszterelnök általános helyettese a nemzetiségpolitikáért való felelőssége keretében
 
@@ -11,3 +11,5 @@ c) felügyeli a Strasbourgban, 1992. november 5-én létrehozott Regionális vag
 d) kezdeményezi a Kormánynál az Alaptörvénnyel ellentétesen működő nemzetiségi önkormányzat feloszlatására vonatkozó határozati javaslat Országgyűlés részére történő benyújtását.
 
 (3) A Kormány – a roma nemzetiségi önkormányzatok kivételével – a nemzetiségi önkormányzatok törvényességi felügyeletének szakmai irányítására a miniszterelnök általános helyettesét jelöli ki.
+
+[^16]: A 36. § (1) bekezdése a 84/2019. (IV. 18.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

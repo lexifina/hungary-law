@@ -12,6 +12,6 @@ d) összehangolja a központi államigazgatási szervek a)–c) pontokban foglal
 
 e) közreműködik a Bethlen Gábor Alap működtetésében, ennek keretein belül részt vesz a Bethlen Gábor Alapra vonatkozó döntések meghozatalában,
 
-f)[^14] ellátja a Határtalanul! Programmal kapcsolatos koordinációs feladatokat.
+f)[^15] ellátja a Határtalanul! Programmal kapcsolatos koordinációs feladatokat.
 
-[^14]: A 35. § f) pontját a 153/2018. (VIII. 31.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^15]: A 35. § f) pontját a 153/2018. (VIII. 31.) Korm. rendelet 8. § (1) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-102. § (1) A miniszter a 92. § (2) bekezdésében meghatározott felelőssége keretében kidolgozza a roma társadalmi integrációs kormányzati politika koncepcióját és koordinálja annak végrehajtását, valamint a Kormány feladatkörében érintett tagjával együttműködve előkészíti a romák társadalmi integrációjával és a roma nemzetiség jogait érintő intézkedésekkel összefüggő kormányzati döntések tervezeteit, ennek keretében előkészíti a vonatkozó jogszabályokat.
+102. §[^31]
 
-(2) A Kormány a roma nemzetiségi önkormányzatok törvényességi felügyeletének szakmai irányítására a minisztert jelöli ki.
+[^31]: A 102. §-t a 84/2019. (IV. 18.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.

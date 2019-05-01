@@ -24,20 +24,11 @@
 
 11. szociál- és nyugdíjpolitikáért,
 
-12. társadalmi felzárkózásért
+12.[^28]
 
 felelős tagja.
 
-(2) A miniszter
+(2)[^29]
 
-a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (4) bekezdése,
-
-b) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4. pont 4.16. alpontja,
-
-c) a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20. § a) pontja,
-
-d) a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 125. § (5) bekezdése, 148. § (2) bekezdése, 150. § b) pontja, 151. §-a, 152. § a)–c) pontja, valamint 156. § (2) bekezdése és
-
-e) az államháztartásról szóló 2011. évi CXCV. törvény 83. § (6) bekezdése
-
-tekintetében, a roma nemzetiség vonatkozásában a Kormány nemzetiségpolitikáért felelős tagja.
+[^28]: A 92. § (1) bekezdés 12. pontját a 84/2019. (IV. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^29]: A 92. § (2) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.

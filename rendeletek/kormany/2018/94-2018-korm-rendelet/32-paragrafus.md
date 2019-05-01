@@ -6,8 +6,10 @@
 
 2. nemzetpolitikáért,
 
-3. – a 92. § (2) bekezdésben foglalt kivétellel – nemzetiségpolitikáért
+3.[^13] – a 40. § (2) bekezdésében foglalt kivétellel – nemzetiségpolitikáért
 
 felelős tagja.
 
 (2) A miniszterelnök általános helyettese vezeti a Nemzetpolitikai Kabinet üléseit.
+
+[^13]: A 32. § (1) bekezdés 3. pontja a 84/2019. (IV. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
