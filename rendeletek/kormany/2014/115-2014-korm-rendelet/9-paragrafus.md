@@ -1,4 +1,3 @@
-## 8/A. §[^30] A hatékony vízárpolitika kialakítása érdekében egyes vízgazdálkodási tárgyú kormányrendeletek módosításáról szóló 232/2016. (VII. 29.) Korm. rendelet (a továbbiakban: Mód. Korm. rendelet) hatálybalépését[^31] megelőzően megkötött mezőgazdasági vízszolgáltatási szerződéseket felül kell vizsgálni, és azokat e rendeletnek a Mód. Korm. rendelettel megállapított 8. §-ával történő megfelelés érdekében 2017. április 15-ig módosítani kell.
+## 8/B. §[^32] A rendkívüli öntözési célú vízhasználat esetében a mezőgazdasági vízszolgáltatási díjat a vízhasználó a 8. § szerint viseli azzal, hogy az alapdíj számítása során a mezőgazdasági vízhasználó vízjogi üzemeltetési engedélyében lekötött éves vízmennyiség alatt a rendkívüli öntözési célú vízhasználat vízhasználó általi bejelentésében megjelölt, a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet 5. § (14a) bekezdés e) pontja szerint kivenni tervezett víz mennyiségét kell érteni.
 
-[^30]: A 8/A. §-t a 232/2016. (VII. 29.) Korm. rendelet 11. §-a iktatta be.
-[^31]: A hatálybalépés időpontja 2016. október 1.
+[^32]: A 8/B. §-t a 98/2019. (IV. 30.) Korm. rendelet 2. §-a iktatta be.
