@@ -2,75 +2,41 @@
 
 (2) A számvevő alapilletménye:
 
-a) számvevő gyakornok esetében az illetményalap 1,5-szerese,
+a) számvevő gyakornok esetében az illetményalap 1,9-szerese,
 
-b) számvevő esetében az illetményalap 2,7-szerese,
+b) számvevő fogalmazó esetében az illetményalap 2,3-szerese,
 
-c) számvevő tanácsos esetében az illetményalap 2,9-szerese,
+c) számvevő esetében az illetményalap 3,3-szerese,
 
-d) számvevő főtanácsos esetében az illetményalap 3,3-szerese,
+d) számvevő tanácsos esetében az illetményalap 3,7-szerese,
 
-e) számvevő vezető főtanácsos esetében az illetményalap 3,8-szerese,
+e) számvevő főtanácsos esetében az illetményalap 4-szerese,
 
-f) számvevő osztályvezető-főtanácsos esetében az illetményalap 3,8-szerese,
+f) számvevő vezető főtanácsos esetében az illetményalap 5,1-szerese,
 
-g) számvevő igazgatóhelyettes esetében az illetményalap 4,0-szerese,
+g) számvevő osztályvezető esetében az illetményalap 3,8-szerese,
 
-h) számvevő igazgató esetében az illetményalap 4,3-szerese,
+h) számvevő igazgatóhelyettes esetében az illetményalap 4,8-szerese,
 
-i) számvevő főigazgató, főtitkár esetében az illetményalap 4,6-szerese.
+i) számvevő igazgató esetében az illetményalap 5,5-szerese,
 
-(3) A vezetői illetménypótlék mértéke a számvevő osztályvezető-főtanácsos, a számvevő igazgatóhelyettes, a számvevő igazgató, a számvevő főigazgató, és a főtitkár esetén az alapilletmény 20%-a.
+j) számvevő főigazgató és főtitkár esetében az illetményalap 6,5-szerese.
 
-(4) A számvevőt megillető címpótlék mértéke:
+(3) A vezetői illetménypótlék mértéke a számvevő osztályvezető, a számvevő igazgatóhelyettes, a számvevő igazgató, a számvevő főigazgató és a főtitkár esetén az alapilletmény 35%-a.
 
-a) számvevő főtanácsos tanácsadó esetén az alapilletmény 5,5%-a,
+(4)
 
-b) számvevő főtanácsos főtanácsadó esetén az alapilletmény 6,5%-a,
+(5)
 
-c) számvevő vezető főtanácsos tanácsadó esetén az alapilletmény 7,5%-a,
+(6)
 
-d) számvevő vezető főtanácsos főtanácsadó esetén az alapilletmény 8,5%-a.
+(7)
 
-(5) A számvevő a (6) bekezdés szerinti idegennyelv-tudási pótlékra jogosult, ha az idegen nyelv használata a munkakör betöltéséhez szükséges. A nyelvpótlékra jogosító munkaköröket és nyelveket a Szervezeti és Működési Szabályzat mellékletében kell feltüntetni.
+(8)
 
-(6) Az idegennyelv-tudási pótlék mértéke nyelvvizsgánként:
+(9)
 
-a) angol, francia vagy német nyelvből
-
-– felsőfokú C típusú nyelvvizsga esetében az illetményalap 20%-a,
-
-– felsőfokú A vagy B típusú nyelvvizsga esetében az illetményalap 10%-a,
-
-– középfokú C típusú nyelvvizsga esetében az illetményalap 10%-a,
-
-– középfokú A vagy B típusú nyelvvizsga esetében az illetményalap 5%-a.
-
-b) egyéb nyelvből
-
-– felsőfokú C típusú nyelvvizsga esetében az illetményalap 11%-a,
-
-– felsőfokú A vagy B típusú nyelvvizsga esetében az illetményalap 5%-a,
-
-– középfokú C típusú nyelvvizsga esetében az illetményalap 6%-a,
-
-– középfokú A vagy B típusú nyelvvizsga esetében az illetményalap 3%-a.
-
-(7) A feladatkör szakszerűbb ellátását biztosító tudományos fokozat, valamint a feladatkörön belüli szakosodást elősegítő további szakképesítés, szakképzettség elismeréseként a számvevő részére képzettségi pótlék állapítható meg. Képzettségi pótlék állapítható meg annak a számvevőnek is, aki a besorolásánál figyelembe vett iskolai végzettségénél magasabb szintű szakképesítéssel, szakképzettséggel rendelkezik, feltéve, ha az a munkakör ellátásához szükséges. A képzettségi pótlékra jogosító munkaköröket és képzettségeket a Szervezeti és Működési Szabályzat mellékletében kell feltüntetni.
-
-(8) A képzettségi pótlék mértéke:
-
-a) doktori (PhD) fokozat vagy azzal egyenértékű, vagy ennél magasabb tudományos fokozat esetén az illetményalap 13%-a,
-
-b) további felsőfokú iskolai rendszerű képzésben szerzett képesítés esetén az illetményalap 9%-a,
-
-c) további akkreditált felsőfokú szakképesítés esetén az illetményalap 7%-a,
-
-d) további középfokú szakképesítés esetén az illetményalap 6%-a.
-
-(9) A számvevőt megillető helyettesítési díjra, jubileumi jutalomra, cafetéria-juttatásra, valamint a jelen §-ban nem nevesített jogcímen járó egyéb díj, pótlék vagy juttatás mértékére a közszolgálati tisztviselőkről szóló törvény szabályait kell alkalmazni.
-
-(9a) A számvevő a közszolgálati tisztviselőkről szóló törvény szerinti illetménykiegészítésre nem jogosult.
+(9a)
 
 (10) A számvevő főigazgató és a főtitkár a közigazgatási államtitkárt, a számvevő igazgató a helyettes államtitkárt megillető juttatásokra jogosult.
 

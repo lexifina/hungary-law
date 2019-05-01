@@ -1,18 +1,20 @@
-16. § (1) A számvevőt kinevezésekor
+16. § (1) A számvevőt kinevezésében
 
 a) számvevő gyakornok,
 
-b) számvevő,
+b) számvevő fogalmazó,
 
-c) számvevő tanácsos,
+c) számvevő,
 
-d) számvevő főtanácsos,
+d) számvevő tanácsos,
 
-e) számvevő vezető főtanácsos
+e) számvevő főtanácsos,
+
+f) számvevő vezető főtanácsos
 
 kategóriák valamelyikébe kell besorolni.
 
-(2) Az Állami Számvevőszék elnöke a nem vezetői munkakört betöltő számvevő főtanácsos és számvevő vezető főtanácsos részére – ha a munkakör ellátása során nyújtott kiemelkedő szakmai teljesítménye indokolja – tanácsadói vagy főtanácsadói cím használatát engedélyezheti. A címhasználathoz címpótlék jár. A címhasználat visszavonható, ha az engedélyezés indokai már nem állnak fenn.
+(2) A számvevő besorolásának további szabályait az Állami Számvevőszék szervezeti és működési szabályzata határozza meg.
 
 (3) Az Állami Számvevőszék elnöke az ellenőrzést vezető számvevő részére – amennyiben nem tölt be vezetői munkakört – az ellenőrzés idejére osztályvezetői besorolásnak megfelelő illetményt állapíthat meg.
 
