@@ -1,6 +1,6 @@
 ## Pályázati eljárás
 
-4. § (1)[^29] A pályázatot a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) írja ki.
+4. § (1)[^29] A pályázatot Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszter, egyéb szolgáltatás esetén a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium írja ki.
 
 (2) A pályázatok típusai:
 
@@ -42,13 +42,13 @@ k)[^35] tanoda esetén az alaptámogatás várható összegét és az egy felada
 
 (6) A pályázat benyújtásának határidejét a pályázati kiírásban úgy kell meghatározni, hogy a pályázat beadására a pályázat közzétételét követően legalább 30 nap álljon rendelkezésre.
 
-(7)[^36] A pályázati kiírást közzé kell tenni a Szociális Ágazati Portálon és a minisztérium honlapján.
+(7)[^36] A pályázati kiírást közzé kell tenni a Szociális Ágazati Portálon, valamint Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszter, egyéb szolgáltatás esetén a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium honlapján.
 
-[^29]: A 4. § (1) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 36. § (4) bekezdésének ca) alpontja szerint módosított szöveg. E módosító rendelet 35. § (4) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 4. § (1) bekezdése a 82/2019. (IV. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^30]: A 4. § (2) bekezdés b) pontja a 140/2011. (VII. 21.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^31]: A 4. § (4) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
 [^32]: A 4. § (5) bekezdés d) pontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 5. pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 31. §-a iktatta be.
 [^33]: A 4. § (5) bekezdés e) pontja a 140/2011. (VII. 21.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
 [^34]: A 4. § (5) bekezdés j) pontját a 140/2011. (VII. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése g) pontja szerint módosított szöveg.
 [^35]: A 4. § (5) bekezdés k) pontját a 226/2018. (XII. 4.) Korm. rendelet 5. §-a iktatta be.
-[^36]: A 4. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^36]: A 4. § (7) bekezdése a 82/2019. (IV. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

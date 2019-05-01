@@ -1,20 +1,20 @@
-7. § (1)[^62] A bizottság javaslatának beérkezésétől számított 8 napon belül a Főigazgatóság a pályázatokat döntésre terjeszti fel a miniszternek. A miniszter a felterjesztés beérkezését követő 8 napon belül dönt a nyertes pályázók személyéről, tanoda támogatására kiírt általános pályázat esetén az alaptámogatás és az egy feladategységre jutó támogatás általános összegéről, továbbá az (5) bekezdés c) pont ca)–cd) alpontja szerinti egyéb feltételekről.
+7. § (1)[^63] A bizottság javaslatának beérkezésétől számított 8 napon belül a Főigazgatóság a pályázatokat döntésre terjeszti fel Biztos Kezdet Gyerekház és tanoda esetén a társadalmi felzárkózásért felelős miniszternek, egyéb szolgáltatás esetén a szociál- és nyugdíjpolitikáért felelős miniszternek. A miniszter a felterjesztés beérkezését követő 8 napon belül dönt a nyertes pályázók személyéről, tanoda támogatására kiírt általános pályázat esetén az alaptámogatás és az egy feladategységre jutó támogatás általános összegéről, továbbá az (5) bekezdés c) pont ca)–cd) alpontja szerinti egyéb feltételekről.
 
 (2) A döntést
 
-a)[^63] az ellátási területen élő, szociálisan rászorult, illetve a szolgáltatás célcsoportjába tartozó személyek száma, valamint fejlesztő foglalkoztatás és tanoda esetén a vállalt feladatmutató,
+a)[^64] az ellátási területen élő, szociálisan rászorult, illetve a szolgáltatás célcsoportjába tartozó személyek száma, valamint fejlesztő foglalkoztatás és tanoda esetén a vállalt feladatmutató,
 
-b)[^64] a szolgáltatások területi lefedettsége, elérhetősége, az ellátási terület földrajzi és demográfiai sajátosságai, valamint az igénybe vehető egyéb szociális szolgáltatások és azok kapacitása,
+b)[^65] a szolgáltatások területi lefedettsége, elérhetősége, az ellátási terület földrajzi és demográfiai sajátosságai, valamint az igénybe vehető egyéb szociális szolgáltatások és azok kapacitása,
 
-c)[^65] a szolgáltatónak – a pénzügyi-gazdálkodási tervben foglaltak alapján megállapítható – hatékonysága,
+c)[^66] a szolgáltatónak – a pénzügyi-gazdálkodási tervben foglaltak alapján megállapítható – hatékonysága,
 
-d)[^66] már működő szolgáltató esetén a Főigazgatóság, az igazgatóságok és a működést engedélyező szerv ellenőrzése során tett megállapítások,
+d)[^67] már működő szolgáltató esetén a Főigazgatóság, az igazgatóságok és a működést engedélyező szerv ellenőrzése során tett megállapítások,
 
 e) a rendelkezésre álló költségvetési források
 
 ## alapján kell meghozni.
 
-(3)[^67]
+(3)[^68]
 
 (4) A pályázat nem támogatható, ha
 
@@ -26,21 +26,21 @@ c) a szakmai programban foglaltak nincsenek összhangban az ellátási terület 
 
 d) a pénzügyi-gazdálkodási tervben tervezett bevételek nem teljesíthetőek, a kiadások nem állnak összhangban a szakmai programban bemutatott személyi és tárgyi feltételekkel és a vállalt feladatokkal, vagy a szolgáltató működésének pénzügyi feltételei egyéb okból nem biztosítottak.
 
-(5)[^68] A Főigazgatóság a döntésről – a miniszteri döntést követő 8 napon belül – az elektronikus pályázatkezelő rendszere útján értesíti a pályázókat. Az értesítés tartalmazza
+(5)[^69] A Főigazgatóság a döntésről – a miniszteri döntést követő 8 napon belül – az elektronikus pályázatkezelő rendszere útján értesíti a pályázókat. Az értesítés tartalmazza
 
 a) a fenntartó nevét, székhelyét és adószámát;
 
-b)[^69] a szolgáltató nevét, székhelyét, illetve telephelyét és – amennyiben végleges határozattal be van jegyezve a szolgáltatói nyilvántartásba – ágazati azonosítóját;
+b)[^70] a szolgáltató nevét, székhelyét, illetve telephelyét és – amennyiben végleges határozattal be van jegyezve a szolgáltatói nyilvántartásba – ágazati azonosítóját;
 
 c) nyertes pályázat esetén
 
 ca) az ellátási területet,
 
-cb)[^70] fejlesztő foglalkoztatás esetén a finanszírozási szerződésben meghatározandó feladatmutatót,
+cb)[^71] fejlesztő foglalkoztatás esetén a finanszírozási szerződésben meghatározandó feladatmutatót,
 
-cc)[^71] tanoda kivételével a finanszírozási szerződésben az első költségvetési évre meghatározandó működési támogatás összegét,
+cc)[^72] tanoda kivételével a finanszírozási szerződésben az első költségvetési évre meghatározandó működési támogatás összegét,
 
-cd)[^72] tanoda esetén a finanszírozási szerződésben meghatározandó feladatmutatót, valamint a finanszírozási időszakra meghatározandó alaptámogatás és feladattámogatás összegét,
+cd)[^73] tanoda esetén a finanszírozási szerződésben meghatározandó feladatmutatót, valamint a finanszírozási időszakra meghatározandó alaptámogatás és feladattámogatás összegét,
 
 ce) a finanszírozási szerződés megkötéséhez szükséges dokumentumok felsorolását és azok benyújtásának határidejét,
 
@@ -50,25 +50,25 @@ d) elutasított pályázat esetén az elutasítás indokát.
 
 (6) A döntés érvényét veszti, ha
 
-a)[^73] az (5) bekezdés ca)–cd) alpontja szerinti feltételek eltérnek attól, amit a fenntartó a pályázatában vállalt, és azt a fenntartó nem fogadja el, vagy
+a)[^74] az (5) bekezdés ca)–cd) alpontja szerinti feltételek eltérnek attól, amit a fenntartó a pályázatában vállalt, és azt a fenntartó nem fogadja el, vagy
 
-b)[^74] a finanszírozási szerződés a döntésről szóló értesítésben megjelölt időpontig, a szolgáltatói nyilvántartásba ebben az időpontban nem vagy nem a döntésnek megfelelően bejegyzett szolgáltató esetén a bejegyzés, illetve az adatmódosítás véglegessé válását követő 30 napon belül a fenntartó mulasztásából vagy neki felróható egyéb okból nem jön létre, vagy
+b)[^75] a finanszírozási szerződés a döntésről szóló értesítésben megjelölt időpontig, a szolgáltatói nyilvántartásba ebben az időpontban nem vagy nem a döntésnek megfelelően bejegyzett szolgáltató esetén a bejegyzés, illetve az adatmódosítás véglegessé válását követő 30 napon belül a fenntartó mulasztásából vagy neki felróható egyéb okból nem jön létre, vagy
 
 c) a fenntartó a pályázatban vagy az ahhoz csatolt iratokban szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a pályázat nem került volna támogatásra.
 
-(7)[^75] A (6) bekezdés b)–c) pontja szerinti körülmények fennállásáról – a határidő leteltét, illetve a valós adatokról, tényekről, körülményekről történő tudomásszerzést követő 8 napon belül – a Főigazgatóság értesíti a fenntartót.
+(7)[^76] A (6) bekezdés b)–c) pontja szerinti körülmények fennállásáról – a határidő leteltét, illetve a valós adatokról, tényekről, körülményekről történő tudomásszerzést követő 8 napon belül – a Főigazgatóság értesíti a fenntartót.
 
-[^62]: A 7. § (1) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 22. §-ával megállapított, a 419/2015. (XII. 23.) Korm. rendelet 23. § d) pontja és 24. § 12. pontja, a 379/2016. ( XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés j) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^63]: A 7. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 13. pontja, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés k) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^64]: A 7. § (2) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
-[^65]: A 7. § (2) bekezdés c) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
-[^66]: A 7. § (2) bekezdés d) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 16. pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^67]: A 7. § (3) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 24. § 17. pontja hatályon kívül helyezte.
-[^68]: A 7. § (5) bekezdés nyitó szövegrésze a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont cd) alpontja, a 317/2012. (XI. 13.) Korm. rendelet 26. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^69]: A 7. § (5) bekezdés b) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont ce) alpontja, a 369/2013. (X. 24.) Korm. rendelet 56. § (5) bekezdés c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 225. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^70]: A 7. § (5) bekezdés c) pont cb) alpontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 18. pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 34. §-a iktatta be.
-[^71]: A 7. § (5) bekezdés c) pont cc) alpontja a 226/2018. (XII. 4.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^72]: A 7. § (5) bekezdés c) pont cd) alpontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 18. pontja hatályon kívül helyezte, újonnan a 226/2018. (XII. 4.) Korm. rendelet 8. §-a iktatta be.
-[^73]: A 7. § (6) bekezdés a) pontja a 419/2051. (XII. 23.) Korm. rendelet 23. § d) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
-[^74]: A 7. § (6) bekezdés b) pontja a 369/2013. (X. 24.) Korm. rendelet 56. § (2) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 24. § 16. pontja, a 457/2017. (XII. 28.) Korm. rendelet 225. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^75]: A 7. § (7) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^63]: A 7. § (1) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 22. §-ával megállapított, a 379/2016. ( XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés j) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § c) pontja, a 82/2019. (IV. 18.) Korm. rendelet 2. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^64]: A 7. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 13. pontja, a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés k) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^65]: A 7. § (2) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
+[^66]: A 7. § (2) bekezdés c) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
+[^67]: A 7. § (2) bekezdés d) pontja a 419/2015. (XII. 23.) Korm. rendelet 24. § 16. pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^68]: A 7. § (3) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 24. § 17. pontja hatályon kívül helyezte.
+[^69]: A 7. § (5) bekezdés nyitó szövegrésze a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont cd) alpontja, a 317/2012. (XI. 13.) Korm. rendelet 26. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^70]: A 7. § (5) bekezdés b) pontja a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés c) pont ce) alpontja, a 369/2013. (X. 24.) Korm. rendelet 56. § (5) bekezdés c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 225. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^71]: A 7. § (5) bekezdés c) pont cb) alpontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 18. pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 34. §-a iktatta be.
+[^72]: A 7. § (5) bekezdés c) pont cc) alpontja a 226/2018. (XII. 4.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^73]: A 7. § (5) bekezdés c) pont cd) alpontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 18. pontja hatályon kívül helyezte, újonnan a 226/2018. (XII. 4.) Korm. rendelet 8. §-a iktatta be.
+[^74]: A 7. § (6) bekezdés a) pontja a 419/2051. (XII. 23.) Korm. rendelet 23. § d) pontja, a 226/2018. (XII. 4.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^75]: A 7. § (6) bekezdés b) pontja a 369/2013. (X. 24.) Korm. rendelet 56. § (2) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 24. § 16. pontja, a 457/2017. (XII. 28.) Korm. rendelet 225. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^76]: A 7. § (7) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
