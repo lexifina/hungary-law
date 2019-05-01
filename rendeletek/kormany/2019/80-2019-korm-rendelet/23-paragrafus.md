@@ -1,3 +1,0 @@
-## 22. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Get. vhr.) 11. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Az elosztási szolgáltatás megtagadása esetén a földgázelosztó a helyszínen haladéktalanul jegyzőkönyvet készít, amelynek egy példányát a felhasználót ellátó rendszerhasználónak elektronikus úton megküldi, valamint a felhasználónak átadja vagy elektronikus kapcsolattartás esetén elektronikusan megküldi. A jegyzőkönyv tartalmazza az intézkedő személy azonosítóját, a megtagadás okát, időpontját, a fogyasztásmérő-berendezés állását és a visszakapcsolás feltételeit.”

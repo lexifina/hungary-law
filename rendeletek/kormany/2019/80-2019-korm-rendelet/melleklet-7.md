@@ -1,21 +1,3 @@
-## Az R1. 1. mellékletében foglalt táblázat 103–106. sora helyébe a következő sorok lépnek:
+7. melléklet a 80/2019. (IV. 15.) Korm. rendelethez[^20]
 
-|  | [A | B | C | D | E | F | G | H | I |
-
-| 1 | Főcsoport | Csoport | Alcsoport |  |  |  |  |
-
-| 2 | Megnevezése és a főcsoporthoz tartozó típusos kőzet általános földtani leírása | Megnevezése | A csoporthoz tartozó típusos kőzet általános földtani leírása | Megnevezése | Az alcsoporthoz tartozó típusos kőzet általános földtani leírása | Kód | A nyersanyag fajlagos értéke | Mérték- egység | A 64/2013. (III. 4.) Korm. rendelet hatálybalépését megelőzően bevallott ásványi nyersanyag kódszáma és megnevezése] |
-
-| 103 | 12. Szénhidrogén tartalmú nyersanyagok A kőolaj és a szénhidrogén- földgáz. Összefoglaló elnevezése: szénhidrogén. | 2. Konvencionális eljárással termelhető szénhidrogén földgáz | A szénhidrogéntelep kezdeti nyomásán és hőmérsékletén gáz- és cseppfolyós halmazállapotú, szénhidrogén alapú gázok elegyének technikai normál állapoton (15 °C. 0,1 MPa) gáz halmazállapotú része. Idetartozik a földgáz technikai normál állapoton folyékony (állandósított) része (kondenzátum, gazolin), amelyet átszámítással kell a kútfejen termelt gázmennyiségben szerepeltetni. Összetételében könnyű paraffin szénhidrogénekből (főleg CH4) álló, gyakran CO2-t és N2-t, esetleg H2S-t, és nemes gázokat tartalmazó gáz. A konvencionális eljárással termelt szénhidrogén földgáz másodlagos migráció révén kerül a felhalmozódás helyére, ahol a sűrűség szerint elkülönült szénhidrogének (földgáz, kőolaj) normál porozitású és permeabilitású rezervoár-kőzetekben helyezkednek el, és hagyományos technológiával kitermelhetők. A földgáz összetételében a nem éghető gázok aránya nem éri el a 30 térfogat %-ot. |  | Oil Market | 2120 | E=2034 * k–K2*I ahol E= a szénhidrogén földgáz – bányajáradék szempontjából figyelembevett – értéke (Ft/GJ) k= P1 * 7,55 * d1 / P0 * 7,55 *d0P1 = a Platt’s Oil Market Wire Brent (Dtd) bevallási időszak (hónap) napi árainak (USD/bbl) számtani átlaga P0 = a Platt’s Oil Market Wire Brent (Dtd) 2007. december hónap napi árainak – (USD/bbl) számtani átlaga 7,55= USD/bbl ár és az USD/t ár viszonyszáma d1 = az MNB devizaárfolyamainak bevallási időszakra (hónap) vonatkozó számtani átlaga Ft/USD | Ft/GJ | 9020 Konvencionális eljárással termelt szénhidrogén földgáz |
-
-| 104 |  | 3. Nem konvencionális eljárással termelhető szénhidrogén földgáz (medence- központú gáz) | Olyan szénhidrogén földgáz, amelynek fizikai-kémiai paraméterei megegyeznek a konvencionális eljárással termelt szénhidrogén földgázéval (kód: 2120), de a keletkezés helyén, az anyakőzetben található, azaz (még) nem zajlottak le a migrációs folyamatok, és a fázisok hidrodinamikai törvények szabályozta szétválása sem történt meg. Ezért nevezik „folyamatos telítettségű” vagy „nem-hidrodinamikus” telepnek is. A rezervoár nagyon alacsony permeabilitású, hagyományos technológiával nem termelhető (hatékony stimuláció szükséges), illetve kinyerése növelt hatékonyságú eljárásokat igényel. |  |  | 2130 | d0 = az MNB devizaárfolyamainak 2007. december hónapra vonatkozó számtani átlaga Ft/USD K2 = fajlagos előkészítési költség 80 Ft/GJ I = korrekciós tényező évenként az előző évi ipari – élelmiszer nélküli – belföldi értékesítés árindexével növekszik. Az I értéke 2008. évben 1,06 |  | 9030 Nem konvencionális eljárással termelt szénhidrogén földgáz |
-
-| 104/a | 3/a. Kísérőgáz | A földkéregből kitermelt + 30 °C-ot meghaladó hőmérsékletű folyékony halmazállapotú anyagból kinyerhető éghető, oldott gázok. |  |  | 2131 |  |
-
-| 105 | 4. Inert földgáz | A föld felszíne alatt légnemű halmazállapotban előforduló olyan ásványi nyersanyag, amelynek összetételében, a nem éghető gázok aránya eléri vagy meghaladja a 30 térfogat %-ot, de nem soroljuk ide a vízgőzt. | 1. Szénhidrogén tartalmú inert földgáz | Olyan szénhidrogén tartalmú földgáz, amelynek inert gáz tartalma eléri vagy meghaladja a 30 térfogat %-ot. | 2141 | 9040 Magas inert gáz tartalmú szénhidrogén földgáz |
-
-| 106 | 2. Széndioxid földgáz | Olyan inert földgáz, amely CO2 tartalma legalább 60%, és fűtőértéke nem éri el a 12 MJ/m3-t. | 2142 | 3 900 | Ft/Em3 | 9400 Széndioxid földgáz |
-
-7. melléklet a 80/2019. (IV. 15.) Korm. rendelethez[^5]
-
-[^5]: A 7. melléklet a 43. § (2) bekezdése alapján 2019. június 1-jén lép hatályba.
+[^20]: A 7. melléklet a 43. § (2) bekezdése alapján 2019. június 1-jén lép hatályba.
