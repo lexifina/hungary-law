@@ -1,5 +1,3 @@
-## 5. § Az emberi alkalmazásra kerülő gyógyszerek gyártásának személyi és tárgyi feltételeiről szóló 44/2005. (X. 19.) EüM rendelet (a továbbiakban: R2.) 6. § (2) bekezdése a következő g) ponttal egészül ki:
+## 5. §[^5]
 
-## (Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-## „g) a Bizottság 2017. szeptember 15-i (EU) 2017/1572 irányelve a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

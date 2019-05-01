@@ -1,3 +1,3 @@
-## 7. § Az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet (a továbbiakban: R3.) 33. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^7]
 
-## „(7) A jogosult a gyógyszer első magyarországi kereskedelmi forgalomba hozatalát, valamint a gyógyszer csomagolását vagy a betegtájékoztatót érintő változás esetén a gyógyszer magyarországi kereskedelmi forgalomba hozatalát követő nyolcadik napig tájékoztatásul megküldi az OGYÉI részére a gyógyszer végleges mintáját vagy mintájának fényképét, valamint a gyógyszernek a gyártási engedéllyel rendelkező szervezet minőségbiztosítás érdekében meghatalmazott személye által kibocsátott felszabadítási bizonylatát annak jogosult általi igazolása céljából, hogy a gyógyszer a forgalomba hozatali engedélyben foglaltaknak megfelel.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

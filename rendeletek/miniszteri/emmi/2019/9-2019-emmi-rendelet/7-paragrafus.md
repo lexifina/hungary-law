@@ -1,5 +1,7 @@
-## 6. § Az R2. 1. melléklete a 2. melléklet szerint módosul.
+## 6. §[^6]
 
 ## 3. Az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló
 
 ## 52/2005. (XI. 18.) EüM rendelet módosítása
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

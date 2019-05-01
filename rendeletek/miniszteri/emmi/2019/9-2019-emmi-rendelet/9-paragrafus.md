@@ -1,3 +1,3 @@
-## 8. § Az R3. a következő 44/A. §-sal egészül ki:
+## 8. §[^8]
 
-## „44/A. § A 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet 3. cikk (2) bekezdés b) pontja szerinti manipulálás elleni eszköz alkalmazási köre kiterjeszthető mindazon gyógyszerekre, amelyek esetében azt a forgalomba hozatali engedély jogosultja saját döntése alapján a betegek biztonsága érdekében indokoltnak tartja.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
