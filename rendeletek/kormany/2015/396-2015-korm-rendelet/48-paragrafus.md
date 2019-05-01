@@ -10,4 +10,6 @@
 
 (5) Az audit hatóság 2016-tól 2024-ig köteles évente felülvizsgálni az audit stratégiát.
 
-(6) Az audit hatóság az audit stratégiában foglaltaknak megfelelően köteles elkészíteni minden év február 28-ig az éves ellenőrzési tervét, melyet tájékoztatás céljából megküld az államháztartásért felelős miniszter, valamint az irányító hatóság és közös titkárság részére.
+(6)[^57] Az audit hatóság az audit stratégiában foglaltaknak megfelelően köteles elkészíteni minden év május 31-ig az éves ellenőrzési tervét, melyet tájékoztatás céljából megküld az államháztartásért felelős miniszter, valamint az irányító hatóság és közös titkárság részére.
+
+[^57]: A 48. § (6) bekezdése a 92/2019. (IV. 23.) Korm. rendelet 10. § 9. pontja szerint módosított szöveg.

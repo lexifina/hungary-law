@@ -1,8 +1,9 @@
-## 25. [^53] Az elektronikus monitoring és információs rendszerekre vonatkozó speciális szabályok
+## 25. [^63] Az elektronikus monitoring és információs rendszerekre vonatkozó speciális szabályok
 
-56. §[^54] (1) A Duna Transznacionális Program végrehajtásában érintett szervezet köteles a DTP eMS rendszert használni a végrehajtási, ellenőrzési, monitoring, hitelesítési és program szintű szabálytalanságkezelési feladata ellátása során.
+56. §[^64] (1) A Duna Transznacionális Program végrehajtásában érintett szervezet köteles a DTP eMS rendszert használni a végrehajtási, ellenőrzési, monitoring, hitelesítési és program szintű szabálytalanságkezelési feladata ellátása során.
 
-(2) A Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program és az INTERREG EUROPE interregionális együttműködési program végrehajtásában érintett szervezet köteles az IMIR 2014–2020 rendszert használni a hazai társfinanszírozási és megelőlegezési szerződések és kifizetések, valamint a nemzeti szintű szabálytalanságok kezelésére.
+(2)[^65] A Duna Transznacionális Program, az Interreg CENTRAL EUROPE transznacionális együttműködési program és az INTERREG EUROPE interregionális együttműködési program végrehajtásában érintett szervezet a NAHU 2014–2020 rendszert használja.
 
-[^53]: A 25. alcím címe a 482/2017. (XII. 28.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.
-[^54]: Az 56. § a 482/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^63]: A 25. alcím címe a 482/2017. (XII. 28.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.
+[^64]: Az 56. § a 482/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^65]: Az 56. § (2) bekezdése a 92/2019. (IV. 23.) Korm. rendelet 9. §-ával megállapított szöveg.

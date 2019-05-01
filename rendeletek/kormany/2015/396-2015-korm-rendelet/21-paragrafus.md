@@ -1,3 +1,3 @@
-21. §[^24]
+21. §[^31]
 
-[^24]: A 21. §-t a 482/2017. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^31]: A 21. §-t a 482/2017. (XII. 28.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

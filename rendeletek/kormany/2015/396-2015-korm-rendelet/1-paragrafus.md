@@ -24,7 +24,7 @@
 
 8. együttműködési program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás: az együttműködési programban résztvevő partnerországok által évenként, lakosságszámuk arányában nyújtott hozzájárulás az együttműködési program hatékony működtetéséhez szükséges költségek fedezésére,
 
-9.[^2] elektronikus monitoring és információs rendszer: a 2014–2020 programozási időszakban a transznacionális és interregionális együttműködési programok és projektek program szintű lebonyolítását támogató rendszer,
+9.[^2] elektronikus monitoring és információs rendszer: a 2014–2020 programozási időszakban a transznacionális és interregionális együttműködési programok és projektek program vagy nemzeti szintű lebonyolítását támogató rendszer,
 
 9a.[^3] felhívás: a támogatást igénylők számára elkészített, a pályázatok benyújtásához szükséges információkat tartalmazó dokumentumcsomag,
 
@@ -44,7 +44,7 @@
 
 16. igazoló hatóság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 123. cikk (2) bekezdése szerinti szervezet,
 
-16a.[^6] IMIR 2014–2020 rendszer: a 2014–2020 programozási időszakban az európai területi együttműködés célkitűzés keretében megvalósuló transznacionális és interregionális együttműködési programok tagállami hatáskörbe rendelt, nem programszintű feladatainak végrehajtását támogató elektronikus monitoring és információs rendszer,
+16a.[^6]
 
 17. irányító hatóság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 123. cikk (1) bekezdése szerinti szervezet,
 
@@ -60,6 +60,8 @@
 
 23. monitoring bizottság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 47. cikk (3) bekezdése szerinti bizottság,
 
+23a.[^7] NAHU 2014–2020 rendszer: a 2014–2020 programozási időszakban az európai területi együttműködés célkitűzés keretében megvalósuló transznacionális és egyes interregionális együttműködési programok nemzeti feladatainak végrehajtását támogató informatikai rendszer,
+
 24. négy szem elve: valamely feladatot ellátó személy munkájának egy másik személy általi – ugyanazon szempontok szerinti, ismételt és teljes körű – ellenőrzése,
 
 25. nemzeti hatóság: a monitoring bizottságban a tagállami képviseletet biztosító, valamint az együttműködési program vonatkozásában tagállami hatáskörbe rendelt feladatok végrehajtásáért felelős szervezet,
@@ -72,7 +74,7 @@
 
 29. rendszerszintű szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 38. pontja szerinti szabálytalanság,
 
-30. szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 36. pontja, a nemzeti jogszabályok, illetve az uniós támogatási szerződésben, a hazai társfinanszírozási szerződésben, illetve a megelőlegezési szerződésben a felek által vállalt kötelezettségek megsértése, amelynek eredményeként Magyarország pénzügyi érdekei sérülnek, illetve sérülhetnek,
+30.[^8] szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 36. pontjában meghatározott fogalom, valamint a nemzeti jogszabályok által meghatározott, továbbá a hazai társfinanszírozási szerződésben a felek által vállalt kötelezettségek megsértése abban az esetben, ha a hazai társfinanszírozás elszámoltnak tekinthető,
 
 31. TA projekt: olyan – az együttműködési program technikai segítségnyújtás keretéből finanszírozott – projekt, amelynek célja az együttműködési program hatékony, eredményes, szabályszerű és átlátható megvalósításának biztosítása, valamint a végrehajtásáért felelős intézményrendszer magas színvonalú működése,
 
@@ -83,8 +85,10 @@
 (2) Az (1) bekezdésben nem értelmezett fogalmakat az 1303/2013/EU európai parlamenti és tanácsi rendelet, valamint az 1299/2013/EU európai parlamenti és tanácsi rendelet szerint kell értelmezni.
 
 [^1]: Az 1. § (1) bekezdés 6a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^2]: Az 1. § (1) bekezdés 9. pontja a 482/2017. (XII. 28.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 9. pontja a 482/2017. (XII. 28.) Korm. rendelet 13. § 1. pontja, a 92/2019. (IV. 23.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés 9a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés 10. pontja a 482/2017. (XII. 28.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
 [^5]: Az 1. § (1) bekezdés 10a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^6]: Az 1. § (1) bekezdés 16a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^6]: Az 1. § (1) bekezdés 16a. pontját a 482/2017. (XII. 28.) Korm. rendelet 1. § (4) bekezdése iktatta be, hatályon kívül helyezte a 92/2019. (IV. 23.) Korm. rendelet 11. § a) pontja.
+[^7]: Az 1. § (1) bekezdés 23a. pontját a 92/2019. (IV. 23.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^8]: Az 1. § (1) bekezdés 30. pontja a 92/2019. (IV. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

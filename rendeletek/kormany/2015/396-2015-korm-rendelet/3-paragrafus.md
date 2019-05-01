@@ -1,3 +1,5 @@
+## 2/A. §[^9] A Magyar Államkincstár látja el a DTP eMS rendszer szoftverfejlesztését és alkalmazás-, illetve infrastruktúra-üzemeltetését.
+
 ## II. Fejezet
 
 ## A TRANSZNACIONÁLIS ÉS INTERREGIONÁLIS EGYÜTTMŰKÖDÉSI PROGRAMOK HAZAI SZINTŰ LEBONYOLÍTÁSÁNAK RÉSZLETES SZABÁLYAI
@@ -25,3 +27,5 @@ b) az Interreg CENTRAL EUROPE transznacionális együttműködési program és
 c) az INTERREG EUROPE interregionális együttműködési program
 
 hazai társfinanszírozása felhasználásának hitelesítése.
+
+[^9]: A 2/A. §-t a 255/2016. (VIII. 24.) Korm. rendelet 1. §-a iktatta be, szövege a 92/2019. (IV. 23.) Korm. rendelet 2. §-ával megállapított szöveg.

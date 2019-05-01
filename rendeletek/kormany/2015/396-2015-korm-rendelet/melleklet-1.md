@@ -1,4 +1,4 @@
-1. melléklet a 396/2015. (XII. 12.) Korm. rendelethez
+1. melléklet a 396/2015. (XII. 12.) Korm. rendelethez[^74]
 
 A 2014–2020 programozási időszakban a transznacionális és interregionális együttműködési programok végrehajtásában érintett szervezetek
 
@@ -6,7 +6,7 @@ A 2014–2020 programozási időszakban a transznacionális és interregionális
 
 | 1. | Végrehajtásban érintett szervezet | Duna Transznacionális Program | Interreg CENTRAL EUROPE transznacionális együttműködési program | INTERREG EUROPE interregionális együttműködési program | INTERACT III interregionális együttműködési program | ESPON 2020 interregionális együttműködési program | URBACT III interregionális együttműködési program |
 
-| 2. | irányító hatóság és közös titkárság | Nemzetgazdasági Minisztérium szervezeti és működési szabályzatában meghatározott szervezeti egység | – | – | – | – | – |
+| 2. | irányító hatóság és közös titkárság | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározott szervezeti egység | – | – | – | – | – |
 
 | 3. | igazoló hatóság | Magyar Államkincstár | – | – | – | – | – |
 
@@ -21,3 +21,5 @@ A 2014–2020 programozási időszakban a transznacionális és interregionális
 | 8. | hitelesítési tevékenységre kijelölt szervezet | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | – | – | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
 | 9. | az együttműködési program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
+
+[^74]: Az 1. melléklet a 92/2019. (IV. 23.) Korm. rendelet 10. § 13. pontja szerint módosított szöveg.
