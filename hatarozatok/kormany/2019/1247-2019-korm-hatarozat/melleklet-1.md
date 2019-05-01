@@ -40,13 +40,9 @@
 
 ## Határidő: a d) alpont szerinti forrás rendelkezésre állását követően azonnal
 
-## 2. A Magyarország vasúthálózat-fejlesztéseihez szükséges kötelezettségvállalásról szóló 1154/2018. (III. 27.) Korm. határozat [a továbbiakban: 1154/2018. (III. 27.) Korm. határozat] nyitó szövegrésze a következő hatodik franciabekezdéssel egészül ki:
+## 2.[^1]
 
-## (A Kormány tekintettel)
-
-## „– a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaságnak a kormányzati célú hálózatok fejlesztésében való közreműködésének finanszírozásáról szóló 1247/2019. (IV. 30.) Korm. határozatra”
-
-## 3. Az 1154/2018. (III. 27.) Korm. határozat b) pontjában a „35 757 675 137 forint” szövegrész helyébe a „36 861 119 642 forint” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1247/2019. (IV. 30.) Korm. határozathoz
 
@@ -131,3 +127,6 @@
 | Magyar Államkincstár |  | 1 példány |  | egyéb: | azonnal |  | 887 824 539 |  | 887 824 539 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
