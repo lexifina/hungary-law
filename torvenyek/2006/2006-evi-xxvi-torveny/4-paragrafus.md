@@ -17,3 +17,5 @@
 (9) A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) földgáztárolásra és engedélyezésre vonatkozó rendelkezéseit e törvény szerinti eltéréssel kell alkalmazni a földgáz biztonsági készletre a földgáz biztonsági tárolás és a biztonsági földgáz tárolói engedély tekintetében. A biztonsági földgáz tárolóban elhelyezett a földgáz biztonsági készletet meghaladó földgáz készletre a Get. földgáz tárolásra és engedélyezésre vonatkozó szabályait kell alkalmazni.
 
 (10) A földgáz biztonsági készlethez szabad hozzáféréssel kizárólag csak a jogszabályban meghatározottak és csak a jogszabályban meghatározott feltételek fennállása esetén és idején rendelkeznek.
+
+(11) A földgáz biztonsági készlet tárolásáért fizetett díj nem haladhatja meg a Hivatal által a Get. szerint megállapított földgáztárolási díjat.

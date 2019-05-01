@@ -36,11 +36,7 @@ vonatkozik.
 
 (7) A tag a tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
 
-(8) Az Alapszabályban meghatározott feltételekkel visszaigényelhető
-
-a) a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére bevallott és
-
-b) azon földgázmennyiség után bevallott tagi hozzájárulás, amelyet igazoltan nem energetikai célra, hanem vegyipari alapanyagként hoznak be, használnak fel vagy értékesítenek.
+(8) Az Alapszabályban meghatározott feltételekkel visszaigényelhető a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére bevallott.
 
 (8a)–(8b)
 
