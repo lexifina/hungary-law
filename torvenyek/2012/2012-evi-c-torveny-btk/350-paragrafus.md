@@ -26,4 +26,4 @@ i) szavazatát anyagi juttatás nyújtásától teszi függővé, és erre tekin
 
 bűntettet követ el és három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő, aki nemzetiségi önkormányzati képviselőjelöltként történő nyilvántartásba vételhez szükséges nyilatkozatában korábbi nemzetiségi önkormányzati képviselőjelöltségére vonatkozóan valótlan tartalmú nyilatkozatot tesz.
+(2)

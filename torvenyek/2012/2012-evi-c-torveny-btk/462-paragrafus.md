@@ -33,3 +33,5 @@ követik el.
 (4) Bűncselekmény valósul meg, ha az ugyanazon elkövető által, egy éven belül elkövetett és együttesen elbírált
 
 a) ugyanolyan tulajdon elleni szabálysértés esetén a dolog értéke, az okozott kár, illetve az okozott vagyoni hátrány a (2) bekezdés a)–c) pontjában meghatározott összeget,
+
+b) szerzői vagy szerzői joghoz kapcsolódó jogok megsértése esetén az üreshordozó díj, illetve a reprográfiai díj a (2) bekezdés d) pontjában meghatározott összeget,
