@@ -6,7 +6,7 @@ Fűrész Tündét,
 
 Hegyi Lászlót,
 
-Langerné Victor Katalint,
+Langerné Victor Katalint,[^1]
 
 Nyitrai Imrét és
 
@@ -17,3 +17,5 @@ az Emberi Erőforrások Minisztériuma helyettes államtitkárává
 – 2014. július 1-jei hatállyal –
 
 kinevezem.
+
+[^1]: A 49/2019. (IV. 30.) ME határozat alapján Langerné Victor Katalin tekintetében az „Emberi Erőforrások Minisztériuma” megnevezés helyett a „Belügyminisztérium” megnevezést kell érteni.
