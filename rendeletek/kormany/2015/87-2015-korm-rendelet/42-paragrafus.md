@@ -36,7 +36,7 @@ h) a feltett kérdéseket,
 
 i) a záróvizsga végső értékelését, minősítését.
 
-(4)[^110] A doktori szigorlati jegyzőkönyv, illetve komplexvizsga-jegyzőkönyv tartalmazza
+(4)[^112] A doktori szigorlati jegyzőkönyv, illetve komplexvizsga-jegyzőkönyv tartalmazza
 
 a) a felsőoktatási intézmény nevét, intézményi azonosító számát,
 
@@ -56,7 +56,7 @@ g) a szigorlati bizottság, illetve komplexvizsga-bizottság elnökének és tag
 
 a) a felsőoktatási intézmény nevét, intézményi azonosító számát,
 
-b)[^111] a doktorjelölt, illetve a doktori értekezés benyújtója nevét, hallgatói azonosító számát, végzettségét és szakképzettségét,
+b)[^113] a doktorjelölt, illetve a doktori értekezés benyújtója nevét, hallgatói azonosító számát, végzettségét és szakképzettségét,
 
 c) a megszerzendő fokozat tudományterületét és tudományágát,
 
@@ -76,7 +76,7 @@ j) a vitában résztvevők nevét,
 
 k) a bírálóbizottság véleményét és értékelését.
 
-(6)[^112] A záróvizsga jegyzőkönyv, a doktori szigorlati jegyzőkönyv, a komplexvizsga-jegyzőkönyv és a doktori védési jegyzőkönyv a törzslap melléklete.
+(6)[^114] A záróvizsga jegyzőkönyv, a doktori szigorlati jegyzőkönyv, a komplexvizsga-jegyzőkönyv és a doktori védési jegyzőkönyv a törzslap melléklete.
 
 (7) Az (1) és (3)–(5) bekezdésben meghatározott irat lehet:
 
@@ -84,6 +84,6 @@ a) a felsőoktatási intézmény TR-ében nyilvántartott adatokból előállít
 
 b) papír alapú irat.
 
-[^110]: A 42. § (4) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^111]: A 42. § (5) bekezdés b) pontja a 266/2016. (VIII. 31.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^112]: A 42. § (6) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^112]: A 42. § (4) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^113]: A 42. § (5) bekezdés b) pontja a 266/2016. (VIII. 31.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^114]: A 42. § (6) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.

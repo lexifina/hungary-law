@@ -1,4 +1,4 @@
-21/D. §[^70] (1) A szakirányú továbbképzés képzési és kimeneti követelményeinek a kötelező tartalmi elemei:
+21/D. §[^72] (1) A szakirányú továbbképzés képzési és kimeneti követelményeinek a kötelező tartalmi elemei:
 
 a) a szakirányú továbbképzés megnevezése;
 
@@ -36,4 +36,4 @@ c) a korábban szerzett ismeretek, gyakorlatok beszámítási rendjéről.
 
 (4) Szakirányú továbbképzésben önálló szakképzettséget eredményező szakirány nem indítható.
 
-[^70]: A 21/D. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.
+[^72]: A 21/D. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.

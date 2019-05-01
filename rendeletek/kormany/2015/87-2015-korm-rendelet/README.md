@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2017-12-23 | 2015-87-20-22.16 | 407/2017. (XII. 15.) Korm. rendelet |
 | 2018-01-01 | 2015-87-20-22.17 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-09-01 | 2015-87-20-22.18 | 345/2015. (XI. 19.) Korm. rendelet |
+| 2019-05-01 | 2015-87-20-22.19 | 82/2019. (IV. 18.) Korm. rendelet |

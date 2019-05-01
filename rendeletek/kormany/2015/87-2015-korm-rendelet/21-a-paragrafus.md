@@ -1,4 +1,4 @@
-21/A. §[^67] (1) Szakirányú továbbképzés lehet:
+21/A. §[^69] (1) Szakirányú továbbképzés lehet:
 
 a) egy vagy több képzési területhez kapcsolódó szakirányú szakképzettséget nyújtó képzés;
 
@@ -18,4 +18,4 @@ d) pedagógus-szakvizsgára felkészítő képzés.
 
 (6) Az (1) bekezdés b) pontja szerint szervezhető a szakjogász, szakközgazdász vagy szakmérnök szakképzettséget adó szakirányú továbbképzés. Szakjogász szakképzettséget csak jogász, szakközgazdász szakképzettséget csak közgazdász, szakmérnök szakképzettséget csak mérnök szakképzettséggel rendelkezők szerezhetnek.
 
-[^67]: A 21/A. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.
+[^69]: A 21/A. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.
