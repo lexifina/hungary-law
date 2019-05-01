@@ -1,3 +1,3 @@
-## 31. §[^28]
+## 31. §[^30]
 
-[^28]: A 31. §-t a 345/2015. (XI. 19.) Korm. rendelet 52. § 3. pontja hatályon kívül helyezte.
+[^30]: A 31. §-t a 345/2015. (XI. 19.) Korm. rendelet 52. § 3. pontja hatályon kívül helyezte.
