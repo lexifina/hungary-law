@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-28-00-00
 | 2019-04-26 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-28-00-00.3 |
 | 2019-04-27 | 2010. évi CXXX. törvény | 2019-28-00-00.4 |
 | 2019-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-28-00-00.5 |
+| 2019-05-02 | 2010. évi CXXX. törvény | 2019-28-00-00.6 |
