@@ -1,7 +1,7 @@
-16. § Hatályát veszti az ÁSZtv.
+16. §
 
 a)
 
-b) 21. § (4)–(9a) bekezdése,
+b)
 
 c)
