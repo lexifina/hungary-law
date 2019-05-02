@@ -1,4 +1,4 @@
-## 26–30. §[^10]
+## 26–30. §[^13]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 23. § (1) bekezdése, a 25. § és az 1. melléklet 2019. május 1-jén lép hatályba.
 
-[^10]: A 26–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 26–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
