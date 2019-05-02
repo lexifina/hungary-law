@@ -1,1 +1,0 @@
-## „30. szabálytalanság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 36. pontjában meghatározott fogalom, valamint a nemzeti jogszabályok által meghatározott, továbbá a hazai társfinanszírozási szerződésben a felek által vállalt kötelezettségek megsértése abban az esetben, ha a hazai társfinanszírozás elszámoltnak tekinthető,”
