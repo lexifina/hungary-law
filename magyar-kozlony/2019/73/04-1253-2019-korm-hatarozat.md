@@ -1,0 +1,59 @@
+# A Kormány 1253/2019. (V. 2.) Korm. határozata
+
+Magyar Közlöny 2019. évi 73. szám, 2019. május 2. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ePSjZGBEx02IiD7Ml3265cbf57efebc78/dokumentumok/e38852c1464fbc55d503c28843f814d98edd768a/letoltes)
+
+---
+
+A Kormány 1253/2019. (V. 2.) Korm. határozata
+állami tulajdonban álló ingatlan Esztergom-Budapesti Főegyházmegye részére történő ingyenes tulajdonba
+adásáról
+A Kormány
+1. az állami vagyonról szóló 2007. évi CVI. törvény 36. § (2) bekezdés g) pontjára figyelemmel a 36. § (3) bekezdésében
+biztosított jogkörében eljárva úgy dönt, hogy a Magyar Állam tulajdonában álló, Budapest XV. kerület, belterület
+87690 helyrajzi számon felvett, természetben az 1152 Budapest, Széchenyi tér 4. szám alatt található „kivett
+irodaház” megnevezésű, 857 m2 területű ingatlan (a továbbiakban: Ingatlan) tulajdonjoga hitéleti és kulturális
+feladatok ellátásának elősegítése céljából, ingyenesen az Esztergom-Budapesti Főegyházmegye (a továbbiakban:
+egyházi jogi személy) tulajdonába kerüljön;
+2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő
+Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján tegye meg a szükséges intézkedéseket
+annak érdekében, hogy a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződés
+(a továbbiakban: szerződés) megkötésre kerüljön az egyházi jogi személlyel;
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: azonnal
+3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a 2. pont szerinti szerződést
+az MNV Zrt. útján akként kösse meg, hogy az – a tulajdonátruházási szerződésekre vonatkozó általános jogszabályi
+követelményeken túlmenően – tartalmazza az alábbiakat:
+a) az Ingatlannak a tulajdonosi joggyakorló által megállapított forgalmi értékét,
+b) az egyházi jogi személy kötelezettségvállalását arra vonatkozóan, hogy az Ingatlant terhelő kötelezettségeket
+teljeskörűen átvállalja, ideértve az esetlegesen felmerülő általános forgalmi adó megtérítését is,
+c) azt, hogy az egyházi jogi személy – szükség esetén – saját költségvetése terhére vállalja az Ingatlan
+környezeti állapotának felmérését, kármentesítését, valamint ha az Ingatlanon tervezett tevékenység
+engedélyköteles, akkor a szükséges engedélyek megszerzését,
+d) azt, hogy az egyházi jogi személy vállalja, hogy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény
+(a továbbiakban: Nvtv.) 13. § (4) bekezdés b) pontjában meghatározott, az átruházott vagyon hasznosításáról
+szóló beszámolási kötelezettségének – a szerződés hatálybalépését követő évtől kezdődően – minden év
+december 31. napjáig írásban tesz eleget,
+e) azt, hogy amennyiben az egyházi jogi személy a d) pontban foglalt kötelezettségének nem tesz eleget,
+az a) pont szerinti bruttó forgalmi érték öt százalékát mint késedelmi kötbért köteles az MNV Zrt. erre
+vonatkozó felhívásának kézhezvételétől számított 30 napon belül megfizetni,
+f) az Ingatlant az Nvtv. 13. § (4) bekezdés a) pontja szerint az egyházi jogi személy a tulajdonjog megszerzésétől
+számított 15 évig nem idegenítheti el, és a juttatás céljának megfelelően köteles hasznosítani, valamint
+állagát megóvni,
+g) ha az egyházi jogi személy az f) pontban foglalt kötelezettségeinek részben vagy egészben nem tesz eleget,
+az MNV Zrt. az Nvtv. 13. § (7) és (8) bekezdésének megfelelően jár el azzal, hogy az egyházi jogi személy
+a nemteljesítési kötbért köteles a felszólítás kézhezvételétől számított 60 napon belül az MNV Zrt.-nek
+megfizetni;
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: azonnal
+4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket
+annak érdekében, hogy a szerződés megkötésére kizárólag abban az esetben kerüljön sor, ha az egyházi jogi
+személy a szerződés általa történő aláírásának időpontjában az adózás rendjéről szóló 2017. évi CL. törvény
+260. §-a szerinti köztartozásmentes adózói adatbázisban nyilvántartott köztartozásmentes adózónak minősül, vagy
+a köztartozásmentes adózói minőséget az egyházi jogi személy az állami adó- és vámhatóság által 30 napnál nem
+
+régebben kiállított köztartozásmentes adózói minőségről szóló igazolással igazolja, és a tulajdonosi joggyakorlóval
+szemben lejárt tartozással nem rendelkezik.
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
