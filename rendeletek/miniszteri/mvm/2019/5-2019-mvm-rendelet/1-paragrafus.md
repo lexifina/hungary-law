@@ -1,1 +1,0 @@
-## 1. A közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 44/2015. (XI. 2.) MvM rendelet módosítása
