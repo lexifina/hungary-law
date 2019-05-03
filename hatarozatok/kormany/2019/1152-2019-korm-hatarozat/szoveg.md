@@ -14,10 +14,12 @@ e) a Dunakanyar kiemelt turisztikai fejlesztési térség meghatározásáról, 
 
 mellékleteiben megnevezett, hazai forrásból finanszírozott fejlesztések (a továbbiakban együtt: Projektek) és az azokhoz rendelt források indikatív jellegűek.
 
-2. A Kormány egyetért azzal, hogy a Projektek megvalósításának céljából a Kormány döntéseivel a 2017–2030. években biztosított források a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: MTÜ) szakmai álláspontja szerinti sorrendben és időrendben, bármely kiemelt turisztikai fejlesztési térség szakmailag indokolt Projektjeinek és további fejlesztéseinek, valamint egyéb egyes turisztikai fejlesztések megvalósítása céljából kerüljenek felhasználásra azzal, hogy az egyes Projektek elhagyásra is kerülhetnek.
+2.[^1] A Kormány egyetért azzal, hogy a Projektek megvalósításának céljából a Kormány döntéseivel a 2017–2030. években biztosított források a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: MTÜ) szakmai álláspontja szerinti sorrendben és időrendben, bármely kiemelt turisztikai fejlesztési térség szakmailag indokolt Projektjeinek és további fejlesztéseinek, valamint egyéb, a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság turizmussal és vendéglátással kapcsolatos egyes feladatainak meghatározásáról szóló 61/2017. (III. 20.) Korm. rendeletben meghatározott feladatok megvalósítása céljából kerüljenek felhasználásra azzal, hogy az egyes Projektek elhagyásra is kerülhetnek.
 
 3. A Kormány felhívja a miniszterelnök kabinetfőnökét, hogy kezelői megállapodás alapján biztosítson lehetőséget arra, hogy a 2. pontban foglalt szakmai álláspontot az MTÜ egyedi támogatói döntés meghozatala útján valósítsa meg.
 
 Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: azonnal
+
+[^1]: A 2. pont az 1258/2019. (V. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
