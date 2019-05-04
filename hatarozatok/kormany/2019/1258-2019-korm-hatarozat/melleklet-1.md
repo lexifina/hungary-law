@@ -14,6 +14,9 @@
 
 ## Határidő: azonnal
 
-## 2. Az egyes kiemelt turisztikai térségben megvalósítandó fejlesztésekhez szükséges további intézkedésekről szóló 1152/2019. (III. 25.) Korm. határozat 2. pontjában az „egyéb egyes turisztikai fejlesztések” szövegrész helyébe az „egyéb, a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság turizmussal és vendéglátással kapcsolatos egyes feladatainak meghatározásáról szóló 61/2017. (III. 20.) Korm. rendeletben meghatározott feladatok” szöveg lép.
+## 2.[^1]
 
-1. melléklet az 1258/2019. (V. 3.) Korm. határozathoz
+1. melléklet az 1258/2019. (V. 3.) Korm. határozathoz[^2]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
