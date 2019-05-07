@@ -1,8 +1,8 @@
 A Kormány
 
-1. támogatja, hogy a Dél-budai Centrum beruházás megvalósítása az Egészséges Budapest Program szervezeti keretein kívül, állami tulajdonú, zártkörűen működő részvénytársaság (a továbbiakban: társaság) létrehozásával, az Egészséges Budapest Programmal együttműködésben történjen;
+1.[^1] támogatja, hogy a Dél-budai Centrum beruházás előkészítése az Egészséges Budapest Program szervezeti keretein kívül, állami tulajdonú, zártkörűen működő részvénytársaság (a továbbiakban: társaság) létrehozásával, az Egészséges Budapest Programmal együttműködésben történjen;
 
-2. felhívja a nemzeti fejlesztési minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján és a Dél-budai Centrum létrehozásával összefüggő koordinációs feladatok ellátásáért felelős miniszterelnöki megbízott bevonásával – gondoskodjon a Dél-budai Centrum beruházás megvalósításáért felelős társaság 720 000 000 forint vagyon rendelkezésre bocsátása mellett történő megalapításáról;
+2.[^2] felhívja a nemzeti fejlesztési minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján és a Dél-budai Centrum létrehozásával összefüggő koordinációs feladatok ellátásáért felelős miniszterelnöki megbízott bevonásával – gondoskodjon a Dél-budai Centrum beruházás előkészítéséért felelős társaság 720 000 000 forint vagyon rendelkezésre bocsátása mellett történő megalapításáról;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -16,7 +16,7 @@ Határidő: azonnal
 
 4. egyetért azzal, hogy a 3. pont szerinti forrásbiztosítás 274 000 000 forint összegben a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 25. Egészséges Budapest Program jogcímcsoport terhére történjen;
 
-5.[^1]
+5.[^3]
 
 6. felhívja a nemzeti fejlesztési minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján és a Dél-budai Centrum létrehozásával összefüggő koordinációs feladatok ellátásáért felelős miniszterelnöki megbízott bevonásával – tegye meg a szükséges intézkedéseket annak érdekében, hogy a Dél-budai Centrum beruházás megvalósításához szükséges állami tulajdonban álló ingatlanok a társaság vagyonkezelésébe kerüljenek.
 
@@ -24,4 +24,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a társaság megalapítását követően azonnal
 
-[^1]: Az 5. pontot az 1298/2018. (VII. 4.) Korm. határozat 3. pontja visszavonta.
+[^1]: Az 1. pont az 1265/2019. (V. 7.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont az 1265/2019. (V. 7.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: Az 5. pontot az 1298/2018. (VII. 4.) Korm. határozat 3. pontja visszavonta.
