@@ -1,6 +1,6 @@
-12. §[^30] (1) A Tny. 18. § (2b)–(2c) bekezdése szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett jogosultsági időnek
+12. §[^31] (1) A Tny. 18. § (2b)–(2c) bekezdése szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett jogosultsági időnek
 
-a)[^31] az 1997. december 31-ét követően a Tbj. 5. § (1) bekezdés a), b) és e)–k) pontjában, valamint (2) és (3) bekezdésében meghatározott jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást, a szakmunkástanuló kötelező nyári gyakorlatát, valamint a szakközépiskolai tanuló biztosítási kötelezettséggel járó jogviszonyban eltöltött nyári gyakorlatát, továbbá a Tbj. 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;
+a)[^32] az 1997. december 31-ét követően a Tbj. 5. § (1) bekezdés a), b) és e)–k) pontjában, valamint (2) és (3) bekezdésében meghatározott jogviszonyban – ideértve az alkalmi munkavállalói könyvvel történő foglalkoztatást, az egyszerűsített foglalkoztatást, a szakmunkástanuló kötelező nyári gyakorlatát, valamint a szakközépiskolai tanuló biztosítási kötelezettséggel járó jogviszonyban eltöltött nyári gyakorlatát, továbbá a Tbj. 1998. január 1-je és 1999. december 31-e között hatályos 7. § (2) bekezdése szerinti biztosítási időt is –;
 
 b) az 1998. január 1-jét megelőzően
 
@@ -18,11 +18,11 @@ b) az 1998. január 1-jét megelőzően
 
 7. a gazdasági munkaközösség tagjaként,
 
-8.[^32] az ipari szövetkezet tagjaként, ipari és szolgáltató szövetkezeti szakcsoport tagjaként,
+8.[^33] az ipari szövetkezet tagjaként, ipari és szolgáltató szövetkezeti szakcsoport tagjaként,
 
 9. a kisszövetkezet tagjaként,
 
-10.[^33] a mezőgazdasági (halászati) termelőszövetkezet tagjaként, mezőgazdasági szakszövetkezeti tagként,
+10.[^34] a mezőgazdasági (halászati) termelőszövetkezet tagjaként, mezőgazdasági szakszövetkezeti tagként,
 
 11. a mezőgazdasági szakcsoport tagjaként,
 
@@ -54,23 +54,23 @@ szerzett szolgálati idő minősül.
 
 (2) A Tny. 18. § (2a)–(2d) bekezdése alapján megállapított öregségi teljes nyugdíj összegét valamennyi megszerzett szolgálati idő alapján kell megállapítani.
 
-(3)[^34] A Tny. 18. § (2a)–(2d) bekezdésének alkalmazása során
+(3)[^35] A Tny. 18. § (2a)–(2d) bekezdésének alkalmazása során
 
-a)[^35] a gyermekgondozást segítő ellátásban eltöltött idővel egy tekintet alá esik a háromévesnél fiatalabb gyermek gondozásával a 29. § (5) bekezdés a) pontja alapján szerzett szolgálati idő,
+a)[^36] a gyermekgondozást segítő ellátásban eltöltött idővel egy tekintet alá esik a háromévesnél fiatalabb gyermek gondozásával a 29. § (5) bekezdés a) pontja alapján szerzett szolgálati idő,
 
-b)[^36] a gyermekek otthongondozási díjában eltöltött idővel egy tekintet alá esik
+b)[^37] a gyermekek otthongondozási díjában eltöltött idővel egy tekintet alá esik
 
 ba) a tartósan beteg vagy súlyosan fogyatékos, tizenkét évesnél fiatalabb vér szerinti vagy örökbe fogadott gyermek gondozásával a 29. § (5) bekezdés a) pontja alapján szerzett szolgálati idő,
 
 bb) a háromévesnél idősebb, de tízévesnél fiatalabb, tartósan beteg vagy súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermek gondozására tekintettel megállapított gyermekgondozási segélyben eltöltött idővel szerzett szolgálati idő.
 
-(4)–(5)[^37]
+(4)–(5)[^38]
 
-[^30]: A 12. §-t a 164/2009. (VIII. 14.) Korm. rendelet 11. § (7) bekezdés e) pontja hatályon kívül helyezte, újonnan a 354/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be. A 12. §-t megelőző alcímet a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^31]: A 12. § (1) bekezdés a) pontja a 90/2014. (III. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 360/2017. (XI. 30.) Korm. rendelet 4. § b) pontja, a 322/2018. (XII. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^32]: A 12. § b) pont 8. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^33]: A 12. § b) pont 10. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^34]: A 12. § (3) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 90/2014. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^35]: A 12. § (3) bekezdés a) pontja a 420/2015. (XII. 23.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^36]: A 12. § (3) bekezdés b) pontja a 322/2018. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^37]: A 12. § (4)–(5) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^31]: A 12. §-t a 164/2009. (VIII. 14.) Korm. rendelet 11. § (7) bekezdés e) pontja hatályon kívül helyezte, újonnan a 354/2010. (XII. 30.) Korm. rendelet 3. §-a iktatta be. A 12. §-t megelőző alcímet a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^32]: A 12. § (1) bekezdés a) pontja a 90/2014. (III. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 360/2017. (XI. 30.) Korm. rendelet 4. § b) pontja, a 322/2018. (XII. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^33]: A 12. § b) pont 8. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^34]: A 12. § b) pont 10. alpontja a 40/2011. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^35]: A 12. § (3) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte, újonnan a 90/2014. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^36]: A 12. § (3) bekezdés a) pontja a 420/2015. (XII. 23.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^37]: A 12. § (3) bekezdés b) pontja a 322/2018. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^38]: A 12. § (4)–(5) bekezdését a 425/2012. (XII. 29.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
