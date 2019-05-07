@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2018-01-01 | 2006-63-20-22.50 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-09-01 | 2006-63-20-22.51 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-01-01 | 2006-63-20-22.52 | 303/2018. (XII. 27.) Korm. rendelet |
+| 2019-05-07 | 2006-63-20-22.53 | 379/2016. (XII. 2.) Korm. rendelet |

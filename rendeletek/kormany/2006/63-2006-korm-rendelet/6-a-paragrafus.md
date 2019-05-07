@@ -32,7 +32,7 @@ h)[^51]
 
 (5)[^53] A fővárosi és megyei kormányhivatal e rendelet szerinti hatósági ügyeiben a felügyeleti szerv a szociál- és nyugdíjpolitikáért felelős miniszter.
 
-(6)[^54] A fővárosi és megyei kormányhivatal e rendelet szerinti szociális feladatköreinek gyakorlásával összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja.
+(6)[^54] A fővárosi és megyei kormányhivatal e rendelet szerinti szociális feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja.
 
 [^40]: A 6/A. §-t a 326/2006. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^41]: A 6/A. § (1) bekezdése a 235/2017. (VIII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
@@ -48,4 +48,4 @@ h)[^51]
 [^51]: A 6/A. § (3) bekezdés h) pontját a 24/2015. (II. 20.) Korm. rendelet 28. § d) pontja hatályon kívül helyezte.
 [^52]: A 6/A. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 454. §-a. Újonnan a 24/2015. (II. 20.) Korm. rendelet 18. § (2) bekezdése iktatta be.
 [^53]: A 6/A. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^54]: A 6/A. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be.
+[^54]: A 6/A. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 102/2019. (V. 6.) Korm. rendelet 6. §-a szerint módosított szöveg.
