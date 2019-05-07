@@ -50,9 +50,9 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 
 (10)[^7] Az 5. melléklet szerinti rehabilitációs hatáskörben másodfokú hatóságként eljáró fővárosi és megyei kormányhivatalok e rendelet szerinti hatósági ügyeiben a felügyeleti szerv a szociál- és nyugdíjpolitikáért felelős miniszter.
 
-(11)[^8] A járási hivatalok rehabilitációs hatósági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f) és g) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket az 5. melléklet szerinti fővárosi és megyei kormányhivatal gyakorolja.
+(11)[^8] A járási hivatalok rehabilitációs hatósági feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket az 5. melléklet szerinti fővárosi és megyei kormányhivatal gyakorolja.
 
-(12)[^9] A járási hivatalok, valamint az 5. melléklet szerinti fővárosi és megyei kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (11) bekezdésben meghatározottak kivételével.
+(12)[^9] A járási hivatalok, valamint az 5. melléklet szerinti fővárosi és megyei kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja a (11) bekezdésben meghatározottak kivételével.
 
 (13) A Szociális és Gyermekvédelmi Főigazgatóság közreműködik a szociál- és nyugdíjpolitikáért felelős miniszter (12) bekezdésben meghatározott feladatainak ellátásában, az ezzel kapcsolatos intézkedéseinek és döntéseinek előkészítésében.
 
@@ -67,7 +67,7 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 [^5]: Az 1. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 371. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^6]: Az 1. § (5) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
 [^7]: Az 1. § (10) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 304/2018. (XII. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^8]: Az 1. § (11) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
-[^9]: Az 1. § (12) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^8]: Az 1. § (11) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 102/2019. (V. 6.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § (12) bekezdése a 20/2017. (II. 2.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 102/2019. (V. 6.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^10]: Az 1. § (14) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^11]: Az 1. § (15) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.

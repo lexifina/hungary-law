@@ -50,9 +50,9 @@ b) a kérelmező folyamatos gondozását, gyógykezelését és az aktuális ál
 
 c) az a) és b) pont szerinti iratokban feltüntetett körülményekkel összefüggő további egészségügyi dokumentációt, valamint
 
-d) ha a kérelmező foglalkoztatott, a foglalkozás-egészségügyi alapszolgáltatás orvosának tájékoztatóját az érintett személy munkaköri feladatairól, a munkavégzés körülményeiről, kockázati viszonyairól, valamint arról, hogy egészségi állapota alapján jelenlegi munkakörében továbbfoglalkoztatható-e.
+d)[^34] ha a kérelmező foglalkoztatott, a foglalkozás-egészségügyi alapszolgáltatás orvosának tájékoztatóját az érintett személy munkaköri feladatairól, álláshelyen ellátott feladatairól, a munkavégzés körülményeiről, kockázati viszonyairól, valamint arról, hogy egészségi állapota alapján jelenlegi munkakörében vagy álláshelyén (a továbbiakban együtt: munkakör) továbbfoglalkoztatható-e.
 
-(7)[^34] A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+(7)[^35] A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárásban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
 
 [^28]: A 6. § a 117/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^29]: A 6. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 187. § (4) bekezdésével megállapított szöveg.
@@ -60,4 +60,5 @@ d) ha a kérelmező foglalkoztatott, a foglalkozás-egészségügyi alapszolgál
 [^31]: A 6. § (4) bekezdés e) pontját a 304/2018. (XII. 27.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
 [^32]: A 6. § (5) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 187. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^33]: A 6. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be.
-[^34]: A 6. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 370. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^34]: A 6. § (6) bekezdés d) pontja a 102/2019. (V. 6.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^35]: A 6. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 370. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

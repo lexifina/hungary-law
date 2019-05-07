@@ -1,5 +1,5 @@
-## 22/G. §[^153]
+## 22/G. §[^156]
 
 ## 12. Záró rendelkezések
 
-[^153]: A 22/G. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be, a 448/2016. (XII. 19.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^156]: A 22/G. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be, a 448/2016. (XII. 19.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.

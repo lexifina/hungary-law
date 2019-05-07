@@ -1,5 +1,5 @@
-31. §[^166] (1) Annak a személynek, aki a kivételes rokkantsági ellátás iránti kérelmét az Mmtv. 38/I. §-ában meghatározottakra tekintettel nyújtja be – a 6/A. § (2) bekezdés b) pontjában foglaltaktól eltérően –, a kérelemhez csatolnia kell a hatályos komplex minősítését tartalmazó döntést.
+31. §[^169] (1) Annak a személynek, aki a kivételes rokkantsági ellátás iránti kérelmét az Mmtv. 38/I. §-ában meghatározottakra tekintettel nyújtja be – a 6/A. § (2) bekezdés b) pontjában foglaltaktól eltérően –, a kérelemhez csatolnia kell a hatályos komplex minősítését tartalmazó döntést.
 
 (2) A pénzbeli és természetbeni szociális ellátásokkal összefüggő egyes kormányrendeletek módosításáról szóló 402/2017. (XII. 15.) Korm. rendelettel megállapított 10/A. §-t a 2018. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 
-[^166]: A 31. §-t a 402/2017. (XII. 15.) Korm. rendelet 12. §-a iktatta be.
+[^169]: A 31. §-t a 402/2017. (XII. 15.) Korm. rendelet 12. §-a iktatta be.
