@@ -10,7 +10,7 @@
 
 ## Felelős: Országos Bírósági Hivatal elnökének felkérésével, Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, belügyminiszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2018. június 30., a Kormányzati infokommunikációs szolgáltatások előirányzat javára átcsoportosított 1 659 976 000 forint tekintetében 2019. március 31., az Intervenciós Támogatási Keret jogcímcsoport javára átcsoportosított 285 326 705 forint tekintetében és a Bethlen Gábor Alap fejezet javára biztosított 264 000 000 forint tekintetében valamint az Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára biztosított 17 700 000 000 forint tekintetében 2019. június 30.
+## Határidő: 2018. június 30., a Kormányzati infokommunikációs szolgáltatások előirányzat javára átcsoportosított 1 659 976 000 forint tekintetében 2019. március 31., az Intervenciós Támogatási Keret jogcímcsoport javára átcsoportosított 285 326 705 forint tekintetében és a Bethlen Gábor Alap fejezet javára biztosított 264 000 000 forint tekintetében 2019. június 30., az Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára biztosított 17 700 000 000 forint tekintetében 2019. december 31.
 
 ## 2. A szociális hozzájárulási adóhoz kapcsolódó megtakarítások kezeléséről szóló 467/2016. (XII. 23.) Korm. rendelet 2. § b) pontjában meghatározott, adókulcscsökkentésből származó szabad forrásokból 1 782 739 394 forint felhasználást engedélyezi és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva abból a 2. melléklet szerinti átcsoportosítást rendeli el.
 
@@ -24,5 +24,5 @@
 
 1. melléklet az 1766/2017. (XI. 7.) Korm. határozathoz
 
-[^1]: Az 1. pont az 1184/2018. (III. 29.) Korm. határozat 3. pontja, az 1403/2018. (VIII. 31.) Korm. határozat 11. pontja, az 1603/2018. (XI. 27.) Korm. határozat 3. pontja, az 1806/2018. (XII. 23.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1184/2018. (III. 29.) Korm. határozat 3. pontja, az 1403/2018. (VIII. 31.) Korm. határozat 11. pontja, az 1806/2018. (XII. 23.) Korm. határozat 9. pontja. az 1263/2019. (V. 7.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 4–5. pontja a 2010: CXXX. törvény 12. § (3) bekezdése alapján hatályát vesztette.
