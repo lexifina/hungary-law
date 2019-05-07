@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1989-30
 | 2017-12-20 | 2017-1989-30-22.2 | 2010: CXXX. törvény |
 | 2017-12-27 | 2017-1989-30-22.3 | 2029/2017. (XII. 27.) Korm. határozat |
 | 2018-03-13 | 2017-1989-30-22.4 | 1080/2018. (III. 13.) Korm. határozat |
+| 2019-05-07 | 2017-1989-30-22.5 | 1080/2018. (III. 13.) Korm. határozat |

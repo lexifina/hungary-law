@@ -28,7 +28,7 @@
 
 ## nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 6 075 073 000 forint tekintetében 2019. június 30.
+## Határidő: 2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 6 075 073 000 forint tekintetében 2020. június 30.
 
 ## c) a Kvtv. 19. § (6) bekezdésében biztosított jogkörében eljárva 5 769 707 742 forint egyszeri átcsoportosítását rendeli el a 3. melléklet szerint;
 
@@ -100,7 +100,7 @@
 
 1. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 17. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 17. pontja, az 1263/2019. (V. 7.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
