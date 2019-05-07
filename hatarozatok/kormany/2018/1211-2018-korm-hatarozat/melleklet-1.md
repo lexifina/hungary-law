@@ -10,7 +10,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter, emberi erőforrások minisztere, a Kormány nemzetpolitikáért felelős tagja
 
-## Határidő: 2019. június 30., a Közgyűjtemények cím javára biztosított 254 000 000 forint tekintetében 2019. december 31.
+## Határidő: 2019. június 30., a Közgyűjtemények cím javára biztosított 254 000 000 forint tekintetében 2019. december 31., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 6 000 000 000 forint tekintetében 2020. június 30.
 
 ## 2.[^2]
 
@@ -20,5 +20,5 @@
 
 1. melléklet az 1211/2018. (IV. 6.) Korm. határozathoz
 
-[^1]: Az 1. pont az 1057/2019. (II. 22.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1057/2019. (II. 22.) Korm. határozat 6. pontja, az 1263/2019. (V. 7.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
