@@ -8,6 +8,7 @@ c) Budapest területére kiterjedő illetékességgel a Budapest Főváros Korm�
 
 ## (a továbbiakban együtt: hivatal) jelöli ki.
 
-(2) Az (1) bekezdés szerinti szociális hatóság e rendelet szerinti feladatkörének gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja.
+(2)[^17] Az (1) bekezdés szerinti szociális hatóság e rendelet szerinti feladatkörének gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja.
 
 [^16]: A 3. § a 303/2018. (XII. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^17]: A 3. § (2) bekezdése a 102/2019. (V. 6.) Korm. rendelet 9. §-a szerint módosított szöveg.

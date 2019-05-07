@@ -1,3 +1,3 @@
-## 14/A. §[^81]
+## 14/A. §[^82]
 
-[^81]: A 14/A. § -t a 61/2012. (III. 30.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 66/2016. (III. 31.) Korm. rendelet 7. § c) pontja.
+[^82]: A 14/A. § -t a 61/2012. (III. 30.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 66/2016. (III. 31.) Korm. rendelet 7. § c) pontja.
