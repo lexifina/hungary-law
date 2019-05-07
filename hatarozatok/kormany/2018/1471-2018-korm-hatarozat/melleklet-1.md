@@ -22,15 +22,7 @@
 
 ## Határidő: 2019. június 30.
 
-## 4. felhívja a pénzügyminisztert, az innovációért és technológiáért felelős minisztert, valamint a Miniszterelnökséget vezető minisztert, hogy – a modern települések fejlesztéséért felelős kormánybiztos bevonásával – az 1. pont szerinti cél megvalósításának 2019. évi forrásigényeinek biztosítása érdekében – az útdíjrendszerekből származó 2019. évi várható bevételi folyamatokat áttekintve – készítsenek előterjesztést a Kormány részére.
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: 2019. február 15.
+## 4.[^1]
 
 1. melléklet az 1471/2018. (IX. 27.) Korm. határozathoz
 
@@ -91,3 +83,5 @@
 | Pénzügyminisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pontot az 1263/2019. (V. 7.) Korm. határozat 9. pontja visszavonta.
