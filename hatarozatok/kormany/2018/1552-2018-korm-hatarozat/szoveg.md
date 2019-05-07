@@ -6,6 +6,8 @@
 
 4. A kormánybiztos tevékenységét a miniszterelnök irányítja.
 
-5. A kormánybiztos e tevékenységét díjazás nélkül látja el.
+5.[^2]
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 5. pontot az 1264/2019. (V. 7.) Korm. határozat 10. pontja hatályon kívül helyezte.
