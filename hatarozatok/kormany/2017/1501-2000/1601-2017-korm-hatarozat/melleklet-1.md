@@ -58,6 +58,6 @@ XLII. A költségvetés közvetlen bevételei és kiadásai
 
 XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások LXV. Bethlen Gábor Alap
 
-[^1]: Az 1. pont a) alpontja az 1133/2018. (III. 26.) Korm. határozat 14. pontja, az 1511/2018. (X. 17.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja az 1133/2018. (III. 26.) Korm. határozat 14. pontja, az 1511/2018. (X. 17.) Korm. határozat 5. pontja szerint módosított szöveg. [Az 1. pont a) alpontjának az 1263/2019. (V. 7.) Korm. határozat 3. pontjával elrendelt módosítása, amely szerint az „a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2019. január 31.” szövegrész helyébe a „2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2020. június 30.” szöveg lép, nem vezethető át.]
 [^2]: Az 1. pont h) alpontját az 1514/2018. (X. 17.) Korm. határozat 2. pontja visszavonta.
 [^3]: A 2–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
