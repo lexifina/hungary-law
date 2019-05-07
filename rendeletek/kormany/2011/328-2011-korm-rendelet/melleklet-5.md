@@ -166,7 +166,7 @@ II. Jövedelmi adatok
 
 III. Jövedelem típusai
 
-1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, politikai szolgálati, biztosi, rendvédelmi igazgatási szolgálati, honvédelmi alkalmazotti jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
 
 2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni továbbá a jogdíjat, a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, valamint a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
@@ -184,4 +184,4 @@ IV. Egyebek
 
 2. A cselekvőképességet teljesen korlátozó gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet részlegesen korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
 
-[^66]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a, a 70/2015. (III. 30.) Korm. rendelet 185. §-a, a 431/2015. (XII. 23.) Korm. rendelet 8. § m) pontja, a 217/2016. (VII. 22.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^66]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a, a 70/2015. (III. 30.) Korm. rendelet 185. §-a, a 431/2015. (XII. 23.) Korm. rendelet 8. § m) pontja, a 217/2016. (VII. 22.) Korm. rendelet 26. §-a, a 102/2019. (V. 6.) Korm. rendelet 11. §-a szerint módosított szöveg.
