@@ -28,7 +28,7 @@
 
 |  | ..................................................... intézmény |
 
-13. melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^267]
+13. melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^269]
 
 Az 1/B. § (1) bekezdése szerinti ügyekben eljáró járási hivatalok és illetékességi területük
 
@@ -102,4 +102,4 @@ Az 1/B. § (1) bekezdése szerinti ügyekben eljáró járási hivatalok és ill
 
 | 34. | Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala | Keszthelyi Járási Hivatal Lenti Járási Hivatal Letenyei Járási Hivatal Zalaegerszegi Járási Hivatal Zalaszentgróti Járási Hivatal |
 
-[^267]: A 13. mellékletet a 171/2017. (VI. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^269]: A 13. mellékletet a 171/2017. (VI. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be.
