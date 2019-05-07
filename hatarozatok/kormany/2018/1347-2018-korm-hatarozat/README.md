@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1347-30
 | 2018-07-27 | 2018-1347-30-22.2 | 2010: CXXX. törvény |
 | 2019-03-08 | 2018-1347-30-22.3 | 1104/2019. (III. 8.) Korm. határozat |
 | 2019-04-18 | 2018-1347-30-22.4 | 1207/2019. (IV. 18.) Korm. határozat |
+| 2019-05-07 | 2018-1347-30-22.5 | 1104/2019. (III. 8.) Korm. határozat |
