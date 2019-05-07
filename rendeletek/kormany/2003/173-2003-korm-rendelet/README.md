@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-173-20-
 | 2016-01-01 | 2003-173-20-22.19 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 2003-173-20-22.20 | 218/2007. (VIII. 15.) Korm. rendelet |
 | 2018-01-01 | 2003-173-20-22.21 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-05-07 | 2003-173-20-22.22 | 102/2019. (V. 6.) Korm. rendelet |

@@ -14,7 +14,7 @@ c) a szolgáltatást igényjogosultként és hozzátartozójaként, valamint bel
 
 a)–b)[^3]
 
-c)[^4] az állami vezetők üdültetését biztosító üdültetési intézmények hasznosítására, a 14–14/C. § szerinti nyilvántartásba vétel és a 21. § (3)–(4) bekezdése szerinti statisztikai adatszolgáltatási kötelezettség kivételével,
+c)[^4]
 
 d) a szálláshelyek különleges célú igénybevételére,
 
@@ -35,7 +35,7 @@ b) a felsőoktatásról szóló 2005. évi CXXXIX. törvény 13. §-ának (1) be
 [^1]: A 2. § (1) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 306. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^2]: A 2. § (1) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
 [^3]: A 2. § (2) bekezdésének a)–b) pontját a 182/2009. (IX. 10.) Korm. rendelet 308. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A 2. § (2) bekezdésének c) pontja a 218/2007. (VIII. 15.) Korm. rendelet 11. § (7) bekezdésének a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^4]: A 2. § (2) bekezdés c) pontját a 102/2019. (V. 6.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
 [^5]: A 2. § (2) bekezdésének e) pontját a 218/2007. (VIII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A Magyar Közlöny 2003. évi 132. számában megjelent helyesbítésnek megfelelő szöveg.
 [^7]: A 2. § (4) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 118. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

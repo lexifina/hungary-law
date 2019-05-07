@@ -4,9 +4,10 @@
 
 (2) A szolgáltató az adatszolgáltatással egyidejűleg köteles a kérdőív egy példányát a jegyző számára megküldeni.
 
-(3) Az állami vezetők üdültetését biztosító üdültetési intézmény a külön jogszabályban meghatározottak figyelembevételével köteles az (1) bekezdésben foglalt adatszolgáltatásnak eleget tenni, egyidejűleg mentesül a (2) bekezdésben foglalt kötelezettség alól.
+(3)[^57]
 
-(4)[^57] A jegyző a hatósági nyilvántartást a tárgyév végén lezárja, és annak másolatát a tárgyévet követő év február 28-áig megküldi a Központi Statisztikai Hivatal illetékes igazgatóságának.
+(4)[^58] A jegyző a hatósági nyilvántartást a tárgyév végén lezárja, és annak másolatát a tárgyévet követő év február 28-áig megküldi a Központi Statisztikai Hivatal illetékes igazgatóságának.
 
 [^56]: A 21. § (1) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^57]: A 21. § (4) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^57]: A 21. § (3) bekezdését a 102/2019. (V. 6.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^58]: A 21. § (4) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 9. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
