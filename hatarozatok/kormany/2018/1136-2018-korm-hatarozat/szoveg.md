@@ -2,7 +2,7 @@ A Kormány
 
 1. rögzíti, hogy
 
-a) egyetért a Budapest belterületén található 325,82 kilométernyi szilárd burkolat nélküli út szilárd burkolattal történő ellátásával és a jogszabályi feltételként előírt csapadékvíz-elvezetés megvalósításával,
+a)[^1] egyetért a Budapest belterületén, valamint a közigazgatási határán található és ezekhez közvetlenül kapcsolódó 326,52 kilométernyi szilárd burkolat nélküli út szilárd burkolattal történő ellátásával és a jogszabályi feltételként előírt csapadékvíz-elvezetés megvalósításával,
 
 b) az a) alpont szerinti feladatot legkésőbb 2022. december 31-ig el kell végezni;
 
@@ -15,3 +15,5 @@ belügyminiszter
 nemzetgazdasági miniszter
 
 Határidő: 2018. június 30.
+
+[^1]: Az 1. pont a) alpontja az 1266/2019. (V. 7.) Korm. határozattal módosított szöveg.
