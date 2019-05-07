@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-134-20-
 | 2018-07-01 | 2016-134-20-22.11 | 64/2018. (IV. 3.) Korm. rendelet |
 | 2018-07-11 | 2016-134-20-22.12 | 103/2017. (IV. 28.) Korm. rendelet |
 | 2018-10-13 | 2016-134-20-22.13 | 189/2018. (X. 12.) Korm. rendelet |
+| 2019-05-07 | 2016-134-20-22.14 | 102/2019. (V. 6.) Korm. rendelet |
