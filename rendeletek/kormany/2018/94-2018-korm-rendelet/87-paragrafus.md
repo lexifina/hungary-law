@@ -1,3 +1,3 @@
-87. §[^26]
+87. §[^28]
 
-[^26]: A 87. §-t az 59/2019. (III. 25.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^28]: A 87. §-t az 59/2019. (III. 25.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.

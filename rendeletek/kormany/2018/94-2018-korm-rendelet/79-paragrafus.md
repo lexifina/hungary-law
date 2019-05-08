@@ -16,17 +16,17 @@
 
 7. halgazdálkodásért,
 
-8.[^23]
+8.[^25]
 
 9. környezetvédelemért,
 
 10. természetvédelemért,
 
-11.[^24] földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért
+11.[^26] földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért
 
 12. vadgazdálkodásért
 
 felelős tagja.
 
-[^23]: A 79. § 8. pontját az 59/2019. (III. 25.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^24]: A 79. § 11. pontja az 59/2019. (III. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^25]: A 79. § 8. pontját az 59/2019. (III. 25.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^26]: A 79. § 11. pontja az 59/2019. (III. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
