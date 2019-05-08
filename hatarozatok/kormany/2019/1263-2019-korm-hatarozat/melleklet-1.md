@@ -28,18 +28,26 @@
 
 ## Határidő: azonnal
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, egyes kormányhatározatok módosításáról szóló 1601/2017. (VIII. 31.) Korm. határozat 1. pont a) alpontjában az „a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2019. január 31.” szövegrész helyébe a „2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 3 441 400 000 forint tekintetében 2020. június 30.” szöveg lép.
+## 3.[^1]
 
-## 4. Az Országvédelmi Alapból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1766/2017. (XI. 7.) Korm. határozat 1. pontjában a „valamint az Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára biztosított 17 700 000 000 forint tekintetében 2019. június 30.” szövegrész helyébe a „2019. június 30., az Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára biztosított 17 700 000 000 forint tekintetében 2019. december 31.” szöveg lép.
+## 4.[^2]
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, az Országvédelmi Alapból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1989/2017. (XII. 19.) Korm. határozat 1. pont b) alpontjában a „2019. június 30.” szövegrész helyébe a „2020. június 30.” szöveg lép.
+## 5.[^3]
 
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet címrendjének kiegészítéséről, a 2017. évi költségvetési maradványok átcsoportosításáról, egyes kormányhatározatok módosításáról és a szociális hozzájárulási adóhoz kapcsolódó 2018. évi megtakarítások kezeléséről szóló 1013/2018. (II. 2.) Korm. határozat 1. pont b) alpontjában a „2019. június 30.” szövegrész helyébe a „2019. június 30., a Bethlen Gábor Alap fejezet javára biztosított 562 000 000 forint tekintetében 2020. december 31.” szöveg lép.
+## 6.[^4]
 
-## 7. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról, fejezeten belüli előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1211/2018. (IV. 6.) Korm. határozat 1. pontjában a „2019. december 31.” szövegrész helyébe a „2019. december 31., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 6 000 000 000 forint tekintetében 2020. június 30.” szöveg lép.
+## 7.[^5]
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 1. pont b) alpontjában a „tekintetében 2019. december 31.” szövegrész helyébe az „a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok javára biztosított 1 437 993 520 forint tekintetében 2019. december 31.” szöveg lép.
+## 8.[^6]
 
-## 9. A Kormány visszavonja a Falusi Útalap létrehozásáról szóló 1471/2018. (IX. 27.) Korm. határozat 4. pontját.
+## 9.[^7]
 
 1. melléklet az 1263/2019. (V. 7.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
