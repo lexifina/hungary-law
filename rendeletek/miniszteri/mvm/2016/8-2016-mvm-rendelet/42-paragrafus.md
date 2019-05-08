@@ -22,6 +22,8 @@
 
 (10)[^11] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2019. évi fejezeti és központi kezelésű előirányzatok felhasználásával összefüggő módosításáról szóló 4/2019. (III. 12.) MvM rendelettel (a továbbiakban: Módr8.) megállapított rendelkezéseit a Módr8. hatálybalépése[^12] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(11)[^13] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet módosításáról szóló 7/2019. (V. 7.) MvM rendelettel (a továbbiakban: Módr9.) megállapított rendelkezéseit a Módr9. hatálybalépése[^14] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^2]: A 42. § a 3/2019. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^3]: A hatálybalépés időpontja 2018. február 16.
 [^4]: A hatálybalépés időpontja 2018. március 29.
@@ -33,3 +35,5 @@
 [^10]: A hatálybalépés időpontja 2019. február 28.
 [^11]: A 42. § (10) bekezdését a 4/2019. (III. 12.) MvM rendelet 2. §-a iktatta be.
 [^12]: A hatálybalépés időpontja 2019. március 13.
+[^13]: A 42. § (11) bekezdését a 7/2019. (V. 7.) MvM rendelet 1. §-a iktatta be.
+[^14]: A hatálybalépés időpontja 2019. május 8.
