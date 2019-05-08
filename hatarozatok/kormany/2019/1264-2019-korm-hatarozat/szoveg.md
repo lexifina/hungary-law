@@ -64,4 +64,6 @@ a c) pont tekintetében a 2022. évi központi költségvetés tervezése során
 
 a d) pont tekintetében a 2023. évi központi költségvetés tervezése során
 
-10. Hatályát veszti a kormánybiztos kinevezéséről szóló 1552/2018. (XI. 5.) Korm. határozat 5. pontja.
+10.[^1]
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
