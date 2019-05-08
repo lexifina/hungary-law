@@ -1,3 +1,5 @@
-## 11. § A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet 5. melléklet „Tájékoztató a jövedelemnyilatkozat kitöltéséhez” rész „III. Jövedelem típusai” pont 1. alpontjában az „állami szolgálati” szövegrész helyébe a „politikai szolgálati, biztosi, rendvédelmi igazgatási szolgálati, honvédelmi alkalmazotti” szöveg lép.
+## 11. §[^14]
 
 ## 12. A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet módosítása
+
+[^14]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
