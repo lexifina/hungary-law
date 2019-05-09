@@ -20,7 +20,7 @@ c) a miniszterelnök általános helyettese által delegált legfeljebb 1 fő,
 
 d) az agrárminiszter által delegált legfeljebb 3 fő,
 
-e) a belügyminiszter által delegált legfeljebb 2 fő,
+e)[^2] a belügyminiszter által delegált legfeljebb 3 fő,
 
 f) az emberi erőforrások minisztere által delegált legfeljebb 7 fő,
 
@@ -63,3 +63,5 @@ d) a Munkacsoport megszűnésével.
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
 15. Ez a határozat hatályát veszti a 13. pontban meghatározott feltétel bekövetkezését követő napon. A 13. pont szerinti feltétel bekövetkezésének naptári napját az európai uniós források felhasználásáért felelős miniszter a Magyar Közlönyben a feltétel bekövetkezését követően haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+[^2]: A 4. pont e) alpontja az 1267/2019. (V. 8.) Korm. határozat 33. pontja szerint módosított szöveg.
