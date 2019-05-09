@@ -18,28 +18,42 @@ f) ismerteti tagjai részére azokat a jó gyakorlatokat, melyek a társadalmi f
 
 g) a területi hátrányok mérséklése érdekében feltárja és bemutatja a térségi együttműködések jó gyakorlatait.
 
-4. A Fórum tagjai:
+4.[^1] A Fórum tagjai:
 
-a) az emberi erőforrások minisztere;
+a) a belügyminiszter;
 
-b) az Emberi Erőforrások Minisztériuma (a továbbiakban: EMMI) szociális ügyekért és társadalmi felzárkózásért felelős államtitkára;
+b) a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára;
 
-c) a Nemzetgazdasági Minisztérium munkaerőpiacért és képzésért felelős államtitkára;
+c) az innovációért és technológiáért felelős miniszter;
 
-d) a Külgazdasági és Külügyminisztérium gazdaságdiplomáciáért felelős államtitkára;
+d) az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkára;
 
-e) a Magyar Kereskedelmi és Iparkamara elnöke;
+e) a Pénzügyminisztérium foglalkoztatáspolitikáért és vállalati kapcsolatokért felelős államtitkára;
 
-f) valamint az emberi erőforrások minisztere által felkért azon vállalatok, amelyekkel a Kormány stratégiai együttműködési megállapodást kötött, valamint azokkal, akik a felzárkózás területén szakmai tapasztalattal rendelkeznek (a továbbiakban: vállalatok).
+f) a Külgazdasági és Külügyminisztérium parlamenti államtitkára;
 
-5. A Fórum elnöke az emberi erőforrások minisztere. A Fórum alelnöke az EMMI szociális ügyekért és társadalmi felzárkózásért felelős államtitkára, társelnöke a vállalatok által megjelölt tag.
+g) a Magyar Kereskedelmi és Iparkamara elnöke;
+
+h) a Magyar Rektori Konferencia elnöke és
+
+i) a belügyminiszter által felkért azon vállalatok, amelyekkel a Kormány stratégiai együttműködési megállapodást kötött, valamint azok, amelyek a felzárkózás területén szakmai tapasztalattal rendelkeznek (a továbbiakban együtt: vállalatok).
+
+5.[^2] A Fórum elnöke a belügyminiszter. A Fórum alelnöke a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára, társelnöke a vállalatok által megjelölt tag.
 
 6. A Fórum ülésein meghívottként, a Fórum elnökének felkérésére, tanácskozási joggal vesznek részt a Fórum tagjai által javasolt kormánytagok.
 
-7. A Fórum titkársági feladatainak ellátásáról az EMMI társadalmi felzárkózásért felelős helyettes államtitkára gondoskodik.
+7.[^3] A Fórum titkársági feladatainak ellátásáról a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára gondoskodik.
 
 8. A Fórum szükség szerint, de legalább évente kétszer ülésezik.
 
-9. A Fórum működésének részletes szabályait az ügyrend tartalmazza. A Fórum ügyrendjét – a tagok véleményének kikérését követően – az emberi erőforrások minisztere állapítja meg.
+9.[^4] A Fórum működésének részletes szabályait az ügyrend tartalmazza. A Fórum ügyrendjét – a tagok véleményének kikérését követően – belügyminiszter állapítja meg.
+
+9a.[^5] A Fórum a feladatkörébe tartozó egyes szakkérdések megvitatását, illetve javaslatok kidolgozását az ügyrendben meghatározottak szerint – a Fórum egyes tagjai, valamint a meghívottak részvételével működő – munkacsoportok keretében is elláthatja.
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont az 1267/2019. (V. 8.) Korm. határozat 22. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 22. pontjával megállapított szöveg.
+[^3]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 23. pontja szerint módosított szöveg.
+[^4]: A 9. pont az 1267/2019. (V. 8.) Korm. határozat 24. pontja szerint módosított szöveg.
+[^5]: A 9a. pontot az 1267/2019. (V. 8.) Korm. határozat 25. pontja iktatta be.
