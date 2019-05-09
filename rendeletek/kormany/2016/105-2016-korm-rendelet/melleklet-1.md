@@ -1,4 +1,4 @@
-## 7. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^6] E rendeletnek a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 106/2019. (V. 8.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 1. § (1) bekezdését a MódR. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 105/2016. (V. 13.) Korm. rendelethez
 
@@ -47,3 +47,6 @@
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez, üzembe helyezéséhez és üzemeltetésének beindításához szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^6]: A 8. §-t a 106/2019. (V. 8.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2019. május 9.
