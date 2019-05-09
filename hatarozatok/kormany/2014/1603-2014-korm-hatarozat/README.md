@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1603-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-11-04 | 2014-1603-30-22.1 | 1603/2014. (XI. 4.) Korm. határozat |
+| 2019-05-09 | 2014-1603-30-22.2 | 1267/2019. (V. 8.) Korm. határozat |
