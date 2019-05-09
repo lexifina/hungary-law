@@ -1,3 +1,5 @@
-## „143/A. § A miniszter a csángó ügyek vonatkozásában a nemzetpolitikáért való felelőssége körében összehangolja a központi államigazgatási szervek csángó ügyekkel összefüggő tevékenységét, ennek keretében a Kormány feladatkörében érintett tagjával együttműködik a csángók kulturális és anyanyelvi identitását erősítő és fejlesztő programok és fejlesztések megszervezésében, a csángó kulturális örökség emlékeinek és értékeinek feltárásában, megőrzésében.”
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
