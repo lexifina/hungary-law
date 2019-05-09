@@ -70,82 +70,84 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1023/2019. (II. 11.) Korm. határozathoz
+1. melléklet az 1023/2019. (II. 11.) Korm. határozathoz[^1]
 
-Kidolgozandó szektorális fejlesztési tervek
+|  | A | B |
 
-|  |  | A | B |
+| 1. | Szektor megnevezése | Kidolgozásért felelős miniszter |
 
-|  | 1. | Szektor megnevezése | Kidolgozásért felelős miniszter |
+| 2. | turizmus | a miniszterelnök kabinetfőnöke |
 
-|  | 2. | turizmus | a miniszterelnök kabinetfőnöke |
+| 3. | Budapest és a fővárosi agglomeráció fejlesztése | Miniszterelnökséget vezető miniszter |
 
-|  | 3. | Budapest és a fővárosi agglomeráció fejlesztése | Miniszterelnökséget vezető miniszter |
+| 4. | közigazgatás fejlesztése és szervezése | Miniszterelnökséget vezető miniszter |
 
-|  | 4. | közigazgatás fejlesztése és szervezése | Miniszterelnökséget vezető miniszter |
+| 5. | kulturális örökség védelme | Miniszterelnökséget vezető miniszter |
 
-|  | 5. | kulturális örökség védelme | Miniszterelnökséget vezető miniszter |
+| 6. | településfejlesztés | Miniszterelnökséget vezető miniszter |
 
-|  | 6. | településfejlesztés | Miniszterelnökséget vezető miniszter |
+| 7. | egyházpolitika | a miniszterelnök általános helyettese |
 
-|  | 7. | egyházpolitika | a miniszterelnök általános helyettese |
+| 8. | nemzetpolitika | a miniszterelnök általános helyettese |
 
-|  | 8. | nemzetpolitika | a miniszterelnök általános helyettese |
+| 9. | élelmiszeripar és élelmiszerlánc-biztonság | agrárminiszter |
 
-|  | 9. | élelmiszeripar és élelmiszerlánc-biztonság | agrárminiszter |
+| 10. | halászat | agrárminiszter |
 
-|  | 10. | halászat | agrárminiszter |
+| 11. | környezetvédelem | agrárminiszter |
 
-|  | 11. | környezetvédelem | agrárminiszter |
+| 12. | természetvédelem | agrárminiszter |
 
-|  | 12. | természetvédelem | agrárminiszter |
+| 13. | elektronikus közigazgatás | belügyminiszter |
 
-|  | 13. | elektronikus közigazgatás | belügyminiszter |
+| 14. | helyi önkormányzatok fejlesztése | belügyminiszter |
 
-|  | 14. | helyi önkormányzatok fejlesztése | belügyminiszter |
+| 15. | katasztrófák elleni védekezés | belügyminiszter |
 
-|  | 15. | katasztrófák elleni védekezés | belügyminiszter |
+| 16. | vízgazdálkodás, vízvédelem | belügyminiszter |
 
-|  | 16. | vízgazdálkodás, vízvédelem | belügyminiszter |
+| 17. | családpolitika, gyermek- és ifjúságpolitika | emberi erőforrások minisztere |
 
-|  | 17. | családpolitika, gyermek- és ifjúságpolitika | emberi erőforrások minisztere |
+| 18. | egészségügy | emberi erőforrások minisztere |
 
-|  | 18. | egészségügy | emberi erőforrások minisztere |
+| 19. | kultúra | emberi erőforrások minisztere |
 
-|  | 19. | kultúra | emberi erőforrások minisztere |
+| 20. | oktatás | emberi erőforrások minisztere |
 
-|  | 20. | oktatás | emberi erőforrások minisztere |
+| 21. | sport | emberi erőforrások minisztere |
 
-|  | 21. | sport | emberi erőforrások minisztere |
+| 22. | szociálpolitika | emberi erőforrások minisztere |
 
-|  | 22. | szociálpolitika, társadalmi felzárkózás | emberi erőforrások minisztere |
+| 23. | társadalmi felzárkózás | belügyminiszter |
 
-|  | 23. | energetika és klímapolitika | innovációért és technológiáért felelős miniszter |
+| 24. | energetika és klímapolitika | innovációért és technológiáért felelős miniszter |
 
-|  | 24. | gazdaságfejlesztés, vállalkozásfejlesztés | innovációért és technológiáért felelős miniszter |
+| 25. | gazdaságfejlesztés, vállalkozásfejlesztés | innovációért és technológiáért felelős miniszter |
 
-|  | 25. | kiemelt gazdasági szektorok | innovációért és technológiáért felelős miniszter |
+| 26. | kiemelt gazdasági szektorok | innovációért és technológiáért felelős miniszter |
 
-|  | 26. | infokommunikáció | innovációért és technológiáért felelős miniszter |
+| 27. | infokommunikáció | innovációért és technológiáért felelős miniszter |
 
-|  | 27. | innováció, tudománypolitika | innovációért és technológiáért felelős miniszter |
+| 28. | innováció, tudománypolitika | innovációért és technológiáért felelős miniszter |
 
-|  | 28. | közlekedés | innovációért és technológiáért felelős miniszter |
+| 29. | közlekedés | innovációért és technológiáért felelős miniszter |
 
-|  | 29. | fenntarthatóság és körforgásos gazdaság | innovációért és technológiáért felelős miniszter |
+| 30. | fenntarthatóság és körforgásos gazdaság | innovációért és technológiáért felelős miniszter |
 
-|  | 30. | kiemelt infrastruktúrák | innovációért és technológiáért felelős miniszter |
+| 31. | kiemelt infrastruktúrák | innovációért és technológiáért felelős miniszter |
 
-|  | 31. | szakképzés és felnőttképzés | innovációért és technológiáért felelős miniszter |
+| 32. | szakképzés és felnőttképzés | innovációért és technológiáért felelős miniszter |
 
-|  | 32. | külgazdaság | külgazdasági és külügyminiszter |
+| 33. | külgazdaság | külgazdasági és külügyminiszter |
 
-|  | 33. | államháztartás, adózás és gazdaságpolitika | pénzügyminiszter |
+| 34. | államháztartás, adózás és gazdaságpolitika | pénzügyminiszter |
 
-|  | 34. | foglalkoztatáspolitika | pénzügyminiszter |
+| 35. | foglalkoztatáspolitika | pénzügyminiszter |
 
-|  | 35. | területfejlesztés | pénzügyminiszter |
+| 36. | területfejlesztés | pénzügyminiszter |
 
-|  | 36. | gazdálkodás az állami vagyonnal | a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter |
+| 37. | gazdálkodás az állami vagyonnal | nemzeti vagyon kezeléséért felelős tárca nélküli miniszter |
 
-|  | 37. | közmű- és pénzügyi szolgáltatások | a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter |
+| 38. | közmű- és pénzügyi szolgáltatások | nemzeti vagyon kezeléséért felelős tárca nélküli miniszter |
+
+[^1]: Az 1. melléklet az 1267/2019. (V. 8.) Korm. határozat 32. pontjával megállapított szöveg.
