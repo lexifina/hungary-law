@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-202-20-
 | 2018-01-01 | 2017-202-20-22.3 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2018-10-31 | 2017-202-20-22.4 | 201/2018. (X. 30.) Korm. rendelet |
 | 2019-02-15 | 2017-202-20-22.5 | 18/2019. (II. 14.) Korm. rendelet |
+| 2019-05-09 | 2017-202-20-22.6 | 106/2019. (V. 8.) Korm. rendelet |
