@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1712-30
 | 2014-12-07 | 2014-1712-30-22.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2014-1712-30-22.3 | 1853/2016. (XII. 27.) Korm. határozat |
 | 2017-11-01 | 2014-1712-30-22.4 | 1757/2017. (X. 31.) Korm. határozat |
+| 2019-05-09 | 2014-1712-30-22.5 | 1267/2019. (V. 8.) Korm. határozat |

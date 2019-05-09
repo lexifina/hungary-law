@@ -20,7 +20,7 @@ c) tagjait – tizenkét főt – a miniszterelnök kéri fel részben az idős�
 
 a) az Emberi Erőforrások Minisztériuma család- és ifjúságügyért felelős államtitkárának,
 
-b) az Emberi Erőforrások Minisztériuma szociális ügyekért és társadalmi felzárkózásért felelős államtitkárának,
+b)[^1] az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkárának,
 
 c) az Emberi Erőforrások Minisztériuma egészségügyért felelős államtitkárának,
 
@@ -36,9 +36,9 @@ h) a Nemzetgazdasági Minisztériumnak,
 
 i) az Igazságügyi Minisztériumnak,
 
-j)[^1] a Nemzeti Egészségbiztosítási Alapkezelőnek,
+j)[^2] a Nemzeti Egészségbiztosítási Alapkezelőnek,
 
-k)[^2] a Magyar Államkincstárnak és
+k)[^3] a Magyar Államkincstárnak és
 
 l) a Központi Statisztikai Hivatalnak
 
@@ -54,8 +54,9 @@ egy-egy képviselője.
 
 12. Azok a személyek, akik az e határozat hatálybalépését megelőző napon az Idősügyi Tanács tagjai voltak, a határozat hatálybalépésével a Tanács tagjaivá válnak. Az Idősügyi Tanács jogszabályban meghatározott hatásköreit az Idősek Tanácsa gyakorolja.
 
-13.[^3]
+13.[^4]
 
-[^1]: A 7. pont j) alpontja az 1853/2016. (XII. 27.) Korm. határozat 47. pontjával megállapított szöveg.
-[^2]: A 7. pont k) alpontja az 1757/2017. (X. 31.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. pont b) alpontja az 1267/2019. (V. 8.) Korm. határozat 21. pontja szerint módosított szöveg.
+[^2]: A 7. pont j) alpontja az 1853/2016. (XII. 27.) Korm. határozat 47. pontjával megállapított szöveg.
+[^3]: A 7. pont k) alpontja az 1757/2017. (X. 31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
