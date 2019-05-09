@@ -14,50 +14,62 @@ d) javaslatot tesz a Kormány számára a társadalmi felzárkózással kapcsola
 
 a) a TFCTB elnöke útján javaslatot tesz kormányzati intézkedésre,
 
-b)[^2] évente jelentést készít a Kormány részére a feladatkörébe tartozó ügyek aktuális helyzetéről, és a megtett intézkedésekről, a Nemzeti Társadalmi Felzárkózási Stratégia intézkedési tervének végrehajtásáról szóló jelentés elkészítésével egyidejűleg, és
+b)[^2]
 
 c) folyamatosan figyelemmel kíséri a központi államigazgatási szervek tevékenységét.
 
-4.[^3] A TFCTB elnöke az Emberi Erőforrások Minisztériumának szociális ügyekért és társadalmi felzárkózásért felelős államtitkára. A TFCTB társelnöke a miniszterelnök által kijelölt személy.
+4.[^3] A TFCTB elnöke a Belügyminisztérium közigazgatási államtitkára. A TFCTB társelnöke a miniszterelnöki biztos kinevezéséről szóló 3/2019. (IV. 18.) ME utasítással kinevezett miniszterelnöki biztos.
 
 5.[^4] A TFCTB további tagjai (a továbbiakban: bizottsági tag):
 
-a) a Nemzetgazdasági Minisztérium szakképzésért és munkaerőpiacért felelős államtitkára,
+a) a Pénzügyminisztérium foglalkoztatáspolitikáért és vállalati kapcsolatokért felelős államtitkára, valamint európai uniós források felhasználásáért felelős államtitkára,
 
-b) a Belügyminisztérium önkormányzati államtitkára, valamint közfoglalkoztatási és vízügyi helyettes államtitkára,
+b) az Innovációs és Technológiai Minisztérium szakképzésért és felnőttképzésért felelős helyettes államtitkára, energiaügyekért és klímapolitikáért felelős államtitkára, valamint európai uniós fejlesztésekért felelős államtitkára,
 
-c) az Emberi Erőforrások Minisztériumának köznevelésért felelős államtitkára, felsőoktatásért felelős államtitkára, család- és ifjúságügyért felelős államtitkára, kultúráért felelős államtitkára, egészségügyért felelős államtitkára, sportért felelős államtitkára, valamint egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára,
+c) a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára, önkormányzati államtitkára, valamint közfoglalkoztatási és vízügyi helyettes államtitkára,
 
-d) a Miniszterelnökség területi közigazgatásért felelős államtitkára,
+d) a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős államtitkára, közszolgálatért felelős államtitkára, valamint civil és társadalmi kapcsolatokért felelős helyettes államtitkára,
 
-e) a Miniszterelnökség agrár-vidékfejlesztésért felelős államtitkára,
+e) az Emberi Erőforrások Minisztériuma szociális ügyekért felelős államtitkára, család- és ifjúságügyért felelős államtitkára, kultúráért felelős államtitkára, egészségügyért felelős államtitkára, sportért felelős államtitkára, oktatásért felelős államtitkára,
 
-f) a Miniszterelnökséget vezető miniszter – mint a kormányzati tevékenység összehangolásért felelős miniszter – által delegált képviselő és
+f) az Agrárminisztérium vidékfejlesztésért felelős államtitkára,
 
-g) a Központi Statisztikai Hivatal elnöke.
+g) a Miniszterelnöki Kormányiroda közigazgatási államtitkára,
 
-6. A bizottsági tagot akadályoztatása esetén az általa képviselt tárca szervezeti és működési szabályzatában kijelölt helyettes-államtitkár helyettesíti.
+h) a Modern Települések Fejlesztéséért felelős kormánybiztos és
 
-7. A TFCTB ülésére egyéb személyeket a TFCTB elnöke hívhat meg.
+i) a Központi Statisztikai Hivatal elnöke.
 
-8.[^5] A TFCTB szükség szerint, de legalább évente kétszer ülésezik. A TFCTB ülését a TFCTB elnöke – a TFCTB Titkársága útján – hívja össze. A TFCTB rendkívüli ülésének összehívását bármely bizottsági tag, az indok és napirend egyidejű megjelölésével kezdeményezheti a TFCTB elnökénél.
+6.[^5] A bizottsági tagot akadályoztatása esetén az általa képviselt tárca szervezeti és működési szabályzatában kijelölt vezetői kinevezéssel rendelkező személy helyettesíti.
+
+7.[^6] A TFCTB ülésein állandó meghívottként, tanácskozási joggal vesz részt az Országos Roma Önkormányzat elnöke és az Országgyűlés Magyarországi nemzetiségek bizottsága roma nemzetiségi szószólója.
+
+7a.[^7] A TFCTB ülésén eseti meghívottként a TFCTB elnökének felkérésére, tanácskozási joggal további személyek vehetnek részt.
+
+8.[^8] A TFCTB szükség szerint, de legalább évente kétszer ülésezik. A TFCTB ülését a TFCTB elnöke, az elnök akadályoztatása esetén a TFCTB társelnöke – a TFCTB Titkársága útján – hívja össze. A TFCTB rendkívüli ülésének összehívását bármely bizottsági tag az indok és napirend egyidejű megjelölésével kezdeményezheti a TFCTB elnökénél.
 
 9. A TFCTB ülésének napirendjét – a bizottsági tagok javaslatainak figyelembevételével és a TFCTB elnökének jóváhagyásával – a TFCTB Titkársága készíti elő.
 
-10.[^6] A TFCTB titkársági feladatainak ellátásáról az Emberi Erőforrások Minisztériumának szociális ügyekért és társadalmi felzárkózásért felelős államtitkára gondoskodik.
+10.[^9] A TFCTB titkársági feladatainak ellátásáról a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára gondoskodik.
 
 11. A TFCTB Titkársága gondoskodik a TFCTB ülése napirendjének, valamint a napirendi pontokhoz kapcsolódó dokumentumok TFCTB tagjai részére történő megküldéséről, legkésőbb a tervezett ülés napját megelőző ötödik munkanapig.
 
-12.[^7] A TFCTB üléseiről a TFCTB Titkársága emlékeztetőt készít. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségben maradt, a TFCTB döntéseivel egyet nem értő külön véleményt. Az emlékeztető elkészítéséről és a bizottsági tagok részére történő megküldéséről – az ülést követő tíz munkanapon belül – az TFCTB Titkársága gondoskodik.
+12.[^10] A TFCTB üléseiről a TFCTB Titkársága emlékeztetőt készít. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségben maradt, a TFCTB döntéseivel egyet nem értő külön véleményt. Az emlékeztető elkészítéséről és a bizottsági tagok részére történő megküldéséről – az ülést követő tíz munkanapon belül – az TFCTB Titkársága gondoskodik.
 
 13. A TFCTB működésének részletes szabályait ügyrendjében állapítja meg.
+
+13a.[^11] A TFCTB a feladatkörébe tartozó egyes szakkérdések megvitatását, illetve javaslatok kidolgozását az ügyrendben meghatározottak szerint – a TFCTB egyes tagjai, valamint meghívottak részvételével működő – munkacsoportok keretében is elláthatja.
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: A 2. pont a) alpontja az 1683/2012. (XII. 29.) Korm. határozat 5. pontjával megállapított szöveg.
-[^2]: A 3. pont b) alpontja az 1097/2014. (III. 3.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 4. pont az 1722/2014. (XII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: A 5. pont az 1722/2014. (XII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
-[^5]: A 8. pont az 1683/2012. (XII. 29.) Korm. határozat 7. pont c) alpontja szerint módosított szöveg.
-[^6]: A 10. pont az 1683/2012. (XII. 29.) Korm. határozat 7. pont d) alpontja, az 1722/2014. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^7]: A 12. pont az 1097/2014. (III. 3.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: A 3. pont b) alpontot az 1267/2019. (V. 8.) Korm. határozat 12. pontja hatályon kívül helyezte.
+[^3]: A 4. pont az 1267/2019. (V. 8.) Korm. határozat 6. pontjával megállapított szöveg.
+[^4]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 6. pontjával megállapított szöveg.
+[^5]: A 6. pont az 1267/2019. (V. 8.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^6]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 7. pontjával megállapított szöveg.
+[^7]: A 7a. pontot az 1267/2019. (V. 8.) Korm. határozat 7. pontja iktatta be.
+[^8]: A 8. pont az 1267/2019. (V. 8.) Korm. határozat 8. pontjával megállapított szöveg.
+[^9]: A 10. pont az 1267/2019. (V. 8.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^10]: A 12. pont az 1097/2014. (III. 3.) Korm. határozat 3. pontjával megállapított szöveg.
+[^11]: A 13a. pontot az 1267/2019. (V. 8.) Korm. határozat 10. pontja iktatta be.
