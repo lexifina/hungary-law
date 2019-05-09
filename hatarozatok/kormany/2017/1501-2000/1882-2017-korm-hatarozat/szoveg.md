@@ -22,7 +22,7 @@ h) véleményezi a roma szakkollégiumok részére nyújtandó támogatások elo
 
 i) a miniszter által vezetett minisztérium kérésére véleményezi a roma szakkollégiumokat érintő megkereséseket.
 
-3. A Tanács 9 tagú testület, amelynek tagjai
+3.[^1] A Tanács tagjai
 
 a) a miniszter által vezetett minisztérium
 
@@ -30,13 +30,23 @@ aa) társadalmi felzárkózásért felelős helyettes államtitkára,
 
 ab) társadalmi felzárkózásért felelős területéről a miniszter által delegált 1 fő,
 
-ac) felsőoktatásért felelős területéről a miniszter által delegált 1 fő,
+b) az emberi erőforrások minisztere által delegált, az általa vezetett minisztérium
 
-b) a Magyar Rektori Konferencia által delegált 1 fő,
+ba) felsőoktatásért felelős területéről 1 fő,
 
-c) az Országos Roma Önkormányzata által delegált 1 fő,
+bb) család- és ifjúságügyért felelős területéről 1 fő,
 
-d) a Roma Szakkollégiumok Egyesület által delegált 4 fő.
+c) a Miniszterelnökséget vezető miniszter által a Miniszterelnökség egyházi és nemzetiségi kapcsolatokért felelős területéről delegált 1 fő,
+
+d) a miniszterelnöki biztos kinevezéséről szóló 1/2018. (VI. 1.) ME utasítással kinevezett miniszterelnöki biztos,
+
+e) a miniszterelnöki biztos kinevezéséről szóló 3/2019. (IV. 18.) ME utasítással kinevezett miniszerelnöki biztos,
+
+f) a Magyar Rektori Konferencia által delegált 1 fő,
+
+g) az Országos Roma Önkormányzat által delegált 1 fő,
+
+h) a Roma Szakkollégiumok Egyesület által delegált 4 fő.
 
 4. A Tanács tagjai megbízatása 3 éves határozott időre szól. A delegált tagokat a miniszter bízza meg.
 
@@ -68,6 +78,9 @@ d) a megbízatás idejének lejártával.
 
 9. A Tanács munkáját titkárság segíti. A Tanács működési feltételeiről a miniszter gondoskodik. A Tanács működésének részletes szabályait a Tanács ügyrendjében állapítja meg. A Tanács ügyrendjét a miniszter hagyja jóvá.
 
-10. A Tanács ügyrendjét, ülésein hozott határozatait, szakmai állásfoglalásait, a 2. pont f) alpontja szerinti feladatkörében meghatározott értékelési szempontrendszert, minősítési követelményrendszert, valamint a Titkárság elérhetőségeit a miniszter által vezetett minisztérium és az Oktatási Hivatal honlapján közzé kell tenni.
+10.[^2] A Tanács ügyrendjét, ülésein hozott határozatait, a 2. pont f) alpontja szerinti feladatkörében meghatározott értékelési szempontrendszert, minősítési követelményrendszert, valamint a Titkárság elérhetőségeit a miniszter által vezetett minisztérium és az Oktatási Hivatal honlapján közzé kell tenni.
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont az 1267/2019. (V. 8.) Korm. határozat 30. pontjával megállapított szöveg.
+[^2]: A 10. pont az 1267/2019. (V. 8.) Korm. határozat 31. pontja szerint módosított szöveg.
