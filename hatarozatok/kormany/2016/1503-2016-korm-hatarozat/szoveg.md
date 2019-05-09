@@ -70,7 +70,7 @@ d) a minisztérium kultúráért felelős államtitkára által kijelölt egy sz
 
 e) a minisztérium sportért felelős államtitkára által kijelölt egy személy,
 
-f) a minisztérium szociális ügyekért és társadalmi felzárkózásért felelős államtitkára által kijelölt egy személy,
+f)[^1] a minisztérium szociális ügyekért felelős államtitkára által kijelölt egy személy,
 
 g) a minisztérium európai uniós fejlesztéspolitikáért felelős államtitkára által kijelölt egy személy,
 
@@ -95,3 +95,5 @@ l) a nemzetgazdasági miniszter által kijelölt egy személy.
 15. Ez a határozat a közzétételét követő napon lép hatályba.
 
 16. A Tanács az alakuló ülését e határozat hatálybalépését követő hatvan napon belül tartja meg. A Tanács alakuló ülését a Tanács elnöke hívja össze.
+
+[^1]: A 10. pont f) alpontja az 1267/2019. (V. 8.) Korm. határozat 28. pontja szerint módosított szöveg.
