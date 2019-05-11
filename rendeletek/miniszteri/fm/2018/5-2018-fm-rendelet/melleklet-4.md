@@ -94,11 +94,11 @@
 
 | Őszi mélyszántás tavasziak alá |  |  |  |  |  |
 
-4. melléklet az 5/2018. (II. 23.) FM rendelethez
+4. melléklet az 5/2018. (II. 23.) FM rendelethez[^7]
 
 Határidő-kimutatás az adott évi mezőgazdasági munkák állásáról szóló tájékoztató jelentéshez
 
-|  | Tájékoztató jelentések | Tájékoztató jelentés tárgynapja (T) | Jelentés megküldése az AKI részére |
+|  | Tájékoztató jelentések | Tájékoztató jelentés tárgynapja (T) | Jelentés megküldése a NAIK részére |
 
 | 1. | Tavaszi tájékoztató jelentés | április 16. | T+4 nap |
 
@@ -111,3 +111,5 @@ Határidő-kimutatás az adott évi mezőgazdasági munkák állásáról szól�
 | 5. | Őszi tájékoztató jelentés | október 8. | T+4 nap |
 
 | 6. | Őszi tájékoztató jelentés | november 12. | T+4 nap |
+
+[^7]: A 4. melléklet a 17/2019. (V. 10.) AM rendelet 9. § b) pontja szerint módosított szöveg.
