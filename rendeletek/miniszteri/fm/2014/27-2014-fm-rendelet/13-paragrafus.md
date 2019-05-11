@@ -2,7 +2,7 @@
 
 13. § (1) Az agrárkár-enyhítési szerv a mezőgazdasági kockázatkezelési adatbázisában rögzíti a kárenyhítési hozzájárulás befizetésére vonatkozó kötelezettségeket, a befizetési kötelezettségek teljesítését, valamint – az agrárkár-megállapító szerv által kiállított dokumentumok alapján a hozzá a tárgyévet követő év január 31-ig beérkezett adatok figyelembevételével – vizsgálja a kárenyhítő juttatás iránti kérelmek jogosságát, a kérelmek adatait feldolgozza, azokról adatállományt készít.
 
-(2)[^38] Az agrárkár-enyhítési szerv az (1) bekezdés szerinti adatállomány, valamint a miniszternek a 20/05/10/00 Nemzeti agrárkár-enyhítés előirányzatra vonatkozó tájékoztatása alapján a jogos kárenyhítő juttatás iránti igények teljesítésére a 4. melléklet szerinti kifizetési tervet készít. A kifizetési terv részét képezi a kárenyhítési lebonyolítási számla felhasználásának tárgyév december 31-i állapotát tükröző éves elszámolás. Az agrárkár-enyhítési szerv a kifizetési tervet a tárgyévet követő év február 28-áig a miniszter és az agrárkár-enyhítési szerv közötti külön megállapodás szerinti adattartalommal megküldi a miniszter részére.
+(2)[^39] Az agrárkár-enyhítési szerv az (1) bekezdés szerinti adatállomány, valamint a miniszternek a 20/05/10/00 Nemzeti agrárkár-enyhítés előirányzatra vonatkozó tájékoztatása alapján a jogos kárenyhítő juttatás iránti igények teljesítésére a 4. melléklet szerinti kifizetési tervet készít. A kifizetési terv részét képezi a kárenyhítési lebonyolítási számla felhasználásának tárgyév december 31-i állapotát tükröző éves elszámolás. Az agrárkár-enyhítési szerv a kifizetési tervet a tárgyévet követő év február 28-áig a miniszter és az agrárkár-enyhítési szerv közötti külön megállapodás szerinti adattartalommal megküldi a miniszter részére.
 
 (3) A miniszter a (2) bekezdésben foglaltak szerint összeállított és előterjesztett kifizetési tervet – egyetértése esetén – jóváhagyja, és a kifizetési terv jóváhagyásáról tájékoztatja az agrárkár-enyhítési szervet, valamint a mezőgazdasági igazgatási szervet.
 
@@ -12,26 +12,26 @@
 
 (6) A (2) bekezdés szerinti éves elszámoláson túl az agrárkár-enyhítési szerv a miniszter és az agrárkár-enyhítési szerv közötti külön megállapodás szerinti adattartalommal a miniszter részére megküldi
 
-a)[^39] tárgyév április 30-ig a Magyar Államkincstár kárenyhítési lebonyolítási számla felhasználásának tárgyév március 31-i állapotát, és
+a)[^40] tárgyév április 30-ig a Magyar Államkincstár kárenyhítési lebonyolítási számla felhasználásának tárgyév március 31-i állapotát, és
 
-b)[^40] tárgyév október 15-ig a Magyar Államkincstár kárenyhítési lebonyolítási számla felhasználásának tárgyév szeptember 15-i állapotát
+b)[^41] tárgyév október 15-ig a Magyar Államkincstár kárenyhítési lebonyolítási számla felhasználásának tárgyév szeptember 15-i állapotát
 
 tükröző évközi elszámolásokat is.
 
 (7) Az agrárkár-enyhítési szerv a kárenyhítő juttatás iránti igények kifizetését követően megmaradt összeget tárgyév december 31-éig beérkezőleg átutalja a minisztérium 10032000-01220191-50000005 számú Fejezeti kezelésű előirányzat-felhasználási keretszámlájára.
 
-(8)[^41] Kárenyhítő juttatás kifizetésére mezőgazdasági árvízkár és aszálykár vonatkozásában az Mkk. tv. 12. § (5) bekezdésében meghatározottak alapján van lehetőség.
+(8)[^42] Kárenyhítő juttatás kifizetésére mezőgazdasági árvízkár és aszálykár vonatkozásában az Mkk. tv. 12. § (5) bekezdésében meghatározottak alapján van lehetőség.
 
 (9) A mezőgazdasági árvíz vonatkozásában védműnek minősül az OVF által belföldi jogsegély keretében kiadott igazolás alapján az árvizek kártételei elleni védekezéshez szükséges vízilétesítmény is.
 
-(10)[^42] Az OVF által szolgáltatott, a mezőgazdasági kockázatkezelési adatbázis feletti rendelkezési jogról és az abból származó adatok kezeléséről, valamint az időjárási kockázatkezelési rendszer működtetésével és fejlesztésével kapcsolatos végrehajtási költségek fedezetére szolgáló pénzforrás felhasználásáról szóló 36/2017. (VII. 6.) FM rendelet 2. § 25. pontja szerinti adatok alapján az ár- vagy belvízhelyzet – agrárkár-enyhítési rendszer vonatkozásában – akkor minősül
+(10)[^43] Az OVF által szolgáltatott, a mezőgazdasági kockázatkezelési adatbázis feletti rendelkezési jogról és az abból származó adatok kezeléséről, valamint az időjárási kockázatkezelési rendszer működtetésével és fejlesztésével kapcsolatos végrehajtási költségek fedezetére szolgáló pénzforrás felhasználásáról szóló 36/2017. (VII. 6.) FM rendelet 2. § 25. pontja szerinti adatok alapján az ár- vagy belvízhelyzet – agrárkár-enyhítési rendszer vonatkozásában – akkor minősül
 
 a) országosan jelentősnek, ha országos szinten legalább 100 000 hektár,
 
 b) jelentősnek, ha országos szinten legalább 50 000 hektár
 
-[^38]: A 13. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § d) pontja szerint módosított szöveg.
-[^39]: A 13. § (6) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 72. § b) pontja szerint módosított szöveg.
-[^40]: A 13. § (6) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 72. § b) pontja szerint módosított szöveg.
-[^41]: A 13. § (8) bekezdése a 35/2017. (VII. 6.) FM rendelet 17. § f) pontja szerint módosított szöveg.
-[^42]: A 13. § (10) bekezdését a 35/2017. (VII. 6.) FM rendelet 15. §-a iktatta be, nyitó szövegrésze a 10/2019. (IV. 1.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^39]: A 13. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § d) pontja szerint módosított szöveg.
+[^40]: A 13. § (6) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 72. § b) pontja szerint módosított szöveg.
+[^41]: A 13. § (6) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 72. § b) pontja szerint módosított szöveg.
+[^42]: A 13. § (8) bekezdése a 35/2017. (VII. 6.) FM rendelet 17. § f) pontja szerint módosított szöveg.
+[^43]: A 13. § (10) bekezdését a 35/2017. (VII. 6.) FM rendelet 15. §-a iktatta be, nyitó szövegrésze a 10/2019. (IV. 1.) AM rendelet 5. § a) pontja szerint módosított szöveg.
