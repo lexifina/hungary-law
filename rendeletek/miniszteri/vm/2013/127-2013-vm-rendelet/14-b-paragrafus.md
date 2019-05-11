@@ -1,6 +1,6 @@
-## 14/A. §[^4] A szójababra, a full-fat szójára, a szójadarára, valamint a szójaolajra vonatkozóan heti adatszolgáltatásra kötelezett azon takarmányok (TEÁOR 10.91), növényi és állati olajok gyártásával (TEÁOR 10.41) és forgalmazásával, illetve fehérjenövények kereskedelmével (TEÁOR 46.21) foglalkozó szervezet, amely az előző naptári évben szójababot, szójadarát vagy szójaolajat vásárolt fel.
+## 14/A. §[^11] A szójababra, a full-fat szójára, a szójadarára, valamint a szójaolajra vonatkozóan heti adatszolgáltatásra kötelezett azon takarmányok (TEÁOR 10.91), növényi és állati olajok gyártásával (TEÁOR 10.41) és forgalmazásával, illetve fehérjenövények kereskedelmével (TEÁOR 46.21) foglalkozó szervezet, amely az előző naptári évben szójababot, szójadarát vagy szójaolajat vásárolt fel.
 
-14/B. §[^5] (1) Az ipari feldolgozásra szánt gyümölcsökre és a feldolgozott gyümölcsökre vonatkozóan heti adatszolgáltatásra kötelezett azon gyümölcs- és zöldséglé gyártásával (TEÁOR 10.32), illetve egyéb gyümölcs-, zöldségfeldolgozással, -tartósítással (TEÁOR 10.39) foglalkozó szervezet, amely az előző naptári évben legalább
+14/B. §[^12] (1) Az ipari feldolgozásra szánt gyümölcsökre és a feldolgozott gyümölcsökre vonatkozóan heti adatszolgáltatásra kötelezett azon gyümölcs- és zöldséglé gyártásával (TEÁOR 10.32), illetve egyéb gyümölcs-, zöldségfeldolgozással, -tartósítással (TEÁOR 10.39) foglalkozó szervezet, amely az előző naptári évben legalább
 
 a) 2000 tonna almát,
 
@@ -22,5 +22,5 @@ közötti adatszolgáltatási időszakban.
 
 (3) A feldolgozott gyümölcsökre vonatkozóan az adatszolgáltatást hetente kell teljesíteni.
 
-[^4]: A 14/A. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
-[^5]: A 14/B. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
+[^11]: A 14/A. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
+[^12]: A 14/B. §-t a 78/2016. (XII. 12.) FM rendelet 17. §-a iktatta be.
