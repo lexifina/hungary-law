@@ -10,17 +10,17 @@ b) a felvezető rendőrségi gépjárművet követve közlekedik.
 
 (3) A megkülönböztető jelzést a KKB elnöke és az általa kijelölt szervezetek gépjárművein a katasztrófaveszély elhárítása, illetve a katasztrófahelyzet megszüntetése érdekében végzett feladataik ellátása során – a jogszabályi feltételek betartása mellett – lehet működtetni.
 
-(3a)[^22] A gyorsforgalmi út kezelőjének a 3. § (1) bekezdés j) pontjában meghatározott járművére szerelt megkülönböztető jelzést adó készüléket a gyorsforgalmi úton bekövetkezett közlekedési baleset miatt szükséges közútkezelői feladatok ellátása érdekében, a gyorsforgalmi úton lehet működtetni.
+(3a)[^25] A gyorsforgalmi út kezelőjének a 3. § (1) bekezdés j) pontjában meghatározott járművére szerelt megkülönböztető jelzést adó készüléket a gyorsforgalmi úton bekövetkezett közlekedési baleset miatt szükséges közútkezelői feladatok ellátása érdekében, a gyorsforgalmi úton lehet működtetni.
 
-(4)[^23] A megkülönböztető jelzést adó készülék használatának kezdetét és végét a sürgős betegszállítást végző szervek és a háziorvosi központi ügyeletek az Országos Mentőszolgálat kiindulás helye szerint illetékes megyei mentésirányítási központjába, egyéb szervek a saját ügyeletükre, annak hiányában, illetve a bejelentés egyéb akadálya esetén a Rendőrségnek a kiindulás helye szerint illetékes tevékenység-irányító központjába kötelesek haladéktalanul bejelenteni.
+(4)[^26] A megkülönböztető jelzést adó készülék használatának kezdetét és végét a sürgős betegszállítást végző szervek és a háziorvosi központi ügyeletek az Országos Mentőszolgálat kiindulás helye szerint illetékes megyei mentésirányítási központjába, egyéb szervek a saját ügyeletükre, annak hiányában, illetve a bejelentés egyéb akadálya esetén a Rendőrségnek a kiindulás helye szerint illetékes tevékenység-irányító központjába kötelesek haladéktalanul bejelenteni.
 
 (5) A megkülönböztető jelzést adó készüléket használó gépjármű vezetője a jelzés használatának kezdetét, az útvonalat a működtetést megelőzően – ha a késedelem veszéllyel jár, akkor annak megszűnését követően –, használatának végét haladéktalanul köteles a menetlevélben vagy annak megfelelő más okmányban rögzíteni. A szerv vezetője gondoskodik arról, hogy az okmányok ellenőrzése legalább negyedévente megtörténjen.
 
-(6)[^24]
+(6)[^27]
 
-(7)[^25] A 3. § (1) bekezdés e) pontjában foglalt szervezetek gépjárművezetője a megkülönböztető jelzést adó készüléknek a (3) bekezdés alapján történő használata során köteles a KKB elnöke által kiállított, a kijelölést tanúsító okmányt magánál tartani.
+(7)[^28] A 3. § (1) bekezdés e) pontjában foglalt szervezetek gépjárművezetője a megkülönböztető jelzést adó készüléknek a (3) bekezdés alapján történő használata során köteles a KKB elnöke által kiállított, a kijelölést tanúsító okmányt magánál tartani.
 
-[^22]: A 7. § (3a) bekezdését a 27/2018. (X. 4.) BM rendelet 2. §-a iktatta be.
-[^23]: A 7. § (4) bekezdése a 2/2015. (II. 3.) BM rendelet 3. §-ával megállapított szöveg.
-[^24]: A 7. § új (6) bekezdését a 4/2010. (II. 23.) IRM rendelet 16. §-a iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatta. A 7. § (6) bekezdését a 44/2017. (XII. 29.) BM rendelet 29. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^25]: A 7. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 4/2010. (II. 23.) IRM rendelet 16. §-a.
+[^25]: A 7. § (3a) bekezdését a 27/2018. (X. 4.) BM rendelet 2. §-a iktatta be.
+[^26]: A 7. § (4) bekezdése a 2/2015. (II. 3.) BM rendelet 3. §-ával megállapított szöveg.
+[^27]: A 7. § új (6) bekezdését a 4/2010. (II. 23.) IRM rendelet 16. §-a iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatta. A 7. § (6) bekezdését a 44/2017. (XII. 29.) BM rendelet 29. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^28]: A 7. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 4/2010. (II. 23.) IRM rendelet 16. §-a.

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-12-20-1
 | 2018-01-01 | 2007-12-20-1U.16 | 44/2017. (XII. 29.) BM rendelet |
 | 2018-06-30 | 2007-12-20-1U.17 | 20/2018. (VI. 29.) BM rendelet |
 | 2018-10-07 | 2007-12-20-1U.18 | 27/2018. (X. 4.) BM rendelet |
+| 2019-05-11 | 2007-12-20-1U.19 | 16/2019. (V. 3.) BM rendelet |
