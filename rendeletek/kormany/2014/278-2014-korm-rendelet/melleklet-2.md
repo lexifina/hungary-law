@@ -4,7 +4,7 @@
 
 | 1. | Adatszolgáltató | Adattípus | Adat megnevezése | Adatszolgáltatás | A 4. § (4) bekezdésében meghatározottaktól eltérő adatszolgáltatási határidő |
 
-| 2. | Agrárgazdasági Kutató Intézet | Műtrágyázás. PÁIR adatok. | - Műtrágya-értékesítés értékesítési irányok szerint (hatóanyag- tartalom). - Nyers tehéntej éves beltartalmának alakulása (fehérje%, zsír%). |  |  |
+| 2. | Nemzeti Agrárkutatási és Innovációs Központ | Műtrágyázás. PÁIR adatok. | - Műtrágya-értékesítés értékesítési irányok szerint (hatóanyag- tartalom). - Nyers tehéntej éves beltartalmának alakulása (fehérje%, zsír%). |  |  |
 
 | 3. | Nemzeti Élelmiszerlánc- biztonsági Hivatal, Növény- és talajvédelmi hatósági feladatkörükben eljáró megyei kormányhivatalok | Talajvédelmi Információs és Monitoring rendszer adatai az összes mérőhelyre vonatkozóan. Termőföldön felhasznált talajmeszező anyagok adatai a hatályos talajjavítási engedélyek alapján, meszező anyagonként és művelési áganként (szántó és gyep). A vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló kormányrendelet alapján gyűjtött nitrát adatbázis adatai. | - Talaj szervesanyag- tartalma. - Szén-dioxid produkció. - Összes nitrogén tartalom; nitrát-nitrit tartalom. - Felhasznált mennyiség (t). - Kijuttatással érintett terület (ha). A trágyatermelésre vonatkozó adatok állatfajonként és tartásmódonként |  |  |
 
