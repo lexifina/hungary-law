@@ -26,7 +26,7 @@
 
 12. az egységes kérelemben megjelölhető és a mezőgazdasági kockázatkezelési rendszerben szereplő valamennyi növénykultúrára vonatkozó éves megyei, ennek hiányában éves országos átlaghozam-adatokat,
 
-13. az AKI által kifejlesztett agrometeorológiai növényélettani modell meghatározott növénykultúrákra vonatkozó, aszálykár-bejelentés esetén keletkező adatokat mezőgazdasági parcellánként,
+13.[^2] a NAIK által kifejlesztett agrometeorológiai növényélettani modell meghatározott növénykultúrákra vonatkozó, aszálykár-bejelentés esetén keletkező adatokat mezőgazdasági parcellánként,
 
 14. a belvízzel érintett területekre vonatkozó térinformatikai adatokat (a továbbiakban: tematikus belvíztérkép),
 
@@ -59,3 +59,5 @@ b) kárenyhítő juttatás iránti kérelmére lefolytatott adminisztratív
 25. a mezőgazdasági árvízre és belvízre vonatkozó adatokat, valamint
 
 26. a talajvízszintre vonatkozó adatokat.
+
+[^2]: A 2. § 13. pontja a 17/2019. (V. 10.) AM rendelet 7. § b) pontja szerint módosított szöveg.

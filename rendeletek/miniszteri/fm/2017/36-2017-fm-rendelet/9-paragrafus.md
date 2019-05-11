@@ -2,6 +2,6 @@
 
 (2) Az agrárkár-megállapító szerv – a 27/2014. (XI. 25.) FM rendelet 5. § (4) bekezdés szerinti – megkeresése esetén a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) megyei ügyintéző szervezetéhez tartozó falugazdász a 2. § 1–4., 12–16. és 22–26. pontja szerinti adatokat a megkeresésben foglaltak teljesítése céljából, a cél megvalósulásához szükséges mértékben, egyedi azonosításra alkalmas módon jogosult megismerni és felhasználni.
 
-(3)[^1] A NAK a megyei szintű állapotminősítési, termésbecslési és betakarítási adatokat a termésbecslésről, állapotminősítésről, valamint a mezőgazdasági munkák állásáról szóló jelentéssel kapcsolatos adatszolgáltatásról szóló 5/2018. (II. 23.) FM rendelet 5. § (4) bekezdése alapján a mezőgazdasági igazgatási szerv rendelkezésére bocsátja.
+(3)[^6] A NAK a megyei szintű állapotminősítési, termésbecslési és betakarítási adatokat a termésbecslésről, állapotminősítésről, valamint a mezőgazdasági munkák állásáról szóló jelentéssel kapcsolatos adatszolgáltatásról szóló 5/2018. (II. 23.) FM rendelet 5. § (4) bekezdése alapján a mezőgazdasági igazgatási szerv rendelkezésére bocsátja.
 
-[^1]: A 9. § (3) bekezdése az 5/2018. (II. 23.) FM rendelet 7. §-a szerint módosított szöveg.
+[^6]: A 9. § (3) bekezdése az 5/2018. (II. 23.) FM rendelet 7. §-a szerint módosított szöveg.

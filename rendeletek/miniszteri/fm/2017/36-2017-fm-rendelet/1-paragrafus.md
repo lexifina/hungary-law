@@ -14,7 +14,7 @@ b) a kockázatkezelési adatbázisból származó adatok kezelésére
 
 (2) A mezőgazdasági kockázatkezelési rendszerben közvetlenül részt vevő, (1) bekezdés a) pont szerinti szervezetek a következők:
 
-a) Agrárgazdasági Kutató Intézet (a továbbiakban: AKI),
+a)[^1] Nemzeti Agrárkutatási és Innovációs Központ (a továbbiakban: NAIK),
 
 b) agrárpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium),
 
@@ -35,3 +35,5 @@ i) Országos Vízügyi Főigazgatóság (a továbbiakban: OVF).
 (3) A kockázatkezelési adatbázist – az agrárpolitikáért felelős miniszterrel (a továbbiakban: miniszter) kötött vagyonkezelési szerződés alapján – az agrárkárenyhítési szerv működteti.
 
 (4) A 2. §-ban foglalt adatoknak a kockázatkezelési adatbázisba elektronikus úton történő feltöltése az agrárkárenyhítési szerv és a (2) bekezdésben felsorolt szervezetek közötti együttműködési megállapodás alapján történik.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 17/2019. (V. 10.) AM rendelet 7. § a) pontjával megállapított szöveg.
