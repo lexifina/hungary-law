@@ -244,6 +244,6 @@
 
 ## A tárgyhónap utolsó napján rendelkezésre álló saját termelésű termék mennyisége.
 
-2. melléklet a 8/2017. (III. 2.) FM rendelethez[^4]
+2. melléklet a 8/2017. (III. 2.) FM rendelethez[^6]
 
-[^4]: A 2. melléklet az 55/2017. (XI. 6.) FM rendelet 38. §-ával megállapított szöveg.
+[^6]: A 2. melléklet az 55/2017. (XI. 6.) FM rendelet 38. §-ával megállapított szöveg.
