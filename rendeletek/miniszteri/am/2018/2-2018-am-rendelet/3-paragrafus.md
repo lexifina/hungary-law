@@ -1,6 +1,6 @@
 ## 2. § A cukorgyártó vállalkozás és cukorrépa-termelők között megkötött szerződések tagállamok által történő felügyeletéről szóló, 1974. június 18-i 1516/1974/EGK bizottsági rendeletben meghatározott tagállami feladatokat az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) látja el.
 
-3. § (1) A cukorgyártó vállalkozás minden hónap 15. napjáig az Agrárgazdasági Kutató Intézet (a továbbiakban: AKI) központi elektronikus rendszerén keresztül bejelenti az adott hónapban értékesített cukor teljes mennyiségét, valamint az egy tonna cukorra vetített alábbi adatokat:
+3. § (1)[^1] A cukorgyártó vállalkozás minden hónap 15. napjáig a Nemzeti Agrárkutatási és Innovációs Központ (a továbbiakban: NAIK) központi elektronikus rendszerén keresztül bejelenti az adott hónapban értékesített cukor teljes mennyiségét, valamint az egy tonna cukorra vetített alábbi adatokat:
 
 a) az előző hónapra vonatkozóan a mennyiséggel súlyozott átlagos eladási árat a kereskedelmi bizonylatok alapján, valamint
 
@@ -8,7 +8,7 @@ b) a folyó hónapra vonatkozóan a szerződések vagy más ügyletek keretében
 
 (2) Az (1) bekezdés alkalmazásában cukor alatt a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) III. mellékletének B.II. pontjában meghatározott, szabványos minőségű ömlesztett fehér cukor értendő. Az árakat az Európai Bizottság (a továbbiakban: Bizottság) által közzétett módszertannak megfelelően kell meghatározni.
 
-(3) A cukorgyártó vállalkozás minden év június hónap 15. napjáig az AKI központi elektronikus rendszerén keresztül bejelenti az általa az előző gazdasági évben felvásárolt cukorrépa mennyiséggel súlyozott átlagárát egy tonna cukorrépára vetítve, valamint az előző gazdasági évben felvásárolt cukorrépa teljes mennyiségét.
+(3)[^2] A cukorgyártó vállalkozás minden év június hónap 15. napjáig a NAIK központi elektronikus rendszerén keresztül bejelenti az általa az előző gazdasági évben felvásárolt cukorrépa mennyiséggel súlyozott átlagárát egy tonna cukorrépára vetítve, valamint az előző gazdasági évben felvásárolt cukorrépa teljes mennyiségét.
 
 (4) A (3) bekezdés alkalmazásában az 1308/2013/EU rendelet III. mellékletének B.I. pontjában meghatározott szabványos minőségű cukorrépát kell érteni, amelyért a cukorgyártó vállalkozások fizetnek a termelőknek. A cukorrépát ugyanahhoz a gazdasági évhez kell hozzárendelni, mint a belőle előállított cukrot. Az árakat a Bizottság által közzétett módszertannak megfelelően kell meghatározni.
 
@@ -39,3 +39,6 @@ e) legalább 75%-os tisztaságú, cukornádból készült szacharóz szirup vagy
 (12) Az izoglükóz-gyártó vállalkozás minden év november 15. napjáig elektronikus úton ügyfélkapus azonosítással elérhető, a Kincstár által erre a célra létrehozott elektronikus felületen megküldi a Kincstárnak az általa tárgyév szeptember 30. napján tárolt, általa megtermelt izoglükóz mennyiségére vonatkozó adatot.
 
 (13) A (11) és (12) bekezdés alkalmazásában a megtermelt izoglükóz fogalma alatt az olyan, glükózból vagy polimerjeiből nyert termékek teljes mennyisége értendő, amelyek szárazanyagra számítva legalább 41 tömegszázalék fruktózt tartalmaznak. A mennyiséget szárazanyagtonnában kell megadni, tekintet nélkül a 41 tömegszázalékos küszöb feletti tényleges fruktóztartalomra.
+
+[^1]: A 3. § (1) bekezdés nyitó szövegrésze a 17/2019. (V. 10.) AM rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdése a 17/2019. (V. 10.) AM rendelet 8. § b) pontja szerint módosított szöveg.
