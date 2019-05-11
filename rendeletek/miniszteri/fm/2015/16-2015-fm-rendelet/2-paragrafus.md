@@ -14,9 +14,9 @@ c)[^2] a támogatási időszak minden évében a 2015. évben az egységes terü
 
 (3)[^3] Ha a 2015. évet követő években a mezőgazdasági termelő ki kíván lépni a kistermelői támogatási rendszerből, akkor ezt a szándékát az adott évben beadásra kerülő egységes kérelmében – az egységes kérelem benyújtására előírt határidőben – kell jeleznie.
 
-(4)[^4] Az 1307/2013/EU rendelet 62. cikk (3) bekezdésében foglaltak teljesítése érdekében a Kincstár, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, és az Agrárgazdasági Kutató Intézet által működtetett – az agrárpolitikáért felelős miniszter által jóváhagyott, és 2015. július 8-a előtt utoljára frissített, fajlagos támogatási adatok alapján szerkesztett – támogatási kalkulátornak a Kincstár honlapján biztosított elérhetősége útján teszi lehetővé a mezőgazdasági termelők számára a kistermelői támogatási rendszer keretében elérhető támogatás becsült összegének megismerhetőségét.
+(4)[^4] Az 1307/2013/EU rendelet 62. cikk (3) bekezdésében foglaltak teljesítése érdekében a Kincstár, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, és a Nemzeti Agrárkutatási és Innovációs Központ által működtetett – az agrárpolitikáért felelős miniszter által jóváhagyott, és 2015. július 8-a előtt utoljára frissített, fajlagos támogatási adatok alapján szerkesztett – támogatási kalkulátornak a Kincstár honlapján biztosított elérhetősége útján teszi lehetővé a mezőgazdasági termelők számára a kistermelői támogatási rendszer keretében elérhető támogatás becsült összegének megismerhetőségét.
 
 [^1]: A 2. § (1) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 83. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés c) pontja a 13/2017. (III. 17.) FM rendelet 41. §-a szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 13/2017. (III. 17.) FM rendelet 40. §-ával megállapított szöveg.
-[^4]: A 2. § (4) bekezdése a 22/2015. (V. 13.) FM rendelet 6. §-a, a 88/2016. (XII. 29.) FM rendelet 83. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése a 22/2015. (V. 13.) FM rendelet 6. §-a, a 88/2016. (XII. 29.) FM rendelet 83. § b) pontja, a 17/2019. (V. 10.) AM rendelet 5. §-a szerint módosított szöveg.
