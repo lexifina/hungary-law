@@ -26,4 +26,4 @@ c) annak megjelölését, hogy a bejelentésből eredetileg hiányzó leírásr�
 
 (11) Ha az elismert bejelentési napnak az (5) bekezdés vagy a (8) bekezdés szerinti módosításáról szóló értesítéstől számított egy hónapon belül a bejelentő visszavonja a hiánypótlásként benyújtott leírásrészt vagy rajzot, azt úgy kell tekinteni, mintha a bejelentés napját nem módosították volna. A bejelentőt erről értesíteni kell.
 
-(12) Ha a bejelentési és kutatási díjat nem fizették meg, illetve a magyar nyelvű szabadalmi leírást, kivonatot és rajzot nem nyújtották be, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a törvény által meghatározott határidőben [57. § (4) és (5) bek.] történő hiánypótlásra. Ennek elmaradása esetén a bejelentést visszavontnak kell tekinteni.
+(12) Ha a bejelentési és kutatási díjat nem fizették meg, illetve a magyar nyelvű szabadalmi leírást igényponttal, kivonatot és rajzot nem nyújtották be, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a törvény által meghatározott határidőben [57. § (4) és (5) bek.] történő hiánypótlásra. Ennek elmaradása esetén a bejelentést visszavontnak kell tekinteni.

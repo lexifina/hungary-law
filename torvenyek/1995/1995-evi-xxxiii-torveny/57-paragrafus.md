@@ -14,6 +14,12 @@
 
 (4) A szabadalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési és kutatási díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
 
-(5) Ha a bejelentés mellékletei idegen nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot a bejelentés napjától számított négy hónapon belül kell benyújtani.
+(5) Ha a szabadalmi bejelentés mellékletei – ide nem értve az angol nyelvet – idegen nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot a szabadalmi bejelentés napjától számított négy hónapon belül kell benyújtani. Ha a szabadalmi bejelentés mellékletei angol nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot
+
+a) a bejelentés napjától számított tizenkét hónapon belül, vagy
+
+b) a legkorábbi elsőbbség napjától számított tizenhat hónapon belül
+
+kell benyújtani, a korábban lejáró határidő figyelembevételével.
 
 (6) A bejelentő a közzétételig — a 41. § rendelkezéseinek megfelelő alkalmazásával — visszavonhatja a szabadalmi bejelentést.

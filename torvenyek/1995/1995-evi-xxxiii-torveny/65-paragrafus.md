@@ -2,8 +2,8 @@
 
 65. § A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi bejelentés benyújtását követően megvizsgálja, hogy
 
-a) a bejelentés megfelel-e a bejelentési nap elismeréséhez előírt feltételeknek (58. §),
+a) a bejelentés megfelel-e a bejelentési nap elismeréséhez az 58. §-ban előírt feltételeknek,
 
-b) megfizették-e a bejelentési és kutatási díjat [57. § (4) bek.],
+b) megfizették-e az 57. § (4) bekezdése szerinti bejelentési és kutatási díjat,
 
-c) benyújtották-e a magyar nyelvű szabadalmi leírást, kivonatot és rajzot [57. § (5) bek.].
+c) a szabadalmi bejelentés mellékleteként benyújtott leírás, az igénypont, a kivonat és – amennyiben rendelkezésre áll – a rajz magyar nyelven van-e.
