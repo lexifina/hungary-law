@@ -12,7 +12,7 @@
 
 (7) Az akkreditáló szerv 2016. január 31-ig gondoskodik a Nemzeti Akkreditáló Testület – 2015. december 31. napjára, mint mérlegfordulónapra vonatkozó, a számvitelről szóló 2000. évi C. törvény szerinti – tevékenységet lezáró számviteli beszámolójának elkészítéséről, könyvvizsgálatáról, letétbe helyezéséről és közzétételéről, valamint a záró adóbevallások elkészítéséről és azok illetékes adóhatóságnak történő benyújtásáról.
 
-(8) A Nemzeti Akkreditáló Testület köteles együttműködni az iparügyekért felelős miniszterrel, és a feladat ellátásával összefüggő adatokat, iratokat, valamint az akkreditált szervezetekről és természetes személyekről vezetett nyilvántartást 2015. december 31-éig az iparügyekért felelős miniszter által kijelölt személy rendelkezésére bocsátani.
+(8) A Nemzeti Akkreditáló Testület köteles együttműködni az iparügyekért felelős miniszterrel, és a feladat ellátásával összefüggő adatokat, iratokat, valamint az akkreditált szervezetekről és akkreditált természetes személyekről vezetett nyilvántartást 2015. december 31-éig az iparügyekért felelős miniszter által kijelölt személy rendelkezésére bocsátani.
 
 (9) A 2016. január 1-jén folyamatban lévő peres és nemperes eljárásokban a Nemzeti Akkreditáló Testület helyébe az akkreditáló szerv lép.
 

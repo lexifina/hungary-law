@@ -1,12 +1,12 @@
-## 6. Az akkreditált szervezetek és természetes személyek nyilvántartása
+## 6. Az akkreditált szervezetek és akkreditált természetes személyek nyilvántartása
 
-12. § (1) Az akkreditáló szerv nyilvántartást vezet az akkreditált szervezetekről és természetes személyekről, amely tartalmazza
+12. § (1) Az akkreditáló szerv nyilvántartást vezet az akkreditált szervezetekről és akkreditált természetes személyekről, amely tartalmazza
 
-a) az akkreditált szervezetek és természetes személyek nyilvántartási számát,
+a) az akkreditált szervezetek és akkreditált természetes személyek nyilvántartási számát,
 
-b) az akkreditált szervezetek, szervezeti egységek cégnevét és természetes személyek nevét,
+b) az akkreditált szervezetek, szervezeti egységek cégnevét és akkreditált természetes személyek nevét,
 
-c) az akkreditált szervezetek, szervezeti egységek székhelyét, telephelyeit és természetes személyek lakóhelyét,
+c) az akkreditált szervezetek, szervezeti egységek székhelyét, telephelyeit és akkreditált természetes személyek lakóhelyét,
 
 d) az akkreditált tevékenységet és tevékenységi területet,
 

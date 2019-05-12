@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-124-00-00
 | 2016-12-13 | 2016. évi CXXXIV. törvény | 2015-124-00-00.6 |
 | 2018-01-01 | 2017. évi L. törvény | 2015-124-00-00.7 |
 | 2018-08-25 | 2018. évi XXXVIII. törvény | 2015-124-00-00.8 |
+| 2019-05-12 | 2019. évi XXXIV. törvény | 2015-124-00-00.9 |

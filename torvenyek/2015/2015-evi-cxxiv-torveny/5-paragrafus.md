@@ -8,7 +8,7 @@ c) kalibrálólaboratórium,
 
 d) jártassági vizsgálatot szervező szervezet,
 
-e) terméktanúsító szervezet,
+e) terméket, folyamatot, szolgáltatást tanúsító szervezet,
 
 f) irányítási rendszereket tanúsító szervezet,
 

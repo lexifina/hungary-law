@@ -2,7 +2,7 @@
 
 2. § (1) Az akkreditáló szerv akkreditálással kapcsolatos feladatai:
 
-a) akkreditálási eljárás lefolytatása, az akkreditált szervezetek és természetes személyek tevékenységének és alkalmasságának felügyeleti vizsgálata az akkreditált státusz fenntartása, felfüggesztése vagy visszavonása céljából, valamint a külföldi akkreditált státusz elismerése,
+a) akkreditálási eljárás lefolytatása, az akkreditált szervezetek és akkreditált természetes személyek tevékenységének és alkalmasságának felügyeleti vizsgálata az akkreditált státusz fenntartása, felfüggesztése vagy visszavonása céljából, valamint a külföldi akkreditált státusz elismerése,
 
 b) részvétel és képviselet az európai és a nemzetközi akkreditálási szervezetekben,
 
