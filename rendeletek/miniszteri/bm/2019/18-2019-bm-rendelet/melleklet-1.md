@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti a fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 7/2018. (III. 14.) BM rendelet.
+## 4. §[^1]
 
 1. melléklet a 18/2019. (V. 10.) BM rendelethez
 
@@ -119,3 +119,5 @@ A XIV. Belügyminisztérium fejezet 2019. évi költségvetési kiadási előir�
 | 50 | 360395 |  | Megszűnt intézmények technikai elszámolása | Az előirányzat a megszűnt intézmény számlaegyenlegének jogutód intézmény számlájára történő technikai átvezetésére szolgál. | – | – | – | – | – | – | – | – | – |
 
 | 51 | 211178 |  | Fejezeti tartalék | Az előirányzat az év közben felmerülő egyéb kiadások forrásául szolgál. | A miniszter irányítása alá tartozó költségvetési szervek | Az előirányzat felhasználásáról a gazdasági helyettes államtitkár javaslatára a miniszter dönt. | – | Egy összegben vagy részletekben közvetlen kifizetéssel, vagy előirányzat-átcsoportosí- tással. | – | – | – | – | – |
+
+[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
