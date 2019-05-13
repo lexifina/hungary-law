@@ -1,5 +1,0 @@
-## 1–9. §[^2]
-
-10. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
-
-[^2]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
