@@ -1,1 +1,1 @@
-23. § Hatályát veszti az Szt.-nek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvény 77. § (3) bekezdésével megállapított 117/C. §-a.
+### 23. §

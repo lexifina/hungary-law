@@ -1,3 +1,3 @@
 ## 52. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-100–102. §
+### 100–102. §

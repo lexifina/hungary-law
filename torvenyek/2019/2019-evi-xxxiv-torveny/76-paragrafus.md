@@ -1,3 +1,3 @@
 ## 36. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-76–77. §
+### 76–77. §

@@ -1,3 +1,3 @@
 ## 16. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-38–39. §
+### 38–39. §

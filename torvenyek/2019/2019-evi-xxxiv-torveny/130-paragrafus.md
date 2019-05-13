@@ -1,3 +1,3 @@
 ## 71. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
-130–131. §
+### 130–131. §

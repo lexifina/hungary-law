@@ -1,3 +1,3 @@
 ## 82. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-155–156. §
+### 155–156. §

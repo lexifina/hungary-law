@@ -1,3 +1,3 @@
 ## 78. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény módosítása
 
-147–149. §
+### 147–149. §
