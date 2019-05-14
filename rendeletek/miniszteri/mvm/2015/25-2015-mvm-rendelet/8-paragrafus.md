@@ -4,7 +4,7 @@ a) a honvédelmi feladatok végrehajtásában részt vevő szervezeti egységek 
 
 b) a fővárosi és megyei kormányhivatalokon belüli riasztási-értesítési rendszer megszervezéséről és az ügyeleti szolgálat biztosításáról;
 
-c) a fővárosi és megyei kormányhivatalok KMR-ben való működőképességének fenntartására vonatkozó, valamint a honvédelmi feladatok ellátásával kapcsolatos egyéb védelmi igazgatási tervek elkészítéséről és jóváhagyásra történő felterjesztéséről;
+c)[^12] a fővárosi és megyei kormányhivatalok KMR-ben való működőképességének fenntartására vonatkozó, valamint a honvédelmi feladatok ellátásával kapcsolatos egyéb védelmi igazgatási tervek elkészítéséről és kiadásáról;
 
 d) a c) pont szerinti egyéb védelmi igazgatási tervek időszakos felülvizsgálatáról és a szükséges módosítások elvégzéséről;
 
@@ -27,3 +27,5 @@ b) a honvédelmi célból létfontosságú infrastruktúra védelmében;
 c) a lakosság honvédelmi célú tájékoztatásában, szükség esetén a riasztásában, és
 
 d) a honvédelmi célú felkészítések végrehajtásában.
+
+[^12]: A 8. § (1) bekezdés c) pontja a 8/2019. (V. 13.) MvM rendelet 2. §-ával megállapított szöveg.

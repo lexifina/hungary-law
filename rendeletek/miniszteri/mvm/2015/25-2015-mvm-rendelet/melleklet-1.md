@@ -1,11 +1,9 @@
 ## 10. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 25/2015. (IV. 30.) MvM rendelethez[^12]
+1. melléklet a 25/2015. (IV. 30.) MvM rendelethez[^14]
 
 ## A meghagyásba bevont ágazathoz tartozó szervezetek
 
-1. ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft.
+1. Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
 
-2. Lechner Lajos Tudásközpont Területi, Építésügyi Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság
-
-[^12]: Az 1. melléklet a 4/2017. (II. 3.) MvM rendelet 7. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet a 8/2019. (V. 13.) MvM rendelet 3. §-ával megállapított szöveg.
