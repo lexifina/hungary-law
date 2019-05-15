@@ -322,9 +322,9 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 39. | helyi | E | őrparancsnok | 100 |  |
 
-| 40. | szolgálatparancsnok | 100 |  |
+| 40. | szolgálatparancsnok | 100 200**** |  |
 
-| 41. | szolgálatirányító parancsnok | 100 |  |
+| 41. | szolgálatirányító parancsnok | 100 200**** |  |
 
 | 42. | csoportparancsnok | 100 125** |  |
 
@@ -336,7 +336,7 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 46. | nyomozó | 100 |  |
 
-| 47. | határrendészeti szakértő | 100 |  |
+| 47. | határrendészeti szakértő | 100 200**** |  |
 
 | 48. | szolgálatparancsnok-helyettes | 100 |  |
 
@@ -352,7 +352,7 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 54. | kiképző |  | 100 |
 
-| 55. | kiemelt főhatárrendész | 100 125** |  |
+| 55. | kiemelt főhatárrendész | 100 125** 200**** |  |
 
 | 56. | járőrparancsnok | 100 125** |  |
 
@@ -362,7 +362,7 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 58. | B | fogdafelügyelő | 100 |  |
 
-| 59. | főhatárrendész | 100 125** |  |
+| 59. | főhatárrendész | 100 125** 200**** |  |
 
 | 60. |  |  |  |
 
@@ -378,7 +378,7 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 66. | A | fogdaőr | 100 |  |
 
-| 67. | határrendész | 100 125** |  |
+| 67. | határrendész | 100 125** 200**** |  |
 
 | 68. | járőr | 100 125** |  |
 
@@ -398,7 +398,7 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 ## 125**: A szolgálati állat kiképzésében résztvevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 125%.
 
-## 200****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, továbbá a Repülőtéri Rendőri Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya esetében a hivatásos pótlék mértéke 200%.
+## 200****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 200%.
 
 ## ***** Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági, vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
@@ -1126,4 +1126,4 @@ MRFK: Megyei Rendőr-főkapitányság
 
 RRI: Repülőtéri Rendőr Igazgatóság
 
-[^17]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a szerint módosított szöveg.
