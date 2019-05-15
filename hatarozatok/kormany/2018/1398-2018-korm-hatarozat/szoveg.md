@@ -1,6 +1,6 @@
 A Kormány
 
-1. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – tegye meg a szükséges intézkedéseket a Szeged I. kerület, Kálvin tér 6. szám alatti (belterület 2975/1 és 2975/2 helyrajzi számon nyilvántartott) ingatlanoknak a Szegedi Szerb Oktatási Központ elhelyezése céljából a Szerb Országos Önkormányzat részére történő vagyonkezelésbe adása érdekében, azzal, hogy az ingatlanok felújításával kapcsolatos feladatokat a leendő vagyonkezelő végzi el;
+1.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – tegye meg a szükséges intézkedéseket a Szeged I. kerület, Kálvin tér 6. szám alatti (belterület 2975/1 és 2975/2 helyrajzi számon nyilvántartott) ingatlanoknak a szegedi szerb oktatási központ létrehozása keretében bejegyzett Nikola Tesla Szerb Tanítási Nyelvű Óvoda, Általános Iskola, Gimnázium, Kollégium és Könyvtár Szegedi Általános Iskolája intézmény elhelyezése céljából a Szerb Országos Önkormányzat részére történő vagyonkezelésbe adása érdekében, azzal, hogy az ingatlanok felújításával kapcsolatos feladatokat a leendő vagyonkezelő végzi el;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -20,6 +20,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
 
-4.[^1]
+4.[^2]
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1285/2019. (V. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
