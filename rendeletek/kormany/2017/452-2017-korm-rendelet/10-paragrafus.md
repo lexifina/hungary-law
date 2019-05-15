@@ -32,6 +32,8 @@ c) megjelöli a tervezett finanszírozási kezdőnapot.
 
 (9) A (7) bekezdés szerinti határidő lejártát követő nyolc napon belül a NEAK a honlapján – határozatai alapján – közzéteszi az árcsökkentéseket, és megjelöli azokat a gyógyszereket, amelyek a Gyftv. 31. § (1) bekezdés b)–c) és e) pontja alapján a támogatásból kizárásra kerülnek.
 
-(10) A (2)–(9) bekezdés szerinti eljárás lefolytatása nem érinti a 14. § szerinti eljárás menetét.
+(10)[^4] A (2)–(9) bekezdés szerinti eljárás lefolytatása nem érinti a 15. § szerinti eljárás menetét.
 
 (11) A 9. § b) pontja szerinti esetben a (2)–(10) bekezdés szerinti eljárást kell alkalmazni.
+
+[^4]: A 10. § (10) bekezdése a 110/2019. (V. 14.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

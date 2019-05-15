@@ -22,7 +22,7 @@
 
 10. gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. § 1. pontja szerinti anyag, keverék, illetve készítmény;
 
-11. gyógyszerforma: az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet (a továbbiakban: Tfr.) 2. § (1) bekezdés 3. pontjában meghatározott fogalom;
+11.[^1] gyógyszerforma: az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló 450/2017. (XII. 27.) Korm. rendelet 2. § 2. pontjában meghatározott fogalom;
 
 12. hatóanyag: a Gytv. 1. § 38. pontjában meghatározott fogalom;
 
@@ -32,7 +32,7 @@
 
 15. napi terápiás költség:
 
-a) forgalomba hozatalra engedélyezett gyógyszer esetében: a bruttó fogyasztói árból a DDD alapján számított napi terápiás költség, azonos hatóanyag esetén ha a DDD nem definiálható, az egységnyi hatóanyagra jutó bruttó fogyasztói árat jelenti,
+a)[^2] forgalomba hozatalra engedélyezett gyógyszer esetében: a bruttó fogyasztói árból a DDD alapján számított napi terápiás költség, ha a DDD nem definiálható, az egységnyi hatóanyagra jutó bruttó fogyasztói árat jelenti, mely csak azonos hatóanyagok esetén hasonlítható össze,
 
 b) védőoltások esetén: az alapvédettséget biztosító dózis összesített bruttó fogyasztói ára,
 
@@ -55,3 +55,6 @@ cd) ritka anyagcsere-betegségek gyógyítására szolgáló tápszer esetén: a
 19. tápszer: olyan különleges táplálkozási igényt kielégítő élelmiszer, amelyet az anyatej-helyettesítő és az anyatej-kiegészítő tápszerekről szóló, valamint a speciális gyógyászati célra szánt tápszerekről szóló jogszabály meghatároz.
 
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazása során a Gyftv.-ben, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben és a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendeletben foglalt fogalom-meghatározásokat kell figyelembe venni.
+
+[^1]: A 2. § (1) bekezdés 11. pontja a 110/2019. (V. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 15. pont a) alpontja a 110/2019. (V. 14.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

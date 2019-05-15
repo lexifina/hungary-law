@@ -1,4 +1,4 @@
-20. § (1) Az első, a Tfr. 7. § (8) bekezdése szerinti hasonló biológiai gyógyszer (a továbbiakban: hasonló biológiai gyógyszer) befogadásával egy időben a NEAK kialakítja – a 21. §-ban meghatározott indikációs pontok alá befogadott, illetve a 22. §-ban meghatározott indikációs pontok szerinti feltételeknek megfelelő gyógyszerek kivételével – a biológiai gyógyszerek csoportját.
+20. § (1)[^16] Az első, az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló 450/2017. (XII. 27.) Korm. rendelet 5. § (8) bekezdése szerinti hasonló biológiai gyógyszer (a továbbiakban: hasonló biológiai gyógyszer) befogadásával egy időben a NEAK kialakítja – a 22. §-ban meghatározott indikációs pontok alá befogadott gyógyszerek kivételével – a biológiai gyógyszerek csoportját.
 
 (2) A NEAK az OGYTT véleményét figyelembe véve a honlapján folyamatosan közzéteszi az egyes biológiai gyógyszerek szakmai szempontok alapján meghatározott csoportjait, jelöli a csoport egyes készítményei esetében a preferált biológiai gyógyszereket, valamint a (12)–(14) bekezdés alapján meghatározott kötelező minimális rendelési arányt.
 
@@ -29,3 +29,5 @@ a) a preferált biológiai gyógyszer első alkalommal történő meghatározás
 b) a preferált biológiai gyógyszer első alkalommal történő meghatározását követő második évben és azt követően minden év július 1-je és az azt követő év július 1-je közötti időszakban legalább 70%.
 
 (14) A (12) és (13) bekezdésben foglaltaktól eltérően a növekedési hormonok esetén az első hasonló biológiai gyógyszer befogadását követően az adott csoportba tartozó minden további hasonló biológiai gyógyszer együttes, a rendelésére jogosult orvosokra vonatkozó biológiai gyógyszerekre meghatározott terápiás egységben számolt kötelező minimális rendelési aránya a befogadást követően legalább 10%.
+
+[^16]: A 20. § (1) bekezdése a 110/2019. (V. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
