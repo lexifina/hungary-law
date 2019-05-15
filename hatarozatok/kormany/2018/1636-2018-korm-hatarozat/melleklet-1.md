@@ -6,21 +6,13 @@
 
 ## Határidő: 2019. január 31.
 
-## 1.2. felhívja az innovációért és technológiáért felelős minisztert, hogy Budapest Főváros Önkormányzatának bevonásával vizsgálja meg a Környezeti és Energiahatékonysági Operatív Program (a továbbiakban: KEHOP) célkitűzéseihez illeszkedő további fejlesztési lehetőségeket, és annak eredményéről tájékoztassa a Kormányt.
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: 2019. január 31.
+## 1.2.[^1]
 
 ## 2. A Kormány
 
 ## 2.1. egyetért azzal, hogy a KEHOP 3. prioritásán a 2.2. alpont szerinti javaslat Európai Bizottság általi elfogadásáig terjedő átmeneti időre a kötelezettségvállalás az engedélyezett 110%-nál nagyobb mértékű legyen,
 
-## 2.2. felhívja az innovációért és technológiáért felelős minisztert, hogy a 2.1. alpont szerinti átmeneti felhatalmazás megszüntetése érdekében a KEHOP – a prioritások közötti átcsoportosítás útján történő – módosításáról szóló előterjesztést készítse elő és nyújtsa be a Kormány részére,
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: 2019. március 31.
+## 2.2.[^2]
 
 ## 2.3. felhívja az innovációért és technológiáért felelős minisztert, hogy a 2.2. alpont szerinti javaslatnak a Kormány vagy az Európai Bizottság általi elutasítása esetén készítsen előterjesztést a Kormány részére a 2.1. alpont szerinti felhatalmazással összefüggő kérdések rendezéséről.
 
@@ -32,23 +24,25 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^1]
+## 5.[^3]
 
-## 6.[^2]
+## 6.[^4]
 
-## 7.[^3]
+## 7.[^5]
 
-## 8.[^4]
+## 8.[^6]
 
-## 9.[^5]
+## 9.[^7]
 
-## 10.[^6]
+## 10.[^8]
 
 1. melléklet az 1636/2018. (XII. 5.) Korm. határozathoz
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. alpontját az 1273/2019. (V. 14.) Korm. határozat 9. pont b) alpontja visszavonta.
+[^2]: A 2. pont 2.2. alpontját az 1273/2019. (V. 14.) Korm. határozat 9. pont b) alpontja visszavonta.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
