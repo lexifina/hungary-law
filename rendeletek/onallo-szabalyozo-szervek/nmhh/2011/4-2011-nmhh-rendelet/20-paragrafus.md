@@ -1,4 +1,4 @@
-## 19. § Az eljárási biztosíték a kiírási dokumentációban előírt eljárási szabályok betartásának biztosítását szolgálja, azzal, hogy az eljárási biztosítékot, továbbá annak benyújtására és érvényesítésére vonatkozó feltételeket a Hatóság arányos, objektív és megkülönböztetéstől mentes módon állapítja meg a kiírási dokumentációban.
+## 19. §[^45] Az eljárási biztosíték a kiírási dokumentációban előírt eljárási szabályok betartásának, valamint – ha a kiírási dokumentáció ajánlati kötöttséget határoz meg – az ajánlati kötöttség megtartásának biztosítását szolgálja azzal, hogy az eljárási biztosítékot, továbbá annak benyújtására, érvényesítésére és felszabadítására vonatkozó feltételeket a Hatóság arányos, objektív és megkülönböztetéstől mentes módon állapítja meg a kiírási dokumentációban.
 
 ## Az eljárás megszüntetése
 
@@ -6,7 +6,7 @@
 
 a) a hirdetményre nem érkezik jelentkezés,
 
-b)[^29] az eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a hirdetményt követően a hazai vagy a nemzetközi gazdasági környezet nagymértékben megváltozik, illetve a kiíráskor fennálló – gazdasági, jogi, frekvenciagazdálkodási, hírközlési, illetve médiaszolgáltatási piaci – körülmények, feltételek lényegesen megváltoznak,
+b)[^46] az eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a hirdetményt követően a hazai vagy a nemzetközi gazdasági környezet nagymértékben megváltozik, illetve a kiíráskor fennálló – gazdasági, jogi, frekvenciagazdálkodási, hírközlési, illetve médiaszolgáltatási piaci – körülmények, feltételek lényegesen megváltoznak,
 
 c) a Hatóság mérlegelése szerinti hírközléspolitikai, frekvenciagazdálkodási szempontok, illetve az irányadó jogszabályokban vagy a kiírási dokumentációban rögzített alapelvek, célok az eljárás lefolytatásával nem biztosíthatóak, vagy
 
@@ -14,4 +14,5 @@ d) a Hatóság a jelentkezések, ajánlatok és a rendelkezésre álló informá
 
 (2) A Hatóság az (1) bekezdés szerinti végzését a hirdetménnyel azonos helyen és módon közzéteszi.
 
-[^29]: A 20. § (1) bekezdés b) pontja a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.
+[^45]: A 19. § a 4/2019. (V. 8.) NMHH rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^46]: A 20. § (1) bekezdés b) pontja a 9/2013. (IX. 19.) NMHH rendelet 2. §-a szerint módosított szöveg.

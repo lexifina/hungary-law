@@ -8,7 +8,7 @@ a) az eljárás tárgyául szolgáló frekvenciakészlet felhasználásával vé
 
 b) azokat az értékelési elveket és az értékeléskor kizárólagosan figyelembe vett szempontokat, amelyek alapján a jelentkezők egyenlő eséllyel megfelelő pályázati ajánlatot tehetnek;
 
-c) amennyiben a Hatóság a pályázatokat több fordulóban értékeli, az egyes fordulók lebonyolítási rendjét.
+c)[^65] ha a Hatóság a pályázatokat több fordulóban értékeli, az egyes fordulók lebonyolítási rendjét, az egyes fordulókban értékelt pályázati vállalások érvényességi feltételeit, valamint az egyes fordulókban értékelt pályázati vállalások érvénytelenségének jogkövetkezményeit.
 
 (2) A kiírási dokumentációban meghatározott értékelés elveinek pártatlannak, átláthatónak, megkülönböztetéstől mentesnek és arányosnak kell lenniük, valamint kialakításuk során figyelembe kell venni az Eht.-ban meghatározott célokat.
 
@@ -36,8 +36,10 @@ d) a kiírási dokumentációban meghatározott tartalmi követelményeknek nem 
 
 (10) A pályázati ajánlatokat a kiírási dokumentációban meghatározottaktól eltérően értékelni nem lehet.
 
-(11)[^44] A pályázati eljárást lezáró döntést a hirdetmény közzétételét követő negyvenötödik és százötvenedik nap között kell meghoznia a Hatóságnak.
+(11)[^66]
 
-(12) A (11) bekezdés szerinti határidőt a Hatóság egy alkalommal legfeljebb harminc nappal meghosszabbíthatja.
+(12)[^67]
 
-[^44]: A 27. § (11) bekezdése a 20/2013. (XI. 15.) NMHH rendelet 1. §-a szerint módosított szöveg.
+[^65]: A 27. § (1) bekezdés c) pontja a 4/2019. (V. 8.) NMHH rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^66]: A 27. § (11) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
+[^67]: A 27. § (12) bekezdését a 4/2019. (V. 8.) NMHH rendelet 3. § d) pontja hatályon kívül helyezte.
