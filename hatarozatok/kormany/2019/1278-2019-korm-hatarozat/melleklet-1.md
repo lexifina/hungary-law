@@ -1,0 +1,293 @@
+## 1. A Kormány a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 21. § (1) bekezdés e)–i) pontjában és (3) bekezdés b) pontjában, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 41. § (3) bekezdésében foglalt feladatainak végrehajtása érdekében
+
+## a) az 1. mellékletben foglaltak szerint elfogadja a védelmi felkészítés 2019. évi feladattervét;
+
+## b) felhívja a honvédelmi minisztert, hogy – a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-koordináló szakmai szerve útján – kísérje figyelemmel a feladattervben foglaltak végrehajtását, és szükség esetén tegyen javaslatot a teljesítést segítő intézkedésekre;
+
+## Felelős: honvédelmi miniszter
+
+## Határidő: folyamatos
+
+## c) felkéri a legfőbb ügyészt, az Országos Bírósági Hivatal elnökét, a Magyar Nemzeti Bank elnökét, a Médiaszolgáltatás-támogató és Vagyonkezelő Alap vezérigazgatóját, a Nemzeti Közszolgálati Egyetem rektorát, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal, a Közbeszerzési Hatóság, az Egyenlő Bánásmód Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint a Nemzeti Választási Iroda vezetőjét, hogy a szakterületüket érintően működjenek együtt a védelmi felkészítés és a válságkezelés feladatainak végrehajtásáért felelős szervekkel az 1. mellékletben meghatározott feladatok végrehajtásában.
+
+## 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1262/2018. (VI. 11.) Korm. határozat.
+
+1. melléklet az 1278/2019. (V. 15.) Korm. határozathoz
+
+A védelmi felkészítés 2019. évi feladatterve
+
+1. Az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedési Rendszerrel kapcsolatban végrehajtandó feladatok:
+
+a) a Nemzeti Intézkedések Gyűjteményében foglalt intézkedések felülvizsgálata az ágazati felelős szervek bevonásával;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: 2019. szeptember 30.
+
+b) a védelmi felkészítés 2019. évi feladatainak végrehajtásáról szóló kormány-előterjesztés részeként beszámoló készítése a NATO Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedési Rendszer működésének összesített tapasztalatairól, valamint az ágazati feladatok végrehajtásáról;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: 2020. március 31.
+
+c) az ágazati javaslatok alapján a NATO Válságreagálási Rendszer kézikönyvének éves módosítására vonatkozó nemzeti álláspont összeállítása és megküldése a NATO részére.
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: a NATO terve alapján
+
+2. A polgári-katonai-rendvédelmi együttműködéssel kapcsolatos feladatok:
+
+a) a komplex válságkezelés képességcéljainak megvalósítása érdekében, a felajánlott polgári-katonai-rendvédelmi képességek alapján a kijelölt személyek alkalmazásra történő felkészítése belföldi és külföldi tanfolyamokon;
+
+Felelős: honvédelmi miniszter
+
+miniszterek
+
+Határidő: folyamatos
+
+b) az erre a célra kijelölt szervezetek által a fegyveres összeütközés időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés végrehajtása a honvédelmi miniszter által megadott képzési követelmények alapján.
+
+Felelős: belügyminiszter
+
+honvédelmi miniszter
+
+Határidő: folyamatos
+
+3. A védelmi felkészítéssel kapcsolatban végrehajtandó feladatok:
+
+a) a védelmi igazgatás rendszerében központi, területi, helyi és települési szinten honvédelmi igazgatási feladatot ellátók továbbképzése a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Kar közreműködésével;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+megyei, fővárosi, helyi védelmi bizottságok
+
+Határidő: folyamatos
+
+b) a Honvédelmi Minisztérium által irányított „Országos Haditorna Verseny” keretében a honvédelmi igazgatás területi szintjein lebonyolítandó honvédelmi versenyek és más rendezvények szervezése és végrehajtása;
+
+Felelős: honvédelmi miniszter
+
+megyei, fővárosi, helyi védelmi bizottságok
+
+Határidő: az „Országos Haditorna Verseny” programjához igazodóan
+
+c) a megyei (fővárosi) védelmi bizottságok közreműködésével komplex védelmi igazgatási felkészítés végrehajtása a polgármesterek és a közbiztonsági referensek részére.
+
+Felelős: honvédelmi miniszter
+
+belügyminiszter
+
+megyei, fővárosi, helyi védelmi bizottságok
+
+Határidő: 2019. december 20.
+
+4. A honvédelmi típusú különleges jogrend időszaki felkészüléssel összefüggő feladatok:
+
+a) a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet és a váratlan támadás idején bevezetendő rendkívüli intézkedések jogszabálytervezeteivel kapcsolatos kidolgozó munka folytatása az érintett miniszterek bevonásával, a honvédelmi miniszter részére megküldött jogszabálytervezetek szakmai véleményezése;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: folyamatos
+
+b) a Kormány részére előterjesztés készítése a közigazgatás központi szintjének különleges jogrendi működésével kapcsolatos koncepcióról, szükség szerint javaslattétel a szabályozási feladatokra.
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: 2019. november 30.
+
+5. A befogadó nemzeti támogatással összefüggő feladatok:
+
+a) a befogadó nemzeti támogatás tervezésével, a szerződéskötéssel, a nyilvántartással és az ellenőrzéssel összefüggő dokumentumok kidolgozásának folytatása;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+megyei, fővárosi védelmi bizottságok
+
+Határidő: 2019. december 31.
+
+b) a NATO nagyon magas készenlétű erőire vonatkozó követelmények alapján a befogadó nemzeti támogatás képesség katalógusának naprakészen tartása, valamint a NATO erők fogadásának, állomásoztatásának és mozgatásának tervezése érdekében a szükséges adatok megküldése a honvédelmi miniszternek;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+megyei, fővárosi védelmi bizottságok
+
+Határidő: 2019. november 30.
+
+c) a befogadó nemzeti támogatás katonai, rendvédelmi és civil feladatainak ellátására vonatkozó területi szintű módszertani rendszergyakorlat végrehajtása.
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+érintett megyei védelmi bizottságok
+
+Határidő: 2019. október 31.
+
+6. A válságkezelési gyakorlatokkal összefüggő feladatok:
+
+a) a NATO 2019. évi válságkezelési gyakorlat (Crisis Management Exercise 2019, a továbbiakban: CMX 19) nemzeti feladatainak végrehajtása, valamint a NATO 2020. évi válságkezelési gyakorlat (NATO Crisis Management Exercise 2020, a továbbiakban: CMX 20) szövetségi és nemzeti tervezésével kapcsolatos feladatok végrehajtása;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: a CMX 19 és CMX 20 gyakorlatokkal kapcsolatos NATO tervekkel összhangban
+
+b) az Európai Unió 2020. évi többszintű gyakorlatának (Multi Layer 2020, a továbbiakban: ML 20) gyakorlat, valamint az azzal párhuzamosan és koordináltan végrehajtásra kerülő NATO válságkezelési gyakorlat (NATO Parallel and Coordinated Exercise 2020, a továbbiakban: PACE 2020) közösségi, szövetségi és nemzeti tervezésével kapcsolatos feladatok végrehajtása;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+illetékes megyei, fővárosi védelmi bizottság
+
+Határidő: az EU ML 20 és a NATO PACE 2020 gyakorlat tervezési folyamatával összhangban
+
+c) a Közép-európai Védelmi Együttműködés keretében Cooperative Security 2019 válságkezelési gyakorlat (a továbbiakban: COOPSEC 19) nemzeti és nemzetközi tervezésével, szervezésével és végrehajtásával kapcsolatos feladatok végzése;
+
+Felelős: honvédelmi miniszter
+
+belügyminiszter
+
+emberi erőforrások minisztere
+
+Határidő: a COOPSEC 19 gyakorlat tervezési folyamatával összhangban
+
+d) a Komárom-Esztergom Megyei Védelmi Bizottság bázisán komplex civil-katonai egészségügyi gyakorlat végrehajtása.
+
+Felelős: honvédelmi miniszter
+
+emberi erőforrások minisztere
+
+illetékes megyei védelmi bizottság elnöke
+
+Határidő: 2019. december 31.
+
+7. A védelmi igazgatás tervrendszerének kialakításával kapcsolatos feladatok:
+
+a) a nemzetgazdaság védelmi felkészítésével és a gazdaságmozgósítás feladatainak végrehajtásával kapcsolatos jogszabályok felülvizsgálata;
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: 2019. november 30.
+
+b) az ágazatonként meghatározott, honvédelemben közreműködő egyéb szervek honvédelmi intézkedési terveinek szükség szerinti felülvizsgálata, módosítása, kiegészítése.
+
+Felelős: érintett miniszterek
+
+Határidő: folyamatos
+
+8. A Honvédelmi Tanács és a Kormány speciális működési feltételeivel összefüggő feladatok:
+
+a) a Honvédelmi Tanács és a Kormány speciális működési feltételeinek folyamatos biztosítása érdekében megkezdett törzsvezetési gyakorlat III. ütemének végrehajtása, tapasztalatok összegzése, és ezekről jelentés készítése a Kormány számára;
+
+Felelős: honvédelmi miniszter
+
+belügyminiszter
+
+érintett miniszterek
+
+Határidő: 2019. október 31.
+
+b) ágazati informatikai hálózatoknak a kormányzati védett vezetési rendszer fő objektumából történő elérési feltételeinek biztosítása a Honvédelmi Minisztérium követelményei alapján;
+
+Felelős: belügyminiszter
+
+honvédelmi miniszter
+
+Határidő: 2019. december 31.
+
+c) a K-600/KTIR Hírközlési és Informatikai Rendszer (a továbbiakban: K-600/KTIR) működtetése és fejlesztési feladatainak végrehajtása a Honvédelmi Minisztérium követelményei alapján;
+
+Felelős: belügyminiszter
+
+honvédelmi miniszter
+
+Határidő: folyamatos
+
+d) a K-600/KTIR működtetésével, képességfenntartással kapcsolatos feladatok ellátásához szükséges 2019. évi szerződések megkötése.
+
+Felelős: belügyminiszter
+
+Határidő: 2019. október 30.
+
+9. A Kormány részére előterjesztés készítése a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a váratlan támadás, a terrorveszélyhelyzet és a veszélyhelyzet idejére szóló kormányzati kommunikációs stratégia koncepciójával kapcsolatban.
+
+Felelős: a miniszterelnök kabinetfőnöke
+
+honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: 2019. december 31.
+
+10. A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló jogszabályok alapján az egyes ágazatokhoz tartozó, potenciális honvédelmi létfontosságú rendszerekkel kapcsolatos tárcaközi egyeztetések végrehajtása, majd azok eredménye alapján a kijelölési eljárások lefolytatása.
+
+Felelős: honvédelmi miniszter
+
+érintett miniszterek
+
+Határidő: folyamatos
+
+11. A honvédelmi miniszter által jóváhagyott terv alapján – az érintett államigazgatási szervek bevonásával – átfogó, felügyeleti ellenőrzés lefolytatása Budapest Főváros Védelmi Bizottságnál, valamint a Pest Megyei Védelmi Bizottságnál.
+
+Felelős: honvédelmi miniszter
+
+belügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+emberi erőforrások minisztere
+
+érintett megyei, fővárosi védelmi bizottságok elnökei
+
+Határidő: 2019. november 30.
+
+12. Javaslatok megküldése a honvédelmi miniszter részére a védelmi felkészítés 2020. évi feladattervének összeállítása érdekében, a tervezett feladatokhoz tartozó költségvetési igények egyidejű megjelölésével.
+
+Felelős: érintett miniszterek
+
+megyei, fővárosi védelmi bizottságok
+
+Határidő: 2019. október 1.
+
+13. A 12. pont szerinti javaslatok alapján a Kormány részére előterjesztés készítése a 2020. évre tervezett védelmi felkészítési feladatokról, valamint a végrehajtáshoz szükséges költségvetési források átcsoportosításáról.
+
+Felelős: honvédelmi miniszter
+
+Határidő: 2019. december 1.
+
+14. A Kormány számára összeállításra kerülő jelentéshez tájékoztató megküldése a honvédelmi miniszter részére a 2019. évi védelmi igazgatási feladatterv végrehajtásáról, a jóváhagyott költségvetési források – elszámolási és a fel nem használt előirányzatok vonatkozásában visszatérítési kötelezettség mellett történő – felhasználásáról.
+
+Felelős: érintett miniszterek
+
+megyei, fővárosi védelmi bizottságok
+
+Határidő: 2020. február 15.
+
+15. A 14. pont szerinti tájékoztató alapján jelentés készítése a Kormány számára a védelmi felkészítés 2019. évi feladatainak végrehajtásáról, valamint a „honvédelmi- és gazdasági felkészülés központi kiadásai”, a „Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítása”, illetve a „K-600 hírrendszer működtetésére” jogcímeken biztosított előirányzatok – elszámolási és a fel nem használt előirányzatok vonatkozásában visszatérítési kötelezettség mellett történő – felhasználásáról.
+
+Felelős: honvédelmi miniszter
+
+Határidő: 2020. március 31.
