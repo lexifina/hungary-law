@@ -66,4 +66,10 @@ II. Az egyes szervezetek kódszámai (a nyilvántartási szám harmadik és negy
 
 | 08. | egyéb szervezet | 08 |
 
-[^37]: A 3. melléklet a 20/2014. (XII. 23.) IM rendelet 17. § (11) bekezdése szerint módosított szöveg.
+| 09. | vallási egyesület | 09 |
+
+| 10. | nyilvántartásba vett egyház | 10 |
+
+| 11. | bejegyzett egyház | 11 |
+
+[^37]: A 3. melléklet a 20/2014. (XII. 23.) IM rendelet 17. § (11) bekezdése, a 13/2019. (V. 15.) IM rendelet 1. §-a szerint módosított szöveg.

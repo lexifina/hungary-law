@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-58-20-2
 | 2016-01-02 | 2012-58-20-2T.12 | 20/2014. (XII. 23.) IM rendelet |
 | 2017-04-04 | 2012-58-20-2T.13 | 3/2017. (IV. 3.) IM rendelet |
 | 2018-01-01 | 2012-58-20-2T.14 | 20/2017. (XII. 21.) IM rendelet |
+| 2019-05-16 | 2012-58-20-2T.15 | 20/2014. (XII. 23.) IM rendelet |
