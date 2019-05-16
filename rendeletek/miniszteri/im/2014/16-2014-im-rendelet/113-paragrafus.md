@@ -1,3 +1,6 @@
-113. § (1) A vallásgyakorlás céljára megfelelő helyiségről és annak alapvető berendezéséről a bv. intézet, az egyházi szolgáltatásokhoz szükséges vallási felszerelésekről a vallási közösség gondoskodik.
+113. § (1)[^90] A vallásgyakorlás céljára megfelelő helyiségről és annak alapvető berendezéséről a bv. intézet, az egyházi szolgáltatásokhoz szükséges vallási felszerelésekről a jogi személyiséggel rendelkező vallási közösség gondoskodik.
 
-(2) A bv. intézetben vallási közösség által fenntartott könyvtár is működhet, amelyet az elítélt térítésmentesen vehet igénybe.
+(2)[^91] A bv. intézetben jogi személyiséggel rendelkező vallási közösség által fenntartott könyvtár is működhet, amelyet az elítélt térítésmentesen vehet igénybe.
+
+[^90]: A 113. § (1) bekezdése a 13/2019. (V. 15.) IM rendelet 4. § b) pontja szerint módosított szöveg.
+[^91]: A 113. § (2) bekezdése a 13/2019. (V. 15.) IM rendelet 4. § b) pontja szerint módosított szöveg.

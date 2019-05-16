@@ -1,6 +1,6 @@
 ## 57. Az értékelő vélemény
 
-93. § (1)[^72] Az elítéltről a bv. intézet értékelő véleményt készít különösen a bíróság, a hatóság indokolt megkeresésére vagy adatkérésére, továbbá – törvény eltérő rendelkezése hiányában –
+93. § (1)[^75] Az elítéltről a bv. intézet értékelő véleményt készít különösen a bíróság, a hatóság indokolt megkeresésére vagy adatkérésére, továbbá – törvény eltérő rendelkezése hiányában –
 
 a) a szabadságvesztés végrehajtási fokozatának megváltoztatására,
 
@@ -38,9 +38,9 @@ q) az intézetelhagyással járó javaslatok elbírálásához
 
 ## készített előterjesztések során.
 
-(2)[^73] A bv. bíró részére készült értékelő véleménynek – ha az elítélt több ítéletet folyamatosan tölt – minden határozatra vonatkozóan tartalmaznia kell a döntéshez szükséges adatokat. A fegyelmi és jutalmazási helyzetre vonatkozó adatok tekintetében a véleményt úgy kell elkészíteni, hogy azok az egyes határozatokra vonatkozóan elkülönülve jelenjenek meg.
+(2)[^76] A bv. bíró részére készült értékelő véleménynek – ha az elítélt több ítéletet folyamatosan tölt – minden határozatra vonatkozóan tartalmaznia kell a döntéshez szükséges adatokat. A fegyelmi és jutalmazási helyzetre vonatkozó adatok tekintetében a véleményt úgy kell elkészíteni, hogy azok az egyes határozatokra vonatkozóan elkülönülve jelenjenek meg.
 
 (3) Kötelező kegyelmi eljárás esetén az értékelő véleményhez csatolni kell az elítélt általános egészségi és mentális állapotát bemutató bv. orvosi, szakorvosi és pszichológusi véleményeket.
 
-[^72]: A 93. § (1) bekezdés nyitó szövegrésze a 14/2018. (VI. 15.) IM rendelet 19. § 26. pontja szerint módosított szöveg.
-[^73]: A 93. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 27. pontja szerint módosított szöveg.
+[^75]: A 93. § (1) bekezdés nyitó szövegrésze a 14/2018. (VI. 15.) IM rendelet 19. § 26. pontja szerint módosított szöveg.
+[^76]: A 93. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 27. pontja szerint módosított szöveg.

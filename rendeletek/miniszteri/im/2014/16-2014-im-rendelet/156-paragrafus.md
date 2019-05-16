@@ -1,4 +1,4 @@
-## 155. § A tizennyolcadik életévét be nem töltött elítélt eltávozásra és kimaradásra akkor bocsátható, ha őt a törvényes képviselője, nagykorú hozzátartozója, a büntetés-végrehajtási pártfogó felügyelője vagy valamely, a bv. szervezettel együttműködési megállapodást kötött társadalmi szervezet vagy vallási közösség képviselője fogadja és a kíséréséről, valamint a visszaszállításáról is gondoskodik.
+## 155. §[^150] A tizennyolcadik életévét be nem töltött elítélt eltávozásra és kimaradásra akkor bocsátható, ha őt a törvényes képviselője, nagykorú hozzátartozója, a büntetés-végrehajtási pártfogó felügyelője vagy valamely, a bv. szervezettel együttműködési megállapodást kötött társadalmi szervezet vagy jogi személyiséggel rendelkező vallási közösség képviselője fogadja és a kíséréséről, valamint a visszaszállításáról is gondoskodik.
 
 156. § (1) A családi konzultáció iránti kérelem indokoltságának ellenőrzése céljából a bv. intézet megkeresheti a területileg illetékes családsegítő vagy gyermekjóléti szolgálatot.
 
@@ -19,3 +19,5 @@ d) a bv. intézetbe bevihető tárgyak körét,
 e) a beszélgetés ellenőrzésének és megszakításának lehetőségéről való tájékoztatást,
 
 f) a ruházat és csomag átvizsgálásának lehetőségéről és a bv. intézetben való tartózkodás szabályairól való tájékoztatást.
+
+[^150]: A 155. § a 13/2019. (V. 15.) IM rendelet 4. § b) pontja szerint módosított szöveg.

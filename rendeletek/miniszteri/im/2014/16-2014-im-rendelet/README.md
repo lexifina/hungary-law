@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-16-20-0
 | 2017-01-01 | 2014-16-20-06.9 | 24/2016. (XII. 23.) IM rendelet |
 | 2018-01-01 | 2014-16-20-06.10 | 22/2017. (XII. 22.) IM rendelet |
 | 2018-07-01 | 2014-16-20-06.11 | 14/2018. (VI. 15.) IM rendelet |
+| 2019-05-16 | 2014-16-20-06.12 | 13/2019. (V. 15.) IM rendelet |

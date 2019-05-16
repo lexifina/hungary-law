@@ -4,9 +4,9 @@
 
 a) a szabaduló elítélt természetes személyazonosító adatait,
 
-b)[^129] a szabadulás utáni lakcímét vagy tényleges tartózkodási helyét,
+b)[^135] a szabadulás utáni lakcímét vagy tényleges tartózkodási helyét,
 
-c)[^130] a bírósági ügydöntő határozat adatait,
+c)[^136] a bírósági ügydöntő határozat adatait,
 
 d) a szabadítás jogcímét és időpontját,
 
@@ -22,5 +22,5 @@ i) a szabadságvesztés végrehajtása alatt a munkáltatásban részt vett elí
 
 (2) A szabadulási igazolás kiadása és a szabadítás megtörténtéről előírt értesítések elküldése a szabadító bv. intézet feladata.
 
-[^129]: A 143. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 41. pontja szerint módosított szöveg.
-[^130]: A 143. § (1) bekezdés c) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 42. pontja szerint módosított szöveg.
+[^135]: A 143. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 41. pontja szerint módosított szöveg.
+[^136]: A 143. § (1) bekezdés c) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 42. pontja szerint módosított szöveg.
