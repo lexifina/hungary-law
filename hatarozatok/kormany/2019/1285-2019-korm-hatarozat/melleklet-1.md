@@ -8,9 +8,9 @@
 
 ## Határidő: a 2020. évi központi költségvetés tervezése során
 
-## 3. egyetért azzal, hogy a magyarországi szerb nemzetiség oktatási céljainak megvalósításával kapcsolatos egyes intézkedésekről szóló 1398/2018. (VIII. 30.) Korm. határozat 1. pontjában szereplő „Szegedi Szerb Oktatási Központ” szövegrész helyébe a „szegedi szerb oktatási központ létrehozása keretében bejegyzett Nikola Tesla Szerb Tanítási Nyelvű Óvoda, Általános Iskola, Gimnázium, Kollégium és Könyvtár Szegedi Általános Iskolája intézmény” szöveg lépjen;
+## 3.[^1]
 
-## 4. visszavonja a magyarországi szerb nemzetiség köznevelési fejlesztési céljainak támogatásáról szóló 1177/2018. (III. 28.) Korm. határozatot.
+## 4.[^2]
 
 1. melléklet az 1285/2019. (V. 15.) Korm. határozathoz
 
@@ -29,3 +29,6 @@
 | 6. | Nikola Tesla Szerb Tanítási Nyelvű Óvoda, Általános Iskola, Gimnázium, Kollégium és Könyvtár Rózsa utcai Telephelye kollégiumi épületének felújítása | Szerb Országos Önkormányzat | 63 000 000 |  | 63 000 000 |
 
 | 7. | Összesen (Ft) |  | 576 000 000 | 422 000 000 | 998 000 000 |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
