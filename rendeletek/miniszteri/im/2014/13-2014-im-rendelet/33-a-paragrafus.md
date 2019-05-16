@@ -1,5 +1,5 @@
-33/A. §[^26] (1) A betegek és beutaltak részére biztosítani kell a napi tisztálkodáshoz szükséges feltételeket.
+33/A. §[^27] (1) A betegek és beutaltak részére biztosítani kell a napi tisztálkodáshoz szükséges feltételeket.
 
 (2) A letéti pénzzel nem rendelkező betegek és beutaltak részére az 1. mellékletben meghatározott alapvető tisztálkodási és felszerelési cikkeket kell biztosítani.
 
-[^26]: A 33/A. §-t a 22/2017. (XII. 22.) IM rendelet 37. § (2) bekezdése iktatta be.
+[^27]: A 33/A. §-t a 22/2017. (XII. 22.) IM rendelet 37. § (2) bekezdése iktatta be.

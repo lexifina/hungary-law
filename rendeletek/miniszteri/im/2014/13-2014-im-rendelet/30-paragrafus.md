@@ -1,4 +1,4 @@
-## 29. §[^23] A beteggel szemben alkalmazott korlátozott testi kényszer szükségességéről a főigazgató főorvos haladéktalanul tájékoztatja a törvényességi felügyelet ellátó ügyészséget, a beteg törvényes képviselőjét, a beteg kapcsolattartóként megjelölt hozzátartozóját és az IMEI betegjogi képviselőjét.
+## 29. §[^24] A beteggel szemben alkalmazott korlátozott testi kényszer szükségességéről a főigazgató főorvos haladéktalanul tájékoztatja a törvényességi felügyelet ellátó ügyészséget, a beteg törvényes képviselőjét, a beteg kapcsolattartóként megjelölt hozzátartozóját és az IMEI betegjogi képviselőjét.
 
 ## 25. Az egészségügyi korlátozás alkalmazása
 
@@ -10,7 +10,7 @@ b) az elrendelő vagy engedélyező orvos gondoskodik a korlátozás alá vont p
 
 c) egészségügyi korlátozás esetén az elrendelő vagy engedélyező orvos írásban rögzíti az eseményre vonatkozó adatokat.
 
-(2)[^24] Az egészségügyi korlátozás indokoltságát a főigazgató főorvos véleményezi és haladéktalanul tájékoztatja a beteg vagy a beutalt törvényes képviselőjét, kapcsolattartóként megjelölt hozzátartozóját, a törvényességi felügyeletet ellátó ügyészséget és az IMEI betegjogi képviselőjét.
+(2)[^25] Az egészségügyi korlátozás indokoltságát a főigazgató főorvos véleményezi és haladéktalanul tájékoztatja a beteg vagy a beutalt törvényes képviselőjét, kapcsolattartóként megjelölt hozzátartozóját, a törvényességi felügyeletet ellátó ügyészséget és az IMEI betegjogi képviselőjét.
 
-[^23]: A 29. § a 14/2018. (VI. 15.) IM rendelet 9. § g) pontja szerint módosított szöveg.
-[^24]: A 30. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 9. § g) pontja szerint módosított szöveg.
+[^24]: A 29. § a 14/2018. (VI. 15.) IM rendelet 9. § g) pontja szerint módosított szöveg.
+[^25]: A 30. § (2) bekezdése a 14/2018. (VI. 15.) IM rendelet 9. § g) pontja szerint módosított szöveg.
