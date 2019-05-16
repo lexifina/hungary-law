@@ -1,1 +1,0 @@
-## „(12) A NEAK a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 25. napjáig a honlapján közzéteszi.”

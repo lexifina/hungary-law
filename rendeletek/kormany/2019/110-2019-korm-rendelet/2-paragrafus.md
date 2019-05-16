@@ -1,1 +1,0 @@
-## „a) forgalomba hozatalra engedélyezett gyógyszer esetében: a bruttó fogyasztói árból a DDD alapján számított napi terápiás költség, ha a DDD nem definiálható, az egységnyi hatóanyagra jutó bruttó fogyasztói árat jelenti, mely csak azonos hatóanyagok esetén hasonlítható össze,”
