@@ -80,28 +80,6 @@
 
 | 40. | KEHOP-5.2.10-16- 2018-00192 | Türr István Kollégium energetikai felújítása | Pápai Tankerületi Központ | 76 752 467 |
 
-4. melléklet az 1273/2019. (V. 14.) Korm. határozathoz
+4. melléklet az 1273/2019. (V. 14.) Korm. határozathoz[^7]
 
-1. Az 1084/2016. (II. 29.) Korm. határozat 1. melléklet 2. pontjában foglalt táblázat a következő 6c. sorral egészül ki:
-
-|  |  | (A) | (B) | (C) | (D) | (E) |
-
-|  | (1.) | (Felhívás azonosító jele) | (Felhívás neve) | [Felhívás keretösszege (Mrd Ft)] | (Felhívás meghirdetésének módja) | (Felhívás meghirdetésének tervezett ideje) |
-
-|  | 6c. | KEHOP-2.1.8. | Víziközmű hálózatok hatékonyságnövelő fejlesztései | 10,00 | standard | 2019. május |
-
-2. Az 1084/2016. (II. 29.) Korm. határozat 1. melléklet 2. pontjában foglalt táblázat a következő 10. sorral egészül ki:
-
-|  |  | (A) | (B) | (C) | (D) | (E) |
-
-|  | (1.) | (Felhívás azonosító jele) | (Felhívás neve) | [Felhívás keretösszege (Mrd Ft)] | (Felhívás meghirdetésének módja) | (Felhívás meghirdetésének tervezett ideje) |
-
-|  | 10. | KEHOP-2.2.5. | Felhívás szennyvízelvezetés és -tisztítás, szennyvízkezelés megvalósítására a települési szennyvíz kezeléséről szóló 91/271/EGK irányelvben megfogalmazott kiépítési kötelezettséggel nem érintett agglomerációk számára | 10,00 | standard | 2019. május |
-
-3. Az 1084/2016. (II. 29.) Korm. határozat 1. melléklet 5. pontjában foglalt táblázat a következő 16a. sorral egészül ki:
-
-|  |  | (A) | (B) | (C) | (D) | (E) |
-
-|  | (1.) | (Felhívás azonosító jele) | (Felhívás neve) | [Felhívás keretösszege (Mrd Ft)] | (Felhívás meghirdetésének módja) | (Felhívás meghirdetésének tervezett ideje) |
-
-|  | 16a. | KEHOP-5.2.13. | Pályázatos épületenergetikai felhívás egyházak számára | 10,00 | standard | 2019. június |
+[^7]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
