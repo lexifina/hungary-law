@@ -10,13 +10,13 @@
 
 a) mentesség a képzés önköltségének megtérítése alól,
 
-b)[^6] havi pénzbeli juttatás, amelynek összege az Nftv. 114/D. § (1) bekezdés a) pontja által meghatározott éves hallgatói normatíva tizenketted része, doktori képzésben részt vevők esetén az Nftv. 114/D. § (1) bekezdés b) pont ba) és bb) alpontjai által meghatározott éves támogatás tizenketted része,
+b)[^6] havi pénzbeli juttatás, amelynek összege az Nftv. 114/D. § (1) bekezdés a) pontja által meghatározott éves hallgatói normatíva 100%-a, doktori képzésben részt vevők esetén az Nftv. 114/D. § (1) bekezdés b) pont ba) és bb) alpontjai által meghatározott éves támogatás tizenketted része,
 
 c) kollégiumi elhelyezés vagy lakhatási támogatás,
 
 d) intézményi könyvtár ingyenesen igénybe vehető szolgáltatásainak használata,
 
-e) egészségügyi szolgáltatás, illetve a szolgáltatás igénybevétele esetén az idegennyelv-használatból eredő, igazolt költségek megtérítése, vagy az egészségügyi ellátás során szükséges idegennyelv-használatból eredő költségeket fedező kiegészítő egészségügyi biztosítás,
+e)[^7] egészségügyi szolgáltatás, valamint a szolgáltatás igénybevétele esetén az idegennyelv-használatból eredő, igazolt költségek megtérítése vagy az egészségügyi ellátás során szükséges idegennyelv-használatból eredő költségeket fedező kiegészítő magánbiztosítás,
 
 f) félévenkénti utazási támogatás, amelynek pontos összegét az adott évre vonatkozóan az ösztöndíjprogram működési szabályzata tartalmazza.
 
@@ -24,4 +24,5 @@ f) félévenkénti utazási támogatás, amelynek pontos összegét az adott év
 [^3]: A 2. § (2) bekzdése a 151/2018. (VIII. 13.) Korm. rendelet 1. §-ával megállapított, a 227/2018. (XII. 5.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekzdése a 151/2018. (VIII. 13.) Korm. rendelet 1. §-ával megállapított, a 227/2018. (XII. 5.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdése a 227/2018. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^6]: A 2. § (5) bekezdés b) pontja a 41/2019. (III. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § (5) bekezdés b) pontja a 107/2019. (V. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (5) bekezdés e) pontja a 107/2019. (V. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
