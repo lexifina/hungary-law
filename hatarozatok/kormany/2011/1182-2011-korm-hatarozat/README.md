@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1182-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-06-07 | 2011-1182-30-22.1 | 1182/2011. (VI. 6.) Korm. határozat |
+| 2019-05-16 | 2011-1182-30-22.2 | 1286/2019. (V. 15.) Korm. határozat |
