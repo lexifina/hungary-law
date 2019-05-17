@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1262/2018. (VI. 11.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1278/2019. (V. 15.) Korm. határozathoz
 
@@ -291,3 +291,5 @@ Határidő: 2020. február 15.
 Felelős: honvédelmi miniszter
 
 Határidő: 2020. március 31.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
