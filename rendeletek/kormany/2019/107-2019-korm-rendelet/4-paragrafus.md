@@ -1,5 +1,5 @@
-## 3. § A Rendelet 6. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A pályázat benyújtásakor a pályázónak csatolnia kell az 1. melléklet szerinti nyilatkozatát arra vonatkozóan, hogy hozzájárul a személyes adatainak a pályázati eljárás során és az ösztöndíjprogramban való részvételének, valamint a (3) bekezdés d) pontja szerinti feltétel teljesítésének időtartama alatt, azzal összefüggésben történő kezeléséhez. A pályázatot és a nyilatkozatot angol nyelven kell benyújtani, illetve csatolni.”
+## 1–3. §[^2]
 
 4. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
