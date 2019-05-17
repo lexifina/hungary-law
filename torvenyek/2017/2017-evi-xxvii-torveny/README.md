@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-27-00-00
 | --- | --- | --- |
 | 2017-04-12 | 2017. évi XXVII. törvény | 2017-27-00-00.0 (közlönyállapot) |
 | 2017-04-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-27-00-00.1 |
+| 2019-05-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2017-27-00-00.2 |
