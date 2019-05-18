@@ -32,7 +32,7 @@
 
 ## Határidő: a 2021. évi központi költségvetés tervezése során
 
-## 1.6. felhívja a miniszterelnök kabinetfőnökét, hogy a Beruházás megvalósítása érdekében hozza létre a támogatási jogviszonyt az Önkormányzattal, mely jogviszony tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva engedélyezi a miniszterelnök kabinetfőnöke számára, hogy a korábban azonos jogcímcsoporton vállalt éven túli kötelezettségeken felül – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – a 2019. költségvetési év tekintetében legfeljebb 500 000 000 forint, a 2020. költségvetési év tekintetében legfeljebb 1 531 695 600 forint összegben, a 2021. költségvetési év tekintetében legfeljebb 1 335 516 400 forint összegben éven túli kötelezettséget vállaljon;
+## 1.6.[^1] felhívja a miniszterelnök kabinetfőnökét, hogy a Beruházás megvalósítása érdekében hozza létre a támogatási jogviszonyt az Önkormányzattal, mely jogviszony tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva engedélyezi a miniszterelnök kabinetfőnöke számára, hogy a korábban azonos jogcímcsoporton vállalt éven túli kötelezettségeken felül – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – a 2019. költségvetési év tekintetében legfeljebb 500 000 000 forint, a 2020. költségvetési év tekintetében legfeljebb 1 531 000 000 forint összegben, a 2021. költségvetési év tekintetében legfeljebb 1 335 516 400 forint összegben éven túli kötelezettséget vállaljon;
 
 ## Felelős: a miniszterelnök kabinetfőnöke
 
@@ -46,17 +46,19 @@
 
 ## c) a Gyógyfürdő környezetében egy fedett sportuszoda megvalósíthatóságának vizsgálatával;
 
-## 1.8. az 1.7. pont
+## 1.8.[^2] az 1.7. pont
 
-## a) a) alpontja szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés n)–p) pontja szerinti előkészítési fázisaira 301 117 000 forint,
+## a) a) alpontja szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a)–e) és n)–p) pontja szerinti előkészítési fázisaira 301 117 000 forint,
 
 ## b) b) alpontja szerinti beruházásnak a Rendelet 2. § (2) bekezdés a) pontja szerinti előkészítési fázisaira 57 531 000 forint,
 
-## c) c) alpontja szerinti beruházásnak a Rendelet 2. § (2) bekezdés a)–c) pontja szerinti előkészítési fázisaira 95 250 000 forint, – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen 454 474 500 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2020. június 30-ig kell megvalósítani;
+## c) c) alpontja szerinti beruházásnak a Rendelet 2. § (2) bekezdés a)–c) pontja szerinti előkészítési fázisaira 95 250 000 forint,
+
+## – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen 454 474 500 forint forrást biztosít azzal, hogy az a) alpont szerinti előkészítési fázisokat legkésőbb 2020. december 31-ig, a b) és c) alpont szerinti előkészítési fázisokat legkésőbb 2020. június 30-ig kell megvalósítani;
 
 ## 1.9. az 1.7. pont szerinti beruházások előkészítésének kormányzati felelőseként a miniszterelnök kabinetfőnökét jelöli ki;
 
-## 1.10.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1.7. pont szerinti beruházások előkészítési feladatainak finanszírozása érdekében a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Turisztikai fejlesztési célelőirányzat jogcímcsoport javára – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 454 474 500 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
+## 1.10.[^3] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1.7. pont szerinti beruházások előkészítési feladatainak finanszírozása érdekében a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Turisztikai fejlesztési célelőirányzat jogcímcsoport javára – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 454 474 500 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
 
 ## Az átcsoportosítás tekintetében
 
@@ -78,13 +80,13 @@
 
 ## Határidő: az 1.10. pont szerinti forrás rendelkezésre bocsátását követően azonnal
 
-## 1.12. felhívja miniszterelnök kabinetfőnökét, hogy
+## 1.12.[^4] felhívja a miniszterelnök kabinetfőnökét, hogy
 
-## a) a Rendelet 8. § (1) bekezdésére figyelemmel számoljon be az 1.8. pontban meghatározott előkészítési fázisok végrehajtásáról, valamint a Beruházás Előkészítési Alap jogcímcsoport terhére átcsoportosított forrás felhasznált összegéről;
+## a)[^5] a Rendelet 8. § (1) bekezdésére figyelemmel számoljon be az 1.8. pontban meghatározott előkészítési fázisok végrehajtásáról, valamint a Beruházás Előkészítési Alap jogcímcsoport terhére átcsoportosított forrás felhasznált összegéről;
 
 ## Felelős: a miniszterelnök kabinetfőnöke
 
-## Határidő: 2020. július 30.
+## Határidő: az 1.8. pont a) alpontja tekintetében 2021. január 30., az 1.8. pont b) és c) alpontja tekintetében 2020. július 30.
 
 ## b) az 1.7. pont a)–c) alpontja szerinti előkészítési fázisok végrehajtásának eredménye alapján készítsen előterjesztést – az 1.7. pont c) alpontjában meghatározott feladattal összefüggésben jelentkező sportszakmai kérdésben az emberi erőforrások minisztere bevonásával – a Kormány részére, és tegyen javaslatot a Kormány részére a megvalósításának kérdésében a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával;
 
@@ -174,4 +176,8 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1.10. pont az 1016/2019. (I. 28.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^1]: Az 1.6. pont az 1290/2019. (V. 17.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1.8. pont az 1290/2019. (V. 17.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1.10. pont az 1016/2019. (I. 28.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^4]: Az 1.12. pont nyitó szövegrésze az 1290/2019. (V. 17.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^5]: Az 1.12. pont a) pontja az 1290/2019. (V. 17.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
