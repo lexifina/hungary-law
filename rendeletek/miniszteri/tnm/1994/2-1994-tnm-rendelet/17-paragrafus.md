@@ -4,17 +4,17 @@
 
 ## Vegyes rendelkezések
 
-## 17. §
+17. § (1)[^12] A tényleges szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony vagy munkaviszony időtartamának megállapítása szempontjából a Hivatal személyügyi szervének igazolása az irányadó.
 
-(1) A tényleges szolgálati, illetve közalkalmazotti jogviszony időtartamának megállapítása szempontjából a Hivatal humánpolitikai osztályának igazolása az irányadó.
+(2)[^13] E rendelet alkalmazásában a szolgálati jogviszony, rendvédelmi igazgatási jogviszony vagy munkaviszony megszűnését akkor kell a bérlő részére felróhatónak tekinteni, ha
 
-(2) A lakásjogszabályok alkalmazása szempontjából a szolgálati vagy közalkalmazotti jogviszony megszűnését akkor kell a bérlő részére felróhatónak tekinteni, ha
+a) a hivatásos szolgálati jogviszony megszüntetésére fegyelmi eljárás eredményeként, hivatásos szolgálatra méltatlanná válás, végrehajtandó szabadságvesztés büntetés kiszabása, hivatásos szolgálati viszonyról való lemondás, szolgálatra való alkalmatlanság – kivéve az egészségi alkalmatlanság esetét – miatt kerül sor,
 
-a) hivatásos állományú bérlő esetében a szolgálati jogviszony megszüntetésére fegyelmi eljárás eredményeként, hivatásos szolgálatra méltatlanná válás, végrehajtandó szabadságvesztés büntetés kiszabása, hivatásos szolgálati viszonyról való lemondás, szolgálatra való alkalmatlanság — kivéve az egészségügyi alkalmatlanság esetét — miatt kerül sor,
+b) a rendvédelmi igazgatási szolgálati jogviszony megszüntetésére lemondás, felmentés, ha ennek oka a rendvédelmi igazgatási alkalmazott munkaköri feladatainak ellátására tartósan alkalmatlanná válása – kivéve az egészségi alkalmatlanság esetét –, illetve hivatalvesztés büntetés kiszabása miatt kerül sor,
 
-b) közalkalmazotti jogviszonyban álló bérlő esetében a közalkalmazotti jogviszony megszüntetésére lemondás, felmentés (ha ennek oka a közalkalmazott munkaköri feladatainak ellátására tartósan alkalmatlanná válása, vagy munkáját nem végzi megfelelően, kivéve, ha az alkalmatlanság egészségügyi ok következménye), illetve elbocsátás fegyelmi büntetés során kerül sor,
+c) a munkaviszony megszüntetésére felmondás – kivéve az egészségi alkalmatlanság miatti okból történő felmondás esetét – vagy a munkáltató azonnali hatályú felmondása miatt kerül sor,
 
-c) a szolgálati vagy a közalkalmazotti jogviszony közös megegyezéssel történő megszüntetését a bérlő kezdeményezi.
+d) a szolgálati, rendvédelmi igazgatási szolgálati jogviszony vagy munkaviszony közös megegyezéssel történő megszüntetését a bérlő kezdeményezi.
 
 (3) A Hivatal állományából nyugállományba vonult alkalmazott, illetve a lakásbérleti jogviszonyt folytató személy esetén a volt bérlő utolsó szolgálati helye útján nyújthat be lakáscsere kérelmet.
 
@@ -25,3 +25,6 @@ c) a szolgálati vagy a közalkalmazotti jogviszony közös megegyezéssel tört
 (6) Felhatalmazást kap a Hivatal főigazgatója a Hivatal lakásügyi szervének kijelölésére, valamint működésére vonatkozó szabályok kiadására.
 
 (7) Felhatalmazást kap a Hivatal főigazgatója, hogy e rendelet 3. §-ában, 6. §-ában, 7. §-ában, 10. §-ának (2) bekezdésében és 12. §-ának (2) bekezdésében foglalt rendelkezésektől, szolgálati vagy munkáltatói érdekből eltérjen.
+
+[^12]: A 17. § (1) bekezdése a 2/2019. (V. 17.) KKM rendelet 9. §-ával megállapított szöveg.
+[^13]: A 17. § (2) bekezdése a 2/2019. (V. 17.) KKM rendelet 9. §-ával megállapított szöveg.

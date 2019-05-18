@@ -1,6 +1,6 @@
-## 2. §
+## 2. §[^3]
 
-## Lakás a Hivatal véglegesített hivatásos állományú tagja és a határozatlan időre kinevezett közalkalmazottja (a továbbiakban együtt: alkalmazott) részére adható bérbe, kivéve, ha e rendelet eltérően rendelkezik.
+## Lakás a Hivatal véglegesített hivatásos állományú tagja, határozatlan időre kinevezett rendvédelmi igazgatási alkalmazottja és határozatlan idejű munkaszerződéssel rendelkező munkavállalója (a továbbiakban együtt: alkalmazott) részére adható bérbe, kivéve, ha e rendelet eltérően rendelkezik.
 
 ## 3. §
 
@@ -16,6 +16,7 @@ d) hivatali rendelkezésű lakásról való lemondás miatt vagy lakáscsere sor
 
 e) kérelmére a hivatali rendelkezési jog megszüntetésére került sor e rendelet hatálybalépése előtt,
 
-f)[^2] lakáshelyzete megoldása érdekében a Hivatal, annak jogelődje, illetve más fegyveres szerv által munkáltatói kölcsöntámogatásban részesült.
+f)[^4] lakáshelyzete megoldása érdekében a Hivatal, annak jogelődje, illetve más fegyveres szerv által munkáltatói kölcsöntámogatásban részesült.
 
-[^2]: A 3. § f) pontja a 4/1996. ( VIII. 9.) TNM rendelet 3. §-ával megállapított szöveg.
+[^3]: A 2. § a 2/2019. (V. 17.) KKM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § f) pontja a 4/1996. ( VIII. 9.) TNM rendelet 3. §-ával megállapított szöveg.

@@ -1,6 +1,4 @@
-## 9. §
-
-(1) Adott munkakör (beosztás) betöltéséhez kötött lakás kivételével a lakásra kötött bérleti szerződés közös megegyezéssel történő megszüntetése esetén a bérlő térítésre tarthat igényt, ha a lakást kiürítve, tisztán, rendeltetésszerű használatra alkalmas állapotban a Hivatal részére jegyzőkönyvileg átadja. A térítés mértéke a lakás helyi beköltözhető forgalmi értékének 20%-a határozatlan idejű bérleti jogviszony esetén, illetve a lakás helyi beköltözhető forgalmi értékének 15%-a határozott idejű bérleti jogviszony esetén.
+9. § (1) Adott munkakör (beosztás) betöltéséhez kötött lakás kivételével a lakásra kötött bérleti szerződés közös megegyezéssel történő megszüntetése esetén a bérlő térítésre tarthat igényt, ha a lakást kiürítve, tisztán, rendeltetésszerű használatra alkalmas állapotban a Hivatal részére jegyzőkönyvileg átadja. A térítés mértéke a lakás helyi beköltözhető forgalmi értékének 20%-a határozatlan idejű bérleti jogviszony esetén, illetve a lakás helyi beköltözhető forgalmi értékének 15%-a határozott idejű bérleti jogviszony esetén.
 
 (2) A térítés mértéke a lakás helyi beköltözhető forgalmi értékének
 
