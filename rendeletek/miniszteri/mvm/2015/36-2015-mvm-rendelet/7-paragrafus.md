@@ -2,7 +2,7 @@
 
 a) az építési költség, vételár 80%-a, de legfeljebb 4 000 000 Ft,
 
-b)[^1] olyan alkalmazott esetében, akinek magának, házastársának (élettársának), vele közös háztartásban élő gyermekének, más együttköltöző családtagjának külön-külön vagy együttesen lakástulajdona, vagy résztulajdona korábban nem volt, a vételár vagy az építési költség 80%-a, de legfeljebb 5 500 000 Ft,
+b)[^7] olyan alkalmazott esetében, akinek magának, házastársának (élettársának), vele közös háztartásban élő gyermekének, más együttköltöző családtagjának külön-külön vagy együttesen lakástulajdona, vagy résztulajdona korábban nem volt, a vételár vagy az építési költség 80%-a, de legfeljebb 5 500 000 Ft,
 
 c) a lakás bővítési költségének 80%-a, de legfeljebb 3 500 000 Ft,
 
@@ -42,4 +42,4 @@ h) a 3. § (1) bekezdés a)–d) és f) pontja alapján munkáltatói kölcsönn
 
 i) egyéb, a 3. §-ban meghatározott feltételeknek megfelelő kérelmek.
 
-[^1]: A 7. § (1) bekezdés b) pontja a 18/2016. (VI. 29.) MvM rendelet 37. §-ával megállapított szöveg.
+[^7]: A 7. § (1) bekezdés b) pontja a 18/2016. (VI. 29.) MvM rendelet 37. §-ával megállapított szöveg.

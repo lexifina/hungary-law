@@ -12,7 +12,7 @@ e) az alkalmazott tulajdonában lévő lakás korszerűsítéséhez,
 
 f) az alkalmazott lakásigénye kielégítése céljából pénzügyi intézménytől felvett hitel egészének vagy részének visszafizetése céljából, amennyiben az alkalmazott önhibáján kívül olyan szociális helyzetbe kerül, hogy a pénzügyi intézmény által nyújtott hitel törlesztése létfenntartását – elsődlegesen lakhatását – veszélyezteti.
 
-(2) Szolgálati jogviszonyban töltött időként az alkalmazottnak a Hivatalnál, illetve a Magyar Honvédségnél vagy rendvédelmi szervnél (a továbbiakban együtt: fegyveres szerv) hivatásos szolgálati jogviszonyban, közszolgálati és kormányzati szolgálati jogviszonyban vagy közalkalmazotti jogviszonyban eltöltött szolgálati ideje vehető figyelembe. A szolgálati jogviszony időtartamának megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.
+(2)[^6] Szolgálati jogviszonyban töltött időként az alkalmazottnak a Hivatalnál, illetve a Magyar Honvédségnél vagy rendvédelmi feladatokat ellátó szervnél (a továbbiakban együtt: fegyveres szerv) hivatásos vagy szerződéses szolgálati jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban vagy munkaviszonyban eltöltött szolgálati ideje vehető figyelembe. A szolgálati jogviszony időtartamának megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.
 
 (3) Az (1) bekezdésben foglaltak szerint jogosult alkalmazott a megjelölt célokra munkáltatói kölcsönben részesíthető a következő feltételek együttes fennállása esetén:
 
@@ -31,3 +31,5 @@ f) vállalja, hogy a megállapodásban megállapított határidőben az építke
 g) köteles a munkáltatói kölcsönnel érintett ingatlant állandó lakcímeként bejelenteni; valamint
 
 h) köteles a munkáltatói kölcsönnel érintett ingatlanra biztosítási szerződést kötni.
+
+[^6]: A 3. § (2) bekezdése a 2/2019. (V. 17.) KKM rendelet 23. §-ával megállapított szöveg.

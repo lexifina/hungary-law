@@ -18,13 +18,15 @@ h) más súlyos szerződésszegést követett el.
 
 (2) A havi törlesztési kötelezettség nemteljesítése esetén a Hivatal haladéktalanul köteles az értesítés kézhezvételtől számított 30 napos fizetési határidő kitűzésével írásban felszólítani a fizetésre az adóst és a vele egy sorban kötelezettet, a nemfizetés következményeire való figyelmeztetéssel.
 
-(3) E rendelet alkalmazásában a szolgálati jogviszony megszűnését akkor kell az alkalmazott részéről felróhatónak tekinteni, ha
+(3)[^11] E rendelet alkalmazásában a szolgálati jogviszony megszűnését akkor kell az alkalmazott részéről felróhatónak tekinteni, ha
 
-a) hivatásos állományú alkalmazott esetében a szolgálati jogviszony megszüntetésére fegyelmi eljárás eredményeként, hivatásos szolgálatra méltatlanná válás, végrehajtandó szabadságvesztés büntetés kiszabása, hivatásos szolgálati viszonyról való lemondás, nemzetbiztonsági alkalmatlanság vagy szolgálatra való alkalmatlanság – kivéve az egészségügyi alkalmatlanság esetét – miatt kerül sor,
+a) a hivatásos szolgálati jogviszony megszüntetésére fegyelmi eljárás eredményeként, hivatásos szolgálatra méltatlanná válás, végrehajtandó szabadságvesztés büntetés kiszabása, hivatásos szolgálati viszonyról való lemondás, nemzetbiztonsági alkalmatlanság vagy szolgálatra való alkalmatlanság – ide nem értve az egészségi alkalmatlanság esetét – miatt kerül sor,
 
-b) a közalkalmazotti jogviszonyban álló alkalmazott esetében a közalkalmazotti jogviszony megszüntetésére lemondás vagy felmentés – ha ennek oka a közalkalmazott munkaköri feladatainak ellátására tartósan alkalmatlanná válása, vagy ha a felmentés oka, hogy munkáját nem megfelelően végzi, kivéve, ha az alkalmatlanság egészségügyi ok következménye – miatt kerül sor,
+b) a rendvédelmi igazgatási szolgálati jogviszony megszüntetésére lemondás vagy felmentés – ide nem értve az egészségi alkalmatlanság esetét – miatt kerül sor,
 
-c) a szolgálati vagy a közalkalmazotti jogviszony megszüntetését az alkalmazott kezdeményezi, kivéve, ha erre nyugállomány igénybevétele miatt kerül sor.
+c) munkaviszonyban álló alkalmazott esetében a munkaviszony megszüntetésére felmondás – ide nem értve az egészségi alkalmatlanság miatti okból történő felmondás esetét – vagy a munkáltató azonnali hatályú felmondása miatt kerül sor,
+
+d) a hivatásos szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony vagy munkaviszony megszüntetését az alkalmazott kezdeményezi, kivéve, ha erre nyugállomány igénybevétele miatt kerül sor.
 
 (4) A megállapodás felmondása esetén a tartozást meg kell terhelni a korábban már jóváírt engedmény, valamint a pénzügyi intézmény által felszámított és a korábbi jogszabályok alapján a munkáltatói kölcsön nyújtásakor átvállalt kezelési költség összegével. Az így megállapított tartozás a felmondással egy összegben esedékessé válik.
 
@@ -35,3 +37,5 @@ c) a szolgálati vagy a közalkalmazotti jogviszony megszüntetését az alkalma
 a) az (1) bekezdés a), c), f), g) és h) pontjában meghatározott esetekben a szerződésszegés időpontjától,
 
 b) az (1) bekezdés b), d) és e) pontjában meghatározott esetekben a felmondásban meghatározott időponttól számított,
+
+[^11]: A 16. § (3) bekezdése a 2/2019. (V. 17.) KKM rendelet 25. §-ával megállapított szöveg.
