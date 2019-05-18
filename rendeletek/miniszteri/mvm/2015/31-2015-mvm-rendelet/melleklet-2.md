@@ -1,6 +1,6 @@
 2. melléklet a 31/2015. (VI. 30.) MvM rendelethez
 
-## Képesítési követelmények kódszámának képzése
+Képesítési követelmények kódszámának képzése
 
 | 0 - 000 - 00 - 0 - 0 - 0 |
 

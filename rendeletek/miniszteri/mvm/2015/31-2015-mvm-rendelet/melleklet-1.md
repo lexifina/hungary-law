@@ -1,42 +1,40 @@
-## 12. §[^1]
+1. melléklet a 31/2015. (VI. 30.) MvM rendelethez[^7]
 
-1. melléklet a 31/2015. (VI. 30.) MvM rendelethez
+A 14 karakteres státuszazonosító szám képzése
 
-## A 14 karakteres státuszazonosító szám képzése
+|  | 000 - 00000 - 0000 |
 
-| 000 - 00000 - 0000 |
-
-1-3. karakterek a Hivatal azonosító száma
+1–3. karakterek a Hivatal azonosító száma
 
 111 Információs Hivatal
 
 4. karakter elválasztójel
 
-- (formátuma)
+– (formátuma)
 
-5-9. karakterek a szervezeti elem hierarchiában elfoglalt helyének és tagozódásának megjelölése
+5–9. karakterek a szervezeti elem hierarchiában elfoglalt helyének és tagozódásának megjelölése
 
-5. karakter 1-9-ig terjedő számokkal kifejezve a Hivatal főigazgatóját és főigazgató-helyettesét
+5. karakter 1–9-ig terjedő számokkal kifejezve a Hivatal főigazgatóját és főigazgató-helyetteseit, igazgatóit
 
 1 főigazgató
 
-2-3-ig főigazgató-helyettesek
+2–4-ig főigazgató-helyettesek
 
-6. karakter 0-9-ig terjedő számokkal kifejezve az igazgatósági szintű tagozódást
+5–9-ig igazgatók
 
-7. karakter 0-9-ig terjedő számokkal kifejezve a főosztály szintű tagozódást
+6. karakter 0–9-ig terjedő számokkal kifejezve a főosztály szintű tagozódást
 
-8. karakter 0-9-ig terjedő számokkal kifejezve az osztály szintű tagozódást
+7. karakter 0–9-ig terjedő számokkal kifejezve az osztály szintű tagozódást
 
-9. karakter 0-9-ig terjedő számokkal kifejezve az alosztály szintű tagozódást
+8–9. karakter 0–99-ig terjedő számokkal kifejezve a csoport szintű tagozódást
 
 10. karakter elválasztójel
 
-- (formátuma)
+– (formátuma)
 
-11-12. karakterek az egyes beosztások besorolásának megjelölése
+11–12. karakterek az egyes beosztások besorolásának megjelölése
 
-11. karakter 1-9-ig terjedő számokkal kifejezve a beosztások osztályozását
+11. karakter 1–9-ig terjedő számokkal kifejezve a beosztások osztályozását
 
 9 vezetői besorolási osztály
 
@@ -44,15 +42,17 @@
 
 2 tiszthelyettesi besorolási osztály (zászlósi, tiszthelyettesi)
 
-3 állami felsőfokú iskolai végzettséghez kötött közalkalmazotti beosztás
+3 állami felsőfokú iskolai végzettséghez kötött rendvédelmi igazgatási alkalmazotti munkakör
 
-4 állami közép-, illetve alapfokú iskolai végzettséghez kötött közalkalmazotti beosztás
+4 állami közép-, alapfokú iskolai végzettséghez vagy OKJ-s (alap vagy közép) végzettséghez vagy szakmunkás bizonyítványhoz kötött rendvédelmi igazgatási alkalmazotti munkakör
 
-12. karakter 0-9-ig terjedő számokkal kifejezve a beosztási osztályon belüli besorolási kategóriát
+5 állami felsőfokú iskolai végzettséghez kötött munkaviszony
 
-vezetői besorolási osztályon belüli beosztási kategóriák esetében
+6 állami közép-, alapfokú iskolai végzettséghez kötött munkaviszony
 
-l főigazgató
+12. karakter 0–9-ig terjedő számokkal kifejezve a beosztási osztályon belüli besorolási kategóriát vezetői besorolási osztályon belüli beosztási kategóriák esetében
+
+1 főigazgató
 
 2 főigazgató-helyettes
 
@@ -84,34 +84,28 @@ tiszthelyettesi besorolási osztályon belüli besorolási kategóriák esetébe
 
 4 D kategória
 
-felsőfokú iskolai végzettséghez kötött közalkalmazotti beosztások esetében
+felsőfokú iskolai végzettséghez kötött rendvédelmi igazgatási alkalmazotti munkakör esetében
 
-1 F fizetési osztály
+1 C kategória
 
-2 G fizetési osztály
+2 D kategória
 
-3 H fizetési osztály
+3 E kategória
 
-4 I fizetési osztály
+4 F kategória
 
-5 J fizetési osztály
+közép-, illetve alapfokú iskolai végzettséghez vagy OKJ-s (alap vagy közép) végzettséghez vagy szakmunkás bizonyítványhoz kötött rendvédelmi igazgatási alkalmazotti munkakör esetében
 
-közép-, illetve alapfokú iskolai végzettséghez kötött közalkalmazotti beosztások esetében
+1 A kategória
 
-1 A fizetési osztály
+2 B kategória
 
-2 B fizetési osztály
+állami felsőfokú iskolai végzettséghez és az állami közép-, alapfokú iskolai végzettséghez kötött munkaviszony esetében egységesen „1”.
 
-3 C fizetési osztály
-
-4 D fizetési osztály
-
-5 E fizetési osztály
-
-13-14. karakterek a hierarchiában elkülönült szervezeti elemnél rendszeresített beosztások száma az azonos besorolású beosztások betűrendben, 01-99-ig terjedő számokkal emelkedő sorrendben megszámozva
+13–14. karakterek a hierarchiában elkülönült szervezeti elemnél rendszeresített beosztások száma az azonos besorolású beosztások betűrendben, 01–99-ig terjedő számokkal emelkedő sorrendben megszámozva
 
 Minta a státusz 14 karakteres azonosító számsorára:
 
 111-10111-1401 A Hivatal főigazgatójának alárendeltségében működő első főosztály (101.) első osztályának (1011.) első alosztályán (10111.) rendszeresített tiszti besorolási osztályú D beosztási kategóriájú hivatásos beosztást jelenti.
 
-[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2/2019. (V. 17.) KKM rendelet 18. §-ával megállapított szöveg.

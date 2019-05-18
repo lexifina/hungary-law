@@ -1,5 +1,3 @@
-## A szerv státuszokra való tagozódásának tartalmi és formai követelményei
-
 ## Minta
 
 | Státuszazonosítószám | Beosztás megnevezése | Rendfokozat | Ruhanorma | Alapfeladathoz kapcsolódás | Képesítési követelmények kódszáma |

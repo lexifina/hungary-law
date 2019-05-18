@@ -2,7 +2,7 @@
 
 a) a szervezeti elem megnevezését és a szervezeti elem hierarchiában elfoglalt helyének és tagozódásának megjelölését,
 
-b) a szervezeti elemnél rendszeresített hivatásos, közalkalmazotti státuszok, illetve beosztások (munkakörök) – a beosztás besorolási kategória szerint csökkenő sorrendben történő – felsorolását,
+b)[^2] a szervezeti elemnél rendszeresített hivatásos, rendvédelmi igazgatási alkalmazotti, munkavállalói státuszok, illetve beosztások és munkakörök – a beosztás besorolási kategória szerint, a munkakör munkaköri kategória szerint csökkenő sorrendben történő – felsorolását,
 
 c) a szervezeti elemnél rendszeresített státusz 14 karakteres státuszazonosító számát,
 
@@ -25,3 +25,5 @@ k) a rendszeresített státuszok összesítő táblázatát,
 l) az a)–k) pontban meghatározottakon kívül mindazokat az adatokat, amelyet a Hivatal sajátos működése következtében az állománytáblázatban szükséges feltüntetni.
 
 (2) Az állománytáblázatban elkülönítetten kell szerepeltetni a rendelkezési és a kihelyezett állománykategóriát.
+
+[^2]: A 2. § (1) bekezdés b) pontja a 2/2019. (V. 17.) KKM rendelet 14. §-ával megállapított szöveg.
