@@ -1,0 +1,1 @@
+## 30. § A fegyelmi eljárás elrendeléséről szóló határozatot haladéktalanul, de legkésőbb az eljárás alá vont személy meghallgatásáról szóló értesítéssel egyidejűleg az eljárás alá vont személynek kézbesíteni kell. A kézbesítéskor a Hszt. 6/A. §-a szerint kell eljárni.

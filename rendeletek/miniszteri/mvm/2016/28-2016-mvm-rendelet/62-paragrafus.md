@@ -1,3 +1,5 @@
+## 61/B. § A fegyelmi határozatot az ellene benyújtott kereset jogerős elbírálásáig – a hivatalvesztés büntetés kivételével – nem lehet végrehajtani. Ha a rendvédelmi igazgatási alkalmazott a kereset benyújtására nyitva álló határidő eltelte vagy a kereset jogerős elbírálása előtt a rendvédelmi igazgatási szolgálati jogviszonyát megszünteti, a határozat azonnal végrehajthatóvá válik.
+
 ## II. Fejezet
 
 ## A MÉLTATLANNÁ VÁLÁS MEGÁLLAPÍTÁSA

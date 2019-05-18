@@ -1,0 +1,1 @@
+## 27. § Az előzetes elöljárói tényfeltárás során az elkövetőként valószínűsített személy is meghallgatható, és a szolgálati tevékenysége tényszerű dokumentálása érdekében jelentéstételre kötelezhető.
