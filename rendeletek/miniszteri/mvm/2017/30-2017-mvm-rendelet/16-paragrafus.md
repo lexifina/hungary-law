@@ -1,3 +1,5 @@
+## címén állapítható meg.
+
 16. § (1) A belföldi szolgálati kiküldetés alkalmával igénybe vehető közlekedési eszköz fajtáját és az igénybe vehető szállás típusát – a szolgálati érdek és a költséghatékonysági szempontok figyelembevételével – a belföldi szolgálati kiküldetést elrendelő vezető határozza meg.
 
 (2) Ha a hivatásos állomány tagja a belföldi szolgálati kiküldetése napján az indulási helyére visszatérni nem tud, és emiatt szállást vesz igénybe, számla alapján jogosult a ténylegesen felmerült, indokolt szállásköltség megtérítésére.

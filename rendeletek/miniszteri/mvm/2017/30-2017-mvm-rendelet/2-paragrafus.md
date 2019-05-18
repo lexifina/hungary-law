@@ -1,3 +1,5 @@
+## kell érteni.
+
 ## II. Fejezet
 
 ## AZ ILLETMÉNYRE ÉS ILLETMÉNYJELLEGŰ JUTTATÁSOKRA VONATKOZÓ SZABÁLYOK
