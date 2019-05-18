@@ -1,0 +1,3 @@
+## 23. § Az Mkcsr. 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Szolgálati jogviszonyban töltött időként az alkalmazottnak a Hivatalnál, illetve a Magyar Honvédségnél vagy rendvédelmi feladatokat ellátó szervnél (a továbbiakban együtt: fegyveres szerv) hivatásos vagy szerződéses szolgálati jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban vagy munkaviszonyban eltöltött szolgálati ideje vehető figyelembe. A szolgálati jogviszony időtartamának megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.”
