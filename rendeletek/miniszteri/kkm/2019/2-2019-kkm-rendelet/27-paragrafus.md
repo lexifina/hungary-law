@@ -1,1 +1,0 @@
-## 26. § Az Mkcsr. 11. § (3) bekezdésében a „szolgálati vagy közalkalmazotti jogviszonyt” szövegrész helyébe a „hivatásos szolgálati, közalkalmazotti, rendvédelmi igazgatási szolgálati jogviszonyt vagy munkaviszonyt” szöveg lép.
