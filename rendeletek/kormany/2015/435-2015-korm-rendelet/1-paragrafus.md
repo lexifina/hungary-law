@@ -12,8 +12,8 @@ b) az a) pont hatálya alá nem tartozó, a 2014–2020 programozási időszak K
 
 ## projektekre terjed ki.
 
-(2)[^3] E rendelet hatálya nem terjed ki az 1. mellékletben meghatározott szakaszolt projektekre, valamint az egyházi jogi személyek, villamosenergia-szolgáltatók, földgázszolgáltatók és távhőszolgáltatók, továbbá a fővárosi és megyei kormányhivatalok és a Nemzetbiztonsági Szakszolgálat projektjeire.
+(2)[^3] E rendelet hatálya nem terjed ki a szakaszolt projektekre, valamint az egyházi jogi személyek, villamosenergia-szolgáltatók, földgázszolgáltatók és távhőszolgáltatók, továbbá a fővárosi és megyei kormányhivatalok és a Nemzetbiztonsági Szakszolgálat projektjeire.
 
 [^1]: Az 1. § a 43/2016. (III. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése az 57/2017. (III. 20.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^3]: Az 1. § (2) bekezdése a 182/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított, a 329/2017. (XI. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 182/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított, a 329/2017. (XI. 8.) Korm. rendelet 1. §-a, a 117/2019. (V. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
