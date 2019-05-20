@@ -1,8 +1,7 @@
-## 6. §[^4]
+## 6. § A Végrehajtási Rendelet 32. cikk (5) bekezdése alapján a 10 kg-nál kisebb tömegű, az Európai Unión kívülre szánt dohánytermékek esetén a Végrehajtási Rendelet 32. cikk (1) bekezdés c) és e) pontja szerinti adatrögzítési kötelezettség teljesíthető a logisztikai vagy postai szolgáltató saját árukövetési és nyomonkövetési rendszeréhez való hozzáférés biztosítása révén is.
 
 7. § (1) Az azonosítókibocsátó, az adattár-szolgáltató és a manipulálás elleni eszközök szolgáltatója, valamint e személyek alvállalkozói kötelesek a miniszter felé a jogviszonyuk létrejöttét követő 30 napon belül, valamint évente, minden év január 31. napjáig írásban nyilatkozni a Végrehajtási Rendelet 35. cikkében meghatározott, függetlenségre vonatkozó feltételek fennállásáról, a Végrehajtási Rendelet 35. cikk (4) bekezdésében foglalt tartalommal. A Végrehajtási Rendelet 35. cikk (8) bekezdése szerinti függetlenségi vélelem fennállása esetén a nyilatkozatnak kizárólag e vélelem fennállására kell hivatkoznia.
 
-(2)–(3)[^5]
+(2) Ha a miniszter tudomására jut, hogy a Végrehajtási Rendelet 35. cikk (2) bekezdésében meghatározott kritériumokhoz kapcsolódó körülményekben olyan változás következett be, amely hatással lehet az érintett szervezet függetlenségére, és amely több mint két egymást követő naptári évig fennáll, a miniszter ezen tényről haladéktalanul értesíti az Európai Bizottságot (a továbbiakban: Bizottság).
 
-[^4]: A 6. § a 9. § (3) bekezdése alapján 2019. május 20-án lép hatályba.
-[^5]: A 7. § (2)–(3) bekezdése a 9. § (3) bekezdése alapján 2019. május 20-án lép hatályba.
+(3) A Végrehajtási Rendelet 35. cikk (6) bekezdése alapján a függetlenség helyreállításához szükséges intézkedések vonatkozásában a magyar állam nevében a miniszter jár el. A Végrehajtási Rendelet 35. cikk (6) bekezdése szerinti esetben a függetlenség biztosítása érdekében a miniszter köteles írásban felhívni az érintett (1) bekezdés szerinti szervezetet a függetlenség helyreállítására. Ha az adattár-szolgáltató vagy a manipulálás elleni eszköz szolgáltatója vagy e személyek alvállalkozója a függetlenséget a megadott határidőben nem állítja helyre, a miniszter haladéktalanul értesíti erről a vámhatóságot, amely intézkedik az e szervezetekkel szerződött gazdasági szereplők azonosító kódjának inaktiválásáról a 4. § (2) bekezdésében foglaltak szerint.

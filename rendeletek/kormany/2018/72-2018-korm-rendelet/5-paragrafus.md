@@ -1,8 +1,5 @@
-## 4. §[^2]
-
 5. § (1) A Végrehajtási Rendelet 25. cikk (1) bekezdés k) pontja szerinti nemzeti rendszergazdaként a vámhatóság jár el.
 
-(2)–(3)[^3]
+(2) A vámhatóság jogosult a Végrehajtási Rendelet 26. cikk (6) bekezdése és 27. cikk (2) bekezdése szerinti, az adattárakban történő lekérdezések végrehajtására.
 
-[^2]: A 4. § a 9. § (3) bekezdése alapján 2019. május 20-án lép hatályba.
-[^3]: Az 5. § (2)–(3) bekezdése a 9. § (3) bekezdése alapján 2019. május 20-án lép hatályba.
+(3) A Végrehajtási Rendelet 27. cikk (4) bekezdése szerinti automatikus figyelmeztetések és időszakos jelentések címzettje a vámhatóság. A vámhatóság az automatikus figyelmeztetések és időszakos jelentések fogadására szolgáló elektronikus elérhetőségéről tájékoztatja a másodlagos adattár szolgáltatóját.
