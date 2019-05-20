@@ -1,1 +1,0 @@
-## 1. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény végrehajtásáról szóló 2/1994. (IX. 20.) TNM rendelet módosítása
