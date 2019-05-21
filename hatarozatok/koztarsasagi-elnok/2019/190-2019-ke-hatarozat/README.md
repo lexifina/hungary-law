@@ -1,0 +1,9 @@
+# 190/2019. (V. 21.) KE határozat
+
+vezérőrnagyi előléptetésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-190-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-05-21 | 2019-190-30-76.1 | 190/2019. (V. 21.) KE határozat |
