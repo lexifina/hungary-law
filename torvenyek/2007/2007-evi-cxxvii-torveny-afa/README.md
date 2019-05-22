@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2018-11-24 | 2018. évi LXXXII. törvény | 2007-127-00-00.55 |
 | 2019-01-01 | 2018. évi XLI. törvény | 2007-127-00-00.56 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2007-127-00-00.57 |
+| 2019-05-22 | 1/2019. (V. 21.) PM határozat | 2007-127-00-00.58 |
