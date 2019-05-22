@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-41-00-00
 | 2018-12-22 | 2010. évi CXXX. törvény | 2018-41-00-00.15 |
 | 2019-01-01 | 2010. évi CXXX. törvény | 2018-41-00-00.16 |
 | 2019-01-02 | 2010. évi CXXX. törvény | 2018-41-00-00.17 |
+| 2019-05-22 | 1/2019. (V. 21.) PM határozat | 2018-41-00-00.18 |
