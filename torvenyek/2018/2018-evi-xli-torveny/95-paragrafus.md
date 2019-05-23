@@ -2,6 +2,6 @@
 
 a)
 
-b) 2. pontja szerinti 5. ponttal
+b)
 
 egészül ki.
