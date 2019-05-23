@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-51-20-2
 | --- | --- | --- |
 | 2019-03-15 | 2019-51-20-22.1 | 51/2019. (III. 14.) Korm. rendelet |
 | 2019-03-16 | 2019-51-20-22.2 | 2010: CXXX. törvény |
+| 2019-05-23 | 2019-51-20-22.3 | 2/2019. (V. 31.) MK határozat |

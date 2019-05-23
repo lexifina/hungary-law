@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 4. § (2) bekezdése alapján a 2019. évi XIV. törvény 4. § (1) bekezdése szerinti vállalatnak (EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaság) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.
+## 1. § A Kormány a 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény (a továbbiakban: Törvény) 4. § (1) bekezdése szerinti vállalatként (a továbbiakban: vállalat) az EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
