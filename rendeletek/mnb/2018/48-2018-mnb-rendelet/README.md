@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-48-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-12-29 | 2018-48-20-2C.1 | 48/2018. (XII. 21.) MNB rendelet |
+| 2019-05-24 | 2018-48-20-2C.2 | 21/2019. (V. 23.) MNB rendelet |
