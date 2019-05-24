@@ -1,4 +1,4 @@
-3. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^296]
+3. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^297]
 
 ## A felszín alatti vízre vonatkozó minőségi előírások
 
@@ -6,12 +6,12 @@
 
 a) nitrát: 50 mg/l;
 
-b) növényvédő szer aktív anyagai, beleértve a megfelelő anyagcseretermékeket, bomlástermékeket és reakciótermékeket: 0,1 μg/l[^297], továbbá 0,5 μg/l (összes)[^298].
+b) növényvédő szer aktív anyagai, beleértve a megfelelő anyagcseretermékeket, bomlástermékeket és reakciótermékeket: 0,1 μg/l[^298], továbbá 0,5 μg/l (összes)[^299].
 
 2. A növényvédő szerekre vonatkozó minőségi előírásoknak az e rendelet céljaira meghatározott alkalmazásának eredményei nem sérthetik a növényvédő szerekre és a biocid termékekre vonatkozó, külön jogszabályban előírt kockázatértékelési eljárások eredményeit.
 
 3. E rendelettel összhangban egyes szennyező anyagokra szigorúbb küszöbértékeket kell megállapítani, amennyiben egy adott felszín alatti víztest esetében úgy ítélhető meg, hogy a felszín alatti víz minőségi előírásai a kapcsolódó felszíni víztestekre a külön jogszabályban foglaltak alapján meghatározott környezeti célkitűzések teljesítésének elmulasztását, vagy az ilyen víztestek ökológiai vagy kémiai minőségének jelentős romlását, vagy a közvetlenül a felszín alatti víztesttől függő szárazföldi ökoszisztémák jelentős károsodását eredményezhetik. Az ilyen küszöbértékekkel kapcsolatban szükséges programokat és intézkedéseket a vizek mezőgazdasági eredetű nitrát szennyezéssel szembeni védelméről szóló külön jogszabály hatálya alá tartozó tevékenységekre is alkalmazni kell.
 
-[^296]: A 3. számú melléklet a 302/2008. (XII. 17.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^297]: Növényvédő szerek: a külön jogszabályban meghatározottak szerinti növényvédő szerek és biocid termékek.
-[^298]: Összes: minden egyes, a monitoring során kimutatott és számszerűsített növényvédő szer összege, beleértve anyagcseretermékeiket, lebontási termékeiket és reakciótermékeiket.
+[^297]: A 3. számú melléklet a 302/2008. (XII. 17.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^298]: Növényvédő szerek: a külön jogszabályban meghatározottak szerinti növényvédő szerek és biocid termékek.
+[^299]: Összes: minden egyes, a monitoring során kimutatott és számszerűsített növényvédő szer összege, beleértve anyagcseretermékeiket, lebontási termékeiket és reakciótermékeiket.
