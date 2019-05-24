@@ -12,7 +12,7 @@
 
 | 3,5 mg | 2012. december 31-ig |
 
-| 2,5 mg | 2013. január 1-jétől |
+| 2,5 mg | 2019. június 1-ig |
 
 | 5. | 30 W ≤ P < 50 W | 5 mg | 2011. december 31-ig |
 
@@ -52,7 +52,7 @@
 
 | 17. | Hosszú (legalább 25 000 óra) élettartamú fénycső háromsávos fényporral | - | 8 mg | 2011. december 31-ig |
 
-| 5 mg | 2012. január 1-jétől |
+| 5 mg | 2019. június 1-ig |
 
 | 18. | c) Egyéb kompakt fénycsövekben használt higany (fénycsövenként): |
 
@@ -76,15 +76,15 @@
 
 | 26. | Rövid | L ≤ 500 mm | nincs korlátozás | 2011. december 31-ig |
 
-| 3,5 mg | 2012. január 1-jétől |
+| 3,5 mg | 2019. június 1-ig |
 
 | 27. | Közepes hosszúságú | 500 mm < L L ≤ 1 500 mm | nincs korlátozás | 2011. december 31-ig |
 
-| 5 mg | 2012. január 1-jétől |
+| 5 mg | 2019. június 1-ig |
 
 | 28. | Hosszú | L > 1 500 mm | nincs korlátozás | 2011. december 31-ig |
 
-| 13 mg | 2012. január 1-jétől |
+| 13 mg | 2019. június 1-ig |
 
 | 29. | Egyéb kisnyomású kisülőlámpák | - | nincs korlátozás | 2011. december 31-ig |
 
@@ -334,7 +334,7 @@ III. Egyéb
 
 19. Ultrahangos jelátalakítókhoz való forraszanyagban lévő ólom.
 
-20. Igen nagyfokú pontossággal rendelkező kapacitás- és veszteségmérő hidakban lévő higany, valamint ellenőrző és vezérlő eszközök nagyfrekvenciás RF kapcsolóiban és reléiben lévő higany, kapcsolónként, illetve relénként legfeljebb 20 mg mennyiségben.
+20. Igen nagyfokú pontossággal rendelkező kapacitás- és veszteségmérő hidakban lévő higany, valamint ellenőrző és vezérlő eszközök nagyfrekvenciás RF kapcsolóiban és reléiben lévő higany, kapcsolónként, illetve relénként legfeljebb 20 mg mennyiségben – a mentesség 2020. december 31-én lejár.
 
 21. Hordozható sürgősségi defibrillátorokhoz való forraszanyagban lévő ólom.
 
@@ -470,4 +470,4 @@ lejár.
 
 47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
 
-[^45]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^45]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.

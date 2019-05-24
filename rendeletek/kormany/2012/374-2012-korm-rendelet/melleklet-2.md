@@ -26,4 +26,4 @@
 
 2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^44]
 
-[^44]: A 2. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 125/2018. (VII. 10.) Korm. rendelet 2. §-a, a 60/2019. (III. 25.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^44]: A 2. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 125/2018. (VII. 10.) Korm. rendelet 2. §-a, a 60/2019. (III. 25.) Korm. rendelet 7. §-a, a 105/2019. (V. 8.) Korm. rendelet 13. § a)–b) pontja szerint módosított szöveg.
