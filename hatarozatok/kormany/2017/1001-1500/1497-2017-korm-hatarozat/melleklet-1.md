@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. június 30.
+## Határidő: 2020. június 30.
 
 ## 2.[^2] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 9 974 500 000 forint egyszeri átcsoportosítását rendeli el elszámolási kötelezettséggel a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 37. Hozzájárulás az EU költségvetéséhez cím, 2. GNI alapú hozzájárulás alcím terhére, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím javára, az 1. melléklet szerint.
 
@@ -24,7 +24,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. június 30.
+## Határidő: 2020. június 30.
 
 1. melléklet az 1497/2017. (VIII. 8.) Korm. határozathoz
 
@@ -122,5 +122,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1133/2018. (III. 26.) Korm. határozat 11. pontja szerint módosított szöveg.
-[^2]: A 2. pont az 1133/2018. (III. 26.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1299/2019. (V. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1299/2019. (V. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
