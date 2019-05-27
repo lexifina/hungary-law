@@ -1,0 +1,64 @@
+# A Kormány 1307/2019. (V. 27.) Korm. határozata
+
+Magyar Közlöny 2019. évi 89. szám, 2019. május 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/cT7F6jhFieOTGqg4bB6o5cdecb7f98f3c/dokumentumok/3db9125d3656f9348fc7b0ee259f30d38c3f6037/letoltes)
+
+---
+
+A Kormány 1307/2019. (V. 27.) Korm. határozata
+az EFOP-3.2.10-16-2016-00001 azonosító számú („Tehetséggondozás sport által”című) projekt
+támogatásának növeléséről, valamint az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési
+keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat módosításáról
+1. A Kormány egyetért
+a) az EFOP-3.2.10-16-2016-00001 azonosító számú, „Tehetséggondozás sport által” című projekt
+(a továbbiakban: projekt) támogatásának az 1. melléklet szerinti növelésével, és az európai uniós
+forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.)
+Korm. rendelet (a továbbiakban: Korm. rendelet) 6/A. §-a alapján hozzájárul, hogy a projekt keretemelése és
+annak végrehajtása során a Korm. rendelet 3. § (2) bekezdése ne kerüljön alkalmazásra,
+b) a projekt a) alpont szerinti többlettámogatásának az Emberi Erőforrás Fejlesztési Operatív Program
+3. prioritása rendelkezésre álló kerete terhére történő finanszírozásával,
+c) a projekt támogatási szerződésének az 1. melléklet szerinti módosításával.
+Felelős: emberi erőforrások minisztere
+Határidő: 2019. december 31.
+2. A Kormány felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a projekt európai
+uniós forrás terhére el nem számolható költségeinek – az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű
+előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja
+alapján – legfeljebb 130 000 000 forint erejéig történő finanszírozásáról, az Emberi Erőforrás Fejlesztési Operatív
+Program hazai társfinanszírozáson felüli felhasználásával.
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: 2019. június 30.
+3. Ez a határozat a közzétételét követő napon lép hatályba.
+4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.)
+Korm. határozat
+a) 1. melléklet 3. pontjában foglalt táblázat C:17a mezőjében a„2,00”szövegrész helyébe a„2,33”szöveg,
+b) 2. mellékletében foglalt táblázat D:58 mezőjében a„2,00”szövegrész helyébe a„2,33”szöveg
+lép.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1307/2019. (V. 27.) Korm. határozathoz
+A B C D E F G
+1. Projekt azonosító száma Projekt megnevezése Kedvezményezett neve
+Eredeti támogatás
+(forint)
+Többlettámogatás
+legfeljebb
+(forint)
+Megnövelt
+támogatás
+legfeljebb
+(forint)
+Projekt rövid bemutatása
+2.
+EFOP-3.2.10-16-
+2016-00001
+Tehetséggondozás
+sport által
+Magyar Diáksport
+Szövetség
+2 000 000 000 330 000 000 2 330 000 000
+A projekt célja a gyermekek tehetséggondozása
+a sport által, az iskoláskorú gyermekek bevezetése
+a sportos, mozgásgazdag életmódba, a rendszeres
+fizikai aktivitást végző gyermekek számának növelése,
+a társadalmi és szociális különbségek csökkentése és
+ezáltal a társadalmi befogadás erősítése.
