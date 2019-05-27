@@ -18,7 +18,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, honvédelmi miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. június 30., az I. világháborús hadisírok és emlékművek felújításának pályázati támogatása előirányzat javára biztosított 1 375 530 214 forint tekintetében 2019. június 30.
+## Határidő: 2018. június 30., az I. világháborús hadisírok és emlékművek felújításának pályázati támogatása előirányzat javára biztosított 1 375 530 214 forint tekintetében 2019. december 31.
 
 ## 3. egyetért azzal, hogy a belügyminiszter a 2. pont szerint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 21. Kistarcsai Emlékhely és Könyvtár létrehozásának támogatása cím javára átcsoportosított 128 110 000 forint terhére külön pályázat és kérelem benyújtása nélkül, előfinanszírozás keretében, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatási szerződés vagy támogatói okirat alapján 128 110 000 forint támogatást nyújtson Kistarcsa Város Önkormányzata részére a támogatási szerződés megkötését, vagy a támogatói okirat kiállítását követően;
 
@@ -46,4 +46,4 @@ XIII. Honvédelmi Minisztérium
 
 XX. Emberi Erőforrások Minisztériuma
 
-[^1]: A 2. pont az 1347/2018. (VII. 26.) Korm. határozat 18. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1347/2018. (VII. 26.) Korm. határozat 18. pontja, az 1299/2019. (V. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
