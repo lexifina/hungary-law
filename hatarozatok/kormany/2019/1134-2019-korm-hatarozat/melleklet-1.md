@@ -20,7 +20,7 @@
 
 ## Határidő: a 3. pont szerinti forrás rendelkezésre állását követően haladéktalanul
 
-## 5. egyetért azzal, hogy a Beruházás 2019. július 31. napjáig valósuljon meg.
+## 5.[^1] egyetért azzal, hogy a Beruházás 2019. december 31. napjáig valósuljon meg.
 
 1. melléklet az 1134/2019. (III. 18.) Korm. határozathoz
 
@@ -93,3 +93,5 @@
 |  |  | egyéb: | azonnal |  |  | 3 138 551 000 | 3 138 551 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 5. pont az 1299/2019. (V. 27.) Korm. határozat 6. pontja szerint módosított szöveg.
