@@ -12,10 +12,6 @@ b) 6. pont a) alpontjában meghatározott feladat határidejét 2018. december 1
 
 állapítja meg;
 
-4. a Mátraverebély-Szentkút Nemzeti Kegyhely turisztikai fejlesztésének előkészítéséhez szükséges forrás biztosításáról szóló 2118/2017. (XII. 28.) Korm. határozat
+4.[^1]
 
-a) 2. pontjában meghatározott feladat határidejét 2019. április 30-ában,
-
-b) 7. pont a) alpontjában meghatározott feladat határidejét 2019. május 31-ében
-
-állapítja meg.
+[^1]: A 4. pontot az 1299/2019. (V. 27.) Korm. határozat 10. pont a) alpontja visszavonta.
