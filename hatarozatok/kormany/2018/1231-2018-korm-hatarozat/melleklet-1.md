@@ -14,7 +14,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. március 31.
+## Határidő: 2019. szeptember 30.
 
 ## 4. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Magyar Turisztikai Ügynökség Zrt. útján a Világbajnokság lebonyolításához kapcsolódó turisztikai szempontok érvényesítéséről, valamint a Bp2017 Nonprofit Kft. útján a Világbajnokság szervezésében történő közreműködésről.
 
@@ -90,4 +90,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3. pont az 1603/2018. (XI. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1299/2019. (V. 27.) Korm. határozat 5. pontja szerint módosított szöveg.
