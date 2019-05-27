@@ -18,7 +18,7 @@
 
 ## Felelős: a Kormány nemzetpolitikáért felelős tagja
 
-## Határidő: 2019. június 30.
+## Határidő: 2020. június 30.
 
 1. melléklet az 1540/2017. (VIII. 18.) Korm. határozathoz
 
@@ -88,4 +88,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3. pont az 1133/2018. (III. 26.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1299/2019. (V. 27.) Korm. határozat 4. pontja szerint módosított szöveg.
