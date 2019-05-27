@@ -34,7 +34,7 @@
 
 ## Határidő: azonnal
 
-## 5. egyetért azzal, hogy az egyes kiemelt sportcélú fejlesztési beruházások forrásszükségletének biztosításáról szóló 1801/2016. (XII. 20.) Korm. határozat (a továbbiakban: Korm. határozat) 1. mellékletében foglalt táblázat alapján a „Hévízi kézilabda fejlesztése” megnevezésű fejlesztésre biztosított, ugyanakkor fel nem használt és a központi költségvetés részére visszafizetett 500 000 000 forint az 1. pont b) alpontja szerinti támogatási cél megvalósításához kerüljön felhasználásra;
+## 5.[^1]
 
 ## 6. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 500 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 40. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím javára, az 1. melléklet szerint;
 
@@ -66,8 +66,9 @@
 
 ## Határidő: a 3–4. és a 6–8. pont teljesülését követően azonnal
 
-## 10.[^1]
+## 10.[^2]
 
 1. melléklet az 1189/2019. (IV. 5.) Korm. határozathoz
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pontot az 1299/2019. (V. 27.) Korm. határozat 10. pont b) alpontja visszavonta.
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
