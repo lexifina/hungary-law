@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-268-20-
 | 2017-07-26 | 2016-268-20-22.2 | 212/2017. (VII. 25.) Korm. rendelet |
 | 2018-01-01 | 2016-268-20-22.3 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2018-09-26 | 2016-268-20-22.4 | 171/2018. (IX. 25.) Korm. rendelet |
+| 2019-05-28 | 2016-268-20-22.5 | 124/2019. (V. 27.) Korm. rendelet |
