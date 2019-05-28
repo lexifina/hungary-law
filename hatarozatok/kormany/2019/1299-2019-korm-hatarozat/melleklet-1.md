@@ -34,24 +34,28 @@
 
 ## 2. A Kormány egyetért azzal, hogy a hazai vízgazdálkodás öntözési célt szolgáló fejlesztési javaslatairól szóló 1426/2018. (IX. 10.) Korm. határozat végrehajtásával összefüggő intézkedésekről szóló 1800/2018. (XII. 21.) Korm. határozatban foglaltak alapján, az öntözési ügynökség létrehozásával kapcsolatos kiadások terhére megvalósuló eszközbeszerzések lefolytatása során, a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a központi költségvetés címrendjének a kormányzati szerkezetátalakítással összefüggő módosításáról szóló 1156/2017. (III. 20.) Korm. határozat 2. pontjában a „2019. június 30.” szövegrész helyébe a „2019. december 31.” szöveg lép.
+## 3.[^1]
 
-## 4. A vajdasági magyarok anyanyelvű tájékoztatásának támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1540/2017. (VIII. 18.) Korm. határozat 3. pontjában a „2019. június 30.” szövegrész helyébe a „2020. június 30.” szöveg lép.
+## 4.[^2]
 
-## 5. A 2018. évi AIBA Ifjúsági Férfi és Női Ökölvívó Világbajnokság megrendezése érdekében az Országvédelmi Alapból történő előirányzat-átcsoportosításról szóló 1231/2018. (IV. 25.) Korm. határozat 3. pontjában a „2019. március 31.” szövegrész helyébe a „2019. szeptember 30.” szöveg lép.
+## 5.[^3]
 
-## 6. A 2019. évi Gyorsasági Kajak-Kenu Világbajnokság lebonyolításához kapcsolódó sportlétesítmény-fejlesztések megvalósításához szükséges többletforrás biztosításáról szóló 1134/2019. (III. 18.) Korm. határozat 5. pontjában a „2019. július 31.” szövegrész helyébe a „2019. december 31.” szöveg lép.
+## 6.[^4]
 
-## 7. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő és egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1497/2017. (VIII. 8.) Korm. határozat 1. és 2. pontjában a „2019. június 30.” szövegrész helyébe a „2020. június 30.” szöveg lép.
+## 7.[^5]
 
-## 8. A Mátraverebély-Szentkút Nemzeti Kegyhely turisztikai fejlesztésének előkészítéséhez szükséges forrás biztosításáról szóló 2118/2017. (XII. 28.) Korm. határozat 2. pontjában a „2018. szeptember 30-ig” szövegrész helyébe a „2019. december 31-ig” szöveg lép, a 7. pont a) alpontjában a „2018. október 31.” szövegrész helyébe a „2020. január 31.” szöveg lép.
+## 8.[^6]
 
 ## 9. A Kormány egyetért azzal, hogy a Magyar Kézilabda Szövetség 2019. évi működési támogatásának biztosításáról, valamint a kézilabda sportág kiemelt fejlesztéseinek támogatásáról szóló 1189/2019. (IV. 5.) Korm. határozat [a továbbiakban: 1189/2019. (IV. 5.) Korm. határozat] 6. pontja alapján átcsoportosított 500 000 000 forint az 1189/2019. (IV. 5.) Korm. határozat 1. pont b) alpontja szerinti támogatási cél megvalósításához kerüljön felhasználásra.
 
-## 10. A Kormány visszavonja
-
-## a) az egyes turisztikai tárgyú kormányhatározatok módosításáról szóló 1419/2018. (IX. 7.) Korm. határozat 4. pontját,
-
-## b) az 1189/2019. (IV. 5.) Korm. határozat 5. pontját.
+## 10.[^7]
 
 1. melléklet az 1299/2019. (V. 27.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
