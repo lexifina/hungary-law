@@ -1,0 +1,9 @@
+# 16/2019. (IV. 29.) AM rendelet
+
+a mezőgazdasági és vidékfejlesztési szaktanácsadói tevékenységről és a mezőgazdasági szaktanácsadási rendszerről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-16-20-7R
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-05-29 | 2019-16-20-7R.1 | 16/2019. (IV. 29.) AM rendelet |
