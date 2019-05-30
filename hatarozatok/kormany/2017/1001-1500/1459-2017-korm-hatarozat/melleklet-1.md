@@ -16,7 +16,7 @@
 
 ## Határidő: felmerülés ütemében
 
-1. melléklet az 1459/2017. (VII. 19.) Korm. határozathoz
+1. melléklet az 1459/2017. (VII. 19.) Korm. határozathoz[^1]
 
 | Régió | Templom neve | Összeg USD-ban | Összeg HUF-ban |
 
@@ -105,3 +105,5 @@
 | Anyagi beszerzések | Lézerszkenner, GPS | 100 000 | 27 477 700 |
 
 | Végösszeg |  | 1 685 000 | 462 999 245 |
+
+[^1]: Az 1317/2019. (V. 30.) Korm. határozat 2. pontja alapján e módosító határozat 1. melléklete szerinti templomok felújítása valósul meg.
