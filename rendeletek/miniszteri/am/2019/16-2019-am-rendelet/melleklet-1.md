@@ -1,4 +1,4 @@
-## 16. § Hatályát veszti a mezőgazdasági és vidékfejlesztési szaktanácsadói tevékenységről szóló 73/2015. (XI. 6.) FM rendelet.
+## 16. §[^1]
 
 1. melléklet a 16/2019. (IV. 29.) AM rendelethez
 
@@ -237,3 +237,5 @@ A szaktanácsadás tématerületei és szakterületei
 | 21.3. Minőségirányítás |
 
 | 21.4. Jelölés, védjegy, eredetvédelem |
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
