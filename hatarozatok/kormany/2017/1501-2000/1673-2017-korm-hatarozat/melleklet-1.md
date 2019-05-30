@@ -34,11 +34,11 @@ Az Egészséges Budapest Program keretében megvalósuló járóbetegszakellát�
 
 | 1 | Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő – XII. kerületi (Hegyvidéki) szakrendelő kialakítása | A járóbeteg-szakrendelő épület teljes építészeti felújítása, klimatizálása, energetikai korszerűsítése. A Szent János Kórház szakrendeléseinek ütemezett átköltöztetése a Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő járóbeteg-szakrendelőibe. Diagnosztikai és terápiás eszközpark cseréje és fejlesztése (digitális RTG, ultrahang), szakrendelők bútorzatának modernizálása. Informatikai rendszer eszközparkjának korszerűsítése, beteghívó rendszer kiépítése. | 9 365 533 430 |
 
-| 2 | II. kerület Egészségügyi Szolgálat – integrált járóbeteg-szakellátás megvalósítása | A II. kerületi Frankel Leó utcában új, többemeletes, korszerű szakrendelő épület megépítése, külső telephelyek átköltöztetése, az orvostechnikai eszközök modernizálása, egynapos sebészet és kúraszerű ellátások fejlesztése, informatikai rendszer eszközparkjának korszerűsítése. | 6 808 627 130 |
+| 2 | II. kerület Egészségügyi Szolgálat – integrált járóbeteg-szakellátás megvalósítása | A II. kerületi Frankel Leó utcában új, többemeletes, korszerű szakrendelő-épület megépítése, külső telephelyek átköltöztetése, az orvostechnikai eszközök modernizálása, egynapos sebészet és kúraszerű ellátások fejlesztése, informatikai rendszer eszközparkjának korszerűsítése. | 8 009 827 130 (ebből az önkormányzat által biztosítandó forrás: 1 201 200 000 Ft) |
 
-| 3 | XI. kerületi Újbudai Gyermek Egészségügyi Központ és Egynapos Sebészet kialakítása | Az Újbudai Gyermek Egészségügyi Központ és Egynapos Sebészet céljára meglévő épület teljes felújítása, átalakítása, a gyermekgyógyászati járóbeteg-szakellátás struktúrájának bővítése, az orvosszakmai berendezések beszerzése, egynapos sebészet kialakítása, informatikai eszközpark fejlesztése. | 1 895 000 000 |
+| 3 | XI. kerületi Újbudai Gyermek Egészségügyi Központ és Egynapos Sebészet kialakítása | Az Újbudai Gyermek Egészségügyi Központ és Egynapos Sebészet céljára meglévő épület teljes felújítása, átalakítása, a gyermekgyógyászati járóbeteg-szakellátás struktúrájának bővítése, az orvosszakmai berendezések beszerzése, egynapos sebészet kialakítása, informatikai eszközpark fejlesztése. | 2 370 000 000 (ebből az önkormányzat által biztosítandó forrás: 475 000 000 Ft) |
 
-| 4 | A Zuglói Egészségügyi Szolgálat orvostechnikai és informatikai fejlesztése | Direkt digitális röntgen technológia több telephelyen történő kiépítése és integrációja, informatikai eszközök és hálózat korszerűsítése. | 511 740 000 |
+| 4 | A Zuglói Egészségügyi Szolgálat orvostechnikai és informatikai fejlesztése | Direkt digitális röntgentechnológia több telephelyen történő kiépítése és integrációja, informatikai eszközök és hálózat korszerűsítése. | 596 740 000 (ebből az önkormányzat által biztosítandó forrás: 85 000 000 Ft) |
 
 | 5 | Misszió Egészségügyi Központ fejlesztése – Veresegyház | Egynapos sebészet és rehabilitációs nappali ellátás korszerűsítése új épületrész felépítésével, rehabilitációt és ápolást segítő orvosi eszközök beszerzése, épületgépészeti felújítás, képalkotó digitális technológia bevezetése, informatikaihálózat-fejlesztés. | 430 391 110 |
 
@@ -48,6 +48,6 @@ Az Egészséges Budapest Program keretében megvalósuló járóbetegszakellát�
 
 | 8 | Általános tervezési és beruházási céltartalék (5%) | 1 007 000 000 |
 
-| ÖSSZESEN | 21 149 585 840 |
+| ÖSSZESEN | 22 910 785 840 |
 
-[^1]: Az 1. melléklet az 1672/2018. (XII. 13.) Korm. határozat 17. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1672/2018. (XII. 13.) Korm. határozat 17. pontja, az 1315/2019. (V. 30.) Korm. határozat szerint módosított szöveg.
