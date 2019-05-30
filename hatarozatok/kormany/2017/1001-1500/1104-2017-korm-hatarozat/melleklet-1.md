@@ -10,13 +10,13 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. június 30., az Üldözött keresztények segítésének feladatai alcím javára átcsoportosított összesen 690 000 000 forint tekintetében 2019. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 830,0 millió forint tekintetében 2019. december 31.
+## Határidő: 2018. június 30., az Üldözött keresztények segítésének feladatai alcím javára átcsoportosított összesen 690 000 000 forint tekintetében 2019. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 830,0 millió forint tekintetében 2019. december 31.[^2]
 
-## 2–4.[^2]
+## 2–4.[^3]
 
 ## 5. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1180/2016. (IV. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 7. Nemzeti Örökség Intézete cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 137 150 ezer forintból 97 087 ezer forint a K3. Dologi kiadások kiemelt előirányzaton, valamint 13 039 ezer forint a K7. Felújítások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 6–16.[^3]
+## 6–16.[^4]
 
 1. melléklet az 1104/2017. (III. 6.) Korm. határozathoz
 
@@ -161,5 +161,6 @@ Költségvetési év: 2017.
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 10. pontja, az 1133/2018. (III. 26.) Korm. határozat 7. pontja, az 1347/2018. (VII. 26.) Korm. határozat 17. pontja, az 1104/2019. (III. 8.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 6–16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1317/2019. (V. 30.) Korm. határozat 1. pontja alapján az elszámolás és visszatérítés határideje az Üldözött keresztények segítésének feladatai alcím javára átcsoportosított összesen 690 000 000 forint tekintetében 2020. június 30.
+[^3]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6–16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
