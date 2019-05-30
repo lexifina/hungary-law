@@ -6,7 +6,7 @@ a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 b) a támogatási kérelem benyújtásának időpontjában:
 
-ba)[^7]
+ba)[^8]
 
 bb) nem áll felszámolási, végelszámolási eljárás, csődeljárás alatt, és
 
@@ -14,9 +14,9 @@ bc) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek,
 
 c) a b) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik,
 
-d)[^8] nyilatkozik, hogy megfelel az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 11/A. §-ában meghatározott feltételeknek, valamint
+d)[^9] nyilatkozik, hogy megfelel az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 11/A. §-ában meghatározott feltételeknek, valamint
 
 e) nyilatkozik, hogy a támogatási időszakban vásárolt vagy termeltetőtől, termelői csoporttól átvett fémzárolt vetőmagot teljes egészében saját használatában lévő földterületen fűszerpaprika termesztése céljából felhasználta.
 
-[^7]: A 4. § b) pont ba) alpontját a 4/2016. (I. 20.) FM rendelet 18. §-a hatályon kívül helyezte.
-[^8]: A 4. § d) pontja a 14/2019. (IV. 10.) AM rendelet 23. §-a szerint módosított szöveg.
+[^8]: A 4. § b) pont ba) alpontját a 4/2016. (I. 20.) FM rendelet 18. §-a hatályon kívül helyezte.
+[^9]: A 4. § d) pontja a 14/2019. (IV. 10.) AM rendelet 23. §-a szerint módosított szöveg.
