@@ -1,0 +1,9 @@
+# 1320/2019. (V. 30.) Korm. határozat
+
+a Petőfi Irodalmi Múzeum hosszú távú fejlesztési és működési koncepciójáról, valamint a 2020–2022 közötti időszakban ehhez szükséges költségvetési forrásokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1320-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-05-30 | 2019-1320-30-22.1 | 1320/2019. (V. 30.) Korm. határozat |
