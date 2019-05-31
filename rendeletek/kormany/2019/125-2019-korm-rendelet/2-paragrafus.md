@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti környezetügyi együttműködésről szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.

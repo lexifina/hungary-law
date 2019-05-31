@@ -1,0 +1,1 @@
+5. § E rendelet végrehajtásához szükséges intézkedésekről a környezetvédelemért és természetvédelemért felelős miniszter, a vízgazdálkodásért és vízvédelemért felelős miniszter, valamint az energiapolitikáért és a hulladékgazdálkodásért felelős miniszter gondoskodik.
