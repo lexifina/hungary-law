@@ -1,6 +1,6 @@
 ## 5. A Külképviselet gazdálkodásában részt vevők
 
-## 15. § A külképviselet gazdálkodásában részt vesz a Külszoltv. 1. melléklete szerinti
+## 15. §[^4] A külképviselet gazdálkodásában részt vesz a Külszoltv. 1. melléklete szerinti
 
 a) külképviselet-vezető;
 
@@ -17,3 +17,5 @@ f) gazdasági felelős;
 g) gazdasági ügyintéző;
 
 h) gondnok
+
+[^4]: A 15. § záró szövegrésze a 127/2019. (V. 30.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.

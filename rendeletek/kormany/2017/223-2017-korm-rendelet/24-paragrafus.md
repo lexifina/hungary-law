@@ -1,4 +1,4 @@
-## 23. § A külképviselet vezetője a külképviseleten befizetett bevételek kezelésének érdekében pénzkezelési feladatkörrel bízhatja meg a külképviselet bármely tagját, ha ez a munkaköri leírásában szerepel. A pénzkezelőt a vonatkozó jogszabályokban előírt megőrzési felelősség terheli. Külképviselet által foglalkoztatott munkavállaló abban az esetben bízható meg pénzkezelési feladatkörrel, ha a fogadó állam vonatkozó jogszabálya alapján a pénzkezelő az elszámolási kötelezettséggel átvett pénzeszközökben bekövetkezett hiány esetén vétkességére tekintet nélkül a teljes hiányt köteles megtéríteni.
+## 23. §[^14] A külképviselet vezetője a külképviseleten befizetett bevételek kezelésének érdekében pénzkezelési feladatkörrel bízhatja meg a külképviselet bármely tagját, ha ez a tartós külszolgálati munkaköri leírásában szerepel. A pénzkezelőt a vonatkozó jogszabályokban előírt megőrzési felelősség terheli. Külképviselet által foglalkoztatott munkavállaló abban az esetben bízható meg pénzkezelési feladatkörrel, ha a fogadó állam vonatkozó jogszabálya alapján a pénzkezelő az elszámolási kötelezettséggel átvett pénzeszközökben bekövetkezett hiány esetén vétkességére tekintet nélkül a teljes hiányt köteles megtéríteni.
 
 ## 6. A külképviselet gazdálkodási jogkörei
 
@@ -13,3 +13,5 @@ c) ha a külképviselet részeként külföldi magyar kulturális intézet vagy 
 (2) A külképviselet részére jóváhagyott külképviselet költségvetési kereten túl a külképviseletek igazgatása terhére a külképviselet-vezető kötelezettséget a kihelyező vezető által a részére írásban kiadott előzetes felhatalmazása alapján vállalhat.
 
 (3) A külképviseleten kötelezettségvállalói jogkört az a Külszoltv. szerint tartós külszolgálatra kihelyezett kormánytisztviselő láthat el, aki részt vett a kihelyező szerv által külképviseleti gazdálkodási ismeretekből szervezett felkészítésen, és legalább megfelelt eredménnyel vizsgát tett. Ha a külképviselet állományában nincs olyan kihelyezett, aki külképviseleti gazdálkodási ismeretekből sikeres vizsgát tett, a kötelezettségvállalói jogkört átmenetileg a kihelyező szerv gazdasági vezetője által kijelölt személy gyakorolja.
+
+[^14]: A 23. § a 127/2019. (V. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

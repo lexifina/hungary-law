@@ -1,4 +1,4 @@
-## munkakört betöltő, valamint a pénztárellenőri kiegészítő feladatkört ellátó (a továbbiakban: pénztárellenőr) tartós külszolgálatra kihelyezettek (a továbbiakban együtt: külképviselet gazdálkodásában részt vevők).
+## tartós külszolgálati munkakört betöltő, valamint a pénztárellenőri kiegészítő feladatkört ellátó (a továbbiakban: pénztárellenőr) tartós külszolgálatra kihelyezettek (a továbbiakban együtt: külképviselet gazdálkodásában részt vevők).
 
 16. § (1) A külképviselet-vezető a gazdálkodás vonatkozásában felel
 
@@ -12,7 +12,7 @@ d) a külképviselet költségvetési keret előirányzataival, pénzeszközeive
 
 e) a külképviselet üzemeltetésében álló, állami tulajdonban lévő vagy bérelt ingatlan állagmegóvásáért és folyó karbantartásáért;
 
-f) a külképviselet gazdálkodásában részt vevő személyek munkaköri leírásainak elkészítéséért, naprakészen tartásáért;
+f)[^5] a külképviselet gazdálkodásában részt vevő személyek tartós külszolgálati munkaköri leírásainak elkészítéséért, naprakészen tartásáért;
 
 g) a gazdálkodás kapcsán a 30. § (1) bekezdésében meghatározott összeférhetetlenség feloldásának kezdeményezéséért;
 
@@ -30,8 +30,12 @@ m) a külképviseletekre vonatkozó tűz- és munkavédelmi, valamint munkabizto
 
 n) a külképviselet egyedi tűz- és munkavédelmi szabályzatának – a külpolitikáért felelős miniszter által vezetett minisztérium munkavédelmi, valamint tűzvédelmi szabályzatáról szóló normatív utasítással összhangban történő – elkészítéséért, felülvizsgálatáért;
 
-o) a külképviselet tagja számára a munkakör átvételekor és munkába lépéskor, illetve az előírásoknak megfelelő rendszerességgel történő, a külképviseletre érvényes tűz- és munkavédelmi szabályokról szóló oktatás megtartatásáért.
+o)[^6] a külképviselet tagja számára a tartós külszolgálati munkakör átvételekor és munkába lépéskor, illetve az előírásoknak megfelelő rendszerességgel történő, a külképviseletre érvényes tűz- és munkavédelmi szabályokról szóló oktatás megtartatásáért.
 
 (2) Ha a külképviselet gazdasági régió részeként működik, az (1) bekezdés a)–l) pontjában meghatározott felelősségi hatásköröket a gazdálkodási régió igazgatásáért felelős diplomata gyakorolja.
 
-(3) Ha a külképviselet nem gazdasági régió részeként működik, az első beosztott diplomata, illetve az első beosztott konzul felel a gazdasági felelős munkájának közvetlen irányításáért, felügyeletéért, ellenőrzéséért, amennyiben a külképviselet vezetője ezt a jogkört a munkaköri leírásban rögzítve írásban átruházta rá. A külképviselet vezetője az első beosztott diplomatán vagy az első beosztott konzulon kívül a külképviselet más tagjára a gazdálkodással kapcsolatban őt megillető feladatköreit vagy azok meghatározott részét nem ruházhatja át.
+(3)[^7] Ha a külképviselet nem gazdasági régió részeként működik, az első beosztott diplomata, illetve az első beosztott konzul felel a gazdasági felelős munkájának közvetlen irányításáért, felügyeletéért, ellenőrzéséért, amennyiben a külképviselet vezetője ezt a jogkört a tartós külszolgálati munkaköri leírásban rögzítve írásban átruházta rá. A külképviselet vezetője az első beosztott diplomatán vagy az első beosztott konzulon kívül a külképviselet más tagjára a gazdálkodással kapcsolatban őt megillető feladatköreit vagy azok meghatározott részét nem ruházhatja át.
+
+[^5]: A 16. § (1) bekezdés f) pontja a 127/2019. (V. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^6]: A 16. § (1) bekezdés o) pontja a 127/2019. (V. 30.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
+[^7]: A 16. § (3) bekezdése a 127/2019. (V. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
