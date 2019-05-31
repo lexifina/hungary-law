@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1347-30
 | 2016-12-06 | 2016-1347-30-22.4 | 1718/2016. (XII. 5.) Korm. határozat |
 | 2017-08-01 | 2016-1347-30-22.5 | 1718/2016. (XII. 5.) Korm. határozat |
 | 2017-10-11 | 2016-1347-30-22.6 | 1718/2016. (XII. 5.) Korm. határozat |
+| 2019-05-31 | 2016-1347-30-22.7 | 1718/2016. (XII. 5.) Korm. határozat |
