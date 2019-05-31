@@ -10,7 +10,7 @@ a) az álláshely létesítésének szakmai indokoltságát,
 
 b) az ellátandó szakmai feladatkörre való utalással a szakdiplomata munkakör megjelölését,
 
-c) az állomáshely megjelölését,
+c)[^1] az állomáshely megjelölését és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 56. § (4) bekezdésére történő utalást,
 
 d) a létesítés időpontját,
 
@@ -37,3 +37,5 @@ a) a megszüntetendő álláshelyet,
 b) a megszűnés indokát és időpontját, valamint
 
 c) az álláshely fedezetéül szolgáló előirányzatok átcsoportosítását
+
+[^1]: A 2. § (2) bekezdés c) pontja a 127/2019. (V. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
