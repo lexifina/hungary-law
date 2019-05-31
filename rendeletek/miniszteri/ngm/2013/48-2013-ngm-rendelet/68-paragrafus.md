@@ -4,9 +4,9 @@
 
 ## 19. Hatályba léptető rendelkezések
 
-68. § (1)[^155] Ez a rendelet a kihirdetését követő napon lép hatályba.
+68. § (1)[^157] Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^156]
+(2)[^158]
 
-[^155]: A 68. § (1) bekezdése a 9/2016. (III. 25.) NGM rendelet 38. § 16. pontja szerint módosított szöveg.
-[^156]: A 68. § (2) bekezdését a 9/2016. (III. 25.) NGM rendelet 38. § 17. pontja hatályon kívül helyezte.
+[^157]: A 68. § (1) bekezdése a 9/2016. (III. 25.) NGM rendelet 38. § 16. pontja szerint módosított szöveg.
+[^158]: A 68. § (2) bekezdését a 9/2016. (III. 25.) NGM rendelet 38. § 17. pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 74. §[^165]
+## 74. §[^167]
 
-[^165]: A 74. §-t a 24/2014. (VII. 31.) NGM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^167]: A 74. §-t a 24/2014. (VII. 31.) NGM rendelet 5. § b) pontja hatályon kívül helyezte.

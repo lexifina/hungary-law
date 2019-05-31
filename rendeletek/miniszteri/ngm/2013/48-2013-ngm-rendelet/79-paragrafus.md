@@ -1,4 +1,4 @@
-## 78/G. §[^179] Az 1. melléklet szerint taxis szolgáltatási tevékenységet végző adóalany mentesül a pénztárgép használat alól, ha az állami adó- és vámhatósághoz e rendelet szerinti tartalommal adatot szolgáltat fuvarairól és bevételeiről.
+## 78/H. §[^182] A 78/A. § (5) bekezdése alapján üzemeltetett pénztárgép üzemeltetője – szerviz közreműködése útján – 2019. december 31-ig gondoskodik az euró hivatalos pénznemmé tételének időpontját tartalmazó rekord alapértékének 2030. január 1-jére történő módosításáról.
 
 ## 21. Az Európai Unió jogának való megfelelés
 
@@ -10,4 +10,4 @@
 
 (4) E rendelet IV. fejezete rendelkezéseinek a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 
-[^179]: A 78/G. §-t a 9/2016. (III. 25.) NGM rendelet 35. §-a iktatta be.
+[^182]: A 78/H. §-t az 5/2019. (V. 30.) PM rendelet 1. §-a iktatta be.

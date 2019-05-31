@@ -75,7 +75,3 @@ C) Napi forgalmi jelentés (adóügyi bizonylat), amely kizárólag a következ�
 29. Stilizált AP jel és ennek folytatásaként a pénztárgép 9 jegyű azonosítószáma.
 
 Az adatsorok fenti sorrendje kötelező.
-
-A napi forgalmi jelentés bizonylat mintája a következő:
-
-Napi forgalmi jelentés

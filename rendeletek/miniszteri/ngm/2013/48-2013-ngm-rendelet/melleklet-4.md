@@ -796,7 +796,7 @@
 
 ## 7. Az euró átállással kapcsolatos dátumokat (felkészülési időszak kezdete, átállás időpontja, kivezetési időszak vége) a NAV üzenetben közli az AEE-vel az 5. mellékletben foglaltak szerint. A pénztárgépnek képesnek kell lennie ezen üzenet alapján az egyes események időpontját megfelelően beállítani.
 
-4. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^183]
+4. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^186]
 
 ## Az Adóügyi Ellenőrző Egységben (AEE) tárolt bizonylati adatok tartalmára és szerkezetére vonatkozó előírások
 
@@ -1914,4 +1914,4 @@ Egyéb dokumentum nyomtatása bejegyzés azonosító: EDN (gyakorló üzemmódba
 
 Bizonylat-összesítő nyomtatása esetén a naplóállományban a dokumentum kivonatát kell az Egyéb dokumentum (EDN) típusú naplósorban rögzíteni, melynek tartalma a dokumentum megnevezése, valamint a dokumentumon szereplő bizonylatok összesített darabszáma bizonylattípusonként, a mező megnevezésében a bizonylattípus nevét, az adattartalmában a darabszámot feltüntetve. Csak azokat a bizonylattípusokat kell feltüntetni, melyek szerepeltek a bizonylat-összesítő dokumentumon.
 
-[^183]: A 4. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § e) pontjával megállapított szöveg.
+[^186]: A 4. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § e) pontjával megállapított szöveg.
