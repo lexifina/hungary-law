@@ -164,7 +164,10 @@ a) Nemzeti Hírközlési és Informatikai Tanács
 
 11. Közbeszerzési és Ellátási Főigazgatóság
 
+12.[^30] Mádl Ferenc Összehasonlító Jogi Intézet
+
 [^26]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^27]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
 [^28]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^29]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^30]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.

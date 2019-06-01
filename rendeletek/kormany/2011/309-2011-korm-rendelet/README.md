@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-309-20-
 | 2019-01-01 | 2011-309-20-22.23 | 257/2016. (VIII. 31.) Korm. rendelet |
 | 2019-01-11 | 2011-309-20-22.24 | 314/2018. (XII. 27.) Korm. rendelet |
 | 2019-04-26 | 2011-309-20-22.25 | 81/2019. (IV. 18.) Korm. rendelet |
+| 2019-06-01 | 2011-309-20-22.26 | 95/2019. (IV. 25.) Korm. rendelet |

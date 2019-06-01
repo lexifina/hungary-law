@@ -1,4 +1,4 @@
-3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^33]
+3. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^34]
 
 ## Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
 
@@ -206,4 +206,4 @@
 
 102. Álláshely Nyilvántartó Rendszer (ÁNYR)
 
-[^33]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
+[^34]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
