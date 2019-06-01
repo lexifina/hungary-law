@@ -1,1 +1,0 @@
-## „(4) A miniszter az (1) bekezdés szerinti nyelvtanfolyam biztosításával kapcsolatos feladatokat a KKM Oktatási és Rekreációs Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) közreműködésével látja el.”

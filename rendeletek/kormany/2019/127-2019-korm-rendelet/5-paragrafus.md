@@ -1,1 +1,0 @@
-## „9. külszolgálati munkaköri vizsga: a tartós külszolgálat során ellátandó külszolgálati munkakörhöz kapcsolódó, a szakmai követelményeknek megfelelő szakmai és személyes kompetenciák átadását ellenőrző ismeret-ellenőrzési forma, amelynek teljesítése feltétele az adott külszolgálati munkakörbe történő kihelyezésnek;”
