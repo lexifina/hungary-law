@@ -1,4 +1,4 @@
-## 42. §[^16]
+## 42. §[^13]
 
 ## 11. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 15. § (1) bekezdése, a 29. § (1) bekezdése, a 9. alcím, valamint a 2. és a 7. melléklet 2019. június 1-jén lép hatályba.
 
-[^16]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
