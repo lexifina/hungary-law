@@ -258,7 +258,7 @@ c) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötöt
 [^28]: A 4. § (4) bekezdés 5. pontját a 285/2018. (XII. 21.) Korm. rendelet 9. § (2) bekezdés d) pontja hatályon kívül helyezte.
 [^29]: A 4. § (4) bekezdés 8. pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^30]: A 4. § (4) bekezdés 10. pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^31]: A 4. § (4) bekezdés 10. pont b) alpontja a 289/2018. (XII. 21.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^31]: A 4. § (4) bekezdés 10. pont b) alpontja a 289/2018. (XII. 21.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.
 [^32]: A 4. § (4) bekezdés 28. pontját az 52/2017. (III. 20.) Korm. rendelet 12. §-a iktatta be.
 [^33]: A 4. § (6) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (1) és (3) bekezdése szerint módosított szöveg.
 [^34]: A 4. § (7) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (2)–(3) bekezdése szerint módosított szöveg.
