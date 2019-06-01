@@ -1,3 +1,0 @@
-12. § (1) 2017. november 2. és 2018. február 28. között szakmai ellenőrzés keretében kell megvizsgálni a köznevelési információs rendszer (KIR) intézménytörzsi, személyi nyilvántartásában, valamint a 2017. októberi OSAP-jelentésben a köznevelési intézmények által nyújtott adatszolgáltatások, továbbá a lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó, a Hivatal által működtetett korai jelző- és pedagógiai támogató rendszeren keresztüli adatszolgáltatások jogszabályi feltételeknek történő megfelelését.
-
-(2) Az (1) bekezdés szerinti szakmai ellenőrzés lebonyolítását és koordinálását a Hivatal látja el. Az ellenőrzésről készült jelentést a Hivatal 2018. június 29-ig küldi meg az oktatásért felelős miniszter részére.
