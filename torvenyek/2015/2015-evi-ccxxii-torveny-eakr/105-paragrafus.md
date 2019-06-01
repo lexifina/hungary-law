@@ -40,6 +40,8 @@ p) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a biza
 
 q) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az 1. § 17. pont j) és l) alpontja szerinti jogalanyok általi használatáért számítható díj megállapításának módját,
 
+r) a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 a) a Felügyeletet,
@@ -50,7 +52,9 @@ c) a Kormány által kötelezően biztosított szabályozott elektronikus ügyin
 
 d) a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervet, valamint a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás és a rendelkezési nyilvántartás regisztrációs szerveit,
 
-e) az országos telefonos ügyfélszolgálatot működtető szervet.
+e) az országos telefonos ügyfélszolgálatot működtető szervet,
+
+f) a tárhelyszolgáltatót.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
