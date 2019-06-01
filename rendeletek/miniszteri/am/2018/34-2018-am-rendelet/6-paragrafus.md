@@ -1,0 +1,1 @@
+## 5. § A 3. és 4. § által előírt, az adott szakiránynak megfelelő szakmai tapasztalatot a szakmai felelős személynek és az intézkedésre feljogosított felelős személynek munkaszerződésben meghatározott munkakörrel és a munkakörbe tartozó feladatok leírásával, vagy más hitelt érdemlő módon, okirattal kell igazolnia.
