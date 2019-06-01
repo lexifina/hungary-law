@@ -1,4 +1,4 @@
-## 19. § Hatályát veszti a sertés ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 140/2007. (XI. 28.) FVM rendelet 2019. május 31-én.
+## 19. §[^4]
 
 1. melléklet a 39/2018. (XII. 13.) AM rendelethez
 
@@ -15,3 +15,5 @@ A 6. § (7) bekezdés a) pontja szerinti elemzés adattartalma
 | 4. | Üzemi tevékenység eredménye ezer Ft |  |  |  |
 
 | 5. | a) minőségi adatok aa) férőhely mértéke, ab) természetes tartási feltételek javulása (%-ban), ac) verekedés, kimarás gyakorisága (%-ban), ad) almozás gyakorisága, ae) gázkoncentráció szintje; b) elhullások száma (ÁE); c) csökkent értékű értékesítés száma (ÁE) |  |  |  |
+
+[^4]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
