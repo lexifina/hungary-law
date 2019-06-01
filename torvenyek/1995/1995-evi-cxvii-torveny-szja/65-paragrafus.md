@@ -42,7 +42,7 @@ a) jövedelemként
 
 aa) azt – a nyereményalapot meg nem haladó – összeget, amelyet a kifizető a nyereménybetét-számlán jóváírt nyeremény megváltásaként a magánszemélynek jóváír, kifizet;
 
-ab)
+ab) a magyar állam által kibocsátott, a lakosság mint befektetői célpiac részére forgalomba hozott hitelviszonyt megtestesítő értékpapírból származó kamatjövedelmet;
 
 ac) az egyszeri díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejöttét követő 5. év elteltével vagy az után következik be, továbbá a rendszeres díjas biztosításokból származó, az (1) bekezdés d) pontja szerinti kamatjövedelmet, ha a biztosítói teljesítés a szerződés létrejöttét követő 10. év elteltével vagy az után következik be;
 
