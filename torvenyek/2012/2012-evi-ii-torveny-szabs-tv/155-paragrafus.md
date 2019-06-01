@@ -8,7 +8,11 @@
 
 (2b) Ha az ügyben eredményes közvetítői eljárást folytattak le, a szabálysértési nyilvántartó szerv a 154. § (2) bekezdés c), d), f), h), i) és j) pontjában meghatározott adatokat az eredményes közvetítői eljárás befejezését követő egy évig kezeli.
 
+(2c) A szabálysértési nyilvántartó szerv a gépjárművezető távollétében alkalmazott intézkedések nyilvántartásába felvett adatokat az intézkedéstől számított három napig kezeli.
+
 (3) Törölni kell a szabálysértési nyilvántartásokból annak a személynek az adatait, akire vonatkozóan az (1)–(2b) bekezdésben meghatározott nyilvántartási idő eltelt.
+
+(3a) Automatikusan törölni kell a szabálysértési nyilvántartásokból azokat az adatokat, amelyre vonatkozóan a (2c) bekezdésben meghatározott nyilvántartási idő eltelt.
 
 (4) A (3) bekezdésben meghatározott időpontban törölni kell az érintett adatait a személyazonosító adatok nyilvántartásából is.
 
