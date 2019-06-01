@@ -1,6 +1,6 @@
 ## 43. Az általános rendőrségi feladatok ellátására létrehozott szerv tűzszerészeti feladatai
 
-56. § (1)[^88] Az általános rendőrségi feladatok ellátására létrehozott szerv tűzszerész alegységei végzik a nemzetbiztonsági, a közbiztonsági, a polgári légi közlekedés biztonságával, valamint a vízkár-elhárítás biztonságával kapcsolatos körben jelentkező alábbi tűzszerészeti feladatokat:
+56. § (1)[^90] Az általános rendőrségi feladatok ellátására létrehozott szerv tűzszerész alegységei végzik a nemzetbiztonsági, a közbiztonsági, a polgári légi közlekedés biztonságával, valamint a vízkár-elhárítás biztonságával kapcsolatos körben jelentkező alábbi tűzszerészeti feladatokat:
 
 a) a bármely módon előkerült, robbantásos cselekmények végrehajtására utaló tárgyak, járművek vizsgálatát, hatástalanítását, megsemmisítését, elszállítását;
 
@@ -12,7 +12,7 @@ d) a kiemelten terrorveszélyes objektumok rendszeres megelőző ellenőrzését
 
 e) a robbanásveszélyes bűnjelekkel és pirotechnikai eszközökkel kapcsolatos tűzszerészeti feladatokat;
 
-f)[^89] a Terrorelhárítási Központ által védett személyekkel és a védett objektumokkal kapcsolatos tűzszerészbiztosítást;
+f)[^91] a Terrorelhárítási Központ által védett személyekkel és a védett objektumokkal kapcsolatos tűzszerészbiztosítást;
 
 g) a Budapest Liszt Ferenc Nemzetközi Repülőtéren és annak közvetlen környezetében
 
@@ -22,32 +22,32 @@ gb) a gyanús, robbanásveszélyes vagy annak vélt csomagok, gépjárművek ell
 
 gc) a robbantással fenyegetett légi járművek átvizsgálását, továbbá
 
-gd)[^90] a talált robbanóanyagok, robbanószerkezetek, robbanásveszélyes pirotechnikai eszközök kezelését, elszállítását, hatástalanítását, megsemmisítését, valamint
+gd)[^92] a talált robbanóanyagok, robbanószerkezetek, robbanásveszélyes pirotechnikai eszközök kezelését, elszállítását, hatástalanítását, megsemmisítését, valamint
 
-h)[^91] – védekezési időszakban – a vízügyi robbantási feladatokat.
+h)[^93] – védekezési időszakban – a vízügyi robbantási feladatokat.
 
 (2) A robbantással fenyegetett helyszínek átvizsgálását
 
 a) Budapest, valamint a Budapest Liszt Ferenc Nemzetközi Repülőtér területén, továbbá a Terrorelhárítási Központ hatáskörébe tartozó ügyekben a Készenléti Rendőrség Tűzszerész Szolgálat járőre,
 
-b)[^92] a Készenléti Rendőrség által védett létesítmények, biztosított rendezvények, védett személyek programhelyszínei esetén az egész ország területén a Készenléti Rendőrség Tűzszerész Szolgálat járőre,
+b)[^94] a Készenléti Rendőrség által védett létesítmények, biztosított rendezvények, védett személyek programhelyszínei esetén az egész ország területén a Készenléti Rendőrség Tűzszerész Szolgálat járőre,
 
 c) egyéb esetben a megyei rendőr-főkapitányság állományának erre kiképzett tagja (a továbbiakban: megyei bombakutató)
 
 ## végzi.
 
-(3)[^93] A Magyar Honvédség Tűzszerész Ügyelet felkérése alapján a Készenléti Rendőrség Tűzszerész Szolgálat jogosult a tűzszerészeti feladatok végrehajtására.
+(3)[^95] A Magyar Honvédség Tűzszerész Ügyelet felkérése alapján a Készenléti Rendőrség Tűzszerész Szolgálat jogosult a tűzszerészeti feladatok végrehajtására.
 
-(4)[^94] Az (1) bekezdésben és a (2) bekezdés a) pontjában meghatározott tűzszerészeti feladatokat az általános rendőrségi feladatok ellátására létrehozott szerv a terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló 295/2010. (XII. 22.) Korm. rendelet
+(4)[^96] Az (1) bekezdésben és a (2) bekezdés a) pontjában meghatározott tűzszerészeti feladatokat az általános rendőrségi feladatok ellátására létrehozott szerv a terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló 295/2010. (XII. 22.) Korm. rendelet
 
 a) 3. § (1) bekezdés d) pont da) alpontja alapján a Terrorelhárítási Központtal együttműködve látja el,
 
 b) 3. § (1) bekezdés k) pontja alapján abban az esetben látja el, ha a Terrorelhárítási Központ kéri az együttműködést.
 
-[^88]: Az 56. § (1) bekezdés nyitó szövegrésze az 50/2016. (XII. 14.) BM rendelet 19. § e) pontja szerint módosított szöveg.
-[^89]: Az 56. § (1) bekezdés f) pontja az 50/2016. (XII. 14.) BM rendelet 19. § f) pontja szerint módosított szöveg.
-[^90]: Az 56. § (1) bekezdés g) pont gd) alpontja az 50/2016. (XII. 14.) BM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^91]: Az 56. § (1) bekezdés h) pontját az 50/2016. (XII. 14.) BM rendelet 12. § (2) bekezdése iktatta be.
-[^92]: Az 56. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^93]: Az 56. § (3) bekezdése a 31/2012. (VI. 28.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^94]: Az 56. § (4) bekezdését a 31/2012. (VI. 28.) BM rendelet 11. §-a iktatta be.
+[^90]: Az 56. § (1) bekezdés nyitó szövegrésze az 50/2016. (XII. 14.) BM rendelet 19. § e) pontja szerint módosított szöveg.
+[^91]: Az 56. § (1) bekezdés f) pontja az 50/2016. (XII. 14.) BM rendelet 19. § f) pontja szerint módosított szöveg.
+[^92]: Az 56. § (1) bekezdés g) pont gd) alpontja az 50/2016. (XII. 14.) BM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^93]: Az 56. § (1) bekezdés h) pontját az 50/2016. (XII. 14.) BM rendelet 12. § (2) bekezdése iktatta be.
+[^94]: Az 56. § (2) bekezdés b) pontja a 31/2012. (VI. 28.) BM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^95]: Az 56. § (3) bekezdése a 31/2012. (VI. 28.) BM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^96]: Az 56. § (4) bekezdését a 31/2012. (VI. 28.) BM rendelet 11. §-a iktatta be.

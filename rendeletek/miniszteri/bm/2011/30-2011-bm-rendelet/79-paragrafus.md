@@ -18,7 +18,7 @@ f) a védett személlyel kapcsolatos nyílt és operatív biztosítás ellátás
 
 (2) A személybiztosító feladata a védett személy közvetlen fizikai védelme, életének, testi épségének megóvása.
 
-(3)[^113] A lakásbiztosító feladata a védett személy és a vele együtt lakó családtagjai állandó elhelyezésére szolgáló létesítmények védelme, az érkező küldemények biztonsági ellenőrzése, a belépő személyek ellenőrzése, továbbá a védett személy és a vele együtt lakó családtagjai állandó elhelyezésére szolgáló létesítmények elleni támadás elhárítása, az illetéktelen személyek bejutásának megakadályozása, a védelem technikai eszközeinek kezelése.
+(3)[^115] A lakásbiztosító feladata a védett személy és a vele együtt lakó családtagjai állandó elhelyezésére szolgáló létesítmények védelme, az érkező küldemények biztonsági ellenőrzése, a belépő személyek ellenőrzése, továbbá a védett személy és a vele együtt lakó családtagjai állandó elhelyezésére szolgáló létesítmények elleni támadás elhárítása, az illetéktelen személyek bejutásának megakadályozása, a védelem technikai eszközeinek kezelése.
 
 (4) A programhely-biztosító feladata a védett személyek által látogatott rendezvény helyszínének lezárása, a védett személy mozgásterületének biztosítása.
 
@@ -28,4 +28,4 @@ f) a védett személlyel kapcsolatos nyílt és operatív biztosítás ellátás
 
 (7) Az operatív személyvédő feladata a védett személy részvételével lebonyolított programok, rendezvények, illetve a védelemre kijelölt objektumok felderítő biztosításának megszervezése és végrehajtása.
 
-[^113]: A 79. § (3) bekezdése az 50/2016. (XII. 14.) BM rendelet 15. §-ával megállapított szöveg.
+[^115]: A 79. § (3) bekezdése az 50/2016. (XII. 14.) BM rendelet 15. §-ával megállapított szöveg.

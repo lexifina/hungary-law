@@ -1,8 +1,8 @@
-31. § (1)[^55] Előállító egységben – az idegenrendészeti eljárás lefolytatása céljából előállított kiskorú személy kivételével – tizennégy éven aluli kiskorú személy nem helyezhető el. Ha az előállítás ideje alatt megállapítást nyer az, hogy az előállított személy kísérő nélküli kiskorú, az előállítást foganatosító rendőri szerv haladéktalanul gondoskodik gyermekvédelmi intézményben történő elhelyezéséről.
+31. § (1)[^57] Előállító egységben – az idegenrendészeti eljárás lefolytatása céljából előállított kiskorú személy kivételével – tizennégy éven aluli kiskorú személy nem helyezhető el. Ha az előállítás ideje alatt megállapítást nyer az, hogy az előállított személy kísérő nélküli kiskorú, az előállítást foganatosító rendőri szerv haladéktalanul gondoskodik gyermekvédelmi intézményben történő elhelyezéséről.
 
 (2) A fogvatartott tényleges elhelyezése az előállító egységen belül az előállító helyiségben történik.
 
-(3)[^56] A rendőrkapitányság, a határrendészeti kirendeltség, valamint a rendőrőrs vezetője köteles a fogvatartott személy biztonságos elhelyezésére szolgáló előállító egységet kijelölni. A Repülőtéri Rendőr Igazgatóság, a Készenléti Rendőrség és a megyei (fővárosi) rendőr-főkapitányság esetében előállító egység kijelölésére indokolt esetben a szerv vezetője jogosult.
+(3)[^58] A rendőrkapitányság, a határrendészeti kirendeltség, valamint a rendőrőrs vezetője köteles a fogvatartott személy biztonságos elhelyezésére szolgáló előállító egységet kijelölni. A Repülőtéri Rendőr Igazgatóság, a Készenléti Rendőrség és a megyei (fővárosi) rendőr-főkapitányság esetében előállító egység kijelölésére indokolt esetben a szerv vezetője jogosult.
 
 (4) Az előállító egységben történő elhelyezés, őrzés végrehajtásának feltételeit a (3) bekezdésben meghatározott rendőri szerv vezetője biztosítja.
 
@@ -12,11 +12,11 @@
 
 (7) Elhelyezéskor a fogvatartottat nyilatkoztatni kell sérüléséről, esetleges panaszáról. Betegség vagy sérülés esetén orvosi ellátásban kell részesíteni, ruházatát támadás vagy önveszély okozására alkalmas tárgy elvétele céljából a felügyeletet ellátó rendőrnek át kell vizsgálnia. A ruházat átvizsgálását a fogvatartottal ellentétes nemű személy nem végezheti, valamint nem lehet jelen, kivéve, ha az átvizsgálás technikai eszközzel történik.
 
-(8)[^57] Az előállítás biztonsági követelményeire figyelemmel, valamint az esetleges önkárosítás megelőzése érdekében az előállító helyiségben a fogvatartott saját tulajdonú alsó- és felsőruházatát nadrágszíj nélkül, lábbelijét cipőfűző nélkül tarthatja magánál.
+(8)[^59] Az előállítás biztonsági követelményeire figyelemmel, valamint az esetleges önkárosítás megelőzése érdekében az előállító helyiségben a fogvatartott saját tulajdonú alsó- és felsőruházatát nadrágszíj nélkül, lábbelijét cipőfűző nélkül tarthatja magánál.
 
 (9) Gondoskodni kell az előállító helyiségben elhelyezett, azonos ügyben fogvatartott személyek, a férfiak és nők, a felnőtt korúak és a fiatalkorúak elkülönítéséről, valamint rendkívüli őr felállításával biztosított őrzéséről.
 
-(10)[^58] Az előállító egységben történő elhelyezéssel egyidejűleg a fogvatartott elhelyezéséről a 2. melléklet szerinti, a fogvatartás során keletkezett iratanyagokkal együtt tárolandó nyomtatványt kell kitölteni, amely tartalmazza
+(10)[^60] Az előállító egységben történő elhelyezéssel egyidejűleg a fogvatartott elhelyezéséről a 2. melléklet szerinti, a fogvatartás során keletkezett iratanyagokkal együtt tárolandó nyomtatványt kell kitölteni, amely tartalmazza
 
 a) a fogvatartott személy személyazonosító adatait,
 
@@ -24,19 +24,19 @@ b) az elhelyezés kezdő és befejező időpontját (év, hónap, nap, óra, per
 
 c) a felügyeletet ellátó nevét, rendfokozatát, valamint
 
-d)[^59] az étkeztetésre, valamint a fogvatartott ellátásával – különösen az egészségügyi ellátásával, az esetleges sérüléseivel, illetve panaszaival, valamint a fogvatartásának kapcsán meghatározott értesítési kötelezettségekkel – összefüggő jogszabályi előírások végrehajtására vonatkozó adatokat.
+d)[^61] az étkeztetésre, valamint a fogvatartott ellátásával – különösen az egészségügyi ellátásával, az esetleges sérüléseivel, illetve panaszaival, valamint a fogvatartásának kapcsán meghatározott értesítési kötelezettségekkel – összefüggő jogszabályi előírások végrehajtására vonatkozó adatokat.
 
-(11)[^60] A személyi szabadság korlátozásának első 5 óráját követően az intézkedést foganatosító rendőri szerv gondoskodik a fogvatartott személy élelemmel történő ellátásáról. A fogvatartott személy étkezése az előállító helyiségben történik. Az étel kiosztását a felügyeletet ellátó rendkívüli őr végzi. Ha a rendkívüli őr nem rendelkezik az étel kiosztásához szükséges élelmiszerhigiéniai alapismereti vizsgával és érvényes egészségügyi könyvvel, akkor az élelmiszer kicsomagolását nem végezheti. Ilyen esetben a fogvatartottat előrecsomagolt élelmiszerrel és az annak elfogyasztásához szükséges egyszer használatos evőeszközökkel kell ellátni.
+(11)[^62] A személyi szabadság korlátozásának első 5 óráját követően az intézkedést foganatosító rendőri szerv gondoskodik a fogvatartott személy élelemmel történő ellátásáról. A fogvatartott személy étkezése az előállító helyiségben történik. Az étel kiosztását a felügyeletet ellátó rendkívüli őr végzi. Ha a rendkívüli őr nem rendelkezik az étel kiosztásához szükséges élelmiszerhigiéniai alapismereti vizsgával és érvényes egészségügyi könyvvel, akkor az élelmiszer kicsomagolását nem végezheti. Ilyen esetben a fogvatartottat előrecsomagolt élelmiszerrel és az annak elfogyasztásához szükséges egyszer használatos evőeszközökkel kell ellátni.
 
-(12)[^61] Az előállított őrzését végrehajtó, rendkívüli őri feladatokkal megbízott rendőr lőfegyvert, illetve gumilövedék, pirotechnikai eszköz, könnygázgránát, vagy elfogó háló kilövésére rendszeresített eszközt nem viselhet.
+(12)[^63] Az előállított őrzését végrehajtó, rendkívüli őri feladatokkal megbízott rendőr lőfegyvert, illetve gumilövedék, pirotechnikai eszköz, könnygázgránát, vagy elfogó háló kilövésére rendszeresített eszközt nem viselhet.
 
-(13)[^62] A büntetés-végrehajtási intézetből kikért és a rendőrség épületébe átkísért személyek biztonságos őrzésére a (2) bekezdésben meghatározott előállító helyiségben vagy a rendőrségi fogda ideiglenes elhelyezésre szolgáló helyiségében kerülhet sor, a helyiségben történő tartózkodás időtartama nem haladhatja meg a 12 órát.
+(13)[^64] A büntetés-végrehajtási intézetből kikért és a rendőrség épületébe átkísért személyek biztonságos őrzésére a (2) bekezdésben meghatározott előállító helyiségben vagy a rendőrségi fogda ideiglenes elhelyezésre szolgáló helyiségében kerülhet sor, a helyiségben történő tartózkodás időtartama nem haladhatja meg a 12 órát.
 
-[^55]: A 31. § (1) bekezdése az 50/2016. (XII. 14.) BM rendelet 10. §-ával megállapított szöveg.
-[^56]: A 31. § (3) bekezdése a 43/2012. (VIII. 23.) BM rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^57]: A 31. § (8) bekezdése a 18/2013. (V. 9.) BM rendelet 18. §-a szerint módosított szöveg.
-[^58]: A 31. § (10) bekezdése a 18/2013. (V. 9.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^59]: A 31. § (10) bekezdés d) pontja a 61/2015. (XI. 24.) BM rendelet 6. §-ával megállapított szöveg.
-[^60]: A 31. § (11) bekezdése a 18/2013. (V. 9.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^61]: A 31. § (12) bekezdését a 18/2013. (V. 9.) BM rendelet 6. § (2) bekezdése iktatta be.
-[^62]: A 31. § (13) bekezdését a 18/2013. (V. 9.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^57]: A 31. § (1) bekezdése az 50/2016. (XII. 14.) BM rendelet 10. §-ával megállapított szöveg.
+[^58]: A 31. § (3) bekezdése a 43/2012. (VIII. 23.) BM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^59]: A 31. § (8) bekezdése a 18/2013. (V. 9.) BM rendelet 18. §-a szerint módosított szöveg.
+[^60]: A 31. § (10) bekezdése a 18/2013. (V. 9.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^61]: A 31. § (10) bekezdés d) pontja a 61/2015. (XI. 24.) BM rendelet 6. §-ával megállapított szöveg.
+[^62]: A 31. § (11) bekezdése a 18/2013. (V. 9.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^63]: A 31. § (12) bekezdését a 18/2013. (V. 9.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^64]: A 31. § (13) bekezdését a 18/2013. (V. 9.) BM rendelet 6. § (2) bekezdése iktatta be.

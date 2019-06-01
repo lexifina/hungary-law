@@ -4,7 +4,7 @@
 
 (3) A határforgalom ellenőrzését végző rendőr a határátlépésre jelentkező személy és a birtokában lévő jármű ellenőrzését követően adhat engedélyt a határátlépésre.
 
-(4)[^105] Az általános rendőrségi feladatok ellátására létrehozott szerv a határátlépésre jelentkező személy ellenőrzéséhez, valamint az úti okmány, illetve a határátlépésre jelentkező személy birtokában lévő jármű vagy tárgy vizsgálatához a határátlépésre jelentkező személy, az úti okmány, illetve a jármű és a tárgy adatait összeveti az Rtv. 91/K. § (1) bekezdésében meghatározott nyilvántartások adataival, továbbá az ellenőrzéshez informatikai és más műszaki eszközöket vehet igénybe.
+(4)[^107] Az általános rendőrségi feladatok ellátására létrehozott szerv a határátlépésre jelentkező személy ellenőrzéséhez, valamint az úti okmány, illetve a határátlépésre jelentkező személy birtokában lévő jármű vagy tárgy vizsgálatához a határátlépésre jelentkező személy, az úti okmány, illetve a jármű és a tárgy adatait összeveti az Rtv. 91/K. § (1) bekezdésében meghatározott nyilvántartások adataival, továbbá az ellenőrzéshez informatikai és más műszaki eszközöket vehet igénybe.
 
 (5) Az általános rendőrségi feladatok ellátására létrehozott szerv a határforgalom ellenőrzése során – nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa eltérő rendelkezésének hiányában – az államhatár átlépésére jelentkező személy bejegyzésre alkalmas úti okmányába és ezek mellékleteibe bejegyzi
 
@@ -12,14 +12,14 @@ a) a határátlépés tényét, helyét és időpontját,
 
 b) a beutazás megtagadásának tényét,
 
-c)[^106]
+c)[^108]
 
 d) – több személy részére kiállított úti okmány használata esetén – a határátlépő személy azonosítását lehetővé tevő jelzést, valamint
 
 e) a más határátlépésre jogosító úti okmány meglétére utaló jelzést.
 
-(6)[^107] Ha a harmadik országbeli állampolgár a tartózkodás időtartamára vonatkozó feltételek meglétét bizonyítja, úti okmányába az általános rendőrségi feladatok ellátására létrehozott szerv a határátkelőhelyen kívül, utólag is köteles bejegyezni a határátlépés tényét, helyét és időpontját, valamint köteles ezzel egyidejűleg a harmadik országbeli állampolgár részére kiállítani a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) VIII. melléklete szerinti formanyomtatványt.
+(6)[^109] Ha a harmadik országbeli állampolgár a tartózkodás időtartamára vonatkozó feltételek meglétét bizonyítja, úti okmányába az általános rendőrségi feladatok ellátására létrehozott szerv a határátkelőhelyen kívül, utólag is köteles bejegyezni a határátlépés tényét, helyét és időpontját, valamint köteles ezzel egyidejűleg a harmadik országbeli állampolgár részére kiállítani a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) VIII. melléklete szerinti formanyomtatványt.
 
-[^105]: A 64. § (4) bekezdése a 27/2017. (X. 31.) BM rendelet 2. §-a szerint módosított szöveg.
-[^106]: A 64. § (5) bekezdés c) pontját a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^107]: A 64. § (6) bekezdése a 60/2016. (XII. 29.) BM rendelet 6. §-ával megállapított szöveg.
+[^107]: A 64. § (4) bekezdése a 27/2017. (X. 31.) BM rendelet 2. §-a szerint módosított szöveg.
+[^108]: A 64. § (5) bekezdés c) pontját a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^109]: A 64. § (6) bekezdése a 60/2016. (XII. 29.) BM rendelet 6. §-ával megállapított szöveg.
