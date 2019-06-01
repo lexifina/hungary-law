@@ -4,6 +4,8 @@
 
 (3) Közigazgatási hatósági eljárásban az eljáró hatóság megkeresésére a (2) bekezdés szerint rögzített felvétel továbbítható, ha a megkereső hatóság a megkeresésben az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt megjelöli.
 
+(3a) A rögzített felvételt a felügyelő a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a 7. § (6a) bekezdésében meghatározott célból.
+
 (4) A rögzített felvétel továbbítására irányuló megkeresést meg kell tagadni akkor is, ha a felvétel a megkeresésben meghatározott tény bizonyítására alkalmatlan.
 
 (5) Akinek jogát vagy jogos érdekét a felvétellel rögzített esemény, cselekmény vagy intézkedés érinti, a 7. § (6) bekezdésében meghatározott célból kérheti, hogy a felvételt a felügyelet annak továbbításáig, de legfeljebb a kérelem benyújtását követő harminc napig ne törölje.

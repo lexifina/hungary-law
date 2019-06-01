@@ -8,6 +8,8 @@
 
 (5) A képfelvevő által megfigyelt területre belépő személyek tájékoztatását elősegítő módon figyelemfelhívó jelzést, ismertetést kell elhelyezni a képfelvevők elhelyezéséről, az adatkezelés tényéről.
 
+(5a) A felügyelet jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A (3) bekezdésben meghatározott felvételt – amennyiben annak műszaki és technikai feltételei adottak – a felügyelet a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
+
 (6) A (2) és (3) bekezdésben foglaltak alapján készített felvétel a rögzítés helyszínén
 
 a) elkövetett bűncselekmény vagy szabálysértés miatt indult eljárásban,
@@ -20,11 +22,23 @@ d) a felvételen szereplő személy által, jogainak gyakorlása érdekében ind
 
 használható fel.
 
+(6a) A (3) bekezdésben meghatározott felvétel
+
+a) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
+
+b) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
+
+c) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából, illetve
+
+d) körözött személy vagy tárgy azonosítása érdekében
+
+is felhasználható.
+
 (7) A felügyelet
 
 a) a (2) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével,
 
-b) a (3) bekezdés alapján rögzített felvételt a rögzítést követő nyolc nap elteltével
+b) a (3) bekezdés alapján rögzített felvételt a rögzítést követő harminc nap elteltével
 
 haladéktalanul törli.
 
