@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2019-01-01 | 2018. évi XCVIII. törvény | 1988-1-00-00.101 |
 | 2019-03-15 | 2018. évi XCVIII. törvény | 1988-1-00-00.102 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 1988-1-00-00.103 |
+| 2019-06-01 | 2018. évi CXXI. törvény | 1988-1-00-00.104 |
