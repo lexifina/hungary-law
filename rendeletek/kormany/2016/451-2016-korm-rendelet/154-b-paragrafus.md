@@ -1,0 +1,1 @@
+## 154/A. § A Kormány az E-ügyintézési tv. szerinti kép-, hang-, kép- és hangfelvételek központi tárolására tárhelyszolgáltatóként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t (a továbbiakban: tárhelyszolgáltató) jelöli ki.
