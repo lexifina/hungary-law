@@ -332,7 +332,7 @@
 
 ## b) 200 kVA rendelkezésre álló teljesítmény vagy ezt meghaladó teljesítmény esetén a rendszerhasználót – eltérő megállapodás hiányában – névre és felhasználási helyre vagy erőművi telephelyre szóló levélben.
 
-## 10.2. A fogyasztásmérő-berendezés hitelességi idejének lejárta miatti cseréje esetén szükséges munkavégzés, a fogyasztásmérő-berendezés ellenőrző leolvasása, vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzés időpontjáról a hálózati engedélyes írásban köteles a rendszerhasználót értesíteni. Amennyiben a rendszerhasználó számára az értesítésben megadott időpont nem megfelelő, a hálózati engedélyes köteles a rendszerhasználóval egyeztetni a megfelelő időpont kijelölése érdekében. A rendszerhasználó köteles a hálózati engedélyes által megküldött értesítésben megjelölt, vagy a közös megegyezéssel kijelölt időpontban a hálózati engedélyes munkavégzését lehetővé tenni.
+## 10.2.[^450] A hálózati engedélyes a fogyasztásmérő berendezés hitelességi idejének lejárta miatti csere esetén szükséges munkavégzésről, a fogyasztásmérő berendezés ellenőrző leolvasásáról vagy a felhasználási helyhez tartozó mérőhelyen történő munkavégzés időpontjáról tértivevényes ajánlott levélben vagy egyéb igazolható módon értesíti a rendszerhasználót. Az értesítésben megjelölt, az időpont-egyeztetési lehetőség során választható munkavégzési időpontnak legalább két napon 7 órától 20 óráig tartó időtartamot is kell tartalmaznia. Az értesítésnek tartalmaznia kell a hálózati engedélyes időpont egyeztetésre alkalmas elérhetőségét is. Az értesítésnek legalább 8 nappal a megjelölt legkorábbi munkavégzési időpont előtt a rendszerhasználó rendelkezésére kell állnia.
 
 ## 10.3. Nem alkalmazható a felhasználóval szemben a 10.2. pontban meghatározottak megsértése esetén hátrányos következmény, ha
 
@@ -342,7 +342,7 @@
 
 ## c) a rendszerhasználó önhibáján kívül nem biztosította a hálózati engedélyesnek a megjelölt időpontban a mérőhelyre való bejutását, feltéve, hogy erről a hálózati engedélyest megfelelő határidőben, igazolható módon értesítette.
 
-## 10.4.[^450] Eltérő – nem üzletszabályzatban rögzített – megállapodás hiányában a munkavégzés megkezdése előtt 10 nappal korábban kell a munkavégzésről szóló értesítést közölni.
+## 10.4.[^451] A rendszerhasználó köteles az elosztóval a 10.2. pontban foglaltak szerint egyeztetett időpontban a felhasználási helyhez tartozó mérőhelyen az elosztó általi munkavégzést lehetővé tenni.
 
 ## 11. Hálózathoz való hozzáférés megtagadása, a szállítások korlátozása, csökkentése, szüneteltetése
 
@@ -368,25 +368,25 @@
 
 ## 12.4. A hálózati engedélyes jogosult a villamosenergia-ellátás és felhasználás folyamatosságához szükséges munkákat előzetes értesítés után – eltérő, nem az üzletszabályzatban rögzített megállapodás hiányában – munkanapokon 7–20 óra között elvégezni.
 
-## 12.5.[^451] Ha felmerül annak lehetősége, hogy a rendszerhasználó a biztonságos szolgáltatásra vagy betáplálásra vonatkozó előírásokat nem tartja be, és az e miatt megkísérelt ellenőrzést meggátolja, a hálózati engedélyes a felhasználási helyre vagy erőműbe való bejutásig és a biztonsági ellenőrzés lefolytatásáig a hálózathoz való hozzáférést a csatlakozási ponton kívüli beavatkozással szüneteltetheti a mérőhelyre való bejutás járásbíróságnál való kezdeményezését követően.
+## 12.5.[^452] Ha felmerül annak lehetősége, hogy a rendszerhasználó a biztonságos szolgáltatásra vagy betáplálásra vonatkozó előírásokat nem tartja be, és az e miatt megkísérelt ellenőrzést meggátolja, a hálózati engedélyes a felhasználási helyre vagy erőműbe való bejutásig és a biztonsági ellenőrzés lefolytatásáig a hálózathoz való hozzáférést a csatlakozási ponton kívüli beavatkozással szüneteltetheti a mérőhelyre való bejutás járásbíróságnál való kezdeményezését követően.
 
 ## 12.6. Ha a szabálytalanságra utaló körülmények kivizsgálása eredményeképpen megállapításra került, hogy a rendszerhasználó részéről szabálytalanság nem történt, az ellenőrzés során felmerült költségek a rendszerhasználóra nem háríthatók át, valamint a rendszerhasználónak okozott kárt meg kell téríteni.
 
 ## 13. Változás a felhasználó személyében
 
-## 13.1.[^452] Ha a felhasználási helyen a felhasználó személye megváltozik, a felhasználó a bekövetkező változást legkésőbb – a 13.6. pontban foglalt kivétellel – a változástól számított 15 napon belül köteles a hálózati engedélyesnek az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni. A felhasználó a bejelentés keretében a hálózathasználati szerződést is felmondja. A bejelentésnek – a 13.6. pontban foglalt kivétellel – tartalmaznia kell legalább a 22/A. § (1b) bekezdés a), b) és d)–g) pontjában foglaltakat és a felhasználó hálózathasználati szerződés felmondására irányuló nyilatkozatát.
+## 13.1.[^453] Ha a felhasználási helyen a felhasználó személye megváltozik, a felhasználó a bekövetkező változást legkésőbb – a 13.6. pontban foglalt kivétellel – a változástól számított 15 napon belül köteles a hálózati engedélyesnek az üzletszabályzatban foglaltak szerint bejelenteni és annak rendelkezései szerint eljárni. A felhasználó a bejelentés keretében a hálózathasználati szerződést is felmondja. A bejelentésnek – a 13.6. pontban foglalt kivétellel – tartalmaznia kell legalább a 22/A. § (1b) bekezdés a), b) és d)–g) pontjában foglaltakat és a felhasználó hálózathasználati szerződés felmondására irányuló nyilatkozatát.
 
-## 13.2.[^453] A felhasználási helyen a felhasználó személyében bekövetkező változásra vonatkozó bejelentés esetében a hálózati engedélyes köteles a csatlakozó- és mérőberendezés állapotának helyszíni ellenőrzésére és az ellenőrzés eredményének – ideértve a mérőállást is – jegyzőkönyvben történő rögzítésére. Ennek elvégzése érdekében a hálózati engedélyes a bejelentés kézhezvételétől számított 3 munkanapon belül köteles az igénybejelentővel időpontot egyeztetni. Az egyeztetett időpont nem lehet későbbi, mint a bejelentést követő 5. munkanap, kivéve, ha azt az igénybejelentő későbbi időpontra kéri. Az ellenőrzéssel, annak körülményeivel és eredményével kapcsolatos állásfoglalását a felhasználó vagy az új felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek által aláírt egy-egy példányát a hálózati engedélyes köteles a felhasználónak és új felhasználó esetében az új felhasználónak átadni vagy postán megküldeni, további egy példányát megőrizni. Egyetemes szolgáltatásra jogosult felhasználó esetében a helyszíni ellenőrzés térítésmentes.
+## 13.2.[^454] A felhasználási helyen a felhasználó személyében bekövetkező változásra vonatkozó bejelentés esetében a hálózati engedélyes köteles a csatlakozó- és mérőberendezés állapotának helyszíni ellenőrzésére és az ellenőrzés eredményének – ideértve a mérőállást is – jegyzőkönyvben történő rögzítésére. Ennek elvégzése érdekében a hálózati engedélyes a bejelentés kézhezvételétől számított 3 munkanapon belül köteles az igénybejelentővel időpontot egyeztetni. Az egyeztetett időpont nem lehet későbbi, mint a bejelentést követő 5. munkanap, kivéve, ha azt az igénybejelentő későbbi időpontra kéri. Az ellenőrzéssel, annak körülményeivel és eredményével kapcsolatos állásfoglalását a felhasználó vagy az új felhasználó jogosult a jegyzőkönyvben feltüntetni. A jegyzőkönyv felek által aláírt egy-egy példányát a hálózati engedélyes köteles a felhasználónak és új felhasználó esetében az új felhasználónak átadni vagy postán megküldeni, további egy példányát megőrizni. Egyetemes szolgáltatásra jogosult felhasználó esetében a helyszíni ellenőrzés térítésmentes.
 
-## 13.3.[^454] Ha a hálózati engedélyes a helyszíni ellenőrzési kötelezettségének a bejelentés kézhezvételétől számított 3 munkanapon belül nem tesz eleget, nem hivatkozhat hibás mérésre vagy szabálytalan vételezésre, és ilyen alapon nem érvényesíthet igényt a felhasználóval szemben. A felhasználó mentesül a 17.4. pontban és a 19.13. pontban meghatározott jogkövetkezmények alól, és a bejelentés napjától az új felhasználót terheli a felelősség, ha a hálózati engedélyes a felhasználási helyen vételező új felhasználó magatartása miatt, írásbeli felszólítás ellenére nem tudja végrehajtani a helyszíni ellenőrzést a bejelentés kézhezvételét követő 20 napon belül.
+## 13.3.[^455] Ha a hálózati engedélyes a helyszíni ellenőrzési kötelezettségének a bejelentés kézhezvételétől számított 3 munkanapon belül nem tesz eleget, nem hivatkozhat hibás mérésre vagy szabálytalan vételezésre, és ilyen alapon nem érvényesíthet igényt a felhasználóval szemben. A felhasználó mentesül a 17.4. pontban és a 19.13. pontban meghatározott jogkövetkezmények alól, és a bejelentés napjától az új felhasználót terheli a felelősség, ha a hálózati engedélyes a felhasználási helyen vételező új felhasználó magatartása miatt, írásbeli felszólítás ellenére nem tudja végrehajtani a helyszíni ellenőrzést a bejelentés kézhezvételét követő 20 napon belül.
 
 ## 13.4. A bejelentés megtételének bizonyítása a felhasználót, a helyszíni ellenőrzés akadályoztatásának bizonyítása a hálózati engedélyest terheli.
 
-## 13.5.[^455] Új felhasználó esetében az új felhasználó a bejelentéshez csatolhatja a hálózathasználati szerződés megkötésére vonatkozó felhasználói igénybejelentést.
+## 13.5.[^456] Új felhasználó esetében az új felhasználó a bejelentéshez csatolhatja a hálózathasználati szerződés megkötésére vonatkozó felhasználói igénybejelentést.
 
-## 13.6.[^456] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell az elosztó számára bejelenteni. A bejelentésnek legalább a 22/A. § (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia.
+## 13.6.[^457] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell az elosztó számára bejelenteni. A bejelentésnek legalább a 22/A. § (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia.
 
-## 13.7.[^457] A 13.1. pont szerinti bejelentés formanyomtatványon is megtehető. A hálózati engedélyes az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé a 13.1. pont szerinti adattartalommal, honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó számára postai úton is megküldi. A formanyomtatványt a hálózati engedélyes üzletszabályzata tartalmazza.
+## 13.7.[^458] A 13.1. pont szerinti bejelentés formanyomtatványon is megtehető. A hálózati engedélyes az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé a 13.1. pont szerinti adattartalommal, honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó számára postai úton is megküldi. A formanyomtatványt a hálózati engedélyes üzletszabályzata tartalmazza.
 
 ## 14. Mérés
 
@@ -394,13 +394,13 @@
 
 ## 14.2. A rendszerhasználó jogosult saját költségén ellenőrző fogyasztásmérő-berendezést felszereltetni. A hálózati engedélyes fogyasztásmérő-berendezésével azonos mérőtranszformátorokra ellenőrző fogyasztásmérő-berendezés abban az esetben szerelhető, ha ez a hálózati engedélyes mérésének pontosságát nem veszélyezteti, és a hálózati engedélyes a felszereléshez előzetesen írásban hozzájárult. Az ellenőrző fogyasztásmérő-berendezés mérési adata a szolgáltatott villamos energia és teljesítmény elszámolására alapul nem szolgálhat.
 
-## 14.3.[^458] Ha a rendszerhasználó a fogyasztásmérő-berendezés hibáját észleli, köteles azt a hálózati engedélyesnek haladéktalanul bejelenteni. A hálózati engedélyes a rendszerhasználó bejelentésének kézhezvételétől számított 3 munkanapon belül köteles a kifogásolt fogyasztásmérő-berendezés működését hitelesített vagy kalibrált ellenőrző eszközzel ellenőrizni. Ha az ellenőrzött fogyasztásmérő-berendezés mérési hibája a jogszabályi hibahatárt túllépi, vagy a hálózati engedélyes megállapítja, hogy a fogyasztásmérő-berendezés hibás, köteles azt kicserélni.
+## 14.3.[^459] Ha a rendszerhasználó a fogyasztásmérő-berendezés hibáját észleli, köteles azt a hálózati engedélyesnek haladéktalanul bejelenteni. A hálózati engedélyes a rendszerhasználó bejelentésének kézhezvételétől számított 3 munkanapon belül köteles a kifogásolt fogyasztásmérő-berendezés működését hitelesített vagy kalibrált ellenőrző eszközzel ellenőrizni. Ha az ellenőrzött fogyasztásmérő-berendezés mérési hibája a jogszabályi hibahatárt túllépi, vagy a hálózati engedélyes megállapítja, hogy a fogyasztásmérő-berendezés hibás, köteles azt kicserélni.
 
 ## 14.4. A hálózati engedélyes a rendszerhasználó kérésére köteles a fogyasztásmérő-berendezést vagy annak valamelyik elemét a mérésügyi hatósággal vagy a mérésügyi hatóság által akkreditált laboratóriumban bevizsgáltatni, a vizsgálatról és annak eredményéről a rendszerhasználót értesíteni, és a vizsgálat eredményétől függően a fogyasztásmérő berendezést kicserélni.
 
 ## 14.5. Ha a fogyasztásmérő-berendezés mérési hibája a jogszabályi hibahatárt túllépi, a 14.3. és 14.4. pont szerinti helyszíni ellenőrzés, vizsgálat vagy csere költségei – a hálózathasználati szerződés felhasználó általi szerződésszegésének kivételével – a hálózati engedélyest terhelik, egyéb esetben a költségeket a rendszerhasználó köteles megtéríteni.
 
-## 14.6.[^459] A fogyasztásmérő-berendezés cseréje esetén a hálózati engedélyes köteles gondoskodni arról, hogy
+## 14.6.[^460] A fogyasztásmérő-berendezés cseréje esetén a hálózati engedélyes köteles gondoskodni arról, hogy
 
 ## a) ha a fogyasztásmérő-berendezés cseréjére nem a 14.3. vagy 14.4. pont szerint, azonnali beavatkozással kerül sor, a csere időpontjáról a felhasználó a 10. alcímben foglaltak szerint értesítést kapjon, és
 
@@ -408,7 +408,7 @@
 
 ## c) a fogyasztásmérő-berendezés műszaki adatai a mérő állásával együtt jegyzőkönyvben kerüljenek rögzítésre, és annak egy példánya a rendszerhasználó részére átadásra kerüljön.
 
-## 14.7.[^460] A leszerelt fogyasztásmérő-berendezés mérőállását és állapotát a hálózati engedélyes jogosult fotótechnikai vagy elektronikus felvétellel a leszerelés előtt rögzíteni. A leszerelést követő első elszámoló számlára vonatkozó elévülési idő végéig - elszámoló számlára vonatkozó felhasználói panasz véglegessé vált döntéssel való lezárásáig vagy jogvita esetében a jogvita jogerős lezárásáig - a hálózati engedélyes köteles a fotótechnikai vagy elektronikus felvételeket, ezek hiányában a fogyasztásmérő-berendezést változatlan állapotban megőrizni. A felhasználói panasz fennállásáról és annak véglegessé vált döntéssel való lezárásáról, továbbá a jogvita fennállásáról és annak jogerős lezárásáról a felhasználót ellátó villamosenergia-kereskedő a hálózati engedélyest tájékoztatja.
+## 14.7.[^461] A leszerelt fogyasztásmérő-berendezés mérőállását és állapotát a hálózati engedélyes jogosult fotótechnikai vagy elektronikus felvétellel a leszerelés előtt rögzíteni. A leszerelést követő első elszámoló számlára vonatkozó elévülési idő végéig - elszámoló számlára vonatkozó felhasználói panasz véglegessé vált döntéssel való lezárásáig vagy jogvita esetében a jogvita jogerős lezárásáig - a hálózati engedélyes köteles a fotótechnikai vagy elektronikus felvételeket, ezek hiányában a fogyasztásmérő-berendezést változatlan állapotban megőrizni. A felhasználói panasz fennállásáról és annak véglegessé vált döntéssel való lezárásáról, továbbá a jogvita fennállásáról és annak jogerős lezárásáról a felhasználót ellátó villamosenergia-kereskedő a hálózati engedélyest tájékoztatja.
 
 ## 14.8. Az elosztó a profil elszámolású rendszerhasználó kérése esetén annak költségére az adott felhasználási helyen – a legkisebb költség elvével összhangban kiválasztott – terhelési görbe regisztrálására alkalmas távlehívható fogyasztásmérő készüléket szerel fel, és a mért adatok alapján számol el.
 
@@ -458,7 +458,7 @@
 
 ## 17.6. A felek az adatok 17.2–17.5. pont szerinti meghatározását követő 15 napon belül kötelesek egymással elszámolni.
 
-## 17.7.[^461] Lejárt hitelességű fogyasztásmérő-berendezés esetében a hálózati engedélyes szabálytalan vételezésre kizárólag abban az esetben hivatkozhat, ha bizonyítja, hogy a fogyasztásmérő-berendezés megfelelő időben történő hitelesítése, cseréje a felhasználó érdekkörében fennálló okból nem vezetett eredményre, és ennek érdekében a mérőhelyre való bejutást a járásbíróságnál kezdeményezte.
+## 17.7.[^462] Lejárt hitelességű fogyasztásmérő-berendezés esetében a hálózati engedélyes szabálytalan vételezésre kizárólag abban az esetben hivatkozhat, ha bizonyítja, hogy a fogyasztásmérő-berendezés megfelelő időben történő hitelesítése, cseréje a felhasználó érdekkörében fennálló okból nem vezetett eredményre, és ennek érdekében a mérőhelyre való bejutást a járásbíróságnál kezdeményezte.
 
 ## 17.8. Lejárt hitelességű fogyasztásmérő-berendezés esetén az elszámolásra a 17.2 pont a) alpont és a 17.4–17.6. pont rendelkezéseit kell alkalmazni.
 
@@ -574,15 +574,16 @@
 [^447]: A Vhr. 2. melléklet 8.6. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^448]: A Vhr. 2. melléklet 8.7. pontját a 458/2016. (XII. 23.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^449]: A Vhr. 2. számú melléklet 9.1. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^450]: A Vhr. 2. számú melléklet 10.4. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^451]: A Vhr. 2. számú melléklet 12.5. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^452]: A Vhr. 2. számú melléklet 13.1. pontja a 252/2012. (IX. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^453]: A Vhr. 2. számú melléklet 13.2. pontja a 343/2017. (XI. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^454]: A Vhr. 2. számú melléklet 13.3. pontja a 252/2012. (IX. 7.) Korm. rendelet 3. §-ával megállapított, a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^455]: A Vhr. 2. számú melléklet 13.5. pontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
-[^456]: A Vhr. 2. számú melléklet 13.6. pontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
-[^457]: A Vhr. 2. számú melléklet 13.7. pontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
-[^458]: A Vhr. 2. számú melléklet 14.3. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^459]: A Vhr. 2. számú melléklet 14.6. pontja a 119/2013. (IV. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^460]: A Vhr. 2. számú melléklet 14.7. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^461]: A Vhr. 2. számú melléklet 17.7. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^450]: A 2. számú melléklet 10.2. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^451]: A 2. számú melléklet 10.4. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^452]: A Vhr. 2. számú melléklet 12.5. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^453]: A Vhr. 2. számú melléklet 13.1. pontja a 252/2012. (IX. 7.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^454]: A Vhr. 2. számú melléklet 13.2. pontja a 343/2017. (XI. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^455]: A Vhr. 2. számú melléklet 13.3. pontja a 252/2012. (IX. 7.) Korm. rendelet 3. §-ával megállapított, a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^456]: A Vhr. 2. számú melléklet 13.5. pontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
+[^457]: A Vhr. 2. számú melléklet 13.6. pontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
+[^458]: A Vhr. 2. számú melléklet 13.7. pontját a 252/2012. (IX. 7.) Korm. rendelet 3. §-a iktatta be.
+[^459]: A Vhr. 2. számú melléklet 14.3. pontja a 157/2017. (VI. 16.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^460]: A Vhr. 2. számú melléklet 14.6. pontja a 119/2013. (IV. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^461]: A Vhr. 2. számú melléklet 14.7. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^462]: A Vhr. 2. számú melléklet 17.7. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.

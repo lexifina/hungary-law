@@ -1,6 +1,6 @@
 5. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesítési, névleges teljesítőképességének növelésére vonatkozó és bővítési, valamint névleges teljesítőképességének csökkentésére vonatkozó engedély iránti kérelemhez benyújtandó dokumentumok[^470]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesítési, névleges teljesítőképességének növelésére vonatkozó és bővítési, valamint névleges teljesítőképességének csökkentésére vonatkozó engedély iránti kérelemhez benyújtandó dokumentumok[^471]
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
@@ -14,7 +14,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesít
 
 6. Megvalósíthatósági tanulmány (az e rendelet 19. számú melléklete szerint),
 
-7.[^471] Annak igazolása, hogy a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló,
+7.[^472] Annak igazolása, hogy a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló,
 
 7.1. véglegessé vált környezetvédelmi engedéllyel vagy igazolással arról, hogy a tevékenység környezetvédelmi engedélyhez nem kötött, valamint
 
@@ -24,7 +24,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesít
 
 7.2.2. az Atv. szerinti telephely engedéllyel és igazolással az Atv. szerinti létesítési engedély iránti kérelem atomenergia-felügyeleti szerv részére történő benyújtásáról,
 
-8.[^472] A létesítés kezdetének várható időpontja, a kivitelezés tervezett határideje,
+8.[^473] A létesítés kezdetének várható időpontja, a kivitelezés tervezett határideje,
 
 9. Az üzembe helyezés várható időpontja,
 
@@ -36,7 +36,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesít
 
 13. Az e rendelet 59. § (2) bekezdésében meghatározott energiahordozó készletezést igazoló dokumentumok,
 
-14.[^473] Műszaki adatok (bővítés esetén a bővítés utáni állapot szerint):
+14.[^474] Műszaki adatok (bővítés esetén a bővítés utáni állapot szerint):
 
 14.1. egyvonalas villamos kapcsolási rajz,
 
@@ -56,7 +56,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű létesít
 
 14.9. a légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3).
 
-[^470]: A Vhr. 5. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdése szerint módosított szöveg.
-[^471]: A Vhr. 5. számú melléklet 7. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^472]: A Vhr. 5. számú melléklet 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
-[^473]: A Vhr. 5. számú melléklet 14. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^471]: A Vhr. 5. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdése szerint módosított szöveg.
+[^472]: A Vhr. 5. számú melléklet 7. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^473]: A Vhr. 5. számú melléklet 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
+[^474]: A Vhr. 5. számú melléklet 14. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.

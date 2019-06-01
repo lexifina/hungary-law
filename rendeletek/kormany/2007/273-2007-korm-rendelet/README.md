@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2018-05-02 | 2007-273-20-22.54 | 92/2018. (IV. 27.) Korm. rendelet |
 | 2018-12-21 | 2007-273-20-22.55 | 256/2018. (XII. 18.) Korm. rendelet |
 | 2019-04-30 | 2007-273-20-22.56 | 80/2019. (IV. 15.) Korm. rendelet |
+| 2019-06-01 | 2007-273-20-22.57 | 80/2019. (IV. 15.) Korm. rendelet |
