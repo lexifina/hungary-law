@@ -1,3 +1,0 @@
-## 1. § A pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet (a továbbiakban: Pénztárgéprendelet) 20. alcíme a következő 78/H. §-sal egészül ki:
-
-## „78/H. § A 78/A. § (5) bekezdése alapján üzemeltetett pénztárgép üzemeltetője – szerviz közreműködése útján – 2019. december 31-ig gondoskodik az euró hivatalos pénznemmé tételének időpontját tartalmazó rekord alapértékének 2030. január 1-jére történő módosításáról.”
