@@ -1,3 +1,3 @@
-## 29. §[^97]
+## 29. §[^100]
 
-[^97]: A 29. §-t és az azt megelőző alcímet a 87/2015. (IV. 9.) Korm. rendelet 76. § d) pontja hatályon kívül helyezte.
+[^100]: A 29. §-t és az azt megelőző alcímet a 87/2015. (IV. 9.) Korm. rendelet 76. § d) pontja hatályon kívül helyezte.

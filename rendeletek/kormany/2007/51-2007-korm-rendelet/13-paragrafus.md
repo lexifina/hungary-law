@@ -1,4 +1,4 @@
-## Az egyes tanulmányi ösztöndíjak igénybevételével kapcsolatos feltételek[^41]
+## Az egyes tanulmányi ösztöndíjak igénybevételével kapcsolatos feltételek[^42]
 
 ## Tanulmányi ösztöndíj
 
@@ -10,7 +10,7 @@
 
 (4) Korábban felsőoktatási intézményben tanulmányokat folytató hallgató esetében arról, hogy a hallgató milyen feltételekkel kaphat tanulmányi ösztöndíjat a fogadó intézményben, a fogadó felsőoktatási intézmény térítési és juttatási szabályzatában kell rendelkezni.
 
-(5)[^42]
+(5)[^43]
 
-[^41]: A 13. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
-[^42]: A 13. § (5) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^42]: A 13. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^43]: A 13. § (5) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
