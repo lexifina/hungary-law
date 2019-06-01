@@ -23,7 +23,7 @@ b)[^28] a megküldött hirdetmény, illetve az ellenőrzött közbeszerzési dok
 (8)[^30] Ha a hiánypótlásra történő felhívás alapján az ajánlatkérő más eljárási rendet vagy más eljárásfajtát választ, vagy a hirdetmény tartalmát a felhívásban foglalt észrevételeken túl jelentősen megváltoztatja, azt a Hatóság új hirdetménynek tekinti, és a kérelmezőt a 11. § (4) bekezdése szerint ismételten hiánypótlásra hívja fel a hirdetmény megküldésétől számított két, ha a kérelmező a közbeszerzési dokumentumok ellenőrzését is kéri, öt munkanapon belül.
 
 [^25]: A 12. § (3) bekezdése az 5/2019. (III. 28.) MvM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^26]: [A 12. § (4) bekezdésének az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontjával elrendelt módosítása, amely szerint a „hirdetmény ellenőrzésért felelős szervezeti egység” szövegrész helyébe a „Hatóság” szöveg lép, nem vezethető át.]
+[^26]: [A 12. § (2) bekezdésének az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontjával elrendelt módosítása, amely szerint a „hirdetmény ellenőrzésért felelős szervezeti egység” szövegrész helyébe a „Hatóság” szöveg lép, nem vezethető át.]
 [^27]: A 12. § (6) bekezdés a) pontja az 5/2019. (III. 28.) MvM rendelet 22. § 8. pontja szerint módosított szöveg.
 [^28]: A 12. § (6) bekezdés b) pontja az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontja szerint módosított szöveg.
 [^29]: A 12. § (7) bekezdése az 5/2019. (III. 28.) MvM rendelet 22. § 5. pontja szerint módosított szöveg.

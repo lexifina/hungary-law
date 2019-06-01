@@ -40,6 +40,6 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben |
 
-21. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^98]
+21. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^100]
 
-[^98]: A 21. mellékletet a 43/2016. (XII. 30.) MvM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
+[^100]: A 21. mellékletet a 43/2016. (XII. 30.) MvM rendelet 13. § (2) bekezdése hatályon kívül helyezte.
