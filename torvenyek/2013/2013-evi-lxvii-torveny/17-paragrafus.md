@@ -18,6 +18,10 @@ c) a közúti közlekedésről szóló törvény szerinti Nemzeti Tengelysúlym�
 
 érdekében adatgyűjtést végez a díjköteles útszakaszon közlekedő gépjárművekről, telepített fix vagy mobil eszközök felhasználásával.
 
+(2a) Az útdíjszedő jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A (2) bekezdésben meghatározott adatgyűjtés során rögzített kép-, hang-, valamint kép- és hangfelvételt az útdíjszedő – amennyiben annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
+
+(2b) E törvényben meghatározott kivétellel a (2) bekezdésben meghatározott adatgyűjtés során rögzített kép-, hang-, valamint kép- és hangfelvételt a rögzítéstől számított 30 nap elteltével törölni kell.
+
 (3) Az útdíjszedő az útdíj-ellenőrzésre jogosult szervezetek útdíjellenőrzési tevékenységének támogatása érdekében:
 
 a) a (2) bekezdés szerinti eszközök útján felvételezett, azonosításra alkalmas adatokat és a rendszám adatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal, valamint az útdíj köteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokkal,
@@ -40,7 +44,11 @@ d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellá
 
 e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
 
-f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából.
+f) a Nemzeti Adó- és Vámhivatal a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott állami adó- és vámhatósági feladataihoz kapcsolódó ellenőrző tevékenysége, az adózók ellenőrzésre történő kiválasztása céljából,
+
+g) a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
+
+h) a rendőrség körözött személy vagy tárgy azonosítása érdekében.
 
 (6) Az (5) bekezdésben felsoroltakon kívül az elektronikus ellenőrző rendszerből adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít az elektronikus díjellenőrző rendszer adatainak megismerésére.
 
