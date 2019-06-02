@@ -60,6 +60,4 @@
 
 | 29. | Malomipari termékgyártás | 10.61 | molnár | – |
 
-2. melléklet a 34/2018. (XII. 3.) AM rendelethez[^1]
-
-[^1]: A 2. melléklet a 25/2019. (V. 31.) AM rendelet 1. §-a szerint módosított szöveg.
+2. melléklet a 34/2018. (XII. 3.) AM rendelethez

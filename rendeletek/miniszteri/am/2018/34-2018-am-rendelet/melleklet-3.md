@@ -50,7 +50,7 @@
 
 | 24. | Sörgyártás | 11.05, 11.06 | erjedés- és üdítőital-ipari termékgyártó, sörfőző mester szaktanácsadó |
 
-| 25. | Pálinka és szeszesital-gyártás | 11.01 | erjedés- és üdítőital-ipari termékgyártó, pálinkamester szaktanácsadó vagy az 1. mellékletben foglalt táblázat D:24 mezője szerinti rész-szakképesítés |
+| 25. | Pálinka és szeszesital-gyártás | 11.01 | erjedés- és üdítőital-ipari termékgyártó, pálinkamester szaktanácsadó |
 
 | 26. | Szikvízgyártás | 11.07 | erjedés- és üdítőital-ipari termékgyártó |
 
