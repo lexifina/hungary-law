@@ -1,3 +1,3 @@
-1. melléklet a 95/2019. (IV. 25.) Korm. rendelethez
+1. melléklet a 95/2019. (IV. 25.) Korm. rendelethez[^3]
 
-1. Az R1. 1. melléklete a következő M) résszel egészül ki:
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
