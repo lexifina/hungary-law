@@ -1,1 +1,3 @@
-## 3. § Az R. 8. § (5) bekezdésben a „(3) bekezdés” szövegrész helyébe a „(2) bekezdés” szöveg lép.
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
