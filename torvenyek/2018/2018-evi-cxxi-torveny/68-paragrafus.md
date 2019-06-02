@@ -1,9 +1,7 @@
-68. § A Kftv.
+68. §
 
-a) 7. § (7) bekezdés b) pontjában a „nyolc nap” szövegrész helyébe „harminc nap” szöveg,
+a)
 
 b)
 
 c)
-
-lép.

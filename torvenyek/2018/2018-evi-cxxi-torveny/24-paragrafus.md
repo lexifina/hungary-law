@@ -1,4 +1,4 @@
-24. § Az Rtv.
+24. §
 
 a)
 
@@ -10,7 +10,7 @@ d)
 
 e)
 
-f) 42. § (7) bekezdés b) pontjában az „öt munkanap” szövegrész helyébe a „30 nap” szöveg,
+f)
 
 g)
 
@@ -23,5 +23,3 @@ j)
 k)
 
 l)
-
-lép.
