@@ -1,8 +1,9 @@
-## 8–14. §[^4]
+## 8–14. §[^5]
 
-15. § (1) A Vet. vhr. 2. számú melléklete a 2. melléklet szerint módosul.
+15. § (1)[^6]
 
-(2)–(4)[^5]
+(2)–(4)[^7]
 
-[^4]: A 8–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 15. § (2)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 15. § (2)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
