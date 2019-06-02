@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-323-20-
 | 2019-04-01 | 2018-323-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-04-02 | 2018-323-20-22.8 | 2010: CXXX. törvény |
 | 2019-06-01 | 2018-323-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2019-06-02 | 2018-323-20-22.10 | 561/2023. (XII. 14.) Korm. rendelet |

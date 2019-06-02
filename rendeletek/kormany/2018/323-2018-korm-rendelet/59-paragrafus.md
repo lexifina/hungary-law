@@ -1,3 +1,3 @@
-## 58. §[^22]
+59. §[^60]
 
-[^22]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
