@@ -1,5 +1,5 @@
-## 13. § A termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet 3. §-a a következő (2) bekezdéssel egészül ki:
-
-## „(2) A termelői csoport tagja által a szőlőültetvényekben végzett zöldszüretre igényelhető támogatásról szóló 22/2019. (V. 31.) AM rendelet alapján igénybe vett támogatás az árbevétel részét képezi.”
+## 13. §[^1]
 
 1. melléklet a 22/2019. (V. 31.) AM rendelethez
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
