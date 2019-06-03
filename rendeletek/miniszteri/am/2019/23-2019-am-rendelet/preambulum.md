@@ -1,0 +1,1 @@
+A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény 28. § (1) bekezdés d) pontjában kapott felhatalmazás alapján – a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 1. pontjában meghatározott feladatkörömben eljárva – a következőket rendelem el:
