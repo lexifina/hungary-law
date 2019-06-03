@@ -16,6 +16,6 @@ g) hibrid fajták esetén a ,,Hibrid'' megnevezés,
 
 h) a ,,Nem véglegesen minősített vetőmag'' felirat,
 
-i)[^130] más tagállamban betakarított vetőmag esetén a hatósági sorszámot.
+i)[^132] más tagállamban betakarított vetőmag esetén a hatósági sorszámot.
 
-[^130]: A 45. § i) pontját a 47/2016. (VII. 15.) FM rendelet 3. §-a iktatta be.
+[^132]: A 45. § i) pontját a 47/2016. (VII. 15.) FM rendelet 3. §-a iktatta be.

@@ -1,5 +1,3 @@
-## 12. §[^46]
-
 ## A szántóföldi vetőmag-szaporítások ellenőrzésének általános követelményei
 
 13. § (1) A szántóföldi vetőmag-szaporítás ellenőrzésének célja annak igazolása, hogy az előállított fajta igazolt vetőmagja egy vagy több generáción keresztül a fajta hiteles alapanyagából, vetőmagjából származik és annak tulajdonságait a felszaporítás során megtartotta.
@@ -12,5 +10,4 @@
 
 (5) Az ellenőrzést végző személynek szakmailag megfelelően képzettnek kell lennie ahhoz, hogy azonosítani tudja a szemlélt növényállomány fajtáját és önálló döntést tudjon hozni a minősítésről.
 
-[^46]: A 12. §-t a 16/2011. (III. 2.) VM rendelet 34. § (2) bekezdése hatályon kívül helyezte.
 [^47]: A 13. § (2) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
