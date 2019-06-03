@@ -1,6 +1,6 @@
 ## 3. A termelői csoportként történő elismerés eljárási rendje
 
-6. § (1) A szövetkezetnek a termelői csoportként történő elismerés iránti kérelmet (a továbbiakban: elismerési kérelem) egy eredeti példányban postai úton kell benyújtani a minisztériumhoz. Az elismerési kérelmet továbbá elektronikus úton is meg kell küldeni a minisztérium honlapján megadott elektronikus levélcímre.
+6. § (1)[^6] A szövetkezetnek a termelői csoportként történő elismerése iránti kérelmét (a továbbiakban: elismerési kérelem), valamint az elismerése visszavonása iránti kérelmét a miniszter részére postai és elektronikus úton kell megküldenie.
 
 (2) Az elismerés iránti kérelemnek az alábbiakat kell tartalmaznia:
 
@@ -14,19 +14,19 @@ d) a kérelmező cégszerűen aláírt nyilatkozata arra vonatkozóan, hogy
 
 da) aláveti magát a nemzeti és közösségi ellenőrzéseknek, különös tekintettel a közpénzek megfelelő felhasználására irányuló ellenőrzésnek, és
 
-db)[^11] a termékértékesítéshez tartozó gazdasági eseményeket úgy könyveli, hogy egyértelműen elkülöníthető legyen az elismerés alá tartozó termék vagy termékcsoport esetében a tagok és a nem tagok által termelt termékek mennyisége, az azok értékesítéséből származó árbevétel, valamint az egyéb árbevétel, és
+db)[^7] a termékértékesítéshez tartozó gazdasági eseményeket úgy könyveli, hogy egyértelműen elkülöníthető legyen az elismerés alá tartozó termék vagy termékcsoport esetében a tagok és a nem tagok által termelt termékek mennyisége, az azok értékesítéséből származó árbevétel, valamint az egyéb árbevétel, és
 
-e)[^12] a tagok által megtermelt, illetve feldolgozott, az elismerés iránti kérelem által meghatározott termék értékesítését igazoló számlákról, felvásárlási jegyekről készített, 4. melléklet szerinti összesítő táblázatot.
+e)[^8] a tagok által megtermelt, illetve feldolgozott, az elismerés iránti kérelem által meghatározott termék értékesítését igazoló számlákról, felvásárlási jegyekről készített „D” adatlapot.
 
-(3)[^13] A termelői csoport üzleti tervéről, az üzleti terv módosításáról, valamint az elismerés iránti kérelemről a miniszter – az általa létrehozott szakértői bizottság (a továbbiakban: bizottság) javaslatának figyelembevételével – dönt. A bizottság tagjait a miniszter kéri fel, és a bizottság működési rendjét a miniszter állapítja meg.
+(3)[^9] A termelői csoport üzleti tervéről, az üzleti terv módosításáról, valamint a termelői csoport elismerése iránti kérelemről a miniszter – az általa létrehozott szakértői bizottság (a továbbiakban: bizottság) javaslatának figyelembevételével – dönt. A bizottság tagjait a miniszter kéri fel, és a bizottság működési rendjét a miniszter állapítja meg.
 
-(4)[^14]
+(4)[^10] A termelői csoport elismerésének visszavonása iránti kérelemről a miniszter dönt.
 
-(5)[^15]
+(5)[^11]
 
-(6)[^16] A miniszter a tartalmi és formai követelményeknek megfelelő elismerési kérelmet elutasítja, ha a kérelmező egy korábban már elismert, működő termelői csoporttal azonos településen, székhelyen, illetve telephelyen, vagy azokkal több mint ötven százalékban átfedő földrajzi területen, azzal azonos termékkörben kívánja tevékenységét folytatni, és ezáltal a termelői összefogásból eredő előnyöket korlátozza.
+(6)[^12] A miniszter a tartalmi és formai követelményeknek megfelelő elismerési kérelmet elutasítja, ha a kérelmező egy korábban már elismert, működő termelői csoporttal azonos településen, székhelyen, illetve telephelyen, vagy azokkal több mint ötven százalékban átfedő földrajzi területen, azzal azonos termékkörben kívánja tevékenységét folytatni, és ezáltal a termelői összefogásból eredő előnyöket korlátozza.
 
-(7)[^17] A miniszter az üzleti terv elfogadásáról a szövetkezet által az 5. § (2) bekezdés e) pontja alapján bemutatott, az alábbi területeken nyújtott versenyképességi szolgáltatások figyelembevételével dönt:
+(7)[^13] A miniszter az üzleti terv elfogadásáról a szövetkezet által az 5. § (2) bekezdés e) pontja alapján bemutatott, az alábbi területeken nyújtott versenyképességi szolgáltatások figyelembevételével dönt:
 
 a) a 2. §-ban foglalt célok elérése és az 5. § (1) bekezdése szerinti prioritásokhoz való hozzájárulás érdekében tervezett intézkedések megvalósításának ütemezése,
 
@@ -42,22 +42,23 @@ f) a megvalósított termelői koncentráció mértéke,
 
 g) tudástranszfer és tagi képzések megvalósítása.
 
-(8)[^18] A termelői csoport kétévente egy alkalommal, de az elismerést követő négy évben legfeljebb összesen kétszer kérheti az üzleti terve 5. § (2) bekezdés e) pontja szerint tervezett intézkedéseket, beruházásokat és fejlesztéseket érintő módosítását, amelynek elfogadásáról a miniszter dönt. Az üzleti terv módosítása iránti kérelmet a 7. § (1) bekezdése szerinti éves beszámoló jelentés benyújtásával egyidejűleg kell benyújtani.
+(8)[^14] Ha az elismerési kérelem nem felel meg a (2) bekezdésben meghatározott feltételeknek, akkor a miniszter egy alkalommal – harminc napos határidő tűzésével – hiánypótlásra szólítja fel a kérelmezőt.
 
-(9)[^19] Ha a termelői csoport nem felel meg az e rendeletben meghatározott elismerési követelményeknek, vagy az üzleti tervben vállalt kötelezettségeit nem teljesíti, akkor a miniszter legfeljebb három hónapos határidő kitűzésével felszólítja a kötelezettségek teljesítésére és figyelmezteti a nem teljesítés jogkövetkezményeire. Ha a jogszerű működés helyreállítása három hónap alatt nem lehetséges, akkor a miniszter azonnal, egyéb esetben a három hónapos teljesítési határidő eredménytelen letelte után vonja vissza az elismerést.
+(9)[^15] Ha a termelői csoport nem felel meg az e rendeletben meghatározott, valamint az alapszabályban foglalt elismerési követelményeknek, vagy az elfogadott üzleti tervét nem megfelelően hajtotta végre, akkor a miniszter legfeljebb három hónapos határidő tűzésével felszólítja az érintett termelői csoportot a jogszerű működés helyreállítására. Ha a határidő leteltét követően a termelői csoport továbbra sem felel meg az elismerési feltételeknek, vagy üzleti tervét nem hajtja végre, akkor a miniszter az elismerést visszavonja. Ha a jogszerű működés helyreállítása három hónap alatt nem lehetséges, akkor a miniszter az elismerést azonnal visszavonja.
 
-(10)[^20] A miniszter a termelői csoport elismeréséről, valamint az elismerés visszavonásáról szóló döntésről – annak másolata megküldésével – tájékoztatja a Magyar Államkincstárt.
+(10)[^16] A miniszter a termelői csoport elismeréséről, valamint az elismerés visszavonásáról szóló döntésről – annak másolata megküldésével – tájékoztatja a Magyar Államkincstárt.
 
-(11)[^21] A (9) bekezdésben meghatározott szankció a 3. § (1) bekezdés b) pontjában meghatározott feltétel vonatkozásában csak annak két egymást követő évben történő nem teljesítése esetén kerül alkalmazásra.
+(11)[^17] A 3. § (1) bekezdés b) pontjában meghatározott feltétel két egymást követő évben történő nem teljesítése esetén a miniszter az elismerést visszavonja.
 
-[^11]: A 6. § (2) bekezdés d) pont db) alpontja a 22/2017. (IV. 26.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^12]: A 6. § (2) bekezdés e) pontját a 22/2017. (IV. 26.) FM rendelet 14. § (1) bekezdése iktatta be.
-[^13]: A 6. § (3) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^14]: A 6. § (4) bekezdését a 22/2017. (IV. 26.) FM rendelet 19. §-a hatályon kívül helyezte.
-[^15]: A 6. § (5) bekezdését a 22/2017. (IV. 26.) FM rendelet 19. §-a hatályon kívül helyezte.
-[^16]: A 6. § (6) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^17]: A 6. § (7) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^18]: A 6. § (8) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^19]: A 6. § (9) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^20]: A 6. § (10) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^21]: A 6. § (11) bekezdését a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdése iktatta be.
+[^6]: A 6. § (1) bekezdése a 23/2019. (V. 31.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: A 6. § (2) bekezdés d) pont db) alpontja a 22/2017. (IV. 26.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (2) bekezdés e) pontját a 22/2017. (IV. 26.) FM rendelet 14. § (1) bekezdése iktatta be, szövege a 23/2019. (V. 31.) AM rendelet 8. § b) pontja szerint módosított szöveg.
+[^9]: A 6. § (3) bekezdése a 23/2019. (V. 31.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. § (4) bekezdését a 22/2017. (IV. 26.) FM rendelet 19. §-a hatályon kívül helyezte, újonnan a 23/2019. (V. 31.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^11]: A 6. § (5) bekezdését a 22/2017. (IV. 26.) FM rendelet 19. §-a hatályon kívül helyezte.
+[^12]: A 6. § (6) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^13]: A 6. § (7) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^14]: A 6. § (8) bekezdése a 23/2019. (V. 31.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^15]: A 6. § (9) bekezdése a 23/2019. (V. 31.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^16]: A 6. § (10) bekezdése a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^17]: A 6. § (11) bekezdését a 22/2017. (IV. 26.) FM rendelet 14. § (3) bekezdése iktatta be, szövege a 23/2019. (V. 31.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.

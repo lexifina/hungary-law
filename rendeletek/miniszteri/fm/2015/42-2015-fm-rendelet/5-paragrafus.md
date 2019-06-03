@@ -1,25 +1,27 @@
-5. § (1)[^8] A szövetkezetnek a termelői csoportként történő elismeréshez négy évre kidolgozott üzleti terv keretében be kell mutatnia a tevékenységét és a 2. §-ban meghatározott célok elérésére tervezett intézkedéseit, valamint az 1305/2013/EU rendelet 5. cikkében felsorolt prioritásokhoz való hozzájárulás módját.
+5. §[^5] (1) A szövetkezetnek a termelői csoportként történő elismeréséhez és működéséhez négy évre kidolgozott üzleti terv keretében kell bemutatnia a tevékenységét és a 2. §-ban meghatározott célok elérésére tervezett intézkedéseit, valamint az 1305/2013/EU rendelet 5. cikkében felsorolt prioritásokhoz való hozzájárulásának módját.
 
-(2) Az üzleti tervnek az alábbiakat kell tartalmaznia:
+(2) Az üzleti terv az alábbiakat tartalmazza:
 
 a) az üzleti terv célkitűzéseit röviden és áttekinthetően bemutató vezetői összefoglaló,
 
-b) a szövetkezet gazdálkodási előzményeinek, területi elhelyezkedésének, erőforrásainak bemutatása,
+b) a szövetkezet és tagjai gazdálkodási előzményeinek, területi elhelyezkedésének, erőforrásainak bemutatása,
 
-c) az értékesítési módszerek és a tervezett közös – különösen másodlagos szövetkezeti integráción keresztül megvalósuló – tevékenységek bemutatása,
+c) az értékesítési módszerek és a tervezett közös – különösen másodlagos szövetkezeti integráción keresztül megvalósuló – tevékenységek részletes bemutatása, különös figyelemmel az értékesítés irányára, módszerére és a kereskedelmi partnerek megnevezésére,
 
-d) a szervezeti felépítés bemutatása,
+d) annak bemutatása, hogy a termelői csoport megalakulásával a termelői koncentráció – figyelemmel az ágazatra, a termelési sajátosságokra, az érintett tagkörre és a földrajzi elhelyezkedésre – a termelői csoport megalakulását megelőző állapothoz viszonyítva növekedett,
 
-e)[^9] a 2. §-ban foglalt célok elérése és az (1) bekezdésben meghatározott prioritásokhoz való hozzájárulás érdekében tervezett intézkedések, beruházások és fejlesztések bemutatása éves ütemezésben,
+e) azon intézkedések, beruházások és fejlesztések éves ütemezésű, részletes bemutatása, amelyek a 2. §-ban foglalt célok elérését és az 1305/2013/EU rendelet 5. cikkében felsorolt prioritásokhoz való hozzájárulást célozzák (időrendi táblázat csatolásával),
 
 f) a pénzügyi terv bemutatása,
 
-g)[^10]
+g) annak bemutatása, hogy az e) pont szerinti intézkedések, beruházások és fejlesztések – a kapacitás és a földrajzi szempontok figyelembevételével – a teljes tagság érdekeit szolgálják,
 
-h) a 2. melléklet szerinti „A” vagy „B” adatlap, valamint
+h) „A” adatlap (termelői csoport megnevezése, tag neve, azonosítója és a termelői csoportba történő belépés dátuma, gazdálkodásának helye, a tag által használt földterület nagysága, az adott évben termelt és a termelői csoportnak értékesített termékcsoport szerinti termék mennyisége és termelési értéke, az adott évben nem értékesítő tagnál az értékesítés elmaradásának indoka) vagy „B” adatlap (termelői csoport megnevezése, tag neve, azonosítója és a termelői csoportba történő belépés dátuma, gazdálkodásának helye, a tag által használt állattartó telep nagysága és az adott évben termelt és a termelői csoportnak értékesített termékcsoport szerinti termék mennyisége és termelési értéke, valamint az adott évben nem értékesítő tagnál az értékesítés elmaradásának indoka),
 
-i) a szövetkezet azonosító adatai és a gazdálkodásra vonatkozó adatok bemutatása a 3. melléklet szerinti tartalommal, az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett formában.
+i) „C” adatlap (termelésre, értékesítésre, árbevételre, működésre vonatkozó adatok a tárgyévet megelőző egy év, a tárgyév és a tárgyévet követő három évre vonatkozóan) és
 
-[^8]: Az 5. § (1) bekezdése a 22/2017. (IV. 26.) FM rendelet 18. § a) pontja szerint módosított szöveg.
-[^9]: Az 5. § (2) bekezdés e) pontja a 22/2017. (IV. 26.) FM rendelet 13. §-ával megállapított szöveg.
-[^10]: Az 5. § (2) bekezdés g) pontját a 22/2017. (IV. 26.) FM rendelet 19. §-a hatályon kívül helyezte.
+j) „D” adatlap (termelői csoport számára értékesített termékhez kapcsolódó számlák, felvásárlási jegyek adatai).
+
+(3) A (2) bekezdés h)–j) pontja szerinti adatlapokra vonatkozó nyomtatványokat az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzéteszi.
+
+[^5]: Az 5. § a 23/2019. (V. 31.) AM rendelet 2. §-ával megállapított szöveg.
