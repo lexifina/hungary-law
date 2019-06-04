@@ -1,14 +1,14 @@
-66. §[^253] (1) A lejtő lejtésének mértéke
+66. §[^257] (1) A lejtő lejtésének mértéke
 
 a) a gyalogos közlekedés útvonalán legfeljebb 8%-os,
 
 b) a rendszeres kézierős teherszállítás útvonalán legfeljebb 10%-os,
 
-c)[^254] szabadban legfeljebb 15%-os
+c)[^258] szabadban legfeljebb 15%-os
 
 lehet.
 
-(2)[^255] Akadálymentes közlekedéshez a lejtőt és a rámpát úgy kell tervezni és megvalósítani, hogy
+(2)[^259] Akadálymentes közlekedéshez a lejtőt és a rámpát úgy kell tervezni és megvalósítani, hogy
 
 a) a legfeljebb 17 cm-es szintkülönbség áthidalásához legfeljebb 8%-os (1:12) lejtésű legyen,
 
@@ -26,6 +26,6 @@ g) szabadban csapadéktól védetten, ennek hiányában megfelelő csúszásgát
 
 h) építményen belül a többkarú lejtő, rámpa legfeljebb 1,80 m szintkülönbséget hidalhat át.
 
-[^253]: A 66. §-t megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 7. pontja hatályon kívül helyezte.
-[^254]: A 66. § (1) bekezdés c) pontját a 211/2012. (VII. 30.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^255]: A 66. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^257]: A 66. §-t megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 7. pontja hatályon kívül helyezte.
+[^258]: A 66. § (1) bekezdés c) pontját a 211/2012. (VII. 30.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^259]: A 66. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

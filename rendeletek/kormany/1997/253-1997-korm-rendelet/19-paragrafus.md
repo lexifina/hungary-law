@@ -1,11 +1,11 @@
 ## Kereskedelmi, szolgáltató terület
 
-19. § (1)[^57] A kereskedelmi, szolgáltató terület elsősorban környezetre jelentős hatást nem gyakorló gazdasági tevékenységi célú épületek elhelyezésére szolgál.
+19. § (1)[^59] A kereskedelmi, szolgáltató terület elsősorban környezetre jelentős hatást nem gyakorló gazdasági tevékenységi célú épületek elhelyezésére szolgál.
 
-(2)[^58] A kereskedelmi, szolgáltató területen önálló lakó rendeltetésű épület nem helyezhető el, de a gazdasági tevékenységi célú épületen belül a tulajdonos, a használó és a személyzet számára szolgáló lakás kialakítható.
+(2)[^60] A kereskedelmi, szolgáltató területen önálló lakó rendeltetésű épület nem helyezhető el, de a gazdasági tevékenységi célú épületen belül a tulajdonos, a használó és a személyzet számára szolgáló lakás kialakítható.
 
-(3)[^59]
+(3)[^61]
 
-[^57]: A 19. § (1) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^58]: A 19. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^59]: A 19. § (3) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.
+[^59]: A 19. § (1) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^60]: A 19. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^61]: A 19. § (3) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 10. pontja hatályon kívül helyezte.

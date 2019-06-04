@@ -1,6 +1,6 @@
-## Településközpont terület[^52]
+## Településközpont terület[^54]
 
-16. §[^53] (1) A településközpont terület elsősorban lakó és olyan települési szintű egyéb rendeltetést szolgáló épület elhelyezésére szolgál, amely nincs zavaró hatással a lakó rendeltetésre.
+16. §[^55] (1) A településközpont terület elsősorban lakó és olyan települési szintű egyéb rendeltetést szolgáló épület elhelyezésére szolgál, amely nincs zavaró hatással a lakó rendeltetésre.
 
 (2) A településközpont területen elhelyezhető épület – a lakó rendeltetésen kívül – :
 
@@ -18,5 +18,5 @@ f) sport
 
 rendeltetést is tartalmazhat.
 
-[^52]: A 16. §-t megelőző alcím a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^53]: A 16. § a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^54]: A 16. §-t megelőző alcím a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^55]: A 16. § a 90/2012. (IV. 26.) Korm. rendelet 11. §-ával megállapított szöveg.

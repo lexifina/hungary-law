@@ -1,3 +1,3 @@
-83. §[^312]
+83. §[^316]
 
-[^312]: A 83. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 11. pontja hatályon kívül helyezte.
+[^316]: A 83. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 11. pontja hatályon kívül helyezte.

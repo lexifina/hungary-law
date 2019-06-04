@@ -1,6 +1,6 @@
 ## Vízgazdálkodási terület
 
-30. §[^92] (1) A vízgazdálkodással összefüggő területek:
+30. §[^96] (1) A vízgazdálkodással összefüggő területek:
 
 1. a folyóvizek medre és parti sávja,
 
@@ -10,14 +10,14 @@
 
 4. a közcélú nyílt csatornák medre és parti sávja,
 
-5.[^93] a vízbázis területek,
+5.[^97] a vízbázis területek,
 
 6. a hullámterek,
 
-7.[^94]
+7.[^98]
 
 (2) A területen építményt elhelyezni csak a külön jogszabályokban foglaltak szerint lehet.
 
-[^92]: A 30. § és az azt megelőző alcím a 36/2002. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
-[^93]: A 30. § (1) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése, a 90/2012. (IV. 26.) Korm. rendelet 31. § 17. pontja, valamint a 32. § 17. pontja szerint módosított szöveg.
-[^94]: A 30. § (1) bekezdés 7. pontját a 90/2012. (IV. 26.) Korm. rendelet 31. § 18. pontja hatályon kívül helyezte.
+[^96]: A 30. § és az azt megelőző alcím a 36/2002. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
+[^97]: A 30. § (1) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése, a 90/2012. (IV. 26.) Korm. rendelet 31. § 17. pontja, valamint a 32. § 17. pontja szerint módosított szöveg.
+[^98]: A 30. § (1) bekezdés 7. pontját a 90/2012. (IV. 26.) Korm. rendelet 31. § 18. pontja hatályon kívül helyezte.
