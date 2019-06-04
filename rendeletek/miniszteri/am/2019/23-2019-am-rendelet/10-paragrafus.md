@@ -1,1 +1,3 @@
-## 9. § Hatályát veszti a 42/2015. (VII. 22.) FM rendelet 2., 3. és 4. melléklete.
+## 1–9. §[^2]
+
+[^2]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
