@@ -26,5 +26,12 @@ b) kulturális javak esetében az e rendeletben foglaltak szerint kijelölt áll
 
 (6)[^5] A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (26) bekezdésében meghatározott örökségvédelmi hatóságként az (1) bekezdés a) pontjában meghatározott hatóság jár el.
 
+(7)[^6] A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
+
+a) közreműködik a miniszter kulturális örökségvédelmi és világörökségi nem hatósági feladatainak ellátásában, és
+
+b) jogosult a miniszter nyilvántartási hatósági feladatai körében, a régészeti örökségre és műemléki értékre vonatkozó hatósági eljárásokban szemlét lefolytatni, ingatlanra vonatkozó adatellenőrzést és adatrögzítést végezni, valamint a miniszter megkeresésére szakértőként eljárni.
+
 [^4]: A 3. § (3) bekezdése a 62/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^5]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A 3. § (7) bekezdését a 121/2019. (V. 27.) Korm. rendelet 23. §-a iktatta be.

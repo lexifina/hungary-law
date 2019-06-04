@@ -4,7 +4,7 @@ a) a feltárás megkezdésének bejelentéséről
 
 aa) engedélyköteles feltárás esetén a 6. mellékletben meghatározott adattartalmú formanyomtatványon a régészeti feltárás megkezdése előtt két nappal,
 
-ab)[^9] bejelentésköteles feltárás esetén a 29. § (1) bekezdésében meghatározott módon,
+ab)[^10] bejelentésköteles feltárás esetén a 29. § (1) bekezdésében meghatározott módon,
 
 b) a régészeti feltárás jogszabálynak, valamint a miniszter által közzétett szakmai irányelveknek megfelelő elvégzéséről,
 
@@ -26,4 +26,4 @@ g) a feltárás helye szerinti gyűjtőterülettel rendelkező múzeum értesít
 
 (5) A régészeti feltárás nem minősül építési tevékenységnek.
 
-[^9]: A 22. § (1) bekezdés a) pont ab) alpontja a 134/2018. (VII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^10]: A 22. § (1) bekezdés a) pont ab) alpontja a 134/2018. (VII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
