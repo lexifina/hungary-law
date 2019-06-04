@@ -1,4 +1,4 @@
-2. melléklet a 16/2010. (II. 5.) Korm. rendelethez[^27]
+2. melléklet a 16/2010. (II. 5.) Korm. rendelethez[^24]
 
 A területrendezési hatósági eljárások éves összesítő táblázatának kötelező adattartalma
 
@@ -30,4 +30,4 @@ A területrendezési hatósági eljárások éves összesítő táblázatának k
 
 * Több állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal illetékesség esetén.
 
-[^27]: A 2. mellékletet a 343/2016. (XI. 17.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^24]: A 2. mellékletet a 343/2016. (XI. 17.) Korm. rendelet 16. § (2) bekezdése iktatta be.

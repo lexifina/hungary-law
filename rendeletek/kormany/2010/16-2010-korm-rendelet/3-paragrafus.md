@@ -10,7 +10,7 @@
 
 (6) Az (1)–(5) bekezdés szerinti dokumentációkat elektronikus úton az ISO 32000 – 1:2008 szabványnak megfelelő PDF (Portable Document Format) formátumban kell a Dokumentációs Központnak 100 MB terjedelemig elektronikus úton a központi elektronikus szolgáltató rendszeren keresztül, 100 MB terjedelem felett egyszer írható elektronikus adathordozón postai úton megküldeni.
 
-(7)[^14] Az 1. § a) pont ac) és ad) alpontja szerinti dokumentációk elfogadott rajzi munkarészei esetében a dokumentumokat – az R.-ben meghatározott követelményeknek megfelelően, az R. 7. mellékletében felsorolt térségi területfelhasználási kategóriákat, műszaki infrastruktúra-hálózatokat és egyedi építményeket, valamint a térségi övezeteket önálló rétegen (layer) ábrázolva – SHP (shapefile) vagy az ISO 19136:2007 szabványnak megfelelő GML (Geography Markup Language) formátumban kell a Dokumentációs Központ részére 100 MB terjedelemig elektronikus úton a központi elektronikus szolgáltató rendszeren keresztül, 100 MB terjedelem felett egyszer írható elektronikus adathordozón postai úton megküldeni. A rajzi munkarészeket az ISO 32000 – 1:2008 szabványnak megfelelő PDF (Portable Document Format) formátumban is meg kell küldeni a GML formátumok használata során történő egyértelmű megfeleltetés érdekében.
+(7)[^14] Az 1. § a) pont ac) és ad) alpontja szerinti dokumentációk elfogadott rajzi munkarészei esetében a dokumentumokat az R.-ben meghatározott követelményeknek, valamint a területrendezésért felelős miniszter részéről a www.e-epites.hu honlapon közzétett, a területrendezési tervek téradat-rétegei műszaki követelményeinek megfelelően kell megküldeni a Dokumentációs Központ részére, 100 MB terjedelemig elektronikus úton a központi elektronikus szolgáltató rendszeren keresztül, 100 MB terjedelem felett egyszer írható elektronikus adathordozón, postai úton.
 
 (8) Az (1), (3) és (5) bekezdés szerinti dokumentációkat papíralapon is meg kell küldeni a Dokumentációs Központnak.
 
@@ -34,23 +34,11 @@ h) a különleges kezelésre való utalás.
 
 (10)[^15] Az 1. § g)–h) pontja szerinti dokumentációt a kidolgozásért felelős szerv az elfogadást követő 90 napon belül elektronikus úton megküldi a Dokumentációs Központnak.
 
-(11)[^16] A kiemelt térségi és megyei területrendezési tervek elfogadott rajzi munkarészeit tartalmazó fedvények digitális vektoros állományának (7) bekezdésben leírt GML formátumú dokumentációját az alábbiak szerint kell elkészíteni:
-
-a)[^17] A területrendezési tervek térségi szerkezeti tervében szereplő térségi területfelhasználást a térségi területfelhasználási kategóriák átfedése nélkül, topológiailag helyesen, egy rétegben kell vektoros formátumban dokumentálni. Az összetartozó – azonos területfelhasználási kategóriákhoz tartozó – területeket településenként egyesíteni szükséges. A térségi területfelhasználási kategóriákat tartalmazó fedvényeket az R. 8. melléklete szerinti műszaki követelmények szerint kell elkészíteni.
-
-b)[^18] A területrendezési tervek térségi szerkezeti tervében szereplő műszaki infrastruktúra-hálózatok elemeit településenként szakaszolva és tényleges elhelyezkedésének megfelelően, kategóriánként egy rétegben kell vektoros állományban dokumentálni. A műszaki infrastruktúra-hálózatokat tartalmazó fedvényeket az R. 8. melléklete szerinti műszaki követelmények szerint kell elkészíteni.
-
-c)[^19] A területrendezési tervek szerkezeti tervében szereplő műszaki infrastruktúra egyedi építményeket tartalmazó kategóriánként kialakított fedvényeket az R. 8. melléklete szerinti műszaki követelmények szerint kell elkészíteni. A Vásárhelyi-terv továbbfejlesztése (VTT) keretében megvalósuló vízkárelhárítási célú szükségtározó, az országos vízkárelhárítási célú tározó, az 1 millió m3-t meghaladó térfogatú vízkárelhárítási célú tározás és fejlesztési lehetősége esetében az összetartozó területeket településenként egyesíteni szükséges.
-
-d)[^20] A területrendezési tervek térségi övezeteit településenként összegezve kell övezetenként kialakított rétegben a vektoros állományban dokumentálni. Az összetartozó – egy tervlapon ábrázolt – térségi övezeteket átfedés nélkül kell a vektoros állományban dokumentálni. A térségi övezeteket tartalmazó fedvényeket az R. 8. melléklete szerinti műszaki követelmények szerint kell elkészíteni.
+(11)[^16]
 
 [^11]: A 3. § (2) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § (3) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 285. § b)–c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^13]: A 3. § (5) bekezdése a 67/2012. (IV. 5.) Korm. rendelet 25. § (4) bekezdésével megállapított, a 343/2016. (XI. 17.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^14]: A 3. § (7) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 17. § c) pontja, a 217/2018. (XI. 27.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^14]: A 3. § (7) bekezdése a 121/2019. (V. 27.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^15]: A 3. § (10) bekezdését a 37/2010. (II. 26.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^16]: A 3. § (11) bekezdését a 343/2016. (XI. 17.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^17]: A 3. § (11) bekezdés a) pontja a 217/2018. (XI. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^18]: A 3. § (11) bekezdés b) pontja a 217/2018. (XI. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^19]: A 3. § (11) bekezdés c) pontja a 217/2018. (XI. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^20]: A 3. § (11) bekezdés d) pontja a 217/2018. (XI. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^16]: A 3. § (11) bekezdését a 343/2016. (XI. 17.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 22. § a) pontja.
