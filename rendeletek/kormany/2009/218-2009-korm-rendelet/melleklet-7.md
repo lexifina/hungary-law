@@ -1,3 +1,3 @@
-7. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^63]
+7. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^86]
 
-[^63]: A 7. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^86]: A 7. melléklet a 121/2019. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.

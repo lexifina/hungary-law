@@ -1,4 +1,4 @@
-1. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^56]
+1. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^75]
 
 ## A kiemelt térségi és a megyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a megyei területrendezési terv közös feltáró-értékelő vizsgálatának tartalmi követelményei
 
@@ -22,7 +22,7 @@ ac) termőföld- és talajvédelem,
 
 ad) vízvédelem (felszíni és felszín alatti vízkészletek, vízminőség),
 
-ae) épített környezeti és a kulturális örökségi értékek (építészeti örökség, régészeti örökség, műemléki értékek, emlékhelyek),
+ae)[^76] épített környezeti és a kulturális örökségi értékek (építészeti örökség, régészeti örökség, műemléki értékek, nemzeti és történelmi emlékhelyek),
 
 af) világörökségi és világörökségi várományos területek,
 
@@ -98,7 +98,7 @@ i) a táj terhelésének és terhelhetőségének meghatározása.
 
 2.1. A térséget érintő ágazati koncepciók, területfejlesztési elképzelések és hatályos területi tervek áttekintése:
 
-a) az OTK térséget érintő vonatkozásai,
+a)[^77] az OFTK térséget érintő vonatkozásai,
 
 b) a térséget érintő kiemelt térség területfejlesztési tervei,
 
@@ -146,4 +146,6 @@ a) a térség erősségeinek, gyengeségeinek, lehetőségeinek és a térséget
 
 b) a térség lehetséges fejlesztési irányainak bemutatása, és ezek alapján a lehetséges cselekvési területek azonosítása.
 
-[^56]: Az 1. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^75]: Az 1. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^76]: Az 1. melléklet 1.2. pont a) alpont ae) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § o) pontja szerint módosított szöveg.
+[^77]: Az 1. melléklet 2.1. pont a) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.

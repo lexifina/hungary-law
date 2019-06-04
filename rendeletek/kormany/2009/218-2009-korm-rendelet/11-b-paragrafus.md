@@ -1,4 +1,4 @@
-11/B. §[^29] (1) A megyei területrendezési terv kidolgozásáért felelős megyei önkormányzat a megyei területrendezési terv készítése, illetve módosítása előtt írásban megkeresi a földmérési és térinformatikai államigazgatási szervet a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (5) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 13. melléklet szerinti adatbázisok és adatok biztosítása érdekében.
+11/B. §[^37] (1) A megyei területrendezési terv kidolgozásáért felelős megyei önkormányzat a megyei területrendezési terv készítése, illetve módosítása előtt írásban megkeresi a földmérési és térinformatikai államigazgatási szervet a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (5) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 13. melléklet szerinti adatbázisok és adatok biztosítása érdekében.
 
 (2) Az (1) bekezdés szerinti megkereséshez mellékelni kell
 
@@ -14,4 +14,4 @@ b) a megyei önkormányzat nyilatkozatát arról, hogy az adatbázisokat és az 
 
 (6) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében külön jogszabályban meghatározott módon vizsgálhatja a (3) bekezdés szerint szolgáltatott adatbázisok, adatok hozzáférésének és felhasználásnak jogszerűségét.
 
-[^29]: A 11/B. §-t a 334/2017. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 11/B. §-t a 334/2017. (XI. 9.) Korm. rendelet 1. §-a iktatta be.

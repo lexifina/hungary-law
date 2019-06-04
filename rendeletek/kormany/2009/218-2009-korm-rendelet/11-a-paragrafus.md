@@ -1,4 +1,4 @@
-11/A. §[^28] (1) A területrendezésért felelős miniszter vagy az általa meghatalmazott Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság a területrendezési terv készítése, módosítása előtt írásban megkeresi a földmérési és térinformatikai államigazgatási szervet a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (4), (7) és (8) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 12. melléklet szerinti adatbázisok és adatok biztosítása érdekében.
+11/A. §[^36] (1) A területrendezésért felelős miniszter vagy az általa meghatalmazott Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság a területrendezési terv készítése, módosítása előtt írásban megkeresi a földmérési és térinformatikai államigazgatási szervet a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (4), (7) és (8) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) bekezdése alapján, a 12. melléklet szerinti adatbázisok és adatok biztosítása érdekében.
 
 (2) Az (1) bekezdés szerinti megkereséshez mellékelni kell
 
@@ -20,4 +20,4 @@ b) a 12. mellékletében foglalt táblázat 5–9. soraiban szereplő adatbázis
 
 (6) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szerv, egyéb, nem hálózati adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében külön jogszabályban meghatározott módon vizsgálhatja a (3) bekezdés szerint szolgáltatott adatbázisok, adatok hozzáférésének és felhasználásnak jogszerűségét.
 
-[^28]: A 11/A. §-t a 334/2017. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
+[^36]: A 11/A. §-t a 334/2017. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
