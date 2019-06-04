@@ -96,6 +96,8 @@
 
 | 3. | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-041633 | 2022. december 31. |
 
+| 4. | Gandhi Gimnázium Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 02-09-077830 | 2022. december 31. |
+
 ## IV. Tulajdonosi joggyakorló: az Emberi Erőforrások Minisztériuma
 
 |  | A | B | C |
@@ -120,7 +122,7 @@
 
 | 9. | Gálfi Béla Gyógyító és Rehabilitációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-09-129605 | 2022. december 31. |
 
-| 10. | Gandhi Gimnázium Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 02-09-077830 | 2022. december 31. |
+| 10. | Nemzeti Filharmónia Ingatlanfejlesztési Korlátolt Felelősségű Társaság | 01-09-698948 | 2022. december 31. |
 
 | 11. | Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság | 01-09-884398 | 2022. december 31. |
 
@@ -266,7 +268,7 @@
 
 | 9. | Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság | 01-09-916308 | 2022. december 31. |
 
-| 10. |  |  |  |
+| 10. | Pro Populo Carpathico Nonprofit Korlátolt Felelősségű Társaság | 15-09-085768 | 2022. december 31. |
 
 | 11. | DBC Dél-budai Centrum Projekt Beruházó és Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság | 01-10-049996 | 2022. december 31. |
 
@@ -276,9 +278,11 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | NGM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság | 01-09-295883 | 2022. december 31. |
+| 1. | PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság | 01-09-295883 | 2022. december 31. |
 
 | 2. | OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-191989 | 2022. december 31. |
+
+| 3. | Széchenyi Tőkealap-kezelő Zártkörűen működő Részvénytársaság | 01-10-046411 | 2022. december 31. |
 
 ## XII. Tulajdonosi joggyakorló: a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter
 
@@ -292,4 +296,4 @@
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a szerint módosított szöveg.
