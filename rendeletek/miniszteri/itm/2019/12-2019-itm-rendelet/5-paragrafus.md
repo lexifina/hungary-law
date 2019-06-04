@@ -1,0 +1,1 @@
+## 4. § Az NFM rendelet 6. § (5) bekezdésében a „szolgáltatási díjat naptári negyedévenként utólag” szövegrész helyébe a „szolgáltatási díjat – a (10) bekezdésben foglaltak kivételével – naptári negyedévenként utólag” szöveg lép.
