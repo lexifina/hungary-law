@@ -1,4 +1,3 @@
-## 7. §[^52] E rendeletnek az építési beruházások egyszerűsítése érdekében egyes kormányrendeletek módosításáról szóló 228/2010. (VIII. 13.) Korm. rendelet (a továbbiakban: Mkr.) 4. §-ával megállapított 1. § (1) bekezdés e) pontját, 3. § (4) bekezdés d) pont da) alpontját, 4. § (3) bekezdését, valamint 5. § (1) bekezdés d) pontját az Mkr. hatálybalépését követően[^53] indult vagy megismételt eljárásokban kell alkalmazni.
+## 7. §[^55]
 
-[^52]: A 7. § a 228/2010. (VIII. 13.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^53]: A hatálybalépés napja: 2010. augusztus 28.
+[^55]: A 7. §-t a 121/2019. (V. 27.) Korm. rendelet 9. § f) pontja hatályon kívül helyezte.
