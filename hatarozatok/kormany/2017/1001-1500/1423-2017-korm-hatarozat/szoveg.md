@@ -24,7 +24,7 @@ Határidő: azonnal
 
 a) a sportról szóló 2004. évi I. törvény 50. § (3) bekezdés d) pontja alapján a Nemzetközi Úszó Szövetség felé rendezésre vonatkozó sportszakmai és pénzügyi garanciát vállal a 2024. évi 17. FINA Rövidpályás Úszó Világbajnokság sikeres megrendezéséhez;
 
-b) felhívja az emberi erőforrások miniszterét, hogy – a nemzetgazdasági miniszter bevonásával – gondoskodjon a 2024. évi 17. FINA Rövidpályás Úszó Világbajnokság rendezési jogának elnyerése esetén a megrendezéséhez szükséges 2 millió USD-nak megfelelő forint rendezési jogdíj, valamint a rendezési költség fedezetéül szolgáló forrás biztosításáról a 2021., 2022., 2023. és 2024. évi központi költségvetés Emberi Erőforrások Minisztériuma fejezetében a Versenysport támogatása elnevezésű fejezeti kezelésű előirányzaton;
+b)[^1]
 
 Felelős: emberi erőforrások minisztere
 
@@ -43,3 +43,5 @@ Határidő: a pályázat elnyerése esetén azonnal
 Felelős: miniszterelnök
 
 Határidő: azonnal
+
+[^1]: A 4. pont b) alpontját az 1328/2019. (VI. 5.) Korm. határozat 9. pontja visszavonta.
