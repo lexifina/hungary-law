@@ -4,7 +4,7 @@
 
 1. Pilisi Tájvédelmi Körzet
 
-[Az Országos Környezet- és Természetvédelmi Hivatal elnökének 1/1978. OKTH határozata a Pilisi Tájvédelmi Körzet létesítéséről, a környezetvédelmi és területfejlesztési miniszter[^4] 20/1992. (XI. 6.) KTM rendelete a Pilisi Tájvédelmi Körzet bővítéséről és egyes területeinek fokozottan védetté nyilvánításáról, továbbá a környezetvédelmi és területfejlesztési miniszter 24/1996. (X. 9.) KTM rendelete a Pilisi Tájvédelmi Körzet bővítéséről és egyes helyrajzi számainak módosításáról.]
+[Az Országos Környezet- és Természetvédelmi Hivatal elnökének 1/1978. OKTH határozata a Pilisi Tájvédelmi Körzet létesítéséről, a környezetvédelmi és területfejlesztési miniszter[^5] 20/1992. (XI. 6.) KTM rendelete a Pilisi Tájvédelmi Körzet bővítéséről és egyes területeinek fokozottan védetté nyilvánításáról, továbbá a környezetvédelmi és területfejlesztési miniszter 24/1996. (X. 9.) KTM rendelete a Pilisi Tájvédelmi Körzet bővítéséről és egyes helyrajzi számainak módosításáról.]
 
 2. Börzsönyi Tájvédelmi Körzet
 
@@ -42,4 +42,4 @@
 
 [Tahitótfalu Községi Önkormányzat 6/1992. (VII. 24.) sz. rendelete a község természeti területeinek helyi védetté nyilvánításáról.]
 
-[^4]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének e) pontját.
+[^5]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének e) pontját.
