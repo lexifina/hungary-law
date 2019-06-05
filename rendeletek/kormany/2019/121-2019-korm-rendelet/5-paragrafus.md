@@ -1,3 +1,5 @@
-## 4. § Hatályát veszti az OTÉK 25. § (2) bekezdése.
+## 1–4. §[^1]
 
 ## 2. A területrendezési hatósági eljárásokról szóló 76/2009. (IV. 8.) Korm. rendelet módosítása
+
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
