@@ -20,11 +20,7 @@
 
 ## a b) alpont tekintetében a központi költségvetés tervezése során
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4a) bekezdése és (4b) bekezdés a) pontjában biztosított jogkörében eljárva jóváhagyja, hogy a nemzeti fejlesztési miniszter a 2017–2018. évek vonatkozásában az előirányzat terhére, a megvalósítás érdekében a 2. pontban megjelölt összeg pénzügyi tranzakciós illetékkel és a kapcsolódó kincstári díjakkal csökkentett összegének mértékéig, összesen legfeljebb bruttó 191,4 millió forint összegben kötelezettséget vállaljon.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: azonnal
+## 3.[^1]
 
 1. melléklet az 1866/2016. (XII. 28.) Korm. határozathoz
 
@@ -39,3 +35,5 @@ Az egyes gazdaságfejlesztési beruházásokhoz kapcsolódó, a Magyar Közút N
 | 2. | 3210. számú út felújítása, a Karácsondi út és az M3-as autópálya közötti szakaszon körforgalom kialakítása – előkészítés |
 
 | 3. | 4405. és 4406. jelű utak felújítása – előkészítés |
+
+[^1]: A 3. pontot az 1330/2019. (VI. 5.) Korm. határozat c) pontja visszavonta.
