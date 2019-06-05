@@ -1,6 +1,6 @@
 ## 1. egyetért a Budapest–Varsó nagysebességű vasútvonal előkészítésével;
 
-## 2. az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a) pontja szerinti előkészítési fázisára – a kifizetéshez kapcsolódó pénzügyi tranzakciós illeték és kincstári díj összegével együtt – 500 000 000 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy – figyelemmel az 5. pontban meghatározott 2019. évi forrásrész felhasználására is – az előkészítési fázist legkésőbb 2019. december 31-éig kell megvalósítani;
+## 2.[^1] az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a) pontja szerinti előkészítési fázisára – a kifizetéshez kapcsolódó pénzügyi tranzakciós illeték és kincstári díj összegével együtt – 500 000 000 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy – figyelemmel az 5. pontban meghatározott 2019. évi forrásrész felhasználására is – az előkészítési fázist legkésőbb 2021. március 31-ig kell megvalósítani;
 
 ## 3. az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként a nemzeti fejlesztési minisztert jelöli ki;
 
@@ -32,19 +32,19 @@
 
 ## 7. felhívja a nemzeti fejlesztési minisztert, hogy
 
-## a) készítsen jelentést a Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázis végrehajtásának állapotáról, valamint a felhasznált forrás összegéről;
+## a)[^2] készítsen jelentést a Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázis végrehajtásának állapotáról, valamint a felhasznált forrás összegéről;
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2020. január 31.
+## Határidő: 2021. április 30.
 
-## b) az előkészítési fázis eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
+## b)[^3] az előkészítési fázis eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2020. március 15.
+## Határidő: 2021. június 30.
 
-## 8–9.[^1]
+## 8–9.[^4]
 
 1. melléklet az 1174/2018. (III. 28.) Korm. határozathoz
 
@@ -120,4 +120,7 @@ forintban
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1332/2019. (VI. 5.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: A 7. pont a) alpontja az 1332/2019. (VI. 5.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^3]: A 7. pont b) alpontja az 1332/2019. (VI. 5.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^4]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
