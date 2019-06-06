@@ -14,4 +14,6 @@ Felelős: pénzügyminiszter, innovációért és technológiáért felelős min
 
 Határidő: az Innovációs és Technológiai Minisztérium általi befizetést követően azonnal
 
-c) visszavonja a Korm. határozat 3. pontját.
+c)[^1]
+
+[^1]: A c) pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
