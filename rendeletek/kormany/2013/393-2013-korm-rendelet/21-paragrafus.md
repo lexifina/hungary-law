@@ -1,8 +1,8 @@
-21. § (1)[^72] A felnőttképzést folytató intézmény engedélyének részbeni vagy teljes visszavonása esetén az engedély visszavonásáról szóló határozatnak tartalmaznia kell a 20. § (2) bekezdése szerinti kimutatás nyolc napon belül történő benyújtására vonatkozó felhívást. A kormányhivatal a továbbiakban a vagyoni biztosíték felhasználására vonatkozóan a 20. § (4) és (5) bekezdésében foglaltak szerint jár el.
+21. § (1)[^73] A felnőttképzést folytató intézmény engedélyének részbeni vagy teljes visszavonása esetén az engedély visszavonásáról szóló határozatnak tartalmaznia kell a 20. § (2) bekezdése szerinti kimutatás nyolc napon belül történő benyújtására vonatkozó felhívást. A kormányhivatal a továbbiakban a vagyoni biztosíték felhasználására vonatkozóan a 20. § (4) és (5) bekezdésében foglaltak szerint jár el.
 
-(2)[^73] Ha a felnőttképzést folytató intézményt a kormányhivatal a nyilvántartásból törli és az intézmény a vagyoni biztosítékkal kapcsolatos minden kötelezettségét – a 18. § (5) bekezdés a) pontja szerinti értesítés alapján – teljesítette, a kormányhivatal jóváhagyja a vagyoni biztosíték megszüntetését.
+(2)[^74] Ha a felnőttképzést folytató intézményt a kormányhivatal a nyilvántartásból törli és az intézmény a vagyoni biztosítékkal kapcsolatos minden kötelezettségét – a 18. § (5) bekezdés a) pontja szerinti értesítés alapján – teljesítette, a kormányhivatal jóváhagyja a vagyoni biztosíték megszüntetését.
 
-(3)[^74] Ha a felnőttképzést folytató intézmény
+(3)[^75] Ha a felnőttképzést folytató intézmény
 
 a) nem tesz eleget a 20. § (1) bekezdésében foglalt bejelentési kötelezettségének,
 
@@ -22,6 +22,6 @@ c) a befizető számára igényelt összeg nagyságának megjelölését, és
 
 d) a képzésben résztvevő személlyel megkötött felnőttképzési szerződések másolatát.
 
-[^72]: A 21. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 25. § (6) bekezdés c) pontja szerint módosított szöveg.
-[^73]: A 21. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés b) pontja szerint módosított szöveg.
-[^74]: A 21. § (3) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^73]: A 21. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 25. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^74]: A 21. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^75]: A 21. § (3) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés a) pontja szerint módosított szöveg.

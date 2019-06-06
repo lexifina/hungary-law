@@ -1,10 +1,10 @@
-## 28/A. §[^102] Az 5. § (1) bekezdés e) pontjában felsorolt nyilatkozatokat kivéve az engedélyezési eljárásban, továbbá az ellenőrzési eljárásban az ügyfél nyilatkozatával nem pótolhatja a hiányzó bizonyítékot.
+## 28/A. §[^103] Az 5. § (1) bekezdés e) pontjában felsorolt nyilatkozatokat kivéve az engedélyezési eljárásban, továbbá az ellenőrzési eljárásban az ügyfél nyilatkozatával nem pótolhatja a hiányzó bizonyítékot.
 
-29. §[^103] (1)[^104] A kormányhivatal az Fktv. 20. § (5) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés c) pontjában meghatározott jogalany
+29. §[^104] (1)[^105] A kormányhivatal az Fktv. 20. § (5) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
 1. határidőben nem tett eleget a 11. § (6) bekezdése szerinti bejelentési kötelezettségének,
 
-2.[^105] az ellenőrzés vagy szakértői vizsgálat során nem bocsátott az ellenőrzést vagy a szakértői vizsgálatot végző személy rendelkezésére jogszabályban előírt dokumentumot,
+2.[^106] az ellenőrzés vagy szakértői vizsgálat során nem bocsátott az ellenőrzést vagy a szakértői vizsgálatot végző személy rendelkezésére jogszabályban előírt dokumentumot,
 
 3. engedélyezett képzésének képzési programjában nem végezte el a 15. § (1) bekezdése alapján kötelezően előírt módosításokat,
 
@@ -32,7 +32,7 @@ d) d) pontja szerinti képzés esetén az érintett képzés kompetenciái megsz
 
 11. nem működtet ügyfélszolgálati és panaszkezelési rendszert,
 
-12.[^106] nem rendelkezik a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerint működtetett minőségbiztosítási rendszer dokumentumaival,
+12.[^107] nem rendelkezik a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerint működtetett minőségbiztosítási rendszer dokumentumaival,
 
 13. nem rendelkezik az e rendeletben meghatározott vagyoni biztosítékkal vagy határidőben nem tett eleget a 19. § (2) bekezdésében foglalt kötelezettségeinek,
 
@@ -44,14 +44,14 @@ d) d) pontja szerinti képzés esetén az érintett képzés kompetenciái megsz
 
 17. nem tett eleget a módosított képzési programok megküldésére vonatkozó – e rendelet szerinti – kötelezettségének,
 
-18.[^107] nem végeztette el tevékenységének kétévente kötelező külső értékelését.
+18.[^108] nem végeztette el tevékenységének kétévente kötelező külső értékelését.
 
-(2)[^108] A kormányhivatal az Fktv. 20. § (6a) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói nem felelnek meg az Fktv.-ben foglalt rendelkezéseknek.
+(2)[^109] A kormányhivatal az Fktv. 20. § (6a) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói nem felelnek meg az Fktv.-ben foglalt rendelkezéseknek.
 
-[^102]: A 28/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 462. § (9) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^103]: A 29. § a 360/2015. (XII. 2.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^104]: A 29. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
-[^105]: A 29. § (1) bekezdés 2. pontja a 457/2017. (XII. 28.) Korm. rendelet 463. § n) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^106]: A 29. § (1) bekezdés 12. pontja a 379/2016. (XII. 2.) Korm. rendelet 251. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^107]: A 29. § (1) bekezdés 18. pontját a 307/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.
-[^108]: A 29. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^103]: A 28/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 462. § (9) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^104]: A 29. § a 360/2015. (XII. 2.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^105]: A 29. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^106]: A 29. § (1) bekezdés 2. pontja a 457/2017. (XII. 28.) Korm. rendelet 463. § n) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^107]: A 29. § (1) bekezdés 12. pontja a 379/2016. (XII. 2.) Korm. rendelet 251. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^108]: A 29. § (1) bekezdés 18. pontját a 307/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.
+[^109]: A 29. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 251. § (6) bekezdés c) pontja szerint módosított szöveg.

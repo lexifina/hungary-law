@@ -40,6 +40,6 @@ b) a távolmaradó résztvevők név és óraszám szerinti összesítését,
 
 c) a képzés befejezésének dátumát.
 
-(4)[^78] Az egységes dokumentum elektronikus formában is vezethető, ha az oktatók és a résztvevők a dokumentumot legalább fokozott biztonságú elektronikus aláírással látják el.
+(4)[^79] Az egységes dokumentum elektronikus formában is vezethető, ha az oktatók és a résztvevők a dokumentumot legalább fokozott biztonságú elektronikus aláírással látják el.
 
-[^78]: A 24. § (4) bekezdése a 352/2016. (XI. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^79]: A 24. § (4) bekezdése a 352/2016. (XI. 18.) Korm. rendelet 5. §-ával megállapított szöveg.

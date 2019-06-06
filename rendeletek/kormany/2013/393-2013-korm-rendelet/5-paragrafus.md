@@ -8,7 +8,7 @@ c) a szakmai vezető szakmai vezetésre való alkalmasságát igazoló, pedagóg
 
 d) a vagyoni biztosítékkal való rendelkezést bizonyító, a 18. § (4) bekezdésében foglaltaknak megfelelő szerződést és
 
-e)[^11] a kérelmező vagy a bejelentő nyilatkozatait arról, hogy
+e)[^12] a kérelmező vagy a bejelentő nyilatkozatait arról, hogy
 
 ea) az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzési körbe tartozó képzés elméleti részének oktatása esetén a képzési tartalomnak megfelelő szakos tanári szakképzettséggel, ennek hiányában a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel vagy felsőfokú végzettséggel és a képzés tanulmányi területének megfelelő szakképesítéssel, e képzési körbe tartozó képzés gyakorlati képzésére a képzési tartalomnak megfelelő felsőfokú végzettséggel és szakképzettséggel vagy a képzés tanulmányi területének megfelelő szakképesítéssel és legalább ötéves szakmai gyakorlattal rendelkező oktatókat alkalmaz,
 
@@ -34,10 +34,10 @@ ek) biztosítja az ügyfélszolgálati és panaszkezelési rendszer működteté
 
 el) meghatározta a tartalmilag ellenőrizhető, számszerűsíthető minőségcélokat a kérelem benyújtását követő évre.
 
-(2)[^12] Az Fktv. 1. § (2) bekezdés a)–c) pontja szerinti képzési körbe tartozó képzés folytatására irányuló engedély kiegészítése iránti kérelem vagy bejelentés benyújtása esetén a kérelmezőnek nem kell csatolnia az (1) bekezdés c) és d) pontjában és e) pont eh)–el) alpontjában foglaltakat.
+(2)[^13] Az Fktv. 1. § (2) bekezdés a)–c) pontja szerinti képzési körbe tartozó képzés folytatására irányuló engedély kiegészítése iránti kérelem vagy bejelentés benyújtása esetén a kérelmezőnek nem kell csatolnia az (1) bekezdés c) és d) pontjában és e) pont eh)–el) alpontjában foglaltakat.
 
-(3)[^13] Az Fktv. 1. § (2) bekezdés d) pontja szerinti képzési körbe tartozó képzés folytatására irányuló engedély kiadása iránti kérelem vagy az engedély kiegészítése iránti bejelentés benyújtása esetén a kérelmezőnek nem kell csatolnia az (1) bekezdés d) pontjában és e) pont ej)–el) alpontjában foglaltakat.
+(3)[^14] Az Fktv. 1. § (2) bekezdés d) pontja szerinti képzési körbe tartozó képzés folytatására irányuló engedély kiadása iránti kérelem vagy az engedély kiegészítése iránti bejelentés benyújtása esetén a kérelmezőnek nem kell csatolnia az (1) bekezdés d) pontjában és e) pont ej)–el) alpontjában foglaltakat.
 
-[^11]: Az 5. § (1) bekezdés e) pontja a 360/2015. (XII. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^12]: Az 5. § (2) bekezdése a 136/2014. (IV. 24.) Korm. rendelet 26. § a) pontja, a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^13]: Az 5. § (3) bekezdése az 562/2013. (XII. 31.) Korm. rendelet 13. § b) pontja, a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdés e) pontja a 360/2015. (XII. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: Az 5. § (2) bekezdése a 136/2014. (IV. 24.) Korm. rendelet 26. § a) pontja, a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: Az 5. § (3) bekezdése az 562/2013. (XII. 31.) Korm. rendelet 13. § b) pontja, a 360/2015. (XII. 2.) Korm. rendelet 20. § (2) bekezdés c) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ ad) levelezési címét, telefonszámát és faxszámát, elektronikus levelezé
 
 ae) képviselőjének, valamint vezető tisztségviselőjének nevét, születési helyét és idejét, anyja nevét, állampolgárságát, a vezető tisztségviselői jogviszonya kezdetének időpontját,
 
-af)[^9] alapítójának vagy köznevelési intézmény érintettsége esetén a nemzeti köznevelésről szóló törvény szerinti fenntartójának megnevezését és – a tankerületi központ által fenntartott köznevelési intézmény kivételével – annak képviselőjének nevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint a képviseleti jogviszonya kezdetének időpontját,
+af)[^10] alapítójának vagy köznevelési intézmény érintettsége esetén a nemzeti köznevelésről szóló törvény szerinti fenntartójának megnevezését és – a tankerületi központ által fenntartott köznevelési intézmény kivételével – annak képviselőjének nevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint a képviseleti jogviszonya kezdetének időpontját,
 
 ag) cégjegyzékét vagy nyilvántartását vezető bíróság, hatóság vagy szerv megnevezését, cégjegyzékszámát vagy nyilvántartásba vételi számát, egyéni vállalkozó esetén az egyéni vállalkozó nyilvántartását vezető hatóság megnevezését és a nyilvántartásba vétel számát és
 
@@ -34,11 +34,11 @@ ca) az OKJ szerinti szakképesítés megszerzésére felkészítő képzés eset
 
 cb) egyéb szakmai képzés esetén a szakmai végzettségnek a felnőttképzési szakmai programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a szakmai végzettség megszerzésének igazolásáról szóló miniszteri rendelet szerinti azonosítójával,
 
-cc)[^10] nyelvi képzés esetén a nyelvi programkövetelménynek a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a nyelvi képzés követelményei teljesítésének igazolásáról szóló miniszteri rendelet szerinti azonosítószámával és a képzési szint megjelölésével, és
+cc)[^11] nyelvi képzés esetén a nyelvi programkövetelménynek a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a nyelvi képzés követelményei teljesítésének igazolásáról szóló miniszteri rendelet szerinti azonosítószámával és a képzési szint megjelölésével, és
 
 d) az Fktv. 1. § (2) bekezdés a) és b) pontja szerinti képzések esetében a gyakorlati képzés helyszínének címét, vagy – ha a gyakorlati képzés nem az intézményben folyik – a gyakorlati képzés megvalósítására kötött szerződésben szereplő gyakorlati képzést folytató szervezet megnevezését és címét.
 
 (2) Az engedély módosítására vagy a 3. § (1) bekezdése szerinti kiegészítésére irányuló kérelemnek és a bejelentésnek a felnőttképzést folytató intézmény nyilvántartásba vételi számát és az (1) bekezdés a) pont aa) alpontjában, c) pont ca)–cc) alpontjában és d) pontjában foglaltakat kell tartalmaznia.
 
-[^9]: A 4. § (1) bekezdés a) pont af) alpontja a 486/2016. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.
-[^10]: A 4. § (1) bekezdés c) pont cc) alpontja a 360/2015. (XII. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 4. § (1) bekezdés a) pont af) alpontja a 486/2016. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdés c) pont cc) alpontja a 360/2015. (XII. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
