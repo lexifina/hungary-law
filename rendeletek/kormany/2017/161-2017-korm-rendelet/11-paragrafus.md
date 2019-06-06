@@ -1,4 +1,4 @@
-## 3. [^2] A bányafelügyelet eljárásában részt vevő szakértők
+## 3. [^5] A bányafelügyelet eljárásában részt vevő szakértők
 
 11. § (1) lének, használatbavételének, fennmaradásának, átalakításának, megszüntetésének, továbbá rendeltetésük megváltoztatásának első- és másodfokú engedélyezési eljárásában – az engedély hatályának meghosszabbítása iránti kérelem elbírálásának kivételével –, a 2. mellékletben meghatározott feltételek esetén a kormányhivatal a 2. mellékletben meghatározott szakkérdéseket vizsgálja. Az e bekezdés szerinti másodfokú eljárásokban, ha a fellebbezés érinti az elsőfokú eljárásban vizsgált szakkérdést, az MBFSZ a 2. mellékletben meghatározott szakkérdés vizsgálatára az ott megjelölt hatóságot rendelheti ki szakértőként.
 
@@ -10,4 +10,4 @@
 
 (5) A bányászati hulladékkezelő létesítmények bezárási eljárásában – ha a bezárást nem műszaki üzemi terv jóváhagyásával engedélyezik – az elsőfokú eljárásban a kormányhivatal a környezetvédelmi előírásoknak való megfelelőséget szakkérdésként vizsgálja. Az e bekezdés szerinti másodfokú eljárásban az MBFSZ a szakkérdés vizsgálatára a környezetvédelmi és természetvédelmi hatáskörében eljáró Pest Megyei Kormányhivatalt rendelheti ki szakértőként.
 
-[^2]: A 3. alcím (11. §) a 457/2017. (XII. 28.) Korm. rendelet 606. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A 3. alcím (11. §) a 457/2017. (XII. 28.) Korm. rendelet 606. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

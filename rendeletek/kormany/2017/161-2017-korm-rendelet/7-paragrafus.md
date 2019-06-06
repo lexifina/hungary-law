@@ -26,7 +26,7 @@ c) a területfejlesztéssel és a területrendezéssel kapcsolatos információs
 
 d) az Európai Parlament és Tanács a tengeri olaj- és gázipari tevékenységek biztonságáról és a 2004/35/EK irányelv módosításáról szóló 2013/30/EU irányelvben meghatározott előírások tekintetében;
 
-9.[^1]
+9.[^3]
 
 10. a 2009/31/EK európai parlamenti és tanácsi irányelv alapján az Európai Bizottságnak megküldendő jelentést előkészíti a miniszter számára;
 
@@ -34,8 +34,9 @@ d) az Európai Parlament és Tanács a tengeri olaj- és gázipari tevékenység
 
 12. szakmai információs rendszereket működtet a kormányhivatalok közreműködésével;
 
-13. szakmai képzéseket, valamint szakmai, koordinációs értekezleteket szervez, melyeken a kormányhivatal munkakörükben érintett kormánytisztviselői vesznek részt;
+13.[^4] szakmai képzéseket, valamint szakmai, koordinációs értekezleteket szervez, melyeken a kormányhivatal álláshelyükön ellátandó feladatuk alapján érintett kormánytisztviselői vesznek részt;
 
 14. szakmúzeumot, szakkönyvtárat tart fenn.
 
-[^1]: A 7. § 9. pontját a 80/2019. (IV. 15.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
+[^3]: A 7. § 9. pontját a 80/2019. (IV. 15.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
+[^4]: A 7. § 13. pontja a 133/2019. (VI. 5.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
