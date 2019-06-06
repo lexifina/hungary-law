@@ -48,7 +48,7 @@
 
 ## Határidő: a Világbajnokság szervezésével és lebonyolításával egyidejűleg, folyamatosan
 
-## 9. visszavonja a 2022/2024. évi FINA Rövidpályás Úszó Világbajnokság megrendezésére benyújtandó pályázat érdekében szükséges kormányzati intézkedésekről szóló 1423/2017. (VI. 29.) Korm. határozat 4. pont b) alpontját.
+## 9.[^1]
 
 1. melléklet az 1328/2019. (VI. 5.) Korm. határozathoz
 
@@ -121,3 +121,5 @@
 | egyéb: |  | azonnal | 92 800 000 |  |  | 92 800 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
