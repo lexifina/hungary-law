@@ -8,6 +8,6 @@ c) kezdeményezi a holttest elszállítását.
 
 (2) Ha a rendkívüli halállal kapcsolatos hatósági eljárást a hatóság a 25. § (2) bekezdése alapján vagy a 25. § (3) bekezdése alapján boncolás nélkül zárta le, akkor a szakértő az (1) bekezdés a) és b) pontjában foglaltak szerint jár el.
 
-(3)[^5] A szakértő a kórbonctani vizsgálatot maga is elvégezheti, ha külön jogszabály alapján arra jogosult, és erre a tevékenységére működési engedéllyel rendelkezik, valamint a Nemzeti Egészségbiztosítási Alapkezelővel szerződésben áll.
+(3)[^7] A szakértő a kórbonctani vizsgálatot maga is elvégezheti, ha külön jogszabály alapján arra jogosult, és erre a tevékenységére működési engedéllyel rendelkezik, valamint a Nemzeti Egészségbiztosítási Alapkezelővel szerződésben áll.
 
-[^5]: A 26. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 245. § a) pontja szerint módosított szöveg.
+[^7]: A 26. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 245. § a) pontja szerint módosított szöveg.

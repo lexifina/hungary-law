@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-351-20-
 | 2017-01-01 | 2013-351-20-22.12 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2018-01-01 | 2013-351-20-22.13 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-01-01 | 2013-351-20-22.14 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2019-06-06 | 2013-351-20-22.15 | 132/2019. (VI. 5.) Korm. rendelet |

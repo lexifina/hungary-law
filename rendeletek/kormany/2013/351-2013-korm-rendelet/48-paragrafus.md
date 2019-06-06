@@ -1,4 +1,4 @@
-## 47. §[^17] A hatóság 2020. december 31-ig a 12. § (2) bekezdésében foglaltakon kívül – azok akadályoztatása esetén – halottvizsgálati szaktanácsadóként megfelelő szakismerettel rendelkező orvost is igénybe vehet. E bekezdés alkalmazásában akadályoztatásnak minősül az is, ha a 12. § (2) bekezdése szerinti szaktanácsadó a feladat ellátásához csak aránytalanul nagy távolságban vagy jelentős idő elteltével érhető el.
+## 47/A. §[^22] A halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet módosításáról szóló 132/2019. (VI. 5.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 17. § (2a) és (3) bekezdését, 27. § (1a) bekezdését, valamint 40. § (5) bekezdését a Módr. hatálybalépésekor[^23] folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 18. Az Európai Unió jogának való megfelelés
 
@@ -6,4 +6,5 @@
 
 (2) E rendelet tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
 
-[^17]: A 47. §-t az 51. § (4) bekezdése hatályon kívül helyezte, újonnan a 192/2015. (VII. 21.) Korm. rendelet 55. §-a iktatta be, szövege a 394/2017. (XII. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^22]: A 47/A. §-t a 132/2019. (VI. 5.) Korm. rendelet 3. §-a iktatta be.
+[^23]: A hatálybalépés időpontja 2019. június 6.

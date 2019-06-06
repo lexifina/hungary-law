@@ -6,7 +6,7 @@
 
 (2) Az (1) bekezdésben foglalt eset kivételével, ha a hatósági eljárás során merül fel olyan körülmény, amely alapján a rendkívüli halál törvényi feltételei nem állapíthatóak meg, a hatóság a rendkívüli halállal kapcsolatos hatósági eljárást megszünteti.
 
-(3)[^4] Az (1) és a (2) bekezdésben foglalt esetek kivételével a hatóság a rendelkezésre álló bizonyítékok alapján határozatot hoz, amely az Ákr.-ben előírtakon kívül tartalmazza
+(3)[^6] Az (1) és a (2) bekezdésben foglalt esetek kivételével a hatóság a rendelkezésre álló bizonyítékok alapján határozatot hoz, amely az Ákr.-ben előírtakon kívül tartalmazza
 
 a) a szakvélemény lényegi megállapításait,
 
@@ -22,4 +22,4 @@ d) a szakértő által javasolt, de a hatóság által el nem rendelt vizsgálat
 
 (6) A döntést a 15. § (5) bekezdésében meghatározottakkal is közölni kell.
 
-[^4]: A 25. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 452. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 25. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 452. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
