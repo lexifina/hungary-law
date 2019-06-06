@@ -36,7 +36,7 @@ e)[^4] az eljárásrendek, szakmai irányelvek, módszertani útmutatók kiadás
 
 f) a szabványosítási programokban, szabványtervezetek egyeztetésében való részvételt,
 
-g)[^5] a műszaki biztonsági felügyeleti tevékenységekhez tartozó munkakörök szakterületére vonatkozó jogszabályok, szabályzatok, szabványok ismeretét és a szakmai gyakorlati ismeretek meglétét igazoló szakvizsgához vizsgabizottság működtetését, valamint szakmai továbbképzések szervezését,
+g)[^5] a műszaki biztonsági felügyeleti tevékenységekhez tartozó álláshelyen ellátandó feladatok szakterületére vonatkozó jogszabályok, szabályzatok, szabványok ismeretét és a szakmai gyakorlati ismeretek meglétét igazoló szakvizsgához vizsgabizottság működtetését, valamint szakmai továbbképzések szervezését,
 
 h)[^6] a műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának műszaki biztonsági tanúsítójellel és jogszabályban meghatározott hatósági igazolvány kiállításához rendszeresített okmánypapírral való ellátását.
 
@@ -52,7 +52,7 @@ b)[^8] a megfelelőségértékelő szervezeteknek a mérőeszközökre vonatkoz�
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 80/2018. (IV. 20.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (4) bekezdés e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (4) bekezdés g) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (4) bekezdés g) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (3) bekezdésével megállapított, a 133/2019. (VI. 5.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^6]: Az 1. § (4) bekezdés h) pontját a 80/2018. (IV. 20.) Korm. rendelet 19. § (3) bekezdése iktatta be.
 [^7]: Az 1. § (4a) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 19. § (4) bekezdése iktatta be.
 [^8]: Az 1. § (5) bekezdés b) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
