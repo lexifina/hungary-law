@@ -38,7 +38,7 @@
 
 (2) Az (1) bekezdésben nem meghatározott fogalmakra a pénzforgalmi szolgáltatás nyújtásáról szóló törvény (a továbbiakban: Pft.) és a Hpt. rendelkezései alkalmazandók.
 
-[^1]: A 2. § (1) bekezdés 1. pontja az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^2]: A 2. § (1) bekezdés 5. pontja az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^3]: A 2. § (1) bekezdés 9–10. pontja az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^4]: A 2. § (1) bekezdés 12. pontja az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^1]: A 2. § (1) bekezdés 1. pontja az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^2]: A 2. § (1) bekezdés 5. pontja az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^3]: A 2. § (1) bekezdés 9–10. pontja az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^4]: A 2. § (1) bekezdés 12. pontja az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

@@ -30,6 +30,6 @@ nyújtotta be.
 
 (12)[^16]
 
-[^14]: A 14. § (3) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^15]: A 14. § (6) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^16]: A 14. § (12) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^14]: A 14. § (3) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^15]: A 14. § (6) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^16]: A 14. § (12) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

@@ -8,4 +8,4 @@ b) a fizetési megbízást a fizető fél nem papír alapon nyújtja be.
 
 (3)–(4)[^17]
 
-[^17]: A 17. § (3)–(4) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^17]: A 17. § (3)–(4) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

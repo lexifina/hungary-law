@@ -12,4 +12,4 @@
 
 (6) Csoportos átutalási és csoportos beszedési megbízásra részfizetés nem teljesíthető.
 
-[^13]: A 10. § (3) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^13]: A 10. § (3) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

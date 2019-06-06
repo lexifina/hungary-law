@@ -14,4 +14,4 @@
 
 (6) Ha a beszedési megbízáshoz okiratot kell csatolni, vagy azt jogszabály vagy megállapodás alapján ellenjegyzéssel kell ellátni, akkor az így felszerelt beszedési megbízást a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató vagy az (5) bekezdés szerint közvetlen benyújtásra jogosult kedvezményezett a kézbesítés megtörténtének igazolására alkalmas módon továbbítja a fizető fél fizetési számláját vezető pénzforgalmi szolgáltatóhoz.
 
-[^22]: A 35–36. § az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^22]: A 35–36. § az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

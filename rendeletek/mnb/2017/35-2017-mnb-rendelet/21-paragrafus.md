@@ -8,4 +8,4 @@
 
 (5) Ha a kedvezményezett pénzforgalmi szolgáltatójának a számláján való jóváírás nem munkanapon történt, a fizetési művelet összegét a pénzforgalmi szolgáltató a következő munkanapon haladéktalanul a kedvezményezett rendelkezésére bocsátja.
 
-[^19]: A 21. § (2) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^19]: A 21. § (2) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

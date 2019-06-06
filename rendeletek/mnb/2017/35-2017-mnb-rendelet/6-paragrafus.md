@@ -18,6 +18,6 @@
 
 (8)–(9)[^8]
 
-[^6]: A 6. § (2)–(3) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^7]: A 6. § (6) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^8]: A 6. § (8)–(9) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^6]: A 6. § (2)–(3) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^7]: A 6. § (6) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^8]: A 6. § (8)–(9) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

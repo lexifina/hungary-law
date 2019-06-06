@@ -10,4 +10,4 @@ c) a hatósági átutalás és az átutalási végzés,
 
 d)[^20]
 
-[^20]: A 31. § d) pontja az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^20]: A 31. § d) pontja az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

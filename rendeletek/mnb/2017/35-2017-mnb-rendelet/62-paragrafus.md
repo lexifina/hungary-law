@@ -1,5 +1,5 @@
-## 61. §[^29]
+## 61. §[^30]
 
 ## 35. Hatályon kívül helyező rendelkezés
 
-[^29]: A 61. § az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^30]: A 61. § az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.

@@ -34,5 +34,5 @@ b) a kedvezményezett útján kezdeményezett fizetési megbízás, valamint az 
 
 (12) A pénzforgalmi szolgáltató a fizetési számla terhelésére vonatkozó fizetési megbízásokat – törvény vagy a számlatulajdonos eltérő rendelkezésének hiányában – az átvétel sorrendjében teljesíti. Az átvétel sorrendjére a pénzforgalmi szolgáltató nyilvántartása az irányadó.
 
-[^9]: A 7. § (4) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^10]: A 7. § (8)–(9) bekezdése az 56. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^9]: A 7. § (4) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
+[^10]: A 7. § (8)–(9) bekezdése az 56. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
