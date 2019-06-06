@@ -1,6 +1,6 @@
 ## 9. A külföldi akkreditált státusz elismerésének eljárási szabályai
 
-16. § (1)[^8] A külföldi akkreditált státusz elismerése iránti kérelmet a Hatóság honlapjáról letölthető vagy a Hatóságnál díjmentesen beszerezhető formanyomtatványon elektronikusan vagy postai úton kell benyújtani a Hatósághoz.
+16. § (1)[^14] A külföldi akkreditált státusz elismerése iránti kérelmet a Hatóság honlapjáról letölthető vagy a Hatóságnál díjmentesen beszerezhető formanyomtatványon elektronikusan vagy postai úton kell benyújtani a Hatósághoz.
 
 (2) A külföldi kérelmező a kérelemhez mellékeli:
 
@@ -14,4 +14,4 @@ c) a kérelmező magyar és angol nyelvű írásos hozzájárulását ahhoz, hog
 
 (4) A (2) bekezdésben meghatározott feltételek teljesülése esetén a Hatóság a státuszt elismeri.
 
-[^8]: A 16. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 558. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 16. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 558. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
