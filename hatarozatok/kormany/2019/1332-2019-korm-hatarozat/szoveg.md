@@ -20,22 +20,9 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a 2020. évi és a 2021. évi költségvetési törvény tervezése során
 
-2. A Budapest–Kolozsvár nagysebességű vasútvonal részletes megvalósíthatósági tanulmányának elkészítéséről szóló 1151/2018. (III. 26.) Korm. határozat
+2.[^1]
 
-a) 2. pontjában a „2019. december 31-ig” szövegrész helyébe a „2022. június 30-ig” szöveg,
+3.[^2]
 
-b) 7. pont a) alpontjában a „2020. január 31.” szövegrész helyébe a „2022. július 31.” szöveg,
-
-c) 7. pont b) alpontjában a „2020. március 15.” szövegrész helyébe a „2022. szeptember 30.” szöveg
-
-lép.
-
-3. A Budapest–Varsó nagysebességű vasútvonal részletes megvalósíthatósági tanulmányának elkészítéséről szóló 1174/2018. (III. 28.) Korm. határozat
-
-a) 2. pontjában a „2019. december 31-éig” szövegrész helyébe a „2021. március 31-ig” szöveg,
-
-b) 7. pont a) alpontjában a „2020. január 31.” szövegrész helyébe a „2021. április 30.” szöveg,
-
-c) 7. pont b) alpontjában a „2020. március 15.” szövegrész helyébe a „2021. június 30.” szöveg
-
-lép.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
