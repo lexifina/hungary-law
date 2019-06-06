@@ -1,3 +1,3 @@
 ## 2. §[^2]
 
-[^2]: A 2. § a 8. § (3) bekezdése alapján 2019. július 1-jén lép hatályba.
+[^2]: A 2. § a 8. § (3) bekezdése alapján 2020. március 2-án lép hatályba.
