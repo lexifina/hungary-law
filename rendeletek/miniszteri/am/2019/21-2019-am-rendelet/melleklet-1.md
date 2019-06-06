@@ -1,9 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-1. melléklet a 21/2019. (V. 28.) AM rendelethez
+1. melléklet a 21/2019. (V. 28.) AM rendelethez[^3]
 
-A 34/1997. (XI. 20.) KTM rendelet 1. számú melléklet Sződ alcímű része helyébe a következő rendelkezés lép:
-
-„Sződ
-
-0251-0256, 0260/4,7-10,13-15”
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
