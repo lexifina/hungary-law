@@ -54,16 +54,11 @@ kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felel�
 
 Határidő: 2019. november 30.
 
-9. A kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1250/2018. (V. 25.) Korm. határozat a következő 4/A. ponttal egészül ki:
+9.[^1]
 
-„4/A. A Kormány a kormánybiztos feladatkörébe utalja a 2023-ban Budapesten megrendezendő IAAF Atlétikai Világbajnokság (a továbbiakban: Világbajnokság) előkészítésével és megvalósításával kapcsolatos kormányzati feladatokat. A kormánybiztos feladata a Világbajnokság előkészítésével és megvalósításával kapcsolatos kormányzati feladatok irányítása, valamint a Magyar Atlétikai Szövetséggel és a Nemzetközi Atlétikai Szövetséggel való kormányzati kapcsolattartás.”
-
-10. A kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1250/2018. (V. 25.) Korm. határozat
-
-a) 3. pont nyitó szövegrészében a „4. pontban” szövegrész helyébe a „4. és a 4/A. pontban” szöveg,
-
-b) 5. pontjában a „4. pont” szövegrész helyébe a „4. és a 4/A. pont” szöveg
-
-lép.
+10.[^2]
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
