@@ -96,5 +96,14 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
+10.[^3] Zalaegerszeg sport-, gazdasági és kulturális életének élénkítése céljából felhívja az emberi erőforrások miniszterét és a Miniszterelnökséget vezető minisztert, hogy tegyenek javaslatot a Kormány részére a Zalaegerszegen kormányzati támogatással megvalósítandó beruházás koncepciójára, amely keretében a meglévő városi sportcsarnok létesítmény helyett egy új multifunkciós rendezvény- és sportcsarnok létesül.
+
+Felelős: emberi erőforrások minisztere
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
+
 [^1]: A 8. pontot az 1826/2018. (XII. 27.) Korm. határozat iktatta be.
 [^2]: A 9. pontot az 1106/2019. (III. 11.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 10. pontot az 1339/2019. (VI. 7.) Korm. határozat iktatta be.
