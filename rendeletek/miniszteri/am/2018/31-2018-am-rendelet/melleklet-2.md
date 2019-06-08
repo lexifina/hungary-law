@@ -30,6 +30,6 @@
 
 | 14. | szálas fehérjetakarmány-növény termesztés támogatása | 16 989 |
 
-2. melléklet a 31/2018. (X. 15.) AM rendelethez[^6]
+2. melléklet a 31/2018. (X. 15.) AM rendelethez[^7]
 
-[^6]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
