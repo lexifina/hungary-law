@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-4-00-00
 | 2014-02-12 | 2014. évi IV. törvény | 2014-4-00-00.0 (közlönyállapot) |
 | 2014-02-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-4-00-00.1 |
 | 2019-06-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-4-00-00.2 |
+| 2019-06-08 | 2010. évi CXXX. törvény | 2014-4-00-00.3 |
