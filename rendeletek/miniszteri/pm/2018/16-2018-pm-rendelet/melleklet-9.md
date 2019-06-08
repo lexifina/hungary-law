@@ -66,7 +66,7 @@
 
 | 30. | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-9. melléklet a 16/2018. (XII. 19.) PM rendelethez
+9. melléklet a 16/2018. (XII. 19.) PM rendelethez[^2]
 
 XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
@@ -142,7 +142,7 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 33. | 196934 |  |  | Az 1947-es párizsi békeszerződésből eredő kárpótlás | A Párizsi Békeszerződésről szóló 1947. évi XVIII. törvény 27. Cikke 2. pontjában foglaltak végrehajtásáról szóló 1997. évi X. törvény (a továbbiakban: T5.) végrehajtása. | A T5.-ben meghatározott jogosulti kör |  |  | Az előirányzat folyósítása a folyósító szerv által benyújtott elszámolás alapján, teljesítéshez igazodóan, a Kincstár rendelkezése alapján történik. |  |  | Kincstár |  |  |
 
-| 34. | 209511 |  |  | Pénzbeli kárpótlás folyósítási költségei | Az előirányzat a pénzbeli kárpótlási előirányzatokkal összefüggő igazgatási feladatok elvégzésével kapcsolatos költségek fedezetéül szolgál. | A folyósítást végző szerv folyósítási költségtérítésben részesül. |  |  | Az előirányzat folyósítását a folyósító szerv által benyújtott és az államház-tartásért felelős miniszter által jóváhagyott finanszírozási terv alapján végzi a Kincstár. |  |  | Kincstár |  |  |
+| 34. | 209511 |  |  | Pénzbeli kárpótlás folyósítási költségei | Az előirányzat a pénzbeli kárpótlási előirányzatokkal összefüggő igazgatási feladatok elvégzésével kapcsolatos költségek fedezetéül szolgál. | A folyósítást végző szerv folyósítási költségtérítésben részesül. |  |  | A folyósítás havonta, egyenlő részletekben történik. |  |  | Kincstár |  |  |
 
 | 35. |  | Garancia és hozzájárulás a társadalombiztosítási ellátásokhoz |  |  |  |  |  |  |  |  |  |  |
 
@@ -193,3 +193,5 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 | 58. | 226165 |  | Központi Nukleáris Pénzügyi Alap támogatása | A Központi Nukleáris Pénzügyi Alap részére központi költségvetési támogatás biztosítása. | Központi Nukleáris Pénzügyi Alap |  |  | Az Áht. 82. § (2) bekezdése és az Ávr. 133. § (4) bekezdése szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
 
 | 59. | 374873 | Központi Maradványelszámolási Alap | Kormányzati döntésekből következő, illetve év közben jelentkező finanszírozási problémák kezelése. | Költségvetési szervek, fejezeti kezelésű előirányzatok, központi kezelésű előirányzatok |  |  | Átcsoportosítással a Kormány egyedi határozata alapján. |  |  |  |  |  |
+
+[^2]: A 9. melléklet a 6/2019. (VI. 7.) PM rendelet 2. § (1) bekezdése szerint módosított szöveg.
