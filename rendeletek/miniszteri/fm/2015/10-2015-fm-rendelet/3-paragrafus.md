@@ -6,7 +6,7 @@
 
 (3)[^39] Ha a mezőgazdasági termelő párhuzamos gazdálkodást folytat, vagy az ökológiai tanúsító szervezet szerint nem a földterület egésze felel meg a (2) bekezdésben foglaltaknak, akkor a mezőgazdasági termelő a támogatási kérelmében ökológiai gazdálkodásban részt vevő területként nem jelölt terület és az ökológiai tanúsító szervezet által nem igazolt földterület tekintetében nem mentesül az e rendeletben előírt kötelezettségek alól.
 
-(4)[^40] Az ökológiai tanúsító szervezet évente, az adott év augusztus 31-éig a Kincstár adatszolgáltatása alapján a Kincstár részére tájékoztatást nyújt a mezőgazdasági termelő támogatási kérelmében megjelölt ökológiai gazdálkodásba vont terület (2) bekezdésben foglaltaknak való megfeleléséről.
+(4)[^40] Az ökológiai tanúsító szervezet évente, az adott év augusztus 31-éig a Magyar Államkincstár (a továbbiakban: Kincstár) adatszolgáltatása alapján a Kincstár részére tájékoztatást nyújt a mezőgazdasági termelő támogatási kérelmében megjelölt ökológiai gazdálkodásba vont terület (2) bekezdésben foglaltaknak való megfeleléséről.
 
 (5)[^41] Ha az e rendelet szerinti támogatással érintett földterület ökológiai státusza megszüntetésre vagy visszaminősítésre kerül, akkor az ökológiai tanúsító szervezet nyolc napon belül megküldi a Kincstárnak az érintett földterület és a mezőgazdasági termelő azonosító adatait. A mezőgazdasági termelő tárgyéven belüli ökológiai státusz megszüntetéssel vagy visszaminősítéssel érintett terület tekintetében nem mentesül az e rendeletben előírt kötelezettségek alól.
 
@@ -17,7 +17,7 @@
 [^37]: A 3. § (1) bekezdése a 72/2016. (XI. 3.) FM rendelet 11. § e) pontja szerint módosított szöveg.
 [^38]: A 3. § (2) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított, a 72/2016. (XI. 3.) FM rendelet 11. § c) pontja szerint módosított szöveg.
 [^39]: A 3. § (3) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^40]: A 3. § (4) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított, a 72/2016. (XI. 3.) FM rendelet 11. § f) pontja, a 88/2016. (XII. 29.) FM rendelet 81. § a)–b) pontja, a 10/2019. (IV. 1.) AM rendelet 11. §-a szerint módosított szöveg.
+[^40]: A 3. § (4) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított, a 72/2016. (XI. 3.) FM rendelet 11. § f) pontja, a 88/2016. (XII. 29.) FM rendelet 81. § a)–b) pontja, a 26/2019. (VI. 7.) AM rendelet 1. §-a szerint módosított szöveg.
 [^41]: A 3. § (5) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 81. § c) pontja szerint módosított szöveg.
 [^42]: A 3. § (6) bekezdését a 17/2015. (IV. 9.) FM rendelet 17. §-a iktatta be.
 [^43]: A 3. § (7) bekezdését az 52/2015. (IX. 7.) FM rendelet 29. § (2) bekezdése iktatta be, szövege a 35/2018. (XII. 6.) AM rendelet 21. §-ával megállapított szöveg.

@@ -16,7 +16,7 @@ c)[^32] az állandó gyepterületen és az ideiglenes gyepterületen – amennyi
 
 (5)[^35]
 
-(6)[^36] A (3) bekezdés szerinti meg nem felelés esetén a meg nem felelésről szóló döntés véglegessé válását követően a Magyar Államkincstár (a továbbiakban: Kincstár) a meg nem feleléssel érintett tábla kérelmezője tekintetében az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet 3. cikk (2) bekezdésében foglaltak szerint jár el.
+(6)[^36]
 
 [^30]: A 2. § a 13/2017. (III. 17.) FM rendelet 33. §-ával megállapított szöveg.
 [^31]: A 2. § (1) bekezdés a) pontja a 8/2018. (III. 29.) FM rendelet 19. § (1) bekezdésével megállapított szöveg.
@@ -24,4 +24,4 @@ c)[^32] az állandó gyepterületen és az ideiglenes gyepterületen – amennyi
 [^33]: A 2. § (3) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 10/2019. (IV. 1.) AM rendelet 12. §-a.
 [^34]: A 2. § (4) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 10/2019. (IV. 1.) AM rendelet 12. §-a.
 [^35]: A 2. § (5) bekezdését a 35/2018. (XII. 6.) AM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 10/2019. (IV. 1.) AM rendelet 12. §-a.
-[^36]: A 2. § (6) bekezdését a 10/2019. (IV. 1.) AM rendelet 10. §-a iktatta be.
+[^36]: A 2. § (6) bekezdését a 10/2019. (IV. 1.) AM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 26/2019. (VI. 7.) AM rendelet 2. §-a.
