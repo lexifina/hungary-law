@@ -70,6 +70,6 @@
 
 | 34 | ÁBPE-továbbképzés II. – Folyamatmenedzsment – a költségvetési szervek vezetői és gazdasági vezetői részére | Tréning | A képzés célja, hogy a résztvevők egy esettanulmány megoldásával szerezzenek elméleti és gyakorlati ismereteket a folyamatok azonosítása és rendszerezése, a folyamatleírások és ellenőrzési nyomvonalak készítése terén. | 14 tanóra |
 
-3. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^66]
+3. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^68]
 
-[^66]: A 3. mellékletet a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^68]: A 3. mellékletet a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte.

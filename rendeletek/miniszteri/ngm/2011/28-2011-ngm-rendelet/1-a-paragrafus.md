@@ -1,4 +1,4 @@
-## 1/A. [^14] A belső ellenőrre vonatkozó szakmai követelmények
+## 1/A. [^15] A belső ellenőrre vonatkozó szakmai követelmények
 
 1/A. § (1) Belső ellenőrzési tevékenységet az végezhet, aki
 
@@ -44,4 +44,4 @@ cn) integritás tanácsadói
 
 (3) Belső ellenőrzési tevékenységet az folytathat, aki eleget tesz a 7. §-ban meghatározott továbbképzési kötelezettségének.
 
-[^14]: Az 1/A. alcímet (1/A. §) a 35/2015. (XII. 23.) NGM rendelet 8. § (1) bekezdése iktatta be.
+[^15]: Az 1/A. alcímet (1/A. §) a 35/2015. (XII. 23.) NGM rendelet 8. § (1) bekezdése iktatta be.

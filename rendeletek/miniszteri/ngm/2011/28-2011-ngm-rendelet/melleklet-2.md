@@ -80,6 +80,6 @@
 
 ## Bejelentő aláírása
 
-2. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^65]
+2. melléklet a 28/2011. (VIII. 3.) NGM rendelethez[^67]
 
-[^65]: A 2. mellékletet újonnan a 44/2014. (XII. 30.) NGM rendelet 14. §-a iktatta be, szövege a 49/2016. (XII. 8.) NGM rendelet 2. §-ával megállapított szöveg.
+[^67]: A 2. mellékletet újonnan a 44/2014. (XII. 30.) NGM rendelet 14. §-a iktatta be, szövege a 49/2016. (XII. 8.) NGM rendelet 2. §-ával megállapított szöveg.
