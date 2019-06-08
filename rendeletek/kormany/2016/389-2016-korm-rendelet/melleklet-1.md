@@ -1,6 +1,6 @@
-## 12. §[^1] E rendeletnek a felsőoktatási intézmények alaptevékenységének finanszírozásáról szóló 389/2016. (XII. 2.) Korm. rendelet módosításáról szóló 253/2018. (XII. 17.) Korm. rendelet által megállapított 1. mellékletében meghatározott költségkeretek alapján első alkalommal a 2019/2020. tanévre vonatkozóan kell a költségvetési támogatást megállapítani.
+## 12. §[^2] E rendeletnek a felsőoktatási intézmények alaptevékenységének finanszírozásáról szóló 389/2016. (XII. 2.) Korm. rendelet módosításáról szóló 253/2018. (XII. 17.) Korm. rendelet által megállapított 1. mellékletében meghatározott költségkeretek alapján első alkalommal a 2019/2020. tanévre vonatkozóan kell a költségvetési támogatást megállapítani.
 
-1. melléklet a 389/2016. (XII. 2.) Korm. rendelethez[^2]
+1. melléklet a 389/2016. (XII. 2.) Korm. rendelethez[^3]
 
 A felsőoktatási intézmények alaptevékenysége finanszírozásának költségkeretei
 
@@ -140,5 +140,5 @@ A felsőoktatási intézmények alaptevékenysége finanszírozásának költsé
 
 | 62 | Bölcsészettudományok (pedagógusképzési tudományokkal), társadalomtudományok (gazdaságtudományokkal, jogi tudományokkal), hittudományok |  | 650 |
 
-[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 253/2018. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^2]: Az 1. melléklet a 253/2018. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 253/2018. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. melléklet a 253/2018. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
