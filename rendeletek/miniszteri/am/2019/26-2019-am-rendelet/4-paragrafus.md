@@ -1,0 +1,1 @@
+## „(6) A Virginia dohánytermelőnek vagy a vele együttműködő termelőnek összesen 5000 eurónak megfelelő forintösszegnek, a Burley dohánytermelőnek vagy a vele együttműködő termelőnek összesen 8333 eurónak megfelelő forintösszegnek – de legfeljebb a rendelkezésére álló szabad mezőgazdasági csekély összegű támogatási keret szerinti összegnek – megfelelő támogatás fizethető ki.”
