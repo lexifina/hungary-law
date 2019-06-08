@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-53-20-1
 | 2018-07-03 | 2015-53-20-11.7 | 9/2018. (VII. 2.) AM rendelet |
 | 2019-03-09 | 2015-53-20-11.8 | 4/2019. (III. 6.) AM rendelet |
 | 2019-04-11 | 2015-53-20-11.9 | 14/2019. (IV. 10.) AM rendelet |
+| 2019-06-08 | 2015-53-20-11.10 | 26/2019. (VI. 7.) AM rendelet |

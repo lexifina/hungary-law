@@ -6,7 +6,9 @@ b) a 2016. évre benyújtott támogatási kérelmek esetében legfeljebb 311 860
 
 c) a 2017. évre benyújtott támogatási kérelmek esetében legfeljebb 309 780 Ft;
 
-d)[^21] a 2018. évre benyújtott támogatási kérelmek esetében legfeljebb 310 060 Ft.
+d)[^21] a 2018. évre benyújtott támogatási kérelmek esetében legfeljebb 310 060 Ft;
+
+e)[^22] a 2019. évre benyújtott támogatási kérelmek esetében a Virginia dohány termelésére vonatkozóan legfeljebb 317 630 Ft, a Burley dohány termelésére vonatkozóan legfeljebb 529 383 Ft.
 
 (2) Ha a dohánytermelő a 4. § (3) bekezdése szerinti kötelezettség-megosztást alkalmazta, a támogatás tárgyévi igénylése szempontjából a vele együttműködő termelő is jogosult az átvállalt és teljesített kötelezettsége arányában az (1) bekezdés szerinti támogatást a 9. §-ban foglaltak szerint igényelni.
 
@@ -16,10 +18,12 @@ d)[^21] a 2018. évre benyújtott támogatási kérelmek esetében legfeljebb 31
 
 (5) Az együttműködő termelő esetében az (1) bekezdés szerinti területnek kell tekinteni azt kötelezettség-megosztással érintett, a támogatási jogosultságok számával megegyező, legfeljebb öt hektár nagyságú területet, amelyet a szerkezetátalakítási programban résztvevő dohánytermelő tárgyévben támogatási jogosultság aktiválására és a 13. § (1) bekezdése szerint dohánytermelésre használt.
 
-(6) Egy dohánytermelőnek vagy együttműködő termelőnek összesen ötezer eurónak megfelelő forintösszegnek – de legfeljebb a rendelkezésére álló szabad mezőgazdasági csekély összegű támogatási kerete szerinti összegnek – megfelelő támogatás fizethető ki.
+(6)[^23] A Virginia dohánytermelőnek vagy a vele együttműködő termelőnek összesen 5000 eurónak megfelelő forintösszegnek, a Burley dohánytermelőnek vagy a vele együttműködő termelőnek összesen 8333 eurónak megfelelő forintösszegnek – de legfeljebb a rendelkezésére álló szabad mezőgazdasági csekély összegű támogatási keret szerinti összegnek – megfelelő támogatás fizethető ki.
 
-(7)[^22] A mezőgazdasági csekély összegű támogatásról a Kincstár határozatot hoz a szerkezetátalakítási program előírásai teljesítési arányának meghatározásáról szóló határozat kiadását követő 70 napon belül.
+(7)[^24] A mezőgazdasági csekély összegű támogatásról a Kincstár határozatot hoz a szerkezetátalakítási program előírásai teljesítési arányának meghatározásáról szóló határozat kiadását követő 70 napon belül.
 
 [^20]: A 10. § (1) bekezdése a 43/2017. (IX. 5.) FM rendelet 11. §-ával megállapított szöveg.
 [^21]: A 10. § (1) bekezdés d) pontját a 9/2018. (VII. 2.) AM rendelet 17. § (1) bekezdése iktatta be.
-[^22]: A 10. § (7) bekezdését a 9/2018. (VII. 2.) AM rendelet 17. § (2) bekezdése iktatta be.
+[^22]: A 10. § (1) bekezdése e) pontját a 26/2019. (VI. 7.) AM rendelet 3. § (1) bekezdése iktatta be.
+[^23]: A 10. § (6) bekezdése a 26/2019. (VI. 7.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^24]: A 10. § (7) bekezdését a 9/2018. (VII. 2.) AM rendelet 17. § (2) bekezdése iktatta be.
