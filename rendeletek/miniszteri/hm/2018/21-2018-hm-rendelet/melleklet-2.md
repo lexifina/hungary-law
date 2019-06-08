@@ -24,9 +24,9 @@
 
 | 11 | katolikus tábori püspök |  |  |  |  |  |  |  |  |  |  | 300 |
 
-| 12 | vezető tábori rabbi |  |  |  |  |  |  |  |  |  |  | 250 |
+| 12 | vezető tábori főrabbi |  |  |  |  |  |  |  |  |  |  | 250 |
 
-| 13 | tábori főrabbi |  |  |  |  |  |  |  |  |  |  | 250 |
+| 13 |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 14 | b) Vezetői beosztás |  |  |  |  |  |  |  |  |  |  |  |
 
