@@ -1,4 +1,4 @@
-5. § (1) A támogatási kérelmet a 3. §-ban meghatározott feltételeknek megfelelő igénylő a tárgyév április 15-éig a Kincstár által rendszeresített és a honlapján közzétett, a (2) bekezdésben meghatározott adattartalmú nyomtatványon nyújthatja be a jogosult lakóhelye vagy székhelye szerint illetékes megyei kormányhivatalhoz.
+5. § (1)[^2] A támogatási kérelmet a 3. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év március 20-ától a támogatási év április 15-éig a Kincstár által rendszeresített és a honlapján közzétett, a (2) bekezdésben meghatározott adattartalmú nyomtatványon nyújthatja be a jogosult lakóhelye vagy székhelye szerint illetékes megyei kormányhivatalhoz.
 
 (2) Az igénylő támogatási kérelme az alábbi adatokat és dokumentumokat tartalmazza:
 
@@ -35,3 +35,5 @@ b) a Baromfi Termék Tanács (a továbbiakban: BTT) igazolásának eredeti péld
 (8) A támogatási kérelemben megjelölt állatok vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
 
 (9) A (6) bekezdés b) pontja szerinti igazolásban meghatározott létszámot meghaladó igény nem támogatható.
+
+[^2]: Az 5. § (1) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § b) pontja szerint módosított szöveg.

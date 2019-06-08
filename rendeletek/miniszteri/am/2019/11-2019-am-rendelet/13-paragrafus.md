@@ -12,9 +12,9 @@ b) az igénylő nyilatkozatának eredeti példányát arról, hogy a víznyerőh
 
 c) ha a telepen az állatok vízellátása vezetékes vízhálózatról történik, a vízszolgáltató írásos nyilatkozatának eredeti példányát arról, hogy az általa szolgáltatott víz ivóvíz-minőségű.
 
-(3) Az igénylőnek az általa a takarmányozáshoz használt víz (2) bekezdésben előírt feltételeknek való megfelelését a támogatási évben legalább egy alkalommal ellenőriztetnie kell ivóvízvizsgálatra akkreditált laboratóriummal.
+(3)[^12] Az igénylőnek – ha a vízellátás saját víznyerőhelyről történik – az általa a takarmányozáshoz használt víz (1) bekezdésben előírt feltételeknek való megfelelését a támogatási évben legalább egy alkalommal ellenőriztetnie kell ivóvízvizsgálatra akkreditált laboratóriummal.
 
-(4) A kifizetési kérelemhez csatolni kell a szolgáltató állatorvos igazolásának eredeti példányát arról, hogy a (3) bekezdés szerint bevizsgáltatott és felhasznált ivóvíz megfelel a (2) bekezdésben foglalt előírásoknak.
+(4)[^13] A kifizetési kérelemhez csatolni kell a szolgáltató állatorvos igazolásának eredeti példányát arról, hogy a (3) bekezdés szerint bevizsgáltatott és felhasznált ivóvíz megfelel az (1) bekezdésben foglalt előírásoknak.
 
 (5) A támogatás mértéke:
 
@@ -35,3 +35,6 @@ g) pecsenyekacsa esetén 622,44 Ft állategységenként,
 h) növendék kacsa esetén 2332,99 Ft állategységenként,
 
 i) növendék pulyka esetén 6134,00 Ft állategységenként.
+
+[^12]: A 13. § (3) bekezdése a 26/2019. (VI. 7.) AM rendelet 10. §-ával megállapított szöveg.
+[^13]: A 13. § (4) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § k) pontja szerint módosított szöveg.

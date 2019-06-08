@@ -1,4 +1,4 @@
-4. § (1) E rendelet alapján az adott támogatási évben
+4. § (1)[^1] E rendelet alapján az adott támogatási évben
 
 a) letelepített napos baromfi közül
 
@@ -26,7 +26,7 @@ d) átminősített előnevelt (növendék) pulykára, valamint
 
 e) levágott összes baromfifélére
 
-## legfeljebb 12,17455 milliárd forint összegig állapítható meg támogatás, amely a 2. mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és naptári tárgynegyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
+## legfeljebb 12,17455 milliárd forint összegig állapítható meg támogatás, amely a 2. mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és tárgynegyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
 
 (2) A Magyar Államkincstár (a továbbiakban: Kincstár) a 6. § szerint benyújtott és az ellenőrzést követően jóváhagyott kifizetési kérelmeket negyedévente összesíti, és az adott tárgynegyedévre vonatkozóan megállapítja a kérelmenként járó jogos támogatás összegét.
 
@@ -41,3 +41,5 @@ e) levágott összes baromfifélére
 (7) A Kincstár az adott tárgynegyedévre vonatkozó kifizetési kérelmekre hozott döntést követően intézkedik a tárgynegyedévre vonatkozó jogos összeg kifizetéséről.
 
 (8) A Tv. 45/B. §-a szerinti kötelezettség-átadásra jelen intézkedés vonatkozásában nincs lehetőség.
+
+[^1]: A 4. § (1) bekezdés záró szövegrésze a 26/2019. (VI. 7.) AM rendelet 12. § a) pontja szerint módosított szöveg.

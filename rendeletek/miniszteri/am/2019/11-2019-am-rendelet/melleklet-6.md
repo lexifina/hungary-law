@@ -24,7 +24,7 @@
 
 | 11. | növendék pulyka (vegyesivar) | 16,1 |  |
 
-6. melléklet a 11/2019. (IV. 1.) AM rendelethez
+6. melléklet a 11/2019. (IV. 1.) AM rendelethez[^17]
 
 A baromfiállományban a mellsérülés megelőzéséhez szükséges feltételek
 
@@ -88,7 +88,7 @@ ca) Etető, itató méret követelmények
 
 cb) Bálázott alom behelyezése: 1000 m2-es ól felületre az utónevelt állomány betelepítésekor 10 bála elhelyezése.
 
-d) Pecsenye-, növendék és hízott kacsa esetében:
+d) Pecsenye-, növendék kacsa esetében:
 
 da) Etető, itató méret követelmények
 
@@ -116,7 +116,7 @@ dc) Istálló és kifutó felület biztosítása
 
 |  | 6. | Fürösztő csatorna | 20 db baromfi / m2 |
 
-e) Pecsenye-, fiatal, növendék és hízott liba esetében:
+e) Pecsenye-, fiatal, növendék liba esetében:
 
 ea) Etető, itató méret előírás
 
@@ -147,3 +147,5 @@ ec) Istálló- és kifutófelület biztosítása
 |  | 4. | 11–16 hetes korig | 0,5 | 0,3 | 15 | 3 |
 
 |  | 5. | 17 hetes korig | 0,65 | 0,4 | 20 | 4 |
+
+[^17]: A 6. melléklet a 26/2019. (VI. 7.) AM rendelet 12. § l)–m) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@ a) teljesíti a baromfiállományban a mellsérülés megelőzéséhez szükség
 
 b) a vágóhídra leadott állatoknál a mellsérülést szenvedő állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(2) A kifizetési kérelemhez csatolni kell a vágóhídnak és a létesítmény felügyeletét ellátó hatósági állatorvosnak a sérült állatok (1) bekezdés b) pontjában meghatározott arányára vonatkozó igazolásának eredeti példányát is, amely tartalmazza a levágott baromfi 1. melléklet szerinti megnevezését, darabszámát, a vágási életkort (napokban) és a vágás időpontját.
+(2)[^11] A kifizetési kérelemhez csatolni kell a vágóhídnak és a létesítmény felügyeletét ellátó hatósági vagy jogosult állatorvosnak a sérült állatok (1) bekezdés b) pontjában meghatározott arányára vonatkozó igazolásának eredeti példányát is, amely tartalmazza a levágott baromfi 1. melléklet szerinti megnevezését, darabszámát, a vágási életkort (napokban) és a vágás időpontját.
 
 (3) A támogatás mértéke:
 
@@ -25,3 +25,5 @@ g) pecsenyekacsa esetén 16 869,53 Ft állategységenként,
 i) növendék kacsa esetén 41 230,77 Ft állategységenként,
 
 j) növendék pulyka esetén 9822,00 Ft állategységenként.
+
+[^11]: A 12. § (2) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § j) pontja szerint módosított szöveg.

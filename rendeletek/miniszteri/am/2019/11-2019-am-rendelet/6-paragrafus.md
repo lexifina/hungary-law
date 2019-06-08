@@ -1,4 +1,4 @@
-6. § (1) Az adott tárgynegyedévre vonatkozó támogatás kifizetése iránti kérelem – baromfi megnevezés-csoportonként kizárólag egy – a Kincstár által a (2) bekezdésben meghatározott adattartalommal rendszeresített és a honlapján közleményben közzétett nyomtatványon, a tárgynegyedévet követő hónap tizenötödik napjáig nyújtható be a jogosult lakóhelye vagy székhelye szerint illetékes megyei kormányhivatalhoz.
+6. § (1)[^3] Az adott tárgynegyedévre vonatkozó támogatás kifizetése iránti kérelem – baromfi megnevezés-csoportonként kizárólag egy – a Kincstár által a (2) bekezdésben meghatározott adattartalommal rendszeresített és a honlapján közleményben közzétett nyomtatványon, a tárgynegyedév utolsó napját követő 15 napon belül nyújtható be a jogosult lakóhelye vagy székhelye szerint illetékes megyei kormányhivatalhoz.
 
 (2) Az igénylő kifizetési kérelme az alábbi adatokat tartalmazza:
 
@@ -36,4 +36,7 @@ d) a támogatási igényre vonatkozó adatokat.
 
 (6) A támogatási kérelemben meg nem jelölt tartási helyre, tevékenységre, illetve a jóváhagyott állatlétszámot meghaladó állatlétszámra vonatkozó kifizetési kérelmet a Kincstár elutasítja.
 
-(7) A Kincstár által rendszeresített és a honlapján közleményben közzétett, a (4) bekezdésben meghatározott adattartalmú nyomtatvány szerint kiállított szakmai ellenőrzési lapok a BTT címére folyamatosan, de legkésőbb a tárgynegyedévet követő hónap tizedik napjáig nyújthatók be. A szakmai ellenőrzési lapból negyedévenként és baromfi megnevezés-csoportonként több is benyújtható, de egy ellenőrzési lapon csak egy baromfi megnevezés-csoport jeleníthető meg.
+(7)[^4] A Kincstár által rendszeresített és a honlapján közleményben közzétett, a (4) bekezdésben meghatározott adattartalmú nyomtatvány szerint kiállított szakmai ellenőrzési lapok a BTT címére folyamatosan, de legkésőbb a tárgynegyedév utolsó napját követő tizedik napig nyújthatók be. A szakmai ellenőrzési lapból negyedévenként és baromfi megnevezés-csoportonként több is benyújtható, de egy ellenőrzési lapon csak egy baromfi megnevezés-csoport jeleníthető meg.
+
+[^3]: A 6. § (1) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § c) pontja szerint módosított szöveg.
+[^4]: A 6. § (7) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § d) pontja szerint módosított szöveg.
