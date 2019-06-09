@@ -1,5 +1,7 @@
-## 7. § A 2017. októberi viharkár által a fóliás növénykultúrák termesztésére szolgáló építményekben keletkezett károk kompenzálására igénybe vehető mezőgazdasági csekély összegű támogatásról szóló 65/2017. (XII. 22.) FM rendelet 6. § (3) bekezdésében a „legfeljebb 1%-kal” szövegrész helyébe a „legfeljebb 10%-kal” szöveg lép.
+## 7. §[^4]
 
 ## 4. Az agrártámogatások 2018. évi mértékének megállapításáról szóló
 
 ## 31/2018. (X. 15.) AM rendelet módosítása
+
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
