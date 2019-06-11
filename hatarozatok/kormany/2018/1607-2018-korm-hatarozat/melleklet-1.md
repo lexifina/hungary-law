@@ -16,7 +16,7 @@
 
 ## b) a kertészház felújításának határideje 2019. április 30.
 
-## legyen;
+## legyen;[^1]
 
 ## 5. felhívja a pénzügyminisztert, hogy – az emberi erőforrások miniszterének bevonásával – gondoskodjon a 3. pont szerinti forrás visszapótlásáról a Modern Opera beruházás céljára a 2020. évi központi költségvetés tervezése során.
 
@@ -93,3 +93,5 @@
 | Pénzügyminisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1347/2019. (VI. 11.) Korm. határozat 4. pontja alapján a kertészház felújításának határideje 2019. június 30.
