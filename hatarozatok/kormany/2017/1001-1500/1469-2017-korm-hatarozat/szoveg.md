@@ -12,7 +12,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: az a) alpont tekintetében 2017. július 31.
 
-a b) alpont tekintetében 2017. szeptember 30.
+a b) alpont tekintetében 2017. szeptember 30.[^1]
 
 2. egyetért az Árpád-ház Program (2013–2038) átfogó szakmai programtervéről és megvalósításának egyes kérdéseiről szóló 1315/2016. (VII. 1.) Korm. határozat 5. pontja alapján előkészített, „Az ország bölcsője” alprogram második szakasz egyes fejlesztési elemeinek koncepciójával, melynek továbbfejlesztése és véglegesítése érdekében felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon
 
@@ -22,7 +22,7 @@ b) a Székesfehérváron megkoronázott, illetve eltemetett uralkodókhoz, uralk
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: az a) alpont tekintetében 2018. december 31.
+Határidő: az a) alpont tekintetében 2018. december 31.[^2]
 
 a b) alpont tekintetében 2018. május 31.
 
@@ -33,3 +33,6 @@ Felelős: nemzetgazdasági miniszter
 Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. szeptember 30.
+
+[^1]: Az 1350/2019. (VI. 11.) Korm. határozat 3. pont a) alpontja alapján a Kormány egyetért azzal, hogy az Ideiglenes Bazilikatörténeti Kiállítótér és Látogatóközpont és a Sétaút 1. szakasza megvalósítására 2018 vége helyett 2022. december 31. napjáig kerüljön sor.
+[^2]: Az 1350/2019. (VI. 11.) Korm. határozat 3. pont b) alpontja alapján a Kormány egyetért azzal, hogy a 2. pont a) alpontjában meghatározott feladatok megvalósítására 2018. december 31. napja helyett 2022. december 31. napjáig kerüljön sor.
