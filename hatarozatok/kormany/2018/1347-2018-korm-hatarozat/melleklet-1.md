@@ -18,7 +18,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, agrárminiszter, belügyminiszter, Nemzeti Adó- és Vámhivatal vezetője, külgazdasági és külügyminiszter, Miniszterelnöki Kormányiroda közigazgatási államtitkára, a Kormány nemzetpolitikáért felelős tagja
 
-## Határidő: 2019. június 30., a Nemzeti Élelmiszerlánc-biztonsági Hivatal javára biztosított 617 698 000 forint, valamint a Nemzeti Agrárkutatási és Innovációs Központ javára biztosított 213 700 000 forint a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok javára biztosított 1 437 993 520 forint tekintetében 2019. december 31.
+## Határidő: 2019. június 30., a Nemzeti Élelmiszerlánc-biztonsági Hivatal javára biztosított 617 698 000 forint, valamint a Nemzeti Agrárkutatási és Innovációs Központ javára biztosított 213 700 000 forint a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok javára biztosított 1 437 993 520 forint tekintetében, valamint a Szerencsejáték Felügyelet javára biztosított 825 521 758 forintból 112 045 204 forint tekintetében 2019. december 31.
 
 ## 2. A Kormány
 
@@ -272,7 +272,7 @@
 
 1. melléklet az 1347/2018. (VII. 26.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1104/2019. (III. 8.) Korm. határozat 9. pontja, az 1263/2019. (V. 7.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1104/2019. (III. 8.) Korm. határozat 9. pontja, az 1263/2019. (V. 7.) Korm. határozat 8. pontja, az 1343/2019. (VI. 11.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 2. pont e) alpont ea) pontja az 1207/2019. (IV. 18.) Korm. határozat 9. pontja szerint módosított szöveg.
 [^3]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
