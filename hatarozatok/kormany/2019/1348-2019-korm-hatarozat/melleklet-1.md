@@ -1,0 +1,33 @@
+## 1. egyetért
+
+## a) a Sopron–Sopronkőhida–Fertőrákos–Balf útszakasz 1. melléklet 1. pontjában meghatározott részeinek felújításával, valamint
+
+## b) a Balf–Fertőrákos összekötő út és a Fertő tavi vízitelep bekötését biztosító közút 1. melléklet 2. pontja szerinti fejlesztésével,
+
+## 2. egyetért azzal, hogy az innovációért és technológiáért felelős miniszter – az 1. pont szerinti beruházások megvalósítása érdekében – gondoskodjon a kivitelezési munkálatokhoz és feladatokhoz kapcsolódó feltételes közbeszerzési eljárások lefolytatásáról,
+
+## 3. felhívja az innovációért és technológiáért felelős minisztert, hogy a pénzügyminiszter bevonásával a 2. pont szerinti feltételes közbeszerzési eljárások eredményeként beérkező ajánlatok ismeretében nyújtson be előterjesztést a Kormány részére az 1. pont szerinti beruházások megvalósításához szükséges további intézkedések meghatározása és költségvetési forrás biztosítása érdekében.
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## pénzügyminiszter
+
+## Határidő: a 2. pont szerinti feltételes közbeszerzési eljárások lezárását követően azonnal
+
+1. melléklet az 1348/2019. (VI. 11.) Korm. határozathoz
+
+1. A Sopron–Sopronkőhida–Fertőrákos–Balf útszakasz felújítással érintett részei:
+
+1.1. 8527. jelű összekötő út Sopron (Szent Mihály domb) – M85 gyorsforgalmi úti csomópont közötti szakasza a 0+000 – 1+640 km szelvények között,
+
+1.2. 8527. jelű összekötő út M85 gyorsforgalmi úti csomópont – Fertőrákos közötti szakasza a 2+450 – 6+360 km szelvények között,
+
+1.3. 8526. jelű összekötő út Fertőrákos átkelési szakasza a 10+429 – 12+395 km szelvények között
+
+1.4. 8526. jelű összekötő út Kópháza és Sopron–Balf átkelési szakaszok az 1+461 – 3+779 km szelvények között.
+
+2. A Balf–Fertőrákos összekötő út és a Fertő tavi vízitelep bekötését biztosító közút fejlesztései:
+
+2.1. 8526. jelű összekötő út Balf–Fertőrákos közötti útszakasz fejlesztése a 3+779 – 10+429 km szelvények között,
+
+2.2. 85124. jelű Fertőrákos Fertő tavi bekötőút fejlesztése kerékpárút megvalósításával.
