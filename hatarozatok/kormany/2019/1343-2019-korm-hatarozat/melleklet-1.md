@@ -12,8 +12,11 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozat 1. pontjában a „2019. március 31.” szövegrész helyébe a „2019. június 30.” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 1. pont b) alpontjában a „2019. december 31.” szövegrész helyébe a „ , valamint a Szerencsejáték Felügyelet javára biztosított 825 521 758 forintból 112 045 204 forint tekintetében 2019. december 31.” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1343/2019. (VI. 11.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
