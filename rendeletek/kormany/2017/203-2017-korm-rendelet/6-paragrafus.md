@@ -2,17 +2,15 @@
 
 6. § (1)[^6] Az 1. mellékletben foglalt táblázat
 
-a)[^7] 2., 3., 9., 13–20. és 24. sora szerinti beruházások építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója,
+a) 2., 3., 7., 9., 13–20. és 24. sora szerinti beruházások építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója,
 
-b) 7. és 23. sora szerinti beruházások építési műszaki ellenőre és beruházás-lebonyolítója,
+b) 23. sora szerinti beruházások építési műszaki ellenőre és beruházás-lebonyolítója,
 
-c)[^8] 22. sora szerinti beruházások építési műszaki ellenőre és felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója
+c) 22. sora szerinti beruházások építési műszaki ellenőre és felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója
 
-## kizárólagos joggal a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
+## kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
 
 (2) Az (1) bekezdés szerinti beruházás-lebonyolítói feladatkörbe az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 43. § (1) bekezdés c)–d), f)–h), j) és k) pontjában, az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 7. § (3) bekezdésében, továbbá az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 5. §-ában foglalt feladatokon túlmenően – az építésügyi szakmagyakorlásra vonatkozó összeférhetetlenségi szabályok betartásával – minden olyan feladat, illetve tevékenység ellátása beletartozik, ami az építési tevékenység szakszerű megvalósításának előkészítésével, ellenőrzésével vagy irányításával kapcsolatos.
 
 [^5]: Az 5. § a 243/2017. (VIII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^6]: A 6. § (1) bekezdése a 141/2018. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^7]: A 6. § (1) bekezdés a) pontja a 223/2018. (XI. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^8]: A 6. § (1) bekezdés c) pontja a 223/2018. (XI. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdése a 136/2019. (VI. 11.) Korm. rendelet 4. §-ával megállapított szöveg.
