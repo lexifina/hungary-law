@@ -1,0 +1,3 @@
+## 1. § A Modern Városok Program keretében egyes turisztikai és városfejlesztési célra irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 202/2017. (VII. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet1.) a következő 4/D. §-sal egészül ki:
+
+## „4/D. § Az 1. mellékletben foglalt táblázat 22. sora szerinti beruházás építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója, kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.”
