@@ -1,3 +1,3 @@
-## 4/C. §[^6] Az 1. mellékletben foglalt táblázat 6. sora szerinti beruházás-lebonyolítója kizárólagos joggal a NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság.
+## 4/D. §[^7] Az 1. mellékletben foglalt táblázat 22. sora szerinti beruházás építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója, kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
 
-[^6]: A 4/C. §-t a 106/2019. (V. 8.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 4/D. §-t a 136/2019. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
