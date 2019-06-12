@@ -1,0 +1,21 @@
+4. § (1) Az ösztöndíj csak a pályázatot elnyert tanuló (a továbbiakban: ösztöndíjas), a középfokú iskola és a miniszter tevékenységét segítő minisztérium közötti, az ösztöndíj folyósításával összefüggő jogokat és kötelezettségeket tartalmazó szerződés megkötését követően folyósítható.
+
+(2) Az ösztöndíjast a jogosulatlanul felvett összeget illetően az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet szerint visszafizetési kötelezettség terheli.
+
+(3) Az ösztöndíjas és a középfokú iskola az ösztöndíj megállapítását követő első tanév végén, valamint az ösztöndíj támogatással érintett második tanév befejezésével egyidejűleg részletes – minden, az ösztöndíjas jogviszonnyal összefüggő eseményről, körülményről – közös, időarányos beszámolót készít és nyújt be a miniszternek a 3. § (2) bekezdés a) pontja szerinti részletes továbbtanulási tervben foglaltak teljesítéséről. A beszámoló része a teljesítés dokumentálása, illetve igazolása.
+
+(4) Az ösztöndíjas jogviszony megszűnik, ha az ösztöndíjas
+
+a) a pályázat benyújtásakor szükséges és fennálló feltételeknek már nem felel meg, illetve ezek a feltételek már nem állnak fenn,
+
+b) nem teljesíti a szerződésben vállalt bármely kötelezettségét,
+
+c) az ösztöndíjról lemond,
+
+d) tanulmányi átlaga a tanulói jogviszony alatt tett rendes érettségi vizsgát közvetlenül megelőző 2 évfolyam bármelyikének végén a 4,00 tanulmányi átlagot nem éri el, illetve az ösztöndíjjal érintett időszak féléves tanulmányi átlageredménye a 3,5 átlag alá csökken, vagy
+
+e) olyan magatartást tanúsított, amely az ösztöndíjas jogviszonyhoz méltatlan.
+
+(5) Az ösztöndíjas jogviszony megszűnése esetén – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet szerint – a miniszter a támogatási szerződést felmondja.
+
+(6) A megüresedett ösztöndíjas helyre pályázat nem írható ki.

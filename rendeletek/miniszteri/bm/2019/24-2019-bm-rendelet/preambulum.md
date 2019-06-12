@@ -1,0 +1,1 @@
+A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 156. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 40. § (2) bekezdés d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
