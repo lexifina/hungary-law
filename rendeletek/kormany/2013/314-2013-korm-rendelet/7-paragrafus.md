@@ -1,3 +1,0 @@
-7. § (1) Az állami szakképzési és felnőttképzési szerv a fenntartó kérésére jogosult a jogszabályi feltételek fennállása esetén a kormányhivataltól a szakképzési megállapodás megkötésének megtagadása indokairól tizenöt napos határidővel tájékoztatást kérni, amennyiben előzetesen a kormányhivatal ugyanazon feltételek fennállása esetén megtagadta azt.
-
-(2) Az (1) bekezdés szerinti kérelmező fenntartó az állami szakképzési és felnőttképzési szerv rendelkezésére bocsát valamennyi, az érdemi döntéshez szükséges adatot és dokumentumot, valamint a kormányhivatal számára előzetesen benyújtott, elutasított szakképzési megállapodás tervezetét.
