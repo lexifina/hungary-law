@@ -12,7 +12,7 @@ b) a nemzetiségi anyanyelvű, kétnyelvű gimnáziumi nevelés-oktatással nem 
 
 (5) A pályázaton az a magyar állampolgár tanuló vehet részt, aki
 
-a) nyilatkozata szerint valamely nemzetiséghez tartozik,
+a)[^4] nyilatkozata szerint – a roma nemzetiség kivételével – valamely nemzetiséghez tartozik,
 
 b) tanulmányi eredménye a pályázat benyújtását megelőző tanév végén az e rendelet Melléklete szerint számított 4.00 átlageredményt eléri,
 
@@ -33,3 +33,5 @@ b) az e rendeletben és a pályázati kiírásban meghatározott feltételeknek 
 (9) Az ösztöndíj időtartama a tanulói jogviszony alatt tett rendes érettségi vizsgát megelőző két tanév.
 
 (10) Ösztöndíjban középiskolánként kettő, ezen belül évfolyamonként egy tanuló részesülhet.
+
+[^4]: A 2. § (5) bekezdés a) pontja a 24/2019. (VI. 7.) BM rendelet 6. § b) pontja szerint módosított szöveg.

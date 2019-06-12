@@ -1,10 +1,10 @@
 6. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^5]
+(2)[^8]
 
 (3) E rendelet rendelkezéseit a folyamatban levő pályázati eljárásban is alkalmazni kell.
 
-Melléklet a 44/2013. (VI. 26.) EMMI rendelethez[^6]
+Melléklet a 44/2013. (VI. 26.) EMMI rendelethez[^9]
 
 | Iktatószám: |
 
@@ -62,7 +62,7 @@ Lakcíme:
 
 | IV. A középiskola ajánlása 1. A tanuló tanulmányi átlaga: (a tanuló féléves és befejezett tanév végi bizonyítványa alapján számítandó: elégtelen osztályzat nem szerepelhet; magatartás és szorgalom osztályzat nem vehető figyelembe) 2. A tanuló szociális helyzete alapján indokolt-e az ösztöndíj megállapítása: (a középiskola a szociális indokoltság kérdésében a rendelkezésére álló adatok alapján foglal állást és állapít meg sorrendet a pályázó tanulók között, a következő szempontokra is tekintettel: részesül-e kollégiumi elhelyezésben, ezen belül szociális helyzetére tekintettel ingyenes-e az elhelyezés, részesül-e más szociális ellátásban) 3. A tanuló III. pontban foglalt nyilatkozatának záradéka: |
 
-| V. A tanuló nyilatkozata Nyilatkozom arról, hogy a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 1. melléklete szerinti bolgár, görög, horvát, lengyel, német, örmény, roma, román, ruszin, szerb, szlovák, szlovén, ukrán nemzetiséghez tartozom. (A megfelelő rész aláhúzandó) |
+| V. A tanuló nyilatkozata Nyilatkozom arról, hogy a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 1. melléklete szerinti bolgár, görög, horvát, lengyel, német, örmény, román, ruszin, szerb, szlovák, szlovén, ukrán nemzetiséghez tartozom. (A megfelelő rész aláhúzandó) |
 
 | VI. A tanuló nyilatkozata Nyilatkozom arról, hogy más forrásból tanulmányi ösztöndíjban nem részesülök, egyben tudomásul veszem, hogy csak valós, nemleges nyilatkozat esetén részesülhetek ösztöndíjban. Hozzájárulok ahhoz, hogy a) ösztöndíjban részesítésem esetén nevem – a miniszterelnök általános helyettese nemzetiségi tanulmányi ösztöndíjasaként – a Kormány honlapján közzétételre kerüljön, b) a Miniszterelnökség a nemzeti köznevelésről szóló 2011. évi CXC. törvény 41. § (4) bekezdés a) pontja szerinti adataimat nyilvántartsa. |
 
@@ -90,5 +90,5 @@ Dátum: ..............., 20... .............. hó .... nap
 
 |  | Kérjük, hogy a borítékra írják rá: „Nemzetiségi Tanulmányi Ösztöndíj” |
 
-[^5]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A melléklet a 2/2018. (VIII. 31.) TNM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 6. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A melléklet a 2/2018. (VIII. 31.) TNM rendelet 1. §-ával megállapított, a 24/2019. (VI. 7.) BM rendelet 6. § c) pontja szerint módosított szöveg.
