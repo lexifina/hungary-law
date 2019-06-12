@@ -1,4 +1,4 @@
-## 6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^4] E rendeletnek a beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 136/2019. (VI. 11.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át a Módr. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 256/2017. (IX. 5.) Korm. rendelethez
 
@@ -41,3 +41,6 @@
 18. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^4]: A 7. §-t a 136/2019. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2019. június 12.
