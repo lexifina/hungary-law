@@ -1,4 +1,4 @@
-5/B. §[^24] (1) A vasúti társaság a Vtv. 9/F. § (1) bekezdése szerinti bejelentését a vasúti igazgatási szerv által rendszeresített formanyomtatványon, az e rendeletben meghatározott tartalommal és módon nyújtja be a vasúti igazgatási szervnek.
+5/B. §[^28] (1) A vasúti társaság a Vtv. 9/F. § (1) bekezdése szerinti bejelentését a vasúti igazgatási szerv által rendszeresített formanyomtatványon, az e rendeletben meghatározott tartalommal és módon nyújtja be a vasúti igazgatási szervnek.
 
 (2) A vasúti tevékenység bejelentése esetén a bejelentésnek tartalmaznia kell:
 
@@ -22,7 +22,7 @@ ca) országos pályahálózat esetében a nyílt hozzáférésű pályahálózat
 
 cb) saját célú vasúti pályahálózat és iparvágány esetében a vágányok, az igénybe venni kívánt csatlakozó és összekötő vágányok, valamint annak megjelölését, hogy a pályahálózat hol csatlakozik az országos, a térségi, az elővárosi, a helyi és a városi pályahálózathoz,
 
-cc) térségi, elővárosi, helyi és városi pályahálózat, kisvasút és múzeumvasút esetében a pályaszakaszok megjelölését;
+cc)[^29] térségi, elővárosi, helyi és városi pályahálózat, keskeny nyomtávolságú vasút és múzeumvasút esetében a pályaszakaszok megjelölését;
 
 d) arra vonatkozó nyilatkozatot, hogy az adott pályahálózatnak a bejelentő a tulajdonosa vagy annak használatára és működtetésére egyéb jog vagy jogviszony alapján jogosult;
 
@@ -32,8 +32,10 @@ e) ha a bejelentő az általa fenntartott vasúti pályahálózathoz nem kíván
 
 (5) A bejelentő a bejelentésért külön jogszabályban előírt igazgatási-szolgáltatási díjat köteles fizetni. A bejelentési kérelemhez mellékelni kell az igazgatási szolgáltatási díj befizetésének igazolását.
 
-(6) A vasúti igazgatási szerv a bejelentést, valamint annak mellékleteit, a bejelentő korábbi bejelentéseit megvizsgálja annak megállapítása érdekében, hogy nem kell-e azt a bejelentőnek hiánypótlásra visszaadni, vagy nincs-e helye a bejelentés érdemi vizsgálat nélküli elutasításának és a szükséges intézkedéseket megteszi.
+(6)[^30]
 
 (7) A bejelentés tudomásul vételével egyidejűleg a vasúti igazgatási szerv a bejelentőt nyilvántartásba veszi.
 
-[^24]: Az 5/B. §-t az 59/2015. (IX. 30.) NFM rendelet 5. §-a iktatta be.
+[^28]: Az 5/B. §-t az 59/2015. (IX. 30.) NFM rendelet 5. §-a iktatta be.
+[^29]: Az 5/B. § (3) bekezdés c) pont cc) alpontja a 10/2019. (V. 29.) ITM rendelet 7. § c) pontja szerint módosított szöveg.
+[^30]: Az 5/B. § (6) bekezdését a 10/2019. (V. 29.) ITM rendelet 8. § b) pontja hatályon kívül helyezte.

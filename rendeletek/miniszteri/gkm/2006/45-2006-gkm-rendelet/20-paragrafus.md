@@ -1,14 +1,17 @@
-## 19/A. §[^72] E rendeletnek az egyes vasúti közlekedési miniszteri rendeletek módosításáról szóló 59/2015. (IX. 30.) NFM rendelet (a továbbiakban: Módr.) 1–8. és 10–13. §-val megállapított 1. § (1) bekezdésének, 2. § (2) bekezdés a) és f) pontjának, 2. § (5) bekezdésének, 3. § (1) bekezdés a) és d) pontjának, 3. § (2) bekezdésének, 4/A. §-ának, 5/A–5/D. §-ának, 6. §-ának, 9. § (1) és (4) bekezdésének, 13. § (1) bekezdés a) és c) pontjának, 17. § (4) bekezdésének, 17. § (5) bekezdés g) pontjának, 17. § (7) bekezdésének, 20. § (1) bekezdés a) pontjának, 1. melléklet a) pontjának, 2. melléklet b), d), f), g) és h) pontjának rendelkezéseit kizárólag a Módr. hatálybalépését[^73] követően indult vagy megismételt eljárásokban kell alkalmazni.
+## 19/B. §[^84] E rendeletnek a vasúti társaságok működésének engedélyezéséről szóló 45/2006. (VII. 11.) GKM rendelet módosításáról szóló 10/2019. (V. 29.) ITM rendelettel (a továbbiakban: Módr1.) megállapított 2. § (2) bekezdés g) pontját, 2. § (3) bekezdését, 5/A. §-át, 13. § (1a) bekezdés d) pontját és 17. § (7) bekezdését a Módr1. hatálybalépését[^85] követően indult vagy megismételt eljárásokban kell alkalmazni.
 
-20. §[^74] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+20. §[^86] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) az egységes európai vasúti térség létrehozásáról szóló 2012. november 21-i 2012/34/EU európai parlament és tanácsi irányelv,
 
-b)–c)[^75]
+b)[^87] az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv és a 2012/34/EU európai parlamenti és tanácsi irányelvnek a belföldi vasúti személyszállítási szolgáltatások piacának megnyitása és a vasúti infrastruktúra irányítása tekintetében történő módosításáról szóló, 2016. december 14-i (EU) 2016/2370 európai parlamenti és tanács irányelv 1. cikk 9. pontja.
+
+c)[^88]
 
 (2) Ez a rendelet a vasútiinfrastruktúra-kapacitás kérelmezőire vonatkozó kritériumokról és a 870/2014/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2015. január 6-i 2015/10/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^72]: A 19/A. §-t az 59/2015. (IX. 30.) NFM rendelet 9. §-a iktatta be.
-[^73]: A hatálybalépés időpontja 2015. október 15.
-[^74]: A 20. § az 59/2015. (IX. 30.) NFM rendelet 10. §-ával megállapított szöveg.
-[^75]: A 20. § b)–c) pontját az 59/2015. (IX. 30.) NFM rendelet 13. § g) pontja hatályon kívül helyezte.
+[^84]: A 19/B. §-t a 10/2019. (V. 29.) ITM rendelet 5. §-a iktatta be.
+[^85]: A hatálybalépés időpontja 2019. június 13.
+[^86]: A 20. § az 59/2015. (IX. 30.) NFM rendelet 10. §-ával megállapított szöveg.
+[^87]: A 20. § b) pontját az 59/2015. (IX. 30.) NFM rendelet 13. § g) pontja hatályon kívül helyezte, újonnan a 10/2019. (V. 29.) ITM rendelet 6. §-a iktatta be.
+[^88]: A 20. § c) pontját az 59/2015. (IX. 30.) NFM rendelet 13. § g) pontja hatályon kívül helyezte.
