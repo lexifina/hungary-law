@@ -1,1 +1,3 @@
-13. § Hatályát veszti a szakképzési megállapodásról szóló 314/2013. (VIII. 28.) Korm. rendelet.
+13. §[^2]
+
+[^2]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
