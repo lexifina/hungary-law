@@ -1,0 +1,1 @@
+## „(3) A (2) bekezdés b), c) és e) pontjában meghatározott kizáró okokat, az ügyben eljáró hatóság határozatának véglegessé válásától, illetve a bíróság határozatának jogerőre emelkedésétől számított öt évig, a d) pontjában foglaltakat két évig kell az engedélyezés során figyelembe venni.”
