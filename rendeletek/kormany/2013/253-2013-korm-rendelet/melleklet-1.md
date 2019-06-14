@@ -1,5 +1,3 @@
-## 7. § Ez a rendelet a kihirdetését követő napon lép hatályba.
-
 1. melléklet a 253/2013. (VII. 5.) Korm. rendelethez
 
 1. NER veszélyhelyzeti ellenőrzési pontok
