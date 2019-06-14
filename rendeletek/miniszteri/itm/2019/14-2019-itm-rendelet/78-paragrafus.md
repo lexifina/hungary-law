@@ -1,3 +1,3 @@
-## 77. § Hatályát veszti a fejezeti és az egyes központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló
+## 77. §[^1]
 
-## 37/2018. (XII. 28.) ITM rendelet.
+[^1]: A 77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
