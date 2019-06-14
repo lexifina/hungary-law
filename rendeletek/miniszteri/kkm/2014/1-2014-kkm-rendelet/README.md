@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1-20-6Q
 | 2015-10-31 | 2014-1-20-6Q.3 | 4/2015. (X. 30.) KKM rendelet |
 | 2016-04-22 | 2014-1-20-6Q.4 | 3/2016. (IV. 21.) KKM rendelet |
 | 2017-09-19 | 2014-1-20-6Q.5 | 12/2017. (IX. 18.) KKM rendelet |
+| 2019-06-14 | 2014-1-20-6Q.6 | 3/2019. (VI. 13.) KKM rendelet |
