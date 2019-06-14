@@ -178,6 +178,6 @@
 
 | Összes mákszalma (C) AOA (kg) |  |
 
-10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^138]
+10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^140]
 
-[^138]: A 10. melléklet a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés o) pontja, a 162/2018. (IX. 10.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^140]: A 10. melléklet a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés o) pontja, a 162/2018. (IX. 10.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.

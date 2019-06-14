@@ -1,4 +1,4 @@
-26/A. §[^109] (1) A rendőrség helyszíni ellenőrzést végezhet bármely szervezetnél, ha valószínűsíthető, hogy az kábítószerrel, pszichotróp vagy új pszichoaktív anyaggal rendelkezik vagy folytat tevékenységet.
+26/A. §[^110] (1) A rendőrség helyszíni ellenőrzést végezhet bármely szervezetnél, ha valószínűsíthető, hogy az kábítószerrel, pszichotróp vagy új pszichoaktív anyaggal rendelkezik vagy folytat tevékenységet.
 
 (2) A hatósági ellenőrzés módjai
 
@@ -30,4 +30,4 @@ e) az észlelt hiányosságokat és az azok megszüntetésére tett intézkedés
 
 (8) A rendőrség – a tevékenység jellegén és a korábbi ellenőrzések tapasztalatain alapuló – kockázatelemzéssel meghatározott időközönként, de legalább háromévente hivatalból ellenőrzi az engedélyest, illetve a nyilvántartásba vett személyt vagy gazdálkodó szervezetet, hogy a működésére vonatkozó jogszabályokban, illetve a végrehajtható döntésben foglaltaknak megfelelően működik-e.
 
-[^109]: A 26/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 390. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^110]: A 26/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 390. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

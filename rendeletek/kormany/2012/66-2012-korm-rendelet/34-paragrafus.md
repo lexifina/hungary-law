@@ -6,4 +6,8 @@ b) a Tanács 2008. március 3-i 2008/206/IB határozata (2008. március 3.) az 1
 
 c) a Tanács 2010. december 2-i 2010/759/IB határozata (2010. december 2.) a 4-metilmetkatinon (mefedron) ellenőrzési intézkedések alá vonásáról,
 
-d) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról.
+d) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról,
+
+e)[^128] az Európai Parlament és a Tanács (EU) 2017/2103 irányelve (2017. november 15.) a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről.
+
+[^128]: A 34. § e) pontját a 113/2019. (V. 15.) Korm. rendelet 2. §-a iktatta be.
