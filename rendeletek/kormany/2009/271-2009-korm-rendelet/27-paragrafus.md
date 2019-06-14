@@ -1,3 +1,6 @@
+## 26. §[^43] A vasúti társaság az e rendeletnek az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló 271/2009. (XII. 1.) Korm. rendelet, valamint a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet módosításáról szóló 128/2019. (V. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 23/A. §-a szerinti vészhelyzeti tervet első alkalommal a Módr. hatálybalépését[^44] követő 90 napon belül készíti el.
+
 ## Az Európai Unió jogának való megfelelés
 
-27. § E rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvénnyel, valamint az annak 88. § (1) bekezdés b)–c) pontjában foglalt felhatalmazás alapján kiadott kormányrendeletekkel együtt – a vasúti személyszállítást igénybe vevő utasok jogairól és kötelezettségeiről szóló, 2007. október 23-i 1371/2007/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+[^43]: A 26. § a 128/2019. (V. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^44]: A hatálybalépés időpontja 2019. június 14.
