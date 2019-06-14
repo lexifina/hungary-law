@@ -1,0 +1,116 @@
+# A Kormány 1357/2019. (VI. 14.) Korm. határozata
+
+Magyar Közlöny 2019. évi 101. szám, 2019. június 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/IWuc0CravNvdPDQfS6WK5cfff4fe66b65/dokumentumok/37a1539ad191d07708ac7ac2d83de7a0cc8edab7/letoltes)
+
+---
+
+A Kormány 1357/2019. (VI. 14.) Korm. határozata
+a kormányzati szektorba nem sorolt, 100%-os önkormányzati tulajdonban álló gazdasági társaságok
+adósságot keletkeztető ügyleteihez történő 2019. áprilisi előzetes kormányzati hozzájárulásról
+A Kormány a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10/E. §-a alapján, tekintettel az adósságot
+keletkeztető ügyletekhez történő hozzájárulás részletes szabályairól szóló 353/2011. (XII. 30.) Korm. rendeletben foglaltakra,
+a következő határozatot hozza:
+A Kormány az ügyletről az 1. mellékletben foglaltak szerint dönt, az engedélyezett ügylet 2019. évben történő
+megkötéséhez az alábbi a)–c) pontban foglalt kiegészítő feltételekkel járul hozzá:
+a) a gazdasági társaság az 1. melléklet szerint engedélyezett ügyletértékek teljes összegétől lefelé eltérhet, ha
+ez nem okozza ezen értékek valamelyikének növekedését egyik évben sem;
+b) a gazdasági társaság egy adott év végéig legfeljebb akkora összegű adósságot keletkeztethet az ügyletből,
+mint amekkora az 1. melléklet szerint az ügyletből az adott év végéig keletkező kumulált adósságösszeg;
+c) fejlesztési célú ügylet esetében a hitelt csak az 1. mellékletben szereplő fejlesztésekre lehet fordítani.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1357/2019. (VI. 14.) Korm. határozathoz
+2019 2020 2021
+2022-től
+összesen
+1.
+BÉKÉSCSABA MEGYEI JOGÚ
+VÁROS ÖNKORMÁNYZATA
+Békéscsaba
+Vagyonkezelő Zrt.
+1 HUF fejlesztés Hitel 10 48 000 000 48 000 000 – – –
+1.1.
+7.5. Egyéb (nem köznevelési, szociális, kulturális és sportcélú) önkormányzati
+tulajdonú létesítmények felújítása, fejlesztés, valamint a fűtés- és világítási
+rendszer korszerűsítése
+24 000 000 Igen
+1.2.
+7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok
+teljesítéséhez szükséges infrastrukturális beruházások
+16 000 000 Igen
+1.3.
+7.5. Egyéb (nem köznevelési, szociális, kulturális és sportcélú) önkormányzati
+tulajdonú létesítmények felújítása, fejlesztés, valamint a fűtés- és világítási
+rendszer korszerűsítése
+4 800 000 Igen
+1.4.
+7.5. Egyéb (nem köznevelési, szociális, kulturális és sportcélú) önkormányzati
+tulajdonú létesítmények felújítása, fejlesztés, valamint a fűtés- és világítási
+rendszer korszerűsítése
+3 200 000 Igen
+2.
+BESENYSZÖG VÁROS
+ÖNKORMÁNYZATA
+BES-Ász Kft. 1 HUF fejlesztés Hitel 12 157 934 000
+7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok
+teljesítéséhez szükséges infrastrukturális beruházások
+157 934 000 Igen 157 934 000 – – –
+3.
+HEVES VÁROS
+ÖNKORMÁNYZATA
+HEVA Hevesi
+Önkormányzati
+Vagyonkezelő Kft.
+1 HUF fejlesztés Pénzügyi lízing 4 6 767 950 1.4. Települési szilárd hulladékok kezelésével kapcsolatos beruházások 6 767 950 Igen 6 767 950 – – –
+4.
+HEVES VÁROS
+ÖNKORMÁNYZATA
+HEVA Hevesi
+Önkormányzati
+Vagyonkezelő Kft.
+1 HUF fejlesztés Pénzügyi lízing 4 8 210 300 1.4. Települési szilárd hulladékok kezelésével kapcsolatos beruházások 8 210 300 Igen 8 210 300 – – –
+5.
+KESZTHELY VÁROS
+ÖNKORMÁNYZATA
+VÜZ Keszthelyi
+Városüzemeltető
+Egyszemélyes Nonprofit
+Kft.
+1 HUF fejlesztés Hitel 11 100 000 000
+7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok
+teljesítéséhez szükséges infrastrukturális beruházások
+100 000 000 Igen 100 000 000 – – –
+6.
+SZENTGOTTHÁRD VÁROS
+ÖNKORMÁNYZATA
+SZET Szentgotthárdi
+Eszközkezelési és
+Területfejlesztő KFT.
+1 HUF fejlesztés Pénzügyi lízing 6 8 734 364
+7.12. Egyéb, törvény által az önkormányzatok számára előírt feladatok
+teljesítéséhez szükséges infrastrukturális beruházások
+8 734 364 Igen 8 734 364 – – –
+Sorszám
+Önkormányzat neve
+Ügylet adatai
+Kormány által
+engedélyezett
+fejlesztéshez/működéshez
+kapcsolódó ügyletérték
+Ügylet sorszáma
+Devizanem
+Ügylet célja
+Ügylet típusa
+Futamideje (év)
+Kérelemmel érintett
+gazdasági társaság neve
+Ügylet keletkeztetésének ütemezése (az ügylet devizanemében) keletkeztetett
+adósság nagysága szerint
+Jóváhagyott ügylet adatai
+Értéke Fejlesztés célja
+Kormány az
+ügylethez/
+fejlesztéshez
+hozzájárul (Igen,
+Nem, Részben)
