@@ -14,8 +14,12 @@
 
 (7) A kapacitás-elosztó szervezet lehetőség szerint eleget tesz minden menetvonal-igénynek, ideértve a több vasúti pályahálózatra kiterjedő menetvonalakra vonatkozó igényeket is, és lehetőség szerint figyelembe veszi az igénylőket terhelő korlátozásokat, ideértve a vállalkozásukra gyakorolt gazdasági hatást is.
 
+(7a)[^8] A kapacitás-elosztó szervezet a honlapján az éves menetvonal-igények benyújtását követően legkésőbb négy hónappal közzéteszi az üzemi menetrend tervezetét. A közzétett tervezetet egy hónappal az éves üzemi menetrend hatálybaléptetését megelőzően a kapacitás-elosztó szervezet frissíteni köteles.
+
 (8) A kapacitás-elosztó szervezet a vasúti pályahálózat-kapacitás éves és az éves pótlólagos menetvonal-igények alapján történő elosztásánál az elegendő szabad kapacitás fenntartása érdekében a napi elméleti kapacitás legfeljebb 80%-át oszthatja ki.
 
 (9) A kapacitás-elosztó szervezet az éves igények és – az éves üzemi menetrend véglegesítésének határidejét legalább tíz héttel megelőzően benyújtott – éves pótlólagos igények alapján köteles elkészíteni az éves üzemi menetrend tervezetét. Az érintett kapacitásigénylőkre vonatkozó részeket írásban, kimutatható módon kell megküldeni úgy, hogy a kapacitásigénylők észrevételeinek megtételére és a szükséges egyeztetések elvégzésére legalább öt hét álljon rendelkezésre, amely alapján a következő két héten belül a kapacitás-elosztó szervezet véglegesíti az éves üzemi menetrendet. A kapacitás-elosztó szervezet lehetőség szerint figyelembe veszi az igénylők valamennyi észrevételét.
 
 (10) Az éves üzemi menetrend készítése során figyelembe nem vett éves pótlólagos igények elbírálási határideje legkésőbb a menetrendi időszak kezdetét megelőző második hét utolsó napja.
+
+[^8]: A 8. § (7a) bekezdését a 13/2019. (V. 31.) ITM rendelet 2. §-a iktatta be.

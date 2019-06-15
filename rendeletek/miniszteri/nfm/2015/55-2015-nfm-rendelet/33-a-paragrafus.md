@@ -1,0 +1,1 @@
+## 33. § A vasúti pályahálózat karbantartási, felújítási és fejlesztési munkáinak figyelembevételére vonatkozó eljárásrendet első ízben a 2016. év december hónap második vasárnapjától kezdődő menetrendi évre vonatkozóan kell alkalmazni.

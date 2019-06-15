@@ -6,4 +6,8 @@
 
 (4) A nyílt hozzáférésű vasúti pályahálózat működtetése érdekében közlekedő üzemi vonat részére jelzett menetvonal-igényt a pályahálózat-működtető a vonat tervezett közlekedését megelőzően nyújthatja be. A menetvonal-igényt a kapacitás-elosztó szervezet a lehető leghamarabb, de legkésőbb a vonat indulásáig bírálja el.
 
+(4a)[^9] A kapacitás-elosztó szervezet a kiutalt menetvonalat módosíthatja, ha az más menetvonaligény kielégítése érdekében szükséges, és ahhoz a már korábban kiutalt menetvonal igénylője hozzájárul.
+
 (5) A kiutalt kapacitásigényben foglalt időadatoktól eltérően is igénybe vehető a kiutalt kapacitás, a vasúti teljesítményösztönző rendszer részletes szabályairól szóló miniszteri rendeletben meghatározott késési kódok alkalmazásával a Hálózati Üzletszabályzatban meghirdetett időintervallumon belül.
+
+[^9]: A 13. § (4a) bekezdését a 13/2019. (V. 31.) ITM rendelet 3. §-a iktatta be.
