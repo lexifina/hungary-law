@@ -14,7 +14,7 @@ b) az 1. mellékletben foglalt valamely kormányzati kommunikációs feladattal 
 
 3. érintett szervezet: az 5. § (1) bekezdése szerinti jogi személy;
 
-4. kiemelt fontosságú kormányzati kommunikációs feladat: a részben vagy egészben központi költségvetési támogatásból megvalósítandó, legalább – a Kbt. 16. § (1) bekezdése szerint számított – 100 millió forint teljes költségigényű beruházás során megvalósított olyan kormányzati kommunikációs feladat, amelynek értéke eléri az uniós közbeszerzési értékhatárt;
+4.[^6] kiemelt fontosságú kormányzati kommunikációs feladat: a részben vagy egészben központi költségvetési támogatásból vagy európai uniós forrásból megvalósítandó, legalább – a Kbt. 16. § (1) bekezdése szerint számított – 100 millió forint teljes költségigényű építési beruházás, árubeszerzés vagy szolgáltatás-megrendelés során megvalósított olyan kormányzati kommunikációs feladat, amelynek értéke eléri a nemzeti közbeszerzési értékhatárt;
 
 5. kormányzati kommunikációs feladat: az érintett szervezet által feladatkörében a feladatai hatékonyabb ellátása érdekében vagy társadalmi szerepvállalás keretében bármely forrásból végrehajtott, az 1. mellékletben meghatározott feladat;
 
@@ -24,11 +24,23 @@ b) az 1. mellékletben foglalt valamely kormányzati kommunikációs feladattal 
 
 8. szállító: a központosított közbeszerzési rendszer keretében lefolytatott eljárás eredményeképpen keretmegállapodást vagy egyedi közbeszerzési szerződést kötő ajánlattevő;
 
-9.[^6] szponzoráció: olyan eseti vagy rendszeres – pénzbeli vagy új eszköz, termék útján nyújtott nem pénzbeli – hozzájárulás valamely rendezvényhez, tevékenységhez, illetve személy számára, amelyet az érintett szervezet kommunikációs célból, piaci helyzetének javítása vagy társadalmi szerepvállalás érdekében nyújt.
+9.[^7] szponzoráció: olyan eseti vagy rendszeres – pénzbeli vagy új eszköz, termék útján nyújtott nem pénzbeli – hozzájárulás valamely rendezvényhez, tevékenységhez, illetve személy számára, amelyet az érintett szervezet kommunikációs célból, piaci helyzetének javítása vagy társadalmi szerepvállalás érdekében nyújt;
+
+10.[^8] kiemelt fontosságú rendezvényszervezési feladat: olyan rendezvényszervezés,
+
+a) amelyet az 5. § (1) bekezdés a)–d) pontjában fel nem sorolt szervezet valósít meg,
+
+b) amely során a rendezvény összköltségének legalább fele az 5. § (1) bekezdés a)–d) pontjában meghatározott valamely szervezet által nyújtott támogatás,
+
+c) amely esetében a rendezvény összköltsége a Kbt. 111. § d) pontja szerinti költséget eléri, és
+
+d) amely kormányzati kommunikációs szempontból – így célcsoportjára, jellegére, időtartamára tekintettel – kiemelt jelentőségű összejövetelen valósul meg.
 
 [^1]: Az 1. § a 189/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 99/2018. (VI. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § a 48/2017. (III. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (2) bekezdés 1. pontját a 102/2017. (IV. 28.) Korm. rendelet 8. § (1) bekezdés a) pontja hatályon kívül helyezte, újonnan a 99/2018. (VI. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^5]: Az 1. § (2) bekezdés 2. pontja a 99/2018. (VI. 8.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (2) bekezdés 9. pontja a 99/2018. (VI. 8.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (2) bekezdés 4. pontja a 134/2019. (VI. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (2) bekezdés 9. pontja a 99/2018. (VI. 8.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (2) bekezdés 10. pontját a 134/2019. (VI. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.

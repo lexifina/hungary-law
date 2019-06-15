@@ -1,6 +1,6 @@
-4/A. §[^16] (1) A Hivatal rendelkezhet úgy, hogy az érintett szervezetek részére kizárólag a saját elektronikus felületén biztosítja a kapcsolattartást.
+4/A. §[^22] (1) A Hivatal rendelkezhet úgy, hogy az érintett szervezetek részére kizárólag a saját elektronikus felületén biztosítja a kapcsolattartást.
 
-(2)[^17]
+(2)[^23]
 
-[^16]: A 4/A. §-t a 475/2015. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
-[^17]: A 4/A. § (2) bekezdését a 102/2017. (IV. 28.) Korm. rendelet 8. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^22]: A 4/A. §-t a 475/2015. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^23]: A 4/A. § (2) bekezdését a 102/2017. (IV. 28.) Korm. rendelet 8. § (1) bekezdés c) pontja hatályon kívül helyezte.

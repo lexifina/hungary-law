@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-247-20-
 | 2018-07-01 | 2014-247-20-22.17 | 99/2018. (VI. 8.) Korm. rendelet |
 | 2018-08-01 | 2014-247-20-22.18 | 475/2015. (XII. 29.) Korm. rendelet |
 | 2019-03-22 | 2014-247-20-22.19 | 50/2019. (III. 14.) Korm. rendelet |
+| 2019-06-15 | 2014-247-20-22.20 | 134/2019. (VI. 7.) Korm. rendelet |
