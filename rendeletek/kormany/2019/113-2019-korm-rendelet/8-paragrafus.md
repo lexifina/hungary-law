@@ -1,1 +1,0 @@
-## „(2a) Az országos tisztifőorvos az (1a) bekezdésben foglaltakról soron kívül tájékoztatja a kormányhivatalokat, a megyei védelmi bizottságokat, az OMSZ szolgálatvezető főorvosát, az OGYÉI és az ÁEEK főigazgatóját, valamint az egészségügyért felelős minisztert.”

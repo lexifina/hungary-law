@@ -1,4 +1,4 @@
-## lép.
+## 6–9. §[^4]
 
 ## 4. Záró rendelkezések
 
@@ -13,3 +13,5 @@ b) az 1082/2013/EU európai parlamenti és tanácsi határozat szerint a korai f
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) Ez a rendelet a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i (EU) 2017/2103 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+[^4]: A 6–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
