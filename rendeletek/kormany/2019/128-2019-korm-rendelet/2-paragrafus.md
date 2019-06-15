@@ -1,5 +1,3 @@
-## 1. § Az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló 271/2009. (XII. 1.) Korm. rendelet (a továbbiakban: R1.) III. fejezete a következő alcím címmel és 23/A. §-sal egészül ki:
+## 1. §[^1]
 
-## „Vészhelyzeti terv
-
-## 23/A. § A vasúti társaság a szolgáltatásokban bekövetkező nagyobb zavarok esetére – a 3. § (1) bekezdés b) pontjában meghatározott rendelkezések kivételével – az EK rendelet 18. cikke szerinti segítségnyújtásra vonatkozó rendelkezéseket tartalmazó vészhelyzeti tervet készít.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
