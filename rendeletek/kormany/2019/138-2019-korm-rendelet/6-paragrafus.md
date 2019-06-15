@@ -1,9 +1,5 @@
-## 5. § A Statútum rendelet 141. § (2) bekezdés p) pontja helyébe a következő rendelkezés lép, és a következő q) ponttal egészül ki:
-
-## (A miniszter a külpolitikáért való felelőssége keretében)
-
-## „p) felelős a magyar külügyi képzési rendszernek, különösen a diplomata képzések rendszerének a megalapozásáért,
-
-## q) ellátja a Stipendium Hungaricum ösztöndíjprogram működtetésével kapcsolatos, külön jogszabályban meghatározott feladatokat.”
+## 1–5. §[^2]
 
 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
