@@ -66,7 +66,7 @@
 
 | 33. | Bárka Kőbányai Humánszolgáltató Központ | Budapest |
 
-| 34. | Budapest XXI. Kerület Csepel Önkormányzata Tóth Ilona Egészségügyi Szolgálat XXI. kerület | Budapest |
+| 34. | Budapest XXI. Kerület Csepel Önkormányzata Tóth Ilona Egészségügyi Szolgálat | Budapest |
 
 | 35. | Budapesti Szent Ferenc Kórház | Budapest |
 
@@ -122,7 +122,7 @@
 
 | 61. | Dr. Török Sándor Egészségügyi Központ | Balatonboglár |
 
-| 62. | Dunakeszi Egészségügyi és Szociális Nonprofit Kft. | Dunakeszi |
+| 62. | Dunakeszi-SZTK Egészségügyi és Szociális Közhasznú Nonprofit Kft. | Dunakeszi |
 
 | 63. | Dunavecse Város Önkormányzat Dr. Kolozs Gergely Kistérségi Járóbeteg Szakellátó Centrum és Szociális Intézmény | Dunavecse |
 
@@ -152,7 +152,7 @@
 
 | 76. | Ferencvárosi Egészségügyi Szolgáltató Kiemelkedően Közhasznú Nonprofit Kft. | Budapest |
 
-| 77. | Gálfi Béla Gyógyító és Rehabilitációs Nonprofit Kft. | Pomáz |
+| 77. | URBS PRO PATIENTE Egészségügyi Fejlesztő és Üzemeltető Közhasznú Nonprofit Kft. | Pomáz |
 
 | 78. | Gazdasági-Mûszaki Ellátó és Szolgáltató Szervezet | Szabadszállás |
 
@@ -164,7 +164,7 @@
 
 | 82. | Gróf Tisza István Kórház | Berettyóújfalu |
 
-| 83. | Szent Kristóf Szakrendelő Újbudai és Egészségügyi Szolgáltató Nonprofit Kft. | Budapest |
+| 83. | Szent Kristóf Szakrendelő Újbudai Egészségügyi és Szolgáltató Közhasznú Nonprofit Kft. | Budapest |
 
 | 84. | Sajószentpéteri Gyógyító-Megelőző Intézmény | Sajószentpéter |
 
@@ -194,7 +194,7 @@
 
 | 97. | Kanizsai Dorottya Kórház | Nagykanizsa |
 
-| 98. | Kaposvári Egyetem Egészségügyi Központ | Kaposvár |
+| 98. |  |  |
 
 | 99. | Karolina Kórház – Rendelőintézet | Mosonmagyaróvár |
 
@@ -334,7 +334,7 @@
 
 | 167. | PÉTEGISZ Polgár és Térsége Egészségügyi Központ Nonprofit Zrt. | Polgár |
 
-| 168. | Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet | Budapest |
+| 168. | Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet | Budapest |
 
 | 169. | Petz Aladár Megyei Oktató Kórház, Győr | Győr |
 
@@ -396,7 +396,7 @@
 
 | 198. | Szent Imre Kórház | Budapest |
 
-| 199. | Szent János Kórház és Észak-budai Egyesített Kórházak | Budapest |
+| 199. | Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő | Budapest |
 
 | 200. | Szent Kozma és Damján Rehabilitációs Szakkórház | Visegrád |
 
@@ -492,7 +492,7 @@
 
 | 246. | Cserkeszőlő Fürdő és Gyógyászati Központ | Cserkeszőlő |
 
-| 247. | Rákosmente Önkormányzata | Budapest |
+| 247. |  |  |
 
 | 248. | Egészségügyi és Szociális Intézmények Igazgatósága Szegedi Tudományegyetem Háziorvosi Oktató Központja | Kecskemét |
 
@@ -522,7 +522,7 @@
 
 | 261. | Százhalombattai Egészségügyi Közalapítvány | Százhalombatta |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^65]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^71]
 
 ## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
 
@@ -728,4 +728,4 @@
 
 | 17 | 49–51 | 46 600 | 49 114 | 56 724 |
 
-[^65]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^71]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.

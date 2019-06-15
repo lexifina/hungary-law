@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2018-10-01 | 2013-256-20-22.30 | 394/2013. (XI. 14.) Korm. rendelet |
 | 2018-10-09 | 2013-256-20-22.31 | 184/2018. (X. 8.) Korm. rendelet |
 | 2019-01-01 | 2013-256-20-22.32 | 287/2018. (XII. 21.) Korm. rendelet |
+| 2019-06-15 | 2013-256-20-22.33 | 139/2019. (VI. 14.) Korm. rendelet |
