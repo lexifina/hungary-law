@@ -138,7 +138,9 @@ x)[^21] órai többletkapacitás: a túllépéssel érintett órában átvett en
 
 y)[^22] mFRR kiegyenlítő szabályozási kapacitás: a villamos energia kiegyenlítő szabályozásra vonatkozó iránymutatás létrehozásáról szóló, 2017. november 23-i 2017/2195/EU bizottsági rendelet (a továbbiakban: 2017/2195/EU bizottsági rendelet) 18. cikk (1) bekezdése alapján meghatározott kapacitás (a továbbiakban: mFRR kapacitás),
 
-z)[^23] kiegyenlítő szabályozási szolgáltató: a 2017/2195/EU bizottsági rendelet 2. cikk 6. pontja szerinti szolgáltató.
+z)[^23] kiegyenlítő szabályozási szolgáltató: a 2017/2195/EU bizottsági rendelet 2. cikk 6. pontja szerinti szolgáltató,
+
+zs)[^24] szomszédos nem EU tagállami betáplálási-kiadási pontok: a földgázszállító rendszer a) pont aa) alpont aad), aaf) és aam) alpontjai, mint határkeresztező gázvezetéki átadási-átvételi pontok, melyek a hazai szállítási rendszert egy nem európai uniós ország szállítási rendszerével kötnek össze.
 
 (2) A csatlakozási díjak tekintetében e rendelet alkalmazásában:
 
@@ -162,11 +164,11 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 
 8. rákapcsolás: a 2004. január 27. előtt létesült leágazó elosztóvezetékkel rendelkező ingatlanokon a leágazó elosztóvezeték, a csatlakozó vezeték és a fogyasztói vezeték üzembe helyezése.
 
-(3)[^24] Az e rendeletben meg nem határozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok, valamint a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló 459/2017/EU bizottsági rendelet (a továbbiakban: 459/2017/EU bizottsági rendelet) szerint kell értelmezni.
+(3)[^25] Az e rendeletben meg nem határozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok, valamint a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló 459/2017/EU bizottsági rendelet (a továbbiakban: 459/2017/EU bizottsági rendelet) szerint kell értelmezni.
 
-(4)[^25] Az e rendeletben foglaltakat az egyetemes szolgáltatóra vonatkozóan a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló 69/2016. (XII. 29.) NFM rendeletben foglaltakra tekintettel kell alkalmazni.
+(4)[^26] Az e rendeletben foglaltakat az egyetemes szolgáltatóra vonatkozóan a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló 69/2016. (XII. 29.) NFM rendeletben foglaltakra tekintettel kell alkalmazni.
 
-(5)[^26] Az e rendeletben foglaltakat a rendszerüzemeltető és rendszerhasználó viszonylatában azon rendszerhasználóra kell alkalmazni, aki rendszerhasználati szerződéses kapcsolatban áll az adott rendszerüzemeltetővel.
+(5)[^27] Az e rendeletben foglaltakat a rendszerüzemeltető és rendszerhasználó viszonylatában azon rendszerhasználóra kell alkalmazni, aki rendszerhasználati szerződéses kapcsolatban áll az adott rendszerüzemeltetővel.
 
 [^1]: Az 1. alcím (1. §) a 14/2016. (XII. 20.) MEKH rendelet 3. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pont aa) alpont aah) alpontja a 7/2017. (VII. 13.) MEKH rendelet 19. § a) pontja szerint módosított szöveg.
@@ -191,6 +193,7 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 [^21]: Az 1. § (1) bekezdés x) pontját a 7/2017. (VII. 13.) MEKH rendelet 2. § (4) bekezdése iktatta be.
 [^22]: Az 1. § (1) bekezdés y) pontját a 4/2019. (IV. 12.) MEKH rendelet 1. §-a iktatta be.
 [^23]: Az 1. § (1) bekezdés z) pontját a 4/2019. (IV. 12.) MEKH rendelet 1. §-a iktatta be.
-[^24]: Az 1. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^25]: Az 1. § (4) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdése iktatta be.
-[^26]: Az 1. § (5) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (6) bekezdése iktatta be.
+[^24]: Az 1. § (1) bekezdés zs) pontját az 5/2019. (V. 31.) MEKH rendelet 9. § (2) bekezdése iktatta be.
+[^25]: Az 1. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^26]: Az 1. § (4) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdése iktatta be.
+[^27]: Az 1. § (5) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (6) bekezdése iktatta be.

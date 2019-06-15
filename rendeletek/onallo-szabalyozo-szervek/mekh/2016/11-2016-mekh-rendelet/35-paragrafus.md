@@ -1,6 +1,6 @@
-## 34. §[^81]
+## 34. §[^86]
 
-## 18.[^82]
+## 18.[^87]
 
-[^81]: A 34. §-t a 4/2019. (IV. 12.) MEKH rendelet 9. § b) pontja hatályon kívül helyezte.
-[^82]: A 18. alcímet (35. §) a 7/2017. (VII. 13.) MEKH rendelet 20. § e) pontja hatályon kívül helyezte.
+[^86]: A 34. §-t a 4/2019. (IV. 12.) MEKH rendelet 9. § b) pontja hatályon kívül helyezte.
+[^87]: A 18. alcímet (35. §) a 7/2017. (VII. 13.) MEKH rendelet 20. § e) pontja hatályon kívül helyezte.

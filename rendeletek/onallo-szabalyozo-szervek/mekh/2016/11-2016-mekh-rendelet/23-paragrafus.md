@@ -2,13 +2,13 @@
 
 23. § (1) Az elosztási forgalmi díjat az 1. § (1) bekezdés a) pont ab) alpont aba)–abc) alpontja szerinti átadási-átvételi pontokon mért és allokált földgáz mennyisége alapján számított energiamennyiségre kell megfizetni.
 
-(2)[^66] Az elosztási kapacitásdíjat a lekötött kapacitás után az 1. § (1) bekezdés a) pont ab) alpont aba)–abc) alpontjai szerinti átadási-átvételi pontokra kell megfizetni
+(2)[^71] Az elosztási kapacitásdíjat a lekötött kapacitás után az 1. § (1) bekezdés a) pont ab) alpont aba)–abc) alpontjai szerinti átadási-átvételi pontokra kell megfizetni
 
 a) az éves és negyedéves kapacitástermék igénybevétele esetén a szerződési időszak során havi egyenlő részletekben, havi kapacitástermék igénybevétele esetén a szerződési időszak során a tárgyhó első napi esedékességgel,
 
 b) a napi és napon belüli kapacitástermék igénybevétele esetén leghamarabb a szerződéses időszakot követő hónap első napi esedékességgel.
 
-(2a)[^67] A 22. § (2) bekezdés c)–e) pontjai szerinti értékesítési kategóriába tartozó, elosztási kapacitásdíj fizetésre kötelezett vagy azt ellátó rendszerhasználó a téli fogyasztási időszakra eső valamely nap esetén az adott napra vonatkozó éves, negyedéves, havi és napi termékek együttes figyelembevételével minimális lekötésként a
+(2a)[^72] A 22. § (2) bekezdés c)–e) pontjai szerinti értékesítési kategóriába tartozó, elosztási kapacitásdíj fizetésre kötelezett vagy azt ellátó rendszerhasználó a téli fogyasztási időszakra eső valamely nap esetén az adott napra vonatkozó éves, negyedéves, havi és napi termékek együttes figyelembevételével minimális lekötésként a
 
 a) 22. § (2) bekezdés c) pontja szerinti felhasználó esetén legalább 210 kWh/h,
 
@@ -18,16 +18,16 @@ c) 22. § (2) bekezdés e) pontja szerinti felhasználó esetén legalább 5250 
 
 ## kapacitást köteles lekötni, amely minimális lekötést az 5. § szerinti, nem téli fogyasztási időszakra lekötött kapacitással rendelkező felhasználók esetén a nem téli fogyasztási időszakra lekötött – nullánál nagyobb – kapacitással csökkentheti.
 
-(2b)[^68] A földgázelosztó a (2a) bekezdésben szereplő feltétel teljesülését az adott gázév április 30-áig ellenőrzi. A felhasználó a (2a) bekezdésben szereplő feltétel nem teljesülése esetén a (2a) bekezdésben szereplő feltételhez tartozó éves díj és a korábban megfizetett kapacitásdíjak pozitív különbségét pótdíjként köteles megfizetni a földgázelosztó részére az adott gázév június 30-áig.
+(2b)[^73] A földgázelosztó a (2a) bekezdésben szereplő feltétel teljesülését az adott gázév április 30-áig ellenőrzi. A felhasználó a (2a) bekezdésben szereplő feltétel nem teljesülése esetén a (2a) bekezdésben szereplő feltételhez tartozó éves díj és a korábban megfizetett kapacitásdíjak pozitív különbségét pótdíjként köteles megfizetni a földgázelosztó részére az adott gázév június 30-áig.
 
-(3)[^69] A tárgyhó első napján esedékes elosztási alapdíjat az 1. § (1) bekezdés a) pont ab) alpont aba)–abc) alpontjai szerinti átadási-átvételi pontra kell megfizetni. A 22. § (2) bekezdés c)–e) pontjai szerinti felhasználók esetén az elosztási alapdíjat a fogyasztásmérők névleges (össz)kapacitásával szorozva kell kiszámítani. A 22. § (2) bekezdés b) pontja szerinti felhasználók esetén az elosztási alapdíjat a felhasználók után a felhasználók száma szerint, rendszerhasználóként eljáró felhasználónak a felhasználási helyre kell megfizetni.
+(3)[^74] A tárgyhó első napján esedékes elosztási alapdíjat az 1. § (1) bekezdés a) pont ab) alpont aba)–abc) alpontjai szerinti átadási-átvételi pontra kell megfizetni. A 22. § (2) bekezdés c)–e) pontjai szerinti felhasználók esetén az elosztási alapdíjat a fogyasztásmérők névleges (össz)kapacitásával szorozva kell kiszámítani. A 22. § (2) bekezdés b) pontja szerinti felhasználók esetén az elosztási alapdíjat a felhasználók után a felhasználók száma szerint, rendszerhasználóként eljáró felhasználónak a felhasználási helyre kell megfizetni.
 
 (4) Ha a földgázellátás a földgázelosztónak felróható okból egybefüggő 24 órás időtartamnál hosszabb üzemzavar miatt szünetel, az elosztási kapacitásdíjat a kieső órák arányában nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
 
-(5)[^70] Ha a földgázellátás a földgázelosztónak felróható okból egybefüggő 24 órás időtartamnál hosszabb ideig szünetel, az elosztási alapdíjat a kieső napok (24 órás időszakok) arányában nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
+(5)[^75] Ha a földgázellátás a földgázelosztónak felróható okból egybefüggő 24 órás időtartamnál hosszabb ideig szünetel, az elosztási alapdíjat a kieső napok (24 órás időszakok) arányában nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.
 
-[^66]: A 23. § (2) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^67]: A 23. § (2a) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 13. § (2) bekezdése iktatta be.
-[^68]: A 23. § (2b) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 13. § (2) bekezdése iktatta be.
-[^69]: A 23. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^70]: A 23. § (5) bekezdése a 11/2016. (XI. 14.) MEKH rendelet – 11/2017. (VIII. 25.) MEKH rendelet 13. § (1) bekezdés a) pontja szerint módosított – 19. § h) pontja szerint módosított szöveg.
+[^71]: A 23. § (2) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^72]: A 23. § (2a) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 13. § (2) bekezdése iktatta be.
+[^73]: A 23. § (2b) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 13. § (2) bekezdése iktatta be.
+[^74]: A 23. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^75]: A 23. § (5) bekezdése a 11/2016. (XI. 14.) MEKH rendelet – 11/2017. (VIII. 25.) MEKH rendelet 13. § (1) bekezdés a) pontja szerint módosított – 19. § h) pontja szerint módosított szöveg.

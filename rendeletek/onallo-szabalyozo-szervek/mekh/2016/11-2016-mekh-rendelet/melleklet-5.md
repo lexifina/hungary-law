@@ -1,4 +1,4 @@
-5. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^114]
+5. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^121]
 
 I. Az éven belüli kapacitáslekötés esetében alkalmazandó szorzószámok a szállítási kapacitásdíjak esetén
 
@@ -124,4 +124,4 @@ II. 2. Havi lekötés esetén
 
 II. 3. Napi és napon belüli lekötés esetén
 
-[^114]: Az 5. mellékletet a 7/2017. (VII. 13.) MEKH rendelet 21. §-a iktatta be.
+[^121]: Az 5. mellékletet a 7/2017. (VII. 13.) MEKH rendelet 21. §-a iktatta be.
