@@ -6,12 +6,12 @@
 
 (3) Az árszabályozási ciklus további éveire vonatkozó ármegállapítás rendszerét, az indokolt költségek adott évi aktualizált értékének meghatározására alkalmazott módszerek leírását, a Hivatal által a GET 104/B. § (2) bekezdés b) pontja alapján kiadott módszertani útmutató tartalmazza.
 
-(4)[^1] Ha az engedélyköteles tevékenységre vonatkozó – a tárgyévi auditált éves beszámolóban vagy az engedélyesnél az előzetes mérlegben szereplő, az Üzemi és Kereskedelmi Szabályzat (a továbbiakban: ÜKSZ) és a Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete szerint kivetett, illetve beszedett pótdíjak és aukciós díjak nélkül számított – üzemi (üzleti) tevékenységi eredmény túllépi az egyes rendszerüzemeltetők engedélyköteles tevékenysége által szabadon elérhető nyereség felső korlátját (a továbbiakban: nyereségkorlát), úgy az adott szállítási rendszerüzemeltetési, földgázelosztási vagy földgáztárolói engedélyesi tevékenységet végző társaság köteles a Hivatallal egyeztetett módon – a szállítási rendszerüzemeltetők esetében a szállítási rendszerüzemeltetési díjból származó árbevétel megosztására vonatkozó kiegyenlítő fizetésekről szóló MEKH rendeletben megállapított kiegyenlítő fizetések összegének figyelembevételével – többletnyereségét megosztani a rendszerhasználókkal.
+(4)[^2] Ha az engedélyköteles tevékenységre vonatkozó – a tárgyévi auditált éves beszámolóban vagy az engedélyesnél az előzetes mérlegben szereplő, az Üzemi és Kereskedelmi Szabályzat (a továbbiakban: ÜKSZ) és a Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete szerint kivetett és beszedett pótdíjak, továbbá aukciós díjak nélkül számított – üzemi (üzleti) tevékenységi eredmény túllépi az egyes rendszerüzemeltetők – kivéve a szállítási rendszerüzemeltető – engedélyköteles tevékenysége által szabadon elérhető nyereség felső korlátját (a továbbiakban: nyereségkorlát), az adott földgázelosztási vagy földgáztárolói engedélyesi tevékenységet végző társaság többletnyereségének a rendszerhasználókkal való megosztása a Hivatallal egyeztetett módon, a GET 104/B. § (2) bekezdés b) pontja alapján kiadott módszertani útmutatóban foglaltak figyelembevételével történik.
 
-(5)[^2] A nyereségkorlát kiszámítására, a többletnyereség rendszerhasználókkal megosztandó mértékének megállapítására vonatkozó útmutatást a GET 104/B. § (2) bekezdés b) pontja alapján kiadott módszertani útmutató tartalmazza.
+(5)[^3] A nyereségkorlát kiszámítására, a többletnyereség rendszerhasználókkal megosztandó mértékének megállapítására vonatkozó útmutatást a GET 104/B. § (2) bekezdés b) pontja alapján kiadott módszertani útmutató tartalmazza.
 
-(6)[^3] A pótdíjak és az aukciós bevételek díjmegállapítás szempontjából történő kezelésére vonatkozó útmutatást a GET 104/B. § (2) bekezdés b) pontja alapján kiadott módszertani útmutató tartalmazza.
+(6)[^4] A pótdíjak és az aukciós bevételek díjmegállapítás szempontjából történő kezelésére vonatkozó útmutatást a GET 104/B. § (2) bekezdés b) pontja alapján kiadott módszertani útmutató tartalmazza.
 
-[^1]: A 13. § (4) bekezdése a 4/2017. (IV. 26.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^2]: A 13. § (5) bekezdése a 4/2017. (IV. 26.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^3]: A 13. § (6) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 1. §-a iktatta be.
+[^2]: A 13. § (4) bekezdése az 5/2019. (V. 31.) MEKH rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^3]: A 13. § (5) bekezdése a 4/2017. (IV. 26.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^4]: A 13. § (6) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 1. §-a iktatta be.
