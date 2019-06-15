@@ -1,3 +1,3 @@
-## 27. §[^188]
+## 27. §[^188] A 2019. évi minimálbér és garantált bérminimum kompenzációja céljából a tárgyévi fejezeti kezelésű előirányzat összege megemelésre kerül, és Biztos Kezdet Gyerekház esetén a társadalmi felzárkózásért felelős miniszter, egyéb szolgáltatás esetén a szociál- és nyugdíjpolitikáért felelős miniszter – a Főigazgatóság útján – javaslatot tesz a hatályos finanszírozási szerződéssel rendelkező fenntartóknak a 2019. évre megállapított működési támogatás összegének a megemelésére. Ha a fenntartó a megemelést elfogadja, a finanszírozási szerződést ennek megfelelően módosítani kell.
 
-[^188]: A 27. §-t újonnan a 322/2013. (VIII. 28.) Korm. rendelet 6. §-a iktatta be, a 448/2016. (XII. 19.) Korm. rendelet 40. § d) pontja hatályon kívül helyezte.
+[^188]: A 27. §-t újonnan a 140/2019. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
