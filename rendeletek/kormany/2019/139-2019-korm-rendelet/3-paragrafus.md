@@ -1,0 +1,1 @@
+## „(5a) Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó, (1b) bekezdés szerinti védőnői szolgáltatók jegyzékét a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) a honlapján közzéteszi.”
