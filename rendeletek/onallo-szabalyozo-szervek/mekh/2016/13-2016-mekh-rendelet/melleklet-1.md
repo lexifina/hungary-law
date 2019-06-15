@@ -1,4 +1,4 @@
-1. melléklet a 13/2016. (XII. 20.) MEKH rendelethez[^1]
+1. melléklet a 13/2016. (XII. 20.) MEKH rendelethez[^2]
 
 ## I. Szállítási rendszerüzemeltetési díj elemei és mértéke
 
@@ -154,4 +154,4 @@ B: a rendszerhasználó betárolási kapacitás lekötése (kWh/nap)
 
 K: a rendszerhasználó kitárolási kapacitás lekötése (kWh/nap)
 
-[^1]: Az 1. melléklet a 3/2018. (VI. 1.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet a 3/2018. (VI. 1.) MEKH rendelet 1. §-ával megállapított szöveg.

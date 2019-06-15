@@ -1,4 +1,4 @@
-2. melléklet a 13/2016. (XII. 20.) MEKH rendelethez[^2]
+2. melléklet a 13/2016. (XII. 20.) MEKH rendelethez[^3]
 
 ## A földgázelosztók által alkalmazható külön díjas szolgáltatások
 
@@ -174,4 +174,4 @@ A külön díjas szolgáltatások maximális munkaidejét az alábbi táblázat 
 
 Ha a külön díjas szolgáltatás elvégzésére veszélyhelyzet elhárítása miatt vagy külön megállapodás alapján a felhasználó kérésére az engedélyes hivatalos munkaidején kívül kerül sor, a külön díj mértéke legfeljebb pszolgáltatás * 1,5, a munkaszüneti napon végzett tevékenység esetében a külön díj mértéke legfeljebb pszolgáltatás * 2.
 
-[^2]: A 2. melléklet a 4/2017. (IV. 26.) MEKH rendelet 8. §-ával megállapított szöveg.
+[^3]: A 2. melléklet a 4/2017. (IV. 26.) MEKH rendelet 8. §-ával megállapított szöveg.
