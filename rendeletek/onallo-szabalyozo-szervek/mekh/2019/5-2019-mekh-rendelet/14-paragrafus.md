@@ -1,3 +1,3 @@
-## 13. §[^14]
+## 13. §[^19]
 
-[^14]: A 13. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^19]: A 13. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 5. §[^7]
+## 5. §[^9]
 
-[^7]: Az 5. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^9]: Az 5. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.

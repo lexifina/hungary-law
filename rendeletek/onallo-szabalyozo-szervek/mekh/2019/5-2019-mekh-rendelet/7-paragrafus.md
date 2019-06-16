@@ -1,3 +1,3 @@
-## 6. § Az R. 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^10]
 
-## „(3) A 2018/2019-es gázév tekintetében a szállítási rendszerüzemeltető vonatkozásában az engedélyköteles tevékenységre vonatkozó – a tárgyévi auditált éves beszámolóban vagy a szállítási rendszerüzemeltető engedélyesnél az előzetes mérlegben szereplő, az ÜKSZ és a Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete szerint kivetett, illetve beszedett pótdíjak és aukciós díjak nélkül számított – üzemi (üzleti) tevékenységi eredmény túllépi a szállítási rendszerüzemeltető nyereségkorlátját, úgy az adott szállítási rendszerüzemeltetési engedélyesi tevékenységet végző társaság köteles a Hivatallal egyeztetett módon – a Hivatal elnökének a szállítási rendszerüzemeltetési díjból származó árbevétel megosztására vonatkozó kiegyenlítő fizetésekről szóló rendeletében megállapított kiegyenlítő fizetések összegének figyelembevételével – többletnyereségét megosztani a rendszerhasználókkal.”
+[^10]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

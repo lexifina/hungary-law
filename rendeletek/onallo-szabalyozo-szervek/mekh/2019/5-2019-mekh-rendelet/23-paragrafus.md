@@ -1,3 +1,3 @@
-## 22. §[^22]
+## 22. §[^33]
 
-[^22]: A 22. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^33]: A 22. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.

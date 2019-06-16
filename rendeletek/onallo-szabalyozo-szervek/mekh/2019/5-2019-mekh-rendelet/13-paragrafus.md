@@ -1,3 +1,3 @@
-## 12. §[^13]
+## 12. §[^18]
 
-[^13]: A 12. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^18]: A 12. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
