@@ -1,3 +1,5 @@
-## 4. § Az Átr. az 1. melléklet szerinti 2. melléklettel egészül ki.
+## 2–4. §[^3]
 
 ## 3. Záró rendelkezés
+
+[^3]: A 2–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
