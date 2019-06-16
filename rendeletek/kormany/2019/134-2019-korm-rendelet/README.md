@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-134-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-06-15 | 2019-134-20-22.1 | 134/2019. (VI. 7.) Korm. rendelet |
+| 2019-06-16 | 2019-134-20-22.2 | 2010: CXXX. törvény |
