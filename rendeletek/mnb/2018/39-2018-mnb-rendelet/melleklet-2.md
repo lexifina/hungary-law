@@ -20,6 +20,8 @@
 
 ## 1.9. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.),
 
+## 1.9a. alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr.;
+
 ## 1.10. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény végrehajtásának az MNB által felügyelt szolgáltatókra vonatkozó, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló MNB rendelet,
 
 ## 1.11. a biztosítók éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 192/2000. (XI. 24.) Korm. rendelet (a továbbiakban: Bszkr.),

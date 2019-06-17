@@ -1679,3 +1679,41 @@ A 42Q19061 és 42Q19062 sorok összege kiadja a biztosító által a tárgynegye
 A 42Q1906 sorból azon bejelentéseket kell feltüntetni, amelyek esetében a biztosító a Pmt. 35. § (3) bekezdése alapján a pénzügyi információs egységként működő hatóság jelzése alapján a felfüggesztést meghosszabbította.
 
 42Q1907 Bíróság, nyomozóhatóság által pénzmosás gyanúja miatt zárolt, lefoglalt követelések
+
+Ebben a sorban a bíróság, illetve a nyomozóhatóság által pénzmosás gyanúja miatt zárolt, illetve lefoglalt biztosítások számát és összegét kell feltüntetni.
+
+42Q1908 Terrorista, illetve szankciós listák alapján zárolt követelések
+
+Ebben a sorban azt az ügyfélszámot és azok teljes ügyfélkövetelését kell feltüntetni, amelyet a biztosító az ügyfél valamely, a biztosító által alkalmazott terrorista, illetve szankciós listán való szereplése miatt az adott negyedévben zárolt és ezt a pénzügyi információs egységként működő hatóságnak, mint illetékes hatóságnak bejelentett.
+
+42Q1909 Pmt. 12. § (5) bekezdése alapján blokkolt ügyfél
+
+Ebben a sorban kell szerepeltetni azon ügyfelek számát, akiknek számlája terhére vagy javára kezdeményezett megbízások teljesítését a biztosító a Pmt. 12. § (5) bekezdése alapján az adott negyedévben elutasította. Az adott sorban az ügyfelek száma mellett a blokkolt számlák egyenlegét is fel kell tüntetni.
+
+42Q1910 12 hónapon belüli visszavásárlások
+
+Ebben a sorban kell szerepeltetni azon kötvények számát, illetve forintértékét, melyek részleges vagy teljes visszavásárlására a szerződéskötést követő 12 hónapon belül, adott negyedévben került sor és annak szerződésenkénti visszavásárlási értéke meghaladja az ötmillió forintot.
+
+16. 42Q20 IFRS-eket alkalmazó biztosítók tájékoztató adatai
+
+A tábla kitöltése
+
+A táblában az IFRS-eket alkalmazó biztosítók egyes, a felügyelési feladatok ellátását elősegítő, a biztosító tevékenységével összefüggő mérleg- és eredménykimutatás tájékoztató adatait kell jelenteni.
+
+17. 42Q23 Informatikai adatok
+
+A tábla kitöltése
+
+A tábla az adatszolgáltató informatikai rendszerének működési kontroll környezetével kapcsolatos adatokat mutatja be.
+
+A kérdések egy részére (2-4., 42. sor) konkrét számadatokat kell megadni.
+
+A tábla sorai
+
+Az 1-4. sorban a biztosító alkalmazottainak továbbá a biztosítónál rendelkezésre álló, informatikai tevékenységet, illetve informatikai üzemeltetést végző, a tárgyidőszak utolsó napján ténylegesen foglalkoztatott munkatársak konkrét létszámát kell megadni.
+
+Az 5-8. sorban az informatikai belső ellenőrzéssel kapcsolatos információkat kell megadni. A 6. sorban kell jelenteni, hogy az informatikai belső ellenőrzést a biztosító milyen módon oldja meg (pl. dedikált informatikai belső ellenőr vagy általános belső ellenőr végzi, vagy külső auditort alkalmaz a biztosító). A 7. sorban azt kell megadni, hogy rendelkezik-e és ha igen, milyen auditori minősítéssel rendelkezik a tevékenységet végző személy. A 8. sor esetében az utolsó informatikai vizsgálat dátumát kell megadni.
+
+A 9-10. sorban az IT szempontból lényeges informatikai eljárásrendek utolsó felülvizsgálatának, illetve módosításának dátumát kell megadni.
+
+A 11-14. sorban az informatikai kockázatkezeléssel kapcsolatos információkat kell jelenteni.
