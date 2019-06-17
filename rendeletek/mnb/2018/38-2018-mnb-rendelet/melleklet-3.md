@@ -1,6 +1,6 @@
-## 20182C20000038_3
+## 20182C20000038_6
 
-3. melléklet a 38/2018. (XI. 14.) MNB rendelethez
+3. melléklet a 38/2018. (XI. 14.) MNB rendelethez[^4]
 
 Az információk szolgáltatásához szükséges technikai segédletek
 
@@ -8,13 +8,13 @@ Az információk szolgáltatásához szükséges technikai segédletek
 
 2. Árfolyamok elérhetősége
 
-3. Az MNB által az adatszolgáltatások elektronikus úton való beküldésére működtetett rendszerek felhasználói kézikönyvei
+3. Az ERA rendszer felhasználói kézikönyvei
 
-3.1. Az EBEAD rendszer Felhasználói kézikönyve
+3.1.
 
-3.2. Az ERA rendszer Felhasználói kézikönyve
+3.2.
 
-3.3. A KAP rendszer Felhasználói kézikönyve
+3.3.
 
 4. Kódlisták:
 
@@ -63,3 +63,5 @@ Az információk szolgáltatásához szükséges technikai segédletek
 13. A jelentő dealerek (a D24 és a D25 MNB azonosító kódú adatszolgáltatás teljesítésére kötelezettek) listája
 
 14. A D24 és a D25 MNB azonosító kódú adatszolgáltatás összeállításához a BIS által kiadott tájékoztató anyagok és módszertani segédletek
+
+[^4]: A 3. melléklet a 22/2019. (V. 28.) MNB rendelet 3. § (2) bekezdése b) pontja és (3) bekezdés b) pontja szerint módosított szöveg.
