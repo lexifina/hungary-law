@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-114-20-
 | 2017-01-01 | 2008-114-20-82.11 | 171/2009. (XII. 22.) FVM rendelet |
 | 2017-08-18 | 2008-114-20-82.12 | 70/2013. (VII. 31.) VM rendelet |
 | 2019-04-28 | 2008-114-20-82.13 | 15/2019. (IV. 25.) AM rendelet |
+| 2019-06-17 | 2008-114-20-82.14 | 27/2019. (VI. 14.) AM rendelet |
