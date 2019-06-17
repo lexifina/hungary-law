@@ -1,6 +1,6 @@
 ## 20182C20000036_25
 
-3. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^4]
+3. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^8]
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -3230,4 +3230,38 @@ A hitelintézet jegyzett tőkéjét a névérték és a tulajdoni-, illetve szav
 
 A tulajdoni, illetve szavazati arány megállapításánál figyelembe kell venni:
 
-[^4]: A 3. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (3) bekezdés d)–e) pontja szerint módosított szöveg.
+• a Hpt. 3. mellékletében foglaltakat a közvetett tulajdon számításáról, továbbá ugyanezen melléklet 2. pontját a természetes személynek a közeli hozzátartozóival együtt birtokolt, illetve gyakorolt tulajdoni és szavazati hányadának számításáról;
+
+• a Hpt. VII. fejezetében foglaltakat a tulajdonjog gyakorlásának szabályairól, a tulajdonosokra, a vezető testületek tagjaira és a vezető állású személyekre vonatkozó szabályairól;
+
+• a szövetkezeti formában működő hitelintézetekre vonatkozó (a 11AA kódú táblában leírt) sajátosságokat.
+
+A tulajdoni, illetve szavazati arány megállapításánál a tulajdonlás aktuális helyzetének, a valós állapotnak megfelelően kell a közvetlen-, illetve a közvetett tulajdonosokra vonatkozó adatokat kitölteni, ideértve, ha a tulajdonlás a Hpt. 6. § (1) bekezdés 6. pontjában meghatározottak szerinti befolyásoló részesedést vagy ellenőrző, de nem számszerűsíthető részesedést jelent. Ebben az esetben a részletező sorban a név (megnevezés) melletti kódjel oszlopba „V” jelet kell írni, és az érintett tulajdonlás jellegének megfelelő – közvetlen- vagy közvetett tulajdoni (szavazati) arány – oszlopba 10%-ot, illetve 51%-ot kell feltüntetni. Ezt az eltérő tulajdonlást az összesítő a) vagy b) sorokban a valós értékkel és aránnyal kell kimutatni.
+
+A szövetkezeti formában működő hitelintézeteknél a tulajdoni részesedés százalékos mértékének meghatározásakor a tagok által birtokolt részjegy állomány összegét az összes tag által rendelkezésre bocsátott bruttó részjegy állományhoz kell viszonyítani. Ettől eltér az egy tulajdonos részjegyének szavazati aránya, amely az alapító okiratban (vagy jogszabályban) meghatározott hányad.
+
+A felsorolás sorrendje elsődlegesen a tulajdoni arány nagyságához igazodik.
+
+Azokat az intézményeket is ki kell mutatni, amelyek a kistulajdonosokat, mint „befektetési letétkezelő”, illetve a részvényekre vonatkozó letéti igazolásokat szolgáltató társaság fogják össze a tulajdonosok által képviselt részarány feltüntetésével (pl. GDR társaságok).
+
+A sorok száma nem korlátozott, a felsorolást folytatni kell mindaddig, amíg az összes tulajdonos kimutatásra nem kerül.
+
+A kapcsolódó ügylettel rendelkező ügyfeleken belül is a felsorolást a minősített befolyással (10%-ot elérő vagy meghaladó közvetlen és közvetett) rendelkezőkkel kell kezdeni és folytatni az 5%-ot elérő vagy azt meghaladó aránnyal rendelkező tulajdonosokkal.
+
+A tulajdonosi szerkezet megismerése érdekében azokat az 5%-ot elérő vagy azt meghaladó aránnyal rendelkező tulajdonosokat is fel kell sorolni, akiknek nincs kapcsolódó ügyletük a hitelintézettel.
+
+A tételeket – elsősorban a minősített befolyások felsorolásával – az együttes szavazati (tulajdoni) részarányok csökkenő sorrendjében kell a tábla soraiban szerepeltetni.
+
+A tábla oszlopai
+
+Az a) oszlopban a tulajdonos nevét, a b) Kódjel oszlopban K jelzéssel a Számv. tv. szerint kapcsolt vállalkozásnak minősülő vállalkozást, V jellel a nem számszerűsített minősített befolyás vagy ellenőrző részesedésű tulajdonlást, M jelzéssel a Hpt. 6. § (1) bekezdés 122. pontja szerinti vezető állású személyt kell megjelölni.
+
+A c) oszlopban a tulajdonos törzsszámát, illetve a külföldi azonosító adatát, a d) oszlopban a tulajdonos országának két karakteres ISO kódját (pl. Magyarország esetén HU), az e) oszlopban az ügyfél tevékenységét rögzítő TEÁOR ágat kell feltüntetni (a nemzetgazdasági ágak, ágazatok TEÁOR számjele és az adatszolgáltatásban feltüntetendő betűjel közötti összefüggés tábla elérési útvonala az MNB honlapon:
+
+MNB\Felügyelet\Adatszolgáltatás\Hitelintézetek\2019. évre vonatkozó adatszolgáltatások\Kapcsolódó előírások, technikai segédletek\Technikai segédletek).
+
+A közvetlenül tulajdonolt részvények névértékét az f) oszlopban, a szavazatelsőbbségi részvényekét a g) oszlopban, illetve a különleges vétójogot biztosító szavazatelsőbbségi részvényekét h) oszlopban kell kimutatni.
+
+Az osztalékelsőbbséget, illetve a különleges osztalékelsőbbséget biztosító részvényeket a 11AB4 Egyéb 5% alatti tulajdonosok összesen sorban kell figyelembe venni, úgy, hogy az értékét az f) oszlopban kell feltüntetni.
+
+[^8]: A 3. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (3) bekezdés d)–e) pontja szerint módosított szöveg.

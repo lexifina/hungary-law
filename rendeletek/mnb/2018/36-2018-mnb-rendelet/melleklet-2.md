@@ -114,7 +114,7 @@
 
 ## 1.56. a pénzforgalom lebonyolításáról szóló 35/2017. (XII. 14.) MNB rendelet;
 
-## 1.57. a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendelet (a továbbiakban: alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr.);
+## 1.57. alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr.;
 
 ## 1.58. a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló 25/1997. (VIII. 1.) PM rendelet;
 
@@ -620,7 +620,7 @@
 
 ## 4.1. Amennyiben
 
-## - az adatszolgáltató a KAP és az ERA rendszerben egy felügyeleti jelentéscsomagként kezelt felügyeleti jelentések bármelyikének teljesítésére e rendelet alapján nem köteles, vagy
+## - az adatszolgáltató az ERA rendszer „Adatszolgáltatás” szolgáltatásában egy felügyeleti jelentéscsomagként kezelt felügyeleti jelentések bármelyikének teljesítésére e rendelet alapján nem köteles, vagy
 
 ## - a felügyeleti jelentés valamely táblájának adattartalma nemleges,
 
@@ -658,7 +658,7 @@
 
 ## Egy táblában szereplő valamely tétel megnevezése előtt a „(-)” jel használata azt jelenti, hogy az adott tételt negatív értékként kell megjeleníteni, például „(-) Saját részvények”.
 
-## 4.7.2. A felügyeleti jelentéssel egyidejűleg az elektronikus úton, a KAP rendszeren keresztül, pdf formátumban, kötelezően beküldendő file-okat az alábbi általános formai előírások figyelembe vételével kell csatolni:
+## 4.7.2. A felügyeleti jelentéssel egyidejűleg az elektronikus úton, az ERA rendszeren keresztül, pdf formátumban, kötelezően beküldendő file-okat az alábbi általános formai előírások figyelembe vételével kell csatolni:
 
 ## – a file név nem tartalmazhat szóközt, a megnevezésben az elválasztás egy aláhúzás karakterrel történik,
 
@@ -734,7 +734,7 @@
 
 ## A negatív értékként megjelenítendő tételeket a táblák a megnevezés előtt „(-)” jellel jelölik, például „(-) Saját részvények”.
 
-## 4.8.2. A felügyeleti jelentéssel egyidejűleg elektronikus úton, a KAP rendszeren keresztül, pdf formátumban, kötelezően beküldendő file-okat az alábbi általános formai előírások figyelembe vételével kell csatolni:
+## 4.8.2. A felügyeleti jelentéssel egyidejűleg elektronikus úton, az ERA rendszeren keresztül, pdf formátumban, kötelezően beküldendő file-okat az alábbi általános formai előírások figyelembe vételével kell csatolni:
 
 ## - a file név nem tartalmazhat szóközt, a megnevezésben az elválasztás egy aláhúzás karakterrel történik,
 
@@ -774,7 +774,7 @@
 
 ## 4.9. A 8. melléklet szerinti felügyeleti jelentések formai követelményei
 
-## 4.9.1. A felügyeleti jelentéssel egyidejűleg az elektronikus úton, a KAP rendszeren keresztül, pdf formátumban, kötelezően beküldendő file-okat az alábbi általános formai előírások figyelembe vételével kell csatolni:
+## 4.9.1. A felügyeleti jelentéssel egyidejűleg az elektronikus úton, az ERA rendszeren keresztül, pdf formátumban, kötelezően beküldendő file-okat az alábbi általános formai előírások figyelembe vételével kell csatolni:
 
 ## – a file név nem tartalmazhat szóközt, a megnevezésben az elválasztás egy aláhúzás karakterrel történik,
 
@@ -866,7 +866,7 @@
 
 ## 4.11. A 16. melléklet szerinti felügyeleti jelentések formai követelményei
 
-## Az adatküldés formai és technikai követelményeit az ERA rendszer Felhasználói kézikönyve, illetve a PAD WEB szolgáltatás Felhasználói kézikönyve tartalmazza.
+## Az adatküldés formai és technikai követelményeit az ERA rendszer „Adatszolgáltatás” szolgáltatásának Felhasználói kézikönyve tartalmazza.
 
 ## 5. Tartalmi követelmények
 
@@ -892,6 +892,6 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^3]
+2. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^7]
 
-[^3]: A 2. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (1) bekezdése szerint módosított szöveg.
