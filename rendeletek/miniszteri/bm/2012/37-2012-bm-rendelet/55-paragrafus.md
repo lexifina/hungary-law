@@ -8,8 +8,8 @@ c) ellen a bíróság felfüggesztett szabadságvesztés büntetést szabott ki,
 
 d) ellen a bíróság pénzbüntetést szabott ki, a jogerőre emelkedéstől számított legalább hat hónapig, illetve ha a bíróság próbára bocsátotta, a próbaidő tartama alatt;
 
-e)[^71]
+e)[^72]
 
 (2) Az (1) bekezdésben foglaltaktól különösen kiemelkedő helytállás esetén az állományilletékes parancsnok, a munkáltatói jogkört gyakorló személy eltekinthet. A különösen kiemelkedő helytállást az állományilletékes parancsnok vagy a munkáltatói jogkört gyakorló személy külön írásban részletesen indokolja.
 
-[^71]: Az 55. § (1) bekezdés e) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 11. pontja hatályon kívül helyezte.
+[^72]: Az 55. § (1) bekezdés e) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 11. pontja hatályon kívül helyezte.

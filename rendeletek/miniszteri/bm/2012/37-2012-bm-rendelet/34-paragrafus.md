@@ -1,6 +1,6 @@
 34. § (1) A csapatzászló adományozása iránti kérelmet a (2) bekezdésben meghatározott szerv vezetője a tervezett csapatzászló-átadási ünnepséget 60 nappal megelőzően a belügyminiszter részére terjeszti fel.
 
-(2)[^47] A csapatzászló átadást lehetőleg állami, nemzeti ünnephez, testületi ünnephez vagy vallási ünnephez kapcsolódóan, nyilvános ünnepség keretében kell megrendezni.
+(2)[^48] A csapatzászló átadást lehetőleg állami, nemzeti ünnephez, testületi ünnephez vagy vallási ünnephez kapcsolódóan, nyilvános ünnepség keretében kell megrendezni.
 
 (3) A csapatzászlóra az adományozó, illetve képviselője, valamint a megadományozott szerv vezetője az adományozással egyidejűleg zászlószalagot köthet.
 
@@ -18,4 +18,4 @@
 
 (10) A csapatzászló és tartozékai részletes leírását a 24. melléklet tartalmazza.
 
-[^47]: A 34. § (2) bekezdése a 68/2013. (XII. 10.) BM rendelet 9. §-a szerint módosított szöveg.
+[^48]: A 34. § (2) bekezdése a 68/2013. (XII. 10.) BM rendelet 9. §-a szerint módosított szöveg.
