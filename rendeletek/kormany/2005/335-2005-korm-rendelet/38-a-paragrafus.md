@@ -1,8 +1,8 @@
 ## 38. § A személyes adatok kezeléséhez való hozzájárulást tartalmazó, illetve a közérdekű adatok megismerésére irányuló kérelmek kezeléséről belső szabályzatban kell rendelkezni.
 
-## Egységes kormányzati ügyiratkezelő rendszer[^59]
+## Egységes kormányzati ügyiratkezelő rendszer[^82]
 
-38/A. §[^60] (1) Az egységes kormányzati ügyiratkezelő rendszer
+38/A. §[^83] (1) Az egységes kormányzati ügyiratkezelő rendszer
 
 a) érkeztető rendszere (a továbbiakban: érkeztető rendszer) biztosítja az 1. mellékletben felsorolt szervek címére érkezett postai papíralapú küldemények tekintetében a 2. § 5a. pont a) alpontja szerinti feladatok ellátását,
 
@@ -10,5 +10,5 @@ b) a kijelölt szolgáltató útján biztosítja az 1. mellékletben felsorolt s
 
 (2) Az (1) bekezdés b) pontja szerinti szolgáltató az elektronikus irat átvételéről, az elektronikus irat hiteles papír alapú irattá történő alakítást követően az irat kézbesítés céljára történő átadásáról szóló elektronikus visszajelzésében az elektronikus iratot feladó szervet az elektronikus irathoz rendelt azonosító kód feltüntetésével értesíti.
 
-[^59]: A 38/A. §-t megelőző alcímet a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be.
-[^60]: A 38/A. §-t a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be, szövege a 62/2015. (III. 24.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^82]: A 38/A. §-t megelőző alcímet a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be.
+[^83]: A 38/A. §-t a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be, szövege a 62/2015. (III. 24.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.

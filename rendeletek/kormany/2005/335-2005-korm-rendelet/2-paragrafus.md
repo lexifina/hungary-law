@@ -2,17 +2,17 @@
 
 ## 2. §[^4] E rendelet alkalmazásában
 
-1. ÁNYK űrlap benyújtás támogatás szolgáltatás: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendelet szerinti szolgáltatás;
+1.[^5] Űrlapbenyújtás-támogatási szolgáltatás: az Eür. szerinti szolgáltatás;
 
 2. átadás: irat, ügyirat vagy irategyüttes kezelési jogosultságának dokumentált átruházása;
 
 3. átmeneti irattár: a közfeladatot ellátó szerv által az iktatóhelyhez kapcsolódóan kialakított olyan irattár, amelyben az irattári anyag meghatározott időtartamú átmeneti, selejtezés vagy központi irattárba adás előtti őrzése történik;
 
-4. biztonságos kézbesítési szolgáltatás: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendelet szerinti szabályozott biztonságos kézbesítési szolgáltatás;
+4.[^6] biztonságos kézbesítési szolgáltatás: az Eür. szerinti szabályozott biztonságos kézbesítési szolgáltatás;
 
 5. csatolás: iratok, ügyiratok átmeneti jellegű összekapcsolása;
 
-5a.[^5] egységes kormányzati ügyiratkezelő rendszer: az iratkezelés e rendeletben meghatározott egyes fázisainak elvégzésére irányuló szolgáltatások, informatikai, technológiai és személyi feltételek összessége, amelyben a Kormány által arra kijelölt működtető szerv és szolgáltató biztosítja:
+5a.[^7] egységes kormányzati ügyiratkezelő rendszer: az iratkezelés e rendeletben meghatározott egyes fázisainak elvégzésére irányuló szolgáltatások, informatikai, technológiai és személyi feltételek összessége, amelyben a Kormány által arra kijelölt működtető szerv és szolgáltató biztosítja:
 
 a) a postai úton érkező, papíralapú küldemények átvételét, felbontását, érkeztető azonosítóval történő ellátását, a küldemények hiteles elektronikus irattá történő átalakítását, érkeztető nyilvántartásba való bevezetését, a címzett részére elektronikus úton történő megküldését,
 
@@ -24,13 +24,13 @@ b) elektronikus irat hiteles papíralapú irattá történő alakítására irá
 
 8. elektronikus iktatókönyv: elektronikus iratkezelés esetén az iratkezelési szoftver azon szolgáltatás-együttese, amely az iktatási információk rögzítését, végleges megőrzését és visszakereshetőségét biztosítja;
 
-9. elektronikus irattár: a közfeladatot ellátó szerv által használt iratkezelési szoftver – ideértve az erre vonatkozó elektronikus dokumentumtárolási szolgáltatás útján történő biztosítást is – azon része, vagy olyan adatbázis, amelyben az elektronikusan tárolt irattári anyag meghatározott időtartamú elektronikus őrzése történik;
+9.[^8] elektronikus irattár: a közfeladatot ellátó szerv által használt iratkezelési szoftver – ideértve az erre vonatkozó, az Eür. szerinti elektronikus dokumentumtárolási szolgáltatás útján történő biztosítást is – azon része, vagy olyan adatbázis, amelyben az elektronikusan tárolt irattári anyag meghatározott időtartamú elektronikus őrzése történik;
 
-10. elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint előírt elektronikus közzétételi kötelezettség;
+10.[^9] elektronikus tájékoztatás: az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint az elektronikus ügyintézést biztosító szervnek minősülő, közfeladatot ellátó szervek esetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) és az Eür. szerint előírt elektronikus közzétételi kötelezettség;
 
-11. elektronikus ügyintézés: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus ügyintézés;
+11.[^10] elektronikus ügyintézés: az E-ügyintézési tv. szerinti elektronikus ügyintézés;
 
-12. elektronikus ügyintézési felügyelet: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendelet szerinti hatóság;
+12.[^11] elektronikus ügyintézési felügyelet: az E-ügyintézési tv. szerinti szerv;
 
 13. elektronikus űrlapok: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendelet szerinti elektronikus adatbeviteli felület;
 
@@ -62,7 +62,9 @@ b) elektronikus irat hiteles papíralapú irattá történő alakítására irá
 
 27. kézbesítés: a küldeménynek kézbesítő szervezet, személy, adatátviteli eszköz útján történő eljuttatása a címzetthez;
 
-28. kézbesítési szolgáltatás: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendelet szerinti kézbesítési szolgáltatás;
+28.[^12] kézbesítési szolgáltatás: az Eür. szerinti kézbesítési szolgáltatás;
+
+28a.[^13] központi elektronikus ügyintézési szolgáltatás: az E-ügyintézési tv. szerinti szolgáltatás;
 
 29. központi irattár: a közfeladatot ellátó szerv irattári anyagának selejtezés vagy levéltárba adás előtti, valamint a maradandó értékű nem selejtezhető és levéltárba nem adott iratok, továbbá a nem selejtezhető és levéltárba átadásra nem kerülő iratok őrzésére szolgáló irattár, ideértve az erre vonatkozó elektronikus dokumentumtárolási szolgáltatás útján történő biztosítást is;
 
@@ -94,7 +96,7 @@ b) elektronikus irat hiteles papíralapú irattá történő alakítására irá
 
 43. selejtezés: a lejárt megőrzési határidejű iratok vagy e rendelet alapján selejtezési eljárás alá vonható iratok kiemelése az irattári anyagból és megsemmisítésre történő előkészítése;
 
-44. szabályozott elektronikus ügyintézési szolgáltatás: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti szolgáltatás;
+44.[^14] szabályozott elektronikus ügyintézési szolgáltatás: az E-ügyintézési tv. szerinti szolgáltatás;
 
 45. szerelés: ügyiratok végleges jellegű összekapcsolása, amelynek következtében az összekapcsolt ügyiratok a továbbiakban kizárólag együtt kezelhetőek;
 
@@ -102,9 +104,9 @@ b) elektronikus irat hiteles papíralapú irattá történő alakítására irá
 
 47. továbbítás: az ügyintézés során az irat eljuttatása az egyik ügyintézési ponttól a másikhoz, amely elektronikusan tárolt irat esetén megvalósulhat az irathoz való hozzáférés lehetőségének biztosításával is;
 
-48. ügyfél ügyintézési rendelkezésének nyilvántartása: a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendelet szerinti nyilvántartás;
+48.[^15] ügyfél ügyintézési rendelkezésének nyilvántartása: az E-ügyintézési tv. szerinti nyilvántartás;
 
-49. ügyintézési rendelkezés: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti ügyintézési rendelkezés;
+49.[^16] ügyintézési rendelkezés: az E-ügyintézési tv. szerinti ügyintézési rendelkezés;
 
 50. ügyintéző: az ügy intézésére kijelölt személy, az ügy előadója, aki az ügyet döntésre előkészíti;
 
@@ -115,4 +117,15 @@ b) elektronikus irat hiteles papíralapú irattá történő alakítására irá
 53. ügykör: a szerv vagy személy feladat- és hatáskörébe tartozó ügyek meghatározott csoportja.
 
 [^4]: A 2. § a 196/2013. (VI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 2. § 5a. pontját a 323/2014. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § 1. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § 4. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § 5a. pontját a 323/2014. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 2. § 9. pontja a 137/2019. (VI. 11.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^9]: A 2. § 10. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. § 11. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^11]: A 2. § 12. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^12]: A 2. § 28. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^13]: A 2. § 28a. pontját a 137/2019. (VI. 11.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^14]: A 2. § 44. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^15]: A 2. § 48. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^16]: A 2. § 49. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.

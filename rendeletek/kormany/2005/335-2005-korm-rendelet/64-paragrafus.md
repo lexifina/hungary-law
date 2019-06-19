@@ -8,9 +8,9 @@
 
 (4) A megsemmisítésről a szerv vezetője az adatvédelmi és biztonsági előírások figyelembevételével gondoskodik.
 
-(5)[^124] A megőrzési határidő lejáratának számításakor az irattári tételbe sorolás évében érvényes irattári tervben megjelölt megőrzési időt az ügyirat lezárását követő év első napjától kell számítani.
+(5)[^149] A megőrzési határidő lejáratának számításakor az irattári tételbe sorolás évében érvényes irattári tervben megjelölt megőrzési időt az ügyirat lezárását követő év első napjától kell számítani.
 
-(6)[^125] Elektronikus dokumentumkezelés esetén az adatbázisban levő iratok metaadatainak selejtezése fizikai törlés nélkül, a selejtezés tényére vonatkozó megjelöléssel történik. A selejtezést követően az elektronikus dokumentumokat meg kell semmisíteni, azaz visszaállíthatatlanul törölni kell az adatállományból.
+(6)[^150] Elektronikus dokumentumkezelés esetén az adatbázisban levő iratok metaadatainak selejtezése fizikai törlés nélkül, a selejtezés tényére vonatkozó megjelöléssel történik. A selejtezést követően az elektronikus dokumentumokat meg kell semmisíteni, azaz visszaállíthatatlanul törölni kell az adatállományból.
 
-[^124]: A 64. § (5) bekezdését a 64/2010. (III. 18.) Korm. rendelet 28. §-a iktatta be.
-[^125]: A 64. § (6) bekezdését a 64/2010. (III. 18.) Korm. rendelet 28. §-a iktatta be.
+[^149]: A 64. § (5) bekezdését a 64/2010. (III. 18.) Korm. rendelet 28. §-a iktatta be.
+[^150]: A 64. § (6) bekezdését a 64/2010. (III. 18.) Korm. rendelet 28. §-a iktatta be.

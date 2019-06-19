@@ -1,8 +1,8 @@
 ## Az ellenőrzés rendje
 
-67/B. §[^139] (1)[^140] Az ellenőrzésről az ellenőrizendő szervet (a továbbiakban: szerv) az ellenőrzés megkezdése előtt legalább tíz munkanappal – az iratkezelés felügyeletét ellátó szerv vezetőjén keresztül – értesíteni kell az ellenőrzési terv egyidejű megküldésével, amennyiben annak megküldése az ellenőrzés célját nem hiúsítja meg.
+67/B. §[^164] (1)[^165] Az ellenőrzésről az ellenőrizendő szervet (a továbbiakban: szerv) az ellenőrzés megkezdése előtt legalább tíz munkanappal – az iratkezelés felügyeletét ellátó szerv vezetőjén keresztül – értesíteni kell az ellenőrzési terv egyidejű megküldésével, amennyiben annak megküldése az ellenőrzés célját nem hiúsítja meg.
 
-(2)[^141] Ellenőrzésre a miniszter által vezetett minisztérium, valamint a fővárosi és megyei kormányhivatal megbízott kormánytisztviselője jogosult. Az ellenőrzésre jogosult személy az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni. Az ellenőrzésre jogosult személyt ellenőrzési megbízólevéllel kell ellátni, amely a munkáltatói (szolgálati) igazolvánnyal együtt érvényes. Az ellenőrzési megbízólevélnek tartalmaznia kell:
+(2)[^166] Ellenőrzésre a miniszter által vezetett minisztérium, valamint a fővárosi és megyei kormányhivatal megbízott kormánytisztviselője jogosult. Az ellenőrzésre jogosult személy az ellenőrzési jogosultságát az ellenőrzés megkezdése előtt köteles igazolni. Az ellenőrzésre jogosult személyt ellenőrzési megbízólevéllel kell ellátni, amely a munkáltatói (szolgálati) igazolvánnyal együtt érvényes. Az ellenőrzési megbízólevélnek tartalmaznia kell:
 
 a) a „megbízólevél” elnevezést;
 
@@ -12,7 +12,7 @@ c) az ellenőrzés helyére, az ellenőrzési tervre történő utalást;
 
 d) az ellenőrzés végrehajtására, eljárási szabályára vonatkozó jogszabály megnevezését;
 
-e)[^142] a megbízólevél időbeli hatályát;
+e)[^167] a megbízólevél időbeli hatályát;
 
 f) a kiállítás keltét;
 
@@ -20,7 +20,7 @@ g) a kiállításra jogosult aláírását, a bélyegzőlenyomatot.
 
 (3) Az ellenőrzést úgy kell végezni, hogy az ellenőrzött szerv rendeltetésszerű tevékenységét lehetőleg ne akadályozza. Az ellenőrzést az ellenőrizni kívánt tevékenység folytatása idején (munkanap) a szerv hivatalos munkaidejének megfelelő időpontban kell végezni.
 
-[^139]: A 67/B. §-t és az azt megelőző alcímet a 239/2007. (IX. 12.) Korm. rendelet 9. §-a iktatta be.
-[^140]: A 67/B. § (1) bekezdése a 64/2010. (III. 18.) Korm. rendelet 35. § h) és 36. § (1) bekezdés m) pontja szerint módosított szöveg.
-[^141]: A 67/B. § (2) bekezdés nyitó szövegrésze a 87/2012. (IV. 26.) Korm. rendelet 2. § (5) bekezdése, a 269/2017. (IX. 13.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^142]: A 67/B. § (2) bekezdés e) pontja a 64/2010. (III. 18.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^164]: A 67/B. §-t és az azt megelőző alcímet a 239/2007. (IX. 12.) Korm. rendelet 9. §-a iktatta be.
+[^165]: A 67/B. § (1) bekezdése a 64/2010. (III. 18.) Korm. rendelet 35. § h) és 36. § (1) bekezdés m) pontja szerint módosított szöveg.
+[^166]: A 67/B. § (2) bekezdés nyitó szövegrésze a 87/2012. (IV. 26.) Korm. rendelet 2. § (5) bekezdése, a 269/2017. (IX. 13.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^167]: A 67/B. § (2) bekezdés e) pontja a 64/2010. (III. 18.) Korm. rendelet 32. §-ával megállapított szöveg.

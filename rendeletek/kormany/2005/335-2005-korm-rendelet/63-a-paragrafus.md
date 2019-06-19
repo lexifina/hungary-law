@@ -1,4 +1,4 @@
-63/A. §[^122] (1) A 3. mellékletben meghatározott államigazgatási szervek központi irattározásával kapcsolatos, a 4. mellékletben meghatározott feladatokat – a 63/B. § (1) és (2) bekezdésében foglalt kivétellel – a Nemzeti Dokumentumkezelő Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: központi szolgáltató) látja el.
+63/A. §[^147] (1) A 3. mellékletben meghatározott államigazgatási szervek központi irattározásával kapcsolatos, a 4. mellékletben meghatározott feladatokat – a 63/B. § (1) és (2) bekezdésében foglalt kivétellel – a Nemzeti Dokumentumkezelő Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: központi szolgáltató) látja el.
 
 (2) A 63/B. § (1) és (2) bekezdésében foglalt kivétellel
 
@@ -18,4 +18,4 @@ b) a 3. mellékletben meghatározott szervek az a) pont szerinti szolgáltatáso
 
 (8) A közszolgáltatási szerződésben és az egyedi szolgáltatási megállapodásban meghatározott szolgáltatási díjak nem haladhatják meg a központi szolgáltatónak a szolgáltatásnyújtással összefüggésben felmerült igazolható költségeit, valamint egy észszerű nyereséghányadot. E követelmény teljesüléséről a miniszter gondoskodik.
 
-[^122]: A 63/A. §-t a 269/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^147]: A 63/A. §-t a 269/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.

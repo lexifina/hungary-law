@@ -1,4 +1,4 @@
-68/A. §[^154] (1) A Kormány az érkeztető rendszer működtetésével kapcsolatos feladatok ellátására a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaságot (a továbbiakban: NISZ Zrt.) jelöli ki.
+68/A. §[^179] (1) A Kormány az érkeztető rendszer működtetésével kapcsolatos feladatok ellátására a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaságot (a továbbiakban: NISZ Zrt.) jelöli ki.
 
 (2) A NISZ Zrt. az érkeztető rendszerhez érkezett küldemények tekintetében adatfeldolgozói feladatokat lát el.
 
@@ -8,4 +8,4 @@ a) a 3. § (3) bekezdésében meghatározott vezetőn a NISZ Zrt. vezérigazgat�
 
 b) a 34. § (1) bekezdésében meghatározott feladatok elvégzésének módját az érkeztető rendszer önálló iratkezelési rendje határozza meg.
 
-[^154]: A 68/A. §-t a 323/2014. (XII. 15.) Korm. rendelet 7. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (2) bekezdésével megállapított szöveg.
+[^179]: A 68/A. §-t a 323/2014. (XII. 15.) Korm. rendelet 7. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (2) bekezdésével megállapított szöveg.
