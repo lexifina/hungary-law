@@ -32,6 +32,8 @@
 
 | 13. | M A H A R T – PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2022. december 31. |
 
+| 14. | EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaság | 01-09-341681 | 2022. december 31. |
+
 ## II. Tulajdonosi joggyakorló: a Kárpát-medencei Tehetséggondozó Nonprofit Korlátolt Felelősségű Társaság
 
 |  | A | B | C |

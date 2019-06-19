@@ -296,4 +296,4 @@
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a szerint módosított szöveg.
