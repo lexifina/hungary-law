@@ -1,0 +1,1 @@
+## 2. § A Rendelet 2. melléklet XV. pontjában foglalt táblázat A:1 mezőjében a „Sportesemények Szervezéséért, Lebonyolításáért és Sportszolgáltatásért Felelős” szövegrész helyébe a „Nemzeti Sportügynökség” szöveg lép.
