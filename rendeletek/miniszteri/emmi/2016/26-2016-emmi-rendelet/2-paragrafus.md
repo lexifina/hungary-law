@@ -136,9 +136,9 @@
 
 9. Szent Anna a Nevelőszülőkért díj,
 
-10. Balázs János-díj.
+10.[^11]
 
-(12)[^11]
+(12)[^12]
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
@@ -152,4 +152,5 @@
 [^8]: A 2. § (8) bekezdés nyitó szövegrésze a 3/2017. (III. 7.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (8) bekezdés 2. pontját a 3/2017. (III. 7.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^10]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^11]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^12]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
