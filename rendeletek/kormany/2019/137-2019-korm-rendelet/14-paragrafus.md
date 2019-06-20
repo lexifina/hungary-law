@@ -1,48 +1,68 @@
-## 13. §[^5]
+## 13. §[^13]
 
 ## 14. § Az R.
 
-a) 1. § (3) bekezdésében a „kormányrendeletben” szövegrész helyébe a „kormányrendeletben (a továbbiakban: Eür.)” szöveg,
+a)[^14]
 
-b) 2. § 9. pontjában a „vonatkozó” szövegrész helyébe a „vonatkozó, az Eür. szerinti” szöveg,
+b)[^15]
 
-c) 16/B. § (1) bekezdésében az „elektronikus ügyintézés részletes szabályairól szóló jogszabály” szövegrész helyébe az „Eür.” szöveg,
+c)[^16]
 
-d) 25. § (1) bekezdésében az „ÁNYK űrlap benyújtás támogatás szolgáltatás” szövegrész helyébe az „Űrlapbenyújtás-támogatási szolgáltatás” szöveg,
+d)[^17]
 
-e) 27. § (2) bekezdésében az „a SZEÜSZR-ben meghatározott SZEÜSZ szolgáltató szolgáltatását” szövegrész helyébe az „az Eür.-ben szabályozott szolgáltatást” szöveg,
+e)[^18]
 
-f) 27. § (3) bekezdés a) pontjában az „a SZEÜSZR” szövegrész helyébe az „az Eür.” szöveg,
+f)[^19]
 
-g) 31. § (4) bekezdésében a „válaszcíme” szövegrész helyébe a „kapcsolattartásra szolgáló elérhetősége” szöveg,
+g)[^20]
 
-h) 31. § (5) bekezdés nyitó szövegrészében az „elektronikus elérhetősége” szövegrész helyébe az „elektronikus kapcsolattartásra szolgáló elérhetősége” szöveg,
+h)[^21]
 
-i) 31. § (5) bekezdés a) pontjában az „elektronikus elérhetőségét” szövegrész helyébe az „elektronikus kapcsolattartásra szolgáló elérhetőségét” szöveg,
+i)[^22]
 
-j) 31. § (8) bekezdésében az „a Ket. 169/A. § (3) bekezdése alapján meghatározott szervezet” szövegrész helyébe az „a kormányablak” szöveg,
+j)[^23]
 
-k) 35. § (1) bekezdésében az „elektronikus ügyintézés részletes szabályairól szóló kormányrendeletben” szövegrész helyébe az „Eür.-ben” szöveg,
+k)[^24]
 
-l) 43. § (3) és (5) bekezdésében az „elektronikus ügyintézés részletes szabályairól szóló jogszabályban” szövegrész helyébe az „Eür.-ben” szöveg,
+l)[^25]
 
-m) 53. § (3) bekezdés a) pontjában az „elektronikus ügyintézés részletes szabályairól szóló jogszabályban meghatározott követelményeknek megfelelő elektronikus aláírással, az előírt esetekben időbélyeggel látta el” szövegrész helyébe az „Eür.-ben meghatározott követelményeknek megfelelően hitelesítette” szöveg,
+m)[^26]
 
-n) 53. § (6) bekezdés nyitó szövegrészében az „a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló Korm. rendeletben” szövegrész helyébe az „az Eür.-ben” szöveg,
+n)[^27]
 
-o) 54. §-ában az „elektronikus aláírásokról” szövegrész helyébe az „elektronikus aláírásokról, elektronikus bélyegzőkről” szöveg, az „elektronikus aláírás” szövegrész helyébe az „elektronikus aláírás, elektronikus bélyegző” szöveg,
+o)[^28]
 
-p) 61. § (4) bekezdés b) pontjában a „SZEÜSZR-ben” szövegrész helyébe az „az Eür.-ben” szöveg,
+p)[^29]
 
-q) 61. § (6) bekezdésében az „a SZEÜSZR-ben” szövegrész helyébe az „az Eür.-ben” szöveg, a „SZEÜSZ” szövegrész helyébe a „KEÜSZ” szöveg,
+q)[^30]
 
-r)[^6]
+r)[^31]
 
-s) 1. melléklet 29. pontjában a „Főigazgatóság” szövegrész helyébe a „Főigazgatóság és területi vízügyi igazgatóságok” szöveg,
+s)[^32]
 
-t) 2. melléklete címében a „küldemények” szövegrész helyébe a „küldemények, hiteles elektronikus dokumentum előállítása körébe nem tartozó iratok” szöveg,
+t)[^33]
 
-u) 3. melléklet 43. pontjában a „Magyar Földtani és Geofizikai Intézet” szövegrész helyébe a „Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság” szöveg
+u)[^34]
 
-[^5]: A 13. § a 16. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^6]: A 14. § r) pontja a 16. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^13]: A 13. § a 16. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^14]: A 14. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 14. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 14. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 14. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 14. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 14. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 14. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 14. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 14. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 14. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 14. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 14. § o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 14. § p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 14. § q) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 14. § r) pontja a 16. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^32]: A 14. § s) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 14. § t) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 14. § u) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

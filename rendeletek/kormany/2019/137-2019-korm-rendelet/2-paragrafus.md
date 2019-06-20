@@ -1,3 +1,3 @@
-## „48. ügyfél ügyintézési rendelkezésének nyilvántartása: az E-ügyintézési tv. szerinti nyilvántartás;
+## 1. §[^1]
 
-## 49. ügyintézési rendelkezés: az E-ügyintézési tv. szerinti ügyintézési rendelkezés;”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

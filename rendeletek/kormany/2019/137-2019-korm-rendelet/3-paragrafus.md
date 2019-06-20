@@ -1,5 +1,3 @@
-## 2. § Az R. 7. § e) pontja helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## (Az iratkezelés felügyeletével megbízott vezető gondoskodik:)
-
-## „e) a hivatalos és személyes elektronikus postafiókok szabályozott működéséről, valamint az Eür. szerinti kézbesítési tárhelyek szabályozott használatáról;”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

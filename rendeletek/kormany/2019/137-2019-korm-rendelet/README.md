@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-137-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-06-19 | 2019-137-20-22.1 | 137/2019. (VI. 11.) Korm. rendelet |
+| 2019-06-20 | 2019-137-20-22.2 | 2010: CXXX. törvény |
