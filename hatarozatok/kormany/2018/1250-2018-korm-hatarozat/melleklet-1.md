@@ -16,11 +16,13 @@
 
 ## b) a turizmusért felelős miniszterrel és a sportpolitikáért felelős miniszterrel együttműködésben összehangolja és szervezi a jelentős mértékben központi költségvetési forrásból külföldön, sportszakmai konferenciákon, vásárokon, kiállításokon és egyéb nemzetközi sporteseményeken megvalósuló egységes Budapest-megjelenéseket, ennek keretében a Magyar Olimpiai Bizottsággal együttműködésben javaslatot tesz a Kormány részére az esedékes olimpiai és paralimpiai játékokon felállítandó magyar ház tematikájára, programjára, valamint – a szükséges központi költségvetési forrással arányos mértékben – irányítja annak megvalósítását,
 
-## c) az a) és b) pontban foglaltak végrehajtása keretében egyeztetéseket és tárgyalásokat folytat a Magyar Olimpiai Bizottsággal, a Nemzetközi Olimpiai Bizottsággal, a hazai és nemzetközi sportági szakszövetségekkel, valamint a kiemelt nemzetközi sportesemények jogtulajdonosaival és szervezőivel, koordinálja a jogtulajdonosokkal a szerződések megkötését, a Kormány részéről összehangolja a kiemelt nemzetközi sportesemények megrendezéséhez szükséges, a központi költségvetési források felhasználását lehetővé tevő és szabályozó támogatási szerződések, illetve egyéb szerződések megkötésével kapcsolatos kormányzati feladatokat.
+## c) az a) és b) pontban foglaltak végrehajtása keretében egyeztetéseket és tárgyalásokat folytat a Magyar Olimpiai Bizottsággal, a Nemzetközi Olimpiai Bizottsággal, a hazai és nemzetközi sportági szakszövetségekkel, valamint a kiemelt nemzetközi sportesemények jogtulajdonosaival és szervezőivel, koordinálja a jogtulajdonosokkal a szerződések megkötését, a Kormány részéről összehangolja a kiemelt nemzetközi sportesemények megrendezéséhez szükséges, a központi költségvetési források felhasználását lehetővé tevő és szabályozó támogatási szerződések, illetve egyéb szerződések megkötésével kapcsolatos kormányzati feladatokat,
 
-## 4/A.[^2] A Kormány a kormánybiztos feladatkörébe utalja a 2023-ban Budapesten megrendezendő IAAF Atlétikai Világbajnokság (a továbbiakban: Világbajnokság) előkészítésével és megvalósításával kapcsolatos kormányzati feladatokat. A kormánybiztos feladata a Világbajnokság előkészítésével és megvalósításával kapcsolatos kormányzati feladatok irányítása, valamint a Magyar Atlétikai Szövetséggel és a Nemzetközi Atlétikai Szövetséggel való kormányzati kapcsolattartás.
+## d)[^2] valamennyi érintett miniszterrel, Budapest Főváros Önkormányzatával és a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársasággal együttműködésben összehangolja és irányítja a Budapest Liszt Ferenc Nemzetközi Repülőtér utasforgalmi, kereskedelmi, a Budapesttel és a fővárosi agglomerációval való közlekedési kapcsolatokat és a parkolási megoldásokat segítő, légiközlekedési hatósági ügynek nem minősülő fejlesztéseivel kapcsolatban felmerülő kormányzati feladatokat, és ellátja az ezekkel kapcsolatos kormányzati álláspont képviseletét.
 
-## 5.[^3] A kormánybiztos a 4. és a 4/A. pont szerinti feladatai ellátása során együttműködik a feladatkörükben érintett miniszterekkel.
+## 4/A.[^3] A Kormány a kormánybiztos feladatkörébe utalja a 2023-ban Budapesten megrendezendő IAAF Atlétikai Világbajnokság (a továbbiakban: Világbajnokság) előkészítésével és megvalósításával kapcsolatos kormányzati feladatokat. A kormánybiztos feladata a Világbajnokság előkészítésével és megvalósításával kapcsolatos kormányzati feladatok irányítása, valamint a Magyar Atlétikai Szövetséggel és a Nemzetközi Atlétikai Szövetséggel való kormányzati kapcsolattartás.
+
+## 5.[^4] A kormánybiztos a 4. és a 4/A. pont szerinti feladatai ellátása során együttműködik a feladatkörükben érintett miniszterekkel.
 
 ## 6. A Kormány a kormánybiztos feladatkörébe utalja különösen az 1. mellékletben meghatározott beruházások előkészítését és megvalósításuk irányítását.
 
@@ -48,9 +50,9 @@
 
 ## 8. A kormánybiztos a tevékenységéről a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 21. §-a szerint számol be.
 
-## 9.[^4] A kormánybiztos tevékenységét a miniszterelnök – a 9a. pontban meghatározott kivétellel – a Miniszterelnökséget vezető miniszter útján irányítja.
+## 9.[^5] A kormánybiztos tevékenységét a miniszterelnök – a 9a. pontban meghatározott kivétellel – a Miniszterelnökséget vezető miniszter útján irányítja.
 
-## 9a.[^5] A kormánybiztos 1. melléklet 16. pontja szerinti beruházással kapcsolatos tevékenységét a miniszterelnök a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter útján irányítja.
+## 9a.[^6] A kormánybiztos 1. melléklet 16. pontja szerinti beruházással kapcsolatos tevékenységét a miniszterelnök a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter útján irányítja.
 
 ## 10. A kormánybiztos tevékenységét titkárság nem segíti.
 
@@ -58,7 +60,7 @@
 
 ## 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 13.[^6]
+## 13.[^7]
 
 1. melléklet az 1250/2018. (V. 25.) Korm. határozathoz
 
@@ -90,21 +92,22 @@ A kormánybiztos feladatkörébe utalt beruházások
 
 13. a 2020-ban Tokióban megrendezésre kerülő XXXII. nyári olimpiai és XVI. paralimpiai játékok helyszínén esetlegesen kialakításra kerülő olimpiai látogatóközpont – magyar ház – előkészítése és megvalósítása,
 
-14.[^7] új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósítása,
+14.[^8] új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósítása,
 
-15.[^8] az ATP World Tour tenisztorna megrendezéséhez szükséges ideiglenes infrastrukturális háttér és végleges teniszközpont megvalósítása,
+15.[^9] az ATP World Tour tenisztorna megrendezéséhez szükséges ideiglenes infrastrukturális háttér és végleges teniszközpont megvalósítása,
 
-16.[^9] a HUNGEXPO Budapesti Vásárközpont fejlesztése,
+16.[^10] a HUNGEXPO Budapesti Vásárközpont fejlesztése,
 
-17.[^10] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+17.[^11] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
 
 [^1]: A 3. pont nyitó szövegrésze az 1327/2019. (VI. 5.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
-[^2]: A 4/A. pontot az 1327/2019. (VI. 5.) Korm. határozat 9. pontja iktatta be.
-[^3]: Az 5. pont az 1327/2019. (VI. 5.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
-[^4]: A 9. pont az 1360/2018. (VII. 26.) Korm. határozat 1. pontjával megállapított szöveg.
-[^5]: A 9a. pontot az 1360/2018. (VII. 26.) Korm. határozat 2. pontja iktatta be.
-[^6]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet 14. pontja az 1360/2018. (VII. 26.) Korm. határozat 3. pontjával megállapított szöveg.
-[^8]: Az 1. melléklet 15. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
-[^9]: Az 1. melléklet 16. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
-[^10]: Az 1. melléklet 17. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
+[^2]: A 4. pont d) alpontját az 1362/2019. (VI. 19.) Korm. határozat 4. pontja iktatta be.
+[^3]: A 4/A. pontot az 1327/2019. (VI. 5.) Korm. határozat 9. pontja iktatta be.
+[^4]: Az 5. pont az 1327/2019. (VI. 5.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
+[^5]: A 9. pont az 1360/2018. (VII. 26.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: A 9a. pontot az 1360/2018. (VII. 26.) Korm. határozat 2. pontja iktatta be.
+[^7]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet 14. pontja az 1360/2018. (VII. 26.) Korm. határozat 3. pontjával megállapított szöveg.
+[^9]: Az 1. melléklet 15. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
+[^10]: Az 1. melléklet 16. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
+[^11]: Az 1. melléklet 17. pontját az 1360/2018. (VII. 26.) Korm. határozat 3. pontja iktatta be.
