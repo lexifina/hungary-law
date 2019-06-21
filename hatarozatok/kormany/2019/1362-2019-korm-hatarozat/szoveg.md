@@ -18,8 +18,6 @@ a b) alpont tekintetében 2020. január 31.
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. A kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1250/2018. (V. 25.) Korm. határozat 4. pontja a következő d) alponttal egészül ki:
+4.[^1]
 
-(A kormánybiztos az 1. pont szerinti feladatkörében eljárva)
-
-„d) valamennyi érintett miniszterrel, Budapest Főváros Önkormányzatával és a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársasággal együttműködésben összehangolja és irányítja a Budapest Liszt Ferenc Nemzetközi Repülőtér utasforgalmi, kereskedelmi, a Budapesttel és a fővárosi agglomerációval való közlekedési kapcsolatokat és a parkolási megoldásokat segítő, légiközlekedési hatósági ügynek nem minősülő fejlesztéseivel kapcsolatban felmerülő kormányzati feladatokat, és ellátja az ezekkel kapcsolatos kormányzati álláspont képviseletét.”
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
