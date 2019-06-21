@@ -1,4 +1,4 @@
-2. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^7]
+2. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^9]
 
 A Beruházásokkal érintett ingatlanok
 
@@ -6,9 +6,9 @@ A Beruházásokkal érintett ingatlanok
 
 | 1. | Beruházás megnevezése | Beruházás azonosító adatai (ingatlan-nyilvántartás szerinti helyrajzi szám) |
 
-| 2. | Semmelweis Egyetem Kútvölgyi Klinikai Tömb: a) a Semmelweis Egyetem Kútvölgyi Klinikai Tömb teljes felújítása, b) új sürgősségi osztály kialakítása, c) a G épületszárny helyén új épület kialakítása, d) a Semmelweis Egyetem Kútvölgyi Klinikai Tömb – XII. kerületi (Hegyvidéki) szakrendelő felújítása és kialakítása. | Budapest belterület 10733/6 belterület 10171/5 belterület 6836/3 belterület 6836/4 belterület 10172 belterület 10733/9 belterület 10733/8 belterület 10734/1 |
+| 2. | Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő kialakítása a) új központi sürgősségi és műtétes tömb építése, b) a betegforgalomhoz igazodó, kórházhoz integrált járóbeteg épületegység kialakítása. | Budapest belterület 10733/6 belterület 10733/11 belterület 6836/4 belterület 10172 belterület 10733/9 belterület 10733/8 belterület 10734/1 belterület 10168/2 belterület 10171/3 belterület 6836/2 |
 
-| 3. | Szent János Kórház és Észak-budai Egyesített Kórházak: a) új épület építése a 19-es gyermekcentrum-épülettel és a Semmelweis Egyetem Kútvölgyi Klinikai Tömbbel összeköttetésben, b) konyhaüzem rekonstrukciója, c) új logisztikai központ létrehozása, d) a megmaradó régi épületek műszaki felújítása. | Budapest belterület 10168/2 belterület 10171/3 belterület 6836/2 belterület 53075 belterület 6869/0/A/2 belterület 10119/6 |
+| 3. | Semmelweis Egyetem Pető András Kar | Budapest belterület 10171/5 |
 
 | 4. | Szent Imre Egyetemi Oktatókórház: a) konyhafelújítás, b) az energetikai D épület felújítása, c) az A épület légtechnika-kialakítása és liftek cseréje, d) a B épület felújítása, komfortosítása, e) a K-C-R épületek fűtéskorszerűsítése, f) új T épületszárny (ambuláns trauma) megépítése. | Budapest belterület 3519/9 belterület 3519/10 |
 
@@ -20,7 +20,7 @@ A Beruházásokkal érintett ingatlanok
 
 | 8. | Gottsegen György Országos Kardiológiai Intézet (GOKI): a) meglévő épület ideiglenes működéséhez szükséges átalakítás, felújítás, komfortosítás, funkcionális átalakítás, műszaki-technológiai fejlesztések, b) az épületben lévő felnőtt kardiológiai és szívsebészeti funkcióknak a Dél-pesti Centrumkórház új épületébe történő átkerülését követően a régi épület elbontása, c) a gyermek kardiológiai és szívsebészeti tömb felújítása. | Budapest belterület 38288 |
 
-| 9. | Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet: a) a Fiumei úti telephelyen működő osztályok többségének átköltöztetése a Dél-pesti Centrumkórházba, b) az a) pontban nem említett többi telephelyen komfortosítás, c) új épületek építése, d) régi épületek felújítása. | Budapest belterület 33125 belterület 33591 belterület 33625 belterület 33641 belterület 34720 |
+| 9. | Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet: a) a Fiumei úti telephelyen működő osztályok többségének átköltöztetése a Dél-pesti Centrumkórházba, b) az a) pontban nem említett többi telephelyen komfortosítás, c) új épületek építése, d) régi épületek felújítása. | Budapest belterület 33125 belterület 33591 belterület 33625 belterület 33641 belterület 34720 |
 
 | 10. | Jahn Ferenc Dél-pesti Kórház és Rendelőintézet: a) új műtéti, diagnosztikai és járóbeteg-szakellátási tömbépület kialakítása, b) egynapos sebészeti részleg, sürgősségi osztály bővítése, c) bölcsőde, óvoda kialakítása, d) régi épületek műszaki felújítása és komfortosítása, e) a csepeli rehabilitációs-krónikus telephely, valamint a járóbeteg-szakrendelői telephelyek felújítása, komfortosítása, f) a csepeli telephelyen új hospice osztály kialakítása. | Budapest belterület 182640/1 belterület 182640/2 belterület 210336 belterület 170424/2 Gyál belterület 2617 |
 
@@ -76,7 +76,7 @@ A Beruházásokkal érintett ingatlanok
 
 | 36. | Semmelweis Egyetem, Pulmonológia Klinika: a Semmelweis Egyetem Pulmonológiai Klinikájának a Semmelweis Egyetem pesti telephelyére való költöztetése. | Budapest belterület 10168/2 |
 
-| 37. | Semmelweis Egyetem, Elméleti Orvostudományi Központ: a Semmelweis Egyetem Általános Orvostudományi Karának fejlesztési projektje. | Budapest belterület 37348/2 |
+| 37. | Semmelweis Egyetem, Elméleti Orvostudományi Központ: a Semmelweis Egyetem Általános Orvostudományi Karának fejlesztési projektje. | Budapest belterület 37348/2 belterület 37414 belterület 37418 belterület 37419 |
 
 | 38. | Semmelweis Egyetem Fogorvostudományi Kar: skill (propedeutikai) labor kialakítása és a gyakorlati képzés fejlesztését szolgáló bővítések. | Budapest belterület 36769 |
 
@@ -86,11 +86,11 @@ A Beruházásokkal érintett ingatlanok
 
 | 41. | Semmelweis Egyetem, Gyógyszerésztudományi Kar: a Semmelweis Egyetem Gyógyszerésztudományi Karának fejlesztési projektje, ennek részeként a Hőgyes–Schöpf-Merei gyógyszerkutatási centrum kialakítása. | Budapest belterület 36868 |
 
-| 42. | Egykori Schöpf-Merei Kórház: a Semmelweis Egyetem Gyógyszerésztudományi Karának fejlesztési projektje, ennek részeként a Hőgyes–Schöpf-Merei gyógyszerkutatási centrum kialakítása. | Budapest belterület 36873/0/A/1 belterület 36873/0/B/1 belterület 36873/0/C/1 |
+| 42. | Egykori Schöpf-Merei Kórház: a Semmelweis Egyetem Gyógyszerésztudományi Karának fejlesztési projektje, ennek részeként a Hőgyes–Schöpf-Merei gyógyszerkutatási centrum kialakítása. | Budapest belterület 36873/0/A/1 belterület 36873/0/B/1 belterület 36873/0/C/1 belterület 36873/0/A/2 |
 
 | 43. | Semmelweis Egyetem, Egészségtudományi Kar: a Kar Vas utcai tömbjének fejlesztése, ami magában foglalja a Hagyományos Kínai Orvoslás Részleg kialakítását. | Budapest belterület 36498 |
 
-| 44. | Semmelweis Egyetem Egészségügyi Közszolgálati Kar: az Egészségügyi Menedzserképző Központ épületének felújítása, infrastruktúra-fejlesztése. | Budapest belterület 10733/6 belterület 9520 |
+| 44. | Semmelweis Egyetem Egészségügyi Közszolgálati Kar: az Egészségügyi Menedzserképző Központ épületének felújítása, infrastruktúra-fejlesztése. | Budapest belterület 10733/12 belterület 9520 |
 
 | 45. | Semmelweis Egyetem, Külső Klinikai Tömb: a) a Semmelweis Egyetem Külső Klinikai Tömb klinikáinak a Korányi tömbhöz kapcsolódó felújítása, b) Semmelweis Egyetem Pulmonológiai Klinika beköltöztetése. | Budapest belterület 36177/1 belterület 36164 |
 
@@ -114,4 +114,36 @@ A Beruházásokkal érintett ingatlanok
 
 | 55. | Dunakeszi Szakorvosi Rendelőintézet: a) szakrendelő épület belső felújítása, b) pszichiátriai gondozó korszerűsítése, c) felvonók cseréje. | Dunakeszi belterület 5046 belterület 4462/1 belterület 5182/1 |
 
-[^7]: A 2. melléklet a 119/2018. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+| 56. | Szent Margit Rendelőintézet: a) a Vörösvári úti és a Csobánka téri telephelyek felújítása külső telephely összevonásával, b) épületek gépészeti és műszaki korszerűsítése, c) orvostechnológiai és informatikai eszközpark cseréje, az ahhoz szükséges építési beruházás. | Budapest belterület 62321/149 belterület 17005/62 |
+
+| 57. | Budapest VIII. kerület – Józsefvárosi Szent Kozma Egészségügyi Központ: orvostechnológiai eszközpark modernizálása új eszközök beszerzésével, az ahhoz szükséges építési beruházás. | Budapest belterület 35037/0/A/1 belterület 35037/0/A/2 |
+
+| 58. | Budapest XV. kerület – Dr. Vass László Egészségügyi Intézmény, Lelkiegészség-központ: pszichiátriai ellátás fejlesztése Lelki Egészségközpont kialakításával, a meglévő épület korszerűsítésével. | Budapest belterület 82285 |
+
+| 59. | Budapest I. kerület – Budavári Önkormányzat Egészségügyi Szolgálata: a) orvostechnikai eszközök beszerzése, az ahhoz szükséges építési beruházás, b) műszaki korszerűsítés, informatikai hálózatfejlesztés. | Budapest belterület 6957/3 |
+
+| 60. | Budapest IV. kerület – Újpesti Szakorvosi Rendelőintézet: a) szakrendelő épületgépészeti felújítása, b) orvostechnikai eszközök és bútorzat cseréje, az ahhoz szükséges építési beruházás, c) energetikai korszerűsítés. | Budapest belterület 73070 |
+
+| 61. | Budapest XIII. kerületi Egészségügyi Szolgálat: a) a rendelőintézet műszerezettségének fejlesztése, az ahhoz szükséges építési beruházás, b) új eszközök beszerzése a gasztroenterológiai és nőgyógyászati szakrendeléseken, az ahhoz szükséges építési beruházás, c) egynapos sebészet orvostechnológiai fejlesztése. | Budapest belterület 25459/43 belterület 27403/9 |
+
+| 62. | Budapest XVIII. kerület – Pestszentlőrinc-Pestszentimre Egészségügyi Szolgáltató Kft. Zsebők Zoltán Szakrendelő: a) Thököly úti szakrendelő épület energetikai korszerűsítése, b) laboratórium belső felújítása, c) orvostechnológiai eszközpark fejlesztése, az ahhoz szükséges építési beruházás. | Budapest belterület 155447/19 belterület 140662 |
+
+| 63. | Jahn Ferenc Kórház – XX. kerület Ady Endre utcai Szakrendelő: a) a rendelőépület építészeti-műszaki korszerűsítése és bővítése, b) az informatikai eszközök modernizálása, az ahhoz szükséges építési beruházás, c) új orvosi berendezések beszerzése, az ahhoz szükséges építési beruházás. | Budapest belterület 170424/2 |
+
+| 64. | Budapest XXI. kerület – Tóth Ilona Egészségügyi Szolgálat Szakrendelő: a) egynapos sebészet fejlesztése, b) orvosi-műszerpark fejlesztése, az ahhoz szükséges építési beruházás, c) a korábbi Csepeli Szülőotthon jelenleg üresen álló épületében orvos-szakmai szolgáltatások kialakítása, az épület teljes felújításával és orvostechnikai, valamint informatikai felszerelésével. | Budapest belterület 209578 belterület 208524 |
+
+| 65. | Budapest XXII. kerület – Dél-Budai Egészségügyi Szolgálat: a) informatikai hálózatfejlesztés és eszközök modernizálása, az ahhoz szükséges építési beruházás, b) orvosi gépek és műszerek cseréje új eszközök beszerzésével, az ahhoz szükséges építési beruházás. | Budapest belterület 223560/0/B/1 |
+
+| 66. | Biatorbágy Egészségügyi Ellátó Kft.: a) orvostechnikai eszközök fejlesztése, az ahhoz szükséges építési beruházás, b) informatikai eszközpark korszerűsítése, az ahhoz szükséges építési beruházás. | Biatorbágy belterület 1510 |
+
+| 67. | Budakeszi Szakrendelő: a) szakellátások fejlesztése, az ahhoz szükséges építési beruházás, b) orvostechnológiai műszerek és informatikai eszközök beszerzése, az ahhoz szükséges építési beruházás. | Budakeszi belterület 16 |
+
+| 68. | Érd – Dr. Romics László Egészségügyi Intézmény: a) orvostechnológai eszközök beszerzése és korszerűsítése, az ahhoz szükséges építési beruházás, b) egynapos sebészet és a képalkotó diagnosztika fejlesztése, az ahhoz szükséges építési beruházás. | Érd belterület 22765 |
+
+| 69. | Pilisvörösvári Szakorvosi Rendelőintézet: orvostechnológiai eszközpark modernizálása új eszközök beszerzésével, az ahhoz szükséges építési beruházás. | Pilisvörösvár belterület 1262 |
+
+| 70. | Szentendre Város Egészségügyi Intézményei Szakrendelő: a) informatikai eszközök beszerzése, az ahhoz szükséges építési beruházás, b) orvosi műszerek cseréje, az ahhoz szükséges építési beruházás, c) energetikai fejlesztés. | Szentendre belterület 2409 |
+
+| 71. | Vecsési Egészségügyi Szolgálat: a) orvostechnológiai berendezések korszerűsítése, az ahhoz szükséges építési beruházás, b) informatikai rendszer modernizálása, az ahhoz szükséges építési beruházás. | Vecsés belterület 4918 belterület 1529 |
+
+[^9]: A 2. melléklet a 119/2018. (VII. 2.) Korm. rendelet 2. §-ával megállapított, a 143/2019. (VI. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-98-20-2
 | 2017-04-28 | 2017-98-20-22.1 | 98/2017. (IV. 27.) Korm. rendelet |
 | 2018-01-01 | 2017-98-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2018-07-03 | 2017-98-20-22.3 | 119/2018. (VII. 2.) Korm. rendelet |
+| 2019-06-21 | 2017-98-20-22.4 | 143/2019. (VI. 20.) Korm. rendelet |
