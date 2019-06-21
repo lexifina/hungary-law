@@ -1,0 +1,1 @@
+## 1. § A népszavazás kezdeményezése során a választási irodák hatáskörébe tartozó feladatokról szóló 10/2016. (VI. 28.) IM rendelet (a továbbiakban: R.) 9. § c) pontjában a „magyar állampolgárságot igazoló okirat” szövegrész helyébe a „személyazonosságot igazoló hatósági igazolvány” szöveg lép.
