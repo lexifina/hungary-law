@@ -1,4 +1,4 @@
-## 7/A. §[^10] A 7. § (3) bekezdésében foglalt feladatokkal összefüggésben, valamint a 15. § (4) bekezdésében rögzített konzorciumi megállapodásban foglaltak szerint a Társaság a projektek megvalósításához szükséges árubeszerzés és építési beruházás közbeszerzési eljárásokat a végső kedvezményezett helyett és nevében folytatja le, kiválasztja a nyertes ajánlattevőket, valamint a nyertes ajánlattevőkkel – a végső kedvezményezett nevében és annak javára azok meghatalmazása alapján – aláírja a keretmegállapodásokat.
+## 7/A. §[^11] A 7. § (3) bekezdésében foglalt feladatokkal összefüggésben, valamint a 15. § (4) bekezdésében rögzített konzorciumi megállapodásban foglaltak szerint a Társaság a projektek megvalósításához szükséges árubeszerzés és építési beruházás közbeszerzési eljárásokat a végső kedvezményezett helyett és nevében folytatja le, kiválasztja a nyertes ajánlattevőket, valamint a nyertes ajánlattevőkkel – a végső kedvezményezett nevében és annak javára azok meghatalmazása alapján – aláírja a keretmegállapodásokat.
 
 ## III. Fejezet
 
@@ -16,4 +16,4 @@
 
 (5) Ha a kedvezményezett a (3) bekezdés szerinti határidőben nem nyilatkozik, vagy valamely közbeszerzési eljárás megindítására nem kerül sor a (3) bekezdésben meghatározott időpontig, a miniszter haladéktalanul intézkedik a projekteknek a Kormány saját hatáskörében történő megvalósításáról.
 
-[^10]: A 7/A. §-t a 159/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^11]: A 7/A. §-t a 159/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
