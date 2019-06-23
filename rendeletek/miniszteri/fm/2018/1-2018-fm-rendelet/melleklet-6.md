@@ -14,7 +14,7 @@
 
 ## * a földrajzi árujelző termékleírásában körülhatárolt termőterületén belül a termékleírásban engedélyezett szőlőfajtákkal beültetett terület nagysága
 
-6. melléklet az 1/2018. (II. 1.) FM rendelethez[^28]
+6. melléklet az 1/2018. (II. 1.) FM rendelethez[^29]
 
 Ültetvényleltár
 
@@ -50,4 +50,4 @@ Művelésmód: ……………………………
 
 *** Az oszlop minden esetben töltendő!
 
-[^28]: A 6. melléklet a 30/2018. (X. 11.) AM rendelet 19. §-a szerint módosított szöveg.
+[^29]: A 6. melléklet a 30/2018. (X. 11.) AM rendelet 19. §-a szerint módosított szöveg.

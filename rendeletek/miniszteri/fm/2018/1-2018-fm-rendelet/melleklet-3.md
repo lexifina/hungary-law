@@ -38,6 +38,6 @@
 
 ## (aláírás) (aláírás)
 
-3. melléklet az 1/2018. (II. 1.) FM rendelethez[^27]
+3. melléklet az 1/2018. (II. 1.) FM rendelethez[^28]
 
-[^27]: A 3. melléklet a 7/2018. (VI. 26.) AM rendelet 11. §-a szerint módosított szöveg.
+[^28]: A 3. melléklet a 7/2018. (VI. 26.) AM rendelet 11. §-a szerint módosított szöveg.

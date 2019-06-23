@@ -2,7 +2,7 @@
 
 17. § (1) Az egyéni tervben szereplő tevékenység végrehajtását követően, de legkésőbb a jóváhagyott egyéni tervben megjelölt tevékenység végrehajtásának borpiaci évét követő borpiaci évben a kifizetési kérelmet a Kincstár részére kell benyújtani. A kifizetési kérelem benyújtási határideje 2020. június 15.
 
-(2) A kifizetési kérelmeket az egyéni terv szerint befejezett tevékenységre vonatkozóan a borpiaci év április 1. és június 15. közötti időszakában lehet benyújtani.
+(2)[^16] A kifizetési kérelmeket az egyéni terv szerint befejezett tevékenységre vonatkozóan a borpiaci év április 1. és július 1. közötti időszakában lehet benyújtani.
 
 (3) Kifizetési kérelmet kizárólag az nyújthat be, aki (amely) a Kincstár által jóváhagyott egyéni tervvel rendelkezik.
 
@@ -35,3 +35,5 @@ e) a régi szőlőtőkék eltávolításának, a támberendezés bontásának é
 (9) A 6. § (5) bekezdése szerinti végrehajtás esetén az első borpiaci évre benyújtott kifizetési kérelemhez nem kell mellékelni az (5) bekezdés a) pontjában meghatározott dokumentumot.
 
 (10) Adott borpiaci évben egy kérelmező több kifizetési kérelmet is benyújthat.
+
+[^16]: A 17. § (2) bekezdése a 29/2019. (VI. 20.) AM rendelet 9. §-a szerint módosított szöveg.
