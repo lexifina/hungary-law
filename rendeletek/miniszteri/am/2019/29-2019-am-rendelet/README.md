@@ -1,0 +1,9 @@
+# 29/2019. (VI. 20.) AM rendelet
+
+a méhállomány egészségügyi kondíciójának megőrzéséhez igénybe vehető csekély összegű támogatásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-29-20-7R
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-06-23 | 2019-29-20-7R.1 | 29/2019. (VI. 20.) AM rendelet |
