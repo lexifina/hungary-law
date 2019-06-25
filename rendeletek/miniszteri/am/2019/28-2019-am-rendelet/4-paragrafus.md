@@ -1,0 +1,3 @@
+## 3. § A 110/2003. (X. 21.) FVM rendelet 14. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) Az 1. számú melléklet B. része szerinti fajok esetében a (3) bekezdés szerinti alap származási igazolványt nem kell kiállítani. Ha az 1. számú melléklet B. részében felsorolt fa- és cserjefajok esetében a csemetekerti engedélyes – a (3) bekezdés szerinti alap származási igazolvány kiállítása iránti kérelem mellőzésével – tárgyév június 30. napjáig bejelenti az alap származási igazolvánnyal nem rendelkező csemete csemetekertben történő eltelepítését, a szaporítóanyag származási körzeteként egységesen Magyarországot kell megjelölni a szállítói származási bizonylaton, és a szaporítóanyag kizárólag azonosított származású kategóriában forgalmazható.”
