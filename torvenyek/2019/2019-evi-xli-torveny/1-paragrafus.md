@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Hírközlési Hivatal (ECO) létrehozásáról szóló, Koppenhágában, 2011. november 23. napján kelt Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
