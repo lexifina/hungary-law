@@ -1,0 +1,1 @@
+Az Országgyűlés a Kúria elnökének országgyűlési beszámolója a Kúria 2017. évi tevékenységéről a jogegység biztosítása és az önkormányzati normakontroll körében címmel benyújtott beszámolóját elfogadja.
