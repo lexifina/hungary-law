@@ -1,16 +1,16 @@
-## A)
+## A)[^144]
 
-## Az 1. számú mellékletben felsorolt fajok vetőmag tételeivel szembeni követelmények
+## Az 1. számú melléklet A. részében felsorolt fajok vetőmag tételeivel szembeni követelmények
 
-## 1. Az 1. számú mellékletben felsorolt fajok vetőmagtételeit csak akkor lehet forgalmazni, ha a magtétel eléri a 99%-os fajtisztasági szintet.
+## 1.[^145] Az 1. számú melléklet A. részében felsorolt fajok vetőmagtételeit csak akkor lehet forgalmazni, ha a magtétel eléri a 99%-os fajtisztasági szintet.
 
-## 2. Az 1. pont rendelkezéseitől eltérően az 1. számú mellékletben felsorolt, közeli rokonságban álló fajok esetében – a mesterséges hibridek kivételével – fel kell tüntetni, ha a magtétel fajtisztasága nem éri el a 99%-ot.
+## 2.[^146] Az 1. pont rendelkezéseitől eltérően az 1. számú melléklet A. részében felsorolt, közeli rokonságban álló fajok esetében – a mesterséges hibridek kivételével – fel kell tüntetni, ha a magtétel fajtisztasága nem éri el a 99%-ot.
 
-## B)
+## B)[^147]
 
-## Az 1. számú mellékletben felsorolt fajok és mesterséges hibridek növényi részeivel szembeni követelmények
+## Az 1. számú melléklet A. részében felsorolt fajok és mesterséges hibridek növényi részeivel szembeni követelmények
 
-## Az 1. számú mellékletben felsorolt fajok és mesterséges hibridek növényi részei elfogadható forgalmazhatósági minőséggel kell hogy rendelkezzenek. Az elfogadható forgalmazhatósági minőséget az általános tulajdonságokra, egészségre és megfelelő méretre határozzák meg. A Populus fajok esetében a C) részben meghatározott további előírásoknak is teljesülniük kell.
+## Az 1. számú melléklet A. részében felsorolt fajok és mesterséges hibridek növényi részei elfogadható forgalmazhatósági minőséggel kell hogy rendelkezzenek. Az elfogadható forgalmazhatósági minőséget az általános tulajdonságokra, egészségre és megfelelő méretre határozzák meg. A Populus fajok esetében a C) részben meghatározott további előírásoknak is teljesülniük kell.
 
 ## C)
 
@@ -72,9 +72,9 @@
 
 | S2 | 30 | 4,00 |
 
-## D)
+## D)[^148]
 
-## Az 1. számú mellékletben felsorolt fajok és mesterséges hibridek ültetési anyagával szembeni követelmények
+## Az 1. számú melléklet A. részében felsorolt fajok és mesterséges hibridek ültetési anyagával szembeni követelmények
 
 ## Az ültetési anyag elfogadható forgalmazhatósági minőséggel rendelkezzen. Az elfogadható forgalmazhatósági minőséget az általános tulajdonságokra, egészségre, életképességre és fiziológiai minőségre való hivatkozással határozzák meg.
 
@@ -449,3 +449,9 @@
 | Legalább 150 cm magasság, 15 mm tőátmérő, 20 cm gyökérhossz | Legalább 100 cm magasság, 10 mm tőátmérő, 20 cm gyökérhossz |
 
 7. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
+
+[^144]: A 6. számú melléklet A) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^145]: A 6. számú melléklet A) pont 1. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^146]: A 6. számú melléklet A) pont 2. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^147]: A 6. számú melléklet B) pontja a 28/2019. (VI. 20.) AM rendelet 10. § l) pontja szerint módosított szöveg.
+[^148]: A 6. számú melléklet D) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.

@@ -10,13 +10,14 @@
 
 (3) A rendelet hatálya kiterjed:
 
-a) az 1. számú mellékletben foglalt erdészeti fajok és fajtáik szaporítóanyagára, a szaporítóanyag begyűjtésére, előállítására, nevelésére, készletezésére, forgalomba hozatalára és felhasználására,
+a)[^1] az 1. számú mellékletben foglalt erdészeti fajok és fajtáik szaporítóanyagára (beleértve azok gyökérkapcsolt gombafajokkal mikorrhizált szaporítóanyagát), a szaporítóanyag begyűjtésére, előállítására, nevelésére, készletezésére, forgalomba hozatalára és felhasználására,
 
 b) a szaporítóanyagok előállítását, begyűjtését, nevelését, készletezését és forgalomba hozatalát közvetve vagy közvetlenül szolgáló létesítményekre, növényállományokra,
 
-c)[^1] azon természetes személyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: szervezetek), amelyek erdészeti szaporítóanyag előállításával, begyűjtésével, nevelésével, készletezésével, forgalomba hozatalával és felhasználásával foglalkoznak,
+c)[^2] azon természetes személyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: szervezetek), amelyek erdészeti szaporítóanyag előállításával, begyűjtésével, nevelésével, készletezésével, forgalomba hozatalával és felhasználásával foglalkoznak,
 
-d)[^2] a szaporítóanyag-minősítő rendszert működtető és ellenőrző Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), a növény- és talajvédelmi, továbbá növénytermesztési hatáskörében eljáró járási hivatalra, valamint a növénytermesztési hatáskörében eljáró Pest Megyei Kormányhivatalra (a továbbiakban: Pest Megyei Kormányhivatal).
+d)[^3] a szaporítóanyag-minősítő rendszert működtető és ellenőrző Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), a növény- és talajvédelmi, továbbá növénytermesztési hatáskörében eljáró járási hivatalra, valamint a növénytermesztési hatáskörében eljáró Pest Megyei Kormányhivatalra (a továbbiakban: Pest Megyei Kormányhivatal).
 
-[^1]: Az 1. § (3) bekezdés c) pontja a 22/2014. (III. 14.) VM rendelet 18. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (3) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 55. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (3) bekezdés a) pontja a 28/2019. (VI. 20.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés c) pontja a 22/2014. (III. 14.) VM rendelet 18. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 55. § (1) bekezdésével megállapított szöveg.

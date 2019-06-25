@@ -1,143 +1,183 @@
-## A rendelet hatálya alá tartozó fajok és mesterséges hibridek
+## A. RÉSZ
 
-## Abies alba Mill. jegenyefenyő1
+## Az Európai Unióban erdészeti célokból fontos fajok és mesterséges hibridek
 
-## Abies cephalonica Loud. görög jegenyefenyő
+## 1. Abies alba Mill. (jegenyefenyő)
 
-## Abies grandis Lindl. óriás jegenyefenyő
+## 2. Abies cephalonica Loud. (görög jegenyefenyő)
 
-## Abies pinsapo Boiss. spanyol (andalúz) jegenyefenyő
+## 3. Abies grandis Lindl. (óriás jegenyefenyő)
 
-## Acer campestre L. mezei juhar1, 2
+## 4. Abies pinsapo Boiss. [spanyol (andalúz) jegenyefenyő]
 
-## Acer platanoides L. korai juhar1
+## 5. Acer platanoides L. (korai juhar)
 
-## Acer pseudoplatanus L. hegyi juhar1
+## 6. Acer pseudoplatanus L. (hegyi juhar)
 
-## Acer tataricum tatár juhar1, 2
+## 7. Alnus glutinosa Gaertn. (mézgás éger)
 
-## Alnus glutinosa Gaertn. mézgás éger1
+## 8. Alnus incana Moench. (hamvas éger)
 
-## Alnus incana Moench. hamvas éger
+## 9. Betula pendula Roth. (bibircses nyír)
 
-## Betula pendula Roth. bibircses nyír1
+## 10. Betula pubescens Ehrh. (szőrös nyír)
 
-## Betula pubescens Ehrh. szőrös nyír
+## 11. Carpinus betulus L. (gyertyán)
 
-## Carpinus betulus L. gyertyán1
+## 12. Castanea sativa Mill. (szelídgesztenye)
 
-## Castanea sativa Mill. szelídgesztenye
+## 13. Cedrus atlantica Carr. (atlaszcédrus)
 
-## Cedrus atlantica Carr. atlaszcédrus
+## 14. Cedrus libani A. Richard (libanoni cédrus)
 
-## Cedrus libani A. Richard libanoni cédrus
+## 15. Fagus sylvatica L. (bükk)
 
-## Fagus sylvatica L. bükk1
+## 16. Fraxinus angustifolia Vahl. (keskenylevelű kőris)
 
-## Fraxinus angustifolia Vahl. keskenylevelű kőris1
+## 17. Fraxinus excelsior L. (magas kőris)
 
-## Fraxinus excelsior L. magas kőris1
+## 18. Larix decidua Mill. (európai vörösfenyő)
 
-## Fraxinus ornus virágos kőris1
+## 19. Larix x eurolepis Henry (hibrid vörösfenyő)
 
-## Juglans nigra fekete dió1, 2
+## 20. Larix kaempferi Carr. (japán vörösfenyő)
 
-## Juniperus communis közönséges boróka1, 2
+## 21. Larix sibirica Ledeb. (szibériai vörösfenyő)
 
-## Larix decidua Mill. európai vörösfenyő1
+## 22. Picea abies Karst. (lucfenyő)
 
-## Larix x eurolepis Henry hibrid vörösfenyő
+## 23. Picea sitchensis Carr. (szitkafenyő)
 
-## Larix kaempferi Carr. japán vörösfenyő
+## 24. Pinus brutia Ten. (keleti aleppófenyő)
 
-## Larix sibirica Ledeb. szibériai vörösfenyő
+## 25. Pinus canariensis C. Smith (kanári fenyő)
 
-## Malus sylvestris vad alma1, 2
+## 26. Pinus cembra L. (cirbolyafenyő)
 
-## Picea abies Karst. lucfenyő1
+## 27. Pinus contorta Loud. (csavarttűs fenyő)
 
-## Picea sitchensis Carr. szitkafenyő
+## 28. Pinus halepensis Mill. (aleppófenyő)
 
-## Pinus brutia Ten. keleti aleppófenyő
+## 29. Pinus leucodermis Antoine (páncélfenyő)
 
-## Pinus canariensis C. Smith kanári fenyő
+## 30. Pinus nigra Arnold (feketefenyő)
 
-## Pinus cembra L. cirbolyafenyő
+## 31. Pinus pinaster Ait. (tengerparti fenyő)
 
-## Pinus contorta Loud. csavarttűs fenyő
+## 32. Pinus pinea L. (mandulafenyő)
 
-## Pinus halepensis Mill. aleppófenyő
+## 33. Pinus radiata D. Don (monterey-fenyő)
 
-## Pinus leucodermis Antoine páncélfenyő
+## 34. Pinus sylvestris L. (erdeifenyő)
 
-## Pinus nigra Arnold feketefenyő1
+## 35. Populus spp. és az e fajok közötti mesterséges hibridek (a nyárfajok és az e fajok közötti mesterséges hibridek)
 
-## Pinus pinaster Ait. tengerparti fenyő
+## 36. Prunus avium L. (vadcseresznye)
 
-## Pinus pinea L. mandulafenyő
+## 37. Pseudotsuga menziesii Franco (duglászfenyő)
 
-## Pinus radiata D. Don monterey-fenyő
+## 38. Quercus cerris L. (csertölgy)
 
-## Pinus sylvestris L. erdeifenyő1
+## 39. Quercus ilex L. (magyaltölgy)
 
-## Populus sp. és az e fajok közötti mesterséges hibridek1
+## 40. Quercus petraea Liebl. sensu lato* (kocsánytalan tölgy)
 
-## Populus alba fehér nyár1, 3
+## 41. Quercus pubescens Willd. sensu lato* (molyhos tölgy)
 
-## Populus nigra fekete nyár1, 3
+## 42. Quercus robur L. (kocsányos tölgy)
 
-## Populus x canescens szürke nyár1, 3
+## 43. Quercus rubra L. (vörös tölgy)
 
-## Populus tremula rezgő nyár1, 3
+## 44. Quercus suber L. (paratölgy)
 
-## Prunus avium L. vadcseresznye1
+## 45. Robinia pseudoacacia L. (fehér akác)
 
-## Pseudotsuga menziesii Franco duglászfenyő1
+## 46. Tilia cordata Mill. (kislevelű hárs)
 
-## Pyrus pyraster közönséges vadkörte1, 2
+## 47. Tilia platyphyllos Scop. (nagylevelű hárs)
 
-## Quercus cerris L. cser1
+## B. RÉSZ
 
-## Quercus frainetto magyar tölgy1, 2
+## Magyarországon erdőgazdálkodási szempontból fontos fajok és mesterséges hibridek
 
-## Quercus ilex L. magyaltölgy
+## 1. Acer campestre L. (mezei juhar)
 
-## Quercus petraea Liebl. sensu lato kocsánytalan tölgy1
+## 2. Acer tataricum (tatár juhar)
 
-## Quercus pubescens Willd. sensu lato molyhos tölgy1, 2
+## 3. Aesculus hyppocastaneum (vadgesztenye)
 
-## Quercus robur L. kocsányos tölgy1
+## 4. Carpinus orientalis (keleti gyertyán)
 
-## Quercus rubra L. vörös tölgy1
+## 5. Cerasus mahaleb (sajmeggy)
 
-## Quercus suber L. paratölgy
+## 6. Crataegus monogyna (egybibés galagonya)
 
-## Robinia pseudoacacia fehér akác1
+## 7. Crataegus oxyacantha (cseregalagonya, kétbibés galagonya)
 
-## Salix alba fehér fűz klónfajtái1, 2
+## 8. Corylus avellana [európai (közönséges) mogyoró]
 
-## Sorbus sp. berkenyék1, 2
+## 9. Corylus colurna (török mogyoró)
 
-## Tilia cordata kislevelű hárs1
+## 10. Elaeagnus angustifolia (keskenylevelű ezüstfa)
 
-## Tilia platyphyllos nagylevelű hárs1
+## 11. Fraxinus angustifolia ssp. pannonica (magyar kőris)
 
-## Tilia tomentosa ezüst hárs1, 2
+## 12. Fraxinus ornus (virágos kőris)
 
-## Ulmus campestris sensu lato mezei szil1, 2
+## 13. Juniperus communis (közönséges boróka)
 
-## Ulmus glabra hegyi szil1, 2
+## 14. Juglans nigra (fekete dió)
 
-## Ulmus laevis vénic szil1, 2
+## 15. Ligustrum vulgare (közönséges fagyal)
 
-## _______
+## 16. Malus sylvestris (vadalma)
 
-## 1 Magyarországon erdészeti jelentőséggel rendelkező fajok.
+## 17. Morus alba (fehér eperfa)
 
-## 2 Magyarországi erdészeti jelentőségük miatt a listára került fajok.
+## 18. Padus avium (zselnicemeggy)
 
-## 3 Magyarországon őshonos Populus fajok.
+## 19. Platanus x hybrida (közönséges platán)
 
-## A sensu lato kifejezés azt jelöli, hogy a faj (fajcsoport) több, a gyakorlatban el nem különített botanikai taxont foglal magában (például a kocsánytalan tölgy esetében Quercus petraea, Quercus polycarpa, Quercus dalechampii).
+## 20. Prunus spinosa (kökény)
+
+## 21. Pyrus pyraster (közönséges vadkörte)
+
+## 22. Quercus frainetto (magyar tölgy)
+
+## 23. Quercus virgiliana (olasz tölgy)
+
+## 24. Rosa canina (vadrózsa, gyepűrózsa)
+
+## 25. Salix alba (fehér fűz) klónfajtái
+
+## 26. Salix caprea (kecskefűz)
+
+## 27. Salix fragilis (törékeny fűz)
+
+## 28. Sambucus nigra (fekete bodza)
+
+## 29. Sophora japonica (japánakác vagy közönséges pagodafa)
+
+## 30. Sorbus sp. (berkenyék)
+
+## 31. Tamarix tetrandra (korai tamariska)
+
+## 32. Taxus baccata (tiszafa)
+
+## 33. Tilia tomentosa (ezüst hárs)
+
+## 34. Ulmus campestris sensu lato* (mezei szil)
+
+## 35. Ulmus glabra (hegyi szil)
+
+## 36. Ulmus laevis (vénic szil)
+
+## 37. Ulmus pumila (szibériai szil)
+
+## 38. Viburnum opulus (kányabangita)
+
+## 39. Viburnum lantana (ostorménfa)
+
+## * A sensu lato kifejezés azt jelöli, hogy a faj (fajcsoport) több, a gyakorlatban el nem különített botanikai taxont foglal magában (például a kocsánytalan tölgy esetében Quercus petraea, Quercus polycarpa, Quercus dalechampii).
 
 2. számú melléklet a 110/2003. (X. 21.) FVM rendelethez

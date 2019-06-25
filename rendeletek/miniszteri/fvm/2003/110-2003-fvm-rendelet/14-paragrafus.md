@@ -1,10 +1,10 @@
 ## A szaporító alapanyag származásigazolása
 
-14. § (1)[^34] Az 1. számú melléklet szerinti, származásigazolásra kötelezett erdészeti fajok szaporító alapanyagát arra alkalmas erdőállományban, vagy erdészeti törzsültetvényben kell begyűjteni, illetve termelni. A szaporító alapanyag begyűjtését és termelését a NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal ellenőrzi.
+14. § (1)[^40] Az 1. számú melléklet A. része szerinti, származásigazolásra kötelezett erdészeti fajok szaporító alapanyagát arra alkalmas erdőállományban, vagy erdészeti törzsültetvényben kell begyűjteni, illetve termelni. A szaporító alapanyag begyűjtését és termelését a NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal ellenőrzi.
 
-(2)[^35] A NÉBIH és a növénytermesztési hatáskörében eljáró járási hivatal kérelemre engedélyezhet parkokban, arborétumokban, fasorokban stb. való maggyűjtést is, ha az az 1. §-ban előírt követelmények teljesülését nem veszélyezteti. Ez esetben mennyiségi és más feltételek köthetők ki a 8. § (5) bekezdése szerint.
+(2)[^41] A NÉBIH és a növénytermesztési hatáskörében eljáró járási hivatal kérelemre engedélyezhet parkokban, arborétumokban, fasorokban stb. való maggyűjtést is, ha az az 1. §-ban előírt követelmények teljesülését nem veszélyezteti. Ez esetben mennyiségi és más feltételek köthetők ki a 8. § (5) bekezdése szerint.
 
-(3)[^36] A szaporító alapanyagok származását (faj/fajta/klón azonosságát) a NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal, illetve megbízottja igazolja alap származási igazolvány kiállításával. A forgalomba hozatal, illetve felhasználás előtt a NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró járási hivatal által kiadott, az állami ellenőrzés tényét igazoló fémzárral, illetve címkével kell ellátni:
+(3)[^42] A szaporító alapanyagok származását (faj/fajta/klón azonosságát) a NÉBIH, illetve az illetékes növénytermesztési hatáskörében eljáró járási hivatal, illetve megbízottja igazolja alap származási igazolvány kiállításával. A forgalomba hozatal, illetve felhasználás előtt a NÉBIH, illetve az illetékes növénytermesztési hatáskörében eljáró járási hivatal által kiadott, az állami ellenőrzés tényét igazoló fémzárral, illetve címkével kell ellátni:
 
 a) a törzs-, központi és üzemi anyatelepek vegetatív szaporító alapanyagát,
 
@@ -38,6 +38,9 @@ k) vetőmag esetében a termés évét, az ezermagtömeget, a tisztasági- és c
 
 l) a szaporítóanyag géntechnológiával módosított-e.
 
-[^34]: A 14. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja szerint módosított szöveg.
-[^35]: A 14. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 7. pontja szerint módosított szöveg.
-[^36]: A 14. § (3) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 56. § 6. pontja szerint módosított szöveg.
+(5)[^43] Az 1. számú melléklet B. része szerinti fajok esetében a (3) bekezdés szerinti alap származási igazolványt nem kell kiállítani. Ha az 1. számú melléklet B. részében felsorolt fa- és cserjefajok esetében a csemetekerti engedélyes – a (3) bekezdés szerinti alap származási igazolvány kiállítása iránti kérelem mellőzésével – tárgyév június 30. napjáig bejelenti az alap származási igazolvánnyal nem rendelkező csemete csemetekertben történő eltelepítését, a szaporítóanyag származási körzeteként egységesen Magyarországot kell megjelölni a szállítói származási bizonylaton, és a szaporítóanyag kizárólag azonosított származású kategóriában forgalmazható.
+
+[^40]: A 14. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 28/2019. (VI. 20.) AM rendelet 10. § e) pontja szerint módosított szöveg.
+[^41]: A 14. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 7. pontja szerint módosított szöveg.
+[^42]: A 14. § (3) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 56. § 6. pontja, a 28/2019. (VI. 20.) AM rendelet 10. § f) pontja szerint módosított szöveg.
+[^43]: A 14. § (5) bekezdését a 28/2019. (VI. 20.) AM rendelet 3. §-a iktatta be.

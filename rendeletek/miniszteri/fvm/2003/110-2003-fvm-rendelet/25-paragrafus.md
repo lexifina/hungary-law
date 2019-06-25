@@ -2,30 +2,16 @@
 
 ## AZ ELLENŐRZÉS SZABÁLYAI
 
-25. § (1)[^79] A NÉBIH és a növénytermesztési hatáskörében eljáró járási hivatal köteles ellenőrizni az erdészeti szaporítóanyagokra vonatkozó jogszabályok és szabványok megtartását.
+25. § (1)[^97] A NÉBIH és a növénytermesztési hatáskörében eljáró járási hivatal köteles ellenőrizni az erdészeti szaporítóanyagokra vonatkozó jogszabályok és szabványok megtartását.
 
 (2) Az ellenőrzés a szaporítóanyag előállítására terjed ki, különös tekintettel a származás és fajtaazonosság által meghatározott, biológiai-genetikai ,,nem látható'' minőségre.
 
-(3) A hatósági jogkörben ellenőrzést végző jogosult:
+(3)[^98]
 
-a) munkaidő, illetve üzleti idő alatt az ellenőrzött telkére, üzemi területére, üzemi épületeibe, valamint szállítóeszközeibe belépni,
-
-b) a szaporítóanyagok nyilvántartásával, forgalomba hozatalával, felhasználásával kapcsolatos iratokba betekinteni, azok valódiságát vizsgálni és róluk másolatot készíteni,
-
-c) a szaporítóanyagokból térítés nélkül mintát venni,
-
-d) az ellenőrzés során továbbszaporításra alkalmatlannak minősített növényállomány magtermését, szaporítóanyagát, továbbá az egyes szaporítóanyag-tételeket, vagy a termelő teljes termését szaporítóanyagként a forgalomba hozataltól és a saját célú felhasználástól eltiltani,
-
-e) a nem megfelelő minőségű szaporítóanyag zár alá vételére és a zár feloldására,
-
-f) a nem igazolt származású vagy nem megfelelő minőségű, más célra fel nem használható szaporítóanyag megsemmisítésének elrendelésére,
-
-g) a szabálytalanság súlyosságának megfelelően szabálysértési vagy büntetőeljárás kezdeményezésére,
-
-h) minőségvédelmi bírság kiszabására.
-
-(4) Az ellenőrzött köteles tűrni a (3) bekezdésben felsorolt intézkedéseket, továbbá köteles a szükséges bizonylatokat bemutatni, és tájékoztatást adni.
+(4)[^99]
 
 (5) Az ellenőrzéseket a hatóságnak úgy kell végrehajtania, hogy a megmintázott szaporítóanyag ne károsodjon és a szállítás indokolatlan késedelmet ne szenvedjen.
 
-[^79]: A 25. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 7. pontja szerint módosított szöveg.
+[^97]: A 25. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 7. pontja szerint módosított szöveg.
+[^98]: A 25. § (3) bekezdését a 28/2019. (VI. 20.) AM rendelet 11. § h) pontja hatályon kívül helyezte.
+[^99]: A 25. § (4) bekezdését a 28/2019. (VI. 20.) AM rendelet 11. § h) pontja hatályon kívül helyezte.

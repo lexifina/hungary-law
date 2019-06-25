@@ -38,9 +38,9 @@
 
 18. erdőgazdálkodó: az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. §-ának (1) bekezdése szerinti erdőtulajdonos vagy az erdőgazdálkodási tevékenységet folytató jogszerű használó,
 
-19.[^3] erdészeti csemetekert: erdészeti szaporítóanyag előállítására, nevelésére, tárolására szolgáló, a NÉBIH által engedélyezett és bejegyzett terület (faiskola), a rajta lévő létesítményekkel és növényállománnyal,
+19.[^4] erdészeti csemetekert: erdészeti szaporítóanyag előállítására, nevelésére, tárolására szolgáló, a NÉBIH által engedélyezett és bejegyzett terület (faiskola), a rajta lévő létesítményekkel és növényállománnyal,
 
-20.[^4] bejegyzett magbegyűjtőhely: a NÉBIH által bejegyzett, átmeneti magtárolásra alkalmas hely, ahol a begyűjtött mag, makk felvásárlása, átvétele, készletezése, feldolgozása történik,
+20.[^5] bejegyzett magbegyűjtőhely: a NÉBIH által bejegyzett, átmeneti magtárolásra alkalmas hely, ahol a begyűjtött mag, makk felvásárlása, átvétele, készletezése, feldolgozása történik,
 
 21. import: harmadik országból az Európai Unióba végzett beszállítás,
 
@@ -50,7 +50,7 @@
 
 24. szaporítóanyag választék: valamely szaporítóanyag azon tulajdonsága, amelyet a nevelési technológia és a kor jellemez (például 2 éves alávágott magágyi csemete),
 
-25.[^5] zárlat alatti termesztés: Magyarországon szakmai előírás szerint fel nem használható külföldről származó szaporítóanyag előállítása külföldi értékesítés céljára a NÉBIH külön engedélye alapján, zárlat alatt; a szaporítóanyagot teljes egészében ki, illetve át kell szállítani, vagy meg kell semmisíteni,
+25.[^6] zárlat alatti termesztés: Magyarországon szakmai előírás szerint fel nem használható külföldről származó szaporítóanyag előállítása külföldi értékesítés céljára a NÉBIH külön engedélye alapján, zárlat alatt; a szaporítóanyagot teljes egészében ki, illetve át kell szállítani, vagy meg kell semmisíteni,
 
 26. származási igazolvány: a forgalomba hozható szaporítóanyag klón- vagy származásazonosságát, kategóriáját igazoló okirat,
 
@@ -104,9 +104,15 @@
 
 51. törzsanyatelep: évente visszavágott, juvenilis állapotban tartott klóngyűjtemény,
 
-52.[^6] Fajtagyűjtemény: köztermesztés céljára nemesített klónalapú fajták fenntartása, megőrzése érdekében létesített és fenntartott géngyűjtemény, amelynek fenntartása történhet anyatelep formában (juvenilis állapot), illetve faalakú, kifejlett növény formában.
+52.[^7] Fajtagyűjtemény: köztermesztés céljára nemesített klónalapú fajták fenntartása, megőrzése érdekében létesített és fenntartott géngyűjtemény, amelynek fenntartása történhet anyatelep formában (juvenilis állapot), illetve faalakú, kifejlett növény formában,
 
-[^3]: A 2. § 19. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^4]: A 2. § 20. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § 25. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^6]: A 2. § 52. pontját a 42/2017. (VIII. 17.) FM rendelet 55. § (2) bekezdése iktatta be.
+53.[^8] mikorrhizált erdészeti szaporítóanyag: az 1. számú mellékletben felsorolt fajok gyökérkapcsolt gombafajjal, mesterséges körülmények között kezelt, élő mikorrhiza kapcsolattal igazoltan rendelkező szaporítóanyaga,
+
+54.[^9] mikorrhiza-képző gombafaj: növényfaj egyedével gyökérkapcsoltan együtt élő, azzal tápanyagátadásra szolgáló közös képletet (mikorrhizát) létrehozó gombafaj.
+
+[^4]: A 2. § 19. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § 20. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § 25. pontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § 52. pontját a 42/2017. (VIII. 17.) FM rendelet 55. § (2) bekezdése iktatta be.
+[^8]: A 2. § 53. pontját a 28/2019. (VI. 20.) AM rendelet 1. §-a iktatta be.
+[^9]: A 2. § 54. pontját a 28/2019. (VI. 20.) AM rendelet 1. §-a iktatta be.
