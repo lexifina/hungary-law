@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Nemzetközi Távközlési Egyesület között, a Nemzetközi Távközlési Egyesület ITU Telecom World 2019 rendezvényének lebonyolításáról, szervezéséről és finanszírozásáról szóló, a fogadó országgal kötött Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
