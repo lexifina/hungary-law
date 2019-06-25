@@ -1,0 +1,1 @@
+[A Nemzetközi Mobil Műholdas Szervezetet létrehozó egyezmény Magyarország vonatkozásában 1997. július 24-én lépett nemzetközi jogilag hatályba. Az egyezmény 1998. évi módosításai 2001. július 31-én léptek nemzetközi jogilag hatályba.]
