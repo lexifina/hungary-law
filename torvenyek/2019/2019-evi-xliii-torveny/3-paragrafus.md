@@ -1,1 +1,0 @@
-3. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Mobil Műholdas Szervezet létrehozásáról szóló Egyezmény 2008. október 3-án, a huszadik közgyűlésen elfogadott módosítása (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
