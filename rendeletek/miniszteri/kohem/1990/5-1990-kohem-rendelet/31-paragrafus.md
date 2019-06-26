@@ -118,7 +118,9 @@ való megfelelést szolgálja.
 
 49.[^397] a közúti műszaki ellenőrzés során azonosított, súlyos vagy veszélyes hiányosságokkal rendelkező haszongépjárművekről történő értesítési eljárások részletes szabályairól szóló, 2017. november 29-i (EU) 2017/2205 bizottsági végrehajtási rendelet,
 
-50.[^398] az 595/2009/EK európai parlamenti és tanácsi rendeletnek a nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának meghatározása tekintetében történő végrehajtásáról, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv és az 582/2011/EU bizottsági rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2400 bizottsági rendelet
+50.[^398] az 595/2009/EK európai parlamenti és tanácsi rendeletnek a nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának meghatározása tekintetében történő végrehajtásáról, valamint a 2007/46/EK európai parlamenti és tanácsi irányelv és az 582/2011/EU bizottsági rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2400 bizottsági rendelet,
+
+51.[^399] a 2007/46/EK európai parlamenti és tanácsi irányelvnek, a 692/2008/EK bizottsági rendeletnek és az (EU) 2017/1151 bizottsági rendeletnek a könnyű személy- és haszongépjárművek kibocsátás tekintetében történő típusjóváhagyása céljából alkalmazott vizsgálatok és eljárások, ezen belül a használatban lévő járművek megfelelőségére és a valós vezetési feltételek melletti kibocsátásokra vonatkozó vizsgálatok és eljárások továbbfejlesztése, valamint a tüzelőanyag- és elektromosenergia-fogyasztás nyomon követésére szolgáló berendezések bevezetése érdekében történő módosításáról szóló, 2018. november 5-i (EU) 2018/1832 bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -179,3 +181,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^396]: A 31. § (2) bekezdés 48. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^397]: A 31. § (2) bekezdés 49. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
 [^398]: A 31. § (2) bekezdés 50. pontját a 28/2018. (XI. 15.) ITM rendelet 6. § (2) bekezdése iktatta be.
+[^399]: A 31. § (2) bekezdés 51. pontját a 15/2019. (VI. 18.) ITM rendelet 1. §-a iktatta be.
