@@ -1,0 +1,1 @@
+1. § Az Országgyűlés „a hajókon telepíthető INMARSAT földi állomások használatáról a területi vizeken és kikötőkben” tárgyú, Londonban, 1985. október 16-án létrejött megállapodást (a továbbiakban: Megállapodás) e törvénnyel kihirdeti.
