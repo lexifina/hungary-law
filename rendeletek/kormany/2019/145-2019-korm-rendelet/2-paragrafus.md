@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján a Magyar Gáz Tranzit Zártkörűen Működő Részvénytársaság (székhely: 1031 Budapest, Záhony utca 7. B. ép. 2. em., cégjegyzékszám: 01-10-047258) üzletágának és 100%-os mértékű állami tulajdonú részesedésének az FGSZ Földgázszállító Zártkörűen Működő Részvénytársaság (székhely: 8600 Siófok, Tanácsház utca 5., cégjegyzékszám: 14-10-300230) által történő megszerzését – a földgázszállítási rendszer folyamatos, hatékony és biztonságos működtetése érdekében – közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
