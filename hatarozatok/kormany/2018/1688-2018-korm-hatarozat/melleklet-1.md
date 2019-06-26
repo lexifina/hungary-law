@@ -10,9 +10,9 @@
 
 ## 6. Ez a határozat 2019. január 1-jén lép hatályba.
 
-## 7.[^1]
+## 7.[^2]
 
-1. melléklet az 1688/2018. (XII. 17.) Korm. határozathoz
+1. melléklet az 1688/2018. (XII. 17.) Korm. határozathoz[^3]
 
 A 2019. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -146,7 +146,7 @@ A 2019. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 26. | GATOR tűzszerész célfelkészítés | MH ÖHP | USA | I-IV. negyedév | 5 |
 
-| 27. | Szlovák-magyar közös búvár kiképzés | MH ÖHP | Magyarország | I-III. negyedév | 20 |
+| 27. | Szlovák–magyar közös búvár kiképzés | MHP | Szlovákia | II–IV. negyedév | 40 |
 
 | 28. | HUN-USA közös kiképzések (STEPPE ARCHER) | MH ÖHP | Magyarország | I-IV. negyedév | 1000 |
 
@@ -246,6 +246,8 @@ A 2019. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 76. | SLOVAK SHIELD | MH ÖHP | Szlovákia | II-III. negyedév | 60 |
 
+| 77. | AIR WOLF HUNTING 2019 regionális helikopteres gyakorlat | MHP | Magyarország | III–IV. negyedév | 200 |
+
 3. Magyarország területén és légterén történő további áthaladások és átrepülések
 
 | Fsz. | A tevékenység megnevezése | A feladat tervezett időpontja | Engedélyezett létszám |
@@ -308,4 +310,5 @@ A 2019. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 29. | SABER JUNCTION | III. n. é. | egyidejűleg legfeljebb 1000 fő |
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1379/2019. (VI. 25.) Korm. határozat 1. pontja szerint módosított szöveg.
