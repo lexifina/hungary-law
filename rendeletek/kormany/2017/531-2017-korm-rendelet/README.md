@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2019-01-04 | 2017-531-20-22.9 | 103/2018. (VI. 11.) Korm. rendelet |
 | 2019-03-28 | 2017-531-20-22.10 | 64/2019. (III. 27.) Korm. rendelet |
 | 2019-03-31 | 2017-531-20-22.11 | 103/2018. (VI. 11.) Korm. rendelet |
+| 2019-06-26 | 2017-531-20-22.12 | 150/2019. (VI. 25.) Korm. rendelet |
