@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-383-20-
 | 2018-10-14 | 2016-383-20-22.10 | 186/2018. (X. 9.) Korm. rendelet |
 | 2019-04-01 | 2016-383-20-22.11 | 59/2019. (III. 25.) Korm. rendelet |
 | 2019-04-06 | 2016-383-20-22.12 | 186/2018. (X. 9.) Korm. rendelet |
+| 2019-06-26 | 2016-383-20-22.13 | 52/2017. (III. 20.) Korm. rendelet |
