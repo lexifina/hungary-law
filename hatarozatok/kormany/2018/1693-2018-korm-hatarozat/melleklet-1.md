@@ -22,7 +22,7 @@
 
 ## 4. a 2. pontban meghatározott feladat teljesülése érdekében egyetért azzal, hogy az Új Duna-híd Fehérvári út és Üllői út–Határ úti csomópont közötti kapcsolódó közlekedési infrastruktúrája tekintetében a NIF Zrt. gondoskodjon az építési engedélyek megszerzéséről, valamint a kiviteli tervek és a tenderdokumentáció elkészítéséről;
 
-## 5. felhívja a Miniszterelnökséget vezető minisztert és a kormánybiztost, hogy a 2. pont szerinti feladatok keretében, valamint az 1. pont 1.2. alpontja szerinti elvekkel összhangban
+## 5.[^1] felhívja a Miniszterelnökséget vezető minisztert és a kormánybiztost, hogy a 2. pont szerinti feladatok keretében, valamint az 1. pont 1.2. alpontja szerinti elvekkel összhangban
 
 ## 5.1. gondoskodjanak részletes megvalósíthatósági tanulmány készítéséről a Repülőtérre vezető út fejlesztésének felülvizsgálatával, az Üllői út–Határ út csomóponttól Budapest közigazgatási határáig terjedően az útvonal funkciói, hálózati szerepe, belső szakaszának ideális nyomvonala, forgalomtechnikai adottságai, valamint a kapcsolódó területfejlesztési és közlekedésfejlesztési elképzelések figyelembevételével;
 
@@ -32,7 +32,7 @@
 
 ## kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
-## Határidő: 2020. június 30.
+## Határidő: 2022. június 30.
 
 ## 6. felhívja a Miniszterelnökséget vezető minisztert, a kormánybiztost és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegyék meg a szükséges intézkedéseket annak érdekében, hogy a 3., 4. és 5. pont szerinti tervezési feladatok teljesülését követően a NIF Zrt. a kivitelező kiválasztására irányuló feltételes közbeszerzési eljárást folytasson le, majd az eljárás során megismert, a kivitelezésre vonatkozó árajánlatok alapján – a 14. pont 14.2. alpontjában foglaltakon túl – nyújtsanak be előterjesztést a Kormány részére a kivitelezés, a kivitelezéshez kapcsolódó feladatok és költségek, valamint az üzemeltetésre vonatkozó koncepció bemutatása céljából;
 
@@ -44,17 +44,17 @@
 
 ## Határidő: a kivitelezésre irányuló feltételes közbeszerzési eljárás lezárásához szükséges feltételek teljesülését követően azonnal
 
-## 7. felhívja a Miniszterelnökséget vezető minisztert és felkéri Budapest főpolgármesterét, hogy az 1. pont 1.3. alpontja szerinti előkészítési feladat I. ütemeként gondoskodjanak részletes megvalósíthatósági tanulmány készítéséről az útvonal funkcióját, hálózati szerepét, forgalomtechnikai adottságait, valamint a kapcsolódó területfejlesztési és közlekedésfejlesztési elképzeléseket figyelembe véve, és annak eredményét mutassák be a Kormány részére;
+## 7.[^2] felhívja a Miniszterelnökséget vezető minisztert és felkéri Budapest főpolgármesterét, hogy az 1. pont 1.3. alpontja szerinti előkészítési feladat I. ütemeként gondoskodjanak részletes megvalósíthatósági tanulmány készítéséről az útvonal funkcióját, hálózati szerepét, forgalomtechnikai adottságait, valamint a kapcsolódó területfejlesztési és közlekedésfejlesztési elképzeléseket figyelembe véve, és annak eredményét mutassák be a Kormány részére;
 
 ## Felelős: Miniszterelnökséget vezető miniszter, Budapest főpolgármesterének felkérésével
 
-## Határidő: 2019. december 31.
+## Határidő: 2021. május 31.
 
 ## 8. egyetért azzal, hogy a 7. pont szerinti feladatot Budapest Főváros Önkormányzata valósítsa meg;
 
-## 9. a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet [a továbbiakban: 222/2017. (VIII. 11.) Korm. rendelet]
+## 9.[^3] a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet [a továbbiakban: 222/2017. (VIII. 11.) Korm. rendelet]
 
-## 9.1. 2. § (2) bekezdés m), n) és o) pontja szerinti előkészítési fázisaira az 1. pont 1.1. alpontjában meghatározott beruházás tekintetében 3 053 000 000 forint,
+## 9.1.[^4] 2. § (2) bekezdés m), n) és o) pontja szerinti előkészítési fázisaira az 1. pont 1.1. alpontjában meghatározott, Fehérvári út és az Üllői út – Határ úti csomópont közötti kapcsolódó közlekedésiinfrastruktúra-beruházás, valamint a 2. § (2) bekezdés l), m) és n) pontja szerinti előkészítési fázisaira az 1. pont 1.1. alpontjában meghatározott, Új Duna-híd beruházás tekintetében együtt összesen 3 053 000 000 forint,
 
 ## 9.2. 2. § (2) bekezdés a) pontja szerinti előkészítési fázisra az 5. pont 5.1. alpontjában meghatározott beruházás tekintetében 75 000 000 forint,
 
@@ -62,7 +62,7 @@
 
 ## 9.4. 2. § (2) bekezdés a) pontja szerinti előkészítési fázisra a 7. pontban meghatározott beruházás tekintetében 240 000 000 forint,
 
-## – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen 4 520 768 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2020. május 31. napjáig kell megvalósítani;
+## – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen 4 520 768 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat 9.1. alpont tekintetében legkésőbb 2022. december 31., a 9.2. és a 9.3. alpont tekintetében legkésőbb 2022. június 30., a 9.4. alpont tekintetében legkésőbb 2021. május 31. napjáig kell megvalósítani;
 
 ## 10. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva – a 9. pontban foglaltak megvalósítása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 4 520 768 000 forint egyszeri átcsoportosítását rendeli el, a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcím, 2. Kulcsfontosságú budapesti közlekedési beruházások előkészítése jogcímcsoport javára, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszatérítési kötelezettséggel, az 1. melléklet szerint;
 
@@ -80,7 +80,7 @@
 
 ## Határidő: a fel nem használt rész visszafizetése tekintetében a 14. pont 14.1. alpontjában meghatározott jelentés tudomásulvételét követő 15 napon belül
 
-## 11. felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a 3., 4. és 5. pont szerinti tervezési feladatok Beruházás Előkészítési Alap terhére nem elszámolható előkészítési fázisainak tekintetében – a 9. pontban biztosított forráson felül, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt – összesen 5 484 128 000 forint többletforrás rendelkezésre állásáról a központi költségvetés XI. Miniszterelnökség fejezet, Fejezeti kezelésű előirányzatok cím, Célelőirányzatok alcím, Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, Kulcsfontosságú budapesti közlekedési beruházások előkészítése jogcímen, a következő ütemezéssel:
+## 11.[^5] felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a 3., 4. és 5. pont szerinti tervezési feladatok tekintetében – a 9. pontban biztosított forráson felül, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt – összesen 5 484 128 000 forint többletforrás rendelkezésre állásáról a központi költségvetés XI. Miniszterelnökség fejezet, Fejezeti kezelésű előirányzatok cím, Célelőirányzatok alcím, Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, Kulcsfontosságú budapesti közlekedési beruházások előkészítése jogcímen, a következő ütemezéssel:
 
 ## 11.1. a 2019. évben 136 476 000 forint,
 
@@ -106,19 +106,19 @@
 
 ## 13.3. a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 1 350 000 000 forint;
 
-## 14. felhívja a kormánybiztost, hogy
+## 14.[^6] felhívja a kormánybiztost, hogy
 
 ## 14.1. készítsen jelentést a Kormány számára a 222/2017. (VIII. 11.) Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 9. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről,
 
 ## Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
-## Határidő: 2020. június 30.
+## Határidő: 2023. január 30.
 
 ## 14.2. az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az előkészítés folytatásának kérdéséről;
 
 ## Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
-## Határidő: 2020. június 30.
+## Határidő: 2023. január 30.
 
 ## 15. felhívja a Miniszterelnökséget vezető minisztert, hogy Budapest és a fővárosi agglomeráció fejlesztésének felelősségi körében eljárva, a kormánybiztossal együttműködésben, a 3., 4., 5. és 7. pont szerinti tervezési feladatok megvalósítása érdekében, a 9. és a 11. pontban biztosított források terhére gondoskodjanak
 
@@ -132,7 +132,7 @@
 
 ## Határidő: a támogatási szerződésnek a támogatás felhasználása és utólagos elszámolása feltételeinek, valamint a feladat műszaki tartalmának és ütemezésének rögzítésével való megkötése esetében a 11. pont 11.1. alpontja teljesülését követően azonnal
 
-## 16.[^1]
+## 16.[^7]
 
 1. melléklet az 1693/2018. (XII. 17.) Korm. határozathoz
 
@@ -208,4 +208,10 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 7. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 9. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^4]: A 9. pont 9.1. alpontja az 1389/2019. (VI. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 11. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
+[^6]: A 14. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont e) alpontja szerint módosított szöveg.
+[^7]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
