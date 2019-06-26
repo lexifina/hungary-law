@@ -1,4 +1,4 @@
-13. §[^10] (1) A Kormány Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal megyeszékhely szerinti járási hivatala mellett a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki az 1. § c) pontja szerinti egészségbiztosítási pénztári feladatkörben eljáró szervként, valamint
+13. §[^11] (1) A Kormány Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal megyeszékhely szerinti járási hivatala mellett a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki az 1. § c) pontja szerinti egészségbiztosítási pénztári feladatkörben eljáró szervként, valamint
 
 a) a 7. § (5) bekezdés a), f) és j) pontjában foglalt,
 
@@ -16,4 +16,4 @@ c) a 7. § (5) bekezdés d) pont dd) alpontja szerinti adatszolgáltatás tekint
 
 d) a 7. § (5) bekezdés f) és j) pontjában foglalt
 
-[^10]: A 13. §-t a 20/2017. (II. 2.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 171/2017. (VI. 29.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^11]: A 13. §-t a 20/2017. (II. 2.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 171/2017. (VI. 29.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
