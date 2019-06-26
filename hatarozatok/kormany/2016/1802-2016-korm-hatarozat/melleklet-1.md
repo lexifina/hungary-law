@@ -40,9 +40,11 @@
 
 | erdélyi ingatlanberuházási és eszközbeszerzési támogatás | Erdélyi Református Egyházkerület | 1 800 000 000 |
 
-| erdélyi ingatlanberuházási és eszközbeszerzési támogatás | Romániai Evangélikus-Lutheránus Egyház | 580 000 000 |
+| erdélyi ingatlanberuházási és eszközbeszerzési támogatás | Romániai Evangélikus-Lutheránus Egyház | 450 000 000 |
 
 | erdélyi ingatlanberuházási és eszközbeszerzési támogatás | Romániai Evangélikus-Lutheránus Egyház | 120 000 000 |
+
+| erdélyi ingatlanberuházási és eszközbeszerzési támogatás | Romániai Evangélikus-Lutheránus Egyház | 130 000 000 |
 
 | erdélyi ingatlanberuházási és eszközbeszerzési támogatás | Nagybánya Óvárosi Református Egyházközség | 70 000 000 |
 
@@ -100,9 +102,9 @@
 
 | vajdasági ingatlanberuházási és eszközbeszerzési támogatás | Tanyaszínház | 65 000 000 |
 
-| vajdasági szervezet programjának, célitűzéseinek és ingatlanberuházásának, eszközbeszerzésének támogatása | Magyar Nemzeti Tanács | 95 000 000 |
+| vajdasági szervezet programjának, célkitűzéseinek és ingatlanberuházásának, eszközbeszerzésének támogatása | Magyar Nemzeti Tanács | 95 000 000 |
 
-| vajdasági szervezet programjának, célitűzéseinek és ingatlanberuházásának, eszközbeszerzésének támogatása | Magyar Nemzeti Tanács | 80 000 000 |
+| vajdasági szervezet programjának, célkitűzéseinek és ingatlanberuházásának, eszközbeszerzésének támogatása | Magyar Nemzeti Tanács | 80 000 000 |
 
 | vajdasági ingatlanberuházási és eszközbeszerzési támogatás | Szekeres Alapítvány | 400 000 000 |
 
@@ -146,7 +148,7 @@
 
 | kárpátaljai ingatlanberuházási és eszközbeszerzési támogatás | Kárpátaljai Magyar Pedagógusszövetség | 45 000 000 |
 
-| kárpátaljai ingatlanberuházási és eszközbeszerzési támogatás | M.Pokrova Jótékonysági Alapítvány (Oltalom Jótékonysági Alapítvány) | 19 500 000 |
+| kárpátaljai ingatlanberuházási és eszközbeszerzési támogatás | M. Pokrova Jótékonysági Alapítvány (Oltalom Jótékonysági Alapítvány) | 19 500 000 |
 
 | kárpátaljai ingatlanberuházási és eszközbeszerzési támogatás | Pannónia Szociokulturális Fejlődés Társaság | 5 500 000 |
 
@@ -178,7 +180,7 @@
 
 | kárpátaljai szervezet programjának, célkitűzéseinek és ingatlanberuházásának, eszközbeszerzésének támogatása | Ráti Római Katolikus Egyházközség | 39 000 000 |
 
-| felvidéki szervezet programjának, célkitűzéseinek és ingatlanberuházásának, eszközbeszerzésénektámogatása | Csemadok | 143 000 000 |
+| felvidéki szervezet programjának, célkitűzéseinek és ingatlanberuházásának, eszközbeszerzésének támogatása | Csemadok | 143 000 000 |
 
 | felvidéki ingatlanberuházási és eszközbeszerzési támogatás | Debrődi önkormányzat | 126 000 000 |
 
@@ -240,4 +242,4 @@
 
 [^1]: Az 1. pont az 1198/2017. (IV. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2. pont az 1198/2017. (IV. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^3]: Az 1. melléklet az 1198/2017. (IV. 10.) Korm. határozat 1. pontjával megállapított, az 1704/2017. (IX. 22.) Korm. határozat szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1380/2019. (VI. 26.) Korm. határozattal megállapított szöveg.
