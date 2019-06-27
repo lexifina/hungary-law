@@ -24,40 +24,9 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 6. az 1173/2019. (IV. 1.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
+## 6.[^1]
 
-1. melléklet az 1382/2019. (VI. 26.) Korm. határozathoz
+1. melléklet az 1382/2019. (VI. 26.) Korm. határozathoz[^2]
 
-„1. melléklet az 1173/2019. (IV. 1.) Korm. határozathoz
-
-| Sor- szám | Kedvezményezett | Támogatási cél | Támogatási összeg (forint) |
-
-| 2019 | 2020 |
-
-| 1 | Kaposvári Egyházmegye | Kaposvári székesegyház felújítása | 1 050 000 000 | 1 050 000 000 |
-
-| 2 | Kalocsa-Kecskeméti Főegyházmegye | Kecskeméti székesegyház felújítása | 500 000 000 | 300 000 000 |
-
-| 3 | Veszprémi Főegyházmegye | Veszprémi Főegyházmegyei levéltár felújítása | 510 000 000 |  |
-
-| 4 | Zirci Ciszterci Apátság | Budai Szent Imre Plébániatemplom fejlesztésének forráskiegészítése | 275 000 000 | 275 000 000 |
-
-| 5 | Sarutlan Kármelita Nővérek, Magyarszék | „Bánusz tanya” megvásárlása és felújítása dél-dunántúli regionális lelkigyakorlatos központ kialakítása érdekében | 400 000 000 |  |
-
-| 6 | Magyarok Nagyasszonya Ferences Rendtartomány | A sümegi ferences rendház felújítása és korszerűsítése | 200 000 000 |  |
-
-| 7 | Gyulafehérvári Főegyházmegyei Caritas | Csíksomlyói Jakab Antal Tanulmányi Ház felújítása | 68 743 884 |  |
-
-| 8 | Gyulafehérvári Főegyházmegyei Caritas | Ferenc pápa csíksomlyói látogatásához kapcsolódó feladatok ellátása | 50 000 000 |  |
-
-| 9 | Ferences Kolostor Csíksomlyó Manastirea Franciscana Sumuleu | A pápalátogatás lebonyolításának támogatása, valamint a felmerülő javítási és fejlesztési munkálatok elvégzése a Hármashalom oltáron és a pápai szentmise helyszínén | 20 000 000 |  |
-
-| 10 | Mindenszentek Plébánia, Mindszent | Mindszenti Római Katolikus templom felújítása | 100 000 000 |  |
-
-| 11 | Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus | Budapesti Patriarchális Centrum épületének működési költségei | 30 000 000 |  |
-
-| 12 | Budapest-Fasori Református Egyházközség | Budapest-Fasori Református templom és gyülekezeti ház felújításának folytatása | 300 000 000 | 300 000 000 |
-
-| 13 | Jászberényi Református Egyházközség | Jászberényi templom teljes körű, külső és belső felújítása | 75 000 000 | 75 000 000 |
-
-”
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
