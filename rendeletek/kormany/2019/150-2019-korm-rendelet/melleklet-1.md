@@ -1,4 +1,4 @@
-## 9. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet (a továbbiakban: R.) 3. melléklete a 2. melléklet szerint módosul.
+## 9. §[^1]
 
 1. melléklet a 150/2019. (VI. 25.) Korm. rendelethez
 
@@ -55,3 +55,5 @@
 25. azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
