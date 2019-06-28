@@ -20,7 +20,7 @@ a) a Nemzeti Földalapkezelő Szervezet átalakítás útján történő megszü
 
 b) a Nemzeti Kataszteri Program Nonprofit Kft. megszűnésével és feladatai NFK általi átvételével,
 
-c) Budapest Főváros Kormányhivatala Földmérési, Távérzékelési és Földhivatali Főosztályából a Mezőgazdasági Távérzékelési és Helyszíni Ellenőrzési Osztálynak és a MePAR Fejlesztési Koordinációs és Üzemeltetési Osztálynak az NFK-ba való beolvadásával, azzal, hogy e beolvadásos kiválással beolvadó osztályok jogutódja az NFK;
+c)[^1]
 
 4. a 2–3. pontban foglalt feladat megvalósítása érdekében felhívja az agrárminisztert, a Miniszterelnökséget vezető minisztert, a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjanak
 
@@ -37,3 +37,5 @@ pénzügyminiszter
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2019. június 30.
+
+[^1]: A 3. pont c) alpontját az 1393/2019. (VI. 28.) Korm. határozat 2. pontja visszavonta.
