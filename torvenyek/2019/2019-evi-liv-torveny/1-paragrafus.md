@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Zöld-foki Köztársaság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
