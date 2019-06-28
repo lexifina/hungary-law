@@ -1,4 +1,4 @@
-## 9/A. §[^16] Ha az elkövető a szabálysértési elzárást rendőrségi fogdán tölti ki, a szabálysértési hatóságnak erről a büntetés-végrehajtási intézetet rövid úton is haladéktalanul értesítenie kell.
+## 9/A. §[^18] Ha az elkövető a szabálysértési elzárást rendőrségi fogdán tölti ki, a szabálysértési hatóságnak erről a büntetés-végrehajtási intézetet rövid úton is haladéktalanul értesítenie kell.
 
 ## 5. Halasztás, félbeszakítás
 
@@ -12,4 +12,4 @@
 
 (5) Ha az elkövető a félbeszakításra engedélyezett határidő elteltét követően a szabálysértési elzárás folytatására önként jelentkezik, akkor őt a szabálysértési elzárást foganatosító szervnél – külön szabálysértési hatósági intézkedés nélkül – be kell fogadni, és a szabálysértési elzárást folytatni kell. Az ismételt befogadásról a szabálysértési elzárást foganatosító szerv a szabálysértési hatóságot haladéktalanul értesíti, amely értesítést az elrendelt elővezetést foganatosító szervhez az elővezetést visszavonó határozattal együtt haladéktalanul továbbítani kell.
 
-[^16]: A 9/A. §-t a 37/2018. (XII. 28.) BM rendelet 29. §-a iktatta be.
+[^18]: A 9/A. §-t a 37/2018. (XII. 28.) BM rendelet 29. §-a iktatta be.
