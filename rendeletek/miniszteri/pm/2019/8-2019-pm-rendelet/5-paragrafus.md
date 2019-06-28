@@ -1,0 +1,3 @@
+## 4. § E rendeletnek a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti bejelentése megtörtént.
+
+5. § Hatályát veszti az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automataberendezés üzemeltetőjének adókötelezettségéről, a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésének, kezelésének, nyilvántartásának és visszatérítésének részletes szabályairól szóló 41/2014. (XII. 29.) NGM rendelet.
