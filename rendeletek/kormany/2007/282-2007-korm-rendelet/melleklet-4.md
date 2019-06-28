@@ -50,6 +50,8 @@
 
 | 12. | Közlekedéspszichológiai kérdések, vizsgálatok | KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság |
 
+| 13. | Szálláshely-szolgáltatók hatósági ellenőrzése során felmerülő turisztikai és a Nemzeti Turisztikai Adatszolgáltató Központtal való csatlakozással kapcsolatban felmerült szakkérdés | Magyar Turisztikai Ügynökség Zrt. |
+
 4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^9]
 
 Szakvélemény adására feljogosított szervek
