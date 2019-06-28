@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Horvát Köztársaság Kormánya között a katonai repülés és légvédelmi tevékenységek területén folytatott együttműködésről szóló Megállapodás kötelező hatályának elismerésére.
