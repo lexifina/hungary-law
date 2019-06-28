@@ -1,4 +1,4 @@
-## II. Fejezet[^7]
+## II. Fejezet[^8]
 
 ## A HONVÉDELEM ÁGAZATI IRÁNYÍTÁSA, A HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
 
@@ -46,7 +46,7 @@ l) a honvédelmi ágazat közegészségügyi, járványügyi, környezetvédelmi
 
 6. irányítja a honvédelmi katasztrófavédelmi rendszer működését,
 
-7. kijelölt állami vezető útján biztosítja a miniszter által vezetett minisztériumban (a továbbiakban: minisztérium) és a miniszter közvetlen alárendeltségébe tartozó szervezeteknél szolgáló honvédek vonatkozásában a Magyar Honvédség parancsnoka hatáskörében meghozott szakmai döntések érvényesülését a hivatali szervezetek működési sajátosságaiból eredő eltérésekkel,
+7.[^9] kijelölt szakmai felsővezető útján biztosítja a miniszter által vezetett minisztériumban (a továbbiakban: minisztérium) és a miniszter közvetlen alárendeltségébe tartozó szervezeteknél szolgáló honvédek vonatkozásában a Magyar Honvédség parancsnoka hatáskörében meghozott szakmai döntések érvényesülését a hivatali szervezetek működési sajátosságaiból eredő eltérésekkel,
 
 8. irányítja a honvédelmi veszélyhelyzetre történő felkészülést, és honvédelmi veszélyhelyzetben a honvédelmi szervezetek által ellátandó feladatok végrehajtását.
 
@@ -56,10 +56,12 @@ l) a honvédelmi ágazat közegészségügyi, járványügyi, környezetvédelmi
 
 2. meghatározza a központi gazdálkodás ellátási-utaltsági rendjét, a beszerzések és az ellenőrzések rendszerét,
 
-3. felelős a NATO Központi Rejtjel Elosztó Hatóság valamint a NATO Központi Nyilvántartó feladatainak ellátásáért, meghatározza az ügykezelés rendjét, az információbiztonságra vonatkozó követelményeket,
+3.[^10] felelős a NATO Központi Rejtjel Elosztó Felügyelet valamint a NATO Központi Nyilvántartó feladatainak ellátásáért, meghatározza az ügykezelés rendjét, az információbiztonságra vonatkozó követelményeket,
 
 4. törvényességi felügyeletet gyakorol a honvédelmi szervezetek működése felett,
 
 5. felelős a Hvt. 19. § (1) bekezdése szerinti határozati javaslatok és a Hvt. 21. § (4) bekezdése szerinti beszámoló előkészítéséért, a más jogszabályokban előírt beszámolási kötelezettség teljesítéséért.
 
-[^7]: A II. Fejezet (2–15. §) a 281/2018. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A II. Fejezet (2–15. §) a 281/2018. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § (2) bekezdés 7. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (3) bekezdés 3. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

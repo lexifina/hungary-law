@@ -26,7 +26,7 @@
 
 13. javaslatot tesz a minisztérium vagyonkezelésében lévő ingatlan és ingó vagyontárgy honvédelmi célra feleslegessé nyilvánítására,
 
-14. felelős az önkéntes tartalékos rendszer tiszt- és altisztképzésével, szakkiképzési és távoktatási rendszerével, motivációs és ösztöndíjrendszerével, a kadétrendszerhez kapcsolódó képzésekkel, a hadtudományi kutatás-fejlesztéssel összefüggő katonai követelmények meghatározásával és a katonai szervezetek tudományos tevékenységével, valamint a katonai pályára irányítással, a honvédelmi neveléssel, a katonai emlékhely- és hadisírgondozással kapcsolatos honvédségi feladatokat,
+14.[^12] felelős az önkéntes tartalékos rendszer tiszt- és altisztképzésével, szakkiképzési és távoktatási rendszerével, motivációs és ösztöndíjrendszerével, a kadétrendszerhez kapcsolódó képzésekkel, a hadtudományi kutatás-fejlesztéssel összefüggő katonai követelmények meghatározásával és a katonai szervezetek tudományos tevékenységével, valamint a katonai pályára irányítással, a honvédelmi neveléssel, a katonai emlékhely- és hadisírgondozással kapcsolatos honvédségi feladatok végrehajtásáért,
 
 15. irányítja a Honvédség logisztikai és gazdálkodási rendszerét, tervezi és szervezi a honvédelmi szervezetek logisztikai és egészségügyi biztosítását, javaslatokat tesz a személyi állomány megfelelő élet-, szolgálati és munkakörülményeinek biztosítására,
 
@@ -38,7 +38,7 @@
 
 19. felelős a katonai köznevelési intézmény fenntartói irányításáért, a katonai szakképesítések katonai-szakmai követelményeinek meghatározásáért,
 
-20. vezeti a NATO Központi Rejtjel Elosztó Hatóság tevékenységét, az ügykezelés rendjére, az információbiztonságra vonatkozó követelmények kidolgozását,
+20.[^13] vezeti a NATO Központi Rejtjel Elosztó Felügyelet tevékenységét, az ügykezelés rendjére, az információbiztonságra vonatkozó követelmények kidolgozását,
 
 21. irányítja a honvédelmi földmérési és térképészeti tevékenységet,
 
@@ -64,7 +64,7 @@
 
 32. irányítja a Honvédség hatáskörébe utalt hadfelszerelés-fejlesztési, haditechnikai és kutatás-fejlesztési-innovációs feladatok végrehajtását,
 
-33. felelős az anyagi szabványosítási, egységesítési és katonai minőségügyi feladatok végrehajtásáért,
+33.[^14] felelős a szabványosítási, egységesítési és katonai minőségügyi feladatok végrehajtásáért,
 
 34. irányítja a Honvédség képesség- és hadfelszerelés fejlesztési programjainak és projektjeinek katonai szakmai előkészítését, tervezését azoknak a Honvédségnél történő végrehajtását,
 
@@ -87,3 +87,7 @@ b) a Honvédség működésével kapcsolatos infrastrukturális-elhelyezési ig�
 c) a védelmi tervezés felső szintű feladataihoz szükséges tervezési alapadatok biztosításáért,
 
 d) a hadfelszerelés-fejlesztés feladataihoz kapcsolódó alapadatok meghatározásáért.
+
+[^12]: A 11. § (1) bekezdés 14. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^13]: A 11. § (1) bekezdés 20. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: A 11. § (1) bekezdés 33. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.

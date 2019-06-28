@@ -2,7 +2,7 @@
 
 1. irányítja a közigazgatási feladatok tervezésével és szervezésével összefüggő feladatok végrehajtását,
 
-2. irányítja az integritásfejlesztéssel kapcsolatos tevékenységet, ideértve a korrupció elleni tevékenység ágazati összehangolását,
+2.[^11] irányítja a belső kontrollrendszerrel, valamint az integritásfejlesztéssel kapcsolatos tevékenységet, ideértve a korrupció elleni tevékenység ágazati összehangolását,
 
 3. irányítja az államháztartási belső ellenőrzés kivételével az ellenőrzési rendszer felső szintű feladatainak végrehajtását,
 
@@ -75,3 +75,5 @@
 37. szakterületén biztosítja a Magyar Honvédség parancsnoka bevonását a minisztériumi szakmai döntés-előkészítési folyamatokba a Honvédség számára releváns kérdéseket illetően,
 
 38. irányítja a honvédelmi ágazat népegészségügyi, így különösen közegészségügyi, járványügyi, egészségfejlesztési, egészségügyi igazgatási feladatainak végrehajtását.
+
+[^11]: A 6. § 2. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

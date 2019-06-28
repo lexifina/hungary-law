@@ -8,6 +8,6 @@ c) ügyeleti szolgálat útján biztosítja a légiriasztás elrendelését, fel
 
 d) nemzetközi megállapodás alapján együttműködik más államok légvédelmi oltalmazásért felelős katonai vezetőivel,
 
-e)[^127] a TEK-kel, továbbá az MTVA-val kötött együttműködési megállapodásban meghatározza az együttműködés rendjét, a terrortámadás jelentős és közvetlen veszélye, terrortámadás bekövetkezése vagy terrorveszélyhelyzet esetén a lakossági tájékoztatás, szükség esetén a riasztás elemeit, a riasztás elrendelésére és feloldására jogosult személyeket, az összeköttetés rendjét, a riasztásban érintett szervezetek feladatait, a riasztással kapcsolatos okmányok tárolására és kezelésére vonatkozó szabályokat, a riasztás feltételrendszerére és fejlesztésére vonatkozó szabályokat.
+e)[^137] a TEK-kel, továbbá az MTVA-val kötött együttműködési megállapodásban meghatározza az együttműködés rendjét, a terrortámadás jelentős és közvetlen veszélye, terrortámadás bekövetkezése vagy terrorveszélyhelyzet esetén a lakossági tájékoztatás, szükség esetén a riasztás elemeit, a riasztás elrendelésére és feloldására jogosult személyeket, az összeköttetés rendjét, a riasztásban érintett szervezetek feladatait, a riasztással kapcsolatos okmányok tárolására és kezelésére vonatkozó szabályokat, a riasztás feltételrendszerére és fejlesztésére vonatkozó szabályokat.
 
-[^127]: A 77. § e) pontját a 281/2018. (XII. 21.) Korm. rendelet 10. §-a iktatta be.
+[^137]: A 77. § e) pontját a 281/2018. (XII. 21.) Korm. rendelet 10. §-a iktatta be.

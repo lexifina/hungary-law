@@ -4,9 +4,9 @@ a) felel a megyei, fővárosi szintű honvédelmi feladatok összehangolásáér
 
 b) gondoskodik a megyei, fővárosi védelmi bizottság munkaszervezetének működési feltételeiről,
 
-c)[^22] gondoskodik a megyei, fővárosi védelmi bizottság honvédelmi célú vezetési infrastruktúrájáról, valamint a honvédelmi igazgatás infokommunikációs rendszere folyamatos működőképességéről,
+c)[^32] gondoskodik a megyei, fővárosi védelmi bizottság honvédelmi célú vezetési infrastruktúrájáról, valamint a honvédelmi igazgatás infokommunikációs rendszere folyamatos működőképességéről,
 
-d)[^23] a megyei, fővárosi védelmi bizottság illetékességi területén működő helyi védelmi bizottság elnökét feladat végrehajtására utasíthatja.
+d)[^33] a megyei, fővárosi védelmi bizottság illetékességi területén működő helyi védelmi bizottság elnökét feladat végrehajtására utasíthatja.
 
-[^22]: A 26. § c) pontja a 259/2016. (VIII. 31.) Korm. rendelet 56. §-ával megállapított, a 281/2018. (XII. 21.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^23]: A 26. § d) pontját a 267/2013. (VII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^32]: A 26. § c) pontja a 259/2016. (VIII. 31.) Korm. rendelet 56. §-ával megállapított, a 281/2018. (XII. 21.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^33]: A 26. § d) pontját a 267/2013. (VII. 11.) Korm. rendelet 5. §-a iktatta be.

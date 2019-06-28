@@ -16,7 +16,7 @@
 
 ## 7. az Országos Bírósági Hivatal elnöke,
 
-## 8. a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározott állami vezetők,
+## 8.[^150] a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 3. § (3) bekezdése szerinti politikai felsővezető, valamint 3. § (7) bekezdés a) és b) pontja szerinti szakmai felsővezető,
 
 ## 9. megyei, fővárosi védelmi bizottság titkára,
 
@@ -46,11 +46,11 @@
 
 ## 10. a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szervek,
 
-## 11.[^140] a fővárosi és megyei kormányhivatalok,
+## 11.[^151] a fővárosi és megyei kormányhivatalok,
 
 ## 12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a megyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
 
-## 13.[^141] a Médiaszolgáltatás Támogató- és Vagyonkezelő Alap, a Magyar Rádió Zártkörűen Működő Részvénytársaság, a Duna Televízió Zártkörűen Működő Részvénytársaság, a Magyar Távirati Iroda Zártkörűen Működő Részvénytársaság, a Magyar Televízió Zártkörűen Működő Részvénytársaság,
+## 13.[^152] a Médiaszolgáltatás Támogató- és Vagyonkezelő Alap, a Magyar Rádió Zártkörűen Működő Részvénytársaság, a Duna Televízió Zártkörűen Működő Részvénytársaság, a Magyar Távirati Iroda Zártkörűen Működő Részvénytársaság, a Magyar Televízió Zártkörűen Működő Részvénytársaság,
 
 ## 14. Nemzeti Média- és Hírközlési Hatóság,
 
@@ -58,13 +58,13 @@
 
 ## 16. a Katonai Nemzetbiztonsági Szolgálat,
 
-## 17.[^142] rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség
+## 17.[^153] rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség
 
 ## 18. jogszabály, a miniszterek által honvédelmi feladat ellátására kijelölt, honvédelemben közreműködő szervek,
 
-## 19.[^143] az egyházi jogi személyek,
+## 19.[^154] az egyházi jogi személyek,
 
-## 20.[^144] a lakosság részére alapvető közüzemi szolgáltatást nyújtó szervek.
+## 20.[^155] a lakosság részére alapvető közüzemi szolgáltatást nyújtó szervek.
 
 ## III. kategória
 
@@ -128,8 +128,9 @@ a) Minta az Excel formátumú adatszolgáltatásra:
 
 – Bírósági határozat száma:
 
-[^140]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 11. pontja a 174/2012. (VII. 26.) Korm. rendelet 87. § (17) bekezdésével megállapított szöveg.
-[^141]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 13. pontja a 267/2013. (VII. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^142]: Az 1. melléklet II. kategória 17. pontja a 281/2018. (XII. 21.) Korm. rendelet 16. § m) pontjával megállapított szöveg.
-[^143]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 19. pontja a 297/2013. (VII. 29.) Korm. rendelet 69. §-ával megállapított szöveg.
-[^144]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 20. pontját a 174/2012. (VII. 26.) Korm. rendelet 87. § (18) bekezdése iktatta be.
+[^150]: Az 1. melléklet „Jegyzék az I. kategóriába sorolt, a munkakörében meghagyásban részesülő hadkötelesekről” alcím 8. pontja a 154/2019. (VI. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^151]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 11. pontja a 174/2012. (VII. 26.) Korm. rendelet 87. § (17) bekezdésével megállapított szöveg.
+[^152]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 13. pontja a 267/2013. (VII. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^153]: Az 1. melléklet II. kategória 17. pontja a 281/2018. (XII. 21.) Korm. rendelet 16. § m) pontjával megállapított szöveg.
+[^154]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 19. pontja a 297/2013. (VII. 29.) Korm. rendelet 69. §-ával megállapított szöveg.
+[^155]: Az 1. melléklet „A meghagyásba bevont szervek II. és III. kategóriái” fejezet „II. kategória” 20. pontját a 174/2012. (VII. 26.) Korm. rendelet 87. § (18) bekezdése iktatta be.
