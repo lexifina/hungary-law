@@ -1,6 +1,10 @@
 ## 14/C. §[^45] A jegyző a szolgáltató hatósági nyilvántartásban szereplő adatairól a szolgáltató tevékenységre való jogosultság igazolására a nyilvántartásba vétellel és a nyilvántartásba vett adatok módosításával egyidejűleg a szolgáltató részére – a 4. számú melléklet szerinti adattartalommal, a szociális és munkaügyi miniszter által rendszeresített – hatósági igazolványt állít ki.
 
-15. §[^46]
+15. §[^46] (1) Azon szolgáltató, amely – folyamatosan vagy időszakosan – a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti szálláshely-szolgáltatási tevékenységet is végez, e tevékenysége vonatkozásában a tevékenységének megkezdését követő 5 napon belül a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: Tur. tv.) szerint a Nemzeti Turisztikai Adatszolgáltató Központnál köteles regisztrálni.
+
+(2) Az (1) bekezdés szerinti regisztráció menetére a Tur. tv. és a végrehajtására kiadott kormányrendelet rendelkezéseit megfelelően alkalmazni kell azzal, hogy szálláshely-szolgáltató helyett e rendelet szerinti szolgáltatót kell érteni.
+
+(3) A 2019. december 1-jén már e rendelet szerinti tevékenységet végző szolgáltató – az (1) bekezdés szerinti szolgáltatás végzése esetén – köteles 2019. december 1-je és 2019. december 31-e között a regisztrációt teljesíteni. A napi és a havi adatszolgáltatást 2020. január 1-jétől kell teljesíteni, azzal, hogy az adatszolgáltatás első napja 2020. január 1-je, illetve első alkalommal 2020. január 1. napját követően kötelező a havi adatszolgáltatás teljesítése.
 
 [^45]: A 14/C. §-t a 218/2007. (VIII. 15.) Korm. rendelet 5. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 306. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^46]: A 15. §-t és az azt megelőző alcímet a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének b) pontja hatályon kívül helyezte.
+[^46]: A 15. §-t és az azt megelőző alcímet a 218/2007. (VIII. 15.) Korm. rendelet 11. § (8) bekezdésének b) pontja hatályon kívül helyezte. A 15. §-t újonnan a 155/2019. (VI. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
