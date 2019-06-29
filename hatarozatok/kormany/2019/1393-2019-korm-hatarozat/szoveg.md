@@ -14,4 +14,6 @@ agrárminiszter
 
 Határidő: 2019. július 1.
 
-2. visszavonja a Nemzeti Földügyi Központ létrehozásáról szóló 1150/2019. (III. 25.) Korm. határozat 3. pont c) alpontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
