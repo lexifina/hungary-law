@@ -1,1 +1,0 @@
-## 4. § A Szabályzatban foglalt rendelkezéseket a veszélyes áruk belföldi belvízi szállítására a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat belföldi alkalmazásáról szóló miniszteri rendeletben foglalt kiegészítésekkel és részletes szabályok szerint kell alkalmazni.
