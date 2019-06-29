@@ -1,5 +1,3 @@
-## lép.
-
 ## 4. Záró rendelkezések
 
 14. § (1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.

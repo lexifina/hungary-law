@@ -1,3 +1,3 @@
-## 5. § A 239/2009. Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^6]
 
-## „(2) Ha a kemping területén csak üdülőházakat üzemeltetnek, az e célra hasznosított szálláshely elnevezésében az üdülőháztelep megjelölést kell használni, ha az e célra hasznosított szálláshelyek száma eléri a hármat.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

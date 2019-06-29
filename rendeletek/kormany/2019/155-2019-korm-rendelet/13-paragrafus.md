@@ -1,21 +1,33 @@
-## 12. § A 239/2009. Korm. rendelet 1. melléklete helyébe a 2. melléklet lép.
+## 12. §[^13]
 
-## 13. § A 239/2009. Korm. rendelet
+## 13. §[^14]
 
-a) 4. § (1) bekezdésében az „I/A.” szövegrész helyébe az „1/A.” szöveg,
+a)[^15]
 
-b) 4. § (2) bekezdésében a „II/A.” szövegrész helyébe a „2/A.” szöveg,
+b)[^16]
 
-c) 4. § (3) bekezdésében a „III/A.” szövegrész helyébe a „3/A.” szöveg,
+c)[^17]
 
-d) 4 § (4) bekezdésében az „üdülőház” szövegrész helyébe az „üdülőháztelep” szöveg, a „IV/A.” szövegrész helyébe a „4/A” szöveg,
+d)[^18]
 
-e) 4. § (5) bekezdésében az „V/A.” szövegrész helyébe az „5/A.” szöveg,
+e)[^19]
 
-f) 4. § (6) bekezdésében a „VI/A.” szövegrész helyébe a „6/A.” szöveg,
+f)[^20]
 
-g) 4. § (7) bekezdésében a „IV/A.” szövegrész helyébe a „4/A.” szöveg,
+g)[^21]
 
-h) 5. § (1) bekezdésében az „az 1. melléklet I–VI. pontjának” szövegrész helyébe az „az 1. melléklet 1–7. pontjának” szöveg,
+h)[^22]
 
-i) 7. §-ában az „az egyéb szálláshely kivételével” szövegrész helyébe az „a magánszálláshely kivételével” szöveg
+i)[^23]
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 13. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (3) bekezdése alapján hatályát vesztette.
+[^19]: A 13. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 13. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 13. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 13. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 13. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

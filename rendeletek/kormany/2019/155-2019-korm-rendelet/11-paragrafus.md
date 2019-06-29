@@ -1,3 +1,3 @@
-## 10. §[^2]
+## 10. §[^11]
 
-[^2]: A 10. § a 14. § (2) bekezdése alapján 2019. július 7-én lép hatályba.
+[^11]: A 10. § a 14. § (2) bekezdése alapján 2019. július 7-én lép hatályba.

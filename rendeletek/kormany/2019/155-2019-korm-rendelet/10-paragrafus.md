@@ -1,11 +1,3 @@
-## 9. § A 239/2009. Korm. rendelet 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## „(2) A jegyző a szálláshely-üzemeltetési tevékenység folytatására vonatkozó bejelentést közli
-
-## a) a magánszálláshely-szolgáltatás bejelentésének kivételével
-
-## aa) a fogyasztóvédelmi hatósággal,
-
-## ab) a területileg illetékes munkavédelmi hatósági és munkaügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal,
-
-## b) a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjével.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
