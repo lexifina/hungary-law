@@ -1,4 +1,4 @@
-## 20. §[^27] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 93/2019. (IV. 23.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 2. mellékletben foglalt táblázat 21. sorát a Módr12. hatálybalépésekor[^28] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 21. §[^39] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 160/2019. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 6. § (1) és (2), valamint (5)–(6) bekezdését, 2. mellékletében foglalt táblázat 7., 7a. és 22. sorát és 3. mellékletét a Módr13. hatálybalépésekor[^40] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^27]: A 20. §-t a 94/2019. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
-[^28]: A hatálybalépés időpontja 2019. április 24.
+[^39]: A 21. §-t a 160/2019. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^40]: A hatálybalépés napja: 2019. június 29.
