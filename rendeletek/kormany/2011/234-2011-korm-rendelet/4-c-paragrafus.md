@@ -1,4 +1,4 @@
-## 4/B. §[^8] A Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló 2015. évi LXXXIV. törvény 3. § (1a) bekezdése alapján a belföldi belvízi veszélyes áru szállítási műveletnek az ADN-ben előírt feltételektől eltérő feltételekkel való végrehajtására vonatkozó, a hajózási hatóságnál kérelmezett egyedi engedélyhez szükséges katasztrófavédelmi véleményt a hivatásos katasztrófavédelmi szervnek a hajó tervezett indulási vagy a határátlépés helye szerint illetékes területi szerve adja ki.
+## 4/B. §[^8] A Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat belföldi alkalmazásáról szóló 26/2017. (VII. 5.) NFM rendelet 3. §-a alapján a belföldi belvízi veszélyes áru szállítási műveletnek az ADN-ben előírt feltételektől eltérő feltételekkel való végrehajtására vonatkozó, a hajózási hatóságnál kérelmezett egyedi engedélyhez szükséges katasztrófavédelmi véleményt a hivatásos katasztrófavédelmi szervnek a hajó tervezett indulási vagy a határátlépés helye szerint illetékes területi szerve adja ki.
 
 4/C. §[^9] (1) A közúti közlekedésről szóló 1988. évi I. törvény 20. § (1) bekezdés e) pontjához kapcsolódó ellenőrzés alapján kiszabott bírság megfizetésére az első fokon eljárt katasztrófavédelmi hatóság részletekben történő teljesítést is megállapíthat.
 
@@ -8,5 +8,5 @@
 
 (4) A hatóság meghallgathatja az ellenérdekű ügyfelet, illetve a jogosultat a fizetési kedvezmény engedélyezésével kapcsolatos álláspontjukról.
 
-[^8]: A 4/B. §-t a 372/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
+[^8]: A 4/B. §-t a 372/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be, szövege a 156/2019. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: A 4/C. §-t a 457/2017. (XII. 28.) Korm. rendelet 353. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
