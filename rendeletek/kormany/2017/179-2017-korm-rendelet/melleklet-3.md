@@ -1,4 +1,4 @@
-## 20172220000179_2
+## 20172220000179_4
 
 3. melléklet a 179/2017. (VII. 5.) Korm. rendelethez
 
@@ -12,13 +12,21 @@ b) Más Szerződő Felek illetékes hatóságaival megállapodik abban, hogy ter
 
 c) Amennyiben a veszélyes áruk szállítása során bekövetkezett baleset vagy más rendkívüli esemény nyomán megállapítást nyer, hogy az alkalmazandó biztonsági intézkedések nem elegendőek a szállítással összefüggésben felmerülő kockázat korlátozásához, továbbá, ha sürgős intézkedések megtétele szükséges, haladéktalanul értesíti az Európai Bizottságot (a továbbiakban: Bizottság) a javasolt intézkedésekről. A Bizottság által engedélyezett intézkedéseknek az engedélyezett időn belüli végrehajtásáról gondoskodik.
 
-2. A közlekedési hatóság
+2.[^5] A közlekedési hatóság
 
 Ellátja a RID Mellékletében meghatározott,
 
-a) a veszélyesáru-szállítási biztonsági tanácsadó képesítésével, vizsgáztatásával és nyilvántartásával kapcsolatos hatósági feladatokat; és
+a) a veszélyesáru-szállítási biztonsági tanácsadó képesítésével, vizsgáztatásával és nyilvántartásával;
 
-b) a veszélyes árukat szállító vasúti kocsik jóváhagyásával kapcsolatos hatósági feladatokat.
+b) a veszélyes árukat szállító vasúti kocsik típusjóváhagyásával és időszakos vizsgálatával;
+
+c) a nem a RID 1 osztályába tartozó, csomagolatlan, nagyméretű, robusztus tárgyak szállításának engedélyezésével
+
+kapcsolatos hatósági feladatokat.
+
+2/A.[^6] A Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Korlátolt Felelősségű Társaság
+
+Ellátja a RID Mellékletében meghatározott, a veszélyes áru szállítási biztonsági tanácsadó vizsgáztatásával és külön jogszabályban foglalt adatainak nyilvántartásával kapcsolatos feladatokat.
 
 3. Az atomenergia-felügyeleti szerv
 
@@ -57,3 +65,6 @@ Ellátja a veszélyes áruk szállítására használt nyomástartó tartályok,
 8. Az élelmiszerlánc-felügyeleti szerv
 
 Ellátja a RID Mellékletében meghatározott, bizonyítottan fertőzött vagy fertőzésre gyanús élő állatok és az állati eredetű anyagok belföldi szállításával, valamint az állati eredetű anyagok alternatív csomagolóeszközeinek engedélyezésével kapcsolatos hatósági feladatokat.
+
+[^5]: A 3. melléklet 2. pontja a 156/2019. (VI. 28.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^6]: A 3. melléklet 2/A. pontját a 156/2019. (VI. 28.) Korm. rendelet 10. § (3) bekezdése iktatta be.
