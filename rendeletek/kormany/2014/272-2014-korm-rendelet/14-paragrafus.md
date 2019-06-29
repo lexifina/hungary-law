@@ -6,16 +6,16 @@
 
 3. egységes eljárásrendi megoldások alkalmazásának biztosítása,
 
-4–5.[^96]
+4–5.[^97]
 
 6. az eredményességi, teljesítmény-kerettel összefüggő szempontok nyomon követése,
 
-7.[^97]
+7.[^98]
 
 8. állami támogatásokkal kapcsolatos szabályozás érvényesítése,
 
-9.[^98]
+9.[^99]
 
-[^96]: A 14. § 4–5. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.
-[^97]: A 14. § 7. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.
-[^98]: A 14. § 9. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.
+[^97]: A 14. § 4–5. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.
+[^98]: A 14. § 7. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.
+[^99]: A 14. § 9. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.
