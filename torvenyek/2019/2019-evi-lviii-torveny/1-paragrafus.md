@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Drégelypalánk és Ipolyhídvég (Ipel'ské Predmostie) települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
