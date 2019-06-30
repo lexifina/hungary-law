@@ -1,3 +1,5 @@
 ## 12. § Ez a rendelet a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődés figyelembevétele céljából történő módosításáról szóló, 2018. november 23-i (EU) 2018/1846 bizottsági irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 156/2019. (VI. 28.) Korm. rendelethez
+1–8. melléklet a 156/2019. (VI. 28.) Korm. rendelethez[^6]
+
+[^6]: Az 1–8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
