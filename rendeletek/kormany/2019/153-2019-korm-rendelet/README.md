@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-153-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-06-29 | 2019-153-20-22.1 | 153/2019. (VI. 26.) Korm. rendelet |
+| 2019-06-30 | 2019-153-20-22.2 | 2010: CXXX. törvény |

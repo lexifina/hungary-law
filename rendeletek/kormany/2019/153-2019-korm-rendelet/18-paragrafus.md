@@ -1,3 +1,0 @@
-## 17. § A 272/2014. (XI. 5.) Korm. rendelet 100/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a közbeszerzési eljárás alapján megkötött szerződés módosítása azért válik szükségessé, mert a támogatási szerződésben módosult a szerződéssel érintett projektelem finanszírozási módja, akkor a közbeszerzési eljárás alapján megkötött szerződésnek kizárólag a finanszírozási módra vonatkozó, a támogatási szerződésnek megfelelő módosítására a 100. § (1) és (3) bekezdését nem kell alkalmazni. A kedvezményezett a szerződésmódosításról 15 napon belül tájékoztatja az irányító hatóságot az alátámasztó dokumentumok megküldésével.”
