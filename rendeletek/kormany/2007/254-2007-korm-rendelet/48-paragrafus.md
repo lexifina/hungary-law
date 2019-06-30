@@ -1,7 +1,8 @@
 ## Versenyeztetés nélküli értékesítés
 
-48. §[^188] (1) A versenyeztetés nélküli értékesítés a Vtv. 35. § (2) bekezdése szerinti esetekben alkalmazható kivételes értékesítési eljárás, amelynek során a tulajdonosi joggyakorló vagy az általa az értékesítéssel megbízott személy az állami vagyonba tartozó vagyontárgyat – törvény eltérő rendelkezése hiányában – legalább a becsült forgalmi értéken, a versenyeztetési eljárás mellőzésével kiválasztott személy javára idegeníti el. A forgalmi érték megállapítására erre jogosult, független szakértőt kell felkérni, és a szakvéleményt az eljárás irataihoz kell csatolni.
+48. §[^215] (1)[^216] A versenyeztetés nélküli értékesítés a Vtv. 35. § (2) bekezdése szerinti esetekben alkalmazható kivételes értékesítési eljárás, amelynek során a tulajdonosi joggyakorló vagy az általa az értékesítéssel megbízott személy az állami vagyonba tartozó vagyontárgyat – törvény eltérő rendelkezése hiányában – legalább a becsült forgalmi értéken, a versenyeztetési eljárás mellőzésével kiválasztott személy javára idegeníti el.
 
 (2) A Vtv. 35. § (2) bekezdés m) pontja szerinti vagyonelemek versenyeztetés nélküli értékesítésére – a miniszter előzetes engedélyével – a becsült forgalmi értéket el nem érő vételi ajánlati ár elfogadásával is sor kerülhet, amennyiben az ajánlat elfogadása nem jár jelentős vagyonvesztéssel.
 
-[^188]: A 48. § a 77/2014. (III. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^215]: A 48. § a 77/2014. (III. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^216]: A 48. § (1) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 23. § j) pontja szerint módosított szöveg.

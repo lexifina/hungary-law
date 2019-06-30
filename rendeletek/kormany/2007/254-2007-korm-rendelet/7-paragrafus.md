@@ -1,11 +1,9 @@
 ## A vagyonkezelés szabályai
 
-7. § (1)[^38] Vagyonkezelési szerződés alapján a vagyonkezelői jog – ha a szerződés másként nem rendelkezik – a szerződés megkötésével keletkezik. Ingatlanra vonatkozó, szerződésen alapuló vagyonkezelői jog az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 3. § (2) bekezdése értelmében az ingatlan-nyilvántartásba történő bejegyzéssel jön létre, a vagyonkezelőt azonban a szerződés megkötésének időpontjától kezdve megilletik a vagyonkezelő jogai és terhelik kötelezettségei.
+7. §[^45] (1) Vagyonkezelési szerződésen alapuló vagyonkezelői jog – ha a vagyonkezelési szerződés másként nem rendelkezik – a vagyonkezelési szerződés megkötésével keletkezik. Ingatlanra vonatkozó, vagyonkezelési szerződésen alapuló vagyonkezelői jog az ingatlan-nyilvántartásba történő bejegyzéssel jön létre, a vagyonkezelőt azonban a vagyonkezelési szerződés hatálybalépésének időpontjától kezdve megilletik a vagyonkezelő jogai, és terhelik kötelezettségei.
 
-(2)[^39] A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyeztetéséről – szükség esetén az ingatlan-nyilvántartásban szereplő, de időközben megszűnt kezelő (vagyonkezelő) törlésének kezdeményezésével együtt – a vagyonkezelő köteles gondoskodni a szerződés megkötésétől számított harminc napon belül. A jogerős bejegyző határozatot a vagyonkezelő a kézhezvételt követően köteles haladéktalanul megküldeni a tulajdonosi joggyakorlónak.
+(2) A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyeztetéséről – szükség esetén az ingatlan-nyilvántartásban szereplő, de időközben megszűnt kezelő (vagyonkezelő) törlésének kezdeményezésével együtt – a vagyonkezelő gondoskodik a szerződés megkötésétől számított harminc napon belül.
 
-(3)[^40]
+(3) Törvényi kijelöléssel létrejött vagyonkezelői jog esetén – ha a kijelölő törvény ettől eltérően nem rendelkezik – a tulajdonosi joggyakorló és a vagyonkezelő e rendelet szabályainak megfelelő alkalmazásával vagyonkezelési szerződést köt, vagy amennyiben a tulajdonosi joggyakorló és az érintett vagyonkezelő között egyéb vagyonelemek vonatkozásában már fennáll vagyonkezelési szerződés – az Nvtv. 11. § (7a) bekezdésének hatálya alá tartozó eseteket ide nem értve –, a fennálló vagyonkezelési szerződés hatálya alá helyezik a törvényi kijelöléssel érintett vagyonelemet.
 
-[^38]: A 7. § (1) bekezdése a 348/2010. (XII. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^39]: A 7. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
-[^40]: A 7. § (3) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be, a 356/2011. (XII. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.
+[^45]: A 7. § a 148/2019. (VI. 25.) Korm. rendelet 4. §-ával megállapított szöveg.

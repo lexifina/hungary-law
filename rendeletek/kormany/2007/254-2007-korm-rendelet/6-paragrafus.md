@@ -1,22 +1,25 @@
-## 5. §[^34]
+## 5. §[^38]
 
 ## Állami tulajdonú gazdálkodó szervezetekre vonatkozó speciális szabályok
 
-6. §[^35] (1) Központi költségvetési szerv az alaptevékenységébe tartozó közfeladat hatékonyabb ellátása céljából – az irányítását vagy felügyeletét ellátó szerv vezetője útján – kezdeményezheti az MNV Zrt.-nél a Vtv. 29. §-ának (1) bekezdése szerinti gazdálkodó szervezet alapítását, abban részesedés vagy további részesedés szerzését (a továbbiakban együtt: alapítás), továbbá a Vtv. 29. §-ának (3) bekezdése szerinti meghatalmazás kiadását.
+6. §[^39] (1)[^40] Központi költségvetési szerv az alaptevékenységébe tartozó közfeladat hatékonyabb ellátása céljából – az irányítását vagy felügyeletét ellátó szerv vezetője útján – kezdeményezheti az MNV Zrt.-nél a Vtv. 29. § (1) bekezdése szerinti gazdálkodó szervezet alapítását, valamint társasági részesedésnek az állam nevében történő megszerzését (a továbbiakban együtt: alapítás), továbbá a Vtv. 29. § (3) bekezdése szerinti meghatalmazás kiadását.
 
 (2) Az (1) bekezdés szerinti kezdeményezésben be kell mutatni a gazdálkodó szervezet alapításának indokait, más módon (szervezeti formában) történő feladatellátással szembeni előnyeit és azt, hogy a piacra lépés nem jár versenytorzító hatással.
 
 (3) Az (1) bekezdés szerinti kezdeményezésről az MNV Zrt. az erre vonatkozó megkeresés érkezésétől számított hatvan napon belül dönt, amelybe az esetleges hiánypótlásra való felszólítás és annak teljesítése között eltelt idő nem számít bele.
 
-(4) A gazdálkodó szervezet alapítását engedélyező döntéssel és a kezdeményező központi költségvetési szerv részére az alapítás során eljárásra jogosító meghatalmazás kiadásával egyidejűleg az MNV Zrt. dönt valamely – a kezdeményezés alapján szükséges – állami vagyonelem gazdálkodó szervezet részére történő nem pénzbeli hozzájárulásként vagy más módon történő rendelkezésére bocsátásáról (tulajdonába vagy használatba adásáról).
+(4)[^41] A gazdálkodó szervezet alapítását engedélyező döntéssel és a kezdeményező központi költségvetési szerv részére az alapítás során történő eljárásra jogosító meghatalmazás kiadásával egyidejűleg az MNV Zrt. dönt – a kezdeményezés alapján szükséges – állami vagyonelem gazdálkodó szervezet részére nem pénzbeli vagyoni hozzájárulásként történő tulajdonba adásáról, annak használatba adásáról vagy más módon történő rendelkezésre bocsátásáról.
 
-(5)[^36]
+(5)[^42]
 
-(6) Ha az állami részesedéssel működő gazdálkodó szervezetben az állam nevében tulajdonosi (tagsági, részvényesi) jogokat gyakorló személy nem központi költségvetési szerv és ezen jogait a Vtv. 29. §-ának (5) bekezdése alapján az MNV Zrt.-vel kötött szerződés alapján gyakorolja, úgy az MNV Zrt. előzetes engedélyét köteles kérni állami vagyon nem pénzbeli hozzájárulásként való szolgáltatásához, vagy más módon a gazdálkodó szervezet tulajdonába adásához, a tőkeemeléshez, a nem kötelező tőkeleszállításhoz, a gazdálkodó szervezet végelszámolással történő megszüntetéséhez vagy átalakulásához, egyesüléséhez, szétválásához.
+(6)[^43]
 
-(7)[^37]
+(7)[^44]
 
-[^34]: Az 5. §-t a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^35]: A 6. § a 348/2010. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^36]: A 6. § (5) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
-[^37]: A 6. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^38]: Az 5. §-t a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^39]: A 6. § a 348/2010. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^40]: A 6. § (1) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^41]: A 6. § (4) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^42]: A 6. § (5) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^43]: A 6. § (6) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 23. § c) pontja hatályon kívül helyezte.
+[^44]: A 6. § (7) bekezdését a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
