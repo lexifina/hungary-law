@@ -1,0 +1,1 @@
+## „p) számviteli rendezés: a vagyonkezelő vagy a használó által állami vagyonon megvalósított értéknövelő beruházás, felújítás, létrehozott új eszköz tulajdonosi joggyakorló és a vagyonkezelő vagy használó nyilvántartásaiban a számviteli jogszabályok szerinti – bizonylatokkal alátámasztott, alapdokumentumok alapján történő – rögzítése.”
