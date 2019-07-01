@@ -6,6 +6,6 @@ a) a belépésre jogosító igazolvány felmutatásával, vagy
 
 b) a személyazonosságnak a belépésre jogosító igazolvány felmutatása mellett történő igazolását követően
 
-## lehet belépni.
+lehet belépni.
 
 (2) A munkáltató Szolgálat létesítményébe a Szolgálat belépésre jogosító igazolvánnyal nem rendelkező munkatársa a személyazonosságának igazolását követően léphet be.

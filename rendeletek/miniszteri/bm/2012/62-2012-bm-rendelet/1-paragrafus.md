@@ -2,7 +2,7 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-a)[^1] Szolgálat:
+a)[^2] Szolgálat:
 
 aa) az Alkotmányvédelmi Hivatal,
 
@@ -14,7 +14,7 @@ b) létesítmény: a Szolgálat központi és területi objektumai;
 
 c) különleges célokra szolgáló terület- és épületrész, helyiség: a Szolgálat létesítményeiben található speciális műveleti feladatok végrehajtására, speciális eszközök elhelyezésére, illetve rejtjeltevékenység ellátására szolgáló helyiségek, a műveleti nyilvántartó, az irattár, a titkos ügyiratkezelés céljára szolgáló helyiségek, továbbá a biztonsági, az energiaellátó és a számítástechnikai központok, valamint a fegyverszobák;
 
-d)[^2] más közigazgatási szerv:
+d)[^3] más közigazgatási szerv:
 
 da) az általános rendőrségi feladatok ellátására létrehozott szerv,
 
@@ -30,9 +30,11 @@ df) a Terrorelhárítási Információs és Bűnügyi Elemző Központ,
 
 dg) az Információs Hivatal,
 
-dh) a Katonai Nemzetbiztonsági Szolgálat, valamint
+dh)[^4] a Katonai Nemzetbiztonsági Szolgálat,
 
-di) a Nemzeti Adó- és Vámhivatal;
+di)[^5] a Nemzeti Adó- és Vámhivatal, valamint
+
+dj)[^6] az idegenrendészeti szerv;
 
 e) belépésre jogosító igazolvány:
 
@@ -48,5 +50,8 @@ ee) a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban
 
 ef) a Nemzeti Biztonsági Felügyelet, az Állami Számvevőszék, továbbá a Kormányzati Ellenőrzési Hivatal jogszabály felhatalmazása alapján a Szolgálattal összefüggésben jogszerűen ellenőrzést végző munkatársának munkáltatói igazolványa.
 
-[^1]: Az 1. § a) pontja a 29/2016. (VII. 15.) BM rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § d) pontja a 29/2016. (VII. 15.) BM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § a) pontja a 29/2016. (VII. 15.) BM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § d) pontja a 29/2016. (VII. 15.) BM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § d) pont dh) alpontja a 27/2019. (VI. 28.) BM rendelet 28. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § d) pont di) alpontja a 27/2019. (VI. 28.) BM rendelet 28. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. § d) pont dj) alpontot a 27/2019. (VI. 28.) BM rendelet 27. §-a iktatta be.
