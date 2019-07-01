@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1-20-0A
 | 2017-01-01 | 2014-1-20-0A.4 | 11/2015. (III. 31.) BM rendelet |
 | 2017-09-01 | 2014-1-20-0A.5 | 19/2017. (VIII. 10.) BM rendelet |
 | 2018-01-01 | 2014-1-20-0A.6 | 44/2017. (XII. 29.) BM rendelet |
+| 2019-07-01 | 2014-1-20-0A.7 | 19/2017. (VIII. 10.) BM rendelet |

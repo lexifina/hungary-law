@@ -388,4 +388,18 @@ A Nemzetbiztonsági Szakszolgálatnál kötelező védőoltás elrendelésének 
 
 5. azon szolgálati beosztást betöltők esetében, akik járványügyi kockázatnak kitett külföldi személyekkel személyes találkozással járó kapcsolatot tartanak.
 
-[^19]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított szöveg.
+8. Az idegenrendészeti szervnél azon szolgálati beosztások, illetve szolgálati feladatok, amelyek esetében kötelező védőoltás elrendelésének van helye
+
+Az idegenrendészeti szervnél
+
+8.1. a tranzitzónában elhelyezettekkel kapcsolatos ellátási feladatokat végző,
+
+8.2. a menekültügyi őrzött befogadó központban elhelyezettekkel kapcsolatos ellátási feladatokat végző,
+
+8.3. a befogadó állomáson elhelyezettekkel kapcsolatos ellátási feladatokat végző,
+
+8.4. a közösségi szálláson elhelyezettekkel kapcsolatos ellátási feladatokat végző,
+
+rendszeresített szolgálati beosztások esetében hepatitis-A és hepatitis-B védőoltás elrendelésének van helye.
+
+[^19]: A 3. melléklet a 19/2017. (VIII. 10.) BM rendelet 3. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 42. §-a szerint módosított szöveg.
