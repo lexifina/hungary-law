@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-253-20-
 | 2017-04-01 | 2013-253-20-22.4 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-10-01 | 2013-253-20-22.5 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-06-14 | 2013-253-20-22.6 | 113/2019. (V. 15.) Korm. rendelet |
+| 2019-07-01 | 2013-253-20-22.7 | 126/2019. (V. 30.) Korm. rendelet |
