@@ -1,14 +1,16 @@
 ## 2. Az adatszolgáltatás közös szabályai
 
-2. § (1) Az adatszolgáltató rendszeres adatszolgáltatási kötelezettsége – a (2) bekezdésben meghatározott kivétellel – a részére kiadott engedély vagy kötelező átvételt tartalmazó (a továbbiakban: KÁT) kvótahatározat jogerőre emelkedésének napján kezdődik.
+2. § (1)[^5] Az adatszolgáltató rendszeres adatszolgáltatási kötelezettsége – a (2) és (2a) bekezdésben meghatározott kivétellel – a részére kiadott engedély véglegessé válásának napján kezdődik.
 
-(2) Az 500 kW alatti névleges teljesítőképességű KÁT termelő adatszolgáltatási kötelezettsége a KÁT-mérlegkör tagsági szerződés KÁT-mérlegkör felelőssel való megkötését követő napon kezdődik.
+(2)[^6] Az 500 kW alatti névleges teljesítőképességű, a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdés e) pontja és a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet (a továbbiakban: METÁR Kr.) 2. § (1) bekezdés 8. pontja szerinti KÁT termelő (a továbbiakban együtt: KÁT termelő) rendszeres adatszolgáltatási kötelezettsége a KÁT-mérlegkör tagsági szerződés KÁT-mérlegkör felelőssel való megkötését követő napon kezdődik.
 
-(3)[^2] Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 9. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató az engedély vagy a KÁT kvótahatározat kézhezvételét követő 8 napon belül az 1., az elektronikus kapcsolattartásra nem kötelezett adatszolgáltató az 1a. mellékletben szereplő adatlapot kitölti, és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére megküldi.
+(2a)[^7] Az 500 kW alatti névleges teljesítőképességű, a METÁR Kr. 2. § (1) bekezdés 11. pontja szerinti premizált termelő rendszeres adatszolgáltatási kötelezettsége a prémium támogatási szerződésnek a METÁR Kr. 2. § (1) bekezdés 3. pontja szerinti befogadóval való megkötését követő napon kezdődik.
 
-(3a)[^3] Az 1. § (1) bekezdés c) pontjában meghatározott adatszolgáltató a (3) bekezdésben meghatározott adatlapot a tevékenységének megkezdését követő 8 napon belül köteles a Hivatal részére megküldeni.
+(3)[^8] Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 9. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató az 1., az elektronikus kapcsolattartásra nem kötelezett adatszolgáltató az 1a. mellékletben szereplő adatlapot a rendszeres adatszolgáltatási kötelezettségének kezdetét követő 8 napon belül kitölti, és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére megküldi.
 
-(3b)[^4] A (3) bekezdésben meghatározott adatlap tartalmában bekövetkező változást az adatszolgáltató 8 napon belül köteles a Hivatal részére megküldeni.
+(3a)[^9]
+
+(3b)[^10] A Hivatal számára megküldött, a (3) bekezdésben meghatározott adatlap tartalmában bekövetkező változást az adatszolgáltató 8 napon belül köteles a Hivatal részére megküldeni.
 
 (4) Az adatszolgáltató tevékenységének megkezdése előtt vagy annak szüneteltetése alatt mentesülhet rendszeres adatszolgáltatási kötelezettsége alól, amennyiben a Hivatal részére a 2. melléklet szerinti mentességi kérelmet előterjeszti, és az adatszolgáltatási kötelezettség alóli mentességet a Hivatal jóváhagyja.
 
@@ -16,6 +18,9 @@
 
 (6) A mentességi kérelem elutasítása esetén az adatszolgáltató köteles az időközben esedékessé vált adatszolgáltatási kötelezettségét 15 napon belül pótolni.
 
-[^2]: A 2. § (3) bekezdése a 15/2018. (XII. 21.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § (3a) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be.
-[^4]: A 2. § (3b) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be.
+[^5]: A 2. § (1) bekezdése a 7/2019. (VI. 27.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdése a 7/2019. (VI. 27.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2a) bekezdését a 7/2019. (VI. 27.) MEKH rendelet 2. § (1) bekezdése iktatta be.
+[^8]: A 2. § (3) bekezdése a 7/2019. (VI. 27.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § (3a) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be, hatályon kívül helyezte a 7/2019. (VI. 27.) MEKH rendelet 5. § b) pontja.
+[^10]: A 2. § (3b) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be, szövege a 7/2019. (VI. 27.) MEKH rendelet 4. § a) pontja szerint módosított szöveg.

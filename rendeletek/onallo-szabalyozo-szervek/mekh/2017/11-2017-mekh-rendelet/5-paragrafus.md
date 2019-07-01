@@ -6,7 +6,7 @@ a) magánvezetéki engedélyes a 3. melléklet,
 
 b) 50 MW-nál nagyobb névleges teljesítőképességű erőmű a 4. melléklet,
 
-c) nem engedélyköteles, 50 és 500 kW közötti névleges teljesítőképességű kiserőmű, továbbá az 500 kW alatti névleges teljesítőképességű KÁT termelő az 5. melléklet,
+c)[^13] nem engedélyköteles, 50 és 500 kW közötti névleges teljesítőképességű kiserőmű az 5. melléklet,
 
 d) biogáz energiahordozót felhasználó nem engedélyköteles, 50 és 500 kW közötti névleges teljesítőképességű kiserőmű az 5. és a 6. melléklet,
 
@@ -32,6 +32,7 @@ n) közvilágítási engedélyes a 15. melléklet,
 
 o) elektromos gépjármű töltőállomás üzemeltetője a 16. melléklet,
 
-p)[^5] villamosenergia-tárolói engedélyes a 36. melléklet
+p)[^14] villamosenergia-tárolói engedélyes a 36. melléklet
 
-[^5]: Az 5. § p) pontját a 15/2018. (XII. 21.) MEKH rendelet 2. §-a iktatta be.
+[^13]: Az 5. § c) pontja a 7/2019. (VI. 27.) MEKH rendelet 5. § d) pontja szerint módosított szöveg.
+[^14]: Az 5. § p) pontját a 15/2018. (XII. 21.) MEKH rendelet 2. §-a iktatta be.

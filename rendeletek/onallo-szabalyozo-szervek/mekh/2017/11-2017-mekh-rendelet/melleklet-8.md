@@ -1,5 +1,5 @@
 ## 20175Z20000011_38
 
-8. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^19]
+8. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^28]
 
-[^19]: A 8. melléklet a 3/2019. (III. 28.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^28]: A 8. melléklet a 7/2019. (VI. 27.) MEKH rendelet 3. §-ával megállapított szöveg.

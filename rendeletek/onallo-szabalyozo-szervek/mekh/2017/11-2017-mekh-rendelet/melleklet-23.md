@@ -1,5 +1,5 @@
 ## 20175Z20000011_47
 
-23. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^31]
+23. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^40]
 
-[^31]: A 23. melléklet az 1/2018. (III. 29.) MEKH rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^40]: A 23. melléklet az 1/2018. (III. 29.) MEKH rendelet 1. § (8) bekezdésével megállapított szöveg.
