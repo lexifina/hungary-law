@@ -2,7 +2,7 @@
 
 | 1. | Központi szerv | Területi szerv | Helyi szerv |
 
-| 2. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | – | – |
+| 2. | Országos Idegenrendészeti Főigazgatóság | – | – |
 
 2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^35]
 
@@ -132,4 +132,12 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-[^35]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja szerint módosított szöveg.
+|  | A | B |
+
+| 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
+
+| 2. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | főigazgató |
+
+XI. Idegenrendészeti szerv
+
+[^35]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
