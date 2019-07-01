@@ -4,9 +4,9 @@
 
 (3) A minisztérium vezetői által adott elismerésekkel kapcsolatos előkészítési, emléktárgy-biztosítási, nyilvántartási, szervezési és egyéb feladatokat a BM Személyügyi Főosztály végzi.
 
-(4)[^57] Kitüntetés, belügyminiszteri elismerés, más miniszter által adható elismerés adományozására vonatkozó kezdeményezés (a továbbiakban együtt: kezdeményezés) a BM Személyügyi Főosztály útján történik. A kezdeményezést
+(4)[^61] Kitüntetés, belügyminiszteri elismerés, más miniszter által adható elismerés adományozására vonatkozó kezdeményezés (a továbbiakban együtt: kezdeményezés) a BM Személyügyi Főosztály útján történik. A kezdeményezést
 
-a)[^58]
+a)[^62]
 
 b) a belügyminiszteri elismerésre vonatkozóan legalább egy hónappal,
 
@@ -20,5 +20,5 @@ kell felterjeszteni, illetve megküldeni a BM Személyügyi Főosztályhoz.
 
 (7) Az elismerés adományozásáról miniszteri határozatban, a belügyi szervek vezetőinek állományparancsban kell rendelkezni. A kitüntetésre és egyéb elismerésre vonatkozó adatokat a személyi állomány tagjának személyzeti anyagában nyilván kell tartani.
 
-[^57]: Az 50. § (4) bekezdése az 51/2014. (XI.26.) BM rendelet 17. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^58]: Az 50. § (4) bekezdés a) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 8. pontja hatályon kívül helyezte.
+[^61]: Az 50. § (4) bekezdése az 51/2014. (XI.26.) BM rendelet 17. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^62]: Az 50. § (4) bekezdés a) pontját az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 8. pontja hatályon kívül helyezte.

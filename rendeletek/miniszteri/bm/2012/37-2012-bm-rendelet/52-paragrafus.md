@@ -1,17 +1,17 @@
-52. § (1)[^62]
+52. § (1)[^66]
 
-(2)[^63]
+(2)[^67]
 
-(3)[^64]
+(3)[^68]
 
-(4)[^65]
+(4)[^69]
 
-(5)[^66]
+(5)[^70]
 
 (6) A Magyarországi Falumegújítási Díjra pályázók végső sorrendjéről, besorolásáról a Falumegújítási Szakértői Bizottság dönt, amelyet a belügyminiszter és adott esetben a pályázatot közösen meghirdető társtárca minisztere nevez ki. Az adott régiókban a legmagasabb pontszámokat elérő települések esetében a Falumegújítási Szakértői Bizottság helyszíni bejárást, konzultációt tart.
 
-[^62]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^63]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^64]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
-[^65]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
 [^66]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^67]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^68]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^69]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.
+[^70]: Az 52. § (1)–(5) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 9. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 8/B. [^10] Balázs János-díj
+## 8/B. [^11] Balázs János-díj
 
 8/B. § (1) A Balázs János-díj a hátrányos helyzetű emberek, közösségek – főleg romák – társadalmi felzárkózásáért, oktatásáért, foglalkoztatásuk elősegítéséért, társadalmi beilleszkedésük és megbecsülésük segítéséért végzett magas színvonalú szakmai munkáért, valamint a jövő generációjának példaképet adó, a roma identitás, roma kultúra megőrzéséért, gyarapításáért munkálkodó, a romák és nem romák egymás megismerését, társadalmi párbeszédét támogató, a békés társadalmi együttélést előmozdító kiemelkedő munkáért adományozható.
 
@@ -12,4 +12,4 @@
 
 (6) A Balázs János-díjhoz pénzjutalom jár. A Balázs János-díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^10]: A 8/B. alcímet (8/B. §) a 25/2019. (VI. 18.) BM rendelet 1. §-a iktatta be.
+[^11]: A 8/B. alcímet (8/B. §) a 25/2019. (VI. 18.) BM rendelet 1. §-a iktatta be.
