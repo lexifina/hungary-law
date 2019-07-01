@@ -1,1 +1,0 @@
-## Munkadíj helyszíni eljárás esetén

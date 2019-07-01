@@ -1,3 +1,0 @@
-## IV. A MUNKADÍJ ÉS A KÖLTSÉGEK
-
-## MEGTÉRÍTÉSE
