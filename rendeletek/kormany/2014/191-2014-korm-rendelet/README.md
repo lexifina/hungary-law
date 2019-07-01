@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-191-20-
 | 2018-01-03 | 2014-191-20-22.7 | 523/2017. (XII. 29.) Korm. rendelet |
 | 2018-06-19 | 2014-191-20-22.8 | 523/2017. (XII. 29.) Korm. rendelet |
 | 2018-10-14 | 2014-191-20-22.9 | 186/2018. (X. 9.) Korm. rendelet |
+| 2019-07-01 | 2014-191-20-22.10 | 523/2017. (XII. 29.) Korm. rendelet |

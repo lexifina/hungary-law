@@ -16,9 +16,9 @@ f)[^9]
 
 g) a megkeresőnek,
 
-h)[^10] a Nemzeti Földalapkezelő Szervezetnek.
+h)[^10] a Nemzeti Földügyi Központnak (a továbbiakban: NFK).
 
 [^7]: A 2/A. §-t az 523/2017. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^8]: A 3. § e) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^9]: A 3. § f) pontját a 70/2015. (III. 30.) Korm. rendelet 250. § (3) bekezdése hatályon kívül helyezte.
-[^10]: A 3. § h) pontját az 523/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 3. § h) pontját az 523/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 159/2019. (VI. 28.) Korm. rendelet 47. § a) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
