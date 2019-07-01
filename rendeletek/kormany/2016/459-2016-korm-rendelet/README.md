@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-459-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-01-01 | 2016-459-20-22.1 | 459/2016. (XII. 23.) Korm. rendelet |
+| 2019-07-01 | 2016-459-20-22.2 | 66/2019. (III. 27.) Korm. rendelet |
