@@ -12,7 +12,7 @@
 
 ## 6. Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és az irányítása alá tartozó szervek
 
-## 7.[^52] Bevándorlási és Menekültügyi Hivatal
+## 7.[^52] az Országos Idegenrendészeti Főigazgatóság
 
 ## 8.[^53]
 
@@ -63,7 +63,7 @@
 2. melléklet a 320/2015. (X. 30.) Korm. rendelethez[^63]
 
 [^51]: Az 1. melléklet 5. pontját a 251/2016. (VIII. 24.) Korm. rendelet 14. §-a hatályon kívül helyezte.
-[^52]: Az 1. melléklet 7. pontja a 379/2016. (XII. 2.) Korm. rendelet 307. § (1) bekezdésével megállapított szöveg.
+[^52]: Az 1. melléklet 7. pontja a 126/2019. (V. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^53]: Az 1. melléklet 8. pontját a 379/2016. (XII. 2.) Korm. rendelet 307. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^54]: Az 1. melléklet 10. pontját a 379/2016. (XII. 2.) Korm. rendelet (2) bekezdés a) pontja hatályon kívül helyezte.
 [^55]: Az 1. melléklet 12. pontja a 134/2016. (VI. 10.) Korm. rendelet 22. §-ával megállapított szöveg.
