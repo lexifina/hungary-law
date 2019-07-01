@@ -12,7 +12,7 @@
 
 a)[^3] a rendvédelmi feladatokat ellátó szervet irányító miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) a minisztériumhoz vezényelt állomány vonatkozásában, valamint
 
-b)[^4] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdés a)–e) pontjában meghatározott – a miniszter irányítása alatt álló – rendvédelmi feladatokat ellátó szervek;
+b)[^4] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdés a)–f) pontjában meghatározott – a miniszter irányítása alatt álló – rendvédelmi feladatokat ellátó szervek;
 
 4. egyéni továbbképzési terv: a hivatásos állomány tagja részére a belügyi szerv által a tárgyévre előírt továbbképzési kötelezettségek és egyéni fejlesztési igények teljesítését biztosító képzési terv;
 
@@ -37,7 +37,7 @@ b)[^4] a rendvédelmi feladatokat ellátó szervek hivatásos állományának sz
 [^1]: Az 1. § 1. pontja a 35/2017. (XII. 21.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 3. pontja a 37/2016. (IX. 1.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 3. pont a) alpontja a 35/2017. (XII. 21.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § 3. pont b) alpontja a 35/2017. (XII. 21.) BM rendelet 27. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § 3. pont b) alpontja a 35/2017. (XII. 21.) BM rendelet 27. § 1. pontja, a 27/2019. (VI. 28.) BM rendelet 29. §-a szerint módosított szöveg.
 [^5]: Az 1. § 7. pontja a 35/2017. (XII. 21.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 9. pontja a 35/2017. (XII. 21.) BM rendelet 27. § 2. pontja szerint módosított szöveg.
 [^7]: Az 1. § 10a. pontját a 35/2017. (XII. 21.) BM rendelet 1. § (4) bekezdése iktatta be.
