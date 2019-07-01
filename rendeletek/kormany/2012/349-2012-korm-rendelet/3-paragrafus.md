@@ -20,7 +20,8 @@ d) vitás kérdések rögzítése.
 
 (6) A jegyzőkönyvet a Törvény 3. § (1) bekezdése szerinti személyek írják alá. A jegyzőkönyv az 1. melléklet II–III. pontja szerinti adatokat tartalmazza, azzal, hogy az átadásra kerülő ingatlanokat ingatlan-nyilvántartási bejegyzésre alkalmas formában elkészített leltár (lista) szerint határozza meg, amely tartalmazza a település nevét, az ingatlan fekvését és helyrajzi számát.
 
-(7) A jegyzőkönyv egy-egy példányát annak aláírását követő 15 napon belül a főigazgató köteles megküldeni a Magyar Nemzeti Vagyonkezelő Zrt. és – amennyiben a települési önkormányzat a Nemzeti Földalapba tartozó földrészletet ad át – a Nemzeti Földalapkezelő Szervezet részére.
+(7)[^4] A jegyzőkönyv egy-egy példányát annak aláírását követő 15 napon belül a főigazgató köteles megküldeni a Magyar Nemzeti Vagyonkezelő Zrt. és – amennyiben a települési önkormányzat a Nemzeti Földalapba tartozó földrészletet ad át – a Nemzeti Földügyi Központ részére.
 
 [^2]: A 3. § (2) bekezdése a 448/2013. (XI. 28.) Korm. rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^3]: A 3. § (4) bekezdés nyitó szövegrésze a 448/2013. (XI. 28.) Korm. rendelet 4. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^4]: A 3. § (7) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 46. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

@@ -44,7 +44,7 @@
 
 ## negyedrészről (a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészlet átadása tekintetében):
 
-## a Magyar Állam nevében eljáró Nemzeti Földalapkezelő Szervezet
+## a Magyar Állam nevében eljáró Nemzeti Földügyi Központ
 
 ## Székhelye: 1149 Budapest, Bosnyák tér 5.
 
@@ -128,7 +128,7 @@
 
 ## 11. Az intézmény teljes vagyonleltárát:
 
-## a) ingatlanvagyon tekintetében az ingatlanok adatainak, továbbá a könyv szerinti értékének és az utolsó vagyonértékelésének bemutatásával, eszközkarton csatolásával, a 11. számú mellékletben rögzítettek szerint, tulajdonosi joggyakorló szerinti bontásban (MNV Zrt./NFA),
+## a) ingatlanvagyon tekintetében az ingatlanok adatainak, továbbá a könyv szerinti értékének és az utolsó vagyonértékelésének bemutatásával, eszközkarton csatolásával, a 11. számú mellékletben rögzítettek szerint, tulajdonosi joggyakorló szerinti bontásban (MNV Zrt./NFK),
 
 ## b) az ingó vagyon tekintetében az eszközkarton csatolásával,
 
@@ -172,13 +172,13 @@
 
 ## Az MNV Zrt. és Átvevő kijelentik, hogy jelen megállapodás aláírásától, de legkorábban a vagyonátszállás törvényben meghatározott időpontjától számított 30 napon belül vagyonkezelési szerződést – a gazdasági társasági részesedések tekintetében a tulajdonosi jogok egészének vagy egy részének gyakorlására megbízási szerződést – kötnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerint az átvett vagyonra vonatkozóan.
 
-## A Nemzeti Földalapkezelő Szervezet és Átvevő kijelentik, hogy jelen megállapodás aláírásától, de legkorábban a vagyonátszállás törvényben meghatározott időpontjától számított 30 napon belül vagyonkezelési szerződést kötnek a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészletekre vonatkozóan (amennyiben a megyei önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik).
+## A Nemzeti Földügyi Központ és Átvevő kijelentik, hogy jelen megállapodás aláírásától, de legkorábban a vagyonátszállás törvényben meghatározott időpontjától számított 30 napon belül vagyonkezelési szerződést kötnek a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészletekre vonatkozóan (amennyiben a megyei önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik).
 
 ## Felek egyetértenek abban, hogy a vagyonelemek átadásánál-átvételénél a az átvételt megelőző év december 31-ei nyilvántartási érték állapotot veszik alapul. Felek rögzítik, hogy a vagyon átadása és átvétele az Átadó és az Átvevő között közvetlenül történik meg. Felek rögzítik, hogy az átadásra-átvételre kerülő vagyon nyilvántartásokban való ki- és bevezetésének dátuma az átvétel évének január 1-je. Az állami vagyon növekedése az Átvevő kataszteri jelentése által valósul meg.
 
 ## Felek megállapodnak, hogy a Törvény alapján állami tulajdonba kerülő társasági részesedések, mint állami vagyonelemek átadás-átvételének eljárásrendjét jelen megállapodással összhangban, azt kiegészítve külön megállapodásban rögzítik.
 
-## A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészleteket érintő szerződések esetében az Átvevő értesíti a szerződő felet arról, hogy a szerződés tárgyát képező földrészlet felett a tulajdonosi (és így a szerződésből eredő) jogokat a Nemzeti Földalapkezelő Szervezet gyakorolja (mennyiben a megyei önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik).
+## A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény hatálya alá tartozó földrészleteket érintő szerződések esetében az Átvevő értesíti a szerződő felet arról, hogy a szerződés tárgyát képező földrészlet felett a tulajdonosi (és így a szerződésből eredő) jogokat a Nemzeti Földügyi Központ gyakorolja (mennyiben a megyei önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik).
 
 ## Átadó tájékoztatja az Átvevőt minden olyan körülményről, veszélyről, illetve lehetőség számbavételéről, amely az átvett intézmény működését érdemben befolyásolhatja, valamint az eredményes feladatellátáshoz szükséges további tényekről, körülményekről.
 
@@ -204,7 +204,7 @@
 
 ## A Felek a Megállapodásban foglalt feltételekkel egyetértenek, azokat elfogadják, és azt, mint akaratukkal mindenben megegyezőt, jóváhagyólag írják alá.
 
-## Jelen Megállapodás .... eredeti példányban készült és ... számozott oldalból áll, amelyből .... példány az Átadót, .... példány az Átvevőt, ...... példány a Magyar Nemzeti Vagyonkezelő Zrt.-t, ...... példány a Nemzeti Földalapkezelő Szervezetet illet meg.
+## Jelen Megállapodás .... eredeti példányban készült és ... számozott oldalból áll, amelyből .... példány az Átadót, .... példány az Átvevőt, ...... példány a Magyar Nemzeti Vagyonkezelő Zrt.-t, ...... példány a Nemzeti Földügyi Központot illet meg.
 
 ## ......................, ….. ..................„ .”
 
@@ -226,7 +226,7 @@
 
 ## ........................................
 
-## A Nemzeti Földalapkezelő Szervezet részéről:
+## A Nemzeti Földügyi Központ részéről:
 
 ## ........................................
 
@@ -408,7 +408,7 @@
 
 | Azonosító adatok | Értékadatok | Terhek | Megjegyzés |
 
-| NFA tulajdonosi joggyakorlása alá tartozó ingatlanok |
+| NFK tulajdonosi joggyakorlása alá tartozó ingatlanok |
 
 | Helyrajzi szám | Alrészlet jele | Település | Fekvés | Cím (itt kérjük feltüntetni a belterületi ingatlan esetén közigazga- tási címet, vagy azt, hogy az ingatlan külterület, vagy zártkert) | Megnevezés/művelési ág tulajdoni lap szerint | Terület, m2- ben tulajdoni lap szerint | Tulajdoni hányad | Műemlék | Régészeti | Természeti/ Natura 2000 | Könyv szerinti bruttó érték, Ft-ban, …….napi állapot (eFt) | Könyv szerinti nettó érték, Ft-ban, ……. napi állapot (eFt) |
 
