@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2018-01-01 | 2011-326-20-22.46 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-12-29 | 2011-326-20-22.47 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-01-01 | 2011-326-20-22.48 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-07-01 | 2011-326-20-22.49 | 45/2019. (III. 12.) Korm. rendelet |

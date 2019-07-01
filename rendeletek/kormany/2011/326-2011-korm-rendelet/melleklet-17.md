@@ -80,7 +80,7 @@
 
 ## 12. A törzskönyv nyomdai sorszámának vonalkódja
 
-17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^412]
+17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^414]
 
 A.
 
@@ -406,4 +406,4 @@ regisztrációs matrica rendszámot tartalmazó vonalkódja
 
 – A harmonizált közösségi kódok magyarázata
 
-[^412]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése, a 440/2016. (XII. 16.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^414]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése, a 440/2016. (XII. 16.) Korm. rendelet 20. §-a szerint módosított szöveg.
