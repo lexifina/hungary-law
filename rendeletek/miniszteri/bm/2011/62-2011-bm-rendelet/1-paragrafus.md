@@ -18,8 +18,13 @@ g) az Alkotmányvédelmi Hivatalra,
 
 h) a Nemzetbiztonsági Szakszolgálatra,
 
-i) a Terrorelhárítási Központra, valamint
+i)[^2] a Terrorelhárítási Központra,
 
-j) a Terrorelhárítási Információs és Bűnügyi Elemző Központra.
+j)[^3] a Terrorelhárítási Információs és Bűnügyi Elemző Központra, valamint
+
+k)[^4] az idegenrendészeti szervre.
 
 [^1]: Az 1. § a 29/2016. (VII. 15.) BM rendelet 8. §-ával megállapított szöveg.
+[^2]: Az 1. § i) pontja a 27/2019. (VI. 28.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § j) pontja a 27/2019. (VI. 28.) BM rendelet 18. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § k) pontját a 27/2019. (VI. 28.) BM rendelet 17. §-a iktatta be.

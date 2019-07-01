@@ -8,7 +8,7 @@ c) egészségügyi egység,
 
 d) logisztikai egység,
 
-e)[^7] műszaki és kárfelszámoló egység.
+e)[^10] műszaki és kárfelszámoló egység.
 
 (2) A kialakult kockázatok és veszélyeztető hatások kezelésére további egységek is létrehozhatók.
 
@@ -30,9 +30,9 @@ f) a katasztrófaelhárítási feladatok során igénybe vett kormányzati cél�
 
 a) a veszélyeztetett területről a lakosság kitelepítése, kimenekítése, valamint
 
-b)[^8] a kitelepítéssel, befogadással összefüggő feladatok ellátásának megszervezése és végrehajtása, az ennek kapcsán felmerülő egészségügyi feladatok támogatása.
+b)[^11] a kitelepítéssel, befogadással összefüggő feladatok ellátásának megszervezése és végrehajtása, az ennek kapcsán felmerülő egészségügyi feladatok támogatása.
 
-(5)[^9] Az egészségügyi egység feladatai különösen
+(5)[^12] Az egészségügyi egység feladatai különösen
 
 a) a járványos növény- és állatbetegségek megelőzésében, terjedésének megakadályozásában, felszámolásában való közreműködés,
 
@@ -62,7 +62,7 @@ e) a fővárosi metró élet- és vagyonvédelmi létesítményként alkalmazhat
 
 f) szükséggyógyintézetek logisztikai támogatása.
 
-(7)[^10] A műszaki és kárfelszámoló egység feladatai különösen:
+(7)[^13] A műszaki és kárfelszámoló egység feladatai különösen:
 
 a) a rendkívüli időjárási viszonyok következményeinek felszámolása,
 
@@ -82,7 +82,7 @@ h) részvétel az üzemeltető szakmai útmutatása alapján a közműkárok és
 
 i) közreműködés a szükséggyógyintézetek, illetve járványügyi zárlat műszaki telepítésében, működtetésében, fenntartásában.
 
-[^7]: A 24. § (1) bekezdés e) pontja a 11/2014. (II. 21.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^8]: A 24. § (4) bekezdés b) pontja a 11/2014. (II. 21.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^9]: A 24. § (5) bekezdése a 11/2014. (II. 21.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^10]: A 24. § (7) bekezdése a 11/2014. (II. 21.) BM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^10]: A 24. § (1) bekezdés e) pontja a 11/2014. (II. 21.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 24. § (4) bekezdés b) pontja a 11/2014. (II. 21.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^12]: A 24. § (5) bekezdése a 11/2014. (II. 21.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^13]: A 24. § (7) bekezdése a 11/2014. (II. 21.) BM rendelet 2. § (4) bekezdésével megállapított szöveg.

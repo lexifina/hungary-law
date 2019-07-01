@@ -1,6 +1,6 @@
 ## 8. § A bv. szervek katasztrófák elleni védekezésre alkalmas személyi és fogvatartotti állományának – várható feladatainak mértékéig történő – elméleti- és gyakorlati felkészítésére a társ- és együttműködő szervek közreműködésével kerül sor.
 
-## 5. [^2] A polgári nemzetbiztonsági szolgálatok katasztrófavédelmi feladatai
+## 5. [^5] A polgári nemzetbiztonsági szolgálatok katasztrófavédelmi feladatai
 
 ## 9. § Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ főigazgatója irányítja és ellenőrzi a védekezésre való felkészülés és a védekezési időszak feladatainak teljesítését. Ennek érdekében
 
@@ -10,4 +10,4 @@ b) gondoskodik a katasztrófavédelemről és a hozzá kapcsolódó egyes törv�
 
 c) a BM OKF koordinálásával közreműködik a kritikus infrastruktúra védelem katasztrófavédelmi szempontú, horizontális kritériumrendszerének kialakításában, a beazonosítási folyamatban.
 
-[^2]: Az 5. alcím (9. §) a 29/2016. (VII. 15.) BM rendelet 9. §-ával megállapított szöveg.
+[^5]: Az 5. alcím (9. §) a 29/2016. (VII. 15.) BM rendelet 9. §-ával megállapított szöveg.
