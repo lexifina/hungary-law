@@ -1,6 +1,6 @@
-## 21. [^31] A rendészeti szakgimnáziumok tanulóinak ruházati ellátása
+## 21. [^30] A rendészeti szakgimnáziumok tanulóinak ruházati ellátása
 
-39. § (1)[^32] A rendészeti szakgimnáziumok tanulóit az első tanév első hónapjában a szakgimnáziumi, valamint a gyakorlati képzéshez szükséges, a 7. melléklet szerinti ruházattal kell ellátni. Az ellátást a Központi Ellátó Szerv biztosítja az Országos Rendőr-főkapitányság költségvetése terhére.
+39. § (1)[^31] A rendészeti szakgimnáziumok tanulóit az első tanév első hónapjában a szakgimnáziumi, valamint a gyakorlati képzéshez szükséges, a 7. melléklet szerinti ruházattal kell ellátni. Az ellátást a Központi Ellátó Szerv biztosítja az Országos Rendőr-főkapitányság költségvetése terhére.
 
 (2) A tanuló részére használatra kiadott ruházati ellátmány az Országos Rendőr-főkapitányság tulajdonát képezi, amíg a tanuló kinevezésével a hivatásos szolgálati jogviszony létre nem jön.
 
@@ -14,5 +14,5 @@
 
 (7) Az igényjogosult a ruházati utánpótlási ellátmányra, a tanulói jogviszonyba történő kinevezést követő tizenharmadik hónap első napjától jogosult, feltéve, hogy ez idő alatt a szolgálati beosztásba történő kinevezésére sor kerül.
 
-[^31]: A 21. alcím címe a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja szerint módosított szöveg.
-[^32]: A 39. § (1) bekezdése a 29/2017. (XI. 6.) BM rendelet 12. § a) és i) pontja szerint módosított szöveg.
+[^30]: A 21. alcím címe a 29/2017. (XI. 6.) BM rendelet 12. § a) pontja szerint módosított szöveg.
+[^31]: A 39. § (1) bekezdése a 29/2017. (XI. 6.) BM rendelet 12. § a) és i) pontja szerint módosított szöveg.

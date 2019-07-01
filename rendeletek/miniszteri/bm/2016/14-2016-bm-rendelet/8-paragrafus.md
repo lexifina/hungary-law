@@ -88,7 +88,7 @@ d) intézkedik a Központi Ellátó Szerv által az alapfelszerelés, alapellát
 
 e) gondoskodik az alegységek megfelelő színvonalú ellátottságáról, illetve a raktári készletek állagmegóvásáról,
 
-f)[^14] a ruházati nyilvántartó programban
+f)[^13] a ruházati nyilvántartó programban
 
 fa) a tárgyévet megelőző év szeptember 30. napjáig rögzíti a miniszter által a ruházati utánpótlási ellátmány terhére az igényjogosult vonatkozásában természetben kiadni rendelt ruházati termékeket és felszerelési cikkeket, továbbá az önálló szerv vezetője vagy az állományilletékes parancsnok által az állomány egésze vagy egyes állománycsoportok részére kiadni rendelt ruházati termékeket és felszerelési cikkeket,
 
@@ -172,4 +172,4 @@ j) szervezi és biztosítja az állomány társasági ruházattal történő ell
 
 k) ellátja az általa biztosított ruházati termékek és felszerelési cikkek reklamációs ügyintézését.
 
-[^14]: A 8. § (3) bekezdés f) pontja a 29/2017. (XI. 6.) BM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 8. § (3) bekezdés f) pontja a 29/2017. (XI. 6.) BM rendelet 4. §-ával megállapított szöveg.

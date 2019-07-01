@@ -1,8 +1,8 @@
-6. melléklet a 14/2016. (V. 10.) BM rendelethez[^46]
+6. melléklet a 14/2016. (V. 10.) BM rendelethez[^45]
 
-## Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat hivatásos állományára vonatkozó ruházati ellátási normák
+## Az idegenrendészeti szerv, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat hivatásos állományára vonatkozó ruházati ellátási normák
 
-1. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat tábornoki állományának ruházati ellátási normája:
+1. Az idegenrendészeti szerv, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat tábornoki állományának ruházati ellátási normája:
 
 |  | A | B | C | D |
 
@@ -44,7 +44,7 @@ aa) T1: Tábornoki alapellátási norma (férfi)
 
 ab) T2: Tábornoki alapellátási norma (női)
 
-1a. A Nemzeti Védelmi Szolgálathoz vezényelt hivatásos állomány főtiszti, tiszti, zászlósi és tiszthelyettes rendfokozati állománycsoportba tartozó tagjának ruházati normabesorolása minden esetben polgári ruhás alapellátási norma, amely norma polgári ruhapénzt, valamint társasági egyenruházatot tartalmaz, az alábbi ruházati ellátási normával:
+1a. Az idegenrendészeti szerv hivatásos állománya, valamint a Nemzeti Védelmi Szolgálathoz vezényelt hivatásos állomány főtiszti, tiszti, zászlósi és tiszthelyettes rendfokozati állománycsoportba tartozó tagjának ruházati normabesorolása minden esetben polgári ruhás alapellátási norma, amely norma polgári ruhapénzt, valamint társasági egyenruházatot tartalmaz, az alábbi ruházati ellátási normával:
 
 |  | A | B | C |
 
@@ -84,4 +84,4 @@ a) Megjegyzés:
 
 4. A Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt főtiszti, tiszti, zászlósi és tiszthelyettesi rendfokozati állománycsoportba tartozó hivatásos állomány tagjának ruházati normabesorolása minden esetben polgári ruhás alapellátási norma, amelynek tartalma megegyezik a vezénylő rendvédelmi feladatokat ellátó szerv részére meghatározott polgári ruhás alapellátási normában szereplő ruházati termékekkel és felszerelési cikkekkel.
 
-[^46]: A 6. melléklet a 29/2016. (VII. 15.) BM rendelet 45. § d) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés c)–e) pontja, a 29/2017. (XI. 6.) BM rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^45]: A 6. melléklet a 29/2016. (VII. 15.) BM rendelet 45. § d) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés c)–e) pontja, a 29/2017. (XI. 6.) BM rendelet 11. § (5) bekezdése, a 20/2019. (V. 15.) BM rendelet 11. § b)–d) pontja szerint módosított szöveg.

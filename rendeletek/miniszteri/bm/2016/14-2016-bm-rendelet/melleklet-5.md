@@ -1,4 +1,4 @@
-5. melléklet a 14/2016. (V. 10.) BM rendelethez[^45]
+5. melléklet a 14/2016. (V. 10.) BM rendelethez[^44]
 
 ## A hivatásos katasztrófavédelmi szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -184,4 +184,4 @@ bh) T2: Tábornoki alapellátási norma (női)
 
 | 19 | Nyakkendőtű (katasztrófavédelmi) | – |
 
-[^45]: Az 5. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^44]: Az 5. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (4) bekezdése szerint módosított szöveg.
