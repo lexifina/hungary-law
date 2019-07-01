@@ -1,3 +1,5 @@
-## 10. §[^7]
+## 11. § A közforgalmú személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet
 
-[^7]: A 10. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+a) 6. § záró szövegrészében az „a Bevándorlási és Menekültügyi Hivatal” szövegrész helyébe az „az idegenrendészeti szerv” szöveg,
+
+b) 1. mellékletében foglalt táblázat A:35 és A:36 mezőjében az „a Bevándorlási és Menekültügyi Hivatal” szövegrész helyébe az „az Országos Idegenrendészeti Főigazgatóság” szöveg

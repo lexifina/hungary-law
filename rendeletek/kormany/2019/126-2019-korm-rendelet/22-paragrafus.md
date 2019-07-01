@@ -1,3 +1,5 @@
-## 21. §[^18]
+## 21. § Az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályai végrehajtásának egyes kérdéseiről szóló 253/2013. (VII. 5.) Korm. rendelet 3. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-[^18]: A 21. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## (A NER előírásainak végrehajtásában a következő szervezetek alapfeladatuk ellátásával vesznek részt:)
+
+## „c) az Országos Idegenrendészeti Főigazgatóság,”

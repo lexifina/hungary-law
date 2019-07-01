@@ -1,3 +1,5 @@
-6. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^33]
+## A segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet 1. melléklet 6. pontja helyébe a következő rendelkezés lép:
 
-[^33]: A 6. melléklet az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## „6. Országos Idegenrendészeti Főigazgatóság,”
+
+6. melléklet a 126/2019. (V. 30.) Korm. rendelethez

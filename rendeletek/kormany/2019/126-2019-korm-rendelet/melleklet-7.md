@@ -1,3 +1,13 @@
-7. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^34]
+## A 154/2015. (VI. 19.) Korm. rendelet 1. melléklete a következő XI. alcímmel egészül ki:
 
-[^34]: A 7. melléklet az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## „XI. Idegenrendészeti szerv
+
+|  | A | B | C |
+
+| 1. | Központi szerv | Területi szerv | Helyi szerv |
+
+| 2. | Országos Idegenrendészeti Főigazgatóság | – | – |
+
+## ”
+
+7. melléklet a 126/2019. (V. 30.) Korm. rendelethez

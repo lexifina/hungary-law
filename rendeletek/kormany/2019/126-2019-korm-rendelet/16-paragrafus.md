@@ -1,3 +1,1 @@
-## 15. §[^12]
-
-[^12]: A 15. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 15. § A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 70. § (1) bekezdésében az „a Bevándorlási és Menekültügyi Hivatalt” szövegrész helyébe az „az Országos Idegenrendészeti Főigazgatóságot” szöveg lép.

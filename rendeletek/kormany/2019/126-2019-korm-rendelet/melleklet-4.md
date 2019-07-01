@@ -1,3 +1,5 @@
-4. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^31]
+## A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 3. melléklet 14. pontja helyébe a következő rendelkezés lép:
 
-[^31]: A 4. melléklet az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## „14. Országos Idegenrendészeti Főigazgatóság”
+
+4. melléklet a 126/2019. (V. 30.) Korm. rendelethez

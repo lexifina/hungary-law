@@ -1,3 +1,3 @@
-5. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^32]
+## A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 3. melléklet I. alcímében foglalt táblázat 1. pontjában a „Bevándorlási és Menekültügyi Hivatal” szövegrész helyébe az „Országos Idegenrendészeti Főigazgatóság” szöveg lép.
 
-[^32]: Az 5. melléklet az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+5. melléklet a 126/2019. (V. 30.) Korm. rendelethez

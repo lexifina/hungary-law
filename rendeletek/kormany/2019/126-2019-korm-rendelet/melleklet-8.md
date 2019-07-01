@@ -1,3 +1,13 @@
-8. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^35]
+## A 154/2015. (VI. 19.) Korm. rendelet 2. melléklete a következő XI. alcímmel egészül ki:
 
-[^35]: A 8. melléklet az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## „XI. Idegenrendészeti szerv
+
+|  | A | B |
+
+| 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
+
+| 2. | Országos Idegenrendészeti Főigazgatóság | főigazgató |
+
+## ”
+
+8. melléklet a 126/2019. (V. 30.) Korm. rendelethez

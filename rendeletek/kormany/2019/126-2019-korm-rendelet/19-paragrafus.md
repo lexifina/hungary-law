@@ -1,3 +1,1 @@
-## 18. §[^15]
-
-[^15]: A 18. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 18. § A munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet 1. § (3) bekezdésében a „Szolgálat és a Terrorelhárítási Központ” szövegrész helyébe a „Szolgálat, a Terrorelhárítási Központ és az Országos Idegenrendészeti Főigazgatóság” szöveg lép.

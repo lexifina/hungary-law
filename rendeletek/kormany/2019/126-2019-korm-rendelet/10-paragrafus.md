@@ -1,3 +1,5 @@
-## 9. §[^6]
+## lép.
 
-[^6]: A 9. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+10. § (1) A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 1. melléklete a 2. melléklet szerint módosul.
+
+(2) A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 3. melléklete a 3. melléklet szerint módosul.

@@ -1,3 +1,1 @@
-## 14. §[^11]
-
-[^11]: A 14. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 14. § A harmadik országbeli állampolgár kutatókat fogadó kutatószervezetek akkreditációjáról, valamint a fogadási megállapodásról szóló 181/2007. (VII. 6.) Korm. rendelet 14. § (2) és (3) bekezdésében az „a Bevándorlási és Menekültügyi Hivatalt” szövegrész helyébe az „az Országos Idegenrendészeti Főigazgatóságot” szöveg lép.

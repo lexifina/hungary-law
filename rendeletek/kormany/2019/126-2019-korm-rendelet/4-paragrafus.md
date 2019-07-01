@@ -1,3 +1,1 @@
-## 3. §[^3]
-
-[^3]: A 3. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 3. § Az Országos Idegenrendészeti Főigazgatóság központi szervre és igazgatóságokra tagozódik. Az igazgatóságokat, valamint azok illetékességi területét az 1. melléklet állapítja meg.

@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 2. § A Kormány a Rendőrségről szóló 1994. évi XXXIV. törvényben meghatározott idegenrendészeti szervként az Országos Idegenrendészeti Főigazgatóságot jelöli ki.

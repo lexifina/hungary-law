@@ -1,3 +1,1 @@
-## 16. §[^13]
-
-[^13]: A 16. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 16. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 3. melléklete a 4. melléklet szerint módosul.

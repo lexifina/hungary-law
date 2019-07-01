@@ -1,3 +1,1 @@
-## 17. §[^14]
-
-[^14]: A 17. § az 5. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 17. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 29. § (1) bekezdés d) pontjában az „a Bevándorlási és Menekültügyi Hivatal” szövegrész helyébe az „az Országos Idegenrendészeti Főigazgatóság” szöveg lép.
