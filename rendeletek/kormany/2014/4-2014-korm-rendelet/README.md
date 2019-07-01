@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-4-20-22
 | 2016-07-17 | 2014-4-20-22.3 | 186/2016. (VII. 13.) Korm. rendelet |
 | 2018-01-01 | 2014-4-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-02-15 | 2014-4-20-22.5 | 20/2018. (II. 14.) Korm. rendelet |
+| 2019-07-01 | 2014-4-20-22.6 | 126/2019. (V. 30.) Korm. rendelet |
