@@ -18,11 +18,11 @@
 
 | 6. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság vezetője | a teljes személyi állomány tekintetében |
 
-| 7. | Bevándorlási és Menekültügyi Hivatal vezetője | a teljes személyi állomány tekintetében |
+| 7. | Országos Idegenrendészeti Főigazgatóság vezetője | a teljes személyi állomány tekintetében |
 
 | 8. | Országos Vízügyi Főigazgatóság vezetője | a teljes személyi állomány tekintetében |
 
 | 9. | Terrorelhárítási Központ vezetője | a teljes személyi állomány tekintetében |
 
 [^88]: A 36. §-t a 11/2019. (IV. 8.) BM rendelet 11. §-a iktatta be.
-[^89]: Az 1. mellékletet a 31/2018. (XII. 19.) BM rendelet 16. §-a iktatta be.
+[^89]: Az 1. mellékletet a 31/2018. (XII. 19.) BM rendelet 16. §-a iktatta be, szövege a 27/2019. (VI. 28.) BM rendelet 26. § b) pontja szerint módosított szöveg.
