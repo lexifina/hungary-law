@@ -1,10 +1,10 @@
 ## 8/C. Tőkekövetelmények
 
-17/C. § (1) Működési formájától függetlenül a szövetkezeti hitelintézet, valamint a Központi Bank szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről időre – egységes szempontok szerint – megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát.
+17/C. § (1) Működési formájától függetlenül a szövetkezeti hitelintézet, valamint az integrációs üzleti irányító szervezet szavatoló tőkéje nem süllyedhet az Integrációs Szervezet által egyedi (nem konszolidált) alapon időről időre – egységes szempontok szerint – megállapított szint alá. Az Integrációs Szervezet szabályzatban határozza meg az egyedi alapon megállapított szavatoló tőke meghatározásának elveit és folyamatát azzal, hogy az Integrációs Szervezet az egyedi alapon megállapított tőkekövetelményt a tagok tényleges pénzügyi és kockázati helyzetéhez igazodva, kockázatalapon határozza meg.
 
-(1a) Az egyes szövetkezeti hitelintézetek, valamint a Központi Bank egyedi alapon csak az (1) bekezdésben foglaltaknak megfelelően előírt tőkekövetelménynek köteles megfelelni.
+(1a) Az egyes szövetkezeti hitelintézetek, valamint az integrációs üzleti irányító szervezet egyedi alapon csak az (1) bekezdésben foglaltaknak megfelelően előírt tőkekövetelménynek köteles megfelelni.
 
-(2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed, az Integrációs Szervezet köteles – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett –, a Felügyelet előzetes jóváhagyásával az alábbi egy vagy több kivételes intézkedéssel élni:
+(2) Amennyiben a szövetkezeti hitelintézet szavatoló tőkéje az (1) bekezdésben meghatározott szint alá süllyed, az Integrációs Szervezet köteles – a Felügyelet jogait, feladatait és hatásköreit nem érintve, és amennyiben a Felügyelet ilyen intézkedést még nem tett – a Felügyelet előzetes jóváhagyásával a 11/B. § (2) bekezdésében meghatározott egy vagy több intézkedéssel élni, amely mellett az alábbi egy vagy több kivételes intézkedést is alkalmazhatja:
 
 a) előírhatja a szövetkezeti hitelintézet
 
@@ -36,9 +36,9 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb jogait és hatásköreit.
 
-(2a) Az Integrációs Szervezet – intézményvédelmi céllal – a (2) bekezdés alapján végrehajtott intézkedés vagy intézkedések sikertelensége esetén tőkeemeléssel tulajdont szerezhet a Központi Bankban és a szövetkezeti hitelintézetben. Az Integrációs Szervezet az ily módon a Központi Bankban, illetve a szövetkezeti hitelintézetben tulajdonába került részesedést két éven belül köteles elidegeníteni. A Központi Bank intézményvédelmi céllal szerzett részvényeinek elidegenítése esetében a Központi Bank részvényeseinek, míg a szövetkezeti hitelintézet intézményvédelmi céllal szerzett tulajdonosi részesedésének elidegenítése esetén – a szabályozott piacra bevezetett értékpapírok kivételével – az adott szövetkezeti hitelintézet tulajdonosainak elővásárlási joga van.
+(2a) Az Integrációs Szervezet – intézményvédelmi céllal – a (2) bekezdés alapján végrehajtott intézkedés vagy intézkedések sikertelensége esetén tőkeemeléssel tulajdont szerezhet az integrációs üzleti irányító szervezetben és a szövetkezeti hitelintézetben. Az Integrációs Szervezet az ily módon az integrációs üzleti irányító szervezetben, illetve a szövetkezeti hitelintézetben tulajdonába került részesedést két éven belül köteles elidegeníteni. Az integrációs üzleti irányító szervezet intézményvédelmi céllal szerzett részvényeinek elidegenítése esetében az integrációs üzleti irányító szervezet részvényeseinek, míg a szövetkezeti hitelintézet intézményvédelmi céllal szerzett tulajdonosi részesedésének elidegenítése esetén – a szabályozott piacra bevezetett értékpapírok kivételével – az adott szövetkezeti hitelintézet tulajdonosainak elővásárlási joga van.
 
-(2b) Az Integrációs Szervezet a Központi Bank és a részvénytársasági formában működő szövetkezeti hitelintézetek közgyűlésén a (2a) bekezdés alapján szerzett részesedése arányában gyakorolja a szavazati jogokat.
+(2b) Az Integrációs Szervezet az integrációs üzleti irányító szervezet és a részvénytársasági formában működő szövetkezeti hitelintézetek közgyűlésén a (2a) bekezdés alapján szerzett részesedése arányában gyakorolja a szavazati jogokat.
 
 (2c) A szövetkezeti formában működő szövetkezeti hitelintézeteknél, amelyben az Integrációs Szervezet intézményvédelmi célból szerzett részesedéssel rendelkezik, kizárólag az Integrációs Szervezet jóváhagyásával hozható meg közgyűlési határozat.
 

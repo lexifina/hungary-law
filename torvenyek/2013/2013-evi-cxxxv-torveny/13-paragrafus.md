@@ -1,3 +1,3 @@
-## 7.2.
+## 7.2. Az integrációs üzleti irányító szervezet közreműködése az integrációs szintű stratégia megvalósításában
 
-### 13. §
+13. § Az integrációs üzleti irányító szervezet a közgyűlése által jóváhagyott integrációs szintű stratégia megvalósítása érdekében az Integrációs Szervezet egyes tagjai vagy valamennyi tagja érdekében a stratégia megvalósításához szükséges mértékben szerződést köthet. Az integrációs üzleti irányító szervezet – az Integrációs Szervezet előzetes jóváhagyását követően – a tag vagy tagok érdekében megkötött szerződés alapján felmerült kiadásait jogosult akár egészben, akár részben továbbhárítani az Integrációs Szervezet azon tagja vagy tagjai részére, amelyek érdekében a kiadást teljesítette.

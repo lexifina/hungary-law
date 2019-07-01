@@ -18,7 +18,7 @@ g) elfogadja az Integrációs Szervezet feladatkörébe tartozó utasításokat,
 
 h) jóváhagyja a csoportszintű helyreállítási tervet;
 
-i) jóváhagyja a szövetkezeti hitelintézetek és a Központi Bank tevékenységének ellenőrzésével kapcsolatos éves ellenőrzési tervet;
+i) jóváhagyja az ellenőrzés alá vont szervezetek tevékenységének ellenőrzésével kapcsolatos éves ellenőrzési tervet;
 
 j) dönt a 11/B. § (2) bekezdésében meghatározott intézkedésekről.
 

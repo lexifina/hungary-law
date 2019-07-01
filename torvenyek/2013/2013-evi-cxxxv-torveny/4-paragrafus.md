@@ -4,15 +4,15 @@
 
 (2) Az Integrációs Szervezet vagyonához rendelkezésre bocsátott hozzájárulás összege a 11/F. § (9) bekezdésében meghatározott esetben fizethető vissza a vagyoni hozzájárulást rendelkezésre bocsátó tagnak.
 
-(3) Az Integrációs Szervezet tagja – az MFB kivételével – évente tagdíjat fizet az Integrációs Szervezetnek. A tagdíj éves összegét az Integrációs Szervezet közgyűlése állapítja meg, amelynek mértéke nem lehet alacsonyabb, mint a tag kockázattal súlyozott kitettségének 0,1%-a. A tagdíj megfizetésének rendjére vonatkozó részletes szabályokat az Integrációs Szervezet igazgatóságának a felhatalmazása alapján az ügyvezetés is meghatározhatja azzal, hogy az éves tagdíjat a tagdíjfizetésre kötelezettnek negyedévente kell megfizetnie.
+(3) Az Integrációs Szervezet tagja évente tagdíjat fizet az Integrációs Szervezetnek. A tagdíj összegét az Integrációs Szervezet Közgyűlése úgy állapítja meg, hogy az Integrációs Szervezet tagjai által fizetett tagdíjak összege legfeljebb az Integrációs Szervezet éves működési költségeit biztosítsa. A tagdíj megfizetésének rendjét az Integrációs Szervezet állapítja meg.
 
-(4) Az Integrációs Szervezetnek legalább olyan értékű eszközökkel kell rendelkeznie, amelyek meghaladják a szövetkezeti hitelintézetek és a Központi Bank összesített eszközei értékének 3 százalékát.
+(4) Az Integrációs Szervezetnek legalább az Integrációs Szervezet tagjainak az egymásban fennálló részesedések figyelmen kívül hagyásával összesített eszközei értékének 3 százalékát meghaladó értékű eszközökkel kell rendelkeznie.
 
 (4a) A (4) bekezdésben meghatározottaknak történő megfelelést az Integrációs Szervezet havi rendszerességgel ellenőrzi. Ha a havi záró állományi adatok alapján megállapítható, hogy az Integrációs Szervezet eszközeinek értéke a (4) bekezdésben meghatározott érték alá csökken, az Integrációs Szervezet igazgatósága 15 napon belül dönt az Integrációs Szervezet eszközeinek a feltöltéséről.
 
 (5) Az Integrációs Szervezet pénzeszközei nem vonhatók el, és kizárólag az e törvényben meghatározott célokra használhatók fel.
 
-(6) Az Integrációs Szervezet pénzeszközeit a Központi Bankban vagy annak 100%-os tulajdonában álló leányvállalatainál helyezi el.
+(6) Az Integrációs Szervezet pénzeszközeit az integrációs üzleti irányító szervezetnél vagy az integrációs üzleti irányító szervezet által meghatározott szövetkezeti hitelintézetnél helyezi el.
 
 (7) Az Integrációs Szervezet és a Szövetkezeti Hitelintézetek Tőkefedezeti Alapja saját vagyona, bevételei, jövedelme és ügyletei után társasági nyereségadó, általános forgalmi adó helyi adó, tranzakciós illeték és egyéb illeték fizetésére nem köteles.
 

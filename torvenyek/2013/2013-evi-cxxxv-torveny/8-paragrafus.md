@@ -2,7 +2,7 @@
 
 8. § (1) Az Integrációs Szervezet stratégiai irányítását az igazgatóság látja el. Az igazgatóság legalább 5, legfeljebb 7 tagból áll. Az Integrációs Szervezettel munkaviszonyban álló igazgatósági tagok száma nem haladhatja meg a tagok számának a felét.
 
-(2) Az igazgatóság 3 tagjának – 7 főből álló igazgatóság esetén 4 tagjának – a megválasztásához, és az így megválasztott tag visszahívásához az Integrációs Szervezet szövetkezeti hitelintézeti tagjai több mint felének egyetértő szavazata szükséges.
+(2)
 
 (3) Az igazgatóság határozatképes, ha a tagok többsége jelen van. Az igazgatóság tagjai közül elnököt választ. Az igazgatóság határozatait egyszerű szótöbbséggel hozza. Az igazgatóság ügyrendjét maga állapítja meg.
 

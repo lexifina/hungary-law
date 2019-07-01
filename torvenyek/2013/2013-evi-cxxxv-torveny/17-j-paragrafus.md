@@ -1,4 +1,4 @@
-17/J. § (1) A szövetkezet formában működő szövetkezeti hitelintézetnek az alapszabályában
+17/J. § (1) A szövetkezeti formában működő szövetkezeti hitelintézetnek az alapszabályában
 
 a) a külön törvényben szabályozott tagi kölcsön nyújtásának feltételeként legalább egy éves tagsági jogviszonyt kell meghatároznia,
 

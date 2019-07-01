@@ -4,4 +4,4 @@
 
 (3) Az Integrációs Szervezet igazgatósága a (2) bekezdésben meghatározott szabályzat elfogadásáról és az adatszolgáltatási és bejelentési kötelezettséget az Integrációs Szervezet közreműködésével teljesítő szövetkezeti hitelintézetekről az elfogadás, illetve a változás bekövetkezésétől számított 2 munkanapon belül értesíti a Felügyeletet. E tájékoztatásban meg kell jelölni, hogy az adott szövetkezeti hitelintézet mely időponttól teljesíti az adatszolgáltatási és bejelentési kötelezettséget az Integrációs Szervezet közreműködésével.
 
-(4) Az Integrációs Szervezet és a Központi Bank a prudens és hatékony működés biztosítása érdekében együttműködési megállapodást köthet az Integrációs Szervezet közreműködésével történő adatszolgáltatások és bejelentések gyakorlati megvalósításának részletszabályairól.
+(4) Az Integrációs Szervezet és az integrációs üzleti irányító szervezet a prudens és hatékony működés biztosítása érdekében együttműködési megállapodást köthet az Integrációs Szervezet közreműködésével történő adatszolgáltatások és bejelentések gyakorlati megvalósításának részletszabályairól.

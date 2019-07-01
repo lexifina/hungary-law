@@ -2,6 +2,6 @@
 
 (2) Az Integrációs Szervezet igazgatósága olyan személyt jelölhet ki a felfüggesztett vezető tisztségviselő feladatának ellátására, aki megfelel a Hpt. 155. § (1) bekezdés c) pontjában foglaltaknak, valamint akivel szemben a szövetkezeti hitelintézet vezető tisztségviselőjére irányadó kizáró vagy összeférhetetlenségi ok nem áll fenn. Az átmeneti időre kinevezett személy kijelöléséhez nem szükséges a Felügyelet engedélye, de arról az Integrációs Szervezet igazgatósága a Felügyeletet a kinevezéssel egyidejűleg tájékoztatni köteles.
 
-(3) Az Integrációs Szervezet igazgatósága által kijelölt személy jogosult az intézkedéssel érintett szövetkezeti hitelintézet igazgatósági tagja jogköreinek teljes körű gyakorlására, e körben vezető tisztségviselőnek tekintendő.
+(3) Az Integrációs Szervezet igazgatósága által kijelölt személy jogosult az intézkedéssel érintett Integrációs Szervezeti tag igazgatósági tagja jogköreinek teljes körű gyakorlására, e körben vezető tisztségviselőnek tekintendő.
 
-(4) Az Integrációs Szervezet igazgatósága dönt a feladatkörének gyakorlásában felfüggesztett vezető tisztségviselő tekintetében a felfüggesztés megszüntetéséről, ha a szövetkezeti hitelintézet vagy a Központi Bank az utasításnak eleget tesz, illetve helyreállította a jogszabályoknak, a szabályzatoknak, az irányelveknek vagy az utasításoknak megfelelő működését.
+(4) Az Integrációs Szervezet igazgatósága dönt a feladatkörének gyakorlásában felfüggesztett vezető tisztségviselő tekintetében a felfüggesztés megszüntetéséről, ha az Integrációs Szervezet tagja az utasításnak eleget tesz, illetve helyreállította a jogszabályoknak, a szabályzatoknak, az irányelveknek vagy az utasításoknak megfelelő működését.

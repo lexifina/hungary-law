@@ -1,12 +1,12 @@
 ## 5.4. A felügyelő bizottság
 
-10. § (1) Az Integrációs Szervezet működését 3 tagú felügyelő bizottság ellenőrzi.
+10. § (1) Az Integrációs Szervezet működését a felügyelőbizottság ellenőrzi. A felügyelőbizottság legalább három, legfeljebb öt természetes személy tagból áll.
 
 (2) A felügyelőbizottság hatáskörébe tartozik:
 
 a) az Integrációs Szervezet éves beszámolójának és éves tervének előzetes, a közgyűlés döntése előtti véleményezése;
 
-b) az igazgatóság és az ügyvezetés rendszeres, félévenkénti beszámoltatása az Integrációs Szervezet tevékenységéről, gazdálkodásáról és pénzügyi helyzetéről, beleértve az 1. § (4) bekezdése szerinti egyetemleges felelősség mellett működő tagtól eltérő személy által rendelkezésre bocsátott vagyon felhasználásának szabályosságára vonatkozó beszámoltatást is;
+b) az igazgatóság és az ügyvezetés rendszeres, félévenkénti beszámoltatása az Integrációs Szervezet tevékenységéről, gazdálkodásáról és pénzügyi helyzetéről, beleértve az egyetemleges felelősség mellett működő tagtól eltérő személy által rendelkezésre bocsátott vagyon felhasználásának szabályosságára vonatkozó beszámoltatást is;
 
 c) az Integrációs Szervezet belső ellenőrzésének irányítása;
 
