@@ -26,7 +26,7 @@
 
 13. a Terrorelhárítási Információs és Bűnügyi Elemző Központnál szolgálatot teljesítő hivatásos állomány,
 
-14. a Bevándorlási és Menekültügyi Hivatalhoz vezényelt hivatásos állomány,
+14.[^2] az Országos Idegenrendészeti Főigazgatósághoz vezényelt hivatásos állomány,
 
 15. a Nemzeti Közszolgálati Egyetemhez vezényelt hivatásos állomány, kivéve
 
@@ -47,3 +47,5 @@ b) a Katasztrófavédelmi Intézethez vezényelt hivatásos állomány,
 21. az, aki felmentési idejét tölti,
 
 22. az, akinek hivatásos szolgálati jogviszonya a nyugdíjazásra tekintettel 2019. december 31-ig megszűnik.
+
+[^2]: A 6. § 14. pontja a 27/2019. (VI. 28.) BM rendelet 55. §-a szerint módosított szöveg.
