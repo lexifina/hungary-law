@@ -76,6 +76,12 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 |  | Áht. azonosító | Cím | Alcím | Jogcímcsoport | Jogcímnév | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Visszafizetés határ- ideje | Biztosíték | Kezelő szerv | Lebonyo- lító szerv | Európai uniós forrásból finan- szírozott költség-vetési támo- gatás közre- működő szerve- zete |
 
+| 0a. | 379828 | Babaváró támogatás banki költségtérítése | A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet (a továbbiakban: 44/2019. Korm. rendelet) alapján a jogosultak számára a banki költségtérítés biztosítása. | A 44/2019. Korm. rendelet 23. § (3) bekezdése szerinti hitelintézet. | A 44/2019. Korm. rendelet 23. § (3) bekezdése szerint. |  | A 44/2019. Korm. rendelet 23. § (3) bekezdése szerint. |  |  | Kincstár |  |  |
+
+| 0b. | 379817 | Babaváró támogatás tartozások elengedése | A 44/2019. Korm. rendelet alapján a jogosultak számára a tartozás elengedésből adódó elszámolás biztosítása. | A 44/2019. Korm. rendelet 21. § (4) bekezdése szerinti hitelintézet. | A 44/2019. Korm. rendelet 21. § (4) bekezdése szerint. |  | A 44/2019. Korm. rendelet 21. § (4) bekezdése szerint. |  |  | Kincstár |  |  |
+
+| 0c. | 379284 | Babaváró támogatás kamattámogatása | A 44/2019. Korm. rendelet alapján a kamattámogatás biztosítása. | A 44/2019. Korm. rendelet 13. § (1) bekezdése szerinti hitelintézet. | A 44/2019. Korm. rendelet 13. § (1) bekezdése szerinti hitelintézet. |  | A 44/2019. Korm. rendelet 13. § (1) bekezdése szerint. |  |  | Kincstár |  |  |
+
 | 1. | 368940 | Diákhitel tartozás csökkentésének támogatása | Diákhitellel rendelkezők gyermekvállalásának támogatása | A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendeletben (a továbbiakban: R13.) meghatározott kör |  |  | A támogatás folyósítása az R13. 18/D. §-a alapján történik |  |  | Kincstár |  |  |
 
 | 2. | 334262 | Diákhitel 2 konstrukció kamattámogatása | Diákhitel konstrukció kamattámogatása | Az R13. alapján meghatározott kör |  |  | A támogatás folyósítása az R13. 29. §-a alapján történik |  |  | Kincstár |  |  |
@@ -194,4 +200,4 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 59. | 374873 | Központi Maradványelszámolási Alap | Kormányzati döntésekből következő, illetve év közben jelentkező finanszírozási problémák kezelése. | Költségvetési szervek, fejezeti kezelésű előirányzatok, központi kezelésű előirányzatok |  |  | Átcsoportosítással a Kormány egyedi határozata alapján. |  |  |  |  |  |
 
-[^2]: A 9. melléklet a 6/2019. (VI. 7.) PM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 9. melléklet a 6/2019. (VI. 7.) PM rendelet 2. § (1)–(2) bekezdése szerint módosított szöveg.
