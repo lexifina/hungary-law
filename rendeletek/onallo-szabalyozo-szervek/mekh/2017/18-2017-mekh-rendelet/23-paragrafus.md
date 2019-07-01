@@ -14,7 +14,7 @@ e) a felhasználási hellyel kapcsolatban rendelkezésére álló valamennyi dok
 
 f) a kizárólagos őrizet fennállását.
 
-(2) Az elosztó, amennyiben szakértői vizsgálatra került sor, a szakvélemény rendelkezésre állását követő 30 napon belül, amennyiben szakértői vizsgálatra nem került sor, a helyszíni ellenőrzést követő 30 napon belül a szabálytalan villamos energia vételezéssel kapcsolatos álláspontját – a szakértői vélemény egyidejű megküldésével – írásban, igazolható módon közli a felhasználóval.
+(2)[^37] Az elosztó, amennyiben szakértői vizsgálatra került sor a szakvélemény megküldésével együtt, annak rendelkezésre állását követő 30 napon belül, amennyiben szakértői vizsgálatra nem került sor, a helyszíni ellenőrzést követő 30 napon belül a szabálytalan villamos energia vételezéssel kapcsolatos álláspontját igazolható módon írásban vagy a felhasználó erre vonatkozó kérése esetén elektronikus úton közli a felhasználóval.
 
 (3) Az elosztó a (2) bekezdésben foglalt álláspontjában tájékoztatja a felhasználót:
 
@@ -25,3 +25,5 @@ b) a kötbér-mérték csökkentésének vagy a részletfizetésnek a lehetősé
 c) a felhasználó által benyújtott, de figyelembe nem vett bizonyítási eszközök mellőzésének okáról,
 
 d) a felhasználó rendelkezésére álló panasztételi és jogorvoslati lehetőségekről, valamint ezek elérhetőségeiről.
+
+[^37]: A 23. § (2) bekezdése a 6/2019. (VI. 12.) MEKH rendelet 11. §-ával megállapított szöveg.
