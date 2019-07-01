@@ -10,6 +10,6 @@ c) együttműködik a határon túli egyházakkal,
 
 d) ellátja a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvényben az egyházi jogi személyek nyilvántartásával kapcsolatban a hatáskörébe tartozó feladatokat,
 
-e)[^15]
+e)[^16]
 
-[^15]: A 33. § (2) bekezdés e) pontját a 172/2018. (IX. 26.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^16]: A 33. § (2) bekezdés e) pontját a 172/2018. (IX. 26.) Korm. rendelet 3. §-a hatályon kívül helyezte.

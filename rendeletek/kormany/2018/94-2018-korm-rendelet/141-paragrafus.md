@@ -128,9 +128,9 @@ n) felelős a külügyi és külgazdasági területen foglalkoztatottaknak a min
 
 o) felelős a külpolitikát érintő kutatási és elemző tevékenységért, ennek keretben biztosítja a külügyi és külgazdasági folyamatok és azok eredményeinek szélesebb nyilvánossággal való megismertetését,
 
-p)[^37] felelős a magyar külügyi képzési rendszernek, különösen a diplomata képzések rendszerének a megalapozásáért,
+p)[^40] felelős a magyar külügyi képzési rendszernek, különösen a diplomata képzések rendszerének a megalapozásáért,
 
-q)[^38] ellátja a Stipendium Hungaricum ösztöndíjprogram működtetésével kapcsolatos, külön jogszabályban meghatározott feladatokat.
+q)[^41] ellátja a Stipendium Hungaricum ösztöndíjprogram működtetésével kapcsolatos, külön jogszabályban meghatározott feladatokat.
 
-[^37]: A 141. § (2) bekezdés p) pontja a 138/2019. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^38]: A 141. § (2) bekezdés q) pontja a 138/2019. (VI. 13.) Korm. rendelet 5. §-a iktatta be.
+[^40]: A 141. § (2) bekezdés p) pontja a 138/2019. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^41]: A 141. § (2) bekezdés q) pontja a 138/2019. (VI. 13.) Korm. rendelet 5. §-a iktatta be.

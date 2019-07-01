@@ -4,13 +4,13 @@
 
 1. egyházakkal való kapcsolattartás koordinációjáért,
 
-2.[^13] – a 138. § 5. pontjában foglalt kivétellel – nemzetpolitikáért
+2.[^14] – a 138. § 5. pontjában foglalt kivétellel – nemzetpolitikáért
 
-3.[^14] – a 40. § (2) bekezdésében foglalt kivétellel – nemzetiségpolitikáért
+3.[^15] – a 40. § (2) bekezdésében foglalt kivétellel – nemzetiségpolitikáért
 
 felelős tagja.
 
 (2) A miniszterelnök általános helyettese vezeti a Nemzetpolitikai Kabinet üléseit.
 
-[^13]: A 32. § (1) bekezdés 2. pontja a 103/2019. (V. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^14]: A 32. § (1) bekezdés 3. pontja a 84/2019. (IV. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^14]: A 32. § (1) bekezdés 2. pontja a 103/2019. (V. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^15]: A 32. § (1) bekezdés 3. pontja a 84/2019. (IV. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

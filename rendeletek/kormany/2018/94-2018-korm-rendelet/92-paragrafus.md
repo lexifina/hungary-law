@@ -24,11 +24,11 @@
 
 11. szociál- és nyugdíjpolitikáért,
 
-12.[^30]
+12.[^31]
 
 felelős tagja.
 
-(2)[^31]
+(2)[^32]
 
-[^30]: A 92. § (1) bekezdés 12. pontját a 84/2019. (IV. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^31]: A 92. § (2) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^31]: A 92. § (1) bekezdés 12. pontját a 84/2019. (IV. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^32]: A 92. § (2) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.

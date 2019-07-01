@@ -1,5 +1,3 @@
-## 115. § A miniszter a kárpótlásért való felelőssége keretében előkészíti a személyi és vagyoni kárpótlásra vonatkozó jogszabályokat.
-
 ## 11. Az innovációért és technológiáért felelős miniszter feladat- és hatásköre
 
 ## 116. § Az innovációért és technológiáért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány

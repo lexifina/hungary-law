@@ -1,6 +1,6 @@
 ## 165. § Az e rendelet hatálybalépésekor hatályos más kormányrendeletben vagy miniszteri rendeletben a Kormány tagja feladat- és hatáskörét e rendelet szerint kell érteni.
 
-1. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^42]
+1. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^45]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek
 
@@ -52,7 +52,7 @@ E) Belügyminiszter
 
 | 3 | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és az irányítása alá tartozó szervek | irányítás |
 
-| 4 | Bevándorlási és Menekültügyi Hivatal | irányítás |
+| 4 | Országos Idegenrendészeti Főigazgatóság | irányítás |
 
 | 5 | Büntetés-végrehajtás Országos Parancsnoksága és az irányítása alá tartozó szervek | irányítás |
 
@@ -89,6 +89,8 @@ G) Agrárminiszter
 | 3 | Nemzeti park igazgatóságok | irányítás |
 
 | 4 | Országos Meteorológiai Szolgálat | irányítás |
+
+| 5 | Nemzeti Földügyi Központ | irányítás |
 
 H) Emberi erőforrások minisztere
 
@@ -166,4 +168,4 @@ M) Igazságügyi miniszter
 
 | 2 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
 
-[^42]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a, a 206/2018. (XI. 10.) Korm. rendelet 8. §-a és 9. § a)–b) pontja, a 95/2019. (IV. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^45]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a, a 206/2018. (XI. 10.) Korm. rendelet 8. §-a és 9. § a)–b) pontja, a 95/2019. (IV. 25.) Korm. rendelet 6. §-a, a 126/2019. (V. 30.) Korm. rendelet 29. §-a, a 159/2019. (VI. 28.) Korm. rendelet 54. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.

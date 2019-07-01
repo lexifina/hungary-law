@@ -12,10 +12,10 @@ b) felel az iskolai rendszerű köznevelési oktatás és az iskolai nevelés-ok
 
 c) ellátja a köznevelési oktatási koordinációval kapcsolatos feladatokat,
 
-d)[^32]
+d)[^33]
 
 e) működteti az országos köznevelési vizsgarendszert,
 
 f) közreműködik a Nemzeti Köznevelési Infrastruktúra Fejlesztési Programhoz kapcsolódó, a hatáskörébe tartozó tanterem- és tornaterem-fejlesztési feladatok ellátásában, valamint ellátja a köznevelési intézménnyel egybeépített vagy azzal azonos ingatlanon elhelyezkedő tanterem- és tornaterem-üzemeltetési, továbbá az egyéb iskolaüzemeltetési feladatokat.
 
-[^32]: A 100. § (2) bekezdés d) pontját a 153/2018. (VIII. 31.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^33]: A 100. § (2) bekezdés d) pontját a 153/2018. (VIII. 31.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.
