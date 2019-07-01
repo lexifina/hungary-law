@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-1-00-00
 | 2018-01-01 | 2017. évi CXLIII. törvény | 2007-1-00-00.32 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2007-1-00-00.33 |
 | 2019-01-01 | 2018. évi CXXXIII. törvény | 2007-1-00-00.34 |
+| 2019-07-01 | 2018. évi CXXXIII. törvény | 2007-1-00-00.35 |
