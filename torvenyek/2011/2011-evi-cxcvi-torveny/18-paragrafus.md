@@ -2,7 +2,7 @@
 
 (2) Aki nemzeti vagyonnak az e törvény hatálybalépését megelőzően kötött, e törvény hatálybalépésekor fennálló szerződés alapján a használója, 2012. december 31-éig köteles feltárni a 3. § (1) bekezdés 1. pontja szerint a tulajdonosi szerkezetét.
 
-(3) A (2) bekezdésben meghatározott kötelezettség elmulasztása esetén alkalmazandó jogkövetkezményt törvény állapítja meg.
+(3) A (2) bekezdésben meghatározott kötelezettség elmulasztása esetén a tulajdonosi joggyakorló a szerződést kártalanítás nélkül és azonnali hatállyal felmondja.
 
 (4) Amennyiben az állam vagy a helyi önkormányzat olyan gazdálkodó szervezetben rendelkezik társasági részesedéssel, amely társaság vagy valamely tagja nem felel meg e törvény átlátható szervezetre vonatkozó előírásainak, a társasági szerződést 2012. december 31-éig felülvizsgálja és kezdeményezi a gazdálkodó szervezet tulajdonosi szerkezetének e törvény átlátható szervezetre vonatkozó előírásainak megfelelő átalakítását.
 
