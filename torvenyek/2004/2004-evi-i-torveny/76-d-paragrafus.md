@@ -2,7 +2,7 @@
 
 ## NEMZETI SPORTINFORMÁCIÓS RENDSZER
 
-76/D. § (1) A nemzeti sportinformációs rendszer a sportolókra, a sportszakemberekre, a sportszervezetekre, a sportszövetségekre, a sportköztestületekre, ezek tevékenységére, valamint a sportlétesítményekre vonatkozó adatoknak a nyilvántartását szolgáló elektronikus nyilvántartási rendszer.
+76/D. § (1) A nemzeti sportinformációs rendszer a sportolókra, a sportszakemberekre, a sportszervezetekre, a sportszövetségekre, a sportköztestületekre, ezek tevékenységére, e szervezetek nevében a nemzeti sportinformációs rendszerbe történő adatszolgáltatási kötelezettséget teljesítő személyre, a sportlétesítményekre, sporteseményekre, sporteredményekre vonatkozó adatoknak a nyilvántartását szolgáló, továbbá az állami sportcélú támogatások elosztását és felhasználását támogató elektronikus nyilvántartási és folyamatkezelő rendszer.
 
 (2) A nemzeti sportinformációs rendszert a sportpolitikáért felelős miniszter működteti. A sportpolitikáért felelős miniszter e feladatkörében biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását.
 

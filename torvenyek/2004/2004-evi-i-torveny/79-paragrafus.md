@@ -34,6 +34,8 @@ bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységé
 
 bn) a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának részletes szabályait,
 
+bo) a regisztrált szabadidő-sportoló részére nyújtható támogatások és kedvezmények formáját, mértékét, igénybevételének feltételeit és módját,
+
 bp) a sportakadémiai minősítés megszerzésének feltételeit és eljárásrendjét, a sportakadémia működésére, valamint az általa biztosítandó feltételekre és szolgáltatásokra vonatkozó szempontrendszert, alapvető követelményeket és az azoknak való megfelelés ellenőrzésének rendjét,
 
 bq) a 30/B. § (2) bekezdése szerinti miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait, a kérelem formai követelményeit és a benyújtás módját.
@@ -44,7 +46,7 @@ a)
 
 b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
 
-c) az amatőr és a hivatásos sportolói versenyengedély kiadásának feltételeit.
+c)
 
 (3)
 
