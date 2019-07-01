@@ -34,7 +34,7 @@ a) kapcsoltan hőtermelést is végez, és a távhőszolgáltatásról szóló 1
 
 b) hulladékhőt, inert tartalmú földgázt, vagy megújuló energiát hasznosít, ezen energiahordozókkal bevitt energia arányában.
 
-(7)[^8]
+(7)[^8] Nem kell energiahordozó-készletet képezni a magánvezetékre kapcsolódó termelőnek, ha a névleges teljesítménye nem haladja meg a magánvezeték vételezőinek összesített névleges teljesítményigényét.
 
 [^1]: Az 1. § (1) bekezdése az 52/2017. (XII. 22.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés c) pontja a 28/2014. (IV. 30.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -43,4 +43,4 @@ b) hulladékhőt, inert tartalmú földgázt, vagy megújuló energiát hasznos�
 [^5]: Az 1. § (3) bekezdésének d) pontját a 104/2004. (IX. 3.) GKM rendelet 1. § (2) bekezdése iktatta be, e módosító rendelet 2. § (2) bekezdése hatályon kívül helyezte.
 [^6]: Az 1. § (4) bekezdése a 28/2014. (IV. 30.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (4a) bekezdését a 28/2014. (IV. 30.) NFM rendelet 1. § (3) bekezdése iktatta be.
-[^8]: Az 1. § (7) bekezdését az 52/2017. (XII. 22.) NFM rendelet 4. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (7) bekezdését az 52/2017. (XII. 22.) NFM rendelet 4. § a) pontja hatályon kívül helyezte, újonnan a 17/2019. (VI. 28.) ITM rendelet 1. §-a iktatta be.
