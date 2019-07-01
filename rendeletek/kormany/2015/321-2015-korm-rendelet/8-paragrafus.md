@@ -28,7 +28,7 @@ ib)[^14] a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az aján
 
 ic) a Kbt. 62. § (1) bekezdés k) pont kc) alpontjára vonatkozóan az ajánlattevő vagy részvételre jelentkező nyilatkozata arról, hogy van-e olyan jogi személy vagy személyes joga szerint jogképes szervezet, amely az ajánlattevőben, illetve részvételre jelentkezőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik; ha van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező azt nyilatkozatban megnevezi (cégnév, székhely), továbbá nyilatkozik, hogy annak vonatkozásában a Kbt. 62. § (1) bekezdés k) pont kc) alpontjában hivatkozott kizáró feltétel nem áll fenn;
 
-j)[^15] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint a Bevándorlási és Menekültügyi Hivatal honlapján közzétett adatokból;
+j)[^15] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint az idegenrendészeti szerv honlapján közzétett adatokból;
 
 k) a Kbt. 62. § (1) bekezdés m) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
@@ -43,5 +43,5 @@ o)[^16] a Kbt. 62. § (1) bekezdés q) pontja tekintetében az ajánlatkérő ne
 [^12]: A 8. § b) pontja a 475/2017. (XII. 28.) Korm. rendelet 61. § 1. pontja szerint módosított szöveg.
 [^13]: A 8. § f) pontja a 487/2016. (XII. 28.) Korm. rendelet 7. § (7) bekezdésével megállapított szöveg.
 [^14]: A 8. § i) pont ib) alpontja a 66/2019. (III. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^15]: A 8. § j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^15]: A 8. § j) pontja a 126/2019. (V. 30.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^16]: A 8. § o) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (8) bekezdése iktatta be.

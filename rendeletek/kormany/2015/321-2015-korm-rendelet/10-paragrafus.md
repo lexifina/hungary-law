@@ -20,7 +20,7 @@ gb)[^19] a Kbt. 62. § (1) bekezdés k) pont kb) alpontja tekintetében az aján
 
 gc) a Kbt. 62. § (1) bekezdés k) pont kc) pontja tekintetében az ajánlattevő vagy részvételre jelentkező nyilatkozata arról, hogy van-e olyan jogi személy vagy személyes joga szerint jogképes szervezet, amely az ajánlattevőben, illetve részvételre jelentkezőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik; ha van ilyen szervezet, az ajánlattevő vagy részvételre jelentkező azt nyilatkozatban megnevezi (cégnév, székhely), továbbá nyilatkozik, hogy annak vonatkozásában a Kbt. 62. § (1) bekezdés k) pont kc) alpontjában hivatkozott kizáró feltétel nem áll fenn;
 
-h)[^20] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint a Bevándorlási és Menekültügyi Hivatal honlapján közzétett adatokból;
+h)[^20] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiányát az ajánlatkérő ellenőrzi a munkaügyi hatóságnak a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 8/C. §-a szerint vezetett nyilvántartásából nyilvánosságra hozott adatokból, valamint az idegenrendészeti szerv honlapján közzétett adatokból;
 
 i) a Kbt. 62. § (1) bekezdés m) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
@@ -35,5 +35,5 @@ l)[^21] a Kbt. 62. § (1) bekezdés q) pontja tekintetében az ajánlatkérő ne
 [^17]: A 10. § (1) bekezdés b) pontja a 475/2017. (XII. 28.) Korm. rendelet 61. § 2. pontja, a 66/2019. (III. 27.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^18]: A 10. § (1) bekeztdés d) pontja a 487/2016. (XII. 28.) Korm. rendelet 7. § (9) bekezdésével megállapított szöveg.
 [^19]: A 10. § (1) bekezdés g) pont gb) alpontja a 66/2019. (III. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^20]: A 10. § (1) bekezdés h) alpontja a 379/2016. (XII. 2.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^20]: A 10. § (1) bekezdés h) pontja a 126/2019. (V. 30.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^21]: A 10. § (1) bekeztdés l) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (10) bekezdése iktatta be.
