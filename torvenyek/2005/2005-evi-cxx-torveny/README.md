@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-120-00-00
 | 2017-11-24 | 2017. évi CLXIII. törvény | 2005-120-00-00.21 |
 | 2018-01-01 | 2017. évi LXXVII. törvény | 2005-120-00-00.22 |
 | 2019-01-01 | 2018. évi XLI. törvény | 2005-120-00-00.23 |
+| 2019-07-01 | 2019. évi XLVIII. törvény | 2005-120-00-00.24 |
