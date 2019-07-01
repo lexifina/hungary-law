@@ -498,7 +498,7 @@
 
 ## k) ebből: életjáradék termőföldért,
 
-## l)[^394] ebből: Menekültügyi és Bevándorlási Hivatal által folyósított ellátások,
+## l)[^394] ebből: az idegenrendészeti szerv által folyósított ellátások,
 
 ## m) ebből: szépkorúak jubileumi juttatása,
 
@@ -2634,7 +2634,7 @@ Egységes számlatükör
 [^391]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K46. alpont e–f) alpontját a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 11. pontja hatályon kívül helyezte.
 [^392]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont K4. ELLÁTOTTAK PÉNZBELI JUTTATÁSAI alpont K48. alpontja a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 6. pontjával megállapított szöveg.
 [^393]: A 15. melléklet K4. Ellátottak pénzbeli juttatásai pont K48. h) alpontja a 449/2016. (XII. 19.) Korm. rendelet 24. §-a, a 380/2017. (XII. 11.) Korm. rendelet 6. § 12. pontja szerint módosított szöveg.
-[^394]: A 15. melléklet I. alcím K1–8. pont K4. alpont K48. pont l) pontja a 351/2016. (XI. 18.) Korm. rendelet 11. § 18. pontja szerint módosított szöveg.
+[^394]: A 15. melléklet I. alcím K1–8. pont l) alpontja a 126/2019. (V. 30.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^395]: A 15. melléklet I. alcím K1-8. alpont K5. pont K501. alpontja a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 4. pontjával megállapított szöveg.
 [^396]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1–8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K5. EGYÉB MŰKÖDÉSI CÉLÚ KIADÁSOK pont, K501. Nemzetközi kötelezettségek alpont b) pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 13. pontja szerint módosított szöveg.
 [^397]: A 15. melléklet I. alcím K1-8. alpont K5. pont K502. alpont megjelölést a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 4. pontja iktatta be.
