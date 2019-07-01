@@ -40,7 +40,7 @@
 
 18.[^203] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
 
-19.[^204] Bevándorlási és Menekültügyi Hivatal
+19.[^204] Országos Idegenrendészeti Főigazgatóság
 
 20.[^205] Nemzeti Védelmi Szolgálat
 
@@ -76,7 +76,7 @@
 
 36. Nemzeti park igazgatóságok
 
-37. Nemzeti Földalapkezelő Szervezet
+37.[^217] Nemzeti Földügyi Központ
 
 38. Országos Meteorológiai Szolgálat
 
@@ -86,7 +86,7 @@
 
 41. Kormányzati Informatikai Fejlesztési Ügynökség
 
-42.[^217] Magyar Bányászati és Földtani Szolgálat
+42.[^218] Magyar Bányászati és Földtani Szolgálat
 
 43. Országos Atomenergia Hivatal
 
@@ -107,7 +107,7 @@
 [^201]: Az 1. melléklet 16. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^202]: Az 1. melléklet 17. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^203]: Az 1. melléklet 18. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
-[^204]: Az 1. melléklet 19. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
+[^204]: Az 1. melléklet 19. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^205]: Az 1. melléklet 20. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^206]: Az 1. melléklet 21. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^207]: Az 1. melléklet 22. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
@@ -120,4 +120,5 @@
 [^214]: Az 1. melléklet 29. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontja iktatta be, szövege a 137/2019. (VI. 11.) Korm. rendelet 14. § s) pontja szerint módosított szöveg.
 [^215]: Az 1. melléklet 33. pontját a 311/2017. (X. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte.
 [^216]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
-[^217]: Az 1. melléklet 42. pontja a 162/2017. (VI. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^217]: Az 1. melléklet 37. pontja a 159/2019. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^218]: Az 1. melléklet 42. pontja a 162/2017. (VI. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
