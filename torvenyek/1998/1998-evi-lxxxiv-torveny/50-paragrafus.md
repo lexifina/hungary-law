@@ -4,10 +4,14 @@
 
 (2) A gyermekgondozási segélyt 2016. január 1-jétől gyermekgondozást segítő ellátásként kell továbbfolyósítani, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5)
 
-(6)–(7)
+(6)
+
+(7)
 
 (8)

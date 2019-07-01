@@ -2,11 +2,15 @@
 
 (2) A családtámogatási ellátásokat kormányrendeletben meghatározottak szerint kell folyósítani.
 
-(3)–(4)
+(3)
+
+(4)
 
 (4a)
 
-(5)–(6)
+(5)
+
+(6)
 
 (7)
 

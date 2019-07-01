@@ -10,4 +10,6 @@ bb) a családtámogatási ellátások igényléséhez szükséges formanyomtatv�
 
 c) a Kormány arra, hogy a 2. § a) pont ac)–af) alpontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg;
 
-d) a Kormány, hogy a családtámogatási ügyben eljáró hatóságot és a központi családtámogatási szervet rendeletben kijelölje.
+d) a Kormány, hogy a családtámogatási ügyben eljáró hatóságot és a központi családtámogatási szervet rendeletben kijelölje;
+
+e) a Kormány arra, hogy rendeletben szabályozza a babaváró támogatással nyújtott kölcsönhöz kapcsolódó állami kezességvállalás részletes szabályait.
