@@ -1,6 +1,6 @@
 ## II. Fejezet[^3]
 
-## AZ EGYES RENDVÉDELMI SZERVEK, VALAMINT A BEVÁNDORLÁSI ÉS MENEKÜLTÜGYI HIVATAL SPECIÁLIS HONVÉDELMI FELADATAI
+## AZ EGYES RENDVÉDELMI SZERVEK SPECIÁLIS HONVÉDELMI FELADATAI
 
 ## 3. A rendőrség
 
@@ -48,4 +48,4 @@ i) a sorozó és bevonulási helyek rendőri biztosítását, a sorozásra rende
 
 j) a hadkötelesek bevonulása során a bevonulási hely rendőri biztosítását, a be nem vonult hadkötelesek felkutatását.
 
-[^3]: A II. fejezet címe az 58/2016. (XII. 22.) BM rendelet 37. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A II. fejezet címe az 58/2016. (XII. 22.) BM rendelet 37. § (2) bekezdés b) pontja, a 27/2019. (VI. 28.) BM rendelet 34. § (2) bekezdés b) pontja szerint módosított szöveg.
