@@ -6,6 +6,6 @@
 
 (4)
 
-(5) A Tanács működésével kapcsolatos költségeket az NFA működési költségeitől elkülönítetten kell kezelni.
+(5) A Tanács működésével kapcsolatos költségeket az NFK működési költségeitől elkülönítetten kell kezelni.
 
-(6) A Tanács üléséről összefoglaló készül, melynek az NFA honlapján történő közzétételéről az NFA elnöke az ülés napjától számított öt munkanapon belül gondoskodik. Az összefoglaló tartalmazza az ülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére az ülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, továbbá a Tanács által hozott döntést tartalmazó iratoknak a Tanács elnöke általi aláírással ellátott eredeti egy-egy példányát.
+(6) A Tanács üléséről összefoglaló készül, melynek az NFK honlapján történő közzétételéről az NFK elnöke az ülés napjától számított öt munkanapon belül gondoskodik. Az összefoglaló tartalmazza az ülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére az ülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, továbbá a Tanács által hozott döntést tartalmazó iratoknak a Tanács elnöke általi aláírással ellátott eredeti egy-egy példányát.

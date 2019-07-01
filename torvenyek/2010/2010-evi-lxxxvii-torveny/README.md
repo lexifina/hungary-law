@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2019-01-11 | 2018. évi CXXXVI. törvény | 2010-87-00-00.31 |
 | 2019-04-19 | 2019. évi XXXI. törvény | 2010-87-00-00.32 |
 | 2019-04-28 | 2019. évi XL. törvény | 2010-87-00-00.33 |
+| 2019-07-01 | 2019. évi XL. törvény | 2010-87-00-00.34 |

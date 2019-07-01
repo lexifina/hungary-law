@@ -2,9 +2,9 @@
 
 a) elkészíti a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos – a földbirtok-politikai irányelveken alapuló – középtávú stratégiai tervét;
 
-b) érvényre juttatja az NFA tevékenysége során a Kormány által elfogadott középtávú stratégiát;
+b) érvényre juttatja az NFK-nak a Nemzeti Földalap feletti tevékenysége során a Kormány által elfogadott középtávú stratégiát;
 
-c) véleményezi – a középtávú stratégiában és Nemzeti Vidékfejlesztési Tervben megfogalmazott célkitűzések alapján – az NFA által készített, a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos éves tervet;
+c) véleményezi – a középtávú stratégiában és Nemzeti Vidékfejlesztési Tervben megfogalmazott célkitűzések alapján – az NFK által készített, a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos éves tervet;
 
 d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcsolatos egyedi ügyekben, ha az annak tárgyát képező földrészlet vagy földrészletek együttes értéke eléri a 100 millió forintot;
 
@@ -12,12 +12,12 @@ e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrés
 
 f) dönt a 20. § (1) és (2) bekezdése, és a 21. § (2), (3), (3a) és (3d), valamint a (4) és (5) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes ingatlanforgalmi értéke eléri az 1 millió forintot;
 
-g) véleményezi Nemzeti Földalap helyzetéről és az NFA tevékenységéről készült éves országgyűlési beszámoló tervezetét.
+g) véleményezi Nemzeti Földalap helyzetéről és az NFK tevékenységéről készült éves országgyűlési beszámoló tervezetét.
 
 h) az MNV Zrt.-vel közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint.
 
-i) javaslatot tesz az NFA elnöke által előterjesztett és a d)–f) és h) pontokba foglalt esetek alá nem tartozó, a földrészletek hasznosításával kapcsolatos kérdésekben.
+i) javaslatot tesz az NFK elnöke által előterjesztett és a d)–f) és h) pontokba foglalt esetek alá nem tartozó, a földrészletek hasznosításával kapcsolatos kérdésekben.
 
 (2) A Tanács ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
 
-(3) A Tanács tagjai – a Tanács elnökének és az NFA elnökének kivételével – tevékenységükért helyettes államtitkári illetménynek megfelelő összegű tiszteletdíjban részesülnek. A Tanács elnöke tevékenységéért államtitkári illetménynek megfelelő összegű tiszteletdíjban részesül.
+(3) A Tanács tagjai – a Tanács elnökének és az NFK elnökének kivételével – tevékenységükért helyettes államtitkári illetménynek megfelelő összegű tiszteletdíjban részesülnek. A Tanács elnöke tevékenységéért államtitkári illetménynek megfelelő összegű tiszteletdíjban részesül.

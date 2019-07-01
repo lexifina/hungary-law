@@ -2,6 +2,6 @@
 
 (2) A vagyonkezelésbe, illetve temető céljára a tulajdonba adás feltétele – a szociális földprogram, valamint közfoglalkoztatási program megvalósítása céljára vagyonkezelésbe adás kivételével – az ingatlanügyi hatóság által a termőföld más célú hasznosításának, illetve erdőművelési ágú földrészlet esetén az erdészeti hatóság által erdő igénybevételének engedélyezéséről hozott véglegessé vált határozat.
 
-(3) E § szerinti vagyonkezelésbe, illetve tulajdonba adásról az NFA javaslata alapján a Kormány nyilvános határozattal dönt.
+(3) E § szerinti vagyonkezelésbe, illetve tulajdonba adásról az NFK javaslata alapján a Kormány nyilvános határozattal dönt.
 
 (4) A földrészlet közfoglalkoztatási program megvalósítása céljából akkor adható az önkormányzat részére vagyonkezelésbe, ha arra a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó törvények módosításáról szóló törvényben meghatározott, közfoglalkoztatási jogviszony alapján ellátható feladat érdekében van szükség.

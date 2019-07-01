@@ -1,6 +1,6 @@
-34. § (1) A miniszter az NFA megalapítása érdekében szükséges intézkedéseket, valamint az NFA elnökének, elnökhelyettesének, a Tanács elnökének és – a jelölő miniszterekkel együtt – tagjainak kinevezésével kapcsolatos intézkedéseket legkésőbb az e törvény hatálybalépését követő napig megteszi. Az Országgyűlés mezőgazdasági ügyekkel foglalkozó bizottsága az ellenőrző bizottság tagjait legkésőbb az e törvény hatálybalépését követő napig megválasztja.
+34. § (1) A miniszter az NFK megalapítása érdekében szükséges intézkedéseket, valamint az NFK elnökének, elnökhelyettesének, a Tanács elnökének és – a jelölő miniszterekkel együtt – tagjainak kinevezésével kapcsolatos intézkedéseket legkésőbb az e törvény hatálybalépését követő napig megteszi. Az Országgyűlés mezőgazdasági ügyekkel foglalkozó bizottsága az ellenőrző bizottság tagjait legkésőbb az e törvény hatálybalépését követő napig megválasztja.
 
-(2) Az e törvény hatálya alá tartozó ingatlanokkal kapcsolatos jogok és kötelezettségek tekintetében az NFA a létrejöttének napjával jogutódja az MNV Zrt.-nek. A jogok és kötelezettségek átszállása nem minősül az MNV Zrt. által kötött szerződések módosításának. Az NFA e törvény szerinti megalapítása nem minősül a munkáltató személyében bekövetkező jogutódlásnak.
+(2) Az e törvény hatálya alá tartozó ingatlanokkal kapcsolatos jogok és kötelezettségek tekintetében az NFK a létrejöttének napjával jogutódja az MNV Zrt.-nek. A jogok és kötelezettségek átszállása nem minősül az MNV Zrt. által kötött szerződések módosításának. Az NFK e törvény szerinti megalapítása nem minősül a munkáltató személyében bekövetkező jogutódlásnak.
 
 (3) A feladatátadás végrehajtása érdekében az MNV Zrt.
 
@@ -16,14 +16,14 @@ e) a hatályos szerződéseiről jegyzéket készít és azok iratanyagát a tö
 
 f) a folyamatban lévő ügyek iratairól, valamint a minősített adatot tartalmazó iratokról iratjegyzéket készít, és azokat, valamint az irattárakat átadásra előkészíti,
 
-g) a folyamatban lévő ügyekből eredő pénzügyi követelésekkel és kötelezettségekkel az NFA-val 2010. december 31. napjáig elszámol.
+g) a folyamatban lévő ügyekből eredő pénzügyi követelésekkel és kötelezettségekkel az NFK-val 2010. december 31. napjáig elszámol.
 
 (4) A (3) bekezdésben foglaltak nem érintik e törvény 3. §-ában foglalt jogosultságokat, valamint azt, hogy az érintett vagyoni kör tekintetében a tulajdonosi jogok és kötelezettségek gyakorlására az e törvényben foglaltakat kell alkalmazni.
 
-(5) A társadalombiztosítás pénzügyi alapjainak kezelésében levő, a Magyar Állam tulajdonában álló termőföldet, valamint mező-, erdőgazdasági művelés alatt álló belterületi földet, és a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett területet e törvény hatálybalépését követő 60 napon belül az NFA részére át kell adni, melynek során a társadalombiztosítási pénzügyi alap részére az NFA a termőföld könyv szerinti értékét téríti meg.
+(5) A társadalombiztosítás pénzügyi alapjainak kezelésében levő, a Magyar Állam tulajdonában álló termőföldet, valamint mező-, erdőgazdasági művelés alatt álló belterületi földet, és a mező-, erdőgazdasági tevékenységet szolgáló, vagy ahhoz szükséges művelés alól kivett területet e törvény hatálybalépését követő 60 napon belül az NFK részére át kell adni, melynek során a társadalombiztosítási pénzügyi alap részére az NFK a termőföld könyv szerinti értékét téríti meg.
 
-(6) Az ingatlanügyi hatóság az NFA kérelmére gondoskodik a Nemzeti Földalapba tartozó földrészleteket érintően a (2) bekezdés szerinti, a tulajdonos joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
+(6) Az ingatlanügyi hatóság az NFK kérelmére gondoskodik a Nemzeti Földalapba tartozó földrészleteket érintően a (2) bekezdés szerinti, a tulajdonos joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
 
-(6a) Az ingatlanügyi hatóság az NFA és az MNV Zrt. közös kérelmére gondoskodik a 3. § (3) bekezdésében meghatározott ingatlanokat érintően a kettős tulajdonosi joggyakorlás miatt a tulajdonosi joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
+(6a) Az ingatlanügyi hatóság az NFK és az MNV Zrt. közös kérelmére gondoskodik a 3. § (3) bekezdésében meghatározott ingatlanokat érintően a kettős tulajdonosi joggyakorlás miatt a tulajdonosi joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
 
 (7) Az ingatlanügyi hatóság a (6) és (6a) bekezdés szerinti eljárásban meghozott döntését – a változás tulajdoni lapon történő átvezetését követően – kézbesíti a kérelmezőnek, és annak, akinek bejegyzett joga módosult vagy megszűnt.

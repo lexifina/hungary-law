@@ -1,1 +1,1 @@
-5. § A Kormány a miniszter útján évente beszámol az Országgyűlésnek a földbirtok-politikai irányelvek érvényesüléséről, a Nemzeti Földalap helyzetéről és az NFA tevékenységéről. A beszámolóhoz csatolni kell a Birtokpolitikai Tanács (a továbbiakban: Tanács) észrevételeit.
+5. § A Kormány a miniszter útján évente beszámol az Országgyűlésnek a földbirtok-politikai irányelvek érvényesüléséről, a Nemzeti Földalap helyzetéről és az NFK tevékenységéről. A beszámolóhoz csatolni kell a Birtokpolitikai Tanács (a továbbiakban: Tanács) észrevételeit.
