@@ -1,0 +1,5 @@
+## 30. § A 262/2010. (XI. 17.) Korm. rendelet 37. §-a helyébe a következő rendelkezés lép:
+
+## „37. § (1) Ha a haszonbérleti szerződés tárgyát képező földrészlet védett természeti területnek, Natura 2000 területnek, illetve vízvédelmi területnek minősül, vagy parti sávval, védetté nyilvánított régészeti lelőhellyel, régészeti védőövezettel, illetve műemlékkel érintett, úgy a feladatköre által érintett miniszter által a 3/A. §-ban foglaltak szerint adott előírásokat a haszonbérleti szerződésbe kell foglalni.
+
+## (2) Ha a védett természeti területnek, Natura 2000 területnek, erdőnek, illetve vízvédelmi területnek minősülő, vagy parti sávval, védetté nyilvánított régészeti lelőhellyel, régészeti védőövezettel, illetve műemlékkel érintett fölrészlet tulajdonjogának átruházását a feladatköre által érintett miniszter valamilyen hasznosítási feltételhez vagy előíráshoz köti, úgy az általa a 3. § (7) bekezdésében foglaltak szerint adott előírásokat az adásvételi, illetve egyéb tulajdon átruházást célzó szerződésbe kell foglalni.”

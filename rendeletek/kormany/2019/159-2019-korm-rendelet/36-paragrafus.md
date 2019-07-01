@@ -1,0 +1,1 @@
+## „(6) A pályázó a pályázatát a pályázat benyújtására nyitva álló határidőben, a pályázati azonosítószám feltüntetésével – az igazgatóság vezetőjének az (1) bekezdés szerinti eltérő döntése hiányában – elektronikus úton nyújthatja be.”
