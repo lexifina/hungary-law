@@ -1,4 +1,4 @@
-51. § (1) Az államtitkár alapilletménye a köztisztviselői illetményalap 12-szerese.
+51. § (1) Az államtitkár alapilletménye a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap 12-szerese.
 
 (2) Az államtitkár illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
 
