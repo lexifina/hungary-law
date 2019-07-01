@@ -1,6 +1,6 @@
 ## 8. A kihelyező, a kihelyezést módosító, az áthelyező és az értesítő okirat
 
-22. § (1) A kihelyezésről, a kihelyezés módosításáról, a tartós külszolgálat megszűnéséről vagy megszüntetéséről, továbbá a más külföldi állomáshelyre történő áthelyezésről szóló munkáltatói intézkedést írásba kell foglalni.
+22. § (1) A kihelyezésről, a kihelyezés módosításáról, a tartós külszolgálat megszűnéséről vagy megszüntetéséről, továbbá a más külföldi állomáshelyre történő áthelyezésről szóló munkáltatói intézkedést, illetve ezek módosításait, visszavonását írásba kell foglalni.
 
 (2) A kihelyezésre és a más külföldi állomáshelyre történő áthelyezésre vonatkozó okiratnak tartalmaznia kell a tartós külszolgálattal kapcsolatos minden lényeges adatot, így különösen a kihelyezett
 
@@ -18,7 +18,7 @@ f) állomáshelyére és visszautazásához, valamint a szabadságra történő 
 
 g) tartós külszolgálatának kezdő időpontját (kihelyezés napja), valamint a tartós külszolgálat megszüntetésének naptári évét, vagy a más külföldi állomáshelyre történő áthelyezés napját,
 
-h) biztonsági szolgálat ellátására vonatkozó kötelezettségét,
+h)
 
 i) egyéb jogosultságait és kötelezettségeit, valamint
 
@@ -30,7 +30,7 @@ a) a kihelyezés megszűnésének vagy megszüntetésének napját,
 
 b) a hazautazással kapcsolatos kötelezettségeket.
 
-(4) A kihelyező okirathoz csatolni kell a kihelyezett részletes munkaköri leírását, amely tartalmazza a helyettesítés rendjét is.
+(4) A kihelyezett munkaköri leírása kiadásának rendjét a kihelyező vezető normatív utasításban határozza meg.
 
 (5)
 

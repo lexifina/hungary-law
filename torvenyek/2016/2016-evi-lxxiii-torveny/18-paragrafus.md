@@ -1,4 +1,4 @@
-18. § (1) A tartós külszolgálat időtartama alatt a kihelyezett a fogadó államot – hivatalos és magáncélból egyaránt – a külképviselet-vezető engedélyével hagyhatja el. A külképviselet-vezető az állomáshely egyedi körülményeinek megfelelően a hivatali érdek figyelembevételével határozza meg a fogadó állam magáncélú elhagyása engedélyezésének rendjét. A külképviselet-vezető tekintetében az engedélyt a kihelyező vezető adja meg.
+18. § (1) A tartós külszolgálat időtartama alatt a kihelyezett a fogadó államot – hivatalos és magáncélból egyaránt – a külképviselet-vezető engedélyével hagyhatja el. A külképviselet-vezető az állomáshely egyedi körülményeinek megfelelően a hivatali érdek figyelembevételével belső utasításban határozza meg a fogadó állam magáncélú elhagyása engedélyezésének rendjét. A külképviselet-vezető tekintetében az engedélyt a kihelyező vezető adja meg.
 
 (2) A kihelyező vezető a kihelyezettet
 

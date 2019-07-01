@@ -1,6 +1,6 @@
-25. § (1) A kihelyezettet a devizailletményén túl a saját és hozzátartozói külföldi életvitelével kapcsolatos kiadásainak fedezésére, minden külképviselet vonatkozásában megállapított, a 23. § (1) bekezdés szerint választott devizanemben havonta folyósított átalány-költségtérítés (a továbbiakban: átalány-költségtérítés) illeti meg, kivéve, ha a 16. § (1) bekezdés a) pontja szerinti feltételnek nem felel meg és a kihelyező vezető e feltétel alól a 16. § (2) bekezdése alapján mentesítette. Házastársak egyazon külképviseletre, vagy egyazon állomáshely különböző külképviseleteire történő kihelyezése esetén az átalány-költségtérítés elemei a vegyes költségtérítés kivételével csak – a nyilatkozatukban megjelölt – egyik fél részére számfejthetők.
+25. § (1) A kihelyezettet a devizailletményén túl a saját és hozzátartozói külföldi életvitelével kapcsolatos kiadásainak fedezésére, minden külképviselet vonatkozásában megállapított, a 23. § (1) bekezdés szerint választott devizanemben havonta folyósított átalány-költségtérítés (a továbbiakban: átalány-költségtérítés) illeti meg, kivéve, ha a 16. § (1) bekezdés a) pontja szerinti feltételnek nem felel meg és a kihelyező vezető e feltétel alól a 16. § (2) bekezdése alapján mentesítette. Házastársak egyazon külképviseletre, vagy egyazon állomáshely különböző külképviseleteire történő kihelyezése esetén az átalány-költségtérítés elemei csak – a nyilatkozatukban megjelölt – egyik fél részére számfejthetők.
 
-(1a) Ha a kihelyezett állandó lakóhelye a fogadó államban van és a 16. § (2) bekezdése szerinti mentesítést megkapta, a (2) bekezdés a) pontja szerinti lakhatási és a (2) bekezdés c) pontja szerinti óvodáztatási és iskoláztatási költségtérítésre, valamint költségtérítés-kiegészítésekre nem jogosult.
+(1a) Ha a kihelyezett állandó lakóhelye a fogadó államban van és a 16. § (2) bekezdése szerinti mentesítést megkapta, a (2) bekezdés a) pontja szerinti lakhatási és a (2) bekezdés c) pontja szerinti gyermeknevelési költségtérítésre, valamint költségtérítés-kiegészítésekre nem jogosult.
 
 (2) Az átalány-költségtérítés
 
@@ -10,7 +10,7 @@ b) vegyes költségtérítésből, valamint
 
 c) a kihelyezett családi élethelyzetére tekintettel megállapított
 
-ca) óvodáztatási és iskoláztatási költségtérítésből (a továbbiakban: iskoláztatási költségtérítés), valamint
+ca) gyermeknevelési költségtérítésből, valamint
 
 cb) az a) és b) pontokhoz kapcsolódó költségtérítés-kiegészítésekből
 
@@ -18,19 +18,21 @@ cb) az a) és b) pontokhoz kapcsolódó költségtérítés-kiegészítésekből
 
 (3) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítés mértékét az egyes költségtérítések vonatkozásában megállapított költségtérítés-alapok, valamint az adott állomáshely tekintetében megállapított költségtérítés-szorzók szorzata adja.
 
-(3a) A külképviselet-vezető a (3) bekezdés szerint számolt mérték kétszeresének megfelelő vegyes költségtérítésre jogosult.
+(3a) A külképviselet-vezető a vegyes költségtérítés vonatkozásában megállapított költségtérítés-alap, valamint az adott állomáshely tekintetében megállapított költségtérítés-szorzó szorzata szerinti kétszeres vegyes költségtérítésre jogosult, ha az (1) bekezdés szerint az átalány-költségtérítés számfejtését a külképviselet-vezető önmaga számára igényli.
 
 (4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
 
-(5) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat állomáshelyén tartózkodó, a 2. § 8. pontja szerinti hozzátartozónak minősülő minden
+(5) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat állomáshelyén tartózkodó, a 2. § 8. pontja szerinti hozzátartozónak minősülő minden gyermek után
 
-a) gyermek után a (2) bekezdés a) pontja szerinti költségtérítés 10%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 15%-ának megfelelő költségtérítés-kiegészítés,
+a) a (2) bekezdés a) pontja szerinti költségtérítés 10%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 15%-ának megfelelő költségtérítés-kiegészítés,
 
-b) gyermek után a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 150%-ának megfelelő költségtérítés-kiegészítés, valamint
+b) a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 150%-ának megfelelő költségtérítés-kiegészítés, valamint
 
-c) az óvodai nevelésben részesülő, az alap- és középfokú tanulmányait folytató, huszonegyedik életévét be nem töltött gyermek után iskoláztatási költségtérítés
+c) a gyermek középfokú tanulmányainak befejezéséig, de legfeljebb huszonegyedik életévének betöltéséig gyermeknevelési költségtérítés
 
 illeti meg, ideértve azt az esetet is, ha a gyermek Magyarországon folytatja tanulmányait, de életvitelszerűen Magyarországgal szomszédos országban lévő állomáshelyen tartózkodik.
+
+(5a) A kihelyezettet az (5) bekezdés c) pontja szerinti gyermeknevelési költségtérítés 110%-ának megfelelő gyermeknevelési költségtérítés illeti meg, ha gyermekét egyedül neveli.
 
 (6) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat helyén tartózkodó nagykorú, tartósan beteg vagy súlyosan fogyatékos gyermeke után, aki a családok támogatásáról szóló törvény alapján saját jogán emelt összegű családi pótlékra jogosult, vagy a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásban vagy a vakok személyi járadékában, vagy a rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet alapján rokkantsági járadékban részesül
 
@@ -40,11 +42,11 @@ b) a (2) bekezdés b) pontja szerinti költségtérítés 150%-ának megfelelő 
 
 illeti meg.
 
-(7) Ha a kihelyezett részére az (5) bekezdés c) pontja szerint megállapított iskoláztatási költségtérítés egy évre vonatkoztatott összegének másfélszerese nem éri el az adott állomáshelyen elérhető – a magyar átlagszínvonalnak megfelelő – angol, francia, német, orosz vagy spanyol nyelvű és oktatási rendszerű óvoda, illetve alap- és középfokú képzési intézmények tandíjának éves mértékét, a kihelyezett részére a kihelyező szerv vezetője mérlegelési jogkörben az iskoláztatási költségtérítés összegét kiegészítheti. A kihelyezett a tanév közben történő kihelyezést követő harminc napon belül, illetve minden félév vagy szemeszter kezdetekor iskolalátogatási igazolással igazolja, hogy gyermeke nevelési-oktatási intézmény látogatási kötelezettségének az állomáshelyen vagy a 25. § (5) bekezdése szerint Magyarországon tesz eleget.
+(7) Ha a kihelyezett részére az (5) bekezdés c) pontja szerint megállapított gyermeknevelési költségtérítés egy évre vonatkoztatott összegének másfélszerese nem éri el az adott állomáshelyen elérhető – a magyar átlagszínvonalnak megfelelő – angol, francia, német, orosz vagy spanyol nyelvű és oktatási rendszerű óvoda, illetve alap- és középfokú képzési intézmények tandíjának éves mértékét, a kihelyezett részére a kihelyező szerv vezetője mérlegelési jogkörben a gyermeknevelési költségtérítés összegét kiegészítheti. A kihelyezett a tanév közben történő kihelyezést követő harminc napon belül, illetve minden félév vagy szemeszter kezdetekor iskolalátogatási igazolással igazolja, hogy gyermeke nevelési-oktatási intézmény látogatási kötelezettségének az állomáshelyen vagy a 25. § (5) bekezdése szerint Magyarországon tesz eleget.
 
-(8) Ha a kihelyezett írásbeli nyilatkozata alapján a kihelyezett házastársa is a kihelyezettel tartózkodik, a kihelyezett a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának megfelelő költségtérítés-kiegészítésre jogosult.
+(8) Ha a kihelyezett írásbeli nyilatkozata alapján a kihelyezett házastársa is a kihelyezettel tartózkodik, a kihelyezett a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának megfelelő költségtérítés-kiegészítésre jogosult. A házastárs után járó költségtérítés-kiegészítésre a (3a) bekezdésben foglaltak nem alkalmazhatók.
 
-(9) Az egyes külképviseletekhez tartozó lakhatási, vegyes, valamint iskoláztatási költségtérítés-szorzókat a külpolitikáért felelős miniszter rendeletben állapítja meg, amelynek mértékét szükség szerint, de legalább évente felülvizsgálja.
+(9) Az egyes külképviseletekhez tartozó lakhatási, vegyes, valamint gyermeknevelési költségtérítés-szorzókat a külpolitikáért felelős miniszter rendeletben állapítja meg, amelynek mértékét szükség szerint, de legalább évente felülvizsgálja.
 
 (10) Az átalány-költségtérítés összege a kihelyezett által tetszőlegesen meghatározott arányban és mértékben használható fel bárminemű költségének fedezésére, ilyen különösen az állomáshelyén való lakhatás, Magyarország és a külképviselet közötti utazások, ingóságainak szállítása, mobiltelefon-költsége, gépjármű-használattal kapcsolatban felmerülő költségek, valamint más jogszabályokban a kormányzati szolgálati jogviszonyban álló személyekre nézve biztosított pénzbeli és természetbeni juttatások, illetve egyéb munkáltatói kedvezmények.
 
@@ -56,7 +58,7 @@ illeti meg.
 
 (14) A kihelyező szerv a kihelyezett kérelmére – kizárólag gépkocsivásárlás céljára – a külpolitikáért felelős miniszter által kiadott rendeletben megállapított feltételekkel kölcsönt nyújthat, a kihelyezéstől számított egy éven belül.
 
-(15) Ha a kihelyezett hozzátartozója három egymást követő hónapban, vagy egy naptári negyedévben tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett a házastárs távolléte esetén a 24. § (7) bekezdés szerinti juttatásra nem jogosult.
+(15) Ha a kihelyezett házastársa egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett az adott hónapban a 24. § (7) bekezdése szerinti juttatásra nem jogosult.
 
 (16) Ha a kihelyezett jogosultsága a (15) bekezdés alapján a 24. § (7) bekezdés szerinti juttatásra három egymást követő hónapban megszűnik, a kihelyezett (15) bekezdés hozzátartozóját a kihelyező okiratból törölni kell.
 

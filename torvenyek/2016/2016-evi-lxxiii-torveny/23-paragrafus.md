@@ -22,18 +22,18 @@ b) a munkaköri osztályhoz tartozó szorzó
 
 szorzata határozza meg.
 
-(6) Az adott állomáshelyre vonatkozó deviza-alapilletményt
+(6) Az adott állomáshelyre vonatkozó deviza-alapilletmény
 
 a) a deviza-illetményalap, valamint
 
 b) az adott állomáshelyre megállapított ENSZ-szorzó
 
-szorzata határozza meg.
+szorzata alapján kerül meghatározásra.
 
 (7) A deviza-illetményalap összegét évente a központi költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi deviza-illetményalap.
 
 (8) Az egyes állomáshelyek tekintetében a következő költségvetési évre vonatkozó deviza-alapilletményt a külpolitikáért felelős miniszter a költségvetési törvény elfogadásától számított 45 napon belül rendeletben határozza meg, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével.
 
-(9) A kihelyező szerv – a kihelyezett kérelmére – a külpolitikáért felelős miniszter által megállapított rendelet szerinti mértékben és feltételekkel, kamatmentes illetmény- és költségtérítés-előleget nyújt.
+(9) A kihelyező szerv – a kihelyezett kérelmére – a külpolitikáért felelős miniszter által megállapított rendelet szerinti mértékben és feltételekkel, kamatmentes devizailletmény- és költségtérítés-előleget nyújt.
 
 (10) Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos és az intézetekben tartós külszolgálatot teljesítő diplomata rangjának megfelelő illetmény megállapításához a kultúráért felelős miniszter egyetértése szükséges.

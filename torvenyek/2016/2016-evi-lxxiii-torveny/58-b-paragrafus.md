@@ -1,0 +1,1 @@
+58/B. § E törvénynek az egyes közszolgálati tárgyú törvények módosításáról szóló 2019. évi LIX. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit a Módtv2. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.

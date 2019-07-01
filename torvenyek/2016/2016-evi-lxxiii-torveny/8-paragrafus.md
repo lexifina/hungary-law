@@ -1,5 +1,7 @@
 8. § (1) A külképviseleten diplomataként foglalkoztatott kormánytisztviselő a kihelyezési okiratában és a munkakörében meghatározott feladatok, továbbá a külképviselet-vezető által feladatkörébe rendelt egyéb feladatok ellátására a megszabott hivatali út betartásával köteles.
 
+(1a) A kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti tartós külszolgálati álláshelyen – a kormányzati igazgatásról szóló törvény rendelkezéseitől eltérően – a kihelyezett tartós külszolgálati munkaköri leírásában meghatározott feladatokat kell ellátni.
+
 (2) Vezető konzul azon diplomáciai képviseletre nevezhető ki, ahol – a vezető konzult is beleértve – legalább két konzul vagy legalább öt, konzuli feladatokat ellátó kihelyezett, külképviselet által foglalkoztatott munkavállaló vagy külképviselet által foglalkoztatott házastárs tevékenységének összehangolása céljából szükséges. Vezető konzullá nem önálló alkonzulátus vagy konzuli iroda vezetője is kinevezhető.
 
 (3) A szakdiplomáciai személyzet tagjainak feladatköre elsősorban az adott szakágazati feladatok ellátása, ugyanakkor munkakörük és a külképviselet-vezető utasítása alapján egyéb feladatot is elláthatnak.

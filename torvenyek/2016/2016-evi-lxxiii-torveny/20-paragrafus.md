@@ -12,7 +12,7 @@ e) a kihelyezett halálával
 
 szűnik meg.
 
-(2) A kihelyezés (1) bekezdés a) pontja szerinti megszűnésének évéről – a kihelyező okiratban foglaltakkal megegyezően, emlékeztető jelleggel – a kihelyező vezető a kihelyezettet a megszűnés évének kezdetét megelőző legkésőbb hat hónappal, a megszűnés pontos dátumáról pedig az azt megelőző legkésőbb két hónappal tájékoztatja.
+(2) A kihelyező vezető lehetőség szerint a kihelyezés (1) bekezdés a) pontja szerinti megszűnésének pontos dátumáról legkésőbb az azt megelőző két hónappal tájékoztatja a kihelyezettet.
 
 (3) A tartós külszolgálat
 
@@ -40,7 +40,7 @@ b) az illetékes foglalkozás-egészségügyi szolgálat által végzett kötele
 
 c) a (7) bekezdésében foglaltak alapján ezt kéri.
 
-(6) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt munkanapon belül a kormánytisztviselő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, a nyilatkozatát a kormányzati szolgálati jogviszonyról történő lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából a kormányzati igazgatásról szóló törvény alapján való besorolása szerinti illetményt kell figyelembe venni.
+(6) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt munkanapon belül a kormánytisztviselő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, a nyilatkozatát a kormányzati szolgálati jogviszonyról történő lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából 11. § (4) bekezdése szerinti illetményt kell figyelembe venni.
 
 (7) A kihelyezett írásban kérheti a kihelyezés megszüntetését és a külképviseletről történő hazarendelését. Az erre vonatkozó kérelmet a kihelyező vezető annak kézhezvételétől számított 30 napon belül elbírálja és a kihelyezett hazarendelését elrendeli.
 

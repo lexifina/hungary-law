@@ -44,7 +44,9 @@ n) kizárólag gépkocsivásárlás céljára nyújtható kölcsön, valamint
 
 o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
-p) a külügyi szakmai vizsga
+p) a külügyi szakmai vizsga,
+
+q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett orvosi vizsgálat
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -70,7 +72,9 @@ i) az állandó képviseleti devizapótlék megállapításának további felté
 
 j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
-k) a költözési költségtérítés
+k) a költözési költségtérítés,
+
+l) az árfolyam-kompenzáció feltételeinek és mértékének
 
 részletes szabályait rendeletben állapítsa meg.
 

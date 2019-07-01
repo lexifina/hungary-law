@@ -4,4 +4,4 @@
 
 (2) Az (1) bekezdés szerinti helyettesítéssel az adott munkakör legfeljebb egy évig látható el. Egy éven túl a munkakört pályázat vagy kijelölés útján be kell tölteni vagy meg kell szüntetni.
 
-(3) Külön díjazás kizárólag a 90. napot meghaladó helyettesítési időre jár, amelynek mértéke a kihelyezett devizailletményének 20%-a.
+(3) Külön díjazás helyettesítési időre nem jár, a külképviseleti munkaszervezésért a külképviselet-vezető felelős.

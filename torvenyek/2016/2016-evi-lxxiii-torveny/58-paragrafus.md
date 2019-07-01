@@ -14,6 +14,8 @@
 
 (6) Az e törvény hatálybalépésekor munkaviszony keretében tartós külszolgálatot teljesítő kihelyezett tekintetében e törvény rendelkezéseit munkakörének megfelelően kell alkalmazni azzal, hogy jogviszonya nem alakul át kormányzati szolgálati jogviszonnyá.
 
+(6a) A (6) bekezdés szerinti, a külpolitikáért felelős miniszter által vezetett minisztériummal mint kihelyező szervvel határozatlan idejű munkaviszonyban álló kihelyezettek munkaviszonyára a 21. §-t kell alkalmazni.
+
 (7) A kihelyező vezető az EU ÁK kimagasló teljesítményt nyújtó, illetve jelentős diplomáciai vagy európai uniós szakmai tapasztalattal rendelkező diplomatája és szakdiplomatája részére 2017. július 31-ig személyi illetményt állapíthat meg.
 
 (8) A (7) bekezdés szerinti személyi illetmény bármikor visszavonható, ami nem minősül a kihelyező okirat módosításának.
