@@ -14,12 +14,15 @@ ab) terrorizmust elhárító szervnél szolgálatot teljesítő hivatásos állo
 
 ac) belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél szolgálatot teljesítő hivatásos állományúak esetében a Nemzeti Védelmi Szolgálat (a továbbiakban: NVSZ) személyügyi szerve,
 
+ad)[^18] idegenrendészeti szervnél szolgálatot teljesítő hivatásos állomány esetében az Országos Idegenrendészeti Főigazgatóság (a továbbiakban: OIF) személyügyi szerve,
+
 b) a büntetés-végrehajtási szervezet esetében a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP) személyügyi szerve,
 
 c) a hivatásos katasztrófavédelmi szervek esetében a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) személyügyi szerve,
 
-d)[^18] az AH, az NBSZ, valamint a TIBEK állománya esetében a helyi személyügyi szerv
+d)[^19] az AH, az NBSZ, valamint a TIBEK állománya esetében a helyi személyügyi szerv
 
 [^16]: A 3. § (2) bekezdése a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^17]: A 3. § (4) bekezdés a) pont aa) alpontja a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés c) pontja szerint módosított szöveg.
-[^18]: A 3. § (4) bekezdés d) pontja a 29/2016. (VII. 15.) BM rendelet 17. §-ával megállapított szöveg.
+[^18]: A 4. § a) pont ad) alpontját a 27/2019. (VI. 28.) BM rendelet 20. §-a iktatta be.
+[^19]: A 3. § (4) bekezdés d) pontja a 29/2016. (VII. 15.) BM rendelet 17. §-ával megállapított szöveg.
