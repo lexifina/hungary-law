@@ -1,0 +1,3 @@
+22. § A Külszoltv. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kihelyezett a tartós külszolgálatának időtartama alatt havonta devizailletményre és átalány-költségtérítésre (a továbbiakban együtt: díjazás) jogosult. A díjazás forintban kerül megállapításra, számfejtésre, illetve egész forintra kerekítve kerül folyósításra legkésőbb a tárgyhót követő hónap 15. napjáig a kihelyezett részére. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő devizailletmény-megállapításnak. A kihelyezett részére tartós külszolgálata idejére a kormányzati igazgatásról szóló törvény szerinti besorolása alapján megállapított belföldi illetménye és a 11. § (4) bekezdése szerinti illetménye nem jár.”

@@ -1,0 +1,3 @@
+10. § Az NKE tv. 31. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató, valamint a doktori képzésben részt vevő hivatásos vagy szerződéses állományú hallgató külföldi tanulmányokat a Magyar Honvédség parancsnokának engedélyével folytathat. A honvédtiszti alap- és mesterképzésben részt vevő hallgató esetében vendéghallgatói és további (párhuzamos) hallgatói jogviszony létesítéséhez, valamint a további szakképesítés, illetve szakképzettség megszerzéséhez szükséges tanulmányok folytatásához a Magyar Honvédség személyügyi szerve vezetőjének előzetes engedélye szükséges.”
