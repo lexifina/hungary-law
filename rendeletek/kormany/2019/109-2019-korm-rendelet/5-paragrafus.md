@@ -1,0 +1,1 @@
+## 4. § Az R. 2. § (4) bekezdésében az „az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet” szövegrész helyébe az „az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet (a továbbiakban: 16/2016. (II. 10.) Korm. rendelet)” szöveg lép.
