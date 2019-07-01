@@ -1,1 +1,0 @@
-## „(4) A tulajdonosi joggyakorló a Vtv. 33. § (2) bekezdése szerinti értékesítésre vonatkozó megbízási szerződés tervezetének megküldéséről a központi költségvetési szerv ez irányú kezdeményezésétől számított harminc napon belül gondoskodik.”

@@ -1,3 +1,0 @@
-## 7. § A Vhr. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az Nvtv. 11. § (9) bekezdése szerinti esetben a tulajdonosi joggyakorlóval kötött vagyonkezelési szerződésben az átruházással érintett vagyonelemek tekintetében az új vagyonkezelő a régi vagyonkezelő helyébe lép. Az új vagyonkezelő a felek személyében bekövetkezett változásról annak hatálybalépésétől számított tizenöt napon belül írásban értesíti a tulajdonosi joggyakorlót, aki a szükséges dokumentumok és információk hiánytalan rendelkezésre állását követően elkészíti a vagyonkezelési szerződés módosításának tervezetét.”
