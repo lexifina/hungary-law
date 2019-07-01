@@ -1,10 +1,10 @@
 ## 4. § A nyilvántartás a földrészlethez kapcsolódó alábbi jogokat (terheket) és az ezekkel kapcsolatos adatokat tartalmazza:
 
-a)[^2] az állam tulajdonszerzésének jogcímét és időpontját;
+a)[^4] az állam tulajdonszerzésének jogcímét és időpontját;
 
-b)[^3] az államot megillető tulajdoni hányadot;
+b)[^5] az államot megillető tulajdoni hányadot;
 
-c)[^4] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett (feljegyzett):
+c)[^6] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett (feljegyzett):
 
 ca) földhasználati jogot,
 
@@ -18,7 +18,7 @@ ce) végrehajtási jogot;
 
 d) az ingatlant terhelő telki szolgalmi jogot;
 
-e)[^5] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére feljegyzett elidegenítési és terhelési tilalmat;
+e)[^7] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére feljegyzett elidegenítési és terhelési tilalmat;
 
 f) ha a földrészleten vagyonkezelői jog áll fenn:
 
@@ -62,10 +62,10 @@ ib) a megbízás kezdő és lejárati időpontját,
 
 ic) a megbízási szerződés szerinti ellenértéket.
 
-j)[^6] a földrészletekhez kapcsolódó egyéb vagyoni értékű jog megnevezését, annak jogosultját, a jog tartalmára vonatkozó lényeges információkat.
+j)[^8] a földrészletekhez kapcsolódó egyéb vagyoni értékű jog megnevezését, annak jogosultját, a jog tartalmára vonatkozó lényeges információkat.
 
-[^2]: A 4. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
-[^3]: A 4. § b) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § c) pontja szerint módosított szöveg.
-[^4]: A 4. § c) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
-[^5]: A 4. § e) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
-[^6]: A 4. § j) pontját a 161/2011. (VIII. 18.) Korm. rendelet 25. §-a iktatta be.
+[^4]: A 4. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § b) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § c) pontja szerint módosított szöveg.
+[^6]: A 4. § c) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § e) pontja a 221/2014. (IX. 4.) Korm. rendelet 539. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § j) pontját a 161/2011. (VIII. 18.) Korm. rendelet 25. §-a iktatta be.
