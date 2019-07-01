@@ -1,4 +1,4 @@
-## 28. §[^151] A menekültként elismert személy, az oltalmazottként elismert személy és a menedékes egyszeri visszautazásra jogosító úti okmányát, a bevándorolt, letelepedett jogállású személynek és hontalanként elismert személynek egyszeri visszautazásra kiadott úti okmányát, a menedékesek úti okmányát a Magyarország területére való visszatéréskor le kell adni, amit a rendőrség elismervény ellenében elvesz és azt a Bevándorlási és Menekültügyi Hivatalnak haladéktalanul megküldi.
+## 28. §[^151] A menekültként elismert személy, az oltalmazottként elismert személy és a menedékes egyszeri visszautazásra jogosító úti okmányát, a bevándorolt, letelepedett jogállású személynek és hontalanként elismert személynek egyszeri visszautazásra kiadott úti okmányát, a menedékesek úti okmányát a Magyarország területére való visszatéréskor le kell adni, amit a rendőrség elismervény ellenében elvesz és azt az Országos Idegenrendészeti Főigazgatóságnak haladéktalanul megküldi.
 
 ## HIVATALOS ÚTLEVELEK ÉS A HATÁRÁTLÉPÉSI IGAZOLVÁNY NYILVÁNTARTÁSA, KEZELÉSE
 
@@ -32,7 +32,7 @@ d) az úti okmányt haladéktalanul megküldi az útlevélhatóságnak, ha az ar
 
 (4) Az útlevélhatóság az utazást elrendelő szervtől az (1) bekezdés a)–d) pontjában, az Országgyűlés Hivatalától a (2) bekezdés a)–c) pontjában meghatározott, a kiadásra javaslatot tevő szervtől a (3) bekezdés a)–d) pontjában meghatározott adatokat kérhet.
 
-[^151]: A 28. § a 134/2017. (VI. 9.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^151]: A 28. § a 134/2017. (VI. 9.) Korm. rendelet 1. § (5) bekezdésével megállapított, a 126/2019. (V. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^152]: A 29. §-t a 360/2011. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
 [^153]: A 29. § (1) bekezdés nyitó szövegrésze a 170/2014. (VII. 18.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
 [^154]: A 29. § (2) bekezdés nyitó szövegrésze a 170/2014. (VII. 18.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
