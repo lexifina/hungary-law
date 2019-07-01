@@ -1,1 +1,3 @@
-40. §
+40. § Az Stv. 76/D. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nemzeti sportinformációs rendszer a sportolókra, a sportszakemberekre, a sportszervezetekre, a sportszövetségekre, a sportköztestületekre, ezek tevékenységére, e szervezetek nevében a nemzeti sportinformációs rendszerbe történő adatszolgáltatási kötelezettséget teljesítő személyre, a sportlétesítményekre, sporteseményekre, sporteredményekre vonatkozó adatoknak a nyilvántartását szolgáló, továbbá az állami sportcélú támogatások elosztását és felhasználását támogató elektronikus nyilvántartási és folyamatkezelő rendszer.”
