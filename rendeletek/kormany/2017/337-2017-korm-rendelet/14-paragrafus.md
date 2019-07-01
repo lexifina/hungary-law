@@ -10,4 +10,6 @@
 
 (5) A támogatás igénybevételével történő előtörlesztés esetén a folyósítást követő 10 napon belül a pénzügyi intézmény köteles változatlan futamidő mellett a támogatott személy havi törlesztőrészleteit újraszámolni és arról a támogatott személyt és a járási hivatalt értesíteni.
 
-(6) Az (5) bekezdés szerinti értesítésben és azt követően évente legalább egy alkalommal a pénzügyi intézmény tájékoztatja a támogatott személyt arról, hogy az e rendelet szerinti előtörlesztéssel összefüggésben – megjelölve a támogatás összegét és az előtörlesztés díját is – a támogatott személy mekkora összegű támogatásban részesült, és a támogatást Magyarország Kormánya biztosította.
+(6)[^6] Az (5) bekezdés szerinti értesítésben és azt követően évente legalább egy alkalommal a pénzügyi intézmény tájékoztatja a támogatott személyt arról, hogy az e rendelet szerinti előtörlesztéssel összefüggésben – megjelölve a támogatás összegét és az előtörlesztés díját is – a támogatott személy mekkora összegű támogatásban részesült, a támogatás igénybevétele nélkül mekkora lenne a fennálló tartozásának az összege, továbbá hogy a támogatást Magyarország Kormánya biztosította.
+
+[^6]: A 14. § (6) bekezdése a 46/2019. (III. 12.) Korm. rendelet 16. §-ával megállapított szöveg.

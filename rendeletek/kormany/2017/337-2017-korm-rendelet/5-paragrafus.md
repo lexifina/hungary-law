@@ -1,0 +1,1 @@
+5. § A támogatás elsősorban az igénylő jelzáloghitel-szerződéséből eredő tőketartozása csökkentésére használható fel, amennyiben pedig a tőketartozás összege nem éri el a támogatás összegét, úgy a támogatás a tőketartozás járulékai – ide nem értve a késedelmi kamatot – csökkentésére használható fel.

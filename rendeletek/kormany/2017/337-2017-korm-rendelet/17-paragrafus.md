@@ -1,5 +1,3 @@
-## 16. § A járási hivatal döntésével szemben másodfokon Budapest Főváros Kormányhivatala jár el.
-
 ## 9. A támogatás központi költségvetéssel való elszámolásának szabályai
 
 17. § (1) A támogatásra való jogosultság megállapítását a járási hivatal, a támogatás központi költségvetéssel való elszámolását a pénzügyi intézmény végzi.

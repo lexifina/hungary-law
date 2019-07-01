@@ -1,6 +1,6 @@
 ## 12. Vegyes rendelkezések
 
-## 24. § A járási hivatal, valamint Budapest Főváros Kormányhivatala e rendeletben szabályozott hatósági eljárása során
+24. § A járási hivatal, valamint Budapest Főváros Kormányhivatala e rendeletben szabályozott hatósági eljárása során
 
 a) az igénylőt hiánypótlásra legfeljebb két alkalommal felhívhatja,
 

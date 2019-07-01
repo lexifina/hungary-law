@@ -1,5 +1,3 @@
-## 5. § A támogatás elsősorban az igénylő jelzáloghitel-szerződéséből eredő tőketartozása csökkentésére használható fel, amennyiben pedig a tőketartozás összege nem éri el a támogatás összegét, úgy a támogatás a tőketartozás járulékai – ide nem értve a késedelmi kamatot – csökkentésére használható fel.
-
 6. § (1) A támogatásra való jogosultság feltétele az igénylőnek vagy együttes igénylés esetén az igénylők egyikének az e rendelet hatálybalépését követően született vér szerinti vagy örökbefogadott gyermeke, valamint a kérelem benyújtásának időpontjában a várandósság legalább 12. hetét betöltött magzata.
 
 (2) Az e rendelet hatálybalépését követően született ugyanazon gyermek támogatására kizárólag egy alkalommal és egy lakáscélú jelzáloghitel vonatkozásában igényelhető a támogatás.
@@ -12,7 +10,7 @@
 
 (6) A gyermekszám számításánál a következő szempontokat kell figyelembe venni:
 
-a) gyermeknek – a (7) bekezdésben foglalt kivétellel – az igénylővel közös háztartásban élő gyermek minősül,
+a)[^2] gyermeknek – a (7) bekezdésben foglalt kivétellel – az igénylővel közös háztartásban élő gyermek, a halva született gyermek, továbbá az élve született és időközben elhalálozott gyermek minősül,
 
 b) a gyermek csak ugyanazon igénylő által több (1) bekezdés szerinti gyermekre tekintettel benyújtott külön kérelem vonatkozásában vehető ismételten figyelembe,
 
@@ -20,6 +18,15 @@ c) a más személy által igényelt támogatásnál már számításba vett gyer
 
 d) házastársak, illetve élettársak együttes igénylése esetén a velük közös háztartásban élő közös, valamint nem közös gyermekeket együttesen kell figyelembe venni.
 
-(7) Annak tényét, hogy a gyermek az igénylővel közös háztartásban él, a gyermek nagykorúvá válását követően nem kell figyelembe venni.
+(7)[^3] Annak tényét, hogy a gyermek az igénylővel közös háztartásban él,
+
+a) a gyermek nagykorúvá válását követően és
+
+b) a gyermek halva születése vagy az élve született gyermek elhalálozása esetében
+
+nem kell figyelembe venni.
 
 (8) Ha az (1) bekezdés szerinti örökbefogadott gyermek vonatkozásában az örökbefogadást a támogatást megállapító határozat véglegessé válását követő két éven belül felbontják, a felbontás tényét a támogatott személy a határozat jogerőre emelkedését követő 30 napon belül köteles a járási hivatalnak bejelenteni. A járási hivatal intézkedik a támogatás Ptk. szerinti késedelmi kamattal növelten történő visszafizetése érdekében.
+
+[^2]: A 6. § (6) bekezdés a) pontja a 46/2019. (III. 12.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^3]: A 6. § (7) bekezdése a 46/2019. (III. 12.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.

@@ -26,7 +26,7 @@ bd) személyi azonosító jel és
 
 be) adóazonosító jel
 
-## a támogatás szabályszerű igénybevételének ellenőrzése céljából a járási hivatal kezelje és továbbítsa a pénzügyi intézmény, Budapest Főváros Kormányhivatala, a Magyar Államkincstár (a továbbiakban: Kincstár), a Belügyminisztérium, valamint az állami adó- és vámhatóság részére.
+a támogatás szabályszerű igénybevételének ellenőrzése céljából a járási hivatal kezelje és továbbítsa a pénzügyi intézmény, Budapest Főváros Kormányhivatala, a Magyar Államkincstár (a továbbiakban: Kincstár), a Belügyminisztérium, valamint az állami adó- és vámhatóság részére.
 
 (2) Az igénylő a kérelemben – az a) pont ac) alpontja szerinti adatkérés tekintetében a kérelemhez mellékelt közokiratba vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozattal – hozzájárul ahhoz, hogy a járási hivatal a támogatásra jogosultság alábbi feltételeinek meglétét a következők szerint:
 

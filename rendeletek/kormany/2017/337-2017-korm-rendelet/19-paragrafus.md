@@ -1,5 +1,3 @@
-## 18. § A támogatást az állam nevében a pénzügyi intézmény elszámolása alapján a Kincstár nyújtja.
-
 19. § (1) A pénzügyi intézmény e rendelet szerinti elszámolását a Kincstár ellenőrzi.
 
 (2) A pénzügyi intézménynek regisztrálnia kell a Kincstár honlapján található adatszolgáltatási felületen (a továbbiakban: eAdat).

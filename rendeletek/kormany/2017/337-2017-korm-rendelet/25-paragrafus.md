@@ -1,0 +1,1 @@
+25. § Az e rendelet szerinti támogatást is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszerek üzemeltetéséről és fejlesztéséről – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a Kincstár gondoskodik.

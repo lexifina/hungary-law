@@ -1,5 +1,3 @@
-## 25. § Az e rendelet szerinti támogatást is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszerek üzemeltetéséről és fejlesztéséről – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a Kincstár gondoskodik.
-
 26. § (1) A járási hivatalnak a lakáscélú állami támogatásokkal kapcsolatban e rendelet alapján
 
 a) ellátott feladatkörei gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja,

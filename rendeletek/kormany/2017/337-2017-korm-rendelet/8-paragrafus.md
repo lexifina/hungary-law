@@ -1,6 +1,6 @@
 ## 5. A támogatás igénylésének feltételei
 
-## 8. § Az igénylő a következő feltételek teljesítése esetén jogosult a támogatásra:
+8. § Az igénylő a következő feltételek teljesítése esetén jogosult a támogatásra:
 
 a) az igénylő büntetőjogi felelősségét a bíróság az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet [a továbbiakban: 16/2016. (II. 10.) Korm. rendelet] 1. melléklete szerinti bűncselekmény elkövetése miatt jogerősen
 

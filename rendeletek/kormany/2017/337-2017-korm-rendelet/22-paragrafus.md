@@ -6,7 +6,7 @@ a) nem teljesítése esetén a támogatásnak vagy
 
 b) hiányos vagy hibás teljesítése esetén a hiányos adatszolgáltatással érintett támogatásnak
 
-## a pénzügyi intézmény részére történő folyósítását – a Kincstár megkeresésére – felfüggeszti, a kifizethető tételek összegéről a Kincstárt írásban értesíti.
+a pénzügyi intézmény részére történő folyósítását – a Kincstár megkeresésére – felfüggeszti, a kifizethető tételek összegéről a Kincstárt írásban értesíti.
 
 (3) A (2) bekezdés b) pontja szerinti felfüggesztés esetén a támogatás folyósítása a hiányos vagy hibás adatszolgáltatás pótlását követő havi elszámolás szerinti folyósítással egyidejűleg történik.
 
