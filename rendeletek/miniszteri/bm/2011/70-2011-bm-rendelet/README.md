@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-70-20-0
 | 2017-01-01 | 2011-70-20-0A.11 | 55/2016. (XII. 22.) BM rendelet |
 | 2018-01-01 | 2011-70-20-0A.12 | 44/2017. (XII. 29.) BM rendelet |
 | 2019-03-12 | 2011-70-20-0A.13 | 71/2013. (XII. 16.) BM rendelet |
+| 2019-07-01 | 2011-70-20-0A.14 | 43/2012. (VIII. 23.) BM rendelet |
