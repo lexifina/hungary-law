@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-6-20-53
 | --- | --- | --- |
 | 2019-06-08 | 2019-6-20-53.1 | 6/2019. (VI. 7.) PM rendelet |
 | 2019-06-09 | 2019-6-20-53.2 | 2010: CXXX. törvény |
+| 2019-07-01 | 2019-6-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
