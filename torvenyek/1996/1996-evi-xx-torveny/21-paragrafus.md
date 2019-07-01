@@ -2,7 +2,7 @@
 
 ## A TAJ szám és annak használata
 
-21. § (1) A TAJ számot az egészségbiztosítási szerv képezi.
+21. § (1) A TAJ számot a kincstár képezi.
 
 (2) A 8. § (1) bekezdés szerinti hatósági igazolvány tartalma:
 
@@ -34,6 +34,8 @@ f) a hatósági bizonyítvány kiállításának időpontja.
 
 (6) E törvény 8. §-ának (1) bekezdése szerinti hatósági igazolvánnyal esik egy tekintet alá a külön törvény szerint kiállított, az egészségügyi szolgáltatásra való jogosultságot is igazoló okirat.
 
-(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint lakcímét közli az egészségbiztosítási szervvel. Az újszülött részére az egészségbiztosítási szerv a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv adatszolgáltatása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
+(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint lakcímét közli a kincstárral a TAJ-szám képzésével és nyilvántartásával kapcsolatos feladatok ellátása céljából.
+
+(7a) Az újszülött részére az egészségbiztosítási szerv a kincstár adatátadása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
 
 (8) Amennyiben a rendőrség tudomást szerez a TAJ számot tartalmazó hatósági igazolvány eltulajdonításáról, haladéktalanul értesíti az egészségbiztosítási szervet.
