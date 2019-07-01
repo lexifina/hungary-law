@@ -1,10 +1,10 @@
-12. § (1) Az NFA megbízásából tulajdonosi ellenőrzést végző személy jogosult:
+12. § (1)[^39] Az NFK megbízásából tulajdonosi ellenőrzést végző személy jogosult:
 
 a) az ellenőrzés tárgyához kapcsolódó iratokba és más dokumentumokba, elektronikus adathordozón tárolt adatokba – a jogszabályokban meghatározott adat- és titokvédelmi előírások betartásával – betekinteni, azokról másolatot, kivonatot, illetve tanúsítványt készíttetni,
 
 b) az önkormányzattól írásban vagy szóban felvilágosítást, tájékoztatást, információt, nyilatkozatot kérni.
 
-(2) Az NFA megbízásából tulajdonosi ellenőrzést végző személy köteles:
+(2)[^40] Az NFK megbízásából tulajdonosi ellenőrzést végző személy köteles:
 
 a) tevékenységének megkezdéséről az önkormányzatot az ellenőrzés megkezdése előtt legalább nyolc nappal tájékoztatni, és megbízólevelét az ellenőrzés megkezdésekor bemutatni,
 
@@ -28,8 +28,14 @@ c) az ellenőrzést végző kérésére a rendelkezésre bocsátott dokumentáci
 
 d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket megteremteni,
 
-e) az ellenőrzés megállapításai, javaslatai alapján tett intézkedéseiről az NFA-t tájékoztatni.
+e)[^41] az ellenőrzés megállapításai, javaslatai alapján tett intézkedéseiről az NFK-t tájékoztatni.
 
-(5) A (4) bekezdés e) pontjában említett intézkedések végrehajtását, az ellenőrzés során tett megállapítások, javaslatok hasznosulását az NFA szükség esetén utóellenőrzés keretében megvizsgálja.
+(5)[^42] A (4) bekezdés e) pontjában említett intézkedések végrehajtását, az ellenőrzés során tett megállapítások, javaslatok hasznosulását az NFK szükség esetén utóellenőrzés keretében megvizsgálja.
 
-(6) Ha a tulajdonosi ellenőrzés eredményeként az NFA megállapítja a földrészlet adatainak változását, a hatósági nyilvántartásokkal összefüggő eljárást kezdeményez, illetve a Nemzeti Földalap vagyonnyilvántartásában a változás átvezetéséről intézkedik.
+(6)[^43] Ha a tulajdonosi ellenőrzés eredményeként az NFK megállapítja a földrészlet adatainak változását, a hatósági nyilvántartásokkal összefüggő eljárást kezdeményez, illetve a Nemzeti Földalap vagyonnyilvántartásában a változás átvezetéséről intézkedik.
+
+[^39]: A 12. § (1) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 42. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^40]: A 12. § (2) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 42. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^41]: A 12. § (4) bekezdés e) pontja a 159/2019. (VI. 28.) Korm. rendelet 42. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^42]: A 12. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^43]: A 12. § (6) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
