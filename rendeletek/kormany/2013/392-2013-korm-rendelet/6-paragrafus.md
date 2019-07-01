@@ -2,7 +2,7 @@
 
 a)[^17] természetes személyazonosító és lakcímadatokat a személyi adat- és lakcímnyilvántartásért felelős miniszter által vezetett nyilvántartásból,
 
-b)[^18] Társadalombiztosítási Azonosító Jelet a Nemzeti Egészségbiztosítási Alapkezelő nyilvántartásából
+b)[^18] Társadalombiztosítási Azonosító Jelet a Magyar Államkincstár TAJ szám nyilvántartásából
 
 ## való adatigénylés útján ellenőrzi.
 
@@ -14,6 +14,6 @@ b)[^18] Társadalombiztosítási Azonosító Jelet a Nemzeti Egészségbiztosít
 
 [^16]: A 6. § (1) bekezdése a 21. §-al megállapított szöveg.
 [^17]: A 6. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^18]: A 6. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 250. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^18]: A 6. § (1) bekezdés b) pontja a 147/2019. (VI. 25.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^19]: A 6. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
 [^20]: A 6. § (4) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 25. §-a iktatta be.
