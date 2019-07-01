@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-63-20-2
 | 2018-01-22 | 2012-63-20-2Y.11 | 87/2013. (X. 1.) VM rendelet |
 | 2019-01-01 | 2012-63-20-2Y.12 | 43/2018. (XII. 20.) AM rendelet |
 | 2019-04-14 | 2012-63-20-2Y.13 | 87/2013. (X. 1.) VM rendelet |
+| 2019-07-01 | 2012-63-20-2Y.14 | 41/2014. (XII. 23.) FM rendelet |
