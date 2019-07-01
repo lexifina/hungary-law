@@ -1,18 +1,21 @@
 ## 181. § A regionális igazgatóság a Tv. 105. § (1) bekezdésben meghatározott adatokat a központi adatkezelő szerv részére továbbítja, amely intézkedik az Eurodac központi egységéhez történő továbbítás érdekében.
 
-## A Vízuminformációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok[^520]
+## A Vízuminformációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok[^542]
 
-181/A. §[^521] (1) A VIS rendelet 34. cikke szerinti nyilvántartás vezetőjeként, a 28. cikk (4) bekezdés c) pont szerinti hozzáférést biztosító nemzeti hatóságként, valamint a 41. cikk (4) bekezdése szerinti adatkezelőként a Kormány a Hivatalt jelöli ki.
+181/A. §[^543] (1)[^544] A VIS rendelet 34. cikke szerinti nyilvántartás vezetőjeként, a 28. cikk (4) bekezdés c) pont szerinti hozzáférést biztosító nemzeti hatóságként, valamint a 41. cikk (4) bekezdése szerinti adatkezelőként a Kormány a Főigazgatóságot jelöli ki.
 
 (2) A VIS rendelet alapján a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben tárolt adatokhoz történő hozzáférés szempontjából
 
 a) a VIS rendelet 15. cikke szerinti vízumhatóság a 7. §-ban meghatározott hatóság, a Rendőrség pedig a 10. § (4) bekezdés és a 20. § (2) bekezdés szerinti eljárásában;
 
-b) a VIS rendelet 16. cikke szerinti központi vízumhatóság a Hivatal;
+b)[^545] a VIS rendelet 16. cikke szerinti központi vízumhatóság a Főigazgatóság;
 
 c) a VIS rendelet 17. cikke szerinti vízumhatóság a 7. §-ban meghatározott hatóság;
 
-d) a VIS rendelet 19. és 20. cikke szerinti ellenőrző hatóság a Rendőrség, a Hivatal és a regionális igazgatóság.
+d)[^546] a VIS rendelet 19. és 20. cikke szerinti ellenőrző hatóság a Rendőrség, a Főigazgatóság és a regionális igazgatóság.
 
-[^520]: A 181/A. §-t megelőző alcímet a 96/2010. (III. 31.) Korm. rendelet 21. §-a iktatta be.
-[^521]: A 181/A. §-t a 96/2010. (III. 31.) Korm. rendelet 21. §-a iktatta be.
+[^542]: A 181/A. §-t megelőző alcímet a 96/2010. (III. 31.) Korm. rendelet 21. §-a iktatta be.
+[^543]: A 181/A. §-t a 96/2010. (III. 31.) Korm. rendelet 21. §-a iktatta be.
+[^544]: A 181/A. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^545]: A 181/A. § (2) bekezdés b) pontja a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^546]: A 181/A. § (2) bekezdés d) pontja a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-18. §[^37]
+18. §[^39]
 
-[^37]: A 17–19. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^39]: A 17–19. §-t a 96/2010. (III. 31.) Korm. rendelet 25. §-a hatályon kívül helyezte.

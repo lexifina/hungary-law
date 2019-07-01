@@ -2,28 +2,32 @@
 
 ## és hatósági intézkedések
 
-158. §[^486] (1)[^487] A harmadik országbeli állampolgár úti okmányának, illetve tartózkodásra jogosító engedélyének elvesztését, eltulajdonítását a regionális igazgatóságnak, a Rendőrségnek vagy a konzuli tisztviselőnek jelentheti be. A bejelentő harmadik országbeli állampolgár részére – az állampolgárság valószínűsítése esetén – igazolást kell kiállítani a bejelentés tényéről.
+158. §[^500] (1)[^501] A harmadik országbeli állampolgár úti okmányának, illetve tartózkodásra jogosító engedélyének elvesztését, eltulajdonítását a regionális igazgatóságnak, a Rendőrségnek vagy a konzuli tisztviselőnek jelentheti be. A bejelentő harmadik országbeli állampolgár részére – az állampolgárság valószínűsítése esetén – igazolást kell kiállítani a bejelentés tényéről.
 
 (2) Ha az elveszettnek, megsemmisültnek hitt okmányt a jogosultja megtalálja és részére új úti okmányt vagy tartózkodásra jogosító engedélyt még nem adtak ki, az ideiglenes tartózkodásra jogosító igazolást a kiállító hatóságnak le kell adnia.
 
 (3) Ha az elveszettnek, megsemmisültnek hitt okmányt a jogosultja megtalálja, de idő közben részére új okmányt adtak ki, a megtalált okmányt a kiállító hatóságnak le kell adnia.
 
-(4) Az a hatóság, amely talált úti okmányt, tartózkodásra jogosító engedélyt átvett, köteles azt a Hivatalnak megküldeni.
+(4)[^502] Az a hatóság, amely talált úti okmányt, tartózkodásra jogosító engedélyt átvett, köteles azt a Főigazgatóságnak megküldeni.
 
-(5) A Hivatalnak gondoskodnia kell a talált úti okmányoknak a kiállítás helye szerint joghatósággal rendelkező állam Magyarországra akkreditált külképviseletére történő eljuttatásáról.
+(5)[^503] A Főigazgatóságnak gondoskodnia kell a talált úti okmányoknak a kiállítás helye szerint joghatósággal rendelkező állam Magyarországra akkreditált külképviseletére történő eljuttatásáról.
 
-(6) A Hivatal az (1) bekezdésben meghatározott, továbbá az idegenrendészeti eljárások során kiadható, kitöltetlen úti okmányokról, valamint tartózkodásra jogosító engedélyekről külön nyilvántartást vezet. A nyilvántartás tartalmazza az úti okmány, valamint tartózkodásra jogosító engedély típusát, azonosító adatait, számát, sorozatszámát és érvényességi idejét.
+(6)[^504] A Főigazgatóság az (1) bekezdésben meghatározott, továbbá az idegenrendészeti eljárások során kiadható, kitöltetlen úti okmányokról, valamint tartózkodásra jogosító engedélyekről külön nyilvántartást vezet. A nyilvántartás tartalmazza az úti okmány, valamint tartózkodásra jogosító engedély típusát, azonosító adatait, számát, sorozatszámát és érvényességi idejét.
 
-(7) Ha a Tv.-ben meghatározott eljárások során kiadott okmánynak a Hivatal általi körözése indokolt, annak a nyilvántartásba történő bejegyzéséről az okmányt kiállító regionális igazgatóság gondoskodik.
+(7)[^505] Ha a Tv.-ben meghatározott eljárások során kiadott okmánynak a Főigazgatóság általi körözése indokolt, annak a nyilvántartásba történő bejegyzéséről az okmányt kiállító regionális igazgatóság gondoskodik.
 
-(8)[^488] Ha a véglegessé vált döntéssel visszavont vagy megsemmisített vízumokmány Hivatal általi körözése indokolt és a visszavonásáról vagy megsemmisítésről a konzuli tisztviselő, a külpolitikáért felelős miniszter vagy a Rendőrség döntött, annak a nyilvántartásba történő bejegyzéséről a döntést hozó hatóság értesítése alapján a harmadik országbeli állampolgár által a vízumkérelemben megjelölt szálláshely szerint illetékes regionális igazgatóság gondoskodik.
+(8)[^506] Ha a véglegessé vált döntéssel visszavont vagy megsemmisített vízumokmány Főigazgatóság általi körözése indokolt és a visszavonásáról vagy megsemmisítésről a konzuli tisztviselő, a külpolitikáért felelős miniszter vagy a Rendőrség döntött, annak a nyilvántartásba történő bejegyzéséről a döntést hozó hatóság értesítése alapján a harmadik országbeli állampolgár által a vízumkérelemben megjelölt szálláshely szerint illetékes regionális igazgatóság gondoskodik.
 
-(9)[^489] Ha az (1) bekezdésben foglalt bejelentés a konzuli tisztviselőnél történik, a harmadik országbeli állampolgár a tartózkodásra jogosító engedély pótlása iránti kérelmet a konzuli tisztviselőnél is előterjesztheti. A konzuli tisztviselő a kérelmet haladéktalanul felterjeszti az okmányt kiállító regionális igazgatósághoz.
+(9)[^507] Ha az (1) bekezdésben foglalt bejelentés a konzuli tisztviselőnél történik, a harmadik országbeli állampolgár a tartózkodásra jogosító engedély pótlása iránti kérelmet a konzuli tisztviselőnél is előterjesztheti. A konzuli tisztviselő a kérelmet haladéktalanul felterjeszti az okmányt kiállító regionális igazgatósághoz.
 
-(10)[^490] Ha a regionális igazgatóság a tartózkodásra jogosító okmány pótlása iránti kérelemnek helyt ad, egyidejűleg tartózkodási engedély átvételére jogosító vízum kiadását is engedélyezi és erről értesíti a konzuli tisztviselőt. A tartózkodási engedély átvételére jogosító vízumot – a regionális igazgatóság döntése alapján – a konzuli tisztviselő adja ki.
+(10)[^508] Ha a regionális igazgatóság a tartózkodásra jogosító okmány pótlása iránti kérelemnek helyt ad, egyidejűleg tartózkodási engedély átvételére jogosító vízum kiadását is engedélyezi és erről értesíti a konzuli tisztviselőt. A tartózkodási engedély átvételére jogosító vízumot – a regionális igazgatóság döntése alapján – a konzuli tisztviselő adja ki.
 
-[^486]: A 158. § a 15/2013. (I. 28.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.
-[^487]: A 158. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^488]: A 158. § (8) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 34. § g) pontja szerint módosított szöveg.
-[^489]: A 158. § (9) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.
-[^490]: A 158. § (10) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.
+[^500]: A 158. § a 15/2013. (I. 28.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.
+[^501]: A 158. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^502]: A 158. § (4) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^503]: A 158. § (5) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^504]: A 158. § (6) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^505]: A 158. § (7) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^506]: A 158. § (8) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 34. § g) pontja, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^507]: A 158. § (9) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.
+[^508]: A 158. § (10) bekezdését a 113/2016. (V. 30.) Korm. rendelet 53. § (2) bekezdése iktatta be.

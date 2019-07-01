@@ -1,9 +1,10 @@
-20/C. §[^49] (1)[^50] Amennyiben a száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról a regionális igazgatóság döntött, a döntés elleni fellebbezést három napon belül lehet a regionális igazgatóságnál előterjeszteni. A fellebbezést a regionális igazgatóság haladéktalanul felterjeszti a Hivatalhoz.
+20/C. §[^51] (1)[^52] Amennyiben a száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról a regionális igazgatóság döntött, a döntés elleni fellebbezést három napon belül lehet a regionális igazgatóságnál előterjeszteni. A fellebbezést a regionális igazgatóság haladéktalanul felterjeszti a Főigazgatósághoz.
 
-(2)[^51] A fellebbezést a Hivatal nyolc napon belül bírálja el.
+(2)[^53] A fellebbezést a Főigazgatóság nyolc napon belül bírálja el.
 
-(3) Amennyiben a vízum megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezésnek a Hivatal helyt ad, a harmadik országbeli állampolgár részére a regionális igazgatóság új vízumot állít ki.
+(3)[^54] Amennyiben a vízum megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezésnek a Főigazgatóság helyt ad, a harmadik országbeli állampolgár részére a regionális igazgatóság új vízumot állít ki.
 
-[^49]: A 20/C. §-t a 290/2010. (XII. 21.) Korm. rendelet 32. §-a iktatta be.
-[^50]: A 20/C. § (1) bekezdése a 447/2013. (XI. 28.) Korm. rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^51]: A 20/C. § (2) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^51]: A 20/C. §-t a 290/2010. (XII. 21.) Korm. rendelet 32. §-a iktatta be.
+[^52]: A 20/C. § (1) bekezdése a 447/2013. (XI. 28.) Korm. rendelet 5. § (4) bekezdése, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^53]: A 20/C. § (2) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^54]: A 20/C. (3) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.

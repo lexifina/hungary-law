@@ -1,4 +1,4 @@
-169/G. §[^512] (1) A Tv. 86/H. § (6) bekezdésében meghatározott idegenrendészeti elektronikus ügyindítási felületen keresztül a kérelmek kizárólag a Hivatal által e célra rendszeresített elektronikus űrlap használatával nyújthatók be.
+169/G. §[^531] (1)[^532] A Tv. 86/H. § (6) bekezdésében meghatározott idegenrendészeti elektronikus ügyindítási felületen keresztül a kérelmek kizárólag a Főigazgatóság által e célra rendszeresített elektronikus űrlap használatával nyújthatók be.
 
 (2) Az elektronikus űrlap díjtalanul érhető el.
 
@@ -6,6 +6,8 @@
 
 (4) Az idegenrendészeti elektronikus ügyindítási felületen benyújtott kérelemnek tartalmaznia kell az adott kérelemhez csatolandó, jogszabályban meghatározott okiratokat és egyéb kellékeket.
 
-(5) A Tv. 86/H. § (6) bekezdésében meghatározott idegenrendészeti ügyindítási elektronikus felület a regionális igazgatóság, illetve a Hivatal által lefolytatott eljárásokban alkalmazható.
+(5)[^533] A Tv. 86/H. § (6) bekezdésében meghatározott idegenrendészeti ügyindítási elektronikus felület a regionális igazgatóság, illetve a Főigazgatóság által lefolytatott eljárásokban alkalmazható.
 
-[^512]: A 169/G. §-t a 277/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be.
+[^531]: A 169/G. §-t a 277/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be.
+[^532]: A 169/G. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^533]: A 169/G. § (5) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
