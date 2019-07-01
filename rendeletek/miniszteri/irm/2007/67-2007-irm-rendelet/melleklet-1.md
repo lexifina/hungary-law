@@ -6984,7 +6984,7 @@
 
 20.1.50. Zalavég
 
-20.1.51. Sármellék repülőtér légi határátkelőhely
+20.1.51.[^20]
 
 20.2. Lenti Rendőrkapitányság
 
@@ -7238,13 +7238,15 @@
 
 20.3.76. Zalaújlak
 
-20.3.77.[^20] Letenye I. közúti határátkelőhely
+20.3.77.[^21] Letenye I. közúti határátkelőhely
 
-20.3.78.[^21] Letenye II. autópálya határátkelőhely
+20.3.78.[^22] Letenye II. autópálya határátkelőhely
 
-20.3.79.[^22] Murakeresztúr vasúti határátkelőhely
+20.3.79.[^23] Murakeresztúr vasúti határátkelőhely
 
-20.3.80.[^23] Budapest–Murakeresztúr–Kotoriba (Kotor) vasútvonal
+20.3.80.[^24] Budapest–Murakeresztúr–Kotoriba (Kotor) vasútvonal
+
+20.3.81.[^25] Sármellék repülőtér légi határátkelőhely
 
 20.4. Zalaegerszegi Rendőrkapitányság
 
@@ -7418,7 +7420,7 @@
 
 21. MÁS RENDŐRI SZERV
 
-21.1.[^24] Repülőtéri Rendőr Igazgatóság
+21.1.[^26] Repülőtéri Rendőr Igazgatóság
 
 21.1.1. Budapest Liszt Ferenc Nemzetközi Repülőtér
 
@@ -7438,8 +7440,10 @@
 [^17]: Az 1. melléklet 6. alcím 6.7. pont 6.7.14. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
 [^18]: Az 1. melléklet 6. alcím 6.7. pont 6.7.15. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
 [^19]: Az 1. melléklet 6. alcím 6.9. pont 6.9.12. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
-[^20]: Az 1. melléklet 20. alcím 20.3. pont 20.3.77. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet 20. alcím 20.3. pont 20.3.78. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 20. alcím 20.3. pont 20.3.79. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^23]: Az 1. melléklet 20. alcím 20.3. pont 20.3.80. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
-[^24]: Az 1. melléklet 21. alcím 21.1. pontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet 20.1. pont 20.51. alpontját a 12/2019. (IV. 9.) BM rendelet 1. §-a hatályon kívül helyezte.
+[^21]: Az 1. melléklet 20. alcím 20.3. pont 20.3.77. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 20. alcím 20.3. pont 20.3.78. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 20. alcím 20.3. pont 20.3.79. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^24]: Az 1. melléklet 20. alcím 20.3. pont 20.3.80. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
+[^25]: Az 1. melléklet 20.3. pont 20.3.81. alpontját a 12/2019. (IV. 9.) BM rendelet 1. §-a iktatta be.
+[^26]: Az 1. melléklet 21. alcím 21.1. pontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
