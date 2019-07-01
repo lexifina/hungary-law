@@ -1,4 +1,4 @@
-13. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^81]
+13. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^79]
 
 ## Az egészségügyi szolgáltató által az illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg fizetési osztályonként (Ft/hó)
 
@@ -84,4 +84,4 @@
 
 |  | 17 | 49–51 | 32 776 | 34 614 | 38 450 |
 
-[^81]: A 13. mellékletet a 2/2018. (II. 1.) Korm. rendelet 4. § c) pontja iktatta be.
+[^79]: A 13. mellékletet a 2/2018. (II. 1.) Korm. rendelet 4. § c) pontja iktatta be.

@@ -4,41 +4,41 @@
 
 | F | G | H |
 
-| 1 | 0–3 | 73 915 | 76 358 | 77 166 |
+| 1 | 0–3 | 92 903 | 95 941 | 97 014 |
 
-| 2 | 4–6 | 77 915 | 81 010 | 82 269 |
+| 2 | 4–6 | 97 565 | 101 321 | 103 043 |
 
-| 3 | 7–9 | 81 610 | 85 345 | 87 372 |
+| 3 | 7–9 | 101 921 | 106 384 | 109 073 |
 
-| 4 | 10–12 | 85 305 | 89 679 | 92 475 |
+| 4 | 10–12 | 106 278 | 111 446 | 115 102 |
 
-| 5 | 13–15 | 89 000 | 94 014 | 97 578 |
+| 5 | 13–15 | 110 635 | 116 509 | 121 131 |
 
-| 6 | 16–18 | 92 695 | 98 348 | 101 386 |
+| 6 | 16–18 | 114 991 | 121 570 | 125 866 |
 
-| 7 | 19–21 | 96 390 | 102 683 | 103 252 |
+| 7 | 19–21 | 119 348 | 126 633 | 128 658 |
 
-| 8 | 22–24 | 99 475 | 105 430 | 105 117 |
+| 8 | 22–24 | 123 094 | 130 108 | 131 449 |
 
-| 9 | 25–27 | 102 560 | 106 907 | 106 983 |
+| 9 | 25–27 | 126 841 | 132 313 | 134 241 |
 
-| 10 | 28–30 | 103 510 | 108 066 | 108 848 |
+| 10 | 28–30 | 128 453 | 134 200 | 137 033 |
 
-| 11 | 31–33 | 104 460 | 109 226 | 112 009 |
+| 11 | 31–33 | 130 064 | 136 088 | 141 120 |
 
-| 12 | 34–36 | 105 410 | 110 385 | 115 170 |
+| 12 | 34–36 | 131 676 | 137 974 | 145 206 |
 
-| 13 | 37–39 | 106 360 | 111 545 | 118 330 |
+| 13 | 37–39 | 133 288 | 139 862 | 149 294 |
 
-| 14 | 40–42 | 107 310 | 112 705 | 121 491 |
+| 14 | 40–42 | 134 899 | 141 749 | 153 380 |
 
-| 15 | 43–45 | 108 261 | 113 864 | 124 651 |
+| 15 | 43–45 | 136 511 | 143 637 | 157 467 |
 
-| 16 | 46–48 | 109 409 | 115 251 | 128 148 |
+| 16 | 46–48 | 138 337 | 145 770 | 161 917 |
 
-| 17 | 49–51 | 110 761 | 116 872 | 131 991 |
+| 17 | 49–51 | 140 382 | 148 155 | 166 741 |
 
-9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^77]
+9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^75]
 
 ## Bérkiegészítési támogatás elszámolásához szükséges havi bérszámfejtési adatok
 
@@ -156,4 +156,4 @@
 
 3.3. Munkáltatónkénti bontásban az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának biztosítása érdekében a foglalkoztatottak részére utalványozott különbözet összege a 3. § (5) bekezdésében foglaltak alapján, valamint a különbözethez kapcsolódóan összesen utalványozott kifizetőt terhelő közterhek összege.
 
-[^77]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^75]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.

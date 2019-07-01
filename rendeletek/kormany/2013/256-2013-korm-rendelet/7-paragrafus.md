@@ -1,6 +1,6 @@
-7. § (1)[^36]
+7. § (1)[^34]
 
-(2)[^37]
+(2)[^35]
 
-[^36]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 7. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 7. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
