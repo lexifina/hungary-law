@@ -4,9 +4,9 @@
 
 (3) Új lakás építése esetén a hitelintézet felmondja a támogatási szerződést, ha a használatbavételi engedély kiállítása, a használatbavétel tudomásulvétele vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány kiállítása előtt a támogatási szerződés teljesítése más, az építtető támogatott személynek felróható okból hiúsul meg.
 
-(4)[^97] Az (1)–(3) bekezdésben meghatározott esetben a támogatott személy a már folyósított támogatást a folyósítás napjától számított Ptk. szerinti késedelmi kamattal köteles visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a járási hivatalt és megküldi az ügy iratait.
+(4)[^102] Az (1)–(3) bekezdésben meghatározott esetben a támogatott személy a már folyósított támogatást a folyósítás napjától számított Ptk. szerinti késedelmi kamattal köteles visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a járási hivatalt és megküldi az ügy iratait.
 
-(5)[^98] Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a járási hivatal intézkedik.
+(5)[^103] Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a járási hivatal intézkedik.
 
-[^97]: A 49. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 7. pontja szerint módosított szöveg.
-[^98]: A 49. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.
+[^102]: A 49. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 7. pontja szerint módosított szöveg.
+[^103]: A 49. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 8. pontja szerint módosított szöveg.

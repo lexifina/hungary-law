@@ -1,8 +1,8 @@
-## 17. §[^31] A családi otthonteremtési kedvezmény igénylésekor az igénylő büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik arról, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtását megelőző 5 éven belül az e rendelet vagy az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön vonatkozásában a járási hivatal, a kormányhivatal, a Kincstár végleges határozatával vagy bíróság jogerősen visszafizetésre nem kötelezte.
+## 17. §[^33] A családi otthonteremtési kedvezmény igénylésekor az igénylő büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik arról, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtását megelőző 5 éven belül az e rendelet vagy az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön vonatkozásában a járási hivatal, a kormányhivatal, a Kincstár végleges határozatával vagy bíróság jogerősen visszafizetésre nem kötelezte.
 
 18. § (1) Családi otthonteremtési kedvezmény vehető igénybe a 2008. július 1-jén vagy azt követően kiállított építési engedéllyel vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentésének megtörténtét az építésügyi hatóság által kiállított igazoló dokumentummal rendelkező új lakás építéséhez.
 
-(2)[^32] Családi otthonteremtési kedvezmény vehető igénybe
+(2)[^34] Családi otthonteremtési kedvezmény vehető igénybe
 
 a) a 2008. július 1-jén vagy azt követően kiállított használatbavételi engedéllyel, használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal rendelkező, vagy
 
@@ -12,8 +12,8 @@ b) a kérelem benyújtásának időpontjában építési engedéllyel vagy az eg
 
 (3) A használatbavételi engedéllyel, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal még nem rendelkező lakás tulajdonjogának a használatbavételi engedély megszerzése, a használatbavétel tudomásulvétele vagy az egyszerű bejelentéshez kötött épület felépítése bejelentésének megtörténte előtt történő átruházás esetén, ha az építkezés 2008. július 1-jén vagy azt követően kiadott építési engedély vagy 2016. január 1-jét követően az egyszerű bejelentéshez kötött építési tevékenység esetén az építési tevékenység bejelentése alapján történt, úgy a családi otthonteremtési kedvezményt az új tulajdonos – az e rendeletben meghatározott feltételekkel – igénybe veheti.
 
-(4)[^33] Építőközösség tagjaként a családi otthonteremtési kedvezményt az igénylő a felépítendő társasházból az építőközösségi szerződés alapján megállapítható bekerülési költségnek az építőközösségi szerződés szerint tulajdonába kerülő lakásra számított és a közös tulajdonba kerülő épületrészekből őt megillető tulajdoni hányad arányában, az építőközösség nevére kiállított számlák alapján is igényelheti.
+(4)[^35] Építőközösség tagjaként a családi otthonteremtési kedvezményt az igénylő a felépítendő társasházból az építőközösségi szerződés alapján megállapítható bekerülési költségnek az építőközösségi szerződés szerint tulajdonába kerülő lakásra számított és a közös tulajdonba kerülő épületrészekből őt megillető tulajdoni hányad arányában, az építőközösség nevére kiállított számlák alapján is igényelheti.
 
-[^31]: A 17. § a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 6. pontja, a 457/2017. (XII. 28.) Korm. rendelet 568. § a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^32]: A 18. § (2) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 3. § (1) bekezdsével megállapított szöveg.
-[^33]: A 18. § (4) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 3. § (2) bekezdse iktatta be.
+[^33]: A 17. § a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 6. pontja, a 457/2017. (XII. 28.) Korm. rendelet 568. § a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^34]: A 18. § (2) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 3. § (1) bekezdsével megállapított szöveg.
+[^35]: A 18. § (4) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 3. § (2) bekezdse iktatta be.
