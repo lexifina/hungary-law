@@ -92,3 +92,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2019-02-01 | 2018. évi CXV. törvény | 1995-117-00-00.161 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 1995-117-00-00.162 |
 | 2019-06-01 | 2019. évi XXVI. törvény | 1995-117-00-00.163 |
+| 2019-07-01 | 2019. évi XLVIII. törvény | 1995-117-00-00.164 |
