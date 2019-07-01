@@ -6,6 +6,6 @@
 
 (4) A közintézmény – eltérő nyilatkozata hiányában – a kiegyenlítő energiát az „A3” árszabás keretében az egyetemes szolgáltatóval számolja el.
 
-(5)[^8] Ha a közintézmény az „A3” árszabással elszámolt felhasználási hely tekintetében az egyetemes szolgáltatóval, a mérlegkör-felelőssel vagy az átviteli rendszerirányítóval a kiegyenlítő energiát külön kívánja elszámolni, akkor az egyetemes szolgáltató az „A3” árszabás díjait a menetrend szerint elszámolt villamos energiára a MEKH rendeletben megállapított elosztói menetrend kiegyensúlyozási díjnak megfelelő mértékkel csökkentett értékeken köteles alkalmazni.
+(5)[^9] Ha a közintézmény az „A3” árszabással elszámolt felhasználási hely tekintetében az egyetemes szolgáltatóval, a mérlegkör-felelőssel vagy az átviteli rendszerirányítóval a kiegyenlítő energiát külön kívánja elszámolni, akkor az egyetemes szolgáltató az „A3” árszabás díjait a menetrend szerint elszámolt villamos energiára a MEKH rendeletben megállapított elosztói menetrend kiegyensúlyozási díjnak megfelelő mértékkel csökkentett értékeken köteles alkalmazni.
 
-[^8]: A 6. § (5) bekezdése a 64/2013. (X. 30.) NFM rendelet 12. § b) pontja szerint módosított szöveg.
+[^9]: A 6. § (5) bekezdése a 64/2013. (X. 30.) NFM rendelet 12. § b) pontja szerint módosított szöveg.

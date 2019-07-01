@@ -44,6 +44,6 @@
 
 | 21. | – nem lakossági felhasználók esetében | 16,16 | 16,63 | 16,22 | 15,70 |
 
-3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^24]
+3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^25]
 
-[^24]: A 3. melléklet a 68/2016. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított, a 7/2017. (III. 30.) NFM rendelet 2. § b) pontja, az 59/2017. (XII. 29.) NFM rendelet 2. § b)–c) pontja szerint módosított szöveg.
+[^25]: A 3. melléklet a 68/2016. (XII. 29.) NFM rendelet 2. § (2) bekezdésével megállapított, a 7/2017. (III. 30.) NFM rendelet 2. § b) pontja, az 59/2017. (XII. 29.) NFM rendelet 2. § b)–c) pontja szerint módosított szöveg.

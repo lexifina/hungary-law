@@ -10,6 +10,6 @@
 
 | 4. | ELMŰ-ÉMÁSZ Energiaszolgáltató Zrt. | 0,986 |
 
-4. melléklet a 4/2011. (I. 31.) NFM rendelethez[^25]
+4. melléklet a 4/2011. (I. 31.) NFM rendelethez[^26]
 
-[^25]: A 4. mellékletet a 36/2018. (XII. 21.) ITM rendelet 3. § d) pontja hatályon kívül helyezte.
+[^26]: A 4. mellékletet a 36/2018. (XII. 21.) ITM rendelet 3. § d) pontja hatályon kívül helyezte.
