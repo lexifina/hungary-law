@@ -22,6 +22,6 @@ c) kormányhivatali szakértő főtanácsos besorolásnál évente tizenhárom m
 
 (5) A vezetői álláshelyet betöltő kormánytisztviselőt a (3) és a (4) bekezdésben meghatározott pótszabadság helyett vezetői pótszabadság illeti meg, amelynek mértéke
 
-a) osztályvezetőnél évente tizenegy munkanap,
+a) osztályvezetőnél, járási hivatalvezető-helyettesnél, igazgatónál évente tizenegy munkanap,
 
-b) főosztályvezetőnél évente tizenhárom munkanap.
+b) főosztályvezetőnél, főigazgatónál, hivatalvezetőnél évente tizenhárom munkanap.

@@ -183,19 +183,3 @@ A toborzási adatbázis adatköre
 ## I.
 
 ## 1. családi és utónév
-
-## 2. születési hely, idő
-
-## 3. lakcím, telefonszám, e-mail-cím
-
-## 4. állampolgárság
-
-## II.
-
-## 1. szakmai tapasztalat
-
-## 2. munkáltatói megnevezése, tevékenységi területe
-
-## 3. betöltött feladatkör
-
-## 4. időtartam

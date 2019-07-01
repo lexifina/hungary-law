@@ -62,7 +62,7 @@
 
 13. a kormánytisztviselő ideiglenes – három hónapot meg nem haladó – külföldi kiküldetésére vonatkozó részletes szabályokat;
 
-14. az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként résztvevő kormánytisztviselő kormányzati szolgálati jogviszonyára és köztisztviselő közszolgálati jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat;
+14. az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban, illetve a nemzetközi szervezeteknél foglalkoztatott szakértőként résztvevő kormánytisztviselő kormányzati szolgálati jogviszonyára és köztisztviselő közszolgálati jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat;
 
 15. a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott közszolgálati tisztviselők jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat;
 
@@ -86,7 +86,9 @@
 
 25. a céljuttatásra vonatkozó részletes szabályokat;
 
-26. a fegyelmi eljárásra vonatkozó részletes szabályokat.
+26. a fegyelmi eljárásra vonatkozó részletes szabályokat;
+
+27. az oktatási feladat ellátására kötött megállapodás tartalmára vonatkozó részletes szabályokat.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
