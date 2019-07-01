@@ -1,6 +1,6 @@
-## Az egészségügyi ellátási szerződésre vonatkozó szabályok[^55]
+## Az egészségügyi ellátási szerződésre vonatkozó szabályok[^56]
 
-2. §[^56] (1) Az egészségügyi ellátási szerződésnek tartalmaznia kell
+2. §[^57] (1) Az egészségügyi ellátási szerződésnek tartalmaznia kell
 
 a) a közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó feladatok közül az egészségügyi szolgáltató által ellátandó szolgáltatások tételes meghatározását és az azokat nyújtó egészségügyi szolgáltató megnevezését,
 
@@ -26,5 +26,5 @@ k) az ellátási kötelezettsége teljesítése érdekében egészségügyi ell�
 
 (2) Az (1) bekezdésben foglaltakat a Tv. 2. § (1) bekezdés a) pontja szerinti megállapodás tekintetében is alkalmazni kell.
 
-[^55]: A 2. §-t megelőző alcímet a 250/2017. (IX. 5.) Korm. rendelet 21. §-a iktatta be.
-[^56]: A 2. §-t a 125/2013. (IV. 26.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte, újonnan a 250/2017. (IX. 5.) Korm. rendelet 21. §-a iktatta be.
+[^56]: A 2. §-t megelőző alcímet a 250/2017. (IX. 5.) Korm. rendelet 21. §-a iktatta be.
+[^57]: A 2. §-t a 125/2013. (IV. 26.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte, újonnan a 250/2017. (IX. 5.) Korm. rendelet 21. §-a iktatta be.

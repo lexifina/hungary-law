@@ -8,7 +8,7 @@
 
 ## ...............................
 
-7. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^312]
+7. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^313]
 
 Átadás-átvételi és birtokbaadási jegyzőkönyv
 
@@ -60,7 +60,7 @@ mint átvett intézmény
 
 negyedrészről (amennyiben a települési önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik):
 
-az állam nevében eljáró Nemzeti Földalapkezelő Szervezet
+az állam nevében eljáró Nemzeti Földügyi Központ
 
 Székhelye:
 
@@ -192,7 +192,7 @@ Beosztása:
 
 Elérhetősége:
 
-Jelen jegyzőkönyv ..... eredeti példányban készült és ..... számozott oldalból áll, amelyből ..... példány az Átadót, ..... példány az Átvevőt, ..... példány a Nemzeti Földalapkezelő Szervezetet illeti meg. A jegyzőkönyv mellékletei 1 eredeti példányban készülnek, mely tőpéldányok az Átvevőnél vannak. Az Átvevő a tőpéldány elektronikus másolati példányait .................................................-ig köteles az aláírók rendelkezésére bocsátani.
+Jelen jegyzőkönyv ..... eredeti példányban készült és ..... számozott oldalból áll, amelyből ..... példány az Átadót, ..... példány az Átvevőt, ..... példány a Nemzeti Földügyi Központot illeti meg. A jegyzőkönyv mellékletei 1 eredeti példányban készülnek, mely tőpéldányok az Átvevőnél vannak. Az Átvevő a tőpéldány elektronikus másolati példányait .................................................-ig köteles az aláírók rendelkezésére bocsátani.
 
 .................., 20…. ...................
 
@@ -206,7 +206,7 @@ Jelen jegyzőkönyv ..... eredeti példányban készült és ..... számozott ol
 
 |  | az átvett egészségügyi intézmény vezetője |
 
-A Nemzeti Földalapkezelő Szervezet részéről:
+A Nemzeti Földügyi Központ részéről:
 
 ...................................................
 
@@ -222,4 +222,4 @@ D) Mellékletek – Dokumentumok
 
 E) Mellékletek – Kimutatások és táblázatok
 
-[^312]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a, a 221/2014. (IX. 4.) Korm. rendelet 440. §-a, a 30/2015. (II. 25.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.
+[^313]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a, a 221/2014. (IX. 4.) Korm. rendelet 440. §-a, a 30/2015. (II. 25.) Korm. rendelet 33. § e) pontja, a 159/2019. (VI. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.

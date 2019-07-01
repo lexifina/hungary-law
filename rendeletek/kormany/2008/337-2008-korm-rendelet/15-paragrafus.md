@@ -1,4 +1,4 @@
-15. §[^230] (1)[^231] A TBB az ülést megelőzően a 14. § (1a) bekezdésében foglalt határidőig beérkezett és hiánytalan kérelmek alapján – a (2)–(4) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
+15. §[^231] (1)[^232] A TBB az ülést megelőzően a 14. § (1a) bekezdésében foglalt határidőig beérkezett és hiánytalan kérelmek alapján – a (2)–(4) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
 
 (2) A TBB a befogadási javaslatának elkészítése során
 
@@ -20,7 +20,7 @@ bf) a finanszírozás várható összegét,
 
 bg) a 13. § (6) bekezdése alapján készített összefoglalót.
 
-(3)[^232] A befogadási javaslat elkészítése során előnyben kell részesíteni az olyan kérelmet, melynek eredményeként az egészségügyi szolgáltató
+(3)[^233] A befogadási javaslat elkészítése során előnyben kell részesíteni az olyan kérelmet, melynek eredményeként az egészségügyi szolgáltató
 
 a) országos, illetve regionális ellátási területtel működik,
 
@@ -32,11 +32,11 @@ d) az ellátott terület népegészségügyi mutatóihoz szakmai összetételéb
 
 e) segíti az egészségügyi rendszerhez való hozzáférési esélyek kiegyenlítését.
 
-(3a)[^233] A befogadási javaslat elkészítése során nem részesíthető előnyben az a 12. § (1) bekezdése szerinti többletkapacitás igény a fejlesztés fizikai megvalósításától számított 3 éven belül, amely esetében a fejlesztést megelőzően az egészségügyi szolgáltató vagy fenntartója nyilatkozott arról, hogy nincsen többletkapacitásra vonatkozó igénye.
+(3a)[^234] A befogadási javaslat elkészítése során nem részesíthető előnyben az a 12. § (1) bekezdése szerinti többletkapacitás igény a fejlesztés fizikai megvalósításától számított 3 éven belül, amely esetében a fejlesztést megelőzően az egészségügyi szolgáltató vagy fenntartója nyilatkozott arról, hogy nincsen többletkapacitásra vonatkozó igénye.
 
 (4) A befogadási javaslat elkészítése során figyelembe kell venni, hogy a befogadásra kerülő kapacitás várható éves teljesítményének finanszírozott összege nem haladhatja meg a központi költségvetésről szóló törvényben erre a célra rendelkezésre álló források összegét.
 
-(5)[^234]
+(5)[^235]
 
 (6) A befogadási javaslatnak tartalmaznia kell
 
@@ -48,11 +48,11 @@ c) a többletkapacitás-befogadás forrásigényét,
 
 d) a finanszírozás javasolt kezdési időpontját.
 
-(7)[^235] A TBB a befogadási javaslatában csak azon szolgáltatók rehabilitációs osztályain nyújtott ellátások esetében javasolhatja a szorzó emelkedését, illetve befogadását, amelyek – az országos tisztifőorvos állásfoglalása szerint – megfelelnek a jogszabályban meghatározott szakmai szempontoknak, vagy ennek hiányában a szakmai minimumfeltételekről szóló rendeletben meghatározott feltételeknek.
+(7)[^236] A TBB a befogadási javaslatában csak azon szolgáltatók rehabilitációs osztályain nyújtott ellátások esetében javasolhatja a szorzó emelkedését, illetve befogadását, amelyek – az országos tisztifőorvos állásfoglalása szerint – megfelelnek a jogszabályban meghatározott szakmai szempontoknak, vagy ennek hiányában a szakmai minimumfeltételekről szóló rendeletben meghatározott feltételeknek.
 
-[^230]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^231]: A 15. § (1) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^232]: [A 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 8. pontjával elrendelt módosítás, amely szerint az „az OEP” szövegrész helyébe az „a NEAK” szöveg lép, nem vezethető át.]
-[^233]: A 15. § (3a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 70. §-a iktatta be.
-[^234]: A 15. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
-[^235]: A 15. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^231]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^232]: A 15. § (1) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^233]: [A 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 8. pontjával elrendelt módosítás, amely szerint az „az OEP” szövegrész helyébe az „a NEAK” szöveg lép, nem vezethető át.]
+[^234]: A 15. § (3a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 70. §-a iktatta be.
+[^235]: A 15. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^236]: A 15. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 124. § (1) bekezdés 6. pontja szerint módosított szöveg.

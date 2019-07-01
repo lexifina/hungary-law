@@ -18,10 +18,10 @@
 
 | 5813 Gamma-kés |
 
-2. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^288]
+2. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^289]
 
 ## A fekvőbeteg-szakellátásban finanszírozható szakmák köre
 
 A) Aktív fekvőbeteg szakellátás
 
-[^288]: A 2. számú melléklet a 13/2012. (II. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^289]: A 2. számú melléklet a 13/2012. (II. 14.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.

@@ -14,7 +14,7 @@ d) a vitás kérdések rögzítése.
 
 (4)[^47] A jegyzőkönyvet az átadó részéről az önkormányzat polgármestere és az átadásra kerülő egészségügyi intézmény vezetője, az átvevő részéről az ÁEEK főigazgatója írja alá.
 
-(5) Amennyiben a Tv. 1/B. § (1) bekezdése alapján állami tulajdonba átvett vagyonban szerepel a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 1. § (1)–(2b) bekezdése hatálya alá tartozó vagyonelem, a jegyzőkönyv érvényességéhez – a (2) bekezdésben foglaltakon túl – a Nemzeti Földalapkezelő Szervezet aláírása is szükséges.
+(5)[^48] Amennyiben a Tv. 1/B. § (1) bekezdése alapján állami tulajdonba átvett vagyonban szerepel a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 1. § (1)–(2b) bekezdése hatálya alá tartozó vagyonelem, a jegyzőkönyv érvényességéhez – a (2) bekezdésben foglaltakon túl – a Nemzeti Földügyi Központ aláírása is szükséges.
 
 (6) A jegyzőkönyv tartalmazza a 6. számú melléklet szerinti teljességi nyilatkozatot, amellyel az önkormányzat polgármestere teljes körű felelősséget vállal az általa tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért és teljeskörűségéért.
 
@@ -24,3 +24,4 @@ d) a vitás kérdések rögzítése.
 [^45]: Az 1/C. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
 [^46]: Az 1/C. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
 [^47]: Az 1/C. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^48]: Az 1/C. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
