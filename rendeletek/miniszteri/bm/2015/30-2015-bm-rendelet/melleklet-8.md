@@ -4,6 +4,8 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
+## 9K02155N_0
+
 |  | A | B | C | D | E |
 
 | 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
@@ -36,6 +38,8 @@
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
+## 9K02155N_1
+
 |  | A | B | C | D |
 
 | 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
@@ -47,6 +51,8 @@
 | 4. | D | kiemelt főelőadó | 150 | 150 |
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+## 9K02155N_2
 
 |  | A | B | C | D |
 
@@ -64,6 +70,8 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
+## 9K02155N_3
+
 |  | A | B | C | D | E |
 
 | 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
@@ -77,6 +85,8 @@
 | 5. | beosztott vezető | osztályvezető 1 | osztályvezető | 100 | 100 |
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+
+## 9K02155N_4
 
 |  | A | B | C | D |
 
@@ -92,6 +102,8 @@
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
+## 9K02155N_5
+
 |  | A | B | C | D |
 
 | 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
@@ -106,6 +118,8 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
+## 9K02155N_6
+
 |  | A | B | C | D | E |
 
 | 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
@@ -119,6 +133,8 @@
 | 5. | beosztott vezető | osztályvezető 1 | osztályvezető | 100 | 100 |
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+
+## 9K02155N_7
 
 |  | A | B | C | D |
 
@@ -150,6 +166,8 @@
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
+## 9K02155N_8
+
 |  | A | B | C | D |
 
 | 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
@@ -174,11 +192,13 @@
 
 ## D)
 
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^23]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
 
-## A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
+A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
 I. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+## 6K83179P_0
 
 |  | A | B | C | D | E |
 
@@ -219,6 +239,8 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 | 14. | évfolyam- parancsnok |  | 100 |
 
 II. Oktatói, nevelői és képzést támogató beosztások
+
+## 6K83179P_1
 
 |  | A | B | C | D |
 
@@ -268,4 +290,4 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 III. Kiképzői beosztások
 
-[^23]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.
+[^30]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.

@@ -230,7 +230,7 @@
 
 ## b) Kun Béla zászlósképző iskolán szerzett büntetés-végrehajtási tiszthelyettesi képzettséget.
 
-11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^26]
+11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^33]
 
 A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások
 
@@ -257,6 +257,8 @@ h) NEBEK nemzetközi kapcsolattartási pont ügyelete
 i) Őrzött Szállás
 
 j) Ügyeleti Főosztály ügyeletvezető (TEK)
+
+k) az idegenrendészeti szerv központi ügyeletének
 
 szolgálati beosztásai.
 
@@ -392,4 +394,4 @@ j) biztonsági felügyelő
 
 k) kutyavezető.
 
-[^26]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a szerint módosított szöveg.
+[^33]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a szerint módosított szöveg.

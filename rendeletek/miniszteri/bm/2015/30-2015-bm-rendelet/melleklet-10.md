@@ -1,4 +1,4 @@
-## Az általános rendőrségi feladatok ellátására létrehozott szervnél, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél és a terrorizmust elhárító szervnél rendszeresített szolgálati beosztások képesítési követelményei
+## Az általános rendőrségi feladatok ellátására létrehozott szervnél, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél és az idegenrendészeti szervnél rendszeresített szolgálati beosztások képesítési követelményei
 
 ## I.
 
@@ -236,6 +236,6 @@
 
 ## Zalka Máté Műszaki Katonai Főiskolán (jogutód: Bólyai János Műszaki Katonai Főiskola) szerzett szakirányú végzettséget.
 
-10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^25]
+10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^32]
 
-[^25]: A 10. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § g) pontja, az 55/2016. (XII. 22.) BM rendelet 11. §-a szerint módosított szöveg.
+[^32]: A 10. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § g) pontja, az 55/2016. (XII. 22.) BM rendelet 11. §-a szerint módosított szöveg.

@@ -6,8 +6,9 @@ b) alapfeladat ellátására létrehozott munkakör: a Belügyminisztériumban a
 
 c)[^1] munkakör: a szolgálati beosztásnak nem minősülő, a belügyminiszter által irányított szervnél rendszeresített egyéb önálló munkakör, mely az ellátandó feladatokra figyelemmel rendvédelmi igazgatási szolgálati, igazságügyi alkalmazott jogviszonyban vagy munkaviszonyban álló személlyel tölthető be,
 
-d) rendvédelmi szerv: a Hszt. 1. § (1) bekezdés a)–e) pontjában meghatározott rendvédelmi feladatokat ellátó szervek,
+d)[^2] rendvédelmi szerv: a Hszt. 1. § (1) bekezdés a)–f) pontjában meghatározott rendvédelmi feladatokat ellátó szervek,
 
 e) státusz: az állománytáblázatban megjelölt szolgálati beosztás, munkakör ellátására rendszeresített létszámhely.
 
 [^1]: Az 1. § c) pontja a 6/2019. (III. 11.) BM rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § d) pontja a 20/2019. (V. 15.) BM rendelet 7. § a) pontja szerint módosított szöveg.

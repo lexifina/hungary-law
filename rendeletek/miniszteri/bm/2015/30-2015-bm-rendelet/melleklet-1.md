@@ -1,6 +1,6 @@
-1. melléklet a 30/2015. (VI. 16.) BM rendelethez[^16]
+1. melléklet a 30/2015. (VI. 16.) BM rendelethez[^22]
 
-## A szolgálati beosztások besorolásához szükséges munkakör-értékelés végrehajtásának módszertana és eljárási rendje
+A szolgálati beosztások besorolásához szükséges munkakör-értékelés végrehajtásának módszertana és eljárási rendje
 
 I. Módszertan
 
@@ -35,6 +35,8 @@ I. Módszertan
 ## A szolgálatellátás sajátosságaiból adódó speciális kockázatok – a Hszt. 157. §-a alapján – alapvetően a hivatásos pótlék mértékének megállapításakor kerül figyelembevételre, ugyanakkor a hivatkozott §-ban szereplő tényezőkre – beosztásonként eltérő mértékben - a munkakör elemzés és értékelés során is tekintettel kell lenni.
 
 ## Az értékelés során használt dimenziók, ez egyes dimenziókon belüli tényezők, valamint az egyes tényezők közötti súlyozás mértékét az alábbi ábra szemlélteti.
+
+## 6K68504N_0
 
 | Dimenziók | a munkakör elemzési modell súlyozási arányai |
 
@@ -106,4 +108,4 @@ II. Eljárásrend
 
 4. Ha indokolt az új szolgálati beosztás létrehozása, a Belügyminisztérium humánigazgatási szerve javaslatot tesz a rendszeresített szolgálati beosztások módosítására, az erre vonatkozó jogszabály előkészítésére.
 
-[^16]: Az 1. melléklet a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés b) pontja szerint módosított szöveg.
