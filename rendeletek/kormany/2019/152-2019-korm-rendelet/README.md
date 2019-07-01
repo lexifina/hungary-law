@@ -1,0 +1,9 @@
+# 152/2019. (VI. 26.) Korm. rendelet
+
+egyes otthonteremtési tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-152-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-07-01 | 2019-152-20-22.1 | 152/2019. (VI. 26.) Korm. rendelet |
