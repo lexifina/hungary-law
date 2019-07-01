@@ -2,4 +2,6 @@
 
 10. § (1) E rendelet 2005. július 1-jén lép hatályba.
 
-(2) E rendelet hatálybalépésével egyidejűleg hatályát veszti a kötelező jegybanki tartalékról szóló 2/2003. (PK. 14.) MNB rendelkezés.
+(2)[^25]
+
+[^25]: A 10. § (2) bekezdését a 43/2018. (XI. 21.) MNB rendelet 3. §-a hatályon kívül helyezte.
