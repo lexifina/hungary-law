@@ -8,7 +8,7 @@ a) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.),
 
 b) a Magyar Államkincstár (a továbbiakban: Kincstár),
 
-c) a Nemzeti Földalapkezelő Szervezet (a továbbiakban: NFA)
+c)[^11] a Nemzeti Földügyi Központ (a továbbiakban: NFK)
 
 ## megkeresésére az ingatlan-nyilvántartási adatbázisból adatleválogatást végezhet, amelynek eredményét elektronikus dokumentumként adja át a megkeresőnek.
 
@@ -38,8 +38,11 @@ d) jelzálogjog ranghelyének előzetes biztosítása, lemondás jelzálogjog el
 
 e) földminősítési mintatér megjelölése.
 
-(7) Az NFA részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
+(7)[^12] Az NFK részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
 
 a) a lakásszövetkezeti tagot megillető állandó használati jog,
 
 b) a társasházakról szóló törvény szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, továbbá az elfogadás, illetve a módosítás időpontja.
+
+[^11]: A 15. § (1) bekezdés c) pontja a 159/2019. (VI. 28.) Korm. rendelet 52. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^12]: A 15. § (7) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 52. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
