@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-15-20-2
 | --- | --- | --- |
 | 2019-04-18 | 2019-15-20-2C.1 | 15/2019. (IV. 17.) MNB rendelet |
 | 2019-04-19 | 2019-15-20-2C.2 | 2010: CXXX. törvény |
+| 2019-07-01 | 2019-15-20-2C.3 | 2010: CXXX. törvény |

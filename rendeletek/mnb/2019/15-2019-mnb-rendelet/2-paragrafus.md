@@ -6,24 +6,20 @@
 
 (3) A 38/2018. (XI. 14.) MNB rendelet
 
-a)[^8]
+a)[^4]
 
-b)[^9]
+b) 1. melléklet I. pontjában foglalt táblázat 3. sora szerinti D01 MNB azonosító kódú adatszolgáltatás tekintetében az adatszolgáltatás határidejét meghatározó mezőben a „11:30” szövegrész helyébe a „12:00” szöveg,
 
-c)[^10]
+c) 1. melléklet I. pontjában foglalt táblázat 4. sora szerinti D02 MNB azonosító kódú adatszolgáltatás tekintetében az adatszolgáltatás határidejét meghatározó mezőben a „munkanap” szövegrész helyébe a „munkanap 12:00 óra” szöveg,
 
-d)[^11]
+d) 1. melléklet I. pontjában foglalt táblázat 46. sora szerinti K14 MNB azonosító kódú adatszolgáltatás tekintetében az adatszolgáltatás határidejét meghatározó mezőben a „11:30” szövegrész helyébe a „12:00” szöveg,
 
-e)[^12]
+e)[^5]
 
-f)[^13]
+f) 2. melléklet I. E. 7. pontjában az „adatszolgáltatások a megelőző nap” szövegrész helyébe a „D01, D02 és K14 MNB azonosító kódú adatszolgáltatás a következő – nem bankszünnap – munkanap 12 óráig, az egyéb napi adatszolgáltatások a megelőző munkanap” szöveg,
 
-g)[^14]
+g)[^6]
 
-[^8]: A 2. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 2. § (3) bekezdés b) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^10]: A 2. § (3) bekezdés c) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^11]: A 2. § (3) bekezdés d) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^12]: A 2. § (3) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 2. § (3) bekezdés f) pontja a 3. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^14]: A 2. § (3) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. § (3) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2. § (3) bekezdés g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
