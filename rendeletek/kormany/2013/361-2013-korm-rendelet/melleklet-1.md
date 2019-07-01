@@ -12,7 +12,7 @@
 
 5. Büntetés-végrehajtás Országos Parancsnoksága,
 
-6.[^2] Bevándorlási és Menekültügyi Hivatal,
+6.[^2] Országos Idegenrendészeti Főigazgatóság,
 
 7. Országos Vízügyi Főigazgatóság,
 
@@ -63,7 +63,7 @@
 28. távközlési szolgáltatók (vezetékes telefon, mobiltelefon, internet).
 
 [^1]: Az 1. melléklet 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 757. § a) pontjával megállapított szöveg.
-[^2]: Az 1. melléklet 6. pontja a 379/2016. (XII. 2.) Korm. rendelet 247. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. melléklet 6. pontja a 126/2019. (V. 30.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^3]: Az 1. melléklet 8. pontja a 221/2014. (IX. 4.) Korm. rendelet 757. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. melléklet 9. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
 [^5]: Az 1. melléklet 9a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 757. § c) pontja szerint módosított szöveg.
