@@ -1,4 +1,4 @@
-9/A. §[^7] (1) A rendvédelmi szerv tisztjelöltjét a (2) bekezdésben meghatározott kivétellel az 1–9. §-ban foglalt szabályok szerint kell ellátni szolgálati jelvénnyel, azzal, hogy ahol a rendelkezések
+9/A. §[^8] (1) A rendvédelmi szerv tisztjelöltjét a (2) bekezdésben meghatározott kivétellel az 1–9. §-ban foglalt szabályok szerint kell ellátni szolgálati jelvénnyel, azzal, hogy ahol a rendelkezések
 
 a) hivatásos állomány tagjáról rendelkeznek, azon tisztjelöltet,
 
@@ -12,4 +12,4 @@ kell érteni.
 
 (3) A tisztjelöltek szolgálati jelvényének leírását a 6. melléklet tartalmazza.
 
-[^7]: A 9/A. §-t a 20/2016. (VI. 9.) BM rendelet 48. § (1) bekezdése iktatta be.
+[^8]: A 9/A. §-t a 20/2016. (VI. 9.) BM rendelet 48. § (1) bekezdése iktatta be.

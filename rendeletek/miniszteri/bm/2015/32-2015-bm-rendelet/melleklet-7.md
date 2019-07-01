@@ -2,7 +2,7 @@
 
 ## A szolgálati jelvény ovális alakú, felső részén a „Nemzeti Közszolgálati Egyetem”, alsó részén a „Rendvédelmi Tagozat” felirat olvasható, a két felirat között a Nemzeti Közszolgálati Egyetem címere, valamint az öt számjegyű egyedi azonosító helyezkedik el.
 
-7. melléklet a 32/2015. (VI. 16.) BM rendelethez[^9]
+7. melléklet a 32/2015. (VI. 16.) BM rendelethez[^11]
 
 A Terrorelhárítási Információs és Bűnügyi Elemző Központ hivatásos állományú tagjai szolgálati jelvényének leírása
 
@@ -12,4 +12,4 @@ A plakett látható részének mérete ennél csekély mértékben kisebb, a dom
 
 A plakett alsó részét záró körív bal és jobb oldalán szimmetrikus, zöld színű tölgyfalevél ékítmények láthatók, amelyek a jelvény azonosító számát fogják közre.
 
-[^9]: A 7. mellékletet a 29/2016. (VII. 15.) BM rendelet 41. §-a iktatta be.
+[^11]: A 7. mellékletet a 29/2016. (VII. 15.) BM rendelet 41. §-a iktatta be.

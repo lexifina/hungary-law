@@ -8,10 +8,13 @@ ab) terrorizmust elhárító szerv állománya esetében a Terrorelhárítási K
 
 ac) belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv állománya esetében a Nemzeti Védelmi Szolgálat személyügyi szerve,
 
+ad)[^3] idegenrendészeti szerv állománya esetében az Országos Idegenrendészeti Főigazgatóság személyügyi szerve,
+
 b) a büntetés-végrehajtási szervezet állománya esetében a Büntetés-végrehajtás Országos Parancsnoksága személyügyi szerve,
 
 c) a hivatásos katasztrófavédelmi szerv állománya esetében a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság személyügyi szerve,
 
-d)[^3] az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, illetve a Terrorelhárítási Információs és Bűnügyi Elemző Központ állománya esetében a helyi személyügyi szerv
+d)[^4] az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, illetve a Terrorelhárítási Információs és Bűnügyi Elemző Központ állománya esetében a helyi személyügyi szerv
 
-[^3]: A 3. § d) pontja a 29/2016. (VII. 15.) BM rendelet 40. §-ával megállapított szöveg.
+[^3]: A 3. § a) pont ad) alpontját a 27/2019. (VI. 28.) BM rendelet 51. §-a iktatta be.
+[^4]: A 3. § d) pontja a 29/2016. (VII. 15.) BM rendelet 40. §-ával megállapított szöveg.
