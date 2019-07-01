@@ -1,4 +1,4 @@
-## 20182C20000036_25
+## 20182C20000036_26
 
 3. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^8]
 
@@ -1036,19 +1036,21 @@ Amennyiben a jelenlegi, tárgyhavi állományban van nem azonosított letételhe
 
 A tábla a hitelintézetek statisztikai mérlege kiemelt eszköz és forrás oldali tételeinek állományait tartalmazza. A betétek, hitelkövetelések és hiteltartozások és a kibocsátott hitelviszonyt megtestesítő értékpapírok állománya az instrumentum bruttó tőkeösszegét takarja, a statisztikai felhalmozott kamatát, értékvesztését, továbbá statisztikai értékelési különbözetét nem tartalmazza. Az eszközoldali hitelviszonyt megtestesítő értékpapírok állománya sorokon a nettó könyv szerinti érték az értékvesztéssel növelve jelentendő.
 
-Az eszköz és forrás tételeket mindig eredeti lejáratuk alapján kell lejárati kategóriákba sorolni. A tábla adatai információt nyújtanak a hitelintézetek rövidtávú likviditási helyzetének megítéléséhez. Egyes forrástételeket a hátralévő futamidő szerint is be kell mutatni.
+Az eszköz és forrás tételeket mindig eredeti lejáratuk alapján kell lejárati kategóriákba sorolni. A tábla adatai információt nyújtanak a hitelintézetek rövidtávú likviditási helyzetének megítélésé-hez. Egyes forrástételeket a hátralévő futamidő szerint is be kell mutatni.
 
-A külföldön fióktelepet működtető magyarországi hitelintézet táblájában a külföldi fióktelepek adatai a hitelintézet adataival együtt szerepelnek. Esetükben az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr. szerinti M01 MNB azonosító kódú adatszolgáltatás 02. „Hitelintézetek statisztikai mérlege - az adatszolgáltató külföldi fióktelepekkel együttes adatai” táblájának hivatkozásai az irányadóak.
+A külföldön fióktelepet működtető magyarországi hitelintézet táblájában a külföldi fióktelepek adatai a hitelintézet adataival együtt szerepelnek. Esetükben az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr. szerinti M01 MNB azonosító kódú adatszolgáltatás 02. „Hitelintézetek statisztikai mérlege – az adatszolgáltató külföldi fióktelepekkel együttes adatai” táblájának hivatkozásai az irányadóak.
+
+Az azonnali elszámolás keretében a napi zárást követően lebonyolított tranzakciókat a tárgynapot követő munkanapra vonatkozóan küldendő jelentésben kell szerepeltetni (a pénteki zárást követően elszámolt, illetve a szombati és a vasárnapi tranzakciókat a hétfői munkanapra vonatkozó jelentésben kell szerepeltetni, kedden).
 
 Ha az adatszolgáltatás vonatkozási időpontja bankszünnapra esik, és azon a napon bármilyen ügylet lebonyolítására sor került, arra vonatkozóan az adatszolgáltatást minden esetben teljesíteni kell.
 
 Ha az adatszolgáltatás vonatkozási időpontja bankszünnapra esik, de azon a napon ügyletkötés nem történt, akkor aznapra nemleges adatszolgáltatást kell beküldeni.
 
-Ha az adatszolgáltatás teljesítési határideje bankszünnapra esik, és ezért az adatszolgáltató aznap adatszolgáltatást nem tud küldeni, akkor gondoskodnia kell arról, hogy az ezen a napon teljesítendő adatszolgáltatás a megelőző nap 20 óráig beérkezzen az MNB-hez.
+Ha az adatszolgáltatás teljesítési határideje bankszünnapra esik, és ezért az adatszolgáltató aznap adatszolgáltatást nem tud küldeni, akkor a bankszünnapon teljesítendő adatszolgáltatásokat a következő – nem bankszünnap – munkanapon kell határidőre teljesíteni.
 
 A tábla sorai
 
-| SOR | MEGNEVEZÉS | HIVATKOZÁS [ alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr. szerinti M01 MNB azonosító kódú adatszolgáltatás, illetve a 4LAN és a 10GB kódú tábla vonatkozó sorai] |
+| SOR | MEGNEVEZÉS | HIVATKOZÁS [alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr. szerinti M01 MNB azonosító kódú adatszolgáltatás, illetve a 4LAN és a 10GB kódú tábla vonatkozó sorai] |
 
 | 4LAN1 | Eszköz oldali tételek |  |
 
@@ -1060,7 +1062,7 @@ A tábla sorai
 
 | 4LAN1121 | ebből: Központi Bank | M01 01/02 tábla 005 sor |
 
-| 4LAN113 | Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, rövid + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, hosszú + Hitelviszonyt megtestesítő értékpapírok értékvesztése, rövid + Hitelviszonyt megtestesítő értékpapírok értékvesztése, hosszú - Belföld, Központi kormányzat, Központi bank | M01 01/02 tábla 311 + 332 - 268 - 289 -262 - 283 - 305 - 326 sorok |
+| 4LAN113 | Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, rövid + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, hosszú + Hitelviszonyt megtestesítő értékpapírok értékvesztése, rövid + Hitelviszonyt megtestesítő értékpapírok értékvesztése, hosszú – Belföld, Központi kormányzat, Központi bank | M01 01/02 tábla 311 + 332 - 268 - 289 -262 - 283 - 305 - 326 sorok |
 
 | 4LAN1131 | ebből: szabad rendelkezésű | ideértve a lekötött, de ki nem használt hitelkerethez kapcsolódó értékpapírokat is |
 
@@ -1072,11 +1074,11 @@ A tábla sorai
 
 | 4LAN13 | Bel- és külföldi hitelintézetekkel szembeni követelés | 4LAN131+4LAN132 |
 
-| 4LAN131 | Látra szóló és folyószámla betétek + Lekötött betétek, rövid + Repóügyletekből eredő követelés + Folyószámlahitel + Egyéb hitel, rövid + Hitelviszonyt megtestesítő értékpapírok értékvesztése, rövid + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, rövid - Belföld, Hitelintézetek, GMU, Monetáris pü-i intézmények, Egyéb külföld, Monteráris pü-i intézmények | M01 01/02 tábla 010+011+012 + 041+ 054+ 059 + 065 + 078 + 083 + 089 + 102+ 107 - 263 - 273- 278 + 306 + 316 + 321 sorok |
+| 4LAN131 | Látra szóló és folyószámla betétek + Lekötött betétek, rövid + Repóügyletekből eredő követelés + Folyószámlahitel + Egyéb hitel, rövid + Hitelviszonyt megtestesítő értékpapírok értékvesztése, rövid + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, rövid – Belföld, Hitelintézetek, GMU, Monetáris pü-i intézmények, Egyéb külföld, Monetáris pü-i intézmények | M01 01/02 tábla 010 + 011 + 012 + 041 + 054 + 059 + 065 + 078 + 083 + 089 + 102 + 107 - 263 - 273 - 278 + 306 + 316 + 321 sorok |
 
-| 4LAN132 | Lekötött betétek, hosszú + Egyéb hitel, hosszú, legfeljebb 5 éves + Egyéb hitel, hosszú, 5 éven túl + Hitelviszonyt megtestesítő értékpapírok értékvesztése, hosszú + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, hosszú - Belföld, Hitelintézetek, GMU, Monetáris pü-i intézmények, Egyéb külföld, Monteráris pü-i intézmények | M01 01/02 tábla 014 + 015 + 016 + 113 + 126 + 131 + 137 + 150 + 155 - 284 - 294 - 299 + 327 + 337 + 342 sorok |
+| 4LAN132 | Lekötött betétek, hosszú + Egyéb hitel, hosszú, legfeljebb 5 éves + Egyéb hitel, hosszú, 5 éven túl + Hitelviszonyt megtestesítő értékpapírok értékvesztése, hosszú + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, hosszú – Belföld, Hitelintézetek, GMU, Monetáris pü-i intézmények, Egyéb külföld, Monetáris pü-i intézmények | M01 01/02 tábla 014 + 015 + 016 + 113 + 126 + 131 + 137 + 150 + 155 - 284 - 294 - 299 + 327 + 337 + 342 sorok |
 
-| 4LAN14 | Pénzpiaci alapokkal, egyéb pénzügyi közvetítőkkel, pénzügyi kieg. tev.et végzőkkel, biztosítókkal és nyugdíjpénztárakkal szembeni követelés (belföldi) | = 4LAN141+4LAN142 |
+| 4LAN14 | Pénzpiaci alapokkal, egyéb pénzügyi közvetítőkkel, pénzügyi kieg. tev.-et végzőkkel, biztosítókkal és nyugdíjpénztárakkal szembeni követelés (belföldi) | = 4LAN141+4LAN142 |
 
 | 4LAN141 | Repóügyletekből eredő követelés + Folyószámlahitel + Egyéb hitel, rövid – Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak + Hitelviszonyt megtestesítő értékpapírok értékvesztése, rövid + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, rövid – Belföld, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | M01 01/02 tábla 042 + 043 + 044 + 045 + 046 + 047 + 066 + 067 + 068 + 069 + 070 + 071 + 090 + 091+ 092 + 093 + 094 + 095 + 264 + 265 + 266 + 267 + 307+ 308 + 309 + 310 sorok |
 
@@ -1096,47 +1098,47 @@ A tábla sorai
 
 | 4LAN1522 | Repóügyletekből eredő követelés + Egyéb hitel, rövid + Egyéb hitel, hosszú, legfeljebb 5 éves + Egyéb hitel, hosszú, 5 éven túl + Hitelviszonyt megtestesítő értékpapírok értékvesztése, rövid + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, rövid + Hitelviszonyt megtestesítő értékpapírok értékvesztése, hosszú + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, hosszú – Belföld, Háztartások, Háztartásokat segítő nonprofit int. | M01 01/02 tábla 051 + 052 + 099 + 100 +123 + 124 + 147 + 148 + 271 + 292 + 314 + 335 sorok |
 
-| 4LAN153 | Repóügyletekből eredő követelés + Folyószámlahitel + Egyéb hitel, rövid + Egyéb hitel, hosszú, legfeljebb 5 éves + Egyéb hitel, hosszú, 5 éven túl + Hitelviszonyt megtestesítő értékpapírok értékvesztése, rövid + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, rövid + Hitelviszonyt megtestesítő értékpapírok értékvesztése, hosszú + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, hosszú – Belföld: Központi kormányzat, Helyi önkormányzatok, TB alapok, GMU Nem pénzügyi vállalatok, GMU Nem monetáris pénzügyi intézmények, GMU Államháztartás, GMU Háztartások és háztartásokat segítő nonprofit int., Egyéb külföld, Nem pénzügyi vállalatok, Egyéb külföld, Nem monetáris pénzügyi intézmények, Egyéb külföld, Államháztartás, Egyéb külföld, Háztartások és háztartásokat segítő nonprofit int. | M01 01/02 tábla 048 + 049 + 050 + 053 + 055 + 056 + 057 + 058 + 060 + 061 + 062 + 072 + 073 + 074 + 077 + 079 + 080 + 081 + 082 + 084 + 085 + 086 + 096 + 097 + 098 + 101 + 103 + 104 + 105 + 106 + 108 + 109 + 110 + 120 + 121 + 122 + 125 + 127 + 128 + 129 + 130 + 132 + 133 + 134 + 144 + 145 + 146 + 149 + 151 + 152 + 153 + 154 + 156 + 157 + 158 - 269 - 270 - 272 - 274 - 275 - 276 - 277 - 279 - 280 - 281 - 290 - 291 - 293 - 295 - 296 - 297 - 298 - 300 - 301 - 302 + 312 + 313 + 315 + 317 + 318 + 319 + 320 + 322 + 323 + 324 + 333 + 334 + 336 + 338 + 339 + 340 + 341 + 343 +344 + 345 sorok |
+| 4LAN153 | Repóügyletekből eredő követelés + Folyószámlahitel + Egyéb hitel, rövid + Egyéb hitel, hosszú, legfeljebb 5 éves + Egyéb hitel, hosszú, 5 éven túl + Hitelviszonyt megtestesítő értékpapírok értékvesztése, rövid + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, rövid + Hitelviszonyt megtestesítő értékpapírok értékvesztése, hosszú + Hitelviszonyt megtestesítő értékpapírok nettó könyv szerinti értéke, hosszú – Belföld: Központi kormányzat, Helyi önkormányzatok, TB alapok, GMU Nem pénzügyi vállalatok, GMU Nem monetáris pénzügyi intézmények, GMU Államháztartás, GMU Háztartások és háztartásokat segítő nonprofit int., Egyéb külföld, Nem pénzügyi vállalatok, Egyéb külföld, Nem monetáris pénzügyi intézmények, Egyéb külföld, Államháztartás, Egyéb külföld, Háztartások és háztartásokat segítő nonprofit int. | M01 01/02 tábla 048 + 049 + 050 + 053 + 055 + 056 + 057 + 058 + 060 + 061 + 062 + 072 + 073 + 074 + 077 + 079 + 080 + 081 + 082 + 084 + 085 + 086 + 096 + 097 + 098 + 101 + 103 + 104 + 105 + 106 + 108 + 109 + 110 + 120 + 121 + 122 + 125 + 127 + 128 + 129 + 130 + 132 + 133 + 134 + 144 + 145 + 146 + 149 + 151 + 152 + 153 + 154 + 156 + 157 + 158 - 269 - 270 - 272 - 274 - 275 - 276 - 277 - 279 - 280 - 281 - 290 - 291 - 293 - 295 - 296 - 297 - 298 - 300 - 301 - 302 + 312 + 313 + 315 + 317 + 318 + 319 + 320 + 322 + 323 + 324 + 333 + 334 + 336 + 338 + 339 + 340 + 341 + 343 + 344 + 345 sorok |
 
 | 4LAN16 | Részletezett ESZKÖZÖK ÖSSZESEN |  |
 
 | 4LAN2 | Forrás oldali tételek |  |
 
-| 4LAN21 | Látra szóló és folyószámla betétek + Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás+ Felvett hitel- rövid + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl – Belföld, Központi bank | M01 01/02 tábla 528 + 552 + 576 + 600 + 701 + 725 + 749 + 773 sorok |
+| 4LAN21 | Látra szóló és folyószámla betétek + Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás+ Felvett hitel, rövid + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl – Belföld, Központi bank | M01 01/02 tábla 528 + 552 + 576 + 600 + 701 + 725 + 749 + 773 sorok |
 
 | 4LAN22 | Bel- és külföldi hitelintézetekkel szembeni kötelezettség | 4LAN221+4LAN222+4LAN223 |
 
 | 4LAN221 | Látra szóló és folyószámla betétek – Belföld, Hitelintézet, GMU Monetáris pénzügyi intézmények, Egyéb külföld, Monetáris pénzügyi intézmények | M01 01/02 tábla 529 + 542 + 547 sorok |
 
-| 4LAN222 | Lekötött betétek, rövid + Repóügyletekből szerzett forrás + Felvett hitel, rövid - Belföld, Hitelintézet, GMU Monetáris pénzügyi intézmények, Egyéb külföld, Monetáris pénzügyi intézmények | M01 01/02 tábla 553 + 566 + 571 + 702 + 715 + 720 + 726 + 739 + 744 sorok |
+| 4LAN222 | Lekötött betétek, rövid + Repóügyletekből szerzett forrás + Felvett hitel, rövid – Belföld, Hitelintézet, GMU Monetáris pénzügyi intézmények, Egyéb külföld, Monetáris pénzügyi intézmények | M01 01/02 tábla 553 + 566 + 571 + 702 + 715 + 720 + 726 + 739 + 744 sorok |
 
-| 4LAN223 | Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl - Belföld, Hitelintézet, GMU Monetáris pénzügyi intézmények, Egyéb külföld, Monetáris pénzügyi intézmények | M01 01/02 tábla 577 + 590 + 595 + 601 + 614 + 619 + 750 +763 + 768 + 774 + 787 + 792 sorok |
+| 4LAN223 | Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl – Belföld, Hitelintézet, GMU Monetáris pénzügyi intézmények, Egyéb külföld, Monetáris pénzügyi intézmények | M01 01/02 tábla 577 + 590 + 595 + 601 + 614 + 619 + 750 +763 + 768 + 774 + 787 + 792 sorok |
 
 | 4LAN23 | Háztartásokkal és háztartásokat segítő nonprofit intézményekkel szembeni kötelezettség | 4LAN231+4LAN232 |
 
 | 4LAN231 | Látra szóló és folyószámla betétek – Belföld, Háztartások, Háztartásokat segítő nonprofit int. | M01 01/02 tábla 539 + 540 |
 
-| 4LAN232 | Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás + Felvett hitel, rövid+ Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl - Belföld, Háztartások, Háztartásokat segítő nonprofit int. | M01 01/02 tábla 563 + 564 + 587 + 588 + 611 + 612 + 712 + 713 + 736 + 737 + 760 + 761 + 784 + 785 sorok |
+| 4LAN232 | Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás + Felvett hitel, rövid+ Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl – Belföld, Háztartások, Háztartásokat segítő nonprofit int. | M01 01/02 tábla 563 + 564 + 587 + 588 + 611 + 612 + 712 + 713 + 736 + 737 + 760 + 761 + 784 + 785 sorok |
 
 | 4LAN24 | Nem pénzügyi vállalatokkal szembeni kötelezettség | 4LAN241+4LAN242 |
 
-| 4LAN241 | Látra szóló és folyószámla betétek - Belföld, Nem pénzügyi vállalatok | M01 01/02 tábla 527 sor |
+| 4LAN241 | Látra szóló és folyószámla betétek – Belföld, Nem pénzügyi vállalatok | M01 01/02 tábla 527 sor |
 
-| 4LAN242 | Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás + Felvett hitel, rövid + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl - Belföld, Nem pénzügyi vállalatok | M01 01/02 tábla 551 + 575 + 599 + 700 + 724 + 748 + 772 sorok |
+| 4LAN242 | Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás + Felvett hitel, rövid + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl – Belföld, Nem pénzügyi vállalatok | M01 01/02 tábla 551 + 575 + 599 + 700 + 724 + 748 + 772 sorok |
 
-| 4LAN25 | Látra szóló és folyószámla betétek + Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás+ Felvett hitel- rövid + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl - Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | 4LAN251+4LAN252+4LAN253 |
+| 4LAN25 | Látra szóló és folyószámla betétek + Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás+ Felvett hitel, rövid + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl – Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | 4LAN251+4LAN252+4LAN253 |
 
-| 4LAN251 | Látra szóló és folyószámla betétek - Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | M01 01/02 tábla 530 + 531 + 532 + 533 + 534 + 535 |
+| 4LAN251 | Látra szóló és folyószámla betétek – Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | M01 01/02 tábla 530 + 531 + 532 + 533 + 534 + 535 |
 
-| 4LAN252 | Lekötött betétek, rövid + Repóügyletekből szerzett forrás+ Felvett hitel- rövid - Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | M01 01/02 tábla 554 + 555 + 556 + 557 + 558 + 559 + 703 + 704 + 705 + 706 + 707 + 708 + 727 + 728 + 729 + 730 + 731 + 732 sorok |
+| 4LAN252 | Lekötött betétek, rövid + Repóügyletekből szerzett forrás+ Felvett hitel, rövid – Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | M01 01/02 tábla 554 + 555 + 556 + 557 + 558 + 559 + 703 + 704 + 705 + 706 + 707 + 708 + 727 + 728 + 729 + 730 + 731 + 732 sorok |
 
-| 4LAN253 | Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl - Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | M01 01/02 tábla 578 + 579 + 580 + 581 + 582 + 583 + 602 + 603 + 604 + 605 + 606 + 607 + 751 + 752 + 753 + 754 + 755 + 756 + 775 + 776 + 777 + 778 + 779 + 780 sorok |
+| 4LAN253 | Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl – Belföld, Pénzpiaci alapok, Befektetési alapok, Egyéb pénzügyi közvetítők, Pénzügyi kiegészítő tevékenységet végzők, Biztosítók, Nyugdíjpénztárak | M01 01/02 tábla 578 + 579 + 580 + 581 + 582 + 583 + 602 + 603 + 604 + 605 + 606 + 607 + 751 + 752 + 753 + 754 + 755 + 756 + 775 + 776 + 777 + 778 + 779 + 780 sorok |
 
 | 4LAN26 | Egyéb szektorokkal szembeni kötelezettségek | 4LAN261+4LAN262 |
 
-| 4LAN261 | Látra szóló és folyószámla betétek - Belföld: Központi kormányzat, Helyi önkormányzatok, TB alapok,; GMU Nem pénzügyi vállalatok, GMU Nem monetáris pénzügyi intézmények, GMU Államháztartás, GMU Háztartások és háztartásokat segítő nonprofit int., Egyéb külföld, Nem monetáris pénzügyi intézmények, Egyéb külföld, Államháztartás, Egyéb külföld, Háztartások és háztartásokat segítő nonprofit int. | M01 01/02 tábla 536 + 537 + 538 + 541 + 543 + 544 + 545 + 546 + 548 + 549 +550 sorok |
+| 4LAN261 | Látra szóló és folyószámla betétek – Belföld: Központi kormányzat, Helyi önkormányzatok, TB alapok, GMU Nem pénzügyi vállalatok, GMU Nem monetáris pénzügyi intézmények, GMU Államháztartás, GMU Háztartások és háztartásokat segítő nonprofit int., Egyéb külföld, Nem monetáris pénzügyi intézmények, Egyéb külföld, Államháztartás, Egyéb külföld, Háztartások és háztartásokat segítő nonprofit int. | M01 01/02 tábla 536 + 537 + 538 + 541 + 543 + 544 + 545 + 546 + 548 + 549 + 550 sorok |
 
-| 4LAN262 | Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás + Felvett hitel, rövid + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl - Belföld: Központi kormányzat, Helyi önkormányzatok, TB alapok,; GMU Nem pénzügyi vállalatok, GMU Nem monetáris pénzügyi intézmények, GMU Államháztartás, GMU Háztartások és háztartásokat segítő nonprofit int., Egyéb külföld, Nem pénzügyi vállalatok, Egyéb külföld, Nem monetáris pénzügyi intézmények, Egyéb külföld, Államháztartás, Egyéb külföld, Háztartások és háztartásokat segítő nonprofit int. | M01 01/02 tábla 560 + 561 + 562 + 565 + 567 + 568 + 569 + 570 + 572 + 573 + 574 + 584 + 585 + 586 + 589 + 591 + 592 + 593 + 594 + 596 + 597 + 598 + 608 + 609 + 610 + 613 + 615 + 616 + 617 + 618 + 620 + 621 + 622 + 709 + 710 + 711 + 714 + 716 + 717 + 718 + 719 + 721 + 722 + 723 + 733 + 734 + 735 + 738 + 740 + 741 + 742 + 743 + 745 + 746 + 747 + 757 + 758 + 759 + 762 + 764 + 765 + 766 + 767 + 769 + 770 + 771 + 781 + 782 + 783 + 786 + 788 + 789 + 790 + 791 + 793 + 794 + 795 sorok. |
+| 4LAN262 | Lekötött betétek, rövid + Lekötött betétek, hosszú, legfeljebb 2 éves + Lekötött betétek, hosszú, 2 éven túl + Repóügyletekből szerzett forrás + Felvett hitel, rövid + Felvett hitel, hosszú, legfeljebb 2 éves + Felvett hitel, hosszú, 2 éven túl – Belföld: Központi kormányzat, Helyi önkormányzatok, TB alapok,; GMU Nem pénzügyi vállalatok, GMU Nem monetáris pénzügyi intézmények, GMU Államháztartás, GMU Háztartások és háztartásokat segítő nonprofit int., Egyéb külföld, Nem pénzügyi vállalatok, Egyéb külföld, Nem monetáris pénzügyi intézmények, Egyéb külföld, Államháztartás, Egyéb külföld, Háztartások és háztartásokat segítő nonprofit int. | M01 01/02 tábla 560 + 561 + 562 + 565 + 567 + 568 + 569 + 570 + 572 + 573 + 574 + 584 + 585 + 586 + 589 + 591 + 592 + 593 + 594 + 596 + 597 + 598 + 608 + 609 + 610 + 613 + 615 + 616 + 617 + 618 + 620 + 621 + 622 + 709 + 710 + 711 + 714 + 716 + 717 + 718 + 719 + 721 + 722 + 723 + 733 + 734 + 735 + 738 + 740 + 741 + 742 + 743 + 745 + 746 + 747 + 757 + 758 + 759 + 762 + 764 + 765 + 766 + 767 + 769 + 770 + 771 + 781 + 782 + 783 + 786 + 788 + 789 + 790 + 791 + 793 + 794 + 795 sorok |
 
 | 4LAN27 | Kibocsátott hitelviszonyt megtestesítő értékpapírok | 4LAN271+4LAN272 |
 
@@ -1158,7 +1160,7 @@ A tábla sorai
 
 |  |  | Hátralévő lejárat szerint összesen (forint + deviza HUF-ban) |
 
-| 4LAN29 | Külföldről származó források | 4LAN29 = 4LAN291+4LAN292+4LAN293+ 4LAN294 + 4LAN295 M01 01/02 tábla 541+…+550+565+…+574+589+…+598+613+…+622+714+…723+738+…+747+762+…771+786+…+795+ (873+874+875) - (a belföldön kibocsátott hitelviszonyt megtestesítő értékpapírok - rövid; hosszú, legfeljebb 2 év; hosszú, 2 éven túl értékének levonásával) |
+| 4LAN29 | Külföldről származó források | 4LAN29 = 4LAN291 + 4LAN292 + 4LAN293 + 4LAN294 + 4LAN295 M01 01/02 tábla 541+…+550+565+…+574+589+…+598+613+…+622+714+…723+738+…+747+762+…771+786+…+795+ (873+874+875) - (a belföldön kibocsátott hitelviszonyt megtestesítő értékpapírok - rövid; hosszú, legfeljebb 2 év; hosszú, 2 éven túl értékének levonásával) |
 
 | 4LAN291 | 1 napon belül lejáró külföldi források | 1 napon belül lejáró külföldi források |
 
@@ -1174,15 +1176,17 @@ A tábla sorai
 
 A tábla a hitelintézet következő harminc napra vonatkozó likviditási pozícióját mutatja napi bontásban, valamint lehetővé teszi a hitelintézetek esetén a hitelintézetek rövidtávú likviditási helyzetének megítélését.
 
+Az azonnali elszámolás keretében a napi zárást követően lebonyolított tranzakciókat a tárgynapot követő munkanapra vonatkozóan küldendő jelentésben kell szerepeltetni (a pénteki zárást követően elszámolt, illetve a szombati és a vasárnapi tranzakciókat a hétfői munkanapra vonatkozó jelentésben kell szerepeltetni, kedden).
+
 Ha az adatszolgáltatás vonatkozási időpontja bankszünnapra esik, és azon a napon bármilyen ügylet lebonyolítására sor került, arra vonatkozóan az adatszolgáltatást minden esetben teljesíteni kell.
 
 Ha az adatszolgáltatás vonatkozási időpontja bankszünnapra esik, de azon a napon ügyletkötés nem történt, akkor aznapra nemleges adatszolgáltatást kell beküldeni.
 
-Ha az adatszolgáltatás teljesítési határideje bankszünnapra esik, és ezért az adatszolgáltató aznap adatszolgáltatást nem tud küldeni, akkor gondoskodnia kell arról, hogy az ezen a napon teljesítendő adatszolgáltatás a megelőző nap 20 óráig beérkezzen az MNB-hez.
+Ha az adatszolgáltatás teljesítési határideje bankszünnapra esik, és ezért az adatszolgáltató aznap adatszolgáltatást nem tud küldeni, akkor a bankszünnapon teljesítendő adatszolgáltatásokat a következő – nem bankszünnap – munkanapon kell határidőre teljesíteni.
 
 Az adatszolgáltatás fő devizanemenkénti bontásban tartalmazza az adatszolgáltatás teljesítésének napját megelőző vonatkozási nap (T nap) zárásig az adatszolgáltató saját nevében, saját kockázatára megkötött szerződések alapján a következő harminc napon be- és kiáramló tételeket, napi bontásban. Az adatszolgáltatás nem tartalmazza a jövőben tervezett, de még meg nem kötött ügyleteket.
 
-Az adatszolgáltatás csak a Treasury likviditási pozíciójához figyelembe vett tételeket tartalmazza, vagyis az ügyfélkihelyezések és -betétek miatti pénzmozgásokat – az egyes repóügyletek és nagybetétek kivételével – nem. Ennek megfelelően a kitöltés során figyelmen kívül kell hagyni az ügyfelek megbízásából kötött (értékesítés jellegű), és ezek fedezésére megkötött ellentétes irányú ügyleteket. Amennyiben erre az adatszolgáltató belső nyilvántartó rendszere nem képes, akkor mind az ügyféltételt, mind a fedezeti párját jelenteni kell, úgy hogy azok nullára zárják egymást.
+Az adatszolgáltatás csak a Treasury likviditási pozíciójához figyelembe vett tételeket tartalmazza, vagyis az ügyfélkihelyezések és -betétek miatti pénzmozgásokat – az egyes repóügyletek és nagybetétek kivételével – nem. Ennek megfelelően a kitöltés során figyelmen kívül kell hagyni az ügyfelek megbízásából kötött (értékesítés jellegű), és ezek fedezésére megkötött ellentétes irányú ügyleteket. Amennyiben erre az adatszolgáltató belső nyilvántartó rendszere nem képes, akkor mind az ügyféltételt, mind a fedezeti párját jelenteni kell, úgy, hogy azok nullára zárják egymást.
 
 A cash-flow tételek nem tartalmazzák a leányvállalatokkal kötött szerződések alapján a következő harminc napon be- és kiáramló tételeket (ide nem értve az alapkezelőkkel kötött ügyleteket). Azonban az anyavállalattal és azok kapcsolt vállalkozásaival (ide nem értve az adatszolgáltató leányvállalatait) kötött ügyletekhez kapcsolódó pénzáramlások jelentendők.
 
@@ -1200,13 +1204,13 @@ A tábla sorai
 
 Fő devizanemenként (1-HUF, 2-EUR, 3-USD, 4-CHF, 5-Egyéb deviza portfólió) ismétlődő sorok
 
-A CASHFLOWX01 Bankközi Kihelyezés – Forrás sorokon (ahol az „X” az adott devizához tartozó számot helyettesíti) kell kimutatni a megkötött szerződések alapján azon bankközi, illetve központi bank (beleértve az EKB-t és az eurorendszer központi bankjait, nem beleértve az MNB-t) felé történő kihelyezéseket és az adatszolgáltatónál elhelyezett betéteket, bankközi forrásokat (beleértve az MNB-től, az EKB-tól és az eurorendszer központi bankjaitól származó forrásokat), amelyek értéknapja az adatszolgáltatás napja vagy az azt követő 29 nap. Az egynapos oszlopban kell jelenteni a nem a kötelező jegybanki tartalék teljesítésére szolgáló forint bankszámlák egyenlegeit is (a többi nostro számla egyenlegét a CASHFLOW701-es blokkban kell jelenteni).
+A CASHFLOWX01 Bankközi Kihelyezés – Forrás sorokon (ahol az „X” az adott devizához tartozó számot helyettesíti) kell kimutatni a megkötött szerződések alapján azon bankközi, illetve központi bank (beleértve az EKB-t és az eurórendszer központi bankjait, nem beleértve az MNB-t) felé történő kihelyezéseket és az adatszolgáltatónál elhelyezett betéteket, bankközi forrásokat (beleértve az MNB-től, az EKB-tól és az eurórendszer központi bankjaitól származó forrásokat), amelyek értéknapja az adatszolgáltatás napja vagy az azt követő 29 nap. Az egynapos oszlopban kell jelenteni a nem a kötelező jegybanki tartalék teljesítésére szolgáló forint bankszámlák egyenlegeit is (a többi nostro számla egyenlegét a CASHFLOW701-es blokkban kell jelenteni).
 
-A CASHFLOWX02 MNB betét sor tartalmazza az MNB-vel szembeni követeléseket (overnight betétet is).A betételhelyezés és a lejárat értéknapjának megfelelő oszlopokban kell szerepeltetni a cash-flow tételeket.
+A CASHFLOWX02 MNB betét sor tartalmazza az MNB-vel szembeni követeléseket (overnight betétet is). A betételhelyezés és a lejárat értéknapjának megfelelő oszlopokban kell szerepeltetni a cash-flow tételeket.
 
 A CASHFLOWX03 Repó Aktív-Passzív sorokon kell szerepeltetni a szerződés értéknapján és lejárati napján a bankközi és ügyfél-repószerződések alapján ki és beáramló forrásokat. (Mind az aktív, mind a passzív repó sorokon szerepelhetnek negatív és pozitív értékek is attól függően, hogy pénzbeáramlásról vagy kiáramlásról van-e szó.) Itt szükséges megjeleníteni az MNB-vel kötött O/N vagy annál hosszabb fedezett hitelügyletek lejáró összegét, illetve az ügylet kezdetekor beérkező összeget.
 
-A CASHFLOWX04 Értékpapírok soron mind a kereskedési, mind a befektetési portfolióhoz kapcsolódó pénzáramlásokat jelenteni kell. Ezen a soron jelentendők az értékpapír vételi és eladási ügyletekből származó pénzáramok, a tőketörlesztés és a kamatfizetés. A saját kibocsátású értékpapírokhoz kapcsolódó pénzáramlások nem szerepeltetendők.
+A CASHFLOWX04 Értékpapírok soron mind a kereskedési, mind a befektetési portfólióhoz kapcsolódó pénzáramlásokat jelenteni kell. Ezen a soron jelentendők az értékpapír vételi és eladási ügyletekből származó pénzáramok, a tőketörlesztés és a kamatfizetés. A saját kibocsátású értékpapírokhoz kapcsolódó pénzáramlások nem szerepeltetendők.
 
 A CASHFLOWX05 Nagy betétek soron az egyedi ügyfelekkel kötött szerződések alapján történő, ügyletenként 5 milliárd forint feletti betételhelyezéseket, illetve lejáró betétek állományát kell szerepeltetni (előjelhelyesen).
 
@@ -1218,13 +1222,13 @@ A CASHFLOWX08 Kamatswap és cross-currency swap ügyletek soron a megkötött FR
 
 A CASHFLOWX09 Outright határidős deviza ügyletek soron a megkötött határidős devizaügyletek miatti elszámolásokat kell feltüntetni.
 
-A CASHFLOWX10 Portfolió Gap sor az adott devizanemben kitöltött táblarész záró sora, amelyben a napi ki- és beáramló tételek egyenlegét kell meghatározni.
+A CASHFLOWX10 Portfólió Gap sor az adott devizanemben kitöltött táblarész záró sora, amelyben a napi ki- és beáramló tételek egyenlegét kell meghatározni.
 
 Kiegészítő információk
 
 A CASHFLOW701 Nostro számlaállományok soron devizanemenként kell megadni a nostro számlaállományoknak az adatszolgáltatás teljesítésének napját megelőző vonatkozási napi (T napi) záró-állományát. A külföldi devizák esetén az átszámítás árfolyama az adatszolgáltatás napját megelőző vonatkozási napi (T napi) hivatalos MNB devizaárfolyam. A nem a kötelező jegybanki tartalék teljesítésére szolgáló forint bankszámlák egyenlegét a CASHFLOW 101 blokkban kell jelenteni.
 
-A CASHFLOW702 MNB által, monetáris politikai ügyletek keretében elfogadható fedezetek soron az MNB monetáris politikai műveletei során felajánlható értékpapírok befogadási értékét kell megadni. Az e soron megadandó érték nem foglalja magában az MNB-n kívüli partnerek javára zárolt állományokat és az MNB javára O/N ügyleteknél hosszabb lejáratú hitelek fedezeteként zárolt értékpapírokat. A pénzforgalom fedezetére, az MNB javára limitként zárolt, de ki nem használt állományt szerepeltetni kell. A tábla első oszlopában az adatszolgáltatás vonatkozási napján felajánlható fedezetek befogadási értékét, továbbá az első napon szerződés szerint bekövetkező változásokat (pl. repóügyletek lejárata miatti felszabadítás, értékpapír-lejárat), a további oszlopokban pedig csak a változásokat kell jelenteni. Az e soron szereplő tételek nem tartalmazzák az EKB, illetve az eurorendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapírok állományát (a CASHFLOW702 és CASHFLOW708 sorokhoz kapcsolódóan az MNB által elfogadható fedezetek köre és befogadási értékeik megtalálhatóak a http://www.mnb.hu/monetaris-politika/a-monetaris-politikai-eszkoztar/fedezetertekeles oldalon).
+A CASHFLOW702 MNB által, monetáris politikai ügyletek keretében elfogadható fedezetek soron az MNB monetáris politikai műveletei során felajánlható értékpapírok befogadási értékét kell megadni. Az e soron megadandó érték nem foglalja magában az MNB-n kívüli partnerek javára zárolt állományokat és az MNB javára O/N ügyleteknél hosszabb lejáratú hitelek fedezeteként zárolt értékpapírokat. A pénzforgalom fedezetére, az MNB javára limitként zárolt, de ki nem használt állományt szerepeltetni kell. A tábla első oszlopában az adatszolgáltatás vonatkozási napján felajánlható fedezetek befogadási értékét, továbbá az első napon szerződés szerint bekövetkező változásokat (pl. repóügyletek lejárata miatti felszabadítás, értékpapír-lejárat), a további oszlopokban pedig csak a változásokat kell jelenteni. Az e soron szereplő tételek nem tartalmazzák az EKB, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapírok állományát (a CASHFLOW702 és CASHFLOW708 sorokhoz kapcsolódóan az MNB által elfogadható fedezetek köre és befogadási értékeik megtalálhatóak a http://www.mnb.hu/monetaris-politika/a-monetaris-politikai-eszkoztar/fedezetertekeles oldalon).
 
 A CASHFLOW703 Stand-by hitelkeretek soron csak a visszavonhatatlan, szerződött, még le nem hívott hitelkereteket kell jelenteni.
 
@@ -1256,13 +1260,19 @@ A CASHFLOW706 Nagy kihelyezések soron devizanemenként kell megadni a következ
 
 A CASHFLOW707 Kibocsátott hitelviszonyt megtestesítő értékpapírokkal kapcsolatos pénzáramlások soron kell jelenteni a saját kibocsátású értékpapírokhoz kapcsolódó, az adatszolgáltatás napján (T+1. munkanap), illetve az azt követő 29 napon történő kifizetéseket.
 
-A CASHFLOW709 EKB, illetve az eurorendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapírok állománya soron az EKB, illetve az eurorendszer központi bankjai által monetáris politikai műveletek során – az adott intézmény számára még rendelkezésre álló kereten belül –, szabad rendelkezésű (nem zárolt) értékpapírok állományát kell befogadási értéken szerepeltetni, ideértve a pénzforgalom fedezetére, az EKB, illetve az eurorendszer bármely központi bankjának javára limitként zárolt, de ki nem használt állományt is. Az e soron megadandó érték nem foglalja magában az EKB-n kívüli partnerek javára zárolt állományokat és az EKB javára O/N ügyleteknél hosszabb lejáratú hitelek fedezeteként zárolt értékpapírokat. A tábla első oszlopában az adatszolgáltatás teljesítésének napján (T+1. munkanapon) az EKB-kal kötött megállapodás alapján felajánlható fedezetek befogadási értékét (figyelembe véve a T+1. munkanapon szerződés szerint bekövetkező változásokat is), a további oszlopokban pedig a változásokat (pl. repóügyletek lejárata miatti felszabadítás, értékpapír-lejárat) kell jelenteni.
+A CASHFLOW709 EKB, illetve az eurórendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapírok állománya soron az EKB, illetve az eurórendszer központi bankjai által monetáris politikai műveletek során – az adott intézmény számára még rendelkezésre álló kereten belül –, szabad rendelkezésű (nem zárolt) értékpapírok állományát kell befogadási értéken szerepeltetni, ideértve a pénzforgalom fedezetére, az EKB, illetve az eurórendszer bármely központi bankjának javára limitként zárolt, de ki nem használt állományt is. Az e soron megadandó érték nem foglalja magában az EKB-n kívüli partnerek javára zárolt állományokat és az EKB javára O/N ügyleteknél hosszabb lejáratú hitelek fedezeteként zárolt értékpapírokat. A tábla első oszlopában az adatszolgáltatás teljesítésének napján (T+1. munkanapon) az EKB-val kötött megállapodás alapján felajánlható fedezetek befogadási értékét (figyelembe véve a T+1. munkanapon szerződés szerint bekövetkező változásokat is), a további oszlopokban pedig a változásokat (pl. repóügyletek lejárata miatti felszabadítás, értékpapír-lejárat) kell jelenteni.
 
-A CASHFLOW710 Készpénz soron kell kimutatni a hitelintézetnél lévő T napi záró forint és valuta készpénzállományt, a törvényes fizetési eszközül szolgáló nemesfém érméket..
+A CASHFLOW710 Készpénz soron kell kimutatni a hitelintézetnél lévő T napi záró forint és valuta készpénzállományt, a törvényes fizetési eszközül szolgáló nemesfém érméket.
 
 A CASHFLOW711 Operatív likviditási tartalék soron a hitelintézet T+1. munkanapon rendelkezésére álló operatív likviditási tartalék összegét kell szerepeltetni. Az operatív likviditási tartalék a CASHFLOW táblában szereplő tételekből az alábbi módon számítódik:
 
-CASHFLOW711=CASHFLOW610,1+..+CASHFLOW610,30+CASHFLOW702,1+….+CASHFLOW702,30+CASHFLOW709,1+..+CASHFLOW709,30+CASHFLOW707,1+…+CASHFLOW707,30+CASHFLOW7012,1+CASHFLOW7013,1+CASHFLOW7014,1+CASHFLOW7015,1+CASHFLOW704,1+CASHFLOW705,1+ CASHFLOW710,1
+CASHFLOW711=CASHFLOW610,1+…+CASHFLOW610,30+CASHFLOW702,1+…+
+
+CASHFLOW702,30+CASHFLOW709,1+...+CASHFLOW709,30+CASHFLOW707,1+…+
+
+CASHFLOW707,30+CASHFLOW7012,1+CASHFLOW7013,1+CASHFLOW7014,1+
+
+CASHFLOW7015,1+CASHFLOW704,1+CASHFLOW705,1+ CASHFLOW710,1
 
 26. ACASHFLOW Anya Cash-Flow jelentés
 
@@ -3264,4 +3274,24 @@ A közvetlenül tulajdonolt részvények névértékét az f) oszlopban, a szava
 
 Az osztalékelsőbbséget, illetve a különleges osztalékelsőbbséget biztosító részvényeket a 11AB4 Egyéb 5% alatti tulajdonosok összesen sorban kell figyelembe venni, úgy, hogy az értékét az f) oszlopban kell feltüntetni.
 
-[^8]: A 3. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (3) bekezdés d)–e) pontja szerint módosított szöveg.
+Az f), g) és h) oszlop összegének meg kell egyezni a jegyzett tőke értékével, az i) oszlopnak pedig a teljes tulajdoni aránnyal.
+
+Az i) oszlopban kell kimutatni a jegyzett tőke összértékéhez viszonyított tulajdoni arányokat, beleértve a szavazatelsőbbségi részvényeket, illetve a különleges vétójogot biztosító szavazatelsőbbségi részvényeket is, amelynek arányát a szavazati jogot, illetve a különleges vétójogot biztosító részvény névértékének figyelembevételével kell kiszámítani.
+
+A j) oszlopban a közvetlen tulajdonlású részvények szavazati arányát kell feltüntetni.
+
+A szavazati arány megállapításánál a szavazati jogot biztosító (szavazatelsőbbségi, illetve a különleges vétójogot biztosító szavazatelsőbbségi) részvény szavazati arányához hozzá kell adni a törzsrészvények korrigált mértékű tulajdoni hányadait is.
+
+Az Arány % megfelelő oszlopaiban két tizedesjegy pontossággal kell kimutatni a tulajdoni hányadot, illetve szavazati jogot, amely a jegyzett tőkéhez viszonyított arányt jelenti. (A százalék jelét nem kell feltüntetni.)
+
+Az i), illetve a j) oszlopban lévő összesen sorok összegének meg kell egyezni a teljes tulajdoni aránnyal.
+
+A közvetett tulajdonlást a k) oszlopban kell kimutatni. A szavazati jogot, mint tulajdoni hányadot kell figyelembe venni.
+
+Az l) Szavazati arány összesen oszlopban kell összesíteni a tulajdonosnak – a j) és a k) oszlopban feltüntetett – együttes közvetett és közvetlen tulajdoni és szavazati arányát. Ennek az aránynak a mértékét kell figyelembe venni a minősített befolyás megállapításánál.
+
+A tábla sorai
+
+11AB1 Minősített befolyású tulajdonosok összesen
+
+[^8]: A 3. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (2) bekezdése és (3) bekezdés d)–e) pontja szerint módosított szöveg.

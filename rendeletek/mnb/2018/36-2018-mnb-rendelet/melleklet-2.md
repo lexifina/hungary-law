@@ -894,4 +894,4 @@
 
 2. melléklet a 36/2018. (XI. 13.) MNB rendelethez[^7]
 
-[^7]: A 2. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 15/2019. (IV. 17.) MNB rendelet 1. § (1) bekezdése és (3) bekezdés a)–c) pontja szerint módosított szöveg.

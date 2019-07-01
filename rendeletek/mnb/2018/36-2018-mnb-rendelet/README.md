@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-36-20-2
 | 2019-04-01 | 2018-36-20-2C.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-04-18 | 2018-36-20-2C.5 | 15/2019. (IV. 17.) MNB rendelet |
 | 2019-06-17 | 2018-36-20-2C.6 | 22/2019. (V. 28.) MNB rendelet |
+| 2019-07-01 | 2018-36-20-2C.7 | 15/2019. (IV. 17.) MNB rendelet |
