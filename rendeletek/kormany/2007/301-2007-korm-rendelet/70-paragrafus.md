@@ -1,6 +1,6 @@
 ## A bizonyítás szabályai
 
-70. § (1)[^178] A Kormány az országinformáció szolgáltatásáért felelős szervként (a továbbiakban: országinformációs központ) a Bevándorlási és Menekültügyi Hivatalt jelöli ki.
+70. § (1)[^178] A Kormány az országinformáció szolgáltatásáért felelős szervként (a továbbiakban: országinformációs központ) az Országos Idegenrendészeti Főigazgatóságot jelöli ki.
 
 (2) Az országinformációs központ
 
@@ -42,5 +42,5 @@ b) a valós helyzetet már nem tükröző, elavult információk helyesbítésé
 
 (10) Az országinformációs központ együttműködési megállapodást köthet külföldi állam országinformációs szolgáltatást nyújtó hatóságával vagy szervével.
 
-[^178]: A 70. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 107. §-a szerint módosított szöveg.
+[^178]: A 70. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^179]: A 70. § (7) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 114. §-ával megállapított szöveg.
