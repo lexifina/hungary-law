@@ -1,4 +1,4 @@
-## 38. §[^38]
+## 38. §[^37]
 
 ## 9. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 6. alcím 2019. július 1-jén lép hatályba.
 
-[^38]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
