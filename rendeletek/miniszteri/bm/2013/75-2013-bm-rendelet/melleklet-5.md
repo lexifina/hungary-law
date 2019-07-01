@@ -24,10 +24,10 @@
 
 | 6. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság vezetője | a teljes személyi állomány tekintetében |
 
-| 7. | Bevándorlási és Menekültügyi Hivatal vezetője | a teljes személyi állomány tekintetében |
+| 7. | Országos Idegenrendészeti Főigazgatóság vezetője | a teljes személyi állomány tekintetében |
 
 | 8. | Országos Vízügyi Főigazgatóság vezetője | a teljes személyi állomány tekintetében |
 
 | 9. | Terrorelhárítási Központ vezetője | a teljes személyi állomány tekintetében |
 
-[^33]: Az 5. mellékletet a 31/2018. (XII. 19.) BM rendelet 26. §-a iktatta be.
+[^33]: Az 5. mellékletet a 31/2018. (XII. 19.) BM rendelet 26. §-a iktatta be, szövege a 27/2019. (VI. 28.) BM rendelet 41. § b) pontja szerint módosított szöveg.

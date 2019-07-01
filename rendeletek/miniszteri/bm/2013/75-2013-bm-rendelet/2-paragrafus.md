@@ -20,7 +20,7 @@ bg)[^5] a Büntetés-végrehajtás Országos Parancsnoksága a saját dolgozói 
 
 bh) a hivatásos katasztrófavédelmi szerv központi szerve (Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, a továbbiakban: BM OKF): a saját, a területi és a területi jogállású, valamint a helyi szervei dolgozói állománya vonatkozásában, továbbá jogutódként a megszűnt Belügyminisztérium Központi Gazdasági Főigazgatóság e §-ban nem szabályozott ellátási körébe tartozók vonatkozásában,
 
-bi)[^6] a Bevándorlási és Menekültügyi Hivatal: a saját dolgozói állománya vonatkozásában,
+bi)[^6] az Országos Idegenrendészeti Főigazgatóság: a saját dolgozói állománya vonatkozásában,
 
 bj) az Országos Vízügyi Főigazgatóság: a saját dolgozói állománya vonatkozásában,
 
@@ -36,6 +36,6 @@ bn)[^8] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendé
 [^3]: A 2. § b) pontja a 15/2016. (V. 11.) BM rendelet 15. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
 [^4]: A 2. § b) pont bb) alpontja a 29/2016. (VII. 15.) BM rendelet 34. § (1) bekezdésével megállapított, a 37/2016. (IX. 1.) BM rendelet 14. §-a, az 58/2016. (XII. 22.) BM rendelet 40. § (2) bekezdés a) pontja, az 1/2018. (I. 18.) BM rendelet 14. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § b) pont bg) alpontja a 35/2016. (VIII. 30.) BM rendelet 5. §-ával megállapított szöveg.
-[^6]: A 2. § b) pont bi) alpontja a 35/2018. (XII. 21.) BM rendelet 20. §-ával megállapított szöveg.
+[^6]: A 2. § b) pont bi) alpontja a 35/2018. (XII. 21.) BM rendelet 20. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 41. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § b) pont bl) alpontját az 58/2016. (XII. 22.) BM rendelet 40. § (3) bekezdése hatályon kívül helyezte.
 [^8]: A 2. § b) pont bn) alpontja a 29/2016. (VII. 15.) BM rendelet 34. § (2) bekezdésével megállapított szöveg.
