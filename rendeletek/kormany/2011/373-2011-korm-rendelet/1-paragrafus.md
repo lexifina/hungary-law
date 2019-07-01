@@ -4,4 +4,6 @@
 
 (2) A Kormány az Országos Rendőr-főkapitányság vonatkozásában az elsőfokú munkavédelmi hatósági jogkör gyakorlójaként a büntetés-végrehajtás országos parancsnokát jelöli ki.
 
-(3) A Kormány a Nemzeti Védelmi Szolgálat és a Terrorelhárítási Központ vonatkozásában az elsőfokú munkavédelmi hatósági jogkör gyakorlójaként, országos illetékességgel az országos rendőrfőkapitányt jelöli ki.
+(3)[^1] A Kormány a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Központ és az Országos Idegenrendészeti Főigazgatóság vonatkozásában az elsőfokú munkavédelmi hatósági jogkör gyakorlójaként, országos illetékességgel az országos rendőrfőkapitányt jelöli ki.
+
+[^1]: Az 1. § (3) bekezdése a 126/2019. (V. 30.) Korm. rendelet 18. §-a szerint módosított szöveg.
