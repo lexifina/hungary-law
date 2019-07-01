@@ -12,4 +12,4 @@ e) a felelős vezető meghallgatását rendelheti el.
 
 (2) A Felügyelet az e törvényben, az elkülönített szervezeti egység tevékenységére vonatkozó jogszabályban, továbbá a felügyeleti határozatokban meghatározott feltételeknek való megfelelés teljesítése érdekében, határozott időtartamra szóló intézkedési terv kidolgozására, illetve – jóváhagyás esetén – az abban foglaltak végrehajtására kötelezheti az elkülönített szervezeti egységet.
 
-(3) A Felügyelet eljárására a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 81–95. §-ai nem alkalmazhatók.
+(3) A Felügyelet eljárására az MNBtv. 81–95. §-ai nem alkalmazhatók.

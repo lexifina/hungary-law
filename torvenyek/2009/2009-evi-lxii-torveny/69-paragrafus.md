@@ -15,3 +15,5 @@ rendeletben állapítsa meg.
 (3) Felhatalmazást kap a kormány tagja, hogy rendeletben megállapíthassa a biztosítási kötelezettség alól mentes gépjárművek körét, ezek nyilvántartására vonatkozó szabályokat, gépjárművek által okozott károk megtérítését és rendezését végző szerv kijelölését, a szerv működésére vonatkozó szabályokat és a mentesített gépjárművek igazolóeszközzel történő ellátására vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az egyedi szerződésekre vonatkozó díjtarifának, a gépjárműflottára kötött szerződésekre vonatkozó díjtarifának, továbbá fedezetlenségi díj tarifájának a Felügyelet honlapján történő meghirdetésének módjára vonatkozó részletes szabályokat rendeletben állapítsa meg.
+
+(5) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy a KKTA-ból történő biztosítói adatigénylésre vonatkozó részletes szabályokat rendeletben állapítsa meg.
