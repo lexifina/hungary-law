@@ -1,0 +1,5 @@
+3/A. §[^19] (1) Védett természeti területnek vagy Natura 2000 területnek minősülő földrészlet haszonbérlet útján történő hasznosítása esetén a természetvédelemért felelős miniszter, vízvédelmi területnek minősülő, valamint parti sávval érintett földrészlet haszonbérlet útján történő hasznosítása esetén a vízügyi igazgatási szervek irányításáért felelős miniszter, védetté nyilvánított régészeti lelőhelyre és régészeti védőövezetre kiterjedő földrészlet, valamint műemléknek minősülő földrészlet haszonbérlet útján történő hasznosítása esetén a kulturális örökség védelméért felelős miniszter határozza meg a pályázati felhívásban, valamint a szerződésben rögzítendő hasznosítási előírásokat.
+
+(2) A feladatköre által érintett miniszter a pályáztatásra, vagy pályáztatás mellőzésével haszonbérbe adásra szánt ingatlanjegyzék átvételét követő 30 napon belül konkrét, megszövegezett formában bocsátja az NFK rendelkezésére az (1) bekezdés szerinti előírásokat.
+
+[^19]: A 3/A. §-t a 159/2019. (VI. 28.) Korm. rendelet 8. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.

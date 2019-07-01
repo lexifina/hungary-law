@@ -1,3 +1,3 @@
-## Az elővásárlási jog gyakorlása[^68]
+## 26/B. §[^132]
 
-[^68]: A 27. §-t megelőző alcím a 161/2011. (VIII. 18.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^132]: Az 26/B. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § r) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.

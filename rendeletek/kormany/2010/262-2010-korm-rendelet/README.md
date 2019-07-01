@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-262-20-
 | 2016-03-24 | 2010-262-20-22.19 | 54/2016. (III. 23.) Korm. rendelet |
 | 2017-01-01 | 2010-262-20-22.20 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2010-262-20-22.21 | 393/2017. (XII. 13.) Korm. rendelet |
+| 2019-07-01 | 2010-262-20-22.22 | 159/2019. (VI. 28.) Korm. rendelet |

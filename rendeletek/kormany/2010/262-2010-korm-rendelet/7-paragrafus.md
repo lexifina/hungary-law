@@ -1,107 +1,105 @@
-7. § (1)[^26] A földrészlet nyilvános pályázat útján történő eladására, haszonbérbe adására irányuló pályázati felhívásnak tartalmaznia kell:
+7. § (1)[^45] A földrészlet nyilvános pályázat útján történő haszonbérbe adására irányuló pályázati felhívásnak tartalmaznia kell:
 
 1. a pályázati felhívást kiíró megnevezését és székhelyét;
 
 2. a megkötendő szerződés típusát;
 
-3. pályázati azonosító számát;
+3. a pályázati azonosító számát;
 
-4. a földrészlet adatait (település, helyrajzi szám, alrészlet szintű bontásban: művelési ág, területnagyság, aranykorona érték);
+4. a pályázati felhívás tárgyát képező birtoktesthez tartozó földrészletek adatait (település, fekvés, helyrajzi szám, alrészlet szintű bontásban: művelési ág, területnagyság, aranykorona érték);
 
-5. a hatályos ingatlan-nyilvántartási térképi adatbázisból kinyomtatott, megfelelő áttekintést biztosító térképmásolatot;
+5. a pályázati felhívás tárgyát képező birtoktestre vonatkozó, megfelelő áttekintést biztosító térképmásolatot, amely osztatlan közös tulajdonban fennálló állami tulajdoni illetőség meghirdetése esetén tartalmazza a használati megosztásról szóló megállapodásban rögzített használati rendet is;
 
 6. a megkötendő szerződés tárgyát képező tulajdoni illetőséget;
 
-7. a regisztráció helyét, módját, határidejét;
+7. a regisztráció módját, határidejét;
 
 8. a regisztrációs díj összegét, a rendelkezésre bocsátásának határidejét és módját;
 
-9. szükség esetén a részletes pályázati útmutató átvételének helyét, módját és határidejét;
+9. a pályázat benyújtásának módját és határidejét;
 
-10. a pályázat benyújtásának helyét, módját és határidejét;
+10. az ajánlati kötöttség határidejét, és az annak esetleges meghosszabbítására vonatkozó előírásokat;
 
-11. az ajánlati kötöttség határidejét, és az annak esetleges meghosszabbítására vonatkozó előírásokat;
+11. a pályázat érvényességének feltételeit;
 
-12. a pályázat érvényességének feltételeit;
+12. a hasznosításra vonatkozó lényeges előírásokat;
 
-13.[^27] az elővásárlási jog gyakorlásának módját;
+13. a haszonbérleti díj meghatározását, amelytől eltérő ajánlat nem tehető;
 
-14. a minimális ellenszolgáltatást, amelynél kedvezőtlenebb ajánlat nem tehető;
+14. a pályázati biztosíték összegét;
 
-15. a pályázati biztosíték összegét;
+15. az ellenszolgáltatás teljesítésére vonatkozó előírásokat;
 
-16. az ellenszolgáltatás teljesítésére vonatkozó előírásokat;
+16. az NFK azon joga fenntartásának rögzítését, hogy
 
-17. az NFA azon joga fenntartásának rögzítését, hogy
+16.1. a pályázati felhívást a pályázat benyújtására nyitva álló határidő lejárta előtt visszavonhatja,
 
-17.1. a pályázati felhívást a pályázat benyújtására nyitva álló határidő lejárta előtt visszavonhatja,
+16.2. a pályázati eljárást az e rendeletben meghatározott esetekben eredménytelennek nyilvánítsa;
 
-17.2. a pályázati eljárást az e rendeletben meghatározott esetekben eredménytelennek nyilvánítsa,
+17. annak rögzítését, hogy a pályázaton való részvétellel kapcsolatos költségek a pályázat eredményességétől függetlenül a pályázót terhelik;
 
-17.3. a nyertes pályázó visszalépése esetén vagy a 23. § (2) bekezdésében meghatározott feltételek bekövetkezése esetén a pályázati eljárás eredménye szerint a soron következő helyezettel szerződést kössön;
+18. az Nfatv. 19. § (4) bekezdésében meghatározottakról való figyelemfelhívást;
 
-18. annak rögzítését, hogy a pályázaton való részvétellel kapcsolatos költségek a pályázat eredményességétől függetlenül a pályázót terhelik.
+19. a birtokba lépés várható időpontját.
 
-19.[^28] az Nfatv. 19. § (4) bekezdésében meghatározottakról való figyelemfelhívást.
+(1a)[^46] Ha a haszonbérleti pályázati felhívás tárgyát képező birtoktest a Földforgalmi tv. hatálya alá tartozó földrészletet tartalmaz, akkor a pályázati felhívásnak – a Földforgalmi tv. 44. §-ában foglalt előírások figyelembevételével – tartalmaznia kell a haszonbérleti jogviszony időtartamát.
 
-(2) A pályázati kiírás a pályázati felhívásban foglalt adatokon túl tartalmazza:
+(1b)[^47] Ha a haszonbérleti pályázati felhívás tárgyát képező birtoktest a Földforgalmi tv. hatálya alá tartozó földrészletet tartalmaz, a pályázati felhívásnak tartalmaznia kell továbbá a figyelemfelhívást arra vonatkozóan, hogy a pályázati eljárásban pályázóként az a természetes személy, illetve gazdálkodó szervezet vehet részt, aki a Földforgalmi tv. alapján földhasználati jogosultsággal rendelkezik, továbbá tájékoztatást arra vonatkozóan, hogy a pályázati eljárás során az előhaszonbérleti jog nem gyakorolható.
+
+(2)[^48] A pályázati kiírás a pályázati felhívásban foglalt adatokon túl tartalmazza:
 
 1. a pályázat hivatalos nyelvének megjelölését;
 
-2.[^29] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket;
+2. az ingatlan-nyilvántartásban az állam tulajdoni illetőségére bejegyzett, illetve feljegyzett jogokat és terheket;
 
-3. az ingatlan-nyilvántartásba jogi jellegként feljegyzett tényeket;
+3. az ingatlan-nyilvántartásban jogi jellegként feljegyzett tényeket;
 
-4.[^30] a földrészletet terhelő szolgalmi jogot és vezetékjogot;
+4. a földrészletet terhelő szolgalmi jogot és vezetékjogot;
 
-5.[^31] az ingatlan-nyilvántartásba az állam tulajdoni illetőségére feljegyzett elidegenítési tilalmat;
+5. az ingatlan-nyilvántartásban az állam tulajdoni illetőségére feljegyzett elidegenítési tilalmat;
 
-6.[^32] a földhasználati nyilvántartásba az állam tulajdoni illetőségét érintően bejegyzett földhasználat jogcímét és a földhasználat időtartamát, vagy bejegyzés hiányában, az NFA által ismert fennálló földhasználat jogcímét és a földhasználat időtartamát;
+6. az NFK vagyon-nyilvántartása szerint a földrészleten fennálló használat jogcímét és időtartamát;
 
-7. a földrészletet érintően a földhasználó javára megítélt, egy éven túli kötelezettségvállaláson alapuló, európai uniós vagy nemzeti terület alapú támogatás jogcímét és a kötelezettségvállalás időtartamát;
+7. a pályázati biztosíték rendelkezésre bocsátásának határidejét és módját;
 
-8. a pályázati biztosíték rendelkezésre bocsátásának határidejét és módját;
+8. a szerződést biztosító mellékkötelezettség megjelölését, ha az NFK a mellékkötelezettség alkalmazása mellett dönt;
 
-9. a szerződést biztosító mellékkötelezettség megjelölését, ha az NFA a mellékkötelezettség alkalmazása mellett dönt;
+9. arra való figyelemfelhívást, hogy a pályázati eljárás során a hiánypótlás kizárt;
 
-10. hiányos pályázat esetén a pályázat lényegét nem érintő pótolható hiányosságok esetkörét és a hiánypótlás teljesítésének a határidejét, ha az NFA a hiánypótlási lehetőséget nem zárja ki;
+10. a szerződéskötésre vonatkozó lényeges feltételeket, kötelezettségeket és jogokat;
 
-11. a hasznosításra vonatkozó lényeges előírásokat;
+11. a pályázatok elbírálása során a pályázatok rangsorolására alkalmazandó értékelési szempontokat;
 
-12. a szerződéskötésre vonatkozó lényeges feltételeket, kötelezettségeket és jogokat;
+12. a pályázatok elbírálásának időpontját vagy határidejét;
 
-13. a pályázatok bontásának helyét és időpontját;
+13. az eredményhirdetés módját, helyét és várható időpontját;
 
-14. a pályázatok elbírálása során a pályázatok rangsorolására alkalmazandó értékelési szempontokat;
+14. az eredményről a pályázók értesítésének módját és határidejét;
 
-15. a pályázatok elbírálásának időpontját vagy határidejét;
+15. annak rögzítését, hogy a nyertes pályázóval kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok.
 
-16. az eredményhirdetés módját, helyét és várható időpontját;
+(3)[^49]
 
-17. az eredményről a pályázók értesítésének módját és határidejét;
+(4)[^50] Ha a haszonbérleti pályázati felhívás tárgyát védett természeti terület, Natura 2000 terület, vízvédelmi terület, védetté nyilvánított régészeti lelőhely, régészeti védőövezet, műemlék vagy parti sávval érintett ingatlan képezi, az (1) bekezdés 12. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó, a feladatköre által érintett miniszter által az NFK rendelkezésére bocsátott hasznosítási előírásokat.
 
-18.[^33] annak rögzítését, hogy a nyertes pályázó által benyújtott pályázatot a 22. § (3) bekezdésben meghatározottak szerint nyilvánosságra kell hozni, továbbá a nyertes pályázóval kötött szerződés tartalmából közérdekből nyilvános adatoknak minősülnek az Nfatv. 30. § (1) bekezdésében meghatározott adatok, valamint, hogy az Nfatv. 30. § (2) bekezdésében meghatározott ellenszolgáltatást tartalmazó szerződés esetén a szerződést közzé kell tenni.
+(5)[^51]
 
-(3) A (2) bekezdés 7. pontjában foglalt adatokat az NFA a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
+(6)[^52]
 
-(4)[^34] Ha a pályázati felhívás tárgyát jogszabállyal vagy hatósági eljárás során védetté nyilvánított kulturális örökségi elem, illetve védett terület képezi, a (2) bekezdés 11. pontjában foglalt előírásnak tartalmaznia kell az e területre vonatkozó jogszabályi előírásokat.
+(7)[^53]
 
-(5) Az NFA oly módon köteles a pályázati felhívást közzétenni, és a pályázati kiírást elkészíteni, hogy az abban foglalt jogok, tények, adatok megegyezzenek a pályázati felhívás közzétételének időpontjában az ingatlan-nyilvántartásba bejegyzett jogokkal, tényekkel és adatokkal, valamint a földhasználati nyilvántartásba bejegyzett adatokkal.
+(8)[^54]
 
-(6) Ha az NFA a pályázatok elkészítéséhez részletes pályázati útmutatót (a továbbiakban: útmutató) bocsát rendelkezésre, az NFA biztosítani köteles, hogy az útmutató a pályázati eljárás kezdő napjától a pályázatok benyújtására nyitva álló határidő végéig az NFA székhelyén és területi irodáinál rendelkezésre álljon.
+(9)[^55]
 
-(7) A pályázati kiírás és az útmutató a regisztrált pályázónak a titoktartási nyilatkozat aláírása után adható át. Regisztrációs díjfizetési kötelezettség esetén a pályázati kiírás és az útmutató a regisztrációs díj megfizetése, és az erről szóló igazolás ellenében történik. A regisztráció során a pályázó megadhatja azt a bankszámlaszámot, amelyre a pályázati felhívás visszavonása esetén a regisztrációs díj összegének visszafizetését kéri.
-
-(8) A pályázónak a pályázati felhívásban és kiírásban foglaltakon túl is adható információ, illetve biztosítható a pályázati felhívásban közzétett földrészlet helyszíni megtekintésének lehetősége, oly módon és tartalommal, amely nem sérti a pályázók esélyegyenlőségét, a pályázatok kezelésére vonatkozó előírásokat és az üzleti titkot.
-
-(9) Az NFA a pályázók bármelyikének biztosított információt, adatot és egyéb szolgáltatást köteles a többi pályázó számára is ugyanolyan módon biztosítani.
-
-[^26]: A 7. § (1) bekezdés nyitó szövegrésze a 153/2013. (V. 24.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
-[^27]: A 7. § (1) bekezdés 13. pontja a 161/2011. (VIII. 18.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^28]: A 7. § (1) bekezdés 19. pontját a 91/2014. (III. 20.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^29]: A 7. § (2) bekezdés 2. pontja a 223/2013. (VI. 24.) Korm. rendelet 1. §-ával megállapított, a 91/2014. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^30]: A 7. § (2) bekezdés 4. pontja a 91/2014. (III. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^31]: A 7. § (2) bekezdés 5. pontja a 91/2014. (III. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^32]: A 7. § (2) bekezdés 6. pontja a 91/2014. (III. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^33]: A 7. § (2) bekezdés 18. pontja a 153/2013. (V. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^34]: A 7. § (4) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^45]: A 7. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^46]: A 7. § (1a) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^47]: A 7. § (1b) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^48]: A 7. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^49]: A 7. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^50]: A 7. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^51]: A 7. § (5) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^52]: A 7. § (6) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^53]: A 7. § (7) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^54]: A 7. § (8) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^55]: A 7. § (9) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.

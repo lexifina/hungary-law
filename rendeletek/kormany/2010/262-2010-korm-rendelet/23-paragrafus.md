@@ -1,13 +1,9 @@
-23. § (1) Az NFA a szerződést a pályázat nyertesével köti meg az Nfatv. 26. § (3) bekezdésében meghatározott határidőn belül. A pályázat eredményeként megkötendő szerződéssel kapcsolatos költségek az NFA-val szerződő felet terhelik.
+23. § (1)[^119] Az NFK a szerződést a pályázat nyertesével köti meg az Nfatv. 26. § (3) bekezdésében meghatározott határidőn belül. A pályázat eredményeként megkötendő szerződéssel kapcsolatos költségek az NFK-val szerződő felet terhelik.
 
-(2) Ha az NFA a pályázati felhívásban nem zárta ki, jogosult a következő legjobb pályázatot benyújtó pályázóval szerződést kötni, feltéve, hogy
+(2)[^120]
 
-a) a pályázat nyertesével a szerződéskötés meghiúsult;
+(3)[^121]
 
-b) az adásvételi szerződés megkötése után a szerződő fél nem teljesítése miatt az NFA a szerződéstől elállt;
-
-c)[^55] a haszonbérleti szerződés a megkötésétől számított hat hónapon belül – a felek közös akaratából vagy az egyik fél által gyakorolt felmondási jog gyakorlása következtében – megszűnt.
-
-(3) Az NFA a (2) bekezdésben meghatározott jogát legfeljebb a szerződéskötés meghiúsulásának, vagy a szerződéstől való elállási jog gyakorlásának időpontjától, illetőleg a szerződés megszűnésétől számított 60 napon belül gyakorolhatja.
-
-[^55]: A 23. § (2) bekezdés c) pontja a 153/2013. (V. 24.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^119]: A 23. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) és i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^120]: A 23. § (2) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § p) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^121]: A 23. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § p) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.

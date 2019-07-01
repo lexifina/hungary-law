@@ -2,12 +2,15 @@
 
 a) nem érkezett érvényes pályázat;
 
-b) az NFA a 20. §-ban megjelölt okból az eljárás érvénytelenítéséről döntött;
+b)[^108] az NFK a 20. §-ban megjelölt okból az eljárás érvénytelenítéséről döntött;
 
-c) a legjobb érvényes ajánlat elfogadása esetén a pénzben kifejezett ellenszolgáltatás értéke nem éri el a földrészlet piaci értékét;
+c)[^109]
 
-d)[^51] a 23. § (2) bekezdés a) pontjának alkalmazása esetében is meghiúsult a szerződéskötés.
+d)[^110]
 
-(2) A pályázati eljárás eredménytelenségéről szóló döntést az NFA-nak a pályázati felhívással megegyező helyeken és módon, hirdetmény formájában kell közzétenni.
+(2)[^111] A pályázati eljárás eredménytelenségéről szóló döntést az NFK-nak a pályázati felhívással megegyező helyeken és módon, hirdetmény formájában kell közzétenni.
 
-[^51]: A 19. § (1) bekezdés d) pontját a 306/2013. (VIII. 1.) Korm. rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 5. § (2)–(4) bekezdését.
+[^108]: A 19. § (1) bekezdés b) pontja a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^109]: A 19. § (1) bekezdés c) pontját a 159/2019. (VI. 28.) Korm. rendelet 38. § n) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^110]: A 19. § (1) bekezdés d) pontját a 306/2013. (VIII. 1.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 159/2019. (VI. 28.) Korm. rendelet 38. § n) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^111]: A 19. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

@@ -1,19 +1,25 @@
+## 5. §[^38]
+
 ## II. Fejezet
 
-## A NYILVÁNOS PÁLYÁZTATÁSSAL TÖRTÉNŐ HASZNOSÍTÁS KÖZÖS SZABÁLYAI
+## A NYILVÁNOS PÁLYÁZTATÁSSAL TÖRTÉNŐ HASZNOSÍTÁS SZABÁLYAI[^39]
 
 ## A pályázati felhívás és kiírás
 
-6. § (1)[^23] A földrészlet nyilvános pályázat útján történő eladására, haszonbérbe adására irányuló pályázati felhívásban az NFA – mint kiíró – köteles valamennyi pályázó számára egyenlő esélyt biztosítani, valamint a pályázati felhívás és kiírás tartalmát úgy meghatározni, hogy az abban foglalt feltételek teljesíthetők legyenek.
+6. § (1)[^40] Az NFK a földrészlet nyilvános pályázat útján történő eladása, haszonbérbe adása során elektronikus pályázati rendszert alkalmaz.
 
-(2) A pályázati felhívást és kiírást az NFA elnöke hagyja jóvá.
+(2)[^41] A pályázati felhívásban az NFK – mint kiíró – valamennyi pályázó számára egyenlő esélyt biztosít, valamint a pályázati felhívás és kiírás tartalmát úgy kell meghatározni, hogy az abban foglalt feltételek teljesíthetők legyenek. A pályázati felhívás és kiírás mintadokumentumait az NFK elnöke javaslatára a Birtokpolitikai Tanács hagyja jóvá. A meghirdetésre kerülő egyes pályázati felhívásokat az NFK elnöke aláírásával hagyja jóvá.
 
-(3)[^24] A közös önkormányzati hivatal esetében a pályázati felhívást az Nfatv. 26. § (2) bekezdésében meghatározottak alapján a közös önkormányzati hivatalnál is közzé kell tenni.
+(3)[^42]
 
-(4)[^25] A pályázati eljárás kezdő napja a pályázati felhívást tartalmazó hirdetménynek a földrészlet fekvése szerinti települési (a fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat (a továbbiakban: önkormányzat) polgármesteri hivatala, illetve a közös önkormányzati hivatal esetében a közös önkormányzati hivatal hirdetőtáblájára és a közös önkormányzati hivatalhoz tartozó önkormányzat hirdetőtáblájára való kifüggesztést követő nap.
+(4)[^43] A pályázati eljárás kezdő napja a pályázati felhívást tartalmazó hirdetménynek az NFK honlapján történő közzétételét követő nap.
 
-(5) A pályáztatási eljárást kettő fordulóban is meg lehet hirdetni az Nfatv. 8. § (1) bekezdése d) pontjában meghatározott esetekben. Ebben az esetben az első fordulóban a Birtokpolitikai Tanács (a továbbiakban: Tanács) a pályázók teljesítőképességét, szakismeretét, alkalmasságát, illetve pénzügyi megbízhatóságát méri fel (előminősítési eljárás). Az első forduló eredménye alapján határozza meg a Tanács a második fordulóra részvételt nyert pályázók körét, akik a pályázati kiírásban foglalt feltételek szerint vehetnek részt a pályáztatási eljárás további részében. Az előminősítési eljárásban hozott döntést részletesen indokolni kell. A kétfordulós pályáztatási eljárás esetén a 7. § (6) bekezdése szerinti útmutatónak tartalmaznia kell a pályázat egészére vonatkozó szabályokat.
+(5)[^44]
 
-[^23]: A 6. § (1) bekezdése a 153/2013. (V. 24.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
-[^24]: A 6. § (3) bekezdése a 91/2014. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^25]: A 6. § (4) bekezdése a 91/2014. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^38]: Az 5. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^39]: A II. fejezet címe a 159/2019. (VI. 28.) Korm. rendelet 37. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^40]: A 6. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^41]: A 6. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^42]: A 6. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^43]: A 6. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^44]: A 6. § (5) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
