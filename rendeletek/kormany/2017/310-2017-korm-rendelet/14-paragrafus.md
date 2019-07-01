@@ -4,7 +4,7 @@
 
 a) a nyugellátásokkal, a fogyatékossági támogatással, a vakok személyi járadékával és a bányászati keresetkiegészítéssel kapcsolatos feladatköreivel összefüggésben a szociál- és nyugdíjpolitikáért felelős miniszter;
 
-b) az egészségbiztosítás pénzbeli ellátásaival, a baleseti táppénzzel és az utazási költségtérítéssel kapcsolatos feladatköreivel összefüggésben az egészségbiztosításért felelős miniszter;
+b)[^7] az egészségbiztosítás pénzbeli ellátásaival, a baleseti táppénzzel és az utazási költségtérítéssel, valamint a TAJ szám képzésével és nyilvántartásával kapcsolatos feladatköreivel összefüggésben az egészségbiztosításért felelős miniszter;
 
 c) a családtámogatásokkal kapcsolatos feladatköreivel összefüggésben az családpolitikáért felelős miniszter;
 
@@ -14,7 +14,7 @@ e) a nagycsaládosok által igénybe vehető gázdíjkedvezménnyel kapcsolatos 
 
 gyakorolja az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket.
 
-(2) A Kincstár az (1) bekezdésben meghatározott ellátásokkal kapcsolatos ügyekben közreműködik a kormányrendeletben szakmai irányító miniszterként kijelölt miniszternek (a továbbiakban: szakmai irányító miniszter) a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok törvényességi és szakszerűségi ellenőrzésével kapcsolatos feladatellátásában, továbbá a szakmai irányító miniszter – a fővárosi és megyei kormányhivatalokkal összefüggő, az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköreivel kapcsolatos – intézkedéseinek és döntéseinek előkészítésében.
+(2)[^8] A Kincstár az (1) bekezdésben meghatározott ellátásokkal és feladatokkal kapcsolatos ügyekben közreműködik a kormányrendeletben szakmai irányító miniszterként kijelölt miniszternek (a továbbiakban: szakmai irányító miniszter) a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok törvényességi és szakszerűségi ellenőrzésével kapcsolatos feladatellátásában, továbbá a szakmai irányító miniszter – a fővárosi és megyei kormányhivatalokkal összefüggő, az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköreivel kapcsolatos – intézkedéseinek és döntéseinek előkészítésében.
 
 (3) A Kincstár központi szerve az (1) bekezdésben meghatározott ellátásokkal kapcsolatban
 
@@ -47,3 +47,6 @@ a) a nyugdíjbiztosítási igazgatási szervek eljárásaiban keletkezett külde
 b) a családtámogatási ellátásokkal, a fogyatékossági támogatással és a vakok személyi járadékával kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével, digitalizálásával, valamint ezen ügyekben az elektronikus aláírással kiadmányozott döntések központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat;
 
 c) a bányászati keresetkiegészítéssel és a nagycsaládosok által igénybe vehető gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével kapcsolatos feladatokat.
+
+[^7]: A 14. § (1) bekezdés b) pontja a 147/2019. (VI. 25.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^8]: A 14. § (2) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
