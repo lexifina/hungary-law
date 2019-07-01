@@ -1,119 +1,21 @@
 ## 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-3. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 4. § (2a) bekezdése a következő h) ponttal egészül ki:
+3. § (1)–(6)
 
-(A külföldön élő magyar állampolgár adatai a nyilvántartásban akkor szerepelnek, ha)
+(7)
 
-„h) a Magyarország területén kívül élő magyar állampolgár magánútlevél iránti kérelmet terjeszt elő.”
+(8)
 
-(2) Az Nytv. 4. §-a a következő (2e) bekezdéssel egészül ki:
+(9)
 
-„(2e) A magánútlevél iránti kérelem előterjesztését követően a kérelmező – ha a nyilvántartásban nem szerepel – személyi- és lakcímadatainak nyilvántartásba vételére irányuló eljárást hivatalból kell megindítani. A nyilvántartásba vételnek kizárólag akkor van helye, ha a kérelmező anyakönyvi eseménye az anyakönyvi nyilvántartásban már szerepel.”
+(10)–(11)
 
-(3) Az Nytv. 5. §-a a következő (1) bekezdéssel egészül ki:
+(12)
 
-„(1) Szolgáltatásazonosító: az állandó személyazonosító igazolvány tároló elemén rögzített, véletlenszerűen képzett egyedi azonosító karaktersorozat.”
+(13)–(15)
 
-(4) Az Nytv. 8/A. §-a a következő g) ponttal egészül ki:
+(16)
 
-[A Kormány rendeletében kijelölt fővárosi és megyei kormányhivatal (a továbbiakban: kijelölt kormányhivatal)]
+(17)–(18)
 
-„g) ellátja a 4. § (2e) bekezdés szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.”
-
-(5) Az Nytv. 9. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(A nyilvántartást kezelő szerv)
-
-„j) ellátja a 4. § (2a) bekezdés a) és h) pontja szerinti külföldön élő magyar állampolgár személyi- és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.”
-
-(6) Az Nytv. 14. §-a a következő q) ponttal egészül ki:
-
-(A nyilvántartás szervei az általuk kezelt adatokat az alábbi forrásból gyűjtik:)
-
-„q) a magánútlevél kiadásában közreműködő hatóság értesítése a természetes személyazonosító adatokról, családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről, nemről, magyarországi lakcím- vagy külföldi lakóhely adatokról.”
-
-(7) Az Nytv. a következő 19/E. §-sal egészül ki:
-
-„19/E. § (1) A nyilvántartást kezelő szervtől a polgár lakcímadata érvényességének tényéről a felhasználás céljának és jogalapjának igazolása nélkül tájékoztatás kérhető.
-
-(2) Az (1) bekezdésben meghatározott kérelem benyújtására elektronikus azonosítási szolgáltatás használata nélkül kizárólag elektronikus úton egyedi informatikai alkalmazás igénybevételével
-
-a) közvetlen hozzáféréssel, vagy
-
-b) elektronikus felületen keresztül
-
-van lehetőség.
-
-(3) Az adatigénylőnek a kérelemben az érintett polgár természetes személyazonosító adatait, valamint a lakcím adattartalmának valamennyi elemét hiánytalanul fel kell tüntetnie.
-
-(4) Az (1)–(3) bekezdés szerinti adatigénylés alapján a nyilvántartást kezelő szerv az adatigénylőnek arról ad tájékoztatást, hogy a lakcímadat a megadott adatokkal érvényes vagy a megadott adatokkal a nyilvántartásban nincs érvényes lakcím.”
-
-(8) Az Nytv. 22. §-a a következő m) ponttal egészül ki:
-
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:]
-
-„m) a nyilvántartás történeti állományára kiterjedően is, a konzuli szolgálat a konzuli védelemről szóló 2001. évi XLVI. törvény 6. § (1) bekezdése, valamint 11. § (1) bekezdése szerinti feladata körében a hozzátartozó felkutatása, felvilágosítása, illetve értesítése céljából.”
-
-(9) Az Nytv. 26. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) A lakcímbejelentési eljárás során a polgár a tároló elemmel ellátott személyazonosító igazolványát a lakcímadatok tároló elemen történő rögzítése céljából köteles a lakcímbejelentési eljárást lefolytató hatóságnak átadni, a tároló elemmel ellátott személyazonosító igazolvány hiánya a lakcímbejelentési eljárás lefolytatásának nem akadálya. A lakcímbejelentési eljárást lefolytató hatóság a lakcímadatot a polgár tároló elemmel rendelkező személyazonosító igazolványán a lakcímadat nyilvántartásba vételével egyidejűleg rögzíti, ezt követően a tároló elemmel ellátott személyazonosító igazolványt a polgár részére haladéktalanul visszaadja.
-
-(1b) Ha a polgár a lakcímbejelentési eljárás időpontjában eltulajdonítás, elvesztés vagy megsemmisülés miatt érvényes tároló elemmel ellátott személyazonosító igazolvánnyal nem rendelkezik, az egyéb okból érvénytelen, vagy a lakcímadat rögzítésének átmeneti jellegű műszaki vagy technikai akadálya áll fenn, a lakcímadatot az új tároló elemmel ellátott személyazonosító igazolvány kiadását követően a személyiadat- és lakcímnyilvántartási kapcsolat rendelkezésre állásakor hivatalból kell rögzíteni.”
-
-(10) Az Nytv. 26. §-a a következő (2e) bekezdéssel egészül ki:
-
-„(2e) Ha a 4. § (2e) bekezdése szerinti polgár Magyarország területén kíván életvitelszerűen élni, első lakóhely bejelentését az útlevél kiadására irányuló kérelem előterjesztésével egyidejűleg a kijelölt kormányhivatalnál köteles teljesíteni. Ha az első lakóhely nyilvántartásba vétele során az eljáró hatóság megállapítja, hogy a polgár a lakóhely bejelentéséhez – jogszabályban meghatározott kivétellel – szükséges szállásadói hozzájárulással nem rendelkezik, a polgárt nyilatkozata ellenére külföldön élő magyar állampolgárként kell nyilvántartásba vennie.”
-
-(11) Az Nytv. 29. § (7) bekezdése a következő h) ponttal egészül ki:
-
-[Az állandó személyazonosító igazolvány – a 29/E. § (2) bekezdésében foglalt eset kivételével – tároló elemet tartalmaz. A tároló elem tartalmazza]
-
-„h) a szolgáltatásazonosítót.”
-
-(12) Az Nytv. 29. § (7) bekezdése a következő i) és j) ponttal egészül ki:
-
-[Az állandó személyazonosító igazolvány – a 29/E. § (2) bekezdésében foglalt eset kivételével – tároló elemet tartalmaz. A tároló elem tartalmazza]
-
-„i) a polgár lakcímadatát,
-
-j) a polgár személyi azonosítóját.”
-
-(13) Az Nytv. 29. §-a a következő (17) bekezdéssel egészül ki:
-
-„(17) A (18)–(20) bekezdésben meghatározottak szerint a szolgáltatásazonosító kezelésére jogosult szerv vagy személy valamely jogosultság fennállását elektronikus úton a tároló elem olvasásával, felhasználói közreműködés – további kódok megadása – nélkül a szolgáltatásazonosítóhoz kötötten rögzítheti, a jogosultság fennállását ellenőrizheti, a szolgáltatásazonosítót kizárólag e célból megismerheti.”
-
-(14) Az Nytv. 29. § (18) bekezdése helyébe a következő rendelkezés lép:
-
-„(18) Ha a valamely jogosultságot nyújtó szerv vagy személy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvényben (a továbbiakban: Nektv.) meghatározott elektronikuskártya-kibocsátási keretrendszerhez kártyakibocsátóként csatlakozik, a szolgáltatásazonosító tekintetében a Nektv.-t, valamint a 29/D. § alkalmazása szempontjából a Nektv. 5. § (1) bekezdés b) pont ba) alpontjában meghatározott azonosítóra vonatkozó rendelkezéseket kell alkalmazni az e §-ban és a 29/D. §-ban meghatározott eltérésekkel.”
-
-(15) Az Nytv. 29. §-a a következő (19)–(20) bekezdéssel egészül ki:
-
-„(19) Ha a valamely jogosultságot nyújtó szerv vagy személy a Nektv.-ben meghatározott elektronikuskártya-kibocsátási keretrendszerhez kártyakibocsátóként nem csatlakozik, a szolgáltatásazonosító kezelésére akkor jogosult, ha valamely, a miniszter rendeletében meghatározott jogosultság fennállásának tényét a személyazonosító igazolvány jogosultjának természetes személyazonosító adataihoz hozzárendelten – a személyes adatok kezelésére irányadó előírások alapján – kezeli. A szolgáltatásazonosító kezelésére ebben az esetben, kizárólag ezen jogosultság fennállásának ellenőrzése céljából – a személyes adatok kezelésére irányadó előírások szerint – kerülhet sor.
-
-(20) A szolgáltatásazonosító alkalmazásával ellenőrzött egyes jogosultságokat tartalmazó nyilvántartások egymással való összekapcsolásához a szolgáltatásazonosító nem használható fel, a szolgáltatásazonosító személyazonosításra történő felhasználása tilos.”
-
-(16) Az Nytv. 29. §-a a következő (21) bekezdéssel egészül ki:
-
-„(21) Ha az állandó személyazonosító igazolvány tároló eleme nem vagy nem helyesen tartalmazza a polgár társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, illetve személyi azonosítóját, abban az esetben a polgár kérelmére
-
-a) az egészségbiztosítási szerv a polgár társadalombiztosítási azonosító jelét,
-
-b) a Nemzeti Adó- és Vámhivatal a polgár adóazonosító jelét,
-
-c) a nyilvántartás szervei a polgár lakcímét, illetve személyi azonosítóját
-
-a tároló elemen elhelyezi.”
-
-(17) Az Nytv. 47. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(A miniszter felhatalmazást kap arra, hogy rendeletben szabályozza)
-
-„f) azon jogosultságok körét, amelyek ellenőrzésére az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatásazonosító felhasználható.”
-
-(18) Az Nytv. a következő 52/F. §-sal egészül ki:
-
-„52/F. § E törvénynek az egyes ügyintézési folyamatok egyszerűsítéséről szóló 2019. évi LV. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a hatálybalépésüket követően indult és megismételt eljárásokban kell alkalmazni.”
-
-(19) Az Nytv. a következő 52/G. §-sal egészül ki:
-
-„52/G. § 2019. szeptember 30-át követően a tároló elemmel ellátott állandó személyazonosító igazolvány esetében a járási hivatal, a kijelölt kormányhivatal, a bv. szerv, a nyilvántartást kezelő szerv, illetve a konzuli tisztviselő a polgár erre irányuló kérelmére az állandó személyazonosító igazolvány tároló elemén rögzíti a polgár személyiadat- és lakcímnyilvántartás szerinti lakcímadatát és személyi azonosítóját.”
+(19)

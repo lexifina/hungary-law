@@ -7,11 +7,3 @@
 (3) A 3. § (7), (9), (12), (16) és (19) bekezdése, valamint az 5. § (3) bekezdés a) pontja 2019. szeptember 30-án lép hatályba.
 
 (4) A 3. § (8) bekezdése 2020. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
