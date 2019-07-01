@@ -1,4 +1,4 @@
-3. § (1)[^15] A befogadó állomáson elhelyezett számára biztosítani kell különösen
+3. § (1)[^16] A befogadó állomáson elhelyezett számára biztosítani kell különösen
 
 a) fekvőhelyet, ágyfelszerelést és ágyneműt;
 
@@ -12,12 +12,12 @@ e) a tömegtájékoztatási és távközlési eszközökhöz való hozzáférés
 
 f) a befogadó állomáson rendelkezésre álló művelődési és sportolási lehetőségek igénybevételét, valamint a szabadidő hasznos eltöltését lehetővé tevő programokban való részvételt, vallásgyakorlásra alkalmas (ökumenikus) helyiséget; valamint
 
-g)[^16] napi háromszori – kiskorú gyermek, várandós nő vagy szoptatós anya esetében napi ötszöri – étkezést vagy ennek megfelelő étkezési hozzájárulást.
+g)[^17] napi háromszori – kiskorú gyermek, várandós nő vagy szoptatós anya esetében napi ötszöri – étkezést vagy ennek megfelelő étkezési hozzájárulást.
 
-(1a)[^17] Természetben biztosított étkezés esetén naponta legalább 10 900 Kjoule energiatartalmú élelmet kell biztosítani. Az élelmezésnél az elhelyezett egészségi állapotát, korát, és vallásának étkezési előírásait figyelembe kell venni. Várandós nőnek vagy szoptatós anyának, valamint kiskorúnak naponta tejterméket és gyümölcsöt, illetve – ha az egészségügyi okból indokolt – ezekkel egyenértékű más élelmiszert kell biztosítani.
+(1a)[^18] Természetben biztosított étkezés esetén naponta legalább 10 900 Kjoule energiatartalmú élelmet kell biztosítani. Az élelmezésnél az elhelyezett egészségi állapotát, korát, és vallásának étkezési előírásait figyelembe kell venni. Várandós nőnek vagy szoptatós anyának, valamint kiskorúnak naponta tejterméket és gyümölcsöt, illetve – ha az egészségügyi okból indokolt – ezekkel egyenértékű más élelmiszert kell biztosítani.
 
 (2) A tömegtájékoztatási és távközlési eszközök használatát, valamint a művelődési és sportolási lehetőségek igénybevételét legalább napi tíz órában lehetővé kell tenni.
 
-[^15]: A 3. § (1) bekezdése a 69/2013. (XII. 11.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^16]: A 3. § (1) bekezdés g) pontja a 34/2017. (XII. 21.) BM rendelet 1. §-ával megállapított szöveg.
-[^17]: A 3. § (1a) bekezdését a 69/2013. (XII. 11.) BM rendelet 5. § (2) bekezdése iktatta be, szövege a 35/2018. (XII. 21.) BM rendelet 11. §-ával megállapított szöveg.
+[^16]: A 3. § (1) bekezdése a 69/2013. (XII. 11.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^17]: A 3. § (1) bekezdés g) pontja a 34/2017. (XII. 21.) BM rendelet 1. §-ával megállapított szöveg.
+[^18]: A 3. § (1a) bekezdését a 69/2013. (XII. 11.) BM rendelet 5. § (2) bekezdése iktatta be, szövege a 35/2018. (XII. 21.) BM rendelet 11. §-ával megállapított szöveg.

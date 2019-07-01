@@ -1,4 +1,4 @@
-4/D. §[^24] (1) A tranzitzónában a külön meghatározott rend szerint egészségügyi szolgálat és – napi huszonnégy órában – szociális szolgálat működik, amely különös figyelmet fordít a különleges bánásmódot igénylő személyek ellátására.
+4/D. §[^25] (1) A tranzitzónában a külön meghatározott rend szerint egészségügyi szolgálat és – napi huszonnégy órában – szociális szolgálat működik, amely különös figyelmet fordít a különleges bánásmódot igénylő személyek ellátására.
 
 (2) A tranzitzónában elhelyezett számára – az életkorát és az egészségi állapotot figyelembe véve – biztosítani kell különösen
 
@@ -14,10 +14,10 @@ e) a tömegtájékoztatási és távközlési eszközökhöz való hozzáférés
 
 f) a rendelkezésre álló művelődési és sportolási lehetőségek igénybevételét, a szabadidő hasznos eltöltését lehetővé tevő programokban való részvételt, a vallásgyakorlásra alkalmas (ökumenikus) helyiséget, valamint
 
-g)[^25] napi háromszori – kiskorú gyermek, várandós nő vagy szoptatós anya esetében napi ötszöri – étkezést.
+g)[^26] napi háromszori – kiskorú gyermek, várandós nő vagy szoptatós anya esetében napi ötszöri – étkezést.
 
-(3)[^26] Az étkeztetés során naponta legalább 10 900 Kjoule energiatartalmú élelmet kell biztosítani. Az élelmezésnél a tranzitzónában elhelyezett egészségi állapotát, korát és vallásának étkezési előírásait figyelembe kell venni. Várandós nőnek vagy szoptatós anyának, valamint kiskorúnak naponta tejterméket és gyümölcsöt, illetve – ha az egészségügyi okból indokolt – ezekkel egyenértékű más élelmiszert kell biztosítani.
+(3)[^27] Az étkeztetés során naponta legalább 10 900 Kjoule energiatartalmú élelmet kell biztosítani. Az élelmezésnél a tranzitzónában elhelyezett egészségi állapotát, korát és vallásának étkezési előírásait figyelembe kell venni. Várandós nőnek vagy szoptatós anyának, valamint kiskorúnak naponta tejterméket és gyümölcsöt, illetve – ha az egészségügyi okból indokolt – ezekkel egyenértékű más élelmiszert kell biztosítani.
 
-[^24]: A 4/D. §-t a 3/2017. (III. 23.) BM rendelet 1. §-a iktatta be.
-[^25]: A 4/D. § (2) bekezdés g) pontja a 34/2017. (XII. 21.) BM rendelet 2. §-ával megállapított szöveg.
-[^26]: A 4/D. § (3) bekezdése a 35/2018. (XII. 21.) BM rendelet 12. §-ával megállapított szöveg.
+[^25]: A 4/D. §-t a 3/2017. (III. 23.) BM rendelet 1. §-a iktatta be.
+[^26]: A 4/D. § (2) bekezdés g) pontja a 34/2017. (XII. 21.) BM rendelet 2. §-ával megállapított szöveg.
+[^27]: A 4/D. § (3) bekezdése a 35/2018. (XII. 21.) BM rendelet 12. §-ával megállapított szöveg.
