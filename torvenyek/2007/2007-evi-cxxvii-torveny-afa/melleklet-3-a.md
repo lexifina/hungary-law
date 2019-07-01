@@ -22,9 +22,7 @@ vtsz.
 
 |
 
-Tej és tejtermékek (kivéve az anyatejet, továbbá
-
-a 3. számú melléklet I. rész 54. pontja szerinti termékeket)
+Tej és tejtermékek (kivéve az anyatejet, továbbá a 3. számú melléklet I. rész 54. pontja szerinti termékeket)
 
 |
 
@@ -46,7 +44,7 @@ a 3. számú melléklet I. rész 54. pontja szerinti termékeket)
 
 |
 
-Tejtermékek (kivéve az italként közvetlen fogyasztásra alkalmas, tej pótlására szolgáló olyan imitátumokat, amelyek általában tej és permeátum – esetenként savó és/vagy tejszín – különböző arányú keverékéből állnak, és amelyek minősége, mennyiségi összetétele különbözik a természetes tejétől, tejfehérje tartalma lényegesen alacsonyabb a természetes tejénél)
+Tejtermékek (kivéve az italként közvetlen fogyasztásra alkalmas, tej pótlására szolgáló olyan imitátumokat, amelyek általában tej és permeátum - esetenként savó és/vagy tejszín - különböző arányú keverékéből állnak, és amelyek minősége, mennyiségi összetétele különbözik a természetes tejétől, tejfehérje tartalma lényegesen alacsonyabb a természetes tejénél)
 
 |
 
@@ -62,11 +60,11 @@ Tejtermékek (kivéve az italként közvetlen fogyasztásra alkalmas, tej pótl�
 
 |
 
-2202 90 91-ből
+2202 99 91-ből
 
-2202 90 95-ből
+2202 99 95-ből
 
-2202 90 99-ből
+2202 99 99-ből
 
 |
 
@@ -76,11 +74,11 @@ Tejtermékek (kivéve az italként közvetlen fogyasztásra alkalmas, tej pótl�
 
 Gabona, liszt, keményítő vagy tej felhasználásával készült termék
 
+(kivéve a 3. számú melléklet I. rész 5. pontja szerinti termékeket)
+
 |
 
-1901
-
-(kivéve: 1901 10 00 02)
+1901-ből
 
 1903
 

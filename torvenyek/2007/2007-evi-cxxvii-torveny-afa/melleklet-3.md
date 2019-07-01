@@ -6,9 +6,7 @@ I. rész: termékek
 
 |
 
-Sor-
-
-szám
+Sorszám
 
 |
 
@@ -40,7 +38,7 @@ Hagyományos gyógynövény drogok közvetlen lakossági fogyasztásra, kiskeres
 
 |
 
-1211 90 98-ból
+1211 90 86; 1211 50 00-ból
 
 1302-ből
 
@@ -54,7 +52,17 @@ Az arra feljogosított hatóság által engedélyezett humán célra felhasznál
 
 |
 
-3002 10-ből
+3002 11-ből;
+
+3002 12-ből;
+
+3002 13-ból;
+
+3002 14-ből;
+
+3002 15-ből
+
+3002 19-ből
 
 3002 90-ből
 
@@ -84,15 +92,15 @@ Orvosi radioaktív izotópok
 
 |
 
-Speciális gyógyászati célra szánt tápszerek, valamint anyatej-helyettesítő és anyatej-kiegészítő tápszerek
+Speciális gyógyászati célra szánt tápszerek (élelmiszerek), valamint anyatej-helyettesítő és anyatej-kiegészítő tápszerek (élelmiszerek),
 
 |
 
-1901 10 00 02
+1901 10 00-ból
 
-2106 90 92 01
+2106 90 92-ből
 
-2106 90 98 01
+2106 90 98-ból
 
 |
 
@@ -140,7 +148,7 @@ Pontozó vakoknak
 
 |
 
-8205 59 90-ből
+8205 59 80-ből
 
 |
 
@@ -164,7 +172,7 @@ Braille-írógép, Braille-nyomtató, Braille-kijelző vakoknak
 
 |
 
-8469 30-ból
+8472 90 90-ből
 
 8443-ból
 
@@ -192,7 +200,7 @@ Telefonkezelő adapter vakok számára
 
 |
 
-8517 80 90-ből
+8517 69 90-ből
 
 |
 
@@ -228,7 +236,7 @@ Könyv
 
 Napilap (hetenként legalább négyszer megjelenő kiadvány);
 
-Egyéb újság, folyóirat (évente legalább egyszer megjelenő kiadvány)
+Folyóirat, más újság (évente legalább egyszer megjelenő kiadvány)
 
 |
 
@@ -274,7 +282,7 @@ Fajtiszta tenyészsertés
 
 |
 
-Háziasított sertés, 50 kg-nál kisebb súlyú (a fajtiszta tenyészsertés kivételével)
+Háziasított sertés, 50 kg-nál kisebb tömegű
 
 |
 
@@ -286,7 +294,7 @@ Háziasított sertés, 50 kg-nál kisebb súlyú (a fajtiszta tenyészsertés ki
 
 |
 
-Élő, háziasított koca, legalább egyszer ellett, legalább 160 kg súlyú (a fajtiszta tenyészsertés kivételével)
+Élő, háziasított koca, legalább egyszer ellett, legalább 160 kg tömegű
 
 |
 
@@ -298,7 +306,7 @@ Háziasított sertés, 50 kg-nál kisebb súlyú (a fajtiszta tenyészsertés ki
 
 |
 
-Élő, háziasított sertés, legalább 50 kg súlyú (a legalább egyszer ellett, legalább 160 kg súlyú koca, valamint a fajtiszta tenyészsertés kivételével)
+Élő, háziasított sertés, legalább 50 kg tömegű
 
 |
 
@@ -338,11 +346,11 @@ Fajtatiszta tenyész szarvasmarha
 
 |
 
-0102 10 10
+0102 21 10
 
-0102 10 30
+0102 21 30
 
-0102 10 90
+0102 21 90
 
 |
 
@@ -354,27 +362,29 @@ Más, élő háziasított szarvasmarha
 
 |
 
-0102 90 05
+0102 29 05-ből
 
-0102 90 21
+0102 29 10-ből
 
-0102 90 29
+0102 29 21-ből
 
-0102 90 41
+0102 29 29-ből
 
-0102 90 49
+0201 29 41-ből
 
-0102 90 51
+0102 29 49-ből
 
-0102 90 59
+0102 29 51-ből
 
-0102 90 61
+0102 29 59-ből
 
-0102 90 69
+0102 29 61-ből
 
-0102 90 71
+0102 29 69-ből
 
-0102 90 79
+0102 29 91-ből
+
+0102 29 99-ből
 
 |
 
@@ -456,7 +466,7 @@ Háziasított szarvasmarhafélék húsa frissen vagy hűtve, másképpen darabol
 
 |
 
-Háziasított szarvasmarhafélék húsa frissen vagy hűtve, másképpen darabolt, csonttal, egyben vagy darabolva – elülső testnegyed
+Háziasított szarvasmarhafélék húsa frissen vagy hűtve, másképpen darabolt, csonttal, bontatlan vagy bontott elülső testnegyed
 
 |
 
@@ -468,7 +478,7 @@ Háziasított szarvasmarhafélék húsa frissen vagy hűtve, másképpen darabol
 
 |
 
-Háziasított szarvasmarhafélék húsa frissen vagy hűtve, másképpen darabolt, csonttal, egyben vagy darabolva – hátulsó testnegyed
+Háziasított szarvasmarhafélék húsa frissen vagy hűtve, másképpen darabolt, csonttal, bontatlan vagy bontott hátulsó testnegyed
 
 |
 
@@ -492,7 +502,9 @@ Háziasított szarvasmarhafélék húsa fagyasztva, egész vagy fél
 
 |
 
-Háziasított szarvasmarhafélék húsa fagyasztva, másképpen darabolt, csonttal, „kompenzált” negyedek
+Háziasított szarvasmarhafélék húsa fagyasztva, másképpen darabolt, csonttal,
+
+„kompenzált” negyedek
 
 |
 
@@ -588,7 +600,9 @@ Más háziasított juhhús fagyasztva, egész vagy fél
 
 |
 
-Más háziasított juhhús fagyasztva, másképpen darabolt, csonttal, rövid elülső negyed
+Más háziasított juhhús fagyasztva, másképpen darabolt, csonttal, rövid elülső
+
+negyed
 
 |
 
@@ -654,9 +668,9 @@ Házi sertéshús frissen, hűtve vagy fagyasztva
 
 0203-ból
 
-(kivéve: 0203
+(kivéve: 0203 1110,
 
-1110, 0203 2110)
+0203 2110)
 
 |
 
@@ -712,7 +726,7 @@ Tej (kivéve az anyatejet)
 
 |
 
-0401 10-ből
+040110-ből
 
 0401 20-ból
 
@@ -734,7 +748,7 @@ Emberi fogyasztásra alkalmas élő hal, a díszhal kivételével
 
 |
 
-Emberi fogyasztásra alkalmas hal (ideértve a halbőrt, ikrát, haltejet, halmájat és egyéb belsőségeket is) frissen, hűtve vagy fagyasztva, a cápa kivételével
+Emberi fogyasztásra alkalmas hal (ideértve a halbőrt, ikrát, haltejet, halmájat és más belsőségeket is) frissen, hűtve vagy fagyasztva, a cápa kivételével
 
 |
 
@@ -764,11 +778,7 @@ Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsős�
 
 |
 
-0206 30-ból
-
-0206 41-ből
-
-0206 49-ből
+0206 30-ból 0206 41-ből 0206 49-ből
 
 I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
@@ -1050,9 +1060,7 @@ c) belépődíj nélkül tartott, a zenés, táncos rendezvények működésé
 
 |
 
-Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom
-
-(SZJ 55.30.1-ből)
+Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom (TESZOR’15 56.10-ből)
 
 |
 

@@ -18,7 +18,7 @@ dc) adószámának vagy csoportos általános forgalmiadó-alanyiság esetén cs
 
 e) a termék értékesítőjének, szolgáltatás nyújtójának, valamint a termék beszerzőjének, szolgáltatás igénybevevőjének neve és címe;
 
-f) az értékesített termék megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott vtsz., továbbá mennyisége vagy a nyújtott szolgáltatás megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott SZJ, továbbá mennyisége, feltéve, hogy az természetes mértékegységben kifejezhető;
+f) az értékesített termék megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott vtsz., továbbá mennyisége vagy a nyújtott szolgáltatás megnevezése, annak jelölésére – a számlakibocsátásra kötelezett választása alapján – az e törvényben alkalmazott TESZOR'15, továbbá mennyisége, feltéve, hogy az természetes mértékegységben kifejezhető;
 
 g) a 163. § (1) bekezdés a) és b) pontjában említett időpont, ha az eltér a számla kibocsátásának keltétől;
 

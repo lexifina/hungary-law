@@ -4,9 +4,7 @@ A 142. § (1) bekezdése d) pontjának alkalmazása alá tartozó termékek
 
 |
 
-Sor-
-
-szám
+Sorszám
 
 |
 
@@ -108,7 +106,7 @@ Cinkhulladék és -törmelék
 
 |
 
-Wolfram- (tungsten) hulladék és törmelék
+Volfrám- (tungsten) hulladék és törmelék
 
 |
 
@@ -240,7 +238,7 @@ Mangánhulladék és -törmelék
 
 |
 
-A vas- és acélgyártásnál keletkező szemcsézett salak (salakhomok)
+A vas- vagy acélgyártásnál keletkező szemcsézett salak (salakhomok)
 
 |
 
@@ -252,7 +250,9 @@ A vas- és acélgyártásnál keletkező szemcsézett salak (salakhomok)
 
 |
 
-Salak, kohósalak (a szemcsézett salak kivételével), reve, a vas- vagy az acélgyártásnál keletkező egyéb hulladék
+Salak, kohósalak (a szemcsézett salak kivételével), reve és, a vas- vagy
+
+az acélgyártásnál keletkező más hulladék
 
 |
 
@@ -264,11 +264,11 @@ Salak, kohósalak (a szemcsézett salak kivételével), reve, a vas- vagy az ac�
 
 |
 
-Arzént, fémet vagy ezek vegyületeit tartalmazó hamu és üledék (a vas- vagy acélgyártásnál keletkező hamu és üledék kivételével)
+Fémeket, arzént vagy ezek vegyületeit tartalmazó hamu és maradvány (a vas- vagy acélgyártásnál keletkező hamu és üledék kivételével)
 
 |
 
-2620
+2620-ból
 
 |
 
@@ -300,7 +300,7 @@ Visszanyert (hulladék és használt) papír vagy karton
 
 |
 
-Műanyag hulladék és forgács
+Műanyag hulladék és -forgács
 
 |
 
@@ -312,7 +312,7 @@ Műanyag hulladék és forgács
 
 |
 
-Lágygumi hulladék, -törmelék és -forgács, és az ezekből nyert por és granulátum
+Lágygumihulladék, -törmelék és -forgács, és az ezekből nyert por és granulátum
 
 |
 
@@ -324,7 +324,7 @@ Lágygumi hulladék, -törmelék és -forgács, és az ezekből nyert por és gr
 
 |
 
-Nemesfém- és nemesfémmel platírozott fémhulladék és -törmelék; más nemesfémet vagy nemesfémvegyületet tartalmazó hulladék és törmelék, elsősorban nemesfém visszanyeréséhez
+Nemesfém- vagy nemesfémmel platírozott fémtörmeléke és hulladéka és -törmelék; más nemesfémet vagy nemesfémvegyületet tartalmazó törmelék és hulladék, elsősorban nemesfém visszanyeréséhez
 
 |
 
@@ -348,11 +348,11 @@ Szemcse és por nyersvasból, tükörvasból, vasból vagy acélból
 
 |
 
-Használt vagy új rongy, zsineg-, kötél-, hajókötél-hulladék és használt textiláru zsinegből, kötélből vagy hajókötélből
+Használt vagy új rongy, zsineg-, kötél-, hajókötél- és használt áruk textilanyagból készült zsinegből, kötélből vagy hajókötélből
 
 |
 
-6310
+6310-ből
 
 |
 
@@ -360,11 +360,11 @@ Használt vagy új rongy, zsineg-, kötél-, hajókötél-hulladék és használ
 
 |
 
-Használt primer cella, primer elem és elektromos akkumulátor, ezeknek hulladéka; kimerült primer elem és kimerült elektromos akkumulátor
+Primer cella, primer elem és elektromos akkumulátor hulladéka; kimerült primer cella, kimerült primer elem és kimerült elektromos akkumulátor
 
 |
 
-8548 10
+8548 10-ből
 
 |
 
@@ -388,4 +388,4 @@ Vanádiumhulladék és -törmelék
 
 |
 
-8112 40 19
+8112 92 21-ből”

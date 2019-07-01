@@ -25,5 +25,3 @@ b) az 500 000 forintot eléri vagy meghaladja, a számla kibocsátását követ�
 számlánként köteles a számla 169. § szerinti tartalmáról adatot szolgáltatni.
 
 6. Az adóalany külön jogszabályban meghatározott elektronikus módon számlánként adatszolgáltatást teljesít az állami adó- és vámhatóság részére azon számlázási funkcióval rendelkező programmal kiállított számlák külön jogszabályban meghatározott adattartalmáról, amelyekben egy másik, belföldön nyilvántartásba vett adóalanyra áthárított adó összege a 100 000 forintot eléri vagy meghaladja. Az adóalany ezen számlákat érintő módosításról vagy érvénytelenítésről is külön jogszabályban meghatározott módon elektronikus adatszolgáltatást teljesít. Szintén külön jogszabályban meghatározott módon kell elektronikus adatszolgáltatást teljesíteni azon módosításokról, amikor a módosítást követően éri el vagy haladja meg a 100 000 forintot a számlában áthárított adó.
-
-7. Számla nyomdai úton előállított nyomtatvány használatával történő módosítása esetén a számlával egy tekintet alá eső okiratot kibocsátó adóalany köteles ezen okirat 170. § szerinti tartalmáról adatot szolgáltatni annak kibocsátását követő

@@ -8,9 +8,7 @@ A. pont
 
 |
 
-Sor-
-
-szám
+Sorszám
 
 |
 
@@ -34,7 +32,9 @@ Zöldségpalánta
 
 0602 10
 
-0602 20, 0602-ből
+0602 20,
+
+0602 90 30-ból
 
 |
 
@@ -42,7 +42,7 @@ Zöldségpalánta
 
 |
 
-Burgonya
+Burgonya frissen vagy hűtve
 
 |
 
@@ -54,7 +54,9 @@ Burgonya
 
 |
 
-Élelmezési célra alkalmas zöldségfélék, gyökerek és gumók (kivéve: hántolt és feles) szaporítóanyag zöldségfélékhez
+Élelmezési célra alkalmas zöldségfélék, és egyes gyökerek és gumók (kivéve: hántolt és feles)
+
+szaporítóanyag zöldségfélékhez
 
 |
 
@@ -64,7 +66,7 @@ Burgonya
 
 0713-ból,
 
-1209-ből
+1209 91
 
 |
 
@@ -72,7 +74,7 @@ Burgonya
 
 |
 
-Szőlő
+Szőlő frissen
 
 |
 
@@ -84,23 +86,23 @@ Szőlő
 
 |
 
-Élelmezési célra alkalmas gyümölcs és dió
-
-és dinnyefélék héja
+Élelmezési célra alkalmas gyümölcs és dió és dinnyefélék héja
 
 |
 
 0802 11-től
 
-0802 50-ig,
+0802 52-ig,
 
 0807 11,
 
-0807 19, 0808, 0809,
+0807 19, 0808,
 
-0810 10-től 0
+0809,
 
-810 40-ig,
+0810 10-től
+
+0 810 40-ig,
 
 0810 90-ből
 
@@ -114,7 +116,11 @@ Hazai termesztésű fűszernövények
 
 |
 
-0904 20, 0909, 0910-ből
+0904 21-ből
+
+0904 22-ből, 0909-ből,
+
+0910-ből
 
 |
 
@@ -122,9 +128,7 @@ Hazai termesztésű fűszernövények
 
 |
 
-Gabonafélék
-
-muhar, csumiz
+Gabonafélék, muhar, csumiz
 
 |
 
@@ -134,13 +138,17 @@ muhar, csumiz
 
 1008 10,
 
-1008 20,
+1008 21
+
+1008 29,
 
 1008 30,
 
-1008 90 10
+1008 40 .
 
-1008 90 90-ből
+1008 50.
+
+1008 90ből
 
 |
 
@@ -156,7 +164,9 @@ Szaporítóanyag ipari növényekhez
 
 1201, 1202
 
-1204-től 1207-ig, 1209-ből,
+1204-től 1207-ig,
+
+1209-ből,
 
 1210-ből,
 
@@ -164,7 +174,9 @@ Szaporítóanyag ipari növényekhez
 
 1212 91,
 
-1212 99 80-ból, 1213,
+1212 99 80-ból,
+
+1213,
 
 1401 90-ből,
 
@@ -188,7 +200,7 @@ Mákgubó
 
 |
 
-1211 90 98 99-ből
+1211 90 86-ból
 
 |
 
@@ -204,7 +216,7 @@ Szaporítóanyag takarmánynövényekhez
 
 1214-ből
 
-2308 00 40 00-ból,
+2308 40-ból,
 
 1209-ből
 
@@ -214,15 +226,17 @@ Szaporítóanyag takarmánynövényekhez
 
 |
 
-Feldolgozott, tartósított saját előállítású zöldség, gyümölcs, savanyúság, citrusfélék
-
-és dinnyefélék héja
+Feldolgozott, tartósított saját előállítású zöldség, gyümölcs, savanyúság, citrusfélék és dinnyefélék héja
 
 paradicsomlé
 
 |
 
-0711, 0712, 0811-től 0813-ig, 0814-ből,
+0711, 0712,
+
+0811-től 0813-ig,
+
+0814-ből,
 
 2001,
 
@@ -264,15 +278,15 @@ Szőlőtörköly
 
 |
 
-2308-ból
+2308 00 11
+
+2308 0019
 
 B. pont
 
 |
 
-Sor-
-
-szám
+Sorszám
 
 |
 
@@ -308,9 +322,11 @@ Halak (csak az édesvízi halak, halikra), rákok, puhatestű és más gerinctel
 
 0301-ből, 0302-ből,
 
-0306 29 10, 0307-ből,
+0306 19 10,
 
-0307 60, 0307 91-ből
+0307-ből, 0307 60,
+
+0307 91-ből
 
 |
 
@@ -354,7 +370,7 @@ Természetes méz
 
 |
 
-Másutt nem említett állati eredetű termékek (szőr, háziállatok spermája, propolisz, méhpempő, virágpor, méhviasz, méhpempővel dúsított méz)
+Máshol nem említett állati eredetű termékek (szőr, háziállatok spermája, propolisz, méhpempő, virágpor, méhviasz, méhpempővel dúsított méz)
 
 |
 
@@ -362,7 +378,7 @@ Másutt nem említett állati eredetű termékek (szőr, háziállatok spermája
 
 0511-ből,
 
-1301 90 90 99-ből,
+1301 90ből,
 
 0410-ből,
 
@@ -418,7 +434,7 @@ Nyers gyapjú
 
 |
 
-5101
+5101-ből
 
 |
 

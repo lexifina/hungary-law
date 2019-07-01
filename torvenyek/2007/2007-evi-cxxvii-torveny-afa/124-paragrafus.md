@@ -2,7 +2,7 @@
 
 124. § (1) A 120. és 121. §-tól függetlenül nem vonható le:
 
-a) a motorbenzint (vtsz. 2710 11 41, 2710 11 45, 2710 11 49, 2710 11 59) terhelő előzetesen felszámított adó;
+a) a motorbenzint (vtsz. 2710 12 41, 27 10 12 45, 2710 12 49, 2710 12 59; 2710 20 90-ből) terhelő előzetesen felszámított adó;
 
 b) az a) pontban nem említett egyéb üzemanyagot terhelő előzetesen felszámított adó, feltéve, hogy az személygépkocsi (vtsz. 8703) üzemeltetéséhez szükséges;
 
@@ -32,7 +32,7 @@ b)
 
 c) a lakóingatlan építéséhez, felújításához szükséges szolgáltatást,
 
-d) a taxiszolgáltatást (a Központi Statisztikai Hivatal Szolgáltatások Jegyzékében – a továbbiakban: SZJ – 60.22.11),
+d) a taxiszolgáltatást (a Központi Statisztikai Hivatal Termékek és Szolgáltatások Osztályozási Rendszere, TESZOR'15 – a továbbiakban: TESZOR'15 – 49.32.11),
 
 e) a parkolási szolgáltatást,
 
@@ -40,17 +40,17 @@ f) az úthasználati szolgáltatást,
 
 g) a vendéglátó-ipari szolgáltatást,
 
-h) a szórakoztatási célú szolgáltatást (SZJ 55.40, 92.33, 92.34, 92.72)
+h) a szórakoztatási célú szolgáltatást (TESZOR'15 56.30, 90.01, 90.02, 93.21, 93.29)
 
 terhelő előzetesen felszámított adó.
 
 (3) A 120. és 121. §-tól függetlenül szintén nem vonható le:
 
-a) a távbeszélő-szolgáltatást (SZJ 64.20.11 és 64.20.12),
+a) a vezetékes telefonszolgáltatást (TESZOR'15 61.10.11, 61.10.12),
 
-b) a mobiltelefon-szolgáltatást (SZJ 64.20.13),
+b) a vezeték nélküli telefonszolgáltatást (TESZOR'15 61.20.12, 61.20.13, 61.20.14-ből),
 
-c) az internetprotokollt alkalmazó, beszédcélú adatátviteli szolgáltatást (SZJ 64.20.16-ból)
+c) az internetprotokollt alkalmazó, beszédcélú szolgáltatást (TESZOR'15 61.10.49-ből, 61.20.49-ből, 61.90.10-ből)
 
 terhelő előzetesen felszámított adó összegének 30 százaléka.
 

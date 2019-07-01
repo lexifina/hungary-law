@@ -4,9 +4,7 @@ A 142. § (1) bekezdés i) pontjának alkalmazása alá tartozó termékek
 
 |
 
-Sor-
-
-szám
+Sorszám
 
 |
 
@@ -14,7 +12,7 @@ Megnevezés
 
 |
 
-Vtsz.
+vtsz.
 
 |
 
@@ -86,7 +84,7 @@ Triticale
 
 |
 
-1008 90 10
+1008 60 10
 
 |
 
@@ -98,7 +96,7 @@ Napraforgó-mag, törve is
 
 |
 
-1206 00
+1206
 
 |
 

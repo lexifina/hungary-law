@@ -12,7 +12,7 @@ Megnevezés
 
 |
 
-Vtsz.
+vtsz.
 
 |
 
@@ -92,7 +92,7 @@ Melegen hengerelt rúd vasból vagy ötvözetlen acélból, szabálytalanul felg
 
 |
 
-Más rúd vasból vagy ötvözetlen acélból, kovácsolva, melegen hengerelve, melegen húzva vagy extrudálva, hengerlés után csavarva is
+Más rúd vasból vagy ötvözetlen acélból, kovácsolva, melegen hengerelve, melegen húzva vagy -extrudálva, hengerlés után csavarva is, de tovább nem megmunkálva
 
 |
 
@@ -116,7 +116,7 @@ Más rúd vasból vagy ötvözetlen acélból
 
 |
 
-Szögvas, idomvas és szelvény vasból vagy nem ötvözött acélból
+Szögvas, idomvas és szelvény vasból vagy ötvözetlen acélból
 
 |
 
@@ -140,7 +140,9 @@ Huzal vasból vagy ötvözetlen acélból
 
 |
 
-Varrat nélküli cső és üreges profil vasból vagy nem ötvözött acélból (az öntöttvas cső kivételével)
+Varrat nélküli cső és üreges profil vasból vagy nem ötvözött acélból
+
+(az öntöttvas cső kivételével)
 
 |
 
@@ -164,7 +166,7 @@ Más cső és üreges profil vasból vagy nem ötvözött acélból (pl. nyitva 
 
 |
 
-Rács, sodronyfonat és kerítésfonat a keresztezéseknél hegesztve, legalább 3 mm keresztmetszetű huzalból és lyukmérete legalább 100 cm2
+Rács, sodronyfonat, és kerítésfonat a keresztezéseknél hegesztve, legalább 3 mm keresztmetszetű huzalból, és lyukmérete legalább 100 cm2
 
 |
 
