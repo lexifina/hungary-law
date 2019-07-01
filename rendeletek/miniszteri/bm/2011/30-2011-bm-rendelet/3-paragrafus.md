@@ -20,7 +20,9 @@ g)[^9] a személy- és objektumvédelmi szolgálati,
 
 h) a terrorelhárítási szolgálati ág,
 
-i)[^10] a kommunikációs szolgálati ág.
+i)[^10] a kommunikációs szolgálati ág,
+
+j)[^11] az idegenrendészeti és menekültügyi szolgálati ág.
 
 (3) A szolgálatok:
 
@@ -28,7 +30,7 @@ a) az állami futárszolgálat,
 
 b) a bevetési szolgálat,
 
-c)[^11] a bűnügyi technikai szolgálat,
+c)[^12] a bűnügyi technikai szolgálat,
 
 d) a légirendészeti szolgálat,
 
@@ -40,13 +42,13 @@ g) a tűzszerész szolgálat,
 
 h) az ügyeleti szolgálat,
 
-i)[^12] a védelmi igazgatási szolgálat,
+i)[^13] a védelmi igazgatási szolgálat,
 
 j) a vízirendészeti szolgálat,
 
-k)[^13] a légiközlekedés védelmi szolgálat,
+k)[^14] a légiközlekedés védelmi szolgálat,
 
-l)[^14] a tanúvédelmi szolgálat.
+l)[^15] a tanúvédelmi szolgálat.
 
 (4) A szakszolgálatok:
 
@@ -60,7 +62,8 @@ d) a humánigazgatási szakszolgálat.
 
 [^9]: A 3. § (2) bekezdés g) pontja a 61/2015. (XI. 24.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 3. § (2) bekezdés i) pontját a 18/2013. (V. 9.) BM rendelet 2. § (1) bekezdése iktatta be.
-[^11]: A 3. § (3) bekezdés c) pontja az 58/2016. (XII. 22.) BM rendelet 27. § b) pontja szerint módosított szöveg.
-[^12]: A 3. § (3) bekezdés i) pontja a 61/2015. (XI. 24.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^13]: A 3. § (3) bekezdés k) pontját a 18/2013. (V. 9.) BM rendelet 2. § (2) bekezdése iktatta be.
-[^14]: A 3. § (3) bekezdés l) pontját a 61/2015. (XI. 24.) BM rendelet 2. §-a iktatta be.
+[^11]: A 3. § (2) bekezdés j) pontját a 27/2019. (VI. 28.) BM rendelet 12. §-a iktatta be.
+[^12]: A 3. § (3) bekezdés c) pontja az 58/2016. (XII. 22.) BM rendelet 27. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (3) bekezdés i) pontja a 61/2015. (XI. 24.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdés k) pontját a 18/2013. (V. 9.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^15]: A 3. § (3) bekezdés l) pontját a 61/2015. (XI. 24.) BM rendelet 2. §-a iktatta be.

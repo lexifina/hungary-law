@@ -1,4 +1,4 @@
-## 32. §[^65] A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti visszatartást az előállító egységben kell végrehajtani. E rendelkezés tekintetében előállító egységnek minősül az idegenrendészeti hatóság és a menekültügyi hatóság területi szerveinél, valamint a rendőrségen a biztonságos őrzésre alkalmas helyiség is.
+## 32. §[^66] A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti visszatartást az előállító egységben kell végrehajtani. E rendelkezés tekintetében előállító egységnek minősül az idegenrendészeti hatóság és a menekültügyi hatóság területi szerveinél, valamint a rendőrségen a biztonságos őrzésre alkalmas helyiség is.
 
 ## 26. Elővezetés
 
@@ -6,4 +6,4 @@
 
 (2) Ha az elővezetés elrendelésére jogosult hatóság az intézkedés alá vont személy útba indulásának ellenőrzését rendelte el, a rendőr az elővezetés végrehajtása érdekében csak az útba indulást ellenőrzi.
 
-[^65]: A 32. § az 50/2016. (XII. 14.) BM rendelet 11. §-ával megállapított szöveg.
+[^66]: A 32. § az 50/2016. (XII. 14.) BM rendelet 11. §-ával megállapított szöveg.
