@@ -4,7 +4,7 @@
 
 a) az Országos Rendőr-főkapitányság,
 
-b)[^1] a Bevándorlási és Menekültügyi Hivatal,
+b)[^1] az Országos Idegenrendészeti Főigazgatóság,
 
 c) a Büntetés-végrehajtás Országos Parancsnoksága,
 
@@ -62,7 +62,7 @@ c)[^6] amennyiben a b) alpont szerinti feladatkörrel rendelkező miniszter nem 
 
 8. tömeges bevándorlás okozta válsághelyzet: a menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) 80/A. §-ában foglaltak alapján, a Kormány által elrendelt helyzet.
 
-[^1]: A 2. § 1. pont b) alpontja a 379/2016. (XII. 2.) Korm. rendelet 306. § (1) bekezdés a) pontjával megállapított szöveg.
+[^1]: A 2. § (1) bekezdés b) pontja a 126/2019. (V. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^2]: A 2. § 1. pont h) alpontja a 186/2016. (VII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^3]: A 2. § 1. pont i) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
 [^4]: A 2. § 1. pont n) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
