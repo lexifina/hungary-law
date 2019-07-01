@@ -1,4 +1,4 @@
-1. melléklet a 39/2016. (X. 6.) BM rendelethez
+1. melléklet a 39/2016. (X. 6.) BM rendelethez[^3]
 
 A rendfokozati vizsga követelményrendszere
 
@@ -19,6 +19,8 @@ A rendfokozati vizsga követelményrendszere
 | 7. | hivatásos katasztrófavédelmi szerv | általános katasztrófavédelmi ismeretek | Szakterületi ismeretek |
 
 | 8. | büntetés-végrehajtási szervezet | általános büntetés-végrehajtási ismeretek | Szakterületi ismeretek |
+
+| 9. | idegenrendészeti szerv | – | általános rendőri ismeretek | Szakterületi ismeretek |
 
 I. Vizsgakérdések:
 
@@ -75,3 +77,5 @@ c) együttműködés a társ-rendvédelmi feladatokat ellátó szervekkel, közi
 2. Szakmai szolgálati ismeretek: a szolgálati beosztás szerinti szakterület szakmai szabályai (eljárási és anyagi jogi szabályok, módszerek, metodikák, technikai eszközök ismerete és anyagismeret stb.), jogok és kötelezettségek rendszere
 
 3. Szolgálati jog és etika: a hivatásos szolgálati jogviszony alapvető szabályai, jogok és kötelezettségek rendszere, valamint a hivatásos állomány tagjával szemben – rendfokozatához és szolgálati beosztásához igazodó – magatartási és etikai szabályok, ideértve az integritás és korrupció kérdéskörét is
+
+[^3]: Az 1. melléklet a 27/2019. (VI. 28.) BM rendelet 54. §-a szerint módosított szöveg.
