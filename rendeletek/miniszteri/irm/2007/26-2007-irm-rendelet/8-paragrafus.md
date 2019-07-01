@@ -4,6 +4,7 @@
 
 (2) Légi úton történő kitoloncoláshoz lehetőség szerint közvetlen légi járatot kell igénybe venni.
 
-(3) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 142. § (5) bekezdése szerinti intézkedések körében a Hivatal megvizsgálja, hogy rendelkezésre áll-e a 2004/573/EK tanácsi határozat alapján szervezett közös légi járat.
+(3)[^8] A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 142. § (5) bekezdése szerinti intézkedések körében a Főigazgatóság megvizsgálja, hogy rendelkezésre áll-e a 2004/573/EK tanácsi határozat alapján szervezett közös légi járat.
 
 [^7]: A 8. § a 33/2013. (VI. 28.) BM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 8. § (3) bekezdése a 27/2019. (VI. 28.) BM rendelet 7. § b) pontja szerint módosított szöveg.

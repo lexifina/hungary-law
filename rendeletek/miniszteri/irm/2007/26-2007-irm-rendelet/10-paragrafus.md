@@ -1,6 +1,6 @@
 ## Közreműködés más állam által elrendelt kiutasítás végrehajtásában
 
-10. § (1)[^12] A Harmtv. végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 141. § (7) bekezdése alapján a Rendőrség – a kérelmező állam kijelölt hatóságával folytatott kölcsönös konzultációkra is figyelemmel –
+10. § (1)[^14] A Harmtv. végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 141. § (7) bekezdése alapján a Rendőrség – a kérelmező állam kijelölt hatóságával folytatott kölcsönös konzultációkra is figyelemmel –
 
 a) a harmadik országbeli állampolgárt fogadja a légi járműnél, és az átszállítási művelet teljes időtartama alatt hatósági kíséretet biztosít a repülőtér területén belül, különösen a csatlakozó légi járathoz,
 
@@ -16,15 +16,17 @@ f) a kérelmező állam kijelölt hatóságát tájékoztatja, amennyiben a harm
 
 g) indokolt esetben gondoskodik a harmadik országbeli állampolgár és a kíséret biztonságos elhelyezéséről.
 
-(2) Ha a Harmtv. végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 141. § (1) bekezdésében meghatározott légi átszállítás során
+(2)[^15] Ha a Harmtv. végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 141. § (1) bekezdésében meghatározott légi átszállítás során
 
-a) a Hivatal visszavonta a légi átszállításhoz történő hozzájárulását,
+a)[^16] a Főigazgatóság visszavonta a légi átszállításhoz történő hozzájárulását,
 
-b)[^13] a harmadik országbeli állampolgár engedély nélkül lépett be Magyarország területére,
+b)[^17] a harmadik országbeli állampolgár engedély nélkül lépett be Magyarország területére,
 
 c) a harmadik országbeli állampolgár egy másik tranzitországba, illetve célországba történő kiutasítása vagy a csatlakozó légi járatra történő felszállása sikertelen volt, vagy
 
 d) a légi átszállítás egyéb oknál fogva nem lehetséges,
 
-[^12]: A 10. § (1) bekezdésének felvezető szövege az 51/2007. (XII. 11.) IRM rendelet 4. §-a szerint módosított szöveg.
-[^13]: A 10. § (2) bekezdés b) pontja a 68/2011. (XII. 30.) BM rendelet 25. §-a szerint módosított szöveg.
+[^14]: A 10. § (1) bekezdésének felvezető szövege az 51/2007. (XII. 11.) IRM rendelet 4. §-a szerint módosított szöveg.
+[^15]: A 10. § (2) bekezdés záró szövegrésze a 27/2019. (VI. 28.) BM rendelet 7. § b) pontja szerint módosított szöveg.
+[^16]: A 10. § (2) bekezdés a) pontja a 27/2019. (VI. 28.) BM rendelet 7. § b) pontja szerint módosított szöveg.
+[^17]: A 10. § (2) bekezdés b) pontja a 68/2011. (XII. 30.) BM rendelet 25. §-a szerint módosított szöveg.
