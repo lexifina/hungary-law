@@ -1,0 +1,1 @@
+## 51/E. § Az otthonteremtési kamattámogatási kérelem benyújtásakor a hitelintézet átadja az igénylőnek a miniszter tájékoztatóját a hatályos lakástámogatások feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
