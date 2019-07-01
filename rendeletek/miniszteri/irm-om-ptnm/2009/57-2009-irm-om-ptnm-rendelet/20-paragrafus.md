@@ -2,21 +2,21 @@
 
 20. § (1) A rendészeti oktatási intézménybe felvételt megelőzően fizikai, pszichikai és egészségi alkalmassági vizsgálatot kell végezni.
 
-(2)[^63] Fizikai alkalmassági vizsgálatra csak az a rendészeti oktatási intézménybe jelentkező bocsátható, aki rendelkezik a 11. melléklet szerinti háziorvosi igazolással. A fizikai alkalmassági vizsgálatot a rendészeti oktatási intézmény testnevelési vagy sportszakmai szakképzettséggel rendelkező munkatársa végzi.
+(2)[^64] Fizikai alkalmassági vizsgálatra csak az a rendészeti oktatási intézménybe jelentkező bocsátható, aki rendelkezik a 11. melléklet szerinti háziorvosi igazolással. A fizikai alkalmassági vizsgálatot a rendészeti oktatási intézmény testnevelési vagy sportszakmai szakképzettséggel rendelkező munkatársa végzi.
 
-(3)[^64]
+(3)[^65]
 
-(4)[^65] Az egészségi alkalmassági vizsgálaton a 7. § (1) bekezdésében felsorolt dokumentumok mellett a jelentkező nőnek az egy évnél nem régebbi nőgyógyászati citológiai vizsgálat, a jelentkező férfinak az egy évnél nem régebbi urológiai vizsgálat eredményét is be kell mutatnia.
+(4)[^66] Az egészségi alkalmassági vizsgálaton a 7. § (1) bekezdésében felsorolt dokumentumok mellett a jelentkező nőnek az egy évnél nem régebbi nőgyógyászati citológiai vizsgálat, a jelentkező férfinak az egy évnél nem régebbi urológiai vizsgálat eredményét is be kell mutatnia.
 
-(5)[^66] Az egészségi és pszichikai alkalmassági vizsgálatot első és másodfokon az MH Honvédkórház végzi.
+(5)[^67] Az egészségi és pszichikai alkalmassági vizsgálatot első és másodfokon az MH Honvédkórház végzi.
 
-(6)[^67] A rendészeti oktatási intézménybe jelentkezőnek csak alkalmas vagy alkalmatlan minősítés adható.
+(6)[^68] A rendészeti oktatási intézménybe jelentkezőnek csak alkalmas vagy alkalmatlan minősítés adható.
 
-(7)[^68] A rendészeti oktatási intézménybe felvételt megelőző alkalmassági vizsgálaton megállapított alkalmas minősítés a rendészeti okatatási intézménybe felvételt megelőző alkalmasság elbírálása során hat hónapig használható fel.
+(7)[^69] A rendészeti oktatási intézménybe felvételt megelőző alkalmassági vizsgálaton megállapított alkalmas minősítés a rendészeti okatatási intézménybe felvételt megelőző alkalmasság elbírálása során hat hónapig használható fel.
 
-[^63]: A 20. § (2) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § j) pontja szerint módosított szöveg.
-[^64]: A 20. § (3) bekezdését a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (3) bekezdése hatályon kívül helyezte.
-[^65]: A 20. § (4) bekezdése a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
-[^66]: A 20. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § m) és k) pontja szerint módosított szöveg.
-[^67]: A 20. § (6) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § l) pontja szerint módosított szöveg.
-[^68]: A 20. § (7) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § m) pontja szerint módosított szöveg.
+[^64]: A 20. § (2) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § j) pontja szerint módosított szöveg.
+[^65]: A 20. § (3) bekezdését a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^66]: A 20. § (4) bekezdése a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^67]: A 20. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § m) és k) pontja szerint módosított szöveg.
+[^68]: A 20. § (6) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § l) pontja szerint módosított szöveg.
+[^69]: A 20. § (7) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § m) pontja szerint módosított szöveg.

@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-57-20-1
 | 2019-01-01 | 2009-57-20-1U.23 | 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet |
 | 2019-03-12 | 2009-57-20-1U.24 | 10/2010. (XII. 22.) BM rendelet |
 | 2019-04-01 | 2009-57-20-1U.25 | 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet |
+| 2019-07-01 | 2009-57-20-1U.26 | 10/2010. (XII. 22.) BM rendelet |

@@ -1,6 +1,6 @@
-## 58. §[^152] A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szervek, valamint az Országgyűlési Őrség vonatkozásában e rendeletnek a Nemzeti Rehabilitációs és Szociális Hivatalra vonatkozó rendelkezéseit 2017. január 1-től azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Rehabilitációs és Szociális Hivatal helyett a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 2. § (4) bekezdése, valamint 1. § (1) bekezdés b) pontja szerint kijelölt első, illetve másodfokon eljáró szerv jár el.
+## 58. §[^153] A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szervek, valamint az Országgyűlési Őrség vonatkozásában e rendeletnek a Nemzeti Rehabilitációs és Szociális Hivatalra vonatkozó rendelkezéseit 2017. január 1-től azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Rehabilitációs és Szociális Hivatal helyett a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 2. § (4) bekezdése, valamint 1. § (1) bekezdés b) pontja szerint kijelölt első, illetve másodfokon eljáró szerv jár el.
 
-1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^153]
+1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^154]
 
 Táblázat és magyarázat a betegségek és fogyatékosságok alapján
 
@@ -1498,9 +1498,5 @@ Végtagok ismétlődő felületes vénatrombóziasa esetén „AN”.
 
 090.2. alszakasz szerint minősítendők mind az alsó, mind a felső végtagon egy alkalommal előforduló mélyvénás-thrombosis, valamint a v. iliaca szintű és a v. cava inferior szintű thrombosis utáni állapot, ha secunder varicositas és végtagoedema nem társul.
 
-090.3. alszakaszba tartoznak az előző alszakaszban említett kórképek, ha secunder varicositas, illetve terhelésre kialakuló végtagoedema társul.
-
-090.4. alszakaszba tartoznak az előző két alszakaszban említett kórképek, ha secunder varicositas, állandó oedema és trophikus zavar társul.
-
-[^152]: Az 58. §-t az 55/2016. (XII. 22.) BM rendelet 2. §-a iktatta be.
-[^153]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § q) pontja szerint módosított szöveg.
+[^153]: Az 58. §-t az 55/2016. (XII. 22.) BM rendelet 2. §-a iktatta be.
+[^154]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § q) pontja szerint módosított szöveg.

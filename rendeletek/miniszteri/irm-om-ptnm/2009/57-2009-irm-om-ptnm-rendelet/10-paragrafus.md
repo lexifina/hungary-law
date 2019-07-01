@@ -14,6 +14,6 @@ c) „Pszichikailag alkalmatlan”.
 
 (4) „Pszichikailag alkalmatlan” minősítést kell megállapítani, ha a vizsgált személy nem felel meg a hivatásos szolgálat ellátásával összefüggésben támasztott szellemi, érzékelési, személyiségbeli, értékrendi és pályamotivációs követelményeknek.
 
-(5)[^34] A pszichológiai dokumentációban rögzíteni kell a minősítést, valamint ideiglenesen alkalmatlan vagy alkalmatlan minősítés esetén a 6. melléklet szerinti pszichológiai alkalmassági követelményekben meghatározott kódok alkalmazásával a minősítés okát vagy okait. A minősítést az 5. melléklet 1. függeléke szerinti nyomtatványra kell rávezetni, amelyet a személyi anyagban kell elhelyezni.
+(5)[^35] A pszichológiai dokumentációban rögzíteni kell a minősítést, valamint ideiglenesen alkalmatlan vagy alkalmatlan minősítés esetén a 6. melléklet szerinti pszichológiai alkalmassági követelményekben meghatározott kódok alkalmazásával a minősítés okát vagy okait. A minősítést az 5. melléklet 1. függeléke szerinti nyomtatványra kell rávezetni, amelyet a személyi anyagban kell elhelyezni.
 
-[^34]: A 10. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 8. §-ával megállapított szöveg.
+[^35]: A 10. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 8. §-ával megállapított szöveg.
