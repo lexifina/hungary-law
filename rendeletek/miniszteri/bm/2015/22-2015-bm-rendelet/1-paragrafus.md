@@ -10,6 +10,12 @@ c) a terrorizmust elhárító szerv,
 
 d) a hivatásos katasztrófavédelmi szerv,
 
-e) a büntetés-végrehajtási szervezet, valamint
+e)[^1] a büntetés-végrehajtási szervezet,
 
-f) a belügyminiszter irányítása alatt álló polgári nemzetbiztonsági szolgálatok.
+f)[^2] a belügyminiszter irányítása alatt álló polgári nemzetbiztonsági szolgálatok, valamint
+
+g)[^3] az idegenrendészeti szerv.
+
+[^1]: Az 1. § e) pontja a 27/2019. (VI. 28.) BM rendelet 48. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § f) pontja a 27/2019. (VI. 28.) BM rendelet 48. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § g) pontját a 27/2019. (VI. 28.) BM rendelet 47. §-a iktatta be.
