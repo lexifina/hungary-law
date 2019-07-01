@@ -1,11 +1,11 @@
-## 32. §[^99]
+## 32. §[^103]
 
 33. § (1) A Tv. 16. § (1) bekezdés d) pontjában foglalt feltétel igazolására a születési anyakönyvi kivonat szolgál.
 
-(2)[^100]
+(2)[^104]
 
-(3)[^101]
+(3)[^105]
 
-[^99]: A 32. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^100]: A 33. § (2) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
-[^101]: A 33. § (3) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^103]: A 32. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^104]: A 33. § (2) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^105]: A 33. § (3) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

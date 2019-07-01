@@ -1,10 +1,10 @@
 ## A száznyolcvan napon belül kilencven napot meghaladó tartózkodás
 
-## feltételeinek igazolása[^73]
+## feltételeinek igazolása[^77]
 
 19. § (1) Az EGT-állampolgár a Tv.-ben meghatározott feltételeket a tartózkodás jogcímének megfelelően okirattal vagy más irattal igazolhatja.
 
-(2)[^74] A Tv. alkalmazásában az eljáró idegenrendészeti hatóság a kérelmező által benyújtott, külföldön kiállított közokiratot diplomáciai felülhitelesítés és hiteles magyar fordítás hiányában is elfogadhatja.
+(2)[^78] A Tv. alkalmazásában az eljáró idegenrendészeti hatóság a kérelmező által benyújtott, külföldön kiállított közokiratot diplomáciai felülhitelesítés és hiteles magyar fordítás hiányában is elfogadhatja.
 
-[^73]: A 19. §-t megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
-[^74]: A 19. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (3) bekezdésével megállapított, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^77]: A 19. §-t megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^78]: A 19. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (3) bekezdésével megállapított, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

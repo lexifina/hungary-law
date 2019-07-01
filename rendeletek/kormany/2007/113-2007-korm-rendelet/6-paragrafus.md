@@ -1,3 +1,3 @@
-## 5. §[^11]
+## 5. §[^13]
 
-[^11]: Az 5. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^13]: Az 5. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
