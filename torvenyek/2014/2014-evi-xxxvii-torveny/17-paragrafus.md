@@ -44,7 +44,7 @@ a) az intézkedés szükséges az e törvényben meghatározott szanálási cél
 
 b) az intézmény fizetésképtelenségi eljárás keretében történő megszüntetése révén e szanálási célok nem tudnának legalább a szanálási intézkedés alkalmazásával elérhető mértékben megvalósulni.
 
-(6) Az (1) bekezdés b) pontjának alkalmazásakor a Szhitv. szerinti szövetkezeti hitelintézet szanálása előtt a szanálási feladatkörében eljáró MNB-nek azt is meg kell vizsgálnia, hogy az Integrációs Szervezet intézkedéseivel megakadályozható-e a szövetkezeti hitelintézet fizetésképtelenné válása.
+(6)
 
 (7) A szanálási feladatkörében eljáró MNB az intézményre vonatkozó szanálási akciótervet készít legkésőbb a szanálás (1) bekezdés szerinti elrendelésekor, amely – ha rendelkezésre áll akkor – figyelembe veszi a szanálási tervet, kivéve ha az eltérést az eset körülményei indokolttá teszik.
 

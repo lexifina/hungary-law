@@ -22,6 +22,6 @@ h) az illetékes minisztériumokat;
 
 i) a pénz-, tőke- és biztosítási piac szabályozásáért felelős minisztert;
 
-j) szövetkezeti hitelintézet tervezett szanálása esetén az Integrációs Szervezetet;
+j)
 
 k) az Európai Rendszerkockázati Testületet.

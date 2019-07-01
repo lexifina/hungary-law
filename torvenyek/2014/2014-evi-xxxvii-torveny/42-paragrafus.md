@@ -18,14 +18,4 @@ f) nem állhat fenn összeférhetetlenség.
 
 (3) A szanálási feladatkörében eljáró MNB objektív szempontok alapján meghatározott lehetséges átvevőket kér fel.
 
-(4) Szövetkezeti hitelintézet szanálása során a lehetséges átvevők felkérésénél a szanálási feladatkörében eljáró MNB a következő szempontok szerint előnyben részesíti:
-
-a) az azonos vagy nagyobb földrajzi működési területtel rendelkező intézményt,
-
-b) azt az intézményt, amelynek a termék- és szolgáltatás-struktúrája hasonló,
-
-c) azt az intézményt, amelynek fiókhálózata egészségesen kiegészíthető (figyelembe véve azt is, hogy az átvevő intézmény általában milyen településméreten tart fenn fiókokat) az átveendő intézmény fiókjaival,
-
-d) informatikai rendszer egyezőségét, külön értékelve, hogy az eszköz és forrásállomány milyen erőforrásokkal migrálható az átvevő intézménybe,
-
-e) a korábbi működési szabályzatok hasonlóságát.
+(4)

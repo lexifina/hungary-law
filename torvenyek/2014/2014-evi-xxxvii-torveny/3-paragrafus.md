@@ -76,11 +76,11 @@
 
 33. határon átnyúló csoport: olyan csoport, amelyben több EGT-államban székhellyel rendelkező vállalkozás van;
 
-34. hitelintézet: a Hpt. 8. § (1) bekezdésében meghatározott szervezet, valamint az Integrációs Szervezet;
+34. hitelintézet: a Hpt. 8. § (1) bekezdésében meghatározott szervezet;
 
 34a. hitelviszonyt megtestesítő instrumentum: kötvény és az átruházható követelések más formája, adósságot keletkeztető vagy elismerhető instrumentum, és a hitelviszonyt megtestesítő instrumentum megszerzésére feljogosító instrumentum;
 
-35. Integrációs Szervezet: a Szhitv.-ben meghatározott fogalom;
+35.
 
 36. illetékes felügyeleti hatóság: 575/2013/EU rendeletben illetékes hatóságként meghatározott fogalom;
 
@@ -164,7 +164,7 @@ f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vona
 
 59a. szavatoló tőke követelmények: az 575/2013/EU rendelet 92–98. cikkében meghatározott követelmények;
 
-60. szövetkezeti hitelintézet: a Szhitv. alapján a szövetkezeti hitelintézetek integrációjában részt vevő hitelintézet;
+60.
 
 61. ügyvezető: a Hpt. 6. § (1) bekezdésében meghatározott fogalom;
 
