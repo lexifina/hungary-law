@@ -1,0 +1,3 @@
+24. § Az Szhitv. 17/K. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1a) Az Integrációs Szervezet tagja vagy a Kapcsolt Vállalkozás vezető tisztségviselőinek és vezető állású személyeinek kinevezéséhez az Integrációs Szervezet igazgatóságának előzetes hozzájárulása szükséges. Az Integrációs Szervezet kezdeményezheti, hogy az Integrációs Szervezet tagjánál tartsanak közgyűlést vagy taggyűlést, amelynek napirendi pontja a tisztújítás a vezető tisztségviselők vonatkozásában. Az érintett tagnál a jogszabály által megengedett legrövidebb időn belül meg kell tartani a közgyűlést vagy a taggyűlést.”

@@ -1,0 +1,9 @@
+14. § (1) Az Szhitv. 11/G. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Az Integrációs Szervezetből kilépni kívánó integrációs üzleti irányító szervezet Integrációs Szervezeti tagsága kizárólag azt követően szűnhet meg, hogy az e törvényben meghatározott, az integrációs üzleti irányító szervezet szövetkezeti hitelintézetek integrációjával kapcsolatos feladatait és hatásköreit az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályairól szóló rendeletben meghatározottak szerint az Integrációs Szervezet által kiválasztott új integrációs üzleti irányító szervezet átvette.
+
+(3) Az integrációs üzleti irányító szervezet az e törvényben meghatározott, a szövetkezeti hitelintézetek integrációjával kapcsolatos feladatok ellátásáért és jogkörök gyakorlásáért, a feladatok és jogkörök új integrációs üzleti irányító szervezet által történő átvételéig felelősséggel tartozik.”
+
+(2) Az Szhitv. 11/G. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A szövetkezeti hitelintézetek integrációjának – az integrációs üzleti irányító szervezet Integrációs Szervezetből történő kilépésének, valamint az e törvényben meghatározott integrációs üzleti irányító szervezet feladatait ellátó pénzügyi intézmény kiválasztásának részletszabályairól szóló rendeletben meghatározottak szerint – kiválasztott új integrációs üzleti irányító szervezete az Integrációs Szervezeti tagságának időpontjától egyetemlegesen felel az Integrációs Szervezet és annak tagjai által vállalt valamennyi kötelezettségért, függetlenül azok keletkezésének időpontjától, továbbá ezen időponttól az Integrációs Szervezet és annak tagjai is egyetemlegesen felelnek az integrációs üzleti irányító szervezet által vállalt valamennyi kötelezettségért, függetlenül azok keletkezésének időpontjától.”
