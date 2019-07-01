@@ -4,7 +4,7 @@
 
 a) a magánszemély rendelkező nyilatkozata évének első napja előtt legalább
 
-aa) két évvel korábban bíróság által nyilvántartásba vett – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) szerinti – egyesület (kivéve a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet),
+aa) két évvel korábban bíróság által nyilvántartásba vett – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil tv.) szerinti – egyesület (kivéve kivéve a 4/A. § (1) bekezdés a) pontja alapján kedvezményezettnek minősülő szervezetet, a pártot, biztosító egyesületet, munkaadói és munkavállalói érdek-képviseleti szervezetet),
 
 ab) két évvel korábban bíróság által nyilvántartásba vett alapítvány, közalapítvány,
 

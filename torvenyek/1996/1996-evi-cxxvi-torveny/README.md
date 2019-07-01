@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-126-00-00
 | 2017-06-20 | 2017. évi LXXVII. törvény | 1996-126-00-00.40 |
 | 2018-01-01 | 2017. évi CLIV. törvény | 1996-126-00-00.41 |
 | 2019-01-01 | 2018. évi LXXXII. törvény | 1996-126-00-00.42 |
+| 2019-07-01 | 2019. évi XXXVI. törvény | 1996-126-00-00.43 |
