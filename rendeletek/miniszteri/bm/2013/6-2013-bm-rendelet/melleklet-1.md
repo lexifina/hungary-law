@@ -1,4 +1,4 @@
-## 23. §[^36]
+## 23. §[^39]
 
 1. melléklet a 6/2013. (III. 27.) BM rendelethez
 
@@ -22,22 +22,22 @@ II. A kegyeleti költségnormát nem terhelő kiadások
 
 1. Koszorú költségek:
 
-a)[^37] hősi halott, a szolgálat halottja, illetve a rendvédelmi feladatokat ellátó szerv halottja temetésén legfeljebb 2 db koszorú;
+a)[^40] hősi halott, a szolgálat halottja, illetve a rendvédelmi feladatokat ellátó szerv halottja temetésén legfeljebb 2 db koszorú;
 
 b) szervezeti egység halottja és nem minősített elhunyt temetésén 1 db koszorú;
 
 c) síremlék avatáskor, megemlékezésekkor síremlékenként vagy emléktáblánként 1 db koszorú.
 
-2.[^38] Gyászközlemény költsége: a hősi halott, a szolgálat halottja, illetve a rendvédelmi feladatokat ellátó szerv halottja temetése esetén, a sajtóban történő közzétételének számla szerinti összege.
+2.[^41] Gyászközlemény költsége: a hősi halott, a szolgálat halottja, illetve a rendvédelmi feladatokat ellátó szerv halottja temetése esetén, a sajtóban történő közzétételének számla szerinti összege.
 
-3.[^39] Testületi tiszteletadás költségei (ideértve a rendvédelmi feladatokat ellátó szerv temetéssel összefüggő utazási költségeit).
+3.[^42] Testületi tiszteletadás költségei (ideértve a rendvédelmi feladatokat ellátó szerv temetéssel összefüggő utazási költségeit).
 
 4. Sírgondozás költsége: közeli hozzátartozó hiányában vagy akadályoztatása esetén a hősi halott, illetve a szolgálat halottja síremlékének gondozására, a szolgáltató által kiállított számlával igazolt összeg.
 
-5.[^40] Hősi halott és a szolgálat halottja sírhelyének újraváltása: közeli hozzátartozó hiányában vagy annak akadályoztatása, illetve rossz anyagi helyzete esetén a hősi halott, a szolgálat halottja sírhelyének újraváltása a szolgáltató által kiállított számlával igazolt összeg erejéig.
+5.[^43] Hősi halott és a szolgálat halottja sírhelyének újraváltása: közeli hozzátartozó hiányában vagy annak akadályoztatása, illetve rossz anyagi helyzete esetén a hősi halott, a szolgálat halottja sírhelyének újraváltása a szolgáltató által kiállított számlával igazolt összeg erejéig.
 
-[^36]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: Az 1. melléklet II. rész 1. pont a) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^38]: Az 1. melléklet II. rész 2. pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^39]: Az 1. melléklet II. rész 3. pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^40]: Az 1. melléklet II.5. pontja az 54/2015. (X. 5.) BM rendelet 7. §-ával megállapított szöveg.
+[^39]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: Az 1. melléklet II. rész 1. pont a) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^41]: Az 1. melléklet II. rész 2. pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet II. rész 3. pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^43]: Az 1. melléklet II.5. pontja az 54/2015. (X. 5.) BM rendelet 7. §-ával megállapított szöveg.
