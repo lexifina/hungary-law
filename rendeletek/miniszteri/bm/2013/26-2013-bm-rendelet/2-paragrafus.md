@@ -1,8 +1,8 @@
 ## 2. § E rendelet alkalmazásában:
 
-1.[^2] ágazati célkitűzések: a belügyminiszter által a rendvédelmi feladatokat ellátó szerv részére a tárgyévre vonatkozóan megállapított lényeges szakmai és szervezeti célok és elvárások;
+1.[^5] ágazati célkitűzések: a belügyminiszter által a rendvédelmi feladatokat ellátó szerv részére a tárgyévre vonatkozóan megállapított lényeges szakmai és szervezeti célok és elvárások;
 
-2.[^3] belügyi szerv: a Belügyminisztérium, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a 6. pontban felsorolt rendvédelmi feladatokat ellátó szervek;
+2.[^6] belügyi szerv: a Belügyminisztérium, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a 6. pontban felsorolt rendvédelmi feladatokat ellátó szervek;
 
 3. értékelés: a teljesítmény megállapítására irányuló tevékenység, amikor – mérhető mutatók hiányában – az értékelő vezető megítélésén alapul a teljesítmény megállapítása;
 
@@ -10,9 +10,9 @@
 
 5. értékelt személy: a hivatásos állomány tagja, akinek a teljesítményét e rendeletben meghatározott szabályok szerint kell értékelni, illetve mérni;
 
-6.[^4] rendvédelmi feladatokat ellátó szerv: az általános rendőrségi feladatok ellátására létrehozott szerv, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, továbbá az egyéni teljesítményértékelés ajánlott elemeire és minősítésére vonatkozó rendelkezések tekintetében az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ;
+6.[^7] rendvédelmi feladatokat ellátó szerv: az általános rendőrségi feladatok ellátására létrehozott szerv, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, az Országos Idegenrendészeti Főigazgatóság, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, továbbá az egyéni teljesítményértékelés ajánlott elemeire és minősítésére vonatkozó rendelkezések tekintetében az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ;
 
-7.[^5] fejlesztési célok: az egyén fejlődését és a munkavégzést együttesen támogató olyan célok, amelyek lehetnek a munkavégzéshez kötődőek vagy a munkavégzésen kívüliek;
+7.[^8] fejlesztési célok: az egyén fejlődését és a munkavégzést együttesen támogató olyan célok, amelyek lehetnek a munkavégzéshez kötődőek vagy a munkavégzésen kívüliek;
 
 8. helyi szerv: a rendőrkapitányság, a határrendészeti kirendeltség, a katasztrófavédelmi kirendeltség;
 
@@ -30,31 +30,33 @@
 
 15. munkavégzéshez kötődő fejlesztési cél: az értékelő vezető által irányított, támogatott, a munkavégzéshez kapcsolódó tudatos egyéni fejlesztés;
 
-16.[^6] országos parancsnok: a 17. pontban meghatározott szervezeti egység vezetője, valamint az egyéni teljesítményértékelés ajánlott elemeire és minősítésére vonatkozó rendelkezések tekintetében az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ vezetője;
+16.[^9] országos parancsnok: a 17. pontban meghatározott szervezeti egység vezetője, valamint az egyéni teljesítményértékelés ajánlott elemeire és minősítésére vonatkozó rendelkezések tekintetében az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ vezetője;
 
-17. országos parancsnokság: az Országos Rendőr-főkapitányság, a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, a Büntetés-végrehajtás Országos Parancsnoksága, a Nemzeti Védelmi Szolgálat, valamint a Terrorelhárítási Központ;
+17.[^10] országos parancsnokság: az Országos Rendőr-főkapitányság, a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, a Büntetés-végrehajtás Országos Parancsnoksága, a Nemzeti Védelmi Szolgálat, az Országos Idegenrendészeti Főigazgatóság, valamint a Terrorelhárítási Központ;
 
 18. stratégiai egyéni teljesítménykövetelmény: a szervezet stratégiai célkitűzéséből lebontott egyéni feladat, amelynek teljesítésével a hivatásos állomány vezető beosztású tagja a stratégiai célok elérésére a munkavégzése során befolyással lehet, és amellyel elő tudja mozdítani a szervezet eredményes és hatékony munkáját;
 
-19.[^7] szakmai teljesítménykövetelmény-minimumok: a szervezeti egységgel szemben a tárgyévre meghatározott és a belügyminiszter által jóváhagyott, a szervezeti egység szakmai tevékenységét jellemző, a szakmai tevékenységhez kapcsolódó alapvető, számszerűsíthető értékek, mutatók, elvárások;
+19.[^11] szakmai teljesítménykövetelmény-minimumok: a szervezeti egységgel szemben a tárgyévre meghatározott és a belügyminiszter által jóváhagyott, a szervezeti egység szakmai tevékenységét jellemző, a szakmai tevékenységhez kapcsolódó alapvető, számszerűsíthető értékek, mutatók, elvárások;
 
-20.[^8] személyügyi szolgálat: a rendvédelmi feladatokat ellátó szervnél vagy annak szervezeti egységénél működő személyügyi feladatokat ellátó munkaszervezet;
+20.[^12] személyügyi szolgálat: a rendvédelmi feladatokat ellátó szervnél vagy annak szervezeti egységénél működő személyügyi feladatokat ellátó munkaszervezet;
 
 21. szervezeti működés teljesítménymutatói: a szervezeti egység működése szakszerűségének, jogszerűségének, eredményességének, hatékonyságának és minősége szintjének értékelésére szolgáló jellemzők;
 
-22.[^9] szervezeti teljesítménycélok: az ágazati célkitűzések és a rendvédelmi feladatokat ellátó szerv alaptevékenysége alapján a szervezeti egységek működésének fejlesztése érdekében, egyes kiemelten fontos területen elérni kívánt, és az adott évre megállapított célmeghatározás;
+22.[^13] szervezeti teljesítménycélok: az ágazati célkitűzések és a rendvédelmi feladatokat ellátó szerv alaptevékenysége alapján a szervezeti egységek működésének fejlesztése érdekében, egyes kiemelten fontos területen elérni kívánt, és az adott évre megállapított célmeghatározás;
 
 23. teljesítményértékelés kötelező elemei: a Korm. rendelet 5. §-a szerinti munkaköri egyéni teljesítménykövetelmények, valamint a kompetencia alapú munkamagatartás értékelési tényezők;
 
-24. területi szerv: a megyei, fővárosi rendőr-főkapitányság, a büntetés-végrehajtási intézet, a fővárosi, megyei katasztrófavédelmi igazgatóság, az egyes feladatok létrehozására törvény vagy kormányrendelet által létrehozott más rendőri szerv, a büntetés-végrehajtási intézmény, az Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ, a Katasztrófavédelmi Oktatási Központ, a Nemzeti Védelmi Szolgálat igazgatósága, valamint a Terrorelhárítási Központ igazgatósága;
+24.[^14] területi szerv: a megyei, fővárosi rendőr-főkapitányság, a büntetés-végrehajtási intézet, a fővárosi, megyei katasztrófavédelmi igazgatóság, az egyes feladatok létrehozására törvény vagy kormányrendelet által létrehozott más rendőri szerv, a büntetés-végrehajtási intézmény, az Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ, a Katasztrófavédelmi Oktatási Központ, a Nemzeti Védelmi Szolgálat igazgatósága, az Országos Idegenrendészeti Főigazgatóság igazgatósága, valamint a Terrorelhárítási Központ igazgatósága;
 
 25. vezető besorolású értékelt személy: osztályvezető, vagy annál magasabb besorolású vezető.
 
-[^2]: A 2. § 1. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^3]: A 2. § 2. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja, a 29/2016. (VII. 15.) BM rendelet 32. §-a, a 37/2016. (IX. 1.) BM rendelet 13. §-a szerint módosított szöveg.
-[^4]: A 2. § 6. pontja a 29/2016. (VII. 15.) BM rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § 7. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^6]: A 2. § 16. pontja a 29/2016. (VII. 15.) BM rendelet 31. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § 19. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^8]: A 2. § 20. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^9]: A 2. § 22. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^5]: A 2. § 1. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^6]: A 2. § 2. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja, a 29/2016. (VII. 15.) BM rendelet 32. §-a, a 37/2016. (IX. 1.) BM rendelet 13. §-a szerint módosított szöveg.
+[^7]: A 2. § 6. pontja a 29/2016. (VII. 15.) BM rendelet 31. § (1) bekezdésével megállapított, a 27/2019. (VI. 28.) BM rendelet 37. § d) pontja szerint módosított szöveg.
+[^8]: A 2. § 7. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^9]: A 2. § 16. pontja a 29/2016. (VII. 15.) BM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § 17. pontja a 27/2019. (VI. 28.) BM rendelet 37. § e) pontja szerint módosított szöveg.
+[^11]: A 2. § 19. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^12]: A 2. § 20. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^13]: A 2. § 22. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^14]: A 2. § 24. pontja a 27/2019. (VI. 28.) BM rendelet 37. § f) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 8. § (1) Amennyiben a teljesítményértékelés ajánlott elemei kötelező alkalmazását írták elő, a teljesítményértékelés kötelező és ajánlott elemei értékelésének, illetve mérésének az eredményeit, továbbá a szervezeti teljesítményértékelés eredményeként megállapított teljesítményszintet az egyéni teljesítményszint meghatározásakor a (2)–(5) bekezdés szerinti súlyozott értékekkel kell figyelembe venni.
 
-(2)[^23] Az országos parancsnok, a területi és a helyi szerv vezetője, valamint az ezek szervezetszerű helyettesi beosztását ellátó értékelt személy esetén az egyes elemek súlyozása:
+(2)[^28] Az országos parancsnok, a területi és a helyi szerv vezetője, valamint az ezek szervezetszerű helyettesi beosztását ellátó értékelt személy esetén az egyes elemek súlyozása:
 
 a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 15%,
 
@@ -32,7 +32,7 @@ e) a teljesítményértékelés ajánlott elemeként meghatározott kompetenciá
 
 f) a teljesítményértékelés ajánlott elemeként meghatározott stratégiai egyéni teljesítménykövetelmények: 15%.
 
-(4)[^24] A tiszti besorolási osztályba tartozó szolgálati beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
+(4)[^29] A tiszti besorolási osztályba tartozó szolgálati beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
 
 a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 30%,
 
@@ -44,7 +44,7 @@ d) a teljesítményértékelés ajánlott elemeként meghatározott fejlesztési
 
 e) a teljesítményértékelés ajánlott elemeként meghatározott kompetenciák értékelése: 20%.
 
-(5)[^25] A tiszthelyettesi besorolási osztályba tartozó szolgálati beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
+(5)[^30] A tiszthelyettesi besorolási osztályba tartozó szolgálati beosztást betöltő értékelt személy esetén az egyes elemek súlyozása:
 
 a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 30%,
 
@@ -62,9 +62,9 @@ e) a teljesítményértékelés ajánlott elemeként meghatározott kompetenciá
 
 (8) Ha a teljesítményértékelés ajánlott elemei kötelező alkalmazását csak egyes elemek vonatkozásában rendelte el az országos parancsnok, akkor a mellőzött ajánlott elem súlyszámát egyenlő arányban el kell osztani az értékelt ajánlott elemek között.
 
-(9)[^26] Ha év közbeni többletfeladatok megállapítására kerül sor, ezen teljesítményértékelési elem értékelését 5%-os súlyozással kell figyelembe venni a teljesítményértékelés során, egyidejűleg a (2)–(5) bekezdésben foglalt rendelkezések alkalmazása során a munkaköri egyéni teljesítménykövetelmények súlyozását 5%-kal csökkenteni kell.
+(9)[^31] Ha év közbeni többletfeladatok megállapítására kerül sor, ezen teljesítményértékelési elem értékelését 5%-os súlyozással kell figyelembe venni a teljesítményértékelés során, egyidejűleg a (2)–(5) bekezdésben foglalt rendelkezések alkalmazása során a munkaköri egyéni teljesítménykövetelmények súlyozását 5%-kal csökkenteni kell.
 
-[^23]: A 8. § (2) bekezdés nyitó szövegrésze a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^24]: A 8. § (4) bekezdés nyitó szövegrésze a 76/2015. (XII. 22.) BM rendelet 18. § f) pontja szerint módosított szöveg.
-[^25]: A 8. § (5) bekezdés nyitó szövegrésze a 76/2015. (XII. 22.) BM rendelet 18. § g) pontja szerint módosított szöveg.
-[^26]: A 8. § (9) bekezdése a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^28]: A 8. § (2) bekezdés nyitó szövegrésze a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^29]: A 8. § (4) bekezdés nyitó szövegrésze a 76/2015. (XII. 22.) BM rendelet 18. § f) pontja szerint módosított szöveg.
+[^30]: A 8. § (5) bekezdés nyitó szövegrésze a 76/2015. (XII. 22.) BM rendelet 18. § g) pontja szerint módosított szöveg.
+[^31]: A 8. § (9) bekezdése a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 10. pontja szerint módosított szöveg.

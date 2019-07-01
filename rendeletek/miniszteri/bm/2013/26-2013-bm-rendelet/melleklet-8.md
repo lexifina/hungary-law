@@ -1,4 +1,4 @@
-8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^67]
+8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^72]
 
 Szervezeti működés teljesítménymutatói
 
@@ -270,6 +270,38 @@ V. A Nemzeti Védelmi Szolgálat szakmai tevékenységét értékelő teljesítm
 
 8. az előkészítő eljárások szakszerűsége és színvonala
 
+V/A. Az Országos Idegenrendészeti Főigazgatóság szakmai tevékenységét értékelő teljesítménymutatók
+
+1. idegenrendészeti hatósági terület
+
+1.1. hatósági engedélyezési eljárások jogszerűsége, szakszerűsége
+
+1.2. ügyfélszolgálati tevékenység során az ügyfelekkel történő kommunikáció színvonala, az ügyfélszolgálati tevékenység szakszerűsége, hatékonysága
+
+1.3. idegenrendészeti kényszerintézkedések jogszerűsége, szakszerűsége
+
+1.4. tervezett és végrehajtott idegenrendészeti ellenőrzések szervezettsége, intenzitása, színvonala
+
+1.5. idegenrendészeti utókövetés szervezettsége, intenzitása, színvonala
+
+1.6. igazgatási ügyfeldolgozás hatékonysága
+
+1.7. határidők betartása
+
+1.8. szakirányítói tevékenység megfelelősége
+
+2. menekültügyi hatósági terület
+
+2.1. a menekültügyi feladatok ellátásának és koordinációjának szakszerűsége, jogszerűsége
+
+2.2. a jogi képviseleti ügyek eredményessége, színvonala
+
+2.3. menekültügyi hatósági ügyek előkészítésének szabályszerűsége
+
+2.4. nemzetközi és hazai szervekkel történő kommunikáció hatékonysága
+
+2.5. panaszbeadványok elbírálásának szakszerűsége, jogszerűsége
+
 VI. A büntetés-végrehajtási szervezet szakmai tevékenységét értékelő teljesítménymutatók
 
 1. biztonság, fogvatartás
@@ -338,4 +370,4 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5.3. az iparbiztonsági szakterületi gyakorlatok megfelelősége
 
-[^67]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^72]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése, a 27/2019. (VI. 28.) BM rendelet 38. §-a szerint módosított szöveg.
