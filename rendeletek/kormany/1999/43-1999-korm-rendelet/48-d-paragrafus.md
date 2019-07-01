@@ -10,7 +10,8 @@
 
 (5) A kezeléssorozat finanszírozási díja betegenként 800 000 forint.
 
-(6) A kezeléssorozat időtartama legalább 6, legfeljebb 12 hónap lehet. A kezeléssorozatba 2018. december 31-ét követően beteget bevonni nem lehet.
+(6)[^530] A kezeléssorozat időtartama legalább 6, legfeljebb 12 hónap lehet. A kezeléssorozatba 2019. december 31-ét követően beteget bevonni nem lehet.
 
 [^528]: A 48/C. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
 [^529]: A 48/D. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^530]: A 48/D § (6) bekezdése a 139/2019. (VI. 14.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.

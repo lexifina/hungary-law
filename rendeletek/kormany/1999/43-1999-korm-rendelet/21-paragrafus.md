@@ -30,7 +30,7 @@ gyógypedagógiai oktatási intézményben ellátott tanuló után 2
 
 (10)[^195] Az egy pontra megállapított díj összege a védőnői ellátásra rendelkezésre álló előirányzatnak az ellátandók összesített pontszámával történő osztásával havonta kerül kiszámításra azzal, hogy az előirányzatból előzőleg le kell vonni a (10a) és (11) bekezdés szerinti díjazáshoz szükséges összeget. Az egy pontra megállapított díj összege legfeljebb 500 Ft lehet.
 
-(10a)[^196] Az (1) vagy (3) bekezdés szerinti feladatokat ellátó védőnői szolgáltató havonta védőnői szolgálatonként 33 000 Ft védőnői kiegészítő díjazásra jogosult, amelyet a védőnői szolgáltató a védőnői szolgálatban dolgozó védőnőt közvetlenül megillető bérének (illetményének), jövedelmének kiegészítésére köteles fordítani (a továbbiakban: védőnői kiegészítő pótlék).
+(10a)[^196] Az (1) vagy (3) bekezdés szerinti feladatokat ellátó védőnői szolgáltató havonta védőnői szolgálatonként 33 000 Ft védőnői kiegészítő díjazásra jogosult, amelyet a védőnői szolgáltató a védőnői szolgálatban dolgozó védőnőt közvetlenül megillető alapbérének (alapilletményének) kiegészítésére köteles fordítani (a továbbiakban: védőnői kiegészítő pótlék).
 
 (10b)[^197] A védőnői kiegészítő pótlék összegére a védőnői szolgáltató akkor jogosult, ha a védőnőt teljes munkaidőben foglalkoztatja, részmunkaidőben történő foglalkoztatás esetén a díj arányos része illeti meg.
 
@@ -78,7 +78,7 @@ c)[^207] a várandós anyák számát a fővárosi és megyei kormányhivatal n�
 [^193]: A 21. § új (8) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (10) bekezdésre változtatta.
 [^194]: A 21. § eredeti (7) bekezdésének számozását (9) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése.
 [^195]: A 21. § eredeti (8) bekezdésének számozását (10) bekezdésre változtatta és szövegét módosította a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, illetve 5. § (5) bekezdése. A 21. § (10) bekezdése a 224/2016. (VII. 28.) Korm. rendelet 3. § b) pontja, a 126/2017. (VI. 8.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^196]: A 21. § (10a) bekezdését a 126/2017. (VI. 8.) Korm. rendelet 1. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^196]: A 21. § (10a) bekezdését a 126/2017. (VI. 8.) Korm. rendelet 1. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 3. §-a, a 139/2019. (VI. 14.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^197]: A 21. § (10b) bekezdését a 126/2017. (VI. 8.) Korm. rendelet 1. §-a iktatta be.
 [^198]: A 21. § (10c) bekezdését a 126/2017. (VI. 8.) Korm. rendelet 1. §-a iktatta be.
 [^199]: A 21. § (9) bekezdése a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja szerint módosított szöveg, számozását (11) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése. A 21. § (11) bekezdés záró szövegrésze a 256/2013. (VII. 5.) Korm. rendelet 15. §-a szerint módosított szöveg.

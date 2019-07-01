@@ -1,6 +1,6 @@
 ## SZAKÁPOLÓI, SZAKIRÁNYÚ TERÁPIÁS VIZITEK FINANSZÍROZÁSA
 
-## A)[^632] A vizitdíj megállapítása a betegellátás típusa, valamint a beteg önellátó képessége szerint
+## A)[^633] A vizitdíj megállapítása a betegellátás típusa, valamint a beteg önellátó képessége szerint
 
 | A beteg önellátó képességének foka | Szakápolási ellátás | Szakirányú (rehabilitációs) tevékenység, alapdíj szorzók |
 
@@ -14,7 +14,7 @@
 
 | Önellátásra képes beteg esetében | 0,8 | 0,5 | – |
 
-## B)[^633] Területi pótlék
+## B)[^634] Területi pótlék
 
 ## A szolgáltató a 35. § (15) bekezdése szerinti területi pótlékra jogosult.
 
@@ -30,8 +30,42 @@
 
 ## * Táplálkozás, tisztálkodás, öltözködés, széklet és vizelet kontinencia, önálló helyzetváltoztatás (felkelés, lefekvés).
 
-13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^634]
+13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^635]
 
-[^632]: A 12. számú melléklet A) pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^633]: A 12. számú melléklet B) része a 364/2014. (XII. 30.) Korm. rendelet 39. § m) pontja szerint módosított szöveg.
-[^634]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 236/2018. (XII. 10.) Korm. rendelet 3. §-a iktatta be.
+Sürgősségi ellátási esetről szóló adatlap adattartalma
+
+1. Egészségügyi szolgáltató neve
+
+2. Osztály neve
+
+3. Osztály azonosítója
+
+4. Szakmakód
+
+5. Térítési kategória
+
+6. Személyazonosító típusa
+
+7. Személyazonosító jel
+
+8. Ellátás azonosító (Törzsszám/Naplósorszám)
+
+9. A beteg neve
+
+10. A beteg érvényes biztosításának országa vagy a beteg állampolgársága
+
+11. A beteg anyja neve
+
+12. A beteg születési neve
+
+13. Beteg neme
+
+14. Születés dátuma
+
+15. Felvétel jellege
+
+16. Kísérő személy
+
+[^633]: A 12. számú melléklet A) pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^634]: A 12. számú melléklet B) része a 364/2014. (XII. 30.) Korm. rendelet 39. § m) pontja szerint módosított szöveg.
+[^635]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 236/2018. (XII. 10.) Korm. rendelet 3. §-a iktatta be.

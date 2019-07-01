@@ -1,10 +1,10 @@
-## 50. §[^534] Az irányított betegellátási rendszerben történő kifizetésekre az irányított betegellátási rendszerről szóló kormányrendelet[^535] rendelkezéseit kell alkalmazni.
+## 50. §[^535] Az irányított betegellátási rendszerben történő kifizetésekre az irányított betegellátási rendszerről szóló kormányrendelet[^536] rendelkezéseit kell alkalmazni.
 
-## [^536] IV/A.
+## [^537] IV/A.
 
 ## BELFÖLDI KÖLTSÉGMÉRTÉK MEGÁLLAPÍTÁSA HATÁRON ÁTNYÚLÓ EGÉSZSÉGÜGYI ELLÁTÁS ESETÉN
 
-50/A. §[^537] (1) Az egészségügyi szolgáltató az uniós beteg részére végzett ellátások elszámolási összegének meghatározásakor az E. Alap elszámolási szabályait a következők figyelembevételével alkalmazza:
+50/A. §[^538] (1) Az egészségügyi szolgáltató az uniós beteg részére végzett ellátások elszámolási összegének meghatározásakor az E. Alap elszámolási szabályait a következők figyelembevételével alkalmazza:
 
 a) a havi változó díjjal elszámolt ellátások esetén az ellátás tárgyhónapját megelőző harmadik hónap teljesítményének elszámolásakor meghatározott országos díjat kell alkalmazni,
 
@@ -14,13 +14,13 @@ c) a fekvőbeteg-szakellátást, a járóbeteg-szakellátást a kihirdetett alap
 
 d) a fogászati ellátás során elvégzett, 0 pont értékkel kihirdetett beavatkozásokat az ellátás tárgyhónapját megelőző harmadik hónapra országosan elszámolt, a 22. § (4)–(5) bekezdése szerinti finanszírozási összeg és az elszámolt 0 pontértékű fogászati ellátások száma alapján képzett hányados értékének megfelelően kell elszámolni.
 
-(2)[^538] Az (1) bekezdés szerinti díjakat a NEAK minden hónap 21. napjáig a honlapján közzéteszi.
+(2)[^539] Az (1) bekezdés szerinti díjakat a NEAK minden hónap 21. napjáig a honlapján közzéteszi.
 
-(3)[^539]
+(3)[^540]
 
-[^534]: Az 50. § a 331/2005. (XII. 29.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
-[^535]: Lásd a 331/2005. (XII. 29.) Korm. rendeletet.
-[^536]: A IV/A. Fejezetet (50/A–50/B. §) a 339/2013. (IX. 25.) Korm. rendelet 10. §-a iktatta be. A IV/A. fejezet címe a 364/2014. (XII. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^537]: Az 50/A. §-t a 29/2001. (III. 2.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 331/2005. (XII. 29.) Korm. rendelet 19. § (4) bekezdése.
-[^538]: Az 50/A. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
-[^539]: Az 50/A. § (3) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
+[^535]: Az 50. § a 331/2005. (XII. 29.) Korm. rendelet 19. § (5) bekezdésével megállapított szöveg.
+[^536]: Lásd a 331/2005. (XII. 29.) Korm. rendeletet.
+[^537]: A IV/A. Fejezetet (50/A–50/B. §) a 339/2013. (IX. 25.) Korm. rendelet 10. §-a iktatta be. A IV/A. fejezet címe a 364/2014. (XII. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^538]: Az 50/A. §-t a 29/2001. (III. 2.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 331/2005. (XII. 29.) Korm. rendelet 19. § (4) bekezdése.
+[^539]: Az 50/A. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^540]: Az 50/A. § (3) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
