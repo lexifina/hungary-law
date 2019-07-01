@@ -1,3 +1,3 @@
-## 12. §[^9]
+## 12. §[^10]
 
-[^9]: A 12. § a 16. § (5) bekezdése alapján 2019. november 1-jén lép hatályba.
+[^10]: A 12. § a 139/2019. (VI. 14.) Korm. rendelet 10. § (1) bekezdése alapján nem lép hatályba.

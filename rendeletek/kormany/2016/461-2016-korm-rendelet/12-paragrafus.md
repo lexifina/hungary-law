@@ -1,3 +1,3 @@
-## 11. §[^8]
+## 11. §[^9]
 
-[^8]: A 11. § a 16. § (4) bekezdése alapján 2018. november 1-jén lép hatályba.
+[^9]: A 11. § a 2/2018. (II. 1.) Korm. rendelet 11. §-a alapján nem lép hatályba.

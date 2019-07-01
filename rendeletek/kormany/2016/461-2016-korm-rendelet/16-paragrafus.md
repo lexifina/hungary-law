@@ -1,4 +1,4 @@
-## 15. §[^13]
+## 15. §[^14]
 
 16. § (1) Ez a rendelet – (2)–(5) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -8,6 +8,7 @@
 
 (4) A 11. §, valamint a 12. és 13. melléklet 2018. november 1-jén lép hatályba.
 
-(5) A 12. §, valamint a 14. és 15. melléklet 2019. november 1-jén lép hatályba.
+(5)[^15]
 
-[^13]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 16. § (5) bekezdését a 139/2019. (VI. 14.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
