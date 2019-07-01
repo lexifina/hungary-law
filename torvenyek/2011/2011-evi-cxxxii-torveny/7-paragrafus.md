@@ -6,7 +6,7 @@ b) a szervezeti és működési szabályzat, valamint a minőségfejlesztési pr
 
 c) a minőség és teljesítmény alapján differenciáló jövedelemelosztás elveinek elfogadása,
 
-d) az elemi költségvetés, az éves, illetve éven túli kötelezettségvállalási terv végrehajtása ütemtervének elfogadása,
+d)
 
 e) a számviteli rendelkezések alapján elkészített éves beszámoló elfogadása,
 

@@ -2,7 +2,7 @@
 
 (2) A katonai képzést folytató kar működésének dologi feltételeit a honvédelemért felelős miniszter biztosítja.
 
-(3) A Fenntartó hivatalának költségvetése az Egyetem költségvetésében szerepel.
+(3)
 
 (4) Az Egyetem költségvetésében kell biztosítani
 
@@ -21,3 +21,5 @@ f) a 13. § (1) bekezdés b) és c) pontja szerinti vezényelt vezetői állomá
 (5) A hallgatói juttatások és a doktori képzésben résztvevők támogatása tekintetében a költségvetés tervezése során az Nftv.-ben meghatározott normatívákat kell alkalmazni.
 
 (6) Az Egyetemre nem alkalmazandók az oktatásért felelős miniszter által biztosított támogatások szabályai.
+
+(7) Az Egyetem költségvetési forrásai terhére az Egyetem alapító okiratban meghatározott feladataival és alaptevékenységével összefüggésben támogatás, adomány és más ellenérték nélküli kötelezettség vállalható, valamint kifizetés teljesíthető.
