@@ -1,3 +1,7 @@
-3. melléklet a 22/2019. (V. 28.) MNB rendelethez[^10]
+## „16. melléklet a 36/2018. (XI. 13.) MNB rendelethez
 
-[^10]: A 3. melléklet a 6. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 20192C20000022_1
+
+## ”
+
+3. melléklet a 22/2019. (V. 28.) MNB rendelethez

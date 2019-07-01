@@ -1,3 +1,3 @@
-1. melléklet a 22/2019. (V. 28.) MNB rendelethez[^8]
+1. melléklet a 22/2019. (V. 28.) MNB rendelethez[^7]
 
-[^8]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
