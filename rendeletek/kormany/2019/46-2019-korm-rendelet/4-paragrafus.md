@@ -1,0 +1,3 @@
+## 3. § Az R1. 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A családi otthonteremtési kedvezmény igénybevételével épített lakásra az építkezés idejére és a használatbavételi engedély kiadását, a használatbavétel tudomásulvételét vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtét igazoló hatósági bizonyítvány kiállítását követő 10 évig terjedő időszakra az állam javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom kerül bejegyzésre. Az állam javára szóló jelzálogjog, valamint az elidegenítési és terhelési tilalom bejegyzését a családi otthonteremtési kedvezményt folyósító hitelintézet kérelmezi.”

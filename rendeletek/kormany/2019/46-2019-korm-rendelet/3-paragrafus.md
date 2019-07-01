@@ -1,0 +1,1 @@
+## „(3) A gyermekvállalásra tekintettel a (2) bekezdés szerinti, ugyanazon igénylők által korábban igénybe vett támogatás esetén a 6. alcím szerinti megelőlegezett családi otthonteremtési kedvezmény – a 17. §-ban foglaltakat is figyelembe véve – akkor igényelhető, ha a korábbi gyermekvállalás teljesült.”
