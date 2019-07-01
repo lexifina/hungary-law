@@ -4,7 +4,7 @@
 
 (1a) Ha az OBA hozzájárul egy hitelintézet szanálásának finanszírozásához, a hozzájárulás összegének erejéig az OBA-nak követelése keletkezik az érintett hitelintézettel szemben, amely követelést az 57. § (1) bekezdés a) pontja szerinti kielégítési csoportba szükséges sorolni.
 
-(1b) Az OBA a 217. § (1) bekezdésében meghatározott esetekben a szövetkezeti hitelintézetek integrációjában részvevő hitelintézettel szembeni követelését az Szhitv.-ben meghatározott egyetemlegesség alapján jogosult érvényesíteni a Szövetkezeti Hitelintézetek Tőkefedezeti Alapjával, az Integrációs Szervezettel, a Központi Bankkal, illetve a többi szövetkezeti hitelintézettel szemben.
+(1b) Az OBA a 217. § (1) bekezdésében meghatározott esetekben a szövetkezeti hitelintézetek integrációjában részvevő hitelintézettel szembeni követelését az Szhitv.-ben meghatározott egyetemlegesség alapján jogosult érvényesíteni a Szövetkezeti Hitelintézetek Tőkefedezeti Alapjával, az Integrációs Szervezettel, illetve annak tagjaival szemben.
 
 (2) Az OBA-ból a kártalanításra jogosult személy részére történt bármilyen kifizetés esetén az érintett hitelintézet az OBA által kifizetett összeget és a kifizetéshez kapcsolódóan az OBA-nál felmerült költségeket köteles az OBA-nak visszafizetni, megfizetni. E kötelezettség akkor is fennáll, ha a hitelintézet OBA-ban való tagsága megszűnt.
 

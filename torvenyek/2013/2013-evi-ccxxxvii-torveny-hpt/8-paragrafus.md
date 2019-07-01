@@ -16,7 +16,7 @@ b) pénzváltási tevékenység végzésére.
 
 (6) A szövetkezeti formában működő szövetkezeti hitelintézet a 3. § (1) és (2) bekezdésében, valamint a 7. § (3) bekezdésében megjelölt tevékenységet, illetve kiegészítő tevékenységet végezhet.
 
-(7) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez csatlakozott hitelintézetekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat a Szhitv. állapítja meg.
+(7) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben (a továbbiakban: Szhitv.) meghatározott Integrációs Szervezethez csatlakozott pénzügyi intézményekre vonatkozó további, e törvénytől eltérő, illetve az e törvényt kiegészítő szabályokat a Szhitv. állapítja meg.
 
 (8) A hitelszövetkezet a (6) bekezdésben meghatározott tevékenységeket – a pénzváltás kivételével – csak saját tagjai körében végezheti.
 
