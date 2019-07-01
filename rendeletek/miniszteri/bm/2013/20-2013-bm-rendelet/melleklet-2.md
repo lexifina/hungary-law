@@ -126,7 +126,7 @@
 
 | 62. | 61. | 52 | 582 | 03 | Vízkútfúró | Vízügy |
 
-2. melléklet a 20/2013. (V. 28.) BM rendelethez[^7]
+2. melléklet a 20/2013. (V. 28.) BM rendelethez[^8]
 
 AZ 1. SORSZÁMÚ BALESETI HELYSZÍNELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
@@ -5866,4 +5866,4 @@ A szakképesítéssel rendelkező képes
 
 Az utolsó szakképző évfolyam eredményes elvégzése.
 
-[^7]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 38. §-a, a 6/2018. (III. 5.) BM rendelet 4. § b) pontja, a 18/2018. (VI. 28.) BM rendelet 4. §-a, a 9/2019. (III. 28.) BM rendelet 2. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 38. §-a, a 6/2018. (III. 5.) BM rendelet 4. § b) pontja, a 18/2018. (VI. 28.) BM rendelet 4. §-a, a 9/2019. (III. 28.) BM rendelet 2. §-a, a 27/2019. (VI. 28.) BM rendelet 35. § a) és b) pontja szerint módosított szöveg.
