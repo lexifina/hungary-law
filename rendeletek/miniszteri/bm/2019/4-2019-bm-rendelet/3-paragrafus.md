@@ -67,3 +67,27 @@ i) kiemelt főmunkatársi, főmunkatársi, főelőadói, előadói, csoportvezet
 j) pártfogó felügyelői munkakör,
 
 k) belső ellenőri munkakör.
+
+(4)[^2] Az idegenrendészeti szervnél a kifogástalan életvitel ellenőrzése alá eső munkakörök:
+
+a) főigazgatói munkaköri kategóriába tartozó munkakör,
+
+b) igazgatói munkaköri kategóriába tartozó munkakör,
+
+c) főosztályvezetői munkaköri kategóriába tartozó munkakör,
+
+d) osztályvezetői munkaköri kategóriába tartozó munkakör,
+
+e) ügyfélszolgálati feladatokat ellátó munkakörök,
+
+f) közbeszerzési eljárással kapcsolatos javaslattevő, döntési vagy ellenőrzési feladatot ellátó munkakörök,
+
+g) költségvetési vagy egyéb pénzeszközök, támogatások tekintetében javaslattevő, döntési vagy ellenőrzési feladatot ellátó munkakörök,
+
+h) informatikai rendszerek fejlesztésével, üzemeltetésével kapcsolatos feladatokat ellátó munkakörök,
+
+i) kiemelt ügykezelői munkakör,
+
+j) titkos ügykezeléssel kapcsolatos munkakör.
+
+[^2]: A 3. § (4) bekezdését a 20/2019. (V. 15.) BM rendelet 12. §-a iktatta be.
