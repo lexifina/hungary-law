@@ -2,6 +2,8 @@
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv szervezeti egységeként kormányrendelet kirendeltséget hozhat létre.
 
+(2a) Az idegenrendészeti szerv központi szerve mellett kormányrendelet igazgatóságokat hozhat létre.
+
 (3) Az általános rendőrségi feladatok ellátására létrehozott szerv személyi állománya
 
 a) hivatásos állományú rendőrökből,
@@ -19,3 +21,5 @@ e) tisztjelöltekből
 (4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya hivatásos állományú rendőrökből, az általános rendőrségi feladatok ellátására létrehozott szervtől a hivatásos szolgálati viszonyra vonatkozó jogszabály szerint vezényelt rendőrökből, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
 
 (5) A terrorizmust elhárító szerv személyi állománya hivatásos állományú rendőrökből, vezényelt hivatásos állományúakból, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
+
+(6) Az idegenrendészeti szerv személyi állománya hivatásos állományú rendőrökből, rendvédelmi igazgatási alkalmazottakból, valamint munkavállalókból állhat.

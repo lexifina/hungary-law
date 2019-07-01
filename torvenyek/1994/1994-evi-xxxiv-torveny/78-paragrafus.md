@@ -4,7 +4,9 @@ a) az általános rendőrségi feladatok ellátására létrehozott szervnél az
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél a főigazgató, valamint
 
-c) a terrorizmust elhárító szervnél a főigazgató
+c) a terrorizmust elhárító szervnél a főigazgató,
+
+d) az idegenrendészeti szervnél a főigazgató
 
 által kijelölt szervezeti egység kezeli és dolgozza fel.
 

@@ -32,10 +32,24 @@ e) irányítja a közvetlen alárendeltségébe tartozó vezetők tevékenység�
 
 f) a kinevezés és a felmentés kivételével gyakorolja a közvetlen alárendeltségébe tartozó vezetői felett a munkáltatói jogokat.
 
+(2a) Az idegenrendészeti szervet főigazgató vezeti. A főigazgató
+
+a) az általa vezetett szerv számára kötelező utasítást adhat ki,
+
+b) javaslatot tesz a helyettesének vagy helyetteseinek kinevezésére és felmentésére,
+
+c) a miniszter jóváhagyását követően kiadja az általa vezetett szerv szervezeti és működési szabályzatát,
+
+d) gyakorolja az általa vezetett szerv állományába tartozó személyek felett a jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat,
+
+e) irányítja a közvetlen alárendeltségébe tartozó vezetők tevékenységét, valamint
+
+f) a helyettesének kinevezése és a felmentése kivételével gyakorolja a közvetlen alárendeltségébe tartozó vezető felett a munkáltatói jogokat.
+
 (3) Az országos rendőrfőkapitányt és a terrorizmust elhárító szerv főigazgatóját a miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kinevezést megelőzően az országos rendőrfőkapitány-jelöltet, illetve a terrorizmust elhárító szerv főigazgatói tisztségére jelölt személyt az Országgyűlés feladatkörrel rendelkező bizottsága meghallgatja és állást foglal az alkalmasságáról.
 
 (4) Az országos rendőrfőkapitány és a terrorizmust elhárító szerv főigazgatója együttesen – az államhatár rendjének fenntartása érdekében – jóváhagyásra a miniszter elé terjeszti a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket.
 
-(5) Az általános rendőrségi feladatok ellátására létrehozott szervet az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a főigazgató, a terrorizmust elhárító szervet a főigazgató képviseli.
+(5) Az általános rendőrségi feladatok ellátására létrehozott szervet az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a főigazgató, a terrorizmust elhárító szervet a főigazgató, az idegenrendészeti szervet a főigazgató képviseli.
 
-(6) A rendőrséget a két- vagy többoldalú nemzetközi egyezményeken, valamint a viszonosságon alapuló nemzetközi kapcsolatokban a 7/G. § (1)–(3) bekezdése alapján az országos rendőrfőkapitány képviseli. A miniszter két- vagy többoldalú nemzetközi egyezményen alapuló nemzetközi kapcsolatban a rendőrség képviseletére a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatóját vagy a terrorizmust elhárító szerv főigazgatóját kijelölheti.
+(6) A rendőrséget a két- vagy többoldalú nemzetközi egyezményeken, valamint a viszonosságon alapuló nemzetközi kapcsolatokban a 7/G. § (1)–(3) bekezdése alapján az országos rendőrfőkapitány képviseli. A miniszter két- vagy többoldalú nemzetközi egyezményen alapuló nemzetközi kapcsolatban a rendőrség képviseletére a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatóját, a terrorizmust elhárító szerv főigazgatóját vagy az idegenrendészeti szerv főigazgatóját kijelölheti.

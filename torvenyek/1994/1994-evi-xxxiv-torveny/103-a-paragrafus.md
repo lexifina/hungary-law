@@ -6,7 +6,7 @@ a) 1–2/A. §-a,
 
 b) 4. §-a,
 
-c) 4/A. § (1) és (2) bekezdése,
+c) 4/A. § (1)–(2a) bekezdése,
 
 d) 5–6. §-a,
 

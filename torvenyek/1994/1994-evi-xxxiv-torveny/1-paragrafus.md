@@ -4,7 +4,7 @@
 
 ## A Rendőrség feladata
 
-1. § (1) A rendőrség feladata az Alaptörvényben meghatározott feladatok mellett a határforgalom ellenőrzése, a terrorizmus elleni küzdelem és az e törvényben meghatározott bűnmegelőzési, bűnfelderítési célú ellenőrzés, valamint a bűncselekményből származó vagyon visszaszerzése.
+1. § (1) A rendőrség feladata az Alaptörvényben meghatározott feladatok mellett a határforgalom ellenőrzése, a terrorizmus elleni küzdelem és az e törvényben meghatározott bűnmegelőzési, bűnfelderítési célú ellenőrzés, a bűncselekményből származó vagyon visszaszerzése, valamint az idegenrendészeti és menekültügyi feladatok ellátása.
 
 (2) A rendőrség az az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:
 
@@ -32,7 +32,7 @@
 
 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet, a váratlan támadás és a veszélyhelyzet esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
 
-10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat, részt vesz a jogellenes bevándorlás megakadályozásában.
+10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, részt vesz a jogellenes bevándorlás megakadályozásában.
 
 11. ellenőrzi az államhatáron áthaladó személy- és járműforgalmat, a szállítmányokat – ide nem értve a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendeletben meghatározott vámellenőrzést –, valamint végzi a határátléptetést, továbbá biztosítja a határátkelőhelyek rendjét, valamint végzi a közúti határátkelőhelyek üzemeltetését, és a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását,
 
@@ -56,4 +56,6 @@ c) megakadályozza, hogy magánszemélyek, csoportok, szervezetek terrorszerveze
 
 18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában,
 
-19. ellátja a segélyhívó számok fogadásából eredő feladatokat.
+19. ellátja a segélyhívó számok fogadásából eredő feladatokat,
+
+20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.

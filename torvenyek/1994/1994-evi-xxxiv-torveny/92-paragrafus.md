@@ -12,7 +12,9 @@ ba) az országos rendőrfőkapitány,
 
 bb) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója vagy
 
-bc) a terrorizmust elhárító szerv főigazgatója
+bc) a terrorizmust elhárító szerv főigazgatója,
+
+bd) az idegenrendészeti szerv főigazgatója
 
 bírálja el.
 
