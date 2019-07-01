@@ -12,9 +12,11 @@ c) a Büntetés-végrehajtás Országos Parancsnokságán,
 
 d) a Nemzetbiztonsági Szakszolgálatnál,
 
-e) az Alkotmányvédelmi Hivatalnál, valamint
+e) az Alkotmányvédelmi Hivatalnál,
 
-f) a Terrorelhárítási Információs és Bűnügyi Elemző Központnál
+f) a Terrorelhárítási Információs és Bűnügyi Elemző Központnál, valamint
+
+g) az Országos Idegenrendészeti Főigazgatóságnál
 
 [^112]: A III/A. részt (47/A–47/C. §-t) a 68/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
-[^113]: A 47/A. § a 29/2016. (VII. 15.) BM rendelet 2. §-ával megállapított szöveg.
+[^113]: A 47/A. § a 27/2019. (VI. 28.) BM rendelet 3. §-ával megállapított szöveg.

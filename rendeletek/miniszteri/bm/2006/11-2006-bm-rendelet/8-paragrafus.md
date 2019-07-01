@@ -2,7 +2,7 @@
 
 (2)[^21] Nem kell a fegyelmi eljárást áttenni, ha a korábbi szolgálati hely szerint illetékes parancsnok a fegyelmi eljárást a Tv. 210. § (1) bekezdés a)–d), illetve f)–g) pontja alapján megszünteti.
 
-(3)[^22] Ha az országos parancsnok, az NVSZ főigazgatója, valamint a TEK főigazgatója vagy a fegyelmi jogkörrel rendelkező közös elöljáró egyedi ügyben a fegyelmi jogkört magához vonja vagy az alárendeltségébe tartozó fegyelmi jogkörrel rendelkező másik elöljárót bíz meg a fegyelmi eljárás lefolytatásával, a jogkör gyakorlója a fenyítés kiszabása előtt az ügyről és az eljárás alá vont személyéről kikéri az érintett állományilletékes parancsnokának véleményét.
+(3)[^22] Ha az országos parancsnok, az NVSZ főigazgatója, a TEK főigazgatója, valamint az Országos Idegenrendészeti Főigazgatóság főigazgatója vagy a fegyelmi jogkörrel rendelkező közös elöljáró egyedi ügyben a fegyelmi jogkört magához vonja vagy az alárendeltségébe tartozó fegyelmi jogkörrel rendelkező másik elöljárót bíz meg a fegyelmi eljárás lefolytatásával, a jogkör gyakorlója a fenyítés kiszabása előtt az ügyről és az eljárás alá vont személyéről kikéri az érintett állományilletékes parancsnokának véleményét.
 
 (4)[^23]
 
@@ -22,5 +22,5 @@ d) az eljárás alá vont kezdeményezésére vele szemben büntető-, szabálys
 
 [^20]: A 8. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 10. pontja szerint módosított szöveg.
 [^21]: A 8. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 11. pontja, a 68/2015. (XII. 16.) BM rendelet 5. § a) pontja szerint módosított szöveg.
-[^22]: A 8. § (3) bekezdése a 16/2010. (XII. 31.) BM rendelet 3. §-a szerint módosított szöveg.
+[^22]: A 8. § (3) bekezdése a 16/2010. (XII. 31.) BM rendelet 3. §-a, a 27/2019. (VI. 28.) BM rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^23]: A 8. § (4) bekezdését az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte.

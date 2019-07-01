@@ -20,7 +20,7 @@ cb) a Terrorelhárítási Központnál (a továbbiakban: TEK) a főigazgató,
 
 cc) a rendvédelmi oktatási intézmény igazgatója,
 
-cd)[^11] a Bevándorlási és Menekültügyi Hivatalnál a főigazgató,
+cd)[^11]
 
 ce)[^12]
 
@@ -36,7 +36,7 @@ cg)[^14]
 [^8]: A 4. § (1) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (1) bekezdésével megállapított szöveg. [A 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 3. pontjával elrendelt módosítás, amely szerint a „Hszt.” szövegrész helyébe a „Tv.” szöveg lép, nem vezethető át.]
 [^9]: A 4. § (2) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése, a 16/2010. (XII. 31.) BM rendelet 3. §-a szerint módosított szöveg.
 [^10]: A 4. § (3) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 17. § b) pontja, a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 4–5. pontja szerint módosított szöveg.
-[^11]: A 4. § (3) bekezdés c) pont cd) alpontja az 58/2016. (XII. 22.) BM rendelet 16. §-a szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdés c) pont cd) alpontját a 27/2019. (VI. 28.) BM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^12]: A 4. § (3) bekezdés c) pont ce) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
 [^13]: A 4. § (3) bekezdés c) pont cf) alpontja a 29/2016. (VII. 15.) BM rendelet 1. §-ával megállapított szöveg.
 [^14]: A 4. § (3) bekezdés c) pont cg) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.

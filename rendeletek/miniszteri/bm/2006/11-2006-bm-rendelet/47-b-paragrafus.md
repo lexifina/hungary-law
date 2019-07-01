@@ -1,4 +1,4 @@
-## oly módon kell vezetni, hogy a Tv. 227. § (1) bekezdésében rögzített feltételek az a)–f) pontban meghatározott szerveknél vezetett névjegyzékek mindegyikére önállóan teljesüljenek.
+## oly módon kell vezetni, hogy a Tv. 227. § (1) bekezdésében rögzített feltételek az a)–g) pontban meghatározott szerveknél vezetett névjegyzékek mindegyikére önállóan teljesüljenek.
 
 47/B. § (1) A névjegyzékre vételre a hivatásos állomány tagjának
 
