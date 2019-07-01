@@ -44,7 +44,7 @@ p) a menedékjogról szóló törvény szerint szükségessé váló építési 
 
 a) az ügyfél kérelmére a honvédelmi és katonai célú ingatlan használatával kapcsolatos tény, állapot vagy egyéb adat igazolására;
 
-b)[^15] a Nemzeti Földalapkezelő Szervezet, a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság, vagy az ingatlanügyi hatóság kérelmére, az ingatlan-nyilvántartásban honvédelmi célra feleslegessé nyilvánított területként nyilvántartott földrészlet környezetvédelmi, vegyvédelmi, illetve tűzszerészeti mentesítése elvégzésének szükségessége, vagy megtörténte vonatkozásában.
+b)[^15] a Nemzeti Földügyi Központ, a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság, vagy az ingatlanügyi hatóság kérelmére, az ingatlan-nyilvántartásban honvédelmi célra feleslegessé nyilvánított területként nyilvántartott földrészlet környezetvédelmi, vegyvédelmi, illetve tűzszerészeti mentesítése elvégzésének szükségessége, vagy megtörténte vonatkozásában.
 
 (5)[^16] A (4) bekezdés b) pontja szerinti hatósági bizonyítványt a kérelem előterjesztésétől számított harminc napon belül kell kiadni.
 
@@ -53,5 +53,5 @@ b)[^15] a Nemzeti Földalapkezelő Szervezet, a Magyar Nemzeti Vagyonkezelő Zá
 [^12]: A 6. § (2) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^13]: A 6. § (3) bekezdését a 82/2011. (V. 18.) Korm. rendelet 8. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 112. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^14]: A 6. § (4) bekezdését a 406/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 259/2016. (VIII. 31.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.
-[^15]: A 6. § (4) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 52. § (13) bekezdése szerint módosított szöveg.
+[^15]: A 6. § (4) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 52. § (13) bekezdése, a 159/2019. (VI. 28.) Korm. rendelet 1. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
 [^16]: A 6. § (5) bekezdését a 406/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
