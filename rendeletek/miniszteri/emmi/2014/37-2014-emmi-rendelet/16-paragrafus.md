@@ -4,15 +4,7 @@
 
 (2)[^41] Az ételek elkészítését, az ételosztást a főzőkonyhán az élelmezésvezető felügyeli.
 
-(3)[^42] A fekvőbeteg-gyógyintézeti étkeztetés kivételével az élelmezésvezetőnek a következő feltételek valamelyikét kell teljesítenie:
-
-a) élelmezésvezető szakképesítés,
-
-b) vendéglátóipari vagy élelmiszeripari felsőfokú végzettség és a közétkeztetési szolgáltatás nyújtásában – ideértve a tápanyagszámítást, étrend- és étlaptervezést – való dokumentált jártasság,
-
-c) dietetikus szakképesítés, vagy
-
-d) vendéglátóipari szakközépiskolai érettségi, vagy érettségi és szakács szakképesítés, továbbá a közétkeztetési szolgáltatás nyújtásában – ideértve a tápanyagszámítást, étrend- és étlaptervezést – való dokumentált jártasság.
+(3)[^42] A fekvőbeteg-gyógyintézeti étkeztetés kivételével az élelmezésvezetőnek főiskolai szintű dietetikus képesítéssel, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló kormányrendelet szerinti élelmezésvezető szakképesítéssel vagy államilag elismert élelmezésvezető szakképesítéssel kell rendelkeznie.
 
 (4) A fekvőbeteg-gyógyintézeti étkeztetés esetén az élelmezésvezetőnek dietetikus szakképesítéssel kell rendelkeznie.
 
@@ -28,6 +20,6 @@ b) dietetikus szakképesítéssel rendelkező szakember felügyelje.
 
 [^40]: A 16. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^41]: A 16. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^42]: A 16. § (3) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^42]: A 16. § (3) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^43]: A 16. § (5) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (3) bekezdésével megállapított szöveg.
 [^44]: A 16. § (7) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 8. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 163. § a) pontja szerint módosított szöveg.
