@@ -1,0 +1,7 @@
+## 7. § A hitelintézet a kölcsönkérelem benyújtását, valamint az elbíráláshoz szükséges nyilatkozatok és okiratok bemutatását követően az igénylők 5. § (2) bekezdés szerinti adatait haladéktalanul megküldi a kincstár részére. A kincstár a megküldött adatok alapján a kölcsönkérelmet benyújtó igénylőkről a 4. § (5) bekezdésben foglalt feltétel érvényesítése érdekében a feltétel ellenőrzésére alkalmas nyilvántartást vezet.
+
+8. § (1) Ha a hitelintézet a kölcsönkérelmet a 4. § (1)–(3) bekezdése szerinti feltételek – ide nem értve a 4. § (1) bekezdés h) pontja szerinti feltételt – hiánya miatt utasította el, az igénylők – az erről szóló írásbeli tájékoztatás kézhezvételétől számított 15 napon belül – a 4. § (1)–(3) bekezdése szerinti feltételeknek való megfelelés megállapítása iránt kérelmet nyújthatnak be a járási hivatalhoz. A kérelemhez csatolni kell a kölcsönkérelem elutasításáról szóló írásbeli tájékoztatást.
+
+(2) A járási hivatal megkeresésére a hitelintézet 8 napon belül köteles megküldeni a járási hivatalnak a kölcsönkérelem elutasítását megalapozó iratok másolatát.
+
+(3) Ha a járási hivatal, illetve Budapest Főváros Kormányhivatalának véglegessé vált határozata megállapítja, hogy az igénylő a kölcsönkérelem hitelintézethez történő benyújtásakor a 4. § (1)–(3) bekezdése szerinti feltételeknek megfelelt, a hitelintézet e feltételek hiányára hivatkozással a kölcsönszerződésnek az igénylőkkel történő megkötését és a kölcsön folyósítását nem tagadhatja meg.
