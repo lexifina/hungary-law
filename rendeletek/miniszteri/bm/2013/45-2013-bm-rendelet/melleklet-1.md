@@ -1,6 +1,6 @@
-## 9–13. §[^5]
+## 9–13. §[^6]
 
-1. melléklet a 45/2013. (VIII. 15.) BM rendelethez[^6]
+1. melléklet a 45/2013. (VIII. 15.) BM rendelethez[^7]
 
 ## A büntetés-végrehajtási szervezetnél rendszeresített könnyített szolgálatban foglalkoztatottakkal betölthető szolgálati beosztások
 
@@ -94,5 +94,5 @@ II. A területi szervnél rendszeresített szolgálati beosztások
 
 III. A helyi szervnél rendszeresített szolgálati beosztások
 
-[^5]: A 9–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 22. §-ával megállapított szöveg.
+[^6]: A 9–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 22. §-ával megállapított szöveg.
