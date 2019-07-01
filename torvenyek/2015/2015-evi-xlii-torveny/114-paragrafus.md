@@ -46,7 +46,7 @@ cd) osztályvezető 2.
 
 (3) A tiszti besorolási osztályba és a tiszthelyettesi besorolási osztályba tartozó,
 
-a) az általános rendőrségi feladatok ellátására létrehozott szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztásokat öt-öt, „A”, „B”, „C”, „D”, „E” jelölésű,
+a) az általános rendőrségi feladatok ellátására létrehozott szervnél, az idegenrendészeti szervnél, a büntetés-végrehajtási szervezetnél, valamint a hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztásokat öt-öt, „A”, „B”, „C”, „D”, „E” jelölésű,
 
 b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, a terrorizmust elhárító szervnél, az Országgyűlési Őrségnél, valamint a polgári nemzetbiztonság szolgálatoknál rendszeresített szolgálati beosztásokat négy-négy, „A”, „B”, „C”, „D” jelölésű
 

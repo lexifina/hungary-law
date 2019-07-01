@@ -2,7 +2,7 @@
 
 ## A RENDVÉDELMI IGAZGATÁSI ALKALMAZOTTAK SZOLGÁLATI JOGVISZONYA
 
-287/E. § (1) E fejezet hatálya az 1. § (1) bekezdés a)–e) és g) pontja szerinti rendvédelmi szerv által rendvédelmi igazgatási szolgálati jogviszonyban (e fejezet alkalmazásában a továbbiakban: igazgatási jogviszonyban) foglalkoztatott rendvédelmi igazgatási alkalmazottakra (e fejezet alkalmazásában a továbbiakban: rendvédelmi alkalmazott) terjed ki.
+287/E. § (1) E fejezet hatálya az 1. § (1) bekezdés a)–f) és h) pontja szerinti rendvédelmi szerv által rendvédelmi igazgatási szolgálati jogviszonyban (e fejezet alkalmazásában a továbbiakban: igazgatási jogviszonyban) foglalkoztatott rendvédelmi igazgatási alkalmazottakra (e fejezet alkalmazásában a továbbiakban: rendvédelmi alkalmazott) terjed ki.
 
 (2) A rendvédelmi alkalmazottra a törvény e fejezetben megjelölt rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy
 
