@@ -1,6 +1,6 @@
 ## Adatlap a humanitárius célú tartózkodási engedély hivatalból történő kiállításához
 
-## 6K83207K_0
+## 9K04194S_0
 
 | Kérelmet átvevő hatóság: | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
@@ -100,6 +100,6 @@
 
 | ◻ a külföldi székhellyel rendelkező gazdasági társaság − nemzetközi szerződés által meghatározott − fiók és képviselet vezetője; ◻ nemzetközi szervezetet vagy nemzetközi szervezetnek nem minősülő közös szervet létrehozó szerződésben részes államok által delegált személy, ha a nemzetközi szervezetnél vagy a közös szervnél kíván dolgozni, valamint a részes államok között fennálló viszonosság alapján a delegált személy közeli hozzátartozója; ◻ az alap-, közép- és felsőfokú oktatási intézményekben, idegen nyelven történő olyan oktatási tevékenységet lát el, amelyre − az oktatásért felelős miniszter igazolása szerint − az érintett államok illetékes miniszterei által aláírt nemzetközi oktatási program keretében kerül sor; ◻ a Comenius, Erasmus, Leonardo da Vinci, és Grundtvig programban való részvétel esetén szakmai gyakorlat keretében dolgozik ◻ kulcsszemélyzetnek minősül, ◻ a harmadik országbeli állampolgár munkavégzése a többségi külföldi tulajdonban lévő gazdasági társaság esetében, naptári negyedévenként, a megelőző naptári negyedév utolsó napján érvényes munkajogi állományi létszáma öt százalékát meg nem haladó létszámba tartozik, ◻ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 104. § (7) bekezdés b) pont ba) alpontjában foglaltak kivételével a felsőoktatási intézmények, tudományos kutatóintézetek, valamint közművelődési, művészeti intézmények által meghívott, az adott szakmában nemzetközileg elismert harmadik országbeli állampolgárnak a naptári évenként tíz munkanapot meghaladó oktatási, tudományos vagy művészeti munkavégzéséhez (ha a munkavégzés időtartama a kilencven napot meghaladja), ◻ menekültként, oltalmazottként vagy menedékesként elismert, valamint a bevándorolt vagy letelepedett jogállású személlyel legalább egy éve Magyarországon együtt élő házastársa, ◻ menekültként, oltalmazottként vagy menedékesként elismert, valamint a bevándorolt vagy letelepedett jogállású személy, valamint özvegye, aki az elhunyt házastárssal annak halála előtt Magyarországon legalább egy évig együtt élt, ◻ nemzetközi szervezet, külföldi állam diplomáciai, konzuli képviselete vagy egyéb szerve vagy személyzete által foglalkoztatni kívánt, e szervek személyi állományába nem tartozó, a küldő állam delegált tagjának nem minősülő harmadik országbeli állampolgár, ◻ a mozgóképszakmai hatóság által, a mozgóképről szóló törvény alapján nyilvántartásba vett filmgyártó vállalkozás által alkalmazni kívánt harmadik országbeli állampolgár, ◻ az EU Kék Kártyával rendelkező harmadik országbeli állampolgár – a családi együttélést biztosító szabályok hatálya alá tartozó – családtagja |
 
-35. melléklet a 25/2007. (V. 31.) IRM rendelethez[^80]
+35. melléklet a 25/2007. (V. 31.) IRM rendelethez[^82]
 
-[^80]: A 35. mellékletet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés s) pontja iktatta be, hatályon kívül helyezte a 38/2017. (XII. 27.) BM rendelet 8. § d) pontja.
+[^82]: A 35. mellékletet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés s) pontja iktatta be, hatályon kívül helyezte a 38/2017. (XII. 27.) BM rendelet 8. § d) pontja.

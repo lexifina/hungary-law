@@ -122,11 +122,11 @@
 
 ## 10. hátoldalon kiegészítő információ: Csak érvényes személyi igazolvánnyal vagy úti okmánnyal (harmadik ország állampolgárságával rendelkező családtag esetén úti okmánnyal) együtt érvényes./Valid together with a valid personal identification document or travel document. (In case of third country national family member only with valid travel document.)
 
-7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^53]
+7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^55]
 
-## 8K36291_0
+## 9K04194M_0
 
-|  | BEVÁNDORLÁSI ÉS MENEKÜLTÜGYI HIVATAL |  |
+|  | ORSZÁGOS IDEGENRENDÉSZETI FŐIGAZGATÓSÁG |  |
 
 ## ELTARTÁSI NYILATKOZAT
 
@@ -154,4 +154,4 @@ I. Alulírott
 
 II. Alulírott
 
-[^53]: A 7. melléklet a 35/2018. (XII. 21.) BM rendelet 6. § c) pontjával megállapított szöveg.
+[^55]: A 7. melléklet a 35/2018. (XII. 21.) BM rendelet 6. § c) pontjával megállapított, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.

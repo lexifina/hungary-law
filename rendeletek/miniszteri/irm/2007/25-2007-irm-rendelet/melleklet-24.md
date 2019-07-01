@@ -1,6 +1,6 @@
 ## Bejelentőlap a Magyarország területén született harmadik országbeli állampolgár gyermek adatairól
 
-## 6K83207F_0
+## 9K04194Q_0
 
 | Átvevő hatóság: | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
@@ -14,7 +14,7 @@
 
 | Emailcím: |  | Az aláírásnak a kereten belül kell maradnia! |  |
 
-## 6K83207F_1
+## 9K04194Q_1
 
 | 1. A kiskorú gyermek személyes adatai |
 

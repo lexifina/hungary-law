@@ -58,6 +58,6 @@
 
 | Feldolgozás dátuma: ____ év __ hónap __ nap Kelt: ……………………………………………………. | Változás dátuma: ____ év __ hónap __ nap ……………………………………………… az ügyintéző aláírása, pecsét |
 
-25. melléklet a 25/2007. (V. 31.) IRM rendelethez[^70]
+25. melléklet a 25/2007. (V. 31.) IRM rendelethez[^72]
 
-[^70]: A 25. melléklet e rendelet 26. § (3) bekezdése alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon hatályát vesztette. A hatálybalépés időpontja a 2007. december 6. napján kelt 2007/801/EK tanácsi határozat 1. cikke alapján 2007. december 21.
+[^72]: A 25. melléklet e rendelet 26. § (3) bekezdése alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon hatályát vesztette. A hatálybalépés időpontja a 2007. december 6. napján kelt 2007/801/EK tanácsi határozat 1. cikke alapján 2007. december 21.

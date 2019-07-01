@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-25-20-1
 | 2017-01-01 | 2007-25-20-1U.18 | 23/2016. (VI. 29.) BM rendelet |
 | 2018-01-01 | 2007-25-20-1U.19 | 38/2017. (XII. 27.) BM rendelet |
 | 2019-01-01 | 2007-25-20-1U.20 | 35/2018. (XII. 21.) BM rendelet |
+| 2019-07-01 | 2007-25-20-1U.21 | 38/2017. (XII. 27.) BM rendelet |

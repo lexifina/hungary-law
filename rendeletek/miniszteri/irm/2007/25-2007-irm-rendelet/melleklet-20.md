@@ -1,3 +1,3 @@
-20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^66]
+20. melléklet a 25/2007. (V. 31.) IRM rendelethez[^68]
 
-[^66]: A 20. melléklet a 38/2017. (XII. 27.) BM rendelet 6. § (1) bekezdés g) pontjával megállapított szöveg.
+[^68]: A 20. melléklet a 38/2017. (XII. 27.) BM rendelet 6. § (1) bekezdés g) pontjával megállapított, a 27/2019. (VI. 28.) BM rendelet 5. § f) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. § (1)[^3] Az EGT-állampolgár a regisztrációs igazolásban foglalt adatai megváltozása esetén az adatváltozást tartalmazó új úti okmánya vagy új érvényes személyazonosító igazolványa bemutatása mellett az e rendelet 4. mellékletében meghatározott formanyomtatványon kérheti a regisztrációs igazolás cseréjét a Bevándorlási és Menekültügyi Hivatal (a továbbiakban: Hivatal) bejelentett lakóhelye szerint illetékes területi szervénél (a továbbiakban: regionális igazgatóság).
+2. § (1)[^3] Az EGT-állampolgár a regisztrációs igazolásban foglalt adatai megváltozása esetén az adatváltozást tartalmazó új úti okmánya vagy új érvényes személyazonosító igazolványa bemutatása mellett az e rendelet 4. mellékletében meghatározott formanyomtatványon kérheti a regisztrációs igazolás cseréjét az Országos Idegenrendészeti Főigazgatóság (a továbbiakban: Főigazgatóság) bejelentett lakóhelye szerint illetékes igazgatóságánál (a továbbiakban: regionális igazgatóság).
 
 (2) A regionális igazgatóság hivatalból gondoskodik a regisztrációs igazolás cseréjéről, ha az okmány gyártáshibás vagy téves adatokat tartalmaz.
 
@@ -8,4 +8,4 @@
 
 (5) Az EGT-állampolgár a regisztrációs igazolást, illetve a személyi adat- és lakcímnyilvántartást vezető szerv által kiadott, a személyi azonosítóról és a lakcímről szóló hatósági igazolványt köteles magánál tartani és az arra feljogosított hatóságnak bemutatni. Erről az EGT-állampolgárt az okmány kiadásakor tájékoztatni kell.
 
-[^3]: A 2. § (1) bekezdése az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése, a 27/2019. (VI. 28.) BM rendelet 5. § a) és b) pontja szerint módosított szöveg.

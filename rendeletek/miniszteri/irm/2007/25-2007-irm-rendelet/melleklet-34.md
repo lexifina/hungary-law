@@ -1,6 +1,6 @@
-## 7K36092O_0
+## 9K04194R_0
 
-|  | BEVÁNDORLÁSI ÉS MENEKÜLTÜGYI HIVATAL |  |
+|  | ORSZÁGOS IDEGENRENDÉSZETI FŐIGAZGATÓSÁG |  |
 
 ## Ideiglenes tartózkodási engedély iránti kérelem
 
@@ -168,6 +168,6 @@
 
 ## Az eljáró idegenrendészeti hatóságtól kérheti, hogy az más hatóságtól szerezze be az Ön által megjelölt adatra vonatkozó igazolást. A kérelemnek ez a része a személyes adatai tekintetében adat kezeléséhez, illetve továbbításához való hozzájárulásnak minősül. Ha a szükséges adatokat az eljáró idegenrendészeti hatóság szerzi be, az ehhez szükséges illeték vagy igazgatási szolgáltatási díj fizetési kötelezettségét az idegenrendészeti hatóságnál kell teljesítenie.
 
-34. melléklet a 25/2007. (V. 31.) IRM rendelethez[^79]
+34. melléklet a 25/2007. (V. 31.) IRM rendelethez[^81]
 
-[^79]: A 34. mellékletet a 69/2013. (XII. 11.) BM rendelet 3. § e) pontja iktatta be, szövege a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés r) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^81]: A 34. mellékletet a 69/2013. (XII. 11.) BM rendelet 3. § e) pontja iktatta be, szövege a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés r) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.
