@@ -108,21 +108,14 @@ A kormányablakban azonnal intézhető ügyek
 
 53. Földműves nyilvántartásból papíralapú hiteles adatlap másolat kiadása iránti kérelem
 
-54.[^3]
+54. Kérelem meghatalmazás Elektronikus Egészségügyi Szolgáltatási Térben rögzítésére
 
-55.[^4]
+55. Kérelem Elektronikus Egészségügyi Szolgáltatási Térben rögzített meghatalmazás visszavonására
 
-56.[^5]
+56. Kérelem törvényes képviseleti jogosultság Elektronikus Egészségügyi Szolgáltatási Térben rögzítésére
 
-57.[^6]
+57. Kérelem Elektronikus Egészségügyi Szolgáltatási Térben rögzített törvényes képviselet törlésére
 
-58.[^7]
+58. A biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személyek esetében az Európai Egészségbiztosítási Kártya kiállítása iránti kérelem
 
-59.[^8]
-
-[^3]: Az 5. melléklet 54. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^4]: Az 5. melléklet 55. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^5]: Az 5. melléklet 56. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^6]: Az 5. melléklet 57. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^7]: Az 5. melléklet 58. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
-[^8]: Az 5. melléklet 59. pontja a 63. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+59. A biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személyek esetében Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlatának kiadása iránti kérelem
