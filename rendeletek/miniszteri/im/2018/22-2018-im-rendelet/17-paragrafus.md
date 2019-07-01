@@ -1,0 +1,3 @@
+17. § (1) Leírási díjként a közjegyző oldalanként 150 Ft-ot számít fel. Ha az oldal tartalma kizárólag vagy túlnyomórészt számokból áll vagy idegen nyelvű, ennek kétszeresét kell fizetni. A megkezdett oldal teljes oldalnak számít.
+
+(2) Az eljárás – ide nem értve a fizetési meghagyásos eljárást, valamint a fizetési meghagyás végrehajtásának elrendelése és a fizetési meghagyásos eljárással összefüggő biztosítási intézkedés elrendelése iránti eljárást – során készült irat nem hiteles másolatáért a közjegyző részére megfizetendő másolati díj összege oldalanként 150 Ft, az adatok törlésével készült másolat esetében oldalanként 750 Ft.

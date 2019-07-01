@@ -1,0 +1,1 @@
+## 1. § A közjegyző részére törvény alapján végzett közjegyzői eljárásért munkadíjat és költségtérítést kell fizetni, amit kérelemre indult eljárás esetén az eljárást kezdeményező fél, hivatalból indult eljárás esetén az abban érdekelt fél köteles megfizetni. Több fél esetén a fizetési kötelezettség egyetemleges.
