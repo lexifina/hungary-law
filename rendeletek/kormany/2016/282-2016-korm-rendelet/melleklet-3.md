@@ -1178,7 +1178,7 @@
 
 ## 7. Az alapképzési szak képzési célja, az általános és a szakmai kompetenciák:
 
-## A képzés célja olyan rendészeti tisztek, illetve bevándorlási szakemberek képzése, akik a rendvédelmi feladatokat ellátó szervek, valamint a Bevándorlási és Állampolgársági Hivatal irányítói, vezetői feladatok ellátására alkalmasak, ismerik a rendészeti igazgatásban alkalmazott elveket, eljárásokat és eszközöket, azonosulni tudnak a szervezet elvárásaival, továbbá kellő mélységű elméleti ismeretekkel rendelkeznek a képzés második ciklusban történő folytatásához, valamint szolgálati helyeiken gyakorlati tapasztalatok megszerzése után, alkalmasak vezetői, irányítói, valamint hatósági jogalkalmazói feladatok ellátására.
+## A képzés célja olyan rendészeti tisztek, illetve bevándorlási szakemberek képzése, akik a rendvédelmi feladatokat ellátó szervek irányítói, vezetői feladatok ellátására alkalmasak, ismerik a rendészeti igazgatásban alkalmazott elveket, eljárásokat és eszközöket, azonosulni tudnak a szervezet elvárásaival, továbbá kellő mélységű elméleti ismeretekkel rendelkeznek a képzés második ciklusban történő folytatásához, valamint szolgálati helyeiken gyakorlati tapasztalatok megszerzése után, alkalmasak vezetői, irányítói, valamint hatósági jogalkalmazói feladatok ellátására.
 
 ## Az elsajátítandó szakmai kompetenciák:
 
@@ -1356,11 +1356,11 @@
 
 ## Képesség:
 
-## 1. alkalmas a Bevándorlási és Állampolgársági Hivatal területi és központi szerveinél kiemelt szakmai ügyintézői munkakörök betöltésére;
+## 1. alkalmas az Országos Idegenrendészeti Főigazgatóság területi és központi szerveinél kiemelt szakmai ügyintézői munkakörök betöltésére;
 
-## 2. képes a Hivatal szakmai tevékenységét meghatározó (állampolgársági, idegenrendészeti valamint menekültügyi) szakterületekhez kapcsolódó ismeretek gyakorlati alkalmazására;
+## 2. képes az Országos Idegenrendészeti Főigazgatóság szakmai tevékenységét meghatározó (állampolgársági, idegenrendészeti valamint menekültügyi) szakterületekhez kapcsolódó ismeretek gyakorlati alkalmazására;
 
-## 3. alkalmas a Hivatal szervezeti egységeinél vezetői feladatok ellátására;
+## 3. alkalmas az Országos Idegenrendészeti Főigazgatóság szervezeti egységeinél vezetői feladatok ellátására;
 
 ## 4. részvétel a hazai és a nemzetközi migrációs szervezetekkel történő együttműködésben, nemzetközi szakmai párbeszédben.
 
@@ -1378,7 +1378,7 @@
 
 ## 3. felelősséget visel a munkájával és a magatartásával kapcsolatos szakmai-jogi-etikai normák és szabályok betartása terén;
 
-## 4. önállóan és felelősséggel vesz részt a Bevándorlási és Állampolgársági Hivatal szakmai ágának tevékenységével kapcsolatos szervezeten belüli és azon kívüli szakmai fórumok munkájában;
+## 4. önállóan és felelősséggel vesz részt az Országos Idegenrendészeti Főigazgatóság szakmai ágának tevékenységével kapcsolatos szervezeten belüli és azon kívüli szakmai fórumok munkájában;
 
 ## 5. projektekben és csoportmunkában a rá eső feladatokat önállóan, felelősséggel végzi, de elfogadja az együttműködés szükségességét is.
 
@@ -3760,7 +3760,7 @@
 
 ## Az alapfokozat megszerzéséhez két idegen nyelvből – melyből az egyik az angol nyelv – államilag elismert legalább középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy angol nyelvből államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány vagy ezekkel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
 
-3. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^6]
+3. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^7]
 
 MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKKÉPZETTSÉGEK JEGYZÉKE
 
@@ -5874,4 +5874,6 @@ A szakon végzettek az elsajátított magas szintű és széles spektrumú ismer
 
 – bűnügyi területen a szakmai követelményeknek leginkább megfelelő vezetési és irányítási eszközök alkalmazására,
 
-[^6]: A 3. melléklet a 11. § b) pontja és a 10. §, a 266/2018. (XII. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg. [A 3. mellékletben a 11. § a) pontjával elrendelt módosítás, amely szerint a 3. melléklet „9. NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK” alcím 2. pontjában a „– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)” szövegrész hatályát veszti, nem vezethető át.]
+– adatbázisok és egyéb rendelkezésre álló társadalmi tudáskomplexum információinak értelmezésére, összekapcsolására, tendenciák megállapítására,
+
+[^7]: A 3. melléklet a 11. § b) pontja és a 10. §, a 266/2018. (XII. 20.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg. [A 3. mellékletben a 11. § a) pontjával elrendelt módosítás, amely szerint a 3. melléklet „9. NEMZETBIZTONSÁGI MESTERKÉPZÉSI SZAK” alcím 2. pontjában a „– választható specializációk: katonai nemzetbiztonsági, polgári nemzetbiztonsági (Military National Security Specialisation, Civilian National Security Specialisation)” szövegrész hatályát veszti, nem vezethető át.]
