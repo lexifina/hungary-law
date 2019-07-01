@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-139-20-
 | --- | --- | --- |
 | 2019-06-15 | 2019-139-20-22.1 | 139/2019. (VI. 14.) Korm. rendelet |
 | 2019-06-16 | 2019-139-20-22.2 | 2010: CXXX. törvény |
+| 2019-07-01 | 2019-139-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
