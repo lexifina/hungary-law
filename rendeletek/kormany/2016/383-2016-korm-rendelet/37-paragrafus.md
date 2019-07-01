@@ -52,9 +52,9 @@ bj) a Nógrád Megyei Kormányhivatalt
 
 ## érintő másodfokú ingatlan-nyilvántartási eljárás lefolytatására.
 
-(2a)[^43] A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 29. § (2) bekezdésében foglaltak tekintetében a felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése, valamint az adós nevére vonatkozó adatváltozás átvezetése iránti megkeresésnek az illetékes elsőfokú ingatlanügyi hatóságok részére történő továbbítására a törvényszék székhelye szerint illetékes elsőfokú ingatlanügyi hatóságot, a fővárosban Budapest Főváros Kormányhivatala XI. Kerületi Hivatalát jelöli ki.
+(2a)[^46] A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 29. § (2) bekezdésében foglaltak tekintetében a felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése, valamint az adós nevére vonatkozó adatváltozás átvezetése iránti megkeresésnek az illetékes elsőfokú ingatlanügyi hatóságok részére történő továbbítására a törvényszék székhelye szerint illetékes elsőfokú ingatlanügyi hatóságot, a fővárosban Budapest Főváros Kormányhivatala XI. Kerületi Hivatalát jelöli ki.
 
-(3)[^44] A termőföld védelméről szóló törvény szerinti földvédelmi, földminősítési és újrahasznosítási eljárást, ha az eljárás tárgyát képező földrészletek a megyén belül különböző, az e §-ban meghatározott hatáskörében eljáró járási hivatal illetékességi területéhez tartoznak, ingatlanügyi hatóságként
+(3)[^47] A termőföld védelméről szóló törvény szerinti földvédelmi, földminősítési és újrahasznosítási eljárást, ha az eljárás tárgyát képező földrészletek a megyén belül különböző, az e §-ban meghatározott hatáskörében eljáró járási hivatal illetékességi területéhez tartoznak, ingatlanügyi hatóságként
 
 a) a megyeszékhely szerinti járási hivatal,
 
@@ -72,5 +72,5 @@ b) folytatja le a földminősítési eljárást, ha a különböző becslőjár�
 
 (5) A több megye területére kiterjedő becslőjárás, illetve osztályozási vidék esetén a járási mintaterek felülvizsgálatával, újak kijelölésével kapcsolatos feladatokat – az érintett megyei kormányhivatalok javaslatainak figyelembevételével – a legnagyobb területtel érintett megyei (fővárosi) kormányhivatal látja el.
 
-[^43]: A 37. § (2a) bekezdését a 186/2018. (X. 9.) Korm. rendelet 16. §-a iktatta be.
-[^44]: A 37. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 591. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^46]: A 37. § (2a) bekezdését a 186/2018. (X. 9.) Korm. rendelet 16. §-a iktatta be.
+[^47]: A 37. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 591. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

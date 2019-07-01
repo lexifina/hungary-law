@@ -2,7 +2,7 @@
 
 ## 6. A földmérési és térinformatikai államigazgatási szerv kijelölése
 
-27. § (1)[^40] A Kormány a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörének gyakorlására, továbbá a 27. § (2) bekezdésében és a 38. §-ban meghatározott hatósági hatáskörök gyakorlására a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságot jelöli ki.
+27. § (1)[^41] A Kormány a földmérési és térinformatikai államigazgatási szerv feladat- és hatáskörének gyakorlására a földügyért felelős minisztert és a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságot jelöli ki. A 27. § (2) bekezdésében és a 38. §-ban meghatározott hatósági hatásköröket a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság, a 27. § (3) bekezdésében meghatározott hatósági hatáskört a földügyért felelős miniszter által vezetett minisztérium gyakorolja.
 
 (2) A földmérési és térinformatikai államigazgatási szerv országos illetékességgel
 
@@ -48,10 +48,14 @@ t) tevékenységi körébe tartozó szakértői véleményt készít,
 
 u) ellátja a szakirányú konferenciák, valamint a szakirányú továbbképzés akkreditálását,
 
-v) kiállítja a földmérő és földminősítő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást,
+v)[^42] kiállítja a földmérő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást,
 
 w) jogszabályban foglaltaknak megfelelően ellátja az ingatlanrendező földmérő minősítéssel kapcsolatos feladatokat,
 
 x) fenntartja és működteti az országos földügyi és távérzékelési levéltárat.
 
-[^40]: A 27. § (1) bekezdése az 59/2019. (III. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+(3)[^43] A földmérési és térinformatikai államigazgatási szerv országos illetékességgel kiállítja a földminősítő igazolványokat és vezeti az ahhoz kapcsolódó nyilvántartást.
+
+[^41]: A 27. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^42]: A 27. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 51. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^43]: A 27. § (3) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 50. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
