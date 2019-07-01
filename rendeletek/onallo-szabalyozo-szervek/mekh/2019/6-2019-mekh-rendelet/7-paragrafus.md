@@ -1,0 +1,1 @@
+## „g) a felhasználó a fogyasztásmérő-berendezésen és kiegészítő készülékein, a fogyasztásmérő-berendezés védelmét biztosító eszközökön elhelyezett plomba sérülését vagy hiányát haladéktalanul az elosztó részére bejelentette, és a mérés befolyásolásának vagy megkerülésének lehetővé tételére utaló tény a berendezésekben nem állapítható meg.”

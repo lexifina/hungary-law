@@ -1,0 +1,1 @@
+## „k) ellenőrzést megelőző tájékoztató lap: a Magyar Energetikai és Közmű-szabályozási Hivatal honlapján közzétett, a helyszíni ellenőrzés során jelen lévő közreműködő személy tájékoztatását biztosító nyomtatvány;”

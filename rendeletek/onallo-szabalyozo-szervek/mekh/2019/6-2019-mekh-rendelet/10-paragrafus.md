@@ -1,0 +1,1 @@
+## „(5) Ha a felhasználó a szabálytalan vételezés megállapítására irányuló eljárás során nyilatkozatot tesz, de ahhoz nem mellékeli az abban foglaltak alátámasztásául szolgáló bizonyítékokat, úgy az elosztó határidő tűzésével felhívja a felhasználót a bizonyítékok pótlására.”
