@@ -1,25 +1,21 @@
-## 4/B. § A NÉBIH erdészeti igazgatási feladatai körében
+## 4/B. §[^19] A NÉBIH erdészeti igazgatási feladatai körében
 
-a) szolgáltatja a miniszter részére a kormányzati munka ellátásához szükséges, az erdészeti hatóság tevékenysége során keletkezett adatokat, elemzéseket,
+a) szolgáltatja a miniszter részére a kormányzati munka ellátásához szükséges, a faanyag-kereskedelmi lánc hatósági tevékenységéhez kapcsolódó és további erdészeti hatósági tevékenysége során keletkezett adatokat, elemzéseket,
 
-b) ellátja az erdészeti hatóság által vezetett nyilvántartásokhoz kapcsolódó, külön jogszabályban nem nevesített adatszolgáltatási feladatokat,
+b) ellátja a faanyag-kereskedelmi lánc hatósági tevékenységéhez kapcsolódó nyilvántartásokból a külön jogszabályban nem nevesített adatszolgáltatási feladatokat,
 
-c) ellátja az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 43. § (2) bekezdés b) pontjában foglalt közzétételi feladatokat,
+c) működteti a faanyag-kereskedelmi lánc hatósági felügyeletéhez kapcsolódó informatikai rendszereket,
 
-d) működteti az erdő ökológiai állapotának és gazdasági erőforrásainak felmérését, változásának nyomon követését, az egészségi állapotának, az éghajlat-változás hatásainak, valamint az erdőt veszélyeztető szükséghelyzeti károsítók folyamatos figyelemmel kísérését, az erdészeti növényvédelmi előrejelzés készítését szolgáló, továbbá nemzeti, európai uniós és nemzetközi adatszolgáltatást is ellátó erdővédelmi mérő- és megfigyelő rendszert,
+d) kidolgozza és közzéteszi a faanyag-kereskedelmi lánc hatósági felügyeletéhez kapcsolódó szakmai formanyomtatványokat és az elektronikus bejelentések formátumát és adattartalmát,
 
-e) gondoskodik az Országos Erdőállomány Adattárhoz kapcsolódó térinformatikai állományok folyamatos karbantartásáról és fenntartásáról,
+e) a miniszter felkérése alapján közreműködik a nemzetközi feladatok végrehajtásában,
 
-f) működteti az erdészeti hatóság tevékenységéhez kapcsolódó informatikai rendszereket,
+f) felméri, elemzi, értékeli és közzéteszi a nemzetközi, európai uniós és hazai viszonylatban végzett illegális fakitermelés, az ahhoz kapcsolódó kereskedelmi tevékenység, valamint a hazai faanyag-kereskedelmi lánc szereplők tevékenysége jellemzőit, továbbá az elemzések és értékelések alapján fejleszti a faanyag-kereskedelmi lánc szereplők felügyeleti rendszerét,
 
-g) kidolgozza és közzéteszi a külön jogszabály szerint előírt szakmai formanyomtatványokat és az elektronikus bejelentések formátumát és adattartalmát,
+g) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai bizottsági és tanácsi rendelet végrehajtása érdekében kapcsolatot tart az Európai Bizottsággal, az Európai Bizottság által nyilvántartásba vett ellenőrző szervezetekkel, a rendelet végrehajtásában érintett nemzetközi, tagállami és hazai szervezetekkel, valamint a fát és faterméket piaci forgalomba bocsátó, azzal kereskedelmi tevékenységet folytató szereplőkkel,
 
-h) a miniszter felkérése alapján közreműködik a nemzetközi feladatok végrehajtásában,
+h) kialakítja és fejleszti a faanyag-kereskedelmi lánc felügyeletéhez kapcsolódó egységes kockázatbecslési módszereket, valamint
 
-i) felméri, elemzi, értékeli és közzéteszi a nemzetközi, európai uniós és hazai viszonylatban végzett illegális fakitermelés, az ahhoz kapcsolódó kereskedelmi tevékenység, valamint a hazai faanyag-kereskedelmi lánc szereplők tevékenysége jellemzőit, továbbá az elemzések és értékelések alapján fejleszti a faanyag-kereskedelmi lánc szereplők felügyeleti rendszerét,
+i) gondoskodik az általa a faanyag-kereskedelmi lánc hatósági felügyeletéhez kapcsolódóan vezetett nyilvántartások összhangjának megteremtéséről más közhiteles nyilvántartásokkal.
 
-j) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai bizottsági és tanácsi rendelet végrehajtása érdekében kapcsolatot tart az Európai Bizottsággal, az Európai Bizottság által nyilvántartásba vett ellenőrző szervezetekkel, a rendelet végrahajtásában érintett nemzetközi, tagállami és hazai szervezetekkel, valamint a fát és faterméket piaci forgalomba bocsátó, azzal kereskedelmi tevékenységet folytató szereplőkkel,
-
-k) kialakítja és fejleszti a faanyag-kereskedelmi lánc felügyeletéhez kapcsolódó egységes kockázatbecslési módszereket, valamint
-
-l) gondoskodik az általa működtetett nyilvántartások összhangjának megteremtéséről más közhiteles nyilvántartásokkal.
+[^19]: A 4/B. § a 159/2019. (VI. 28.) Korm. rendelet 45. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

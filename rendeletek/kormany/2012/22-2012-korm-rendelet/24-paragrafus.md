@@ -1,5 +1,5 @@
 ## 7. A talajvédelmi hatósági eljárásokban közreműködő szakhatóságok
 
-24. §[^26]
+24. §[^27]
 
-[^26]: A 24. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^27]: A 24. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
