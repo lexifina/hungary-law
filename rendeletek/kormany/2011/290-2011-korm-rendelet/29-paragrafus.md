@@ -8,7 +8,7 @@ b) a honvédelmi feladatok tekintetében a katasztrófák elleni védekezésért
 
 c)[^38] a megyei, fővárosi védelmi bizottság illetékességi területén működő rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal megyei vezetőit, kivéve, ha tagjai a megyei, fővárosi védelmi bizottságnak,
 
-d)[^39] a Bevándorlási és Menekültügyi Hivatal területileg illetékes vezetőjét,
+d)[^39] az Országos Idegenrendészeti Főigazgatóság területileg illetékes vezetőjét,
 
 e)[^40] a Magyar Honvédség parancsnoka által a megyei, fővárosi védelmi bizottsággal együttműködésre kijelölt katonai szervezet parancsnokát, és a katonai igazgatási szervezet vezetőjét,
 
@@ -23,6 +23,6 @@ vagy az általuk kijelölt képviselőt.
 [^36]: A 28. § a 259/2016. (VIII. 31.) Korm. rendelet 57. §-ával megállapított szöveg.
 [^37]: A 29. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 87. § (5) bekezdésével megállapított szöveg.
 [^38]: A 29. § (1) bekezdés c) pontja a 281/2018. (XII. 21.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^39]: A 29. § (1) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 183. §-a szerint módosított szöveg.
+[^39]: A 29. § (1) bekezdés d) pontja a 126/2019. (V. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^40]: A 29. § (1) bekezdés e) pontja a 281/2018. (XII. 21.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
 [^41]: A 29. § (1a) bekezdését a 176/2013. (VI. 3.) Korm. rendelet 12. §-a iktatta be.
