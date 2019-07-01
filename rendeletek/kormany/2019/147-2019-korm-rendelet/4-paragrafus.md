@@ -1,3 +1,5 @@
-## 3. §[^3]
+## 3. § Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 386/2016. (XII. 2.) Korm. rendelet] 7. § (1) bekezdés e) pont eb) alpontjának helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 9. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## (A NEAK ellátja a jogszabályokban meghatározott feladatait, ennek keretében vezeti az egészségbiztosítási nyilvántartásokat, így különösen)
+
+## „eb) a bejelentett személyek jogviszonyadatainak nyilvántartását, ideértve az egészségügyi szolgáltatásra való jogosultsággal és annak igazolásával, valamint a Társadalombiztosítási Azonosító Jel (a továbbiakban: TAJ) igazolásával és a hatósági igazolványok kiadásával kapcsolatos adatokat is,”

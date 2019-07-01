@@ -1,3 +1,7 @@
-## 5. §[^5]
+## lép.
 
-[^5]: Az 5. § a 9. § (2) bekezdése alapján 2019. július 1-jén lép hatályba.
+## 6. § Hatályát veszti a 386/2016. (XII. 2.) Korm. rendelet
+
+a) 7. § (1) bekezdés e) pont ea) alpontja,
+
+b) 7. § (1) bekezdés f) pontja.
