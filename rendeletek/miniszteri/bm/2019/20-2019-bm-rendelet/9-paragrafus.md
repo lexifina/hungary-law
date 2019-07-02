@@ -1,1 +1,3 @@
-## 8. § A 30/2015. (VI. 16.) BM rendelet a 3. melléklet szerinti 4/A. melléklettel egészül ki.
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

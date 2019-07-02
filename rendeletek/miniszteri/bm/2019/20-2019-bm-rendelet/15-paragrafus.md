@@ -1,3 +1,5 @@
-## 14. § A 4/2019. (III. 11.) BM rendelet 1. §-ában az „a)–e)” szövegrész helyébe az „a)–f)” szöveg lép.
+## 14. §[^15]
 
 ## 7. Záró rendelkezések
+
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 1. § Az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet [a továbbiakban: 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet] 2. § b) pontjában a „főigazgatója, a büntetés-végrehajtás” szövegrész helyébe a „főigazgatója, az idegenrendészeti szerv főigazgatója, a büntetés-végrehajtás” szöveg lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
