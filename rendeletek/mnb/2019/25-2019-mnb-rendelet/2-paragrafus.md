@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 77,76 gramm, átmérője 52,5 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a jobb oldali mezőben Kölcsey Ferenc félalakos portréjának ábrázolása látható. A portré ábrázolásától balra a Himnusz eredeti kéziratából származó szövegrészlet – az első versszak töredéke – olvasható, alatta Kölcsey Ferenc aláírásával. Az emlékérme felső szélén, félköriratban, jobbra a „MAGYARORSZÁG” felirat, balra a „20 000” értékjelzés és az „Ft” felirat, a félkörirat alatt, középen a „2019” verési évszám, a portré ábrázolásába illesztve a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Erkel Ferenc félalakos portréjának ábrázolása látható, a háttérben balra Erkel Ferenc aláírásával, jobbra a Himnusz szöveggel ellátott eredeti kottájának részletével. Az emlékérme szélén, fent, balra csúsztatott félköriratban az „A HIMNUSZ MEGZENÉSÍTÉSE ⋅ 1844” felirat olvasható, lent, a portré ábrázolásába illesztve Kereszthury Gábor tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
