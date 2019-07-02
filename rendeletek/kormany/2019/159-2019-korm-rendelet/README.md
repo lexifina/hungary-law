@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-159-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-07-01 | 2019-159-20-22.1 | 159/2019. (VI. 28.) Korm. rendelet |
+| 2019-07-02 | 2019-159-20-22.2 | 2010: CXXX. törvény |

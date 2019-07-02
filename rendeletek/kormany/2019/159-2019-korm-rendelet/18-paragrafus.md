@@ -1,3 +1,0 @@
-## 17. § A 262/2010. (XI. 17.) Korm. rendelet 12. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A pályázó és az NFK mint kiíró köteles továbbá a pályázati eljárás befejezését követően is bizalmasan kezelni az NFK által a pályázó rendelkezésére bocsátott és közérdekű adatnak, vagy közérdekből nyilvános adatnak nem minősülő adatot, tényt, információt, azokról harmadik személynek tájékoztatást nem adhat. Ez a tilalom nem zárja ki a finanszírozó bankokkal, valamint a pályázat elkészítéséhez a pályázó által igénybe vett, felhatalmazással rendelkező szakértővel való adatközlést, az e §-ban foglalt titoktartási kötelezettség azonban e személyekre is kiterjed.”
