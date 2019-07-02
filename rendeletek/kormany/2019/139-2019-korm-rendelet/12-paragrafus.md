@@ -1,4 +1,4 @@
-## 11. § A költségvetési szervek és az egyházi jogi személyek foglalkoztatottjainak 2019. évi kompenzációjáról szóló 275/2018. (XII. 21.) Korm. rendelet 4. § (4) bekezdés b) pontjában a „11. melléklete és 14. melléklete” szövegrész helyébe a „11. melléklete, 14. melléklete és 16. melléklete” szöveg lép.
+## 11. §[^18]
 
 ## 5. Záró rendelkezések
 
@@ -11,3 +11,5 @@
 (4) A 7. § (4) bekezdése, valamint a 9–11. melléklet 2020. november 1-jén lép hatályba.
 
 (5) A 7. § (5) bekezdése, valamint a 12–14. melléklet 2022. január 1-jén lép hatályba.
+
+[^18]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
