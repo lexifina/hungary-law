@@ -6,6 +6,6 @@
 
 a)
 
-b) 37. § (3) bekezdésében az „az (1) bekezdés a) pontja szerinti állami adóhatóság” szöveg helyébe az „az (1) bekezdés a) pontja szerinti állami adóhatóság, az (1) bekezdés d) pontja szerinti TAJ nyilvántartást vezető kincstár” szöveg
+b)
 
 lép.
