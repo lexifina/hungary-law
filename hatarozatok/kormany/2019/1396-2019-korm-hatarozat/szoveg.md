@@ -40,8 +40,6 @@ a b) alpont tekintetében a 2020. évi költségvetés végrehajtása során, a 
 
 7. egyetért azzal, hogy az Ingatlan megvásárlásával és átalakításával kapcsolatos eszközbeszerzések lefolytatása során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni,
 
-8. visszavonja a Muravidéki Magyar Önkormányzati Nemzeti Közösség működésének és beruházásának finanszírozásához szükséges forrás biztosításáról szóló 1051/2019. (II. 18.) Korm. határozat
+8.[^1]
 
-a) 3. pontjában az „az a) alpont tekintetében a felmerülés ütemében” szövegrészt és
-
-b) 3. pont a) alpontját.
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
