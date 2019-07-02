@@ -1,1 +1,3 @@
-## 17. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 29. § (1) bekezdés d) pontjában az „a Bevándorlási és Menekültügyi Hivatal” szövegrész helyébe az „az Országos Idegenrendészeti Főigazgatóság” szöveg lép.
+## 17. §[^10]
+
+[^10]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

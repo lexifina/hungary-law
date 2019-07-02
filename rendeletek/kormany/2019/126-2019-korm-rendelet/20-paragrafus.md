@@ -1,1 +1,3 @@
-## 19. § Az Európai Unió intézményeiben nemzeti szakértőként foglalkoztatott köztisztviselőkről, kormánytisztviselőkről és a fegyveres szervek hivatásos állományú tagjairól szóló 34/2012. (III. 9.) Korm. rendelet 4. § (1) bekezdésében az „az országos parancsnok, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, vagy a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv főigazgatója” szövegrész helyébe az „a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti országos parancsnok vagy országos főigazgató” szöveg lép.
+## 19. §[^12]
+
+[^12]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

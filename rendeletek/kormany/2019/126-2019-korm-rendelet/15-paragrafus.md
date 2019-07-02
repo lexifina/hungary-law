@@ -1,1 +1,3 @@
-## 14. § A harmadik országbeli állampolgár kutatókat fogadó kutatószervezetek akkreditációjáról, valamint a fogadási megállapodásról szóló 181/2007. (VII. 6.) Korm. rendelet 14. § (2) és (3) bekezdésében az „a Bevándorlási és Menekültügyi Hivatalt” szövegrész helyébe az „az Országos Idegenrendészeti Főigazgatóságot” szöveg lép.
+## 14. §[^7]
+
+[^7]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

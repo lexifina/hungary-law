@@ -1,1 +1,3 @@
-## 15. § A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 70. § (1) bekezdésében az „a Bevándorlási és Menekültügyi Hivatalt” szövegrész helyébe az „az Országos Idegenrendészeti Főigazgatóságot” szöveg lép.
+## 15. §[^8]
+
+[^8]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

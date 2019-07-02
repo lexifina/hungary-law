@@ -1,1 +1,3 @@
-## 18. § A munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet 1. § (3) bekezdésében a „Szolgálat és a Terrorelhárítási Központ” szövegrész helyébe a „Szolgálat, a Terrorelhárítási Központ és az Országos Idegenrendészeti Főigazgatóság” szöveg lép.
+## 18. §[^11]
+
+[^11]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 16. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 3. melléklete a 4. melléklet szerint módosul.
+## 16. §[^9]
+
+[^9]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

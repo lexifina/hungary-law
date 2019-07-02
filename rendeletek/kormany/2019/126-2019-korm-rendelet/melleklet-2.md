@@ -18,4 +18,6 @@
 
 | 8. | Nyugat-dunántúli Regionális Igazgatóság Székhely: Győr | a) Győr-Moson-Sopron megye, b) Vas megye, c) Zala megye |
 
-2. melléklet a 126/2019. (V. 30.) Korm. rendelethez
+2. melléklet a 126/2019. (V. 30.) Korm. rendelethez[^24]
+
+[^24]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

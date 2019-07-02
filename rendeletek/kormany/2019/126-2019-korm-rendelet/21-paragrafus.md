@@ -1,1 +1,3 @@
-## 20. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 15. melléklet I. Egységes rovatrend a költségvetési és finanszírozási bevételekhez, kiadásokhoz pont, K1–8. Költségvetési kiadások alpont, K4. Ellátottak pénzbeli juttatásai pont, K48. Egyéb nem intézményi ellátások alpont l) pontjában a „Menekültügyi és Bevándorlási Hivatal” szövegrész helyébe az „az idegenrendészeti szerv” szöveg lép.
+## 20. §[^13]
+
+[^13]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

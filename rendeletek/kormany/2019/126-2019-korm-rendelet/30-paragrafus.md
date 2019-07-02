@@ -1,1 +1,3 @@
-## 29. § A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklete a 10. melléklet szerint módosul.
+## 29. §[^22]
+
+[^22]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
