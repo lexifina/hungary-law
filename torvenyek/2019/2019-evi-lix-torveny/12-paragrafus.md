@@ -1,3 +1,0 @@
-12. § Az NKE tv. a következő 55/A. §-sal egészül ki:
-
-„55/A. § Az egyes közszolgálati tárgyú törvények módosításáról szóló 2019. évi LIX. törvénnyel (a továbbiakban: Módtv.3.) megállapított 16/B. § (1) bekezdés c) pontját a Módtv.3. hatálybalépésekor folyamatban lévő tanévtől kell alkalmazni.”

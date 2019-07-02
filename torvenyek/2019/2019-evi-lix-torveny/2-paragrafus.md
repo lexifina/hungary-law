@@ -1,5 +1,3 @@
 ## 2. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-2. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: NKE tv.) a következő 15/A. §-sal egészül ki:
-
-„15/A. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 81. § (3a)–(3d) bekezdésében foglaltak szerint az Egyetem óraadó oktatója lehet az is, aki kormányzati szolgálati jogviszonyban áll. Az Egyetem részéről a Kit. 81. § (3a) bekezdése szerinti megállapodást a rektor a Fenntartó egyetértésével köti meg.”
+2–14. §
