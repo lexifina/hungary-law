@@ -1,15 +1,1 @@
 ## 1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosítása
-
-1. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet [a továbbiakban: 217/1997. (XII. 1.) Korm. rendelet] 12/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az igényérvényesítéshez szükséges TAJ kiadását – a (3) bekezdésben foglalt kivétellel – a Tbj. szerinti biztosított vagy a Tbj. szerint egészségügyi szolgáltatásra jogosult belföldi személy a lakóhelye szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró megyeszékhely szerinti járási hivatalnál kezdeményezi. A TAJ számot igazoló hatósági igazolvány kiadását az erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon kell kérelmezni. A járási hivatal a NEAK által biztosított központi informatikai rendszeren keresztül kéri a Kincstártól a TAJ képzését, és az adatátadást követően azt a járási hivatal vagy a NEAK hatósági igazolványon igazolja. Ha a Tbj. szerinti belföldi személy magyarországi tartózkodása vagy egészségügyi szolgáltatásokra való jogosultsága határozott idejű, a járási hivatal, illetve a NEAK a hatósági igazolványt ezen időtartamra vonatkozó érvényességgel adja ki.”
-
-(2) A 217/1997. (XII. 1.) Korm. rendelet 12/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A személyiadat- és lakcímnyilvántartás szervének az újszülött adataira vonatkozó adatszolgáltatása alapján a Kincstár TAJ számot képez, és erről adatot szolgáltat a NEAK részére. A gyermek lakóhelye – a szülő kérelmére a gyermek születési helye – szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró megyeszékhely szerinti járási hivatal, a Kincstár adatszolgáltatását követően soron kívül, de legkésőbb nyolc napon belül kiadja, és a gyermek lakóhelyére vagy a szülő kérelmében meghatározott címre postán megküldi az újszülött TAJ számát igazoló hatósági igazolványt.”
-
-(3) A 217/1997. (XII. 1.) Korm. rendelet 12/A. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(8) A Tbj. szerint külföldinek minősülő biztosított részére a foglalkoztatója a foglalkoztatás megkezdése előtt – az erre rendszeresített nyomtatványon vagy elektronikus űrlapon – a székhelye szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró megyeszékhely szerinti járási hivataltól kéri a TAJ kiadását. A járási hivatal a NEAK által biztosított központi informatikai rendszeren keresztül kéri a Kincstártól a TAJ szám képzését, és az adatátadást követően a képzett TAJ számról, valamint a TAJ számot igazoló hatósági igazolvány átvételének lehetőségéről értesíti a foglalkoztatót. A TAJ számot igazoló hatósági igazolványt a foglalkoztatott az ország területén bármely egészségbiztosítási pénztári feladatkörében eljáró megyeszékhely szerinti járási hivatalnál átveheti.”
-
-(4) A 217/1997. (XII. 1.) Korm. rendelet 12/A. § (14) bekezdése helyébe a következő rendelkezés lép:
