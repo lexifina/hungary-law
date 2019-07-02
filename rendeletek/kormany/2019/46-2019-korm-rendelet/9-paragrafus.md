@@ -1,1 +1,0 @@
-## „(4) Ha ugyanazon fiatal házaspár megelőlegezett formában nyújtott lakáscélú állami támogatást – ideértve a megelőlegező kölcsönt is – vett igénybe, a 8. alcím szerinti megelőlegezett családi otthonteremtési kedvezmény akkor igényelhető, ha a korábbi gyermekvállalás teljesült.”
