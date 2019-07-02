@@ -1,9 +1,0 @@
-6. § Az Szhitv. az 5. §-t követően a következő 4/A. alcímmel egészül ki:
-
-„4/A. Egyetemlegesség
-
-5/A. § (1) Az Integrációs Szervezet és annak tagjai egymás kötelezettségeiért a Ptk. szabályai szerinti egyetemlegesen kötelesek helytállni. Az egyetemleges felelősség az Integrációs Szervezettel és annak tagjaival szemben fennálló valamennyi követelésre kiterjed, függetlenül azok keletkezésének időpontjától.
-
-(2) Az egyetemlegességre alapozott követelésekkel kapcsolatban a kötelezettek egymással való együttműködésének részletes szabályait az Integrációs Szervezet szabályzatban határozza meg.
-
-(3) Az Integrációs Szervezetben fennálló tagság megszűnése esetén a volt tag vonatkozásában az Integrációs Szervezet és annak tagjai helytállási kötelezettsége a volt tag által a tagság megszűnése időpontjától vállalt kötelezettségekre nem terjed ki. Az a szervezet, amelynek Integrációs Szervezetben fennálló tagsága bármely okból megszűnik, az Integrációs Szervezettel és annak tagjaival szemben az Integrációs Szervezetben fennálló tagság megszűnésének időpontjáig keletkezett és az Integrációs Szervezeti tagsága megszűnése időpontjától számított 730 napon belül benyújtott igényekért felel. Az Integrációs Szervezet és annak tagjai a volt tag Integrációs Szervezetben fennálló tagságának megszűnése időpontjáig keletkezett és a volt tag Integrációs Szervezeti tagsága megszűnése időpontjától számított 730 napon belül benyújtott igényekért felelnek a volt tag tartozásaiért. A volt tag tekintetében az illetékes hatóság, illetve bíróság a tőkekövetelmények fennállásának teljesítése körében az Integrációs Szervezetben fennálló tagsága megszűnése időpontjától számított 730 napig nem veheti figyelembe a volt tagnak a tagsági jogviszonya megszűnésekor – kilépés esetén a kilépési szándéknyilatkozat Integrációs Szervezethez történő benyújtásakor – fennállt saját tőke értékét.”
