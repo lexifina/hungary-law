@@ -1,19 +1,24 @@
 1. § (1)[^1]
 
-(2) A 36/2018. (XI. 13.) MNB rendelet 3. melléklete a 2. melléklet szerint módosul.
+(2)[^2]
 
-(3) A 36/2018. (XI. 13.) MNB rendelet
+(3)[^3]
 
-a) 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 35. sora szerinti 4LAN táblakódú felügyeleti jelentés tekintetében a beküldési határidőt meghatározó mezőben a „11” szövegrész helyébe a „12” szöveg,
+a)[^4]
 
-b) 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 36. sora szerinti Cashflow táblakódú felügyeleti jelentés tekintetében a beküldési határidőt meghatározó mezőben a „12” szövegrész helyébe a „13” szöveg,
+b)[^5]
 
-c) 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 37. sora szerinti ACashflow táblakódú felügyeleti jelentés tekintetében a beküldési határidőt meghatározó mezőben a „12” szövegrész helyébe a „13” szöveg,
+c)[^6]
 
-d)[^2]
+d)[^7]
 
-e)[^3]
+e)[^8]
 
 [^1]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § (3) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. § (3) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. § (3) bekezdés nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. § (3) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. § (3) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. § (3) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. § (3) bekezdés d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. § (3) bekezdés e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

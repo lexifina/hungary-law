@@ -242,6 +242,6 @@
 
 ## CASHFLOW7015,1+CASHFLOW704,1+CASHFLOW705,1+ CASHFLOW710,1”
 
-3. melléklet a 15/2019. (IV. 17.) MNB rendelethez[^8]
+3. melléklet a 15/2019. (IV. 17.) MNB rendelethez[^19]
 
-[^8]: A 3. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
