@@ -1,5 +1,5 @@
-## 23. §[^22]
+## 23. §[^24]
 
 ## 8. Az elektronikus közbeszerzés részletes szabályairól szóló 424/2017. (XII. 19.) Korm. rendelet módosítása
 
-[^22]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
