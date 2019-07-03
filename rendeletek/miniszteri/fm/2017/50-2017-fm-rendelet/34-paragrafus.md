@@ -1,5 +1,3 @@
-## 33/B. §[^25] E rendeletnek az egyes agrárágazati támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 35/2018. (XII. 6.) AM rendelettel [a továbbiakban: 35/2018. (XII. 6.) AM rendelet] hatályon kívül helyezett 16. § (9) bekezdését a 35/2018. (XII. 6.) AM rendelet hatálybalépésekor[^26] folyamatban lévő eljárásokban sem kell alkalmazni.
-
 ## 21. Az Európai Unió jogának való megfelelés
 
 ## 34. § Ez a rendelet
@@ -16,7 +14,6 @@ e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs-, z
 
 f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozottgyümölcs- és feldolgozottzöldség-ágazatra történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2017. március 13-i 892/2017/EU bizottsági végrehajtási rendelet,
 
-g) az egyes gyümölcsfélék termelőinek nyújtandó ideiglenes rendkívüli támogatási intézkedések megállapításáról szóló, 2017. április 20-i 2017/1165/EU felhatalmazáson alapuló bizottsági rendelet
+g)[^71]
 
-[^25]: A 33/B. §-t a 35/2018. (XII. 6.) AM rendelet 39. §-a iktatta be.
-[^26]: A hatálybalépés időpontja 2018. december 7.
+[^71]: A 34. § g) pontját a 30/2019. (VI. 25.) AM rendelet 14. § d) pontja hatályon kívül helyezte.

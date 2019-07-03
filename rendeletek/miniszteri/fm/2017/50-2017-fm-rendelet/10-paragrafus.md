@@ -1,15 +1,17 @@
-10. § (1) A 891/2017/EU bizottsági rendelet 23. cikkében hivatkozott referencia időszakban forgalmazott termék tényleges értékét kell alapul venni a nem transznacionális termelői szervezetek és a termelői szervezetek nem transznacionális társulásai esetében az uniós pénzügyi támogatásnak az 1308/2013/EU európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdésében említett felső korlátjának kiszámítása során.
+10. § (1)[^16] A nem transznacionális termelői szervezetnek és a termelői szervezetek nem transznacionális társulásának – a 2007. évi XVII. törvény szerint a mezőgazdasági és vidékfejlesztési szervnél nyilvántartott besorolás alapján megállapított ügyfél-azonosítóval rendelkező – tagjai által termelt terméknek a 891/2017/EU bizottsági rendelet 23. cikkében hivatkozott referencia-időszakban forgalmazott értékét kell alapul venni az európai uniós pénzügyi támogatás 1308/2013/EU európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdésében hivatkozott felső korlátjának a kiszámítása során.
 
-(2) A termelői szervezeteknek a működési alapokhoz nyújtott uniós pénzügyi támogatás, tagjaik hozzájárulása és magának a termelői szervezetnek a hozzájárulása következő évre vonatkozó becsült összegét
+(2)[^17] A termelői szervezetnek a működési alapokhoz nyújtott európai uniós pénzügyi támogatás, a nemzeti támogatás, tagjai és a termelői szervezet hozzájárulása következő évre vonatkozó becsült összegét
 
 a) az operatív program elfogadására vonatkozó kérelem benyújtásával egyidejűleg,
 
-b) a 16. § (1) bekezdése szerinti, a miniszter által jóváhagyott operatív programnak és a működési alapnak a következő évre vonatkozó módosítási kérelem benyújtásával egyidejűleg vagy
+b) az operatív program elfogadására irányuló kérelem hiányában legkésőbb november 15. napjáig
 
-c) az operatív program elfogadására vagy módosítására irányuló kérelem hiányában legkésőbb november 15. napjáig
-
-a 2. melléklet 6. táblázatának kitöltésével kell benyújtaniuk a minisztériumhoz.
+## a működési alapra vonatkozó becslésről szóló, a minisztérium honlapján közzétett táblázat kitöltésével kell megküldeni a miniszter részére.
 
 (3) A bejelentésnek tartalmaznia kell a referencia időszak bejelentést megelőző időszakának vonatkozásában a főkönyvi kivonat alapján a könyvvizsgáló által hitelesített tényadatokat, valamint adott esetben a hátralévő időszakra vonatkozó, a becslésnél figyelembe vett szempontok bemutatását.
 
-(4) Ha a következő évi működési alap a bejelentés alapjául szolgáló becsült összeg figyelembevételével az operatív programban jóváhagyott mértékhez képest változik, akkor a bejelentést a 16. § (1) bekezdése szerinti, az operatív program következő évre vonatkozó módosítási kérelmével együtt kell benyújtani.
+(4)[^18]
+
+[^16]: A 10. § (1) bekezdése a 30/2019. (VI. 25.) AM rendelet 4. §-ával megállapított szöveg.
+[^17]: A 10. § (2) bekezdése a 30/2019. (VI. 25.) AM rendelet 4. §-ával megállapított szöveg.
+[^18]: A 10. § (4) bekezdését a 30/2019. (VI. 25.) AM rendelet 14. § a) pontja hatályon kívül helyezte.
