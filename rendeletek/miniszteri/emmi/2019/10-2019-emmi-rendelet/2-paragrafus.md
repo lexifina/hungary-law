@@ -1,0 +1,3 @@
+## 1. § Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R1.) 3. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Az (5) bekezdésben foglaltakat nem kell alkalmazni a beteg közvetlen jelenlétét nem igénylő tevékenységek végzése, a csoportos tevékenységek végzése, a kizárólag laboratóriumi mintavételi eszköz biztosítása, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 20. § (4) bekezdése szerinti keresőképtelenség miatti soron kívüli ellátások, valamint a népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó beavatkozások végzése esetén.”
