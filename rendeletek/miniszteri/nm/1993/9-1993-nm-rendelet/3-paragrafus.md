@@ -14,7 +14,7 @@ b)[^51]
 
 (5)[^52] Nem számolhatók el teljesítményként az adott rendelésen a havi összesített rendelési időt meghaladóan végzett tevékenységek abban az esetben, ha a rendelésen nyújtott – a járóbeteg-szakellátás egyes tevékenységeinek minimális ellátási idejéről szóló 17. számú melléklet szerint, illetve az ott meghatározottak hiányában legalább 2 perc ellátási idő alapján számított – összesített havi ellátási idő meghaladja a tárgyhavi rendelési időt.
 
-(6)[^53] Az (5) bekezdésben foglaltakat nem kell alkalmazni a beteg közvetlen jelenlétét nem igénylő tevékenységek végzése, a csoportos tevékenységek végzése, a kizárólag laboratóriumi mintavételi eszköz biztosítása, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 20. § (4) bekezdése szerinti keresőképtelenség miatti soron kívüli ellátások végzése esetén.
+(6)[^53] Az (5) bekezdésben foglaltakat nem kell alkalmazni a beteg közvetlen jelenlétét nem igénylő tevékenységek végzése, a csoportos tevékenységek végzése, a kizárólag laboratóriumi mintavételi eszköz biztosítása, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 20. § (4) bekezdése szerinti keresőképtelenség miatti soron kívüli ellátások, valamint a népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó beavatkozások végzése esetén.
 
 (7)[^54] Ha a 35950 Agy PET/CT vizsgálatra, a 35960 Egésztest PET/CT vizsgálatra, a 35970 Egy testtájék PET/CT vizsgálatra a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 26. § (1) bekezdés a) pontja alapján kerül sor, a beteg a vizsgálatra az adott eljárás országos keretének terhére jogosult.
 
@@ -25,5 +25,5 @@ b)[^51]
 [^50]: A 3. § (4) bekezdését a 26/2005. (VII. 13.) EüM rendelet 1. §-a iktatta a szövegbe.
 [^51]: A 3. § (4) bekezdésének b) pontját a 49/2006. (XII. 28.) EüM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
 [^52]: A 3. § (5) bekezdését a 29/2009. (VIII. 14.) EüM rendelet 1. § (2) bekezdése iktatta be.
-[^53]: A 3. § (6) bekezdését a 29/2009. (VIII. 14.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 44/2011. (VII. 7.) NEFMI rendelet 1. §-ával megállapított szöveg.
+[^53]: A 3. § (6) bekezdését a 29/2009. (VIII. 14.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 10/2019. (VI. 19.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^54]: A 3. § (7) bekezdését a 15/2018. (VI. 28.) EMMI rendelet 1. §-a iktatta be.

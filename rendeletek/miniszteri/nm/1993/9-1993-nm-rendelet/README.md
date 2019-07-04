@@ -55,3 +55,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2018-11-01 | 1993-9-20-3D.113 | 3/2004. (I. 15.) ESZCSM rendelet |
 | 2018-12-20 | 1993-9-20-3D.114 | 45/2018. (XII. 19.) EMMI rendelet |
 | 2019-01-01 | 1993-9-20-3D.115 | 3/2004. (I. 15.) ESZCSM rendelet |
+| 2019-07-04 | 1993-9-20-3D.116 | 29/2009. (VIII. 14.) EüM rendelet |
