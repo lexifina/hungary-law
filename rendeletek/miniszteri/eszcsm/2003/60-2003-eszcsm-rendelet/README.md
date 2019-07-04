@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-60-20-0
 | 2017-10-30 | 2003-60-20-0M.38 | 73/2013. (XII. 2.) EMMI rendelet |
 | 2018-01-01 | 2003-60-20-0M.39 | 38/2017. (XII. 29.) EMMI rendelet |
 | 2019-01-01 | 2003-60-20-0M.40 | 47/2018. (XII. 21.) EMMI rendelet |
+| 2019-07-04 | 2003-60-20-0M.41 | 73/2013. (XII. 2.) EMMI rendelet |

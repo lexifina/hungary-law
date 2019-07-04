@@ -2882,6 +2882,126 @@ Személyi feltételhez: Belgyógyász, gasztroenterológia szakorvos (legalább 
 
 A gasztroenterológiai ellátáshoz kapcsolódó rehabilitációs tevékenység: lásd Rehabilitációs medicina alaptevékenységek 2200 szakmakód alatt.
 
+| Vastagbélszűrés | Szakmakód: | 9603 |
+
+| A népegészségügyi célú, célzott vastag- és végbélszűrés minimumfeltételei a szűrő kolonoszkópos vizsgálathoz |
+
+| A tevékenység végzéséhez szükséges minimumfeltételek | Kötelező szakterületi kompetenciák |
+
+| SZEMÉLYI FELTÉTELEK: |  |
+
+| gasztroenterológus szakorvos* | 2 fő |
+
+| endoszkópos szakasszisztens + egészségügyi szakképesítéssel rendelkező asszisztens (2020. 01. 01. előtt 1 fő szakasszisztens + 1 fő asszisztens) | 2 fő |
+
+| adminisztrátor | X |
+
+| betegkísérő | EL |
+
+| HELYISÉG FUNKCIÓK: |  |
+
+| beteg megfigyelő | 1 db |
+
+| kolonoszkópos helyiség | 1 db |
+
+| eszközmosó helyiség | 1 db |
+
+| TÁRGYI FELTÉTELEK: |
+
+| Álló eszközök |
+
+| HD felbontású videokolonoszkóp | 2 db |
+
+| CO2-insufflator (2020. 01. 01. után kötelező, előtte opcionális) | 1 db |
+
+| nagyfrekvenciás vágókészülék | 1 db |
+
+| HD felbontású videoprocesszor + fényforrás | 1 db |
+
+| HD felbontású monitor | 1 db |
+
+| képarchiváló rendszer (2020. 01. 01. után kötelező, előtte opcionális) | 1 db |
+
+| monitor | 1 db |
+
+| mobil szívó | 1 db |
+
+| hűtőszekrény | 1 db |
+
+| automata eszközmosó | 1 db |
+
+| UH-os tisztító (2020. 01. 01. után kötelező, előtte opcionális) | 1 db |
+
+| leakage teszter | 1 db |
+
+| endoszkóp mosótál | 1 db |
+
+| pulzoxyméter | 1 db |
+
+| Fogyó eszközök, amelyeknek a biztonságos működéshez folyamatosan nagyobb tételszámban az endoszkópos laborokban ott kell lenniük |  |
+
+| injektor | 4 db |
+
+| haemoklipp rögzítő | 1 db |
+
+| haemospray és/vagy endoclot | 1 db |
+
+| Coagrasper | 1 db |
+
+| biopsziás fogók (kolonoszkóphoz) | 4 db |
+
+| polypectomiás hurkok | 2 db |
+
+| polypcsapda | 1 db |
+
+| OTSC klipp | 1 db |
+
+| idegentestfogó | 2 db |
+
+| endoszkópos marker (tattoo) | 1 db |
+
+| bódításhoz szükséges gyógyszerek, illetve antidotumaik | X |
+
+| AZ ELLÁTÁSHOZ SZÜKSÉGES DIAGNOSZTIKAI ÉS SZAKMAI SZOLGÁLTATÁSOK KÖRE: |
+
+| CT diagnosztika | EK |
+
+| Intenzív osztály | EK |
+
+| Aneszteziológiai munkahely | EK |
+
+| Radiológia | EK |
+
+| Patológia | EK |
+
+| Sebészet | EK |
+
+| Laboratórium | EK |
+
+| Mikrobiológiai laboratórium | EK |
+
+| Nukleáris medicina | EK |
+
+| elektronikus dokumentációhoz szükséges eszközök | X |
+
+| betegtájékoztatók a vizsgálatról | X |
+
+| elfogadott elektronikus leletarchiváló rendszer, amely alkalmas a leletek visszakeresésére, szelektálására és szűrésére, statisztikai adatok kinyerésére | X |
+
+*Gasztroenterológus szakorvos: 3 év gasztroenterológiai gyakorlat és évi 150 kolonoszkópia végzése a csatlakozást megelőző utolsó 3 évben
+
+Az egészségügyi szolgáltató vállalja az alábbiak biztosítását:
+
+– folyamatosan adatot szolgáltat az Országos Szűréstámogató Rendszerbe (OSZR),
+
+– a vizsgálati leleteket az előzetesen megajánlott sablonba vezeti, amely követi a minimum standard nomenklatúrát,
+
+– 2020. év után minden vizsgálat során képi dokumentálást készít, amely a minőségi kolonoszkópia feltételrendszerének megfelel,
+
+– biztosítja a rendelkezésére álló eszközök szükséges karbantartását, a folyamatos üzemeltetéshez szükséges fogyóeszközöket, a minden vizsgálat után kötelező endoszkópos mosóautomata használatához a szükséges vegyszereket,
+
+– biztosítja a munkavégzéshez szükséges további feltételeket mindaddig, amíg a szűrésből kiszűrt személyek megjelenése a szakrendelésen várható, és amíg az elvégzett kolonoszkópos vizsgálatról a szükséges jelentéseket tovább nem küldte.
+
 | Nefrológia | Szakmakód: | 0105 |
 
 Fekvőbeteg szakellátás
@@ -5124,136 +5244,4 @@ II. szint: csecsemő- és gyermekosztály gyermek-tüdőgyógyászati ellátáss
 
 III. szint: csecsemő- és gyermekosztály gyermek-tüdőgyógyászati ellátással/gyermek-tüdőgyógyászati osztály, speciális feladatokkal.
 
-| Gyermek-tüdőgyógyászati osztály minimumfeltételei |
-
-|  | Progresszivitási szint |
-
-|  | II. | III. |
-
-| Minimális ágyszám | 5 | 5 |
-
-| Személyi feltételek: |
-
-| Gyermek-tüdőgyógyászat szakorvos | 1 | 2 |
-
-| Csecsemő- és gyermekgyógyászat szakorvos | 1 | 1 |
-
-| Aneszteziológia és intenzív terápia szakorvos | EL | EL |
-
-| Gyermek aneszteziológiai és intenzív szakápoló | EL | EL |
-
-| A szakdolgozói létszám a 3. mellékletben meghatározottak szerint (ápoló, dietetikus, gyógytornász) | X | X |
-
-| Klinikai és mentálhigiéniai szakpszichológus/pszichológus |  | EL |
-
-| Tárgyi feltételek: a csecsemő- és gyermekgyógyászati osztály feltételei + |
-
-| Szakmailag speciális helyiségek: diagnosztikus és terápiás egység |
-
-| Bronchoscopos helyiség (altatási lehetőséggel) |  | 1 |
-
-| Beteg-előkészítő, megfigyelő helyiség |  | 1 |
-
-| Központi szívó vagy szívómotor (mechanikus tartalékszívási lehetőség kötelező) | 2 | 2 |
-
-| Speciális pulmonológiai eszközök: |
-
-| Bronchoscop merev csöves készlet | 1 | 2 |
-
-| Flexibilis bronchoscop |  | 2 |
-
-| Fényforrás bronchoscophoz (halogén) |  | 2 |
-
-| Videokamera rendszer (merev cső) (flexibilis eszköz) |  | 1 |
-
-| Videomagnó (képrögzítés) |  | 1 |
-
-| Betegőrző (pulzoxy) monitor | 1 | 1 |
-
-| Optikás idegentest fogóhoz tartozó optika | 1 | 2 |
-
-| Optikás idegentest fogó (merev csőhöz) | 1 | 2 |
-
-| Különböző vastagságú fémszívók |  | 6 |
-
-| Egyenes 0°-os optika bronchoscophoz |  | 1 |
-
-| Oldalirányú 70-90°-os optika bronchoscophoz |  | 1 |
-
-| Idegentest fogó | 1 | 2 |
-
-| Laringoszkóp készlet (3-5 lapocos) | 2 | 2 |
-
-| Leakage tester |  | 1 |
-
-| Endoszkópos tartozékok: |  |  |
-
-| Biopsiás excisor merev csőhöz |  | 2 |
-
-| Dormia fogó |  | 1 |
-
-| Biopsiás excisor flexibilis csőhöz (egyszer használatos) |  | 2 |
-
-| Biopsiás kefe, kefebiopsiához (egyszer használatos) |  | 2 |
-
-| Inhalátor gyógyszerporlasztóhoz | 1 | 1 |
-
-| Nagy volumenű toldalék adagolós aeroszol használatához | 1 | 1 |
-
-| Kis volumenű toldalék adagolós aeroszol használatához | 1 | 1 |
-
-| Allergénsorozat intracutan, epicutan tesztekhez | 1 | 1 |
-
-| Speciális diagnosztikai ésszakmai háttér: |
-
-| Radiológia (MRI, CT) | EK | EK |
-
-| Patológia | EK | EK |
-
-| Orvosi laboratóriumi diagnosztika | EK | EK |
-
-| Mellkassebészet | EK | EK |
-
-| Mikrobiológia laboratóriumi diagnosztika | EK | EK |
-
-| Nukleáris medicina |  | EK |
-
-| Intenzív osztály | EL |  |
-
-| Szakmaspecifikus őrző |  | X |
-
-| Klinikai és mentálhigiéniai szakpszichológus/pszichológus |  | EK |
-
-| Gyermeksebészeti osztály |  | EK |
-
-| Gyermek-tüdőgyógyászati járóbeteg szakrendelés minimumfeltételei |
-
-| Személyi feltételek: |  |
-
-| Gyermek-tüdőgyógyászat szakorvos | 1 |
-
-| Általános assszisztens/szakasszisztens/légzőszervi szakápoló | 1 |
-
-| Tárgyi feltételek: a rendelő általános feltételei + |  |
-
-| Spirometer | X |
-
-| Kilégzési csúcsáramlás mérő | X |
-
-| Gépi porlasztó gyógyszer belélegeztetéséhez | X |
-
-| Nagy volumenű toldalék adagolós aeroszol belélegeztetéséhez | X |
-
-| Kis volumenű toldalék arcmaszkkal adagolós aeroszol belélegeztetéséhez | X |
-
-| Szívó készülék | X |
-
-| Bőrpróbák elvégzéséhez allergén kivonatok (légúti, alimentaris allergének, bakteriális, gombaantigének) | X |
-
-| Gyermek-gasztroenterológia | Szakmakód: | 0505 |
-
-II. szint: csecsemő- és gyermekosztály gyermek-gasztroenterológiai ellátással.
-
-III. szint: csecsemő- és gyermekosztály gyermek-gasztroenterológiai ellátással, speciális feladatokkal, endoszkópiában legalább 2 éves gyakorlattal rendelkező szakorvossal.
-
-[^61]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése, a 16/2015. (III. 30.) EMMI rendelet 19. §-a, a 23/2015. (IV. 28.) EMMI rendelet 50. § c)–g) pontja, a 42/2015. (IX. 18.) EMMI rendelet 12. §-a, az 54/2015. (XI. 24. EMMI rendelet 21. § (1) bekezdése, a 2/2016. (I. 15.) EMMI rendelet 4. §-a, a 7/2016. (III. 30.) EMMI rendelet 5. §-a, az 54/2016. (XII. 30.) EMMI rendelet 32. § (1) bekezdés b)–d) pontja és (2) bekezdése, a 44/2016. (XII. 28.) EMMI rendelet 25. § (1) bekezdése, a 28/2017. (X. 25.) EMMI rendelet 21. §-a, a 38/2017. (XII. 29.) EMMI rendelet 4. § b)–d) pontja, a 44/2018. (XII. 19.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^61]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése, a 16/2015. (III. 30.) EMMI rendelet 19. §-a, a 23/2015. (IV. 28.) EMMI rendelet 50. § c)–g) pontja, a 42/2015. (IX. 18.) EMMI rendelet 12. §-a, az 54/2015. (XI. 24. EMMI rendelet 21. § (1) bekezdése, a 2/2016. (I. 15.) EMMI rendelet 4. §-a, a 7/2016. (III. 30.) EMMI rendelet 5. §-a, az 54/2016. (XII. 30.) EMMI rendelet 32. § (1) bekezdés b)–d) pontja és (2) bekezdése, a 44/2016. (XII. 28.) EMMI rendelet 25. § (1) bekezdése, a 28/2017. (X. 25.) EMMI rendelet 21. §-a, a 38/2017. (XII. 29.) EMMI rendelet 4. § b)–d) pontja, a 44/2018. (XII. 19.) EMMI rendelet 2. §-a, a 10/2019. (VI. 19.) EMMI rendelet 3. §-a szerint módosított szöveg.
