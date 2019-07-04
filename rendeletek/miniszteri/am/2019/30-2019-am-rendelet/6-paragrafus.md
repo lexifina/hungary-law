@@ -1,11 +1,3 @@
-## „(9) Az 1308/2013/EU európai parlamenti és tanácsi rendelet 35. cikke szerinti nemzeti támogatás igénybevétele érdekében az operatív program módosítására vonatkozó, a 11. § (1) bekezdése és a 16. § (1) bekezdése szerinti kérelmet, valamint a 16. § (5) bekezdése szerinti bejelentést a minisztérium honlapján közzétett, a nemzeti támogatás tervezett felhasználásáról szóló formanyomtatvány csatolásával kell megküldeni a miniszter részére. A kérelemben vagy bejelentésben külön meg kell jelölni a (10) és (11) bekezdés tekintetében figyelembe veendő tevékenységeket és azok költségeit.
+## 5. §[^5]
 
-## (10) Az operatív programok tekintetében a nemzeti támogatás 50%-ának megfelelő összeget a Nemzeti Stratégia szerinti, az informatikai rendszer kialakításához, fejlesztéséhez kapcsolódó beruházások, a kísérleti termelés megvalósítása, a termőterületeken megvalósuló beruházások, a telephelyhez kapcsolódó fejlesztéseket célzó beruházások, a megújuló energiaforrás használatára épülő beruházások, az értékesítést segítő beruházások, a piackutatás, a minőségtanúsítási és értékesítést segítő rendszerek létrehozása, a kereskedelmi és termékstratégia kialakítása, megújítása, az együttműködések erősítése és a válságmegelőzési és -kezelési célú tevékenységtípusokra kell fordítani.
-
-## (11) A nemzeti támogatás igénybevételének további feltétele, hogy a (10) bekezdésben meghatározott összegen felül a termelői szervezet által igénybe vett kiegészítő támogatás 10%-ának, de legfeljebb a 891/2017/EU bizottsági rendelet 23. cikkében hivatkozott referencia-időszakban forgalmazott termék értéke fél százalékának megfelelő összeget a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott és a szakmaközi szervezet honlapján legkésőbb a megelőző év augusztus 31-éig közzétett, termékmarketing és képzési program végrehajtását szolgáló, a Nemzeti Stratégia szerinti termékpromóció, valamint képzés, szaktanácsadás, tanácsadás, tudományos eredmények átadása típusú tevékenységekre kell fordítani.”
-
-6. § (1) Az 50/2017. (X. 10.) FM rendelet 12. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Az árajánlatoknak legalább három, egymástól és a termelői szervezettől független ajánlattevőtől kell származniuk. A termelői szervezetnek igazolnia kell az ajánlattevők függetlenségét, valamint azt, hogy megvizsgálta az ajánlattevőknek a szerződés teljesítésére való alkalmasságát, figyelemmel azok tevékenységi körére. A vizsgálat módját és a vizsgálat során figyelembe vett szempontokat magában foglaló igazolás az operatív program mellékletét képezi.”
-
-(2) Az 50/2017. (X. 10.) FM rendelet 12. §-a a következő (7) és (8) bekezdéssel egészül ki:
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

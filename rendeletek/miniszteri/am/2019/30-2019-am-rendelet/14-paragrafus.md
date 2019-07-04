@@ -1,13 +1,3 @@
-## lép.
+## 13. §[^13]
 
-## 14. § Hatályát veszti az 50/2017. (X. 10.) FM rendelet
-
-a) 10. § (4) bekezdése,
-
-b) 16. § (4) bekezdése,
-
-c) 12. alcíme,
-
-d) 34. § g) pontja,
-
-e) 1., 2. és 5. melléklete.
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(8) A termelői szervezet és a termelői szervezetek társulása a (3) bekezdésben felsorolt okiratokban, valamint a taglétszámban, a tagok (3a) bekezdés a), b), c), illetve e) pontjában meghatározott adataiban bekövetkezett változásokról a változás bekövetkezésétől számított tizenöt napon belül írásban és elektronikus úton értesíti a minisztert. A (3a) bekezdés a), b), illetve c) pontjában meghatározott adatok változása esetén a változással érintett adatokat kizárólag elektronikus úton, a minisztérium honlapján közzétett hivatkozás szerinti felületen történő feltöltés útján kell megküldeni a miniszter részére.”
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
