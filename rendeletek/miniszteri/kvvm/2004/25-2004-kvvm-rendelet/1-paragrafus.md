@@ -1,13 +1,11 @@
 ## Általános rendelkezések
 
-## 1. § A rendelet hatálya kiterjed
+## 1. §[^1] E rendelet hatálya a környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet (a továbbiakban: Zr.) szerinti
 
-a) a környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet (a továbbiakban: Zr.) szerint stratégiai zajtérkép (a továbbiakban: zajtérkép) készítésére kötelezett
+a) stratégiai zajtérkép (a továbbiakban: zajtérkép) és intézkedési terv készítésével kapcsolatos tevékenységekre,
 
-aa) települési önkormányzatra és
+b) zajtérkép készítésére kijelölt szervezetekre,
 
-ab) fő közlekedési létesítmény kötelezettjére
+c) intézkedési terv készítésére kijelölt szervezetekre, illetve önkormányzatokra
 
-## (a továbbiakban együtt: kötelezett),
-
-b) a zajtérkép készítésével kapcsolatos tevékenységekre.
+[^1]: Az 1. § a 31/2019. (VI. 26.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
