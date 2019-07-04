@@ -87,3 +87,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2019-01-01 | 1999-43-20-22.157 | 287/2018. (XII. 21.) Korm. rendelet |
 | 2019-04-01 | 1999-43-20-22.158 | 287/2018. (XII. 21.) Korm. rendelet |
 | 2019-07-01 | 1999-43-20-22.159 | 126/2017. (VI. 8.) Korm. rendelet |
+| 2019-07-04 | 1999-43-20-22.160 | 142/2019. (VI. 19.) Korm. rendelet |
