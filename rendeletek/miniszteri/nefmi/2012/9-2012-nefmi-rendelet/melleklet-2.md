@@ -4,21 +4,25 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | OENO kód | Cs | Egészségügyi eljárás | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 |
 
-| 11011 |  | Elsősegély | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11011 |  | Elsõsegély | O | O | O | O | O | O | O | O | O | O | O | O |
 
-| 11030 |  | Sürgősségi beteg osztályozás (triázs) |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11030 |  | Sürgõsségi beteg osztályozás (triázs) |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11031 |  | Sürgősségi beteg újra-osztályozás (re-triázs) |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11031 |  | Sürgõsségi beteg újra-osztályozás (re-triázs) |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11041 |  | Vizsgálat | O | O | O | O | O | O | O | O | O | O | O | O |
 
-| 11042 |  | Vizsgálat a rendelőn kívül | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11042 |  | Vizsgálat a rendelõn kívül | O | O | O | O | O | O | O | O | O | O | O | O |
 
 | 11044 |  | Intervenciós radiológiai beavatkozás során végzett vizsgálat |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 11045 | * | Vastagbélszûrés keretében végzett vizsgálat |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11047 |  | Alkalmassági vizsgálat tömegsportolásra |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11048 |  | Vizsgálat hatósági felkérésre | O | O | X | O | O | O | O | O | O | O | O | O |
+
+| 11050 | * | Vastagbélszûrés keretében végzett szakasszisztensi, vagy szakorvosi tájékoztatás |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11054 |  | Szakorvosi vizsgálat és szakvélemény kiadása szociális ellátásra való jogosultság megállapításához | X |  | O |  | O |  | O | O | O |  |  |  |
 
@@ -26,17 +30,19 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 11056 |  | II. fokú orvosi bizottság szakvéleményének kialakítása és kiadása munkaképesség csökkenés elbírálása céljából |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11057 |  | Vizsgálat a szakmai alkalmasság I. fokon történő elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11057 |  | Vizsgálat a szakmai alkalmasság I. fokon történõ elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11058 |  | Vizsgálat a szakmai alkalmasság II. fokon történő elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11058 |  | Vizsgálat a szakmai alkalmasság II. fokon történõ elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11059 |  | Vizsgálat a munkaköri alkalmasság II. fokon történő elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11059 |  | Vizsgálat a munkaköri alkalmasság II. fokon történõ elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11060 |  | Vizsgálat foglalkozási megbetegedés megelőzése vagy megállapítása céljából |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11060 |  | Vizsgálat foglalkozási megbetegedés megelõzése vagy megállapítása céljából |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11301 |  | Kontrollvizsgálat, konzílium | O | O | O | O | O | O | O | O | O | O | O | O |
 
-| 11302 |  | Kontrollvizsgálat, konzílium a rendelőn kívül | O | O | O | O | O | O | O | O | O | O | O | O |
+| 11302 |  | Kontrollvizsgálat, konzílium a rendelõn kívül | O | O | O | O | O | O | O | O | O | O | O | O |
+
+| 11303 | * | Vastagbélszûrés keretében végzett kontrollvizsgálat, konzílium |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 12000 |  | Szenzórium vizsgálata | O | O | O |  | O | O |  |  | X |  |  | O |
 
@@ -46,7 +52,7 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12003 |  | Perifériás idegrendszer vizsgálata |  |  |  |  |  |  |  |  | X |  |  |  |
 
-| 12004 |  | Érzőkör vizsgálata |  |  |  |  |  |  |  |  | X |  |  |  |
+| 12004 |  | Érzõkör vizsgálata |  |  |  |  |  |  |  |  | X |  |  |  |
 
 | 12005 |  | Koordinatio vizsgálata |  |  |  |  |  |  |  |  | X |  |  |  |
 
@@ -76,7 +82,7 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12070 |  | Standard EEG |  |  |  |  | O |  |  |  | X |  |  |  |
 
-| 12071 |  | EEG kiegészítő extra provokáció (egyenként) |  |  |  |  | O |  |  |  | X |  |  |  |
+| 12071 |  | EEG kiegészítõ extra provokáció (egyenként) |  |  |  |  | O |  |  |  | X |  |  |  |
 
 | 12072 |  | Sphenoidalis elektród behelyezése EEG vizsgálathoz |  |  |  |  |  |  |  |  | X |  |  |  |
 
@@ -96,7 +102,7 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 1207A |  | EEG split screen |  |  |  |  | O |  |  |  | X |  |  |  |
 
-| 1207B |  | EEG epilepsia műtéte előtt, strip behelyezéssel |  |  |  |  | O |  |  |  | X |  |  |  |
+| 1207B |  | EEG epilepsia mûtéte elõtt, strip behelyezéssel |  |  |  |  | O |  |  |  | X |  |  |  |
 
 | 1207C | * | Poliszomnográfia (PSG) |  |  |  |  |  |  |  |  | X |  |  |  |
 
@@ -112,11 +118,11 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12081 |  | Elektromyographia (izmonként) |  |  |  |  | O |  |  |  | X |  |  | O |
 
-| 12082 |  | Idegvezetési sebességmérés, érző/motoros idegenként |  |  |  |  | O |  |  |  | X |  |  | O |
+| 12082 |  | Idegvezetési sebességmérés, érzõ/motoros idegenként |  |  |  |  | O |  |  |  | X |  |  | O |
 
-| 12083 |  | Elektromyographia, tűelektróddal izmonként |  |  |  |  | O |  | O |  | X |  |  |  |
+| 12083 |  | Elektromyographia, tûelektróddal izmonként |  |  |  |  | O |  | O |  | X |  |  |  |
 
-| 12085 |  | Elektromyographia, késői válasz (hullám) vizsgálat |  |  |  |  | O |  |  |  | X |  |  |  |
+| 12085 |  | Elektromyographia, késõi válasz (hullám) vizsgálat |  |  |  |  | O |  |  |  | X |  |  |  |
 
 | 12086 |  | Elektromyographia ismételt/páros ingerléssel |  |  |  |  | O |  |  |  | X |  |  |  |
 
@@ -126,11 +132,11 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12089 |  | Motoros rendszer vizsgálata mágneses ingerléssel |  |  |  |  | O |  |  |  | X |  |  |  |
 
-| 1208A |  | Elektroneurographia, tűelektródával |  |  |  |  | O |  |  |  | X |  |  |  |
+| 1208A |  | Elektroneurographia, tûelektródával |  |  |  |  | O |  |  |  | X |  |  |  |
 
 | 1208C |  | Elektromyographia palati et laryngis |  |  |  |  | O | O |  |  | X |  |  |  |
 
-| 1208D |  | Impulzus diagnosztika spinalis eredetű motoros zavarnál |  |  |  |  | O |  |  |  | X |  |  |  |
+| 1208D |  | Impulzus diagnosztika spinalis eredetû motoros zavarnál |  |  |  |  | O |  |  |  | X |  |  |  |
 
 | 1208E |  | Impulzus diagnosztika a plexus brachialis ellátási területén |  |  |  |  | O |  |  |  | X |  |  |  |
 
@@ -158,9 +164,13 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 |  |  |  |  | O |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | O |  |  |  |  |  |  |  |  |  | 11044 |
 
+|  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 11045 |
+
 |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 11047 |
 
 | O | O | O | O | O | O | O |  | O | O | O |  | O | O |  |  | O | O | O |  | O |  |  |  |  | O |  | O | O |  | 11048 |
+
+|  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 11050 |
 
 |  |  | O | O |  | O |  |  | O |  | O |  |  |  |  |  |  | O | O |  |  |  |  |  |  | O | O |  |  |  | 11054 |
 
@@ -179,6 +189,8 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 | O | O | O | O | O | O | O |  | O | O | O | O | O | O | O | O | O | O | O |  |  |  | O | O |  | O |  | O | O |  | 11301 |
 
 |  | O | O | O | O | O | O |  | O | O | O |  | O | O |  |  | O | O | O |  |  |  | O |  |  | O |  | O | O |  | 11302 |
+
+|  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 11303 |
 
 |  | O |  | O |  | O | O |  | O | O |  |  | O | O |  |  |  |  | O |  |  |  | O | O |  |  |  |  |  |  | 12000 |
 
@@ -310,7 +322,7 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 1209E |  | Pontrakó próba (1 perc) |  |  |  |  |  |  |  |  | X |  |  |  |
 
-| 1209F | * | Csecsemőkori látás- és hallásszabályozás (habituatios paradigma) objektív, műszeres vizsgálata 1,5 éves kor alatt |  |  |  |  | X |  |  |  | O |  |  |  |
+| 1209F | * | Csecsemõkori látás- és hallásszabályozás (habituatios paradigma) objektív, mûszeres vizsgálata 1,5 éves kor alatt |  |  |  |  | X |  |  |  | O |  |  |  |
 
 | 12100 |  | Perimetria, kinetikus |  |  |  |  | O |  | X |  |  |  |  | O |
 
@@ -326,7 +338,7 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12114 |  | Szaruhártya-görbület mérése computerrel |  |  |  |  | O |  | X |  |  |  |  |  |
 
-| 12115 |  | Leleplező látásvizsgálat |  |  |  |  | O |  | X |  | O |  |  |  |
+| 12115 |  | Leleplezõ látásvizsgálat |  |  |  |  | O |  | X |  | O |  |  |  |
 
 | 12130 |  | Üvegtest biomikroszkópos vizsgálata |  |  |  |  | O |  | X |  |  |  |  |  |
 
@@ -348,7 +360,7 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12163 |  | Heterophoria vizsgálata |  |  |  |  | O |  | X |  |  |  |  |  |
 
-| 12164 |  | Kettőskép vizsgálat ernyővel vagy gyertyával |  |  |  |  | O |  | X |  | O |  |  |  |
+| 12164 |  | Kettõskép vizsgálat ernyõvel vagy gyertyával |  |  |  |  | O |  | X |  | O |  |  |  |
 
 | 12200 |  | Ophthalmoscopia |  |  |  |  | O |  | X |  | O |  |  | O |
 
@@ -418,15 +430,15 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12280 |  | Könnytermelés mérése |  |  |  |  | O |  | X |  |  |  |  | O |
 
-| 12281 |  | Könnyfilm felszakadási idő |  |  |  |  | O |  | X |  |  |  |  |  |
+| 12281 |  | Könnyfilm felszakadási idõ |  |  |  |  | O |  | X |  |  |  |  |  |
 
-| 12282 |  | Cornea festődés vizsgálata |  |  |  |  | O |  | X |  |  |  |  |  |
+| 12282 |  | Cornea festõdés vizsgálata |  |  |  |  | O |  | X |  |  |  |  |  |
 
 | 12290 |  | Diaphanoscopia sclerae |  |  |  |  | O |  | X |  |  |  |  |  |
 
 | 12291 |  | Cataracta átvilágítás, entoptikai vizsgálat |  |  |  |  | O |  | X |  |  |  |  | O |
 
-| 12300 |  | Légvezetéses küszöb mérése (szűrőaudiometria is) |  |  |  |  | O | X |  |  |  |  |  | O |
+| 12300 |  | Légvezetéses küszöb mérése (szûrõaudiometria is) |  |  |  |  | O | X |  |  |  |  |  | O |
 
 | 12301 |  | Hallásküszöb mérés (lég + csont, mk.o. + maszkolás) |  |  |  |  | O | X |  |  |  |  |  |  |
 
@@ -434,4 +446,4 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12310 |  | Impedancia audiometria (Tympanometria + stapedius refl.) |  |  |  |  | O | X |  |  |  |  |  |  |
 
-[^11]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 6. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (2)–(4) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 2. § (1) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 4. § (1) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 6. § (2) bekezdése, a 44/2018. (XII. 19.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 6. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (2)–(4) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 2. § (1) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 4. § (1) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 6. § (2) bekezdése, a 44/2018. (XII. 19.) EMMI rendelet 5. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 4. §-a szerint módosított szöveg.
