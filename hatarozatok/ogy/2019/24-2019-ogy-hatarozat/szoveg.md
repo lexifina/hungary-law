@@ -12,4 +12,6 @@ c) a különleges jogrendre vonatkozó, hadi állománytáblákban rendszeresít
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4. Hatályát veszti a Magyar Honvédség részletes bontású létszámáról szóló 25/2018. (X. 31.) OGY határozat.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
