@@ -1,7 +1,3 @@
-## „(2) Ez a rendelet
+## 3. §[^4]
 
-## a) a környezeti zaj értékeléséről és kezeléséről szóló, 2002. június 25-i 2002/49/EK európai parlamenti és tanácsi irányelvnek és
-
-## b) a 2002/49/EK európai parlamenti és tanácsi irányelv szerinti közös zajértékelési módszerek meghatározásáról szóló, 2015. május 19-i (EU) 2015/996 bizottsági irányelvnek
-
-## való megfelelést szolgálja.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
