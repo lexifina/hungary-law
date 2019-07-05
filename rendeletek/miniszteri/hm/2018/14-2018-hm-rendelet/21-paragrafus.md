@@ -10,7 +10,7 @@
 
 4. az állami rendezvények katonai protokolláris kiszolgálásáért felelős katonai szervezet folyamatos díszelgő kiképzést folytató és a központi zenekar hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katonái a díszelgés és a díszelgésre történő felkészülés, valamint a helyőrségi zenekarok, illetve a helyőrségtől díszelgésre kirendelt hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katonák a díszelgésre történő felkészülés és díszelgési feladatok ellátásának napjain,
 
-5. az éjszakai szolgálatteljesítésre, munkavégzésre feladatellátásra vezényelt, berendelt személyi állomány, tényleges szolgálatot teljesítő önkéntes tartalékos katona és a katonai oktatási intézmény hallgatója, ha a tevékenység időtartama eléri a 4 órát,
+5.[^58] az éjszakai szolgálatteljesítésre, munkavégzésre feladatellátásra vezényelt, berendelt személyi állomány, ha a tevékenység időtartama eléri a 4 órát,
 
 6. a repülőhajózó hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katonák startétkezés címén tényleges repülési napokon, valamint készültségi szolgálatban, ha a szolgálatteljesítésük helyéről nem távozhatnak el, a pótnorma ez esetben csak természetben biztosítható; a tényleges repülési napokon a startétkezést parancs vagy repülési terv alapján a repültető katonai szervezet térítésmentesen köteles biztosítani,
 
@@ -25,3 +25,5 @@
 (4) Nem számítható fel a pótnorma értéke a 19. § (1) bekezdése alapján VI. számú élelmezési norma szerint ellátott állomány részére.
 
 (5) Ha a személyi állomány az (1) bekezdés 1. és 4. pontja alapján is jogosult pótélelmezési norma szerinti ellátásra, akkor részére az élelmezési pótlék csak egyszer adható ki, és a norma értéke is csak egyszer számítható fel.
+
+[^58]: A 21. § (1) bekezdés 5. pontja a 8/2019. (VII. 4.) HM rendelet 12. § e) pontja szerint módosított szöveg.

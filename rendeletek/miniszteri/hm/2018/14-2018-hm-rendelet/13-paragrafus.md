@@ -14,6 +14,8 @@
 
 6. a kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló 13/2013. (VIII. 1.) HM rendelet (a továbbiakban: Üdültetési HM R.) 4. § (1) bekezdése szerinti állomány a kondicionáló-kiképzési rendezvény idejére,
 
-7. a más magasabb szintű parancsnokság jogállású katonai szervezetnél, a HM-nél, a honvédelmi miniszter alárendeltségébe tartozó szervezeteknél, illetve az MH középszintű vezető szervnél repülőhajózó vagy repülőműszaki szaktevékenységet folytató, repülőhajózó vagy repülőműszaki MAK-kal vagy munkakörrel rendelkező személyi állomány.
+7.[^41] az MHP-n, más magasabb szintű parancsnokság jogállású katonai szervezetnél, a HM-nél, a miniszter alárendeltségébe tartozó szervezeteknél, illetve az MH középszintű vezető szervnél repülőhajózó szaktevékenységet folytató, repülőhajózó MAK-kal vagy munkakörrel rendelkező személyi állomány.
 
 (2) A III. számú élelmezési norma szerinti ellátásra való jogosultság kezdetét az (1) bekezdés 1. és 7. pontja esetében a beosztásba helyezés kezdő napjával, a jogosultság megszűnését pedig a beosztás betöltésének utolsó napjával az arra jogosult parancsnok napiparancsban állapítja meg.
+
+[^41]: A 13. § (1) bekezdés 7. pontja a 8/2019. (VII. 4.) HM rendelet 11. § 13. pontja és 12. § d) pontja szerint módosított szöveg.

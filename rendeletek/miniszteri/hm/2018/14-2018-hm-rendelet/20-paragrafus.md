@@ -1,17 +1,23 @@
 ## 7. Kiegészítő élelmezési norma szerinti ellátás
 
-20. § (1) A kiegészítő élelmezési normát a honvédelmi szervezet abban az esetben számolhatja fel, ha:
+20. § (1)[^53] A kiegészítő élelmezési normát a honvédelmi szervezet és a miniszter fenntartói irányítása alá tartozó köznevelési intézmény abban az esetben számolhatja fel, ha:
 
-a) az állományába tartozó hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katona, közalkalmazott vagy munkavállaló feladatát olyan helyen hajtja végre, ahol természetbeni élelmezési ellátása kizárólag polgári vendéglátóipari egységben valósítható meg, vagy
+a)[^54] az állományába tartozó hivatásos, szerződéses és tényleges szolgálatot teljesítő önkéntes tartalékos katona, honvédelmi alkalmazott, közalkalmazott vagy munkavállaló feladatát olyan helyen hajtja végre, ahol természetbeni élelmezési ellátása kizárólag polgári vendéglátóipari egységben valósítható meg, vagy
 
 b) a külföldi béketámogató tevékenységben és a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban részt vevő személyi állomány megfelelő szintű ellátása a 19. § (1) bekezdés 1. pontjában meghatározott jogosultság alapján nem biztosítható.
 
-(2) Az (1) bekezdés a) pontjában előírtak szerinti ellátás csak a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet élelmezési anyagnemért felelős főnökének előzetes engedélyével, szerződés alapján biztosítható. Az engedély megadásához a katonai szervezet felterjeszti a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet élelmezési anyagnemért felelős főnöke részére a szolgáltató árajánlatát, a szerződéstervezetet, az illetménykülönbözetek kimutatásáról szóló számvetést, valamint az ellátásra vonatkozó döntési javaslatot.
+(2)[^55] Az (1) bekezdés a) pontjában előírtak szerinti ellátás csak az MHP élelmezési anyagnemért felelős főnökének előzetes engedélyével, szerződés alapján biztosítható. Az engedély megadásához a katonai szervezet felterjeszti a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet élelmezési anyagnemért felelős főnöke részére a szolgáltató árajánlatát, a szerződéstervezetet, az illetménykülönbözetek kimutatásáról szóló számvetést, valamint az ellátásra vonatkozó döntési javaslatot.
 
 (3) A kiegészítő élelmezési norma összege a döntési javaslatban szereplő élelmezési norma és a szerződéstervezetben meghatározott ár különbözete.
 
-(4) Az (1) bekezdés b) pontja szerinti ellátás a művelet ellátásáért felelős parancsnok felterjesztésének megfelelően, a külföldi műveletért felelős elöljáró és a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet parancsnokának együttes javaslata alapján, a HVKF döntése alapján biztosítható. A kiegészítő norma értékéről, a javaslatot figyelembe véve, a HVKF dönt.
+(4)[^56] Az (1) bekezdés b) pontja szerinti ellátás a művelet ellátásáért felelős parancsnok felterjesztésének megfelelően, a külföldi műveletért felelős elöljáró és az MHP élelmezési anyagnemért felelős főnökének együttes javaslata alapján az MH PK jóváhagyásával biztosítható. A kiegészítő norma értékéről – a javaslatot figyelembe véve – az MH PK dönt.
 
-(5) A kiegészítő élelmezési norma szerinti ellátás a logisztikai tevékenységet folytató más magasabb szintű parancsnokság jogállású katonai szervezet élelmezési anyagnemért felelős főnökének adagszám nélküli illetmény felszámítására vonatkozó előzetes engedélye alapján biztosítható.
+(5)[^57] A kiegészítő élelmezési norma szerinti ellátás az MHP élelmezési anyagnemért felelős főnökének adagszám nélküli illetmény felszámítására vonatkozó előzetes engedélye alapján biztosítható.
 
 (6) Vásárolt élelmezési ellátású külföldi szolgálatteljesítés esetén a kiegészítő norma szerinti ellátás szabályai szerint kerül ellátásra a külföldi béketámogató feladatban és a Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében elrendelt feladatban részt vevő személyi állomány, a kiutazás napjától a hazautazás napjáig, az adott feladatra vonatkozó technikai egyezményben megállapított összeg szerinti értékben.
+
+[^53]: A 20. § (1) bekezdés nyitó szövegrésze a 8/2019. (VII. 4.) HM rendelet 11. § 24. pontja szerint módosított szöveg.
+[^54]: A 20. § (1) bekezdés a) pontja a 8/2019. (VII. 4.) HM rendelet 11. § 25. pontja szerint módosított szöveg.
+[^55]: A 20. § (2) bekezdése a 8/2019. (VII. 4.) HM rendelet 11. § 26. pontja szerint módosított szöveg.
+[^56]: A 20. § (4) bekezdése a 8/2019. (VII. 4.) HM rendelet 7. §-ával megállapított szöveg.
+[^57]: A 20. § (5) bekezdése a 8/2019. (VII. 4.) HM rendelet 11. § 27. pontja szerint módosított szöveg.
