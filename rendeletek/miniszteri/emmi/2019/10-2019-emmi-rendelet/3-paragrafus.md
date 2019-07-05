@@ -1,3 +1,5 @@
-## 2. § Az R1. 2. számú melléklete az 1. melléklet szerint módosul.
+## 2. §[^3]
 
 ## 2. Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet módosítása
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
