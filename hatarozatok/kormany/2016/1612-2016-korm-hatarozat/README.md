@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1612-30
 | 2016-11-09 | 2016-1612-30-22.2 | 2010: CXXX. törvény |
 | 2018-07-05 | 2016-1612-30-22.3 | 1304/2018. (VII. 4.) Korm. határozat |
 | 2019-03-01 | 2016-1612-30-22.4 | 1304/2018. (VII. 4.) Korm. határozat |
+| 2019-07-06 | 2016-1612-30-22.5 | 1304/2018. (VII. 4.) Korm. határozat |

@@ -188,9 +188,9 @@
 
 | 1. | Területi szereplő megnevezése | 6.1 Gazdaságfejlesztés (Mrd Ft) | 6.2 Családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztése (Mrd Ft) | 6.3 Gazdaságélénkítő és népességmegtartó városfejlesztés (Mrd Ft) | 6.4 Fenntartható városi közlekedésfejlesztés (Mrd Ft) | 6.5 Önkormányzatok energiahatékonyságának és a megújuló energia-felhasználás arányának növelése (Mrd Ft) | 6.6 Városi közszolgáltatások fejlesztése (Mrd Ft) | 6.7 Leromlott városi területek rehabilitációja (Mrd Ft) | 6.8 Gazdaságfejlesztéshez kapcsolódó foglalkoztatásfejlesztés (Mrd Ft) | 6.9 Társadalmi kohéziót célzó helyi programok (Mrd Ft) |
 
-| 2. | Békéscsaba Megyei Jogú Város Önkormányzata | 3,068 | 0,711 | 2,089 | 1,178 | 3,071 | 0,674 | 1,005 | 1,104 | 0,333 |
+| 2. | Békéscsaba Megyei Jogú Város Önkormányzata | 3,068 | 0,711 | 2,089 | 1,178 | 3,071 | 0,871 | 0,808 | 1,104 | 0,333 |
 
-| 3. | Debrecen Megyei Jogú Város Önkormányzata | 12,918 | 5,900 | 8,062 | 3,856 | 6,858 | 2,342 | 0,590 | 1,515 | 1,278 |
+| 3. | Debrecen Megyei Jogú Város Önkormányzata | 12,918 | 5,900 | 8,062 | 3,856 | 6,858 | 2,932 | 0,000 | 1,515 | 1,278 |
 
 | 4. | Dunaújváros Megyei Jogú Város Önkormányzata | 2,342 | 0,577 | 1,383 | 0,712 | 1,176 | 0,402 | 0 | 0,620 | 0,219 |
 
@@ -218,7 +218,7 @@
 
 | 16. | Szeged Megyei Jogú Város Önkormányzata | 7,850 | 2,629 | 6,303 | 4,067 | 7,362 | 1,831 | 0 | 2,826 | 0,999 |
 
-| 17. | Székesfehérvár Megyei Jogú Város Önkormányzata | 5,087 | 1,324 | 3,175 | 1,430 | 3,001 | 1,115 | 0 | 1,424 | 0,503 |
+| 17. | Székesfehérvár Megyei Jogú Város Önkormányzata | 5,087 | 1,324 | 3,175 | 1,918 | 2,513 | 1,115 | 0 | 1,424 | 0,503 |
 
 | 18. | Szekszárd Megyei Jogú Város Önkormányzata | 2,047 | 0,603 | 1,277 | 0,611 | 1,086 | 0,371 | 0,163 | 0,503 | 0,202 |
 
@@ -240,9 +240,9 @@
 
 | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) | 2018-ra vonatkozó részcél | Végső cél (2023) |
 
-| 2. | Békéscsaba Megyei Jogú Város Önkormányzata | 3,99 | 19,91 | 0,75 | 2,63 | 25,00 | 125,00 | 4 118,26 | 20 591,29 | 2,30 | 11,42 | 524,04 | 2 620,00 | 4,00 | 18,00 | 11,00 | 51,00 | 152,00 | 756,00 | 2 410,00 | 12 049,00 |
+| 2. | Békéscsaba Megyei Jogú Város Önkormányzata | 3,99 | 19,91 | 0,75 | 2,63 | 25,00 | 125,00 | 4 118,26 | 20 591,29 | 2,30 | 11,42 | 524,04 | 2 620,00 | 4,00 | 22,00 | 11,00 | 45,00 | 152,00 | 756,00 | 2 410,00 | 12 049,00 |
 
-| 3. | Debrecen Megyei Jogú Város Önkormányzata | 84,00 | 84,00 | 3,40 | 11,08 | 290,00 | 665,00 | 20 000,00 | 79 467, 76 | 9,10 | 37,38 | 1 158,56 | 5 793,00 | 15,00 | 61,00 | 6,00 | 30,00 | 208,00 | 1037,00 | 9 248,00 | 46 239,00 |
+| 3. | Debrecen Megyei Jogú Város Önkormányzata | 84,00 | 84,00 | 3,40 | 11,08 | 290,00 | 665,00 | 20 000,00 | 79 467, 76 | 9,10 | 37,38 | 1 158,56 | 5 793,00 | 15,00 | 73,00 | 6,00 | 0,00 | 208,00 | 1037,00 | 9 248,00 | 46 239,00 |
 
 | 4. | Dunaújváros Megyei Jogú Város Önkormányzata | 3,05 | 15,20 | 0,57 | 2,01 | 110,00 | 110,00 | 2 800,00 | 14 000,00 | 1,50 | 7,00 | 200,67 | 1 003,00 | 3,00 | 11,00 | 0,00 | 0,00 | 85,00 | 425,00 | 1 585,00 | 7 924,00 |
 
@@ -270,7 +270,7 @@
 
 | 16. | Szeged Megyei Jogú Város Önkormányzata | 10,21 | 50,95 | 1,91 | 6,73 | 92,00 | 460,00 | 12 425,74 | 62 132,34 | 7,92 | 39,44 | 1 256,27 | 6 281,00 | 10,00 | 48,00 | 0,00 | 0,00 | 387,00 | 1 934,00 | 7 229,00 | 36 145,00 |
 
-| 17. | Székesfehérvár Megyei Jogú Város Önkormányzata | 6,62 | 33,02 | 1,24 | 6,18 | 80,00 | 232,00 | 6 259,20 | 31 295,99 | 2,79 | 13,87 | 921,84 | 4 609,00 | 6,00 | 29,00 | 0,00 | 0,00 | 195,00 | 975,00 | 3 640,00 | 18 199,00 |
+| 17. | Székesfehérvár Megyei Jogú Város Önkormányzata | 6,62 | 33,02 | 1,24 | 6,18 | 80,00 | 232,00 | 6 259,20 | 31 295,99 | 2,79 | 18,34 | 921,84 | 2 041,52 | 6,00 | 29,00 | 0,00 | 0,00 | 195,00 | 975,00 | 3 640,00 | 18 199,00 |
 
 | 18. | Szekszárd Megyei Jogú Város Önkormányzata | 3,00 | 13,30 | 1,00 | 1,76 | 19,00 | 119,00 | 2517,48 | 12 587,40 | 1,22 | 6,00 | 185,32 | 927,00 | 2,00 | 10,00 | 2,00 | 9,00 | 69,00 | 345,00 | 1 462,00 | 7 309,00 |
 
@@ -284,4 +284,4 @@
 
 | 23. | Zalaegerszeg Megyei Jogú Város Önkormányzata | 30,00 | 130,00 | 1,00 | 3,53 | 31,00 | 152,00 | 1 936,40 | 20 000,00 | 4,00 | 15,00 | 412,01 | 2 060,00 | 8,00 | 16,00 | 0,00 | 0,00 | 129,00 | 650,00 | 2 388,00 | 11 940,00 |
 
-[^3]: A 2. melléklet az 1304/2018. (VII. 4.) Korm. határozat 2. pontja, az 1072/2019. (II. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1304/2018. (VII. 4.) Korm. határozat 2. pontja, az 1072/2019. (II. 28.) Korm. határozat 2. pontja, az 1401/2019. (VII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
