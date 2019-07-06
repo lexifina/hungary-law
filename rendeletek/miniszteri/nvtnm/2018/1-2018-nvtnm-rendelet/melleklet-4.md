@@ -24,7 +24,7 @@
 
 | 9. | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 20-09-069758 | 2022. december 31. |
 
-| 10. | Nereus Park Hotel Idegenforgalmi Korlátolt Felelősségű Társaság | 19-09-000731 | 2022. december 31. |
+| 10. |  |  |  |
 
 | 11. | ÓNTE Ópusztaszeri Nemzeti Történeti Emlékpark Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014162 | 2022. december 31. |
 
@@ -34,13 +34,7 @@
 
 | 14. | EXPO 2020 Magyarország Nonprofit Korlátolt Felelősségű Társaság | 01-09-341681 | 2022. december 31. |
 
-## II. Tulajdonosi joggyakorló: a Kárpát-medencei Tehetséggondozó Nonprofit Korlátolt Felelősségű Társaság
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Nemzeti Tehetséggondozó Nonprofit Korlátolt Felelősségű Társaság | 01-09-308718 | 2022. december 31. |
+## II.
 
 ## III. Tulajdonosi joggyakorló: az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság
 

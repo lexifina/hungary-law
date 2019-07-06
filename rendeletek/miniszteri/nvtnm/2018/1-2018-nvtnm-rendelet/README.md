@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-7P
 | 2019-04-26 | 2018-1-20-7P.12 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2019-06-04 | 2018-1-20-7P.13 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2019-06-19 | 2018-1-20-7P.14 | 3/2018. (VIII. 1.) NVTNM rendelet |
+| 2019-07-06 | 2018-1-20-7P.15 | 3/2018. (VIII. 1.) NVTNM rendelet |

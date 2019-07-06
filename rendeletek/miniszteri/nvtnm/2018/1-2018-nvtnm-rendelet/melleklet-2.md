@@ -82,7 +82,7 @@
 
 | 2. | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Korlátolt Felelősségű Társaság | 09-09-016747 | 2022. december 31. |
 
-| 3. | Nemzeti Kataszteri Program Nonprofit Korlátolt Felelősségű Társaság | 01-09-920882 | 2022. december 31. |
+| 3. |  |  |  |
 
 ## III. Tulajdonosi joggyakorló: a Belügyminisztérium
 
@@ -206,7 +206,7 @@
 
 | 7. | Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 01-09-920343 | 2022. december 31. |
 
-| 8. | Nemzeti Vasúti Pályaműködtető Zártkörűen Működő Részvénytársaság | 01-10-047622 | 2022. december 31. |
+| 8. | IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság | 01-10-047622 | 2022. december 31. |
 
 | 9. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2022. december 31. |
 
@@ -217,6 +217,8 @@
 | 12. | ÓAM ÓZDI ACÉLMÜVEK Korlátolt Felelősségű Társaság | 05-09-002456 | 2022. december 31. |
 
 | 13. | Egy a Természettel Nonprofit Korlátolt Felelősségű Társaság | 01-09-337636 | 2022. december 31. |
+
+| 14. | Nyugat-Balkáni Zöld Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-343437 | 2022. december 31. |
 
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
@@ -296,4 +298,4 @@
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a szerint módosított szöveg.
