@@ -4,11 +4,11 @@
 
 ## b) elfogadja a 2. melléklet szerint az ott felsorolt projektek kiemelt projektként történő nevesítését,
 
-## c)[^1] egyetért azzal, hogy a Versenyképes Közép-Magyarország Operatív Program prioritásain kizárólag az európai uniós támogatás és a hazai társfinanszírozás összegének önerővel csökkentett mértékéig vállalható kötelezettség,
+## c)[^1] a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 44/C. § (3) bekezdése alapján hozzájárul az 1. melléklet 6. pontjában foglalt táblázat 2. sora szerinti felhívás esetén – a felhívásnak a Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretének megállapításáról szóló 1011/2016. (I. 20.) Korm. határozat módosításáról szóló 1402/2019. (VII. 5.) Korm. határozattal megemelt keretösszege mértékéig – kötelezettségvállalás megtételéhez,
 
 ## d)[^2] jóváhagyja a Versenyképes Közép-Magyarország Operatív Program 1., 4. és 5. prioritása teljes keretének 110%-át meghaladó mértékű forráskeret meghirdetését a Modern Városok Program és az Európai Kerékpárút Hálózat (EuroVelo) 6. számú nemzetközi kerékpáros útvonal Dömös és Szentendre közötti szakasz megvalósításának finanszírozása érdekében,
 
-## e)[^3] jóváhagyja a Versenyképes Közép-Magyarország Operatív Program 6. prioritása teljes keretének 110%-át meghaladó mértékű, 30,13 milliárd forint összegű forráskeret meghirdetését, amely 3,11 milliárd forinttal haladja meg a Versenyképes Közép-Magyarország Operatív Program 6. prioritásának keretét,
+## e)[^3] jóváhagyja a Versenyképes Közép-Magyarország Operatív Program 6. prioritása teljes keretének 110%-át meghaladó mértékű, 32,13 milliárd forint összegű forráskeret meghirdetését, amely 4,33 milliárd forinttal haladja meg a Versenyképes Közép-Magyarország Operatív Program 6. prioritásának keretét,
 
 ## f)[^4] jóváhagyja a Versenyképes Közép-Magyarország Operatív Program 3. prioritása teljes keretének 100%-át meghaladó mértékű, 6,33 milliárd forint összegű forráskeret meghirdetését, amely 0,03 milliárd forinttal haladja meg a Versenyképes Közép-Magyarország Operatív Program 3. prioritásának keretét,
 
@@ -86,9 +86,9 @@
 
 | 2. | VEKOP-5.1.1- 5.1.2-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban kombinált hiteltermékkel | 5,88 | egyszerűsített | Meghirdetve 2016. decemberben |
 
-| 3. | VEKOP-5.1.1- 5.1.2-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban kombinált hiteltermékkel | 5,88 | pénzügyi eszköz | Meghirdetve 2016. decemberben |
+| 3. | VEKOP-5.1.1- 5.1.2-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban kombinált hiteltermékkel | 3,88 | pénzügyi eszköz | Meghirdetve 2016. decemberben |
 
-| 4. | VEKOP-5.2.1-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 9,41 | pénzügyi eszköz | Meghirdetve 2017. februárban |
+| 4. | VEKOP-5.2.1-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 11,41 | pénzügyi eszköz | Meghirdetve 2017. februárban |
 
 | 5. | VEKOP-5.3.1-15 | Fenntartható közlekedésfejlesztés Budapesten | 8,390 | területi | Meghirdetve 2016. márciusban |
 
@@ -102,7 +102,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-6.1.1-15 | Kisgyermeket nevelő szülők munkavállalási aktivitásának növelése | 9,174 | területi | Meghirdetve 2016. márciusban |
+| 2. | VEKOP-6.1.1-15 | Kisgyermeket nevelő szülők munkavállalási aktivitásának növelése | 11,174 | területi | Meghirdetve 2016. márciusban |
 
 | 3. | VEKOP-6.2.1-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Budapesten | 12,601 | területi | Meghirdetve 2016. márciusban |
 
@@ -162,15 +162,15 @@
 
 | 2. | VEKOP-8.1.1-15 | Út a munkaerőpiacra | 17,80 | kiemelt | Meghirdetve 2015. októberben |
 
-| 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 1,00 | standard | Meghirdetve 2017. februárban |
+| 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 0,97 | standard | Meghirdetve 2017. februárban |
 
-| 4. | VEKOP-8.2.1-15 | Ifjúsági Garancia a közép-magyarországi régióban | 5,20 | kiemelt | Meghirdetve 2015. augusztusban |
+| 4. | VEKOP-8.2.1-15 | Ifjúsági Garancia a közép-magyarországi régióban | 6,03 | kiemelt | Meghirdetve 2015. augusztusban |
 
-| 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 0,51 | egyszerűsített | Meghirdetve 2016. áprilisban |
+| 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 0,47 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
 | 5a. | VEKOP-8.3.2-18 | Gyakornoki program a Közép-Magyarországi Régióban | 0,90 | egyszerűsített | Meghirdetve 2018. augusztusban |
 
-| 6. | VEKOP-8.5.1-17 | Idegen nyelvi készségek fejlesztése | 2,50 | standard | Meghirdetve 2017. márciusban |
+| 6. | VEKOP-8.5.1-17 | Idegen nyelvi készségek fejlesztése | 2,45 | standard | Meghirdetve 2017. márciusban |
 
 | 7. | VEKOP-8.5.2-17 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 1,30 | standard | Meghirdetve 2017. márciusban |
 
@@ -200,7 +200,7 @@
 
 | 5b. | GINOP-5.3.7-VEKOP-17 | Jogszerű foglalkoztatás fejlesztése | 1,00 |
 
-| 6. | GINOP-6.2.1-VEKOP-15 | Részvétel az OECD Felnőttek Képesség- és Kompetenciamérése programjában (PIAAC) | 0,30 |
+| 6. | GINOP-6.2.1-VEKOP-15 | Részvétel az OECD Felnőttek Képesség- és Kompetenciamérése programjában (PIAAC) | 0,60 |
 
 | 7. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 0,76 |
 
@@ -208,7 +208,7 @@
 
 | 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 3,56 |
 
-| 10. | GINOP-6.2.5-VEKOP-18 | Felnőttképzési, felnőttoktatási, szakképzési irányítási rendszer digitális átállása | 0,46 |
+| 10. | GINOP-6.2.5-VEKOP-19 | Felnőttképzési, felnőttoktatási, szakképzési irányítási rendszer digitális átállása | 0,46 |
 
 10. A Környezeti és Energiahatékonysági Operatív Program országos kihatású projektjének részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozása
 
@@ -406,10 +406,10 @@
 
 | 49. | KÖFOP-2.3.6-VEKOP-16 | Integrált közcélú víziközmű adatbázis | 1,15 |
 
-[^1]: Az 1. pont c) alpontját az 1202/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be.
+[^1]: Az 1. pont c) alpontját az 1202/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be, szövege az 1402/2019. (VII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont d) alpontját az 1148/2017. (III. 20.) Korm. határozat 1. pontja iktatta be.
-[^3]: Az 1. pont e) alpontját a 2111/2017. (XII. 28.) Korm. határozat 1. pontja iktatta be.
+[^3]: Az 1. pont e) alpontját a 2111/2017. (XII. 28.) Korm. határozat 1. pontja iktatta be, szövege az 1402/2019. (VII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: Az 1. pont f) alpontját az 1620/2018. (XI. 27.) Korm. határozat 1. pontja iktatta be.
 [^5]: Az 1. pont g) alpontját az 1122/2019. (III. 13.) Korm. határozat 1. pontja iktatta be.
 [^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja, az 1306/2018. (VII. 4.) Korm. határozat 1. pont a) alpontja és a 2. pont a)–b) pontja, az 1620/2018. (XI. 27.) Korm. határozat 2. pont a)–b) alpontja, az 1122/2019. (III. 13.) Korm. határozat 2. pontja és 3. pont a) alpontja szerint módosított szöveg.
+[^7]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja, az 1306/2018. (VII. 4.) Korm. határozat 1. pont a) alpontja és a 2. pont a)–b) pontja, az 1620/2018. (XI. 27.) Korm. határozat 2. pont a)–b) alpontja, az 1122/2019. (III. 13.) Korm. határozat 2. pontja és 3. pont a) alpontja, az 1402/2019. (VII. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
