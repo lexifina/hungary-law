@@ -6,7 +6,7 @@ Fülöp Attilát,
 
 dr. Nagy Anikót,
 
-dr. Pacsay-Tomassich Orsolyát,
+dr. Pacsay-Tomassich Orsolyát,[^1]
 
 dr. Szabó Tündét,
 
@@ -19,3 +19,5 @@ Bódis Józsefet 2018. július 1-jei hatállyal
 az Emberi Erőforrások Minisztériuma államtitkárává kinevezem.
 
 KEH ügyszám: KEH/02297-3/2018.
+
+[^1]: A 277/2019. (VII. 8.) KE határozat alapján dr. Pacsay-Tomassich Orsolya vonatkozásában 2019. július 1-jei hatállyal akként módosult, hogy a határozatban „az Emberi Erőforrások Minisztériuma” szövegrész helyébe „a Külgazdasági és Külügyminisztérium” szöveg lép.
