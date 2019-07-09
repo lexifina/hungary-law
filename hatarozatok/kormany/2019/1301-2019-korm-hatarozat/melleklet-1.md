@@ -64,7 +64,7 @@
 
 ## Határidő: a 2020. évi központi költségvetés tervezése során
 
-## 8. úgy határoz, hogy a 2. és 4. ponthoz kapcsolódó beszerzések lefolytatására a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontját nem kell alkalmazni;
+## 8.[^1] úgy határoz, hogy a 4–6. ponthoz kapcsolódó beszerzések lefolytatására a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontját nem kell alkalmazni;
 
 ## 9. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a belügyminiszter bevonásával, az MNV Zrt. útján gondoskodjon a 2. pontban megjelölt Ingatlan Belügyminisztérium részére történő vagyonkezelésbe adásáról.
 
@@ -219,3 +219,5 @@
 | Magyar Államkincstár | 1 példány |  |  | egyéb: |  | azonnal |  | 34 473 007 233 |  | 34 473 007 233 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 8. pont az 1405/2019. (VII. 8.) Korm. határozat 11. pontja szerint módosított szöveg.
