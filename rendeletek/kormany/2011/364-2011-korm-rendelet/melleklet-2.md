@@ -26,6 +26,6 @@
 
 | 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^25]
+2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^28]
 
-[^25]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
+[^28]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.

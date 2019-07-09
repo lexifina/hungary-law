@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-364-20-
 | 2017-09-02 | 2011-364-20-22.17 | 248/2017. (IX. 1.) Korm. rendelet |
 | 2018-01-01 | 2011-364-20-22.18 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2018-04-10 | 2011-364-20-22.19 | 71/2018. (IV. 9.) Korm. rendelet |
+| 2019-07-09 | 2011-364-20-22.20 | 164/2019. (VII. 8.) Korm. rendelet |
