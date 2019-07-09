@@ -1,0 +1,1 @@
+## „d) a (2) bekezdés és az (1) bekezdés c) pontja alapján az engedély visszavonásának lenne helye, azonban az erre okot adó körülmény az (1) bekezdés c) pontja szerinti szervek írásos véleménye alapján megszüntethető, és megszüntetése érdekében az engedélyes a Hatósággal együttműködik.”
