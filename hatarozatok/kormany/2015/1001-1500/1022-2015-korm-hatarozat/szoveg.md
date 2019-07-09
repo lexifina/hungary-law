@@ -22,7 +22,7 @@ i) az Alkotmányvédelmi Hivatal vezetője vagy az általa kijelölt helyettese,
 
 j) a BM Országos Katasztrófavédelmi Főigazgatóság vezetője vagy általa kijelölt helyettese,
 
-k)[^1] a Bevándorlási és Menekültügyi Hivatal vezetője vagy az általa kijelölt helyettese,
+k)[^1] az Országos Idegenrendészeti Főigazgatóság vezetője vagy az általa kijelölt helyettese,
 
 l) a Nemzeti Adó- és Vámhivatal vezetője vagy az általa kijelölt helyettese,
 
@@ -54,4 +54,4 @@ g) javaslattevő, véleményező szervként segíti a költségvetési tervezés
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 2. pont k) alpontja az 1853/2016. (XII. 27.) Korm. határozat 49. pontja szerint módosított szöveg.
+[^1]: A 2. pont k) alpontja az 1405/2019. (VII. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
