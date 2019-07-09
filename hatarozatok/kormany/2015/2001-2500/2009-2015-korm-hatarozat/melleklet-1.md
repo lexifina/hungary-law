@@ -78,7 +78,7 @@
 
 1.32. BM Országos Katasztrófavédelmi Főigazgatóság, megyei katasztrófavédelmi igazgatóságok, Fővárosi Katasztrófavédelmi Igazgatóság,
 
-1.33.[^3] Bevándorlási és Menekültügyi Hivatal,
+1.33.[^3] Országos Idegenrendészeti Főigazgatóság,
 
 1.34.[^4]
 
@@ -274,7 +274,7 @@
 
 [^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
 [^2]: Az 1. melléklet 1. pont 1.31. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont a) alpontjával megállapított szöveg.
-[^3]: Az 1. melléklet 1. pont 1.33. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont b) alpontjával megállapított szöveg.
+[^3]: Az 1. melléklet 1. pont 1.33. alpontja az 1405/2019. (VII. 8.) Korm. határozat 7. pontjával megállapított szöveg.
 [^4]: Az 1. melléklet 1. pont 1.34. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont a) alpontja hatályon kívül helyezte.
 [^5]: Az 1. melléklet 1. pont 1.38. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont b) alpontja hatályon kívül helyezte.
 [^6]: Az 1. melléklet 1. pont 1.42. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont c) alpontja hatályon kívül helyezte.
