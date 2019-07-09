@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1525-30
 | 2015-07-24 | 2013-1525-30-22.2 | 1501/2015. (VII. 23.) Korm. határozat |
 | 2016-09-01 | 2013-1525-30-22.3 | 1467/2016. (VIII. 31.) Korm. határozat |
 | 2017-01-01 | 2013-1525-30-22.4 | 1501/2015. (VII. 23.) Korm. határozat |
+| 2019-07-09 | 2013-1525-30-22.5 | 1501/2015. (VII. 23.) Korm. határozat |

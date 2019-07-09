@@ -54,7 +54,7 @@ A HIKOM összetétele
 
 a)[^5] a honvédelmi miniszter, a Miniszterelnökséget vezető miniszter, az igazságügyi miniszter, a belügyminiszter, a külgazdasági és külügyminiszter, a nemzetgazdasági miniszter, az emberi erőforrások minisztere, a nemzeti fejlesztési miniszter, valamint a földművelésügyi miniszter által kijelölt,
 
-b)[^6] az Információs Hivatal főigazgatója, az Alkotmányvédelmi Hivatal főigazgatója, a Katonai Nemzetbiztonsági Szolgálat főigazgatója, a Nemzetbiztonsági Szakszolgálat főigazgatója, valamint a Bevándorlási és Menekültügyi Hivatal főigazgatója által kijelölt,
+b)[^6] az Információs Hivatal főigazgatója, az Alkotmányvédelmi Hivatal főigazgatója, a Katonai Nemzetbiztonsági Szolgálat főigazgatója, a Nemzetbiztonsági Szakszolgálat főigazgatója, valamint az Országos Idegenrendészeti Főigazgatóság főigazgatója által kijelölt,
 
 c) az országos rendőrfőkapitány, a Terrorelhárítási Központ főigazgatója, valamint a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság főigazgatója által kijelölt, továbbá
 
@@ -87,7 +87,7 @@ Javaslattételi, véleményező, és tanácsadói tevékenység a Kormány rész
 [^3]: Az 1. melléklet 2. pontja az 1467/2016. (VIII. 31.) Korm. határozat 1. pont a) pontja szerint módosított szöveg.
 [^4]: Az 1. melléklet 3. pontja az 1467/2016. (VIII. 31.) Korm. határozat 1. pont b) pontja szerint módosított szöveg.
 [^5]: Az 1. melléklet 4. pont a) alpontja az 1501/2015. (VII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
-[^6]: Az 1. melléklet 4. pont b) alpontja az 1501/2015. (VII. 23.) Korm. határozat 2. pontjával megállapított, az 1853/2016. (XII. 27.) Korm. határozat 38. pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 4. pont b) alpontja az 1501/2015. (VII. 23.) Korm. határozat 2. pontjával megállapított, az 1405/2019. (VII. 8.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^7]: Az 1. melléklet 6. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^8]: Az 1. melléklet 7. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a)–b) alpontja szerint módosított szöveg.
 [^9]: Az 1. melléklet 8. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
