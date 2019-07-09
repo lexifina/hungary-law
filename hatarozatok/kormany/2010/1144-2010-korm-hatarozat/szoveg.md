@@ -416,7 +416,7 @@ A Nemzetbiztonsági Munkacsoport
 
 a) javaslatot tesz a Nemzetbiztonsági Kabinetnek a közbiztonság és a nemzetbiztonság védelme, továbbá az élet- és vagyonvédelem érdekében szükséges feladatokra és intézkedésekre, valamint figyelemmel kíséri azok végrehajtását;
 
-b) biztosítja az összehangolt, késedelem nélküli és szükséges intézkedések és a végrehajtásért felelős szerv gyors megállapítását lehetővé tevő információcserét a közbiztonság és a nemzetbiztonság védelmével, valamint a haza védelmével és a szövetségi kötelezettségek teljesítésével összefüggésben az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Információs Hivatal, az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Bevándorlási és Menekültügyi Hivatal, a BM Országos Katasztrófavédelmi Főigazgatóság, a Nemzeti Adó- és Vámhivatal, a Honvéd Vezérkar, a Miniszterelnökség, valamint az érintett minisztériumok között;
+b)[^15] biztosítja az összehangolt, késedelem nélküli és szükséges intézkedések és a végrehajtásért felelős szerv gyors megállapítását lehetővé tevő információcserét a közbiztonság és a nemzetbiztonság védelmével, valamint a haza védelmével és a szövetségi kötelezettségek teljesítésével összefüggésben az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Információs Hivatal, az Országos Rendőr-főkapitányság, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, az Országos Idegenrendészeti Főigazgatóság, a BM Országos Katasztrófavédelmi Főigazgatóság, a Nemzeti Adó- és Vámhivatal, a Honvéd Vezérkar, a Miniszterelnökség, valamint az érintett minisztériumok között;
 
 c) javaslatot tesz a b) pontban felsorolt szervek tevékenységével kapcsolatos szakfeladatok ellátására, azok összehangolására, a felelősség rendjére;
 
@@ -426,7 +426,7 @@ e) szükség esetén információs igényt fogalmaz meg a b) pontban felsorolt s
 
 f) összehangolja a b) pontban felsorolt szervek felderítő és műveleti, valamint hatósági intézkedéseit, továbbá a műveleti helyzetnek megfelelően javaslatot tesz a szükséges intézkedésekre;
 
-g)[^15]
+g)[^16]
 
 (3) A Munkacsoport tagjai:
 
@@ -460,11 +460,11 @@ n) a BM Országos Katasztrófavédelmi Főigazgatóság főigazgatója,
 
 o) az állami adó- és vámhatóság vezetője,
 
-p) a Bevándorlási és Menekültügyi Hivatal főigazgatója.
+p)[^17] az Országos Idegenrendészeti Főigazgatóság főigazgatója.
 
 (4) A Munkacsoport vezetője a Belügyminisztérium közbiztonsági főigazgatója.
 
-III. A KORMÁNY ÜLÉSE[^16]
+III. A KORMÁNY ÜLÉSE[^18]
 
 59. Az előterjesztés vagy jelentés a kormányülés napirendjére – a Fejlesztéspolitikai Koordinációs Bizottság és a Nemzetbiztonsági Munkacsoport által tárgyal előterjesztések és jelentések kivételével – akkor vehető fel, ha azt a Közigazgatási Államtitkári Értekezlet megtárgyalta. E szabály alkalmazása alól a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára a miniszterelnök kivételt tehet. A Kormányt az előterjesztés lényegéről az előterjesztő, a Közigazgatási Államtitkári Értekezlet állásfoglalásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára tájékoztatja.
 
@@ -494,11 +494,11 @@ b) a kormányszóvivő.
 
 67. A Kormány ülése a benyújtott előterjesztések, jelentések megtárgyalásából, döntések meghozatalából, szóbeli eszmecseréből, eligazításból, bejelentésekből, valamint – a miniszterelnök egyedi felhívása esetén – a Kormány tagja által adott tájékoztatásból áll.
 
-68.[^17] Rendkívüli vagy azonnali intézkedést igénylő esetben a Kormány úgy is hozhat döntést, hogy az adott ügyben tagjai írásban vagy távbeszélő útján közlik állásfoglalásukat.
+68.[^19] Rendkívüli vagy azonnali intézkedést igénylő esetben a Kormány úgy is hozhat döntést, hogy az adott ügyben tagjai írásban vagy távbeszélő útján közlik állásfoglalásukat.
 
 69. A Kormány 68. pont szerinti ülése megszervezéséről és dokumentálásáról a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
 
-IV. [^18] A KORMÁNY DÖNTÉSEI
+IV. [^20] A KORMÁNY DÖNTÉSEI
 
 70. A Kormány a feladatkörében rendeletet bocsát ki, határozatot hoz, irányelvet vagy elvi állásfoglalást fogad el.
 
@@ -538,23 +538,23 @@ V.
 
 A KORMÁNY ÜLÉSÉRŐL KÉSZÜLT ÖSSZEFOGLALÓ ÉS HANGFELVÉTEL
 
-83.[^19] A Kormány üléséről összefoglaló és a Kormány tagjának kérésére, indokolt esetben és a miniszterelnök engedélyével rögtön, továbbá az ülés végén az összefoglaló elkészítésére alkalmas hangfelvétel készül. Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
+83.[^21] A Kormány üléséről összefoglaló és a Kormány tagjának kérésére, indokolt esetben és a miniszterelnök engedélyével rögtön, továbbá az ülés végén az összefoglaló elkészítésére alkalmas hangfelvétel készül. Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik.
 
-84.[^20] Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik. Az összefoglalót a miniszterelnök írja alá.
+84.[^22] Az összefoglaló elkészítéséről – az ülést követő három munkanapon belül – a Miniszterelnöki Kormányiroda közigazgatási államtitkára gondoskodik. Az összefoglalót a miniszterelnök írja alá.
 
-85.[^21] Az aláírt összefoglaló mellékleteként a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározottakat kell megőrizni.
+85.[^23] Az aláírt összefoglaló mellékleteként a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvényben meghatározottakat kell megőrizni.
 
-86.[^22] Az összefoglaló egy-egy példányát a közigazgatási államtitkárok kapják meg. A Miniszterelnöki Kormányiroda közigazgatási államtitkára az összefoglaló megküldését másnak is engedélyezheti.
+86.[^24] Az összefoglaló egy-egy példányát a közigazgatási államtitkárok kapják meg. A Miniszterelnöki Kormányiroda közigazgatási államtitkára az összefoglaló megküldését másnak is engedélyezheti.
 
-87.[^23] A hangfelvétel a Kormány tagjai és az állandó meghívottak személyes használatára a Miniszterelnöki Kormányirodán rendelkezésre áll. A Kormány tagjainak, a kormányülés állandó meghívottainak megbízottja a Miniszterelnöki Kormányiroda közigazgatási államtitkárának engedélyével a felvételt meghallgathatja. Ha folyamatban lévő feladat végrehajtásához szükséges, az érdekeltnek a hangfelvétel alapján készített kivonat adható.
+87.[^25] A hangfelvétel a Kormány tagjai és az állandó meghívottak személyes használatára a Miniszterelnöki Kormányirodán rendelkezésre áll. A Kormány tagjainak, a kormányülés állandó meghívottainak megbízottja a Miniszterelnöki Kormányiroda közigazgatási államtitkárának engedélyével a felvételt meghallgathatja. Ha folyamatban lévő feladat végrehajtásához szükséges, az érdekeltnek a hangfelvétel alapján készített kivonat adható.
 
 VI.
 
 A KORMÁNY DÖNTÉSEI VÉGREHAJTÁSÁNAK ELLENŐRZÉSE
 
-88.[^24] A Miniszterelnöki Kormányiroda közigazgatási államtitkára rendszeresen előterjesztést készít a Kormány számára a Kormány határozataiban és munkatervében előírt határidős feladatok végrehajtásáról. A végrehajtásért felelős írásban számot ad a határidő elmulasztásának okairól. A Kormány határozataiban előírt feladatok teljesítési határidejének módosítására vonatkozó javaslatokat is tartalmazó előterjesztést a miniszterelnök – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – nyújtja be a Kormányhoz.
+88.[^26] A Miniszterelnöki Kormányiroda közigazgatási államtitkára rendszeresen előterjesztést készít a Kormány számára a Kormány határozataiban és munkatervében előírt határidős feladatok végrehajtásáról. A végrehajtásért felelős írásban számot ad a határidő elmulasztásának okairól. A Kormány határozataiban előírt feladatok teljesítési határidejének módosítására vonatkozó javaslatokat is tartalmazó előterjesztést a miniszterelnök – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – nyújtja be a Kormányhoz.
 
-89.[^25] A miniszterelnök felhívhatja a minisztert, a kormánybiztost és a kormányhivatal vezetőjét a Kormány által elrendelt feladat végrehajtásáról való beszámolásra.
+89.[^27] A miniszterelnök felhívhatja a minisztert, a kormánybiztost és a kormányhivatal vezetőjét a Kormány által elrendelt feladat végrehajtásáról való beszámolásra.
 
 VII.
 
@@ -562,7 +562,7 @@ A KORMÁNY EGYES FELADATAINAK ELLÁTÁSA
 
 90. Az Európai Unió döntéshozatali tevékenységében való részvételről és az ehhez kapcsolódó koordinációs eljárásrendről, valamint az európai uniós tagságból eredő jogharmonizációs feladatok meghatározásának, programozásának és teljesítésük ellenőrzésének rendjéről külön kormányhatározat rendelkezik.
 
-VII/A. A KABINETEK[^26]
+VII/A. A KABINETEK[^28]
 
 90/A. (1) A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 28. § (1) bekezdése alapján létrehozza a Stratégiai és Családügyi Kabinetet, a Gazdasági Kabinetet, a Nemzetbiztonsági Kabinetet, valamint a Nemzetpolitikai Kabinetet (e fejezet alkalmazásában a továbbiakban együtt: kabinet).
 
@@ -806,7 +806,7 @@ való felelősségi körökbe tartozó előterjesztésekre és jelentésekre ter
 
 (2) A Gazdasági Kabinet elnöke a pénzügyminiszter.
 
-(3)[^27] A Gazdasági Kabinet állandó tagja
+(3)[^29] A Gazdasági Kabinet állandó tagja
 
 a) a miniszterelnök kabinetfőnöke,
 
@@ -818,7 +818,7 @@ d) a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter,
 
 e) a tárgyalt napirendi pont tekintetében az előterjesztő (jelentés esetén a benyújtó) miniszter vagy miniszterek.
 
-(3a)[^28] A Gazdasági Kabinet eseti tagja
+(3a)[^30] A Gazdasági Kabinet eseti tagja
 
 a) a belügyminiszter,
 
@@ -888,11 +888,11 @@ c) a külgazdasági és külügyminiszter.
 
 (6) A Kabinet szükség szerint, de általában kéthetente ülésezik, ülését a Kabinet elnöke hívja össze. Rendkívüli ülés összehívását bármely tag kezdeményezheti.
 
-(6a)[^29] A közbeszerzésekről szóló törvény, illetve a védelmi és biztonsági beszerzésekről szóló törvény alkalmazása alóli Országgyűlés általi felmentésre irányuló kérelemről történő vélemény kialakítása tárgyában a Nemzetbiztonsági Kabinet úgy is hozhat döntést, hogy az adott ügyben a tagok elektronikus úton vagy távbeszélő útján közlik szavazatukat.
+(6a)[^31] A közbeszerzésekről szóló törvény, illetve a védelmi és biztonsági beszerzésekről szóló törvény alkalmazása alóli Országgyűlés általi felmentésre irányuló kérelemről történő vélemény kialakítása tárgyában a Nemzetbiztonsági Kabinet úgy is hozhat döntést, hogy az adott ügyben a tagok elektronikus úton vagy távbeszélő útján közlik szavazatukat.
 
-(6b)[^30] A Nemzetbiztonsági Kabinet akkor is határozatképes, ha a (6a) bekezdés szerinti esetben a távollévő tagok elektronikus úton vagy távbeszélő útján közlik szavazatukat, és legalább három tag szavaz.
+(6b)[^32] A Nemzetbiztonsági Kabinet akkor is határozatképes, ha a (6a) bekezdés szerinti esetben a távollévő tagok elektronikus úton vagy távbeszélő útján közlik szavazatukat, és legalább három tag szavaz.
 
-(6c)[^31] A (6a) bekezdés szerinti esetben a Nemzetbiztonsági Kabinet elnöke a döntésről – ha a (4) bekezdés szerinti részvételük nem biztosítható – öt napon belül tájékoztatja a Miniszterelnöki Kormányiroda közigazgatási államtitkárát, illetve a Miniszterelnöki Kormányiroda nemzeti információs államtitkárát.
+(6c)[^33] A (6a) bekezdés szerinti esetben a Nemzetbiztonsági Kabinet elnöke a döntésről – ha a (4) bekezdés szerinti részvételük nem biztosítható – öt napon belül tájékoztatja a Miniszterelnöki Kormányiroda közigazgatási államtitkárát, illetve a Miniszterelnöki Kormányiroda nemzeti információs államtitkárát.
 
 (7) A Kabinet munkáját kormányhatározatban meghatározott Terrorellenes Koordinációs Bizottság segíti. A Terrorellenes Koordinációs Bizottság koordinálja a terrorizmus elleni küzdelemmel összefüggő kormányzati feladatokat.
 
@@ -930,21 +930,21 @@ A kabinet működése
 
 90/F. (1) A kabinet elnöke és tagja a kabinet ülésén személyesen köteles részt venni.
 
-(1a)[^32] A Nemzetbiztonsági Kabinet tagja a 90/D. pont (6a) bekezdése szerinti esetben a Nemzetbiztonsági Kabinet ülésén személyes megjelenésre nem köteles.
+(1a)[^34] A Nemzetbiztonsági Kabinet tagja a 90/D. pont (6a) bekezdése szerinti esetben a Nemzetbiztonsági Kabinet ülésén személyes megjelenésre nem köteles.
 
-(1b)[^33] A Gazdasági Kabinet eseti tagja az energiapolitikával, továbbá a Paksi Atomerőmű két új blokkja tervezésével, megépítésével és üzembe helyezésével kapcsolatos ügyköröket érintő napirendi pont tárgyalásakor a Gazdasági Kabinet munkájában részt vesz.
+(1b)[^35] A Gazdasági Kabinet eseti tagja az energiapolitikával, továbbá a Paksi Atomerőmű két új blokkja tervezésével, megépítésével és üzembe helyezésével kapcsolatos ügyköröket érintő napirendi pont tárgyalásakor a Gazdasági Kabinet munkájában részt vesz.
 
 (2) A kabinet tagja – a Nemzetbiztonsági Kabinet kivételével – a kabinetet vezető miniszter engedélyével és a miniszterelnök egyidejű tájékoztatásával helyettesíthető.
 
 (3) A miniszterelnök kabinetfőnöke – a Nemzetbiztonsági Kabinet kivételével – a kabinet ülésén helyettesíthető. A miniszterelnök kabinetfőnökét államtitkár helyettesítheti.
 
-(4)[^34] A Nemzetbiztonsági Kabinet ülésén a külgazdasági és külügyminiszter – a 90/D. pont (6a) bekezdése szerinti esetben személyes megjelenés hiányában is – államtitkár útján helyettesíthető.
+(4)[^36] A Nemzetbiztonsági Kabinet ülésén a külgazdasági és külügyminiszter – a 90/D. pont (6a) bekezdése szerinti esetben személyes megjelenés hiányában is – államtitkár útján helyettesíthető.
 
 (5) A kabinet ülésére más személyt a kabinet elnöke hívhat meg.
 
 (6) A kabinet szükség szerint ülésezik. A kabinet ülését a kabinet elnöke hívja össze. Rendkívüli ülés összehívását bármely tag kezdeményezheti.
 
-(7)[^35] Ahol ezen alcím kabinet tagjáról rendelkezik, e rendelkezést a Gazdasági Kabinet esetében úgy kell alkalmazni, hogy az alatt a Gazdasági Kabinet állandó tagját és – ha a Gazdasági Kabinet munkájában e határozat alapján részt vesz – az eseti tagot kell érteni.
+(7)[^37] Ahol ezen alcím kabinet tagjáról rendelkezik, e rendelkezést a Gazdasági Kabinet esetében úgy kell alkalmazni, hogy az alatt a Gazdasági Kabinet állandó tagját és – ha a Gazdasági Kabinet munkájában e határozat alapján részt vesz – az eseti tagot kell érteni.
 
 90/G. (1) Előterjesztés vagy jelentés a kabinet ülésének napirendjére akkor vehető fel, ha a Közigazgatási Államtitkári Értekezlet, illetve annak állandó vagy eseti munkabizottsága megtárgyalta és napirendre tűzését javasolta. E szabály alkalmazása alól a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatára a kabinet vezetője kivételt tehet.
 
@@ -968,7 +968,7 @@ amelyet a Miniszterelnöki Kormányiroda közigazgatási államtitkára küld ki
 
 (3) Az (1) bekezdésben írt határidőn túl a Miniszterelnöki Kormányiroda közigazgatási államtitkárának engedélyével nyújthatóak be a halaszthatatlanul sürgős döntést igénylő ügyekben készült előterjesztések.
 
-90/I.[^36] (1)[^37] A kabinet ülésén jelen lévők az előterjesztésről, illetve az egyéb döntést igénylő kérdésről tanácskozást folytatnak, amelyet követően a kabinet elnöke összefoglalja a tanácskozás során elhangzottakat, és kimondja a kabinet döntését. Ha a kabinet valamely tagja a kabinet elnöke által az előbbiek szerint kimondott döntéssel nem ért egyet, arról szavazás megtartását kezdeményezheti. A szavazás megtartása ebben az esetben kötelező. A szavazás során a kabinet tagjai rendelkeznek szavazati joggal. A döntés meghozatalára szavazattöbbséggel kerül sor, szavazategyenlőség esetén a kabinet elnökének szavazata dönt.
+90/I.[^38] (1)[^39] A kabinet ülésén jelen lévők az előterjesztésről, illetve az egyéb döntést igénylő kérdésről tanácskozást folytatnak, amelyet követően a kabinet elnöke összefoglalja a tanácskozás során elhangzottakat, és kimondja a kabinet döntését. Ha a kabinet valamely tagja a kabinet elnöke által az előbbiek szerint kimondott döntéssel nem ért egyet, arról szavazás megtartását kezdeményezheti. A szavazás megtartása ebben az esetben kötelező. A szavazás során a kabinet tagjai rendelkeznek szavazati joggal. A döntés meghozatalára szavazattöbbséggel kerül sor, szavazategyenlőség esetén a kabinet elnökének szavazata dönt.
 
 (2) A 90/D. pont (6a) bekezdése szerinti esetben a Nemzetbiztonsági Kabinet üléséről távolmaradó tag az egyes napirendi pontokhoz kapcsolódó támogató vagy elutasító szavazatát az ülést megelőzően az elnöknek megküldheti.
 
@@ -1030,7 +1030,7 @@ VIII.
 
 ZÁRÓ RENDELKEZÉSEK
 
-91.[^38] Ez a határozat a közzétételét követő napon lép hatályba.
+91.[^40] Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: Az I. fejezet (1–5. pont) az 1243/2018. (V. 22.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A II. fejezet (6–58. pont) az 1243/2018. (V. 22.) Korm. határozat 2. pontjával megállapított szöveg.
@@ -1046,27 +1046,29 @@ ZÁRÓ RENDELKEZÉSEK
 [^12]: A 31/A. pontot az 1298/2019. (V. 27.) Korm. határozat 5. pontja iktatta be.
 [^13]: A 40. pont h) alpontját az 1298/2019. (V. 27.) Korm. határozat 6. pontja iktatta be.
 [^14]: Az 55. pont (3) bekezdése az 1298/2019. (V. 27.) Korm. határozat 7. pontjával megállapított szöveg.
-[^15]: Az 58. pont (2) bekezdés g) pontját az 1407/2018. (IX. 3.) Korm. határozat 1. pontja hatályon kívül helyezte.
-[^16]: A III. fejezet (59–69. pont) az 1243/2018. (V. 22.) Korm. határozat 3. pontjával megállapított szöveg.
-[^17]: A 68. pont az 1006/2019. (I. 22.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^18]: A IV. fejezet (70–82. pont) az 1243/2018. (V. 22.) Korm. határozat 4. pontjával megállapított szöveg.
-[^19]: A 83. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
-[^20]: A 84. pont az 1399/2016. (VII. 21) Korm. határozat 24. pontjával megállapított, az 1243/2018. (V. 22.) Korm. határozat 6. pont a) és b) alpontja szerint módosított szöveg.
-[^21]: A 85. pont az 1399/2016. (VII. 21) Korm. határozat 24. pontjával megállapított szöveg.
-[^22]: A 86. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
-[^23]: A 87. pont az 1399/2016. (VII. 21) Korm. határozat 25. pontjával megállapított, az 1243/2018. (V. 22.) Korm. határozat 6. pont a) és c) alpontja szerint módosított szöveg.
-[^24]: A 88. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont d) és e) alpontja szerint módosított szöveg.
-[^25]: A 89. pont az 1243/2018. (V. 22.) Korm. határozat 7. pontja szerint módosított szöveg.
-[^26]: A VII/A. fejezetet az 1399/2016. (VII. 21) Korm. határozat 26. pontja iktatta be, szövege az 1243/2018. (V. 22.) Korm. határozat 5. pontjával megállapított szöveg.
-[^27]: A 90/C. pont (3) bekezdés nyitó szövegrésze az 1298/2019. (V. 27.) Korm. határozat 12. pont b) alpontja szerint módosított szöveg.
-[^28]: A 90/C. pont (3a) bekezdését az 1298/2019. (V. 27.) Korm. határozat 8. pontja iktatta be.
-[^29]: A 90/D. pont (6a) bekezdését az 1006/2019. (I. 22.) Korm. határozat 1. pontja iktatta be.
-[^30]: A 90/D. pont (6b) bekezdését az 1006/2019. (I. 22.) Korm. határozat 1. pontja iktatta be.
-[^31]: A 90/D. pont (6c) bekezdését az 1006/2019. (I. 22.) Korm. határozat 1. pontja iktatta be.
-[^32]: A 90/F. pont (1a) bekezdését az 1006/2019. (I. 22.) Korm. határozat 2. pontja iktatta be.
-[^33]: A 90/F. pont (1b) bekezdését az 1298/2019. (V. 27.) Korm. határozat 9. pontja iktatta be.
-[^34]: A 90/F. pont (4) bekezdése az 1006/2019. (I. 22.) Korm. határozat 3. pontjával megállapított szöveg.
-[^35]: A 90/F. pont (7) bekezdését az 1298/2019. (V. 27.) Korm. határozat 10. pontja iktatta be.
-[^36]: A 90/I. pont az 1006/2019. (I. 22.) Korm. határozat 4. pontjával megállapított szöveg.
-[^37]: A 90/I. pont (1) bekezdése az 1298/2019. (V. 27.) Korm. határozat 11. pontjával megállapított szöveg.
-[^38]: A 91. pont az 1399/2016. (VII. 21.) Korm. határozat 29. pont 7. alpontja szerint módosított szöveg.
+[^15]: Az 58. pont (2) bekezdés b) pontja az 1405/2019. (VII. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^16]: Az 58. pont (2) bekezdés g) pontját az 1407/2018. (IX. 3.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^17]: Az 58. pont (3) bekezdés p) pontja az 1405/2019. (VII. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^18]: A III. fejezet (59–69. pont) az 1243/2018. (V. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^19]: A 68. pont az 1006/2019. (I. 22.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^20]: A IV. fejezet (70–82. pont) az 1243/2018. (V. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^21]: A 83. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^22]: A 84. pont az 1399/2016. (VII. 21) Korm. határozat 24. pontjával megállapított, az 1243/2018. (V. 22.) Korm. határozat 6. pont a) és b) alpontja szerint módosított szöveg.
+[^23]: A 85. pont az 1399/2016. (VII. 21) Korm. határozat 24. pontjával megállapított szöveg.
+[^24]: A 86. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^25]: A 87. pont az 1399/2016. (VII. 21) Korm. határozat 25. pontjával megállapított, az 1243/2018. (V. 22.) Korm. határozat 6. pont a) és c) alpontja szerint módosított szöveg.
+[^26]: A 88. pont az 1243/2018. (V. 22.) Korm. határozat 6. pont d) és e) alpontja szerint módosított szöveg.
+[^27]: A 89. pont az 1243/2018. (V. 22.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^28]: A VII/A. fejezetet az 1399/2016. (VII. 21) Korm. határozat 26. pontja iktatta be, szövege az 1243/2018. (V. 22.) Korm. határozat 5. pontjával megállapított szöveg.
+[^29]: A 90/C. pont (3) bekezdés nyitó szövegrésze az 1298/2019. (V. 27.) Korm. határozat 12. pont b) alpontja szerint módosított szöveg.
+[^30]: A 90/C. pont (3a) bekezdését az 1298/2019. (V. 27.) Korm. határozat 8. pontja iktatta be.
+[^31]: A 90/D. pont (6a) bekezdését az 1006/2019. (I. 22.) Korm. határozat 1. pontja iktatta be.
+[^32]: A 90/D. pont (6b) bekezdését az 1006/2019. (I. 22.) Korm. határozat 1. pontja iktatta be.
+[^33]: A 90/D. pont (6c) bekezdését az 1006/2019. (I. 22.) Korm. határozat 1. pontja iktatta be.
+[^34]: A 90/F. pont (1a) bekezdését az 1006/2019. (I. 22.) Korm. határozat 2. pontja iktatta be.
+[^35]: A 90/F. pont (1b) bekezdését az 1298/2019. (V. 27.) Korm. határozat 9. pontja iktatta be.
+[^36]: A 90/F. pont (4) bekezdése az 1006/2019. (I. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^37]: A 90/F. pont (7) bekezdését az 1298/2019. (V. 27.) Korm. határozat 10. pontja iktatta be.
+[^38]: A 90/I. pont az 1006/2019. (I. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^39]: A 90/I. pont (1) bekezdése az 1298/2019. (V. 27.) Korm. határozat 11. pontjával megállapított szöveg.
+[^40]: A 91. pont az 1399/2016. (VII. 21.) Korm. határozat 29. pont 7. alpontja szerint módosított szöveg.
