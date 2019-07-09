@@ -2,7 +2,7 @@ A Kormány
 
 1. elfogadja az emberkereskedelem elleni küzdelemről szóló Intézkedési Tervet, és az alábbi intézkedéseket határozza meg:
 
-a) az emberkereskedelem áldozatainak azonosításában, valamint e bűncselekmény felderítésében részt vevő szervezetek állományának képzésében biztosítani kell az áldozatok felismeréséhez szükséges speciális ismeretek elsajátítását, ennek érdekében a Kormány felhívja az érintett minisztereket, hogy a jelenleg már e tárgyban rendelkezésre álló képzési anyagokat vizsgálják felül,
+a)[^1] az emberkereskedelem megelőzésében, az áldozatainak azonosításában, valamint e bűncselekmény felderítésében részt vevő szervezetek állományának képzésében biztosítani kell az áldozatok felismeréséhez szükséges speciális ismeretek elsajátítását, továbbá gondoskodni kell a lakosság széles körű tájékoztatásáról, ezen intézkedések érdekében a Kormány felhívja az érintett minisztereket, hogy a jelenleg már e tárgyban rendelkezésre álló képzési anyagokat vizsgálják felül, és állítsanak össze célzott képzési csomagot, valamint folytassanak tájékoztató és prevenciós tevékenységeket,
 
 b) szükséges a tizennyolcadik életévüket be nem töltött prostituáltak speciális szakellátásának és megfelelő reintegrációjának kialakítása,
 
@@ -42,7 +42,7 @@ emberi erőforrások minisztere
 
 Határidő: a felmerülés ütemében
 
-5. felhívja a pénzügyminisztert, hogy – a belügyminiszter bevonásával – gondoskodjon az 1. pont a) alpontjában meghatározott szervezetek átfogó és célzott képzési anyagának kialakításához szükséges források biztosításáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím javára 30 000 000 forint összegben;
+5.[^2] felhívja a pénzügyminisztert, hogy – a belügyminiszter bevonásával – gondoskodjon az 1. pont a) alpontjában foglaltak végrehajtásához szükséges források biztosításáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 7. Rendőrség cím javára 22 000 000 forint, valamint a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 25. Európai uniós fejlesztési programok alcím, 1. Európai Uniós és nemzetközi projektek/programok megvalósításához kapcsolódó kiadások jogcímcsoport javára 8 000 000 forint összegben;
 
 Felelős: pénzügyminiszter
 
@@ -59,3 +59,6 @@ emberi erőforrások minisztere
 Határidő: a 2020. évi központi költségvetés tervezése során
 
 7. felkéri a legfőbb ügyészt és az Országos Bírósági Hivatal elnökét, hogy szakterületüket érintően működjenek együtt az 1. pontban foglalt feladatok végrehajtásában.
+
+[^1]: Az 1. pont a) alpontja az 1405/2019. (VII. 8.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1405/2019. (VII. 8.) Korm. határozat 10. pontja szerint módosított szöveg.
