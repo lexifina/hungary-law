@@ -36,7 +36,7 @@ f) a Nemzetbiztonsági Szakszolgálat főigazgatója,
 
 g) a Nemzeti Szakértői és Kutató Központ főigazgatója,
 
-h) a Bevándorlási és Menekültügyi Hivatal főigazgatója,
+h)[^1] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
 
 i) a Nemzeti Adó- és Vámhivatal vezetője.
 
@@ -77,3 +77,5 @@ külgazdasági és külügyminiszter
 pénzügyminiszter
 
 Határidő: 2019. április 30.
+
+[^1]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
