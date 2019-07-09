@@ -1,12 +1,14 @@
-18. § (1) A Hatóság az ellátás biztonsága, valamint tartós ipari és kormányközi együttműködések előmozdítása érdekében meghatározott haditechnikai eszközök esetében az EGT-államokban letelepedett szerződő felek, végfelhasználók vonatkozásában általános forgalmi engedélyt tesz közzé honlapján az alábbi esetekben:
+18. § (1)[^26] A Hatóság az ellátás biztonsága, valamint tartós ipari és kormányközi együttműködések előmozdítása érdekében meghatározott haditechnikai eszközök esetében az EGT-államokban letelepedett szerződő felek, végfelhasználók vonatkozásában általános forgalmi engedélyt tesz közzé honlapján
 
-a) hon- és rendvédelmi, továbbá katonai nemzetbiztonsági feladatokat ellátó szervek, illetve tanúsított vállalatok részére történő kiszállítás, kivitel, újrakivitel, szolgáltatásnyújtás vagy azoktól történő beérkezés, behozatal, szolgáltatás igénybevétel;
+a) a hon- és rendvédelmi szervek, továbbá a Katonai Nemzetbiztonsági Szolgálat, illetve tanúsított vállalatok részére történő kiszállítás, kivitel, újrakivitel, szolgáltatásnyújtás, beérkezés, behozatal, illetve az általuk történő szolgáltatás-igénybevétel,
 
-b)[^10] az eredeti szállító általi karbantartásra és javításra, valamint kiállításra, bemutatóra, tesztelésre, bevizsgálásra vonatkozó devizamentes, ideiglenes árumozgással járó kiszállítás, kivitel, újrakivitel, beérkezés, behozatal esetében.
+b) a haditechnikai eszközök eredeti szállítója – mint címzett – részére karbantartásra és javításra, garanciális cserére, valamint kiállításra, bemutatóra, tesztelésre, bevizsgálásra irányuló devizamentes, ideiglenes árumozgással járó kiszállítás, kivitel, újrakivitel, beérkezés, behozatal
+
+esetében.
 
 (2) Az általános forgalmi engedély hatályos tevékenységi engedély birtokában használható fel.
 
-(3) Az általános forgalmi engedély közvetlenül hatalmazza fel a hatályos tevékenységi engedéllyel rendelkező vállalkozást, hogy az általános forgalmi engedélyben meghatározott haditechnikai eszköz transzferét végrehajtsa. A Hatóság honlapján közzétett általános forgalmi engedély terhére teljesített transzferekről a vállalkozás a Hatóság részére a 28. § szerint utólagosan szolgáltat adatot.
+(3)[^27] Az általános forgalmi engedély közvetlenül hatalmazza fel a hatályos tevékenységi engedéllyel rendelkező vállalkozást az abban meghatározott haditechnikai eszköz transzferjének végrehajtására vagy más EGT tagállamba történő kivitelére és onnan történő behozatalára.
 
 (4) Az általános forgalmi engedély számát a vállalkozás köteles feltüntetni a haditechnikai eszközöket kísérő okmányokon.
 
@@ -14,4 +16,8 @@ b)[^10] az eredeti szállító általi karbantartásra és javításra, valamint
 
 (6) A Hatóság az általános forgalmi engedélyt honlapján magyar és angol nyelven teszi közzé.
 
-[^10]: A 18. § (1) bekezdés b) pontja a 78/2018. (IV. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+(7)[^28] Az általános forgalmi engedély terhére teljesített transzferekről, kivitelről és behozatalról a vállalkozás a Hatóság részére a 28. § szerint utólagosan szolgáltat adatot.
+
+[^26]: A 18. § (1) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^27]: A 18. § (3) bekezdése a 165/2019. (VII. 8.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^28]: A 18. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 6. § (3) bekezdése iktatta be.

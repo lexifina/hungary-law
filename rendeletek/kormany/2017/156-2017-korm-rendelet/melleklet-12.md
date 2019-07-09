@@ -98,10 +98,14 @@ I. A 258/2012/EU rendelet szerinti kivitelre vonatkozó forgalmi engedély irán
 
 12. az ügylet devizamentes vagy ideiglenes jellegére történő utalás.
 
-II. Csatolandó okiratok
+II.[^45] Csatolandó okiratok:
 
-1. Végfelhasználói Nyilatkozat vagy Nemzetközi Import Igazolás, harmadik ország beviteli engedélye vagy a végfelhasználás igazolására szolgáló más dokumentum,
+1. az importőr harmadik ország beviteli engedélye, valamint
 
-2. amennyiben a kérelmező nem azonos a tulajdonossal, az áru tulajdonosának meghatalmazása az áru értékesítésére,
+2. Végfelhasználói Nyilatkozat vagy Nemzetközi Import Igazolás vagy a végfelhasználás igazolására szolgáló más dokumentum,
 
-3. tranzit harmadik országok illetékes hatósága által kiadott tranzitengedély, vagy a harmadik ország illetékes hatóságának nyilatkozata arról, hogy a tranzithoz hozzájárul vagy a haditechnikai eszköz tranzitja nem engedélyköteles.
+3. amennyiben a kérelmező nem azonos a tulajdonossal, az áru tulajdonosának meghatalmazása az áru értékesítésére,
+
+4. tranzit harmadik országok illetékes hatósága által kiadott tranzitengedély vagy a harmadik ország illetékes hatóságának nyilatkozata arról, hogy a tranzithoz hozzájárul, vagy a haditechnikai eszköz tranzitja nem engedélyköteles.
+
+[^45]: A 12. melléklet II. pontja a 165/2019. (VII. 8.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
