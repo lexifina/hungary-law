@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2019-03-19 | 2018-141-20-22.12 | 58/2019. (III. 18.) Korm. rendelet |
 | 2019-04-24 | 2018-141-20-22.13 | 93/2019. (IV. 23.) Korm. rendelet |
 | 2019-06-29 | 2018-141-20-22.14 | 160/2019. (VI. 28.) Korm. rendelet |
+| 2019-07-09 | 2018-141-20-22.15 | 166/2019. (VII. 8.) Korm. rendelet |

@@ -48,7 +48,9 @@
 
 | 22 | Autóipari beruházás Pécs külterületén | A Pécs külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti 01455/86, 01455/87, 01455/88, 01455/89, 01455/90 és 01455/91 helyrajzi számokon nyilvántartott ingatlanok. | Baranya Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^42]
+| 23 | Járműipari beruházás Miskolc II. kerület külterületén | Miskolc közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti II. kerület külterület 0130/14 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^44]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -228,4 +230,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^42]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^44]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
