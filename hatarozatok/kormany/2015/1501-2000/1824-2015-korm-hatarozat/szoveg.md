@@ -26,7 +26,7 @@ j) a Nemzeti Adó- és Vámhivatalra,
 
 k)[^1] a Terrorelhárítási Információs és Bűnügyi Elemző Központra,
 
-l)[^2] a Bevándorlási és Menekültügyi Hivatalra,
+l)[^2] az Országos Idegenrendészeti Főigazgatóságra,
 
 m) a Büntetés-végrehajtás Országos Parancsnokságára, valamint
 
@@ -199,5 +199,5 @@ Határidő: a határozat hatálybalépését követő 120 napon belül
 50.[^3]
 
 [^1]: Az 1. pont k) alpontja az 1853/2016. (XII. 27.) Korm. határozat 60. pont a) alpontjával megállapított szöveg.
-[^2]: Az 1. pont l) alpontja az 1853/2016. (XII. 27.) Korm. határozat 60. pont b) alpontjával megállapított szöveg.
+[^2]: Az 1. pont l) alpontja az 1405/2019. (VII. 8.) Korm. határozat 6. pontjával megállapított szöveg.
 [^3]: Az 50. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
