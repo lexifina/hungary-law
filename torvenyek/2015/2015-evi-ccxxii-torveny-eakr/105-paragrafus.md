@@ -80,7 +80,7 @@ j) a központi címregiszter vezetése, működése, az egységes címképzés s
 
 k) az e törvény szerinti központi elektronikus ügyintézési szolgáltatásokra vonatkozó szabályokat, a kötelezően igénybe veendő központi elektronikus ügyintézési szolgáltatások körét,
 
-l) a 104. § (1) bekezdés szerinti informatikai fejlesztési tervre, valamint bejelentésre és a bejelentés jogkövetkezményeire vonatkozó részletes szabályokat,
+l)
 
 m) a felügyeleti vizsgálat részletes szabályait, valamint
 
@@ -100,7 +100,7 @@ a) a központi címregiszter működtetéséért felelős szervet,
 
 b) a Harmadik Rész szerinti együttműködésre kijelölt közfeladatot ellátó szerveket, valamint
 
-c) a 104. § (1) bekezdése szerinti szervet.
+c)
 
 (5a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 

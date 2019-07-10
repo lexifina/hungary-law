@@ -8,7 +8,7 @@ b) a Kormány által rendeletben meghatározott egyéb típusú elektronikus el�
 
 (2) A gazdálkodó szervezet az elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségének megváltozását a változás bekövetkezését megelőzően, a változás időpontjának megjelölésével bejelenti a rendelkezési nyilvántartásba.
 
-(3) A gazdálkodó szervezet – ha működéséhez jogszabály által rendszeresített nyilvántartásba vétele kötelező – az (1) bekezdésben foglalt kötelezettségét azzal is teljesíti, ha az elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét a gazdálkodó szervezetre vonatkozó nyilvántartásba bejelenti.
+(3)
 
 (4) A hivatalos elérhetőségre kézbesített küldemény kézbesítettnek minősül,
 
@@ -36,4 +36,6 @@ e) a (4) bekezdésben foglaltak visszaigazolására alkalmas.
 
 (8) Ha a gazdálkodó szervezet ügyfél hivatalos elérhetőséggel nem rendelkezik, az elektronikus ügyintézést biztosító szerv az eljárást elektronikus kapcsolattartás nélkül is lefolytathatja azzal, hogy a gazdálkodó szervezet ezen kötelezettségének nem teljesítése miatt az elektronikus ügyintézést biztosító szerv kezdeményezi a gazdálkodó szervezettel szembeni, törvényben meghatározott törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását.
 
-(9) A (3) bekezdés szerinti, a gazdálkodó szervezetre vonatkozó nyilvántartást vezető szerv a hivatalos elérhetőség nyilvántartásba vétele, valamint üzemeltetése érdekében elektronikus úton, térítésmentesen és nyilvántartás céljából átadja a rendelkezési nyilvántartást vezető szervnek, valamint a gazdálkodó szervezet által megjelölt biztonságos kézbesítési szolgáltatási cím szolgáltatónak a gazdálkodó szervezetre vonatkozó, a gazdálkodó szervezet és a képviseletére jogosult személy azonosításához szükséges, az adott nyilvántartásban szereplő nyilvános adatokat. Az adatszolgáltatás lebonyolításának technikai szabályait az érintett szervek megállapodásban rögzítik.
+(9) Ha a gazdálkodó szervezet közhiteles nyilvántartásban szerepel, a gazdálkodó szervezet nyilvántartását vezető szerv a hivatalos elérhetőség nyilvántartásba vétele, valamint üzemeltetése érdekében elektronikus úton, térítésmentesen átadja a rendelkezési nyilvántartást vezető szervnek, valamint a gazdálkodó szervezet által megjelölt biztonságos kézbesítési szolgáltatási cím szolgáltatónak a gazdálkodó szervezetre vonatkozó, a gazdálkodó szervezet és a képviseletére jogosult személy azonosításához szükséges, az adott nyilvántartásban szereplő nyilvános adatokat. Az adatszolgáltatás lebonyolításának technikai szabályait az érintett szervek megállapodásban rögzítik.
+
+(10) Az egyéni vállalkozó hivatalos elérhetőségét a Kormány rendeletében meghatározott módon jelenti be.
