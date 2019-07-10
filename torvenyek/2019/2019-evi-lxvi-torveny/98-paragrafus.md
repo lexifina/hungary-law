@@ -1,0 +1,3 @@
+98. § Az államháztartásról szóló 2011. évi CXCV. törvény 104. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az átalakítással érintett költségvetési szervnek a törzskönyvi nyilvántartásból való törlése, vagy az alapító okiratának módosítása, a jogutód költségvetési szerv bejegyzése, vagy a jogutód költségvetési szerv alapító okiratának módosítása esetén a törzskönyvi nyilvántartás vezetésére irányuló eljárásban, a (2) bekezdésben meghatározott ügyintézési határidő megkezdésének napja alatt azt a napot kell érteni, amely napon valamennyi, az eljárás lefolytatásához előírt kérelem a kincstárhoz hiánytalanul, jogszabályban meghatározott követelményeknek megfelelő tartalommal beérkezik.”

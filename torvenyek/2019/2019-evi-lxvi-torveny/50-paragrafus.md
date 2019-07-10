@@ -1,0 +1,33 @@
+50. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény IX. Fejezete a következő 6. és 7. Címmel egészül ki:
+
+„6. CÍM
+
+NYILVÁNTARTÁSBA BEJEGYZETT JOG ÉS TÉNY TÖRLÉSE IRÁNTI VAGYONRENDEZÉSI ELJÁRÁS
+
+124/B. § (1) Ha a jogutód nélkül törölt cég közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozó jog (ide nem értve a tulajdonjogot) jogosultjaként van bejegyezve, vagy valamely vagyontárgyat illetően a javára, illetve érdekében tény van feljegyezve, – ha a 130. § (2) bekezdése szerinti feltételek nem állnak fenn – a vagyontárgy tulajdonosának kérelmére a bíróság e § szerinti különleges vagyonrendezési eljárást folytat le.
+
+(2) A vagyontárgy tulajdonosa által benyújtott kérelemnek tartalmaznia kell a törölt cég azonosításához szükséges adatokat, valamint csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, továbbá azokat az egyéb okiratokat és határozatokat, amelyek a jog vagy tény bejegyzésével összefüggésben a kérelmező rendelkezésére állnak.
+
+(3) Ha a kérelemben foglaltak megfelelnek a (2) bekezdésben foglaltaknak, a bíróság elrendeli az e § szerinti vagyonrendezési eljárás lefolytatását. Az e § szerinti eljárásban vagyonrendező kijelölésére nem kerül sor.
+
+(4) A bíróság a vagyonrendezési eljárás keretében megvizsgálja, hogy a jogutód nélküli megszűnéssel összefüggő cégiratokban (ideértve különösen a vagyonfelosztási okiratokat) volt-e rendelkezés a jog vagy tény más javára történő átengedéséről.
+
+(5) Ha jogutód nélküli megszűnéssel összefüggő irat (ideértve különösen a vagyonfelosztási okiratokat) nincs bírósági irattárban, és az más, a jogutód nélküli eljárásban részt vevő személytől, vagy a levéltártól nem szerezhető be, továbbá nem áll rendelkezésre más olyan okirat, amellyel hitelt érdemlő módon bizonyítható lenne annak ténye, hogy a kérelemmel érintett jog vagy tény mást illet meg, a bíróság a Cégközlönyben a törölt cég adatait, valamint a jog vagy tény megjelölését is tartalmazó végzést tesz közzé. A végzés felhívást tartalmaz arra, hogy akit a jog megillet, vagy akinek a tény feltüntetése az érdekében áll, ezt a közzétételtől számított harmincnapos jogvesztő határidőn belül – az azt megalapozó okiratok csatolásával – jelentheti be a bíróságnál.
+
+(6) Ha az (5) bekezdés szerinti határidőn belül bejelentés nem érkezett, vagy az abban foglaltak nem nyertek bizonyítást, a bíróság végzésben megállapítja, hogy a jog mást nem illet meg, illetve a tény más javára, vagy érdekében történő feljegyzéséhez érdek nem fűződik.
+
+(7) Ha az eljárás alapján az állapítható meg, hogy a kérelemben megjelölt jog vagy tény más javára történő átengedésére került sor, a bíróság a kérelmet elutasítja. A végzés ellen felülvizsgálatnak helye nincs.
+
+(8) A közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban valamely vagyontárgyra vonatkozóan a törölt cég javára bejegyzett jog (ide nem értve a tulajdonjogot) vagy javára, illetve érdekében feljegyzett tény törlésére – az adott nyilvántartásra vonatkozó szabályoktól eltérően minden esetben – a (6) bekezdés szerinti végzés csatolásával kerülhet sor. Ebben az esetben az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
+
+7. CÍM
+
+VÉGELSZÁMOLÁS LEFOLYTATÁSÁT KÖVETŐEN TÖRÖLT CÉG VAGYONÁRA VONATKOZÓ KÉRELEMRE INDULÓ VAGYONRENDEZÉSI ELJÁRÁS
+
+124/C. § (1) Ha a végelszámolás lefolytatását és a cég törlését követően olyan vagyontárgy – ideértve a törölt cég pénzforgalmi számláján nyilvántartott egyenleget – kerül elő, amelynek a törölt cég a tulajdonosa, azonban arról a végelszámolási vagyonfelosztási javaslatban nem rendelkeztek, a törölt cég tagjának kérelmére e § szerinti vagyonrendezési eljárás lefolytatásának van helye.
+
+(2) A kérelemnek tartalmaznia kell a törölt cég azonosításához szükséges adatokat, valamint csatolni kell a vagyontárgy tulajdonjogát igazoló okiratokat, a végelszámolás során elfogadott vagyonfelosztási javaslatot, továbbá csatolni kell a törölt cég volt tagjai – a volt tag halála esetén örököse, jogi személy tag vonatkozásában bekövetkezett jogutódlás esetén a jogutód – által legalább teljes bizonyító erejű magánokiratba foglalt, e § szerinti eljárásban felmerült vagyontárgyra vonatkozó vagyonfelosztási javaslatot.
+
+(3) Az e § szerinti eljárásban vagyonrendező kijelölésére és vagyontárgy értékesítésére nem kerül sor.
+
+(4) Ha a kérelem és kérelemhez csatolt iratok megfelelnek a jogszabályi előírásoknak, a bíróság a vagyonfelosztási javaslatot végzésével jóváhagyja.”

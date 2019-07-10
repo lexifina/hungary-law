@@ -1,0 +1,1 @@
+168. § A választottbíráskodásról szóló 2017. évi LX. törvény 62. § (2) bekezdés b) pontjában az „és permegszüntető” szövegrész helyébe az „és a 17. § (3) bekezdés szerinti döntés, valamint a választottbírósági eljárást a 45. § (2) bekezdés d) pontja alapján megszüntető” szöveg lép.

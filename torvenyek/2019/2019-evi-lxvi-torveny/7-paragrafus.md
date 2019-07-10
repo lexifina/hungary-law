@@ -1,0 +1,1 @@
+7. § A közjegyzőkről szóló 1991. évi XLI. törvény 17. § (2) bekezdés b) pontjában a „központi közigazgatási szervnél” szövegrész helyébe az „a kormányzati igazgatásról szóló törvény szerinti központi kormányzati igazgatási szervnél, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-a szerinti szervnél” szöveg lép.
