@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-10-00-00
 | 2017-07-01 | 2017. évi LXXXIX. törvény | 2006-10-00-00.20 |
 | 2017-10-13 | 2017. évi CXXII. törvény | 2006-10-00-00.21 |
 | 2017-11-28 | 2017. évi CXLVI. törvény | 2006-10-00-00.22 |
+| 2019-07-10 | 2019. évi LXVI. törvény | 2006-10-00-00.23 |
