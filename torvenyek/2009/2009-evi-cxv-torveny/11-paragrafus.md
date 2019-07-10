@@ -12,7 +12,7 @@ d) a székhely, a telephely (telephelyek) és a fióktelep (fióktelepek) címé
 
 e) szükség szerint az egyéni vállalkozói tevékenység szünetelésének tényét, kezdő- és zárónapját,
 
-f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adószám alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, valamint e határozatok megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat véglegessé válásának napját,
+f) az egyéni vállalkozó adószámát, annak hatályos állapotát, az adószám törlését, valamint e határozat megsemmisítését, hatályon kívül helyezését, módosítását, kiegészítését vagy visszavonását, továbbá a határozat véglegessé válásának napját,
 
 g) az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 
@@ -36,6 +36,6 @@ m) az egyéni vállalkozónak az elektronikus ügyintézés és a bizalmi szolg�
 
 (4) A személyiadat- és lakcímnyilvántartást, valamint a központi idegenrendészeti nyilvántartást vezető szerv haladéktalanul értesíti a nyilvántartást vezető szervet az egyéni vállalkozó halálának tényéről, valamint időpontjáról.
 
-(5) A nyilvántartást vezető szerv az (1) bekezdés m) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az egyéni vállalkozó oda jelentette be.
+(5)
 
-(6) Ha az egyéni vállalkozó az (1) bekezdés m) pontja szerinti adatot a nyilvántartást vezető szerv felé jelentette be, a nyilvántartást vezető szerv azt az (5) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.
+(6)

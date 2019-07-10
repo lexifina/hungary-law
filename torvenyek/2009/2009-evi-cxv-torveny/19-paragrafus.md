@@ -4,7 +4,7 @@
 
 a) ha az egyéni vállalkozó tevékenysége megszüntetését a Hatóságnak vagy a nyilvántartó szervnek bejelenti, a bejelentés napján,
 
-b) ha az egyéni vállalkozó egyéni céget alapított, vagy a 32. § (1) és (2) bekezdése szerint az egyéni cég tagjává vált, a cégbejegyző határozat jogerőre emelkedésének napját megelőző napon, illetve ha az egyéni vállalkozó átruházással megszerezte az egyéni cég vagyoni betétjét, az átruházás napján,
+b) ha az egyéni vállalkozó egyéni céget vagy a 19/C. § szerinti korlátolt felelősségű társaságot alapított, a 32. § (1) és (2) bekezdése szerint az egyéni cég tagjává vált, a cégbejegyző határozat jogerőre emelkedésének napját megelőző napon, vagy ha az egyéni vállalkozó átruházással megszerezte az egyéni cég vagyoni betétjét, az átruházás napján,
 
 c) az egyéni vállalkozó halála napján,
 
@@ -22,7 +22,7 @@ a) az egyéni vállalkozói tevékenység megszüntetése, valamint a 17. § (1)
 
 b) az egyéni vállalkozó adószámának törlése esetén az állami adóhatóság,
 
-c) egyéni cég alapítása, vagyoni betétjének átruházással vagy örökléssel történő megszerzése esetén az egyéni cég székhelye szerint illetékes cégbíróság (a továbbiakban: cégbíróság)
+c) egyéni cég alapítása, vagyoni betétjének átruházással vagy örökléssel történő megszerzése, valamint a 19/C. § szerinti korlátolt felelősségű társaság alapítása esetén az egyéni cég székhelye szerint illetékes cégbíróság (a továbbiakban: cégbíróság)
 
 elektronikus úton értesíti a nyilvántartást vezető szervet.
 
