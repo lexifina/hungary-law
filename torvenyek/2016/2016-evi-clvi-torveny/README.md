@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-156-00-00
 | 2016-12-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-156-00-00.1 |
 | 2018-12-09 | 2018. évi XCVII. törvény | 2016-156-00-00.2 |
 | 2019-01-01 | 2018. évi XCVII. törvény | 2016-156-00-00.3 |
+| 2019-07-10 | 2019. évi LXVI. törvény | 2016-156-00-00.4 |

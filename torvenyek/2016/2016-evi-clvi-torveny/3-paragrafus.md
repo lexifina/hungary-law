@@ -20,6 +20,6 @@ b) a turisztikai térségen belüli turisztikai fejlesztés szakmai tervezése, 
 
 c) szakmailag meghatározni, megtervezni és összehangolni az egyes turisztikai térségeken belül és azok között a turisztikai fejlesztések tekintetében a turisztikai térség megközelítését biztosító térségi és helyi infrastruktúrához, a kulturális örökség védelméhez, az épített és természeti környezet védelméhez, a társadalmi, környezeti fenntarthatósághoz, továbbá a turizmussal összefüggő marketingtevékenységhez szükséges turisztikai kapacitásokat és feladatokat, valamint szakmailag összehangolni azok végrehajtását,
 
-d) a kiemelt állami turisztikai beruházások végrehajtása, valamint a kiemelt állami turisztikai beruházások során létrejött létesítmények üzemeltetése, fenntartása és hasznosítása.
+d) a kiemelt állami turisztikai beruházások végrehajtása, a kiemelt állami turisztikai beruházások során létrejött létesítmények, valamint az egyéb kiemelt turisztikai jelentőségű állami ingatlan, vagyonelem üzemeltetése, fenntartása és hasznosítása.
 
-(5) Az állam a (4) bekezdés a)–c) pontjában foglalt feladatokat a Magyar Turisztikai Ügynökség Zrt., a (4) bekezdés d) pontjában foglalt feladatokat a 4. § (1) bekezdés szerint létrehozott gazdasági társaságok útján, a Kormány rendeletében meghatározottak szerint látja el.
+(5) Az állam a (4) bekezdésben foglalt feladatokat a Magyar Turisztikai Ügynökség Zrt. útján látja el, azzal, hogy a Magyar Turisztikai Ügynökség Zrt. a (4) bekezdés d) pontjában foglalt feladatokat a Kormánynak az e törvény felhatalmazása alapján kiadott rendeletében (a továbbiakban: rendelet) meghatározottak esetén a 4. § (1) és (1a) bekezdése szerinti gazdasági társaságok útján látja el.

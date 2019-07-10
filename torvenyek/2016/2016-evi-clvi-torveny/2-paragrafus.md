@@ -8,4 +8,8 @@
 
 3. turisztikai fejlesztés: minden olyan beavatkozás, amely az egyes turisztikai kínálati elemek kapacitásainak (különösen szálláshely, vendéglátás, egyéb turisztikai szolgáltatások, turisztikai vonzerővel bíró rendezvények, attrakciók, a turisztikai látogatóforgalmat és tartózkodást támogató infrastruktúra) bővítését vagy minőségének javítását, piacra jutásának elősegítését közvetlenül célozza, vagy ahhoz közvetetten hozzájárulhat;
 
-4. turisztikai térség (desztináció): olyan földrajzilag körülhatárolható, beazonosítható területrész, amely a turisztikai kínálati piacon egységes fogadóterületként jeleníthető meg, épített környezeti, természetföldrajzi vagy kulturális értékek tekintetében összefüggő elemek alkotják, ezért egységes koncepcióban történő tervezéséhez, fejlesztéséhez és térségi turisztikai márka kialakításához országos érdek fűződik.
+4. turisztikai térség (desztináció): olyan földrajzilag körülhatárolható, beazonosítható területrész, amely a turisztikai kínálati piacon egységes fogadóterületként jeleníthető meg, épített környezeti, természetföldrajzi vagy kulturális értékek tekintetében összefüggő elemek alkotják, ezért egységes koncepcióban történő tervezéséhez, fejlesztéséhez és térségi turisztikai márka kialakításához országos érdek fűződik;
+
+5. egyéb kiemelt turisztikai jelentőségű állami ingatlan, vagyonelem: az állam 100%-os tulajdonában álló, olyan ingatlan vagy vagyonelem, amely turisztikai fejlesztési célú hasznosítása kiemelt jelentőséggel bír, elhelyezkedésénél, jellegénél fogva alkalmas arra, hogy turisztikai fejlesztés helyszíne legyen, vagy annak tárgyát képezze, és ezt jogszabály, szerződés vagy más megállapodás nem zárja ki, azonban kiemelt állami turisztikai beruházással nem érintett;
+
+6. ingatlan: ingatlan, ingatlanrészek, ingatlanalrészlet és ingatlanhányad.

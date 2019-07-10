@@ -12,7 +12,7 @@ b) turisztikai térségek közül a kiemelt turisztikai fejlesztési térségeke
 
 c) kiemelt állami turisztikai beruházások megvalósításának helyszíneit, a beruházással érintett ingatlanok helyrajzi számának megjelölésével,
 
-d) 3. § (5) bekezdése szerinti feladatok ellátásának részletszabályait, valamint az egyes feladatok ellátására, a 4. § (1) bekezdés szerinti gazdasági társaságokat,
+d) a 3. § (5) bekezdése szerinti feladatok ellátásának részletszabályait, a 4. § (3) bekezdése szerinti ingatlanokat, vagyonelemeket és az ott megjelölt ingatlanok vagy vagyonelemek tekintetében vagyonkezelési szerződés megkötésére feljogosított beruházót vagy fenntartót,
 
 e) szálláshely-szolgáltató által alkalmazandó szálláshelykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
 
