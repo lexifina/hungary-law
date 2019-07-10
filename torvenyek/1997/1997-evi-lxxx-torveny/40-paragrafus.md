@@ -2,12 +2,16 @@
 
 ## TÁRSADALOMBIZTOSÍTÁSI NYILVÁNTARTÁSOK
 
-Tbj. 40. § A társadalombiztosítási rendszerek hatékony működésének biztosítása céljából az a)–d) pont szerinti nyilvántartások tartalmazzák a befizetések nyilvántartását, beszedését és az ellátások megállapításához szükséges e törvény szerinti adatokat
+Tbj. 40. § (1) A társadalombiztosítási rendszerek hatékony működésének biztosítása céljából a (2) bekezdés szerinti nyilvántartások tartalmazzák a befizetések nyilvántartását, beszedését és az ellátások megállapításához szükséges e törvény szerinti adatokat.
 
-a) a nyugdíj-biztosítási nyilvántartás adatkezelője a központi nyugdíjbiztosítási szerv,
+(2) Az adatkezelő
 
-b) az egészségbiztosítási nyilvántartás – ide nem értve a d) pont szerinti nyilvántartást – adatkezelője az egészségbiztosítási szerv,
+a) a nyugdíjbiztosítási nyilvántartás vonatkozásában a központi nyugdíjbiztosítási szerv,
 
-c) a járulék bevallását, befizetését, végrehajtását tartalmazó nyilvántartás adatkezelője az állami adóhatóság,
+b) az egészségbiztosítási nyilvántartás – ide nem értve a d) és e) pont szerinti nyilvántartást – vonatkozásában az egészségbiztosítási szerv,
 
-d) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás adatkezelője a rehabilitációs hatóság.
+c) a járulék bevallását, befizetését, végrehajtását tartalmazó nyilvántartás vonatkozásában az állami adóhatóság,
+
+d) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartás vonatkozásában a rehabilitációs hatóság,
+
+e) a TAJ nyilvántartás vonatkozásában a kincstár központi szerve.
