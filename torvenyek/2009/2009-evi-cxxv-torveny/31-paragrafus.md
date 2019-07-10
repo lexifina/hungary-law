@@ -54,7 +54,7 @@ c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásána
 
 részletes szabályokat.
 
-(7) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy rendeletben állapítsa meg
+(7) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) a jelnyelvi tolmácsszolgálatok pályáztatásával összefüggő szabályokat és a térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására vonatkozó részletes szabályokat,
 
