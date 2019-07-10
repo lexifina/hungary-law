@@ -4,7 +4,7 @@
 
 (2) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkereséshez csatolni kell a követelés megállapításáról szóló döntést.
 
-(3) A végrehajtási eljárás elrendelését követően benyújtott fizetési kedvezmény iránti kérelem elbírálása során az állami adó- és vámhatóság a 109. § alapján jár el azzal, hogy a tartozás mérséklésének nincs helye.
+(3) A végrehajtási eljárás elrendelését követően benyújtott fizetési kedvezmény iránti kérelem elbírálása során az állami adó- és vámhatóság a 110. § alapján jár el.
 
 (4) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló pénzkövetelések végrehajtása során az állami adó- és vámhatóság a 108. §-ban foglaltaktól eltérően a pénzköveteléseket behajthatatlanként nyilvántarthatja.
 

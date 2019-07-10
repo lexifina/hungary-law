@@ -24,6 +24,14 @@ g) annak a jogszabályhelynek pontos megjelölését, amely az adók módjára v
 
 (6) A behajtási eljárást az adóhatóság csak pontos – szükség esetén kiegészített – adatok alapján indítja meg. Az adóhatóság behajtási eljárás feltételeinek vizsgálata mellett a behajtási megkeresésben szereplő tartozást sem jogalapjában, sem összegszerűségében nem vizsgálja felül, a megkeresésben foglaltakhoz kötve van.
 
+(6a) Ha a behajtási eljárás feltételeinek vizsgálata során megállapítható, hogy a megkeresésben foglalt
+
+a) követelés végrehajtásához való jog elévült,
+
+b) (4) bekezdés b) pontja szerinti azonosító adatok és az adóhatóság nyilvántartásai alapján az adós személye nem beazonosítható,
+
+az adóhatóság a megkeresést végzéssel visszautasítja.
+
 (7) A megkeresést követő változásról a behajtást kérő az adóhatóságot haladéktalanul értesíteni köteles.
 
 (8) Az adók módjára behajtandó köztartozások esetén a 30. § (2) bekezdés alkalmazásának nincs helye.

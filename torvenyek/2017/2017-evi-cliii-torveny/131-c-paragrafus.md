@@ -1,0 +1,1 @@
+131/C. § E törvénynek a Magyarország 2020. évi központi költségvetésének a megalapozásáról szóló 2019. évi LXVI. törvénnyel (a továbbiakban: Módtv.2.) megállapított 108. §-át és 125/A. § (3) bekezdését a Módtv.2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
