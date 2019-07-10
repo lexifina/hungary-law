@@ -17,21 +17,3 @@ E törvény
 7. a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
 
 8. a környezeti információkhoz való nyilvános hozzáférésről és a 90/313/EGK irányelv hatályon kívül helyezéséről szóló, 2003. január 28-i 2003/4/EK európai parlamenti és tanácsi irányelvnek,
-
-9. az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek,
-
-10. az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
-
-11. a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvnek,
-
-12. a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelvnek,
-
-13. a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló, 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
-
-14. a polgári és kereskedelmi ügyekben végzett közvetítés egyes szempontjairól szóló, 2008. május 21-i 2008/52/EK európai parlamenti és tanácsi irányelvnek,
-
-15. az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelvnek,
-
-16. a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló, 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelvnek,
-
-17. az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról szóló, 2011. június 8-i 2011/61/EU európai parlamenti és tanácsi irányelvnek,

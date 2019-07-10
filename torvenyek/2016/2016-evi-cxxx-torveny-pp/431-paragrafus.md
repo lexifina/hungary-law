@@ -8,4 +8,6 @@
 
 (3) Ha a félnek nincs perbeli cselekvőképessége, és közte, valamint a törvényes képviselője között érdekellentét áll fenn, a bíróság – a származási perek körében meghatározott kivétellel – a fél képviseletére ügygondnokot rendel.
 
-(4) A perben a nem ügyvéd vagy ügyvédi iroda részére adott meghatalmazáson a fél aláírását, illetve kézjegyét közjegyző által hitelesíttetni kell.
+(4) A perben a természetes személy által a nem ügyvéd vagy ügyvédi iroda részére adott meghatalmazáson a fél aláírását, illetve kézjegyét közjegyző által hitelesíttetni kell.
+
+(5) A gyámhatóság által indított perben, vagy amelyet a gyámhatóság ellen indítanak, a gyámhatóság a jogi képviselő nélkül eljáró fél számára rendszeresített nyomtatványok használatára nem köteles.

@@ -1,12 +1,8 @@
 ### 259. § [Az eljárás megszüntetése]
 
-(1) A bíróság – a (2) bekezdésben meghatározott kivétellel – hiánypótlási felhívás mellőzésével az eljárást megszünteti, ha a felperes a közjegyző felhívásának kézbesítésétől számított tizenöt napon belül
+(1) A bíróság – a (2) bekezdésben meghatározott kivétellel – hiánypótlási felhívás mellőzésével az eljárást megszünteti, ha a felperes a közjegyző felhívásának kézbesítésétől számított tizenöt napon belül nem teljesíti illetékfizetési kötelezettségét, illetve a keresetet tartalmazó iratot a közjegyző felhívásában megjelölt bíróságon nem terjeszti elő.
 
-a) nem teljesíti illetékfizetési kötelezettségét, illetve a keresetet tartalmazó iratot a közjegyző felhívásában megjelölt bíróságon nem terjeszti elő, vagy
-
-b) csak részben teljesíti illetékfizetési kötelezettségét, illetve a keresetet tartalmazó iratban nem tünteti fel annak kötelező tartalmi elemeit, illetve nem csatolja annak kötelező mellékleteit, kivéve, ha a hiányzó elem – ide nem értve a képviselő képviseleti jogának igazolását – a közjegyzői iratanyagból megállapítható.
-
-(2) Ha a felperes a járásbíróság hatáskörébe tartozó perben jogi képviselő nélkül jár el, az (1) bekezdés b) pontjában meghatározott esetben, valamint ha a keresetet tartalmazó iratot nem jogszabály szerinti nyomtatványon terjeszti elő, az eljárás megszüntetésének csak akkor van helye, ha a bíróság tizenöt napos határidővel – a mulasztás következményére történő figyelmeztetés mellett – a felperest hiánypótlásra felhívta és az eredménytelenül eltelt.
+(2) Ha a felperes csak részben teljesíti illetékfizetési kötelezettségét, a keresetet tartalmazó iratban nem tünteti fel annak kötelező tartalmi elemeit vagy nem csatolja annak kötelező mellékleteit, az eljárás megszüntetésének van helye, ha a bíróság tizenöt napos határidővel, a mulasztás következményére történő figyelmeztetés mellett a felperest hiánypótlásra felhívta és a határidő eredménytelenül eltelt. Akkor is megszünteti a bíróság az eljárást, ha a járásbíróság hatáskörébe tartozó perben jogi képviselő nélkül eljáró felperes a keresetet tartalmazó iratot nem jogszabály szerinti nyomtatványon terjeszti elő, és a bíróság tizenöt napos határidőt meghatározó, a mulasztás következményére történő figyelmeztetés melletti hiánypótlási felhívásában megadott határidő eredménytelenül eltelt. Nincs helye az eljárás megszüntetésének, ha a keresetet tartalmazó irat hiányzó eleme – ide nem értve a képviselő képviseleti jogának igazolását – a közjegyzői iratanyagból megállapítható.
 
 (3) Ha keresetlevéllel indult per esetében a 176. § (1) bekezdés a)–i) pontjában vagy (2) bekezdés a)–c) pontjában foglalt valamely ok miatt a keresetlevél visszautasításának lenne helye, a 255. § (1) bekezdésében meghatározott per esetében az eljárást hivatalból meg kell szüntetni.
 
