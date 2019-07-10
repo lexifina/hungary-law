@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-33-00-00
 | 2016-07-01 | 2016. évi LXIV. törvény | 2016-33-00-00.3 |
 | 2018-05-18 | 2018. évi V. törvény | 2016-33-00-00.4 |
 | 2019-02-01 | 2018. évi CXV. törvény | 2016-33-00-00.5 |
+| 2019-07-10 | 2019. évi LXVI. törvény | 2016-33-00-00.6 |

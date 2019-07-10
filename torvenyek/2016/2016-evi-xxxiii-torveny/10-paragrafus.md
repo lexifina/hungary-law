@@ -1,25 +1,31 @@
-## 7. Adatkezelési szabályok
+## 7. Adatkezelési szabályok, a szakértői névsor összeállítása, a névsorban szereplő adatok és tények nyilvántartása
 
-10. § (1) A munkáltató a 3. § (2) bekezdés a) pontjában foglalt feltételnek való megfelelés ellenőrzése céljából kezeli
+10. § (1) A munkáltató
 
-a) az értékelőként jogviszonyt létesíteni szándékozó személy,
+a) a 3. § (2) bekezdés a) pontjában foglalt feltételnek való megfelelés ellenőrzése,
 
-b) az értékelő
+b) az európai uniós források felhasználásával megvalósuló egyes projektek objektív és a piaci szereplők érdekeitől független értékelésének ellenőrzése,
 
-azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+c) az állami projektértékelői jogviszonnyal összefüggő munkáltatói intézkedések és jognyilatkozatok előkészítésének és meghozatalának biztosítása, valamint
 
-(2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – a jogviszony megszűnéséig (megszüntetéséig) kezeli.
+d) az állami projektértékelői jogviszonnyal összefüggő jogok gyakorlásának és kötelezettségek teljesítésének biztosítása
 
-(3) A munkáltató a jogviszonyból származó jogok gyakorlásának és kötelezettségek teljesítésének elősegítése céljából kezeli az értékelő munkaszerződésben és a szakértői névsorban szereplő személyes adatait.
+céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó személy és az állami projektértékelő személyes adatait, valamint a 4. § (3) bekezdése szerinti nyilatkozatát, és azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(4) A szakértői névsorba bejegyzett adatok közül az értékelő neve és tématerülete közérdekből nyilvános adatnak minősül.
+(2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – 2027. december 31-ig kezeli.
 
-(5) A szakértői névsorral kapcsolatos adatkezelés jogszerűségéért és az adatszolgáltatásért a miniszter a felelős.
+(3) A munkáltató a pályázó, illetve értékelő
 
-(6) A munkáltató köteles az értékelőt tájékoztatni személyes adatainak kezeléséről. A munkáltató az értékelőre vonatkozó tényt, adatot, véleményt harmadik személlyel csak törvényben meghatározott esetben vagy az értékelő hozzájárulásával közölhet.
+a) állami projektértékelő jogviszonya létesítéséhez – a Kormány rendeletében – előírt iskolai végzettséget igazoló oklevelét, bizonyítványát, illetve a szakmai tapasztalat igazolását, továbbá
 
-(7) A jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató az értékelő személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – az adatfeldolgozó számára átadhatja. Erről az értékelőt előzetesen tájékoztatni kell.
+b) fizetési számlára vonatkozó, a fizetési számláját kezelő pénzforgalmi szolgáltató által kiállított igazolást
 
-(8) Az értékelőre vonatkozó adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – hozzájárulása nélkül, személyazonosításra alkalmatlan módon – átadhatók.
+másolati vagy elektronikus formában ellenőrzés céljából írásban, az ellenőrzés céljának megjelölésével bekérheti.
 
-(9) A Kormány rendeletben állapítja meg a szakértői névsor összeállítására, a névsorban szereplő adatok és tények nyilvántartásának eljárási rendjére vonatkozó – e törvényben nem szabályozott – részletes szabályokat.
+(4) Az értékelő köteles öt napon belül bejelenteni a nyilvántartott adataiban bekövetkezett változást.
+
+(5) A munkáltató az értékelőre vonatkozó tényt, adatot, véleményt harmadik személlyel csak törvényben meghatározott esetben vagy az értékelő hozzájárulásával közölhet.
+
+(6) Az értékelőt előzetesen tájékoztatni kell arról, ha a jogviszonyból származó kötelezettségek teljesítése céljából a munkáltató az értékelő személyes adatait – az adatszolgáltatás céljának megjelölésével, törvényben meghatározottak szerint – az adatfeldolgozó számára átadja.
+
+(7) Az értékelőre vonatkozó adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – az értékelő hozzájárulása nélkül, személyazonosításra alkalmatlan módon – átadhatók.

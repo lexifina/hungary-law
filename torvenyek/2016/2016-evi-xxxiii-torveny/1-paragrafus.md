@@ -10,9 +10,9 @@
 
 a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, állami tisztviselőként vagy köztisztviselőként,
 
-b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként,
+b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, valamint állami felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
 
-c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként vagy közalkalmazottként, vagy
+c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként vagy közalkalmazottként vagy
 
 d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként
 
@@ -26,4 +26,12 @@ d) többségi állami befolyás alatt álló gazdasági társaságnál munkavál
 
 (6) A (4) bekezdésben foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet meghatározhatja.
 
-(7) E törvényt – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvényben (a továbbiakban: KFItv.) meghatározott, továbbá a KFItv. alapján kötött megállapodásban foglalt, kutatás-fejlesztési és innovációs projektekkel kapcsolatos, illetve támogatási kérelmekre vonatkozó értékelési feladatokra és eljárásokra.
+(7) E törvényt – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni
+
+a) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvényben (a továbbiakban: KFItv.) meghatározott, továbbá
+
+b) a KFItv. alapján kötött megállapodásban foglalt, kutatás-fejlesztési és innovációs, illetve a szélessávú infrastruktúra kiépítéséhez és fejlesztéséhez nyújtott beruházási támogatásokra vonatkozó projektekkel kapcsolatos, illetve támogatási kérelmekre vonatkozó
+
+értékelési feladatokra és eljárásokra.
+
+(8) E törvényt nem kell alkalmazni a (4) vagy (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.

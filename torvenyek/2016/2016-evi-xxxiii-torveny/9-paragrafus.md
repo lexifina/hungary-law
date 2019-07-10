@@ -26,8 +26,12 @@ a) az esetileg meghatározott feladat teljesítését nem vállalja,
 
 b) egy naptári éven belül neki felróható okból határidőt mulasztott,
 
-c) megszegte a keretszerződésben megállapított feltételeket.
+c) megszegte a keretszerződésben megállapított feltételeket,
+
+d) vonatkozásában lefolytatott ellenőrzés során összeférhetetlenség kerül megállapításra.
 
 (6) Az értékelő – az (1) bekezdés b) pontja szerinti esetben annak törvényes örököse – az (1) és (2) bekezdésben felsorolt esetekben a jogviszonya megszűnésekor köteles a munkáltatóval elszámolni.
 
 (7) A jogviszony megszűnésével egyidejűleg az értékelő adatait a szakértői névsorból törölni kell.
+
+(8) Az alapjogviszony szerinti munkáltató köteles az (1) bekezdés b)–d) pontja szerinti feltételek bekövetkezéséről a munkáltatót tájékoztatni.
