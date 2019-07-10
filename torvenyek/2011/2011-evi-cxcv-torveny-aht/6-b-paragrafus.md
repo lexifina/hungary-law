@@ -1,6 +1,6 @@
 6/B. § (1) A központi kezelésű előirányzatokhoz, a fejezeti kezelésű előirányzatokhoz, az elkülönített állami pénzalapokhoz és a társadalombiztosítás pénzügyi alapjaihoz kapcsolódó tervezési, gazdálkodási, ellenőrzési, adatszolgáltatási és beszámolási feladatokat a fejezetet irányító szerv látja el a következők figyelembevételével:
 
-a) a kormányhivatal és az alapításáról rendelkező törvény vagy kormányrendelet ilyen rendelkezése alapján a törvénnyel vagy kormányrendelettel alapított más költségvetési szerv a Kormány rendeletében meghatározott szabályok szerint fejezetet irányító szervi jogállással bír,
+a) a kormányzati főhivatal és az alapításáról rendelkező törvény ilyen rendelkezése alapján a törvénnyel vagy kormányrendelettel alapított más költségvetési szerv a Kormány rendeletében meghatározott szabályok szerint fejezetet irányító szervi jogállással bír,
 
 b) a fejezetet irányító szerv feladatait
 

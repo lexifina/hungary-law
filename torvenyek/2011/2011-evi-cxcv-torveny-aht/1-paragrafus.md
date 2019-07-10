@@ -60,6 +60,8 @@ l) a vis maior támogatásokat,
 
 m) a határon túli, magát magyar nemzetiségűnek valló természetes személy részére jogszabály alapján nyújtható támogatásokat,
 
+n) az állam hitelfelvételét is tartalmazó nemzetközi szerződésben meghatározott, kizárólagos állami tulajdonú vagyon fejlesztését szolgáló beruházás megvalósítása érdekében 100%-os állami tulajdonú gazdasági társaság részére nyújtott támogatásokat,
+
 15. kötelezettségvállalás: a kiadási előirányzatok, és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére fizetési kötelezettség vállalásáról szóló – így különösen a foglalkoztatásra irányuló jogviszony létesítésére, szerződés megkötésére, költségvetési támogatás biztosítására irányuló – szabályszerűen megtett jognyilatkozat,
 
 16.

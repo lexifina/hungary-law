@@ -12,6 +12,8 @@ d) a támogatásra vonatkozó valamely feltételt megszegett
 
 [e Fejezet alkalmazásában az a)–d) pont a továbbiakban együtt: jogosulatlan igénybevétel], a támogatásról vagy annak a jogosulatlan igénybevétellel érintett részéről haladéktalanul köteles lemondani és azt visszafizetni.
 
+(1a) Ha a jogosulatlan igénybevételt a kincstár az 59. § szerinti felülvizsgálati eljárásban állapítja meg, a visszafizetési kötelezettséget megállapító határozat meghozatala során mérlegelési jogkör gyakorlásának helye nincs.
+
 (2) Jogosulatlan igénybevétel esetén és a visszafizetési kötelezettség késedelmes teljesítése esetén a helyi önkormányzat jogszabályban meghatározott mértékű ügyleti, illetve azon felül késedelmi kamatot fizet. Ha a helyi önkormányzat visszafizetési kötelezettségnek nem tesz eleget, a kincstár – az engedélyezett részletfizetés kivételével – beszedési megbízást nyújt be a kötelezett fizetési számlájára.
 
 (3) A helyi önkormányzat kérelme alapján a visszafizetési és kamatfizetési kötelezettségére vonatkozóan – a késedelmi kamat kivételével – a kincstár legfeljebb tizenkét havi részletfizetést engedélyezhet, ha a kérelmező igazolja, hogy kötelező feladatainak ellátását az egyösszegű visszafizetés veszélyeztetné. A részletfizetésről hozott határozattal szemben nincs helye fellebbezésnek. A részletfizetési kérelem benyújtására meghatározott határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.

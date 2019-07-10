@@ -16,7 +16,7 @@ d) az irányítása alá tartozó bármely, a köztulajdonban álló gazdasági 
 
 (4) Aki költségvetési szervnél belső ellenőrzési tevékenységet kíván végezni, köteles az erre irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint az államháztartásért felelős miniszter részére bejelenteni. Költségvetési szervnél belső ellenőrzési tevékenységet csak az végezhet, aki cselekvőképes, büntetlen előéletű, nem áll a belső ellenőrzés körébe tartozó tevékenység vonatkozásában a foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik a jogszabályban előírt végzettséggel és gyakorlattal.
 
-(4a) Az ellenőrzés során a büntetlen előéletet igazoltnak kell tekinteni akkor is, ha a kérelmező munkáltatója igazolja, hogy a kérelmező jogszabály alapján büntetlen előélethez vagy nemzetbiztonsági ellenőrzéshez kötött munkakörben dolgozik.
+(4a) Az ellenőrzés során a büntetlen előéletet igazoltnak kell tekinteni akkor is, ha a kérelmező munkáltatója igazolja, hogy a kérelmező jogszabály alapján büntetlen előélethez vagy nemzetbiztonsági ellenőrzéshez kötött álláshelyen vagy munkakörben dolgozik.
 
 (4b)–(4c)
 
@@ -46,6 +46,6 @@ j) a kötelező szakmai továbbképzésen történő részvétel idejét.
 
 (6) Az (5) bekezdésben meghatározott adatok közül a belső ellenőr nyilvántartási száma, neve és választása alapján az (5) bekezdés c)–f) pontjában meghatározott adatainak egyike nyilvános, ezen adatokról bárki tájékoztatást kaphat. A nyilvántartásba vételt végző szervezet a nyilvántartásban szereplő belső ellenőr nyilvános adatait honlapján nyilvánosságra hozza, és biztosítja, hogy a nyilvános adatokról a nyilvántartásba vételt végző szervezettől bárki tájékoztatást kaphasson.
 
-(7) Törölni kell a nyilvántartásból, aki a (4) bekezdésben, az (5) bekezdés szerinti nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesíti. A nyilvántartásba vétel, valamint a nyilvántartásból való törlés szabályait az államháztartásért felelős miniszter rendeletben állapítja meg. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
+(7) A tevékenység gyakorlásától el kell tiltani és törölni kell a nyilvántartásból, aki a (4) bekezdésben, az (5) bekezdés szerinti nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesíti. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
 
 (8) A belső ellenőri tevékenység bejelentésére a nyilvántartásba bejegyzett adatok módosítására és törlésére irányuló eljárásért az államháztartásért felelős miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.

@@ -8,4 +8,6 @@
 
 (4) A költségvetési felügyelő felett a (3) bekezdésben foglaltakon felüli munkáltatói jogokat a kincstár vezetője gyakorolja. A kincstár elnöke e jogkörök gyakorlásában nem utasítható.
 
-(5) A költségvetési felügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezetői munkakörben, a költségvetési felügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(5) A költségvetési felügyelő kormányzati szolgálati jogviszonyban áll. A költségvetési felügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezetői álláshelyen alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+
+(6) A kincstár elnöke – a (4) bekezdésben meghatározott feladatkörében eljárva – a költségvetési felügyelői megbízással rendelkező költségvetési felügyelők közül, az államháztartásért felelős miniszter egyidejű tájékoztatása mellett jelöli ki a költségvetési felügyelő helyettesét.

@@ -8,7 +8,7 @@ c) a b) ponttal összefüggésben házastársa, élettársa és eltartott gyerme
 
 d) iskolai és egyéb végzettségére vonatkozó adatának,
 
-e) foglalkoztatásával összefüggésben a fennálló és a korábbi munkahely megnevezésének, a jogviszony jellegének, a beosztásának, a besorolásának, a munkakörének, a jogviszonya kezdete és befejezése időpontjának
+e) foglalkoztatásával összefüggésben a fennálló és a korábbi munkahely megnevezésének, a jogviszony jellegének, a beosztásának, a besorolásának, a munkakörének, álláshelyének, a jogviszonya kezdete és befejezése időpontjának
 
 kezelésére.
 

@@ -14,7 +14,7 @@
 
 (8) A munkavállaló munkaviszonyát a jogállásváltozást követően a rá irányadó jogállási törvény szerint közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, politikai szolgálati, biztosi, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyban töltött időként kell elismerni.
 
-(9) A munkaviszonyban álló vezető jogviszonyának átalakulását követően – a jogállási törvény figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
+(9) A munkaviszonyban álló vezető jogviszonyának átalakulását követően – a jogállási törvény figyelembevételével – kell a vezetői álláshelyet vagy munkakör szintjét és megnevezését megállapítani.
 
 (10) Ha a munkavállaló további foglalkoztatása – az átvevő költségvetési szervre irányadó jogállási törvény vonatkozó szabályaival összhangban – munkaviszonyban történik, abban az esetben az (1) bekezdéstől eltérően a munkaviszony nem alakul át. A munkavállaló részére a munkaszerződést a jogállásváltozás időpontját követő tizenöt napon belül kell átadni. A munkavállaló a munkaszerződés kézhezvételét követő tizenöt napon belül nyilatkozhat arról, hogy továbbfoglalkoztatásához nem járul hozzá, ebben az esetben a munkaviszony a jogállásváltozás időpontját követő harmincadik napon szűnik meg.
 
