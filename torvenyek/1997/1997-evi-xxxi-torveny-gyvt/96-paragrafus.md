@@ -14,7 +14,13 @@
 
 (7) Gyermekek napközbeni ellátása esetén a jogszabályban meghatározott szakmai, módszertani feladatokat a miniszter által kijelölt szervezet, egyéb esetben az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv (a továbbiakban együtt: módszertani feladatokat ellátó szerv) látja el.
 
-(8) A miniszter – az egyházi fenntartó kérelmére – a tanoda szolgáltatást, nevelőszülői ellátást, gyermekotthoni ellátást nyújtó, jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki (a továbbiakban: kijelölt egyházi módszertani intézmény) az egyházi fenntartású tanodák, nevelőszülői hálózatok és gyermekotthonok módszertani támogatására.
+(8) Az egyházi fenntartó kérelmére
+
+a) a miniszter a nevelőszülői ellátást, gyermekotthoni ellátást nyújtó,
+
+b) a társadalmi felzárkózásért felelős miniszter a tanoda szolgáltatást nyújtó,
+
+jogi személyiséggel és működési engedéllyel rendelkező egyházi fenntartású szolgáltatók közül országos hatáskörrel módszertani feladatokat ellátó intézményeket jelölhet ki az egyházi fenntartású tanodák, nevelőszülői hálózatok és gyermekotthonok módszertani támogatására (a továbbiakban: kijelölt egyházi módszertani intézmény).
 
 (8a)
 
@@ -34,6 +40,6 @@ e) kezdeményezi a személyes gondoskodást nyújtó munkakörben dolgozók tov�
 
 (11) A kijelölt egyházi módszertani intézmény módszertani tevékenységének biztosítása során együttműködik a módszertani feladatokat ellátó szervvel.
 
-(12) A miniszter a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
+(12) A miniszter – tanoda szolgáltatás esetén a társadalmi felzárkózásért felelős miniszter – a kijelölt egyházi módszertani intézmény feladatainak ellátásához egyedi támogatást nyújt.
 
 (13) Az egyházi fenntartó a tárgyév január 31-éig bejelentheti a működést engedélyező szervnek – ha az egyháznak az általa fenntartott intézmény tevékenysége vonatkozásában nincs módszertani intézménye –, hogy a módszertani tevékenységekkel összefüggésben a módszertani feladatokat ellátó szerv helyett mely kijelölt egyházi módszertani intézménnyel kíván együttműködni. A bejelentés annak közlését követő nyolcadik naptól hatályos. A bejelentésről a működést engedélyező szerv értesíti a módszertani feladatokat ellátó szervet. A bejelentés – a tárgyévet követő év január 1-jei hatállyal – visszavonható.

@@ -4,13 +4,13 @@
 
 a) a 21/B. §-ban meghatározott ingyenes vagy kedvezményes intézményi gyermekétkeztetésnek és – ha megfelel a 21/C. §-ban foglalt feltételeknek – a szünidei gyermekétkeztetésnek,
 
-b) a 20/A. §-ban meghatározott természetbeni támogatásnak,
+b) a 20/A. §-ban meghatározott pénzbeli támogatásnak,
 
 c) az e törvényben és más jogszabályban meghatározott egyéb kedvezményeknek
 
 az igénybevételére.
 
-(1a) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a gyermek családbafogadó gyámjául kirendelt hozzátartozó pénzbeli ellátásra jogosult, ha
+(1a) A rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a gyermek családbafogadó gyámjául kirendelt hozzátartozó kiegészítő pénzbeli ellátásra jogosult, ha
 
 a) a gyermek tartására köteles, és
 

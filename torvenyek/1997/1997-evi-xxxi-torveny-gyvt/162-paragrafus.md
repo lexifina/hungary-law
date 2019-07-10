@@ -82,7 +82,7 @@ j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályai
 
 k) a bölcsődében, mini bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
 
-l) a gyermekek esélynövelő szolgáltatásainak szakmai feladatait és működési feltételeit,
+l)
 
 m) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
 
@@ -90,7 +90,7 @@ n) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a na
 
 o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát,
 
-p) a Biztos Kezdet Alapképzés szakmai és vizsgakövetelményeit.
+p)
 
 (3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
 
@@ -99,3 +99,9 @@ p) a Biztos Kezdet Alapképzés szakmai és vizsgakövetelményeit.
 (5) Felhatalmazást kap a nevelési-oktatási intézményt fenntartó helyi önkormányzat, hogy rendeletben határozza meg azokat a szabályokat, amelyek keretei között a nevelési-oktatási intézmény vezetője egyéni rászorultság alapján kedvezményt állapít meg a gyermekétkeztetés térítési díjának megfizetésére.
 
 (6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben rendeletben szabályozza a megelőző pártfogásnak a pártfogó felügyelői tevékenységre vonatkozó szabályait.
+
+(7) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy rendeletben szabályozza
+
+a) a gyermekek esélynövelő szolgáltatásainak szakmai feladatait és működési feltételeit,
+
+b) a Biztos Kezdet Alapképzés szakmai és vizsgakövetelményeit.

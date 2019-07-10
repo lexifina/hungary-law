@@ -3,13 +3,3 @@
 (2) Ha a családi napközi és házi gyermekfelügyelet fenntartója 2016. augusztus 31-éig – a szülők, törvényes képviselők egyidejű tájékoztatása mellett – nem kérelmezi a szolgáltatói nyilvántartásba bejegyzett adatok módosítását a 2017. január 1-jétől hatályos rendelkezéseknek megfelelő ellátási forma bejegyzése érdekében, a működést engedélyező szerv 2016. november 30-áig hivatalból
 
 a) a kizárólag bölcsődés korú gyermekeket ellátó családi napközit családi bölcsődére,
-
-b) a nem kizárólag bölcsődés korú gyermekeket ellátó családi napközit napközbeni gyermekfelügyeletre, és
-
-c) a házi gyermekfelügyeletet napközbeni gyermekfelügyeletre
-
-módosítja.
-
-(3) Ha a napközbeni gyermekfelügyeletté átalakuló családi napközi a 145. § (2c) bekezdés b) pontja alapján nyert befogadást, a támogatás fejében a szolgáltatás biztosítására vállalt kötelezettség lejáratának időpontjáig az átalakult szolgáltatás finanszírozására a 2016. december 31-én hatályos, a családi napközi szolgáltatás finanszírozására vonatkozó szabályokat kell alkalmazni.
-
-(4) A napközbeni gyermekfelügyeletté átalakuló családi napközi a 2016. december 31-én hatályos, a családi napközi szolgáltatás finanszírozására vonatkozó szabályok szerint 2017. augusztus 31-éig elláthatja a gyermeket a kötelező óvodai nevelésben való részvétel ideje alatt is, ha a gyermek ellátásáról szóló megállapodást 2016. január 1-jét megelőzően megkötötték, és a szolgáltató megfelel az Nktv. 2015. december 31-én hatályos 8. § (5) bekezdésében foglalt feltételeknek. Ebben az esetben a gyermek 2017. augusztus 31-éig az óvodába járási kötelezettségét a napközbeni gyermekfelügyelet keretében is teljesítheti.

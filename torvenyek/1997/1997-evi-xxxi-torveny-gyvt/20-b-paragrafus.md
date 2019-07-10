@@ -1,18 +1,18 @@
 20/B. § (1)–(2)
 
-(3) A pénzbeli ellátás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
+(3) A kiegészítő pénzbeli ellátás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
 
-(4) A gyámhatóság annak a családbafogadó gyámként kirendelt hozzátartozónak, akinek pénzbeli ellátásra való jogosultsága
+(4) A gyámhatóság annak a családbafogadó gyámként kirendelt hozzátartozónak, akinek kiegészítő pénzbeli ellátásra való jogosultsága
 
-a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában – az augusztus hónapra járó pénzbeli ellátás összege mellett –,
+a) a tárgyév augusztus 1-jén fennáll, a tárgyév augusztus hónapjában – az augusztus hónapra járó kiegészítő pénzbeli ellátás összege mellett –,
 
-b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában – a november hónapra járó pénzbeli ellátás összege mellett –
+b) a tárgyév november 1-jén fennáll, a tárgyév november hónapjában – a november hónapra járó kiegészítő pénzbeli ellátás összege mellett –
 
 pótlékot folyósít.
 
 (5) A (4) bekezdés szerinti pótlék esetenkénti összege 2006. évben gyermekenként 7500 forint. A 2006. évet követően a pótlék összegének emeléséről az Országgyűlés a költségvetésről szóló törvény elfogadásával egyidejűleg dönt.
 
-(6) Ha a pénzbeli ellátást végleges döntéssel megállapították, az
+(6) Ha a kiegészítő pénzbeli ellátást végleges döntéssel megállapították, az
 
 a) a kérelem benyújtásától esedékes azzal, hogy ha a kérelmet
 
@@ -28,7 +28,7 @@ bb) a tárgyhónap tizenötödikét követően indult meg, a támogatás ötven 
 
 kell kifizetni.
 
-(7) Ha a pénzbeli ellátásra való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
+(7) Ha a kiegészítő pénzbeli ellátásra való jogosultság megszűnik, az a jogosultság megszűnésének hónapjáig esedékes azzal, hogy ha a megszűnés
 
 a) a tárgyhónap tizenötödikéig következik be, a támogatás ötven százalékát,
 

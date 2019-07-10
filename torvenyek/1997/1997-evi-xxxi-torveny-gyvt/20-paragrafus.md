@@ -14,7 +14,7 @@ b) felsőfokú oktatási intézmény nappali tagozatán tanul és a 25. életév
 
 és a nagykorúvá válását megelőző második hónap első napja, valamint a nagykorúvá válását megelőző nap közötti időszakban legalább egy napig rendszeres gyermekvédelmi kedvezményre volt jogosult.
 
-(3) A rendszeres gyermekvédelmi kedvezményre való jogosultságot, ideértve a 19. § (1a) bekezdés szerinti pénzbeli ellátásra való jogosultságot is, a gyámhatóság – hivatalból vagy kérelemre – felülvizsgálja, ha a megállapított jogosultság időtartama alatt a jogosultsági feltételekben változás következett be.
+(3) A rendszeres gyermekvédelmi kedvezményre való jogosultságot, ideértve a 19. § (1a) bekezdés szerinti kiegészítő pénzbeli ellátásra való jogosultságot is, a gyámhatóság – hivatalból vagy kérelemre – felülvizsgálja, ha a megállapított jogosultság időtartama alatt a jogosultsági feltételekben változás következett be.
 
 (4) A rendszeres gyermekvédelmi kedvezményre való jogosultság
 
