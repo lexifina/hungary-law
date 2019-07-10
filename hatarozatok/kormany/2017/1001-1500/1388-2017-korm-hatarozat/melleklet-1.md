@@ -112,13 +112,13 @@
 
 ## Határidő: 2019. augusztus 31.
 
-## d) felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy gondoskodjanak az Öblös-sporttelepen egy új atlétikai pálya kialakításáról;
+## d)[^1] felhívja az emberi erőforrások miniszterét és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak egy új atlétikai pálya kialakításáról;
 
-## Felelős: nemzeti fejlesztési miniszter
+## Felelős: emberi erőforrások minisztere
 
-## emberi erőforrások minisztere
+## Miniszterelnökséget vezető miniszter
 
-## Határidő: 2018. június 30.
+## Határidő: 2021. december 31.
 
 ## e) felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy vizsgálják meg egy új jégcsarnok megépítésének lehetőségét, és a vizsgálat alapján tegyenek javaslatot a Kormány részére a fejlesztés megvalósítására.
 
@@ -297,3 +297,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont d) alpontja az 1413/2019. (VII. 10.) Korm. határozattal megállapított szöveg.
