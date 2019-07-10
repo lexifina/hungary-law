@@ -4,7 +4,7 @@
 
 a) aki tartózkodási engedély iránti kérelmet nyújtott be és az engedély kiadásáig nemzeti vízumának vagy korábbi tartózkodási engedélyének érvényességi ideje lejárt, vagy e törvény szerint tartózkodási engedéllyel kell ellátni, továbbá akkor is, ha az 1. § (5) bekezdése alapján terjeszt elő tartózkodási engedély-kérelmet, kivéve, ha a tartózkodási engedély kiadása iránti kérelem előterjesztését megelőzően elrendelt kiutasításnak nem tett eleget;
 
-b) aki Magyarország területén ideiglenes letelepedési engedély iránti kérelmet nyújtott be;
+b) aki Magyarország területén ideiglenes letelepedési engedély vagy a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 94. § (2) bekezdése szerinti nemzeti letelepedési engedély iránti kérelmet nyújtott be;
 
 c) aki azért tartózkodik a jogszerű tartózkodás időtartamát meghaladóan Magyarország területén, mert kiutazását humanitárius, keresőtevékenységével összefüggő, nem önhibájából eredő személyes vagy elháríthatatlan ok fennállása akadályozza;
 

@@ -4,9 +4,9 @@
 
 a) a kérelem benyújtását közvetlenül megelőzően legalább három éven át jogszerűen és megszakítás nélkül Magyarország területén tartózkodott;
 
-b) a kérelem benyújtását közvetlenül megelőzően legalább egy éve eltartott felmenőként családi életközösségben él bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgárral;
+b) a kérelem benyújtását közvetlenül megelőzően legalább egy éve eltartott felmenőként családi életközösségben él magyar állampolgárral vagy bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgárral;
 
-c) bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár házastársa, feltéve, hogy a házasságot már a kérelem benyújtását megelőzően legalább két éve megkötötték;
+c) magyar állampolgár, bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár házastársa, feltéve, hogy a házasságot már a kérelem benyújtását megelőzően legalább két éve megkötötték;
 
 d) magyar állampolgár volt, de állampolgársága megszűnt, illetve akinek felmenője magyar állampolgár vagy magyar állampolgár volt;
 
