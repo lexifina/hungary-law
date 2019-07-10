@@ -6,7 +6,7 @@
 
 3. 11/F. § (9) bekezdésében a „munkakör” szövegrész helyébe az „álláshelyet vagy munkakör” szöveg,
 
-4. 36. § (4) bekezdésében az „Az (5) bekezdésben” szövegrész helyébe az „A Beruházás ösztönzési célelőirányzat előirányzata” szöveg,
+4.
 
 5. 36. § (4a) bekezdésében a „fejezeti kezelésű előirányzatok” szövegrész helyébe a „fejezeti kezelésű előirányzatok, valamint a 14. § (4) bekezdés a) és b) pontja szerinti fejezet központi kezelésű előirányzatai” szöveg,
 

@@ -1,5 +1,1 @@
-87. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10/D. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A megkötött adósságot keletkeztető ügyletekre, a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz, valamint az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező, illetve annál kisebb összegű meglévő adósság visszafizetése, akkor kell a Kormány engedélyét kérni, ha)
-
-„b) a módosított vagy az új szerződés az eredetihez képest hosszabb futamidejű, megváltozik az adósságot keletkeztető ügylet célja, az új adósságot keletkeztető ügylet keletkeztetésének ütemezése az eredetihez képest bármely évben meghaladja az eredeti ütemezés szerint az adott év végéig keletkező kumulált adósságösszeget, az önkormányzatot terhelő fizetési kötelezettség a futamidő lejártáig bármelyik évben meghaladja az eredeti szerződés szerinti értéket, a módosított szerződés az eredetihez képest nagyobb ügyletértékű vagy a kezesség, illetve a garancia összege nő.”
+87. §

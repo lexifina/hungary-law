@@ -14,7 +14,7 @@
 
 7. 25. § (2) bekezdésében a „közösségi adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok” szövegrész helyébe a „közösségi adószámának törlését, illetve e határozat” szöveg,
 
-8. 57. § (2) bekezdésében az „a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a cégbejegyzés napját tünteti fel” szövegrész helyébe az „a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a jogelőd cég törlésének napját tünteti fel” szöveg,
+8.
 
 9. 63. § (1) bekezdésében az „egyéni cég bejegyzése esetén” szövegrész helyébe az „egyéni cég, vagy az Evectv. 19/C. §-a szerinti alapítás esetén a korlátolt felelősségű társaság bejegyzése esetén” szöveg, és
 
