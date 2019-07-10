@@ -10,7 +10,7 @@
 
 (5) A vételárrészlet a részletvevő által fizetett lakbér mértékével megegyező összeg az e törvény végrehajtására kiadott rendeletben foglalt eltérésekkel.
 
-(6) Az ingatlanügyi hatóság az ingatlannyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Nemzeti Eszközkezelőnek a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonos ingatlannyilvántartásról szóló törvényben meghatározott személyes adatait, a tulajdoni hányadot és a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzése iránti kérelmet tartalmazó okirata alapján jegyzi be.
+(6) Az ingatlanügyi hatóság az ingatlannyilvántartásról szóló 1997. évi CXLI. törvény 32. § (1) és (2) bekezdésétől eltérően az (1) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a Nemzeti Eszközkezelőnek a tulajdonjogot keletkeztető jogszabályhelyet, helyrajzi számot, a tulajdonos ingatlannyilvántartásról szóló törvényben meghatározott személyes adatait, a tulajdoni hányadot és a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzése iránti kérelmet tartalmazó okirata alapján jegyzi be. Az okirathoz a Nemzeti Eszközkezelő csatolja az (1) bekezdés szerinti nyilatkozat másolati példányát.
 
 (7) A Nemzeti Eszközkezelő megküldi az ingatlanügyi hatóságnak a (6) bekezdés szerinti bejegyzés alapjául szolgáló okiratot.
 
