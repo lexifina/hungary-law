@@ -7,3 +7,11 @@
 (4) A tartós helyettesítési megállapodás megszűnését – ideértve a 34. § (2) bekezdésében meghatározott megállapodás megszűnését is – mindkét fél köteles haladéktalanul bejelenteni a területi kamara elnökének. Ha a tartós helyettesítés ezzel egyidejűleg nem szűnik meg, a területi kamara elnöksége a változást átvezeti a közjegyzői névjegyzéken.
 
 (5) A tartós helyettes kirendelését a területi kamara elnöksége visszavonja, és ezzel egyidejűleg a tartós helyettest törli a közjegyzői névjegyzékből, ha a kirendelés oka megszűnt vagy a kirendelés feltételei már nem állnak fenn.
+
+(6) Ha a tartós helyettes kirendelésének oka megváltozik, azt a területi kamara
+
+a) a 34. § (1) bekezdés a) pontja esetén hivatalból,
+
+b) a 34. § (1) bekezdés b) pontja esetén a közjegyzőnek a kirendelés alapjául szolgáló körülmények megváltozásának tényét és időpontját tartalmazó bejelentése alapján
+
+észleli, és gondoskodik a tartós helyettesítés folyamatosságáról.

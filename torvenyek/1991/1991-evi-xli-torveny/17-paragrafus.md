@@ -22,7 +22,7 @@ i) a pályaalkalmassági vizsgálat eredménye alapján a közjegyzői hivatás 
 
 a) bírói, ügyészi, ügyvédi, kamarai jogtanácsosi vagy közjegyzői működés,
 
-b) a jogi szakvizsga megszerzését követően központi közigazgatási szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben szerzett kormánytisztviselői, illetve köztisztviselői gyakorlat, vagy
+b) a jogi szakvizsga megszerzését követően a kormányzati igazgatásról szóló törvény szerinti központi kormányzati igazgatási szervnél, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 2. §-a szerinti szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben szerzett kormánytisztviselői, illetve köztisztviselői gyakorlat, vagy
 
 c) a jogi szakvizsga megszerzését követően szerzett alkotmánybírói, nemzetközi szervezetnél vagy az Európai Unió valamely szervénél ítélkezési vagy az igazságszolgáltatással összefüggő tevékenységből eredő gyakorlat.
 
