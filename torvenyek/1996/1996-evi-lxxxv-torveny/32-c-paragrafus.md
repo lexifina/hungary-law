@@ -36,7 +36,7 @@ la) a visszavásárlási jog bejegyzésére és törlésére irányuló eljárá
 
 lb) a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzésére irányuló eljárás,
 
-lc) a Nemzeti Eszközkezelő Zrt. vagyonkezelői jogának törlésére irányuló eljárás,
+lc) a Nemzeti Eszközkezelő Zártkörűen Működő Részvénytársaság vagyonkezelői jogának bejegyzésére és törlésére irányuló eljárás,
 
 ld) a magánszemély tulajdonszerzésének bejegyzésére irányuló eljárás,
 
