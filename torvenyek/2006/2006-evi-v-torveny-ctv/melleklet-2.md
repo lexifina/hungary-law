@@ -60,6 +60,8 @@
 
 ## c) a tőkeleszállításra vonatkozó közlemény közzétételét igazoló lappéldánykivonatok;
 
+## d) az Evectv. 19/C. §-a szerinti alapítás esetén a korlátolt felelősségű társaság nyitó mérleg-tervezete és az Evectv. 19/D. § (1) bekezdés b) pontja szerinti leltár.
+
 ## 2. a)
 
 ## b) zárt körű részvénytársaság alapításával összefüggésben a részvények átvételére kijelölt személyeknek a részvények átvételére vonatkozó kötelezettségvállalását tartalmazó okirat;
@@ -139,6 +141,8 @@
 ## a) hitelintézet igazolása a pénzbeli hozzájárulás befizetéséről, illetve ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozat a pénzbeli hozzájárulásnak a társaság rendelkezésére bocsátásáról,
 
 ## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról, a tagnak a nem pénzbeli hozzájárulás értékelésére vonatkozó nyilatkozatával együtt;
+
+## c) az egyéni cég nyitó mérleg-tervezete és az Evectv. 27. § (3) bekezdés b) pontja szerinti vagyonleltár.
 
 ## 10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási, a cégbejegyzést követően az alapító okiratának, illetve cégadatának módosítási engedélye;
 

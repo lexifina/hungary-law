@@ -30,7 +30,9 @@ d)
 
 e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát,
 
-f) a cég EUID-ját.
+f) a cég EUID-ját,
+
+g) azt a tényt, hogy az alapításra az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evectv.) 19/C. §-a szerint került sor, továbbá az alapító egyéni vállalkozó nevét és nyilvántartási számát.
 
 (4)
 

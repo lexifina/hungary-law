@@ -16,7 +16,7 @@ g) a képviselet módját (önálló, együttes vagy ha a vezető tisztségvisel
 
 h) a cég vezető tisztségviselője, illetve a cég képviseletére jogosult nevét, adóazonosító számát, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, valamint a képviseletre jogosultak tisztségét, e jogviszonyuk keletkezésének időpontját, határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját is, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját, továbbá azt a tényt, ha a cég képviselőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintája benyújtásra került,
 
-i) a cég adószámát, valamint statisztikai számjelét, továbbá ha a cég adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
+i) a cég adószámát, valamint statisztikai számjelét, továbbá ha a cég adószámát törölték, akkor a törlést, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
 
 j) a cég valamennyi pénzforgalmi számláját, valamint az azokat vezető pénzforgalmi szolgáltatók nevét és székhelyét,
 
@@ -26,7 +26,7 @@ l) a k) pontban foglalt végzésnek megfelelően – elektronikus bejegyzéssel 
 
 m) a cég elektronikus kézbesítési címét,
 
-n) a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét
+n) a cégnek az E-ügyintézési tv. szerinti hivatalos elérhetőségét
 
 (2)
 
@@ -38,7 +38,7 @@ n) a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások által
 
 (4b) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég főtevékenységének és további tevékenységi köreinek változásait, a mindenkor hatályos TEÁOR nómenklatúra szerinti megjelöléssel. Az adat bejegyzése és közzététele automatikusan történik meg.
 
-(5) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
+(5) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég adószámának törlését, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
 (6) Az (1) bekezdés j) pontjában meghatározott pénzforgalmi számlára vonatkozó adatot a számlát vezető pénzforgalmi szolgáltató elektronikus adattovábbítás útján köteles bejelenteni a cégbíróságon a számla megnyitását követő nyolc napon belül. Ez a rendelkezés irányadó a pénzforgalmi számla megszűnése esetén is. A bejelentés nem esik illeték, illetve közzétételi költségtérítés fizetési kötelezettség alá. Az adat bejegyzése és közzététele automatikusan, a törvény erejénél fogva történik meg. Ha a számlavezető pénzforgalmi szolgáltató e kötelezettségének nem, vagy nem határidőben tesz eleget, a cégbíróság erről tájékoztatja a Magyar Nemzeti Bankot.
 
@@ -46,6 +46,6 @@ n) a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások által
 
 (8) Az (1) bekezdés m) pontja szerinti kézbesítési címen a cég a részére elektronikus úton megküldött hivatalos iratok átvételét biztosítja. A cégbíróság e címre a 39/A. § alkalmazásával kézbesít.
 
-(9) A cégbíróság az (1) bekezdés n) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartást vezető szerv elektronikus értesítése alapján, hivatalból jegyzi be, ha azt a cég oda jelentette be.
+(9) A cégbíróság az (1) bekezdés n) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartást vezető szerv elektronikus értesítése alapján, hivatalból jegyzi be.
 
-(10) Ha a cég az (1) bekezdés n) pontja szerinti adatot a cégbíróság felé jelentette be, a cégbíróság a bejegyzésről a (9) bekezdés szerinti nyilvántartást vezető szervet elektronikus úton értesíti.
+(10)

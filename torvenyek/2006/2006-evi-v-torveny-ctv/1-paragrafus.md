@@ -25,3 +25,5 @@ c) biztosítja a tagállami központi nyilvántartások, kereskedelmi nyilvánta
 d) jogi tanácsadó szolgálatot tart fenn annak érdekében, hogy a mikro- és kisvállalkozások a cégalapítással, a cégek megszüntetésével összefüggő jogilag jelentős információkat – korszerű informatikai eszközök alkalmazása révén – közérthető megfogalmazásban, költségmentesen is megismerhessék;
 
 e)
+
+(3) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer adatkezelője a céginformációs szolgálat.

@@ -24,7 +24,7 @@ k) kiskorú tag (tulajdonos) esetén a törvényes képviselő nevét és lakóh
 
 l) a külföldi jogi személy, illetve magyarországi lakóhellyel nem rendelkező természetes személy kézbesítési megbízottjának nevét (cégnevét), lakóhelyét (székhelyét),
 
-m) a cég közösségi adószámát, továbbá ha a cég közösségi adószáma alkalmazását felfüggesztették vagy azt törölték, akkor a felfüggesztést, a felfüggesztés megszüntetését, a törlést, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
+m) a cég közösségi adószámát, továbbá ha a cég közösségi adószámát törölték, akkor a törlést, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját,
 
 n) azt, hogy a cégjegyzékben szereplő adatok, illetve a cégiratok fordítása az Európai Unió melyik hivatalos nyelvén szerepel a cégnyilvántartásban,
 
@@ -46,7 +46,7 @@ v) azt a tényt, ha a cég tagja, képviseletére jogosult személy eltiltás ha
 
 z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg.
 
-(2) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég közösségi adószáma alkalmazásának felfüggesztését, törlését, a felfüggesztés megszüntetését, illetve e határozatok megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
+(2) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég közösségi adószámának törlését, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
 (3) A cégbíróság az (1) bekezdés p) pontjában meghatározott adatot – az elismert vállalatcsoport uralkodó tagjának a vállalatcsoport létrehozására vonatkozó bejelentése alapján – hivatalból jegyzi be a többi érintett cég (ellenőrzött társaság) cégjegyzékébe.
 
