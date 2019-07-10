@@ -2,6 +2,6 @@
 
 (2) A közalkalmazotti tanács és a munkáltató kapcsolatrendszerét érintő egyes kérdések a közalkalmazotti szabályzatban állapíthatók meg.
 
-(3) A közalkalmazotti szabályzat kollektív szerződésre tartozó kérdéseket nem szabályozhat.
+(3)
 
 (4)

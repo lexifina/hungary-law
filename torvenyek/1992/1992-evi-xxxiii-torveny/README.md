@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2019-01-01 | 2018. évi XCIV. törvény | 1992-33-00-00.114 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1992-33-00-00.115 |
 | 2019-03-01 | 2018. évi CXXV. törvény | 1992-33-00-00.116 |
+| 2019-07-10 | 2019. évi LXVI. törvény | 1992-33-00-00.117 |
