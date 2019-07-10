@@ -4,7 +4,7 @@
 
 459. § (1) E törvény alkalmazásában
 
-1. bűnszervezet: három vagy több személyből álló, hosszabb időre szervezett, összehangoltan működő csoport, amelynek célja ötévi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények elkövetése;
+1. bűnszervezet: legalább három személyből álló, hosszabb időre, hierarchikusan szervezett, konspiratívan működő csoport, amelynek célja ötévi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények elkövetése;
 
 2. bűnszövetség akkor létesül, ha két vagy több személy bűncselekményeket szervezetten követ el, vagy ebben megállapodik, és legalább egy bűncselekmény elkövetését megkísérlik, de nem jön létre bűnszervezet;
 
