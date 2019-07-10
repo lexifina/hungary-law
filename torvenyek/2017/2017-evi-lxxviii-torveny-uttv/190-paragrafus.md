@@ -52,4 +52,4 @@ f) az egyszemélyes ügyvédi iroda helyettes ügyvédje nevét és kamarai azon
 
 (4) Az ügyvédi kamarai nyilvántartásnak az (1) bekezdés 1–12. pontja és a (2) bekezdése szerinti adatai nyilvánosak, közzétehetők vagy bárki számára kiadhatók, a fennálló adatait az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
-(5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az ügyvédi iroda oda jelentette be, illetve átadja az Eüsztv. szerinti rendelkezési nyilvántartásnak, ha azt az ügyvédi iroda az ügyvédi kamarai nyilvántartásba jelentette be.
+(5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi.
