@@ -2,7 +2,7 @@
 
 ## Átmeneti rendelkezések
 
-82. § (1) A kötelező egészségbiztosítás pénzbeli ellátásaira, illetőleg baleseti ellátásra való jogosultság megállapítása iránti ügyekben e törvény rendelkezéseit a törvény hatálybalépését követően induló ügyekben kell alkalmazni.
+82. § (1) A kötelező egészségbiztosítás pénzbeli ellátásaira, valamint a baleseti ellátásra való jogosultság megállapítása iránti ügyekben e törvény rendelkezéseit a törvény hatálybalépését követően induló ügyekben kell alkalmazni.
 
 (2)
 
