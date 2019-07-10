@@ -4,7 +4,7 @@
 
 ## 1. A Beruházási Ügynökség mint a kormányzati magasépítési beruházások megvalósítójának feladatai
 
-5. § (1) A Beruházási Ügynökség a kormányzati magasépítési beruházások megvalósítása során az állam javára és nevében jár el.
+5. § (1) A Beruházási Ügynökség a kormányzati magasépítési beruházások előkészítése és megvalósítása során az állam javára és nevében jár el.
 
 (2) A Kormány egyedi határozatában kormányzati magasépítési beruházások megvalósítójának a Beruházási Ügynökség helyett más szervet is kijelölhet.
 
