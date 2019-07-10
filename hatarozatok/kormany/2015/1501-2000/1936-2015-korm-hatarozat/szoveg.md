@@ -112,19 +112,9 @@ emberi erőforrások minisztere
 
 Határidő: 2016. február 29.
 
-8. munkacsoportot alakít egy helyi lakásprogram megvalósíthatóságának vizsgálatára az érintett minisztériumok és Szombathely Megyei Jogú Város Önkormányzata képviselőinek bevonásával.
+8.[^5]
 
-Felelős: nemzetgazdasági miniszter
-
-belügyminiszter
-
-nemzeti fejlesztési miniszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: azonnal
-
-9.[^5] a város vonzerejének növelése és élhetőbbé tételének elősegítése érdekében
+9.[^6] a város vonzerejének növelése és élhetőbbé tételének elősegítése érdekében
 
 a) egyetért a Vas Megyei Kormányhivatal székhelyéül szolgáló, Szombathely, Berzsenyi Dániel tér 1. szám alatti Megyeháza épülete átfogó felújításának támogatásával;
 
@@ -136,8 +126,20 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a felmerülés ütemében
 
+10.[^7] támogatja a gazdaságfejlesztést szolgáló útfejlesztés megvalósítását, amely keretében
+
+a) egyetért azzal, hogy a Ferenczy István utcát érintő útfejlesztés önkormányzati beruházásként valósuljon meg,
+
+b) felhívja a pénzügyminisztert, hogy az Önkormányzat bevonásával tegyen javaslatot a fejlesztési projekt európai uniós fejlesztési forrás bevonásával történő támogatására.
+
+Felelős: pénzügyminiszter
+
+Határidő: 2019. szeptember 30.
+
 [^1]: Az 1. pont c) alpontját az 1422/2016. (VII. 29.) Korm. határozat 10. pontja visszavonta.
 [^2]: Az 1. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 1. pontja iktatta be.
 [^3]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont a) alpontja szerinti határidő 2018. december 31.
 [^4]: Az 1495/2018. (X. 10.) Korm. határozat 2. pontja alapján az 5. pont b) alpontja szerinti határidő 2020. december 31.
-[^5]: A 9. pontot az 1130/2019. (III. 14.) Korm. határozat iktatta be.
+[^5]: A 8. pontot az 1414/2019. (VII. 10.) Korm. határozat 2. pontja visszavonta.
+[^6]: A 9. pontot az 1130/2019. (III. 14.) Korm. határozat iktatta be.
+[^7]: A 10. pontot az 1414/2019. (VII. 10.) Korm. határozat 1. pontja iktatta be.
