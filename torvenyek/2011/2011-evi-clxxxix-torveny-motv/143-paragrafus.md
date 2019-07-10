@@ -38,4 +38,6 @@ g) a nagyobb gazdasági teljesítőképességű, lakosságszámú települési �
 
 h) a polgármester általi forrásfelhasználás mértékét;
 
-i) azon vagyonelemeket, amelyekre a helyi önkormányzat vagyonkezelői jogot létesíthet, továbbá a vagyonkezelői jog megszerzésének, gyakorlásának, valamint a vagyonkezelés ellenőrzésének szabályait.
+i) azon vagyonelemeket, amelyekre a helyi önkormányzat vagyonkezelői jogot létesíthet, továbbá a vagyonkezelői jog megszerzésének, gyakorlásának, valamint a vagyonkezelés ellenőrzésének szabályait;
+
+j) önkormányzati tulajdonban álló ingó vagyon 108/C. § szerinti ingyenes átruházására vonatkozó szabályokat.
