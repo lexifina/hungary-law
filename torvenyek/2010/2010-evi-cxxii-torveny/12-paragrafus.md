@@ -10,6 +10,6 @@
 
 (5) A Bűnügyi Főigazgatóság felettes szerve – a (6) bekezdésben meghatározott kivétellel – a Központi Irányítás.
 
-(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese.
+(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese.
 
-(7) A kijelölt miniszter és az állami adó- és vámhatóság vezetője az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatainak ellátásáért felelős szakmai helyettesét, valamint a kijelölt miniszter, az állami adó- és vámhatóság vezetője és az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatainak ellátásáért felelős szakmai helyettese a Bűnügyi Főigazgatóság főigazgatóját a NAV bűnmegelőzési és bűnüldözési feladatainak ellátása körében, egyedi ügyben nem utasíthatja.
+(7)

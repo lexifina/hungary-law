@@ -47,3 +47,5 @@ Minősítési lap
 ## e) hivatástudat,
 
 ## f) szakmai pontosság,
+
+## g) hatékonyság,

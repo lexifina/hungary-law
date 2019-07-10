@@ -18,7 +18,7 @@ c) feldolgozza az államháztartás működéséhez szükséges és rendelkezés
 
 d) Központi Irányítása és a feladat- és hatáskörrel rendelkező területi szerve összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
 
-e)
+e) adó- vagy vámigazgatási jogkörben eljáró szerve egyéb érdekeltként vesz részt a költségvetést károsító bűncselekmény gyanúja miatt indított büntetőeljárásban,
 
 f) lefolytatja az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti központosított ellenőrzést,
 
