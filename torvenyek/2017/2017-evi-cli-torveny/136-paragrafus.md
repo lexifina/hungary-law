@@ -8,7 +8,7 @@
 
 Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) az állami adó- és vámhatóság hatáskörébe tartozó ügyek elektronikus intézésének részletszabályait;
+a) az adóhatóság hatáskörébe tartozó ügyek elektronikus intézésének részletszabályait;
 
 b) az állami adó- és vámhatóság hatáskörének és illetékességének szabályait;
 

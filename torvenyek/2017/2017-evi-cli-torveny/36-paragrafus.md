@@ -2,7 +2,7 @@
 
 ### 36. § [A kapcsolattartás általános szabályai]
 
-(1) Az adóhatóság írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban) vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az adózóval és az eljárásban résztvevőkkel.
+(1) Az adóhatóság írásban, az Eüsztv.-ben meghatározott elektronikus úton (a továbbiakban együtt: írásban) vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az adózóval és az eljárásban résztvevőkkel.
 
 (2) Törvény eltérő rendelkezése hiányában a kapcsolattartás formáját az adóhatóság tájékoztatása alapján az adózó választja meg. Az adózó a választott kapcsolattartási módról más – az adóhatóságnál rendelkezésre álló – módra áttérhet.
 
