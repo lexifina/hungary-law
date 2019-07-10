@@ -26,13 +26,15 @@ b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) vagy i) pontjában 
 
 c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
 
-d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot,
+d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot, kivéve a 240/B. § (2)–(2a) bekezdésében foglalt esetet,
 
 e) a végrehajtó a kinevezését megelőzően vagy azt követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
 
 f) a végrehajtónak 30 napot meghaladóan nincs bejelentve állandó helyettese,
 
-g) a végrehajtó a kinevezését követő 3 hónapon belül nem alapít végrehajtói irodát vagy nem lép be tagként végrehajtói irodába.
+g) a végrehajtó a kinevezését követő 3 hónapon belül nem alapít végrehajtói irodát vagy nem lép be tagként végrehajtói irodába,
+
+h) a végrehajtót helyi önkormányzati képviselőnek, illetve polgármesternek megválasztották.
 
 (4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
 

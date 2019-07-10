@@ -8,7 +8,7 @@ c) a végrehajtó szolgálata szünetel,
 
 d) a végrehajtó 30 napot meg nem haladóan van távol.
 
-(2) Az (1) bekezdés d) pontjában meghatározott esetekben, valamint akkor ha a végrehajtó szolgálata a 240/B. § (2) bekezdése alapján szünetel, a végrehajtót az általa foglalkoztatott végrehajtó-helyettes, a helyettesítés egyéb eseteiben az állandó helyettes helyettesíti.
+(2) Az (1) bekezdés d) pontjában meghatározott esetben a végrehajtót az általa foglalkoztatott végrehajtó-helyettes, a helyettesítés egyéb eseteiben az állandó helyettes helyettesíti.
 
 (3) Amennyiben a végrehajtó nem foglalkoztat legalább egyéves végrehajtó-helyettesi gyakorlattal rendelkező végrehajtó-helyettest, a végrehajtót állandó helyettese helyettesíti.
 

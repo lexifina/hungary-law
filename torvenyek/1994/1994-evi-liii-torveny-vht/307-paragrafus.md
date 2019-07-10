@@ -27,9 +27,3 @@ f) a bírósági árverési csarnokok létesítésére és működésére vonatk
 g) a végrehajtási ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat, valamint a végrehajtási kérelem előterjesztésére szolgáló végrehajtható okirat nyomtatványok adattartalmát,
 
 h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtói díjszabást, a törvényszéki végrehajtó végrehajtási jutalmát, a végrehajtási költségátalányt, a végrehajtási eljárásban közreműködő jogi képviselő díjazását és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait,
-
-i) a rendészetért felelős miniszterrel és a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben a meghatározott cselekmény végrehajtására vonatkozó részletes szabályokat, különösen a lakás kiürítésére, valamint a gyermek átadására irányuló eljárásban,
-
-j) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
-
-k) az általános költségátalány megfizetéséről szóló szabályokat,
