@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-67-00-00
 | 2013-01-01 | 2012. évi CCXI. törvény | 2011-67-00-00.9 |
 | 2015-09-01 | 2015. évi CVII. törvény | 2011-67-00-00.10 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2011-67-00-00.11 |
+| 2019-07-10 | 2019. évi LXVI. törvény | 2011-67-00-00.12 |
