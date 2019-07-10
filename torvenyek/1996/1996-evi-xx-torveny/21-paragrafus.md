@@ -34,7 +34,7 @@ f) a hatósági bizonyítvány kiállításának időpontja.
 
 (6) E törvény 8. §-ának (1) bekezdése szerinti hatósági igazolvánnyal esik egy tekintet alá a külön törvény szerint kiállított, az egészségügyi szolgáltatásra való jogosultságot is igazoló okirat.
 
-(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát, valamint lakcímét közli a kincstárral a TAJ-szám képzésével és nyilvántartásával kapcsolatos feladatok ellátása céljából.
+(7) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv az újszülött családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát és nemét, valamint lakcímét közli a kincstárral a TAJ szám képzésével és nyilvántartásával kapcsolatos feladatok ellátása céljából.
 
 (7a) Az újszülött részére az egészségbiztosítási szerv a kincstár adatátadása alapján a TAJ-számot tartalmazó hatósági igazolványt hivatalból adja ki.
 
