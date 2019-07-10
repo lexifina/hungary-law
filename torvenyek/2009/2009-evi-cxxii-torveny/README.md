@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-122-00-00
 | 2016-06-18 | 2016. évi LXVII. törvény | 2009-122-00-00.13 |
 | 2016-08-01 | 2016. évi XXX. törvény | 2009-122-00-00.14 |
 | 2018-08-08 | 2018. évi LIV. törvény | 2009-122-00-00.15 |
+| 2019-07-10 | 2019. évi LXVI. törvény | 2009-122-00-00.16 |
