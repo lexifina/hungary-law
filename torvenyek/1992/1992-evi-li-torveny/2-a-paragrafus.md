@@ -1,1 +1,1 @@
-2/A. § A Magyar Nemzeti Üdülési Alapítvány által kibocsátott Erzsébet-utalvány kibocsátásával a Magyar Nemzeti Üdülési Alapítványnál keletkező, a ráfordításokkal csökkentett bevételt a Magyar Nemzeti Üdülési Alapítvány az Erzsébet-programról szóló 2012. évi CIII. törvényben meghatározott közfeladatokra használhatja fel.
+2/A. §

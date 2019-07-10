@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-51-00-00
 | 1992-07-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 1992-51-00-00.1 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1992-51-00-00.2 |
 | 2016-04-12 | 2016. évi XXI. törvény | 1992-51-00-00.3 |
+| 2019-07-10 | 2019. évi LXVI. törvény | 1992-51-00-00.4 |
