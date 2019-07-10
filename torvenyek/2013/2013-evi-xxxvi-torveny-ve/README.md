@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2018-09-01 | 2018. évi XXXVI. törvény | 2013-36-00-00.14 |
 | 2018-12-28 | 2018. évi CXIII. törvény | 2013-36-00-00.15 |
 | 2019-01-01 | 2013. évi XXXVI. törvény | 2013-36-00-00.16 |
+| 2019-07-10 | 2019. évi LXVI. törvény | 2013-36-00-00.17 |
