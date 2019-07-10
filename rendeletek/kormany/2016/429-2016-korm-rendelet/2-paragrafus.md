@@ -1,3 +1,3 @@
-## 1/C. §[^3] A Kormány a 3. melléklet I. pontjában foglalt táblázat 2. és 3. sorában megjelölt ingatlanok esetében a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 4. § (3) bekezdése szerinti vagyonkezelőként a Sopron-Fertő Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaságot határozza meg.
+## 1/D. §[^5] A Kormány a 3. melléklet 2. pontjában foglalt táblázat 2. sorában megjelölt ingatlan esetében a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 4. § (4) bekezdés a) pontja szerinti beruházó vagyonkezelőként a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaságot határozza meg.
 
-[^3]: Az 1/C. §-t a 237/2018. (XII. 10.) Korm. rendelet 16. §-a iktatta be.
+[^5]: Az 1/D. §-t a 169/2019. (VII. 9.) Korm. rendelet 1. §-a iktatta be.

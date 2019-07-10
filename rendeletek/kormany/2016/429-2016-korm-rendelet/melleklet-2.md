@@ -382,7 +382,7 @@
 
 ## – Fertő-Hanság Nemzeti Park területe.
 
-## 3.[^4] Tokaj, Felső-Tisza és Nyírség kiemelt turisztikai fejlesztési térség:
+## 3.[^6] Tokaj, Felső-Tisza és Nyírség kiemelt turisztikai fejlesztési térség:
 
 ## 3. a. Tokaj turisztikai fejlesztési térség:
 
@@ -600,4 +600,4 @@
 
 2. melléklet a 429/2016. (XII. 15.) Korm. rendelethez
 
-[^4]: Az 1. melléklet 3. pontját a 140/2017. (VI. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^6]: Az 1. melléklet 3. pontját a 140/2017. (VI. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.

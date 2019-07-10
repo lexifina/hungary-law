@@ -4,9 +4,9 @@
 
 ## 2. Sopron-Fertő
 
-## 3.[^5] Tokaj, Felső-Tisza és Nyírség
+## 3.[^7] Tokaj, Felső-Tisza és Nyírség
 
-3. melléklet a 429/2016. (XII. 15.) Korm. rendelethez[^6]
+3. melléklet a 429/2016. (XII. 15.) Korm. rendelethez[^8]
 
 Kiemelt állami turisztikai beruházások
 
@@ -20,5 +20,13 @@ Kiemelt állami turisztikai beruházások
 
 | 3. | Lővérek program nemzeti konferencia központ | Sopron belterület 7020/2, 7022, 7023/1 és 7023/2 helyrajzi számú ingatlanok |
 
-[^5]: A 2. melléklet 3. pontját a 140/2017. (VI. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^6]: A 3. mellékletet a 201/2018. (X. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 7. §-át.
+2. Balaton kiemelt turisztikai fejlesztési térség
+
+|  | A | B |
+
+| 1. | Kiemelt állami turisztikai beruházás | Beruházási helyszín azonosító adatai (ingatlan-nyilvántartás szerinti helyrajzi szám) |
+
+| 2. | Ranolder-villa | Csopak külterület 031/1 helyrajzi számú ingatlan Csopak külterület 031/2 helyrajzi számú ingatlan |
+
+[^7]: A 2. melléklet 3. pontját a 140/2017. (VI. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 3. mellékletet a 201/2018. (X. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 169/2019. (VII. 9.) Korm. rendelet 2. §-a szerint módosított szöveg. Alkalmazására lásd az előbbi módosító rendelet 7. §-át.
