@@ -1,13 +1,14 @@
+## 1–10. §[^1]
+
 ## 11. § A 156/2017. Korm. rendelet
 
-a) 9. § (6) bekezdés c) pontjában az „a tárgyalási engedély vagy a forgalmi engedély” szövegrész helyébe az „a tárgyalási, bróker- vagy forgalmi engedély” szöveg,
+a)[^2]
 
-b)–d)[^1]
+b)–d)[^3]
 
-e) 29. § (4) bekezdésében a „Tranzitügylet” szövegrész helyébe a „Tranzit” szöveg,
+e)–g)[^4]
 
-f) 32. § (1) bekezdés d) pontjában a „2005. június 27-i 1236/2005/EK tanácsi rendelet” szövegrész helyébe a „2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet” szöveg,
-
-g) 36. § (1) bekezdésében az „állapítja meg” szövegrész helyébe az „állapít meg” szöveg
-
-[^1]: A 11. § b)–d) pontja a 13. § (3) bekezdése alapján Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból történő kilépése időpontjában lép hatályba.
+[^1]: Az 1–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 11. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11. § b)–d) pontja a 13. § (3) bekezdése alapján Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból történő kilépése időpontjában lép hatályba.
+[^4]: A 11. § e)–g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
