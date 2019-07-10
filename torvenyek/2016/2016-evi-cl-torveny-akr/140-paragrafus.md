@@ -8,6 +8,6 @@ b) az államháztartásért felelős miniszterrel egyetértésben a közigazgat�
 
 c) az államháztartásért felelős miniszterrel egyetértésben a tanú és a hatósági tanú által felszámítható költségekre, valamint
 
-d) az államháztartásért felelős miniszterrel, valamint a társadalmi felzárkózásért felelős miniszterrel egyetértésben a jelnyelvi tolmácsok díjazására
+d) az államháztartásért felelős miniszterrel, valamint a szociál- és nyugdíjpolitikáért felelős miniszterrel egyetértésben a jelnyelvi tolmácsok díjazására
 
 vonatkozó szabályokat.
