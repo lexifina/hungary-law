@@ -1,1 +1,1 @@
-### 163. §
+163. § Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény hatálybalépését követő tizenöt napon belül törölni kell a központi névjegyzékből a nem magyar állampolgárságú választópolgárok nemzetiségi választópolgárként történő nyilvántartására vonatkozó adatot.
