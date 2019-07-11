@@ -4,9 +4,9 @@
 
 a) az igénylő azonosító adatai (név, ügyfél-azonosító szám, székhely vagy telephely címe),
 
-b) a szárítmány-előállítás céljára a tárgyidőszakban felhasznált tüzelőanyag mennyiségére, az átlagos fűtőértékre és a felhasznált hőenergia mennyiségére vonatkozó adatok havi bontásban feltüntetve,
+b)[^3] a szárítmány-előállítás céljára a tárgyidőszakban felhasznált napi tüzelőanyag mennyiségére, valamint az átlagos fűtőértékre és a felhasznált hőenergia mennyiségére vonatkozó, elszámolási időszaki bontásban feltüntetett adatok,
 
-c) a tárgyidőszakban előállított szárítmány mennyiségére vonatkozó adatok termékenként és havi bontásban feltüntetve,
+c)[^4] a tárgyidőszakban előállított szárítmány mennyiségére vonatkozó adatok termékenként és napi bontásban feltüntetve,
 
 d) az igényelt támogatás összege,
 
@@ -14,7 +14,7 @@ e) a 2. § (2) bekezdés e) és f) pontja szerinti nyilatkozatok.
 
 (3) A támogatási kérelemhez csatolni kell
 
-a) telephelyi és havi bontásban a szárítmány-előállításra felhasznált tüzelőanyag mennyiségéről és a fűtőértékről szóló elszámoló számlákat,
+a)[^5] telephelyi elszámolási időszaki bontásban a szárítmány-előállításra felhasznált tüzelőanyag mennyiségéről és a fűtőértékről szóló elszámoló számlákat,
 
 b) a belső nyilvántartás alapján készített, a Kincstár honlapján közleményben közzétett nyomtatvány szerinti elszámoló kivonat elektronikus változatát és
 
@@ -29,3 +29,7 @@ c) a telephely érvényes működési engedélyét.
 (7) A támogatási kérelem a benyújtására nyitva álló időszak utolsó napjáig elektronikus úton módosítható. Módosítás esetén az utolsó benyújtott kérelem kerül elbírálásra, a kérelem benyújtásának időpontját az utolsó módosító kérelem benyújtásának időpontja jelenti.
 
 (8) A támogatási kérelem benyújtását követően hiánypótlásnak nincs helye.
+
+[^3]: A 3. § (2) bekezdés b) pontja a 32/2019. (VII. 8.) AM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdés c) pontja a 32/2019. (VII. 8.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés a) pontja a 32/2019. (VII. 8.) AM rendelet 5. § b) pontja szerint módosított szöveg.
