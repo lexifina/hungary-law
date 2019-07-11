@@ -1,1 +1,3 @@
-## 3. § Az R1. 1/C. §-ában a „4. § (3) bekezdése szerinti” szövegrész helyébe a „4. § (4) bekezdése szerinti beruházó és fenntartó” szöveg lép.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
