@@ -2,4 +2,4 @@
 
 1.
 
-2. 162. § (2) bekezdés l) és p) pontja.
+2.

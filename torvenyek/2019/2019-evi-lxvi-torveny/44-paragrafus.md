@@ -1,3 +1,1 @@
-44. § Az egészségügyről szóló 1997. évi CLIV. törvény 244/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2010. évi CLXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 113. § (4) bekezdésében foglaltakat akkor kell alkalmazni, ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét követően keletkezett. Ha a nyilvántartott személy által végzett, jogszabályban meghatározott közfeladat alapjául szolgáló jogviszony 2011. január 1-jét megelőzően keletkezett, a működési nyilvántartást a nyilvántartott személy kérelmére a közfeladat ellátásának teljes idejével kell meghosszabbítani.”
+44. §

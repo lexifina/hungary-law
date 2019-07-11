@@ -1,3 +1,1 @@
-187. § Az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Az (7) bekezdés szerinti magasépítési beruházásokra a kormányzati magasépítési beruházásokra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a (7) bekezdés szerinti magasépítési beruházás keretében létrejött vagyonelemek – eltérő megállapodás hiányában – az ingatlan tulajdonosát illetik meg térítésmentesen. A magasépítési beruházás műszaki átadás-átvételének a lebonyolítását követően, a munkaterület kivitelező által a Beruházási Ügynökség részére történő visszaadását követő napon a beruházás során létrejött vagyonelemeket a Beruházási Ügynökség az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.”
+187. §

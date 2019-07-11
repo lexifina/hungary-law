@@ -1,1 +1,1 @@
-183. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról szóló 2018. évi XCVII. törvény 12. § (3) bekezdésében a „2019. szeptember 1-jén” szövegrész helyébe a „2020. január 1-jén” szöveg lép.
+183. §

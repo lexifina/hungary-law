@@ -1,3 +1,1 @@
-163. § A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 6. § (3b) bekezdése helyébe a következő rendelkezés lép:
-
-„(3b) A vagyonkezelő – selejtezési szabályzata figyelembevételével – jogosult eljárni a bontással járó munkálatok elvégzése, a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítése, hulladékgyűjtő helyen történő elhelyezése érdekében, továbbá jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyereményi anyagok értékesítéséből származó bevétel a vagyonkezelőt illeti meg azzal, hogy köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlan értékének megőrzésére, gyarapítására vagy a vagyon cél szerinti fenntartására fordítani.”
+163. §
