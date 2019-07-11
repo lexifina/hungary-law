@@ -6,18 +6,21 @@
 
 (2b)[^19] A (2) bekezdésben foglaltaktól eltérően a családi otthonteremtési kedvezmény összegének megállapításánál nem kell figyelembe venni a 2011. december 31. napját követően igényelt és az újabb támogatási kérelem benyújtásának időpontjáig már visszafizetett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön összegét.
 
-(3)[^20] A gyermekvállalásra tekintettel a (2) bekezdés szerinti, ugyanazon igénylők által korábban igénybe vett támogatás esetén a 6. alcím szerinti megelőlegezett családi otthonteremtési kedvezmény – a 17. §-ban foglaltakat is figyelembe véve – akkor igényelhető, ha a korábbi gyermekvállalás teljesült.
+(2c)[^20] A 15/A. §-ban meghatározott esetben a családi otthonteremtési kedvezménynek a 9. §, valamint a (2)–(2b) bekezdés szerint az igénylő részére megállapítható összege csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) alapján nyújtható. Ha a családi otthonteremtési kedvezménynek a 9. §, valamint a (2)–(2b) bekezdés szerint az igénylő részére megállapítható összege az igénylő 43. § (1) bekezdés e) pontja szerinti nyilatkozata alapján meghaladná az 1407/2013/EU bizottsági rendelet szerint a csekély összegű (de minimis) támogatásokra megállapított összeghatárt, akkor az igénylő legfeljebb ezen összeghatárig terjedő mértékű családi otthonteremtési kedvezményre jogosult.
 
-(4)[^21] A hitelintézet a korábbi igénybevételt a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján és a TAKARNET rendszerből ellenőrzi.
+(3)[^21] A gyermekvállalásra tekintettel a (2) bekezdés szerinti, ugyanazon igénylők által korábban igénybe vett támogatás esetén a 6. alcím szerinti megelőlegezett családi otthonteremtési kedvezmény – a 17. §-ban foglaltakat is figyelembe véve – akkor igényelhető, ha a korábbi gyermekvállalás teljesült.
 
-(5)[^22] Az igénylő a korábbi igénybevétel esetén a gyermek neve, adóazonosító jele, születési adatai megjelölésével teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozik arról, hogy mely gyermek után, mikor, melyik hitelintézeten keresztül, mekkora összegben, helyrajzi számmal megjelölve mely lakás vonatkozásában vette igénybe az (1) bekezdés szerinti vissza nem térítendő állami támogatást.
+(4)[^22] A hitelintézet a korábbi igénybevételt a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján és a TAKARNET rendszerből ellenőrzi.
 
-(6)[^23] A (2) bekezdés szerinti esetben, illetve állami kamattámogatással érintett lakáscélú kölcsön esetén a korábban igénybe vett támogatással összefüggésben előírt életvitelszerű bentlakási kötelezettséget az e rendelet szerinti családi otthonteremtési kedvezménnyel érintett új lakásban kell teljesíteni.
+(5)[^23] Az igénylő a korábbi igénybevétel esetén a gyermek neve, adóazonosító jele, születési adatai megjelölésével teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozik arról, hogy mely gyermek után, mikor, melyik hitelintézeten keresztül, mekkora összegben, helyrajzi számmal megjelölve mely lakás vonatkozásában vette igénybe az (1) bekezdés szerinti vissza nem térítendő állami támogatást.
+
+(6)[^24] A (2) bekezdés szerinti esetben, illetve állami kamattámogatással érintett lakáscélú kölcsön esetén a korábban igénybe vett támogatással összefüggésben előírt életvitelszerű bentlakási kötelezettséget az e rendelet szerinti családi otthonteremtési kedvezménnyel érintett új lakásban kell teljesíteni.
 
 [^17]: A 12. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^18]: A 12. § (2a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^19]: A 12. § (2b) bekezdését a 46/2019. (III. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^20]: A 12. § (3) bekezdése a 46/2019. (III. 12.) Korm. rendelet 2. § (2) bekezdéséval megállapított szöveg.
-[^21]: A 12. § (4) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
-[^22]: A 12. § (5) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.
-[^23]: A 12. § (6) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.
+[^20]: A 12. § (2c) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 12. § (3) bekezdése a 46/2019. (III. 12.) Korm. rendelet 2. § (2) bekezdéséval megállapított szöveg.
+[^22]: A 12. § (4) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 3. pontja szerint módosított szöveg.
+[^23]: A 12. § (5) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.
+[^24]: A 12. § (6) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.

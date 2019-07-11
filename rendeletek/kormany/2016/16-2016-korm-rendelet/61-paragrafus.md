@@ -24,8 +24,8 @@
 
 (11) Ha a Kincstár az (5) bekezdés szerinti ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti.
 
-(12)[^134] A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
+(12)[^147] A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
 (13) Az ezen § szerinti elszámolási kötelezettséget a hitelintézet helyett másik hitelintézet is teljesítheti. A megbízási szerződésnek ki kell terjednie a megbízott hitelintézet felelősségére.
 
-[^134]: A 61. § (12) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 17. pontja szerint módosított szöveg.
+[^147]: A 61. § (12) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 17. pontja szerint módosított szöveg.
