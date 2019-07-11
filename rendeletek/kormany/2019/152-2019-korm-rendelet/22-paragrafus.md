@@ -1,4 +1,4 @@
-## 21. §[^10]
+## 21. §[^5]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. és 4. alcím, valamint a 15. és 17. § 2019. október 1-jén lép hatályba.
 
-[^10]: A 21. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 21. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

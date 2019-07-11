@@ -1,3 +1,5 @@
-## 11–14. §[^3]
+## 14. § Az R3. 36. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
 
-[^3]: A 11–14. § a 22. § (2) bekezdése alapján 2019. július 11-én lép hatályba.
+## „(1a) Nem minősül az (1) bekezdés d) pontjában foglalt, a lakáscéltól eltérő hasznosítás tilalma megsértésének az, ha az igénylő a családi otthonteremtési kedvezménnyel érintett használt lakást a legalább többségi tulajdonában álló gazdasági társaság – ide nem értve a részvénytársaságot –, vagy egyéni vállalkozói tevékenységet folytató igénylő esetében az egyéni vállalkozás székhelyeként bejelenti, feltéve, ha erről a családi otthonteremtési kedvezmény iránti kérelem benyújtásakor a 14. § (9a) bekezdésében foglaltaknak megfelelő nyilatkozatot tett, és a kedvezményre való jogosultság elbírálása során a 30. § (1) bekezdés 23. pontja szerinti nyilatkozatában foglaltak alapján megfelelt az 1407/2013/EU bizottsági rendeletben szereplő, a csekély összegű (de minimis) támogatásokra vonatkozó feltételeknek.
+
+## (1b) Nem minősül az (1) bekezdés d) pontjában foglalt, a lakáscéltól eltérő hasznosítás tilalma megsértésének az, ha az igénylő a családi otthonteremtési kedvezménnyel érintett használt lakást a legalább többségi tulajdonában álló gazdasági társaság – ide nem értve a részvénytársaságot –, vagy egyéni vállalkozói tevékenységet folytató igénylő esetében az egyéni vállalkozás székhelyeként bejelenti vagy bejelentette, feltéve, ha erről a 60. § (1) bekezdésében foglaltaknak megfelelő nyilatkozatot tett.”

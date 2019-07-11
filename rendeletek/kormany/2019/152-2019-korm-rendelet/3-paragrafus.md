@@ -1,5 +1,5 @@
 ## 1–2. §
 
-## 2.[^2]
+## 2. Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló
 
-[^2]: A 2. alcím (3–10. §) a 22. § (2) bekezdése alapján 2019. július 11-én lép hatályba.
+## 16/2016. (II. 10.) Korm. rendelet módosítása

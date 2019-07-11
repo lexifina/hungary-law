@@ -1,3 +1,3 @@
-## 15. §[^4]
+## 15. §[^2]
 
-[^4]: A 15. § a 22. § (3) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^2]: A 15. § a 22. § (3) bekezdése alapján 2019. október 1-jén lép hatályba.
