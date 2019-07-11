@@ -6,14 +6,17 @@
 
 (2b)[^7] A (2) bekezdésben foglaltaktól eltérően a családi otthonteremtési kedvezmény összegének megállapításánál nem kell figyelembe venni a 2011. december 31. napját követően igényelt és az újabb támogatási kérelem benyújtásának időpontjáig már visszafizetett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön összegét.
 
-(3)[^8] A (2) bekezdés szerinti esetben, illetve állami kamattámogatással érintett lakáscélú kölcsön esetén a korábban igénybe vett támogatással összefüggésben előírt életvitelszerű bentlakási kötelezettséget az e rendelet szerinti újabb családi otthonteremtési támogatással érintett lakásban kell teljesíteni.
+(2c)[^8] A 14. § (2a) bekezdésében meghatározott esetben a családi otthonteremtési kedvezménynek a 11. §, valamint a (2)–(2b) bekezdés szerint az igénylő részére megállapítható összege csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) alapján nyújtható. Ha a 14. § (2a) bekezdésében meghatározott esetben a családi otthonteremtési kedvezménynek a 11. §, valamint a (2)–(2b) bekezdés szerint az igénylő részére megállapítható összege az igénylő 30. § (1) bekezdés 23. pontja szerinti nyilatkozata alapján meghaladná az 1407/2013/EU bizottsági rendelet szerint a csekély összegű (de minimis) támogatásokra megállapított összeghatárt, akkor az igénylő legfeljebb ezen összeghatárig terjedő mértékű családi otthonteremtési kedvezményre jogosult.
 
-(4)[^9] Ha ugyanazon fiatal házaspár megelőlegezett formában nyújtott lakáscélú állami támogatást – ideértve a megelőlegező kölcsönt is – vett igénybe, a 8. alcím szerinti megelőlegezett családi otthonteremtési kedvezmény akkor igényelhető, ha a korábbi gyermekvállalás teljesült.
+(3)[^9] A (2) bekezdés szerinti esetben, illetve állami kamattámogatással érintett lakáscélú kölcsön esetén a korábban igénybe vett támogatással összefüggésben előírt életvitelszerű bentlakási kötelezettséget az e rendelet szerinti újabb családi otthonteremtési támogatással érintett lakásban kell teljesíteni.
+
+(4)[^10] Ha ugyanazon fiatal házaspár megelőlegezett formában nyújtott lakáscélú állami támogatást – ideértve a megelőlegező kölcsönt is – vett igénybe, a 8. alcím szerinti megelőlegezett családi otthonteremtési kedvezmény akkor igényelhető, ha a korábbi gyermekvállalás teljesült.
 
 (5) A hitelintézet a (4) bekezdés szerinti korábbi igénybevételt a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján és a TAKARNET rendszerből ellenőrzi.
 
 [^5]: A 3. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (2a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 25. § (2) bekezdése iktatta be.
 [^7]: A 3. § (2b) bekezdését a 46/2019. (III. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^8]: A 3. § (3) bekezdése a 26/2018. (II. 28.) Korm. rendelet 37. § 1. pontja szerint módosított szöveg.
-[^9]: A 3. § (4) bekezdése a 46/2019. (III. 12.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (2c) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 11. §-a iktatta be.
+[^9]: A 3. § (3) bekezdése a 26/2018. (II. 28.) Korm. rendelet 37. § 1. pontja szerint módosított szöveg.
+[^10]: A 3. § (4) bekezdése a 46/2019. (III. 12.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 7/A. [^70] A preferált kistelepülésre vonatkozó különös szabályok
+## 7/A. [^75] A preferált kistelepülésre vonatkozó különös szabályok
 
 19/A. § (1) E rendelet rendelkezéseit a preferált kistelepülésen lévő lakás, valamint a külterületi lakás (a továbbiakban együtt: preferált kistelepülésen lévő lakás) vonatkozásában az ezen alcím szerinti eltérésekkel kell alkalmazni.
 
@@ -30,4 +30,4 @@ c) korszerűsítésére és bővítésére,
 
 (7) Ha az igénylő a korszerűsítési és a bővítési munkálatokra egyaránt igényel családi otthonteremtési kedvezményt, azt a kérelem egyidejűleg történő benyújtásával teheti meg.
 
-[^70]: A 7/A. alcímet (19/A–19/H. §) a 109/2019. (V. 13.) Korm. rendelet 3. §-a iktatta be.
+[^75]: A 7/A. alcímet (19/A–19/H. §) a 109/2019. (V. 13.) Korm. rendelet 3. §-a iktatta be.

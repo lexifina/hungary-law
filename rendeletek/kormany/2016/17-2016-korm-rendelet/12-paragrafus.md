@@ -10,8 +10,8 @@ c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgár
 
 d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el, vagy
 
-e)[^34]
+e)[^35]
 
 (2) Nem magyar állampolgár részére a családi otthonteremtési kedvezmény a három hónapot meghaladó tartózkodási jogosultság fennállásának időtartama alatt nyújtható, ha Magyarország területén bejelentett lakóhellyel rendelkezik.
 
-[^34]: A 12. § (1) bekezdés e) pontját a 26/2018. (II. 28.) Korm. rendelet 38. § b) pontja hatályon kívül helyezte.
+[^35]: A 12. § (1) bekezdés e) pontját a 26/2018. (II. 28.) Korm. rendelet 38. § b) pontja hatályon kívül helyezte.
