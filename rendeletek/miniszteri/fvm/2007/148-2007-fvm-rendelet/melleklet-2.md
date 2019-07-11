@@ -38,7 +38,7 @@
 
 | 19. | B010 | Listeriosis | valamennyi baromfi faj | Laboratóriumi diagnosztikai vizsgálat: 11 200 Ft |
 
-| 20. | A009 | Szalmonellózis | valamennyi gazdasági haszonállat | Immunizálás: 70 Ft/egyed/alkalom Gyógykezelés: 7 Ft/egyed (csak a nemzeti ellenőrzési terv alá még nem tartozó állományok esetében) Mintavétel: 7000 Ft/légtér/alkalom Laboratóriumi diagnosztikai vizsgálat (maximum: 21 000 Ft/légtér/alkalom): Salmonella kimutatása: 6300 Ft/vizsgálat* Salmonella szerotipizálása: 7700 Ft/db Broiler állományból izolált Salmonella törzs szerocsoport szűrővizsgálata: 3500 Ft/db H antigén meghatározása: 4900 Ft/db Törzs vakcina eredetének vizsgálata: 3500 Ft/db |
+| 20. | A009 | Szalmonellózis | valamennyi gazdasági haszonállat | Immunizálás: 30 Ft/egyed/alkalom Gyógykezelés: 7 Ft/egyed (csak a nemzeti ellenőrzési terv alá még nem tartozó állományok esetében) Mintavétel: 7000 Ft/légtér/alkalom Laboratóriumi diagnosztikai vizsgálat (maximum: 21 000 Ft/légtér/alkalom): Salmonella kimutatása: 6300 Ft/vizsgálat* Salmonella szerotipizálása: 7700 Ft/db Broiler állományból izolált Salmonella törzs szerocsoport szűrővizsgálata: 3500 Ft/db H antigén meghatározása: 4900 Ft/db Törzs vakcina eredetének vizsgálata: 3500 Ft/db |
 
 | 21. | A010 | Sertés brucellózis | sertés | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 

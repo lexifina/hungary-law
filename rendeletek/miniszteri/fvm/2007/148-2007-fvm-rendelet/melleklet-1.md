@@ -4,4 +4,4 @@
 
 [^101]: A 21. §-t a 39/2017. (VIII. 7.) FM rendelet 1. §-a iktatta be.
 [^102]: A hatálybalépés időpontja 2017. augusztus 8.
-[^103]: Az 1. számú melléklet a 33/2017. (VI. 9.) FM rendelet 1. §-ával megállapított, a 39/2017. (VIII. 7.) FM rendelet 2. §-a, a 30/2018. (X. 11.) AM rendelet 2. § c) pontja szerint módosított szöveg.
+[^103]: Az 1. számú melléklet a 33/2017. (VI. 9.) FM rendelet 1. §-ával megállapított, a 39/2017. (VIII. 7.) FM rendelet 2. §-a, a 30/2018. (X. 11.) AM rendelet 2. § c) pontja, a 32/2019. (VII. 8.) AM rendelet 6. §-a szerint módosított szöveg.
