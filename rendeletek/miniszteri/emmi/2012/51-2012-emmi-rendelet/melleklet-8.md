@@ -1,3 +1,3 @@
-8. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^57]
+8. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^58]
 
-[^57]: A 8. mellékletet a 23/2013. (III. 29.) EMMI rendelet 6. § a) pontja iktatta be, hatályon kívül helyezte a 22/2016. (VIII. 25.) EMMI rendelet 6. § c) pontja.
+[^58]: A 8. mellékletet a 23/2013. (III. 29.) EMMI rendelet 6. § a) pontja iktatta be, hatályon kívül helyezte a 22/2016. (VIII. 25.) EMMI rendelet 6. § c) pontja.

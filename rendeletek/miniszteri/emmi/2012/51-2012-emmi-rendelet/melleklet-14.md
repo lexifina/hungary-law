@@ -1,4 +1,4 @@
-14. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^63]
+14. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^64]
 
 Kerettanterv a szakgimnáziumok 9-12. évfolyama számára
 
@@ -638,4 +638,4 @@ Irodalom
 
 | Kulcsfogalmak/ fogalmak | Felvilágosodás, klasszicizmus, szentimentalizmus, rokokó, valóság és fikció, elbeszélői nézőpont, kalandregény, robinzonád, fejlődésregény, énregény, levélregény, tézisregény, ellenutópia, szatíra (szatirikus hangnem). |
 
-[^63]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be, szövege a 7/2017. (V. 5.) EMMI rendelet 2. § e) pontja, a 26/2018. (VIII. 7.) EMMI rendelet 2. §-a, a 30/2018. (VIII. 30.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^64]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be, szövege a 7/2017. (V. 5.) EMMI rendelet 2. § e) pontja, a 26/2018. (VIII. 7.) EMMI rendelet 2. §-a, a 30/2018. (VIII. 30.) EMMI rendelet 3. §-a szerint módosított szöveg.
