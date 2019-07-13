@@ -1,16 +1,17 @@
-## Az MH HONVÉDKÓRHÁZ SAJÁT JOGÚ IGÉNYJOGOSULTJAI ÁLTAL AZ MH HONVÉDKÓRHÁZON KÍVÜL BIZTOSÍTOTT EGÉSZSÉGÜGYI ELLÁTÁSOK IGÉNYBEVÉTELÉNEK SZABÁLYAI[^29]
+## Az MH EK SAJÁT JOGÚ IGÉNYJOGOSULTJAI ÁLTAL AZ MH EK-N KÍVÜL BIZTOSÍTOTT EGÉSZSÉGÜGYI ELLÁTÁSOK IGÉNYBEVÉTELÉNEK SZABÁLYAI[^38]
 
 ## Alapellátás
 
-8. § (1)[^30] A saját jogú igényjogosult az alapellátást vezénylés, berendelés esetén az Ebtv.-ben meghatározottakon túl a szolgálatteljesítés helye szerinti finanszírozott háziorvosnál is igénybe veheti.
+8. § (1)[^39] A saját jogú igényjogosult az alapellátást vezénylés, berendelés esetén az Ebtv.-ben meghatározottakon túl a szolgálatteljesítés helye szerinti finanszírozott háziorvosnál is igénybe veheti.
 
 (2) Az (1) bekezdésen túlmenően az alapellátást
 
-a) az MH személyi állománya a szolgálatteljesítés helye szerinti csapatorvosi rendelőben;
+a)[^40] a honvédelmi szervezet személyi állománya a szolgálatteljesítés helye szerinti csapatorvosi rendelőben;
 
 b) a rendvédelmi szervek személyi állománya a rendvédelmi szerv szolgálatteljesítés helye szerinti alapellátó rendelőjében;
 
 c) a vasutas állomány a területi ellátási kötelezettség nélküli vasúti háziorvosi rendelőben
 
-[^29]: A 8. §-t megelőző alcím a 318/2011. (XII. 27.) Korm. rendelet 7. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^30]: A 8. § (1) bekezdése a 318/2011. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^38]: A 8. §-t megelőző alcím a 163/2019. (VII. 5.) Korm. rendelet 5. § f) és k) pontja szerint módosított szöveg.
+[^39]: A 8. § (1) bekezdése a 318/2011. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^40]: A 8. § (2) bekezdés a) pontja a 163/2019. (VII. 5.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
