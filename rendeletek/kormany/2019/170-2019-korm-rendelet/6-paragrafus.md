@@ -1,4 +1,4 @@
-## 5. §[^6]
+## 5. §[^9]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. §, a 2. § (2) és (3) bekezdése, valamint a 4. § (1) bekezdése 2020. január 17-én lép hatályba.
 
-[^6]: Az 5. § a 6. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^9]: Az 5. § a 6. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.

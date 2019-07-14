@@ -1,11 +1,6 @@
-3. § (1) Az R2. 3. § (4) bekezdés l) pontja helyébe a következő rendelkezés lép:
+3. § (1)[^5]
 
-(A Kormány)
+(2)[^6]
 
-## „l) a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 5/E. § (1)–(4) bekezdésében foglaltak,”
-
-## (tekintetében fogyasztóvédelmi hatóságként a megyeszékhely szerinti járási hivatalt jelöli ki.)
-
-(2) Az R2. 3. § (4) bekezdése a következő u) ponttal egészül ki:
-
-(A Kormány)
+[^5]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
