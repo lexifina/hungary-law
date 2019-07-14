@@ -1,1 +1,0 @@
-## „(4) A pályázói adatlap, a pályázó alapjogviszonya fennállásáról szóló munkáltatói igazolás, valamint a (2) bekezdés d) pontja szerinti nyilatkozatok formanyomtatványait a miniszter a 3. § (1) bekezdése szerinti honlapon teszi közzé.”
