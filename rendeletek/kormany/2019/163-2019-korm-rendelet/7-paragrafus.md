@@ -1,3 +1,5 @@
-## 6. § A Korm. rendelet Mellékletében az „A nyugdíjas és a szolgálati járandóságban részesülő igényjogosult családtagjának igazolása a kiállítástól számított 3 évig, egyéb esetekben az igazolás a kiállítástól számított egy évig érvényes.” szövegrész helyébe az „Az igazolás az e rendeletben foglaltak alapján visszavonásig / 3 évig / 1 évig érvényes.” szöveg lép.
+## 6. §[^7]
 
 7. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
