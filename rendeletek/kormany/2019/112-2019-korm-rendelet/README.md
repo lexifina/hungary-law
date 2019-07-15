@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-112-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-07-14 | 2019-112-20-22.1 | 112/2019. (V. 15.) Korm. rendelet |
+| 2019-07-15 | 2019-112-20-22.2 | 150/2020. (IV. 24.) Korm. rendelet |
