@@ -1,19 +1,19 @@
-## 35/B. §[^168] A járási hivatalnak a közgyógyellátás megállapítása iránt előtte folyamatban lévő eljárásban az alanyi és normatív jogcímen megállapítható közgyógyellátás jogosultsági feltételeinek fennállását egyaránt vizsgálnia kell. Normatív jogcímen közgyógyellátás akkor állapítható meg, ha az ügyfél alanyi közgyógyellátásra nem jogosult.
+## 35/B. §[^174] A járási hivatalnak a közgyógyellátás megállapítása iránt előtte folyamatban lévő eljárásban az alanyi és normatív jogcímen megállapítható közgyógyellátás jogosultsági feltételeinek fennállását egyaránt vizsgálnia kell. Normatív jogcímen közgyógyellátás akkor állapítható meg, ha az ügyfél alanyi közgyógyellátásra nem jogosult.
 
-36. §[^169] (1)[^170] A normatív közgyógyellátás megállapítása iránti kérelem esetén a járási hivatal megvizsgálja, hogy a kérelmező esetében fennállnak-e az Szt.-ben előírt jövedelmi feltételek. Ha ennek eredményeként az eljáró hatóság azt állapítja meg, hogy a jövedelmi feltételek
+36. §[^175] (1)[^176] A normatív közgyógyellátás megállapítása iránti kérelem esetén a járási hivatal megvizsgálja, hogy a kérelmező esetében fennállnak-e az Szt.-ben előírt jövedelmi feltételek. Ha ennek eredményeként az eljáró hatóság azt állapítja meg, hogy a jövedelmi feltételek
 
-a)[^171] teljesülnek, akkor a háziorvos igazolása alapján elvégzi a rendszeres gyógyító ellátások havi költsége szakkérdésének vizsgálatát,
+a)[^177] teljesülnek, akkor a háziorvos igazolása alapján elvégzi a rendszeres gyógyító ellátások havi költsége szakkérdésének vizsgálatát,
 
-b)[^172] nem teljesülnek, akkor a kérelmet elutasítja.
+b)[^178] nem teljesülnek, akkor a kérelmet elutasítja.
 
-(2)[^173] Az eljáró hatóság az (1) bekezdés b) pontja szerinti esetben az elutasító határozat közlésével egyidejűleg a zárt borítékban lévő háziorvosi igazolást felbontatlanul visszaküldi a kérelmezőnek.
+(2)[^179] Az eljáró hatóság az (1) bekezdés b) pontja szerinti esetben az elutasító határozat közlésével egyidejűleg a zárt borítékban lévő háziorvosi igazolást felbontatlanul visszaküldi a kérelmezőnek.
 
-(3)[^174]
+(3)[^180]
 
-[^168]: A 35/B. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 24/2015. (II. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^169]: A 36. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^170]: A 36. § (1) bekezdése a 24/2015. (II. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^171]: A 36. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (9) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
-[^172]: A 36. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 168. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^173]: A 36. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés k) pontja szerint módosított szöveg.
-[^174]: A 36. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (14) bekezdés a) pontja hatályon kívül helyezte.
+[^174]: A 35/B. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 24/2015. (II. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^175]: A 36. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^176]: A 36. § (1) bekezdése a 24/2015. (II. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^177]: A 36. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (9) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^178]: A 36. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 168. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^179]: A 36. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés k) pontja szerint módosított szöveg.
+[^180]: A 36. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (14) bekezdés a) pontja hatályon kívül helyezte.

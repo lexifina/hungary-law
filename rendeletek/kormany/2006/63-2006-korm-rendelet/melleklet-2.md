@@ -1,6 +1,6 @@
 ## Az ápolási díjra, illetve a gyermekek otthongondozási díjára való jogosultság megállapításra irányuló eljárásban elvégzendő szakértői vizsgálat szempontjai és pontozási rendszere
 
-## 1. Értékelési szempont- és pontozási rendszer (a 2–7., valamint a 9. sor minden esetben kitöltendő, a 8. sor csak a gyermekek otthongondozási díjával összefüggésben elvégzett vizsgálat esetében töltendő ki!)
+## 1. Értékelési szempont- és pontozási rendszer. [A 2–7., valamint a 9. sor minden esetben kitöltendő! Főszabály szerint a 8. sor töltendő ki, kivéve azok az esetek, amelyekben az ápolt személy autizmus diagnózissal rendelkezik (BNO F84.0–F84.9 besorolású betegség). Ha az ápolt személy rendelkezik autizmus diagnózissal, akkor a 8a. sort kell tölteni. Egyidejűleg a 8. és a 8a. sor nem tölthető ki!]
 
 |  |  | A | B | C |
 
@@ -16,9 +16,11 @@
 
 |  | 6. | Kontinencia | 0: vizeletét, székletét tartani képes 1: önállóan pelenkát cserél, elvégzi a higiénés feladatait 2: pelenkacserében, öltözködésben, illetve higiénés feladatokban alkalmanként segítséget igényel 3: rendszeres segítséget igényel pelenkacserében, öltözködésben, higiénés feladatok elvégzésében 4: teljes ellátásra szorul |  |
 
-|  | 7. | Lakáson belüli közlekedés | 0: önállóan 1: segédeszköz önálló használatával 2: segédeszköz használatával, segítséget esetenként igényel 3: segédeszköz használatával, gyakran csak segítséggel 4: nem képes |  |
+|  | 7. | Köznevelési intézmény, nappali ellátást nyújtó szociális intézmény látogatása | 0: önállóan 1: közlekedésben kíséretet igényel 2: intézménylátogatás esetenkénti felügyeletet igényel 3: intézménylátogatás csak folyamatos felügyelettel biztosítható 4: nem képes |  |
 
-|  | 8. | Köznevelési intézmény látogatása | 0: önállóan 1: közlekedésben kíséretet igényel 2: intézménylátogatás esetenkénti felügyeletet igényel 3: intézménylátogatás csak folyamatos felügyelettel biztosítható 4: nem képes |  |
+|  | 8. | Lakáson belüli közlekedés | 0: önállóan 1: segédeszköz önálló használatával 2: segédeszköz használatával, segítséget esetenként igényel 3: segédeszköz használatával, gyakran csak segítséggel 4: nem képes |  |
+
+|  | 8a. | Kihívást jelentő viselkedés | 0: viselkedését az adott szociális környezethez megfelelően alakítja; feszültségeit megfogalmazni képes 1: csökkent indulati fékek vagy túlérzékenység; viselkedését a szociális környezet elvárásainak megfelelően alakítani nehezére esik 2: a környezet számára nehezen érthető vagy gyakori ellenkezés, esetleg verbális agresszió; gyakori feszültség, de ezt megfogalmazni kevéssé képes 3: feszültségei nagyon gyakoriak, vagy visszatérők a dührohamok, esetleg destruktív és fizikai agresszió (tárgyak, önmaga, mások ellen irányuló) formájában nyilvánulnak meg 4: viselkedése miatt időszakosan vagy állandó jelleggel teljesen elszigetelődik szűkebb vagy tágabb szociális környezetétől |  |
 
 |  | 9. | Összesen |  |  |
 
@@ -46,6 +48,6 @@
 
 ## 4.3. megállapításai.
 
-2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^248]
+2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^256]
 
-[^248]: A 2. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^256]: A 2. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
