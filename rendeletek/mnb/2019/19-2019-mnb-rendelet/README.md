@@ -1,0 +1,9 @@
+# 19/2019. (V. 13.) MNB rendelet
+
+a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-19-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-07-15 | 2019-19-20-2C.1 | 19/2019. (V. 13.) MNB rendelet |

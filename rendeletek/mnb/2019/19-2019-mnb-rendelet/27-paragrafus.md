@@ -1,0 +1,5 @@
+## 27. § E rendelet 3. § (1) bekezdése, 3. § (2) bekezdés b) pontja, 3. § (2) bekezdés d) pont db) alpontja, 3. § (4) bekezdése, 7. §-a, 15–17. §-a – az MNB tv. 24. § (1) bekezdés b)–d) pontjával és (2)–(6) bekezdésével, valamint az érmék feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 20/2019. (V. 13.) MNB rendelet 3. § (1) bekezdésével, 3. § (2) bekezdés b) pontjával, 3. § (2) bekezdés d) pont db) alpontjával, 6. § (1) és (3) bekezdésével és 7–9. §-ával együtt –
+
+1. az euró pénzhamisítás elleni védelméhez szükséges intézkedések megállapításáról szóló, 2001. június 28-i 1338/2001/EK tanácsi rendelet és az azt módosító 44/2009/EK tanácsi rendelet,
+
+2. az euró pénzhamisítás elleni védelméhez szükséges intézkedések megállapításáról szóló 1338/2001/EK rendelet hatásainak az eurót közös valutaként el nem fogadó tagállamokra történő kiterjesztéséről szóló, 2001. június 28-i 1339/2001/EK tanácsi rendelet és az azt módosító 45/2009/EK tanácsi rendelet
