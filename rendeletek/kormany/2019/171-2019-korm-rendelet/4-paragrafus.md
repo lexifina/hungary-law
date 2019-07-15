@@ -1,0 +1,3 @@
+## 3. § A Pr. a következő 69. §-sal egészül ki:
+
+## „69. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosításáról szóló 171/2019. (VII. 12.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. számú mellékletet az ápolási díjra, illetve a gyermekek otthongondozási díjára való jogosultság megállapításra a Módr. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell, ha az ügyben eljáró szakértő a Módr. hatálybalépésének időpontjában a szakvéleményét még nem állította ki.”
