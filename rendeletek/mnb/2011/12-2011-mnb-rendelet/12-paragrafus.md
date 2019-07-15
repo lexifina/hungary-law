@@ -1,5 +1,0 @@
-12. § (1) A hitelintézet és a posta a forintérmék címletváltását és átváltását ténylegesen végző fiókjában jól látható helyen, hirdetményben köteles közzétenni a forintérmék címletváltása és átváltása tekintetében a 11. § (1) bekezdése szerint meghatározott feltételeket és díjat, valamint a 11. § (2) bekezdés a) pontjának megfelelően az átváltás igénybevételének lehetőségét.
-
-(2) A hitelintézet és a posta a 11. § (1) bekezdés c) pontja, valamint a (2) bekezdés a) pontja alapján a forintérmék címletváltását és átváltását ténylegesen nem végző fiókjában jól látható helyen, hirdetményben köteles közzétenni a forintérmék címletváltását és átváltását ténylegesen végző legközelebbi fiókjának címét, valamint az (1) bekezdésben meghatározott információkat.
-
-(3) A hitelintézet és a posta internetes honlap működtetése esetén köteles azon folyamatosan és könnyen hozzáférhető módon elérhetővé tenni a forintérmék címletváltását és átváltását ténylegesen végző fiókjainak listáját, valamint az (1) bekezdésben meghatározott információkat.
