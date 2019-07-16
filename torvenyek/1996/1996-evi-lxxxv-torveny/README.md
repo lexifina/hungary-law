@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-85-00-00
 | 2018-12-31 | 2018. évi CXI. törvény | 1996-85-00-00.35 |
 | 2019-01-01 | 2017. évi CLXXXVI. törvény | 1996-85-00-00.36 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 1996-85-00-00.37 |
+| 2019-07-16 | 2019. évi LXIV. törvény | 1996-85-00-00.38 |
