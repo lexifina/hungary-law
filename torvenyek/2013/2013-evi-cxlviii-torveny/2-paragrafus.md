@@ -4,23 +4,17 @@
 
 (3) A történelmi sportterület erdőterület területfelhasználási egységbe sorolt területét a kerületi építési szabályzatban az erdőterület területfelhasználási egységen belül történelmi sportterületként kell megjelölni.
 
-(4) A történelmi sportterületen
+(4) A történelmi sportterületen az 1. melléklet
 
-a) az 1. melléklet 1. pontjában meghatározott földrészleteken kizárólag sport- és szabadidő-rendeltetés helyezhető el, épület nem helyezhető el,
+a) 1. pontjában meghatározott földrészleteken épület nem, csak kizárólag sport- és szabadidő-, valamint ezeket kiszolgáló rendeltetés helyezhető el úgy, hogy az építmények összesített alapterülete nem haladhatja meg az érintett földrészletek területének 0,5%-át;
 
-b) az 1. melléklet 2. pont a) alpontjában meghatározott földrészleteken a meglévő épületek felújítása, korszerűsítése mellett az ingatlan meglévő beépítettsége legfeljebb 10%-kal növelhető, szállásférőhelyet is tartalmazó vendéglátó, sport-, szabadidő- és turisztikai, valamint biztonsági vagy rendészeti rendeltetés helyezhető el, a megengedett legnagyobb beépítési magasság a meglévő épület beépítési magassága,
+b) 2. pontjában meghatározott földrészleteken szállás-, vendéglátó-, sport-, szabadidő-, turisztikai-, oktatási-, kulturális-, egészségügyi- és ezeket kiszolgáló rendeltetés helyezhető el úgy, hogy a földrészlet meglévő beépítettsége legfeljebb 10%-kal növelhető;
 
-c) az 1. melléklet 2. pont b) alpontjában meghatározott földrészleten
+c) 2. pontjában meghatározott földrészleteken – a b) pontban foglaltakon túl – hitéleti rendeltetés céljára legfeljebb egy új épület, legfeljebb 500 m2 bruttó alapterületen és legfeljebb 15 méter beépítési magassággal helyezhető el, valamint kilátó helyezhető el úgy, hogy az új épület beépítési magassága nem haladhatja meg a meglévő épületek legnagyobb beépítési magasságát;
 
-ca) a meglévő épület bruttó alapterülete legfeljebb 10%-kal növelhető, a megengedett legnagyobb beépítési magasság a meglévő épület beépítési magassága,
+d) 3. pontjában meghatározott földrészleteken sport-, szabadidő- és közlekedési rendeltetés helyezhető el úgy, hogy a beépítettség az 1%-ot nem haladhatja meg;
 
-cb) kizárólag hitéleti rendeltetéssel legfeljebb egy új épület, legfeljebb 500 m2 bruttó alapterületen és legfeljebb 15 méter beépítési magassággal helyezhető el,
-
-d) az 1. melléklet 2. pont c) alpontjában meghatározott földrészleten a meglévő épületek felújítása, korszerűsítése mellett az ingatlan meglévő beépítettsége legfeljebb 10%-kal növelhető, szállásférőhelyet is tartalmazó vendéglátó, sport-, szabadidő- és turisztikai, közlekedési, valamint biztonsági vagy rendészeti rendeltetés helyezhető el,
-
-e) az 1. melléklet 3. pont a) alpontjában meghatározott földrészletek közül azon, amelyen a természeti értékek védelme nem sérül, legfeljebb 300 m2 bruttó alapterületű épület helyezhető el, a megengedett legnagyobb beépítési magasság 7,5 méter; a fennmaradó telkeken épület nem helyezhető el,
-
-f) az 1. melléklet 3. pont b) alpontjában meghatározott földrészleten sport-, szabadidő-, és közlekedési rendeltetés helyezhető el, a megengedett legnagyobb beépítettség 1%, a megengedett legnagyobb beépítési magasság 7,5 méter.
+e) 3. pontjában meghatározott földrészleteken – amelyeken a természeti értékek védelme nem sérül – a d) pontban foglaltakon túl egyenként legfeljebb 300 m2 bruttó alapterületű épület építése lehetséges úgy, hogy az épület legnagyobb beépítési magassága 7,5 méter lehet.
 
 (5) Az 1. melléklet 4–6. pontjában szereplő földrészleteken
 
@@ -44,6 +38,6 @@ i) közlekedési
 
 rendeltetés helyezhető el.
 
-(6) A történelmi sportterületre vonatkozó kerületi építési szabályzat készítése és jóváhagyása során a Fővárosi Szabályozási Kerettervet és a Budapesti Városrendezési és Építési Keretszabályzatot nem kell figyelembe venni.
+(6) A történelmi sportterületre vonatkozó településrendezési eszközöket az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (7) A beruházással érintett és az erdőtörvény hatálya alá tartozó ingatlanok esetében az erdővédelmi járulék megfizetése alól mentesül az ingatlan mindenkori tulajdonosa, amennyiben az igénybe vett ingatlan esetében annak megfizetésére jogszabály alapján kötelezettsége keletkezik.

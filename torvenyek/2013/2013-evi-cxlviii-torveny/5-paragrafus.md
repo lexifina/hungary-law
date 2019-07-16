@@ -1,1 +1,1 @@
-5. § Felhatalmazást kap Budapest Főváros XII. kerület Hegyvidéki Önkormányzat, hogy 2014. június 30-ig a történelmi sportterület területére a fővárosi településszerkezeti terv figyelembevételével rendelet formájában kerületi építési szabályzatot állapítson meg.
+5. § Felhatalmazást kap Budapest Főváros XII. kerület Hegyvidéki Önkormányzata, hogy a történelmi sportterület területén az e törvénynek megfelelő településrendezési eszközöket megalkossa.
