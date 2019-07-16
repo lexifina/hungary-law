@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2019-01-01 | 2018. évi CXXIX. törvény | 1993-48-00-00.76 |
 | 2019-01-15 | 2018. évi XCIX. törvény | 1993-48-00-00.77 |
 | 2019-03-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 1993-48-00-00.78 |
+| 2019-07-16 | 2019. évi LXIV. törvény | 1993-48-00-00.79 |

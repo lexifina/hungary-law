@@ -48,7 +48,7 @@ e) a magas inertgáz tartalmú földgáz esetében 8%-a;
 
 f) az energiahordozók kivételével a külfejtéssel termelt nemfémes ásványi nyersanyagok esetében 5%-a;
 
-g) kőszenek mélyműveléses bányászata esetén 0%-a;
+g) kőszenek bányászata esetén 0%-a;
 
 h) egyéb szilárd ásványi nyersanyagok esetében 2%-a;
 
