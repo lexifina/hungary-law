@@ -6,7 +6,7 @@ a) meghatározza az Egyezményből eredő feladatok végrehajtásának koncepci�
 
 b) érvényesíti a világörökségi szempontokat a világörökségi területet érintő jogszabályokban, illetve átfogó tervezési programokban;
 
-c) előkészíti a világörökségi területek, valamint a Kormány döntése alapján a Világörökség Jegyzékbe javasolt várományos területek világörökségi kezelési tervét (a továbbiakban: világörökségi kezelési terv), kezdeményezi annak felülvizsgálatát, illetve – szükség esetén – módosítását, valamint ellátja az ebből eredő egyéb feladatokat;
+c) előkészíti a Kormány részére a világörökségi területek világörökségi kezelési tervét (a továbbiakban: világörökségi kezelési terv), a Világörökség Jegyzékbe történő felvételt követően haladéktalanul intézkedik annak kihirdetéséről, továbbá szükség esetén kezdeményezi a világörökségi kezelési terv felülvizsgálatát, módosítását;
 
 d) gondoskodik a világörökségi terület állapotának felméréséről és folyamatos figyelemmel kíséréséről, továbbá megteszi a kiemelkedő egyetemes érték megőrzéséhez, bemutatásához, fenntartásához, valamint az azt érő káros hatások bekövetkezésének megelőzéséhez szükséges intézkedéseket;
 
@@ -24,6 +24,6 @@ j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles kö
 
 k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről;
 
-l) gondoskodik a hazai Világörökségi Várományos Helyszínek Jegyzékének vezetéséről,
+l) gondoskodik a hazai világörökségi területek és a Világörökségi Várományos Helyszínek Jegyzékének mint közhiteles nyilvántartásnak a vezetéséről;
 
 m) jogszabályban meghatározott módon gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.

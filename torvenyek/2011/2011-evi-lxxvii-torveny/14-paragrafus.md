@@ -8,16 +8,16 @@ b) a világörökségi testületbe tag delegálására jogosult minisztereket, a
 
 c) a világörökségi kezelési terv készítését, annak tartalmi elemeire vonatkozó részletes követelményeket, az érintettekkel történő előzetes egyeztetésének és felülvizsgálatának rendjét;
 
-d) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
+d) a világörökségi gondnokság kijelölésének szabályait és ellátandó feladatait,
 
-e) a világörökségi terület világörökségi kezelési tervét; valamint
+e) a világörökségi területre vonatkozóan a kiemelkedő egyetemes értéket és az azt hordozó elemeket (attribútumokat), valamint az ezek megőrzését és fenntartását biztosító alapvető kezelési követelményeket, korlátozásokat és tilalmakat meghatározó világörökségi kezelési tervet,
 
 f) a világörökségi helyszínen található ingatlanok vonatkozásában a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait, a 6/A. § (5) bekezdésében meghatározott hatóság kijelölését, valamint az elővásárlási joggal érintett ingatlanok adatait.
 
 (2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
 
-a) a világörökségi gondnokság kiválasztásának részletes szabályait, a világörökségi gondnokság feladatait és működését; valamint
+a) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
 
-b) a Világörökségi Várományos Helyszínek Jegyzékét.
+b) a világörökségi területtel érintett ingatlanokat.
 
 (3)

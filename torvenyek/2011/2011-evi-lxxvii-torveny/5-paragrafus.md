@@ -12,4 +12,4 @@ e) gondoskodik a Kormány döntése alapján a Világörökség Jegyzékbe jelö
 
 f) intézkedik a Világörökség Jegyzékbe jelölendő helyszín Világörökség Jegyzékbe történő jelöléséről, valamint
 
-g) gondoskodik a kiemelkedő kulturális örökségi és természeti értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról.
+g) gondoskodik a várományos helyszínen kiemelkedő értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról.
