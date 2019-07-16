@@ -1,1 +1,0 @@
-## „(10) A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.”
