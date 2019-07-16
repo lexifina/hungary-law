@@ -26,7 +26,7 @@ j) hatósági bizonyítvány kiállítása iránti,
 
 k) kötelezési,
 
-l) végrehajtási,
+l)
 
 m) szakhatósági, valamint
 

@@ -52,7 +52,7 @@
 
 7.5. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,
 
-8. a Dokumentációs Központ működésére vonatkozó részletes szabályokat, a Dokumentációs Központ részére átadandó dokumentációk és adatok, valamint a nemzeti tervvagyonba tartozó dokumentumok körét,
+8. a Dokumentációs Központ működésére vonatkozó részletes szabályokat, a Dokumentációs Központ részére átadandó dokumentációk és adatok, valamint a nemzeti tervvagyonba tartozó dokumentumok körét, a nemzeti tervvagyon kezelésének és a nemzeti tervvagyonnal kapcsolatos tulajdonosi joggyakorlói tevékenyég részletes szabályait,
 
 9. a Nyilvántartás működésének feltételeit, az adatszolgáltatás, az elektronikus ügyintézés rendjét, a Nyilvántartás használatához kapcsolódó, önköltségszámításon alapuló rendszerhasználati díjat, valamint az adatkezelésben részt vevők feladatait és felelősségét,
 
@@ -102,7 +102,7 @@
 
 16.4. eljárási rendjét, a tervtanácsi jegyzőkönyv és a tervtanácsi vélemény tartalmi követelményeit,
 
-17. az építésügyi és az építésfelügyeleti hatósági tevékenység, az építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi, kötelezési és végrehajtási eljárások, a hatósági bizonyítvány kiállításának, valamint az építésügyi és építésfelügyeleti hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések tartalmi követelményeinek részletes szabályait, az elektronikus építésügyi, építésfelügyeleti hatósági ügyintézés részletes szabályait, a szolgáltatásnyújtás részletes szabályait, a nemzetgazdasági szempontból kiemelt beruházások esetében a keresetlevél építésügyi hatóság általi, bíróság részére történő továbbításának szabályait, az építésügyi hatósági eljáráshoz kötött építési tevékenységek körét,
+17. az építésügyi és az építésfelügyeleti hatósági tevékenység, az építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi, kötelezési eljárások, a hatósági bizonyítvány kiállításának, valamint az építésügyi és építésfelügyeleti hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések tartalmi követelményeinek részletes szabályait, az elektronikus építésügyi, építésfelügyeleti hatósági ügyintézés részletes szabályait, a szolgáltatásnyújtás részletes szabályait, a nemzetgazdasági szempontból kiemelt beruházások esetében a keresetlevél építésügyi hatóság általi, bíróság részére történő továbbításának szabályait, az építésügyi hatósági eljáráshoz kötött építési tevékenységek körét,
 
 18. az építési beruházások megvalósításához szükséges eljárások integrált intézéséhez a közreműködő hatóságok kijelölését és feladatait, az integrált eljárásban a hatóságok együttműködésének közös és különös szabályait, továbbá az integrált eljárás kötelezően alkalmazandó esetköreit,
 
@@ -144,7 +144,7 @@
 
 32. az építészeti-műszaki tervezés során a tervezési díjfizetési kötelezettség nem teljesítése tárgyában hozott, az építészeti-műszaki tervezőt marasztaló jogerős bírósági ítéletről szóló értesítést vagy a nemfizetési jelzést követően lefolytatandó vizsgálat és az ennek alapján megállapítható jogkövetkezmények részletes szabályait,
 
-33. az építésügyi műszaki irányelv kidolgozásának, jóváhagyásának részletes szabályait, a kidolgozásban és a véleményezésben résztvevők körét, a jóváhagyott építésügyi műszaki irányelvek közzétételének módját és helyét, valamint a 31. § (6) bekezdésében meghatározott bizottság összetételét, feladatkörét és a működésére vonatkozó részletes szabályokat,
+33.
 
 34. a telekalakítás és építési tilalom elrendelése, továbbá a telekalakítás és cseretelek-adás részletes szabályait
 
@@ -190,15 +190,17 @@ rendelettel állapítsa meg.
 
 rendelettel állapítsa meg.
 
-(3) Felhatalmazást kap az építésgazdaságért felelős miniszter arra, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg a szakmagyakorlási jogosultságok megállapításával, névjegyzékek vezetésével kapcsolatos igazgatási szolgáltatási díjak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
+(3)
 
 (3a) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg
 
 1. az építésügyi és az építésfelügyeleti hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
 
-2. az építésügyi hatóságot szakkérdés vizsgálatáért megillető eljárási költségek körét, mértékét, annak beszedésével, kezelésével, nyilvántartásával kapcsolatos részletes szabályokat.
+2. az építésügyi hatóságot szakkérdés vizsgálatáért megillető eljárási költségek körét, mértékét, annak beszedésével, kezelésével, nyilvántartásával kapcsolatos részletes szabályokat,
 
-(3b) Felhatalmazást kap a településfejlesztésért és településrendezésért felelős miniszter arra, hogy az okos város településekre vonatkozó szakmai követelményeket rendeletben állapítsa meg.
+3. a szakmagyakorlási jogosultságok megállapításával, névjegyzékek vezetésével kapcsolatos igazgatási szolgáltatási díjak mértékét, továbbá a díjak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
+
+(3b) Felhatalmazást kap a településfejlesztésért és településrendezésért felelős miniszter arra, hogy – az e-közigazgatásért felelős miniszterrel egyetértésben – az okos településekre vonatkozó szakmai követelményeket rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az illetékekről szóló törvény szerinti termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló eljárás kivételével a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
 

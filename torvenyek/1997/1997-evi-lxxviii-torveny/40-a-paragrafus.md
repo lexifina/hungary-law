@@ -1,1 +1,1 @@
-40/A. § Ha az építtető vagy megbízott képviselője utasítása jogszabályt, hatósági határozatot sért, vagy az élet- és vagyonbiztonságot veszélyezteti, a vállalkozó kivitelező az utasítást és az azt megtagadó jognyilatkozatot köteles az építési naplóba bejegyezni.
+40/A. § Amennyiben az építtető vagy megbízott képviselője utasítása jogszabályt, hatósági határozatot sért, vagy az élet- és vagyonbiztonságot veszélyezteti, a vállalkozó kivitelező az utasítást és az azt megtagadó jognyilatkozatot köteles az építési naplóba bejegyezni.

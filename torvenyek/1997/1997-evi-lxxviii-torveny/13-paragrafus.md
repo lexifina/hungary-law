@@ -18,9 +18,11 @@ bd) a megengedett legnagyobb beépítési magasságot vagy építménymagasságo
 
 be) a szabályozási vonalat,
 
-bf) a beépítési módot, az építési helyet és
+bf) a beépítési módot, az építési helyet
 
-bg) a minimális zöldfelület mértékét;
+bg) a minimális zöldfelület mértékét,
+
+bh) a járművek mennyiségére és elhelyezésére vonatkozó előírásokat;
 
 c) országos vagy helyi építészeti örökségvédelemmel, – településképi rendelet hiányában – a településképi védelemmel, országos régészeti-, táj- és természetvédelemmel kapcsolatos rendelkezéseket, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre vonatkozó követelményeket, védőterületet, védőtávolságot
 

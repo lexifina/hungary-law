@@ -4,7 +4,7 @@
 
 (2) Az építésfelügyeleti hatóság az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint ellátja az építési folyamat felügyeletét, ellenőrzi az építmény műszaki állapotát, valamint feltárja a szabálytalan építkezéseket. Ennek keretében
 
-a) az építőipari kivitelezési tevékenység megkezdésével összefüggő építésfelügyeleti hatósági eljárásokat folytat le,
+a)
 
 b) a helyszínen, illetve a Nyilvántartás igénybevételével ellenőrzi az építőipari kivitelezési tevékenység
 
@@ -28,11 +28,11 @@ eb) építésfelügyeleti bírságot szab ki,
 
 ec) megkeresi az intézkedésre hatáskörrel rendelkező hatóságot,
 
-f) szakhatósági eljárást folytat le.
+f)
 
 (3) Az építésfelügyeleti hatóság jogszabályban meghatározott módon
 
-a) a (2) bekezdés a) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység megkezdését vagy annak folytatását megtilthatja, feltételhez kötheti vagy tudomásul veszi,
+a)
 
 b) a (2) bekezdés b) pont ba), bc), bd) alpontja, és a (2) bekezdés e) pontja szerinti feladatkörében az építőipari kivitelezési tevékenység folytatását
 

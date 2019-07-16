@@ -46,7 +46,7 @@
 
 18. Sajátos építményfajták: többnyire épületnek nem minősülő, közlekedési, hírközlési, közmű- és energiaellátási, vízellátási és vízgazdálkodási, bányászati tevékenységgel és a bányászati hulladék kezelésével kapcsolatos, atomenergia alkalmazására szolgáló, valamint a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, illetve rendeltetésű, sajátos technológiájú építmények amelyek létesítésekor – az építményekre, építési tevékenységekre vonatkozó általános érvényű településrendezési és építési követelményrendszeren túlmenően – eltérő, vagy sajátos, csak arra a rendeltetésű építményre jellemző, kiegészítő követelmények megállapítására és kielégítésére van szükség.
 
-19. Építési napló: az építőipari kivitelezési tevékenység megkezdésétől annak befejezéséig vezetett, hatósági és bírósági eljárásban felhasználható, a szerződés tárgya szerinti építőipari kivitelezési tevékenység jellemzőit – kormányrendeletben meghatározott módon – tartalmazó dokumentum.
+19. Építési napló: az építőipari kivitelezési tevékenység megkezdésétől annak befejezéséig vezetett, hatósági és bírósági eljárásban felhasználható, a szerződés tárgya szerinti építőipari kivitelezési tevékenység jellemzőit – jogszabályban meghatározott módon – tartalmazó dokumentum.
 
 20. Energetikai tanúsítvány: igazoló okirat, amely az épületnek vagy önálló rendeltetési egységnek az e törvény felhatalmazása alapján kiadott jogszabály szerinti számítási módszerrel meghatározott energetikai teljesítőképességét tartalmazza.
 
@@ -106,4 +106,6 @@ f) az 55/A. § (3) bekezdése alapján megillető felhasználási jogok vagy vag
 
 összessége, ideértve az állami, önkormányzati tulajdonú szervezetek általi megrendelésre készült épületek azon építészeti-műszaki dokumentációit is, amelyen a megrendelő a szerzői vagyoni jogokat vagy a felhasználási jogokat megszerezte.
 
-42. Építésügyi műszaki irányelv: jogszabály vagy európai vagy nemzeti szabvány által nem vagy nem teljeskörűen szabályozott területen, ismételt vagy folyamatos alkalmazás céljára, széles körű szakmai összefogással és állami felügyelet mellett létrehozott, magyar nyelven kiadott, mindenki számára hozzáférhető műszaki előírás.
+42. Építésügyi műszaki irányelv: jogszabály vagy európai vagy nemzeti szabvány által nem vagy nem teljeskörűen szabályozott területen, ismételt vagy folyamatos alkalmazás céljára, széles körű szakmai összefogással és állami felügyelet mellett létrehozott, magyar nyelven kiadott, mindenki számára hozzáférhető építésügyi műszaki előírás.
+
+43. Barnamezős terület: olyan földrészlet vagy földrészletek összessége – ide nem értve a mező- és erdőgazdasági területeket –, amely elsősorban ipari, kereskedelmi, közlekedési vagy honvédelmi célú felhasználást követően felhagyottá, alulhasznosítottá vagy leromlott állapotúvá vált, jellemzően környezetszennyezéssel terhelt, ugyanakkor környezeti és műszaki beavatkozással értéknövelt, fejleszthető területté alakítható.

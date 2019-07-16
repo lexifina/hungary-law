@@ -4,7 +4,7 @@
 
 a) az építésfelügyeleti és építésügyi hatósági tevékenységgel kapcsolatos feladatok (ideértve a szükség szerinti szakértői igénybevétel támogatását is) és az ellenőrzések hatékonyságának és színvonalának emelése,
 
-b) a hatósági végrehajtási eljárás,
+b)
 
 c) a településfejlesztési és a településrendezési feladatok,
 

@@ -23,3 +23,5 @@
 (10) A fővárosban a tulajdonos a (4) bekezdés szerinti igényét – választása szerint – a fővárosi vagy kerületi önkormányzatnál terjesztheti elő. A megvétel vagy a kisajátítás tekintetében a (6) és (7) bekezdés fővárosra vonatkozó rendelkezéseit kell alkalmazni.
 
 (11) A települési (a fővárosban a fővárosi és a kerületi) önkormányzatot kártalanítási kötelezettség nem terheli, amennyiben a településrendezési eszköz (1) bekezdés szerinti előírása területrendezési tárgyú jogszabály települési szintű érvényesítésének közvetlen következménye.
+
+(12) Ha az országos településrendezési és építési követelményekről szóló kormányrendelet meteorológiai obszervatórium védőtávolságával összefüggésben építési tilalmat ír elő, és ebből az ingatlan tulajdonosának, haszonélvezőjének kára származik – ide nem értve az (5) bekezdésben foglalt eseteket –, a tulajdonost, a haszonélvezőt kártalanítás illeti meg, amely az állam kötelezettsége.

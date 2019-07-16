@@ -24,6 +24,6 @@ g) az építmény jókarbantartására vonatkozó kötelezettség teljesítésé
 
 (3) Az építésügyi vagy építésfelügyeleti hatóság megkeresésére az ingatlan-nyilvántartásba az (1) és (2) bekezdés, valamint a 46. § (3) bekezdés e) pont eb) alpontja szerint végleges döntéssel elrendelt kötelezettséget be kell jegyezni.
 
-(4) Az építésügyi vagy építésfelügyeleti hatóság, amennyiben a végrehajtható kötelezettséget – annak nem teljesítése miatt a kötelezett terhére hatósági úton, a felmerülő költségeket megelőlegezve – maga végezteti el, a költségek erejéig, azok megtérítéséig az érintett ingatlanra jelzálogjogot jegyeztethet be az ingatlan-nyilvántartásba.
+(4)
 
 (5)

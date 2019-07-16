@@ -42,7 +42,7 @@ f) a cégnyilvántartás személyes adatait.
 
 (7) A Nyilvántartásban
 
-a) határidő nélkül nyilvántarthatóak és nem törölhetőek a személyes adatok az archiválandó dokumentumok esetében; ilyenek különösen:
+a) határidő nélkül nyilvántarthatóak és nem törölhetőek a személyes adatok az archiválandó dokumentumok esetében, ilyenek különösen:
 
 aa) tervdokumentációk esetében a tervező és az építtető adatai,
 

@@ -10,4 +10,4 @@ d) a tetőtér-beépítésből eredő többlet gépjármű elhelyezése a tetőt
 
 e) a területfelhasználási egységre vagy építési övezetre a helyi építési szabályzatban – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközökben – megállapított maximális lakásszámba a tetőtér-beépítéssel létrejött lakás nem számít bele, és
 
-f) a tetőtér-beépítésekre és az épület belső udvarának lefedésére vonatkozóan e törvény felhatalmazása alapján kiadott kormányrendelet további előírásokat állapíthat meg, amelyeknél szigorúbb követelményeket a helyi építési szabályzat – a fővárosban a kerületi építési szabályzat – nem állapíthat meg.
+f) a tetőtér-beépítésekre és az épület belső udvarának lefedésére vonatkozóan e törvény felhatalmazása alapján kiadott kormányrendelet további előírásokat állapíthat meg, amelyeknél szigorúbb követelményeket a helyi építési szabályzat – a fővárosban a 14/A. § (2) bekezdés b)–d) pontja szerinti településrendezési eszközök – nem állapíthat meg.

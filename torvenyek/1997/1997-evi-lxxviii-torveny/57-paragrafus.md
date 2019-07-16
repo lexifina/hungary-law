@@ -5,3 +5,5 @@
 (3) A helyi védetté nyilvánításról vagy annak megszüntetéséről, továbbá a védettséggel összefüggő korlátozásokról és kötelezettségekről és támogatásokról a települési önkormányzat (a fővárosban a fővárosi és a kerületi önkormányzat is) a településképi rendeletben dönt.
 
 (4) Az önkormányzat – a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 5. § (1) bekezdésében foglalt együttműködési kötelezettségre figyelemmel – a helyi védettség településrendezési eljáráson kívüli megszüntetéséről szóló rendelet tervezetét tájékoztatásul megküldi a kulturális örökségvédelmi hatóságnak.
+
+(5) Az önkormányzati rendeletben megállapított helyi egyedi építészeti védelmet jogi jellegként az ingatlan-nyilvántartásban fel kell jegyezni.

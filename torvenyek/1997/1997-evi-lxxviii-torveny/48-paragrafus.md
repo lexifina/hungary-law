@@ -32,7 +32,7 @@ bc) természetes személy esetében a meglévő lakóépület 300 négyzetméter
 
 bd) természetes személy építtető kivételével, 300 négyzetméter összes hasznos alapterületet meghaladó lakóépület esetében bejelentéssel
 
-c) ahhoz jogszabály alapján építési napló vezetése szükséges és a tevékenységet építési napló hiányában
+c) ahhoz jogszabály alapján építési napló vezetése szükséges, valamint a tevékenységet építési napló hiányában
 
 végzik.
 
