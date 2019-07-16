@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-21-00-00
 | 2018-05-18 | 2018. évi V. törvény | 1996-21-00-00.50 |
 | 2019-01-02 | 2018. évi CXXXIX. törvény | 1996-21-00-00.51 |
 | 2019-03-15 | 2018. évi CXXXIX. törvény | 1996-21-00-00.52 |
+| 2019-07-16 | 2019. évi LXIV. törvény | 1996-21-00-00.53 |

@@ -10,10 +10,10 @@
 
 (3) A 6. § d) pontjában foglalt tervek kivételével a tervjavaslatot és a megyei területrendezési terv elfogadásáról szóló rendelettervezetet az egyeztetést követően az elfogadott és el nem fogadott vélemények indoklásával együtt állásfoglalásra meg kell küldeni a területrendezésért felelős miniszternek.
 
-(4) A rendelet tervezethez csatolni kell az állami főépítész nyilatkozatát a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel való összhangjáról.
+(4) A rendelettervezethez csatolni kell az állami főépítész nyilatkozatát a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel való összhangjáról. Az állami főépítész 15 napon belül adja ki nyilatkozatát, ha e határidőn belül nem nyilatkozik, nyilatkozatát egyetértőnek lehet tekinteni.
 
 (5) A megyei önkormányzat a területrendezési tervről szóló rendeletét a területrendezésért felelős miniszter állásfoglalásának beszerzését követően fogadhatja el. A területrendezésért felelős miniszter egy hónapon belül adja ki állásfoglalását, ha e határidőn belül nem nyilatkozik, úgy állásfoglalását egyetértőnek kell tekinteni.
 
 (6)
 
-(7) A megyei főjegyző a terv elfogadásáról szóló rendeletet előzményeivel (tervjavaslattal, az elfogadott és el nem fogadott vélemények indokolásával, az állami főépítész nyilatkozatával és a területrendezésért felelős miniszter állásfoglalásával) együtt küldi meg a kormányhivatalnak.
+(7) A megyei főjegyző a terv elfogadásáról szóló rendeletet előzményeivel, azaz a tervjavaslattal, az elfogadott és el nem fogadott vélemények indokolásával, az állami főépítész nyilatkozatával és a területrendezésért felelős miniszter állásfoglalásával együtt küldi meg a kormányhivatalnak. Ha a (4) bekezdés szerinti állami főépítészi nyilatkozat nem vagy nem határidőre került kiadásra, azt nem kell csatolni a rendelet előzményeihez.
