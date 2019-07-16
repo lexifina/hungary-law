@@ -420,143 +420,289 @@ Vép – Vasvár – Felsőpáhok
 
 |
 
-1. Albertirsa – Kecskemét
+|
+
+A
 
 |
 
-2. Almásfüzitő – Dad térsége
+1.
 
 |
 
-3. Bogád – Hercegszántó – (Szerbia)
+Albertirsa – Mikebuda – Cegléd – Csemő – Nyársapát – Nagykőrös – Városföld – Kecskemét
 
 |
 
-4. Bogád – Kaposvár
+2.
 
 |
 
-5. Detk térsége
+Almásfüzitő – Dad térsége
 
 |
 
-6. Ercsi térsége
+3.
 
 |
 
-7. Gönyű – (Szlovákia)
+Bogád – Hercegszántó – (Szerbia)
 
 |
 
-8. Győr térsége – Abda – Vámosszabadi – (Szlovákia)
+4.
 
 |
 
-9. Hajdúböszörmény – Berettyóújfalu – Békéscsaba
+Bogád – Kaposvár
 
 |
 
-10. Hajdúböszörmény – Létavértes – (Románia)
+5.
 
 |
 
-11. Kecskemét – Nyárlőrinc
+Detk térsége
 
 |
 
-12. Kerepes térsége
+6.
 
 |
 
-13. Kisvárda térsége – Hajdúböszörmény
+Ercsi térsége
 
 |
 
-14. Kisvárda térsége
+7.
 
 |
 
-15. Kisvárda térsége – Kisrozvágy – (Szlovákia)
+Gönyű – (Szlovákia)
 
 |
 
-16. Kisvárda térsége – Nyírtelek térsége
+8.
 
 |
 
-17. Martonvásár – Győr
+Győr térsége – Abda – Vámosszabadi – (Szlovákia)
 
 |
 
-18. Oroszlány – Dad térsége
+9.
 
 |
 
-19. Paks – Albertirsa
+Hajdúböszörmény – Berettyóújfalu – Békéscsaba
 
 |
 
-20. Paks [I.]
+10.
 
 |
 
-21. Paks – Litér [II.]
+Hajdúböszörmény – Létavértes – (Románia)
 
 |
 
-22. Paks [II.]
+11.
 
 |
 
-23. Paks [III.]
+Kecskemét – Nyárlőrinc
 
 |
 
-24. Perkáta
+12.
 
 |
 
-25. Répcelak térsége
+Kerepes térsége
 
 |
 
-26. Sajóivánka – Kazincbarcika – Berente
+13.
 
 |
 
-27. Sajóivánka – Bánréve – (Szlovákia)
+Kisvárda térsége – Hajdúböszörmény
 
 |
 
-28. Sajószöged – Hajdúböszörmény
+14.
 
 |
 
-29. Sajószöged – Nyírtelek térsége – Kisvárda térsége
+Kisvárda térsége
 
 |
 
-30. Szeged – Röszke [II.] – (Szerbia)
+15.
 
 |
 
-31. Szeged térsége
+Kisvárda térsége – Kisrozvágy – (Szlovákia)
 
 |
 
-32. Székesfehérvár térsége
+16.
 
 |
 
-33. Szigetcsép térsége
+Kisvárda térsége – Nyírtelek térsége
 
 |
 
-34. Szolnok – Nyárlőrinc
+17.
 
 |
 
-35. Tiszaújváros – Sajószöged [II.]
+Martonvásár – Győr
+
+|
+
+18.
+
+|
+
+Oroszlány – Dad térsége
+
+|
+
+19.
+
+|
+
+Paks – Albertirsa
+
+|
+
+20.
+
+|
+
+Paks [I.]
+
+|
+
+21.
+
+|
+
+Paks – Litér [II.]
+
+|
+
+22.
+
+|
+
+Paks [II.]
+
+|
+
+23.
+
+|
+
+Paks [III.]
+
+|
+
+24.
+
+|
+
+Perkáta
+
+|
+
+25.
+
+|
+
+Répcelak térsége
+
+|
+
+26.
+
+|
+
+Sajóivánka – Kazincbarcika – Berente
+
+|
+
+27.
+
+|
+
+Sajóivánka – Bánréve – (Szlovákia)
+
+|
+
+28.
+
+|
+
+Sajószöged – Hajdúböszörmény
+
+|
+
+29.
+
+|
+
+Sajószöged – Nyírtelek térsége – Kisvárda térsége
+
+|
+
+30.
+
+|
+
+Szeged – Röszke [II.] – (Szerbia)
+
+|
+
+31.
+
+|
+
+Szeged térsége
+
+|
+
+32.
+
+|
+
+Székesfehérvár térsége
+
+|
+
+33.
+
+|
+
+Szigetcsép térsége
+
+|
+
+34.
+
+|
+
+Szolnok – Nyárlőrinc
+
+|
+
+35.
+
+|
+
+Tiszaújváros – Sajószöged [II.]
 
 5. Meglévő 220 kV-os átviteli hálózat távvezetékek
 

@@ -16,4 +16,4 @@ f) 10 méter beépítési magasságot meghaladó építmény – a kizárólag k
 
 g) védelmi és közjóléti erdőtelepítés, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 
-h) energetikai célú növénytelepítés nem megengedett.
+h) a területen környezetszennyező tevékenység nem folytatható, továbbá új vegyszertároló és hulladékkezelő létesítmény nem létesíthető, valamint energetikai célú növénytelepítés nem megengedett.

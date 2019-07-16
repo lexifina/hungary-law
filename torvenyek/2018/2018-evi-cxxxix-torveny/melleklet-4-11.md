@@ -10,7 +10,7 @@ Országos hulladékgazdálkodási létesítmények
 
 2. Meglévő veszélyeshulladék-lerakó:
 
-2.1. Apc
+2.1. Jobbágyi
 
 2.2. Debrecen
 

@@ -34,9 +34,11 @@ Tervezett szakaszok
 
 |
 
-Tárnok (7. sz. főút) – Herceghalom (1. sz. főút)
+Tárnok – Herceghalom (1. sz. főút)
 
 |
+
+Érd (6. sz. főút) – Tárnok
 
 |
 
@@ -334,7 +336,9 @@ Ecser – Vecsés – Gyál – Alsónémedi – Dunaharaszti
 
 |
 
-Budapest IX. kerület [Rákóczi híd Dunapart] – Budapest XIX. kerület
+Budapest IX. kerület [Rákóczi híd Dunapart] –
+
+Budapest XIX. kerület
 
 |
 
@@ -366,7 +370,9 @@ Biatorbágy – Telki – Perbál – Piliscsaba
 
 |
 
-Budapest I. kerület [Erzsébet híd Dunapart] – Budapest II.
+Budapest I. kerület [Erzsébet híd Dunapart] –
+
+Budapest II.
 
 |
 
@@ -418,7 +424,17 @@ Budapest XXI. kerület – Szigetszentmiklós
 
 |
 
-Budapest XXI. kerület – Tököl
+Budapest XXI. kerület – Tököl, Szigetszentmiklós – Budapest XXII. kerület
+
+|
+
+16.
+
+|
+
+Dunakeszi
+
+|
 
 5. Térségi kikötők
 

@@ -1,4 +1,4 @@
-73. § (1) E § alkalmazásában zöldterület: a Balaton vízparti területére eső, zöldterületként kijelölt, valamint az e törvény felhatalmazása alapján kiadott miniszteri rendeletben zöldterületté átsorolt terület.
+73. § (1) E § alkalmazásában zöldterület: a Balaton vízparti területére eső, a településrendezési eszközökben zöldterületként kijelölt, valamint az e törvény felhatalmazása alapján kiadott miniszteri rendeletben zöldterületté átsorolt terület.
 
 (2) E § szerinti zöldterületen más települési területfelhasználási egység csak közfeladat ellátása érdekében, az átsorolni kívánt zöldterülettel legalább azonos alapterületű új zöldterület egyidejű kijelölésével és az alábbi feltételek egyidejű teljesülése esetén jelölhető ki:
 

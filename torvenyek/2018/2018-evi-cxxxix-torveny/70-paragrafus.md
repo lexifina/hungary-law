@@ -18,7 +18,7 @@ d) a beépítésre szánt területek,
 
 e) a természetes partszakaszok,
 
-f) a strandolásra és a kikötők elhelyezésére alkalmas partszakaszok, továbbá
+f) a strandolásra alkalmas és hajók kikötésére felhasználható partszakaszok, továbbá
 
 g) a parti sétányok
 
@@ -28,7 +28,9 @@ lehatárolását.
 
 (4) Ahol e fejezet a vízparti területekre vonatkozóan külön előírásokat nem tartalmaz, ott az e törvény felhatalmazása alapján kiadott, 48. § (2) bekezdése szerinti kormányrendelet előírásait, az ezzel összhangban álló OTÉK követelményeket, valamint a településrendezési eszközök és az egyes településrendezési sajátos jogintézmények tárgyában kiadott kormányrendelet előírásait kell alkalmazni.
 
-(5) Azon ingatlan, amelyet – az e törvény felhatalmazása alapján kiadott (2) bekezdés szerinti miniszteri rendelettel összhangban – zöldterületként, illetve parti sétányként jelöl ki a helyi építési szabályzat, zöldterület esetében a zöldterületté, parti sétány esetében a zöldterületté, közlekedési, vízgazdálkodási célú közterületté, vegyes területté vagy különleges kikötő közhasználat elől el nem zárható területté alakítás érdekében, terület- vagy településrendezési célból, a kisajátításról szóló törvényben foglaltak szerint kisajátítható.
+(5) Azon ingatlan, amelyet – az e törvény felhatalmazása alapján kiadott (2) bekezdés szerinti miniszteri rendelettel összhangban – zöldterületként, illetve parti sétányként jelöl ki a helyi építési szabályzat, zöldterület esetében a zöldterületté, parti sétány esetében a zöldterületté, közlekedési területté, vízgazdálkodási területté vagy különleges kikötő terület közhasználat elől el nem zárható területévé alakítás érdekében, terület- vagy településrendezési célból, a kisajátításról szóló törvényben foglaltak szerint kisajátítható.
+
+(5a) A jogi vagy szabályozási partvonallal határos földrészletre – a védett természeti területek kivételével – a közigazgatási területével érintett települési önkormányzatnak elővásárlási joga áll fenn. A jogi vagy szabályozási partvonallal határos földrészlet tekintetében – sorrendben a közigazgatási területével érintett települési önkormányzatot követően – az államot is megilleti az elővásárlási jog. A települési önkormányzatot megillető elővásárlási jogot az önkormányzat kérésére, az államot megillető elővásárlási jogot az elővásárlási jog gyakorlására törvényben meghatározott szerv kérésére az ingatlan-nyilvántartásba be kell jegyezni.
 
 (6) Ha az ingatlan rendeltetését, használati módját a helyi építési szabályzat a (2) bekezdés szerinti miniszteri rendelettel összhangban állapítja meg másként, vagy azt korlátozza, és ebből a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt egyösszegű, az Étv. 30. § (2) és (3) bekezdése szerinti kártalanítás illeti meg.
 

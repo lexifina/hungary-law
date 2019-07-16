@@ -490,6 +490,20 @@ Vasvár (M80) – Zalaegerszeg – Nagykanizsa – Kaposvár – Dombóvár – 
 
 Dusnok – Szeged (M5)
 
+|
+
+33.
+
+|
+
+M38:
+
+|
+
+|
+
+Záhony térsége (M34) – (Szlovákia)
+
 2. Távlati kiemelt szolgáltatást nyújtó főutak
 
 |
@@ -534,7 +548,7 @@ Hatvan (M3) – Mátraverebély –
 
 |
 
-– Mátraverebély – Salgótarján – Ipolytarnóc – (Szlovákia)
+– Mátraverebély – Salgótarján – Somoskőújfalu – (Szlovákia)
 
 |
 
@@ -866,7 +880,7 @@ Mosonmagyaróvár (1. sz. főút) – Rajka – (Szlovákia)
 
 |
 
-Salgótarján – Somoskőújfalu – (Szlovákia)
+Mátraverebély (21. sz. főút) Salgótarján – Somoskőújfalu – (Szlovákia)
 
 |
 
@@ -998,7 +1012,7 @@ Miskolc (M30) – Miskolc (3. sz. főút)
 
 |
 
-Felsőzsolca (3. sz. főút) – Szirmabesenyő (26. sz. főút)
+Miskolc (M30) – Szirmabesenyő (26. sz. főút)
 
 |
 
@@ -1010,7 +1024,7 @@ Felsőzsolca (3. sz. főút) – Szirmabesenyő (26. sz. főút)
 
 |
 
-Budapest – Maglód; Nagykáta – Jászberény – Dormánd (33. sz. főút)
+Budapest (M0) – Sülysáp – Nagykáta – Jászberény – Dormánd (33. sz. főút)
 
 |
 
@@ -1154,7 +1168,7 @@ Sátoraljaújhely (37. sz. főút) – Cigánd – Kisvárda (4. sz. főút)
 
 |
 
-Mezőzombor (37. sz. főút) – Mád – Abaújszántó
+Mezőzombor (37. sz. főút) – Mád – Abaújszántó – Encs (3. sz. főút)
 
 |
 
@@ -1358,7 +1372,7 @@ Kecskemét (5. sz. főút) – Kecskemét (44. sz. főút)
 
 |
 
-Kunszentmárton (44. sz. főút) – Szentes – Hódmezővásárhely (M47)
+Kunszentmárton (44. sz. főút) – Szentes – Hódmezővásárhely (47. sz. főút)
 
 |
 
@@ -2054,7 +2068,7 @@ Vát (86. sz. főút) – Sárvár (84. sz. főút)
 
 |
 
-Gencsapáti (87. sz. főút) – Bucsu – (Ausztria)
+Szombathely (87. sz. főút) – Bucsu – (Ausztria)
 
 |
 
@@ -2708,7 +2722,7 @@ Kiskunfélegyháza (5. sz. főút) – Kiskunhalas – Mélykút – Kunbaja –
 
 |
 
-Hódmezővásárhely (M47) – Kübekháza térsége (Szerbia/Románia)
+Hódmezővásárhely (47. sz. főút) – Kübekháza térsége (Szerbia/Románia)
 
 |
 
@@ -2718,7 +2732,7 @@ Hódmezővásárhely (M47) – Kübekháza térsége (Szerbia/Románia)
 
 |
 
-Hódmezővásárhely (M47) – Makó (43. sz. főút)
+Hódmezővásárhely (47. sz. főút) – Makó (43. sz. főút)
 
 |
 

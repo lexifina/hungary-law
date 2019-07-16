@@ -4,7 +4,7 @@ a) a tervezett területfelhasználás jól illeszkedik a település meglevő sz
 
 b) táj- és természetvédelmi, környezetvédelmi, erdővédelmi, valamint kulturális örökségvédelmi és vízgazdálkodási szempontok alapján nem sért társadalmi érdeket, továbbá
 
-c) a tervezett funkció ellátásához szükséges műszaki infrastruktúra-kapacitás azt lehetővé teszi, vagy az a terület igénybevételével párhuzamosan kiépül.
+c) a tervezett funkció ellátásához szükséges műszaki infrastruktúra-kapacitás azt lehetővé teszi, vagy az a terület igénybevételével párhuzamosan kiépül, továbbá új lakóterület kijelölése esetén a Kormány rendeletében meghatározott feltételek teljesülnek.
 
 (2) Új beépítésre szánt terület a település közigazgatási határához 200 méternél közelebb csak az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak a területrendezési hatósági eljárása során kiadott területfelhasználási engedélye alapján jelölhető ki.
 

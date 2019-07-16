@@ -6,7 +6,7 @@
 
 a) beépítésre szánt terület és belterület nem jelölhető ki;
 
-b) a beépíthető telek legkisebb nagysága 2000 m2, országos jelentőségű védett természeti területen 2700 m2, kivéve, ha 2000. december 31. előtt jóváhagyott helyi építési szabályzat más mértéket állapított meg;
+b) a beépíthető telek legkisebb nagysága 2000 m2, országos jelentőségű védett természeti területen 2700 m2, kivéve, ha helyi építési szabályzat más mértéket állapított meg;
 
 c) legfeljebb 3%-os beépítettséggel, legfeljebb 150 m2 bruttó alapterületű, a műveléssel összefüggő egyetlen gazdasági épület és legfeljebb egyetlen különálló, földdel borított pince építhető;
 

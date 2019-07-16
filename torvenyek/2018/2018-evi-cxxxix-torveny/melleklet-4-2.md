@@ -22,11 +22,7 @@ B
 
 |
 
-Esztergom – (Szlovákia)
-
 |
-
-M10
 
 |
 
@@ -268,6 +264,18 @@ Mohács
 
 (új főút)
 
+|
+
+11.
+
+|
+
+Esztergom – (Szlovákia)
+
+|
+
+M10
+
 1.3. Meglévő vasúti hidak
 
 |
@@ -462,7 +470,7 @@ Algyő
 
 |
 
-M47
+47. sz. főút
 
 |
 

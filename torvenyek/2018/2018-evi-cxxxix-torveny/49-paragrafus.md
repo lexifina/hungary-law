@@ -16,4 +16,4 @@ d) vízgazdálkodási térség,
 
 e) települési térség,
 
-f) legalább 2 ha kiterjedésű sajátos területfelhasználású térség.
+f) sajátos területfelhasználású térség.

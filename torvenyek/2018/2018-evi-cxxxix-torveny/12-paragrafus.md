@@ -6,7 +6,7 @@ a) az új beépítésre szánt terület csatlakozik a meglévő települési ter
 
 b) az új beépítésre szánt terület kijelölése nem okozza a különböző települések beépítésre szánt területeinek összenövését, és
 
-c) új beépítésre szánt terület kijelölésére csak akkor kerül sor, ha a települési térségben nincs a tervezett rendeltetésnek megfelelő beépítésre szánt területen beépítetlen földrészlet, vagy olyan használaton kívül került vagy alulhasznosított, általában leromlott fizikai állapotban lévő terület, amely a tervezett rendeltetésnek megfelelne.
+c) új beépítésre szánt terület kijelölésére csak akkor kerül sor, ha a települési térségben nincs a tervezett rendeltetésnek megfelelő beépítésre szánt területen beépítetlen földrészlet, vagy az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti barnamezős terület.
 
 (2) Az (1) bekezdés c) pontja szerinti szempontot abban az esetben nem kell alkalmazni, ha a c) pont szerinti meglévő beépítésre szánt terület – tervezett rendeltetésnek megfelelő – igénybevétele aránytalanul nagy terhet jelentene annak várható költsége miatt.
 

@@ -12,7 +12,7 @@ b) a Balaton jogi partvonalát – a partvonal-szabályozási tervtől eltérőe
 
 a) a parti móló, hullámtörő, kikötői építmény és a fürdőházak eredeti formában történő újjáépítése kivételével a tómederbe állandó építmény, sziget nem építhető;
 
-b) részben vagy egészében lakhatási célú úszólétesítmény és hajózási létesítmény nem létesíthető és nem üzemeltethető;
+b) részben vagy egészében lakhatási vagy üdülési célú úszólétesítmény és hajózási létesítmény nem létesíthető és nem üzemeltethető;
 
 c) a b) pont szerinti tilalom nem terjed ki a hajózási hatóságra, a vízirendészetre, a vámhatóságra, a hivatásos katasztrófavédelmi szervre és a vízügyi igazgatási szervre a kikötők vízterületére vonatkozóan;
 
@@ -26,6 +26,6 @@ a) az I–III. osztályú nádasban, illetve annak legalább 2 méteres vonzásk
 
 b) a természetvédelmi kezelési tervben részletezett természetvédelmi kezelés kivételével a védett természeti területen található nádasban – osztályba sorolástól függetlenül, és a 74. § (2) bekezdésben foglaltak kivételével – tilos a kotrás, valamint minden olyan tevékenység, amely a nádas állományát veszélyezteti vagy károsítja;
 
-c) a tómeder nádasában a kikötésre alkalmas partszakaszokon engedéllyel rendelkező kikötők, valamint a meglévő strandok előtt a kikötő, strand engedélyezett szélességében a bejáró külön engedély nélkül fenntartható;
+c) a tómeder nádasában a hajók kikötésére felhasználható partszakaszokon engedéllyel rendelkező kikötők, valamint a meglévő strandok előtt a kikötő, strand engedélyezett szélességében a bejáró külön engedély nélkül fenntartható;
 
 d) az az üzemeltetési engedélyköteles vízi jármű, amely nem rendelkezik üzemeltetési engedéllyel és kiépített kikötőben kikötőhellyel, a tómeder területén nem tárolható.

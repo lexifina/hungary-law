@@ -119,3 +119,15 @@ Balatonfenyves Gazdasági Vasút – Somogyszentpál
 |
 
 Balatonszentgyörgy elágazás – Sármellék
+
+|
+
+10.
+
+|
+
+226
+
+|
+
+Tapolca – [Zalahaláp]

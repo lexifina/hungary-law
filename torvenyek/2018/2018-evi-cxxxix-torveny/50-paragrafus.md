@@ -6,7 +6,7 @@
 
 a) az erdőgazdálkodási térség területét az erdők övezetére és az erdőtelepítésre javasolt terület övezetére, valamint a kiemelt üdülőkörzet területére, továbbá a parti és partközeli településekre vonatkozó előírások alapján kell a településrendezési eszközökben erdőterület területfelhasználási egységként lehatárolni;
 
-b) a településrendezési eszközökben a védelmi és közjóléti erdőterület területfelhasználási egységbe sorolt erdőterület a település közigazgatási területén összességében nem csökkenhet;
+b) a településrendezési eszközökben erdőterület területfelhasználási egységbe sorolt erdőterület a település közigazgatási területén összességében nem csökkenhet;
 
 c) a mezőgazdasági térség területét elsődlegesen általános mezőgazdasági terület vagy természetközeli terület települési területfelhasználási egységbe kell sorolni, továbbá mezőgazdasági térség területén új nagyvárosias lakóterület és új üdülőterület nem jelölhető ki;
 

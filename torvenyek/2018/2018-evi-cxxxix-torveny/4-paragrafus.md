@@ -6,7 +6,7 @@
 
 2. ásványi nyersanyagvagyon övezete: kiemelt térség esetében a területrendezésért felelős miniszter rendeletében, valamint a megyei területrendezési tervben megállapított övezet, amelyben a megállapított bányatelekkel lefedett, valamint bányatelekkel le nem fedett, az állam kizárólagos tulajdonát képező, az állami ásványi nyersanyag és geotermikus energiavagyon nyilvántartás szerint nyilvántartott ásványi nyersanyagvagyon területei találhatók;
 
-3. Balaton vízparti területei: a Balaton tómedrének a partvonallal közvetlenül érintkező része, valamint a tómedertől számítva a szárazulaton, a területrendezésért felelős miniszter rendeletében lehatárolt olyan terület, amely a part menti területek közcélú használatának szabályozását igényli;
+3. Balaton vízparti területei: a Balaton tómedrének a partvonallal érintkező legfeljebb 500 méter széles sávja, valamint a tómedertől számítva a szárazulaton, a területrendezésért felelős miniszter rendeletében lehatárolt olyan terület, amely a part menti területek közcélú használatának szabályozását igényli;
 
 4. borszőlő termőhelyi kataszteri terület övezete: a BKÜTrT-ben egyedileg meghatározott és lehatárolt övezet, amelybe a szőlő termőhelyi kataszteri I. és II. osztályú területek tartoznak, ahol hosszú távú cél a minőségi szőlő- és bortermő területek védelme;
 
@@ -40,11 +40,11 @@
 
 19. jó termőhelyi adottságú szántók övezete: a területrendezésért felelős miniszter rendeletében megállapított, kiemelt térségi területrendezési terv esetében a területrendezésért felelős miniszter rendeletében, valamint a megyei területrendezési tervben alkalmazott övezet, amelybe jó növénytermesztési feltételekkel rendelkező szántóterületek tartoznak;
 
-20. kemping: az ingatlan-nyilvántartásban kempingként vagy táborhelyként bejegyzett, vagy a településrendezési eszközben kempingként kijelölt, vagy az e törvény felhatalmazása alapján a Balaton vízparti területeinek közcélú területfelhasználása tárgyában kiadott miniszteri rendeletben kempingként kijelölt terület, vagy más jogszabály szerinti kemping;
+20. kemping: a településrendezési eszközben kempingként kijelölt, vagy az e törvény felhatalmazása alapján a Balaton vízparti területeinek közcélú területfelhasználása tárgyában kiadott miniszteri rendeletben kempingként kijelölt terület, vagy más jogszabály szerinti kemping;
 
 21. kertes mezőgazdasági terület övezete: a BKÜTrT-ben egyedileg meghatározott és lehatárolt övezet, amelybe a beépítésre nem szánt mezőgazdasági területek közül azok a zártkerti vagy zártkerti művelésből kivett mezőgazdasági területek tartoznak, amelyek fekvése, szerkezete, telekstruktúrája, hasznosítása módja és intenzitása, valamint beépítettsége eltér az általános mezőgazdasági terület övezetének területeitől, így kisüzemi használatú telkekből (földrészletekből) állnak, és ahol a kert, szőlő és gyümölcsös művelési ágak dominálnak;
 
-22. kertes mezőgazdasági térség: a BATrT-ben egyedileg megállapított olyan területfelhasználási kategória, amelybe azon zártkerti területek tartoznak, amelyek fekvése, szerkezete, telekstruktúrája, hasznosítása módja és intenzitása, valamint beépítettsége eltér a mezőgazdasági térség területeitől;
+22. kertes mezőgazdasági térség: a BATrT-ben egyedileg megállapított olyan területfelhasználási kategória, amelybe azon zártkerti vagy zártkerti művelésből kivett mezőgazdasági területek tartoznak, amelyek fekvése, szerkezete, telekstruktúrája, hasznosítása módja és intenzitása, valamint beépítettsége eltér a mezőgazdasági térség területeitől;
 
 23. kiemelt térség: a Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet területe;
 
@@ -94,7 +94,7 @@
 
 46. települési terület: a település belterülete, valamint az ahhoz csatlakozó beépítésre szánt terület;
 
-47. Területfelhasználási egység: a település igazgatási területének a jellemző rendeltetés szerint megkülönböztetett területegysége, amely azonos jellemző vagy kijelölt településfunkciónak biztosít területet.
+47. területfelhasználási egység: a település igazgatási területének a jellemző rendeltetés szerint megkülönböztetett területegysége, amely azonos jellemző vagy kijelölt településfunkciónak biztosít területet;
 
 48. térség: a területrendezés szempontjából megkülönböztetett területi egység, amelyre vonatkozóan a területrendezési terv előírásokat határoz meg;
 

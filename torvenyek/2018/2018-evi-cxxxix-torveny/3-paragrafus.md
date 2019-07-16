@@ -6,4 +6,4 @@
 
 (4) A településrendezési eszközök e törvényben meghatározott előírásoknál szigorúbb követelményeket megállapíthatnak.
 
-(5) Ha a településrendezési eszköz adott tárgykörben nem szabályoz, akkor e törvény rendelkezéseit kell alkalmazni.
+(5) Ha a településrendezési eszköz adott tárgykörben nem szabályoz, akkor e törvény és az e törvénnyel összhangban lévő megyei területrendezési terv rendelkezéseit kell alkalmazni.

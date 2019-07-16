@@ -10,4 +10,6 @@ b) a 7. melléklet szerinti Budapesti Agglomeráció Szerkezeti Tervében a 10. 
 
 területére esik.
 
-(3) Fővárosi kerület esetében e törvény hatálybalépésétől az e törvénynek és a felhatalmazása alapján kiadott miniszteri rendeletnek megfelelően felülvizsgált Fővárosi Szabályozási Kerettervről és a Budapesti Városrendezési és Építési Szabályzatról szóló fővárosi közgyűlési rendelet hatálybalépéséig a kerületi településrendezési eszköz készítésénél e törvényben és a felhatalmazása alapján kiadott miniszteri rendeletben foglalt előírások alkalmazhatók.
+(3) Fővárosi kerület esetében e törvény hatálybalépésétől az e törvénynek és a felhatalmazása alapján kiadott miniszteri rendeletnek megfelelően felülvizsgált fővárosi településszerkezeti terv és a fővárosi rendezési szabályzat hatálybalépéséig a kerületi településrendezési eszköz készítésénél e törvényben és a felhatalmazása alapján kiadott miniszteri rendeletben foglalt előírások alkalmazhatók.
+
+(4) A fővárosi településszerkezeti tervet és a fővárosi rendezési szabályzatot 2020. március 15-ig e törvénynek és a felhatalmazása alapján kiadott miniszteri rendeletnek megfelelően felül kell vizsgálni és módosítani kell.

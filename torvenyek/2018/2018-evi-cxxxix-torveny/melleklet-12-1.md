@@ -4,7 +4,7 @@ A közúthálózat Balaton Kiemelt Üdülőkörzet területét érintő térség
 
 1. Meglévő térségi szerepkörű összekötő utak
 
-1.1. Galambok (7. sz. főút) – [Zalabér]
+1.1. Galambok (M7) – [Zalabér]
 
 1.2. Galambok – Zalakomár – [Somogyzsitfa (Szőcsénypuszta)] – Marcali
 
@@ -20,13 +20,15 @@ A közúthálózat Balaton Kiemelt Üdülőkörzet területét érintő térség
 
 1.8. Pula – Öcs – [Ajka]
 
-1.9. [Sümeg] – Zalaszántó – Rezi – Cserszegtomaj – Keszthely
+1.9. Hévíz – Zalakomár
 
-1.10. Hévíz – Zalakomár
+1.10. Vállus – Keszthely
 
-1.11. Vállus–Keszthely
+1.11. Lengyeltóti – Balatonboglár
 
-1.12. M7 és 7. sz. főút összekötései: Balatonszárszónál, Balatonőszödnél, Ordacsehinél, Balatonfenyvesnél
+1.12. Hollád – [Szenyér]
+
+1.13. M7 és 7. sz. főút összekötései: Balatonszárszónál, Balatonőszödnél, Ordacsehinél, Balatonfenyvesnél
 
 2. Tervezett térségi szerepkörű összekötő utak
 
@@ -34,7 +36,7 @@ A közúthálózat Balaton Kiemelt Üdülőkörzet területét érintő térség
 
 2.2. Csömend – [Somogyfajsz – Juta]
 
-2.3. Lengyeltóti – Somogymeggyes – Tab – 65. sz. főút
+2.3. Lengyeltóti – Somogymeggyes – Tab – Som (65. sz. főút)
 
 2.4. Tótvázsony (77. sz. főút) – Hidegkút – Balatonszőlős – Aszófő (71. sz. főút)
 
@@ -44,7 +46,7 @@ A közúthálózat Balaton Kiemelt Üdülőkörzet területét érintő térség
 
 2.7. Zalaszántó – Várvölgy – Lesencetomaj
 
-2.8. elkerülők: Tapolca, Monostorapáti, Kapolcs, Nagyvázsony
+2.8. elkerülők: Tapolca, Monostorapáti, Kapolcs, Nagyvázsony, Badacsonytomaj – Badacsonytördemic, Pula, Kereki – Kőröshegy, Andocs, Lengyeltóti
 
 3. Tervezett mellékutak:
 
@@ -92,7 +94,7 @@ A közúthálózat Balaton Kiemelt Üdülőkörzet területét érintő térség
 
 3.22. Dörgicse – Tagyon
 
-3.23. Vigántpetend – Monoszló
+3.23. Szentjakabfa – Monoszló
 
 3.24. Monoszló – Balatoncsicsó
 
@@ -127,3 +129,13 @@ A közúthálózat Balaton Kiemelt Üdülőkörzet területét érintő térség
 3.39. Dióskál – [Orosztony]
 
 3.40. Balatonmagyaród – Zalakomár
+
+3.41. Litér – Királyszentistván
+
+3.42. Aszófői átkötés 7303. és 7307. j. mellékutak között
+
+3.43. Nagyvázsonyi átkötés a 77. sz. főút és elkerülője között
+
+3.44. Ádánd – Szabadhídvég
+
+3.45. Zánkai átkötés 7312. és 7313. j. mellékutak között
