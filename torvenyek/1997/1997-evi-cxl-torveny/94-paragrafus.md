@@ -4,7 +4,9 @@ a) büntetlen előéletű, és nem áll muzeális intézményben, nyilvános kö
 
 b) a munkakör betöltéséhez jogszabályban meghatározott végzettséggel és szakképesítéssel rendelkezik.
 
-(2)–(3)
+(2) A Kormány rendeletben meghatározhatja azon intézmények körét, amelyeknél – az ellátott közfeladat jellegéből adódóan – közszolgáltatás ellátására irányuló foglalkoztatási jogviszonyként munkaviszony létesíthető.
+
+(3)
 
 (4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 

@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2018-04-01 | 2017. évi CLXXXI. törvény | 1997-140-00-00.50 |
 | 2018-12-26 | 2018. évi CVI. törvény | 1997-140-00-00.51 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 1997-140-00-00.52 |
+| 2019-07-16 | 2019. évi LXIV. törvény | 1997-140-00-00.53 |
