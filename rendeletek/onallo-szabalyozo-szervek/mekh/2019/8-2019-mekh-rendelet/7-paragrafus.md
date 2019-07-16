@@ -1,3 +1,5 @@
 ## 6. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-7. § Hatályát veszti a szomszédos nem EU-tagállam földgázszállító rendszeréhez kapcsolódó határkeresztező gázvezeték betáplálási-kiadási pontján a kapacitások felajánlásáról szóló 9/2016. (XI. 10.) MEKH rendelet.
+7. §[^1]
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
