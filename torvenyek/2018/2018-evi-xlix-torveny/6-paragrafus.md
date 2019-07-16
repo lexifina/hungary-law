@@ -3,3 +3,5 @@
 (2) Azon kiemelt budapesti fejlesztések esetében továbbá, amelyekben az adott létesítmény kivitelezése tekintetében építtetőként nem a Társaság kerül kijelölésre, a Társaság egyoldalúan jogosult az általa elkészíttetett tervekre vonatkozó felhasználási engedélyt, illetve a felhasználási szerződést a kijelölt építtetőre átruházni. Az ilyen átruházáshoz a tervező mint szerző hozzájárulása nem szükséges, de a Társaság a felhasználási engedély, illetve a szerződés átruházásáról értesíti a szerzőt.
 
 (3) A szerződés átruházása esetén az átvevő személyt további közbeszerzési kötelezettség nem terheli, és a tervek felhasználási jogának átruházása esetén az átvevő személyt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
+
+(4) Az (1)–(3) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni a 3. § (1) bekezdése szerinti, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság és annak 100%-os tulajdonában álló nonprofit gazdasági társaság közötti szerződés átruházásra is.

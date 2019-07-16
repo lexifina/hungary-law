@@ -6,13 +6,19 @@
 
 20. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét,
+a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét és a kiemelt budapesti fejlesztések előkészítése során ellátandó egyes feladatokat,
 
-b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, valamint az érintett szervezetek közötti együttműködés rendjét,
+b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, a Társaság feladataiban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét,
 
 c) a Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
 
-d) a Budapest Diákváros – Déli Városkapu Fejlesztési Program esetében a kivitelezés tekintetében az építtető személyét.
+d) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt nemzetközi sportesemények rendezési jogának megszerzésével kapcsolatos feladatait,
+
+e) a 3. § (1) bekezdése szerinti Társaságot,
+
+f) a kormánybiztos irányítása alatt álló kiemelt budapesti fejlesztések körét, valamint a beruházásirányítási jog tartalmát,
+
+g) a 2. § (1) bekezdés c) pontja szerinti feladatokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

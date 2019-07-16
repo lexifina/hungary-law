@@ -2,24 +2,66 @@
 
 (2) A Vagyonkezelő mint építtető az (1) bekezdés szerinti beruházások vonatkozásában különösen az alábbi feladatokat látja el:
 
-a) teljes körűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, tanulmányokat,
+a) a beruházás előkészítése során:
 
-b) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban,
+aa) teljeskörűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, felméréseket, tanulmányokat,
 
-c) a saját nevére megszerzi az építési és egyéb engedélyeket,
+ab) kidolgozza vagy kidolgoztatja a fenntartási és üzemeltetési modellt,
 
-d) lefolytatja a közbeszerzési eljárásokat,
+ac) elkészíti vagy elkészítteti a hatástanulmányt, szakvéleményeket, szakértői tanulmányokat,
 
-e) megköti a megvalósításra vonatkozó építési és egyéb szerződéseket,
+ad) beruházási tervet készít vagy készíttet,
 
-f) elvégzi a teljesítések igazolását,
+ae) tervezési programot készít vagy készíttet,
 
-g) gondoskodik az építési műszaki ellenőri tevékenység ellátásáról,
+af) költség- és időkalkulációt készít vagy készíttet,
 
-h) gondoskodik a műszaki átadás-átvétel lebonyolításáról,
+ag) lefolytatja a helyszínvizsgálatot,
 
-i) a feladatok elvégzéséhez beruházás-lebonyolítót vehet igénybe.
+ah) elkészíti vagy elkészítteti a beruházási programot,
+
+ai) elfogadja a beruházási alapokmányt és programot,
+
+aj) lebonyolítja a tervpályázatot,
+
+ak) elkészíti vagy elkészítteti a településrendezési eszközöket, rendezi a beruházással érintett ingatlan jogi helyzetét,
+
+al) elkészíti vagy elkészítteti a vázlattervet,
+
+am) elkészíti vagy elkészítteti a jóváhagyási tervet,
+
+an) gondoskodik a tervellenőri feladatok elvégzéséről,
+
+ao) elkészíti vagy elkészítteti és jóváhagyja az engedélyezési dokumentációt,
+
+ap) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, lefolytatja az engedélyeztetést, saját nevére megszerzi az építési és egyéb engedélyeket,
+
+aq) elkészíti vagy elkészítteti és jóváhagyja a kivitelezési dokumentációt,
+
+ar) lefolytatja a beruházás előkészítéséhez szükséges közbeszerzési eljárásokat;
+
+b) a beruházás megvalósítása során:
+
+ba) előkészíti és lefolytatja a beruházás megvalósítására vonatkozó közbeszerzési eljárásokat,
+
+bb) előkészíti és megköti a beruházás megvalósítására vonatkozó építési és egyéb szerződéseket, ideértve különösen a tanácsadói, lebonyolítói, mérnöki, tervezési és egyéb szakértői szerződéseket,
+
+bc) lefolytatja az üzempróbákat, üzembe helyezést,
+
+bd) elkészítteti a megvalósulási dokumentációt,
+
+be) gondoskodik az építési műszaki ellenőri tevékenység ellátásáról,
+
+bf) gondoskodik a műszaki átadás-átvétel lebonyolításáról,
+
+bg) elvégzi a teljesítések igazolását,
+
+bh) közreműködik a használatbavételi engedélyezési, illetve tudomásulvételi eljárásban,
+
+bi) érvényesíti a szavatossági és jótállási jogokat.
 
 (3) A Vagyonkezelő, mint építtető az (1) bekezdés szerinti beruházások tekintetében a feladatait az állam nevében és javára eljárva látja el.
 
 (4) A Vagyonkezelő által a vagyonkezelésében lévő ingatlanon az (1) bekezdés szerinti beruházások megvalósításával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül.
+
+(5) A Vagyonkezelő mint építtető feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
