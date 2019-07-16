@@ -1,4 +1,4 @@
-## 29. § Hatályát veszti a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 11/2011. (IX. 6.) MNB rendelet.
+## 29. §[^3]
 
 1. melléklet a 19/2019. (V. 13.) MNB rendelethez
 
@@ -67,3 +67,5 @@ A forintbankjegyen a kibocsátásáról rendelkező MNB hirdetményben, illetve 
 4.11. Hajtogatásból eredő gyűrődés
 
 A forintbankjegy teljes felületén többszörös, véletlenszerű elhelyezkedésű gyűrődések találhatók, amelyek kedvezőtlenül befolyásolják a forintbankjegy megjelenését, tartását. Az összehajtott forintbankjegy forgalomképtelennek minősül, amennyiben az összehajtogatás miatt a forintbankjegy hossza, illetve szélessége több, mint 3 mm-rel csökkent.
+
+[^3]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

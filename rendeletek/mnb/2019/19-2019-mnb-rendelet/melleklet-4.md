@@ -58,7 +58,7 @@
 
 1. A jegyzőkönyvnek – a 2. pontban foglalt eltérésekkel – a következő adatokat kell tartalmaznia:
 
-1.1. A szakértői vizsgálat kezdeményezésének oka[^3]:
+1.1. A szakértői vizsgálat kezdeményezésének oka[^4]:
 
 a) hamisgyanús bankjegy,
 
@@ -94,4 +94,4 @@ i) a jegyzőkönyv sorszáma.
 
 2.3. Az ügyfél által kezelt gépből származó hamisgyanús bankjegyre vonatkozóan a jegyzőkönyvet az 1.2. pont e) és f) alpontjában meghatározott adatok nélkül kell elkészíteni.
 
-[^3]: A megfelelő ok aláhúzással jelölendő.
+[^4]: A megfelelő ok aláhúzással jelölendő.
