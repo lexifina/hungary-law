@@ -2,21 +2,21 @@
 
 a) 2. § 19. pontjában a „kormányrendeletben meghatározott” szövegrész helyébe a „jogszabályban meghatározott” szöveg,
 
-b) 33/A. § (5) bekezdésében az „esetén” szövegrész helyébe a „kormányrendeletben meghatározott eseteiben” szöveg,
+b)
 
 c) 2. § 42. pontjában a „műszaki előírás” szövegrész helyébe az „építésügyi műszaki előírás” szöveg,
 
-d) 33/A. § (4) bekezdés a) pontjában az „a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével, kizárólag elektronikus úton” szövegrész helyébe a „kormányrendeletben meghatározott módon” szöveg,
+d)
 
-e) 33/A. § (4) bekezdés c) pontjában a „kivitelezési dokumentációt” szövegrész helyébe a „dokumentációt” szöveg,
+e)
 
-f) 40. § (1) bekezdés a) pontjában az „az építési napló vezetéséért, kivitelezői” szövegrész helyébe a „kivitelezői” szöveg,
+f)
 
 g) 40/A. §-ában a „ha az” szövegrész helyébe az „amennyiben az” szöveg,
 
-h) 43. § (1) bekezdés f) pontjában a „meglétéért, az elektronikus építési napló vezetése esetén az építési napló készenlétbe helyezéséért” szövegrész helyébe a „meglétéért” szöveg,
+h)
 
-i) 46. § (3) bekezdés b) pont bc) alpontjában a „megtiltja” szövegrész helyébe az „építési napló hiányában megtiltja, ha annak vezetése az e törvény végrehajtására kiadott kormányrendelet alapján kötelező” szöveg,
+i)
 
 j) 48. § (2) bekezdés c) pontjában a „szükséges és a” szövegrész helyébe a „szükséges, valamint a” szöveg,
 
