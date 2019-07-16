@@ -1,0 +1,3 @@
+52. § A Trtv. 70. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) A jogi vagy szabályozási partvonallal határos földrészletre – a védett természeti területek kivételével – a közigazgatási területével érintett települési önkormányzatnak elővásárlási joga áll fenn. A jogi vagy szabályozási partvonallal határos földrészlet tekintetében – sorrendben a közigazgatási területével érintett települési önkormányzatot követően – az államot is megilleti az elővásárlási jog. A települési önkormányzatot megillető elővásárlási jogot az önkormányzat kérésére, az államot megillető elővásárlási jogot az elővásárlási jog gyakorlására törvényben meghatározott szerv kérésére az ingatlan-nyilvántartásba be kell jegyezni.”
