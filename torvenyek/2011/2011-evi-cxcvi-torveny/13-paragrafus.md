@@ -8,7 +8,7 @@
 
 (4) Nemzeti vagyon tulajdonjogának ingyenes átruházása esetén a tulajdonjogot megszerző félnek – az állam kivételével – eleget kell tennie a következő feltételeknek:
 
-a) a nemzeti vagyoni körből ingyenesen tulajdonba adott ingatlant a tulajdonjog megszerzésétől számított 15 évig nem idegenítheti el, és a juttatás céljának megfelelően köteles hasznosítani, valamint állagát megóvni;
+a) a nemzeti vagyoni körből ingyenesen tulajdonba adott ingatlant a tulajdonjog megszerzésétől számított 15 évig nem idegenítheti el, és a juttatás céljának megfelelően köteles hasznosítani, valamint állagát megóvni azzal, hogy a juttatási cél megvalósítása érdekében végzett bontás vagy átalakítás nem minősül az állagmegóvási kötelezettség megszegésének;
 
 b) az átruházott vagyon hasznosításáról évente beszámol a vagyont átadó szervezet felé.
 
