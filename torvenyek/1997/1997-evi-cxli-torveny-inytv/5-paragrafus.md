@@ -15,3 +15,5 @@
 (6) Az állami ingatlan-nyilvántartási térképi adatbázisban nem rögzített, továbbá törölt (érvénytelenített) földrészletről, egyéb önálló ingatlanról azt kell vélelmezni, hogy az nem áll fenn. A bizonyítási kötelezettség azt terheli, aki az állami ingatlan-nyilvántartási térképi adatbázis helyességét, teljességét vitatja.
 
 (7) A Ptk.-nak az ingatlan-nyilvántartási adatok irányadó jellegére vonatkozó rendelkezése tekintetében az adatok helyessége alatt az adatoknak az okiratokkal való egyezőségét is érteni kell.
+
+(8) Ha az ingatlan művelési ága, fő rendeltetése vagy jogi jellege tekintetében közhiteles nyilvántartásban (a továbbiakban: egyéb közhiteles nyilvántartás) az ingatlan művelési ága, fő rendeltetése vagy jogi jellege vonatkozásban változás történik, akkor az e közhiteles nyilvántartást vezető szerv automatikus információátadás útján az ingatlan-nyilvántartásba történő bejegyzés céljából átadja az ingatlanügyi hatóságnak az erre vonatkozó adatot. Az ingatlanügyi hatóság az adatátadást követő 30 napon belül köteles intézkedni a két nyilvántartás közötti összhang megteremtéséről.
