@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-57-00-00
 | 2013-12-11 | 2013. évi CCVII. törvény | 2004-57-00-00.16 |
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2004-57-00-00.17 |
 | 2015-07-01 | 2015. évi XLII. törvény | 2004-57-00-00.18 |
+| 2019-07-16 | 2019. évi LXV. törvény | 2004-57-00-00.19 |
