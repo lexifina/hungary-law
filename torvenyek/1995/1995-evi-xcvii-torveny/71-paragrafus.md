@@ -125,3 +125,5 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 44. légialkalmassági tanúsítvány: típusalkalmassági tanúsítvánnyal rendelkező légijármű esetében az adott típushoz tartozó, gyártási számmal, lajstromjellel rendelkező egyedi légijármű esetében a típusalkalmasságra vonatkozó előírásoknak való megfelelést tanúsító, határozatlan időtartamig érvényes hatósági okmány;
 
 45. légialkalmassági felülvizsgálati tanúsítvány: a 44. pontban meghatározott légialkalmassági tanúsítvánnyal rendelkező légijárműhöz tartozó, a folyamatos légialkalmassági feltételeknek a kiadás napján való megfelelést igazoló, meghatározott ideig érvényes hatósági okmány.
+
+46. akadálykorlátozási felület: az a felület, amely meghatározza, hogy tárgyak meddig nyúlhatnak ki a légtérbe.
