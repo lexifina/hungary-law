@@ -16,7 +16,9 @@ f) az európai statisztikákról és a titoktartási kötelezettség hatálya al
 
 g) az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló, 2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet 6c. cikke,
 
-h) a méltányos használatra vonatkozó feltételek alkalmazására és a kiskereskedelmi barangolási többletdíjak eltörlése fenntarthatóságának értékelési módszertanára, valamint a barangolásszolgáltatók által az értékelés céljából benyújtandó kérelemre vonatkozó részletes szabályok megállapításáról szóló 2016. december 15-i 2016/2286 (EU) bizottsági végrehajtási rendelet 10. cikke
+h) a méltányos használatra vonatkozó feltételek alkalmazására és a kiskereskedelmi barangolási többletdíjak eltörlése fenntarthatóságának értékelési módszertanára, valamint a barangolásszolgáltatók által az értékelés céljából benyújtandó kérelemre vonatkozó részletes szabályok megállapításáról szóló 2016. december 15-i 2016/2286 (EU) bizottsági végrehajtási rendelet 10. cikke,
+
+i) az Európai Elektronikus Hírközlési Szabályozók Testületének (BEREC) és a BEREC Működését Segítő Ügynökségnek (BEREC Hivatal) a létrehozásáról, az (EU) 2015/2120 rendelet módosításáról, valamint az 1211/2009/EK rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2018/1971 európai parlamenti és tanácsi rendelet 50. cikke
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 

@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2003-100-00-00.72 |
 | 2018-08-08 | 2018. évi LIV. törvény | 2003-100-00-00.73 |
 | 2019-01-01 | 2018. évi CXXI. törvény | 2003-100-00-00.74 |
+| 2019-07-17 | 2019. évi LXVII. törvény | 2003-100-00-00.75 |

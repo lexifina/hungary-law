@@ -1,6 +1,6 @@
 ## VII. Fejezet
 
-## KISKERESKEDELMI BARANGOLÁSI TÖBBLETDÍJ ALKALMAZÁSÁNAK ENGEDÉLYEZÉSE
+## KISKERESKEDELMI BARANGOLÁSI TÖBBLETDÍJ ALKALMAZÁSÁNAK, VALAMINT AZ EU-N BELÜLI SZABÁLYOZOTT HÍRKÖZLÉSI SZOLGÁLTATÁSOKRA VONATKOZÓ KISKERESKEDELMI DÍJAKTÓL VALÓ ELTÉRÉS ENGEDÉLYEZÉSE
 
 72. § (1) A barangolásszolgáltató a belföldi díjszabási modellje fenntarthatóságának biztosítása érdekében, kiskereskedelmi barangolási többletdíj (e § alkalmazásában a továbbiakban: többletdíj) alkalmazásának engedélyezése iránt a méltányos használatra vonatkozó feltételek alkalmazására és a kiskereskedelmi barangolási többletdíjak eltörlése fenntarthatóságának értékelési módszertanára, valamint a barangolásszolgáltatók által az értékelés céljából benyújtandó kérelemre vonatkozó részletes szabályok megállapításáról szóló, 2016. december 15-i 2016/2286 (EU) bizottsági végrehajtási rendelet (a továbbiakban: roaming végrehajtási rendelet) III. szakaszában meghatározott tartalom szerint kérelmet nyújthat be az Elnökhöz.
 
