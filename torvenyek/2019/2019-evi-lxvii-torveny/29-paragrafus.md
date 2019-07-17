@@ -1,6 +1,6 @@
 ## 12. Átmeneti rendelkezések
 
-29. § (1) E törvény 2. és 3. alcímét 2020. szeptember 3-át követő részvényesi azonosításra, társasági eseményről való részvényesi tájékoztatásra, közgyűlési szavazásra kell alkalmazni.
+29. § (1)
 
 (2) E törvény 5. és 6. alcímét e törvény hatálybalépését követően induló üzleti évtől kell alkalmazni.
 
@@ -8,7 +8,7 @@
 
 (4) A 19. § (2) bekezdés b) pontja szerinti kötelezettségének a nyilvánosan működő részvénytársaság az e törvény alapján elfogadott javadalmazási politika alkalmazásának első öt üzleti évében úgy tesz eleget, hogy csak a már az e törvény alapján elfogadott javadalmazási politikákra vonatkozóan alkalmazza a rendelkezést.
 
-(5) A Ptk. e törvénnyel megállapított 3:273. § (5) bekezdését és a 3:281. § (3) bekezdését az 2020. szeptember 3-át követő időpontra összehívott közgyűlésre kell alkalmazni.
+(5)
 
 (6) A Ptk. e törvénnyel megállapított 3:268. § (2)–(4) bekezdéseit és 3:279. § (2) bekezdését először az e rendelkezések hatálybalépését követő első javadalmazási politikára és az ennek alapján készült első javadalmazási jelentésre kell alkalmazni.
 
