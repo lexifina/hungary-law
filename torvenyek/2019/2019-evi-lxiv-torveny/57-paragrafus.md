@@ -1,5 +1,0 @@
-57. § A Trtv. 90. § (1) bekezdése helyébe a következő rendelkezés lép és a § a következő (1a) bekezdéssel egészül ki:
-
-„(1) E törvény rendelkezéseit – figyelemmel az (1a) bekezdésben foglaltakra is – a hatálybalépését követően indult 3. § (1) és (3) bekezdés szerinti eljárásokban kell alkalmazni.
-
-(1a) Ha e rendelkezés hatálybalépésekor – a településrendezési eszköz módosításánál – az érintett államigazgatási szervet első alkalommal már megkeresték, a települési önkormányzat választhat, hogy e törvény és a végrehajtására kiadott miniszteri rendelet térségi területfelhasználási és övezeti szabályait, vagy a 2019. március 14-én hatályos Országos Területrendezési Tervről, Budapesti Agglomeráció Területrendezési Tervéről és a Balaton Kiemelt Üdülőkörzet Területrendezési Tervéről szóló törvények térségi területfelhasználási és övezeti szabályait alkalmazza. A településrendezési eszközök e bekezdés szerinti módosítása nem mentesíti a települési önkormányzatot a 91. § (2) bekezdésében, 92. § (1) bekezdésében és 93. § (1) bekezdésében foglalt kötelezettségének teljesítése alól.”

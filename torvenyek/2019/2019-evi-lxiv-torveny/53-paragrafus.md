@@ -1,3 +1,0 @@
-53. § A Trtv. 71. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Településrendezési eszköz készítése vagy módosítása során a beépítésre szánt területnek a Balaton vízparti területeivel érintett területén – az e törvény hatálybalépésekor hatályos településrendezési eszközökben kijelölt területfelhasználási egységre vonatkozóan – a településrendezési eszközben előírt megengedett legnagyobb beépítettség és beépítési magasság mértéke a területfelhasználási egység változása esetén sem növelhető, kivéve, ha az e törvény felhatalmazása alapján a Balaton vízparti területeire vonatkozó sajátos településrendezési és építési követelmények tárgyában kiadott kormányrendelet ettől eltérően rendelkezik.”
