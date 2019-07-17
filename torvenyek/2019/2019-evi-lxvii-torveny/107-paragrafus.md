@@ -1,0 +1,3 @@
+107. § A Vtv. 84/N. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A vasúti igazgatási szerv a tevékenység folytatását megtiltja és ennek tényét rögzíti a különleges kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában – továbbá, ha a szervezet felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételek nem teljesítése a szervezet által végzett valamennyi tevékenységet érinti, akkor a szervezetet a nyilvántartásból törli –, ha a szervezet a feltételeknek való megfelelést a tevékenységet megtiltó határozat véglegessé válását követő hat hónapon belül nem igazolja.”

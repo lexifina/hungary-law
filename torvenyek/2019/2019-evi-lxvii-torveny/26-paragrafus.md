@@ -1,0 +1,1 @@
+26. § A 23. § rendelkezéseit alkalmazni kell abban az esetben is, ha az azonos kapcsolt felekkel bármely tizenkét hónapos időszak során vagy ugyanabban az üzleti évben kötött ügyletek összesített értéke alapján tartoznak az ügyletek a 23. § hatálya alá.

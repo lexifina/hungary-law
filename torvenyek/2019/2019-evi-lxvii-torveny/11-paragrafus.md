@@ -1,0 +1,1 @@
+11. § Ha az intézményi befektető, illetve az eszközkezelő úgy dönt, hogy a 9. § és a 10. § rendelkezéseinek vagy azok egy részének nem tesz eleget, köteles annak magyarázatát egyértelmű és indokolással ellátott tájékoztatásban a honlapján nyilvánosságra hozni.

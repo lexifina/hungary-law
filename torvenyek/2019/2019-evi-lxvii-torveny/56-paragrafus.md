@@ -1,0 +1,3 @@
+56. § Az Fgytv. 19. §-a helyébe a következő rendelkezés lép:
+
+„19. § A fogyasztóvédelemért felelős miniszter látja el a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet szerinti tagállami online vitarendezési kapcsolattartó pont feladatait.”

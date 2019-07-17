@@ -1,0 +1,1 @@
+21. § A javadalmazási jelentést a társaság a véleménynyilvánító közgyűlési szavazást követően a honlapján tízéves időtartamra – díjmentesen – nyilvánosan elérhetővé teszi. A társaság határozhat úgy is, hogy a javadalmazási jelentést tíz évet meghaladó ideig teszi elérhetővé, ha az már nem tartalmazza az igazgatók személyes adatait.

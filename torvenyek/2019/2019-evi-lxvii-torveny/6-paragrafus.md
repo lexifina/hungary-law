@@ -1,0 +1,1 @@
+6. § A közvetítő a 3–5. §-ban meghatározott, a részvényesek azonosítása során, valamint a társasági eseményekkel összefüggő kommunikáció során előírt kötelezettségének haladéktalanul, de legkésőbb a 2018/1212/EU rendeletben meghatározott határidőn belül köteles eleget tenni.

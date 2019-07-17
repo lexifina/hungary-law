@@ -1,0 +1,5 @@
+7. § (1) Ha a Ptk. 3:281. § (3) bekezdése alapján a konferencia-közgyűlésen elektronikus hírközlő eszközök igénybevételével történő szavazásról – a 2018/1212/EU rendeletben előírt tartalommal és formában – a közvetítő a társaságtól kap visszaigazolást, azt köteles a részvényesnek haladéktalanul továbbítani. E rendelkezést kell alkalmazni akkor is, ha közvetítői láncon keresztül kell a tájékoztatást a részvényesnek eljuttatni.
+
+(2) A Ptk. 3:273. § (5) bekezdése szerinti esetben a részvényes a kérelmét a közgyűlés napját követő harminc napon belül nyújthatja be, és a visszaigazolást a társaság a részvényes kérelme érkezésétől számított tizenöt napon belül köteles közölni. A közvetítővel való közlés esetén az (1) bekezdésben foglaltakat kell alkalmazni.
+
+(3) Ha a társaság az (1) bekezdésben, illetve a (2) bekezdésben meghatározott visszaigazolási kötelezettségének nem tesz eleget, a részvényes a közgyűlés által hozott határozat bírósági felülvizsgálata iránt akkor is jogosult pert indítani, ha a határozat meghozatalához szavazatával hozzájárult.

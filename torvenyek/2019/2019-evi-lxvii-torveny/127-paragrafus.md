@@ -1,0 +1,3 @@
+127. § A Ptk. 5:100. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép. A biztosítéki szerződés szerint kielégíthető követelést kielégítő kötelezettet, zálogkötelezettet vagy harmadik személyt a megtérítési követelése biztosítására – ha az nem pénzügyi intézmény – az önálló zálogjog ranghelyén, annak helyébe lépő követelést biztosító zálogjog illeti meg. A megtérítési követelése biztosítékaként a követelést kielégítő pénzügyi intézményre az önálló zálogjog átszáll.”

@@ -1,0 +1,3 @@
+147. § Az Ekpt. 20/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A vasúti igazgatási szerv a tevékenység folytatását megtiltja, és ennek tényét rögzíti az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában – továbbá, ha a személy vagy szervezet felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételek nem teljesítése a személy vagy szervezet által végzett valamennyi tevékenységet érinti, akkor a személyt vagy szervezetet a nyilvántartásból törli –, ha a személy vagy szervezet a feltételeknek való megfelelést a tevékenységet megtiltó határozat véglegessé válását követő hat hónapon belül nem igazolja.”
