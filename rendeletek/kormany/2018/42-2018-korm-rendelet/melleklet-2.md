@@ -1,3 +1,5 @@
+## A Beruházás területi lehatárolása a terület határpontjainak Egységes Országos Vetületi rendszerben megadott koordinátáival
+
 |  | A | B | C |
 
 | 1 |  | Y (Keleti) | X (Északi) |
@@ -760,9 +762,9 @@
 
 2. melléklet a 42/2018. (III. 13.) Korm. rendelethez
 
-A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
-1.[^18] építésügyi és építésfelügyeleti hatósági eljárások,
+1.[^22] építésügyi és építésfelügyeleti hatósági eljárások,
 
 2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -816,4 +818,4 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^18]: A 2. melléklet 1. pontja a 142/2018. (VII. 30.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 2. melléklet 1. pontja a 142/2018. (VII. 30.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.

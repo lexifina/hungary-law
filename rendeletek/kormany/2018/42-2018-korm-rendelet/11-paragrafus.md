@@ -1,0 +1,4 @@
+## 10. §[^17] E rendeletnek a Kemény Ferenc Sportlétesítmény-fejlesztési Programmal, valamint egyéb dél-pesti és észak-csepeli beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 42/2018. (III. 13.) Korm. rendelet módosításáról szóló 239/2018. (XII. 12.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6/A. § (2a) és (2b) bekezdését, valamint 6/C–6/H. §-át és 3. mellékletét a Módr2. hatálybalépésekor[^18] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^17]: A 10. §-t a 239/2018. (XII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2018. december 12.

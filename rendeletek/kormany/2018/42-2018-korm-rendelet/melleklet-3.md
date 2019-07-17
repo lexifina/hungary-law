@@ -1,4 +1,4 @@
-3. melléklet a 42/2018. (III. 13.) Korm. rendelethez[^19]
+3. melléklet a 42/2018. (III. 13.) Korm. rendelethez[^23]
 
 1. A Budapesti Atlétikai Stadion beépítésre szánt területe lehatárolása a terület határpontjainak Egységes Országos Vetületi rendszerben megadott koordinátáival
 
@@ -138,4 +138,4 @@
 
 | 38 | 651691.64 | 236032.54 | 38086/78 |
 
-[^19]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 239/2018. (XII. 12.) Korm. rendelet 3. §-a iktatta be.
+[^23]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 239/2018. (XII. 12.) Korm. rendelet 3. §-a iktatta be.

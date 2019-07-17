@@ -1,9 +1,7 @@
-## 10. §[^15] E rendeletnek a Kemény Ferenc Sportlétesítmény-fejlesztési Programmal, valamint egyéb dél-pesti és észak-csepeli beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 42/2018. (III. 13.) Korm. rendelet módosításáról szóló 239/2018. (XII. 12.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6/A. § (2a) és (2b) bekezdését, valamint 6/C–6/H. §-át és 3. mellékletét a Módr2. hatálybalépésekor[^16] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 11. §[^19] E rendeletnek a budapesti fejlesztések előkészítésével, megvalósításával és a kiemelt nemzetközi sportesemények rendezési jogának megszerzésével kapcsolatos egyes feladatok ellátásáról szóló 175/2019. (VII. 16.)Korm. rendelettel (a továbbiakban: Módr3.) megállapított 6/A. § (1) és (3) bekezdését a Módr3. hatálybalépésekor[^20] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 42/2018. (III. 13.) Korm. rendelethez[^17]
+1. melléklet a 42/2018. (III. 13.) Korm. rendelethez[^21]
 
-A Beruházás területi lehatárolása a terület határpontjainak Egységes Országos Vetületi rendszerben megadott koordinátáival
-
-[^15]: A 10. §-t a 239/2018. (XII. 12.) Korm. rendelet 2. §-a iktatta be.
-[^16]: A hatálybalépés időpontja 2018. december 12.
-[^17]: Az 1. melléklet a 142/2018. (VII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^19]: A 11. §-t a 175/2019. (VII. 16.) Korm. rendelet 15. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14. §-át.
+[^20]: A hatálybalépés időpontja 2019. július 17.
+[^21]: Az 1. melléklet a 142/2018. (VII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

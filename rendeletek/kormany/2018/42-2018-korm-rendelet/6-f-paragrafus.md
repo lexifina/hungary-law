@@ -1,8 +1,8 @@
-## 6/E. §[^9] A helyi településrendezési eszközben előírt infrastruktúra-fejlesztések elmaradása a Beruházás keretében megvalósuló építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele.
+## 6/E. §[^11] A helyi településrendezési eszközben előírt infrastruktúra-fejlesztések elmaradása a Beruházás keretében megvalósuló építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele.
 
-6/F. §[^10] (1) Az OTÉK 64. § (2) bekezdés rendelkezéseit a lelátók esetében nem kell alkalmazni.
+6/F. §[^12] (1) Az OTÉK 64. § (2) bekezdés rendelkezéseit a lelátók esetében nem kell alkalmazni.
 
 (2) A 3. melléklet 1. és 2. pontjában meghatározott, Egységes Országos Vetületi rendszerben megadott koordináták által lehatárolt területen az épületek közötti legkisebb távolság meghatározása során az OTÉK 36. § (2) bekezdésében foglaltak helyett az OTSZ szerint meghatározott tűztávolságot kell figyelembe venni.
 
-[^9]: A 6/E. §-t a 239/2018. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^10]: A 6/F. §-t a 239/2018. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^11]: A 6/E. §-t a 239/2018. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^12]: A 6/F. §-t a 239/2018. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
