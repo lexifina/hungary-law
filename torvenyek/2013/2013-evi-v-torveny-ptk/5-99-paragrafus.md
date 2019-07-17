@@ -1,4 +1,4 @@
-### 5:99. § [A biztosított követelés átruházása]
+### 5:99. § [A biztosított követelés átruházása és megterhelése]
 
 (1) A biztosított követelés átruházásával vagy egyéb módon való átszállásával a zálogjog is átszáll a követelés új jogosultjára. A követelés átruházója köteles a zálogtárgyat vagy a jelzálogjog átszállásának a bejegyzéséhez szükséges engedélyt az új zálogjogosult részére kiadni.
 

@@ -18,7 +18,7 @@ e) a zálogjoggal biztosított követelés elévül, ez azonban a követelést b
 
 f) a zálogjogosult a kielégítési jogát gyakorolva a zálogtárgyat értékesíti vagy a zálogtárgy tulajdonjogát megszerzi.
 
-(2) A zálogjoggal biztosított követelés megszűnése ellenére is fennmarad a zálogjog a követelést kielégítő személyes kötelezettet, zálogkötelezettet vagy harmadik személyt megillető megtérítési követelés biztosítására.
+(2) A zálogjoggal biztosított követelés megszűnése ellenére is fennmarad a zálogjog a követelést kielégítő személyes kötelezettet, zálogkötelezettet vagy harmadik személyt megillető megtérítési követelés biztosítására akként, hogy a fennmaradó zálogjog a megtérítési követelés jogosultját illeti meg.
 
 (3) A zálogjog fennmarad a zálogjoggal biztosított követelés biztosítékául, ha ugyanaz a személy lesz a zálogkötelezett és a zálogjogosult.
 
