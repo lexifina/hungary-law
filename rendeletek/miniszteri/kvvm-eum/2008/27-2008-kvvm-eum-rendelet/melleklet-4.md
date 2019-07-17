@@ -16,7 +16,7 @@
 
 ## Megjegyzés:
 
-## * Értelmezése a stratégiai zajtérképek és intézkedési tervek készítésének részletes szabályairól szóló 25/2004. (XII. 20.) KvVM rendelet 3. számú melléklet 1.1. pontja és 5. számú melléklet 1.1. pontja szerint.
+## * Értelmezése a zajkibocsátási határértékek megállapításának, valamint a zaj- és rezgéskibocsátás ellenőrzésének módjáról szóló 93/2007. (XII. 18.) KvVM rendelet 6. számú melléklet 1.1 pontja és 9. számú melléklet 1.1. pontja szerint.
 
 ## ** Olyan repülőterek, vagy nem nyilvános fel- és leszállóhelyek, ahol 5,7 tonna maximális felszálló tömegnél kisebb, légcsavaros repülőgépek, illetve 2,73 tonna maximális felszálló tömegnél kisebb helikopterek közlekednek.
 

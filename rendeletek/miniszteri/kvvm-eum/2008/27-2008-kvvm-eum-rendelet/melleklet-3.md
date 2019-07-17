@@ -22,4 +22,6 @@
 
 ## * Értelmezése az MSZ 18150–1 szabvány szerint.
 
-3. melléklet a 27/2008. (XII. 3.) KvVM–EüM együttes rendelethez
+3. melléklet a 27/2008. (XII. 3.) KvVM–EüM együttes rendelethez[^14]
+
+[^14]: A 3. melléklet a 33/2019. (VII. 9.) AM rendelet 5. §-a szerint módosított szöveg.
