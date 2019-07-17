@@ -22,6 +22,8 @@ téríti meg.
 
 (3) Az állam viseli azt a költséget, amely annak következtében merült fel, hogy az eljárás alá vont személy a magyar nyelvet nem ismeri, hallássérült, siketvak, beszédfogyatékos.
 
+(3a) Ha az eljárás alá vont személy a cselekmény elkövetésekor fiatalkorú volt, az állam viseli a kirendelt ügyvéd eljárása során felmerült költséget.
+
 (4) A feljelentés elutasítása és a szabálysértési eljárás megszüntetése esetén a szabálysértési költség az államot terheli, az eljárás alá vont személyt kötelezni kell annak a költségnek viselésére, amely a mulasztása folytán merült fel.
 
 (5) Ha az eljárás alá vont személy a jövedelmi és vagyoni viszonyai folytán a szabálysértési költséget előreláthatóan nem tudja megfizetni és ezt a közigazgatási hatósági eljárásokban a személyes költségmentesség megállapításáról szóló kormányrendeletben meghatározottaknak megfelelően igazolta, az eljárás alá vont személy vagy képviselője kérelmére a szabálysértési hatóság, illetve a bíróság határoz arról, hogy az eljárás alá vont személy részére személyes költségmentességet engedélyez.

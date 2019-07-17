@@ -4,6 +4,8 @@
 
 (3) Ha a tárgyalás megtartásának nincs akadálya, a bíróság a feljelentés előterjesztése után meghallgatja az eljárás alá vont személyt, szükség esetén a sértettet, illetve a tanúkat. Ezt követően végzéssel megszünteti a szabálysértési eljárást, vagy megállapítja az eljárás alá vont személy felelősségét és büntetést szab ki, illetve intézkedést alkalmaz, rendelkezik a szabálysértési költség viseléséről és – ha annak e törvényben meghatározott feltételei fennállnak – az eljárás alá vont személyt a szabálysértéssel okozott kár megtérítésére kötelezi.
 
+(3a) A bíróság a fiatalkorú eljárás alá vont személy jogai gyakorlásának, kötelezettségei teljesítésének elősegítése és kímélete érdekében a tárgyalásról vagy annak meghatározott részéről a nyilvánosságot kizárhatja.
+
 (4) A végzés kihirdetése után a rendőrség képviselője, az eljárás alá vont személy, a képviselője nyilatkozatot tesz arra vonatkozóan, hogy az ügydöntő határozattal szemben kíván-e fellebbezéssel élni.
 
 (5) Ha a rendőrség képviselője, az eljárás alá vont személy, illetve a képviselője a szabálysértési elzárás kiszabásával szemben fellebbezést jelent be és a bíróság az őrizetet meghosszabbítja, a bíróság az iratokat haladéktalanul felterjeszti a törvényszékhez.
