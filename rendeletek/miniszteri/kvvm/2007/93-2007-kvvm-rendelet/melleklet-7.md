@@ -1,4 +1,4 @@
-7. melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^26]
+7. melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^32]
 
 ## Az éves adatszolgáltatás tartalma
 
@@ -54,4 +54,4 @@
 
 3.8.3. azoknak a napoknak a felsorolását, amelyen a versenypályán környezeti zajforrás nem üzemelt.
 
-[^26]: A 7. számú mellékletet a 91/2015. (XII. 23.) FM rendelet 7. § (3) bekezdése iktatta be.
+[^32]: A 7. számú mellékletet a 91/2015. (XII. 23.) FM rendelet 7. § (3) bekezdése iktatta be.
