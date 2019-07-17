@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-221-00-00
 | 2017-06-02 | 2017. évi XLIV. törvény | 2013-221-00-00.6 |
 | 2017-07-01 | 2017. évi XLIX. törvény | 2013-221-00-00.7 |
 | 2018-01-01 | 2017. évi CXXXVI. törvény | 2013-221-00-00.8 |
+| 2019-07-17 | 2019. évi LXVII. törvény | 2013-221-00-00.9 |
