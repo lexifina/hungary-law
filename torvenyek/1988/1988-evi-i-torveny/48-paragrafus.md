@@ -194,7 +194,11 @@ b) a miniszter, hogy
 
 50. a 21/M. § szerinti kockázatértékelő rendszerrel kapcsolatos, a közúti vállalkozások kockázati profiljának meghatározására és a fokozott kockázatot jelentő vállalkozások szigorúbb és gyakoribb ellenőrzésére vonatkozó szabályokat,
 
-51. a vizsgáló állomások auditálásáról, valamint a tanúsítási tevékenységükről szóló részletes szabályokat
+51. a vizsgáló állomások auditálásáról, valamint a tanúsítási tevékenységükről szóló részletes szabályokat,
+
+52. a nemzeti hozzáférési pont létrehozásának és működtetésének részletes szabályait,
+
+53. a biztonságos és védett parkolóhelyek létrehozásának és működtetésének részletes szabályait
 
 c) a miniszter, hogy a közúti járművek környezetvédelmi felülvizsgálatával kapcsolatos szabályokat a környezetvédelemért felelős miniszter egyetértésével kiadott,
 
