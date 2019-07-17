@@ -25,27 +25,3 @@ g) a bv. intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartotta
 h) a bv. intézetben fogvatartott elítéltekkel és egyéb jogcímen fogvatartottakkal kapcsolatos kártérítési eljárás szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
 
 i) a bv. intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak egészségügyi ellátásának szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
-
-j)
-
-k) a börtönlelkészi szolgálatra és a börtönmissziós tevékenységre vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel és az egyházakkal való kapcsolattartás koordinációjáért felelős miniszterrel egyetértésben,
-
-l) a büntetés-végrehajtási intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak letétjének kezelésére és a birtokukban lévő külföldi fizetőeszközzel kapcsolatos eljárásra vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel egyetértésben.
-
-(3) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy rendeletben állapítsa meg
-
-a) a szabadságvesztés, az elzárás, a rendbírság helyébe lépő elzárás és a letartóztatás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályait az igazságügyért felelős miniszter egyetértésével,
-
-b) a szabálysértési elzárás végrehajtását foganatosító büntetés-végrehajtási intézetek kijelölésének szabályait a szabálysértési szabályozásért felelős miniszter egyetértésével,
-
-c) a szabálysértési elzárás végrehajtásának részletes szabályait a szabálysértési szabályozásért és a rendészetért felelős miniszter egyetértésével, a legfőbb ügyész véleményének a kikérésével.
-
-(4) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a pártfogó felügyelői és a büntetés-végrehajtási pártfogó felügyelői tevékenységgel kapcsolatos rendőri feladatok végrehajtásának szabályait.
-
-(4a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős és a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben állapítsa meg az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályait.
-
-(5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős és az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtás során elrendelt elővezetés végrehajtásával, az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állításával, valamint az elítélt vagy az egyéb jogcímen fogvatartott kérelmére történő előállítás során felmerült költség megtérítésének részletes szabályait.
-
-(6) Felhatalmazást kap a rendészetért felelős miniszter, hogy a javítóintézeti rendészek kiegészítő képzésének és a vizsgájának részletes tartalmi feltételeit vagy ezek díját; a vizsgaszabályzatot; valamint a kiegészítő képzésnek és vizsgának megfelelő szakirányú képesítések és képzettségek jegyzékét a gyermekek és az ifjúság védelméért felelős miniszterrel és az oktatásért felelős miniszterrel egyetértésben rendeletben szabályozza.
-
-(7) Felhatalmazást kap a gyermekek és az ifjúság védelméért felelős miniszter, hogy a javítóintézetek rendtartását az igazságügyért felelős miniszterrel és a büntetés-végrehajtásért felelős miniszterrel egyetértésben kiadott rendeletben állapítsa meg.

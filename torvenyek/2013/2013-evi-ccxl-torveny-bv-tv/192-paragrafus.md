@@ -6,6 +6,8 @@
 
 (2a) Ha a fiatalkorú eljárási cselekmény lefolytatása érdekében történő kiadása a rendőrségi fogdán való elhelyezéssel jár, úgy azt az illetékes ügyészség harminc napra engedélyezheti. A határozat ellen panasznak nincs helye.
 
+(2b) A fiatalkorú részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő törvényes képviselőnek a fogva tartó intézetbe történő belépését engedélyezni kell.
+
 (3) A fiatalkorú társadalomba beilleszkedésének segítéséhez igénybe kell venni a gyámhatóság és az egyéb állami szervek, a civil szervezetek, oktatási intézmények, a büntetés-végrehajtási pártfogó felügyelő, valamint a fiatalkorú hozzátartozóinak segítségét.
 
 (4) A szabadságvesztés végrehajtása során különös gondot kell fordítani a fiatalkorú oktatására, személyiségének fejlesztésére és testi fejlődésére, a tankötelezettség érvényesítésére, az első szakmához jutás lehetőségére.

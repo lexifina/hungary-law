@@ -50,12 +50,28 @@ g) a kényszerintézkedésnek az elrendeléséről szóló határozat szerinti, 
 
 h) a kényszerintézkedés elrendelése, meghosszabbítása vagy fenntartása esetén az általa megjelölt hozzátartozó vagy az általa megjelölt más személy értesítéséhez való jogról.
 
-(5a) Az európai elfogatóparancs alapján őrizetbe vett személy részére a (4) és (5) bekezdésben foglaltakon túl a befogadásakor írásban, az általa értett nyelven egyszerűen, közérthető módon tájékoztatást kell adni az európai elfogatóparancs tartalmának megismeréséhez való jogról, az egyszerűsített átadáshoz történő hozzájárulás lehetőségéről és jogkövetkezményeiről, valamint a hozzájárulás megtagadásának jogkövetkezményeiről.
+(5a) A kényszerintézkedés hatálya alatt álló fiatalkorú részére a (4) és az (5) bekezdésben foglaltakon túl a befogadáskor írásban, az általa értett nyelven egyszerűen, közérthető módon tájékoztatást kell adni a büntetőeljáráshoz kapcsolódóan
 
-(6) Ha a kényszerintézkedés hatálya alatt álló személy a (4) bekezdés f) és k) pontjában, valamint az (5) bekezdésben szereplő jogokról a tájékoztatást az őrizetbe vétel során már megkapta, a tájékoztatást nem kell megismételni.
+a) a letartóztatás megszüntetése, az enyhébb személyi szabadságot érintő bírói engedélyes kényszerintézkedés elrendelése, továbbá a letartóztatás javítóintézetben történő végrehajtása iránti indítvány benyújtásához való jogról,
 
-(7) A (4)–(5a) bekezdésben meghatározott jogokról szóló írásbeli tájékoztatót az elítélt és az egyéb jogcímen fogvatartott magánál tarthatja.
+b) arról, hogy a részvételével lefolytatandó eljárási cselekményen a törvényes képviselője is részt vehet és ebből a célból a törvényes képviselőnek a fogva tartó intézetbe történő belépését engedélyezni kell,
 
-(8) A (3)–(5a) bekezdés szerinti tájékoztatás megtörténtét és annak tudomásulvételét írásban kell rögzíteni. Ha az elítélt vagy az egyéb jogcímen fogvatartott írni, olvasni nem tud, vagy a tájékoztatás időpontjában az írásbeli tájékoztató az általa értett nyelven nem áll rendelkezésre, a (4)–(5a) bekezdés szerinti tájékoztatást szóban – két tanú jelenlétében – kell elvégezni, és annak megtörténtét írásban kell rögzíteni. Ha ezt követően a (4)–(5a) bekezdés szerinti írásbeli tájékoztató az elítélt vagy az egyéb jogcímen fogvatartott által értett nyelven elkészül, azt részére haladéktalanul át kell adni.
+c) arról, hogy a tárgyaláson és az előkészítő ülésen a jelenléte kötelező, ennek érdekében előállítására kerülhet sor, vagy jelenlétét telekommunikációs eszköz útján biztosítják,
+
+d) az orvosi vizsgálat kezdeményezéséhez való jogról, különösen arról, hogy orvosi vizsgálatát törvényes képviselője vagy védője is kezdeményezheti,
+
+e) a fogvatartás során a felnőtt korúaktól való elkülönítéshez, egészségi állapota megőrzéséhez, testi és szellemi fejlődésének biztosításához, oktatáshoz és képzéshez, fejlődése és reintegrációja érdekében megfelelő programokon való részvételhez, valamint a családi élethez való jogának e törvény szerinti kapcsolattartás keretében történő tényleges és rendszeres gyakorlásához való jogról,
+
+f) a d) és az e) pontban foglalt jogai megsértése esetén az e törvény szerinti panaszjogról.
+
+(5b) Az (5a) bekezdés b) és d) pontja szerinti törvényes képviselővel kapcsolatos jogokról a fiatalkorút akkor kell tájékoztatni, ha van törvényes képviselője.
+
+(5c) Az európai elfogatóparancs alapján őrizetbe vett személy részére a (4)–(5a) bekezdésben foglaltakon túl a befogadásakor írásban, az általa értett nyelven, egyszerűen és közérthető módon tájékoztatást kell adni az európai elfogatóparancs tartalmának megismeréséhez való jogról, az egyszerűsített átadáshoz történő hozzájárulás lehetőségéről és jogkövetkezményeiről, valamint a hozzájárulás megtagadásának jogkövetkezményeiről.
+
+(6) Ha a kényszerintézkedés hatálya alatt álló személy a (4) bekezdés f) és k) pontjában, valamint az (5) és (5a) bekezdésben szereplő jogokról a tájékoztatást az őrizetbe vétel során már megkapta, a tájékoztatást nem kell megismételni.
+
+(7) A (4)–(5a) és (5c) bekezdésben meghatározott jogokról szóló írásbeli tájékoztatót az elítélt és az egyéb jogcímen fogvatartott magánál tarthatja.
+
+(8) A (3)–(5a) és (5c) bekezdés szerinti tájékoztatás megtörténtét és annak tudomásulvételét írásban kell rögzíteni. Ha az elítélt vagy az egyéb jogcímen fogvatartott írni, olvasni nem tud, vagy a tájékoztatás időpontjában az írásbeli tájékoztató az általa értett nyelven nem áll rendelkezésre, a (4)–(5a) és (5c) bekezdés szerinti tájékoztatást szóban – két tanú jelenlétében – kell elvégezni, és annak megtörténtét írásban kell rögzíteni. Ha ezt követően a (4)–(5a) és (5c) bekezdés szerinti írásbeli tájékoztató az elítélt vagy az egyéb jogcímen fogvatartott által értett nyelven elkészül, azt részére haladéktalanul át kell adni.
 
 (9) A tartósan vagy véglegesen érzékszervi, kommunikációs, fizikai, értelmi, pszicho-szociális károsodással – vagy ezek bármilyen halmozódásával – élő, az írni vagy olvasni nem tudó, valamint a fiatalkorú elítélt vagy egyéb jogcímen fogvatartott részére a tájékoztatást – állapotára, adottságaira és helyzetére figyelemmel – a számára érthető módon kell megadni.

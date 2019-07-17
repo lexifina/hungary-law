@@ -2,7 +2,7 @@
 
 (2) A védő személyes biztonságát – kérésére vagy beleegyezésével – a fogva tartó intézet biztosítja. A felügyelet a letartóztatott és a védő büntetőeljárási jogait nem korlátozhatja.
 
-(3) Ezen alcímnek a védőre vonatkozó rendelkezéseit a meghatalmazott vagy kirendelt ügyvédre, az alkalmazott ügyvédre, az ügyvédjelöltre, valamint – a rendelkezési jogkör gyakorlójának előírásait figyelembe véve – a törvényes képviselőre is alkalmazni kell.
+(3) Ezen alcímnek a védőre vonatkozó rendelkezéseit a meghatalmazott vagy kirendelt ügyvédre, az alkalmazott ügyvédre, az ügyvédjelöltre, valamint a törvényes képviselőre is alkalmazni kell azzal, hogy a törvényes képviselő a kapcsolattartásra ellenőrzés mellett, a rendelkezési jogkör gyakorlójának előírásait figyelembe véve jogosult.
 
 (4)
 
