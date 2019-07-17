@@ -1,4 +1,4 @@
-## 48. §[^13]
+## 48. §[^15] A 17. §, valamint a 34. § (7) és (8) bekezdése a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelv 4., 8. és 12. cikkének való megfelelést szolgálja.
 
 1. melléklet az 56/2014. (XII. 5.) BM rendelethez
 
@@ -44,4 +44,4 @@ e) szemetes lapát, felmosóruha;
 
 f) lehetőség szerint WC-fülke.
 
-[^13]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 48. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 28/2019. (VII. 9.) BM rendelet 3. § (2) bekezdése iktatta be.
