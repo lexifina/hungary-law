@@ -1,3 +1,0 @@
-## „(2) Vonalas közlekedési zajforrás kibocsátását az 5., 6., 8. és 9. számú mellékletben megadott mérési, számítási módszerrel kell meghatározni. A végeredményt LAM zajmutatóban a 11. számú mellékletben meghatározott megítélési pontra kell megadni.
-
-## (2a) A csendes övezet, fokozottan védett terület és fokozottan zajos terület kijelölése érdekében végzett mérés, számítás eredményeinek zajtérképen való megjelenítése esetén a stratégiai zajtérképek, valamint az intézkedési tervek készítésének részletes szabályairól szóló 25/2004. (XII. 20.) KvVM rendelet 2. §-ának, 7. § (2)–(5) bekezdésének, valamint 8. § (1)–(4) bekezdésének rendelkezéseit kell alkalmazni.”
