@@ -48,7 +48,7 @@
 
 | 21 | Bevetési bakancs/TEK | pár |  |  | 1 |  |  | 1 | 1 |
 
-| 22 | Téli bakancs/TEK | pár |  |  | 1 | 1 | 1 |  | 1 |
+| 22 | Téli bakancs/TEK | pár |  |  | 1 |  | 1 |  | 1 |
 
 | 23 | Gyakorló zubbony fekete/TEK | db |  |  | 1 |  |  |  | 1 |
 
@@ -88,7 +88,7 @@
 
 | 36 | Thermo aláöltözet felső/TEK | db |  |  |  | 2 | 2 |  |  |
 
-| 37 | Barett sapka | db |  |  | 1 |  | 1 |  | 1 |
+| 37 | Barett sapka | db |  |  | 1 | 1 | 1 |  | 1 |
 
 | 38 | Téli sapka | db |  |  |  | 1 | 1 |  |  |
 
@@ -160,13 +160,13 @@ bb) P1: Polgári ruhás alapellátási norma a hivatali feladatokat ellátó ál
 
 bc) P2: Polgári ruhás alapellátási norma a Műveleti Igazgatóság személyi állománya részére
 
-bd) P3: Polgári ruhás alapellátási norma a Személyvédelmi Igazgatóság személyi állománya részére
+bd) P3: Polgári ruhás alapellátási norma a Személyvédelmi Igazgatóság I–V. Főosztályának személyi állománya részére
 
 be) P4: Polgári ruhás alapellátási norma az Ügyeleti és Objektumvédelmi Igazgatóságnál szolgálatot teljesítő állomány részére
 
 bf) P5: Polgári ruhás alapellátási norma a Felderítési Igazgatóságnál szolgálatot teljesítő állomány részére
 
-bg) P6: Polgári ruhás alapellátási norma az Operatív Technikai-Informatikai Igazgatóságnál szolgálatot teljesítő állomány részére
+bg) P6: Polgári ruhás alapellátási norma az a Személyvédelmi Igazgatóság VI. Főosztályának személyi állománya részére
 
 2. A normában felsorolt termékeken és cikkeken felül alapfelszerelésként – a védőfelszerelés ellátási szabályai szerint – az alábbi speciális szolgálati egyenruházatot kell kiadni a rendvédelmi feladatokat ellátó szerv költségvetése terhére.
 
@@ -260,7 +260,7 @@ bg) P6: Polgári ruhás alapellátási norma az Operatív Technikai-Informatikai
 
 | 1 | termék megnevezése | menny. egység | mennyiség |
 
-| 2 | Félcipő/TEK | pár | 1 |
+| 2 |  |  |  |
 
 | 3 | Bakancs fekete színű/TEK | pár | 1 |
 
@@ -274,7 +274,7 @@ bg) P6: Polgári ruhás alapellátási norma az Operatív Technikai-Informatikai
 
 | 8 | Kabát parka, tundra színű/TEK | db | 1 |
 
-2.5. Az Ügyeletei és Objektumvédelmi Igazgatóság Ügyeletei Főosztály állományának speciális szolgálati egyenruházata
+2.5. Az Ügyeleti és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály Gépjármű Indító Osztály, valamint Támogató Osztály állományának speciális szolgálati egyenruházata
 
 |  | A | B | C |
 
@@ -296,7 +296,7 @@ bg) P6: Polgári ruhás alapellátási norma az Operatív Technikai-Informatikai
 
 | 5 | Rövidnadrág női/férfi | db | 1 |
 
-2.7. Az Operatív Technikai-Informatikai Igazgatóság állományának speciális szolgálati egyenruházata
+2.7. A Személyvédelmi Igazgatóság VI. Főosztály állományának speciális szolgálati egyenruházata
 
 |  | A | B | C |
 
@@ -305,6 +305,36 @@ bg) P6: Polgári ruhás alapellátási norma az Operatív Technikai-Informatikai
 | 2. | 5.11-es nadrág Stryke Pants* | db | 1 |
 
 | 3. | Póló, galléros fehér, silver tan/TEK | db | 1 |
+
+2.8. A Műveleti Igazgatóság gépjármű vezetéstechnikai képzést ellátó állományának speciális szolgálati egyenruházata
+
+|  | A | B | C |
+
+| 1 | termék megnevezése | menny. egység | mennyiség |
+
+| 2 | Póló galléros, piros/TEK | db | 2 |
+
+| 3 | 3 in1 piros parka kabát/TEK | db | 1 |
+
+2.9. A Személyvédelmi Igazgatóság biztonsági gépjárművezetőinek speciális szolgálati egyenruházata
+
+|  | A | B | C |
+
+| 1 | termék megnevezése | menny. egység | mennyiség |
+
+| 2 | Póló galléros, fehér/TEK | db | 2 |
+
+2.10. A Személyvédelmi Igazgatóság IV. Főosztály CBRN Osztály állományának speciális szolgálati egyenruházata
+
+|  | A | B | C |
+
+| 1 | termék megnevezése | menny. egység | mennyiség |
+
+| 2 | Póló khaki/silver tan színű galléros/TEK | db | 2 |
+
+| 3 | Nadrág tundra színű/TEK | db | 2 |
+
+| 4 | Ing hosszú ujjú khaki színű/TEK | db | 2 |
 
 a) Megjegyzés:
 
@@ -324,4 +354,4 @@ a) Megjegyzés:
 
 | 4 | Öltönyzsák | db |  |  |  | 10 |  |  |  |
 
-[^42]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^42]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése, a 29/2019. (VII. 17.) BM rendelet 1. § b) pontja szerint módosított szöveg.

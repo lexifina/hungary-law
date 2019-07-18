@@ -446,115 +446,113 @@ a) Megjegyzés:
 
 7. A Készenléti Rendőrség hivatásos állományának ruházati alapellátási normái:
 
-|  | A | B | C | D | E | F | G | H | I |
+|  | A | B | C | D | E | F | G | H | I | J |
 
-| 1 |  | termék megnevezése | menny. egység | csök- ken- tett alap- ellátási norma | egyen- ruhás alap- ellátási norma | vegyes ruhás alap- ellátási norma | polgári ruhás alap- ellátási norma | tábornoki alap- ellátási norma | tábornoki alap- ellátási norma |
+| 1 |  | termék megnevezése | menny. egység | csökkentett alapellátási norma | egyenruhás alapellátási norma | egyenruhás alapellátási norma | vegyes ruhás alapellátási norma | polgári ruhás alapellátási norma | tábornoki alapellátási norma | tábornoki alapellátási norma |
 
-| 2 | normakód |  |  | CS | E | V | P | T1 | T2 |
+| 2 | normakód |  |  | CS | E | E1 | V | P | T1 | T2 |
 
-| 3 | 1. gyakorló ruházat | 14M e. r. gyakorló bakancs* | pár | 1 | 1 | 1 | 1 | 1 | 1 |
+| 3 | 1. gyakorló ruházat | 14M e. r. gyakorló bakancs* | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 4 | 12M e. r. gyakorló bakancs, nyári | pár |  | 1 | 1 |  |  |  |
+| 4 |  | 12M e. r. gyakorló bakancs, nyári | pár |  | 1 | 1 | 1 |  |  |  |
 
-| 5 | 10M e. r. gyakorló nadrág | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 5 |  | 10M e. r. gyakorló nadrág | db | 1 | 1 | 2 | 1 | 1 | 1 | 1 |
 
-| 6 | 12M e. r. gyakorló nadrág, nyári | db |  | 1 | 1 |  |  |  |
+| 6 |  | 12M e. r. gyakorló nadrág, nyári | db |  | 1 | 2 | 1 |  |  |  |
 
-| 6a | Gyakorló póló, sötétkék* | db |  | 1 | 1 |  | 1 | 1 |
+| 7 |  | Gyakorló póló, sötétkék* | db |  | 1 | 2 | 1 |  | 1 | 1 |
 
-| 7 | KR köznapi teniszing, sötétkék | db | 4* | 4* | 4* | 4* | 4* | 4* |
+| 8 |  | KR köznapi teniszing, sötétkék | db | 4* | 4* | 6 | 4* | 4* | 4* | 4* |
 
-| 8 | KR ünnepi teniszing, fehér | db | 2 | 2 | 2* | 2* | 2* | 2* |
+| 9 |  | KR ünnepi teniszing, fehér | db | 2 | 2 | 4 | 2* | 2* | 2* | 2* |
 
-| 9 | 10M e. r. gyakorló zubbony, KR felirattal | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 10 |  | 10M e. r. gyakorló zubbony, KR felirattal | db | 1 | 1 | 2 | 1 | 1 | 1 | 1 |
 
-| 10 | 12M e. r gyakorló zubbony, nyári KR felirattal | db |  | 1 | 1 |  |  |  |
+| 11 |  | 12M e. r gyakorló zubbony, nyári KR felirattal | db |  | 1 | 2 | 1 |  |  |  |
 
-| 11 | 10M e. r. gyakorló dzseki, KR felirattal | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 12 |  | 10M e. r. gyakorló dzseki, KR felirattal | db | 1 | 1 | 2 | 1 | 1 | 1 | 1 |
 
-| 12 | Szolgálati garbó, sötétkék | db | 1 | 1 |  |  |  |  |
+| 13 |  | Szolgálati garbó, sötétkék | db | 1 | 1 | 1 |  |  |  |  |
 
-| 13 | 2. társasági/ünnepi ruházat | 12M e. r. szolgálati félcipő***** | pár |  | 1 | 1 | 1 | 1 | 1 |
+| 14 | 2. társasági/ünnepi | 12M e. r. szolgálati félcipő***** | pár |  | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 14 | Tábornoki társasági zubbony/kosztümkabát, sötétkék, szerelve | db |  |  |  |  | 2 | 2 |
+| 15 | ruházat | Tábornoki társasági zubbony/kosztümkabát, sötétkék, szerelve | db |  |  |  |  |  | 2 | 2 |
 
-| 15 | Tábornoki társasági pantalló férfi/szoknya női, sötétkék | db |  |  |  |  | 2 | 2 |
+| 16 |  | Tábornoki társasági pantalló férfi/szoknya női, sötétkék | db |  |  |  |  |  | 2 | 2 |
 
-| 15a | 17M társasági zubbony, sötétkék, szerelve*/ 17M társasági kosztümkabát, sötétkék, szerelve* | db |  | 1 | 1 | 1 |  |  |
+| 17 |  | 17M társasági zubbony, sötétkék, szerelve*/17M társasági kosztümkabát, sötétkék, szerelve* | db |  | 1 | 1 | 1 | 1 |  |  |
 
-| 15b | 17M társasági pantalló, férfi, sötétkék*/ 17M társasági pantalló, női, sötétkék* | db |  | 1 | 1 | 1 |  |  |
+| 18 |  | 17M társasági pantalló, férfi, sötétkék*/17M társasági pantalló, női, sötétkék* | db |  | 1 | 1 | 1 | 1 |  |  |
 
-| 15c | 17M társasági szoknya, sötétkék* | db |  | 1 | 1 | 1 |  |  |
+| 19 |  | 17M társasági szoknya, sötétkék* | db |  | 1 | 1 | 1 | 1 |  |  |
 
-| 16 | 12M e. r. szolgálati ing/blúz, hosszú ujjú, fehér | db |  | 1* | 1* | 1* | 2 | 2 |
+| 20 |  | 12M e. r. szolgálati ing/blúz, hosszú ujjú, fehér | db |  | 1* | 1 | 1* | 1* | 2 | 2 |
 
-| 17 | 12M e. r. szolgálati ing/blúz rövid ujjú, fehér | db |  | 1* | 1* | 1* | 2 | 2 |
+| 21 |  | 12M e. r. szolgálati ing/blúz rövid ujjú, fehér | db |  | 1* | 1 | 1* | 1* | 2 | 2 |
 
-| 18 | Ingblúz, hosszú ujjú, világoskék | db |  |  |  |  | 1 | 1 |
+| 22 |  | Ingblúz, hosszú ujjú, világoskék | db |  |  |  |  |  | 1 | 1 |
 
-| 19 | Ingblúz, rövid ujjú, világoskék | db |  |  |  |  | 1 | 1 |
+| 23 |  | Ingblúz, rövid ujjú, világoskék | db |  |  |  |  |  | 1 | 1 |
 
-| 20 | Ingblúz, rövid ujjú, fehér | db |  |  |  |  | 1 | 1 |
+| 24 |  | Ingblúz, rövid ujjú, fehér | db |  |  |  |  |  | 1 | 1 |
 
-| 21 | Ballonkabát, 4/4-es, sötétkék | db |  |  |  |  | 1 | 1 |
+| 25 |  | Tábornoki posztóköpeny férfi/felöltő női, sötétkék, szerelve | db |  |  |  |  |  | 1 | 1 |
 
-| 22 | Tábornoki posztóköpeny férfi/felöltő női, sötétkék, szerelve | db |  |  |  |  | 1 | 1 |
+| 26 | 3. ruházati | Hímzett szövetsapka (pilotka), bordó | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 23 | 3. ruházati kiegészítők | Hímzett szövetsapka (pilotka), bordó | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 27 | kiegészítők | Szolgálati téli sapka, fekete, szerelve | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 24 | Szolgálati téli sapka, fekete, szerelve | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 28 |  | Kötött sapka, bordó* | db | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 24a | Kötött sapka, bordó * | db | 1 | 1 | 1 | 1 |  |  |
+| 29 |  | Társasági tábornoki tányérsapka/ női kalap, sötétkék, szerelve | db |  |  |  |  |  | 1 | 1 |
 
-| 25 | Társasági tábornoki tányérsapka/női kalap, sötétkék, szerelve | db |  |  |  |  | 1 | 1 |
+| 30 |  | 17M társasági tányérsapka, sötétkék, szerelve*/17M társasági női kalap, sötétkék, szerelve* | db |  | 1 | 1 | 1 | 1 |  |  |
 
-| 25a | 17M társasági tányérsapka, sötétkék, szerelve*/17M társasági női kalap, sötétkék, szerelve* | db |  | 1 | 1 | 1 |  |  |
+| 31 |  | 12M e. r. taktikai öv klt. | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 26 | 12M e. r. taktikai öv klt. | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 32 |  | Társasági nadrágszíj, fekete | db |  |  |  |  |  | 1 |  |
 
-| 27 | Társasági nadrágszíj, fekete | db |  |  |  |  | 1 |  |
+| 33 |  | 17M társasági nadrágszíj* | db |  | 1 | 1 | 1 | 1 |  |  |
 
-| 27a | 17M társasági nadrágszíj* | db |  | 1 | 1 | 1 |  |  |
+| 34 |  | 17M társasági nyakkendő* | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 28 | 17M társasági nyakkendő* | db |  | 1 | 1 | 1 | 1 | 1 |
+| 35 |  | Nyaksál, sötétkék | db |  |  |  |  |  | 1 | 1 |
 
-| 29 | Nyaksál, sötétkék | db |  |  |  |  | 1 | 1 |
+| 36 |  | Bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 30 | Bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 |
+| 37 |  | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1**** | 1**** |  |  | 1*** | 1 | 1 |
 
-| 31 | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1**** | 1**** |  | 1*** | 1 | 1 |
+| 38 |  | Téli ing** | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 32 | Téli ing** | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 39 |  | Téli alsó** | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 33 | Téli alsó** | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 40 |  | Téli zokni** | pár | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 34 | Téli zokni** | pár | 2 | 2 | 2 | 2 | 2 | 2 |
+| 41 |  | Nyári zokni** | pár | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 35 | Nyári zokni** | pár | 2 | 2 | 2 | 2 | 2 | 2 |
+| 42 |  | Hímzett névkitűző | db | 2 | 2 | 2 | 1 | 1 | 1 | 1 |
 
-| 36 | Hímzett névkitűző | db | 2 | 2 | 1 | 1 | 1 | 1 |
+| 43 |  | Névkitűző fém | db |  | 1* | 1 | 1* | 1* | 1 | 1 |
 
-| 37 | Névkitűző fém | db |  | 1* | 1* | 1* | 1 | 1 |
+| 44 |  | Tépőzáras karszalag, bordó | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 38 | Tépőzáras karszalag, bordó | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 45 | 4. ékítmények | Hímzett tépőzáras rendfokozati jelzés, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 39 | 5. ékítmények | Hímzett tépőzáras rendfokozati jelzés, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 2 |
+| 46 |  | Hímzett váll-lap, sötétkék | pár | 2* | 2* | 2 | 2* | 2* | 2* | 2* |
 
-| 40 | Hímzett váll- lap, sötétkék | pár | 2* | 2* | 2* | 2* | 2* | 2* |
+| 47 |  | Váll-lap tábornoki, szerelve | pár |  |  |  |  |  | 2 | 2 |
 
-| 41 | Váll-lap tábornoki, szerelve | pár |  |  |  |  | 2 | 2 |
+| 48 |  | Karjelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 42 | Karjelvény | db | 2 | 2 | 2 | 2 | 2 | 2 |
+| 49 | 5. személyi | Málhazsák | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 43 | 6. személyi felszerelés | Málhazsák | db | 1 | 1 | 1 | 1 | 1 | 1 |
+| 50 | felszerelés | Akciómellény*** | db |  |  |  |  | 1 |  |  |
 
-| 44 | Akciómellény*** | db |  |  |  | 1 |  |  |
+| 51 | 6. költségtérítés | Polgári ruhapénz (időarányos) | db |  |  |  |  | 1 |  |  |
 
-| 45 | 7. költségtérítés | Polgári ruhapénz (időarányos) | db |  |  |  | 1 |  |  |
+| 52 |  | Alsóruházati költségtérítés** | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 46 | Alsóruházati költségtérítés** | db | 1 | 1 | 1 | 1 | 1 | 1 |
-
-| 47 | Lábbeli költség- térítés***** | db |  | 1 | 1 | 1 | 1 | 1 |
+| 53 |  | Lábbeli költségtérítés***** | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
 
 a) Megjegyzés:
 
@@ -572,7 +570,7 @@ b) Rövidítések:
 
 ba) Cs: Csökkentett alapellátási norma (férfi/női)
 
-bb) E: Egyenruhás alapellátási norma
+bb) E: Egyenruhás alapellátási norma a Készenléti Rendőrség állománya részére, a bg) pontban foglalt állomány kivételével
 
 bc) V: Vegyes ruhás alapellátási norma (férfi/női)
 
@@ -581,6 +579,8 @@ bd) P: Polgári ruhás alapellátási norma (férfi/női)
 be) T1: Tábornoki alapellátási norma (férfi)
 
 bf) T2: Tábornoki alapellátási norma (női)
+
+bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazgatóság Karmelita Őrség Osztály, valamint Köztársasági Elnöki Őrség Objektumvédelmi Osztály állománya részére (férfi/női)
 
 7a. A Készenléti Rendőrség egyenruhás alapellátási normába sorolt állományának – a bűnügyi, az igazgatásrendészeti és a kommunikációs szolgálati ágnál, az ügyeleti és a védelmi igazgatási szolgálatnál, az ellenőrzési, a gazdasági és a humánigazgatási szakszolgálatnál szolgálatot teljesítő állomány kivételével – ruházati ellátási normájának az alábbi termékek is részét képezik:
 
@@ -596,49 +596,7 @@ bf) T2: Tábornoki alapellátási norma (női)
 
 9. A Készenléti Rendőrség speciális feladatokra kijelölt hivatásos állománya részére az e pontban meghatározott speciális szolgálati egyenruházatot is ki kell adni a Készenléti Rendőrség költségvetése terhére.
 
-9.1. A Készenléti Rendőrség Köztársasági Elnöki Őrség Objektumvédelemi Osztály speciális szolgálati egyenruházata:
-
-|  | A | B | C | D |
-
-| 1 |  |  | Férfi | Női |
-
-| 2 | termék megnevezése | menny. egység | mennyiség | mennyiség |
-
-| 3 | Szolgálati nyári dzseki, palackzöld | db | 1 | 1 |
-
-| 4 | Szolgálati nyári pantalló, fekete | db | 1 | 1 |
-
-| 5 | Szolgálati nyakkendő, fekete | db | 2 | 2 |
-
-| 6 | 12M e. r. szolgálati ing/blúz, hosszú ujjú, fehér | db | 2* | 2* |
-
-| 7 | 12M e. r. szolgálati ing/blúz, rövid ujjú, fehér | db | 2* | 2* |
-
-| 8 | Szolgálati ing, rövid ujjú, vállpántos, világoszöld | db | 2 | 2 |
-
-| 9 | Szolgálati ing, hosszú ujjú, vállpántos, világoszöld | db | 2 | 2 |
-
-| 10 | Szolgálati pulóver, palackzöld | db | 1 | 1 |
-
-| 11 | Barett sapka, palackzöld, szerelve | db | 1 | 1 |
-
-| 12 | Szolgálati téli pantalló, fekete | db | 1 | 1 |
-
-| 13 | Szolgálati garbó, fekete | db | 1 | 1 |
-
-| 14 | Szolgálati csapadék ellen védő szolgálati kabát, zöld | db | 1 | 1 |
-
-| 15 | Szolgálati derékszíj, fekete | db | 1 | 1 |
-
-| 16 | 12M e. r. szolgálati félcipő, fekete | pár | 1 | 1 |
-
-| 17 | Hímzett váll-lap, sötétkék | pár | 2 | 2 |
-
-| 18 | Névkitűző | db | 1 | 1 |
-
-a) Megjegyzés:
-
-* Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. A normában előírt mennyiséget a korábban rendszeresített hasonló termék – mindaddig, amíg megengedett öltözetként viselhető – kiváltja.
+9.1.
 
 9.2. A díszőri szolgálatot ellátó állomány speciális szolgálati egyenruházata:
 
@@ -720,4 +678,4 @@ a) Megjegyzés:
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^41]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a szerint módosított szöveg.
+[^41]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja szerint módosított szöveg.
