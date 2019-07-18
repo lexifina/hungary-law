@@ -36,9 +36,9 @@
 
 | 17. | Ráckeresztúr Község Önkormányzata feladatainak támogatása | belterületi út- és járdaépítés támogatása | 25 000 000 |
 
-| 18. | Sukoró Község Önkormányzata feladatainak támogatása I. | óvodafejlesztés támogatása | 30 000 000 |
+| 18. | Sukoró Község Önkormányzata feladatainak támogatása I. | többfunkciós pálya kialakítása | 30 000 000 |
 
-| 19. | Sukoró Község Önkormányzata feladatainak támogatása II. | orvosi rendelő fejlesztésének támogatása | 35 000 000 |
+| 19. | Sukoró Község Önkormányzata feladatainak támogatása II. | sportfejlesztés támogatása | 35 000 000 |
 
 | 20. | Vál Község Önkormányzata feladatainak támogatása | belterületi útépítés támogatása | 70 000 000 |
 
