@@ -216,7 +216,7 @@
 
 | 11. | Nagyveleg Község fejlesztési feladatainak támogatása | szennyvízcsatorna-hálózat fejlesztése | 50,0 |
 
-| 12. | Naszály Község fejlesztési feladatainak támogatása | tornaterem bővítése | 10,0 |
+| 12. | Naszály Község fejlesztési feladatainak támogatása | tornateremhez tartozó kiszolgálóhelyiségek felújítása | 10,0 |
 
 | 13. | Nyíradony Város fejlesztési feladatainak támogatása | járda és csapadékvíz-csatorna felújítása | 37,0 |
 
@@ -300,7 +300,7 @@
 
 | 53. | Telekgerendás Község fejlesztési feladatainak támogatása | útfelújítás | 45,0 |
 
-| 54. | Tetétlen Község fejlesztési feladatainak támogatása | járda- és útépítés | 20,0 |
+| 54. | Tetétlen Község fejlesztési feladatainak támogatása | járdafelújítás és útépítés | 20,0 |
 
 | 55. | Tiszainoka Község fejlesztési feladatainak támogatása | útfelújítás | 12,0 |
 
@@ -415,7 +415,7 @@
 1. melléklet az 1717/2017. (X. 3.) Korm. határozathoz
 
 [^1]: A 2. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont a) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont a) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
-[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont b) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont b) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 10. pont b) alpontja, az 1215/2019. (IV. 18.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont b) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont b) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 10. pont b) alpontja, az 1215/2019. (IV. 18.) Korm. határozat 2. pontja, az 1423/2019. (VII. 18.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^3]: A 4. pont az 1697/2018. (XII. 17.) Korm. határozat 10. pont c) alpontja szerint módosított szöveg.
 [^4]: Az 5. pont az 1993/2017. (XII. 19.) Korm. határozat 2. a) pontja szerint módosított szöveg.
 [^5]: A 6. pont az 1993/2017. (XII. 19.) Korm. határozat 2. b) pontja szerint módosított szöveg.
