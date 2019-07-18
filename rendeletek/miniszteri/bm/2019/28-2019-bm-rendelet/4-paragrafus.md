@@ -1,3 +1,5 @@
-## „48. § A 17. §, valamint a 34. § (7) és (8) bekezdése a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelv 4., 8. és 12. cikkének való megfelelést szolgálja.”
+## 2–3. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

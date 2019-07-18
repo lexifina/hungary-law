@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-28-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-07-17 | 2019-28-20-0A.1 | 28/2019. (VII. 9.) BM rendelet |
+| 2019-07-18 | 2019-28-20-0A.2 | 2010: CXXX. törvény |
