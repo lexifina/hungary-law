@@ -1,3 +1,1 @@
-136. § A Hbny. a következő 35/A. §-sal egészül ki:
-
-„35/A. § Ha a zálogjoggal biztosított követelés zálogjoggal való megterhelésére irányuló zálogszerződést a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi LXVII. törvény (a továbbiakban: Módtv.) hatálybalépésének napján vagy azt megelőzően kötötték, az alzálogjogot a követelést terhelő zálogjognak a hitelbiztosítéki nyilvántartásba történő bejegyzése időpontjában az e törvénynek a Módtv. 135. §-ával megállapított 7. § (1a) bekezdése szerint megalapítottnak kell tekinteni.”
+136. §
