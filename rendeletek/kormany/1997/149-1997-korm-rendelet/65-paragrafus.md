@@ -18,7 +18,7 @@ e)[^433] a Gyvt. 20. § (2) bekezdésében szabályozott esetben az oktatási in
 
 f)[^434] a Gyvt. 19. § (1a) bekezdése szerinti esetben a családbafogadó gyámul kirendelt hozzátartozó igazolását arról, hogy a Gyvt. 19. § (1a) bekezdés b) pontjában foglalt ellátások valamelyikében részesül.
 
-(1a)[^435] A rendszeres gyermekvédelmi kedvezmény és az ahhoz kapcsolódó pénzbeli ellátás iránti kérelmet a szülő vagy más törvényes képviselő, illetve a nagykorú kérelmező a lakcíme szerint illetékes települési önkormányzat polgármesteri hivatalánál vagy a kormányablaknál terjesztheti elő.
+(1a)[^435] A rendszeres gyermekvédelmi kedvezmény és az ahhoz kapcsolódó kiegészítő pénzbeli ellátás iránti kérelmet a szülő vagy más törvényes képviselő, illetve a nagykorú kérelmező a lakcíme szerint illetékes települési önkormányzat polgármesteri hivatalánál vagy a kormányablaknál terjesztheti elő.
 
 (2)[^436] Amennyiben a rendszeres kedvezményre vonatkozó igényt nem formanyomtatványon nyújtják be, úgy a kérelem benyújtása napjának az írásbeli kérelem benyújtásának igazolt napját kell tekinteni, feltéve, hogy a formanyomtatványon történő utólagos bejelentés megtörténik.
 
@@ -46,7 +46,7 @@ b) járműre vonatkozó becsült forgalmi értékét, akkor az értéket a járm
 [^432]: A 65. § (1) bekezdés c)–d) pontját a 98/2013. (III. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
 [^433]: A 65. § (1) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 49. pontja szerint módosított szöveg.
 [^434]: A 65. § (1) bekezdés f) pontja a 98/2013. (III. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^435]: A 65. § (1a) bekezdését a 98/2013. (III. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 25. § (2) bekezdése szerint módosított szöveg.
+[^435]: A 65. § (1a) bekezdését a 98/2013. (III. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege ugyanezen módosító rendelet 25. § (2) bekezdése, a 179/2019. (VII. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^436]: A 65. § (2) bekezdés első mondatát a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés o) pontja hatályon kívül helyezte. E módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^437]: A 65. § (4) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés h) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^438]: A 65. § (5) bekezdés a) pontja a 98/2013. (III. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
