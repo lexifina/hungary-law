@@ -6,8 +6,8 @@
 
 (4) Két vagy több növényvédő szer egyidejű alkalmazásakor az egyes felhasznált készítményekre előírt szabályok közül a legszigorúbb felhasználási szabályokat kell betartani.
 
-(5)[^33]
+(5)[^35]
 
 (6) Növényvédelmi tevékenység során a kiszóródott szilárd növényvédő szert, illetve a növényvédő szerrel szennyezett talajt össze kell gyűjteni. A kiömlött folyékony növényvédő szert megfelelő anyaggal (például homok, perlit, egyéb nedvszívó anyag) fel kell itatni. A keletkezett anyagot (a szennyezett talajt is beleértve) veszélyes hulladékként kell kezelni.
 
-[^33]: A 10. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^35]: A 10. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 15. § a) pontja hatályon kívül helyezte.

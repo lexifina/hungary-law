@@ -1,16 +1,47 @@
+## 28/A. §[^101] Növényvédő szert forgalmazó személy a kiskereskedelemben történő forgalmazásra vonatkozó feltételek mellett megvásárolt növényvédő szert személyesen, közvetlenül a felhasználás – vásárló által megjelölt – helyszínére szállíthatja.
+
 ## Nyilvántartási kötelezettség
 
 29. § (1) A felhasználási tevékenységet folytatónak az I. forgalmi kategóriába sorolt növényvédő szer raktárkészletéről és felhasználásáról naprakész nyilvántartást kell vezetnie.
 
 (2) A felhasználási tevékenységet folytatónak a II. és III. forgalmi kategóriába sorolt növényvédő szerek raktárkészletéről 25 kg-ot meghaladó összmennyiség felett, valamint a növényvédő szer felhasználásáról naprakész nyilvántartást kell vezetni.
 
-(3)[^84] A kereskedőnek a növényvédő szerek nagykereskedelmi forgalmazásáról legalább heti, kiskereskedelmi forgalmazásáról legalább havi összesítésű, az 5. melléklet szerinti, vagy tartalmában annak megfelelő, folyamatos nyilvántartást kell vezetni.
+(3)[^102] A kereskedőnek a növényvédő szerek nagykereskedelmi forgalmazásáról legalább heti, kiskereskedelmi forgalmazásáról legalább havi összesítésű, folyamatos nyilvántartást kell vezetnie.
 
-(4)[^85] A kereskedőnek az I. és II. forgalmi kategóriájú növényvédő szerek forgalmazásáról a 6. melléklet szerinti, vagy tartalmában annak megfelelő naprakész nyilvántartást kell vezetni.
+(3a)[^103] A növényvédő szerek kiskereskedelmi forgalmazásáról szóló nyilvántartás az alábbi adatokat tartalmazza:
+
+a) a forgalmazó neve, címe,
+
+b) a forgalmazásra vonatkozó időszak,
+
+c) a forgalmazott növényvédő szer neve,
+
+d) az értékesített mennyiség,
+
+e) a raktári készlet.
+
+(4)[^104] A kereskedőnek az I. és II. forgalmi kategóriájú növényvédő szerek forgalmazásáról naprakész nyilvántartást kell vezetnie. Az I. és II. forgalmi kategóriájú növényvédő szerek forgalmazásáról szóló nyilvántartás az alábbi adatokat tartalmazza:
+
+a) a forgalmazó neve, címe,
+
+b) a növényvédő szer neve, forgalmi kategóriája,
+
+c) a kiinduló mennyiség,
+
+d) a beszerzés dátuma,
+
+e) a vásárló neve, vásárlási engedély száma,
+
+f) a forgalmazott mennyiség,
+
+g) az átvétel dátuma.
 
 (5) A növényvédő szer raktárkészletek számlabizonylatait 5 évig meg kell őrizni.
 
-(6) Az (1)–(2) bekezdés szerinti nyilvántartásnak megfelel a növényvédő szer vásárlásáról kapott számlabizonylat és a folyamatosan vezetett készletnyilvántartó lap, vagy a 2. melléklet szerint vezetett vagy tartalmában annak megfelelő permetezési napló, vagy a külön jogszabály szerint a támogatási időszak alatt kötelezően vezetendő Gazdálkodási Napló vonatkozó nyilvántartása is.
+(6)[^105] Az (1)–(2) bekezdés szerinti nyilvántartásnak megfelel a növényvédő szer vásárlásáról kapott számlabizonylat és a folyamatosan vezetett készletnyilvántartó lap, vagy a 30. § (1a) bekezdése szerint vezetett vagy tartalmában annak megfelelő permetezési napló, vagy a külön jogszabály szerint a támogatási időszak alatt kötelezően vezetendő Gazdálkodási Napló vonatkozó nyilvántartása is.
 
-[^84]: A 29. § (3) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (13) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^85]: A 29. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 21. pontja szerint módosított szöveg.
+[^101]: A 28/A. §-t a 35/2019. (VII. 15.) AM rendelet 12. §-a iktatta be.
+[^102]: A 29. § (3) bekezdése a 35/2019. (VII. 15.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^103]: A 29. § (3a) bekezdését a 35/2019. (VII. 15.) AM rendelet 13. § (2) bekezdése iktatta be.
+[^104]: A 29. § (4) bekezdése a 35/2019. (VII. 15.) AM rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^105]: A 29. § (6) bekezdése a 35/2019. (VII. 15.) AM rendelet 21. § l) pontja szerint módosított szöveg.

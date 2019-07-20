@@ -1,114 +1,10 @@
-## A. rész
+2. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^142]
 
-## A forgalmazási, vásárlási és felhasználási engedély mintája
-
-## ................................................ Járási Hivatal Sorszám: I./.................../.................
-
-## II./.................../.................
-
-## Engedély
-
-## Név:
-
-## Lakóhely:
-
-## Végzettség:
-
-## Oklevél száma: ................................................................. Kiállításának éve:
-
-## Oklevelet kiállította:
-
-## Magyar Növényvédő Mérnöki és Növényorvosi Kamara regisztrációs száma:
-
-## Egyéb megjegyzés:
-
-## Az engedély jogosultja a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendeletben meghatározott szakképesítése alapján ..................................... (számmal és betűvel kiírt) forgalmi kategóriába sorolt növényvédő szer
-
-## – nagykereskedelmi forgalmazására ......................... jogosult
-
-## – kiskereskedelmi forgalmazására jogosult
-
-## – vásárlására jogosult
-
-## – saját célú felhasználására jogosult
-
-## – azzal folytatott növényvédelmi szolgáltatási tevékenységre önállóan ........................ jogosult
-
-## – azzal folytatott növényvédelmi szolgáltatási tevékenységre munkavégzőként jogosult
-
-## (A kipontozott részbe csak a „nem” jogosultságot lehet bejegyezni.)
-
-## Kelt: ...................................., .................. év ..................................... hó ............ nap
-
-## P. H.
-
-## .............................................
-
-## aláírás
-
-## Az engedély hátoldala:
-
-## Továbbképzés időpontja: ..........................   P. H.   aláírás: ....................................
-
-## Továbbképzés időpontja: ..........................   P. H.   aláírás: ....................................
-
-## Továbbképzés időpontja: ..........................   P. H.   aláírás: ....................................
-
-## B. rész
-
-## Külföldiek forgalmazási, vásárlási és felhasználási engedély mintája
-
-## ................................................  Járási Hivatal Sorszám: I./.................../.................
-
-## II./.................../.................
-
-## Engedély
-
-## Név:
-
-## Anyja neve:
-
-## Lakóhely :
-
-## Személyazonosító igazolvány száma:
-
-## Származási tagállam igazolásának száma:
-
-## Kiállításának kelte:
-
-## Kiállító hatóság:
-
-## Az engedély jogosultja a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet, valamint a 8/2007. (I. 31.) FVM rendelet alapján ....................................................... (számmal és betűvel kiírt) forgalmi kategóriába sorolt növényvédő szer
-
-## – nagykereskedelmi forgalmazására ....................... jogosult
-
-## – kiskereskedelmi forgalmazására jogosult
-
-## – vásárlására jogosult
-
-## – saját célú felhasználására jogosult
-
-## – illetve azzal folytatott növényvédelmi szolgáltatási tevékenységre önállóan ....................... jogosult
-
-## – illetve azzal folytatott növényvédelmi szolgáltatási tevékenységre munkavégzőként jogosult
-
-## (A kipontozott részbe csak a „nem” jogosultságot lehet bejegyezni.)
-
-## Kelt: ............................, ............ év ............................ hó ......... nap
-
-## P. H.
-
-## .............................................................
-
-## aláírás
-
-2. melléklet a 43/2010. (IV. 23.) FVM rendelethez
-
-## Növényvédelmi gépek típusminősítési eljárása és felülvizsgálata[^108]
+## Növényvédelmi gépek típusminősítési eljárása és felülvizsgálata[^143]
 
 ## Növényvédelmi gépek típusminősítési eljárásának követelményei
 
-## 1.[^109]
+## 1.[^144]
 
 ## 2. A 32. § (1) bekezdésében foglalt rendelkezésekre figyelemmel, az 5 dm3-nél nagyobb tartállyal rendelkező növényvédelmi gépek csak típusminősítés után hozhatók forgalomba. A típusminősítési eljárást a növényvédelmi gép gyártója, forgalmazója által szolgáltatott adatok alapján, vagy vizsgálat alapján kell lefolytatni.
 
@@ -128,9 +24,9 @@
 
 ## 10. A forgalomba hozatali engedély hatályosságát igazoló, 6. függelék szerinti matricát a növényvédelmi gépen feltűnő helyen kell elhelyezni.
 
-## Növényvédelmi gépek felülvizsgálata[^110]
+## Növényvédelmi gépek felülvizsgálata[^145]
 
-## 1–5.[^111]
+## 1–5.[^146]
 
 ## 1. függelék
 
@@ -386,7 +282,8 @@ A gépnek könnyen és alaposan tisztíthatónak kell lennie.
 
 A gyorsan kopó alkatrészeknek hozzáférhetőeknek és cserélhetőeknek kell lennie. A gépen meg kell adni a típusjelzést és a típusbesorolást, valamint a gyártás évét.
 
-[^108]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
-[^109]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
-[^110]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
-[^111]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1–5. pontját a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.
+[^142]: A 2. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § g) pontja hatályon kívül helyezte.
+[^143]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
+[^144]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
+[^145]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
+[^146]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1–5. pontját a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.

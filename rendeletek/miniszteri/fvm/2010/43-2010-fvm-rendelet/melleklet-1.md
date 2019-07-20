@@ -1,3 +1,3 @@
-1. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^107]
+1. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^141]
 
-[^107]: Az 1. melléklet a 70/2013. (VIII. 31.) VM rendelet 125. § r) pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § l) pontja szerint módosított szöveg.
+[^141]: Az 1. mellékletet a 35/2019. (VII. 15.) AM rendelet 22. § f) pontja hatályon kívül helyezte.

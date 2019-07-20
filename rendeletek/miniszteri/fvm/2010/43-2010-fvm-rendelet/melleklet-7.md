@@ -1,22 +1,4 @@
-## Az I. és II. forgalmi kategóriájú növényvédő szerek forgalmazásáról szóló nyilvántartás tartalma
-
-## Forgalmazó:
-
-## Oldalszám:
-
-## Cím:
-
-## Növényvédő szer neve:
-
-## Kiinduló mennyiség:
-
-## A beszerzés dátuma:
-
-## Számla/azonosító szám:
-
-| Sor- szám | Vásárló neve | Vásárlási engedély száma | Növényvédő szer megnevezése | Forgalmi kategória | Értékesített mennyiség | Dátum | Átvette (név) | Vény száma | Kiadta |
-
-7. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^118]
+7. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^155]
 
 ## Raktári kártevők
 
@@ -74,7 +56,7 @@
 
 27. Trogoderma granarium Everts.
 
-28.[^119]
+28.[^156]
 
-[^118]: A 7. mellékletet a 66/2010. (V. 12.) FVM rendelet 13. § (17) bekezdése iktatta be. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
-[^119]: A 7. melléklet 28. pontját a 84/2015. (XII. 17.) FM rendelet 15. § c) pontja hatályon kívül helyezte.
+[^155]: A 7. mellékletet a 66/2010. (V. 12.) FVM rendelet 13. § (17) bekezdése iktatta be. E módosító rendelet 12. §-a alapján a 2010. május 27-ét követően indult eljárásokban kell alkalmazni.
+[^156]: A 7. melléklet 28. pontját a 84/2015. (XII. 17.) FM rendelet 15. § c) pontja hatályon kívül helyezte.
