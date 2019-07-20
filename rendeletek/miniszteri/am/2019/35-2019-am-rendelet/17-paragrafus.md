@@ -1,0 +1,1 @@
+## „(4) Használt növényvédelmi gép kereskedelmi értékesítése során csak úgy adható át a végfelhasználónak, ha az a 35. § (2) bekezdésében foglaltaknak megfelel és az erről szóló tanúsító matrica a használt növényvédelmi gép értékesítésének időpontjától számított három évig érvényes.”
