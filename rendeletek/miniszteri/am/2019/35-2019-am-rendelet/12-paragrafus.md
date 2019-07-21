@@ -1,1 +1,0 @@
-## „(5) Munkaterületen növényvédő szer vagy permetlé az egynapi felhasználásra előkészített, zárt csomagolásban, vagy újra visszazárt eredeti csomagolásban, biztonságosan zárható, alkalmi raktárban, tárolóban is tárolható. Az alkalmi raktár, tároló más célra kizárólag az esetleges növényvédő szer szennyeződés maradéktalan eltávolítása után használható.”
