@@ -12,7 +12,7 @@
 
 a) 10. pontja tekintetében a tartózkodási helyre vonatkozó,
 
-b) 18. pontjában meghatározott adatokat nyilvántartó szervtől az adózás rendjéről szóló 2017. évi CL. törvény 1. melléklet 8. pont szerinti foglalkoztatottak foglalkoztatásával kapcsolatos, valamint a támogatást igénylő, valamint ha a támogatást más személyre tekintettel állapítják meg, úgy e személy nettó árbevételére vonatkozó,
+b) 18. pontjában meghatározott adatokat nyilvántartó szervtől az adózás rendjéről szóló törvényben meghatározott,
 
 c) 33. pontja vonatkozásában a gyermek óvodai jogviszonyával kapcsolatos
 
