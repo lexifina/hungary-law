@@ -172,7 +172,11 @@ Színházi cipész
 
 a) a szakképzett edző, sportszervező, -irányító (FEOR-08 2717), feltéve, hogy rendelkezik a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott képesítéssel, szakképzettséggel;
 
-b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló 2004. évi I. törvény (a továbbiakban: a sportról szóló törvény) 11/A. §-ában meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy a sportról szóló törvény 19. § (3) bekezdése szerinti sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, vagy a sportszövetség vagy a sportszervezet főállású munkavállalója, a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén feltéve, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel.
+b) a hivatásos sportoló, sportmunkatárs, valamint a sportról szóló 2004. évi I. törvény (a továbbiakban: sportról szóló törvény) 11/A. §-ában meghatározott sportszakember, feltéve, hogy a magánszemély sportszervezettel vagy a sportról szóló törvény 19. § (3) bekezdése szerinti sportszövetséggel fennálló jogviszonya keretében sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, és a sportszövetség szabályzata szerint sportszakembernek minősül, vagy a sportszövetség vagy a sportszervezet főállású munkavállalója, a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló jogszabályban meghatározott tevékenységek esetén feltéve, hogy a sportmunkatárs, sportszakember rendelkezik a jegyzékben meghatározott képesítéssel, szakképzettséggel;
+
+c) a sportról szóló törvény szerint Magyarországon nyilvántartásba vett nemzetközi sportszövetség által foglalkoztatott magánszemély (a továbbiakban: nemzetközi sportszövetség munkavállalója).
+
+(3d) A (2) bekezdésben előírt szabályoktól függetlenül a nemzetközi sportszövetség munkavállalója a külföldi pénznemben megszerzett bevételére is alkalmazhatja e törvény előírásait, feltéve, hogy tevékenységét nem kizárólag belföldön látja el. A külföldi pénznemben megszerzett bevétel forintra történő átszámítására az Szja tv. 5. és 6. §-ában foglalt szabályokat kell alkalmazni.
 
 (4) A (2) bekezdésben említett összeghatár
 
@@ -186,7 +190,7 @@ d) az a)–b) pontban említett összeghatár helyett
 
 da) évi 500 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
 
-db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya)
+db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya), vagy a nemzetközi sportszövetség munkavállalója
 
 azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
 
