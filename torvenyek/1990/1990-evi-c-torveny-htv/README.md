@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-100-00-00
 | 2019-01-01 | 2018. évi XLI. törvény | 1990-100-00-00.67 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1990-100-00-00.68 |
 | 2019-07-01 | 2018. évi XLI. törvény | 1990-100-00-00.69 |
+| 2019-07-24 | 2019. évi LXXIII. törvény | 1990-100-00-00.70 |
