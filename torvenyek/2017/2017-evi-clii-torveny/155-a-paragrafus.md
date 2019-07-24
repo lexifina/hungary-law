@@ -22,4 +22,4 @@ amelyet követően a biztosíték felszabadítása felől haladéktalanul intéz
 
 (8) A 153. § (1) bekezdés b) pontja alapján a kötelezettségvállalási engedélyhez benyújtott biztosíték felszabadítása esetén a biztosíték típusától függően a (4) és az (5) bekezdésben foglaltakat kell alkalmazni.
 
-(9) A VA 155. cikk (3) bekezdése esetén a vámhatóság a kötelezettségvállalást a DA 82. cikk (3) bekezdésében meghatározott időponttól számított egy év letelte után haladéktalanul felszabadítja.
+(9) A VA 151. cikk (3) bekezdése esetén a vámhatóság a kötelezettségvállalást az FJA 82. cikk (3) bekezdésében meghatározott időponttól számított egy év letelte után haladéktalanul felszabadítja.

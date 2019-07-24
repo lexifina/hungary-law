@@ -4,7 +4,11 @@
 
 ### 217. § [Módosító és hatályon kívül helyező rendelkezések]
 
-(1)–(3)
+(1)
+
+(2)
+
+(3)
 
 (4)
 
