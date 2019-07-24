@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2018-09-01 | 2018. évi XLI. törvény | 2016-68-00-00.15 |
 | 2019-01-01 | 2018. évi LXXXII. törvény | 2016-68-00-00.16 |
 | 2019-02-01 | 2018. évi LXXXII. törvény | 2016-68-00-00.17 |
+| 2019-07-24 | 2019. évi LXXII. törvény | 2016-68-00-00.18 |
