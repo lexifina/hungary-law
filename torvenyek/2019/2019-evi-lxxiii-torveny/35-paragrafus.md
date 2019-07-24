@@ -2,7 +2,7 @@
 
 1. 2/A. § (2) bekezdés d) pontja,
 
-2. 22/B. § (14) bekezdése,
+2.
 
 3. 24/A. § (2) bekezdés a) pontja,
 

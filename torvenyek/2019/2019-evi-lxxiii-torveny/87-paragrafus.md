@@ -13,11 +13,3 @@
 (4) A 27. § (2) bekezdése 2021. január 1-jén lép hatályba.
 
 (5) A 27. § (3) bekezdése 2022. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

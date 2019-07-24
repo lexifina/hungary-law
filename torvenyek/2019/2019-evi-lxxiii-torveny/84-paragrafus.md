@@ -1,9 +1,0 @@
-84. § Az Szt. 177. §-a a következő (75)–(78) bekezdéssel egészül ki:
-
-„(75) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 2/A. § (4a) bekezdését, 3. § (4) bekezdés 11–13. pontját, 28. § (3a) bekezdését, 32. § (8) bekezdését, 41. § (1) bekezdését, 44. § (7) bekezdését, 62. § (2) bekezdését, 72. § (4a) bekezdését, 98. § b) pontját először a 2020. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-
-(76) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 2/A. § (4a) bekezdését, 3. § (4) bekezdés 11–13. pontját, 28. § (3a) bekezdését, 32. § (8) bekezdését, 41. § (1) bekezdését, 44. § (7) bekezdését, 62. § (2) bekezdését, 72. § (4a) bekezdését, 98. § b) pontját a 2019. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
-
-(77) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 3. § (4) bekezdés 11–13. pontját, 28. § (3a) bekezdését, 32. § (8) bekezdését, 44. § (7) bekezdését, 62. § (2) bekezdését, 72. § (4a) bekezdését, 98. § b) pontját a 2020. január 1-je előtt megkötött szerződésekre nem kötelező alkalmazni.
-
-(78) Ha a vállalkozó a 2020. január 1-je előtt megkötött szerződésekre alkalmazza az e törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 3. § (4) bekezdés 11–13. pontját, 28. § (3a) bekezdését, 32. § (8) bekezdését, 44. § (7) bekezdését, 62. § (2) bekezdését, 72. § (4a) bekezdését, 98. § b) pontját, úgy az érintett szerződésekre, az e törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel hatályon kívül helyezett 62. § (3) bekezdését nem alkalmazhatja.”

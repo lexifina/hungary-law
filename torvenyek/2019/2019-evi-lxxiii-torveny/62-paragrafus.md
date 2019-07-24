@@ -4,11 +4,7 @@
 
 ## 12. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
-62. § (1) A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény (a továbbiakban: Pti. törvény) 3. § (4) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget:]
-
-„f) a kincstár által az Áht. 79. § (1) bekezdése alá tartozó kör számlái terhére végrehajtott fizetési művelet,”
+62. § (1)
 
 (2) A Pti. törvény 3. § (4) bekezdés r) pontja helyébe a következő rendelkezés lép:
 

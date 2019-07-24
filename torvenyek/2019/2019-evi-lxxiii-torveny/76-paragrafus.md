@@ -1,1 +1,0 @@
-76. § Az Art. 266. § a) pontjában az „illetve az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó adózó, valamint e törvények hatálya alá nem tartozó” szövegrész helyébe a „valamint általános forgalmiadó-alanynak nem minősülő” szöveg lép.
