@@ -12,7 +12,7 @@ a) az áru lényeges tulajdonsága:
 
 aa) az áru összetétele, műszaki jellemzői és az árunak az adott célra való alkalmassága,
 
-ab) az áru eredete, származási helye,
+ab) az áru eredete, származási helye és előállításának módja,
 
 ac) az áru tesztelése, ellenőrzöttsége vagy annak eredménye;
 
