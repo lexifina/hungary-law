@@ -84,7 +84,7 @@ db) a külföldi személynél vagy a külföldi telephelynél nem lennének a j�
 
 e) nem minősül ellenőrzött külföldi társaságnak az a külföldi személy vagy külföldi telephely abban az adóévében,
 
-ea) amelyben a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti állam jogszabályai alapján megállapított adózás előtti eredménye a 243.952.500 forint összeghatárt meg nem haladó nyereség és a nem kereskedelmi tevékenységből származó jövedelme a 23.495.250 forint összeghatárt meg nem haladó nyereség, vagy
+ea) amelyben a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti állam jogszabályai alapján megállapított adózás előtti eredménye a 243.952.500 forint összeghatárt meg nem haladó nyereség és a nem kereskedelmi tevékenységből származó jövedelme a 24.395.250 forint forint összeghatárt meg nem haladó nyereség, vagy
 
 eb) amelyben a külföldi személy adóügyi illetősége, a külföldi telephely fekvése szerinti állam jogszabályai alapján megállapított adózás előtti nyeresége nem haladja meg az elszámolt működési költségei 10 százalékát,
 
@@ -336,9 +336,9 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 
 47. sportcélú ingatlan üzemeltetésének költségei: az üzembe helyezett sportcélú ingatlan által nyújtott szolgáltatások működési költségei, ideértve különösen a személyi jellegű ráfordításokat, az anyagköltségeket, a szerződéses szolgáltatások, a távközlés, az energia és a karbantartás költségeit, a bérleti díjakat, az adminisztrációval kapcsolatos költségeket, az olyan értékcsökkenési és finanszírozási költségek kivételével, amelyeket a sportcélú ingatlanhoz nyújtott beruházási támogatásból már fedeztek;
 
-47a. működési veszteség: a sportcélú ingatlannak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet szerinti támogatási időszak alatt elért – észszerű nyereséggel növelt – bevételei, csökkentve a sportcélú ingatlan üzemeltetésének költségeivel, ha ezen számítás eredménye negatív;
+47a.
 
-47b. észszerű nyereség: a 651/2014/EU bizottsági rendelet 2. cikk 142. pontja szerinti nyereség;
+47b.
 
 47c. kizárólag helyi hatással bíró sportcélú ingatlan: az olyan sportcélú ingatlan, amely esetén igazolható, hogy korlátozott vonzáskörzettel rendelkezik, látogatóinak jelentős részét az adott államon belülről vonzza és támogatása marginális hatással van a határon átnyúló beruházásokra és letelepedésekre;
 

@@ -97,3 +97,15 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 17. az adóévben adomány jogcímen visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy az adózó rendelkezik a közhasznú szervezet, az egyházi jogi személy, a közérdekű kötelezettségvállalás szervezője által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, az adomány összegét és a támogatott célt.
 
 18. az adóévben az adózó által átvállalt kamarai tagsághoz kapcsolódó tagdíj összege, feltéve, hogy az kötelező kamarai tagsághoz kapcsolódódik;
+
+19. az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve, hogy annak átadása, nyújtása jogszabályon alapul, ideértve a villamos energiáról szóló 2007. évi LXXXVI. törvény 142. § (6) bekezdése szerinti kiegyenlítő fizetést is az arra kötelezett elosztónál.
+
+20. a munkahelyi óvoda, továbbá a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti munkahelyi bölcsőde üzemeltetésével kapcsolatosan felmerült adóévi költség, ráfordítás;
+
+21. éttermi szolgáltatás igénybevétele esetén a bankkártyával, hitelkártyával történő fizetésre tekintettel kapott nyugta alapján elszámolt költség, ráfordítás, feltéve, hogy a szolgáltatás igénybevétele a személyi jövedelemadóról szóló törvény szerinti reprezentáció céljából történik.
+
+22. a vagyonrendelőnél a bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékére, valamint a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegére tekintettel elszámolt ráfordítás.
+
+23. felsőoktatási támogatási megállapodás alapján az adóévben felsőoktatási intézménynek visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke;
+
+24. a nemzeti otthonteremtési közösségekről szóló törvényben meghatározott, a szervező által képzett tartalékból a közösség számára teljesített kifizetés értéke.

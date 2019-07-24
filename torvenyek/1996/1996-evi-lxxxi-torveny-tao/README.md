@@ -72,3 +72,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2018-11-24 | 2018. évi LXXXII. törvény | 1996-81-00-00.117 |
 | 2018-12-22 | 2018. évi CXXVII. törvény | 1996-81-00-00.118 |
 | 2019-01-01 | 2018. évi LXXXII. törvény | 1996-81-00-00.119 |
+| 2019-07-24 | 2019. évi LXXIII. törvény | 1996-81-00-00.120 |

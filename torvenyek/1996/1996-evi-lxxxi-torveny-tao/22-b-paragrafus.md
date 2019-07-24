@@ -18,7 +18,13 @@ g) munkahelyteremtést szolgáló beruházás,
 
 h) a jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (vagy egy részének) a tőkepiacról szóló törvényben meghatározott szabályozott piacra (a továbbiakban: szabályozott piac) történő bevezetésének a napját (az első kereskedési napot) követően, de legkésőbb az e napot követő harmadik év utolsó napjáig megkezdett, jelenértéken legalább 100 millió forint értékű beruházás,
 
-i) jelenértéken legalább 500 millió forint értékű, kis- és középvállalkozás által megvalósított beruházás,
+i) jelenértéken legalább
+
+ia) 300 millió forint értékű, kisvállalkozás által,
+
+ib) 400 millió forint értékű, középvállalkozás által
+
+megvalósított beruházás,
 
 j) jelenértéken legalább 100 millió forint értékű, szabad vállalkozási zóna területén megvalósított beruházás,
 

@@ -4,4 +4,4 @@
 
 (2) Az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózó az (1) bekezdés rendelkezéseit a II/A. fejezetben foglaltak figyelembevételével alkalmazza.
 
-(3) A csoportos társasági adóalany adóévi fizetendő adóját a csoporttagok között a 6. § (1)–(2a), (5)–(10) bekezdés szerint egyedileg megállapított pozitív adóalapok arányában kell felosztani. A csoportképviselő az egyes csoporttagokra jutó fizetendő adót a csoportképviselő a csoportos társasági adóalany társasági adóbevallásában feltünteti és a beszámolóját, könyvviteli zárlatát a számviteli törvény III. Fejezete szerint összeállító csoporttag az adózott eredménye terhére adófizetési kötelezettségként elszámolja.
+(3) A csoportos társasági adóalany adóévi fizetendő adóját a csoporttagok között a 6. § (1)–(2a), (5)–(10) bekezdése szerint egyedileg megállapított pozitív adóalapok arányában kell felosztani. A csoportképviselő az egyes csoporttagokra jutó fizetendő adót a csoportos társasági adóalany társasági adóbevallásában feltünteti és a beszámolóját, könyvviteli zárlatát a számviteli törvény III. Fejezete szerint összeállító csoporttag adófizetési kötelezettségként elszámolja.

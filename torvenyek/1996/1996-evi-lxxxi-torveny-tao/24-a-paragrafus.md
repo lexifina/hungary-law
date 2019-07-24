@@ -1,10 +1,10 @@
 ## Rendelkezés az adóról
 
-24/A. § (1) Az adózó az esedékes adóelőleg-fizetési kötelezettségének teljesítésére nyitva álló határidőt megelőző hónap utolsó napjáig az állami adóhatóság által rendszeresített külön nyomtatványon, elektronikus úton tett rendelkező nyilatkozata útján a kedvezményezett szervezet(ek) nevének és adószámának megjelölésével rendelkezhet a 26. § (2), (3) és (8) bekezdése szerint megállapított egyes havi, illetve negyedéves társasági adóelőleg-kötelezettsége 50 százalékának kedvezményezett célra történő felajánlásáról.
+24/A. § (1) Az adózó az esedékes adóelőleg-fizetési kötelezettségének teljesítésére nyitva álló határidőt megelőző hónap utolsó napjáig az állami adóhatóság által rendszeresített külön nyomtatványon, elektronikus úton tett rendelkező nyilatkozata útján a kedvezményezett szervezet(ek) nevének és adószámának megjelölésével rendelkezhet a 26. § (2), (3) és (8) bekezdése szerint megállapított egyes havi, illetve negyedéves társasági adóelőleg-kötelezettsége (ideértve a csoportos társasági adóalany számára az alapító, csatlakozó tagra vonatkozóan adóhatósági határozattal előírt társasági adóelőleg-kötelezettséget, továbbá a volt csoporttag számára a megszűnt csoporttagságára tekintettel adóhatósági határozattal előírt társasági adóelőleg-kötelezettséget) 50 százalékának kedvezményezett célra történő felajánlásáról.
 
 (2) Amennyiben az adózó az (1) bekezdés szerinti rendelkező nyilatkozatot nem tesz, vagy az (1) bekezdés szerint felajánlott és az adóhatóság által kedvezményezett célra átutalt összeg nem éri el az adózó által e törvény 24. §-a szerint fizetendő adó összegének 80 százalékát, az adózó
 
-a) a társasági adóelőleg-kiegészítési kötelezettségről szóló bevallás benyújtására nyitva álló határidő utolsó napjáig a társasági adóelőleg-kiegészítési kötelezettségről szóló bevallásában,
+a)
 
 b) a társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig a társasági adóbevallásában
 
@@ -18,7 +18,7 @@ b) a látvány-csapatsport 22/C. § (1) bekezdésében meghatározott támogatá
 
 (4) Az adózó az (1) bekezdés szerinti rendelkező nyilatkozatot – az (1) bekezdésben meghatározott korlátra is figyelemmel – a társasági adóelőleg-fizetési kötelezettségének teljesítése során, a havi vagy negyedéves adóelőleg-fizetési kötelezettség teljesítésére nyitva álló határidő utolsó napjáig az állami adó- és vámhatóság által rendszeresített külön nyomtatványon, elektronikus úton tett nyilatkozata útján egy adóévben összesen legfeljebb öt alkalommal a soron következő adóelőlegekre tekintettel módosíthatja. A Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság részére a (3) bekezdés a) pontjában meghatározott célra történő felajánlás kivételével a módosítás érvényességének feltétele, hogy az adózó a (16)–(17) bekezdés szerint kiállított igazolást az állami adóhatóságnak – a nyilatkozat tételével egyidejűleg – benyújtsa, illetve, hogy a (19)–(21) bekezdés szerint kiállított igazolás a (21a) bekezdésben foglaltak szerint az állami adóhatósághoz beérkezzen.
 
-(5) Az adózó a társasági adóelőleg-fizetési, társasági adóelőleg-kiegészítési és társasági adófizetési kötelezettségének az (1) vagy (2) bekezdés szerinti rendelkező nyilatkozat megtételétől függetlenül eleget tesz.
+(5) Az adózó a társasági adóelőleg-fizetési és társasági adófizetési kötelezettségének az (1) vagy (2) bekezdés szerinti rendelkező nyilatkozat megtételétől függetlenül eleget tesz.
 
 (6) Az adózó az (1) vagy a (2) bekezdés szerinti, kedvezményezett célra történő felajánlásáért és annak pénzügyi teljesítéséért a kedvezményezett szervezet részéről – szponzori szerződés keretében juttatott kiegészítő sportfejlesztési támogatás kivételével – ellenszolgáltatásra nem jogosult, az ezzel ellentétes megállapodás semmis. Ilyen megállapodás esetén
 
@@ -40,7 +40,7 @@ c) az adózó nem jogosult az 24/B. § szerinti jóváírásra.
 
 a) az adózó (1) bekezdés szerinti rendelkező nyilatkozata, illetve a társasági adóbevallásban bevallott adatok alapján – figyelemmel a (24) bekezdésben foglaltakra – a havonta, illetve negyedévente fizetendő előleg legfeljebb 50 százalékát – látvány-csapatsportok támogatása esetében a (9) és (25) bekezdés szerint csökkentett mértékben – a havonta, illetve a negyedévente teljesítendő kötelezettség teljesítését követő 15 munkanapon belül,
 
-b) az adózó (2) bekezdés szerinti rendelkező nyilatkozata alapján, a társasági adóelőleg-kiegészítési kötelezettségről szóló bevallásban, illetve a társasági adóbevallásban bevallott adatok figyelembevételével a rendelkező nyilatkozatban megjelölt összeget – a látvány-csapatsportok támogatása esetében a (9) és (25) bekezdés szerint csökkentett mértékben – a társasági adóelőleg-kiegészítési kötelezettségről szóló bevallás, illetve a társasági adóbevallás benyújtását követő 15 munkanapon belül
+b) az adózó (2) bekezdés szerinti rendelkező nyilatkozata alapján a társasági adóbevallásban bevallott adatok figyelembevételével a rendelkező nyilatkozatban megjelölt összeget – a látvány-csapatsportok támogatása esetében a (9) és (25) bekezdés szerint csökkentett mértékben – a társasági adóbevallás benyújtását követő 15 munkanapon belül
 
 a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy teljesülnek az átutalás e §-ban meghatározott feltételei.
 
@@ -50,19 +50,19 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 (13) Az állami adóhatóság a (11) bekezdés szerinti átutalást abban az esetben teljesíti, ha
 
-a) a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság részére a (3) bekezdés a) pontjában meghatározott célra történő felajánlás esetének kivételével a (16)–(17) bekezdés szerint kiállított igazolást az (1) bekezdés szerinti rendelkező nyilatkozat benyújtásával egyidejűleg, a (2) bekezdés szerinti rendelkező nyilatkozat esetén legkésőbb az adóelőleg-kiegészítési kötelezettség teljesítésének időpontjáig vagy a társasági adóbevallás benyújtásáig az állami adó- és vámhatóság kézhez kapja, illetve, hogy a (19)–(21) bekezdés szerint kiállított igazolás a (21a) bekezdésben foglaltak szerint az állami adó- és vámhatóság részére beérkezzen,
+a) a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság részére a (3) bekezdés a) pontjában meghatározott célra történő felajánlás esetének kivételével a (16)–(17) bekezdés szerint kiállított igazolást az (1) bekezdés szerinti rendelkező nyilatkozat benyújtásával egyidejűleg, a (2) bekezdés szerinti rendelkező nyilatkozat esetén legkésőbb a társasági adóbevallás benyújtásáig az állami adó- és vámhatóság kézhez kapja, illetve, hogy a (19)–(21) bekezdés szerint kiállított igazolás a (21a) bekezdésben foglaltak szerint az állami adó- és vámhatóság részére beérkezzen,
 
 b) az adózó, továbbá a felajánlás kedvezményezettjének állami adóhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása az átutaláskor nem haladja meg a százezer forintot,
 
 c) az adózó a vonatkozó társasági adóbevallását határidőben benyújtotta, és
 
-d) a társasági adóelőleg-kiegészítési kötelezettségről szóló bevallásában, illetve társasági adóbevallásában fizetendő adóelőlegként, adóként megjelölt összeget esedékességig megfizette, továbbá a (2) bekezdés szerinti esetben az adóbevallásban bevallott, fizetendő adó 80 százaléka a (2) bekezdés szerinti rendelkező nyilatkozatban szereplő összeget eléri vagy meghaladja.
+d) a társasági adóbevallásában fizetendő adóelőlegként, adóként megjelölt összeget esedékességig megfizette, továbbá a (2) bekezdés szerinti esetben az adóbevallásban bevallott, fizetendő adó 80 százaléka a (2) bekezdés szerinti rendelkező nyilatkozatban szereplő összeget eléri vagy meghaladja.
 
-(13a) Ha az állami adó- és vámhatóság az átutalást kizárólag azért tagadta meg, mert az adózó a társasági adóelőleg-kiegészítési kötelezettségről szóló bevallásában, illetve társasági adóbevallásában fizetendő adóelőlegként, adóként megjelölt összeget nem fizette meg határidőben, az adózónak az átutalás megtagadásáról szóló határozat átvételét követő 15 napon belül előterjesztett külön kérelmére az állami adó- és vámhatóság az átutalást akkor is teljesíti, ha
+(13a) Ha az állami adó- és vámhatóság az átutalást kizárólag azért tagadta meg, mert az adózó a társasági adóbevallásában fizetendő adóként megjelölt összeget nem fizette meg határidőben, az adózónak az átutalás megtagadásáról szóló határozat átvételét követő 15 napon belül előterjesztett külön kérelmére az állami adó- és vámhatóság az átutalást akkor is teljesíti, ha
 
 a) a késedelem nem haladja meg az esedékességtől számított 15 naptári napot, és
 
-b) az adóelőleg, adó összegének megfizetése maradéktalanul megtörtént.
+b) az adó összegének megfizetése maradéktalanul megtörtént.
 
 (13b) A (13a) bekezdés szerinti kérelem előterjesztésére előírt határidő elmulasztása esetén igazolási kérelemnek nincs helye.
 
