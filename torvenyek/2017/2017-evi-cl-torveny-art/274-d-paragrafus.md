@@ -1,0 +1,3 @@
+### 274/D. § [Átmeneti rendelkezés az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel megállapított rendelkezésekhez]
+
+E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel (a továbbiakban: Módtv.3) megállapított 78. § (6a) bekezdését a 2018. január 1-jén vagy azt követően kezdődő adóévekben szerzett jövedelmet vagy vagyont terhelő adókötelezettségek megállapításához kapcsolódó iratok tekintetében kell alkalmazni.

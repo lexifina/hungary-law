@@ -40,7 +40,7 @@
 
 ## 2.2. a természetes személyek jövedelemadójáról az adóév utolsó napján vállalkozási tevékenységet nem folytató természetes személynek, a vállalkozási tevékenységet folytató természetes személynek, a mezőgazdasági őstermelőnek és az általános forgalmi adó fizetésére kötelezett természetes személynek – ideértve a vállalkozási tevékenységét az adóév utolsó napján szüneteltető természetes személyt is – az adóévet követő év május huszadikáig,
 
-## 2.3. a társasági adóelőleg kiegészítés összegéről az adóév utolsó hónapja huszadik napjáig,
+## 2.3.
 
 ## 2.4. a társasági adóról az adóévet követő ötödik hónap utolsó napjáig
 
@@ -221,49 +221,3 @@
 ## 3. A társasági adó
 
 ## 3.1. A társasági adó előlege
-
-## 3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg. Az adóév utolsó havi, negyedévi előlegét a Tao tv. szerinti előleg-kiegészítésre kötelezettek a 3.1.2. pontban előírt előleg-kiegészítéssel egyidejűleg teljesítik.
-
-## 3.1.2. Az adózónak a 2. melléklet B pont 2.3. alpontja szerint bevallott társasági adóelőleg-kiegészítést a tárgyév utolsó hónapjának huszadik napjáig kell megfizetnie.
-
-## 3.2. A társasági adó
-
-## 3.2.1. Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóévet követő év ötödik hónap utolsó napjáig fizeti meg, illetve ettől az időponttól igényelheti vissza.
-
-## 3.2.2. Az év közben átalakuló, illetve szétválás, egyesülés, beolvadás miatt vagy egyéb okból felszámolás nélkül megszűnő jogi személynek vagy egyéb szervezetnek az adóévben megfizetett adóelőleg és az átalakulás, illetve megszűnés időpontjáig számított tényleges társasági adó különbözetét az átalakulásról, illetve a megszűnésről benyújtott adóbevallásával egyidejűleg kell megfizetnie, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 3.2.3. A Számv. tv.-ben meghatározottak szerint a mérlegben megadott adatoknál forintról devizára, devizáról más devizanemre, illetve devizáról forintra áttérő vállalkozó az adóévben megfizetett adóelőleg és az áttérés napjáig számított tényleges társasági adó különbözetét az áttérésről benyújtott adóbevallással egyidejűleg fizeti meg, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 4. Járulékok
-
-## 4.1. Természetbeni egészségbiztosítási járulék, pénzbeli egészségbiztosítási járulék, munkaerőpiaci járulék, valamint nyugdíjjárulék
-
-## 4.1.1. A munkáltató az általa levont járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
-
-## 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
-
-## 4.1.3. a Tbj. 4. § b) pontja szerinti egyéni vállalkozó a járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
-
-## fizeti meg.
-
-## 4.2. Egészségügyi szolgáltatási járulék és nyugdíjjárulék
-
-## 4.2.1. A társas vállalkozás a járulékokat havonta az elszámolt hónapot követő hó tizenkettedik napjáig,
-
-## 4.2.2 a kiegészítő tevékenységet folytató egyéni vállalkozó a járulékokat negyedévente a negyedévet követő hó tizenkettedik napjáig
-
-## fizeti meg.
-
-## 4.3. A Tbj. 39. §-a alapján fizetendő egészségügyi szolgáltatási járulék
-
-## A természetes személy a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségét első ízben a bejelentést követő hónap tizenkettedik napjáig, ezt követően havonta, a tárgyhót követő hónap tizenkettedik napjáig teljesíti.
-
-## 5. Játékadó
-
-## 5.1. Az adózó – az 5.2. alpontban foglalt kivétellel – a játékadót a tárgyhót követő hó huszadik napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó huszadik napjáig vallja be és fizeti meg.
-
-## 5.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
-
-## 6. Rehabilitációs hozzájárulás
-
-## 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.

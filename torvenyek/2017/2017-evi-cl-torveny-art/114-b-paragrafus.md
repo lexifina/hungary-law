@@ -6,6 +6,6 @@
 
 (3) A csoportos társasági adóalanyhoz történő csatlakozást engedélyező határozat ellen fellebbezésnek helye nincs.
 
-(4) A csoportos társasági adóalany tagja kiléphet a csoportos társasági adóalanyból. A csoportos társasági adóalanyból történő kilépést a kilépő csoporttag és a csoportképviselő által benyújtott közös kérelem alapján az állami adó- és vámhatóság engedélyezi. A csoporttagság az állami adó- és vámhatóság engedélyével, azon adóév utolsó napján szűnik meg, amelyben a kilépési kérelmet benyújtották.
+(4) A csoportos társasági adóalany tagja kiléphet a csoportos társasági adóalanyból. A csoportos társasági adóalanyból történő kilépést a kilépő csoporttag és a csoportképviselő által benyújtott közös kérelem alapján az állami adó- és vámhatóság engedélyezi.
 
 (5) A csoporttag jogutódlással történő megszűnését a megszűnésre vonatkozó bírósági döntés jogerőre emelkedését követő 15 napon belül a csoportképviselő az állami adó- és vámhatósághoz bejelenti.

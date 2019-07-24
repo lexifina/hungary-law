@@ -102,7 +102,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 33. a tagi munkavégzés esetén a szociális szövetkezet által a tagja után fizetendő nyugdíjjárulék alapját és összegét, valamint az egészségügyi szolgáltatási járulékot,
 
-34. a szociális hozzájárulási adó alapját és összegét,
+34. a szociális hozzájárulási adó alapját és összegét, ide nem értve a mezőgazdasági őstermelőt negyedévente terhelő szociális hozzájárulási adóelőleg alapját és összegét,
 
 35. szociális hozzájárulási adóból igénybe vett kedvezmény – a 24. pontban meghatározott kedvezmények kivételével – esetén a személy után a kedvezmény figyelembevétele nélkül számított szociális hozzájárulási adó alapját és összegét, továbbá a jogszabály szerint meghatározott szociális hozzájárulási adóból igénybevett kedvezmény jogcímét, alapját és összegét,
 
