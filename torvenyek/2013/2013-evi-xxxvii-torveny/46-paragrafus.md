@@ -11,3 +11,5 @@
 (5) A 4. § (1) bekezdés 7–9. pontja és (8) bekezdése, az V/D. Fejezet, a 45/F. §, valamint a 3. melléklet a 2011/16/EU irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2016. május 25-i 2016/881/EU tanácsi irányelvnek való megfelelést szolgálja.
 
 (6) A 3/A. §, valamint a 45/G. § az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek a pénzmosás elleni küzdelmet szolgáló információkhoz való adóhatósági hozzáférés tekintetében történő módosításáról szóló, 2016. december 6-i 2016/2258/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+(7) A 4. § (4a) és (4b) bekezdése és a III/A. Fejezet az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.

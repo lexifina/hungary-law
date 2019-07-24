@@ -1,0 +1,3 @@
+42/D. § (1) A belföldi érintett személy panaszát visszavonhatja a magyar illetékes hatóságnak küldött írásbeli értesítéssel. A panasz visszavonása azonnali hatállyal megszünteti a kölcsönös egyeztető eljárás alapján folytatott valamennyi eljárást. A magyar illetékes hatóság a panasz visszavonása alapján az eljárást végzéssel megszünteti, amelyről a végzés meghozatalát követően soron kívül tájékoztatja a többi érintett állam illetékes hatóságait.
+
+(2) A magyar illetékes hatóság részére a többi érintett állam illetékes hatósága által küldött, érintett személy panaszának visszavonásáról szóló értesítés a kölcsönös egyeztető eljárás alapján folytatott valamennyi eljárást azonnali hatállyal megszünteti.
