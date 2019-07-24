@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-42-00-00
 | 2013-04-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-42-00-00.1 |
 | 2013-04-21 | 2010. évi CXXX. törvény | 2013-42-00-00.2 |
 | 2017-06-28 | 2017. évi CI. törvény | 2013-42-00-00.3 |
+| 2019-07-24 | 2019. évi LXXII. törvény | 2013-42-00-00.4 |
