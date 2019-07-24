@@ -1,3 +1,1 @@
-60. § Az Itv. „Hatálybaléptető és átmeneti rendelkezések” című alcíme a következő 99/T. §-sal egészül ki:
-
-„99/T. § Az a vagyonszerző, amely a 102. § (1) bekezdés 2019. december 31-én hatályos v) pontja értelmében alapítványnak minősül, 2022. december 31-ig jogosult az 5. § (1) bekezdés f) pontja szerinti feltételes személyes illetékmentesség igénybevételére, ha vállalja, hogy 2023. január 15-ig igazolja, hogy a Civil törvény szerinti közhasznú jogállást szerzett. Ha a vagyonszerző e vállalását nem teljesíti, az 5. § (1) bekezdés f) pontja szerinti feltételes személyes mentességre tekintettel meg nem fizetett illetéket az eredeti esedékességtől számított késedelmi pótlékkal megnövelt összegben köteles az állami adóhatóság felhívására megfizetni. A vagyonszerző megszűnése esetén e fizetési kötelezettség az alapítót vagy annak jogutódját terheli.”
+60. §

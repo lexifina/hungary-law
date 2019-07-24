@@ -21,11 +21,3 @@
 (10) E törvény 64. §, 68. §, 70. §, 71. §, 81. §, 83. §, 86. § és 90. §-a az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.
 
 (11) E törvény 82. §, 85. §, 87. §, 91. §, 92. §-a, valamint 3. melléklete az adózás területén való közigazgatási együttműködésről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek az adatszolgáltatási kötelezettség alá tartozó, határokon átnyúló konstrukciókkal kapcsolatosan az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2018. május 25-i 2018/822/EU tanácsi irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
