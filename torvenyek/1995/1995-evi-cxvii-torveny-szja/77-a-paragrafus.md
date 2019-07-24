@@ -32,7 +32,9 @@ h) az értékpapírt visszterhes jogügylet keretében más magánszemélytől s
 
 i) az értékpapírt a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevőjeként szerezte; az MRP szervezet résztvevőnként, az adóévet követő év január 31-ig adatot szolgáltat az állami adó- és vámhatóság részére a résztvevőnek a tagi részesedése bevonása következtében, arra tekintettel átadott összes részvénynek az átadásuk napjára megállapított együttes szokásos piaci értékéről, valamint – ha az MRP alapjául szolgáló javadalmazási politika az átadott részvény ellenértékének megfizetéséről rendelkezett – a részvények ellenértékének a résztvevő által már megfizetett összegéről;
 
-j) az értékpapírt a társaság által ki nem fizetett és a tagok törzsbetétjére az osztalékfizetés szabályai szerint elszámolt nyereségnek a még be nem fizetett pénzbeli vagyoni hozzájárulás (a jegyzett, de még be nem fizetett tőke feltöltése) teljesítéseként szerezte meg.
+j) az értékpapírt a társaság által ki nem fizetett és a tagok törzsbetétjére az osztalékfizetés szabályai szerint elszámolt nyereségnek a még be nem fizetett pénzbeli vagyoni hozzájárulás (a jegyzett, de még be nem fizetett tőke feltöltése) teljesítéseként szerezte meg;
+
+k) a szövetkezeti formában működő szövetkezeti hitelintézet tagjaként a tulajdonában álló részjegynek – a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény rendelkezései alapján Holding Szövetkezetnek minősülő – szövetkezet részére történő átruházása ellenében részjegyet szerez a szövetkezetben.
 
 (3) A (2) bekezdés alkalmazásában társas vállalkozás az a külföldi székhelyű jogi személy és egyéb szervezet is, amely a székhelye szerinti államban (kivéve az alacsony adókulcsú államot) a társasági adónak megfelelő adó alanya.
 

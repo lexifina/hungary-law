@@ -34,7 +34,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 2.1. a lakáscélú támogatás, ha az
 
-2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá a lakásépítési támogatásról szóló kormányrendelet és az otthonteremtési kamattámogatásról szóló kormányrendelet szerinti támogatás,
+2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet és az otthonteremtési kamattámogatásról szóló kormányrendelet szerinti támogatás,
 
 2.1.2. a lakáscélra nyújtott hitel törvény vagy törvény felhatalmazása alapján kiadott más jogszabály alapján elengedett része,
 
@@ -474,6 +474,18 @@ b)
 
 7.42. a babaváró támogatásról szóló kormányrendelet szerinti kamattámogatás és gyermekvállalási támogatás.
 
+7.43. a 2020-ban megrendezésre kerülő labdarúgó Európa-bajnoksággal összefüggésben az Európai Labdarúgó-szövetséggel (UEFA), az UEFA tulajdonában álló gazdasági társasággal, a rendező vagy részt vevő nemzeti sportszövetséggel munkaviszonyban vagy egyéb munkaviszony jellegű szerződéses jogviszonyban álló magánszemély (különösen: UEFA-tisztségviselők, versenybírók, sportolók, önkéntesek, sportszervezetek képviselői) részére adott juttatás (különösen: napidíj, bónusz, felmerült költségek megtérítése, pénzdíjak, átadott formaruhák, természetben biztosított ellátás, valamint a versenyekhez kapcsolódóan adott promóciós jellegű juttatások);
+
+7.44. a sportról szóló törvény szerint Magyarországon nyilvántartásba vett nemzetközi sportszövetség által
+
+a) a sportdiplomáciai kapcsolatok keretében biztosított szállás, utazás, vendéglátás és termék vagy szolgáltatás formájában adott ajándék,
+
+b) foglalkoztatott személy külföldi kiküldetésére tekintettel fizetett napidíj, és
+
+c) a nemzetközi sportszövetséggel foglalkoztatásra irányuló jogviszonyban nem álló sportolónak, edzőnek a sporttal kapcsolatos tevékenységével összefüggésben adott támogatás, ösztöndíj;
+
+7.45. a Kormány határozatával kiemelt nemzetközi sportrendezvénynek minősített esemény megrendezésével összefüggésben a kiemelt nemzetközi sportrendezvénynek a Kormány határozatában megjelölt szervezője vagy szervezői által a sportolóknak, a versenybíróknak, a magyar és külföldi sportszövetségek tisztségviselőinek és képviselőinek, a szervezőbizottsági tisztségviselőknek és az önkénteseknek adott napidíj, költségtérítés, formaruha, természetben biztosított ellátás, a sportolóknak fizetett pénzdíj, továbbá a versenyekhez kapcsolódó promóciós jellegű juttatások a Kormány határozatában meghatározott mértékig.
+
 8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állam, a helyi önkormányzat vagy az egyházi jogi személy forrásából nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;
@@ -646,17 +658,17 @@ c) összege, ha a magánszemély a termőföldet regisztrációs számmal rendel
 
 azzal, hogy az a)-c) pont alkalmazásában az 5 vagy 10 éves időszak kezdőnapja a birtokbaadás napja, de legkésőbb az adásvételi szerződés keltét követő 12. hónap utolsó napja, vagy ha a termőföld harmadik féllel kötött szerződés alapján haszonbérletben van, a haszonbérleti szerződés lejártát követő december 31.;
 
-d) az a)-c) pontban nem említett esetben, ha az átruházás
+d) az a)–c) pontban nem említett esetben, ha az átruházás
 
-da) magánszemély részére birtok-összevonási céllal, vagy
+da) magánszemély részére birtokösszevonási céllal, vagy
 
-db) települési önkormányzat részére külön jogszabályban meghatározott szociális földprogram céljából, vagy
+db) települési önkormányzat részére jogszabályban meghatározott szociális földprogram céljából, vagy
 
-dc) a Nemzeti Földalap javára
+dc) a Nemzeti Földalap javára, vagy
+
+dd) – osztatlan közös tulajdonban levő földterület értékesítése esetén – valamely tulajdonostárs részére
 
 történik, a db) pont esetében azzal, hogy az átruházásról szóló szerződésnek tartalmaznia kell a szociális földprogramra vonatkozó, a rászorultságra tekintettel meghatározott feltételeket is szabályozó önkormányzati rendelkezés számát.
-
-A jövedelem megállapítására értelemszerűen e törvénynek az ingatlan, vagyoni értékű jog átruházásából származó jövedelemre vonatkozó rendelkezéseit kell alkalmazni.
 
 9.5.2. A 9.5.1. pontban meghatározottakat az eladó akkor alkalmazhatja, ha legkésőbb a bevallás benyújtásakor rendelkezik a vevő közjegyző által készített vagy ügyvéd által ellenjegyzett okiratba foglalt nyilatkozatával, amely tartalmazza a vevő természetes azonosító adatait, adóazonosító jelét, valamint a vevő kötelezettségvállalását arra vonatkozóan, hogy az adómentesség feltételeinek megfelel. A vevő nyilatkozatát az eladó az adó megállapításához való jog elévüléséig köteles megőrizni. A valótlan tartalmú nyilatkozat miatt keletkező adóhiányt és jogkövetkezményeit az állami adó- és vámhatóság a vevő terhére állapítja meg.
 
