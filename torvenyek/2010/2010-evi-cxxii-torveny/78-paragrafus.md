@@ -15,3 +15,5 @@ d) a NAV kezelésében lévő létesítménybe be- és kilépő személyek, ille
 (2) Az (1) bekezdés b–c) pontjának rendelkezései nem alkalmazandók az elővezetés, az igazoltatás és az ellenőrzési eljárás zavartalanságának biztosítása, továbbá a helyszín, helyiség, jármű átvizsgálása, rakomány ellenőrzésének Air. szerinti szabályai alapján tett intézkedésekre.
 
 (3) A NAV hatáskörébe tartozó szabálysértési, rendészeti és egyéb közigazgatási eljárással összefüggő személyes adatok kezelésére a külön törvények rendelkezései az irányadók.
+
+(4) A NAV a dohánytermékek nyomonkövethetőségi rendszerének létrehozására és működtetésére vonatkozó műszaki előírásokról szóló 2017. december 15-i 2018/574 bizottsági végrehajtási rendelet 25. cikk k) pontja szerinti nemzeti rendszergazda feladatkörében ellátja a dohánytermékek nyomonkövethetőségi rendszerével kapcsolatos személyes és egyéb adatokra vonatkozó adatkezelői és adatfeldolgozói feladatokat.
