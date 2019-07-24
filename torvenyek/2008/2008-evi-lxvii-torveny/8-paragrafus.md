@@ -20,8 +20,8 @@ a) havonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő 
 
 b) háromhavonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó legfeljebb 5 millió forint.
 
-(7) Az adóalanynak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie (a továbbiakban: előleg-kiegészítés). Ez a kötelezettség nem vonatkozik arra az adóalanyra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg az 50 millió forintot.
+(7)
 
-(7a) Az előleg-kiegészítésre kötelezett adóalany a várható fizetendő adó és az adóévre már bevallott előlegek különbözetéről az adóév utolsó hónapjának 20. napjáig bevallást nyújt be és ezzel egyidejűleg tesz eleget az előleg-kiegészítés fizetési kötelezettségének.
+(7a)
 
-(8) Nem kell a (2)–(7a) bekezdés rendelkezéseit alkalmaznia az adóalanynak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
+(8) Nem kell a (2)–(6) bekezdés rendelkezéseit alkalmaznia az adóalanynak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.

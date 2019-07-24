@@ -1,8 +1,8 @@
 ## Átmeneti rendelkezések
 
-18. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 8. § (1)–(6), (8) bekezdését – e törvény eltérő rendelkezése hiányában – első ízben a 2014. adóévi adókötelezettségre kell alkalmazni.
+18. §
 
-(2) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 8. § (7a) bekezdését a 2014. adóévi előleg-kiegészítési kötelezettségre az adózó választása szerint alkalmazza.
+(2)
 
 (3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 6. § (3) bekezdés i) pontját az adózó a 2014. adóévi adókötelezettségének megállapítása során is alkalmazhatja.
 
@@ -19,3 +19,5 @@
 (9) Az adózás előtti eredményt csökkenti az e törvény szerinti adóalanyiságot megelőző adóévekben elszámolt terven felüli értékcsökkenés visszaírása miatt az adóévben bevételként elszámolt összeg. E rendelkezést az adózó első alkalommal a 2018-ban kezdődő adóév adókötelezettségének megállapítása során jogosult alkalmazni.
 
 (10) E törvénynek az energetikai tárgyú törvények, valamint egyes klímapolitikai és adózási tárgyú törvények módosításáról szóló 2018. évi XCIX. törvénnyel megállapított 6. § (2) bekezdés b) pontját az egyetemes szolgáltatást igénybe vevő lakossági földgázfogyasztók részére biztosított téli rezsicsökkentésről szóló kormányrendelet alapján véglegesen átadott pénzeszközre vonatkozóan első alkalommal a 2018. évi adókötelezettség megállapításakor kell alkalmazni.
+
+(11) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (8) bekezdése, 18. §-a, hatályon kívül helyezett 8. § (7) és (7a) bekezdése, 18. § (2) bekezdése alapján adóelőleg-kiegészítési kötelezettség a 2019-ben kezdődő adóévtől kezdődően az adózót nem terheli, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (8) bekezdése, 18. §-a hatálybalépésének, továbbá 8. § (7) és (7a) bekezdése, 18. § (2) bekezdése hatályon kívül helyezésének napja.
