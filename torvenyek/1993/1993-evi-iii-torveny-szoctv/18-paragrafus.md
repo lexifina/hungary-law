@@ -32,7 +32,9 @@ f) a szociális ellátás megállapítása során figyelembe vett, egy főre vag
 
 g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozói jogcímen történő tartózkodás esetén a rokoni kapcsolatot;
 
-h)–i)
+h)
+
+i)
 
 j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító végleges döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
 

@@ -4,7 +4,11 @@ a) gondoskodik az intézmény szervezeti és működési szabályzatának, szakm
 
 b) biztosítja az intézmény gazdálkodásának és működésének törvényességét.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) Ha a tartós bentlakást nyújtó egyházi fenntartású vagy nem állami fenntartású intézmény ellenőrzése során megállapításra kerül, hogy az intézmény fenntartója nem tesz eleget az intézmény működésére vonatkozó jogszabályi követelményeknek, a működést engedélyező szerv intézkedik a központi költségvetésről szóló törvényben biztosított támogatás visszatartása iránt. A visszatartás mértéke, ha az egyházi fenntartó és a nem állami fenntartó
 

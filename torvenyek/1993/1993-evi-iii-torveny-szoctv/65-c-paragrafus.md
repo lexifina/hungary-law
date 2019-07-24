@@ -26,4 +26,6 @@ h) a fogyatékos személy munkavégzését, munkavállalását segítő szolgál
 
 (5) A (4) bekezdés alkalmazásában súlyosan fogyatékos a külön jogszabály szerinti fogyatékossági támogatásban, vakok személyi járadékában, illetve magasabb összegű családi pótlékban részesülő – ezt jogszabályban meghatározottak szerint igazoló – személy.
 
-(6)–(7)
+(6)
+
+(7)

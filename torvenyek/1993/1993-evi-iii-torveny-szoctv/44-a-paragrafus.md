@@ -2,9 +2,9 @@
 
 44/A. § (1) Tartós ápolást végzők időskori támogatására jogosult az a személy, akinek az öregségi nyugdíjra való jogosultságát megállapították, ha
 
-a) azon napot megelőzően, amelytől kezdődően az öregségi nyugdíját megállapítják – ide nem értve az öregségi nyugdíj folyósítás nélküli megállapítását –, összeszámítva legalább 20 éven át saját háztartásában ápolta, gondozta gyermekét, és
+a) azon napot megelőzően, amelytől kezdődően az öregségi nyugdíját megállapítják – ide nem értve az öregségi nyugdíj folyósítás nélküli megállapítását –, összeszámítva legalább 20 éven át saját háztartásában ápolta, gondozta gyermekét,
 
-b) az a) pontban foglaltakra figyelemmel az érintett időszakban ugyanazon gyermekre tekintettel
+b) az a) pontban foglaltakra figyelemmel az érintett időszakban
 
 ba) az e törvény alapján megállapított gyermekek otthongondozási díjában vagy ápolási díjban részesült és az ápolási díj esetében azt részére a vizsgált időszakon belül legalább egy év időtartamban emelt összegű ápolási díjként vagy kiemelt ápolási díjként folyósították, illetve
 

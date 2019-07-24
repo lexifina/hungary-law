@@ -2,4 +2,8 @@
 
 (2) A szakosított ellátási formákat igénybe vevő személyek ellátásáról, az állapotuk változásáról, valamint a részükre biztosított gondozási, terápiás, valamint ápolási, illetve egyéb szolgáltatások tartalmáról – a külön jogszabályban meghatározott tartalommal – gondozási tervet kell készíteni.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)

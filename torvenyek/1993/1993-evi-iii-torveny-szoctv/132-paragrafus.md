@@ -96,10 +96,14 @@ b)
 
 a)
 
-b)–c)
+b)
+
+c)
 
 d) az étkeztetés jogosultsági feltételeinek részletes szabályait,
 
-e)–f)
+e)
+
+f)
 
 g) a települési támogatás keretében nyújtott ellátások jogosultsági feltételeit, valamint az ellátások megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályait.
