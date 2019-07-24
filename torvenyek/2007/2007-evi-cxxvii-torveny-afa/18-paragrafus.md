@@ -24,7 +24,7 @@ a) az apportálót,
 
 b) a jogelődöt a jogutódlással történő megszűnés azon esetében, amelyben a jogelőd nem szűnik meg,
 
-c) azt a volt egyéni vállalkozót, akinek (amelynek) egyéni vállalkozói tevékenység folytatására vonatkozó jogosultsága egyéni cég alapítására tekintettel megszűnt,
+c) azt a volt egyéni vállalkozót, akinek egyéni vállalkozói tevékenység folytatására vonatkozó jogosultsága egyéni cég vagy korlátolt felelősségű társaság alapítására tekintettel megszűnt,
 
 d) az egyéni cég tagját az egyéni cég gazdasági társasággá történő átalakulása esetén,
 

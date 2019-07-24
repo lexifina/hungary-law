@@ -2,7 +2,7 @@
 
 a) amely az 54. § alkalmazása alá tartozik;
 
-b) amely kiviteli eljárás hatálya alá vonva elhagyja a Közösség területét, és a Közösség területéről való kiléptetés tényét a kiléptető hatóság igazolja;
+b) amely kiviteli eljárás hatálya alá vonva elhagyja a Közösség területét, és a Közösség területéről való kiléptetés tényét a 98. § (2) bekezdés a) pontja szerinti hatóság igazolja;
 
 c) amelyen a 101. § (1) bekezdése szerint adómentesen végeznek munkát.
 

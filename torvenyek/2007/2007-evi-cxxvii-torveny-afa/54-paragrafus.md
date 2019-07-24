@@ -8,7 +8,7 @@ b) a 111. § (1) bekezdésének c) pontjában említett eljárások hatálya ala
 
 c) teljes vámmentességgel járó ideiglenes behozatali eljárás hatálya alatt áll, vagy
 
-d) külső közösségi árutovábbítási eljárás hatálya alatt áll,
+d) külső árutovábbítási eljárás hatálya alatt áll,
 
 a termék importjának teljesítési helye a Közösség azon tagállama, ahol a termék a) pontban említett vámjogi helyzete megszűnik, a b)–d) pontokban említett esetekben pedig, ahol a termék az ott meghatározott eljárások hatálya alól kikerül.
 

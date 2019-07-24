@@ -50,7 +50,7 @@ gm) a Tanács (EU) 2017/2455 irányelve (2017. december 5.) a 2006/112/EK irány
 
 gn) a Tanács (EU) 2018/912 irányelve (2018. június 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a minimális általános adómérték tiszteletben tartására vonatkozó kötelezettség tekintetében történő módosításáról;
 
-go) a Tanács (EU) irányelve a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózás, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszaka tekintetében történő módosításáról;
+go) a Tanács (EU) 2018/1695 irányelve (2018. november 6.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózás, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszaka tekintetében történő módosításáról;
 
 h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
 

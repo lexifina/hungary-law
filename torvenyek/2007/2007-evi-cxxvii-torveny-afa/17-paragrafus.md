@@ -10,7 +10,7 @@ b)
 
 c) szövetkezet gazdasági társasággá való átalakulása vagy jogutód nélküli megszűnése esetében a közösségi alap Ptk. szerinti átadását az alapszabály rendelkezése szerinti szervezet részére;
 
-d) az egyéni vállalkozóról és az egyéni cégről szóló törvény (a továbbiakban: Evtv.) szerinti egyéni vállalkozói tevékenység folytatására való jogosultság – egyéni cég alapítására tekintettel történő – megszűnését, valamint egyéni cégnek az Evtv. szerinti átalakulását;
+d) az egyéni vállalkozóról és az egyéni cégről szóló törvény (a továbbiakban: Evectv.) szerinti egyéni vállalkozói tevékenység folytatására való jogosultság – egyéni cég vagy korlátolt felelősségű társaság alapítására tekintettel történő – megszűnését, valamint egyéni cégnek az Evectv. szerinti átalakulását a jogutódlással érintett vagyonelemek tekintetében;
 
 e) egyéni vállalkozó, mezőgazdasági termelő halálát, vagy cselekvőképességének elvesztését, feltéve, hogy az egyéni vállalkozói, őstermelői tevékenységet
 
@@ -24,7 +24,9 @@ g) a mezőgazdasági tevékenységét megszüntető természetes személy adóal
 
 h) költségvetési szerv államháztartásról szóló törvény szerinti átalakítását, vagy irányító (felügyeleti) szervének megváltozását.
 
-i) a köztestületek jogszabályon alapuló átalakulását, ha az tartalmában jogutódlásnak tekintendő.
+i) a köztestületek jogszabályon alapuló átalakulását, ha az tartalmában jogutódlásnak tekintendő;
+
+j) egyházi jogi személynek a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti átalakulását, jogutódlással történő megszűnését vagy fenntartójának megváltozását.
 
 (4) Szintén nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás az adóalany általi üzletág-átruházás esetében, feltéve, hogy az a 18. § (1)–(2) bekezdésében meghatározott feltételek szerint történik, és a szerző az üzletágat a további működtetés céljából szerzi meg.
 

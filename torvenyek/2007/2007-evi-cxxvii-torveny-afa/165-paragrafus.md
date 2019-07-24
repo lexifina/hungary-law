@@ -4,7 +4,7 @@
 
 a) termék értékesítése, szolgáltatás nyújtása a 85. § (1) bekezdése és 86. § (1) bekezdése szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a számvitelről szóló törvény (a továbbiakban: Számv. tv.) rendelkezései szerint számviteli bizonylatnak minősül;
 
-b) a termék beszerzője, szolgáltatás igénybevevője az ellenérték adót is tartalmazó összegét legkésőbb a 163. § (1) bekezdésének a) pontjában, illetőleg a 164. § (1) bekezdésének a) pontjában említett időpontig készpénzzel, készpénz-helyettesítő fizetési eszközzel vagy pénzhelyettesítő eszközzel maradéktalanul megtéríti, és számla kibocsátását az adóalanytól nem kéri;
+b) a termék beszerzője, szolgáltatás igénybevevője az ellenérték adót is tartalmazó összegét legkésőbb a 163. § (1) bekezdésének a) pontjában, illetve a 164. § (1) bekezdésének a) pontjában említett időpontig készpénzzel, készpénz-helyettesítő fizetési eszközzel, pénzhelyettesítő eszközzel vagy többcélú utalvánnyal maradéktalanul megtéríti, és számla kibocsátását az adóalanytól nem kéri;
 
 c) a légi személyszállítás nyújtása a 105. § szerint mentes az adó alól, feltéve, hogy gondoskodik olyan, az ügylet teljesítését tanúsító okirat kibocsátásáról, amely a Számv. tv. rendelkezései szerint számviteli bizonylatnak minősül.
 

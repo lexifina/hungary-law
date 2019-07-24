@@ -6,7 +6,7 @@ b) a (3) bekezdésben meghatározott további feltételek szerint a szolgáltat�
 
 (2) Az (1) bekezdés alkalmazásának feltétele, hogy
 
-a) a termék Közösség területéről való elhagyásának tényét, amelynek a szolgáltatásnyújtás teljesítésekor, de legfeljebb a teljesítés napját követő 90 napon belül kell megtörténnie, a terméket a Közösség területéről kiléptető hatóság igazolja, valamint
+a) a termék Közösség területéről való elhagyásának tényét, amelynek a szolgáltatásnyújtás teljesítésekor, de legfeljebb a teljesítés napját követő 90 napon belül kell megtörténnie, a 98. § (2) bekezdés a) pontja szerinti hatóság igazolja, valamint
 
 b) az a) pontban említett határidőn belül a terméket rendeltetésszerűen ne használják, egyéb módon ne hasznosítsák, ide nem értve a kipróbálást és a próbagyártást.
 
