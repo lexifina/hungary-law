@@ -20,6 +20,10 @@ b) közös megegyezéssel, valamint
 
 c) az (1) bekezdés b) pontja szerinti esetben rendkívüli felmondással.
 
+(6a) Ha a közszolgáltatási szerződés a (6) bekezdés a) vagy c) pontja szerint szűnt meg, a szerződő felek a közszolgáltatási szerződéssel kapcsolatban egymással elszámolnak. Az elszámolás során a közszolgáltató a közszolgáltatási szerződés megszűnése miatt a szerződés megszűnésének időpontjában felmerült és meg nem térült, a Polgári Törvénykönyvről szóló 2013. évi V. törvény alapján nem érvényesíthető, igazolt és a szerződéssel közvetlenül összefüggő tényleges kára megtérítését igényelheti a helyi önkormányzattól. Az elmaradt vagyoni előny nem követelhető.
+
+(6b) Ha az elszámolás során vita marad fenn, a szerződő felek ki nem elégített követeléseiket bírósági eljárásban érvényesíthetik.
+
 (7) Az (1) bekezdés a) pontja szerinti esetben a közszolgáltatási szerződést a felek e törvény hatálybalépésétől számított harminc napon belül módosítják annak érdekében, hogy a közszolgáltatási szerződés 2016. július 1-től megfeleljen az e törvényben meghatározott, a közfeladat ellátására vonatkozó szabályoknak. Nem kell a közszolgáltatási szerződést módosítani, ha a felek közös megegyezése alapján úgy szűnik meg a közszolgáltatási szerződés, hogy annak alapján 2016. július 1-jét követően a közszolgáltató nem nyújt közszolgáltatást.
 
 (8) Az (1) bekezdés a) pontja szerinti esetben a közszolgáltatási szerződés hatályának időtartama alatt a kéményseprő-ipari tevékenységet a közszolgáltató látja el.

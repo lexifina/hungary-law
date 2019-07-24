@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-211-00-00
 | 2017-07-12 | 2017. évi CXVII. törvény | 2015-211-00-00.5 |
 | 2018-01-01 | 2017. évi L. törvény | 2015-211-00-00.6 |
 | 2018-12-21 | 2018. évi CXXI. törvény | 2015-211-00-00.7 |
+| 2019-07-24 | 2019. évi LXVI. törvény | 2015-211-00-00.8 |
