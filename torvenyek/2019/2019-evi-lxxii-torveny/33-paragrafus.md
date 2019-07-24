@@ -1,0 +1,3 @@
+33. § Az Áfa tv. 183. §-a helyébe a következő rendelkezés lép:
+
+„183. § Abban az esetben, ha a Közösség valamely más tagállamában nyilvántartásba vett adóalany belföldön vevői készletet tart fenn, a 12/A. § (2) bekezdés c) pontjában és a 12/A. § (6) bekezdésében foglaltaknak belföldön megfelelő adóalany köteles a vevői készletből a részére értékesíteni szándékozott termékekről folyamatos mennyiségi nyilvántartást vezetni a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelv végrehajtási intézkedéseinek megállapításáról szóló, 2011. március 15-i (EU) 282/2011 tanácsi végrehajtási rendelet által meghatározottak szerint.”

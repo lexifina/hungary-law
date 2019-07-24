@@ -1,0 +1,5 @@
+89. § Az Aktv. a következő 45/L. §-sal egészül ki:
+
+„45/L. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel megállapított 4. § (4c) bekezdését, valamint IV/A. Fejezetét a 2019. július 1-től kezdődően benyújtott panaszok tekintetében kell alkalmazni.
+
+(2) A 2018. január 1-jét megelőzően kezdődő adómegállapítási időszakot érintő, a kölcsönös egyeztető eljárás megindítására irányuló kérelem vagy panasz esetén – ha a nemzetközi szerződés másként nem rendelkezik – a kölcsönös egyeztető eljárás lefolytatásának feltétele, hogy a kérelem, a panasz vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a kérelmezőtől, az érintett személytől vagy a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy az adó-visszatérítés iránti jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen.”

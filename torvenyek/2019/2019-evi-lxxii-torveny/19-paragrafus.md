@@ -1,0 +1,3 @@
+19. § Az Áfa tv. 89. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdésben meghatározott adómentesség nem alkalmazandó, ha a teljesítésre kötelezett adóalany a 4/A. számú melléklet I. pontja szerinti összesítő nyilatkozat benyújtására vonatkozó kötelezettségének nem tett eleget, vagy ezt hibásan vagy hiányosan teljesítette, kivéve, ha igazolja, hogy a mulasztás, hiba vagy hiányosság a jóhiszemű eljárása mellett következett be, és ezzel egyidejűleg az állami adó- és vámhatóság rendelkezésére bocsátja az összesítő nyilatkozat teljes körű és helyes tartalmának megállapításához szükséges adatokat.”
