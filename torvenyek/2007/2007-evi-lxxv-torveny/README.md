@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2018-07-26 | 2018. évi XLI. törvény | 2007-75-00-00.37 |
 | 2018-11-24 | 2018. évi LXXXII. törvény | 2007-75-00-00.38 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2007-75-00-00.39 |
+| 2019-07-24 | 2019. évi LXXII. törvény | 2007-75-00-00.40 |

@@ -8,4 +8,6 @@ c) amelynek engedélye – saját kérésére – megszűnt, az erről szóló h
 
 d) amelyre vonatkozóan felszámolási eljárás vagy végelszámolási eljárás van folyamatban,
 
-e) amely a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás hatálya alatt áll.
+e) amely a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás hatálya alatt áll,
+
+f) amelyet fegyelmi eljárás keretében töröltek a kamara nyilvántartásából, az erről szóló határozat véglegessé válásától számított három évig.
