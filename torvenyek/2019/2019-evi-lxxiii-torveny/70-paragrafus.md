@@ -1,0 +1,7 @@
+70. § A Szocho tv. 22. §-a helyébe a következő rendelkezés lép:
+
+„22. § (1) A 7. § (1)–(2) bekezdés szerinti mezőgazdasági őstermelő a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg alapján – figyelemmel a 7. § (5)–(6) bekezdés rendelkezésére – negyedévente adóelőleget állapít meg, amelyet a negyedévet követő hónap 12-éig fizet meg.
+
+(2) A tárgyévre vonatkozóan az állami adó- és vámhatóság közreműködése nélkül elkészített bevallásban vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban kell – a 7. § (1)–(2) bekezdésében foglaltakra figyelemmel – az előlegként megfizetett adót elszámolni, az adóbevallás benyújtásának határidejéig a különbözetet megfizetni, és a bevallás megfelelő rovatában lehet a túlfizetésként mutatkozó különbözet összegéről rendelkezni.
+
+(3) Az adóelőleg fizetésére nem kötelezett őstermelő az adót a személyi jövedelemadó bevallásában vagy az állami adó- és vámhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban a bevallásra előírt határidőig állapítja meg, vallja be, és a bevallás benyújtásának határidejéig fizeti meg.”
