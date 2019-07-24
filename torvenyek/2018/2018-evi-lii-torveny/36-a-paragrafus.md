@@ -1,0 +1,1 @@
+36/A. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5. § (1) bekezdés i) pontja, 7. §-a, 22. §-a és 27. §-a 2019. január 1-jétől alkalmazható.
