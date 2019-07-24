@@ -24,6 +24,8 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 
 8a. Egyesült Arab Emírségek
 
+8b. Egyesült Királyság
+
 9. Gabon
 
 10. Georgia
