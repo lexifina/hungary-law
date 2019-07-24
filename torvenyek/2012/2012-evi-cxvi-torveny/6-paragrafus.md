@@ -6,7 +6,7 @@ a) a b)–j) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi s
 
 b) készpénzátutalás esetén az átutalási megbízásban szereplő pénzösszeg,
 
-c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a kedvezményezett pénzforgalmi szolgáltatójának átutalt, ennek hiányában a kedvezményezett részére megfizetett összeg,
+c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a Posta Elszámoló Központot működtető intézménynél kezdeményezett befizetés 20 ezer forintot meghaladó összege,
 
 d) kölcsöntörlesztés esetén az az összeg, amellyel a pénzforgalmi szolgáltató az ügyfél fizetési számláját megterheli, illetve amelyet az ügyfél a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménynek készpénzben megfizet,
 

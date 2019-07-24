@@ -48,7 +48,7 @@ p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvény
 
 q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás,
 
-r) a természetes személyek kincstárnál vezetett, állampapír-forgalmazás érdekében igénybe vett ügyfélszámlája és más számlavezetőnél vezetett fizetési számlája között lebonyolított fizetési művelet,
+r) a természetes személyek fizetési számlája és a kincstár által állampapír-forgalmazás érdekében vezetett számla között lebonyolított fizetési művelet, illetve ugyanezen célból a Posta Elszámoló Központot működtető intézmény útján kezdeményezett, a kincstár által vezetett számlára történő készpénzbefizetés, ha természetes személy a megbízó (befizető),
 
 s) az elektronikus fizetési és elszámolási rendszer önkormányzati ASP-rendszer keretében biztosított szolgáltatásaihoz kapcsolódó elszámolási számla terhére megvalósított fizetési művelet.
 
