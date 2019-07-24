@@ -4,7 +4,7 @@
 
 (3) A járulékfizetésre kötelezett gazdasági társaság a járulék éves összegét maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapjának utolsó napjáig.
 
-(4) Az adóévben járulékfizetésre kötelezettnek háromhavonként (a továbbiakban: előlegfizetési időszak) előleget kell fizetnie az előlegfizetési időszakot követő hónap 20. napjáig. Az adóév utolsó előlegfizetési időszakára vonatkozó járulékelőleget a járulékfizetésre kötelezett a (10) bekezdés szerinti előlegkiegészítéssel egyidejűleg köteles teljesíteni. Az előlegfizetési időszakra fizetendő járulékelőleg mértéke a (6) bekezdés alapján meghatározott járulékelőleg egynegyede.
+(4) Az adóévben járulékfizetésre kötelezettnek háromhavonként (a továbbiakban: előlegfizetési időszak) előleget kell fizetnie az előlegfizetési időszakot követő hónap 20. napjáig. Az előlegfizetési időszakra fizetendő járulékelőleg mértéke a (6) bekezdés alapján meghatározott járulékelőleg egynegyede.
 
 (5) A járulékfizetésre kötelezettnek – a (8) bekezdésben foglaltak kivételével – a járulékbevallással egyidejűleg a járulékbevallás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszakra járulékelőleget kell bevallania az előlegfizetési időszakokra eső egyenlő részletek feltüntetésével.
 
@@ -20,9 +20,9 @@ b) az a) ponttól eltérő esetben az adóévet megelőző adóév fizetendő j�
 
 (9) A járulékfizetésre kötelezettnek a járulékfizetési kötelezettség keletkezésének évében a (3)–(6) bekezdés megfelelő alkalmazásával az adóévet megelőző adóév adatai alapján kell járulékelőlegét megállapítania és arról az adóév ötödik hónapjának utolsó napjáig járulékelőleg-bevallást benyújtania. A járulékfizetési kötelezettség keletkezése évének első két előlegfizetési időszakára vonatkozóan az adózó az előlegfizetéssel egyidejűleg bevallást tesz. Az előleg mértéke a járulék várható éves összegének időarányos része. Nem lehet járulékelőleget bevallani arra a negyedévre és a negyedév azon naptári hónapjára, amelyre az adózó már vallott be járulékelőleget.
 
-(10) A járulékfizetésre kötelezettnek a járulékelőleget az adóévben az adóévi várható fizetendő járulék összegére ki kell egészítenie (a továbbiakban: előleg-kiegészítés). Az előleg-kiegészítésre kötelezett a várható fizetendő járulék és az adóévre már bevallott előlegek különbözetéről az adóév utolsó hónapjának 20. napjáig bevallást nyújt be és ezzel egyidejűleg eleget tesz fizetési kötelezettségének.
+(10)
 
-(11) A befizetett előleg, előlegkiegészítés és a járulék éves összege közötti különbözetet az adóévet követő adóév ötödik hónapja utolsó napjáig kell befizetni, illetőleg a többletbefizetést ettől az időponttól lehet visszaigényelni.
+(11) A befizetett előleg és a járulék éves összege közötti különbözetet az adóévet követő adóév ötödik hónapja utolsó napjáig kell befizetni, illetőleg a többletbefizetést ettől az időponttól lehet visszaigényelni.
 
 (12) A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
