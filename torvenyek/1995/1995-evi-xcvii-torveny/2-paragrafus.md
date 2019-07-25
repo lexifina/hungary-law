@@ -30,13 +30,15 @@ m) a légiforgalmi irányító szakszemélyzet képzéséről való gondoskodás
 
 n) a légiközlekedéssel összefüggő tudományos kutatások koordinálása;
 
-o) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerében kidolgozott teljesítménytervek elfogadása és az Európai Bizottság számára történő elküldése.
+o) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerében teljesítménytervek kidolgozása;
+
+p) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerében kidolgozott teljesítménytervek elfogadása és az Európai Bizottság számára történő elküldése.
 
 (2) Az (1) bekezdésnek
 
 a) az a), a b), az e) és a g) pontjaiban említett feladatokat a Kormány;
 
-b) a d), az l), az n) és az o) pontjaiban felsorolt feladatokat a közlekedésért felelős miniszter (a továbbiakban: a miniszter);
+b) a d) és a p) pontban meghatározott feladatot a közlekedésért felelős miniszter (a továbbiakban: a miniszter);
 
 c)
 
@@ -49,6 +51,8 @@ f) az i) és az m) pontjában említett feladatot a miniszter a honvédelemért 
 g) a j) pontjában említett feladatot a miniszter, a környezetvédelemért felelős miniszter, valamint a honvédelemért felelős miniszter együttesen;
 
 h) a k) pontjában említett feladatot a honvédelemért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter és az egészségügyért felelős miniszterrel együttesen
+
+i) a c), az l), n) és az o) pontjaiban felsorolt feladatokat a légiközlekedési hatóság
 
 látja el.
 

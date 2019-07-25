@@ -46,7 +46,7 @@ y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katas
 
 z) a légiközlekedési terep és akadály adatbázis létrehozásának, működtetésének és adattartalmának szabályait, valamint az adatbázist működtető szervezet kijelölését,
 
-zs) a repülőtér akadálykorlátozási felületeinek kijelölésére és a légiközlekedési akadályok jelölésére vonatkozó szabályokat.
+zs) a repülőtér akadálykorlátozási felületeinek kijelölésére az akadálykorlátozási felület fölé nyúló építményekre és a légiközlekedési akadályok jelölésére vonatkozó részletes szabályokat.
 
 aa) a veszélyes áru szállítása bejelentésének részlet szabályait, a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok részletes szabályait,
 

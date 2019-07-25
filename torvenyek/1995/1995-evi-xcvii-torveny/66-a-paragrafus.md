@@ -38,6 +38,8 @@ folytatja le.
 
 (5) A bírság kivetésének részletes szabályait a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
 
+(5a) A 66/A. § (1) bekezdés alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
+
 (6) Nyilvános repülőtér üzemben tartója e törvényben, valamint a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló kormányrendeletben előírt tennivalók ellátásához szükséges anyagi fedezet biztosítása érdekében a repülőtér-használat díjának elemei között a zajt okozó légijárművek járatóival szemben zajvédelmi költségeit érvényesítheti.
 
 (7) Amennyiben a repülőterek környezetében kijelölt zajgátló védőövezetekben a külön jogszabály szerint szükséges zajvédelmi intézkedések végrehajtását a repülőtér üzemeltetője a légiközlekedési hatóság által évente felülvizsgált és jóváhagyott program alapján hajtja végre, a repülőtér-használati díjak között – elkülönítetten – zajvédelmi díjat köteles felszámítani. A felszámítandó zajvédelmi díj mértékét a légiközlekedési hatóság határozatban állapítja meg.

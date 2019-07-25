@@ -12,6 +12,8 @@
 
 (1e) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. A hatóság a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában. Ha a hatóság hivatalból nem tudja megállapítani, hogy az iratbetekintési kérelem benyújtásakor az iratbetekintés korlátozásának az okai fennállnak-e, az üzleti és más méltányolható magánérdek alapján védelemre jogosultat nyilatkozattételre hívja fel. Az iratbetekintés nem tagadható meg, ha a jogosult határidőben nem nyilatkozik.
 
+(1f) A légiközlekedési hatóság eljárása felfüggeszthető, ha az előkérdés más szerv hatáskörébe tartozik, vagy a légiközlekedési hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
+
 (2) Az állami célú légiközlekedéssel összefüggő hatósági feladatokat katonai légügyi hatóság látja el.
 
 (2a) A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 55 nap.
@@ -62,7 +64,7 @@ c) a légiközlekedési szakszemélyzet szakirányú képzéséhez, vizsgáztat�
 
 d) repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
 
-e) a léginavigációs szolgálatok tanúsítására irányuló, valamint hatósági eljárásokban,
+e) a léginavigációs szolgálatok tanúsítására, valamint felügyeletére irányuló, valamint hatósági eljárásokban,
 
 f) a repülés-egészségügyi központok engedélyeinek kiadására és módosítására irányuló hatósági eljárásokban,
 

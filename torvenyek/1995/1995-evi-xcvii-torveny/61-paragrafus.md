@@ -2,7 +2,7 @@
 
 ## A légiforgalmi szolgálatok
 
-61. § (1) A légiközlekedés biztonsága érdekében a magyar légtérben légiforgalmi szolgálatokat kell fenntartani.
+61. § (1) A légiközlekedés biztonsága érdekében a magyar légtérben – a magyar légtér légiközlekedés céljára történő kijelöléséről, valamint a légiforgalmi szolgálatok ellátásának szabályairól szóló jogszabály rendelkezéseinek megfelelően – légiforgalmi szolgálatokat kell fenntartani.
 
 (2) A légiforgalom irányítását a miniszter által a honvédelemért felelős miniszterrel egyetértésben kijelölt szerv végzi.
 
