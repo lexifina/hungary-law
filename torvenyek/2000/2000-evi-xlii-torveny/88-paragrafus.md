@@ -36,7 +36,13 @@ o) a hajózási bírság mértékének és kivetése szabályainak,
 
 p) a kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítése, használatbavétele, üzemben tartása és megszüntetése részletes szabályainak,
 
-q) egyes hajózási hatósági eljárások részletes szabályainak
+q) egyes hajózási hatósági eljárások részletes szabályainak,
+
+r) a vizsgaközpont kijelölésének,
+
+s) a vizsgaközpont tevékenysége tekintetében a felügyeleti szervének, a felügyeleti szerv feladat- és hatáskörének, illetékességének, továbbá működési rendjének és eljárásának,
+
+t) a vizsgaközpont felügyeleti szerve által kiszabható bírság kiszabása részletszabályainak
 
 rendeletben történő megállapítására.
 
@@ -92,7 +98,9 @@ rendeletben történő megállapítására.
 
 25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott,
 
-26. a 2. § (4) bekezdésében meghatározott szervezet és a szervezet által ellátandó, vízi közlekedéssel összefüggő kutatási, fejlesztési és koordinációs feladatok
+26. a 2. § (4) bekezdésében meghatározott szervezet és a szervezet által ellátandó, vízi közlekedéssel összefüggő kutatási, fejlesztési és koordinációs feladatok,
+
+27. a tengeri halászati ágazat munkafeltételeinek
 
 rendeletben történő megállapítására.
 

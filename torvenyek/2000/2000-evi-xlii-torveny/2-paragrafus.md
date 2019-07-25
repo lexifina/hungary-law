@@ -69,3 +69,5 @@ látja el.
 (3) A Kormány a rendeletében meghatározott összetétellel, feladat- és hatáskörrel Víziközlekedési Védelmi Bizottságot hoz létre.
 
 (4) A miniszter látja el – az általa kijelölt szervezet útján – a vízi közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
+
+(5) A hajózási képesítések megszerzéséhez szükséges vizsgáztatást a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló vagy az általa alapított nonprofit szervezet (a továbbiakban: vizsgaközpont) végzi.
