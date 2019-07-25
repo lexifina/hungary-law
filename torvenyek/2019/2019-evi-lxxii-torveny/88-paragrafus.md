@@ -1,3 +1,1 @@
-88. § Az Aktv. a következő 45/K. §-sal egészül ki:
-
-„45/K. § A 2018. január 1-jét megelőzően kezdődő adómegállapítási időszakot érintő, a Választottbírósági Egyezmény alapján lefolytatandó kölcsönös egyeztető eljárás megindítására irányuló kérelem esetén a kölcsönös egyeztető eljárás lefolytatásának feltétele, hogy a kérelem vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a kérelmezőtől vagy a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy az adó-visszatérítés iránti jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen.”
+88. §

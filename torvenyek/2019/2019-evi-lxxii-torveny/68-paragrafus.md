@@ -1,13 +1,1 @@
-68. § Az Art. 205. §-a helyébe a következő rendelkezés lép:
-
-„205. § [Elévülés nemzetközi vitarendezési eljárásnál]
-
-(1) Európai uniós vitarendezési eljárás, adóegyezmények szerinti vitarendezési eljárás és választottbírósági egyezmény szerinti vitarendezési eljárás (a továbbiakban együtt: nemzetközi vitarendezési eljárás) iránti kérelem az adómegállapításhoz való jog vagy a költségvetési támogatás igényléséhez, illetve a túlfizetés visszaigényléséhez való jog elévülési idején túl is benyújtható.
-
-(2) Az (1) bekezdésétől eltérően a 2018. január 1-jét megelőzően kezdődő adómegállapítási időszakot érintő, az adóegyezmények szerinti vitarendezési eljárás vagy a választottbírósági egyezmény szerinti vitarendezési eljárás megindítására irányuló kérelem vagy panasz esetén – ha nemzetközi szerződés másként nem rendelkezik – az eljárás lefolytatásának feltétele, hogy a kérelem, a panasz vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a kérelmezőtől, az érintett személytől vagy a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy a költségvetési támogatás igényléséhez, illetve a túlfizetés visszaigényléséhez való jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen.
-
-(3) Nemzetközi vitarendezési eljárás során az adóhatóság az elévülési időn túl is végezhet az eljárás lefolytatásához szükséges ellenőrzési cselekményeket.
-
-(4) A nemzetközi vitarendezési eljárás eredményeként létrejött megállapodást, illetve meghozott határozatot azon adómegállapítási időszakok vonatkozásában is végre kell hajtani, amelyek a megállapodás megkötésének vagy a határozat meghozatalának időpontjában már elévültek.
-
-(5) A nemzetközi vitarendezési eljárást lezáró határozatában a magyar illetékes hatóság az adómegállapításhoz való jog elévülési idején túl is hozhat az adózó adókötelezettségét megállapító döntést a vitás kérdést eredményező vagy a későbbiekben ahhoz vezető intézkedésről szóló határozatban vizsgált időszakok tekintetében. Ha az adózó az európai uniós vitarendezési eljárásban vagy az adóegyezmények szerinti vitarendezési eljárásban az adóhatóság határozatában foglaltakat elfogadja, az adóhatóság az eredeti adókötelezettségek módosításáról szóló határozatában az adómegállapításhoz való jog elévülési idején túl is hozhat az adózó adókötelezettségét megállapító döntést a vitás kérdést eredményező vagy a későbbiekben ahhoz vezető intézkedésről szóló határozatban vizsgált időszakok tekintetében.”
+68. §

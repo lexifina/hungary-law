@@ -1,3 +1,1 @@
-38. § Az Áfa tv. „Átmeneti rendelkezések” című alcíme a következő 329. §-sal egészül ki:
-
-„329. § E törvénynek az egyes adótörvények és más kapcsolódó törvények uniós jogharmonizációs kötelezettségek miatt szükséges módosításáról szóló 2019. évi LXXII. törvénnyel (a továbbiakban: Mód10 törvény) módosított 98. § (2) bekezdés a) pontja, 98. § (5) bekezdése, 101. § (2) bekezdés a) pontja, 102. § (1) bekezdés b) pontja alkalmazható ezen módosítások hatálybalépését megelőzően teljesített ügyletekre is.”
+38. §
