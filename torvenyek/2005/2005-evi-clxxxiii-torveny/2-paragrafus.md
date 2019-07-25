@@ -66,7 +66,7 @@ b) fizikai összeköttetésben van más vasúti pályahálózattal, azonban az �
 
 2.16. országos vasúti pályahálózat: az országos jelentőségű vasútvonalak és az egyéb vasútvonalak;
 
-2.17. saját célú vasúti pályahálózat: az a nem állami tulajdonban levő vasúti pályahálózat, amelyet kizárólag a pályahálózat tulajdonosa használ saját áruszállítási műveletekre, továbbá az a pályahálózat, amelyek egynél több végfelhasználót szolgál vagy szolgálhat ki és nem minősül iparvágánynak;
+2.17. saját célú vasúti pályahálózat: az a nem állami tulajdonban levő vasúti pályahálózat, amelyet kizárólag a pályahálózat tulajdonosa használ saját áruszállítási műveletekre, továbbá az a pályahálózat, amely egynél több végfelhasználót szolgál vagy szolgálhat ki és nem minősül iparvágánynak;
 
 2.18. stratégiai jelentőséggel nem bíró vasúti pályahálózat: olyan vasúti pálya vagy pályahálózat, amelynek hossza nem haladja meg a 30 kilométert, és kihasználtsági szintje, valamint a rajta folyó szállítási forgalom nem éri el az elméleti kapacitás 10%-át;
 

@@ -1,6 +1,6 @@
 79/F. § (1) Ha a vasúti igazgatási szerv a piac felügyelete során észleli a működési engedélyhez, bejelentéshez kötött tevékenység végzésével, a vasúti pályahálózathoz való nyílt hozzáféréssel, a 85/E. § (1) bekezdése szerinti kötelezettség teljesítésével, a számviteli elkülönítéssel, valamint a keresztfinanszírozás tilalmával kapcsolatosan e törvényben, külön jogszabályban, a vasúti igazgatási szerv határozatában, valamint a Hálózati Üzletszabályzatban meghatározott valamely kötelezettség megsértését, akkor
 
-a) a jogsértőt kötelezi az eljárás költségeinek megtérítésére,
+a)
 
 b) a vasúti piacfelügyeleti bírság mértékére és alkalmazására vonatkozó részletes szabályokról szóló rendeletben foglaltak alapján bírságot szab ki,
 

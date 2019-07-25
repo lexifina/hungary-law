@@ -30,7 +30,11 @@
 
 14. a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításának részletes szabályait,
 
-15. az értékelést végző szerv kijelölésének szabályait
+15. az értékelést végző szerv kijelölésének szabályait,
+
+16. a működési engedélyezési eljárásnak, a működési engedély felfüggesztésének és visszavonásának, az ideiglenes engedély kiadásának, a működési engedélyhez nem kötött tevékenység esetén a bejelentésnek, valamint a vasúti igazgatási szervnek a vasúti társaságok tevékenységével kapcsolatos ellenőrzési tevékenységének eljárási szabályait,
+
+17. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását, az általa kiszabható bírság részletszabályait
 
 rendeletben állapítsa meg.
 
@@ -120,7 +124,11 @@ rendeletben állapítsa meg.
 
 36. közutaknak és magánutaknak turisztikai hajtánypálya által történő keresztezésére vonatkozó szabályokat
 
-37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat
+37. a 3/B. § (7) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó vasúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat,
+
+38. a vasúti közlekedés biztonságával összefüggő munkakör betöltéséhez szükséges vizsgán való részvételért fizetendő díjak körét és mértékét, valamint azok megfizetésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
+
+39. a nem jogszabályban kihirdetett nemzeti szabályok kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

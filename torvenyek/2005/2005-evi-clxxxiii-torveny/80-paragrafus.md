@@ -16,7 +16,7 @@ e) a vasúti járművek és a vasúti járműre szerelt vasútüzemi célt szolg
 
 f) a vasúti járművek, valamint a vasúti pályák nyilvántartásának vezetése,
 
-g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti vasútbiztonsági szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, és a módosítással kapcsolatban a szakmai egyeztetés lefolytatása, a nemzeti keretszabályok kidolgozása során szakmai egyeztetés lefolytatása a vasúti társaságokkal, a vasúti alrendszerek gyártóival és karbantartóival, a vasúti szolgáltatásokat igénybevevőkkel, valamint a vasúti munkavállalók képviselőivel,
+g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok kidolgozása és módosítása során szakmai egyeztetés lefolytatása a nemzeti szabályok kiadásáért felelős szakértői testülettel, a vasúti társaságokkal, a vasúti alrendszerek gyártóival és karbantartóival, a vasúti szolgáltatásokat igénybevevőkkel, valamint a vasúti munkavállalók képviselőivel,
 
 h) a (2) bekezdés szerinti éves jelentés elkészítése,
 

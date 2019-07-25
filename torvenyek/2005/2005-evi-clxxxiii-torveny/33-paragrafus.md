@@ -1,6 +1,6 @@
 ## VASÚTBIZTONSÁGI TANÚSÍTVÁNY ÉS VASÚTBIZTONSÁGI ENGEDÉLY
 
-33. § (1) A belföldön bejegyzett vasúti társaság a vasúti pályahálózatot – a (7) bekezdésben meghatározott kivétellel – kizárólag a közlekedési hatóság által kiállított vasútbiztonsági tanúsítvány birtokában használhatja. A vasútbiztonsági tanúsítvány igazolja, hogy a vasúti társaság létrehozta a biztonsági rendszerét, és a kockázatok korlátozása és a vasúti pályahálózaton biztonságos vasúti közlekedési tevékenység végzése érdekében képes megfelelni az ÁME-kben, valamint a nemzeti biztonsági szabályokban meghatározott követelményeknek.
+33. § (1) A belföldön bejegyzett vasúti társaság a vasúti pályahálózatot – a (7) bekezdésben meghatározott kivétellel – kizárólag a közlekedési hatóság által kiállított vasútbiztonsági tanúsítvány birtokában használhatja. A vasútbiztonsági tanúsítvány igazolja, hogy a vasúti társaság létrehozta a biztonsági rendszerét, és a kockázatok korlátozása és a vasúti pályahálózaton biztonságos vasúti közlekedési tevékenység végzése érdekében képes megfelelni az ÁME-kben, valamint a nemzeti szabályokban meghatározott követelményeknek.
 
 (2) A vasútbiztonsági tanúsítvány a következő részekből áll:
 
