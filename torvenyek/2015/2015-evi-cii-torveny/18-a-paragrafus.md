@@ -2,11 +2,11 @@
 
 18/A. § (1) A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:
 
-a) az 5. alcím szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének felfüggesztése, a bejelentésre vonatkozó követelményeket nem teljesítő személyre vagy szervezetre vonatkozóan bírság kiszabása, végső soron a tevékenységtől való eltiltás,
+a) az 5. alcím szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a bejelentésre vonatkozó követelményeket nem teljesítő személyre vagy szervezetre vonatkozóan bírság kiszabása, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének megtiltása,
 
 b) nyilvántartás vezetése az egyéb kötöttpályás tevékenységeket végző személyekről és szervezetekről,
 
-c) az egyéb kötöttpályás tevékenységet végző személyekről és szervezetekről felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység felfüggesztése, megtiltása,
+c) az egyéb kötöttpályás tevékenységet végző személyekről és szervezetekről felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység megtiltása,
 
 d) az egyéb kötöttpályás közlekedési tevékenységek piacának nyomon követése, elemzése, értékelése
 
@@ -26,4 +26,4 @@ g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
 
 (6) Az ügyintézési határidő a vasúti igazgatási szerv eljárásában hat hét.
 
-(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatait a honlapján közhírré teszi.
+(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatairól szóló közleményt a honlapján közhírré teszi.

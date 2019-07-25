@@ -8,7 +8,7 @@
 
 a) a Magyarország területén található, vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerekre, a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységre, valamint az azzal összefüggő jogokra és kötelezettségekre,
 
-b) a Magyarország területén folytatott vasúti egyéb kötöttpályás közlekedést működtető, illetve az abban részt vevő természetes személyekre és szervezetekre, valamint
+b) a Magyarország területén folytatott vasútnak nem minősülő egyéb kötöttpályás közlekedést működtető, illetve az abban részt vevő természetes személyekre és szervezetekre, valamint
 
 c)
 
