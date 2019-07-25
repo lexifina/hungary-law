@@ -1,3 +1,1 @@
-57. § A Htv. Harmadik rész VI. Fejezete a következő 51/I. §-sal egészül ki:
-
-„51/I. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel (a továbbiakban: Eadtv.) megállapított 41. § (9) bekezdést annak a naptári évtől eltérő üzleti évet választó vállalkozónak is alkalmaznia kell a 2019. évben kezdődő adóévében, amelynek ezen adóéve utolsó hónapjának 20. napja az Eadtv. hatálybalépését követő időszakra esik.”
+57. §

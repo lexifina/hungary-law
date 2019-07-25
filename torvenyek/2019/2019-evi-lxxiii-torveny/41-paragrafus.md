@@ -1,3 +1,0 @@
-41. § A Távhő törvény 18. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (8) bekezdése, 18. §-a, hatályon kívül helyezett 8. § (7) és (7a) bekezdése, 18. § (2) bekezdése alapján adóelőleg-kiegészítési kötelezettség a 2019-ben kezdődő adóévtől kezdődően az adózót nem terheli, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (8) bekezdése, 18. §-a hatálybalépésének, továbbá 8. § (7) és (7a) bekezdése, 18. § (2) bekezdése hatályon kívül helyezésének napja.”

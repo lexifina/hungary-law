@@ -1,5 +1,3 @@
 19. § (1)
 
-(2) A Tao. törvény 5. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) A csoportos társasági adóalany adókötelezettségét a csoporttagok közül e célra kijelölt és az állami adó- és vámhatóságnak bejelentett csoporttag mint csoportképviselő útján, a csoportazonosító szám alatt teljesíti, valamint ugyanilyen módon gyakorolja adózói jogait. A csoportképviselő olyan nyilvántartást vezet, amely alkalmas a csoportos társasági adóalany adókötelezettségének teljesítése és jogai gyakorlása érdekében szükséges minden adat alátámasztására és ellenőrzésére. A csoportos társasági adóalany adókötelezettségének teljesítése és jogai gyakorlása érdekében a csoporttag olyan nyilvántartást vezet, amely alkalmas a 6. § (12) bekezdésében meghatározott nyilatkozatában foglalt minden adat alátámasztására és ellenőrzésére. E nyilvántartást a csoporttag a csoportos társasági adóalany bevallásának benyújtására nyitva álló határidőt megelőző 15. napig a csoportképviselő rendelkezésére bocsátja.”
+(2)
