@@ -74,3 +74,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2019-03-01 | 2018. évi CXXV. törvény | 2011-195-00-00.67 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2011-195-00-00.68 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2011-195-00-00.69 |
+| 2019-07-25 | 2019. évi LXVI. törvény | 2011-195-00-00.70 |
