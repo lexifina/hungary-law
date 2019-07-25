@@ -1,7 +1,7 @@
 78. § Hatályát veszti a Kknyt.
 
-a)
+a) 14. § (2) bekezdés e) pont ea) alpontja,
 
-b)
+b) 14. § (2) bekezdés e) pont eb) alpontja,
 
 c)
