@@ -6,11 +6,11 @@
 
 ## Határidő: azonnal
 
-## 2. felhívja a pénzügyminisztert, hogy gondoskodjon az 1. pont szerint átcsoportosított előirányzattal történő elszámolásról, valamint az előirányzat fel nem használt részének a Miniszterelnökség részére történő visszafizetéséről.
+## 2.[^1] felhívja a pénzügyminisztert, hogy gondoskodjon az 1. pont szerint átcsoportosított előirányzattal történő elszámolásról, valamint az előirányzat fel nem használt részének a Miniszterelnökség részére történő visszafizetéséről.
 
 ## Felelős: pénzügyminiszter
 
-## Határidő: 2019. július 31.
+## Határidő: 2019. december 31.
 
 1. melléklet az 1781/2018. (XII. 21.) Korm. határozathoz
 
@@ -81,3 +81,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1432/2019. (VII. 26.) Korm. határozat 6. pontja szerint módosított szöveg.
