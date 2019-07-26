@@ -2,7 +2,7 @@
 
 64. § (1) A köznevelési intézmény munkavállalói, közalkalmazottai (a továbbiakban: alkalmazott) tekintetében – a munkáltatótól függően – a Munka Törvénykönyvét vagy a közalkalmazottak jogállásáról szóló törvényt e törvény rendelkezéseivel együtt kell alkalmazni.
 
-(2) A köznevelési intézményben pedagógus-munkakörben foglalkoztatottakra a közalkalmazottak jogállásáról szóló törvény gyakornokra és gyakornoki időre, továbbá az előmeneteli és illetményrendszerre, minősítésre vonatkozó rendelkezései – a jubileumi jutalomra vonatkozó rendelkezések kivételével – nem alkalmazhatóak.
+(2) A köznevelési intézményben pedagógus-munkakörben foglalkoztatottakra a közalkalmazottak jogállásáról szóló törvény gyakornokra és gyakornoki időre, továbbá az előmeneteli és illetményrendszerre, minősítésre vonatkozó rendelkezései – a jubileumi jutalomra, valamint a célfeladatra, céljuttatásra vonatkozó rendelkezések kivételével – nem alkalmazhatóak.
 
 (2a) A köznevelési intézményben pedagógus-munkakörben foglalkoztatottakra a közalkalmazottak jogállásáról szóló törvény pihenőidőre vonatkozó rendelkezéseit a következő eltérésekkel kell alkalmazni:
 

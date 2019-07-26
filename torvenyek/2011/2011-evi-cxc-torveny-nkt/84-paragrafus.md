@@ -46,4 +46,6 @@ c) vezetőjének megbízásával, megbízásának visszavonásával
 
 (9a) Az oktatásért felelős miniszter a tankerületi központ által fenntartott intézmények tekintetében hozott, az e §-ban meghatározott döntéseihez nem köteles beszerezni az érintett nemzetiségi önkormányzat egyetértését, amennyiben az oktatásért felelős miniszter a tankerületi központ véleményével egyező döntést hoz, és a tankerületi központ véleményével az érintett nemzetiségi önkormányzat egyetért.
 
+(9b) A magán köznevelési intézmény munkaviszonyból eredő olyan kötelezettségeiért, amelyek teljesítéséhez vagyona nem elégséges, a fenntartó kezesként felel. Ha a magán köznevelési intézmény jogutód nélkül szűnik meg, a munkaviszonyból származó, a munkavállalók elmaradt munkabérét és egyéb, munkáltatóval szemben fennálló követeléseit érintő jogok és kötelezettségek a megszűnés időpontjában a fenntartóra átszállnak.
+
 (10) Többcélú intézmény esetén az e §-ban foglaltakat csak az érintett intézményegység vonatkozásában kell alkalmazni.

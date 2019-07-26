@@ -22,7 +22,7 @@ h) a tanulók magasabb évfolyamba lépésének megállapítása, a tanulók osz
 
 i) a tanulók fegyelmi ügyeiben,
 
-j) az intézményvezetői, intézményegység-vezetői pályázathoz készített vezetési programmal összefüggő szakmai vélemény tartalmáról,
+j)
 
 k) jogszabályban meghatározott más ügyekben
 
@@ -36,7 +36,7 @@ a) csak egy – nevelési-oktatási intézmény feladatát ellátó – intézm�
 
 b) több – nevelési-oktatási intézmény feladatát ellátó – intézményegységet érintenek, valamennyi érdekelt intézményegységben
 
-foglalkoztatott – a 4. § 18. pontjában felsorolt – alkalmazottakból és az intézmény vezetőjéből álló nevelőtestület jár el.
+foglalkoztatott – a 4. § 20. pontjában felsorolt – alkalmazottakból és az intézmény vezetőjéből álló nevelőtestület jár el.
 
 (5) Az óraadó, állami iskolákban a választható hit- és erkölcstan tantárgy oktatója a nevelőtestület döntési jogkörébe tartozó ügyekben – az (2) bekezdés h)–i) pontjába tartozó ügyek kivételével – nem rendelkezik szavazati joggal.
 

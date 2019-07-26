@@ -2,7 +2,7 @@
 
 (2) Az országos mérés, értékelés összesített és intézményekre vonatkozó eredményét az oktatásért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni, és a mérés, értékelés során szerzett intézményi szintű adatokat a további feldolgozhatóság céljából hozzáférhetővé kell tenni.
 
-(3) Az országos méréshez, értékeléshez központilag elkészített, mérési azonosítóval ellátott dokumentum alkalmazható, amelyen nem szerepelhet olyan adat, amelyből a kitöltő tanuló azonosítható. A tanulói teljesítmény mérése, értékelése céljából az országos mérés, értékelés során keletkezett, a tanulók teljesítményének értékelésével kapcsolatos adatok feldolgozhatók, és e célból a mérési azonosítóval ellátott dokumentumok átadhatók a hivatal részére.
+(3) Az országos méréshez, értékeléshez központilag elkészített, mérési azonosítóval ellátott dokumentum alkalmazható, amelyen nem szerepelhet olyan adat, amelyből a kitöltő tanuló azonosítható. A tanulói teljesítmény mérése, értékelése céljából az országos mérés, értékelés során keletkezett, a tanulók teljesítményének értékelésével kapcsolatos adatok feldolgozhatók, és e célból a mérési azonosítóval ellátott dokumentumok átadhatók a hivatal részére. A hivatal az átadott adatokat az Onytv. szerint, az annak 1. melléklet VI. alcímében meghatározott informatikai rendszerben kezeli.
 
 (4) Az átadott dokumentumhoz személyazonosításra alkalmatlan módon a hivatalban kapcsolni lehet az önkéntes adatszolgáltatás útján gyűjtött, a tanuló szociális helyzetére, a tanulási és életviteli szokásaira, a szülők iskolázottságára, foglalkozására vonatkozó adatokat. A keletkezett adatokat az intézmény nem ismerheti meg.
 

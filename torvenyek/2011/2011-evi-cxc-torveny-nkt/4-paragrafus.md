@@ -68,6 +68,8 @@ lehet,
 
 6. emelt szintű oktatás: meghatározott tantárgy kerettanterv szerinti magasabb követelményekkel történő tanítása,
 
+6a. fejlesztő pedagógiai ellátás: a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló tantárgyi felzárkóztatására és készségfejlesztésére irányuló kötelező foglalkozás,
+
 7. feladatellátási hely: az a cím, ahol a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában foglalt feladat ellátása történik,
 
 8. felmenő rendszer: a tanulmányi és vizsgakövetelmények bevezetésének fokozatos ütemezése, amelynek értelmében a változást az érintett legalacsonyabb iskolai évfolyamon kezdve lehet bevezetni,
@@ -108,7 +110,7 @@ b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 
 20. nevelőtestület: a nevelési-oktatási intézményben közalkalmazotti jogviszony, munkaviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, valamint a felsőfokú végzettséggel rendelkező, nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
 
-21. óraadó: megbízási szerződés keretében legfeljebb heti tíz óra vagy foglalkozás megtartására alkalmazott pedagógus, oktató,
+21. óraadó: megbízási szerződés keretében legfeljebb heti tizennégy óra vagy foglalkozás megtartására alkalmazott pedagógus, oktató,
 
 22. országos feladat ellátása: országos feladatot lát el a köznevelési intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a megyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző megyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó köznevelési intézményből legfeljebb három működik az országban; továbbá, ha nemzetiségi nevelés, oktatás feladatait látja el, vagy vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik,
 
@@ -151,3 +153,19 @@ b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 40. együttnevelést segítő pedagógus: az utazó gyógypedagógusi, utazó konduktori hálózat által foglalkoztatott gyógypedagógus, konduktor, továbbá a sajátos nevelési igényű gyermek, tanuló – közös vagy részben közös – nevelésében és oktatásában részt vevő óvoda és iskola által, a sajátos nevelési igényű gyermek, tanuló óvodai nevelése, tanuló iskolai nevelés-oktatása érdekében foglalkoztatott gyógypedagógus, konduktor,
 
 41. egyéni előrehaladású nevelés és oktatás: a sajátos nevelési igényű tanuló számára engedélyezhető, a tanuló egyéni adottságához, fejlettségéhez igazodó továbbhaladást biztosító nevelési-oktatási forma.
+
+42. használt tankönyv: az iskolai tankönyvellátás keretében az adott iskolával tanulói jogviszonyban álló tanuló részére az iskola által térítésmentesen vagy térítés ellenében átadott, legalább három hónapon át használt, majd a tanulótól visszavett, vagy a tanuló által az iskola részére felajánlott tankönyv,
+
+43. közismereti tankönyv: a Nemzeti alaptanterv (a továbbiakban: Nat) bármely tantárgyához alkalmazható tankönyv,
+
+44. munkafüzet: az a tankönyv, amely alkalmas arra, hogy egy vagy több meghatározott tankönyv tananyagának gyakorlását, elsajátítását, alkalmazását elősegítse,
+
+45. szakképzési tankönyv: a szakképzési kerettanterv alapján az iskolai rendszerű szakképzésben alkalmazható tankönyv,
+
+46. munkatankönyv: az a tankönyv, amelynek alkalmazása során a tanulónak a tankönyvben elhelyezett feladatlapon kell az előírt feladatot megoldania,
+
+47. tankönyv: az a könyv – beleértve a szótárt, a szöveggyűjteményt, az atlaszt, a kislexikont, a munkatankönyvet, a munkafüzetet, a feladatgyűjteményt – vagy a digitális tananyag vagy a nevelési-oktatási program részét alkotó információhordozó, feladathordozó, amelyet az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárásban tankönyvvé nyilvánítottak,
+
+48. tankönyvellátás: az iskolában alkalmazott tankönyvek fejlesztése, kiadása, előállítása, valamint az iskolai tankönyvrendelés lebonyolítása,
+
+49. tartós tankönyv: az a tankönyv, könyvhöz kapcsolódó kiadvány, amely nem tartalmaz a tankönyvbe történő bejegyzést igénylő feladatokat, és alkalmas arra, hogy a tanulók legalább négy tanéven keresztül használják.

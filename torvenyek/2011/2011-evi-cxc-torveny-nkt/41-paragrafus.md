@@ -66,7 +66,9 @@ eh) a tanulói jogviszony megszűnésének időpontja és oka,
 
 f) az országos mérés-értékelés adatai,
 
-g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson.
+g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson,
+
+h) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt külföldi tanulmányúton.
 
 (4a) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (4) bekezdésben meghatározott adatokon kívül
 
@@ -88,7 +90,7 @@ b) óvodai, iskolai felvételével, átvételével kapcsolatos adatai az érinte
 
 c) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, társadalombiztosítási azonosító jele, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, az óvodai, iskolai egészségügyi dokumentáció, a tanuló- és gyermekbalesetre vonatkozó adatok az egészségi állapotának megállapítása céljából az egészségügyi, iskola-egészségügyi feladatot ellátó intézménynek,
 
-d) a neve, születési helye és ideje, lakóhelye, tartózkodási helye, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, a gyermek, tanuló mulasztásával kapcsolatos adatok, a kiemelt figyelmet igénylő gyermekre, tanulóra vonatkozó adatok a veszélyeztetettségének feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezetnek, intézménynek,
+d) a neve, születési helye és ideje, társadalombiztosítási azonosító jele, lakóhelye, tartózkodási helye, szülője, törvényes képviselője neve, szülője, törvényes képviselője lakóhelye, tartózkodási helye és telefonszáma, a gyermek, tanuló mulasztásával kapcsolatos adatok, a kiemelt figyelmet igénylő gyermekre, tanulóra vonatkozó adatok a veszélyeztetettségének megelőzése, feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezetnek, intézménynek,
 
 e) az igényjogosultság elbírálásához és igazolásához szükséges adatai az igénybe vehető állami támogatás igénylése céljából a fenntartó részére,
 
@@ -104,7 +106,7 @@ továbbítható.
 
 (8) A gyermek, a tanuló
 
-a) sajátos nevelési igényére, beilleszkedési zavarára, tanulási nehézségére, magatartási rendellenességére vonatkozó adatai a pedagógiai szakszolgálat intézményei és a nevelési-oktatási intézmények egymás között,
+a) sajátos nevelési igényére, beilleszkedési zavarára, tanulási nehézségére, magatartási rendellenességére vonatkozó adatai a pedagógiai szakszolgálat intézményei és a nevelési-oktatási intézmények egymás között, továbbá gyermekpszichiátriai diagnózisának adatai a pedagógiai szakszolgálat és az egészségügyi szakellátó között,
 
 b) óvodai fejlődésével, valamint az iskolába lépéshez szükséges fejlettségével kapcsolatos adatai a szülőnek, a pedagógiai szakszolgálat intézményeinek, az iskolának,
 

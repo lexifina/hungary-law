@@ -1,1 +1,1 @@
-56/A. § A beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek, tanulók a szakértői bizottság szakértői véleménye alapján fejlesztő foglalkoztatásban és az e törvényben, továbbá jogszabályban meghatározott kedvezményekben részesülnek.
+56/A. § A beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek, tanulók a szakértői bizottság szakértői véleménye alapján fejlesztő pedagógiai ellátásban és az e törvényben, továbbá jogszabályban meghatározott kedvezményekben részesülnek.

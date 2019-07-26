@@ -2,7 +2,7 @@
 
 21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény jogi személy, amely – a tankerületi központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény kivételével – a fenntartójától elkülönült, önálló költségvetéssel rendelkezik. A köznevelési intézmény a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
 
-(2) A köznevelési intézmény alapítását az alapító okirat, a tankerületi központ által fenntartott köznevelési intézmény esetében a szakmai alapdokumentum, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, a tankerületi központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a hivatalnál, más esetben a köznevelési intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnál kell teljesíteni. A nem állami szerv által alapított intézmény nyilvántartásba vétele során figyelembe kell venni a 75. § (1) bekezdés szerinti jelentésben foglaltakat.
+(2) A köznevelési intézmény nyilvántartásba vételét az alapító okirat, a tankerületi központ által fenntartott köznevelési intézmény esetében a szakmai alapdokumentum, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, kell kérelmezni. A kérelmet költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, a tankerületi központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a hivatalnál, más esetben a köznevelési intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnál kell teljesíteni. A nem állami szerv által alapított intézmény nyilvántartásba vétele során figyelembe kell venni a 75. § (1) bekezdés szerinti jelentésben foglaltakat.
 
 (3) A köznevelési intézmény alapító okirata, szakmai alapdokumentuma tartalmazza
 
@@ -20,9 +20,9 @@ db) tagintézményét,
 
 dc) telephelyét,
 
-e) alapfeladatának jogszabály szerinti megnevezését,
+e) feladatellátási helyenként az alapfeladatának jogszabály szerinti megnevezését,
 
-f) nevelési, oktatási feladatot ellátó feladatellátási helyenként felvehető maximális gyermek-, tanulólétszámot,
+f) nevelési, oktatási feladatot ellátó feladatellátási helyenként felvehető maximális gyermek-, vagy tanulólétszámot alapfeladatonkénti és munkarendenkénti bontásban,
 
 g) iskolatípusonként az évfolyamok számát,
 
@@ -34,9 +34,9 @@ j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkez�
 
 k) az önálló költségvetéssel rendelkező intézmény esetében a gazdálkodással összefüggő jogosítványokat.
 
-(4) A nyilvántartásba vétellel összefüggő költségeket a kérelem benyújtója viseli. A bejegyzett adatokban bekövetkezett változásokat – a (2) bekezdésben meghatározottak szerint – nyolc napon belül be kell jelenteni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat, szakmai alapdokumentum nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, valamint elektronikus úton is hozzáférhetők.
+(4) A nyilvántartásba vétellel összefüggő költségeket a kérelem benyújtója viseli. A bejegyzett adatokban bekövetkezett változások nyilvántartásba vételét – a (2) bekezdésben meghatározottak szerint – a változást követő nyolc napon belül kell kérelmezni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat, szakmai alapdokumentum nyilvánosak.
 
-(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a kérelem benyújtója kéri – a (4) bekezdés szerinti határidőben értesíti költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervet, a tankerületi központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a hivatalt, más esetben a köznevelési intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságot.
+(4a) A (4) bekezdés szerinti kérelem azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a kérelem benyújtója kéri – a (4) bekezdés szerinti határidőben értesíti költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervet, a tankerületi központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a hivatalt, más esetben a köznevelési intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságot.
 
 (5) A nyilvántartás tartalmazza
 
@@ -82,7 +82,7 @@ f) a fenntartó egy nevelési, tanítási évnél hosszabb ideig nem működteti
 
 g) a hatóság súlyos vagy az országos pedagógiai-szakmai ellenőrzés során megállapított szakmai jogszabálysértés miatt – a nem állami költségvetési szerv vagy nem települési önkormányzat által fenntartott köznevelési intézmény esetén a működési engedély visszavonásával egyidejűleg – a nyilvántartásból való törlését elrendeli.
 
-(9) A nyilvántartásból való törléssel egyidejűleg a köznevelési feladatokat ellátó hatóság kijelöli azt a nevelési-oktatási intézményt, amely a megszűnt intézménnyel jogviszonyban álló gyermekek, tanulók felvételét nem tagadhatja meg. A hivatal a köznevelés információs rendszeréből (a továbbiakban: KIR) továbbítja a megszűnt intézménnyel tanulói jogviszonyban álló tanuló nevét és lakóhelyét, tartózkodási helyét a köznevelési feladatokat ellátó hatóság számára a nevelési-oktatási intézmény kijelölése céljából. Az intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a területileg illetékes tankerületi központnak, szakképző iskola esetében az állami szakképzési és felnőttképzési szervnek, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A határozat tartalmazza annak az intézménynek a kijelölését, amely a gyermek, a tanuló felvételét nem tagadhatja meg.
+(9) Ha a köznevelési intézményt a (8) bekezdés g) pontja alapján törli a nyilvántartásból a köznevelési feladatokat ellátó hatóság, akkor a nyilvántartásból való törlésről hozott határozatában kijelöli azt a nevelési-oktatási intézményt, amely a törölt intézménnyel jogviszonyban álló gyermekek, tanköteles tanulók felvételét nem tagadhatja meg. Nem tanköteles tanuló esetében csak az érintett kérelmére kell kötelező felvételt biztosító intézményt kijelölni. Az intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a területileg illetékes tankerületi központnak, szakképző iskola esetében az állami szakképzési és felnőttképzési szervnek, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A jogutóddal megszűnő intézmény iratállományát a jogutód intézménynek kell átadni. A jogutód nélkül megszűnő intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén az intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóság számára kell átadni az iratállományt.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 

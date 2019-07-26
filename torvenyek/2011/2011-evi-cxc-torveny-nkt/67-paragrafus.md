@@ -24,6 +24,6 @@ d) a nevelési-oktatási intézményben pedagógus-munkakörben fennálló, hat�
 
 (7) Az intézményvezető kiválasztása – ha e törvény másképp nem rendelkezik – nyilvános pályázat útján történik. A pályázat mellőzhető, ha az intézményvezető ismételt megbízásával a fenntartó és a nevelőtestület egyetért. Egyetértés hiányában, továbbá az intézményvezető harmadik és további megbízási ciklusát megelőzően a pályázat kiírása kötelező.
 
-(8) Az intézményvezetői megbízásra benyújtott pályázat részét képező vezetési program, a vezetési programmal kapcsolatosan – e törvény alapján véleményezésre jogosultak által – kialakított vélemény és a vélemény kialakításával kapcsolatos szavazás eredménye közérdekből nyilvános adat, amelyet a köznevelési intézmény honlapján, annak hiányában a helyben szokásos módon nyilvánosságra kell hozni.
+(8) Az intézményvezetői megbízásra benyújtott pályázat részét képező vezetési program közérdekből nyilvános adat, amelyet a köznevelési intézmény honlapján, annak hiányában a helyben szokásos módon nyilvánosságra kell hozni.
 
 (9) A szervezeti és szakmai tekintetben önálló intézményegységben vezetői megbízást az kaphat, aki rendelkezik az azonos feladatot ellátó önálló intézmény vezetői megbízásához szükséges feltételekkel. A nyilvános pályázatra vonatkozó rendelkezéseket az e bekezdésben szabályozott vezetői megbízás esetén is alkalmazni kell.

@@ -10,6 +10,6 @@
 
 (6) Az iskolai nyomtatványok – az év végi bizonyítvány és az állami vizsga teljesítéséről kiállított bizonyítvány kivételével – az oktatásért felelős miniszter, szakképesítést tanúsító bizonyítvány esetén a szakképzésért és felnőttképzésért felelős miniszter által jóváhagyott rendszer alkalmazásával, a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával elektronikus úton is elkészíthetők és tárolhatók. A bizonyítvány kiállításának alapjául szolgáló nyomtatványt ebben az esetben is elő kell állítani nyomtatott formában, és meg kell őrizni.
 
-(7) A kiadott érettségi bizonyítványokról és a szakképesítést tanúsító bizonyítványokról – a vizsgaszabályzatban meghatározottak szerint – központi nyilvántartást kell vezetni.
+(7) A kiadott érettségi bizonyítványokról az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 1. melléklet V. alcímében meghatározottak szerint, valamint a szakképesítést tanúsító bizonyítványokról központi nyilvántartást kell vezetni.
 
 (8) Ha a szakközépiskola, a szakgimnázium párhuzamos oktatás keretében művészeti szakmai vizsgára készít fel, a tanuló magasabb évfolyamba lépéséről a szakképzés követelményei tekintetében külön is lehet dönteni és bizonyítványt kiállítani.

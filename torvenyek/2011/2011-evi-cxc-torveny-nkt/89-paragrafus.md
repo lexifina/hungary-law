@@ -2,7 +2,7 @@
 
 (2) A nemzetiséghez tartozók részére az óvodai csoportot, iskolai osztályt akkor is meg kell szervezni, fenn kell tartani, ha ugyanazon nemzetiséghez tartozó nyolc gyermek, tanuló szülője kéri.
 
-(3) Az éves költségvetési törvényben kell meghatározni annak a támogatásnak az összegét, amelyet az iskolafenntartó kap a piaci áron forgalomba kerülő tanulói tankönyvek megvásárlásának támogatásához. A támogatás módjáról a nevelőtestület a nemzeti köznevelés tankönyvellátásáról szóló törvényben meghatározottak szerint dönt. Az iskolának a nemzeti köznevelés tankönyvellátásáról szóló törvényben meghatározottak szerint gondoskodnia kell a térítésmentes tankönyvellátásról.
+(3) Az éves költségvetési törvényben kell meghatározni annak a támogatásnak az összegét, amelyet az iskolafenntartó kap a piaci áron forgalomba kerülő tanulói tankönyvek megvásárlásának támogatásához. A támogatás módjáról a nevelőtestület az 51/A. alcímben meghatározottak szerint dönt. Az iskolának az 51/A. alcímben meghatározottak szerint gondoskodnia kell a térítésmentes tankönyvellátásról.
 
 (4)
 

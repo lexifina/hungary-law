@@ -40,7 +40,7 @@ c) feladatának megváltoztatásával,
 
 d) nevének megállapításával,
 
-e) vezetőjének megbízásával és megbízásának visszavonásával
+e)
 
 összefüggő döntése vagy véleményének kialakítása előtt beszerzi a (4) bekezdésben foglaltak véleményét.
 
@@ -64,7 +64,7 @@ h) a vagyonkezelésében levő ingatlan tulajdonos önkormányzatának
 
 véleményét.
 
-(4a)
+(4a) A települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat a nemzetiségi nevelés-oktatásban részt vevő intézmény vezetőjének megbízásával és megbízása visszavonásával kapcsolatos véleményezési jogának kikérésére a (4) bekezdés alkalmazandó.
 
 (5) A (3)–(4) bekezdésben meghatározott vélemény kialakításához minden olyan információt hozzáférhetővé kell tenni a véleményezési joggal rendelkezők részére, amely a fenntartói döntés meghozatalához rendelkezésére áll. A vélemény kialakításához – az információk hozzáférhetővé tételének napjától számítva – legalább tizenöt napot kell biztosítani az érdekeltek részére.
 

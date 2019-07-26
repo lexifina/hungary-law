@@ -2,7 +2,7 @@
 
 (2) Az országos pedagógiai-szakmai ellenőrzést a hivatal szervezi.
 
-(3) Az országos pedagógiai-szakmai ellenőrzés célja a pedagógusok munkájának külső, egységes kritériumok szerinti ellenőrzése és értékelése a minőség javítása érdekében. Az ellenőrzés kiterjed fenntartótól függetlenül minden köznevelési intézményre.
+(3) Az országos pedagógiai-szakmai ellenőrzés célja a pedagógusok munkájának külső, egységes kritériumok szerinti ellenőrzése és értékelése a minőség javítása érdekében. Az ellenőrzés kiterjed fenntartótól függetlenül minden köznevelési intézményre, kivéve a rendészeti és katonai szakképző intézményeket.
 
 (4)
 

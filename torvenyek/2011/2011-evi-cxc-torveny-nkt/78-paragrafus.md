@@ -30,7 +30,7 @@ k) évenként országos és térségi mérési, értékelési feladatok elrendel
 
 (4)–(7)
 
-(8) Az oktatásért felelős miniszter háromévenként összehívja a diákparlamentet. A diákparlament a diákok közneveléssel kapcsolatos országos tájékoztató fóruma, amely az előterjesztésében áttekinti a tanulói jogok érvényesülését, és ajánlást fogadhat el, amelyben megfogalmazza véleményét, javaslatát.
+(8) Az oktatásért felelős miniszter kétévenként összehívja a diákparlamentet. A diákparlament a diákok közneveléssel kapcsolatos országos tájékoztató fóruma, amely az előterjesztésében áttekinti a tanulói jogok érvényesülését, és ajánlást fogadhat el, amelyben megfogalmazza véleményét, javaslatát.
 
 (9) Az oktatásért felelős miniszter – ha enélkül a szükséges intézkedés megtételére nincs lehetőség – az (1) bekezdés b) pontjában foglalt rendkívüli intézkedései során a vizsgaszabályzatban, valamint a tanév rendjében foglaltaktól – az adott ügy elintézéséhez szükséges mértékben – eltérő módon is eljárhat. Az oktatásért felelős miniszter döntését három munkanapon belül meghozza és közzéteszi. Az oktatásért felelős miniszter intézkedése a közzététel után azonnal végrehajtható. Az oktatásért felelős miniszter intézkedését elektronikus úton is közzéteheti.
 
