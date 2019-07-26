@@ -22,20 +22,8 @@ j) 94. § (1) bekezdés h) pontjában az „a köznevelési feladatokat ellátó
 
 k) 94. § (1) bekezdés l) pontjában az „ , illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az országos szakértői névjegyzékbe, az országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási” szövegrész.
 
-(2) Hatályát veszti az Nkt.
+(2)
 
-a) 31. § (2) bekezdés d) pontjában az „és a 83. § (3) bekezdés e) pontjában” szövegrész,
+(3)
 
-b) 36. § (4) bekezdés e) pontjában az „és a 83. § (3) bekezdés e) pontjában” szövegrész,
-
-c) 67. §
-
-ca) (1a) bekezdése,
-
-cb) (4)–(6) bekezdése,
-
-d) 98. § (18) bekezdése.
-
-(3) Hatályát veszti az Nkt. 45. § (4) és (10) bekezdése.
-
-(4) Hatályát veszti az Nkt. 93/F. § (1) bekezdés b) pontja, (3)–(5) bekezdése.
+(4)

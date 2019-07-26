@@ -11,11 +11,3 @@
 (5) A 18. § és a 33. § (4) bekezdése 2020. szeptember 1-jén lép hatályba.
 
 (6) A 32. § (4) bekezdése 2021. szeptember 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

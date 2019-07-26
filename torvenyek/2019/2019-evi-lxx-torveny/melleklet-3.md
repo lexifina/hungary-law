@@ -10,11 +10,7 @@ l) melyik évfolyamon, mely országban vett részt külföldi tanulmányúton,
 
 m) annak tényét és idejét, hogy az egyéni munkarendben tanuló neki felróható okból két alkalommal nem jelent meg az osztályozó vizsgán, vagy két alkalommal nem teljesítette a tanulmányi követelményeket.”
 
-2. Az Onytv. 1. melléklet VI. alcím g) pontja helyébe a következő rendelkezés lép:
-
-(Az oktatási nyilvántartás működéséért felelős szerv az országos pedagógiai mérések sikeres lebonyolítása céljából működteti az országos mérések adatbegyűjtő és -kezelő informatikai rendszerét. A tanulói teljesítménymérések megszervezéséhez szükséges adatok, valamint az országos mérési eredmények nyilvántartása – személyazonosításra alkalmatlan módon – az alábbi személyes adatokat tartalmazza:)
-
-„g) egyéni munkarend szerinti nevelés-oktatásban való részvétel,”
+2.
 
 3. Az Onytv. 1. melléklete a következő XIV. és XV. alcímmel egészül ki:
 

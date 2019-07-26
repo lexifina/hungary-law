@@ -42,16 +42,6 @@ rendeletben határozza meg.
 
 (4f) Felhatalmazást kap a Kormány, hogy az állami tankönyvfejlesztésért és -kiadásért felelős szerv feladatait ellátó szervet, a könyvtárellátó feladatait ellátó szervet, vagy jogi személyt rendeletben jelölje ki.”
 
-(5) Az Nkt. 94. §-a a következő (4g) bekezdéssel egészül ki:
+(5)
 
-„(4g) Felhatalmazást kap a Kormány, hogy
-
-a) az óvodai foglalkozáson való részvétellel, valamint
-
-b) a tankötelezettség teljesítésének megkezdésével
-
-kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje ki.”
-
-(6) Az Nkt. 94. §-a a következő (4h) bekezdéssel egészül ki:
-
-„(4h) Felhatalmazást kap a Kormány, hogy az egyéni munkarenddel kapcsolatosan eljáró, felmentést engedélyező szervet rendeletben jelölje ki.”
+(6)

@@ -98,36 +98,8 @@ d) a „tankerületi központ, valamint a szakképzési centrum” szövegrész 
 
 szöveg lép.
 
-(2) Az Nkt.
+(2)
 
-a) 20. § (8) bekezdésében a „67. § (6)–(7) bekezdésében” szövegrész helyébe a „67. § (7) bekezdésében”,
+(3)
 
-b) 27. § (7) bekezdésében a „magántanulóként” szövegrészek helyébe az „egyéni munkarend keretében”,
-
-c) 41. §
-
-ca) (4) bekezdés e) pont ea) alpontjában az „a magántanulói jogállással” szövegrész helyébe az „az egyéni munkarenddel”,
-
-cb) (7) bekezdés a) pontjában a „magántanulói jogállása” szövegrész helyébe az „egyéni munkarendje”,
-
-d) 50. § (1) bekezdésében az „a magántanulót” szövegrész helyébe az „az egyéni munkarenddel rendelkezőt”,
-
-e) 55. § (2) bekezdésében az „A magántanulót” szövegrész helyébe az „Az egyéni munkarenddel rendelkezőt”, az „a magántanulókra” szövegrész helyébe az „az egyéni munkarenddel rendelkezőkre”,
-
-f) 62. § (4) bekezdésében az „az oktatásért felelős miniszter” szövegrész helyébe az „a hivatal”,
-
-g) 91. §
-
-ga) (1) bekezdésében a „magántanulóként” szövegrész helyébe az „egyéni munkarend alapján”,
-
-gb) (3) bekezdésében a „magántanulóként” szövegrész helyébe az „egyéni munkarenddel rendelkezőként”,
-
-h) 94. § (4) bekezdés m) pontjában a „pedagógus-ösztöndíj alapítását” szövegrész helyébe a „pedagógus-ösztöndíj igénybevételének feltételeit”,
-
-i) 8. mellékletében az „osztályfőnöki/kollégiumban csoportvezetői” szövegrész helyébe az „osztályfőnöki, kollégiumban csoportvezetői, alapfokú művészeti iskolában tanszakvezetői”
-
-szöveg lép.
-
-(3) Az Nkt. 96. § (6) bekezdésében a „készségfejlesztő speciális szakiskolai nevelés-oktatáshoz és a fejlesztő iskolai oktatáshoz” szövegrész helyébe a „sajátos nevelési igényű tanulók neveléséhez-oktatásához”, valamint a „digitális ismerethordozók” szövegrész helyébe az „eszközök és digitális ismerethordozók” szöveg lép.
-
-(4) Az Nkt. 80. § (1) bekezdésében a „szövegértési és a matematikai eszköztudás” szövegrész helyébe a „szövegértési, a matematikai és a természettudományos eszköztudás” szöveg lép.
+(4)
