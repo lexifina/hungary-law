@@ -14,4 +14,6 @@ Határidő: az a) alpont tekintetében 2018. szeptember 30.
 
 a b) alpont tekintetében a 2019. évi központi költségvetés tervezése során
 
-2. A Kormány a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1943/2015. (XII. 15.) Korm. határozatban foglaltaktól eltérően az átcsoportosított előirányzat tekintetében az elszámolási kötelezettség és a visszatérítési kötelezettség teljesítésének határidejét 2019. június 30-ában határozza meg.
+2.[^1] A Kormány a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1943/2015. (XII. 15.) Korm. határozatban foglaltaktól eltérően az átcsoportosított előirányzat tekintetében az elszámolási kötelezettség és a visszatérítési kötelezettség teljesítésének határidejét 2019. december 15-ében határozza meg.
+
+[^1]: A 2. pont az 1432/2019. (VII. 26.) Korm. határozat 3. pontja szerint módosított szöveg.
