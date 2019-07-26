@@ -1,0 +1,3 @@
+23. § Az Nkt. 80. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az országos méréshez, értékeléshez központilag elkészített, mérési azonosítóval ellátott dokumentum alkalmazható, amelyen nem szerepelhet olyan adat, amelyből a kitöltő tanuló azonosítható. A tanulói teljesítmény mérése, értékelése céljából az országos mérés, értékelés során keletkezett, a tanulók teljesítményének értékelésével kapcsolatos adatok feldolgozhatók, és e célból a mérési azonosítóval ellátott dokumentumok átadhatók a hivatal részére. A hivatal az átadott adatokat az Onytv. szerint, az annak 1. melléklet VI. alcímében meghatározott informatikai rendszerben kezeli.”

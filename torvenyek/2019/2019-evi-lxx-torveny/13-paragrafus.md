@@ -1,0 +1,3 @@
+13. § Az Nkt. 35/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az egyházi jogi személy által foglalkoztatott, fakultatív hitoktatásban, illetve a bevett egyház és azok belső egyházi jogi személyei által foglalkoztatott, hit- és erkölcstanoktatásban közreműködő személynek a 32. § (1) bekezdés h) pontjában meghatározott feltételeknek kell megfelelnie. A bevett egyház és azok belső egyházi jogi személyei által polgári jogi jogviszony keretében foglalkoztatott hit- és erkölcstanoktatónak meg kell felelnie a 66. § (1) bekezdés b) pontjában előírt feltételeknek, amely tényt a polgári jogi jogviszony létesítésekor az érintett személy hatósági bizonyítvánnyal igazolja.”
