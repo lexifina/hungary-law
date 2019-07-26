@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-66-00-00
 | 2017-01-02 | 2016. évi CXLV. törvény | 1994-66-00-00.24 |
 | 2018-01-01 | 2017. évi CLIX. törvény | 1994-66-00-00.25 |
 | 2019-01-01 | 2018. évi XCIV. törvény | 1994-66-00-00.26 |
+| 2019-07-26 | 2019. évi LXX. törvény | 1994-66-00-00.27 |
