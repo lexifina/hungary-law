@@ -4,11 +4,7 @@ a) a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének
 
 b) a tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából a 2. § a)–g) pontjában foglalt adatok, valamint az 1. melléklet I. alcím c)–f) és h) pontjában foglalt adatok a rendőrség részére továbbíthatók.
 
-(2) Az oktatási nyilvántartás 2. § a)–f), h)–j) pontjában foglalt adatok továbbíthatók
-
-a) az óvodai nevelésben részvételre kötelezett gyermek esetében a jegyző részére, abból a célból, hogy gondoskodjon az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, továbbá
-
-b) a tanköteles gyermek, tanuló esetében a köznevelési feladatot ellátó hatóság részére, abból a célból, hogy gondoskodjon a tankötelesek nyilvántartásáról.
+(2)
 
 (3) A tanulói nyilvántartás adataihoz az oktatási nyilvántartás működéséért felelős szerv a köznevelési feladatokat ellátó hatóság részére a feladatellátásához szükséges adatok tekintetében közvetlen hozzáférést biztosít.
 
