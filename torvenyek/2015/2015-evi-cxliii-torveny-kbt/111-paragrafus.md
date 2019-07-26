@@ -2,7 +2,7 @@
 
 111. § E törvényt nem kell alkalmazni az uniós értékhatárt el nem érő
 
-a) tankönyv beszerzésére, amennyiben arra a nemzeti köznevelés tankönyvellátásáról szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
+a) tankönyv beszerzésére, amennyiben arra a nemzeti köznevelésről szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
 
 b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetve utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 59–85/A. §-ában szabályozott szociális szolgáltatások körében ellátottak teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
 

@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2019-04-01 | 2018. évi LXXXIII. törvény | 2015-143-00-00.25 |
 | 2019-04-18 | 2018. évi LXXXIII. törvény | 2015-143-00-00.26 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2015-143-00-00.27 |
+| 2019-07-26 | 2019. évi LXX. törvény | 2015-143-00-00.28 |
