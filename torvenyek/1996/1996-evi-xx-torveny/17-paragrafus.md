@@ -4,4 +4,6 @@ a) a polgár elhalálozott,
 
 b) a külföldön letelepedni szándékozó polgár az adójának soron kívüli megállapítását kéri,
 
-c)–d)
+c)
+
+d)

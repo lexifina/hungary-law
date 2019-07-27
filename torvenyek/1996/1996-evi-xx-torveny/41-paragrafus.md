@@ -1,3 +1,3 @@
 ## Módosuló rendelkezések
 
-41–44. §
+41. §

@@ -46,4 +46,6 @@ u) a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvánt
 
 v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
 
-w) a Központi Statisztikai Hivatal statisztikai célra.
+w) a Központi Statisztikai Hivatal statisztikai célra;
+
+x) az útlevélhatóság és az eljárásában közreműködő hatóság az úti okmányokkal kapcsolatos feladataik ellátásához.
