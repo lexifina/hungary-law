@@ -5,3 +5,10 @@
 (2) E rendelet nem alkalmazandó, ha az (1) bekezdés szerinti szerződés megkötésére a Kbt. 31–32. §-a szerinti központosított közbeszerzés keretében, vagy a Kbt. 105. § (1) vagy (2) bekezdése szerinti keretmegállapodás alapján kerül sor.
 
 (3) E rendelet nem alkalmazandó a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény hatálya alá tartozó szervezetek beszerzéseire.
+
+(4)[^1] E rendelet nem alkalmazandó a Nemzeti Kommunikációs Hivatal működésével összefüggésben álló beszerzésekre.
+
+(5)[^2] E rendelet nem alkalmazandó a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet 13. § (1) bekezdés a) pontja szerinti beszerzésekre, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság működésével összefüggésben álló beszerzésekre.
+
+[^1]: Az 1. § (4) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 5. §-a iktatta be.
+[^2]: Az 1. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 5. §-a iktatta be.
