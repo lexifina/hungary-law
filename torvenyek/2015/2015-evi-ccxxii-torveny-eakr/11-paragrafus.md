@@ -4,4 +4,4 @@
 
 (2) Kérelemre induló automatikus döntéshozatali eljárás során az ügyfél az elektronikus azonosítást követően az elektronikus ügyintézést biztosító szerv által biztosított elektronikus űrlap útján nyújtja be kérelmét.
 
-(3) Az elektronikus ügyintézést biztosító szerv a honlapján, valamint a személyes ügyintézési felületen is elérhető módon közzéteszi az alkalmazott döntéshozatali eljárás módszertanát és lényeges szabályait.
+(3) Az elektronikus ügyintézést biztosító szerv a honlapján, valamint a személyre szabott ügyintézési felületen is elérhető módon közzéteszi az alkalmazott döntéshozatali eljárás módszertanát és lényeges szabályait.

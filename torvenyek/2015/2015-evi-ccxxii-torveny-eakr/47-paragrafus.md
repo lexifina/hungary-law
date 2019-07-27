@@ -16,6 +16,6 @@ e) a bejelentés nyilvánvalóan alaptalan,
 
 f) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz.
 
-(3) A felügyeleti vizsgálat során a bejelentőt az általános közigazgatási rendtartásról szóló törvény szerinti ügyféli jogok nem illetik meg, de az eljárás eredményéről a Felügyelet tájékoztatja.
+(3) A felügyeleti vizsgálat során a bejelentőt az általános közigazgatási rendtartásról szóló törvény szerinti ügyféli jogok nem illetik meg, azonban a felügyeleti vizsgálat eredményéről a Felügyelet tájékoztatja.
 
 (4) A Felügyelet felügyeleti vizsgálatot indít továbbá, ha – akár névtelen bejelentés alapján – valószínűsíthető, hogy az elektronikus ügyintézést biztosító szerv az e törvényben meghatározott kötelezettségeit vagy az ügyfelek e törvényben meghatározott jogait megsérti, és a jogsértés az ügyfelek széles körét érinti vagy az komoly érdeksérelmet, kárveszélyt idézhet elő.

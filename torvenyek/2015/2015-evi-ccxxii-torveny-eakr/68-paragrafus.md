@@ -4,7 +4,7 @@
 
 (2) A Felügyelet az információforrások regiszterét hivatalból, az információátadási szabályzatok, megállapodások, valamint ezek módosításai alapján vezeti.
 
-(3) Ha a Felügyelet tudomást szerez arról, hogy az információátadási szabályzat vagy megállapodás nem felel meg a jogszabályban meghatározott feltételeknek, az együttműködő szervet vagy szerveket határozatban kötelezi a jogszerű állapot helyreállítására.
+(3)
 
 (4) Az információforrások regisztere nyilvános, az bárki számára azonosítás, díjfizetés vagy költségtérítés nélkül megismerhető.
 

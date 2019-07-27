@@ -1,3 +1,1 @@
-110/A. § (1) 2017. január 31-ig a Központi Ügyfél-regisztrációs Nyilvántartásban szereplő személyek természetes személyazonosító adatait a Központi Ügyfél-regisztrációs Nyilvántartást vezető szerv megfeleltethetőség és kapcsolati kód képzése céljából átadja a 31. § (2) bekezdése szerinti nyilvántartást vezető szerveknek a 31. § (2) bekezdés a)–c) pontja szerinti sorrendben.
-
-(2) Az (1) bekezdés szerinti adatátadást követő 15 napon belül a 31. § (2) bekezdése szerinti nyilvántartást vezető szerv megfeleltethetőség esetén a kapcsolati kódot a hozzá tartozó természetes személyazonosító adatokkal átadja a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervnek bejegyzés céljából.
+110/A. §

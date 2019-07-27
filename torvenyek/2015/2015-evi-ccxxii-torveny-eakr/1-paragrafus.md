@@ -78,7 +78,7 @@ i) a hegyközségek kivételével a köztestület,
 
 j) a közüzemi szolgáltató,
 
-k) a törvényben vagy kormányrendeletben elektronikus ügyintézésre kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany, valamint
+k) a törvényben vagy kormányrendeletben elektronikus ügyintézés biztosítására kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalany, valamint
 
 l) a meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító és ezt az Elektronikus Ügyintézési Felügyeletnek bejelentő, az a)–k) alpont hatálya alá nem tartozó jogalany;
 
@@ -109,6 +109,8 @@ l) a meghatározott ügyek e törvény szerinti elektronikus intézését önké
 29. jogi képviselő: jogszabály eltérő rendelkezése hiányában az ügyfél képviseletében eljáró ügyvéd, ügyvédi iroda és kamarai jogtanácsos;
 
 30. kormányzati célú hírközlési szolgáltatás: az elektronikus hírközlésről szóló törvényben meghatározott kormányzati célú hálózatnak minősülő, jogszabályban meghatározott elektronikus hírközlő hálózat felhasználásával, jogszabályban meghatározott felhasználók részére nyújtott elektronikus hírközlési szolgáltatás;
+
+30a. központi állami szolgáltatás: olyan, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásnak, valamint központi elektronikus ügyintézési szolgáltatásnak nem minősülő, központi szolgáltatásként nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet az állam kijelölt központi szolgáltatón keresztül biztosít;
 
 31. központi dokumentumhitelesítési ügynök: olyan központi elektronikus ügyintézési szolgáltatás, ahol az ügyfél vagy az elektronikus ügyintézést biztosító szerv ügyintézője az általa feltöltött iratot a szolgáltatás által felkínált hitelesítési módok közül választva hitelesítheti;
 
