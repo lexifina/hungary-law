@@ -82,7 +82,9 @@ z) „Terelőút” (146–147. ábra); az út lezárása esetén arról tájék
 
 (2) [^143] Az út mellett vagy közelében lévő egyes létesítményekről a 2. számú függelékben meghatározott – kék vagy barna alapszínű – jelzőtáblák adhatnak tájékoztatást.
 
-(3) [^144] Ha az „Egyirányú forgalmú út” jelzőtáblák (104. és 105. ábra) alatt elhelyezett kiegészítő táblán (105/a. ábra) autóbuszt és/vagy kerékpárt mutató ábra jelenik meg:
+(2a) [^144] A templomra és a vallásgyakorlásra rendelt helyre – a 2. számú függelék 20/a. ábra szerint – utaló tábla alapszíne barna. E tájékoztató tábla kiegészítő jelzőtáblájának felirata utalhat a vallási közösség nevére, az általa használt épület nevére és az általa végzett vallásos szertartások időpontjára.
+
+(3) [^145] Ha az „Egyirányú forgalmú út” jelzőtáblák (104. és 105. ábra) alatt elhelyezett kiegészítő táblán (105/a. ábra) autóbuszt és/vagy kerékpárt mutató ábra jelenik meg:
 
 a) az úttesten kijelölt kerékpársávon, ennek hiányában az úttest jobb széléhez húzódva a kerékpáros,
 
@@ -92,7 +94,7 @@ c) a kerékpáros által is igénybe vehető autóbusz forgalmi sávon – az au
 
 a jelzőtáblán megjelölt iránnyal szemben közlekedhet.
 
-(4) [^145] Az (1) bekezdés v), x), y) pontjában meghatározott jelzőtáblák zöld, kék vagy fehér alapszínűek lehetnek.
+(4) [^146] Az (1) bekezdés v), x), y) pontjában meghatározott jelzőtáblák zöld, kék vagy fehér alapszínűek lehetnek.
 
 [^113]: A 17. § (1) bekezdésének a) pontjában a 103. ábrát a 2/1984. (I. 29.) KM–BM együttes rendelet 9. §-ának (1) bekezdése állapította meg.
 [^114]: A 17. § (1) bekezdésének a/1. pontját a 2/1984. (I. 29.) KM–BM együttes rendelet 9. §-ának (2) bekezdése iktatta a rendeletbe.
@@ -125,5 +127,6 @@ a jelzőtáblán megjelölt iránnyal szemben közlekedhet.
 [^141]: A 17. § (1) bekezdésének x/1. pontját a 104/1997. (VI. 18.) Korm. rendelet 10. §-a iktatta a szövegbe.
 [^142]: A 17. § (1) bekezdés y/1. pontját a 289/2009. (XII. 18.) Korm. rendelet 8. § (5) bekezdése iktatta be.
 [^143]: A 17. § (2) bekezdése a 28/2001. (II. 15.) Korm. rendelet 7. §-ának (5) bekezdésével megállapított szöveg.
-[^144]: A 17. § (3) bekezdését a 28/2001. (II. 15.) Korm. rendelet 7. §-ának (6) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
-[^145]: A 17. § (4) bekezdését a 28/2001. (II. 15.) Korm. rendelet 7. §-ának (6) bekezdése iktatta a szövegbe.
+[^144]: A 17. § (2a) bekezdését a 183/2019. (VII. 26.) Korm. rendelet 1. §-a iktatta be.
+[^145]: A 17. § (3) bekezdését a 28/2001. (II. 15.) Korm. rendelet 7. §-ának (6) bekezdése iktatta be, szövege a 289/2009. (XII. 18.) Korm. rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^146]: A 17. § (4) bekezdését a 28/2001. (II. 15.) Korm. rendelet 7. §-ának (6) bekezdése iktatta a szövegbe.

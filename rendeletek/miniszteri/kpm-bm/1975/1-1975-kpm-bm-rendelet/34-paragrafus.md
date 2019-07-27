@@ -42,7 +42,7 @@ e) útkereszteződésben, és közvetlenül útkereszteződés előtt, kivéve
 
 – ha a forgalmat rendőr vagy fényjelző készülék irányítja és az előzés az úttest menetirány szerinti bal oldalának igénybevételével nem jár,
 
-–[^216] ha a jármű főútvonalon vagy olyan más úton halad, amelyen elsőbbségét jelzőtábla [16. § (1) bek. u) pont] jelzi,
+–[^217] ha a jármű főútvonalon vagy olyan más úton halad, amelyen elsőbbségét jelzőtábla [16. § (1) bek. u) pont] jelzi,
 
 – körforgalmú úton,
 
@@ -50,4 +50,4 @@ e) útkereszteződésben, és közvetlenül útkereszteződés előtt, kivéve
 
 (9) A (8) bekezdés d) és e) pontjában meghatározott tilalom nem vonatkozik a kétkerekű motorkerékpárnak, segédmotoros kerékpárnak és kerékpárnak gépjárművel való előzésére.
 
-[^216]: A 34. § (8) bekezdés e) pontjának második fordulata a 2/1984. (I. 29.) KM–BM együttes rendelet 20. §-ával megállapított szöveg.
+[^217]: A 34. § (8) bekezdés e) pontjának második fordulata a 2/1984. (I. 29.) KM–BM együttes rendelet 20. §-ával megállapított szöveg.

@@ -16,6 +16,6 @@ d) a jármű ablakán vagy ajtaján kihajolni.
 
 (4) Menetrend szerint közlekedő járműre a megállóhelyen kívül felszállni, illetőleg arról leszállni abban az esetben szabad, ha a jármű személyzete erre előzetesen – szóban vagy a vezető által működtetett ajtók kinyitásával – engedélyt adott. Olyan megállóhelynél, ahol a fel- és leszállás közvetlenül az úttestről, illetőleg az úttestre történik, akkor szabad a járdáról az úttestre lépni, ha a jármű a megállóhelyen megállt.
 
-(5)[^179] Veszélyes anyagot szállító járművön a vezetőn és a kísérőn kívül személyt szállítani tilos.
+(5)[^180] Veszélyes anyagot szállító járművön a vezetőn és a kísérőn kívül személyt szállítani tilos.
 
-[^179]: A 23. § (5) bekezdését a 104/1997. (VI. 18.) Korm. rendelet 13. §-a iktatta a szövegbe.
+[^180]: A 23. § (5) bekezdését a 104/1997. (VI. 18.) Korm. rendelet 13. §-a iktatta a szövegbe.
