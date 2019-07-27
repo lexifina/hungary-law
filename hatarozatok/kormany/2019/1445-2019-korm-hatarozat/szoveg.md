@@ -26,4 +26,6 @@ külgazdasági és külügyminiszter
 
 Határidő: folyamatos, a Jedlik Ányos Terv felülvizsgálatáról szóló dokumentumban meghatározott határidőkkel összhangban
 
-4. visszavonja a Jedlik Ányos Tervhez kapcsolódó jogalkotási feladatokról szóló 1487/2015. (VII. 21.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
