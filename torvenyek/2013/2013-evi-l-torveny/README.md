@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-50-00-00
 | 2019-01-01 | 2018. évi CXXI. törvény | 2013-50-00-00.15 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2013-50-00-00.16 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2013-50-00-00.17 |
+| 2019-07-27 | 2019. évi LV. törvény | 2013-50-00-00.18 |
