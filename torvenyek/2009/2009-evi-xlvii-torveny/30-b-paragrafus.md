@@ -2,7 +2,7 @@
 
 a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, valamint aki előzetes kényszergyógykezelés alatt áll,
 
-b) akivel szemben olyan bűnügyi felügyeletet rendeltek el, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
+b) akivel szemben ideiglenes kiadatási bűnügyi felügyeletet vagy ideiglenes átadási felügyeletet rendeltek el, illetve olyan bűnügyi felügyeletet vagy ideiglenes végrehajtási bűnügyi felügyeletet rendeltek el, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
 
 c) akit végrehajtandó szabadságvesztésre ítéltek, illetve akinek felfüggesztett vagy részben felfüggesztett szabadságvesztése végrehajtását utóbb elrendelték,
 

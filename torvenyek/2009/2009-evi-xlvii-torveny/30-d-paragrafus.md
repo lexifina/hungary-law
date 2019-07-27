@@ -1,4 +1,4 @@
-30/D. § (1) A személyazonosító adatokat, valamint a 30/C. § b), c), d), e), f), h) pontjában, i) pont ia)–ic) alpontjában és l) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely e törvény rendelkezései szerint
+30/D. § (1) A személyazonosító adatokat, valamint a 30/C. § b)–f), h) pontjában, i) pont ia)–ic) alpontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely e törvény rendelkezései szerint
 
 a) kényszerintézkedés elrendelése esetén a büntetőeljárás hatálya alatt állók nyilvántartásába,
 
@@ -8,11 +8,17 @@ c) kényszergyógykezelés vagy javítóintézeti nevelés elrendelése esetén 
 
 teljesítendő adatközlésre köteles.
 
-(2) A kiadatási letartóztatás, ideiglenes kiadatási letartóztatás, átadási letartóztatás, ideiglenes átadási letartóztatás, valamint ideiglenes végrehajtási letartóztatás elrendelésével kapcsolatos adatokat a határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
+(1a) A 30/C. § l) pontjában meghatározott tényt
+
+a) az (1) bekezdésében meghatározott bíróság közli a bűnügyi nyilvántartó szervvel, illetve
+
+b) a bűnügyi nyilvántartó szerv az útiokmány-nyilvántartás adatai alapján automatikusan jegyzi be.
+
+(2) A kiadatási letartóztatás, ideiglenes kiadatási letartóztatás, ideiglenes kiadatási bűnügyi felügyelet, átadási letartóztatás, ideiglenes átadási letartóztatás, ideiglenes átadási bűnügyi felügyelet, ideiglenes végrehajtási letartóztatás, valamint ideiglenes végrehajtási bűnügyi felügyelet elrendelésével kapcsolatos adatokat a határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (3) A kényszerintézkedés és egyéb korlátozás megszüntetését – a (3a) bekezdésében meghatározott kivétellel – a határozatot hozó bíróság vagy ügyészség közli a bűnügyi nyilvántartó szervvel.
 
-(3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az átadási letartóztatás vagy az ideiglenes átadási letartóztatás azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a Nemzetközi Bűnügyi Együttműködési Központ közli a bűnügyi nyilvántartó szervvel.
+(3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az ideiglenes kiadatási bűnügyi felügyelet, az átadási letartóztatás, az ideiglenes átadási letartóztatás vagy az ideiglenes átadási bűnügyi felügyelet azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a Nemzetközi Bűnügyi Együttműködési Központ közli a bűnügyi nyilvántartó szervvel.
 
 (4) A 30/C. § j) pontjában meghatározott adatot a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
 

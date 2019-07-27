@@ -2,7 +2,7 @@
 
 a) a kapcsolati kódot,
 
-b) az elrendelt kényszerintézkedés és egyéb korlátozás tényét, időtartamát, illetve megszűnése vagy megszüntetése tényét; valamint az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi döntés szerinti új időtartamot; továbbá abban az esetben, ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az átadási letartóztatás vagy az ideiglenes átadási letartóztatás azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás tényét és időpontját,
+b) az elrendelt kényszerintézkedés és egyéb korlátozás tényét, időtartamát, illetve megszűnése vagy megszüntetése tényét; valamint az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi döntés szerinti új időtartamot; továbbá abban az esetben, ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az ideiglenes kiadatási bűnügyi felügyelet, az átadási letartóztatás, az ideiglenes átadási letartóztatás vagy az ideiglenes átadási bűnügyi felügyelet azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás tényét és időpontját,
 
 c) a kiszabott végrehajtandó szabadságvesztés tényét és mértékét, valamint a részben felfüggesztett szabadságvesztés büntetés tényét és végrehajtandó részének mértékét,
 
@@ -34,4 +34,4 @@ j) a szabadságvesztés előjegyzett utolsó napját,
 
 k) a javítóintézeti nevelésből elbocsátás napját, a javítóintézetből történő ideiglenes elbocsátás napját, az ideiglenes elbocsátás leteltének napját, valamint
 
-l) a 30/B. § a), b), c), d) és e) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén annak tényét, hogy a terhelt vagy az elítélt a jogerős ügydöntő határozat vagy a véglegessé vált nem ügydöntő végzés meghozatalakor érvényes úti okmánnyal rendelkezett.
+l) annak tényét, hogy az arra jogosult szervek adatközlése szerint az érintett személy érvényes úti okmánnyal rendelkezik.
