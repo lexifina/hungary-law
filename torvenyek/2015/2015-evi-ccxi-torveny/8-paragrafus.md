@@ -12,7 +12,9 @@ d) a 7. § szerinti tűzvédelmi hatósági feladatok, valamint a hatósági elj
 
 e) a kéményseprő-ipari szervnek, kéményseprő-ipari szolgáltatónak az ingatlan tulajdonosa, használója értesítésével összefüggő feladatait;
 
-f) a szén-monoxid-érzékelő berendezésekkel összefüggő piacfelügyeleti hatósági feladatokat ellátó szervet, valamint a szén-monoxid-érzékelő berendezéssel kapcsolatos piacfelügyeleti hatósági eljárások részletes szabályait.
+f) a szén-monoxid-érzékelő berendezésekkel összefüggő piacfelügyeleti hatósági feladatokat ellátó szervet, valamint a szén-monoxid-érzékelő berendezéssel kapcsolatos piacfelügyeleti hatósági eljárások részletes szabályait;
+
+g) az ingatlan használójának, tulajdonosának, vagyonkezelőjének, valamint a társasházak, lakásszövetkezetek képviseletét ellátónak – a kéményseprő-ipari feladatok ellátása érdekében az ingatlan azonosításának céljából – a kéményseprő-ipari szerv részére történő adatszolgáltatása és a kéményseprő-ipari szervvel történő együttműködése részletes szabályait.
 
 (2) Felhatalmazást kap a településüzemeltetésért, kéményseprő-ipari tevékenységért felelős miniszter, hogy rendeletben állapítsa meg
 

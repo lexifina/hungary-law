@@ -6,7 +6,7 @@
 
 a) eljár a 3. § (2) bekezdésében meghatározott, az élet és a vagyonbiztonság közvetlen veszélyeztetése esetében;
 
-b) eljár az ingatlan tulajdonosával szemben az e törvényben és külön jogszabályban a kéményseprő-ipari tevékenységgel kapcsolatban meghatározott kötelezettség nem teljesítése esetén, és legfeljebb harmincezer forint összegű bírságot szabhat ki;
+b) eljár az ingatlan tulajdonosával szemben – a kéményseprő-ipari díj- és költségtérítés-fizetési kötelezettség nem teljesítése esetét kivéve – a kéményseprő-ipari tevékenységgel kapcsolatban jogszabályban meghatározott kötelezettség nem teljesítése esetén, és legfeljebb harmincezer forint összegű bírságot szabhat ki,
 
 c) eljár az ingatlan használója, tulajdonosa panaszának az 5. § (11) bekezdés szerinti eljárás utáni fennmaradása esetén a panaszokról és a közérdekű bejelentésekről szóló törvény alapján;
 
@@ -26,11 +26,17 @@ a) a kéményseprő-ipari szolgáltató képviseletét ellátó természetes sze
 
 b) a kéményseprő-ipari szolgáltató vagy képviselője telefonszámát, elektronikus levélcímét, székhelyét és telephelyét,
 
-c) a kéményseprő-ipari tevékenység megkezdésének és befejezésének időpontját.
+c) a kéményseprő-ipari tevékenység megkezdésének és befejezésének időpontját,
+
+d) a kéményseprő-ipari szolgáltató ügyfélszolgálatának címét, telefonszámát, elektronikus elérhetőségét, honlapját,
+
+e) a kéményseprő-ipari szolgáltató ellátási területét és a 2. § (1) bekezdése szerint ellátandó ingatlankört.
 
 (5) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a kéményseprő-ipari szolgáltató és képviselője telefonszámának, elektronikus levélcímének kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(6) A (4) bekezdés szerinti nyilvántartásba jogszabályban meghatározott szakmai, személyi, tárgyi és gazdasági feltételeknek megfelelő azon kéményseprő-ipari szolgáltató vehető fel, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott módon kérte a nyilvántartásba történő felvételét. A (4) bekezdés szerinti nyilvántartásba fel nem vett kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenységet nem végezhet.
+(6) A (4) bekezdés szerinti nyilvántartásba jogszabályban meghatározott szakmai, személyi, tárgyi és gazdasági feltételeknek megfelelő azon gazdálkodó szervezet vehető fel, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott módon kérte a nyilvántartásba történő felvételét. A (4) bekezdés szerinti nyilvántartásba fel nem vett gazdálkodó szervezet kéményseprő-ipari tevékenységet nem végezhet.
+
+(6a) Ha a (4) bekezdés szerinti nyilvántartásba fel nem vett gazdálkodó szervezet kéményseprő-ipari tevékenységet végez, e gazdálkodó szervezet esetében a (7) bekezdést megfelelően alkalmazni kell.
 
 (7) A tűzvédelmi hatóság
 

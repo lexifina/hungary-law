@@ -32,4 +32,14 @@
 
 15. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik;
 
-16. egylakásos ingatlan: nem társasházként vagy szövetkezeti házként nyilvántartott lakóingatlan.
+16. egylakásos ingatlan: nem társasházként vagy szövetkezeti házként nyilvántartott lakóingatlan;
+
+17. ellátási terület: a megye (főváros) közigazgatási területének azon része, amelyen
+
+a) a kéményseprő-ipari szerv a 10. § (1) bekezdés b) pontja szerinti esetben a 2. § (1) bekezdés a) pontja szerinti ingatlanok körében, valamint a 2. § (11) bekezdés szerinti esetben a 2. § (1) bekezdés a) és b) pontja szerinti ingatlanok körében,
+
+b) a kéményseprő-ipari szolgáltató – a tűzvédelmi hatóság által a 7. § (4) bekezdése szerint vezetett nyilvántartásba történt felvételt követően – a 2. § (1) bekezdés b) pontja szerinti ingatlanok körében, vagy
+
+c) a 10. § (3) bekezdése szerinti szolgáltató a 10. § (1) bekezdés a) pontja szerinti esetben a 2. § (1) bekezdés a) és b) pontja szerinti ingatlanok körében
+
+kéményseprő-ipari tevékenységet végez.

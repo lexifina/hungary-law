@@ -10,7 +10,15 @@ b) tartalék égéstermék-elvezetőt tart fenn.
 
 a) a kéményseprő-ipari szerv vagy a kéményseprő-ipari szolgáltató 2. § (4) és (5) bekezdésében meghatározott feladatainak ellátását lehetővé tenni és az ehhez szükséges feltételeket biztosítani;
 
-b) a kéményseprő-ipari szervnek, a kéményseprő-ipari szolgáltatónak a tevékenysége során megadni a családi és utónevét, a lakóhelyének, tartózkodási és értesítési helyének címét (a továbbiakban: személyes adat), az ingatlan címadatait, valamint a gazdálkodó szervezet nevét, székhelyét, telephelyét, fióktelepét, képviselőjének nevét, cégjegyzékszámát vagy egyéb nyilvántartási számát;
+b) a kéményseprő-ipari szervnek, a kéményseprő-ipari szolgáltatónak azok tevékenysége során megadni
+
+ba) a családi és utónevét, lakóhelyének, tartózkodási és értesítési helyének címét, valamint, ha arról tudomása van, az ingatlan tulajdonosának családi és utónevét, lakóhelye, tartózkodási és értesítési helye címét,
+
+bb) az ingatlan címadatait,
+
+bc) ha az ingatlan gazdálkodó szervezet székhelye, telephelye vagy fióktelepe, ennek tényét, valamint a gazdálkodó szervezet elnevezését, székhelyét, cégjegyzékszámát vagy egyéb nyilvántartási számát, képviselőjét,
+
+bd) az ingatlan jellegét, így különösen, hogy az ingatlan társasház, lakásszövetkezeti lakóépület vagy egylakásos ingatlan,
 
 c)
 
@@ -72,6 +80,6 @@ d) vonatkozó műszaki követelményeknek való megfelelőségére vonatkozó in
 
 (10) A piacfelügyeleti hatóság a (9) bekezdés szerinti nyilvántartást honlapján közzéteszi.
 
-(11) Az ingatlan használója vagy tulajdonosa a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenységével kapcsolatos panaszával – más hatósági eljárásokat megelőzően – köteles igazolható módon a kéményseprő-ipari szolgáltatóhoz fordulni.
+(11) Az ingatlan használója vagy tulajdonosa a kéményseprő-ipari szerv vagy a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenységével kapcsolatos panaszával – más hatósági eljárásokat megelőzően – köteles igazolható módon a kéményseprő-ipari szervhez, illetve a kéményseprő-ipari szolgáltatóhoz fordulni.
 
 (12) Az ingatlan használója jogosult a kéményseprő-ipari szervvel és a kéményseprő-ipari szolgáltatóval elektronikus úton kapcsolatot tartani.
