@@ -78,14 +78,20 @@
 
 ## k) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a Magyar Falu Program részeként ütemezetten megvalósuló, kistelepüléseket érintő útfelújításokról szóló 1792/2018. (XII. 21.) Korm. határozat 6. pontjában foglaltak végrehajtása érdekében, a j) alpont szerinti éven túli korlát mértékéig a 2020. év vonatkozásában összesen legfeljebb 13 000 000 000 forint összegben kötelezettséget vállaljon.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontjában a „2019. június 30.” szövegrész helyébe a „2019. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A Tokaji borvidék közösségi infrastruktúra alapprogram megvalósítása érdekében szükséges többletforrás biztosításáról, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1943/2015. (XII. 15.) Korm. határozatban meghatározott egyes határidők módosításáról szóló 1198/2018. (IV. 4.) Korm. határozat 2. pontjában a „2019. június 30-ában” szövegrész helyébe a „2019. december 15-ében” szöveg lép.
+## 3.[^2]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 1. pont b) alpontjában a „2019. december 31.” szövegrész helyébe a „2019. december 31., a Terrorelhárítási Központ cím javára biztosított 504 400 000 forint tekintetében 2020. június 30.” szöveg lép.
+## 4.[^3]
 
-## 5. Az Országvédelmi Alapból történő átcsoportosításról, a fejezeti stabilitási tartalék előirányzat felhasználásáról, a Szociális célú nem állami humánszolgáltatások támogatása fejezeti kezelésű előirányzat túllépésének jóváhagyásáról és egyes kormányhatározatok módosításáról szóló 1603/2018. (XI. 27.) Korm. határozat 1. pont a) alpontjában a „2019. június 30.” szövegrész helyébe a „2019. június 30., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára biztosított 593 143 539 forintból 38 100 000 forint tekintetében 2019. december 31.” szöveg lép.
+## 5.[^4]
 
-## 6. A XI. Miniszterelnökség fejezet és a XV. Pénzügyminisztérium fejezet közötti előirányzat-átcsoportosításról szóló 1781/2018. (XII. 21.) Korm. határozat 2. pontjában a „2019. július 31.” szövegrész helyébe a „2019. december 31.” szöveg lép.
+## 6.[^5]
 
 1. melléklet az 1432/2019. (VII. 26.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
