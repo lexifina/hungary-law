@@ -32,4 +32,6 @@
 
 | 15 | Diagnosztikai eredmények | vércsoport | vércsoport meghatározás időpontja |
 
-4. melléklet a 39/2016. (XII. 21.) EMMI rendelethez
+4. melléklet a 39/2016. (XII. 21.) EMMI rendelethez[^13]
+
+[^13]: A 4. melléklet a 14/2019. (VII. 26.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.

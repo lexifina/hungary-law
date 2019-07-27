@@ -22,6 +22,8 @@
 
 | 10 | Műtéti leírás | 4 óra | kötelező |
 
+| 11 | Mentési lap | 4 óra | kötelező |
+
 5. melléklet a 39/2016. (XII. 21.) EMMI rendelethez
 
 Jelentéstételi és adatszolgáltatási kötelezettségek
