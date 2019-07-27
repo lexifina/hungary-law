@@ -1,1 +1,1 @@
-4. §
+4. § Az Nytv. 29/D. § (1) bekezdésében az „Az állandó személyazonosító igazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.)” szövegrész helyébe az „Az állandó személyazonosító igazolvány a Nektv.” szöveg lép.
