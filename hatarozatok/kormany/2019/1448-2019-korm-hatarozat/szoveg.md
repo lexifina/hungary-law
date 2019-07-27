@@ -54,4 +54,6 @@ bk) Tüttő Kata, Budapest Főváros XII. Kerületi Önkormányzat képviselője
 
 bl) Dr. Vántsa Botond, Szigetszentmiklós Város alpolgármestere;
 
-2. visszavonja az Európai Unió Régiók Bizottsága Nemzeti Delegáció tagjainak és póttagjainak jelöléséről szóló 1687/2018. (XII. 17.) Korm. határozatot.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
