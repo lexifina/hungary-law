@@ -36,6 +36,6 @@ a) az 1. § (3) bekezdés a) pontja szerinti személyek esetében a személyiada
 
 b) az 1. § (3) bekezdés b) pontja szerinti személyek esetében a kártyafelhasználó halálának tényéről és időpontjáról az ezt igazoló okirat bemutatásával bárki bejelentést tehet a működtetőnél.
 
-(9) A működtető az (5) bekezdés szerinti törlésről és a kártya érvénytelenként való megjelöléséről értesíti a kártyakibocsátót.
+(9) A működtető az (5) bekezdés szerinti törlésről és a kártya érvénytelenként való megjelöléséről automatikus információátadás keretében értesíti a kártyakibocsátót.
 
 (10) A (3) bekezdés c) és e) pontja szerinti esetben a kártya érvénytelenségének tényéről a kártyakibocsátó haladéktalanul értesíti a működtetőt.

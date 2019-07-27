@@ -6,13 +6,13 @@
 
 (4) A kártyakibocsátási kérelem tartalmazza
 
-a) gazdálkodó szervezet kérelmező esetén
+a) gazdálkodó vagy civil szervezet kérelmező esetén
 
 aa) nyilvántartási számát,
 
 ab) nevét,
 
-ac) a szervezet képviseletére jogosultak nevét, természetes személy esetén lakóhelyét, születési helyét és idejét, anyja születési nevét, jogi személy esetén székhelyét és nyilvántartási számát,
+ac) a szervezet képviseletére jogosultak nevét, természetes személy esetén lakóhelyét, születési helyét- és idejét, anyja születési nevét, jogi személy esetén székhelyét és nyilvántartási számát,
 
 b) ha költségvetési szerv és közfeladatot ellátó más szerv az 1. § (4) bekezdés b) pontja alapján kérelmezi a csatlakozást, akkor a szerv nevét és a szerv vezetőjének nevét,
 

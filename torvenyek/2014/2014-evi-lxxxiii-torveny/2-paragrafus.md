@@ -12,7 +12,7 @@
 
 5. kártya: az elsődleges kártya és a másodlagos kártya,
 
-6. kártyaelfogadó: a kártya alapján szolgáltatást nyújtó, jogot, kedvezményt biztosító természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
+6. kártyaelfogadó: az a természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely – kedvezmény vagy szolgáltatás kártyafelhasználó általi igénybevétele céljából – a kártya olvasására a jelen törvényben meghatározott adatok vonatkozásában jogosult,
 
 7. kártyafelhasználó: az a természetes személy, aki a birtokában lévő, e törvény alapján kibocsátott kártyával igazolja valamely jogosultságát vagy szolgáltatást vesz igénybe,
 

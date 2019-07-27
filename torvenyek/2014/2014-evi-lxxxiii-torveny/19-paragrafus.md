@@ -6,7 +6,7 @@ b) a kibocsátott elsődleges kártya egyedi azonosítóit, másodlagos kártya 
 
 c) a kártyakibocsátás és kártyaelőállítás során végrehajtott valamennyi adatkezelési művelet tényét és idejét,
 
-d) a kártya kibocsátásának, érvényességének dátumát,
+d) a kártya kibocsátásának, érvényességének dátumát, érvénytelenségének tényét,
 
 e) a kiadott, bevont és érvénytelenített elsődleges kártyák egyedi azonosítóit, másodlagos kártya esetén az elektronikus egyedi azonosítót, valamint annak az elsődleges kártyának az egyedi azonosítóit, melyhez hozzárendelték,
 

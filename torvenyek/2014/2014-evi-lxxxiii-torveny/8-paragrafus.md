@@ -4,7 +4,7 @@
 
 a) a kártyakibocsátás lehetővé tétele céljából, valamint
 
-b) a kártyafelhasználás folyamatos informatikai kiszolgálása érdekében
+b) a kártyafelhasználás támogatása érdekében
 
 központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) vezet.
 

@@ -18,7 +18,7 @@ csatlakozhat.
 
 a) törvény vagy törvény felhatalmazása alapján jogszabály a csatlakozásra kijelölt, vagy
 
-b) az e törvény szerinti hatósági eljárásban kártyakibocsátásra feljogosítottak.
+b) az e törvény szerinti hatósági eljárásban kiadott engedély kártyakibocsátásra jogosít.
 
 (5) A (4) bekezdés a) pontja szerinti esetben
 
