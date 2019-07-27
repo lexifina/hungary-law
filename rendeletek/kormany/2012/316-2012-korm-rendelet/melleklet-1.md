@@ -1,6 +1,6 @@
-## 11. §[^35]
+## 11. §[^36]
 
-1. melléklet a 316/2012. (XI. 13.) Korm. rendelethez[^36]
+1. melléklet a 316/2012. (XI. 13.) Korm. rendelethez[^37]
 
 ## A Főigazgatóság Központi szervének közvetlen fenntartásában lévő intézmények
 
@@ -28,5 +28,10 @@
 
 1032 Budapest, Szőlő utca 60.
 
-[^35]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: Az 1. melléklet a 448/2016. (XII. 19.) Korm. rendelet 45. §-ával megállapított szöveg.
+7.[^38] Emberi Erőforrások Minisztériuma Nagykanizsai Javítóintézete
+
+8800 Nagykanizsa, Kemping út 6.
+
+[^36]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: Az 1. melléklet a 448/2016. (XII. 19.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^38]: Az 1. melléklet 7. pontját a 180/2019. (VII. 26.) Korm. rendelet 7. § (3) bekezdése iktatta be.
