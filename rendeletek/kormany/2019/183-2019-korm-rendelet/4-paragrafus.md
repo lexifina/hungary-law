@@ -1,0 +1,1 @@
+## „(3) Az (1) bekezdés c) pontjában meghatározott jármű esetében a (2) bekezdés a), d) és e) pontját, az (1) bekezdés i)–n) pontjában szereplő járműnél a (2) bekezdés d) és e) pontját megfelelően alkalmazni kell, ha ez a tevékenység végzése érdekében elkerülhetetlen, a személy- és vagyonbiztonságot nem veszélyezteti, és a forgalmat lényegesen nem akadályozza.”
