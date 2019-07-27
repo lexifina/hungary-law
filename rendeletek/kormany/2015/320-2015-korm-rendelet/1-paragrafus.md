@@ -32,17 +32,23 @@ i) azon beszerzésekre, amelyek megvalósítása európai uniós alapokból, vag
 
 j) az i) pontban meghatározott beszerzéseken túlmenően azon beszerzésekre, amelyek fedezetét legalább 50%-ban nem az államháztartás alrendszereiből vagy az államháztartásról szóló 2011. évi CXCV. törvény 3/A. §-a szerinti közfeladat ellátásából származó pénzeszközök biztosítják;
 
-k)[^4] az állami felsőoktatási intézménynek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontjában meghatározott felsőoktatási kutatás-fejlesztési vállalkozási tevékenység érdekében, valamint 100. § (5) bekezdésében foglaltak érdekében történő beszerzéseire.
+k)[^4] az állami felsőoktatási intézménynek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontjában meghatározott felsőoktatási kutatás-fejlesztési vállalkozási tevékenység érdekében, valamint 100. § (5) bekezdésében foglaltak érdekében történő beszerzéseire;
 
-(3)[^5] Az (1) bekezdésében meghatározott szervezetek (a továbbiakban együttesen: érintett szervezet) közül a közalapítványok, a nem kizárólagos állami tulajdonban álló gazdálkodó szervezetek, valamint az (1) bekezdés d) pontjában meghatározott alapítványok e rendelet előírásait kizárólag az államháztartás alrendszereiből származó pénzeszközök felhasználásával történő beszerzéseikre, szerződéskötéseikre kötelesek alkalmazni.
+l)[^5] a Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési rendszeréről szóló 247/2014. (X. 1.) Korm. rendelet 10. § (1) bekezdése szerinti beszerzésekre, valamint a Nemzeti Kommunikációs Hivatal működésével összefüggésben álló beszerzésekre,
+
+m)[^6] a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet) 13. § (1) bekezdés a) pontja szerinti beszerzésekre, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság működésével összefüggésben álló beszerzésekre.
+
+(3)[^7] Az (1) bekezdésében meghatározott szervezetek (a továbbiakban együttesen: érintett szervezet) közül a közalapítványok, a nem kizárólagos állami tulajdonban álló gazdálkodó szervezetek, valamint az (1) bekezdés d) pontjában meghatározott alapítványok e rendelet előírásait kizárólag az államháztartás alrendszereiből származó pénzeszközök felhasználásával történő beszerzéseikre, szerződéskötéseikre kötelesek alkalmazni.
 
 (4) E rendelet 15–17. §-ának rendelkezéseit nem kell alkalmazni az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság által az államadósság-kezelés körében megkötésre kerülő azon szerződésekre, amelyekre közbeszerzési eljárást a közbeszerzési törvény 9. § (8) bekezdés e) pontja alapján nem kell lefolytatni, továbbá ezen eljárások eredményeként kötött szerződések módosítására.
 
-(5)[^6] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
+(5)[^8] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 66/2019. (III. 27.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés d) pontja a 206/2016. (VII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés e) pontja a 101/2018. (VI. 11.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés k) pontja a 473/2015. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: Az 1. § (3) bekezdése a 29/2017. (II. 13.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
-[^6]: Az 1. § (5) bekezdését az 50/2019. (III. 14.) Korm. rendelet 2. §-a iktatta be.
+[^5]: Az 1. § (2) bekezdés l) pontját a 182/2019. (VII. 26.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^6]: Az 1. § (2) bekezdés m) pontját a 182/2019. (VII. 26.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^7]: Az 1. § (3) bekezdése a 29/2017. (II. 13.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^8]: Az 1. § (5) bekezdését az 50/2019. (III. 14.) Korm. rendelet 2. §-a iktatta be.
