@@ -1,4 +1,4 @@
-14. §[^24] (1) A 13. § (1) bekezdés a) pontja szerinti esetben az érintett szervezet a DKÜ részére közbeszerzési díjat fizet.
+14. §[^76] (1) A 13. § (1) bekezdés a) pontja szerinti esetben az érintett szervezet a DKÜ részére közbeszerzési díjat fizet.
 
 (2) Az (1) bekezdés szerinti közbeszerzési díj mértéke legfeljebb
 
@@ -12,7 +12,7 @@ d) keretmegállapodás alapján lefolytatott közbeszerzési eljárás esetén a
 
 lehet.
 
-(3) A 13. § (1) bekezdés a) pontja szerinti eljárás megindításának feltétele, hogy az érintett szervezet a DKÜ részére a beszerzés Kbt. szerinti – egybeszámítás nélküli – becsült értékének a DKÜ által meghatározott mértékét, de legfeljebb 1%-át előlegként megfizesse.
+(3)[^77] A 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás megindításának feltétele, hogy az érintett szervezet a DKÜ részére a beszerzés Kbt. szerinti – egybeszámítás nélküli – becsült értékének a DKÜ által meghatározott mértékét, de legfeljebb 1%-át előlegként megfizesse.
 
 (4) A (2) bekezdés szerinti közbeszerzési díj megfizetésére az érintett szervezet nem köteles, továbbá részére a már megfizetett előleg vagy közbeszerzési díj visszajár, ha a (2) bekezdés szerinti beszerzési eljárás olyan okból vált eredménytelenné, amelyért a DKÜ felelős.
 
@@ -20,4 +20,5 @@ lehet.
 
 (6) A 13. § (3) bekezdés d)–e) pontjai alkalmazása esetén az érintett szervezetnek a más jogszabály szerinti közbeszerzési díjat megfizetnie nem kell, kizárólag az e rendelet előírásai szerint köteles a közbeszerzési díj megfizetésére.
 
-[^24]: A 14. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^76]: A 14. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^77]: A 14. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § o) pontja szerint módosított szöveg.

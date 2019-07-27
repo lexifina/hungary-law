@@ -1,4 +1,4 @@
-11. §[^21] (1) A DKÜ az érintett szervezet beszerzési igényét, ha annak Kbt. szerinti – nem egybeszámított – becsült értéke a 250 millió forintot eléri vagy meghaladja, vizsgálat alá vonja.
+11. §[^60] (1) A DKÜ az érintett szervezet beszerzési igényét, ha annak Kbt. szerinti – nem egybeszámított – becsült értéke a 250 millió forintot eléri vagy meghaladja, vizsgálat alá vonja.
 
 (2) A DKÜ a vizsgálatot a beszerzési igény Portálra történő feltöltésétől számított 15 munkanapon belül folytatja le, és az eredményről e határidőn belül az érintett szervezet tájékoztatja.
 
@@ -18,7 +18,7 @@ b) végrehajtásra nem javasolt
 
 (6) Ha az NHIT által kért felvilágosítást vagy hiánypótlást a DKÜ az érintett szervezet megkeresése nélkül is képes teljesíteni, a kérés kézhezvételétől számított 2 munkanapon belül a felvilágosítást, illetőleg a hiánypótlást az NHIT-nek megadja, egyébként a DKÜ az érintett szervezetet a kérés kézhezvételétől számított 2 munkanapon belül megkeresi.
 
-(7) Az érintett szervezet 2 munkanapon belül a DKÜ (6) bekezdése szerinti megkeresésében foglalt felvilágosítást megadja vagy hiánypótlást teljesíti. A DKÜ felvilágosítást vagy hiánypótlást 2 munkanapon belül továbbítja az NHIT részére.
+(7)[^61] Az érintett szervezet a megkereséstől számított 4 munkanapon belül a DKÜ (6) bekezdése szerinti megkeresésében foglalt felvilágosítást vagy hiánypótlást megadja. A DKÜ felvilágosítást vagy hiánypótlást a kézhezvételtől számított 2 munkanapon belül továbbítja az NHIT részére.
 
 (8) Ha a vizsgálat során a DKÜ azt állapítja meg, hogy a beszerzési igény
 
@@ -40,4 +40,5 @@ a beszerzési igényt „nem megfelelő” minősítéssel látja el.
 
 (10) Egyebekben az (1) bekezdés szerinti beszerzés vonatkozásában a 10. § (10)–(20) bekezdés rendelkezései megfelelően alkalmazandóak.
 
-[^21]: A 11. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^60]: A 11. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^61]: A 11. § (7) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (15) bekezdésével megállapított szöveg.

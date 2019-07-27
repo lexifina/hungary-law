@@ -6,7 +6,7 @@ a) a Nemzeti Hírközlési és Informatikai Tanácsra (a továbbiakban: NHIT),
 
 b)[^1] a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaságra (a továbbiakban: DKÜ).
 
-(2) Az informatikai beszerzések során e rendelet előírásai szerint jár el:
+(2)[^2] Az informatikai beszerzések során e rendelet előírásai szerint jár el:
 
 a) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, a Miniszterelnöki Kormányiroda,
 
@@ -14,37 +14,37 @@ b) az a) pontban szabályozott költségvetési szerv irányítása vagy felügy
 
 c) a Kormány által alapított, illetve a Kormány vagy a Kormány tagja alapítói joggyakorlása alá tartozó alapítvány és közalapítvány,
 
-d) a Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vagy más személy vagy szervezet tulajdonosi joggyakorlása alatt álló, az állam 100%-os tulajdonában lévő gazdasági társaság, vagy e gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság,
+d)[^3] a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyása alatt álló gazdasági társaság kivételével azon gazdasági társaság, amelyben az állam a Ptk. 8:2. §-a szerinti többségi befolyást gyakorol,
 
-e)[^2] az a)–d) pontokba nem tartozó olyan szervezet, amely a központosított közbeszerzési rendszerhez csatlakozást önként vállalja
+e)[^4] az a)–d) pontokba nem tartozó olyan szervezet, amely a központosított közbeszerzési rendszerhez csatlakozást önként vállalja
 
-[az a)–e) pont együtt a továbbiakban: érintett szervezet].
+[az a)–e) pont együtt a továbbiakban: érintett szervezet]].
 
-(2a)[^3] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
+(2a)[^5] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított azon vagyonkezelő alapítványokra, amelyek esetében az alapító az alapítói jog gyakorlására a kuratóriumot jelölte ki, illetve az alapítói jogait teljeskörűen a kuratóriumra ruházta át, valamint a fenntartói joggyakorlásuk alá tartozó intézményekre.
 
-(2b)[^4] A Kormány egyedi döntésével mentesítést adhat az e rendeletben foglalt központosított közbeszerzési eljárási szabályok alkalmazása alól, különös tekintettel törvényben meghatározott védelmi és biztonsági tárgyú informatikai beszerzések esetére, továbbá azon beszerzésekre, amelyek esetében az ország biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárásban előírható biztonsági intézkedésekkel nem garantálhatóak.
+(2b)[^6] A Kormány egyedi döntésével mentesítést adhat az e rendeletben foglalt központosított közbeszerzési eljárási szabályok alkalmazása alól, különös tekintettel törvényben meghatározott védelmi és biztonsági tárgyú informatikai beszerzések esetére, továbbá azon beszerzésekre, amelyek esetében az ország biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárásban előírható biztonsági intézkedésekkel nem garantálhatóak.
 
-(2c)[^5] A központosított közbeszerzési rendszerhez való önkéntes csatlakozásra a DKÜ engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–d) pontjai szerinti szervezetek e rendelet szerinti központosított beszerzési tevékenységen keresztül történő ellátását. Ennek érdekében a DKÜ az (1) bekezdés e) pontja szerinti szervezet központosított közbeszerzési rendszerhez való csatlakozását megtagadhatja vagy feltételhez kötheti.
+(2c)[^7] A központosított közbeszerzési rendszerhez való önkéntes csatlakozásra a DKÜ engedélyével akkor van lehetőség, ha az nem veszélyezteti az (1) bekezdés a)–d) pontjai szerinti szervezetek e rendelet szerinti központosított beszerzési tevékenységen keresztül történő ellátását. Ennek érdekében a DKÜ az (1) bekezdés e) pontja szerinti szervezet központosított közbeszerzési rendszerhez való csatlakozását megtagadhatja vagy feltételhez kötheti.
 
 (2d) A miniszterelnök a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 3/A. §-ában meghatározott jogkörét – az e rendeletben meghatározottak szerint – az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
 
 (3) E rendelet meghatározza
 
-a)[^6] a DKÜ feladatait és az eljárására vonatkozó szabályokat,
+a)[^8] a DKÜ feladatait és az eljárására vonatkozó szabályokat,
 
 b) az NHIT feladatait,
 
-c)[^7] az érintett szervezetek informatikai beszerzéssel összefüggő kötelezettségeit,
+c)[^9] az érintett szervezetek informatikai beszerzéssel összefüggő kötelezettségeit,
 
 d) a kormányzati központosított informatikai közbeszerzési rendszer részletes szabályait,
 
-e)[^8] a DKÜ által ellátott, a központosított közbeszerzés lefolytatása során e rendeletben meghatározott feladatokért fizetendő közbeszerzési díj mértékét,
+e)[^10] a DKÜ által ellátott, a központosított közbeszerzés lefolytatása során e rendeletben meghatározott feladatokért fizetendő közbeszerzési díj mértékét,
 
 f) az NHIT szervezetét, valamint
 
 g) az NHIT eljárására vonatkozó szabályokat.
 
-(4)[^9] E rendelet alkalmazásában
+(4)[^11] E rendelet alkalmazásában
 
 1. alkalmazás: azon – a beszerzési igény felmerülését megelőzően – még nem kifejlesztett számítógépes program, ideértve az egyedi felhasználású alapszoftvereket, a rendszerszoftvereket és az alkalmazói szoftvereket vagy szoftvercsoportokat, valamint az ezekhez kapcsolódó azon szolgáltatásokat, amelyeket az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter rendeletében meghatározott;
 
@@ -73,11 +73,13 @@ g) az NHIT eljárására vonatkozó szabályokat.
 13. üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezett beszerzési igény, amely kritikus működési kényszer miatt jelentkezik.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 83/2019. (IV. 18.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdése e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be.
-[^4]: Az 1. § (2b) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^5]: Az 1. § (2c) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^6]: Az 1. § (3) bekezdés a) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^7]: Az 1. § (3) bekezdés c) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (3) bekezdés e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^9]: Az 1. § (4) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés záró szövegrésze a 182/2019. (VII. 26.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés d) pontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdése e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be.
+[^6]: Az 1. § (2b) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (2c) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^8]: Az 1. § (3) bekezdés a) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (3) bekezdés c) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (3) bekezdés e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (4) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
-10. §[^20] (1) A DKÜ az érintett szervezet beszerzési igényét, ha annak Kbt. szerinti – nem egybeszámított – becsült értéke a 15 millió forintot eléri vagy meghaladja, de a 250 millió forintot nem éri el, vizsgálat alá vonja.
+10. §[^48] (1) A DKÜ az érintett szervezet beszerzési igényét, ha annak Kbt. szerinti – nem egybeszámított – becsült értéke a 15 millió forintot eléri vagy meghaladja, de a 250 millió forintot nem éri el, vizsgálat alá vonja.
 
 (2) A DKÜ a vizsgálatot a beszerzési igény Portálra történő feltöltésétől számított 12 munkanapon belül folytatja le, és az eredményről e határidőn belül az érintett szervezetet tájékoztatja.
 
-(3) A DKÜ a beszerzési igény minősítése előtt, a beszerzési igény Portálra történő feltöltésétől számított 3 munkanapon belül, ha az nem felel meg a jóváhagyott éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben foglaltaknak, vagy abban nem szerepel, az NHIT véleményét kéri. Az NHIT 3 munkanapon belül a DKÜ-nek jelzi, ha a beszerzésről nem kíván véleményt adni.
+(3)[^49] A DKÜ a beszerzési igény minősítése előtt, a beszerzési igény Portálra történő feltöltésétől számított kézhezvételtől számított 3 munkanapon belül, ha az nem felel meg a jóváhagyott éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben foglaltaknak, vagy abban nem szerepel, az NHIT véleményét kéri. Az NHIT kézhezvételtől számított3 munkanapon belül a DKÜ-nek jelzi, ha a beszerzésről nem kíván véleményt adni.
 
 (4) Ha az NHIT a (3) bekezdés szerinti határidőn belül nem közölte, hogy nem kíván véleményt adni, az NHIT a beszerzési igényre vonatkozó véleményét a kézhezvételtől számított 8 munkanapon belül köteles a DKÜ-vel közölni. Az NHIT a véleménye kialakítása előtt a miniszterrel egyeztethet. Az NHIT véleménye szerint a beszerzési igény
 
@@ -18,23 +18,23 @@ b) végrehajtásra nem javasolt
 
 (6) Ha az NHIT által kért felvilágosítást vagy hiánypótlást a DKÜ az érintett szervezet megkeresése nélkül is képes teljesíteni, a kérés kézhezvételétől számított 2 munkanapon belül a felvilágosítást, illetőleg a hiánypótlást az NHIT-nek megadja, egyébként a DKÜ az érintett szervezetet a kérés kézhezvételétől számított 2 munkanapon belül megkeresi.
 
-(7) Az érintett szervezet 2 munkanapon belül a DKÜ (6) bekezdése szerinti megkeresésében foglalt felvilágosítást megadja vagy hiánypótlást teljesíti. A DKÜ felvilágosítást vagy hiánypótlást 2 munkanapon belül továbbítja az NHIT részére.
+(7)[^50] Az érintett szervezet a megkereséstől számított 2 munkanapon belül a DKÜ (6) bekezdése szerinti megkeresésében foglalt felvilágosítást vagy hiánypótlást megadja. A DKÜ felvilágosítást vagy hiánypótlást a kézhezvételtől számított 2 munkanapon belül továbbítja az NHIT részére.
 
 (8) Ha a vizsgálat során a DKÜ azt állapítja meg, hogy a beszerzési igény
 
 a) megfelel a jóváhagyott éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben foglaltaknak,
 
-b) nem felel meg a jóváhagyott éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben foglaltaknak, de a saját, vagy ha azt kikérte, az NHIT véleménye szerint is a beszerzés végrehajtásra javasolt, vagy
+b)[^51] nem felel meg a jóváhagyott éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben foglaltaknak, de a saját, vagy ha az NHIT a beszerzési igényről a (4) bekezdés szerint véleményt adott, az NHIT véleménye szerint is a beszerzés végrehajtásra javasolt, vagy
 
-c) olyan rendkívüli informatikai beszerzésre vonatkozó igény vagy üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény, ami a tervekben nem szerepel, de a saját, vagy ha azt kikérte, az NHIT véleménye szerint is a beszerzés végrehajtásra javasolt,
+c)[^52] olyan rendkívüli informatikai beszerzésre vonatkozó igény vagy üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény, ami a tervekben nem szerepel, de a saját, vagy ha az NHIT a beszerzési igényről a (4) bekezdés szerint véleményt adott, az NHIT véleménye szerint is a beszerzés végrehajtásra javasolt,
 
 a beszerzési igényt „megfelelő” minősítéssel látja el.
 
 (9) Ha a vizsgálat során a DKÜ azt állapítja meg, hogy a beszerzési igény
 
-a) nem felel meg a jóváhagyott éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben foglaltaknak, és a saját, vagy ha azt kikérte, az NHIT véleménye szerint sem javasolt végrehajtásra a beszerzés, vagy
+a)[^53] nem felel meg a jóváhagyott éves informatikai beszerzési tervben vagy éves informatikai fejlesztési tervben foglaltaknak, és a saját, vagy ha az NHIT a beszerzési igényről a (4) bekezdés szerint véleményt adott, az NHIT véleménye szerint sem javasolt végrehajtásra a beszerzés, vagy
 
-b) olyan rendkívüli informatikai beszerzésre vonatkozó igény vagy üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény, ami a tervekben nem szerepel, és a saját, vagy ha azt kikérte, az NHIT véleménye szerint sem javasolt végrehajtásra a beszerzés,
+b)[^54] olyan rendkívüli informatikai beszerzésre vonatkozó igény vagy üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény, ami a tervekben nem szerepel, és a saját, vagy ha az NHIT a beszerzési igényről a (4) bekezdés szerint véleményt adott, az NHIT véleménye szerint sem javasolt végrehajtásra a beszerzés,
 
 ## a beszerzési igényt „nem megfelelő” minősítéssel látja el.
 
@@ -42,22 +42,33 @@ b) olyan rendkívüli informatikai beszerzésre vonatkozó igény vagy üzemszer
 
 (11) A „megfelelő” minősítésű beszerzési igény kapcsán a DKÜ a 13. § (1) bekezdése szerint jár el.
 
-(12) A DKÜ vizsgálata során a beszerzési igény vonatkozásában a 8. § (1)–(2) bekezdése megfelelően alkalmazandó, azzal, hogy a 8. § (1)–(2) bekezdésében foglalt határidők a (2) és (4) bekezdés szerinti határidőbe nem számítanak bele. Az NHIT által kért (5) bekezdés szerinti felvilágosítás, valamint hiánypótlás végrehajtásának időtartama alatt az NHIT részére megállapított (4) bekezdés szerinti határidő nyugszik.
+(12)[^55] A DKÜ vizsgálata során a beszerzési igény vonatkozásában a 8. § (1) és (2) bekezdése megfelelően alkalmazandó, azzal, hogy a beszerzési igény ismételt megküldéséig a DKÜ és az NHIT részére megállapított (2) és (4) bekezdés szerinti határidő nyugszik. Az NHIT által az (5) bekezdés szerint kért felvilágosítás, valamint hiánypótlás érintett szervezet általi teljesítéséig a DKÜ és az NHIT részére megállapított (2) és (4) bekezdés szerinti határidő nyugszik.
 
 (13) A (2) bekezdés szerinti határidő elteltéig az érintett szervezet beszerzési igényének kielégítésére szolgáló beszerzési eljárás nem indítható.
 
-(14) A (2) bekezdés szerinti határidő eredménytelen elteltét követően az érintett szervezet a beszerzési igényének kielégítésére saját hatáskörben intézkedik.
+(14)[^56] A (2) bekezdés szerinti határidő eredménytelen elteltét követően az érintett szervezet a beszerzési igényének kielégítésére saját hatáskörben intézkedhet azzal, hogy a beszerzésre a továbbiakban nem vonatkoznak az e rendeletben foglaltak.
 
 (15) A (4) bekezdés szerinti határidő eredménytelen elteltét követően úgy kell tekinteni, hogy az NHIT véleménye szerint a beszerzési igény végrehajtásra javasolt.
 
-(16) A „megfelelő” minősítésű beszerzési igény kielégítésére vonatkozó (8) bekezdés szerinti intézkedés a miniszter 12. § (4) bekezdése szerinti döntésének az érintett szervezettel való közléséig csak a 12. § (11) bekezdésére is figyelemmel hajtható végre. A miniszteri jóváhagyásra történő előterjesztésről a DKÜ gondoskodik.
+(16)[^57] A „megfelelő” minősítésű beszerzési igény kielégítésére vonatkozó (11) bekezdés szerinti intézkedést követő eljárás a miniszter 12. § (4) bekezdése szerinti döntésének az érintett szervezettel való közléséig csak a 12. § (11) bekezdésére is figyelemmel hajtható végre. A miniszteri jóváhagyásra történő előterjesztésről a DKÜ gondoskodik.
 
 (17) A DKÜ a miniszter 12. § (4) bekezdése szerinti döntését az erre okot adó körülmény bekövetkezését követő 2 munkanapon belül köteles az érintett szervezettel közölni.
 
-(18) Ha a beszerzési igény „megfelelő” minősítésű, de a miniszter azt nem hagyta jóvá, az átdolgozott igény véleményezésre, továbbá jóváhagyásra ismételten előterjeszthető.
+(18)[^58] Ha a beszerzési igény „megfelelő” minősítésű, de a miniszter azt elutasította, az átdolgozott igény véleményezésre, továbbá jóváhagyásra ismételten előterjeszthető.
 
-(19) Ha a beszerzési igény 7. § d) pontja szerinti üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény, annak kielégítésére szolgáló beszerzési eljárás a (13) bekezdéstől eltérően – a beszerzési igény Portálra való feltöltésével egy időben – indítható, azonban az így megkötött szerződés hatálybalépésének továbbra is feltétele az e § szerinti „megfelelő” minősítés és miniszteri jóváhagyás.
+(19)[^59] Ha a beszerzési igény 7. § d) pontja szerinti üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény, annak kielégítésére szolgáló beszerzési eljárás a (13) bekezdéstől eltérően – a beszerzési igény Portálra való feltöltésével egy időben – az érintett szervezet által saját hatáskörben – a 12. § (11) bekezdésére is figyelemmel – indítható, azonban az így megkötött szerződés hatálybalépésének továbbra is feltétele az e rendelet szerinti „megfelelő” minősítés és miniszteri jóváhagyás. Az e bekezdés szerint indított eljárás esetében a (2) bekezdés szerinti határidő eredménytelen elteltét követően úgy kell tekinteni, hogy a beszerzési igényt a DKÜ „megfelelő” minősítéssel látta el. Az e bekezdés szerint indított eljárás esetében a 13. § (1) bekezdés b) pontja szerinti beszerzési eljárásra vonatkozó, e rendelet szerinti előírások alkalmazandóak.
 
 (20) A DKÜ a vizsgálata során informatikai szakmai, közbeszerzési és jogi szempontokat is figyelembe vesz, a minősítést a rendelkezésre álló információk alapján alakítja ki. A DKÜ a „nem megfelelő” minősítés esetén a minősítést indokolni köteles.
 
-[^20]: A 10. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^48]: A 10. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^49]: A 10. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^50]: A 10. § (7) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^51]: A 10. § (8) bekezdés b) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^52]: A 10. § (8) bekezdés c) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^53]: A 10. § (9) bekezdés a) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^54]: A 10. § (9) bekezdés b) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^55]: A 10. § (12) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^56]: A 10. § (14) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
+[^57]: A 10. § (16) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
+[^58]: A 10. § (18) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^59]: A 10. § (19) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (14) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-4. §[^12] (1) A miniszter – a 3. § (1) bekezdésében foglaltak érvényesítése érdekében – az e rendeletben foglaltak szerint
+4. §[^14] (1) A miniszter – a 3. § (1) bekezdésében foglaltak érvényesítése érdekében – az e rendeletben foglaltak szerint
 
 a) jóváhagyja az egyes informatikai fejlesztések végrehajtását,
 
@@ -12,7 +12,7 @@ d) az a)–c) pontok szerinti tevékenységén keresztül felügyeli a Kormány 
 
 a) közreműködik a miniszter (1) bekezdésben meghatározott feladatainak ellátásában,
 
-b) javaslattevőként közreműködik az NHIT (3) bekezdés a) és b) pontja szerinti feladatainak ellátásában,
+b)[^15] javaslattevőként közreműködik az NHIT (3) bekezdés b) és c) pontja szerinti feladatainak ellátásában,
 
 c) vizsgálja, véleményezésre, jóváhagyásra előkészíti az érintett szervezetek
 
@@ -22,11 +22,11 @@ cb) informatikai beszerzési igényét,
 
 cc) rendkívüli informatikai beszerzésre vonatkozó igényét, valamint
 
-cd) üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igényét,
+cd)[^16] üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igényét [a cb)–cd) alpont a továbbiakban együtt: beszerzési igény],
 
-d) összehangolja az érintett szervezetek informatikai beszerzési igényeit,
+d)[^17] központi beszerző szervként – az e rendeletben meghatározott keretek között – összehangolja az érintett szervezetek beszerzési igényeit,
 
-e) központi beszerző szervként – az e rendeletben meghatározott keretek között – az érintett szervezetek nevében és javára eljárva lefolytatja az érintett szervek a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti informatikai beszerzéseit,
+e)[^18] központi beszerző szervként – az e rendeletben meghatározott keretek között – az érintett szervezetek javára eljárva – kizárólagos joggal – lefolytatja az érintett szervek a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti informatikai beszerzéseit,
 
 f) ellenőrzi az egyes informatikai beszerzések esetében e rendelet szabályainak betartását.
 
@@ -40,8 +40,13 @@ c) elemzi, értékeli és véleményezi a kormányzati informatikai fejlesztése
 
 d) a miniszterelnök felkérésére véleményezi a Kormány hírközléssel és informatikával összefüggő előterjesztéseit, egyedi döntéseit.
 
-(4) Az NHIT a kormányzati informatikai beszerzésekkel kapcsolatos stratégiai tudományos feladatkörében minden évben megvizsgálja a DKÜ által a miniszternek beterjesztett éves informatikai beszerzési terveket, valamint informatikai fejlesztési terveket.
+(4)[^19] Az NHIT a kormányzati informatikai beszerzésekkel kapcsolatos stratégiai tudományos feladatkörében minden évben megvizsgálja a DKÜ által a miniszteri jóváhagyásra előterjesztett éves informatikai beszerzési terveket, valamint informatikai fejlesztési terveket.
 
 (5) Az NHIT stratégiai tudományos tevékenysége keretében ellátja az e rendeletben részére meghatározott feladatokat.
 
-[^12]: A 4. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^14]: A 4. § a 83/2019. (IV. 18.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^15]: A 4. § (2) bekezdés b) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^16]: A 4. § (2) bekezdés c) pont cd) alpontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. § (2) bekezdés d) pontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^18]: A 4. § (2) bekezdés e) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^19]: A 4. § (4) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.

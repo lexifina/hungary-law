@@ -1,4 +1,4 @@
-12. §[^22] (1) A DKÜ által jóváhagyásra – e rendelet szerint – előterjesztett beszerzési és fejlesztési terv vagy beszerzési igény jóváhagyásáról a miniszter
+12. §[^62] (1) A DKÜ által jóváhagyásra – e rendelet szerint – előterjesztett beszerzési és fejlesztési terv vagy beszerzési igény jóváhagyásáról a miniszter
 
 a) a 10. § esetén a kézhezvételtől számított 5 munkanapon belül,
 
@@ -10,7 +10,7 @@ c) a 7. § d) pontja szerinti üzemszerű működés biztosításához szükség
 
 (2) A miniszter a megalapozott döntés érdekében, ha az szükséges, az (1) bekezdés szerinti határidőn belül
 
-a) a DKÜ-t új vizsgálat lefolytatására hívhatja fel,
+a)[^63] a 8. §-ban, a 10. §-ban és 11. §-ban meghatározott eljárás vonatkozásában a DKÜ-t új vizsgálat lefolytatására hívhatja fel,
 
 b) bármely központi államigazgatási szervet, érintett minisztert vagy állami vezetőt közvetlenül megkereshet, valamint
 
@@ -32,9 +32,9 @@ c) elutasítja.
 
 (7) A miniszter a döntésekor az e rendeletben meghatározott hatáskörében eljárva szabadon mérlegelhet, a döntését a rendelkezésre álló információk alapján hozza meg. A miniszternek az elutasító döntést nem kell indokolnia, azonban meghatározhatja azokat a szempontokat, amelyek alapján az átdolgozott beszerzési igény ismételten előterjeszthető.
 
-(8) Ha a miniszter a beszerzési vagy fejlesztési tervet vagy a beszerzési igényt elutasítja, az ismételten előterjeszthető.
+(8)[^64]
 
-(9) A (2) bekezdés a) pontja szerinti esetben az új vizsgálat időtartama, a (2) bekezdés b) pontja szerinti esetben a (3) bekezdés szerint válaszadásra előírt határidő, az (1) bekezdés szerinti határidőkbe nem számít bele.
+(9)[^65] A (2) bekezdés a) pontja szerinti esetben az új vizsgálat lefolytatásáig, a (2) bekezdés b) pontja szerinti esetben a (3) bekezdés szerinti tájékoztatás megadásáig, a miniszter részére megállapított (1) bekezdés szerinti határidő nyugszik.
 
 (10) Az (1) bekezdés szerinti határidők eredménytelen elteltét követően a beszerzési vagy fejlesztési tervet vagy a beszerzési igényt a miniszter által jóváhagyottnak kell tekinteni.
 
@@ -44,4 +44,7 @@ c) elutasítja.
 
 (13) A (6) bekezdés szerinti feltételek teljesülésének utólagos ellenőrzésére a DKÜ a feltételekkel történő jóváhagyás érintett szervvel történő közlésétől számított 24 hónapig jogosult.
 
-[^22]: A 12. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^62]: A 12. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^63]: A 12. § (2) bekezdés a) pontja a 182/2019. (VII. 26.) Korm. rendelet 7. § k) pontja szerint módosított szöveg.
+[^64]: A 12. § (8) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 8. § d) pontja hatályon kvül helyezte.
+[^65]: A 12. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (16) bekezdésével megállapított szöveg.

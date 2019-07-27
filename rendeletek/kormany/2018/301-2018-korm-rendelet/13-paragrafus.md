@@ -1,10 +1,14 @@
-13. §[^23] (1) A DKÜ az e rendelet előírásainak megfelelő beszerzési igény kielégítése érdekében
+13. §[^66] (1)[^67] A DKÜ az e rendelet szerinti „megfelelő” minősítésű beszerzési igény kielégítése érdekében
 
-a) a beszerzési igény kielégítésére szolgáló beszerzési eljárást az érintett szervezet nevében és javára eljárva maga folytatja le, vagy
+a)[^68] a beszerzési igény kielégítésére szolgáló beszerzési eljárást az érintett szervezet javára eljárva központosított közbeszerzés keretében vagy járulékos közbeszerzési szolgáltatás nyújtásával – kizárólagos joggal – maga folytatja le, vagy
 
 b) a beszerzési igény kielégítésére szolgáló beszerzési eljárást saját hatáskörben történő lefolytatásra az érintett szervezetnek visszaadja.
 
-(2) A DKÜ az (1) bekezdés szerinti döntésekor – a lehetőségek, az erőforrások és a kockázatok vizsgálatát követően, a célszerűségi szempontokra is figyelemmel – szabadon mérlegelhet, a döntését a rendelkezésre álló információk alapján hozza meg, és a döntéséről a 9. § (3) bekezdése, a 10. § (2) bekezdése és a 11. § (2) bekezdése szerinti tájékoztatással egy időben tájékoztatja az érintett szervezetet.
+(1a)[^69] A miniszter által vezetett minisztérium esetében az (1) bekezdés a) pontja szerint kell eljárni.
+
+(2)[^70] A DKÜ az (1) bekezdés szerinti döntésekor – a lehetőségek, az erőforrások és a kockázatok vizsgálatát követően, a célszerűségi szempontokra is figyelemmel – szabadon mérlegelhet, a döntését a rendelkezésre álló információk alapján hozza meg, és a döntéséről a 9. § szerinti beszerzési igény esetében, ha a DKÜ az érintett szervezet beszerzési igényét vizsgálat alá vonta, a 9. § (3) bekezdése szerinti, a 10. § és 11. § szerinti beszerzési igény esetében a 10. § (2) bekezdése és a 11. § (2) bekezdése szerinti tájékoztatással egy időben tájékoztatja az érintett szervezetet.
+
+(2a)[^71] A (2) bekezdés szerinti tájékoztatásra meghatározott határidő eredménytelen elteltét követően úgy kell tekinteni, hogy a DKÜ a beszerzési igény kielégítésére szolgáló beszerzési eljárást saját hatáskörben történő lefolytatásra az érintett szervezetnek a 13. § (1) bekezdés b) pontja szerint visszaadta.
 
 (3) A DKÜ a beszerzési igények hatékony kielégítése érdekében a beszerzési stratégiáját maga alakítja ki, figyelemmel az 5. § (2) bekezdésében foglaltakra is. Ennek keretében különösen
 
@@ -26,7 +30,9 @@ c) a DKÜ más ajánlatkérővel közösen is megvalósíthat közbeszerzést,
 
 d) a DKÜ a közbeszerzés megvalósítása érdekében igénybe veheti más központi beszerző szerv szolgáltatásait, valamint
 
-e) a DKÜ más központi beszerző szervvel együttműködve közösen is megvalósíthat beszerzést vagy működtethet összevont központi beszerzési vagy dinamikus beszerzési rendszert.
+e) a DKÜ más központi beszerző szervvel együttműködve közösen is megvalósíthat beszerzést vagy működtethet összevont központi beszerzési vagy dinamikus beszerzési rendszert,
+
+f)[^72] a DKÜ kialakíthatja az általa nyújtott járulékos közbeszerzési szolgáltatás általános szerződési feltételeit.
 
 (4) A (3) bekezdés c)–e) pontjai alkalmazása esetén az ajánlatkérők együttműködésének szabályait együttműködési megállapodásban kell rögzíteni, amely tartalmazza különösen
 
@@ -46,9 +52,9 @@ b) egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely 
 
 (7) Ha a DKÜ eljárása eredményeképpen egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely nem tartalmazza az adott közbeszerzés megvalósítására irányuló szerződés minden feltételét, vagy azokat nem kötelező erővel tartalmazza, konzultáció vagy a verseny újranyitásának eredményeként olyan keretszerződés is köthető, amely az annak alapján adott közbeszerzés megvalósítására irányuló visszterhes szerződés minden feltételét kötelező erővel tartalmazza, és az így megkötött keretszerződés alapján az érintett szervezet a beszerzését közvetlen megrendeléssel valósítja meg.
 
-(8) Az érintett szervezet a 13. § (1) bekezdés b) pontja szerint beszerzési eljárás eredményéről szóló döntés, valamint – ha a beszerzést követően a szerződés megkötésre került – a szerződés másolatát a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról hozott döntést követő 10 munkanapon belül a Portálra feltölti.
+(8)[^73] Az érintett szervezet a 13. § (1) bekezdés b) pontja szerinti beszerzési eljárás eredményéről szóló döntés, valamint – ha a beszerzést követően a szerződés megkötésre került – a szerződés másolatát a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról hozott döntést követő 10 munkanapon belül a Portálra feltölti.
 
-(9) Az érintett szervezet a 13. § (1) bekezdés a) és b) pontja eredményeképpen létrejövő szerződések teljesítéséről a teljesítést követő – vagy ha a teljesítés meghiúsult, a teljesítésre meghatározott határidő lejártát követő – 10 munkanapon belül köteles a DKÜ részére, az ott meghatározott struktúra és adattartalom szerint részletezve, a Portálon keresztül számot adni.
+(9)[^74] Az érintett szervezet a 13. § (1) bekezdés a) és b) pontja szerinti beszerzési eljárás eredményeképpen létrejövő szerződések teljesítéséről a teljesítést követő – vagy ha a teljesítés meghiúsult, a teljesítésre meghatározott határidő lejártát követő – 10 munkanapon belül köteles a DKÜ részére, az ott meghatározott struktúra és adattartalom szerint részletezve, a Portálon keresztül számot adni.
 
 (10) A DKÜ a (8) és (9) bekezdés szerinti adatszolgáltatási kötelezettségen túlmenően is jogosult adatszolgáltatást kérni az érintett szervezettől a beszerzési igényük teljesítési körülményeiről vagy egyéb, a központosított közbeszerzési rendszer működtetéséhez szükséges adatokról, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
 
@@ -56,6 +62,15 @@ b) egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely 
 
 (12) A 10. és 11. § szerinti beszerzési igény esetében, ha azt a miniszter a 12. § (4) bekezdés a) vagy b) pontja szerinti döntésekor, azzal egyidejűleg előírta, az érintett szervezet a 13. § (1) bekezdés a) pontja eredményeképpen létrejövő szerződés módosításának feltétele a miniszter jóváhagyása.
 
-(13) A 13. § (1) bekezdés a) pontja eredményeképpen létrejövő szerződések módosításának (12) bekezdés szerinti jóváhagyása tekintetében a 9–12. § megfelelően alkalmazandó.
+(13)[^75] A 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás eredményeképpen létrejövő szerződések módosításának (12) bekezdés szerinti jóváhagyása tekintetében a 9–12. § megfelelően alkalmazandó.
 
-[^23]: A 13. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^66]: A 13. § a 83/2019. (IV. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^67]: A 13. § (1) bekezdés nyitó szövegésze a 182/2019. (VII. 26.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
+[^68]: A 13. § (1) bekezdés a) pontja a 182/2019. (VII. 26.) Korm. rendelet 6. § (17) bekezdésével megállapított szöveg.
+[^69]: A 13. § (1a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (18) bekezdése iktatta be.
+[^70]: A 13. § (2) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 6. § (19) bekezdésével megállapított szöveg.
+[^71]: A 13. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 6. § (19) bekezdése iktatta be.
+[^72]: A 13. § (3) bekezdés f) pontját a 182/2019. (VII. 26.) Korm. rendelet 6. § (20) bekezdése iktatta be.
+[^73]: A 13. § (8) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
+[^74]: A 13. § (9) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § n) pontja szerint módosított szöveg.
+[^75]: A 13. § (13) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 7. § n) pontja szerint módosított szöveg.
