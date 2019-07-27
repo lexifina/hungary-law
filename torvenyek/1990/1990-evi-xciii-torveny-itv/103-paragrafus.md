@@ -50,7 +50,9 @@ II. Az állampolgársággal kapcsolatos eljárás illetéke
 
 1. A magyar állampolgársági bizonyítvány kiállítására irányuló eljárás illetéke 3000 forint.
 
-2–3.
+2.
+
+3.
 
 4. Illetékmentes a honosítás, visszahonosítás, a magyar állampolgárság nyilatkozattal történő visszaszerzésére, valamint a magyar állampolgárságról történő lemondásra irányuló eljárás.
 
@@ -148,7 +150,7 @@ b) a külügyi szolgálati útlevél,
 
 c) a határátlépési igazolvány,
 
-d) az úti okmány cseréje, amennyiben arra azért kerül sor, mert az úti okmány biometrikus azonosítót tartalmazó tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat,
+d) az úti okmány cseréje, amennyiben az úti okmány tároló eleme nem tartalmazza vagy hibásan tartalmazza a törvényben meghatározott adatokat, illetve az nem működik,
 
 e) a 65. életévét betöltött személy magánútlevele.
 
@@ -156,7 +158,7 @@ e) a 65. életévét betöltött személy magánútlevele.
 
 9. Az elveszett, megsemmisült, továbbá – a 7. pont d) alpontjában meghatározott eset kivételével – a megrongálódott és utazásra alkalmatlanná vált magánútlevél és második magánútlevél helyett soron kívüli, sürgősségi, illetve azonnali eljárás keretében kiállított új úti okmány kiadásáért az 1–2. pontban meghatározott illeték kétszeresének megfelelő illetéket és jogszabályban meghatározott mértékű igazgatási szolgáltatási pótdíjat kell fizetni.
 
-10. Az úti okmányban történő idegen nyelvű bejegyzésért – az 1. és 2. pontban meghatározott illetéken felül – 2000 forint illetéket kell fizetni.
+10.
 
 11. Az útlevél kiállítására irányuló hatósági eljárásban benyújtott fellebbezés illetéke 5000 forint.
 
@@ -316,9 +318,17 @@ XVIII. A külkereskedelemmel kapcsolatos eljárások illetéke
 
 4.
 
-5-7.
+5.
 
-8–10.
+6.
+
+7.
+
+8.
+
+9.
+
+10.
 
 11.
 
