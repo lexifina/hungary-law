@@ -12,6 +12,8 @@
 
 (2d) A járási hivatal vagy a kijelölt kormányhivatal az értesítési címet bejegyzi a nyilvántartásba, ha az postafiók, postai szolgáltató hely vagy a címnyilvántartásban szereplő címhely. Egyéb esetekben az értesítési cím bejegyzésére a cím fekvése szerinti járási hivatal az illetékes.
 
+(2e) Ha a 4. § (2e) bekezdése szerinti polgár Magyarország területén kíván életvitelszerűen élni, első lakóhely bejelentését az útlevél kiadására irányuló kérelem előterjesztésével egyidejűleg a kijelölt kormányhivatalnál köteles teljesíteni. Ha az első lakóhely nyilvántartásba vétele során az eljáró hatóság megállapítja, hogy a polgár a lakóhely bejelentéséhez – jogszabályban meghatározott kivétellel – szükséges szállásadói hozzájárulással nem rendelkezik, a polgárt nyilatkozata ellenére külföldön élő magyar állampolgárként kell nyilvántartásba vennie.
+
 (3) Az (1) bekezdésben meghatározott polgárnak azt a tényt, hogy Magyarország területét a külföldi letelepedés szándékával elhagyja, bármely járási hivatalnál vagy a konzuli tisztviselőnél
 
 a) személyesen, vagy

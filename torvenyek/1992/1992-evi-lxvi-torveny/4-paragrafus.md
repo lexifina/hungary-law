@@ -26,7 +26,9 @@ e) a Magyarország területén kívül élő magyar állampolgár kérelmére a 
 
 f) a Magyarország területén kívül élő magyar állampolgár külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvezi,
 
-g) a Magyarország területén kívül élő magyar állampolgár Magyarországon történt születését az anyakönyvvezető anyakönyvezi.
+g) a Magyarország területén kívül élő magyar állampolgár Magyarországon történt születését az anyakönyvvezető anyakönyvezi,
+
+h) a Magyarország területén kívül élő magyar állampolgár magánútlevél iránti kérelmet terjeszt elő.
 
 (2b) A 29/J. § hatálya kiterjed arra a külföldön élő magyar állampolgárra, aki nem szerepel a nyilvántartásban és érvényes magyar útlevéllel rendelkezik.
 
@@ -37,6 +39,8 @@ a) a magyar állampolgárságról szóló 1993. évi LV. törvény 5/A. §-a ala
 b) azon magyar állampolgár adatai, akinek a kérelmére az állampolgársági ügyekben eljáró szerv a magyar állampolgárságról szóló 1993. évi LV. törvény alapján a magyar állampolgárság fennállását igazolja.
 
 (2d) A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv eljárását követően – ha a nyilvántartásban nem szerepelnek – hivatalból kerülnek a nyilvántartásba a Magyarország területén kívül született, házasságot kötött vagy bejegyzett élettársi kapcsolatot létesített magyar állampolgár adatai, ha a külföldön történt születését, házasságkötését vagy bejegyzett élettársi kapcsolatát a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvezte.
+
+(2e) A magánútlevél iránti kérelem előterjesztését követően a kérelmező – ha a nyilvántartásban nem szerepel – személyi- és lakcímadatainak nyilvántartásba vételére irányuló eljárást hivatalból kell megindítani. A nyilvántartásba vételnek kizárólag akkor van helye, ha a kérelmező anyakönyvi eseménye az anyakönyvi nyilvántartásban már szerepel.
 
 (3) E törvény hatálya kiterjed:
 

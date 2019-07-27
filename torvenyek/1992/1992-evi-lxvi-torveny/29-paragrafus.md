@@ -58,7 +58,9 @@ e) a polgár adóazonosító jelét,
 
 f) a személyazonosító igazolvány elektronikus egyedi azonosítóját,
 
-g) a polgár kérelmére legfeljebb kettő, vészhelyzet esetén értesítendő telefonszámot.
+g) a polgár kérelmére legfeljebb kettő, vészhelyzet esetén értesítendő telefonszámot,
+
+h) a szolgáltatásazonosítót.
 
 (8) A tároló elem az ujjnyomatot abból a célból tartalmazza, hogy az állandó személyazonosító igazolvány és a polgár közti kapcsolat kétséget kizáróan megállapítható legyen.
 
@@ -92,12 +94,10 @@ e) a kiadásának okát.
 
 (16) A polgár az elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye, illetve magánútlevele, második magánútlevele, szolgálati útlevele, hajós szolgálati útlevele pótlását, ha az adataiban nem következett be változás, ideiglenes okmány kiadására nincs szükség, és a magánútlevél, a második magánútlevél, illetve hajós szolgálati útlevél esetében az érintett hozzájárulása alapján az útiokmány-nyilvántartás tartalmazza az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát.
 
-(17)
+(17) A (18)–(20) bekezdésben meghatározottak szerint a szolgáltatásazonosító kezelésére jogosult szerv vagy személy valamely jogosultság fennállását elektronikus úton a tároló elem olvasásával, felhasználói közreműködés – további kódok megadása – nélkül a szolgáltatásazonosítóhoz kötötten rögzítheti, a jogosultság fennállását ellenőrizheti, a szolgáltatásazonosítót kizárólag e célból megismerheti.
 
-(18) Ha az állandó személyazonosító igazolvány tároló eleme nem vagy nem helyesen tartalmazza a polgár társadalombiztosítási azonosító jelét, illetve az adóazonosító jelét, abban az esetben a polgár kérelmére
+(18) Ha a valamely jogosultságot nyújtó szerv vagy személy az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvényben (a továbbiakban: Nektv.) meghatározott elektronikuskártya-kibocsátási keretrendszerhez kártyakibocsátóként csatlakozik, a szolgáltatásazonosító tekintetében a Nektv.-t, valamint a 29/D. § alkalmazása szempontjából a Nektv. 5. § (1) bekezdés b) pont ba) alpontjában meghatározott azonosítóra vonatkozó rendelkezéseket kell alkalmazni az e §-ban és a 29/D. §-ban meghatározott eltérésekkel.
 
-a) az egészségbiztosítási szerv a polgár társadalombiztosítási azonosító jelét, valamint
+(19) Ha a valamely jogosultságot nyújtó szerv vagy személy a Nektv.-ben meghatározott elektronikuskártya-kibocsátási keretrendszerhez kártyakibocsátóként nem csatlakozik, a szolgáltatásazonosító kezelésére akkor jogosult, ha valamely, a miniszter rendeletében meghatározott jogosultság fennállásának tényét a személyazonosító igazolvány jogosultjának természetes személyazonosító adataihoz hozzárendelten – a személyes adatok kezelésére irányadó előírások alapján – kezeli. A szolgáltatásazonosító kezelésére ebben az esetben, kizárólag ezen jogosultság fennállásának ellenőrzése céljából – a személyes adatok kezelésére irányadó előírások szerint – kerülhet sor.
 
-b) a Nemzeti Adó- és Vámhivatal a polgár adóazonosító jelét
-
-a tároló elemen elhelyezi.
+(20) A szolgáltatásazonosító alkalmazásával ellenőrzött egyes jogosultságokat tartalmazó nyilvántartások egymással való összekapcsolásához a szolgáltatásazonosító nem használható fel, a szolgáltatásazonosító személyazonosításra történő felhasználása tilos.

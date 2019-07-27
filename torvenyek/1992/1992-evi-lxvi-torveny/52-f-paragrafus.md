@@ -1,0 +1,1 @@
+52/F. § E törvénynek az egyes ügyintézési folyamatok egyszerűsítéséről szóló 2019. évi LV. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a hatálybalépésüket követően indult és megismételt eljárásokban kell alkalmazni.

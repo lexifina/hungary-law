@@ -10,4 +10,6 @@ d) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgáro
 
 e) ellátja az értesítési cím tudomásul vételével összefüggő – jogszabályban meghatározott – hatósági feladatokat, valamint
 
-f) ellátja a jogszabályban hatáskörébe utalt egyéb hatósági feladatokat.
+f) ellátja a jogszabályban hatáskörébe utalt egyéb hatósági feladatokat;
+
+g) ellátja a 4. § (2e) bekezdés szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.

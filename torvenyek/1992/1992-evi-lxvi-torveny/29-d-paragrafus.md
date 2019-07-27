@@ -1,4 +1,4 @@
-29/D. § (1) Az állandó személyazonosító igazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) szerinti elsődleges kártyának tekintendő, és ahhoz a polgár kérelmére a Nektv. 1. § (4) bekezdés a) pontja szerinti kártyakibocsátó által e törvény végrehajtására kiadott kormányrendeletben meghatározott, Nektv. szerinti másodlagos kártya rendelhető.
+29/D. § (1) Az állandó személyazonosító igazolvány a Nektv. szerinti elsődleges kártyának tekintendő, és ahhoz a polgár kérelmére a Nektv. 1. § (4) bekezdés a) pontja szerinti kártyakibocsátó által e törvény végrehajtására kiadott kormányrendeletben meghatározott, Nektv. szerinti másodlagos kártya rendelhető.
 
 (2) Ha a polgár az állandó személyazonosító igazolványhoz az e törvény végrehajtására kiadott kormányrendeletben meghatározott, Nektv. szerinti másodlagos kártyát kér rendelni, a Nektv.-ben foglaltakat e §-ban foglalt eltérésekkel kell alkalmazni.
 

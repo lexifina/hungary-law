@@ -2,7 +2,7 @@
 
 5. § E törvény alkalmazása során:
 
-(1)
+(1) Szolgáltatásazonosító: az állandó személyazonosító igazolvány tároló elemén rögzített, véletlenszerűen képzett egyedi azonosító karaktersorozat.
 
 (2) A polgár lakóhelye: annak a lakásnak a címe, amelyben a polgár él. A lakcímbejelentés szempontjából lakásnak tekintendő az az egy vagy több lakóhelyiségből álló épület vagy épületrész, amelyet a polgár életvitelszerűen otthonául használ, továbbá – a külföldön élő magyar és nem magyar állampolgárok kivételével – az a helyiség, ahol valaki szükségből lakik, vagy – amennyiben más lakása nincs – megszáll.
 
