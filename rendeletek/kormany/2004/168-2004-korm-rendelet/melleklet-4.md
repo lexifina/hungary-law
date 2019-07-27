@@ -1,4 +1,4 @@
-4. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^99]
+4. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^101]
 
 Gazdasági szereplő adatlap
 
@@ -696,4 +696,4 @@ Részletes gazdasági szereplő adatlap
 
 |  |  |  | Cégszerű aláírás |
 
-[^99]: A 4. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 25. §-a, a 33/2012. (III. 7.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.
+[^101]: A 4. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 25. §-a, a 33/2012. (III. 7.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.

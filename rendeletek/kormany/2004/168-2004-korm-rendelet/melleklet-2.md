@@ -84,6 +84,6 @@
 
 ## 9.1. Elektronikus árlejtés szolgáltatás
 
-2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^97]
+2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^99]
 
-[^97]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+[^99]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
