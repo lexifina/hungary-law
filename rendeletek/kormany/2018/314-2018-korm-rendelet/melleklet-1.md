@@ -1,4 +1,4 @@
-## 31. §[^4]
+## 31. §[^8]
 
 1. melléklet a 314/2018. (XII. 27.) Korm. rendelethez
 
@@ -32,4 +32,4 @@
 
 14. Amennyiben az adott alkalmazás elektronikus dokumentumot állít elő, biztosítani kell, hogy a készített elektronikus dokumentum más szoftverrel is olvasható, illetve szerkeszthető legyen, legalább az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 1. mellékletében meghatározott és a szoftver felhasználása szempontjából értelmezhető, az elektronikus ügyintézést biztosító szervek által kötelezően elfogadott elektronikus dokumentumformátumok használatának a lehetővé tételével.
 
-[^4]: A 31. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 31. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

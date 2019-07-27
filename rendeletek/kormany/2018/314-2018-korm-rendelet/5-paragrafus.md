@@ -12,9 +12,9 @@ b) alkalmazás-továbbfejlesztése esetén, ha a továbbfejlesztendő alkalmazá
 
 (4) A Felügyelet az alkalmazásfejlesztés megvalósítását támogató tanúsítványban rendelkezik a (3) bekezdés szerinti felmentésről.
 
-(5) Az alkalmazásfejlesztésekkel kapcsolatos szakigazgatási döntések megalapozott előkészítése érdekében a költségvetési fejezetet irányító szerv, a saját és az általa irányított vagy felügyelt költségvetési szervek, valamint a 100%-os állami tulajdonban lévő gazdasági társaságok vonatkozásában összesítve, továbbá a 2. § (5) bekezdése esetén a nem a Kormány irányítása alá tartozó szerv vezetője minden év november 30-ig megküldi a következő évre tervezett alkalmazás-fejlesztési feladatokról szóló fejlesztési tervét a miniszternek.
+(5)[^3]
 
-(6) Ha az állami szervek informatikai fejlesztéseinek koordinációjáról szóló kormányrendelet szerinti eljárásában az e-közigazgatásért felelős miniszter az állami szerv fejlesztési tervét támogatta, az állami szerv a Felügyelet által kiadott, az adott egyedi fejlesztést támogató tanúsítványban foglaltak szerint folytathatja le a fejleszteni kívánt alkalmazástermék beszerzését, valamint a fejlesztést.
+(6)[^4]
 
 (7) A Felügyelet a (3) bekezdés szerinti döntését a kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg. A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 8 napon belül a Nemzetbiztonsági Kabinetnél, amely a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg döntését.
 
@@ -23,3 +23,6 @@ b) alkalmazás-továbbfejlesztése esetén, ha a továbbfejlesztendő alkalmazá
 a) a végrehajtandó alkalmazásfejlesztést érintő támogatási szerződést hivatalosan megkötötte az irányító hatósággal és
 
 b) az alkalmazásfejlesztési feladat végrehajtása érdekében a fejlesztő szervezet kiválasztására irányuló közbeszerzési felhívást az ÁAFK kötelező igénybevétele tekintetében a megrendelő szervre meghatározott alkalmazási időpontot megelőzően közzétette.
+
+[^3]: Az 5. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^4]: Az 5. § (6) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
