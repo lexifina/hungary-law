@@ -1,7 +1,3 @@
 30. § (1)
 
-(2) Az Nkt. 54. alcíme a következő 99/K. §-sal egészül ki:
-
-„99/K. § (1) A közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvény hatálybalépését követő 1 éven belül a 9. § (10) bekezdése szerinti hálózat, szervezet, illetve fenntartó köteles felülvizsgálni a kerettantervet annak érdekében, hogy az megfeleljen a közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvénnyel módosított 9. § (9a) bekezdésében foglaltaknak, és a kerettanterv módosításának jóváhagyását kérelmezni. Ennek elmulasztása esetén a működési engedélyt vissza kell vonni.
-
-(2) A közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvénnyel módosított 9. § (9a) bekezdésében foglaltakat a közneveléssel összefüggő egyes törvények módosításáról és a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény hatályon kívül helyezéséről szóló 2019. évi LXX. törvény hatálybalépésekor folyamatban lévő működési engedélyezési eljárásokban is alkalmazni kell. Ha az e bekezdésben foglaltak alapján a kerettanterv vagy a működési engedély iránti kérelem módosítása szükséges, akkor az ügy ügyintézési határideje 45 nappal meghosszabbodik.”
+(2)
