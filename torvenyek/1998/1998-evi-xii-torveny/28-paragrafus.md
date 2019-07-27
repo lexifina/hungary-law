@@ -22,7 +22,7 @@ d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésér
 
 (5) Az adatszolgáltatási ügyekben az ügyintézési határidő 20 nap. Az adatszolgáltatás elektronikus információátadás keretén kívül is teljesíthető.
 
-(6) Az (1), (2) és (2b) bekezdésben meghatározott adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni.
+(6) Az (1) és (2) bekezdésben meghatározott adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
 (7) Az adatkezelő szerv a külön törvényben vagy a polgár ügyintézési rendelkezésében meghatározott szervek számára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény, illetve a polgár ügyintézési rendelkezése alapján
 

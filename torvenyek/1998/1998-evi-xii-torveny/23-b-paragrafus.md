@@ -4,7 +4,7 @@
 
 23/B. § (1) Ha törvénnyel kihirdetett nemzetközi szerződés így rendelkezik, a törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot a (2)–(4) bekezdés szerinti eljárásrend alapján kell kiállítani.
 
-(2) A Kormány által kijelölt szerv (e fejezet alkalmazásában a továbbiakban: kijelölt szerv) a személyesen megjelenő ügyfél (a továbbiakban: kérelmező) kérelmére, törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot állít ki. A közokirat kiállításáért igazgatási szolgáltatási díjat kell fizetni.
+(2) A Kormány által kijelölt szerv (e fejezet alkalmazásában a továbbiakban: kijelölt szerv) az ügyfél (a továbbiakban: kérelmező) kérelmére törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot állít ki.
 
 (3) A közokirat – ha a törvénnyel kihirdetett nemzetközi szerződés eltérően nem rendelkezik – tartalmazza
 

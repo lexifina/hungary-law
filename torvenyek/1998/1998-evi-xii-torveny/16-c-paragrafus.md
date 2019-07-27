@@ -3,3 +3,5 @@
 (2) Ha az érintett személy bevándorolt vagy letelepedett jogállású, valamint hontalan külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 
 (3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
+
+(4) Ha az érintett személytől a 16. § (2) bekezdése alapján diplomata vagy külügyi szolgálati útlevél kerül elvételre, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség a külpolitikáért felelős minisztert értesíti az érintett személy úti okmányának visszatartása érdekében.

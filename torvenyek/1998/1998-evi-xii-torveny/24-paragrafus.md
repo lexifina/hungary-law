@@ -2,31 +2,37 @@
 
 ## Adatkezelés és adatszolgáltatás
 
-24. § (1) Az adatkezelő szerv az útiokmány-nyilvántartásban a következő adatokat kezeli:
+24. § (1) Az adatkezelő szerv az útiokmány-nyilvántartásban kezeli:
 
-a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, továbbá annak megváltozása esetén anyja előző születési családi és utónevét, nemét, állampolgárságát, menekült, menedékes, bevándorolt vagy oltalmazott jogállását (a továbbiakban együtt: személyi adat), külföldre utazásra felhasználható – személyazonosságát igazoló – hatósági igazolványának számát, továbbá értesítési címét, illetve lakcímét, valamint hozzájárulása esetén e-mail címét, telefonszámát,
+a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, nemét, állampolgárságát (a továbbiakban együtt: személyi adat), személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát, kézbesítési címét valamint kapcsolattartási adatát,
 
 b) az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
 
-c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
+c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
 
-d) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, és a szülői felügyeleti jog megszűnését, illetve szünetelését igazoló jogerős határozat adatait (a bíróság vagy hatóság megnevezését, ügyszámát, a határozat keltét, a szünetelés időtartamát, a megszüntetés kezdő időpontját),
+d) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, amennyiben ezen nyilatkozat figyelembe vételével került sor úti okmány kiállítására, illetve a szülői felügyeleti jog megszűnését, illetve szünetelését igazoló jogerős határozat adatai közül a bíróság vagy hatóság megnevezését, ügyszámát,
 
-e) az állampolgár számára kiadott úti okmány típusát, számát, érvényességi idejét, az ideiglenes magánútlevél ellenőrző sorszámát, valamint az úti okmányra való jogosultság megszűnésének okát és időpontját,
+e) az állampolgár számára kiadott úti okmány típusát, számát, érvényességének tényét, kiállítás szerinti érvényességi idejét, valamint az úti okmányra való jogosultság megszűnésének okát és időpontját,
 
-f) az úti okmány cseréjére, találására, visszaadására, leadására, elvételére, valamint a 20. § (1) bekezdése szerinti érvénytelenségére vonatkozó adatokat,
+f) az úti okmány elvesztésére, eltulajdonítására, megsemmisülésére, megrongálódására, találására, cseréjére, pótlására, visszaadására, leadására, elvételére, valamint érvénytelenségére vonatkozó adatokat,
 
 g) a Schengeni Információs Rendszerben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos adatokat,
 
-h) az útlevélhatósági eljárást lefolytató köztisztviselő egyedi azonosító kódját,
+h) az útlevélhatósági eljárást lefolytató ügyintéző egyedi azonosító kódját,
 
-i) a külföldre utazás korlátozásának tényét és a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat,
+i) a külföldre utazás korlátozása bejegyzésének és törlésének tényét,
 
-j) a külföldre utazás korlátozásának törlése esetén az ügyben eljáró útlevélhatóság megnevezését, a törlés időpontját, valamint a 16/B. § (3) bekezdés c) pontjában meghatározott adatokat, továbbá
+j) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, a hivatalos útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímét,
 
-k) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, az útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímeit,
+k) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot,
 
-l) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
+l) a kérelem egyedi azonosítására szolgáló technikai azonosítóját,
+
+m) az eljárás illetékének és igazgatási szolgáltatási pótdíjának az összegét, valamint a teljesítésének tényét,
+
+n) az okmány kézbesítésének, illetve átvételének idejét, helyét, az átvevő nevét és az átvételkor bemutatott okmány azonosítóját,
+
+o) az ideiglenes magánútlevél esetében az ellenőrző sorszámot, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását.
 
 (2) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 

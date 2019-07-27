@@ -4,7 +4,7 @@
 
 16. § (1) Nem utazhat külföldre
 
-a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy előzetes kényszergyógykezelés alatt áll,
+a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy előzetes kényszergyógykezelés, ideiglenes átadási bűnügyi felügyelet vagy ideiglenes kiadatási bűnügyi felügyelet alatt áll,
 
 b) az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
 
@@ -40,7 +40,9 @@ b) az (1) bekezdés c), d) és e) pontjában meghatározott esetben a szabadság
 
 c) az (1) bekezdés f) pontjában meghatározott esetben a tiltást elrendelő bíróság,
 
-d) külföldi állam által kiállított úti okmány esetében az idegenrendészeti hatóság
+d) külföldi állam által kiállított úti okmány esetében az idegenrendészeti hatóság,
+
+e) külügyi szolgálati útlevél és diplomata útlevél esetében a külpolitikáért felelős miniszter
 
 hajtja végre.
 

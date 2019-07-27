@@ -28,7 +28,7 @@ f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika 
 
 g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát;
 
-h) az adópolitikáért felelős miniszterrel egyetértésben a törvénnyel kihirdetett nemzetközi szerződés alapján kiállítandó közokirat kiadásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint megfizetésének szabályait.
+h)
 
 (3)
 

@@ -1,4 +1,4 @@
-27. § (1) Az adatkezelő szerv – a törvényben meghatározott feladatai ellátása céljából – a 24. § (1) bekezdés g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a bíróságnak, az ügyészségnek, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, az állami adó- és vámhatóságnak, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, valamint a menekültügyi hatóságnak adhat át adatot.
+27. § (1) Az adatkezelő szerv – a törvényben meghatározott feladatai ellátása céljából – a 24. § (1) bekezdés g) pontjában meghatározott adatok kivételével a büntetőügyekben eljáró hatóságoknak, a bíróságnak, az ügyészségnek, a rendőrségnek, a nemzetbiztonsági szolgálatoknak, az állami adó- és vámhatóságnak, a bűnügyi nyilvántartó szervnek, a nyugdíjbiztosítási igazgatási szervnek, az állampolgársági ügyekért felelős miniszternek, az állampolgársági ügyekben eljáró szervnek, az idegenrendészeti hatóságnak, menekültügyi hatóságnak, valamint a törvénnyel kihirdetett nemzetközi szerződés által meghatározott tartalmú közokiratot kiállító szervnek adhat át adatot.
 
 (1a) Az adatkezelő szerv a 24. § (1) bekezdés d) és h)–k) pontjában meghatározott adatok kivételével a szabálysértési, illetve az előkészítő eljárást folytató hatóságnak adhat át adatot a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez.
 
@@ -6,11 +6,11 @@
 
 (1c) Az adatkezelő szerv a 24. § (1) bekezdés a) és e) pontjában meghatározott adatokat a körözési nyilvántartó szerv részére az úti okmány adatainak a körözési nyilvántartási rendszerbe rögzítését megelőző ellenőrzése céljából átadhatja.
 
-(1d) Az adatkezelő szerv a szerencsejáték szervezéséről szóló törvény szerinti szervező részére a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségének és az úti okmány érvényességének tényéről adatszolgáltatást teljesít a természetes személy személyazonosságának igazoló ellenőrzése céljából.
+(1d) Az adatkezelő szerv a szerencsejáték szervezéséről szóló törvény szerinti szervező részére a természetes személy által a magánútlevele alapján megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségének és az úti okmány érvényességének tényéről adatszolgáltatást teljesít a természetes személy személyazonosságának igazoló ellenőrzése céljából.
 
 (2) Az adatkezelő szerv – ha törvény másként nem rendelkezik – a 24. § (1) bekezdés g) pontban meghatározott adatokról adatszolgáltatást nem teljesíthet, ide nem értve az érintett személy 28. § (2a) és (2b) bekezdésben foglalt tájékoztatási jogát, illetve hatósági bizonyítvány iránti igénylését.
 
-(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a) és e) pontja alapján kezelt adatállományból.
+(2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a), e) és f) pontja alapján kezelt adatállományból.
 
 (3) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetve a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a)–f) és h)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
