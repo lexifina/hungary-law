@@ -1,4 +1,4 @@
-## 7. §[^6]
+## 7. §[^7]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. és 2. §, a 3. § b) pontja, a 4–7. § és az 1–20. melléklet az e rendelet kihirdetését követő hónap első napján lép hatályba.
 
-[^6]: A 7. § a 8. § (2) bekezdése alapján 2019. augusztus 1-jén lép hatályba.
+[^7]: A 7. § a 8. § (2) bekezdése alapján 2019. augusztus 1-jén lép hatályba.
