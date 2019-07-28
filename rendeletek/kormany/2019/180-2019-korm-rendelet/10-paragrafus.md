@@ -1,4 +1,4 @@
-## 9. §[^16]
+## 9. §[^18]
 
 ## 8. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 4. § (5) bekezdése 2020. január 1-jén lép hatályba.
 
-[^16]: A 9. § a 10. § (2) bekezdése alapján 2019. augusztus 1-jén lép hatályba.
+[^18]: A 9. § a 10. § (2) bekezdése alapján 2019. augusztus 1-jén lép hatályba.
