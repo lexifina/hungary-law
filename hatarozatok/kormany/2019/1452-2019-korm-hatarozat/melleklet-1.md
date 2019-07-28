@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:422 mezőjében a „0,19” szövegrész helyébe a „0,31” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1452/2019. (VII. 26.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.1.0-15- 2016-00075 | Dávodi Földvári-tó és a karapancsai erdei tavak rehabilitációja kotrással, bioremediációval, kisműtárgy építéssel, cserjeirtással | Duna–Dráva Nemzeti Park Igazgatóság | 185 300 000 | 116 579 612 | 301 879 612 | A projekt célja a Dávodi Földvári-tórendszer rekonstrukciója (gátak és műtárgyak felújítása) és bioremediációs kezelése, mederkotrás, a Karapancsai erdei tavak rekonstrukciója gát és műtárgyak felújításával, továbbá eszközbeszerzések. A projekt hozzájárul a jobb védettségi állapot érdekében támogatott élőhelyek területének növekedéséhez 214,2 hektárral. |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
