@@ -1,11 +1,5 @@
 ## 5. § Ez a rendelet a közzétételét követő napon lép hatályba.
 
-1. melléklet a 183/2019. (VII. 26.) Korm. rendelethez
+1. melléklet a 183/2019. (VII. 26.) Korm. rendelethez[^3]
 
-A KRESZ 2. számú függeléke a következő q/1. ponttal egészül ki:
-
-(Az út mellett vagy közelében levő egyes létesítményekről tájékoztatást adó jelzőtáblák:)
-
-„q/1. Templom vagy vallásgyakorlásra rendelt más hely (20/a. és 20/a/1. ábra)
-
-”
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
