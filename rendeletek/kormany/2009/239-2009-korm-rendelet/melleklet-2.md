@@ -338,6 +338,6 @@
 
 ## 8. Az 5. § (3) bekezdésében meghatározott szálláshelykezelő szoftver.
 
-2. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^61]
+2. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^62]
 
-[^61]: A 2. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 121. § f) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^62]: A 2. mellékletet a 441/2015. (XII. 28.) Korm. rendelet 121. § f) pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
