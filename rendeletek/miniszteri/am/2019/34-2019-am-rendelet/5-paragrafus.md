@@ -1,4 +1,4 @@
-5. § (1) A pénzügyi hozzájárulás iránti, a (2) bekezdésben meghatározott adattartalmú kérelmet (a továbbiakban: kérelem) – az (5)–(8) bekezdésben meghatározott kivétellel – a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), a 11. § (2) bekezdésében meghatározott alcélterület esetében a Magyar Juh- és Kecsketenyésztő Szövetség (a továbbiakban: MJKSZ) tárgynegyedévente egy alkalommal, elektronikus úton nyújthatja be 2019. augusztus 1. napjától kezdődően a Kincstárhoz, a Kincstár által erre a célra rendszeresített űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően. A kérelem a tárgynegyedévet követő hónap utolsó napjáig – első alkalommal 2019 első és második tárgynegyedévére vonatkozóan, együttesen 2019. július 31-éig – nyújtható be a Kincstárhoz.
+5. § (1)[^1] A pénzügyi hozzájárulás iránti, a (2) bekezdésben meghatározott adattartalmú kérelmet (a továbbiakban: kérelem) – az (5)–(8) bekezdésben meghatározott kivétellel – a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), a 11. § (2) bekezdésében meghatározott alcélterület esetében a Magyar Juh- és Kecsketenyésztő Szövetség (a továbbiakban: MJKSZ) tárgynegyedévente egy alkalommal, elektronikus úton nyújthatja be 2019. augusztus 1. napjától kezdődően a Kincstárhoz, a Kincstár által erre a célra rendszeresített űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően. A kérelem a tárgynegyedévet követő hónap utolsó napjáig – első alkalommal 2019 első és második tárgynegyedévére vonatkozóan, együttesen 2019. augusztus 31-éig – nyújtható be a Kincstárhoz.
 
 (2) A kérelem az alábbi adatokat tartalmazza:
 
@@ -46,11 +46,11 @@ k) a 12. § (3) bekezdés d) pontja szerinti alintézkedés esetében az elvégz
 
 (4) A 11. § (2) bekezdése szerinti pénzügyi hozzájárulás esetében a pénzügyi hozzájárulás iránti kérelemhez az elektronikus űrlapkitöltő felületen csatolni kell a támogatási jogosultságot alátámasztó számlák és a pénzügyi teljesítést igazoló pénzügyi dokumentumok másolatát „pdf” vagy „jpg” formátumban.
 
-(5) A 7. § (4) bekezdés a) és b) pontjában meghatározott alcélterületek esetében a kérelmet a megyei kormányhivatal 2019. augusztus 1. napjától kezdődően havonta egy alkalommal, az egyes tárgyhónapokat követő hónap utolsó napjáig – 2019. január–június hónapokra vonatkozóan, együttesen 2019. július 31-éig – nyújthatja be az (1) bekezdésben foglaltak szerint.
+(5)[^2] A 7. § (4) bekezdés a) és b) pontjában meghatározott alcélterületek esetében a kérelmet a megyei kormányhivatal 2019. augusztus 1. napjától kezdődően havonta egy alkalommal, az egyes tárgyhónapokat követő hónap utolsó napjáig – 2019. január–június hónapokra vonatkozóan, együttesen 2019. augusztus 31-éig – nyújthatja be az (1) bekezdésben foglaltak szerint.
 
-(6) A 7. § (4) bekezdés c) pontjában meghatározott alcélterület esetében a kérelmet a megyei kormányhivatal és a NÉBIH 2019. augusztus 1. napjától kezdődően két alkalommal, 2019 első tárgyfélévére vonatkozóan 2019. július 31-éig, 2019 második tárgyfélévére vonatkozóan 2020. január 31-éig nyújthatja be az (1) bekezdésben foglaltak szerint.
+(6)[^3] A 7. § (4) bekezdés c) pontjában meghatározott alcélterület esetében a kérelmet a megyei kormányhivatal és a NÉBIH 2019. augusztus 1. napjától kezdődően két alkalommal, 2019 első tárgyfélévére vonatkozóan 2019. augusztus 31-éig, 2019 második tárgyfélévére vonatkozóan 2020. január 31-éig nyújthatja be az (1) bekezdésben foglaltak szerint.
 
-(7) A 9. § (4) és (6) bekezdésében és a 10. § (4) bekezdésében meghatározott alcélterületek esetében a kérelmet a megyei kormányhivatal 2019. augusztus 1. napjától kezdődően két alkalommal, 2019 első tárgyfélévére vonatkozóan 2019. július 31-éig, 2019 második tárgyfélévére vonatkozóan 2020. január 31-éig nyújthatja be az (1) bekezdésben foglaltak szerint.
+(7)[^4] A 9. § (4) és (6) bekezdésében és a 10. § (4) bekezdésében meghatározott alcélterületek esetében a kérelmet a megyei kormányhivatal 2019. augusztus 1. napjától kezdődően két alkalommal, 2019 első tárgyfélévére vonatkozóan 2019. augusztus 31-éig, 2019 második tárgyfélévére vonatkozóan 2020. január 31-éig nyújthatja be az (1) bekezdésben foglaltak szerint.
 
 (8) A 12. § (3) bekezdés c) pontja szerinti orális csalétekvakcina beszerzése és kihelyezése esetében a kérelmet a NÉBIH 2019 harmadik negyedévére vonatkozóan 2019. november 15-éig nyújthatja be az (1) bekezdésben foglaltak szerint.
 
@@ -81,3 +81,8 @@ d) a beadvány érkeztetési számát.
 (17) A Kincstár minden hónap utolsó napjáig tájékoztatja az agrárpolitikáért felelős minisztert (a továbbiakban: miniszter) és a NÉBIH-et, valamint elektronikus úton a megyei kormányhivatalokat a megelőző hónapban megállapított pénzügyi hozzájárulás összegéről és a keret kihasználtságáról. A Kincstár haladéktalanul tájékoztatja a minisztert a támogatási keret kimerüléséről.
 
 (18) Az adott célterületre meghatározott keret megemelése esetén a korábban a keret kimerülése miatt meghozott, elutasítást vagy arányos csökkentést tartalmazó döntéseket a keretösszeget módosító miniszteri rendelet hatálybalépését követő tizenöt napon belül a Kincstár hivatalból felülvizsgálja.
+
+[^1]: Az 5. § (1) bekezdése a 37/2019. (VII. 26.) AM rendelet 11. §-a szerint módosított szöveg.
+[^2]: Az 5. § (5) bekezdése a 37/2019. (VII. 26.) AM rendelet 11. §-a szerint módosított szöveg.
+[^3]: Az 5. § (6) bekezdése a 37/2019. (VII. 26.) AM rendelet 11. §-a szerint módosított szöveg.
+[^4]: Az 5. § (7) bekezdése a 37/2019. (VII. 26.) AM rendelet 11. §-a szerint módosított szöveg.
