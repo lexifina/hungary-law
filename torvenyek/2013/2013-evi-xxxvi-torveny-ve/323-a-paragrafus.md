@@ -1,5 +1,5 @@
 ## 151. A szavazatok továbbítása
 
-323/A. § (1) A szavazatszámláló bizottság, illetve a helyi választási bizottság a nála a 323. § (4) bekezdése alapján leadott szavazatokat tartalmazó borítékokat szállítóborítékba zárja.
+323/A. § (1) A szavazatszámláló bizottság a borítékokat – azok felbontása nélkül – nemzetiségenként külön szállítóborítékba zárja, és a szállítóborítékokat a helyi választási irodához szállítja.
 
-(2) A helyi választási iroda legkésőbb a szavazást követő napon 10 óráig a területi választási irodához szállítja az (1) bekezdés szerinti szállítóborítékot.
+(2) A helyi választási iroda a területi választási irodához szállítja a 327. § (2) bekezdése szerinti szavazólapokat tartalmazó szállítóborítékokat.

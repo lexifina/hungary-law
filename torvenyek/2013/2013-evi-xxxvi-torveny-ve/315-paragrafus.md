@@ -1,1 +1,1 @@
-315. § A nemzetiségi szavazóköri névjegyzékbe azt a választópolgárt kell felvenni, aki legkésőbb a szavazást megelőző tizenhatodik napon benyújtott kérelme alapján szerepel nemzetiségi választópolgárként a központi névjegyzékben.
+315. § Nemzetiségi választópolgárként azt a választópolgárt kell felvenni a szavazóköri névjegyzékbe, aki legkésőbb a szavazást megelőző tizenhatodik napon benyújtott kérelme alapján szerepel nemzetiségi választópolgárként a központi névjegyzékben.

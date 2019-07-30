@@ -8,16 +8,14 @@
 
 ## c) településenként az egyes szavazókörök sorszámát, a szavazókörbe tartozó címeket, a szavazókörbe tartozó választópolgárok számát, a szavazókör szavazóhelyiségének címét,
 
-## d) a 78. § szerint kijelölt szavazókör megjelölését,
+## d) a 78. § szerint kijelölt szavazókör megjelölését, a 292. § (1) bekezdése szerint kijelölt szavazókör megjelölését,
 
-## e) a nemzetiségi szavazókör szavazóhelyiségének címét,
+## e) a 281. § (1) bekezdése szerinti szavazatleadó hely címét,
 
-## f) a 281. § (1) bekezdése szerinti szavazatleadó hely címét,
+## f) a szavazóhelyiség akadálymentességére vonatkozó információt,
 
-## g) a szavazóhelyiség akadálymentességére vonatkozó információt,
+## g) a szavazókörök és választókerületek térképes megjelenítését,
 
-## h) a szavazókörök és választókerületek térképes megjelenítését,
-
-## i) annak megjelölését, hogy – a legutóbbi népszámlálásnak a nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a településen melyik nemzetiséghez tartozó személyek száma éri el a harminc főt.
+## h) annak megjelölését, hogy – a legutóbbi népszámlálásnak a nemzetiséghez tartozásra vonatkozó kérdéseire nyújtott adatszolgáltatás nemzetiségenként összesített adatai szerint – a településen melyik nemzetiséghez tartozó személyek száma éri el a harminc főt.
 
 2. melléklet a 2013. évi XXXVI. törvényhez
