@@ -1,0 +1,1 @@
+## 3. § A helyi választási bizottság három – az egy szavazókörrel rendelkező településen öt – tagját és legalább két póttagot a települési önkormányzat képviselő-testülete legkésőbb 2019. szeptember 1-jén 16.00 óráig választja meg. [Ve. 23. §]
