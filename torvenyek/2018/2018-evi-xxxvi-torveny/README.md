@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-36-00-00
 | 2018-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-36-00-00.1 |
 | 2018-09-02 | 2010. évi CXXX. törvény | 2018-36-00-00.2 |
 | 2019-07-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-36-00-00.3 |
+| 2019-07-31 | 2010. évi CXXX. törvény | 2018-36-00-00.4 |
