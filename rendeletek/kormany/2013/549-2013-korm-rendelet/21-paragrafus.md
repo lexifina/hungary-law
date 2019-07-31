@@ -20,19 +20,21 @@ h)[^99] az Európai Bizottság javaslatára költségnyilatkozatban már elszám
 
 i)[^100] a közlekedési tárgyú projekteket megvalósító, 100%-ban állami tulajdonban lévő közszféra szervezet kedvezményezettet terhelő visszafizetési kötelezettség esetén a visszaköveteléssel érintett európai uniós forrásból finanszírozott költségvetési támogatás után fizetendő ügyleti kamat,
 
-j)[^101] ha a 2007–2013 programozási időszakban európai uniós forrásra benyújtott kérelem szerinti agrár-vidékfejlesztési tevékenység támogatása már nem finanszírozható európai uniós forrásból, de jogorvoslati eljárás alapján a támogatásra való jogosultságot megállapítják, feltéve, hogy az az Európai Unió működéséről szóló szerződés 107. cikkével összhangban nyújtható állami támogatásnak minősül.
+j)[^101] ha a 2007–2013 programozási időszakban európai uniós forrásra benyújtott kérelem szerinti agrár-vidékfejlesztési tevékenység támogatása már nem finanszírozható európai uniós forrásból, de jogorvoslati eljárás alapján a támogatásra való jogosultságot megállapítják, feltéve, hogy az az Európai Unió működéséről szóló szerződés 107. cikkével összhangban nyújtható állami támogatásnak minősül,
 
-(2)[^102] Nem finanszírozható az előirányzat terhére az (1) bekezdés f) pontja szerinti igény egyéni vállalkozó, egyéni cég vagy – 100%-os állami tulajdonban lévő nonprofit gazdasági társaság kivételével – gazdasági társaság esetében.
+k)[^102] ha a kedvezményezett által nem befolyásolható olyan körülmény merül fel, amely az európai uniós forrásból finanszírozott projekt végrehajtásához nélkülözhetetlen, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja szerinti költségnövekménynek nem minősülő kiadást keletkeztet, és a Kormány a finanszírozást egyedi döntésével jóváhagyja.
 
-(3)[^103]
+(2)[^103] Nem finanszírozható az előirányzat terhére az (1) bekezdés f) pontja szerinti igény egyéni vállalkozó, egyéni cég vagy – 100%-os állami tulajdonban lévő nonprofit gazdasági társaság kivételével – gazdasági társaság esetében.
 
-(4)[^104]
+(3)[^104]
 
-(5)[^105] Az (1) bekezdés c) és f) pontja szerinti esetben az előirányzat terhére történő finanszírozási igényről való döntéssel egyidejűleg a fejezetet irányító szerv vezetője a projekt megvalósításához fűződő nemzeti érdek tekintetében is döntést hoz.
+(4)[^105]
+
+(5)[^106] Az (1) bekezdés c) és f) pontja szerinti esetben az előirányzat terhére történő finanszírozási igényről való döntéssel egyidejűleg a fejezetet irányító szerv vezetője a projekt megvalósításához fűződő nemzeti érdek tekintetében is döntést hoz.
 
 (6) Ha az előirányzat teljes összegben felhasználásra kerül, az (1) bekezdés szerinti kiadások fedezetét az európai uniós bevételek zavartalan lehívása érdekében az érintett európai uniós előirányzat támogatási előirányzata terhére kell biztosítani.
 
-(7)[^106] Az (1) bekezdés c) és f) pontja alkalmazásában nemzeti érdeknek minősül különösen az, ha a finanszírozásra számot tartó tevékenység
+(7)[^107] Az (1) bekezdés c) és f) pontja alkalmazásában nemzeti érdeknek minősül különösen az, ha a finanszírozásra számot tartó tevékenység
 
 a) Magyarország uniós jogból vagy nemzetközi jogból fakadó kötelezettségei teljesítéséhez,
 
@@ -46,7 +48,7 @@ e) a lakosság széles körét érinti, és állami vagy helyi önkormányzati f
 
 ## járul hozzá.
 
-(8)[^107] Az irányító hatóság a követeléskezelést az (1) bekezdés c), e) és f) pontja szerinti esetben a finanszírozási igényről történő döntés meghozataláig, az (1) bekezdés g) pontja szerinti esetben a jogerős határozat meghozataláig felfüggesztheti.
+(8)[^108] Az irányító hatóság a követeléskezelést az (1) bekezdés c), e) és f) pontja szerinti esetben a finanszírozási igényről történő döntés meghozataláig, az (1) bekezdés g) pontja szerinti esetben a jogerős határozat meghozataláig felfüggesztheti.
 
 [^95]: A 21. § (1) bekezdés d) pontja a 287/2015. (X. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^96]: A 21. § (1) bekezdés e) pontja a 287/2015. (X. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
@@ -55,9 +57,10 @@ e) a lakosság széles körét érinti, és állami vagy helyi önkormányzati f
 [^99]: A 21. § (1) bekezdés h) pontját a 287/2015. (X. 6.) Korm. rendelet 9. §-a iktatta be.
 [^100]: A 21. § (1) bekezdés i) pontját a 350/2015. (XI. 24.) Korm. rendelet 9. §-a iktatta be, szövege a 79/2019. (IV. 12.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
 [^101]: A 21. § (1) bekezdés j) pontját a 200/2017. (VII. 10.) Korm. rendelet 1. §-a iktatta be.
-[^102]: A 21. § (2) bekezdése a 427/2017. (XII. 19.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 79/2019. (IV. 12.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
-[^103]: A 21. § (3) bekezdését a 427/2017. (XII. 19.) Korm. rendelet 11. § 8. pontja hatályon kívül helyezte.
-[^104]: A 21. § (4) bekezdését a 294/2018. (XII. 21.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^105]: A 21. § (5) bekezdése a 427/2017. (XII. 19.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^106]: A 21. § (7) bekezdését a 427/2017. (XII. 19.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^107]: A 21. § (8) bekezdését a 79/2019. (IV. 12.) Korm. rendelet 4. §-a iktatta be.
+[^102]: A 21. § (1) bekezdés k) pontját a 185/2019. (VII. 26.) Korm. rendelet 2. §-a iktatta be.
+[^103]: A 21. § (2) bekezdése a 427/2017. (XII. 19.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 79/2019. (IV. 12.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^104]: A 21. § (3) bekezdését a 427/2017. (XII. 19.) Korm. rendelet 11. § 8. pontja hatályon kívül helyezte.
+[^105]: A 21. § (4) bekezdését a 294/2018. (XII. 21.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^106]: A 21. § (5) bekezdése a 427/2017. (XII. 19.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^107]: A 21. § (7) bekezdését a 427/2017. (XII. 19.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^108]: A 21. § (8) bekezdését a 79/2019. (IV. 12.) Korm. rendelet 4. §-a iktatta be.
