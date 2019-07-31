@@ -1,4 +1,4 @@
-## munkakör az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.
+## munkakör betöltésére, feladat ellátására irányuló foglalkoztatási jogviszony, illetve szerződéses jogviszony az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.
 
 ## 4. § A foglalkoztató szervezettel foglalkoztatási jogviszonyban vagy a Polgári Törvénykönyv szerinti szerződéses jogviszonyban álló személy jogviszonya az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül
 
