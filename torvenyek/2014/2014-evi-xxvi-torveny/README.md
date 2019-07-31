@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-26-00-00
 | 2014-10-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-26-00-00.3 |
 | 2014-10-13 | 2010. évi CXXX. törvény | 2014-26-00-00.4 |
 | 2019-07-30 | 2019. évi LXVI. törvény | 2014-26-00-00.5 |
+| 2019-07-31 | 2010. évi CXXX. törvény | 2014-26-00-00.6 |
