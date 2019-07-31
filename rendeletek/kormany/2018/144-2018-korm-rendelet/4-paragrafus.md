@@ -1,0 +1,3 @@
+4. § (1) A pénzforgalmi szolgáltató az 1. mellékletben nevesített fizetési számlához kapcsolódó szolgáltatásával összefüggő, fogyasztóknak szóló, szerződésekkel kapcsolatos kereskedelmi és marketing célú tájékoztatóiban, valamint e rendelet szerinti díjjegyzékben és díjkimutatásban kizárólag az 1. mellékletben meghatározott egységesített megnevezést és fogalommeghatározást használhatja.
+
+(2) A pénzforgalmi szolgáltató a fogyasztóknak szóló, kereskedelmi és marketing célú tájékoztatóban, valamint az e rendelet szerinti díjjegyzékben és díjkimutatásban az általa nyújtott, fizetési számlához kapcsolódó szolgáltatások megnevezésére az 1. mellékletben meghatározott egységesített megnevezés mellett másodlagos megnevezésként márkaneveket is használhat.
