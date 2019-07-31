@@ -1,7 +1,0 @@
-3. § (1) Azok a helyi választási irodák (a továbbiakban: HVI), amelyek illetékessége több mint öt szavazókörre terjed ki, az informatikai rendszert a választási célú dedikált informatikai eszközök és az anyakönyvi szolgáltató rendszer működését biztosító eszközök igénybevételével érik el.
-
-(2) Azok a HVI-k, amelyek illetékessége legfeljebb öt szavazókörre terjed ki, az informatikai rendszert az anyakönyvi szolgáltató rendszer infrastrukturális hátterének igénybevételével érhetik el. Közös önkormányzati hivatalt működtető települések esetében a területi választási iroda (a továbbiakban: TVI) vezetője a székhely településtől eltérő településen is engedélyezheti az adatfeldolgozási feladatok elvégzését. Az adatfeldolgozási helyszín változásáról a TVI vezetője az engedély kiadását követően haladéktalanul tájékoztatja a Nemzeti Választási Iroda (a továbbiakban: NVI) elnökét.
-
-(3) A választási informatikai feladatok – különösen a jelöltajánlás ellenőrzéssel összefüggő feladatok és a választásnapi feladatok – ellátására indokolt esetben a HVI vezetőjének kérésére, a TVI vezetőjének döntése alapján az okmányirodai infrastruktúra is igénybe vehető. Ha a TVI vezetője az okmányirodai infrastruktúra bevonása mellett dönt, erről értesíti az NVI elnökét.
-
-(4) A TVI-k az informatikai rendszer elérésére a választási célú dedikált informatikai eszközöket, az anyakönyvi szolgáltató rendszer működését biztosító eszközöket, továbbá az okmányirodai infrastruktúrát használhatják.
