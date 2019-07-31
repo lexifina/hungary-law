@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-66-00-00
 | 2019-07-25 | 2010. évi CXXX. törvény | 2019-66-00-00.6 |
 | 2019-07-26 | 2010. évi CXXX. törvény | 2019-66-00-00.7 |
 | 2019-07-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-66-00-00.8 |
+| 2019-07-31 | 2010. évi CXXX. törvény | 2019-66-00-00.9 |
