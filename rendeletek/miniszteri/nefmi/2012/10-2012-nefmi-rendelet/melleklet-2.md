@@ -1,4 +1,4 @@
-## 20122V20000010_8
+## 20122V20000010_9
 
 2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^13]
 
@@ -5890,6 +5890,20 @@ H5220 Astigmatizmus
 
 01205 Tórikus műlencse
 
+**** 02 0683 Bilaterális szimultán szürkehályogműtét phakoemulsificatios módszerrel
+
+BETEGSÉGEK
+
+A főcsoportba tartozó bármely betegség
+
+ÉS BEAVATKOZÁSOK
+
+51478 Bilaterális szimultán szürkehályog műtét
+
+ÉS ESZKÖZÖK
+
+01203 Hajlítható műlencse
+
 **** 02 069A Pars plana vitrectomia műlencse-beültetéssel
 
 BETEGSÉGEK
@@ -7534,16 +7548,4 @@ C0284 A nyelv átfedő elváltozása, rosszindulatú daganata IV. stádium
 
 C0290 Nyelv rosszindulatú daganata, k.m.n.
 
-C0291 Nyelv rosszindulatú daganata, k.m.n. I. stádium
-
-C0292 Nyelv rosszindulatú daganata, k.m.n. II. stádium
-
-C0293 Nyelv rosszindulatú daganata, k.m.n. III. stádium
-
-C0294 Nyelv rosszindulatú daganata, k.m.n. IV. stádium
-
-C0300 Felső fogíny rosszindulatú daganata
-
-C0301 Felső fogíny rosszindulatú daganata I. stádium
-
-[^13]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése, a 37/2018. (X. 30.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése, a 37/2018. (X. 30.) EMMI rendelet 3. § (2) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
