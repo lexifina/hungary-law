@@ -1,0 +1,7 @@
+34. § (1) Az Mttv. 65. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A kérelmet a benyújtástól számított húsz napon belül kell elbírálni. Amennyiben a kérelem nem felel meg a (2) bekezdésben foglaltaknak, a Médiatanács hiánypótlásra szólítja fel a kérelmezőt. A hiánypótlás teljesítésére a kézbesítéstől számított öt nap áll a kérelmező rendelkezésére. A hiánypótlási határidő jogvesztő, elmulasztása esetén a Médiatanács a kérelmet visszautasítja. A Médiatanács a kérelmet visszautasítja, ha a kérelem benyújtásának napja és a tervezett ideiglenes médiaszolgáltatás kezdőnapja között legalább harminc nap időköz nem telik el.”
+
+(2) Az Mttv. 65. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) Amennyiben a lineáris rádiós médiaszolgáltatási jogosultság úgy jár le, hogy a Médiatanács egy alkalommal már megújította, és a médiaszolgáltatási lehetőségre vonatkozó pályázati eljárás már megindult, a Médiatanács a korábban jogosultsággal rendelkező médiaszolgáltatóval, annak kérelmére, legfeljebb hatvannapos időtartamra – több alkalommal is – ideiglenes hatósági szerződést köthet. E bekezdés alapján ideiglenes hatósági szerződést kizárólag a pályázati eljárás – illetve a pályázati eljárás érdemében hozott határozattal vagy a pályázati eljárást megszüntető végzéssel szemben esetlegesen indított közigazgatási per jogerős – lezárásáig lehet kötni. Az ideiglenes hatósági szerződés a pályázati eljárás nyertesével való hatósági szerződés megkötésének napján megszűnik.”

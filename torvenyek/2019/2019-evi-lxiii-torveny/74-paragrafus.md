@@ -1,0 +1,3 @@
+74. § Az Mttv. 194. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A magatartási kódex részletesen tartalmazza – a 192. § szerinti felhatalmazás tárgykörében – az önszabályozó szervezet önigazgatási feladatellátásával kapcsolatos eljárási és garanciális rendelkezéseket, a tagok vonatkozó jogait és kötelezettségeit, a tagok és az önszabályozó szervezet – felhatalmazás tárgyát érintő – viszonyát, illetve az önszabályozó szervezet által meghozható döntések típusait, rendszerét és azok jogi hatását. A magatartási kódexnek rendelkeznie kell a kitűzött célok megvalósításának rendszeres, átlátható és független nyomon követéséről, ellenőrizhetőségéről és értékeléséről.”
