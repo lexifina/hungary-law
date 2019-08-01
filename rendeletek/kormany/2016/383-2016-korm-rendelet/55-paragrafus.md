@@ -2,12 +2,12 @@
 
 ## 18. A tenyésztési hatóság kijelölése
 
-## 55. § A Kormány tenyésztési hatóságként
+## 55. §[^66] A Kormány tenyésztési hatóságként
 
 a) a minisztert,
 
 b) a NÉBIH-et,
 
-c) Pest Megyei Kormányhivatalt
+c) a megyei kormányhivatal megyeszékhely szerinti járási hivatalát
 
-d) a megyei kormányhivatal megyeszékhely szerinti járási hivatalát
+[^66]: Az 55. § a 189/2019. (VII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,14 +1,14 @@
 18. § (1) Az Éltv.
 
-a)[^28] 4. §-ában, 28. § l) pontjában, 29. § c) pontjában, 30. § (2) bekezdésében, 33. § d) pontjában, 38/A. § (2) bekezdés d) pontjában, 39. § (1) és (3) bekezdésében, 44. § (1)–(6) bekezdésében, 56. §-ában, 57. §-ában, 59. § (6) bekezdésében, 63. § (1) bekezdés a)–d) pontjában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, a növény- és talajvédelmi hatáskörben eljáró járási hivatal, valamint a Pest Megyei Kormányhivatal,
+a)[^31] 4. §-ában, 28. § l) pontjában, 29. § c) pontjában, 30. § (2) bekezdésében, 33. § d) pontjában, 38/A. § (2) bekezdés d) pontjában, 39. § (1) és (3) bekezdésében, 44. § (1)–(6) bekezdésében, 56. §-ában, 57. §-ában, 59. § (6) bekezdésében, 63. § (1) bekezdés a)–d) pontjában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, a növény- és talajvédelmi hatáskörben eljáró járási hivatal, valamint a Pest Megyei Kormányhivatal,
 
-b)[^29] 34. § (3) bekezdés a) pontjában a járványügyi intézkedések elrendelése tekintetében, 58. §-ában, 61. §-ában foglaltak tekintetében a NÉBIH, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal,
+b)[^32] 34. § (3) bekezdés a) pontjában a járványügyi intézkedések elrendelése tekintetében, 58. §-ában, 61. §-ában foglaltak tekintetében a NÉBIH, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal,
 
 c) 60. §-ában foglaltak tekintetében a NÉBIH, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal és a Pest Megyei Kormányhivatal,
 
-d)[^30] 23/A. §-ában foglaltak tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal,
+d)[^33] 23/A. §-ában foglaltak tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró járási hivatal,
 
-e)[^31] 62. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal és a növény- és talajvédelmi hatáskörben eljáró járási hivatal
+e)[^34] 62. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal és a növény- és talajvédelmi hatáskörben eljáró járási hivatal
 
 ## a kijelölt élelmiszerlánc-felügyeleti szerv.
 
@@ -26,11 +26,11 @@ d) 32. § (1) bekezdés a), b), e)–g), i)–m), s) pontjában, 38. § (1) beke
 
 (3) Az Éltv.
 
-a)[^32] 8. § (2) bekezdésében, 18. § (1) bekezdés g) pontjában, 19. § (4) bekezdésében, 26. § (1) bekezdés c) és d) pontjában, 32. § (2) bekezdés a) pontjában, 33. § c) pontjában, 34. § (2) bekezdés b)–l) pontjában, (3) bekezdés b)–c) pontjában, (4) bekezdés b), f)–g) pontjában, az ellenőrzés tekintetében h) pontjában, valamint i) pontjában, 35. § (3) bekezdésében – ha e rendelet eltérően nem rendelkezik –, 35. § (4) bekezdés b) és c) pontjában, 36. § (3) bekezdésében, 51. § (3) bekezdés a)–d) és g)–t) pontjában, valamint 72. §-ában foglaltak tekintetében a NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben,
+a)[^35] 8. § (2) bekezdésében, 18. § (1) bekezdés g) pontjában, 19. § (4) bekezdésében, 26. § (1) bekezdés c) és d) pontjában, 32. § (2) bekezdés a) pontjában, 33. § c) pontjában, 34. § (2) bekezdés b)–l) pontjában, (3) bekezdés b)–c) pontjában, (4) bekezdés b), f)–g) pontjában, az ellenőrzés tekintetében h) pontjában, valamint i) pontjában, 35. § (3) bekezdésében – ha e rendelet eltérően nem rendelkezik –, 35. § (4) bekezdés b) és c) pontjában, 36. § (3) bekezdésében, 51. § (3) bekezdés a)–d) és g)–t) pontjában, valamint 72. §-ában foglaltak tekintetében a NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben,
 
 b) 16. § (2) bekezdésében, 25. § (4) és (5) bekezdésében, 33. § b) pontjában, 38/C. § (1) bekezdésében, 53. § (3) és (4) bekezdésében foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben, valamint növény- és talajvédelmi hatáskörben,
 
-c)[^33] 17. § (8) bekezdésében, 17/B. § (3) bekezdésében, 26. § (1) bekezdés a) és b) pontjában, 32. § (4) bekezdésében, 37. § (2) bekezdésében, (3) bekezdés a)–d) és f) pontjában, 38. § (1) bekezdés h), u), v) pontjában, 48. §-ában, 49. § (1) bekezdésében foglaltak tekintetében a NÉBIH és a növény- és talajvédelmi hatáskörben
+c)[^36] 17. § (8) bekezdésében, 17/B. § (3) bekezdésében, 26. § (1) bekezdés a) és b) pontjában, 32. § (4) bekezdésében, 37. § (2) bekezdésében, (3) bekezdés a)–d) és f) pontjában, 38. § (1) bekezdés h), u), v) pontjában, 48. §-ában, 49. § (1) bekezdésében foglaltak tekintetében a NÉBIH és a növény- és talajvédelmi hatáskörben
 
 ## eljáró járási hivatal a kijelölt élelmiszerlánc-felügyeleti szerv.
 
@@ -46,7 +46,7 @@ b) a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói te
 
 (6) Az állami védekezés elrendelésére a növény- és talajvédelmi hatáskörben eljáró járási hivatal a NÉBIH előzetes tájékoztatásával jogosult.
 
-(7)[^34] Az Éltv.
+(7)[^37] Az Éltv.
 
 a) 34. § (3) bekezdés a) pontjában a közcélú igénybevétel,
 
@@ -54,22 +54,22 @@ b) 51. § (3) bekezdés e), f) és u) pontjában foglaltak
 
 ## tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal és a NÉBIH a kijelölt élelmiszerlánc-felügyeleti szerv.
 
-(8)[^35] A Kormány a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény szerinti borászati termékek vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként a NÉBIH-et és a borászati hatóságként eljáró megyeszékhely szerinti járási hivatalt jelöli ki.
+(8)[^38] A Kormány a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény szerinti borászati termékek vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként a NÉBIH-et és a borászati hatóságként eljáró megyeszékhely szerinti járási hivatalt jelöli ki.
 
-(9)[^36] A Kormány a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 110/2008/EK európai parlamenti és tanácsi rendelet szerinti szeszes italok vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként a NÉBIH-et és a pálinkaellenőrző hatóságként eljáró megyeszékhely szerinti járási hivatalt jelöli ki.
+(9)[^39] A Kormány a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 110/2008/EK európai parlamenti és tanácsi rendelet szerinti szeszes italok vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként a NÉBIH-et és a pálinkaellenőrző hatóságként eljáró megyeszékhely szerinti járási hivatalt jelöli ki.
 
-(10)[^37] A Kormány az egyéb alkoholos italok vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként, mint alkoholos italokat ellenőrző hatóságként a NÉBIH-et és a megyeszékhely szerinti járási hivatalt jelöli ki.
+(10)[^40] A Kormány az egyéb alkoholos italok vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként, mint alkoholos italokat ellenőrző hatóságként a NÉBIH-et és a megyeszékhely szerinti járási hivatalt jelöli ki.
 
-(11)[^38] A Kormány Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki a (8)–(10) bekezdés szerinti feladatok ellátásáért felelős borászati, pálinkaellenőrző, valamint alkoholos itakolat ellenőrző hatóságként.
+(11)[^41] A Kormány Csongrád megye illetékességi területére kiterjedően a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki a (8)–(10) bekezdés szerinti feladatok ellátásáért felelős borászati, pálinkaellenőrző, valamint alkoholos itakolat ellenőrző hatóságként.
 
-[^28]: A 18. § (1) bekezdés a) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^29]: A 18. § (1) bekezdés b) pontja a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés a) pontja, a 171/2017. (VI. 29.) Korm. rendelet 24. § (10) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 18. § (1) bekezdés d) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (3) bekezdése iktatta be.
-[^31]: A 18. § (1) bekezdés e) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (3) bekezdése iktatta be.
-[^32]: A 18. § (3) bekezdés a) pontja a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés b) pontja, a 171/2017. (VI. 29.) Korm. rendelet 24. § (8) bekezdés c) pontja szerint módosított szöveg.
-[^33]: A 18. § (3) bekezdés c) pontja a 186/2018. (X. 9.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^34]: A 18. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (3) bekezdése iktatta be.
-[^35]: A 18. § (8) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.
-[^36]: A 18. § (9) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.
-[^37]: A 18. § (10) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.
-[^38]: A 18. § (11) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.
+[^31]: A 18. § (1) bekezdés a) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (10) bekezdés a) pontja szerint módosított szöveg.
+[^32]: A 18. § (1) bekezdés b) pontja a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés a) pontja, a 171/2017. (VI. 29.) Korm. rendelet 24. § (10) bekezdés b) pontja szerint módosított szöveg.
+[^33]: A 18. § (1) bekezdés d) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (3) bekezdése iktatta be.
+[^34]: A 18. § (1) bekezdés e) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (3) bekezdése iktatta be.
+[^35]: A 18. § (3) bekezdés a) pontja a 20/2017. (II. 2.) Korm. rendelet 17. § (8) bekezdés b) pontja, a 171/2017. (VI. 29.) Korm. rendelet 24. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^36]: A 18. § (3) bekezdés c) pontja a 186/2018. (X. 9.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^37]: A 18. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (3) bekezdése iktatta be.
+[^38]: A 18. § (8) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.
+[^39]: A 18. § (9) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.
+[^40]: A 18. § (10) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.
+[^41]: A 18. § (11) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be.

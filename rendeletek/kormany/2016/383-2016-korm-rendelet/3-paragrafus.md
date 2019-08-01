@@ -46,21 +46,21 @@ k) az 52. § (1) és (3) bekezdésében foglalt feladatok ellátásért felelős
 
 l) az 54. §-ban foglalt feladatok ellátásáért felelős telepítési hatóságként,
 
-m) az 55. § d) pontja szerinti tenyésztési hatóságként,
+m)[^11] az 55. § c) pontja szerinti tenyésztési hatóságként,
 
-n) az 57. § a), c), f), g), j) és k) pontjában foglalt feladatok ellátásáért felelős tenyésztési hatóságként,
+n)[^12]
 
 o) az 59. § d) pontja és a 60. § (1) bekezdése szerinti vadászati hatóságként
 
 ## Csongrád megyében a Csongrád Megyei Kormányhivatal Hódmezővásárhelyi Járási Hivatalát jelöli ki.
 
-(7)[^11] A Kormány
+(7)[^13] A Kormány
 
 a) a 7. § c) pontja szerinti feladatok ellátásáért felelős borászati hatóságként,
 
 b) az 50. §-ban foglalt feladatok ellátásáért felelős pálinkaellenőrző hatóságként,
 
-c) az 55. § d) pontja szerinti tenyésztési hatóságként
+c)[^14] az 55. § c) pontja szerinti tenyésztési hatóságként
 
 [^5]: A 3. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
 [^6]: A 3. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
@@ -68,4 +68,7 @@ c) az 55. § d) pontja szerinti tenyésztési hatóságként
 [^8]: A 3. § (6) bekezdés a) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (6) bekezdés d) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (8) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 3. § (6) bekezdés f) pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (8) bekezdés b) pontja szerint módosított szöveg.
-[^11]: A 3. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^11]: A 3. § (6) bekezdés m) pontja a 189/2019. (VII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^12]: A 3. § (6) bekezdés n) pontját a 189/2019. (VII. 30.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^13]: A 3. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 20. § (4) bekezdését.
+[^14]: A 3. § (7) bekezdés c) pontja a 189/2019. (VII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
