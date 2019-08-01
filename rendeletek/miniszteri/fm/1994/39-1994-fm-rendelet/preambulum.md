@@ -1,1 +1,0 @@
-Az állattenyésztésről szóló 1993. évi CXIV. törvény (a továbbiakban: Tv.) végrehajtására, a Tv. 49. §-a (1) bekezdésének a) 1., 10. és 11. pontjában kapott felhatalmazás alapján az alábbiakat rendelem el:
