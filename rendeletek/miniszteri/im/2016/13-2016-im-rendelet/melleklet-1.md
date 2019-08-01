@@ -1,29 +1,55 @@
 ## 7. § Az 1. § (1) bekezdése szerinti statisztikai adatszolgáltatást első alkalommal 2016. október 20-áig kell teljesíteni, a 2016. június 15-től 2016. szeptember 30-ig terjedő időszakra tekintettel.
 
-1. melléklet a 13/2016. (VI. 29.) IM rendelethez[^1]
+1. melléklet a 13/2016. (VI. 29.) IM rendelethez[^4]
 
-A statisztikai adatszolgáltatási adatlap a következő adatokat tartalmazza:
+## I–III. negyedévi szakértői statisztikai adatszolgáltatás tartalma
 
-Tárgyidőszak: 20... év ....... negyedév Adatszolgáltatást teljesítő szerv [Szakértői törvény 4. § (1) bekezdés b)–f) pont] neve: .............................................................................
+1. Az adatszolgáltatással érintett tárgyidőszak
 
-Igazságügyi szakértő nyilvántartási száma: ............................................................................. Terület (szakterület): .............................................................................
+1.1. naptári év
 
-| I. | Ügyforgalom | Az eljárással érintett ügyek tárgya | Magánszakértői vélemény | Egyéb | Összesen | Ebből Díjrendelet szerinti |
+1.2. naptári negyedév
 
-| Büntetőbírósági eljárás | Polgári peres eljárás | Közigazgatási és Munkaügyi bírósági eljárás | Hatósági eljárás | Egyéb |
+szerint
 
-| 1. | Az előző időszakról folyamatban maradt ügyek száma |  |  |  |  |  |  |  |  |  |
+2. Az adatszolgáltatást teljesítő
 
-| 2. | A negyedévben érkezett új ügyek száma |  |  |  |  |  |  |  |  |  |
+2.1. neve
 
-| 3. | A negyedévben befejezett ügyek száma |  |  |  |  |  |  |  |  |  |
+2.2. szakértői nyilvántartási száma (amennyiben rendelkezik ilyennel)
 
-| 4. | Tárgyidőszakban jogerős vagy véglegessé vált díjmegállapító végzéssel befejezett ügyek száma |  |  |  |  |  |  |  |  |  |
+2.3. területe és szakterülete(i) megnevezése, eseti szakértés esetén a szakterület rövid meghatározása
 
-| 5. | Tárgyidőszakban kirendelés alapján megfizetett szakértői díj (Ft-ban) |  |  |  |  |  |  |  |  |  |
+3. A szakértői szervezet megnevezése, ha az igazságügyi szakértő, illetve az eseti szakértő az adatlapon feltüntetett, saját néven végzett igazságügyi szakértői tevékenysége mellett vagy kizárólagosan a Szakértői törvény 4. § (1) bekezdés b)–f) pontja szerinti szakértői szervezet nevében adott szakvéleményt
 
-| 6. | A negyedév végén folyamatban maradt ügyek száma |  |  |  |  |  |  |  |  |  |
+4. Az ügyforgalomra vonatkozó adatok
 
-| II. | A kamarai költségátalány megállapított mértéke: |  |  | Ebből megfizetett: |  |
+4.1. a tárgynegyedévben kirendelés vagy megbízás alapján megfizetett ügyek darabszáma
 
-[^1]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 50. §-a szerint módosított szöveg.
+4.1.1. büntetőbírósági ügyek
+
+4.1.2. polgári peres eljárások
+
+4.1.3. közigazgatási és munkaügyi bírósági eljárások
+
+4.1.4. hatósági eljárások
+
+4.1.5. egyéb eljárások
+
+4.1.6. eljáráson kívül adott magánszakértői vélemény
+
+szerint
+
+4.1.7. összesítés
+
+4.1.7.1. a 4.1.1–4.1.6. pont szerinti darabszámok összesített darabszáma
+
+4.1.7.2. a 4.1.7.1. pont szerinti összesített darabszámból azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+
+5. A kamarai költségátalányra vonatkozó adatok
+
+5.1. a 4.1.7.1. pont szerinti összesített darabszám alapján megfizetendő kamarai költségátalány összege forintban
+
+5.2. azon szakvélemények darabszáma, amelyeknél a díjjegyzékben feltüntetett kamarai költségátalányt határidőben a szakértő részére nem fizették meg
+
+[^4]: Az 1. melléklet a 16/2019. (VI. 20.) IM rendelet 3. § a) pontjával megállapított szöveg.
