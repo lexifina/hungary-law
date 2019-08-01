@@ -62,7 +62,7 @@ d) a Magyar Katolikus Egyház, a Magyarországi Evangélikus Egyház, a Magyaror
 
 6. A Tanács állandó meghívottai:
 
-a)[^1] a Szociális és Gyermekvédelmi Főigazgatóság drogpolitikai feladatokért felelős szervezeti egységének képviselője,
+a)[^1] a Nemzeti Népegészségügyi Központ drogpolitikai feladatokért felelős szervezeti egységének képviselője,
 
 b)[^2] az egészségügyért felelős miniszter által vezetett minisztérium szervezeti keretén belül működő Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ képviselője,
 
@@ -92,7 +92,7 @@ a) a megbízatásra méltatlanná válik,
 
 b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátni.
 
-11.[^3] A Tanács működésével kapcsolatos titkársági teendőket a Szociális és Gyermekvédelmi Főigazgatóság drogpolitikai feladatokért felelős szervezeti egysége látja el.
+11.[^3] A Tanács működésével kapcsolatos titkársági teendőket a Nemzeti Népegészségügyi Központ drogpolitikai feladatokért felelős szervezeti egysége látja el.
 
 12. A Tanács működésének részletes szabályait a Tanács tagjai véleményének kikérését követően a miniszter által elfogadott ügyrend tartalmazza.
 
@@ -110,7 +110,7 @@ b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátn
 
 19. Az e határozat hatálybalépését követő 30 napon belül a miniszter felkéri az 5. pont b)–d) alpontja szerinti szervezeteket a Tanács tagságára való jelölésre.
 
-[^1]: A 6. pont a) alpontja az 1853/2016. (XII. 27.) Korm. határozat 21. pontjával megállapított szöveg.
+[^1]: A 6. pont a) alpontja az 1853/2016. (XII. 27.) Korm. határozat 21. pontjával megállapított, az 1428/2019. (VII. 26.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 6. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 22. pontjával megállapított szöveg.
-[^3]: A 11. pontja az 1853/2016. (XII. 27.) Korm. határozat 23. pontjával megállapított szöveg.
+[^3]: A 11. pontja az 1853/2016. (XII. 27.) Korm. határozat 23. pontjával megállapított, az 1428/2019. (VII. 26.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
