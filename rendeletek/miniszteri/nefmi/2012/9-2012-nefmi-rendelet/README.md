@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-9-20-2V
 | 2019-01-01 | 2012-9-20-2V.18 | 55/2012. (XII. 28.) EMMI rendelet |
 | 2019-07-04 | 2012-9-20-2V.19 | 55/2012. (XII. 28.) EMMI rendelet |
 | 2019-07-27 | 2012-9-20-2V.20 | 55/2012. (XII. 28.) EMMI rendelet |
+| 2019-08-01 | 2012-9-20-2V.21 | 55/2012. (XII. 28.) EMMI rendelet |
