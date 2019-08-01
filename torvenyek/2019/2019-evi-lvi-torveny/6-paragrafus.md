@@ -1,0 +1,3 @@
+6. § (1) Az eljáró tenyésztési hatóság az e törvényben és az e törvény végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hoz, bírságot szab ki vagy figyelmeztetésben részesíti az eljárás alá vont személyt.
+
+(2) Az (1) bekezdés szerinti jogkövetkezmény alkalmazásának nincs helye, ha a cselekménynek az eljáró tenyésztési hatóság tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
