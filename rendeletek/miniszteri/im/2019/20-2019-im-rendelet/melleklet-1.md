@@ -1,5 +1,7 @@
-## 20. § Hatályát veszti a helyi önkormányzati képviselők és polgármesterek választásán, valamint a nemzetiségi önkormányzati képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól és a választási eljárásban használandó nyomtatványokról szóló 4/2014. (VII. 24.) IM rendelet.
+## 20. §[^1]
 
 1–46. melléklet a 20/2019. (VII. 30.) IM rendelethez
 
 20190620000020_1
+
+[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
