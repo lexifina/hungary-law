@@ -1,4 +1,4 @@
-## A tanodák működési támogatása[^28]
+## A tanodák működési támogatása[^29]
 
 3/C. § (1) A tanodák működési támogatása alaptámogatásból és feladattámogatásból áll.
 
@@ -8,4 +8,4 @@
 
 (4) A pályázatban és a finanszírozási szerződésben vállalt feladatmutató nem lehet kevesebb a kötelezően teljesítendő feladatmutatónál, és nem lehet magasabb 30 feladategységnél.
 
-[^28]: A „A tanodák működési támogatása” alcímet (3/C. §) a 226/2018. (XII. 4.) Korm. rendelet 4. §-a iktatta be.
+[^29]: A „A tanodák működési támogatása” alcímet (3/C. §) a 226/2018. (XII. 4.) Korm. rendelet 4. §-a iktatta be.

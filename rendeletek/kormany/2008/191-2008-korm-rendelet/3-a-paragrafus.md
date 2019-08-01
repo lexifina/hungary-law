@@ -1,13 +1,13 @@
-## A krízisközpontok és a titkos menedékházak működési támogatása[^20]
+## A krízisközpontok és a titkos menedékházak működési támogatása[^21]
 
-3/A. §[^21] (1)[^22] A krízisközpont és a titkos menedékház működési támogatása a családok átmeneti otthonának feladataihoz képest nyújtott többletszolgáltatások támogatásával történik.
+3/A. §[^22] (1)[^23] A krízisközpont és a titkos menedékház működési támogatása a családok átmeneti otthonának feladataihoz képest nyújtott többletszolgáltatások támogatásával történik.
 
-(2)[^23] A krízisközpont, illetve a titkos menedékház működési támogatása minden szolgáltató esetén megegyezik. Ha a krízisközpont, illetve a titkos menedékház félutas házat is működtet, a félutas ház működtetésére további – szolgáltatónként azonos összegű – támogatás nyújtható.
+(2)[^24] A krízisközpont, illetve a titkos menedékház működési támogatása minden szolgáltató esetén megegyezik. Ha a krízisközpont, illetve a titkos menedékház félutas házat is működtet, a félutas ház működtetésére további – szolgáltatónként azonos összegű – támogatás nyújtható.
 
-(3)[^24] A krízisközpont és a titkos menedékház működési támogatása a krízisközpontként, illetve titkos menedékházként működő családok átmeneti otthonában ellátott személyek után igénybe vehető normatív állami hozzájárulásra való jogosultságot nem érinti.
+(3)[^25] A krízisközpont és a titkos menedékház működési támogatása a krízisközpontként, illetve titkos menedékházként működő családok átmeneti otthonában ellátott személyek után igénybe vehető normatív állami hozzájárulásra való jogosultságot nem érinti.
 
-[^20]: A 3/A. §-t megelőző alcímet a 140/2011. (VII. 21.) Korm. rendelet 3. §-a iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése c) pontja szerint módosított szöveg.
-[^21]: A 3/A. §-t a 140/2011. (VII. 21.) Korm. rendelet 3. §-a iktatta be.
-[^22]: A 3/A. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése d) pontja szerint módosított szöveg.
-[^23]: A 3/A. § (2) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése e) pontja szerint módosított szöveg.
-[^24]: A 3/A. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése f) pontja szerint módosított szöveg.
+[^21]: A 3/A. §-t megelőző alcímet a 140/2011. (VII. 21.) Korm. rendelet 3. §-a iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése c) pontja szerint módosított szöveg.
+[^22]: A 3/A. §-t a 140/2011. (VII. 21.) Korm. rendelet 3. §-a iktatta be.
+[^23]: A 3/A. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése d) pontja szerint módosított szöveg.
+[^24]: A 3/A. § (2) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése e) pontja szerint módosított szöveg.
+[^25]: A 3/A. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése f) pontja szerint módosított szöveg.

@@ -1,9 +1,7 @@
-## 28. §[^189]
-
-29. §[^190]
+29. §[^189] E rendeletnek a Társadalmi Esélyteremtési Főigazgatóságról, valamint egyes kormányrendeleteknek a Szociális és Gyermekvédelmi Főigazgatóság egyes feladatainak átadásával kapcsolatos módosításáról szóló 180/2019. (VII. 26.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 23. §-a és 28. §-a alapján a felek a Biztos Kezdet Gyerekház és a tanoda esetében a finanszírozási szerződéseket a Módr. hatálybalépésétől[^190] számított 60 napon belül módosítják.
 
 Melléklet a 191/2008. (VII. 30.) Korm. rendelethez[^191]
 
-[^189]: A 28. §-t újonnan a 252/2014. (X. 2.) Korm. rendelet 2. §-a iktatta be, a 448/2016. (XII. 19.) Korm. rendelet 40. § d) pontja hatályon kívül helyezte.
-[^190]: A 29. §-t a 221/2015. (VIII. 7.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 419/2015. (XII. 23.) Korm. rendelet 24. § 32. pontja.
+[^189]: A 29. §-t újonnan a 180/2019. (VII. 26.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^190]: A hatálybalépés időpontja 2019. július 27.
 [^191]: A mellékletet a 320/2009. (XII. 29.) Korm. rendelet 21. § (1) bekezdés m) pont mf) alpontja hatályon kívül helyezte.
