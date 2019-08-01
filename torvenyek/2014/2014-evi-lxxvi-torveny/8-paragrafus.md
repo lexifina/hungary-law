@@ -1,6 +1,6 @@
 ## 5. Az NKFI Hivatal szervezete és működése
 
-8. § (1) Az NKFI Hivatalt elnök vezeti, aki a kutatás-fejlesztési és innovációs ügyekben képviseli az NKFI Hivatalt a Kormány és az Országgyűlés előtt, valamint ellátja a kutatás-fejlesztési és innovációs ügyek nemzetközi szervezetek előtti kormányzati képviseletét. Az elnök tevékenységét elnökhelyettesek segítik.
+8. § (1) Az NKFI Hivatalt elnök vezeti, aki a kutatás-fejlesztési és innovációs ügyekben ellátja a tudománypolitika koordinációjáért felelős miniszter által ráruházott képviseleti és egyéb feladatokat. Az elnök tevékenységét elnökhelyettesek segítik.
 
 (2) Az NKFI Hivatal elnökét a miniszterelnök, elnökhelyetteseit az NKFI Hivatal elnökének javaslatára a miniszterelnök nevezi ki és menti fel, a kinevezés időtartama 5 év. Ugyanaz a személy az NKFI Hivatal elnökévé, elnökhelyettesévé legfeljebb két alkalommal nevezhető ki.
 

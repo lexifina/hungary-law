@@ -1,4 +1,4 @@
-5. § (1) Az NKFI Hivatal elnökének koordinálásával a miniszterek és a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
+5. § (1) A tudománypolitika koordinációjáért felelős miniszter koordinálásával az NKFI Hivatal elnöke, a miniszterek és a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
 
 (2) A miniszterek, az NKFI Hivatal elnöke és az MTA elnöke feladatkörükben együttműködve
 

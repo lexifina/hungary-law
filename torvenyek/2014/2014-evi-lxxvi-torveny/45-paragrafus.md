@@ -1,9 +1,9 @@
 ## 16. Átmeneti rendelkezések
 
-45. § (1) Az NKFI Hivatal 2015. január 1-jei hatállyal, az Országos Tudományos Alapprogramok Iroda (a továbbiakban: OTKA Iroda) és a Nemzeti Innovációs Hivatal (a továbbiakban: NIH) összeolvadásával jön létre. Az összeolvadást követően az NKFI Hivatal mint az OTKA Iroda és a NIH általános és egyetemes jogutódja látja el az összeolvadó költségvetési szervek közfeladatait.
+45. § (1) A 2. mellékletben felsorolt köztestületi költségvetési szervek központi költségvetési szervként működnek tovább az ELKH Titkárság irányítása és alapítói joggyakorlása mellett.
 
-(2) Az OTKA Iroda, a NIH és a Kutatási és Technológiai Innovációs Alap kiadási előirányzatai terhére 2014. december 15-ét követően új kötelezettség nem vállalható, kivéve a jogszabály által előírt, valamint a napi üzemi működést érintő kötelezettségeket, amelyek esetében e határnap 2014. december 31.
+(2) A működési forma és az irányító szerv személyének, valamint az intézmények címrendi besorolásának változása a kutatóhelyek jogalanyiságát nem érinti, a 2. melléklet szerinti központi költségvetési szervek az ott felsorolt köztestületi költségvetési szervek valamennyi jogát és kötelezettségét folytatólagosan gyakorolják. A működési forma jelen bekezdés szerinti változása nem minősül az Áht. 11. § (2) bekezdése szerinti átalakulásnak, valamint arra az Áht. 11. § (5)–(6) bekezdései nem alkalmazhatók.
 
-(3) A Kutatási és Technológiai Innovációs Alap 2014. december 31-én megszűnik. A 2015. január 1-jén folyamatban lévő, a Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény, illetve az Országos Tudományos Kutatási Alapprogramokról szóló 1997. évi CXXXVI. törvény alapján nyújtott költségvetési támogatásokhoz kapcsolódó kezelő szervi feladatokat 2015. január 1-jétől az NKFI Hivatal végzi, az NKFI Alap terhére.
+(3) A (2) bekezdés szerinti működési formaváltás a köztestületi költségvetési szervvel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
 
-(4) A Kutatási és Technológiai Innovációs Alap működtetésének adminisztratív feladatai ellátása tekintetében az NKFI Hivatal a Miniszterelnökség jogutódja.
+(4) A (2) bekezdés szerinti működési formaváltás a köztestületi költségvetési szerv mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonyát nem érinti, a köztestületi költségvetési szervekre irányadó foglalkoztatási szabályok a 2. mellékletben foglalt központi költségvetési szervekre nézve is kötelezően alkalmazandók.
