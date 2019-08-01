@@ -1,3 +1,3 @@
-23. §[^55]
+23. §[^63]
 
-[^55]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

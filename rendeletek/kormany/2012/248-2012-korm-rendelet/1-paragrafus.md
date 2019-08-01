@@ -18,7 +18,7 @@ b) az Nftv. 48/A. § d) pontja szerinti visszatérítési kötelezettséget meg�
 
 (4)[^7] Az Nftv. 48/B. § (8) bekezdése szerinti esetben a kötelezettségek teljesítése szempontjából figyelembe kell venni a szakváltást megelőző magyar állami (rész)ösztöndíjjal folytatott tanulmányokat.
 
-(5)[^8] A Hivatal a hallgató tanulmányi útját nem követi figyelemmel azt követően, hogy a hallgató a képzési és kimeneti követelményekben meghatározott képzési idő másfélszeresén belül nem szerzett oklevelet és az Nftv. 48/A. § c) pontja szerinti visszatérítési kötelezettsége véglegessé vált döntésben megállapításra került.
+(5)[^8] A Hivatal a hallgató tanulmányi útját nem követi figyelemmel azt követően, hogy a hallgató a képzési és kimeneti követelményekben meghatározott képzési idő másfélszeresén belül nem szerzett oklevelet.
 
 [^1]: Az 1. alcím címe a 325/2013. (VIII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
@@ -27,4 +27,4 @@ b) az Nftv. 48/A. § d) pontja szerinti visszatérítési kötelezettséget meg�
 [^5]: Az 1. § (1) bekezdés a) pont ab) alpontja a 87/2015. (IV. 9.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (3) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 29. § 1. pontja hatályon kívül helyezte.
 [^7]: Az 1. § (4) bekezdése a 74/2014. (III. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (5) bekezdését a 325/2013. (VIII. 29.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 87/2015. (IV. 9.) Korm. rendelet 75. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 404. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^8]: Az 1. § (5) bekezdését a 325/2013. (VIII. 29.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte, újonnan a 87/2015. (IV. 9.) Korm. rendelet 75. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 404. § a) pontja, a 191/2019. (VII. 30.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
