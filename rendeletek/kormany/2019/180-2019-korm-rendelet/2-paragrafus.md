@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 10. § (2) bekezdése alapján 2019. augusztus 1-jén lép hatályba.
+## 1. § A Társadalmi Esélyteremtési Főigazgatóság (a továbbiakban: Főigazgatóság) a társadalmi felzárkózásért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó központi hivatalként működő központi költségvetési szerv.

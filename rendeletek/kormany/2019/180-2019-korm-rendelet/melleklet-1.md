@@ -1,3 +1,9 @@
-1. melléklet a 180/2019. (VII. 26.) Korm. rendelethez[^19]
+1. melléklet a 180/2019. (VII. 26.) Korm. rendelethez
 
-[^19]: Az 1. melléklet a 10. § (2) bekezdése alapján 2019. augusztus 1-jén lép hatályba.
+I. Társadalmi Esélyteremtési Főigazgatóság
+
+|  | A | B Székhely | C Illetékességi terület |
+
+| 1. | Társadalmi Esélyteremtési Főigazgatóság | Budapest | Budapest és Pest megye |
+
+II. A Társadalmi Esélyteremtési Főigazgatóság igazgatóságai

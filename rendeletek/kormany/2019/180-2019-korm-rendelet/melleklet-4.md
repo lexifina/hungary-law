@@ -1,3 +1,9 @@
-4. melléklet a 180/2019. (VII. 26.) Korm. rendelethez[^21]
+4. melléklet a 180/2019. (VII. 26.) Korm. rendelethez
 
-[^21]: A 4. melléklet a 10. § (2) bekezdése alapján 2019. augusztus 1-jén lép hatályba.
+A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklet E) pontjában foglalt táblázat a következő 11. sorral egészül ki:
+
+|  | (A | B |
+
+| 1 | A központi államigazgatási szerv neve | A miniszter hatásköre) |
+
+| 11 | Társadalmi Esélyteremtési Főigazgatóság | irányítás |
