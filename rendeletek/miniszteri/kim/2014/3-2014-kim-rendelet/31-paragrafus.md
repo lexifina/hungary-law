@@ -1,1 +1,0 @@
-## 30. § A Ve. 147/A–147/E. § szabályozása alá nem tartozó, országosan elérhető lineáris médiaszolgáltatást nyújtó médiaszolgáltató legkésőbb 2014. február 15-én 16.00 óráig közli a Nemzeti Választási Bizottsággal, ha biztosítani kívánja politikai reklám közzétételének lehetőségét. [Ve. 147/F. § (1) bekezdés]
