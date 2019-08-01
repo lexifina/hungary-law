@@ -1,0 +1,1 @@
+## 36. § A Ve. 327. § (1) bekezdése szerinti szavazatszámlálás eredményéről kiállított jegyzőkönyvek egy-egy példányát a helyi választási iroda legkésőbb 2019. október 14-én 10.00 óráig eljuttatja a területi választási irodához. [Ve. 329. § (1) bekezdés]
