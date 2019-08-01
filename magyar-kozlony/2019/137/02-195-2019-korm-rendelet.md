@@ -1,0 +1,430 @@
+# A Kormány 195/2019. (VIII. 1.) Korm. rendelete
+
+Magyar Közlöny 2019. évi 137. szám, 2019. augusztus 1. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/mETy3gQIM7IXZV7cDzko5d40ad5366497/dokumentumok/b880213d783e1a39ea4b0a3c86290da2ec9c5cac/letoltes)
+
+---
+
+A Kormány 195/2019. (VIII. 1.) Korm. rendelete
+a kiadványok kötelespéldányainak szolgáltatásáról, megőrzéséről és használatáról
+A Kormány
+a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 100. §
+(1) bekezdés k) pontjában, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény
+206. § (3) bekezdésében,
+a 22. § tekintetében a hivatalos statisztikáról szóló 2016. évi CLV. törvény 47. § (1) bekezdés c) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A rendelet hatálya
+1. § (1) A rendelet hatálya kiterjed
+a) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény
+(a továbbiakban: Kultv.) 1. melléklet z) pontja szerinti kiadványok (a továbbiakban: kiadvány) kiadóira,
+b) a mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) 2. § 2. pontja szerinti filmalkotások, továbbá
+a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban:
+Mttv.) 203. § 22. pont d) alpontjában felsorolt kiadványok (a továbbiakban együtt: film) filmelőállítóira,
+filmgyártó vállalkozásaira és forgalmazóira,
+c) a Magyarországon működő nyomdákra, valamint az egyéb kötelespéldány-szolgáltatásra kötelezett
+szervezetekre,
+d) a kötelespéldányokból részesülő szervezetekre, valamint
+e) a filmkészítéshez támogatást nyújtó szervezetekre.
+(2) A rendelet tárgyi hatálya kiterjed
+a) a Magyarországon előállított és kiadott magyar és idegen nyelvű kiadványra, beleértve azt is,
+aa) amelynek nyilvános hozzáférhetővé tételét az ügyészség vagy a bíróság – részben vagy egészben –
+felfüggesztette vagy megtiltotta,
+ab) amely a kiadó intézkedése alapján terjesztési korlátozás alá esik,
+b) a külföldön előállított és Magyarországon kiadott kiadványra,
+c) a magyar nyelvű, külföldön előállított és Magyarországon forgalomba hozott kiadványra.
+(3) Nem terjed ki a rendelet tárgyi hatálya
+a) az időszaki kiadvány kivételével gazdálkodó szervezet és gazdálkodó szervezetnek nem minősülő jogi
+személy működésével kapcsolatban keletkezett, annak irattárában, kép- és hangfelvételtárában őrzött
+kiadványra,
+b) az ügykezelésre szánt hivatali és üzleti nyomtatványra,
+c) a tervdokumentációra, a műszaki rajzra, a cikklistára, a kódszámjegyzékre, a vizsgakérdésre, a tételjegyzékre,
+a termékcsomagoláson lévő címkére, a kezelési útmutatóra, a havi rendszerességnél sűrűbben megjelenő
+kereskedelmi katalógusra, a termékismertetőre,
+d) a névjegyre,
+e) a külföldi kiadású, Magyarországon előállított, nem magyar nyelvű, nyomtatott kiadványra,
+f) a közösségi tartalomszolgáltatón közzétett kiadványra,
+g) azon kiadványra, amelynek nyilvánosságra hozatalához a szerzői jogról szóló törvény alapján a szerző nem
+adott engedélyt, az engedélyt visszavonta, vagy megtiltotta a további felhasználást, valamint
+h) azon kiadványra, amely minősített adatot tartalmaz.
+(4) A rendelet hatálya nem terjed ki a Nemzeti Audiovizuális Archívumról szóló törvény szerinti audiovizuális
+kötelespéldány szolgáltatására.
+
+2. Értelmező rendelkezések
+2. §
+E rendelet alkalmazásában:
+ 1. diafilm: diapozitív állóképekből álló, azonos tárgykörből vett – hangrögzítéses vagy anélküli – rendszerint
+16 vagy 35 mm széles filmre rögzített képsor, amelyet képről képre haladva vetítenek;
+ 2. dubpozitív: az a mozivetítésre alkalmatlan reproduktív anyag, amely dubnegatívon keresztül a további pozitív
+kópiák gyártásához szükséges, egyben az eredeti negatív védelmére is szolgál;
+ 3. elektronikus kiadvány: az Mttv. 203. § 22. pontja szerinti kiadvány fizikai adathordozón megjelent vagy kiadó
+által online közzétett elektronikus eszközön megjeleníthető formája;
+ 4. film eredeti kép- és hangnegatívja: a filmalkotás megvágott, végleges változatának mozivetítésre alkalmatlan,
+eredeti kép- és hangnegatívja, a további reproduktív kellékanyagok, így különösen a dubpozitív és
+a dubnegatív, továbbá a pozitív gyártás kiinduló anyaga;
+ 5. film pozitívja: a filmalkotás végleges változatának eredeti kép- és hangnegatívjáról vagy reproduktív
+kellékanyagáról készült pozitív, mozivetítésre alkalmas példány;
+ 6. fizikai adathordozón megjelent elektronikus kiadvány: optikai vagy digitális adathordozón tartósan tárolt
+kiadvány, amely lehetővé teszi az adatok változatlan formában és tartalommal történő megjelenítését;
+ 7. helyi kiadvány: az adott településen vagy megyében a kiadó székhelye szerinti megjelenési helyen kiadott
+kiadvány;
+ 8. igény szerint nyomtatott kiadvány: elektronikus formában létrejött, nyomtatott formában forgalmazásra kerülő
+kiadvány, amelynek nyomtatott példányszámát a piaci igény határozza meg;
+ 9. kartográfiai kiadvány: a Földet vagy bármely égitestet egészben vagy részben, bármilyen méretarányban,
+kartográfiai módszerekkel ábrázoló, nyomtatott és elektronikus kiadvány, így különösen a statikus
+elektronikus térkép, bármely földrajzi koordinátához kötött tematikus információt, téradatot tartalmazó
+online térképészeti adatbázis, téradatbázis, továbbá a földgömb, valamint az éggömb;
+10. kiadás: valamely mű azonos szedéssel egy időben sokszorosított összes példánya, amely lehet eredeti,
+javított, bővített vagy átdolgozott kiadás;
+11. kiadási változat: a nyelvi változat, valamint az eltérő kötéstípussal vagy eltérő borítóval kiadott változatlan
+tartalmú kiadvány;
+12. kisnyomtatvány: négy ívnél kisebb terjedelmű kiadvány;
+13. magyar nyelvű kiadvány: magyar nyelvű címoldallal vagy címképernyővel rendelkező kiadvány, valamint
+az a kiadvány, amelynek írott vagy hangzó szöveges része legalább 50%-ban magyar nyelvű, idetartozik
+továbbá a magyar nyelvű szójegyzékkel is rendelkező többnyelvű szótár, valamint a magyar nyelvű
+tartalommal is rendelkező poliglott és bilingvis kiadvány;
+14. nemzetiségi kiadvány: a magyarországi nemzetiségek anyanyelvén vagy a nemzetiségi szerzők magyar
+nyelven megjelent szépirodalmi kiadványa, ezek műfordításai, továbbá a magyarországi nemzetiségekről
+szóló szakirodalom és zenei kiadványok;
+15. nemzetközi azonosító szám:
+a) könyv, térkép, elektronikus kiadvány,
+b) időszaki kiadvány és a folyamatosan frissülő integráló dokumentum,
+c) speciális jelrendszerrel, hangjegyekkel rögzített, nyomtatott vagy elektronikus formában megjelenő
+zenemű, kotta, valamint
+d) Magyarországon gyártott vagy forgalmazott film
+azonosítására és nyilvántartására szolgáló nemzetközi dokumentumazonosító szám;
+16. nyelvi változat: a kiadással egyidejűleg kiadott idegen nyelvű kiadási változat;
+17. online elektronikus kiadvány: elektronikus formában létrehozott és az interneten – ingyenesen vagy térítés
+fejében hozzáférhetővé tett – nyilvánosságra hozott kiadvány;
+18. terjesztési korlátozás: egy kiadvány nyilvános terjesztésének leszűkítése kötelespéldány-szolgáltatásra
+kötelezett által meghatározott felhasználói körre, forgalmazási módra, illetve 8 évnél nem hosszabb
+időtartamra;
+19. videótermék: optikai vagy más fizikai adathordozón lakossági kereskedelmi forgalomba került film;
+20. lekérhető médiaszolgáltatás: az Mttv. 203. § 35. pontja szerinti, a filmek lakossági terjesztésére szolgáló
+médiaszolgáltatás.
+
+3. A kötelespéldányra jogosult és a kötelespéldány szolgáltatására kötelezett
+3. § (1) Kötelespéldányra jogosult (a továbbiakban: jogosult):
+a) nyomtatott kiadványok esetében
+aa) az Országos Széchényi Könyvtár (a továbbiakban: OSZK),
+ab) a kiadó székhelye szerint illetékes megyei hatókörű városi könyvtár,
+ac) budapesti székhelyű kiadó esetén a Fővárosi Szabó Ervin Könyvtár (a továbbiakban: FSZEK),
+b) diafilm és diakép esetében a Magyar Nemzeti Filmalap Filmarchívum Igazgatósága (a továbbiakban: MNFA),
+c) elektronikus kiadványok esetében – a d) pont kivételével – az OSZK,
+d) film-, videótermék és lekérhető médiaszolgáltatáson megjelenő film esetében az MNFA,
+e) a szabványok esetében a Magyar Szabványügyi Testület (a továbbiakban: MSZT),
+f) a szabadalmi leírás esetében a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH).
+(2) Az OSZK jogosult átvenni az önkéntesen felajánlott, külföldön kiadott kiadványokat.
+4. § (1) A kötelespéldány szolgáltatására kötelezett (a továbbiakban: szolgáltató):
+a) az analóg kiadvány és annak elektronikus nyomdai változata esetében – a b) pont kivételével − a kiadó,
+b) a kisnyomtatványok esetében a nyomda,
+c) fizikai adathordozón megjelent elektronikus kiadvány esetében a kiadó,
+d) online elektronikus kiadvány esetében az első magyarországi kiadó,
+e) online térképészeti adatbázis, téradatbázis esetén az első magyarországi előállító,
+f) film esetében a magyar filmelőállító és a magyar filmgyártó vállalkozás a 6. alcímben foglaltaknak
+megfelelően,
+g) a magyar nyelvű, külföldön előállított és Magyarországon forgalomba hozott vagy bemutatott film esetében
+az első magyarországi forgalmazó,
+h) jogutódlással történő megszűnés esetén az a)–f) pontokban foglalt szolgáltatók jogutódja,
+i) jogutód nélküli megszűnés esetén a szolgáltató tagja, alapítója.
+(2) A kötelespéldányt a szolgáltató ellenszolgáltatás nélkül szolgáltatja a jogosult részére. A kötelespéldány
+szolgáltatásával kapcsolatban felmerült költségek a szolgáltatót terhelik.
+(3) A kiadó megállapodhat a nyomdával, hogy a kötelespéldány szolgáltatásának kötelezettségét a nyomda viseli,
+a szolgáltatás teljesítéséért azonban a kiadó köteles helytállni.
+4. A kötelespéldány szolgáltatásának szabályai nyomtatott kiadványok esetében
+5. § (1) A nyomtatott kiadvány szolgáltatásával egy időben a kiadványnak tartalmilag és képileg mindenben megegyező,
+elektronikus nyomdai változatát is szolgáltatni kell egy példányban az OSZK számára fizikai adathordozón vagy
+online feltöltéssel.
+(2) Kötelespéldányt kell szolgáltatni a nyomtatott kiadvány valamennyi kiadási változatából. Nem kell kötelespéldányt
+szolgáltatni a kiadási változatnak nem minősülő, változatlan tartalmú és formájú tárgyévi új kiadásból.
+(3) A nyomtatott kiadvány azon kiegészítő részeiből vagy mellékleteiből, amelyek önálló kiadványként nem tartoznak
+szolgáltatási kötelezettség alá, kötelespéldányt kell szolgáltatni, ha azok szolgáltatási kötelezettség alá eső
+kiadványok kiegészítő részei vagy mellékletei.
+(4) Kötelespéldányként csak hibátlan, teljes, archiválásra alkalmas példány szolgáltatható.
+(5) A jogosult a kötelespéldányként szolgáltatott nyomtatott kiadványokat a szerzői jogról szóló törvény szerinti szabad
+felhasználás körében használhatja fel.
+6. § (1) A nyomtatott kiadványból − a (3) bekezdésben foglalt kivétellel − hat kötelespéldányt kell szolgáltatni az OSZK
+számára.
+(2) Az (1) bekezdésben foglaltakon túlmenően a helyi kiadványból – a (3) bekezdésben foglalt kivétellel –
+egy kötelespéldányt kell szolgáltatni a kiadó székhelye szerint illetékes megyei hatókörű városi könyvtár, budapesti
+székhelyű kiadó esetén a FSZEK számára.
+(3) Kettő kötelespéldányt kell szolgáltatni az OSZK számára
+a) a kultúráért felelős miniszter (a továbbiakban: miniszter) által meghatározott és a kormányzati portálon
+közzétett kisnyomtatványtípusokból,
+b) a kiadási változatból,
+
+c) a külföldön előállított és Magyarországon forgalomba hozott, nyomtatott, de nem Magyarországon kiadott
+magyar nyelvű kiadványból,
+d) a legfeljebb 50 példányban sokszorosított, nemzetközi azonosító számmal rendelkező nyomtatott
+kiadványból, valamint az egyedi igény alapján nyomtatott kiadványból.
+(4) A szabványokból egy példányt kötelespéldányként archivál az MSZT, a szabadalmi leírásból egy példányt
+kötelespéldányként őriz az SZTNH.
+7. § (1) A kötelespéldányokat legkésőbb a nyomtatott kiadvány megjelenésének napját követő 15. napig kell a jogosult
+számára megküldeni vagy hozzá közvetlenül benyújtani.
+(2) A kötelespéldányokat két példányban kiállított szállítólevéllel együtt kell szolgáltatni, amely tartalmazza
+a) a szolgáltató szervezet nevét,
+b) a szolgáltató szervezet címét,
+c) a kiadvány címét,
+d) a kiadvány szerzőjének nevét,
+e) időszaki kiadvány esetében a részegység számát,
+f) a kiadvány nemzetközi azonosító számát, amennyiben rendelkezik ilyen azonosítóval,
+g) a kötelespéldányként szolgáltatott példányszámot,
+h) a kiadvány megjelenési példányszámát,
+i) a kiadvány árát vagy értékét, valamint
+j) a kézbesítés dátumát.
+(3) A kötelespéldány szolgáltatója – a 2. § 15. pont a) és c) alpontja szerinti kiadványokhoz és zeneművekhez tartozó
+nemzetközi azonosító szám számcsoportján belül saját kiadói azonosító számmal nem rendelkező kiadó kivételével –
+a tárgyévben megjelent kiadványairól éves jelentést küld elektronikus úton egy példányban az OSZK részére
+a megjelenési évet követő év március 15-ig.
+(4) A (3) bekezdés szerinti jelentés tartalmazza
+ 1. a szolgáltató szervezet nevét,
+ 2. a szolgáltató szervezet címét,
+ 3. az adatszolgáltatásért felelős személy nevét,
+ 4. a kiadvány címét,
+ 5. a kiadvány szerzőjének nevét,
+ 6. a kiadás számát,
+ 7. időszaki kiadvány esetében a részegység számát,
+ 8. a kiadvány alakját, terjedelmét,
+ 9. a kiadvány megjelenési példányszámát,
+10. a kiadvány nemzetközi azonosító számát, amennyiben rendelkezik ilyen azonosítóval,
+11. a nyomda nevét és postacímét,
+12. a szerzői jog jogosultjának nevét és elérhetőségét,
+13. a kiadvány kiadására jogosult nevét és elérhetőségét,
+14. a kiadási jog lejártának időpontját,
+15. a kiadvány árát vagy értékét, valamint
+16. a nemzetközi dokumentumazonosító számmal rendelkező, de meg nem jelent kiadványok felsorolását.
+(5) Terjesztési korlátozás esetén a szolgáltató a korlátozás tényéről és tartalmáról a kötelespéldány szolgáltatásával
+egyidejűleg tájékoztatja a jogosultat.
+8. § (1) Az OSZK a 6. § (1) bekezdése szerint szolgáltatott hat kötelespéldány közül
+a) egy példányt archivál,
+b) egy példányból a nyilvános könyvtári szolgáltatásait és az igazgatási feladatokat látja el,
+c) egy példányt biztosít a Debreceni Egyetem Egyetemi és Nemzeti Könyvtára számára (a továbbiakban:
+DEENK) a nyilvános könyvtári szolgáltatásai, valamint az Országos Dokumentumellátási Rendszerben
+(a továbbiakban: ODR) nyújtott szolgáltatásai céljára,
+d) egy példányt biztosít a hivatalos statisztikáról szóló törvény alapján a Központi Statisztikai Hivatal
+Könyvtárnak (a továbbiakban: KSH Könyvtár) a 9. § (2) bekezdése szerinti szolgáltatás céljára,
+
+e) egy példányt biztosít gyűjtőkörének megfelelően az Országgyűlési Könyvtárnak (a továbbiakban: OGYK)
+a 9. § (1) bekezdése szerinti szolgáltatás céljára, amelyből a Magyarországon kiadott, nemzetiségi kiadványokra
+az Országos Idegennyelvű Könyvtár jogosult,
+f) egy példányt biztosít szolgáltatás céljára a gyűjtőköri megosztás figyelembevételével
+a Pécsi Tudományegyetem Egyetemi Könyvtár és Tudásközpontnak (a továbbiakban: PTE EK TK) vagy
+a Szegedi Tudományegyetem Klebelsberg Kuno Könyvtárnak (a továbbiakban: SZTE Klebelsberg Könyvtár).
+(2) Az OSZK az át nem vett példányokat a használat biztosítása céljára az országos szakkönyvtárak és az egyetemi
+könyvtárak között osztja szét a miniszter által meghatározott gyűjtőköri szempontokra figyelemmel.
+(3) A kötelespéldányok OSZK-ból történő elszállításáról az (1) és (2) bekezdés alapján kötelespéldányban részesülő
+könyvtárak gondoskodnak, és viselik annak költségét.
+9. § (1) Az OGYK kötelespéldány-szolgáltatáson alapuló kötelezettsége elsősorban az Országgyűlés bizottságainak,
+képviselőcsoportjainak, az országgyűlési képviselőknek, szakértőiknek és az Országgyűlés Hivatalának szakirodalmi
+ellátása, továbbá az ODR szolgáltató könyvtári feladatainak ellátása, továbbá az állam- és jogtudomány,
+a politikatudomány, a legújabb kori magyar és egyetemes történelem hazai szakirodalmának, valamint
+az Országgyűlés dokumentumainak hozzáférhetővé tétele az ODR-en belül. A Magyarországon kiadott nemzetiségi
+kiadványokat az ODR-ben az Országos Idegennyelvű Könyvtár szolgáltatja.
+(2) A KSH Könyvtár kötelespéldány-szolgáltatáson alapuló kötelezettsége a nyilvános könyvtári és országos
+szakkönyvtári feladatok, valamint az ODR szolgáltató könyvtári feladatainak ellátása, továbbá e kötelezettségével
+összefüggésben a KSH Könyvtár ellátja a könyvkiadásra vonatkozó országos statisztikai számbavétel feladatait.
+(3) Az országos szakkönyvtár és az egyetemi könyvtár kötelespéldány-szolgáltatáson alapuló kötelezettségként
+országos szakbibliográfiát épít, továbbá biztosítja a kötelespéldányok hozzáférhetővé tételét az ODR szolgáltató
+könyvtáraként.
+10. §
+Az OSZK a 7. § (3) bekezdése szerinti jelentést minden év március 31-éig megküldi a területileg illetékes megyei
+hatókörű városi könyvtárnak, Budapesten a FSZEK-nek és a DEENK-nek.
+11. § (1) A nemzetközi azonosító szám kezelőjének nyilvántartása alapján a jogosult a nemzetközi azonosító számmal
+rendelkező kiadvány kódjának ellenőrzésével, valamint az éves szolgáltatói jelentések összehasonlításával vizsgálja
+a kötelespéldány-szolgáltatás megfelelő teljesítését.
+(2) A jogosult a Kultv. 59. § (2c) bekezdésében meghatározott esetben, az ott meghatározott jogkövetkezmények
+alkalmazása előtt legfeljebb 15 napos határidő kitűzésével felszólítja a szolgáltatót a szolgáltatás teljesítésére.
+(3) A (2) bekezdés szerinti felhívás kézhezvételétől számított 3 napon belül a szolgáltató köteles a hibátlan példányra
+kicserélt vagy kiegészített hibás vagy nem teljes példányt, illetve a szolgáltatni elmulasztott kötelespéldányt
+a jogosult részére megküldeni vagy hozzá közvetlenül benyújtani.
+12. § (1) A nyilvánosan hozzáférhetővé tett kiadvány kötelespéldányának felhasználását megtiltani vagy korlátozni csak
+hatósági vagy bírósági határozat, valamint a szerzőnek a szerzői jogról szóló törvény szerinti, a mű nyilvánosságra
+hozatalához adott engedélyt visszavonó vagy felhasználását megtiltó nyilatkozata alapján lehet.
+(2) Ha a szerző a nyilvánosságra hozatalhoz az engedélyt a kiadvány megjelenése és a kötelespéldány szolgáltatása
+után vonja vissza, az OSZK két példányt a szerző által meghatározott terjesztési korlátozás szerint kezel, a többi
+kötelespéldányt visszavonja a kedvezményezett könyvtáraktól.
+(3) A könyvtár az (1) bekezdés szerinti hatósági vagy bírósági határozatnak, illetve a terjesztési korlátozásnak
+megfelelően kezelt kötelespéldány használatát a minősített adat kutatási szabályainak megfelelően biztosítja.
+13. § (1) A jogosult a kötelespéldányt nyilvántartásba veszi, feltárja és a nyilvános könyvtári ellátás rendszerében
+hozzáférhetővé teszi.
+(2) A kötelespéldányokból részesülő könyvtár a gyűjtőkörébe tartozó kötelespéldányokat köteles archiválni.
+Az archiválási kötelezettség alá nem tartozó kötelespéldány a használati adatok csökkenésének kimutatása esetén,
+a miniszter engedélyével törölhető az állomány-nyilvántartásból, és fel kell ajánlani a könyvtárak számára átvételre.
+(3) Az archivált kötelespéldány muzeális könyvtári dokumentum.
+
+5. A kötelespéldány szolgáltatásának szabályai elektronikus kiadványok esetében
+14. § (1) Kötelespéldányt kell szolgáltatni az elektronikus kiadványból, ha az
+a) Magyarországon bejegyzett domainnév vagy magyarországi szolgáltató által külföldön bejegyeztetett
+domainnév alatt jelent meg, és magyar nyelvű vagy Magyarországgal kapcsolatos kulturális, oktatási vagy
+tudományos tartalmú,
+b) hazai költségvetési forrásból létrehozott vagy támogatott, határon túli, a Kultv. 1. számú melléklet d) pontja
+szerinti hungarikum (a továbbiakban: hungarikum), valamint
+c) nyomtatott kiadvány elektronikus változata.
+(2) Kötelespéldányt kell szolgáltatni a nyomtatott kiadvány fizikai adathordozón megjelent, digitális, valamint
+az internetről letölthető elektronikus változatából, kivéve az elektronikus változat tárgyévi változatlan kiadását.
+(3) Kötelespéldányt kell szolgáltatni a kartográfiai kiadvány elektronikus változatából.
+(4) Az elektronikus kiadványból a kiadvány megjelenítését lehetővé tevő és azt nem korlátozó, szabványos nyílt
+formátumok valamelyikére konvertált elektronikus változatban kell kötelespéldányt szolgáltatni. Az elektronikus
+kiadvány szolgáltatásának technikai részleteiről miniszteri jóváhagyást követően az OSZK útmutatót tesz közzé
+a honlapján, amelyet a szolgáltatóknak figyelembe kell venniük.
+(5) Kötelespéldányként elektronikus eszközön megjeleníthető, megtekintést, további feldolgozást nem korlátozó,
+jogvédelmet biztosító műszaki intézkedést nem tartalmazó példány szolgáltatható.
+(6) Az online elektronikus kiadványt a szolgáltató elektronikus úton szolgáltatja a kiadvány leíró adataival együtt.
+(7) A nem vagy nem megfelelően megjeleníthető formátum kiterjesztését a Kultv. 59. § (2c) bekezdésében foglaltak
+szerint az OSZK elvégezheti.
+15. § (1) A fizikai adathordozón megjelent elektronikus kiadványból hat példányt, online elektronikus kiadványból egy
+példányt kell a 14. § (4)–(6) bekezdésében meghatározott módon az OSZK rendelkezésére bocsátani a kiadvány
+megjelenésétől számított 15 napon belül.
+(2) Az OSZK a fizikai adathordozón megjelent kiadványokból két példányt a nemzeti könyvtári alapfeladatok ellátására
+fordít, egy példányt a DEENK részére, egy példány a hivatalos statisztikáról szóló törvény alapján a KSH Könyvtár
+részére küld meg, a fennmaradó 2 példányt gyűjtőkör szerint az OGYK, az Országos Idegennyelvű Könyvtár, a PTE EK TK
+és az SZTE Klebelsberg Könyvtár között osztja szét.
+(3) Az online elektronikus kiadvány esetében a kötelespéldány-szolgáltatás elmulasztása esetén a kötelespéldány OSZK
+általi beszerzése megvalósulhat a kötelespéldány ingyenes letöltésével is.
+(4) Az elektronikus kiadványokat az OSZK archiválja.
+(5) Az elektronikus kiadványok kötelespéldányait az OSZK a szerzői jogról szóló törvény rendelkezéseinek
+figyelembevételével teszi hozzáférhetővé a könyvtárhasználók számára a kötelespéldány-szolgáltatás
+kedvezményezett könyvtáraiban kialakított zárt hálózaton keresztül. Az online elektronikus kiadványt az OSZK
+egyidejűleg legfeljebb hat példányban teheti hozzáférhetővé.
+6. A kötelespéldány szolgáltatásának szabályai film esetében
+16. § (1) Kötelespéldányt kell szolgáltatni az MNFA számára
+a) a Magyarországon előállított és bemutatott vagy forgalomba hozott filmből,
+b) a külföldön előállított és Magyarországon bemutatott vagy forgalomba hozott filmből,
+c) a külföldön magyar koprodukciós részvétellel előállított, de Magyarországon forgalomba nem hozott,
+az Mttv. vagy az Mktv. szerinti támogatásban részesült filmből,
+d) a film Magyarországon fizikai adathordozón kiadott vagy online megjelent elektronikus, digitális és online
+változatából, ha az
+da) lakossági kereskedelmi forgalomba került,
+db) 50 darab feletti példányszámban zártkörű, reprezentatív terjesztésre került, vagy
+dc) egyéb, kötelespéldány-szolgáltatási kötelezettség alá eső, az Mttv. 203. § 22. pont a)–c) alpontja
+szerinti nyomtatott kiadvány kiegészítő része vagy melléklete,
+e) az online bemutatott, a)–c) pont szerinti film, valamint
+f) lakossági kereskedelmi forgalomba került diafilm és diakép.
+(2) Az (1) bekezdés d) pontja szerinti film fizikai adathordozón kiadott változatából egy példányt az MNFA átad
+az OSZK számára.
+
+(3) Kötelespéldányt kell szolgáltatni az (1) bekezdésben meghatározott film minden bemutatott változatából, beleértve
+a fizikai adathordozón megjelent, analóg, digitális, valamint az internetről letölthető változatot is, kivéve fizikai
+adathordozó esetén a tárgyévi változatlan utánnyomást.
+(4) Online bemutatás vagy forgalmazás esetén kötelespéldányt kell szolgáltatni, ha a film
+a) Magyarországon bejegyzett domainnév vagy magyarországi szolgáltató által külföldön bejegyzett
+domainnév alatt jelent meg, és az magyar nyelvű vagy Magyarországgal kapcsolatos, kulturális, oktatási vagy
+tudományos tartalmú,
+b) hazai költségvetési forrásból létrehozott vagy támogatott, határon túli hungarikum.
+(5) Kötelespéldányt kell szolgáltatni, ha a film
+a) nyilvános hozzáférhetővé tételét az ügyészség vagy a bíróság – részben vagy egészben – felfüggesztette
+vagy megtiltotta,
+b) a filmelőállító vagy a forgalmazó intézkedése alapján terjesztési korlátozás alá esik.
+(6) Kötelespéldányként csak hibátlan, teljes, lejátszóeszközön megjeleníthető, megtekintést, további feldolgozást,
+átmentést nem korlátozó, jogvédelmet biztosító műszaki intézkedést nem tartalmazó, archiválásra és
+reprodukálásra alkalmas példány szolgáltatható.
+(7) A szolgáltatandó anyagok körének a 17. § (2) bekezdése szerinti szabályait és azok változásait az MNFA saját
+honlapján közzéteszi.
+(8) A filmelőállító megállapodhat a filmgyártó vállalkozással, hogy a kötelespéldány szolgáltatásának kötelezettségét
+a filmgyártó vállalkozás viseli.
+(9) A kötelespéldány-szolgáltatás technikai részleteiről miniszteri jóváhagyást követően az MNFA útmutatót tesz közzé
+a honlapján, amelyet a szolgáltatóknak figyelembe kell venniük.
+17. § (1) A Magyarországon előállított film (2) bekezdés szerint archiválandó anyagait a magyarországi bemutatót követő
+8 héten belül kell a (2) bekezdés szerinti számban és formátumban együttesen szolgáltatni.
+(2) Együttesen kell szolgáltatni
+a) a digitális konverzió alapját képező, legrészletesebb információtartalmú, végleges kellékeket, amelyek
+tartalmazzák
+aa) a képfájlokat,
+ab) az eredeti, kevert és nemzetközi hangfájlokat,
+ac) az aa) és ab) alpont szerinti fájlokhoz illeszkedő feliratfájlokat,
+ad) az aa–ac) alpont szerinti fájlokra vonatkozó részletes írásbeli technikai dokumentációt,
+ae) az analóg filmes technológia alkalmazása esetén véglegesített eredeti kép- és hangnegatív,
+dubpozitív, ennek hiányában teleprintkópiát,
+b) a teljes és végleges, vetítésre és bemutatásra alkalmas,
+ba) egy darab digitális,
+bb) két darab kutatásra alkalmas megtekintő,
+bc) celluloid alapú végtermék esetén egy darab végleges és hibátlan állapotú, az eredeti negatívról
+készített pozitív
+kópiát,
+c) a plakátot, filmszínházi plakátot és műsorfüzetet két nyomtatott és a nyomdai változattal megegyező egy
+elektronikus példányát,
+d) egy darab forgatókönyvet, továbbá a forgatókönyv – a forgatás megkezdésekor érvényes – filmgyártás
+során készült végleges nyelvi változatának egy-egy példányát, animációs filmalkotások esetén a képes
+forgatókönyv egy példányát és a karaktertervek egy példányát,
+e) a dialóg listákat, továbbá a dialóg lista kópiagyártás során készült végleges nyelvi változatának egy-egy
+példányát,
+f) a díszlettervek tervezési folyamat során létrejött tervének egy eredeti példányát,
+g) a látványtervek tervezési folyamat során létrejött tervének egy eredeti példányát,
+h) a jelmeztervek tervezési folyamat során létrejött tervének egy eredeti példányát,
+i) a diafilmek és diaképek négy eredeti példányát, valamint
+j) fényképtípusonként legalább tizenkettő darabot, különösen a forgatás során készült stand- és werk-, illetve
+promóciós fotó egy-egy előhívott példányát.
+
+(3) A (2) bekezdés i) pontja szerinti diafilmek és diaképek közül az OSZK kettő példányra jogosult.
+(4) A külföldön magyar koprodukciós részvétellel előállított, de Magyarországon forgalomba nem hozott film
+(2) bekezdés szerinti archiválandó anyagait az MNFA által meghatározott és a honlapján közzétett vagy vele
+egyeztetett formátumban az első bemutatót követő 8 héten belül kell szolgáltatni.
+(5) A külföldön előállított és Magyarországon forgalomba hozott film (2) bekezdés szerinti archiválandó anyagait
+az MNFA által meghatározott, de legalább egy példányban és az MNFA által meghatározott és a honlapján közzétett
+vagy vele egyeztetett formátumban – ha a forgalmazási szerződés másképp nem rendeli – a bemutatástól számított
+2 éven belül, a határozott időre forgalomba hozott filmből a forgalmazási jog lejárta után 30 napon belül kell
+szolgáltatni.
+(6) A 16. § (1) bekezdés d) és e) pontjában meghatározott film, valamint f) pontjában meghatározott diafilm
+kötelespéldányát a forgalomba hozataltól számított 30 napon belül kell szolgáltatni.
+18. § (1) A szolgáltató köteles a kötelespéldány-szolgáltatás tárgyát képező filmekről évente, az előállítás évét követő év
+március 15. napjáig jelentést küldeni az MNFA-nak, amelynek tartalmaznia kell
+a) a szolgáltató nevét, címét,
+b) az adatszolgáltatásért felelős személy nevét,
+c) a film címét, műfaját, hosszát,
+d) a film nemzetközi azonosító számát,
+e) a film rendezőjét, forgatókönyvíróját, a dialógus szerzőjét, alapul szolgáló mű íróját és a kifejezetten a film
+céljára készült zene szerzőjét,
+f) a film vége főcím szerinti évszámot,
+g) a filmelőállító és a forgalmazó nevét,
+h) a termék műszaki adatait, ideértve a forgatás, az utómunka és a forgalmazási kópia technikai adatait,
+i) filmelőállító országát, valamint
+j) a kötelespéldányként szolgáltatott példányszámot.
+(2) Fizikai adathordozón vagy online megjelenő film esetében a jelentésnek az (1) bekezdésben foglaltakon túl
+tartalmaznia kell
+a) a kiadvány címét,
+b) a kiadványon közölt film eredeti címét, gyártási évét, gyártó országát, rendezőjét és műfaját,
+c) a kiadvány megjelenési formátumát,
+d) a kiadvány megjelenési példányszámát,
+e) amennyiben rendelkezik ilyen azonosítóval, a kiadvány nemzetközi azonosító számát, valamint
+f) a kiadás számát.
+(3) Terjesztési korlátozás esetén a szolgáltató a korlátozás tényéről és tartalmáról a kötelespéldány szolgáltatásával
+egyidejűleg tájékoztatja a jogosultat.
+19. § (1) Filmek esetében az MNFA a Magyarországon gyártott vagy forgalmazott filmekhez tartozó magyar és nemzetközi
+azonosító számokkal regisztrált filmek kódjának ellenőrzésével, valamint az éves szolgáltatói jelentések
+összehasonlításával vizsgálja a kötelespéldány-szolgáltatás megfelelő teljesítését, ellenőrzi a szolgáltatott
+darabszámot és a fizikai adathordozó minőségét, lejátszhatóságát.
+(2) A hibás, nem teljes vagy e rendeletben meghatározottaktól eltérő, nem megjeleníthető, illetve védelemmel
+ellátott példány szolgáltatása vagy a szolgáltatás elmulasztása esetén legfeljebb 30 napos határidő tűzésével
+az MNFA felszólítja a szolgáltatót a szolgáltatás teljesítésére.
+(3) A hibás vagy nem teljes példányt a szolgáltató köteles hibátlan példányra kicserélni vagy kiegészíteni.
+(4) A szolgáltatni elmulasztott, illetve a (3) bekezdés alapján kicserélt vagy kiegészített kötelespéldányt a (2) bekezdés
+szerinti felhívás kézhezvételétől számított 15 napon belül kell az MNFA részére személyesen vagy postai úton
+szolgáltatni.
+(5) Film esetében a kötelespéldány-szolgáltatás elmulasztása vagy nem a jogszabálynak megfelelő teljesítése esetén
+a kötelespéldányra jogosult beszerezheti a kiadványt, vagy a kiadványról archiválás céljából, a szerzői jogról szóló
+törvény szabályainak megfelelően másolatot készíthet. A kötelespéldányra jogosult a kötelespéldány pótlásával
+kapcsolatosan felmerült költségeit a kötelespéldány-szolgáltatás kötelezettjére terhelheti.
+
+20. § (1) A film kötelespéldányokat az MNFA archiválja, nyilvántartásba veszi, feltárja, tárolja, megőrzi.
+(2) Az MNFA a film kötelespéldányt a fizikai adathordozó állagromlási idejének figyelembevételével, a várható
+elhasználódás megelőzése érdekében szükség esetén felújítja.
+(3) Ha az archivált kiadvány szerzői jogi jogosultja nem korlátozta, az MNFA a tárolt anyagokból kutatás céljára átadott
+megtekintő példányt tesz helyben hozzáférhetővé.
+(4) Az MNFA a filmre vonatkozó, hatósági vagy bírósági határozatban meghatározott korlátozásnak, illetve a terjesztési
+korlátozásnak megfelelően kezelt kötelespéldány használatát a minősített adat kutatási szabályainak megfelelően
+biztosítja.
+(5) A nyilvánosan hozzáférhetővé tett kiadvány kötelespéldányának felhasználását utólag megtiltani vagy
+korlátozni csak hatósági vagy bírósági határozat, valamint a szerzőnek a szerzői jogról szóló törvény szerinti,
+a mű nyilvánosságra hozatalához adott engedélyt visszavonó vagy felhasználását megtiltó nyilatkozata alapján
+lehet.
+7. Záró rendelkezések
+21. §
+Ez a rendelet 2020. január 1. napján lép hatályba.
+22. §
+Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet
+1. mellékletében az 1653. nyilvántartási számú adatgyűjtésnél az„Országos Széchényi Könyvtár”szövegrész helyébe
+a„Központi Statisztikai Hivatal Könyvtár”szöveg lép.
+23. §
+Hatályát veszti a sajtótermékek kötelespéldányainak szolgáltatásáról és hasznosításáról szóló 60/1998. (III. 27.)
+Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
