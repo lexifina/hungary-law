@@ -1,4 +1,6 @@
-## 8. §[^6] Az ösztöndíj a pályázat elnyerését követően az ösztöndíjas tanulmányai során félévente folyósítható, ha az adott félévben az ösztöndíjas hallgatói jogviszonya fennáll. A tanulmányok ütemezése során az ösztöndíjast a képző intézmény tanulmányi és vizsgaszabályzatában rögzített jogok és kötelezettségek illetik meg.
+## 8. §[^10]
+
+## Az ösztöndíj a pályázat elnyerését követően az ösztöndíjas tanulmányai során félévente folyósítható, ha az adott félévben az ösztöndíjas hallgatói jogviszonya nem szünetel. A tanulmányok ütemezése során az ösztöndíjast a képző intézmény tanulmányi és vizsgaszabályzatában rögzített jogok és kötelezettségek illetik meg.
 
 9. § (1) Az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket az ösztöndíjas és a Központ által kötött szerződés határozza meg.
 
@@ -6,11 +8,11 @@
 
 a) a felek nevét, illetve megnevezését és az ösztöndíjas szerződés megkötése szempontjából lényeges adatait,
 
-b)[^7] az ösztöndíj összegét és annak kifizetése időpontját, módját, a változtatás feltételeit,
+b)[^11] az ösztöndíj összegét és annak kifizetése időpontját, módját, a változtatás feltételeit,
 
 c) az oklevél megszerzését követően az ösztöndíjas által teljesítendő munkavégzés lényeges feltételeit,
 
 d) az adatkezelésre vonatkozó hozzájárulást.
 
-[^6]: A 8. § a 220/2014. (VIII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^7]: A 9. § (2) bekezdés b) pontját a 345/2015. (XI. 19.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^10]: A 8. § a 220/2014. (VIII. 29.) Korm. rendelet 30. §-ával megállapított, szövege a 191/2019. (VII. 30.) Korm. rendelet 44. §-a szerint módosított szöveg.
+[^11]: A 9. § (2) bekezdés b) pontját a 345/2015. (XI. 19.) Korm. rendelet 53. §-a szerint módosított szöveg.
