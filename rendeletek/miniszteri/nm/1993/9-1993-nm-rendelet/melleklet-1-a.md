@@ -156,6 +156,8 @@
 
 | 2891 Uzsoki utcai Kórház |
 
+| 2896 Gottsegen György Országos Kardiológiai Intézet |
+
 | 2894 Debreceni Egyetem Klinikai Központ |
 
 | 2912 Pécsi Tudományegyetem |
@@ -191,6 +193,8 @@
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
 | 2734 Zala Megyei Kórház |
+
+| 2896 Gottsegen György Országos Kardiológiai Intézet |
 
 | 2915 Semmelweis Egyetem |
 
@@ -248,6 +252,8 @@
 
 | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
+| 2891 Uzsoki utcai Kórház |
+
 | 2893 Állami Szívkórház, Balatonfüred |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
@@ -280,7 +286,7 @@
 
 | Elszámolásra jogosult intézetek: |
 
-| 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2896 Gottsegen György Országos Kardiológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem |
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2894 Debreceni Egyetem Klinikai Központ 2896 Gottsegen György Országos Kardiológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -768,6 +774,8 @@
 
 |  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
+|  | 1243 Orosházi Kórház |
+
 |  | 1454 Csongrád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely - Makó |
 
 |  | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
@@ -785,6 +793,8 @@
 |  | 1928 Szent Lázár Megyei Kórház, Salgótarján |
 
 |  | 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+
+|  | 2095 Jávorszky Ödön Kórház, Vác |
 
 |  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
@@ -815,8 +825,6 @@
 |  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
 |  | 2889 Szent Imre Kórház |
-
-|  | 2890 Károlyi Sándor Kórház |
 
 |  | 2891 Uzsoki utcai Kórház |
 
@@ -930,6 +938,8 @@
 
 |  | 2879 Jahn Ferenc Dél-pesti Kórház |
 
+|  | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+
 |  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
 |  | 2889 Szent Imre Kórház |
@@ -947,6 +957,8 @@
 |  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 |  | N590 Kiskunhalasi Semmelweis Kórház |
+
+|  | N591 Szigetvári Kórház |
 
 |  | N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd |
 
@@ -1408,12 +1420,12 @@
 
 |  | Elszámolásra jogosult intézetek: |
 
-|  | 2915 Semmelweis Egyetem, Budapest |
+|  | 2915 Semmelweis Egyetem |
 
 |  | 2896 Gottsegen György Országos Kardiológiai Intézet |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ, Budapest |
+|  | K403 Magyar Honvédség Egészségügyi Központ |
 
 1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^103]
 
-[^103]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^103]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
