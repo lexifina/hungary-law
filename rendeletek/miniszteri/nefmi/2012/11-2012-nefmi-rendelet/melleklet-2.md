@@ -350,6 +350,8 @@
 
 | 71771 | Kemoterápia, középdózisú MTX+FOLINAC rescue protokoll szerint (01. fázis) |
 
+| 71781 | Kemoterápia, ATEZO monoterápia protokoll szerint (3w) (01. fázis) |
+
 | 71791 | Kemoterápia, GEM/C protokoll szerint (01. fázis) |
 
 | 71792 | Kemoterápia, GEM/C protokoll szerint (02. fázis) |
@@ -6094,4 +6096,4 @@ Fázisok leírása:
 
 | Fázisok száma | : | 1 |
 
-[^7]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 8. § (2) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 9. § (2) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 4. § (2) bekezdése, a 34/2017. (XII. 12.) EMMI rendelet 5. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 8. § (2) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 9. § (2) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 4. § (2) bekezdése, a 34/2017. (XII. 12.) EMMI rendelet 5. §-a, a 15/2019. (VII. 26.) EMMI rendelet 7. § első (2) bekezdése szerint módosított szöveg.
