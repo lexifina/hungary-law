@@ -114,9 +114,9 @@ d) a munkaegészségügyi vonatkozású hazai és európai uniós programok vég
 
 e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-(4)–(5)[^11]
+(4)–(5)[^12]
 
-(6)[^12] A Kormány nemzeti koordinációs fókuszpontként az emberi erőforrások miniszterét jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
+(6)[^13] A Kormány nemzeti koordinációs fókuszpontként az emberi erőforrások miniszterét jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
 
-[^11]: A 8. § (4)–(5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
-[^12]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: A 8. § (4)–(5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte.
+[^13]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

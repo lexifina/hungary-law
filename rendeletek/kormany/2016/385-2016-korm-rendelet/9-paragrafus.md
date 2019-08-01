@@ -32,11 +32,11 @@ h) az egészségügyi államigazgatási feladatok tekintetében az egyes közszo
 
 ## szerinti feladatok ellátására.
 
-(2)[^13] A Kormány egészségügyi államigazgatási szervként a rendvédelmi szervek, valamint az Országgyűlési Őrség
+(2)[^14] A Kormány egészségügyi államigazgatási szervként a rendvédelmi szervek, valamint az Országgyűlési Őrség
 
 – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a rendvédelmi szervek, az Országgyűlési Őrség, közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlóját jelöli ki az Nvt. 2. § (9) bekezdése és 7. §-a szerinti feladatok ellátására.
 
-(3)[^14] A Kormány hatóságként a kormányhivatalt jelöli ki az Eütv. 110. § (4) bekezdése szerinti feladatok ellátására.
+(3)[^15] A Kormány hatóságként a kormányhivatalt jelöli ki az Eütv. 110. § (4) bekezdése szerinti feladatok ellátására.
 
-[^13]: A 9. § (2) bekezdése a 20/2018. (II. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^14]: A 9. § (3) bekezdése a 171/2017. (VI. 29.) korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 9. § (2) bekezdése a 20/2018. (II. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^15]: A 9. § (3) bekezdése a 171/2017. (VI. 29.) korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.

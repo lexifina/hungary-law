@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-385-20-
 | 2018-02-15 | 2016-385-20-22.8 | 20/2018. (II. 14.) Korm. rendelet |
 | 2018-10-01 | 2016-385-20-22.9 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2019-01-01 | 2016-385-20-22.10 | 300/2018. (XII. 27.) Korm. rendelet |
+| 2019-08-01 | 2016-385-20-22.11 | 180/2019. (VII. 26.) Korm. rendelet |
