@@ -1,1 +1,0 @@
-## 6. § A magyarországi lakcímmel nem rendelkező választópolgár az országgyűlési képviselők 2018. április 8. napjára kitűzött általános választásán való részvétele érdekében névjegyzékbe vételét, illetve a névjegyzékben szereplő adatainak módosítását 2018. március 24-én 16.00 óráig kérheti. [Ve. 84. § (1) bekezdés]

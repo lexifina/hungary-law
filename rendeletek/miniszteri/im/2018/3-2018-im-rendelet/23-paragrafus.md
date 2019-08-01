@@ -1,5 +1,0 @@
-## 22. § A választási iroda az igénylését követően haladéktalanul, de legkorábban 2018. február 19-én adja át az igénylő részére az általa igényelt mennyiségű ajánlóívet. [Ve. 121. § (2) bekezdés]
-
-23. § (1) A névjegyzékben a nemzetiség választópolgáraként szereplő választópolgárok számának megállapításakor a nemzetiségi választópolgárként 2018. február 19-én a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal nemzetiségi választópolgárként szereplő választópolgárokat kell figyelembe venni. [Ve. 255. § (2) bekezdés]
-
-(2) A Nemzeti Választási Iroda a jelölő szervezet kérésére 2018. március 4-én és 2018. március 26-án adja át ingyenesen a jelölő szervezetként jogerősen nyilvántartásba vett országos nemzetiségi önkormányzat számára a központi névjegyzékben az országgyűlési képviselők választására is kiterjedő hatállyal a nemzetiség választópolgáraként szereplő választópolgárok nevét és lakcímét, a Ve. 89. § (1) bekezdése szerint adatai kiadását megtiltó választópolgárok adatainak kivételével. [Ve. 255. § (3) bekezdés b) pont]

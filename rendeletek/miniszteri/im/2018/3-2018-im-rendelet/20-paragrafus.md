@@ -1,1 +1,0 @@
-## 19. § A Nemzeti Választási Iroda a levélben szavazók névjegyzékének azon választópolgárokat tartalmazó részét, akik a szavazási levélcsomag személyes átvételét kérték, 2018. március 24-ig hozzáférhetővé teszi, illetve – a Ve. 263. §-ában foglalt rendelkezés alkalmazásával – továbbítja az illetékes választási iroda részére. [Ve. 267/A. §]
