@@ -1,1 +1,0 @@
-## 21. § A tenyésztőszervezetek kötelesek feltölteni a kiadott származási igazolások másolatát az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 42/A. §-a szerinti országos elektronikus adatbázisba.
