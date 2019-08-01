@@ -1,3 +1,0 @@
-## 1. § Az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] 10. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A fejezetet irányító szerv a (2) bekezdés alapján beérkezett igényeket időrendi sorrendben dolgozza fel. A fejezetet irányító szerv vezetője a feldolgozott igények alapján – a 21. § (1) bekezdés k) pontja kivételével – dönt az egyes igények teljesítésének jóváhagyásáról, és ezzel összefüggésben gondoskodik az előirányzat átcsoportosításáról.”
