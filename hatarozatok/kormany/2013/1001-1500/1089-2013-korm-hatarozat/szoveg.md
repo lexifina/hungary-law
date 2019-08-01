@@ -74,7 +74,7 @@ c) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet képv
 
 d) az egészségügyért felelős miniszter által vezetett minisztérium szervezeti keretén belül működő Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ képviselője,
 
-e) a Szociális és Gyermekvédelmi Főigazgatóság drogpolitikai feladatokért felelős szervezeti egységének képviselője,
+e)[^3] a Nemzeti Népegészségügyi Központ drogpolitikai feladatokért felelős szervezeti egységének képviselője,
 
 f) a Nemzeti Szakértői Kutató Központ képviselője, valamint
 
@@ -98,3 +98,4 @@ g) a Nemzeti Bűnmegelőzési Tanács képviselője.
 
 [^1]: A 8. pont e) pontja az 1853/2016. (XII. 27.) Korm. határozat 19. pontjával megállapított szöveg.
 [^2]: A 9. pont az 1853/2016. (XII. 27.) Korm. határozat 20. pontjával megállapított szöveg.
+[^3]: A 9. pont e) alpontja az 1428/2019. (VII. 26.) Korm. határozat 1. pontja szerint módosított szöveg.
