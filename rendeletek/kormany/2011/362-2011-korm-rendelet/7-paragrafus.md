@@ -1,10 +1,10 @@
 7. § (1) Az adatkezelő oktatási igazolvánnyal összefüggő feladatai:
 
-a) az oktatási igazolványok igényléséhez, érvényesítéséhez és adminisztrációjához szükséges nyomtatványok elektronikus formátumban történő elérhetőségének biztosítása,
+a)[^18]
 
-b)[^18] a közreműködő intézmény és a NISZ Zrt. számára az oktatási igazolvány igénylések nyomon követésére alkalmas nyilvántartás biztosítása, az egyes munkafolyamatok felügyelete,
+b)[^19] a közreműködő intézmény és az 5. § (2) bekezdés c) és e) pontja szerinti adatfeldolgozók számára az oktatási igazolvány igénylések nyomon követésére alkalmas nyilvántartás biztosítása, az egyes munkafolyamatok felügyelete,
 
-c)[^19] a közreműködő intézmények által megküldött oktatási igazolvány igények feldolgozása, valamint az e-közigazgatásért felelős miniszter részére történő továbbítása,
+c)[^20] a közreműködő intézmények által megküldött oktatási igazolvány igények feldolgozása, valamint a NEK-rendszerbe történő továbbítása,
 
 d) a 8. §-ban meghatározott nyilvántartás vezetése,
 
@@ -12,7 +12,7 @@ e) az oktatási igazolvány jogosulthoz határidőben történő eljuttatásána
 
 f) a fényképet és az aláírást kivéve az oktatási igazolványon szereplő személyes adatok kezelése,
 
-g)[^20]
+g)[^21]
 
 h) az oktatási igazolvánnyal kapcsolatos tájékoztatás biztosítása,
 
@@ -32,7 +32,7 @@ a) az adatkezelő által meghatározott módon adatot közöl az oktatási igazo
 
 b) a fel nem használt érvényesítő matricát biztonságosan, elzárva tárolja,
 
-c)[^21] részt vesz az oktatási igazolványok igénylésében és jogosulthoz történő eljuttatásában,
+c)[^22] részt vesz az oktatási igazolványok igénylésében és jogosulthoz történő eljuttatásában,
 
 d) érvényesíti a használatban lévő és bevonja az érvénytelen oktatási igazolványokat,
 
@@ -44,7 +44,8 @@ g) vezetője kijelöli az oktatási igazolvány érvényesítése, bevonása és
 
 h) kiadja a 12. §-ban meghatározott igazolást.
 
-[^18]: A 7. § (1) bekezdés b) pontja a 210/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^19]: A 7. § (1) bekezdés c) pontja a 210/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés e) pontja, a 442/2016. (XII. 16.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^20]: A 7. § (1) bekezdés g) pontját a 392/2015. (XII. 11.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
-[^21]: A 7. § (2) bekezdés c) pontja a 440/2016. (XII. 16.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^18]: A 7. § (1) bekezdés a) pontját a 191/2019. (VII. 30.) Korm. rendelet 21. § 3. pontja hatályon kívül helyezte.
+[^19]: A 7. § (1) bekezdés b) pontja a 210/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés c) pontja, a 191/2019. (VII. 30.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
+[^20]: A 7. § (1) bekezdés c) pontja a 210/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés e) pontja, a 442/2016. (XII. 16.) Korm. rendelet 15. § a) pontja, a 191/2019. (VII. 30.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.
+[^21]: A 7. § (1) bekezdés g) pontját a 392/2015. (XII. 11.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
+[^22]: A 7. § (2) bekezdés c) pontja a 440/2016. (XII. 16.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

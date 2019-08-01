@@ -1,4 +1,4 @@
-1. melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^121]
+1. melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^139]
 
 ## IGAZOLÁS ADATTARTALMA
 
@@ -72,4 +72,4 @@ cb) címe.
 
 * feladatellátási hely: az intézmény alapító okiratában szereplő, azon telephely címe, ahol a tanuló vagy hallgató oktatásban részesül. Ha a tanuló vagy hallgató több feladatellátási helyen veszi igénybe az oktatást, akkor azt a telephelyet kell megadni, ahol a legmagasabb óraszámban tanul.
 
-[^121]: Az 1. melléklet a 442/2016. (XII. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^139]: Az 1. melléklet a 442/2016. (XII. 16.) Korm. rendelet 14. §-ával megállapított szöveg. [Az 1. melléklet b) pontjában a 191/2019. (VII. 30.) Korm. rendelet 20. § 2. pontjával elrendelt módosítás, amely szerint az „Nktv.” szövegrész helyébe „Nkt.” szöveg lép, nem vezethető át.]

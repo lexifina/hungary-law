@@ -6,6 +6,6 @@
 
 (4) Egyidejűleg fennálló tanulói és hallgatói jogviszony esetén a közreműködő intézmények sorrendjét az oktatás, képzés munkarendje (nappali, esti, levelező, más sajátos, távoktatás) határozza meg.
 
-(5)[^31] Többes pedagógusi jogviszony esetén az az intézmény a közreműködő intézmény, amelyben a pedagógus a munkaideje nagyobb hányadát teljesíti. Ha ez nem állapítható meg, az az intézmény a közreműködő intézmény, amelyikkel a jogosult a foglalkoztatásra irányuló jogviszonyát korábban létesítette.
+(5)[^42] Többes pedagógusi jogviszony esetén az az intézmény a közreműködő intézmény, amelyben a pedagógus a munkaideje nagyobb hányadát teljesíti. Ha ez nem állapítható meg, az az intézmény a közreműködő intézmény, amelyikkel a jogosult a foglalkoztatásra irányuló jogviszonyát korábban létesítette.
 
-[^31]: A 11. § (5) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^42]: A 11. § (5) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
