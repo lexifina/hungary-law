@@ -64,6 +64,10 @@ f) a médiaszolgáltatás megkezdésének tervezett időpontját.
 
 (5) A Hivatalnak a nyilvántartásba vételre irányuló eljárás során vizsgálnia kell azt, hogy a bejelentett médiaszolgáltatással kapcsolatban megállapítható-e e törvény alapján Magyarország joghatósága.
 
+(5a) A lineáris médiaszolgáltatásokról vezetett nyilvántartásban a lineáris médiaszolgáltatást nyújtó médiaszolgáltatók tekintetében fel kell tüntetni, hogy Magyarország joghatósága az 1. § (2)–(4) bekezdésében foglalt feltételek közül melyiken alapul. A Hivatal a nyilvántartás joghatóságra vonatkozó adatait és azok változásait megküldi az Európai Bizottságnak.
+
+(5b) Ha a Hivatal a nyilvántartásba vételre irányuló eljárás során észleli, hogy a médiaszolgáltató szolgáltatásával teljes egészében vagy túlnyomórészt egy másik tagállam közönségét célozza, erről a tényről tájékoztatja a másik tagállam nemzeti szabályozó hatóságát vagy szervét.
+
 (6) A Hivatal megtagadja a lineáris médiaszolgáltatás nyilvántartásba vételét, ha
 
 a) a bejelentővel szemben a 43. §-ban meghatározott összeférhetetlenségi ok áll fenn,
@@ -95,6 +99,8 @@ f) a médiaszolgáltató ismételt súlyos jogsértése miatt a 185–187. §-ba
 (8) Az (1)–(7) bekezdés rendelkezéseit kell alkalmazni az olyan műhold igénybevételével történő lineáris médiaszolgáltatásra is, amely nem a Kormány rendelkezési joga alá tartozó műhold igénybevételével történik.
 
 (9) A lineáris médiaszolgáltatás médiaszolgáltatójának a változást követő tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
+
+(9a) Ha a lineáris médiaszolgáltatás médiaszolgáltatója bejelenti, hogy a nyilvántartásban szereplő adataiban változás következett be és a változás következtében a médiaszolgáltató szolgáltatásával teljes egészében vagy túlnyomórészt egy másik tagállam közönségét célozza, a Hivatal erről a tényről tájékoztatja a másik tagállam nemzeti szabályozó hatóságát vagy szervét.
 
 (10) Az adatváltozás késedelmes teljesítése, vagy elmulasztása miatt a Hivatal a 187. § (3) ba) vagy bb) pont szerinti bírsággal sújthatja a médiaszolgáltatót.
 

@@ -4,7 +4,7 @@
 
 (2) A főigazgató kinevezésére a 111/A. § (2) és (2a) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
-(3) A főigazgató államtitkári illetményre és juttatásokra jogosult.
+(3) A főigazgató havi illetménye az Elnök havi illetményének 60%-a. Egyebekben a főigazgató államtitkári juttatásokra jogosult.
 
 (4) A főigazgatót nem lehet utasítani az elsőfokú hatósági határozathozatali joggyakorlása során.
 

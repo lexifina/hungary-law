@@ -30,7 +30,7 @@ a) rendszeresen tájékoztat egy adott társadalmi vagy helyi közösség hírei
 
 b) kulturális műsorszámokat tesz közzé,
 
-c) törekszik a hallási fogyatékkal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
+c) törekszik a fogyatékkal élők igényeinek figyelembevételére audiovizuális médiaszolgáltatás esetében,
 
 d) audiovizuális médiaszolgáltatás esetén a magyar, illetve európai műsorkvótákra vonatkozó, 20. § szerinti előírások szerint működik, a 22. § (2) bekezdésben foglalt mentesítési lehetőség igénybe vétele nélkül, ide nem értve a független műsorkészítőkre vonatkozó műsorkvóták alóli, 22. § (2) bekezdés szerinti esetleges mentesülést,
 
@@ -40,7 +40,7 @@ f) legalább hetente négyórányi műsoridőben az adott naptári évben által
 
 g) heti műsoridejének több mint kétharmadában köteles a 83. §-ban foglalt közszolgálati célokat szolgáló műsorszámokat szolgáltatni, amibe beleszámít a szolgált közösségnek szóló hírműsorszám, politikai tájékoztató műsorszám, kulturális műsorszám és az egyéb, nem elsősorban az adott közösségnek szóló hasonló tartalom is,
 
-h) rádiós médiaszolgáltatás esetében a zenei műsorszámok bemutatására szánt heti műsoridejének legalább ötven százalékát magyar zenei műsorszámok bemutatására fordítja.
+h) rádiós médiaszolgáltatás esetében a zenei műsorszámok bemutatására szánt évi műsoridejének legalább ötven százalékát magyar zenei műsorszámok bemutatására fordítja.
 
 (5) A helyi vagy körzeti médiaszolgáltatás közösségi médiaszolgáltatásként való elismerése a Médiatanács által e törvény alapján indított – médiaszolgáltatási jogosultság hasznosítására irányuló – pályázati eljárásban hozott, pályázati nyertességről szóló döntésében vagy a Médiatanácsnál külön e célból kezdeményezett eljárásban, a Médiatanács határozata alapján történik meg. Ezen eljárás a médiaszolgáltatásnak a 42. § szerinti nyilvántartásba vételét követően a médiaszolgáltató által kezdeményezhető. A Médiatanács eljárása során megvizsgálja a már működő vagy indítani kívánt médiaszolgáltatást és annak médiaszolgáltatási szabályzatában foglaltakat az (1)–(4) bekezdés szerinti kritériumoknak való megfelelés megállapítása érdekében, majd hatvan napon belül hatósági határozatot hoz. Országos médiaszolgáltatást nem lehet közösségi médiaszolgáltatásként elismerni.
 

@@ -4,7 +4,7 @@
 
 ## A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-144. § (1) A Médiatanács és a Hivatal (e Fejezet alkalmazásában a továbbiakban: Hatóság) az e törvényben foglalt eltérésekkel a Ket. szerint jár el.
+144. § (1) A Médiatanács és a Hivatal (e Fejezet alkalmazásában a továbbiakban együtt: Hatóság) a hatósági ügyekben az e törvényben foglalt eltérésekkel és kiegészítésekkel az Ákr. szerint jár el.
 
 (2) A Médiatanács tagjainak és elnökének a szavazata egyenlő, azaz mindenkinek egy-egy szavazata van.
 

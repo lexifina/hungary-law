@@ -30,12 +30,18 @@ h) a nyomtatott sajtótermékekről,
 
 i) az internetes sajtótermékekről és hírportálokról,
 
-j) a közszolgálati médiaszolgáltatók által nyújtott lineáris és lekérhető médiaszolgáltatásokról, illetve kiegészítő médiaszolgáltatásokról.
+j) a közszolgálati médiaszolgáltatók által nyújtott lineáris és lekérhető médiaszolgáltatásokról, illetve kiegészítő médiaszolgáltatásokról,
+
+k) a médiaszolgáltatások Médiatanács által engedélyezett hálózatba kapcsolódásának tényéről.
 
 (5) Ha a médiaszolgáltató lineáris és lekérhető szolgáltatást is nyújt, illetve ha a sajtóterméket kiadó nyomtatott és internetes sajtóterméket is megjelentet, köteles médiaszolgáltatásait, illetve sajtótermékeit külön-külön bejelenteni.
 
 (5a) Amennyiben a kiadó nyomtatott sajtótermékét a nyomtatott sajtótermékkel teljes mértékben megegyező tartalmú digitális másolatként teszi interneten elérhetővé, az internetes tartalmat a nyomtatott sajtótermék másolatának kell tekinteni, és azt külön internetes sajtótermékként nem kell bejelenteni.
 
-(6) A (4) bekezdés szerinti nyilvántartásoknak a médiaszolgáltatók, a sajtóterméket alapítók és kiadók nevére, elérhetőségére, valamint a médiaszolgáltatások és a sajtótermékek elnevezésére vonatkozó adatai nyilvánosak, és a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) internetes honlapjáról elérhetők. A Hatóság a médiaszolgáltatási, sajtótermék-kiadási tevékenység ellenőrzése céljából a természetes személy médiaszolgáltató, sajtóterméket alapító és kiadó természetes személyazonosító adatait kezeli a nyilvántartásból való törlésig.
+(5b) Amennyiben a médiaszolgáltató a 48. § (1) bekezdése szerinti médiaszolgáltatását ugyanezen médiaszolgáltatással teljes mértékben megegyező tartalommal más műsorterjesztési platformon vagy átviteli rendszeren is szolgáltatja, köteles a más műsorterjesztési platformon vagy átviteli rendszeren történő médiaszolgáltatási tevékenységének megkezdése előtt legalább 15 nappal a hatósági szerződése módosítását kezdeményezni a Médiatanácsnál. A hatósági szerződés módosítása esetén a médiaszolgáltató mentesül a 42. § (1) bekezdése szerinti bejelentési kötelezettség alól.
+
+(5c) Amennyiben az (5b) bekezdés szerinti esetben a médiaszolgáltatás 48. § (1) bekezdése szerinti hatósági szerződése megszűnik, azonban a médiaszolgáltató a médiaszolgáltatást más műsorterjesztési platformon vagy átviteli rendszeren tovább nyújtja, a hatósági szerződés megszűnését követő 8 napon belül köteles a Hivatalnál a médiaszolgáltatás 42. § szerinti nyilvántartásba vételét kezdeményezni azzal, hogy az eljárás alatt a bejelentéssel érintett műsorterjesztési platformon, átviteli rendszeren médiaszolgáltatási tevékenységet végezhet.
+
+(6) A (4) bekezdés szerinti nyilvántartásoknak a médiaszolgáltatók, a sajtóterméket alapítók és kiadók nevére, elérhetőségére, valamint a médiaszolgáltatások és a sajtótermékek elnevezésére vonatkozó adatai nyilvánosak, és a Hatóság internetes honlapjáról elérhetők. A Hatóság a médiaszolgáltatási, sajtótermék-kiadási tevékenység ellenőrzése céljából a természetes személy médiaszolgáltató, sajtóterméket alapító és kiadó természetes személyazonosító adatait kezeli a nyilvántartásból való törlésig.
 
 (7) A lineáris médiaszolgáltatási jogosultság nem ruházható át.

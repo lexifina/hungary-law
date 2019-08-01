@@ -10,7 +10,7 @@ a) széles körben, nem csupán az adott sport, illetve tevékenység szokásos 
 
 b) egy nemzetközi jelentőségű verseny vagy bajnokság keretében Magyarország versenyzőjének vagy csapatának részvételével zajlik vagy hagyományosan előfizetési díj megfizetése nélkül hozzáférhető, nagy nézettséggel rendelkező televíziós közvetítésen keresztül figyelemmel kísérhető.
 
-(4) A Médiatanács a (2) bekezdés szerinti lista tervezetét részletes indokolással jóváhagyás céljából megküldi az Európai Bizottságnak. A (2) bekezdés szerinti lista az Európai Unió Hivatalos Lapjában történő közzététel napjával hatályos. A (2) bekezdés szerinti lista összeállítása és elfogadása nem minősül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) szerinti hatósági eljárásnak, illetve hatósági ügynek.
+(4) A Médiatanács a (2) bekezdés szerinti lista tervezetét részletes indokolással jóváhagyás céljából megküldi az Európai Bizottságnak. A (2) bekezdés szerinti lista az Európai Unió Hivatalos Lapjában történő közzététel napjával hatályos. A (2) bekezdés szerinti lista összeállítása és elfogadása nem minősül az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti hatósági eljárásnak, illetve hatósági ügynek.
 
 (5) A (3) bekezdésben meghatározott szempontok figyelembevételével a Médiatanács megfelelően módosíthatja a (2) bekezdés szerinti listát. A módosított lista tekintetében a (4) bekezdésben foglaltakat megfelelően kell alkalmazni.
 

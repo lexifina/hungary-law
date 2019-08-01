@@ -6,6 +6,6 @@
 
 (4) Az (1)–(3) bekezdés alapján létrejött szerződés részletes feltételeiben a felek állapodnak meg.
 
-(5) Az (1)–(3) bekezdésben meghatározott esetekben a feleket szerződéskötési kötelezettség terheli. Amennyiben a megállapodás az ajánlattételtől számított tizenöt napon belül nem jön létre, vagy a díjazással kapcsolatban nem tudnak megállapodni, az ajánlatkérő, illetve a kizárólagos közvetítési joggal rendelkező médiaszolgáltató jogosult a 172–174. § szerinti jogvitás eljárást kezdeményezni. E jogvitás eljárásban a Médiatanács tizenöt napon belül dönt. Az ügyintézési határidő indokolt esetben tizenöt nappal meghosszabbítható.
+(5) Az (1)–(3) bekezdésben meghatározott esetekben a feleket szerződéskötési kötelezettség terheli. Amennyiben a megállapodás az ajánlattételtől számított tizenöt napon belül nem jön létre, vagy a díjazással kapcsolatban nem tudnak megállapodni, az ajánlatkérő, illetve a kizárólagos közvetítési joggal rendelkező médiaszolgáltató jogosult a 172–174. § szerinti jogvitás eljárást kezdeményezni. E jogvitás eljárásban a Médiatanács negyvenöt napon belül dönt.
 
 (6) A 16. § és a 18. § vonatkozásában a médiaszolgáltatások elérhetősége tekintetében a Médiatanács nyilvántartása az irányadó.

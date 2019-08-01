@@ -4,7 +4,7 @@
 
 (2) Ha a hozzáférést igénylő audiovizuális médiaszolgáltatóval azonos tagállamban letelepedett másik audiovizuális médiaszolgáltató kizárólagos jogokat szerzett a nagy jelentőséggel bíró eseménnyel kapcsolatban, a hozzáférést csak ezen audiovizuális médiaszolgáltatótól lehet igényelni.
 
-(3) Az (1) bekezdésben meghatározott esetben a feleket szerződéskötési kötelezettség terheli. A szerződést ésszerű feltételekkel kell megkötni; a hozzáférési jog ellenértéke nem haladhatja meg a hozzáférés biztosítása által közvetlenül felmerülő költségek összegét. Amennyiben a megállapodás az ajánlattételtől számított tizenöt napon belül nem jön létre, bármelyik fél jogosult a 172–174. § szerinti jogvitás eljárást kezdeményezni. E jogvitás eljárásban a Médiatanács tizenöt napon belül dönt. Az ügyintézési határidő indokolt esetben tizenöt nappal meghosszabbítható.
+(3) Az (1) bekezdésben meghatározott esetben a feleket szerződéskötési kötelezettség terheli. A szerződést ésszerű feltételekkel kell megkötni; a hozzáférési jog ellenértéke nem haladhatja meg a hozzáférés biztosítása által közvetlenül felmerülő költségek összegét. Amennyiben a megállapodás az ajánlattételtől számított tizenöt napon belül nem jön létre, bármelyik fél jogosult a 172–174. § szerinti jogvitás eljárást kezdeményezni. E jogvitás eljárásban a Médiatanács negyvenöt napon belül dönt.
 
 (4) A hozzáférési jogot szerzett audiovizuális médiaszolgáltató szabadon választhatja ki a műsorszám – általa a rövid híradásban közzétenni kívánt – részleteit.
 

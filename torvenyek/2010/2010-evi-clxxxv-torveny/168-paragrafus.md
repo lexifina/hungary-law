@@ -4,7 +4,7 @@
 
 (2) Az egyedi piacfelügyeleti eljárás több – az Smtv. és e törvény szerinti – hatósági hatáskört, illetve hatósági ügyfajtát is magában foglalhat egységes hatósági eljárásként.
 
-(3) A Médiatanács az (1) bekezdésben meghatározott tevékenysége keretében az előző év piacfelügyeleti tapasztalatainak figyelembevételével éves piacfelügyeleti tervet készít a tárgyévet megelőző év december 1-ig, és azokat tizenöt napon belül az internetes honlapján közzéteszi. A Médiatanács biztosítja az általa készített piacfelügyeleti tervek összhangját. A tervek az első félév tapasztalatai alapján a félév végén felülvizsgálhatók, és amennyiben szükséges, a Médiatanács azokat módosíthatja. A módosított piacfelügyeleti tervet a Médiatanács a módosítástól számított tizenöt napon belül internetes honlapján közzéteszi.
+(3)
 
 (4) A piacfelügyeleti eljárás hivatalból indul.
 
@@ -16,6 +16,10 @@ a) értékeli az eljárás tárgyát képező szolgáltatásokkal, tevékenység
 
 b) meghatározza a jogsértések megelőzésével, az önkéntes jogérvényesülés előmozdításával, a piaci folyamatok zavartalan működésével kapcsolatos állami beavatkozás irányait, módszerét, fejlesztésének, esetleges átalakításának szempontjait, médiapolitikai következtetéseit.
 
-(7) A Médiatanács évente beszámolót készít a piacfelügyeleti tervében foglaltak teljesítéséről, piacfelügyeleti tevékenységének eredményéről, megállapításairól, valamint a piacfelügyeleti döntések alapján felmerülő jogszabály-módosítási javaslatokról. A beszámolót a Médiatanács annak elfogadásától számított tizenöt napon belül internetes honlapján közzéteszi.
+(7) A piacfelügyeleti eljárást megelőzheti piacfelügyeleti ellenőrzés.
 
-(8) A Médiatanács a piacfelügyeleti terven kívül is folytathat hivatalból piacfelügyeleti tevékenységet.
+(8) A piacfelügyeleti ellenőrzés az e törvényben foglalt eltérésekkel és kiegészítésekkel az Ákr. szerinti hatósági ellenőrzésnek minősül.
+
+(9) A piacfelügyeleti ellenőrzés eredményeként, hatósági hatásköre keretében a Médiatanács felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
+
+(10) A (9) bekezdésben foglalt felhívás ellen önálló jogorvoslatnak helye nincs. A felhívást a felhívott ügyfél a felhívás nem teljesítése esetében indított hatósági eljárás eredményeként hozott érdemi hatósági határozat vagy az eljárást megszüntető végzés elleni jogorvoslatban támadhatja meg.

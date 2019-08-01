@@ -1,6 +1,6 @@
 ## Kizárás
 
-154. § (1) Az ügy érdemi elintézésében a Ket. kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya az ügyféllel, illetve az ügyfélben befolyásoló részesedéssel rendelkező vagy az ügyfél befolyásoló részesedése mellett működő vállalkozással az eljárás kezdetét megelőző egy éven belül állt fenn, illetőleg akinek hozzátartozója
+154. § (1) Az ügy érdemi elintézésében az Ákr. kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya az ügyféllel, illetve az ügyfélben befolyásoló részesedéssel rendelkező vagy az ügyfél befolyásoló részesedése mellett működő vállalkozással az eljárás kezdetét megelőző egy éven belül állt fenn, illetőleg akinek hozzátartozója
 
 a) az ügyféllel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban áll, illetve annak vezető tisztségviselője,
 
@@ -16,6 +16,6 @@ d) olyan szervezettel áll munkavégzésre irányuló jogviszonyban, amely az ü
 
 (4) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, a kizárást megtagadó végzésben a 156. §-ban meghatározott eljárási bírsággal sújtható.
 
-(5) A Médiatanács valamely tagjának kizárásáról a Médiatanács dönt. A kizárt tag az adott ügy érdemi elintézésében nem vehet részt. Amennyiben a kizárási ok fennállása miatt a Médiatanács testülete határozatképtelenné válik, abban az esetben a Ket. vonatkozó szabályai szerint a Médiatanács a kizárási októl függetlenül, a kizárt tagok részvételével jár el akként, hogy a kizárt tagok is szavazati joggal rendelkeznek.
+(5) A Médiatanács valamely tagjának kizárásáról a Médiatanács dönt. A kizárt tag az adott ügy érdemi elintézésében nem vehet részt. Amennyiben a kizárási ok fennállása miatt a Médiatanács testülete határozatképtelenné válik, abban az esetben az Ákr. vonatkozó szabályai szerint a Médiatanács a kizárási októl függetlenül, a kizárt tagok részvételével jár el akként, hogy a kizárt tagok is szavazati joggal rendelkeznek.
 
 (6) Az Elnökkel szemben fennálló kizárási ok esetében az Elnök által kijelölt elnökhelyettes jár el az ügy érdemi elintézésében.

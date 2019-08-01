@@ -26,11 +26,11 @@ bi) a reklámra és televíziós vásárlásra vonatkozó, 33. §-ban foglalt k�
 
 bj) a műsorterjesztők továbbítási kötelezettségére vonatkozó előírások,
 
-bk) a médiaszolgáltatások felajánlásával kapcsolatos kötelezettségek,
+bk)
 
 bl) a műsorterjesztés sokszínűségére vonatkozó rendelkezések,
 
-bm) a közszolgálati médiaszolgáltatás feladatainak végrehajtására vonatkozó szabályok.
+bm)
 
 c) felügyeli az Smtv. 14. §-ában, valamint 16–20. §-ában foglalt követelmények betartását,
 

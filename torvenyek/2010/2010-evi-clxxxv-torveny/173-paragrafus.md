@@ -12,8 +12,8 @@
 
 (7) Ideiglenes intézkedésként a Médiatanács megtilthatja a tevékenység gyakorlását, meghatározhatja a tevékenység gyakorlásának feltételeit, továbbá kötelezettséget határozhat meg.
 
-(8) Az ideiglenes intézkedés hatálya az eljárás jogerős lezárásáig tart. Az ideiglenes intézkedést a Médiatanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
+(8) Az ideiglenes intézkedés hatálya az eljárás végleges lezárásáig tart. Az ideiglenes intézkedést a Médiatanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
 
-(9) Amennyiben a Médiatanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Közigazgatási és Munkaügyi Bírósághoz jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
+(9) A Médiatanács ideiglenes intézkedést elrendelő végzése közigazgatási perben a hatósági határozat közlésétől számított tizenöt napon belül támadható meg. A bíróság az ügyben tizenöt napon belül határoz, ítélete ellen perújításnak nincs helye.
 
 (10) Az ideiglenes intézkedés elutasítása tárgyában a Médiatanács nem hoz külön végzést, az elutasítás indokait a jogvitás eljárást lezáró érdemi döntésben határozza meg.

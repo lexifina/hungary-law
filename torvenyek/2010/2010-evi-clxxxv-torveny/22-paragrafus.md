@@ -10,6 +10,10 @@ d) a közösségi médiaszolgáltatás kivételével a helyi médiaszolgáltatá
 
 e) arra a médiaszolgáltatásra, amely kizárólag Európai Unión kívüli országban kerül terjesztésre.
 
+(1a) Az európai alkotásokkal összefüggő, 20. § (2) bekezdésében meghatározott előírások nem vonatkoznak az alacsony árbevétellel rendelkező, illetve kisszámú közönséget elérő médiaszolgáltatókra.
+
+(1b) Az alacsony árbevétel mértékét és a kisszámú közönség fogalmát a Médiatanács egységesen határozza meg ajánlásában az Európai Bizottság e körben kiadott iránymutatásai alapján.
+
 (2) A 20–21. §-ban meghatározott arányokat a médiaszolgáltató – erre irányuló, a Médiatanácshoz intézett kérelme esetén – a Médiatanáccsal kötött hatósági szerződésben rendezett módon, fokozatosan is elérheti. Ilyen mentesítés egy hatósági szerződésben egyszerre legfeljebb három naptári évre engedélyezhető, azzal a feltétellel, hogy a médiaszolgáltató – az előírt arányok eléréséig – köteles folyamatosan növelni médiaszolgáltatásában a magyar, az európai, valamint a független előállítóval készíttetett, általa közzétett művek arányát.
 
 (3) Rádiós médiaszolgáltatást és lekérhető médiaszolgáltatást nyújtó médiaszolgáltatóval kötött hatósági szerződés – indokolt esetben – a 20–21. §-ban meghatározott arányoktól való tartós vagy állandó jellegű eltérést is lehetővé tehet. Lineáris audiovizuális tematikus médiaszolgáltatást nyújtóval kötött hatósági szerződés indokolt esetben lehetővé teheti, hogy a 20. § (1) bekezdés b) pontban és 20. § (3) bekezdés c) pontban szereplő kötelezettségét öt évnél régebben készült művekkel teljesítse.
@@ -22,4 +26,4 @@ e) arra a médiaszolgáltatásra, amely kizárólag Európai Unión kívüli ors
 
 (7) A 20–21. § alkalmazásában a teljes műsoridő megállapítása során a hírműsorszámot, sportműsorszámot, játékot, reklámot, televíziós vásárlást, politikai reklámot, közérdekű közleményt, támogatói közleményt, társadalmi célú reklámot, illetve a képújság részére biztosított műsoridőt figyelmen kívül kell hagyni,
 
-(8) A médiaszolgáltató köteles havonta adatokat szolgáltatni a Médiatanács számára a műsorkvótákra vonatkozó előírások betartásának ellenőrzéséhez. A (2)–(3) bekezdés szerinti, a következő naptári évi mentesítésre vonatkozó, indokolással ellátott kérelmet legkésőbb minden év szeptember 30-ig kell benyújtani a Médiatanácshoz. Új médiaszolgáltatás esetén a kérelmet a nyilvántartásba vételi eljárás kezdeményezésével egyidőben lehet benyújtani.
+(8) A lineáris médiaszolgáltató köteles havonta, az adott hónapot követő hónap utolsó napjáig, a lekérhető médiaszolgáltató a tárgyévet követő év január 31-ig adatokat szolgáltatni a Médiatanács számára a műsorkvótákra vonatkozó előírások betartásának ellenőrzéséhez. A (2)–(3) bekezdés szerinti, a következő naptári évi mentesítésre vonatkozó, indokolással ellátott kérelmet legkésőbb minden év szeptember 30-ig kell benyújtani a Médiatanácshoz. Új médiaszolgáltatás esetén a kérelmet a nyilvántartásba vételi eljárás kezdeményezésével egyidőben lehet benyújtani.

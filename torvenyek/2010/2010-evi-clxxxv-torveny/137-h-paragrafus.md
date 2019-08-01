@@ -24,8 +24,8 @@ e) az elnök vagy a tag halálával.
 
 (5) A Televíziós Filmkollégium elnöke az államtitkár illetménye hetvenöt százalékának, további tagja az államtitkár illetménye hatvanöt százalékának megfelelő mértékű tiszteletdíjban részesül, továbbá – a Médiatanács elnöke által meghatározott – költségtérítésre jogosult a Mecenatúra költségvetésének terhére.
 
-(6) A Televíziós Filmkollégium munkáját a Hivatal önálló szervezeti egysége segíti.
+(6) A Televíziós Filmkollégium munkáját a Hivatal támogatja.
 
-(7) A Hivatal önálló szervezeti egységének vezetőjével kapcsolatos munkáltatói jogkörök közül a közszolgálati jogviszony, illetve vezetői megbízás létesítését és megszüntetését a főigazgató a Televíziós Filmkollégium elnökének javaslata alapján gyakorolja, egyebekben a munkáltatói jogokat a Televíziós Filmkollégium elnöke gyakorolja.
+(7)
 
 (8) A Televíziós Filmkollégium működésének részletes szabályait a Médiatanács előzetes jóváhagyásával a Televíziós Filmkollégium határozza meg. A Médiatanács a jóváhagyást csak jogszabálysértésre hivatkozással tagadhatja meg.

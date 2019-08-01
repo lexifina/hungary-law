@@ -6,11 +6,11 @@ a) nevét vagy cégnevét,
 
 b) címét vagy székhelyét, illetve postai levelezési címét,
 
-c) elektronikus levelezési címét,
+c) elektronikus levelezési címét vagy honlapja elérhetőségét,
 
 d) telefonos elérhetőségét,
 
-e) a vele szemben médiaigazgatásra vonatkozó szabály megsértése miatti eljárásra hatáskörrel rendelkező szabályozó vagy felügyeleti szervek nevét és elérhetőségét,
+e) a médiaszolgáltató felett joghatósággal rendelkező tagállam megjelölését, a vele szemben médiaigazgatásra vonatkozó szabály megsértése miatti eljárásra hatáskörrel rendelkező szabályozó vagy felügyeleti szervek nevét és elérhetőségét,
 
 f) a vele szembeni eljárásra általuk felhatalmazott szakmai önszabályozó testületek nevét és elérhetőségét.
 

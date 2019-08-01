@@ -28,6 +28,10 @@ c) a médiaszolgáltatás megkezdésének tervezett időpontját.
 
 (3) A lekérhető médiaszolgáltatást a Hivatal harminc napon belül nyilvántartásba veszi.
 
+(3a) A lekérhető médiaszolgáltatásokról vezetett nyilvántartásban a lekérhető médiaszolgáltatást nyújtó médiaszolgáltatók tekintetében fel kell tüntetni, hogy Magyarország joghatósága az 1. § (2)–(4) bekezdésében foglalt feltételek közül melyiken alapul. A Hivatal a nyilvántartás joghatóságra vonatkozó adatait és azok változásait megküldi az Európai Bizottságnak.
+
+(3b) Ha a Hivatal a lekérhető médiaszolgáltatás nyilvántartásba vételére irányuló eljárás során észleli, hogy a médiaszolgáltató szolgáltatásával teljes egészében vagy túlnyomórészt egy másik tagállam közönségét célozza, erről a tényről tájékoztatja a másik tagállam nemzeti szabályozó hatóságát vagy szervét.
+
 (4) A nyilvántartásba vételt a Hivatal visszavonja, ha
 
 a) a bejelentővel szemben összeférhetetlenségi ok áll fenn, vagy
@@ -45,6 +49,8 @@ c) a médiaszolgáltatás megkezdését a nyilvántartásba vételtől számíto
 d) bíróság jogerős határozata elrendelte a médiaszolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől.
 
 (6) A lekérhető médiaszolgáltatás médiaszolgáltatójának tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
+
+(6a) Ha a lekérhető médiaszolgáltatás médiaszolgáltatója bejelenti, hogy a nyilvántartásban szereplő adataiban változás következett be és a változás következtében a médiaszolgáltató szolgáltatásával teljes egészében vagy túlnyomórészt egy másik tagállam közönségét célozza, a Hivatal erről a tényről tájékoztatja a másik tagállam nemzeti szabályozó hatóságát vagy szervét.
 
 (7) Amennyiben a médiaszolgáltató személyében változás következik be, az eredeti bejelentést tevő médiaszolgáltatónak kezdeményeznie kell a nyilvántartásban szereplő adatok módosítását. Az erre irányuló eljárásra az (1)–(4) bekezdést megfelelően alkalmazni kell.
 

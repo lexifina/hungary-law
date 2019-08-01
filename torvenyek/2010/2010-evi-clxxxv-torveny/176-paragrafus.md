@@ -1,15 +1,21 @@
 ## Eljárás a más tagállamban letelepedett médiatartalom-szolgáltatóval szemben
 
-176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató lineáris audiovizuális médiaszolgáltatása Magyarország területére irányul, a Médiatanács határozatával a jogsértés fennállásáig, de legfeljebb száznyolcvan napig, kizárólag a Magyarország területén terjesztett médiaszolgáltatás tekintetében a 187. § (3) bekezdés c)–d) pontja szerinti jogkövetkezményeket alkalmazhatja, amennyiben a következő feltételek fennállnak:
+176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató audiovizuális médiaszolgáltatása Magyarország területére irányul, illetve terjesztése vagy közzététele Magyarország területén történik, a Médiatanács intézkedésével a jogsértés fennállásáig, de legfeljebb száznyolcvan napig, a Magyarország területén terjesztett médiaszolgáltatás tekintetében a 187. § (3) bekezdés c)-d) pontja szerinti jogkövetkezményeket alkalmazhatja, ha a következő feltételek fennállnak:
 
-a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. § (1) bekezdését, 19. § (1) vagy (4) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését,
+a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. § (1) bekezdését, 19. § (2) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését vagy közegészségügyi sérelmet okoz, vagy a közegészség sérelmével fenyegető súlyos és komoly kockázatot jelent,
 
-b) a Médiatanács által e bekezdés alapján meghozandó, a terjesztés korlátozását célzó határozatot megelőző tizenkét hónap alatt a médiaszolgáltatás legalább két alkalommal megsértette az a) pontban említett előírást,
+b) e bekezdés szerinti intézkedés alkalmazását megelőző tizenkét hónap alatt a médiaszolgáltatás legalább két alkalommal megsértette az a) pontban említett valamely előírást,
 
-c) Magyarország a Médiatanács kezdeményezésére írásban értesítette az érintett médiaszolgáltatót és az Európai Bizottságot az a) pont szerinti jogsértésekről és a Médiatanács tervezett intézkedéseiről, amelyeket a további jogsértés elkövetése esetén kíván alkalmazni, és
+c) Magyarország a Médiatanács kezdeményezésére írásban értesítette az érintett médiaszolgáltatót és azt a tagállamot, amelynek joghatósága alá a médiaszolgáltató tartozik, valamint az Európai Bizottságot az a) pont szerinti jogsértésekről és a Médiatanács tervezett, arányos intézkedéseiről, amelyeket a további jogsértés elkövetése esetén kíván alkalmazni,
 
-d) azon tagállammal, amelyben a médiaszolgáltató letelepedett, valamint az Európai Bizottsággal folytatott konzultáció alapján a c) pontban szereplő értesítés megtörténtétől számított tizenöt napon belül nem jött létre egyezség Magyarország és az érintett tagállam között, és az a) pont szerinti jogsértés továbbra is fennáll, illetve újból megvalósul.
+d) Magyarország a Médiatanács kezdeményezésére a c) pontban foglalt írásbeli értesítéssel egyidejűleg nyilatkozattételre hívta fel az érintett médiaszolgáltatót a jogsértéssel összefüggő álláspontja, észrevételei, bizonyítékai előterjesztése vonatkozásában, és
 
-(2) A Médiatanács az (1) bekezdésben foglalt határozatot annak közlésével egyidejűleg köteles megküldeni az Európai Bizottságnak.
+e) azon tagállammal, amelyben a médiaszolgáltató letelepedett, valamint az Európai Bizottsággal folytatott konzultáció alapján a c) pontban szereplő értesítés Bizottság általi kézhezvételétől számított egy hónapon belül nem jött létre egyezség.
 
-(3) Amennyiben az Európai Bizottság a (2) bekezdésben foglalt értesítéstől számított két hónapon belül meghozott határozatában a Médiatanácsot az (1) bekezdés alapján meghozott határozat visszavonására kötelezi, akkor köteles az Európai Bizottság határozatában foglaltak szerint eljárni.
+(2) A Médiatanács nem hatósági határozatban, nem hatósági ügyben hozza meg az (1) bekezdés szerinti intézkedést és állapítja meg az (1) bekezdés b) pontja szerinti jogsértéseket, tekintettel a (4) bekezdés szerinti európai bizottsági eljárásra.
+
+(3) A Médiatanács az (1) bekezdés szerinti intézkedésről értesíti az Európai Bizottságot.
+
+(4) Az Európai Bizottság a (3) bekezdésben foglalt értesítés kézhezvételétől számított három hónapon belül a Médiatanácsot az (1) bekezdés alapján meghozott intézkedés visszavonására hívhatja fel.
+
+(5) A Médiatanács a (4) bekezdés szerinti bizottsági döntés meghozatalához – a Bizottság megkeresésére – a szükséges információkat a megkeresés kézhezvételétől számított egy hónapon belül az Európai Bizottság rendelkezésére bocsátja. A Bizottság eljárása ezen információ átadásáig felfüggesztésre kerül.

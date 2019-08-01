@@ -6,7 +6,7 @@
 
 (3) Nem engedélyezhető a hálózatba kapcsolódás,
 
-a) ha a hálózatba kapcsolódó körzeti vagy helyi médiaszolgáltató saját médiaszolgáltatása nem éri el naponta a négy órát,
+a) ha a hálózatba kapcsolódó körzeti vagy helyi médiaszolgáltató saját médiaszolgáltatása nem éri el közösségi médiaszolgáltatás esetében naponta a két órát, kereskedelmi médiaszolgáltatás esetében naponta a három órát,
 
 b) ha a médiaszolgáltatók bármelyike médiaszolgáltatási díjtartozással rendelkeznek a Médiatanács felé,
 
@@ -14,11 +14,11 @@ c) ha a médiaszolgáltatók bármelyike a hálózatba kapcsolódás következt�
 
 d) ha a hálózatos médiaszolgáltató és a hálózatba kapcsolódó médiaszolgáltató vételkörzete több mint húsz százalékban fedi egymást,
 
-e) ha a hálózatba kapcsolódás következtében a médiaszolgáltató a pályázati ajánlatában tett eredeti vállalásaitól jelentősen eltérne.
+e)
 
 (4) A Médiatanács a vételkörzet-bővítésről kérelemre indult hatósági eljárásban dönt. A Médiatanács a kérelem engedélyezése esetén módosítja a médiaszolgáltató hatósági szerződését.
 
-(5) A vételkörzet-bővítés engedélyezésének feltétele, hogy a médiaszolgáltató azonos jellegű jogosultságainak vételkörzetei legfeljebb negyven kilométeres távolságban legyenek egymástól.
+(5) A vételkörzet-bővítés engedélyezésének feltétele, hogy a médiaszolgáltató azonos jellegű jogosultságainak vételkörzetei legfeljebb hetven kilométeres távolságban legyenek egymástól.
 
 (6) Nem engedélyezhető a vételkörzet-bővítés,
 

@@ -6,7 +6,7 @@
 
 1. Alapító: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki a sajtótermék első példányának megjelenését megelőzően a lap célját, jellegét és irányvonalát meghatározza, ezeket ellenőrzi, valamint a rendszeres megjelenés megkezdéséről gondoskodik, amely alapján a sajtótermék feletti rendelkezési jogosultság (a sajtótermék nyilvántartásba vételének bejelentése, nyilvántartásból való törlésének bejelentése vagy jóváhagyása, a kiadó megjelölése) megilleti; alapító továbbá az, akire az alapítói jog az alapítóról átruházásra kerül.
 
-1a. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket, állóképeket tartalmazó műsorszámokat bemutató médiaszolgáltatás.
+1a. Audiovizuális médiaszolgáltatás: hangos vagy néma mozgóképeket, állóképeket tartalmazó műsorszámokat – ideértve többek között az egész estés filmeket, a videóklipeket, a sporteseményeket, a dokumentumfilmeket és a tizennégy év alatti kiskorúakhoz szóló műsorszámokat – bemutató médiaszolgáltatás.
 
 2. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, vákuumhoz, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.
 
@@ -14,7 +14,7 @@
 
 a) olyan közvetlen és közvetett tulajdon egy vállalkozásban, amely összességében a vagyoni vagy a szavazati jogok huszonöt százalékát meghaladó mértékű befolyást biztosít; a közeli hozzátartozók közvetlen és közvetett tulajdoni részesedését egybe kell számítani,
 
-b) olyan helyzet, amely a vállalkozásban szerződés, alapító okirat (alapszabály), vagy elsőbbségi részvény alapján, a döntéshozó, vagy a felügyelő szervek tagjai kinevezése (elmozdítása) útján, vagy egyéb módon jelentős befolyást tesz lehetővé.
+b)
 
 4. Burkolt kereskedelmi közlemény: olyan kereskedelmi közlemény, amelynek közzététele természetét tekintve megtéveszti a közönséget. Burkolt reklámnak minősülhet a kereskedelmi közlemény céljait szolgáló közlemény abban az esetben is, ha nem ellenszolgáltatás fejében került közzétételre.
 
@@ -50,6 +50,8 @@ A c) és az e) pontban meghatározott művek abban az esetben tekinthetők euró
 
 10. Felhasználó: az a természetes személy, jogi személy vagy egyéb szervezet, aki vagy amely használja vagy igényli az elektronikus hírközlési szolgáltatásokat vagy médiaszolgáltatásokat.
 
+10a. Felhasználó által létrehozott videó: hangos vagy néma mozgóképek sorozata, amely – hosszától függetlenül – önálló egységet alkot, és amelyet egy felhasználó hoz létre és ugyanezen felhasználó vagy valamely más felhasználó tölt fel a videómegosztó platformra.
+
 11. Filmalkotás: a szerzői jogról szóló törvény szerinti filmalkotás, ide nem értve többek között a hír- és politikai tájékoztató műsorszámot, az aktuális- és szolgáltató magazin műsorszámot, a sportműsorszámot vagy egyéb esemény közvetítését tartalmazó műsorszámot, a játék- és vetélkedő műsorszámot és a kereskedelmi közleményeket. Filmalkotás különösen a játékfilm, a televíziós film, a televíziós filmsorozat, az animációs film és a dokumentumfilm.
 
 12. Független műsorkészítő: olyan műsorkészítő vállalkozás, amelyben az érintett médiaszolgáltatónak, illetve a médiaszolgáltatóban befolyásoló részesedéssel rendelkező tulajdonosnak nincs közvetett vagy közvetlen tulajdoni részesedése, illetőleg amellyel a médiaszolgáltató vezetőjének, vezető állású alkalmazottjának, valamint ezek közeli hozzátartozóinak nincs munkavégzésre irányuló jogviszonya vagy tulajdoni érdekeltsége.
@@ -68,7 +70,7 @@ A c) és az e) pontban meghatározott művek abban az esetben tekinthetők euró
 
 19. Játék: az a műsorszám, amelyben a közönség tagjai vagy a játékban résztvevők meghatározott szabályok szerint kérdésekre válaszolnak vagy feladatokat oldanak meg, rendszerint abból a célból, hogy a médiaszolgáltató vagy harmadik személy által felajánlott nyereményt elnyerjék. Nem minősül játéknak a tehetségkutató-műsorszám, valamint a televíziós vásárlásnak vagy televíziós vásárlási műsorablaknak minősülő telefonos vagy más interaktív játék.
 
-20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy szerepelnek abban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
+20. Kereskedelmi közlemény: olyan médiatartalom, amelynek célja gazdasági tevékenységet folytató természetes vagy jogi személy árujának, szolgáltatásának vagy arculatának közvetlen vagy közvetett népszerűsítése. Az ilyen tartalmak fizetés vagy hasonló ellenszolgáltatás ellenében, vagy önreklámozás céljából kísérik a médiatartalmakat, vagy a felhasználók által létrehozott videókat, vagy szerepelnek azokban. A kereskedelmi közlemény formái közé tartozik többek között a reklám, a támogatást nyújtó nevének, védjegyének, arculatának vagy termékének megjelenítése, a televíziós vásárlás és a termékmegjelenítés.
 
 21. Képújság: lineáris audiovizuális médiaszolgáltatásban közzétett olyan műsorszám, amely elsősorban szöveges információközlésre szolgál, illetőleg emellett állóképet, mozgóképet, hangot, vagy számítógépes grafikát is tartalmazhat.
 
@@ -91,6 +93,8 @@ f) zenemű (nyomtatott zenemű, zenemű elektronikus formában, letölthető zen
 23. Kiegészítő médiaszolgáltatás: tartalomszolgáltatást is magában foglaló mindazon szolgáltatás, amelyet műsorterjesztő rendszeren továbbítanak, és amely nem minősül sem médiaszolgáltatásnak, sem elektronikus hírközlési szolgáltatásnak. Kiegészítő médiaszolgáltatás például az elektronikus műsorkalauz.
 
 24. Kisközösségi médiaszolgáltatás: sztereó vétel esetén legfeljebb az adóállomástól számított egy kilométer sugarú körnek megfelelő földrajzi területre kiterjedő vételkörzetben működő helyi lineáris rádiós közösségi médiaszolgáltatás.
+
+24a. Kitakarás: az audiovizuális médiaszolgáltatás megszakítása nélkül felbukkanó, olyan vizuális elem, amely a háttérben futó mozgó kép egy részét eltakarja.
 
 25. Körzeti médiaszolgáltatás: az a médiaszolgáltatás, amelynek vételkörzete meghaladja a helyi médiaszolgáltatás vételkörzetét, de vételkörzetében az ország lakosságának kevesebb, mint a fele él.
 
@@ -136,13 +140,17 @@ d) az olyan zenei műsorszám, amely magyar nyelven kerül előadásra, vagy ame
 
 e) az olyan instrumentális zenei műsorszám, amely a magyar kultúra vagy Magyarország által elismert valamely nemzetiség Magyarországhoz kapcsolódó kultúrájának részét képezi.
 
-f)
+f) az olyan zenei mű, amelynek legalább egy szerzője magyar,
+
+g) az olyan zenei műsorszám, amely magyar előadók közreműködésével készült,
+
+h) azon filmalkotás, amely az Mktv. értelmében magyarnak minősül.
 
 38. Magyar zenei mű: magyar műnek minősülő szöveges vagy instrumentális zenei mű.
 
 39. Médiaigazgatásra vonatkozó szabály: e törvény, valamint a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény, illetve ezek végrehajtása tárgyában kibocsátott jogszabály, médiaigazgatásra vonatkozó, közvetlenül alkalmazandó európai uniós aktus, műsorszolgáltatási szerződés, a Médiatanács és a Hivatal által megkötött hatósági szerződés, illetve a Médiatanács és a Hivatal hatósági határozata.
 
-40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
+40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelynek, illetve amely egy elválasztható részének elsődleges célja, hogy egy médiaszolgáltató szerkesztői felelősségi körébe tartozó műsorszámokat tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz eljuttassa valamely elektronikus hírközlő hálózaton keresztül.
 
 40a. „Médiaszolgáltatásban bemutatásra szánt filmalkotás: az olyan filmalkotás, amellyel kapcsolatban a 137/G. § szerint támogatást igénylő a támogatásra irányuló pályázati kérelem benyújtásakor vállalja, hogy a filmalkotást valamely – Magyarországon letelepedett – országos lineáris audiovizuális médiaszolgáltató, vagy a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény szerinti régiókból legkevesebb ötben legalább 12 – Magyarországon letelepedett – helyi médiaszolgáltatási jogosultsággal rendelkező lineáris audiovizuális médiaszolgáltató vagy legalább 3 – Magyarországon letelepedett – körzeti lineáris audiovizuális médiaszolgáltató fogja bemutatni, és az igénylő a pályázat benyújtásakor rendelkezik az érintett médiaszolgáltatók filmalkotás bemutatására vonatkozó szándéknyilatkozatával.
 
@@ -158,7 +166,7 @@ f)
 
 46. Műsoridő: a médiaszolgáltatásban – valamely meghatározott időszak folyamán – folyamatosan közzétett műsorszámok együttes időtartama.
 
-47. Műsorszám: hangok, illetőleg hangos vagy néma mozgóképek, állóképek sorozata, mely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban önálló egységet alkot, és amelynek formája és tartalma a rádiós vagy televíziós médiaszolgáltatáséhoz hasonlítható.
+47. Műsorszám: hangok, illetve hangos vagy néma mozgóképek, állóképek sorozata, amely egy médiaszolgáltató által kialakított műsorrendben vagy műsorkínálatban – hosszától függetlenül – önálló egységet alkot.
 
 48. Műsorszámokat kiegészítő termékek: egy műsorszám tartalmához közvetlenül kapcsolódó, a médiaszolgáltató által forgalmazott áru vagy szolgáltatás, amely a műsorszám teljesebb élvezetéhez nyújt segítséget, például a nézői vagy hallgatói interaktivitás elősegítésével.
 
@@ -188,11 +196,15 @@ f)
 
 60. Sajtótermék: a napilap és más időszaki lap egyes számai, valamint az internetes újság vagy hírportál, amelyet gazdasági szolgáltatásként nyújtanak, amelynek tartalmáért valamely természetes vagy jogi személy szerkesztői felelősséget visel, és amelynek elsődleges célja szövegből, illetve képekből álló tartalmaknak a nyilvánossághoz való eljuttatása tájékoztatás, szórakoztatás vagy oktatás céljából, nyomtatott formátumban vagy valamely elektronikus hírközlő hálózaton keresztül. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a sajtótermék tekintetében. Gazdasági szolgáltatás az önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett szolgáltatás.
 
+60a. Semleges képkocka: azok a bejátszások, amelyek a szerkesztői tartalmat választják el a reklámoktól, politikai reklámoktól, társadalmi célú reklámoktól, televíziós vásárlási bejátszásoktól, közérdekű közleményektől, továbbá amelyek az egyes bejátszásokat elválasztják egymástól.
+
 61. Sportműsorszám: olyan műsorszám, amely sporteseményt (az eseménnyel egyidejűleg, késleltetett módon vagy szerkesztve) közvetít, ide nem értve a sporteseményekről való híradást és a sporttémájú beszélgetést tartalmazó műsorszámot.
+
+61a. Szerkesztői döntés: a szerkesztői felelősség gyakorlásának keretében rendszeres jelleggel hozott, a médiaszolgáltatás napi működéséhez kapcsolódó döntés, így a médiaszolgáltatás tartalmának megválasztása és összeállításának meghatározása.
 
 62. Tagállam: az Európai Gazdasági Térség tagállama.
 
-63. Támogatás: olyan hozzájárulás, amelyet valamely vállalkozás nyújt valamely médiaszolgáltató vagy műsorszám finanszírozására azzal a céllal, hogy népszerűsítse nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
+63. Támogatás: olyan hozzájárulás, amelyet valamely vállalkozás nyújt valamely médiaszolgáltató, médiaszolgáltatás, videómegosztóplatform-szolgáltatás, felhasználó által létrehozott videó vagy műsorszám finanszírozására azzal a céllal, hogy népszerűsítse nevét, védjegyét, arculatát, tevékenységét vagy termékeit.
 
 64. Társadalmi célú reklám: politikai reklámnak nem minősülő, üzleti érdekeltséget nem tartalmazó, reklámcélokat nem szolgáló, ellenérték fejében vagy anélkül közzétett felhívás vagy közérdekű üzenet, amely valamely közérdekű cél elérése érdekében kíván hatást gyakorolni a médiaszolgáltatás nézőjére vagy hallgatójára.
 
@@ -202,7 +214,7 @@ f)
 
 67. Tematikus médiaszolgáltatás: az a médiaszolgáltatás, amely lineáris médiaszolgáltatás esetében a napi műsoridő, lekérhető médiaszolgáltatás esetében a közzétett műsorszámok összesített időtartamának nyolcvan százalékában egymáshoz hasonló tematikájú műsorszámokat tesz közzé, mint például a hír- és politikai tájékoztató műsorszámok, a kiskorúaknak szóló műsorszámok, a sportműsorszámok, a zenei műsorszámok, ismeretterjesztő műsorszámok, valamely életmódot bemutató műsorszámok.
 
-68. Termékmegjelenítés: a kereskedelmi közlemény bármely olyan formája, amely terméket, szolgáltatást, ezek védjegyét vagy ezekre való utalást tartalmaz oly módon, hogy az – fizetés vagy hasonló ellenszolgáltatás ellenében – egy műsorszámban jelenik meg.
+68. Termékmegjelenítés: olyan kereskedelmi közlemény, amely terméket, szolgáltatást, ezek védjegyét vagy ezekre való utalást tartalmaz oly módon, hogy az – fizetés vagy hasonló ellenszolgáltatás ellenében – egy műsorszámban vagy felhasználó által létrehozott videóban jelenik meg.
 
 69. Választási kampányidőszak: a választási eljárásról szóló törvényben meghatározott, a választási kampány lefolytatására rendelkezésre álló időszak.
 
@@ -215,5 +227,9 @@ a) műsorszórás és műholdas műsorterjesztés révén végzett, előfizetői
 b) más műsorterjesztő átviteli rendszerrel végzett, előfizetői díj fizetése nélkül hozzáférhető médiaszolgáltatás esetében az átviteli rendszerhez csatlakoztatott háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata, vagy
 
 c) előfizetői díj fizetése ellenében hozzáférhető médiaszolgáltatások esetében az adott médiaszolgáltatásra előfizetett vagy az adott médiaszolgáltatást tartalmazó műsorterjesztési szolgáltatásra előfizetett háztartások száma és a Központi Statisztikai Hivatal által meghatározott, egy háztartásban átlagosan élők számának szorzata.
+
+71a. Videómegosztóplatform-szolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelynek vagy amely egy elválasztható részének vagy egy alapvető funkciójának elsődleges célja, hogy tájékoztatás, szórakoztatás vagy oktatás céljából elektronikus hírközlő hálózaton keresztül olyan műsorszámokat, illetve felhasználók által létrehozott videókat juttasson el a nyilvánossághoz, amelyekért a videómegosztóplatform-szolgáltató nem tartozik szerkesztői felelősséggel, és amelyeket a videómegosztóplatform-szolgáltató rendszerez például automatikus eszközökkel vagy algoritmusokkal, különösen megjelenítés, címkézés, sorba rendezés révén.
+
+71b. Videómegosztóplatform-szolgáltató: videómegosztóplatform-szolgáltatást nyújtó természetes vagy jogi személy.
 
 72. Virtuális reklám: digitális technikával vagy más módon a műsorjelbe, illetve a műsorszámba utólagosan beillesztett reklám.

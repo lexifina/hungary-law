@@ -8,7 +8,9 @@ b) az Smtv. 14. és 16–20. §-ainak, vagy azok bármelyikének felügyelete az
 
 c) az Smtv. 14. és 16–20. §-ainak, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
 
-d) e törvény Második Része I. Fejezete rendelkezéseinek, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében.
+d) e törvény Második Része I. Fejezete rendelkezéseinek, vagy azok bármelyikének felügyelete a lekérhető médiaszolgáltatások tekintetében,
+
+e) az alkoholtartalmú italok kereskedelmi közleményei megfelelőségének előmozdítása, érvényesítése és felügyelete a lekérhető médiaszolgáltatások tekintetében.
 
 (3) A Médiatanács által – a (2) bekezdésben meghatározott hatósági ügytípus tekintetében – az önszabályozó szervezet számára biztosított felhatalmazás magában foglalja:
 

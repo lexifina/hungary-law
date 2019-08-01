@@ -6,7 +6,7 @@
 
 (3)
 
-(4) Amennyiben a 62. § (5) bekezdés szerint a Fővárosi Közigazgatási és Munkaügyi Bíróság eljárását kezdeményezték, a hatósági szerződés a Fővárosi Közigazgatási és Munkaügyi Bíróság jogerős döntéséig nem köthető meg. A Fővárosi Közigazgatási és Munkaügyi Bíróság felülvizsgálati eljárásának időtartama a hatósági eljárás ügyintézési határidejébe nem számít bele.
+(4) Ha a Médiatanács határozatát közigazgatási perben megtámadták, a bíróság eljárásának időtartama a hatósági eljárás ügyintézési határidejébe nem számít bele.
 
 (5) A Médiatanács a 187. § szerint bírságot szabhat ki, amennyiben a nyertes pályázó a pályázati ajánlatát visszavonja, vagy a hatósági szerződést nem köti meg.
 
@@ -26,4 +26,6 @@
 
 (13) A 49. § (8) bekezdés szerinti eredeti igénylő a pályázat nyertesétől az adatszolgáltatással és tervezéssel kapcsolatban felmerült indokolt költségeinek megtérítésére tarthat igényt.
 
-(14) A médiaszolgáltató köteles öt napon belül a Médiatanácsnak bejelentenie, ha a médiaszolgáltató tulajdonosi szerkezetében vagy a hatósági szerződésben szereplő adataiban változás következik be.
+(14) A médiaszolgáltató köteles a cégbírósági változásbejegyzést követő öt napon belül a Médiatanácsnak bejelenteni, ha a médiaszolgáltató tulajdonosi szerkezetében vagy – a hatósági szerződésben szereplő – cégadataiban változás következik be.
+
+(15) A médiaszolgáltató köteles öt napon belül a Médiatanácsnak bejelenteni, ha a hatósági szerződésben szereplő egyéb adataiban változás következik be.

@@ -1,4 +1,4 @@
-35. § (1) A lineáris médiaszolgáltatásban közzétett reklámok időtartama egyetlen, egész órától egész óráig tartó időszakon belül sem haladhatja meg a tizenkét percet, beleértve az osztott képernyős reklámot, a virtuális reklámot valamint – a (2) bekezdés e) pontban foglalt kivétel mellett – a más médiaszolgáltatás műsorszámainak népszerűsítését.
+35. § (1) A lineáris médiaszolgáltatásban közzétett reklámok időtartama a 6.00 és 18.00 óra közötti időszakban, továbbá a 18.00 és 24.00 óra közötti időszakban sem haladhatja meg ezen időszakok húsz-húsz százalékát, beleértve az osztott képernyős reklámot, a virtuális reklámot, valamint – a (2) bekezdés e) pontjában foglalt kivétel mellett – a más médiaszolgáltatás műsorszámainak népszerűsítését.
 
 (2) Az (1) bekezdésben foglalt időbeli korlátozás nem terjed ki
 
@@ -24,6 +24,8 @@ j) a kizárólag reklámot és televíziós vásárlást közzétevő médiaszol
 
 k) a kizárólag a médiaszolgáltatót vagy annak más médiaszolgáltatását reklámozó lineáris audiovizuális médiaszolgáltatásra,
 
-l) a médiaszolgáltatást magát, vagy a médiaszolgáltatásban közzétett műsorszámokat kiegészítő termékek reklámozását szolgáló közleményekre.
+l) a médiaszolgáltatást magát, vagy a médiaszolgáltatásban közzétett műsorszámokat kiegészítő termékek reklámozását szolgáló közleményekre,
 
-(3) A televíziós vásárlási műsorablak közzétételére fordított műsoridő nem haladhatja meg a naptári naponként számított három órát, ide nem értve az elsősorban televíziós vásárlást vagy televíziós vásárlási műsorablakokat közzétevő tematikus médiaszolgáltatás műsoridejét.
+m) a semleges képkockákra.
+
+(3)

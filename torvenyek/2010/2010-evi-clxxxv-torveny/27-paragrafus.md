@@ -2,7 +2,7 @@
 
 a) párt, politikai mozgalom,
 
-b) dohányterméket gyártó vállalkozás
+b) olyan vállalkozás, amelynek elsődleges tevékenysége cigaretta, egyéb dohánytermék, elektronikus cigaretta, utántöltő flakon gyártása vagy értékesítése,
 
 c) a szerencsejáték-felügyeleti hatóság engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
 

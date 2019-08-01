@@ -22,8 +22,10 @@
 
 (7) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének súlyos károsítására, különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz, a VI. kategóriába kell sorolni.
 
-(8) A (2)–(7) bekezdés szerinti minősítésnél irányadó részletes szempontokra, az egyes műsorszámok közzététele előtt és közben alkalmazható jelzésekre, illetve a minősítés közlésének módjára vonatkozó jogalkalmazási gyakorlatának fő elvi szempontjait – amennyiben a kiskorúak védelmével kapcsolatos közérdek vagy a kiskorúak védelmének egységes érvényesülése ezt indokolja – a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) ajánlásban teszi közzé.
+(8) A (2)–(7) bekezdés szerinti minősítésnél irányadó részletes szempontokra, az egyes műsorszámok közzététele előtt és közben alkalmazható jelzésekre, illetve a minősítés közlésének módjára vonatkozó jogalkalmazási gyakorlatának fő elvi szempontjait – amennyiben a kiskorúak védelmével kapcsolatos közérdek vagy a kiskorúak védelmének egységes érvényesülése ezt indokolja – a Médiatanács ajánlásban teszi közzé.
 
 (9) A média szolgáltató kérelmére – igazgatási szolgáltatási díj megfizetése ellenében, a műsorszám átadásától számított tizenöt napon belül – a Médiatanács a műsorszám kategóriába sorolásáról hatósági határozatot hoz.
 
 (10) Nem minősül az (1)–(7) bekezdés megsértésének, ha a médiaszolgáltató a műsorszámot magasabb kategóriába sorolja, mint ahogyan az a (2)–(6) bekezdésben meghatározottak szerint szükséges lenne.
+
+(11) A Magyarországon forgalomba kerülő filmalkotások vonatkozásában a mozgóképszakmai hatóság által elvégzett kategóriába sorolás a filmalkotások médiaszolgáltatók általi változatlan tartalommal történő bemutatása esetén – a (10) bekezdés szerinti kivétellel – mind a médiaszolgáltatókat, mind a Médiatanácsot köti, attól érvényesen eltérni csak a médiaszolgáltató (9) bekezdés szerinti kérelme alapján hozott határozatnak megfelelően lehet.

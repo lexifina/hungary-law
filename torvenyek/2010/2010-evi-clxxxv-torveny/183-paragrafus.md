@@ -20,7 +20,7 @@ i) kialakítja a médiaszolgáltatást érintő frekvenciagazdálkodás koncepci
 
 j) az Országgyűlés részére éves beszámolót készít a Médiatanács és a Hivatal tevékenységéről,
 
-k) kezeli az Alapot, elfogadja támogatáspolitikáját, éves tervét, illetve beszámolóját, meghatározza és közzéteszi az Alap kezelése részletes szabályait, valamint jóváhagyja az Alap által kidolgozott általános pályázati feltételeket,
+k) kezeli az Alapot, elfogadja az Alap pénzügyi forrásaival kapcsolatos támogatáspolitikát, meghozza a támogatások elosztásával kapcsolatos döntéseket, elfogadja az Alap éves tervét, illetve beszámolóját, meghatározza és közzéteszi az Alap kezelése részletes szabályait,
 
 l) beszámolót készít az Európai Bizottság részére egyes műsorszerkezeti követelmények vonatkozásában,
 

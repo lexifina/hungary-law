@@ -30,7 +30,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (13) A (3) bekezdésben meghatározott mérlegelési szempontok figyelembevételével, a körülmények lényeges megváltozásával a Médiatanács megfelelően módosíthatja a (3) bekezdés szerinti hatósági határozatát. A módosított határozat közlésére a (12) bekezdésben foglaltakat kell alkalmazni.
 
-(14) A (3) és (13) bekezdésben meghatározott hatósági határozat bírósági felülvizsgálata keretében a keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, és a keresettel támadott hatósági határozat végrehajtását a bíróság nem függesztheti fel. A határozat a keresetlevél benyújtásától függetlenül azonnal végrehajtható.
+(14) A (3) és (13) bekezdésben meghatározott hatósági határozat ellen indított közigazgatási perben azonnali jogvédelem iránti kérelem előterjesztésének nincs helye.
 
 (15) Az (1)–(11) bekezdésben foglaltak megfelelő érvényesülését, a műsorterjesztő általi teljesítését a Médiatanács hivatalból, illetve a 145. § szerinti bejelentés alapján általános hatósági felügyelet keretében ellenőrizheti.
 
@@ -38,4 +38,4 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (17) Amennyiben a (16) bekezdés szerinti felhívásban meghatározott határidő eredménytelenül telt el, vagy a (16) bekezdés alkalmazása kizárt, a Médiatanács hivatalból megindítja a hatáskörébe tartozó eljárást.
 
-(18) A Médiatanács hatósági határozata által a (3) bekezdés alapján kijelölt közszolgálati médiaszolgáltatásra vonatkozó továbbítási kötelezettség tartalmát és kereteit, valamint a vonatkozó jogokat és kötelezettségeket nem érinti a 74. § (1) bekezdés szerint továbbítandó közszolgálati médiaszolgáltatások számának a kijelölés tárgyában hozott határozat jogerőre emelkedését követő csökkenése.
+(18) A Médiatanács hatósági határozata által a (3) bekezdés alapján kijelölt közszolgálati médiaszolgáltatásra vonatkozó továbbítási kötelezettség tartalmát és kereteit, valamint a vonatkozó jogokat és kötelezettségeket nem érinti a 74. § (1) bekezdés szerint továbbítandó közszolgálati médiaszolgáltatások számának a kijelölés tárgyában hozott határozat véglegessé válását követő csökkenése.

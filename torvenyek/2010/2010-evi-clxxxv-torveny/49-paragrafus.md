@@ -20,7 +20,7 @@ c) a Nemzetközi Rádiószabályzat jelölései szerinti frekvenciasávot.
 
 (4) A Médiatanács a frekvenciatervet módosításra visszaadhatja.
 
-(5) A Hivatal a frekvenciatervet a Médiatanács jóváhagyása előtt legalább tizenöt napra közzéteszi. A közzétételről és annak helyéről a kezdőnapja előtt legalább egy héttel a Hivatal közleményt tesz közzé hirdetményi úton és a Médiatanács honlapján. A frekvenciatervek közzététele alatt és a lezárását követő további öt napon belül a frekvenciatervekre bárki írásban – a Médiatanácshoz címzett – észrevételt tehet.
+(5) A Hivatal a frekvenciatervet a Médiatanács jóváhagyása előtt legalább tizenöt napra közzéteszi. A közzétételről és annak helyéről a kezdőnapja előtt legalább egy héttel a Hivatal közleményt tesz közzé hirdetményi úton. A frekvenciatervek közzététele alatt és a lezárását követő további öt napon belül a frekvenciatervekre bárki írásban – a Médiatanácshoz címzett – észrevételt tehet.
 
 (6) A Médiatanács a közzététel utolsó napjától számított negyvenöt napon belül dönt a frekvenciaterv jóváhagyásáról és a pályázati felhívás tervezetének előkészítéséről.
 

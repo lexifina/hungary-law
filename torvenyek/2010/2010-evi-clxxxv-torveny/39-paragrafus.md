@@ -1,4 +1,4 @@
-## Hallássérültek számára hozzáférhető műsorszámok
+## Fogyatékossággal élő személyek számára hozzáférhető műsorszámok
 
 39. § (1) Az audiovizuális médiaszolgáltatás médiaszolgáltatójának törekednie kell arra, hogy műsorszámait fokozatosan hozzáférhetővé tegye a hallássérültek számára.
 
@@ -15,3 +15,7 @@
 (7) A feliratozásnak a nem felvételről közzétett műsorszámok esetében ésszerűen elvárható módon pontosnak és a képernyő történéseivel szinkronban állónak kell lennie.
 
 (8) A műsorterjesztő köteles az audiovizuális médiaszolgáltató által biztosított teletext jelet, vagy más feliratozást a kép- és hangjelekkel időszinkronban minden egyes átviteli rendszeren, hálózaton vagy műsorterjesztő átviteli platformon továbbítani.
+
+(9) Az audiovizuális médiaszolgáltatás médiaszolgáltatója köteles az akadálymentesítést célzó intézkedésekről cselekvési tervet készíteni és a cselekvési tervről, az annak alapján végrehajtott intézkedésekről köteles a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: Hatóság) felhívására tájékoztatást adni. Az (1) bekezdésben foglaltak teljesítéséről a Hatóság háromévente jelentést készít az Európai Bizottság részére.
+
+(10) A Hatóság a 184. § (1) bekezdése szerinti hatáskörébe tartozó, az akadálymentesítéssel összefüggő bejelentéskezelés, valamint az akadálymentesítési kérdésekre vonatkozó tájékoztatás biztosítására az internetes honlapján köteles kialakítani egy, a fogyatékkal élő személyek számára is könnyen elérhető online kapcsolattartási pontot.

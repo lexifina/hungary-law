@@ -6,7 +6,9 @@ a) lineáris audiovizuális médiaszolgáltatása évi teljes műsoridejének t�
 
 b) lineáris audiovizuális médiaszolgáltatása évi teljes műsoridejének legalább tíz százalékát olyan európai mű, legalább nyolc százalékát pedig olyan magyar mű bemutatására köteles fordítani, amelyeket tőle független műsorkészítővel készíttetett, vagy független műsorkészítőtől öt évnél nem régebben készült műként szerzett be.
 
-(2) A lekérhető audiovizuális médiaszolgáltatás kínálatában egy adott naptári évben elérhetővé tett műsorszámok egybeszámított időtartamának több mint negyedét európai, illetve legalább tíz százalékát magyar műveknek kell kitennie.
+(2) A lekérhető audiovizuális médiaszolgáltatás kínálatában egy adott naptári évben elérhetővé tett műsorszámok egybeszámított időtartamának legalább harminc százalékát európai, illetve legalább tíz százalékát magyar műveknek kell kitenniük. A lekérhető audiovizuális médiaszolgáltatást nyújtó médiaszolgáltatónak biztosítania kell az európai művek hangsúlyos megjelenítését a műsorkínálatában.
+
+(2a) Az európai alkotásokkal összefüggő, (2) bekezdésben meghatározott kötelezettségek teljesítéséről a Médiatanács kétévente jelentést készít az Európai Bizottság részére.
 
 (3) A közszolgálati médiaszolgáltató lineáris audiovizuális médiaszolgáltatása évi teljes műsoridejének
 

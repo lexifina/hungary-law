@@ -6,4 +6,6 @@
 
 (3) A Hivatal az Elnök, az elnökhelyettesek, a Médiatanács, illetve a Médiatanács tagjai részére szakmai támogatást nyújt feladataik ellátásához.
 
-(4)–(5)
+(4)
+
+(5)

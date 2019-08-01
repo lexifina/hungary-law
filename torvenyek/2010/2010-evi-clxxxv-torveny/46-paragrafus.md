@@ -58,7 +58,9 @@ e) a jogi személy vagy jogi személyiséggel nem rendelkező szervezet alapít�
 
 a) a kiadó nevét, székhelyét és a kiadásért felelős személy nevét,
 
-b)–c)
+b)
+
+c)
 
 d) a szerkesztésért felelős személy nevét.
 

@@ -10,7 +10,7 @@ ca) a politikai reklámra, közérdekű közleményre és a társadalmi célú r
 
 cb) a közszolgálati és közösségi médiaszolgáltatásban közzétett reklámra és közérdekű közleményre vonatkozó szabályok (36. §),
 
-cc) a hallási fogyatékkal élők számára hozzáférhetővé tett műsorszámokra vonatkozó szabályok (39. §),
+cc) a fogyatékkal élők számára hozzáférhetővé tett műsorszámokra vonatkozó szabályok (39. §),
 
 cd) a médiaszolgáltató, a sajtótermék kiadója és a kiegészítő szolgáltatást nyújtó tulajdoni viszonyaiban és más adataiban bekövetkezett változásokkal, azok bejelentésével és az egyes adatok közzétételével kapcsolatos szabályok,
 
@@ -32,7 +32,9 @@ f) ellenőrzi a közszolgálati médiaszolgáltatások továbbítására vonatko
 
 g) a médiaszolgáltatások felajánlásának kötelezettsége körében ellenőrzi az általános szerződési keretfeltételekre vonatkozó előírások érvényesülését (79. §),
 
-h) egyéb, törvényben meghatározott hatásköröket gyakorol.
+h) ellátja a videómegosztóplatform-szolgáltatók nyilvántartásba vételével kapcsolatos feladatokat, valamint felügyeli a videómegosztóplatform-szolgáltatókra és szolgáltatásokra vonatkozó előírások érvényesülését,
+
+i) egyéb, törvényben meghatározott hatásköröket gyakorol.
 
 (2) A Hivatal nem hatósági hatásköreiben
 

@@ -2,7 +2,7 @@
 
 a) nem sértheti az emberi méltóságot,
 
-b) nem tartalmazhat és nem támogathat a nemen, faji vagy etnikai származáson, nemzetiségen, valláson vagy világnézeti meggyőződésen, fizikai vagy szellemi fogyatkozáson, életkoron vagy szexuális irányultságon alapuló hátrányos megkülönböztetést,
+b) nem tartalmazhat és nem támogathat a nemen, faji vagy etnikai származáson, állampolgárságon, nemzetiségen, valláson vagy világnézeti meggyőződésen, fizikai vagy szellemi fogyatkozáson, életkoron vagy szexuális irányultságon alapuló hátrányos megkülönböztetést,
 
 c) közvetlenül nem szólíthat fel kiskorúakat valamely áru megvásárlására vagy bérbevételére, illetve szolgáltatás igénybevételére,
 

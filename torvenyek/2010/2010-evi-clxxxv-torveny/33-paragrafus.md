@@ -16,7 +16,7 @@ figyelemfelhívás.
 
 a) politikai híreket tesz közzé vagy politikai tájékoztatást tartalmaz, és időtartama nem haladja meg a harminc percet,
 
-b) tizennégy év alatti kiskorúakhoz szól, és időtartama nem haladja meg a harminc percet,
+b)
 
 c) nemzeti ünnepek hivatalos eseményeiről tudósít,
 

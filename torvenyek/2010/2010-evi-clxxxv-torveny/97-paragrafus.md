@@ -1,6 +1,6 @@
 ## A Közszolgálati Testület
 
-97. § (1) A Közszolgálati Testület tizennégy tagú, elnökét soraiból tagjai választják, döntéseit, ha e törvény másként nem rendelkezik, egyszerű többséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
+97. § (1) A Közszolgálati Testület tizenöt tagú, elnökét soraiból tagjai választják, döntéseit, ha e törvény másként nem rendelkezik, egyszerű többséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
 
 (2) A Közszolgálati Testület tagjait az e törvény 1. számú mellékletében meghatározott jelölő szervezetek delegálják három évre, a mellékletben meghatározott módon. A tagok többször is delegálhatók. Nem akadálya a Közszolgálati Testület működésének, ha valamelyik szervezet nem él delegálási jogával.
 

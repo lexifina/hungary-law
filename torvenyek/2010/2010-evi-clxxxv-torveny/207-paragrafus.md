@@ -10,6 +10,8 @@
 
 (7) A műsorszolgáltatási szerződést nem lehet felmondani abban az esetben, ha a szerződést valamely jogsértés miatt nem lehetett volna megkötni, de a jogsértést nem kizárólag a médiaszolgáltató okozta.
 
-(8)
+(8) A rádiós analóg lineáris médiaszolgáltatási jogosultság 48. § (5) bekezdésében meghatározott, a médiaszolgáltatással kapcsolatos egyes törvények módosításáról szóló 2019. évi LXIII. törvénnyel (a továbbiakban: Módtv.2) módosított érvényességi időtartama a Módtv.2 hatálybalépését követően indult pályázati eljárások alapján elnyert jogosultságok esetén alkalmazandó.
+
+(8a) A médiaszolgáltatási jogosultság 48. § (5) bekezdésében meghatározott megújíthatóságának a Módtv.2-vel módosított időtartama a Módtv.2 hatálybalépését követően kérelmezett megújítás esetén alkalmazandó.
 
 (9) Az Smtv., illetve e törvény II. Rész I. Fejezete körébe tartozó, a műsorszolgáltatási szerződésben nevesített tárgyköröket érintő jogsértéseket a műsorszolgáltatási szerződésben foglalt rendelkezésekkel szemben az Smtv., illetve e törvény vonatkozó rendelkezései szerint kell elbírálni.

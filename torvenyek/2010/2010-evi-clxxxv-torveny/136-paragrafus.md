@@ -1,6 +1,6 @@
 ## A Médiaszolgáltatás-támogató és Vagyonkezelő Alap
 
-136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltató szervezeti átalakításának támogatása, a filmalkotásnak nem minősülő közszolgálati célú műsorszámok gyártása és támogatása, a tulajdonosi joggyakorlása alatt álló állami és saját vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
+136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltató szervezeti átalakításának támogatása, a közszolgálati célú műsorszámok gyártása és támogatása, a tulajdonosi joggyakorlása alatt álló állami és saját vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
 
 (2) Az Alap tulajdonában álló saját, valamint a tulajdonosi joggyakorlása alatt álló állami vagyon ideértve annak hasznosításából és tulajdonjogának átruházásából származó bevételt is – kizárólag törvényben meghatározott célokra használható fel.
 
@@ -18,7 +18,7 @@
 
 (9) Az Alapba történő önkéntes befizetés közérdekű kötelezettségvállalásnak minősül. Amennyiben az Alapba történő önkéntes befizetés a Hatósággal vagy a Médiatanáccsal kötött hatósági szerződésben foglalt vállaláson vagy a Média- és Hírközlési Biztossal kötött megállapodáson alapul, az önkéntes befizetést az e megállapodásokban foglaltaknak megfelelően kell felhasználni.
 
-(10) Az Alap támogatáspolitikáját, üzleti tervét és éves beszámolóját a Médiatanács fogadja el. Az Alap pénzügyi forrásainak és nyilvántartásaiban szereplő eszközeinek a támogatáspolitikában, illetve üzleti tervben nem szereplő felhasználásához, illetve az ezek terhére történő kötelezettségvállaláshoz a Médiatanács által meghatározott összeghatárt meghaladó kifizetéshez a Médiatanács előzetes jóváhagyása szükséges.
+(10) Az Alap pénzügyi forrásaival kapcsolatos támogatáspolitikát, az Alap üzleti tervét és éves beszámolóját a Médiatanács fogadja el. Az Alap pénzügyi forrásainak és nyilvántartásaiban szereplő eszközeinek a támogatáspolitikában, illetve üzleti tervben nem szereplő felhasználásához, illetve az ezek terhére történő kötelezettségvállaláshoz a Médiatanács által meghatározott összeghatárt meghaladó kifizetéshez a Médiatanács előzetes jóváhagyása szükséges.
 
 (11) Az Alap képviseletére a vezérigazgató jogosult. Az Alap vezérigazgatója feletti teljes munkáltatói jogkört – ideértve a kinevezést, a munkabér és juttatások megállapítását, továbbá a munkáltatói felmondást is – a Médiatanács elnöke gyakorolja.
 
@@ -32,6 +32,6 @@
 
 (16) Az Alap kezelésének részletes szabályait a Médiatanács határozza meg.
 
-(17)
+(17) Az Alap külföldi tudósítói által végzett tevékenység közszolgálat keretében végzett munkának tekintendő.
 
 (18) Az Alap személyes illetékmentességre jogosult, és nem alanya a társasági adónak, valamint a helyi adónak.
