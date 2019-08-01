@@ -66,6 +66,8 @@ E) Belügyminiszter
 
 | 10 | Terrorelhárítási Központ | irányítás |
 
+| 11 | Társadalmi Esélyteremtési Főigazgatóság | irányítás |
+
 F) Pénzügyminiszter
 
 |  | A | B |
@@ -168,4 +170,4 @@ M) Igazságügyi miniszter
 
 | 2 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
 
-[^45]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a, a 206/2018. (XI. 10.) Korm. rendelet 8. §-a és 9. § a)–b) pontja, a 95/2019. (IV. 25.) Korm. rendelet 6. §-a, a 126/2019. (V. 30.) Korm. rendelet 29. §-a, a 159/2019. (VI. 28.) Korm. rendelet 54. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^45]: Az 1. melléklet a 136/2018. (VII. 25.) Korm. rendelet 1. § e) pontja, a 162/2018. (IX. 10.) Korm. rendelet 43. §-a, a 206/2018. (XI. 10.) Korm. rendelet 8. §-a és 9. § a)–b) pontja, a 95/2019. (IV. 25.) Korm. rendelet 6. §-a, a 126/2019. (V. 30.) Korm. rendelet 29. §-a, a 159/2019. (VI. 28.) Korm. rendelet 54. §-a, a 180/2019. (VII. 26.) Korm. rendelet 9. §-a szerint módosított szöveg.
