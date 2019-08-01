@@ -14,16 +14,16 @@
 
 |  | 6. | Társadalom- tudomány | Social Science | szociális munka és szociális gazdaság | Social Work and Social Economics | okleveles szociális gazdaság szakember |  | Expert in Social Economics | 7 |
 
-|  | 7. | Bölcsészet- tudomány | Arts and Humanities | Európai társadalmi terek, fejlesztés és identitás | European Social Spaces, Development and Identity | okleveles társadalomfejlesztési szakértő |  | Expert in Social Development | 7 |
+|  | 7. | Bölcsészet- tudomány | Arts and Humanities | Európai társadalmi terek, fejlesztés és örökség | European Social Spaces, Development and Heritage | okleveles társadalomfejlesztési szakértő |  | Expert in Social Development | 7 |
 
 |  | 8. | Bölcsészet- tudomány | Arts and Humanities | Choreomundus – Tánc mint tudás, gyakorlat és kulturális örökség | Choreomundus – International Master In Dance Knowledge, Practice and Heritage | okleveles etnokoreológus |  | Ethnochoreologist | 7 |
 
 |  | 9. | Bölcsészet- tudomány | Arts and Humanities | európai lexikográfia | European Master in Lexicography | okleveles lexikográfus | Lexicographer |  | 7 |
 
-|  | 10. | Művészet | Arts | DocNomads dokumentumfilm-rendező művész | DocNomads Documentary Film Directing | okleveles dokumentumfilm-rendező művész | Documentary Film Director |  | 7 |
+|  | 10. | Művészet | Arts | DocNomads dokumentumfilm-rendező művész | DocNomads Documentary Film Directing | okleveles DocNomads dokumentumfilm-rendező művész | Documentary Film Director |  | 7 |
 
 |  | 11. | Művészet | Arts | PuppeTry bábművész | PuppeTry Master’s Degree Program in Puppetry | okleveles bábművész | Puppeteer |  | 7 |
 
-|  | 12. | Művészet | Arts | Viewfinder filmoperatőr művész | Viewfinder Cinematography Program | okleveles filmoperatőr művész | Viewfinder |  | 7 |
+|  | 12. | Művészet | Arts | Viewfinder filmoperatőr művész | Viewfinder Cinematography Program | okleveles Viewfinder filmoperatőr művész | Viewfinder |  | 7 |
 
 5. melléklet a 139/2015. (VI. 9.) Korm. rendelethez

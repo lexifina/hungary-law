@@ -520,7 +520,7 @@
 
 | 249. |  |  |  | szobrászművész |  | Sculpture |  | okleveles szobrászművész |  | Sculptor | 7 |
 
-| 250. |  |  |  | tájépítészet és kertművészet | Landscape Architecture and Garden Design | okleveles tájépítész- kertművész | Landscape Architect and Garden Designer | 7 |
+| 250. |  |  | tájépítészet és kertművészet |  |  | Landscape Architecture and Garden Design | okleveles tájépítész- kertművész | Landscape Architect and Garden Designer | 7 |
 
 | 251. |  |  | televíziós műsorkészítő művész |  |  | Television Production Arts |  | okleveles televíziós műsorkészítő művész |  | Expert in Television Production Arts | 7 |
 
@@ -532,4 +532,4 @@
 
 4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^29]
 
-[^29]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése, a 188/2018. (X. 12.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^29]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése, a 188/2018. (X. 12.) Korm. rendelet 7. §-a, a 191/2019. (VII. 30.) Korm. rendelet 72. § b)–d) pontja szerint módosított szöveg.

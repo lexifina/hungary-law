@@ -44,7 +44,7 @@
 
 | 21. |  |  | pedagógia | Pedagogy | pedagógia alapszakos bölcsész | Philologist in Pedagogy | 6 |
 
-| 22. |  |  | pszichológia | Psychology | viselkedéselemező | Human Behaviour Analyst | 6 |
+| 22. |  |  | pszichológia | Psychology | viselkedéselemző | Human Behaviour Analyst | 6 |
 
 | 23. |  |  | régészet | Archeology | régészet alapszakos bölcsész | Philologist in Archaeology | 6 |
 
@@ -234,4 +234,4 @@
 
 3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^28]
 
-[^28]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 3. §-a, a 188/2018. (X. 12.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^28]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése, a 357/2017. (XI. 29.) Korm. rendelet 3. §-a, a 188/2018. (X. 12.) Korm. rendelet 6. §-a, a 191/2019. (VII. 30.) Korm. rendelet 71. §-a szerint módosított szöveg.
