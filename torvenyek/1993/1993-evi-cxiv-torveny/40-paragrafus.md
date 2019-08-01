@@ -1,1 +1,0 @@
-40. § A baromfi- és halkeltető állomást, méhanyanevelő telepet üzemeltetőnek a tenyészanyag eredetéről, származásáról, értékesítéséről és felhasználásáról jogszabályban előírt igazolással kell rendelkeznie és ezekről nyilvántartást kell vezetnie; az utódok származását értékesítéskor igazolnia kell.

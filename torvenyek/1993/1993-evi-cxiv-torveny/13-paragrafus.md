@@ -1,3 +1,0 @@
-## Tenyésztési hozzájárulás
-
-13. §

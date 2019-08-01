@@ -1,1 +1,0 @@
-6. § A tenyészállat-kiállítást, -árverést a vonatkozó állat-egészségügyi, közegészségügyi és egyéb előírások megtartásával, az elismert tenyésztő szervezet, több faj, illetve fajta együttes részvétele esetén az elismert tenyésztő egyesületek (szövetségek) által létrehozott szövetség hozzájárulásával, a tenyésztési hatóság felügyeletével lehet tartani.

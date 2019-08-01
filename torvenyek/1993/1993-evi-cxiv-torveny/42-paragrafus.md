@@ -1,1 +1,0 @@
-42. § Jogszabály eltérő rendelkezése hiányában a tenyészállat, illetve szaporítóanyag kiviteléhez a tenyésztési hatóság által kiadott vagy hitelesített származási igazolás, szaporítóanyag esetében minőségigazolás is szükséges.
