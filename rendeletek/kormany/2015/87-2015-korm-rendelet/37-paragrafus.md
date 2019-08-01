@@ -4,7 +4,7 @@
 
 (3) A doktorjelölti törzslap az alábbi adatokat tartalmazza:
 
-a) a felsőoktatási intézmény nevét, intézményi azonosító számát, székhely, illetve telephely címét, a doktorjelölt nevét, hallgatói azonosító számát és a törzslap sorszámát, valamint papír alapú törzslap esetén a részét képező oldalak sorszámát és funkcióját összesítő felsorolást;
+a)[^128] a felsőoktatási intézmény nevét, intézményi azonosító számát, székhely, illetve telephely címét, a doktorjelölt nevét, oktatási azonosító számát és a törzslap sorszámát, valamint papír alapú törzslap esetén a részét képező oldalak sorszámát és funkcióját összesítő felsorolást;
 
 b) a doktorjelölt személyes adatait (születési neve, anyja születési neve, születési helye és ideje, állampolgársága, bejelentett lakóhelyének, tartózkodási helyének címe, értesítési címe és telefonszáma, elektronikus levélcíme, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma);
 
@@ -27,3 +27,5 @@ j) a doktorjelölti törzslap hitelesítését.
 (4) A törzslapot a doktorjelölti jogviszony megszűnését követően kell hitelesíteni.
 
 (5) A felsőoktatási intézmény a doktorjelölti jogviszony megszűnésekor papír alapú hitelesített törzslap-kivonatot ad ki a doktorjelölt kérelmére, amely tartalmában megegyezik a törzslapban szereplő adatokkal.
+
+[^128]: A 37. § (3) bekezdés a) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.

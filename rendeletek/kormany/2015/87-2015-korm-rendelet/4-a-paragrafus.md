@@ -1,4 +1,4 @@
-4/A. §[^9] (1) Az Nftv. 108. § 23a. pontjában meghatározott szervezetnek a közösségi felsőoktatási képzési központként való nyilvántartásba vételét és működésének engedélyezését a szervezet és a vele együttműködő felsőoktatási intézmény együttesen, az egymással kötött megállapodás aláírását követő harminc napon belül kérheti a Hivataltól. A közösségi felsőoktatási képzési központ működési engedélyezési eljárásának részét képezi a vele együttműködő felsőoktatási intézménynek a közösségi felsőoktatási képzési központban indítandó képzése indításának nyilvántartásba vétele.
+4/A. §[^10] (1) Az Nftv. 108. § 23a. pontjában meghatározott szervezetnek a közösségi felsőoktatási képzési központként való nyilvántartásba vételét és működésének engedélyezését a szervezet és a vele együttműködő felsőoktatási intézmény együttesen, az egymással kötött megállapodás aláírását követő harminc napon belül kérheti a Hivataltól. A közösségi felsőoktatási képzési központ működési engedélyezési eljárásának részét képezi a vele együttműködő felsőoktatási intézménynek a közösségi felsőoktatási képzési központban indítandó képzése indításának nyilvántartásba vétele.
 
 (2) Az (1) bekezdés szerinti kérelemhez mellékelni kell
 
@@ -22,7 +22,7 @@ b) az együttműködő felsőoktatási intézmény által a közösségi felsőo
 
 c) a források és a költségek együttműködő felek közötti megosztásának szabályait,
 
-d) az egyes – teljes évfolyamokkal működő – képzéseken részt vevő hallgatók tervezett maximális létszámát,
+d)[^11]
 
 e) a megállapodás felmondásának feltételeit azzal, hogy a képzésben részt vevő hallgatók számára a képzés befejezésének lehetőségét biztosítani kell,
 
@@ -36,9 +36,10 @@ a) a közösségi felsőoktatási képzési központban az együttműködő fels
 
 b) azt, hogy a közösségi felsőoktatási képzési központ – figyelemmel a hallgatók fogadásához és az oktatási tevékenység folytatásához rendelkezésre álló személyi feltételekre, helyiségekre és eszközökre – valamennyi évfolyamra számítva, teljes kihasználtsággal működve mekkora maximális hallgatói létszámot fogadhat.
 
-(6)[^10] A közösségi felsőoktatási képzési központ működési engedélyében szereplő maximális hallgatói létszám módosítását a közösségi felsőoktatási képzési központ képviselője kérelmezi a Hivatalnál. A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni. A maximális hallgatói létszám megállapítása, módosítása a februárban induló képzések tekintetében legkésőbb a megelőző év szeptember 20-áig, a szeptemberben induló képzések tekintetében legkésőbb a megelőző év november 5-éig kezdeményezhető.
+(6)[^12] A közösségi felsőoktatási képzési központ működési engedélyében szereplő maximális hallgatói létszám módosítását a közösségi felsőoktatási képzési központ képviselője kérelmezi a Hivatalnál. A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a (2) bekezdés a) és d) pontja szerinti mellékleteket nem kell csatolni.
 
 (7) Az Nftv. 14. § (2a) bekezdés d) pontjában szabályozott megállapodás tartalmára a (3) bekezdést megfelelően alkalmazni kell.
 
-[^9]: A 4/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 60. §-a iktatta be.
-[^10]: A 4/A. § (6) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 37. § a) pontja, a 266/2016. (VIII. 31.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^10]: A 4/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 60. §-a iktatta be.
+[^11]: A 4/A. § (3) bekezdés d) pontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^12]: A 4/A. § (6) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 50. §-ával megállapított szöveg.

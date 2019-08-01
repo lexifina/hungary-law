@@ -1,6 +1,6 @@
 40. § (1) A jogviszony-igazolás tanúsítja a hallgató, a doktorjelölt jogviszonyának fennállását vagy korábbi fennállását.
 
-(2)[^108] A jogviszony-igazolást a hallgató, doktorjelölt kérelemére a felsőoktatási intézmény szabályzatában kijelölt szervezeti egység állítja ki.
+(2)[^133] A jogviszony-igazolást a hallgató, doktorjelölt kérelemére a felsőoktatási intézmény szabályzatában kijelölt szervezeti egység állítja ki.
 
 (3) A jogviszony-igazolást
 
@@ -18,11 +18,11 @@ a) a sorszámát,
 
 b) a felsőoktatási intézmény nevét, címét, intézményi azonosító számát,
 
-c)[^109] a hallgató, doktorjelölt személyes adatait, kivéve az állampolgárságra vonatkozó adatait, hallgatói azonosító számát (ennek hiányában a törzslap sorszámát),
+c)[^134] a hallgató, doktorjelölt személyes adatait, kivéve az állampolgárságra vonatkozó adatait, oktatási azonosító számát (ennek hiányában a törzslap sorszámát),
 
-d)[^110] a jogviszony kezdetét és a képzési és kimeneti követelmények figyelembevételével a várható befejezés időpontját,
+d)[^135] a jogviszony kezdetét és a képzési és kimeneti követelmények figyelembevételével a várható befejezés időpontját,
 
-e)[^111] a hallgató jogviszonyának aktív vagy passzív státuszát, illetve a doktorjelölti jogviszonyt az igazoláson megjelölt tanulmányi félévben,
+e)[^136] a hallgató jogviszonyának aktív vagy passzív státuszát, illetve a doktorjelölti jogviszonyt az igazoláson megjelölt tanulmányi félévben,
 
 f) a hallgató által folytatott képzés – több képzés esetén a képzések – megnevezését, munkarendjét, nyelvét, helyét, finanszírozási formáját,
 
@@ -36,7 +36,7 @@ i) a 34. § (4) bekezdése szerinti hitelesítést.
 
 (7) A hallgatói jogviszony fennállása alatt minden jogviszony-igazolás kiadása ingyenes.
 
-[^108]: A 40. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 90. § 4. pontja szerint módosított szöveg.
-[^109]: A 40. § (5) bekezdés c) pontja a 407/2017. (XII. 15.) Korm. rendelet 41. § h) pontja szerint módosított szöveg.
-[^110]: A 40. § (5) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 78. §-ával megállapított szöveg.
-[^111]: A 40. § (5) bekezdés e) pontja a 169/2016. (VII. 1.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^133]: A 40. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 90. § 4. pontja szerint módosított szöveg.
+[^134]: A 40. § (5) bekezdés c) pontja a 407/2017. (XII. 15.) Korm. rendelet 41. § h) pontja, a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^135]: A 40. § (5) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 78. §-ával megállapított szöveg.
+[^136]: A 40. § (5) bekezdés e) pontja a 169/2016. (VII. 1.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
