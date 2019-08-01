@@ -40,7 +40,13 @@ b) a tanuló nevelési-oktatási intézményének megállapítása, a tanítási
 
 (19) A Hallgatói személyi törzsből továbbítható – az érintetten kívül – a felsőoktatási intézménynek a vele hallgatói jogviszonyban álló személyre vonatkozó, a nála fennálló jogviszonyára vonatkozó valamennyi adat.
 
-(20)
+(20) A Hallgatói személyi törzsből továbbíthatók továbbá a Diákhitel Központnak a hallgatói hitelt igényelt személyekhez kapcsolódóan
+
+a) a hallgatói hitelre való jogosultság vizsgálata, adatellenőrzés és a törlesztési kötelezettség fennállásának, illetve szünetelésének megállapítása céljából a 3. melléklet IV. alcím 1. pontja szerinti adatokból az oktatási azonosító száma és adóazonosító jele, a 3. melléklet IV. alcím 3., 5., 6. és 8. pontja szerinti adat minden folyamatban lévő képzésére vonatkozóan, valamint a 2. § a)–j) pontja szerinti adatok,
+
+b) a hitelszerződésből eredő jogok gyakorlása és kötelezettségek teljesítése során az ügyfelekkel való kapcsolattartás céljából a 3. melléklet IV. alcím 2. pontja szerinti adatok,
+
+c) a hallgatói hiteltartozások várható visszafizetésével kapcsolatos kockázatelemzés és a kockázati mérték szerinti ügyfélkezelés céljából a 3. melléklet IV. alcím 12. pontja szerinti adatok közül az abszolutóriumra vonatkozó adat, a 3. melléklet IV. alcím 15. pontja, a 18. pont 18.1. és 18.2. alpontja szerinti adat, a 3. melléklet IV. alcím 19. pontja szerinti adatokból a hallgató által önköltség címén az intézmény felé ténylegesen fizetendő összeg, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 82. § (1) bekezdés a) pontja alapján fizetendő térítési díj összege.
 
 (21) A Hallgatói személyi törzsből továbbíthatók továbbá a Tempus Közalapítványnak a külföldi tanulmányokat segítő ösztöndíjra való jogosultság vizsgálata, a jogosultak és az államközi ösztöndíjak útján érkező külföldiek ösztöndíjszerződéséből eredő jogok gyakorlása és kötelezettségek teljesítése, az ilyen ösztöndíjasok nyomon követése céljából az ösztöndíjra pályázó vagy ösztöndíjas személyhez kapcsolódóan
 

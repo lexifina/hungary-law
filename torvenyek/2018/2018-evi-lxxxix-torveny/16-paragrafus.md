@@ -10,7 +10,7 @@ d)
 
 e)
 
-f)
+f) 3. melléklet I. fejezet I/B. alcím 4. pont e) alpontja,
 
 g)
 

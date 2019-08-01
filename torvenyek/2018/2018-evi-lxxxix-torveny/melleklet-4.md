@@ -154,6 +154,6 @@
 
 ## 22. a részére nyújtott pénzbeli juttatások adata,
 
-## 23.
+## 23. a Diákhitel Központ által megítélt hitel fennálltára, típusára vonatkozó adat.
 
 4. melléklet a 2018. évi LXXXIX. törvényhez

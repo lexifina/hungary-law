@@ -16,7 +16,7 @@ c) az idegenrendészeti hatóság szolgáltatja a 3. melléklet III. alcím 3. p
 
 (4) A 4. § (3) bekezdés d) pontja szerinti hallgatói személyi törzs alrendszer részére továbbá
 
-a)
+a) a Diákhitel Központ szolgáltatja a 3. melléklet IV. alcím 23. pontja szerinti adatot,
 
 b) a Tempus Közalapítvány szolgáltatja az általa kezelt, a 3. melléklet IV. alcím 8. és 21. pontja szerinti adatot,
 
