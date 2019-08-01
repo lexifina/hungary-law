@@ -1,0 +1,3 @@
+## 55. § A 87/2015. (IV. 9.) Korm. rendelet 15. §-a helyébe a következő rendelkezés lép:
+
+## „15. § A 11. § (6) bekezdés hatálya alá nem tartozó esetben a felsőoktatási intézmény duális képzési megállapodásainak, valamint a duális képzés szakmai gyakorlati részének megvalósítását szolgáló, a felsőoktatási szakképzésről és a felsőoktatási képzéshez kapcsolódó szakmai gyakorlat egyes kérdéseiről szóló 230/2012. (VIII. 28.) Korm. rendelet [a továbbiakban: 230/2012. (VIII. 28.) Korm. rendelet] szerinti belső gyakorlóhelyeinek nyilvántartásba vételét, a nyilvántartásba vett megállapodások és belső gyakorlóhelyek tekintetében bekövetkezett adatváltozásokat, a megszűnt megállapodások és belső gyakorlóhelyek törlését a felsőoktatási intézmény vezetője kérelmezi.”

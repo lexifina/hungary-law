@@ -1,0 +1,3 @@
+## 17. § A 362/2011. (XII. 30.) Korm. rendelet 36. §-a a következő (8) bekezdéssel egészül ki:
+
+## „(8) Az adatkezelő a 7. § (1) bekezdés i) pontjában foglalt rendelkezés teljesítése érdekében a nyilvántartásából a kedvezményre való jogosultság megállapítása céljából erre vonatkozó adatot szolgáltat az oktatási igazolványokhoz kapcsolódó kedvezmények nyújtóinak kérésére. Az adatközlés alapja a 35. § (1) és (2) bekezdése szerinti érvényesítésre vonatkozó adat. Az adatközlés eredményeként két érték keletkezik, miszerint az oktatási igazolvány érvényes vagy érvénytelen. Az adatközlés elektronikus úton történik.”
