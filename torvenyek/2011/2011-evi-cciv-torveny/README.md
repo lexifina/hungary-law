@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2019-04-03 | 2019. évi XIX. törvény | 2011-204-00-00.53 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2011-204-00-00.54 |
 | 2019-07-01 | 2019. évi XIX. törvény | 2011-204-00-00.55 |
+| 2019-08-01 | 2019. évi LXVIII. törvény | 2011-204-00-00.56 |

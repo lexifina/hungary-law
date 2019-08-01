@@ -128,17 +128,7 @@
 
 ## d) a felsőoktatási információs rendszer működéséért felelős szerv részére valamennyi adat;
 
-## e) a Diákhitel Központnak a hallgatói hitelt igényelt személyekhez kapcsolódóan
-
-## ea) az 1. b) pont ba), bb) alpontjai szerinti adatok – nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat, tartózkodási jogot igazoló okmány megnevezése, száma kivételével, továbbá a hallgató tanulmányainak értékelése, vizsgaadatok, igénybe vett támogatási idő kivételével –,
-
-## eb) az 1. f) pontból a hallgató által önköltség címén az intézmény felé ténylegesen fizetendő összeg, a hallgatói hitelre való jogosultság, illetve ennek megszűnése vizsgálata, valamint a törlesztési kötelezettség fennállásának, illetve szünetelésének megállapítása céljából,
-
-## ec) az 1. b) pont ba) és bk) alpontjai szerinti adatok – a társadalombiztosítási azonosító jel kivételével –, az ügyfelekkel történő kapcsolattartáshoz és a velük kapcsolatos ügyintézéshez a hitelszerződésből eredő jogok gyakorlása és kötelezettségek teljesítése céljából,
-
-## ed) az 1. b) pont ba) és bb) alpontjai szerinti adatok – a hallgató tanulmányainak értékelése, vizsgaadatok, igénybe vett támogatási idő kivételével –,
-
-## ee) az 1. b) pont bl) alpontjából az abszolutóriumra és a záróvizsgára (doktori védésre) vonatkozó adatok a hallgatói hiteltartozások várható visszafizetésével kapcsolatos kockázatelemzéshez és a kockázati mérték szerinti ügyfélkezeléshez;
+## e)
 
 ## f) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervnek a képzésre és a hallgatói jogviszonyra vonatkozóan.
 
@@ -241,19 +231,3 @@ g) a pályázó szociális rászorultságát igazoló – a pályázóra, a pál
 h) a pályázó felsőoktatási intézménybe történő felvételének eredménye
 
 i) a pályázó hallgatói jogviszonyának állapotára vonatkozó adatok
-
-2. Az 1. pontban megjelölt adatok kezelésére jogosult
-
-a) a miniszter vagy a miniszter által a pályázat lebonyolítására kijelölt szervezet (továbbiakban: pályázatkezelő szervezet),
-
-b) az ösztöndíjrendszerhez csatlakozott helyi önkormányzat,
-
-c) az ösztöndíjat folyósító felsőoktatási intézmény.
-
-3. Az adatkezelés célja:
-
-az ösztöndíjpályázat lebonyolítása, és az ösztöndíjra való jogosultság ellenőrzése.
-
-4. Az adatkezelés időtartama:
-
-az ösztöndíj időtartamának lejártától számított 5 év.
