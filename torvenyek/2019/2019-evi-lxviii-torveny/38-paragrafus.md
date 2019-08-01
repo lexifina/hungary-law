@@ -1,1 +1,0 @@
-38. § A KFItv. 10. § (1) bekezdésében az „Az NKFI Hivatal” szövegrész helyébe az „Az NKFI Hivatal a tudománypolitika koordinációjáért felelős miniszter felügyelete és szakpolitikai irányítása mellett ellátja az alábbi feladatokat” szöveg lép.
