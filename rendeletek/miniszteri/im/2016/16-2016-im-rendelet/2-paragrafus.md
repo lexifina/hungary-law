@@ -1,1 +1,0 @@
-## 1. § A külképviseleti megfigyelőt, a választási eljárásról szóló 2013. évi XXXVI. törvény (a továbbiakban: Ve.) 245. § (2) bekezdése szerinti megfigyelőt, valamint a Ve. 281. § (3) bekezdése szerinti megfigyelőt legkésőbb 2016. szeptember 22-én 16.00 óráig kell bejelenteni a Nemzeti Választási Bizottságnál. [Ve. 5. § (3) bekezdés, 245. § (3) bekezdés, 281. § (3) bekezdés]

@@ -1,1 +1,0 @@
-## 16. § A Nemzeti Választási Iroda a levélben szavazók névjegyzékébe azt a magyarországi lakcímmel nem rendelkező választópolgárt veszi fel, aki a legkésőbb 2016. szeptember 17-én 16.00 óráig benyújtott kérelme alapján szerepel a központi névjegyzékben. [Ve. 266. § (2) bekezdés]

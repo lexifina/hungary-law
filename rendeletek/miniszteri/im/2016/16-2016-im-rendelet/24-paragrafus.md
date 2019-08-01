@@ -1,1 +1,0 @@
-## 23. § A szavazóhelyiséget magában foglaló épületnek a szavazóhelyiség megközelítését szolgáló bejáratától számított 150 méteres távolságon belül – közterületen – választási kampánytevékenység 2016. október 2-án nem folytatható. [Ve. 143. §]
