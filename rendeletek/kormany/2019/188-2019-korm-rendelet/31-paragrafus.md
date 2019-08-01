@@ -1,0 +1,1 @@
+## 30. § A jogi személy tenyésztőszervezet köteles a honlapján egységes szerkezetben közzétenni az állattenyésztéssel kapcsolatos eljárási szabályzatának hatályos szövegét, valamint közzétenni a megbízásából teljesítményvizsgálatot vagy tenyészértékbecslést végző személyek nevét, telefonos elérhetőségét, illetve elektronikus kapcsolattartásának címét.

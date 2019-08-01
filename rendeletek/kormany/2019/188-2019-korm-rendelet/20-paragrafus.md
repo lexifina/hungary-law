@@ -1,0 +1,1 @@
+## 19. § A tenyésztőszervezet elismerésének visszavonására irányuló határozatban a miniszter meghatározza a fajta még meglévő állományának hasznosítási módját azon tenyésztőszervezet számára, akitől az engedély visszavonásra kerül.

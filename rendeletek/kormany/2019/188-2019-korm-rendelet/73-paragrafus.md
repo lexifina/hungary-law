@@ -1,0 +1,1 @@
+## 72. § A NÉBIH kérelemre megvizsgálja, hogy a sperma technikai, biológiai minősége megfelel-e az állategészségügyi előírásokban foglalt követelményeknek, és a vizsgálat eredményéről hatósági bizonyítványt állít ki.

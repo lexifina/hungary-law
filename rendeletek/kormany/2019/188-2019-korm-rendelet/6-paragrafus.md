@@ -1,0 +1,1 @@
+## 5. § A tenyésztőszervezet feladata az adott állatfajta vagy a keresztezéssel előállított, végtermék létrehozását szolgáló tiszta vonalak fenntartásának biztosítása, ennek keretében a tenyésztési program megalkotása, és a miniszter jóváhagyását követően annak – a tenyésztésvezető irányításával történő – végrehajtása.

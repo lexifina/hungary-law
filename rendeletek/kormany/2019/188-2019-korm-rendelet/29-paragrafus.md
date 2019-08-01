@@ -1,0 +1,5 @@
+## 28. § A tenyésztő jogosult a jogi személy tenyésztőszervezet tenyésztési programjának végrehajtásában való részvételre, ha vállalja az abban foglaltak betartását, és állatai az adott fajta fenntartásáért felelős jogi személy tenyésztőszervezet elbírálása alapján az adott fajtához tartoznak.
+
+29. § (1) Ha a jogi személy tenyésztőszervezet az adott fajtára vagy hibridre vonatkozóan jóváhagyott tenyésztési programmal rendelkezik, köteles törzskönyvezni, a teljesítményvizsgálatokat elvégezni vagy elvégeztetni, valamint – a kérelem tenyésztőszervezethez történő beérkezésétől számítva – legkésőbb 15 napon belül származási igazolással ellátni mindazon tenyésztőnek az adott fajtához vagy hibridhez tartozó állatát, aki azt kérelmezi, feltéve, hogy a törzskönyvezésnek szakmai akadálya nincs.
+
+(2) Ha a jogi személy tenyésztőszervezet a származási igazolás kiadását megtagadja, köteles erről – legkésőbb az (1) bekezdésben megállapított határidőben – a származási igazolás kiállítását kérelmezőt írásban, indokolással ellátva tájékoztatni.

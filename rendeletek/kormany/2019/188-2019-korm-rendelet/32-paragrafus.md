@@ -1,0 +1,1 @@
+## 31. § A jogi személy tenyésztőszervezet nem tagadhatja meg a tenyésztő tagfelvételi kérelmét, ha a tenyésztő a tagságból eredő kötelezettségeket vállalja. A tenyésztő kizárható a tagságból, ha nem teljesíti a tenyésztési programban előírtakat vagy a jogi személy tenyésztőszervezet eljárási szabályzatában foglaltakat.

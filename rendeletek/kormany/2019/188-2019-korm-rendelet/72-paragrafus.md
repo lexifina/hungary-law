@@ -1,0 +1,1 @@
+## 71. § Hazai eredetű, illetve előállítású sperma esetén a spermatároló központnak rendelkeznie kell a NÉBIH hatósági bizonyítványával, amely igazolja, hogy a sperma megfelel a hazai forgalmazhatóság jogszabály szerinti állategészségügyi feltételeinek.

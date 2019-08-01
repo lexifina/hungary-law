@@ -1,0 +1,1 @@
+## 49. § Az élelmiszerlánc-felügyeleti szerv részére bejelentett vagy általa engedélyezett olyan állatkiállítást, amelyen tenyészállat bemutatására is sor kerül, a tenyésztőszervezet, több faj, illetve fajta együttes részvétele esetén a tenyésztőszervezetek által létrehozott szövetség részére is be kell jelenteni.

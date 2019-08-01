@@ -1,0 +1,1 @@
+## 79. § A megyeszékhely szerinti járási hivatal a méhanyanevelő telep nyilvántartásba vételéről – a méhanyanevelő telepként üzemeltetni kívánt méhészet üzemeltetője nevének, lakcímének, jogi személy üzemeltető esetén székhelyének és a méhanyanevelő telep pontos címének megküldésével – értesíti az illetékes települési önkormányzat, a fővárosban a kerületi önkormányzat jegyzőjét.

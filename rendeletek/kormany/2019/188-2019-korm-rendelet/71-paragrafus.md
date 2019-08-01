@@ -1,0 +1,1 @@
+## 70. § Amennyiben a tenyésztőszervezet észleli, hogy a spermatároló központ működése nem felel meg a jogszabályi előírásoknak, a tenyésztőszervezet a megyeszékhely szerinti járási hivatalnál kezdeményezi a szükséges intézkedés megtételét.

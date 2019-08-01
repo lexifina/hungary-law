@@ -1,0 +1,5 @@
+4. § (1) Az 1. § (1) bekezdésében meghatározott állatfajok esetében szaporítóanyag nyerésére, tenyészállat előállítására, valamint más állattartók nőivarú állatállományában utódok előállítására csak olyan hímivarú tenyészállat használható, amelyet az adott fajta fenntartásáért felelős tenyésztőszervezet a tenyésztési programjának megfelelően apaállatnak minősített, valamint szaporítóanyag előállítására, illetve mesterséges termékenyítésre engedélyezett. A hímivarú tenyészállatnak, illetve a tőle nyert szaporítóanyagnak meg kell felelnie az állatok tenyésztésére, szaporítására, a szaporítóanyag előállításra, raktározásra, valamint a forgalmazásra vonatkozó állategészségügyi feltételeknek.
+
+(2) A fedeztetéseket, termékenyítéseket minden esetben dokumentálni kell. Az elismert tenyésztési programban szereplő fedeztetési, termékenyítési dokumentum adatait be kell jelenteni az országos állattenyésztési adatbázisba.
+
+(3) A hímivarú tenyészállat tartója köteles a véletlen fedezés elkerüléséről gondoskodni.

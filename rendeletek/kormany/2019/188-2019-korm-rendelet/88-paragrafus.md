@@ -1,0 +1,3 @@
+## 87. § A miniszter e rendeletben foglalt előírásoktól, különösen a tenyésztőszervezeti és hibridtenyésztő szervezeti elismerésre irányuló eljárásra, a tenyésztési program tartalmára, a törzskönyv főtörzskönyvi részébe történő bejegyzésre, a teljesítményvizsgálatok végzésére és a tenyészállattá nyilvánításra vonatkozó rendelkezések esetében – amennyiben az azokban foglalt célokkal nem ellentétes – eltérést engedélyezhet tudományos és oktatási intézetekben végzett tudományos munkákra, továbbá az állattenyésztést fejlesztő kutatásokra, biotechnológiai fejlesztésekre és fajtarekonstrukció végrehajtására.
+
+## 20. Az állami tulajdonú apaállat és szaporítóanyag
