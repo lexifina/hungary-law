@@ -1,1 +1,0 @@
-## 34. § A területi és az országos nemzetiségi önkormányzati választás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda legkésőbb 2014. október 13-án 10.00 óráig eljuttatja a területi választási irodához. [Ve. 329. § (1) bekezdés]

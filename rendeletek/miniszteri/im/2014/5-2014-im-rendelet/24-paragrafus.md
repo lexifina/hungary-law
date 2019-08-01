@@ -1,1 +1,0 @@
-## 23. § 2014. október 11-én a közszolgálati médiaszolgáltató lineáris médiaszolgáltatásában az országos listát állító jelölő szervezetek politikai reklámjait egy alkalommal, politikai reklámonként legfeljebb 30 másodperces időtartamban köteles közzétenni. [Ve. 147/D. §]
