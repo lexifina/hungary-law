@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-104-00-00
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 2010-104-00-00.11 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2010-104-00-00.12 |
 | 2017-07-01 | 2017. évi LXXII. törvény | 2010-104-00-00.13 |
+| 2019-08-01 | 2019. évi LXIII. törvény | 2010-104-00-00.14 |

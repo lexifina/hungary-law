@@ -10,4 +10,6 @@ d) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) 
 
 e) az Európai Parlament és a Tanács 2005/29/EK irányelve (2005. május 11.) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról,
 
-f) az Európai Parlament és Tanács 2001/83/EK irányelve (2001. november 6) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről.
+f) az Európai Parlament és Tanács 2001/83/EK irányelve (2001. november 6) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről,
+
+g) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról szóló, 2018. november 14-i (EU) 2018/1808 irányelv.
