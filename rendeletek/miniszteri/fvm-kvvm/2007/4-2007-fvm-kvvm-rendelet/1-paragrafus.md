@@ -1,3 +1,0 @@
-1. § (1) A védett őshonos mezőgazdasági állatfajták olyan állatfajták, amelyeket Magyarország természetföldrajzi környezetében, történelmi múltra visszatekintően tenyésztenek, és ezáltal a nemzeti örökség, a mezőgazdasági génbank, valamint a természet- és tájvédelem részévé váltak. A védett őshonos mezőgazdasági állatfajták körét e rendelet 1. számú melléklete tartalmazza.
-
-(2) A veszélyeztetett mezőgazdasági állatfajták olyan magas genetikai értéket képviselő, nem őshonos állatfajták, amelyek kiszorultak a termelésből, ezért a génállományuk megőrzése érdekében szükségessé vált védelmük. A veszélyeztetett mezőgazdasági állatfajták körét e rendelet 2. számú melléklete tartalmazza.
