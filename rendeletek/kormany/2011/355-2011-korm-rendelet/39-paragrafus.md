@@ -1,3 +1,3 @@
-39. §[^21]
+39. §[^23]
 
-[^21]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
