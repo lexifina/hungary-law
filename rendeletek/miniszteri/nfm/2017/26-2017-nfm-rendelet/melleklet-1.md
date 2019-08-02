@@ -1,4 +1,4 @@
-## 5. § Ez a rendelet a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődéshez való negyedik hozzáigazításáról szóló, 2016. december 16-i (EU) 2016/2309 bizottsági irányelvnek való megfelelést szolgálja.
+## való megfelelést szolgálja.
 
 1. melléklet a 26/2017. (VII. 5.) NFM rendelethez
 
@@ -8,7 +8,9 @@
 
 2. Az ADN Szabályzat 1.3.2 szakasz szerinti oktatásokat a veszélyes áruk belvízi szállítására vonatkozó, érvényes bizonyítvánnyal rendelkező veszélyes áru szállítási biztonsági tanácsadó tarthatja.
 
-3. Az ADN Szabályzat 1.3.2.4 bekezdése szerinti ismeretfelújító oktatást az ADN Szabályzat 1.8.5.3 bekezdésében meghatározott kritériumokat kielégítő baleset vagy káresemény bekövetkezése esetén soron kívül is meg kell tartani.
+3.[^2] Az ADN Szabályzat 1.3.2.4 bekezdését a következő kiegészítéssel kell alkalmazni:
+
+## „A következő ismeretfelújító oktatást legalább az előző oktatást követő két éven belül meg kell tartani. Ezenkívül az ADN Szabályzat 1.8.5.3 bekezdésében meghatározott kritériumokat kielégítő baleset vagy káresemény bekövetkezése esetén a balesetben vagy annak okozásában érintett munkavállalók részére 30 napon belül soron kívüli oktatást kell tartani.”
 
 4. Az ADN Szabályzat 1.3.2 szakaszát a következő 1.3.2.5 bekezdéssel kiegészítve kell alkalmazni:
 
@@ -66,10 +68,14 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 
 ## f) baleset, segélykérés vagy a hajót fenyegető jogellenes tevékenység esetén a hivatásos katasztrófavédelmi szervek, a mentésben résztvevő szervek, illetve a jogellenes tevékenység felszámolásában illetékes rendőr-, vám-, vízügyi és környezetvédelmi hatóságok az adatokhoz haladéktalanul hozzájussanak,
 
-## g) a hajózási hatóságnál nyilvántartott és iktatott kérelmen feltüntetett adatokon kívül a szállítás befejezésekor (kirakó kikötőbe történt megérkezés vagy az ország területének elhagyása), illetve nemzetközi szerződés szerinti adattovábbítás megtörténte után a veszélyes árut szállító hajók bejelentett adatai közül a hajót és a vezetőjét azonosító adatokat (név, tulajdonos, lajstromszám) törölni kell minden más nyilvántartásból, a többi adatot statisztikai célokra felhasználásra havonta a Nemzeti Fejlesztési Minisztériumnak kell átadni.”
+## g)[^3] a hajózási hatóságnál nyilvántartott és iktatott kérelmen feltüntetett adatokon kívül a szállítás befejezésekor (kirakó kikötőbe történt megérkezés vagy az ország területének elhagyása), illetve nemzetközi szerződés szerinti adattovábbítás megtörténte után a veszélyes árut szállító hajók bejelentett adatai közül a hajót és a vezetőjét azonosító adatokat (név, tulajdonos, lajstromszám) törölni kell minden más nyilvántartásból, a többi adatot statisztikai célokra felhasználásra havonta az Innovációs és Technológiai Minisztériumnak kell átadni.”
 
 10. Az ADN Szabályzat 8.2.2.7.3.1 pontjának rendelkezéseit a következő kiegészítéssel kell alkalmazni:
 
 ## „A tesztvizsgát a hajózási hatóság által delegált vizsgabizottság előtt kell megtartani.”
 
-11. A veszélyes áru szállítására, tárolására megnyitott kikötőben veszteglő és a kikötő kiszolgáló funkcióját ellátó úszóműnek nem szükséges „Jóváhagyási bizonyítvány”-nyal, illetve „Ideiglenes jóváhagyási bizonyítvány”-nyal rendelkeznie, ha a KöViM rendelet 8. § (1) bekezdés h) pontjában előírt, üzemképességet tanúsító okmány (Úszómű Bizonyítvány) olyan kiegészítést tartalmaz, amely ismerteti az úszómű veszélyes áru szállításban betöltött funkcióját és az ADN Szabályzat által előírt, az érintett úszóművel rendelkező kikötőben rakodásra engedélyezett veszélyes árukkal kapcsolatos minden szükséges adatot és információt.
+11.[^4] Az ADN Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben, és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
+
+[^2]: Az 1. melléklet 3. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet 9. pont (4) bekezdés g) pontja a 20/2019. (VIII. 1.) ITM rendelet 6. § szerint módosított szöveg.
+[^4]: Az 1. melléklet 11. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított szöveg.
