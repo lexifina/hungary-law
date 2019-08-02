@@ -1,3 +1,5 @@
+## való megfelelést szolgálja.
+
 1. melléklet a 61/2013. (X. 17.) NFM rendelethez
 
 Kiegészítések az ADR Szabályzat belföldi alkalmazásához
@@ -18,21 +20,23 @@ d) a közforgalmú úton történő szállítás távolsága legfeljebb 25 km, h
 
 Nem alkalmazható ez a könnyítés az 1 osztály anyagainak, a 4.1 osztály önreaktív anyagainak és polimerizálódó anyagainak, az 5.2, a 6.2 és a 7 osztály anyagainak szállítása esetén.
 
+2a.[^9] A növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet és a növényvédő szerrel szennyezett csomagolóeszköz-hulladékok kezeléséről szóló 103/2003. (IX. 11.) FVM rendelet szállításra vonatkozó előírásainak betartása esetén az előzőleg növényvédő szert tartalmazó üres csomagolóeszközök szállítása akkor sem tartozik az ADR Szabályzat hatálya alá, ha az ADR Szabályzat 5.1.3.1 bekezdése szerinti jelölések és bárcák nincsenek eltávolítva.
+
 3. Az ADR Szabályzat 1.3.2 szakasza szerinti oktatásokat a veszélyes áruk közúti szállítására vonatkozó, hatályos bizonyítvánnyal rendelkező veszélyes áru szállítási biztonsági tanácsadó tarthatja.
 
-4. Az ADR Szabályzat 1.3.2.4 bekezdését a következő kiegészítéssel kell alkalmazni:
+4.[^10] Az ADR Szabályzat 1.3.2.4 bekezdését a következő kiegészítéssel kell alkalmazni:
 
-„A képzést ismeretfelújító oktatás keretében rendszeresen, de legalább kétévenként, a naptári év végéig ki kell egészíteni az előírásokban történt változásokkal. Ezen kívül az ismeretfelújító oktatást az ADR Szabályzat 1.8.5.3 bekezdésében meghatározott kritériumokat kielégítő baleset vagy káresemény bekövetkezése esetén a balesetben vagy annak okozásában érintett munkavállalók részére soron kívül is meg kell tartani.”
+„A következő ismeretfelújító oktatást legalább az előző oktatást követő két éven belül meg kell tartani. Ezenkívül az ADR Szabályzat 1.8.5.3 bekezdésében meghatározott kritériumokat kielégítő baleset vagy káresemény bekövetkezése esetén a balesetben vagy annak okozásában érintett munkavállalók részére 30 napon belül soron kívüli oktatást kell tartani.”
 
-4a.[^9] Az ADR Szabályzat 1.3.2 szakaszát a következő 1.3.2.5 bekezdéssel kiegészítve kell alkalmazni:
+4a.[^11] Az ADR Szabályzat 1.3.2 szakaszát a következő 1.3.2.5 bekezdéssel kiegészítve kell alkalmazni:
 
 „1.3.2.5 Az Országos Tűzvédelmi Szabályzat szerint „1” kategóriába tartozó, kizárólag a cseretelepen történő helyszíni értékesítéssel foglalkozó PB-gáz cseretelepek személyzetére vonatkozó 1.3 fejezet szerinti kötelezettség teljesítettnek tekinthető, ha az érintett rendelkezik „a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól” szóló rendeletben meghatározott, érvényes „Tűzvédelmi szakvizsga bizonyítvány”-nyal.”
 
-4b.[^10] Az ADR Szabályzat 1.3.2 szakaszát a következő 1.3.2.6 bekezdéssel kiegészítve kell alkalmazni:
+4b.[^12] Az ADR Szabályzat 1.3.2 szakaszát a következő 1.3.2.6 bekezdéssel kiegészítve kell alkalmazni:
 
 „1.3.2.6 Nem szükséges az 1.3 fejezet szerinti képzés akkor, ha a veszélyes áru szállításával kapcsolatos tevékenységet érvényes veszélyes áru szállítási biztonsági tanácsadó bizonyítvánnyal rendelkező személy végzi.”
 
-5.[^11] Az ADR Szabályzat 1.3.3 szakasza szerinti oktatásra vonatkozó iratot az alábbi adattartalommal kell elkészíteni:
+5.[^13] Az ADR Szabályzat 1.3.3 szakasza szerinti oktatásra vonatkozó iratot az alábbi adattartalommal kell elkészíteni:
 
 a) az oktatásban részt vevők neve és a veszélyes áruk szállításával kapcsolatos munkaköre;
 
@@ -52,11 +56,11 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 
 „Megjegyzés: Az 1978. október 1-je előtt gyártott tartányok és battériás járművek 1995. szeptember 1-je után időszakos vizsgálatnak nem vethetők alá, kivéve, ha a tartány kielégíti az ADR Szabályzat 1.6.3.1 bekezdésének feltételeit.”
 
-7a.[^12] Az ADR Szabályzat 1.10.3.3 bekezdését a következő kiegészítéssel kell alkalmazni:
+7a.[^14] Az ADR Szabályzat 1.10.3.3 bekezdését a következő kiegészítéssel kell alkalmazni:
 
 „A közbiztonsági intézkedések foganatosítása közé tartozik az olyan egyedi azonosítók és ellenőrző rendszerek alkalmazása is, melyek alkalmasak a veszélyes árukhoz tartozó kísérő okmányokhoz való hozzáférési jogosultság megállapítására, illetve a bizonylatok eredetiségének ellenőrzésére és azonosítására, beleértve az illetékes hatóságokat is.”
 
-8.[^13] Az ADR Szabályzat 2.2.62.1.5.1 pontját a következő mondattal kiegészítve kell alkalmazni:
+8.[^15] Az ADR Szabályzat 2.2.62.1.5.1 pontját a következő mondattal kiegészítve kell alkalmazni:
 
 „E kivételek közé tartoznak azok az állati eredetű melléktermékek is, beleértve az állati tetemeket is, amelyeket állatorvos nem minősített bejelentési kötelezettség alá tartozó fertőző anyagnak, valamint az állati eredetű melléktermékek jogszabályi előírások alapján végzett ártalmatlanításából származó feldolgozott termékek.”
 
@@ -72,7 +76,7 @@ c) az árut csak a helyi elosztóhelyek és a kiskereskedők vagy a felhasznál�
 
 „b) a feladó vagy a címzett, vagy mindkettő azonosító adatait. Ha az UN 2911 tétel alá tartozó áruk szállítása a gyártóhely és a központi elosztó raktár között egyesítő-csomagolásban történik, a feladó és a címzett azonosító adatait az egyesítő-csomagoláson kell feltüntetni.”
 
-10a.[^14] Az ADR Szabályzat 5.2.2.2.1.2 pont első bekezdését a következő kiegészítéssel kell alkalmazni:
+10a.[^16] Az ADR Szabályzat 5.2.2.2.1.2 pont első bekezdését a következő kiegészítéssel kell alkalmazni:
 
 „Az előző mondatban említett szabvány szerinti csökkentett méretű bárcák, illetve jelölés az UN 1011, az UN 1965 és az UN 1978 tétel alá tartozó gázokat, illetve gázkeverékeket tartalmazó palackok hengeres részének felső harmadában is elhelyezhetők.”
 
@@ -80,7 +84,7 @@ c) az árut csak a helyi elosztóhelyek és a kiskereskedők vagy a felhasznál�
 
 „Megjegyzés 3. Ha a h) alpont szerinti „járműről történő értékesítés” történik, akkor elegendő a veszélyes árunak a kiindulási mennyiségét feltüntetni.”
 
-12.[^15] Az ADR Szabályzat 5.4.1.1.1 pont h) alpontját a következő módosítással kell alkalmazni:
+12.[^17] Az ADR Szabályzat 5.4.1.1.1 pont h) alpontját a következő módosítással kell alkalmazni:
 
 „h) a címzett nevét és címét. Ehelyett, ha az UN 1057 öngyújtókat (öngyújtó utántöltőket), az UN 1202 gázolajat (dízelolajat, könnyű fűtőolajat), UN 1263 festéket vagy festéksegédanyagot vagy az UN 2794 nedves, savas akkumulátortelepeket több, olyan címzetthez szállítják, akik a szállítás megkezdésekor még nem ismertek, a járműről történő értékesítés kifejezést lehet beírni.”
 
@@ -88,17 +92,17 @@ c) az árut csak a helyi elosztóhelyek és a kiskereskedők vagy a felhasznál�
 
 Nem alkalmazható ez a könnyítés a 7 osztály anyagainak szállítása esetén.
 
-14.[^16] Az ADR Szabályzat 8.1.5 szakasza alkalmazásában:
+14.[^18] Az ADR Szabályzat 8.1.5 szakasza alkalmazásában:
 
 a) az EN 14387:2004 + A1:2008 szabvány az „MSZ EN 14387:2004 + A1:2008 „Légzésvédők. Gázszűrő(k) és kombinált szűrő(k). Követelmények, vizsgálat, megjelölés” című szabványt jelenti,
 
-b) az EN 471: 2003 + A1:2007 szabvány mellett az „MSZ EN ISO 20471:2013, Jó láthatóságot biztosító ruházat. Vizsgálati módszerek és követelmények” című szabvány is alkalmazható.
+b)[^19]
 
-15.[^17] Az ADR Szabályzat 7.3.3 szakasz VC3 különleges előírását az UN 3291 tétel alá tartozó hulladékok ömlesztett szállítására a következők szerint kell alkalmazni:
+15.[^20] Az ADR Szabályzat 7.3.3 szakasz VC3 különleges előírását az UN 3291 tétel alá tartozó hulladékok ömlesztett szállítására a következők szerint kell alkalmazni:
 
 a) a „különlegesen felszerelt jármű, illetve konténer” az ADR értelmében vett fedett járművet vagy zárt konténert jelent, melynek kialakítása, valamint állapota olyan, hogy normális szállítási körülmények között megakadályozza mind a szilárd, mind a folyékony rakomány szabadba jutását; a berakáshoz használt csomagolóδeszközök biztonságosabb és könnyebb kezelhetősége érdekében a járművön, illetve konténeren belül műanyag tartóeszköz („hulladéktároló”) is elhelyezhető;
 
-b) a hulladékot műanyag zsákokba vagy merevfalú csomagolóeszközökbe helyezve kell a járműbe, illetve a konténerbe rakni. A csomagolóeszköz kialakításának, a hulladék csomagolóeszközbe helyezésének és lezárásának meg kell felelnie az egészségügyi intézményekben keletkező hulladék kezeléséről szóló jogszabály[^18] rendelkezéseinek;
+b) a hulladékot műanyag zsákokba vagy merevfalú csomagolóeszközökbe helyezve kell a járműbe, illetve a konténerbe rakni. A csomagolóeszköz kialakításának, a hulladék csomagolóeszközbe helyezésének és lezárásának meg kell felelnie az egészségügyi intézményekben keletkező hulladék kezeléséről szóló jogszabály[^21] rendelkezéseinek;
 
 c) a csomagolóeszközöket megfelelően rögzíteni kell, hogy normál szállítási körülmények között ne rongálódhassanak meg;
 
@@ -110,9 +114,9 @@ f) a műanyag tartóeszközök („hulladéktárolók”) fedelét a szállítá
 
 g) a műanyag tartóeszközöket („hulladéktárolókat”) a járműben, illetve a konténerben úgy kell rögzíteni, hogy normális szállítási körülmények között ne következhessen be olyan elmozdulás, amely a rakomány sérülését okozná.
 
-16.[^19] Az ADR Szabályzat 8.2 fejezete alkalmazásában az „oktató” alatt a „foglalkozásvezető” értendő. A foglalkozásvezetőt a közlekedési hatóságnak el kell ismernie.
+16.[^22] Az ADR Szabályzat 8.2 fejezete alkalmazásában az „oktató” alatt a „foglalkozásvezető” értendő. A foglalkozásvezetőt a közlekedési hatóságnak el kell ismernie.
 
-17.[^20] Az ADR Szabályzat 8.2.2.2 bekezdését a következő kiegészítésekkel kell alkalmazni.
+17.[^23] Az ADR Szabályzat 8.2.2.2 bekezdését a következő kiegészítésekkel kell alkalmazni.
 
 „17.1. A foglalkozásvezetőt a közlekedési hatóság elismeri, ha:
 
@@ -262,7 +266,7 @@ II. Tartányos szakosító tanfolyam esetében a képző szervnek az alaptanfoly
 
 III. A képző szervnek biztosítania kell az 1. osztály anyagai és tárgyai szállítására vonatkozó szakosító tanfolyam esetében az alaptanfolyamon szükséges feltételeken túlmenően legalább egy, IP 54 vagy IP 65 védettségi fokozatú vagy robbanásbiztos EExd nyomásálló tokozású, minősített kézi lámpát.”
 
-20.[^21] Az ADR Szabályzat 8.2.2.7 bekezdését a következő kiegészítésekkel kell alkalmazni:
+20.[^24] Az ADR Szabályzat 8.2.2.7 bekezdését a következő kiegészítésekkel kell alkalmazni:
 
 „A vizsgákon a tanfolyamokon szükséges feltételeken túlmenően a következőket kell biztosítani:
 
@@ -284,29 +288,35 @@ c) a gyakorlati vizsgafeladatok végrehajtásához szükséges eszközöket és 
 
 „1. Az 1 osztály anyagai és tárgyai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát.
 
-2.[^22] A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
+2.[^25] A 7 osztály radioaktív anyagai szállításának szakosító vizsgájára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti, legalább alapfokozatú sugárvédelmi vagy radiológusi képzettséggel rendelkezik.
 
 3. Tartányos szakosító vizsgára az a hallgató bocsátható, aki a nem tartányos szállításra öt évnél nem régebben tett sikeres ADR vizsgát, legalább két éve, C kategóriára érvényes vezetői engedéllyel rendelkezik, és a 18. pontban előírt vezetési gyakorlatról szóló igazolását bemutatta.
 
 4. Ismeretfelújító vizsgára az a hallgató bocsátható, aki az adott osztályra és szállítási módra a vizsga időpontjában érvényes ADR oktatási bizonyítvánnyal rendelkezik.”
 
-24.[^23] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
+24.[^26] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
 
 „A járművezetők ezt a képzést az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
 
+25.[^27] Az ADR Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
+
 [^8]: Az 1. melléklet 2. pontja a 27/2017. (VII. 5.) NFM rendelet 4. §-a szerint módosított szöveg.
-[^9]: Az 1. melléklet 4a. pontját az 52/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
-[^10]: Az 1. melléklet 4b. pontját a 27/2017. (VII. 5.) NFM rendelet 3. §-a iktatta be.
-[^11]: Az 1. melléklet 5. pontja a 27/2017. (VII. 5.) NFM rendelet 3. §-ával megállapított szöveg.
-[^12]: Az 1. melléklet 7a. pontját az 52/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
-[^13]: Az 1. melléklet 8. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
-[^14]: Az 1. melléklet 10a. pontját az 52/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
-[^15]: Az 1. melléklet 12. pontja a 27/2017. (VII. 5.) NFM rendelet 3. §-ával megállapított szöveg.
-[^16]: Az 1. melléklet 14. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
-[^17]: Az 1. melléklet 15. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
-[^18]: Lásd az 1/2002. (I. 11.) EüM rendeletet
-[^19]: Az 1. melléklet 16. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
-[^20]: Az 1. melléklet 17. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet 20. pontja a 27/2017. (VII. 5.) NFM rendelet 3. §-ával megállapított szöveg.
-[^22]: A 1. melléklet 23. pont 2. alpontja a 77/2015. (XII. 30.) NFM rendelet 8. § szerint módosított szöveg.
-[^23]: Az 1. melléklet 24. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított, a 77/2015. (XII. 30.) NFM rendelet 8. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet 2a. pontját a 20/2019. (VIII. 1.) ITM rendelet 2. §-a iktatta be.
+[^10]: Az 1. melléklet 4. pontja a 20/2019. (VIII. 1.) ITM rendelet 2. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet 4a. pontját az 52/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
+[^12]: Az 1. melléklet 4b. pontját a 27/2017. (VII. 5.) NFM rendelet 3. §-a iktatta be.
+[^13]: Az 1. melléklet 5. pontja a 27/2017. (VII. 5.) NFM rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet 7a. pontját az 52/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
+[^15]: Az 1. melléklet 8. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet 10a. pontját az 52/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
+[^17]: Az 1. melléklet 12. pontja a 27/2017. (VII. 5.) NFM rendelet 3. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 14. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet 14. pont b) alpontját a 20/2019. (VIII. 1.) ITM rendelet 2. §-a hatályon kívül helyezte.
+[^20]: Az 1. melléklet 15. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
+[^21]: Lásd az 1/2002. (I. 11.) EüM rendeletet
+[^22]: Az 1. melléklet 16. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 17. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
+[^24]: Az 1. melléklet 20. pontja a 27/2017. (VII. 5.) NFM rendelet 3. §-ával megállapított szöveg.
+[^25]: A 1. melléklet 23. pont 2. alpontja a 77/2015. (XII. 30.) NFM rendelet 8. § szerint módosított szöveg.
+[^26]: Az 1. melléklet 24. pontja az 52/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított, a 77/2015. (XII. 30.) NFM rendelet 8. §-a szerint módosított szöveg.
+[^27]: Az 1. melléklet 25. pontját a 20/2019. (VIII. 1.) ITM rendelet 2. §-a iktatta be.
