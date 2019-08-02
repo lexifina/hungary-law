@@ -1,3 +1,3 @@
-## „a) az oktatási igazolvány igényléséhez szükséges, az Onytv.-ben, az Nkt.-ben és az Nftv.-ben meghatározott adatokat,”
+## 12. §[^12]
 
-## (tartalmazza.)
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

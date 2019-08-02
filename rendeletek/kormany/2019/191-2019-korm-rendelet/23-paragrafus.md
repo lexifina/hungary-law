@@ -1,3 +1,3 @@
-## 22. § A felsőoktatási szakképzésről és a felsőoktatási képzéshez kapcsolódó szakmai gyakorlat egyes kérdéseiről szóló 230/2012. (VIII. 28.) Korm. rendelet [a továbbiakban: 230/2012. (VIII. 28.) Korm. rendelet] 15. § (6) bekezdése helyébe a következő rendelkezés lép:
+## 22. §[^22]
 
-## „(6) Az Oktatási Hivatal helyszíni ellenőrzés keretében vizsgálhatja a felsőoktatási intézmény duális képzési szakmaigyakorlat-szervezési tevékenységét, a nyilvántartásában lévő duális képzési megállapodás, valamint a duális képzés szakmai gyakorlati részének megvalósítását szolgáló belső gyakorlóhely nyilvántartási adatainak valódiságát, teljességét, megfelelőségét és jogszerűségét. Az Oktatási Hivatal az ellenőrzésben való közreműködésre felkérheti a szakmailag illetékes kamarát, illetve a Magyar Rektori Konferenciát. Az ellenőrzés eredményéről tájékoztatni kell a felsőoktatási intézmény fenntartóját.”
+[^22]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

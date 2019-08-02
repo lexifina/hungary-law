@@ -1,3 +1,3 @@
-## 13. § A 362/2011. (XII. 30.) Korm. rendelet 13. §-a a következő (6) bekezdéssel egészül ki:
+## 13. §[^13]
 
-## „(6) Ha a Magyarország területén kívüli országban székhellyel rendelkező köznevelési, felsőoktatási intézmény tevékenységét önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében Magyarországon is folytatja, a vele tanulói vagy hallgatói jogviszonyban álló diákigazolványra akkor jogosult, ha a külföldi vagy nemzetközi nevelési-oktatási intézményt az oktatásért felelős miniszter nyilvántartásba vette és működését engedélyezte, vagy a külföldi felsőoktatási intézmény működését az eljáró hatóság engedélyezte.”
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

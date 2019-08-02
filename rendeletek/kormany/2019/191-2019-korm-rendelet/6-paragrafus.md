@@ -1,3 +1,3 @@
-## 5. § A 33/2008. (II. 21.) Korm. rendelet 5/F. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^5]
 
-## „(1) Az Etv. IX. fejezetének hatálya alá tartozó eljárások esetében benyújtandó iratokról nem szükséges hiteles fordítást benyújtani. Az Etv. IX. fejezetének hatálya alá nem tartozó eljárások esetében az eljáró hatóság internetes honlapján közzéteszi azoknak a nyelveknek a felsorolását, amelyek esetében – az 5/C. § (1) bekezdésétől eltérően – nem hiteles fordítást vagy szakfordítást is elfogad. Az eljáró hatóság honlapján közzéteszi azoknak a nyelveknek a felsorolását, amelyek esetében az Európai Bizottság és az Európa Tanács által meghatározott oklevélmellékletről nem kell fordítást benyújtani.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

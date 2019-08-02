@@ -1,5 +1,3 @@
-## „(3) A Hivatal a szakmai képesítések elismerésével kapcsolatos feladataihoz kapcsolódóan
+## 47. §[^50]
 
-## a) statisztikai adatokat szolgáltat az Európai Bizottság részére,
-
-## b) a riasztási mechanizmusban közreműködő hatóságként az Etv. 55. §-a szerint tájékoztatja a többi tagállam illetékes hatóságát.”
+[^50]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

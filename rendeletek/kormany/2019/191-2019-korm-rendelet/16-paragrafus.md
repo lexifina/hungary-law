@@ -1,3 +1,3 @@
-## 15. § A 362/2011. (XII. 30.) Korm. rendelet 33. §-a helyébe a következő rendelkezés lép:
+## 15. §[^15]
 
-## „33. § Az IdomSoft Zrt. az adatoknak a Nektv. szerinti feldolgozását követően továbbítja az igénylést a megszemélyesítő részére.”
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

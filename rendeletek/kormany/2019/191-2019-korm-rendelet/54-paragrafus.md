@@ -1,3 +1,3 @@
-## 53. § A 87/2015. (IV. 9.) Korm. rendelet 11. §-a a következő (7) bekezdéssel egészül ki:
+## 53. §[^56]
 
-## „(7) Azon eljárások esetében, amelyeknél mellékletként az eljárással összefüggő, a Hivatal által nyilvántartandó megállapodást is csatolni kell, ezen megállapodás adatainak nyilvántartásba vételéről a Hivatal az adott eljárás keretében dönt.”
+[^56]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

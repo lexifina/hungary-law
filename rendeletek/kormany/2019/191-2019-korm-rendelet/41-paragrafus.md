@@ -1,1 +1,0 @@
-## „bb) az oklevél megszerzését követő hat hónapon belül e rendeletben foglaltak szerint a szakképzettségének megfelelő foglalkoztatásra irányuló jogviszonyt létesít, és tart fent a 11. § (1) bekezdésének megfelelően,”

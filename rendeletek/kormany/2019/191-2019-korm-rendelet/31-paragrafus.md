@@ -1,3 +1,3 @@
-## 30. § A 248/2012. (VIII. 31.) Korm. rendelet 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 30. §[^30]
 
-## „(1) A Hivatal a magyar állami (rész)ösztöndíjas hallgató tanulmányi útját, képzési adatait és a képzési idő alatt a személyes és lakcímadatait a felsőoktatási információs rendszeren (a továbbiakban: FIR) keresztül kapott adatok alapján tartja nyilván.”
+[^30]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

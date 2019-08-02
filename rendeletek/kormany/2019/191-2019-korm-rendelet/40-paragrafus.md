@@ -1,16 +1,12 @@
-## 39. § Az 52/2013. (II. 25.) Korm. rendelet 6. §-a a következő e) ponttal egészül ki:
+## 39. §[^40]
 
-## (Az ösztöndíj program működési szabályzata magában foglalja)
+40. § (1)[^41]
 
-## „e) az ösztöndíj visszafizetésére engedélyezhető részletfizetés és mentesség szabályait.”
+(2)[^42]
 
-40. § (1)[^8]
+(3)[^43]
 
-(2)[^9]
-
-(3) Az 52/2013. (II. 25.) Korm. rendelet 7. § (3) bekezdés b) pont bb) alpontja helyébe a következő rendelkezés lép:
-
-(Pályázat benyújtására az jogosult, aki a pályázat benyújtásának időpontjában vállalja, hogy)
-
-[^8]: A 40. § (1) bekezdése a 73. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^9]: A 40. § (2) bekezdése a 73. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^40]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 40. § (1) bekezdése a 73. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^42]: A 40. § (2) bekezdése a 73. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^43]: A 40. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
