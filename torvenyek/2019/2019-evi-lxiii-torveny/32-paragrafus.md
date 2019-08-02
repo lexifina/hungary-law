@@ -1,9 +1,0 @@
-32. § Az Mttv. 62. § (7) bekezdése helyébe a következő rendelkezés lép és a § a következő (7a)–(7c) bekezdéssel egészül ki:
-
-„(7) A pályázati ajánlat a pályázati eljárás lezárásáig a 153. § (2) bekezdése szerinti, törvény által védett titoknak minősül. A pályázati ajánlatot a Médiatanács az ügy iratai között elkülönítve, zártan kezeli. A pályázati ajánlatban szereplő adatokról a Médiatanács a szerződés megkötéséig nem ad tájékoztatást. A pályázati eljárás lezárásáig a pályázó más pályázó pályázati ajánlatába, valamint harmadik személy a pályázati ajánlatba és az eljárás irataiba nem tekinthet be, azok nem megismerhetők.
-
-(7a) A pályázati eljárás lezárását követően a pályázó más pályázó pályázati ajánlatába, valamint harmadik személy a pályázati ajánlatba és az eljárás irataiba akkor tekinthet be, ha igazolja, hogy az irat vagy adat megismerése törvényen alapuló joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
-
-(7b) A (7a) bekezdés szerinti iratbetekintés, adatmegismerés iránti kérelmet a Médiatanács hatósági eljárásban, az iratbetekintés szabályai szerint bírálja el.
-
-(7c) A pályázati eljárást lezáró döntés, valamint a nyertes pályázóval kötött hatósági szerződés a személyes adatok, a törvény által védett titok és a védett adatok kivételével bárki számára megismerhetők.”
