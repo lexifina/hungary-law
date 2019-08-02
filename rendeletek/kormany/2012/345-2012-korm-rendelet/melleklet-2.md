@@ -544,6 +544,8 @@
 
 ## 1.271. Az 5. sz. főút M43 autópálya és Szeged közötti szakasz fejlesztése és kapcsolódó közúti beruházások
 
+## 1.272. A 3. számú főút Detk és Kápolna közötti szakasz áthelyezése és kapcsolódó közúti beruházások.
+
 ## 2. Vasúti közlekedési projektek
 
 ## 2.1. A 17. számú vasútvonal, Szombathely–Zalaszentiván szakasz rekonstrukciója.
