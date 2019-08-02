@@ -52,7 +52,7 @@
 
 26.[^6] közreműködik a világkiállításokon való magyar részvételre irányuló javaslatok kidolgozásában, gondoskodik a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokról, valamint a turizmusért felelős miniszter delegálása alapján ellátja a Kiállítások Nemzetközi Irodája (Bureau International des Expositions, BIE) nemzetközi szervezetben az ország képviseletét,
 
-27.[^7] a sportpolitikáért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához,
+27.[^7] a sportpolitikáért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához, valamint közreműködik a visegrádi négyek országai közötti E-sport bajnokság és konferencia megrendezésében,
 
 28.[^8] a turisztikai szempontból jelentős rendezvények rendezvényszervezőiből, a logisztikai, katasztrófavédelmi, közlekedési, rendészeti és egyéb, a rendezvények szervezésében érintett hatósági személyek képviselőiből álló szakmai testületet kér fel, amely koordinálja és szakmai szempontból támogatja a belföldi és nemzetközi turisztikai vonzerő szempontjából kiemelt rendezvényeket, erre vonatkozóan javaslatokat tesz,
 
@@ -74,7 +74,7 @@
 [^4]: Az 5. § (1) bekezdés 18. pontja az 51/2019. (III. 14.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 5. § (1) bekezdés 25. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^6]: Az 5. § (1) bekezdés 26. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 454/2017. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^7]: Az 5. § (1) bekezdés 27. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^7]: Az 5. § (1) bekezdés 27. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 198/2019. (VIII. 1.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^8]: Az 5. § (1) bekezdés 28. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^9]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^10]: Az 5. § (1) bekezdés 30. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
