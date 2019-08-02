@@ -1,4 +1,4 @@
-2. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^10]
+2. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^11]
 
 Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt projektjei
 
@@ -136,7 +136,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 64. | IKOP-2.1.0-15 | Püspökladány–Biharkeresztes szűk keresztmetszet kiváltás és villamosítás | NIF Zrt. | 23,80 (támogatási intenzitás: 100%) | Vasút-villamosítás és kapcsolódó pályaépítési munkák. |
 
-| 65. | IKOP-2.1.0-15 | Csepeli Szabadkikötő kapacitásbővítő fejlesztése, valamint a csepeli gerincút 2. ütemét magában foglaló projekt előkészítése | NIF Zrt. és a MAHART- Szabadkikötő Zrt. konzorciuma | 0,20 (támogatási intenzitás: 100%) | A projekt keretében előkészítési tevékenységként a Szabadkikötő fejlesztésének tervezési munkáit, a kapcsolódó megvalósíthatósági tanulmány elkészítését, valamint terület- és beruházás-előkésztési munkákat végzik el. |
+| 65. | IKOP-2.1.0-15 | Csepeli Szabadkikötő kapacitásbővítő infrastruktúra fejlesztés II. ütem tervezése | MAHART- Szabadkikötő Zrt. | 0,32 (támogatási intenzitás: 100%) | A projekt keretében előkészítési tevékenységként a Szabadkikötő fejlesztésének tervezési munkáit, a kapcsolódó megvalósíthatósági tanulmány elkészítését, valamint terület- és beruházás-előkésztési munkákat végzik el. |
 
 | 65a. | IKOP-2.1.0-15 | Budapest Keleti pályaudvar épület-felújítás | MÁV Zrt. | 2,00 (támogatási intenzitás: 100%) | Budapest Keleti pályaudvar rekonstrukciójának előkészítése. |
 
@@ -228,7 +228,7 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 94. |  |  |  |  |  |
 
-| 95. | IKOP-3.2.0-15 | Nyíregyháza megyei jogú város közösségi közlekedésének fejlesztése érdekében 47 db új autóbusz (41 db CNG és 6 db elektromos meghajtású) beszerzése, töltőállomás létesítése és autóbusz-telephely kialakítása | Nyíregyháza Megyei Jogú Város Önkormányzata | 7,00 (támogatási intenzitás: 100%) | 41 db CNG és 6 db elektromos hajtású új autóbusz beszerzése, valamint a kapcsolódó töltőállomás kivitelezése és autóbusz-telephely kialakítása. |
+| 95. | IKOP-3.2.0-15 | Nyíregyháza megyei jogú város közösségi közlekedésének fejlesztése érdekében 41 db új CNG meghajtású autóbusz beszerzése, töltőállomás létesítése és autóbusz-telephely kialakítása | Nyíregyháza Megyei Jogú Város Önkormányzata | 7,00 (támogatási intenzitás: 100%) | 41 db új CNG meghajtású autóbusz beszerzése, valamint a kapcsolódó töltőállomás kivitelezése és autóbusz-telephely kialakítása. |
 
 | 96. | IKOP-3.2.0-15 | Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése | A Kaposvári Közlekedési Zártkörűen Működő Részvénytársaság és a NIF Zrt. konzorciuma | 14,10 (támogatási intenzitás: 100%) | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
 
@@ -270,4 +270,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 47,25 (támogatási intenzitás: 100%) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^10]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja, az 1342/2018. (VII. 25.) Korm. határozat 2. pontja és 3. pont c) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 4. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 3. pontja, 4. pont c) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 8. pontja, az 1563/2018. (XI. 10.) Korm. határozat 3. pontja, az 1580/2018. (XI. 17.) Korm. határozat 3. pontja, az 1225/2019. (IV. 23.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^11]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított, az 1145/2017. (III. 20.) Korm. határozat 2. és 5. pontja, az 1498/2017. (VIII. 8.) Korm. határozat 3. pontja, az 1556/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1557/2017. (VIII. 18.) Korm. határozat 3. pontja, az 1585/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1590/2017. (VIII. 28.) Korm. határozat 3. pontja, az 1615/2017. (IX. 5.) Korm. határozat 3. pontja, az 1819/2017. (XI. 8.) Korm. határozat 4. pontja, az 1846/2017. (XI. 14.) Korm. határozat 2. és 4. pontja, az 1961/2017. (XII. 18.) Korm. határozat 4. és 7. pontja, az 1992/2017. (XII. 19.) Korm. határozat 4. c) pontja, a 2106/2017. (XII. 28.) Korm. határozat 1. pontja, az 1125/2018. (III. 19.) Korm. határozat 5. pontja, az 1342/2018. (VII. 25.) Korm. határozat 2. pontja és 3. pont c) alpontja, az 1379/2018. (VIII. 13.) Korm. határozat 4. pontja, az 1388/2018. (VIII. 13.) Korm. határozat 3. pontja, 4. pont c) alpontja, az 1444/2018. (IX. 17.) Korm. határozat 8. pontja, az 1563/2018. (XI. 10.) Korm. határozat 3. pontja, az 1580/2018. (XI. 17.) Korm. határozat 3. pontja, az 1225/2019. (IV. 23.) Korm. határozat 5. pontja, az 1487/2019. (VIII. 1.). Korm. határozat 3. pont c)–e) alpontja, az 1488/2019. (VIII. 1.). Korm. határozat 1. pontja szerint módosított szöveg.

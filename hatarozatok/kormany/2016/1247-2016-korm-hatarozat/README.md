@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1247-30
 | 2018-11-11 | 2016-1247-30-22.19 | 1563/2018. (XI. 10.) Korm. határozat |
 | 2018-11-18 | 2016-1247-30-22.20 | 1580/2018. (XI. 17.) Korm. határozat |
 | 2019-04-24 | 2016-1247-30-22.21 | 1961/2017. (XII. 18.) Korm. határozat |
+| 2019-08-02 | 2016-1247-30-22.22 | 1819/2017. (XI. 8.) Korm. határozat |
