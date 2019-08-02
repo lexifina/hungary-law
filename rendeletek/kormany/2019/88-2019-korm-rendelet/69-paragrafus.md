@@ -12,7 +12,7 @@ e) nagyszülője vagy
 
 f) vér szerinti vagy örökbefogadott gyermeke
 
-## a kormánytisztviselő halála esetén, ha háztartásában az egy főre eső jövedelem összege nem haladja meg a mindenkori minimálbér háromszorosát, és a közszolgálat halottjává nyilvánításra nem kerül sor.
+a kormánytisztviselő halála esetén, ha háztartásában az egy főre eső jövedelem összege nem haladja meg a mindenkori minimálbér háromszorosát, és a közszolgálat halottjává nyilvánításra nem kerül sor.
 
 (2) Krízistámogatásban részesülhet
 

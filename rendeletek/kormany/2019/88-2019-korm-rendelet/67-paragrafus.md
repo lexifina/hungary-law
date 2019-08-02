@@ -10,6 +10,6 @@ c) a nyugalmazott kormánytisztviselő és
 
 d) a nyugalmazott kormánytisztviselő házastársa
 
-## részére.
+részére.
 
 (2) A krízistámogatás visszatérítendő támogatás.

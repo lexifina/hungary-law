@@ -2,6 +2,9 @@
 
 11. § (1) A kormányzati személyügyi igazgatásra kijelölt szerv kezdeményezi a Kormánynál az álláshelynek a központosított álláshelyállományba történő helyezését, ha a kormányzati igazgatási szerv alaplétszámába tartozó álláshely legalább 6 hónapon át betöltetlen.
 
-(2) Az (1) bekezdés szerinti idő azon időtartam alatt nyugszik, amikor az álláshely betöltésére a Kormány döntése alapján nincs lehetőség.
+(2)[^1]
 
-(3) Az (1) és (2) bekezdést nem kell alkalmazni a kormányzati igazgatási szerv részére a 13. § (3) bekezdése szerinti álláshelykeretben megállapított álláshelyre.
+(3)[^2] Az (1) bekezdést nem kell alkalmazni a kormányzati igazgatási szerv részére a 13. § (3) bekezdése szerinti álláshelykeretben megállapított álláshelyre.
+
+[^1]: A 11. § (2) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^2]: A 11. § (3) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 29. §-a szerint módosított szöveg.

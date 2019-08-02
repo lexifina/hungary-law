@@ -1,3 +1,3 @@
-## 112. §[^3]
+113. §[^6]
 
-[^3]: A 112. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 113. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

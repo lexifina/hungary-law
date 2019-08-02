@@ -13,3 +13,5 @@ c) lakás-korszerűsítés,
 d) lakásbővítés, vagy
 
 e) az a)–d) pontban meghatározott célokra hitelintézettől felvett hitel egészének vagy részének visszafizetése
+
+céljából nyújtható.

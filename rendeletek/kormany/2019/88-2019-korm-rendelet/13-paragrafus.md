@@ -12,7 +12,7 @@ c) a fővárosi és megyei kormányhivatalok álláshelyei összessége, valamin
 
 d) a kormányzati igazgatási szerv számára jogszabályban előírt feladatok
 
-## vonatkozásában.
+vonatkozásában.
 
 (4) A miniszter a 14. § (1) bekezdés a) pontja szerinti tájékoztatás alapján haladéktalanul gondoskodik a (2) bekezdés szerinti döntésből eredő változásoknak az álláshely-nyilvántartásban történő rögzítéséről.
 

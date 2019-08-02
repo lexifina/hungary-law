@@ -1,5 +1,3 @@
-## céljából nyújtható.
-
 49. § (1) A kamatmentes kölcsön
 
 a) budapesti székhelyű kormányzati igazgatási szerv esetén olyan településen található lakásra nyújtható, amely a budapesti agglomeráció területrendezési tervét meghatározó törvény alapján a Budapesti Agglomeráció területéhez tartozik,

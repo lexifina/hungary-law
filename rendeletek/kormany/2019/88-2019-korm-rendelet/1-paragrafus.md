@@ -10,7 +10,7 @@ a) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbia
 
 b) a kormányzati igazgatási szerveknél foglalkoztatottakra
 
-## terjed ki.
+terjed ki.
 
 (2) A 10. alcím hatálya a Kit. 3. § (6) bekezdés c) pontja, valamint 3. § (8) bekezdés c) és d) pontja szerinti foglalkoztatottra terjed ki.
 

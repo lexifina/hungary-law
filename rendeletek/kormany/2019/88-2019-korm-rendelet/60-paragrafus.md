@@ -10,7 +10,7 @@ c) a gyermeket váró vagy gyermeket örökbe fogadó, valamint
 
 d) a lakóhely-változtatással jogviszonyt létesítő
 
-## kormánytisztviselő, akinek a pályakezdés, a gyermek vállalása, illetve a korábbi életfeltételek megváltozása jelentős anyagi tehervállalással jár.
+kormánytisztviselő, akinek a pályakezdés, a gyermek vállalása, illetve a korábbi életfeltételek megváltozása jelentős anyagi tehervállalással jár.
 
 (2) Az (1) bekezdés alkalmazásában házasságot kötőnek minősül az a kormányzati szolgálati jogviszonyban álló személy, aki a családalapítási támogatás iránti kérelem benyújtását megelőzően legfeljebb 1 éve kötött házasságot, feltéve, hogy a házastársával a családalapítási kérelem benyújtásának időpontjában is együtt él.
 

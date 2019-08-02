@@ -14,7 +14,7 @@ c) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú t�
 
 d) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet
 
-## szerinti kölcsön minősül.
+szerinti kölcsön minősül.
 
 (2) Az állami kezességvállalás feltétele, hogy a kormánytisztviselő a hitelcél szerinti ingatlanban legalább 50% tulajdoni hányaddal rendelkezzen.
 
@@ -23,3 +23,5 @@ d) a használt lakás vásárlásához, bővítéséhez igényelhető családi o
 a) a Kit. 149. § (3) bekezdés a)–d) pontjában foglalt feltételek fennállását a hiteligénylőt foglalkoztató kormányzati igazgatási szerv által – a hitelkérelmet megelőző harminc napon belül – kiállított igazolás,
 
 b) a Kit. 149. § (3) bekezdés e) pontja szerinti, a hitelfelvevő, illetve a vele közös háztartásban élő házas- vagy élettársa korábbi állami kezességvállalással biztosított hitelrészének kiegyenlítését vagy ilyen hitelrész fenn nem állását a hitelfelvevő nyilatkozata
+
+alapján.

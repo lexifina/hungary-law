@@ -8,6 +8,6 @@ a) határozatlan idejű jogviszonnyal rendelkező, vagy
 
 b) egy évet meghaladó időtartamú határozott idejű jogviszonnyal rendelkező
 
-## kormánytisztviselő részére – kérelmére – illetményelőleget biztosíthat.
+kormánytisztviselő részére – kérelmére – illetményelőleget biztosíthat.
 
 (2) Illetményelőleg naptári évenként legfeljebb két alkalommal biztosítható.

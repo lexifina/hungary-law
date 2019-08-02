@@ -4,7 +4,7 @@ a) egy éven belüli visszatérítés esetén legfeljebb 600 ezer,
 
 b) két éven belüli visszatérítés esetén legfeljebb 1,2 millió
 
-## forint lehet.
+forint lehet.
 
 (2) A krízistámogatás kamatmentes.
 
