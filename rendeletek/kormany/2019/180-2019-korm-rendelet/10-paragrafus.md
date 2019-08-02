@@ -1,4 +1,4 @@
-## 9. § A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklete a 4. melléklet szerint módosul.
+## 9. §[^10]
 
 ## 8. Záró rendelkezések
 
@@ -9,3 +9,5 @@
 (3) Az 5. § (2) és (5) bekezdése 2019. december 31-én lép hatályba.
 
 (4) A 4. § (5) bekezdése 2020. január 1-jén lép hatályba.
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
