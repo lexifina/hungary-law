@@ -4,10 +4,12 @@ a) a települési nemzetiségi önkormányzati jelölti, legkésőbb 2019. szept
 
 b) a területi és az országos nemzetiségi önkormányzati választáson állított listás, legkésőbb 2019. szeptember 11-én 16.00 óráig
 
-## benyújtott, ajánlást nem tartalmazó ajánlóív után. [Ve. 124. § (3) bekezdés]
+benyújtott, ajánlást nem tartalmazó ajánlóív után. [Ve. 124. § (3) bekezdés]
 
 (2) A választási bizottság a bírság kiszabásáról
 
 a) az (1) bekezdés a) pontja szerinti ajánlóív esetében legkésőbb 2019. szeptember 17-én,
 
 b) az (1) bekezdés b) pontja szerinti ajánlóív esetében legkésőbb 2019. szeptember 18-án
+
+dönt. [Ve. 124. § (4) bekezdés]
