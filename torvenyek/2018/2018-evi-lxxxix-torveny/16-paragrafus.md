@@ -1,4 +1,4 @@
-16. § Hatályát veszti az Nftv.
+### 16. §
 
 a)
 
@@ -10,7 +10,7 @@ d)
 
 e)
 
-f) 3. melléklet I. fejezet I/B. alcím 4. pont e) alpontja,
+f)
 
 g)
 
