@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti az R. 3. § (6) bekezdés n) pontja, 57–57/B. §-a.
+## 1–3. §[^2]
 
 4. § Ez a rendelet 2019. augusztus 1-jén lép hatályba.
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
