@@ -1,4 +1,4 @@
-19. §[^102] (1) A tbc-baktériummal fertőzött gümőkóros betegek felkutatása, illetve a további fertőzés veszélyének elhárítása céljából az alábbi rizikócsoportokba tartozó személyek évente egy alkalommal tüdőszűrő vizsgálaton kötelesek részt venni:
+19. §[^108] (1) A tbc-baktériummal fertőzött gümőkóros betegek felkutatása, illetve a további fertőzés veszélyének elhárítása céljából az alábbi rizikócsoportokba tartozó személyek évente egy alkalommal tüdőszűrő vizsgálaton kötelesek részt venni:
 
 a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Sztv.) 4. § (3) bekezdése szerinti hajléktalanok;
 
@@ -34,18 +34,18 @@ b) az 1. számú melléklet Tuberculosis című részében foglaltak szerint kon
 
 (5) A vizsgálatot mellkasröntgen szűrési módszerrel kell elvégezni a szűrőállomások ellátási területéhez tartozó szűrővizsgálatra kötelezettek körében. Szükség esetén a szűrővizsgálatokat az egészségügyi hatóság által kijelölt egészségügyi szolgáltató, illetve a mozgó szűrővizsgálati egység végzi el.
 
-(6)[^103] Amennyiben valamely egészségügyi szolgáltató az általa ellátott betegnél tbc-fertőzést állapít meg, 48 órán belül értesíti az érintett lakóhelye szerint illetékes tüdőgondozót. A tüdőgondozó az összesített adatokat – a személyazonosító adatok nélkül – havonta jelenti a járási hivatalnak.
+(6)[^109] Amennyiben valamely egészségügyi szolgáltató az általa ellátott betegnél tbc-fertőzést állapít meg, 48 órán belül értesíti az érintett lakóhelye szerint illetékes tüdőgondozót. A tüdőgondozó az összesített adatokat – a személyazonosító adatok nélkül – havonta jelenti a járási hivatalnak.
 
 (7) A tbc-s betegekkel kapcsolatos részletes intézkedéseket az 1. számú melléklet tartalmazza.
 
-(8)[^104] A kontaktszemélyeknek az 1. számú melléklet Tuberculosis című részében előírt szűrését az érintett területet ellátó tüdőgondozó intézet vezetőjének kezdeményezése alapján a járási hivatal rendeli el, amennyiben az érintett kontaktszemély a tüdőgondozó intézet felhívására a szűrővizsgálaton nem jelenik meg.
+(8)[^110] A kontaktszemélyeknek az 1. számú melléklet Tuberculosis című részében előírt szűrését az érintett területet ellátó tüdőgondozó intézet vezetőjének kezdeményezése alapján a járási hivatal rendeli el, amennyiben az érintett kontaktszemély a tüdőgondozó intézet felhívására a szűrővizsgálaton nem jelenik meg.
 
-(9)[^105] A (8) bekezdés szerint a járási hivatal által szűrővizsgálatra kötelezetteket a vizsgálat helyéről és idejéről értesíteni kell. Amennyiben az érintett ismételt értesítés ellenére sem jelenik meg a vizsgálaton, a tüdőgondozó vezetője értesíti a járási hivatalt.
+(9)[^111] A (8) bekezdés szerint a járási hivatal által szűrővizsgálatra kötelezetteket a vizsgálat helyéről és idejéről értesíteni kell. Amennyiben az érintett ismételt értesítés ellenére sem jelenik meg a vizsgálaton, a tüdőgondozó vezetője értesíti a járási hivatalt.
 
-(10)[^106] A jegyző a tüdőszűrő-vizsgálat elvégzésével kapcsolatos ügyviteli és technikai feladatok ellátásának megszervezéséről a járási hivatal megkeresésére gondoskodik.
+(10)[^112] A jegyző a tüdőszűrő-vizsgálat elvégzésével kapcsolatos ügyviteli és technikai feladatok ellátásának megszervezéséről a járási hivatal megkeresésére gondoskodik.
 
-[^102]: A 19. § a 29/2013. (IV. 26.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^103]: A 19. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja szerint módosított szöveg.
-[^104]: A 19. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
-[^105]: A 19. § (9) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § a) és e) pontja szerint módosított szöveg.
-[^106]: A 19. § (10) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
+[^108]: A 19. § a 29/2013. (IV. 26.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^109]: A 19. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § f) pontja szerint módosított szöveg.
+[^110]: A 19. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.
+[^111]: A 19. § (9) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § a) és e) pontja szerint módosított szöveg.
+[^112]: A 19. § (10) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 17. § e) pontja szerint módosított szöveg.

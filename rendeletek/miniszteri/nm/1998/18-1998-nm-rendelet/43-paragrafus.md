@@ -1,9 +1,11 @@
-## Átmeneti rendelkezések[^190]
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-43. §[^191] (1) A fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet módosításáról szóló 10/2010. (III. 19.) EüM rendelet 1. §-ával beiktatott 15/A. §-t a 2009. október 14-ét követő immunizálás esetén kell alkalmazni.
+## Átmeneti rendelkezések[^199]
 
-(2)[^192]
+43. §[^200] (1) A fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendelet módosításáról szóló 10/2010. (III. 19.) EüM rendelet 1. §-ával beiktatott 15/A. §-t a 2009. október 14-ét követő immunizálás esetén kell alkalmazni.
 
-[^190]: A 43. §-t megelőző alcímet a 10/2010. (III. 19.) EüM rendelet 2. §-a iktatta be.
-[^191]: A 43. §-t a 10/2010. (III. 19.) EüM rendelet 2. §-a iktatta be.
-[^192]: A 43. § (2) bekezdését a 10/2010. (III. 19.) EüM rendelet 3. §-a hatályon kívül helyezte.
+(2)[^201]
+
+[^199]: A 43. §-t megelőző alcímet a 10/2010. (III. 19.) EüM rendelet 2. §-a iktatta be.
+[^200]: A 43. §-t a 10/2010. (III. 19.) EüM rendelet 2. §-a iktatta be.
+[^201]: A 43. § (2) bekezdését a 10/2010. (III. 19.) EüM rendelet 3. §-a hatályon kívül helyezte.
