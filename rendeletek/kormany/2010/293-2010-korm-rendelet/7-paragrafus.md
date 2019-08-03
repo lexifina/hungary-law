@@ -18,7 +18,7 @@ alapján végzi,
 
 a) a hivatásos állományba jelentkező
 
-aa)[^13] által kitöltött – a Hszt. 3. melléklete szerinti – kérdőívet, a hivatásos állományba jelentkező és a vele közös háztartásban élők Hszt. 2. melléklete szerinti nyilatkozatát,
+aa)[^13] által kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, a hivatásos állományba jelentkező és a vele közös háztartásban élők Hszt. 2. melléklete szerinti nyilatkozatát,
 
 ab) önéletrajzát, valamint
 
@@ -26,7 +26,7 @@ ac)[^14] tervezett szolgálati beosztását;
 
 b) a rendvédelmi oktatási intézménybe jelentkező
 
-ba)[^15] által kitöltött – a Hszt. 3. melléklete szerinti – kérdőívet, a rendvédelmi oktatási intézménybe jelentkező és a vele közös háztartásban élők Hszt. 2. melléklete szerinti nyilatkozatát, valamint
+ba)[^15] által kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, a rendvédelmi oktatási intézménybe jelentkező és a vele közös háztartásban élők Hszt. 2. melléklete szerinti nyilatkozatát, valamint
 
 bb) önéletrajzát;
 
@@ -36,17 +36,17 @@ ca)[^16] jelenlegi vagy tervezett szolgálati beosztását,
 
 cb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét,
 
-cc)[^17] Hszt. 42. § (3) bekezdés b) pontja szerinti hozzájárulását,
+cc)[^17]
 
-cd)[^18] által, a hivatásos állományba jelentkezéskor kitöltött – a Hszt. 3. melléklete szerinti – kérdőívet, ha az rendelkezésre áll;
+cd)[^18] által, a hivatásos állományba jelentkezéskor kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, ha az rendelkezésre áll;
 
 d) a rendvédelmi oktatási intézmény ösztöndíjas hallgatója vagy tanulója
 
 da) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét,
 
-db)[^19] Hszt. 42. § (3) bekezdés b) pontja szerinti hozzájárulását,
+db)[^19]
 
-dc)[^20] által, a rendvédelmi oktatási intézménybe jelentkezéskor kitöltött – a Hszt. 3. melléklete szerinti – kérdőívet, ha az rendelkezésre áll.
+dc)[^20] által, a rendvédelmi oktatási intézménybe jelentkezéskor kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, ha az rendelkezésre áll.
 
 (2a)[^21] A soron kívüli ellenőrzés kérelmezése esetén – a (2) bekezdésben meghatározottakon túl – a megkeresésnek tartalmaznia kell az ellenőrzésre okot adó információkat is.
 
@@ -62,14 +62,14 @@ dc)[^20] által, a rendvédelmi oktatási intézménybe jelentkezéskor kitölt�
 [^10]: A 7. § (1) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^11]: A 7. § (1) bekezdés d) pontját a 416/2012. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 157/2015. (VI. 25.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
 [^12]: A 7. § (2) bekezdése a 416/2012. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^13]: A 7. § (2) bekezdés a) pont aa) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § d)–e) pontja szerint módosított szöveg.
+[^13]: A 7. § (2) bekezdés a) pont aa) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § d)–e) pontja, a 181/2019. (VII. 26.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
 [^14]: A 7. § (2) bekezdés a) pont ac) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
-[^15]: A 7. § (2) bekezdés b) pont ba) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § g)–h) pontja szerint módosított szöveg.
+[^15]: A 7. § (2) bekezdés b) pont ba) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § g)–h) pontja, a 181/2019. (VII. 26.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
 [^16]: A 7. § (2) bekezdés c) pont ca) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
-[^17]: A 7. § (2) bekezdés c) pont cc) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § i) pontja szerint módosított szöveg.
-[^18]: A 7. § (2) bekezdés c) pont cd) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
-[^19]: A 7. § (2) bekezdés d) pont db) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § i) pontja szerint módosított szöveg.
-[^20]: A 7. § (2) bekezdés d) pont dc) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
+[^17]: A 7. § (2) bekezdés c) pont cc) alpontját a 181/2019. (VII. 26.) Korm. rendelet 2. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^18]: A 7. § (2) bekezdés c) pont cd) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § g) pontja, a 181/2019. (VII. 26.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdés d) pont db) alpontját a 181/2019. (VII. 26.) Korm. rendelet 2. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^20]: A 7. § (2) bekezdés d) pont dc) alpontja a 157/2015. (VI. 25.) Korm. rendelet 22. § g) pontja, a 181/2019. (VII. 26.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
 [^21]: A 7. § (2a) bekezdését a 319/2012. (XI. 13.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^22]: A 7. § (3) bekezdése a 10/2011. (II. 22.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
 [^23]: A 7. § (5) bekezdését a 157/2015. (VI. 25.) Korm. rendelet 21. §-a iktatta be.
