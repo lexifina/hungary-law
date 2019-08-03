@@ -1,6 +1,6 @@
-18. § (1)[^28] A kérelmezőnek a személyazonosságát igazolnia szükséges. Ha a kérelmező a kérelem benyújtásakor rendelkezik vagy a kérelem benyújtását megelőző évben rendelkezett érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal, akkor az igazoláshoz ezt felhasználhatja.
+18. § (1)[^29] A kérelmezőnek a személyazonosságát igazolnia szükséges. Ha a kérelmező a kérelem benyújtásakor rendelkezik vagy a kérelem benyújtását megelőző évben rendelkezett érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal, akkor az igazoláshoz ezt felhasználhatja.
 
-(2)[^29] Ha a kérelmező érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal nem rendelkezik, illetve ha a menekült vagy az oltalmazott jogállású kérelmező az útlevélen kívül más, személyazonosságot igazoló érvényes okmánnyal nem rendelkezik, és a kérelmező a kérelem benyújtását megelőző évben sem rendelkezett ilyen érvényes okmánnyal, a személyazonosságát egyéb módon igazolnia szükséges. Az igazoláshoz felhasználható különösen:
+(2)[^30] Ha a kérelmező érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal nem rendelkezik, illetve ha a menekült vagy az oltalmazott jogállású kérelmező az útlevélen kívül más, személyazonosságot igazoló érvényes okmánnyal nem rendelkezik, és a kérelmező a kérelem benyújtását megelőző évben sem rendelkezett ilyen érvényes okmánnyal, a személyazonosságát egyéb módon igazolnia szükséges. Az igazoláshoz felhasználható különösen:
 
 a) a bevándorolt, a menekült, az oltalmazott és a letelepedett jogállású kérelmező esetén a bevándorlási engedély, a menekültkénti vagy oltalmazottkénti elismerését igazoló okirat, a letelepedett jogállást igazoló okmány,
 
@@ -12,5 +12,5 @@ b) a menekült és az oltalmazott jogállású kérelmező esetén – ha első 
 
 (5) Ha a polgár a doktori címet 2006. február 1-jén vagy azt követően fennálló hallgató jogviszony alapján szerezte, a (2) bekezdés a) pontjától eltérően a doktori címre jogosító okiratot vagy annak másolatát bemutathatja.
 
-[^28]: A 18. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^29]: A 18. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: A 18. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^30]: A 18. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

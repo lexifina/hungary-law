@@ -14,7 +14,7 @@ e) ellátja a személyazonosító igazolvány kiadásával és nyilvántartásá
 
 f) törvényben meghatározottak szerint adatszolgáltatást teljesít a személyazonosító igazolvány nyilvántartásból,
 
-g) teljesíti a 45. §-ban meghatározott tájékoztatási kötelezettségét,
+g)[^12] teljesíti a 44. § szerint előterjesztett kérelmet,
 
 h) a jogosult megkeresésére jelzést helyez el a személyazonosító igazolvány nyilvántartásban, és teljesíti az ezzel kapcsolatos, törvényen alapuló adatszolgáltatási kötelezettséget,
 
@@ -41,3 +41,4 @@ r) ellátja az országos ellenőrzőhitelesítő hatósági (CVCA), valamint a d
 [^9]: A 3/C. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
 [^10]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
 [^11]: A 4. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 555. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 4. § g) pontja a 181/2019. (VII. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
