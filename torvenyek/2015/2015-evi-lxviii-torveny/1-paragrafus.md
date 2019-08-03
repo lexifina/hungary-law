@@ -1,1 +1,0 @@
-1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Nemzetközi Távközlési Egyesület között az ITU Telecom World 2015 konferencia megrendezéséről, megszervezéséről és finanszírozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
