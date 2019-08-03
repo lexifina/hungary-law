@@ -266,6 +266,10 @@
 
 | 78. | A gyújtásmodulokban és a belső égésű motorok egyéb elektromos és elektronikus vezérlőrendszereiben használt elektromos és elektronikus alkatrészek forraszanyagában és védőbevonatában, valamint az ilyen modulokban és motorokban található nyomtatott áramköri lapok bevonatában lévő ólom, amely alkatrészeket műszaki okokból közvetlenül a belső égésű kézi motorok (a 97/68/EK európai parlamenti és tanácsi irányelvben meghatározott SH:1, SH:2 és SH:3 osztályba tartozó motorok) forgattyúsházára vagy a forgattyúsházába, illetve hengerére vagy hengerébe kell szerelni | nincs korlátozás | 2018. december 31-ig |
 
+| 78a. | Nem közúti használatra szánt járművekben alkalmazott, dízel vagy gáznemű tüzelőanyaggal működő belső égésű motorok csapágyaiban és csapágybéléseiben lévő ólom, amelynél a motor teljes lökettérfogata ≥ 15 liter. A mentesség a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik, kivéve az e melléklet 49–49b. sorainak hatálya alá tartozó alkalmazásokat. | nincs korlátozás | 2024. július 21-ig |
+
+| 78b. | Nem közúti használatra szánt járművekben alkalmazott, dízel vagy gáznemű tüzelőanyaggal működő belső égésű motorok csapágyaiban és csapágybéléseiben lévő ólom: amelynél a motor teljes lökettérfogata < 15 liter, és a motort olyan alkalmazásokban való működésre tervezték, ahol az indítási jelzés és a teljes terhelés közötti idő 10 másodpercnél rövidebb kell, hogy legyen; vagy a rendszeres karbantartást jellemzően zord és piszkos kültéri környezetben végzik, mint például bányászati, építőipari és a mezőgazdasági alkalmazások esetén. A mentesség a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik, kivéve az e melléklet 49–49b. sorainak hatálya alá tartozó alkalmazásokat. |
+
 | 79. | III. KADMIUM ÉS KADMIUMVEGYÜLETTARTALOMRA VONATKOZÓ MENTESSÉGEK |
 
 | 80. | Egyszerhasználatos, szemcsés töltetű hőkioldókban lévő kadmium és vegyületei | nincs korlátozás | mentesség ideje nincs korlátozva |
@@ -286,7 +290,7 @@
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^45]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^46]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -470,4 +474,4 @@ lejár.
 
 47. Az olyan ipari ellenőrző és vezérlő eszközökben használt oxigénérzékelők Hersch-celláinak kadmiumanódjai, amelyeknél 10 ppm-nél kisebb mérési érzékenység szükséges. A mentesség 2023. július 15-én lejár.
 
-[^45]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^46]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.

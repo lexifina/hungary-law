@@ -90,6 +90,8 @@
 
 45.[^41] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a magas olvadáspontú forrasztóanyagokban lévő ólomra megadott mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. március 1-i 2018/742/EU bizottsági irányelvnek
 
+46.[^42] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének az egyes nem közúti, szakmai használatra szánt berendezésekben alkalmazott csapágyakban és csapágybélésekben lévő ólomra vonatkozó mentesség tekintetében, a tudományos és a műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2018. november 16-i (EU) 2019/178 bizottsági irányelvnek
+
 való megfelelést szolgálja.
 
 [^23]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -111,3 +113,4 @@ való megfelelést szolgálja.
 [^39]: A 16. § 43. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
 [^40]: A 16. § 44. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
 [^41]: A 16. § 45. pontját a 60/2019. (III. 25.) Korm. rendelet 5. §-a iktatta be.
+[^42]: A 16. § 46. pontját a 184/2019. (VII. 26.) Korm. rendelet 1. §-a iktatta be.

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-374-20-
 | 2018-07-18 | 2012-374-20-22.12 | 125/2018. (VII. 10.) Korm. rendelet |
 | 2019-04-02 | 2012-374-20-22.13 | 60/2019. (III. 25.) Korm. rendelet |
 | 2019-05-24 | 2012-374-20-22.14 | 258/2014. (X. 10.) Korm. rendelet |
+| 2019-08-03 | 2012-374-20-22.15 | 184/2019. (VII. 26.) Korm. rendelet |
