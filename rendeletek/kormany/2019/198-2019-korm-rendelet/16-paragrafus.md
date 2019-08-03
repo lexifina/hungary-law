@@ -1,3 +1,3 @@
-## 15. §[^14]
+## 15. §[^15]
 
-[^14]: A 15. § a 31. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^15]: A 15. § a 31. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.

@@ -1,1 +1,3 @@
-## 29. § A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet [a továbbiakban: 88/2019. (IV. 23.) Korm. rendelet] 11. § (3) bekezdésében az „(1) és (2) bekezdést” szövegrész helyébe az „(1) bekezdést” szöveg lép.
+## 29. §[^29]
+
+[^29]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
