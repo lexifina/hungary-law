@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat D:39 mezőjében a „8,99” szövegrész helyébe a „9,01” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1486/2019. (VIII. 1.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó, forint) | Projekt hatályos támogatási szerződés szerinti támogatási összege (bruttó, forint) | Többlettámogatás legfeljebb (bruttó, forint) | Megnövelt támogatás legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.0-16- 2016-00001 | Egészségügyi szakellátók szállóinak fejlesztése | Állami Egészségügyi Ellátó Központ | 8 500 000 000 | 8 758 389 621 | 247 697 766 | 9 006 087 387 | A projekt keretében 17 megvalósítási helyszínen történik meg a nővérszállók férőhelyeinek bővítése új építésű ingatlanokon, valamint meglévő ingatlanok felújításával, illetve átalakításával. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
