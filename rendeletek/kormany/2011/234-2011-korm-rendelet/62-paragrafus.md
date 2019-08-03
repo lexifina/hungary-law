@@ -6,4 +6,6 @@
 
 (3) A nyilvántartásba vételt követően a hivatásos katasztrófavédelmi szerv központi szerve a mentőszervezet számára a 7. mellékletben meghatározott tartalmú nemzeti minősítő oklevelet állít ki, melynek érvényességi ideje a kiállítástól számított 5 év.
 
-(4) A hivatásos katasztrófavédelmi szerv központi szerve és területi szervei az 57. § (2) bekezdése alapján összegyűjtött adatokat kezelik. Az adatkezelésre egyebekben a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló törvény az irányadó.
+(4)[^32] A hivatásos katasztrófavédelmi szerv központi szerve és területi szervei az 57. § (2) bekezdése alapján összegyűjtött adatokat kezelik.
+
+[^32]: A 62. § (4) bekezdése a 181/2019. (VII. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.

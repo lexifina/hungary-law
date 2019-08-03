@@ -1,4 +1,4 @@
-## X. Fejezet[^38]
+## X. Fejezet[^39]
 
 ## A KATASZTRÓFAVÉDELMI CÉLÚ GAZDASÁGI-ANYAGI SZOLGÁLTATÁSOK TELJESÍTÉSE, A SZOLGÁLTATÁSRA VONATKOZÓ HATÓSÁGI DÖNTÉSSEL KAPCSOLATOS FELLEBBEZÉS ÉS A KÁRTALANÍTÁSSAL ÖSSZEFÜGGŐ ELJÁRÁS RÉSZLETES SZABÁLYAI
 
@@ -14,4 +14,4 @@
 
 (5) A polgármester a kijelölt szolgáltatásokról naprakészen tartott nyilvántartást vezet, melyet az összesített veszélyelhárítási terv elkészítéséhez a hivatásos katasztrófavédelmi szerv helyi szervének rendelkezésére bocsát.
 
-[^38]: A X. fejezet címe a 457/2017. (XII. 28.) Korm. rendelet 353. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^39]: A X. fejezet címe a 457/2017. (XII. 28.) Korm. rendelet 353. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
