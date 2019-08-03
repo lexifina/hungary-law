@@ -32,19 +32,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) alpont faa) alpontjában a „119,29%-áig” szövegrész helyébe a „117,11%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „547,895” szövegrész helyébe az „547,938” szöveg,
-
-## c) 2. mellékletében foglalt táblázat B:65 mezőjében a „fejlesztése, valamint a csepeli gerincút 2. ütemét magában foglaló projekt előkészítése” szövegrész helyébe az „infrastruktúra fejlesztés II. ütem tervezése” szöveg,
-
-## d) 2. mellékletében foglalt táblázat C:65 mezőjében a „NIF Zrt. és a MAHART-Szabadkikötő Zrt. konzorciuma” szövegrész helyébe a „MAHART-Szabadkikötő Zrt.” szöveg,
-
-## e) 2. mellékletében foglalt táblázat D:65 mezőjében a „0,20” szövegrész helyébe a „0,32” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1487/2019. (VIII. 1.) Korm. határozathoz
 
@@ -53,3 +41,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Projekt támogatási intenzitása | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | IKOP-2.1.0-15- 2018-00049 | Csepeli Szabadkikötő kapacitásbővítő infrastruktúra fejlesztés II. ütem tervezése | MAHART-Szabadkikötő Zrt. | 100% | 200 000 000 | 117 400 000 | 317 400 000 | A projekt keretében előkészítési tevékenységként a Szabadkikötő fejlesztésének tervezési munkái és a kapcsolódó megvalósíthatósági tanulmány elkészítése valósul meg, valamint terület- és beruházás-előkésztési munkák kerülnek elvégzésre. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
