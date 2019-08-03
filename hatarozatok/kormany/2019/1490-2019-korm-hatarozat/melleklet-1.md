@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:415 mezőjében a „0,15” szövegrész helyébe a „0,18” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1490/2019. (VIII. 1.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-4.1.0-15- 2016-00061 | Kipusztulással veszélyeztetett Natura 2000 jelölő denevérfajok in-situ megőrzését szolgáló gyakorlati védelmi beavatkozások az ANPI működési területén | Aggteleki Nemzeti Park Igazgatóság | 150 000 000 | 22 124 592 | 172 124 592 | A denevérvédelmi projekt fő célja a kiemelkedő jelentőségű denevérállományok megőrzése, a denevérszállások fenntartása és közvetlen védelme ÉK-Magyarország területén. A jobb védettségi állapot érdekében támogatott élőhelyek területe 36 299,774 hektár. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
