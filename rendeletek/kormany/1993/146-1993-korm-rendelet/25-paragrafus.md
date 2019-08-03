@@ -2,7 +2,7 @@
 
 (2)[^178] A kérelmező igazolja:
 
-a)[^179] az adatigénylésre való jogosultságát, amennyiben kérelmében az Nytv. 19. §-a (1) bekezdésének b)–d) pontjaiban megjelölt célokra hivatkozik, illetve
+a)[^179] az adatigénylésre való jogosultságát, amennyiben kérelmében az Nytv. 19. § (1) bekezdés b) és c) pontjában megjelölt célokra hivatkozik, illetve
 
 b) a személyi azonosító kezelésének jogszerűségét, amennyiben a kérelemben feltüntetett személyi azonosítót a polgár előzetes írásbeli hozzájárulása alapján kezeli.
 
@@ -20,6 +20,6 @@ b) az adathozzáférés határidejét.
 
 [^177]: A 25. § (1) bekezdése a 13/1999. (II. 1.) Korm. rendelet 21. §-ával megállapított és a 417/2012. (XII. 29.) Korm. rendelet 39. § c) pontja szerint módosított szöveg.
 [^178]: Az R. 25. § (2) bekezdése a 13/1999. (II. 1.) Korm. rendelet 21. §-ával megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 15. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^179]: A 25. § (2) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 39. § c) pontja szerint módosított szöveg.
+[^179]: A 25. § (2) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 39. § c) pontja, a 181/2019. (VII. 26.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^180]: A 25. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (14) bekezdésével megállapított szöveg.
 [^181]: Az R. 25. § -ának (4) bekezdése a 13/1999. ( II.1.) Korm. rendelet 22. §-ával megállapított szöveg.
