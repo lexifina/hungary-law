@@ -62,4 +62,6 @@ A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
 
 | 1. | Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság | 04-10-001421 | Lázár János, a mezőhegyesi Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság által ellátott állami feladatok koordinálásáért felelős kormánybiztos | 2020. szeptember 30. |
 
-[^6]: A 4. mellékletet az 5/2018. (XI. 8.) NVTNM rendelet 2. §-a iktatta be.
+| 2. | Aktív- és Ökoturisztikai Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-343790 | Révész Máriusz, aktív Magyarországért felelős kormánybiztos | 2020. május 17. |
+
+[^6]: A 4. mellékletet az 5/2018. (XI. 8.) NVTNM rendelet 2. §-a iktatta be, szövege a 10/2019. (VIII. 5.) NVTNM rendelet 1. §-a szerint módosított szöveg.
