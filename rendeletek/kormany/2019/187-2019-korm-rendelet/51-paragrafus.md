@@ -1,0 +1,11 @@
+51. § (1) Az időközi kifizetési igénylést a támogatói okirat hatálybalépését követően, a támogatási időszak ötödik hónapjában, a támogatási időszak első négy hónapja során felmerült bérköltséggel való elszámolásra kell benyújtania a támogatást igénylőnek.
+
+(2) Az időközi kifizetési igénylés alapján folyósítható összeg kiszámítása során a Kincstár a 44. § g) pont ga) és gb) alpontja szerinti esetben a támogatási időszak első három hónapja során felmerült bérköltséget és az ahhoz kapcsolódó átalány összeget veszi figyelembe, az állami adóhatóság nyilvántartásából származó adatok ismeretében.
+
+(3) Az időközi kifizetési igénylésben a 44. § g) pont gc) alpontja szerinti esetben a támogatást igénylőnek meg kell adnia a támogatási időszak első négy hónapja során realizált bevételre vonatkozó adatokat is. Az időközi kifizetési igénylés alapján folyósítható összeg kiszámítása során a Kincstár a 44. § g) pont gc) alpontja szerinti esetben a támogatási időszak első három hónapja során realizált bevétel 60%-ának megfelelő összeget vesz figyelembe bérköltségként és az átalány alapjául. A kifizetés feltétele továbbá a főállású kisadózó után az adott hónapokra a tételes adó megfizetése.
+
+(4) A 44. § g) pont ga) és gb) alpontja szerinti esetben az időközi beszámolót a támogatói okirat hatálybalépését követően, a támogatási időszak kilencedik hónapjában, a támogatási időszak ötödik hónapjától kezdődően a nyolcadik hónappal bezárólag felmerült bérköltséggel és az ahhoz kapcsolódó átalánnyal való elszámolásra kell benyújtania a támogatást igénylőnek.
+
+(5) A 44. § g) pont gc) alpontja szerinti esetben időközi beszámolót a támogatói okirat hatálybalépését követően, a támogatási időszak kilencedik hónapjában, a támogatási időszak ötödik hónapjától kezdődően a nyolcadik hónappal bezárólag realizált bevétellel és az ahhoz kapcsolódó átalánnyal való elszámolásra kell benyújtania a támogatást igénylőnek. A beszámoló elfogadásának feltétele továbbá a főállású kisadózó után az adott hónapokra a tételes adó megfizetése.
+
+(6) Az időközi beszámoló elfogadásáról a Kincstár a (2) és (3) bekezdésekben foglalt számítási módszertan szerint dönt, de az időközi beszámoló alapján támogatást nem folyósít.

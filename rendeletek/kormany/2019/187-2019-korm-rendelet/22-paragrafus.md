@@ -1,0 +1,5 @@
+## 21. § A helyszíni ellenőrzés lefolytatásáról – kivéve azt az esetet, amikor az értesítés következtében az ellenőrzés lefolytatásának akadályozása vagy meghiúsítása valószínűsíthető – a támogatást igénylőt az ellenőrzés tervezett időpontját megelőzően 5 nappal kell értesíteni annak érdekében, hogy akadályoztatása esetén képviseletét biztosítani tudja. A támogatást igénylő képviselője köteles e minőségét megfelelő módon igazolni.
+
+22. § (1) Ha a támogatást igénylő iratai hiányosak vagy rendezetlenek, nyilvántartásai pontatlanok vagy hiányosak, a Kincstár kötelezi a támogatást igénylőt, hogy iratait, nyilvántartásait legfeljebb 8 napon belül rendezze, pótolja vagy javítsa. Ez az időtartam az eljárás határidejébe nem számít bele.
+
+(2) Amennyiben az (1) bekezdés szerinti hiányok pótlására nem kerül sor, azt a helyszíni ellenőrzés eredményének értékelése során úgy kell tekinteni, hogy a támogatást igénylő az előírt nyilvántartási kötelezettségének nem tett eleget, és ez a körülmény a helyszíni ellenőrzés akadályozásának minősül.
