@@ -6,7 +6,7 @@
 
 a) az elektronikus hírközlési építmény 2. § e) pontja szerinti korszerűsítése;
 
-b)[^57] a jogszerűen épült elektronikus hírközlési célra alkalmas alépítményi csőhálózatba, közmű alagútba, metró alagútba történő kábelbehúzás, védőcső behúzás, illetve jogszerűen épült elektronikus hírközlő, vagy villamos energia elosztó hálózat részét képező, vagy közvilágítási, vagy tömegközlekedési célú tartószerkezetekre, oszlopokra történő vezetékek, kábelek elhelyezése vagy bontása;
+b)[^59] a jogszerűen épült elektronikus hírközlési célra alkalmas alépítményi csőhálózatba, közmű alagútba, metró alagútba történő kábelbehúzás, védőcső behúzás, illetve jogszerűen épült elektronikus hírközlő, vagy villamos energia elosztó hálózat részét képező, vagy közvilágítási, vagy tömegközlekedési célú tartószerkezetekre, oszlopokra történő vezetékek, kábelek elhelyezése vagy bontása;
 
 c) az antennák és antennatartó szerkezetek kivételével az olyan, az alaplétesítmény építési engedélyében nem szereplő és attól eltérő időpontban megvalósuló elektronikus hírközlési építmény építése, amely
 
@@ -14,9 +14,9 @@ ca) vasút, gyorsforgalmi út területén üzemi célokat szolgál, feltéve, ho
 
 cb) kőolajvezeték, földgázvezeték, villamosmű, vízvezeték, szennyvízvezeték, távhővezeték, szállítószalag, függőpálya tartozékának minősül;
 
-d)[^58] nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény legfeljebb 1000 méter hosszúságú szakaszának más fizikai infrastruktúra, így különösen a földgáz, a villamos energia, távhő előállításával, termelésével, szállításával elosztásával, vagy átvitelével kapcsolatos szolgáltatások, a közvilágítás, a víziközmű-szolgáltatás, valamint a vasúti, közúti, hajózási, repülőtéri, más közlekedési szolgáltatások nyújtására szolgáló fizikai infrastruktúra építése vagy átépítése miatt szükséges áthelyezése.
+d)[^60] nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény legfeljebb 1000 méter hosszúságú szakaszának más fizikai infrastruktúra, így különösen a földgáz, a villamos energia, távhő előállításával, termelésével, szállításával elosztásával, vagy átvitelével kapcsolatos szolgáltatások, a közvilágítás, a víziközmű-szolgáltatás, valamint a vasúti, közúti, hajózási, repülőtéri, más közlekedési szolgáltatások nyújtására szolgáló fizikai infrastruktúra építése vagy átépítése miatt szükséges áthelyezése.
 
-(2)[^59] Az (1) bekezdés szerinti bejelentés nyilvántartásba vételének feltétele, hogy az építtető a Hatóság honlapján közzétett előzetes bejelentő-adatlap és a 3. melléklet szerint összeállított dokumentáció benyújtásával a munkálatok megkezdése előtt legalább 15 nappal bejelentést tegyen.
+(2)[^61] Az (1) bekezdés szerinti bejelentés nyilvántartásba vételének feltétele, hogy az építtető a Hatóság honlapján közzétett előzetes bejelentő-adatlap és a 3. melléklet szerint összeállított dokumentáció benyújtásával a munkálatok megkezdése előtt legalább 15 nappal bejelentést tegyen.
 
 (3) A Hatóság a hiánytalanul beérkezett előzetes bejelentésben foglaltakat a beérkezést követő naptól számított 8 napon belül nyilvántartásba veszi.
 
@@ -26,9 +26,9 @@ d)[^58] nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmén
 
 (6) Az építési vagy bontási tevékenység a bejelentés megtételétől számított tizenkét hónapig folytatható.
 
-(7)[^60] Az építtető a bejelentett építési és bontási tevékenység befejezéséről 15 napon belül a Hatóság honlapján közzétett utólagos bejelentő adatlap benyújtásával köteles utólagos bejelentést tenni.
+(7)[^62] Az építtető a bejelentett építési és bontási tevékenység befejezéséről 15 napon belül a Hatóság honlapján közzétett utólagos bejelentő adatlap benyújtásával köteles utólagos bejelentést tenni.
 
-(8)[^61] A kitöltött utólagos bejelentő adatlaphoz mellékelni kell a 3. melléklet szerint összeállított dokumentációt, továbbá az e-közmű rendelet alapján a leendő üzemeltető igazolását a nyíltárkos geodéziai bemérésben szereplő nyomvonal ellenőrzéséről, adatszolgáltatási szintek szerinti minősítéséről és szakági nyilvántartásba vételéről.
+(8)[^63] A kitöltött utólagos bejelentő adatlaphoz mellékelni kell a 3. melléklet szerint összeállított dokumentációt, továbbá az e-közmű rendelet alapján a leendő üzemeltető igazolását a nyíltárkos geodéziai bemérésben szereplő nyomvonal ellenőrzéséről, adatszolgáltatási szintek szerinti minősítéséről és szakági nyilvántartásba vételéről.
 
 (9) A Hatóság az építmény elkészültét az utólagos bejelentés beérkezését követő naptól számított 8 napon belül hatósági nyilvántartásba veszi.
 
@@ -40,13 +40,13 @@ b) az előzetes bejelentéstől eltérően végezték, vagy
 
 c) az elkészült építmény nem az (1) bekezdés a)–c) pontja alá tartozónak minősül,
 
-d)[^62]
+d)[^64]
 
 (11) A (9) bekezdés szerinti nyilvántartásba vétel hiányában az építmény jogszerűen nem használható, azon elektronikus hírközlési szolgáltatás nem nyújtható.
 
-[^57]: A 19. § (1) bekezdés b) pontja a 4/2015. (VII. 15.) NMHH rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^58]: A 19. § (1) bekezdés d) pontját a 4/2015. (VII. 15.) NMHH rendelet 12. § (2) bekezdése iktatta be.
-[^59]: A 19. § (2) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^60]: A 19. § (7) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^61]: A 19. § (8) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^62]: A 19. § (10) bekezdés d) pontját a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^59]: A 19. § (1) bekezdés b) pontja a 4/2015. (VII. 15.) NMHH rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^60]: A 19. § (1) bekezdés d) pontját a 4/2015. (VII. 15.) NMHH rendelet 12. § (2) bekezdése iktatta be.
+[^61]: A 19. § (2) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^62]: A 19. § (7) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^63]: A 19. § (8) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^64]: A 19. § (10) bekezdés d) pontját a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.

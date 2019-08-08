@@ -1,6 +1,6 @@
 ## 20. Ingatlanhasználat, közös építményhasználat
 
-22. § (1)[^69] Az építési engedélyezési eljárás során előterjesztett szolgalmi vagy más használati jog alapítás iránti kérelem végleges elbírálásáig a Hatóság az engedélyezési eljárást az Eht. 95. § (3) bekezdése alapján felfüggeszti.
+22. § (1)[^71] Az építési engedélyezési eljárás során előterjesztett szolgalmi vagy más használati jog alapítás iránti kérelem végleges elbírálásáig a Hatóság az engedélyezési eljárást az Eht. 95. § (3) bekezdése alapján felfüggeszti.
 
 (2) Az Eht. 95. § (2) bekezdése szerint a Hatósághoz benyújtott szolgalmi vagy más használati jog alapítása iránti kérelemnek tartalmaznia kell
 
@@ -14,4 +14,4 @@ d) azt, hogy a korlátozást mely nyilvánosan elérhető elektronikus hírközl
 
 (3) A kérelemhez mellékelni kell a változási vázrajzot.
 
-[^69]: A 22. § (1) bekezdése a 13/2017. (XII. 29.) NMMH rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^71]: A 22. § (1) bekezdése a 13/2017. (XII. 29.) NMMH rendelet 9. § (2) bekezdésével megállapított szöveg.

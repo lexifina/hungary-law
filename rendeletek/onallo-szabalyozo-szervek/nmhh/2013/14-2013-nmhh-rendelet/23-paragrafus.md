@@ -1,6 +1,6 @@
 ## 21. Bírság
 
-23. § (1)[^70] E rendelet alapján
+23. § (1)[^72] E rendelet alapján
 
 a) a használatbavételi engedély iránti kérelem határidőre történő benyújtásának elmulasztása esetén,
 
@@ -18,4 +18,4 @@ f) a bontási kötelezettség nemteljesítése esetén
 
 (2) Nem szabható ki bírság, ha a szabálytalan állapot kezdete vagy a jogsértés elkövetése óta öt év már eltelt.
 
-[^70]: A 23. § (1) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 15. §-ával megállapított szöveg.
+[^72]: A 23. § (1) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 15. §-ával megállapított szöveg.

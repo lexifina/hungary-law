@@ -1,6 +1,6 @@
 ## 11. Építési engedélyezési eljárás
 
-11. § (1)[^23] Az építési engedélyt az elvégezni kívánt munka egészére kell kérni a Hatóság honlapján közzétett kérelem-adatlapon. Antennák és antennatartó szerkezetek építéséhez a 18. § f) és g) pontjában, valamint a 19. § (1) bekezdés a) pontjában foglaltak kivételével építési engedélyt kell kérni. Az építés és az építéssel feleslegessé váló építmény bontása egy eljárás keretében engedélyezhető, amennyiben azt a tervdokumentáció is tartalmazza. A bontás tárgyát képező építmény nyomvonalhossza nem képez alapot az eljárási díj számításánál.
+11. § (1)[^25] Az építési engedélyt az elvégezni kívánt munka egészére kell kérni a Hatóság honlapján közzétett kérelem-adatlapon. Antennák és antennatartó szerkezetek építéséhez a 18. § f) és g) pontjában, valamint a 19. § (1) bekezdés a) pontjában foglaltak kivételével építési engedélyt kell kérni. Az építés és az építéssel feleslegessé váló építmény bontása egy eljárás keretében engedélyezhető, amennyiben azt a tervdokumentáció is tartalmazza. A bontás tárgyát képező építmény nyomvonalhossza nem képez alapot az eljárási díj számításánál.
 
 (2) Több építési szakaszra bontott építés esetén az egyes szakaszokra külön-külön is lehet engedélyt kérni.
 
@@ -14,7 +14,7 @@ c) antennatartó torony esetén az engedélyezési tervet és az 1:500 vagy 1:20
 
 d) az építéssel érintett ingatlanok használati jogosultságát igazoló okiratot és az érintett ingatlanokról készített rendszerezett kimutatást a Hatóság által közzétett kérelem-adatlap szerinti tartalommal,
 
-e)[^24] a kérelem tartalmától függően, a közreműködők nyilatkozatát, környezeti hatásvizsgálat-köteles tevékenység folytatására szolgáló építmény létesítése esetén a véglegessé vált környezetvédelmi engedély meglétéről szóló nyilatkozatot, annak azonosítására szolgáló adatokkal, valamint a szakhatósági állásfoglalások megkéréséhez előírt hozzájárulást, illetve nyilatkozatot,
+e)[^26] a kérelem tartalmától függően, a közreműködők nyilatkozatát, környezeti hatásvizsgálat-köteles tevékenység folytatására szolgáló építmény létesítése esetén a véglegessé vált környezetvédelmi engedély meglétéről szóló nyilatkozatot, annak azonosítására szolgáló adatokkal, valamint a szakhatósági állásfoglalások megkéréséhez előírt hozzájárulást, illetve nyilatkozatot,
 
 f) az elvi építési engedély számát, keltét, amennyiben a 10. § (1) bekezdése szerint elvi építési engedéllyel rendelkezik,
 
@@ -36,15 +36,15 @@ n) más nyomvonalas, illetve nyomvonaljellegű létesítmények megközelítés�
 
 o) a nyomvonal hosszát, torony magasságát,
 
-p)[^25]
+p)[^27]
 
 (4) A (3) bekezdésben felsoroltak a műszaki leírással együtt képezik a tervdokumentációt, melyet három példányban kell a kérelemhez becsatolni.
 
-(5)[^26]
+(5)[^28]
 
 (6) Antennák és antennatartó szerkezetek esetében a szakhatósági állásfoglalások megkéréséhez a 2. melléklet szerinti dokumentumokat kell becsatolni.
 
-[^23]: A 11. § (1) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 8. §-ával megállapított szöveg.
-[^24]: A 11. § (3) bekezdés e) pontja a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^25]: A 11. § (3) bekezdés p) pontját a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.
-[^26]: A 11. § (5) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^25]: A 11. § (1) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 8. §-ával megállapított szöveg.
+[^26]: A 11. § (3) bekezdés e) pontja a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^27]: A 11. § (3) bekezdés p) pontját a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^28]: A 11. § (5) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.

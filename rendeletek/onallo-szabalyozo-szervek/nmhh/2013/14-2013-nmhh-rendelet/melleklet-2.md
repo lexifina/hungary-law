@@ -26,8 +26,8 @@
 
 ## Követelmény: A környezeti elemekre gyakorolt hatások kapcsán a környezet terhelésének csökkentése érdekében elérhető legjobb technológiai normák érvényre juttatása.
 
-## 11–12.[^88]
+## 11–12.[^90]
 
 2. melléklet a 14/2013. (IX. 25.) NMHH rendelethez
 
-[^88]: Az 1. melléklet 11–12. pontját és a kapcsolódó Követelményeket a 4/2015. (VII. 15.) NMHH rendelet 20. §-a hatályon kívül helyezte.
+[^90]: Az 1. melléklet 11–12. pontját és a kapcsolódó Követelményeket a 4/2015. (VII. 15.) NMHH rendelet 20. §-a hatályon kívül helyezte.

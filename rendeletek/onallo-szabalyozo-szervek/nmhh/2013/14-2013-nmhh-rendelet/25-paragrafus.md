@@ -1,5 +1,5 @@
-## 24. §[^71]
+## 24. §[^73]
 
 ## 23. Nyilvántartás
 
-[^71]: A 24. §-t a 7/2014. (X. 21.) NMHH rendelet 4. §-a hatályon kívül helyezte.
+[^73]: A 24. §-t a 7/2014. (X. 21.) NMHH rendelet 4. §-a hatályon kívül helyezte.

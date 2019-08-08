@@ -8,10 +8,10 @@
 
 (3) E rendelet rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni, azzal, hogy a hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos szabályok anyagi jogi rendelkezései alkalmazandók.
 
-(4)[^85]
+(4)[^87]
 
-(5)[^86] Az e-építési naplót az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 14/2013. (IX. 25.) NMHH rendelet módosításáról szóló 7/2014. (X. 21.) NMHH rendelet hatálybalépését[^87] követő ötödik hónap első napját követően megkezdett kivitelezések esetében kell alkalmazni.
+(5)[^88] Az e-építési naplót az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 14/2013. (IX. 25.) NMHH rendelet módosításáról szóló 7/2014. (X. 21.) NMHH rendelet hatálybalépését[^89] követő ötödik hónap első napját követően megkezdett kivitelezések esetében kell alkalmazni.
 
-[^85]: A 27. § (4) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 21. §-a hatályon kívül helyezte.
-[^86]: A 27. § (5) bekezdését a 7/2014. (X. 21.) NMHH rendelet 2. §-a iktatta be.
-[^87]: A hatálybalépés időpontja 2014. október 29.
+[^87]: A 27. § (4) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 21. §-a hatályon kívül helyezte.
+[^88]: A 27. § (5) bekezdését a 7/2014. (X. 21.) NMHH rendelet 2. §-a iktatta be.
+[^89]: A hatálybalépés időpontja 2014. október 29.

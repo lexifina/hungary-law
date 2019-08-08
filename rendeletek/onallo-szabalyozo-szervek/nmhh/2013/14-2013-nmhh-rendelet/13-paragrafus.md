@@ -1,6 +1,6 @@
 ## 12. § A Hatóság az építési engedély iránti kérelem elbírálása során – a 7. §-ban foglaltak szerint – helyszíni szemlét tart.
 
-13. § (1)[^27] Az építési engedély megadásáról vagy megtagadásáról szóló határozat – az Ákr. vonatkozó rendelkezésében foglaltakon túl – tartalmazza
+13. § (1)[^29] Az építési engedély megadásáról vagy megtagadásáról szóló határozat – az Ákr. vonatkozó rendelkezésében foglaltakon túl – tartalmazza
 
 a) az építtető nevét, címét (székhelyét),
 
@@ -14,7 +14,7 @@ e) a használatbavételi engedély iránti kérelem benyújtására való utalá
 
 f) figyelmeztetést arra, hogy az építési engedély polgári jogi igényt nem dönt el,
 
-g)[^28] figyelmeztetést arra, hogy az elkészült építményt az építtető vagy üzemeltető egyértelmű meghatározására alkalmas azonosítóval (hatósági engedély száma) kell ellátni,
+g)[^30] figyelmeztetést arra, hogy az elkészült építményt az építtető vagy üzemeltető egyértelmű meghatározására alkalmas azonosítóval (hatósági engedély száma) kell ellátni,
 
 h) tájékoztatást az építési tevékenység megkezdésének bejelentéséről,
 
@@ -24,7 +24,7 @@ j) tájékoztatást arról, hogy a jogorvoslatra nyitva álló idő alatt az üg
 
 (2) A döntést közölni kell
 
-a)[^29] véglegessé válás előtt
+a)[^31] véglegessé válás előtt
 
 aa) az építtetővel,
 
@@ -34,15 +34,15 @@ ac) a közreműködőkkel,
 
 ad) az ingatlan tulajdonosokkal és a jogszerű használókkal;
 
-b)[^30] véglegessé válás után
+b)[^32] véglegessé válás után
 
 ba) az építtetővel,
 
 bb) a BM Országos Katasztrófavédelmi Főigazgatóság illetékes területi szervével.
 
-(3)[^31] Az építési engedély megadása esetén, annak véglegessé válása után a Hatóság a tervdokumentáció engedélyezési záradékkal ellátott két példányát az építtetőnek megküldi.
+(3)[^33] Az építési engedély megadása esetén, annak véglegessé válása után a Hatóság a tervdokumentáció engedélyezési záradékkal ellátott két példányát az építtetőnek megküldi.
 
-(4)[^32] Az építési engedély a véglegessé válásának napjától számított három évig hatályos.
+(4)[^34] Az építési engedély a véglegessé válásának napjától számított három évig hatályos.
 
 (5) A Hatóság az építési engedély hatályát egy esetben – az építtető indokolt kérelmére – egy évvel meghosszabbíthatja.
 
@@ -52,9 +52,9 @@ bb) a BM Országos Katasztrófavédelmi Főigazgatóság illetékes területi sz
 
 (8) Az építtető jogutódja vagy az engedély átruházása esetén annak új jogosultja (a továbbiakban: az építtető jogutódja) a hatályos építési engedélyt vagy bontási engedélyt jogosult felhasználni, azonban köteles a jogutódlást – annak megfelelő igazolása mellett – a Hatóságnak bejelenteni. A bejelentést megelőzően az építtető jogutódja nem jogosult építési vagy bontási tevékenységet folytatni.
 
-[^27]: A 13. § (1) bekezdés nyitó szövegrésze a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^28]: A 13. § (1) bekezdés g) pontja a 4/2015. (VII. 15.) NMHH rendelet 20. § (1) bekezdése szerint módosított szöveg.
-[^29]: A 13. § (2) bekezdés a) pontja a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés f) pontja szerint módosított szöveg.
-[^30]: A 13. § (2) bekezdés b) pontja a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés f) pontja szerint módosított szöveg.
-[^31]: A 13. § (3) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés g) pontja szerint módosított szöveg.
-[^32]: A 13. § (4) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^29]: A 13. § (1) bekezdés nyitó szövegrésze a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^30]: A 13. § (1) bekezdés g) pontja a 4/2015. (VII. 15.) NMHH rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^31]: A 13. § (2) bekezdés a) pontja a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^32]: A 13. § (2) bekezdés b) pontja a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^33]: A 13. § (3) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^34]: A 13. § (4) bekezdése a 13/2017. (XII. 29.) NMHH rendelet 9. § (4) bekezdés h) pontja szerint módosított szöveg.
