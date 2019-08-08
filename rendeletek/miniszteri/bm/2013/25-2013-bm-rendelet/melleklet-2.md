@@ -20,13 +20,17 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 4.1. Btk. 175. § – Emberi test tiltott felhasználásának bűntette és vétsége
 
-5. Btk. XVII. Fejezet – az egészséget veszélyeztető bűncselekmények
+5.[^59] Btk. XVII. Fejezet – az egészséget veszélyeztető bűncselekmények
 
-5.1. Btk. 176. § (2) bekezdés c) pont és (4) bekezdés – A Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében elkövetett kábítószer-kereskedelem bűntette, vagy e bűncselekmény elkövetéséhez szükséges anyagi eszközök szolgáltatásával megvalósított kábítószer-kereskedelem bűntette, ha azt jelentős mennyiségű kábítószerre követik el
+5.1. Btk. 176. § (2) bekezdés c) pont és Btk. 176. § (4) bekezdés – A Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében elkövetett kábítószer-kereskedelem bűntette, illetve e bűncselekmény elkövetéséhez szükséges anyagi eszközök szolgáltatásával megvalósított kábítószer-kereskedelem bűntette, ha azt jelentős mennyiségű kábítószerre követik el
 
-5.2. Btk. 178. § (2) bekezdés c) pont – Különösen jelentős mennyiségű kábítószerre elkövetett kábítószer birtoklása bűntette, vagy e bűncselekmény elkövetéséhez szükséges anyagi eszközök szolgáltatásával megvalósított kábítószer birtoklása bűntette
+5.2. Btk. 176. § (3) bekezdés – Jelentős mennyiségű kábítószerre elkövetett kábítószer-kereskedelem bűntette
 
-5.3. Btk. 183. § (1) bekezdés – Kábítószer-prekurzorral visszaélés bűntette
+5.3. Btk. 178. § (2) bekezdés c) pont és Btk. 178. § (3) bekezdés – Különösen jelentős mennyiségű kábítószerre elkövetett kábítószer birtoklása bűntette, illetve e bűncselekmény elkövetéséhez szükséges anyagi eszközök szolgáltatásával megvalósított kábítószer birtoklása bűntette
+
+5.4. Btk. 183. § (1) bekezdés – Kábítószer-prekurzorral visszaélés bűntette
+
+5.5. Btk. 184/B. § (2) bekezdés b) pont – Bűnszövetségben elkövetett, új pszichoaktív anyag előállításával megvalósított új pszichoaktív anyaggal visszaélés bűntette
 
 6. Btk. XVIII. Fejezet – az emberi szabadság elleni bűncselekmények
 
@@ -66,9 +70,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 10.1. Btk. 282. § (1) és (2) bekezdés, valamint (3) bekezdés a) és b) pont – Bűnpártolás vétsége és bűntette, ha azt az e mellékletben felsorolt bűncselekményekkel összefüggésben követték el
 
-10.2.[^44] Btk. 289. § – Nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény
+10.2.[^60] Btk. 289. § – Nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény
 
-11.[^45] Btk. XXVII. fejezet – a korrupciós bűncselekmények
+11.[^61] Btk. XXVII. fejezet – a korrupciós bűncselekmények
 
 11.1. Btk. 290. § (2) bekezdés – Vesztegetés bűntette, ha az elkövető az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző, önálló intézkedésre jogosult személlyel kapcsolatban követi el, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője vagy annak tagja
 
@@ -154,9 +158,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 20.1. Btk. 389. § (2) bekezdés a) pont – Különösen nagy vagy azt meghaladó értékű pénzre elkövetett pénzhamisítás bűntette
 
-20.2.[^46] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az a KR kizárólagos hatáskörébe tartozó bűncselekmény elkövetésére irányul
+20.2.[^62] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az a KR kizárólagos hatáskörébe tartozó bűncselekmény elkövetésére irányul
 
-20.3.[^47] Btk. 390. § (1) bekezdés – Pénzhamisítás elősegítésének vétsége, ha az a KR kizárólagos hatáskörébe tartozó bűncselekménnyel összefüggésben valósul meg
+20.3.[^63] Btk. 390. § (1) bekezdés – Pénzhamisítás elősegítésének vétsége, ha az a KR kizárólagos hatáskörébe tartozó bűncselekménnyel összefüggésben valósul meg
 
 20.4. Btk. 391. § (3) bekezdés a) pont – Különösen nagy vagy azt meghaladó értékű bélyegre elkövetett bélyeghamisítás bűntette
 
@@ -174,7 +178,8 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 22.3. Btk. 424. § – Közérdekű üzem ellen elkövetett információs rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége, kivéve az RRI hatáskörébe tartozó eseteket
 
-[^44]: A 2. melléklet 10.2. pontját a 21/2018. (VI. 29.) BM rendelet 14. §-a iktatta be.
-[^45]: A 2. melléklet 11. pontja a 21/2018. (VI. 29.) BM rendelet 14. §-ával megállapított szöveg.
-[^46]: A 2. melléklet 20. pont 20.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
-[^47]: A 2. melléklet 20. pont 20.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^59]: A 2. melléklet 5. pontja a 32/2019. (VII. 31.) BM rendelet 4. §-ával megállapított szöveg.
+[^60]: A 2. melléklet 10.2. pontját a 21/2018. (VI. 29.) BM rendelet 14. §-a iktatta be.
+[^61]: A 2. melléklet 11. pontja a 21/2018. (VI. 29.) BM rendelet 14. §-ával megállapított szöveg.
+[^62]: A 2. melléklet 20. pont 20.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^63]: A 2. melléklet 20. pont 20.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.

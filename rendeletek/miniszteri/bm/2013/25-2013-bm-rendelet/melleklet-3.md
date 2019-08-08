@@ -46,11 +46,11 @@
 
 3. Btk. XVIII. fejezet – az emberi szabadság elleni bűncselekmények
 
-3.1.[^48] Btk. 190. § – Emberrablás bűntette, kivéve a KR hatáskörébe tartozó eseteket
+3.1.[^64] Btk. 190. § – Emberrablás bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
-3.2.[^49] Btk. 191. § – Emberrablás feljelentésének elmulasztása bűntette, kivéve a KR hatáskörébe tartozó eseteket
+3.2.[^65] Btk. 191. § – Emberrablás feljelentésének elmulasztása bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
-3.3.[^50] Btk. 192. § – Emberkereskedelem bűntette és vétsége, kivéve a KR hatáskörébe tartozó eseteket
+3.3.[^66] Btk. 192. § – Emberkereskedelem bűntette és vétsége, kivéve a KR hatáskörébe tartozó eseteket
 
 3.4. Btk. 193.§ – Kényszermunka bűntette
 
@@ -68,11 +68,11 @@
 
 4.5. Btk. 197. § (4) és (5) bekezdés – Szexuális erőszak bűntette
 
-4.6.[^51] Btk. 200. § (3) bekezdés – Üzletszerűen elkövetett kerítés bűntette, kivéve a KR hatáskörébe tartozó eseteket
+4.6.[^67] Btk. 200. § (3) bekezdés – Üzletszerűen elkövetett kerítés bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
 4.7. Btk. 201. § (2) és (3) bekezdés – Prostitúció elősegítése bűntette
 
-4.8.[^52] Btk. 202. § – Kitartottság bűntette, kivéve a KR hatáskörébe tartozó eseteket
+4.8.[^68] Btk. 202. § – Kitartottság bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
 4.9. Btk. 203. § (1) és (2) bekezdés – Gyermekprostitúció kihasználásának bűntette, ha az elkövető a tizennyolcadik életévét be nem töltött személy prostitúciójából haszonszerzésre törekszik; tizennyolcadik életévét be nem töltött személlyel való szexuális cselekményért ellenszolgáltatást nyújt
 
@@ -96,7 +96,7 @@
 
 6.4. Btk. 233. § (3) bekezdés – Gondatlanságból elkövetett kettőnél több ember halálát vagy halálos tömegszerencsétlenséget okozó vasúti, légi vagy vízi közlekedés veszélyeztetésének vétsége, ha azt légi járművel vagy légiközlekedéssel összefüggésben követik el
 
-7.[^53] Btk. XXVII. Fejezet – A korrupciós bűncselekmények
+7.[^69] Btk. XXVII. Fejezet – A korrupciós bűncselekmények
 
 7.1. Btk. 290. § – Vesztegetés bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
@@ -128,7 +128,7 @@
 
 9.2. Btk. 320. § (1)–(3) bekezdés – Jármű hatalomba kerítésének bűntette, ha azt légi járműre követik el
 
-9.3.[^54] Btk. 321. § – Bűnszervezetben részvétel bűntette, kivéve a KR hatáskörébe tartozó esetet
+9.3.[^70] Btk. 321. § – Bűnszervezetben részvétel bűntette, kivéve a KR hatáskörébe tartozó esetet
 
 9.4. Btk. 322. § (2) bekezdés b) pont, valamint (3) bekezdés – Különösen nagy vagy ezt meghaladó kárt okozó, illetve halált okozó közveszély okozása bűntette
 
@@ -136,13 +136,13 @@
 
 9.6. Btk. 323. § (1)–(5) bekezdés – Közérdekű üzem működésének megzavarása vétsége és bűntette
 
-9.7.[^55] Btk. 324. § (1) bekezdés b) pont – Robbanóanyaggal vagy robbantószerrel visszaélés bűntette, kivéve a KR hatáskörébe tartozó eseteket
+9.7.[^71] Btk. 324. § (1) bekezdés b) pont – Robbanóanyaggal vagy robbantószerrel visszaélés bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
-9.8.[^56] Btk. 324. § (2) és (3) bekezdés – Robbanóanyaggal vagy robbantószerrel visszaélés bűntette, kivéve a KR hatáskörébe tartozó eseteket
+9.8.[^72] Btk. 324. § (2) és (3) bekezdés – Robbanóanyaggal vagy robbantószerrel visszaélés bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
-9.9.[^57] Btk. 325. §. (1) bekezdés c) pont, valamint (2) bekezdés c) pont – Lőfegyverrel vagy lőszerrel visszaélés bűntette, kivéve a KR hatáskörébe tartozó eseteket
+9.9.[^73] Btk. 325. §. (1) bekezdés c) pont, valamint (2) bekezdés c) pont – Lőfegyverrel vagy lőszerrel visszaélés bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
-9.10.[^58] Btk. 325. § (3) és (5) bekezdés – Lőfegyverrel vagy lőszerrel visszaélés bűntette, kivéve a KR hatáskörébe tartozó eseteket
+9.10.[^74] Btk. 325. § (3) és (5) bekezdés – Lőfegyverrel vagy lőszerrel visszaélés bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
 10. Btk. XXXII. Fejezet – a köznyugalom elleni bűncselekmények
 
@@ -158,7 +158,7 @@
 
 12. Btk. XXXIV. fejezet – a közigazgatás rendje elleni bűncselekmények
 
-12.1.[^59] Btk. 353. § (1)–(3) bekezdés – Embercsempészés bűntette, kivéve a KR hatáskörébe tartozó eseteket
+12.1.[^75] Btk. 353. § (1)–(3) bekezdés – Embercsempészés bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
 12.2. Btk. 353. § (4) bekezdés – Embercsempészés előkészületének vétsége, ha az az e mellékletben meghatározott embercsempészés bűntettének elkövetésére irányul
 
@@ -172,9 +172,9 @@
 
 13.3. Btk. 365. § (4) bekezdés a) pont – Különösen nagy vagy ezt meghaladó értékre elkövetett rablás bűntette
 
-13.4.[^60] Btk. 365. § (4) bekezdés b) pont – Jelentős értékre fegyveresen vagy felfegyverkezve vagy csoportosan vagy bűnszövetségben elkövetett rablás bűntette, kivéve a KR hatáskörébe tartozó esetet
+13.4.[^76] Btk. 365. § (4) bekezdés b) pont – Jelentős értékre fegyveresen vagy felfegyverkezve vagy csoportosan vagy bűnszövetségben elkövetett rablás bűntette, kivéve a KR hatáskörébe tartozó esetet
 
-13.5.[^61] Btk. 365. § (4) bekezdés c) pont – Hivatalos személy, külföldi hivatalos személy vagy közfeladatot ellátó személy sérelmére, hivatalos eljárása, illetve feladata teljesítése során fegyveresen, felfegyverkezve, csoportosan vagy bűnszövetségben elkövetett rablás bűntette, kivéve a KR hatáskörébe tartozó esetet
+13.5.[^77] Btk. 365. § (4) bekezdés c) pont – Hivatalos személy, külföldi hivatalos személy vagy közfeladatot ellátó személy sérelmére, hivatalos eljárása, illetve feladata teljesítése során fegyveresen, felfegyverkezve, csoportosan vagy bűnszövetségben elkövetett rablás bűntette, kivéve a KR hatáskörébe tartozó esetet
 
 13.6. Btk. 366. § (3) bekezdés a) pont – Különösen nagy vagy ezt meghaladó értékre elkövetett kifosztás bűntette
 
@@ -182,7 +182,7 @@
 
 14. Btk. XXXVI. fejezet – a vagyon elleni bűncselekmények
 
-14.1.[^62] Btk. 370. § (5) bekezdés a) pont – Különösen nagy értékre elkövetett lopás bűntette, kivéve a KR hatáskörébe tartozó eseteket
+14.1.[^78] Btk. 370. § (5) bekezdés a) pont – Különösen nagy értékre elkövetett lopás bűntette, kivéve a KR hatáskörébe tartozó eseteket
 
 14.2. Btk. 370. § (6) bekezdés b) pont – Különösen nagy értékre bűnszövetségben, közveszély színhelyén, üzletszerűen vagy dolog elleni erőszakkal, zsebtolvajlás útján elkövetett lopás bűntette
 
@@ -206,7 +206,7 @@
 
 14.12. Btk. 376. § (5) bekezdés a) pont – Különösen nagy vagyoni hátrányt okozó hűtlen kezelés bűntette
 
-14.13.[^63] Btk. 377. § (2) bekezdés – Különösen nagy vagy azt meghaladó vagyoni hátrányt okozó hanyag kezelés vétsége, kivéve a KR hatáskörébe tartozó esetet
+14.13.[^79] Btk. 377. § (2) bekezdés – Különösen nagy vagy azt meghaladó vagyoni hátrányt okozó hanyag kezelés vétsége, kivéve a KR hatáskörébe tartozó esetet
 
 14.14. Btk. 379. § (5) bekezdés a) pont – Különösen nagy értékre elkövetett orgazdaság bűntette
 
@@ -238,19 +238,19 @@
 
 17.2. Btk. 424. § – Információs rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége, ha az jelentős számú információs rendszerrel összefüggésben valósul meg
 
-[^48]: A 3. melléklet 3. pont 3.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 16. pontja szerint módosított szöveg.
-[^49]: A 3. melléklet 3. pont 3.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 16. pontja szerint módosított szöveg.
-[^50]: A 3. melléklet 3. pont 3.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 16. pontja szerint módosított szöveg.
-[^51]: A 3. melléklet 4. pont 4.6. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 17. pontja szerint módosított szöveg.
-[^52]: A 3. melléklet 4. pont 4.8. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 17. pontja szerint módosított szöveg.
-[^53]: A 3. melléklet 7. pontja a 21/2018. (VI. 29.) BM rendelet 15. §-ával megállapított szöveg.
-[^54]: A 3. melléklet 9. pont 9.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
-[^55]: A 3. melléklet 9. pont 9.7. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
-[^56]: A 3. melléklet 9. pont 9.8. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
-[^57]: A 3. melléklet 9. pont 9.9. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
-[^58]: A 3. melléklet 9. pont 9.10. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
-[^59]: A 3. melléklet 12. pont 12.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 20. pontja szerint módosított szöveg.
-[^60]: A 3. melléklet 13. pont 13.4. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 21. pontja szerint módosított szöveg.
-[^61]: A 3. melléklet 13. pont 13.5. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 21. pontja szerint módosított szöveg.
-[^62]: A 3. melléklet 14. pont 14.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 22. pontja szerint módosított szöveg.
-[^63]: A 3. melléklet 14. pont 14.13. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 22. pontja szerint módosított szöveg.
+[^64]: A 3. melléklet 3. pont 3.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^65]: A 3. melléklet 3. pont 3.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^66]: A 3. melléklet 3. pont 3.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^67]: A 3. melléklet 4. pont 4.6. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 17. pontja szerint módosított szöveg.
+[^68]: A 3. melléklet 4. pont 4.8. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 17. pontja szerint módosított szöveg.
+[^69]: A 3. melléklet 7. pontja a 21/2018. (VI. 29.) BM rendelet 15. §-ával megállapított szöveg.
+[^70]: A 3. melléklet 9. pont 9.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
+[^71]: A 3. melléklet 9. pont 9.7. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
+[^72]: A 3. melléklet 9. pont 9.8. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
+[^73]: A 3. melléklet 9. pont 9.9. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
+[^74]: A 3. melléklet 9. pont 9.10. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 19. pontja szerint módosított szöveg.
+[^75]: A 3. melléklet 12. pont 12.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 20. pontja szerint módosított szöveg.
+[^76]: A 3. melléklet 13. pont 13.4. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 21. pontja szerint módosított szöveg.
+[^77]: A 3. melléklet 13. pont 13.5. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 21. pontja szerint módosított szöveg.
+[^78]: A 3. melléklet 14. pont 14.1. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 22. pontja szerint módosított szöveg.
+[^79]: A 3. melléklet 14. pont 14.13. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 22. pontja szerint módosított szöveg.
