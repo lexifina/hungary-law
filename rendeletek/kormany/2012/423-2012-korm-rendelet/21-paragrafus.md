@@ -30,7 +30,7 @@ cd) az Ifjúsági Olimpián
 
 elért legalább 3. helyezésért 20 többletpontra,
 
-d)[^91] az adott sportág országos sportági szakszövetségének igazolása alapján, a Nemzetközi Olimpiai Bizottság által elismert sportágban az országos sportági szakszövetség által – a szakszövetségnek a jelentkezési határidő napján hatályos versenyszabályzatában meghatározottak szerinti, a Magyar Olimpiai Bizottság által igazoltan – felnőtt és felnőtt alatti első utánpótlás korosztály részére szervezett országos bajnokságon elért legalább 3. helyezésért 15 többletpontra,
+d)[^91] az adott sportág országos sportági szakszövetségének igazolása alapján, a Nemzetközi Olimpiai Bizottság által elismert sportágban az országos sportági szakszövetség által – a szakszövetségnek a jelentkezési határidő napján hatályos versenyszabályzatában meghatározottak szerint, a Magyar Olimpiai Bizottság által igazoltan – szervezett országos bajnokságon elért legalább 3. helyezésért 15 többletpontra,
 
 e) a Magyar Diáksport Szövetség igazolása alapján, a Nemzetközi Olimpiai Bizottság által elismert sportágban a Magyar Diáksport Szövetség által, vagy közreműködésével szervezett Diákolimpia országos döntőjében elért legalább 3. helyezésért 10 többletpontra
 
@@ -59,7 +59,7 @@ jogosult.
 (4)[^94] Az (1) bekezdés alkalmazása során jogcímenként legfeljebb egy-egy többletpontra jogosító eredmény alapján jogosult többletpontra a jelentkező. Az (1) bekezdés a)–e) pontjaiban meghatározott jogcímek közül csak a pontszámítás szempontjából legkedvezőbb jogcím után kaphat többletpontot a jelentkező.
 
 [^90]: A 21. § (1) bekezdés nyitó szövegrésze az 59/2016. (III. 25.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
-[^91]: A 21. § (1) bekezdés d) pontja az 502/2013. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^91]: A 21. § (1) bekezdés d) pontja a 197/2019. (VIII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^92]: A 21. § (1) bekezdés g) pont ga) alpontja a 407/2017. (XII. 15.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
 [^93]: A 21. § (1) bekezdés j) pontja a 47/2013. (II. 20.) Korm. rendelet 9. § c) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 17. pontja, a 169/2016. (VII. 1.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
 [^94]: A 21. § (4) bekezdése a 47/2013. (II. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
