@@ -1,0 +1,1 @@
+## „p) az Országos Statisztikai Adatfelvételi Program végrehajtásában, valamint az egyéb hazai rendszeres és eseti oktatási tárgyú statisztikai adatszolgáltatások feladatainak ellátásában való közreműködésre.”
