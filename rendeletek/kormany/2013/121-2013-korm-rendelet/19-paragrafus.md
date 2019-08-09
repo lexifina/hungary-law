@@ -1,12 +1,12 @@
-## 18/A. §[^34]
+## 18/A. §[^35]
 
 ## 6. A Hivatal végzettség elismerésével kapcsolatos feladatai
 
-19. §[^35] (1) A Hivatal ekvivalencia- és információs központként
+19. §[^36] (1) A Hivatal ekvivalencia- és információs központként
 
 a) hatósági jogkörében
 
-aa)[^36] jogszabályban meghatározott körben elismeri az általános iskolai és középiskolai bizonyítványok, valamint a felsőfokú oklevelek és tudományos fokozatok által tanúsított végzettségi szintet, továbbá a szakképesítéseket és a felsőfokú végzettséghez kapcsolódó szakképzettségeket,
+aa)[^37] jogszabályban meghatározott körben elismeri az általános iskolai és középiskolai bizonyítványok, valamint a felsőfokú oklevelek és tudományos fokozatok által tanúsított végzettségi szintet, továbbá a szakképesítéseket és a felsőfokú végzettséghez kapcsolódó szakképzettségeket,
 
 ab) jogszabályban meghatározottak szerint hivatalos tájékoztatást ad a külföldi oktatási rendszerekről, a külföldi köz- és felsőoktatási intézményekről, a felsőfokú végzettséget tanúsító oklevelek megszerzésének feltételeiről,
 
@@ -36,16 +36,16 @@ a) azon szakmák jegyzékét, amelyek esetében az európai szakmai kártya lét
 
 b) az előzetes ellenőrzés alá tartozó szakmák jegyzékét,
 
-c)[^37] az Etv. 28. § (6) bekezdés c) pont cc) alpontjának hatálya alá tartozó képzések felsorolását.
+c)[^38] az Etv. 28. § (6) bekezdés c) pont cc) alpontjának hatálya alá tartozó képzések felsorolását.
 
-(3)[^38] A Hivatal a szakmai képesítések elismerésével kapcsolatos feladataihoz kapcsolódóan
+(3)[^39] A Hivatal a szakmai képesítések elismerésével kapcsolatos feladataihoz kapcsolódóan
 
 a) statisztikai adatokat szolgáltat az Európai Bizottság részére,
 
 b) a riasztási mechanizmusban közreműködő hatóságként az Etv. 55. §-a szerint tájékoztatja a többi tagállam illetékes hatóságát.
 
-[^34]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 210/2015. (VII. 23.) Korm. rendelet 11. §-a.
-[^35]: A 19. § a 198/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
-[^36]: A 19. § (1) bekezdés a) pont aa) alpontja a 191/2019. (VII. 30.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^37]: A 19. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 442. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^38]: A 19. § (3) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^35]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 210/2015. (VII. 23.) Korm. rendelet 11. §-a.
+[^36]: A 19. § a 198/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
+[^37]: A 19. § (1) bekezdés a) pont aa) alpontja a 191/2019. (VII. 30.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^38]: A 19. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 442. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^39]: A 19. § (3) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg.

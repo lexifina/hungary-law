@@ -1,3 +1,3 @@
-## 3/B. §[^9] A Hivatal vezeti az Nkt. 61. § (4a) bekezdésében meghatározott szaktanácsadói névjegyzéket.
+## 3/B. §[^10] A Hivatal vezeti az Nkt. 61. § (4a) bekezdésében meghatározott szaktanácsadói névjegyzéket.
 
-[^9]: A 3/B. §-t a 365/2014. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 3/B. §-t a 365/2014. (XII. 30.) Korm. rendelet 3. §-a iktatta be.

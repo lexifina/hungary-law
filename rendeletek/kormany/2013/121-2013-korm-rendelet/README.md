@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-121-20-
 | 2018-07-11 | 2013-121-20-22.18 | 122/2018. (VII. 10.) Korm. rendelet |
 | 2019-01-01 | 2013-121-20-22.19 | 308/2018. (XII. 27.) Korm. rendelet |
 | 2019-08-01 | 2013-121-20-22.20 | 191/2019. (VII. 30.) Korm. rendelet |
+| 2019-08-09 | 2013-121-20-22.21 | 122/2018. (VII. 10.) Korm. rendelet |
