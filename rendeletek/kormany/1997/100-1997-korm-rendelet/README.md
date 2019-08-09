@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2017-11-04 | 1997-100-20-22.49 | 233/2004. (VIII. 6.) Korm. rendelet |
 | 2018-01-01 | 1997-100-20-22.50 | 256/2005. (XII. 7.) Korm. rendelet |
 | 2018-07-11 | 1997-100-20-22.51 | 5/2016. (I. 22.) Korm. rendelet |
+| 2019-08-09 | 1997-100-20-22.52 | 78/2002. (IV. 13.) Korm. rendelet |
