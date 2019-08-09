@@ -1,4 +1,4 @@
-39/J. §[^223] (1) Azt a bölcsődében, egységes óvoda-bölcsődében pedagógus-munkakörben foglalkoztatott személyt, továbbá a területi gyermekvédelmi szakszolgálatnál örökbefogadási tanácsadóként pedagógus-munkakörben foglalkoztatott személyt (e § alkalmazásában a továbbiakban együtt: érintett személy), aki 2016. január 1-jén
+39/J. §[^231] (1) Azt a bölcsődében, egységes óvoda-bölcsődében pedagógus-munkakörben foglalkoztatott személyt, továbbá a területi gyermekvédelmi szakszolgálatnál örökbefogadási tanácsadóként pedagógus-munkakörben foglalkoztatott személyt (e § alkalmazásában a továbbiakban együtt: érintett személy), aki 2016. január 1-jén
 
 a) legalább két év, a II. fejezet 2. alcíme szerinti szakmai gyakorlattal (e § alkalmazásában a továbbiakban: gyakorlat) rendelkezik, Pedagógus I. fokozatba, továbbá a Kjt. alapján közalkalmazotti jogviszonyban töltött időnek minősülő, valamint a fizetési fokozat megállapításánál beszámítandó idő szerinti kategóriába,
 
@@ -26,4 +26,4 @@ c) a minősítési eljárásra történő jelentkezéskor összesen legalább ny
 
 (8) Az érintett személy tekintetében a minősítési tervbe történő felvétel – 10. § (1) bekezdés c) pontja szerinti – különös feltételeit az e §-ban foglaltak szerint kell meghatározni.
 
-[^223]: A 39/J. §-t a 418/2015. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
+[^231]: A 39/J. §-t a 418/2015. (XII. 23.) Korm. rendelet 14. §-a iktatta be.

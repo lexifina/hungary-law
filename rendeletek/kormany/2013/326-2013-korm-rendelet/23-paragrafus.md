@@ -2,17 +2,20 @@
 
 (2) A pályázatnak tartalmaznia kell a pályázó szakmai önéletrajzát, a vezetési programját, továbbá a pályázati felhívásban megfogalmazott feltételeknek történő megfelelés hitelt érdemlő igazolását, valamint a pályázó nyilatkozatát arról, hogy hozzájárul személyes adatainak a pályázattal kapcsolatos kezeléshez, továbbításához.
 
-(3) A pályáztató a pályázattal kapcsolatos vélemények kialakításához – a pályázatnak a nevelőtestület (szakalkalmazotti értekezlet) részére történő átadás napját követő első munkanaptól számítva – legalább harminc napot köteles biztosítani (a továbbiakban: véleményezési határidő).
+(3)[^166]
 
-(4) A nevelőtestület (szakalkalmazotti értekezlet) az Nkt. 70. § (2) bekezdés j) pontja alapján a véleményezési határidőn belül alakíthatja ki szakmai véleményét a vezetési programról. A pályázati eljárásban lehetővé kell tenni, hogy a nevelőtestület (szakalkalmazotti értekezlet) mellett a vezetési programról véleményt nyilváníthasson a Nemzeti Pedagógus Kar illetékes területi szerve.
+(4)[^167]
 
-(5) A pályáztató a pályázattal együtt megküldi a megbízási jogkör gyakorlójának a kialakított véleményeket, vagy tájékoztatja a megbízási jogkör gyakorlóját, ha a jogosultak nem éltek a véleményezési jogukkal.
+(5)[^168]
 
-(6)[^162] A tankerületi központ által fenntartott köznevelési intézmény esetében az illetékes tankerületi igazgató a pályázattal együtt megküldi az oktatási központ vezetőjének a kialakított véleményeket, vagy tájékoztatja, ha a jogosultak nem éltek a véleményezési jogukkal.
+(6)[^169]
 
-(7)[^163] Az oktatási központ vezetője és a tankerületi központ vezetője az eljárás jogszerűségéről szóló nyilatkozatát, és – több pályázó esetén – a pályázatok rangsoráról kialakított indokolt javaslatát megküldi a miniszternek.
+(7)[^170] Az oktatási központ vezetője és a tankerületi központ vezetője az eljárás jogszerűségéről szóló nyilatkozatát, és – több pályázó esetén – a pályázatok rangsoráról kialakított indokolt javaslatát megküldi a miniszternek.
 
 (8) A pályázatot a véleményezési határidő lejártát követő harminc, ha az elbírálásra váró pályázatok száma a huszonötöt eléri, hatvan napon belül el kell bírálni. Ha a megbízási jogkört közgyűlés vagy képviselő-testület gyakorolja, a pályázatokat a közgyűlés, képviselő-testület részére a véleményezési határidő lejártát követő harmincadik, illetve hatvanadik napot követő első testületi ülésre be kell nyújtani.
 
-[^162]: A 23. § (6) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^163]: A 23. § (7) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
+[^166]: A 23. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^167]: A 23. § (4) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^168]: A 23. § (5) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^169]: A 23. § (6) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdése hatályon kívül helyezte.
+[^170]: A 23. § (7) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.
