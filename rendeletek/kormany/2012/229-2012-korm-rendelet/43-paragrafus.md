@@ -22,10 +22,13 @@ f) az iskolai felkészítő foglalkozások javasolt heti óraszámát és a peda
 
 g) az arról szóló tájékoztatást, hogy a gyermek, tanuló fejlődését a szakértői bizottság hivatalból megvizsgálja.
 
-(3) Ha a határozatban fejlesztő nevelés biztosítását kell elrendelni, a nevelési-oktatási intézmény helyett a gyermek fejlesztő nevelését ellátó pedagógiai szakszolgálati intézményt, továbbá a fejlesztő nevelés helyét, formáját, a foglalkozások idejét kell feltüntetni.
+(3)[^181]
 
 (4) A járási hivatal eljárásában szakértőként – a járási hivatal kirendelése alapján – az a szakértői bizottság jár el, amely az eljárásban érintett szakértői véleményt kiállította.
 
 (5) Az eljárásban szakértőként nem vehet részt az a szakértő, aki a (4) bekezdésben meghatározott szakértői bizottság részéről az eljárásban érintett szakértői vélemény elkészítésében részt vett.
 
-(6) A járási hivatal határozata ellen benyújtott fellebbezés alapján induló eljárásban a kormányhivatal kirendelésére szakértőként a Gyakorló Szakszolgálat jár el
+(6)[^182] A járási hivatal határozata ellen benyújtott fellebbezés alapján induló eljárásban a kormányhivatal kirendelésére diagnosztikai kérdésekben szakértőként a Gyakorló Szakszolgálat jár el
+
+[^181]: A 43. § (3) bekezdését a 196/2019. (VIII. 1.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^182]: A 43. § (6) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés e) pontja szerint módosított szöveg.

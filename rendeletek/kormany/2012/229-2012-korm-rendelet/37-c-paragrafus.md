@@ -36,9 +36,9 @@ c) a tankönyvtámogatás módosítására a tárgyév június 30-áig
 
 (7)[^112] A kérelem benyújtásával egyidejűleg a fenntartó az Igazgatóság rendelkezésére bocsátja
 
-a) a tárgyévet megelőző év október 1-jén a köznevelési intézménnyel jogviszonyban álló gyermek, tanuló oktatási azonosító számát – köznevelési intézményi, feladatellátási helyenkénti bontásban, táblázatos vagy a KIR-ből kinyomtatott, a fenntartó által hitelesített formában,
+a)[^113]
 
-b) a tárgyév január 1-jén a köznevelési intézménnyel jogviszonyban álló minősített pedagógus oktatási azonosító számát – köznevelési intézményi, feladatellátási helyenkénti bontásban, táblázatos vagy a KIR-ből kinyomtatott, a fenntartó által hitelesített formában,
+b)[^114]
 
 c) a nyilatkozatát arról, hogy
 
@@ -46,7 +46,7 @@ ca) megfelel a költségvetési támogatás igénybevételére vonatkozó, az á
 
 cb) az intézmény működésével összefüggésben, vagy a költségvetési támogatás jogosulatlan igénybevételével összefüggésben büntetőeljárás nem folyik ellene és a kérelem benyújtását megelőző öt évben ilyen eljárásban nem marasztalták el.
 
-(8)[^113] Ha a fenntartó a (7) bekezdés szerinti dokumentumokat a kérelem benyújtásával egyidejűleg, illetve a hiánypótlásra kitűzött határidőn belül nem nyújtja be, a kérelmet az Igazgatóság visszautasítja, vagy ha azok tartalma a (7) bekezdésben foglaltaknak nem felel meg, a kérelmet az Igazgatóság elutasítja.
+(8)[^115]
 
 [^105]: A 37/C. § (1) bekezdése a 260/2014. (X. 15.) Korm. rendelet 12. §-a, a 457/2017. (XII. 28.) Korm. rendelet 402. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^106]: A 37/C. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -56,4 +56,6 @@ cb) az intézmény működésével összefüggésben, vagy a költségvetési t�
 [^110]: A 37/C. § (5) bekezdését a 260/2014. (X. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte, újonnan a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 307/2017. (X. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^111]: A 37/C. § (6) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.
 [^112]: A 37/C. § (7) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be.
-[^113]: A 37/C. § (8) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 402. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^113]: A 37/C. § (7) bekezdés a) pontját a 196/2019. (VIII. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^114]: A 37/C. § (7) bekezdés b) pontját a 196/2019. (VIII. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^115]: A 37/C. § (8) bekezdését a 3/2015. (I. 28.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 196/2019. (VIII. 1.) Korm. rendelet 8. § b) pontja.

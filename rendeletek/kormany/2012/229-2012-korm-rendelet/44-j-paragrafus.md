@@ -1,12 +1,12 @@
-## V/D. Fejezet[^183]
+## V/D. Fejezet[^190]
 
 ## A TÁMOGATÓ RENDSZER
 
-44/J. § (1)[^184] A támogató rendszer nevelési-oktatási intézményenként, telephelyenként és évfolyamonként az iskolai nevelés-oktatás ötödik–tizenkettedik évfolyamán, továbbá a Köznevelési, valamint a Szakképzési Hídprogramban a lemorzsolódással veszélyeztetett tanulók vonatkozásában a (2) bekezdésben meghatározott statisztikai adatokat tartalmazza.
+44/J. § (1)[^191] A támogató rendszer nevelési-oktatási intézményenként, telephelyenként és évfolyamonként az iskolai nevelés-oktatás ötödik–tizenkettedik évfolyamán, továbbá a Köznevelési, valamint a Szakképzési Hídprogramban a lemorzsolódással veszélyeztetett tanulók vonatkozásában a (2) bekezdésben meghatározott statisztikai adatokat tartalmazza.
 
 (2) A statisztikai adatok magukban foglalják azon lemorzsolódással veszélyeztetett tanulók létszám szerint összesített adatát, akik számára pedagógiai támogatás indokolt az alábbi okokból:
 
-a)[^185] tudásuknak a tanév végi vagy félévi értékelésekor és minősítésekor az egy tizedesjegyig számított tanulmányi átlageredmény a magatartás és szorgalom értékelését, minősítését nem beleszámítva nem éri el a közepes (3) szintet ha az alapfokú nevelés-oktatásban vesznek részt, és a 2,5 szintet, amennyiben a középfokú nevelés-oktatásban vesznek részt, vagy egy félév alatt vagy a megelőző tanévhez képest legalább 1,1 mértékű romlást mutat;
+a)[^192] tudásuknak a tanév végi vagy félévi értékelésekor és minősítésekor az egy tizedesjegyig számított tanulmányi átlageredmény a magatartás és szorgalom értékelését, minősítését nem beleszámítva nem éri el a közepes (3) szintet ha az alapfokú nevelés-oktatásban vesznek részt, és a 2,5 szintet, amennyiben a középfokú nevelés-oktatásban vesznek részt, vagy egy félév alatt vagy a megelőző tanévhez képest legalább 1,1 mértékű romlást mutat;
 
 b) félévkor vagy a tanítási év végén tudásuk értékelésekor és minősítésekor egy vagy több tantárgyból elégtelen (1) osztályzatot kaptak;
 
@@ -40,6 +40,6 @@ ke) a középfokú nevelés-oktatásba tizenhatodik életévük betöltését k�
 
 (3) A (2) bekezdés b) és e) pontja szerinti esetekben a tantárgyat is meg kell adni.
 
-[^183]: Az V/D. Fejezetet (44/J. §-t) a 354/2016. (XI. 18.) Korm. rendelet 4. §-a iktatta be.
-[^184]: A 44/J. § (1) bekezdése a 307/2017. (X. 27.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
-[^185]: A 44/J. § (2) bekezdés a) pontja a 307/2017. (X. 27.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
+[^190]: Az V/D. Fejezetet (44/J. §-t) a 354/2016. (XI. 18.) Korm. rendelet 4. §-a iktatta be.
+[^191]: A 44/J. § (1) bekezdése a 307/2017. (X. 27.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
+[^192]: A 44/J. § (2) bekezdés a) pontja a 307/2017. (X. 27.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.

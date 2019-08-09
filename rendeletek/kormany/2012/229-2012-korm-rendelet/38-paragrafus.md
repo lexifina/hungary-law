@@ -1,8 +1,8 @@
-## IV. Fejezet[^167]
+## IV. Fejezet[^169]
 
 ## AZ ILLETÉKES MEGYESZÉKHELY SZERINTI JÁRÁSI HIVATAL ÁLTAL FOLYTATOTT HATÓSÁGI ELLENŐRZÉS TÁRGYKÖREI
 
-38. § (1)[^168] Az illetékes megyeszékhely szerinti járási hivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja
+38. § (1)[^170] Az illetékes megyeszékhely szerinti járási hivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja
 
 a) az egyenlő bánásmód követelményére,
 
@@ -18,13 +18,13 @@ f) a minimális (kötelező) eszközök és felszerelések meglétére,
 
 g) a köznevelési feladatok ingyenességére, a tankönyvek és más tanulói felszerelések biztosítására,
 
-h)[^169] a tanulói fegyelmi eljárás megszervezésére, lefolytatására, a döntéshozatalra
+h)[^171] a tanulói fegyelmi eljárás megszervezésére, lefolytatására, a döntéshozatalra
 
 vonatkozó rendelkezések megtartását.
 
-(2)[^170] Az illetékes megyeszékhely szerinti járási hivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
+(2)[^172] Az illetékes megyeszékhely szerinti járási hivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
 
-[^167]: A IV. fejezet címe a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 16. pontja, a 486/2016. (XII. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^168]: A 38. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^169]: A 38. § (1) bekezdés h) pontját a 307/2017. (X. 27.) Korm. rendelet 7. §-a iktatta be.
-[^170]: A 38. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^169]: A IV. fejezet címe a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 16. pontja, a 486/2016. (XII. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^170]: A 38. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^171]: A 38. § (1) bekezdés h) pontját a 307/2017. (X. 27.) Korm. rendelet 7. §-a iktatta be.
+[^172]: A 38. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.
