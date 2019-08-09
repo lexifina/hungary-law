@@ -1,1 +1,3 @@
-## 4. § A 25/2013. (VI. 24.) BM rendelet 2. melléklete a 2. melléklet szerint módosul.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
