@@ -1,1 +1,1 @@
-## 7. § Ez a rendelet a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 23. cikkének és 24. cikk (1) bekezdés a) pontjának való megfelelést szolgálja.
+## való megfelelést szolgálja.
