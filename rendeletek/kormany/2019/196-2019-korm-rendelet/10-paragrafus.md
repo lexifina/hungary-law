@@ -1,1 +1,3 @@
-## „p) az Országos Statisztikai Adatfelvételi Program végrehajtásában, valamint az egyéb hazai rendszeres és eseti oktatási tárgyú statisztikai adatszolgáltatások feladatainak ellátásában való közreműködésre.”
+## 9. §[^10]
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

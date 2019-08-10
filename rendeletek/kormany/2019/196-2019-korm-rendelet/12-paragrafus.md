@@ -1,4 +1,4 @@
-## 11. §[^7]
+## 11. §[^12]
 
 ## 5. A pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló
 
@@ -6,4 +6,4 @@
 
 ## 326/2013. (VIII. 30.) Korm. rendelet módosítása
 
-[^7]: A 11. § a 16. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^12]: A 11. § a 16. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
