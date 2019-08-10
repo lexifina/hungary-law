@@ -1,4 +1,4 @@
-8. melléklet a 16/2014. (XII. 19.) IM rendelethez[^233]
+8. melléklet a 16/2014. (XII. 19.) IM rendelethez[^235]
 
 | Kártalanítás iránti kérelem |
 
@@ -14,4 +14,4 @@
 
 | Kelt: .............................................................. aláírás |
 
-[^233]: A 8. mellékletet a 24/2016. (XII. 23.) IM rendelet 40. §-a iktatta be, szövege a 14/2018. (VI. 15.) IM rendelet 19. § 40. pontja szerint módosított szöveg.
+[^235]: A 8. mellékletet a 24/2016. (XII. 23.) IM rendelet 40. §-a iktatta be, szövege a 14/2018. (VI. 15.) IM rendelet 19. § 40. pontja szerint módosított szöveg.
