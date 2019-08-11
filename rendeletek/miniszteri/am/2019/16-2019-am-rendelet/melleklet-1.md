@@ -1,6 +1,6 @@
-## 16. §[^1]
+## 16. §[^7]
 
-1. melléklet a 16/2019. (IV. 29.) AM rendelethez
+1. melléklet a 16/2019. (IV. 29.) AM rendelethez[^8]
 
 A szaktanácsadás tématerületei és szakterületei
 
@@ -96,13 +96,13 @@ A szaktanácsadás tématerületei és szakterületei
 
 | 8. | Vízgazdálkodás, öntözésfejlesztés | 8.1. Öntözéses gazdálkodás |
 
-| 8.2. Víztározás, vízrendezés |
+| 8.2. |
 
-| 8.3. Geotermikus energiahasznosítás termálvízzel |
+| 8.3. |
 
-| 8.4. Vízkárelhárítás |
+| 8.4. |
 
-| 8.5. Szennyvíziszap-hasznosítás |
+| 8.5. |
 
 | 9. | Élelmiszer-előállítás, - feldolgozás | 9.1. Húsfeldolgozás és húskészítmény-gyártás |
 
@@ -129,6 +129,10 @@ A szaktanácsadás tématerületei és szakterületei
 | 9.12. Zöldség- és gyümölcsfeldolgozás és -tartósítás |
 
 | 9.13. Növényi termékek feldolgozása |
+
+| 9.14. Higiénia |
+
+| 9.15. Élelmiszerbiztonság |
 
 | 10. | Erdőgazdálkodás | 10.1. Általános erdőgazdálkodás |
 
@@ -178,7 +182,7 @@ A szaktanácsadás tématerületei és szakterületei
 
 | 14. | Állategészségügy | 14. Állategészségügy, állatvédelem |
 
-| 15. | Földügyek | 15.1. Földmérés, területmérés |
+| 15. | Földügyek | 15.1. |
 
 | 15.2. Földvédelem és földminősítés |
 
@@ -194,7 +198,7 @@ A szaktanácsadás tématerületei és szakterületei
 
 | 16.5. Kistermelői értékesítés |
 
-| 17. | Munkavédelem, munkabiztonság | 17. Munkavédelem, munkabiztonság |
+| 17 |  |  |
 
 | 18. | Támogató adminisztráció | 18.1. Pályázati tanácsadás, pályázatírás |
 
@@ -204,38 +208,21 @@ A szaktanácsadás tématerületei és szakterületei
 
 | 18.4. Gazdálkodási napló (GN) vezetés |
 
-| 18.5. Jövedéki adó visszaigénylés |
+| 18.5. Kölcsönös megfeleltetés |
 
-| 19. | Vállalkozásszervezés, -menedzsment | 19.1. Számvitel, adózási ismeretek |
+| 18.6. Mezőgazdasági kárszakértés, kárügyintézés |
 
-| 19.2. Marketing és értékesítés |
+| 19. | Vállalkozásszervezés, -menedzsment | 19.1. Vállalkozásszervezés, -menedzsment |
 
-| 19.3. Projektmenedzsment |
+| 19.2. Munkavédelem munkabiztonság |
 
-| 19.4. Digitális döntés támogatás |
+| 19.3. Termék- és technológiafejlesztés |
 
-| 19.5. Tervkészítés |
+| 19.4. Minőségirányítás |
 
-| 19.6. Termék- és technológiafejlesztés |
+| 20. |  |  |
 
-| 20. | Pénzügyi és jogi tanácsadás, támogatás | 20.1. Könyvviteli, adózási tanácsadás |
+| 21. |  |  |
 
-| 20.2. Jogi tanácsadás |
-
-| 20.3. Kölcsönös megfeleltetés |
-
-| 20.4. Biztosítási tanácsadás |
-
-| 20.5. Mezőgazdasági kárszakértés, kárügyintézés |
-
-| 20.6. Hitelezési tanácsadás |
-
-| 21. | Minőségmenedzsment | 21.1. Higiénia |
-
-| 21.2. Élelmiszer-biztonság |
-
-| 21.3. Minőségirányítás |
-
-| 21.4. Jelölés, védjegy, eredetvédelem |
-
-[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 38/2019. (VIII. 10.) AM rendelet 2. § (3) bekezdése, (5) bekezdés b) pontja szerint módosított szöveg.

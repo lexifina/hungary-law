@@ -30,7 +30,7 @@ ac) növényvédelem tématerület megjelölése esetén a Magyar Növényvédő
 
 ad) erdőgazdálkodás tématerületen belüli szakterület megjelölése esetén szerepel a fővárosi és megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala által vezetett jogosult erdészeti szakszemélyzeti névjegyzékben, valamint rendelkezik a jogosult erdészeti szakszemélyzet részére kiállított igazolvánnyal, és
 
-ae) földmérés, területmérés szakterület megjelölése esetén rendelkezik a földmérési és térinformatikai államigazgatási szerv által kiállított földmérő igazolvánnyal, valamint földvédelem és földminősítés szakterület megjelölése esetén rendelkezik a földmérési és térinformatikai államigazgatási szerv által kiállított földminősítő igazolvánnyal;
+ae)[^5]
 
 b) nyilatkozik
 
@@ -61,3 +61,5 @@ bb) a támogatható státusz megjelölése esetén az 1. § 4. pontjában meghat
 bc) a tevékenység Magyarország területén határon átnyúló szolgáltatásnyújtás keretében történő folytatásáról.
 
 (7) A bejelentéskor támogatható státuszt megjelölt szaktanácsadó és szaktanácsadó szervezet köteles a bejelentéssel egyidejűleg igazolni, hogy az ügyféllel nem áll olyan kereskedelmi kapcsolatban, amely az ügyfél részére nyújtott támogatott szaktanácsadási szolgáltatással összeférhetetlen.
+
+[^5]: Az 5. § (5) bekezdés a) pont ae) alpontját a 38/2019. (VIII. 10.) AM rendelet 2. § (5) bekezdés a) pontja hatályon kívül helyezte.
