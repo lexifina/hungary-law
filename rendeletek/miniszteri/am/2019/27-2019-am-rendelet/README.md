@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-27-20-7
 | --- | --- | --- |
 | 2019-06-17 | 2019-27-20-7R.1 | 27/2019. (VI. 14.) AM rendelet |
 | 2019-06-18 | 2019-27-20-7R.2 | 2010: CXXX. törvény |
+| 2019-08-11 | 2019-27-20-7R.3 | 38/2019. (VIII. 10.) AM rendelet |
