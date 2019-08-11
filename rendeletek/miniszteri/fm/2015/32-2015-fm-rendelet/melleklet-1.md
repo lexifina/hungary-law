@@ -2,7 +2,7 @@
 
 1. melléklet a 32/2015. (VI. 19.) FM rendelethez[^2]
 
-| XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2018. évi költségvetési kiadási előirányzatainak feladatterve |
+XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2018. évi költségvetési kiadási előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -26,10 +26,10 @@
 
 | 10 | 303557 |  |  | Állami tulajdonú ingatlanvagyon jogi rendezése | 1. Az ismert, illetve a felmérés következtében feltárt jogilag rendezetlen állami tulajdonban lévő földrészletek jogi rendezése, a jogszerűtlen, illetve a valóságnak nem megfelelő állapotok tisztázása és rendezése az érintett földrészletek minél szélesebb körű, birtokpolitikai elveknek megfelelő hasznosítása érdekében, 2. az állami földterületek elbirtoklásának megakadályozása, helytelenül hasznosított, rendezetlen jogi helyzetű ingatlanok megfelelő hasznosításának jogi előkészítése, és 3. jogszabály vagy a Kormány egyedi döntése alapján a korábbitól eltérő módon hasznosítandó állami területek kapcsán felmerülő, az új hasznosítási mód biztosítását szolgáló kártalanítási és egyéb fizetési kötelezettségek teljesítése. | 1. a szolgáltatás teljesítését végző szerződéses partner 2. jogszabály vagy a Kormány egyedi döntése által meghatározott partner | - | - | 1. megbízási szerződés alapján teljesítésarányosan 2. jogszabály vagy a Kormány egyedi döntése által meghatározottak szerint | - | - | NFA | - | - |
 
-| 11 | 334684 |  |  | Bírósági döntésből eredő kiadások | A Nemzeti Földalapot érintő peres ügyek bírósági elmarasztalásai kiadásainak finanszírozása. | az elismert, jogos követeléssel rendelkező partner | - | - | bírósági döntés alapján egy összegben | - | - | NFA | - | - |
+| 11 | 334684 |  |  | Bírósági döntésből eredő kiadások | A Nemzeti Földalapot érintő peres ügyek bírósági elmarasztalásai, valamint peres eljárással érintett ügyben kötött egyezség kiadásainak finanszírozása. | az elismert, jogos követeléssel rendelkező partner | - | - | bírósági döntés vagy egyezségi okirat alapján egy összegben | - | - | NFA | - | - |
 
 | 12 | 296146 |  |  | Egyéb vagyonkezelési kiadások | Az NFA tulajdonosi joggyakorlásához kapcsolódó és más előirányzati jogcímhez nem kapcsolható kifizetések biztosítása így különösen: 1. a vagyonnyilvántartás és gazdálkodás szükségleteit kielégítő digitális térképi állomány időszakos frissítése kiadásainak finanszírozása, 2. az NFA és elődei által kiadott tulajdonosi hozzájárulások alapján megvalósított értéknövelő beruházások lejáró haszonbérleti szerződés miatti elszámolása költségeinek finanszírozása, 3. a Nemzeti Földalapba tartozó földvagyonhoz kapcsolódó különféle hatósági határozatok alapján fizetendő bírságok és egyéb kiadások finanszírozása, 4. a Nemzeti Földalappal kapcsolatos bevételek után fizetendő általános forgalmi adó megfizetése. | 1. a szolgáltatás teljesítését végző szerződéses partner 2. közigazgatási hatóság 3. helyi önkormányzat 4. Nemzeti Adó- és Vámhivatal | - | - | 1. szerződés alapján teljesítésarányosan 2. közigazgatási hatósági döntés alapján egy összegben | - | - | NFA | - | - |
 
 | 13 | 296191 |  | Fejezeti tartalék | Az év közben felmerülő, előre nem látható kiadások finanszírozása. | - | - | - | előirányzat-átcsoportosítással | - | - | - | - | - |
 
-[^2]: Az 1. melléklet a 26/2017. (V. 25.) FM rendelet 1. §-ával megállapított, a 21/2018. (VIII. 7.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet a 26/2017. (V. 25.) FM rendelet 1. §-ával megállapított, a 21/2018. (VIII. 7.) AM rendelet 1. § b) pontja, a 38/2019. (VIII. 10.) AM rendelet 1. §-a szerint módosított szöveg.
