@@ -1,5 +1,0 @@
-## 3. A jogi, szervezeti és döntéshozatali szempontból független pályahálózat-működtető működésére vonatkozó előírások
-
-5. § (1) A jogi, szervezeti és döntéshozatali szempontból független pályahálózat-működtető köteles biztosítani az alapvető feladatokkal és a kizárólag a pályahálózat-működtető által nyújtott vasúti szolgáltatásokkal összefüggő adatszolgáltatás vonatkozásában, hogy a vasúti pályahálózatot igénybevevő vállalkozó vasúti társaságok egymás adataihoz ne férhessenek hozzá. Biztosítania kell továbbá az üzleti szempontból érzékeny és üzleti titokká minősített adatokhoz való hozzáférés tilalmát, valamint a vonatkozó titoktartási szabályok betartását is.
-
-(2) A jogi, szervezeti és döntéshozatali szempontból független pályahálózat-működtető köteles biztosítani az alapvető feladatokkal és a kizárólag a pályahálózat-működtető által nyújtott vasúti szolgáltatásokkal összefüggő tevékenység informatikai elkülönítését a pályahálózat-működtető által ellátott más feladatoktól mind az informatikai eszközök használata (hardver és szoftver használat) mind pedig az informatikai feladatot ellátó munkavállalók vonatkozásában.
