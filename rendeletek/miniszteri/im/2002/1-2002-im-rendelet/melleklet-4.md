@@ -1,4 +1,4 @@
-4. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^165]
+4. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^201]
 
 ## A meghatározott cselekmény végrehajtására szolgáló végrehajtási lap kiállítása iránti kérelem nyomtatványának adattartalma
 
@@ -128,7 +128,7 @@
 
 1.7.3.9. faxszám
 
-1.8. kötelezett törvényes képviselőjének adatai
+1.8.[^202] kötelezett törvényes képviselőjének, illetve az állam, mint kötelezett esetén a képviseletet ellátó szerv adatai
 
 1.8.1. név
 
@@ -152,7 +152,37 @@
 
 1.8.2.9. faxszám
 
-1.8.3. a törvényes képviselet típusa.
+1.8.2.10.[^203] elektronikus levélcím
+
+1.8.3.[^204] a képviselet típusa.
+
+1.9.[^205] kötelezett meghatalmazott képviselőjének adatai
+
+1.9.1. név
+
+1.9.2. idézési cím
+
+1.9.2.1. ország
+
+1.9.2.2. irányítószám
+
+1.9.2.3. helység
+
+1.9.2.4. közterület neve, jellege
+
+1.9.2.5. házszám (épületszám és lépcsőház)
+
+1.9.2.6. emelet
+
+1.9.2.7. ajtószám
+
+1.9.2.8. vezetékes telefonszám
+
+1.9.2.9. faxszám
+
+1.9.3. elektronikus levélcím
+
+1.9.4. a meghatalmazotti képviselet típusa
 
 2. A végrehajtást kérővel kapcsolatos adatok:
 
@@ -244,7 +274,7 @@
 
 2.6.3. elektronikus levélcím
 
-2.7. végrehajtást kérő törvényes képviselőjének adatai
+2.7.[^206] végrehajtást kérő törvényes képviselőjének, illetve az állam, mint végrehajtást kérő esetén a képviseletet ellátó szerv adatai
 
 2.7.1. név
 
@@ -267,6 +297,8 @@
 2.7.2.8. vezetékes telefonszám
 
 2.7.2.9. faxszám
+
+2.7.2.10.[^207] elektronikus levélcím
 
 2.7.3. a törvényes képviselet típusa
 
@@ -336,7 +368,7 @@
 
 3.5. a határozat jogerőre emelkedésének napja
 
-3.6. annak jelölése, ha a határozat a Polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés alapján emelkedett jogerőre
+3.6.[^208] annak jelölése, ha a határozat a polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés, illetve a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
 
 3.7. annak jelölése, ha a határozat előzetesen végrehajtható.
 
@@ -370,7 +402,7 @@
 
 4.4.1. a végrehajtás alá vonható vagyontárgyakkal kapcsolatos adatok
 
-4.5. nyilatkozat arról, ha egyidejűleg az egyetemlegesen felelős adóstárs ellen is került végrehajtási kérelem előterjesztésre.
+4.5.[^209] nyilatkozat arról, ha egyidejűleg az egyetemlegesen felelős kötelezett-társ ellen is került végrehajtási kérelem előterjesztésre.
 
 5. Az adós végrehajtás alá vonható vagyonával kapcsolatos adatok:
 
@@ -456,27 +488,45 @@
 
 6. Nyilatkozat arról, hogy a végrehajtást kérő a végrehajtási eljárási cselekmény foganatosításánál részt kíván-e venni.
 
-7. Nyilatkozat arról, hogy a végrehajtást kérőt milyen költségkedvezmény illet meg:
+7.[^210] Nyilatkozat arról, hogy a végrehajtást kérőt milyen költségkedvezmény illet meg:
 
-7.1. teljes költségmentesség, részleges költségmentesség
+7.1. tárgyi költségmentesség
 
-7.2. illetékmentesség
+7.2. személyes költségmentesség
 
-7.3. illetékfeljegyzési jog
+7.3. tárgyi költségfeljegyzési jog
 
-7.4. illetékátalány fizetési jog
+7.4. személyes költségfeljegyzési jog
 
-7.5. tárgyi költségfeljegyzési jog.
+7.5. tárgyi illetékmentesség
 
-8. Nyilatkozat arról, hogy az adóst milyen költségkedvezmény illet meg:
+7.6. személyes illetékmentesség
 
-8.1. teljes költségmentesség, részleges költségmentesség
+7.7. tárgyi illetékfeljegyzési jog
 
-8.2. illetékmentesség
+7.8. részleges költségfeljegyzési jog
 
-8.3. illetékfeljegyzési jog
+7.9. pártfogó ügyvédi díj előlegezése vagy megfizetése alóli mentesség a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2018. december 18-i 4/2009/EK tanácsi rendelet 46. cikk (1) bekezdése alapján
 
-8.4. illetékátalány fizetési jog.
+8.[^211] Nyilatkozat arról, hogy a kötelezettet milyen költségkedvezmény illet meg:
+
+8.1. tárgyi költségmentesség
+
+8.2. személyes költségmentesség
+
+8.3. tárgyi költségfeljegyzési jog
+
+8.4. személyes költségfeljegyzési jog
+
+8.5. tárgyi illetékmentesség
+
+8.6. személyes illetékmentesség
+
+8.7. tárgyi illetékfeljegyzési jog
+
+8.8. részleges költségfeljegyzési jog
+
+8.9. pártfogó ügyvédi díj előlegezése vagy megfizetése alóli mentesség a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2018. december 18-i 4/2009/EK tanácsi rendelet 46. cikk (1) bekezdése alapján
 
 9. A végrehajtással felmerült költségek:
 
@@ -498,17 +548,23 @@
 
 11.2. a végrehajtást kérőnek a meghatározott cselekmény teljesítésére vagy elmaradására (ha pénzköveteléssel együtt érvényesíti, ennek csökkenésére és megszűnésére) vonatkozó bejelentési kötelezettsége és tájékoztatás arról, hogy további intézkedésre csak e közlés után kerül sor
 
-11.3.[^166] a kézbesítési kifogás előterjesztésének lehetősége és módja
+11.3.[^212] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
-11.4. a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díja, valamint ezek előlegezése és viselése
+11.4.[^213] a végrehajtó és a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díja, valamint ezek előlegezése és viselése
 
 11.5. a végrehajtható okirat kiállításával szembeni jogorvoslat és a végrehajtási kifogás előterjesztésének lehetősége és módja
 
-11.6. ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be
+11.6.[^214] a nyomtatvány 1.8. pontjához: ha a kötelezett kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be
 
 11.7. a szellemi tulajdonjogok megsértése miatt indított perben hozott határozat végrehajtása iránti kérelemhez mellékelhető képfelvétel csatolásának feltételei
 
 11.8. a kötelezett kötelezően kitöltendő adatai.
+
+11.8.1.[^215] a nyomtatvány 1. pontjánál: A végrehajtás elrendeléséhez a kötelezett következő adatait kötelező megadni: név vagy elnevezés, születési hely, idő vagy anyja neve, szervezet nyilvántartási száma, cég esetén cégjegyzékszám;
+
+Legalább egyet meg kell adni továbbá a következő adatok közül: lakóhely vagy székhely/telephely, munkahely, végrehajtás alá vonható egyéb vagyontárgy helye.
+
+A végrehajtás eredményességének elősegítése érdekében szükséges a kötelezett és vagyona minél több adatát feltüntetni.
 
 12. Két tanúval kapcsolatos adatok és aláírás:
 
@@ -538,5 +594,18 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, lakóhely (székhely), tartózkodási hely (telephely, fióktelep), cím, idézési cím, egyéb elérhetőségi adat, a kamatkövetelés és az ingóság adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^165]: A 4. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
-[^166]: A 4. számú melléklet 11. pont 11.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.
+[^201]: A 4. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^202]: A 4. számú melléklet 1.8. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^203]: A 4. számú melléklet 1.8. pont 1.8.2.10. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdése iktatta be.
+[^204]: A 4. számú melléklet 1.8.3. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^205]: A 4. számú melléklet 1.9. pontját a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdése iktatta be.
+[^206]: A 4. számú melléklet 2.7. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^207]: A 4. számú melléklet 2.7. pont 2.7.2.10. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdése iktatta be.
+[^208]: A 4. számú melléklet 3.6. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^209]: A 4. számú melléklet 4.5. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^210]: A 4. számú melléklet 7. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^211]: A 4. számú melléklet 8. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^212]: A 4. számú melléklet 11. pont 11.3. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.
+[^213]: A 4. számú melléklet 11.4. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdése szerint módosított szöveg.
+[^214]: A 4. számú melléklet 11.6. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^215]: A 4. számú melléklet 11.8. pont 11.8.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (2) bekezdése iktatta be.

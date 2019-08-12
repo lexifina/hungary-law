@@ -1,4 +1,4 @@
-7. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^171]
+7. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^245]
 
 ## A végrehajtási lap kiállítása helyetti bírósági letiltó végzés kibocsátása iránti kérelem nyomtatványának adattartalma
 
@@ -71,6 +71,34 @@
 1.7.2.7. ajtószám
 
 1.7.3. a törvényes képviselet típusa.
+
+1.8.[^246] adós meghatalmazott képviselőjének adatai
+
+1.8.1. név
+
+1.8.2. idézési cím
+
+1.8.2.1. ország
+
+1.8.2.2. irányítószám
+
+1.8.2.3. helység
+
+1.8.2.4. közterület neve, jellege
+
+1.8.2.5. házszám (épületszám és lépcsőház)
+
+1.8.2.6. emelet
+
+1.8.2.7. ajtószám
+
+1.8.2.8. vezetékes telefonszám
+
+1.8.2.9. faxszám
+
+1.8.3. elektronikus levélcím
+
+1.8.4. a meghatalmazotti képviselet típusa
 
 2. A végrehajtást kérővel kapcsolatos adatok:
 
@@ -172,7 +200,7 @@
 
 3.3. a határozat jogerőre emelkedésének napja
 
-3.4. annak jelölése, ha a határozat a Polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés alapján emelkedett jogerőre
+3.4.[^247] annak jelölése, ha a határozat a polgári perrendtartásról szóló 1952. évi III. törvény 99. § (2) bekezdése szerinti vélelmezett kézbesítés, illetve a polgári perrendtartásról szóló 2016. évi CXXX. törvény 137. § (2) bekezdése szerinti kézbesítési fikció alapján emelkedett jogerőre
 
 3.5. annak jelölése, ha a határozat előzetesen végrehajtható
 
@@ -202,7 +230,7 @@
 
 4.2. munkabért, járandóságot juttató, folyósító címe
 
-4.3. letiltásra kerülő munkabér, egyéb járnadóság jogcíme
+4.3.[^248] letiltásra kerülő munkabér, egyéb járandóság jogcíme
 
 4.4. letiltás %-os határa.
 
@@ -226,11 +254,11 @@
 
 5.6.3. adóstárs címe.
 
-6. Az űrlap tartalmazza a jövedelmet folyósító szervhez intézett, a Vht. 24. § (2) bekezdése szerinti és a költségmentesség alkalmazásáról a bírósági eljárásban szóló 6/1986. (VI. 26.) IM rendelet 15/G. § (1) bekezdése szerinti bírósági felhívást, az államnak járó költség megfizetésére jogosult bírósági gazdasági hivatal megnevezését és a fizetési számla számát, valamint a letiltó végzés elleni jogorvoslati jogról szóló tájékoztatást és a letiltó végzés indokolását.
+6.[^249] Az űrlap tartalmazza a jövedelmet folyósító szervhez intézett, a Vht. 24. § (2) bekezdése szerinti és a polgári és közigazgatási bírósági eljárás során meg nem fizetett illeték és állam által előlegezett költség megfizetéséről szóló 30/2017. (XII. 27.) IM rendelet 10. § (1) bekezdése szerinti bírósági felhívást, az államnak járó költség megfizetésére jogosult bírósági gazdasági hivatal megnevezését és a fizetési számla számát, valamint a letiltó végzés elleni jogorvoslati jogról szóló tájékoztatást és a letiltó végzés indokolását.
 
 7. Tájékoztatások, figyelmeztetések:
 
-7.1.[^172] a kézbesítési kifogás előterjesztésének lehetősége és módja
+7.1.[^250] a kézbesítési kifogás előterjesztésének lehetősége és módja
 
 7.2. a végrehajtást kérőnek a követelés megszűnése vagy csökkenése esetén fennálló bejelentési és a végrehajtási költség kielégítési kötelezettsége
 
@@ -238,9 +266,13 @@
 
 7.4. a munkáltató letiltással összefüggő, a Vht. 79. §-ában foglalt felelőssége
 
-7.5. a végrehajtást kérő képviseletét ellátó ügyvéd és jogtanácsos díjáról, valamint ezek előlegezése és viselése
+7.5.[^251] a végrehajtást kérő képviseletét ellátó ügyvéd és kamarai jogtanácsos díjáról, valamint ezek előlegezése és viselése
 
 7.6. az adós kötelezően kitöltendő adatai.
+
+7.6.1.[^252] a nyomtatvány 1. pontjánál: A végrehajtás elrendeléséhez az adós következő adatait kötelező megadni: név vagy elnevezés, születési hely, idő vagy anyja neve, lakóhelye, jövedelem és a jövedelmet folyósító neve és címe.
+
+7.7.[^253] a nyomtatvány 1.7. pontjához: ha az adós kiskorú, a törvényes képviselő megjelölése nélkül a kérelem nem adható be.
 
 8. Két tanúval kapcsolatos adatok és aláírás:
 
@@ -270,5 +302,12 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, a cím és a kamatkövetelés adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^171]: A 7. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
-[^172]: A 7. számú melléklet 7. pont 7.1. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.
+[^245]: A 7. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^246]: A 7. számú melléklet 1.8. pontját a 18/2019. (VI. 28.) IM rendelet 28. § (5) bekezdése iktatta be.
+[^247]: A 7. számú melléklet 3.4. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (5) bekezdésével megállapított szöveg.
+[^248]: A 7. számú melléklet 4.3. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (5) bekezdése szerint módosított szöveg.
+[^249]: A 7. számú melléklet 6. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (5) bekezdésével megállapított szöveg.
+[^250]: A 7. számú melléklet 7. pont 7.1. alpontja a 16/2018. (VI. 22.) IM rendelet 6. § c) pontja szerint módosított szöveg.
+[^251]: A 7. számú melléklet 7.5. pontja a 18/2019. (VI. 28.) IM rendelet 28. § (5) bekezdése szerint módosított szöveg.
+[^252]: A 7. számú melléklet 7.6. pont 7.6.1. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (5) bekezdése iktatta be.
+[^253]: A 7. számú melléklet 7. pont 7.7. alpontját a 18/2019. (VI. 28.) IM rendelet 28. § (5) bekezdése iktatta be.

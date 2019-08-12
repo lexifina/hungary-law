@@ -1,6 +1,6 @@
 ## Be- és kifizetések kezelése és nyilvántartása
 
-50. §[^136] (1) A végrehajtó a felvett pénzösszegről vagy más értékről (takarékbetétkönyv, értékpapír) a felügyelő szerv által rendszeresített nyomtatvány kitöltésével átvételi elismervényt köteles kiállítani.
+50. §[^149] (1) A végrehajtó a felvett pénzösszegről vagy más értékről (takarékbetétkönyv, értékpapír) a felügyelő szerv által rendszeresített nyomtatvány kitöltésével átvételi elismervényt köteles kiállítani.
 
 (2) Az átvételi elismervény szigorú számadású nyomtatvány, mely a következő adatokat tartalmazza:
 
@@ -18,10 +18,11 @@ f) a befizetés jogcíme;
 
 g) az átvételi elismervény kiállításának időpontja és a kiállító aláírása, bélyegzőlenyomata.
 
-(3) Az állandó és a tartós helyettes a helyettesítés keretében intézett végrehajtási ügyben eljárva is saját – eredeti álláshelyén folytatandó végrehajtási ügyeihez rendszeresített – nyomtatványa kitöltésével állítja ki az átvételi elismervényt.
+(3)[^150] Az állandó helyettes a helyettesítés keretében intézett végrehajtási ügyben eljárva is saját – eredeti álláshelyén folytatandó végrehajtási ügyeihez rendszeresített – nyomtatványa kitöltésével állítja ki az átvételi elismervényt.
 
 (4) Az átvételi elismervényt a tőpéldányon kívül három példányban kell kiállítani; a nyugtáját a befizető személynek kell átadni, az egyik példányt a végrehajtási ügy iratai között, a másik további példányt pedig a pénzügyi nyilvántartásokban kell elhelyezni.
 
 (5) Az átvételi elismervény számítástechnikai eszköz útján történő kiállítására szolgáló számítógépes programot a végrehajtó a felügyelő szerv engedélyével használhat.
 
-[^136]: Az 50. § a 23/2005. (XI. 10.) IM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^149]: Az 50. § a 23/2005. (XI. 10.) IM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^150]: Az 50. § (3) bekezdése a 18/2019. (VI. 28.) IM rendelet 22. §-ával megállapított szöveg.

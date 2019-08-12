@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1-20-06
 | 2017-01-01 | 2002-1-20-06.27 | 5/2016. (III. 8.) IM rendelet |
 | 2018-07-01 | 2002-1-20-06.28 | 16/2018. (VI. 22.) IM rendelet |
 | 2019-01-01 | 2002-1-20-06.29 | 4/2004. (II. 27.) IM rendelet |
+| 2019-08-12 | 2002-1-20-06.30 | 18/2019. (VI. 28.) IM rendelet |

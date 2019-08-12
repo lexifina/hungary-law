@@ -1,6 +1,6 @@
-## Egyes végrehajtható okiratok elektronikus úton, automatizált eljárással történő továbbítása az önálló bírósági végrehajtó részére[^33]
+## Egyes végrehajtható okiratok elektronikus úton, automatizált eljárással történő továbbítása az önálló bírósági végrehajtó részére[^34]
 
-14/A. §[^34] (1) Az önálló bírósági végrehajtó részére
+14/A. §[^35] (1) Az önálló bírósági végrehajtó részére
 
 a) a közjegyző által kibocsátott, a fizetési meghagyásról szóló 2009. évi L. törvény (a továbbiakban: Fmhtv.) 16. § (3) bekezdése szerint kézbesítendő fizetési meghagyás,
 
@@ -10,11 +10,11 @@ c) a végrehajtási lap visszavonásáról szóló végzés,
 
 d) a végrehajtást és a biztosítási intézkedést megszüntető végzés és
 
-e)[^35] a végrehajtást a polgári perrendtartásról szóló 2016. évi CXXX. törvény 139. § (4) bekezdése alapján felfüggesztő és az Fmhtv. 32. § (2) bekezdése alapján megszüntető végzés,
+e)[^36] a végrehajtást a polgári perrendtartásról szóló 2016. évi CXXX. törvény 139. § (4) bekezdése alapján felfüggesztő és az Fmhtv. 32. § (2) bekezdése alapján megszüntető végzés,
 
-f)[^36] a központi hatóságnak a tartásra kötelezett adatainak beszerzésére irányuló megkeresése,
+f)[^37] a központi hatóságnak a tartásra kötelezett adatainak beszerzésére irányuló megkeresése,
 
-g)[^37] az önálló bírósági végrehajtó eljárásában alkalmazandó elektronikus kézbesítési rendszer működtetésének részletes szabályairól szóló rendelet szerinti regisztrációs kérelem vagy bejelentés
+g)[^38] az önálló bírósági végrehajtó eljárásában alkalmazandó elektronikus kézbesítési rendszer működtetésének részletes szabályairól szóló rendelet szerinti regisztrációs kérelem vagy bejelentés
 
 a felügyelő szerv által működtetett, a végrehajtási ügyek végrehajtók közötti elosztására, valamint a végrehajtható okiratok és a kézbesítendő okiratok végrehajtók részére történő megküldésére szolgáló informatikai alkalmazás (a továbbiakban: ügyelosztási program) útján kerül továbbításra.
 
@@ -48,8 +48,8 @@ g) biztosítsa az ügyelosztási programmal végzett műveletek naplózását a 
 
 h) biztosítsa az ügyelosztási programban kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg sérülésük vagy megsemmisülésük elleni, továbbá a jogosulatlan adatbevitel elleni védelmet.
 
-[^33]: A 14/A. §-t megelőző alcímet a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be, szövege a 26/2011. (VIII. 31.) KIM rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^34]: A 14/A. §-t a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
-[^35]: A 14/A. § (1) bekezdés e) pontja a 16/2018. (VI. 22.) IM rendelet 3. §-ával megállapított szöveg.
-[^36]: A 14/A. § (1) bekezdés f) pontját a 26/2011. (VIII. 31.) KIM rendelet 7. § (5) bekezdése iktatta be.
-[^37]: A 14/A. § (1) bekezdés g) pontját a 40/2012. (VIII. 30.) KIM rendelet 45. § (2) bekezdése iktatta be.
+[^34]: A 14/A. §-t megelőző alcímet a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be, szövege a 26/2011. (VIII. 31.) KIM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^35]: A 14/A. §-t a 27/2010. (V. 11.) IRM rendelet 2. §-a iktatta be.
+[^36]: A 14/A. § (1) bekezdés e) pontja a 16/2018. (VI. 22.) IM rendelet 3. §-ával megállapított szöveg.
+[^37]: A 14/A. § (1) bekezdés f) pontját a 26/2011. (VIII. 31.) KIM rendelet 7. § (5) bekezdése iktatta be.
+[^38]: A 14/A. § (1) bekezdés g) pontját a 40/2012. (VIII. 30.) KIM rendelet 45. § (2) bekezdése iktatta be.

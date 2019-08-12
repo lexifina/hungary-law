@@ -1,4 +1,4 @@
-## 27. § Ha a csatolás, egyesítés feltételei megszűnnek (felek személye megváltozik, a végrehajtási ügy befejezése, felfüggesztése, közös vagyontárgy értékesítése stb.), a csatolást, egyesítést meg kell szüntetni és a csatolással, egyesítéssel érintett bármelyik ügyben foganatosított intézkedésről készített irat másolatát a többi ügy iratai között is el kell helyezni.
+## 27. §[^69] Ha a csatolás feltételei megszűnnek (felek személye megváltozik, a végrehajtási ügy befejezése, felfüggesztése, közös vagyontárgy értékesítése stb.), a csatolást meg kell szüntetni, és a csatolással érintett bármelyik ügyben foganatosított intézkedésekre való hivatkozást, utalást – feljegyzés formájában – a többi ügy iratai között is el kell helyezni.
 
 ## Írásbeli intézkedés
 
@@ -18,7 +18,7 @@ f) a kiadmányokon a végrehajtó bélyegzőjének lenyomatát.
 
 (2) A végrehajtó írásbeli intézkedésében – az intézkedés jellegétől függően, szükség esetén – a következő adatokat is fel kell tüntetni:
 
-a)[^66] a végrehajtható okiratot kiállító bíróság, közjegyző (a továbbiakban együtt: bíróság), központi hatóság vagy zár alá vételt elrendelő ügyészség, illetve nyomozó hatóság elnevezését, valamint a végrehajtható okirat számát,
+a)[^70] a végrehajtható okiratot kiállító bíróság, közjegyző (a továbbiakban együtt: bíróság), központi hatóság vagy zár alá vételt elrendelő ügyészség, illetve nyomozó hatóság elnevezését, valamint a végrehajtható okirat számát,
 
 b) a felek nevét és a hivatkozási számukat,
 
@@ -28,4 +28,5 @@ d) a címzett hatóság, egyéb szervezet ügyszámát (hivatkozási számát).
 
 (3) A végrehajtó intézkedésén (a továbbiakban: intézkedés) – ha ez nem lehetséges, külön íven – fel kell tüntetni annak elintézését rövid feljegyzéssel vagy irodai utasítással, valamint az elintézés határidejével és időpontjával.
 
-[^66]: A 28. § (2) bekezdés a) pontja a 35/2013. (XII. 23.) KIM rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^69]: A 27. § a 18/2019. (VI. 28.) IM rendelet 16. §-ával megállapított szöveg.
+[^70]: A 28. § (2) bekezdés a) pontja a 35/2013. (XII. 23.) KIM rendelet 3. § (6) bekezdésével megállapított szöveg.
