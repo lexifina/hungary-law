@@ -1,0 +1,5 @@
+## 20. § A Vüsz. 43. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) Az önálló bírósági végrehajtó hetente legalább három munkanapon köteles ügyfélfogadást tartani oly módon, hogy a félfogadás ideje a munkanapokon legalább 8–12 óra közötti időszakra essen, és az egyik ügyfélfogadási napon kizárólag a jogi képviselettel hivatásszerűen foglalkozók számára álljon rendelkezésre legalább két óra időtartamban. A végrehajtó az ügyfélfogadás idején személyesen – vagy felvilágosítás adására jogosult alkalmazottja útján – köteles irodájában a felek, jogi képviselők és más érdekeltek rendelkezésére állni. A végrehajtó munkanapokon 8–12 óra között biztosítani köteles, hogy egy vagy több alkalmazottja a végrehajtói iroda megadott telefonszámán elérhető legyen. Továbbá biztosítani köteles, hogy ebben az időtartamban az érdekelteknek általános tájékoztatást adjanak a végrehajtói iroda telefonszámán elérhető alkalmazottak a végrehajtási eljárásról, valamint a végrehajtó elérhetőségéről és ügyfélfogadási rendjéről.
+
+## (2) Az önálló bírósági végrehajtó a félfogadásának rendjét és idejét a felügyelő szerv egyetértésével állapítja meg.”
