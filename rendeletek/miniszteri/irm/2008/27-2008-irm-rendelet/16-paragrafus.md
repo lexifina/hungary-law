@@ -2,10 +2,11 @@
 
 a)[^27]
 
-b) vételi ajánlat megtétele,
+b)[^28] vételi ajánlat megtétele és vételi ajánlat megerősítése,
 
 c) árverési előleg visszautalása iránti kérelem előterjesztése,
 
 d) rendszerüzenet megtekintése.
 
 [^27]: A 16. § a) pontját a 38/2012. (VIII. 23.) KIM rendelet 15. § c) pontja hatályon kívül helyezte.
+[^28]: A 16. § b) pontja a 18/2019. (VI. 28.) IM rendelet 29. §-ával megállapított szöveg.
