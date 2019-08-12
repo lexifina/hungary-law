@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-30-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-30-20-06.1 | 30/2017. (XII. 27.) IM rendelet |
+| 2019-08-12 | 2017-30-20-06.2 | 18/2019. (VI. 28.) IM rendelet |
