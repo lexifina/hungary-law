@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-8-20-06
 | 2014-12-24 | 2001-8-20-06.5 | 20/2014. (XII. 23.) IM rendelet |
 | 2016-03-09 | 2001-8-20-06.6 | 5/2016. (III. 8.) IM rendelet |
 | 2017-01-01 | 2001-8-20-06.7 | 5/2016. (III. 8.) IM rendelet |
+| 2019-08-12 | 2001-8-20-06.8 | 18/2019. (VI. 28.) IM rendelet |
