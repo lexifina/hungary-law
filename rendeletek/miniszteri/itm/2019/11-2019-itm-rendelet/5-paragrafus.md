@@ -1,0 +1,7 @@
+5. § (1) A pályahálózat-működtető forgalomirányítási és karbantartás-tervezési feladatokkal kapcsolatos döntésekért felelős vezető tisztségviselője köteles haladéktalanul írásban bejelenteni, ha vele szemben a Vtv. 11/A. § (1) bekezdésében meghatározott összeférhetetlenségi ok merül fel, vagy ha jogviszonyának fennállása alatt vonatkozásában összeférhetetlenségi ok áll fenn. A vezető tisztségviselőt a tulajdonosi jogkör gyakorlója, a vezető állású munkavállalót és a munkavállalót pedig a munkáltatói jogkör gyakorlója írásban szólítja fel az összeférhetetlenség megszüntetésére.
+
+(2) Ha az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szüntetik meg, akkor a pályahálózat-működtető
+
+a) forgalomirányítási vagy karbantartás-tervezési feladatokkal kapcsolatos döntésekért felelős vezető tisztségviselőjének jogviszonyát visszahívással meg kell szüntetni. A jogviszony – a visszahívás kézhezvételét követő harmincadik napon – szűnik meg.
+
+b) vezető állású munkavállalójának és munkavállalójának a munkáltató olyan munkakört ajánl fel, amelyre nem vonatkozik a Vtv. 11/A. § (1) bekezdésében meghatározott összeférhetetlenségi ok. Ha a munkavállaló a felajánlott munkakört öt napon belül nem fogadja el, a munkáltató a pályahálózat-működtetőnél fennálló munkaviszonyt munkáltatói felmondással – az előzőek szerinti összeférhetetlenségi okra hivatkozással – megszünteti.

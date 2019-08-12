@@ -1,0 +1,21 @@
+## 2. A pályahálózat-működtetőre vonatkozó függetlenségi kritériumok
+
+2. § (1) A pályahálózat-működtető igazgatóságának (ügyvezetésének) vagy felügyelőbizottságának tagja, vezető állású munkavállalója és a szervezeti és működési szabályzatában meghatározott, alapvető feladatokkal kapcsolatos döntési jogosultsággal rendelkező vezető munkavállalója
+
+a) vasúti társasággal vagy annak kapcsolt vállalkozásával munkaviszonyt, valamint munkavégzésre irányuló jogviszonyt nem létesíthet, és
+
+b) vasúti társaságban vagy annak kapcsolt vállalkozásában a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti öröklés kivételével részesedést nem szerezhet.
+
+(2) A pályahálózat-működtető igazgatósága (ügyvezetése) vagy felügyelőbizottsága tagjának, vezető állású munkavállalójának és a szervezeti és működési szabályzatában meghatározott, alapvető feladatokkal kapcsolatos döntési jogosultsággal rendelkező vezető munkavállalójának a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vállalkozó vasúti társaságban vagy annak kapcsolt vállalkozásában öröklés kivételével részesedést nem szerezhet.
+
+(3) A pályahálózat-működtető igazgatóságának (ügyvezetésének) vagy felügyelőbizottságának tagja, vezető állású munkavállalója és a szervezeti és működési szabályzatában meghatározott, alapvető feladatokkal kapcsolatos döntési jogosultsággal rendelkező vezető munkavállalója haladéktalanul, de legkésőbb az összeférhetetlenség felmerülését követő öt napon belül írásban bejelenti, ha vele vagy a (2) bekezdésben meghatározott esetben közeli hozzátartozójával szemben a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 11/A. § (1) bekezdésében vagy az e rendeletben meghatározott összeférhetetlenségi ok merül fel.
+
+(4) Az igazgatóság (ügyvezetés) tagját a tulajdonosi jogkör gyakorlója, a felügyelőbizottság tagját az őt delegáló, a vezető állású munkavállalót és azon, a pályahálózat-működtető szervezeti és működési szabályzatában meghatározott munkavállalót, aki alapvető feladatokkal kapcsolatos döntési jogosultsággal rendelkező vezető, a munkáltatói jogkör gyakorlója írásban, a jogkövetkezményekre való figyelmeztetés mellett felszólítja az összeférhetetlenség – a felszólítás kézhezvételét követő harminc napon belüli – megszüntetésére.
+
+(5) A pályahálózat-működtető igazgatóságának (ügyvezetésének) vagy felügyelőbizottságának tagja, vezető állású munkavállalója és a szervezeti és működési szabályzatában meghatározott, alapvető feladatokkal kapcsolatos döntési jogosultsággal rendelkező vezető munkavállalója az öröklés útján szerzett tulajdoni részesedését a hagyatékátadó végzés kézhezvételétől számított három hónapon belül köteles elidegeníteni.
+
+(6) A (3)–(5) bekezdésben foglalt kötelezettsége teljesítéséig a pályahálózat-működtető igazgatóságának (ügyvezetésének) vagy felügyelőbizottságának tagja, vezető állású munkavállalója és azon, a pályahálózat-működtető szervezeti és működési szabályzatában meghatározott munkavállalója, aki alapvető feladatokkal kapcsolatos döntési jogosultsággal rendelkező vezető, nem vehet részt olyan döntés előkészítésében és meghozatalában, amely a pályahálózat-működtető által ellátott alapvető feladatokra és a Vtv. 11/B. §-a szerinti forgalomirányítási és a karbantartás-tervezési feladatokra vonatkozik.
+
+(7) Ha a pályahálózat-működtető igazgatóságának (ügyvezetésének) vagy felügyelőbizottságának tagja a (3)–(5) bekezdésben foglalt határidőre kötelezettségének nem tesz eleget, a pályahálózat-működtetőnél fennálló igazgatósági vagy felügyelőbizottsági jogviszonyát visszahívással meg kell szüntetni. A jogviszony a visszahívás kézhezvételét követő harmincadik napon szűnik meg.
+
+(8) Ha a vezető állású munkavállaló és a szervezeti és működési szabályzatában meghatározott, alapvető feladatokkal kapcsolatos döntési jogosultsággal rendelkező vezető munkavállaló a (3)–(5) bekezdésben foglalt kötelezettségének határidőre nem tesz eleget, a munkáltató olyan munkakört ajánl fel, amelyre nem vonatkozik az összeférhetetlenségi ok. Ha a munkavállaló a felajánlott munkakört öt napon belül nem fogadja el, a munkáltató a pályahálózat-működtetőnél fennálló munkaviszonyt – az összeférhetetlenségi okra hivatkozással – munkáltatói felmondással megszünteti.

@@ -1,0 +1,1 @@
+## 18. § Az egyazon vertikálisan integrált vállalkozáson belüli jogi személyek között 2016. december 24. előtt nyújtott kölcsönök lejáratukig érvényben maradnak, feltéve, hogy piaci kamatlábon kötötték a kölcsönszerződést, és ténylegesen sor került a kölcsönök folyósítására és törlesztésére.
