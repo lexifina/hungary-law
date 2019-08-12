@@ -1,6 +1,6 @@
 ## Az önálló bírósági végrehajtói állások száma
 
-## Országosan: 230
+## Országosan: 227
 
 ## I.
 
@@ -78,7 +78,27 @@
 
 ## V.
 
-## Miskolci Törvényszék
+| Miskolci Törvényszék |  |
+
+| Encsi Járásbíróság | 1 |
+
+| Kazincbarcikai Járásbíróság | 3 |
+
+| Mezőkövesdi Járásbíróság | 1 |
+
+| Miskolci Járásbíróság | 8 |
+
+| Ózdi Járásbíróság | 2 |
+
+| Sátoraljaújhelyi Járásbíróság | 1 |
+
+| Szerencsi Járásbíróság | 1 |
+
+| Szikszói Járásbíróság | 1 |
+
+| Tiszaújvárosi Járásbíróság | 1 |
+
+| Összesen: | 19 |
 
 | Encsi Járásbíróság | 1 |
 
@@ -160,7 +180,7 @@
 
 ## X.
 
-## Egri Törvényszék
+| Egri Törvényszék |  |
 
 | Egri Járásbíróság | 3 |
 
@@ -168,11 +188,11 @@
 
 | Gyöngyösi Járásbíróság | 2 |
 
-| Hatvani Járásbíróság | 2 |
+| Hatvani Járásbíróság | 1 |
 
 | Hevesi Járásbíróság | 1 |
 
-| Összesen: | 9 |
+| Összesen: | 8 |
 
 ## XI.
 
@@ -220,7 +240,7 @@
 
 ## XIV.
 
-## Budapest Környéki Törvényszék
+| Budapest Környéki Törvényszék |  |
 
 | Budakörnyéki Járásbíróság | 1 |
 
@@ -234,7 +254,7 @@
 
 | Érdi Járásbíróság | 1 |
 
-| Gödöllői Járásbíróság | 3 |
+| Gödöllői Járásbíróság | 2 |
 
 | Monori Járásbíróság | 2 |
 
@@ -250,39 +270,7 @@
 
 | Váci Járásbíróság | 1 |
 
-| Összesen: | 20 |
-
-## XIV.
-
-## Budapest Környéki Törvényszék
-
-| Budakörnyéki Járásbíróság | 1 |
-
-| Budaörsi Járásbíróság | 2 |
-
-| Ceglédi Járásbíróság | 1 |
-
-| Dabasi Járásbíróság | 2 |
-
-| Dunakeszi Járásbíróság | 2 |
-
-| Gödöllői Járásbíróság | 3 |
-
-| Monori Járásbíróság | 2 |
-
-| Nagykátai Járásbíróság | 1 |
-
-| Nagykőrösi Járásbíróság | 1 |
-
-| Ráckevei Járásbíróság | 1 |
-
-| Szentendrei Járásbíróság | 1 |
-
-| Szigetszentmiklósi Járásbíróság | 2 |
-
-| Váci Járásbíróság | 1 |
-
-| Összesen: | 20 |
+| Összesen: | 19 |
 
 ## XV.
 
@@ -380,6 +368,6 @@
 
 | Összesen: | 9 |
 
-2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^149]
+2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^152]
 
-[^149]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet a 21/2016. (X. 11.) IM rendelet 16. §-ával megállapított szöveg.
+[^152]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet a 21/2016. (X. 11.) IM rendelet 16. §-ával megállapított szöveg.
