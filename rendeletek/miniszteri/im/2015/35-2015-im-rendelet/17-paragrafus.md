@@ -1,5 +1,3 @@
-## 16. § Ha a végrehajtás meghatározott cselekmény teljesítésére irányul, teljesítés esetén a behajtási jutalék összege 25 000 forint.
-
 ## 6. A végrehajtói kézbesítés költsége
 
 17. § (1) A végrehajtót a kézbesítési eljárási cselekmény lefolytatásáért egyszeri 6000 forint munkadíj és 1500 forint költségátalány illeti meg a kézbesítési kísérletek számától függetlenül.

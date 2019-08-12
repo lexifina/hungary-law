@@ -2,4 +2,6 @@
 
 4. § (1) A bírósági végrehajtási ügyvitelről és pénzkezelésről szóló miniszteri rendelet pénzkezelésre vonatkozó rendelkezéseit a díjszabás során alkalmazni kell.
 
-(2) Ha az ügyviteli szabályok szerint több végrehajtási ügyet egyesítettek, ezek az egyesítés után a díjszabás alkalmazása szempontjából egy ügynek tekintendők.
+(2)[^2]
+
+[^2]: A 4. § (2) bekezdését a 18/2019. (VI. 28.) IM rendelet 48. § a) pontja hatályon kívül helyezte.
