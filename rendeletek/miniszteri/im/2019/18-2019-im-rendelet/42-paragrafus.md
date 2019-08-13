@@ -1,3 +1,3 @@
-## 41. § A Díjr. 8. alcím címe helyébe a következő alcím cím lép:
+## 41. §[^48]
 
-## „8. Az eljárás folyamán és az eljárás befejezésekor megfizetendő költség és díj”
+[^48]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

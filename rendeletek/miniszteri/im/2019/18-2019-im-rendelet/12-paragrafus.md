@@ -1,3 +1,3 @@
-## 11. § A Vüsz. 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 11. §[^12]
 
-## „(3) Az önálló bírósági végrehajtói minőséget a végrehajtói ügyszámban – a (2) bekezdésben foglalttól eltérően – közigazgatási végrehajtási ügyben [20. § (2) bekezdés c) pont] AV jelzéssel, zálogtárgy egyszerűsített végrehajtási értékesítésére irányuló ügyben [20. § (2) bekezdés d) pont] ZV jelzéssel, végrehajtói kézbesítési ügyben [20. § (2) bekezdés e) pont] KV jelzéssel, kézbesítési regisztrációs ügyben [20. § (2) bekezdés h) pont] RV jelzéssel, végrehajtói megkereséssel indult ügyben [20. § (2) bekezdés b) pont] MKV jelzéssel, bekapcsolódással indult ügyben [20. § (2) bekezdés i) pont] pedig BV jelzéssel kell feltüntetni. Az eltérő jelzésű ügytípusok esetében az ügy érkezés szerinti sorszámozása a végrehajtói ügyszámban ügytípusonként külön-külön, 1-gyel kezdődő arab számozással történik.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

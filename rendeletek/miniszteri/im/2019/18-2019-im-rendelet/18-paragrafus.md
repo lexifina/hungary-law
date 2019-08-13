@@ -1,3 +1,3 @@
-## 17. § A Vüsz. 29/A. § (10) bekezdése helyébe a következő rendelkezés lép:
+## 17. §[^18]
 
-## „(10) Az önálló bírósági végrehajtót helyettesítő állandó helyettes a saját végrehajtói tevékenységéhez rendszeresített, az állására kirendelt helyettes pedig helyettesi tevékenységéhez külön rendszeresített biztonsági papírt és szárazbélyegzőt használja az (1) bekezdés szerinti jegyzőkönyvek elkészítéséhez. A helyettes – ha az szolgálatba lépéséig nem történt meg – haladéktalanul gondoskodik a helyettesített önálló bírósági végrehajtó által használt biztonsági papír törzskönyv felügyelő szerv részére történő visszaszolgáltatásáról.”
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

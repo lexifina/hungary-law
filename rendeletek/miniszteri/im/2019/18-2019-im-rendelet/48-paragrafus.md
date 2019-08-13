@@ -1,9 +1,3 @@
-## lép.
+## 47. §[^54]
 
-## 48. § Hatályát veszti a Díjr.
-
-a) 4. § (2) bekezdése,
-
-b) 18. § (2) bekezdése,
-
-c) 28. § (3) és (4) bekezdése.
+[^54]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

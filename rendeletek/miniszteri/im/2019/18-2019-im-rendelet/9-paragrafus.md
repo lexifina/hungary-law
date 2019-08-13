@@ -1,3 +1,3 @@
-## 8. § A Vüsz. 7. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^9]
 
-## „(4) Ha a zár alá vétel végrehajtása érdekében nem maga intézkedik, az ügyészség vagy a nyomozó hatóság az általa elrendelt zár alá vétel végrehajtása érdekében a székhelye szerint illetékes törvényszéki végrehajtó részére küldi meg az ügyészség vagy a nyomozó hatóság által a zár alá vétel végrehajtása során keletkezett ügyiratokat.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,11 +1,3 @@
-## 6. § A bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet (a továbbiakban: Vüsz.) 1. § (2) bekezdés e)–g) pontja helyébe a következő rendelkezések lépnek:
+## 6. §[^7]
 
-## [Az önálló bírósági végrehajtó e rendelet szerint jár el]
-
-## „e) az adóbehajtási és a közigazgatási végrehajtási ügy,
-
-## f) kézbesítési regisztráció (Vht. 35/D. §) és
-
-## g) a végrehajtói megkeresés (Vht. 33. §)”
-
-## [intézése során is.]
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
