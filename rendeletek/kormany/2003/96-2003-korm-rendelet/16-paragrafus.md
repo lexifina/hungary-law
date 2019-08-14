@@ -26,7 +26,7 @@ h) közfinanszírozott egészségügyi szolgáltatónak a működési engedély�
 
 (5) Az egészségügyi államigazgatási szerv a tapasztalt közegészségügyi hiányosságok esetén saját hatáskörben intézkedik, és erről értesíti a működési engedélyt kiadó egészségügyi államigazgatási szervet. Egyéb hiányosság esetén intézkedést kezdeményez a működési engedélyt kiadó egészségügyi államigazgatási szervnél.
 
-(6)[^124] Amennyiben az egészségügyi államigazgatási szerv az ellenőrzése során az egészségügyi szakmai tevékenység minőségét érintő vagy minőségfejlesztést igénylő problémát, hiányosságot tár fel, arról haladéktalanul értesíti a szakmai minőségértékelést végző egészségügyért felelős minisztert.
+(6)[^124]
 
 (7)[^125] Az egészségügyi államigazgatási szerv szakértői kirendelése alapján az Egészségügyi Tudományos Tanács Humán Reprodukciós Bizottsága mint testület, szakértőként vesz részt a reprodukciós eljárások végzésére, illetve az ivarsejtek, őssejtek és embriók fagyasztva tárolására működési engedéllyel rendelkező egészségügyi szolgáltatók ellenőrzésében. Az Egészségügyi Tudományos Tanács Humán Reprodukciós Bizottságának elnöke által kijelölt bizottsági tag az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szakértőre vonatkozó rendelkezései szerint működik közre az ellenőrzésben.
 
@@ -36,6 +36,6 @@ h) közfinanszírozott egészségügyi szolgáltatónak a működési engedély�
 [^121]: A 16. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 35. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 57. § f) pontja szerint módosított szöveg.
 [^122]: A 16. § (3) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
 [^123]: A 16. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés f) pontja szerint módosított szöveg.
-[^124]: A 16. § (6) bekezdését a 136/2013. (V. 10.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 56. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^124]: A 16. § (6) bekezdését a 136/2013. (V. 10.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 190/2019. (VII. 30.) Korm. rendelet 1. §-a.
 [^125]: A 16. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 116. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^126]: A 16. § (8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 116. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
