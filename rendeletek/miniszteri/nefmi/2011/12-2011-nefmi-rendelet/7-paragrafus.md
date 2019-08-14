@@ -12,7 +12,7 @@
 
 (5) A tanács elnökét a tanács tagjai a tagok közül választják. Az elnök megbízatása négy évre szól. Egy személy egyidejűleg csak egy tanácsnak lehet a tagja.
 
-(6)[^27] A tanács évente legalább két alkalommal tart ülést saját munkatervének megfelelően, a tanács elnökének kezdeményezésére. A miniszter kezdeményezésére az ülést össze kell hívni. A tanács üléseire tanácskozási joggal meg kell hívni a szakmacsoport szerinti azonos nevű tagozat tagjait, a minisztérium kijelölt képviselőjét és az érintett szakterülettel foglalkozó állandó minőségügyi szakfőorvost, illetve minőségügyi szakterületi vezetőt, az országos tisztifőorvost vagy az általa megbízott személyt és az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet főigazgatója által kijelölt személyt.
+(6)[^27] A tanács évente legalább két alkalommal tart ülést saját munkatervének megfelelően, a tanács elnökének kezdeményezésére. A miniszter kezdeményezésére az ülést össze kell hívni. A tanács üléseire tanácskozási joggal meg kell hívni a szakmacsoport szerinti azonos nevű tagozat tagjait, a minisztérium kijelölt képviselőjét, az országos tisztifőorvost vagy az általa megbízott személyt és az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet főigazgatója által kijelölt személyt.
 
 (7) A tanácsok
 
@@ -34,7 +34,7 @@ f)[^31] a tagozat vezetőjének felkérésére javaslatot tesznek az osztályvez
 
 [^25]: A 7. § (4) bekezdése a 29/2016. (X. 3.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^26]: A 7. § (4a) bekezdését a 44/2014. (X. 27.) EMMI rendelet 6. §-a iktatta be, a 29/2016. (X. 3.) EMMI rendelet 3. §-a hatályon kívül helyezte.
-[^27]: A 7. § (6) bekezdése a 33/2013. (V. 10.) EMMI rendelet 27. § b) pontja, a 44/2014. (X. 27.) EMMI rendelet 8. § c) pontja, az 54/2015. (XI. 24.) EMMI rendelet 44. § e) pontja szerint módosított szöveg.
+[^27]: A 7. § (6) bekezdése a 33/2013. (V. 10.) EMMI rendelet 27. § b) pontja, a 44/2014. (X. 27.) EMMI rendelet 8. § c) pontja, az 54/2015. (XI. 24.) EMMI rendelet 44. § e) pontja, a 16/2019. (VII. 30.) EMMI rendelet 15. § b) pontja szerint módosított szöveg.
 [^28]: A 7. § (7) bekezdés a) pontja a 44/2014. (X. 27.) EMMI rendelet 9. § c) pontja szerint módosított szöveg.
 [^29]: A 7. § (7) bekezdés b) pontja az 54/2015. (XI. 24.) EMMI rendelet 44. § f) pont fa) alpontja szerint módosított szöveg.
 [^30]: A 7. § (7) bekezdés c) pontja az 54/2015. (XI. 24.) EMMI rendelet 44. § f) pont fb) alpontja szerint módosított szöveg.
