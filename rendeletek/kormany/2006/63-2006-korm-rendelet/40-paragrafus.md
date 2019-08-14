@@ -1,6 +1,6 @@
-40. §[^188] (1)[^189] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt járási hivatal a közgyógyellátásra jogosultak számára az (1a) bekezdés szerinti adattartalommal közgyógyellátási igazolványt (a továbbiakban: igazolvány) állít ki. A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt járási hivatal az igazolványt a jogosultság kezdő időpontjáig kézbesíti a jogosult részére.
+40. §[^189] (1)[^190] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt járási hivatal a közgyógyellátásra jogosultak számára az (1a) bekezdés szerinti adattartalommal közgyógyellátási igazolványt (a továbbiakban: igazolvány) állít ki. A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt járási hivatal az igazolványt a jogosultság kezdő időpontjáig kézbesíti a jogosult részére.
 
-(1a)[^190] A chip és mágnescsík nélküli, az ISO 7810 szabványnak megfelelő, ID-1 méretű, melegen laminált műanyag kártya formátumban kiállított igazolvány
+(1a)[^191] A chip és mágnescsík nélküli, az ISO 7810 szabványnak megfelelő, ID-1 méretű, melegen laminált műanyag kártya formátumban kiállított igazolvány
 
 a) első oldalán szereplő adat
 
@@ -32,15 +32,15 @@ bc) a műanyag kártya sorszáma,
 
 bd) a jogosult aláírásának helye.
 
-(2)[^191] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt járási hivatal havonta, a tárgyhónapot követő hónap 10. napjáig tájékoztatja a közgyógyellátásra való jogosultságot megállapító járási hivatalt a kiadott igazolványok sorszámáról.
+(2)[^192] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt járási hivatal havonta, a tárgyhónapot követő hónap 10. napjáig tájékoztatja a közgyógyellátásra való jogosultságot megállapító járási hivatalt a kiadott igazolványok sorszámáról.
 
-(3)[^192] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt járási hivatal az igazolvány kiadásával egyidejűleg a hatósági nyilvántartás vezetése céljából tájékoztatja a NEAK-ot a jogosultnak az Szt. 50/C. § (2) bekezdése szerinti adatairól.
+(3)[^193] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt járási hivatal az igazolvány kiadásával egyidejűleg a hatósági nyilvántartás vezetése céljából tájékoztatja a NEAK-ot a jogosultnak az Szt. 50/C. § (2) bekezdése szerinti adatairól.
 
-(4)[^193] A gyógyszerkeret év közbeni módosítása esetén új igazolvány kiadására nem kerül sor, az igazolvány hatályának lejártáig használható.
+(4)[^194] A gyógyszerkeret év közbeni módosítása esetén új igazolvány kiadására nem kerül sor, az igazolvány hatályának lejártáig használható.
 
-[^188]: A 40. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^189]: A 40. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (7) bekezdésével megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 9. pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § o) pontja szerint módosított szöveg.
-[^190]: A 40. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be.
-[^191]: A 40. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 74. § (6) bekezdésével megállapított szöveg.
-[^192]: A 40. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^193]: A 40. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^189]: A 40. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^190]: A 40. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (7) bekezdésével megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 9. pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § o) pontja szerint módosított szöveg.
+[^191]: A 40. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be.
+[^192]: A 40. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 74. § (6) bekezdésével megállapított szöveg.
+[^193]: A 40. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^194]: A 40. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
