@@ -1,4 +1,4 @@
-## 5. §[^3]
+## 5. §[^6]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 3. § e) pontja és a 4–5. § 2019. november 1-jén lép hatályba.
 
-[^3]: Az 5. § a 6. § (2) bekezdése alapján 2019. november 1-jén lép hatályba.
+[^6]: Az 5. § a 6. § (2) bekezdése alapján 2019. november 1-jén lép hatályba.
