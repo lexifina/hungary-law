@@ -90,6 +90,6 @@
 
 ## Minden tényező forintban kifejezve.
 
-2. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^31]
+2. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^33]
 
-[^31]: A 2. melléklet a 11/2018. (XII. 12.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^33]: A 2. melléklet a 11/2018. (XII. 12.) MEKH rendelet 1. §-ával megállapított szöveg.

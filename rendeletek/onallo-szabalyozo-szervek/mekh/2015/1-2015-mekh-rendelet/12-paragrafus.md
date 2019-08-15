@@ -6,9 +6,9 @@
 
 (2) E rendeletet az engedélyesek közötti kereskedelmi üzem megindulásától kell alkalmazni.
 
-(3)[^28] A (2) bekezdés szerinti időpont hónapja tekintetében a felek között elszámolásnak van helye oly módon, hogy a hónap hátralévő részére a 8. § szerint megállapított előzetes havi kiegyenlítő fizetést kell alkalmazni.
+(3)[^29] A (2) bekezdés szerinti időpont hónapja tekintetében a felek között elszámolásnak van helye oly módon, hogy a hónap hátralévő részére a 8. § szerint megállapított előzetes havi kiegyenlítő fizetést kell alkalmazni.
 
-(4)[^29]
+(4)[^30]
 
-[^28]: A 12. § (3) bekezdése a 4/2015. (VII. 27.) MEKH rendelet 8. §-ával megállapított szöveg.
-[^29]: A 12. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 12. § (3) bekezdése a 4/2015. (VII. 27.) MEKH rendelet 8. §-ával megállapított szöveg.
+[^30]: A 12. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
