@@ -820,11 +820,11 @@ VII. FEJEZET
 
 57. Közösség Szolgálatáért díj
 
-57.1. A díj annak adományozható, aki a minisztérium kormánytisztviselőjeként, kormányzati ügykezelőjeként tartósan kiemelkedő színvonalú jogszabály-előkészítési, ágazati szakmai, funkcionális, vagy a minisztérium alapfeladatához kötődő egyéb érdemi tevékenységet végez, és munkája, közszolgálati pályafutása mások számára példaértékű.
+57.1.[^86] A díj annak adományozható, aki a minisztériumnál kormánytisztviselőként tartósan kiemelkedő színvonalú jogszabály-előkészítési, ágazati szakmai, funkcionális, vagy a minisztérium alapfeladatához kötődő egyéb érdemi tevékenységet végez, és munkája, közszolgálati pályafutása mások számára példaértékű.
 
 57.2. A díj évente három személy részére adományozható.
 
-57.3.[^86] A díj átadására augusztus 20-a alkalmából kerül sor.
+57.3.[^87] A díj átadására augusztus 20-a alkalmából kerül sor.
 
 57.4. A díjazott az adományozást igazoló oklevelet kap.
 
@@ -884,4 +884,5 @@ VII. FEJEZET
 [^83]: Az 1. melléklet V. fejezet 53/A. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be.
 [^84]: Az 1. melléklet V. fejezet 53/B. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be, hatályon kívül helyezte a 25/2019. (VI. 18.) BM rendelet 2. § b) pontja.
 [^85]: Az 1. melléklet VI. fejezetét (54–56/A. pont) a 6/2018. (XII. 21.) TNM rendelet 15. § d) pontja hatályon kívül helyezte.
-[^86]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^86]: Az 1. melléklet VII. fejezet 57. pont 57.1. alpontja a 18/2019. (VIII. 14.) EMMI rendelet 7. §-a szerint módosított szöveg.
+[^87]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.

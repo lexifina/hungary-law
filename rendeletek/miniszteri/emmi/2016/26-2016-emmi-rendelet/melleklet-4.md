@@ -1,4 +1,4 @@
-4. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^89]
+4. melléklet a 26/2016. (IX. 8.) EMMI rendelethez[^90]
 
 Nyilatkozat
 
@@ -122,4 +122,4 @@ elismerésre jelölt aláírása**
 
 ** Hivatalos/jogi képviselő, ügyvezető, meghatalmazott stb., munkacsoport, munkaközösség esetén elfogadható a tagok felkérése vagy munkáltatói igazolás is.
 
-[^89]: A 4. melléklet a 3/2017. (III. 7.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^90]: A 4. melléklet a 3/2017. (III. 7.) EMMI rendelet 5. §-ával megállapított szöveg.
