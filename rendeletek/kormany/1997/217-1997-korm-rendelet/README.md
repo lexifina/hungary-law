@@ -56,3 +56,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-217-20-
 | 2019-05-07 | 1997-217-20-22.134 | 157/2015. (VI. 25.) Korm. rendelet |
 | 2019-07-01 | 1997-217-20-22.135 | 147/2019. (VI. 25.) Korm. rendelet |
 | 2019-08-01 | 1997-217-20-22.136 | 194/2019. (VII. 30.) Korm. rendelet |
+| 2019-08-15 | 1997-217-20-22.137 | 194/2019. (VII. 30.) Korm. rendelet |

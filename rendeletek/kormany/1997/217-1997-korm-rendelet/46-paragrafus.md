@@ -1,3 +1,3 @@
-46. §[^583] A baleseti táppénz folyósítása egy éven túl az orvosszakértői szerv szakvéleménye alapján hosszabbítható meg.
+46. §[^584] A baleseti táppénz folyósítása egy éven túl az orvosszakértői szerv szakvéleménye alapján hosszabbítható meg.
 
-[^583]: A Vhr. 46. §-a 332/2010. (XII. 27.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^584]: A Vhr. 46. §-a 332/2010. (XII. 27.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
