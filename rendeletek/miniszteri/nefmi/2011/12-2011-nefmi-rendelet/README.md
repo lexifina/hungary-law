@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-12-20-2
 | 2018-01-01 | 2011-12-20-2V.11 | 38/2017. (XII. 29.) EMMI rendelet |
 | 2019-01-01 | 2011-12-20-2V.12 | 47/2018. (XII. 21.) EMMI rendelet |
 | 2019-08-14 | 2011-12-20-2V.13 | 33/2013. (V. 10.) EMMI rendelet |
+| 2019-08-15 | 2011-12-20-2V.14 | 28/2016. (IX. 29.) EMMI rendelet |

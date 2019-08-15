@@ -6,7 +6,7 @@ a) a kamara etikai kódexében rögzített etikai vétséget követ el, és azt 
 
 b) büntetett előéletű vagy foglalkozástól eltiltás hatálya alatt áll.
 
-(2)[^33] Összeférhetetlen a szakmai kollégiumi elnöki és alelnöki tisztséggel, ha a tag kormánytisztviselő, állami tisztviselő vagy egészségügyi szakmai köztestület elnöke.
+(2)[^33] Összeférhetetlen a szakmai kollégiumi elnöki és alelnöki tisztséggel, ha a tag kormánytisztviselő vagy egészségügyi szakmai köztestület elnöke.
 
 (3) Ha a tagnál összeférhetetlenséget megvalósító körülmény vagy tagságot kizáró ok áll elő, akkor ezt a tényt írásban 15 napon belül köteles bejelenteni, és az összeférhetetlenségi okot megszüntetni vagy a tagságáról lemondani. A bejelentést szakmai kollégium tisztségviselője esetén a miniszter részére, tagozat tagja esetén a szakmai kollégium elnöke részére, tanács tagja esetén a tagozat vezetője és a tanács elnöke részére kell megküldeni.
 
@@ -37,6 +37,6 @@ d) a tag halálával.
 (9)[^35] Amennyiben a tag az adott naptári évben az ülések több mint felén nem vesz részt, vagy az adatvédelemre vonatkozó szabályokat súlyosan és szándékosan megszegi, a tagság megszüntetését az elnök kezdeményezi a miniszternél.
 
 [^32]: A 8. § (1) bekezdés nyitó szövegrésze az 54/2015. (XI. 24.) EMMI rendelet 44. § g) pontja szerint módosított szöveg.
-[^33]: A 8. § (2) bekezdése a 28/2016. (IX. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^33]: A 8. § (2) bekezdése a 28/2016. (IX. 29.) EMMI rendelet 8. §-ával megállapított, a 18/2019. (VIII. 14.) EMMI rendelet 2. §-a szerint módosított szöveg.
 [^34]: A 8. § (3a) bekezdését az 54/2015. (XI. 24.) EMMI rendelet 41. §-a iktatta be.
 [^35]: A 8. § (9) bekezdés az 54/2015. (XI. 24.) EMMI rendelet 44. § h) pontja szerint módosított szöveg.
