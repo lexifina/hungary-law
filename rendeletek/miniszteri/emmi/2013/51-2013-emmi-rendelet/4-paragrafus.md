@@ -20,10 +20,11 @@ a) az egészségügyi szolgáltató nevét, székhelyét, a bejelentéssel érin
 
 b) a kockázatnak kitett munkavállalók számát;
 
-c) a kockázatnak kitett munkavállalók foglalkozási csoportjai (FEOR kód) és a munkaköri tevékenységek felsorolását;
+c)[^3] a kockázatnak kitett munkavállalók foglalkozási csoportjai (FEOR kód) és a a munkaköri tevékenységek, álláshelyen ellátott feladatok felsorolását;
 
 d) a munkavállalók biztonsági és egészségvédelmi képviselőjének nevét, beosztását, és
 
 e) a megtett megelőző intézkedéseket.
 
 [^2]: A 4. § (4) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 152. §-a, az 54/2016. (XII. 30.) EMMI rendelet 92. §-a szerint módosított szöveg.
+[^3]: A 4. § (4) bekezdés c) pontja a 18/2019. (VIII. 14.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
