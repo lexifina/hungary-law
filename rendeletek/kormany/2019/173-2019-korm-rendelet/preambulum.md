@@ -1,0 +1,1 @@
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 19. alpontjában, valamint a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

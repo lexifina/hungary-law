@@ -1,0 +1,1 @@
+## 2. § A motorokra vonatkozó EU-típusbizonyítványt a közlekedési hatóság a Rendeletben meghatározott szabályok szerinti EU-típusjóváhagyási eljárás keretében adja ki az általános közigazgatási rendtartásról szóló törvény előírásai szerint az e rendeletben meghatározott kiegészítő eljárási rendelkezések alkalmazásával.
