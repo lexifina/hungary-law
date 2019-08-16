@@ -10,7 +10,7 @@ b)[^9] a (2a) bekezdésben foglalt ügyekben a közlekedési hatósági ügyeké
 
 c) a (3) bekezdés szerinti ügyekben elsőfokon országos illetékességgel Budapest Főváros Kormányhivatalát, másodfokon – ha a fellebbezést törvény lehetővé teszi – a minisztert,
 
-d)[^10] a (4) bekezdés szerinti ügyekben elsőfokon a megyeszékhely szerinti járási (fővárosi kerületi) hivatalt, Pest megyében a Pest Megyei Kormányhivatal Érdi Járási Hivatalát, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatalát – összeférhetetlenség esetén a fővárosi és megyei kormányhivatal által kérelemre kijelölt járási (fővárosi kerületi) hivatalt –, másodfokon – ha a fellebbezést törvény lehetővé teszi – a fővárosi és megyei kormányhivatalt
+d)[^10] a (4) bekezdés szerinti ügyekben elsőfokon a megyeszékhely szerinti járási hivatalt, Pest megyében a Pest Megyei Kormányhivatal Érdi Járási Hivatalát, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatalát – összeférhetetlenség esetén a fővárosi és megyei kormányhivatal által kérelemre kijelölt járási (fővárosi kerületi) hivatalt –, másodfokon – ha a fellebbezést törvény lehetővé teszi – a fővárosi és megyei kormányhivatalt
 
 ## jelöli ki.
 
@@ -136,7 +136,7 @@ f)[^24]
 
 ## során.
 
-(4)[^27] Közúti gépjármű-közlekedési hatóságként a megyeszékhely szerinti járási (fővárosi kerületi) hivatal, Pest megyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala jár el
+(4)[^27] Közúti gépjármű-közlekedési hatóságként a megyeszékhely szerinti járási hivatal, Pest megyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala jár el
 
 1. a Kkt. szerinti vizsgáló állomási tevékenység engedélyezésével kapcsolatos hatáskör gyakorlása, a vizsgáló állomással a hatósági szerződés megkötése, a vizsgáló állomások és a műszaki vizsgabiztosok tevékenységének ellenőrzése, az ellenőrzés alapján a jogkövetkezmények alkalmazása, továbbá a hatóság által üzemeltetett, valamint az illetékességi területén hatósági szerződéssel rendelkező vizsgáló állomáson – a jármű tulajdonosára egyébként irányadó illetékességi szabálytól függetlenül – a közlekedési hatóság telephelyén végzett egyedi forgalomba helyezés engedélyezése, jármű-honosítási eljárás, a bármely telephelyen végzett forgalomba helyezés előtti és időszakos vizsgálat végzése, valamint a vizsgáló állomás és a járműfenntartó szervezetek tekintetében a Szolgtv. szerinti szolgáltatás felügyelete;
 
@@ -198,19 +198,21 @@ b)[^32] a tachográf beépítését, vizsgálatát, javítását és illesztés�
 
 27. a közlekedési hatóság hatáskörébe utalt bejelentésekkel, engedélyezéssel, okmányokkal, nyilvántartással kapcsolatos – máshol nem szabályozott – hatáskörök gyakorlása;
 
-28.[^33] a muzeális minősítő bizottságok tevékenységével kapcsolatos közlekedési hatósági feladatok ellátása
+28.[^33] a muzeális minősítő bizottságok tevékenységével kapcsolatos közlekedési hatósági feladatok ellátása;
+
+29.[^34] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendeletben meghatározott piacfelügyeleti ellenőrzés végzése és ezzel összefüggésben a jogkövetkezmények – ideértve különösen a bírságolási eljárás lefolytatását – alkalmazása
 
 ## során.
 
 (5) A miniszter gondoskodik az utánképzés foglalkozásvezetők képzésének évente egy alkalommal történő megszervezéséről, a képzés rendszerének – különös tekintettel a tantervekre, tantárgyakra, tantervi óraszámra, az elméleti és gyakorlati vizsgakövetelményekre, vizsgafeladatokra és vizsgahelyszínekre – kialakításáról és nyilvántartást vezet az utánképzés foglalkozásvezetőkről.
 
-(6)[^34] A (2a) bekezdés d) pontja alapján a közúti árufuvarozás és a személyszállítási tevékenység Kormány által meghatározott célzott ellenőrzése során a (2a) bekezdésben kijelölt közúti gépjármű-közlekedési hatóság a jogszabályban meghatározott ellenőrzési feladatai ellátása során kormánytisztviselőként középfokú iskolai végzettségű személyt is alkalmazhat.
+(6)[^35] A (2a) bekezdés d) pontja alapján a közúti árufuvarozás és a személyszállítási tevékenység Kormány által meghatározott célzott ellenőrzése során a (2a) bekezdésben kijelölt közúti gépjármű-közlekedési hatóság a jogszabályban meghatározott ellenőrzési feladatai ellátása során kormánytisztviselőként középfokú iskolai végzettségű személyt is alkalmazhat.
 
-(7)[^35] A (2a) bekezdésben kijelölt közúti gépjármű-közlekedési hatóság a (2a) bekezdés d) pontjában meghatározott feladatával összefüggésben jogosult a Kkt. 20. § (1) bekezdésében és 33/A. § (1) bekezdésében foglaltak – közlekedési hatósági hatáskörbe utalt – ellenőrzésére, továbbá közúti és telephelyi ellenőrzést végezni országos illetékességgel, az ellenőrzés eredményeként jogosult a jogszabályban meghatározott jogkövetkezményeket alkalmazni.
+(7)[^36] A (2a) bekezdésben kijelölt közúti gépjármű-közlekedési hatóság a (2a) bekezdés d) pontjában meghatározott feladatával összefüggésben jogosult a Kkt. 20. § (1) bekezdésében és 33/A. § (1) bekezdésében foglaltak – közlekedési hatósági hatáskörbe utalt – ellenőrzésére, továbbá közúti és telephelyi ellenőrzést végezni országos illetékességgel, az ellenőrzés eredményeként jogosult a jogszabályban meghatározott jogkövetkezményeket alkalmazni.
 
-(7a)[^36] A Kkt. 21/K. §-a szerinti Nemzeti Tengelysúlymérő Rendszer által támogatott közúti ellenőrzés során a (4) bekezdésben kijelölt, a helyszíni intézkedés helye szerint illetékes közúti gépjármű-közlekedési hatóság a Kkt. 20. § (1) bekezdése és 33/A. § (1) bekezdése által a hatáskörébe utalt ellenőrzésre, és az ellenőrzés eredményeként a jogszabályban meghatározott jogkövetkezmények alkalmazására a jogsértés elkövetésének helyére tekintet nélkül jogosult.
+(7a)[^37] A Kkt. 21/K. §-a szerinti Nemzeti Tengelysúlymérő Rendszer által támogatott közúti ellenőrzés során a (4) bekezdésben kijelölt, a helyszíni intézkedés helye szerint illetékes közúti gépjármű-közlekedési hatóság a Kkt. 20. § (1) bekezdése és 33/A. § (1) bekezdése által a hatáskörébe utalt ellenőrzésre, és az ellenőrzés eredményeként a jogszabályban meghatározott jogkövetkezmények alkalmazására a jogsértés elkövetésének helyére tekintet nélkül jogosult.
 
-(8)[^37] A 4. § (2a) bekezdés b) és d) pontjában meghatározott feladattal összefüggésben a másodfokú hatósági jogkört – ha a fellebbezést törvény lehetővé teszi – a miniszter gyakorolja.
+(8)[^38] A 4. § (2a) bekezdés b) és d) pontjában meghatározott feladattal összefüggésben a másodfokú hatósági jogkört – ha a fellebbezést törvény lehetővé teszi – a miniszter gyakorolja.
 
 (9) Közlekedési hatóságként első fokon Budapest Főváros Kormányhivatala jár el a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU európai parlamenti és tanácsi rendeletben továbbá a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és piacfelügyeletéről szóló 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendeletben meghatározott
 
@@ -232,14 +234,14 @@ c) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötöt
 
 (11) A központi közlekedési közigazgatási bírságnyilvántartás üzemeltetésével, működtetésével, fejlesztésével kapcsolatos feladatokat, valamint a központi közlekedési közigazgatási bírságnyilvántartás vezetésével kapcsolatos feladatokat a miniszter látja el a bírságolásra hatáskörrel rendelkező szervek adatszolgáltatása alapján.
 
-(12)[^38] A (3) és (4) bekezdésben meghatározott közlekedési hatóság az általa folytatott eljárásokkal kapcsolatban a (2) és a (2a) bekezdésben meghatározott hatóság országos nyilvántartásához vagy szakmai irányítási feladataihoz szükséges adatszolgáltatásra köteles.
+(12)[^39] A (3) és (4) bekezdésben meghatározott közlekedési hatóság az általa folytatott eljárásokkal kapcsolatban a (2) és a (2a) bekezdésben meghatározott hatóság országos nyilvántartásához vagy szakmai irányítási feladataihoz szükséges adatszolgáltatásra köteles.
 
-(13)[^39] A közúti járművezetők pályaalkalmassági vizsgálatához kapcsolódó közlekedéspszichológiai igazságügyi szakértői vizsgálatokat a Kkt. 18. § (8) bekezdése alapján kijelölt szervezet végzi.
+(13)[^40] A közúti járművezetők pályaalkalmassági vizsgálatához kapcsolódó közlekedéspszichológiai igazságügyi szakértői vizsgálatokat a Kkt. 18. § (8) bekezdése alapján kijelölt szervezet végzi.
 
 [^7]: A 4. § (1) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^8]: A 4. § (1) bekezdés a) pontja a 233/2017. (VIII. 14.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^9]: A 4. § (1) bekezdés b) pontja a 233/2017. (VIII. 14.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^10]: A 4. § (1) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés d) pontja a 174/2019. (VII. 16.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^11]: A 4. § (2) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított, nyitó szövegrésze a 233/2017. (VIII. 14.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^12]: A 4. § (2) bekezdés 9. pontja a 285/2018. (XII. 21.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^13]: A 4. § (2) bekezdés 10. pontja a 285/2018. (XII. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
@@ -256,16 +258,17 @@ c) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötöt
 [^24]: A 4. § (2a) bekezdés f) pontját az 516/2017. (XII. 29.) Korm. rendelet 38. § (2) bekezdése iktatta be, a 285/2018. (XII. 21.) Korm. rendelet 9. § (2) bekezdés c) pontja hatályon kívül helyezte.
 [^25]: A 4. § (3) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^26]: A 4. § (3) bekezdés 2. pontja a 27/2018. (II. 28.) Korm. rendelet 76. §-a szerint módosított szöveg.
-[^27]: A 4. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított, nyitó szövegrésze a 20/2017. (II. 2.) Korm. rendelet 16. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 4. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 22. § (1) bekezdésével megállapított, nyitó szövegrésze a 174/2019. (VII. 16.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^28]: A 4. § (4) bekezdés 4. pontja a 289/2018. (XII. 21.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
 [^29]: A 4. § (4) bekezdés 5. pontját a 285/2018. (XII. 21.) Korm. rendelet 9. § (2) bekezdés d) pontja hatályon kívül helyezte.
 [^30]: A 4. § (4) bekezdés 8. pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^31]: A 4. § (4) bekezdés 10. pontja a 20/2017. (II. 2.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
 [^32]: A 4. § (4) bekezdés 10. pont b) alpontja a 289/2018. (XII. 21.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.
 [^33]: A 4. § (4) bekezdés 28. pontját az 52/2017. (III. 20.) Korm. rendelet 12. §-a iktatta be.
-[^34]: A 4. § (6) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (1) és (3) bekezdése szerint módosított szöveg.
-[^35]: A 4. § (7) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (2)–(3) bekezdése szerint módosított szöveg.
-[^36]: A 4. § (7a) bekezdését a 233/2017. (VIII. 14.) Korm. rendelet 14. § (4) bekezdése iktatta be.
-[^37]: A 4. § (8) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 38. § (3) bekezdésével megállapított, a 285/2018. (XII. 21.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^38]: A 4. § (12) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
-[^39]: A 4. § (13) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^34]: A 4. § (4) bekezdés 29. pontját a 174/2019. (VII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^35]: A 4. § (6) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (1) és (3) bekezdése szerint módosított szöveg.
+[^36]: A 4. § (7) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (2)–(3) bekezdése szerint módosított szöveg.
+[^37]: A 4. § (7a) bekezdését a 233/2017. (VIII. 14.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^38]: A 4. § (8) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 38. § (3) bekezdésével megállapított, a 285/2018. (XII. 21.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^39]: A 4. § (12) bekezdése a 292/2017. (X. 5.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^40]: A 4. § (13) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
