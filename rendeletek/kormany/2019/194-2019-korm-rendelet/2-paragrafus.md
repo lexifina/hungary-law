@@ -1,3 +1,3 @@
-## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Korm. rendelet) 12/A. §-a a következő (6c) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(6c) Ha az új EU-Kártya igénylésének időpontjában az érvényes jogviszonnyal rendelkező biztosított birtokában még érvényes EU-Kártya van, az érvényességi idő lejártát megelőző harminc napon belül – a korábban kiadott EU-Kártya érvénytelenítésével és leadásával egyidejűleg – új EU-Kártya kiadása kezdeményezhető. Az új EU-Kártya érvényességi idejének kezdete az új EU-Kártya kiállításának napja.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
