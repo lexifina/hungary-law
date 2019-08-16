@@ -30,6 +30,8 @@ d) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás 
 
 e) az ózonréteget lebontó anyagokról szóló, 2009. szeptember 16-i 1005/2009/EK európai parlamenti és tanácsi rendelet 26. cikkének
 
+f)[^114] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet
+
 [^107]: A 43. § a 378/2013. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^108]: A 43. § (1) bekezdés a)–b) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
 [^109]: A 43. § (1) bekezdés c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (3) bekezdése hatályon kívül helyezte.
@@ -37,3 +39,4 @@ e) az ózonréteget lebontó anyagokról szóló, 2009. szeptember 16-i 1005/200
 [^111]: A 43. § (1) bekezdés g) pontja a 158/2017. (VI. 16.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^112]: A 43. § (1) bekezdés i) pontját a 158/2017. (VI. 16.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^113]: A 43. § (2) bekezdés b)–c) pontját a 378/2013. (X. 25.) Korm. rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^114]: A 43. § (2) bekezdés f) pontját a 174/2019. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
