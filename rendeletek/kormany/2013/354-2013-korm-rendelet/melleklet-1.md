@@ -1,4 +1,4 @@
-## 29. §[^20]
+## 29. §[^21]
 
 1. melléklet a 354/2013. (X. 7.) Korm. rendelethez
 
@@ -30,4 +30,4 @@ g) rögzített legalacsonyabb és/vagy legmagasabb díjtétel, amelynek a szolg�
 
 h) a szolgáltató azon kötelezettsége, hogy szolgáltatásával együtt egyéb meghatározott szolgáltatásokat is nyújtson.
 
-[^20]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

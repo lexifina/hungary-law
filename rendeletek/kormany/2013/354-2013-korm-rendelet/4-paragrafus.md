@@ -4,6 +4,6 @@ a) hatóság: a Szolgtv. 40. § (1) bekezdésével és a belső piaci informáci
 
 b) riasztás: a Szolgtv. 47. §-a szerinti értesítés.
 
-c)[^9] uniós szerv, hivatal és ügynökség: az IMI rendelet 5. cikk g) pontja szerinti IMI-szereplő, amelyet az IMI-rendszerben regisztráltak.
+c)[^10] uniós szerv, hivatal és ügynökség: az IMI rendelet 5. cikk g) pontja szerinti IMI-szereplő, amelyet az IMI-rendszerben regisztráltak.
 
-[^9]: A 4. § c) pontját a 269/2018. (XII. 20.) Korm. rendelet 10. §-a iktatta be.
+[^10]: A 4. § c) pontját a 269/2018. (XII. 20.) Korm. rendelet 10. §-a iktatta be.

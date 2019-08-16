@@ -6,7 +6,7 @@
 
 a) gondoskodik az IMI-rendszerben a rá mint hatóságra és felhasználóira vonatkozóan regisztrált adatok naprakészen tartásáról, ellenőrzi az IMI-rendszer alkalmazását szervezetén belül,
 
-b)[^14] együttműködik az IMI-koordinátorokkal, az uniós szervekkel, hivatalokkal, ügynökségekkel és az Európai Bizottsággal az IMI-rendszer megfelelő működése érdekében, ennek keretében részükre az IMI-rendszer alkalmazásáról – az általuk igényeltek szerint, a szükséges körben – adatot szolgáltat, és jelez bármilyen, az IMI-rendszer alkalmazásával összefüggésben felmerült problémát,
+b)[^15] együttműködik az IMI-koordinátorokkal, az uniós szervekkel, hivatalokkal, ügynökségekkel és az Európai Bizottsággal az IMI-rendszer megfelelő működése érdekében, ennek keretében részükre az IMI-rendszer alkalmazásáról – az általuk igényeltek szerint, a szükséges körben – adatot szolgáltat, és jelez bármilyen, az IMI-rendszer alkalmazásával összefüggésben felmerült problémát,
 
 c) rögzíti a Szolgtv. 42. § (4) bekezdése szerinti nyilvántartásokat, azok általános tartalmát és elektronikus elérhetőségét az IMI-rendszerben, továbbá
 
@@ -16,4 +16,4 @@ d) naprakészen tartja az általa vezetett nyilvántartásokat.
 
 Az IMI-koordinátorok és a hatóságok regisztrációja
 
-[^14]: A 9. § (1) bekezdés b) pontja a 269/2018. (XII. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^15]: A 9. § (1) bekezdés b) pontja a 269/2018. (XII. 20.) Korm. rendelet 14. §-ával megállapított szöveg.

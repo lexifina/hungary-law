@@ -1,4 +1,4 @@
-## 28. §[^19] Ez a rendelet
+## 28. §[^20] Ez a rendelet
 
 a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK irányelvnek és
 
@@ -8,4 +8,4 @@ c) a belső piaci információs rendszer keretében történő igazgatási együ
 
 d) az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i (EU) 2018/1724 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^19]: A 28. § a 269/2018. (XII. 20.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^20]: A 28. § a 269/2018. (XII. 20.) Korm. rendelet 15. §-ával megállapított szöveg.

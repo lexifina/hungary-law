@@ -12,7 +12,7 @@ d) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érv�
 
 e)[^3] a tagállamok területéről jogellenesen kivitt kulturális javak visszaszolgáltatásáról és az 1024/2012/EU rendelet módosításáról szóló 2014. május 15-i 2014/60/EU európai parlamenti és tanácsi irányelv 5. cikkében és 7. cikkében meghatározott feladatok ellátására,
 
-f)[^4] a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, az Európai Parlament és a Tanács 1996. december 16-i 96/71/EK irányelve 4. cikkében foglalt feladatok végrehajtására, továbbá
+f)[^4] a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, az Európai Parlament és a Tanács 1996. december 16-i 96/71/EK irányelve 4. cikkében foglalt feladatok végrehajtására,
 
 g)[^5] a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, az Európai Parlament és a Tanács 2014. május 15-i 2014/67/EU irányelve 6. cikkében, 7. cikkében, 10. cikk (3) bekezdésében és a 14–18. cikkében meghatározott feladatok végrehajtására,
 
@@ -20,13 +20,16 @@ h)[^6] az egyes közokiratoknak az Európai Unión belüli bemutatására vonatk
 
 i)[^7] a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet 56. cikkében, 60–66. cikkében és 70. cikk (1) bekezdésében foglalt feladatok végrehajtására,
 
-j)[^8] az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i (EU) 2018/1724 európai parlamenti és tanácsi rendelet 6. cikk (4) bekezdésében, 15. és 19. cikkében foglalt feladatok végrehajtására.
+j)[^8] az információkhoz, eljárásokhoz, valamint segítségnyújtó és problémamegoldó szolgáltatásokhoz hozzáférést biztosító egységes digitális kapu létrehozásáról, továbbá az 1024/2012/EU rendelet módosításáról szóló, 2018. október 2-i (EU) 2018/1724 európai parlamenti és tanácsi rendelet 6. cikk (4) bekezdésében, 15. és 19. cikkében foglalt feladatok végrehajtására,
+
+k)[^9] a nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendeletben meghatározott feladatok végrehajtására.
 
 [^1]: A 2. § a 269/2018. (XII. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^2]: A 3. § b) pontja a 198/2015. (VII. 23.) Korm. rendelet 6. ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
 [^3]: A 3. § e) pontját a 335/2015. (XI. 10.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A 3. § f) pontját a 335/2016. (XI. 11.) Korm. rendelet 3. §-a iktatta be.
+[^4]: A 3. § f) pontját a 335/2016. (XI. 11.) Korm. rendelet 3. §-a iktatta be, szövege a 174/2019. (VII. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § g) pontját a 335/2016. (XI. 11.) Korm. rendelet 3. §-a iktatta be.
 [^6]: A 3. § h) pontját a 269/2018. (XII. 20.) Korm. rendelet 9. §-a iktatta be.
 [^7]: A 3. § i) pontját a 269/2018. (XII. 20.) Korm. rendelet 9. §-a iktatta be.
 [^8]: A 3. § j) pontját a 269/2018. (XII. 20.) Korm. rendelet 9. §-a iktatta be.
+[^9]: A 3. § k) pontját a 174/2019. (VII. 16.) Korm. rendelet 3. § (2) bekezdése iktatta be.
