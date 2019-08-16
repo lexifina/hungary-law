@@ -1,4 +1,4 @@
-## 9. §[^3]
+## 9. §[^9]
 
 ## 7. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 8. és a 9. § 2020. február 15-én lép hatályba.
 
-[^3]: A 9. § a 10. § (3) bekezdése alapján 2020. február 15-én lép hatályba.
+[^9]: A 9. § a 10. § (3) bekezdése alapján 2020. február 15-én lép hatályba.
