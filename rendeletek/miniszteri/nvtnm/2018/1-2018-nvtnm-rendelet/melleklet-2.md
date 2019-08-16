@@ -18,7 +18,7 @@
 
 | 6. | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2022. december 31. |
 
-| 7. |  |  |  |
+| 7. | Városliget Ingatlanfejlesztő Zártkörűen Működő Részvénytársaság | 01-10-047989 | 2022. december 31. |
 
 | 8. | MAHART-Szabadkikötő Zártkörűen Működő Részvénytársaság | 01-10-045276 | 2022. december 31. |
 
@@ -220,6 +220,10 @@
 
 | 14. | Nyugat-Balkáni Zöld Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-343437 | 2022. december 31. |
 
+| 15. | Molekuláris-Ujjlenyomat Kutató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-344208 | 2022. december 31. |
+
+| 16. | ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 06-09-015211 | 2024. december 31. |
+
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
 |  | A | B | C |
@@ -298,4 +302,4 @@
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a, a 11/2019. (VIII. 15.) NVTNM rendelet 2. §-a szerint módosított szöveg.

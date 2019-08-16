@@ -1,14 +1,6 @@
 ## Tulajdonosi jogokat gyakorló költségvetési szervek
 
-## I. Tulajdonosi joggyakorló: a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. |  |  |  |
-
-| 2. | ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 06-09-015211 | 2024. december 31. |
+## I.
 
 ## II. Tulajdonosi joggyakorló: a Szociális és Gyermekvédelmi Főigazgatóság
 
