@@ -119,3 +119,7 @@ A kormányablakban azonnal intézhető ügyek
 58. A biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személyek esetében az Európai Egészségbiztosítási Kártya kiállítása iránti kérelem
 
 59. A biztosított, illetve egészségügyi szolgáltatásra jogosult belföldi személyek esetében Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlatának kiadása iránti kérelem
+
+60.[^3] A személyazonosító igazolvány tároló elemén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 5. § (1) bekezdése szerinti szolgáltatásazonosító rögzítése
+
+[^3]: Az 5. melléklet 60. pontját a 176/2019. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
