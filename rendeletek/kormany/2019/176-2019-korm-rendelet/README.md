@@ -1,0 +1,9 @@
+# 176/2019. (VII. 18.) Korm. rendelet
+
+az egyes ügyintézési folyamatok egyszerűsítéséről szóló törvény végrehajtásához kapcsolódó kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-176-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-08-17 | 2019-176-20-22.1 | 176/2019. (VII. 18.) Korm. rendelet |
