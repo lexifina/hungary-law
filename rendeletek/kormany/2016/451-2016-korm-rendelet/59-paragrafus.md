@@ -6,9 +6,9 @@
 
 59. § (1) A SZEÜSZ, illetve KEÜSZ szolgáltató (a IV. és V. Fejezet alkalmazásában a továbbiakban együtt: szolgáltató) e szolgáltatásának nyújtása során köteles teljesíteni az e Fejezetben meghatározott követelményeket.
 
-(1a)[^23] A szolgáltató az együttműködő szerv szolgáltatás igénybevételére irányuló kérelmét (a továbbiakban: SZEÜSZ, illetve KEÜSZ szolgáltatás iránti kérelem) annak beérkezésétől számított 30 napon belül megvizsgálja.
+(1a)[^24] A szolgáltató az együttműködő szerv szolgáltatás igénybevételére irányuló kérelmét (a továbbiakban: SZEÜSZ, illetve KEÜSZ szolgáltatás iránti kérelem) annak beérkezésétől számított 30 napon belül megvizsgálja.
 
-(1b)[^24] A SZEÜSZ, illetve KEÜSZ szolgáltatás iránti kérelem elfogadása esetén a szolgáltató az elfogadásról szóló tájékoztatás közlését követő 90 napon belül köteles éles üzemben csatlakoztatni az együttműködő szervet. A szolgáltató e kötelezettsége alól csak abban az esetben mentesül, ha az együttműködő szerv a csatlakozáshoz előírt feltételeket nem teljesítette.
+(1b)[^25] A SZEÜSZ, illetve KEÜSZ szolgáltatás iránti kérelem elfogadása esetén a szolgáltató az elfogadásról szóló tájékoztatás közlését követő 90 napon belül köteles éles üzemben csatlakoztatni az együttműködő szervet. A szolgáltató e kötelezettsége alól csak abban az esetben mentesül, ha az együttműködő szerv a csatlakozáshoz előírt feltételeket nem teljesítette.
 
 (2) A szolgáltató a szolgáltatás nyújtásához az alábbi követelményeknek megfelelő informatikai eszközöket, rendszereket és termékeket köteles használni:
 
@@ -16,5 +16,5 @@ a) az eszközök, rendszerek és termékek megbízhatóak, teljesítik a külön
 
 b) a rendszerek, berendezések és termékek biztosítják, hogy a SZEÜSZ, KEÜSZ nyújtása során keletkezett adatokhoz arra jogosulatlan személyek nem férhetnek hozzá.
 
-[^23]: Az 59. § (1a) bekezdését a 179/2018. (X. 2.) Korm. rendelet 10. §-a iktatta be.
-[^24]: Az 59. § (1b) bekezdését a 179/2018. (X. 2.) Korm. rendelet 10. §-a iktatta be.
+[^24]: Az 59. § (1a) bekezdését a 179/2018. (X. 2.) Korm. rendelet 10. §-a iktatta be.
+[^25]: Az 59. § (1b) bekezdését a 179/2018. (X. 2.) Korm. rendelet 10. §-a iktatta be.

@@ -29,3 +29,7 @@ f) adatvédelemmel kapcsolatos információkat.
 (7) Az elektronikus ügyintézést biztosító szerv, az elektronikus ügyintézési szolgáltató és az országos alkalmazásüzemeltető szerv köteles értesíteni a Kormányzati Ügyfélvonalat a megadott elektronikus levelezési címen a leállásokról, ha az kihatással lehet bármely kapcsolattartási csatornán az ügyfelek kiszolgálására.
 
 (8) A (7) bekezdésben foglalt értesítésnek tartalmaznia kell a Kormányzati Ügyfélvonal által történő ügyfél-tájékoztatáshoz szükséges információkat.
+
+(9)[^20] Ha az elektronikus ügyintézést biztosító szerv, az elektronikus ügyintézési szolgáltató és az országos alkalmazásüzemeltető szerv a (7) bekezdésben foglalt értesítést, illetve a (8) bekezdés szerinti ügyfél-tájékoztatáshoz szükséges információkat nem biztosítja, abban az esetben a Kormányzati Ügyfélvonal jogosult közvetlenül az elektronikus ügyintézést biztosító szerv, az elektronikus ügyintézési szolgáltató és az országos alkalmazásüzemeltető szerv vezetőjétől tájékoztatást kérni.
+
+[^20]: A 48. § (9) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.

@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-451-20-
 | 2019-01-01 | 2016-451-20-22.13 | 323/2018. (XII. 28.) Korm. rendelet |
 | 2019-04-24 | 2016-451-20-22.14 | 75/2019. (IV. 9.) Korm. rendelet |
 | 2019-06-01 | 2016-451-20-22.15 | 323/2018. (XII. 28.) Korm. rendelet |
+| 2019-08-17 | 2016-451-20-22.16 | 176/2019. (VII. 18.) Korm. rendelet |

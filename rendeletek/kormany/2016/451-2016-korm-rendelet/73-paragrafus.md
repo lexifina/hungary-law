@@ -8,10 +8,10 @@ b) sértetlenség: az üzenet és a kézbesítést igazoló okirat észrevétlen
 
 c) az átvevő igazolása: az üzenet átvevője csak a címzett vagy a feljogosított helyettes átvevő lehet, és a feladó számára a tényleges átvevőt az átvétellel kapcsolatos okirat igazolja;
 
-d)[^28] sikertelen kézbesítés igazolása: a feladónak okirat áll rendelkezésére arról az esetről is, ha a kézbesítés a megadott határidőn belül sikertelen; az igazolás a meghiúsulás időpontját és – ha azonosítható – okát tartalmazza.
+d)[^31] sikertelen kézbesítés igazolása: a feladónak okirat áll rendelkezésére arról az esetről is, ha a kézbesítés a megadott határidőn belül sikertelen; az igazolás a meghiúsulás időpontját és – ha azonosítható – okát tartalmazza.
 
 (2) A biztonságos kézbesítési szolgáltatásnak továbbá biztosítania kell, hogy a címzett számára az üzenet elkülönített, a szolgáltató felügyelete alatt álló informatikai rendszerben legalább az (1) bekezdés d) pontja szerinti okirat kiállításáig hozzáférhető.
 
 (3) A biztonságos kézbesítési szolgáltatás alapjául szolgáló informatikai rendszernek biztosítania kell a rendszer zártságát, a jogosulatlan változtatások kizárását. A szolgáltató köteles e követelményeknek való megfelelést a felügyelet részére tanúsítvánnyal igazolni, majd a szolgáltatás nyújtása során a tanúsítványt annak lejárta előtt folyamatosan megújítani, az új tanúsítványt a felügyeletnek benyújtani.
 
-[^28]: A 73. § (1) bekezdés d) pontja a 361/2017. (XI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^31]: A 73. § (1) bekezdés d) pontja a 361/2017. (XI. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
