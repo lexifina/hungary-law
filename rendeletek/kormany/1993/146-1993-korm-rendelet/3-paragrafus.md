@@ -16,13 +16,15 @@
 
 (4c)[^11] Az Nytv. 4. § (2a) bekezdés g) pontja szerinti magyar állampolgárt a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal a születés helye szerinti anyakönyvvezető veszi nyilvántartásba.
 
-(5)[^12] A külföldön élő magyar állampolgár a konzuli tisztviselőnél, a kijelölt kormányhivatalnál vagy a tartózkodási helye szerint illetékes járási hivatalnál is bejelentheti a nyilvántartott adatai változását, megteheti vagy visszavonhatja a korlátozó nyilatkozatát.
+(4d)[^12] Az Nytv. 4. § (2a) bekezdés h) pontja szerinti magyar állampolgárt külföldön élő magyar állampolgárként a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal a nyilvántartást kezelő szerv veszi nyilvántartásba.
+
+(5)[^13] A külföldön élő magyar állampolgár a konzuli tisztviselőnél, a kijelölt kormányhivatalnál vagy a tartózkodási helye szerint illetékes járási hivatalnál is bejelentheti a nyilvántartott adatai változását, megteheti vagy visszavonhatja a korlátozó nyilatkozatát.
 
 (6) A (2) bekezdés szerinti, kérelemre induló nyilvántartási eljárásban, ha az érintett magyar állampolgárságát a magyar állampolgárságról szóló törvény szerint nem tudja igazolni, az állampolgárság megállapítása iránt az állampolgársági ügyekben eljáró szervet kell megkeresni.
 
-(7)[^13] A (3) és (5) bekezdés szerinti, kérelemre induló nyilvántartási eljárásban az érintett természetes személyazonosító adatai, családi állapota, házasságkötésének vagy bejegyzett élettársi kapcsolata létesítésének helye magyar hatóság által kiállított okirattal, a nőtlen vagy hajadon családi állapot személyes nyilatkozattal is igazolható.
+(7)[^14] A (3) és (5) bekezdés szerinti, kérelemre induló nyilvántartási eljárásban az érintett természetes személyazonosító adatai, családi állapota, házasságkötésének vagy bejegyzett élettársi kapcsolata létesítésének helye magyar hatóság által kiállított okirattal, a nőtlen vagy hajadon családi állapot személyes nyilatkozattal is igazolható.
 
-(7a)[^14] A (2) bekezdés szerinti, kérelemre induló nyilvántartási eljárásban az érintett természetes személyazonosító adatai, családi állapota, házasságkötésének vagy bejegyzett élettársi kapcsolata létesítésének helye magyar hatóság által kiállított okirattal, a nőtlen vagy hajadon családi állapot személyes nyilatkozattal is igazolható. Ha a magyar állampolgár családi állapotára, valamint házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyére vonatkozó, külföldön történt anyakönyvi eseménye a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv eljárásában nem anyakönyvezhető, akkor a polgár családi állapotát, valamint házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyét az általa bemutatott külföldi okirattal és személyes nyilatkozatával igazolhatja.
+(7a)[^15] A (2) bekezdés szerinti, kérelemre induló nyilvántartási eljárásban az érintett természetes személyazonosító adatai, családi állapota, házasságkötésének vagy bejegyzett élettársi kapcsolata létesítésének helye magyar hatóság által kiállított okirattal, a nőtlen vagy hajadon családi állapot személyes nyilatkozattal is igazolható. Ha a magyar állampolgár családi állapotára, valamint házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyére vonatkozó, külföldön történt anyakönyvi eseménye a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv eljárásában nem anyakönyvezhető, akkor a polgár családi állapotát, valamint házasságkötése vagy bejegyzett élettársi kapcsolata létesítésének helyét az általa bemutatott külföldi okirattal és személyes nyilatkozatával igazolhatja.
 
 [^4]: Az R. 3. §-át megelőző alcím a 26/2011. (III. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^5]: Az R. 3. §-a a 26/2011. (III. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
@@ -32,6 +34,7 @@
 [^9]: Az R. 3. § (4a) bekezdését 417/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
 [^10]: Az R. 3. § (4b) bekezdését 417/2012. (XII. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 4. pontja szerint módosított szöveg.
 [^11]: Az R. 3. § (4c) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 150. §-a iktatta be.
-[^12]: Az R. 3. § (5) bekezdése 417/2012. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 5. pontja szerint módosított szöveg.
-[^13]: Az R. 3. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^14]: Az R. 3. § (7a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 14. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: Az R. 3. § (4c) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^13]: Az R. 3. § (5) bekezdése 417/2012. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 5. pontja szerint módosított szöveg.
+[^14]: Az R. 3. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: Az R. 3. § (7a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 14. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,4 +1,4 @@
-15/C. §[^71] (1) Az Nytv. 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár, valamint a magyar állampolgárok esetében a 15/B. §-t a (2)–(5) bekezdés szerinti eltérésekkel kell alkalmazni.
+15/C. §[^74] (1) Az Nytv. 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár, valamint a magyar állampolgárok esetében a 15/B. §-t a (2)–(5) bekezdés szerinti eltérésekkel kell alkalmazni.
 
 (2) Ha az anyakönyvi esemény időpontjában a külföldi helység Magyarország területéhez tartozott, akkor a település nevét kizárólag a hivatalos magyar elnevezéssel kell bejegyezni.
 
@@ -8,4 +8,4 @@
 
 (5) A (3) és (4) bekezdésben meghatározott esetben a helységnév bejegyzését követően az adott ország nevét – az anyakönyvi esemény időpontjában érvényes módon, magyar elnevezéssel – is be kell jegyezni.
 
-[^71]: Az R. 15/C. §-t a 26/2011. (III. 10.) Korm. rendelet 9. §-a iktatta be.
+[^74]: Az R. 15/C. §-t a 26/2011. (III. 10.) Korm. rendelet 9. §-a iktatta be.

@@ -2,17 +2,17 @@
 
 ## A területi szervek feladatai
 
-11. §[^41] A személyiadat- és lakcímnyilvántartási feladatkörében eljáró fővárosi és megyei kormányhivatal
+11. §[^43] A személyiadat- és lakcímnyilvántartási feladatkörében eljáró fővárosi és megyei kormányhivatal
 
-a)[^42] érvényesíti a nyilvántartást kezelő szerv szakmai iránymutatásait és rendszeresen ellenőrzi ezek végrehajtását, tájékoztatja a nyilvántartást kezelő szervet felügyeleti, koordinációs tevékenységéről;
+a)[^44] érvényesíti a nyilvántartást kezelő szerv szakmai iránymutatásait és rendszeresen ellenőrzi ezek végrehajtását, tájékoztatja a nyilvántartást kezelő szervet felügyeleti, koordinációs tevékenységéről;
 
-b)[^43] felügyeli a személyi, a lakcím-, az értesítési cím, valamint a címnyilvántartási adatok feldolgozását és a nyilvántartási rendszeren belüli továbbítását;
+b)[^45] felügyeli a személyi, a lakcím-, az értesítési cím, valamint a címnyilvántartási adatok feldolgozását és a nyilvántartási rendszeren belüli továbbítását;
 
 c) intézkedik a tudomására jutott eljárási szabálytalanságok megszüntetése, valamint az adathibák és eltérések helyesbítése iránt;
 
-d)[^44]
+d)[^46]
 
-e)[^45] másodfokú hatósági jogkörrel rendelkezik a jegyző vagy a járási hivatal által nyilvántartási ügyben hozott első fokú döntéssel szemben benyújtott fellebbezés elbírálására;
+e)[^47] másodfokú hatósági jogkörrel rendelkezik a jegyző vagy a járási hivatal által nyilvántartási ügyben hozott első fokú döntéssel szemben benyújtott fellebbezés elbírálására;
 
 f) ellátja a nyilvántartás helyi szintű számítógépes kezelésének technikai felügyeletét;
 
@@ -20,8 +20,8 @@ g) gondoskodik a nyilvántartás helyi és területi számítógépes rendszerei
 
 h) gondoskodik a területi adatgyűjtő és adatszétosztó, valamint a kommunikációs és felügyelő rendszerek üzemeltetéséről.
 
-[^41]: Az R. 11. §-a a 230/2000. (XII. 23.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze a 417/2012. (XII. 29.) Korm. rendelet 40. § j) pontja, a 70/2015. (III. 30.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^42]: Az R. 11. § a) pontja a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 9. pontja szerint módosított szöveg.
-[^43]: Az R. 11. § b) pontja a 417/2012. (XII. 29.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
-[^44]: Az R. 11. § d) pontját a 345/2014. (XII. 23.) Korm. rendelet 29. §-a hatályon kívül helyezte.
-[^45]: Az R. 11. § e) pontja a 417/2012. (XII. 29.) Korm. rendelet 40. § f) pontja, a 457/2017. (XII. 28.) Korm. rendelet 15. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^43]: Az R. 11. §-a a 230/2000. (XII. 23.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze a 417/2012. (XII. 29.) Korm. rendelet 40. § j) pontja, a 70/2015. (III. 30.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^44]: Az R. 11. § a) pontja a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 9. pontja szerint módosított szöveg.
+[^45]: Az R. 11. § b) pontja a 417/2012. (XII. 29.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^46]: Az R. 11. § d) pontját a 345/2014. (XII. 23.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^47]: Az R. 11. § e) pontja a 417/2012. (XII. 29.) Korm. rendelet 40. § f) pontja, a 457/2017. (XII. 28.) Korm. rendelet 15. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
