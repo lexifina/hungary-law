@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-101-20-
 | 2018-01-01 | 1998-101-20-22.33 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-04-01 | 1998-101-20-22.34 | 264/2002. (XII. 19.) Korm. rendelet |
 | 2019-07-01 | 1998-101-20-22.35 | 126/2019. (V. 30.) Korm. rendelet |
+| 2019-08-17 | 1998-101-20-22.36 | 176/2019. (VII. 18.) Korm. rendelet |

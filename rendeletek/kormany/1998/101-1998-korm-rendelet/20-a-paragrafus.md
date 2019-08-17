@@ -1,8 +1,8 @@
-## 20. §[^112] Az Utv. 14. § (4) bekezdésében meghatározott szolgálati útlevél kiadását az útlevélhatóság megtagadja, ha az Utv. 16. § (1) bekezdésében meghatározott kizáró ok áll fenn.
+## 20. §[^97]
 
-## A diplomata- és a külügyi szolgálati útlevél[^113]
+## A diplomata- és a külügyi szolgálati útlevél[^98]
 
-20/A. §[^114] (1) A diplomata- és külügyi szolgálati útlevél iránti kérelmet – a (3) bekezdésben foglalt kivétellel – a külügyminiszternél, az útlevél kiadását kérő szerv javaslatával együtt kell benyújtani.
+20/A. §[^99] (1) A diplomata- és külügyi szolgálati útlevél iránti kérelmet – a (3) bekezdésben foglalt kivétellel – a külügyminiszternél, az útlevél kiadását kérő szerv javaslatával együtt kell benyújtani.
 
 (2) A javaslat tartalmazza:
 
@@ -32,6 +32,6 @@ d) a tervezett utazás vagy utazások időtartamát.
 
 (7) Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külügyminiszter engedélyezési hatáskörébe tartozik, az útlevelet az utazás időtartamának lejártakor a Külgazdasági és Külügyminisztérium konzuli szolgálat irányításáért felelős szervezeti egységénél le kell adni.
 
-[^112]: A 20. §-t a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 360/2011. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
-[^113]: A 20/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be.
-[^114]: A 20/A. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^97]: A 20. §-t a 176/2019. (VII. 18.) Korm. rendelet 2. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^98]: A 20/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be.
+[^99]: A 20/A. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

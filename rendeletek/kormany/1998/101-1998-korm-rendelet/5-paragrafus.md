@@ -1,6 +1,5 @@
-5. § (1)[^14] A bevándorolt, továbbá a letelepedett jogállású személy és a hontalan úti okmányával kapcsolatos hatósági ügyben elsőfokú útlevélhatóságként a Kormány az Országos Idegenrendészeti Főigazgatóságnak a kérelmező lakóhelye, hontalan esetén tartózkodási helye szerint illetékes területi szervét jelöli ki.
+5. §[^19] (1) A Kormány a bevándorolt, továbbá a letelepedett jogállású személy és a hontalan úti okmányával kapcsolatos hatósági ügyben elsőfokú útlevélhatóságként az Országos Idegenrendészeti Főigazgatóságnak a kérelmező lakóhelye, hontalan esetén tartózkodási helye szerint illetékes területi szervét jelöli ki.
 
-(2)[^15]
+(2) A Kormány az Országos Idegenrendészeti Főigazgatóságot jelöli ki elsőfokú útlevélhatóságként a menekültként elismert személyek kétnyelvű úti okmányával, az oltalmazottként elismert személyek úti okmányával, továbbá a menedékesek úti okmányával összefüggő hatósági ügyekben.
 
-[^14]: Az 5. § (1) bekezdése a 122/2004. (IV. 29.) Korm. rendelet 3. §-ával megállapított, valamint a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének d) pontja, a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének e) pontja, a 126/2019. (V. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^15]: Az 5. § (2) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 17. §-ának (2) bekezdése hatályon kívül helyezte.
+[^19]: Az 5. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
