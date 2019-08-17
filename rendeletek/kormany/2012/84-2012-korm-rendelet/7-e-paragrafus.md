@@ -1,4 +1,4 @@
-## 7/D. § A Kormány a perkapu szolgáltatás szolgáltatójaként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t jelöli ki.
+## 7/D. §
 
 ## 5/d. [^48] Az „eIDAS” csomópont üzemeltetője
 
