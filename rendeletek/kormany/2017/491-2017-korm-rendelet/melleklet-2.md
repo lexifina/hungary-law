@@ -1,4 +1,4 @@
-## A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés létesítéséhez szükséges engedély iránti kérelem tartalma
+## A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés létesítéséhez szükséges engedély iránti kérelem mellékletét képező dokumentáció tartalma
 
 ## A) A beépített tűzjelző berendezés esetében vizsgálja a hatóság:
 
@@ -8,11 +8,11 @@
 
 ## 1.1.1. a létesítés okát, célját, a megrendelői elvárásokat,
 
-## 1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb befolyásoló jellemzőket),
+## 1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket, ha azok ismerete a tervezéshez szükséges),
 
 ## 1.2. a berendezés tervezési alapelveit, így különösen
 
-## 1.2.1. a védelmi jelleget és szintet,
+## 1.2.1. a védelmi jelleget (életvédelem, értékvédelem, kombinált védelem) és szintet (teljes körű védelem, részleges védelem, menekülési-útvonal védelem, berendezés-védelem),
 
 ## 1.2.2. a védelemből kihagyott tereket, a kihagyás okát és feltételeinek teljesülését,
 
@@ -20,102 +20,172 @@
 
 ## 1.2.4. az alkalmazott érzékelők kiválasztásának elveit, a téves jelzések kiküszöbölésének megoldását,
 
-## 1.2.5. a hibák korlátozására vonatkozó elveket,
+## 1.2.5. a hibák hatásainak korlátozására vonatkozó elveket,
 
 ## 1.3. a berendezés felépítésének és működésének ismertetését, így különösen
 
-## 1.3.1. a berendezés részegységeinek, elemeinek megnevezését, a tervezés szempontjából lényeges jellemzőit,
+## 1.3.1. a berendezés részegységeinek, elemeinek megnevezését, típusnevét, a tervezés szempontjából lényeges jellemzőit, valamint a megfelelőséget, teljesítményt igazoló irat megnevezését, azonosító számát és érvényességi idejét,
 
-## 1.3.2. a berendezés részegységeinek, elemeinek elhelyezését,
+## 1.3.2. a berendezés részegységeinek, elemeinek elhelyezését, a tűzjelző központ megközelíthetőségének módját,
 
-## 1.3.3. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét,
+## 1.3.3. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét, megoldását,
 
-## 1.3.4. a normál és a biztonsági tápellátás biztosításának módját,
+## 1.3.4. a normál és a biztonsági tápellátás biztosításának módját, a tápellátást alátámasztó méretezést,
 
 ## 1.3.5. a berendezés felügyeletének, kezelésének megoldását,
 
 ## 1.3.6. az automatikus átjelzés jellemzőit,
 
-## 1.3.7. a tűzriasztás megoldását,
+## 1.3.7. a tűzriasztás megoldását, a riasztás észlelhetőségének, hallhatóságának, láthatóságának biztosítását,
 
-## 1.3.8. a vezérlések és jelzésfogadások jellemzőit, összefüggéseit;
+## 1.3.8. a vezérlések és jelzésfogadások felsorolását, jellemzőit, összefüggéseit,
 
-## 2. a rajzmellékletet, ami tartalmazza:
+## 1.3.9. a berendezés és más berendezések, rendszerek közötti kapcsolat biztosításának megoldását;
 
-## 2.1. a jelmagyarázatot,
+## 2. rajzmellékletet, ami tartalmaz:
 
-## 2.2. az elvi nyomvonalrajzokat, ennek keretében elsősorban az alaprajzokat (legalább M = 1:200 méretarányban), valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
+## 2.1. jelmagyarázatot,
 
-## 2.3. szükség szerint a metszetrajzot, a helyszínrajzot;
+## 2.2. méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a jelzésadók, hang- és fényjelzők azonosító számát, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
 
-## 3. a tervezői nyilatkozatot;
+## 2.3. metszetrajzot,
+
+## 2.4. helyszínrajzot, ha a berendezés több épület védelmét biztosítja,
+
+## 2.5. összefüggési rajzot;
+
+## 3. tervezői nyilatkozatot arról, hogy a berendezés terve
+
+## 3.1. teljeskörűen megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak, vagy
+
+## 3.2. a vonatkozó jogszabályban, műszaki követelményben foglaltaktól való eltérés esetén megfelel az eltérést engedélyező, jóváhagyó határozatnak és az eltéréssel nem érintett követelmények vonatkozásában megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak;
 
 ## 4. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
 
 ## B) A beépített tűzoltó berendezés esetében vizsgálni kell:
 
-## 1. a műszaki leírást, ami tartalmazza:
+## 1. műszaki leírást, ami tartalmazza:
 
 ## 1.1. a kiindulási adatokat, így különösen
 
 ## 1.1.1. a létesítés okát, célját, a megrendelői elvárásokat,
 
-## 1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építészeti kialakítást, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb befolyásoló jellemzőket),
+## 1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építészeti kialakítást, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket, ha azok ismerete a tervezéshez szükséges),
 
 ## 1.2. a berendezés felépítésének és működésének ismertetését, így különösen
 
-## 1.2.1. a védelmi jelleget és szintet,
+## 1.2.1. a védelmi jelleget (életvédelem, értékvédelem, kombinált védelem) és szintet (teljes körű védelem, részleges védelem, menekülési-útvonal védelem, berendezés-védelem),
 
 ## 1.2.2. a védelemből kihagyott tereket, a kihagyás okát és feltételeinek teljesülését,
 
 ## 1.2.3. a tűzérzékelés, az oltásindítás és az oltás módját,
 
-## 1.2.4. a méretezést meghatározó alapadatokat, besorolásokat,
+## 1.2.4. a méretezést meghatározó alapadatokat, besorolásokat, a méretezés eredményét,
 
 ## 1.2.5. az oltóanyagigényt és biztosításának megoldását,
 
-## 1.2.6. a berendezés helyigényének meghatározását,
+## 1.2.6. a berendezésre vonatkozó műszaki követelmények meghatározását,
 
-## 1.2.7. a berendezésre vonatkozó műszaki követelmények meghatározását,
+## 1.2.7. szükség szerint a tervezési segédleteket, a vonatkozó tűzteszteket, a gyártói előírásokat,
 
-## 1.2.8. szükség szerint a tervezési segédleteket, a vonatkozó tűzteszteket, a gyártói előírásokat,
+## 1.2.8. a berendezés kapcsolatát más tűzvédelmi berendezésekkel, az épületfelügyeleti rendszerrel és az egyéb berendezésekkel,
 
-## 1.2.9. a méretezések ismertetését,
+## 1.2.9. az esetleges vezérlési funkciókat,
 
-## 1.2.10. a berendezés kapcsolatát más tűzvédelmi berendezésekkel, az épületfelügyeleti rendszerrel és az egyéb berendezésekkel,
+## 1.2.10. az oltóanyag kedvezőtlen élettani hatása esetén a védett térben az oltás megkezdése előtt tartózkodó személyek védelmét biztosító megoldásokat,
 
-## 1.2.11. az esetleges vezérlési funkciókat,
+## 1.2.11. a berendezés részegységeinek, elemeinek megnevezését, típusnevét, a tervezés szempontjából lényeges jellemzőit, valamint a megfelelőséget, teljesítményt igazoló irat megnevezését, azonosító számát és érvényességi idejét,
 
-## 1.2.12. az oltóanyag kedvezőtlen élettani hatása esetén a védett térben tartózkodó személyek védelmét biztosító megoldásokat,
+## 1.2.12. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét, megoldását,
 
-## 1.2.13. a berendezés részegységeinek, elemeinek megnevezését, típusnevét, a tervezés szempontjából lényeges jellemzőit, valamint a megfelelőséget, teljesítményt igazoló irat megnevezését, azonosító számát és érvényességi idejét,
+## 1.2.13. a normál és a biztonsági tápellátás biztosításának módját,
 
-## 1.2.14. a berendezés részegységeinek, elemeinek elhelyezését,
+## 1.2.14. a berendezés felügyeletének, kezelésének megoldását;
 
-## 1.2.15. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét,
+## 2. a berendezés részegységeinek, elemeinek adatlapjait;
 
-## 1.2.16. a normál és a biztonsági tápellátás biztosításának módját,
+## 3. rajzmellékletet, ami tartalmaz:
 
-## 1.2.17. a berendezés felügyeletének, kezelésének megoldását;
+## 3.1. jelmagyarázatot,
 
-## 2. a hidraulikai, méretezési számításokat tartalmazó dokumentumot;
+## 3.2. kapcsolási vázlatot,
 
-## 3. a berendezés részegységeinek, elemeinek adatlapjait;
+## 3.3. a telepítés helyét képező szintek méretekkel ellátott alaprajzát, amely tartalmazza a berendezés részegységeinek, elemeinek pozícióját, a csővezetékek nyomvonalát, az oltási zónákat (M=1:50-1:250 méretarányban), a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
 
-## 4. a rajzmellékletet, ami tartalmazza:
+## 3.4. metszetrajzot,
 
-## 4.1. a jelmagyarázatot,
+## 3.5. helyszínrajzot, ha a berendezés több épület védelmét biztosítja;
 
-## 4.2. kapcsolási vázlatot,
+## 4. tervezői nyilatkozatot arról, hogy a berendezés terve
 
-## 4.3. a telepítés helyét képező szintek alaprajzát, amely tartalmazza a berendezés részegységeinek, elemeinek pozícióját, a csővezetékek nyomvonalát és dimenzióját, az oltási zónákat (M = 1:50–1:250 méretarányban), valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
+## 4.1. teljeskörűen megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak, vagy
 
-## 4.4. szükség szerint a metszetrajzot, a helyszínrajzot,
+## 4.2. a vonatkozó jogszabályban, műszaki követelményben foglaltaktól való eltérés esetén megfelel az eltérést engedélyező, jóváhagyó határozatnak és az eltéréssel nem érintett követelmények vonatkozásában megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak;
 
-## 4.5. az oltóközpont részletes gépészeti tervét (M = 1:25–1:50 méretarányban);
+## 5. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
 
-## 5. a tervezői nyilatkozatot;
+2. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^10]
 
-## 6. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
+## A beépített tűzjelző berendezés létesítéséhez szükséges engedély iránti kérelem mellékletét képező elvi jellegű dokumentáció tartalma
 
-2. melléklet a 491/2017. (XII. 29.) Korm. rendelethez
+## A) A beépített tűzjelző berendezés esetében vizsgálja a hatóság:
+
+1. műszaki leírást, ami tartalmazza:
+
+1.1. a kiindulási adatokat, így különösen
+
+1.1.1. a létesítés okát, célját, a megrendelői elvárásokat,
+
+1.1.2. a védendő építmény, építményrész azon tűzvédelmi és egyéb jellemzőit, amelyek a berendezés tervezését, működését befolyásolják (így különösen a rendeltetést, az építményben, építményrészben folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benntartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket, ha azok ismerete a tervezéshez szükséges),
+
+1.2. a berendezés tervezési alapelveit, így különösen
+
+1.2.1. a védelmi jelleget (életvédelem, értékvédelem, kombinált védelem) és szintet (teljes körű védelem, részleges védelem, menekülési-útvonal védelem, berendezés-védelem),
+
+1.2.2. a védelemből kihagyott tereket, a kihagyás okát és feltételeinek teljesülését,
+
+1.2.3. a jelzési és a riasztási zónák kialakításának elveit,
+
+1.2.4. az alkalmazott érzékelők kiválasztásának elveit, a téves jelzések kiküszöbölésének megoldását,
+
+1.2.5. a hibák hatásainak korlátozására vonatkozó elveket,
+
+1.3. a berendezés felépítésének és működésének ismertetését, így különösen
+
+1.3.1. a berendezés részegységeinek, elemeinek megnevezését, a tervezés szempontjából lényeges jellemzőit,
+
+1.3.2. a berendezés részegységeinek, elemeinek elhelyezését, a tűzjelző központ megközelíthetőségének módját,
+
+1.3.3. a vezetékezés jellemzőit, tűzhatás elleni védelmének szükségességét,
+
+1.3.4. a normál és a biztonsági tápellátás biztosításának szükségességét,
+
+1.3.5. a berendezés felügyeletének, kezelésének megoldását,
+
+1.3.6. az automatikus átjelzés szükségességét,
+
+1.3.7. a tűzriasztás elveit, a riasztás észlelhetőségére, hallhatóságára, láthatóságára vonatkozó követelményt,
+
+1.3.8. a vezérlések és jelzésfogadások felsorolását, összefüggéseit,
+
+1.3.9. a berendezés és más berendezések, rendszerek közötti kapcsolat biztosítására vonatkozó követelményt;
+
+2. rajzmellékletet, ami tartalmaz:
+
+2.1. jelmagyarázatot,
+
+2.2. méretekkel ellátott elvi nyomvonalrajzokat, ennek keretében elsősorban alaprajzokat (legalább M=1:200 méretarányban), amelyek tartalmazzák a berendezés részegységeinek, elemeinek telepítési helyét, a kábelek elvi nyomvonalát, a helyiségek megnevezését és alapterületét, a tűz- és a füstszakasz határok nyomvonalát, valamennyi tervlapon feltüntetve az építmény megnevezését, címét, a tervező nevét, kamarai névjegyzéki jelölését és tűzvédelmi szakvizsga-bizonyítványának számát, az adott tervrajz megnevezését, a tervezés dátumát,
+
+2.3. metszetrajzot,
+
+2.4. helyszínrajzot, ha a berendezés több épület védelmét biztosítja;
+
+3. tervezői nyilatkozatot arról, hogy a berendezés terve elvi jellege miatt a tervezési elvek vonatkozásában
+
+3.1. teljeskörűen megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak, vagy
+
+3.2. a vonatkozó jogszabályban, műszaki követelményben foglaltaktól való eltérés esetén megfelel az eltérést engedélyező, jóváhagyó határozatnak és az eltéréssel nem érintett követelmények vonatkozásában megfelel a vonatkozó, a nyilatkozatban felsorolt jogszabályi és műszaki követelményeknek, előírásoknak;
+
+4. a tervező tűzvédelmi szakvizsga-bizonyítványának meglétét.
+
+[^10]: A 2. melléklet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés b) pontjával megállapított szöveg.
