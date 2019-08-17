@@ -4,7 +4,7 @@
 
 a) a közlekedésbiztonsági titkársági feladatok ellátása, ennek keretében az éves közlekedésbiztonsági intézkedési terv szakmai előkészítése, miniszteri jóváhagyásra előterjesztése és a végrehajtás koordinálása, a közlekedésbiztonsági intézkedési terv monitoringja, a közúti közlekedésbiztonság javításával összefüggő intézkedések és projektek támogatásának szervezése és koordinációja, valamint a közlekedésbiztonsági intézkedési tervhez kapcsolódó közérdekű és közcélú tájékoztatás, kommunikáció,
 
-b) a közlekedésbiztonság és a közlekedés környezeti hatásai szakterületen nemzetközi szerződésekben, európai uniós jogi aktusokban, valamint kormányrendeletekben és miniszteri rendeletekben előírt adatgyűjtések, a jogi szabályozást megalapozó mérések és vizsgálatok, kutatások végzése; a jogi szabályozást megalapozó szakmai tevékenységgel összefüggő konferenciák, szakmai továbbképzések szervezése, szakmai előkészítése,
+b)[^1] a közlekedésbiztonság és a közlekedés környezeti hatásai szakterületen nemzetközi szerződésekben, európai uniós jogi aktusokban, valamint kormányrendeletekben és miniszteri rendeletekben előírt adatgyűjtések, kormányrendeletben meghatározott tartalmú közlekedési, szállítási ágazatra vonatkozó emisszió kataszterek, kataszterjelentések és előrejelzések készítése, a jogi szabályozást megalapozó mérések és vizsgálatok, kutatások végzése; a jogi szabályozást megalapozó szakmai tevékenységgel összefüggő konferenciák, tudományos, szakértői fórumok, testületek működtetése, szakmai továbbképzések szervezése, szakmai előkészítése,
 
 c) a közúti járművek közlekedésbiztonságának növelése, valamint a környezet védelme érdekében a forgalomba helyezésre és a forgalomban tartásra vonatkozó szabályozások és vizsgálati eljárások szakmai előkészítése; a vizsgálati technológia fejlesztése; a technológiai fejlesztő minta vizsgabázis működtetése,
 
@@ -28,4 +28,12 @@ l) a közlekedésbiztonsági rendezvényekhez kapcsolódóan a közlekedésre ne
 
 m) a köznevelési intézményekben a nevelési-oktatási intézmények tanulói és pedagógusai számára a közlekedésre nevelési tevékenységek korszerű oktatástechnikai eszközökkel és közlekedési szimulátorokkal történő gyakorlati megvalósításának támogatása,
 
-n) a közlekedésre neveléstől a járművezető képzésig átfogó program keretében a közlekedés biztonságának növelése, a közlekedési kultúra fejlesztése, a közlekedési szabályok és a helyes közlekedési magatartásformák megismertetése a gazdaságos gépjárművezetés érdekében, új módszerek és új tananyagok alkalmazásával a képzés fejlesztése és a téma köré csoportosuló tevékenységek, szervezetek által létrehozott tudásbázis összefogása, fejlesztése.
+n) a közlekedésre neveléstől a járművezető képzésig átfogó program keretében a közlekedés biztonságának növelése, a közlekedési kultúra fejlesztése, a közlekedési szabályok és a helyes közlekedési magatartásformák megismertetése a gazdaságos gépjárművezetés érdekében, új módszerek és új tananyagok alkalmazásával a képzés fejlesztése és a téma köré csoportosuló tevékenységek, szervezetek által létrehozott tudásbázis összefogása, fejlesztése,
+
+o)[^2] a veszélyes áruk közúti szállításának szakterületén a nemzetközi szerződések, európai uniós jogi aktusok hazai alkalmazásával kapcsolatos kutatások, vizsgálatok végzése,
+
+p)[^3] közreműködik a Közlekedési Szakértői Testület működtetésében, az ahhoz szükséges feltételek biztosításával, támogatást nyújtva a működtetéshez kapcsolódó adminisztratív teendők ellátásához.
+
+[^1]: A 2. § b) pontja a 24/2019. (VIII. 14.) ITM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § o) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
+[^3]: A 2. § p) pontját a 24/2019. (VIII. 14.) ITM rendelet 5. § (2) bekezdése iktatta be.
