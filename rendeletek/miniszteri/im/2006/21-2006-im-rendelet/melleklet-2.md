@@ -152,21 +152,21 @@
 
 ## da) vezető tisztségviselő (ezen belül jelölendő):
 
-## - intézőbizottsági tag
+## – intézőbizottsági tag
 
-## - igazgatósági tag
+## – igazgatósági tag
 
-## - igazgató elnök
+## – igazgató elnök
 
-## - igazgatóság elnöke
+## – igazgatóság elnöke
 
-## - ügyvezető
+## – ügyvezető
 
-## - igazgatótanácsi tag
+## – igazgatótanácsi tag
 
-## - vezérigazgató
+## – vezérigazgató
 
-## - egyéb (meg kell adni a tisztség elnevezését is)
+## – egyéb (meg kell adni a tisztség elnevezését is, csak akkor tölthető ki, ha a felsorolásban megadott elnevezések nem alkalmazhatóak)
 
 ## db) cégvezető
 
@@ -180,7 +180,7 @@
 
 ## dg) felszámoló
 
-## dh) egyéb (meg kell adni a tisztség elnevezését is)
+## dh) egyéb (meg kell adni a tisztség elnevezését is, csak akkor tölthető ki, ha a da)–dg) alpontok nem alkalmazhatóak)
 
 ## e) A vezető tisztségviselő(k), a képviseletre jogosult(ak) adatai természetes személy esetén:
 
@@ -398,9 +398,7 @@
 
 ## a) A nyelv megadása
 
-## 27.) 59. rovat: A cég hivatalos elektronikus elérhetősége (a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetősége):
-
-## a) A cég hivatalos elektronikus elérhetősége
+## 27.)
 
 ## C)
 
@@ -637,6 +635,8 @@
 ## bh) Külföldi lakóhellyel rendelkező személy esetén a kézbesítési megbízott adatai
 
 ## bi) Kiskorú tag esetén a törvényes képviselő adatai
+
+## bj) Ha az alapításra az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 19/C. §-a alapján került sor, az egyéni vállalkozó nyilvántartási száma
 
 ## c) A nem természetes személy(ek) adatai (több is megadható):
 
@@ -959,6 +959,8 @@
 ## i) Annak jelölése, ha egyéni cég tagja a cégtulajdonos: (Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 20. § (4) bekezdése alapján az egyéni cég tagja egyben a cégtulajdonos is. )
 
 ## j) Annak jelölése, ha az egyéni cég tagja törvényes képviselője a cégtulajdonosnak: (Abban az esetben kell jelölni, ha az egyéni cég tagjává az egyén vállalkozóról ész az egyéni cégről szóló 2009. évi CXV. tövény 32. § (1) bekezdése alapján a törvényes képviselő válik.)
+
+## k) Az egyéni vállalkozó nyilvántartási száma
 
 ## 7.) 12 A külföldiek magyarországi közvetlen kereskedelmi képviselete
 
@@ -1454,7 +1456,7 @@
 
 ## ac) Adóazonosító jel
 
-## ad) Annak jelölése, ha külföldi személy, azonban külföldi közteherviselési azonosítóval és magyar adóazonosító jellel sem rendelkezik,
+## ad) Annak jelölése, ha külföldi személy és magyar adóazonosító jellel nem rendelkezik,
 
 ## ae) Lakóhely
 
@@ -1560,7 +1562,7 @@
 
 ## bb) a bejegyezni kívánt adatot a bejegyzési kérelemben meghatározott adattartalommal,
 
-## bc) ha a cég a cég a változás időpontját a jogszabály alapján meghatározhatja, a nyomtatványnak tartalmaznia kell az „A változás időpontja (kitöltése nem kötelező)” tartalmi elemet.
+## bc) ha a cég a változás időpontját a jogszabály alapján meghatározhatja, a nyomtatványnak tartalmaznia kell az „A változás időpontja (kitöltése nem kötelező)” tartalmi elemet.
 
 ## c) A változásbejegyzési kérelem a cégbejegyzési kérelem 1. és 9. rovatát nem tartalmazza.
 
@@ -1878,6 +1880,6 @@
 
 ## g) Törölve (szükség szerint jelölendő, ha cégjegyzékből a rovat tartalmát törölni kérik)
 
-2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^66]
+2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^68]
 
-[^66]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 15. § (1) bekezdése alapján rendelkezéseit a 2006. július 1. napját követően indult ügyekben kell alkalmazni.
+[^68]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése szerint módosított szöveg. E módosító rendelet 15. § (1) bekezdése alapján rendelkezéseit a 2006. július 1. napját követően indult ügyekben kell alkalmazni.

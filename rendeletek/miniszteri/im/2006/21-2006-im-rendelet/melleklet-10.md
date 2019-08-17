@@ -368,7 +368,7 @@
 
 ## Okirati ellenjegyzés/közjegyzői okirat elemei
 
-10. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^74]
+10. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^76]
 
 [^2.]: Szükség esetén kitöltendő.
 [^4.]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.
@@ -423,4 +423,4 @@
 [^59.]: Szervezet esetén kell kitölteni.
 [^60.]: Aláhúzással jelölendő.
 [^61.]: Amennyiben a társaság a közvetlen közzétételi kötelezettségének honlapján tesz eleget, a cégjegyzéknek tartalmaznia kell a társaság honlapjának címét.
-[^74]: A 10. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés g) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés i) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^76]: A 10. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés g) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés i) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése szerint módosított szöveg.
