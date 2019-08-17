@@ -8,7 +8,7 @@
 
 (1c)[^302] A konzuli tisztviselő az (1a) és az (1b) bekezdés alapján átvett nemzeti letelepedési engedély kiadása iránti kérelmet, a kérelem benyújtását követően haladéktalanul felterjeszti az országos illetékességgel rendelkező Budapesti és Pest Megyei Regionális Igazgatósághoz.
 
-(1d)[^303] A Tv. 104. § (5) bekezdése alapján nemzeti letelepedési engedély iránti kérelmet előterjesztő harmadik országbeli állampolgár a nemzeti letelepedési engedély iránti kérelmet a jogszabályban meghatározott formanyomtatványon annál a konzuli tisztviselőnél is benyújthatja, amely a kérelmező állandó vagy szokásos tartózkodási helye, illetve állampolgársága szerinti országban működik.
+(1d)[^303] A 104. § (5) bekezdése alapján nemzeti letelepedési engedély iránti kérelmet előterjesztő harmadik országbeli állampolgár a nemzeti letelepedési engedély iránti kérelmet a jogszabályban meghatározott formanyomtatványon annál a konzuli tisztviselőnél is benyújthatja, amely a kérelmező állandó vagy szokásos tartózkodási helye, illetve állampolgársága szerinti országban működik.
 
 (1e)[^304]
 
@@ -24,7 +24,7 @@
 [^300]: A 93. § (1a) bekezdését a 130/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
 [^301]: A 93. § (1b) bekezdését a 130/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
 [^302]: A 93. § (1c) bekezdését a 130/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
-[^303]: A 93. § (1d) bekezdését a 446/2013. (XI. 28.) Korm. rendelet 8. §-a iktatta be, szövege a 277/2018. (XII. 21.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^303]: A 93. § (1d) bekezdését a 446/2013. (XI. 28.) Korm. rendelet 8. §-a iktatta be, szövege a 277/2018. (XII. 21.) Korm. rendelet 26. § c) pontja, a 176/2019. (VII. 18.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
 [^304]: A 93. § (1e) bekezdését a 446/2013. (XI. 28.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 113/2016. (V. 30.) Korm. rendelet 56. § (4) bekezdés e) pontja.
 [^305]: A 93. § (1f) bekezdését a 446/2013. (XI. 28.) Korm. rendelet 8. §-a iktatta be, szövege a 382/2015. (XII. 8.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^306]: A 93. § (1g) bekezdését a 382/2015. (XII. 8.) Korm. rendelet 3. § (3) bekezdése iktatta be, a 277/2018. (XII. 21.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte.
