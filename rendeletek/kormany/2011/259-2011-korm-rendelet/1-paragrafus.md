@@ -44,31 +44,45 @@ n)[^13] a szabadtéri rendezvény megtartását megtilthatja, a rendezvény azon
 
 (2) A Kormány első fokú tűzvédelmi hatóságként a hivatásos katasztrófavédelmi szerv területi szervét (a továbbiakban: területi szerv) jelöli ki, amely
 
-a)–b)[^14]
+a)[^14]
 
-c)[^15] eljár – a (3) bekezdés i) pontjában meghatározott kivétellel – a Ttv. 12. § (1) bekezdés a)–d) pontjában meghatározott tevékenységekkel kapcsolatos közigazgatási hatósági eljárásokban,
+b)[^15]
 
-d)[^16] a polgári repülőterek, a metró és földalatti vasúti létesítmények, valamint az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményei tekintetében az (1) bekezdés a)–g) és j)–k) pontjában meghatározott esetekben eljár,
+c)[^16] eljár – a (3) bekezdés i) pontjában meghatározott kivétellel – a Ttv. 12. § (1) bekezdés a)–d) pontjában meghatározott tevékenységekkel kapcsolatos közigazgatási hatósági eljárásokban,
 
-e)[^17]
+d)[^17] a polgári repülőterek, a metró és földalatti vasúti létesítmények, valamint az Országház, Országgyűlési Irodaház, Miniszterelnökség létesítményei tekintetében az (1) bekezdés a)–g) és j)–k) pontjában meghatározott esetekben eljár,
 
-f)[^18] eljár a 3. § (2) bekezdés c) pontjában meghatározott esetekben az építmények beépített tűzjelző, tűzoltó berendezések engedélyezési ügyeiben,
+e)[^18]
+
+f)[^19] eljár az alábbi építmények beépített tűzjelző, tűzoltó berendezések engedélyezési ügyeiben az építmény első végleges használatbavételéig:
+
+fa) magas építmények,
+
+fb) a 20 000 m2 összesített szint alapterületűnél nagyobb, 14,00 métert meghaladó legfelső építményszinttel rendelkező építmények,
+
+fc) a 4 000 főnél nagyobb befogadóképességű művelődési, kulturális rendeltetésű közhasználatú építmények,
+
+fd) a 10 000 főnél nagyobb befogadóképességű sport rendeltetésű közhasználatú építmények,
+
+fe) az 50 MW és annál nagyobb teljesítményű erőművek,
+
+ff) a fekvőbeteg-ellátásra, továbbá a menekülésben korlátozottak elhelyezésére szolgáló építmények, amennyiben az elhelyezés 14,00 méter felett történik,
 
 g) azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeiben eljár, amelyek tervezése és kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott.
 
-h)[^19] eljár – az 1. § (1) bekezdés j) pontjában meghatározott kivétellel – a Kstv. 7. §-ában meghatározott hatósági és felügyeleti eljárásokban,
+h)[^20] eljár – az 1. § (1) bekezdés j) pontjában meghatározott kivétellel – a Kstv. 7. §-ában meghatározott hatósági és felügyeleti eljárásokban,
 
-i)[^20] a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló miniszteri rendeletben meghatározott esetben megtiltja a tűzvédelmi szakvizsga megtartását, továbbá dönt a tűzvédelmi szakvizsga-bizonyítványok érvénytelenítéséről,
+i)[^21] a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló miniszteri rendeletben meghatározott esetben megtiltja a tűzvédelmi szakvizsga megtartását, továbbá dönt a tűzvédelmi szakvizsga-bizonyítványok érvénytelenítéséről,
 
-j)[^21] a létesítmény, az építmény, a helyiség vagy szabadtér területén a tűzvédelmi létesítési és használati szabályok betartását, továbbá – jogszabály eltérő rendelkezésének hiányában – járművön a tűzvédelmi használati szabályok betartását ellenőrzi,
+j)[^22] a létesítmény, az építmény, a helyiség vagy szabadtér területén a tűzvédelmi létesítési és használati szabályok betartását, továbbá – jogszabály eltérő rendelkezésének hiányában – járművön a tűzvédelmi használati szabályok betartását ellenőrzi,
 
-k)[^22] az épületek, építmények tűzvédelmi használati előírásai, valamint a tűzoltóságok beavatkozásával kapcsolatos követelmények alól eltérést engedélyezhet,
+k)[^23] az épületek, építmények tűzvédelmi használati előírásai, valamint a tűzoltóságok beavatkozásával kapcsolatos követelmények alól eltérést engedélyezhet,
 
-l)[^23] lefolytatja a tűzvizsgálati eljárást,
+l)[^24] lefolytatja a tűzvizsgálati eljárást,
 
-m)[^24] a (3) bekezdésben meghatározott eljárások kivételével eljár a nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy), ha kormányrendelet másként nem rendelkezik.
+m)[^25] a (3) bekezdésben meghatározott eljárások kivételével eljár a nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy), ha kormányrendelet másként nem rendelkezik.
 
-(2a)[^25] Amennyiben a Kormány rendeletében a (2) bekezdés m) pontjától eltérően rendelkezik, a kiemelt jelentőségű ügyben a helyszíni szemlék és hatósági ellenőrzések lefolytatására a területi szerv is jogosult.
+(2a)[^26] Amennyiben a Kormány rendeletében a (2) bekezdés m) pontjától eltérően rendelkezik, a kiemelt jelentőségű ügyben a helyszíni szemlék és hatósági ellenőrzések lefolytatására a területi szerv is jogosult.
 
 (3) A Kormány első fokú tűzvédelmi hatóságként a hivatásos katasztrófavédelmi szerv központi szervét (a továbbiakban: központi szerv) jelöli ki, amely
 
@@ -80,27 +94,27 @@ c) a vonatkozó műszaki követelmény előírásától eltérő, de azzal legal
 
 d) a külön jogszabályban meghatározott esetekben dönt a védelem egyenértékűségéről,
 
-e)[^26] eljár a Ttv. 46/A. §-a szerinti tűzvédelmi szakértői tevékenységekkel összefüggő közigazgatási hatósági eljárásokban,
+e)[^27] eljár a Ttv. 46/A. §-a szerinti tűzvédelmi szakértői tevékenységekkel összefüggő közigazgatási hatósági eljárásokban,
 
-f)[^27]
+f)[^28]
 
 g) a polgári nemzetbiztonsági szolgálatok tűzvédelmi ügyeiben eljár,
 
-h)[^28]
+h)[^29]
 
-i)[^29] eljár a területi szerv, valamint a Katasztrófavédelmi Oktatási Központ tűzvédelmi szakvizsgával összefüggő oktatásszervezői tevékenységével és az általuk szervezett tűzvédelmi szakvizsgáztatással kapcsolatos közigazgatási hatósági eljárásokban, a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló miniszteri rendeletben meghatározott esetben megtiltja a tűzvédelmi szakvizsga megtartását, és dönt a tűzvédelmi szakvizsga-bizonyítványok érvénytelenítéséről,
+i)[^30] eljár a területi szerv, valamint a Katasztrófavédelmi Oktatási Központ tűzvédelmi szakvizsgával összefüggő oktatásszervezői tevékenységével és az általuk szervezett tűzvédelmi szakvizsgáztatással kapcsolatos közigazgatási hatósági eljárásokban, a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakról, munkakörökről, a tűzvédelmi szakvizsgával összefüggő oktatásszervezésről és a tűzvédelmi szakvizsga részletes szabályairól szóló miniszteri rendeletben meghatározott esetben megtiltja a tűzvédelmi szakvizsga megtartását, és dönt a tűzvédelmi szakvizsga-bizonyítványok érvénytelenítéséről,
 
-j)[^30] eljár a számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárásban.
+j)[^31] eljár a számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárásban.
 
-k)[^31]
+k)[^32]
 
-l)[^32] az építményszerkezetek tűzvédelmi követelményeknek való megfelelősége igazolására kiadott nyilatkozatokkal összefüggésben:
+l)[^33] az építményszerkezetek tűzvédelmi követelményeknek való megfelelősége igazolására kiadott nyilatkozatokkal összefüggésben:
 
 la) személyes adatokat nem tartalmazó nyilvántartást vezet a kiadott nyilatkozatokról,
 
 lb) ellenőrzi a kiadott nyilatkozatok megfelelőségét.
 
-(4)[^33]
+(4)[^34]
 
 [^1]: Az 1. § (1) bekezdés a) pontját a 443/2015. (XII. 28.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte.
 [^2]: Az 1. § (1) bekezdés b) pontja a 443/2015. (XII. 28.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
@@ -115,23 +129,24 @@ lb) ellenőrzi a kiadott nyilatkozatok megfelelőségét.
 [^11]: Az 1. § (1) bekezdés l) pontját a 368/2012. (XII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 443/2015. (XII. 28.) Korm. rendelet 7. § (2) bekezdése.
 [^12]: Az 1. § (1) bekezdés m) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^13]: Az 1. § (1) bekezdés n) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 300/2014. (XII. 5.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^14]: Az 1. § (2) bekezdés a)–b) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^15]: Az 1. § (2) bekezdés c) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 435/2013. (XI. 19.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^16]: Az 1. § (2) bekezdés d) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 99/2016. (V. 13.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 5. § (2) bekezdését.
-[^17]: Az 1. § (2) bekezdés e) pontját a 229/2014. (IX. 5.) Korm. rendelet 71. § a) pontja hatályon kívül helyezte.
-[^18]: Az 1. § (2) bekezdés f) pontja a 443/2015. (XII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^19]: Az 1. § (2) bekezdés h) pontját a 347/2012. (XII. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 99/2016. (V. 13.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 5. § (2) bekezdését.
-[^20]: Az 1. § (2) bekezdés i) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^21]: Az 1. § (2) bekezdés j) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 443/2015. (XII. 28.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^22]: Az 1. § (2) bekezdés k) pontját a 443/2015. (XII. 28.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^23]: Az 1. § (2) bekezdés l) pontját a 443/2015. (XII. 28.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^24]: Az 1. § (2) bekezdés m) pontját a 271/2016. (IX. 1.) Korm. rendelet 21. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 357. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^25]: Az 1. § (2a) bekezdését a 229/2014. (IX. 5.) Korm. rendelet 68. § (1) bekezdése iktatta be, szövege a 271/2016. (IX. 1.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^26]: Az 1. § (3) bekezdés e) pontja a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^27]: Az 1. § (3) bekezdés f) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^28]: Az 1. § (3) bekezdés h) pontját a 271/2016. (IX. 1.) Korm. rendelet 21. § (6) bekezdése hatályon kívül helyezte.
-[^29]: Az 1. § (3) bekezdés i) pontja a 435/2013. (XI. 19.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^30]: Az 1. § (3) bekezdés j) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^31]: Az 1. § (3) bekezdés k) pontját a 74/2012. (IV. 13.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
-[^32]: Az 1. § (3) bekezdés l) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^33]: Az 1. § (4) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^14]: Az 1. § (2) bekezdés a) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^15]: Az 1. § (2) bekezdés b) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^16]: Az 1. § (2) bekezdés c) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 435/2013. (XI. 19.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^17]: Az 1. § (2) bekezdés d) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 99/2016. (V. 13.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 5. § (2) bekezdését.
+[^18]: Az 1. § (2) bekezdés e) pontját a 229/2014. (IX. 5.) Korm. rendelet 71. § a) pontja hatályon kívül helyezte.
+[^19]: Az 1. § (2) bekezdés f) pontja a 176/2019. (VII. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^20]: Az 1. § (2) bekezdés h) pontját a 347/2012. (XII. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 99/2016. (V. 13.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 5. § (2) bekezdését.
+[^21]: Az 1. § (2) bekezdés i) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^22]: Az 1. § (2) bekezdés j) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 443/2015. (XII. 28.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^23]: Az 1. § (2) bekezdés k) pontját a 443/2015. (XII. 28.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^24]: Az 1. § (2) bekezdés l) pontját a 443/2015. (XII. 28.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^25]: Az 1. § (2) bekezdés m) pontját a 271/2016. (IX. 1.) Korm. rendelet 21. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 357. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^26]: Az 1. § (2a) bekezdését a 229/2014. (IX. 5.) Korm. rendelet 68. § (1) bekezdése iktatta be, szövege a 271/2016. (IX. 1.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^27]: Az 1. § (3) bekezdés e) pontja a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^28]: Az 1. § (3) bekezdés f) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^29]: Az 1. § (3) bekezdés h) pontját a 271/2016. (IX. 1.) Korm. rendelet 21. § (6) bekezdése hatályon kívül helyezte.
+[^30]: Az 1. § (3) bekezdés i) pontja a 435/2013. (XI. 19.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^31]: Az 1. § (3) bekezdés j) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^32]: Az 1. § (3) bekezdés k) pontját a 74/2012. (IV. 13.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^33]: Az 1. § (3) bekezdés l) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^34]: Az 1. § (4) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

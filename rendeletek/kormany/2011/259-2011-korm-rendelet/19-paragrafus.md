@@ -1,7 +1,7 @@
-19. §[^68] (1) E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű ügyekben eljáró hatóságok kijelöléséről szóló kormányrendeletek módosításáról szóló 271/2016. (IX. 1.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított rendelkezéseit a Módr3. hatálybalépésekor[^69] folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+19. §[^69] (1) E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű ügyekben eljáró hatóságok kijelöléséről szóló kormányrendeletek módosításáról szóló 271/2016. (IX. 1.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított rendelkezéseit a Módr3. hatálybalépésekor[^70] folyamatban lévő hatósági eljárásokban is alkalmazni kell.
 
-(2) A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság a Módr3. hatálybalépését[^70] megelőzően kiemelt jelentőségű ügyben nála indult, első fokú határozat, szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi az illetékes megyei katasztrófavédelmi igazgatósághoz, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatósághoz.
+(2) A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság a Módr3. hatálybalépését[^71] megelőzően kiemelt jelentőségű ügyben nála indult, első fokú határozat, szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi az illetékes megyei katasztrófavédelmi igazgatósághoz, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatósághoz.
 
-[^68]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 271/2016. (IX. 1.) Korm. rendelet 21. § (5) bekezdése iktatta be.
-[^69]: A hatálybalépés időpontja 2016. szeptember 9.
+[^69]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 271/2016. (IX. 1.) Korm. rendelet 21. § (5) bekezdése iktatta be.
 [^70]: A hatálybalépés időpontja 2016. szeptember 9.
+[^71]: A hatálybalépés időpontja 2016. szeptember 9.
