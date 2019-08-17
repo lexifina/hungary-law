@@ -1,23 +1,25 @@
 ## 21. Hozzáférés üzemeltetői adatokhoz
 
-## 45. §[^121] A hatóság honlapján keresztül a nyilvánosság részére az alábbiakhoz biztosít hozzáférést:
+45. §[^121] (1) A hatóság a honlapján keresztül a nyilvánosság részére az alábbiakhoz biztosít hozzáférést:
 
-a) üzem neve,
+a) az üzem neve,
 
-b) üzemeltető székhelye,
+b) az üzemeltető székhelye,
 
-c) üzem telephelyének címe,
+c) az üzem telephelyének címe,
 
 d) az üzem e rendelet szerinti besorolása,
 
-e) hatósági engedélyek listája és azok hozzáférhetősége hatóságonként rendszerezve,
+e) a hatósági engedélyek listája és azok hozzáférhetősége hatóságonként rendszerezve,
 
-f) lakossági tájékoztató kiadványok, amennyiben készült a biztonsági jelentés, biztonsági elemzés 8. § (5) bekezdés szerinti kivonata,
+f) lakossági tájékoztató kiadványok, – amennyiben készült – a biztonsági jelentés, a biztonsági elemzés 8. § (5) bekezdése szerinti kivonata,
 
 g) az utolsó időszakos hatósági ellenőrzés dátuma,
 
 h) a 16/A. § szerinti ellenőrzési terv,
 
-i) veszélyes anyagokkal kapcsolatos üzemzavarok, súlyos balesetek megelőzése érdekében tett javaslatok, ajánlások.
+i) a veszélyes anyagokkal kapcsolatos üzemzavarok, súlyos balesetek megelőzése érdekében tett javaslatok, ajánlások.
 
-[^121]: A 45. § a 34/2015. (II. 27.) Korm. rendelet 27. §-ával megállapított szöveg.
+(2) A hatóság központi szerve az (1) bekezdés szerinti információk nyilvános hozzáférhetőségét korlátozhatja vagy kizárhatja, amennyiben a nyilvános hozzáférhetőség Magyarország nemzetközi kapcsolatait, illetve közbiztonsági- vagy honvédelmi érdekét sérti. Az (1) bekezdés e) pontja szerinti információk esetében csak a honlapon keresztül történő hozzáférés korlátozható.
+
+[^121]: A 45. § a 176/2019. (VII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
