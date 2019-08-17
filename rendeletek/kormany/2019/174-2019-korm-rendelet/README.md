@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-174-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-08-16 | 2019-174-20-22.1 | 174/2019. (VII. 16.) Korm. rendelet |
+| 2019-08-17 | 2019-174-20-22.2 | 2010: CXXX. törvény |
