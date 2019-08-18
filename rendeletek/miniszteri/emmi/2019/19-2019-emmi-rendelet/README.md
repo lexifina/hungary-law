@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-19-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-08-17 | 2019-19-20-5H.1 | 19/2019. (VIII. 14.) EMMI rendelet |
+| 2019-08-18 | 2019-19-20-5H.2 | 2010: CXXX. törvény |
