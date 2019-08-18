@@ -1,6 +1,6 @@
 ## 11. Építésügyi hatóság kijelölése
 
-22. § (1)[^36] A Kormány – a (2) bekezdésben meghatározott körben – építésügyi hatóságként az 1. melléklet szerinti műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát, másodfokon országos illetékességgel a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki.
+22. § (1)[^37] A Kormány – a (2) bekezdésben meghatározott körben – építésügyi hatóságként az 1. melléklet szerinti műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát, másodfokon országos illetékességgel a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki.
 
 (2) A (1) bekezdés szerinti hatóság építésügyi hatóságként jár el az alábbi sajátos építményfajták tekintetében:
 
@@ -30,4 +30,4 @@ l) a jogszabályban meghatározott villamosmű, a termelői vezeték, a magánve
 
 (3) Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték vagy a közvetlen vezeték a fővárosi és megyei kormányhivatal több műszaki biztonsági feladatkörben eljáró járási (fővárosi kerületi) hivatala illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
 
-[^36]: A 22. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 19. § (16) bekezdésével megállapított szöveg.
+[^37]: A 22. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 19. § (16) bekezdésével megállapított szöveg.

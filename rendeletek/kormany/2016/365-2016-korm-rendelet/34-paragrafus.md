@@ -1,4 +1,4 @@
-## 33/A. §[^47] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^48] folyamatban lévő ügyekben is alkalmazni kell.
+## 33/A. §[^48] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^49] folyamatban lévő ügyekben is alkalmazni kell.
 
 34. § (1) E rendelet
 
@@ -50,5 +50,5 @@
 
 5. a robbanásveszélyes légkörben való használatra szánt felszerelésekre és védelmi rendszerekre vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/34/EU európai parlamenti és tanácsi irányelvnek
 
-[^47]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
-[^48]: A hatálybalépés időpontja 2017. november 17.
+[^48]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
+[^49]: A hatálybalépés időpontja 2017. november 17.

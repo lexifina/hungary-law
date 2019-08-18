@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-365-20-
 | 2018-01-01 | 2016-365-20-22.5 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-05-06 | 2016-365-20-22.6 | 80/2018. (IV. 20.) Korm. rendelet |
 | 2019-06-06 | 2016-365-20-22.7 | 80/2018. (IV. 20.) Korm. rendelet |
+| 2019-08-18 | 2016-365-20-22.8 | 178/2019. (VII. 18.) Korm. rendelet |

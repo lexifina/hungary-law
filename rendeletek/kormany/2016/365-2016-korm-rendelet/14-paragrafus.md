@@ -26,7 +26,7 @@ vonatkozó jogszabályi rendelkezések megtartását és érvényesülését.
 
 a) a földgáz csatlakozóvezetékei, felhasználói berendezései és telephelyi vezetékei, ezek tartozékai,
 
-b)[^27] a nyomástartó berendezések és létesítmények, beleértve az autógáztöltő állomások berendezéseit is,
+b)[^28] a nyomástartó berendezések és létesítmények, beleértve az autógáztöltő állomások berendezéseit is,
 
 c) a szállítható nyomástartó berendezések,
 
@@ -58,4 +58,4 @@ b) bejelentés alapján kivizsgálja a hatáskörébe tartozó rendkívüli esem
 
 (4) A műszaki biztonsági hatóság a műszaki biztonsági felügyeleti feladat- és hatáskörében a műszaki biztonsági követelmények megtartása érdekében ellátja mindazokat a feladatokat, amelyeket a jogszabályok a hatáskörébe utalnak.
 
-[^27]: A 14. § (2) bekezdés b) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (13) bekezdésével megállapított szöveg.
+[^28]: A 14. § (2) bekezdés b) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (13) bekezdésével megállapított szöveg.
