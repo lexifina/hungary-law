@@ -1,4 +1,4 @@
-6/A. §[^26] (1)[^27] A mérőeszköz első hitelesítése iránti kérelemben meg kell jelölni, hogy a mérőeszközt belföldi piacra vagy az Európai Unió piacára szánja az ügyfél. A mérésügyi hatóság a kérelemben írt nyilatkozattól függően látja el a mérőeszközt a (2) bekezdésben megjelölt törvényes tanúsító jelek megfelelőjével.
+6/A. §[^26] (1)[^27]
 
 (2)[^28] A mérésügyi szervek által használt törvényes tanúsító jelek:
 
@@ -19,7 +19,7 @@ A nemzeti tanúsító és lezáró jelek a mérőeszköznek csak a belföldi for
 (6)[^34]
 
 [^26]: A Vhr. 6/A. §-át a 294/2001. (XII. 26.) Korm. rendelet 4. §-a iktatta be, szövege a 136/2004. (IV. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^27]: A Vhr. 6/A. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 24. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A Vhr. 6/A. § (1) bekezdését a 178/2019. (VII. 18.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
 [^28]: A Vhr. 6/A. §-ának (2) bekezdése a 309/2005. (XII. 25.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a 2006. október 30. napja után indult mérésügyi eljárásokra kell alkalmazni.
 [^29]: A mérőeszközökről és azok mérésügyi ellenőrzéséről szóló 6/2001. (III. 19.) GM rendelet.
 [^30]: Pl. a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló 62/2004. (IV. 24.) GKM rendelet.
