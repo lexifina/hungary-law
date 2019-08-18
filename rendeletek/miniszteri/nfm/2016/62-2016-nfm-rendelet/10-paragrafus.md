@@ -1,11 +1,11 @@
-10. § (1) Az Értékelő Bizottság megszűnik a pályázat eredményének vagy eredménytelenségének kihirdetését követő napon.
+10. §[^55] (1) Az Értékelő Bizottság megszűnik a pályázat eredményének vagy eredménytelenségének kihirdetését követő napon.
 
-(2) Az értékelő bizottsági tag tagsága megszűnik, ha
+(2) Az értékelő bizottsági tag vagy póttag megbízatása megszűnik, ha
 
 a) az Értékelő Bizottság megszűnik,
 
-b) a tag megbízatását a Hivatal elnöke összeférhetetlenség vagy a tag jelölésére felkért közigazgatási szerv vezetőjének kezdeményezésére visszavonja,
+b) a tag vagy póttag megbízatását – annak összeférhetetlensége esetén – az Értékelő Bizottság elnöke a tag kijelölésére jogosult javaslatára visszavonja, vagy
 
-c) a tag tagságáról lemond, vagy
+c) a tag vagy póttag a megbízatásáról lemond.
 
-d) a tag elhalálozik.
+[^55]: A 10. § a 22/2019. (VIII. 10.) ITM rendelet 7. §-ával megállapított szöveg.

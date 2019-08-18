@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-62-20-2
 | 2017-07-20 | 2016-62-20-2W.4 | 2010: CXXX. törvény |
 | 2017-11-09 | 2016-62-20-2W.5 | 43/2017. (XI. 8.) NFM rendelet |
 | 2018-01-01 | 2016-62-20-2W.6 | 43/2017. (XI. 8.) NFM rendelet |
+| 2019-08-18 | 2016-62-20-2W.7 | 22/2019. (VIII. 10.) ITM rendelet |

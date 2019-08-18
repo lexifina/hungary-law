@@ -1,16 +1,20 @@
 ## 3. A pályázati kiírás
 
-4. §[^12] (1) A pályázatokat technológiasemleges formában kell kiírni.
+4. §[^16] (1) A pályázatokat technológiasemleges formában kell kiírni.
 
 (2) A Hivatal a pályázatokat az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) felkérésére írja ki. A Hivatal megkeresésére a pályázatok kiírását megelőzően a miniszter meghatározza a pályázati kiírás fontosabb elemeit, különös tekintettel az alábbiakra:
 
-a) kiírandó mennyiség vagy kiosztható éves új támogatás;
+a)[^17] a kiírandó mennyiség vagy kiosztható maximális éves új támogatás vagy együttesen a kiírandó mennyiség és a kiosztható maximális éves új támogatás;
 
 b) a kereskedelmi üzem kezdetére vonatkozó határidők valamennyi pályázóra vonatkozóan;
 
-c) a külföldi telephelyen termelt villamos energia termelői által elnyerhető támogatás legmagasabb mértéke.
+c) a külföldi telephelyen termelt villamos energia termelői által elnyerhető támogatás legmagasabb mértéke;
 
-(3) Az induló támogatott ár nem lehet magasabb a Metár kormányrendelet 1. melléklet 3. pontja szerinti árnak a Metár kormányrendelet 2. melléklete szerint indexált aktuális értékénél.
+d)[^18] névleges teljesítőképesség szerinti pályázati kategóriák;
+
+e)[^19] az egészben megegyező tényleges tulajdonosú pályázók által egyes kategóriákban elnyerhető támogatás maximális mértéke.
+
+(3)[^20] Az induló támogatott ár nem lehet magasabb a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet (a továbbiakban: Metár kormányrendelet) 1. melléklet 3. pont b) alpontja szerinti árnak a Metár kormányrendelet 2. melléklete szerint indexált aktuális értékénél.
 
 (4) A (2) és (3) bekezdésben felsoroltakon túlmenően más korlátok nem érvényesíthetőek a pályázaton beszerzendő mennyiségek, a kiosztható éves új támogatások, a benyújtott ajánlati árak vonatkozásában.
 
@@ -22,6 +26,11 @@ c) a külföldi telephelyen termelt villamos energia termelői által elnyerhet�
 
 (8) A pályázati eljárás nyertesei az ajánlati árukkal azonos induló támogatott ár alapján jogosultak támogatásra.
 
-(9) Az ajánlati biztosítékot és a teljesítési biztosítékot azonos elv alapján, megkülönböztetéstől mentesen kell megállapítani az egyes technológiákra és pályázókra.
+(9)[^21] Az ajánlati biztosítékot és a teljesítési biztosítékot azonos elv alapján, megkülönböztetéstől mentesen kell megállapítani az egyes technológiákra és pályázókra. A biztosíték mértéke a megvalósítani tervezett beruházás értékétől függően különböző lehet. A biztosítékok meghatározásának módját és mértékét a kiírási dokumentáció tartalmazza.
 
-[^12]: A 4. § a 43/2017. (XI. 8.) NFM rendelet 9. §-ával megállapított szöveg.
+[^16]: A 4. § a 43/2017. (XI. 8.) NFM rendelet 9. §-ával megállapított szöveg.
+[^17]: A 4. § (2) bekezdés a) pontja a 22/2019. (VIII. 10.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § (2) bekezdés d) pontját a 22/2019. (VIII. 10.) ITM rendelet 3. § (2) bekezdése iktatta be.
+[^19]: A 4. § (2) bekezdés e) pontját a 22/2019. (VIII. 10.) ITM rendelet 3. § (2) bekezdése iktatta be.
+[^20]: A 4. § (3) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^21]: A 4. § (9) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (4) bekezdésével megállapított szöveg.

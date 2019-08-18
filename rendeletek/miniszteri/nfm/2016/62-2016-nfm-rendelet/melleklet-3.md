@@ -1,4 +1,4 @@
-3. melléklet a 62/2016. (XII. 28.) NFM rendelethez[^37]
+3. melléklet a 62/2016. (XII. 28.) NFM rendelethez[^90]
 
 A külföldi telephelyen termelt villamos energia termelője által a pályázatokon elnyerhető éves új támogatás mértékét az alábbiak szerint kell kiszámítani:
 
@@ -10,8 +10,8 @@ BI: Az egyes szomszédos országokból importált villamos energia EUROSTAT ált
 
 BVEF: A hazai bruttó végső villamosenergia-fogyasztás EUROSTAT által közzétett értéke.
 
-KT: A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet és a Metár kormányrendelet alapján kötelező átvétel és zöld prémium keretében múltbéli években kiosztott vagy a jövőben kiosztható éves új támogatás.
+KT: A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet és a Metár kormányrendelet alapján kötelező átvétel és zöld prémium keretében az adott évben már kiosztott vagy a jövőben kiosztható éves újtámogatás.
 
 ET: A külföldi telephelyen termelt villamos energia termelője számára adott évi pályázatokon már elérhetővé tett éves új támogatás.
 
-[^37]: A 3. mellékletet a 43/2017. (XI. 8.) NFM rendelet 24. §-a iktatta be.
+[^90]: A 3. mellékletet a 43/2017. (XI. 8.) NFM rendelet 24. §-a iktatta be, szövege a 22/2019. (VIII. 10.) ITM rendelet 14. § 25. pontja szerint módosított szöveg.
