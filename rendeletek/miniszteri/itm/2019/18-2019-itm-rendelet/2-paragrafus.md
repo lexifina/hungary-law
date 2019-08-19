@@ -1,3 +1,3 @@
-## 1. § A mérésügyi igazgatási szolgáltatások igénybevételéért fizetendő díjak megállapításáról szóló 78/1997. (XII. 30.) IKIM rendelet (a továbbiakban: R.) 8. §-a a következő (3) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(3) A mérésügyi hatóság a díjat egyéb bevételeitől elkülönítve tartja nyilván és kezeli.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
