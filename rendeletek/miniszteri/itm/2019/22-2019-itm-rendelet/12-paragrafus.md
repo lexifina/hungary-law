@@ -1,1 +1,0 @@
-## „(9) A (6) bekezdés a) pontja szerint lehívott összeg a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 20. § (2) bekezdés d) pontja szerinti egyéb bevételnek minősül.”
