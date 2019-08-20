@@ -18,10 +18,10 @@
 
 (7)[^31] Az RKEB feladata a külön jogszabályban meghatározott kutatások esetében etikai vélemény kialakítása.
 
-(8)[^32] Az IKEB esetén az összetételt és a működés szabályait tartalmazó ügyrendet a területileg illetékes RKEB hagyja jóvá. Az RKEB összetételét az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottság (a továbbiakban: ETT TUKEB) hagyja jóvá. Meg kell tagadni a jóváhagyást, ha a bizottság összetétele nem felel meg az Eütv. 159. §-ának (5) bekezdésében foglaltaknak.
+(8)[^32] Az IKEB esetén az összetételt és a működés szabályait tartalmazó ügyrendet a területileg illetékes RKEB hagyja jóvá. Az RKEB összetételét az Egészségügyi Tudományos Tanács bizottsága az Egészségügyi Tudományos Tanácsról szóló miniszteri rendelet szerint hagyja jóvá.
 
 [^28]: A 9–11. §-t és a 10. §-t megelőző alcímet a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés f) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^29]: A 12. § (1) bekezdése az 1/2007. (I. 24.) EüM rendelet 3. § (2) bekezdésének b) pontja, a 31/2009. (X. 20.) EüM rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^30]: A 12. § (6) bekezdését a 31/2009. (X. 20.) EüM rendelet 6. § (2) bekezdés g) pontja hatályon kívül helyezte. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^31]: A 12. § (7) bekezdése a 31/2009. (X. 20.) EüM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált kérelmek esetén a 31/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^32]: A 12. § (8) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 25. § a) pontja szerint módosított szöveg.
+[^32]: A 12. § (8) bekezdése a 17/2019. (VIII. 5.) EMMI rendelet 11. §-ával megállapított szöveg.
