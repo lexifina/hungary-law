@@ -20,6 +20,8 @@ b) koordinálja a miniszter által vezetett minisztérium (a továbbiakban: mini
 
 c) a kutatási és fejlesztési tevékenység keretében kezdeményezi és elősegíti a nemzetközi és a hazai kutatások eredményeinek a hazai betegellátás gyakorlatába való átültetését, koordinálja Magyarország képviseletét az európai klinikai kutatási szervezetekben,
 
-d) a nemzetközi etikai és tudományos minőségi követelményrendszerek szerint javaslatot tesz az emberen végzett klinikai vizsgálatok és orvostudományi kutatások szervezési kérdéseiben,
+d)[^1] a nemzetközi etikai és tudományos minőségi követelményrendszerek szerint javaslatot tesz az emberen végzett orvostudományi kutatások szervezési kérdéseiben,
 
 e) szakmai-etikai véleményt alkot a tudományosan megalapozottnak minősített kutatásokról.
+
+[^1]: Az 1. § (5) bekezdés d) pontja a 17/2019. (VIII. 5.) EMMI rendelet 1. §-ával megállapított szöveg.
