@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-51-00-00
 | --- | --- | --- |
 | 2019-06-28 | 2019. évi LI. törvény | 2019-51-00-00.0 (közlönyállapot) |
 | 2019-06-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-51-00-00.1 |
+| 2019-08-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-51-00-00.2 |
