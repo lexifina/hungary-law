@@ -1,1 +1,0 @@
-## „(6) Az ETT REKEBET az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet 1. számú mellékletében meghatározott Regionális Kutatásetikai Bizottságok (a továbbiakban: RKEB-ek) elnökeiből áll. Az ETT REKEBET tagjai hivatalból, megbízatásuk időtartamára tagjai az ETT-nek. Az ETT REKEBET elnöke az ETT alelnöke, titkára az ETT titkára.”
