@@ -1,1 +1,0 @@
-1. § Az Országgyűlés e törvénnyel megerősíti a Magyar Köztársaság Kormánya és az Egyesült Államok Kormánya közötti, az Egyesült Államok Fegyveres Erőinek a Magyar Köztársaság területén történő tevékenységéről szóló Megállapodást, valamint annak 1., 2. és 3. számú mellékletét.
