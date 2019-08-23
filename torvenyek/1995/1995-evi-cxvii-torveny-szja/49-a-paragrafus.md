@@ -54,6 +54,8 @@ kötelezettségként vallja be,
 
 a megszűnés adóévéről szóló személyi jövedelemadó bevallásában, és az adót e bevallás, illetve a kötelezettség évére vonatkozó személyi jövedelemadó bevallás benyújtására nyitva álló határidőig fizeti meg.
 
+(5a) A (2)–(5) bekezdésben foglaltak az egyéni vállalkozói tevékenységnek az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény 19/C. §-a szerinti korlátolt felelősségű társaság alapításával történő megszűnése esetén is alkalmazandók.
+
 (6) Ha az egyéni vállalkozó a tevékenységét ügyvédi iroda, közjegyzői iroda, végrehajtói iroda tagjaként folytatja, a tagi jogviszony keletkezését megelőző napra vonatkozóan az egyéni vállalkozói tevékenységét megszünteti azzal, hogy
 
 a) a foglalkoztatási kedvezménnyel, a nyilvántartott adókülönbözettel, a kisvállalkozások adókedvezményével összefüggő, a megszüntetésre vonatkozó szabályokat nem kell alkalmaznia;

@@ -95,3 +95,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2019-07-01 | 2019. évi XLVIII. törvény | 1995-117-00-00.164 |
 | 2019-07-24 | 2019. évi LXXIII. törvény | 1995-117-00-00.165 |
 | 2019-07-26 | 2019. évi LXX. törvény | 1995-117-00-00.166 |
+| 2019-08-23 | 2019. évi LXXIII. törvény | 1995-117-00-00.167 |

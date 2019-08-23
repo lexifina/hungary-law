@@ -613,15 +613,3 @@ c) Nem anyagi javak esetében, ha azok nem kizárólag üzemi célt szolgálnak 
 6. Elszámoltnak kell tekinteni az értékcsökkenési leírást azokra a naptári évekre, amelyekben a magánszemély a tárgyi eszközt (kivéve a személygépkocsit), nem anyagi javakat a jövedelemszerző tevékenységéhez használta és személyi jövedelemadó-kötelezettségének jogszabályban vélelmezett jövedelemhányad (a bevételnek a jogszabályban meghatározott aránya) szerint tett eleget, vagy értékcsökkenés ellentételezése címén bevételt kapott, vagy adómentes árbevétele volt.
 
 7. Az egyéni vállalkozó – az 1–5. pontban foglaltaktól függetlenül – az egyéni vállalkozói tevékenységéhez jogszabály vagy nemzetközi szerződés rendelkezése alapján kapott támogatás felhasználásával megszerzett (előállított) tárgyi eszköz, nem anyagi jószág beszerzési (előállítási) árának azt a részét, amely egyenlő a megszerzéséhez (előállításához) felhasznált támogatás összegével, az eszköz üzembe helyezésének (rendeltetésszerű használatba vételének) – az üzembe helyezés elmaradása esetén kiselejtezésének, elidegenítésének vagy a nyilvántartásból bármely más ok miatt történő kivezetésének – időpontjában értékcsökkenési leírásként számolja el. A nem kizárólag üzemi célt szolgáló tárgyi eszköz, nem anyagi jószág esetén ezen túlmenően nincs lehetőség értékcsökkenési leírás elszámolására.
-
-III. A járművek költsége
-
-1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett kizárólag üzemi célú jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) (e rendelkezés alkalmazásában a személygépkocsi-bérbeadó vagy személyszállító tevékenységet folytató egyéni vállalkozónál a tevékenység tárgyát, illetve eszközét képező személygépkocsi is, ha az egyéni vállalkozó azt más célra részben sem használja, és üzleti nyilvántartásai ezt egyértelműen alátámasztják) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint a II. fejezetben foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
-
-a) az üzemanyag-fogyasztási norma és az állami adó- és vámhatóság által közzétett üzemanyagár,
-
-b) a számlával (számlákkal) igazolt üzemanyag-vásárlás vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség,
-
-azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév első napján választott üzemanyag-felhasználással összefüggő költségelszámolási módszertől – ideértve a választott üzemanyag-fogyasztási normát is – nem térhet el. Nem alkalmazható az a) pont rendelkezése, ha az egyéni vállalkozó az Áfa törvény szabályai szerint az üzemanyag általános forgalmi adóját levonásba helyezi.
-
-2.

@@ -280,7 +280,13 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 61. Ingatlannak közérdekű célra történő megvásárlása: a kisajátításról szóló 2007. évi CXXIII. törvény rendelkezései szerint történő vásárlás.
 
-62.
+62. Magánalapítvány:
+
+a) az alapító, a csatlakozó vagy az alapító, a csatlakozó hozzátartozója mint kedvezményezett érdekében a Polgári Törvénykönyv rendelkezései szerint létrehozott alapítvány,
+
+b) a nem közhasznú vagyonkezelő alapítvány,
+
+feltéve, hogy kizárólag magánszemély alapító, csatlakozó által rendelkezésre bocsátott vagyonnal vagy kizárólag magánszemély által a vagyonkezelő alapítvány vagyonkezelésébe adott vagyonnal és ezek hozamaival gazdálkodik.
 
 63. Csoportos személyszállítás: ha a munkáltató a munkavégzés érdekében legalább négy munkavállaló szállításáról gondoskodik
 
