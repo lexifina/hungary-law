@@ -24,15 +24,19 @@ Határidő: folyamatos
 
 4. felkéri a Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Közalapítványt (a továbbiakban: Közalapítvány) – a kormánybiztossal együttműködve – a 2. pont a) alpontja szerinti programok megvalósítására, a 2. pont b) alpontja szerinti pályázatok lebonyolítására, továbbá a 6. pont szerinti feladat végrehajtásában való közreműködésre;
 
-5. a 3. pont szerinti programok és kezdeményezések megvalósítására a Miniszterelnökséget vezető miniszter és a külgazdasági és külügyminiszter útján az emlékév Korm. határozat szerinti időtartamára
+5.[^1] a 3. pont szerinti programok és kezdeményezések megvalósítására a Miniszterelnökséget vezető miniszter, a miniszterelnök kabinetfőnöke és a külgazdasági és külügyminiszter útján az emlékév Korm. határozat szerinti időtartamára
 
-a) a 2019. évben 3 000 000 000 forintot, figyelembe véve a Korm. határozat 12. pontja alapján átcsoportosított összeget,
+a) a 2019. évben összesen 3 000 000 000 forintot, melyből
+
+aa) 556 307 413 forintot a XXI. Miniszterelnöki Kabinetiroda fejezet javára,
+
+ab) 2 443 692 587 forintot a XI. Miniszterelnökség fejezet javára, figyelembe véve a Korm. határozat 12. pontja alapján átcsoportosított összeget,
 
 b) a 2020. évben 6 000 000 000 forintot, valamint
 
 c) a 2021. évben 3 000 000 000 forintot
 
-biztosít, amelyből 6 000 000 000 forintot a 3. pont b) alpontja szerinti pályázatok támogatására és lebonyolítására kell fordítani;
+biztosít, amelyből 6 000 000 000 forintot a 2. pont b) alpontja szerinti pályázatok támogatására és lebonyolítására kell fordítani;
 
 Felelős: pénzügyminiszter
 
@@ -40,7 +44,13 @@ Miniszterelnökséget vezető miniszter
 
 külgazdasági és külügyminiszter
 
-Határidő: az a) alpont tekintetében a felmerülés ütemében, a b) alpont tekintetében a 2020. évi központi költségvetés tervezése során, a c) alpont tekintetében a 2021. évi központi költségvetés tervezése során
+a miniszterelnök kabinetfőnöke
+
+Határidő: az a) alpont tekintetében a felmerülés ütemében
+
+a b) alpont tekintetében a 2020. évi központi költségvetés végrehajtása során
+
+a c) alpont tekintetében a 2021. évi központi költségvetés tervezése során
 
 6. felhívja az emberi erőforrások miniszterét, hogy a kormánybiztos, valamint a Közalapítvány bevonásával vizsgálja meg a rendszerváltoztatás eseményeinek és társadalmi jelentőségének bemutatását biztosító állandó kiállítás és múzeum létrehozásának lehetőségét, és erről tegyen jelentést a Kormány számára;
 
@@ -55,3 +65,5 @@ Felelős: külgazdasági és külügyminiszter
 kormánybiztos
 
 Határidő: folyamatos
+
+[^1]: Az 5. pont az 1504/2019. (VIII. 23.) Korm. határozat 4. pontjával megállapított szöveg.
