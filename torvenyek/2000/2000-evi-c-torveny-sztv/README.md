@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2018-01-01 | 2017. évi LXXVII. törvény | 2000-100-00-00.62 |
 | 2018-07-26 | 2018. évi XLI. törvény | 2000-100-00-00.63 |
 | 2019-01-01 | 2018. évi XLI. törvény | 2000-100-00-00.64 |
+| 2019-08-23 | 2019. évi LXXIII. törvény | 2000-100-00-00.65 |

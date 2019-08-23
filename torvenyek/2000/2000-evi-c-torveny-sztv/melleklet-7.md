@@ -127,9 +127,3 @@ Korrekciós tételek, amelyeket figyelembe kell venni (a felsorolás nem teljes 
 16. A „22. Véglegesen kapott pénzeszköz” soron az adott időszakban jogszabály alapján, a tőke-, illetve eredménytartalék javára véglegesen vagy az eredmény javára fejlesztési célból kapott (befolyt) pénzösszeget kell kimutatni.
 
 17. A „23. Részvénybevonás, tőkekivonás (tőkeleszállítás)” soron az adott időszakban jegyzett tőke leszállítás miatt a tulajdonosok részére kifizetett pénzösszeget kell kimutatni, valamint a bevont saját részvény, üzletrész visszavásárlási (nyilvántartás szerinti) értékét a visszavásárlás üzleti évében. A korábbi üzleti években visszavásárolt és a tárgyévben bevont saját részvény, üzletrész könyv szerinti értékével a „10. Forgóeszközök (vevőkövetelés és pénzeszköz nélkül) változása” sort kell negatív irányban korrigálni.
-
-18. A „24. Kötvény és hitelviszonyt megtestesítő értékpapírok visszafizetése” soron a kibocsátott kötvények és más hitelviszonyt megtestesítő értékpapírok adott időszakban beváltott, törlesztett összegét kell kimutatni.
-
-19. A „25. Hitel és kölcsön törlesztése, visszafizetése” soron az igénybe vett hitel, kölcsön adott időszakban törlesztett összegét kell kimutatni.
-
-20. A „26. Véglegesen átadott pénzeszközök” soron az adott időszakban, jogszabály alapján, a tőke-, illetve eredménytartalék vagy az eredmény terhére véglegesen átadott pénzeszközöket kell kimutatni.
