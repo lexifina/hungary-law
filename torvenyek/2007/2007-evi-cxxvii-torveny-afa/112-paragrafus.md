@@ -6,4 +6,4 @@ b) a 24. § (2) bekezdése szerint importált termék értékesítése abban az 
 
 hatálya alatti állására nincs befolyással.
 
-(2) Mentes az adó alól továbbá az (1) bekezdés alá tartozó termékhez közvetlenül kapcsolódó szolgáltatás nyújtása.
+(2) Mentes az adó alól továbbá az (1) bekezdés alá tartozó termékhez közvetlenül kapcsolódó szolgáltatás nyújtása, feltéve, hogy a szolgáltatást közvetlenül azon személy, szervezet részére nyújtják, aki (amely) a terméket értékesíti vagy beszerzi.

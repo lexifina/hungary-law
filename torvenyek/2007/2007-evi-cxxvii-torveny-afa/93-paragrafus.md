@@ -41,3 +41,5 @@ m) a villamos energia importja;
 n) a hő- vagy hűtési energia hő- vagy hűtési hálózaton keresztüli importja.
 
 (2) Mentes az adó alól a szolgáltatás nyújtása abban az esetben, ha annak ellenértéke az importált termék adóalapjába a 74. §, illetőleg a 75. § (1) bekezdésének b) pontja és (2) bekezdése szerint beépül.
+
+(3) A (2) bekezdés szerinti mentesség alkalmazásának feltétele, hogy a szolgáltatást közvetlenül az importáló részére nyújtsák.

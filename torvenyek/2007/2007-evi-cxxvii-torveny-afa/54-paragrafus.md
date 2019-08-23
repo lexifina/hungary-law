@@ -2,9 +2,9 @@
 
 54. § (1) Az 53. §-tól eltérően, ha a termék a 24. § (1) bekezdése értelmében nincs szabad forgalomban, és
 
-a) vámjogi helyzete a 111. § (1) bekezdésének a) és b) pontja szerint alakul, vagy
+a) vámjogi helyzete a 111. § (1) bekezdésének a) pontja szerint alakul, vagy
 
-b) a 111. § (1) bekezdésének c) pontjában említett eljárások hatálya alatt áll, vagy
+b) a 111. § (1) bekezdésének b) és c) pontjában említett eljárások hatálya alatt áll, vagy
 
 c) teljes vámmentességgel járó ideiglenes behozatali eljárás hatálya alatt áll, vagy
 

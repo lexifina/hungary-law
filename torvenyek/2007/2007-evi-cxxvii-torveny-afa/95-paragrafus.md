@@ -2,7 +2,7 @@
 
 a) az importáló a terméket a 89. § szerint adómentesen értékesíti;
 
-b) az a) pont szerint értékesített termék küldeménykénti feladása belföldön vagy elfuvarozása belföldről legkésőbb a vámjogi szabad forgalomba bocsátásáról szóló határozat közlésétől, határozat hiányában az áru átengedésének időpontjától számított, a (3) bekezdésben meghatározott határidőig megtörténik;
+b) az a) pont szerint értékesített termék küldeménykénti feladása belföldön vagy elfuvarozása belföldről legkésőbb azon időponttól, amelytől kezdve a termék vámjogi szabad forgalomba bocsátottnak tekintendő, a (3) bekezdésben meghatározott határidőig megtörténik;
 
 c) az importáló – a (4) bekezdésben meghatározott eltéréssel – a termékre a Vám tv. rendelkezéseinek megfelelően adóbiztosítékot nyújt;
 
@@ -40,7 +40,7 @@ bb) bevallási kötelezettségnek [184. §], ha a ba) alpontban említett kötel
 
 bc) fizetendőadó-megállapítási kötelezettségnek [60. § (4) bekezdése] az ügylet teljesítését tanúsító számla vagy – számla hiányában – a kötelezettség teljesítését igazoló egyéb okirat bemutatásával, ha a bb) alpontban említett kötelezettség a (3) bekezdésben meghatározott határidő lejártát követő 15. naphoz képest később válik esedékessé.
 
-(10) Abban az esetben, ha az adó megfizetésének felfüggesztése a (7) bekezdés b) pontja szerint szűnik meg, a vámhatóság kötelezi az importálót a megállapított adó megfizetésére úgy, hogy a megfizetéshez fűződő egyéb jogkövetkezményekről a termék vámjogi szabad forgalomba bocsátásáról szóló határozat meghozatalának, határozat hiányában az áru átengedésének időpontjára visszamenőleg rendelkezik.
+(10) Abban az esetben, ha az adó megfizetésének felfüggesztése a (7) bekezdés b) pontja szerint szűnik meg, a vámhatóság kötelezi az importálót a megállapított adó megfizetésére úgy, hogy a megfizetéshez fűződő egyéb jogkövetkezményekről arra az időpontra visszamenőleg rendelkezik, amelytől kezdve a termék vámjogi szabad forgalomba bocsátottnak tekintendő.
 
 (11) A vámhatóság az (1) bekezdés c) pontja szerint nyújtott adóbiztosítékot felszabadítja
 
