@@ -44,7 +44,7 @@ i) energiatermék esetében a jármű üzemanyagtartályában és egy, legfeljeb
 
 j) töltőfolyadék esetében 300 milliliter, és
 
-k) az új dohánytermék-kategóriák esetében 800 darab.
+k) az új dohánytermék-kategóriák egyszer használatos termékei esetében 800 darab, folyadéka esetében 300 milliliter.
 
 (5) Nem minősül kereskedelmi célú szállításnak
 
