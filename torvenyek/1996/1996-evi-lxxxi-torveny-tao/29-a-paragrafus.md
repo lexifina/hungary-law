@@ -32,7 +32,9 @@
 
 (17) Az adózó a 2015. adóévi társasági adóbevallás benyújtására nyitva álló határidő utolsó napjáig az adóhatósághoz benyújtott kérelme alapján mentesül e törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3d) bekezdése szerinti, a támogatás, kiegészítő támogatás bejelentésére nyitva álló 8 napos határidő elmulasztásával összefüggő, az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szerinti jogkövetkezmények és a 22/C. § szerinti adókedvezményre vonatkozó jogosultság elvesztése alól.
 
-(18)–(19)
+(18)
+
+(19)
 
 (20) E törvénynek a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény és a sportról szóló 2004. évi I. törvény módosításáról szóló 2016. évi XVIII. törvénnyel (a továbbiakban: Módtv3.) megállapított 22/C. § (4a) bekezdését, valamint 24/A. § (19) és (20) bekezdését első alkalommal a 2013–2014-es támogatási időszaktól kiállított igazolásokkal összefüggésben is alkalmazni kell.
 
@@ -171,3 +173,9 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (82) A (81) bekezdéstől eltérően az adózó a 2019. adóéve utolsó hónapja 20. napjáig az állami adó- és vámhatóság felé benyújtott nyilatkozatban tett választása szerint a 2019. adóévi társasági adóelőleg-kiegészítési kötelezettségre, továbbá ehhez kapcsolódva a 22. § (1)–(12) bekezdése szerinti támogatásra, a 22/C. § szerinti támogatásra, illetve a 24/A. § szerinti adóról való rendelkezésre a (81) bekezdésben említett rendelkezéseknek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvény hatálybalépését megelőző napon hatályos rendelkezéseit alkalmazza, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint a (81) bekezdésben említett rendelkezések hatálybalépésének vagy hatályon kívül helyezésének napja. Az e bekezdés szerinti választás a 2019. adóév utolsó hónapjának 20. napját követően nem módosítható és nem vonható vissza. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
 (83) A 2019. július 1. és 2022. december 31. közötti, a reklámadóról szóló törvény 11. §-a szerint meghatározott reklámadó-kötelezettséggel összefüggő költségre nem kell alkalmazni a 3. számú melléklet A) rész 16. pontját.
+
+(84) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (5e) bekezdését és 18/D. § (10) bekezdését az adózó a rendelkezés hatálybalépésének napját magában foglaló adóévére vonatkozóan választása szerint alkalmazhatja.
+
+(85) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5. § (11) bekezdését, 6. § (12) bekezdését, 7. § (15a) és (16a) bekezdését és a 24/A. § (1) bekezdésének az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvény kihirdetését követő naptól hatályos rendelkezését első alkalommal e rendelkezések hatálybalépésének napját magában foglaló adóévre kell alkalmazni.
+
+(86) A természetes személlyel mint vagyonrendelővel kötött bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által kizárólag természetes személy mint kedvezményezett javára kezelt vagyon a 2019. adóévére vonatkozóan az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5. § (7a) bekezdését, továbbá az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel módosított 20. § (1) bekezdés b) pontját választása szerint alkalmazza.

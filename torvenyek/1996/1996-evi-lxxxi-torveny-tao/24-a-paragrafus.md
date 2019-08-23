@@ -52,7 +52,7 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 a) a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság részére a (3) bekezdés a) pontjában meghatározott célra történő felajánlás esetének kivételével a (16)–(17) bekezdés szerint kiállított igazolást az (1) bekezdés szerinti rendelkező nyilatkozat benyújtásával egyidejűleg, a (2) bekezdés szerinti rendelkező nyilatkozat esetén legkésőbb a társasági adóbevallás benyújtásáig az állami adó- és vámhatóság kézhez kapja, illetve, hogy a (19)–(21) bekezdés szerint kiállított igazolás a (21a) bekezdésben foglaltak szerint az állami adó- és vámhatóság részére beérkezzen,
 
-b) az adózó, továbbá a felajánlás kedvezményezettjének állami adóhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása az átutaláskor nem haladja meg a százezer forintot,
+b) az adózó, továbbá a felajánlás kedvezményezettjének állami adóhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása (csoportos társasági adóalany esetében a csoportos társasági adóalany társasági adónemen fennálló adótartozás) az átutaláskor nem haladja meg a százezer forintot,
 
 c) az adózó a vonatkozó társasági adóbevallását határidőben benyújtotta, és
 

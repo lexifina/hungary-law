@@ -10,6 +10,8 @@ b) az adóévet megelőző adóév fizetendő adójának a működés naptári n
 
 (3) Az átalakulás, egyesülés, szétválás napjától számított 30 napon belül a jogutód köteles a jogelőd által bevallott adóelőlegből számított (az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott) adóelőleget bevallani, és ennek alapján köteles a bevallás esedékességének napjától az adóévet követő hatodik hónap utolsó napjáig adóelőleget fizetni. Kiválás esetén a fennmaradó gazdasági társaság e rendelkezés alkalmazásában jogutódnak is minősül.
 
+(3a) Az átalakulás, egyesülés, szétválás napját követő első adóbevallásában nem vall be adóelőleget kiválás esetén a fennmaradó, beolvadás esetén az átvevő adózó, ha az átalakulás, egyesülés, szétválás napja az előző adóévi adóbevallás benyújtását megelőzi.
+
 (4) Az adókötelezettsége keletkezésének napját követő második naptári hónap első napjától kezdődő 12 hónapos időszakra 30 napon belül köteles adóelőleget bevallani a külföldi vállalkozó által bevallott adóelőleggel egyezően a tevékenységét folytató európai részvénytársaság, európai szövetkezet, illetve az európai részvénytársaság, az európai szövetkezet által bevallott adóelőleggel egyezően a tevékenységét folytató külföldi vállalkozó.
 
 (5) A könyvvezetés pénznemének évközbeni változtatása a bevallott adóelőleget nem érinti.

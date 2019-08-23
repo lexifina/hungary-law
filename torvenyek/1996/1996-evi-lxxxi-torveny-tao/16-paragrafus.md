@@ -34,7 +34,9 @@ ck) az adózás előtti eredményt módosítja a 18. § előírása alapján meg
 
 a) a jogelődnél – kivéve, ha az átalakulás, egyesülés, szétválás kedvezményezett átalakulásnak minősül, és teljesülnek a (10)–(11) és (15) bekezdésben előírt feltételek – az adózás előtti eredményt csökkenti az az összeg, amellyel az immateriális javak és a tárgyi eszközök együttes számított nyilvántartási értéke meghaladja együttes könyv szerinti értéküket, növeli az az összeg, amellyel az együttes könyv szerinti érték az együttes számított nyilvántartási értéket meghaladja; kiválás esetén a jogelőd e rendelkezéseket a kiválás adóévében és csak a jogutód részére a végleges vagyonmérleg alapján átadott eszközökre alkalmazza;
 
-b)–c)
+b)
+
+c)
 
 d) a jogelődnél, kiválás esetén a jogutódnál első adóévében, az adózás előtti eredményt módosítja a végleges vagyonmérlegében kimutatott összevont átértékelési különbözetnek a követelések leértékelésével és a céltartalék felértékelésével növelt, valamint a céltartalék leértékelésével csökkentett összege, figyelemmel a (9)–(11) bekezdésben foglaltakra;
 
@@ -50,13 +52,15 @@ i) a jogutód a végleges vagyonmérlege szerint a jogelődtől átvett követel
 
 (3) Az adózónak, ha az egyszeres könyvvezetésről a kettős könyvvezetésre tér át, az áttérés évében
 
-a)–b)
+a)
+
+b)
 
 c) a várható kötelezettségekre és a jövőbeni költségekre képzett céltartaléknak a nyitómérlegben kimutatott összegével növelnie kell adózás előtti eredményét.
 
 (4) Az európai részvénytársaság, az európai szövetkezet, valamint – a külföldre történő székhelyáthelyezést követően – annak tevékenységét folytató külföldi vállalkozó az adókötelezettsége megállapításakor – e törvény eltérő rendelkezése kivételével – úgy jár el, mintha a székhelyáthelyezés nem történt volna meg, ideértve a törvény alapelveinek alkalmazását is a székhelyáthelyezést megelőző adózóként, vagy külföldi társasági adó (annak megfelelő adó) alanyaként elszámolt költség, bevétel, adózás előtti eredmény (annak megfelelő) módosítás tekintetében.
 
-(5) Az egyéni cég az alapító egyéni vállalkozónál a személyi jövedelemadóról szóló törvény előírása szerint az alapításig keletkezett, és addig nem rendezett elhatárolt veszteséggel a 17. §-ban foglaltak szerint csökkentheti az adózás előtti eredményét. Az egyéni cég – ha az alapító egyéni vállalkozó nyilvántartásában feltüntetett összes eszköz nem kerül az egyéni cég tulajdonába – az egyéni vállalkozónál nyilvántartott elhatárolt veszteségnek az átadott eszközöknek az összes eszköz értékéhez viszonyított arányos részére, minden esetben a nyilvántartott értékek alapján, két tizedesjegyre számítva alkalmazza a 17. § (1)–(3) bekezdés rendelkezéseit.
+(5) Az egyéni cég és az Evectv. 19/C. §-a szerint alapított korlátolt felelősségű társaság (a továbbiakban e bekezdésben együtt: társaság) az alapítónál a személyi jövedelemadóról szóló törvény előírása szerint az alapításig keletkezett, és addig fel nem használt elhatárolt veszteséggel a 17. §-ban foglaltak szerint csökkentheti adózás előtti eredményét. A társaság – ha az alapító nyilvántartásában feltüntetett összes eszköz nem kerül a társaság tulajdonába – az alapítónál nyilvántartott elhatárolt veszteségnek az átadott eszközöknek az összes eszköz értékéhez viszonyított arányos részére, minden esetben a nyilvántartott értékek alapján, két tizedesjegyre számítva alkalmazza a 17. § rendelkezéseit.
 
 (6) Amennyiben az adózó adókötelezettsége a felszámolási eljárás (annak megfelelő más eljárás) befejezését követő napon folytatódik, az adózónak az eljárás befejező napjára elkészített vagyonmérlegében szereplő saját tőke és a felszámolás kezdő napját megelőző napra készített beszámolójában szereplő saját tőke különbözetével, az eljárás befejezése évéről készített adóbevallásában
 
@@ -95,3 +99,5 @@ c) az alapító egyéni vállalkozó által a személyi jövedelemadó törvény
 d) az alapító egyéni vállalkozó megszűnésekor személyi jövedelemadó különbözet címen nyilvántartott különbözetre – amelynek megfelelő összegben köteles az alapítását követő nappal lekötött tartalékot képezni – a 19. § (5)–(6) bekezdésében foglaltakat alkalmazza, azzal, hogy a felhasználásra rendelkezésre álló időpont meghatározásakor kezdő időpontnak azt az adóévet kell tekinteni, amelyben az alapító egyéni vállalkozó a 10 százalékos adómértéket alkalmazta, továbbá számításba kell venni az egyéni vállalkozó megszűnéséig eltelt adóéveket is,
 
 e) az alapító egyéni vállalkozó által a személyi jövedelemadó törvény előírása alapján érvényesített kisvállalkozói adókedvezményre a 22/A. §-ban foglaltakat alkalmazza, azzal, hogy a 22/A. § (5) bekezdésében előírt időtartamba a hitelszerződés megkötése, illetve a tárgyi eszköz használatba vétele időpontjától az alapító egyéni vállalkozó megszűnéséig eltelt adóéveket is számításba kell venni.
+
+(16a) A (16) bekezdésben foglaltakat az Evectv. 19/C. §-a szerint alapított korlátolt felelősségű társaságra is alkalmazni kell.

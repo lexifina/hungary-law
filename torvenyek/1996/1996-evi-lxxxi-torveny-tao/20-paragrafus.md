@@ -4,7 +4,7 @@
 
 a) a közhasznú szervezetnek nem minősülő alapítványnak, közalapítványnak, egyesületnek (ide nem értve az országos érdekképviseleti szervezetet), köztestületnek, továbbá a lakásszövetkezetnek, ha – a gazdálkodására vonatkozó külön jogszabályok előírása szerint és a 9. § (1a)–(1b) bekezdésében, továbbá a 6. számú mellékletben foglaltakat figyelembe véve nyilvántartott – vállalkozási tevékenységből származó, a 9. § (3) bekezdés c) pontja szerinti összeggel növelt bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát,
 
-b)
+b) a természetes személlyel mint vagyonrendelővel kötött bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által kizárólag természetes személy mint kedvezményezett javára kezelt vagyonnak, valamint a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítványnak, ha az adóévben csak befektetett pénzügyi eszközök, követelések, értékpapírok vagy pénzeszközök birtoklása, hasznainak szedése vagy ilyen eszközzel kapcsolatos rendelkezési joga gyakorlása révén szerzett bevételt,
 
 c) az önkéntes kölcsönös biztosító pénztárnak, amennyiben a pénztár kiegészítő vállalkozási tevékenységből származó bevétele nem haladja meg a pénztár összes bevételének a 20 százalékát,
 

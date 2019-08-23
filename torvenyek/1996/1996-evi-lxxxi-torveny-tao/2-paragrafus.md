@@ -24,7 +24,9 @@ i) az európai területi társulás,
 
 j) az egyéni cég,
 
-k) az európai kutatási infrastruktúráért felelős konzorcium (ERIC).
+k) az európai kutatási infrastruktúráért felelős konzorcium (ERIC),
+
+l) a vagyonkezelő alapítvány.
 
 (3) Belföldi illetőségű adózónak minősül a külföldi személy, ha üzletvezetésének helye belföld.
 

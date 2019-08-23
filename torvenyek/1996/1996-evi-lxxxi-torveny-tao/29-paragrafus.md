@@ -16,7 +16,9 @@ d) a 19. § (16) bekezdése.
 
 (2) A Ta tv. 6. §-ának előírásai szerint elhatárolt veszteség az adózás előtti eredményből az elhatárolás időpontjában érvényes feltételek szerint írható le.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) A Ta tv. vonatkozó rendelkezései alapján adókedvezményt a társasági adóból a következő feltételekkel lehet érvényesíteni:
 
@@ -28,7 +30,9 @@ c)
 
 d) az 1993. évi IC. törvény 11. §-ával törvénybe iktatott 14/A. § (2) és (3) bekezdése alapján a Kormány által egyedileg engedélyezett adókedvezmény az engedélyben és a 190/1994. (XII. 31.) Korm. rendeletben foglaltak szerint vehető igénybe, figyelemmel e törvény 23. §-ának rendelkezéseire.
 
-(6)–(7)
+(6)
+
+(7)
 
 (8)
 
@@ -36,7 +40,9 @@ d) az 1993. évi IC. törvény 11. §-ával törvénybe iktatott 14/A. § (2) é
 
 (10)
 
-(11)–(12)
+(11)
+
+(12)
 
 (13) Ahol a törvény a társasági adókötelezettséggel összefüggésben korábbi évekre utaló rendelkezést tartalmaz, ott ez alatt értelemszerűen a Ta tv. előírásait is érteni kell.
 

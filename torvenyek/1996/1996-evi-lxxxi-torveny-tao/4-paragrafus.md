@@ -218,7 +218,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 
-28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott vagy az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az ennek megfeleltethető összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja az adózás előtti eredmény terhére ráfordításként;
+28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott vagy az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az ennek megfeleltethető összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont és a vagyonkezelő alapítványt) nem számolja az adózás előtti eredmény terhére ráfordításként;
 
 28c. önálló szervezeti egység: egy társaság olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez;
 
@@ -298,13 +298,13 @@ b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 36. új gazdasági tevékenység végzésére irányuló induló beruházás: az az induló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
 
-37.
+37. vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény alapján vagyonkezelő alapítványként vagy közérdekű vagyonkezelő alapítványként nyilvántartásba vett jogi személy;
 
 38.
 
 39.
 
-40. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló törvényben egyéni cégként meghatározott jogalany.
+40. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evectv.) által egyéni cégként meghatározott jogalany.
 
 40a. hivatásos sportoló: a sportról szóló 2004. évi I. törvény 1. § (4) bekezdésében meghatározott, a látvány-csapatsportnak minősülő sportágban foglalkoztatott sportoló azzal, hogy az általa jövedelemszerző foglalkoztatásban és díjazás ellenében nyújtott szolgáltatásként folytatott sporttevékenység hivatásos sporttevékenységnek minősül, amennyiben a részére sporttevékenységével összefüggésben az érintett támogatási időszakban nyújtott pénzbeli juttatás – a sportrendezvényen való részvételhez kapcsolódó utazási költségek és szállásköltségek kivételével – meghaladja a részvételi költséget és a sportoló jövedelmének legalább 50 százalékát teszi ki, függetlenül attól, hogy a sportoló és az érintett sportszervezet kötött-e egymással munkaszerződést;
 
