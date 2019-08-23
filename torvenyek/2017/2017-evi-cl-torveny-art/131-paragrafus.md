@@ -62,7 +62,7 @@ g) az adópolitikáért felelős minisztert, illetve az állami adó- és vámha
 
 h) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
 
-i) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához szükséges;
+i) a központi költségvetésből vagy európai uniós forrásból támogatást folyósító szervet, az irányító hatóságot, az alapok alapját végrehajtó szervezetet, valamint az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumot, ha a tájékoztatás a támogatás igénylése, felhasználása, elszámolása jogszerűségének megállapításához, valamint az Európai Bizottság tájékoztatásához, illetve az Európai Unióval történő elszámoláshoz szükséges;
 
 j) a helyi önkormányzatok törvényességi felügyeletéért felelős szervet, valamint a helyi és nemzetiségi önkormányzatot a Magyarország helyi önkormányzatairól szóló törvényben, valamint a nemzetiségek jogairól szóló törvényben meghatározott fennálló köztartozás, illetve annak az előírt határidőben történő meg nem fizetése mint méltatlansági eset, illetve a köztartozásmentes adózói adatbázisban való szereplés vizsgálatához szükséges körben, ideértve a köztartozásmentes adózói adatbázisból való törlés okát, amennyiben a törlésre köztartozás fennállása miatt került sor;
 

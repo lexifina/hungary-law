@@ -78,7 +78,7 @@ d) a hatszázezer eurónak megfelelő forintösszeget meghaladó, de a nyolcszá
 
 e) a nyolcszázezer eurónak megfelelő forintösszeget meghaladó támogatástartalom.
 
-(10) Az állami adó- és vámhatóság adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az SA.46672. számú bizottsági határozat, valamint a Jöt. 112. § (1) bekezdés b) pontja és 113. § (1) bekezdése szerinti állami támogatás igénybevételéről az SA.46672. számú bizottsági határozat szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített kedvezmény összege jogcímenként az ötszázezer eurónak megfelelő forintösszeget meghaladja.
+(10) Az állami adó- és vámhatóság – a (3) bekezdés szerinti sávok szerint – adatot szolgáltat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az SA.46672. számú bizottsági határozat, valamint a Jöt. 112. § (1) bekezdés b) pontja és 113. § (1) bekezdése szerinti állami támogatás igénybevételéről az SA.46672. számú bizottsági határozat szerinti közzététel céljából, feltéve, hogy az adózó által érvényesített kedvezmény összege jogcímenként az ötszázezer eurónak megfelelő forintösszeget meghaladja.
 
 (11) A (10) bekezdés szerinti adatszolgáltatást az adóévet követő év március tizenötödikéig kell teljesíteni az alábbi adatokról:
 
