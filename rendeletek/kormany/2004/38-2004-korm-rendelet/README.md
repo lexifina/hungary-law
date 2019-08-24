@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-38-20-2
 | 2012-10-03 | 2004-38-20-22.5 | 269/2012. (IX. 25.) Korm. rendelet |
 | 2017-01-01 | 2004-38-20-22.6 | 19/2008. (II. 5.) Korm. rendelet |
 | 2018-06-26 | 2004-38-20-22.7 | 475/2016. (XII. 27.) Korm. rendelet |
+| 2019-08-24 | 2004-38-20-22.8 | 206/2019. (VIII. 23.) Korm. rendelet |

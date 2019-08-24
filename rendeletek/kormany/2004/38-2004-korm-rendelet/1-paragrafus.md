@@ -1,15 +1,15 @@
-## 1. § Olimpiai központnak a rendelet előírásainak megfelelő alábbi sportlétesítmények minősülnek:
+## 1. §[^1] Az 1. mellékletben meghatározott ingatlanok minősülnek olimpiai központnak a következő megnevezéssel:
 
-a) Budapesti Olimpiai Központ – Budapest, Puskás Ferenc Stadion és Létesítményei;
+a) a Budapesti Olimpiai Központ (hivatalos rövidítése: BOK),
 
-b) Északnyugat-magyarországi Általános Olimpiai Központ – Tatai Edzőtábor;
+b) az Északnyugat-magyarországi Általános Olimpiai Központ (hivatalos rövidítése: ÉMÁOK),
 
-c)[^1] Balatoni Általános Olimpiai Központ – Balatonfűzfői Uszoda;
+c) a Balatoni Általános Olimpiai Központ (hivatalos rövidítése: BÁOK),
 
-d) Nemzeti Úszó és Vízilabda Olimpiai Központ – Budapest, Nemzeti Sportuszodák és Létesítményei;
+d) a Nemzeti Úszó és Vízilabda Olimpiai Központ (hivatalos rövidítése: NUVOK),
 
-e) Nemzeti Kajak-Kenu és Evezős Olimpiai Központ – Szeged, Maty-ér;
+e) a Szegedi Nemzeti Kajak-Kenu és Evezős Olimpiai Központ (hivatalos rövidítése: SZOK),
 
-f) Közép-magyarországi Általános Olimpiai Központ – Dunavarsányi Edzőtábor.
+f) a Közép-magyarországi Általános Olimpiai Központ (hivatalos rövidítése: KMÁOK).
 
-[^1]: Az 1. § c) pontja a 269/2012. (IX. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 206/2019. (VIII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
