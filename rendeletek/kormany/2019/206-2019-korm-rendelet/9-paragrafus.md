@@ -1,0 +1,1 @@
+## „(5) Támogatói okirattal történő támogatásnyújtáskor a miniszter a támogatói okiratot a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok hiányában is kiadhatja. Ha a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok a támogatói okirat kiadását követő tizenöt napon belül nem kerülnek benyújtásra, akkor a támogató a támogatói okiratot visszavonja.”
