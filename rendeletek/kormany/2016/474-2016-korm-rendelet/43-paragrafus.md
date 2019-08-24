@@ -46,11 +46,11 @@ b) a szövetségi tagszervezetek száma több mint húsz,
 
 c) a 7. melléklet szerinti pontérték-táblázat alapján számított sportági eredményességi pontszám nem nulla.
 
-(4)[^30] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, a 4. melléklet 7. sor 7.2. pontja szerinti költségvetési támogatása az adott évben nem lehet több ötmillió forintnál.
+(4)[^42] Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül kettőnek nem felel meg, a 4. melléklet 7. sor 7.2. pontja szerinti költségvetési támogatása az adott évben nem lehet több ötmillió forintnál.
 
 (5) Ha az országos sportági szakszövetség, országos sportági szövetség a (3) bekezdésben meghatározott feltételek közül legalább kettőnek megfelel, a támogatási döntéskor az országos sportági szakszövetségek, országos sportági szövetségek következő adatait kell figyelembe venni:
 
-a)[^31] a 4. melléklet 7. sor 7.2. pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg huszonöt százalékának felosztása a 7. mellékletben meghatározott pontérték-táblázat alapján kiszámított sportági eredményességi pontszám, továbbá az országos sportági szakszövetség adott évi szakmai feladataihoz közvetlenül kapcsolódó támogatási igénye alapján történik,
+a)[^43] a 4. melléklet 7. sor 7.2. pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg huszonöt százalékának felosztása a 7. mellékletben meghatározott pontérték-táblázat alapján kiszámított sportági eredményességi pontszám, továbbá az országos sportági szakszövetség adott évi szakmai feladataihoz közvetlenül kapcsolódó támogatási igénye alapján történik,
 
 b) a 4. melléklet 7. sor 7.2. pontjában foglaltak költségvetési támogatására rendelkezésre álló összeg hetvenöt százalékának felosztása a következő adatok alapján történik, a megjelölt arányban
 
@@ -66,5 +66,5 @@ be) a sportági tradíciók (a magyar sportszövetség megalakulása óta eltelt
 
 bf) egyéb, előre nem számszerűsíthető szempontok, azaz a sportág szállítási igénye kétszeres szorzóval, pályaigénye kétszeres szorzóval, technikai igényei és állatok bevonásának igénye négyszeres szorzóval, edzőpartner bevonásának igénye négyszeres szorzóval, női és férfi szakágai hatszoros szorzóval, olimpiai szakágak száma hatszoros szorzóval.
 
-[^30]: A 43. § (4) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^31]: A 43. § (5) bekezdés a) pontja a 279/2018. (XII. 21.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^42]: A 43. § (4) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^43]: A 43. § (5) bekezdés a) pontja a 279/2018. (XII. 21.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.

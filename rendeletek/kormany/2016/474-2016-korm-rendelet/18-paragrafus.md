@@ -1,14 +1,16 @@
-18. § (1) A 17. § (1) bekezdés 1., 2., 4. és 5. pontjában meghatározott dokumentumokat nem kell benyújtani, ha a kedvezményezett
+18. § (1)[^14] A 17. § (1) bekezdés 1., 2., 4. és 5. pontjában meghatározott dokumentumokat – a szervezet képviselője aláírási címpéldányának, valamint a fizetési számlákra vonatkozó nyilatkozat kivételével – nem kell benyújtani, ha a kedvezményezett
 
 a) a miniszter irányítása alá tartozó központi költségvetési szerv,
 
 b) az államháztartás központi alrendszerébe sorolt és nem a miniszter irányítása alá tartozó központi költségvetési szerv,
 
-c) olyan gazdasági társaság, amelynek vonatkozásában a miniszter jogszabály, vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött szerződés alapján tulajdonosi jogokat gyakorol és a miniszter a támogató,
+c) olyan gazdasági társaság, amelynek vonatkozásában a miniszter jogszabály vagy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal kötött szerződés alapján tulajdonosi jogokat gyakorol és a miniszter a támogató,
 
 d) olyan közalapítvány, alapítvány, amely tekintetében a miniszter alapítói jogokat gyakorol és a miniszter a támogató,
 
 e) helyi önkormányzat, nemzetiségi önkormányzat, jogi személyiségű társulás, térségi fejlesztési tanács.
+
+(1a)[^15] Ha a kedvezményezett képviseletére jogosult személy közjegyző által hitelesített aláírási címpéldánya vagy ügyvéd által ellenjegyzett aláírás mintája egy korábbi támogatási jogviszonyból eredően a támogató rendelkezésére áll, és a képviselő személye nem változott, a támogató e korábban benyújtott aláírási címpéldányról, aláírás mintáról készített egyszerű másolatot csatolhat az ügyirathoz.
 
 (2) Ha az (1) bekezdés hatálya alá nem tartozó kedvezményezettről a kincstár törvényben meghatározott közhiteles és nyilvános nyilvántartást vezet, a kedvezményezettnek a 17. § (1) bekezdés 2. pontjában meghatározott dokumentumot nem kell benyújtania. Ez esetben a kedvezményezett létezését a támogató ellenőrzi a nyilvántartásban.
 
@@ -22,4 +24,8 @@ b) az egyéni vállalkozó nem csatolta az egyéni vállalkozó hatályos adatai
 
 c) a gazdasági társaság nem csatolta harminc napnál nem régebbi cégkivonatát, a miniszter az adatokat a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
-(5) A Kormány hatáskörében végrehajtott, nem a központi költségvetés fejezetei közötti megállapodás alapján lebonyolított tárgyévi, a sport célú előirányzatok javára történt előirányzat-átcsoportosítás, valamint az Ávr. 153. § (1) bekezdése alapján meghiúsult, illetve kötelezettségvállalással nem terhelt maradványok Kormány döntése alapján, az eredetitől eltérő célra visszahagyott forrásai esetében az ezek terhére történő támogatásnyújtáskor a miniszter a támogatási szerződést a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok hiányában is megkötheti. A támogatás folyósításának – a 21. §-ban meghatározottak mellett – feltétele, hogy a kedvezményezett a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumokat a szerződéskötést követő tizenöt napon belül benyújtsa. Ennek hiányában a támogatás folyósítására nem kerül sor.
+(5)[^16] Támogatói okirattal történő támogatásnyújtáskor a miniszter a támogatói okiratot a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok hiányában is kiadhatja. Ha a 17. § (1) bekezdés 11–15. pontja szerinti dokumentumok a támogatói okirat kiadását követő tizenöt napon belül nem kerülnek benyújtásra, akkor a támogató a támogatói okiratot visszavonja.
+
+[^14]: A 18. § (1) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^15]: A 18. § (1a) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^16]: A 18. § (5) bekezdése a 206/2019. (VIII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

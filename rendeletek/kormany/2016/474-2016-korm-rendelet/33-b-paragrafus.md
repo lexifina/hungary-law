@@ -1,4 +1,4 @@
-33/B. §[^26] (1) A kiemelt budapesti nemzetközi sportesemények megrendezésére irányuló, állami támogatás igényére is számot tartó pályázati szándéka esetén a 4. melléklet 4. sorában meghatározott szervezet az 5/A. melléklet szerinti – a minisztérium honlapján is közzétett – formanyomtatvány alkalmazásával kérelmet nyújt be a miniszter részére. Ha a sportesemény rendezési jogára vonatkozó pályázathoz a Kormány döntését igénylő létesítményfejlesztés, beruházás szükséges, a kérelemhez a sportesemény tervezett helyszínéül szolgáló létesítmény vezetőjének a sportesemény megrendezéséhez szükséges előzetes és részletes beruházási és fejlesztési költségtervét tartalmazó írásbeli nyilatkozatát is csatolni kell.
+33/B. §[^38] (1) A kiemelt budapesti nemzetközi sportesemények megrendezésére irányuló, állami támogatás igényére is számot tartó pályázati szándéka esetén a 4. melléklet 4. sorában meghatározott szervezet az 5/A. melléklet szerinti – a minisztérium honlapján is közzétett – formanyomtatvány alkalmazásával kérelmet nyújt be a miniszter részére. Ha a sportesemény rendezési jogára vonatkozó pályázathoz a Kormány döntését igénylő létesítményfejlesztés, beruházás szükséges, a kérelemhez a sportesemény tervezett helyszínéül szolgáló létesítmény vezetőjének a sportesemény megrendezéséhez szükséges előzetes és részletes beruházási és fejlesztési költségtervét tartalmazó írásbeli nyilatkozatát is csatolni kell.
 
 (2) A 4. melléklet 4. sorában meghatározott szervezet mellett a budapesti fejlesztésekért és a nemzetközi sportpályázatokért felelős kormánybiztos (a továbbiakban: kormánybiztos) is kezdeményezheti a miniszterrel és a pályázat benyújtására jogosult szervezettel történt egyeztetést és jóváhagyást követően a sportszövetségekhez közvetlenül nem köthető kiemelt budapesti nemzetközi sportesemények megrendezését az (1) bekezdésnek megfelelő módon.
 
@@ -42,4 +42,4 @@ h) a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársasá
 
 (14) Nem kaphat állami sport célú támogatást a 4. melléklet 4. sorában meghatározott szervezet, ha az (1) bekezdés szerinti kérelem benyújtását elmulasztja.
 
-[^26]: A 33/B. §-t a 282/2018. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^38]: A 33/B. §-t a 282/2018. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
