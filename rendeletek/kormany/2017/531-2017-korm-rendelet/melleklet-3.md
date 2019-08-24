@@ -96,8 +96,4 @@
 
 34. az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet szerinti beruházás,
 
-35. a Népliget rekreációs és sportolásra hasznosított területeinek rekonstrukciójával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 130/2017. (VI. 8.) Korm. rendelet szerinti beruházás,
-
-36. a Szegedi Olimpiai Központ fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 131/2017. (VI. 8.) Korm. rendelet szerinti beruházás.
-
 [^2]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
