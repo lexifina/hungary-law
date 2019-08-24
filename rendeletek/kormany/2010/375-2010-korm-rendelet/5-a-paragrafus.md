@@ -1,6 +1,6 @@
 ## Speciális közfoglalkoztatási program támogatása
 
-5/A. §[^33] (1) Támogatás nyújtható a járási hivatal által kiközvetített mentális, szociális, egészségügyi problémákkal küzdő álláskereső határozott idejű közfoglalkoztatási jogviszony keretében, napi 6 órás munkaidőben történő foglalkoztatására.
+5/A. §[^34] (1) Támogatás nyújtható a járási hivatal által kiközvetített mentális, szociális, egészségügyi problémákkal küzdő álláskereső határozott idejű közfoglalkoztatási jogviszony keretében, napi 6 órás munkaidőben történő foglalkoztatására.
 
 (2) A támogatás közfoglalkoztatási pontnak minősülő közfoglalkoztató részére nyújtható.
 
@@ -28,7 +28,7 @@ e) a speciális közfoglalkoztatási program megvalósításához szükséges an
 
 (7) A támogatási időszak a speciális közfoglalkoztatási program tekintetében 5 hónap.
 
-(8)[^34] Az (1) bekezdés szerinti speciális közfoglalkoztatási program támogatása kérelemre nyújtható, a program támogatásáról a közfoglalkoztatásért felelős miniszter mérlegelési jogkörében dönt. A támogatási eljárásra a 7. § (2), (3), (6), (7), (9) és (10) bekezdését kell alkalmazni.
+(8)[^35] Az (1) bekezdés szerinti speciális közfoglalkoztatási program támogatása kérelemre nyújtható, a program támogatásáról a közfoglalkoztatásért felelős miniszter mérlegelési jogkörében dönt. A támogatási eljárásra a 7. § (2), (3), (6), (7), (9) és (10) bekezdését kell alkalmazni.
 
-[^33]: Az 5/A. §-t és az azt megelőző alcímet a 125/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
-[^34]: Az 5/A. § (8) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: Az 5/A. §-t és az azt megelőző alcímet a 125/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^35]: Az 5/A. § (8) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
