@@ -24,13 +24,13 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 3a. | Baseball/Softball | junior (U18) | junior (U22) |  |
 
-| 4. | Birkózás | U23 | junior (18–20 évesek) | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
+| 4. | Birkózás | U23 | U23 | az eredményre jogosító sportesemény nemzetközi szövetsége általi versenykiírásban meghatározott súlycsoportok |
 
 | 5. | Kerékpár / BMX | junior (17–18 évesek) | junior (17–18 évesek) |  |
 
 | 6. | Csúszókorong (Curling) | nincs | junior (U21) |  |
 
-| 7. | Evezés | ifjúsági | U23 |  |
+| 7. | Evezés | U23 | U23 |  |
 
 | 8. | Golf | nincs | nincs |  |
 
@@ -78,7 +78,7 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 27. | Öttusa | junior (19–21 évesek) | junior (19–21 évesek) |  |
 
-| 28. | Ritmikus gimnasztika | junior | nincs |  |
+| 28. | Torna | junior – női: 14–15 évesek, férfi: 14–18 évesek | junior |  |
 
 | 29. | Rögbi | U18 | U18 |  |
 
@@ -132,4 +132,4 @@ Az eredményességi támogatásra jogosult utánpótlás korosztály
 
 | 53. | Vízilabda | U19 | U20 |  |
 
-[^38]: A 4. mellékletet a 234/2016. (VII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 279/2018. (XII. 21.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^38]: A 4. mellékletet a 234/2016. (VII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 279/2018. (XII. 21.) Korm. rendelet 12. §-a, a 206/2019. (VIII. 23.) Korm. rendelet 6. §-a szerint módosított szöveg.
