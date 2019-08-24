@@ -1,4 +1,6 @@
-1. számú melléklet a 157/2004. (V. 18.) Korm. rendelethez[^13]
+## 6. §[^13] E rendelet a szakmai képzések elismeréséről szóló 2005/36/EK irányelv 49b. cikke alapján a síoktatók közös képzési vizsgája létrehozásáról szóló, 2019. március 14-i (EU) 2019/907 felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+1. számú melléklet a 157/2004. (V. 18.) Korm. rendelethez[^14]
 
 JEGYZÉK az állam által elismert, a sport területén képesítéshez kötött tevékenységekről
 
@@ -56,8 +58,11 @@ f = felsőfokú szakképzettség
 
 | 20. a wellness turizmus és az egészségorientált szolgáltató ipar területén szakértőként közreműködés modern, közérzetjavító és élménygazdag szolgáltatásokat nyújtó sportrekreációs létesítmények tervezésében, kivitelezésében és üzemeltetésében | rekreációs mozgásprogram-vezető következő szakiránya: wellness tanácsadó (r); sportmenedzser (f), okleveles sportmenedzser (f), rekreáció-szervező (f), rekreáció-szervező-egészségfejlesztő (f), okleveles rekreáció-irányító (f) |
 
+| 21. teljesen önállóan biztonságos síoktatási foglalkozások tartása havas, hegyvidéki környezetben (kivéve az olyan területeket, ahol hegymászási technikák szükségesek) | sportoktató (sí sportágban) (a), sportedző (sí sportágban) (k), közös képzési vizsga (CTT) (a), szakedző (sí) (f), okleveles szakedző (sí) (f) |
+
 Megjegyzés:
 
 A *-gal ellátott tevékenységeknél szakképesítésként elfogadható a szakiránynak megfelelő egyéb szakképesítés vagy magasabb szintű szakirányú szakmai végzettség, valamint a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelet szerinti jogi képzési területen szerzett, valamint a közgazdasági felsőfokú végzettség.
 
-[^13]: Az 1. számú melléklet a 256/2009. (XI. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 17/2011. (II. 24.) Korm. rendelet 1. §-a, a 46/2014. (II. 26.) Korm. rendelet 8. §-a, a 137/2014. (IV. 24.) Korm. rendelet 3. §-a, a 139/2015. (VI. 9.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 6. §-t a 206/2019. (VIII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^14]: Az 1. számú melléklet a 256/2009. (XI. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 17/2011. (II. 24.) Korm. rendelet 1. §-a, a 46/2014. (II. 26.) Korm. rendelet 8. §-a, a 137/2014. (IV. 24.) Korm. rendelet 3. §-a, a 139/2015. (VI. 9.) Korm. rendelet 13. § (1) bekezdése, a 206/2019. (VIII. 23.) Korm. rendelet 4. §-a szerint módosított szöveg.
