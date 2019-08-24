@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-197-20-
 | --- | --- | --- |
 | 2018-11-01 | 2018-197-20-22.1 | 197/2018. (X. 24.) Korm. rendelet |
 | 2018-11-02 | 2018-197-20-22.2 | 2010: CXXX. törvény |
+| 2019-08-24 | 2018-197-20-22.3 | 205/2019. (VIII. 23.) Korm. rendelet |

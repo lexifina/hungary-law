@@ -41,3 +41,7 @@ ja) az Európai Regionális Fejlesztési Alap által az európai területi együ
 jb) a szabálytalanságkezelést.
 
 (2) A Társaság részt vehet az egyes határ menti gazdaságfejlesztési programok megvalósításában, ennek keretében a külgazdasági ügyekért felelős miniszter a Társaságot a központi költségvetésről szóló törvényben meghatározott Külgazdasági és Külügyminisztérium fejezet terhére a felvidéki gazdaságfejlesztési stratégia keretében nyújtandó költségvetési támogatásokkal kapcsolatos lebonyolítási feladatok ellátásával megbízhatja.
+
+(3)[^1] Az agrár-vidékfejlesztésért felelős miniszter mint a Vidékfejlesztési Program irányító hatósága az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet 54. cikke alapján létrejött nemzeti vidéki hálózat titkársági feladatait a Társaság útján látja el.
+
+[^1]: A 6. § (3) bekezdését a 205/2019. (VIII. 23.) Korm. rendelet 1. §-a iktatta be.
