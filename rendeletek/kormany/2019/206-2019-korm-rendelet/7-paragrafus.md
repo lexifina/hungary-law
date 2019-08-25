@@ -1,5 +1,7 @@
-## 6. § Az R3. 4. melléklete a 3. melléklet szerint módosul.
+## 5–6. §[^4]
 
 ## 4. Az állami sport célú támogatások felhasználásáról és elosztásáról szóló
 
 ## 474/2016. (XII. 27.) Korm. rendelet módosítása
+
+[^4]: Az 5–6. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
