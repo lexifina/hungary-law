@@ -24,13 +24,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:39 mezőjében a „12,00” szövegrész helyébe a „14,51” szöveg,
-
-## b) E:39 mezőjében a „–” szövegrész helyébe a „4,43” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1509/2019. (VIII. 23.) Korm. határozathoz
 
@@ -39,3 +33,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Eredeti támogatás (bruttó, forint) | Többlettámogatás KEHOP forrásból (bruttó, forint) | Többlettámogatás az 1. pont d), illetve e) alpontja szerinti forrásból (bruttó, forint) | Változást követő összköltség (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.3.0-15- 2015-00007 | Balaton levezető rendszerének korszerűsítése | Országos Vízügyi Főigazgatóság (konzorciumvezető) Közép-dunántúli Vízügyi Igazgatóság | 12 000 000 000 | 2 509 950 692 | 4 429 141 304 | 18 939 091 996 | A projekt célja az éghajlatváltozás felszíni és felszín alatti vizekre gyakorolt káros hatásainak mérséklése érdekében a vízgazdálkodás helyzetének javítása, a vízhiányos időszakokban jelentkező vízigények kielégítésének elősegítése, valamint a természetes vízkészletek hasznosíthatóságának növelése. A projektben 80 000 hektár területet érint vízgazdálkodási fejlesztés. |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

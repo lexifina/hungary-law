@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1509-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-08-24 | 2019-1509-30-22.1 | 1509/2019. (VIII. 23.) Korm. határozat |
+| 2019-08-25 | 2019-1509-30-22.2 | 1304/2021. (V. 21.) Korm. határozat |
