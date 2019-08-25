@@ -1,3 +1,0 @@
-## 1. § A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságról szóló 197/2018. (X. 24.) Korm. rendelet (a továbbiakban: Korm. rendelet) 6. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) Az agrár-vidékfejlesztésért felelős miniszter mint a Vidékfejlesztési Program irányító hatósága az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet 54. cikke alapján létrejött nemzeti vidéki hálózat titkársági feladatait a Társaság útján látja el.”
