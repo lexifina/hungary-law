@@ -1,13 +1,5 @@
-## 2. § A közfoglalkoztatási bér és a közfoglalkoztatási garantált bér megállapításáról szóló 170/2011. (VIII. 24.) Korm. rendelet a következő 2/D. §-sal egészül ki:
-
-## „2/D. § (1) A 2019. augusztus 1-jén közfoglalkoztatási jogviszonyban álló személyt az őt megillető közfoglalkoztatási bérén, garantált közfoglalkoztatási bérén felül egyszeri foglalkoztatást ösztönző támogatás illeti meg, amennyiben 2019. január 1. és július 31. napja között
-
-## a) legalább 90 napig közfoglalkoztatási jogviszonyban állt,
-
-## b) nem állt a Kftv. 1. § (4a) bekezdésében meghatározott közfoglalkoztatásból történő kizárás hatálya alatt.
-
-## (2) Az egyszeri foglalkoztatást ösztönző támogatás összege 81 530 Ft.
-
-## (3) A foglalkoztatást ösztönző támogatást a közfoglalkoztató közfoglalkoztatási bérként fizeti meg a közfoglalkoztatott részére 2019. szeptember hónapban, legkésőbb szeptember 20-ig.”
+## 2. §[^3]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
