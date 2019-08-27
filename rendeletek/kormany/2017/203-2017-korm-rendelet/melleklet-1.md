@@ -1,7 +1,7 @@
-## 13. §[^18] E rendeletnek a beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 136/2019. (VI. 11.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 6. § (1) bekezdését a Módr6. hatálybalépésekor[^19] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 14. §[^21] A Modern Városok Program keretében egyes sportcélú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 203/2017. (VII. 10.) Korm. rendelet módosításáról szóló 208/2019. (VIII. 26.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 6. § (1) bekezdés b) pontját a Módr7. hatálybalépésekor[^22] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 203/2017. (VII. 10.) Korm. rendelethez[^20]
+1. melléklet a 203/2017. (VII. 10.) Korm. rendelethez[^23]
 
-[^18]: A 13. §-t a 136/2019. (VI. 11.) Korm. rendelet 5. §-a iktatta be.
-[^19]: A hatálybalépés időpontja 2019. június 12.
-[^20]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^21]: A 14. §-t a 208/2019. (VIII. 26.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A hatálybalépés időpontja 2019. augusztus 27.
+[^23]: Az 1. melléklet a 243/2017. (VIII. 28.) Korm. rendelet 3. §-a, a 464/2017. (XII. 28.) Korm. rendelet 3. §-a, az 526/2017. (XII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.

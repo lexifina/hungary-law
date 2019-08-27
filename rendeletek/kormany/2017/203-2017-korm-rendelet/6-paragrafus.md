@@ -4,7 +4,7 @@
 
 a) 2., 3., 7., 9., 13–20. és 24. sora szerinti beruházások építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója,
 
-b) 23. sora szerinti beruházások építési műszaki ellenőre és beruházás-lebonyolítója,
+b)[^7] 23. sora szerinti beruházások, valamint a 8. sor szerinti beruházások közül a Sopron 7213/1 helyrajzi számú ingatlanon megvalósuló „Fedettuszoda-építés” projekt építési műszaki ellenőre és beruházás-lebonyolítója,
 
 c) 22. sora szerinti beruházások építési műszaki ellenőre és felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója
 
@@ -14,3 +14,4 @@ c) 22. sora szerinti beruházások építési műszaki ellenőre és felelős ak
 
 [^5]: Az 5. § a 243/2017. (VIII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^6]: A 6. § (1) bekezdése a 136/2019. (VI. 11.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: A 6. § (1) bekezdés b) pontja a 208/2019. (VIII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
