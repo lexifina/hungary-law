@@ -1,4 +1,4 @@
-## 17. §[^1]
+## 17. §[^2]
 
 1. melléklet a 64/2019. (III. 27.) Korm. rendelethez
 
@@ -52,4 +52,4 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

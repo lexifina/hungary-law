@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-64-20-2
 | --- | --- | --- |
 | 2019-03-28 | 2019-64-20-22.1 | 64/2019. (III. 27.) Korm. rendelet |
 | 2019-03-29 | 2019-64-20-22.2 | 2010: CXXX. törvény |
+| 2019-08-28 | 2019-64-20-22.3 | 212/2019. (VIII. 27.) Korm. rendelet |
