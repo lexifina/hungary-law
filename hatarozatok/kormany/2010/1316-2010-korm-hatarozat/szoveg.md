@@ -280,39 +280,45 @@ Határidő: 2011.június 15.[^40]
 
 9.5.[^48] az emberi erőforrások miniszterét
 
-9.5.1. a Közalapítvány a Budapesti Német Nyelvű Egyetemért,
+9.5.1.[^49]
 
 9.5.2. a Budapesti Német Iskola Alapítvány,
 
-9.5.3. a Magyar–Amerikai Fulbright Alapítvány,
+9.5.3.[^50]
 
 9.5.4. a Magyar–Francia Ifjúsági Alapítvány,
 
-9.5.5. az Osztrák–Magyar Tudományos és Kooperációs Akció Alapítvány,
+9.5.5.[^51]
 
 9.5.6. a Tempus Közalapítvány és
 
 9.5.7. a Budapesti Osztrák Iskola Alapítvány,
 
-9.5.8.[^49] a Hajléktalanokért Közalapítvány
+9.5.8.[^52] a Hajléktalanokért Közalapítvány
 
-9.6.[^50] a nemzeti fejlesztési minisztert
+9.6.[^53] az innovációért és technológiáért felelős minisztert
 
 9.6.1. a Kulturált Közlekedésért Alapítvány,
 
-9.6.2. a Magyar Vállalkozásfejlesztési Alapítvány
+9.6.2. a Magyar Vállalkozásfejlesztési Alapítvány,
 
-9.6.3.[^51] a Magyar Nemzeti Üdülési Alapítvány
+9.6.3. SEED Kisvállalkozás-fejlesztési Alapítvány,
 
-9.7.[^52] a nemzetgazdasági minisztert
+9.6.4. a Közalapítvány a Budapesti Német Nyelvű Egyetemért,
 
-9.7.1.[^53] a Magyar–Koreai Műszaki Együttműködési Központ Alapítvány,
+9.6.5. a Magyar-Amerikai Fulbright Alapítvány,
 
-9.8.[^54] a földművelésügyi minisztert
+9.6.6. az Osztrák-Magyar Tudományos és Kooperációs Akció Alapítvány
+
+9.7.[^54] a nemzetgazdasági minisztert
+
+9.7.1.[^55] a Magyar–Koreai Műszaki Együttműködési Központ Alapítvány,
+
+9.8.[^56] a földművelésügyi minisztert
 
 9.8.1. az Agrár-Vállalkozási Hitelgarancia Alapítvány
 
-9.9.[^55] a Miniszterelnökséget vezető minisztert
+9.9.[^57] a Miniszterelnökséget vezető minisztert
 
 9.9.1. a Magyarországi Zsidó Örökség Közalapítvány,
 
@@ -454,10 +460,12 @@ Határidő: 2011. február 28.
 [^46]: A 9. pont 9.3.4. alpontját az 1692/2012. (XII. 29.) Korm. határozat 3. pontja iktatta be, hatályon kívül helyezte az 1371/2014. (VII. 8.) Korm. határozat 4. pontja.
 [^47]: A 9.4. pont az 1664/2014. (XI. 20.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^48]: A 9. pont 9.5. alpontja az 1459/2012. (X. 19.) Korm. határozat 3. pontjával megállapított szöveg.
-[^49]: A 9. pont 9.5.8. alpontját az 1035/2011. (III. 3.) Korm. határozat 9. pontja iktatta be.
-[^50]: A 9.6. pont az 1664/2014. (XI. 20.) Korm. határozat 1. pontjával megállapított szöveg.
-[^51]: A 9.6.3. pontot az 1296/2016. (VI. 13.) Korm. határozat 1. pontja iktatta be.
-[^52]: A 9.7. pontot az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte, újonnan az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
-[^53]: A 9.7. pont 9.7.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
-[^54]: A 9.8. pont az 1664/2014. (XI. 20.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
-[^55]: A 9. pont 9.9. alpontját az 1603/2013. (IX. 3.) Korm. határozat 1. pontja iktatta be, szövege az 1664/2014. (XI. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^49]: A 9.5. pont 9.5.1 alpontját az 1513/2019. (VIII. 27.) Korm. határozat 2. pont a) pontja hatályon kívül helyezte.
+[^50]: A 9.5. pont 9.5.3. alpontját az 1513/2019. (VIII. 27.) Korm. határozat 2. pont b) pontja hatályon kívül helyezte.
+[^51]: A 9.5. pont 9.5.5. alpontját az 1513/2019. (VIII. 27.) Korm. határozat 2. pont c) pontja hatályon kívül helyezte.
+[^52]: A 9. pont 9.5.8. alpontját az 1035/2011. (III. 3.) Korm. határozat 9. pontja iktatta be.
+[^53]: A 9.6. pont az 1513/2019. (VIII. 27.) Korm. határozat 1. pontjával megállapított szöveg.
+[^54]: A 9.7. pontot az 1362/2011. (XI. 8.) Korm. határozat 8. pont a) alpontja hatályon kívül helyezte, újonnan az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
+[^55]: A 9.7. pont 9.7.1. alpontját az 1538/2012. (XII. 4.) Korm. határozat 1. pontja iktatta be.
+[^56]: A 9.8. pont az 1664/2014. (XI. 20.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^57]: A 9. pont 9.9. alpontját az 1603/2013. (IX. 3.) Korm. határozat 1. pontja iktatta be, szövege az 1664/2014. (XI. 20.) Korm. határozat 2. pontjával megállapított szöveg.
