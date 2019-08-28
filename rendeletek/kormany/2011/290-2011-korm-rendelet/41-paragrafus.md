@@ -1,4 +1,4 @@
-## 40. §[^63] A polgári veszélyhelyzeti tervezésre vonatkozó, a nemzetközi szervezetekben képviselendő nemzeti álláspontot a katasztrófák elleni védekezésért felelős miniszter, a honvédelemért felelős miniszter, és a külpolitikáért felelős miniszter közösen terjeszti a Kormány elé.
+## 40. §[^65] A polgári veszélyhelyzeti tervezésre vonatkozó, a nemzetközi szervezetekben képviselendő nemzeti álláspontot a katasztrófák elleni védekezésért felelős miniszter, a honvédelemért felelős miniszter, és a külpolitikáért felelős miniszter közösen terjeszti a Kormány elé.
 
 ## 19. A honvédelmi felkészítés költségei
 
@@ -12,7 +12,7 @@ b) a Honvédelmi Tanács és a Kormány speciális működési feltételei jogc�
 
 a „Költségvetés közvetlen bevételei és kiadásai” fejezetben.
 
-(3)[^64] A (2) bekezdés szerinti költségvetési előirányzatok feladat szerinti elosztásáról a Kormány a honvédelmi felkészítés éves feladattervében rendelkezik. Az ezzel összefüggő szakmai koordinációt a HM védelmi igazgatási feladatokat ellátó szervezeti egysége végzi.
+(3)[^66] A (2) bekezdés szerinti költségvetési előirányzatok feladat szerinti elosztásáról a Kormány a honvédelmi felkészítés éves feladattervében rendelkezik. Az ezzel összefüggő szakmai koordinációt a HM védelmi igazgatási feladatokat ellátó szervezeti egysége végzi.
 
-[^63]: A 40. § a 221/2014. (IX. 4.) Korm. rendelet 595. §-a szerint módosított szöveg.
-[^64]: A 41. § (3) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 63. § k) pontja szerint módosított szöveg.
+[^65]: A 40. § a 221/2014. (IX. 4.) Korm. rendelet 595. §-a szerint módosított szöveg.
+[^66]: A 41. § (3) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 63. § k) pontja szerint módosított szöveg.

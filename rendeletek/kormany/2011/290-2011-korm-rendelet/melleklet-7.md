@@ -242,7 +242,7 @@
 
 ## – úszódaru.
 
-## G)[^162] Légijárművek:
+## G)[^164] Légijárművek:
 
 ## – pilóta által vezetett repülőgép és helikopter,
 
@@ -258,7 +258,7 @@
 
 ## – ejtőernyő.
 
-## H)[^163] Légijármű előkészítő és kiszolgáló eszközök, berendezések:
+## H)[^165] Légijármű előkészítő és kiszolgáló eszközök, berendezések:
 
 ## – jégtelenítő berendezés/gépjármű,
 
@@ -276,7 +276,7 @@
 
 ## – önjáró/vontatható utaslépcső.
 
-## I)[^164] Légiközlekedési hatósági engedélyhez kötött repülésgyakorló berendezések, szimulátorok.
+## I)[^166] Légiközlekedési hatósági engedélyhez kötött repülésgyakorló berendezések, szimulátorok.
 
 7. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
@@ -284,6 +284,6 @@
 
 A) A gépjárművekre vonatkozóan:
 
-[^162]: A 6. melléklet G) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^163]: A 6. melléklet H) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^164]: A 6. melléklet I) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^164]: A 6. melléklet G) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^165]: A 6. melléklet H) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^166]: A 6. melléklet I) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-290-20-
 | 2019-01-01 | 2011-290-20-22.25 | 281/2018. (XII. 21.) Korm. rendelet |
 | 2019-06-28 | 2011-290-20-22.26 | 154/2019. (VI. 27.) Korm. rendelet |
 | 2019-07-01 | 2011-290-20-22.27 | 126/2019. (V. 30.) Korm. rendelet |
+| 2019-08-28 | 2011-290-20-22.28 | 211/2019. (VIII. 27.) Korm. rendelet |
