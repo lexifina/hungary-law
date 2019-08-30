@@ -22,7 +22,7 @@ b) ha ugyanabban az ingatlanban résztulajdonnal rendelkező tulajdonos szerez e
 
 c)[^18]
 
-d)[^19] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény hatálya alá tartozó tulajdonosváltás és bérbeadás
+d)[^19] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény és a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény hatálya alá tartozó tulajdonosváltás és bérbeadás
 
 ## esetén.
 
@@ -41,5 +41,5 @@ esetében.
 [^16]: A 3. § (2a) bekezdését a 105/2012. (V. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^17]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^18]: A 3. § (4) bekezdés c) pontját a 105/2012. (V. 30.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
-[^19]: A 3. § (4) bekezdés d) pontját a 49/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 3. § (4) bekezdés d) pontját a 49/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 210/2019. (VIII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^20]: A 3. § (5) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
