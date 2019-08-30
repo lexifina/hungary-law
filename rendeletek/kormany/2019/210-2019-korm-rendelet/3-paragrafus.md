@@ -1,0 +1,3 @@
+## 2. § A 149/1997. (IX. 10.) Korm. rendelet 146. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A gyámhivatal a cselekvőképtelen nagykorú személy gondnoka, valamint a cselekvőképességében a vagyoni ügyeit érintően korlátozott személy és gondnoka kérelmére jóváhagyja a Ptk. 2:23. § (1) bekezdésében meghatározott jognyilatkozatokat. A gyámhivatal az e bekezdés szerinti jognyilatkozatok jóváhagyása iránt a Nemzeti Eszközkezelő kérelmére is eljár, ha a jognyilatkozatot a 2011. évi CLXX. törvényben és a 2018. évi CIII. törvényben meghatározott adásvételi szerződés megkötése, illetve az ingatlan részletvétellel történő megvásárlása során teszik.”
