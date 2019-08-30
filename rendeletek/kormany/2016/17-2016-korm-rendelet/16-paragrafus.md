@@ -1,8 +1,8 @@
-16. § (1)[^67] A családi otthonteremtési kedvezmény igénybevételével
+16. § (1)[^68] A családi otthonteremtési kedvezmény igénybevételével
 
 a) vásárolt használt lakásra a családi otthonteremtési kedvezmény igénybevételéről szóló szerződés megkötését követő,
 
-b)[^68] bővített lakásra a munkálatok idejére és
+b)[^69] bővített lakásra a munkálatok idejére és
 
 ba) a munkálatok befejezését, vagy
 
@@ -18,5 +18,5 @@ c) a 23. § szerinti esetben a családi otthonteremtési kedvezmény igénybevé
 
 (2) Az állam javára szóló jelzálogjog, valamint az elidegenítési és terhelési tilalom bejegyzésekor a hitelintézet jár el.
 
-[^67]: A 16. § (1) bekezdés záró szövegrésze a 273/2016. (IX. 15.) Korm. rendelet 26. § g) pontja, a 26/2018. (II. 28.) Korm. rendelet 37. § 11. pontja szerint módosított szöveg.
-[^68]: A 16. § (1) bekezdés b) pontja a 482/2016. (XII. 28.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^68]: A 16. § (1) bekezdés záró szövegrésze a 273/2016. (IX. 15.) Korm. rendelet 26. § g) pontja, a 26/2018. (II. 28.) Korm. rendelet 37. § 11. pontja szerint módosított szöveg.
+[^69]: A 16. § (1) bekezdés b) pontja a 482/2016. (XII. 28.) Korm. rendelet 49. §-ával megállapított szöveg.
