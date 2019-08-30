@@ -1,3 +1,3 @@
-106. §[^807]
+106. §[^808]
 
-[^807]: A 106. §-t és az azt megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^808]: A 106. §-t és az azt megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés e) pontja hatályon kívül helyezte.

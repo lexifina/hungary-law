@@ -1,6 +1,6 @@
 ## Jegyzőkönyv
 
-43. §[^267] (1) A 42. §-ban megjelölt személyek meghallgatásáról készült jegyzőkönyvnek tartalmaznia kell:
+43. §[^268] (1) A 42. §-ban megjelölt személyek meghallgatásáról készült jegyzőkönyvnek tartalmaznia kell:
 
 a) az örökbe fogadni szándékozó személy nyilatkozatát arról, hogy
 
@@ -14,7 +14,7 @@ ad) az örökbefogadás engedélyezését követően mely szervezettel kíván e
 
 ae) az örökbefogadás nem jár haszonszerzéssel,
 
-af)[^268] kéri-e az örökbefogadás Gyvt. 128/A. §-a szerinti nyilatkozaton alapuló tény szerinti anyakönyvezését (a továbbiakban: tény szerinti örökbefogadás),
+af)[^269] kéri-e az örökbefogadás Gyvt. 128/A. §-a szerinti nyilatkozaton alapuló tény szerinti anyakönyvezését (a továbbiakban: tény szerinti örökbefogadás),
 
 b) az örökbe fogadni szándékozó személy nyilatkozatát az örökbe fogadott gyermek – örökbefogadást követő – nevéről és származási helyéről,
 
@@ -42,5 +42,5 @@ c) titkos örökbefogadás esetén arról, hogy hatodik életévét betöltött 
 
 (5) A (4) bekezdés szerinti tájékoztatást, figyelmeztetést, valamint annak tudomásulvételét a gyámhivatal jegyzőkönyvben rögzíti. Titkos örökbefogadás esetén a jegyzőkönyvet soron kívül meg kell küldeni az örökbefogadás engedélyezéséről határozó kijelölt gyámhivatalnak.
 
-[^267]: A 43. § a 70/2014. (III. 13.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^268]: A 43. § (1) bekezdés a) pont af) alpontját a 70/2014. (III. 13.) Korm. rendelet 28. §-a iktatta be.
+[^268]: A 43. § a 70/2014. (III. 13.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^269]: A 43. § (1) bekezdés a) pont af) alpontját a 70/2014. (III. 13.) Korm. rendelet 28. §-a iktatta be.

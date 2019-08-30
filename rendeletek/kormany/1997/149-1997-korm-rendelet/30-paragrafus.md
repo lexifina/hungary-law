@@ -1,6 +1,6 @@
-## Tájékoztatási kötelezettség, igazolt költségek megtérítése és az elmaradt kapcsolattartás pótlása[^120]
+## Tájékoztatási kötelezettség, igazolt költségek megtérítése és az elmaradt kapcsolattartás pótlása[^121]
 
-30. §[^121] (1) A kapcsolattartást akadályozó körülményekről a felek előzetesen, lehetőség szerint írásban vagy egyéb igazolható módon, késedelem nélkül tájékoztatják egymást.
+30. §[^122] (1) A kapcsolattartást akadályozó körülményekről a felek előzetesen, lehetőség szerint írásban vagy egyéb igazolható módon, késedelem nélkül tájékoztatják egymást.
 
 (2) A kapcsolattartásra jogosult vagy a kapcsolattartásra kötelezett kérelmére a gyámhivatal akkor kötelezi a kapcsolattartást kellő indok nélkül akadályozó, a kapcsolattartás szabályait megszegő felet a neki felróhatóan keletkezett költségek viselésére, ha a kérelmező megfelelően igazolja költségeit és azt, hogy azok a kapcsolattartás akadályozásával, szabályainak megszegésével összefüggésben keletkeztek. A gyámhivatal tájékoztatást nyújt a Ptk. 4:183. § (1) bekezdése szerinti kártérítés lehetőségéről.
 
@@ -12,5 +12,5 @@
 
 (6) Az elmaradt kapcsolattartás pótlása nem veszélyeztetheti a gyermek egészséges fejlődését.
 
-[^120]: A 30. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^121]: A 30. § a 70/2014. (III. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^121]: A 30. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^122]: A 30. § a 70/2014. (III. 13.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

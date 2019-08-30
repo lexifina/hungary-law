@@ -1,4 +1,4 @@
-51/A. §[^356] (1)[^357] Ha a külföldi állampolgárságú örökbefogadó magyar állampolgárságú gyermeket fogadott örökbe külföldön, az örökbefogadó vagy az örökbefogadott kérheti a kijelölt gyámhivataltól a külföldi hatóság örökbefogadást engedélyező határozatának jóváhagyását. A kérelmet a korlátozottan cselekvőképes kiskorú örökbefogadott önállóan is előterjesztheti.
+51/A. §[^357] (1)[^358] Ha a külföldi állampolgárságú örökbefogadó magyar állampolgárságú gyermeket fogadott örökbe külföldön, az örökbefogadó vagy az örökbefogadott kérheti a kijelölt gyámhivataltól a külföldi hatóság örökbefogadást engedélyező határozatának jóváhagyását. A kérelmet a korlátozottan cselekvőképes kiskorú örökbefogadott önállóan is előterjesztheti.
 
 (2) A jóváhagyás iránti kérelemhez az örökbefogadást engedélyező külföldi határozatot és a gyermek születését igazoló okmányt felülhitelesítéssel és hiteles magyar fordítással ellátva kell csatolni.
 
@@ -6,5 +6,5 @@
 
 (4) A kijelölt gyámhivatal akkor hagyja jóvá az örökbefogadást engedélyező külföldi határozatot, ha az örökbefogadás nem tartozik a Hágai Örökbefogadási Egyezmény hatálya alá, a jóváhagyás kérelmezésekor az örökbefogadott kiskorú és az örökbefogadás a magyar jogban meghatározott feltételeknek is megfelel.
 
-[^356]: Az 51/A. §-t a 97/2013. (III. 29.) Korm. rendelet 17. §-a iktatta be.
-[^357]: Az 51/A. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 36. pontja szerint módosított szöveg.
+[^357]: Az 51/A. §-t a 97/2013. (III. 29.) Korm. rendelet 17. §-a iktatta be.
+[^358]: Az 51/A. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 36. pontja szerint módosított szöveg.
