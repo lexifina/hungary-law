@@ -1,5 +1,5 @@
-1. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^415]
+1. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^417]
 
 Az egyes munkáltatói jogkörök gyakorlásának rendje az állomány tagjára vonatkozóan
 
-[^415]: Az 1. melléklet a 20/2018. (XII. 28.) HM rendelet 70. § (1) bekezdésével megállapított szöveg.
+[^417]: Az 1. melléklet a 20/2018. (XII. 28.) HM rendelet 70. § (1) bekezdésével megállapított szöveg.
