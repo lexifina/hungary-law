@@ -1,0 +1,3 @@
+3. § (1) A létesítmény 1. § (1) bekezdése szerinti időpontig történő üzemeltetése és működtetése vonatkozásában a Nemzeti Sportközpontok részletes megvalósítási tervet készít, és azt jóváhagyásra a kormánybiztos elé terjeszti legkésőbb 2019. szeptember 15-éig. A Nemzeti Sportközpontok a megvalósítási tervet a kormánybiztos észrevételei alapján véglegesíti.
+
+(2) A Nemzeti Sportközpontok a kormánybiztos által jóváhagyott megvalósítási terv végrehajtásáról és a labdarúgó-mérkőzések megrendezése érdekében tett intézkedésekről, a felmerült problémákról és azok kezeléséről havonta, a tárgyhót követő 5 napon belül írásbeli jelentést készít, továbbá hetente vagy a kormánybiztos által meghatározott gyakorisággal a kormánybiztost szóban tájékoztatja.
