@@ -1,4 +1,4 @@
-## 7/A. §[^4] A szakgimnázium a szakmai programjában a szakképzési kerettantervben a szakképzési évfolyamon megszerezhető szakképesítés (a továbbiakban: főszakképesítés) tanítására biztosított órakereten túli órakeretben
+## 7/A. §[^5] A szakgimnázium a szakmai programjában a szakképzési kerettantervben a szakképzési évfolyamon megszerezhető szakképesítés (a továbbiakban: főszakképesítés) tanítására biztosított órakereten túli órakeretben
 
 a) mellék-szakképesítés megszerzésére irányuló képzés,
 
@@ -16,4 +16,4 @@ g) az a)–f) pontok mellett fent maradó órakeretben, de legfeljebb a teljes �
 
 elemekből szabadon összeállított, a nem a főszakképesítés tanítására biztosított teljes órakeretet kitöltő, legalább két alternatív tanulási lehetőséget ajánl fel, amelyek egyike mindenképpen tartalmaz mellék-szakképesítés megszerzésére irányuló képzést.
 
-[^4]: A 7/A. §-t az 5/2018. (VII. 9.) ITM rendelet 3. §-a iktatta be.
+[^5]: A 7/A. §-t az 5/2018. (VII. 9.) ITM rendelet 3. §-a iktatta be.

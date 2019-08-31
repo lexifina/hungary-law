@@ -1416,6 +1416,6 @@
 
 | st | tanulásban akadályozott |
 
-2. melléklet a 30/2016. (VIII. 31.) NGM rendelethez[^7]
+2. melléklet a 30/2016. (VIII. 31.) NGM rendelethez[^8]
 
-[^7]: A 2. melléklet a 24/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése, az 5/2018. (VII. 9.) ITM rendelet 5. § b) pontja szerint módosított szöveg.
+[^8]: A 2. melléklet a 24/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése, az 5/2018. (VII. 9.) ITM rendelet 5. § b) pontja szerint módosított szöveg.
