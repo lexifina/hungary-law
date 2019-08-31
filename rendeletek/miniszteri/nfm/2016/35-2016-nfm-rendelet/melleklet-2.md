@@ -164,7 +164,7 @@
 
 | 2. | 1. | 54 | 841 | 09 | Postai üzleti ügyintéző | Kereskedelem-marketing, üzleti adminisztráció |
 
-2. melléklet a 35/2016. (VIII. 31.) NFM rendelethez[^3]
+2. melléklet a 35/2016. (VIII. 31.) NFM rendelethez[^4]
 
 I.
 
@@ -496,6 +496,8 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.10. | 54 213 05 | Szoftverfejlesztő | azonos ágazat |
 
+| 3.3.11. | 52 481 02 | Irodai informatikus | azonos ágazat |
+
 4. SZAKMAI KÖVETELMÉNYEK
 
 |  | A | B |
@@ -542,7 +544,7 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi
 
 | 5.2.3. | 10815-16 | Információtechnológiai alapok | gyakorlati |
 
-| 5.2.4. | 11997-16 | Hálózati ismeretek I. |  |
+| 5.2.4. | 11997-16 | Hálózati ismeretek I. | gyakorlati, írásbeli (online teszt) |
 
 | 5.2.5. | 11625-16 | Programozás és adatbázis-kezelés | írásbeli (számítógépes környezetben) |
 
@@ -557,8 +559,6 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi
 | 5.2.10. | 11498-12 | Foglalkoztatás I. (érettségire épülő képzések esetén) | írásbeli |
 
 | 5.2.11. | 11499-12 | Foglalkoztatás II. | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
 5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
 
@@ -3368,11 +3368,11 @@ B) A vizsgafeladat megnevezése: Programozás és adatbázis-kezelés
 
 A vizsgafeladat ismertetése:
 
-Az interaktív (számítógépes) vizsgán a jelölt egy hálózati feladatot old meg szimulált környezetben a 11625-16 „Programozás és adatbázis-kezelés” modul témaköreiben, a központilag meghatározott fejlesztői környezetben.
+Az interaktív (számítógépes) vizsgán a jelölt egy feladatot old meg a 11625-16 Programozás és adatbázis-kezelés modul témakörben, a központilag meghatározott fejlesztői környezetben.
 
 A vizsgafeladat időtartama: 60 perc
 
-A vizsgafeladat értékelési súlyaránya: 27 %
+A vizsgafeladat értékelési súlyaránya: 27%
 
 C) A vizsgafeladat megnevezése: Linux alapismeretek
 
@@ -3406,11 +3406,15 @@ A szóbeli központilag összeállított vizsga kérdései a 10815-16 „Inform�
 
 A vizsgafeladat megnevezése: Programozás és adatbázis-kezelés
 
-B) A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései az az 11625-16 „Programozás és adatbázis-kezelés” modul elméleti témaköreit tartalmazzák.
+B) A vizsgafeladat megnevezése: Programozás és adatbázis-kezelés
+
+A vizsgafeladat ismertetése:
+
+A szóbeli központilag összeállított vizsga kérdései a 11625-16 Programozás és adatbázis-kezelés modul elméleti témaköreit tartalmazzák.
 
 A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
 
-A vizsgafeladat értékelési súlyaránya: 20 %
+A vizsgafeladat értékelési súlyaránya: 20%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
@@ -3460,7 +3464,7 @@ Az 5.3.1. Gyakorlati vizsgatevékenység során a jelölt a feladat kidolgozása
 
 7. EGYEBEK
 
-| Előzetesen megszerzett régebbi modulok, modulzáró vizsgák beszámíthatósága |
+7.1. Előzetesen megszerzett régebbi modulok, modulzáró vizsgák beszámíthatósága
 
 | az állam által elismert szakképesítések szakmai követelménymoduljairól szóló 217/2012. (VIII. 9.) Korm. rendelet | az állam által elismert szakképesítések szakmai követelménymoduljairól szóló 217/2012. (VIII. 9.) Korm. rendelet módosítását tartalmazó, az egyes szakképzési tárgyú kormányrendeletek módosításáról szóló 237/2016. (VIII. 2.) Korm. rendelet |
 
@@ -3468,9 +3472,11 @@ Az 5.3.1. Gyakorlati vizsgatevékenység során a jelölt a feladat kidolgozása
 
 | 10815-12 | Információtechnológiai alapok | 10815-16 | Információtechnológiai alapok |
 
-| 10817-12 | Hálózatok, programozás és adatbázis-kezelés | 11997-16 | Hálózati ismeretek I. |
+| 10817-12 | Hálózatok, programozás és adatbázis- kezelés | 11997-16 | Hálózati ismeretek I. |
 
-| 10817-12 | Hálózatok, programozás és adatbázis-kezelés | 11625-16 | Programozás és adatbázis-kezelés |
+| 10817-12 | Hálózatok, programozás és adatbázis- kezelés | 11625-16 | Programozás és adatbázis-kezelés |
+
+7.2. Mentesül az 5.3.1. Központi interaktív (számítógépes) vizsgatevékenység A) vizsgafeladatában, valamint B) vizsgafeladatában foglaltak, továbbá a szóbeli vizsgatevékenység A) vizsgafeladatában, valamint B) vizsgafeladatában foglaltak teljesítése alól az a vizsgázó, aki az Informatika ismeretek vagy az Informatikai ismeretek ágazati szakmai érettségi vizsgatárgyat sikeresen teljesítette. Ebben az esetben az előzőekben meghatározott vizsgafeladat eredményét – a vizsgatárgy érdemjegyétől függetlenül – jelesnek (5) kell tekinteni.
 
 A 14. sorszámú IT mentor megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -4962,7 +4968,7 @@ A szakképesítéssel rendelkező képes:
 
 | 4.5. | 10834-16 | Számítógépes hibaelhárítás |
 
-| 4.6. | 11498-12 | Foglalkoztatás I. (érettségire épülő képzések esetén) |
+| 4.6. | 11497-12 | Foglalkoztatás I. |
 
 | 4.7. | 11499-12 | Foglalkoztatás II. |
 
@@ -4988,7 +4994,7 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 
 | 5.2.5. | 10834-16 | Számítógépes hibaelhárítás | gyakorlati és szóbeli |
 
-| 5.2.6. | 11498-12 | Foglalkoztatás I. (érettségire épülő képzések esetén) | írásbeli |
+| 5.2.6. | 11497-12 | Foglalkoztatás I. | írásbeli |
 
 | 5.2.7. | 11499-12 | Foglalkoztatás II. | írásbeli |
 
@@ -5360,7 +5366,7 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 5.4.1. Részszakképesítés megszerzése:
 
-A gyakorlati vizsgatevékenység B) és C) vizsgafeladatának és a központ írásbeli vizsgatevékenység vizsgafeladatának sikeres teljesítése esetén 54 213 05 Szoftverfejlesztő részszakképesítést szerezhet a vizsgázó.
+A gyakorlati vizsgatevékenység B) és C) vizsgafeladatának és a központi írásbeli vizsgatevékenység vizsgafeladatának sikeres teljesítése esetén 51 213 09 Szoftverkódoló rész-szakképesítést szerezhet a vizsgázó.
 
 5.4.2. Záródolgozatra vonatkozó előírások
 
@@ -5694,14 +5700,4 @@ A vizsgára bocsátás feltételeként előírt előzetes értékelést a képz�
 
 - a záródolgozatnak tükröznie kell a választott probléma (kiinduló rendszer) összefüggéseit, kapcsolódásait.
 
-- lehetőleg teljes képet kell adnia a kiindulási helyzetről, a megoldási lehetőségekről, és ismertetnie kell az alkalmazott megoldás kiválasztásának a szempontjait is.
-
-- a záródolgozatnak a vizsgázó saját, önálló szellemi termékének kell lennie.
-
-A záródolgozatnak a következő fő részekből kell állnia:
-
-Bevezető, a probléma rövid ismertetése.
-
-Választott téma indoklása.
-
-[^3]: A 2. melléklet a 35/2017. (VIII. 31.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 35/2017. (VIII. 31.) NFM rendelet 1. § (2) bekezdése, a 29/2019. (VIII. 30.) ITM rendelet 2. §-a szerint módosított szöveg. [A 2. mellékletnek a 29/2019. (VIII. 30.) ITM rendelet 2. §-ával elrendelt módosítása, amely szerint az 1. melléklet II. táblázat C:48 mezőjében a „javító” szövegrész helyébe a „készítő” szöveg lép, nem vezethető át.]
