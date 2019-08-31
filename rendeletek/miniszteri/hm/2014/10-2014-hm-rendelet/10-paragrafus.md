@@ -1,6 +1,6 @@
 ## nyújtható pénzbeli támogatás.
 
-10. § (1)[^50] Egyszeri pénzbeli támogatásra jogosult
+10. § (1)[^51] Egyszeri pénzbeli támogatásra jogosult
 
 a) a hivatásos katona, ha
 
@@ -24,14 +24,14 @@ bb) özvegy és túlélő élettárs hiányában vagy azok hozzájárulásával 
 
 (4) Nem adható egyszeri pénzbeli támogatás, ha
 
-a)[^51] az igénylő vagy az igénylő házastársa, élettársa a házasság fennállása vagy az együttélés tartama alatt a honvédelmi szervezettől vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült;
+a)[^52] az igénylő vagy az igénylő házastársa, élettársa a házasság fennállása vagy az együttélés tartama alatt a honvédelmi szervezettől vissza nem térítendő juttatásban vagy egyszeri pénzbeli támogatásban részesült;
 
 b) az igénylő vagy az igénylő házastársa, élettársa a házasság fennállása vagy az együttélés tartama alatt az általa bérelt vagy jogcím nélkül használt állami vagy önkormányzati lakást önállóan vagy együttesen megvásárolta, vagy a lakás harmadik személy általi megvásárlásához hozzájárult;
 
 c) az igénylő vagy az igénylő házastársa, élettársa, az igénylő háztartásában eltartott gyermeke a kizárólagos vagy a felsorolt személyek közös tulajdonában lévő lakás tulajdonjogát a támogatás benyújtását megelőző öt éven belül ingyenesen átruházta.
 
-(5)[^52] Az egyszeri pénzbeli támogatásra vonatkozó igénylés már abban az évben benyújtható és nyilvántartásba vehető, amikor a hivatásos katona az 51. életévét betöltötte, de az csak az 52. életév betöltését követően teljesíthető.
+(5)[^53] Az egyszeri pénzbeli támogatásra vonatkozó igénylés már abban az évben benyújtható és nyilvántartásba vehető, amikor a hivatásos katona az 51. életévét betöltötte, de az csak az 52. életév betöltését követően teljesíthető.
 
-[^50]: A 10. § (1) bekezdése a 9/2017. (VIII. 31.) HM rendelet 15. §-ával megállapított szöveg.
-[^51]: A 10. § (4) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 7. § c) pontja szerint módosított szöveg.
-[^52]: A 10. § (5) bekezdését a 15/2015. (XII. 21.) HM rendelet 35. §-a iktatta be.
+[^51]: A 10. § (1) bekezdése a 9/2017. (VIII. 31.) HM rendelet 15. §-ával megállapított szöveg.
+[^52]: A 10. § (4) bekezdés a) pontja a 22/2018. (XII. 28.) HM rendelet 7. § c) pontja szerint módosított szöveg.
+[^53]: A 10. § (5) bekezdését a 15/2015. (XII. 21.) HM rendelet 35. §-a iktatta be.

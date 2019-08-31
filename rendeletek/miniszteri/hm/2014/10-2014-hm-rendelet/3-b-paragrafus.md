@@ -6,9 +6,9 @@ a) a hivatásos és szerződéses katona eltérő vonzáskörzetben lévő szolg
 
 b) az állományilletékes parancsnok az új szolgálati helyen, valamint az annak vonzáskörzetén kívüli lakhatáshoz erre az időtartamra a Hjt. 25. § (1) bekezdésében előírt engedélyt megadta,
 
-c) a kérelmező az új szolgálati helye szerinti településen vagy annak vonzáskörzetében helyőrségi szállón történő elhelyezésen kívül más lakhatási támogatásban, továbbá utazási költségtérítésben nem részesül, és
+c)[^24] a kérelmező az új szolgálati helye szerinti településen vagy annak vonzáskörzetében helyőrségi szállón történő elhelyezésen kívül más lakhatási támogatásban nem részesül, és
 
-d)[^24] a korábbi és az új szolgálati hely szerinti település közforgalom számára nyitott, szilárd burkolatú úton mért távolsága nem haladja meg a 80 kilométert.
+d)[^25] a korábbi és az új szolgálati hely szerinti település közforgalom számára nyitott, szilárd burkolatú úton mért távolsága nem haladja meg a 80 kilométert.
 
 (2) Az állományilletékes parancsnok haladéktalanul intézkedik a továbbfolyósítás megszüntetése iránt, ha
 
@@ -18,4 +18,5 @@ b) az (1) bekezdés c) pontja szerinti valamely feltétel már nem áll fenn.
 
 [^22]: A 3/A. §-t a 15/2015. (XII. 21.) HM rendelet 32. §-a iktatta be, hatályon kívül helyezte a 22/2018. (XII. 28.) HM rendelet 8. §-a.
 [^23]: A 3/B. §-t a 15/2015. (XII. 21.) HM rendelet 32. §-a iktatta be.
-[^24]: A 3/B. § (1) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 7. § f) pontja szerint módosított szöveg.
+[^24]: A 3/B. § (1) bekezdés c) pontja a 9/2019. (VIII. 30.) HM rendelet 4. §-ával megállapított szöveg.
+[^25]: A 3/B. § (1) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 7. § f) pontja szerint módosított szöveg.

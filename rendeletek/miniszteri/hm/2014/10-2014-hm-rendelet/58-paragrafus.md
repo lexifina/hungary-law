@@ -1,3 +1,3 @@
-## 56–57. §[^69]
+## 56–57. §[^70]
 
-[^69]: Az 56–57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: Az 56–57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
