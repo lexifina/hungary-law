@@ -1,6 +1,6 @@
-## 215/B. §[^286]
+## 215/B. §[^287]
 
-216. §[^287] (1) A hozzájárulás iránti kérelmet rendszeresített formanyomtatványon, a munkáltatói jogkört gyakorló munkahelyi vezető útján kell az igénylő munkahelye szerint illetékes helyi lakásgazdálkodási szervhez kell benyújtani.
+216. §[^288] (1) A hozzájárulás iránti kérelmet rendszeresített formanyomtatványon, a munkáltatói jogkört gyakorló munkahelyi vezető útján kell az igénylő munkahelye szerint illetékes helyi lakásgazdálkodási szervhez kell benyújtani.
 
 (2) A hozzájárulás lakásügyi feltételeinek fennállását
 
@@ -14,5 +14,5 @@ b) a 214. § (1) bekezdés d) pontja vonatkozásában a lakásgazdálkodási kö
 
 (4) A hozzájárulás összegéről, annak folyósításáról a munkáltatói jogkört gyakorló munkahelyi vezető a kérelmező nyilatkozata és a helyi lakásgazdálkodási szerv igazolása alapján dönt.
 
-[^286]: A 215/B. §-t a 25/2016. (XII. 22.) HM rendelet 8. §-a iktatta be, hatályát vesztette a 10/2014. (VII. 25.) HM rendelet 56. §-a alapján.
-[^287]: A 216. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.
+[^287]: A 215/B. §-t a 25/2016. (XII. 22.) HM rendelet 8. §-a iktatta be, hatályát vesztette a 10/2014. (VII. 25.) HM rendelet 56. §-a alapján.
+[^288]: A 216. § a 10/2014. (VII. 25.) HM rendelet 57. §-ával megállapított szöveg.

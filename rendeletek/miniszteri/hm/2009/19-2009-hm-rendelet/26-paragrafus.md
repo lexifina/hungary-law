@@ -1,4 +1,6 @@
-26. §[^75] (1) A rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő, felújításra nem tervezett, állami tulajdonú, HM vagyonkezelői jogú lakás a honvédelmi szervezet állományába tartozó, az 5. § (1) bekezdés a) pontjában, 6. §-ában és 6/A. §-ában megjelölt személy részére a lakásjuttatás általános rendjében akkor adható bérbe, ha bérlőként vállalja a lakás rendeltetésszerű használatra alkalmassá tételét. A rendeltetésszerű használatra alkalmassá tétel érdekében elszámolható beruházási költségkeretet a helyi lakásgazdálkodási szerv a helyi lakóházkezelő szerv közreműködésével a bérbeadási eljárást megelőzően állapítja meg.
+## A rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő lakások hasznosítása[^75]
+
+26. §[^76] (1) A rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő, felújításra nem tervezett, állami tulajdonú, HM vagyonkezelői jogú lakás a honvédelmi szervezet állományába tartozó, az 5. § (1) bekezdés a) pontjában, 6. §-ában és 6/A. §-ában megjelölt személy részére a lakásjuttatás általános rendjében akkor adható bérbe, ha bérlőként vállalja a lakás rendeltetésszerű használatra alkalmassá tételét. A rendeltetésszerű használatra alkalmassá tétel érdekében elszámolható beruházási költségkeretet a helyi lakásgazdálkodási szerv a helyi lakóházkezelő szerv közreműködésével a bérbeadási eljárást megelőzően állapítja meg.
 
 (2) A bérlőnek a lakás rendeltetésszerű használatra alkalmassá tételére vonatkozó kötelezettségét és annak határidejét a bérleti szerződésben kell rögzíteni. A lakás rendeltetésszerű használatra alkalmassá tételére vonatkozóan 9 hónapnál hosszabb időtartamban nem lehet megállapodni. A rendeltetésszerű használatra alkalmassá tételre vonatkozó bérlői kötelezettség elmulasztását a bérleti szerződésben lényeges szerződésszegésként kell rögzíteni. A bérleti szerződés rendeltetésszerű használatra alkalmassá tétel elmulasztása miatti bérbeadói felmondás esetén a bérlő a már elvégzett beruházásainak megtérítését nem követelheti, és megfelelő elhelyezésre nem tarthat igényt.
 
@@ -6,4 +8,5 @@
 
 (4) A fővárosban és a fővárosi helyi lakásgazdálkodási szervhez utalt településeken lévő, rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő lakások hasznosítását a keretgazda lakásbizottságok közötti arányos elosztás útján kell megkísérelni.
 
-[^75]: A 26. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte, újonnan a 6/2019. (IV. 15.) HM rendelet 4. §-a iktatta be.
+[^75]: Az „A rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő lakások hasznosítása” alcím címet a 9/2019. (VIII. 30.) HM rendelet 1. §-a iktatta be.
+[^76]: A 26. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte, újonnan a 6/2019. (IV. 15.) HM rendelet 4. §-a iktatta be.

@@ -1,3 +1,3 @@
-## 219. §[^296]
+## 219. §[^297]
 
-[^296]: A 219. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (2) bekezdése hatályon kívül helyezte.
+[^297]: A 219. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (2) bekezdése hatályon kívül helyezte.
