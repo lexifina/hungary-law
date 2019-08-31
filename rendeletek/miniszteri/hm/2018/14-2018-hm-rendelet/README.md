@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-14-20-1
 | 2018-09-19 | 2018-14-20-15.2 | 2010: CXXX. törvény |
 | 2019-01-01 | 2018-14-20-15.3 | 20/2018. (XII. 28.) HM rendelet |
 | 2019-07-05 | 2018-14-20-15.4 | 8/2019. (VII. 4.) HM rendelet |
+| 2019-08-31 | 2018-14-20-15.5 | 9/2019. (VIII. 30.) HM rendelet |
