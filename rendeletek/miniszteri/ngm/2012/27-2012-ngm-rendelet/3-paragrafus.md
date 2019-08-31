@@ -6,6 +6,6 @@
 
 (4) A folyamatban lévő képzéseket a megkezdésükkor hatályos szakmai és vizsgakövetelményeket megállapító rendelet alapján kell befejezni.
 
-(5)–(6)[^1]
+(5)–(6)[^2]
 
-[^1]: A 3. § (5)–(6) bekezdését a 2010: CXXX. törvény 12. § (2) bekezdése hatályon kívül helyezte.
+[^2]: A 3. § (5)–(6) bekezdését a 2010: CXXX. törvény 12. § (2) bekezdése hatályon kívül helyezte.

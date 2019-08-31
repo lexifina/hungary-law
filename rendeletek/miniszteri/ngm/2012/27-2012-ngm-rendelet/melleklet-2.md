@@ -654,7 +654,7 @@
 
 | 325. | 324. | 34 | 582 | 17 | Kőfaragó | Építészet |
 
-2. melléklet a 27/2012. (VIII. 27.) NGM rendelethez[^3]
+2. melléklet a 27/2012. (VIII. 27.) NGM rendelethez[^4]
 
 Az 1. sorszámú Abroncsgyártó megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -5060,4 +5060,4 @@ A vizsgafeladat ismertetése: A központi vizsgafeladatok az alábbi témakörö
 
 Ékszer és dísztárgy típusok jellemzői
 
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a, a 29/2016. (VIII. 26.) NGM rendelet 1. § (2) bekezdése és 3. § (2) bekezdése, az 5/2017. (III. 30.) NGM rendelet 1. §-a, a 25/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése, a 9/2018. (VIII. 21.) ITM rendelet 1. § (2) bekezdése és 2. § b) pontja szerint módosított szöveg.
+[^4]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a, a 29/2015. (X. 21.) NGM rendelet 3. §-a, a 29/2016. (VIII. 26.) NGM rendelet 1. § (2) bekezdése és 3. § (2) bekezdése, az 5/2017. (III. 30.) NGM rendelet 1. §-a, a 25/2017. (VIII. 31.) NGM rendelet 1. § (2) bekezdése, a 9/2018. (VIII. 21.) ITM rendelet 1. § (2) bekezdése és 2. § b) pontja, a 29/2019. (VIII. 30.) ITM rendelet 1. §-a szerint módosított szöveg.
