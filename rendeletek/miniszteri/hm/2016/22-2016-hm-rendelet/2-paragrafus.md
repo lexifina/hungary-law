@@ -14,11 +14,11 @@ e)[^7] a tartós külföldi szolgálatteljesítés, továbbá a tartós külföl
 
 f) az élelmezési ellátásról szóló miniszteri rendelet szerinti II. és III. számú élelmezési normára való jogosultság miatti ellátás időtartamára,
 
-g) arra az időtartamra, amelyre a szerződéses legénységi állomány tagja az élelmezési ellátásról szóló miniszteri rendelet alapján napi egyszeri természetben, térítésmentesen biztosított ebéd ellátásban részesül,
+g)[^8]
 
 h) a Hjt. 46. § (1) bekezdés t) pontja szerinti rendelkezési állományba tartozás idejére, ha ez alatt a hivatásos katona nem teljesít szolgálatot.
 
-(3)[^8] A tényleges – naptári napban számolt – jogosultsági idővel arányos értékű béren kívüli juttatásra jogosult az állomány azon tagja, a honvédelmi alkalmazott és az a közalkalmazott,
+(3)[^9] A tényleges – naptári napban számolt – jogosultsági idővel arányos értékű béren kívüli juttatásra jogosult az állomány azon tagja, a honvédelmi alkalmazott és az a közalkalmazott,
 
 a) aki csak a hónap egy részében tartozik a (2) bekezdés hatálya alá, vagy
 
@@ -26,12 +26,13 @@ b) akinek a jogviszonya hónap közben keletkezik vagy szűnik meg.
 
 (4) Az egy naptári napra eső béren kívüli juttatás értékét úgy kell megállapítani, hogy a béren kívüli juttatás teljes hónapra járó összegét el kell osztani az adott hónap naptári napjainak számával.
 
-(5)[^9] A tárgyhónapra vonatkozó béren kívüli juttatás (2) bekezdés szerinti szüneteltetésének a tárgyhónap vonatkozásában akkor kell érvényt szerezni, ha a (2) bekezdés szerinti ok fennállásáról született döntés a tárgyhónap 10-éig a személyügyi szerv tudomására jut.
+(5)[^10] A tárgyhónapra vonatkozó béren kívüli juttatás (2) bekezdés szerinti szüneteltetésének a tárgyhónap vonatkozásában akkor kell érvényt szerezni, ha a (2) bekezdés szerinti ok fennállásáról született döntés a tárgyhónap 10-éig a személyügyi szerv tudomására jut.
 
 [^3]: A 2. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 113. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (2) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 114. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés c) pontja a 20/2018. (XII. 28.) HM rendelet 114. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés d) pontja a 20/2018. (XII. 28.) HM rendelet 114. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés e) pontja a 20/2018. (XII. 28.) HM rendelet 113. § (2) bekezdésével megállapított szöveg.
-[^8]: A 2. § (3) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 114. § c) pontja szerint módosított szöveg.
-[^9]: A 2. § (5) bekezdését a 20/2018. (XII. 28.) HM rendelet 113. § (3) bekezdése iktatta be.
+[^8]: A 2. § (2) bekezdés g) pontját a 9/2019. (VIII. 30.) HM rendelet 5. §-a hatályon kívül helyezte.
+[^9]: A 2. § (3) bekezdés nyitó szövegrésze a 20/2018. (XII. 28.) HM rendelet 114. § c) pontja szerint módosított szöveg.
+[^10]: A 2. § (5) bekezdését a 20/2018. (XII. 28.) HM rendelet 113. § (3) bekezdése iktatta be.
