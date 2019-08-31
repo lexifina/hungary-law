@@ -1,0 +1,3 @@
+4. § (1) Az értékelő vezető határozza meg – az értékelt személlyel történt előzetes megbeszélést követően – tárgyév március 15-ig az értékelt személyre vonatkozó teljesítménykövetelményeket. A teljesítménykövetelményeket az értékelt személlyel írásban közölni kell.
+
+(2) Az (1) bekezdés szerinti teljesítménykövetelményeket év közben – az értékelt személlyel történt előzetes megbeszélést követően – az értékelő vezető módosíthatja, ha ez a körülményekben beállott lényeges, a munkakörben és a feladatkörben bekövetkezett változás miatt szükséges. A körülményekben beállott lényeges változást az értékelő vezetőnek indokolnia és a módosított munkaköri egyéni teljesítménykövetelményeket az értékelt személlyel írásban közölnie kell.

@@ -1,0 +1,5 @@
+## 7. § A rendvédelmi alkalmazott teljesítményének értékelését az értékelő vezető az informatikai rendszerben végzi el, az 1. és 2. melléklet szerinti tartalomnak megfelelő értékelőlapon.
+
+8. § (1) Ha a rendvédelmi alkalmazott igazgatási jogviszonya év közben keletkezik, az értékelő vezető a rendvédelmi alkalmazottat az igazgatási jogviszony keletkezésétől számított harminc napon belül tájékoztatja a teljesítményértékelés rendjéről, céljáról és szempontjairól, továbbá a 3. § (1) és (2) bekezdésében foglaltaknak megfelelően meghatározza számára a tárgyévi teljesítménykövetelményeket.
+
+(2) A teljesítményértékelés eredményét a rendvédelmi alkalmazott jogosult megismerni. A teljesítményértékeléskor az értékelő vezető és az értékelt személy között értékelő megbeszélésre kerül sor, amelyen az értékelő vezető részletesen ismerteti és indokolja az értékelt személlyel az általa kialakított teljesítményértékelési eredményeket. A teljesítményértékelésnek tartalmaznia kell az értékelt személy javaslatait, elképzeléseit a munkaköri feladataival és munkamagatartásával kapcsolatban, valamint a teljesítményértékelésre vonatkozó észrevételeit.
