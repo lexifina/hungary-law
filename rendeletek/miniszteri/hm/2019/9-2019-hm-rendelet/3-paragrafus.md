@@ -1,1 +1,0 @@
-## „(2) A Hjt. 83. § (5) bekezdésében foglaltak alkalmazására kizárólag abban az esetben kerülhet sor, ha az állomány tagja a viselt rendfokozatában a kinevezést megelőzően legalább 1 évet eltöltött. Ettől szolgálati érdekből a miniszter engedélyével el lehet térni.”

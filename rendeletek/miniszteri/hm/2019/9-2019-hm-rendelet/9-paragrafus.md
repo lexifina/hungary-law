@@ -1,1 +1,0 @@
-## „(2) A III. számú élelmezési norma szerinti ellátásra való jogosultság kezdetét az (1) bekezdés 1. pontja esetében a beosztásba helyezés kezdő napjával, a jogosultság megszűnését pedig a beosztás betöltésének utolsó napjával az arra jogosult parancsnok napiparancsban állapítja meg.”
