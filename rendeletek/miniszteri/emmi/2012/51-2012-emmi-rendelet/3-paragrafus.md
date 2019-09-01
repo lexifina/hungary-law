@@ -1,4 +1,4 @@
-## 2/C. §[^26] Az általános iskola első és második évfolyamán az új tananyag feldolgozása és a megelőző ismeretek ismétlése, gyakorlása a negyvenöt perces tanórai időtartamon belül tetszőleges időeloszlásban, de összességében harminc perc alatt megvalósulhat, a fennmaradó idő egyéb pedagógiai tevékenységgel, mozgásos, játékos foglalkozással, meséléssel is tölthető.
+## 2/D. §[^28] Az iskolai nevelés-oktatás mellett a jogszabályban meghatározott vagy a pedagógiai-szakmai szolgáltatás keretében az Oktatási Hivatal által szervezett tanulmányi versenyek a kerettantervek végrehajtását szolgálják. A versenyek tartalmi követelményeinek alapja az adott évfolyamokra vonatkozó kerettantervi, közműveltségi tartalom.
 
 ## 3. A kerettantervek feladata, felépítése
 
@@ -12,7 +12,7 @@ b) a kulcskompetenciák és a kompetenciafejlesztés adott életkori és képzé
 
 c) a pedagógiai egységesség és differenciálás elveit,
 
-d)[^27] a pedagógiai szakasz kötelező tantárgyait és évfolyamonként a heti minimális óraszámait,
+d)[^29] a pedagógiai szakasz kötelező tantárgyait és évfolyamonként a heti minimális óraszámait,
 
 e) az ismeretközlés és a képességfejlesztés közötti összhang megteremtésének módját és összhangjának biztosítását,
 
@@ -22,5 +22,5 @@ g) az egységes tantervi szerkezeti elveket a helyi tantervek elkészítésének
 
 (3) A kerettanterv az egyes témakörökre összpontosító részletes kidolgozással támogatja a pedagógusok pedagógiai tervező tevékenységét, segíti a fogalmi gondolkodás fejlesztését, a tanulói teljesítmények folyamatos figyelemmel kísérését.
 
-[^26]: A 2/C. §-t a 23/2016. (VIII. 30.) EMMI rendelet 2. §-a iktatta be.
-[^27]: A 3. § (2) bekezdés d) pontja a 23/2016. (VIII. 30.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^28]: A 2/D. §-t a 20/2019. (VIII. 30.) EMMI rendelet 26. §-a iktatta be.
+[^29]: A 3. § (2) bekezdés d) pontja a 23/2016. (VIII. 30.) EMMI rendelet 3. §-ával megállapított szöveg.

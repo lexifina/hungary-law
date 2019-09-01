@@ -842,6 +842,6 @@
 
 ## A diákok közösen, együtt tanulnak, annak ellenére, hogy sok esetben egyénileg vagy párban dolgoznak különböző nehézségű, eltérő típusú feladatokon. A közösség élményének megélésén túl, a napi vagy heti rendszerességgel tartott nyitó és záró körök lehetőséget adnak a csoport, a társak visszajelzéseire, és ebben a helyzetben a tanár is kérhet és kaphat visszajelzést a diákoktól.
 
-10. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^60]
+10. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^62]
 
-[^60]: A 10. mellékletet a 23/2013. (III. 29.) EMMI rendelet 6. § c) pontja iktatta be, szövege a 6/2014. (I. 29.) EMMI rendelet 12. §-a szerint módosított szöveg.
+[^62]: A 10. mellékletet a 23/2013. (III. 29.) EMMI rendelet 6. § c) pontja iktatta be, szövege a 6/2014. (I. 29.) EMMI rendelet 12. §-a szerint módosított szöveg.

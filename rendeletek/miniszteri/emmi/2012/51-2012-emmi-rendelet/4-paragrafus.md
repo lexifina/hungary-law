@@ -26,9 +26,9 @@ be) a kulcsfogalmak, fogalmak rendszerét, amely a kulcsfogalmak, továbbá a fo
 
 bf) a fejlesztés az egy vagy két évfolyamos szakasz végére elvárt eredményeit, amely az adott tantárgyban elvárható legfontosabb tudás- és képességelemek határozza meg,
 
-c)[^28] a tematikai egységekhez kapcsolódó ajánlott óraszámot.
+c)[^30] a tematikai egységekhez kapcsolódó ajánlott óraszámot.
 
-(3)[^29] A Köznevelési Hídprogramhoz, a felnőttoktatáshoz, továbbá a készségfejlesztő iskolák és az enyhe értelmi fogyatékos tanulók nevelő-oktató munkáját ellátó szakiskolák számára készített kerettantervek esetében nem kell alkalmazni a (2) bekezdés a) és b) pontjaiban a tantárgyi kerettantervekre vonatkozó előírásokat.
+(3)[^31] A Köznevelési Hídprogramhoz, a felnőttoktatáshoz, továbbá a készségfejlesztő iskolák és az enyhe értelmi fogyatékos tanulók nevelő-oktató munkáját ellátó szakiskolák számára készített kerettantervek esetében nem kell alkalmazni a (2) bekezdés a) és b) pontjaiban a tantárgyi kerettantervekre vonatkozó előírásokat.
 
-[^28]: A 4. § (2) bekezdés c) pontja a 23/2016. (VIII. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^29]: A 4. § (3) bekezdését a 23/2013. (III. 29.) EMMI rendelet 2. §-a iktatta be, szövege az 53/2016. (XII. 29.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^30]: A 4. § (2) bekezdés c) pontja a 23/2016. (VIII. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^31]: A 4. § (3) bekezdését a 23/2013. (III. 29.) EMMI rendelet 2. §-a iktatta be, szövege az 53/2016. (XII. 29.) EMMI rendelet 17. §-ával megállapított szöveg.
