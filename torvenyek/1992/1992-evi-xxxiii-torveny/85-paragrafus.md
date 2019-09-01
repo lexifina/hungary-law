@@ -8,7 +8,7 @@ c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő kö
 
 d) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
+(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, az Eötvös Loránd Kutatási Hálózat központi költségvetési szervei,, a művészeti, a közművelődési és a közgyűjteményi, az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
 a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 
@@ -106,7 +106,7 @@ df) az illetménynövekedés feltételeit azokban az esetekben, amikor a tovább
 
 dg) a tudományos kutatói munkakörbe történő besorolás feltételeit;
 
-e) a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési intézményeknél, illetve más kutató- és kutatást kiegészítő intézeteknél foglalkoztatott közalkalmazottak tekintetében
+e) a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési intézményeknél, az Eötvös Loránd Kutatási Hálózat központi költségvetési szerveinél, illetve más kutató- és kutatást kiegészítő intézeteknél foglalkoztatott közalkalmazottak tekintetében
 
 ea) azt a magasabb vezető beosztást, amelynek a betöltéséhez a munkakör ellátásához szükséges magyar nyelvtudás előírható,
 
