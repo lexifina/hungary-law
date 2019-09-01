@@ -16,4 +16,6 @@ d) a palládium finomságát gravimetriás módszerrel.
 
 (5) A nemesfém tárgyak esetében a jogszabályban megállapított finomsági foktól való negatív irányú eltérés nem fogadható el.
 
-(6) A készítő vagy a kereskedő a fémjelzési kötelezettség alá tartozó nemesfém tárgy anyagát képező ötvözetet félkész állapotban is bemutathatja analitikus vizsgálatra. Ebben az esetben a kész nemesfém tárgy finomsági foka karcvizsgálattal vagy röntgenfluoreszcenciás spektrometriás méréssel megállapítható, ismételt analitikai vizsgálat előírása nem szükséges. A félkész állapottól való eltérés esetében a tárgy fémjelzése iránti kérelmet a nemesfémvizsgáló és -hitelesítő hatóság visszautasítja.
+(6)[^3] A készítő vagy a kereskedő a fémjelzési kötelezettség alá tartozó nemesfém tárgy anyagát képező ötvözetet félkész állapotban is bemutathatja analitikus vizsgálatra. Ebben az esetben a kész nemesfém tárgy finomsági foka karcvizsgálattal vagy röntgenfluoreszcenciás spektrometriás méréssel megállapítható, ismételt analitikai vizsgálat előírása nem szükséges. A félkész állapottól való eltérés esetében a tárgy fémjelzése iránti kérelmet a nemesfémvizsgáló és -hitelesítő hatóság elutasítja.
+
+[^3]: A 19. § (6) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.

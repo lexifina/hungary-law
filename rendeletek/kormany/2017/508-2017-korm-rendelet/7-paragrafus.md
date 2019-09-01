@@ -8,7 +8,7 @@ a) tanúsítja az e rendeletben meghatározott feltételeknek megfelelő nemesf�
 
 b) lefolytatja a nemesfém tárgy tanúsítása és hitelesítése egyenértékűségének megállapítására vonatkozó eljárást;
 
-c) az e §-ban meghatározott feladataival összefüggésben ellenőrzi a nemesfém tárgyakra és fémjelzésükre vonatkozó, az e rendeletben meghatározott előírások megtartását;
+c)[^1] az e §-ban meghatározott feladataival összefüggésben ellenőrzi a nemesfém tárgyakra és fémjelzésükre vonatkozó, az e rendeletben és a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet XVII. melléklet 23. és 27. pontjában a nemesfém tárgyként forgalomba hozott tárgyakra meghatározott előírások megtartását;
 
 d) engedélyezi a készítő és a kereskedő részére a más névjellel össze nem téveszthető névjel alkalmazását;
 
@@ -21,3 +21,5 @@ g) megsemmisíti a nemesfém tárgyon feleslegessé váló fémjelet;
 h) az engedélyezett névjel és a névjelbeütő eszköz lenyomata egyezőségének megállapítása céljából megvizsgálja a névjelbeütő eszközt, valamint
 
 i) megsemmisíti a hamis fémjelet, névjelet, valamint a megtévesztő hivataljelet, finomsági fokot kifejező számjelet.
+
+[^1]: A 7. § (2) bekezdés c) pontja a 198/2019. (VIII. 1.) Korm. rendelet 24. §-ával megállapított szöveg.
