@@ -4,7 +4,7 @@
 
 (3) Iskolai tanulmányok címén azt a gyermeket is megilleti az árvaellátás, aki
 
-a) betegsége, testi vagy értelmi fogyatékossága, várandóssága, gyermekszülés vagy három évesnél fiatalabb gyermekének gondozása miatt a tanulmányait magántanulóként végzi,
+a) betegsége, testi vagy értelmi fogyatékossága, várandóssága, gyermekszülés vagy három évesnél fiatalabb gyermekének gondozása miatt a tanulmányait egyéni munkarenddel rendelkező tanulóként végzi,
 
 b) huszonöt évesnél fiatalabb, és felnőttképzésben vesz részt, feltéve, hogy a felnőttképzés nem távoktatási formában folyik, és a képzés heti átlagos óraszáma eléri a hét órát.
 
