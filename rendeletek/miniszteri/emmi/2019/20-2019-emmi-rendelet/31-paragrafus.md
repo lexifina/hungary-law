@@ -1,0 +1,1 @@
+## „(9) Otthoni ellátás keretében vagy a gyermek gondozását végző intézményben történő ellátás esetén a (6) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.”

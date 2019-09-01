@@ -1,0 +1,3 @@
+## 6. § Az R1. 51. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A beteg gyermek, tanuló az orvos által meghatározott időszakban nem látogathatja a nevelési-oktatási intézményt. Ha a pedagógus megítélése szerint a gyermek, a tanuló beteg, gondoskodik a többi gyermektől, tanulótól való elkülönítéséről, és kiskorú gyermek, tanuló esetén a lehető legrövidebb időn belül értesíti a gyermek, a tanuló szüleit. Az orvosi igazolásnak tartalmaznia kell a betegség miatt bekövetkezett távollét pontos időtartamát is. Ha a kollégiumban lakó tanuló hazautaztatása nem oldható meg, az egészséges tanulóktól el kell különíteni.”

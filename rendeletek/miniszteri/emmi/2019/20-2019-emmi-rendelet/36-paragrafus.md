@@ -1,0 +1,3 @@
+## 35. § Az R3. 32. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az egységes gyógypedagógiai módszertani intézmény esetén a pedagógiai szakszolgálat feladatait ellátó szervezeti és szakmai tekintetben önálló intézményegységben az intézményegység-vezetői megbízás feltétele pszichológus, konduktor vagy gyógypedagógus végzettség és szakképzettség, pszichológus esetében klinikai, pedagógiai, óvoda- és iskola-, neuropszichológiai vagy tanácsadó szakpszichológiai szakvizsga, konduktor vagy gyógypedagógus esetében pedagógus-szakvizsga, továbbá pedagógiai szakszolgálati feladat ellátására létesített pedagógus munkakörben szerzett, legalább ötéves szakmai gyakorlat.”
