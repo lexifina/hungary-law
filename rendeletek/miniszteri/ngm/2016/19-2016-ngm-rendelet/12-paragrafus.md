@@ -10,4 +10,6 @@ b) a 2. melléklet 6. pontjában meghatározott G. modul szerint zajlik.
 
 (2) Az (1) bekezdés a) pontja szerinti esetben a B. modul nem kötelező olyan nem automatikus működésű mérlegek esetében, amelyek nem alkalmaznak elektronikus készülékeket, és amelyek tehermérő szerkezete nem használ rugót a teher ellensúlyozására. Azon nem automatikus működésű mérlegek esetében, amelyekre a B. modul nem vonatkozik, a 2. melléklet 3. pontjában meghatározott D1. modul vagy a 2. melléklet 5. pontjában meghatározott F1. modul alkalmazandó.
 
-(3) Az (1) bekezdésben meghatározott megfelelőségértékelési eljárásokra vonatkozó dokumentumokat és levelezést annak a tagállamnak a hivatalos nyelvén kell kiállítani, amelyben az megfelelőségértékelési eljárásokat lefolytatják vagy a 19. §-nak megfelelően bejelentett szerv által hivatalosan használt nyelven.
+(3)[^3] Az (1) bekezdésben meghatározott megfelelőségértékelési eljárásokra vonatkozó dokumentumokat és levelezést annak a tagállamnak a hivatalos nyelvén kell kiállítani, amelyben az megfelelőségértékelési eljárásokat lefolytatják vagy a bejelentett szerv által hivatalosan használt nyelven.
+
+[^3]: A 12. § (3) bekezdése a 25/2019. (VIII. 26.) ITM rendelet 15. §-a szerint módosított szöveg.

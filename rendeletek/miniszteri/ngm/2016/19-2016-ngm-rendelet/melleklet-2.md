@@ -260,7 +260,7 @@
 
 ## Az árfeliratozó (címkéző) mérlegeknek a vásárlóközönség közvetlen kiszolgálására szolgáló árkijelző mérlegek követelményeit olyan mértékben kell kielégíteniük, amilyen mértékig ezek a szóban forgó mérlegekre alkalmazhatók. Az árfelirat nyomtatása az alsó méréshatár alatt nincs megengedve.
 
-2. melléklet a 19/2016. (VI. 17.) NGM rendelethez[^18]
+2. melléklet a 19/2016. (VI. 17.) NGM rendelethez[^16]
 
 ## A MEGFELELŐSÉG ÉRTÉKELÉSÉRE VONATKOZÓ ELJÁRÁSOK
 
@@ -426,7 +426,7 @@
 
 | 4.5. Megfelelőségi jelölés és EU-megfelelőségi nyilatkozat |
 
-|  | 4.5.1. | A gyártó minden olyan nem automatikus működésű mérlegen elhelyezi a CE-jelölést és az e határozatban előírt kiegészítő metrológiai jelölést, valamint a bejelentett szervezet azonosító számát, amely megfelel az EU-típusvizsgálati tanúsítványban leírt jóváhagyott típusnak, és eleget tesz e rendelet alkalmazandó követelményeinek. |
+|  | 4.5.1. | A gyártó minden olyan nem automatikus működésű mérlegen elhelyezi a CE-jelölést és az e rendeletben előírt kiegészítő metrológiai jelölést, valamint a bejelentett szervezet azonosító számát, amely megfelel az EU-típusvizsgálati tanúsítványban leírt jóváhagyott típusnak, és eleget tesz e rendelet alkalmazandó követelményeinek. |
 
 |  | 4.5.2. | A gyártó a nem automatikus működésű mérleg mindegyik modelljére vonatkozóan írásos EU-megfelelőségi nyilatkozatot készít, és a nem automatikus működésű mérleg forgalomba hozatala után tíz évig a nemzeti hatóságok számára elérhetővé teszi. Az EU-megfelelőségi nyilatkozat azonosítja a nem automatikus működésű mérleg modelljét, amelyre vonatkozóan elkészítették. Az EU-megfelelőségi nyilatkozat egy másolatát az érintett hatóság kérésére hozzáférhetővé kell tenni. A gyártó – a 4.3. pontban meghatározott bejelentett szervezet beleegyezése mellett – a bejelentett szervezet azonosító számát is feltüntetheti a nem automatikus működésű mérlegeken. |
 
@@ -462,7 +462,7 @@
 
 | 5.6. Megfelelőségi jelölés és EU-megfelelőségi nyilatkozat |
 
-|  | 5.6.1. | A gyártó minden olyan nem automatikus működésű mérlegen feltünteti a CE-jelölést és az e határozatban előírt kiegészítő metrológiai jelölést, valamint a bejelentett szervezet azonosító számát, amely eleget tesz e rendelet alkalmazandó követelményeinek. |
+|  | 5.6.1. | A gyártó minden olyan nem automatikus működésű mérlegen feltünteti a CE-jelölést és az e rendeletben előírt kiegészítő metrológiai jelölést, valamint a bejelentett szervezet azonosító számát, amely eleget tesz e rendelet alkalmazandó követelményeinek. |
 
 |  | 5.6.2. | A gyártó a nem automatikus működésű mérleg mindegyik modelljére vonatkozóan írásos EU-megfelelőségi nyilatkozatot készít, és a nem automatikus működésű mérleg forgalomba hozatala után tíz évig a nemzeti hatóságok számára elérhetővé teszi. Az EU-megfelelőségi nyilatkozat azonosítja a nem automatikus működésű mérleg modelljét, amelyre vonatkozóan elkészítették. Az EU-megfelelőségi nyilatkozat egy másolatát az érintett hatóság kérésére hozzáférhetővé kell tenni. A gyártó – az 5.5. pontban meghatározott bejelentett szervezet beleegyezése mellett – a bejelentett szervezet azonosító számát is feltüntetheti a nem automatikus működésű mérlegeken. |
 
@@ -496,7 +496,7 @@
 
 | 6.5. Megfelelőségi jelölés és EU-megfelelőségi nyilatkozat |
 
-|  | 6.5.1. | A gyártó minden olyan nem automatikus működésű mérlegen feltünteti a CE-jelölést és az e határozatban előírt kiegészítő metrológiai jelölést, valamint a bejelentett szervezet azonosító számát, amely eleget tesz e rendelet alkalmazandó követelményeinek. |
+|  | 6.5.1. | A gyártó minden olyan nem automatikus működésű mérlegen feltünteti a CE-jelölést és az e rendeletben előírt kiegészítő metrológiai jelölést, valamint a bejelentett szervezet azonosító számát, amely eleget tesz e rendelet alkalmazandó követelményeinek. |
 
 |  | 6.5.2. | A gyártó írásos EU-megfelelőségi nyilatkozatot készít, és a nem automatikus működésű mérleg forgalomba hozatala után tíz évig a nemzeti hatóságok számára elérhetővé teszi. Az EU-megfelelőségi nyilatkozat azonosítja azt a nem automatikus működésű mérleget, amelyre vonatkozóan elkészítették. Az EU-megfelelőségi nyilatkozat egy másolatát az érintett hatóság kérésére hozzáférhetővé kell tenni. |
 
@@ -518,4 +518,4 @@
 
 |  | 7.2.4. | A CE-jelölést és a kiegészítő metrológiai jelölést a második szakasz befejezése után, a második szakaszban részt vevő bejelentett szervezet azonosító számával együtt kell a mérlegen feltüntetni. |
 
-[^18]: A 2. melléklet a 14/2018. (IX. 4.) ITM rendelet 10. § b)–c) és g)–h) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet a 14/2018. (IX. 4.) ITM rendelet 10. § b)–c) és g)–h) pontja, a 25/2019. (VIII. 26.) ITM rendelet 14. §-a szerint módosított szöveg.
