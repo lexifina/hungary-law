@@ -1,0 +1,9 @@
+# 11/2019. (VII. 3.) EMMI rendelet
+
+a 2019/2020. tanév rendjéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-11-20-5H
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-09-01 | 2019-11-20-5H.1 | 11/2019. (VII. 3.) EMMI rendelet |

@@ -1,0 +1,3 @@
+11. § (1) 2020. január 6. és 2020. március 31. között szakmai ellenőrzés keretében meg kell vizsgálni a lemorzsolódással veszélyeztetett tanulók magas arányával, ezen belül különösen a megelőző három év országos kompetenciamérési eredményei alapján alacsony teljesítménnyel érintett, valamint a magas szegregációs indexszel jellemezhető köznevelési intézményekben a lemorzsolódás megelőzése és a teljesítmény javítása, valamint a deszegregáció érdekében tett intézményi, fenntartói intézkedéseket és azok megvalósulását.
+
+(2) Az (1) bekezdés szerinti ellenőrzést a Hivatal folytatja le. Az ellenőrzésről készült jelentést a Hivatal 2020. június 30-ig küldi meg az oktatásért felelős miniszter részére.

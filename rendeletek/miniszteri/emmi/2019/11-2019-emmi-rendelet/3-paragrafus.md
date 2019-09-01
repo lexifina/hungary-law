@@ -1,0 +1,3 @@
+3. § (1) Az alapfokú művészeti iskolákban és a felnőttoktatásban a tanítási év első és utolsó napját – a tanítási év első és utolsó hetének keretében – az igazgató határozza meg.
+
+(2) A szakképesítések megszerzésére való felkészítés a szakképző iskola azon szakképzési évfolyamain, amelyeken – a szakképzésről szóló törvényben szabályozott esetekben – közismereti képzés nem folyik, a keresztféléves oktatásszervezés keretében február első hetében is megkezdhető. A tanítási év első és utolsó napját az iskola igazgatója állapítja meg a 2. § (3) bekezdése figyelembevételével úgy, hogy a tanítási napok száma a 2. § (2) bekezdésében foglaltaknak megfeleljen.
