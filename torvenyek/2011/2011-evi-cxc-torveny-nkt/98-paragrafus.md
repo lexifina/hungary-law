@@ -60,4 +60,4 @@ b) az a) pontban meghatározott szakirányú továbbképzés hiányában legalá
 
 (17) Az általános iskola 5–8. évfolyamán és az alapfokú művészeti iskolában a drámapedagógia tantárgyat tanítói és drámapedagógus szakirányú szakképzettséggel rendelkező pedagógus is taníthatja.
 
-(18) Ha az intézményvezetői megbízásra irányuló pályázati eljárás azért nem vezetett eredményre, mert egyetlen pályázó sem rendelkezett pedagógus-szakvizsga keretében szerzett intézményvezetői szakképzettséggel, akkor legfeljebb egyszeri alkalommal két évre szóló intézményvezetői megbízás adható olyan személynek is, aki az intézményvezetői megbízás többi feltételének megfelel, rendelkezik pedagógus-szakvizsgával és megbízásával egyidejűleg vállalja az intézményvezetői szakképzettség megszerzését. Az e bekezdés szerinti megbízás pályázat nélkül további három évvel meghosszabbítható, amennyiben az érintett az intézményvezetői megbízását követően az intézményvezetői szakképzettséget megszerezte.
+(18)

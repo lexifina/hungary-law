@@ -16,7 +16,7 @@ c) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a 
 
 d) a nevelő-oktató munka pedagógus munkakörben szolgálati viszonyban is ellátható,
 
-e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében és a 83. § (3) bekezdés e) pontjában foglaltakat,
+e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében foglaltakat,
 
 f) nem kell alkalmazni az osztály-, csoportlétszámokat meghatározó rendelkezéseket, a maximális létszámra vonatkozó rendelkezések kivételével,
 

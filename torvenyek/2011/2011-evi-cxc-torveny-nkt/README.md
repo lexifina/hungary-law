@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2019-01-01 | 2018. évi LXXXIX. törvény | 2011-190-00-00.51 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2011-190-00-00.52 |
 | 2019-07-26 | 2019. évi LXX. törvény | 2011-190-00-00.53 |
+| 2019-09-01 | 2019. évi LXX. törvény | 2011-190-00-00.54 |

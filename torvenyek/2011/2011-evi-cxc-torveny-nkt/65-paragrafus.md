@@ -18,11 +18,21 @@ b) alapfokozat esetén száznyolcvan százaléka,
 
 c) mesterfokozat esetén kétszáz százaléka.
 
-(3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit.
+(3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit, továbbá a munkavégzés sajátos körülményeire tekintettel az e törvényben meghatározott felső határnál magasabb mértékű pótlékot határozhat meg.
 
 (4) Az intézményvezetőt a fenntartó, az intézményben pedagógus-munkakörben foglalkoztatottakat az intézményvezető jutalomban részesítheti, amelynek éves összege vezető esetében nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tizenöt százalékát, beosztott esetében éves illetményének, munkabérének tizenöt százalékát.
 
 (5) Az intézményvezetőt a fenntartó, az intézmény többi vezetőjét az intézményvezető kereset-kiegészítésben részesítheti, amelynek éves összege nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tíz százalékát.
+
+(5a) A Kormány rendeletben az intézmény vezetői részére
+
+a) az intézmény méretétől függően további bérpótlékot és
+
+b) a nyújtott munkateljesítménytől függően ösztönzési keresetkiegészítést
+
+állapíthat meg.
+
+(5b) A munkáltató – ide nem értve a helyettesítést – a munkakörbe tartozó feladatokon kívüli, célhoz köthető feladatot állapíthat meg a pedagógus részére, amelynek teljesítése a munkakör ellátásából adódó általános munkaterhet jelentősen meghaladja (a továbbiakban: célfeladat). A célfeladat eredményes végrehajtásáért – a pedagógus illetményén felül, írásban, a célfeladat teljesítésének igazolásakor – céljuttatás jár.
 
 (6) A legalább Pedagógus II. fokozatot elért pedagógus tízévenként – tudományos kutatáshoz, vagy egyéni tudományos továbbképzésen való részvételhez – legfeljebb egy évi fizetés nélküli szabadságot (a továbbiakban: alkotói szabadság) vehet igénybe.
 
