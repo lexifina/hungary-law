@@ -1,4 +1,4 @@
-22. § (1) Békéltető testületi tag az lehet, aki felsőfokú iskolai végzettséggel és annak megfelelő szakterületen legalább kétéves igazolt szakmai gyakorlattal rendelkezik.
+22. § (1) Békéltető testületi tag az lehet, aki felsőfokú iskolai végzettséggel és legalább kétéves szakmai gyakorlattal rendelkezik.
 
 (2) Nem lehet békéltető testületi tag, aki
 
@@ -18,14 +18,14 @@ cd) végrehajtásában felfüggesztett szabadságvesztés kiszabása esetén a m
 
 ce) végrehajtásában felfüggesztett pénzbüntetés kiszabása esetén a mentesítés beálltától számított három évig vagy
 
-d) az (1) bekezdés szerinti, a kijelölés alapjául szolgáló végzettségnek és szakmai gyakorlatnak megfelelő foglalkozástól eltiltás hatálya alatt áll.
+d) az (1) bekezdés szerinti, a békéltető testületi tagságra benyújtott pályázat alapjául szolgáló foglalkoztatástól való eltiltás hatálya alatt áll.
 
-(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltető testületi tagsági kijelölés feltételeként.
+(3) Az (1) bekezdés szerinti alkalmassági feltétel teljesülését az érintett igazolja a békéltető testületi tagságra benyújtott pályázat feltételeként.
 
 (4) Azt a tényt, hogy a (2) bekezdés b)–d) pontjában meghatározott kizáró okok vele szemben nem állnak fenn, az érintett hatósági bizonyítvánnyal igazolja
 
-a) a békéltető testületi tagsági kijelölés feltételeként,
+a) a békéltető testületi tagságra benyújtott pályázat részeként,
 
 b) megbízatásának tartama alatt a békéltető testület elnöke, a békéltető testület elnöke tekintetében a fogyasztóvédelemért felelős miniszter írásbeli felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha ez e határidőn belül az érintetten kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.
 
-(5) A 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kijelölése során a tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja.
+(5) A 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja.

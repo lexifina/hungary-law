@@ -4,7 +4,7 @@
 
 (3) Az eljáró tanácsba kijelölt testületi tag ellen a fél kizárási kérelmet terjeszthet elő, amennyiben olyan körülmények állnak fenn, amelyek jogos kétségeket ébresztenek függetlensége vagy pártatlansága tekintetében.
 
-(4) A fél az általa kijelölt testületi tag ellen csak olyan okból élhet kizárási kérelemmel, amely a kijelölést követően vált előtte ismertté.
+(4)
 
 (5) Az indokolással ellátott írásbeli kizárási kérelem attól a naptól számított három napon belül terjeszthető elő, amikor a fél az eljáró tanács összetételéről tudomást szerzett, vagy amikor a (3) bekezdésben említett körülmények előtte ismertté váltak.
 

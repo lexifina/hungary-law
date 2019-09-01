@@ -32,7 +32,7 @@ a) a békéltető testület elérhetőségeit, így különösen székhelyét, p
 
 b) annak tényét, hogy a békéltető testületet az Európai Bizottság jegyzékében nyilvántartásba vették-e,
 
-c) a békéltető testületi tagok nevét, az őket jelölő fogyasztói érdekek képviseletét ellátó egyesület vagy gazdasági kamara megnevezését, valamint megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,
+c) a békéltető testületi tagok nevét, megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,
 
 d) a békéltető testületi tagok függetlenségére és pártatlanságára vonatkozó törvényes követelményeket,
 
