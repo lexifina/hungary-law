@@ -1,3 +1,5 @@
+## 29. §
+
 ## 27. A bejelentett szervezet, az üzemeltetői ellenőrző szervezet és az elismert független szervezet működési kötelezettségei
 
 30. § (1) A bejelentett szervezet, az üzemeltetői ellenőrző szervezet és az elismert független szervezet a 14. §-ban, a 41. §-ban, a 42. §-ban, a 46. §-ban, valamint a 3. melléklet 3.1.2. és 3.1.3. pontjában, vagy a 6. melléklet 3.2. pontjában vagy a 7. mellékletben előírt megfelelőségértékelési feladatokkal összhangban végzi el a megfelelőségértékelést.

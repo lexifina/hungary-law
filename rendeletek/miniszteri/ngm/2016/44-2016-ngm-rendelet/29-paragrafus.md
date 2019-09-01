@@ -1,5 +1,5 @@
-## 26. A bejelentett szervezet, az elismert független szervezet és az üzemeltetői ellenőrző szervezet szakmai alkalmasságának vitatása
+## 28. §
 
-29. § (1) A kijelölő hatóság a Bizottság kérésére rendelkezésére bocsátja a bejelentő szervezet bejelentésének vagy szakmai, jogszabályban előírt feltételeknek megfelelő alkalmassága fenntartásának alapjául szolgáló összes információt.
+## 26.[^11]
 
-(2) Amennyiben a Bizottság meggyőződik arról, hogy egy bejelentett szervezet nem, vagy már nem tesz eleget a rá vonatkozó bejelentés követelményeinek, a kijelölő hatóság a Bizottság felszólítására megteszi a szükséges kiigazító intézkedéseket, vagy ha azok nem elégségesek a jogszerű működés helyreállításához, visszavonja a bejelentést.
+[^11]: A 26. alcímet (29. §) a 25/2019. (VIII. 26.) ITM rendelet 26. §-a hatályon kívül helyezte.

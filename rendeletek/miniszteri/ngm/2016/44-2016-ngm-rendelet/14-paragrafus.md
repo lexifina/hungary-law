@@ -1,3 +1,5 @@
+## 13. §
+
 ## 13. Üzemeltetői ellenőrző szervezet
 
 14. § (1) A 13. § előírásaitól eltérően a kijelölő hatóság a (2) bekezdésben foglaltak szerint kijelölhet üzemeltetői ellenőrző szervezeteket a 38. § (1) és (2) bekezdése szerinti nyomástartó berendezések vagy rendszerek megfelelőségértékelésére.

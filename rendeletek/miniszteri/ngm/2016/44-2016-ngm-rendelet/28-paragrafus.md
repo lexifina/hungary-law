@@ -1,5 +1,5 @@
-## 25. A bejelentés változásai
+## 27. §
 
-28. § (1) Amennyiben a kijelölő hatóság megállapítja, vagy tudomására jut, hogy a bejelentett szervezet már nem teljesíti a 22. §-ban meghatározott követelményeket, vagy elmulasztja teljesíteni kötelezettségeit, akkor a kijelölő hatóság a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló kormányrendelet alapján korlátozhatja, felfüggesztheti vagy visszavonhatja a bejelentést, attól függően, hogy a bejelentett szervezet milyen súlyos mértékben mulasztotta el teljesíteni a követelményeket vagy kötelezettségeket. Erről haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot.
+## 25.[^10]
 
-(2) Amennyiben a kijelölő hatóság a bejelentést korlátozza, felfüggeszti vagy visszavonja, illetve ha a bejelentett szervezet megszüntette tevékenységét, a kijelölő hatóság megteszi a szükséges lépéseket annak biztosítása érdekében, hogy az említett szervezet dokumentációját vagy egy másik bejelentett szervezet dolgozza fel, vagy pedig kérésre a bejelentő hatóság vagy piacfelügyeleti hatóságok számára elérhető legyen.
+[^10]: A 25. alcímet (28. §) a 25/2019. (VIII. 26.) ITM rendelet 26. §-a hatályon kívül helyezte.

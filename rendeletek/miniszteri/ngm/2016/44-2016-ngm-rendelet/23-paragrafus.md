@@ -1,3 +1,5 @@
+## 22. §
+
 ## 20. Az üzemeltetői ellenőrző szervezetre vonatkozó követelmények
 
 23. § (1) A bejelentés érdekében az üzemeltetői ellenőrző szervezet teljesíti a (2)–(12) bekezdésekben meghatározott követelményeket.
