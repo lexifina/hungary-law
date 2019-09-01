@@ -1,4 +1,4 @@
-3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^5]
+3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^6]
 
 1. Ellenőrző adatszolgáltató központok, valamint
 
@@ -66,11 +66,11 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 |  | 4 | Eötvös Loránd Tudományegyetem, Debreceni Egyetem, Kaposvári Egyetem, Nyugat-magyarországi Egyetem (Sopron), Nyugat-magyarországi Egyetem (Székesfehérvár), Nyugat-magyarországi Egyetem (Szombathely), Pannon Egyetem, Pécsi Tudományegyetem, Semmelweis Egyetem, Szegedi Tudományegyetem, Szent István Egyetem környezeti ellenőrzési rendszere | környezeti gammadózis-teljesítmény |
 
-|  | 5 | MTA | az MTA Energiatudományi Kutatóközpont Környezetvédelmi Szolgálat | levegő. üzemi víz, környezeti gamma-dózisteljesítmény |
+|  | 5 | ELKH | Energiatudományi Kutatóközpont Környezetvédelmi Szolgálat | levegő, üzemi víz, környezeti gamma-dózisteljesítmény |
 
-|  | 6 |  | MTA Atommagkutató Intézete környezeti sugárvédelmi ellenőrző rendszere | levegő. környezeti gamma-dózisteljesítmény |
+|  | 6 | ELKH | Atommagkutató Intézet környezeti sugárvédelmi ellenőrző rendszere | levegő, környezeti gamma-dózisteljesítmény |
 
-|  | 7 |  | MTA Kémiai Kutatóközpont környezeti sugárvédelmi ellenőrző rendszere | levegő. környezeti gamma-dózisteljesítmény |
+|  | 7 | MTA | MTA Kémiai Kutatóközpont környezeti sugárvédelmi ellenőrző rendszere | levegő, környezeti gamma-dózisteljesítmény |
 
 |  | 8 | Mecsekérc Zártkörűen Működő Részvénytársaság | Mecsekérc Zrt. radiológiai laboratórium | levegő, szárazföldi környezet, vízi környezet, ivóvíz, radon, környezeti gamma-dózisteljesítmény |
 
@@ -84,4 +84,4 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 3.1.2. (b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^5]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
+[^6]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a szerint módosított szöveg.
