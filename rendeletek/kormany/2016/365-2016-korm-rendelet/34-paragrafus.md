@@ -1,4 +1,4 @@
-## 33/A. §[^48] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^49] folyamatban lévő ügyekben is alkalmazni kell.
+## 33/A. §[^74] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^75] folyamatban lévő ügyekben is alkalmazni kell.
 
 34. § (1) E rendelet
 
@@ -38,17 +38,34 @@
 
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) E rendelet
+(2)[^76] Ez a rendelet
 
-1. a gépekről és a 95/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelvnek,
+1. az aeroszoladagolókra vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. május 20-i 75/324/EGK tanácsi irányelvnek,
 
-2. a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+2. a gépekről és a 95/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelvnek,
 
-3. az energiával kapcsolatos termékek környezetbarát tervezésére vonatkozó követelmények megállapítási kereteinek létrehozásáról szóló, 2009. október 21-i 2009/125/EK európai parlament és tanácsi irányelvnek,
+3. a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
 
-4. az energiával kapcsolatos termékek energia- és egyéb erőforrás-fogyasztásának címkézéssel és szabványos termékismertetővel történő jelöléséről szóló, 2010. május 19-i 2010/30/EU európai parlamenti és tanácsi irányelvnek,
+4. a játékok biztonságáról szóló, 2009. június 18-i 2009/48/EK európai parlamenti és tanácsi irányelvnek,
 
-5. a robbanásveszélyes légkörben való használatra szánt felszerelésekre és védelmi rendszerekre vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/34/EU európai parlamenti és tanácsi irányelvnek
+5. az energiával kapcsolatos termékek környezetbarát tervezésére vonatkozó követelmények megállapítási kereteinek létrehozásáról szóló, 2009. október 21-i 2009/125/EK európai parlamenti és tanácsi irányelvnek,
 
-[^48]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
-[^49]: A hatálybalépés időpontja 2017. november 17.
+6. a szállítható nyomástartó berendezésekről és a 76/767/EGK, 84/525/EGK, 84/526/EGK, 84/527/EGK és az 1999/36/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. június 16-i 2010/35/EU európai parlamenti és tanácsi irányelvnek,
+
+7. az egyszerű nyomástartó edények forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/29/EU európai parlamenti és tanácsi irányelvnek,
+
+8. a nem automatikus működésű mérlegek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/31/EU európai parlamenti és tanácsi irányelvnek,
+
+9. a mérőműszerek forgalmazására vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/32/EU európai parlamenti és tanácsi irányelvnek,
+
+10. a felvonókra és a felvonókhoz készült biztonsági berendezésekre vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/33/EU európai parlamenti és tanácsi irányelvnek,
+
+11. a robbanásveszélyes légkörben való használatra szánt felszerelésekre és védelmi rendszerekre vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/34/EU európai parlamenti és tanácsi irányelvnek,
+
+12. a meghatározott feszültséghatáron belüli használatra tervezett elektromos berendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/35/EU európai parlamenti és tanácsi irányelvnek,
+
+13. a nyomástartó berendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. május 15-i 2014/68/EU európai parlamenti és tanácsi irányelvnek
+
+[^74]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
+[^75]: A hatálybalépés időpontja 2017. november 17.
+[^76]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.

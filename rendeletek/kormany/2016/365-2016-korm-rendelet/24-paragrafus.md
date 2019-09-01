@@ -1,4 +1,4 @@
-## 23. § A miniszter termékinformációs kapcsolattartó pontként – az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló kormányrendeletben meghatározottak szerint – ellátja a 764/2008/EK parlamenti és tanácsi rendeletben, továbbá a 305/2011/EU parlamenti és tanácsi rendeletben meghatározott feladatokat.
+## 23. §[^55] Az iparügyekért felelős miniszter termékinformációs kapcsolattartó pontként – az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló kormányrendeletben meghatározottak szerint – ellátja a 764/2008/EK parlamenti és tanácsi rendeletben, továbbá a 305/2011/EU parlamenti és tanácsi rendeletben meghatározott feladatokat.
 
 ## 13. Egyéb feladatok
 
@@ -10,9 +10,9 @@ b) ellátja a külföldi bizonyítványok és oklevelek elismeréséről szóló
 
 c) ellátja az Európai Közösségbe irányuló faanyag-behozatalhoz egyes harmadik országok által kiadott ún. FLEGT engedélyek ellenőrzésével kapcsolatos hatósági feladatokat,
 
-d)[^38] a mérőeszközökre vonatkozó egyedi előírásokról szóló miniszteri rendelet, valamint a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet tekintetében történő kijelöléssel és bejelentéssel kapcsolatos feladatok kivételével ellátja az iparügyekért felelős miniszter szabályozási feladatkörében előírt forgalmazási követelmények tekintetében – országos illetékességgel – a termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos feladatokat,
+d)[^56] az R1. és R2. tekintetében történő kijelöléssel és bejelentéssel kapcsolatos feladatok kivételével ellátja az iparügyekért felelős miniszter szabályozási feladatkörében előírt forgalmazási követelmények tekintetében – országos illetékességgel – a termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos feladatokat,
 
-e)[^39] ellátja – országos illetékességgel – az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet
+e)[^57] ellátja – országos illetékességgel – az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet
 
 ea) 29. cikk (1) bekezdése szerint a műszaki értékelést végző szervezetek, valamint
 
@@ -20,13 +20,14 @@ eb) 39. cikke és V. melléklet 2. pontja, valamint az építési termék épít
 
 kijelölésével és bejelentésével kapcsolatos feladatokat,
 
-f)[^40] ellátja – országos illetékességgel – a veszélyes áruk szállítására használt nyomástartó tartályok, tartányok vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével kapcsolatos feladatokat,
+f)[^58] ellátja – országos illetékességgel – a veszélyes áruk szállítására használt nyomástartó tartályok, tartányok vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével kapcsolatos feladatokat,
 
 g) kezeli a hatósági jogkörének gyakorlásához szükséges adatokat, valamint e körben irányítja és összehangolja az információfeldolgozó, -elemző munkát,
 
-h)[^41] ellátja a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hivatalának e rendelet szerinti feladatköreinek gyakorlásával összefüggésben a felügyeleti szerv feladatait.
+h)[^59] ellátja a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hivatalának e rendelet szerinti feladatköreinek gyakorlásával összefüggésben a felügyeleti szerv feladatait.
 
-[^38]: A 24. § d) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
-[^39]: A 24. § e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
-[^40]: A 24. § f) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
-[^41]: A 24. § h) pontját a 457/2017. (XII. 28.) Korm. rendelet 583. § (5) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^55]: A 23. § a 198/2019. (VIII. 1.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
+[^56]: A 24. § d) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított, a 198/2019. (VIII. 1.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
+[^57]: A 24. § e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
+[^58]: A 24. § f) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
+[^59]: A 24. § h) pontját a 457/2017. (XII. 28.) Korm. rendelet 583. § (5) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.

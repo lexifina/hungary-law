@@ -1,10 +1,10 @@
 ## 3. Kereskedelmi hatóság kijelölése
 
-3. § (1)[^10] A Kormány a (2) és (3) bekezdésben meghatározott körben Budapest Főváros Kormányhivatalát országos illetékességű kereskedelmi hatóságként jelöli ki.
+3. § (1)[^20] A Kormány a (2) és (3) bekezdésben meghatározott körben Budapest Főváros Kormányhivatalát országos illetékességű kereskedelmi hatóságként jelöli ki.
 
 (2) Budapest Főváros Kormányhivatala kereskedelmi hatóságként jár el:
 
-a) az utazásszervező és -közvetítői tevékenység bejelentésére, nyilvántartásba vételére irányuló eljárásokban és az azokkal kapcsolatos ellenőrzési feladatokban,
+a)[^21] az utazásszervező és -közvetítői tevékenység, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység bejelentésére, nyilvántartásba vételére irányuló eljárásokban és az azokkal kapcsolatos ellenőrzési feladatokban,
 
 b) az idegenvezetői tevékenység bejelentésére és nyilvántartásba vételére irányuló eljárásban,
 
@@ -14,7 +14,7 @@ d) a tartós szálláshasználati szolgáltatási tevékenység bejelentésére 
 
 e) a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló eljárásokban,
 
-f) a Széchenyi Pihenő Kártya kibocsátásával kapcsolatos nyilvántartási, valamint a Széchenyi Pihenő Kártya kibocsátásával és felhasználásával összefüggő ellenőrzési eljárásokban,
+f)[^22]
 
 g) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló jogszabályban meghatározott hatósági eljárásokban,
 
@@ -22,7 +22,7 @@ h) a kábítószer-prekurzorokkal kapcsolatos egyes hatósági feladatokban,
 
 i) az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek illékony szerves oldószer tartalmának szabályozásáról szóló külön jogszabályban kötelezett forgalmazók engedélyezésére és nyilvántartásba vételére irányuló eljárásban.
 
-(3) Budapest Főváros Kormányhivatala jár el a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: Pmtv.) 5. § f) pontja szerinti felügyeletet ellátó szerv feladatkörében a Pmtv.
+(3)[^23] Budapest Főváros Kormányhivatala országos illetékességgel eljár a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmtv.) 5. § e) pontja szerinti felügyeletet ellátó szerv feladatkörében a Pmtv.
 
 a) 1. § (1) bekezdés j) pontjában meghatározott tevékenység, valamint
 
@@ -40,4 +40,7 @@ b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeret�
 
 (6) A lovas szolgáltatók bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén a szakmai tevékenységért felelős személy szakképesítését igazoló okirat.
 
-[^10]: A 3. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^20]: A 3. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^21]: A 3. § (2) bekezdés a) pontja a 198/2019. (VIII. 1.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^22]: A 3. § (2) bekezdés f) pontját a 198/2019. (VIII. 1.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^23]: A 3. § (3) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
