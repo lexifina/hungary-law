@@ -4,10 +4,14 @@
 
 (3) Amennyiben a tulajdonos személye nem állapítható meg, az OAH erről a tényről határozatot hoz.
 
-(4) Az MTA EK az OAH határozata alapján a lefoglalt anyagot műbizonylattal látja el, bevezeti a saját helyi nyilvántartásába és erről jelentést küld az OAH részére.
+(4)[^15] Az EK az OAH határozata alapján a lefoglalt anyagot műbizonylattal látja el, bevezeti a saját helyi nyilvántartásába és erről jelentést küld az OAH részére.
 
 (5) Az OAH a (4) bekezdésben meghatározott jelentés és műbizonylat alapján a lefoglalt anyagot bevezeti a központi nyilvántartásba.
 
-(6) Az MTA EK intézkedik a hasznosítható anyagok felhasználásáról.
+(6)[^16] Az EK intézkedik a hasznosítható anyagok felhasználásáról.
 
-(7) Nem hasznosítható anyag esetén az MTA EK intézkedik az anyag Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. részére történő átadásáról. Az anyag elhelyezésének költségét az OAH viseli. Az e címen felmerült költségeket az OAH következő évi költségvetésében kell figyelembe venni és a központi költségvetésből az OAH részére megtéríteni.
+(7)[^17] Nem hasznosítható anyag esetén az EK intézkedik az anyag Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. részére történő átadásáról. Az anyag elhelyezésének költségét az OAH viseli. Az e címen felmerült költségeket az OAH következő évi költségvetésében kell figyelembe venni és a központi költségvetésből az OAH részére megtéríteni.
+
+[^15]: A 10. § (4) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^16]: A 10. § (6) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^17]: A 10. § (7) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.

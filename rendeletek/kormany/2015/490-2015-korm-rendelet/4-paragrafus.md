@@ -2,10 +2,10 @@
 
 (2) Ha az atomenergia alkalmazója által a felkutatás és a felügyelet alá helyezése érdekében megtett intézkedések fél órán belül nem vezetnek eredményre, az atomenergia alkalmazója erről tájékoztatja az OAH-t, amely azonnal helyszíni ellenőrzést folytat le.
 
-(3)[^2] Ha az ellenőrzéshez további, az OAH eszközeivel nem elvégezhető műszeres vizsgálat válik szükségessé, az OAH nukleáris anyag esetén a Magyar Tudományos Akadémia Energiatudományi Kutatóközpontjának (a továbbiakban: MTA EK), illetve más radioaktív anyag esetén az országos tisztifőorvos bevonásával felülvizsgálja az engedélyes által a telephelyen belül végzett felkutatás eredményét és szükség szerint kiterjeszti a felkutatást a telephelyen kívülre, amelyről a hivatásos katasztrófavédelmi szerv illetékes területi szervét tájékoztatja.
+(3)[^2] Ha az ellenőrzéshez további, az OAH eszközeivel nem elvégezhető műszeres vizsgálat válik szükségessé, az OAH nukleáris anyag esetén az Energiatudományi Kutatóközpont (a továbbiakban: EK), illetve más radioaktív anyag esetén az országos tisztifőorvos bevonásával felülvizsgálja az engedélyes által a telephelyen belül végzett felkutatás eredményét és szükség szerint kiterjeszti a felkutatást a telephelyen kívülre, amelyről a hivatásos katasztrófavédelmi szerv illetékes területi szervét tájékoztatja.
 
 (4) Ha az atomenergia alkalmazása körében fizikai védelmi rendelet szerinti 4. és 5. kategóriába sorolt hiányzó radioaktív sugárforrás, vagy 4. kategóriába tartozó radioaktív hulladék felkutatása és felügyelet alá helyezése érdekében az engedélyes által megtett intézkedések 24 órán belül nem vezetnek eredményre, az engedélyes haladéktalanul tájékoztatja az OAH-t, amely az (2) és a (3) bekezdés szerinti ellenőrzést folytat le.
 
 (5) A helyszíni ellenőrzésről az OAH jegyzőkönyvet vesz fel.
 
-[^2]: A 4. § (3) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (3) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § a) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 20. §-a szerint módosított szöveg.

@@ -1,14 +1,14 @@
-7. § (1)[^4] Ha az engedélyes telephelyén kívül, bárki által talált anyagról feltételezhető, hogy az radioaktív anyag, illetve ilyen anyaggal szennyezett, a haladéktalanul értesített hivatásos katasztrófavédelmi szerv területileg illetékes szerve értesíti országos tisztifőorvost, MTA EK-t, az OAH-t és az AH-t.
+7. § (1)[^4] Ha az engedélyes telephelyén kívül, bárki által talált anyagról feltételezhető, hogy az radioaktív anyag, illetve ilyen anyaggal szennyezett, a haladéktalanul értesített hivatásos katasztrófavédelmi szerv területileg illetékes szerve értesíti országos tisztifőorvost, EK-t, az OAH-t és az AH-t.
 
 (2) A hivatásos katasztrófavédelmi szerv területileg illetékes szerve helyszíni méréseket végez, szükség szerint megteszi az azonnali lakosságvédelmi intézkedéseket, valamint a talált anyagot lefoglalja.
 
 (3)[^5] Az országos tisztifőorvos elvégzi a talált anyag azonosítását és meghatározza azokat az intézkedéseket, amelyekkel az anyag hatósági felügyelet alá helyezhető.
 
-(4)[^6] Ha az országos tisztifőorvos vizsgálata valószínűsíti, hogy a lefoglalt talált anyag nukleáris anyagnak minősül és ennek helyszíni megerősítése indokolt, erről azonnal értesíti az MTA EK-t, aki elvégzi a talált anyag kategorizálásához szükséges helyszíni vizsgálatokat.
+(4)[^6] Ha az országos tisztifőorvos vizsgálata valószínűsíti, hogy a lefoglalt talált anyag nukleáris anyagnak minősül és ennek helyszíni megerősítése indokolt, erről azonnal értesíti az EK-t, aki elvégzi a talált anyag kategorizálásához szükséges helyszíni vizsgálatokat.
 
-(5)[^7] A hivatásos katasztrófavédelmi szerv területileg illetékes szerve az eljárásáról felvett jegyzőkönyvet megküldi az OAH-nak, az országos tisztifőorvosnak, MTA EK-nak, az ORFK-nak, valamint az AH-nak.
+(5)[^7] A hivatásos katasztrófavédelmi szerv területileg illetékes szerve az eljárásáról felvett jegyzőkönyvet megküldi az OAH-nak, az országos tisztifőorvosnak, EK-nak, az ORFK-nak, valamint az AH-nak.
 
-[^4]: A 7. § (1) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^4]: A 7. § (1) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
 [^5]: A 7. § (3) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
-[^6]: A 7. § (4) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
-[^7]: A 7. § (5) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^6]: A 7. § (4) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § c) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^7]: A 7. § (5) bekezdése a 162/2018. (IX. 10.) Korm. rendelet 33. § d) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
