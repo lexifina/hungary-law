@@ -1,5 +1,12 @@
-19. § (1) A bejelentett szervezet a piacfelügyeleti hatóság kérésére a hatóságot tájékoztatja a kiadott, vagy visszavont EK-típusvizsgálati bizonyítványról, illetve, ha megtagadta az EK-típusvizsgálati bizonyítvány kiadását, annak okáról és a hozzátartozó dokumentációkról.
+## 18. §[^5]
 
-(2) Ha a piacfelügyeleti hatóság megállapítja, hogy a játék nem felel meg a 9. §-ban és a 2. mellékletben meghatározott követelményeknek, utasítja a bejelentett szervezetet a játékra általa kiadott EK-típusvizsgálati bizonyítvány visszavonására.
+19. § (1)[^6]
 
-(3) A piacfelügyeleti hatóság a 15. § (7) bekezdésében meghatározott esetekben utasíthatja a bejelentett szervezetet az EK-típusvizsgálati bizonyítvány felülvizsgálatára.
+(2)[^7]
+
+(3)[^8]
+
+[^5]: A 18. §-t a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
+[^6]: A 19. § (1) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
+[^7]: A 19. § (2) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
+[^8]: A 19. § (3) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.

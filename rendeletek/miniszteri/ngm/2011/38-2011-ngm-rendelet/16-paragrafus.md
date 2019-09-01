@@ -6,6 +6,9 @@
 
 (3) Más tagállam piacfelügyeleti hatóságának megalapozott kérését követően a gyártónak a műszaki dokumentáció releváns részeiről fordítást kell készíttetnie a kérést benyújtó tagállam nyelvére.
 
-(4) A műszaki dokumentáció vagy annak egy részének gyártótól történő kérelmezésekor a piacfelügyeleti hatóság 30 napos határidőt szabhat meg, hacsak valamilyen komoly és közvetlen kockázat miatt nem indokolt a rövidebb határidő.
+(4)[^2]
 
-(5) Ha a gyártó nem tartja be az (1), (2) és (3) bekezdésben előírt kötelezettségeket, a piacfelügyeleti hatóság kötelezheti arra, hogy meghatározott időn belül a honosított harmonizált szabványok és az alapvető biztonsági követelmények betartásának ellenőrzése érdekében saját költségen vizsgálatot végeztessen a bejelentett szervezettel.
+(5)[^3]
+
+[^2]: A 16. § (4) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
+[^3]: A 16. § (5) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.

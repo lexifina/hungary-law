@@ -1,3 +1,3 @@
-18. § (1) A megfelelőségértékelő szervezet kijelölés iránti kérelmet nyújt be a kijelölő hatósághoz.
+## 17. §[^4]
 
-(2) A kérelemhez mellékelni kell a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló kormányrendeletben meghatározottakon túl azon játékok leírását, amelyekre vonatkozóan a szervezet a kijelölését kérelmezi.
+[^4]: A 17. §-t a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
