@@ -10,8 +10,8 @@ c) a tízévenként esedékes termék időszakos ellenőrzést az arra jogosult,
 
 (2) Üzemben tarthatók, és csak belföldön forgalmazhatók és szállíthatók azon cseppfolyós propán-bután gáz töltetű, alumínium ötvözetű hegesztett gázpalackok is, amelyek falvastagsága kisebb mint 3 mm, ha egyéb vonatkozásban megfelelnek az ADR előírásainak és az (1) bekezdésben foglaltaknak.
 
-(3)[^5]
+(3)[^6]
 
 (4) A varratnélküli acél, varratnélküli alumínium és alumíniumötvözet, valamint hegesztett kivitelű ötvözetlen acél gázpalackokra a GBSZ IV-VI. fejezete alapján kiadott EGK-típusjóváhagyási tanúsítványok, valamint a szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség tanúsításáról szóló 8/2003. (II. 19.) GKM rendelet alapján kiadott EK-tervvizsgálati tanúsítványok az érvényességi idejükig egyenértékűek az e rendelet alapján kiadott típusbizonyítvánnyal.
 
-[^5]: A 22. § (3) bekezdését a 14/2018. (IX. 4.) ITM rendelet 6. §-a hatályon kívül helyezte.
+[^6]: A 22. § (3) bekezdését a 14/2018. (IX. 4.) ITM rendelet 6. §-a hatályon kívül helyezte.

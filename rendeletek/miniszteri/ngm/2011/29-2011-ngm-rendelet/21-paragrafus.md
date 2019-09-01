@@ -1,3 +1,5 @@
+## 20. §
+
 ## 10. Záró rendelkezések
 
 21. § (1) Ez a rendelet – a (3) bekezdésben foglaltak kivételével – a kihirdetését követő 3. napon lép hatályba.

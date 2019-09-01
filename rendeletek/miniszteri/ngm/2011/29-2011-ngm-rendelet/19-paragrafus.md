@@ -1,5 +1,1 @@
-19. § (1) Amennyiben a piacfelügyeleti hatóság a 18. § (1) bekezdése szerinti értékelés elvégzését követően megállapítja, hogy bár egy szállítható nyomástartó berendezés megfelel az ADR, a RID és az ADN vonatkozó előírásainak és az e rendeletben megállapított követelményeknek, azonban mégis kockázatot jelent a személyek egészségére vagy biztonságára, illetve az anyagi javakra, akkor felszólítja az érintett gazdasági szereplőt, hogy tegyen meg minden szükséges intézkedést annak biztosítása érdekében, hogy az érintett szállítható nyomástartó berendezés a forgalomba hozatalkor többé ne jelentsen kockázatot, illetve hogy – az előírásoknak és a veszély mértékének megfelelően – ésszerű határidőn belül kivonják a szállítható nyomástartó berendezést a forgalomból vagy visszahívják azt.
-
-(2) A gazdasági szereplő biztosítja, hogy kiigazító intézkedést hoznak az összes olyan érintett szállítható nyomástartó berendezés tekintetében, amelyeket forgalmaz.
-
-(3) A piacfelügyeleti hatóság haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot. A tájékoztatásban megadják az összes rendelkezésre álló adatot, különösen a meg nem felelő szállítható nyomástartó berendezés azonosításához szükséges adatokat, a berendezés származási helyét és értékesítési láncát, a felmerülő kockázatok jellegét, a meghozott intézkedések jellegét és időtartamát.
+## 18. §
