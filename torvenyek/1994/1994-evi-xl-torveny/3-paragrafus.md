@@ -4,9 +4,9 @@
 
 a) támogatja a tudományok művelését és a tudományos kutatások végzését, támogatja a tudományos könyv- és folyóirat-kiadást;
 
-b) tudományos kutatások folytatása céljából, a központi költségvetésből támogatott főhivatású kutatóhálózatot tart fenn, megalkotja működési szabályait, és hatékonyan működteti azt;
+b)
 
-c) tudományos minősítési rendszert működtet, melynek keretében a Magyar Tudományos Akadémia doktora (a továbbiakban: az MTA doktora) továbbá a Magyar Tudományos Akadémia levelező és rendes tagja címet adományoz. Az adományozás szabályait az Akadémia szabályzatba foglalja;
+c) tudományos minősítési rendszert működtet, melynek keretében a Magyar Tudományos Akadémia doktora (a továbbiakban: az MTA doktora) továbbá a Magyar Tudományos Akadémia levelező és rendes tagja címet adományoz, valamint felkérésre tudományos tevékenységet végző intézményt értékel. A címadományozás és értékelés szabályait az Akadémia szabályzatba foglalja;
 
 d) a világban folyó és a hazai tudományos kutatások eredményeit és irányait rendszeresen értékeli, és ezzel kapcsolatosan javaslatokat fogalmaz meg;
 
@@ -30,9 +30,15 @@ m) a tudományos utánpótlást ösztöndíjrendszer fenntartásával segíti, a
 
 n) tudományos osztályokat alakít, amelyek a tudományos szakmai autonómia alapegységei, és az Alapszabályban meghatározott módon egyéb testületeket (tudományos bizottságokat, területi bizottságokat stb.) hoz létre;
 
-o) az e tevékenységet alapfeladatként ellátó, az MTA Könyvtár és Információs Központ mint akadémiai költségvetési szerv (a továbbiakban: Könyvtár és Információs Központ) közreműködésével tudományos művek (tudományos alkotás, tudományos publikáció, doktori értekezés és annak tézisei, MTA doktora értekezés és annak tézisei) adatait tartalmazó nemzeti tudományos bibliográfiai adatbázist (a továbbiakban e törvény alkalmazásában: Adatbázis) működtet, amely bibliográfiai hitelesség szempontjából ellenőrzött módon tartalmazza a költségvetési szerveknél foglalkoztatottak által a szerzői jogról szóló 1999. évi LXXVI. törvény 30. § (7) bekezdésében meghatározott jogviszonyuk keretei között megalkotott és nyilvánosságra hozott tudományos művekkel, valamint a költségvetési forrásból tudományos mű megírására, létrehozására irányuló szerződés alapján támogatásban részesülő személyek által megjelentetett tudományos művekkel kapcsolatos, e törvény 19/A. §-ában meghatározott adatokat; valamint alkalmas a más személyek által megalkotott és nyilvánosságra hozott tudományos művek önkéntesen közzétenni kívánt adatainak befogadására.
+o) az e tevékenységet alapfeladatként ellátó, az MTA Könyvtár és Információs Központ mint akadémiai költségvetési szerv (a továbbiakban: Könyvtár és Információs Központ) közreműködésével tudományos művek (tudományos alkotás, tudományos publikáció, doktori értekezés és annak tézisei, MTA doktora értekezés és annak tézisei) adatait tartalmazó nemzeti tudományos bibliográfiai adatbázist (a továbbiakban e törvény alkalmazásában: Adatbázis) működtet, amely bibliográfiai hitelesség szempontjából ellenőrzött módon tartalmazza a költségvetési szerveknél foglalkoztatottak által a szerzői jogról szóló 1999. évi LXXVI. törvény 30. § (7) bekezdésében meghatározott jogviszonyuk keretei között megalkotott és nyilvánosságra hozott tudományos művekkel, valamint a költségvetési forrásból tudományos mű megírására, létrehozására irányuló szerződés alapján támogatásban részesülő személyek által megjelentetett tudományos művekkel kapcsolatos, e törvény 19/A. §-ában meghatározott adatokat; valamint alkalmas a más személyek által megalkotott és nyilvánosságra hozott tudományos művek önkéntesen közzétenni kívánt adatainak befogadására;
 
-(2) Az Akadémia elnöke kétévenként beszámol az Országgyűlésnek az Akadémia munkájáról, valamint a magyar tudomány általános helyzetéről.
+p) elősegíti a fiatal kutatók tudományos életpályájának kialakítását;
+
+q) közreműködik a kutatók és a társadalom közötti kapcsolat erősítésében.
+
+(1a) Az Akadémia feladata a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) 42/B. § (5) bekezdésben, 46. § (1) bekezdésében és 2. mellékletében meghatározottak szerinti főhivatású kutatóhálózat elhelyezését, valamint a kutatóintézeti hálózat működtetését szolgáló, a Magyar Tudományos Akadémia tulajdonában és ezen kutatóhelyek használatában lévő vagyonelemek használati jogának a KFItv.-ben meghatározottak szerinti biztosítása.
+
+(2) Az Akadémia elnöke kétévenként beszámol az Országgyűlésnek az Akadémia munkájáról, és ennek érdekében rendszeresen felméri és értékeli az egyes tudományágak hazai eredményességét és nemzetközi megítélését.
 
 (3) Az Akadémia elnöke évente tájékoztatja a Kormányt az Akadémia munkájáról, valamint a magyar társadalom és gazdaság fellendítése érdekében elért eredményeiről.
 

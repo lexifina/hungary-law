@@ -1,41 +1,25 @@
 21. § (1) Az akadémiai költségvetési szervek körébe tartoznak:
 
-a) a kutatóközpontok, a kutatóintézetek és a TKI;
+a)
 
 b) az Akadémiai Könyvtár;
 
-c) a kutatást segítő egyéb szervezetek;
+c) az Akadémia feladatainak ellátást segítő egyéb szervezetek;
 
 d) a területi akadémiai bizottságok titkárságai;
 
 e) a jóléti szervezetek.
 
-(2) Az akadémiai költségvetési szervek részt vesznek az Akadémia törvényben foglalt közfeladatainak ellátásában. Ezek finanszírozásának forrásai a költségvetési támogatás, más államháztartási források és saját bevételeik. Az akadémiai költségvetési szervek kutatási feladatait támogató tevékenységek tárgyi és személyi feltételeinek megteremtéséhez, a speciális kutatási feltételek biztosításához a kormányzati tudománypolitikáért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít költségvetési támogatást.
+(2) Az akadémiai költségvetési szervek részt vesznek az Akadémia törvényben foglalt közfeladatainak ellátásában. Ezek finanszírozásának forrásai a költségvetési támogatás, más államháztartási források és saját bevételeik.
 
-(3) A kutatóhálózaton belül a kutatóintézetek, a kutatóközpontok és a TKI éves költségvetési támogatása tartalmazza:
+(3)
 
-a) a közfeladatok ellátásával összefüggő alapellátási támogatást;
+(4)
 
-b) az Akadémia fejezet költségvetésében meghatározott feladatra a kutatóközpontoknál, kutatóintézeteknél előirányzott keretet;
+(5)
 
-c) a közfeladat célú pályázatokban való részvételhez felhasználható forrásra (önrészre) fordítható összeget.
+(6)
 
-(4) A (3) bekezdés a) pontjában meghatározott alapellátási támogatás tartalmazza:
-
-a) a kutatóintézetek üzemeltetési kiadásaihoz,
-
-b) a kutatási feladatokat támogató tevékenységek tárgyi és személyi feltételeit megteremtő összegekhez,
-
-c) a speciális kutatási feltételek kiadásaihoz,
-
-d) a közfeladatok ellátásához köthető személyi és tárgyi kiadásokhoz
-
-a közfeladatokkal arányosan – jogszabályban meghatározott feltételek szerint – megállapított költségvetési forrást.
-
-(5) Az alapellátási támogatás kutatóintézetekre együttesen meghatározott összege a kutatóintézeti kört érintő közfeladatok mennyiségének változásával együtt módosítandó.
-
-(6) Az alapellátási támogatást módosítani kell az éves átlagos infláció mértékének megfelelően is, amennyiben ezt a költségvetési támogatás növekedése lehetővé teszi.
-
-(7) A kutatóközpont és a kutatóintézet szellemi és anyagi kapacitásával végzett tevékenységének bevételei a kutatóhely működésének és fejlesztésének forrását képezik.
+(7)
 
 (8)–(9)

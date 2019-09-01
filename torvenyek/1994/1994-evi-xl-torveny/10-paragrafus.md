@@ -8,4 +8,4 @@
 
 (4) A tudományos osztály ellátja az Akadémia közfeladataiból a tudományterületét érintő teendőket. Ezeket a feladatokat az Alapszabály rögzíti.
 
-(5) A tudományos osztály értékeli a tudományterületéhez tartozó akadémiai kutatóhelyek szakmai beszámolóit.
+(5)

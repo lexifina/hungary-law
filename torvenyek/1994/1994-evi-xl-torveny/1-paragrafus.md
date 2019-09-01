@@ -6,4 +6,4 @@
 
 (3) Az Akadémia akadémikus tagjai köztestületi jogaikat közvetlen részvétel útján, a nem akadémikus köztestületi tagok pedig – a jelen törvényben és az Akadémia Alapszabályában (a továbbiakban: Alapszabály) meghatározott módon – képviselet útján gyakorolják.
 
-(4) Az Akadémia mint köztestület, valamint az akadémiai kutatóhálózat működésének feltételeit közvetlenül érintő jogszabályok, programok, intézkedések, továbbá a közfeladatainak ellátását érintő jogszabályok, állami programok és intézkedések előkészítésekor az Akadémia véleményét ki kell kérni.
+(4) Az Akadémia mint köztestület közfeladatainak ellátását érintő jogszabályok, állami programok és intézkedések előkészítésekor az Akadémia véleményét ki kell kérni.

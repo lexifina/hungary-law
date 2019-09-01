@@ -20,9 +20,9 @@ g) megválasztja az elnököt, az alelnököket, a főtitkárt és a főtitkárh
 
 h) megválasztja az Akadémia Vagyonkezelő Testületének, Doktori Tanácsának, Felügyelő Testületének, Könyv- és Folyóirat-kiadó Bizottságának és Tudományetikai Bizottságának a tagjait;
 
-i) megválasztja az Akadémiai Kutatóintézetek Tanácsának (a továbbiakban: AKT) és az Akadémia Elnökségének a Közgyűlés által választandó tagjait;
+i) megválasztja az Akadémia Elnökségének a Közgyűlés által választandó tagjait,
 
-j) a külön jogszabály szerinti alapítói jogkörében dönt költségvetési szervek és a Támogatott Kutatócsoportok Irodája (a továbbiakban: TKI) megalapításáról, átszervezéséről, átsorolásáról, megszüntetéséről.
+j) alapítói jogkörében dönt költségvetési szervek megalapításáról, átszervezéséről, átsorolásáról, megszüntetéséről.
 
 (3) A megválasztott testületek feladatait, működésük eljárási szabályait az Alapszabály tartalmazza.
 

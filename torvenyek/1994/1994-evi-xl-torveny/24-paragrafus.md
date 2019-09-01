@@ -2,6 +2,6 @@
 
 (2) Felhatalmazást kap a Kormány, hogy a hazai akadémikust megillető tiszteletdíj, a hozzátartozói ellátások, továbbá az Akadémia doktora tiszteletdíja megállapításának feltételeit, mértékét, folyósításának és felfüggesztésének szabályait rendeletben állapítsa meg.
 
-(3) Az alapellátás intézetenkénti összegét és a közfeladatokat, valamint azok ellátásának feltételeit a 2011. évi költségvetés tervezéséig kell összehangolni.
+(3)
 
 (4) A 21. § (2)–(7) bekezdésének rendelkezéseit első ízben a Magyar Köztársaság 2010. évi költségvetéséről szóló törvénnyel összhangban, 2010. január 1-jétől kell alkalmazni.
