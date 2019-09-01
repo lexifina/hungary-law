@@ -1,13 +1,3 @@
-101. § (1) A miniszter az oktatásért való felelőssége keretében
+101. §[^36]
 
-a) előkészíti a felsőoktatásra vonatkozó jogszabályokat,
-
-b) felel a felsőoktatás irányításáért,
-
-c) meghatározza a magyar állami ösztöndíjrendszer igénybevételének kereteit,
-
-d)[^34] közreműködik a Stipendium Hungaricum ösztöndíjprogrammal kapcsolatos, külön jogszabályban meghatározott feladatok végrehajtásában.
-
-(2) A miniszter a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény XIX. Fejezetében meghatározott fenntartói jogot átruházhatja.
-
-[^34]: A 101. § (1) bekezdés d) pontja a 138/2019. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^36]: A 101. §-t a 209/2019. (VIII. 27.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

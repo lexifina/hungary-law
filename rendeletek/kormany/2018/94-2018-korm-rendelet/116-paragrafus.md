@@ -46,6 +46,10 @@
 
 22. tudománypolitika koordinációjáért,
 
-23. szakképzésért és felnőttképzésért
+23. szakképzésért és felnőttképzésért,
+
+24.[^41] – az ezen alcímben és a 2. és 3. mellékletben meghatározottak szerint, a felsőoktatással összefüggő feladat- és hatáskörök tekintetében – oktatásért
 
 felelős tagja.
+
+[^41]: A 116. § 24. pontját a 209/2019. (VIII. 27.) Korm. rendelet 6. §-a iktatta be.
