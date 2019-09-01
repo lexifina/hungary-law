@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2019-03-27 | 2019. évi XVIII. törvény | 2001-64-00-00.45 |
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2001-64-00-00.46 |
 | 2019-07-16 | 2019. évi LXIV. törvény | 2001-64-00-00.47 |
+| 2019-09-01 | 2019. évi LXVIII. törvény | 2001-64-00-00.48 |

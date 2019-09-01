@@ -26,7 +26,7 @@ d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 
 e) a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
 
-f) a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont,
+f) a Bölcsészettudományi Kutatóközpont,
 
 g) a jogszabályban kijelölt örökségvédelmi szerv, valamint
 
