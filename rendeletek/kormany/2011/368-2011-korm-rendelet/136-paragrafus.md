@@ -1,8 +1,8 @@
-136. § (1)[^526] A Nyugdíjbiztosítási Alap által folyósított, de nem a Nyugdíjbiztosítási Alapot terhelő ellátások megtérítésére vonatkozó, az ellátások tényleges felhasználás szerinti igénybevételének ütemezését tartalmazó éves előirányzat-felhasználási tervet a Nyugdíjbiztosítási Alap kezelő szerve készíti el a költségvetési évet megelőző év december 25. napjáig. A Kincstár az ellátások összegét a Nyugdíjbiztosítási Alap kezelő szerve által elkészített okmányok alapján a hónap utolsó előtti banki napján utalja át.
+136. § (1)[^527] A Nyugdíjbiztosítási Alap által folyósított, de nem a Nyugdíjbiztosítási Alapot terhelő ellátások megtérítésére vonatkozó, az ellátások tényleges felhasználás szerinti igénybevételének ütemezését tartalmazó éves előirányzat-felhasználási tervet a Nyugdíjbiztosítási Alap kezelő szerve készíti el a költségvetési évet megelőző év december 25. napjáig. A Kincstár az ellátások összegét a Nyugdíjbiztosítási Alap kezelő szerve által elkészített okmányok alapján a hónap utolsó előtti banki napján utalja át.
 
 (2) A társadalombiztosítás pénzügyi alapjai esetén a központi hozzájárulás igénybevételének ütemezésére vonatkozó éves előirányzat-felhasználási tervet a társadalombiztosítás pénzügyi alapjai kezelő szerve jóváhagyásra az államháztartásért felelős miniszternek küldi meg a költségvetési évet megelőző év december 25-éig. A Kincstár a költségvetési hozzájárulás megtérítését a jóváhagyott tervben meghatározott időpontokban utalja a társadalombiztosítás pénzügyi alapjai fizetési számlájára.
 
-(3)[^527] Az éves előirányzat-felhasználási terv a jogosultság jogszabályi feltételeinek megváltoztatásán alapuló módosítása, az igénybe vett támogatás túlteljesülése, vagy alulteljesülése, illetve jogszabályon alapuló évközi intézkedés esetén a havi előirányzat-felhasználási terv benyújtásával egyidejűleg módosítható.
+(3)[^528] Az éves előirányzat-felhasználási terv a jogosultság jogszabályi feltételeinek megváltoztatásán alapuló módosítása, az igénybe vett támogatás túlteljesülése, vagy alulteljesülése, illetve jogszabályon alapuló évközi intézkedés esetén a havi előirányzat-felhasználási terv benyújtásával egyidejűleg módosítható.
 
 (4) A társadalombiztosítás pénzügyi alapjai kezelő szervének
 
@@ -18,9 +18,9 @@ a) a Nyugdíjbiztosítási Alap előirányzat-felhasználási tervét visszaigaz
 
 b) az Egészségbiztosítási Alap előirányzat-felhasználási tervét, ha
 
-ba)[^528] a zárt előirányzatok tárgyhónap végéig tervezett összegei az időarányos előirányzatot nem haladják meg, a tárgyhónapot megelőző utolsó kincstári napon gondoskodik az előirányzat-felhasználási keretek megnyitásáról és jóváhagyó aláírásával ellátva ezt visszaigazolja,
+ba)[^529] a zárt előirányzatok tárgyhónap végéig tervezett összegei az időarányos előirányzatot nem haladják meg, a tárgyhónapot megelőző utolsó kincstári napon gondoskodik az előirányzat-felhasználási keretek megnyitásáról és jóváhagyó aláírásával ellátva ezt visszaigazolja,
 
-bb)[^529] bármely zárt előirányzat tárgyhónap végéig tervezett összege meghaladja az éves előirányzat időarányos mértékét, az államháztartásért felelős miniszter számára jóváhagyásra megküldi.
+bb)[^530] bármely zárt előirányzat tárgyhónap végéig tervezett összege meghaladja az éves előirányzat időarányos mértékét, az államháztartásért felelős miniszter számára jóváhagyásra megküldi.
 
 (6) A jóváhagyott előirányzat-felhasználási terv alapján a Kincstár gondoskodik az előirányzat-felhasználási keretek megnyitásáról és azt visszaigazolja a társadalombiztosítás pénzügyi alapjai kezelő szervei részére.
 
@@ -30,7 +30,7 @@ bb)[^529] bármely zárt előirányzat tárgyhónap végéig tervezett összege 
 
 (9) Ha az államháztartásért felelős miniszter a zárt előirányzatok tárgyhavi előirányzat-felhasználási kereteit az előző időszakban képződött megtakarítás beszámításával hagyja jóvá és az előirányzat-felhasználási terv nem így került benyújtásra, az előirányzat-felhasználási tervet a döntésnek megfelelően korrigálni kell. A társadalombiztosítás pénzügyi alapjának kezelő szerve a korrekciót a Kincstár tájékoztatása alapján soron kívül végrehajtja és a korrigált tervet a Kincstárnak megküldi.
 
-[^526]: Az Ávr 136. § (1) bekezdése a 311/2017. (X. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^527]: Az Ávr. 136. § (3) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.
-[^528]: Az Ávr. 136. § (5) bekezdés b) pont ba) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^529]: Az Ávr. 136. § (5) bekezdés b) pont bb) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^527]: Az Ávr 136. § (1) bekezdése a 311/2017. (X. 31.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^528]: Az Ávr. 136. § (3) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.
+[^529]: Az Ávr. 136. § (5) bekezdés b) pont ba) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^530]: Az Ávr. 136. § (5) bekezdés b) pont bb) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
