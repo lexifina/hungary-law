@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-84-20-2
 | 2015-07-31 | 2011-84-20-22.3 | 201/2015. (VII. 23.) Korm. rendelet |
 | 2016-09-01 | 2011-84-20-22.4 | 265/2016. (VIII. 31.) Korm. rendelet |
 | 2018-01-01 | 2011-84-20-22.5 | 393/2017. (XII. 13.) Korm. rendelet |
+| 2019-09-01 | 2011-84-20-22.6 | 204/2019. (VIII. 23.) Korm. rendelet |

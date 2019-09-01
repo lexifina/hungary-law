@@ -1,12 +1,12 @@
 ## 13. § Ez a rendelet 2011. június 1-jén lép hatályba, egyidejűleg hatályát veszti a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a központi költségvetési szervként működő kutató- és kutatást kiegészítő intézeteknél és kutatókat foglalkoztató egyes intézményeknél történő végrehajtásáról szóló 49/1993. (III. 26.) Korm. rendelet.
 
-## [A Kjt. 79/B. §-ához][^4]
+## [A Kjt. 79/B. §-ához][^7]
 
-14. §[^5] (1) A 2016. szeptember 1-jétől 2016. december 31-ig terjedő időszakra a Magyar Tudományos Akadémia irányítása alá tartozó költségvetési szervnél tudományos kutatói munkakörben foglalkoztatott közalkalmazott, ha a fizetési fokozata alapján számított, illetve a munkáltató által megállapított magasabb összegű – illetménypótlék és kereset-, illetve illetménykiegészítés nélkül számított – illetménye nem éri el a központi költségvetésről szóló törvényben meghatározott egyetemi tanári munkakör 1. fizetési fokozatának garantált illetménye alapján a Kjt. 2. számú melléklete alkalmazásával az adott munkakör fizetési fokozatára meghatározott garantált illetmény összegének 115%-át, a (2) bekezdés szerinti, havi rendszerességgel fizetett illetménytöbbletre jogosult.
+14. §[^8] (1) A 2016. szeptember 1-jétől 2016. december 31-ig terjedő időszakra a Magyar Tudományos Akadémia irányítása alá tartozó költségvetési szervnél tudományos kutatói munkakörben foglalkoztatott közalkalmazott, ha a fizetési fokozata alapján számított, illetve a munkáltató által megállapított magasabb összegű – illetménypótlék és kereset-, illetve illetménykiegészítés nélkül számított – illetménye nem éri el a központi költségvetésről szóló törvényben meghatározott egyetemi tanári munkakör 1. fizetési fokozatának garantált illetménye alapján a Kjt. 2. számú melléklete alkalmazásával az adott munkakör fizetési fokozatára meghatározott garantált illetmény összegének 115%-át, a (2) bekezdés szerinti, havi rendszerességgel fizetett illetménytöbbletre jogosult.
 
 (2) Az illetménytöbblet havi összege a garantált illetmény 115%-ának és a közalkalmazott – illetménypótlék és kereset-, illetve illetménykiegészítés nélkül számított – illetményének a különbözete, illetve annak az a része, amely folyósítása esetén a közalkalmazott havi rendszeres járandósága a Kjt. 21. § (3) bekezdése szerinti mértéket nem haladja meg. Az illetménytöbblet havi összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani.
 
-Melléklet a 84/2011. (V. 26.) Korm. rendelethez[^6]
+Melléklet a 84/2011. (V. 26.) Korm. rendelethez[^9]
 
 A költségvetési szervként működő kutatóközpontokban, kutatóintézetekben,
 
@@ -56,6 +56,6 @@ Szakmai szolgáltató elnevezésű munkakörbe kell besorolni azt a közalkalmaz
 
 Technikus, laboráns munkakörben a besorolás szempontjából felsőfokú szakképesítéssel egyenértékűnek kell tekinteni annak a közalkalmazottnak a képesítését, aki ipari, mezőgazdasági vagy egyéb technikumokban szerzett oklevelet, és legalább tíz évig szakképesítésének megfelelő területen dolgozott.
 
-[^4]: A 14. §-t megelőző alcímet a 265/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^5]: A 14. §-t a 265/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
-[^6]: A melléklet a 393/2017. (XII. 13.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^7]: A 14. §-t megelőző alcímet a 265/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 14. §-t a 265/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A melléklet a 393/2017. (XII. 13.) Korm. rendelet 37. §-a szerint módosított szöveg.

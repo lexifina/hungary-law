@@ -1,6 +1,6 @@
 ## 9. § A tudományos munkakörben foglalkoztatott közalkalmazottakat a Kjt. 2. számú mellékletében és e rendelet 10. §-ában foglaltak, a nem tudományos munkakörben foglalkoztatottakat pedig e rendelet Mellékletében foglaltak figyelembevételével kell besorolni.
 
-10. §[^3] (1) A tudományos munkakörbe történő besoroláshoz legalább a nemzeti felsőoktatásról szóló törvény szerinti mesterfokozat szükséges.
+10. §[^5] (1) A tudományos munkakörbe történő besoroláshoz legalább a nemzeti felsőoktatásról szóló törvény szerinti mesterfokozat szükséges.
 
 (2) Kutatóprofesszor elnevezésű tudományos munkakörbe kell besorolni az MTA rendes és levelező tagját.
 
@@ -22,7 +22,7 @@ bd) idegen nyelven tart előadásokat és publikál.
 
 a) a kutatóintézet tudományos főmunkatársi minősítő eljárását
 
-aa) akadémiai munkáltatónál az MTAtv. 18. § (2) bekezdése szerinti tudományos tanács vagy
+aa)[^6]
 
 ab) nem akadémiai munkáltatónál jogszabály vagy belső szabályzat alapján létrehozott intézményi tudományos tanács
 
@@ -46,4 +46,5 @@ b) akinek a külföldi állam joga szerint tudományos fokozat kiállítására 
 
 (9) A (2)–(5) bekezdésben meghatározott tudományos kutatói munkakörben a kutatói gyakorlati idő csak abban az esetben vehető figyelembe, ha a közalkalmazott kutatói munkaterv szerint tevékenykedett és rendszeresen publikált.
 
-[^3]: A 10. § a 477/2013. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 10. § a 477/2013. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 10. § (4) bekezdés a) pont aa) alpontját a 204/2019. (VIII. 23.) Korm. rendelet 12. §-a hatályon kívül helyezte.
