@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-2
 | 2017-12-23 | 2007-51-20-22.20 | 407/2017. (XII. 15.) Korm. rendelet |
 | 2019-06-01 | 2007-51-20-22.21 | 116/2019. (V. 16.) Korm. rendelet |
 | 2019-06-08 | 2007-51-20-22.22 | 130/2019. (V. 31.) Korm. rendelet |
+| 2019-09-01 | 2007-51-20-22.23 | 209/2019. (VIII. 27.) Korm. rendelet |

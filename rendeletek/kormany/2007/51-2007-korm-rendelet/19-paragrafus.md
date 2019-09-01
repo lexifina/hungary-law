@@ -1,4 +1,4 @@
-19. § (1)[^56] Az Ösztöndíjrendszerrel kapcsolatos központi adatbázis-kezelői, koordinációs, a települési és megyei ösztöndíjjal kapcsolatos pénzkezelési feladatokat az oktatásért felelős miniszter által kijelölt szervezet (a továbbiakban: pályázatkezelő szervezet) látja el.
+19. § (1)[^56] Az Ösztöndíjrendszerrel kapcsolatos központi adatbázis-kezelői, koordinációs, a települési és megyei ösztöndíjjal kapcsolatos pénzkezelési feladatokat az Emberi Erőforrás Támogatáskezelő (a továbbiakban: pályázatkezelő szervezet) látja el.
 
 (2)[^57] Az intézményi ösztöndíjrészt az oktatásért felelős miniszter adományozza.
 
@@ -26,7 +26,7 @@ c) a tanulmányok halasztása.
 
 (11) Az az ösztöndíjas, aki értesítési kötelezettségének nem tesz eleget, az ösztöndíj folyósításából és az Ösztöndíjrendszer következő évi fordulójából kizárható. Az ösztöndíjas 30 napon belül köteles a jogosulatlanul felvett ösztöndíjat a folyósító felsőoktatási intézmény részére visszafizetni. Az az ösztöndíjas, aki értesítési kötelezettségének elmulasztása miatt esik el az ösztöndíj folyósításától, a tanulmányi félév lezárását követően (június 30-ig, illetve január 31-ig) ki nem fizetett ösztöndíjára már nem tarthat igényt.
 
-[^56]: A 19. § (1) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja szerint módosított szöveg.
+[^56]: A 19. § (1) bekezdése a 209/2019. (VIII. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^57]: A 19. § (2) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja szerint módosított szöveg.
 [^58]: A 19. § (10) bekezdés a) pontja a 220/2014. (VIII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^59]: A 19. § (10) bekezdés b) pontja a 220/2014. (VIII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
