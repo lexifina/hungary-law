@@ -1,7 +1,7 @@
 73. § Hatályát veszti az Fgytv.
 
-a)
+a) 26. § (4) bekezdése,
 
-b)
+b) 55. § (1) bekezdés g) és i) pontja,
 
 c)
