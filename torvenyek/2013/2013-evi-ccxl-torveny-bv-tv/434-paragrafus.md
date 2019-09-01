@@ -19,9 +19,3 @@ d) a kényszergyógykezelés és az előzetes kényszergyógykezelés végrehajt
 e) a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokra vonatkozó szabályokat,
 
 f) a szabadságvesztés kezdő és utolsó napjának megállapítására vonatkozó szabályokat a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
-
-g) a bv. intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak fegyelmi felelősségének szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
-
-h) a bv. intézetben fogvatartott elítéltekkel és egyéb jogcímen fogvatartottakkal kapcsolatos kártérítési eljárás szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben,
-
-i) a bv. intézetben fogvatartott elítéltek és egyéb jogcímen fogvatartottak egészségügyi ellátásának szabályait a büntetés-végrehajtásért felelős miniszterrel egyetértésben,

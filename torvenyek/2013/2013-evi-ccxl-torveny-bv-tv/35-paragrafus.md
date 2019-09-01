@@ -4,4 +4,6 @@
 
 (3) Ha a rendkívüli jogorvoslat folytán meghozott határozattal a bíróság az elítéltet felmenti, a kényszergyógykezelést mellőzi, vagy az eljárást megszünteti, és a végrehajtás felfüggesztésére vagy félbeszakítására nem került sor, a tanács elnöke azonnal intézkedik a szabadságvesztésre ítélt, a kényszergyógykezelt és a javítóintézeti nevelt szabadítása, illetve elbocsátása iránt.
 
-(4)–(5)
+(4)
+
+(5)

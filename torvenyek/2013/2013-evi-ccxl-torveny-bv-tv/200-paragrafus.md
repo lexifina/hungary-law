@@ -1,1 +1,1 @@
-200. § Ha a bv. intézet nem áll szerződéses kapcsolatban általános iskolával, a bv. intézet illetékességi területébe tartozó iskola a bv. intézettel kötött együttműködési megállapodás alapján biztosítja az alapfokú képzést, magántanulói jogviszony keretében.
+200. § Ha a bv. intézet nem áll szerződéses kapcsolatban általános iskolával, a bv. intézet illetékességi területébe tartozó iskola a bv. intézettel kötött együttműködési megállapodás alapján biztosítja az alapfokú képzést, egyéni munkarend alapján.

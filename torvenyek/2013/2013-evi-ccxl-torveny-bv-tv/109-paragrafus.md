@@ -4,4 +4,6 @@
 
 (3) Az alacsony biztonsági kockázatú részlegre helyezés megszüntethető, ha az elítélt a büntetés-végrehajtás rendjét súlyosan megsérti.
 
-(4)–(5)
+(4)
+
+(5)
