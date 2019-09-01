@@ -30,7 +30,8 @@
 
 12. tulajdonos: az a természetes vagy jogi személy, valamint gazdasági társaság, akinek vagy amelynek az e rendelet hatálya alá tartozó gázpalack, gázhordó vagy palackköteg van a tulajdonában;
 
-13. veszélyes áruk szállítására vonatkozó hatályos előírások: a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2013. évi CX. törvénnyel kihirdetett Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR), a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) belföldi alkalmazásáról szóló 62/2013. (X. 17.) NFM rendeletben kihirdetett Veszélyes Áruk Nemzetközi Vasúti Fuvarozására Vonatkozó Szabályzat előírásai, és a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló 2013. évi CXI. törvényben kihirdetett Veszélyes Áruk Nemzetközi Belvízi Szállítására Vonatkozó Szabályzat előírásai.
+13.[^3]
 
 [^1]: A 2. § 3. pontja a 7/2016. (II. 22.) NGM rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § 8. pontja a 8/2018. (VIII. 17.) ITM rendelet 13. §-ával megállapított szöveg.
+[^3]: A 2. § 13. pontját a 25/2019. (VIII. 26.) ITM rendelet 11. § (3) bekezdése hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 24. § A gázpalackok tulajdonosát vagy használóját érintő hatósági engedéllyel kapcsolatos jogutódlás esetén – amennyiben az engedély már jogerőre emelkedett – a jogutód a Hatóságot a változás bekövetkezésétől számított 30 napon belül a jogerős cégbírósági bejegyző határozat másolatának megküldésével köteles értesíteni és kérni a Hatóságtól a jogutódlás megállapítását. A tulajdonos vagy használó a jogutódlásra vonatkozó szabály szerint köteles értesíteni a Hatóságot nevének megváltozása esetén is.
+## 24. §[^12]
 
 ## 13. A Szabályzat alkalmazása, a Gázpalack Műszaki Szakbizottság működése és feladatai
 
@@ -14,16 +14,17 @@ b) Magyar Ipari Gáz Szövetség (2 fő),
 
 c) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség (2 fő),
 
-d)[^12] a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala (1 fő),
+d)[^13] a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala (1 fő),
 
 e) Magyar Bányászati és Földtani Hivatal (1 fő).
 
-(4)[^13] A szakbizottsági tagokat az iparügyekért felelős miniszter a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára öt év időtartamra bízza meg.
+(4)[^14] A szakbizottsági tagokat az iparügyekért felelős miniszter a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára öt év időtartamra bízza meg.
 
-(5)[^14] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
+(5)[^15] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
 
 (6) A Szakbizottság az e rendeletben és a Szabályzatban megállapított műszaki követelményeknek eleget tevő műszaki megoldásokat tartalmazó műszaki ajánlásokat tehet. A műszaki ajánlásokban foglalt műszaki megoldást úgy kell tekintetni, hogy az megfelel az adott kor technikai színvonalának, és egyúttal kielégíti a Szabályzat által elvárt, általános biztonsági szint követelményeit is.
 
-[^12]: A 25. § (3) bekezdés d) pontja a 62/2016. (XII. 29.) NGM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^13]: A 25. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^14]: A 25. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^12]: A 24. §-t a 25/2019. (VIII. 26.) ITM rendelet 12. §-a hatályon kívül helyezte.
+[^13]: A 25. § (3) bekezdés d) pontja a 62/2016. (XII. 29.) NGM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^14]: A 25. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 25. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (2) bekezdésével megállapított szöveg.
