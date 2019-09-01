@@ -6,5 +6,8 @@
 
 (4)[^26] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+(5)[^27] A 3. § (5) bekezdése a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i (EU) 2015/2403 bizottsági rendelet I. mellékletében foglaltak végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^25]: A 11. § (2) bekezdését a 27/2015. (X. 15.) NGM rendelet 13. §-a hatályon kívül helyezte.
 [^26]: A 11. § (4) bekezdését a 27/2015. (X. 15.) NGM rendelet 10. §-a iktatta be.
+[^27]: A 11. § (5) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 2. §-a iktatta be.

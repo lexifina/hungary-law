@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-32-20-0
 | 2017-01-01 | 2007-32-20-0L.4 | 27/2015. (X. 15.) NGM rendelet |
 | 2017-02-26 | 2007-32-20-0L.5 | 27/2015. (X. 15.) NGM rendelet |
 | 2018-09-19 | 2007-32-20-0L.6 | 27/2015. (X. 15.) NGM rendelet |
+| 2019-09-01 | 2007-32-20-0L.7 | 27/2015. (X. 15.) NGM rendelet |

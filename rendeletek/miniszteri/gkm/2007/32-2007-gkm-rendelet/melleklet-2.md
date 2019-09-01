@@ -346,6 +346,6 @@
 
 ## A XI. fejezet előírásai alapján kell eljárni.
 
-2. melléklet a 32/2007. (III. 19.) GKM rendelethez[^28]
+2. melléklet a 32/2007. (III. 19.) GKM rendelethez[^29]
 
-[^28]: A 2. melléklet a 27/2015. (X. 15.) NGM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^29]: A 2. melléklet a 27/2015. (X. 15.) NGM rendelet 11. § (2) bekezdésével megállapított szöveg.
