@@ -1,4 +1,4 @@
-## 34. §[^48] Az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendeletben meghatározott bírságot az építtető a végleges határozatban megjelölt fizetési számlára fizeti meg.
+## 34. §[^50] Az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendeletben meghatározott bírságot az építtető a végleges határozatban megjelölt fizetési számlára fizeti meg.
 
 ## VI. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## 19. A műszaki tervdokumentáció szabályai
 
-[^48]: A 34. § a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^50]: A 34. § a 457/2017. (XII. 28.) Korm. rendelet 485. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
