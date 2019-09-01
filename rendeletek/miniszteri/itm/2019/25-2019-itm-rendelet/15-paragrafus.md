@@ -1,0 +1,1 @@
+## 14. § A 19/2016. (VI. 17.) NGM rendelet 2. melléklet 4. rész 4.5.1. pontjában, 5. rész 5.6.1. pontjában, 6. rész 6.5.1. pontjában és 3. melléklet 2. pontjában a „határozatban” szövegrész helyébe a „rendeletben” szöveg lép.
