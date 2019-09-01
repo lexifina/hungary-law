@@ -1,6 +1,6 @@
 ## 13. Műszaki-biztonsági követelmények
 
-24. § (1)[^64] A rendelet hatálya alá tartozó felvonót, mozgólépcsőt, mozgójárdát úgy kell megtervezni, létesíteni, telepíteni, üzembe helyezni, üzemeltetni és rendszeresen karbantartani, valamint megszüntetni (elbontani), hogy az megfeleljen az e rendeletben – és a 29. §-ban foglaltak figyelembevételével – a vonatkozó szabványokban meghatározott műszaki biztonsági követelményeknek.
+24. § (1)[^68] A rendelet hatálya alá tartozó felvonót, mozgólépcsőt, mozgójárdát úgy kell megtervezni, létesíteni, telepíteni, üzembe helyezni, üzemeltetni és rendszeresen karbantartani, valamint megszüntetni (elbontani), hogy az megfeleljen az e rendeletben – és a 29. §-ban foglaltak figyelembevételével – a vonatkozó szabványokban meghatározott műszaki biztonsági követelményeknek.
 
 (2) A tervkészítés során a tervező felelősséggel tartozik:
 
@@ -34,7 +34,7 @@ b) felvonók és mozgólépcsők alkatrészeinek, biztonsági berendezéseinek, 
 
 (4) A (3) bekezdésben meghatározott jogosultságokat szakmai és területi illetékesség alapján a Magyar Mérnöki Kamara veszi névjegyzékbe és tartja nyilván.
 
-(5)[^65] A tervezői tevékenység folytatására és a tervezők továbbképzésére az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet előírásait az e rendeletben foglalt eltérésekkel kell alkalmazni.
+(5)[^69] A tervezői tevékenység folytatására és a tervezők továbbképzésére az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet előírásait az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
-[^64]: A 24. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
-[^65]: A 24. § (5) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 16. § (6) bekezdése iktatta be.
+[^68]: A 24. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^69]: A 24. § (5) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 16. § (6) bekezdése iktatta be.
