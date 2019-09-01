@@ -14,7 +14,7 @@ a) oktatási azonosító számát, adóazonosító jelét, társadalombiztosít�
 
 b) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
 
-c) jogviszonyával kapcsolatban azt, hogy magántanuló-e, tanköteles-e, jogviszonya szünetelésének kezdetét és befejezésének idejét,
+c) jogviszonyával kapcsolatban azt, hogy egyéni munkarenddel rendelkezik-e, tanköteles-e, jogviszonya szünetelésének kezdetét és befejezésének idejét,
 
 d) jogviszonya keletkezésének, megszűnésének jogcímét és idejét, valamint megszűnés esetén annak tényét, hogy az érintett az adott köznevelési intézményben szerzett-e iskolai végzettséget, szakképesítést,
 
@@ -266,7 +266,7 @@ e) előző tanévi matematika osztályzat;
 
 f) évfolyam, osztály;
 
-g) magántanulói státusz;
+g) egyéni munkarend szerinti nevelés-oktatásban való részvétel,
 
 h) jogviszonnyal kapcsolatos adatok;
 
