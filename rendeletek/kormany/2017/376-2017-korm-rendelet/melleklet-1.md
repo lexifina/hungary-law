@@ -1,4 +1,4 @@
-## 27. §[^1]
+## 27. §[^2]
 
 1. melléklet a 376/2017. (XII. 11.) Korm. rendelethez
 
@@ -70,4 +70,4 @@ b) a megszüntetés részletes indokolása,
 
 c) a kulturális javak muzeális intézmény megszüntetését követő biztonságos elhelyezésének bemutatása és indokolása.
 
-[^1]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
