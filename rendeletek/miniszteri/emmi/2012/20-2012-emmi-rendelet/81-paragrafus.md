@@ -1,17 +1,26 @@
-## 26. [^178] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
+## 26. [^187] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
 
-81. § (1) Az iskola testnevelés tantárgyat tanító pedagógusa – az adott tanév rendjéről szóló miniszteri rendeletben meghatározott mérési időszakban – az (5) bekezdésben meghatározott országosan egységes mérési módszer és az annak alkalmazásához kifejlesztett eszközök alkalmazásával a nappali rendszerű iskolai oktatás rendje szerinti tanulók részvételével ellátja a tanulók fizikai állapotának és edzettségének (a továbbiakban együtt: fizikai fittség) mérésével kapcsolatos feladatokat. A tanulók fizikai fittségi mérésének célja a tanulók egészsége megőrzésének, javításának, fenntartásának előmozdítása, és a tanulók egészségi állapotának nyomon követése a tanulók fizikai fittségi szintjének feltárásával.
+81. §[^188] (1) A tanulók fizikai állapotának és edzettségének mérését (a továbbiakban: fizikai fittségi mérés)
 
-(2) Az (1) bekezdés szerint lefolytatott fizikai fittségi mérés eredményeit a mérést végző pedagógus – a mérésben érintett tanulónként – rögzíti és feltölti az (5) bekezdés szerinti informatikai rendszerbe.
+a) – a b)–d) pontban foglalt kivétellel – az iskola testnevelés vagy mozgásnevelés tantárgyat tanító pedagógusa,
 
-(3) A fizikai fittségi mérések egyes tanulókra vonatkozó, adott tanévben rögzített adatait az iskola testnevelés tantárgyat tanító és az iskola igazgatója által kijelölt egyéb pedagógusai tanévenként elemzik, és meghatározzák az adott tanuló fizikai fittségi szintjének további fejlesztése szempontjából – elsősorban az iskolai testnevelésórák keretei között – szükséges intézkedéseket.
+b) ha a tanuló testnevelésórán és gyógytestnevelésben egyaránt részt vesz, az iskola testnevelés vagy mozgásnevelés tantárgyat tanító pedagógusa és a pedagógiai szakszolgálat gyógytestnevelést tartó pedagógusa együttműködésben,
 
-(4) A fizikai fittségi mérések iskolai adatai alapján az iskola testnevelés tantárgyat tanító pedagógusai tanévenként javaslatot tehetnek a nevelőtestület részére a pedagógiai program részét képező iskolai egészségfejlesztési program módosítására.
+c) ha a tanuló kizárólag gyógytestnevelésben vesz részt, a pedagógiai szakszolgálat feladatellátása keretében az adott intézményben a gyógytestnevelést ellátó pedagógus,
 
-(5) A Nemzeti Egységes Tanulói Fittségi Teszt (a továbbiakban: NETFIT) a tanulók fizikai fittségi mérésének adatait rögzítő, a 4. mellékletben meghatározott tartalmi keret szerinti informatikai alapú diagnosztikus értékelő rendszer. A NETFIT rendszerbe azonosításra alkalmatlan módon feltöltött tanulói eredményeket a NETFIT-et támogató informatikai alapú diagnosztikus értékelő rendszer automatikusan kiértékeli.
+d) ha a tanuló sem testnevelésórán, sem gyógytestnevelésen nem vesz részt, de valamely strukturált mozgásfejlesztésben igen, a mozgásfejlesztést végző pedagógus,
 
-(6) A fizikai fittségi mérés eredményeit a mindenkori tanév rendjéről szóló jogszabályban meghatározott mérési időszak utolsó napjáig az iskolának a tanuló mérési azonosítójának alkalmazásával fel kell tölteni a NETFIT rendszerbe. A fizikai fittségi mérés tanulót érintő eredményeiről a tanuló és a szülő a tanuló mérési azonosítójának felhasználásával a NETFIT rendszeren keresztül kap tájékoztatást.
+e) ha a tanuló sajátos nevelési igényű, és részt vesz testnevelésórán, illetve gyógytestnevelésben, az a)–c) pontban meghatározott pedagógus és a tanuló egészségügyi és pedagógiai célú habilitációs és rehabilitációs tanórai foglalkozását tartó gyógypedagógus, konduktor együttműködésben,
 
-(7) A tanulók fizikai fittségi mérésének részletes szabályait az oktatásért felelős miniszter az általa vezetett minisztérium honlapján teszi közzé.
+f) ha a tanuló gyógypedagógiai nevelési-oktatási intézményben vesz részt testnevelés- vagy mozgásnevelés-órán, a testnevelést, illetve mozgásnevelést tanító pedagógus
 
-[^178]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
+## végzi el.
+
+(2) A fizikai fittségi mérés eredményeit az (1) bekezdés a), c), d) és f) pontja szerinti esetben a mérést végző pedagógus, az (1) bekezdés b) és e) pontja szerinti esetben az iskola testnevelés tantárgyat tanító pedagógusa rögzíti az Nkt. 44/B. § (1) bekezdése szerinti rendszerbe.
+
+(3) A fizikai fittségi mérések egyes tanulókra vonatkozó, adott tanévben rögzített adatait az érintett pedagógusok, továbbá köznevelési intézmények vezetői tanévenként elemzik, és meghatározzák az adott tanuló fizikai fittségi szintjének további fejlesztése szempontjából – elsősorban az iskolai testnevelés tantárgy, valamint az egészségügyi és pedagógiai célú habilitációs és rehabilitációs tanórai foglalkozás, valamint a gyógytestnevelés keretei között – szükséges intézkedéseket.
+
+(4) A tanulók fizikai fittségi mérésének részletes szabályait az oktatásért felelős miniszter az általa vezetett minisztérium honlapján teszi közzé.
+
+[^187]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^188]: A 81. § a 20/2019. (VIII. 30.) EMMI rendelet 9. §-ával megállapított szöveg.

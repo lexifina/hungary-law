@@ -1,19 +1,16 @@
-75. § (1)[^166] Ha a tanuló – a szülő kérelme alapján – a tankötelezettségének magántanulóként kíván eleget tenni, az erre irányuló kérelem benyújtásától számított öt napon belül az iskola igazgatója megkeresi a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyámhatóságot és a gyermekjóléti szolgálatot. A gyámhatóság és a gyermekjóléti szolgálat az igazgató megkeresésétől számított tizenöt napon belül köteles megküldeni a véleményét.
+## 74/A. §[^176] A tanuló ismereteinek a vizsgának nem minősülő évközi számonkérésekor a sajátos nevelési igényű, illetve a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló esetében a szakértői bizottság szakértői véleménye alapján az igazgató engedélyezi az írásbeli beszámoló szóbeli beszámolóval vagy a szóbeli beszámoló írásbeli beszámolóval történő felváltását. A sajátos nevelési igényű, illetve a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló esetében biztosítani kell az iskolai tanulmányok során alkalmazott segédeszköz használatát és a hosszabb felkészülési időt.
 
-(1a)[^167] Gyermekvédelmi gondoskodásban nevelkedő tanuló esetén az iskola igazgatója a tanuló nevelésbe vétele ügyében eljárni illetékes gyámhatóság véleményének beszerzése iránt intézkedik. Ha a tankötelezettség magántanulóként való teljesítésének engedélyezését nem a gyermekvédelmi gyám kérte, az iskola igazgatója a kérelem benyújtásától számított öt napon belül kikéri a tanuló gyermekvédelmi gyámjának véleményét. A gyermekvédelmi gyám véleményét tizenöt napon belül köteles megküldeni.
+75. §[^177] (1) Ha a tanuló a tanulmányi kötelezettségének a szülő kérelme alapján egyéni munkarend keretében tesz eleget, felkészítéséről a szülő gondoskodik, a tanuló egyénileg készül fel. Az egyéni munkarend keretében tanuló magatartását és szorgalmát nem kell minősíteni. Az iskola igazgatója köteles tájékoztatni a tanulót és a szülőt az egyéni munkarenddel rendelkező kötelességeiről és jogairól. Az egyéni munkarenddel rendelkező kérelmére részt vehet a tanórai vagy egyéb foglalkozásokon, valamint felvehető a napközibe és a tanulószobai foglalkozásra. Ezen kérelmekről az iskola igazgatója dönt.
 
-(2) Ha a tanuló tanulmányi kötelezettségének a szülő kérelme alapján magántanulóként tesz eleget, felkészítéséről a szülő gondoskodik, a tanuló egyénileg készül fel. A magántanuló magatartását és szorgalmát nem kell minősíteni. Az iskola igazgatója köteles tájékoztatni a tanulót és a szülőt a magántanuló kötelességeiről és jogairól. A magántanuló az igazgató előzetes engedélyével vehet részt a tanórai vagy egyéb foglalkozásokon. A magántanuló kérelemre felvehető a napközibe és a tanulószobai foglalkozásra.
+(2) Ha a sajátos nevelési igényű tanuló, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló a szakértői bizottság szakértői véleménye alapján tanulmányait egyéni munkarend keretében folytatja, iskolai neveléséről és oktatásáról, felkészítéséről, érdemjegyeinek és osztályzatainak megállapításáról, a felkészítést végző pedagógusokról a szakértői véleményben foglaltak szerint az az iskola gondoskodik, amellyel a tanuló tanulói jogviszonyban áll. Az iskolában nem foglalkoztatott szakemberek biztosításáról
 
-(3) Ha a sajátos nevelési igényű tanuló, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló a nevelési tanácsadási feladatot, szakértői bizottsági feladatot ellátó intézmény szakértői véleménye alapján tanulmányait magántanulóként folytatja, iskolai neveléséről és oktatásáról, felkészítéséről, érdemjegyeinek és osztályzatainak megállapításáról, az ehhez szükséges pedagógusokról a szakértői véleményben foglaltak szerint az az iskola gondoskodik, amellyel a tanuló tanulói jogviszonyban áll. Az iskolában nem foglalkoztatott szakemberek biztosításáról
+a) a beilleszkedési, tanulási nehézséggel, magatartási rendellenességgel küzdő tanuló esetén a pedagógiai szakszolgálati intézménynek,
 
-a) a beilleszkedési, tanulási nehézséggel, magatartási rendellenességgel küzdő tanuló esetén a szakvéleményt kiállító a nevelési tanácsadást ellátó intézménynek,
+b) sajátos nevelési igényű tanuló esetén az utazó gyógypedagógusi, utazó konduktori hálózatnak
 
-b)[^168] sajátos nevelési igényű tanuló esetén az utazó gyógypedagógusi, utazó konduktori hálózat keretében
+kell gondoskodni.
 
-## kell gondoskodni.
+(3) A tanuló egyéni munkarend keretében teljesíti tankötelezettségét, ha szakorvosi vélemény alapján részesül tartós gyógykezelésben. Az iskola köteles gondoskodni a tanuló felkészítéséről, érdemjegyeinek és osztályzatának megállapításáról.
 
-(4) Az iskola köteles gondoskodni a tanuló felkészítéséről, érdemjegyeinek és osztályzatának megállapításáról akkor is, ha szakorvosi vélemény alapján otthoni ellátás keretében részesül tartós gyógykezelésben, és emiatt magántanulóként folytatja tanulmányait.
-
-[^166]: A 75. § (1) bekezdése a 22/2015. (IV. 21.) EMMI rendelet 6. §-ával megállapított szöveg.
-[^167]: A 75. § (1a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 6. §-a iktatta be.
-[^168]: A 75. § (3) bekezdés b) pontja az 53/2016. (XII. 29.) EMMI rendelet 12. § 2. pontja szerint módosított szöveg.
+[^176]: A 74/A. §-t a 20/2019. (VIII. 30.) EMMI rendelet 7. §-a iktatta be.
+[^177]: A 75. § a 20/2019. (VIII. 30.) EMMI rendelet 8. §-ával megállapított szöveg.

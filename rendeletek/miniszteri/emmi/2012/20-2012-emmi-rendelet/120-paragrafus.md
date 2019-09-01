@@ -28,13 +28,15 @@ b) a tanulók helyzetét elemző, értékelő beszámolók elkészítéséhez, e
 
 c) a tanulói pályázatok, versenyek meghirdetéséhez, megszervezéséhez,
 
-d) az iskolai sportkör működési rendjének megállapításához,
+d)[^217] az iskolai sportkör – a munkaterv részét képező – szakmai programjának megállapításához,
 
 e) az egyéb foglalkozás formáinak meghatározásához,
 
 f) a könyvtár, a sportlétesítmények működési rendjének kialakításához,
 
-g) az intézményi SZMSZ-ben meghatározott ügyekben
+g) az intézményi SZMSZ-ben meghatározott ügyekben,
+
+h)[^218] az iskolai étkeztetés keretében biztosított ételek minőségéről, az iskola házirendjében szabályozott módon
 
 ## ki kell kérni.
 
@@ -47,3 +49,6 @@ g) az intézményi SZMSZ-ben meghatározott ügyekben
 (9) A diákközgyűlés napirendi pontjait a közgyűlés megrendezése előtt tizenöt nappal nyilvánosságra kell hozni.
 
 (10) A diákönkormányzatok jogosultak szövetséget létesíteni, továbbá ilyenhez csatlakozni. A szövetség az iskolában, kollégiumban a diákönkormányzat jogait nem gyakorolhatja.
+
+[^217]: A 120. § (5) bekezdés d) pontja a 20/2019. (VIII. 30.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^218]: A 120. § (5) bekezdés h) pontját a 20/2019. (VIII. 30.) EMMI rendelet 10. § (2) bekezdése iktatta be.

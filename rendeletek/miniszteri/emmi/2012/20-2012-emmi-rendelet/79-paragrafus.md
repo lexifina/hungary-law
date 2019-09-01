@@ -4,26 +4,26 @@
 
 79. § (1) Az országos pedagógiai mérések – a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerinti – végrehajtásában az iskolák, az iskolák vezetői és pedagógusai kötelesek közreműködni.
 
-(2)[^170] Az országos mérések lebonyolítása tanítási napokon, kötelező tanórai foglalkozások keretében történik. A mérésben részt vevő pedagógusnak a mérés napján a méréssel összefüggő feladatok végrehajtásával eltöltött ideje a neveléssel-oktatással lekötött munkaidőben kerül elszámolásra. A mérésen való részvétel vagy távolmaradás elbírálására a tanórai foglalkozáson való részvételre és a tanórai foglalkozásokról való távolmaradásra vonatkozó rendelkezéseket kell alkalmazni.
+(2)[^179] Az országos mérések lebonyolítása tanítási napokon, kötelező tanórai foglalkozások keretében történik. A mérésben részt vevő pedagógusnak a mérés napján a méréssel összefüggő feladatok végrehajtásával eltöltött ideje a neveléssel-oktatással lekötött munkaidőben kerül elszámolásra. A mérésen való részvétel vagy távolmaradás elbírálására a tanórai foglalkozáson való részvételre és a tanórai foglalkozásokról való távolmaradásra vonatkozó rendelkezéseket kell alkalmazni.
 
 (3) Az országos mérések időpontját, az eljárással kapcsolatos feladatokat, határidőket évente a tanév rendjéről szóló miniszteri rendelet tartalmazza. A méréshez szükséges megfelelő feltételek biztosítása az iskola fenntartójának és az intézmény igazgatójának a közös felelőssége.
 
 (4) Az országos pedagógiai mérések előkészítéséhez az iskolák a hivatal által rendelkezésre bocsátott informatikai rendszerben szolgáltatnak adatot a hivatal részére. Az informatikai rendszerben szolgáltatott adatok valódiságáért az iskola vezetője felelős.
 
-(5)[^171] Az országos mérések keretében az érintett nevelési-oktatási intézmények elvégzik az adatfelvételt. Az adatfelvétel hivatal által meghatározott szabályainak betartásáért és az adatfelvétel során szolgáltatott adatok valódiságáért az iskola vezetője a felelős. A hivatal az idegen nyelvi mérés kivételével összegyűjti a méréshez alkalmazott feladatlapokat és kérdőíveket, továbbá gondoskodik azok feldolgozásáról. A hivatal előállítja az országos mutatókat és az elemzés szempontjából releváns részminták alapstatisztikáit, valamint azokat az összevont mutatókat, amelyek alapján az iskola és a fenntartó összehasonlíthatja az iskola teljesítményét az országos mutatókkal és a hasonló helyzetű iskolák statisztikai jellemzőivel.
+(5)[^180] Az országos mérések keretében az érintett nevelési-oktatási intézmények elvégzik az adatfelvételt. Az adatfelvétel hivatal által meghatározott szabályainak betartásáért és az adatfelvétel során szolgáltatott adatok valódiságáért az iskola vezetője a felelős. A hivatal az idegen nyelvi mérés kivételével összegyűjti a méréshez alkalmazott feladatlapokat és kérdőíveket, továbbá gondoskodik azok feldolgozásáról. A hivatal előállítja az országos mutatókat és az elemzés szempontjából releváns részminták alapstatisztikáit, valamint azokat az összevont mutatókat, amelyek alapján az iskola és a fenntartó összehasonlíthatja az iskola teljesítményét az országos mutatókkal és a hasonló helyzetű iskolák statisztikai jellemzőivel.
 
-(6)[^172] Az Nkt. 80. § (1) bekezdése szerinti
+(6)[^181] Az Nkt. 80. § (1) bekezdése szerinti
 
 a) 6. évfolyamos mérésben a 2. § (2) bekezdése szerinti 5/NY elnevezésű nyelvi előkészítő évfolyamot vagy 5/N elnevezésű nemzetiségi előkészítő évfolyamot elvégzett tanulók az 5. évfolyamon,
 
-b)[^173] a 8. évfolyamos mérésben a 2. § (2) bekezdése szerinti 5/NY, 7/NY elnevezésű nyelvi előkészítő évfolyamot vagy 5/N, 7/N elnevezésű nemzetiségi előkészítő évfolyamot elvégzett tanulók a 7. évfolyamon, valamint a Szakképzési Hídprogram keretében a tanulók a SZH/2 elnevezésű évfolyamon
+b)[^182] a 8. évfolyamos mérésben a 2. § (2) bekezdése szerinti 5/NY, 7/NY elnevezésű nyelvi előkészítő évfolyamot vagy 5/N, 7/N elnevezésű nemzetiségi előkészítő évfolyamot elvégzett tanulók a 7. évfolyamon, valamint a Szakképzési Hídprogram keretében a tanulók a SZH/2 elnevezésű évfolyamon
 
 c) 10. évfolyamos mérésben a 2. § (2) bekezdése szerinti 5/NY, 7/NY, 9/NY vagy 9Kny elnevezésű nyelvi előkészítő évfolyamot, az 5/N, 7/N, 9/N elnevezésű nemzetiségi előkészítő évfolyamot vagy az Arany János Tehetséggondozó Program 9/AJTP és az Arany János Kollégiumi Program 9/AJKP előkészítő évfolyamot elvégzett tanulók a 9. évfolyamon,
 
-d)[^174]
+d)[^183]
 
-[^170]: A 79. § (2) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^171]: A 79. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^172]: A 79. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 14. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^173]: A 79. § (6) bekezdés b) pontja a 20/2016. (VIII. 24.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^174]: A 79. § (6) bekezdés d) pontját a 20/2016. (VIII. 24.) EMMI rendelet 28. § 8. pontja hatályon kívül helyezte.
+[^179]: A 79. § (2) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^180]: A 79. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^181]: A 79. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 14. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^182]: A 79. § (6) bekezdés b) pontja a 20/2016. (VIII. 24.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^183]: A 79. § (6) bekezdés d) pontját a 20/2016. (VIII. 24.) EMMI rendelet 28. § 8. pontja hatályon kívül helyezte.

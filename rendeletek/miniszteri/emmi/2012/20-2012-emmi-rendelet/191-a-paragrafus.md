@@ -1,4 +1,6 @@
-191/A. §[^398] (1) Az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segítheti a mindennapos testnevelés feladatainak végrehajtását, a sportiskolák megalakulását és működését.
+## 191. §[^424]
+
+191/A. §[^425] (1) Az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segítheti a mindennapos testnevelés feladatainak végrehajtását, a sportiskolák megalakulását és működését.
 
 (2) Az oktatásért felelős miniszter, a környezetvédelemért felelős miniszter közös programok kiadásával, pályázatok kiírásával segíti a környezeti nevelés, oktatás feladatainak végrehajtását és az Erdei Iskola Program, Erdei Óvoda Program, Zöld Óvoda Program, Ökoiskola Program megvalósulását.
 
@@ -8,4 +10,5 @@
 
 (5) Az oktatásért felelős miniszter, a földművelésügyi miniszter közös programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó mezőgazdasági, agrárszakképzési feladatok végrehajtását.
 
-[^398]: A 191/A. §-t a 32/2015. (VI. 19.) EMMI rendelet 16. §-a iktatta be.
+[^424]: A 191. §-t a 20/2019. (VIII. 30.) EMMI rendelet 25. § (1) bekezdése hatályon kívül helyezte.
+[^425]: A 191/A. §-t a 32/2015. (VI. 19.) EMMI rendelet 16. §-a iktatta be.

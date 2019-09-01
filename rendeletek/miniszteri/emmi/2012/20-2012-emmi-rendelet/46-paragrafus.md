@@ -1,3 +1,3 @@
-## 14. [^109] Felvétel az Arany János Tehetséggondozó Programba
+## 14. [^118] Felvétel az Arany János Tehetséggondozó Programba
 
-[^109]: A 14. alcím címe a 45/2014. (X. 27.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^118]: A 14. alcím címe a 45/2014. (X. 27.) EMMI rendelet 18. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 49. [^257] A nyelvi előkészítő évfolyammal induló gimnáziumi, szakgimnáziumi nevelés-oktatás feltételei
+## 49. [^271] A nyelvi előkészítő évfolyammal induló gimnáziumi, szakgimnáziumi nevelés-oktatás feltételei
 
 137. § (1) Nyelvi előkészítő évfolyam abban a gimnáziumban, szakgimnáziumban folytatható, amelyik három egymást követő tanév átlagában megfelel annak a feltételnek, hogy a nyelvi előkészítő nevelés-oktatásban részt vett és a kilencedik évfolyamot megkezdő, továbbá érettségi vizsgabizonyítványt szerzett tanulók hetvenöt százaléka a nyelvi előkészítő nevelés-oktatás idegen nyelvéből rendelkezik a KER szerinti B2 szintű nyelvtudást igazoló érettségi vizsgaeredménnyel vagy államilag elismert nyelvvizsgával.
 
@@ -10,4 +10,4 @@
 
 (5) Fenntartóváltás esetén az (1) bekezdés szerinti feltételt csak a fenntartóváltás évét követő évtől, felmenő rendszerben kell alkalmazni.
 
-[^257]: A 49. alcím (137. §) a 20/2016. (VIII. 24.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^271]: A 49. alcím (137. §) a 20/2016. (VIII. 24.) EMMI rendelet 16. §-ával megállapított szöveg.

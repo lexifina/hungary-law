@@ -4,8 +4,8 @@
 
 (2) Ha a köznevelési intézmény nevének nem része, a köznevelési intézmény címtábláján és bélyegzőjén fel kell tüntetni a feladatellátási hely településének a nevét. A nemzetiségi nevelést, oktatást ellátó köznevelési intézmény feladatellátási helyének a neve a nemzetiség nyelvén is feltüntethető, amennyiben a településnek van ilyen neve.
 
-(3)[^231] A köznevelési intézmény a hivatalos és a rövid nevét, beleértve a velük kapcsolatos nemzetiségi vagy idegen nevet is, kizárólag a székhelycímmel együtt használhatja.
+(3)[^244] A köznevelési intézmény a hivatalos és a rövid nevét, beleértve a velük kapcsolatos nemzetiségi vagy idegen nevet is, kizárólag a székhelycímmel együtt használhatja.
 
 (4) Ha a rövid névben, a tagintézményi névben két vagy több iskolai alapfeladat szerepel, a tanuló bizonyítványában aláhúzással kell jelölni azt az iskolai alapfeladatot, amelyben az irat keletkezett.
 
-[^231]: A 127. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 25. pontja szerint módosított szöveg.
+[^244]: A 127. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 25. pontja szerint módosított szöveg.

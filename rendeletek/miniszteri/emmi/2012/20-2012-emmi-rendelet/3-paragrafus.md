@@ -26,7 +26,13 @@ g) az alapfokú művészeti iskola és kollégium kivételével a tanulók fizik
 
 h) minden egyéb, a nevelőtestület által szükségesnek ítélt kérdést,
 
-i)[^9] az iskolai kórus időpontjait, amely foglalkozás ideje alatt más tanórán kívüli tevékenység a kórustagok számára nem folytatható.
+i)[^9] az iskolai kórus időpontjait, amely foglalkozás ideje alatt más tanórán kívüli tevékenység a kórustagok számára nem folytatható,
+
+j)[^10] az iskolai sportkör szakmai programját,
+
+k)[^11] az általános iskolák 1–8. évfolyamán, a tanítási év során tervezett színházi, tánc- és cirkuszi előadások, komolyzenei hangversenyek, valamint az őshonos állatok bemutatóhelyei látogatásának előre tervezhető időszakát.
+
+(2a)[^12] Az iskola munkatervében kell meghatározni azoknak a tanulmányi versenyeknek az időpontját, amelyekben az iskola a tanulóival részt kíván venni. Ha a tanulmányi versenyt a munkaterv elfogadásakor még nem hirdették meg, az iskola a felkészítést a munkatervben való feltüntetés nélkül is elvégezheti. Ha a versenyek anyagi ráfordítást igényelnek, ahhoz a fenntartó egyetértése szükséges.
 
 (3) Az iskolai tanítás nélküli munkanapok időpontjáról az iskola a vele tanulói jogviszonyban álló tanulók elhelyezését biztosító kollégiumot, a gyakorlati képzés folytatóját és szervezőjét, valamint a vele kapcsolatban álló alapfokú művészeti iskolát tájékoztatja. A kollégiumban az iskolai tanítás nélküli munkanapokkal összhangban az adott iskolával tanulói jogviszonyban álló tanulók vonatkozásában kollégiumi foglalkozás nélküli munkanap tartható.
 
@@ -38,7 +44,10 @@ i)[^9] az iskolai kórus időpontjait, amely foglalkozás ideje alatt más tanó
 
 (7) Az óvodában a napirendet úgy kell kialakítani, hogy a szülők – a házirendben meghatározottak szerint – gyermeküket az óvodai tevékenység zavarása nélkül behozhassák és hazavihessék. Az óvoda nyári zárva tartásáról legkésőbb február tizenötödikéig, a nevelés nélküli munkanapokról legalább hét nappal a zárva tartást megelőzően a szülőket tájékoztatni kell.
 
-(8)[^10]
+(8)[^13]
 
 [^9]: A 3. § (2) bekezdés i) pontját a 20/2016. (VIII. 24.) EMMI rendelet 2. §-a iktatta be.
-[^10]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.
+[^10]: A 3. § (2) bekezdés j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
+[^11]: A 3. § (2) bekezdés k) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
+[^12]: A 3. § (2a) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 4. § (2) bekezdése iktatta be.
+[^13]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.

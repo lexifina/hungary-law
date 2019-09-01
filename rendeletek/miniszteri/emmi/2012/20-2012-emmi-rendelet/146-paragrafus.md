@@ -8,7 +8,7 @@ c) az intézményellenőrzés.
 
 (2) A pedagógus ellenőrzése általános pedagógiai szempontok szerint történik, célja az ellenőrzött pedagógus pedagógiai kompetenciáinak fejlesztése, módszere – ha a pedagógus munkakörének részét képezi – a foglalkozások, tanítási órák egységes szempontok szerinti megfigyelése, a pedagógus mindennapi nevelő-oktató munkáját megalapozó pedagógiai tervezés dokumentumainak vizsgálata, interjú felvétele, valamint az intézményi önértékelés pedagógusra vonatkozó eredményeinek elemzése.
 
-(2a)[^283] A pedagógus ellenőrzésére a minősítő vizsgán vagy a minősítési eljárásban való részvételét követő három évig nem kerül sor.
+(2a)[^296] A pedagógus ellenőrzésére a minősítő vizsgán vagy a minősítési eljárásban való részvételét követő három évig nem kerül sor.
 
 (3) A pedagógus ellenőrzése a pedagógus munkájának alábbi területeit vizsgálja:
 
@@ -66,4 +66,4 @@ f) a pedagógiai működés feltételei, valamint
 
 g) az intézménytípusra vonatkozó nevelési, nevelési-oktatási irányelvet megállapító jogszabályban meghatározott országos szakmai elvárásoknak és az intézményi céloknak való megfelelés.
 
-[^283]: A 146. § (2a) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 18. §-a iktatta be.
+[^296]: A 146. § (2a) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 18. §-a iktatta be.

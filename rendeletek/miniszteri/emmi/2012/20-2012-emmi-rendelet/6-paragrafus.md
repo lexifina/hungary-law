@@ -16,8 +16,10 @@ e) a szülő, a gyermek, a pedagógus együttműködésének formáit,
 
 f) nemzetiségi óvodai nevelésben részt vevő óvoda esetén a nemzetiség kultúrájának és nyelvének ápolásával járó feladatokat,
 
-g) az egészségnevelési és környezeti nevelési elveket,
+g)[^19] az egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket,
 
 h) a gyermekek esélyegyenlőségét szolgáló intézkedéseket,
 
 i) a nevelőtestület által szükségesnek tartott további elveket.
+
+[^19]: A 6. § (2) bekezdés g) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 2. pontja szerint módosított szöveg.

@@ -1,11 +1,11 @@
 ## 81. Hatályon kívül helyező rendelkezések
 
-194. § (1)[^410]
+194. § (1)[^437]
 
-(2)[^411]
+(2)[^438]
 
-(3)–(4)[^412]
+(3)–(4)[^439]
 
-[^410]: A 194. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^411]: A 194. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^412]: A 194. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^437]: A 194. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^438]: A 194. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^439]: A 194. § (3)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -24,9 +24,9 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 
 (8) A 134. §-ban foglalt rendelkezéseknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
 
-(9)[^399] A 135. § (1) bekezdésben foglalt feltételeknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
+(9)[^426] A 135. § (1) bekezdésben foglalt feltételeknek történő megfelelést a 2016/2017. tanévtől kezdve kell vizsgálni.
 
-(10)–(11)[^400]
+(10)–(11)[^427]
 
 (12) A nevelési-oktatási intézmény a 2012/2013. tanévben csoportnaplóként és egyéb foglakozási naplóként a nevelési-oktatási intézmények működéséről szóló 11/1994. (VI. 8.) MKM rendelet (a továbbiakban: MKM rendelet) alapján alkalmazott nyomtatványt is használhatja.
 
@@ -34,30 +34,30 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 
 (14) E rendelet hatálybalépésekor működő nevelési-oktatási intézmények esetében a fenntartónak, működtetőnek 2013. május 31-éig kell eleget tennie a 2. mellékletben meghatározott követelményeknek.
 
-(15)[^401]
+(15)[^428] Az Nkt. 99/J. § a) pontjában meghatározott felülvizsgálat lezárultáig a 2019. augusztus 31-éig magántanulói jogviszonyban álló tanulót az egyéni munkarenddel rendelkező tanulóval megegyező jogállásúnak kell tekinteni.
 
-(16)[^402] Az Új Széchenyi Terv Társadalmi Megújulás Operatív Program Átfogó minőségfejlesztés a közoktatásban kiemelt projekt (TÁMOP-3.1.8, TÁMOP-3.1.15.) keretében próbaellenőrzésen átesett pedagógusok, intézményvezetők és intézmények próbaellenőrzésének eredményét az érintettek kérése esetén az Nkt. 87. § (1) bekezdése szerinti ellenőrzésként kell elfogadni.
+(16)[^429] Az Új Széchenyi Terv Társadalmi Megújulás Operatív Program Átfogó minőségfejlesztés a közoktatásban kiemelt projekt (TÁMOP-3.1.8, TÁMOP-3.1.15.) keretében próbaellenőrzésen átesett pedagógusok, intézményvezetők és intézmények próbaellenőrzésének eredményét az érintettek kérése esetén az Nkt. 87. § (1) bekezdése szerinti ellenőrzésként kell elfogadni.
 
-(17)[^403] Az egyes köznevelési tárgyú miniszteri rendeletek módosításáról szóló 45/2014. (X. 27.) EMMI rendelet (a továbbiakban: Mód. r.) hatálybalépését[^404] megelőzően megalakított intézményi tanács a Mód. r. hatálybalépését követő negyvenöt napon belül ügyrendjét a 121. § (5b) bekezdése alapján felülvizsgálja és módosított ügyrendjét megküldi a hivatal számára.
+(17)[^430] Az egyes köznevelési tárgyú miniszteri rendeletek módosításáról szóló 45/2014. (X. 27.) EMMI rendelet (a továbbiakban: Mód. r.) hatálybalépését[^431] megelőzően megalakított intézményi tanács a Mód. r. hatálybalépését követő negyvenöt napon belül ügyrendjét a 121. § (5b) bekezdése alapján felülvizsgálja és módosított ügyrendjét megküldi a hivatal számára.
 
-(18)[^405]
+(18)[^432]
 
-(19)–(20)[^406]
+(19)–(20)[^433]
 
-(21)–(25)[^407]
+(21)–(25)[^434]
 
-(26)[^408] E rendeletnek a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet módosításáról szóló 20/2016. (VIII. 24.) EMMI rendelet 11. §-ával módosított 123. § (4) bekezdésében meghatározott megnevezéseket, az Nkt. 4. § 1. pontja szerinti alapfeladatokat, továbbá az Nkt. 7. §-a szerinti intézménytípusokat az érintett nevelési-oktatási intézmények tekintetében a fenntartó 2016. szeptember 30-ig köteles átvezetni az intézmény alapító okiratában, szakmai alapdokumentumában.
+(26)[^435] E rendeletnek a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet módosításáról szóló 20/2016. (VIII. 24.) EMMI rendelet 11. §-ával módosított 123. § (4) bekezdésében meghatározott megnevezéseket, az Nkt. 4. § 1. pontja szerinti alapfeladatokat, továbbá az Nkt. 7. §-a szerinti intézménytípusokat az érintett nevelési-oktatási intézmények tekintetében a fenntartó 2016. szeptember 30-ig köteles átvezetni az intézmény alapító okiratában, szakmai alapdokumentumában.
 
-(27)[^409] Az EQAVET alapján a hivatal által átdolgozott ellenőrzési eszközöket a szakképző iskolában az országos pedagógiai-szakmai ellenőrzés során a 2018/2019-es tanévtől kezdődően kell alkalmazni.
+(27)[^436] Az EQAVET alapján a hivatal által átdolgozott ellenőrzési eszközöket a szakképző iskolában az országos pedagógiai-szakmai ellenőrzés során a 2018/2019-es tanévtől kezdődően kell alkalmazni.
 
-[^399]: A 193. § (9) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § t) pontja szerint módosított szöveg.
-[^400]: A 193. § (10)–(11) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 13. § a) alpontja hatályon kívül helyezte.
-[^401]: A 193. § (15) bekezdését a 47/2013. (VII. 4.) EMMI rendelet 12. §-a iktatta be, hatályon kívül helyezet a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja.
-[^402]: A 193. § (16) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be.
-[^403]: A 193. § (17) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be.
-[^404]: A hatálybalépés időpontja 2014. november 4.
-[^405]: A 193. § (18) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be, hatályon kívül helyezet a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja.
-[^406]: A 193. § (19)–(20) bekezdését a 13/2015. (III. 6.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezet a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja.
-[^407]: A 193. § (21)–(25) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 23. §-a iktatta be, hatályon kívül helyezte az 53/2016. (XII. 29.) EMMI rendelet 13. § b) alpontja.
-[^408]: A 193. § (26) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 26. §-a iktatta be.
-[^409]: A 193. § (27) bekezdését a 24/2017. (X. 3.) EMMI rendelet 12. §-a iktatta be.
+[^426]: A 193. § (9) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § t) pontja szerint módosított szöveg.
+[^427]: A 193. § (10)–(11) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 13. § a) alpontja hatályon kívül helyezte.
+[^428]: A 193. § (15) bekezdését újonnan a 20/2019. (VIII. 30.) EMMI rendelet 21. § (2) bekezdése iktatta be.
+[^429]: A 193. § (16) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be.
+[^430]: A 193. § (17) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be.
+[^431]: A hatálybalépés időpontja 2014. november 4.
+[^432]: A 193. § (18) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be, hatályon kívül helyezet a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja.
+[^433]: A 193. § (19)–(20) bekezdését a 13/2015. (III. 6.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezet a 20/2016. (VIII. 24.) EMMI rendelet 28. § 14. pontja.
+[^434]: A 193. § (21)–(25) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 23. §-a iktatta be, hatályon kívül helyezte az 53/2016. (XII. 29.) EMMI rendelet 13. § b) alpontja.
+[^435]: A 193. § (26) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 26. §-a iktatta be.
+[^436]: A 193. § (27) bekezdését a 24/2017. (X. 3.) EMMI rendelet 12. §-a iktatta be.

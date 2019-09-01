@@ -2,12 +2,12 @@
 
 (2) A fegyelmi eljárás során törekedni kell minden olyan körülmény feltárására, amely a kötelességszegés elbírálásánál, a fegyelmi büntetés meghozatalánál a tanuló ellen vagy a tanuló mellett szól.
 
-(3)[^143] A fegyelmi büntetés megállapításánál a tanuló életkorát, értelmi fejlettségét, az elkövetett cselekmény súlyát figyelembe kell venni. A fegyelmi büntetést a nevelőtestület hozza. Az iskolai, kollégiumi diákönkormányzat véleményét a fegyelmi eljárás során be kell szerezni.
+(3)[^153] A fegyelmi büntetés megállapításánál a tanuló életkorát, értelmi fejlettségét, az elkövetett cselekmény súlyát figyelembe kell venni. A fegyelmi büntetést a nevelőtestület hozza. Az iskolai, kollégiumi diákönkormányzat véleményét a fegyelmi eljárás során be kell szerezni.
 
-(4)[^144] Ha a fegyelmi eljárás során a kiskorú tanuló veszélyeztetettsége felmerül, a nevelési-oktatási intézmény vezetője jelzi azt a tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak, indokolt esetben a gyámhatóság számára is.
+(4)[^154] Ha a fegyelmi eljárás során a kiskorú tanuló veszélyeztetettsége felmerül, a nevelési-oktatási intézmény vezetője jelzi azt a tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak, indokolt esetben a gyámhatóság számára is.
 
-(5)[^145] A gyakorlati képzés keretében elkövetett kötelességszegésért a fegyelmi eljárást az iskolában kell lefolytatni.
+(5)[^155] A gyakorlati képzés keretében elkövetett kötelességszegésért a fegyelmi eljárást az iskolában kell lefolytatni.
 
-[^143]: Az 57. § (3) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 5. §-a iktatta be.
-[^144]: Az 57. § (4) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 5. §-a iktatta be.
-[^145]: Az 57. § (5) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 5. §-a iktatta be.
+[^153]: Az 57. § (3) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 5. §-a iktatta be.
+[^154]: Az 57. § (4) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 5. §-a iktatta be.
+[^155]: Az 57. § (5) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 5. §-a iktatta be.

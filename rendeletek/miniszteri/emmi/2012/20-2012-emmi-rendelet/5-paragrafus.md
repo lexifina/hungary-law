@@ -4,7 +4,7 @@
 
 a) a gyermek, tanuló távolmaradásának, mulasztásának, késésének igazolására vonatkozó előírásokat,
 
-b)[^13] az állami fenntartású nevelési-oktatási intézmények kivételével a térítési díj, tandíj befizetésére, visszafizetésére vonatkozó rendelkezéseket, továbbá a tanuló által előállított termék, dolog, alkotás vagyoni jogára vonatkozó díjazás szabályait,
+b)[^16] az állami fenntartású nevelési-oktatási intézmények kivételével a térítési díj, tandíj befizetésére, visszafizetésére vonatkozó rendelkezéseket, továbbá a tanuló által előállított termék, dolog, alkotás vagyoni jogára vonatkozó díjazás szabályait,
 
 c) a szociális ösztöndíj, a szociális támogatás megállapításának és felosztásának elveit, a nem alanyi jogon járó tankönyvtámogatás elvét, az elosztás rendjét,
 
@@ -18,7 +18,7 @@ g) elektronikus napló használata esetén a szülő részéről történő hozz
 
 h) az osztályozó vizsga tantárgyankénti, évfolyamonkénti követelményeit, a tanulmányok alatti vizsgák tervezett idejét, az osztályozó vizsgára jelentkezés módját és határidejét,
 
-i)[^14] a tankönyvellátás iskolán belüli szabályait.
+i)[^17] a tankönyvellátás iskolán belüli szabályait.
 
 (2) Az (1) bekezdésben foglaltakon túl az iskola és a kollégium házirendje állapítja meg
 
@@ -32,9 +32,10 @@ d) a tanulók tantárgyválasztásával, annak módosításával kapcsolatos elj
 
 e) a kollégiumi lakhatás ideje alatt a kollégiumon kívüli tartózkodás során elvárt tanulói magatartást,
 
-f) az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei és az iskolához, kollégiumhoz tartozó területek használatának rendjét,
+f)[^18] az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei és az iskolához, kollégiumhoz tartozó területek használatának rendjét, figyelembe véve a környezettudatos használatra vonatkozó szabályokat,
 
 g) az iskola, kollégium által szervezett, a pedagógiai program végrehajtásához kapcsolódó iskolán, kollégiumon kívüli rendezvényeken elvárt tanulói magatartást.
 
-[^13]: Az 5. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 4. pontja szerint módosított szöveg.
-[^14]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.
+[^16]: Az 5. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 4. pontja szerint módosított szöveg.
+[^17]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.
+[^18]: Az 5. § (2) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 24. § 1. pontja szerint módosított szöveg.
