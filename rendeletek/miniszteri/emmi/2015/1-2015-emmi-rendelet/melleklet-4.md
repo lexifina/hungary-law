@@ -1,3 +1,3 @@
-4. melléklet az 1/2015. (I. 14.) EMMI rendelethez[^55]
+4. melléklet az 1/2015. (I. 14.) EMMI rendelethez[^56]
 
-[^55]: A 4. melléklet a 6/2019. (III. 12.) EMMI rendelet 5. § w) pontja szerint módosított szöveg.
+[^56]: A 4. melléklet a 6/2019. (III. 12.) EMMI rendelet 5. § w) pontja szerint módosított szöveg.

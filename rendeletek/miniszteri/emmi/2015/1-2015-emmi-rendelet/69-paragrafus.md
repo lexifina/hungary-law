@@ -1,3 +1,3 @@
-## 68. §[^51]
+## 68. §[^52]
 
-[^51]: A 68. §-t a 6/2019. (III. 12.) EMMI rendelet 6. §-a hatályon kívül helyezte.
+[^52]: A 68. §-t a 6/2019. (III. 12.) EMMI rendelet 6. §-a hatályon kívül helyezte.
