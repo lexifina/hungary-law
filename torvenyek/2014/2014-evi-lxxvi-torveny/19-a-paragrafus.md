@@ -1,0 +1,1 @@
+19/A. § Az NKFI Alap terhére finanszírozott támogatások költségeinek elszámolása tekintetében a pályázati felhívásban, a támogatási szerződésben vagy a támogatói okiratban meghatározott esetekben és feltételekkel egyszerűsített elszámolási módok is alkalmazhatók.

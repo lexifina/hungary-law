@@ -8,17 +8,23 @@ a) megalkotja a középtávú tudományos kutatási, fejlesztési és innováci�
 
 b) javaslatot tesz az Országgyűlésnek a KFI stratégia céljainak megvalósításához szükséges forrásokra,
 
-c) a KFI stratégia megvalósítása érdekében a KFI stratégia irányvonalainak megfelelő kutatóhelyeket létesíthet, és azokat a központi költségvetés keretében támogathatja,
+c) gondoskodik a KFI stratégia sikere érdekében az állami finanszírozású kutatóintézeti hálózat egységes intézményrendszerének létrehozásáról, működtetéséről és finanszírozásáról, továbbá szükség szerinti új kutatóhelyek létesítéséről és támogatásáról,
 
 d) elősegíti az Európai Unió programjaiban és más nemzetközi kutatás-fejlesztési és innovációs együttműködésekben történő magyar részvételt,
 
-e) ösztönzi a vállalkozásokat kutatás-fejlesztés és innováció eredményeinek létrehozására, a hazai és külföldi kutatás-fejlesztési és innovációs eredmények hasznosítására,
+e) ösztönzi a vállalkozásokat kutatás-fejlesztés és innováció eredményeinek létrehozására (ideértve a termék innovációt és az üzleti folyamat innovációt is), a hazai és külföldi kutatás-fejlesztési és innovációs eredmények hasznosítására (ideértve a technológia transzferen és a tudástranszferen keresztül történő hasznosítást is),
 
 f) tudomány- és gazdaságdiplomáciai eszközökkel elősegíti a Magyarországon létrehozott kutatás-fejlesztési és innovációs eredmények – hazai érdekekkel összhangban álló – külföldi hasznosítását,
 
-g) programokat, intézkedéseket kezdeményez a kutatás-fejlesztés és innováció hazai infrastruktúrájának kiépítésére, valamint a nemzetgazdasági jelentőségű kutatás-fejlesztési és innovációs feladatok megoldására,
+g) programokat, intézkedéseket kezdeményez a kutatás-fejlesztés és innováció hazai infrastruktúrájának kiépítésére, a nyílt tudományos digitális adatállományok, adattárházak létrehozását szolgáló eszközök fejlesztésére, valamint a nemzetgazdasági jelentőségű kutatás-fejlesztési és innovációs feladatok megoldására, különös figyelemmel az ipar, a gazdaság és a társadalom digitális átalakulását célzó programok felkarolására, a mesterséges intelligencia kihívásainak és elterjesztésének támogatására,
 
-h) gondoskodik a programok és projektek közfinanszírozású támogatására fordított források összehangolását, számbavételét, átláthatóságát teljeskörűen és egységes rendben biztosító, a nyilvánosság tájékoztatásához és az ország nemzetközi adatszolgáltatási kötelezettségei teljesítéséhez szükséges tervezési, felhasználási és elszámolási szabályok kialakításáról és alkalmazásáról.
+h) gondoskodik a programok és projektek közfinanszírozású támogatására fordított források összehangolását, számbavételét, átláthatóságát teljeskörűen és egységes rendben biztosító, a nyilvánosság tájékoztatásához és az ország nemzetközi adatszolgáltatási kötelezettségei teljesítéséhez szükséges tervezési, felhasználási és elszámolási szabályok kialakításáról és alkalmazásáról,
+
+i) a tudománypolitika koordinációjáért felelős miniszteren keresztül koordinálja a tudományos és technológiai diplomáciai tevékenységet,
+
+j) közfinanszírozású támogatás útján támogatja az innovatív vállalkozásokat és az innovatív tevékenységet folytató gazdasági szereplőket,
+
+k) a kutatás-fejlesztés és a technológiai innováció közfinanszírozású támogatásának eszközével ösztönzi a digitális ökoszisztéma fejlődését.
 
 (2) A Kormány a kutatás-fejlesztés és innováció közfinanszírozású támogatásával kapcsolatos feladatokat elsődlegesen a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (a továbbiakban: NKFI Hivatal) útján látja el, így biztosítva a kutatás-fejlesztés és innováció egységes joggyakorlaton alapuló felügyeletét és a rendelkezésre álló források kutatás-fejlesztésre és innovációra történő hatékony felhasználását.
 

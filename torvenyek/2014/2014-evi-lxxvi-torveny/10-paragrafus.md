@@ -1,8 +1,8 @@
 ## 6. Az NKFI Hivatal feladatai
 
-10. § (1) Az NKFI Hivatal
+10. § (1) Az NKFI Hivatal a tudománypolitika koordinációjáért felelős miniszter felügyelete és szakpolitikai irányítása mellett ellátja az alábbi feladatokat
 
-a) előkészíti a Kormány KFI stratégiára vonatkozó döntését és közreműködik annak megvalósításában,
+a) részt vesz a Kormány KFI stratégiára vonatkozó döntésének előkészítésében és közreműködik annak megvalósításában,
 
 b) felelős az NKFI Alapért,
 
@@ -18,25 +18,7 @@ d) dönt az NKFI Alap terhére hazai közfinanszírozású támogatás odaítél
 
 e) részt vesz a 2007–2013 közötti programozási időszak uniós társfinanszírozásban megvalósuló Gazdaságfejlesztési Operatív Program (a továbbiakban: GOP) monitoring bizottságában, különös tekintettel a GOP 4. prioritásának kutatás-fejlesztésre és innovációra fordítható forrásai tekintetében,
 
-f) a feladatkörében érintett irányító hatósággal megkötött megállapodásban meghatározottak szerint közreműködik a Gazdaságfejlesztési és Innovációs Operatív Programnak és a Versenyképes Közép-Magyarország Operatív Programnak a Partnerségi Megállapodás 1. számú célkitűzését szolgáló költségvetési támogatásával kapcsolatos egyes feladatok ellátásában, így különösen
-
-fa) a pályázati kiírások előkészítésében, meghirdetésében, módosításában és felfüggesztésében,
-
-fb) a támogatási igények formai és tartalmi értékelésében,
-
-fc) a támogatási döntés előkészítésében,
-
-fd) a támogatói okirat kibocsátásában, visszavonásában, a támogatási szerződés megkötésében, megszüntetésében és a szerződés megszűnésével összefüggő feladatokban, a támogatói okirat és a támogatási szerződés módosításában,
-
-fe) a támogatási cél megvalósulását követő feladatok körében az értékelésben és monitoringban,
-
-ff) a beszámolók, részbeszámolók alapján történő kifizetések megalapozottságának megítélésében,
-
-fg) az ellenőrzéssel összefüggő feladatok végrehajtásában,
-
-fh) a szabálytalanságok kivizsgálásában,
-
-fi) a követelések nyilvántartásában és kezelésében,
+f) ellátja a Gazdaságfejlesztési és Innovációs Operatív Programnak és a Versenyképes Közép-Magyarország Operatív Programnak a Partnerségi Megállapodás 1. számú célkitűzését szolgáló költségvetési támogatásával kapcsolatos, a szakpolitikai felelős hatáskörébe tartozó azon feladatokat, amelyeket a tudománypolitika koordinációjáért felelős miniszter, mint szakpolitikai felelős ráruház.
 
 g) ellátja a kutatás-fejlesztés és innováció területén folyó nemzetközi, illetve európai integrációs együttműködés szakmai feladatait,
 
@@ -50,7 +32,11 @@ k) versenyképességük növelése érdekében elősegíti a mikro-, kis- és k�
 
 l) országos kutatás-fejlesztési és innovációs támogatási programok – ideértve az NKFI Alapot is – programstratégiájának és tervezésének megalapozását szolgáló elemzéseket, értékeléseket, koncepciókat készít, nyomon követi és értékeli a támogatási programokat,
 
-m) támogatja a kutatás-fejlesztési és innovációs tevékenységgel közvetlenül összefüggő konferenciák, szakkiállítások, kiadványok megjelentetését, elektronikus információs adatbázisok és könyvtárak fejlesztését és kutatás-fejlesztési és innovációs célú díjak adományozását.
+m) támogatja a kutatás-fejlesztési és innovációs tevékenységgel közvetlenül összefüggő konferenciák, szakkiállítások, kiadványok megjelentetését, elektronikus információs adatbázisok és könyvtárak fejlesztését és kutatás-fejlesztési és innovációs célú díjak adományozását,
+
+n) a kutatás-fejlesztés és az innovációs szektor szereplői innovációs teljesítményének erősítése, valamint a pályázói eredményesség növelése érdekében innovációs szolgáltatást nyújt, így különösen előmozdítja a KFI szereplők közötti együttműködéseket, kapcsolatot tart szakmai szervezetekkel, elősegíti a pályázati aktivitást, az innovációs tudatosságot, piactámogató szakértői hálózatot alakít ki és működtet.
+
+(1a) Az NKFI Hivatal az (1) bekezdésben meghatározott feladatai végrehajtása során kikéri a tudománypolitika koordinációjáért felelős miniszter előzetes véleményét.
 
 (2) Az NKFI Hivatal a hazai közfinanszírozású támogatások tekintetében
 

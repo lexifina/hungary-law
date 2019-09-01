@@ -10,11 +10,11 @@ a) alapvető tudományos és technológiai áttörést hozó eredményeket ígé
 
 b) megvalósításából származó eredmények a közvetlen gazdálkodói érdekeltség körén túl, nemzetgazdasági vagy társadalmi szinten is jelentkeznek,
 
-c) közvetlenül hozzájárulnak a magyar gazdaság versenyképességéhez,
+c) közvetlenül hozzájárulnak a magyar gazdaság versenyképességéhez, illetve a digitális ökoszisztéma fejlődéséhez,
 
-d) költségvetési kutatóhely és vállalkozás, valamint felsőoktatási intézmény és vállalkozás együttműködését igénylik,
+d) költségvetési kutatóhely és vállalkozás, valamint felsőoktatási intézmény, kutató-tudásközvetítő szervezet és vállalkozás együttműködését igénylik,
 
-e) regionális, illetve határon átnyúló kutatás-fejlesztési és innovációs együttműködést valósítanak meg,
+e) regionális, illetve határon átnyúló és nemzetközi kutatás-fejlesztési és innovációs együttműködést valósítanak meg,
 
 f) a kutatás-fejlesztés és innováció területén, ideértve a kapcsolódó köz- és felsőfokú oktatást, valamint a szak- és felnőttképzést is, humánerőforrás-bővítést jelentenek,
 
@@ -30,4 +30,4 @@ ib) kutatás-fejlesztési eredményeik alkalmazásával a nemzetközi versenyké
 
 ic) kutatás-fejlesztési eredményeikre iparjogvédelmi oltalmat szereztek, és azt fenntartották, hasznosították,
 
-j) hatékonyan és közvetlenül hozzájárulnak a társadalmi, környezeti, gazdasági problémák megoldásához, az Európai Unió által EUROPA 2020 Stratégia „Innovatív Unió” programja keretében azonosított „társadalmi kihívások” és az abba tartozó hat tématerület kezeléséhez.
+j) hatékonyan és közvetlenül hozzájárulnak a nemzetközi szinten is felmerülő társadalmi, környezeti, gazdasági problémák megoldásához, kezeléséhez.
