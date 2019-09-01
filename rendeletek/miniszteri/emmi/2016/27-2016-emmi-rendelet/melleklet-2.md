@@ -400,7 +400,7 @@
 
 | 196 | 53 | 810 | 03 | Vakvezető kutya kiképzője | Szociális szolgáltatások | szociál- és nyugdíjpolitikáért felelős miniszter |
 
-2. melléklet a 27/2016. (IX. 16.) EMMI rendelethez[^3]
+2. melléklet a 27/2016. (IX. 16.) EMMI rendelethez[^4]
 
 Az 1. sorszámú Alapellátási közösségi szakápoló megnevezésű szakképesítés–ráépülés szakmai és vizsgakövetelménye
 
@@ -4074,4 +4074,4 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. alpontban előírt valamenn
 
 5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
-[^3]: A 2. melléklet a 23/2018. (VII. 18.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet a 23/2018. (VII. 18.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
