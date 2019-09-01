@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-277-20-
 | 2017-01-01 | 1997-277-20-22.25 | 346/2013. (IX. 30.) Korm. rendelet |
 | 2018-01-01 | 1997-277-20-22.26 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-07-11 | 1997-277-20-22.27 | 122/2018. (VII. 10.) Korm. rendelet |
+| 2019-09-01 | 1997-277-20-22.28 | 196/2019. (VIII. 1.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## 9/B. §[^80] A távoktató pedagógus-továbbképzési programok értékelése a következő bírálati szempontok alapján történik:
+## 9/B. §[^81] A távoktató pedagógus-továbbképzési programok értékelése a következő bírálati szempontok alapján történik:
 
 a) a továbbképzési program témája megfelel a 4. § (1) bekezdésében felsorolt célok valamelyikének,
 
@@ -18,4 +18,4 @@ h) a program tartalma és szerkezete (a programcsomag, a résztvevői szolgálta
 
 i) a program összhangban áll az Nkt. céljaival és alapelveivel.
 
-[^80]: A 9/B. §- t a 346/2013. (IX. 30.) Korm. rendelet 12. §-a iktatta be.
+[^81]: A 9/B. §- t a 346/2013. (IX. 30.) Korm. rendelet 12. §-a iktatta be.

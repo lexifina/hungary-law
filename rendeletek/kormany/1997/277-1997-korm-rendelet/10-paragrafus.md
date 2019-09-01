@@ -2,18 +2,18 @@
 
 ## A pedagógus-szakvizsga jellege és részei
 
-10. § (1)[^81] A szakvizsgára történő felkészítés hozzájárul az alap- és mesterképzésben megszerzett ismeretek és jártasságok megújításához, elmélyítéséhez, kiegészítéséhez, a pedagógus-munkakörrel együtt járó feladatok ellátásához szükséges gyakorlat, képesség, a pedagógus pályára való alkalmasság fejlesztéséhez, továbbá bármelyik felsőfokú iskolai végzettséggel és szakképzettséggel betölthető pedagógus-munkakörben hasznosítható, az alap- és mesterképzésben szerzett ismeretekhez szorosan nem kötődő új ismereteket nyújt.
+10. § (1)[^82] A szakvizsgára történő felkészítés hozzájárul az alap- és mesterképzésben megszerzett ismeretek és jártasságok megújításához, elmélyítéséhez, kiegészítéséhez, a pedagógus-munkakörrel együtt járó feladatok ellátásához szükséges gyakorlat, képesség, a pedagógus pályára való alkalmasság fejlesztéséhez, továbbá bármelyik felsőfokú iskolai végzettséggel és szakképzettséggel betölthető pedagógus-munkakörben hasznosítható, az alap- és mesterképzésben szerzett ismeretekhez szorosan nem kötődő új ismereteket nyújt.
 
-(2)[^82] A szakvizsgára történő felkészítés a nemzeti felsőoktatásról szóló törvény szerinti szakirányú továbbképzés keretében történik.
+(2)[^83] A szakvizsgára történő felkészítés a nemzeti felsőoktatásról szóló törvény szerinti szakirányú továbbképzés keretében történik.
 
-(3)[^83]
+(3)[^84]
 
-(4)[^84]
+(4)[^85]
 
-(5)[^85] A szakvizsga megszervezésére – beleértve a képzési és kimeneti követelmények, tantervek elkészítését és kiadását, a tanulmányi és vizsgarendet, a záróvizsgát és oklevelet, az oktatók és hallgatók jogállását stb. – a nemzeti felsőoktatásról szóló törvény rendelkezéseit kell alkalmazni.
+(5)[^86] A szakvizsga megszervezésére – beleértve a képzési és kimeneti követelmények, tantervek elkészítését és kiadását, a tanulmányi és vizsgarendet, a záróvizsgát és oklevelet, az oktatók és hallgatók jogállását stb. – a nemzeti felsőoktatásról szóló törvény rendelkezéseit kell alkalmazni.
 
-[^81]: A 10. § (1) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének h) pontja szerint módosított szöveg.
-[^82]: A 10. § (2) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 17. §-ával megállapított, a 346/2013. (IX. 30.) Korm. rendelet 17. § 13. pontja szerint módosított szöveg.
-[^83]: A 10. § (3) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
-[^84]: A 10. § (4) bekezdését a 229/2007. (VIII. 31.) Korm. rendelet 21. § (7) bekezdése b) pontjának bb) alpontja hatályon kívül helyezte.
-[^85]: A 10. § (5) bekezdése a 93/2009. (IV. 24.) Korm. rendelet 14. § (3) bekezdése, a 346/2013. (IX. 30.) Korm. rendelet 17. § 13. pontja szerint módosított szöveg.
+[^82]: A 10. § (1) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 21. § (5) bekezdésének h) pontja szerint módosított szöveg.
+[^83]: A 10. § (2) bekezdése a 229/2007. (VIII. 31.) Korm. rendelet 17. §-ával megállapított, a 346/2013. (IX. 30.) Korm. rendelet 17. § 13. pontja szerint módosított szöveg.
+[^84]: A 10. § (3) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^85]: A 10. § (4) bekezdését a 229/2007. (VIII. 31.) Korm. rendelet 21. § (7) bekezdése b) pontjának bb) alpontja hatályon kívül helyezte.
+[^86]: A 10. § (5) bekezdése a 93/2009. (IV. 24.) Korm. rendelet 14. § (3) bekezdése, a 346/2013. (IX. 30.) Korm. rendelet 17. § 13. pontja szerint módosított szöveg.
