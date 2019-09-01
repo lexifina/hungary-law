@@ -1,6 +1,6 @@
-## 32. §[^97] Ez a kormányrendelet – a közbeszerzési törvénnyel együtt – a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 32. §[^98] Ez a kormányrendelet – a közbeszerzési törvénnyel együtt – a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^98]
+1. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^99]
 
-[^97]: A 32. §-t a 196/2006. (IX. 27.) Korm. rendelet 16. §-a iktatta be, szövege a 323/2015. (X. 30.) Korm. rendelet 2. § (14) bekezdésével megállapított szöveg.
-[^98]: Az 1. számú melléklet a 72/2019. (IV. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^98]: A 32. §-t a 196/2006. (IX. 27.) Korm. rendelet 16. §-a iktatta be, szövege a 323/2015. (X. 30.) Korm. rendelet 2. § (14) bekezdésével megállapított szöveg.
+[^99]: Az 1. számú melléklet a 72/2019. (IV. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
