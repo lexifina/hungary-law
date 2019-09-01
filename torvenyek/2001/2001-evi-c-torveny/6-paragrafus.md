@@ -14,4 +14,4 @@ b) a kérelem a Harmadik rész hatálya alá tartozik, vagy
 
 c) résztanulmányok beszámítását kéri,
 
-d) a kérelem a 4. § (4)–(5) bekezdése vagy a III. Fejezet hatálya alá tartozik.
+d) a kérelem a 4. § (4)–(4a) bekezdése vagy a III. Fejezet hatálya alá tartozik.
