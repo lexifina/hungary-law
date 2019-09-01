@@ -1,3 +1,1 @@
-## 9. §[^9]
-
-[^9]: A 9. § a 31. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+## 9. § A 31/2014. (II. 12.) Korm. rendelet 2. § 7. pontjában a „távhőszolgáltatásról szóló” szövegrész helyébe a „távhővezeték-hálózat, valamint a távhőszolgáltatásról szóló” szöveg lép.

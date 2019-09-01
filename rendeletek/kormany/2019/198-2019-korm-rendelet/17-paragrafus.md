@@ -1,3 +1,7 @@
-## 16. §[^16]
+## 16. § A 365/2016. (XI. 29.) Korm. rendelet 13. § (3) bekezdése a következő n) ponttal egészül ki:
 
-[^16]: A 16. § a 31. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+## (A Kormány országos illetékességű műszaki biztonsági hatóságként Budapest Főváros Kormányhivatalát jelöli ki:)
+
+## „n) a mutatványos berendezések biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó mutatványos berendezések biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával”
+
+## (kapcsolatos eljárásokban.)

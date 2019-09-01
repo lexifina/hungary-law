@@ -1,3 +1,7 @@
-## 21. §[^21]
+## lép.
 
-[^21]: A 21. § a 31. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+## 22. § Hatályát veszti a 365/2016. (XI. 29.) Korm. rendelet
+
+a) 1. § (4) bekezdés b) pontja,
+
+b) 3. § (2) bekezdés f) pontja.
