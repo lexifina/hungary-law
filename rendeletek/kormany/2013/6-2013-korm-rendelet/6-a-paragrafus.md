@@ -1,4 +1,4 @@
-6/A. §[^7] (1) Ha a piacfelügyeleti hatóság megállapítja, hogy egy CE jelöléssel ellátott, helyesen felszerelt és karbantartott, rendeltetésszerűen használt orvostechnikai eszköz vagy in vitro diagnosztikai orvostechnikai eszköz (e cím alkalmazásában a továbbiakban együtt: eszköz) veszélyeztetheti a beteg, a kezelő vagy más személy egészségét, illetve biztonságát, rendelkezik az eszköz
+6/A. §[^8] (1) Ha a piacfelügyeleti hatóság megállapítja, hogy egy CE jelöléssel ellátott, helyesen felszerelt és karbantartott, rendeltetésszerűen használt orvostechnikai eszköz vagy in vitro diagnosztikai orvostechnikai eszköz (e cím alkalmazásában a továbbiakban együtt: eszköz) veszélyeztetheti a beteg, a kezelő vagy más személy egészségét, illetve biztonságát, rendelkezik az eszköz
 
 a) forgalmazásának, illetve használatának felfüggesztéséről vagy
 
@@ -12,4 +12,4 @@ b) forgalomból történő kivonásáról, illetve a használatának megtiltás�
 
 (5) A Pftv. 13. § (3) bekezdésében foglalt rendelkezés alkalmazása során a forgalmazó köteles meggyőződni arról, hogy az eszköz megfelel-e a forgalomba hozatal tekintetében az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben vagy az orvostechnikai eszközökről szóló miniszteri rendeletben előírt követelményeknek. A forgalmazó köteles a forgalmazás megkezdéséig a gyártótól beszerezni és kérésre rendelkezésre bocsátani az eszköz jogszerű forgalomba hozatalát igazoló eredeti dokumentumokat.
 
-[^7]: A 6/A. §-t a 434/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 6/A. §-t a 434/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
