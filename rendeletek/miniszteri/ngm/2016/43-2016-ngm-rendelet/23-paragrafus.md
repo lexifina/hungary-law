@@ -1,3 +1,3 @@
-23. § (1) A kijelölő hatóság csak a 19. §-ban rögzített követelményeknek megfelelő megfelelőségértékelő szervezetet jelenthet be a Bizottságnak.
+## 22. §[^5]
 
-(2) A bejelentés tartalmazza a megfelelőségértékelési tevékenységre, a megfelelőségértékelési eljárásra és az érintett mérőműszerre vonatkozó részletes információkat, valamint a jogszabályban előírt feltételeknek megfelelő szakmai alkalmasság igazolását.
+[^5]: A 22. §-t a 25/2019. (VIII. 26.) ITM rendelet 23. §-a hatályon kívül helyezte.
