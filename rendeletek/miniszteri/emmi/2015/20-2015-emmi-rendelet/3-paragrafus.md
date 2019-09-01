@@ -1,6 +1,6 @@
 ## minősül az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak.
 
-## 3. §[^4] A foglalkoztató szervezetnél
+## 3. §[^5] A foglalkoztató szervezetnél
 
 a) a belső ellenőr és az ellenőrzési feladatokat ellátó szervezeti egységnél betöltött munkakör, valamint a belső ellenőri feladatok ellátása és az ellenőrzési feladatokat ellátó szervezeti egységhez tartozó álláshelyen történő feladatellátás,
 
@@ -18,4 +18,4 @@ g) a titkos ügykezelői feladatok ellátása és
 
 h) a rejtjelfelügyelői és a rejtjelezői feladatok ellátása
 
-[^4]: A 3. § a 18/2019. (VIII. 14.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^5]: A 3. § a 18/2019. (VIII. 14.) EMMI rendelet 4. §-ával megállapított szöveg.
