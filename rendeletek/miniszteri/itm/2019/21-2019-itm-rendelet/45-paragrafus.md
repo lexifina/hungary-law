@@ -1,0 +1,1 @@
+## 44. § Ha egyes rendszerek nem az egyeztetett világidőt (UTC) jelenítik meg, az eltérés tulajdonságait leíró jegyzék vagy az alkalmazási sémával vagy adatkészlettel összefüggő metaadatok tartalmazzák az eltérésre vonatkozó vonatkoztatási rendszer leírását.
