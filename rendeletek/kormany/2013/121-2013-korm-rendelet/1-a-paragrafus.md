@@ -1,3 +1,3 @@
-## 1. §[^1] Az Oktatási Hivatal (a továbbiakban: Hivatal) az oktatásért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
+## 1. §[^1] Az Oktatási Hivatal (a továbbiakban: Hivatal) az emberi erőforrások minisztere (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv. A Hivatal felsőoktatással, külföldi oklevelek elismerésével, valamint nyelvvizsgáztatással és nyelvvizsga-akkreditációval kapcsolatos feladataival összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés c), e) és f)–h) pontjában meghatározott hatásköröket – a hatékonysági és pénzügyi ellenőrzés kivételével – az innovációért és technológiáért felelős miniszter látja el.
 
-[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 729. §-ával megállapított szöveg.
+[^1]: Az 1. § a 209/2019. (VIII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.

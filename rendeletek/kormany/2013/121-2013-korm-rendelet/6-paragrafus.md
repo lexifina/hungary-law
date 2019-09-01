@@ -1,4 +1,4 @@
-6. §[^18] (1) A Hivatal pedagógiai-szakmai szolgáltató tevékenysége keretében
+6. §[^20] (1) A Hivatal pedagógiai-szakmai szolgáltató tevékenysége keretében
 
 a) ellátja az országos pedagógiai tárgyú mérés-értékelés szervezésével kapcsolatos feladatokat,
 
@@ -20,4 +20,4 @@ a) a gyermekeket, tanulókat érintő hátránykompenzációs módszertani és s
 
 b) az óvodai fejlesztő programok részeként megvalósuló integrációs és képességkibontakoztató pedagógiai feladatok intézményi megvalósításához folyamatos támogatást biztosít.
 
-[^18]: A 6. § a 307/2017. (X. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^20]: A 6. § a 307/2017. (X. 27.) Korm. rendelet 12. §-ával megállapított szöveg.

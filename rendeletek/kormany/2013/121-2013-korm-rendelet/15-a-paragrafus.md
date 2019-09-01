@@ -1,0 +1,1 @@
+## 15. § A Hivatal gondoskodik a szakszolgálati-esélyegyenlőségi szakértő kijelöléséről és kirendeléséről, ha az Nkt. 18. § (2) bekezdés c) pontja szerinti szakértői bizottsági tevékenység keretében halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatára kerül sor.

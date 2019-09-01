@@ -1,0 +1,14 @@
+## 15/A. §[^31] A Hivatal ellátja az egyéni munkarend engedélyezésével kapcsolatos feladatokat.
+
+## 15/B. §[^32] A Hivatal
+
+a) ellátja a pedagógus-továbbképzéssel kapcsolatos akkreditációs tevékenységgel kapcsolatos feladatokat,
+
+b) figyelemmel kíséri és nyilvántartja a pedagógus-továbbképzéseket a jogszabályok által meghatározottak szerint, ellátja a továbbképzési jegyzékkel kapcsolatos feladatokat,
+
+c) ellátja a Pedagógus-továbbképzési Akkreditációs Testület titkársági feladatait,
+
+d) ellátja a pedagógus-továbbképzések szervezőinek ellenőrzésével kapcsolatos feladatokat.
+
+[^31]: A 15/A. §-t a 196/2019. (VIII. 1.) Korm. rendelet 10. §-a iktatta be.
+[^32]: A 15/B. §-t a 196/2019. (VIII. 1.) Korm. rendelet 10. §-a iktatta be.
