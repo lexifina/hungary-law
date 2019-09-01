@@ -2,15 +2,15 @@
 
 ## A PEDAGÓGUSOK ÁLLANDÓ HELYETTESÍTÉSI RENDSZERE
 
-30. § (1)[^63] A tankerületi központ a megye munkaerő-gazdálkodási rendszerének részeként létrehozza és működteti az állami köznevelési intézményekben folyó pedagógiai munka zavartalan megszervezése érdekében a pedagógusok állandó helyettesítési rendszerét (a továbbiakban: helyettesítési rendszer).
+30. § (1)[^64] A tankerületi központ a megye munkaerő-gazdálkodási rendszerének részeként létrehozza és működteti az állami köznevelési intézményekben folyó pedagógiai munka zavartalan megszervezése érdekében a pedagógusok állandó helyettesítési rendszerét (a továbbiakban: helyettesítési rendszer).
 
-(2)[^64] A helyettesítési rendszer működésével és igénybevételével kapcsolatos tájékoztatást a tankerületi központ a honlapján közzéteszi.
+(2)[^65] A helyettesítési rendszer működésével és igénybevételével kapcsolatos tájékoztatást a tankerületi központ a honlapján közzéteszi.
 
-(3)[^65] A tankerületi központ fővárosi, megyei bontásban nyilvántartja a helyettesítési rendszerben részt vevő személyeket (a továbbiakban: helyettesítő pedagógus), és munkáltatói megkeresésre tájékoztatást ad a helyettesítő pedagógus foglalkoztatásának lehetőségeiről.
+(3)[^66] A tankerületi központ fővárosi, megyei bontásban nyilvántartja a helyettesítési rendszerben részt vevő személyeket (a továbbiakban: helyettesítő pedagógus), és munkáltatói megkeresésre tájékoztatást ad a helyettesítő pedagógus foglalkoztatásának lehetőségeiről.
 
-(4)[^66] A helyettesítési rendszerhez a tankerületi központtal kötött megállapodás alapján csatlakozhatnak az önkormányzatok, valamint az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartói is.
+(4)[^67] A helyettesítési rendszerhez a tankerületi központtal kötött megállapodás alapján csatlakozhatnak az önkormányzatok, valamint az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartói is.
 
-[^63]: A 30. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
-[^64]: A 30. § (2) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
-[^65]: A 30. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
-[^66]: A 30. § (4) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § c) pontja, a 486/2016. (XII. 28.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.
+[^64]: A 30. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^65]: A 30. § (2) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^66]: A 30. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^67]: A 30. § (4) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 81. § c) pontja, a 486/2016. (XII. 28.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.

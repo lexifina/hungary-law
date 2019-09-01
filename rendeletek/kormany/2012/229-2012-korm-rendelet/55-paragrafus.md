@@ -1,4 +1,4 @@
-## 54. §[^212] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 38/A. (1) bekezdés a) és b) pontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában[^213] folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+## 54. §[^215] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 38/A. (1) bekezdés a) és b) pontjának hatálybalépése előtt megkezdett és a hatálybalépése időpontjában[^216] folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-[^212]: Az 54. §-t újonnan a 171/2017. (VI. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^213]: A hatálybalépés időpontja 2017. július 1.
+[^215]: Az 54. §-t újonnan a 171/2017. (VI. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^216]: A hatálybalépés időpontja 2017. július 1.

@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2018-07-11 | 2012-229-20-22.32 | 122/2018. (VII. 10.) Korm. rendelet |
 | 2018-09-01 | 2012-229-20-22.33 | 354/2016. (XI. 18.) Korm. rendelet |
 | 2019-08-09 | 2012-229-20-22.34 | 196/2019. (VIII. 1.) Korm. rendelet |
+| 2019-09-01 | 2012-229-20-22.35 | 196/2019. (VIII. 1.) Korm. rendelet |
