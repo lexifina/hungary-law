@@ -22,7 +22,7 @@
 
 ## 5. Ha a műszaki ismeretek adott fejlettségi fokát figyelembe véve az e mellékletben meghatározott biztonsági és egészségvédelmi követelmények által felállított céloknak nem lehet eleget tenni, úgy a gépet akként kell tervezni és gyártani, hogy ezeket a célokat a lehető legjobban megközelítsék.
 
-## 6.[^13] A gépek tervezésekor figyelembe kell venni az általános rész követelményeit és egy vagy több további rész követelményeit, az 1. pontban meghatározott kockázatelemzés eredményétől függően. A környezetvédelemre vonatkozó alapvető egészségvédelmi és biztonsági követelmények csak a 2.4. pontban említett gépekre alkalmazandók.
+## 6.[^15] A gépek tervezésekor figyelembe kell venni az általános rész követelményeit és egy vagy több további rész követelményeit, az 1. pontban meghatározott kockázatelemzés eredményétől függően. A környezetvédelemre vonatkozó alapvető egészségvédelmi és biztonsági követelmények csak a 2.4. pontban említett gépekre alkalmazandók.
 
 ## 1. ALAPVETŐ BIZTONSÁGI ÉS EGÉSZSÉGVÉDELMI KÖVETELMÉNYEK
 
@@ -738,7 +738,7 @@
 
 ## 2. AZ EGYES GÉPFAJTÁKRA VONATKOZÓ KIEGÉSZÍTŐ ALAPVETŐ BIZTONSÁGI ÉS EGÉSZSÉGVÉDELMI KÖVETELMÉNYEK
 
-## Élelmiszeripari gépek, kozmetikai és gyógyszeripari gépek, hordozható kézi és/vagy kézi irányítású gépek, hordozható rögzítő és egyéb összekapcsoló gépek, famegmunkáló és a fához hasonló fizikai tulajdonságokkal rendelkező anyagok megmunkálására alkalmas gépek, valamint a peszticidek kijuttatására szolgáló gépek esetében be kell tartani az ebben a fejezetben foglalt valamennyi alapvető egészségvédelmi és biztonsági követelményt.[^14]
+## Élelmiszeripari gépek, kozmetikai és gyógyszeripari gépek, hordozható kézi és/vagy kézi irányítású gépek, hordozható rögzítő és egyéb összekapcsoló gépek, famegmunkáló és a fához hasonló fizikai tulajdonságokkal rendelkező anyagok megmunkálására alkalmas gépek, valamint a peszticidek kijuttatására szolgáló gépek esetében be kell tartani az ebben a fejezetben foglalt valamennyi alapvető egészségvédelmi és biztonsági követelményt.[^16]
 
 ## 2.1. Élelmiszer-ipari gépek, kozmetikai és gyógyszeripari gépek
 
@@ -834,7 +834,7 @@
 
 ## d) ha a szerszám egy nem teljesen önműködő gépbe van beépítve, a gépet úgy kell megtervezni és gyártani, hogy ki lehessen küszöbölni, vagy csökkenteni lehessen a véletlenül bekövetkező sérülés veszélyét.
 
-## 2.4.[^15] PESZTICIDEK KIJUTTATÁSÁRA SZOLGÁLÓ GÉPEK
+## 2.4.[^17] PESZTICIDEK KIJUTTATÁSÁRA SZOLGÁLÓ GÉPEK
 
 ## 2.4.1. Általános
 
@@ -1564,6 +1564,6 @@ b) visszafelé történő mozgás csillapításával;
 
 17.7. elektronikus alkatrészeket tartalmazó biztonsági kapcsoló jellegű elektromos biztonsági berendezés.
 
-[^13]: Az 1. melléklet „Általános alapelvek” alcím 6. pontját a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.
-[^14]: Az 1. melléklet 2. pont 2.1. alpontját megelőző szöveget a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.
-[^15]: Az 1. melléklet 2. pont 2.4. alpontját a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.
+[^15]: Az 1. melléklet „Általános alapelvek” alcím 6. pontját a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.
+[^16]: Az 1. melléklet 2. pont 2.1. alpontját megelőző szöveget a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.
+[^17]: Az 1. melléklet 2. pont 2.4. alpontját a 36/2011. (IX. 22.) NGM rendelet 5. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 12–13. §[^10]
+## 12–13. §[^12]
 
 14. § (1) A fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló 31/2006. (VI. 1.) GKM rendelet 1. § (1) bekezdése helyébe a következő rendelkezés lép:
 
@@ -6,4 +6,4 @@
 
 (2) A fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló 31/2006. (VI. 1.) GKM rendelet a következő 8/A. §-sal egészül ki:
 
-[^10]: A 12–13. §-t a 16/2010. (IV. 28.) NFGM rendelet 27. §-a hatályon kívül helyezte.
+[^12]: A 12–13. §-t a 16/2010. (IV. 28.) NFGM rendelet 27. §-a hatályon kívül helyezte.
