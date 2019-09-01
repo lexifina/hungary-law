@@ -1,6 +1,6 @@
 6. melléklet a 102/2009. (V. 11.) Korm. rendelethez
 
-## A 19. § (2) bekezdés a) pontja szerinti adatszolgáltatás adattartalma
+A 19. § (2) bekezdés a) pontja szerinti adatszolgáltatás adattartalma
 
 1. A jogszabály teljes címe
 
@@ -24,7 +24,7 @@ d) termék forgalmazásával vagy használatával összefüggő – műszaki sza
 
 5. Az érintett jogszabályi rendelkezés(ek) végrehajtására eljáró hatóság (első- és másodfok) és felügyeleti szervének neve, telefonszáma és elektronikus levélcíme
 
-6.[^17] A jogorvoslati eljárásra vonatkozóan az általános közigazgatási rendtartásról szóló törvénytől eltérő rendelkezés
+6.[^18] A jogorvoslati eljárásra vonatkozóan az általános közigazgatási rendtartásról szóló törvénytől eltérő rendelkezés
 
 az eltérést elrendelő jogszabályhely pontos megjelölése
 
@@ -34,4 +34,4 @@ _______
 
 2 A vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletében foglalt Kombinált Nómenklatúra – a rendelet 12. cikke értelmében elfogadott és az Európai Unió Hivatalos Lapjában közzétett mindenkor hatályos egységes szerkezetű változatának – alapján, legalább két számjegynyi mélységig.
 
-[^17]: A 6. melléklet 6. pontja a 457/2017. (XII. 28.) Korm. rendelet 245. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^18]: A 6. melléklet 6. pontja a 457/2017. (XII. 28.) Korm. rendelet 245. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

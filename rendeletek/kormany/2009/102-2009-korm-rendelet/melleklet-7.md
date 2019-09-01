@@ -1,6 +1,6 @@
 7. melléklet a 102/2009. (V. 11.) Korm. rendelethez
 
-## Adatlap a 22. § (1) bekezdése szerinti adatszolgáltatáshoz
+Adatlap a 22. § (1) bekezdése szerinti adatszolgáltatáshoz
 
 1. Az adatszolgáltató hatóság
 

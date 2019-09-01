@@ -1,6 +1,6 @@
 4. melléklet a 102/2009. (V. 11.) Korm. rendelethez
 
-## Formanyomtatvány1 a műszaki tartalmú jogszabálytervezetekre vonatkozó, a 102/2009. (V. 11.) Korm. rendelet szerinti további közlésekhez
+Formanyomtatvány1 a műszaki tartalmú jogszabálytervezetekre vonatkozó, a 102/2009. (V. 11.) Korm. rendelet szerinti további közlésekhez
 
 Üzenet
 

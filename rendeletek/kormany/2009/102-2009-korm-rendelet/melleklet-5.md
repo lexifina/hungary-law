@@ -1,6 +1,6 @@
 5. melléklet a 102/2009. (V. 11.) Korm. rendelethez
 
-## A 15. § (1) bekezdése szerinti akadályokról történő értesítés adattartalma1
+A 15. § (1) bekezdése szerinti akadályokról történő értesítés adattartalma1
 
 1. Értesítést küldő állam és bejelentő szerv
 

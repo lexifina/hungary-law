@@ -4,7 +4,7 @@ a) a közegészség, közbiztonság, a növények vagy állatok védelmével ös
 
 b) a pénzügyi rendszer biztonságának és sértetlenségének védelmével, különösen a betétesek, a befektetők és a biztosítottak védelmével kapcsolatos súlyos körülmények által kiváltott sürgős ok miatt
 
-## a tervezet mielőbbi megalkotásához fűződő érdek nem teszi lehetővé az egyeztetést.
+a tervezet mielőbbi megalkotásához fűződő érdek nem teszi lehetővé az egyeztetést.
 
 (2) Az (1) bekezdés szerinti esetben a bejelentésben meg kell jelölni a sürgősség okát.
 

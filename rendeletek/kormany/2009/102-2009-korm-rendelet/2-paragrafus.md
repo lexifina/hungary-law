@@ -10,7 +10,7 @@ bb) a távollévők részére történő szolgáltatásnyújtás a felek egyidej
 
 bc) a szolgáltatás igénybe vevőjének egyedi hozzáférése a szolgáltatásnak a felhasználó által egyedileg elérhető hozzáférési pontba történő adatátvitel útján való biztosítását
 
-## jelenti;
+jelenti;
 
 c) műszaki leírás:
 

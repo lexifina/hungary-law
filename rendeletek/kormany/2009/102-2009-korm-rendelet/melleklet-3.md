@@ -1,6 +1,6 @@
 3. melléklet a 102/2009. (V. 11.) Korm. rendelethez
 
-## Formanyomtatvány1 a műszaki tartalmú jogszabálytervezetek a 102/2009. (V. 11.) Korm. rendelet szerinti bejelentéséhez
+Formanyomtatvány1 a műszaki tartalmú jogszabálytervezetek a 102/2009. (V. 11.) Korm. rendelet szerinti bejelentéséhez
 
 Üzenet 000
 

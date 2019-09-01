@@ -1,6 +1,6 @@
 1. melléklet a 102/2009. (V. 11.) Korm. rendelethez
 
-## A 2. § (1) bekezdés b) pontja alkalmazásában információs társadalommal összefüggő szolgáltatásnak nem minősülő szolgáltatások
+A 2. § (1) bekezdés b) pontja alkalmazásában információs társadalommal összefüggő szolgáltatásnak nem minősülő szolgáltatások
 
 1. Nem távollévők részére nyújtott szolgáltatás
 
