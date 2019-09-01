@@ -1,1 +1,0 @@
-1. § Az Országgyűlés a Magyar Köztársaság Kormánya és Románia Kormánya között a minősített katonai információk kölcsönös védelme tárgyában Debrecenben, 1997. február 17-én aláírt Egyezményt (a továbbiakban: Egyezmény) e törvénnyel megerősíti.
