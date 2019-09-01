@@ -26,10 +26,11 @@ d) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás 
 
 e) a Magyar Energetikai és Közmű-szabályozási Hivatal rendelkezésére álló, az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet szerinti adatokhoz,
 
-f) a Magyar Tudományos Akadémia Talajtani és Agrokémiai Kutatóintézete talajinformációs rendszerének adataihoz,
+f)[^7] az Agrártudományi Kutatóközpont Talajtani és Agrokémiai Kutatóintézete talajinformációs rendszerének adataihoz,
 
 g) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 49. §-a szerinti Országos Környezetvédelmi Információs Rendszer általános lekérdező és térinformatikai rendszeréhez.
 
 [^4]: A 3. § a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^5]: A 4. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 281. § (1) bekezdésével megállapított szöveg.
 [^6]: A 4. § (5) bekezdés b) pontja a 131/2015. (V. 27.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^7]: A 4. § (5) bekezdés f) pontja a 204/2019. (VIII. 23.) Korm. rendelet 17. §-a szerint módosított szöveg.

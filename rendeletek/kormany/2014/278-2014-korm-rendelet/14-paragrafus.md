@@ -16,10 +16,10 @@ f) a d) pont szerinti intézkedések elfogadásának és végrehajtásának indi
 
 (2) Az (1) bekezdés szerinti jelentés erdészeti ágazatra vonatkozó részének tartalmára a NAIK ERTI közreműködésével a Nemzeti Élelmiszerlánc-biztonsági Hivatal javaslatot tesz a Szolgálat részére.
 
-(3)[^9] Az (1) bekezdés szerinti jelentés nem erdészeti ágazatra vonatkozó részének tartalmára a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara és a Nemzeti Élelmiszerlánc-biztonsági Hivatal javaslatot tesz a Szolgálat részére.
+(3)[^10] Az (1) bekezdés szerinti jelentés nem erdészeti ágazatra vonatkozó részének tartalmára a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara és a Nemzeti Élelmiszerlánc-biztonsági Hivatal javaslatot tesz a Szolgálat részére.
 
 (4) A miniszter a környezetvédelemért felelős miniszterrel, az agrárpolitikáért felelős miniszterrel, az erdőgazdálkodásért felelős miniszterrel és a földügyért felelős miniszterrel együttműködve információt szolgáltat az 529/2013/EU határozat I. mellékletében meghatározott minden egyes elszámolási időszak végét követő második év január 15-ig, illetve március 15-ig bejelenti a Bizottságnak a földhasználati ágazatra vonatkozó nyilvántartásban az adott elszámolási időszakra vonatkozóan szereplő előzetes, illetve végleges adatokat, az 529/2013/EU határozat 4. cikk (6) bekezdésével összhangban.
 
 (5) A jelentés tartalmára, felépítésére, formátumára, benyújtási eljárására és felülvizsgálatára az 525/2013/EU rendelet, a 749/2014/EU bizottsági végrehajtási rendelet, valamint az 529/2013 EU határozat előírásai az irányadók.
 
-[^9]: A 14. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 281. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 14. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 281. § (3) bekezdés b) pontja szerint módosított szöveg.
