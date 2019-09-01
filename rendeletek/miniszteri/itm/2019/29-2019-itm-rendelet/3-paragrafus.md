@@ -1,1 +1,0 @@
-## 2. § A nemzeti fejlesztési miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 35/2016. (VIII. 31.) NFM rendelet (a továbbiakban: R2.) 2. melléklete a 2. melléklet szerint módosul.
