@@ -1,6 +1,6 @@
-## 154. § A vendégkönyvek beszerzéséről, a nyilvántartás folyamatos vezetéséről, illetőleg a vendégkönyvnek a szálláshely szerint illetékes regionális igazgatóság részére a tárgyévet követő március 31-ig történő leadásáról a vendégkönyv vezetésére köteles szálláshely üzemeltetője köteles gondoskodni.
+## 154. §[^497] A Tv. 73. § (2) bekezdésében meghatározott adatokat a Hivatal a Kormány által kijelölt tárhelyszolgáltatótól napi rendszerességgel veszi át.
 
-155. § (1) A vendégkönyv vezetésére köteles szálláshelynek nem minősülő szálláshelyen megszálló harmadik országbeli állampolgár a szálláshelyének bejelentésére akkor köteles, ha magyarországi tartózkodása a beutazásától számított harminc napot meghaladja.
+155. § (1)[^498] A kereskedelemről szóló törvény hatálya alá tartozó és a nem üzleti célú közösségi, szabadidős szálláshelynek nem minősülő szálláshelyen megszálló harmadik országbeli állampolgár a szálláshelyének bejelentésére akkor köteles, ha magyarországi tartózkodása a beutazásától számított harminc napot meghaladja.
 
 (2) A bejelentési kötelezettséget a beutazástól számított három napon belül az e célra rendszeresített formanyomtatványon (a továbbiakban: bejelentőlap) kell teljesíteni a szálláshely szerint illetékes regionális igazgatóságon.
 
@@ -10,6 +10,8 @@
 
 (5) A harmadik országbeli állampolgár a szálláshely bejelentésének tényét a bejelentőlap második példányával igazolja.
 
-(6)[^497] Ha a harmadik országbeli állampolgár a tartózkodási engedély kiadása vagy meghosszabbítása iránti eljárás során vendégkönyv vezetésére köteles szálláshelynek minősülő szálláshelyet jelöl meg, a harmadik országbeli állampolgárt bejelentési kötelezettségét a (2)–(5) bekezdésben foglaltak szerint teljesíti.
+(6)[^499] Ha a harmadik országbeli állampolgár a tartózkodási engedély kiadása vagy meghosszabbítása iránti eljárás során a kereskedelemről szóló törvény hatálya alá tartozó és a nem üzleti célú közösségi, szabadidős szálláshelynek minősülő szálláshelyet jelöl meg, a harmadik országbeli állampolgárt bejelentési kötelezettségét a (2)–(5) bekezdésben foglaltak szerint teljesíti.
 
-[^497]: A 155. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 52. §-a iktatta be.
+[^497]: A 154. § a 277/2018. (XII. 21.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^498]: A 155. § (1) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 26. § h) pontja szerint módosított szöveg.
+[^499]: A 155. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 52. §-a iktatta be, szövege a 277/2018. (XII. 21.) Korm. rendelet 26. § i) pontja szerint módosított szöveg.

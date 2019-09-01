@@ -1,3 +1,3 @@
-## Az EU Kék Kártyával rendelkező harmadik országbeli állampolgár bejelentési kötelezettsége[^508]
+## Az EU Kék Kártyával rendelkező harmadik országbeli állampolgár bejelentési kötelezettsége[^511]
 
-[^508]: A 158/A. §-t megelőző alcímet a 168/2011. (VIII. 24.) Korm. rendelet 17. §-a iktatta be.
+[^511]: A 158/A. §-t megelőző alcímet a 168/2011. (VIII. 24.) Korm. rendelet 17. §-a iktatta be.
