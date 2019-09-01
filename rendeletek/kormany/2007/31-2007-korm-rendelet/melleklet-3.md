@@ -168,7 +168,7 @@
 
 | 83. | SZTNH | Szabadalmi bejegyzések | 1.1.6. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 84. | MTA-TAKI | Agrotopográfiai térkép | 4.6. | frissítést követően | objektum | frissítést követő 90. nap |
+| 84. | TAKI | Agrotopográfiai térkép | 4.6. | frissítést követően | objektum | frissítést követő 90. nap |
 
 | 85. | NFM | Logisztikai adatok | 3.1.5. | évente vagy frissítést követően | objektum | frissítést követő 90. nap |
 
@@ -292,7 +292,7 @@
 
 | 19. | Szellemi Tulajdon Nemzeti Hivatala | SZTNH |
 
-| 20. | Magyar Tudományos Akadémia Agrártudományi Kutatóközpont Talajtani és Agrokémiai Kutatóintézete | MTA-TAKI |
+| 20. | Agrártudományi Kutatóközpont Talajtani és Agrokémiai Kutatóintézete | TAKI |
 
 | 21. | Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt. | MAVIR |
 

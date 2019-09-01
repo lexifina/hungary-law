@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-31-20-2
 | 2017-04-01 | 2007-31-20-22.23 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-07-01 | 2007-31-20-22.24 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2017-11-01 | 2007-31-20-22.25 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2019-09-01 | 2007-31-20-22.26 | 379/2016. (XII. 2.) Korm. rendelet |
