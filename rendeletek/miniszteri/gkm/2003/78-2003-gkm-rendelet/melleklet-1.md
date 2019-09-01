@@ -1,4 +1,6 @@
-1. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^25]
+## 9. §[^22]
+
+1. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^23]
 
 ## A játszótéri eszközök biztonságossági követelményei
 
@@ -22,4 +24,5 @@
 
 4. A játszótéri eszközök védjék meg a gyermekeket olyan veszélyektől, amelyek nem láthatók előre, ha a játszótéri eszközt rendeltetésszerűen vagy ésszerűen előrelátható módon használják.
 
-[^25]: Az 1. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^22]: A 9. §-t a 25/2019. (VIII. 26.) ITM rendelet 1. § c) pontja hatályon kívül helyezte.
+[^23]: Az 1. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
