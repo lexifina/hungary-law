@@ -22,7 +22,7 @@
 
 | 10. | Műszaki és technikatörténeti emlékek | Magyar Műszaki és Közlekedési Múzeum | 1146 Budapest, Városligeti krt. 11. |
 
-| 11. | Zenetörténeti emlékek | Magyar Tudományos Akadémia Bölcsészettudományi Kutatóintézet Zenetudományi Intézet – Zenetörténeti Múzeum | 1014 Budapest, Táncsics M. u. 7. |
+| 11. | Zenetörténeti emlékek | Bölcsészettudományi Kutatóintézet Zenetudományi Intézet – Zenetörténeti Múzeum | 1014 Budapest, Táncsics M. u. 7. |
 
 | 12. | Hadtörténeti emlékek | Honvédelmi Minisztérium Hadtörténeti Intézet és Múzeum | 1014 Budapest, Kapisztrán tér 2–4. |
 

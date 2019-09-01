@@ -1,6 +1,6 @@
-## 32. [^19] A külön jogszabályban meghatározott adó- és illetékkedvezményekkel kapcsolatos igazolás
+## 32. [^21] A külön jogszabályban meghatározott adó- és illetékkedvezményekkel kapcsolatos igazolás
 
-75. §[^20] (1) A védett műemléki értéknek vagy helyi egyedi védelem alatt álló ingatlannak a társasági adóról és osztalékadóról szóló törvényben meghatározott felújítása vagy karbantartása szabályszerű megtörténtének igazolására az illetékes hatóság a jogosult kérelmére hatósági bizonyítványt ad ki.
+75. §[^22] (1) A védett műemléki értéknek vagy helyi egyedi védelem alatt álló ingatlannak a társasági adóról és osztalékadóról szóló törvényben meghatározott felújítása vagy karbantartása szabályszerű megtörténtének igazolására az illetékes hatóság a jogosult kérelmére hatósági bizonyítványt ad ki.
 
 (2) A hatóság a hatósági bizonyítvány kiadására irányuló eljárásában a tényállás tisztázása érdekében helyszíni szemlét tart, amelynek során a 13. melléklet szerinti állapotfelvételi adatlapot vesz fel, vagy az I. kategóriába sorolt műemlék esetén ellenőrzi az építőipari kivitelezési tevékenységről szóló kormányrendelet szerinti szervizkönyvet.
 
@@ -34,5 +34,5 @@ b) a hatóság a rendelkezésre álló adatokból azt állapítja meg, hogy az (
 
 (9) A védett műemléki érték vagy helyi egyedi védelem alatt álló ingatlan esetén a megfizetett visszterhes vagyonátruházási és öröklési illeték visszatérítéséhez szükséges tények igazolása céljából, az illetékes hatóság az általa igazolható tények, körülmények tekintetében a jogosult kérelmére hatósági bizonyítványt ad ki.
 
-[^19]: A 32. alcím címe a 190/2018. (X. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^20]: A 75. § a 190/2018. (X. 12.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^21]: A 32. alcím címe a 190/2018. (X. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: A 75. § a 190/2018. (X. 12.) Korm. rendelet 4. §-ával megállapított szöveg.

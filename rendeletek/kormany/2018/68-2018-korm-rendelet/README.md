@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-68-20-2
 | 2019-03-14 | 2018-68-20-22.5 | 38/2019. (III. 6.) Korm. rendelet |
 | 2019-03-27 | 2018-68-20-22.6 | 62/2019. (III. 26.) Korm. rendelet |
 | 2019-06-04 | 2018-68-20-22.7 | 121/2019. (V. 27.) Korm. rendelet |
+| 2019-09-01 | 2018-68-20-22.8 | 204/2019. (VIII. 23.) Korm. rendelet |

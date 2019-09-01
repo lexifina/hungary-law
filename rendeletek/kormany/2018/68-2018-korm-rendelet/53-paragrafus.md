@@ -6,7 +6,7 @@ a) minden 30 centiméter mélységet meghaladó földmunka, tereprendezés, dep�
 
 b) régészeti emlék megóvási, konzerválási munkálatai nyilvántartott régészeti lelőhelyen.
 
-(2)[^18] A kérelem benyújtásával egyidejűleg igazolni kell, hogy a tevékenységgel érintett ingatlannal rendelkezni jogosult a tevékenységhez hozzájárult. A kérelemhez mellékelni kell
+(2)[^20] A kérelem benyújtásával egyidejűleg igazolni kell, hogy a tevékenységgel érintett ingatlannal rendelkezni jogosult a tevékenységhez hozzájárult. A kérelemhez mellékelni kell
 
 a) a tervezett tevékenység pontos helyszínének leírását annak földrajzi kiterjedésével, illetve helyszínrajzot (EOV vagy WGS84 földrajzi koordinátákat tartalmazó térképet),
 
@@ -20,4 +20,4 @@ b) a tervezett tevékenység megnevezését, leírását.
 
 (6) Az örökségvédelmi engedély alapján végezni tervezett tevékenység megkezdését megelőzően tíz nappal a tevékenység tényleges végzésének megkezdését a hatóságnak elektronikus úton be kell jelenteni.
 
-[^18]: Az 53. § (2) bekezdés nyitó szövegrésze a 134/2018. (VII. 23.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^20]: Az 53. § (2) bekezdés nyitó szövegrésze a 134/2018. (VII. 23.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
