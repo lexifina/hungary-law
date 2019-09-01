@@ -1,3 +1,5 @@
+## 18. §
+
 ## 18. A bejelentett szervezetre vonatkozó követelmények
 
 19. § (1) A megfelelőségértékelő szervezet biztosítja, hogy leányvállalatai és alvállalkozói tevékenysége ne befolyásolja megfelelőségértékelési tevékenységének bizalmas jellegét, objektivitását és pártatlanságát.

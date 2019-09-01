@@ -1,4 +1,4 @@
-## 22. § Amennyiben a bejelentő hatóság megállapítja, hogy a bejelentett szervezet már nem teljesíti a 19. §-ban meghatározott követelményeket, vagy elmulasztja teljesíteni kötelezettségeit, akkor a bejelentő hatóság haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot.
+## 22. §
 
 ## 22. A bejelentett szervezetek működési kötelezettségei
 
@@ -10,6 +10,6 @@
 
 (4) A bejelentett szervezet a megfelelőségértékelési tevékenysége során kiadott dokumentumokat – így különösen a vizsgálati, ellenőrzési jegyzőkönyvet, tanúsítványt – 10 évig köteles megőrizni.
 
-(5)[^3] Ha a tanúsítvány vagy a jóváhagyási döntés kiadása után a megfelelőség ellenőrzése során a bejelentett szervezet megállapítja, hogy a felvonó vagy egy a felvonókhoz készült biztonsági berendezés már nem megfelelő, akkor legalább 15 napos határidő közlésével felszólítja a felvonószerelő vállalkozást vagy a gyártót a megfelelő kiigazító intézkedések megtételére.
+(5)[^6] Ha a tanúsítvány vagy a jóváhagyási döntés kiadása után a megfelelőség ellenőrzése során a bejelentett szervezet megállapítja, hogy a felvonó vagy egy a felvonókhoz készült biztonsági berendezés már nem megfelelő, akkor legalább 15 napos határidő közlésével felszólítja a felvonószerelő vállalkozást vagy a gyártót a megfelelő kiigazító intézkedések megtételére.
 
-[^3]: A 23. § (5) bekezdését a 62/2016. (XII. 29.) NGM rendelet 35. § (1) bekezdése iktatta be.
+[^6]: A 23. § (5) bekezdését a 62/2016. (XII. 29.) NGM rendelet 35. § (1) bekezdése iktatta be.
