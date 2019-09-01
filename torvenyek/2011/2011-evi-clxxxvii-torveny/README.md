@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-187-00-00
 | 2019-01-01 | 2018. évi CIV. törvény | 2011-187-00-00.25 |
 | 2019-01-11 | 2018. évi CXXXVII. törvény | 2011-187-00-00.26 |
 | 2019-04-28 | 2019. évi XL. törvény | 2011-187-00-00.27 |
+| 2019-09-01 | 2019. évi LXVI. törvény | 2011-187-00-00.28 |

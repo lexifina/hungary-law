@@ -22,4 +22,4 @@ j) a Szakképzési Hídprogram megszervezésének feltételeit, a Szakképzési 
 
 k) a szakképzési centrumok felnőttoktatási tevékenységének normatív támogatásával összefüggésben a támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
 
-l) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartásába ágazati képző központként történő felvétel feltételeit.
+l)

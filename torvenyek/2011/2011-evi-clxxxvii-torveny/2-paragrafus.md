@@ -110,7 +110,7 @@
 
 50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől térben vagy időben teljesen elkülönített, a nyilvántartást vezető szerv által a gyakorlati képzés időtartama alatt kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhely-vezetői felügyelettel működő, legalább nyolc tanuló képzésére alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben;
 
-51. ágazati képző központ: több gazdálkodó szervezet által létrehozott, a szakképzésért és felnőttképzésért felelős miniszter által rendeletben kiadott feltételeknek megfelelő gyakorlati képzést szervező;
+51.
 
 52. ágazaton belüli specializáció: a szakgimnáziumi ágazati képzés esetén az adott ágazaton belül egyes szakképesítések vagy azok csoportjának sajátos ágazati szakmai tartalma;
 
