@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-23-20-2
 | --- | --- | --- |
 | 2016-07-15 | 2016-23-20-2X.1 | 23/2016. (VII. 7.) NGM rendelet |
 | 2016-07-16 | 2016-23-20-2X.2 | 2010: CXXX. törvény |
+| 2019-09-01 | 2016-23-20-2X.3 | 25/2019. (VIII. 26.) ITM rendelet |
