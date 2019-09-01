@@ -664,7 +664,7 @@
 
 ## □ az Országos Fordító és Fordításhitelesítő Iroda fordítását vagy igazolását;
 
-## □ a Magyar Tudományos Akadémia Nyelvtudományi Intézetének szakvéleményét;
+## □ a Nyelvtudományi Intézet szakvéleményét;
 
 ## □ egyéb szakvéleményt: ............................................................................................................
 

@@ -554,7 +554,7 @@ okirat: ........................................................................
 
 □ az Országos Fordító és Fordításhitelesítő Iroda fordítását vagy igazolását;
 
-□ a Magyar Tudományos Akadémia Nyelvtudományi Intézetének szakvéleményét;
+□ a Nyelvtudományi Intézet szakvéleményét;
 
 □ egyéb szakvéleményt: .............................................................................................
 
@@ -676,4 +676,4 @@ Megjegyzéseim: ................................................................
 
 |  | .......................................................................... a kérelmet átvevő aláírása |
 
-[^103]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 8. § (8) bekezdésével megállapított szöveg.
+[^103]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 8. § (8) bekezdésével megállapított, a 204/2019. (VIII. 23.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

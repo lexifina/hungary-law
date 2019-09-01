@@ -8,7 +8,7 @@
 
 (2b)[^75] Az Ápt. 20/A. § (1) bekezdés b)–d) pontjára alapozott névmódosítási kérelemhez nem kell mellékelni az állampolgársági ügyekben eljáró szerv által hivatalosan ismert és a köztudomású tényeket bizonyító okiratot vagy szakvéleményt.
 
-(3)[^76] Az Ápt. 20/A. § (1) bekezdés b) és c) pontjára alapozott névmódosítási kérelemhez – ha a (2a) és (2b) bekezdésben meghatározott feltételeknek a névmódosítási kérelem nem felel meg – az állampolgársági ügyekben eljáró szerv felhívására mellékelni kell az Országos Fordító és Fordításhitelesítő Iroda fordítását, illetve igazolását vagy a Magyar Tudományos Akadémia vagy intézetei szakvéleményét a név vagy névelem nyelvi jellemzőjéről.
+(3)[^76] Az Ápt. 20/A. § (1) bekezdés b) és c) pontjára alapozott névmódosítási kérelemhez – ha a (2a) és (2b) bekezdésben meghatározott feltételeknek a névmódosítási kérelem nem felel meg – az állampolgársági ügyekben eljáró szerv felhívására mellékelni kell az Országos Fordító és Fordításhitelesítő Iroda fordítását, illetve igazolását vagy a Bölcsészettudományi Kutatóközpont szakvéleményét a név vagy névelem nyelvi jellemzőjéről.
 
 (3a)[^77] Az Ápt. 20/A. § (1) bekezdés d) pontjára alapozott névmódosítási kérelemhez – ha a (2a) és (2b) bekezdésben meghatározott feltételeknek a névmódosítási kérelem nem felel meg – az állampolgársági ügyekben eljáró szerv felhívására a (2) bekezdés szerinti okiratot kell mellékelni.
 
@@ -24,7 +24,7 @@
 [^73]: A 13/A. § (2) bekezdése a 340/2010. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^74]: A 13/A. § (2a) bekezdését a 340/2010. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
 [^75]: A 13/A. § (2b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^76]: A 13/A. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^76]: A 13/A. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 204/2019. (VIII. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^77]: A 13/A. § (3a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 7. § (3) bekezdése iktatta be.
 [^78]: A 13/A. § (4) bekezdése a 116/2007. (V. 24.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^79]: A 13/A. § (5) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 148. §-ával megállapított szöveg.
