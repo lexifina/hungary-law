@@ -1,4 +1,4 @@
-## 18. § A bejelentő hatóság tájékoztatja a Bizottságot a megfelelőségértékelő szervezetek értékelésére és bejelentésére, valamint a bejelentett szervezetek ellenőrzésére irányuló eljárásairól, továbbá ezek bármilyen változásáról.
+## 18. §
 
 ## 17. A bejelentett szervezetre vonatkozó követelmények
 

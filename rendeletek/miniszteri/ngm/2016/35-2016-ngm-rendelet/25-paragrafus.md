@@ -1,3 +1,5 @@
+## 24. §
+
 ## 23. A bejelentett szervezet működési kötelezettségei
 
 25. § (1) A bejelentett szervezet a 3–7. és a 9. mellékletben előírt megfelelőségértékelési eljárásokkal összhangban végzi el a megfelelőségértékelést.

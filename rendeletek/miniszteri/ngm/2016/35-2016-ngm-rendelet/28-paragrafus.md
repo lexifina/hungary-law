@@ -1,5 +1,5 @@
-## V. Fejezet
+## 27. §
 
-## AZ UNIÓS PIACRA BELÉPŐ TERMÉKEK PIACFELÜGYELETI ELLENŐRZÉSE ÉS A VÉDINTÉZKEDÉSI ELJÁRÁS
+## V. Fejezet[^13]
 
-## 26. Piacfelügyelet és az uniós piacra belépő termékek ellenőrzése
+[^13]: Az V. fejezetet (28–33. §) a 25/2019. (VIII. 26.) ITM rendelet 20. §-a hatályon kívül helyezte.

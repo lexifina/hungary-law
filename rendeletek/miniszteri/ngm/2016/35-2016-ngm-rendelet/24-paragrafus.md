@@ -1,5 +1,5 @@
-## 22. A bejelentés változásai
+## 23. §
 
-24. § (1) Amennyiben a bejelentő hatóság az eset összes körülményének figyelembe vételével megállapítja, hogy a bejelentett szervezet már nem tesz eleget a 19. §-ban meghatározott követelményeknek vagy elmulasztja teljesíteni kötelezettségeit, haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot.
+## 22.[^11]
 
-(2) Amennyiben a bejelentést korlátozzák, felfüggesztik vagy visszavonják, vagy ha a bejelentett szervezet megszüntette tevékenységét, a bejelentő tagállam megteszi a szükséges lépéseket annak biztosítása érdekében, hogy az említett szervezet dokumentációját vagy egy másik bejelentett szervezet dolgozza fel, vagy pedig kérésre az illetékes bejelentő vagy piacfelügyeleti hatóság számára elérhető legyen.
+[^11]: A 22. alcímet (24. §) a 25/2019. (VIII. 26.) ITM rendelet 21. §-a hatályon kívül helyezte.
