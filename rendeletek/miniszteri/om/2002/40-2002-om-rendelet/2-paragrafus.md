@@ -1,3 +1,3 @@
-## 1/B. §[^6] A szakmai érettségi vizsga ágazathoz, szakmairányhoz kapcsolódó vizsgatárgyait a Melléklet tartalmazza.
+## 1/C. §[^7] Az érettségi vizsga során a vak, gyengénlátó és mozgásszervi fogyatékos tanulók a nyomtatott nem enciklopédikus szótár helyett a szótár digitalizált, világháló-kapcsolattal nem rendelkező változatát is használhatják.
 
-[^6]: Az 1/B. §-t a 19/2016. (VIII. 23.) EMMI rendelet 2. §-a iktatta be.
+[^7]: Az 1/C. §-t a 20/2019. (VIII. 30.) EMMI rendelet 1. §-a iktatta be.
