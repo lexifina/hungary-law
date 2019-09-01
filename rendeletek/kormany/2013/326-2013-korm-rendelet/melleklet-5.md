@@ -62,11 +62,11 @@
 
 | 30 | pedagógiai felügyelő | amennyiben a kollégium nevelőtestülete e rendelet hatálybalépését megelőzően döntött a munkakör bevezetéséről, kollégiumban nemenként és épületenként 100 tanulóra számítva, de legalább | 1 |
 
-5. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^247]
+5. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^248]
 
-A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat[^248]
+A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat[^249]
 
-1.[^249] Jelen szabályzat a ... (köznevelési intézmény) és a vele munkaviszonyban/közalkalmazotti jogviszonyban álló, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra terjed ki.
+1.[^250] Jelen szabályzat a ... (köznevelési intézmény) és a vele munkaviszonyban/közalkalmazotti jogviszonyban álló, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra terjed ki.
 
 2. Jelen szabályzat alkalmazásában
 
@@ -80,7 +80,7 @@ A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő é
 
 3. A gyakornokokra vonatkozó, a minősítés alapjául szolgáló, a munkáltató szervezetéhez és a betöltött munkakör követelményeihez kapcsolódó szakmai követelményrendszer
 
-3.1.[^250] A pedagógus szakképzettséghez vagy szakképesítéshez kapcsolódó követelmény a hospitálás: a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott nevelési, vagy tanítási félévenként legalább öt, pedagógus szakképzettségének vagy szakképesítésének megfelelő tanórát vagy foglalkozást köteles látogatni.
+3.1.[^251] A pedagógus szakképzettséghez vagy szakképesítéshez kapcsolódó követelmény a hospitálás: a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott nevelési, vagy tanítási félévenként legalább öt, pedagógus szakképzettségének vagy szakképesítésének megfelelő tanórát vagy foglalkozást köteles látogatni.
 
 3.2. A betöltött nevelő és oktató munkát közvetlenül segítő munkakörhöz kapcsolódó követelmények:
 
@@ -162,7 +162,7 @@ A pontszámok alapján a gyakornok munkájának értékelése lehet: kiválóan 
 
 6. Jelen szabályzat ...-án lép hatályba.
 
-[^247]: Az 5. mellékletet a 235/2016. (VII. 29.) Korm. rendelet 36. § b) pontja iktatta be.
-[^248]: Az 5. melléklet címe a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^249]: Az 5. melléklet 1. pontja a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^250]: Az 5. melléklet 3. pont 3.1. alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^248]: Az 5. mellékletet a 235/2016. (VII. 29.) Korm. rendelet 36. § b) pontja iktatta be.
+[^249]: Az 5. melléklet címe a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^250]: Az 5. melléklet 1. pontja a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^251]: Az 5. melléklet 3. pont 3.1. alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
