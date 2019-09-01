@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-0
 | 2016-01-01 | 2007-51-20-0L.5 | 35/2015. (XII. 23.) NGM rendelet |
 | 2017-01-01 | 2007-51-20-0L.6 | 62/2016. (XII. 29.) NGM rendelet |
 | 2018-09-19 | 2007-51-20-0L.7 | 14/2018. (IX. 4.) ITM rendelet |
+| 2019-09-01 | 2007-51-20-0L.8 | 25/2019. (VIII. 26.) ITM rendelet |
