@@ -1,4 +1,4 @@
-94. § (1)[^63] Az ügyfél az ügyintézési rendelkezése keretében a meghatalmazását megadhatja:
+94. § (1)[^66] Az ügyfél az ügyintézési rendelkezése keretében a meghatalmazását megadhatja:
 
 a) a szolgáltató által közzétett lista szerint létrehozott űrlapon, vagy
 
@@ -12,4 +12,4 @@ b) az a) pontban meghatározott listán nem szereplő ügy tekintetében az ügy
 
 (5) A meghatalmazott az ügyben a képviseleti jogosultságát az ügyintézési rendelkezések nyilvántartására hivatkozással is igazolhatja. A meghatalmazást az elektronikus ügyintézést biztosító szerv vagy más szolgáltató a meghatalmazás azonosítójának vagy a meghatalmazott azonosító adatainak megadásával kérdezheti le.
 
-[^63]: A 94. § (1) bekezdése a 179/2018. (X. 2.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^66]: A 94. § (1) bekezdése a 179/2018. (X. 2.) Korm. rendelet 17. §-ával megállapított szöveg.

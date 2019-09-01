@@ -10,6 +10,12 @@ a) állami vagy önkormányzati költségvetési szerv, vagy
 
 b)[^30] jogszabályban meghatározott, kizárólag központi költségvetési forrásból fedezett vagy központi költségvetési forrásból 100%-ig támogatott állami közfeladatának elősegítése érdekében veszi igénybe a SZEÜSZ-t, valamint a KEÜSZ-t.
 
+(2a)[^31] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a központi azonosítási ügynök KEÜSZ szolgáltatást az E-ügyintézési tv. 1. § 30a. pontjában szabályozott központi állami szolgáltatásként díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult a 150. § (1) bekezdésében meghatározott nyilvántartásokban vagy adatbázisokban szereplő adatok szolgáltatására, illetve igénybevételére.
+
+(2b)[^32] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a központi azonosítási ügynök KEÜSZ szolgáltatás (2a) bekezdésben meghatározott igénybevételére jogosult az E-ügyintézési tv. 1. § 17. pont j) és l) alpontja szerinti elektronikus ügyintézést biztosító szerv is.
+
+(2c)[^33] A központi állami szolgáltatások igénybevételére vonatkozó részletes szabályokat, a szolgáltatóval kötendő megállapodás tartalmát, valamint a (4) bekezdés a)–c) pontjában szereplő korlátozások alkalmazásának a szabályait az e-közigazgatásért felelős miniszter rendeletben állapítja meg.
+
 (3) Piaci szereplő nem vehet igénybe a kormányzati hitelesítésszolgáltató által nyújtott bizalmi szolgáltatást.
 
 (4) Nincs helye az (1) bekezdés szerinti, az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló Korm. rendeletben SZEÜSZ vagy KEÜSZ nyújtására kijelölt szolgáltató (a továbbiakban: a Kormány rendeletében kijelölt szolgáltató) esetében a szerződés megkötésének, ha a tervezett igénybevétel
@@ -36,3 +42,6 @@ b) ha az igénybevevő nem teljesíti a szerződésben vállalt kötelezettsége
 [^28]: A 68/A. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés a) pontja szerint módosított szöveg.
 [^29]: A 68/A. § (2) bekezdése a 179/2018. (X. 2.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^30]: A 68/A. § (2) bekezdés b) pontja a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 68/A. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^32]: A 68/A. § (2b) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^33]: A 68/A. § (2c) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
