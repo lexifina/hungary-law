@@ -36,9 +36,9 @@
 
 15. Országos Meteorológiai Szolgálat,
 
-16. MTA Csillagászati és Földtudományi Kutatóközpont Geodéziai és Geofizikai Intézet,
+16.[^9] Csillagászati és Földtudományi Kutatóközpont Geodéziai és Geofizikai Intézet,
 
-17.[^9] közlekedésbiztonsági szerv,
+17.[^10] közlekedésbiztonsági szerv,
 
 18. Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság, Útinform,
 
@@ -70,4 +70,5 @@
 [^6]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 233. §-a szerint módosított szöveg.
 [^7]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 758. §-a.
 [^8]: Az 1. melléklet 12. pontját a 379/2016. (XII. 2.) Korm. rendelet 247. § (2) bekezdése hatályon kívül helyezte.
-[^9]: Az 1. melléklet 17. pontja a 230/2016. (VII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 16. pontja a 204/2019. (VIII. 23.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^10]: Az 1. melléklet 17. pontja a 230/2016. (VII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
