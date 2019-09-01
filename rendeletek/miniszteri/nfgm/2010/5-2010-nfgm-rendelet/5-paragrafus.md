@@ -1,3 +1,5 @@
-## 4. § A kijelölésre vonatkozó döntés előkészítésében részt vevő személy írásban nyilatkozik arról, hogy az R. 10. §-ában meghatározott kizárási ok nem áll fenn.
+## 4. §[^4]
 
 ## Az engedély időbeli hatálya
+
+[^4]: A 4. §-t a 25/2019. (VIII. 26.) ITM rendelet 7. §-a hatályon kívül helyezte.

@@ -1,3 +1,5 @@
+## 9. §[^7]
+
 ## A kijelölési eljárásért fizetendő igazgatási szolgáltatási díj megfizetésére és a felhasználására vonatkozó szabályok
 
 10. § (1) Az igazgatási szolgáltatási díj mértéke, ha a kérelmezett megfelelőségértékelési terület nem tartozik harmonizációs uniós jogi aktus hatálya alá, – a 2. mellékletben meghatározott – jogszabályonként
@@ -28,5 +30,6 @@ c)[^9]
 
 kell alkalmazni.
 
+[^7]: A 9. §-t a 25/2019. (VIII. 26.) ITM rendelet 7. §-a hatályon kívül helyezte.
 [^8]: A 10. § (4) bekezdése a 14/2018. (IX. 4.) ITM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^9]: A 10. § (6) bekezdés c) pontját a 62/2016. (XII. 29.) NGM rendelet 21. § (2) bekezdése hatályon kívül helyezte.
