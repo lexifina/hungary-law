@@ -18,6 +18,8 @@ b) 5. § (1) bekezdésében meghatározott jogalanyiságát nem érinti.
 
 (5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának időpontjában megszűnik és – a (7) és (8) bekezdésben meghatározottak szerint – a megszűnését követő nappal munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
 
+(5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának időpontjában megszűnik és – a (7) és (8) bekezdésben meghatározottak szerint – a megszűnését követő nappal munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
+
 (6) Az (5) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első
 
 a) évében a közalkalmazottak jogállásáról szóló törvénynek a munkáltatói felmentésre,
