@@ -1,5 +1,6 @@
-## 16. A sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézség megállapításával összefüggő eljárás során alkalmazott eljárási szabályok
+## 16.[^115]
 
-40. §[^103]
+40. §[^116]
 
-[^103]: A 40–41. §-t a 12/2018. (III. 27.) EMMI rendelet 5. § b) pontja hatályon kívül helyezte.
+[^115]: A 16. alcímet a 20/2019. (VIII. 30.) EMMI rendelet 40. § e) pontja hatályon kívül helyezte.
+[^116]: A 40. §-t a 12/2018. (III. 27.) EMMI rendelet 5. § b) pontja hatályon kívül helyezte.

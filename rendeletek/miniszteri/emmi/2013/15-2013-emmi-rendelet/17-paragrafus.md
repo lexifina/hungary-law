@@ -12,17 +12,17 @@ c) a korai fejlesztés és gondozás szükségességét, az ennek keretében ny�
 
 d) annak megállapítását, hogy a sajátos nevelési igényű gyermek, tanuló az e célra létrehozott, a fogyatékosság típusának megfelelő nevelési-oktatási intézményben, osztályban, csoportban, tagozaton vagy a többi gyermekkel, tanulóval közösen is részt vehet az óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben,
 
-e) annak megállapítását, hogy a sajátos nevelési igényű tanuló a tankötelezettségét kizárólagosan iskolába járással, illetve kizárólagosan magántanulóként teljesítheti,
+e)[^50] annak megállapítását, hogy a sajátos nevelési igényű tanuló a tankötelezettségét kizárólagosan iskolába járással, illetve kizárólagosan egyéni munkarend keretében teljesítheti,
 
-f) ha a tanuló a tankötelezettségét kizárólagosan magántanulóként teljesítheti, a heti foglalkoztatás idejét és a felkészüléshez szükséges szakembereket,
+f)[^51] ha a tanuló a tankötelezettségét kizárólagosan egyéni munkarend keretében teljesítheti, a heti foglalkoztatás idejét és a felkészüléshez szükséges szakembereket,
 
 g) annak megállapítását, hogy a tanuló a tankötelezettségét fejlesztő nevelés-oktatás, illetőleg a fejlesztő nevelés-oktatást nyújtó iskola által szervezett egyéni fejlesztés keretében teljesíti,
 
 h) a gyermek, tanuló sajátos nevelési igényének megfelelő
 
-ha)[^44] óvodára, csoportra (a továbbiakban együtt: kijelölt óvoda),
+ha)[^52] óvodára, csoportra (a továbbiakban együtt: kijelölt óvoda),
 
-hb)[^45] általános iskolára, középfokú iskolára, fejlesztő nevelés-oktatást végző iskolára, csoportra, osztályra, tagozatra (a továbbiakban együtt: kijelölt iskola),
+hb)[^53] általános iskolára, középfokú iskolára, fejlesztő nevelés-oktatást végző iskolára, csoportra, osztályra, tagozatra (a továbbiakban együtt: kijelölt iskola),
 
 hc) kollégiumra [a h) pont alattiak a továbbiakban együtt: kijelölt nevelési-oktatási intézmény]
 
@@ -30,11 +30,11 @@ vonatkozó javaslatot és a kijelölt nevelési-oktatási intézmény megjelöl�
 
 i) a hivatalból történő felülvizsgálat időpontját,
 
-j)[^46] a gyermek, tanuló nevelésével, oktatásával kapcsolatos sajátos követelményeket, fejlesztési feladatokat, a fejlesztési feladatok ellátásának javasolt időkeretét, javaslatot az egyes tantárgyakból, tantárgyrészekből az értékelés és minősítés alóli mentesítésre,
+j)[^54] a gyermek, tanuló nevelésével, oktatásával kapcsolatos sajátos követelményeket, fejlesztési feladatokat, a fejlesztési feladatok ellátásának javasolt időkeretét, javaslatot az egyes tantárgyakból, tantárgyrészekből az értékelés és minősítés alóli mentesítésre,
 
 k) a szükséges szakemberre vonatkozó javaslatot,
 
-l)[^47]
+l)[^55]
 
 m) a szülő tájékoztatását a 18. §-ban foglalt jogairól és kötelezettségeiről.
 
@@ -44,13 +44,15 @@ m) a szülő tájékoztatását a 18. §-ban foglalt jogairól és kötelezetts�
 
 (4) Ha az eljárásban szakszolgálati-esélyegyenlőségi szakértő működik közre, a szülő tájékoztatásánál jelen kell lennie. A szakszolgálati-esélyegyenlőségi szakértő a szakértői bizottság munkájával és megállapításaival kapcsolatosan kifejtheti véleményét, és javasolhatja a szülőnek, hogy éljen a felülvizsgálat kezdeményezésének jogával.
 
-(5)[^48] A szakértői véleményt, az e bekezdésben foglalt kivétellel – a vizsgálat lezárását követő huszonegy napon belül – kézbesíteni kell a szülőnek. Amennyiben a szülő a 16. § (3) bekezdése alapján összeállított intézményjegyzékről köznevelési intézményt nem választ, a szakértői bizottság a vizsgálat lezárását követő harmincadik napon a gyermeket, tanulót ellátó intézményt saját választása alapján kijelöli és a szakértői véleményt a kijelöléstől számított öt munkanapon belül a szülőnek kézbesíti.
+(5)[^56] A szakértői véleményt, az e bekezdésben foglalt kivétellel – a vizsgálat lezárását követő huszonegy napon belül – kézbesíteni kell a szülőnek. Amennyiben a szülő a 16. § (3) bekezdése alapján összeállított intézményjegyzékről köznevelési intézményt nem választ, a szakértői bizottság a vizsgálat lezárását követő harmincadik napon a gyermeket, tanulót ellátó intézményt saját választása alapján kijelöli és a szakértői véleményt a kijelöléstől számított öt munkanapon belül a szülőnek kézbesíti.
 
-(6)[^49] A kézbesítés történhet postai úton, személyesen vagy kézbesítő útján. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a szülő általi átvétele megtörtént, vagy amely napon a szülő az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+(6)[^57] A kézbesítés történhet postai úton, személyesen vagy kézbesítő útján. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a szülő általi átvétele megtörtént, vagy amely napon a szülő az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
-[^44]: A 17. § (1) bekezdés h) pont ha) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
-[^45]: A 17. § (1) bekezdés h) pont hb) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
-[^46]: A 17. § (1) bekezdés j) pontja a 8/2014. (I. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^47]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
-[^48]: A 17. § (5) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 32. §-ával megállapított szöveg.
-[^49]: A 17. § (6) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 32. §-a iktatta be.
+[^50]: A 17. § (1) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja szerint módosított szöveg.
+[^51]: A 17. § (1) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja szerint módosított szöveg.
+[^52]: A 17. § (1) bekezdés h) pont ha) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^53]: A 17. § (1) bekezdés h) pont hb) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^54]: A 17. § (1) bekezdés j) pontja a 8/2014. (I. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^55]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^56]: A 17. § (5) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 32. §-ával megállapított szöveg.
+[^57]: A 17. § (6) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 32. §-a iktatta be.

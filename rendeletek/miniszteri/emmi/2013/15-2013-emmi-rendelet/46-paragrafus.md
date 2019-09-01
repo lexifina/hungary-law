@@ -1,5 +1,5 @@
-## 45/B. §[^121] Ha a gyermek esetében a 25. § (3) bekezdése szerinti hároméveskori szűrésnek megfelelő szűrés 2017. szeptember 1. napja előtt nem történt, a gyermek ötéveskori szűrése a nyelvi fejlettségre (receptív és expresszív nyelv), a beszédartikulációra, illetve az írott nyelvi (írás és olvasás) készültségre irányul.
+## 45/C. §[^133] A nevelési-oktatási intézményben foglalkoztatott pedagógus munkáltatója az Intézmény írásbeli kérelmére, az Nkt. 65. § (5b) bekezdése szerinti célfeladatot állapíthat meg a pedagógus részére pedagógiai szakszolgálati tevékenységnek az Intézmény számára történő ellátására, ha a pedagógus a megfelelő szakképzettséggel rendelkezik és vállalja, hogy a célfeladatot az e rendeletben foglaltak szerint, az Intézmény szakmai vezetése alatt, az Intézmény pedagógusaira vonatkozó szabályok betartásával végzi. A célfeladat megállapításakor előnyben kell részesíteni azt a pedagógust, aki egyebekben a célfeladat ellátásával megegyező feladat-ellátási helyen végzi nevelési-oktatási feladatait. A célfeladatot vissza kell vonni, ha azt az Intézmény írásban kezdeményezi.
 
 ## 18. Záró rendelkezések
 
-[^121]: A 45/B. §-t az 53/2016. (XII. 29.) EMMI rendelet 43. §-a iktatta be.
+[^133]: A 45/C. §-t a 20/2019. (VIII. 30.) EMMI rendelet 38. §-a iktatta be.

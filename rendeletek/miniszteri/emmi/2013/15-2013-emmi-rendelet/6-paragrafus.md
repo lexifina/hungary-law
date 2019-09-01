@@ -1,5 +1,5 @@
-## 4.[^19]
+## 4.[^21]
 
 6. §
 
-[^19]: A 4. alcímet (6. §) az 53/2016. (XII. 29.) EMMI rendelet 48. § a) pontja hatályon kívül helyezte.
+[^21]: A 4. alcímet (6. §) az 53/2016. (XII. 29.) EMMI rendelet 48. § a) pontja hatályon kívül helyezte.

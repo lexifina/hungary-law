@@ -1,10 +1,10 @@
 ## 11. Az iskolapszichológiai, óvodapszichológiai ellátás
 
-29. § (1)[^74] Az Nkt. 18. § (2) bekezdés h) pontja szerinti iskolapszichológiai, óvodapszichológiai ellátás feladata a pedagógiai szakszolgálati intézményben a nevelési-oktatási intézményekben dolgozó pszichológusok munkájának összefogása és segítése, melyet az iskola- és óvodapszichológus feladatok koordinátora lát el.
+29. § (1)[^85] Az Nkt. 18. § (2) bekezdés h) pontja szerinti iskolapszichológiai, óvodapszichológiai ellátás feladata a pedagógiai szakszolgálati intézményben a nevelési-oktatási intézményekben dolgozó pszichológusok munkájának összefogása és segítése, melyet az iskola- és óvodapszichológus feladatok koordinátora lát el.
 
 (2) Az iskola- és óvodapszichológiai feladatok koordinátorának a feladatai:
 
-a)[^75] az óvodai, iskolai preventív szűrések járási szintű koordinációja, együttműködés a pszichológiai tárgyú mérésekben és az eredmények kommunikációjában,
+a)[^86] az óvodai, iskolai preventív szűrések járási szintű koordinációja, együttműködés a pszichológiai tárgyú mérésekben és az eredmények kommunikációjában,
 
 b) a nevelési-oktatási intézményekben foglalkoztatott pszichológusok számára legalább havi rendszerességgel szakmai konzultációs foglalkozások szervezése,
 
@@ -22,8 +22,8 @@ h) a pedagógiai szakszolgálatnál önkéntesen bejelentkező, az óvodától, 
 
 (3) Az iskola- és óvodapszichológus koordinátor kapcsolatot tart a miniszter által az országos szakmai irányítási feladatok ellátásában való közreműködésbe bevont Országos Iskolapszichológiai Módszertani Bázissal.
 
-(4)[^76] Ha az Intézmény működési körzetében működő nevelési-oktatási intézményben az iskolapszichológus, óvodapszichológus munkakör nem került betöltésre, az adott munkakör betöltéséig, a nevelési-oktatási intézmény vezetőjének erre vonatkozó írásbeli kérésére az Intézmény támogatást nyújthat az ellátás iránti igény kielégítéséhez.
+(4)[^87] Ha az Intézmény működési körzetében működő nevelési-oktatási intézményben az iskolapszichológus, óvodapszichológus munkakör nem került betöltésre, az adott munkakör betöltéséig, a nevelési-oktatási intézmény vezetőjének erre vonatkozó írásbeli kérésére az Intézmény támogatást nyújthat az ellátás iránti igény kielégítéséhez.
 
-[^74]: A 29. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 19. pont a) alpontja szerint módosított szöveg.
-[^75]: A 29. § (2) bekezdés a) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 19. pont b) alpontja szerint módosított szöveg.
-[^76]: A 29. § (4) bekezdését a 8/2014. (I. 30.) EMMI rendelet 17. §-a iktatta be.
+[^85]: A 29. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 19. pont a) alpontja szerint módosított szöveg.
+[^86]: A 29. § (2) bekezdés a) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 19. pont b) alpontja szerint módosított szöveg.
+[^87]: A 29. § (4) bekezdését a 8/2014. (I. 30.) EMMI rendelet 17. §-a iktatta be.

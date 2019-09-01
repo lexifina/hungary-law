@@ -1,6 +1,6 @@
 ## 5. A szakértői bizottsági tevékenység
 
-7. § (1)[^20] Az Nkt. 18. § (2) bekezdés b) pontja szerinti szakértői bizottsági tevékenység keretében az intézmény szakértői bizottsága a gyermek, a tanuló komplex pszichológiai, pedagógiai-gyógypedagógiai, továbbá szükség szerint orvosi, sajátos nevelési igény gyanúja esetén komplex pszichológiai, pedagógiai-gyógypedagógiai, orvosi vizsgálat alapján szakértői véleményt készít
+7. § (1)[^22] Az Nkt. 18. § (2) bekezdés b) pontja szerinti szakértői bizottsági tevékenység keretében az intézmény szakértői bizottsága a gyermek, a tanuló komplex pszichológiai, pedagógiai-gyógypedagógiai, továbbá szükség szerint orvosi, sajátos nevelési igény gyanúja esetén komplex pszichológiai, pedagógiai-gyógypedagógiai, orvosi vizsgálat alapján szakértői véleményt készít
 
 a) az iskolába lépéshez szükséges fejlettség megállapítása céljából
 
@@ -18,7 +18,7 @@ af) ha a szülő nem ért egyet a hatodik életévét augusztus 31-ig betöltő 
 
 b) a beilleszkedési, a tanulási, a magatartási nehézség megállapítása vagy kizárása,
 
-c)[^21] a sajátos nevelési igény – a mozgásszervi, az érzékszervi (a látási, a hallási), az értelmi, a beszédfogyatékosság, több fogyatékosság együttes előfordulása esetén a halmozott fogyatékosság, az autizmus spektrum zavar vagy az egyéb pszichés fejlődési zavar: súlyos tanulási, figyelem- vagy magatartásszabályozási zavar – megállapítása vagy kizárása,
+c)[^23] a sajátos nevelési igény – a mozgásszervi, az érzékszervi (a látási, a hallási), az értelmi, a beszédfogyatékosság, több fogyatékosság együttes előfordulása esetén a halmozott fogyatékosság, az autizmus spektrum zavar vagy az egyéb pszichés fejlődési zavar: súlyos tanulási, figyelem- vagy magatartásszabályozási zavar – megállapítása vagy kizárása,
 
 d) sajátos nevelési igényű tanuló esetében
 
@@ -32,5 +32,5 @@ céljából, és a vizsgálatok eredményei alapján javaslatot tesz a beilleszk
 
 (3) Az (1) bekezdés d) pontjában meghatározott esetekben a szakértői vélemény elkészítésekor – amennyiben a szakértői bizottság rendelkezésére álló vizsgálati dokumentumokból a szakértői vélemény elkészítéséhez szükséges információk egyértelműen megállapíthatóak – a tanuló újabb vizsgálata mellőzhető.
 
-[^20]: A 7. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 6. pont a) alpontja szerint módosított szöveg.
-[^21]: A 7. § (1) bekezdés c) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 6. pont b) alpontja szerint módosított szöveg.
+[^22]: A 7. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 6. pont a) alpontja szerint módosított szöveg.
+[^23]: A 7. § (1) bekezdés c) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 6. pont b) alpontja szerint módosított szöveg.

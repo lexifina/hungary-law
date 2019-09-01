@@ -28,11 +28,11 @@ c) 5–6 éves kor között legalább heti öt óra.
 
 a) otthoni ellátás keretében vagy
 
-b) a pedagógiai szakszolgálati intézmény fenntartójával infrastruktúra-használatra vonatkozó szerződést kötött intézményben
+b)[^17] a gyermek gondozását végző intézményben
 
 kerül sor.
 
-(9) Otthoni ellátás vagy a pedagógiai szakszolgálati intézmény fenntartójával infrastruktúra- használatra vonatkozó szerződést kötött intézményben történő ellátás esetén az (6) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.
+(9)[^18] Otthoni ellátás keretében vagy a gyermek gondozását végző intézményben történő ellátás esetén a (6) bekezdésben meghatározott időkeretet – a szülő egyetértésével és a gondozásba történő bevonásával – a fejlesztési év átlagában kell teljesíteni.
 
 [^11]: A 3. alcím címe az 53/2016. (XII. 29.) EMMI rendelet 47. § 3. pontja szerint módosított szöveg.
 [^12]: A 4. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (1) bekezdésével megállapított és 47. § 4. pontja szerint módosított szöveg.
@@ -40,3 +40,5 @@ kerül sor.
 [^14]: A 4. § (2a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 23. §-a iktatta be.
 [^15]: A 4. § (6) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 24. §-ával megállapított szöveg.
 [^16]: A 4. § (7a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 25. §-a iktatta be.
+[^17]: A 4. § (8) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § (9) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 30. § (2) bekezdésével megállapított szöveg.
