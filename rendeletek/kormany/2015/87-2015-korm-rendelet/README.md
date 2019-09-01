@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2018-09-01 | 2015-87-20-22.18 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2019-05-01 | 2015-87-20-22.19 | 82/2019. (IV. 18.) Korm. rendelet |
 | 2019-08-01 | 2015-87-20-22.20 | 191/2019. (VII. 30.) Korm. rendelet |
+| 2019-09-01 | 2015-87-20-22.21 | 345/2015. (XI. 19.) Korm. rendelet |
