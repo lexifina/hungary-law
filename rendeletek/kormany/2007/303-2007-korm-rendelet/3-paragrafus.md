@@ -30,15 +30,15 @@ j)[^16] a vízgazdálkodásért felelős miniszter a vízgazdálkodással össze
 
 a) a Magyar Tudományos Akadémia (a továbbiakban: MTA) Magyar Nyelvi Osztályközi Állandó Bizottságát a földrajzi nevek helyesírásával,
 
-b) az MTA Nyelvtudományi Intézetét a földrajzi nevek névtani, nyelvjárási kérdéseivel,
+b) a Nyelvtudományi Intézetet a földrajzi nevek névtani, nyelvjárási kérdéseivel,
 
-c) az MTA Bölcsészettudományi Kutatóközpont Történettudományi Intézetét a földrajzi nevek történeti hátterével,
+c) a Bölcsészettudományi Kutatóközpont Történettudományi Intézetét a földrajzi nevek történeti hátterével,
 
-d) az MTA Csillagászati és Földtudományi Kutatóközpont Földrajztudományi Intézetét a földrajzi tájbeosztásokkal összefüggő földrajzi nevekkel,
+d) a Csillagászati és Földtudományi Kutatóközpont Földrajztudományi Intézetét a földrajzi tájbeosztásokkal összefüggő földrajzi nevekkel,
 
 e) az Eötvös Loránd Tudományegyetem Térképtudományi és Geoinformatikai Tanszékét a térképtudománnyal, geoinformatikával összefüggő földrajzi nevekkel
 
-kapcsolatos bizottsági képviselet ellátására.
+## kapcsolatos bizottsági képviselet ellátására.
 
 (4) A miniszter további, intézményektől független és a földrajzi nevek tekintetében elismert szakembereket is felkérhet a bizottsági munkában való részvételre.
 
@@ -59,7 +59,7 @@ d)[^20] kijelöli az ENSZ Földrajzi nevek szakértői csoportjába (UNGEGN) a m
 [^14]: A 3. § (2) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 411. § b) pontja szerint módosított szöveg.
 [^15]: A 3. § (2) bekezdés i) pontját a 221/2014. (IX. 4.) Korm. rendelet 409. §-a iktatta be.
 [^16]: A 3. § (2) bekezdés j) pontját a 221/2014. (IX. 4.) Korm. rendelet 409. §-a iktatta be.
-[^17]: A 3. § (3) bekezdése a 430/2012. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^17]: A 3. § (3) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^18]: A 3. § (5) bekezdése a 36/2011. (III. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^19]: A 3. § (5) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 411. § c) pontja szerint módosított szöveg.
 [^20]: A 3. § (5) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 411. § d) pontja szerint módosított szöveg.
