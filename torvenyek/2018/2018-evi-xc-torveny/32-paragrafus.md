@@ -22,7 +22,7 @@ j)
 
 k)
 
-l)
+l) 114/A. § (1) bekezdésében a „ , doktori képzésre”szövegrész,
 
 m)
 
