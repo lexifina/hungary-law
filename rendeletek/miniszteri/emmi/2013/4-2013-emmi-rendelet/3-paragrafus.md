@@ -22,6 +22,10 @@ c) az 5–6. évfolyamon: ének-zene, vizuális kultúra, testnevelés, termész
 
 d) a 7–8. évfolyamon: biológia, földrajz, fizika, kémia, célnyelvi civilizáció, matematika, informatika, történelem,
 
-e) a 9–12. évfolyamon: matematika, informatika, történelem, biológia, földrajz, fizika, kémia, célnyelvi civilizáció, továbbá bármely szakközépiskolában választható még a helyi tanterv alapján tanított szakmai tantárgy.
+e) a 9–12. évfolyamon: matematika, informatika, történelem, biológia, földrajz, fizika, kémia, célnyelvi civilizáció, továbbá bármely szakközépiskolában választható még a helyi tanterv alapján tanított szakmai tantárgy,
+
+f)[^2] jogi személyiséggel rendelkező vallási közösség által fenntartott iskolában a hittan.
 
 (3) Ha az iskola a (2) bekezdés c)–e) pontja alapján a történelem tantárgyat célnyelven tanítja, akkor a történelem tantárgyra vonatkozó tantárgyi kerettantervben foglalt, a magyarság történelmével kapcsolatos tantárgyi tartalmakat és az ahhoz kapcsolódó fejlesztési feladatokat a történelem tantárgyi kerettantervi tematikai egységekhez igazodva magyar nyelven köteles tanítani.
+
+[^2]: A 3. § (2) bekezdés f) pontját a 20/2019. (VIII. 30.) EMMI rendelet 28. §-a iktatta be.

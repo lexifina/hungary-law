@@ -18,7 +18,7 @@
 
 ## A Nat minden képzési szakaszra előírja az elérendő minimumszinteket, és kitér az emelt szintű képzésben részesülő tanulókkal szemben támasztott elvárásokra is. A két tanítási nyelvű iskolák követelményeit a „Két tanítási nyelvű iskolai oktatás irányelve” (továbbiakban: Irányelvek) szabályozza.
 
-## A közműveltségi elemeket a tantárgy egyedi jellemzői miatt a Nat-ban és az Irányelvekben azok a nyelvi szintek és kompetenciák testesítik meg, amelyeket a nemzetközi gyakorlatban és az érettségi követelményrendszerben mérceként használt KER határoz meg. A két tanítási nyelvű iskoláknál a KER szerinti legalacsonyabb követelményszint a 4. évfolyam végén jelenik meg először. Ennek sikeres teljesítése érdekében ez a kerettanterv meghatározza a 2. évfolyam végére elérendő készségeket is, a hallott szöveg értése és a szóbeli interakció területén. A két tanítási nyelvű általános iskola kerettantervi fejlesztési céljai és a hozzárendelt tartalmak, első osztálytól kezdődően, mindvégig heti ötórás nyelvtanítással érhetőek el. A nyelvi kompetenciák komplex fejlesztéséhez az ajánlott témakörök kínálnak kontextust. A Nat és az Irányelvek által az egyes képzési szakaszokra minimumként meghatározott nyelvi szintek a következők[^2]:
+## A közműveltségi elemeket a tantárgy egyedi jellemzői miatt a Nat-ban és az Irányelvekben azok a nyelvi szintek és kompetenciák testesítik meg, amelyeket a nemzetközi gyakorlatban és az érettségi követelményrendszerben mérceként használt KER határoz meg. A két tanítási nyelvű iskoláknál a KER szerinti legalacsonyabb követelményszint a 4. évfolyam végén jelenik meg először. Ennek sikeres teljesítése érdekében ez a kerettanterv meghatározza a 2. évfolyam végére elérendő készségeket is, a hallott szöveg értése és a szóbeli interakció területén. A két tanítási nyelvű általános iskola kerettantervi fejlesztési céljai és a hozzárendelt tartalmak, első osztálytól kezdődően, mindvégig heti ötórás nyelvtanítással érhetőek el. A nyelvi kompetenciák komplex fejlesztéséhez az ajánlott témakörök kínálnak kontextust. A Nat és az Irányelvek által az egyes képzési szakaszokra minimumként meghatározott nyelvi szintek a következők[^4]:
 
 |  | A | B | C | D | E | F | G |
 
@@ -482,4 +482,4 @@
 
 3. melléklet a 4/2013. (I. 11.) EMMI rendelethez
 
-[^2]: A nem két tanítási nyelvű képzés követelményszintjeit tájékoztatásul tartalmazza ez a kerettanterv.
+[^4]: A nem két tanítási nyelvű képzés követelményszintjeit tájékoztatásul tartalmazza ez a kerettanterv.

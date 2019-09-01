@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-5H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-09-01 | 2013-4-20-5H.1 | 4/2013. (I. 11.) EMMI rendelet |
+| 2019-09-01 | 2013-4-20-5H.2 | 5/2020. (I. 31.) Korm. rendelet |

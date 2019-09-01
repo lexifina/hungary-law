@@ -6,6 +6,6 @@
 
 (2) A (3) bekezdés 2020. szeptember 1-jén lép hatályba.
 
-(3)[^1]
+(3)[^3]
 
-[^1]: A 12. § (3) bekezdése a (2) bekezdés alapján 2020. szeptember 1-jén lép hatályba.
+[^3]: A 12. § (3) bekezdése a (2) bekezdés alapján 2020. szeptember 1-jén lép hatályba.
