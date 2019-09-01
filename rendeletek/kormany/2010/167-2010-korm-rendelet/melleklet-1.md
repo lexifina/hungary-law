@@ -40,7 +40,7 @@
 
 2.14. a Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézet
 
-2.15.[^38] a Magyar Tudományos Akadémia Energiatudományi Kutatóközpont
+2.15.[^38] az Energiatudományi Kutatóközpont
 
 2.16.[^39] a Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -61,6 +61,6 @@
 [^35]: Az 1. melléklet 2. pont 2.4. alpontját a 379/2016. (XII. 2.) Korm. rendelet 157. § (2) bekezdése hatályon kívül helyezte.
 [^36]: Az 1. melléklet 2. pont 2.8. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^37]: Az 1. melléklet 2. pont 2.11. alpontja a 286/2017. (IX. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^38]: Az 1. melléklet 2. pont 2.15. alpontja a 286/2017. (IX. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^38]: Az 1. melléklet 2. pont 2.15. alpontja a 204/2019. (VIII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^39]: Az 1. melléklet 2. pont 2.16. alpontja a 379/2016. (XII. 2.) Korm. rendelet 157. § (1) bekezdés b) pontjával megállapított szöveg.
 [^40]: Az 1. melléklet 3. pont 3.5. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
