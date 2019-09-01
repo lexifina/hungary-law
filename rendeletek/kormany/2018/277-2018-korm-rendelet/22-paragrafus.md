@@ -1,3 +1,3 @@
-## 21. §[^21]
+## 21. § A Harmvhr. 154. §-a helyébe a következő rendelkezés lép:
 
-[^21]: A 21. § a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+## „154. § A Tv. 73. § (2) bekezdésében meghatározott adatokat a Hivatal a Kormány által kijelölt tárhelyszolgáltatótól napi rendszerességgel veszi át.”

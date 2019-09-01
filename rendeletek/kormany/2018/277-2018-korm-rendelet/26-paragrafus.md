@@ -1,32 +1,30 @@
-## 25. §[^25]
+## 25. §[^23]
 
 ## 26. § A Harmvhr.
 
-a)[^26]
+a)[^24]
 
-b)[^27]
+b)[^25]
 
-c)[^28]
+c)[^26]
 
-d)[^29]
+d)[^27]
 
-e)[^30]
+e)[^28]
 
-f)[^31]
+f)[^29]
 
-g)[^32]
+g)[^30]
 
-h)[^33]
+h) 155. § (1) bekezdésében a „vendégkönyv vezetésére köteles” szövegrész helyébe a „kereskedelemről szóló törvény hatálya alá tartozó és a nem üzleti célú közösségi, szabadidős” szöveg,
 
-i)[^34]
+i) 155. § (6) bekezdésében és 156. § (2) bekezdésében a „vendégkönyv vezetésére köteles” szövegrész helyébe az „a kereskedelemről szóló törvény hatálya alá tartozó és a nem üzleti célú közösségi, szabadidős” szöveg
 
-[^25]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 26. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 26. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 26. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 26. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 26. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 26. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 26. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 26. § h) pontja a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
-[^34]: A 26. § i) pontja a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+[^23]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 26. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 26. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 26. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 26. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 26. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 26. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 26. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

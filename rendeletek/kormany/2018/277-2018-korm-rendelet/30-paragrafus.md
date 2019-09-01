@@ -1,4 +1,4 @@
-## 29. §[^39]
+## 29. §[^34]
 
 ## 7. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 8. §, a 21. §, a 24. §, a 26. § h)–i) pontja és a 27. § c) pontja 2019. szeptember 1-jén lép hatályba.
 
-[^39]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

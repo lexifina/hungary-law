@@ -1,3 +1,3 @@
-## 8. §[^8]
+## 8. § Az Szmvhr. 78. §-a helyébe a következő rendelkezés lép:
 
-[^8]: A 8. § a 30. § (2) bekezdése alapján 2019. szeptember 1-jén lép hatályba.
+## „78. § A Tv. 85/A. § (1) bekezdésében meghatározott adatokat a Hivatal a Kormány által kijelölt tárhelyszolgáltatótól napi rendszerességgel veszi át.”
