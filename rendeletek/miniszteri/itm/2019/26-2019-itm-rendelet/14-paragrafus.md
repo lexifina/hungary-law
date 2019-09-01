@@ -1,0 +1,1 @@
+## 13. § E rendelet alkalmazásában az általános öregségi nyugdíjkorhatárt betöltött személynek minősül az a békéltető testületi tagnak jelölt személy is, aki az új testület megalakulásának napjáig tölti be az általános öregségi nyugdíjkorhatárt.
