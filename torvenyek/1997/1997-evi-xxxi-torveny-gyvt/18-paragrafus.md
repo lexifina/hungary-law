@@ -22,4 +22,6 @@ b)
 
 (4) Az (1) bekezdésben meghatározott pénzbeli és természetbeni ellátások megállapítását nevelési-oktatási intézmény, gyámhatóság, továbbá más családvédelemmel foglalkozó intézmény, illetve természetes személy vagy a gyermekek érdekeinek védelmét ellátó társadalmi szervezet kezdeményezheti.
 
-(5)–(6)
+(5)
+
+(6)

@@ -1,4 +1,6 @@
-47. § (1)–(2)
+47. § (1)
+
+(2)
 
 (3) Ha az átmeneti gondozás időtartama eltelt, azonban a gyermek családi környezetébe nem térhet vissza
 

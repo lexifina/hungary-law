@@ -10,8 +10,12 @@
 
 (6)
 
-(7)–(8)
+(7)
+
+(8)
 
 (9) A 66/I. § (1) bekezdése szerinti kártérítési felelősség a 2013. december 31-ét követően létrejövő nevelőszülői foglalkoztatási jogviszonyra terjed ki.
 
-(10)–(11)
+(10)
+
+(11)

@@ -16,4 +16,8 @@ ad) szakterületén a kérelem benyújtását megelőző hét évben szerzett le
 
 b) büntetlen előéletű, nem áll a gyermekvédelmi vagy szociálpolitikai szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)

@@ -1,4 +1,6 @@
-20/B. § (1)–(2)
+20/B. § (1)
+
+(2)
 
 (3) A kiegészítő pénzbeli ellátás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
 

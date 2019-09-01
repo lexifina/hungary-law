@@ -6,7 +6,7 @@ a) eljár a gyermek személyes okmányainak beszerzése érdekében, kéri a gye
 
 b) törvényes képviselőként nyilatkozatot tesz a gyermeken végzendő egészségügyi beavatkozásokhoz,
 
-c) eljár a gyermek iskolai beíratása, tanulói jogviszonyának, magántanulói jogállásának létesítése, megszüntetése ügyében,
+c) eljár a gyermek iskolai beíratásával, tanulói jogviszonyának létesítésével, megszüntetésével, valamint egyéni munkarendjének engedélyezésével kapcsolatos ügyekben,
 
 d) kérelmezi a gyámhatóságnál a gyermek és szülei kapcsolattartásának szabályozását, módosítását, a gyermek örökbefogadhatóvá nyilvánítását, a gondozási hely megváltoztatását, a gondokság alá helyezés iránt eljárás megindítását, a nevelésbe vétel megszüntetését, ha azok feltételei fennállnak,
 

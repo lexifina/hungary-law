@@ -16,6 +16,6 @@ e) az egyik szülő meghal.
 
 a) a gyermek életkorához, egészségi állapotához igazodó gondozást, felügyeletet kell biztosítani, és
 
-b) segítséget kell nyújtani az iskolai tanulmányok folytatásához, ha a gyermek tanulmányait az Nktv. rendelkezései szerint sajátos nevelési igénye vagy súlyos betegsége miatt magántanulóként folytatja.
+b) segítséget kell nyújtani az iskolai tanulmányok folytatásához, ha a gyermek tanulmányait az Nktv. rendelkezései szerint sajátos nevelési igénye vagy súlyos betegsége miatt egyéni munkarenddel rendelkező tanulóként folytatja.
 
 (4) Az (1) bekezdés szerinti szolgáltatás a szolgáltatást nyújtó saját gyermeke számára nem biztosítható.

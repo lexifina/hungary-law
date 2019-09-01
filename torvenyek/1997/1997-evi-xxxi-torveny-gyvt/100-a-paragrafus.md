@@ -30,4 +30,6 @@ e) szolgáltatói nyilvántartásba történő bejegyzéshez kötött gyermekjó
 
 (7)
 
-(8)–(9)
+(8)
+
+(9)

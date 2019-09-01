@@ -8,7 +8,7 @@ b) a kötelező óvodai nevelésben való részvétel alól felmentett gyermek s
 
 c) az óvodai nevelésben részesülő gyermek számára a kötelező óvodai nevelésben való részvételének idején kívül,
 
-d) a magántanuló számára,
+d) az egyéni munkarenddel rendelkező tanuló számára,
 
 e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvételének idején kívül, valamint a tanítási szünetekben, és
 

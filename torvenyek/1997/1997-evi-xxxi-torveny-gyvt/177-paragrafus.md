@@ -1,0 +1,5 @@
+177. § (1) Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvénnyel megállapított 25. § (8) bekezdését, 26. § (4), (5) és (9) bekezdését, valamint 26/B. §-át azokban az ügyekben is alkalmazni kell, amelyekben a fiatal felnőtt részére 2016. május 1-jén még folyósítással érintett otthonteremtési támogatás lakás-előtakarékossági programban való részvétel céljából került megállapításra.
+
+(2) Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvénnyel megállapított 25. § (3) és (5)–(7) bekezdését, 26. § (1)–(3), (7) és (8) bekezdését, 26/A. §-át és 26/C. §-át a folyamatban lévő ügyekben is alkalmazni kell.
+
+(3) Az egyes szociális és gyermekvédelmi tárgyú, valamint a megváltozott munkaképességű személyek ellátásait érintő törvények módosításáról szóló 2016. évi XXVI. törvénnyel megállapított 26. § (8) bekezdését, 26/A. §-át – a (2) bekezdésben foglalt eseteken túl – azokban az ügyekben is alkalmazni kell, amelyekben az elszámolás még nem zárult le.

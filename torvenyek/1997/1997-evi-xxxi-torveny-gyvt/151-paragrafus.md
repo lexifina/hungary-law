@@ -1,8 +1,16 @@
-151. § (1)–(2)
+151. § (1)
+
+(2)
 
 (2a)
 
-(2b)–(2e)
+(2b)
+
+(2c)
+
+(2d)
+
+(2e)
 
 (2f) Ha a 21/A. § (1), (4) és (6) bekezdése szerinti gyermekétkeztetést a települési önkormányzat biztosítja, úgy az intézményi térítési díjat a települési önkormányzat állapítja meg.
 
@@ -16,9 +24,15 @@
 
 (5)
 
-(5a)–(5b)
+(5a)
 
-(6)–(8)
+(5b)
+
+(6)
+
+(7)
+
+(8)
 
 (9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján 21/B. §-ban foglaltakon kívül, illetve a 21/C. § (1) bekezdés b) pontja szerinti gyermekek számára további étkeztetési kedvezményt állapíthat meg.
 
