@@ -1,3 +1,5 @@
-## 28. § Hatályát veszti az összekötő és felhasználói berendezésekről, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezésekről és védelmi rendszerekről szóló 40/2017. (XII. 4.) NGM rendelet 5. alcíme és 2. melléklete.
+## 27–28. §[^16]
 
 ## 16. Záró rendelkezések
+
+[^16]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

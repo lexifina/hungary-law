@@ -1,1 +1,0 @@
-## 20. § Hatályát veszti a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek vizsgálatáról és tanúsításáról szóló 35/2016. (IX. 27.) NGM rendelet V. fejezete.

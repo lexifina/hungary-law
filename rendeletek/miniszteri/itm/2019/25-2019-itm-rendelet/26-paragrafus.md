@@ -1,1 +1,0 @@
-## 25. § Hatályát veszti a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 44/2016. (XI. 28.) NGM rendelet 9. és 11. alcíme, valamint V. fejezete.
