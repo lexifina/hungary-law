@@ -1,1 +1,3 @@
-8. § Hatályát veszti a Nemzeti Befektetési Ügynökségről szóló 183/2014. (VII. 25.) Korm. rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
