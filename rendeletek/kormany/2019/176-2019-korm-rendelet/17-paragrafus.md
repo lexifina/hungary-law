@@ -1,4 +1,4 @@
-## 16. §[^37]
+## 16. §[^38]
 
 ## 15. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) Az 1. § (7) bekezdése, a 11. § (7) és (10) bekezdése 2020. január 1-jén lép hatályba.
 
-[^37]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
