@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-67-00-00
 | 2019-07-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-67-00-00.3 |
 | 2019-07-26 | 2010. évi CXXX. törvény | 2019-67-00-00.4 |
 | 2019-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-67-00-00.5 |
+| 2019-09-02 | 2010. évi CXXX. törvény | 2019-67-00-00.6 |
