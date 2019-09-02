@@ -1,5 +1,3 @@
-## 24. § A nemesfém tárgyakkal kapcsolatos hatósági feladatokról és hatósági eljárási szabályokról, valamint a nemesfém tárgyak készítésének és díszítésének szabályairól szóló 508/2017. (XII. 29.) Korm. rendelet [a továbbiakban: 508/2017. (XII. 29.) Korm. rendelet] 7. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+## 24. §[^25]
 
-## (A nemesfémvizsgáló és -hitelesítő hatóság)
-
-## „c) az e §-ban meghatározott feladataival összefüggésben ellenőrzi a nemesfém tárgyakra és fémjelzésükre vonatkozó, az e rendeletben és a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet XVII. melléklet 23. és 27. pontjában a nemesfém tárgyként forgalomba hozott tárgyakra meghatározott előírások megtartását;”
+[^25]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

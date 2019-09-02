@@ -1,5 +1,3 @@
-## 12. § A 146/2014. (V. 5.) Korm. rendelet 11. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 12. §[^13]
 
-## (Aki ellenőri tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormányhivatal részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Ellenőri tevékenységet az folytathat, aki büntetlen előéletű, és)
-
-## „a) felsőfokú iskolai végzettséggel rendelkezik,”
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 5. § A piacfelügyeleti tevékenység részletes szabályairól szóló 6/2013. (I. 18.) Korm. rendelet [a továbbiakban: 6/2013. (I. 18.) Korm. rendelet] 2. §-a a következő (4) bekezdéssel egészül ki:
+## 5. §[^6]
 
-## „(4) A mutatványos berendezések biztonságosságáról szóló miniszteri rendelet szerinti berendezésekkel és létesítményekkel kapcsolatos piacfelügyeleti ellenőrzéssel kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát jelöl ki.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

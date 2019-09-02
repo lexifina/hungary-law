@@ -1,7 +1,3 @@
-## lép.
+## 21. §[^22]
 
-## 22. § Hatályát veszti a 365/2016. (XI. 29.) Korm. rendelet
-
-a) 1. § (4) bekezdés b) pontja,
-
-b) 3. § (2) bekezdés f) pontja.
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
