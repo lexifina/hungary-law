@@ -1,3 +1,0 @@
-## 7. § Az R1. a következő 74/A. §-sal egészül ki:
-
-## „74/A. § A tanuló ismereteinek a vizsgának nem minősülő évközi számonkérésekor a sajátos nevelési igényű, illetve a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló esetében a szakértői bizottság szakértői véleménye alapján az igazgató engedélyezi az írásbeli beszámoló szóbeli beszámolóval vagy a szóbeli beszámoló írásbeli beszámolóval történő felváltását. A sajátos nevelési igényű, illetve a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló esetében biztosítani kell az iskolai tanulmányok során alkalmazott segédeszköz használatát és a hosszabb felkészülési időt.”

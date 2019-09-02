@@ -1,9 +1,11 @@
-## 44. § A 2019/2020. tanév rendjéről szóló 11/2019. (VII. 3.) EMMI rendelet 1. melléklete a 8. melléklet szerinti szöveggel kiegészülve lép hatályba.
+## 44. §[^28]
 
 ## 11. Hatályon kívül helyező rendelkezések
 
-45. § (1)[^12]
+45. § (1)[^29]
 
-(2) Hatályát veszti a köznevelési tankönyvek legmagasabb fogyasztói áráról szóló 14/2015. (III. 13.) EMMI rendelet.
+(2)[^30]
 
-[^12]: A 45. § (1) bekezdése a 46. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^28]: A 44. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 45. § (1) bekezdése a 46. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^30]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

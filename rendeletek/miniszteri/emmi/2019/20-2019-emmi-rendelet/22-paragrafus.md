@@ -1,1 +1,0 @@
-## „(15) Az Nkt. 99/J. § a) pontjában meghatározott felülvizsgálat lezárultáig a 2019. augusztus 31-éig magántanulói jogviszonyban álló tanulót az egyéni munkarenddel rendelkező tanulóval megegyező jogállásúnak kell tekinteni.”

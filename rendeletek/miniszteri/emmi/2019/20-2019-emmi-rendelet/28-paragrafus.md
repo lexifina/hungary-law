@@ -1,5 +1,7 @@
-## 27. § Az R2. 7. melléklet 7.4. pont Alapfokú nevelés-oktatás szakasza, alsó tagozat, 1–4. évfolyam, sportiskola fejezet, SPORTERKÖLCSTAN cím, 7–8. évfolyam alcímében a „magántanulóként” szövegrész helyébe az „egyéni munkarend keretében” szöveg lép.
+## 27. §[^20]
 
 ## 5. A két tanítási nyelvű iskolai oktatás irányelvének kiadásáról szóló
 
 ## 4/2013. (I. 11.) EMMI rendelet módosítása
+
+[^20]: A 27. § a 2010: CXXX. törvény 12. § (3) bekezdése alapján hatályát vesztette.

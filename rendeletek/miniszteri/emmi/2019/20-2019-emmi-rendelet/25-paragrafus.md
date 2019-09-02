@@ -1,7 +1,9 @@
-## szöveg lép.
+## 24. §[^16]
 
-25. § (1) Hatályát veszti az R1. 189–191. §-a.
+25. § (1)[^17]
 
-(2)[^10]
+(2)[^18]
 
-[^10]: A 25. § (2) bekezdése a 46. § (3) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^16]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 25. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 25. § (2) bekezdése a 46. § (3) bekezdése alapján 2020. szeptember 1-jén lép hatályba.

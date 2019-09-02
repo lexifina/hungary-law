@@ -1,11 +1,12 @@
-## 22. §[^7]
+## 22. §[^12]
 
-23. § (1)[^8]
+23. § (1)[^13]
 
-(2) Az R1. 4. melléklete helyébe a 2. melléklet lép.
+(2)[^14]
 
-(3)[^9]
+(3)[^15]
 
-[^7]: A 22. § a 46. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^8]: A 23. § (1) bekezdése a 46. § (3) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
-[^9]: A 23. § (3) bekezdése a 46. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^12]: A 22. § a 46. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^13]: A 23. § (1) bekezdése a 46. § (3) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^14]: A 23. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 23. § (3) bekezdése a 46. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
