@@ -1,4 +1,4 @@
-32. § Hatályát veszti az Nftv.
+32. §
 
 a)
 
@@ -22,7 +22,7 @@ j)
 
 k)
 
-l) 114/A. § (1) bekezdésében a „ , doktori képzésre”szövegrész,
+l)
 
 m)
 
