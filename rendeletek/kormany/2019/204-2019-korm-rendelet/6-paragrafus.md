@@ -1,1 +1,0 @@
-## 5. § A területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló 31/2007. (II. 28.) Korm. rendelet 2. számú melléklet 1. pontjában foglalt táblázat A:84 mezőjében és 2. pontjában foglalt táblázat B:20 mezőjében az „MTA–TAKI” szövegrész helyébe a „TAKI” szöveg lép.

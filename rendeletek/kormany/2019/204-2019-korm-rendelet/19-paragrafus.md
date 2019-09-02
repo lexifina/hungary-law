@@ -1,1 +1,0 @@
-## 18. § A lakosság természetes és mesterséges eredetű sugárterhelését meghatározó környezeti sugárzási helyzet ellenőrzési rendjéről és a kötelezően mérendő mennyiségek köréről szóló 489/2015. (XII. 30.) Korm. rendelet [a továbbiakban: 489/2015. (XII. 30.) Korm. rendelet] 1. melléklete a 2. melléklet szerint módosul.
