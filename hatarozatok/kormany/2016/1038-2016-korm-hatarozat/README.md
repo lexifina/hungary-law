@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1038-30
 | 2016-02-10 | 2016-1038-30-22.1 | 1038/2016. (II. 10.) Korm. határozat |
 | 2016-10-13 | 2016-1038-30-22.2 | 1554/2016. (X. 13.) Korm. határozat |
 | 2016-11-21 | 2016-1038-30-22.3 | 1647/2016. (XI. 17.) Korm. határozat |
+| 2019-09-04 | 2016-1038-30-22.4 | 1521/2019. (IX. 4.) Korm. határozat |
