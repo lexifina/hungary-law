@@ -1,8 +1,8 @@
 ## 1. egyetért a Szeged-Csanádi Egyházmegye beruházásainak támogatásával;
 
-## 2. a beruházással összefüggésben, a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a)–o) pontja szerinti előkészítési fázisokra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 1 225 641 132 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére az 1. melléklet szerint azzal, hogy az előkészítési fázisokat legkésőbb 2019. december 31-ig kell megvalósítani;
+## 2.[^1] a beruházással összefüggésben, a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a)–o) pontja szerinti előkészítési fázisokra – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 1 225 641 132 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére az 1. melléklet szerint azzal, hogy a Szegedi Tudományegyetem Vántus István Gyakorló Zeneművészeti Szakgimnázium új épületben történő elhelyezésére irányuló munkálatok tekintetében az előkészítési fázisokat 2019. augusztus 31-ig, a katolikus általános iskola és gimnázium Szegeden történt létesítése, valamint a Szegedi Tudományegyetem Apáthy Kollégiumának helyén új épület építése tekintetében az előkészítési fázisokat 2021. december 31-ig kell megvalósítani;
 
-## 3. az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
+## 3.[^2] az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként a miniszterelnök általános helyettesét jelöli ki;
 
 ## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdése szerinti jogkörében eljárva – a 2. pontban foglaltak megvalósítása érdekében – összesen 1 220 271 935 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
 
@@ -30,17 +30,17 @@
 
 ## 8. felhívja az emberi erőforrások miniszterét, hogy
 
-## a) készítsen jelentést a Rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről,
+## a)[^3] készítsen jelentést a Rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről,
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2020. január 30.
+## Határidő: a Szegedi Tudományegyetem Vántus István Gyakorló Zeneművészeti Szakgimnázium új épületben történő elhelyezése tekintetében 2019. szeptember 30., a katolikus általános iskola és gimnázium Szegeden történő létesítése előkészítésének, valamint a Szegedi Tudományegyetem Apáthy Kollégiumának helyén új épület építése tekintetében 2022. január 30.
 
-## b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával;
+## b)[^4] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával;
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: a jelentés elfogadását követően azonnal
+## Határidő: a részprojektekre vonatkozó jelentések elfogadását követően azonnal
 
 ## 9. rögzíti, hogy a jövőben költöztetésre kerülő szegedi Apáthy István Kollégium (a továbbiakban: Kollégium) működését e kormányhatározat közzététele középtávon nem akadályozza;
 
@@ -131,3 +131,8 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1522/2019. (IX. 4.) Korm. határozat a) pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1522/2019. (IX. 4.) Korm. határozat b) pontja szerint módosított szöveg.
+[^3]: A 8. pont a) alpontja az 1522/2019. (IX. 4.) Korm. határozat c) pontja szerint módosított szöveg.
+[^4]: A 8. pont b) alpontja az 1522/2019. (IX. 4.) Korm. határozat d) pontja szerint módosított szöveg.
