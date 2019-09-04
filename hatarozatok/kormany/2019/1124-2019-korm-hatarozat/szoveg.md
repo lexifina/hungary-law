@@ -26,11 +26,13 @@ Határidő: folyamatos
 
 5.[^1] a 3. pont szerinti programok és kezdeményezések megvalósítására a Miniszterelnökséget vezető miniszter, a miniszterelnök kabinetfőnöke és a külgazdasági és külügyminiszter útján az emlékév Korm. határozat szerinti időtartamára
 
-a) a 2019. évben összesen 3 000 000 000 forintot, melyből
+a) a 2019. évben összesen 3 000 000 000 forintot, amelyből
 
 aa) 556 307 413 forintot a XXI. Miniszterelnöki Kabinetiroda fejezet javára,
 
-ab) 2 443 692 587 forintot a XI. Miniszterelnökség fejezet javára, figyelembe véve a Korm. határozat 12. pontja alapján átcsoportosított összeget,
+ab) 2 271 377 528 forintot a XI. Miniszterelnökség fejezet javára, figyelembe véve a Korm. határozat 12. pontja alapján átcsoportosított összeget,
+
+ac) 172 315 059 forintot a XVIII. Külgazdasági és Külügyminisztérium fejezet javára,
 
 b) a 2020. évben 6 000 000 000 forintot, valamint
 
@@ -66,4 +68,4 @@ kormánybiztos
 
 Határidő: folyamatos
 
-[^1]: Az 5. pont az 1504/2019. (VIII. 23.) Korm. határozat 4. pontjával megállapított szöveg.
+[^1]: Az 5. pontot az 1520/2019. (IX. 4.) Korm. határozat 1. pontja visszavonta, újonnan e módosító határozat 2. pontja iktatta be.
