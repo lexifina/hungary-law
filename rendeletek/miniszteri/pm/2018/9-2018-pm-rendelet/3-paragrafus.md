@@ -8,6 +8,8 @@
 
 4. 18. sor 1. pontja, 20. sora és 23. sora alapján a 651/2014/EU bizottsági rendelet 13. és 14. cikke szerinti regionális beruházási támogatás,
 
+4a.[^1] 23. sora alapján a 651/2014/EU bizottsági rendelet 16. cikke szerinti regionális városfejlesztési támogatás,
+
 5. 18. sor 1. pontja alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti kis- és középvállalkozásnak nyújtott beruházási támogatás,
 
 6. 23. sora alapján a 651/2014/EU bizottsági rendelet 18. cikke szerinti kis- és középvállalkozások részére tanácsadáshoz nyújtott támogatás,
@@ -39,3 +41,5 @@
 19. 18. sor 1. pontja alapján a 651/2014/EU bizottsági rendelet 55. cikk szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
 
 20. 18. sor 1. pontja és 23. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás
+
+[^1]: A 3. § 4a. pontját a 11/2019. (IX. 4.) PM rendelet 1. §-a iktatta be.

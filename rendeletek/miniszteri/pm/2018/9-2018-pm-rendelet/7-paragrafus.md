@@ -43,3 +43,7 @@ e) meghaladja az a)–d) alpont szerinti összeg 150%-át, ha a kutatás-fejlesz
 16. helyi infrastruktúrára irányuló beruházási támogatás esetében meghaladja az egyazon infrastruktúra esetében 10 millió eurónak megfelelő forintösszeget vagy 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget;
 
 17. szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetében vállalkozásonként és beruházási projektenként meghaladja a 20 millió eurónak megfelelő forintösszeget.
+
+(2)[^9] A regionális városfejlesztési támogatás esetén előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget, amelyet az Európai Bizottság elektronikus bejelentőrendszerén keresztül kell megtenni.
+
+[^9]: A 7. § (2) bekezdését a 11/2019. (IX. 4.) PM rendelet 4. §-a iktatta be.
