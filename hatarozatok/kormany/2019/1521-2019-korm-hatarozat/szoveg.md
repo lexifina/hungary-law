@@ -1,1 +1,0 @@
-A Modern Városok Program keretében Magyarország Kormánya és a megyei jogú városok önkormányzatai között első ütemben kötött együttműködési megállapodásokkal összefüggő intézkedésekről szóló 1038/2016. (II. 10.) Korm. határozat 6. pontjában a „negyedévente” szövegrész helyébe a „félévente” szöveg lép.
