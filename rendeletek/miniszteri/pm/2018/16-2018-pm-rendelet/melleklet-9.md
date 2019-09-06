@@ -180,6 +180,8 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 49. | 010849 |  | Egyéb kiadások | Magyarország nemzetközi pénzügyi szervezetekben vállalt tagságaihoz kapcsolódó járulékos jellegű kiadások teljesítése. | nemzetközi pénzügyi szervezetek |  |  | A Kincstár folyósít a Pénzügyminisz- térium utalványa alapján. |  |  |  |  |  |
 
+| 49a. | 379628 |  | Az NBB magyarországi székhelyének létesítésével kapcsolatos tőkeemelés | A Nemzetközi Beruházási Bank és Magyarország Kormánya között a Nemzetközi Beruházási Bank Magyarországi Székhelyéről szóló Megállapodás kihirdetéséről és a 2015. évi XLI. törvénnyel kihirdetett, a Nemzetközi Beruházási Bank megalapítása tárgyában, Moszkvában, 1970. július 10-én aláírt és 1990. december 20. napján módosított Egyezményhez csatolt Alapszabály módosításának kihirdetéséről szóló 2019. évi XI. törvénnyel kihirdetett, a Nemzetközi Beruházási Bank és Magyarország Kormánya között a Nemzetközi Beruházási Bank Magyarországi Székhelyéről szóló Megállapodás 4.1 és 4.2 pontjában foglaltak alapján a Nemzetközi Beruházási Bank elhelyezéséhez hozzájárulás teljesítése. | Nemzet- közi Beruhá- zási Bank |  |  | A Kincstár folyósít a Pénzügy- minisztérium utalványa alapján. |  |  |  |  |  |
+
 | 50. |  | Hozzájárulás az EU költségvetéséhez |  |  |  |  |  |  |  |  |  |  |
 
 | 51. | 269945 |  | ÁFA alapú hozzájárulás | Az EU költségvetéséhez való áfaalapú befizetési kötelezettség teljesítése. | Európai Bizottság | Havonta az Európai Bizottság fizetési felhívása alapján |  | A Kincstár utal az Európai Bizottság MNB-nél vezetett számlájára. |  |  |  |  |  |
@@ -200,4 +202,4 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 59. | 374873 | Központi Maradványelszámolási Alap | Kormányzati döntésekből következő, illetve év közben jelentkező finanszírozási problémák kezelése. | Költségvetési szervek, fejezeti kezelésű előirányzatok, központi kezelésű előirányzatok |  |  | Átcsoportosítással a Kormány egyedi határozata alapján. |  |  |  |  |  |
 
-[^2]: A 9. melléklet a 6/2019. (VI. 7.) PM rendelet 2. § (1)–(2) bekezdése szerint módosított szöveg.
+[^2]: A 9. melléklet a 6/2019. (VI. 7.) PM rendelet 2. § (1)–(2) bekezdése, a 12/2019. (IX. 5.) PM rendelet 1. §-a szerint módosított szöveg.
