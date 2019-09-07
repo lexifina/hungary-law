@@ -14,7 +14,7 @@ e) a rendvédelmi szerv utánpótlási és vezetői adatbankjának utánpótlás
 
 (2) Beosztott vezetői szolgálati beosztásba – a (3) és (4) bekezdésben meghatározott eltérésekkel – a hivatásos állomány azon tagja nevezhető ki, aki – a vezetői beosztás betöltéséhez előírt képesítési követelményeken túl – a rendészeti vezetővé képző tanfolyamot teljesítette.
 
-(3)[^5] A rendészeti vezetővé képző tanfolyammal e rendelet alkalmazásában egyenértékűnek kell tekinteni
+(3)[^8] A rendészeti vezetővé képző tanfolyammal e rendelet alkalmazásában egyenértékűnek kell tekinteni
 
 a) a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán a 2012/2013. tanévben vagy azt követően indított rendészeti vezető mesterképzésben szerzett mesterfokozatú végzettséget,
 
@@ -26,7 +26,7 @@ d) a 2016. augusztus 31. előtt a Belügyminisztérium rendészeti vezetőképz�
 
 e) a belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet (a továbbiakban: 2/2013. BM rendelet) hatálybalépését megelőzően a KSZF-en vagy jogelőd intézményeiben elvégzett rendészeti vezetővé képző tanfolyamot vagy rendészeti mestervezetővé képző tanfolyamot.
 
-(4)[^6] A hivatásos állománynak a rendvédelmi szerv oktatási tevékenységet végző szervezeti egysége által – a Belügyminisztérium képzési programja szerint és felügyelete mellett – szervezett és az egyes személyügyi tárgyú BM rendeletek módosításáról szóló 76/2014. (XII. 29.) BM rendelet (a továbbiakban: Módr.) hatálybalépését követően lebonyolított rendészeti vezetővé képző tanfolyamot teljesítő tagja a rendvédelmi szerv olyan szervezeti egységénél, amely országos illetékességgel rendelkezik, legfeljebb beosztott vezetői beosztásba nevezhető ki.
+(4)[^9] A hivatásos állománynak a rendvédelmi szerv oktatási tevékenységet végző szervezeti egysége által – a Belügyminisztérium képzési programja szerint és felügyelete mellett – szervezett és az egyes személyügyi tárgyú BM rendeletek módosításáról szóló 76/2014. (XII. 29.) BM rendelet (a továbbiakban: Módr.) hatálybalépését követően lebonyolított rendészeti vezetővé képző tanfolyamot teljesítő tagja a rendvédelmi szerv olyan szervezeti egységénél, amely országos illetékességgel rendelkezik, legfeljebb beosztott vezetői beosztásba nevezhető ki.
 
 (5) Középvezetői vagy kiemelt vezetői beosztásba – a (6) és (7) bekezdésben meghatározott eltérésekkel – a hivatásos állomány azon, a Hszt. 58. § (4) bekezdésében meghatározott feltételnek megfelelő tagja nevezhető ki, aki – a vezetői beosztás betöltéséhez előírt képesítési követelményeken és a rendészeti vezetővé képző tanfolyamon túl – a rendészeti mestervezetővé képző tanfolyam követelményeit eredményesen teljesítette.
 
@@ -38,7 +38,7 @@ b) a KSZF jogelőd intézménye által 2000/2001. évben megrendezett rendészet
 
 c) a 2/2013. BM rendelet hatálybalépését megelőzően a KSZF vagy jogelőd intézményei által szervezett rendészeti mestervezetővé képző tanfolyamot.
 
-(7)[^7] A hivatásos állománynak a rendvédelmi szerv oktatási tevékenységet végző szervezeti egysége által – a Belügyminisztérium képzési programja szerint és felügyelete mellett – szervezett és a Módr. hatálybalépését követően lebonyolított rendészeti mestervezetővé képző tanfolyamot teljesítő tagja a rendvédelmi szerv olyan szervezeti egységénél, amely országos illetékességgel rendelkezik, középvezetői vagy kiemelt vezetői beosztásba nem nevezhető ki.
+(7)[^10] A hivatásos állománynak a rendvédelmi szerv oktatási tevékenységet végző szervezeti egysége által – a Belügyminisztérium képzési programja szerint és felügyelete mellett – szervezett és a Módr. hatálybalépését követően lebonyolított rendészeti mestervezetővé képző tanfolyamot teljesítő tagja a rendvédelmi szerv olyan szervezeti egységénél, amely országos illetékességgel rendelkezik, középvezetői vagy kiemelt vezetői beosztásba nem nevezhető ki.
 
 (8) Aki a Módr. hatálybalépését megelőző napon a 2/2013. BM rendelet 65. § (2) bekezdés c) vagy d) pontja alapján a rendészeti vezetővé képző tanfolyam, vagy 66. § (1) bekezdés d) vagy e) pontja alapján a rendészeti mestervezetővé képző tanfolyam teljesítésének kötelezettsége alól mentesült,
 
@@ -50,6 +50,6 @@ c) a b) pontban meghatározott vezetői beosztáson kívüli vezetői beosztásb
 
 (9) A hivatásos állomány tagja a vezetői beosztás ellátásával – a Hszt. 71. §-a szerint – átmenetileg akkor is megbízható, ha az (1) bekezdés c) és e) pontjában meghatározott feltételeknek nem felel meg.
 
-[^5]: A 24. § (3) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^6]: A 24. § (4) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^7]: A 24. § (7) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 24. § (3) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^9]: A 24. § (4) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 24. § (7) bekezdése a 37/2016. (IX. 1.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.

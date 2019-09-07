@@ -1,4 +1,4 @@
-70/A. §[^30] (1) Ha a munkáltatói jogkör gyakorlója a Hszt. 275/A. §-a szerinti előzetes véleményalkotási eljárás kezdeményezése mellett dönt, a rendvédelmi szerv a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet írásban keresi meg az előzetes véleményalkotás érdekében.
+70/A. §[^33] (1) Ha a munkáltatói jogkör gyakorlója a Hszt. 275/A. §-a szerinti előzetes véleményalkotási eljárás kezdeményezése mellett dönt, a rendvédelmi szerv a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet írásban keresi meg az előzetes véleményalkotás érdekében.
 
 (2) Az (1) bekezdés szerinti megkeresésben a rendvédelmi szerv feltünteti
 
@@ -12,4 +12,4 @@ d) a rendfokozatban történő soron kívüli előléptetés esetén a soron kí
 
 (3) Ha a megkeresésre a vezetői beosztásba kinevezést megelőzően kerül sor, akkor az (1) bekezdés szerinti megkeresést valamennyi, a vezetői beosztásba jelölt személy vonatkozásában egy megkeresésbe foglaltan kell megtenni.
 
-[^30]: A 70/A. §-t a 34/2018. (XII. 20.) BM rendelet 8. §-a iktatta be.
+[^33]: A 70/A. §-t a 34/2018. (XII. 20.) BM rendelet 8. §-a iktatta be.

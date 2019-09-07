@@ -10,7 +10,7 @@ d) aki a Magyar Honvédségnél hivatásos vagy szerződéses szolgálatot telje
 
 e) aki a rendvédelmi szervnél korábban szolgálati viszonyban állt és a tervezett szolgálati beosztás ellátásához szükséges rendvédelmi szakképesítéssel rendelkezik.
 
-(1a)[^1] Az (1) bekezdés c) pontjába tartozó esetben a hivatásos állományba vett személyt a tervezett szolgálati beosztásába kell kinevezni, amellyel egyidejűleg megfelelő határidő kitűzésével elő kell írni a tervezett szolgálati beosztáshoz tartozó rendészeti szakképesítés vagy rész-szakképesítés megszerzését.
+(1a)[^4] Az (1) bekezdés c) pontjába tartozó esetben a hivatásos állományba vett személyt a tervezett szolgálati beosztásába kell kinevezni, amellyel egyidejűleg megfelelő határidő kitűzésével elő kell írni a tervezett szolgálati beosztáshoz tartozó rendészeti szakképesítés vagy rész-szakképesítés megszerzését.
 
 (2) A szolgálati viszony létesítése során a Hszt. 33. § (1) bekezdés b) pontja alapján, a Hszt. 128. § (1) bekezdésében meghatározott feltétel teljesülése esetén tiszti besorolási osztályba tartozó szolgálati beosztásba az nevezhető ki, aki
 
@@ -22,4 +22,4 @@ c) hazai vagy külföldi felsőoktatási intézményben olyan szakképesítést 
 
 d) rendvédelmi szervnél vagy a Magyar Honvédségnél korábban hivatásos szolgálatot teljesített és a tiszti besorolási osztályba tartozó szolgálati beosztás ellátásához szükséges képesítéssel, szakképzettséggel rendelkezik.
 
-[^1]: A 6. § (1a) bekezdését az 55/2016. (XII. 22.) BM rendelet 13. §-a iktatta be.
+[^4]: A 6. § (1a) bekezdését az 55/2016. (XII. 22.) BM rendelet 13. §-a iktatta be.
