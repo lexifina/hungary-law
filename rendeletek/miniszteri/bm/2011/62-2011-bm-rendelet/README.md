@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-62-20-0
 | 2016-01-01 | 2011-62-20-0A.7 | 75/2015. (XII. 22.) BM rendelet |
 | 2016-07-17 | 2011-62-20-0A.8 | 29/2016. (VII. 15.) BM rendelet |
 | 2019-07-01 | 2011-62-20-0A.9 | 27/2019. (VI. 28.) BM rendelet |
+| 2019-09-07 | 2011-62-20-0A.10 | 61/2012. (XII. 11.) BM rendelet |

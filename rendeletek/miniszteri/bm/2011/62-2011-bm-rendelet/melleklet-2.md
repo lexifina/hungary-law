@@ -28,6 +28,8 @@
 
 ## 4.) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvényben, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendeletben, valamint a katasztrófák elleni védekezés egyes szabályairól szóló 62/2011. (XII. 29.) BM rendeletben meghatározott jogaimat és kötelességeimet ismerem és elfogadom.
 
+## 5.) E nyilatkozat aláírásával hozzájárulok, hogy személyes adataimat az illetékes helyi önkormányzat, a megyei, fővárosi védelmi bizottság kezelje és továbbítsa a hivatásos katasztrófavédelmi szerveknek a polgári védelmi szervezetbe történő beosztás céljából, valamint a hadkiegészítő parancsnokságnak tájékoztatás céljából. Egyidejűleg tudomásul veszem a tájékoztatást, hogy a személyes adataim kezelésére vonatkozó hozzájárulásomat visszavonhatom, azonban ez nem érinti a hozzájárulásom alapján, a hozzájárulásom visszavonása előtt történt adatkezelés jogszerűségét.
+
 ## Kelt:……………..………….év………….. hó…. nap
 
 ## ……………………………
