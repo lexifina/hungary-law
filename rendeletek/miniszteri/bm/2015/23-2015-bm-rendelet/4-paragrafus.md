@@ -12,10 +12,12 @@ b) az adatkezelés jogalapjára, céljára és a kezelhető adatok fajtáira,
 
 c) az adatkezelés időtartamára,
 
-d) az érintettnek az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvényben (a továbbiakban: Infotv.) biztosított jogaira, illetve azok gyakorlásának módjára,
+d)[^5] az érintettnek a személyes adatai kezelésével kapcsolatos jogaira, illetve azok gyakorlásának módjára,
 
 e) az információs önrendelkezési jog megsértése esetén a jogérvényesítési lehetőségekre,
 
 f) az adatkezelő rendvédelmi szerv által alkalmazott adatbiztonsági intézkedésekre,
 
 g) az adatok megismerésére jogosult személyek és szervek körére, illetve az adattovábbítás jogalapjára.
+
+[^5]: A 4. § (3) bekezdés d) pontja a 33/2019. (VIII. 30.) BM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
