@@ -1,1 +1,3 @@
-## 1. § A pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 16/2018. (XII. 19.) PM rendelet (a továbbiakban: Rendelet) 9. melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
