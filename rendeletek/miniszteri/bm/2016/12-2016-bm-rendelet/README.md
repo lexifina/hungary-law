@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-12-20-0
 | --- | --- | --- |
 | 2016-05-12 | 2016-12-20-0A.1 | 12/2016. (V. 4.) BM rendelet |
 | 2016-05-13 | 2016-12-20-0A.2 | 2010: CXXX. törvény |
+| 2019-09-07 | 2016-12-20-0A.3 | 33/2019. (VIII. 30.) BM rendelet |
