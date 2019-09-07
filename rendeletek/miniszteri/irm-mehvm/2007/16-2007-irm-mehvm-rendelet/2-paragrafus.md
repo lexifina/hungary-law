@@ -6,8 +6,9 @@
 
 (3) A kartonos helyi nyilvántartásból teljesített adatszolgáltatási eljárás esetén is a melléklet alapján kiszámított díjat kell alkalmazni.
 
-(4) Nem kell díjat fizetni, ha a nyilvántartás szerve az adatigénylőt saját vagy korábbi adatairól bármilyen formában tájékoztatja.
+(4)[^1] Nem kell díjat fizetni, ha a nyilvántartás szerve az adatigénylőt a személyes adataihoz való hozzáférési joga gyakorlása céljából adatairól bármilyen formában tájékoztatja.
 
-(5)[^1]
+(5)[^2]
 
-[^1]: A 2. § (5) bekezdését a 37/2018. (XII. 28.) BM rendelet 6. §-a hatályon kívül helyezte.
+[^1]: A 2. § (4) bekezdése a 33/2019. (VIII. 30.) BM rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 2. § (5) bekezdését a 37/2018. (XII. 28.) BM rendelet 6. §-a hatályon kívül helyezte.

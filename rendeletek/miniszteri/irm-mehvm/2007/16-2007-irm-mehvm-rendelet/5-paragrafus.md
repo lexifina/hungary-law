@@ -4,9 +4,9 @@
 
 (2) A rendszeres adatszolgáltatási engedély alapján e rendelet hatálybalépését követően teljesített adatszolgáltatások esetén a díj megállapítására e rendelet szabályait kell alkalmazni.
 
-(3)[^7]
+(3)[^8]
 
-Melléklet a 16/2007. (III. 13.) IRM–MeHVM együttes rendelethez[^8]
+Melléklet a 16/2007. (III. 13.) IRM–MeHVM együttes rendelethez[^9]
 
 Díjalkalmazási szabályok
 
@@ -130,5 +130,5 @@ A fizetendő díj legkisebb összege:
 
 6. Az Élettársi Nyilatkozatok Nyilvántartásában (a továbbiakban: élettársi nyilvántartás) szereplő személyeknek a közjegyzői nem peres eljárásokról szóló 2008. évi XLV. törvény 36/E. § (4) bekezdés a) pontjában foglalt adataiban bekövetkezett változásoknak és a (4) bekezdés d) pontjában foglalt adatainak átvezetése céljából történő adatszolgáltatás esetén az országos kamara által fizetendő díj az élettársi nyilvántartásban szereplő személyre vonatkozó, az élettársi kapcsolat fennállásáról szóló nyilatkozat bejegyzésével egyidejűleg kezdeményezett adatigénylések száma és a díjtétel szorzata; a díjtétel mértéke 350 Ft/tétel.
 
-[^7]: Az 5. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 21. pontja hatályon kívül helyezte.
-[^8]: A melléklet a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 2. §-ával megállapított, a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 1. §-a, a 37/2018. (XII. 28.) BM rendelet 5. §-a szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 21. pontja hatályon kívül helyezte.
+[^9]: A melléklet a 45/2009. (IX. 25.) IRM–MeHVM együttes rendelet 2. §-ával megállapított, a 84/2009. (XII. 30.) IRM–MeHVM együttes rendelet 1. §-a, a 37/2018. (XII. 28.) BM rendelet 5. §-a szerint módosított szöveg.
