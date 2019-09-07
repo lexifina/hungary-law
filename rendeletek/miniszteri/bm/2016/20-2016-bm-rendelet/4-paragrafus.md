@@ -24,14 +24,18 @@ e) – a ruházati ellátás megszervezése érdekében – a ruházati méreté
 
 a) fényképes önéletrajz,
 
-b) írásbeli nyilatkozat a Hszt. 42. § (3) bekezdés a) pontjában meghatározott adatai kezeléséhez történő hozzájárulásról,
+b)[^1] a felvételt nyert személy és közeli hozzátartozójának írásbeli nyilatkozatát a Hszt. 42. § (2a) bekezdésében meghatározottak tudomásulvételéről,
 
-c) írásbeli nyilatkozat a Hszt. 42. § (3) bekezdés b) pontjában foglaltak szerint a tisztjelölti jogviszony létesítését megelőző és a tisztjelölti jogviszony fennállása alatti kifogástalan életvitel-ellenőrzéshez történő hozzájárulásról,
+c)[^2] a kifogástalan életvitel ellenőrzéséhez szükséges – a központi szakszolgálat által biztosított –, kitöltött és aláírt, a Hszt. 42. § (3) bekezdés b) pontja szerinti nyilatkozatot is tartalmazó adatlapot,
 
 d) a vele közös háztartásban élő házastársa, élettársa, valamint felnőttkorú hozzátartozója Hszt. 2. melléklete szerinti írásbeli nyilatkozata,
 
-e) a kifogástalan életvitel ellenőrzéséhez szükséges – a központi szakszolgálat által biztosított – kitöltött és aláírt adatlap,
+e)[^3]
 
 f) a rendvédelmi oktatási intézménybe jelentkezők fizikai, pszichikai és egészségügyi alkalmassági vizsgálatát szabályozó rendelet szerinti, a felvételt megelőző egészségügyi, pszichikai és fizikai alkalmassági vizsgálaton megállapított alkalmas minősítést tartalmazó irat másolata.
 
 (4) A tisztjelölti jogviszony létesítéséhez szükséges feltételeket igazoló dokumentumok benyújtását követően a központi szakszolgálat intézkedik az ösztöndíjszerződés előkészítése érdekében. Az ösztöndíjszerződés aláírására csak abban az esetben kerülhet sor, ha rendelkezésre áll a Nemzeti Védelmi Szolgálat főigazgatójának a kifogástalan életvitel-ellenőrzés befejezéséről szóló határozata.
+
+[^1]: A 4. § (3) bekezdés b) pontja a 33/2019. (VIII. 30.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^2]: A 4. § (3) bekezdés c) pontja a 33/2019. (VIII. 30.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (3) bekezdés e) pontját a 33/2019. (VIII. 30.) BM rendelet 14. § (2) bekezdése hatályon kívül helyezte.
