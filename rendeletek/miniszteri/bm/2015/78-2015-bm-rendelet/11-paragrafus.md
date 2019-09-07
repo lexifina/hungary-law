@@ -2,7 +2,7 @@
 
 ## 5. A biztonsági intézkedések
 
-11. § (1)[^23] A központi szerv és az arcképelemző tevékenységet végző szerv az információs önrendelkezési jogról és az információszabadságról szóló törvényben, az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben, valamint a minősített adat védelméről szóló törvényben foglalt követelmények érvényre juttatása – így különösen a jogosulatlan hozzáférés és az adatok jogosulatlan nyilvánosságra hozatalának megakadályozása – érdekében intézkedni köteles.
+11. § (1)[^23] A központi szerv és az arcképelemző tevékenységet végző szerv az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvényben, valamint a minősített adat védelméről szóló törvényben foglalt követelmények érvényre juttatása – így különösen a jogosulatlan hozzáférés és az adatok jogosulatlan nyilvánosságra hozatalának megakadályozása – érdekében intézkedni köteles.
 
 (2)[^24] Az arcképelemző tevékenységet végző szerv az elemzői és kiértékelési tevékenységet támogató informatikai eszközöket kizárólag csak az arcképelemző tevékenységet végző szerv egyéb rendszereitől elkülönítetten, megfelelő információbiztonsági védelemmel ellátott zárt hálózati szegmensben működtetheti.
 
@@ -22,7 +22,7 @@
 
 (10)[^27] Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szervek részére történő adattovábbítással összefüggő belső ügyviteli folyamatait a nemzetbiztonsági szolgálatokról szóló törvény, valamint a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló törvény rendelkezései figyelembevételével alakítja ki.
 
-[^23]: A 11. § (1) bekezdése a 60/2016. (XII. 29.) BM rendelet 21. §-ával megállapított szöveg.
+[^23]: A 11. § (1) bekezdése a 60/2016. (XII. 29.) BM rendelet 21. §-ával megállapított, a 33/2019. (VIII. 30.) BM rendelet 12. §-a szerint módosított szöveg.
 [^24]: A 11. § (2) bekezdése a 60/2016. (XII. 29.) BM rendelet 22. § a) és d) pontja szerint módosított szöveg.
 [^25]: A 11. § (4) bekezdése a 60/2016. (XII. 29.) BM rendelet 22. § a) pontja szerint módosított szöveg.
 [^26]: A 11. § (6) bekezdése a 60/2016. (XII. 29.) BM rendelet 22. § f) pontja szerint módosított szöveg.
