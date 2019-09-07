@@ -1,8 +1,8 @@
 ## 9. §[^9] A működési engedéllyel rendelkező és a bejelentési kötelezettség alapján működő vállalkozó a tevékenységét csak az SzVMt. 8. § (5) bekezdésében meghatározott napló általános rendőri feladatok ellátására létrehozott szerv általi hitelesítését követően kezdheti meg. Ha a napló betelik, eltűnik, megsemmisül vagy ellopják, a vállalkozás – nyilvántartásra vonatkozó kötelezettségének folyamatos teljesítése mellett – köteles új napló hitelesíttetéséről gondoskodni. A betelt naplót az általános rendőri feladatok ellátására létrehozott szerv általi záradékkal történő ellátást követő öt évig – állaga megóvásával – a vállalkozó köteles megőrizni.
 
-10. § (1) Az SzVMt. 31. §-ának (7) bekezdése alapján, a rögzített kép-, hang-, valamint kép- és hangfelvétel készítéséről és megismeréséről készített jegyzőkönyv tartalmazza:
+10. § (1)[^10] Az SzVMt. 31. §-a alapján, a rögzített kép-, hang-, valamint kép- és hangfelvétel készítéséről és megismeréséről készített jegyzőkönyv tartalmazza:
 
-a) az adatkezelő vagy egyéb okból a rögzített felvétel megismerésére jogosult személy- és vagyonvédelmi tevékenységet végző személy nevét, a tevékenység személyes végzésére jogosító igazolványa típusát és számát, a vállalkozás nevét és működési engedélye számát;
+a)[^11] a rögzített felvétel megismerésére jogosult személy nevét, a tevékenység személyes végzésére jogosító igazolványa típusát és számát, a vállalkozás nevét és működési engedélye számát;
 
 b) az adatkezelésnek, az adat megismerésének helyét és idejét (kezdő és záró időpontját);
 
@@ -10,6 +10,9 @@ c) az adatkezelésnek, az adat megismerésének okát, célját;
 
 d) az adathordozó megjelölését.
 
-(2) A jegyzőkönyvet az adatkezelés helyén kell tárolni, megsemmisítésére az SzVMt. 31. §-ának (6) bekezdésében foglalt szabályok és határidők irányadók.
+(2)[^12] A jegyzőkönyvet az adatkezelés helyén kell tárolni, és felhasználás hiányában a rögzítéstől számított harminc nap elteltével meg kell semmisíteni.
 
 [^9]: A 9. § az 55/2011. (XII. 21.) BM rendelet 8. §-ával megállapított szöveg.
+[^10]: A 10. § (1) bekezdés nyitó szövegrésze a 33/2019. (VIII. 30.) BM rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^11]: A 10. § (1) bekezdés a) pontja a 33/2019. (VIII. 30.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 10. § (2) bekezdése a 33/2019. (VIII. 30.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
