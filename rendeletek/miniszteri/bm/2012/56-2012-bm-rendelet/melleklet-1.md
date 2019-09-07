@@ -1,4 +1,4 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^247]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^248]
 
 ## Az Országgyűlési Őrség szolgálati beosztásai
 
@@ -96,4 +96,4 @@ IV. Megjegyzések
 
 2. 600*: Az Országgyűlési Őrség Személyvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 600%.
 
-[^247]: Az 1. melléklet a 34/2018. (XII. 20.) BM rendelet 6. § a) pontjával megállapított szöveg.
+[^248]: Az 1. melléklet a 34/2018. (XII. 20.) BM rendelet 6. § a) pontjával megállapított szöveg.

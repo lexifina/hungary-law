@@ -2,6 +2,6 @@
 
 (2) A fegyelmi eljárás irataiba csak a jogszabály által felhatalmazott személyek tekinthetnek be, illetve abból adatot szolgáltatni csak jogszabályban meghatározott személyek részére és okból lehet. A betekintésről vagy adatszolgáltatásról betekintő lapot kell vezetni, amely tartalmazza a betekintő személyét, a betekintés jogcímét, idejét, a betekintő vagy az adattovábbító aláírását.
 
-(3)[^195] A vizsgáló, a vizsgálat befejezését követően vagy a vizsgáló megbízásának mellőzése esetén a személyügyi nyilvántartási feladatokat ellátó szervezeti elem köteles gondoskodni arról, hogy a fegyelmi eljárás megindulásától annak jogerős befejezéséig a fegyelmi eljárásra vonatkozó adatok a személyügyi számítógépes nyilvántartó rendszerbe felvételre kerüljenek, és a fegyelmi eljárás elrendeléséről, a beosztásból felfüggesztés elrendeléséről és megszüntetéséről, valamint az érdemi határozatról a személyügyi munkatárs tájékoztatást kapjon.
+(3)[^196] A vizsgáló, a vizsgálat befejezését követően vagy a vizsgáló megbízásának mellőzése esetén a személyügyi nyilvántartási feladatokat ellátó szervezeti elem köteles gondoskodni arról, hogy a fegyelmi eljárás megindulásától annak jogerős befejezéséig a fegyelmi eljárásra vonatkozó adatok a személyügyi számítógépes nyilvántartó rendszerbe felvételre kerüljenek, és a fegyelmi eljárás elrendeléséről, a beosztásból felfüggesztés elrendeléséről és megszüntetéséről, valamint az érdemi határozatról a személyügyi munkatárs tájékoztatást kapjon.
 
-[^195]: A 108. § (3) bekezdése a 47/2016. (XI. 23.) BM rendelet 7. § f) pontja szerint módosított szöveg.
+[^196]: A 108. § (3) bekezdése a 47/2016. (XI. 23.) BM rendelet 7. § f) pontja szerint módosított szöveg.

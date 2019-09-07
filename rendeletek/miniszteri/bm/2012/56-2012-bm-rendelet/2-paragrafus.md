@@ -28,13 +28,13 @@ e)[^5] a társadalombiztosítási azonosító jelet és adóazonosító jelét, 
 
 f)[^6] írásbeli nyilatkozatát a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 33. § (1) bekezdés f) pontjában feltételként meghatározott megbízhatósági vizsgálat lehetőségének tudomásul vételéről,
 
-g)[^7] írásbeli nyilatkozatát a Hszt. 42. § (3) bekezdés a) pontjában meghatározott adatai kezeléséhez történő hozzájárulásról,
+g)[^7]
 
-h)[^8] írásbeli nyilatkozatát a Hszt. 42. § (3) bekezdés b) pontjában foglaltak szerint kifogástalan életvitel-ellenőrzéshez történő hozzájárulásról,
+h)[^8]
 
-i)[^9] a vele közös háztartásban élő házastársa, élettársa, valamint felnőttkorú hozzátartozója Hszt. 2. melléklete szerinti írásbeli nyilatkozatát,
+i)[^9]
 
-j)[^10] a kifogástalan életvitel ellenőrzéséhez szükséges – a személyügyi munkatárs által biztosított – kitöltött és aláírt adatlapot,
+j)[^10]
 
 k)[^11] által a nemzetbiztonsági ellenőrzés kezdeményezéséhez szükséges, kitöltött és aláírt – a személyügyi munkatárs által biztosított – biztonsági kérdőívet zárt borítékban.
 
@@ -45,9 +45,9 @@ k)[^11] által a nemzetbiztonsági ellenőrzés kezdeményezéséhez szükséges
 [^4]: A 2. § (3) bekezdés c) pontja a 38/2015. (VI. 18.) BM rendelet 17. § 4. pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdés e) pontja a 38/2015. (VI. 18.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (4) bekezdés f) pontja a 38/2015. (VI. 18.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (4) bekezdés g) pontja a 38/2015. (VI. 18.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § (4) bekezdés h) pontja a 38/2015. (VI. 18.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § (4) bekezdés i) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^10]: A 2. § (4) bekezdés j) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § (4) bekezdés g) pontját a 33/2019. (VIII. 30.) BM rendelet 6. § (2) bekezdése hatályon kívül helyzte.
+[^8]: A 2. § (4) bekezdés h) pontját a 33/2019. (VIII. 30.) BM rendelet 6. § (2) bekezdése hatályon kívül helyzte.
+[^9]: A 2. § (4) bekezdés i) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 33/2019. (VIII. 30.) BM rendelet 6. § (2) bekezdése.
+[^10]: A 2. § (4) bekezdés j) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 33/2019. (VIII. 30.) BM rendelet 6. § (2) bekezdése.
 [^11]: A 2. § (4) bekezdés k) pontját a 38/2015. (VI. 18.) BM rendelet 1. § (2) bekezdése iktatta be.
 [^12]: A 2. § (5) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 5. pontja szerint módosított szöveg.
