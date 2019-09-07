@@ -1,8 +1,8 @@
-## 4. §[^5] A személyazonosító adatok nyilvántartásában szereplő, a személyiadat- és lakcímnyilvántartás vagy az idegenrendészeti nyilvántartások hatálya alá nem tartozó személynek a Szabs. tv. 151. § (2) bekezdés a) pont aa)–ae), ag) és ah) alpontjai, valamint c) pontja szerinti személyi adataiban bekövetkezett adatváltozásról az adatközlő szerv – a tudomásszerzéstől számított három napon belül – értesíti a szabálysértési nyilvántartó szervet.
+## 4. §[^6] A személyazonosító adatok nyilvántartásában szereplő, a személyiadat- és lakcímnyilvántartás vagy az idegenrendészeti nyilvántartások hatálya alá nem tartozó személynek a Szabs. tv. 151. § (2) bekezdés a) pont aa)–ae), ag) és ah) alpontjai, valamint c) pontja szerinti személyi adataiban bekövetkezett adatváltozásról az adatközlő szerv – a tudomásszerzéstől számított három napon belül – értesíti a szabálysértési nyilvántartó szervet.
 
 ## 2. A szabálysértési hatóság adatközlési kötelezettsége
 
-5. §[^6] (1) A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása részére az eljáró szabálysértési hatóság
+5. §[^7] (1) A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása részére az eljáró szabálysértési hatóság
 
 a) a Szabs. tv. 153. § (2) bekezdés b)–e) pontjában meghatározott adatokat
 
@@ -20,5 +20,5 @@ d) a meg nem fizetett pénzbírság, helyszíni bírság, valamint a közérdek�
 
 (2) A szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása részére a büntetésként kiszabott szabálysértési elzárás rendőrségi fogdán történő végrehajtása esetén a szabálysértési elzárás tényleges kezdő és utolsó napjára vonatkozó adatot az előkészítő eljárást folytató szerv a rendőrségi fogda értesítésének kézhezvételétől számított három napon belül közli.
 
-[^5]: A 4. § a 80/2013. (XII. 23.) BM rendelet 9. § 5. pontja szerint módosított szöveg.
-[^6]: Az 5. § a 11/2017. (VI. 2.) BM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 4. § a 80/2013. (XII. 23.) BM rendelet 9. § 5. pontja szerint módosított szöveg.
+[^7]: Az 5. § a 11/2017. (VI. 2.) BM rendelet 2. §-ával megállapított szöveg.
