@@ -12,6 +12,7 @@ b) egyéb esetben a rendőrség erre irányuló kérése esetén a rendőrségne
 
 ## haladéktalanul megküldi.
 
-(4) A rendőrség a megtett intézkedésekről és az általa folytatott eljárás lezárásáról írásban tájékoztatja a hatóságot.
+(4)[^14] A rendőrség a tűzesettel összefüggésben megtett intézkedéseiről és a tűzeset miatt folytatott eljárásának lezárásáról írásban tájékoztatja a hatóságot.
 
 [^13]: A 11/A. §-t a 84/2012. (XII. 28.) BM rendelet 85. § (2) bekezdése iktatta be.
+[^14]: A 12. § (4) bekezdése a 33/2019. (VIII. 30.) BM rendelet 3. §-ával megállapított szöveg.
