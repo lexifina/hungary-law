@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-47-00-00
 | --- | --- | --- |
 | 2019-06-25 | 2019. évi XLVII. törvény | 2019-47-00-00.0 (közlönyállapot) |
 | 2019-06-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-47-00-00.1 |
+| 2019-09-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-47-00-00.2 |
