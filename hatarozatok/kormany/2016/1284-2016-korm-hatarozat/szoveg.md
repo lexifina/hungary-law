@@ -68,9 +68,9 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2016. október 31.
 
-b) egyetért a Kittenberger Kálmán Növény- és Vadaspark fejlesztésével és bővítésével, amely érdekében felhívja a nemzetgazdasági minisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a fejlesztéshez szükséges legfeljebb 2500 millió forint támogatás biztosításáról, amennyiben lehetőség van rá, európai uniós fejlesztési források bevonásával;
+b)[^5] egyetért a Kittenberger Kálmán Növény- és Vadaspark fejlesztésével és bővítésével, amelynek érdekében felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a fejlesztéshez szükséges támogatás biztosításáról, amennyiben lehetőség van rá, európai uniós fejlesztési források bevonásával;
 
-Felelős: nemzetgazdasági miniszter
+Felelős: pénzügyminiszter
 
 Miniszterelnökséget vezető miniszter
 
@@ -134,3 +134,4 @@ Határidő: azonnal
 [^2]: A 2. pont d) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
 [^3]: A 2. pont e) alpontját az 1657/2017. (IX. 13.) Korm. határozat 3. pontja iktatta be.
 [^4]: A 3. pont a) alpontja az 1394/2016. (VII. 21.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^5]: A 3. pont b) alpontja az 1526/2019. (IX. 10.) Korm. határozat 2. pontjával megállapított szöveg.
