@@ -8,7 +8,7 @@ c) anyja nevét,
 
 d) lakcímét vagy tartózkodási helyét, levelezési címét,
 
-e) a munkaviszony, közalkalmazotti, közszolgálati jogviszony típusát és fennállásának kezdő időpontját,
+e)[^3] a jogviszony típusát (munkaviszony, közalkalmazotti, kormányzati szolgálati jogviszony) és fennállásának kezdő időpontját,
 
 f) ha saját jogú, hozzátartozói nyugellátásban, illetve nyugdíjszerű társadalombiztosítási ellátásban részesül, amely a kedvezményre való jogosultságot eredményezi, a nyugellátás vagy társadalombiztosítási ellátás típusát és megállapításának kezdő időpontját, a jogosultság időtartamát a nyugdíjfolyósító szerv igazolása alapján.
 
@@ -19,3 +19,5 @@ f) ha saját jogú, hozzátartozói nyugellátásban, illetve nyugdíjszerű tá
 (4) A szolgáltató vasúti társaság a kedvezményre jogosultnak a kedvezmény biztosításával összefüggő, a kérelmező, valamint a munkáltató kedvezményezett vasúti társaság, a közigazgatási szerv, az egyéb szervezet, és a vasútegészségügyi szervezet által megadott adatait a kedvezményre való jogosultság megszűnésekor törli.
 
 (5) Amennyiben a jogosult az igazolványt érvényességi időn belül elveszti, akkor a szolgáltató vasúti társaság a jogosult által fizetett külön díj ellenében ismételt kérelemre új igazolványt állít ki.
+
+[^3]: A 8. § (1) bekezdés e) pontja a 33/2019. (IX. 10.) ITM rendelet 5. §-ával megállapított szöveg.
