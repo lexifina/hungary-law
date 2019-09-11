@@ -28,9 +28,9 @@ aa) természetes személyazonosító adatait,
 
 ab) lakcímét,
 
-ac) által betöltött munkakör és a végzett tevékenység megnevezését,
+ac)[^3] által betöltött munkakör és a végzett tevékenység, illetve az álláshelyén ellátott feladatok megnevezését,
 
-b) a munkakörben töltött idő naptári időtartamát,
+b)[^4] a munkakörben, álláshelyen töltött idő naptári időtartamát,
 
 c) a munkáltató vagy foglalkoztató megnevezését, címét és cégszerű aláírását.
 
@@ -39,3 +39,5 @@ c) a munkáltató vagy foglalkoztató megnevezését, címét és cégszerű al�
 (8) Ha a munkáltató vagy foglalkoztató jogutód nélkül szűnt meg, a szakmai gyakorlati idő igazolására a munkáltatóval vagy foglalkoztatóval kötött olyan megállapodás is alkalmas, amely hitelt érdemlően tanúsítja az adott bányászati szakterületen szerzett gyakorlati időt, és amely tartalmazza a (6) bekezdés a) pont aa) alpontjában meghatározott természetes személyazonosító adatokat.
 
 [^2]: A 2. § (1) bekezdés b) pontja a 82/2012. (XII. 28.) NFM rendelet 25. §-a szerint módosított szöveg.
+[^3]: A 2. § (6) bekezdés a) pont ac) alpontja a 33/2019. (IX. 10.) ITM rendelet 9. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (6) bekezdés b) pontja a 33/2019. (IX. 10.) ITM rendelet 9. § b) pontja szerint módosított szöveg.
