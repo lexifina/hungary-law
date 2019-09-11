@@ -30,7 +30,7 @@ e) az útmenti ingatlan vagy a közút mellé épített várakozóhely, vagy az 
 
 f)[^12] a KRESZ 2. számú függelék zs/5. pontjában meghatározott tájékoztató táblákat a fixen telepített elektronikus eszközökkel sebességellenőrzést végző
 
-köteles elhelyezni (végrehajtani) és fenntartani.
+## köteles elhelyezni (végrehajtani) és fenntartani.
 
 (9) Az út kezelőjének hozzájárulása szükséges tömegközlekedési járat útvonalának és megállóhelyeinek kijelöléséhez.
 
@@ -48,7 +48,7 @@ c)[^14] a vasúti átjárót érintően a vasúti pályát, illetőleg az utat k
 
 d) a vasúti átjáró biztosítási módját megváltoztatják,
 
-a költségek az építtetőt terhelik.
+## a költségek az építtetőt terhelik.
 
 (13)[^15] A (2)–(8) bekezdésben meghatározott közúti jelzéseket, berendezéseket azok elhelyezőjének vagy üzemeltetőjének tisztán és üzemképes állapotban kell tartania. Ennek elmulasztása esetén az út kezelője a (8) bekezdés a) és d) pontjában megjelölt jelzést, továbbá a közútkezelői hozzájárulás nélkül vagy a közútkezelői hozzájárulásban foglaltaktól eltérően elhelyezett jelzést az elhelyező költségére eltávolíthatja.
 

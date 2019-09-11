@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1984-20-20-2
 | 2014-03-15 | 1984-20-20-20.21 | 55/2011. (X. 24.) NFM rendelet |
 | 2014-12-14 | 1984-20-20-20.22 | 50/2014. (XII. 11.) NFM rendelet |
 | 2017-01-03 | 1984-20-20-20.23 | 1/2017. (I. 3.) NFM rendelet |
+| 2019-09-11 | 1984-20-20-20.24 | 33/2019. (IX. 10.) ITM rendelet |
