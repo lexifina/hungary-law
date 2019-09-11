@@ -20,14 +20,6 @@ Határidő: a támogatói okirat módosítására azonnal
 
 a 2019. évi és a 2020. évi költségvetési támogatás folyósítására a fedezet rendelkezésre állásától és a támogatói okirat módosításának hatálybalépésétől számított 30 napon belül
 
-2. A Korm. határozat 3. pont b) alpontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-[A Kormány Veszprém kulturális életének gazdagítását és turisztikai vonzerejének növelését támogatva, a város életében betöltött szerepüket elismerve]
-
-„b) egyetért a Kittenberger Kálmán Növény- és Vadaspark fejlesztésével és bővítésével, amelynek érdekében felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a fejlesztéshez szükséges támogatás biztosításáról, amennyiben lehetőség van rá, európai uniós fejlesztési források bevonásával;
-
-Felelős: pénzügyminiszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: a fejlesztés megvalósításához igazodva, a felmerülés ütemében”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
