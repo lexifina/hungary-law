@@ -526,7 +526,7 @@ Szemlebizottság
 
 (b) az ellenőrizendő hajó vezetésére feljogosító képesítő okmánnyal rendelkező személy.
 
-3. A szemlebizottság elnökét és tagjait a hajózási hatóság jelöli ki. Az elnöknek és a tagoknak – a hajózási hatóság köztisztviselőit kivéve – feladataik átvételekor írásos nyilatkozatot kell tenniük arról, hogy azokat teljesen függetlenül fogják végrehajtani.
+3. A szemlebizottság elnökét és tagjait a hajózási hatóság jelöli ki. Az elnöknek és a tagoknak – a hajózási hatóság kormánytisztviselőit kivéve – feladataik átvételekor írásos nyilatkozatot kell tenniük arról, hogy azokat teljesen függetlenül fogják végrehajtani.
 
 4. A szemlebizottság(ok) tevékenységük támogatására szakértőket vonhatnak be.
 
@@ -4972,7 +4972,7 @@ Hajóépítési és gépészeti követelmények
 
 Árboczat általában
 
-[^51]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
+[^51]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény

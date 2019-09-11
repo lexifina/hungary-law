@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-13-20-9
 | 2017-01-01 | 2001-13-20-93.20 | 1/2010. (I. 8.) KHEM rendelet |
 | 2017-01-03 | 2001-13-20-93.21 | 9/2008. (III. 21.) GKM rendelet |
 | 2018-01-01 | 2001-13-20-93.22 | 55/2017. (XII. 27.) NFM rendelet |
+| 2019-09-11 | 2001-13-20-93.23 | 9/2008. (III. 21.) GKM rendelet |
