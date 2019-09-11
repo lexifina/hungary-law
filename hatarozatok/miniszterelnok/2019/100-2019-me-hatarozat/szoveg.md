@@ -4,4 +4,6 @@ a) Schanda Tamás Jánost a Partnerségi Megállapodás monitoring bizottsága e
 
 b) Perényi Sigismund Petert, az Innovációs és Technológiai Minisztérium államtitkárát a Partnerségi Megállapodás monitoring bizottsága elnökévé – 2019. szeptember 11-i hatállyal – kinevezem.
 
-2. Visszavonom a 2014–2020 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek felmentéséről és a monitoring bizottságok elnökének kinevezéséről szóló 90/2018. (VII. 2.) ME határozat 2. pont a) alpontját.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-100-30-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-09-10 | 2019-100-30-63.1 | 100/2019. (IX. 10.) ME határozat |
+| 2019-09-11 | 2019-100-30-63.2 | 20/2021. (IV. 6.) ME határozat |
