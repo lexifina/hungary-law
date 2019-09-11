@@ -4,4 +4,6 @@ a) Schanda Tamás Jánost a Fejlesztéspolitikai Koordinációs Bizottság elnö
 
 b) Perényi Sigismund Petert, az Innovációs és Technológiai Minisztérium államtitkárát a Fejlesztéspolitikai Koordinációs Bizottság elnökévé – 2019. szeptember 11-i hatállyal – kijelölöm.
 
-2. Visszavonom a Fejlesztéspolitikai Koordinációs Bizottság elnökének felmentéséről és új elnökének kijelöléséről szóló 31/2018. (V. 25.) ME határozatot.
+2.[^2]
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
