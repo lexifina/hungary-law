@@ -4,6 +4,6 @@ a) a szakértő iskolai végzettségét, és
 
 b) a szakterület megnevezését.
 
-(2)[^12]
+(2)[^14]
 
-[^12]: A 8. § (2) bekezdését az 5/2016. (III. 17.) NFM rendelet 14. §-a hatályon kívül helyezte.
+[^14]: A 8. § (2) bekezdését az 5/2016. (III. 17.) NFM rendelet 14. §-a hatályon kívül helyezte.

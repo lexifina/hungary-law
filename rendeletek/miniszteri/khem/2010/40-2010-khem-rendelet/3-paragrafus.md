@@ -16,18 +16,20 @@ a) az igazolást kérő személy
 
 aa)–ab)[^6]
 
-ac) által betöltött munkakör és a végzett tevékenység megnevezését,
+ac)[^7] által betöltött munkakör és a végzett tevékenység, illetve az álláshelyén ellátott feladatok megnevezését,
 
-b) a munkakörben töltött időtartamot naptári napokban, és
+b)[^8] a munkakörben, álláshelyen töltött időtartamot naptári napokban, és
 
 c) a munkáltató vagy foglalkoztató megnevezését, címét, és cégszerű aláírását.
 
 (5) Ha a munkáltató vagy foglalkoztató jogutód nélkül szűnt meg, a gyakorlati időt és az igazolást kérő személy természetes személyazonosító adatait tartalmazó szerződés vagy a munkavégzés igazolására alkalmas dokumentum is elfogadható a szakmai gyakorlati idő igazolására.
 
-(6)[^7] A bejelentés megtételével egyidejűleg a földtani szakértő írásban nyilatkozik arról, hogy hozzájárul-e a nyilvántartásban szereplő adatainak az MBFSZ nyilvános földtani szakértői adatbázisában történő közzétételéhez.
+(6)[^9] A bejelentés megtételével egyidejűleg a földtani szakértő írásban nyilatkozik arról, hogy hozzájárul-e a nyilvántartásban szereplő adatainak az MBFSZ nyilvános földtani szakértői adatbázisában történő közzétételéhez.
 
 [^3]: A 3. § (1) bekezdése az 5/2016. (III. 17.) NFM rendelet 9. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdése az 5/2016. (III. 17.) NFM rendelet 9. §-ával megállapított szöveg.
 [^5]: A 3. § (4) bekezdés nyitó szövegrésze az 5/2016. (III. 17.) NFM rendelet 13. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (4) bekezdés a) pont aa)–ab) alpontját az 52/2017. (XII. 22.) NFM rendelet 18. §-a hatályon kívül helyezte.
-[^7]: A 3. § (6) bekezdése az 5/2016. (III. 17.) NFM rendelet 13. § b) pontja, a 24/2017. (VI. 30.) NFM rendelet 11. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdés a) pont ac) alpontja a 33/2019. (IX. 10.) ITM rendelet 10. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdés b) pontja a 33/2019. (IX. 10.) ITM rendelet 10. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (6) bekezdése az 5/2016. (III. 17.) NFM rendelet 13. § b) pontja, a 24/2017. (VI. 30.) NFM rendelet 11. § b) pontja szerint módosított szöveg.
