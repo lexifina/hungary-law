@@ -1,4 +1,4 @@
-7. §[^10] (1) A vizsgabiztosi tevékenységet a közlekedési hatóság állami tisztviselő vagy a vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel ER.-ben meghatározott követelményeknek.
+7. §[^10] (1)[^11] A vizsgabiztosi tevékenységet a közlekedési hatóság kormánytisztviselője vagy a vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel ER.-ben meghatározott követelményeknek.
 
 (2) A vizsgabiztosi engedély iránti kérelemnek tartalmaznia kell a kérelmező
 
@@ -18,7 +18,7 @@ g) vezetői engedély számát,
 
 h) a vezetői engedélybe bejegyzett járműkategóriák megjelölését,
 
-i) jelenlegi beosztását (munkakörét),
+i)[^12]
 
 j) munkáltatójának megnevezését és címét.
 
@@ -79,3 +79,5 @@ kérelemre igazolást állít ki.
 (13) A vizsgabiztosok szakmai képzésének szabályait az ER. tartalmazza.
 
 [^10]: A 7. § a 2/2018. (II. 5.) NFM rendelet 19. §-ával megállapított szöveg.
+[^11]: A 7. § (1) bekezdése a 33/2019. (IX. 10.) ITM rendelet 7. §-a szerint módosított szöveg.
+[^12]: A 7. § (2) bekezdés i) pontját a 33/2019. (IX. 10.) ITM rendelet 8. §-a hatályon kívül helyezte.
