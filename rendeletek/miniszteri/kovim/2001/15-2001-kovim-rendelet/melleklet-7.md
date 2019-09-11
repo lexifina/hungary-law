@@ -818,27 +818,21 @@ b) A vizsgahelyet a hajózási hatóság hagyja jóvá, illetve jelöli ki.
 
 3.[^286] A vizsgabiztosok
 
-A Vizsgabiztosok Névjegyzékében szereplő vizsgabiztos – külön erre vonatkozó megállapodás nélkül – bármely hajózási hatóság vizsgájára kijelölhető a kinevezésben szereplő jogosultságnak megfelelően. A vizsgabiztosok felkérését a hajózási hatóság erre – a munkaköri leírásában – kijelölt vizsgaszervező köztisztviselője végzi.
+A Vizsgabiztosok Névjegyzékében szereplő vizsgabiztos – külön erre vonatkozó megállapodás nélkül – bármely hajózási hatóság vizsgájára kijelölhető a kinevezésben szereplő jogosultságnak megfelelően. A vizsgabiztosok felkérését a hajózási hatóság végzi.
 
 4. A vizsgabizottság
 
 4.1. A vizsgabizottság minden esetben legalább két (felsőfokú vizsga esetén három) tagból áll. A vizsgáztatásban a vizsgabizottság tagjai (vizsgabiztosok) együttesen vesznek részt.
 
-4.2. A vizsgabizottság elnöke minden
-
-– elméleti vizsgán,
-
-– hivatásos és szolgálati célú képesítő vizsgán (a 5.3–5.4 bekezdésekben meghatározott esetek kivételével)
-
-köztisztviselő.
+4.2.[^287]
 
 4.3. Tengeri hajó fedélzetén tartott vizsga esetén a vizsgabizottság összetétele fedélzeti vizsgánál a hajó parancsnoka és I. tisztje, gépüzemi vizsgánál a hajó parancsnoka és gépüzemvezetője (vizsgabiztosok), illetve külföldi lobogójú hajó esetében a hajó parancsnoka és egy magyar állampolgárságú tengerész (vizsgabiztos). Ha ezek a feltételek nem állnak rendelkezésre, akkor a vizsgabiztos egyedül vizsgáztathat.
 
 4.4. Ha a tengeri hajón nincs magyar állampolgárságú vizsgabiztos vagy kinevezett vizsgabiztos, akkor a hajó parancsnoka által kiállított tanúsítvány alapján a hajózási hatóság hitelesíti a vizsgajegyzőkönyvet. Ilyen esetben a hajózási hatóság jogosult pótlólagos szóbeli kérdéseket feltenni. A vizsgajegyzőkönyv alapján, ha a vizsgához előírt egyéb feltételek fennállnak és ezek dokumentálhatók, a hajózási hatóság az okmányt kiállítja.
 
-4.5. A vizsga egyéb résztvevői:
+4.5.[^288] A vizsga egyéb résztvevői:
 
-– A vizsgát szakfelügyelő, ellenőrző hatóság köztisztviselői a vizsga teljes folyamatában feladatkörükben eljárhatnak. A vizsgabizottságot indokolt esetben felmenthetik, a vizsgát felfüggeszthetik. A vizsgázókat a vizsgához kapcsolódó dokumentumok átadására kötelezhetik.
+– A vizsgát szakfelügyelő, ellenőrző hatóság feladatkörében a vizsga teljes folyamatában eljárhat. A vizsgabizottságot indokolt esetben felmenthetik, a vizsgát felfüggeszthetik. A vizsgázókat a vizsgához kapcsolódó dokumentumok átadására kötelezhetik.
 
 – A felkészítő oktató a jóváhagyott képzést végző képző szerv kérésére és a vizsgabizottság elnöke engedélyével jelen lehet a vizsgán a vizsgabizottság által kijelölt helyen úgy, hogy a vizsgát nem zavarhatja vagy befolyásolhatja.
 
@@ -888,7 +882,7 @@ A vizsgabizottsági tag:
 
 – végzi az elnök által rábízott feladatokat.
 
-4.7.[^287] A vizsgabiztosok díjazása
+4.7.[^289] A vizsgabiztosok díjazása
 
 A vizsgabiztost díjazás illeti meg. A díjazás magában foglalja a vizsgáztatási díjat és a vizsgáztatók utazási és szállásköltségét is. A vizsgáztatási díjnak a képesítés vizsgakövetelményében meghatározott vizsgatárgyak számától vagy az egy vizsgázó teljes vizsgájának összidejétől függő kategóriába sorolása a következő:
 
@@ -916,7 +910,7 @@ A vizsgaszervező – a vizsgáztatóval egyeztetetten – gondoskodhat az utazt
 
 A vizsgadíj kifizetésére, illetve átutalására vonatkozóan a hajózási hatóság havi, illetve kéthavonta történő (göngyölített) kifizetést köthet ki (ezt a kijelölési okiratban rögzíteni kell). A vizsgabiztos kérelmére a vizsgadíj összevontan is kifizethető. Ha a vizsgabiztos lemond a vizsgadíjról, akkor erről nyilatkoznia kell.
 
-4.8.[^288] A tolmács tevékenysége
+4.8.[^290] A tolmács tevékenysége
 
 A tolmács:
 
@@ -1060,7 +1054,7 @@ a) A hivatásos képesítő vizsga esetében a sikeres elméleti vizsgáról, ha
 
 b) A belvízi kedvtelési célú vizsga esetében a sikeres elméleti vizsga igazolására hitelesített gyakorlati vizsgalapot állít ki az elméleti vizsgát lebonyolító hajózási hatóság.
 
-c) A képesítő okmány megfelelő helyére a képesítés törzskönyvi számát be kell jegyezni. Az okmányokat a hajózási hatóság körbélyegzőjével és az arra jogosult köztisztviselő aláírásával kell hitelesíteni.
+c)[^291] A képesítő okmány megfelelő helyére a képesítés törzskönyvi számát be kell jegyezni.
 
 d) A képesítő okmány kiadásakor egy másolati példányt a tulajdonossal alá kell íratni és azt, a törzskönyvi nyilvántartás szabályainak megfelelően, kell megőrizni.
 
@@ -1072,7 +1066,7 @@ A képesítő vizsgára jelentkezőkről és a vizsgát tett személyekről a ha
 
 Sikeres a képesítő vizsgája annak, aki minden tárgyból „Megfelelt” minősítéssel tett vizsgát, illetve az e Szabályzatban előírt pontszámot elérte (illetve felmentése volt). A vizsga eredményét a vizsgázóval a vizsga befejezése után közvetlenül, vizsgatárgyanként ismertetni kell.
 
-Függelék a Vizsgaszabályzathoz[^289]
+Függelék a Vizsgaszabályzathoz[^292]
 
 A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek kijelölése
 
@@ -1115,7 +1109,10 @@ A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek ki
 [^283]: A 7. számú melléklet 1.3.1. pontjának e) alpontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
 [^284]: A 7. számú melléklet 1.3.2. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-a szerint módosított szöveg.
 [^285]: A 7. számú melléklet 1.5. pontja a 9/2009. (III. 6.) KHEM rendelet 8. §-ával megállapított szöveg.
-[^286]: A 7. számú melléklet 3. pontja a 29/2014. (V. 5.) NFM rendelet 19. § i) pontja szerint módosított szöveg.
-[^287]: A 7. számú melléklet 4. pont 4.7. alpontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított, a 29/2014. (V. 5.) NFM rendelet 19. § j) pontja szerint módosított szöveg.
-[^288]: A 7. számú melléklet 4.8. pontja a 42/2013. (VII. 19.) NFM rendelet 3. § d) pontja szerint módosított szöveg.
-[^289]: A 7. számú melléklet függeléke a 29/2014. (V. 5.) NFM rendelet 18. § (6) bekezdésével megállapított szöveg.
+[^286]: A 7. számú melléklet 3. pontja a 29/2014. (V. 5.) NFM rendelet 19. § i) pontja, a 33/2019. (IX. 10.) ITM rendelet 4. § a) pontja szerint módosított szöveg.
+[^287]: A 7. számú melléklet 4. pont 4.2. alpontját a 33/2019. (IX. 10.) ITM rendelet 4. § b) pontja hatályon kívül helyezte.
+[^288]: A 7. számú melléklet 4. pont 4.5. alpontja a 33/2019. (IX. 10.) ITM rendelet 3. §-a szerint módosított szöveg.
+[^289]: A 7. számú melléklet 4. pont 4.7. alpontja a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított, a 29/2014. (V. 5.) NFM rendelet 19. § j) pontja szerint módosított szöveg.
+[^290]: A 7. számú melléklet 4.8. pontja a 42/2013. (VII. 19.) NFM rendelet 3. § d) pontja szerint módosított szöveg.
+[^291]: A 7. számú melléklet 6. pont 6.2. alpont c) pontja a 33/2019. (IX. 10.) ITM rendelet 4. § c) pontja szerint módosított szöveg.
+[^292]: A 7. számú melléklet függeléke a 29/2014. (V. 5.) NFM rendelet 18. § (6) bekezdésével megállapított szöveg.
