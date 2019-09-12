@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-6-20-39
 | 2017-07-01 | 1996-6-20-39.40 | 12/2017. (VI. 29.) NGM rendelet |
 | 2018-01-01 | 1996-6-20-39.41 | 51/2017. (XII. 29.) NGM rendelet |
 | 2019-03-29 | 1996-6-20-39.42 | 27/2016. (VIII. 22.) NGM rendelet |
+| 2019-09-12 | 1996-6-20-39.43 | 10/2019. (IX. 4.) PM rendelet |

@@ -8,8 +8,9 @@
 
 ## d) a képzésben résztvevő személyi jellegű ráfordításai és az általános közvetett költség (pl. adminisztrációs költség, bérleti díj, rezsi költség) azokra az órákra vonatkozóan, amelyen a képzésben résztvevő részt vesz,
 
-## e) a képzésben résztvevő megváltozott munkaképességű munkavállaló minimálisan szükséges szállásköltsége.
+## e)[^297] a képzésben résztvevő megváltozott munkaképességű személy minimálisan szükséges szállásköltsége.
 
-3. számú melléklet a 6/1996. (VII. 16.) MüM rendelethez[^280]
+3. számú melléklet a 6/1996. (VII. 16.) MüM rendelethez[^298]
 
-[^280]: A 3. számú mellékletet a 13/2003. (X. 10.) FMM rendelet 11. §-a iktatta be, hatályon kívül helyezte a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése.
+[^297]: A 2. számú melléklet e) pontja a 10/2019. (IX. 4.) PM rendelet 6. § c) pontja szerint módosított szöveg.
+[^298]: A 3. számú mellékletet a 13/2003. (X. 10.) FMM rendelet 11. §-a iktatta be, hatályon kívül helyezte a 20/2005. (X. 27.) FMM rendelet 29. § (2) bekezdése.

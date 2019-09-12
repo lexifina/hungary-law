@@ -10,7 +10,7 @@ b) a szakképzés megkezdéséhez szükséges alapismereteket nyújtó oktatás,
 
 c) pályaorientáló és álláskeresési ismeretek oktatása,
 
-d)[^5] a szakképesítéssel rendelkező személyek számára nyújtandó államilag elismert nyelvvizsga megszerzésére irányuló képzés,
+d)[^5] a szakképesítéssel vagy középfokú iskolai végzettséggel rendelkező személyek számára nyújtandó államilag elismert nyelvvizsga megszerzésére irányuló képzés,
 
 e)[^6] közúti járművek vezetésére jogosító vezetői engedély [C, D, E kategóriára, valamint e kategóriáknak a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 1. számú mellékletében meghatározott alkategóriáira és kombinált kategóriáira], mezőgazdasági vontató vezetésére jogosító járművezetői igazolvány, továbbá járművezetői engedély (II. kategóriára és trolibuszra érvényesítve), tehergépkocsi és autóbuszvezetői alap-és továbbképzési képesítés, a veszélyes áruk szállításához szükséges engedély (ADR) kiadásához előírt képzés, továbbá az autóbusszal díj ellenében végzett személyszállításhoz szükséges képzés, és az építőgép-kezelő engedély kiadásához szükséges képzés,
 
@@ -30,7 +30,7 @@ b) az olyan iskolarendszerű képzésre, amelyre az éves költségvetési törv
 
 [^3]: Az 1. § (1) bekezdése a 8/1997. (IV. 28.) MüM rendelet 1. §-ának (1) bekezdésével megállapított, nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 3. § (18) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés a) pontja a 17/2012. (VII. 5.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (1) bekezdésének d) pontja a 4/2000. (IV. 12.) SZCSM rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § (1) bekezdésének d) pontja a 4/2000. (IV. 12.) SZCSM rendelet 1. §-ával megállapított, a 10/2019. (IX. 4.) PM rendelet 6. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (1) bekezdésének e) pontja a 4/2000. (IV. 12.) SZCSM rendelet 1. §-ával megállapított, a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése, a 66/2013. (XII. 23.) NGM rendelet 15. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (1) bekezdés f) pontját a 66/2013. (XII. 23.) NGM rendelet 1. §-a iktatta be.
 [^8]: Az 1. § (2) bekezdése a 8/1997. (IV. 28.) MüM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.

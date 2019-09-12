@@ -1,4 +1,4 @@
-4. § (1)[^26] A kormányhivatal a 3. § szerinti képzést szervező intézménnyel – amennyiben van olyan személy, aki a képző intézmény által nyújtott képzésben részt fog venni, és ehhez a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától mint állami foglalkoztatási szervtől (a továbbiakban: járási hivatal) támogatásban részesül – együttműködési megállapodást köt. Az együttműködési megállapodás tartalmazza:
+4. § (1)[^27] A kormányhivatal a 3. § szerinti képzést szervező intézménnyel – amennyiben van olyan személy, aki a képző intézmény által nyújtott képzésben részt fog venni, és ehhez a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától mint állami foglalkoztatási szervtől (a továbbiakban: járási hivatal) támogatásban részesül – együttműködési megállapodást köt. Az együttműködési megállapodás tartalmazza:
 
 a) az intézmény által nyújtott, a 3. § (2) bekezdése szerinti képzések időtartamát, a képzési költség átvállalt része átutalásának feltételeit és ütemezését;
 
@@ -28,7 +28,7 @@ d) a megállapodás megszegésének következményeit, továbbá
 
 e) egyéb, a felek által fontosnak tartott feltételeket.
 
-(2)[^27] A képzési költség megállapítása szempontjából – a 8/A. § (3) bekezdésében foglaltak kivételével – az 1. számú mellékletben foglaltakat lehet figyelembe venni.
+(2)[^28] A képzési költség megállapítása szempontjából – a 8/A. § (3) bekezdésében foglaltak kivételével – az 1. számú mellékletben foglaltakat lehet figyelembe venni.
 
-[^26]: A 4. § eredeti szövegének számozását (1) bekezdésre változtatta a 8/1997. (IV. 28.) MüM rendelet 3. § (1) bekezdése, szövege a 9/2015. (III. 31.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^27]: A 4. § (2) bekezdését a 8/1997. (IV. 28.) MüM rendelet 2. §-ának (3) bekezdése iktatta be, szövege a 8/2015. (III. 30.) NGM rendelet 3. §-ával megállapított szöveg.
+[^27]: A 4. § eredeti szövegének számozását (1) bekezdésre változtatta a 8/1997. (IV. 28.) MüM rendelet 3. § (1) bekezdése, szövege a 9/2015. (III. 31.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^28]: A 4. § (2) bekezdését a 8/1997. (IV. 28.) MüM rendelet 2. §-ának (3) bekezdése iktatta be, szövege a 8/2015. (III. 30.) NGM rendelet 3. §-ával megállapított szöveg.

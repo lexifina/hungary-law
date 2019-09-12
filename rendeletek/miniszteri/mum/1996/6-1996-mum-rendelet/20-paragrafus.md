@@ -1,3 +1,3 @@
-## 19/C. §[^162]
+## 19/C. §[^172]
 
-[^162]: A 19/C. §-t a 31/2004. (XII. 21.) FMM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 66/2013. (XII. 23.) NGM rendelet 16. § f) pontja.
+[^172]: A 19/C. §-t a 31/2004. (XII. 21.) FMM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 66/2013. (XII. 23.) NGM rendelet 16. § f) pontja.
