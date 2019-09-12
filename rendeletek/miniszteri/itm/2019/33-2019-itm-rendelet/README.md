@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-33-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-09-11 | 2019-33-20-7Q.1 | 33/2019. (IX. 10.) ITM rendelet |
+| 2019-09-12 | 2019-33-20-7Q.2 | 2010: CXXX. törvény |

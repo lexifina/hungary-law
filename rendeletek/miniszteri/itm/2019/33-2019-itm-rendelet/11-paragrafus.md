@@ -1,5 +1,7 @@
-## lép.
+## 10. §[^8]
 
 ## 8. Záró rendelkezések
 
 11. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^8]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
