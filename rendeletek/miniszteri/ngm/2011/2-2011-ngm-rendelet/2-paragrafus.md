@@ -1,6 +1,6 @@
-2. § (1)[^2] A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 54. § (9) bekezdés d) pontjában meghatározott aktív munkahelykeresőnek az a személy tekinthető, aki 30 napon belül képes és kész munkába állni a járási hivatal által felajánlott megfelelő munkahelyen, vagy az önmaga által talált olyan munkahelyen, ahol a heti munkaidő eléri a legalább 16 órát.
+2. § (1)[^3] A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 54. § (9) bekezdés d) pontjában meghatározott aktív munkahelykeresőnek az a személy tekinthető, aki 30 napon belül képes és kész munkába állni a járási hivatal által felajánlott megfelelő munkahelyen, vagy az önmaga által talált olyan munkahelyen, ahol a heti munkaidő eléri a legalább 16 órát.
 
-(2)[^3]
+(2)[^4]
 
 (3) Az álláskeresőt az Flt. 54. § (14) bekezdés
 
@@ -12,21 +12,22 @@
 
 4. d) és e) pontjában meghatározott esetben a kötelezettség elmulasztásának napjától,
 
-5. g) pontjában meghatározott esetben az álláskeresési járadék, az álláskeresési segély, a vállalkozói járadék folyósítási ideje lejártát követő naptól, illetve a rendszeres szociális segély megállapításának napjától,
+5.[^5]
 
 6. h) pontjában meghatározott esetben az egészségkárosodott állapot megállapításának napjától,
 
-7.[^4]
+7.[^6]
 
 kell törölni a nyilvántartásból.
 
 (4) Ha az álláskeresőt az Flt. 54. § (14) bekezdés d) és e) pontjában foglaltak alapján törölték a nyilvántartásból, újbóli nyilvántartásba vételére csak a törléstől számított 60 nap elteltével kerülhet sor.
 
-(5)[^5] Ha más jogszabály az álláskeresőként való nyilvántartás időtartamának mértékét feltételként írja elő, ebbe az időtartamba a járási hivatal által támogatott képzésben történő részvétel időtartamát be kell számítani.
+(5)[^7] Ha más jogszabály az álláskeresőként való nyilvántartás időtartamának mértékét feltételként írja elő, ebbe az időtartamba a járási hivatal által támogatott képzésben történő részvétel időtartamát be kell számítani.
 
 (6) Az Flt. 54. § (9) bekezdés f) pontjában meghatározott munkaerő-piaci programon az európai uniós forrásból megvalósuló programokat is érteni kell.
 
-[^2]: A 2. § (1) bekezdése a 9/2015. (III. 31.) NGM rendelet 46. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (2) bekezdését az 51/2017. (XII. 29.) NGM rendelet 12. § a) pontja hatályon kívül helyezte.
-[^4]: A 2. § (3) bekezdés 7. pontját az 51/2017. (XII. 29.) NGM rendelet 12. § b) pontja hatályon kívül helyezte.
-[^5]: A 2. § (5) bekezdése a 9/2015. (III. 31.) NGM rendelet 46. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 9/2015. (III. 31.) NGM rendelet 46. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdését az 51/2017. (XII. 29.) NGM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (3) bekezdés 5. pontját a 10/2019. (IX. 4.) PM rendelet 20. §-a hatályon kívül helyezte.
+[^6]: A 2. § (3) bekezdés 7. pontját az 51/2017. (XII. 29.) NGM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^7]: A 2. § (5) bekezdése a 9/2015. (III. 31.) NGM rendelet 46. § a) pontja szerint módosított szöveg.
