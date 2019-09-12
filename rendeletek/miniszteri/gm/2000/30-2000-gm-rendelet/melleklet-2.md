@@ -1,70 +1,98 @@
 ## A szolgáltatás nyújtásának személyi feltételei
 
-## A kormányhivatal által támogatott szolgáltatást – az e) 3. pontban foglaltak kivételével – egyetemi vagy főiskolai szintű végzettséggel, illetve az új, többciklusú képzési rendszernek megfelelően alapfokozattal vagy mesterfokozattal rendelkezők nyújthatnak, ha a következőkben meghatározott szakképzettség valamelyikével rendelkeznek:
+## A kormányhivatal által támogatott szolgáltatást – az e) pont 3. alpontjában foglaltak kivételével – egyetemi vagy főiskolai szintű végzettséggel, illetve az új, többciklusú képzési rendszernek megfelelően alapfokozattal vagy mesterfokozattal rendelkezők nyújthatnak, ha a következőkben meghatározott szakképzettség valamelyikével rendelkeznek:
 
 ## a) munkaerőpiaci és foglalkozási információk nyújtása, valamint helyi (térségi, EURES) foglalkoztatási tanácsadás esetén bármely felsőfokú végzettség, továbbá munkaerőpiaci információnyújtás esetében ezen a területen szerzett egy év szakmai gyakorlat;
 
 ## b) munka-, pálya-, rehabilitációs tanácsadás nyújtása esetén
 
-## 1. munkavállalási tanácsadó végzettség, vagy
+## 1. munkavállalási tanácsadó végzettség,
 
-## 2. szociálpedagógiai végzettség, vagy
+## 2. szociálpedagógiai végzettség, szociálpedagógus végzettség,
 
-## 3. szociális munkás végzettség, vagy
+## 3. szociális munkás végzettség,
 
-## 4. munka- és pályatanácsadó végzettség, vagy
+## 4. munka- és pályatanácsadó végzettség,
 
-## 5. felsőoktatási diáktanácsadó posztgraduális végzettség, vagy
+## 5. felsőoktatási diáktanácsadó posztgraduális végzettség,
 
-## 6. tanulási és pályatanácsadó pedagógus végzettség, vagy
+## 6. tanulási és pályatanácsadó pedagógus végzettség,
 
-## 7. felsőfokú mentálhigiénés végzettség, vagy
+## 7. felsőfokú mentálhigiénés végzettség,
 
-## 8. pályaorientációs tanár, vagy
+## 8. pályaorientációs tanár,
 
-## 9. pszichológus végzettség, vagy
+## 9. pszichológus vagy viselkedéselemző végzettség,
 
-## 10. tanácsadó szakpszichológus végzettség, munka- és pályatanácsadó specializációval, vagy
+## 10. tanácsadó szakpszichológus végzettség, munka- és pályatanácsadó specializációval, vagy okleveles pszichológus végzettség (munka- és szervezetpszichológia vagy tanácsadás- és iskolapszichológia specializáción),
 
-## 11. munka- és szervezetpszichológiai szakpszichológus végzettség, vagy
+## 11. szociális menedzser,
 
-## 12. szociális menedzser, vagy
+## 12. szociológus, szociológia alapszakos szakelőadó vagy okleveles szociológus,
 
-## 13. szociológus, vagy
+## 13. szociális szervező,
 
-## 14. szociális szervező, vagy
+## 14. jogász, okleveles jogász,
 
-## 15. jogász, vagy
+## 15. andragógus vagy okleveles andragógus,
 
-## 16. andragógus, vagy
+## 16. személyügyi szervező,
 
-## 17. személyügyi szervező, vagy
+## 17. szociálpolitikus vagy okleveles szociálpolitikus,
 
-## 18. szociálpolitikus, vagy
+## 18. gyógypedagógus, gyógypedagógus bármely szakirányon vagy okleveles gyógypedagógus,
 
-## 19. gyógypedagógus, vagy
+## 19. bármilyen szakos tanár, tanító, óvodapedagógus,
 
-## 20. bármilyen szakos tanár, vagy
+## 20. igazgatásszervező, humánszervező, emberi erőforrás tanácsadó, emberi erőforrás menedzser vagy
 
-## 21. igazgatásszervező;
+## 21. romológus;
 
 ## c) pszichológiai tanácsadás esetén
 
-## 1. pszichológus végzettség, vagy
+## 1. pszichológus vagy viselkedéselemző végzettség,
 
 ## 2. tanácsadó szakpszichológus végzettség, munka- és pályatanácsadó specializációval, vagy
 
-## 3. munka- és szervezetpszichológiai szakpszichológus végzettség;
+## 3. munka- és szervezetpszichológiai szakpszichológus végzettség, okleveles pszichológus végzettség (munka- és szervezetpszichológia vagy tanácsadás- és iskolapszichológia specializáción);
 
-## d) álláskeresési tanácsadás esetén felsőfokú humán végzettség;
+## d) álláskeresési tanácsadás esetén felsőfokú humán (pedagógia, pszichológia, szociológia, kommunikáció) végzettség;
 
-## e) munkaerő-piaci segítő (mentor) tevékenység esetében:
+## e) munkaerőpiaci segítő (mentor) tevékenység esetében
 
-## 1. egyetemi szintű jogász, orvos, humánszervező, pszichológus, szociálpolitikus vagy szociológus szakképzettség; bölcsészettudományi vagy közgazdasági felsőoktatásban szerzett szakképzettség; egyetemen vagy főiskolán szerzett tanári végzettség, szociális munkás szakképzettség; igazgatásszervező, munkavállalási tanácsadó, munkaügyi kapcsolatok vagy személyügyi szervező szakképzettség,
+## 1. munkavállalási tanácsadó, munkaügyi kapcsolatok vagy személyügyi szervező szakképzettség, okleveles munkaügyi és társadalombiztosítási szakember (munkaügyi kapcsolatok specializáción),
 
-## 2. az 1. pontban fel nem sorolt egyetemi vagy főiskolai szintű végzettség és munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképesítés vagy szakirányú továbbképzésben szerzett személyügyi szakigazgatás-szervező szakképzettség,
+## 2. szociálpedagógiai végzettség, szociálpedagógus végzettség,
 
-## 3. középiskolai végzettség és államilag elismert felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző vagy szociális asszisztens szakképesítés.
+## 3. szociális munkás, szociálpolitikus vagy okleveles szociálpolitikus szakképzettség,
+
+## 4. felsőfokú mentálhigiénés végzettség,
+
+## 5. gyógypedagógus, gyógypedagógus bármilyen szakirányon vagy okleveles gyógypedagógus végzettség,
+
+## 6. egészségügyi végzettségek: orvos, okleveles orvosdoktor, egészségügyi szociális munka, komplex rehabilitáció, rekreációs végzettség,
+
+## 7. pszichológus, viselkedéselemző, okleveles pszichológus végzettség (munka- és szervezetpszichológia vagy tanácsadás- és iskolapszichológia specializáción),
+
+## 8. szociális menedzser vagy szociális szervező,
+
+## 9. igazgatásszervező, humánszervező, emberi erőforrás tanácsadó, emberi erőforrás menedzser,
+
+## 10. szociológus szakképzettség, szociológia alapszakos szakelőadó, okleveles szociológus,
+
+## 11. interkulturális pszichológia és pedagógiai vagy neveléstudományi végzettség,
+
+## 12. romológus végzettség,
+
+## 13. egyetemen vagy főiskolán szerzett tanári, tanítói végzettség,
+
+## 14. egyetemi szintű jogász, okleveles jogász végzettség,
+
+## 15. bölcsészettudományi vagy közgazdasági felsőoktatásban szerzett szakképzettség,
+
+## 16. az 1. pontban fel nem sorolt egyetemi vagy főiskolai szintű végzettség és munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképesítés vagy szakirányú továbbképzésben szerzett személyügyi szakigazgatás-szervező szakképzettség vagy
+
+## 17. középiskolai végzettség és államilag elismert felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző vagy szociális asszisztens szakképesítés.
 
 2–6. számú melléklet a 30/2000. (IX. 15.) GM rendelethez[^74]
 

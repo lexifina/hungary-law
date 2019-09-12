@@ -1,4 +1,4 @@
-## 1/B. §[^7] Az e rendeletben szabályozott támogatások nyújtásával kapcsolatos mérlegelés során a kormányhivatal figyelembe veszi
+## 1/B. §[^8] Az e rendeletben szabályozott támogatások nyújtásával kapcsolatos mérlegelés során a kormányhivatal figyelembe veszi
 
 a) a munkaerő-kereslet és -kínálat helyi jellemzőit,
 
@@ -10,4 +10,4 @@ d) a nyújtott szolgáltatások színvonalát, eredményességét, valamint
 
 e) a szolgáltatásokhoz kapcsolódó keresetpótló juttatás megállapítása esetén az igénybe vett szolgáltatás formáját, időtartamát.
 
-[^7]: Az 1/B. §-t az 56/2016. (XII. 22.) NGM rendelet 1. § (1) bekezdése iktatta be.
+[^8]: Az 1/B. §-t az 56/2016. (XII. 22.) NGM rendelet 1. § (1) bekezdése iktatta be.

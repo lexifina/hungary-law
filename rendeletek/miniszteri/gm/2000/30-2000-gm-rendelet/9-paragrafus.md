@@ -2,6 +2,6 @@
 
 9. § (1) A munka-, pálya-, álláskeresési és rehabilitációs tanácsadáshoz, továbbá a munkaerőpiaci képzéshez kapcsolódóan – amennyiben arra a szolgáltatás céljának elérése érdekében szükség van – a szolgáltatást igénybe vevő személy részére pszichológiai tanácsadás is nyújtható.
 
-(2)[^14] A pszichológiai tanácsadás segít feltárni az álláskeresők számára az életvezetésből, a személyiségproblémákból eredő, elhelyezkedést akadályozó körülményeket.
+(2)[^15] A pszichológiai tanácsadás segít feltárni az álláskeresők számára az életvezetésből, a személyiségproblémákból eredő, elhelyezkedést akadályozó körülményeket.
 
-[^14]: A 9. § (2) bekezdése a 20/2005. (X. 27.) FMM rendelet 29. § (7) bekezdése szerint módosított szöveg.
+[^15]: A 9. § (2) bekezdése a 20/2005. (X. 27.) FMM rendelet 29. § (7) bekezdése szerint módosított szöveg.

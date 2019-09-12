@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-30-20-8
 | 2016-09-23 | 2000-30-20-83.19 | 32/2016. (IX. 8.) NGM rendelet |
 | 2017-01-01 | 2000-30-20-83.20 | 56/2016. (XII. 22.) NGM rendelet |
 | 2017-07-01 | 2000-30-20-83.21 | 12/2017. (VI. 29.) NGM rendelet |
+| 2019-09-12 | 2000-30-20-83.22 | 10/2019. (IX. 4.) PM rendelet |
