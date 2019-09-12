@@ -1,0 +1,1 @@
+## 2. § A végrehajtási határozat mellékletének 2. szakaszában lévő opcionális tartalmi elemek közül az akadálymentesítési nyilatkozatnak tartalmaznia kell a nyilatkozat készítéséért felelős szervezeti egység vezetőjének hivatalos jóváhagyását.
