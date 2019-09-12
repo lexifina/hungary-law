@@ -6,7 +6,7 @@
 
 (3) A lengőajtókat és a kapukat átlátszó anyagból kell készíteni, vagy azokat szemmagasságban átlátszó betéttel kell ellátni.
 
-(4)[^3] Törés elleni védelemmel kell ellátni azokat az ajtókat és kapukat, amelyeknek az átlátszó vagy áttetsző betétei nem biztonságos anyagból készültek, és emiatt fennállhat a munkavállaló megsérülésének kockázata.
+(4)[^4] Törés elleni védelemmel kell ellátni azokat az ajtókat és kapukat, amelyeknek az átlátszó vagy áttetsző betétei nem biztonságos anyagból készültek, és emiatt fennállhat a munkavállaló megsérülésének kockázata.
 
 (5) A tolóajtókat biztosító szerkezettel kell ellátni, amely megakadályozza a sínről való lefutásukat vagy leesésüket.
 
@@ -18,4 +18,4 @@
 
 (9) Olyan gépi működtetésű ajtó és kapu üzemeltethető, amelynek használata nem jelenthet baleseti veszélyt a munkavállalóra. Az ilyen ajtókat és kapukat könnyen felismerhető és jól hozzáférhető biztonsági szerkezettel kell ellátni, és úgy kell kialakítani, hogy áramkimaradás esetén – ha maguktól nem nyílnak ki – kézi erővel is nyithatóak legyenek.
 
-[^3]: A 11. § (4) bekezdése a 28/2007. (IX. 29.) SZMM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2007. október 7-ét megelőzően alapított munkáltatók a módosított kötelezettségeknek legkésőbb 2008. január 1-jéig kell, hogy megfeleljenek.
+[^4]: A 11. § (4) bekezdése a 28/2007. (IX. 29.) SZMM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2007. október 7-ét megelőzően alapított munkáltatók a módosított kötelezettségeknek legkésőbb 2008. január 1-jéig kell, hogy megfeleljenek.

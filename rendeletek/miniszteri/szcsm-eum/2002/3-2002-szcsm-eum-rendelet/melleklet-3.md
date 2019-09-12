@@ -88,6 +88,6 @@
 
 ## A megadott értékek háromszorosát meg nem haladó teljesítményt nem kell figyelembe venni a munka nehézségi fokának meghatározásakor, ha a túllépés időtartama rövid és ha a megfelelő pihenési szakaszok közbeiktatásával az egy órára előírt átlagérték a határértéket nem lépi túl.
 
-3. számú melléklet a 3/2002. (II. 8.) SZCSM–EüM együttes rendelethez[^15]
+3. számú melléklet a 3/2002. (II. 8.) SZCSM–EüM együttes rendelethez[^16]
 
-[^15]: A 3. számú mellékletet a 28/2005. (XII. 28.) FMM–EüM együttes rendelet 2. § (3) bekezdése hatályon kívül helyezte.
+[^16]: A 3. számú mellékletet a 28/2005. (XII. 28.) FMM–EüM együttes rendelet 2. § (3) bekezdése hatályon kívül helyezte.

@@ -52,6 +52,6 @@ e)) fokozott figyelmet igénylő fizikai munkavégzés (elektro-, finommechanika
 
 f) vezérlőpult vagy vezérlőfülke telefonos kapcsolat nélkül, összeszerelői munkahelyek elektronikai, finommechanikai, optikai üzemekben, laboratóriumok gépi zajforrással 80 dB.
 
-2.[^16] A munkahelyeken a zaj szintje a maradandó halláskárosodás megelőzése érdekében nem haladhatja meg a munkavállalókat érő zajexpozícióra vonatkozó minimális egészségi és biztonsági követelményekről szóló 66/2005. (XII. 22.) EüM rendelet 3. §-ának (1) bekezdésében megadott határértékeket.
+2.[^17] A munkahelyeken a zaj szintje a maradandó halláskárosodás megelőzése érdekében nem haladhatja meg a munkavállalókat érő zajexpozícióra vonatkozó minimális egészségi és biztonsági követelményekről szóló 66/2005. (XII. 22.) EüM rendelet 3. §-ának (1) bekezdésében megadott határértékeket.
 
-[^16]: Az 5. számú melléklet 2. pontja a 28/2007. (IX. 29.) SZMM rendelet 7. §-ával megállapított szöveg.
+[^17]: Az 5. számú melléklet 2. pontja a 28/2007. (IX. 29.) SZMM rendelet 7. §-ával megállapított szöveg.
