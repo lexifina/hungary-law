@@ -1,0 +1,3 @@
+## 28. § A 10/2016. NGM rendelet 61. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Munkaállvány tartóelemeinek elcsúszását a felfekvési területen történő rögzítéssel vagy elcsúszást megakadályozó elemmel vagy más hasonló, azonos értékű megoldással kell biztosítani. A terhelt felület teherviselő képességének meg kell felelnie az állványosztálynak. A munkaállvány állékonyságát biztosítani kell. A gördíthető munkaállványt akaratlan elmozdulás ellen e célra kialakított rögzítőberendezéssel kell stabilizálni. A gördíthető munkaállvány mozgatásakor az állványon tartózkodni, anyagokat, tárgyakat tárolni nem szabad.”
