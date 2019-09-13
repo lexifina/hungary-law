@@ -6,4 +6,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 3. felhívom a külgazdasági és külügyminisztert, a belügyminisztert és az igazságügyi minisztert, hogy a Megállapodás kihirdetéséről szóló törvény tervezetét a Megállapodás szövegének végleges megállapítását követően haladéktalanul terjessze a Kormány elé;
 
-4. visszavonom a Magyarország Kormánya és Katar Állam Kormánya között a diplomata, szolgálati és különleges útlevéllel rendelkező állampolgáraik vízummentességéről szóló Megállapodás szövegének végleges megállapítására adott felhatalmazásról szóló 42/2014. (V. 13.) ME határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
