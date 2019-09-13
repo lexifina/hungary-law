@@ -2,10 +2,9 @@
 
 ## 32. § Hatályát veszti
 
-a)[^8]
+a)[^18]
 
-b) a Karrier Híd programban való részvétel további feltételeiről, valamint a szociális hozzájárulási adókedvezmény igénybevételéhez szükséges igazolás kiadásáról szóló 2/2012. (II. 7.) NGM rendelet,
+b)–c)[^19]
 
-c) a Nemzeti Foglalkoztatási Alap kiadási előirányzatainak felhasználási szabályairól szóló 36/2015. (XII. 28.) NGM rendelet.
-
-[^8]: A 32. § a) pontja a 30. § (4) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^18]: A 32. § a) pontja a 30. § (4) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^19]: A 32. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,4 @@
-## 29. § A 10/2016. NGM rendelet 62. §-a helyébe a következő rendelkezés lép:
-
-## „62. § A gördíthető munkaállványra, valamint az építőipari kivitelezés során alkalmazott munkaállványra az építési munkahelyeken és az építési folyamatok során megvalósítandó minimális munkavédelmi követelményekről szóló rendelet előírásait, valamint a vonatkozó nemzeti szabványokat kell alkalmazni.”
+## 28–29. §[^17]
 
 ## 9. Záró rendelkezések
 
@@ -11,3 +9,5 @@
 (3) A 4. § (2) bekezdése 2020. január 1-jén lép hatályba.
 
 (4) A 32. § a) pontja 2020. március 1-jén lép hatályba.
+
+[^17]: A 28–29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

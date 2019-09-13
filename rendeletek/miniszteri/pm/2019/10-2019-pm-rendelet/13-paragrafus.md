@@ -1,3 +1,3 @@
-## 12. §[^6]
+## 12. §[^9]
 
-[^6]: A 12. § a 30. § (2) bekezdése alapján a fővárosi és megyei kormányhivatalok működésének egyszerűsítéséről szóló törvény hatálybalépését követő napon lép hatályba.
+[^9]: A 12. § a 30. § (2) bekezdése alapján a fővárosi és megyei kormányhivatalok működésének egyszerűsítéséről szóló törvény hatálybalépését követő napon lép hatályba.
