@@ -240,6 +240,8 @@
 
 | 5. | Manevi Zártkörű Részvénytársaság | 01-10-043414 | 2022. december 31. |
 
+| 6. | HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140442 | 2022. december 31. |
+
 ## IX. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 |  | A | B | C |
