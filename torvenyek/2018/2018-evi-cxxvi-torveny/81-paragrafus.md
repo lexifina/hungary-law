@@ -1,6 +1,6 @@
-81. § A Pft.
+81. §
 
-a) 10. § (1) bekezdés e) pont ee) alpontjában a „49–51.” szövegrész helyébe a „49–52/A.” szöveg,
+a)
 
 b)
 
@@ -11,5 +11,3 @@ d)
 e)
 
 f)
-
-lép.
