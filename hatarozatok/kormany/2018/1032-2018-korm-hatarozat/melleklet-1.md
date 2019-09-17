@@ -2,7 +2,7 @@
 
 ## a) egyetért az Országos Mentőszolgálat által használt tatabányai, nagykátai és váci mentőállomás felújításával;
 
-## b) az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva az a) pont végrehajtása érdekében 156 692 000 forint átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 14. Országos Mentőszolgálat cím javára, az 1. melléklet szerint;
+## b)[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva az a) pont végrehajtása érdekében 156 692 000 forint átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 14. Országos Mentőszolgálat cím javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -14,7 +14,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. június 30.
+## Határidő: 2019. december 31.
 
 ## c) felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az a) pontban foglalt feladatok végrehajtásáról.
 
@@ -113,3 +113,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont b) alpontja az 1528/2019. (IX. 17.) Korm. határozat 6. pontja szerint módosított szöveg.
