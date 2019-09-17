@@ -26,13 +26,13 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: az első utalás tekintetében 2017. február 15., ezt követően legkésőbb tárgyhónapot követő 10. napig.
 
-5. elrendeli, hogy a nemzetgazdasági miniszter a Kecskemét Fejlődéséért Alap előkészítési feladatairól szóló 1154/2016. (III. 25.) Korm. határozat alapján a városfejlesztést és térségi gazdaságfejlesztést szolgáló Kecskemét Fejlődéséért Alap létrehozása céljából Kecskemét Megyei Jogú Város Önkormányzata részére
+5.[^1] elrendeli, hogy a nemzetgazdasági miniszter a Kecskemét Fejlődéséért Alap előkészítési feladatairól szóló 1154/2016. (III. 25.) Korm. határozat alapján a városfejlesztést és térségi gazdaságfejlesztést szolgáló Kecskemét Fejlődéséért Alap létrehozása céljából Kecskemét Megyei Jogú Város Önkormányzata részére
 
 a) a 2017. évben a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet 25. Fejezeti kezelésű előirányzat cím, 7. Egyéb fejezeti kezelésű előirányzatok alcím, 3. A 2007–2013. évek közötti operatív programok visszaforgó pénzeszközeinek felhasználása és kezelése jogcímcsoport terhére 15 milliárd forint,
 
 b) a 2018. évben a központi költségvetés XV. Nemzetgazdasági Minisztérium fejezetbe sorolt, a 2007–2013. évek közötti operatív programok visszaforgó pénzeszközeinek felhasználására és kezelésére szolgáló fejezeti kezelésű előirányzat terhére 5 milliárd forint,
 
-c) a 2019. évben a központi költségvetés XV. Nemzetgazdasági Minisztérium fejezetbe sorolt, a 2007–2013. évek közötti operatív programok visszaforgó pénzeszközeinek felhasználására és kezelésére szolgáló fejezeti kezelésű előirányzat terhére 5 milliárd forint
+c)[^2]
 
 visszatérítendő támogatást biztosítson;
 
@@ -42,10 +42,11 @@ Határidő: 2017. év tekintetében 2017. március 31.
 
 2018. év tekintetében 2018. március 31.
 
-2019. év tekintetében 2019. március 31.
-
 6. elrendeli, hogy a nemzetgazdasági miniszter a Széchenyi Tőkealap-kezelő Zrt. kezelésébe tartozó, egyes kiemelt gazdaságfejlesztési, iparpolitikai és versenyképességi célokat szolgáló tőkealapok létrehozásáról szóló 1599/2016. (XI. 8.) Korm. határozatban megjelölt, a kis- és középvállalkozások fejlesztését szolgáló alapok létrehozása, feltőkésítése céljából a Széchenyi Tőkealap-kezelő Zártkörűen Működő Részvénytársaság részére legfeljebb 56 milliárd forint visszatérítendő támogatást biztosítson a Kvtv. 1. melléklet XV. Nemzetgazdasági Minisztérium fejezet 25. Fejezeti kezelésű előirányzat cím, 7. Egyéb fejezeti kezelésű előirányzatok alcím, 3. A 2007–2013. évek közötti operatív programok visszaforgó pénzeszközeinek felhasználása és kezelése jogcímcsoport terhére.
 
 Felelős: nemzetgazdasági miniszter
 
 Határidő: folyamatos, de legkésőbb 2018. december 31.
+
+[^1]: Az 5. pont az 1531/2019. (IX. 17.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: Az 5. pont c) alpontját az 1531/2019. (IX. 17.) Korm. határozat 7. pontja visszavonta.
