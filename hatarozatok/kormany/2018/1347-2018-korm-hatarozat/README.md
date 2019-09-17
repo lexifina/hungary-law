@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1347-30
 | 2019-05-07 | 2018-1347-30-22.5 | 1104/2019. (III. 8.) Korm. határozat |
 | 2019-06-11 | 2018-1347-30-22.6 | 1104/2019. (III. 8.) Korm. határozat |
 | 2019-07-26 | 2018-1347-30-22.7 | 1104/2019. (III. 8.) Korm. határozat |
+| 2019-09-17 | 2018-1347-30-22.8 | 1104/2019. (III. 8.) Korm. határozat |
