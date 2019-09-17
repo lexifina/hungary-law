@@ -2,15 +2,15 @@ A Kormány
 
 1. a Stipendium Hungaricum ösztöndíjprogramnak (a továbbiakban: program) a keleti és déli nyitás külpolitikai stratégiájának megvalósításában, a felsőoktatás nemzetköziesítésében, valamint a magyar nyelv és kultúra terjesztésében elért eddigi sikereire tekintettel megerősíti elkötelezettségét a program folytatása mellett;
 
-2. az 1. pontban szereplő célkitűzés megvalósítása érdekében felhívja a pénzügyminisztert, hogy gondoskodjon
+2.[^1] az 1. pontban szereplő célkitűzés megvalósítása érdekében felhívja a pénzügyminisztert, valamint a b) alpont tekintetében a külgazdasági és külügyminisztert, hogy gondoskodjon
 
 a) a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím javára 2 230 418 856 forint egyszeri biztosításáról,
 
-b) a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvényben rendelkezésre álló forrásokon túl további 12 310 000 000 forint biztosításáról a XX. Emberi Erőforrások Minisztériuma fejezet,
-
-5. Egyetemek, főiskolák cím javára;
+b) a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvényben (a továbbiakban: Kvtv.) rendelkezésre álló forrásokon túl további 12 310 000 000 forint biztosításáról a Külgazdasági és Külügyminisztérium kezdeményezése alapján a Kvtv. 1. melléklet megfelelő költségvetési fejezetei javára;
 
 Felelős: pénzügyminiszter
+
+a b) alpont tekintetében a külgazdasági és külügyminiszter
 
 Határidő: az a) alpont tekintetében azonnal
 
@@ -47,3 +47,5 @@ Felelős: emberi erőforrások minisztere
 külgazdasági és külügyminiszter
 
 Határidő: 2019. október 31.
+
+[^1]: A 2. pont az 1528/2019. (IX. 17.) Korm. határozat 9. pontjával megállapított szöveg.
