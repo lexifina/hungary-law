@@ -12,19 +12,19 @@
 
 ## Határidő: azonnal
 
-## c) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 16 024 291 370 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+## c)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 16 024 291 370 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
 ## Felelős: pénzügyminiszter
 
-## Határidő: azonnal[^1]
+## Határidő: azonnal[^2]
 
 ## Az elszámolás és a visszatérítési kötelezettség tekintetében
 
 ## Felelős: Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, miniszterelnök kabinetfőnöke
 
-## Határidő: 2019. június 30.
+## Határidő: 2019. június 30., az Országos Mentőszolgálat cím javára biztosított 2 024 291 370 forint forrás tekintetében 2019. december 31.
 
 ## d) az Áht. 21. § (4a) bekezdésében és az Ávr. 23/A. § (2) bekezdésében biztosított jogkörében eljárva 18 323 008 991 forint átcsoportosítását rendeli el, a 2. melléklet szerint.
 
@@ -38,11 +38,11 @@
 
 ## Határidő: azonnal
 
-## 3.[^2]
+## 3.[^3]
 
 ## 4. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1313/2017. (VI. 8.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 59. Társadalmi felzárkózást segítő programok alcím, 5. Társadalmi, gazdasági, területi hátránykiegyenlítést elősegítő programok, szakkollégiumok jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 301 450 000 forintból 71 711 530 forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 5.[^3]
+## 5.[^4]
 
 ## 6. A Kormány az Országos Mentőszolgálat által használt egyes mentőállomások felújítása, újjáépítése beruházás előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 2095/2017. (XII. 28.) Korm. határozat
 
@@ -80,6 +80,7 @@
 
 1. melléklet az 1511/2018. (X. 17.) Korm. határozathoz
 
-[^1]: Az 1382/2019. (VI. 26.) Korm. határozat 2. pontja alapján a Kormány a Központi Maradványelszámolási Alapból és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2017. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1511/2018. (X. 17.) Korm. határozat 1. pont c) alpontjától eltérően az elszámolás és a visszatérítési kötelezettség határidejét 2019. június 30-ában állapítja meg, azzal, hogy a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 8. Egyházi közösségi célú programok és beruházások támogatása jogcím javára biztosított 5 000 000 000 forint tekintetében az elszámolás és a visszatérítési kötelezettség határidejét 2020. december 31-ében állapítja meg.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpontja az 1528/2019. (IX. 17.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^2]: Az 1382/2019. (VI. 26.) Korm. határozat 2. pontja alapján a Kormány a Központi Maradványelszámolási Alapból és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2017. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1511/2018. (X. 17.) Korm. határozat 1. pont c) alpontjától eltérően az elszámolás és a visszatérítési kötelezettség határidejét 2019. június 30-ában állapítja meg, azzal, hogy a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 8. Egyházi közösségi célú programok és beruházások támogatása jogcím javára biztosított 5 000 000 000 forint tekintetében az elszámolás és a visszatérítési kötelezettség határidejét 2020. december 31-ében állapítja meg.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
