@@ -6,7 +6,7 @@
 
 ## Határidő: folyamatosan
 
-## 3. az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a)–o) pontja szerinti előkészítési fázisaira összesen 221 000 000 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2019. június 30-ig kell megvalósítani;
+## 3.[^1] az 1. pont szerinti beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés a)–o) pontja szerinti előkészítési fázisaira összesen 221 000 000 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2020. június 30-ig kell megvalósítani;
 
 ## 4. az 1. pont szerinti beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
@@ -44,11 +44,11 @@
 
 ## Határidő: a 3. pont szerinti határidőt követő 30 napon belül
 
-## b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
+## b)[^2] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. augusztus 31.
+## Határidő: 2020. augusztus 31.
 
 1. melléklet az 1308/2018. (VII. 5.) Korm. határozathoz
 
@@ -129,3 +129,6 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1528/2019. (IX. 17.) Korm. határozat 7. pont a) alpontja szerint módosított szöveg.
+[^2]: A 8. pont b) alpontja az 1528/2019. (IX. 17.) Korm. határozat 7. pont b) alpontja szerint módosított szöveg.
