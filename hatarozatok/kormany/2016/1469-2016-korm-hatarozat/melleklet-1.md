@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 1388,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva 1388,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: földművelésügyi miniszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2017. június 30.
+## Határidő: 2017. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 1 060 000 000 forint tekintetében 2020. december 31.
 
 ## 2. egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 2. pontja szerint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 34. 2019. évi Maccabi Európa Játékok (EMG 2019.) Budapesten támogatása jogcímcsoporton a K1. Személyi juttatások kiemelt előirányzat részére átcsoportosított 23 412 ezer forint, a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat javára átcsoportosított 5 220 ezer forint, valamint a K3. Dologi kiadások kiemelt előirányzat javára átcsoportosított 2 614 ezer forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -105,3 +105,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1528/2019. (IX. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
