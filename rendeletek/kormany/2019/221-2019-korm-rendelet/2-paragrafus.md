@@ -1,0 +1,3 @@
+## 1. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény végrehajtásáról szóló 367/2010. (XII. 30.) Korm. rendelet (a továbbiakban: BGA vhr.) 32/B. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+## „(8) Az e fejezet szerinti normatív támogatásokra az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 51. § (1) bekezdését, 53/A. § (1) és (2) bekezdését, valamint az Ávr. 66. § (1) bekezdését, valamint (2) bekezdés 1–4., 8., 9., 11., 12., 16–18. pontját, 67. § (2) bekezdését, 68. §-át, 73. § (1) bekezdését, 77. §-át, 81. § c) és e) pontját, 88. § (3) bekezdését, 96. § b)–f) pontját, 97. § (1) és (3) bekezdését, 98. §-át, 99. § (1)–(3) bekezdését, 100. § (1) és (2) bekezdését kell megfelelően alkalmazni.”
