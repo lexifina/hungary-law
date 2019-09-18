@@ -20,4 +20,6 @@ Határidő: 2019. október 31.
 
 6. egyetért azzal, hogy Kecskemét Megyei Jogú Város Önkormányzata a működési tapasztalatok alapján a térségi gazdaságfejlesztési és városfejlesztési célok megtartása mellett, az állami támogatási szabályokkal összhangban az 1. és 2. pont szerinti alapok között a befektetési időszak alatt – a pénzügyminiszterrel kötött támogatási szerződéssel vagy támogatási szerződés módosításával – további átcsoportosítást hajtson végre, vagy a rendelkezésére álló forrás terhére új alapot hozzon létre, és arra a befektetési időszak alatt – a pénzügyminiszterrel kötött támogatási szerződéssel vagy támogatási szerződés módosításával – további átcsoportosítást hajtson végre,
 
-7. visszavonja az 1068/2017. (II. 10.) Korm. határozat 5. pontjában a „2019. év tekintetében 2019. március 31.” szövegrészt, valamint az 5. pont c) alpontját.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
