@@ -1,6 +1,5 @@
-## 9.[^34]
+## 27. §
 
-28. §[^35]
+## 9.[^30]
 
-[^34]: A 9. alcímet (28. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^35]: A 9. alcímet (28. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^30]: A 9. alcímet (28. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.

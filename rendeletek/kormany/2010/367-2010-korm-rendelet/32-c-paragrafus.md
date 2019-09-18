@@ -1,6 +1,6 @@
-## 10/C. [^49] Az oktatás-nevelési támogatások és a hallgatói támogatások
+## 10/C. [^45] Az oktatás-nevelési támogatások és a hallgatói támogatások
 
-32/C. §[^50] (1) Az Alap terhére a Szátv.14. §-a szerinti oktatási támogatásként
+32/C. §[^46] (1) Az Alap terhére a Szátv.14. §-a szerinti oktatási támogatásként
 
 a) nevelési, oktatási, valamint tankönyv- és taneszköz-támogatást (a továbbiakban együtt: oktatás-nevelési támogatás) és
 
@@ -28,5 +28,5 @@ e) az a kiskorú személy, aki sajátos nevelési igényeinek megfelelő – ré
 
 (4) Az oktatás-nevelési támogatás és a hallgatói támogatás egy főre jutó éves összegét évente a Bizottság állapítja meg.
 
-[^49]: A 10/C. alcímet a 264/2017. (IX. 11.) Korm. rendelet 7. §-a iktatta be.
-[^50]: A 32/C. § a 264/2017. (IX. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^45]: A 10/C. alcímet a 264/2017. (IX. 11.) Korm. rendelet 7. §-a iktatta be.
+[^46]: A 32/C. § a 264/2017. (IX. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
