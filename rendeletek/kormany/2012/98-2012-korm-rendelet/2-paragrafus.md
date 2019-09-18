@@ -12,7 +12,7 @@ c) a határon túli gazdaságfejlesztési stratégiák megvalósítását össze
 
 (3) A kedvezményezett érdekkörében felmerülő elháríthatatlan külső ok esetén a határon túli költségvetési támogatás a támogató döntése alapján azonnali humanitárius segítségnyújtásra is felhasználható.
 
-(4)[^3] Ha a támogató a határon túli költségvetési támogatást jogszabály alapján támogatói okirattal biztosítja, támogatói okiratnak minősül a döntési lista, ha abból a támogatás kedvezményezettje, a támogatás mértéke és a támogatásra vonatkozó egyoldalú akaratelhatározás kitűnik. A támogató által jóváhagyott döntési lista kötelezettségvállalásnak minősül.
+(4)[^3]
 
 (5)[^4] Támogatási szerződés köthető arra is, hogy az (1) bekezdés c) pontja szerinti kedvezményezett a kapott támogatást más, e rendelet hatálya alá tartozó vagy – ha a támogatott tevékenység megvalósítására teljes egészében e rendelet szabályai szerint, határon túl kerül sor – Magyarországon bejegyzett személy vagy szervezet (a továbbiakban: végső kedvezményezett) részére továbbadja. A továbbadásra és a támogatás végső kedvezményezettnél történő felhasználására az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), az Ávr. és e rendelet szabályait kell alkalmazni azzal, hogy
 
@@ -21,5 +21,5 @@ a) a kedvezményezett ebben az esetben arra vállal a támogatási szerződésbe
 b) a kedvezményezett támogató felé történő beszámolási kötelezettsége a támogatás továbbadására és a végső kedvezményezett beszámoltatására vonatkozik.
 
 [^2]: A 2. § (1) bekezdése a 198/2017. (VII. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § (4) bekezdése a 128/2014. (IV. 10.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^3]: A 2. § (4) bekezdését a 221/2019. (IX. 17.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
 [^4]: A 2. § (5) bekezdését a 198/2017. (VII. 10.) Korm. rendelet 2. §-a iktatta be.

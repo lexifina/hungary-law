@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-98-20-2
 | 2017-07-11 | 2012-98-20-22.10 | 198/2017. (VII. 10.) Korm. rendelet |
 | 2017-09-12 | 2012-98-20-22.11 | 264/2017. (IX. 11.) Korm. rendelet |
 | 2018-10-03 | 2012-98-20-22.12 | 128/2014. (IV. 10.) Korm. rendelet |
+| 2019-09-18 | 2012-98-20-22.13 | 221/2019. (IX. 17.) Korm. rendelet |
