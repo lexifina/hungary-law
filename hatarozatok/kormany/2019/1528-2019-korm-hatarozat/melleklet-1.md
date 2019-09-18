@@ -28,45 +28,23 @@
 
 ## 2. A Kormány engedélyezi, hogy a 2019-es külföldi magyar kulturális évadok Dél-Koreában, Izraelben, Japánban, valamint a Kínai Népköztársaságban történő megrendezéséről és finanszírozásáról szóló 1816/2018. (XII. 27.) Korm. határozat 6. pont a) alpontjában meghatározott összegből 88 009 000 forint a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása címen kerüljön felhasználásra.
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat módosításáról szóló 1469/2016. (VIII. 31.) Korm. határozat 1. pontjában a „2017. június 30.” szövegrész helyébe a „2017. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 1 060 000 000 forint tekintetében 2020. december 31.” szöveg lép.
+## 3.[^1]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 1. pont b) alpontjában a „2018. június 30.; az MTA kutatóközpontok, kutatóintézetek cím javára átcsoportosított 55 000 000 forint tekintetében 2018. december 31.; a Közbeszerzési és Ellátási Főigazgatóság cím részére biztosított 3 556 000 000 forint, a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint, a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint, az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 3 087 151 050 forint, a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára átcsoportosított 398 000 000 forint tekintetében 2019. június 30., az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint tekintetében 2020. január 31., a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forint tekintetében 2020. június 30.” szövegrész helyébe a „2018. június 30.; az MTA kutatóközpontok, kutatóintézetek cím javára átcsoportosított 55 000 000 forint tekintetében 2018. december 31.; a Közbeszerzési és Ellátási Főigazgatóság cím részére biztosított 3 556 000 000 forint, a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint, a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint, a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára átcsoportosított 398 000 000 forint tekintetében 2019. június 30., az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint tekintetében 2020. január 31., a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forint tekintetében 2020. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 3 087 151 050 forint tekintetében 2020. december 31.” szöveg lép.
+## 4.[^2]
 
-## 5. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat 1. pontjában a „2018. június 30., a Miniszterelnöki Kabinetiroda fejezet javára biztosított 6 663 410 400 forint tekintetében 2018. október 31., az 1659/2017. (IX. 13.) Korm. határozat alapján átcsoportosított forrás tekintetében és az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára biztosított összesen 6 983 948 950 forint tekintetében 2019. június 30., valamint a Nemzetpolitikai célú támogatások cím javára átcsoportosított 624 000 500 forintból a zabolai Mikes kastély fejlesztésére átcsoportosított 219 500 100 forint tekintetében és az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára biztosított összesen 6 983 948 950 forint tekintetében 2019. június 30., a Gazdasági társaságok által ellátott kulturális feladatok támogatása előirányzat javára biztosított 490 598 000 forint tekintetében 2020. június 30.” szövegrész helyébe a „2018. június 30., a Miniszterelnöki Kabinetiroda fejezet javára biztosított 6 663 410 400 forint tekintetében 2018. október 31., az 1659/2017. (IX. 13.) Korm. határozat alapján átcsoportosított forrás tekintetében és a Nemzetpolitikai célú támogatások cím javára átcsoportosított 624 000 500 forintból a zabolai Mikes-kastély fejlesztésére átcsoportosított 219 500 100 forint tekintetében 2019. június 30., a Gazdasági társaságok által ellátott kulturális feladatok támogatása előirányzat javára biztosított 490 598 000 forint tekintetében 2020. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára biztosított összesen 6 983 948 950 forint tekintetében 2020. december 31.” szöveg lép.
+## 5.[^3]
 
-## 6. A tatabányai, a nagykátai és a váci mentőállomás felújításáról, valamint a tabi mentőállomás újjáépítéséhez rendelkezésre álló forrás kiegészítéséről szóló 1032/2018. (II. 8.) Korm. határozat 1. pont b) alpontjában a „2019. június 30.” szövegrész helyébe a „2019. december 31.” szöveg lép.
+## 6.[^4]
 
-## 7. A Magyarországi Evangélikus Egyház kórházának létrehozása érdekében szükséges előkészítési tevékenységek támogatásáról szóló 1308/2018. (VII. 5.) Korm. határozat
+## 7.[^5]
 
-## a) 3. pontjában a „2019. június 30-ig” szövegrész helyébe a „2020. június 30-ig” szöveg,
+## 8.[^6]
 
-## b) 8. pont b) alpontjában a „2019. augusztus 31.” szövegrész helyébe a „2020. augusztus 31.” szöveg
+## 9.[^7]
 
-## lép.
+## 10.[^8]
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 1. pont b) alpontjában a „2020. június 30.” szövegrész helyébe a „2020. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára biztosított összesen 2 681 700 000 forint tekintetében 2020. december 31.” szöveg lép.
-
-## 9. A Stipendium Hungaricum ösztöndíjprogram finanszírozásáról szóló 1499/2018. (X. 12.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „2. az 1. pontban szereplő célkitűzés megvalósítása érdekében felhívja a pénzügyminisztert, valamint a b) alpont tekintetében a külgazdasági és külügyminisztert, hogy gondoskodjon
-
-## a) a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 5. Egyetemek, főiskolák cím javára 2 230 418 856 forint egyszeri biztosításáról,
-
-## b) a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvényben (a továbbiakban: Kvtv.) rendelkezésre álló forrásokon túl további 12 310 000 000 forint biztosításáról a Külgazdasági és Külügyminisztérium kezdeményezése alapján a Kvtv. 1. melléklet megfelelő költségvetési fejezetei javára;
-
-## Felelős: pénzügyminiszter
-
-## a b) alpont tekintetében a külgazdasági és külügyminiszter
-
-## Határidő: az a) alpont tekintetében azonnal
-
-## a b) alpont tekintetében a felmerülés ütemében”
-
-## 10. A Központi Maradványelszámolási Alapból és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a 2017. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1511/2018. (X. 17.) Korm. határozat 1. pont c) alpontjában a „2019. június 30.” szövegrész helyébe a „2019. június 30., az Országos Mentőszolgálat cím javára biztosított 2 024 291 370 forint forrás tekintetében 2019. december 31.” szöveg lép.
-
-## 11. A fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, valamint egyes kormányhatározatok módosításáról szóló 1806/2018. (XII. 23.) Korm. határozat 1. pont f) alpontjában a „2019. június 30.” szövegrész helyébe a „2019. június 30., a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára átcsoportosított 260 000 000 forint tekintetében 2019. október 31.” szöveg lép.
+## 11.[^9]
 
 1. melléklet az 1528/2019. (IX. 17.) Korm. határozathoz
 
@@ -427,3 +405,13 @@
 |  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 596 065 361 |  |  |  |
 
 | Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

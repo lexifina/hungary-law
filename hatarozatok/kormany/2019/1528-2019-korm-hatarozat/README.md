@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1528-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-09-17 | 2019-1528-30-22.1 | 1528/2019. (IX. 17.) Korm. határozat |
+| 2019-09-18 | 2019-1528-30-22.2 | 2010: CXXX. törvény |
