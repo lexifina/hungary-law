@@ -56,7 +56,7 @@
 
 ## Határidő: 2020. február 29.
 
-## 9. visszavonja a Modern Városok Program keretében a Tatabányán megvalósuló multifunkcionális csarnok megvalósítása érdekében támogatás biztosításáról szóló 1644/2017. (IX. 11.) Korm. határozatot.
+## 9.[^1]
 
 1. melléklet az 1535/2019. (IX. 18.) Korm. határozathoz
 
@@ -131,3 +131,5 @@
 |  |  | egyéb: |  | azonnal |  | 2 610 814 098 |  |  | 2 610 814 098 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
