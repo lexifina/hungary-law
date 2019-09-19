@@ -54,4 +54,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: folyamatos
 
-8. visszavonja az Ybl Villa állami tulajdonba kerüléséhez szükséges intézkedésekről szóló 1810/2016. (XII. 20.) Korm. határozatot.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
