@@ -20,14 +20,6 @@ pénzügyminiszter
 
 Határidő: 2019. június 30.
 
-3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter, a belügyminiszter és az innovációért és technológiáért felelős miniszter bevonásával vizsgálja meg az autóbusszal végzett helyi közösségi közlekedés finanszírozási modelljét és módját, valamint a javasolt intézkedéseket terjessze a Kormány elé.
+3.[^1]
 
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-pénzügyminiszter
-
-belügyminiszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: 2019. január 31.
+[^1]: A 3. pontot az 1537/2019. (IX. 20.) Korm. határozat 13. pontja visszavonta.
