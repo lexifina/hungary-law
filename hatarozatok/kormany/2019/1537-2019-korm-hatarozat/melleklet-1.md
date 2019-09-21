@@ -78,7 +78,7 @@
 
 ## Határidő: azonnal
 
-## 13. visszavonja az autóbusszal végzett személyszállítási közszolgáltatások finanszírozásának időszerű feladatairól szóló 1698/2018. (XII. 17.) Korm. határozat 3. pontját.
+## 13.[^1]
 
 1. melléklet az 1537/2019. (IX. 20.) Korm. határozathoz
 
@@ -155,3 +155,5 @@
 | Magyar Államkincstár |  | 1 példány |  |  | egyéb: |  | 2019. november 30. | 1 602 100 000 |  |  |  | 1 602 100 000 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
