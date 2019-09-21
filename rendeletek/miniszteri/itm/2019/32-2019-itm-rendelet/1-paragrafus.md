@@ -1,0 +1,1 @@
+## 1. A nukleáris létesítményben foglalkoztatott munkavállalók speciális szakmai képzéséről, továbbképzéséről és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak köréről szóló 55/2012. (IX. 17.) NFM rendelet módosítása
