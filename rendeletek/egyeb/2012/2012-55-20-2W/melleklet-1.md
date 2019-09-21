@@ -1,4 +1,4 @@
-1. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^21]
+1. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^28]
 
 ## Az atomerőmű munkavállalói részére előírt iskolai végzettség és szakképzettség, valamint nukleáris szakirányú képesítés
 
@@ -46,13 +46,15 @@
 
 | 21. | Atomerőművi blokkok külső technológiai rendszereinek helyszíni üzemeltetése - Külső technológiai gépész | érettségi | Külső üzemi gépész |
 
-| 22. | Atomerőművi blokkok külső technológiai rendszereinek helyszíni üzemeltetése, üzemeltető személyzet irányítása - Külső technológiai főgépész | érettségi | Külső üzemi főgépész |
+| 22. | Atomerőművi blokkok külső technológiai rendszereinek helyszíni üzemeltetése, üzemeltető személyzet irányítása - Külső technológiai főgépész - műszakos | érettségi | Külső üzemi műszakos főgépész |
 
-| 23. | Atomerőművi blokkok külső technológiai rendszereinek helyszíni üzemeltetése - Külső üzemi operátor | érettségi | Külső üzemi operátor |
+| 22a. | Atomerőművi blokkok külső technológiai rendszereinek helyszíni üzemeltetése, üzemeltető személyzet irányítása - Külső technológiai főgépész | érettségi | Külső üzemi állandó délelőttös főgépész |
 
-| 24. | Atomerőmű blokkok külső technológiai rendszereit üzemeltető személyzet műszakos adminisztratív irányítása - Külső üzemi szolgálatvezető | érettségi | Külső üzemi szolgálatvezető |
+| 23. | Atomerőművi blokkok külső technológiai rendszereinek vízmű vezénylői és helyszíni üzemeltetése - Külső technológiai operátor | érettségi | Külső üzemi operátor |
 
-| 25. | Atomerőmű blokkok külső technológiai rendszereit üzemeltető személyzet műszakos adminisztratív irányítása - Külső üzemi művezető | érettségi | Külső üzemi művezető |
+| 24. | Atomerőmű blokkok külső technológiai rendszereit üzemeltető személyzet műszakos adminisztratív irányítása - Külső technológiai szolgálatvezető | érettségi | Külső üzemi szolgálatvezető |
+
+| 25. | Atomerőmű blokkok külső technológiai rendszereit üzemeltető személyzet műszakos adminisztratív irányítása - Külső technológiai művezető | érettségi | Külső üzemi művezető |
 
 | 26. | Atomerőmű dozimetriai rendszereit üzemeltető személyzet műszakos adminisztratív irányítása - Dozimetriai szolgálatvezető | felsőfokú/ műszaki (képzési terület) | Dozimetriai szolgálatvezető |
 
@@ -84,37 +86,37 @@
 
 | 37c. | Folyékony radioaktív hulladékkezelő gépészek, műszakvezetők munkájának irányítása – Folyékony radioaktív hulladékkezelő művezető | érettségi/gépészet (szakmacsoport) | Folyékony radioaktív hulladékkezelő gépész |
 
-| 38. | Atomerőművi blokkok primerköri rendszereinek, rendszerelemeinek karbantartása (szakterületenként meghatározott) - Nukleáris karbantartó lakatos | szakmunkásképző vagy szakiskola/ gépészet (szakmacsoport) | Nukleáris karbantartó lakatos (szakterületenként meghatározott) |
+| 38. | Atomerőművi blokkok primerköri rendszereinek, rendszerelemeinek karbantartása (szakterületenként meghatározott) - Nukleáris karbantartó lakatos | szakmunkásképző vagy szakiskola/ gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) | Nukleáris karbantartó lakatos (szakterületenként meghatározott) |
 
-| 39. | Atomerőművi blokkok szekunderköri rendszereinek, rendszerelemeinek karbantartása (szakterületenként meghatározott) - Karbantartó lakatos | szakmunkásképző vagy szakiskola/ gépészet (szakmacsoport) | Karbantartó lakatos (szakterületenként meghatározott) |
+| 39. | Atomerőművi blokkok szekunderköri rendszereinek, rendszerelemeinek karbantartása (szakterületenként meghatározott) - Karbantartó lakatos | szakmunkásképző vagy szakiskola/ gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) | Karbantartó lakatos (szakterületenként meghatározott) |
 
-| 40. | Atomerőművi blokkok rendszereinek, rendszerelemeinek műszakos karbantartási feladatainak helyszíni irányítása, koordinálása (szakterületenként meghatározott) - Karbantartó műszakvezető | érettségi/ gépészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Karbantartó műszakvezető (szakterületenként meghatározott) |
+| 40. | Atomerőművi blokkok rendszereinek, rendszerelemeinek műszakos karbantartási feladatainak helyszíni irányítása, koordinálása (szakterületenként meghatározott) - Karbantartó műszakvezető | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) és Minőségellenőr | Karbantartó műszakvezető (szakterületenként meghatározott) |
 
-| 41. | Atomerőművi blokkok rendszerelemeit működtető szerkezetelemeinek karbantartása - Karbantartó műszerész | szakmunkásképző vagy szakiskola/ gépészet (szakmacsoport) | Karbantartó műszerész |
+| 41. | Atomerőművi blokkok rendszerelemeit működtető szerkezetelemeinek karbantartása - Karbantartó műszerész | szakmunkásképző vagy szakiskola/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) | Karbantartó műszerész |
 
-| 42. | Atomerőművi blokkok rendszerei, rendszerelemei karbantartásának ellenőrzése (szakterületenként meghatározott) - Karbantartási ellenőr | érettségi/gépészet (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) vagy építészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Karbantartási ellenőr (szakterületenként meghatározott) |
+| 42. | Atomerőművi blokkok rendszerei, rendszerelemei karbantartásának ellenőrzése, koordinálása (szakterületenként meghatározott) - Karbantartási ellenőr | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) vagy építészet (szakmacsoport) és Minőségellenőr | Karbantartási ellenőr (szakterületenként meghatározott) |
 
-| 43. | Atomerőművi blokkok rendszereinek, rendszerelemeinek karbantartásának koordinálása (szakterületenként meghatározott) - Karbantartási műszaki ellenőr | érettségi/gépészet (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) vagy építészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Karbantartási műszaki ellenőr (szakterületenként meghatározott) |
+| 43. | Atomerőművi blokkok rendszereinek, rendszerelemeinek karbantartásának ellenőrzése, koordinálása (szakterületenként meghatározott) - Karbantartási műszaki ellenőr | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) vagy építészet (szakmacsoport) és Minőségellenőr | Karbantartási műszaki ellenőr (szakterületenként meghatározott) |
 
-| 44. | Atomerőművi blokkok rendszerei, rendszerelemei karbantartási munkáinak irányítása és koordinálása (szakterületenként meghatározott) - Karbantartás művezető | érettségi/gépészet (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) vagy építészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Karbantartás művezető (szakterületenként meghatározott) |
+| 44. | Atomerőművi blokkok rendszerei, rendszerelemei karbantartási munkáinak irányítása és koordinálása (szakterületenként meghatározott) - Karbantartás művezető | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) vagy építészet (szakmacsoport) és Minőségellenőr | Karbantartás művezető (szakterületenként meghatározott) |
 
-| 45. | Atomerőművi blokkokba beépített primerköri armatúrák karbantartásának irányítása, koordinálása - Armatúra karbantartó művezető | érettségi/ gépészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Armatúra karbantartó művezető |
+| 45. | Atomerőművi blokkokba beépített primerköri armatúrák karbantartásának irányítása, koordinálása - Armatúra karbantartó művezető | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) és Minőségellenőr | Armatúra karbantartó művezető |
 
-| 46. | Atomerőművi blokkokba beépített primerköri forgógépek karbantartásának irányítása, koordinálása - Forgógép karbantartó művezető | érettségi/ gépészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Forgógép karbantartó művezető |
+| 46. | Atomerőművi blokkokba beépített primerköri forgógépek karbantartásának irányítása, koordinálása - Forgógép karbantartó művezető | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) és Minőségellenőr | Forgógép karbantartó művezető |
 
-| 47. | Atomerőművi blokkokba beépített fővízköri készülékek karbantartásának irányítása, koordinálása - Fővízköri készülék karbantartó művezető | érettségi/ gépészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Fővízköri készülék karbantartó művezető |
+| 47. | Atomerőművi blokkokba beépített fővízköri készülékek karbantartásának irányítása, koordinálása - Fővízköri készülék karbantartó művezető | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) és Minőségellenőr | Fővízköri készülék karbantartó művezető |
 
-| 48. | Atomerőművi blokkokba beépített biztonsági szelepek karbantartásának irányítása, koordinálása - Biztonsági szelep karbantartó művezető | érettségi/ gépészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Biztonsági szelep karbantartó művezető |
+| 48. | Atomerőművi blokkokba beépített biztonsági szelepek karbantartásának irányítása, koordinálása - Biztonsági szelep karbantartó művezető | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) és Minőségellenőr | Biztonsági szelep karbantartó művezető |
 
-| 49. | Atomerőművi blokkokba beépített reaktorok karbantartásának irányítása, koordinálása - Reaktor karbantartó műszakvezető | érettségi/ gépészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Reaktor karbantartó műszakvezető |
+| 49. | Atomerőművi blokkokba beépített reaktorok karbantartásának irányítása, koordinálása - Reaktor karbantartó műszakvezető | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) és Minőségellenőr | Reaktor karbantartó műszakvezető |
 
-| 50. | Atomerőművi blokkokba beépített reaktorok karbantartásának szerelés vezetése - Reaktorszerelés vezető | érettségi/ gépészet (szakmacsoport) és Gépipari minőségellenőr vagy Ellenőrzési és minőségbiztosítási munkatárs vagy Minőségellenőr | Reaktorszerelés vezető |
+| 50. | Atomerőművi blokkokba beépített reaktorok karbantartásának szerelés vezetése - Reaktorszerelés vezető | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) és Minőségellenőr | Reaktorszerelés vezető |
 
-| 51. | Atomerőművi blokkokba beépített technológiai és biztonsági rendszerelemek karbantartásának irányítása, koordinálása - Technológiai és biztonsági művezető | szakmunkásképző vagy szakiskola/ elektrotechnika-elektronika (szakmacsoport) | Technológiai és biztonsági művezető |
+| 51. | Atomerőművi blokkokba beépített technológiai és biztonsági rendszerelemek karbantartásának irányítása, koordinálása - Technológiai és biztonsági művezető | érettségi/elektromechanika- elektrotechnika (szakmacsoport) | Technológiai és biztonsági művezető |
 
-| 52. | Atomerőművi blokkokba beépített technológiai védelmek karbantartásának irányítása, koordinálása - Technológiai védelmek művezető | szakmunkásképző vagy szakiskola/ elektrotechnika-elektronika (szakmacsoport) | Technológiai védelmek művezető |
+| 52. | Atomerőművi blokkokba beépített technológiai védelmek karbantartásának irányítása, koordinálása - Technológiai védelmek művezető | érettségi/elektromechanika- elektrotechnika (szakmacsoport) | Technológiai védelmek művezető |
 
-| 53. | Atomerőművi blokkokba beépített elektromechanikai rendszerelemek karbantartásának irányítása, koordinálása - Elektromechanikai karbantartó művezető | szakmunkásképző vagy szakiskola/ elektrotechnika-elektronika (szakmacsoport) | Elektromechanikai karbantartó művezető |
+| 53. | Atomerőművi blokkokba beépített elektromechanikai rendszerelemek karbantartásának irányítása, koordinálása - Elektromechanikai karbantartó művezető | érettségi/elektromechanika- elektrotechnika (szakmacsoport) | Elektromechanikai karbantartó művezető |
 
 | 53a. | Az atomerőművi blokkok primerköri technológiai rendszereinek működtetéséhez szükséges rendszertechnológusi tevékenységek ellátása – Rendszer-technológus – primerköri | felsőfokú/műszaki képzési terület | Rendszertechnológus – primerköri |
 
@@ -132,19 +134,17 @@
 
 | 55. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek végzése (szakterületenként meghatározott) - Berendezés technikus - villamos | érettségi/ elektrotechnika-elektronika, villamos energetika (szakmacsoport) vagy gépész (szakmacsoport) | Berendezés technikus - villamos |
 
-| 56. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek végzése (szakterületenként meghatározott) - Berendezés technikus - irányítástechnika | érettségi/ elektrotechnika-elektronika (szakmacsoport) vagy gépész (szakmacsoport) | Berendezés technikus - irányítástechnika |
+| 56. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek végzése (szakterületenként meghatározott) - Berendezés felelős – építész | érettségi/építészet (szakmacsoport), vagy felsőfokú/ műszaki (képzési terület) építészeti (képzési ág), épületgépészeti (képzési ág) | Berendezés felelős – építész |
 
-| 56a. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek végzése (szakterületenként meghatározott) – Berendezés technikus – építész, épületgépész | érettségi/építészet (szakmacsoport), gépész (szakmacsoport) | Berendezés technikus – építész, épületgépész |
+| 57. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek irányítása (szakterületenként meghatározott) - Berendezés felelős - gépész | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy felsőfokú/műszaki (képzési terület) | Berendezés felelős - gépész |
 
-| 57. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek irányítása (szakterületenként meghatározott) - Berendezés mérnök - gépész | felsőfokú/ műszaki (képzési terület) | Berendezés mérnök - gépész |
+| 58. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek irányítása (szakterületenként meghatározott) - Berendezés felelős - villamos | érettségi/elektrotechnika – elektronika (szakmacsoport) vagy gépész (szakmacsoport) vagy informatika (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy felsőfokú/informatikai (képzési ág) vagy villamos- és energetikai mérnöki (képzési ág) vagy gépész (képzési ág) | Berendezés felelős - villamos |
 
-| 58. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek irányítása (szakterületenként meghatározott) - Berendezés mérnök - villamos | felsőfokú/ informatikai (képzési ág) vagy villamos- és energetikai mérnöki (képzési ág) vagy gépész (képzési ág) | Berendezés mérnök - villamos |
+| 59. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek irányítása (szakterületenként meghatározott) - Berendezés felelős - irányítástechnika | érettségi/elektrotechnika – elektronika (szakmacsoport) vagy gépész (szakmacsoport) vagy informatika (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy felsőfokú/informatikai (képzési ág) vagy gépész-, közlekedés-, mechatronikai mérnöki (képzési ág) vagy villamos- és energetikai mérnöki (képzési ág) | Berendezés felelős - irányítástechnika |
 
-| 59. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek irányítása (szakterületenként meghatározott) - Berendezés mérnök - irányítástechnika | felsőfokú/ informatikai (képzési ág) vagy gépész-, közlekedés-, mechatronikai mérnöki (képzési ág) vagy villamos- és energetikai mérnöki (képzési ág) | Berendezés mérnök - irányítástechnika |
+| 59a. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek végzése (szakterületenként meghatározott) - Berendezés felelős – épületgépész | érettségi/építészet (szakmacsoport) vagy gépész (szakmacsoport) felsőfokú/műszaki (képzési terület), építészeti (képzési ág), épületgépészeti (képzési ág) vagy gépész (képzési ág) | Berendezés felelős - épületgépész |
 
-| 59a. | Atomerőművi blokkok technológiai rendszerei, rendszerelemei műszaki háttértevékenységeinek végzése (szakterületenként meghatározott) – Berendezés mérnök – építész, épületgépész | felsőfokú/műszaki (képzési terület), építészeti szakág, gépész (képzési ág) | Berendezés mérnök – építész |
-
-| 60. | Atomerőművi blokkok irányítástechnikai rendszereinek karbantartása (szakterületenként meghatározott) - Műszerész | szakmunkásképző vagy szakiskola/ elektrotechnika-elektronika (szakmacsoport) | Műszerész |
+| 60. | Atomerőművi blokkok irányítástechnikai rendszereinek karbantartása (szakterületenként meghatározott) - Műszerész | szakmunkásképző vagy szakiskola/elektrotechnika-elektronika (szakmacsoport) vagy gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy villamos- és energetikai mérnöki (képzési ág) | Műszerész (szakterületenként meghatározott) |
 
 | 61. | Atomerőművi blokkok irányítástechnikai rendszerei karbantartási feladatainak helyszíni irányítása (szakterületenként meghatározott) - Csoportvezető | szakmunkásképző vagy szakiskola/ elektrotechnika-elektronika (szakmacsoport) | Irányítástechnikai csoportvezető (szakterületenként meghatározott) |
 
@@ -154,11 +154,15 @@
 
 | 62b. | A Sugárvédelmi Ellenőrző Rendszer karbantartási feladatainak ellátása – Sugárvédelmi Ellenőrző Rendszer karbantartó | szakmunkásképző vagy szakiskola/elektrotechnika- elektronika (szakmacsoport) | Sugárvédelmi Ellenőrző Rendszer karbantartó |
 
-| 63. | Atomerőművi blokkok emelőgépeinek karbantartása - Darukarbantartó művezető | szakmunkásképző vagy szakiskola/ gépészet (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) | Darukarbantartó művezető |
+| 63. | Atomerőművi blokkok emelőgépeinek karbantartása - Darukarbantartó művezető | szakmunkásképző vagy szakiskola/gépészet (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) | Darukarbantartó művezető |
 
 | 64. | Atomerőművi blokkok rendszerein, rendszerelemein végzett tevékenységek minőségellenőrzése - Rendszerfelügyelő | érettségi/ gépipari minőségellenőr vagy ellenőrzési és minőségbiztosítási munkatárs vagy minőségellenőr | Rendszerfelügyelő |
 
 | 65. | Atomerőművi blokkok rendszerein, rendszerelemein végzett tevékenységek minőségellenőrzésének irányítása - Operatív irányító csoportvezető | érettségi/ gépipari minőségellenőr vagy ellenőrzési és minőségbiztosítási munkatárs | Operatív irányító csoportvezető |
+
+| 66. | Atomerőművi blokkok rendszerein, rendszerelemein végzett vizuális ellenőrzési feladatok, valamint az idegen anyag feltárási és elhárítási munkálatok elvégzése - Vizuális vizsgáló | érettségi/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy felsőfokú/műszaki (képzési terület) és Minőségellenőr | Vizuális vizsgáló |
+
+| 67. | Atomerőművi blokkok csővezetéki rendszerelemeit működtető villamos végrehajtó szerkezetelemeinek karbantartása - Működtetés karbantartó | szakmunkásképző vagy szakiskola/gépészet (szakmacsoport) vagy közlekedés (szakmacsoport) vagy vegyipar (szakmacsoport) vagy elektrotechnika-elektronika (szakmacsoport) | Működtetés karbantartó |
 
 A B oszlop alkalmazásában
 
@@ -170,4 +174,4 @@ A C oszlopban megjelölt képesítések megszerzése az atomerőmű engedélyese
 
 A tevékenység és munkakör megnevezésben szereplő „szakterületenként meghatározott” kategóriákat és azok tartalmát az engedélyes belső szabályozásában határozza meg részletesen.
 
-[^21]: Az 1. melléklet a 6/2018. (VII. 19.) ITM rendelet 2. § (1) bekezdése és 3. § 12–19. pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet a 6/2018. (VII. 19.) ITM rendelet 2. § (1) bekezdése és 3. § 12–19. pontja, a 32/2019. (IX. 6.) ITM rendelet 4. § (1) bekezdése szerint módosított szöveg.

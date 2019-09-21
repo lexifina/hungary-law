@@ -38,7 +38,7 @@
 
 | 3. | A nukleáris létesítmény villamos rendszerei karbantartásának, átalakításának, öregedés kezelésének, a villamos rendszereken a meghibásodások javításának szervezése, felügyelete – villamos felügyeleti mérnök | felsőfokú végzettségi szint és villamosmérnöki szakképzettség | Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti bővített fokozatú sugárvédelmi képzés és 1 év nukleáris létesítményben mérnöki szakképzettséghez kötött munkakörben szerzett gyakorlat. |
 
-| 4. | A nukleáris létesítmény irányítástechnikai rendszerei karbantartásának, átalakításának, öregedés kezelésének, az irányítástechnikai rendszereken a meghibásodások javításának szervezése, felügyelete – irányítástechnikai felügyeleti mérnök | műszaki felsőfokú végzettségi szint és irányítástechnikai szakképzettség | Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti bővített fokozatú sugárvédelmi képzés és 1 év nukleáris létesítményben mérnöki szakképzettséghez kötött munkakörben szerzett gyakorlat. |
+| 4. | A nukleáris létesítmény irányítástechnikai rendszerei karbantartásának, átalakításának, öregedés kezelésének, az irányítástechnikai rendszereken a meghibásodások javításának szervezése, felügyelete – irányítástechnikai felügyeleti mérnök | felsőfokú végzettség és villamosmérnöki szakképzettség, automatizálási szakirány | Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti bővített fokozatú sugárvédelmi képzés és 1 év nukleáris létesítményben mérnöki szakképzettséghez kötött munkakörben szerzett gyakorlat. |
 
 | 5. | A nukleáris létesítmény környezetellenőrzésének, kibocsátásellenőrzésének és sugárvédelmi tevékenységének a felügyelete – sugárvédelmi felügyeleti mérnök | természettudományi vagy műszaki felsőfokú végzettségi szint és szakképzettség | Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti átfogó fokozatú sugárvédelmi képzés és sugárveszélyes létesítmény sugárvédelmi területén szerzett 1 év gyakorlat. |
 
@@ -60,7 +60,7 @@
 
 | 2. | A radioaktívhulladék-tároló üzemeltetésének biztosítása, az üzemeltetés és azzal összefüggő tevékenységek szervezése és irányítása – NRHT, RHFT telephelyvezető | természettudományi vagy műszaki felsőfokú végzettségi szint és szakképzettség | Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti átfogó fokozatú sugárvédelmi képzés és 5 év nukleáris létesítményben, radioaktívhulladék-tárolóban vagy ipari létesítményben, a „B” oszlopban meghatározott szakképzettséghez kötött munkakörben szerzett gyakorlat, valamint sugárveszélyes munkakörben szerzett legalább 2 év vezetői gyakorlat. |
 
-| 3. | A radioaktívhulladék-tároló technológiáinak, sugár- és környezetvédelmének szervezése, felügyelete – sugárvédelmi vezető – technológiai vezető – üzemvitel-biztonsági vezető | természettudományi vagy műszaki felsőfokú végzettségi szint és szakképzettség | Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti átfogó, illetve a technológiai vezető esetén bővített fokozatú sugárvédelmi képzés és 3 év nukleáris létesítményben, radioaktívhulladék-tárolóban vagy sugárveszélyes, a „B” oszlopban meghatározott szakképzettséghez kötött munkakörben szerzett gyakorlat. |
+| 3. | A radioaktívhulladék-tároló technológiáinak, sugár- és környezetvédelmének szervezése, felügyelete – sugárvédelmi vezető – technológiai vezető – üzemvitel-biztonsági vezető | természettudományi vagy műszaki felsőfokú végzettségi szint és szakképzettség | Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti átfogó fokozatú sugárvédelmi képzés és 3 év nukleáris létesítményben, radioaktívhulladék-tárolóban vagy sugárveszélyes, a „B” oszlopban meghatározott szakképzettséghez kötött munkakörben szerzett gyakorlat, valamint a sugárvédelmi és technológiai vezető esetén tároló biztonsági hatósági jogosító vizsga |
 
 | 4. | A radioaktívhulladék-tároló állagmegóvásának, építészeti rendszerei karbantartásának, átalakításának, öregedés kezelésének, az építészeti rendszereken a meghibásodások javításának szervezése, felügyelete – létesítmény-fenntartási vezető | Legalább középfokú, szakirányú műszaki végzettség | Az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti bővített fokozatú sugárvédelmi képzés és 3 év a „B” oszlop szerinti szakképesítéshez kötött munkakörben szerzett gyakorlat. |
 
@@ -80,10 +80,10 @@
 
 ## – középfokú végzettség: a nemzeti köznevelésről szóló törvény előírásai alapján,
 
-## – szakirányú műszaki végzettség: a szakképzésről szóló törvény előírásai alapján.
+## – szakirányú műszaki végzettség: a az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló kormányrendelet előírásai alapján.
 
 ## A 3. és 4. pontban foglalt táblázat C oszlopában megjelölt sugárvédelmi képzettségek, képesítések megszerzése az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet 53. § (1) bekezdés 6. pontja szerinti engedéllyel rendelkező által szervezett képzés keretében, az engedélyes képzési programja alapján történhet.
 
-3. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^23]
+3. melléklet az 55/2012. (IX. 17.) NFM rendelethez[^30]
 
-[^23]: A 3. melléklet a 6/2018. (VII. 19.) ITM rendelet 3. § 21–26. pontja szerint módosított szöveg.
+[^30]: A 3. melléklet a 6/2018. (VII. 19.) ITM rendelet 3. § 21–26. pontja szerint módosított szöveg.
