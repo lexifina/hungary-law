@@ -10,6 +10,8 @@ Dr. Varga Zs. András alkotmánybíró.
 
 2. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
-3. Ez a határozat a közzétételét követő napon lép hatályba, ezzel egyidejűleg az Alkotmánybíróság teljes ülésének az Alkotmánybíróság háromtagú tanácsának összetételéről és a tanácsvezető személyéről szóló 1003/2016. (IV. 21.) AB Tü. határozata hatályát veszti.
+3.[^2] Ez a határozat a közzétételét követő napon lép hatályba,
 
 Alkotmánybírósági ügyszám: XVIII/1450/2019.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
