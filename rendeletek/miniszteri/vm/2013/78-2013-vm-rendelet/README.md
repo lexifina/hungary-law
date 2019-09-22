@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-78-20-2
 | 2017-11-07 | 2013-78-20-2Y.10 | 43/2014. (XII. 29.) FM rendelet |
 | 2018-07-03 | 2013-78-20-2Y.11 | 43/2014. (XII. 29.) FM rendelet |
 | 2019-04-11 | 2013-78-20-2Y.12 | 43/2014. (XII. 29.) FM rendelet |
+| 2019-09-22 | 2013-78-20-2Y.13 | 43/2014. (XII. 29.) FM rendelet |

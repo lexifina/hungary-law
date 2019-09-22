@@ -1,10 +1,10 @@
 ## 4. A támogatás forrása, keretösszege és mértéke
 
-4. § (1)[^15] A támogatás forrása az Agrárminisztérium fejezet, a sertéságazat helyzetét javító stratégiai intézkedések támogatása jogcímcsoport, számlaszáma: 10032000-01220191-51200002. A 2018. évre rendelkezésre álló forrás legfeljebb 40 millió forint.
+4. § (1)[^15] A támogatás forrása az Agrárminisztérium fejezet, a sertéságazat helyzetét javító stratégiai intézkedések támogatása jogcímcsoport, számlaszáma: 10032000-01220191-51200002. A 2019. évre rendelkezésre álló forrás legfeljebb 25 millió forint.
 
 (2)[^16] A kifizethető támogatás összege a beszerzett tenyészsertés, szaporítóanyag, illetve eszköz elszámolható költsége, de tételenként legfeljebb a 2. mellékletben feltüntetett összeg.
 
-(3)[^17] Támogatás állattartónként a 2018. évre vonatkozóan egy alkalommal nyújtható.
+(3)[^17] Támogatás állattartónként a 2019. évre vonatkozóan egy alkalommal nyújtható.
 
 (3a)[^18] A támogatás odaítélése során az folyó üzleti évben, valamint az azt megelőző két üzleti év során odaítélt mezőgazdasági csekély összegű támogatás bruttó támogatástartalmának összegét kell figyelembe venni.
 
@@ -22,9 +22,9 @@
 
 (10)[^25] A támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatalának napjától számított tíz évig meg kell őrizni.
 
-[^15]: A 4. § (1) bekezdése a 43/2014. (XII. 29.) FM rendelet 71. §-ával megállapított, a 9/2018. (VII. 2.) AM rendelet 6. § a) pontja, a 14/2019. (IV. 10.) AM rendelet 13. §-a szerint módosított szöveg.
+[^15]: A 4. § (1) bekezdése a 43/2014. (XII. 29.) FM rendelet 71. §-ával megállapított, a 14/2019. (IV. 10.) AM rendelet 13. §-a, a 43/2019. (IX. 20.) AM rendelet 4. § a) pontja szerint módosított szöveg.
 [^16]: A 4. § (2) bekezdése a 22/2014. (XI. 3.) FM rendelet 4. §-ával megállapított szöveg.
-[^17]: A 4. § (3) bekezdése a 22/2014. (XI. 3.) FM rendelet 4. §-ával megállapított, a 9/2018. (VII. 2.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^17]: A 4. § (3) bekezdése a 22/2014. (XI. 3.) FM rendelet 4. §-ával megállapított, a 43/2019. (IX. 20.) AM rendelet 4. § b) pontja szerint módosított szöveg.
 [^18]: A 4. § (3a) bekezdését az 51/2016. (VII. 21.) FM rendelet 12. § (1) bekezdése iktatta be.
 [^19]: A 4. § (4) bekezdése az 51/2016. (VII. 21.) FM rendelet 14. § g) pontja szerint módosított szöveg.
 [^20]: A 4. § (5) bekezdését az 52/2015. (IX. 7.) FM rendelet 17. §-a iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 14. § g) pontja szerint módosított szöveg.

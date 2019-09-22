@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. § (1)[^26] A támogatási kérelmet 2018. július 23. és 2018. augusztus 27. között a Magyar Államkincstár (a továbbiakban: Kincstár) részére, a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon kell postai úton benyújtani.
+5. § (1)[^26] A támogatási kérelmet 2019. szeptember 23. és október 7. között a Magyar Államkincstár (a továbbiakban: Kincstár) részére, a Kincstár által rendszeresített és a honlapján közzétett nyomtatványon kell postai úton benyújtani.
 
 (2) Az állattartónak a támogatási kérelemben nyilatkoznia kell arról, hogy
 
@@ -14,7 +14,7 @@ c)[^29]
 
 (4)[^30]
 
-[^26]: Az 5. § (1) bekezdését újonnan a 33/2017. (VI. 9.) FM rendelet 22. §-a iktatta be, szövege a 9/2018. (VII. 2.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^26]: Az 5. § (1) bekezdését újonnan a 33/2017. (VI. 9.) FM rendelet 22. §-a iktatta be, szövege a 43/2019. (IX. 20.) AM rendelet 4. § c) pontja szerint módosított szöveg.
 [^27]: Az 5. § (2) bekezdés a) pontja az 52/2015. (IX. 7.) FM rendelet 18. §-ával megállapított szöveg.
 [^28]: Az 5. § (2) bekezdés b) pontja az 52/2015. (IX. 7.) FM rendelet 18. §-ával megállapított szöveg.
 [^29]: Az 5. § (2) bekezdés c) pontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte.
