@@ -1,3 +1,5 @@
+## 29/C. §[^86] E rendeletnek az egyes agrárágazati támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 43/2019. (IX. 20.) AM rendelettel [a továbbiakban: 43/2019. (IX. 20.) AM rendelet] megállapított 27. § (5) bekezdését a 43/2019. (IX. 20.) AM rendelet hatálybalépésekor[^87] folyamatban lévő eljárásokban is alkalmazni kell.
+
 ## 30. § Ez a rendelet
 
 a) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendeletnek,
@@ -11,3 +13,6 @@ d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált ig
 e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^86]: A 29/C. §-t a 43/2019. (IX. 20.) AM rendelet 8. §-a iktatta be.
+[^87]: A hatálybalépés időpontja 2019. szeptember 22.
