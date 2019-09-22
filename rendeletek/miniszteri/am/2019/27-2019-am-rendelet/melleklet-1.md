@@ -1,4 +1,4 @@
-## 8. §[^2]
+## 8. §[^3]
 
 1. melléklet a 27/2019. (VI. 14.) AM rendelethez
 
@@ -30,4 +30,4 @@ A támogatott tevékenység TEÁOR kód szerinti felsorolása
 
 | 12. | 1092 | Hobbiállat-eledel gyártás |
 
-[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
