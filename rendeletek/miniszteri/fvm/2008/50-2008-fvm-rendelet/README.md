@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-50-20-8
 | 2017-09-06 | 2008-50-20-82.14 | 32/2010. (III. 30.) FVM rendelet |
 | 2018-03-30 | 2008-50-20-82.15 | 8/2018. (III. 29.) FM rendelet |
 | 2018-07-03 | 2008-50-20-82.16 | 9/2018. (VII. 2.) AM rendelet |
+| 2019-09-22 | 2008-50-20-82.17 | 121/2011. (XII. 21.) VM rendelet |
