@@ -64,6 +64,8 @@
 
 32.[^108] a Bizottság 2018/100/EU végrehajtási irányelve (2018. január 22.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
 
+33.[^109] a Bizottság 2019/114/EU végrehajtási irányelve (2019. január 24.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról
+
 [^102]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
 [^103]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
 [^104]: A 30. § 28. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
@@ -71,3 +73,4 @@
 [^106]: A 30. § 30. pontját a 24/2016. (IV. 8.) FM rendelet 7. § (2) bekezdése iktatta be.
 [^107]: A 30. § 31. pontját a 38/2017. (VII. 11.) FM rendelet 1. §-a iktatta be.
 [^108]: A 30. § 32. pontját a 24/2018. (VIII. 31.) AM rendelet 1. §-a iktatta be.
+[^109]: A 30. § 33. pontját a 44/2019. (IX. 20.) AM rendelet 1. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^118]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^119]
 
 I. RÉSZ
 
@@ -36,7 +36,7 @@ I. RÉSZ
 
 | 11. | Brassica oleracea L. | Leveles kel | TP 90/1 2011. 2. 16. |
 
-| 12. | Brassica oleracea L. | Karfiol | TP 45/2 rev. 2017. 3. 15. |
+| 12. | Brassica oleracea L. | Karfiol | TP 45/2 Rev. 2., 2018.3.21. |
 
 | 13. | Brassica oleracea L. | Brokkoli vagy Calabrese brokkoli | TP 151/2 rev. 2017. 3. 15. |
 
@@ -54,13 +54,15 @@ I. RÉSZ
 
 | 20. | Cichorium intybus L. | Ipari cikória | TP 172/2, 2005.12.1. |
 
-| 21. | Cichorium intybus L. | Cikóriasaláta | TP 173/1 2004. 3. 25. |
+| 21. | Cichorium intybus L. | Cikóriasaláta | TP 173/2, 2018.3.21. |
+
+| 21/a. | Cichorium intybus L. | Leveles cikória | TP 154/1, 2018.3.21. |
 
 | 22. | Citrullus lanatus (Thumb.) Matsum. et Nakai | Görögdinnye | TP 142/2, 2014.3.19. |
 
 | 23. | Cucumis melo L. | Sárgadinnye | TP 104/2 2007. 3. 21. |
 
-| 24. | Cucumis sativus L. | Salátauborka és fürtös uborka | TP 61/2 2008. 3. 13. |
+| 24. | Cucumis sativus L. | Salátauborka és fürtös uborka | TP 61/2 Rev., 2018.3.21. |
 
 | 24/a. | Cucurbita maxima Duchesne | Sütőtök | TP 155/1, 2015.3.11. |
 
@@ -72,9 +74,9 @@ I. RÉSZ
 
 | 28. | Foeniculum vulgare Mill | Édeskömény | TP 183/1 2004. 3. 25. |
 
-| 29. | Lactuca sativa L. | Saláta | TP 13/5 rev. 2, 2017. 3. 15. |
+| 29. | Lactuca sativa L. | Saláta | TP 13/6, 2018.3.21. |
 
-| 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 rev. 2., 2016.4.19. |
+| 30. | Solanum Lycopersicum L. | Paradicsom | TP 44/4 Rev. 3., 2018.3.21. |
 
 | 31. | Petroselinum crispum (Mill.) Nyman ex A.W. Hill | Petrezselyem | TP 136/1 2007. 3. 21. |
 
@@ -100,9 +102,9 @@ I. RÉSZ
 
 | 40. | Zea mays L. (partim) | Csemege kukorica és pattogatni való kukorica | TP 2/3 2010. 3. 11. |
 
-| 41. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TP 294/1 rev. 2, 2017. 3. 15. |
+| 41. | Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg; Solanum pimpinellifolium L. x Solanum habrochaites S. Knapp & D.M. Spooner | Paradicsom-alanynövény (Paradicsom-alanyvesszők) | TP 294/1 Rev. 3., 2018.3.21. |
 
-| 42. | Cucurbita maxima x Cucurbita moschata | A Cucurbita maxima Duch. x Cucurbita moschata Duch. tőként történő felhasználásra szánt interspecifikus hibridjei | TP/311/1, 2017. 3. 15. |
+| 42. | Cucurbita maxima Duchesne x Cucurbita moschata Duchesne | A Cucurbita maxima Duch. x Cucurbita moschata Duch. tőként történő felhasználásra szánt interspecifikus hibridjei | TP/311/1, 2017. 3. 15. |
 
 II. RÉSZ
 
@@ -116,7 +118,7 @@ II. RÉSZ
 
 | 2. | Brassica rapa L. | Tarlórépa | TG/37/10 2001. 4. 4. |
 
-| 3. | Cichorium intybus L. | Leveles cikória vagy olasz cikória | TG/154/4, 2017. 4. 5. |
+| 3. |  |  |  |
 
 | 4. |  |  |  |
 
@@ -130,4 +132,4 @@ III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-[^118]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja szerint módosított szöveg.
+[^119]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a szerint módosított szöveg.
