@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti a 40/2004. (IV. 7.) FVM rendelet 11. számú mellékletének II. részében foglalt táblázat 3. sora.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

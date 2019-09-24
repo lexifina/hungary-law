@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-44-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-09-23 | 2019-44-20-7R.1 | 44/2019. (IX. 20.) AM rendelet |
+| 2019-09-24 | 2019-44-20-7R.2 | 2010: CXXX. törvény |
