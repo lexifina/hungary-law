@@ -2,54 +2,25 @@ A Kormány
 
 1. elismeréssel adózik a Magyar Pálos Rend Első Remete Szent Pál Rendjének (a továbbiakban: Rend) nemzetünk történelmében betöltött szerepe előtt;
 
-2. támogatja a Rend Boldog Özséb Programjának keretében megvalósuló fejlesztéseit, programjait, amelyekhez a 2018–2020. években összesen 1 216 000 000 forint összegű költségvetési támogatást biztosít a 4., 6. és 7. pontok szerint;
+2.[^1] támogatja a Rend Boldog Özséb Programjának keretében megvalósuló fejlesztéseit, programjait, valamint az erdélyi Hargitafürdőn megvalósítandó beruházását (a továbbiakban: Beruházások), amelyekhez a 2018–2019. években összesen 3 216 000 000 forintösszegű költségvetési támogatást biztosít az e határozatban foglaltak szerint;
 
-3. támogatja a Rendnek az erdélyi Hargitafürdőn megvalósítandó beruházását, amelyhez a 2018–2020. években összesen 2 000 000 000 forint összegű költségvetési támogatást biztosít a 4., 6. és 7. pontok szerint;
+3.[^2] egyetért azzal, hogy a 2. pont szerinti célokra az egyházi célú támogatások biztosításáról szóló 1811/2018. (XII. 23.) Korm. határozattal biztosított 1 706 000 000 forint, valamint a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XI. Miniszterelnökség fejezetében biztosított 1 510 000 000 forint a Beruházásoknak a Rend által történő és a Rend által ütemezett megvalósítására kerüljön felhasználásra;
 
-4. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások miniszterének bevonásával gondoskodjon
+4.[^3] felhívja a miniszterelnök általános helyettesét, hogy a 2. pontban felsorolt célok 2019. évi támogatása érdekében gondoskodjon a 2018. évben már létrehozott támogatási jogviszony módosításáról.
 
-a) a 2. pont megvalósítása érdekében 360 000 000 forint,
+Felelős: a miniszterelnök általános helyettese
 
-b) a 3. pont megvalósítása érdekében 50 000 000 forint
+Határidő: azonnal
 
-forrásnak a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára történő biztosításáról;
+5.[^4]
 
-Felelős: nemzetgazdasági miniszter
+6.[^5]
 
-emberi erőforrások minisztere
+7.[^6]
 
-Határidő: 2018. július 31.
-
-5. felhívja az emberi erőforrások miniszterét, hogy a 2. és 3. pontban felsorolt célok 2018. évi támogatása érdekében a Renddel a támogatási jogviszonyt hozza létre;
-
-Felelős: emberi erőforrások minisztere
-
-Határidő: a 4. pontban foglalt forrás rendelkezésre állását követően azonnal
-
-6. felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon
-
-a) a 2. pontban jelzett cél 2019. évi megvalósítása érdekében 632 000 000 forint,
-
-b) a 3. pontban jelzett cél 2019. évi megvalósítása érdekében 950 000 000 forint
-
-forrás biztosításáról a 2019. évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetben;
-
-Felelős: nemzetgazdasági miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a 2019. évi központi költségvetés tervezése során
-
-7. felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon
-
-a) a 2. pontban jelzett cél 2020. évi megvalósítása érdekében 224 000 000 forint,
-
-b) a 3. pontban jelzett cél 2020. évi megvalósítása érdekében 1 000 000 000 forint
-
-forrás biztosításáról a 2020. évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetben.
-
-Felelős: nemzetgazdasági miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a 2020. évi központi költségvetés tervezése során
+[^1]: A 2. pont az 1549/2019. (IX. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1549/2019. (IX. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 4. pont az 1549/2019. (IX. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 5. pontot az 1549/2019. (IX. 25.) Korm. határozat 2. pontja visszavonta.
+[^5]: A 6. pontot az 1549/2019. (IX. 25.) Korm. határozat 2. pontja visszavonta.
+[^6]: A 7. pontot az 1549/2019. (IX. 25.) Korm. határozat 2. pontja visszavonta.
