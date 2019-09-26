@@ -16,6 +16,8 @@ a) a határ menti megyék turisztikai fejlesztéseinek és egyes Kárpát-medenc
 
 b) a kiemelt nemzetközi sportrendezvények lebonyolításának koordinációját.
 
+3/A.[^2] A Kormány a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdés e) pontja alapján az Agro Rehab Nonprofit Korlátolt Felelősségű Társaság (cégjegyzékszám: 01-09-190750) felett az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlójaként jogszabállyal kijelölhető személyként határozza meg a kormánybiztost.
+
 4. A kormánybiztos tevékenységét a miniszterelnök a külgazdasági és külügyminiszter útján irányítja.
 
 5. A kormánybiztos tevékenységének ellátásáért a Ksztv. 31. § (7) bekezdése szerinti díjazásra és juttatásokra jogosult.
@@ -25,3 +27,5 @@ b) a kiemelt nemzetközi sportrendezvények lebonyolításának koordinációjá
 7. A kormánybiztos tevékenységéről félévente beszámol a Kormány részére.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 3/A. pontot az 1546/2019. (IX. 25.) Korm. határozat 1. pontja iktatta be.
