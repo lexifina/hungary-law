@@ -1,12 +1,16 @@
 1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján – a Kormány javaslattevő, véleményező és tanácsadói tevékenységet végző testületeként – létrehozza az Európai Határregisztrációs Rendszer, valamint az Európai Utasinformációs és Engedélyezési Rendszer fejlesztéséhez szükséges kormányzati intézkedéseket koordináló munkacsoportot (a továbbiakban: Munkacsoport).
 
-2. A Munkacsoport feladata
+2.[^1] A Munkacsoport feladata
 
-a) az Európai Határregisztrációs Rendszer (a továbbiakban: EES), valamint az Európai Utasinformációs és Engedélyezési Rendszer (a továbbiakban: ETIAS) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
+a) az Európai Határregisztrációs Rendszer (a továbbiakban: EES), az Európai Utasinformációs és Engedélyezési Rendszer (a továbbiakban: ETIAS) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
 
-b) az EES és az ETIAS alkalmazására való felkészülés nyomon követése,
+b) a Schengeni Információs Rendszer (a továbbiakban: SIS), a harmadik országbeli állampolgárokkal és a hontalan személyekkel szemben hozott ítéletekre vonatkozó információval rendelkező tagállamok azonosítására szolgáló központosított rendszer (a továbbiakban: ECRIS-TCN) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
 
-c) az EES és az ETIAS nemzeti részének fejlesztéséhez szükséges kormányzati intézkedések és döntések előkészítése.
+c) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról szóló európai uniós jogi aktusokban szereplő követelmények (a továbbiakban: interoperabilitás) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
+
+d) az EES, az ETIAS, a SIS és az ECRIS-TCN alkalmazására, valamint az interoperabilitásra való felkészülés nyomon követése és
+
+e) az EES, az ETIAS, a SIS és az ECRIS-TCN nemzeti részének, valamint az interoperabilitás fejlesztéséhez szükséges kormányzati intézkedések és döntések összehangolása és előkészítése.
 
 3. A Munkacsoport az egyes feladatok megvalósításával összefüggésben a feladatok végrehajtásában feladat- és hatáskörrel rendelkező szervektől – személyes adatnak nem minősülő – adatot, beszámolót kérhet. Elnöke és tagjai, valamint az állandó meghívottak az általuk kijelölt képviselő útján a Munkacsoport ülésein helyettesíthetők.
 
@@ -36,7 +40,7 @@ f) a Nemzetbiztonsági Szakszolgálat főigazgatója,
 
 g) a Nemzeti Szakértői és Kutató Központ főigazgatója,
 
-h)[^1] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
+h)[^2] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
 
 i) a Nemzeti Adó- és Vámhivatal vezetője.
 
@@ -58,24 +62,11 @@ c) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökét.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13. A Munkacsoport ügyrendjét a Munkacsoport elnöke 2018. október 31-ig készíti elő, a Munkacsoport alakuló ülését 2018. november 15-ig hívja össze.
+13.[^3]
 
-14. A Kormány felhívja az érintett minisztereket, hogy
+14.[^4]
 
-a) mérjék fel és határozzák meg az EES és az ETIAS fejlesztéséhez szükséges feladatokat és azok végrehajtásának forrásigényét, továbbá jelöljék meg az utóbbi biztosításához szükséges uniós vagy hazai forrásokat,
-
-b) végezzék el a vonatkozó jogszabályi háttér felülvizsgálatát, és szükség szerint tegyenek javaslatot jogszabály-módosításra,
-
-c) készítsenek időközi jelentést a feladatok végrehajtásának állásáról.
-
-Felelős: belügyminiszter
-
-igazságügyi miniszter
-
-külgazdasági és külügyminiszter
-
-pénzügyminiszter
-
-Határidő: 2019. április 30.
-
-[^1]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1545/2019. (IX. 25.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^3]: A 13. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^4]: A 14. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
