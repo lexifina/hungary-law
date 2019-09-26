@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-58-20-2
 | 2018-06-16 | 2018-58-20-22.2 | 107/2018. (VI. 15.) Korm. rendelet |
 | 2018-12-07 | 2018-58-20-22.3 | 231/2018. (XII. 6.) Korm. rendelet |
 | 2018-12-14 | 2018-58-20-22.4 | 243/2018. (XII. 13.) Korm. rendelet |
+| 2019-09-26 | 2018-58-20-22.5 | 225/2019. (IX. 25.) Korm. rendelet |
