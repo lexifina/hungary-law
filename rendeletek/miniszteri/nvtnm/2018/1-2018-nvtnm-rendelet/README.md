@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-7P
 | 2019-08-06 | 2018-1-20-7P.16 | 5/2018. (XI. 8.) NVTNM rendelet |
 | 2019-08-16 | 2018-1-20-7P.17 | 3/2018. (VIII. 1.) NVTNM rendelet |
 | 2019-09-14 | 2018-1-20-7P.18 | 3/2018. (VIII. 1.) NVTNM rendelet |
+| 2019-09-26 | 2018-1-20-7P.19 | 5/2018. (XI. 8.) NVTNM rendelet |
