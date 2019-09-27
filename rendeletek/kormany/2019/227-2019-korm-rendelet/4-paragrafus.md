@@ -1,0 +1,1 @@
+## „aj) a támogatási szerződések, módosításaik, illetve a kapcsolódó dokumentumok teljes körű jogi és pénzügyi szempontú vizsgálatát és szakmai, jogi illetve – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 55. § (2) bekezdés j) pontja szerinti személy általi – pénzügyi ellenjegyzését,”
