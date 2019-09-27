@@ -16,9 +16,9 @@ f) a beruházásnak a régiós munkaerőpiacra gyakorolt pozitív hatása,
 
 g) a beruházás milyen arányban igényel szakképzett és felsőfokú végzettségű munkavállalókat, valamint
 
-h)[^49] a beruházó közvetlenül vagy kapcsolt vállalkozása útján, szerződés alapján együttműködik a lebonyolító szervvel egy hatékony, erős, versenyképes, világpiaci igényeknek megfelelni képes magyarországi beszállítói háttéripar kifejlesztésében,
+h)[^54] a beruházó közvetlenül vagy kapcsolt vállalkozása útján, szerződés alapján együttműködik a lebonyolító szervvel egy hatékony, erős, versenyképes, világpiaci igényeknek megfelelni képes magyarországi beszállítói háttéripar kifejlesztésében,
 
-i)[^50] K+F projektek esetén a vállalkozás eddigi magyarországi kutatás-fejlesztési és innovációs tevékenységét, továbbá a meglévő valamint a beruházás kapcsán létesíteni vállalt, a hazai kutatás-fejlesztési intézményekkel, illetve felsőoktatási intézményekkel megvalósuló együttműködéseit.
+i)[^55] kutatás-fejlesztési projektek esetén a vállalkozás eddigi magyarországi kutatás-fejlesztési és innovációs tevékenységét, továbbá a meglévő valamint a beruházás kapcsán létesíteni vállalt, a hazai kutatás-fejlesztési intézményekkel, illetve felsőoktatási intézményekkel megvalósuló együttműködéseit.
 
-[^49]: A 10. § h) pontja a 118/2018. (VII. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^50]: A 10. § i) pontját a 426/2016. (XII. 15.) Korm. rendelet 7. §-a iktatta be.
+[^54]: A 10. § h) pontja a 118/2018. (VII. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^55]: A 10. § i) pontját a 426/2016. (XII. 15.) Korm. rendelet 7. §-a iktatta be, szövege a 227/2019. (IX. 26.) Korm. rendelet 14. § f) pontja szerint módosított szöveg.

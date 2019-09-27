@@ -1,12 +1,12 @@
 ## 10. A támogatás nyújtásának alapvető feltételei
 
-14. §[^61] (1) A 2. § (1) bekezdés a) és c) pontjában foglalt támogatás feltétele, hogy
+14. §[^66] (1) A 2. § (1) bekezdés a) és c) pontjában foglalt támogatás feltétele, hogy
 
 a) a beruházás elszámolható költségeinek összege elérje a 9. § (1) és (2) bekezdésében meghatározott elszámolható költséget azzal, hogy amennyiben a beruházás több helyszínen valósul meg, és a beruházás helyszínei esetében az elszámolható költség előírt legkisebb mértéke különbözik, úgy a magasabb előírt összeget kell figyelembe venni a támogatás feltételeként; és
 
 b) a beruházás a technológia-intenzív beruházás kivételével a beruházónál, vagy – ha a beruházás elszámolható költségét nem a 20. § (1) bekezdése szerinti elszámolható költség képezi – a beruházóval beszállítói szerződéses kapcsolatban álló, a 6. §-nak megfelelő jogi személynél a foglalkoztatottak éves átlagos statisztikai állományi létszámának tényleges növekedését eredményezze legalább az új munkahelyek számának megfelelő mértékben a beruházás megkezdését megelőző 12 hónap átlagához, vagy ha az magasabb, a beruházó más támogatási szerződésben rögzített létszámvállalásához képest, és az újonnan létesített munkahelyek száma elérje
 
-ba)[^62] a Pest, Fejér, Komárom-Esztergom és Győr-Moson-Sopron megyében a 100-at, regionális szolgáltató központ létrehozatalára vagy bővítésére irányuló beruházás esetében az 50-et,
+ba)[^67] a Pest, Fejér, Komárom-Esztergom és Győr-Moson-Sopron megyében a 100-at, regionális szolgáltató központ létrehozatalára vagy bővítésére irányuló beruházás esetében az 50-et,
 
 bb) az Észak-Magyarország, az Észak-Alföld, a Dél-Alföld és a Dél-Dunántúl tervezési-statisztikai régióban, valamint Vas, Veszprém és Zala megyében az 50-et;
 
@@ -16,9 +16,9 @@ d) a beruházó a beruházást a támogatási szerződésben vállalt feltétele
 
 e) a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítsa és a beruházás megvalósításához szükséges költségek forrását – ideértve a támogatás összegét is – a támogató számára bemutassa;
 
-f)[^63] a beruházó a kötelező üzemeltetési időszak összességében elérje a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 79. §-ában meghatározott ráfordítások az Sztv. 79. § (4) bekezdése szerinti bérjárulékok levonása utáni éves összegének a támogatási kérelmében a kötelező üzemeltetési időszak vonatkozásában feltüntetett mértékét;
+f)[^68] a beruházó a kötelező üzemeltetési időszak összességében elérje a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 79. §-ában meghatározott ráfordítások az Sztv. 79. § (4) bekezdése szerinti bérjárulékok levonása utáni éves összegének a támogatási kérelmében a kötelező üzemeltetési időszak vonatkozásában feltüntetett mértékét;
 
-g)[^64] technológia-intenzív beruházás esetében a beruházó vállalja, hogy fenntartja a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi létszámát, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben kötelezettséget, akkor az annak megfelelő létszámot a kötelező üzemeltetési időszak minden üzleti évében, valamint hogy a beruházás megkezdését követő legkésőbb negyedik üzleti évben, majd a kötelező üzemeltetési időszak ezt követő éveiben átlagosan választása szerint
+g)[^69] technológia-intenzív beruházás esetében a beruházó vállalja, hogy fenntartja a beruházás megkezdését megelőző 12 hónap átlagos statisztikai állományi létszámát, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben kötelezettséget, akkor az annak megfelelő létszámot a kötelező üzemeltetési időszak minden üzleti évében, valamint hogy a beruházás megkezdését követő legkésőbb negyedik üzleti évben, majd a kötelező üzemeltetési időszak ezt követő éveiben átlagosan választása szerint
 
 ga) az Sztv. 79. §-ában meghatározott ráfordítások az Sztv. 79. § (4) bekezdése szerinti bérjárulékok levonása utáni, a beruházónál felmerült éves összege eléri a beruházás megkezdését megelőző üzleti évben elért éves összeg legalább harminc százalékkal növelt mértékét, vagy ha a beruházó ennél magasabb összeg elérésére vállalt más támogatási szerződésben kötelezettséget, akkor az annak megfelelő összeg legalább harminc százalékkal növelt mértékét, vagy
 
@@ -40,7 +40,7 @@ b) meglévő létesítmény termékkínálatának a létesítményben addig nem 
 
 (5) Ha az újonnan létesített munkahelyek (1) bekezdés b) pontjában meghatározott száma egészben vagy részben a beruházóval beszállítói szerződéses kapcsolatban álló, a 6. §-nak megfelelő jogi személynél jelentkezik, úgy a támogatási szerződésben e jogi személyt is fel kell tüntetni azzal, hogy ebben az esetben a beruházás (1) bekezdés c)–d) pontja szerinti fenntartásáért kizárólag a beruházó felel, a kötelezettségek megtartásának ellenőrzéséhez szükséges adatszolgáltatást azonban a beruházóval beszállítói szerződéses kapcsolatban álló jogi személynek cégszerűen aláírt egyoldalú nyilatkozatban vállalnia kell. Az egyoldalú nyilatkozat megtétele a támogatási szerződés hatálybalépésének feltétele.
 
-[^61]: A 14. § a 426/2016. (XII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^62]: A 14. § (1) bekezdés b) pont ba) alpontja a 36/2019. (III. 5.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^63]: A 14. § (1) bekezdés f) pontja a 36/2019. (III. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^64]: A 14. § (1) bekezdés g) pontja a 346/2017. (XI. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^66]: A 14. § a 426/2016. (XII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^67]: A 14. § (1) bekezdés b) pont ba) alpontja a 36/2019. (III. 5.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^68]: A 14. § (1) bekezdés f) pontja a 36/2019. (III. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^69]: A 14. § (1) bekezdés g) pontja a 346/2017. (XI. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

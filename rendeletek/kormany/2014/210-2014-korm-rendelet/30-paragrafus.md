@@ -1,6 +1,6 @@
 ## 18. Az Európai Unió jogának való megfelelés
 
-## 30. §[^115] E rendelet
+## 30. §[^125] E rendelet
 
 a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014. 06. 26., 1. o.) 14. és 25. cikke szerinti, továbbá
 
@@ -8,4 +8,4 @@ b) az Európai Bizottság egyedi határozatának hatálya alá tartozó, előzet
 
 regionális beruházási, illetve kutatás-fejlesztési projektekhez nyújtott támogatást tartalmaz.
 
-[^115]: A 30. § a 426/2016. (XII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^125]: A 30. § a 426/2016. (XII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.
