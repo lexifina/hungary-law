@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1594-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-08-28 | 2017-1594-30-22.1 | 1594/2017. (VIII. 28.) Korm. határozat |
+| 2019-09-27 | 2017-1594-30-22.2 | 1552/2019. (IX. 26.) Korm. határozat |
