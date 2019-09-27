@@ -18,7 +18,7 @@ A tervezett projekt megnevezése
 
 7. Székesfehérvár Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
 
-8. Tatabánya Megyei Jogú Város – Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
+8.[^2] Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
 
 9. Eger Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
 
@@ -31,3 +31,8 @@ A tervezett projekt megnevezése
 13. Pécs város közösségi közlekedés fejlesztése
 
 14. Szeged–Makó vasúti elővárosi közlekedés fejlesztése, vegyesforgalmú Tisza-híd építése
+
+15.[^3] Tatabánya Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
+
+[^2]: A 2. melléklet 8. pontja az 1555/2019. (IX. 26.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^3]: A 2. melléklet 15. pontját az 1555/2019. (IX. 26.) Korm. határozat 7. pontja iktatta be.
