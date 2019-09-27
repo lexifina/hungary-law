@@ -1,4 +1,4 @@
-## „9. § E rendeletnek az állattenyésztés részletes szabályairól szóló 45/2019. (IX. 25.) AM rendelettel megállapított 1. § 6. pontját a 2019. szeptember 1-jétől benyújtott támogatási kérelmek vonatkozásában is alkalmazni kell.”
+## 58. §[^18]
 
 1. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
@@ -105,3 +105,5 @@
 14.1. Fajták: 25 ikrás és 25 tejes törzskönyvi ellenőrzés alatt álló elit szülőpár.
 
 14.2. Hibridek: 25 ikrás és 25 tejes törzskönyvi ellenőrzés alatt álló elit szülőpár vonalanként.
+
+[^18]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
