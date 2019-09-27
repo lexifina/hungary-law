@@ -110,6 +110,8 @@
 
 | 1. | Egyetemi Centrum Szolgáltató Korlátolt Felelősségű Társaság | 19-09-501215 | 2022. december 31. |
 
+| 2. | Nereus Park Hotel Idegenforgalmi Korlátolt Felelősségű Társaság | 19-09-000731 | 2022. december 31. |
+
 ## XII. Tulajdonosi joggyakorló: a Debreceni Egyetem
 
 |  | A | B | C |
