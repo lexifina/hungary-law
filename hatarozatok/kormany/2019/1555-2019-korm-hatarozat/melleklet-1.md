@@ -8,20 +8,17 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az 1247/2016. (V. 18.) Korm. határozat
+## 4.[^1]
 
-## a) 1. pont f) alpont fa) alpont fab) alpontjában a „135,79%-áig” szövegrész helyébe a „132,69%-áig” szöveg,
+## 5.[^2]
 
-## b) 1. pont f) alpont fa) alpont fac) alpontjában a „144,65%-áig” szövegrész helyébe a „156,86%-áig” szöveg,
+## 6.[^3]
 
-## c) 1. pont i) alpontjában a „133,37%-áig” szövegrész helyébe a „130,64%-áig” szöveg
-
-## lép.
-
-## 5. Az 1247/2016. (V. 18.) Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
-
-## 6. Az 1247/2016. (V. 18.) Korm. határozat 2. melléklete a 3. melléklet szerint módosul.
-
-## 7. Az európai uniós forrásból megvalósítandó kötöttpályás projektekről, a rendelkezésre álló forrásokról és az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési kerete módosításának előkészítéséről szóló 1691/2016. (XI. 29.) Korm. határozat [a továbbiakban: 1691/2016. (XI. 29.) Korm. határozat] 2. melléklete a 4. melléklet szerint módosul.
+## 7.[^4]
 
 1. melléklet az 1555/2019. (IX. 26.) Korm. határozathoz
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

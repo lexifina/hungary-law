@@ -8,4 +8,6 @@
 
 | 3. | Kecskemét Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 6 920 000 000 | 1 868 400 000 | 8 788 000 000 | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
 
-2. melléklet az 1555/2019. (IX. 26.) Korm. határozathoz
+2. melléklet az 1555/2019. (IX. 26.) Korm. határozathoz[^5]
+
+[^5]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
