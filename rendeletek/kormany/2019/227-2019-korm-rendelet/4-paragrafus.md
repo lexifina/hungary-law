@@ -1,1 +1,3 @@
-## „aj) a támogatási szerződések, módosításaik, illetve a kapcsolódó dokumentumok teljes körű jogi és pénzügyi szempontú vizsgálatát és szakmai, jogi illetve – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 55. § (2) bekezdés j) pontja szerinti személy általi – pénzügyi ellenjegyzését,”
+## 2–3. §[^2]
+
+[^2]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
