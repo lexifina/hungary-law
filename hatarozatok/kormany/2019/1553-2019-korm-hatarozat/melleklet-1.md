@@ -18,7 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:478 mezőjében a „2,70” szövegrész helyébe a „3,65” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1553/2019. (IX. 26.) Korm. határozathoz
 
@@ -27,3 +27,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-5.2.2-16- 2016-00104 | Kiemelt épületenergetikai fejlesztések a Somogy Megyei Kormányhivatalnál | Somogy Megyei Kormányhivatal | 2 700 000 000 | 949 286 585 | 3 649 286 585 | A projekt célja a Somogy Megyei Kormányhivatalnál (Kaposvár, Nagy Imre tér 1., 9410 m2 fűtött alapterület) megvalósítandó fejlesztések: hőszigetelés, nyílászárócsere, fűtéskorszerűsítés, valamint 70 kW teljesítménnyel napkollektoros rendszer kiépítése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
