@@ -2,8 +2,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 2. melléklete a 2. melléklet szerint módosul.
+## 3.[^1]
 
-## 4. Az „M70 autóút Letenye–Tornyiszentmiklós közötti szakasz 2×2 sávra történő bővítése” című projekt megvalósításához szükséges források biztosításáról szóló 1594/2017. (VIII. 28.) Korm. határozat [a továbbiakban: 1594/2017. (VIII. 28.) Korm. határozat] 1. melléklete a 3. melléklet szerint módosul.
+## 4.[^2]
 
 1. melléklet az 1552/2019. (IX. 26.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
