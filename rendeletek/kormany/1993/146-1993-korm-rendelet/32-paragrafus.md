@@ -14,7 +14,9 @@ c)[^220] a szabad mozgás és tartózkodás jogával rendelkező személy eseté
 
 d)[^221] menekült esetében a menekültkénti, az oltalmazott esetében az oltalmazottkénti elismerésről rendelkező véglegessé vált határozat.
 
-(3)[^222] A bejelentkezés teljesítésekor a polgár a személyazonosító igazolványát vagy – amennyiben személyazonosító igazolvánnyal nem rendelkezik – más, személyazonosításra alkalmas hatósági igazolványát köteles bemutatni és a személyi azonosítóról és a lakcímről szóló hatósági igazolványát leadni.
+(3)[^222] A bejelentkezés teljesítésekor a polgár köteles bemutatni és átadni a személyazonosító igazolványát vagy – ha személyazonosító igazolvánnyal nem rendelkezik – bemutatni más, személyazonosításra alkalmas hatósági igazolványát, és leadni a személyi azonosítót és a lakcímet igazoló hatósági igazolványát.
+
+(4)[^223] A lakcímadatoknak a bejelentkezés teljesítésekor átvett személyazonosító igazolvány tároló elemén történő rögzítését követően az eljáró szerv haladéktalanul gondoskodik a személyazonosító igazolvány polgár részére történő visszaadásáról.
 
 [^213]: Az R. 32. § -a a 13/1999. ( II.1.) Korm. rendelet 27. §-ával megállapított szöveg.
 [^214]: Az R. 32. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
@@ -25,4 +27,5 @@ d)[^221] menekült esetében a menekültkénti, az oltalmazott esetében az olta
 [^219]: Az R. 32. § (2) bekezdésének b) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
 [^220]: Az R. 32. § (2) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
 [^221]: Az R. 32. § (2) bekezdés d) pontja a 26/2011. (III. 10.) Korm. rendelet 18. §-a, a 457/2017. (XII. 28.) Korm. rendelet 15. § i) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^222]: Az R. 32. §-ának (3) bekezdése a 168/1999. (XI. 24.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^222]: Az R. 32. § (3) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^223]: Az R. 32. § (4) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 1. § (10) bekezdése iktatta be.
