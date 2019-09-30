@@ -60,7 +60,11 @@ f) a személyazonosító igazolvány elektronikus egyedi azonosítóját,
 
 g) a polgár kérelmére legfeljebb kettő, vészhelyzet esetén értesítendő telefonszámot,
 
-h) a szolgáltatásazonosítót.
+h) a szolgáltatásazonosítót,
+
+i) a polgár lakcímadatát,
+
+j) a polgár személyi azonosítóját.
 
 (8) A tároló elem az ujjnyomatot abból a célból tartalmazza, hogy az állandó személyazonosító igazolvány és a polgár közti kapcsolat kétséget kizáróan megállapítható legyen.
 
@@ -101,3 +105,13 @@ e) a kiadásának okát.
 (19) Ha a valamely jogosultságot nyújtó szerv vagy személy a Nektv.-ben meghatározott elektronikuskártya-kibocsátási keretrendszerhez kártyakibocsátóként nem csatlakozik, a szolgáltatásazonosító kezelésére akkor jogosult, ha valamely, a miniszter rendeletében meghatározott jogosultság fennállásának tényét a személyazonosító igazolvány jogosultjának természetes személyazonosító adataihoz hozzárendelten – a személyes adatok kezelésére irányadó előírások alapján – kezeli. A szolgáltatásazonosító kezelésére ebben az esetben, kizárólag ezen jogosultság fennállásának ellenőrzése céljából – a személyes adatok kezelésére irányadó előírások szerint – kerülhet sor.
 
 (20) A szolgáltatásazonosító alkalmazásával ellenőrzött egyes jogosultságokat tartalmazó nyilvántartások egymással való összekapcsolásához a szolgáltatásazonosító nem használható fel, a szolgáltatásazonosító személyazonosításra történő felhasználása tilos.
+
+(21) Ha az állandó személyazonosító igazolvány tároló eleme nem vagy nem helyesen tartalmazza a polgár társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, illetve személyi azonosítóját, abban az esetben a polgár kérelmére
+
+a) az egészségbiztosítási szerv a polgár társadalombiztosítási azonosító jelét,
+
+b) a Nemzeti Adó- és Vámhivatal a polgár adóazonosító jelét,
+
+c) a nyilvántartás szervei a polgár lakcímét, illetve személyi azonosítóját
+
+a tároló elemen elhelyezi.
