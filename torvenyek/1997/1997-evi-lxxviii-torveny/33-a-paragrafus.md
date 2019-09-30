@@ -16,15 +16,15 @@ c) az a) és b) pontban foglalt építési munkákhoz szükséges tereprendezés
 
 (4) Egyszerű bejelentéssel folytatott építési tevékenység esetén
 
-a) az építtető az építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal – kormányrendeletben meghatározottak szerint – a nevének és lakcímének, szervezet esetén a megnevezésének és székhelyének megjelölésével, kizárólag elektronikus úton bejelenti a kormányrendeletben kijelölt szervnek,
+a) az építtető az építési tevékenységet kormányrendeletben meghatározott módon bejelenti a kormányrendeletben kijelölt szervnek,
 
 b) ha a tervező a tervezés során a közműellátás és az égéstermék-elvezető megvalósítása érdekében az arra jogosult szolgáltató hozzájárulását vagy jóváhagyását kéri, és arra nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni,
 
-c) a bejelentéshez kormányrendeletben meghatározott tartalmú kivitelezési dokumentációt kell mellékelni,
+c) a bejelentéshez kormányrendeletben meghatározott tartalmú dokumentációt kell mellékelni,
 
 d) a bejelentéstől a kormányrendeletben meghatározottak szerint lehet eltérni.
 
-(5) Az egyszerű bejelentéssel folytatott építési tevékenység esetén az építtető köteles építész tervezőt tervezői művezetésre megbízni.
+(5) Az egyszerű bejelentéssel folytatott építési tevékenység kormányrendeletben meghatározott eseteiben az építtető köteles építész tervezőt tervezői művezetésre megbízni.
 
 (6) Az egyszerű bejelentéssel folytatott építési tevékenységet a bejelentéstől számított tíz éven belül meg kell valósítani és a felépítés megtörténtét tanúsító hatósági bizonyítványt kell kérni a kormányrendeletben kijelölt szervtől.
 

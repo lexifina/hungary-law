@@ -10,7 +10,7 @@ d) az építésügyi hatósági engedély, építésügyi vagy építésfelügye
 
 e) a hatósági eljárásban záradékolt építészeti-műszaki dokumentációban, valamint a kivitelezési dokumentációban foglaltak betartásáért,
 
-f) az építőipari kivitelezési tevékenység megkezdéséhez szükséges jogszabályban előírt dokumentumok (tervek) meglétéért, az elektronikus építési napló vezetése esetén az építési napló készenlétbe helyezéséért,
+f) az építőipari kivitelezési tevékenység megkezdéséhez szükséges jogszabályban előírt dokumentumok (tervek) meglétéért,
 
 g) az építési munkaterület átadásáért,
 

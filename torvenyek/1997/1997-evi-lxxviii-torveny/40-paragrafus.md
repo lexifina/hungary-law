@@ -1,6 +1,6 @@
 40. § (1) A kivitelező felelős:
 
-a) az építőipari kivitelezési tevékenység jogszerű megkezdéséért és folytatásáért, az építési napló vezetéséért, kivitelezői jogosultságának meglétéért,
+a) az építőipari kivitelezési tevékenység jogszerű megkezdéséért és folytatásáért, kivitelezői jogosultságának meglétéért,
 
 b) az építtető által rendelkezésére bocsátott, hatósági eljárásban záradékolt építészeti-műszaki dokumentációban, valamint a kivitelezési dokumentációban előírtak betartásáért és betartatásáért, és
 
