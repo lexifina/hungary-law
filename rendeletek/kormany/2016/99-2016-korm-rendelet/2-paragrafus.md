@@ -16,13 +16,13 @@ bb) f) pontjában meghatározott vizsgálat
 
 (2a)[^7] A tűzvédelmi hatóság a (2) bekezdés szerinti intézkedést az 1. § (1a) bekezdésben foglaltak esetében a megrendelési kötelezettségre előírt határidő elteltét követően teszi meg.
 
-(3) A tűzvédelmi hatóság megtiltja az égéstermék-elvezető üzemeltetését, ha az ingatlan tulajdonosa a hatóság felhívására az előírt határidőben sem tesz eleget a Kstv. 5. § (3) bekezdés alapján fennálló, a Kstv. 5. § (2) bekezdés a) és e) pontjában foglalt kötelezettségének.
+(3)[^8] A tűzvédelmi hatóság megtiltja az égéstermék-elvezető üzemeltetését, ha az ingatlan tulajdonosa a hatóság felhívására az előírt határidőben sem tesz eleget a Kstv. 5. § (3) bekezdés alapján fennálló, a Kstv. 5. § (2) bekezdés a), e), f) és i) pontjában foglalt kötelezettségének.
 
 (4) A tűzvédelmi hatóság (3) bekezdés szerinti tiltását követően az égéstermék-elvezető akkor üzemeltethető újra, ha a szabálytalanságot megszüntették, és azt a kéményseprő-ipari tevékenységet ellátó a Kstv. 2. § (8) bekezdésben meghatározott dokumentumban igazolja. A kéményseprő-ipari tevékenységet ellátó a Kstv. 2. § (8) bekezdésben meghatározott dokumentum másolatát a tűzvédelmi hatóság részére a kiállítástól számított három munkanapon belül továbbítja.
 
 (5) A tűzvédelmi hatóság kérelemre hatósági eljárásban vizsgálja ki a kéményseprő-ipari szolgáltató által kiállított, a Kstv. 2. § (8) bekezdése szerinti, a kéményseprő-ipari tevékenység elvégzésének eredményét tartalmazó dokumentum kiadásával, valamint a Kstv. 3. § (6) bekezdése szerinti felmérésről szóló értesítéssel kapcsolatos vitás ügyeket, és azok tartalmát felülvizsgálja.
 
-(6)[^8] Az (5) bekezdésben meghatározott eljárás megindítására irányuló kérelem a Kstv. 2. § (8) bekezdése szerinti dokumentum, illetve a Kstv. 3. § (6) bekezdése szerinti felmérésről szóló értesítés kézhezvételétől számított tizenöt napon belül nyújtható be a tűzvédelmi hatósághoz.
+(6)[^9] Az (5) bekezdésben meghatározott eljárás megindítására irányuló kérelem a Kstv. 2. § (8) bekezdése szerinti dokumentum, illetve a Kstv. 3. § (6) bekezdése szerinti felmérésről szóló értesítés kézhezvételétől számított tizenöt napon belül nyújtható be a tűzvédelmi hatósághoz.
 
 (7) Ha a tűzvédelmi hatóság az (5) bekezdés szerinti eljárása során megállapítja, hogy a kéményseprő-ipari szolgáltató nem tett eleget a Kstv. 2. § (8) bekezdése, illetve a Kstv. 3. § (6) bekezdése szerinti kötelezettségnek, határozatban állapítja meg a dokumentum három munkanapon belül történő kiadásának kötelezettségét. A tűzvédelmi hatóság a (6) bekezdés szerinti kérelmet elutasítja, ha a Kstv. 2. § (8) bekezdése, illetve a Kstv. 3. § (6) bekezdése szerinti dokumentumot a kéményseprő-ipari szolgáltató kiadta.
 
@@ -34,19 +34,21 @@ bb) f) pontjában meghatározott vizsgálat
 
 a) eljár az ingatlan használójának, tulajdonosának a kéményseprő-ipari szerv kéményseprő-ipari tevékenységével kapcsolatos panasza esetén, ha azt az ingatlan használója vagy tulajdonosa kérelmére a kéményseprő-ipari szerv – igazolható módon – nem orvosolta,
 
-b) kivizsgálja a kéményseprő-ipari szerv által kiállított, a Kstv. 2. § (8) bekezdése szerinti, a kéményseprő-ipari tevékenység elvégzésének eredményét tartalmazó dokumentum kiadásával kapcsolatos vitás ügyeket, valamint annak tartalmát megvizsgálja,
+b)[^10] kivizsgálja a kéményseprő-ipari szerv által végzett kéményseprő-ipari tevékenység elvégzésének eredményét tartalmazó, a Kstv. 2. § (8) bekezdése szerinti dokumentum kiadásával kapcsolatos vitás ügyeket, valamint annak tartalmát megvizsgálja,
 
 c) megvizsgálja az égéstermék-elvezető használati és műszaki állapota kéményseprő-ipari szerv általi, a Kstv. 3. § (6) bekezdése szerinti felmérésének tartalmát,
 
 ## és a kéményseprő-ipari szervet – határidő tűzésével – írásban a jogszerű állapot helyreállítására hívja fel, valamint intézkedéséről az ingatlan használóját, tulajdonosát értesíti.
 
-(11)[^9] A kéményseprő-ipari tevékenységet ellátó a panaszról felvett jegyzőkönyvet és a válasz másolati példányát az ellenőrző hatóságoknak felhívásra bemutatja.
+(11)[^11] A kéményseprő-ipari tevékenységet ellátó a panaszról felvett jegyzőkönyvet és a válasz másolati példányát az ellenőrző hatóságoknak felhívásra bemutatja.
 
-(12)[^10] A kéményseprő-ipari tevékenységet ellátó ügyfélnek minősül azon hatósági eljárásban, amelyet a tűzvédelmi hatóság a kéményseprő-ipari tevékenységet ellátótól érkezett értesítés alapján indít a kötelezettségét nem teljesítő ingatlantulajdonossal szemben.
+(12)[^12] A kéményseprő-ipari tevékenységet ellátó ügyfélnek minősül azon hatósági eljárásban, amelyet a tűzvédelmi hatóság a kéményseprő-ipari tevékenységet ellátótól érkezett értesítés alapján indít a kötelezettségét nem teljesítő ingatlantulajdonossal szemben.
 
 [^5]: A 2. § (1) bekezdése a 263/2017. (IX. 11.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 62. §-ával megállapított, nyitó szövegrésze a 263/2017. (IX. 11.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (2a) bekezdését a 263/2017. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
-[^8]: A 2. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 573. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^9]: A 2. § (11) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
-[^10]: A 2. § (12) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 2. § (3) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^9]: A 2. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 573. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^10]: A 2. § (10) bekezdés b) pontja a 176/2019. (VII. 18.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § (11) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 2. § (12) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 573. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
