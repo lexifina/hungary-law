@@ -26,7 +26,9 @@ k)[^5] gondoskodik a nála leadott ideiglenes személyazonosító igazolvány me
 
 l)[^6] végzi a vészhelyzet esetén értesítendő telefonszám rögzítését, cseréjét és törlését,
 
-m)[^7] végzi az állandó személyazonosító igazolvány tároló elemén – erre irányuló kérelemre – a szolgáltatásazonosító rögzítését.
+m)[^7] végzi az állandó személyazonosító igazolvány tároló elemén – erre irányuló kérelemre – a szolgáltatásazonosító rögzítését,
+
+n)[^8] végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését.
 
 (2) A kormányablak az e rendeletben meghatározott eljárásokkal összefüggő hatásköreit a kormányablakokról szóló kormányrendeletben meghatározottak szerint gyakorolja. Ezen eljárások tekintetében a kormányablak eljárására a járási hivatalra megállapított eljárási szabályok megfelelően irányadók.
 
@@ -36,3 +38,4 @@ m)[^7] végzi az állandó személyazonosító igazolvány tároló elemén – 
 [^5]: A 3. § (1) bekezdés k) pontja a 379/2016. (XII. 2.) Korm. rendelet 311. § (4) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés l) pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (5) bekezdése iktatta be.
 [^7]: A 3. § (1) bekezdés m) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^8]: A 3. § (1) bekezdés n) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be.
