@@ -4,7 +4,7 @@
 
 (3) A Szaztv.
 
-a)
+a) 8. § (3) bekezdésében az „(1) és (2) bekezdése” szövegrész helyébe az „(1)–(3) bekezdése” szöveg,
 
 b)
 
