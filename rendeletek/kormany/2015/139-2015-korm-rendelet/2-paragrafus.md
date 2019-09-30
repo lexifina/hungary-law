@@ -12,7 +12,7 @@
 
 (5) A 4. melléklet tartalmazza a magyar és külföldi felsőoktatási intézmények közös képzéseinek jegyzékét.
 
-(6)[^3] Az 1. § (3) bekezdése szerinti képzések jegyzékét a 363/2011. (XII. 30.) Korm. rendelet 6/A. § (4) bekezdésének megfelelően az államtudományi képzési terület alap- és mesterképzési szakjainak meghatározásáról és azok képzési és kimeneti követelményeiről, valamint az azzal összefüggő kormányrendeletek módosításáról szóló 282/2016. (IX. 21.) Korm. rendelet tartalmazza.
+(6)[^3] Az 1. § (3) bekezdése szerinti képzések jegyzékét a 363/2011. (XII. 30.) Korm. rendelet 6/A. § (4) bekezdésének megfelelően az államtudományi képzési területen szerezhető képesítések jegyzékéről és a képzések képzési és kimeneti követelményeiről szóló kormányrendelet tartalmazza.
 
 (7)[^4] A hitéleti képzési területen alapképzési szakon az MKKR 6. szintjének megfelelő, mesterképzési szakon az MKKR 7. szintjének megfelelő végzettség és szakképzettség szerezhető.
 
@@ -24,6 +24,6 @@ b) kizárólag mesterfokozatot követő szakirányú továbbképzésben az MKKR 
 
 szakképzettség szerezhető.
 
-[^3]: A 2. § (6) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 16. §-a iktatta be, szövege a 169/2016. (VII. 1.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 282/2016. (IX. 21.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^3]: A 2. § (6) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 223/2019. (IX. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^4]: A 2. § (7) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be.
 [^5]: A 2. § (8) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 39. § (2) bekezdése iktatta be, nyitó szövegrésze a 407/2017. (XII. 15.) Korm. rendelet 43. §-a szerint módosított szöveg.

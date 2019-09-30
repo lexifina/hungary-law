@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-139-20-
 | 2018-01-01 | 2015-139-20-22.7 | 169/2016. (VII. 1.) Korm. rendelet |
 | 2018-10-13 | 2015-139-20-22.8 | 188/2018. (X. 12.) Korm. rendelet |
 | 2019-08-01 | 2015-139-20-22.9 | 169/2016. (VII. 1.) Korm. rendelet |
+| 2019-09-30 | 2015-139-20-22.10 | 169/2016. (VII. 1.) Korm. rendelet |
