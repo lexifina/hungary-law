@@ -16,10 +16,16 @@ d) vonatkozásában annak megjelölését, hogy csak egyes adatok vagy azzal egy
 
 (4) Az archiválási szabályzatot, a benne foglalt információk változása esetén, a változást követő 3 napon belül frissíteni kell.
 
-(5) Az archiválási szabályzatot annak elkészítésekor, valamit módosításakor a Felügyeletnek meg kell küldeni. A Felügyelet az archiválási szabályzat beérkezését követő 60 napon belül az archiválási szabályzatot felülvizsgálja, és álláspontjáról az adatkezelőt értesíti.
+(5)[^9] Az archiválási szabályzatot annak elkészítésekor, valamint a módosított archiválási szabályzat egységes szerkezetű változatát az archiválási szabályzat módosításakor a Felügyeletnek meg kell küldeni. A Felügyelet az archiválási szabályzat beérkezését követő 60 napon belül azt felülvizsgálja.
 
 (6) A Felügyelet az archiválási szabályzatokról belső használatú katalógust vezet.
 
 (7) Az archiválási szabályzat Felügyeletnek történő megküldésével egyidejűleg el kell kezdeni az adattrezor-archiválás végrehajtását.
 
-(8) Ha a Felügyelet az archiválási szabályzat 12. § (2) bekezdés b) vagy c) pontja szerinti tartalmával nem ért egyet, az adatkezelőt annak módosítására kötelezi. Ebben az esetben az adatkezelő – a módosított tartalom szerinti archiválási kategóriába sorolásnak megfelelően – ismételten adattrezor–archiválást végez.
+(8)[^10] Ha a Felügyelet az archiválási szabályzat 12. § (2) bekezdés b) vagy c) pontja szerinti tartalmával nem ért egyet, az adatkezelőt annak módosítására kötelezi, egyéb esetben álláspontjáról az adatkezelőt értesítheti.
+
+(9)[^11] Ha a Felügyelet az adatkezelőt az archiválási szabályzat módosítására kötelezi, az adatkezelő – a módosított tartalom szerinti archiválási kategóriába sorolásnak megfelelően – ismételten adattrezor-archiválást végez.
+
+[^9]: A 12. § (5) bekezdése a 228/2019. (IX. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: A 12. § (8) bekezdése a 228/2019. (IX. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: A 12. § (9) bekezdését a 228/2019. (IX. 26.) Korm. rendelet 2. § (3) bekezdése iktatta be.
