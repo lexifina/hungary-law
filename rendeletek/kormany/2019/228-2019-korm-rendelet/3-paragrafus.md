@@ -1,0 +1,1 @@
+## „(9) Ha a Felügyelet az adatkezelőt az archiválási szabályzat módosítására kötelezi, az adatkezelő – a módosított tartalom szerinti archiválási kategóriába sorolásnak megfelelően – ismételten adattrezor-archiválást végez.”
