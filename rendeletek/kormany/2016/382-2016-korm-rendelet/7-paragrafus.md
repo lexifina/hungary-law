@@ -1,3 +1,5 @@
+## tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
+
 ## 5. A vasúti igazgatási szerv kijelölése
 
 7. § (1) A Kormány vasúti igazgatási szervként a miniszter által vezetett minisztérium szervezeti egységét jelöli ki.

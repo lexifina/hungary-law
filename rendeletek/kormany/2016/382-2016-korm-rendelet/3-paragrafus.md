@@ -1,4 +1,4 @@
-## során.
+## tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
 
 ## 3. § A gyorsforgalmi út építése során a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény szerinti előzetes vizsgálati és környezeti hatásvizsgálati eljárásokban a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény
 

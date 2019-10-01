@@ -124,14 +124,17 @@ c) a víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: 
 
 33. a hatáskörébe tartozó hajózási bírság kiszabásával,
 
-34.[^45] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
+34.[^47] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
 
 ## kapcsolatos eljárásokban.
 
-(5)[^46] Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (2) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
+(5)[^48] Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (2) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
 
-(6)[^47] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
+(6)[^49] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
 
-[^45]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^46]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^47]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+(7)[^50] A Kormány hajózási hatóságként első fokon a minisztert jelöli ki a víziközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
+
+[^47]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^48]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^49]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^50]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be.

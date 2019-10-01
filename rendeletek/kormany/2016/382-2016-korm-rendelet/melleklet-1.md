@@ -1,6 +1,6 @@
-## 28. §[^63]
+## 28. §[^67]
 
-1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^64]
+1. melléklet a 382/2016. (XII. 2.) Korm. rendelethez[^68]
 
 1. Az útügyi hatóság eljárásaiban kijelölt szakhatóságok
 
@@ -24,5 +24,5 @@
 
 | 6. | Ha az út a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a tervezett út, építmény, tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-[^63]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^64]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 588. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^67]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 588. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
