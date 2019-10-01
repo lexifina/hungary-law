@@ -1,3 +1,1 @@
-## Elektromos gépjármű töltésére vonatkozó engedély
-
-90/B. § Az elektromos gépjármű töltésére vonatkozó engedély határozatlan időre szól.
+### 90/B. §

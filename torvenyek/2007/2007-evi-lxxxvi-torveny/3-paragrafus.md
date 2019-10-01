@@ -22,17 +22,9 @@
 
 7. Egyetemes szolgáltatás: a villamosenergia-kereskedelem körébe tartozó sajátos villamosenergia-értékesítési mód, amely Magyarország területén bárhol, meghatározott minőségben a jogosult felhasználó számára méltányos, összehasonlítható, átlátható ár ellenében igénybe vehető;
 
-7a. Elektromos gépjármű: elektromos erőátviteli rendszerrel felszerelt gépjármű, amelynek meghajtása elsődlegesen villamos motorral történik és a motor a villamos energiát külsőleg újratölthető belső elektromos energiatároló rendszerből nyeri;
+7a.
 
-7b. Elektromos gépjármű töltése: az elektromos gépjármű energiatárolójának töltése
-
-a) vagy az energiatároló cseréje az elektromos gépjármű energiatárolójának villamos energiával történő feltöltésére alkalmas töltőállomáson,
-
-b) a lakossági fogyasztó saját mért felhasználói berendezésén keresztül, amely tevékenység nem irányul gazdasági haszonszerzésre,
-
-c) a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül vagy a vételező vételezési helyén, ha a tevékenység nem irányul haszonszerzésre,
-
-d) a felhasználó mért magánvezetékére csatlakozó, az elektromos gépjármű energiatárolójának villamos energiával történő töltésére alkalmas töltőállomáson keresztül;
+7b.
 
 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 
@@ -176,7 +168,9 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 60. Termelői vezeték: közcélúnak, magán- és közvetlen vezetéknek nem minősülő vezeték, hálózati elem, vagy átalakító- és kapcsolóberendezés, amely az erőmű által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el, és erre felhasználó nem csatlakozik vagy vételező nem kapcsolódik;
 
-61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére, ide nem értve az elektromos gépjármű töltését;
+61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
+
+61a.
 
 62. Üzemi hiba: azon nem tervezett üzemi esemény, amely a villamosenergia-termelés, -átvitel vagy -elosztás tervszerű üzemmenetében nem szándékolt változást eredményez;
 
