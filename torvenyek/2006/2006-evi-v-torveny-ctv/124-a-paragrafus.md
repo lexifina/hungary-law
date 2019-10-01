@@ -1,3 +1,7 @@
 124/A. § (1) Ha a korlátolt felelősségű társaságban fennálló üzletrész olyan jogutód nélkül megszűnt tag tulajdonát képezte, amelynek székhelye a megszűnéskor nem Magyarországon volt és a megszüntetésre irányuló eljárást nem Magyarországon folytatták le, vagyonrendezési eljárás lefolytatására nem kerül sor.
 
 (2) Az érintett korlátolt felelősségű társaság a megszűnt tag üzletrészére vonatkozó adatokról a Cégközlönyben közleményt köteles közzétenni azzal, hogy akinek az üzletrészre vonatkozóan igénye van, azt három hónapon belül jelentse be. Ha ilyen bejelentésre nem kerül sor, a megszűnt tag üzletrészét haladéktalanul be kell vonni. Amennyiben az igényt három hónapon túl jelentették be, a társaságtól csak a bevont üzletrész értékét lehet igényelni, a közzétételtől számított egyéves jogvesztő határidőn belül.
+
+6. CÍM
+
+NYILVÁNTARTÁSBA BEJEGYZETT JOG ÉS TÉNY TÖRLÉSE IRÁNTI VAGYONRENDEZÉSI ELJÁRÁS

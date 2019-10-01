@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2019-01-01 | 2018. évi XCI. törvény | 2006-5-00-00.65 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2006-5-00-00.66 |
 | 2019-09-01 | 2019. évi LXVIII. törvény | 2006-5-00-00.67 |
+| 2019-10-01 | 2019. évi LXVI. törvény | 2006-5-00-00.68 |

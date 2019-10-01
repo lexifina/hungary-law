@@ -14,7 +14,9 @@ is fel kell tüntetni a cégjegyzékben.
 
 (3) A cégjegyzék valamennyi cégadat esetében tartalmazza a változás időpontját.
 
-(4) A cég a változásbejegyzési kérelemben meghatározhatja a 24. § (1) bekezdés b)–d), g) és h) pontjában, a 25. § (1) bekezdés a)–e), h), i), l), n), p), q), s) és t) pontjában foglalt adatok változásának időpontját. A változás időpontja azonban nem lehet korábbi, mint a változás alapjául szolgáló határozat meghozatalának napja. A változás időpontjának feltüntetése hiányában vagy ellentmondásos okiratok esetén az e bekezdés szerinti adatok változásának időpontja az alapul szolgáló határozat meghozatalának a napja.
+(4) A cég a változásbejegyzési kérelemben – a (4a) bekezdésben foglalt kivétellel – meghatározhatja a cégadata változásának időpontját. A változás időpontja azonban nem lehet korábbi, mint a változás alapjául szolgáló határozat meghozatalának napja. A változás időpontjának feltüntetése hiányában vagy ellentmondó adatok esetén a cégadat változásának időpontja az alapul szolgáló határozat meghozatalának a napja.
+
+(4a) A cég a jegyzett tőke leszállítása esetén a változás időpontját nem határozhatja meg. Ebben az esetben a változás időpontja a jegyzett tőke változás cégbírósági bejegyzésének napja.
 
 (5) Ha jogszabály másként nem rendelkezik és a cég bejegyzésére irányuló cégeljárásban a pénzbeli hozzájárulás befizetésének igazolására e törvény rendelkezései alapján sor kerülhet ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közjegyző által közokiratba foglalt ügyvezetői nyilatkozattal, az ügyvezető a cég bejegyzését követő nyolc napon belül köteles a cég pénzforgalmi számláját megnyitni és a rendelkezésre bocsátott, a pénzforgalmi számla megnyitásáig a cég működése során fel nem használt pénzbeli vagyoni hozzájárulás összegét a számlára befizetni.
 

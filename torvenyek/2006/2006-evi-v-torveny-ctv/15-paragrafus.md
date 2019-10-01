@@ -1,4 +1,8 @@
-15. § (1) A céginformációs szolgálat a cégjegyzékben szereplő fennálló vagy törölt adatok, valamint a bejegyzési (változásbejegyzési) kérelem elektronikusan rögzített, még be nem jegyzett adatainak a megismerését betekintéssel bárki számára ingyenesen és korlátozásmentesen biztosítja. A céginformációs szolgálat honlapján – a hitelezők védelme érdekében – biztosítja egyes cégjegyzék adatok ingyenesen történő megismerését.
+15. § (1) A céginformációs szolgálat az erre a célra szolgáló honlapján, azonosítást követően, jogszabályban meghatározottak szerint ingyenes céginformációt biztosít. Ingyenes céginformációként ismerhető meg a cég neve, székhelye, cégjegyzékszáma, esetleges európai egyedi azonosítója (a továbbiakban: EUID), főtevékenysége, képviseletére jogosult személyek adatai, továbbá arra vonatkozó adatok, hogy a cég végelszámolás, felszámolás, kényszertörlés alatt áll. A céginformációs szolgálat az azonosítással összefüggésben megismert személyes adatokat egy hónapig kezeli.
+
+(1a) A céginformációs szolgálat a céget a cég adataiban bekövetkezett változásról a cégnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségére megküldött, közokirati formában kiállított, elektronikus cégbizonyítvánnyal – ingyenesen – értesíti.
+
+(1b) A céginformációs szolgálat a cég részére a cég E-ügyintézési tv. szerinti hivatalos elérhetőségére minden hónapban – ingyenesen – közokirati formában kiállított, elektronikus cégkivonatot küld.
 
 (2) Az (1) bekezdésben nem említett céginformációért, valamint ha a kérelmező a céginformációt közokirat formájában kéri, a kérelmező a céginformációs szolgálat tevékenységének igénybevételéért – a szolgáltatás költségeivel összhangban álló – költségtérítést köteles fizetni.
 
