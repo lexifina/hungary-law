@@ -1,3 +1,3 @@
-## 13. §[^19]
+## 13. §[^7]
 
-[^19]: A 13. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^7]: A 13. § a 11/2019. (IX. 12.) MEKH rendelet 7. §-a alapján nem lép hatályba.

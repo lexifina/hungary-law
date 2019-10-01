@@ -1,3 +1,3 @@
-## 11. §[^17]
+## 11. §[^6]
 
-[^17]: A 11. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^6]: A 11. § a 11/2019. (IX. 12.) MEKH rendelet 7. §-a alapján nem lép hatályba.

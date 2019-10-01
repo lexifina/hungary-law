@@ -1,3 +1,3 @@
-## 5. §[^9]
+## 5. § Az R. 15. §-a a következő (4a) bekezdéssel egészül ki:
 
-[^9]: Az 5. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+## „(4a) A szállítási csatlakozási díjak meghatározásának módszertanát a referenciaár-módszertan tartalmazza.”

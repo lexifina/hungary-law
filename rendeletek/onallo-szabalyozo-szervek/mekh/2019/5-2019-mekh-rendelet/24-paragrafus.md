@@ -1,3 +1,1 @@
-## 23. §[^34]
-
-[^34]: A 23. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+## 23. § Az R3. 4. § (3) bekezdésében a „GET” szövegrész helyébe az „a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET)” szöveg lép.

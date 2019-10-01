@@ -1,3 +1,3 @@
-## 12. §[^18]
+## 12. § Az R2. 9. §-a a következő (5a) bekezdéssel egészül ki:
 
-[^18]: A 12. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+## „(5a) Napon belüli lekötés esetén, ha a földgázellátás a szállítási rendszerüzemeltetőnek felróható okból egy óránál hosszabb ideig szünetel, a szállítási kapacitásdíjat a kieső órákra nem kell megfizetni. Ez a rendelkezés nem vonatkozik az előre bejelentett és megadott időtartamú tervszerű karbantartás miatti kiesésre.”

@@ -1,3 +1,7 @@
-## 18. §[^29]
+## 18. § Az R2. 5. melléklete az 1. melléklet szerint módosul.
 
-[^29]: A 18. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+## 19. § Hatályát veszti az R2.
+
+a) 9. § (7) és (8) bekezdése,
+
+b) 15. §-ában az „és napon belüli” szövegrész.

@@ -1,23 +1,21 @@
-## 16. §[^22]
+## 16. §[^9]
 
 ## 17. § Az R2.
 
-a)[^23]
+a) 2. § (2) bekezdésében a „díjtételenként” szövegrész helyébe a „díjtételenként és díjelemenként” szöveg,
 
-b)[^24]
+b) 9. § (1) bekezdésében az „aal) és aam)” szövegrész helyébe az „aal), aam) és aca)” szöveg,
 
-c)[^25]
+c)[^10]
 
-d)[^26]
+d)[^11]
 
-e)[^27]
+e)[^12]
 
-f)[^28]
+f)[^13]
 
-[^22]: A 16. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^23]: A 17. § a) pontja a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^24]: A 17. § b) pontja a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^25]: A 17. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 17. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 17. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 17. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 16. § a 11/2019. (IX. 12.) MEKH rendelet 7. §-a alapján nem lép hatályba.
+[^10]: A 17. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 17. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 17. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 17. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

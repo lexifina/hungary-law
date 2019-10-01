@@ -1,3 +1,3 @@
-## 4. §[^8]
+## 4. § Az R. 14. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^8]: A 4. § a 25. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+## „(3a) A (2) bekezdés szerinti, nem szállítási szolgáltatások körébe tartozó szolgáltatások díját meghatározó módszertant a referenciaár-módszertan tartalmazza.”
