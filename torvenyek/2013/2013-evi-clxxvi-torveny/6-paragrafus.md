@@ -8,4 +8,4 @@
 
 (5) A jogutód jogi személyben tagként részt venni nem kívánó személyeket megillető vagyonhányadot a jogutód jogi személy nyilvántartásba vételét követő hatvan napon belül kell kiadni, kivéve, ha az érintettekkel kötött megállapodás eltérő időpontot jelöl meg.
 
-(6) A döntéshozó szerv a jogi személy átalakulásáról véglegesen döntő ülésén meghatározhatja azt az időpontot, amikor az átalakuláshoz fűződő joghatások beállnak, amely azonban nem lehet korábbi, mint a jogutód nyilvántartásba vételének napja. A döntéshozó szerv továbbá dönt az átalakulásról és a jogutód jogi személy tagjai aláírják a jogutód létesítő okiratát.
+(6) A döntéshozó szerv a jogi személy átalakulásáról véglegesen döntő ülésén meghatározhatja azt az időpontot, amikor az átalakuláshoz fűződő joghatások beállnak, amely azonban nem lehet korábbi, mint a jogelőd cég törlésének napja. A döntéshozó szerv továbbá dönt az átalakulásról és a döntéshozó szerv felhatalmazása alapján az átalakuló jogi személy vezető tisztségviselője aláírja a jogutód létesítő okiratát.
