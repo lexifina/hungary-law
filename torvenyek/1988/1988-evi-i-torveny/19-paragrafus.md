@@ -12,7 +12,9 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 
 (1a) A közúti árutovábbítási, az autóbusszal díj ellenében végzett személyszállítási és a személygépkocsival díj ellenében végzett személyszállítási tevékenység (a továbbiakban együtt: közúti közlekedési szolgáltatás), valamint a gazdálkodó szervezet által végzett saját számlás áruszállítási és a saját számlás személyszállítási tevékenység, továbbá az e tevékenységekhez használt járművek üzemeltetése a Kormány rendeletében meghatározott feltételekkel végezhető.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4)
 
@@ -20,7 +22,11 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 
 (6) Közúti közlekedési szolgáltatást végző vállalkozás vezetője és szakmai irányítója csak olyan személy lehet, aki büntetlen előéletű.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)
 
 (10) A közlekedési hatóság az uniós jogi aktusban, az e törvényben, valamint e törvény alapján kiadott jogszabályban meghatározott engedélyhez, vagy meghatározott okmány meglétéhez kötött közúti közlekedési szolgáltatással, valamint saját számlás áru- és személyszállítással kapcsolatban az engedélyezési eljárás, a tevékenység ellenőrzése, az engedély felfüggesztése, vagy visszavonása, és az ezzel összefüggő szankciók megállapítása, az uniós jogi aktusban meghatározott járművezetői igazolvány kibocsátása, megtagadása és visszavonása során
 

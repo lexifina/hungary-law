@@ -88,7 +88,21 @@ a) a Kormány, hogy
 
 40. a közúti járművezetők pályaalkalmassági vizsgálatának szabályait, valamint a szakirányú továbbképzés és az utánképzés részletes szabályait,
 
-41. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását
+41. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását,
+
+42. elektromos töltőberendezés üzemeltetésének engedélyezésére és az elektromobilitás szolgáltatást érintő bejelentési kötelezettségre vonatkozó hatósági eljárás részletes szabályait,
+
+43. az elektromos töltőberendezés üzemeltetők és az elektromobilitás szolgáltatók tevékenységére, valamint az elektromobilitás felhasználók tájékoztatására vonatkozó részletes szabályokat,
+
+44. az alternatív üzemanyagok infrastruktúrájának kiépítésére vonatkozó, a nemzeti szakpolitikai keret végrehajtásáról szóló, az Európai Bizottság felé benyújtandó jelentés részét képező, az elektromos-töltőinfrastruktúra kiépítését szolgáló részletes intézkedéseket,
+
+45. az engedélyezési és bejelentési kötelezettség megszegéséért fizetendő bírság mértékét és a fizetési kötelezettség teljesítésének részletes szabályait,
+
+46. az elektromos töltőberendezés üzemeltető, az elektromobilitás szolgáltató és az elektromobilitás felhasználó közötti együttműködést biztosító jogviszony további részletes szabályait, valamint az együttműködéshez szükséges műszaki feltételeket,
+
+47. az elektromos meghajtású jármű töltésére vonatkozó mérési és mennyiségi, energiahatékonysági eredmények kimutatására alkalmas adatok kezelésének és továbbításának részletes feltételeit,
+
+48. az elektromobilitás szolgáltatást érintő bejelentési kötelezettség alapján eljáró és az elektromos töltőberendezés üzemeltetésének engedélyezését végző Hivatal feladat- és hatáskörét
 
 b) a miniszter, hogy
 
@@ -220,7 +234,7 @@ g) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
 5. a 33/A. § szerinti időtartamot,
 
-h)
+h) az iparügyekért felelős miniszter, hogy az elektromos töltőberendezésekre vonatkozó műszaki-biztonsági követelményeket
 
 i) a közlekedésrendészetért felelős miniszter, hogy a megkülönböztető és figyelmezető jelzés felszerelésének, engedélyezésének szabályait, használatuk és visszavonásuk rendjét,
 

@@ -38,4 +38,6 @@ g) – az e törvény végrehajtására a 48. § (3) bekezdés b) pont 49. alpon
 
 h) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 17. cikke;
 
-i) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének és 10. cikkének.
+i) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv,
+
+j) az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelv.

@@ -2,7 +2,11 @@
 
 (2) A járművek megfelelőségét időszakos vizsgálaton a közlekedési hatóság ellenőrzi.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 (6) Ha a jármű az (1) bekezdésben említett követelményeknek nem felel meg, az időszakos vizsgálatot végző közlekedési hatóság a jármű forgalomban tartását megtiltja és erről informatikai rendszere útján – gépjármű, mezőgazdasági vontató, lassú jármű és ezek pótkocsija esetén – a közlekedési igazgatási hatóságot értesíti.
 
