@@ -1,3 +1,3 @@
-## 16. §[^7]
+## 16. §[^6]
 
-[^7]: A 16. § a 46. § (3) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
+[^6]: A 16. § a 46. § (3) bekezdése alapján 2020. szeptember 1-jén lép hatályba.

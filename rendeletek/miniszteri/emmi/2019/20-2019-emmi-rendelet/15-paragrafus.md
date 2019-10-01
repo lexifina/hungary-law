@@ -1,3 +1,3 @@
-## 14. §[^5]
+## 14. §[^4]
 
-[^5]: A 14. § a 46. § (4) bekezdése alapján 2021. január 1-jén lép hatályba.
+[^4]: A 14. § a 46. § (4) bekezdése alapján 2021. január 1-jén lép hatályba.
