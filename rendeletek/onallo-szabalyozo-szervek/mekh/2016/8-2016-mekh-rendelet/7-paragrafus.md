@@ -2,4 +2,6 @@
 
 a) a földgázelosztónak az átszállítási tevékenység ellátása során felmerülő indokolt működési költségére és
 
-b) az átszállítási tevékenység ellátása során használt elosztóhálózat elszámolási különbözetére.
+b)[^4] az átszállítási tevékenység ellátása során használt elosztóhálózat árszabályozás szerint indokolt elszámolási különbözetére.
+
+[^4]: A 7. § b) pontja az 5/2019. (V. 31.) MEKH rendelet 8. § b) pontja szerint módosított szöveg.

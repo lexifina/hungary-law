@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-5Z
 | 2018-08-16 | 2016-8-20-5Z.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-08-17 | 2016-8-20-5Z.8 | 2010: CXXX. törvény |
 | 2019-06-15 | 2016-8-20-5Z.9 | 5/2019. (V. 31.) MEKH rendelet |
+| 2019-10-01 | 2016-8-20-5Z.10 | 5/2019. (V. 31.) MEKH rendelet |
