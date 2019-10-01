@@ -2,9 +2,10 @@
 
 ## 15. § Hatályát veszti a Korm. rendelet
 
-a)–b)[^13]
+a) 11. § (2) bekezdése,
 
-c)[^14]
+b) 14. § (5) bekezdése,
 
-[^13]: A 15. § a)–b) pontja a 16. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^14]: A 15. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+c)[^7]
+
+[^7]: A 15. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

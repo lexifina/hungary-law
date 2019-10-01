@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 16. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+## „42. megtartott munkahelyek száma: a beruházó a beruházás megkezdését megelőző, a munka törvénykönyvéről szóló törvény hatálya alá tartozó, 12 hónap átlagos statisztikai állományi létszáma, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést, úgy az a létszám, azzal, hogy mindkét esetben a munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;”

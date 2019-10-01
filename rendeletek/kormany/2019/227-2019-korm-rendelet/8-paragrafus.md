@@ -1,0 +1,1 @@
+## „(3) Az (1) bekezdés f) pontja szerinti átlagos statisztikai állományi létszámába és az újonnan létesített munkahelyek számába csak azon munkavállalók számítanak bele, akikkel a beruházó a munka törvénykönyvéről szóló törvény szerinti munkaviszonyt létesített vagy létesít.”

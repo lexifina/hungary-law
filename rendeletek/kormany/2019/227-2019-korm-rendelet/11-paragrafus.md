@@ -1,12 +1,12 @@
-## 4–10. §[^3]
+## „(6) A beruházó legkésőbb a 22. § (4) bekezdésében szabályozott helyszíni vizsgálat előtt köteles a lebonyolító szerv részére benyújtani a beruházáshoz kapcsolódó üzleti tervet, azzal, hogy a lebonyolító szerv az üzleti terv benyújtását és annak független szakértő által történő felülvizsgálatát a 22. § (2) bekezdése szerinti feltételes támogatási ajánlat kiadásának feltételéhez is kötheti.”
 
-11. § (1)[^4]
+11. § (1)[^2]
 
-(2)[^5]
+(2) A Korm. rendelet 22. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-(3)[^6]
+## „(2) A lebonyolító szerv a támogatási kérelem, az üzleti terv, valamint az ahhoz kapcsolódó esetleges szakértői vélemény szakmai elbírálását követően a támogató megbízásából a támogatóval egyeztetett feltételes támogatási ajánlatot tesz a beruházónak. A feltételes támogatási ajánlat nem minősül kötelezettségvállalásnak.”
 
-[^3]: A 4–10. § a 16. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^4]: A 11. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 11. § (2) bekezdése a 16. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^6]: A 11. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(3)[^3]
+
+[^2]: A 11. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

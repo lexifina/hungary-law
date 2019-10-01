@@ -1,0 +1,1 @@
+## „j) a beruházással létrehozott újonnan létesített munkahelyek, valamint az újonnan létesített kutatás-fejlesztési munkahelyek száma és azok fenntartására vállalt időtartam, amennyiben ezek fenntartására kötelezettséget kell vállalnia a beruházónak.”
