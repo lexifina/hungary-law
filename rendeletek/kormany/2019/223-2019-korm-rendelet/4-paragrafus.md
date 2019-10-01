@@ -1,3 +1,5 @@
-## 3. § A felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelet 2. § (6) bekezdésében az „az államtudományi képzési terület alap- és mesterképzési szakjainak meghatározásáról és azok képzési és kimeneti követelményeiről, valamint az azzal összefüggő kormányrendeletek módosításáról szóló 282/2016. (IX. 21.) Korm. rendelet” szövegrész helyébe az „az államtudományi képzési területen szerezhető képesítések jegyzékéről és a képzések képzési és kimeneti követelményeiről szóló kormányrendelet” szöveg lép.
+## 1–3. §[^2]
 
 4. § Ez a rendelet 2019. szeptember 30-án lép hatályba.
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
