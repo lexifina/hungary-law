@@ -322,6 +322,6 @@
 
 | 7 | Z07 | Természetes személyek anonimizált jövedelmi és munkatörténet adatai | MÁK | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet a 38/2018. (XI. 14.) MNB rendelethez[^3]
+2. melléklet a 38/2018. (XI. 14.) MNB rendelethez[^4]
 
-[^3]: A 2. melléklet a 15/2019. (IV. 17.) MNB rendelet 2. § (2) bekezdése, 2. § (3) bekezdés e)–g) pontja, a 22/2019. (V. 28.) MNB rendelet 3. § (1) bekezdése és (3) bekezdés a) pontja szerint módosított szöveg. [A 2. mellékletnek a 22/2019. (V. 28.) MNB rendelet 5. melléklet 2. pont c) alpontjával elrendelt módosítása nem vezethető át.]
+[^4]: A 2. melléklet a 15/2019. (IV. 17.) MNB rendelet 2. § (2) bekezdése, 2. § (3) bekezdés e)–g) pontja, a 22/2019. (V. 28.) MNB rendelet 3. § (1) bekezdése és (3) bekezdés a) pontja szerint módosított szöveg. [A 2. mellékletnek a 22/2019. (V. 28.) MNB rendelet 5. melléklet 2. pont c) alpontjával elrendelt módosítása nem vezethető át.]

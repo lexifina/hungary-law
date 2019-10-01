@@ -1,6 +1,6 @@
-## 20182C20000038_7
+## 20182C20000038_8
 
-3. melléklet a 38/2018. (XI. 14.) MNB rendelethez[^4]
+3. melléklet a 38/2018. (XI. 14.) MNB rendelethez[^5]
 
 Az információk szolgáltatásához szükséges technikai segédletek
 
@@ -64,4 +64,4 @@ Az információk szolgáltatásához szükséges technikai segédletek
 
 14. A D24 és a D25 MNB azonosító kódú adatszolgáltatás összeállításához a BIS által kiadott tájékoztató anyagok és módszertani segédletek
 
-[^4]: A 3. melléklet a 22/2019. (V. 28.) MNB rendelet 3. § (2) bekezdés b) pontja és (3) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 3. melléklet a 22/2019. (V. 28.) MNB rendelet 3. § (2) bekezdése b) pontja és (3) bekezdés b) pontja szerint módosított szöveg.
