@@ -1,6 +1,6 @@
-## 180. §[^543] A gyermekotthonban a Módr1. hatálybalépésekor gyógypedagógus munkakörben foglalkoztatott személyt foglalkoztatásának időtartama alatt szakképzettnek kell tekinteni, ha végzettsége a Módr1. hatálybalépését[^544] megelőző napon hatályos 2. számú melléklet II. Rész „II. Szakellátások” cím 2. pontjában a gyógypedagógus munkakörre előírt képesítési előírásoknak megfelel.
+## 180. §[^542] A gyermekotthonban a Módr1. hatálybalépésekor gyógypedagógus munkakörben foglalkoztatott személyt foglalkoztatásának időtartama alatt szakképzettnek kell tekinteni, ha végzettsége a Módr1. hatálybalépését[^543] megelőző napon hatályos 2. számú melléklet II. Rész „II. Szakellátások” cím 2. pontjában a gyógypedagógus munkakörre előírt képesítési előírásoknak megfelel.
 
-1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^545]
+1. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^544]
 
 A gyermekjóléti és gyermekvédelmi személyes gondoskodás formáinak szakmai létszám irányszámai és létszámminimum normái
 
@@ -120,6 +120,6 @@ I. Alapellátások
 
 II. Szakellátások
 
-[^543]: A 180. §-t a 4/2019. (II. 27.) EMMI rendelet 7. §-a iktatta be.
-[^544]: A hatálybalépés időpontja 2019. február 28.
-[^545]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (1) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (2) bekezdés a) pontja, az 1/2017. (II. 14.) EMMI rendelet 23. § (1) bekezdés a) pontja, a 19/2017. (IX. 18.) EMMI rendelet 6. § g) pontja, a 2/2018. (I. 18.) EMMI rendelet 29. § (1)–(2) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^542]: A 180. §-t a 4/2019. (II. 27.) EMMI rendelet 7. §-a iktatta be.
+[^543]: A hatálybalépés időpontja 2019. február 28.
+[^544]: Az 1. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 31/2009. (XII. 22.) SZMM rendelet 18. § (1) bekezdése, a 28/2010. (XII. 30.) NEFMI rendelet 26. § (1) bekezdés a) pontja, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (1) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (1) és (3) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 16. §-a és 17. § (1) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (1) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (1) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (1) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (1) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (2) bekezdés a) pontja, az 1/2017. (II. 14.) EMMI rendelet 23. § (1) bekezdés a) pontja, a 19/2017. (IX. 18.) EMMI rendelet 6. § g) pontja, a 2/2018. (I. 18.) EMMI rendelet 29. § (1)–(2) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (1) bekezdése szerint módosított szöveg.

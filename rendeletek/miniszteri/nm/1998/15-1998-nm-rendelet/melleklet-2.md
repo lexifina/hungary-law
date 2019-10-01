@@ -92,6 +92,6 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^546]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^545]
 
-[^546]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^545]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése szerint módosított szöveg.

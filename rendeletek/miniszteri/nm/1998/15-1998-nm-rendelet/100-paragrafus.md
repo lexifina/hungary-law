@@ -12,15 +12,15 @@ c) a gondozott gyermek nevelési-oktatási intézményének rendszeres, szüksé
 
 d) tanácsadás keretében a nevelőszülő segítése a gondozott gyermekkel kapcsolatos problémák megoldásában, szükség esetén a nevelőszülő, illetve a gyermek megfelelő szakemberhez történő irányítása, továbbá a szükséges ellátáshoz való hozzájutásuk elősegítése,
 
-e)[^241] ellenőrzés keretében annak vizsgálata, hogy a nevelőszülő megtesz-e mindent a gondozott gyermek harmonikus fejlődése érdekében, továbbá, hogy a gyermek ellátására kapott nevelési díjat, ellátmányt, illetve családi pótlékot a gyermekre fordítja-e,
+e)[^240] ellenőrzés keretében annak vizsgálata, hogy a nevelőszülő megtesz-e mindent a gondozott gyermek harmonikus fejlődése érdekében, továbbá, hogy a gyermek ellátására kapott nevelési díjat, ellátmányt, illetve családi pótlékot a gyermekre fordítja-e,
 
-f)[^242] a fiatal felnőtt, az utógondozói ellátásban részesülő fiatal felnőtt utógondozása.
+f)[^241] a fiatal felnőtt, az utógondozói ellátásban részesülő fiatal felnőtt utógondozása.
 
-(3)[^243] A nevelőszülői tanácsadó haladéktalanul tájékoztatja a működtetőt, ha a nevelőszülő tevékenységének ellenőrzése során a Gyvt. 66/D. § (8) bekezdésében foglaltakat tapasztalja.
+(3)[^242] A nevelőszülői tanácsadó haladéktalanul tájékoztatja a működtetőt, ha a nevelőszülő tevékenységének ellenőrzése során a Gyvt. 66/D. § (8) bekezdésében foglaltakat tapasztalja.
 
-(4)[^244] A nevelőszülői hálózatot működtető gyermekfelügyelet vagy helyettesítés megszervezésével biztosítja a nevelőszülő számára a továbbképzésen való részvétel lehetőségét.
+(4)[^243] A nevelőszülői hálózatot működtető gyermekfelügyelet vagy helyettesítés megszervezésével biztosítja a nevelőszülő számára a továbbképzésen való részvétel lehetőségét.
 
-[^241]: A 100. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 59. §-ával megállapított szöveg.
-[^242]: A 100. § (2) bekezdés f) pontja a 26/2013. (III. 29.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^243]: A 100. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^244]: A 100. § (4) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^240]: A 100. § (2) bekezdésének e) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 59. §-ával megállapított szöveg.
+[^241]: A 100. § (2) bekezdés f) pontja a 26/2013. (III. 29.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^242]: A 100. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^243]: A 100. § (4) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 9. §-ával megállapított szöveg.
