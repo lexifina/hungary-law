@@ -1,6 +1,6 @@
-18. § (1)[^80] A 9. § (1) bekezdés a)–c) és g)–h) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
+18. § (1)[^81] A 9. § (1) bekezdés a)–c) és g)–h) pontjában meghatározott támogatási célok alá tartozó beruházás esetében az Sztv. 47–51. §-ában meghatározott, a 17. § (2) bekezdés a) pontja szerinti költségek számolhatók el a (2) bekezdésben meghatározott kivételekkel.
 
-(2)[^81] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók a bekerülési értékbe:
+(2)[^82] Nem elszámolható költségek befektetetteszköz-alapú ráfordítások esetén, függetlenül attól, hogy azok az Sztv. alapján beszámíthatók a bekerülési értékbe:
 
 1. a beruházó saját maga által előállított, forgalmazott eszköz, szoftver, saját maga által nyújtott szolgáltatás, saját maga által forgalmazott rendszer bevezetésének költségei [Sztv. 50. § (5) bekezdése], kivéve, ha ilyen eszköz előállítására kizárólag a beruházó képes, és az eszköz elszámolása során olyan értéket alkalmaz, amely megfelel annak a piaci vételárnak, amelyet független harmadik felek egymás között alkalmaznának,
 
@@ -70,7 +70,9 @@
 
 34. külföldi székhelyű vállalkozás vagy annak külföldi fióktelepe által a magyarországi fióktelep részére átadott eszközök értéke [Sztv. 50. § (8) bekezdése],
 
-35. az olyan bankszámláról kifizetett, beruházással kapcsolatos költségek, amelyet a beruházó a kifizetést megelőzően nem jelentett be a lebonyolító szerv részére.
+35. az olyan bankszámláról kifizetett, beruházással kapcsolatos költségek, amelyet a beruházó a kifizetést megelőzően nem jelentett be a lebonyolító szerv részére,
+
+36.[^83] ingatlan esetében a vételár és a független ingatlanforgalmi értékbecsléssel megállapított piaci érték különbsége.
 
 (3) A földterület, a telek, az épületek és az egyéb eszközök lízingbe vételével kapcsolatos költségek abban az esetben számolhatóak el, ha a lízingügylet zártvégű pénzügyi lízing formájában valósul meg, és a lízingszerződés tartalmazza az eszköznek a lízing időtartam lejárta utáni megvásárlására vonatkozó kötelezettségét, amely határidő azonban nem lehet későbbi, mint a beruházás befejezésének dátuma.
 
@@ -78,7 +80,7 @@
 
 a) a bérleti szerződés határozatlan idejű vagy
 
-b)[^82] határozott idejű szerződés esetén annak időtartama a kötelező üzemeltetési időszakot lefedi.
+b)[^84] határozott idejű szerződés esetén annak időtartama a kötelező üzemeltetési időszakot lefedi.
 
 (5) Az immateriális javaknak az alábbi feltételeknek kell megfelelniük:
 
@@ -92,15 +94,15 @@ d) a nagyvállalkozások részére nyújtott támogatás esetén legalább 5 év
 
 e) nagyvállalkozások esetén az immateriális javak az elszámolható költségek maximum 50%-át tehetik ki.
 
-(6)[^83] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
+(6)[^85] A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
 a) a beruházó a támogatásban részesült telephelyen működő vállalkozásnál a beruházóval kötött beszállítói szerződés birtokában használhatja fel,
 
 b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet,
 
-c)[^84] az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
+c)[^86] az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-(7)[^85] A megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek a 2. § (1) bekezdés a) és c) pontja szerinti támogatás esetén, amennyiben az alábbi feltételek együttesen teljesülnek:
+(7)[^87] A megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek a 2. § (1) bekezdés a) és c) pontja szerinti támogatás esetén, amennyiben az alábbi feltételek együttesen teljesülnek:
 
 a) a beruházás elsődleges célja nem az energiatermelés,
 
@@ -108,9 +110,10 @@ b) az energiatermeléshez kapcsolódó eszközök költsége a beruházás össz
 
 c) a beruházó előzetes elemzés bemutatásával hitelesen igazolja, hogy az energiatermelési kapacitás nem haladja meg a beruházás működtetéséhez szükséges mennyiséget, valamint az előzetes elemzésből hitelt érdemlően kitűnik, hogy a megtermelt energia legfeljebb 20%-át értékesítik.
 
-[^80]: A 18. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^81]: A 18. § (2) bekezdése a 36/2019. (III. 5.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^82]: A 18. § (4) bekezdés b) pontja a 36/2019. (III. 5.) Korm. rendelet e) pontja szerint módosított szöveg.
-[^83]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^84]: A 18. § (6) bekezdés c) pontját a 346/2017. (XI. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 36/2019. (III. 5.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^85]: A 18. § (7) bekezdését újonnan a 36/2019. (III. 5.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^81]: A 18. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^82]: A 18. § (2) bekezdése a 36/2019. (III. 5.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^83]: A 18. § (2) bekezdés 36. pontját a 227/2019. (IX. 26.) Korm. rendelet 9. §-a iktatta be.
+[^84]: A 18. § (4) bekezdés b) pontja a 36/2019. (III. 5.) Korm. rendelet e) pontja szerint módosított szöveg.
+[^85]: A 18. § (6) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^86]: A 18. § (6) bekezdés c) pontját a 346/2017. (XI. 20.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 36/2019. (III. 5.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^87]: A 18. § (7) bekezdését újonnan a 36/2019. (III. 5.) Korm. rendelet 9. § (3) bekezdése iktatta be.
