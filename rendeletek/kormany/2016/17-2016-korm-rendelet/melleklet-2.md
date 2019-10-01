@@ -12,6 +12,6 @@
 
 ## miatt megállapította, és az elkövető az igénylés időpontjában még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól.
 
-2. melléklet a 17/2016. (II. 10.) Korm. rendelethez[^172]
+2. melléklet a 17/2016. (II. 10.) Korm. rendelethez[^171]
 
-[^172]: A 2. mellékletet a 109/2019. (V. 13.) Korm. rendelet 5. §-a iktatta be.
+[^171]: A 2. mellékletet a 109/2019. (V. 13.) Korm. rendelet 5. §-a iktatta be.

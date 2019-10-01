@@ -1,4 +1,4 @@
-## 14a.[^161] Többgyermekes családok otthonteremtési kamattámogatása
+## 14a.[^157] Többgyermekes családok otthonteremtési kamattámogatása
 
 ## 51/A. § Ezen alcím alkalmazásában:
 
@@ -12,4 +12,4 @@ d) ügyleti kamat: a kamattámogatott kölcsön szerződésszerű törlesztése 
 
 e) nem támogatott személy hiteladós: a többgyermekes családok otthonteremtési kamattámogatásával érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Ptk. szerinti közeli hozzátartozója, és az 51/C. § szerinti feltételeket teljesíti.
 
-[^161]: A 14a. alcímet (51/A–51/I. §) a 46/2019. (III. 12.) Korm. rendelet – 109/2019. (V. 13.) Korm. rendelet 6. § b) pontja szerint módosított – 10. §-a iktatta be.
+[^157]: A 14a. alcímet (51/A–51/I. §) a 46/2019. (III. 12.) Korm. rendelet – 109/2019. (V. 13.) Korm. rendelet 6. § b) pontja szerint módosított – 10. §-a iktatta be.

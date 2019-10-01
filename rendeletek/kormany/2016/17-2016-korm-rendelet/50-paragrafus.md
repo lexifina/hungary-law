@@ -1,1 +1,0 @@
-## 49. § A hitelintézet évente, a tárgyévet követő év június 30. napjáig az 51. §-ban meghatározott módon, elektronikus úton, szerződésenként adatot szolgáltat a Kincstárnak a családi otthonteremtési kedvezmény központi költségvetés által megtérített összegéről.
