@@ -14,4 +14,6 @@ e) a külön díjas szolgáltatások elszámolásához kapcsolódó nyilvántart
 
 (2) A szolgáltatás díjának meghatározása során 2017. január 1-jétől csak a közbeszerzési jogszabályoknak, szabályzatoknak megfelelő árubeszerzés és szolgáltatás megrendelés keretében vásárolt áruk és igénybevett szolgáltatások elszámolása lehetséges.
 
-(3) A szolgáltatás díjának meghatározása során csak azon igénybevett szolgáltatások díjai számolhatóak el, amelyek megfelelnek a GET és a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet kiszervezésre vonatkozó szabályainak.
+(3)[^3] A szolgáltatás díjának meghatározása során csak azon igénybevett szolgáltatások díjai számolhatóak el, amelyek megfelelnek a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) és a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet kiszervezésre vonatkozó szabályainak.
+
+[^3]: A 4. § (3) bekezdése az 5/2019. (V. 31.) MEKH rendelet 23. §-a szerint módosított szöveg.
