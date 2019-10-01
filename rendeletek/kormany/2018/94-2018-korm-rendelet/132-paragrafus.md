@@ -10,8 +10,12 @@ c) a gyorsforgalmi utakra és az utakkal kapcsolatos szabályokra, a kombinált 
 
 d) a gépjármű-vezető képzésre,
 
-e) a közlekedési szakemberek képzésére, vizsgáztatására és utánképzésére, a nemzetközi közúti fuvarozást végző egyes járművek személyzetének vezetési és pihenőidejére, a közforgalmú személyszállítási utazási kedvezményekre
+e) a közlekedési szakemberek képzésére, vizsgáztatására és utánképzésére, a nemzetközi közúti fuvarozást végző egyes járművek személyzetének vezetési és pihenőidejére, a közforgalmú személyszállítási utazási kedvezményekre,
+
+f)[^43] a közlekedési ágazatba tartozó létfontosságú rendszerek és létesítmények azonosítására, kijelölésére és védelmére
 
 vonatkozó jogszabályokat.
 
 (2) A miniszter a közlekedésért való felelőssége keretében – a Budapestet és a Budapesti Agglomeráció Területrendezési Tervéről szóló törvény szerinti más Budapesti Agglomerációhoz tartozó településeket érintő állami közlekedési infrastruktúra fejlesztései kivételével – irányítja, szervezi, összehangolja a közlekedési hálózati infrastruktúra fejlesztését, és ellátja a helyközi közösségi közlekedés megrendelésével és finanszírozásával kapcsolatos feladatokat.
+
+[^43]: A 132. § (1) bekezdés f) pontját a 161/2019. (VII. 4.) Korm. rendelet 22. §-a iktatta be.
