@@ -64,65 +64,47 @@
 
 ## A felsőoktatási intézmény és a közösségi felsőoktatási képzési központ működése engedélyezésének, valamint maximális hallgatói létszáma meghatározásának szabályai[^216]
 
-1. A felsőoktatási intézmény működésének engedélyezésekor, illetve maximális hallgatói létszámának meghatározásakor a működési engedélyben szereplő maximális hallgatói létszámot a felsőoktatási intézmény képzési helyeiként, képzési nyelvenként, a teljes idejű, a részidős képzés és a távoktatás tekintetében elkülönítve, továbbá
-
-a) az alapképzés, mesterképzés, szakirányú továbbképzés, felsőoktatási szakképzés, valamint a kifutó egyetemi, főiskolai szintű képzés tekintetében képzési területenként,
-
-b)[^217] a doktori képzés tekintetében tudományterületenként
-
-c) a doktori képzés tekintetében tudományterületenként
-
-kell megállapítani.
+1.[^217] A felsőoktatási intézmény működésének engedélyezésekor, illetve maximális hallgatói létszámának meghatározásakor a működési engedélyben szereplő maximális hallgatói létszámot a felsőoktatási intézmény képzési helyeiként, a teljes idejű, a részidős képzés és a távoktatás tekintetében elkülönítve kell megállapítani.
 
 2. A maximális hallgatói létszám a magyar állami (rész)ösztöndíjas, államilag támogatott, önköltséges és költségtérítéses képzésekre együttesen vonatkozik.
 
 3. A maximális hallgatói létszámot a felsőoktatási intézmény kérelme alapján kell meghatározni, amelynek mértéke nem lehet magasabb az alapító okiratban meghatározott felvehető maximális hallgatói létszámnál.
 
-4. Nem határozható meg maximális hallgatói létszám, ha
+4.[^218] A kérelmezett maximális hallgatói létszám akkor állapítható meg, ha
 
-a)[^218] az oktató, kutató, tanári munkakörben alkalmazottak számát és a megtartandó órák számát figyelembe véve – tekintettel az alkalmazottak elhelyezésének lehetőségeire is – nem teljesíthető az Nftv. 26. §-ában és 34. §-ában előírt követelmény:
+a) az oktató, kutató és tanári munkakörben alkalmazottak számát figyelembe véve – tekintettel az alkalmazottak elhelyezésének lehetőségeire is – teljesül az Nftv. 26. §-ában és 34. §-ában előírt követelmény;
 
-b) az adott képzési helyen a hallgatók számára térítésmentesen igénybe vehető, hálózati kapcsolattal ellátott számítógépek száma nem éri el az adott képzési helyre megállapítani kért maximális hallgatói létszámnak a 7. pontban foglalt táblázat „B” oszlopában meghatározott arányát;
+b) az adott képzési helyen a rendelkezésre álló oktatásirányítási létszám (különösen a tanulmányi adminisztráció, életpálya és tanulmányi tanácsadás) – tekintettel az alkalmazottak elhelyezésének lehetőségeire is – eléri az adott képzési helyre megállapítani kért maximális hallgatói létszám 0,2%-át, de legalább 2 főt;
 
-c) az adott képzési helyen a hallgatók számára térítésmentesen rendelkezésre álló könyvtári infrastruktúra, illetve szolgáltatás keretében a könyvtári olvasóhelyek száma nem éri el az adott képzési helyre megállapítani kért maximális hallgatói létszámnak a 7. pontban foglalt táblázat „C” oszlopában meghatározott arányát;
+c) az adott képzési helyen a felsőoktatási intézmény rendelkezik a képzés lebonyolításához szükséges teremkapacitással, amelynek megállapítása során
 
-d) az adott képzési helyen a rendelkezésre álló oktatásirányítási létszám (különösen a tanulmányi adminisztráció, életpálya és tanulmányi tanácsadás) – tekintettel az alkalmazottak elhelyezésének lehetőségeire is – nem éri el az adott képzési helyre megállapítani kért maximális hallgatói létszám 0,2%-át, de legalább 2 főt;
+ca) csak az oktatás céljára szolgáló és legalább 8 éven keresztül az intézmény kezelésében (használatában, vagyonkezelésében, tulajdonában) lévő épületek vehetők figyelembe,
 
-e) az adott képzési helyen a felsőoktatási intézmény nem rendelkezik a képzés lebonyolításához szükséges teremkapacitással, amelynek megállapítása során
+cb) a képzésekhez egy tantermet hetente legfeljebb 60 órás időtartamra, ha a felsőoktatási intézményben a heti pihenőnapon is sor kerülhet képzésre, további 12 órás időtartamban lehet figyelembe venni azzal, hogy egy tantermet egy félévben legfeljebb 15 hét időtartamban lehet figyelembe venni,
 
-ea) csak az oktatás céljára szolgáló, használatbavételi engedéllyel rendelkező és legalább 8 éven keresztül az intézmény kezelésében (használatában, vagyonkezelésében, tulajdonában) lévő épületek vehetők figyelembe,
+cc) egy terem befogadóképessége legfeljebb annyi férőhely lehet, ahány m2 nagyságú a terem alapterülete, feltéve, hogy valamennyi férőhelyre asztal- (írótábla-) és székhasználat biztosított;
 
-eb) két tanóra megtartásához százperces időszakot kell figyelembe venni,
+d) a felsőoktatási intézmény által benyújtott kérelem szerint az egyes képzéseken teljesül az Nftv. 17. §-a szerinti előírás;
 
-ec) a képzésekhez egy tantermet hetente legfeljebb 60 órás időtartamra, ha a felsőoktatási intézményben a heti pihenőnapon is sor kerülhet képzésre, további 12 órás időtartamban lehet figyelembe venni azzal, hogy egy tantermet egy félévben legfeljebb 15 hét időtartamban lehet figyelembe venni,
+e) a felsőoktatási intézmény által benyújtott kérelem szerint az esti vagy levelező munkarend szerinti képzéseken teljesül az Nftv. 108. § 3., illetve 25. pontja szerinti előírás;
 
-ed) a foglalkozások teremszükségletét a következő kategóriákba kell besorolni: előadás, gyakorlat, laborgyakorlat, számítógépes gyakorlat, külső helyszíni gyakorlat,
+f) az adott képzési helyen a szakmai gyakorlat feltételei biztosítottak;
 
-ee) a termeket a következő kategóriákba kell besorolni: tanterem, labor, számítógépes labor, külső helyszíni gyakorlati hely,
+g) az adott képzési helyen biztosított a tanulmányi és életpálya-tanácsadás;
 
-ef)[^219] egy terem befogadóképessége legfeljebb annyi férőhely lehet, ahány m2 nagyságú a terem alapterülete, feltéve, hogy valamennyi férőhelyre asztal- (írótábla-) és székhasználat biztosított;
+h) az adott képzési helyen – egész tanévben való sportolást lehetővé tevő saját sportteremben vagy bérelt sportlétesítményben – biztosított a hallgatók legalább heti 2 óra időtartamú térítésmentes sportolásának lehetősége, kivéve, ha az adott képzési helyen nem kíván folytatni nappali vagy esti munkarend szerinti képzést;
 
-f) a felsőoktatási intézmény által benyújtott kérelem szerint az egyes képzéseken nem teljesül az Nftv. 17. §-a szerinti előírás;
+i) az adott képzési helyen kialakított tanulótereken az internetelérés biztosított;
 
-g) a felsőoktatási intézmény által benyújtott kérelem szerint az esti vagy levelező munkarend szerinti képzéseken nem teljesül az Nftv. 108. § 3. illetve 25. pontja szerinti előírás;
+j) az adott képzési helyen a tanulmányaikat nappali munkarenden folytató hallgatók 10%-a, de legalább 10 fő számára szálláslehetőség rendelkezésre áll saját kollégium révén vagy az adott képzési helyen működő más szálláshelynyújtóval kötött, a Hivatal által nyilvántartásba vett megállapodás által biztosítva, kivéve, ha az adott képzési helyen nem folytat nappali vagy esti munkarend szerinti képzést;
 
-h) a felsőoktatási intézmény nem tudja igazolni, hogy az adott képzési helyen képes a szakmai gyakorlat feltételeinek biztosítására;
-
-i) a felsőoktatási intézmény nem tudja igazolni, hogy az adott képzési helyen biztosított a tanulmányi és életpálya-, valamint az egészségügyi tanácsadás;
-
-j)[^220] a felsőoktatási intézmény nem tudja igazolni, hogy biztosított az adott képzési helyen – egész tanévben való sportolást lehetővé tevő saját sportteremben vagy bérelt sportlétesítményben – a hallgatók legalább heti 2 óra időtartamú térítésmentes sportolásának lehetősége, kivéve, ha az adott képzési helyen nem kíván folytatni nappali vagy esti munkarend szerinti képzést;
-
-k) a felsőoktatási intézmény nem tudja igazolni, hogy az adott képzési helyen kialakított tanulótereken az elérhető hálózati végpontok (vezeték nélküli kapcsolódási lehetőségek) száma eléri az adott képzési helyre megállapítani kért maximális hallgatói létszámnak a 7. pontban foglalt táblázat „B” oszlopában meghatározott arányának kétszeresét;
-
-l) a felsőoktatási intézmény nem tudja igazolni az adott képzési helyen a hallgatók számára szálláslehetőség rendelkezésre állását az intézmény által vagy az adott képzési helyen működő más szállásnyújtó által biztosítva, kivéve, ha az adott képzési helyen nem kíván folytatni nappali vagy esti munkarend szerinti képzést;
-
-m) a felsőoktatási intézmény nem tudja igazolni az adott képzési helyen a hallgatók és az alkalmazottak számára melegétkezési lehetőség rendelkezésre állását az intézmény által vagy az adott képzési helyen az intézmény közvetlen környezetében működő más szolgáltató által biztosítva.
+k) az adott képzési helyen a hallgatók számára térítésmentesen rendelkezésre álló könyvtári infrastruktúra, illetve szolgáltatás keretében a könyvtári olvasóhelyek és számítógépes munkaállomások száma eléri az adott képzési helyre megállapítani kért maximális hallgatói létszám 4%-át.
 
 5. Közös képzés esetében a hallgatókat minden intézményben teljes mértékben figyelembe kell venni, azonban a tanórák közül csak az adott intézmény által oktatott tanórákat kell megfelelő számban biztosítani.
 
 6. A hitéleti képzési terület és hittudomány tudományterület tekintetében meghatározandó maximális hallgatói létszám esetében az e mellékletben foglaltakat azzal az eltéréssel kell alkalmazni, hogy az eljárás során – az Nftv. 91. § (6) és (7) bekezdésével összhangban – kizárólag azt kell vizsgálni, hogy biztosítottak-e a hitéleti képzés tárgyi, infrastrukturális és az oktatásirányítási létszámmal kapcsolatos feltételei.
 
-7.[^221] A 4. pont b), c) és k) alpontja szerinti, térítésmentesen igénybe vehető számítógépek és könyvtári olvasóhelyek, valamint hálózati végpontok aránya a maximális hallgatói létszámhoz képest:
+7.[^219] A 4. pont b), c) és k) alpontja szerinti, térítésmentesen igénybe vehető számítógépek és könyvtári olvasóhelyek, valamint hálózati végpontok aránya a maximális hallgatói létszámhoz képest:
 
 |  | A | B | C |
 
@@ -172,11 +154,11 @@ m) a felsőoktatási intézmény nem tudja igazolni az adott képzési helyen a 
 
 | 23. | természettudományok tudományterület | 5% | 2% |
 
-8.[^222] Ha az adott képzési helyen a felsőoktatási intézmény egyedül szakirányú továbbképzést kíván folytatni, akkor kizárólag az 1–3. pont, a 4. pont a), cb)–cc) és d)–f) alpontja, továbbá az 5. és 6. pont alkalmazandó azzal, hogy az oktatáshoz szükséges infrastruktúrát, a könyvtári szakirodalom és az információs szolgáltatások, valamint informatikai hálózat hozzáférhetőségét, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
+8.[^220] Ha az adott képzési helyen a felsőoktatási intézmény egyedül szakirányú továbbképzést kíván folytatni, akkor kizárólag az 1–3. pont, a 4. pont a), cb)–cc) és d)–f) alpontja, továbbá az 5. és 6. pont alkalmazandó azzal, hogy az oktatáshoz szükséges infrastruktúrát, a könyvtári szakirodalom és az információs szolgáltatások, valamint informatikai hálózat hozzáférhetőségét, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
 
-9.[^223] Külföldi székhelyen kívüli képzési helyen folytatni kívánt képzés esetén kizárólag az 1–3. pont, a 4. pont a), b), cb)–cc), d–f), i) és k) alpontja, továbbá az 5–6 pontok alkalmazandók azzal, hogy az oktatás céljára szolgáló – az intézmény tulajdonában vagy legalább 8 éves időtartamra a használatában lévő – ingatlant, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
+9.[^221] Külföldi székhelyen kívüli képzési helyen folytatni kívánt képzés esetén kizárólag az 1–3. pont, a 4. pont a), b), cb)–cc), d–f), i) és k) alpontja, továbbá az 5–6 pontok alkalmazandók azzal, hogy az oktatás céljára szolgáló – az intézmény tulajdonában vagy legalább 8 éves időtartamra a használatában lévő – ingatlant, továbbá a képzéssel kapcsolatos adminisztrációs feladatok ellátását a képzési helyen biztosítani kell.
 
-10.[^224] Közösségi felsőoktatási képzési központ tekintetében – figyelemmel a 6. és a 8. pontban foglaltakra is –
+10.[^222] Közösségi felsőoktatási képzési központ tekintetében – figyelemmel a 6. és a 8. pontban foglaltakra is –
 
 a) a 3. pont alkalmazása során kérelem alatt az Nftv. 108. § 23a. pontjában meghatározott szervezet és a vele együttműködő felsőoktatási intézmény együttesen benyújtott kérelmét, alapító okirat alatt ezen együttműködő felsőoktatási intézmény alapító okiratát kell érteni,
 
@@ -192,11 +174,9 @@ b) az 1. és a 4. pont alkalmazása során, ahol a jogszabály felsőoktatási i
 [^214]: Az 1. melléklet 7. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (1) bekezdése iktatta be.
 [^215]: Az 1. melléklet 7. pont a) alpontjában a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés l) pontja szerint módosított szöveg.
 [^216]: A 2. melléklet címe a 345/2015. (XI. 19.) Korm. rendelet 89. § 13. pontja szerint módosított szöveg.
-[^217]: A 2. melléklet 1. pont b) alpontját a 169/2016. (VII. 1.) Korm. rendelet 38. § e) pontja hatályon kívül helyezte, újonnan a 442/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdése iktatta be.
-[^218]: A 2. melléklet 4. pont a) alpontja a 442/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^219]: A 2. melléklet 4. pont e) pont ef) alpontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdésével megállapított szöveg.
-[^220]: A 2. melléklet 4. pont j) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 14. pontja szerint módosított szöveg.
-[^221]: A 2. melléklet 7. pontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése, a 169/2016. (VII. 1.) Korm. rendelet 36. § (1) bekezdése szerint módosított szöveg.
-[^222]: A 2. melléklet 8. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^223]: A 2. melléklet 9. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^224]: A 2. melléklet 10. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése iktatta be.
+[^217]: A 2. melléklet 1. pontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^218]: A 2. melléklet 4. pontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^219]: A 2. melléklet 7. pontja a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése, a 169/2016. (VII. 1.) Korm. rendelet 36. § (1) bekezdése szerint módosított szöveg.
+[^220]: A 2. melléklet 8. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^221]: A 2. melléklet 9. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^222]: A 2. melléklet 10. pontját a 345/2015. (XI. 19.) Korm. rendelet 88. § (2) bekezdése iktatta be.

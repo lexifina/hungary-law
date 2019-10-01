@@ -12,7 +12,7 @@ c) férőhelyenként 1-1 db paplan, párna;
 
 d) az országos településrendezési és építési követelményekről szóló kormányrendelet (a továbbiakban: OTÉK) előírásai szerint fürdőhelyiség, illemhely;
 
-e)[^225] a legalább 100 férőhelyes diákotthon, kollégium esetében az OTÉK előírásai szerint akadálymentesített bejárat és akadálymentes közlekedés, továbbá az OTÉK szerinti felvonó, korlátlift vagy emelőlap, valamint 100 férőhelyenként 1 db akadálymentesített férőhely, valamint akadálymentesített fürdőhelyiség és illemhely;
+e)[^223] a legalább 100 férőhelyes diákotthon, kollégium esetében az OTÉK előírásai szerint akadálymentesített bejárat és akadálymentes közlekedés, továbbá az OTÉK szerinti felvonó, korlátlift vagy emelőlap, valamint 100 férőhelyenként 1 db akadálymentesített férőhely, valamint akadálymentesített fürdőhelyiség és illemhely;
 
 f) főzési és ételmelegítési lehetőség biztosítása: legalább 25 férőhelyenként 1 db 1000 watt teljesítményű, vagy azzal egyenértékű gáz főzőlap;
 
@@ -90,4 +90,4 @@ f) maximális férőhelyszámát;
 
 g) rendelkezésére bocsátott ingatlanvagyont, a vagyon feletti rendelkezés jogát.
 
-[^225]: A 3. melléklet 1. pont e) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 15. pontja szerint módosított szöveg.
+[^223]: A 3. melléklet 1. pont e) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 15. pontja szerint módosított szöveg.
