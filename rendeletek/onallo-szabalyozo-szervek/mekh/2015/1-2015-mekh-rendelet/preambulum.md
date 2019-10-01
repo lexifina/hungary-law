@@ -1,1 +1,0 @@
-A földgázellátásról szóló 2008. évi XL. törvény 133/A. § 4. pontjában kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § b) pontjában, illetve a földgázellátásról szóló 2008. évi XL. törvény 127. § gy) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
