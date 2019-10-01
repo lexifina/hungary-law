@@ -1,10 +1,10 @@
-## 13. §[^95] E rendeletnek az otthonteremtéssel összefüggő egyes kormányrendeletek módosításáról szóló 379/2012. (XII. 19.) Korm. rendelet (a továbbiakban: Módr.)
+## 13. §[^101] E rendeletnek az otthonteremtéssel összefüggő egyes kormányrendeletek módosításáról szóló 379/2012. (XII. 19.) Korm. rendelet (a továbbiakban: Módr.)
 
-a)[^96] 13. §-ával megállapított 1. § (2) bekezdés 11. pont c) alpontját, 12. és 19. pontját, 14. § (2) bekezdésével megállapított 2. § (7) bekezdését, 17. § a) pontjával megállapított 2. § (8) és (9) bekezdését, valamint 17. § c) pontjával megállapított 6. § (3) bekezdését – a Kincstár által véglegesen vagy a bíróság által jogerősen elbírált esetek kivételével – a Módr. hatálybalépését[^97] megelőzően benyújtott kérelmekre is alkalmazni kell,
+a)[^102] 13. §-ával megállapított 1. § (2) bekezdés 11. pont c) alpontját, 12. és 19. pontját, 14. § (2) bekezdésével megállapított 2. § (7) bekezdését, 17. § a) pontjával megállapított 2. § (8) és (9) bekezdését, valamint 17. § c) pontjával megállapított 6. § (3) bekezdését – a Kincstár által véglegesen vagy a bíróság által jogerősen elbírált esetek kivételével – a Módr. hatálybalépését[^103] megelőzően benyújtott kérelmekre is alkalmazni kell,
 
-b) 14. §-ával megállapított 2. § (2) és (7a) bekezdését valamint 17. § b) pontjával megállapított 2. § (10) bekezdését a Módr. hatálybalépését[^98] követően benyújtott kérelmekre kell alkalmazni.
+b) 14. §-ával megállapított 2. § (2) és (7a) bekezdését valamint 17. § b) pontjával megállapított 2. § (10) bekezdését a Módr. hatálybalépését[^104] követően benyújtott kérelmekre kell alkalmazni.
 
-[^95]: A 13. §-t a 379/2012. (XII. 19.) Korm. rendelet 16. §-a iktatta be.
-[^96]: A 13. § a) pontja a 457/2017. (XII. 28.) Korm. rendelet 250. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^97]: A hatálybalépés időpontja 2013. január 1.
-[^98]: A hatálybalépés időpontja 2013. január 1.
+[^101]: A 13. §-t a 379/2012. (XII. 19.) Korm. rendelet 16. §-a iktatta be.
+[^102]: A 13. § a) pontja a 457/2017. (XII. 28.) Korm. rendelet 250. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^103]: A hatálybalépés időpontja 2013. január 1.
+[^104]: A hatálybalépés időpontja 2013. január 1.
