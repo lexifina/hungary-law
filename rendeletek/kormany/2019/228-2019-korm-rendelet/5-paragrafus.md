@@ -1,1 +1,3 @@
-## 4. § A Korm. rendelet 18. § (1) és (2) bekezdésében a „2019. október 1-jéig” szövegrész helyébe a „2021. július 1-jéig” szöveg lép.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
