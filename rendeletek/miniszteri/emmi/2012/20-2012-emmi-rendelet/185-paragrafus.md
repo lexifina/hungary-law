@@ -1,3 +1,5 @@
+## 184/L. § A tankönyvvé nyilvánítási eljárás keretében kirendelt szakértő díjazását a 8. melléklet tartalmazza.
+
 ## XXI. Fejezet
 
 ## NEMZETKÖZI VONATKOZÁSÚ ÉS VEGYES RENDELKEZÉSEK

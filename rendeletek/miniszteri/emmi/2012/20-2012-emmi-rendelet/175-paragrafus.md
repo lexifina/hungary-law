@@ -1,10 +1,10 @@
-## 70. [^360] Az Arany János Kollégiumi-Szakközépiskolai Program
+## 70. [^361] Az Arany János Kollégiumi-Szakközépiskolai Program
 
-175. § (1)[^361] Az Arany János Kollégiumi-Szakközépiskolai Programban azok a szakközépiskolák és kollégiumok vehetnek részt, amelyek közösen vállalják, hogy az Arany János Kollégiumi-Szakközépiskolai Programban részt vevő tanulóknak nappali rendszerű iskolai oktatás keretében szakközépiskolában, kollégiumi elhelyezéssel államilag elismert szakképesítés megszerzését biztosítják.
+175. § (1)[^362] Az Arany János Kollégiumi-Szakközépiskolai Programban azok a szakközépiskolák és kollégiumok vehetnek részt, amelyek közösen vállalják, hogy az Arany János Kollégiumi-Szakközépiskolai Programban részt vevő tanulóknak nappali rendszerű iskolai oktatás keretében szakközépiskolában, kollégiumi elhelyezéssel államilag elismert szakképesítés megszerzését biztosítják.
 
-(2)[^362] Az Arany János Kollégiumi-Szakközépiskolai Programban részt vevő kollégium kiválasztása a 174. § (2)–(5) bekezdése szerinti eljárással történik. Az Arany János Kollégiumi-Szakközépiskolai Program esetében a pályázathoz a 174. § (5) bekezdésében foglaltakon túl csatolni kell a partnerként közreműködő szakközépiskola nyilatkozatát arról, hogy a résztvevők szakközépiskolai tanulmányokra történő felkészítését, a tanulmányok megkezdését és a tanulmányok alatti felkészítést biztosítja. A kollégium fenntartói jogának átadása esetén a 174. § (6) bekezdésében foglaltak az irányadók.
+(2)[^363] Az Arany János Kollégiumi-Szakközépiskolai Programban részt vevő kollégium kiválasztása a 174. § (2)–(5) bekezdése szerinti eljárással történik. Az Arany János Kollégiumi-Szakközépiskolai Program esetében a pályázathoz a 174. § (5) bekezdésében foglaltakon túl csatolni kell a partnerként közreműködő szakközépiskola nyilatkozatát arról, hogy a résztvevők szakközépiskolai tanulmányokra történő felkészítését, a tanulmányok megkezdését és a tanulmányok alatti felkészítést biztosítja. A kollégium fenntartói jogának átadása esetén a 174. § (6) bekezdésében foglaltak az irányadók.
 
-(3)[^363] Az Arany János Kollégiumi-Szakközépiskolai Programba a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerint lehet bekapcsolódnia annak, aki
+(3)[^364] Az Arany János Kollégiumi-Szakközépiskolai Programba a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerint lehet bekapcsolódnia annak, aki
 
 a) tanulói jogviszonyban áll, a szakközépiskola kilencedik évfolyamára jelentkezik és egyúttal kollégiumi ellátást is kér, és
 
@@ -20,7 +20,7 @@ bd) a Gyvt. 53. §-a szerint gyermekvédelmi szakellátás otthont nyújtó ell�
 
 be) a szülő vagy a családba fogadó gyám alacsony foglalkoztatottsága esetén, ha a gyermeket nevelő szülők bármelyikéről vagy a családba fogadó gyámról megállapítható, hogy a programba történő jelentkezés időpontjában a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény 33. §-a szerinti aktív korúak ellátására jogosult vagy a programba történő jelentkezés időpontját megelőző 16 hónapon belül legalább 12 hónapig álláskeresőként nyilvántartott személy.
 
-[^360]: A 70. alcím (175. §) a 45/2014. (X. 27.) EMMI rendelet 46. §-ával megállapított szöveg, címe a 20/2016. (VIII. 24.) EMMI rendelet 27. § 36. pontja szerint módosított szöveg.
-[^361]: A 175. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 21. §-ával megállapított szöveg.
-[^362]: A 175. § (2) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 21. §-ával megállapított szöveg.
-[^363]: A 175. § (3) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^361]: A 70. alcím (175. §) a 45/2014. (X. 27.) EMMI rendelet 46. §-ával megállapított szöveg, címe a 20/2016. (VIII. 24.) EMMI rendelet 27. § 36. pontja szerint módosított szöveg.
+[^362]: A 175. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 21. §-ával megállapított szöveg.
+[^363]: A 175. § (2) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 21. §-ával megállapított szöveg.
+[^364]: A 175. § (3) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 18. §-ával megállapított szöveg.

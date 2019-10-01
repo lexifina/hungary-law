@@ -1,4 +1,4 @@
-1. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^440]
+1. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^443]
 
 A nevelési-oktatási intézmény irattári terve és az iskolai záradékok
 
@@ -66,26 +66,4 @@ Irattári terv
 
 | 27. |  | Közösségi szolgálat teljesítéséről szóló dokumentum |  | 5 |
 
-| Gazdasági ügyek |
-
-| 27. |  | Ingatlan-nyilvántartás, -kezelés, -fenntartás, épülettervrajzok, helyszínrajzok, használatbavételi engedélyek |  | határidő nélküli |
-
-| 28. |  | Társadalombiztosítás |  | 50 |
-
-| 29. |  | Leltár, állóeszköz-nyilvántartás, vagyonnyilvántartás, selejtezés |  | 10 |
-
-| 30. |  | Éves költségvetés, költségvetési beszámolók, könyvelési bizonylatok |  | 5 |
-
-| 31. |  | A tanműhely üzemeltetése |  | 5 |
-
-| 32. |  | A gyermekek, tanulók ellátása, juttatásai, térítési díjak |  | 5 |
-
-| 33. |  | Szakértői bizottság szakértői véleménye |  | 20 |
-
-| 34. |  | Költségvetési támogatási dokumentumok |  | 5 |
-
-II.
-
-Az iskolák által alkalmazott záradékok
-
-[^440]: Az 1. melléklet a 36/2012. (XI. 14.) EMMI rendelet 12. §-a, a 22/2013. (III. 22.) EMMI rendelet 39. § u) pontja, a 45/2014. (X. 27.) EMMI rendelet 52. §-a és 54. § 31. pontja, a 20/2016. (VIII. 24.) EMMI rendelet 27. § 44. pontja, a 20/2019. (VIII. 30.) EMMI rendelet 24. § 18. pontja szerint módosított szöveg.
+[^443]: Az 1. melléklet a 36/2012. (XI. 14.) EMMI rendelet 12. §-a, a 22/2013. (III. 22.) EMMI rendelet 39. § u) pontja, a 45/2014. (X. 27.) EMMI rendelet 52. §-a és 54. § 31. pontja, a 20/2016. (VIII. 24.) EMMI rendelet 27. § 44. pontja, a 20/2019. (VIII. 30.) EMMI rendelet 24. § 18. pontja szerint módosított szöveg.

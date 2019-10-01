@@ -1,4 +1,4 @@
-## 94. §[^200] Az iskola által használt nyomtatvány
+## 94. §[^201] Az iskola által használt nyomtatvány
 
 1. a beírási napló,
 
@@ -56,4 +56,4 @@
 
 28. az együttműködési megállapodás.
 
-[^200]: A 94. § a 20/2016. (VIII. 24.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^201]: A 94. § a 20/2016. (VIII. 24.) EMMI rendelet 8. §-ával megállapított szöveg.

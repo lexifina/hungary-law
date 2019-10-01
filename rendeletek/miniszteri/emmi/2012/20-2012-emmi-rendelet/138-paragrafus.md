@@ -1,4 +1,4 @@
-## 137/A. §[^272]
+## 137/A. §[^273]
 
 138. § (1) Az Nkt. 6. mellékletében a kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozás megszervezésére meghatározott heti foglalkoztatási időkeretet abban az esetben, ha a tanulót külön osztályban tanítják, osztályonként kell biztosítani.
 
@@ -10,4 +10,4 @@
 
 (5) Az általános iskola felső tagozatán – a nevelőtestület döntése alapján – a habilitációs, rehabilitációs tanórai foglalkozások legfeljebb ötven, a középfokú iskolában legfeljebb hetvenöt százaléka a sajátos nevelési igényű tanulók tehetséggondozására, a tantárgyi követelmények eredményes teljesítését szolgáló felzárkóztatásra is fordítható. A nevelőtestület az erre irányuló döntését félévenként köteles felülvizsgálni, és a tanuló fejlődésének ismeretében megerősíteni vagy módosítani.
 
-[^272]: A 137/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 6. §-a iktatta be, hatályon kívül helyezte a 24/2017. (X. 3.) EMMI rendelet 15. § 1. pontja.
+[^273]: A 137/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 6. §-a iktatta be, hatályon kívül helyezte a 24/2017. (X. 3.) EMMI rendelet 15. § 1. pontja.

@@ -48,9 +48,9 @@ bj) a csoportbontások és az egyéb foglalkozások szervezésének elveit,
 
 bk) a nemzetiséghez nem tartozó tanulók részére a településen élő nemzetiség kultúrájának megismerését szolgáló tananyagot,
 
-bl)[^20]
+bl)[^21]
 
-bm)[^21] az alapfokú művészeti iskola kivételével az egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket,
+bm)[^22] az alapfokú művészeti iskola kivételével az egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket,
 
 bn) a gyermekek, tanulók esélyegyenlőségét szolgáló intézkedéseket,
 
@@ -58,7 +58,7 @@ bo) a tanuló jutalmazásával összefüggő, a tanuló magatartásának, szorga
 
 bp) a nevelőtestület által szükségesnek tartott további elveket,
 
-bq)[^22] középiskola esetében a 11–12. évfolyamon az emelt szintű érettségire történő felkészítéshez az emelt szintű oktatásban alkalmazott fejlesztési feladatokat és követelményeket a Nat és az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet alapján,
+bq)[^23] középiskola esetében a 11–12. évfolyamon az emelt szintű érettségire történő felkészítéshez az emelt szintű oktatásban alkalmazott fejlesztési feladatokat és követelményeket a Nat és az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet alapján,
 
 c) szakképző iskola esetén a szakmai programot,
 
@@ -66,9 +66,9 @@ d) amennyiben az általános iskola egész napos iskolaként működik, az oktat
 
 (2) Az iskola valamennyi évfolyamát átfogó helyi tantervet használ.
 
-(3)[^23] Az iskola pedagógiai programja – a szakképzést folytató intézmények kivételével – meghatározza az iskolaváltás, valamint a tanuló átvételének szabályait, szükség esetén különbözeti vizsgával, egyéni segítségnyújtással, türelmi idő biztosításával vagy évfolyamismétléssel.
+(3)[^24] Az iskola pedagógiai programja – a szakképzést folytató intézmények kivételével – meghatározza az iskolaváltás, valamint a tanuló átvételének szabályait, szükség esetén különbözeti vizsgával, egyéni segítségnyújtással, türelmi idő biztosításával vagy évfolyamismétléssel.
 
-(4)[^24] A nevelőtestület és az intézményvezető döntése alapján a pedagógiai program tartalmazza az iskolában alkalmazott sajátos pedagógiai módszereket, beleértve a témanapokat, témaheteket és a projektoktatást is. A projektoktatás során a témaegységek feldolgozása, a feladat megoldása a tanulók érdeklődésére, a tanulók és a pedagógusok közös tevékenységére, együttműködésére épül a probléma megoldása és az összefüggések feltárása útján.
+(4)[^25] A nevelőtestület és az intézményvezető döntése alapján a pedagógiai program tartalmazza az iskolában alkalmazott sajátos pedagógiai módszereket, beleértve a témanapokat, témaheteket és a projektoktatást is. A projektoktatás során a témaegységek feldolgozása, a feladat megoldása a tanulók érdeklődésére, a tanulók és a pedagógusok közös tevékenységére, együttműködésére épül a probléma megoldása és az összefüggések feltárása útján.
 
 (5) Az iskola pedagógiai programjában meg kell határozni
 
@@ -76,23 +76,23 @@ a) az iskolai írásbeli, szóbeli, gyakorlati beszámoltatások, az ismeretek s
 
 b) az otthoni, napközis, tanulószobai felkészüléshez előírt írásbeli és szóbeli feladatok meghatározásának elveit és korlátait,
 
-c)[^25] a tanuló magasabb évfolyamra lépésének feltételeit.
+c)[^26] a tanuló magasabb évfolyamra lépésének feltételeit.
 
-(6)[^26] Ha az általános iskolában a Nat Művészetek műveltségi területen vagy az annak megfelelő tantárgy keretei között emelt szintű oktatás folyik, továbbá ha a szakközépiskola vagy a szakgimnázium művészeti szakmai vizsgára készít fel, az iskola, valamint az alapfokú művészeti iskola pedagógiai programja előírhatja, hogy a tanuló a kötelező tanórai foglalkozások keretében tanítási napokon nyolc és tizenhat óra között köteles részt venni művészeti próbákon és előadásokon. Az alapfokú művészeti iskola e feladatkörében a tanulók közismereti iskolai feladatait figyelembe véve határozhatja meg a kötelező részvételt a művészeti próbákon és előadásokon.
+(6)[^27] Ha az általános iskolában a Nat Művészetek műveltségi területen vagy az annak megfelelő tantárgy keretei között emelt szintű oktatás folyik, továbbá ha a szakközépiskola vagy a szakgimnázium művészeti szakmai vizsgára készít fel, az iskola, valamint az alapfokú művészeti iskola pedagógiai programja előírhatja, hogy a tanuló a kötelező tanórai foglalkozások keretében tanítási napokon nyolc és tizenhat óra között köteles részt venni művészeti próbákon és előadásokon. Az alapfokú művészeti iskola e feladatkörében a tanulók közismereti iskolai feladatait figyelembe véve határozhatja meg a kötelező részvételt a művészeti próbákon és előadásokon.
 
-(7)[^27] Az iskolában folyó szakképzés szakmai programjának elkészítésére a szakképzésre vonatkozó jogszabályok rendelkezéseit kell alkalmazni.
+(7)[^28] Az iskolában folyó szakképzés szakmai programjának elkészítésére a szakképzésre vonatkozó jogszabályok rendelkezéseit kell alkalmazni.
 
-(8)[^28]
+(8)[^29]
 
-(9)[^29] A két tanítási nyelvű iskola a két tanítási nyelvű iskolai oktatás irányelvének kiadásáról szóló jogszabály, a nemzetiségi nevelést-oktatást végző iskola a nemzetiség óvodai nevelésének irányelve és a nemzetiség iskolai oktatásának irányelve kiadásáról szóló jogszabály alapján készíti el helyi tantervét.
+(9)[^30] A két tanítási nyelvű iskola a két tanítási nyelvű iskolai oktatás irányelvének kiadásáról szóló jogszabály, a nemzetiségi nevelést-oktatást végző iskola a nemzetiség óvodai nevelésének irányelve és a nemzetiség iskolai oktatásának irányelve kiadásáról szóló jogszabály alapján készíti el helyi tantervét.
 
-[^20]: A 7. § (1) bekezdés b) pont bl) alpontját a 22/2015. (IV. 21.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
-[^21]: A 7. § (1) bekezdés b) pont bm) alpont a 20/2019. (VIII. 30.) EMMI rendelet 24. § 3. pont a) alpontja szerint módosított szöveg.
-[^22]: A 7. § (1) bekezdés b) pont bq) alpontját a 22/2013. (III. 22.) EMMI rendelet 3. § (1) bekezdése iktatta be.
-[^23]: A 7. § (3) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 5. pont a) alpontja szerint módosított szöveg.
-[^24]: A 7. § (4) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 24. § 3. pont b) alpontja szerint módosított szöveg.
-[^25]: A 7. § (5) bekezdés c) pontját a 22/2013. (III. 22.) EMMI rendelet 3. § (2) bekezdése iktatta be.
-[^26]: A 7. § (6) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 5. pont b) alpontja szerint módosított szöveg.
-[^27]: A 7. § (7) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § a) pontja szerint módosított szöveg.
-[^28]: A 7. § (8) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 28. § 3. pontja hatályon kívül helyezte.
-[^29]: A 7. § (9) bekezdését a 45/2014. (X. 27.) EMMI rendelet 3. §-a iktatta be.
+[^21]: A 7. § (1) bekezdés b) pont bl) alpontját a 22/2015. (IV. 21.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
+[^22]: A 7. § (1) bekezdés b) pont bm) alpont a 20/2019. (VIII. 30.) EMMI rendelet 24. § 3. pont a) alpontja szerint módosított szöveg.
+[^23]: A 7. § (1) bekezdés b) pont bq) alpontját a 22/2013. (III. 22.) EMMI rendelet 3. § (1) bekezdése iktatta be.
+[^24]: A 7. § (3) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 5. pont a) alpontja szerint módosított szöveg.
+[^25]: A 7. § (4) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 24. § 3. pont b) alpontja szerint módosított szöveg.
+[^26]: A 7. § (5) bekezdés c) pontját a 22/2013. (III. 22.) EMMI rendelet 3. § (2) bekezdése iktatta be.
+[^27]: A 7. § (6) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 5. pont b) alpontja szerint módosított szöveg.
+[^28]: A 7. § (7) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § a) pontja szerint módosított szöveg.
+[^29]: A 7. § (8) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 28. § 3. pontja hatályon kívül helyezte.
+[^30]: A 7. § (9) bekezdését a 45/2014. (X. 27.) EMMI rendelet 3. §-a iktatta be.

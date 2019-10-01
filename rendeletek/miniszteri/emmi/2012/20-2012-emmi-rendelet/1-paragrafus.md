@@ -22,7 +22,10 @@ g) a köznevelési intézmények intézményfenntartóira,
 
 h) a pedagógiai szakszolgálat keretében ellátott szakértői bizottsági tevékenységre,
 
-i) a névhasználatra vonatkozó rendelkezések tekintetében a pedagógiai szakszolgálati intézményekre, a pedagógiai-szakmai szolgáltató intézményekre és a többcélú köznevelési intézményekre is.
+i) a névhasználatra vonatkozó rendelkezések tekintetében a pedagógiai szakszolgálati intézményekre, a pedagógiai-szakmai szolgáltató intézményekre és a többcélú köznevelési intézményekre is,
+
+j)[^3] az Nkt. 93/A. § (1) bekezdés b) pontjában meghatározott természetes és jogi személyekre.
 
 [^1]: Az 1. § a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § e) pontja a 22/2013. (III. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 3. §-a iktatta be.
