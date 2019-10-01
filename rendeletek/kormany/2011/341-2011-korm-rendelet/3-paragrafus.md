@@ -10,7 +10,7 @@ f)[^29] a Nemzeti Eszközkezelő Zrt. vagyonkezelésébe tartozó lakóingatlan 
 
 felvett hitelintézeti kölcsön (a továbbiakban: kölcsön) kamatainak megfizetéséhez.
 
-(2)[^30] Az otthonteremtési kamattámogatás iránti kérelem írásban nyújtható be a 15. § (2) bekezdése szerinti szerződéssel rendelkező hitelintézethez.
+(2)[^30] Az otthonteremtési kamattámogatás iránti kérelem írásban nyújtható be a hitelintézethez.
 
 (3) A kölcsön kamatainak megfizetéséhez az állam a kölcsön futamidejének első öt évében nyújt otthonteremtési kamattámogatást.
 
@@ -30,14 +30,15 @@ c) lejárt tőketartozás esetén.
 
 (8) Amennyiben az otthonteremtési kamattámogatással érintett kölcsön hitelcél felhasználása érdekében történő folyósítása a (2) bekezdés szerinti határidőket követő hat hónapon belül, a támogatott személynek felróható okból nem kezdődik meg, úgy a támogatott személy az otthonteremtési kamattámogatásra való jogosultságát elveszti.
 
-(9) Az otthonteremtési kamattámogatás olyan hitelintézet által folyósított kölcsönhöz nyújtható, amely a 15. § (2) bekezdése szerinti szerződést köt, valamint e szerződés alapján teljesíti az e rendeletben foglalt kötelezettségeit.
+(9)[^33] Az otthonteremtési kamattámogatás olyan hitelintézet által folyósított kölcsönhöz nyújtható, amely teljesíti az e rendeletben foglalt kötelezettségeit.
 
-(10)[^33] Az otthonteremtési kamattámogatás igénybevételével érintett kölcsönszerződés megkötésének feltétele, hogy – új lakás építése, bővítés vagy korszerűsítés esetén – az igénylő által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja.
+(10)[^34] Az otthonteremtési kamattámogatás igénybevételével érintett kölcsönszerződés megkötésének feltétele, hogy – új lakás építése, bővítés vagy korszerűsítés esetén – az igénylő által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja.
 
 [^27]: A 3. § (1) bekezdés b) pontja a 379/2012. (XII. 19.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
 [^28]: A 3. § (1) bekezdés c)–e) pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
 [^29]: A 3. § (1) bekezdés f) pontját a 379/2012. (XII. 19.) Korm. rendelet 33. § (2) bekezdése iktatta be.
-[^30]: A 3. § (2) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^30]: A 3. § (2) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 35. § (1) bekezdésével megállapított, a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^31]: A 3. § (4) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 70. §-ával megállapított szöveg.
 [^32]: A 3. § (6) bekezdés b) pontja a 26/2012. (III. 6.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^33]: A 3. § (10) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^33]: A 3. § (9) bekezdése a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 3. § (10) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 35. § (2) bekezdése iktatta be.

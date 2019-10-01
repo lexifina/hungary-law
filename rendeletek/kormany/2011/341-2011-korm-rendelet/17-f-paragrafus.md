@@ -1,0 +1,1 @@
+17/F. § Az otthonteremtési kamattámogatást is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a Kincstár üzemelteti és fejleszti.
