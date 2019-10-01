@@ -6,7 +6,7 @@ a) a felhasználó számára a fogyasztásmérő berendezést, valamint
 
 b) az egyetemes szolgáltatásra nem jogosult felhasználó számára
 
-ba) 10 m3/óra feletti névleges teljesítményű fogyasztásmérő esetén az órai adatok jeltovábbításhoz szükséges telemechanikai rendszert és
+ba) 10 m3/óra és az a feletti névleges teljesítményű fogyasztásmérő esetén az órai adatok jeltovábbításhoz szükséges telemechanikai rendszert és
 
 bb) 100 m3/óra feletti névleges teljesítményű fogyasztásmérő esetén a korrektort.
 
