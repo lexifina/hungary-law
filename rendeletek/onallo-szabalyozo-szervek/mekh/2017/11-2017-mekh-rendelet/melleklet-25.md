@@ -1,5 +1,5 @@
 ## 20175Z20000011_49
 
-25. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^42]
+25. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^43]
 
-[^42]: A 25. melléklet az 1/2018. (III. 29.) MEKH rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^43]: A 25. melléklet az 1/2018. (III. 29.) MEKH rendelet 1. § (9) bekezdésével megállapított szöveg.

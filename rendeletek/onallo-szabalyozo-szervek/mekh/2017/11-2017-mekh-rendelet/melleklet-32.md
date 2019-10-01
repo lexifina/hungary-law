@@ -1,5 +1,5 @@
 ## 20175Z20000011_105
 
-32. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^49]
+32. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^50]
 
-[^49]: A 32. mellékletet a 3/2019. (III. 28.) MEKH rendelet 3. §-a hatályon kívül helyezte.
+[^50]: A 32. mellékletet a 3/2019. (III. 28.) MEKH rendelet 3. §-a hatályon kívül helyezte.

@@ -1,5 +1,5 @@
 ## 20175Z20000011_104
 
-31. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^48]
+31. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^49]
 
-[^48]: A 31. melléklet a 3/2019. (III. 28.) MEKH rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^49]: A 31. melléklet a 3/2019. (III. 28.) MEKH rendelet 2. § (8) bekezdésével megállapított szöveg.

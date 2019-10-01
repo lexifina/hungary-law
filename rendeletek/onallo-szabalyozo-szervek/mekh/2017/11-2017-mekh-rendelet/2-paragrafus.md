@@ -6,7 +6,7 @@
 
 (2a)[^7] Az 500 kW alatti névleges teljesítőképességű, a METÁR Kr. 2. § (1) bekezdés 11. pontja szerinti premizált termelő rendszeres adatszolgáltatási kötelezettsége a prémium támogatási szerződésnek a METÁR Kr. 2. § (1) bekezdés 3. pontja szerinti befogadóval való megkötését követő napon kezdődik.
 
-(3)[^8] Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 9. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató az 1., az elektronikus kapcsolattartásra nem kötelezett adatszolgáltató az 1a. mellékletben szereplő adatlapot a rendszeres adatszolgáltatási kötelezettségének kezdetét követő 8 napon belül kitölti, és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére megküldi.
+(3)[^8] Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 9. §-a alapján elektronikus kapcsolattartásra kötelezett adatszolgáltató az 1., az elektronikus kapcsolattartásra nem kötelezett adatszolgáltató választása szerint az 1. vagy az 1a. mellékletben szereplő adatlapot a rendszeres adatszolgáltatási kötelezettségének kezdetét követő 8 napon belül kitölti, és a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére megküldi.
 
 (3a)[^9]
 
@@ -21,6 +21,6 @@
 [^5]: A 2. § (1) bekezdése a 7/2019. (VI. 27.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (2) bekezdése a 7/2019. (VI. 27.) MEKH rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2a) bekezdését a 7/2019. (VI. 27.) MEKH rendelet 2. § (1) bekezdése iktatta be.
-[^8]: A 2. § (3) bekezdése a 7/2019. (VI. 27.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (3) bekezdése a 7/2019. (VI. 27.) MEKH rendelet 2. § (2) bekezdésével megállapított, a 12/2019. (IX. 27.) MEKH rendelet 3. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (3a) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be, hatályon kívül helyezte a 7/2019. (VI. 27.) MEKH rendelet 5. § b) pontja.
 [^10]: A 2. § (3b) bekezdését a 12/2017. (XI. 6.) MEKH rendelet 2. §-a iktatta be, szövege a 7/2019. (VI. 27.) MEKH rendelet 4. § a) pontja szerint módosított szöveg.
