@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-2-20-2C
 | --- | --- | --- |
 | 2019-02-01 | 2019-2-20-2C.1 | 2/2019. (I. 9.) MNB rendelet |
 | 2019-02-02 | 2019-2-20-2C.2 | 2010: CXXX. törvény |
+| 2019-10-01 | 2019-2-20-2C.3 | 2010: CXXX. törvény |
