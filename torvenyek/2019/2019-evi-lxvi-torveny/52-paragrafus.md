@@ -14,7 +14,7 @@
 
 7.
 
-8.
+8. 57. § (2) bekezdésében az „a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a cégbejegyzés napját tünteti fel” szövegrész helyébe az „a cégbejegyzés napját megelőzné, a cégbíróság az átalakulás időpontjaként a jogelőd cég törlésének napját tünteti fel” szöveg,
 
 9.
 
