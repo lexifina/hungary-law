@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-16-20-5
 | 2019-06-08 | 2018-16-20-53.3 | 6/2019. (VI. 7.) PM rendelet |
 | 2019-07-01 | 2018-16-20-53.4 | 6/2019. (VI. 7.) PM rendelet |
 | 2019-09-06 | 2018-16-20-53.5 | 6/2019. (VI. 7.) PM rendelet |
+| 2019-10-01 | 2018-16-20-53.6 | 6/2019. (VI. 7.) PM rendelet |
