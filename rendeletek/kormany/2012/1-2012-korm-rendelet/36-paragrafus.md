@@ -1,6 +1,6 @@
-36. § (1)[^95]
+36. § (1)[^99]
 
-(2)[^96]
+(2)[^100]
 
-[^95]: A 36. § (1) bekezdése a 2010: CXXX. törvény 12. § (1) bekezdése alapján hatályát vesztette.
-[^96]: A 36. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 36. § (1) bekezdése a 2010: CXXX. törvény 12. § (1) bekezdése alapján hatályát vesztette.
+[^100]: A 36. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

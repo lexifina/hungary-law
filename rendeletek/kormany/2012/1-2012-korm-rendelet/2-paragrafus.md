@@ -32,6 +32,8 @@ a) szabad felhasználású: a hallgatói hitel azon része, amelyet Fot. 46. § 
 
 b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46. § (1) bekezdése szerinti magyar állami részösztöndíjas és önköltséges képzésben tanulmányokat folytató hallgatók képzésük finanszírozása érdekében vehetnek igénybe;
 
+c)[^3] nyelvtanulási hallgatói hitel: a hallgatói hitel azon része, amely idegennyelv-tanulás és nyelvvizsga bizonyítvány-szerzés céljából vehető igénybe;
+
 12. hitelfelvevő: az a 3. § (1) bekezdésében, illetve a 21. § (1) bekezdésében meghatározott személy, aki hallgatói hitelt vesz fel vagy korábban hallgatói hitelt vett fel, és tartozását törleszti;
 
 13. hitel futamideje: a hallgatói hitel első folyósításának napjától számított, a hitel és kamata visszafizetéséig tartó időtartam;
@@ -50,7 +52,7 @@ b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46.
 
 20. szülők: a hitelfelvevő születési anyakönyvi kivonatában anyaként és apaként megjelölt személyek;
 
-21.[^3] tanév: az adott naptári év szeptember 1-jétől a következő naptári év június 30-áig terjedő képzési időszak;
+21.[^4] tanév: az adott naptári év szeptember 1-jétől a következő naptári év június 30-áig terjedő képzési időszak;
 
 22. tanulmányi félév: az adott naptári év szeptember 1-jétől a következő naptári év január 31-éig terjedő, illetve az adott naptári év február 1-jétől június 30-áig terjedő képzési időszak;
 
@@ -58,7 +60,11 @@ b) kötött felhasználású: a hallgatói hitel azon része, amelyet a Fot. 46.
 
 24. törlesztési kötelezettség: a hitelfelvevőnek a törlesztőrészlet határidőben történő megfizetésére vonatkozó kötelezettsége;
 
-25. törlesztőrészlet: az e rendelet alapján meghatározott, a hitelfelvevő által a Diákhitel szervezetnek a törlesztési kötelezettség kezdetét követően, havi rendszerességgel fizetendő összeg.
+25. törlesztőrészlet: az e rendelet alapján meghatározott, a hitelfelvevő által a Diákhitel szervezetnek a törlesztési kötelezettség kezdetét követően, havi rendszerességgel fizetendő összeg;
+
+26.[^5] támogatott nyelv: az érintett személy állampolgársága szerinti ország hivatalos nyelvétől eltérő, a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. melléklet 1. pontjában, 2. pont l) alpontjában és 4. pontjában meghatározott idegen nyelvek valamelyike, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 39. § (1) bekezdés a)–h) pontjában meghatározott személy tekintetében a magyar nyelv.
 
 [^2]: A 2. § 10a. pontját a 291/2017. (X. 3.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 11. pont c) alpontját a 114/2019. (V. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^4]: A 2. § 21. pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 26. pontját a 114/2019. (V. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
