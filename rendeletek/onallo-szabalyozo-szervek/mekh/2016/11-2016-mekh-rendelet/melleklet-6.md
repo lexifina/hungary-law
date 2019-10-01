@@ -26,7 +26,7 @@
 
 | 13. | december | 1,17% |
 
-6. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^122]
+6. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^133]
 
 Tájékoztatás jogosulatlan nem téli időszaki kapacitástermék igénybevételről
 
@@ -38,4 +38,4 @@ Tájékoztatás jogosulatlan nem téli időszaki kapacitástermék igénybevéte
 
 | … | … | … | … | … | … | … | … | … | … | … | … | … |
 
-[^122]: A 6. mellékletet a 4/2018. (VI. 14.) MEKH rendelet 10. § (2) bekezdése iktatta be.
+[^133]: A 6. mellékletet a 4/2018. (VI. 14.) MEKH rendelet 10. § (2) bekezdése iktatta be.

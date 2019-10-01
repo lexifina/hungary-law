@@ -118,7 +118,11 @@ rc)[^14] a gázéven belüli havi kapacitás-lekötés esetében a teljes naptá
 
 rd) a gázéven belüli napi kapacitás-lekötés esetében a teljes gáznapból álló időszak,
 
-re)[^15] a gázéven belüli napon belüli kapacitás-lekötés esetében a gáznap végéig hátralévő időszak,
+re)[^15] a gázéven belüli napon belüli kapacitás-lekötés esetén
+
+rea) szállítási rendszeren történő kapacitás-lekötés esetében a gáznap végéig hátralévő időszak órában kifejezve,
+
+reb) elosztási kapacitás-lekötés esetében a gáznap végéig hátralévő időszak,
 
 s) tárolási év: adott naptári év április 1-jétől a következő naptári év március 31-éig tartó időszak,
 
@@ -164,7 +168,7 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 
 8. rákapcsolás: a 2004. január 27. előtt létesült leágazó elosztóvezetékkel rendelkező ingatlanokon a leágazó elosztóvezeték, a csatlakozó vezeték és a fogyasztói vezeték üzembe helyezése.
 
-(3)[^25] Az e rendeletben meg nem határozott fogalmakat a GET és a felhatalmazása alapján kiadott jogszabályok, valamint a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló 459/2017/EU bizottsági rendelet (a továbbiakban: 459/2017/EU bizottsági rendelet) szerint kell értelmezni.
+(3)[^25] Az e rendeletben meg nem határozott fogalmakat a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló, 2017. március 16-i 459/2017/EU bizottsági rendelet (a továbbiakban: 459/2017/EU bizottsági rendelet) és az összehangolt földgázszállítási tarifaszerkezetekre vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2017. március 16-i 2017/460/EU bizottsági rendelet szerint kell értelmezni.
 
 (4)[^26] Az e rendeletben foglaltakat az egyetemes szolgáltatóra vonatkozóan a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló 69/2016. (XII. 29.) NFM rendeletben foglaltakra tekintettel kell alkalmazni.
 
@@ -184,7 +188,7 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 [^12]: Az 1. § (1) bekezdés ny) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^13]: Az 1. § (1) bekezdés q) pontja a 7/2017. (VII. 13.) MEKH rendelet 20. § a) pontja szerint módosított szöveg.
 [^14]: Az 1. § (1) bekezdés r) pont rc) alpontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^15]: Az 1. § (1) bekezdés r) pont re) alpontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 1. § (1) bekezdés r) pont re) alpontja az 5/2019. (V. 31.) MEKH rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^16]: Az 1. § (1) bekezdés t) pontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^17]: Az 1. § (1) bekezdés ty) pontja a 4/2018. (VI. 14.) MEKH rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^18]: Az 1. § (1) bekezdés u) pontja a 7/2017. (VII. 13.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
@@ -194,6 +198,6 @@ b) egyetemes szolgáltatásra nem jogosult leendő, vagy már csatlakozott felha
 [^22]: Az 1. § (1) bekezdés y) pontját a 4/2019. (IV. 12.) MEKH rendelet 1. §-a iktatta be.
 [^23]: Az 1. § (1) bekezdés z) pontját a 4/2019. (IV. 12.) MEKH rendelet 1. §-a iktatta be.
 [^24]: Az 1. § (1) bekezdés zs) pontját az 5/2019. (V. 31.) MEKH rendelet 9. § (2) bekezdése iktatta be.
-[^25]: Az 1. § (3) bekezdése a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^25]: Az 1. § (3) bekezdése az 5/2019. (V. 31.) MEKH rendelet 9. § (3) bekezdésével megállapított szöveg.
 [^26]: Az 1. § (4) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (5) bekezdése iktatta be.
 [^27]: Az 1. § (5) bekezdését a 7/2017. (VII. 13.) MEKH rendelet 2. § (6) bekezdése iktatta be.

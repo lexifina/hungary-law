@@ -1,4 +1,4 @@
-29. §[^79] (1) A rendszerhasználó az átadási-átvételi pontonként lekötött kapacitás 1%-nál nagyobb mértékű túllépése esetén – átadási-átvételi pontonként – pótdíjat vagy utólagos kapacitásdíjat köteles fizetni a földgázelosztónak.
+29. §[^90] (1) A rendszerhasználó az átadási-átvételi pontonként lekötött kapacitás 1%-nál nagyobb mértékű túllépése esetén – átadási-átvételi pontonként – pótdíjat vagy utólagos kapacitásdíjat köteles fizetni a földgázelosztónak.
 
 (2) Ismételt kapacitás-túllépés esetén a kapacitás-túllépési pótdíj vagy az utólagos kapacitásdíj a túllépéssel érintett átadási-átvételi pontonként gáznaponként ismételten felszámításra kerül.
 
@@ -12,4 +12,4 @@
 
 (7) A pótdíjak kiszámításánál a gáznapi középhőmérséklet értéket kell alkalmazni. Ha az adott hőmérséklet-mérési helyen az adott gáznapra vonatkozóan nem áll rendelkezésre gáznapi középhőmérséklet adat, a felek az OMSZ-t kérik fel helyettesítő érték megállapítására.
 
-[^79]: A 29. § a 7/2017. (VII. 13.) MEKH rendelet 14. §-ával megállapított szöveg.
+[^90]: A 29. § a 7/2017. (VII. 13.) MEKH rendelet 14. §-ával megállapított szöveg.

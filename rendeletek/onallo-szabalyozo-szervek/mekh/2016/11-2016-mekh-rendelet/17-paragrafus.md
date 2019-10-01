@@ -1,34 +1,25 @@
-## 16. §[^51]
+## 4.[^60]
 
-## 4.[^52]
+## 5.[^61]
 
-## 5.[^53]
+## 6.[^62]
 
-## 6.[^54]
+## 7. [^63] Szállítási kapacitásdíj átadási-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
 
-## 7. [^55] Szállítási kapacitásdíj átadási-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
+17. §[^64] (1) Azokon a hálózati pontokon, amelyek vonatkozásában a szállítási rendszerüzemeltető – az ÜKSZ-ben meghatározott módon – megszakítható kapacitáslekötést vagy – a 459/2017/EU bizottsági rendelet 3. cikk 25. pontja és 32. cikke szerinti – túlnominálást tesz lehetővé, a megszakítható kapacitás díja az egyes kapacitástermékek (éves, negyedéves, havi, napi és napon belüli kapacitás) esetén megegyezik a 13–16. §-ban meghatározott, az adott kapacitástermékre vonatkozó szállítási kapacitásdíjjal.
 
-17. § (1)[^56] Azokon a hálózati pontokon, amelyek vonatkozásában a szállítási rendszerüzemeltető – az ÜKSZ-ben meghatározott módon – megszakítható kapacitás-lekötést vagy – a 459/2017/EU Bizottsági rendelet 3. cikk 25. pontja és a 32. cikke szerinti – túlnominálást tesz lehetővé, a megszakítható kapacitás díja az egyes kapacitástermékek (éves, negyedéves, havi, napi és napon belüli kapacitás) esetén megegyezik a 25., továbbá a 14–16. §-okban meghatározott, az adott kapacitástermékre vonatkozó szállítási kapacitásdíjjal.
+(2) Amennyiben az ÜKSZ-ben rögzített szabályoknak megfelelően a kapacitás megszakítására kerül sor, a szállítási rendszerüzemeltető a megfizetett szállítási kapacitásdíj után kompenzációt fizet. A kompenzáció mértéke
 
-(2) Amennyiben az ÜKSZ-ben rögzített szabályoknak megfelelően a kapacitás megszakítására kerül sor, a szállítási rendszerüzemeltető köteles a megfizetett szállítási kapacitásdíj csökkentésére
+a) éves, negyedéves, havi és napi kapacitás megszakítása esetén a megszakítással érintett napokra,
 
-a) éves kapacitás megszakítása esetén a megszakítással érintett napokra, a megszakítás mértékéig, az éves szállítási kapacitásdíj 1/365-öd részének 300%-ával,
+b) az 1. § (1) bekezdés a) pont aa) alpont aac)–aad), aaf)–aag), aai)–aan) alpontjai, valamint ac) alpontja szerinti átadási-átvételi pontokon alkalmazható napon belüli kapacitás megszakítása esetén a megszakítással érintett napokra
 
-b) negyedéves kapacitás megszakítása esetén a megszakítással érintett napokra, a megszakítás mértékéig, az éves szállítási kapacitásdíj 1/365-öd részének 200%-ával,
+## az adott napi nem megszakítható kapacitásra vonatkozó díj háromszorosa.
 
-c) havi kapacitás megszakítása esetén a megszakítással érintett napokra, a megszakítás mértékéig, az éves szállítási kapacitásdíj 1/365-öd részének 150%-ával,
+(3) A szállítási rendszerüzemeltető az ÜKSZ-ben rögzített szabályok szerint, az 1. § (1) bekezdés r) pontjában rögzített szerződési időszakban, a 10. §-ban rögzítettek szerint abban az esetben is köteles a megszakítható kapacitást biztosítani, ha a megszakítható kapacitás megszakítása után fizetett kompenzáció eléri vagy meghaladja a megszakítható kapacitástermék árának 100%-át.
 
-d) napi kapacitás megszakítása esetén a megszakítással érintett órákra, a megszakítás mértékéig, az éves szállítási kapacitásdíj 1/365-öd rész huszonnegyed részének 130%-ával,
-
-e) az 1. § (1) bekezdés a) pont aa) alpont aac)–aad), aaf)–aag), és aai)–aan), valamint ac) alpontjai szerinti átadási-átvételi pontokon alkalmazható napon belüli kapacitás megszakítása esetén a megszakítással érintett órákra, a megszakítás mértékéig, az éves szállítási kapacitásdíj 1/365-öd rész huszonnegyed részének 130%-ával.
-
-(3) A díjcsökkentés maximális mértéke az adott kapacitástermékre az (1) bekezdés szerint meghatározott szállítási kapacitásdíj 100%-a.
-
-(4) A szállítási rendszerüzemeltető az ÜKSZ-ben rögzített szabályok szerint, az 1. § (1) bekezdés r) pontjában rögzített szerződési időszakban, a szállítási kapacitásdíj 100%-kal történő csökkentése esetén is köteles a 10. §-ban rögzítettek szerint megszakítható kapacitást biztosítani.
-
-[^51]: A 16. §-t a 4/2019. (IV. 12.) MEKH rendelet 9. § b) pontja hatályon kívül helyezte.
-[^52]: A 4. alcímet (14. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^53]: Az 5. alcímet (15. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^54]: A 6. alcímet (16. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^55]: A 7. alcím címe a 7/2017. (VII. 13.) MEKH rendelet 19. § i) pontja és 20. § c) pontja szerint módosított szöveg.
-[^56]: A 17. § (1) bekezdése a 7/2017. (VII. 13.) MEKH rendelet – 11/2017. (VIII. 25.) MEKH rendelet 13. § (1) bekezdés b) pontja szerint módosított – 19. § j) pontja szerint módosított szöveg.
+[^60]: A 4. alcímet (14. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^61]: Az 5. alcímet (15. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^62]: A 6. alcímet (16. §) a 4/2018. (VI. 14.) MEKH rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^63]: A 7. alcím címe a 7/2017. (VII. 13.) MEKH rendelet 19. § i) pontja és 20. § c) pontja szerint módosított szöveg.
+[^64]: A 17. § a 11/2019. (IX. 12.) MEKH rendelet 3. §-ával megállapított szöveg.
