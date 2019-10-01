@@ -2,9 +2,14 @@
 
 ## 20. Hatályon kívül helyező rendelkezés
 
-34. § (1)[^6]
+34. § (1)[^8]
 
-(2)[^7]
+(2) Hatályát veszti
 
-[^6]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 34. § (2) bekezdése a 31. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+a) a 7. alcím;
+
+b) a 8. alcím;
+
+c) a 2. melléklet.
+
+[^8]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
