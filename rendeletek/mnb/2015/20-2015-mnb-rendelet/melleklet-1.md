@@ -22,7 +22,7 @@ a) forintban denomináltak,
 
 b) lakossági jelzáloghitel vagy lakóingatlanon alapított zálogjog fedezete vagy eladása mellett kerültek bevonásra,
 
-c)[^4] a jelzáloglevél vagy a 2. pont b) alpontja szerinti értékpapír kibocsátásakor, a Jht. 8. § (4) bekezdése szerinti önálló zálogjog eladásakor vagy a refinanszírozási jelzáloghitel felvételekor
+c)[^5] a jelzáloglevél vagy a 2. pont b) alpontja szerinti értékpapír kibocsátásakor, a Jht. 8. § (4) bekezdése szerinti önálló zálogjog eladásakor vagy a refinanszírozási jelzáloghitel felvételekor
 
 ca) 2018. szeptember 30-ig legalább egyéves,
 
@@ -32,11 +32,13 @@ cc) 2019. október 1-jétől legalább hároméves
 
 futamidővel rendelkeztek,
 
-d) nem ugyanazon hitelintézeti csoport tagjának mérlegében vannak nyilvántartva.
+d)[^6] nem ugyanazon hitelintézeti csoport tagjának mérlegében vannak nyilvántartva, és
+
+e)[^7] tekintetében a 2. pont a) vagy b) alpontja szerinti forrás esetén rendelkezésre áll külső hitelminősítő intézet által adott hitelminősítés az értékpapírra, annak kibocsátójára vagy az értékpapír alapján jelentkező valamennyi fizetési kötelezettségre készfizető kezességet vállaló intézményre vonatkozóan.
 
 4. a) A 3. pont a) alpont teljesülését nem kell vizsgálni a 2015. március 31. előtt, devizában kibocsátott értékpapírok esetében,
 
-b)[^5] a 3. pont d) alponttól eltérően a jelzáloghitel-finanszírozás megfelelési mutató számlálójában a 2. pontban meghatározott források a következő feltételekkel figyelembe vehetők:
+b)[^8] a 3. pont d) alponttól eltérően a jelzáloghitel-finanszírozás megfelelési mutató számlálójában a 2. pontban meghatározott források a következő feltételekkel figyelembe vehetők:
 
 ba) a jelzálog-hitelintézettel összevont alapú felügyelet alá tartozó intézmény mérlegében nyilvántartott, az MNB vagy az Európai Központi Bank által elfogadott fedezetek körébe tartozó, 2015. március 31. előtt kibocsátott jelzáloglevél állomány, az MNB vagy az Európai Központi Bank által mindenkor alkalmazott befogadási érték 20 százalékáig;
 
@@ -46,7 +48,7 @@ bb) 2018. október 1-jétől a jelzálog-hitelintézettel összevont alapú fel�
 
 6. A jelzáloghitel-finanszírozás megfelelési mutató számlálójából levonandó a jelzálog-hitelintézet által a saját hitelintézeti csoporton kívüli intézmény részére nyújtott refinanszírozási jelzáloghitelek, illetve a saját hitelintézeti csoporton kívüli intézmény által fizetendő visszavásárlási vételár összege.
 
-6a.[^6] A jelzáloghitel-finanszírozás megfelelési mutató számlálójának 2–6. pont szerint számított értékét csökkenteni kell a következő képlet szerint számított értékkel, kivéve, ha ezen érték negatív előjelű:
+6a.[^9] A jelzáloghitel-finanszírozás megfelelési mutató számlálójának 2–6. pont szerint számított értékét csökkenteni kell a következő képlet szerint számított értékkel, kivéve, ha ezen érték negatív előjelű:
 
 J – SF × A
 
@@ -58,10 +60,16 @@ SF: a jelzáloghitel-finanszírozás megfelelési mutató számlálójának 2–
 
 A = J-nek a szabályozott piacra bevezetett részaránya × 0,9 + J-nek a szabályozott piacra be nem vezetett részaránya × 0,85.
 
+Hitelintézeti csoportba nem tartozó hitelintézet esetében a J értéke csökkenthető a hitelintézet tulajdonában lévő, a jelzáloglevél mindenkori teljes hátralévő futamidejére általa árjegyzett, Magyarországon székhellyel rendelkező jelzálog-hitelintézet által kibocsátott, forintban denominált jelzáloglevelek mérlegben kimutatott értékének összegével, az árjegyzett jelzáloglevél-sorozat kibocsátott állománya névértékének 10 százalékának megfelelő, de legfeljebb 3 milliárd forint összeggel.
+
+Hitelintézeti csoportba tartozó hitelintézet esetében a J értéke csökkenthető az ugyanazon hitelintézeti csoport valamely tagjának tulajdonában lévő, a csoport valamely tagja által a jelzáloglevél mindenkori teljes hátralévő futamidejére árjegyzett, saját hitelintézeti csoporton kívüli, Magyarországon székhellyel rendelkező jelzálog-hitelintézet által kibocsátott, forintban denominált jelzáloglevelek mérlegben kimutatott értékének összegével, az árjegyzett jelzáloglevél-sorozat kibocsátott állománya névértékének 10 százalékának megfelelő, de legfeljebb 3 milliárd forint összeggel.
+
 7. A jelzáloghitel-finanszírozás megfelelési mutató nevezője az éven túli hátralévő lejáratú, lakossági forint jelzáloghitel-állomány könyv szerinti nettó értéke.
 
 8. A jelzáloghitel-finanszírozás megfelelési mutató nevezőjéből a hitelintézeti csoport lakástakarék-pénztár tagja éven túli hátralévő lejáratú, lakossági forint jelzáloghitel-állományának könyv szerinti nettó értéke levonható. A levonható jelzáloghitel-állományt csökkenteni kell a lakástakarék-pénztár részére a saját hitelintézeti csoport tagja által nyújtott hitelek mérlegben kimutatott értékével.
 
-[^4]: Az 1. melléklet 3. pont c) alpontja a 2/2019. (I. 9.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. melléklet 4. pont b) alpontja az 55/2016. (XII. 22.) MNB rendelet 2. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet 6a. pontját az 55/2016. (XII. 22.) MNB rendelet 2. §-a iktatta be, szövege a 2/2019. (I. 9.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. melléklet 3. pont c) alpontja a 2/2019. (I. 9.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. melléklet 3. pont d) pontja a 2/2019. (I. 9.) MNB rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^7]: Az 1. melléklet 3. pont e) pontját a 2/2019. (I. 9.) MNB rendelet 3. § (2) bekezdése iktatta be.
+[^8]: Az 1. melléklet 4. pont b) alpontja az 55/2016. (XII. 22.) MNB rendelet 2. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 6a. pontját az 55/2016. (XII. 22.) MNB rendelet 2. §-a iktatta be, szövege a 2/2019. (I. 9.) MNB rendelet 3. § (2) bekezdésével megállapított szöveg.
