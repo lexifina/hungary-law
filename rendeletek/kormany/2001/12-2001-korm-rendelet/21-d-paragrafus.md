@@ -22,6 +22,7 @@ ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
 
 bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
 
-(7) A (2)–(6) bekezdést az Fhtv. hatálya alá nem tartozó, az e rendelet, valamint a lakáscélú támogatásokról szóló 106/1988. (XII. 26.) MT rendelet szerinti kamattámogatással nyújtott kölcsönökre is megfelelően alkalmazni kell.
+(7)[^254] A (2)–(6) bekezdést az Fhtv. hatálya alá nem tartozó, az e rendelet, valamint a lakáscélú támogatásokról szóló 106/1988. (XII. 26.) MT rendelet (a továbbiakban: MT rendelet) szerinti kamattámogatással nyújtott kölcsönökre is megfelelően alkalmazni kell.
 
 [^253]: A 21/D. §-t a 4/2015. (I. 29.) Korm. rendelet 2. §-a iktatta be.
+[^254]: A 21/D. § (7) bekezdése a 101/2019. (V. 2.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.

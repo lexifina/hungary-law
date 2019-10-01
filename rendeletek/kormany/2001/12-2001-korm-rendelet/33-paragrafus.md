@@ -1,6 +1,6 @@
-## 8. [^316] A programok közös szabályai
+## 8. [^320] A programok közös szabályai
 
-33. § (1)[^317] A 26. §-ban, a 27/A. §-ban, a 27/B. §-ban, a 28. §-ban, a 30. §-ban, a 32/A. §-ban, a 32/B. §-ban, a 32/C. §-ban, valamint a 32/D. §-ban meghatározott előirányzatokat (a továbbiakban: Előirányzat) a miniszter kezeli.
+33. § (1)[^321] A 26. §-ban, a 27/A. §-ban, a 27/B. §-ban, a 28. §-ban, a 30. §-ban, a 32/A. §-ban, a 32/B. §-ban, a 32/C. §-ban, valamint a 32/D. §-ban meghatározott előirányzatokat (a továbbiakban: Előirányzat) a miniszter kezeli.
 
 (2) Az Előirányzat központi bevételeinek és kiadásainak mértéke az állami költségvetésről szóló törvényben e célra jóváhagyott előirányzat.
 
@@ -12,8 +12,8 @@ b) a bel- és külföldi gazdálkodó szervezetek és természetes személyek á
 
 c) külön jogszabályokban meghatározott egyéb befizetések.
 
-(4)[^318] Az Előirányzat pénzügyi műveleteinek lebonyolítására a Kincstár előirányzat-felhasználási keretszámlát vezet.
+(4)[^322] Az Előirányzat pénzügyi műveleteinek lebonyolítására a Kincstár előirányzat-felhasználási keretszámlát vezet.
 
-[^316]: A VIII. fejezet „Programok közös szabályai” – eredetileg 4. számú – alcímének számozását 8. alcímre változtatta a 3/2005. (I. 12.) Korm. rendelet 17. §-a.
-[^317]: A 33. § (1) bekezdése a 74/2011. (V. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^318]: A 33. § (4) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdésének f) pontja szerint módosított szöveg.
+[^320]: A VIII. fejezet „Programok közös szabályai” – eredetileg 4. számú – alcímének számozását 8. alcímre változtatta a 3/2005. (I. 12.) Korm. rendelet 17. §-a.
+[^321]: A 33. § (1) bekezdése a 74/2011. (V. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^322]: A 33. § (4) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdésének f) pontja szerint módosított szöveg.

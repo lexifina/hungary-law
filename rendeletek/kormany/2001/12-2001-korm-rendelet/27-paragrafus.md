@@ -1,17 +1,17 @@
 27. § (1) Az előirányzatból vissza nem térítendő támogatás vehető igénybe.
 
-(2)[^288] A 26. §-ban meghatározott jogcímekre a következők szerint igényelhető a támogatás:
+(2)[^292] A 26. §-ban meghatározott jogcímekre a következők szerint igényelhető a támogatás:
 
 a) a települési önkormányzat, ha az adott évben a jövedelemdifferenciálódás mérséklése érdekében a költségvetési törvény alapján a központi költségvetési kapcsolatból származó források csökkentésre kerültek, a bérlakás létesítéséhez szükséges beruházási költség legfeljebb 50%-át igényelheti,
 
-b)[^289] a többi települési önkormányzat, valamint az egyházi jogi személyek a bérlakás létesítéséhez szükséges beruházási költség legfeljebb 70%-át igényelhetik,
+b)[^293] a többi települési önkormányzat, valamint az egyházi jogi személyek a bérlakás létesítéséhez szükséges beruházási költség legfeljebb 70%-át igényelhetik,
 
 c) a megyei önkormányzatok az idősek otthona létesítéséhez szükséges beruházási költség legfeljebb 50%-át igényelhetik.
 
 (3) A fővárosi kerületek esetében a főváros egészére kiszámított differenciálódás mérséklésére vonatkozó rendelkezéseket kell alkalmazni.
 
-(4)[^290] A pályázó saját forrásának lehet tekinteni a tulajdonában lévő pénzügyi eszközöket (amely lehet saját forrásból származó készpénz, valamint e támogatáson kívül más költségvetési forrásból nyújtott támogatás, továbbá hitel), a tulajdonában lévő olyan ingatlant, amely a pályázatban megjelölt cél megvalósításához szükséges.
+(4)[^294] A pályázó saját forrásának lehet tekinteni a tulajdonában lévő pénzügyi eszközöket (amely lehet saját forrásból származó készpénz, valamint e támogatáson kívül más költségvetési forrásból nyújtott támogatás, továbbá hitel), a tulajdonában lévő olyan ingatlant, amely a pályázatban megjelölt cél megvalósításához szükséges.
 
-[^288]: A 27. § (2) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
-[^289]: A 27. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^290]: A 27. § (4) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.
+[^292]: A 27. § (2) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított szöveg.
+[^293]: A 27. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^294]: A 27. § (4) bekezdése az 51/2003. (IV. 9.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított szöveg.

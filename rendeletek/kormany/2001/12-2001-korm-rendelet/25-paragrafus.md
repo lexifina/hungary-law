@@ -1,18 +1,18 @@
-25. § (1)[^272] Az állam megtéríti a hitelintézetnek a 13. § (1) bekezdésében meghatározott, a hitelintézettől felvett és a számviteli törvény rendelkezései szerint behajthatatlanná vált kölcsön, valamint – a tőke összegének legfeljebb felét elérő mértékig – járulékai együttes összegének 80%-át, amennyiben az igénylő a lakáscél megvalósításához az 5. § (4) bekezdése szerinti lakásépítési kedvezményt is igénybe vette.
+25. § (1)[^273] Az állam megtéríti a hitelintézetnek a 13. § (1) bekezdésében meghatározott, a hitelintézettől felvett és a számviteli törvény rendelkezései szerint behajthatatlanná vált kölcsön, valamint – a tőke összegének legfeljebb felét elérő mértékig – járulékai együttes összegének 80%-át, amennyiben az igénylő a lakáscél megvalósításához az 5. § (4) bekezdése szerinti lakásépítési kedvezményt is igénybe vette.
 
-(2)[^273] Az állam megtéríti a hitelintézetnek az 5/A. § szerint a hitelintézettől felvett és a számviteli törvény rendelkezései szerint behajthatatlanná vált megelőlegező kölcsön tőke és járulékai együttes összegét.
+(2)[^274] Az állam megtéríti a hitelintézetnek az 5/A. § szerint a hitelintézettől felvett és a számviteli törvény rendelkezései szerint behajthatatlanná vált megelőlegező kölcsön tőke és járulékai együttes összegét.
 
-(2a)[^274] A (2) bekezdés esetén – amennyiben a lakáscélú állami megtérítési kötelezettség teljesítésének időpontjában a támogatott személynek a megtérítési kötelezettséggel érintett lakásban a tulajdona fennáll – a teljesített megtérítési kötelezettség összegének erejéig, a megtérítési kötelezettség teljesítésének napjától számított 10 évig terjedő időtartamra az állam javára jelzálogjogot és annak biztosítására elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
+(2a)[^275] A (2) bekezdés esetén – amennyiben a lakáscélú állami megtérítési kötelezettség teljesítésének időpontjában a támogatott személynek a megtérítési kötelezettséggel érintett lakásban a tulajdona fennáll – a teljesített megtérítési kötelezettség összegének erejéig, a megtérítési kötelezettség teljesítésének napjától számított 10 évig terjedő időtartamra az állam javára jelzálogjogot és annak biztosítására elidegenítési és terhelési tilalmat kell az ingatlan-nyilvántartásba bejegyezni.
 
-(2b)[^275] A járási hivatal a miniszter által átadott megkeresés alapján, hatósági jogkörben eljárva, határozattal megállapítja a megtérítési kötelezettség teljesítését, majd a határozat véglegessé válását követően megkeresi a támogatott lakás fekvése szerint illetékes járási ingatlanügyi hatóságot az államot megillető jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom megtérítési kötelezettséggel érintett lakásra történő bejegyezése iránt.
+(2b)[^276] A járási hivatal a miniszter által átadott megkeresés alapján, hatósági jogkörben eljárva, határozattal megállapítja a megtérítési kötelezettség teljesítését, majd a határozat véglegessé válását követően megkeresi a támogatott lakás fekvése szerint illetékes járási ingatlanügyi hatóságot az államot megillető jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom megtérítési kötelezettséggel érintett lakásra történő bejegyezése iránt.
 
-(3)[^276] Az 1996. december 31-e előtt hatályban volt jogszabályok alapján megkezdett lakáscélú megtakarítás után igénybe vehető külön kölcsön kamatainak támogatására – a személyes körülményekre vonatkozók kivételével – a 13. § rendelkezéseit kell alkalmazni.
+(3)[^277] Az 1996. december 31-e előtt hatályban volt jogszabályok alapján megkezdett lakáscélú megtakarítás után igénybe vehető külön kölcsön kamatainak támogatására – a személyes körülményekre vonatkozók kivételével – a 13. § rendelkezéseit kell alkalmazni.
 
-(4)[^277] A lakáscélú megtakarítás után igénybe vett külön kölcsönnel összefüggő támogatás másra át nem ruházható, de az adós által épített, vásárolt vagy csereszerződéssel szerzett másik lakásra a kölcsöntartozással együtt átvihető.
+(4)[^278] A lakáscélú megtakarítás után igénybe vett külön kölcsönnel összefüggő támogatás másra át nem ruházható, de az adós által épített, vásárolt vagy csereszerződéssel szerzett másik lakásra a kölcsöntartozással együtt átvihető.
 
-(5)[^278] A hitelintézet a lakáscélra takarékoskodók részére az e minőségükben járó külön kölcsön folyósítását nem tagadhatja meg, ha az adós a támogatások igénybevételével a kölcsön visszafizetésére képes. A lakáscélú betét után igénybe vehető külön kölcsönt a betétet kezelő hitelintézetnek nyújtania kell, de más hitelintézet is nyújthatja.
+(5)[^279] A hitelintézet a lakáscélra takarékoskodók részére az e minőségükben járó külön kölcsön folyósítását nem tagadhatja meg, ha az adós a támogatások igénybevételével a kölcsön visszafizetésére képes. A lakáscélú betét után igénybe vehető külön kölcsönt a betétet kezelő hitelintézetnek nyújtania kell, de más hitelintézet is nyújthatja.
 
-(6)[^279] Építési költség a következő kiadásoknak ténylegesen megfizetett, lakásra jutó hányada:
+(6)[^280] Építési költség a következő kiadásoknak ténylegesen megfizetett, lakásra jutó hányada:
 
 a) a lakás, a lakóépület szerkezetének, közös használatra szolgáló helyiségeinek és központi berendezéseinek építési költségei,
 
@@ -34,11 +34,11 @@ i) az építmény megépítése érdekében felmerült építménybontási költ
 
 j) a telek ára.
 
-[^272]: A 25. § (1) bekezdése a 79/2003. (VI. 6.) Korm. rendelet 13. §-ával megállapított szöveg, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést a 2003. június 16-át követően benyújtott kölcsönkérelmekre kell alkalmazni. A 2003. június 16-a előtt benyújtott kölcsönkérelmek meghatározását a 14. § (2) bekezdése adja meg.
-[^273]: A 25. § új (2) bekezdését a 229/2002. (XI. 7.) Korm. rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti (2)–(5) bekezdés számozását (3)–(6) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit a 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
-[^274]: A 25. § (2a) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 7. §-a iktatta be.
-[^275]: A 25. § (2b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 43. § (5) bekezdés 7. pontja, a 457/2017. (XII. 28.) Korm. rendelet 91. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^276]: A 25. § eredeti (2) bekezdésének számozását a 229/2002. (XI. 7.) Korm. rendelet 4. §-a (3) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
-[^277]: A 25. § eredeti (3) bekezdésének számozását a 229/2002. (XI. 7.) Korm. rendelet 4. §-a (4) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
-[^278]: A 25. § eredeti (4) bekezdésének számozását a 229/2002. (XI. 7.) Korm. rendelet 4. §-a (5) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
-[^279]: A 25. § eredeti (5) bekezdésének számozását a 229/2002. (XI. 7.) Korm. rendelet 4. §-a (6) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
+[^273]: A 25. § (1) bekezdése a 79/2003. (VI. 6.) Korm. rendelet 13. §-ával megállapított szöveg, e módosító rendelet 14. § (1) bekezdése alapján a rendelkezést a 2003. június 16-át követően benyújtott kölcsönkérelmekre kell alkalmazni. A 2003. június 16-a előtt benyújtott kölcsönkérelmek meghatározását a 14. § (2) bekezdése adja meg.
+[^274]: A 25. § új (2) bekezdését a 229/2002. (XI. 7.) Korm. rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti (2)–(5) bekezdés számozását (3)–(6) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit a 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
+[^275]: A 25. § (2a) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 7. §-a iktatta be.
+[^276]: A 25. § (2b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 43. § (5) bekezdés 7. pontja, a 457/2017. (XII. 28.) Korm. rendelet 91. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^277]: A 25. § eredeti (2) bekezdésének számozását a 229/2002. (XI. 7.) Korm. rendelet 4. §-a (3) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
+[^278]: A 25. § eredeti (3) bekezdésének számozását a 229/2002. (XI. 7.) Korm. rendelet 4. §-a (4) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
+[^279]: A 25. § eredeti (4) bekezdésének számozását a 229/2002. (XI. 7.) Korm. rendelet 4. §-a (5) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.
+[^280]: A 25. § eredeti (5) bekezdésének számozását a 229/2002. (XI. 7.) Korm. rendelet 4. §-a (6) bekezdésre változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit 2002. december 1. napját követően megkötött szerződésekre kell alkalmazni.

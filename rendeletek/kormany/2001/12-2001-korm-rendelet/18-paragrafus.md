@@ -48,17 +48,17 @@ qc) az igénylőnek a bejelentés megtörténtét követő 15 nap elteltével te
 
 (5)[^169] A folyósító hitelintézet felelős az állammal szemben minden olyan kárért, amely a jelen rendelet alapján őt terhelő kötelezettség megsértésével keletkezett. A hitelintézet felelőssége kiterjed a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény szerinti függő közvetítőjére is, aki e rendelet szerinti támogatásokra való jogosultság bírálatát, valamint a támogatások nyújtásához kapcsolódó tevékenységet végez. Mentesül a hitelintézet a felelősség alól, ha bizonyítja, hogy maga vagy függő közvetítője, úgy járt el, ahogy az az adott helyzetben tőle elvárható. A hitelintézet felelőssége nem terjed ki a 12. § (11) bekezdése szerinti megfelelőségi igazolás ellenőrzésére.
 
-(6)[^170] A közvetlen támogatásokat, a kamattámogatásokat és a költségtérítést az állam nevében a Kincstár nyújtja a folyósító hitelintézet havi elszámolása alapján.
+(6)[^170]
 
-(7)[^171] A hitelintézet havi rendszerességgel megküldi a Kincstárnak ellenőrzési céllal a 12–13. § szerinti kamattámogatású kölcsönök, a lakásépítési kedvezmény, a lakásépítési kedvezményt megelőlegező kölcsön, a fiatalok otthonteremtési támogatása és az akadálymentesítési támogatás igénybevételéről szóló támogatási szerződések, azok módosítása vagy megszűnése, valamint az új támogatott személyek 19. § (2) bekezdés b) pont ba) alpontja szerinti adatait. A hitelintézet évente, a tárgyévet követő június 30-áig elektronikus úton adatot szolgáltat a Kincstárnak szerződésenként a 12–13. §-ok szerinti támogatott kölcsönök kamatának megfizetéséhez nyújtott állami kamattámogatás összegéről. A hitelintézet a folyósított támogatások összegeiről és a támogatott kölcsönök negyedév végén fennálló állományáról a negyedév utolsó hónapjának elszámolásával egyidejűleg a miniszter részére személyes adatokat nem tartalmazó adatszolgáltatást teljesít. Az adatszolgáltatás kiterjed a hitelintézet által megkötött lakáscélú kölcsönök, lakáscélú támogatások szerződéseinek számára, összegére, fennálló állományára és a lehívott támogatások összegére. Az adatszolgáltatások rendjét a miniszter határozza meg. A hitelintézet a folyósított kamattámogatás éves összegét évente egyszer, az éves elszámolás keretében közli a támogatott személlyel. Az adatszolgáltatások teljesítésének elmaradása esetén a miniszter a támogatás folyósítását felfüggeszti.
+(7)[^171]
 
-(7a)[^172] Az e rendelet szerinti lakáscélú állami támogatásokat is magában foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a Kincstár üzemelteti és fejleszti.
+(7a)[^172]
 
-(7b)[^173] A hitelintézet havi rendszerességgel nyilvántartás céljából megküldi a Kincstárnak az 1. § (2) bekezdés f)–h) pontja szerinti kamattámogatott kölcsönök igénybevételéről szóló szerződések, azok módosítása vagy megszűnése adatait, valamint a támogatás új igénybevevőinek nevét, székhelyét és adószámát, illetve a társasházak nevét, címét, helyrajzi számát és – amennyiben egyéb tevékenységére tekintettel az állami adóhatóságtól ilyet igényelt – adószámát. Az e bekezdésben foglaltak teljesítésének elmaradása esetén a miniszter a támogatás folyósítását felfüggeszti.
+(7b)[^173]
 
-(8)[^174] A hitelintézet (6) bekezdés szerinti elszámolását a Kincstár ellenőrzi.
+(8)[^174]
 
-(9)[^175] Ha a Kincstár a (8) bekezdés szerinti ellenőrzés során a hitelintézet elszámolásában szabálytalanságot tár fel, az elszámolással kapcsolatos követelést a hitelintézettel szemben a polgári jog szabályai szerint érvényesíti és a miniszternél a szerződés felmondását kezdeményezheti.
+(9)[^175]
 
 (10)[^176] Amennyiben a lakáscél közvetlen támogatással illetőleg kamattámogatott kölcsönnel is megvalósítható a hitelintézet átadja az igénylőnek a miniszter által vezetett központi államigazgatási szerv elektronikus úton megküldött tájékoztatóját a hatályos lakástámogatások feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
 
@@ -98,12 +98,12 @@ qc) az igénylőnek a bejelentés megtörténtét követő 15 nap elteltével te
 [^167]: A 18. § (3) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
 [^168]: A 18. § (4) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, szövege a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^169]: A 18. § (5) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 13/2009. (I. 28.) Korm. rendelet 4. § (2) bekezdésének b) pontja, a 257/2011. (XII. 6.) Korm. rendelet 14. § b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 218. § c) pontja szerint módosított szöveg.
-[^170]: A 18. § (6) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. január 1-jét követően benyújtott kérelmekre kell alkalmazni.
-[^171]: A 18. § (7) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 32. § (5) bekezdése alapján a rendelkezést a már folyósított támogatások tekintetében is alkalmazni kell. A (7) bekezdés a 165/2008. (VI. 27.) Korm. rendelet 10. § (3) bekezdés d) pontja, a 70/2015. (III. 30.) Korm. rendelet 48. § (9) bekezdés 15. pontja szerint módosított szöveg.
-[^172]: A 18. § (7a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 48. § (5) bekezdése iktatta be.
-[^173]: A 18. § (7b) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^174]: A 18. § (8) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, szövege a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 345/2013. (IX. 30.) Korm. rendelet 67. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^175]: A 18. § (9) bekezdését a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdése iktatta be, e módosító rendelet 32. § (5) bekezdése alapján a rendelkezést a már folyósított támogatások tekintetében is alkalmazni kell.
+[^170]: A 18. § (6) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 1. § (4) bekezdés a) pontja.
+[^171]: A 18. § (7) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 1. § (4) bekezdés a) pontja.
+[^172]: A 18. § (7a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 48. § (5) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 1. § (4) bekezdés a) pontja.
+[^173]: A 18. § (7b) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 1. § (4) bekezdés a) pontja.
+[^174]: A 18. § (8) bekezdését a 79/2003. (VI. 6.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 1. § (4) bekezdés a) pontja.
+[^175]: A 18. § (9) bekezdését a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 1. § (4) bekezdés a) pontja.
 [^176]: A 18. § (10) bekezdését a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdése iktatta be, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. január 1-jét követően benyújtott kérelmekre kell alkalmazni. A (10) bekezdés a 165/2008. (VI. 27.) Korm. rendelet 10. § (3) bekezdés e) pontja szerint módosított szöveg.
 [^177]: A 18. § (11) bekezdését a 391/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 257/2011. (XII. 6.) Korm. rendelet 14. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 43. § (5) bekezdés 8. pontja szerint módosított szöveg.
 [^178]: A 18. § (11a) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 12. § (2) bekezdése iktatta be.
