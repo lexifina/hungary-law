@@ -1,23 +1,18 @@
-## 7. §[^7]
+## 7. §[^6]
 
 ## 8. § Az R.
 
-a)[^8]
+a)[^7]
 
-b)[^9]
+b) 22. § (2a) bekezdésében a „névleges” szövegrész helyébe a „túlnyomással korrigált névleges” szöveg,
 
-c)[^10]
+c) 23. § (2a) pontjában a „valamely nap esetén” szövegrész helyébe a „legalább egy gáznapon”, a „napra” szövegrész helyébe a „gáznapra” szöveg,
 
-d)[^11]
+d) 23. § (2a) pont a) alpontjában a „210” szövegrész helyébe a „190” szöveg,
 
-e)[^12]
+e) 23. § (2a) pont b) alpontjában az „1050” szövegrész helyébe a „950” szöveg,
 
-f)[^13]
+f) 23. § (2a) pont c) alpontjában az „5250” szövegrész helyébe a „4750” szöveg
 
-[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 8. § b) pontja a 10. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^10]: A 8. § c) pontja a 10. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^11]: A 8. § d) pontja a 10. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^12]: A 8. § e) pontja a 10. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
-[^13]: A 8. § f) pontja a 10. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+[^6]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 4. §[^4]
+## 4. § Az R. 23. § (2b) bekezdése helyébe a következő rendelkezés lép:
 
-[^4]: A 4. § a 10. § (2) bekezdése alapján 2019. október 1-jén lép hatályba.
+## „(2b) A földgázelosztó a (2a) bekezdésben szereplő feltétel teljesülését az adott gázév április 30-áig ellenőrzi. A felhasználó a (2a) bekezdésben szereplő feltétel nem teljesülése esetén a (2a) bekezdésben szereplő feltételhez tartozó éves díjat pótdíjként köteles megfizetni a földgázelosztó részére az adott gázév június 30-áig. Az így meghatározott pótdíj és a rendszerhasználó lekötése alapján számlázott kapacitásdíj együttes összege nem haladhatja meg a (2a) bekezdés szerinti kategóriánkénti minimális lekötés alapján meghatározott éves díjat.”
