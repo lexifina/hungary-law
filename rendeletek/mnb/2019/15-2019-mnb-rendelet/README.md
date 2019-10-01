@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-15-20-2
 | 2019-04-19 | 2019-15-20-2C.2 | 2010: CXXX. törvény |
 | 2019-07-01 | 2019-15-20-2C.3 | 2010: CXXX. törvény |
 | 2019-07-02 | 2019-15-20-2C.4 | 2010: CXXX. törvény |
+| 2019-10-01 | 2019-15-20-2C.5 | 2010: CXXX. törvény |
