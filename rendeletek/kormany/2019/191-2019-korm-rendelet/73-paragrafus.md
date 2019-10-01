@@ -1,4 +1,4 @@
-## 72. §[^80]
+## 72. §[^78]
 
 ## 10. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 40. § (1) és (2) bekezdése, a 43. § és a 65. § 2020. szeptember 1-jén lép hatályba.
 
-[^80]: A 72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 72. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
