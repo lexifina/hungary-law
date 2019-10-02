@@ -18,7 +18,7 @@
 
 9.
 
-10. 100/A. § (2) bekezdés b) pont ba) alpontjában a „10 m3/óra feletti” szövegrész helyébe a „10 m3/óra és az a feletti” szöveg,
+10.
 
 11.
 
