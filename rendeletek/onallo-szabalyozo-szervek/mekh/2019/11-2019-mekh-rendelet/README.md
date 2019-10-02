@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-11-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-10-01 | 2019-11-20-5Z.1 | 11/2019. (IX. 12.) MEKH rendelet |
+| 2019-10-02 | 2019-11-20-5Z.2 | 2010: CXXX. törvény |

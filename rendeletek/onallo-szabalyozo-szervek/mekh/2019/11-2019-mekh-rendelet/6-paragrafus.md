@@ -1,3 +1,5 @@
-## 5. § Hatályát veszti a rendszerüzemeltetési díjból származó árbevétel megosztására vonatkozó kiegyenlítő fizetésekről szóló 1/2015. (II. 13.) MEKH rendelet.
+## 5. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
