@@ -1,3 +1,3 @@
-## 2. § A Korm. rendelet 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „(3) Az ügyfél részére lejárati határidő nélkül kell kiállítani az igazolványt, ha a kérelemhez mellékelt, az 1. számú melléklet szerinti irat alapján a mozgásában korlátozott személy állapota végleges.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
