@@ -1,3 +1,3 @@
-## 4. § Az R. 14. §-a a következő (3a) bekezdéssel egészül ki:
+## 4. §[^9]
 
-## „(3a) A (2) bekezdés szerinti, nem szállítási szolgáltatások körébe tartozó szolgáltatások díját meghatározó módszertant a referenciaár-módszertan tartalmazza.”
+[^9]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

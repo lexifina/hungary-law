@@ -1,3 +1,3 @@
-## 13. §[^7]
+## 13. §[^20]
 
-[^7]: A 13. § a 11/2019. (IX. 12.) MEKH rendelet 7. §-a alapján nem lép hatályba.
+[^20]: A 13. § a 11/2019. (IX. 12.) MEKH rendelet 7. §-a alapján nem lép hatályba.

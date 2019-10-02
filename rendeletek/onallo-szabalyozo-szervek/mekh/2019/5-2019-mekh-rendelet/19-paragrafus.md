@@ -1,7 +1,3 @@
-## 18. § Az R2. 5. melléklete az 1. melléklet szerint módosul.
+## 18. §[^31]
 
-## 19. § Hatályát veszti az R2.
-
-a) 9. § (7) és (8) bekezdése,
-
-b) 15. §-ában az „és napon belüli” szövegrész.
+[^31]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

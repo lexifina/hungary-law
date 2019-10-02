@@ -1,3 +1,3 @@
-## 5. § Az R. 15. §-a a következő (4a) bekezdéssel egészül ki:
+## 5. §[^10]
 
-## „(4a) A szállítási csatlakozási díjak meghatározásának módszertanát a referenciaár-módszertan tartalmazza.”
+[^10]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

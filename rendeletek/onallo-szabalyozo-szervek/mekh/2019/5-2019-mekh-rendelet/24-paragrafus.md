@@ -1,1 +1,3 @@
-## 23. § Az R3. 4. § (3) bekezdésében a „GET” szövegrész helyébe az „a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET)” szöveg lép.
+## 23. §[^36]
+
+[^36]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 20. § A földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló 13/2016. (XII. 20.) MEKH rendelet (a továbbiakban: R3) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 20. §[^33]
 
-## „(2) Az e rendeletben alkalmazott fogalmakat a földgáz rendszerhasználati díjak, a külön díjak, valamint a csatlakozási díjak alkalmazásának szabályairól szóló 11/2016. (XI. 14.) MEKH rendelet (a továbbiakban: Áralkalmazási rendelet), továbbá a földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet és a felhatalmazása alapján kiadott általános hatályú közvetlenül alkalmazandó uniós jogi rendelkezések szerint kell értelmezni.”
+[^33]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
