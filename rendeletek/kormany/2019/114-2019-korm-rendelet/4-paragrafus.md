@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti a Korm. rendelet 16/A. § (4) bekezdés b) pontjában a „lakcímét igazoló hatósági igazolványát” szövegrész.
+## 1–3. §[^2]
 
 4. § Ez a rendelet 2019. október 1-jén lép hatályba.
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
