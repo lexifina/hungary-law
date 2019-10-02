@@ -4,12 +4,7 @@
 
 34. § (1)[^8]
 
-(2) Hatályát veszti
-
-a) a 7. alcím;
-
-b) a 8. alcím;
-
-c) a 2. melléklet.
+(2)[^9]
 
 [^8]: A 34. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 34. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
