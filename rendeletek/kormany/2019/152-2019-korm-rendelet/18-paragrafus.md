@@ -1,5 +1,3 @@
-## 17. § Az R3. a következő 61. §-sal egészül ki:
+## 17. §[^7]
 
-## „61. § (1) Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr3.) és a Módr4. 15. §-a hatálybalépését követően a Módr3. által megállapított 13. és 14. alcímben és a Módr4. 15. §-a által megállapított 51. §-ban foglaltak szerint kell teljesíteni.
-
-## (2) A hitelintézet 2020. június 30. napjáig az e rendelet szerinti kamattámogatás 2019. évre vonatkozó, a Módr3. és a Módr4. hatálybalépésének napjáig a központi költségvetés által megtérített összegéről az eAdaton található útmutató szerinti formában adatot szolgáltat a Kincstárnak.”
+[^7]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
