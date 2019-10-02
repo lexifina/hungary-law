@@ -1,5 +1,7 @@
-## „30. § Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr1.) hatálybalépését követően a Módr1. által megállapított 9. és 10. alcímben foglaltak szerint kell teljesíteni.”
+## 8. §[^9]
 
 ## 9. Záró rendelkezések
 
 9. § Ez a rendelet 2019. október 1-jén lép hatályba.
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
