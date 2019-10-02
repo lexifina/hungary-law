@@ -1,7 +1,9 @@
-## „f) a beruházó a támogatási szerződésben számszerűen rögzített, a 14. § (1) bekezdés b) és c) pontjában meghatározott árbevételre vagy bértömegre vonatkozó jogosultsági feltételnek minősülő kötelezettségét nem teljesíti a kötelező üzemeltetési időszakban.”
+## 12. §[^8]
 
-13. § (1)[^4]
+13. § (1)[^9]
 
-(2) A Korm. rendelet 17. alcíme a következő 29/G. §-sal egészül ki:
+(2)[^10]
 
-[^4]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 13. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

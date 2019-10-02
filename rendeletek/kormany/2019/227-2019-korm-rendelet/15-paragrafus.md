@@ -1,11 +1,9 @@
-## lép.
+## 15. §[^15]
 
-## 15. § Hatályát veszti a Korm. rendelet
+a)–b)[^16]
 
-a) 11. § (2) bekezdése,
+c)[^17]
 
-b) 14. § (5) bekezdése,
-
-c)[^7]
-
-[^7]: A 15. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 15. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 15. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 15. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
