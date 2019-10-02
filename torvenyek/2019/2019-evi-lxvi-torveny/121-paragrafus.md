@@ -1,3 +1,1 @@
-121. § Az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 13. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az egyesülni kívánó jogi személyek és az egyesüléssel létrejövő jogi személy vonatkozásában is készíteni kell vagyonleltár-tervezetekkel alátámasztott vagyonmérleg-tervezeteket. Ha az egyesüléssel érintett jogi személyek legalább egyike a számviteli törvény előírása alapján könyvvizsgálatra kötelezett jogi személy, valamennyi vagyonmérleg-tervezetet és vagyonleltár-tervezetet könyvvizsgálóval ellenőriztetni kell. Az egyesüléssel érintett jogi személyek döntése alapján a vagyonmérleg-tervezetek és vagyonleltár-tervezetek ellenőrzése során valamennyi jogi személy esetében eljárhat ugyanaz a könyvvizsgáló.”
+121. §
