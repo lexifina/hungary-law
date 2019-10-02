@@ -1,18 +1,24 @@
-## 7. §[^6]
+## 7. §[^8]
 
-## 8. § Az R.
+## 8. §[^9]
 
-a)[^7]
+a)[^10]
 
-b) 22. § (2a) bekezdésében a „névleges” szövegrész helyébe a „túlnyomással korrigált névleges” szöveg,
+b)[^11]
 
-c) 23. § (2a) pontjában a „valamely nap esetén” szövegrész helyébe a „legalább egy gáznapon”, a „napra” szövegrész helyébe a „gáznapra” szöveg,
+c)[^12]
 
-d) 23. § (2a) pont a) alpontjában a „210” szövegrész helyébe a „190” szöveg,
+d)[^13]
 
-e) 23. § (2a) pont b) alpontjában az „1050” szövegrész helyébe a „950” szöveg,
+e)[^14]
 
-f) 23. § (2a) pont c) alpontjában az „5250” szövegrész helyébe a „4750” szöveg
+f)[^15]
 
-[^6]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 8. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 8. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 8. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 8. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 8. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
