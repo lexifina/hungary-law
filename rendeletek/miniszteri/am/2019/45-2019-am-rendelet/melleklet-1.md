@@ -1,4 +1,4 @@
-## 58. §[^18]
+## 58. §[^1]
 
 1. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
@@ -106,4 +106,4 @@
 
 14.2. Hibridek: 25 ikrás és 25 tejes törzskönyvi ellenőrzés alatt álló elit szülőpár vonalanként.
 
-[^18]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

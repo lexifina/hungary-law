@@ -1,5 +1,11 @@
-## 15–19. §[^5]
-
 ## 4. Az embrióátültető állomás üzemeltetése
 
-[^5]: A 15–19. § az 55. § (2) bekezdése alapján 2019. október 3-án lép hatályba.
+## 20. § Az embrióátültető állomásnak
+
+a) rendelkeznie kell a 10. melléklet szerinti személyi és műszaki feltételekkel,
+
+b) biztosítania kell a működés és az állatok állategészségügyi felügyeletét,
+
+c) tevékenységét az állatfajta tenyésztési programjának figyelembevételével kell végeznie, valamint
+
+d) igazolnia kell, hogy donor és recipiens állománya, amennyiben a telephelyén azzal rendelkezik, megfelel az állategészségügyi és tenyésztéshigiéniai előírásoknak.

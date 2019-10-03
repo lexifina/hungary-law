@@ -1,0 +1,3 @@
+26. § (1) A spermatároló központban kizárólag a 2016/1012/EU európai parlamenti és tanácsi rendeletben, az Átr.-ben, e rendeletben, valamint a tenyésztőszervezet jóváhagyott tenyésztési programjában meghatározottak szerinti, mesterséges termékenyítési engedéllyel rendelkező apaállattól származó sperma helyezhető el.
+
+(2) Az Európai Unió más tagállamából és harmadik országból történő beszállításból származó sperma esetén az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa, valamint az Átr. szerint kell a forgalomba hozhatóságot megállapítani és a honosítási eljárást lefolytatni.

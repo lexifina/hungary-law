@@ -1,0 +1,5 @@
+45. § (1) A magyar ebfajta megőrzését szolgáló tenyésztési program végrehajtásáért felelős tenyésztőszervezet – mint fajtafenntartó – gondoskodik az ebfajta származási, tenyésztési és teljesítményvizsgálati adatainak gyűjtéséről, feldolgozásáról és nyilvántartásáról.
+
+(2) A magyar ebfajták törzskönyvezendő egyedeinek származását DNS alapú származásellenőrzéssel kell igazolni, amelynek elvégzését a fajta fenntartásáért felelős tenyésztőszervezet tenyésztési programjával összhangban koordinálja. Amennyiben a DNS alapú származásellenőrzés a nőivarú szülőnek a kölykök egyedi azonosítása előtt történő elhullása miatt nem lehetséges, a tenyésztőszervezet a tenyésztési programjában előírt dokumentumok alapján – például fedeztetési, ellési bizonylatok, szülők származási igazolása – állítja ki a kölykök részére a származási igazolást.
+
+(3) A fajta fenntartásáért felelős tenyésztőszervezetnek törekednie kell arra, hogy a tenyésztésbe vont állatok számát a 17. mellékletben meghatározott kritikus szint felett tartsa.
