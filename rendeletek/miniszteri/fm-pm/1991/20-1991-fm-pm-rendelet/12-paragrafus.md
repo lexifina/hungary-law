@@ -1,10 +1,10 @@
-## 11. §
+## 11. §[^10]
 
-## A földművelésügyi és vidékfejlesztési miniszter a versenyek tisztaságának ellenőrzésére, felügyeletére létrehozza a Lóversenyzést Felügyelő Bizottságot (a továbbiakban: Bizottság) és a versenyzsűrit (versenyintézőséget).
+## Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) a versenyek tisztaságának ellenőrzésére, felügyeletére létrehozza a Lóversenyzést Felügyelő Bizottságot (a továbbiakban: Bizottság) és a versenyzsűrit (versenyintézőséget).
 
 ## 12. §
 
-(1)[^2] A Bizottság 5—9 főből áll, elnöke a földművelésügyi és vidékfejlesztési miniszter megbízottja, tagjait a földművelésügyi és vidékfejlesztési miniszter kéri fel.
+(1)[^11] A Bizottság 5—9 főből áll, elnöke a miniszter megbízottja, tagjait a miniszter kéri fel.
 
 (2) A Bizottság tevékenysége a rendelet 1. §-ának (2) bekezdése a)—e) pontjában foglaltakra terjed ki.
 
@@ -20,7 +20,8 @@ d) kiadja a működési, versenyzési engedélyeket (zsokék, hajtók, idomárok
 
 (3) A Bizottság dönt a versenyzsűri döntései ellen benyújtott fellebbezések ügyében.
 
-(4)[^3] A Bizottság tagjai és közeli hozzátartozóik nem köthetnek fogadást.
+(4)[^12] A Bizottság tagjai és közeli hozzátartozóik nem köthetnek fogadást.
 
-[^2]: A 12. § (1) és (3) bekezdése a 23/1991. (XII. 4.) FM-PM együttes rendelet 2. §-ával megállapított szöveg.
-[^3]: A 12. § (4) bekezdése a 23/1991. (XII. 4.) FM-PM együttes rendelet 4. §-a szerint módosított szöveg.
+[^10]: A 11. § a 45/2019. (IX. 25.) AM rendelet 57. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 12. § (1) és (3) bekezdése a 23/1991. (XII. 4.) FM-PM együttes rendelet 2. §-ával megállapított, a 45/2019. (IX. 25.) AM rendelet 57. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 12. § (4) bekezdése a 23/1991. (XII. 4.) FM-PM együttes rendelet 4. §-a szerint módosított szöveg.
