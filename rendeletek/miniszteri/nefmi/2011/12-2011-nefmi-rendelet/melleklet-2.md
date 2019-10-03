@@ -122,7 +122,9 @@
 
 ## 61. Védőnő (területi, iskolai, kórházi, családvédelmi) tagozat/tanács (15 fő)
 
-2. melléklet a 12/2011. (III. 30.) NEFMI rendelethez[^44]
+## 62.[^48] Humán reprodukciós tagozat/tanács (10 fő)
+
+2. melléklet a 12/2011. (III. 30.) NEFMI rendelethez[^49]
 
 |  | A | B |
 
@@ -150,4 +152,5 @@
 
 | 11 | Országos Sportegészségügyi Intézet | Sportegészségügy tagozat |
 
-[^44]: A 2. mellékletet a 47/2018. (XII. 21.) EMMI rendelet 2. § (6) bekezdése iktatta be.
+[^48]: Az 1. melléklet 62. pontját a 21/2019. (IX. 25.) EMMI rendelet 2. §-a iktatta be.
+[^49]: A 2. mellékletet a 47/2018. (XII. 21.) EMMI rendelet 2. § (6) bekezdése iktatta be.
