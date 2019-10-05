@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-85-20-2
 | 2017-11-01 | 2007-85-20-22.29 | 172/2010. (V. 13.) Korm. rendelet |
 | 2019-02-06 | 2007-85-20-22.30 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2019-07-01 | 2007-85-20-22.31 | 301/2007. (XI. 9.) Korm. rendelet |
+| 2019-10-05 | 2007-85-20-22.32 | 120/2012. (VI. 26.) Korm. rendelet |

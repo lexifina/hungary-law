@@ -78,7 +78,7 @@
 
 | 38. | költségvetési szerv foglalkoztatottja (évente 12 alkalommal menettérti utazásra) | 7. § (1) bekezdés a) pontja | 50% | – | – |
 
-| 39. | belső egyházi jogi személyek, a társadalmi szervezetek, továbbá az alapítványok dolgozója (évente 12 alkalommal menettérti utazásra) | 7. § (1) bekezdés b) pontja | 50% | – | – |
+| 39. | egyházi jogi személyek, a társadalmi szervezetek, továbbá az alapítványok dolgozója (évente 12 alkalommal menettérti utazásra) | 7. § (1) bekezdés b) pontja | 50% | – | – |
 
 | 40. | Fogyatékos személyek utazási kedvezménye |
 
