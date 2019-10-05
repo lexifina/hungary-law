@@ -6,7 +6,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 1.1. Állami fenntartó esetén csatolni kell a társulási szerződés másolatát, ha a fenntartó helyi önkormányzatok társulása.
 
-1.2. A bevett egyházak nyilvántartásában nem szereplő belső egyházi jogi személy fenntartó esetén csatolni kell a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolás másolatát.
+1.2. Nyilvántartásba nem vett belső egyházi jogi személy fenntartó esetén csatolni kell a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 18. § (3) bekezdése szerinti igazolás másolatát.
 
 2. A szolgáltatással kapcsolatos iratok:
 
@@ -118,4 +118,4 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 3.3.3. a 2.1.5. és a 2.1.6. pont szerinti iratot abban az esetben kell csatolni, ha az engedélyes által nyújtott szolgáltatásra megkötött ellátási szerződés, illetve az Szt. 90. § (4) bekezdése szerinti megállapodás az időszakos férőhelyekre nem terjedt ki.
 
-[^163]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át. Az 5. melléklet a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja, a 305/2018. (XII. 27.) Korm. rendelet 19. § d) és e) pontja szerint módosított szöveg.
+[^163]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át. Az 5. melléklet a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja, a 305/2018. (XII. 27.) Korm. rendelet 19. § d) és e) pontja, a 232/2019. (X. 4.) Korm. rendelet 16. §-a szerint módosított szöveg.
