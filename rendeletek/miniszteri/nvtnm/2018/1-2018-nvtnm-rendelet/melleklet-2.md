@@ -90,7 +90,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Magyar Gáz Tranzit Zártkörűen Működő Részvénytársaság | 01-10-047258 | 2022. december 31. |
+| 1. |  |  |  |
 
 | 2. | NETI Informatikai Tanácsadó Korlátolt Felelősségű Társaság | 01-09-264449 | 2022. december 31. |
 
