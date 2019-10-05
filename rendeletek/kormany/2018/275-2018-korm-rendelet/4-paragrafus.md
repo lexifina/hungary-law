@@ -20,7 +20,7 @@ i) az Iasz. 96. § (1) bekezdése szerinti illetményt,
 
 j) az Üjt. 59. § (2) bekezdése, 114. § (1) bekezdése és 135. § (1) bekezdése szerinti illetményt,
 
-k) az Mt. hatálya alá tartozó, az egyházak közcélú tevékenységet folytató intézményeinél és az országos nemzetiségi önkormányzat hivatalánál, illetve az országos és a helyi nemzetiségi önkormányzat költségvetési szerveinél foglalkoztatott munkavállalók alapbérét és rendszeres bérpótlékait,
+k)[^2] az Mt. hatálya alá tartozó, a közcélú tevékenységet folytató egyházi intézményeknél és az országos nemzetiségi önkormányzat hivatalánál, illetve az országos és a helyi nemzetiségi önkormányzat költségvetési szerveinél foglalkoztatott munkavállalók alapbérét és rendszeres bérpótlékait,
 
 l) a Gyvt. 66/H. § (3)–(5) bekezdése szerinti díjazást,
 
@@ -46,7 +46,7 @@ d) az egészségügyi szolgáltatások Egészségbiztosítási Alapból történ
 
 a) az Eütev. 11/A. § (4) bekezdése alapján járó növelésnek kell tekinteni az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet [a továbbiakban: 256/2013. (VII. 5.) Korm. rendelet] 3. melléklete, 11. melléklete és 12. melléklete alapján számított összeget,
 
-b)[^2] az Eütev. 11/A. § (5) bekezdése alapján járó növelésnek kell tekinteni a 256/2013. (VII. 5.) Korm. rendelet 3. melléklete, 9. melléklete, 11. melléklete, 14. melléklete és 16. melléklete alapján számított összeget,
+b)[^3] az Eütev. 11/A. § (5) bekezdése alapján járó növelésnek kell tekinteni a 256/2013. (VII. 5.) Korm. rendelet 3. melléklete, 9. melléklete, 11. melléklete, 14. melléklete és 16. melléklete alapján számított összeget,
 
 c) az Eütev. 11/A. § (6) bekezdése alapján járó növelésnek kell tekinteni az Eütev. 11/A. § (6) bekezdése és a 256/2013. (VII. 5.) Korm. rendelet 6. melléklete, vagy az Eütev. 11/A. § (6) bekezdése és a 256/2013. (VII. 5.) Korm. rendelet 8. melléklete alapján számított összeget,
 
@@ -56,4 +56,5 @@ d) az Eütev. 11/A. § (6a) bekezdése alapján járó növelésnek kell tekinte
 
 (5) A kompenzáció a személyi jövedelemadó-előleg megállapításánál nem rendszeres jövedelemnek minősül, és a költségvetési rend szerint foglalkoztatottak egyéb személyi juttatásaiként kell elszámolni. A kifizetés a statisztikai elszámolásokban a szociális költségek között kerül figyelembevételre.
 
-[^2]: A 4. § (4) bekezdés b) pontja a 139/2019. (VI. 14.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdés k) pontja a 232/2019. (X. 4.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^3]: A 4. § (4) bekezdés b) pontja a 139/2019. (VI. 14.) Korm. rendelet 11. §-a szerint módosított szöveg.
