@@ -4,7 +4,7 @@
 
 a) helyi vagy kisebbségi önkormányzat vagy azok társulása,
 
-b)[^68] vallási közösség, civil szervezet,
+b)[^68] jogi személyiséggel rendelkező vallási közösség, civil szervezet,
 
 c) költségvetési szerv, vagy
 
@@ -15,4 +15,4 @@ d) nonprofit gazdasági társaság
 (3) Közhasznú kölcsönző a közfoglalkoztatottak tekintetében külföldre irányuló munkaerő-kölcsönzési tevékenységet nem folytathat.
 
 [^67]: A 17/D. §-t a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
-[^68]: A 17/D. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^68]: A 17/D. § (2) bekezdés b) pontja a 232/2019. (X. 4.) Korm. rendelet 4. §-a szerint módosított szöveg.
