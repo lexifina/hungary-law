@@ -1,3 +1,3 @@
-95/A. §[^316]
+95/A. §[^317]
 
-[^316]: A 95/A. §-t a 113/2016. (V. 30.) Korm. rendelet 41. §-a iktatta be, a 277/2018. (XII. 21.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^317]: A 95/A. §-t a 113/2016. (V. 30.) Korm. rendelet 41. §-a iktatta be, a 277/2018. (XII. 21.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.

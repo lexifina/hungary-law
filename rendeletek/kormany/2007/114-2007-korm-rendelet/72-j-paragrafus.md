@@ -1,6 +1,6 @@
-## A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására és a mobilitásra vonatkozó szabályok[^248]
+## A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására és a mobilitásra vonatkozó szabályok[^249]
 
-72/J. §[^249] (1) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárásban a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása a harmadik országbeli állampolgár és a harmadik országban letelepedett vállalkozás között fennálló munkaszerződéssel vagy megbízólevéllel igazolható, amely tartalmazza a Tv. 20/E. § (1) bekezdés c) pontjában meghatározott időtartamot.
+72/J. §[^250] (1) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárásban a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása a harmadik országbeli állampolgár és a harmadik országban letelepedett vállalkozás között fennálló munkaszerződéssel vagy megbízólevéllel igazolható, amely tartalmazza a Tv. 20/E. § (1) bekezdés c) pontjában meghatározott időtartamot.
 
 (2) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló kérelemhez – a 47. § (7) és (8) bekezdésében foglaltak mellett – mellékelni kell:
 
@@ -30,5 +30,5 @@ három hónapnál hosszabb ideig részesül.
 
 (7) A vállalaton belüli áthelyezés célú tartózkodási engedély kiadására irányuló eljárás során az összevont engedély kiadásáig a harmadik országbeli állampolgár haladéktalanul értesíti az illetékes regionális igazgatóságot a kérelemhez mellékelt okiratok tartalmában bekövetkezett változásról.
 
-[^248]: A 72/J. §-t megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
-[^249]: A 72/J. §-t a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
+[^249]: A 72/J. §-t megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
+[^250]: A 72/J. §-t a 113/2016. (V. 30.) Korm. rendelet 36. §-a iktatta be.
