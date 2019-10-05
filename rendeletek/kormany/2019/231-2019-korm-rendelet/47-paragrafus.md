@@ -1,0 +1,1 @@
+## 46. § E rendelet rendelkezéseit – a 47. §-ban meghatározott kivétellel – a hatálybalépése előtt benyújtott kérelemre indult vallási egyesület, nyilvántartásba vett egyház és a bejegyzett egyház nyilvántartásba vételére, valamint a változásbejegyzésre és törlésre irányuló eljárásokban is alkalmazni kell.

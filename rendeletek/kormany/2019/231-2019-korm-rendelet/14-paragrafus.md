@@ -1,0 +1,1 @@
+## 13. § A bevett egyházak és belső egyházi jogi személyeik nyilvántartásba bejegyzett adatai a Miniszterelnökség honlapján (a továbbiakban: honlapon) ingyenesen és bárki számára korlátozásmentesen hozzáférhetőek, és a bevett egyház neve, nyilvántartási száma szerint kereshetőek.
