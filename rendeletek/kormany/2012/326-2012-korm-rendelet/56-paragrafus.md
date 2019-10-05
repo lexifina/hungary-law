@@ -14,6 +14,6 @@ c) a projekt elszámolható összköltsége az általános forgalmi adó mérté
 
 (5) Ha a támogatott tevékenység összköltsége csökken a tervezetthez képest, a támogatás összegét az összköltség csökkenésének arányában csökkenteni kell, több forrás esetén az eredeti arányoknak megfelelően.
 
-(6)[^74] A módosítás nem irányulhat a pályázati felhívásban meghatározott pénznem átváltására.
+(6)[^75] A módosítás nem irányulhat a pályázati felhívásban meghatározott pénznem átváltására.
 
-[^74]: Az 56. § (6) bekezdését a 35/2016. (II. 29.) Korm. rendelet 23. §-a iktatta be.
+[^75]: Az 56. § (6) bekezdését a 35/2016. (II. 29.) Korm. rendelet 23. §-a iktatta be.

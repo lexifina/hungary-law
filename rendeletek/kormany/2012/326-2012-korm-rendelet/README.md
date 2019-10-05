@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-326-20-
 | 2016-09-28 | 2012-326-20-22.7 | 293/2016. (IX. 27.) Korm. rendelet |
 | 2017-03-21 | 2012-326-20-22.8 | 51/2017. (III. 20.) Korm. rendelet |
 | 2018-01-01 | 2012-326-20-22.9 | 297/2013. (VII. 29.) Korm. rendelet |
+| 2019-10-05 | 2012-326-20-22.10 | 232/2019. (X. 4.) Korm. rendelet |

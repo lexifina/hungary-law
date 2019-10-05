@@ -1,4 +1,4 @@
-76. § (1)[^104] A támogatást igénylő, illetve a kedvezményezett legalább 30 nappal a közbeszerzési eljárás megindítása előtt megküldi a hitelesítést végző szerv részére a közbeszerzési eljárás dokumentumait minőségellenőrzés céljából.
+76. § (1)[^105] A támogatást igénylő, illetve a kedvezményezett legalább 30 nappal a közbeszerzési eljárás megindítása előtt megküldi a hitelesítést végző szerv részére a közbeszerzési eljárás dokumentumait minőségellenőrzés céljából.
 
 (2) A hitelesítést végző szerv a közbeszerzési eljárás dokumentumainak beérkezésétől számított 7 napon belül elvégzi a közbeszerzési eljárás dokumentumainak minőségellenőrzését és az erről készített minőségellenőrzési jelentését a támogatást igénylő, illetve a kedvezményezett részére megküldi. A hitelesítést végző szerv a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb 7 nappal meghosszabbíthatja.
 
@@ -12,4 +12,4 @@
 
 (7) A támogatást igénylő, illetve a kedvezményezett az eljárás megindításával egyidejűleg az eljárást megindító végleges dokumentumot a hitelesítést végző szerv részére megküldi. A hitelesítést végző szerv egyet nem értése esetén dönt a szabálytalansági eljárás lefolytatásáról, illetve jogorvoslati eljárás kezdeményezéséről.
 
-[^104]: A 76. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^105]: A 76. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 32. §-ával megállapított szöveg.

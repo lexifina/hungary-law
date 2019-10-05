@@ -118,7 +118,7 @@
 
 57. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
 
-58. nem kormányzati szervezet: önálló jogi személyiséggel bíró, nonprofit, önkéntes, nem kereskedelmi célú, a helyi önkormányzatoktól, a központi kormányzattól, az állam- és közigazgatás szerveitől, politikai pártoktól és kereskedelmi szervezetektől független szervezet, ide nem értve a vallási szervezeteket és a politikai pártokat,
+58.[^3] nem kormányzati szervezet: önálló jogi személyiséggel bíró, nonprofit, önkéntes, nem kereskedelmi célú, a helyi önkormányzatoktól, a központi kormányzattól, az állam- és közigazgatás szerveitől, politikai pártoktól és kereskedelmi szervezetektől független szervezet, ide nem értve a vallási közösségeket és a politikai pártokat,
 
 59. nemzeti kapcsolattartó: az együttműködési megállapodásokban kijelölt, a donor országokkal való kapcsolattartásért és a finanszírozási mechanizmusok szabályszerű végrehajtásáért felelős nemzeti szintű szerv,
 
@@ -136,7 +136,7 @@
 
 66. program előkészítési költség: a programok tervezési feladataival összefüggésben felmerülő költségek finanszírozására szolgáló pénzügyi forrás az egyes programok költségvetésén belül, a programdokumentumok donor országok általi jóváhagyásáig,
 
-66a.[^3] program fenntartási időszak: az adott program tekintetében az első projektzáró jelentés program operátor általi elfogadásának napjától az utolsó projekt fenntartási időszakának lejártát követő 90. napig tartó időszak,
+66a.[^4] program fenntartási időszak: az adott program tekintetében az első projektzáró jelentés program operátor általi elfogadásának napjától az utolsó projekt fenntartási időszakának lejártát követő 90. napig tartó időszak,
 
 67. program megállapodás: a donor országok és a nemzeti kapcsolattartó közötti megállapodás, amely felhatalmazást ad a donor országok által jóváhagyott program megvalósítására,
 
@@ -150,7 +150,7 @@
 
 72. projekt: a finanszírozási mechanizmusok keretében támogatásban részesülő, meghatározott célra rendelt feladatok egy egységet képező sorozata,
 
-72a.[^4] projekt fenntartási időszak: a projektzáró jelentés program operátor általi elfogadásának napjától kezdődő, a támogatási szerződésben nevesített időtartamig tartó időszak,
+72a.[^5] projekt fenntartási időszak: a projektzáró jelentés program operátor általi elfogadásának napjától kezdődő, a támogatási szerződésben nevesített időtartamig tartó időszak,
 
 73. projektgazda: a projekt kezdeményezéséért, előkészítéséért és végrehajtásáért felelős támogatásban részesülő támogatást igénylő,
 
@@ -198,7 +198,7 @@
 
 95. technikai segítségnyújtás: a finanszírozási mechanizmusok irányítási és kontrollrendszerének kiépítésére és működtetésére szolgáló támogatási forrás,
 
-95a.[^5] technikai segítségnyújtás megállapodásáról szóló szerződés: a donor országok és a kedvezményezett ország közötti, a technikai segítségnyújtás forrás felhasználásáról szóló megállapodás,
+95a.[^6] technikai segítségnyújtás megállapodásáról szóló szerződés: a donor országok és a kedvezményezett ország közötti, a technikai segítségnyújtás forrás felhasználásáról szóló megállapodás,
 
 96. tényfeltáró látogatás: a költségigazolás alátámasztása érdekében az igazoló hatóság által a hitelesítést végző szervnél végzett, az eljárások megfelelőségének vizsgálatára irányuló helyszíni ellenőrzés,
 
@@ -211,6 +211,7 @@
 100. végrehajtó ügynökség: a finanszírozási mechanizmusok és egyes programjai végrehajtásában a nemzeti kapcsolattartóval, illetve a program operátorokkal kötött megállapodások alapján közreműködő szerv.
 
 [^2]: A 3. § a 35/2016. (II. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^3]: A 3. § 66a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^4]: A 3. § 72a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: A 3. § 95a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^3]: A 3. § 58. pontja a 232/2019. (X. 4.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^4]: A 3. § 66a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^5]: A 3. § 72a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 3. § 95a. pontját az 51/2017. (III. 20.) Korm. rendelet 2. § (3) bekezdése iktatta be.

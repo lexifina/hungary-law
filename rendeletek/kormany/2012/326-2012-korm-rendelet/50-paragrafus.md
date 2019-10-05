@@ -1,6 +1,6 @@
 ## 18. Támogatási szerződés megkötése
 
-50. § (1)[^58] A támogatási döntés alapján a támogató a kedvezményezettel támogatási szerződést köt.
+50. § (1)[^59] A támogatási döntés alapján a támogató a kedvezményezettel támogatási szerződést köt.
 
 (2) A támogatási szerződés tartalmazza a támogatás nyújtásának feltételeit, a szerződő felek jogait és kötelezettségeit.
 
@@ -16,7 +16,7 @@
 
 5. a projekt részére folyósítható előleg, illetve előfinanszírozás mértékét és az azzal való elszámolás módját,
 
-6.[^59] az elszámolhatósági szabályokat, ide értve a támogatási szerződés megkötését megelőzően felmerült költségek elszámolhatóságára vonatkozó rendelkezéseket,
+6.[^60] az elszámolhatósági szabályokat, ide értve a támogatási szerződés megkötését megelőzően felmerült költségek elszámolhatóságára vonatkozó rendelkezéseket,
 
 7. a projekt módosításának szabályait,
 
@@ -38,7 +38,7 @@
 
 16. részletes költségvetést költségtételek, mennyiségi egységek és egységárak meghatározásával, mely legfeljebb 5%-os mértékű tartalékkeretet tartalmazhat,
 
-17.[^60] a partnerségi megállapodásra, együttműködési szándéknyilatkozatra történő hivatkozást,
+17.[^61] a partnerségi megállapodásra, együttműködési szándéknyilatkozatra történő hivatkozást,
 
 18. a szellemi tulajdonjogok rendezésével kapcsolatos szabályokat,
 
@@ -48,6 +48,6 @@
 
 (4) A program operátor kérheti a támogatási szerződés sablonjának előzetes jóváhagyását a donor országoktól. A donor országok jóváhagyása csak a (3) bekezdésben foglaltaknak való formai megfelelőség megállapítására terjed ki.
 
-[^58]: Az 50. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 20. pontja szerint módosított szöveg.
-[^59]: Az 50. § (3) bekezdés 6. pontja a 35/2016. (II. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^60]: Az 50. § (3) bekezdés 17. pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 21. pontja szerint módosított szöveg.
+[^59]: Az 50. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 20. pontja szerint módosított szöveg.
+[^60]: Az 50. § (3) bekezdés 6. pontja a 35/2016. (II. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^61]: Az 50. § (3) bekezdés 17. pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 21. pontja szerint módosított szöveg.

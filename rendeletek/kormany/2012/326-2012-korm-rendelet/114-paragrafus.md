@@ -12,11 +12,11 @@ a) a kedvezményezett, a vele együtt jogosított vagy kötelezett személy, tov
 
 b) az a) pont alá tartozó személy vagy szervezet képviselője, vagy olyan volt képviselője, aki a szabálytalansági eljárás tárgyát illetően érintett volt,
 
-c)[^139] az a) vagy a b) pont alá tartozó személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa,
+c)[^140] az a) vagy a b) pont alá tartozó személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa,
 
-d)[^140] aki az érintett projektkiválasztási eljárásában, illetve a támogatási döntés előkészítésében részt vett,
+d)[^141] aki az érintett projektkiválasztási eljárásában, illetve a támogatási döntés előkészítésében részt vett,
 
-e)[^141] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa.
+e)[^142] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa.
 
 (3) A szabálytalansági eljárás során eljáró szervezet az eljárásában köteles törekedni arra, hogy a szabálytalansággal érintett projekt célja megvalósuljon és lehetőség szerint a cél indokolatlanul ne sérüljön.
 
@@ -28,9 +28,9 @@ e)[^141] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1.
 
 (7) A szabálytalansági eljárás az eljáró szervezet vezetőjének döntésével zárul.
 
-(8)[^142] A nemzeti kapcsolattartó és a program operátor szabálytalansági eljárásrendet adhat ki.
+(8)[^143] A nemzeti kapcsolattartó és a program operátor szabálytalansági eljárásrendet adhat ki.
 
-[^139]: A 114. § (2) bekezdés c) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 49. pontja szerint módosított szöveg.
-[^140]: A 114. § (2) bekezdés d) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 50. pontja szerint módosított szöveg.
-[^141]: A 114. § (2) bekezdés e) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 51. pontja szerint módosított szöveg.
-[^142]: A 114. § (8) bekezdését az 51/2017. (III. 20.) Korm. rendelet 13. §-a iktatta be.
+[^140]: A 114. § (2) bekezdés c) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 49. pontja szerint módosított szöveg.
+[^141]: A 114. § (2) bekezdés d) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 50. pontja szerint módosított szöveg.
+[^142]: A 114. § (2) bekezdés e) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 51. pontja szerint módosított szöveg.
+[^143]: A 114. § (8) bekezdését az 51/2017. (III. 20.) Korm. rendelet 13. §-a iktatta be.

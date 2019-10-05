@@ -38,17 +38,17 @@
 
 18. közreműködik a program kommunikációs tervének kidolgozásában és a program nyilvánosságának biztosításában,
 
-19.[^16] közreműködik a kétoldalú kapcsolatok nemzeti alapja pályázatainak lebonyolításában,
+19.[^17] közreműködik a kétoldalú kapcsolatok nemzeti alapja pályázatainak lebonyolításában,
 
 20. működteti az ügyfélszolgálatot,
 
-21.[^17] ellátja azokat a feladatokat, amelyeket a donor ország és a nemzeti kapcsolattartó között létrejött, technikai segítségnyújtás megállapodásáról szóló szerződés meghatároz,
+21.[^18] ellátja azokat a feladatokat, amelyeket a donor ország és a nemzeti kapcsolattartó között létrejött, technikai segítségnyújtás megállapodásáról szóló szerződés meghatároz,
 
-22.[^18] közreműködik a projektekre vonatkozó fenntartási feladatok ellátásában.
+22.[^19] közreműködik a projektekre vonatkozó fenntartási feladatok ellátásában.
 
-(2)[^19] Az ösztöndíj program esetén az (1) bekezdés 1., 2. és 4–22. pontja szerinti feladatot a program operátor látja el.
+(2)[^20] Az ösztöndíj program esetén az (1) bekezdés 1., 2. és 4–22. pontja szerinti feladatot a program operátor látja el.
 
-[^16]: A 11. § (1) bekezdés 19. pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 5. pontja szerint módosított szöveg.
-[^17]: A 11. § (1) bekezdés 21. pontját az 51/2017. (III. 20.) Korm. rendelet 3. §-a iktatta be.
-[^18]: A 11. § (1) bekezdés 22. pontját az 51/2017. (III. 20.) Korm. rendelet 3. §-a iktatta be.
-[^19]: A 11. § (2) bekezdése a 35/2016. (II. 29.) Korm. rendelet 4. §-ával megállapított, az 51/2017. (III. 20.) Korm. rendelet 18. § 3. pontja szerint módosított szöveg.
+[^17]: A 11. § (1) bekezdés 19. pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 5. pontja szerint módosított szöveg.
+[^18]: A 11. § (1) bekezdés 21. pontját az 51/2017. (III. 20.) Korm. rendelet 3. §-a iktatta be.
+[^19]: A 11. § (1) bekezdés 22. pontját az 51/2017. (III. 20.) Korm. rendelet 3. §-a iktatta be.
+[^20]: A 11. § (2) bekezdése a 35/2016. (II. 29.) Korm. rendelet 4. §-ával megállapított, az 51/2017. (III. 20.) Korm. rendelet 18. § 3. pontja szerint módosított szöveg.
