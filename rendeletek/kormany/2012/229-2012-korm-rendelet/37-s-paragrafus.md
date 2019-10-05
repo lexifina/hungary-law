@@ -1,6 +1,6 @@
 ## 16/G. A hit- és erkölcstanoktatás támogatása
 
-37/S. §[^169] (1) A hit- és erkölcstanoktatáshoz kapcsolódó átlagbér alapú támogatás és tankönyvtámogatás igénylésére, megállapítására, folyósítására, változás-bejelentésére, elszámolására, ellenőrzésére és a kincstári adatszolgáltatásra a 37/A–37/P. §-nak az átlagbér alapú támogatásra vonatkozó szabályait kell alkalmazni az e §-ban meghatározott eltérésekkel.
+37/S. §[^172] (1) A hit- és erkölcstanoktatáshoz kapcsolódó átlagbér alapú támogatás és tankönyvtámogatás igénylésére, megállapítására, folyósítására, változás-bejelentésére, elszámolására, ellenőrzésére és a kincstári adatszolgáltatásra a 37/A–37/P. §-nak az átlagbér alapú támogatásra vonatkozó szabályait kell alkalmazni az e §-ban meghatározott eltérésekkel.
 
 (2) A bevett egyház a hit- és erkölcstanoktatáshoz kapcsolódó átlagbér alapú támogatásra és tankönyvtámogatásra vonatkozó kérelmét
 
@@ -34,4 +34,4 @@ b) b) pontjában foglalt igénylés alapján szeptember–december hónapokra 4/
 
 (11) A hit- és erkölcstanoktatáshoz kapcsolódó támogatás igénylésekor és az elszámolásakor nem kell alkalmazni a 37/B. § (1) bekezdés d) pontjában meghatározottakat, továbbá a bevett egyház nem kötelezhető a hit- és erkölcstanoktatásban résztvevő tanulók oktatási azonosító számának megadására.
 
-[^169]: A 37/S. § a 3/2015. (I. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^172]: A 37/S. § a 3/2015. (I. 28.) Korm. rendelet 17. §-ával megállapított szöveg.
