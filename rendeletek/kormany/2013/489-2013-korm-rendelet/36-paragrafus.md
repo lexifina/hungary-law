@@ -1,4 +1,4 @@
-36. §[^59] (1) A Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv2.) 42. § (1) bekezdés a) pontja, valamint 2. melléklet III. pont 3. alpont e) pontja alapján falugondnoki vagy tanyagondnoki szolgáltatás jogcímen 2019. április 1-jén támogatásban részesülő fenntartót – amennyiben a támogatás biztosításának a Kvtv2. szerinti egyéb feltételei az e § szerinti támogatás folyósításának időpontjában is fennállnak – a falugondnoki vagy tanyagondnoki szolgáltatásra tekintettel 1 150 000 forint kiegészítő támogatás illeti meg falugondnoki, illetve tanyagondnoki szolgálatonként (a továbbiakban: falu- és tanyagondnoki kiegészítő támogatás). Amennyiben a falu- vagy tanyagondnoki szolgálat nem egész évben működik, a falu- és tanyagondnoki kiegészítő támogatás a működés megkezdését követő hónap 1-jétől, illetve megszűnése hónapjának utolsó napjáig időarányosan jár.
+36. §[^60] (1) A Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv2.) 42. § (1) bekezdés a) pontja, valamint 2. melléklet III. pont 3. alpont e) pontja alapján falugondnoki vagy tanyagondnoki szolgáltatás jogcímen 2019. április 1-jén támogatásban részesülő fenntartót – amennyiben a támogatás biztosításának a Kvtv2. szerinti egyéb feltételei az e § szerinti támogatás folyósításának időpontjában is fennállnak – a falugondnoki vagy tanyagondnoki szolgáltatásra tekintettel 1 150 000 forint kiegészítő támogatás illeti meg falugondnoki, illetve tanyagondnoki szolgálatonként (a továbbiakban: falu- és tanyagondnoki kiegészítő támogatás). Amennyiben a falu- vagy tanyagondnoki szolgálat nem egész évben működik, a falu- és tanyagondnoki kiegészítő támogatás a működés megkezdését követő hónap 1-jétől, illetve megszűnése hónapjának utolsó napjáig időarányosan jár.
 
 (2) A falu- és tanyagondnoki kiegészítő támogatás 2019 júniusában egy összegben, hivatalból kerül folyósításra. Az igazgatóság a falu- és tanyagondnoki kiegészítő támogatás folyósításáról erre irányuló külön határozat meghozatala nélkül intézkedik.
 
@@ -10,4 +10,4 @@
 
 (6) A falu- és tanyagondnoki kiegészítő támogatás után a Kvtv2. 42. § (2) bekezdése szerinti támogatás nem vehető igénybe.
 
-[^59]: A 36. §-t a 123/2019. (V. 27.) Korm. rendelet 2. §-a iktatta be.
+[^60]: A 36. §-t a 123/2019. (V. 27.) Korm. rendelet 2. §-a iktatta be.
