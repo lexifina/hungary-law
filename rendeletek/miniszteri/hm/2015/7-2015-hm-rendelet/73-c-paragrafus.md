@@ -1,3 +1,3 @@
-## 48. [^117] A visszarendeléshez kötődő különös szabályok
+## 48. [^122] A visszarendeléshez kötődő különös szabályok
 
-[^117]: A 48. alcímet (73/C. §) a 25/2016. (XII. 22.) HM rendelet 86. §-a iktatta be.
+[^122]: A 48. alcímet (73/C. §) a 25/2016. (XII. 22.) HM rendelet 86. §-a iktatta be.

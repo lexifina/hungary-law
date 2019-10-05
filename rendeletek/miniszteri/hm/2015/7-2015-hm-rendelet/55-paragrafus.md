@@ -10,6 +10,6 @@
 
 (5) A (4) bekezdésben foglaltaktól eltérően az állomány Hjt. 46. § (1) bekezdés l) pontja szerinti tagja a rendelkezési állományban töltött idő alatt – a Hjt. 123. § (5) bekezdés b) pontja szerinti alapilletményen és a Hjt. 125. § (1) bekezdés szerinti honvédelmi szolgálati díjon felül – a 45–49. § szerinti feltételekkel kiegészítő illetményre, valamint – a Hjt.-ben és miniszteri rendeletben szabályozott jogosultsági feltételeknek való megfelelés esetén – a szolgálatteljesítés helyén megállapítható illetménypótlékra jogosult.
 
-(6)[^94]
+(6)[^99]
 
-[^94]: Az 55. § (6) bekezdését a 12/2018. (VII. 27.) HM rendelet 44. §-a iktatta be, hatályon kívül helyezte a 20/2018. (XII. 28.) HM rendelet 105. § e) pontja hatályon kívül helyezte.
+[^99]: Az 55. § (6) bekezdését a 12/2018. (VII. 27.) HM rendelet 44. §-a iktatta be, hatályon kívül helyezte a 20/2018. (XII. 28.) HM rendelet 105. § e) pontja hatályon kívül helyezte.
