@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-65-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-04-05 | 2018-65-20-22.1 | 65/2018. (IV. 4.) Korm. rendelet |
+| 2019-10-05 | 2018-65-20-22.2 | 233/2019. (X. 4.) Korm. rendelet |
