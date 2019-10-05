@@ -12,15 +12,15 @@ a) a feladat- és hatáskörét érintő előterjesztések, döntések tervezet�
 
 b) a feladat- és hatáskörét érintő előterjesztések és döntések előkészítése és végrehajtása során a honvédelmi szervezetektől információkat kér, és részükre a szükséges információkat biztosítja,
 
-c)[^17] előkészíti a jogszabályokat, a közjogi szervezetszabályozó eszközöket, a belső rendelkezéseket és egyéb döntéseket,
+c)[^18] előkészíti a jogszabályokat, a közjogi szervezetszabályozó eszközöket, a belső rendelkezéseket és egyéb döntéseket,
 
 d) ellenőrzi a honvédelmi szervezeteknek a szakterületéhez tartozó tevékenységet, valamint
 
 e) szakterületéhez tartozó tevékenységére vonatkozó egységes gyakorlatának kialakítása érdekében dönt a végrehajtás során felmerült vitás kérdésekben, szakmai állásfoglalás kiadásával biztosítja az egységes végrehajtást.
 
-(4)[^18] A minisztérium parlamenti államtitkára, honvédelmi államtitkára, közigazgatási államtitkára, helyettes államtitkára és a Magyar Honvédség parancsnoka az e rendeletben meghatározott szakterületükön szakmai felettesként, illetve szakmai elöljáróként szakmai irányítást gyakorolnak, érintettség esetén a szakmai irányítási aktusaik tervezeteit kölcsönösen egyeztetik.
+(4)[^19] A minisztérium parlamenti államtitkára, honvédelmi államtitkára, közigazgatási államtitkára, helyettes államtitkára és a Magyar Honvédség parancsnoka az e rendeletben meghatározott szakterületükön szakmai felettesként, illetve szakmai elöljáróként szakmai irányítást gyakorolnak, érintettség esetén a szakmai irányítási aktusaik tervezeteit kölcsönösen egyeztetik.
 
 (5) A Honvédség szakmai irányítása keretében kiadott döntések érvényesüléséért a hivatali felettes, szolgálati elöljáró felel.
 
-[^17]: A 14. § (3) bekezdés c) pontja a 154/2019. (VI. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^18]: A 14. § (4) bekezdése a 154/2019. (VI. 27.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^18]: A 14. § (3) bekezdés c) pontja a 154/2019. (VI. 27.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^19]: A 14. § (4) bekezdése a 154/2019. (VI. 27.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ c) a 3. Toborzó és Érdekvédelmi Központ illetékessége kiterjed Győr-Moso
 
 d) a 4. Toborzó és Érdekvédelmi Központ illetékessége kiterjed Baranya, Somogy és Zala megye közigazgatási területére.
 
-(2)[^61] Törvényben meghatározott szociális gondoskodási körbe tartozók szociális érdekvédelmével, a kegyeleti gondoskodással összefüggő tevékenység végzése, a Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a honvédelemben közreműködő szervek részére, gazdasági és anyagi szolgáltatási kötelezettség teljesítése érdekében az igénybevétel tervezéséhez szükséges tevékenység végzése, a szemlék lebonyolításában, a szolgáltatásra kötelezettekkel történő kapcsolattartásban, a védelmi igazgatási szervek munkájának segítése, a katonai igazgatási, érdekvédelmi és toborzó ügyfélszolgálati feladatok végzése vonatkozásában
+(2)[^62] Törvényben meghatározott szociális gondoskodási körbe tartozók szociális érdekvédelmével, a kegyeleti gondoskodással összefüggő tevékenység végzése, a Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a honvédelemben közreműködő szervek részére, gazdasági és anyagi szolgáltatási kötelezettség teljesítése érdekében az igénybevétel tervezéséhez szükséges tevékenység végzése, a szemlék lebonyolításában, a szolgáltatásra kötelezettekkel történő kapcsolattartásban, a védelmi igazgatási szervek munkájának segítése, a katonai igazgatási, érdekvédelmi és toborzó ügyfélszolgálati feladatok végzése vonatkozásában
 
 a) az 1. Toborzó és Érdekvédelmi Központ illetékessége kiterjed Jász-Nagykun-Szolnok megye közigazgatási területére,
 
@@ -20,4 +20,4 @@ c) a 3. Toborzó és Érdekvédelmi Központ illetékessége kiterjed Veszprém 
 
 d) a 4. Toborzó és Érdekvédelmi Központ illetékessége kiterjed Somogy megye közigazgatási területére.
 
-[^61]: A 35. § (2) bekezdés nyitó szövegrésze a 281/2018. (XII. 21.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^62]: A 35. § (2) bekezdés nyitó szövegrésze a 281/2018. (XII. 21.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.

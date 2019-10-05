@@ -2,7 +2,7 @@
 
 1. irányítja a közigazgatási feladatok tervezésével és szervezésével összefüggő feladatok végrehajtását,
 
-2.[^12] irányítja a belső kontrollrendszerrel, valamint az integritásfejlesztéssel kapcsolatos tevékenységet, ideértve a korrupció elleni tevékenység ágazati összehangolását,
+2.[^13] irányítja a belső kontrollrendszerrel, valamint az integritásfejlesztéssel kapcsolatos tevékenységet, ideértve a korrupció elleni tevékenység ágazati összehangolását,
 
 3. irányítja az államháztartási belső ellenőrzés kivételével az ellenőrzési rendszer felső szintű feladatainak végrehajtását,
 
@@ -76,4 +76,4 @@
 
 38. irányítja a honvédelmi ágazat népegészségügyi, így különösen közegészségügyi, járványügyi, egészségfejlesztési, egészségügyi igazgatási feladatainak végrehajtását.
 
-[^12]: A 6. § 2. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^13]: A 6. § 2. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

@@ -14,16 +14,16 @@ d) a szolgáltatás jellegét és mennyiségét.
 
 (4) A területileg illetékes katonai igazgatási központ a kérelem beérkezésétől számított 8 napon belül megvizsgálja a benyújtott kérelmet, és ez alapján tájékoztatja az igénybevevőt a kijelölési eljárás megkezdéséről, vagy annak elutasításáról.
 
-(5)[^75] A területileg illetékes katonai igazgatási központ az 49. § (1) bekezdés szerinti egyszeri adatszolgáltatás alapján pontosított nyilvántartásából kiválasztja a kérelemnek megfelelő ingatlanokat, szolgáltatásokat, és erről tájékoztatja az igénybevevőt.
+(5)[^76] A területileg illetékes katonai igazgatási központ az 49. § (1) bekezdés szerinti egyszeri adatszolgáltatás alapján pontosított nyilvántartásából kiválasztja a kérelemnek megfelelő ingatlanokat, szolgáltatásokat, és erről tájékoztatja az igénybevevőt.
 
-(6)[^76] Ha a katonai igazgatási központ illetékességi területén a kérelemnek megfelelő ingatlan, szolgáltatás igénybevételre nem jelölhető ki, a katonai igazgatási központ az igénybevételre történő kijelölés érdekében más katonai igazgatási szervet keres meg, és erről tájékoztatja az igénybevevőt.
+(6)[^77] Ha a katonai igazgatási központ illetékességi területén a kérelemnek megfelelő ingatlan, szolgáltatás igénybevételre nem jelölhető ki, a katonai igazgatási központ az igénybevételre történő kijelölés érdekében más katonai igazgatási szervet keres meg, és erről tájékoztatja az igénybevevőt.
 
 (7) A kérelemnek megfelelő ingatlanok és szolgáltatások az igénybevevő részére történő kijelölésére vonatkozó határozati javaslatot az ingatlan fekvése, vagy a szolgáltatás helye szerint illetékes katonai igazgatási szerv az illetékes megyei, fővárosi védelmi bizottság elé terjeszti.
 
-(8)[^77] A megyei, fővárosi védelmi bizottság határozatában kijelöli az igénynek megfelelő ingatlanokat, szolgáltatásokat.
+(8)[^78] A megyei, fővárosi védelmi bizottság határozatában kijelöli az igénynek megfelelő ingatlanokat, szolgáltatásokat.
 
 (9) A határozatot az (1) bekezdés szerinti katonai igazgatási szerv vezetője útján kézbesíteni kell az igénybevevőnek, az ingatlan fekvése szerinti, szolgáltatás esetén a szolgáltatásra kötelezett székhelye telephelye, fióktelepe szerint illetékes polgármesternek, az ingatlan, a szolgáltatás tulajdonosának, birtokosának, azzal rendelkezni jogosultnak, valamint a (6) bekezdésben foglalt esetben az igénybevevő székhelye szerint illetékes katonai igazgatási szervnek.
 
-[^75]: A 48. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 363. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^76]: A 48. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 363. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^77]: A 48. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 150. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^76]: A 48. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 363. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^77]: A 48. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 363. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^78]: A 48. § (8) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 150. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
