@@ -1,6 +1,6 @@
 ## 14. A rendkívüli munkavégzés, az ügyelet és a készenlét köznevelési intézményekben történő elrendelésének szabályai
 
-33. § (1)[^189] Az Mt. 110. § (2) bekezdésében meghatározottakon túl ügyelet és készenlét rendelhető el
+33. § (1)[^190] Az Mt. 110. § (2) bekezdésében meghatározottakon túl ügyelet és készenlét rendelhető el
 
 a) a tanulók éjszakai felügyeletének megszervezéséhez a kollégiumban, vagy
 
@@ -18,7 +18,7 @@ b) a pedagógiai, nevelési programban meghatározott tanulmányi kirándulás v
 
 (7) Nem illeti meg a közalkalmazottat az ügyelet után pihenőidő, ha az ügyeletet kollégiumban, illetve a pedagógiai, nevelési programban előírt tanulmányi kiránduláson vagy más, nem az óvodában, iskolában, kollégiumban szervezett programon teljesíti, továbbá, ha az ügyelet alatt nem kellett munkát végezni.
 
-(8)[^190] Az e §-ban meghatározott óradíj egy órára eső összege a pedagógus havi illetményének a következőkben meghatározott osztószámmal megállapított hányada. Az osztószámot az érintett beosztott pedagógus munkakörére előírt neveléssel-oktatással lekötött munkaidő alsó mértékének 4,33-mal történő szorzata adja.
+(8)[^191] Az e §-ban meghatározott óradíj egy órára eső összege a pedagógus havi illetményének a következőkben meghatározott osztószámmal megállapított hányada. Az osztószámot az érintett beosztott pedagógus munkakörére előírt neveléssel-oktatással lekötött munkaidő alsó mértékének 4,33-mal történő szorzata adja.
 
-[^189]: A 33. § (1) bekezdés nyitó szövegrésze a 89/2015. (IV. 9.) Korm. rendelet 23. § j) pontja szerint módosított szöveg.
-[^190]: A 33. § (8) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 14. § i) pontja szerint módosított szöveg.
+[^190]: A 33. § (1) bekezdés nyitó szövegrésze a 89/2015. (IV. 9.) Korm. rendelet 23. § j) pontja szerint módosított szöveg.
+[^191]: A 33. § (8) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 14. § i) pontja szerint módosított szöveg.

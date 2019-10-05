@@ -6,6 +6,6 @@
 
 | 3. | A Kutatótanár pályázat hiánytalan benyújtása, formai és szakmai bírálata: | 100 |
 
-2. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^245]
+2. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^246]
 
-[^245]: A 2. melléklet a 249/2015. (IX. 8.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^246]: A 2. melléklet a 249/2015. (IX. 8.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
