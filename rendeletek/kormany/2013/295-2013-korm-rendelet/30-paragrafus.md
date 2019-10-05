@@ -1,5 +1,7 @@
-## 29. § A bevett egyház nyilvántartásból való törlése esetén a miniszter a bevett egyház belső egyházi jogi személyét is törli a nyilvántartásból.
+## 29. §[^45]
 
 ## V. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
+
+[^45]: A 29. §-t a 231/2019. (X. 4.) Korm. rendelet 48. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 46–47. §-át.

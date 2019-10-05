@@ -1,13 +1,16 @@
+## 15/A. §[^20]
+
 ## III. Fejezet
 
 ## AZ EGYHÁZI JOGI SZEMÉLYEK MŰKÖDÉSÉVEL ÖSSZEFÜGGŐ EGYES SZABÁLYOK
 
 ## 9. Az egyházi céltámogatások nyújtásának szabályai
 
-16. §[^27] (1) A központi költségvetésről szóló törvénynek a miniszter irányító szervi hatáskörébe tartozó 17. § (1) bekezdésében meghatározott olyan fejezeti kezelésű előirányzatok felhasználására, amelyek költségvetési támogatásként kerülnek az egyházi jogi személy részére rendelkezésre bocsátásra (a továbbiakban: egyházi céltámogatás), az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 66–70. §-át, 72. § (2) bekezdését, 75. § (3) bekezdését, 90. §-át és 93. §-át nem kell alkalmazni.
+16. §[^21] (1) A központi költségvetésről szóló törvénynek a miniszter irányító szervi hatáskörébe tartozó 17. § (1) bekezdésében meghatározott olyan fejezeti kezelésű előirányzatok felhasználására, amelyek költségvetési támogatásként kerülnek az egyházi jogi személy részére rendelkezésre bocsátásra (a továbbiakban: egyházi céltámogatás), az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 66–70. §-át, 72. § (2) bekezdését, 75. § (3) bekezdését, 90. §-át és 93. §-át nem kell alkalmazni.
 
 (2) Az egyházi céltámogatások támogatói okirattal kerülnek átadásra.
 
 (3) Az egyházi céltámogatások esetén a kedvezményezett által e célra megadott elektronikus címre elektronikusan – változatlan tartalom visszaidézésére alkalmas formában – megküldött támogatói okirat – az Ávr. 102/C. § (8) bekezdésétől eltérően – abban az időpontban minősül hivatalosan közöltnek, amikor a kedvezményezett számára hozzáférhetővé vált.
 
-[^27]: A 16. § a 293/2018. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^20]: A 15/A. §-t a 231/2019. (X. 4.) Korm. rendelet 48. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 46–47. §-át.
+[^21]: A 16. § a 293/2018. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.

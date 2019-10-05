@@ -1,3 +1,3 @@
-7. §[^7]
+## 6. §[^9]
 
-[^7]: A 7. §-t a 457/2017. (XII. 28.) Korm. rendelet 449. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^9]: A 6. §-t a 231/2019. (X. 4.) Korm. rendelet 48. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 46–47. §-át.

@@ -1,4 +1,4 @@
-18/B. §[^40] (1) Az Ávr. 69. § (1) bekezdés e) pontjától eltérően az egyedi támogatásra vonatkozó támogatási kérelemnek kiemelt előirányzati bontásban meghatározott költségtervet kell tartalmaznia. A részletes költségterv benyújtása a támogatási jogviszony létrehozásának feltétele.
+18/B. §[^34] (1) Az Ávr. 69. § (1) bekezdés e) pontjától eltérően az egyedi támogatásra vonatkozó támogatási kérelemnek kiemelt előirányzati bontásban meghatározott költségtervet kell tartalmaznia. A részletes költségterv benyújtása a támogatási jogviszony létrehozásának feltétele.
 
 (2) Ha a kedvezményezett több alkalommal nyújt be támogatási kérelmet ugyanahhoz a támogatóhoz, és az Ávr. 75. § (3) bekezdésében meghatározott okiratokban foglalt adatok nem változtak, az okiratokat a legkorábban benyújtott támogatási kérelemhez kell csatolni, a további kérelmekben pedig nyilatkozni arról, hogy az okiratokban adatváltozás nem történt.
 
@@ -10,4 +10,4 @@
 
 (6) Az e rendelet alapján biztosított költségvetési támogatások esetében – az Ávr. 70. § (3) bekezdésétől eltérően – hiánypótlásra több alkalommal is lehetőség van.
 
-[^40]: A 18/B. §-t a 293/2018. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^34]: A 18/B. §-t a 293/2018. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
