@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-32-20-7
 | --- | --- | --- |
 | 2019-09-21 | 2019-32-20-7Q.1 | 32/2019. (IX. 6.) ITM rendelet |
 | 2019-09-22 | 2019-32-20-7Q.2 | 2010: CXXX. törvény |
+| 2019-10-07 | 2019-32-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
