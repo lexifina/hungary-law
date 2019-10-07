@@ -1,4 +1,4 @@
-## 21. §[^49] Az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló miniszteri rendeletek módosításáról szóló 10/2019. (IV. 1.) AM rendelettel [a továbbiakban: 10/2019. (IV. 1.) AM rendelet] megállapított 4. § (8) és (10) bekezdését, 5. § (2) és (10) bekezdését, valamint 6. § (4) és (10) bekezdését a 10/2019. (IV. 1.) AM rendelet hatálybalépésekor[^50] folyamatban lévő eljárásokban is alkalmazni kell.
+## 21. §[^51] Az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló miniszteri rendeletek módosításáról szóló 10/2019. (IV. 1.) AM rendelettel [a továbbiakban: 10/2019. (IV. 1.) AM rendelet] megállapított 4. § (8) és (10) bekezdését, 5. § (2) és (10) bekezdését, valamint 6. § (4) és (10) bekezdését a 10/2019. (IV. 1.) AM rendelet hatálybalépésekor[^52] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 27/2014. (XI. 25.) FM rendelethez
 
@@ -58,5 +58,5 @@ ____________
 
 2 A 4. § (1) bekezdés szerinti várható hozamcsökkenés a 10. és a 11. pont szerinti várható tárgyévi hozamok különbsége.
 
-[^49]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 10/2019. (IV. 1.) AM rendelet 4. §-a iktatta be.
-[^50]: A hatálybalépés időpontja 2019. április 9.
+[^51]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 10/2019. (IV. 1.) AM rendelet 4. §-a iktatta be.
+[^52]: A hatálybalépés időpontja 2019. április 9.

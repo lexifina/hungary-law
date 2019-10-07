@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-27-20-1
 | 2018-07-03 | 2014-27-20-11.12 | 9/2018. (VII. 2.) AM rendelet |
 | 2019-04-09 | 2014-27-20-11.13 | 10/2019. (IV. 1.) AM rendelet |
 | 2019-05-11 | 2014-27-20-11.14 | 17/2019. (V. 10.) AM rendelet |
+| 2019-10-07 | 2014-27-20-11.15 | 46/2019. (X. 4.) AM rendelet |

@@ -1,4 +1,4 @@
-4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^53]
+4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^55]
 
 | Jóváhagyta: ............................. miniszter Kifizetési terv (20... . február … -i állapot szerint, forintban) Keltezés: … . |
 
@@ -112,4 +112,4 @@
 
 **** A kifizetéssel érintett területek nagyságát az egyes növénycsoportok szerinti bontásban a kérelmen belüli arányosítással kell kimutatni.
 
-[^53]: A 4. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 72. § d) pontja, a 35/2017. (VII. 6.) FM rendelet 17. § i) pontja szerint módosított szöveg.
+[^55]: A 4. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 72. § d) pontja, a 35/2017. (VII. 6.) FM rendelet 17. § i) pontja szerint módosított szöveg.

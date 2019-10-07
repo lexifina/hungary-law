@@ -4,7 +4,7 @@
 
 (2) Az agrárkár-enyhítési szerv a hozamérték-csökkenés 10. § (1) bekezdés szerinti határozatban történő megállapítása céljából – az Mkk. tv. 13. § (3) bekezdése szerint érdemi vizsgálat nélkül elutasított kérelmek kivételével – a kérelmeket továbbítja az agrárkár-megállapító szerv részére. A kérelembenyújtó felületen megadott adatok és az ahhoz feltöltött dokumentumok – ideértve a (4) és (5) bekezdésben meghatározott igazolásokat is – együttesen alkotják a kárenyhítő juttatás iránti kérelmet.
 
-(3)[^32] Kárenyhítő juttatásra vonatkozó jogosultság csak abban az esetben állapítható meg, ha a kárenyhítő juttatás iránti kérelem adatai alapján az adott kárenyhítési évben a mezőgazdasági termelő adott növénykultúra tekintetében
+(3)[^34] Kárenyhítő juttatásra vonatkozó jogosultság csak abban az esetben állapítható meg, ha a kárenyhítő juttatás iránti kérelem adatai alapján az adott kárenyhítési évben a mezőgazdasági termelő adott növénykultúra tekintetében
 
 a) elemi káreseményt és
 
@@ -16,7 +16,7 @@ b) a 7. § (1) bekezdés szerinti számítási módszerrel megállapított, 15%-
 
 (5) Ha a mezőgazdasági biztosítási szerződésben a szerződő fél nem a mezőgazdasági termelő, akkor teljes mértékű kárenyhítő juttatásra az a mezőgazdasági termelő jogosult, akinek részére a szerződő fél vagy a biztosító a biztosított területet, a biztosítással fedezett káreseményt és a biztosított hozamértéket is feltüntető igazolást állít ki. Az igazolás elektronikus másolatát a mezőgazdasági termelőnek az (1) bekezdésben meghatározott határidőig fel kell töltenie a kérelembenyújtó felületre.
 
-(6)[^33] Ha a mezőgazdasági termelő olyan mezőgazdasági biztosítási szerződéssel rendelkezik, amelyről a biztosító az Mkk. tv.-ben, illetve a mezőgazdasági biztosítás díjához nyújtott támogatásról szóló pályázati felhívásban foglalt eljárása során adatszolgáltatási kötelezettség keretében adatokat szolgáltatott az agrárkár-enyhítési szerv részére, akkor a kárenyhítő juttatás kiszámítása során a biztosító által szolgáltatott adatokat is figyelembe kell venni.
+(6)[^35] Ha a mezőgazdasági termelő olyan mezőgazdasági biztosítási szerződéssel rendelkezik, amelyről a biztosító az Mkk. tv.-ben, illetve a mezőgazdasági biztosítás díjához nyújtott támogatásról szóló pályázati felhívásban foglalt eljárása során adatszolgáltatási kötelezettség keretében adatokat szolgáltatott az agrárkár-enyhítési szerv részére, akkor a kárenyhítő juttatás kiszámítása során a biztosító által szolgáltatott adatokat is figyelembe kell venni.
 
 (7) Ha a hozamérték-csökkenést több elemi káresemény okozta, akkor az igényelhető kárenyhítő juttatás növénykultúránkénti összegének meghatározásánál mezőgazdasági kárt kiváltó okként azt a kárfajtát kell megadni, amely az adott növénykultúra esetében a legnagyobb mértékű károsodást okozta.
 
@@ -24,5 +24,5 @@ b) a 7. § (1) bekezdés szerinti számítási módszerrel megállapított, 15%-
 
 (9) Adott kárenyhítési évhez kapcsolódóan kárenyhítő juttatásra vonatkozó jogosultság akkor sem állapítható meg, ha a mezőgazdasági termelővel szemben valamely korábbi támogatás visszafizetésére kötelező olyan európai uniós jogszabály van érvényben, amely a támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította.
 
-[^32]: A 9. § (3) bekezdése a 35/2017. (VII. 6.) FM rendelet 13. §-ával megállapított szöveg.
-[^33]: A 9. § (6) bekezdése a 65/2016. (IX. 21.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^34]: A 9. § (3) bekezdése a 35/2017. (VII. 6.) FM rendelet 13. §-ával megállapított szöveg.
+[^35]: A 9. § (6) bekezdése a 65/2016. (IX. 21.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
