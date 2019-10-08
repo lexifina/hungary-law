@@ -1,12 +1,4 @@
-## 9. § A kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet 7. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-## „(5) A kárenyhítő juttatás iránti kérelem alapján történő juttatás számítása során a szőlőültetvényekben végzett zöldszüretre igényelhető támogatásról szóló 22/2019. (V. 31.) AM rendelet 1. § b) pontja szerinti intézkedésbe vont, zöldszürettel érintett területen termesztett minőségi- és egyéb borszőlőültetvény kultúrák 2019. kárenyhítési évre vonatkozó tárgyévi hozamait
-
-## a) az Mkk. tv. 2. § 2a. pontja szerinti, a NAIK által meghatározott országos átlaghozammal kell figyelembe venni, ha az országos átlaghozam nagyobb, mint a mezőgazdasági termelő referenciahozama,
-
-## b) a mezőgazdasági termelő referenciahozamával kell figyelembe venni, ha az a) pont szerinti országos átlaghozam kisebb vagy egyenlő, mint a mezőgazdasági termelő referenciahozama.
-
-## (6) Az (5) bekezdés szerinti terület mezőgazdasági káreseménnyel nem érintett területnek minősül azzal, hogy a kárenyhítő juttatás iránti kérelemben ezen terület vonatkozásában a mezőgazdasági termelőnek a 2019. kárenyhítési évi termésmennyiséget nulla értékkel kell megadnia.”
+## 9. §[^1]
 
 1. melléklet a 46/2019. (X. 4.) AM rendelethez
 
@@ -2547,3 +2539,5 @@ Településlista
 | 18.200. |  | Zalavég |
 
 | 18.201. |  | Zebecke |
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
