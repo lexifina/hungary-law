@@ -8,6 +8,6 @@ a) a munkaerő-kereslet és -kínálat helyi jellemzői,
 
 b) a térség foglalkoztatási helyzete és munkanélküliségi mutatói,
 
-c)[^6] a munkásszállás építésének, valamint munkásszállás céljából igénybe vehető ingatlan felújításának várható hatása a térség foglalkoztatási helyzetére.
+c)[^23] a munkásszállás építésének, valamint munkásszállás céljából igénybe vehető ingatlan felújításának várható hatása a térség foglalkoztatási helyzetére.
 
-[^6]: A 3. § (3) bekezdés c) pontja a 161/2018. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 3. § (3) bekezdés c) pontja a 161/2018. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
