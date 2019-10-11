@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-226-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-10-10 | 2019-226-20-22.1 | 226/2019. (IX. 25.) Korm. rendelet |
+| 2019-10-11 | 2019-226-20-22.2 | 2010: CXXX. törvény |
