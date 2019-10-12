@@ -1,0 +1,1 @@
+## 3. § A díjban részesülő személy, illetve oktatási intézmény oklevelet és pénzjutalmat kap. A díjhoz tartozó pénzjutalom összege tanuló vagy hallgató esetén 150 000 Ft, pedagógus esetén 500 000 Ft, oktatási intézmény esetén 2 000 000 Ft.
