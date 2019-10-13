@@ -1450,4 +1450,4 @@
 
 2. melléklet a 31/2011. (X. 24.) KIM rendelethez[^8]
 
-[^8]: A 2. melléklet a 39/2017. (XII. 27.) MvM rendelet 4. §-ával megállapított szöveg.
+[^8]: A 2. melléklet a 39/2017. (XII. 27.) MvM rendelet 4. §-ával megállapított, a 10/2019. (VII. 30.) MvM rendelet 1. §-a szerint módosított szöveg.
