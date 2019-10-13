@@ -3206,7 +3206,7 @@ Tófalu
 
 Újlőrincfalva
 
-10.3. Gyöngyösi Járási Hivatal
+10.3.[^4] Gyöngyösi Járási Hivatal
 
 10.3.1. Székhelye: Gyöngyös
 
@@ -3252,8 +3252,6 @@ Nagyréde
 
 Pálosvörösmart
 
-Szűcsi
-
 Vámosgyörk
 
 Vécs
@@ -3262,7 +3260,7 @@ Visonta
 
 Visznek
 
-10.4. Hatvani Járási Hivatal
+10.4.[^5] Hatvani Járási Hivatal
 
 10.4.1. Székhelye: Hatvan
 
@@ -3291,6 +3289,8 @@ Nagykökényes
 Petőfibánya
 
 Rózsaszentmárton
+
+Szűcsi
 
 Zagyvaszántó
 
@@ -4078,7 +4078,7 @@ Szécsényfelfalu
 
 Varsány
 
-14.[^4] Pest megye
+14.[^6] Pest megye
 
 14.1. Budakeszi Járási Hivatal,
 
@@ -5834,7 +5834,7 @@ Udvari
 
 Varsád
 
-18.[^5] Vas megye
+18.[^7] Vas megye
 
 18.1. Celldömölki Járási Hivatal
 
@@ -7355,5 +7355,7 @@ Zalatárnok
 [^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 52/2017. (III. 20.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^2]: Az 1. melléklet a 273/2018. (XII. 20.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^3]: Az 1. melléklet 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 10. pont 10.3. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 10. pont 10.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
