@@ -1,4 +1,4 @@
-1. A Kormány egyetért azzal, hogy a Magyarország Kormánya és Kecskemét Megyei Jogú Város Önkormányzata között 2016. február 9. napján létrejött együttműködési megállapodásban foglaltak egyik célja az, hogy a Kormány a megyeszékhely és a régió gazdasági fejlesztése céljából támogassa Kecskemét ipari és infrastrukturális fejlődését, amely keretében támogatja a Kecskemét Déli Iparterületen elhelyezkedő, Kecskemét Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) tulajdonában és kezelésében lévő Barényi Béla út fejlesztését (a továbbiakban: Fejlesztés).
+1.[^1] A Kormány egyetért azzal, hogy a Magyarország Kormánya és Kecskemét Megyei Jogú Város Önkormányzata között 2016. február 9. napján létrejött együttműködési megállapodásban foglaltak egyik célja az, hogy a Kormány a megyeszékhely és a régió gazdasági fejlesztése céljából támogassa Kecskemét ipari és infrastrukturális fejlődését, amely keretében támogatja a Kecskemét Déli Iparterületen elhelyezkedő, Kecskemét Megyei Jogú Város Önkormányzata (a továbbiakban: Önkormányzat) tulajdonában és kezelésében lévő Barényi Béla út, valamint a Szent László körút fejlesztését (a továbbiakban: Fejlesztés).
 
 2. A Kormány az 1. pont megvalósítása érdekében
 
@@ -36,6 +36,7 @@ Felelős: megyei jogú városok fejlesztéséért felelős tárca nélküli mini
 
 Határidő: a Modern Városok Program Bizottság döntését követően
 
-3.[^1]
+3.[^2]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1580/2019. (X. 15.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
