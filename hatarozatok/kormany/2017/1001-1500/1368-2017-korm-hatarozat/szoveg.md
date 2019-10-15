@@ -12,9 +12,9 @@ c) Sajóivánka alállomás bővítése,
 
 a) román–magyar határkeresztező földgázszállító vezeték magyarországi szakaszának kétirányúsítása (1. ütem),
 
-b) Városföld–Ercsi–Győr nyomvonalon új földgázszállító vezeték létesítése,
+b)[^1]
 
-c) Ercsi és Százhalombatta között új földgázszállító vezeték építése,
+c)[^2]
 
 d) Városföld településen található kompresszorállomás bővítése,
 
@@ -22,18 +22,25 @@ e) román–magyar határkeresztező földgázszállító vezeték magyarország
 
 f) magyar–szlovén határkeresztező vezeték fejlesztése,
 
-g) Eastring vezeték magyar szakasza,
+g)[^3]
 
-h) magyar–ukrán kétirányú földgázszállítás nem megszakítható kapacitással történő fejlesztése,
+h)[^4]
 
 i) magyar–szlovák határkeresztező vezeték kapacitásbővítése,
 
-j) magyar–szlovák határkeresztező vezeték fizikai szállítási irányváltásának gyorsítása,
+j)[^5]
 
-k) Vecsés és Városföld között új földgázszállító vezeték építése,
+k)[^6]
 
 3. felhívja a nemzeti fejlesztési minisztert, hogy juttassa kifejezésre a 347/2013/EU európai parlamenti és tanácsi rendelet által létrehozott döntéshozó testületek ülésein, hogy az 1. és 2. pontban meghatározott projekteket Magyarország támogatja.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
+
+[^1]: A 2. pont b) alpontját az 1577/2019. (X. 15.) Korm. határozat 5. pontja visszavonta.
+[^2]: A 2. pont c) alpontját az 1577/2019. (X. 15.) Korm. határozat 5. pontja visszavonta.
+[^3]: A 2. pont g) alpontját az 1577/2019. (X. 15.) Korm. határozat 5. pontja visszavonta.
+[^4]: A 2. pont h) alpontját az 1577/2019. (X. 15.) Korm. határozat 5. pontja visszavonta.
+[^5]: A 2. pont j) alpontját az 1577/2019. (X. 15.) Korm. határozat 5. pontja visszavonta.
+[^6]: A 2. pont k) alpontját az 1577/2019. (X. 15.) Korm. határozat 5. pontja visszavonta.
