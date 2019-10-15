@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-31-20-7
 | 2018-10-17 | 2018-31-20-7R.2 | 2010: CXXX. törvény |
 | 2018-12-07 | 2018-31-20-7R.3 | 35/2018. (XII. 6.) AM rendelet |
 | 2019-06-08 | 2018-31-20-7R.4 | 26/2019. (VI. 7.) AM rendelet |
+| 2019-10-15 | 2018-31-20-7R.5 | 47/2019. (X. 14.) AM rendelet |
