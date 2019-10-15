@@ -1,13 +1,13 @@
-## 3. §[^4] A Kincstár Budapest Főváros Kormányhivatalára átruházhatja a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR) működtetésével, valamint a területalapú támogatások távérzékeléses ellenőrzésével összefüggő alábbi feladatokat:
+3. §[^4] (1) A Kincstár a Nemzeti Földügyi Központra átruházhatja a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR) működtetésével, valamint a területalapú támogatások távérzékeléses ellenőrzésével összefüggő alábbi feladatokat:
 
 a) a MePAR időszakonkénti, programszerű felújítása;
 
-b) változásvezetési kérelmek vizsgálata, illetve átvezetése a MePAR-ban;
+b) változásvezetési bejelentések vizsgálata, illetve átvezetése a MePAR-ban;
 
 c) a területalapú támogatási kérelmek mezőgazdasági parcellánkénti, távérzékeléses ellenőrzése;
 
-d) a területalapú támogatási kérelemcsomagok adatszerkezeti és térképi előállítása, szétosztása;
+d) a MePAR adatainak kezelése, nyilvánosságra hozatala.
 
-e) a MePAR adatainak kezelése, nyilvánosságra hozatala.
+(2) A Nemzeti Földügyi Központ az (1) bekezdés szerint rá átruházott feladatok ellátásába bevonhatja a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságot.
 
-[^4]: A 3. § nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet – 379/2016. (XII. 2.) Korm. rendelet 326. § (1) bekezdésével megállapított – 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 3. § a 220/2019. (IX. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
