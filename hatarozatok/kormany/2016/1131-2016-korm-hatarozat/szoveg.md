@@ -64,9 +64,9 @@ Felelős: honvédelmi miniszter
 
 Határidő: 2016. június 30.
 
-e)[^3] felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket a Kecskemét Déli Iparterületen elhelyezkedő Barényi Béla út fejlesztése érdekében.
+e)[^3] felhívja az innovációért és technológiáért felelős minisztert, hogy tegye meg a szükséges intézkedéseket a Kecskemét Déli Iparterületen elhelyezkedő Barényi Béla út, valamint a Szent László körút fejlesztése érdekében.
 
-Felelős: nemzeti fejlesztési miniszter
+Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
@@ -140,5 +140,5 @@ Határidő: 2016. március 31.
 
 [^1]: A 2. pont b) pont bb) alpontját az 1422/2016. (VII. 29.) Korm. határozat 8. pontja visszavonta.
 [^2]: A 2. pont b) alpont bc) pontját az 1657/2017. (IX. 13.) Korm. határozat 2. pontja iktatta be.
-[^3]: A 2. pont e) alpontját az 1892/2017. (XI. 30.) Korm. határozat 3. pontja iktatta be.
+[^3]: A 2. pont e) alpontját az 1892/2017. (XI. 30.) Korm. határozat 3. pontja iktatta be, szövege az 1580/2019. (X. 15.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: A 4. pont b) alpontja az 1202/2017. (IV. 10.) Korm. határozat 6. pontjával megállapított szöveg.
