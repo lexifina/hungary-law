@@ -2,7 +2,7 @@
 
 ## 2. a Beruházás előkészítésének kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki, az emberi erőforrások minisztere bevonásával;
 
-## 3. a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), c), f), n), o) és p) pontja szerinti, 2019. évi pénzügyi teljesítéssel érintett előkészítési fázisaira – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 207 563 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy a teljes előkészítést legkésőbb 2020. június 30. napjáig kell megvalósítani;
+## 3.[^2] a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), c), e), f), l), n), o) és p) pontja szerinti, 2019. évi pénzügyi teljesítéssel érintett előkészítési fázisaira – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 207 563 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy a teljes előkészítést legkésőbb 2020. június 30. napjáig kell megvalósítani;
 
 ## 4. a Beruházás 3. pont szerinti előkészítési fázisainak megvalósítójaként a Beruházási Ügynökséget jelöli ki;
 
@@ -119,3 +119,5 @@
 | egyéb: | azonnal |  | 207 563 000 | 207 563 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A 3. pont az 1583/2019. (X. 15.) Korm. határozat 1. pontja szerint módosított szöveg.
