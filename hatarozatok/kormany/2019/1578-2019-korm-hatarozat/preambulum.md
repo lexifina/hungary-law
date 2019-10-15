@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemének keretében a Biatorbágyi Általános Iskola beruházás megvalósításáról szóló 1927/2017. (XII. 8.) Korm. határozatban foglaltak végrehajtása érdekében
