@@ -22,7 +22,7 @@ j) az erdészeti szakszemélyzet jogosulti alapképzésének és továbbképzés
 
 k) az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 9. § (3) bekezdés b) és e) pontja szerinti feladatok ellátása;
 
-l)[^1]
+l)[^2]
 
 (2) Az NFK erdészeti szakmai irányító tevékenysége keretében
 
@@ -40,4 +40,4 @@ f) végrehajtott belső ellenőrzéseken, auditokon, szakterületi ellenőrzése
 
 g) jelentést kérhet a megyei kormányhivataloktól az elvégzett feladataikról.
 
-[^1]: A 4. § (1) bekezdés l) pontja a 6. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^2]: A 4. § (1) bekezdés l) pontja a 6. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
