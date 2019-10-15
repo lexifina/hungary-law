@@ -1,6 +1,6 @@
 ## 7. A géntechnológiai hatóság kijelölése
 
-28. § (1)[^47] A Kormány a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény (a továbbiakban: Gtv.) szerinti
+28. § (1)[^51] A Kormány a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény (a továbbiakban: Gtv.) szerinti
 
 a) környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóságként,
 
@@ -34,4 +34,4 @@ f) az élelmiszerek tekintetében a NÉBIH-et és az élelmiszerlánc-biztonság
 
 g) a forgalomba hozatali engedéllyel nem rendelkező géntechnológiával módosított szervezetek forgalmazásának ellenőrzése tekintetében a NÉBIH-et és az élelmiszerlánc-biztonsági és állategészségügyi, valamint növény- és talajvédelmi hatáskörben eljáró járási hivatalt jelöli ki.
 
-[^47]: A 28. § (1) bekezdés záró szövegrésze a 186/2018. (X. 9.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^51]: A 28. § (1) bekezdés záró szövegrésze a 186/2018. (X. 9.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.

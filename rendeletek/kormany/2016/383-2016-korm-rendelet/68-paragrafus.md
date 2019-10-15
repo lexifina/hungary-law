@@ -10,8 +10,8 @@ b) az erdőterület igénybevételére vonatkozó elvi engedély megadására ir
 
 c) az erdőterület igénybevételének engedélyezésére irányuló eljárásban,
 
-d)[^75] az engedély nélkül vagy engedélytől eltérően telepített erdő fennmaradásának engedélyezésére irányuló eljárásban, valamint
+d)[^79] az engedély nélkül vagy engedélytől eltérően telepített erdő fennmaradásának engedélyezésére irányuló eljárásban, valamint
 
 e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti eljárásban
 
-[^75]: A 68. § d) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^79]: A 68. § d) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés d) pontja szerint módosított szöveg.
