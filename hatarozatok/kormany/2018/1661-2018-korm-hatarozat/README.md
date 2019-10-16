@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1661-30
 | --- | --- | --- |
 | 2018-12-06 | 2018-1661-30-22.1 | 1661/2018. (XII. 6.) Korm. határozat |
 | 2018-12-07 | 2018-1661-30-22.2 | 2010: CXXX. törvény |
+| 2019-10-16 | 2018-1661-30-22.3 | 1602/2019. (X. 16.) Korm. határozat |
