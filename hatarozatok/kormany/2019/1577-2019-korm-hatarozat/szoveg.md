@@ -34,4 +34,6 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-5. visszavonja az egyes beruházások közös érdekű projektté nyilvánításával kapcsolatos intézkedésekről szóló 1368/2017. (VI. 12.) Korm. határozat 2. pont b), c), g), h), j) és k) alpontját.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
