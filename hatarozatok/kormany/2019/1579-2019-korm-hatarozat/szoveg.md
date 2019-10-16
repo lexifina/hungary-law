@@ -10,24 +10,12 @@ emberi erőforrások minisztere
 
 Határidő: a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-2. Az Erzsébet Táborok infrastrukturális fejlesztéséről szóló 1123/2017. (III. 17.) Korm. határozat
+2.[^1]
 
-a) 2. pont c) alpontjában a „2019. évben 16 450,0 millió forint” szövegrész helyébe a „2020. évben 11 400,0 millió forint” szöveg,
+3.[^2]
 
-b) 2. pontjában az „a 2019. évi központi költségvetés tervezésével egyidejűleg” szövegrész helyébe az „a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében” szöveg
+4.[^3]
 
-lép.
-
-3. Az Erzsébet Táborok infrastrukturális fejlesztéséről szóló 1123/2017. (III. 17.) Korm. határozat megvalósításához szükséges éven túli kötelezettségvállaláshoz történő hozzájárulásról szóló 1828/2017. (XI. 9.) Korm. határozat
-
-a) 1. pontjában a „25 000 000 000” szövegrész helyébe a „19 950 000 000” szöveg és a „2019. évre 16 450 000 000” szövegrész helyébe a „2020. évre 11 400 000 000” szöveg,
-
-b) 2. pontjában a „2019.” szövegrész helyébe a „2020.” szöveg és a „16 450 000 000” szövegrész helyébe a „11 400 000 000” szöveg
-
-lép.
-
-4. Az Erzsébet Táborok infrastrukturális fejlesztéséről szóló 1123/2017. (III. 17.) Korm. határozat megvalósításához szükséges éven túli kötelezettségvállaláshoz történő hozzájárulásról szóló 1828/2017. (XI. 9.) Korm. határozat a következő 3. ponttal egészül ki:
-
-(A Kormány)
-
-„3. az Erzsébet Táborok infrastrukturális fejlesztéséről szóló 1123/2017. (III. 17.) Korm. határozatával megítélt források felhasználásának véghatáridejeként 2022. március 31. napját jelöli meg.”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
