@@ -2,9 +2,11 @@ A Kormány támogatva a szórvány- és tömbmagyarság azon igényét, hogy a n
 
 1. egyetért az óvodák, bölcsődék, iskola-óvoda komplexumok, kapcsolódó köznevelési intézmények építését, fejlesztését, az óvodapedagógusok képzését, az egészségügyi, sport- és rekreációs szolgáltatások fejlesztését, a védőnői szolgálat fejlesztését és a virtuális óvoda továbbfejlesztését, illetve ezek működési és lebonyolítási költségeit is magában foglaló Kárpát-medencei óvodafejlesztési program második ütemével (a továbbiakban: Program második üteme);
 
-2.[^1] felhívja a miniszterelnök általános helyettesét, hogy gondoskodjon a Program második ütemének végrehajtásáról;
+2.[^1] felhívja a miniszterelnök általános helyettesét, valamint a Csángóföldön megvalósuló programelemek tekintetében a külgazdasági és külügyminisztert, hogy gondoskodjanak a Program második ütemének végrehajtásáról;
 
 Felelős: a miniszterelnök általános helyettese
+
+külgazdasági és külügyminiszter
 
 Határidő: 2020. december 31.
 
@@ -40,4 +42,4 @@ Határidő: a 2017. év vonatkozásában 2017. november 15.
 
 a 2018. év vonatkozásában 2018. január 31.
 
-[^1]: A 2. pont az 1661/2018. (XII. 6.) Korm. határozat 3. pontjával megállapított szöveg.
+[^1]: A 2. pont az 1602/2019. (X. 16.) Korm. határozat 7. pontjával megállapított szöveg.
