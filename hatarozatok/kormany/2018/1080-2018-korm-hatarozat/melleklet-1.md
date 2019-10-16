@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 528 149 650 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
+## a)[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 2 528 149 650 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, az 1. melléklet szerint;
 
 ## az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter, emberi erőforrások minisztere
 
-## Határidő: 2019. június 30.
+## Határidő: 2019. június 30., az Állami Egészségügyi Ellátó Központ javára biztosított 630 000 000 forint és az Országos Mentőszolgálat javára biztosított 50 000 000 forint tekintetében 2019. december 31.
 
 ## b) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra alcím, 7. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása jogcímcsoportjának a 6. NMI Művelődési Intézet Nonprofit Közhasznú Kft. támogatása jogcímmel történő kiegészítését.
 
@@ -24,15 +24,15 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozattal a Bethlen Gábor Alap fejezet részére átcsoportosított 1 828 200 000 forint tekintetében az elszámolási határidő 2019. június 30.
 
-## 3–9.[^1]
+## 3–9.[^2]
 
 ## 10. A Kormány egyetért azzal, hogy a Határozattal a biztosított 321 000 000 forintból 55 000 000 forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 11.[^2]
+## 11.[^3]
 
 ## 12. A Kormány egyetért azzal, hogy a 2016. évi költségvetési maradványok egy részének felhasználásáról szóló 1775/2017. (XI. 7.) Korm. határozat 2. mellékletétől eltérően az Új Nemzedék Központ Nonprofit Közhasznú Kft. támogatása jogcím javára a B2 Felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzat javára átcsoportosított 158 678 399 forintból 146 287 514 forint a B1 Működési célú támogatások államháztartáson belülről kiemelt előirányzaton kerüljön felhasználásra.
 
-## 13–19.[^3]
+## 13–19.[^4]
 
 1. melléklet az 1080/2018. (III. 13.) Korm. határozathoz
 
@@ -158,6 +158,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 13–19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1591/2019. (X. 16.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 3–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 13–19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
