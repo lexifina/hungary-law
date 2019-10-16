@@ -1,6 +1,6 @@
 ## 1. egyetért az 1. mellékletben felsorolt kedvezményezettek (a továbbiakban: Kedvezményezettek) programjainak, beruházásainak, fejlesztéseinek megvalósításával, illetve működésének támogatásával;
 
-## 2. felhívja a miniszterelnök általános helyettesét, hogy az 1. pont szerinti támogatások biztosítása érdekében – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a Kedvezményezettek részére, az 1. mellékletben meghatározott támogatási célokra és összegben, mindösszesen 32 847 313 039 forint összegben nyújtson – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó – költségvetési támogatást;
+## 2.[^1] felhívja a miniszterelnök általános helyettesét, hogy az 1. pont szerinti támogatások biztosítása érdekében – a Bethlen Gábor Alap irányításáért felelős Bizottság közreműködésével – a Kedvezményezettek részére, az 1. mellékletben meghatározott támogatási célokra és összegben, mindösszesen 32 547 313 039 forint összegben nyújtson – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó – költségvetési támogatást;
 
 ## Felelős: a miniszterelnök általános helyettese
 
@@ -16,7 +16,13 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1810/2018. (XII. 23.) Korm. határozathoz[^1]
+## 4.[^2] felhívja a miniszterelnök általános helyettesét, hogy gondoskodjon az 1. melléklet 23. sorában foglalt támogatás biztosítása érdekében létrejött támogatási jogviszonynak a Kárpát-medencei óvodafejlesztési programmal kapcsolatos egyes Korm. határozatok módosításáról szóló 1602/2019. (X. 16.) Korm. határozat 5. pont b) alpontjával módosított összegnek megfelelő módosításáról.
+
+## Felelős: a miniszterelnök általános helyettese
+
+## Határidő: azonnal
+
+1. melléklet az 1810/2018. (XII. 23.) Korm. határozathoz[^3]
 
 | Sorszám | Kedvezményezett neve | Támogatási cél | Támogatási összeg (forint) |
 
@@ -64,7 +70,7 @@
 
 | 22. | Királyhágómelléki Református Egyházkerület | Kárpát-medencei óvodafejlesztési program támogatása | 86 040 303 |
 
-| 23. | Romániai Magyar Pedagógusok Szövetsége | Kárpát-medencei óvodafejlesztési program támogatása | 1 313 580 000 |
+| 23. | Romániai Magyar Pedagógusok Szövetsége | Kárpát-medencei óvodafejlesztési program támogatása | 1 013 580 000 |
 
 | 24. | Szlovákiai Református Keresztyén Egyház | Kárpát-medencei óvodafejlesztési program támogatása | 1 644 095 000 |
 
@@ -106,4 +112,6 @@
 
 | 43. | Bicskei Torna Club Egyesület | Határon túli ingatlanfejlesztés támogatása | 120 000 000 |
 
-[^1]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja, az 1058/2019. (II. 22.) Korm. határozat 2. pontja, az 1468/2019. (VII. 31.) Korm. határozat szerint módosított szöveg.
+[^1]: A 2.4. pont az 1602/2019. (X. 16.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4. pontot az 1602/2019. (X. 16.) Korm. határozat 4. pontja iktatta be.
+[^3]: Az 1. melléklet az 1835/2018. (XII. 27.) Korm. határozat 2. pontja, az 1058/2019. (II. 22.) Korm. határozat 2. pontja, az 1468/2019. (VII. 31.) Korm. határozat, az 1602/2019. (X. 16.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
