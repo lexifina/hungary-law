@@ -1,6 +1,6 @@
 ## 1. egyetért a Gálfi Béla Gyógyító és Rehabilitációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság által működtetett pszichiátriai intézmény fejlesztésére irányuló beruházások Egészséges Budapest Programhoz illeszkedő előkészítésével, ennek keretében az intézmény Pomázon és Budakalász Dunaparton lévő ingatlanjainak felújítása, bővítése, eszközbeszerzése és területrendezése előkészítésével;
 
-## 2. az 1. pont szerinti beruházásoknak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés k), m), n) és o) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 331 932 150 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2019. december 31. napig kell megvalósítani;
+## 2.[^1] az 1. pont szerinti beruházásoknak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés k), m), n) és o) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 331 932 150 forint forrást biztosít a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 19. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 10. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 31. napig kell megvalósítani;
 
 ## 3. az 1. pont szerinti beruházások előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
@@ -26,17 +26,17 @@
 
 ## 6. felhívja az emberi erőforrások miniszterét, hogy
 
-## a) készítsen jelentést a Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről;
+## a)[^2] készítsen jelentést a Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 2. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről;
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2020. január 30.
+## Határidő: 2021. január 30.
 
-## b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
+## b)[^3] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére az 1. pont szerinti beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával.
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2020. május 30.
+## Határidő: 2021. május 30.
 
 1. melléklet az 1539/2018. (X. 30.) Korm. határozathoz
 
@@ -125,3 +125,7 @@ Költségvetési év: 2018.
 | Pénzügyminisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont az 1591/2019. (X. 16.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^2]: A 6. pont a) alpontja az 1591/2019. (X. 16.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^3]: A 6. pont b) alpontja az 1591/2019. (X. 16.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.

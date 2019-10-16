@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1539-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-10-30 | 2018-1539-30-22.1 | 1539/2018. (X. 30.) Korm. határozat |
+| 2019-10-16 | 2018-1539-30-22.2 | 1591/2019. (X. 16.) Korm. határozat |
