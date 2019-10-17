@@ -1,5 +1,8 @@
-2. § (1) A miniszterelnök a honvédelemért felelős miniszter és a rendészetért felelős miniszter együttes előterjesztésére javaslatot tesz a Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvénnyel létrehozott Országgyűlés Szent Korona Testület (a továbbiakban: Testület) részére a Szent Korona rendkívüli állapotban, szükségállapotban, veszélyhelyzetben vagy azok épségét közvetlenül fenyegető más okból történő veszélyeztetettsége esetére a Szent Korona biztonságba helyezésére vonatkozó eljárási szabályokra.
+2. § (1)[^5] A miniszterelnök – a honvédelemért felelős miniszter és a rendészetért felelős miniszter együttes előterjesztésére – javaslatot tesz a Szent István államalapításának emlékéről és a Szent Koronáról szóló 2000. évi I. törvénnyel létrehozott Szent Korona Testület (a továbbiakban: Testület) részére a Szent Korona – különleges jogrendben vagy az épségét közvetlenül fenyegető más okból bekövetkező veszélyeztetettsége esetén történő – biztonságba helyezésére vonatkozó eljárási szabályokra.
 
 (2) A Testületnek a Szent Koronával kapcsolatos intézkedési javaslatai Honvéd Koronaőrséget érintő feladatainak végrehajtását a honvédelemért felelős miniszter rendeli el.
 
-(3) Ha a Szent Korona őrzési helyről történő elszállításáról a Testület döntést hoz, az elszállítást – a Testület által megállapított eseti feltételekkel – kizárólag a Honvéd Koronaőrség hajtja végre. Az elszállítás végrehajtásáról a honvédelemért felelős miniszter a Testületet tájékoztatja.
+(3)[^6] Ha a Szent Korona őrzési helyről történő elszállításáról a Testület vagy a Testület akadályoztatása esetén az (1) bekezdés szerinti eljárási szabályokban arra felhatalmazott személy döntést hoz, az elszállítást – a Testület által megállapított feltételekkel – kizárólag a Honvéd Koronaőrség hajtja végre. Az elszállítás végrehajtásáról a honvédelemért felelős miniszter a Testületet tájékoztatja.
+
+[^5]: A 2. § (1) bekezdése a 241/2019. (X. 16.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (3) bekezdése a 241/2019. (X. 16.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
