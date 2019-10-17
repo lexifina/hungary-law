@@ -3008,7 +3008,7 @@ Tófalu
 
 Újlőrincfalva
 
-9.4.[^3] Gyöngyösi Járási Hivatal
+9.4.[^4] Gyöngyösi Járási Hivatal
 
 Székhely: Gyöngyös
 
@@ -3060,7 +3060,7 @@ Visonta
 
 Visznek
 
-9.5.[^4] Hatvani Járási Hivatal
+9.5.[^5] Hatvani Járási Hivatal
 
 Székhely: Hatvan
 
@@ -7044,5 +7044,5 @@ Zalaszentlászló
 
 Zalavég
 
-[^3]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
