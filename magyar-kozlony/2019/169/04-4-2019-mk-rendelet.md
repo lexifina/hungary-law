@@ -1,0 +1,148 @@
+# A miniszterelnök kabinetfőnökének 4/2019. (X. 17.) MK rendelete
+
+Magyar Közlöny 2019. évi 169. szám, 2019. október 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/vDBATZWl9Sbyw3BqQLNU5d9b6fcf49d12/dokumentumok/83b5831c1f295834171df3ba39fa4a8eefc2c530/letoltes)
+
+---
+
+A miniszterelnök kabinetfőnökének 4/2019. (X. 17.) MK rendelete
+a Kőrösi Csoma Sándor díjak adományozásának rendjéről
+Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. §
+(6) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.)
+Korm. rendelet 7. § (1) bekezdés 3. és 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. A Kőrösi Csoma Sándor díjakról
+1. § (1) A miniszterelnök kabinetfőnöke (a továbbiakban: miniszter) a turisztikai tevékenység irányításában, tervezésében,
+szervezésében, a nemzetközi turisztikai kapcsolatok, illetve a társadalmi felelősségvállalás terén végzett
+példamutató és kiemelkedő tevékenység elismeréseként Kőrösi Csoma Sándor Nagydíj (a továbbiakban: Nagydíj)
+megnevezésű szakmai díjat adományozhat.
+(2) A miniszter turisztikai tevékenység irányításában, tervezésében, szervezésében, a nemzetközi turisztikai
+kapcsolatok terén az életútját meghatározó ideig végzett kiemelkedő teljesítmény elismeréseként Kőrösi Csoma
+Sándor Életműdíjat (a továbbiakban: Életműdíj) adományozhat annak a személynek, aki az adományozás évében
+a 60. életévét betöltötte, és legalább 20 éve szolgálja tevékenyen a turizmus ágazatot.
+(3) A miniszter Kőrösi Csoma Sándor Talentum-díjat (a továbbiakban: Talentum-díj) adományozhat az elismerés
+adományozását megelőző egy évben a turizmus fejlődésében meghatározó jelentőségű kreatív ötlet,
+innovatív fejlesztés vagy találmány létrehozásában közreműködő, az adományozás évében 30 év alatti személy
+teljesítményének elismeréseként.
+(4) E rendelet alkalmazásában posztumusz díjnak minősül, ha az (1)–(3) bekezdés szerinti elismerésre vonatkozó
+javaslat a javaslattétel időpontját megelőzően elhunyt személyre vonatkozik.
+2. Az elismerések adományozásának rendje
+2. § (1) Az 1. § szerinti elismerések (a továbbiakban: Elismerés) adományozását a turisztikai térségek fejlesztésével
+kapcsolatos állami feladatok koordinációjáért felelős miniszteri biztos, a Magyar Turisztikai Ügynökség Zártkörűen
+Működő Részvénytársaság (a továbbiakban: MTÜ) vezérigazgatója, valamint a turisztikai és vendéglátóipari szakmai
+szervezetek kezdeményezhetik.
+(2) Az Elismerés adományozására vonatkozó javaslatot a miniszternek címezve – az 1. mellékletben foglalt tartalmi
+követelmények szerint – kell benyújtani a miniszter által vezetett minisztérium (a továbbiakban: minisztérium)
+közigazgatási államtitkárának.
+(3) A beérkezett javaslatokat a Kitüntetési Bizottság a javaslatokban foglalt és az egyéb nyilvánosan elérhető,
+a jelölt szakmai teljesítményére vonatkozó adatok összesítésével rangsorolja. A miniszter a Kitüntetési Bizottság
+javaslatainak figyelembevételével dönt az Elismerések adományozásáról.
+(4) A Kitüntetési Bizottság elnöke és tagjai a miniszter által felkért személyek.
+(5) A Kitüntetési Bizottság működését az általa meghatározott ügyrend szabályozza.
+3. § (1) Az Elismerés adományozásához szükséges az elismerésre javasolt természetes személy 2. mellékletben foglalt
+előzetes hozzájárulása az 1. mellékletben meghatározott személyes adatainak a 4. § (5) bekezdése szerinti
+kezeléséhez, valamint az Elismeréssel összefüggő, 4. § (6) bekezdése szerinti személyes adatai közzétételéhez.
+(2) Nem adományozható Elismerés annak,
+a) akit bűncselekmény elkövetése miatt jogerősen elítéltek, és az Elismerésre történő felterjesztés napján még
+nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól,
+b) aki az Elismerésre történő felterjesztés napján jogerős fegyelmi büntetés hatálya alatt áll,
+c) aki legkésőbb az Elismerésre történő felterjesztés napján az (1) bekezdés szerinti hozzájárulást nem adja meg,
+vagy azt annak átadását megelőzően visszavonja.
+
+(3) Aki a (2) bekezdésben foglaltak ellenére valamely Elismerésben részesült, attól a miniszter azt – a (2) bekezdésben
+foglaltakról való tudomásszerzését követően azonnal – visszavonja.
+(4) Méltatlanná válik az Elismerésre az, akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek,
+jogerős bírói ítélettel a közügyektől vagy az Elismeréssel összefüggő foglalkozásától eltiltottak. A méltatlanná vált
+személytől a miniszter az Elismerést visszavonja.
+4. § (1) Az Elismerés adományozására az MTÜ által évente megrendezésre kerülő Turizmus Summit gálaesemény – vagy
+annak megfelelő turisztikai gálaesemény – alkalmából kerül sor.
+(2) Az Elismerést a miniszter vagy az általa megbízott személy ünnepélyes keretek között adja át.
+(3) Ha az Elismerésben részesített személy a javaslattétel és az átadás közötti időben elhalálozik, akkor az Elismerést
+a törvényes örökösnek kell kiadni. A posztumusz elismerés átvételére a Kitüntetési Bizottság javaslatában megjelölt
+hozzátartozó jogosult.
+(4) Elismerésben ugyanaz a személy vagy szervezet egy alkalommal részesíthető. Életműdíj adományozható annak is,
+aki korábban Nagydíjban vagy Talentum-díjban részesült.
+(5) Az Elismerések adományozásáról és visszavonásáról a minisztérium nyilvántartást vezet, amely tartalmazza
+az Elismerésben részesített 1. melléklet szerinti adatait, az Elismerés adományozásának időpontját, valamint
+esetleges visszavonásának tényét és időpontját.
+(6) A Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján közzé kell tenni
+az Elismerés adományozásának tényét, az Elismerésben részesített nevét, beosztását és érdemeit, továbbá
+az esetleges visszavonás tényét és időpontját.
+5. § (1) Évente legfeljebb
+a) hat Nagydíj,
+b) egy Életműdíj,
+c) egy Talentum-díj
+adományozható.
+(2) Életműdíj adományozható annak is, aki korábban Nagydíj vagy Talentum-díj elismerésben részesült.
+(3) Az Elismerésekhez adományozó okirat jár.
+3. Záró rendelkezések
+6. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+7. §
+E rendelet szerinti Elismerés adományozhatóak annak is, aki e rendelet hatálybalépését megelőzően már részesült
+Pro Turismo-díj elismerésben.
+8. §
+E rendeletet a hatálybalépését megelőzően tett és a rendelet hatálybalépéséig el nem bírált Pro Turismo-díj
+adományozásának rendjéről szóló 1/2018. (X. 11.) MK rendelet szerinti elismerésre tett javaslatokra is alkalmazni
+kell, azzal, hogy a Pro Turismo-díjra tett javaslatot Elismerésre vonatkozó javaslatnak kell tekinteni azzal, hogy
+a Kitüntetési Bizottság állapítja meg azt, hogy mely 1. § szerinti díj adományozható a javasolt személynek.
+9. §
+Hatályát veszti a Pro Turismo-díj adományozásának rendjéről szóló 1/2018. (X. 11.) MK rendelet.
+ Rogán Antal s. k.,
+ a miniszterelnök kabinetfőnöke
+
+1. melléklet a 4/2019. (X. 17.) MK rendelethez
+Javaslat elismerés adományozására
+1. A Kőrösi Csoma Sándor díjak adományozásának rendjéről szóló 4/2019. (X. 17.) MK rendelet alapján a javasolt
+elismerés megnevezése:
+2. Az elismerés adományozására javasolt személy
+a) neve:
+b) születési neve:
+c) születési helye:
+d) születési ideje (év, hó, nap):
+e) anyja neve:
+f) iskolai végzettsége:
+g) jelenlegi munkahelye (szervezeti egység megnevezésével, nyugdíj mellett vállalt munka esetében is):
+h) munkaköre, illetve beosztása:
+i) közszolgálati tisztviselő esetében besorolása:
+j) lakcíme:
+k) értesítési telefonszáma:
+3. Az elismerés adományozására javasolt nem természetes személy
+a) neve:
+b) székhelye/telephelye vagy bejegyzett címe:
+c) elérhetősége (értesítési telefonszám):
+d) képviselője:
+4. A jelölt korábban kapott elismerései (állami, szakmai és miniszteri elismerés):
+5. A javaslat indokolása (legalább 3-5 mondatban):
+6. A javaslattevő
+a) neve:
+b) munkahelye:
+c) elérhetősége:
+Dátum: ...........................................................................
+ ...................................................................................
+ javaslattevő aláírása
+
+2. melléklet a 4/2019. (X. 17.) MK rendelethez
+Nyilatkozat
+(természetes személy esetén)
+Alulírott ....................................................................................... kijelentem, hogy a Kőrösi Csoma Sándor Nagydíjra /
+Kőrösi Csoma Sándor Életműdíjra / Kőrösi Csoma Sándor Talentum-díjra1 történő jelölésemmel összefüggésben
+hozzájárulok / nem járulok hozzá természetes személyazonosító adataim és lakcímadatom, valamint a javaslatban
+szereplő személyes adataimnak az elismerésben részesülők nyilvántartásában való kezeléséhez, illetve
+a nyilvánosság elismerésemről és érdemeimről történő tájékoztatásához, a nyilvántartásba történő bejegyzést
+követő 100 évig terjedő időtartamban.
+Kijelentem továbbá, hogy az elismerésre történő felterjesztéskor bűncselekmény elkövetése miatt jogerősen
+nem ítéltek el / mentesültem a büntetett előélethez fűződő hátrányos jogkövetkezmények alól, nem állok jogerős
+fegyelmi büntetés hatálya alatt.
+E nyilatkozat a Kőrösi Csoma Sándor díjak adományozásának rendjéről szóló 4/2019. (X. 17.) MK rendelet 3. § (1) és
+(2) bekezdésén, valamint 4. § (5) bekezdésén alapul.
+Kelt: ...........................................................................
+ ...................................................................................
+ elismerésre javasolt aláírása
+1 A megfelelő rész aláhúzandó.
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó Kft.
+Felelős kiadó: Papp Tibor ügyvezető.
