@@ -26,24 +26,22 @@
 
 ## Határidő: azonnal
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, címrend-kiegészítésről és egyes kormányhatározatok módosításáról szóló 1080/2018. (III. 13.) Korm. határozat 1. pont a) alpontjában a „2019. június 30.” szövegrész helyébe a „2019. június 30., az Állami Egészségügyi Ellátó Központ javára biztosított 630 000 000 forint és az Országos Mentőszolgálat javára biztosított 50 000 000 forint tekintetében 2019. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő átcsoportosításról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, fejezetek közötti és fejezeten belüli átcsoportosításról, a Honvédelmi Minisztérium fejezet szociális hozzájárulási adó felhasználásáról és egyes kormányhatározatok módosításáról szóló 1347/2018. (VII. 26.) Korm. határozat 1. pont b) alpontjában a „112 045 204 forint tekintetében 2019. december 31.” szövegrész helyébe a „112 045 204 forint tekintetében és a Határon átnyúló agrár- és környezetvédelmi feladatok támogatása javára biztosított 420 880 000 forint tekintetében 2019. december 31., a Zártkerti Program támogatása javára biztosított 1 523 575 000 forint tekintetében 2020. április 30.” szöveg lép.
+## 3.[^2]
 
-## 4. A Gálfi Béla Gyógyító és Rehabilitációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság által működtetett pszichiátriai intézmény fejlesztésére irányuló beruházások előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1539/2018. (X. 30.) Korm. határozat
+## 4.[^3]
 
-## a) 2. pontjában a „2019. december 31.” szövegrész helyébe a „2020. december 31.” szöveg,
+## 5.[^4]
 
-## b) 6. pont a) alpontjában a „2020. január 30.” szövegrész helyébe a „2021. január 30.” szöveg,
-
-## c) 6. pont b) alpontjában a „2020. május 30.” szövegrész helyébe a „2021. május 30.” szöveg
-
-## lép.
-
-## 5. A fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, a 2017. évi költségvetési maradványok egy részének felhasználásáról, valamint egyes kormányhatározatok módosításáról szóló 1806/2018. (XII. 23.) Korm. határozat 1. pont i) alpontjában a „2019. június 30.” szövegrész helyébe a „2019. június 30., a Tokaji Borvidéken megvalósuló szakmai feladatok támogatása előirányzat javára biztosított 588 772 064 forint tekintetében 2019. december 15.” szöveg lép.
-
-## 6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, az Országvédelmi Alapból, a Központi Maradványelszámolási Alapból történő előirányzat-átcsoportosításról, fejezetek közötti átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1244/2019. (IV. 30.) Korm. határozat 1. pont a) alpontjában a „2019. december 31.” szövegrész helyébe a „2019. december 31., az Agrárkutatás támogatása előirányzat javára biztosított 974 464 000 forint tekintetében 2020. június 30.” szöveg lép.
+## 6.[^5]
 
 ## 7. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, a 2018. évi költségvetési maradványok egy részének felhasználásáról, valamint egyes kormányhatározatok módosításáról szóló 1432/2019. (VII. 26.) Korm. határozat 4. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a LXV. Bethlen Gábor Alap fejezet, 4. Nemzetpolitikai célú támogatások cím javára átcsoportosított 4 950 000 000 forintból 30 000 000 forint a LXV. Bethlen Gábor Alap fejezet, 5. Alapkezelő működési költségei címen kerüljön felhasználásra és elszámolásra.
 
 1. melléklet az 1591/2019. (X. 16.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
