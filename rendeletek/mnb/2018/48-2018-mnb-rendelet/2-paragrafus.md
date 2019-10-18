@@ -16,11 +16,11 @@ e) a hitelintézet, harmadik országbeli hitelintézet magyarországi fióktelep
 
 f) a globálisan és egyéb rendszerszinten jelentős befektetési vállalkozás tevékenységi engedélye megadására, az engedély módosítására és visszavonására vonatkozó határozat, ide nem értve, ha a döntés alapját képező eljáráshoz szanálási hatáskörben hozott döntés is kapcsolódik,
 
-g) a hitelintézetek átalakulásának, egyesülésének, szétválásának engedélyezésére, továbbá a hitelitézetben és a globálisan és egyéb rendszerszinten jelentős befektetési vállalkozásban történő befolyásoló részesedés megszerzésére és a befolyásszerzés módosításának engedélyezésre vonatkozó határozatok, amennyiben a tulajdoni részesedés vagy szavazati jog eléri vagy meghaladja a 20, 33 vagy 50 százalékos határértéket; ide nem értve, ha a döntés alapját képező eljáráshoz szanálási hatáskörben hozott döntés is kapcsolódik,
+g)[^2] a hitelintézetek átalakulásának, egyesülésének, szétválásának engedélyezésére, továbbá a hitelintézetben és a globálisan és egyéb rendszerszinten jelentős befektetési vállalkozásban történő befolyásoló részesedés megszerzésére és a befolyásszerzés módosításának engedélyezésre vonatkozó határozatok, amennyiben a tulajdoni részesedés vagy szavazati jog eléri vagy meghaladja a 20, 33 vagy 50 százalékos határértéket; ide nem értve, ha a döntés alapját képező eljáráshoz szanálási hatáskörben hozott döntés is kapcsolódik,
 
 h) a globálisan és egyéb rendszerszinten jelentős hitelintézet és befektetési vállalkozás átfogó vizsgálatának lezárására és célvizsgálat intézkedéssel történő lezárására vonatkozó határozatok, ide nem értve, ha a vizsgált intézmény szanálás alatt áll a döntés meghozatalakor,
 
-i)[^1] a piacfelügyeleti eljárás vagy fogyasztóvédelmi ellenőrzési eljárás keretében 50 millió forintot meghaladó személyi vagy 50 millió forintot meghaladó intézményi bírság kiszabását tartalmazó határozat, ide nem értve, ha a bírság megfizetésére kötelezett szanálás alatt álló felügyelt szervezet,
+i)[^3] a piacfelügyeleti eljárás vagy fogyasztóvédelmi ellenőrzési eljárás keretében 50 millió forintot meghaladó személyi vagy 50 millió forintot meghaladó intézményi bírság kiszabását tartalmazó határozat, ide nem értve, ha a bírság megfizetésére kötelezett szanálás alatt álló felügyelt szervezet,
 
 j) a fizetési rendszer működtetése tevékenység engedélyezése, e tevékenység végzéséhez kapcsolódó egyéb engedély kiadása, valamint a jelen pont szerinti engedélyek módosítása és visszavonása,
 
@@ -32,9 +32,15 @@ m) a hitelező által bejelentett kamatváltoztatási és kamatfelár-változtat
 
 n) az Innovációs Pénzügyi Tesztkörnyezetben való részvétel engedélyezése, az eltérés engedélyezése és az engedélyezés feltételeinek megállapítása,
 
-o)[^2] az a)–n) pontban nem nevesített minden olyan egyéb ügy, melyben a Magyar Nemzeti Bank Szervezeti és Működési Szabályzata (a továbbiakban: SZMSZ) szerint illetékes szervezeti egység irányításáért felelős alelnök, ügyvezető igazgató írásbeli kezdeményezése alapján a PST a döntés meghozatalát magához vonja.
+o)[^4] az a)–n) pontban nem nevesített minden olyan egyéb ügy, melyben a Magyar Nemzeti Bank Szervezeti és Működési Szabályzata (a továbbiakban: SZMSZ) szerint illetékes szervezeti egység irányításáért felelős alelnök, ügyvezető igazgató írásbeli kezdeményezése alapján a PST a döntés meghozatalát magához vonja.
 
-(2)[^3] A pénzügyi szervezetek felügyeletéért és fogyasztóvédelemért felelős alelnök hoz döntést – az (1) és (3) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
+(1a)[^5] A monetáris politikáért, pénzügyi stabilitásért és hitelösztönzésért felelős alelnök hoz döntést – az (1), (2) és (3) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
+
+a) a felügyelt szervezet MNB rendelettel elrendelt statisztikai adatszolgáltatási kötelezettsége teljesítésének ellenőrzése során, az irányítása alatt álló szervezeti egység által kezdeményezett bírság alkalmazása, ide nem értve az eljárási bírság kiszabását,
+
+b) az irányítása alatt álló szervezeti egység SZMSZ szerinti felügyeleti feladata ellátásához az MNB tv. 48. § (3) bekezdése szerinti rendszeres és rendkívüli adatszolgáltatás elrendelésére vonatkozó határozat.
+
+(2)[^6] A pénzügyi szervezetek felügyeletéért és fogyasztóvédelemért felelős alelnök hoz döntést – az (1), (1a) és (3) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
 
 a) az átfogó, cél-, téma-, utóvizsgálatot lezáró határozat és eljáráson kívül hozott határozat, ide nem értve a kizárólag fogyasztóvédelmi ellenőrzési eljárásban és eljáráson kívül, rendkívüli adatszolgáltatást elrendelő, valamint a teljesítési határidő meghosszabbítása tárgyában hozott döntést,
 
@@ -48,7 +54,7 @@ b) a felügyelt szervezetek – a közvetítők kivételével – működési, t
 
 c) intézkedést, kivételes vagy rendkívüli intézkedést tartalmazó alábbi döntések:
 
-ca) a hitelintézetekről és a pénzügyi vállakozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) szerinti kivételes intézkedést tartalmazó döntés, kivéve az (1) bekezdés a) pontja szerinti döntést,
+ca)[^7] a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) szerinti kivételes intézkedést tartalmazó döntés, kivéve az (1) bekezdés a) pontja szerinti döntést,
 
 cb) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) 291. § (1) bekezdés d), i), n), r), s) pontja, valamint a q) pont qa), qd)–qg) alpontja szerinti döntések,
 
@@ -64,9 +70,11 @@ cg) a kollektív befektetési formákról és kezelőkről, valamint egyes pénz
 
 ch) a tőkepiacról szóló 2001. évi CXX. törvény 400. § (1) bekezdés d), h), i), l) és q) pontja szerinti döntések, kivéve egy meghatározott tőzsdei termék forgalmazásának felfüggesztésével kapcsolatos döntések,
 
-ci) a pénzmosás és a terrorizmus finaszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 69. § (1) bekezdés d) pontja szerinti, a szolgáltató működési, tevékenységi engedély felfüggesztésével kapcsolatos döntés, továbbá a Pmt. 69. § (1) bekezdés f) és g) pontja szerinti döntések,
+ci)[^8] a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 69. § (1) bekezdés d) pontja szerinti, a szolgáltató működési, tevékenységi engedély felfüggesztésével kapcsolatos döntés, továbbá a Pmt. 69. § (1) bekezdés f) és g) pontja szerinti döntések,
 
-d)[^4] a tőzsdei forgalmazás felfüggesztésével kapcsolatos határozatok, ide nem értve egy meghatározott tőzsdei termék forgalmazásának felfüggesztését és annak visszaállítását,
+cj)[^9] az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 73. § (2) bekezdés c) pontja és 75. § (1) bekezdés c) pontja szerinti döntések,
+
+d)[^10] a tőzsdei forgalmazás felfüggesztésével kapcsolatos határozatok, ide nem értve egy meghatározott tőzsdei termék forgalmazásának felfüggesztését és annak visszaállítását,
 
 e) az MNB tv. 49/D. §-a szerinti ideiglenes intézkedést magában foglaló végzések,
 
@@ -78,51 +86,49 @@ h) belső tőkemegfelelés értékelési folyamat felülvizsgálata keretében m
 
 i) az (1) bekezdés e)–i) pontja alapján a PST döntési jogkörébe nem tartozó valamennyi határozat.
 
-(3)[^5] A nemzetközi kapcsolatokért, statisztikáért, készpénzlogisztikáért, pénzügyi infrastruktúrákért és digitalizációért felelős alelnök hoz döntést – az (1) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
+(3)[^11] A nemzetközi kapcsolatokért, készpénzlogisztikáért, pénzügyi infrastruktúrákért és digitalizációért felelős alelnök hoz döntést – az (1)–(2) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
 
-a) a pénzforgalmi, a pénzfeldolgozási és a készpénzforgalmazási tevékenység, valamint a d) pont szerint elrendelt adatszolgáltatási kötelezettség teljesítésének ellenőrzése során intézkedés, kivételes intézkedés és bírság alkalmazása, ide nem értve az eljárási bírság kiszabását,
+a) a pénzforgalmi, a pénzfeldolgozási és a készpénzforgalmazási tevékenység, a felügyelt szervezet MNB rendelettel elrendelt statisztikai adatszolgáltatási kötelezettsége, valamint a c) pont szerint elrendelt adatszolgáltatási kötelezettség teljesítésének ellenőrzése során, az irányítása alatt álló szervezeti egység által kezdeményezett intézkedés, kivételes intézkedés és bírság alkalmazása, ide nem értve az eljárási bírság kiszabását,
 
 b) a pénzforgalmi, a fizetési rendszer működtetése, a központi szerződő fél és a központi értéktári tevékenység ellenőrzése során az MNB tv. 49/D. § (1) bekezdése szerinti ideiglenes intézkedés alkalmazása,
 
-c) a felügyelt szervezet MNB rendelettel elrendelt statisztikai adatszolgáltatási kötelezettsége teljesítésének ellenőrzése során bírság alkalmazása, ide nem értve az eljárási bírság kiszabását,
+c) az irányítása alatt álló szervezeti egység SZMSZ szerinti felügyeleti feladata ellátásához az MNB tv. 48. § (3) bekezdése szerinti rendszeres és rendkívüli adatszolgáltatás elrendelésére vonatkozó határozat.
 
-d) az irányítása alatt álló szervezeti egység SZMSZ szerinti felügyeleti feladata ellátásához az MNB tv. 48. § (3) bekezdése szerinti rendszeres és rendkívüli adatszolgáltatás elrendelésére vonatkozó határozat.
+(4)[^12]
 
-(4)[^6]
+(5)[^13] A pénzpiaci szervezetek prudenciális és fogyasztóvédelmi felügyeletéért felelős ügyvezető igazgató hoz döntést – az (1) és (2) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
 
-(5) A pénzügyi szervezetek felügyeletéért felelős ügyvezető igazgató hoz döntést – az (1) és (2) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
+a) az irányítása alá tartozó szervezeti egység által felügyelt intézmény felügyeletének keretében, a Pénzpiaci jogérvényesítési főosztály által előkészített döntés, kivéve az eljárást megszüntető, az eljárást felfüggesztő, a felfüggesztés megszüntetését elrendelő és az idéző végzést, továbbá az egyidejűleg, azonos adattartalommal, több felügyelt szervezet számára rendkívüli adatszolgáltatást elrendelő határozatot,
 
-a)[^7] a Pénzpiaci jogérvényesítési főosztály, a Biztosítási és pénztári engedélyezési és jogérvényesítési főosztály által előkészített határozatokról és végzésekről, kivéve az engedélyezési tárgyú döntéseket, az eljárást megszüntető, az eljárást felfüggesztő, a felfüggesztés megszüntetését elrendelő és az idéző végzéseket, továbbá az egyidejűleg, azonos adattartalommal, több felügyelt szervezet számára rendkívüli adatszolgáltatást elrendelő határozatokat,
+b) az irányítása alá tartozó szervezeti egység által felügyelt pénzpiaci szervezet felügyeletének keretében hozott fogyasztóvédelmi tárgyú, 5 000 000 Ft-ot meghaladó bírságösszeget tartalmazó határozat,
 
-b) a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet 17. cikke alapján hozott döntés.
+c) a pénzmosás és terrorizmus finanszírozásának megelőzése és megakadályozása tárgyában folyatatott, cél-, téma-, rendkívüli cél- és utóvizsgálatban, valamint folyamatos felügyelés gyakorlása keretében hozott döntés.
 
-(6) A fogyasztóvédelemért és piacfelügyeletért felelős ügyvezető igazgató hoz döntést – az (1) és (2) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
+(6)[^14] A tőkepiacok és biztosítók prudenciális, fogyasztóvédelmi felügyeletéért és piacfelügyeletért felelős ügyvezető igazgató hoz döntést – az (1) és (2) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
 
-a)[^8] piacfelügyeleti eljárás keretében hozott, illetve fogyasztóvédelmi tárgyú, 5 000 000 Ft-ot meghaladó bírságösszeget tartalmazó határozat,
+a) piacfelügyeleti eljárás keretében hozott, 5 000 000 Ft-ot meghaladó bírságösszeget tartalmazó határozat,
 
-b)[^9] a tőzsdei kibocsátókat érintő – a tájékoztatási kötelezettség ellenőrzésére irányuló – ellenőrzési eljárás, illetve folyamatos felügyelés gyakorlása keretében hozott, 5 000 000 Ft-ot meghaladó bírságösszeget tartalmazó határozat, ide nem értve az egyidejűleg egy meghatározott tőzsdei termék forgalmazását is felfüggesztő határozatot,
+b) a tőzsdei kibocsátókat érintő – a tájékoztatási kötelezettség ellenőrzésére irányuló – ellenőrzési eljárás, illetve folyamatos felügyelés gyakorlása keretében hozott, 5 000 000 Ft-ot meghaladó bírságösszeget tartalmazó határozat, ide nem értve az egyidejűleg egy meghatározott tőzsdei termék forgalmazását is felfüggesztő határozatot,
 
 c) az MNB tv. 64. § (1) bekezdés b) pontja alapján személyes felelősség tárgykörében indított célvizsgálatban hozott határozat,
 
-d) tőkepiaci átfogó, cél-, téma-, rendkívüli cél- és utóvizsgálatban, valamint folyamatos felügyelés keretében hozott, kivételes és rendkívüli intézkedést nem tartalmazó határozat, amelyben a kiszabott bírságösszeg az 5 000 000 Ft-ot meghaladja,
+d) az irányítása alá tartozó szervezeti egység által felügyelt tőkepiaci intézmények, biztosítók, pénztárak, biztosítási, tőkepiaci közvetítők, valamint a független pénzpiaci közvetítők felügyelésének keretében hozott, kivételes és rendkívüli intézkedést nem tartalmazó határozat, amennyiben a kiszabott bírságösszeg az 5 000 000 Ft-ot meghaladja,
 
-e) a nemzeti otthonteremtési közösségek és azokat szervező vállalkozások felügyeletét érintően hozott, 5 000 000 Ft-ot meghaladó bírságösszeget tartalmazó határozat,
+e) a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet 17. cikke alapján hozott döntés,
 
-f) az irányítása alá tartozó szervezeti egység által – ezen szervezeti egység feladatellátáshoz szükséges – a felügyelt szervezet részére előírt rendszeres és rendkívüli adatszolgáltatást előíró határozat,
+f) az irányítása alá tartozó szervezeti egység által kezdeményezett – ezen szervezeti egység feladatellátáshoz szükséges –, a felügyelt szervezet részére rendszeres és rendkívüli adatszolgáltatást előíró határozat,
 
 g) az irányítása alá tartozó szervezeti egység által folytatott hatósági eljárásban hozott, 2 000 000 Ft-ot meghaladó összegű eljárási bírságot tartalmazó döntés,
 
-h)[^10] a pénzmosás és terrorizmus finanszírozásának megelőzése és megakadályozása tárgyában folyatatott, cél-, téma-, rendkívüli cél- és utóvizsgálatban, valamint folyamatos felügyelés gyakorlása keretében hozott, határozat,
+h) a Hatósági képzési és nyilvántartási főosztály által előkészített, megállapítást tartalmazó döntés, a felügyeleti ellenőrzést megindító és lezáró végzés,
 
-i) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet 42. cikke alapján hozott döntés,
-
-j)[^11] az irányítása alá tartozó szervezeti egység által felügyelt pénzügyi vállalkozás felügyeletének keretében hozott – az a) pontban nem említett –, 5 000 000 Ft-ot meghaladó bírságösszeget tartalmazó határozat.
+i) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet 42. cikke alapján hozott döntés.
 
 (7) Az engedélyezésért és a jogérvényesítésért felelős ügyvezető igazgató hoz döntést – az (1) és (2) bekezdésben foglaltak kivételével – az 1. § a) pontja szerinti következő esetekben:
 
-1.[^12] a hitelintézet, a Bit. szerinti alkusz és többes ügynök kivételével a felügyelt szervezet tevékenységi, működési engedélyének kérelemre történő visszavonása,
+1.[^15] a hitelintézet, a Bit. szerinti alkusz és többes ügynök kivételével a felügyelt szervezet tevékenységi, működési engedélyének kérelemre történő visszavonása,
 
-2.[^13] a bizalmi vagyonkezelő tevékenységének, tevékenysége módosításának engedélyezése, az engedély visszavonása,
+2.[^16] a bizalmi vagyonkezelő tevékenységének, tevékenysége módosításának engedélyezése, az engedély visszavonása,
 
 3. tőzsde alapításának, tevékenységének, tevékenysége módosításának engedélyezése, valamint a központi értéktár, központi szerződő fél tevékenységének, tevékenysége módosításának engedélyezése,
 
@@ -240,7 +246,7 @@ j)[^11] az irányítása alá tartozó szervezeti egység által felügyelt pén
 
 60. a foglalkoztatói nyugdíjszolgáltató intézmény által az Európai Unió más tagállamában és az Európai Gazdasági Térségről szóló megállapodásban részes más államban történő foglalkoztatói nyugdíjszolgáltató intézmény alapításának, vagy az Európai Unió más tagállamában és az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményben részesedés megszerzésének engedélyezése,
 
-61.[^14] egy meghatározott tőzsdei termék forgalmazásának felfüggesztésével, annak visszaállításával kapcsolatos határozat, ideértve az egyidejűleg bírságot is tartalmazó határozatot,
+61.[^17] egy meghatározott tőzsdei termék forgalmazásának felfüggesztésével, annak visszaállításával kapcsolatos határozat, ideértve az egyidejűleg bírságot is tartalmazó határozatot,
 
 62. az 5 milliárd forintot meghaladó nyilvános értékpapír-kibocsátással kapcsolatos határozatok.
 
@@ -248,7 +254,7 @@ j)[^11] az irányítása alá tartozó szervezeti egység által felügyelt pén
 
 a) a fizetési rendszer működtetése tevékenység engedélyezése, e tevékenység végzéséhez kapcsolódó egyéb engedély kiadása, valamint a jelen pont szerinti engedélyek módosítása és visszavonása iránti eljárásban hozott végzések,
 
-b) – a (3) bekezdés b) pontjában foglalt döntés kivételével – a pénzforgalmi, a fizetési rendszer működtetése, a központi szerződő fél és a központi értéktári tevékenység ellenőrzésével kapcsolatos végzések, ideértve az eljárási bírság kiszabását, az ellenőrzés alapján előírt, meghatározott cselekmény teljesítésére való kötelezettség teljesítésének halasztása iránti kérelemről való döntést, valamint az ellenőrzés alapján kiszabott bírság mérséklése és elengedése iránti kérelem visszautasítását is.
+b)[^18] – a (3) bekezdés b) pontjában foglalt döntés kivételével – a pénzforgalmi, a fizetési rendszer működtetése, a központi szerződő fél és a központi értéktári tevékenység, a felügyelt szervezet MNB rendelettel elrendelt statisztikai, valamint a (3) bekezdés c) pontja szerint elrendelt adatszolgáltatási kötelezettsége teljesítésének a vezetése alatt álló szervezeti egység általi ellenőrzésével kapcsolatos végzések, ideértve az eljárási bírság kiszabását, az ellenőrzés alapján előírt, meghatározott cselekmény teljesítésére való kötelezettség teljesítésének halasztása iránti kérelemről való döntést, valamint az ellenőrzés alapján kiszabott bírság mérséklése és elengedése iránti kérelem visszautasítását is.
 
 (9) A pénzügyi szervezetek felügyeletéért és fogyasztóvédelemért felelős alelnök irányítása alá tartozó, a feladatköre alapján illetékes igazgató hoz döntést az 1. § a) pontja szerinti, az (1), (2), (5)–(7), (13), (14) és (16) bekezdésben nem nevesített esetekben.
 
@@ -256,17 +262,17 @@ b) – a (3) bekezdés b) pontjában foglalt döntés kivételével – a pénzf
 
 a) a pénzfeldolgozási tevékenység engedélyezése, az engedély módosítása és visszavonása iránti eljárásban hozott végzések,
 
-b) a pénzfeldolgozási és készpénzforgalmazási tevékenység ellenőrzésével kapcsolatos végzések, ideértve az eljárási bírság kiszabását, az ellenőrzés alapján előírt, meghatározott cselekmény teljesítésére való kötelezettség teljesítésének halasztása iránti kérelemről való döntést, valamint az ellenőrzés alapján kiszabott bírság mérséklése és elengedése iránti kérelem visszautasítását is.
+b)[^19] a pénzfeldolgozási és készpénzforgalmazási tevékenység, a felügyelt szervezet MNB rendelettel elrendelt statisztikai, valamint a (3) bekezdés c) pontja szerint elrendelt adatszolgáltatási kötelezettsége teljesítésének a vezetése alatt álló szervezeti egység általi ellenőrzésével kapcsolatos végzések, ideértve az eljárási bírság kiszabását, az ellenőrzés alapján előírt, meghatározott cselekmény teljesítésére való kötelezettség teljesítésének halasztása iránti kérelemről való döntést, valamint az ellenőrzés alapján kiszabott bírság mérséklése és elengedése iránti kérelem visszautasítását is.
 
-(11) A Statisztikai igazgatóságot vezető igazgató hoz döntést az 1. § a) pontja szerinti következő esetekben:
+(11)[^20] A Statisztikai igazgatóságot vezető igazgató hoz döntést az 1. § a) pontja szerinti következő esetekben:
 
-a) a felügyelt szervezet MNB rendelettel elrendelt statisztikai, valamint a (3) bekezdés d) pontja szerint elrendelt adatszolgáltatási kötelezettsége teljesítésének ellenőrzése alapján intézkedés, kivételes intézkedés alkalmazása,
+a) a felügyelt szervezet MNB rendelettel elrendelt statisztikai, valamint az (1a) bekezdés b) pontja és a (3) bekezdés c) pontja szerint elrendelt adatszolgáltatási kötelezettsége teljesítésének ellenőrzése alapján, a vezetése alatt álló szervezeti egység által kezdeményezett intézkedés, kivételes intézkedés alkalmazása,
 
-b) a felügyelt szervezet MNB rendelettel elrendelt statisztikai, valamint a (3) bekezdés d) pontja szerint elrendelt adatszolgáltatási kötelezettsége teljesítésének ellenőrzésével kapcsolatos végzések, ideértve az eljárási bírság kiszabását, az ellenőrzés alapján előírt, meghatározott cselekmény teljesítésére való kötelezettség teljesítésének halasztása iránti kérelemről való döntést, valamint az ellenőrzés alapján kiszabott bírság mérséklése és elengedése iránti kérelem visszautasítását is.
+b) a felügyelt szervezet MNB rendelettel elrendelt statisztikai, valamint az (1a) bekezdés b) pontja szerint elrendelt adatszolgáltatási kötelezettsége teljesítésének a vezetése alatt álló szervezeti egység általi ellenőrzésével kapcsolatos végzések, ideértve az eljárási bírság kiszabását, az ellenőrzés alapján előírt, meghatározott cselekmény teljesítésére való kötelezettség teljesítésének halasztása iránti kérelemről való döntést, valamint az ellenőrzés alapján kiszabott bírság mérséklése és elengedése iránti kérelem visszautasítását is.
 
 (12) A Jogi igazgatóságot vezető igazgató hoz az 1. § a) pontja szerinti döntést a bírságköveteléssel kapcsolatos halasztásra vagy részletfizetésre irányuló kérelem vonatkozásában.
 
-(13) A fogyasztóvédelemért és piacfelügyeletért felelős ügyvezető igazgató irányítása alá tartozó szervezeti egység illetékes főosztályvezetője hoz döntést az 1. § a) pontja szerinti következő esetekben:
+(13)[^21] A tőkepiacok és biztosítók prudenciális, fogyasztóvédelmi felügyeletéért és piacfelügyeletért felelős ügyvezető igazgató, illetve a pénzpiaci szervezetek prudenciális és fogyasztóvédelmi felügyeletéért felelős ügyvezető igazgató irányítása alá tartozó szervezeti egység illetékes főosztályvezetője hoz döntést az 1. § a) pontja szerinti következő esetekben:
 
 a) az általa irányított főosztály feladatkörébe tartozó alábbi végzések:
 
@@ -278,9 +284,15 @@ ac) nyilatkozattételre, adatszolgáltatásra felhívó végzés,
 
 ad) megkeresést tartalmazó végzés,
 
-b)[^15] fogyasztóvédelmi ellenőrzési eljárásokban a nyilatkozattételre, hiánypótlásra felhívó végzések.
+b) fogyasztóvédelmi ellenőrzési eljárásokban a nyilatkozattételre, hiánypótlásra felhívó végzések.
 
-(14)[^16] Az engedélyezésért és a jogérvényesítésért felelős ügyvezető igazgató irányítása alá tartozó szervezeti egység illetékes főosztályvezetője, főosztályvezető által nem felügyelt, SZMSZ szerint illetékes szervezeti egység esetén az önálló osztály vezetője hoz döntést az 1. § a) pontja szerinti, az általa irányított főosztály, önálló osztály feladatkörébe tartozó következő esetekben:
+(13a)[^22] A Hatósági képzési és nyilvántartási főosztály vezetője hoz döntést a feladatkörébe tartozó, az 1. § a) pontja szerinti következő esetekben:
+
+a) hatósági bizonyítvány és másodlat kiállítása,
+
+b) a 2. § (6) bekezdés h) pontja alá nem tartozó egyéb végzések.
+
+(14)[^23] Az engedélyezésért és a jogérvényesítésért felelős ügyvezető igazgató irányítása alá tartozó szervezeti egység illetékes főosztályvezetője, főosztályvezető által nem felügyelt, SZMSZ szerint illetékes szervezeti egység esetén az önálló osztály vezetője hoz döntést az 1. § a) pontja szerinti, az általa irányított főosztály, önálló osztály feladatkörébe tartozó következő esetekben:
 
 a) az eljárást kérelemre megszüntető végzés,
 
@@ -290,7 +302,7 @@ c) hatáskör hiánya miatti áttételt elrendelő végzés,
 
 d) a hiánypótlást elrendelő végzés,
 
-e)[^17] a kérelemre induló fogyasztóvédelmi ellenőrzési eljárásokban a kérelmet visszautasító, valamint az eljárást megszüntető végzések.
+e)[^24] a kérelemre induló fogyasztóvédelmi ellenőrzési eljárásokban a kérelmet visszautasító, valamint az eljárást megszüntető végzések.
 
 (15) Az Általános jogi főosztály vezetője hoz döntést az 1. § a) pontja szerinti következő esetekben:
 
@@ -314,20 +326,26 @@ b) különböző vezetési szinten álló, vezetői hatáskörrel rendelkező sz
 
 c) azonos vezetési szinten álló, vezetői hatáskörrel rendelkező személyek érintettsége esetén, illetve amennyiben a b) pont alapján nem határozható meg a döntéshozatalra jogosult személy, a felügyelt szervezet felügyeletéért SZMSZ szerint felelős szervezeti egység tekintetében vezetői hatáskörrel rendelkező személy.
 
-[^1]: A 2. § (1) bekezdés i) pontja a 21/2019. (V. 23.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdés o) pontja a 21/2019. (V. 23.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (2) bekezdés nyitó szövegrésze a 21/2019. (V. 23.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
-[^4]: A 2. § (2) bekezdés d) pontja a 21/2019. (V. 23.) MNB rendelet 2. § c) pontja szerint módosított szöveg.
-[^5]: A 2. § (3) bekezdése a 21/2019. (V. 23.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (4) bekezdését a 21/2019. (V. 23.) MNB rendelet 3. § b) pontja hatályon kívül helyezte.
-[^7]: A 2. § (5) bekezdés a) pontja a 21/2019. (V. 23.) MNB rendelet 2. § d) pontja szerint módosított szöveg.
-[^8]: A 2. § (6) bekezdés a) pontja a 21/2019. (V. 23.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
-[^9]: A 2. § (6) bekezdés b) pontja a 21/2019. (V. 23.) MNB rendelet 2. § f) pontja szerint módosított szöveg.
-[^10]: A 2. § (6) bekezdés h) pontja a 21/2019. (V. 23.) MNB rendelet 3. § c) pontja szerint módosított szöveg.
-[^11]: A 2. § (6) bekezdés j) pontját a 21/2019. (V. 23.) MNB rendelet 1. § (2) bekezdése iktatta be.
-[^12]: A 2. § (7) bekezdés 1. pontja a 21/2019. (V. 23.) MNB rendelet 2. § g) pontja szerint módosított szöveg.
-[^13]: A 2. § (7) bekezdés 2. pontja a 21/2019. (V. 23.) MNB rendelet 2. § h) pontja szerint módosított szöveg.
-[^14]: A 2. § (7) bekezdés 61. pontja a 21/2019. (V. 23.) MNB rendelet 2. § i) pontja szerint módosított szöveg.
-[^15]: A 2. § (13) bekezdés b) pontja a 21/2019. (V. 23.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
-[^16]: A 2. § (14) bekezdés nyitó szövegrésze a 21/2019. (V. 23.) MNB rendelet 2. § j) pontja szerint módosított szöveg.
-[^17]: A 2. § (14) bekezdés e) pontja a 21/2019. (V. 23.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés g) pontja a 35/2019. (X. 17.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés i) pontja a 21/2019. (V. 23.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés o) pontja a 21/2019. (V. 23.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1a) bekezdését a 35/2019. (X. 17.) MNB rendelet 1. § (1) bekezdése iktatta be.
+[^6]: A 2. § (2) bekezdés nyitó szövegrésze a 21/2019. (V. 23.) MNB rendelet 2. § b) pontja, a 35/2019. (X. 17.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdés c) pont ca) alpontja a 35/2019. (X. 17.) MNB rendelet 2. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdés c) pont ci) alpontja a 35/2019. (X. 17.) MNB rendelet 2. § d) pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdés c) pont cj) alpontját a 35/2019. (X. 17.) MNB rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 2. § (2) bekezdés d) pontja a 21/2019. (V. 23.) MNB rendelet 2. § c) pontja szerint módosított szöveg.
+[^11]: A 2. § (3) bekezdése a 35/2019. (X. 17.) MNB rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^12]: A 2. § (4) bekezdését a 21/2019. (V. 23.) MNB rendelet 3. § b) pontja hatályon kívül helyezte.
+[^13]: A 2. § (5) bekezdése a 35/2019. (X. 17.) MNB rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^14]: A 2. § (6) bekezdése a 35/2019. (X. 17.) MNB rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^15]: A 2. § (7) bekezdés 1. pontja a 21/2019. (V. 23.) MNB rendelet 2. § g) pontja szerint módosított szöveg.
+[^16]: A 2. § (7) bekezdés 2. pontja a 21/2019. (V. 23.) MNB rendelet 2. § h) pontja szerint módosított szöveg.
+[^17]: A 2. § (7) bekezdés 61. pontja a 21/2019. (V. 23.) MNB rendelet 2. § i) pontja szerint módosított szöveg.
+[^18]: A 2. § (8) bekezdés b) pontja a 35/2019. (X. 17.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
+[^19]: A 2. § (10) bekezdés b) pontja a 35/2019. (X. 17.) MNB rendelet 2. § e) pontja szerint módosított szöveg.
+[^20]: A 2. § (11) bekezdése a 35/2019. (X. 17.) MNB rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^21]: A 2. § (13) bekezdése a 35/2019. (X. 17.) MNB rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^22]: A 2. § (13a) bekezdését a 35/2019. (X. 17.) MNB rendelet 1. § (7) bekezdése iktatta be.
+[^23]: A 2. § (14) bekezdés nyitó szövegrésze a 21/2019. (V. 23.) MNB rendelet 2. § j) pontja szerint módosított szöveg.
+[^24]: A 2. § (14) bekezdés e) pontja a 21/2019. (V. 23.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
