@@ -1,0 +1,1 @@
+## 11. § A Központi Statisztikai Hivatal és a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a Turizmus tv. alapján az adatszolgáltatásra vonatkozóan együttműködési megállapodást köt, mely együttműködési megállapodásban a felek meghatározzák az adatszolgáltatás tartalmi, műszaki követelményeit.

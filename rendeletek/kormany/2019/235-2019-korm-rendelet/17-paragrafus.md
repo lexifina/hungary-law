@@ -1,0 +1,5 @@
+## 16. § Azok a szálláshely-szolgáltatók, amelyek a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló 239/2009. (X. 20.) Korm. rendelet 4. § (3)–(6a) bekezdése szerinti szálláshely-szolgáltatási tevékenységüket 2019. december 1-jét megelőzően jelentik be, továbbá működési engedéllyel rendelkeznek, kötelesek 2019. december 1. és 2019. december 31. között az e rendelet 5. §-a szerinti regisztrációt teljesíteni. A napi és a havi adatszolgáltatást 2020. január 1-jétől kell teljesíteni, azzal, hogy az adatszolgáltatás első napja 2020. január 1-je, illetve első alkalommal 2020. január 1. napját követően kötelező a havi adatszolgáltatás teljesítése.
+
+17. § (1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E rendeletnek a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
