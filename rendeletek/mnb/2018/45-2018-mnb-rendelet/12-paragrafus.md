@@ -1,5 +1,3 @@
-## 11. § A szolgáltató a nem valós idejű ügyfél-átvilágítás rendszerét úgy alakítja ki, hogy azt a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékos személy is igénybe tudja venni.
-
 12. § (1) Az auditált elektronikus hírközlő eszköz útján végzett valós idejű ügyfél-átvilágítás (a továbbiakban: valós idejű ügyfél-átvilágítás) során a szolgáltató a 6. §-ban meghatározottaknak megfelelő eszköz útján vagy anélkül összeveti az ügyfélről készített fényképet és az átvilágításhoz felhasznált okiratban szereplő képmást. Az ügyfél-átvilágítás akkor megfelelő, amennyiben kétséget kizáróan megállapítható, hogy az okiratban szereplő személy azonos a fénykép- vagy videofelvételen szereplő személlyel.
 
 (2) A szolgáltató a 6. §-ban meghatározottaknak megfelelő eszköz nélküli valós idejű ügyfél-átvilágítást egy, a célnak megfelelő helyiségben végezheti.

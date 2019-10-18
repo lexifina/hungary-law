@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-45-20-2
 | 2019-01-02 | 2018-45-20-2C.2 | 2010: CXXX. törvény |
 | 2019-03-08 | 2018-45-20-2C.3 | 11/2019. (III. 7.) MNB rendelet |
 | 2019-07-01 | 2018-45-20-2C.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2019-10-18 | 2018-45-20-2C.5 | 26/2020. (VIII. 25.) MNB rendelet |
