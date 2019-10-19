@@ -6,7 +6,7 @@ b) egy Életműdíj,
 
 c) egy Talentum-díj
 
-## adományozható.
+adományozható.
 
 (2) Életműdíj adományozható annak is, aki korábban Nagydíj vagy Talentum-díj elismerésben részesült.
 

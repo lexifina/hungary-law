@@ -1,8 +1,6 @@
-## 9. § Hatályát veszti a Pro Turismo-díj adományozásának rendjéről szóló 1/2018. (X. 11.) MK rendelet.
-
 1. melléklet a 4/2019. (X. 17.) MK rendelethez
 
-## Javaslat elismerés adományozására
+Javaslat elismerés adományozására
 
 1. A Kőrösi Csoma Sándor díjak adományozásának rendjéről szóló 4/2019. (X. 17.) MK rendelet alapján a javasolt elismerés megnevezése:
 
