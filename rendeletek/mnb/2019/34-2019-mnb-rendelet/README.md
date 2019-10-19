@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-34-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-10-18 | 2019-34-20-2C.1 | 34/2019. (X. 17.) MNB rendelet |
+| 2019-10-19 | 2019-34-20-2C.2 | 2010: CXXX. törvény |
