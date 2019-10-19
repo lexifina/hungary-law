@@ -1,0 +1,5 @@
+## 1. § A nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2016/1628 európai parlamenti és tanácsi rendelet] szabályozott hatósági eljárásokért az eljáró közlekedési hatóság részére az 1. mellékletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
+
+2. § (1) Az igazgatási szolgáltatási díjat a kérelem, illetve a regisztrációs dokumentum benyújtásával egyidejűleg kell az Innovációs és Technológiai Minisztérium Magyar Államkincstárnál vezetett 10032000-00290713-38100004 számú számlájára igazoltan befizetni.
+
+(2) Az eljárásért fizetett igazgatási szolgáltatási díj a közlekedési hatóság saját bevétele. A bevételek beszedésénél, elszámolásánál és nyilvántartásánál az eljáró közlekedési hatóságnak az államháztartás számviteléről szóló kormányrendelet előírásait kell alkalmaznia.
