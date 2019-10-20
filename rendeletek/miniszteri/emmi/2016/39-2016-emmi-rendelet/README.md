@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-39-20-5
 | 2017-11-01 | 2016-39-20-5H.6 | 29/2017. (X. 31.) EMMI rendelet |
 | 2018-12-01 | 2016-39-20-5H.7 | 38/2018. (X. 31.) EMMI rendelet |
 | 2019-07-27 | 2016-39-20-5H.8 | 14/2019. (VII. 26.) EMMI rendelet |
+| 2019-10-20 | 2016-39-20-5H.9 | 23/2019. (X. 15.) EMMI rendelet |

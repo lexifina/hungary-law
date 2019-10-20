@@ -10,7 +10,9 @@ c) az Eüak. 35/B. § (1) bekezdés b) pontja alapján csatlakozásra köteles g
 
 d) az Eüak. 35/B. § (1) bekezdés c) pontja alapján csatlakozásra köteles állami mentőszolgálat 2018. november 1. napjáig,
 
-e) a 2. § (1) bekezdésében meghatározott szervezet 2017. március 1. napjáig
+e) a 2. § (1) bekezdésében meghatározott szervezet 2017. március 1. napjáig,
+
+f)[^14] a 2. § (1a) bekezdése szerinti egészségügyi szolgáltató 2020. január 1-jéig
 
 ## köteles teljesíteni.
 
@@ -28,6 +30,11 @@ b) a nem közfinanszírozott egészségügyi ellátások tekintetében 2018. nov
 
 (5) A kezelőorvos, ennek hiányában a háziorvos a 18. §-ban meghatározott feladatát 2017. november 1. napjától köteles teljesíteni.
 
+(5a)[^15] A 2. § (1a) bekezdése szerinti egészségügyi szolgáltató az adatszolgáltatási kötelezettségét legkésőbb 2020. június 1. napjától köteles teljesíteni.
+
 (6) 2017. január 1. napjáig automatikus információátadás helyett az állami és önkormányzati nyilvántartások együttműködésének általános szabályairól szóló törvény szerinti automatikus adatátadás útján kell az azonosítási és jogosultságkezelési nyilvántartás működéséhez szükséges nyilvántartások Eüak. szerinti adatait, valamint a törzsadat-nyilvántartásba történő közzétételt biztosítani.
 
 (7) 2017. január 1. napjáig a Kormány által kötelezően biztosítandó azonosítási szolgáltatás alatt a Kormány által kötelezően nyújtandó azonosítási szolgáltatást kell érteni.
+
+[^14]: A 22. § (1) bekezdés f) pontját a 23/2019. (X. 15.) EMMI rendelet 2. § (1) bekezdése iktatta be.
+[^15]: A 22. § (5a) bekezdését a 23/2019. (X. 15.) EMMI rendelet 2. § (2) bekezdése iktatta be.
