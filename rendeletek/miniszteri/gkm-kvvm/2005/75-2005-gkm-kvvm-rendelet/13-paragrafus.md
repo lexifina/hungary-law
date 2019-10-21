@@ -1,7 +1,0 @@
-## A gyártás megfelelőségére vonatkozó intézkedések
-
-13. § (1) A hatóságnak, szükség esetén más tagállamok hatóságaival együttműködve, a típusjóváhagyás megadása előtt meg kell győződnie arról, hogy a gyártó megtette a szükséges intézkedéseket az 1. számú melléklet 5. pontjában a gyártás egyezőségére vonatkozóan megállapított követelmények kielégítésének, hatékony ellenőrzésének biztosítására.
-
-(2) A típusjóváhagyást megadó hatóságnak, szükség esetén más tagállamok hatóságaival együttműködve, az 1. számú melléklet 5. pontjában meghatározott előírásokra tekintettel meg kell tennie a szükséges intézkedéseket annak érdekében, hogy meggyőződjék (1) bekezdésben említett intézkedéseknek a megfelelőségéről a gyártás folyamatában, és biztosított legyen, hogy minden a rendeletnek megfelelő típus-jóváhagyási számot viselő legyártott motor megegyezzen a jóváhagyott motortípus vagy motorcsalád típusbizonyítványában és mellékleteiben szereplő leírással.
-
-(3) A hatóság a gyártó számára az (1) bekezdésben előírtak ellenőrzésére információt kérhet a gyártó alkalmazott minőségbiztosítási rendszerére vonatkozóan, azt értékelheti, szükség esetén előírhatja annak módosítását. A gyártás megfelelőségének (2) bekezdés szerinti ellenőrzése során a hatóság vizsgálhatja a minőségbiztosítási rendszer megfelelő működtetését, ellenőrizheti véletlenszerűen kiválasztott motorok jellemzőinek egyezését az információs dokumentumban szereplő adatokkal, nem megfelelő gyártásra utaló jelek esetén véletlenszerűen választott motorok ellenőrző vizsgálatát rendelheti el.
