@@ -1,8 +1,8 @@
-## I. Gépjármű, mezőgazdasági vontató, segédmotoros kerékpár és lassú jármű kipufogógázának megengedett szennyezőanyag-tartalma
+## I. Gépjármű, segédmotoros kerékpár és lassú jármű kipufogógázának megengedett szennyezőanyag-tartalma
 
 ## 1. Gépkocsi
 
-## 8K33557M_0
+## 9K06457N_0
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -54,7 +54,7 @@
 
 | négyütemű | 1,5 | 600 |
 
-## 3. Mezőgazdasági vontató és lassú jármű
+## 3. Lassú jármű
 
 |  | A | B | C | D |
 
@@ -148,6 +148,6 @@
 
 ## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^303]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^376]
 
-[^303]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^376]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

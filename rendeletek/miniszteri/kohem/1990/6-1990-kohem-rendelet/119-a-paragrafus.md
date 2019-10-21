@@ -1,5 +1,5 @@
-## IV/A. Fejezet[^239]
+## IV/A. Fejezet[^240]
 
 ## ÁTMENETI RENDELKEZÉSEK
 
-[^239]: A IV/A. fejezetet a 30/2017. (VIII. 14.) NFM rendelet 2. §-a iktatta be.
+[^240]: A IV/A. fejezetet a 30/2017. (VIII. 14.) NFM rendelet 2. §-a iktatta be.

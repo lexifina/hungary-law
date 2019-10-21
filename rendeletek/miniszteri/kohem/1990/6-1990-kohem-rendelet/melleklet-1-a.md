@@ -296,7 +296,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó motorkerékpárokra és segédmotoros kerékpárokra vonatkozó jóváhagyási kötelezettségek
 
-## 7K35752M_1
+## 9K06457P_1
 
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
@@ -510,65 +510,7 @@
 
 ## 1/C. táblázat
 
-## 1. Az e rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
-
-## 7K35752M_6
-
-| MR | ENSZ-EGB | EK (EGK) | Műszaki terület | A | B |
-
-| Alkalmazási kötelezettség |
-
-| függelék/ melléklet (műszaki terület) sorszáma | előírás | módo- sítási sorozat | alap- irány- elv | utolsó módosító irányelv | típus-jóváhagyási eljárásban | egyedi eljárásban |
-
-| C/1. | – | – | 2009/63 |  | Traktorok meghatározott jellemzői és alkatrészei | + | – |
-
-| C/2. | – | – | 2009/60 | 2010/62 | Traktorok legnagyobb tervezett sebessége és rakfelülete | + | – |
-
-| C/3. | – | – | 2009/59 |  | Traktorok visszapillantó tükrei | + | – |
-
-| C/4. | – | – | 2008/2 |  | Traktorok látómezője és ablaktörlői | + | – |
-
-| C/5. | – | – | 2009/66 |  | Traktorok kormányszerkezete | + | – |
-
-| C/6. | – | – | 2009/64 |  | Traktorok rádiózavarszűrése | + | – |
-
-| C/7. | – | – | 75/323 | – | A traktorok és a pótkocsik elektromos csatlakozójára vonatkozó követelmények | + |  |
-
-| C/8. | – | – | 76/432 | 97/54 | Traktorok fékszerelvényei | + | – |
-
-| C/9. | – | – | 76/763 | 2010/52 | Traktorok vezetőülése melletti pótülés | – | – |
-
-| C/10. | – | – | 2009/76 |  | Traktorok vezetőire ható zajszint | + | – |
-
-| C/11. | – | – | 2009/57 |  | Traktorok borulása elleni védőszerkezetek dinamikai vizsgálata | + |  |
-
-| C/12. | 96 | 01 | 77/537 2000/25 | 2011/72 2011/87 2014/43 | A traktorok motorjának szennyezőanyag- kibocsátására vonatkozó követelmények | + | +(1) |
-
-| C/13. | – | – | 78/764 | 1999/57 | Traktorok vezetőülése | – | – |
-
-| C/14. | – | – | 2009/61 |  | Traktorok világító és fényjelző szerelvényei | + | – |
-
-| C/15. | – | – | 2009/68 |  | Traktorok világító és fényjelző szerelvényei | + | – |
-
-| C/16. | – | – | 2009/58 |  | Traktorok vontató és hátrameneti berendezései | – | – |
-
-| C/17. | – | – | 2009/75 |  | Traktorok borulásának hatása elleni védőszerkezetek statikai vizsgálata | + | – |
-
-| C/18. | – | – | 80/720 | 2010/62 | Traktorok vezetőüléseinek megközelítése, ajtók, ablakok | – | – |
-
-| C/19. | – | – | 86/297 | 2012/24 | Traktorokhoz alkalmazott leágazó meghajtások | – | – |
-
-| C/20. | – | – | 86/298 | 2010/22 | Traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
-
-| C/21. | – | – | 86/415 | 2010/22 | Traktorok kezelőelemeinek beépítése, elhelyezése, működtetése | – | – |
-
-| C/22. | – | – | 87/402 | 2010/22 | Keskeny nyomtávú traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
-
-| C/23. | – | – | 2009/144 | 2010/62 2013/8 | Traktorok egyes alkatrészei és jellemzői | + | – |
-
-## Megjegyzés
-
-## (1) A C/12. számú melléklet követelményeit csak új traktorok forgalomba helyezése esetén kell alkalmazni. Az egyes „szabályozási fokozatok” alkalmazására és az egyenértékűségekre vonatkozó rendelkezéseket a C/12. számú melléklet tartalmazza.
+## 1.
 
 ## 2. A 167/2013/EU rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
 
@@ -798,7 +740,7 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^295]
+1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^368]
 
 A gépjármű és pótkocsija közlekedésbiztonsági és környezetvédelmi szempontból kiemelten fontos pótalkatrészeinek és tartozékainak minősítési követelményei
 
@@ -826,4 +768,4 @@ tekintetében meghatározott minősítési követelményeknek.
 
 7. Az e melléklet szerinti minősítési követelmények vizsgálatát a jogszabályban meghatározott vagy egyéb vonatkozó kötelező előírás – így különösen ENSZ-EGB előírás – szerint kell elvégezni. Kötelező előírás hiányában a vizsgálatot a vonatkozó szabvány betartásával vagy attól részben vagy teljesen eltérő módon kell elvégezni, ha a vizsgálat egyenértékűségét a kérelmező igazolja. Az előzőek hiányában összehasonlító vizsgálatot kell végezni a gépjármű és pótkocsija gyártása (gyári szerelése) során beépített alkatrész és a pótalkatrész között, azzal, hogy a működésmód és paraméterek vizsgálatánál a helyes működést tanúsító jellemző adatokat ilyen esetben műszeres próbapadi vagy üzemi összehasonlító vizsgálattal kell ellenőrizni.
 
-[^295]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.
+[^368]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.
