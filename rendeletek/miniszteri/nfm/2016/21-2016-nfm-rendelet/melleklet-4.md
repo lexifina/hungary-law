@@ -34,15 +34,7 @@ Az EU megfelelőségi nyilatkozatnak – függetlenül attól, hogy azonosító 
 
 7. További információk:
 
-7.1. Az EU megfelelőségi nyilatkozatban a hajtómotor gyártójának, illetve az 5. § (4) bekezdés b) vagy c) pontja szerinti motor átalakítását végző személynek nyilatkoznia kell arról, hogy a motorhoz tartozó beszerelési útmutatóval összhangban a vízi járműbe történő beszerelését követően a motor megfelel:
-
-a) az e rendeletben foglalt kipufogógáz-kibocsátási követelményeknek;
-
-b) a 75/2005. (IX. 29.) GKM–KvVM együttes rendeletben foglalt, a következő motorokra vonatkozó határértékeknek:
-
-ba) a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet szerinti típusjóváhagyással rendelkező azon motorok, amelyek megfelelnek a 75/2005. (IX. 29.) GKM–KvVM együttes rendelet 1. számú melléklet 4.1.2.4. pontjában meghatározott, „nem közúti CI. motor, a belvízi hajó, vasúti mozdony és motorkocsi meghajtására szolgáló motor kivételével” kategóriában használt kompressziós gyújtású motorokra vonatkozó III/A, 4.1.2.5. pontjában meghatározott III/B vagy 4.1.2.6. pontjában meghatározott IV. szabályozási lépcsőben szereplő kibocsátási határértékeknek; vagy
-
-bb) az 595/2009/EK európai parlamenti és tanácsi rendelet szerinti típusjóváhagyással rendelkező motorokra vonatkozó határértékeknek.
+7.1.[^5] Az EU megfelelőségi nyilatkozatban a hajtómotor gyártójának, illetve az 5. § (4) bekezdés b) vagy c) pontja szerinti motor átalakítását végző személynek nyilatkoznia kell arról, hogy a motorhoz tartozó beszerelési útmutatóval összhangban a vízi járműbe történő beszerelését követően a motor megfelel a 2. melléklet B) rész 2. fejezetében foglalt kipufogógáz-kibocsátási követelményeknek.
 
 7.2. A motor csak azt követően helyezhető üzembe, hogy nyilatkoztak arról, hogy az érintett vízi jármű megfelel az e rendeletben meghatározott követelményeknek.
 
@@ -51,3 +43,5 @@ bb) az 595/2009/EK európai parlamenti és tanácsi rendelet szerinti típusjóv
 8. A gyártó vagy annak meghatalmazott képviselője nevében történő aláírásra felhatalmazott személy azonosító adatai és aláírása.
 
 9. A kiállítás helye és ideje.
+
+[^5]: A 4. melléklet 7.1. pontja a 36/2019. (IX. 20.) ITM rendelet 19. §-ával megállapított szöveg.
