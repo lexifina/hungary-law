@@ -10,7 +10,7 @@ A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mér
 
 | 2. | A hagyományos vasúti rendszerek kölcsönös átjárhatóságáról szóló 103/2003. (XII. 27.) GKM rendelet | 50 000 000 |
 
-| 3. | A nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról szóló 75/2005. (IX. 29.) GKM–KvVM együttes rendelet | 1 000 000 |
+| 3. | A nem közúti mozgó gépek belső égésű motorjainak a gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási határértékeire és típusjóváhagyására vonatkozó követelményekről, az 1024/2012/EU és a 167/2013/EU rendelet módosításáról, valamint a 97/68/EK irányelv módosításáról és hatályon kívül helyezéséről szóló, 2016. szeptember 14-i (EU) 2016/1628 európai parlamenti és tanácsi rendelet | 1 000 000 |
 
 | 4. | A vasúti rendszer kölcsönös átjárhatóságáról szóló 30/2010. (XII. 23.) NFM rendelet | 100 000 000 |
 
@@ -20,4 +20,4 @@ A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mér
 
 | 7. | A kötélpálya-létesítményekről és a 2000/9/EK irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/424 európai parlamenti és tanácsi rendelet | 5 000 000 |
 
-[^7]: A 2. melléklet a 33/2016. (VIII. 2.) NFM rendelet 36. §-ával megállapított szöveg.
+[^7]: A 2. melléklet a 33/2016. (VIII. 2.) NFM rendelet 36. §-ával megállapított, a 36/2019. (IX. 20.) ITM rendelet 14. §-a szerint módosított szöveg.
