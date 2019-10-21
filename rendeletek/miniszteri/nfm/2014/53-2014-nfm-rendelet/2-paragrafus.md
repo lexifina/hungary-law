@@ -40,24 +40,25 @@ a) a hajó parancsnokát, a személyzet tagjait, illetve olyan személyeket, aki
 
 b) az egyévesnél fiatalabb korú csecsemőt,
 
-14. tengeri hajózásban használatos tüzelőanyag: bármely ásványolaj eredetű folyékony tüzelőanyag, amelynek rendeltetése a hajón történő felhasználás, vagy amelyet a hajón használnak fel, beleértve az ISO 8217 meghatározás szerinti tüzelőanyagot is, amely magában foglal minden olyan ásványolaj eredetű folyékony tüzelőanyagot, amelyet a nem közúti mozgó gépekbe építendő belsőégésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról szóló miniszteri rendeletben említett motorokban, valamint a kedvtelési célú vízi járművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló miniszteri rendeletben meghatározott belvízi hajókon vagy kedvtelési célú vízi járműveken használnak fel, amikor ezek a vízi járművek a tengeren tartózkodnak,
+14.[^5] tengeri hajózásban használatos tüzelőanyag: bármely ásványolaj eredetű folyékony tüzelőanyag, amelynek rendeltetése a hajón történő felhasználás, vagy amelyet a hajón használnak fel, beleértve az ISO 8217 meghatározás szerinti tüzelőanyagot is, amely magában foglal minden olyan ásványolaj eredetű folyékony tüzelőanyagot, amelyet a 2016/1628 európai parlamenti és tanácsi rendeletben említett motorokban, valamint a kedvtelési célú vízi járművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló miniszteri rendeletben meghatározott belvízi hajókon vagy kedvtelési célú vízi járműveken használnak fel, amikor ezek a vízi járművek a tengeren tartózkodnak,
 
 15. tengeri hajózásban használatos dízelolaj: bármely olyan tengeri hajózásban használatos tüzelő- és üzemanyag, amely az ISO 8217 I. sz. táblázatában a DMB fokozatra meghatározott tartományba esik, a kéntartalomra való hivatkozás kivételével,
 
 16. tengeri hajózásban használatos gázolaj: bármely olyan tengeri hajózásban használatos tüzelő- és üzemanyag, amely az ISO 8217 I. sz. táblázatában a DMX, DMA és DMZ fokozatra meghatározott tartományba esik, a kéntartalomra való hivatkozás kivételével,
 
-16a.[^5] tüzelőanyag-ellátást kiszolgáló rendszer: a tüzelőanyagot az üzemi tartályból a belsőégésű motorba juttató, azt megszűrő, tisztító és továbbító rendszer,
+16a.[^6] tüzelőanyag-ellátást kiszolgáló rendszer: a tüzelőanyagot az üzemi tartályból a belsőégésű motorba juttató, azt megszűrő, tisztító és továbbító rendszer,
 
 17. tüzelőolaj: kőolaj eredetű folyékony tüzelőanyag – kivéve a tengeri hajózásban használatos üzemanyagokat –, amelynek a vámtarifaszáma 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 vagy 2710 20 19, vagy olyan kőolaj eredetű folyékony tüzelőanyag, amelyet mind az elpárologtatós, mind a kényszerporlasztásos égető berendezésekben hő fejlesztésre használnak fel, és az MSZ EN ISO 3405 szerinti – vagy azzal egyenértékű más megoldással történő – vizsgálata során legalább 85% (V/V)-a desztillál át 350°C hőmérsékleten,
 
-18.[^6] uniós információs rendszer: az egyes hajóknak a 2002/59/EK európai parlamenti és tanácsi irányelv 22a. cikke értelmében létrehozott tengeri információkezelő rendszerben (SafeSeaNet) tárolt kikötői adatait felhasználó, az Európai Tengerészeti Biztonsági Ügynökség által üzemeltetett rendszer, amelynek rendeltetése az 1999/32/EK irányelv értelmében elvégzett egyéni megfelelőség-ellenőrzésekkel kapcsolatos adatok és eredmények tárolása, valamint megosztása,
+18.[^7] uniós információs rendszer: az egyes hajóknak a 2002/59/EK európai parlamenti és tanácsi irányelv 22a. cikke értelmében létrehozott tengeri információkezelő rendszerben (SafeSeaNet) tárolt kikötői adatait felhasználó, az Európai Tengerészeti Biztonsági Ügynökség által üzemeltetett rendszer, amelynek rendeltetése az 1999/32/EK irányelv értelmében elvégzett egyéni megfelelőség-ellenőrzésekkel kapcsolatos adatok és eredmények tárolása, valamint megosztása,
 
-19.[^7] üzemi tartály: az a tartály, ahonnan a tüzelőanyag a belsőégésű motorba érkezik.
+19.[^8] üzemi tartály: az a tartály, ahonnan a tüzelőanyag a belsőégésű motorba érkezik.
 
 [^1]: A 2. § 4a. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (1) bekezdése iktatta be.
 [^2]: A 2. § 5. pontja a 73/2016. (XII. 29.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 5a. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (2) bekezdése iktatta be.
 [^4]: A 2. § 10. pontja a 6/2016. (III. 30.) NFM rendelet 12. §-a szerint módosított szöveg.
-[^5]: A 2. § 16a. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (3) bekezdése iktatta be.
-[^6]: A 2. § 18. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (4) bekezdése iktatta be.
-[^7]: A 2. § 19. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (4) bekezdése iktatta be.
+[^5]: A 2. § 14. pontja a 36/2019. (IX. 20.) ITM rendelet 15. §-ával megállapított szöveg.
+[^6]: A 2. § 16a. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (3) bekezdése iktatta be.
+[^7]: A 2. § 18. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (4) bekezdése iktatta be.
+[^8]: A 2. § 19. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (4) bekezdése iktatta be.
