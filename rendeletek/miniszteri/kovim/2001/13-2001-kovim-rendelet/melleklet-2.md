@@ -192,7 +192,7 @@
 
 ## Bridgewater-csatorna Az egész csatorna
 
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^51]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^54]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -1678,13 +1678,13 @@ Ebben a fejezetben:
 
 1. motor: a kompressziós gyújtás elve alapján működő motor (dízelmotor);
 
-1a. főmotor: a nem közúti mozgó gépekbe és berendezésekbe szánt belső égésű motorok gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátása elleni intézkedésekre vonatkozó tagállami jogszabályok közelítéséről szóló, 1997. december 16-i európai parlamenti és a tanácsi irányelv (a továbbiakban: 97/68/EK irányelv) 2. cikkének meghatározása szerint belvízi hajó meghajtására szolgáló motor;
+1a. főmotor: a 2016/1628 európai parlamenti és tanácsi rendelet 3. cikkének 34. pontja szerinti belvízi hajó meghajtására szolgáló motor;
 
 1b. segédmotor: a hajó meghajtásától eltérő célú alkalmazáshoz használt motor;
 
 1c. cseremotor: használt vagy felújított motor, amely az üzemeltetésben lévő motor helyettesítésére szolgál, és amelynek konstrukciója (soros motor, V-motor) megegyezik a helyettesítendő motor konstrukciójával, hengereinek száma azonos, leadott teljesítménye és fordulatszáma legfeljebb 10%-kal tér el a helyettesítendő motor teljesítményétől és fordulatszámától;
 
-2. típusjóváhagyás: a módosított 97/68/EK irányelv 2. cikkének második francia bekezdése szerinti olyan eljárás, amelynek során egy tagállam tanúsítja, hogy egy motortípus vagy egy motorcsalád a motor(ok) által kibocsátott gáz-halmazállapotú szennyező anyagok és légszennyező részecskék tekintetében teljesíti az ezen irányelvben meghatározott vonatkozó műszaki követelményeket;
+2. típusjóváhagyás: a 2016/1628 európai parlamenti és tanácsi rendelet 3. cikkének 2. pontja szerinti eljárás;
 
 3. beépítési vizsgálat: az eljárás, amelynek keretében az illetékes hatóság meggyőződik arról, hogy az úszólétesítménybe beépített motor a típusjóváhagyás kiadását követő időszak folyamán végrehajtott gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátást érintő módosítás vagy szabályozás mellett az ebben a fejezetben meghatározott műszaki követelményeiknek megfelel;
 
@@ -1694,7 +1694,7 @@ Ebben a fejezetben:
 
 6. (Üres);
 
-7. motorcsalád: a módosított 97/68/EK irányelv 2. cikke negyedik francia bekezdésének meghatározása szerint a gyártó által csoportosított motorok, amelyek kialakításuk következtében várhatóan hasonló gáz- és szilárd halmazállapotú szennyezőanyag-kibocsátási tulajdonságokkal bírnak, és amelyek teljesítik a 8a.03. cikkben szereplő szabályok követelményeit;
+7. motorcsalád: motorok 2016/1628 európai parlamenti és tanácsi rendelet 3. cikkének 2. pontja szerinti együttese;
 
 8. (Üres);
 
@@ -1702,7 +1702,7 @@ Ebben a fejezetben:
 
 10. (Üres);
 
-11. gyártó: a módosított 97/68/EK irányelv 2. cikkében szereplő meghatározás szerint az a személy vagy szervezet, aki vagy amely a jóváhagyó hatósággal szemben minden szempontból felelős a típus-jóváhagyási eljárásért és a gyártás-megfelelőség biztosításáért. Nem szükségszerű, hogy a személy vagy szervezet közvetlenül részt vegyen a motor gyártásának minden szakaszában;
+11. gyártó: a 2016/1628 európai parlamenti és tanácsi rendelet 3. cikkének 49. pontja szerinti személy;
 
 12. (Üres);
 
@@ -1720,9 +1720,9 @@ Ebben a fejezetben:
 
 Általános rendelkezések
 
-1. A 97/68/EK irányelv követelményeinek sérelme nélkül e fejezet rendelkezéseit kell alkalmazni minden olyan motorra, amelynek névleges leadott teljesítménye több mint 19 kW, és amely belvízi hajókba vagy a fedélzetükön található gépekbe van beépítve.
+1. A 2016/1628 európai parlamenti és tanácsi rendelet követelményeinek sérelme nélkül e fejezet rendelkezéseit kell alkalmazni minden olyan motorra, amelynek névleges leadott teljesítménye több, mint 19 kW, és amely belvízi hajókba vagy a fedélzetükön található gépekbe van beépítve.
 
-2. A motoroknak ki kell elégíteni a 97/68/EK irányelvben foglalt követelményeket.
+2. A motoroknak ki kell elégíteni a 2016/1628 európai parlamenti és tanácsi rendeletben foglalt követelményeket.
 
 3. A vonatkozó alkalmazási terület kipufogógáz-kibocsátási határértékeinek való megfelelést a 8a.03. cikk alapján kiadott típusjóváhagyásban kell megállapítani.
 
@@ -1738,7 +1738,7 @@ b) A szemlebizottság eltekinthet az a) alpontban meghatározott beépítési vi
 
 6a. A 8a.02. cikk 4–6. pontjában leírt vizsgálatok eredményeit fel kell jegyezni a motorparaméter-jegyzőkönyvben.
 
-7. A szemlebizottság a közösségi bizonyítvány 52. rovatában feltünteti a hajóra felszerelt és az e fejezet követelményeinek hatálya alá tartozó összes motor típusjóváhagyásának számát és motorszámát. A 97/68/EK irányelv 9. cikk 4. pontja a) alpontjának hatálya alá tartozó motorok esetében elegendő feltüntetni az azonosítószámot.
+7. A szemlebizottság a közösségi bizonyítvány 52. rovatában feltünteti a hajóra felszerelt és az e fejezet követelményeinek hatálya alá tartozó összes motor típusjóváhagyásának számát és motorszámát.
 
 8. Az e fejezetben szereplő feladatok ellátásának céljából az illetékes hatóság műszaki szolgálatot alkalmazhat.
 
@@ -1748,9 +1748,9 @@ Elismert típusjóváhagyások
 
 1. A következő típusjóváhagyásokat el kell ismerni, amennyiben a motor alkalmazására kiterjed a megfelelő típusjóváhagyás:
 
-a) a 97/68/EK irányelv szerinti típusjóváhagyás;
+a) a 2016/1628 európai parlamenti és tanácsi rendelet szerinti típusjóváhagyás;
 
-b) típusjóváhagyás, amelyet a 97/68/EK irányelv szerint egyenértékűnek ismernek el.
+b) típusjóváhagyás, amelyet a 2016/1628 európai parlamenti és tanácsi rendelet szerint egyenértékűnek ismernek el.
 
 2. A típusjóváhagyással rendelkező motor esetében a következő dokumentumokat vagy azok másolatait a hajón kell tartani:
 
@@ -2492,7 +2492,7 @@ A vontatásra alkalmas géphajókat és tolóhajókat fel kell szerelni legaláb
 
 (e) Egy csáklya.
 
-(f) Külön jogszabályban[^52] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
+(f) Külön jogszabályban[^55] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
 
 (g) Egy távcső, amely legalább 7x50 lencseátmérőjű.
 
@@ -4972,9 +4972,11 @@ Hajóépítési és gépészeti követelmények
 
 Árboczat általában
 
-[^51]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a szerint módosított szöveg.
+1. Az árboczat alkatrészeit úgy kell elrendezni, hogy az elfogadhatatlan mértékű kopás megakadályozható legyen.
+
+[^54]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése, az 1/2017. (I. 3.) NFM rendelet 21. § a) pontja, a 33/2019. (IX. 10.) ITM rendelet 2. §-a, a 36/2019. (IX. 20.) ITM rendelet 11. §-a, 12. § a)–d) pontja szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről.
-[^52]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
+[^55]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
