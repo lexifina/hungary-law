@@ -1,3 +1,3 @@
-## 4. § A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: R2.) 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „(3) A lassú jármű hajtómotorja kipufogógázának szennyezőanyag-tartalma nem haladhatja meg a 7. számú mellékletben meghatározott határértéket.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

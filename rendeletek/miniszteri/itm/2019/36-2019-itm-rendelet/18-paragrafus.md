@@ -1,1 +1,3 @@
-## „(5) A (4) bekezdés b) és c) pontjának alkalmazása tekintetében valamely motor vízi járműbe való beépítését célzó átalakítása esetén az átalakítást végző személynek a 16. §-ban foglaltaknak megfelelően nyilatkozik arról, hogy a motornak az átalakítást végző személy által rendelkezésre bocsátott beszerelési útmutatóval összhangban történő beszerelését követően a motor – a motorgyártó nyilatkozatával összhangban – továbbra is megfelel az (EU) 2016/1628 európai parlamenti és tanácsi rendeletben foglalt kipufogógáz-kibocsátási követelményeknek.”
+## 17. §[^18]
+
+[^18]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
