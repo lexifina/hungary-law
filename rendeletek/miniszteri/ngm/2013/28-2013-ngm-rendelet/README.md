@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-28-20-2
 | 2017-09-12 | 2013-28-20-2X.7 | 26/2017. (IX. 11.) NGM rendelet |
 | 2018-01-01 | 2013-28-20-2X.8 | 26/2017. (IX. 11.) NGM rendelet |
 | 2018-09-21 | 2013-28-20-2X.9 | 8/2018. (IX. 20.) PM rendelet |
+| 2019-10-22 | 2013-28-20-2X.10 | 14/2019. (X. 14.) PM rendelet |
