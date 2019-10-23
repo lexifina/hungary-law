@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján az e-Mobi Elektromobilitás Nonprofit Korlátolt Felelősségű Társaság (székhely: 1037 Budapest, Montevideo utca 2/C, cégjegyzékszám: 01-09-281052) 100%-os üzletrészének az NKM Mobilitás Kft. (székhely: 1081 Budapest, II. János Pál pápa tér 20., cégjegyzékszám: 01-09-965868) által történő megszerzését – az elektromobilitási tevékenység ellátás biztonsága érdekében – közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
