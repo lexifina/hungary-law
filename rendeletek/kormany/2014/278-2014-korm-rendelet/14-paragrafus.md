@@ -14,12 +14,13 @@ e) a d) pont szerinti intézkedések végrehajtását célzó, már létező vag
 
 f) a d) pont szerinti intézkedések elfogadásának és végrehajtásának indikatív ütemezése.
 
-(2) Az (1) bekezdés szerinti jelentés erdészeti ágazatra vonatkozó részének tartalmára a NAIK ERTI közreműködésével a Nemzeti Élelmiszerlánc-biztonsági Hivatal javaslatot tesz a Szolgálat részére.
+(2)[^12] Az (1) bekezdés szerinti jelentés földhasználati, földhasználat-változtatási ágazatra és erdészeti ágazatra vonatkozó részének tartalmára – a NAIK ERTI közreműködésével – az NFK tesz javaslatot a Szolgálat részére.
 
-(3)[^10] Az (1) bekezdés szerinti jelentés nem erdészeti ágazatra vonatkozó részének tartalmára a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara és a Nemzeti Élelmiszerlánc-biztonsági Hivatal javaslatot tesz a Szolgálat részére.
+(3)[^13] Az (1) bekezdés szerinti jelentés nem erdészeti ágazatra vonatkozó részének tartalmára – az NFK közreműködésével – a Nemzeti Élelmiszerlánc-biztonsági Hivatal tesz javaslatot a Szolgálat részére.
 
 (4) A miniszter a környezetvédelemért felelős miniszterrel, az agrárpolitikáért felelős miniszterrel, az erdőgazdálkodásért felelős miniszterrel és a földügyért felelős miniszterrel együttműködve információt szolgáltat az 529/2013/EU határozat I. mellékletében meghatározott minden egyes elszámolási időszak végét követő második év január 15-ig, illetve március 15-ig bejelenti a Bizottságnak a földhasználati ágazatra vonatkozó nyilvántartásban az adott elszámolási időszakra vonatkozóan szereplő előzetes, illetve végleges adatokat, az 529/2013/EU határozat 4. cikk (6) bekezdésével összhangban.
 
 (5) A jelentés tartalmára, felépítésére, formátumára, benyújtási eljárására és felülvizsgálatára az 525/2013/EU rendelet, a 749/2014/EU bizottsági végrehajtási rendelet, valamint az 529/2013 EU határozat előírásai az irányadók.
 
-[^10]: A 14. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 281. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 14. § (2) bekezdése a 236/2019. (X. 15.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^13]: A 14. § (3) bekezdése a 236/2019. (X. 15.) Korm. rendelet 16. §-ával megállapított szöveg.

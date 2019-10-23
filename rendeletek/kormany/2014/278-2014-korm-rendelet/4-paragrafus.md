@@ -1,4 +1,4 @@
-## 3. §[^4] A Rendszer működtetéséhez és a nemzeti jelentések, valamint a nemzeti szintű előrejelzés elkészítéséhez szükséges információk gyűjtésére a miniszter, a környezetvédelemért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter, az agrárpolitikáért felelős miniszter, a Nemzeti Élelmiszerlánc-biztonsági Hivatal és a Szolgálat jogosult.
+## 3. §[^4] A Rendszer működtetéséhez és a nemzeti jelentések, valamint a nemzeti szintű előrejelzés elkészítéséhez szükséges információk gyűjtésére a miniszter, a környezetvédelemért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter, az agrárpolitikáért felelős miniszter, a Nemzeti Élelmiszerlánc-biztonsági Hivatal, az NFK és a Szolgálat jogosult.
 
 4. § (1) A Szolgálat részére
 
@@ -30,7 +30,7 @@ f)[^7] az Agrártudományi Kutatóközpont Talajtani és Agrokémiai Kutatóint�
 
 g) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 49. §-a szerinti Országos Környezetvédelmi Információs Rendszer általános lekérdező és térinformatikai rendszeréhez.
 
-[^4]: A 3. § a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § a 236/2019. (X. 15.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^5]: A 4. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 281. § (1) bekezdésével megállapított szöveg.
 [^6]: A 4. § (5) bekezdés b) pontja a 131/2015. (V. 27.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^7]: A 4. § (5) bekezdés f) pontja a 204/2019. (VIII. 23.) Korm. rendelet 17. §-a szerint módosított szöveg.

@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-278-20-
 | 2019-04-18 | 2014-278-20-22.9 | 76/2019. (IV. 10.) Korm. rendelet |
 | 2019-05-11 | 2014-278-20-22.10 | 30/2015. (II. 25.) Korm. rendelet |
 | 2019-09-01 | 2014-278-20-22.11 | 204/2019. (VIII. 23.) Korm. rendelet |
+| 2019-10-23 | 2014-278-20-22.12 | 236/2019. (X. 15.) Korm. rendelet |
