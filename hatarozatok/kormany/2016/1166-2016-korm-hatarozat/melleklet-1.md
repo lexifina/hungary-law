@@ -6,4 +6,6 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1166/2016. (IV. 6.) Korm. határozathoz
+1. melléklet az 1166/2016. (IV. 6.) Korm. határozathoz[^2]
+
+[^2]: Az 1. melléklet az 1609/2019. (X. 22.) Korm. határozat 10. pontja szerint módosított szöveg.

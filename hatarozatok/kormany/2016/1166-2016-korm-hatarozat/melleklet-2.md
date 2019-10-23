@@ -42,7 +42,7 @@
 
 ## a gyermekek és az ifjúság védelméért felelős miniszter
 
-## Határidő: 2016-tól folyamatos
+## Határidő: 2019. december 31.
 
 ## 3. A bűncselekmények áldozatainak segítése és az áldozattá válás megelőzése
 
@@ -50,7 +50,7 @@
 
 ## Felelős: a bűncselekmények megelőzéséért felelős miniszter
 
-## Határidő: 2016-tól folyamatos
+## Határidő: 2019. december 31.
 
 ## 3.2. Annak érdekében, hogy az áldozatok krízishelyzetének problémaközpontú megoldását a lehető legszélesebb körű kapcsolati és szolgáltatásnyújtási háló megteremtésével lehessen elősegíteni, országos adatbázist kell kiépíteni az áldozatokkal kapcsolatba kerülő szervek által nyújtott támogatások teljes körét tartalmazó megyei Áldozatsegítő Kalauzok alapulvételével.
 
@@ -94,11 +94,11 @@
 
 ## 5. Horizontális intézkedések
 
-## 5.1. A Nemzeti Bűnmegelőzési Stratégiában (a továbbiakban: NBS) meghatározott prioritások mentén pályázati felhívások folyamatos közzététele és az egyes szervek, szervezetek munkájának állandó támogatása révén lehetővé kell tenni, hogy meghatározott témakörökben a helyi problémákra reagáló, az adott terület sajátosságait figyelembe vevő tervek, programok kerülhessenek megvalósításra.
+## 5.1. A Nemzeti Bűnmegelőzési Stratégiában (a továbbiakban: NBS) meghatározott prioritások mentén projektek támogatása és az egyes szervek, szervezetek munkájának állandó támogatása révén lehetővé kell tenni, hogy meghatározott témakörökben a helyi problémákra reagáló, az adott terület sajátosságait figyelembe vevő tervek, programok kerülhessenek megvalósításra.
 
 ## Felelős: a bűncselekmények megelőzéséért felelős miniszter
 
-## Határidő: 2016-tól folyamatos
+## Határidő: 2019. december 31.
 
 ## 5.2. A gyermekvédelmi jelzőrendszer hatékonyságának fokozása érdekében a gyermekeket, a családokat, a nevelési-oktatási intézményeket és a gyermekvédelmi jelzőrendszer más szereplőit, valamint a gyámhatóságot is megszólítva fel kell mérni a gyermekvédelmi jelzőrendszer működésének anomáliáit, mindezzel hozzájárulva a gyermekjóléti alapellátás és a gyermekvédelmi szakellátás fejlesztési lehetőségeinek feltérképezéséhez.
 
@@ -112,9 +112,9 @@
 
 ## Felelős: a bűncselekmények megelőzéséért felelős miniszter
 
-## Határidő: 2016. december 31., ezt követően igény szerint
+## Határidő: 2016. december 31., ezt követően igény szerint 2019. december 31.
 
-2. melléklet az 1166/2016. (IV. 6.) Korm. határozathoz[^1]
+2. melléklet az 1166/2016. (IV. 6.) Korm. határozathoz[^3]
 
 1. Településbiztonság
 
@@ -180,13 +180,13 @@
 
 | Felelős: | NBT |
 
-| Partner: | Klebelsberg Intézményfenntartó Központ |
+| Partner: | Klebelsberg Központ |
 
 | Forrás: | modellprogram készítése és tesztelése 9,5 millió forint, képzések tartása évente 15 millió forint, NBT költségvetés |
 
 | Eszköz: | modellprogram készítése, képzések |
 
-| Határidő: | modellprogram kidolgozása és tesztelése 2016. december 31., modellprogram bevezetése 2019. december 31., majd azt követően folyamatos |
+| Határidő: | modellprogram kidolgozása és tesztelése 2016. december 31., modellprogram bevezetése 2019. december 31. |
 
 | Indikátor: | modellprogram, kiképzett trénerek, bevont kortársak száma |
 
@@ -198,13 +198,13 @@
 
 | Felelős: | NBT |
 
-| Partner: | Klebelsberg Intézményfenntartó Központ, az általános rendőrségi feladatok ellátására létrehozott szerv, polgárőrségek, hivatásos katasztrófavédelmi szerv, büntetés-végrehajtási szervezet |
+| Partner: | Klebelsberg Központ, az általános rendőrségi feladatok ellátására létrehozott szerv, polgárőrségek, hivatásos katasztrófavédelmi szerv, büntetés-végrehajtási szervezet |
 
 | Forrás: | évente 4 millió forint, NBT költségvetés |
 
 | Eszköz: | iskolai rendezvények tartása |
 
-| Határidő: | 2016-tól folyamatos |
+| Határidő: | 2019. december 31. |
 
 | Indikátor: | látogatott iskolák, illetve elért diákok száma |
 
@@ -224,7 +224,7 @@
 
 | Eszköz: | modellprogram kidolgozása, működtetése |
 
-| Határidő: | 2016-tól folyamatos |
+| Határidő: | 2019. december 31. |
 
 | Indikátor: | modellprogram, megtartott képzések száma, a képzéseken részt vevők száma |
 
@@ -344,7 +344,7 @@
 
 5.1. Bűnmegelőzési pályázatok kiírása
 
-| Intézkedés: | Az NBS bizonyos célkitűzései és az egyes bűnmegelőzési programok akkor nyernek értelmet, ha azok a helyi problémákra reagálva, az adott terület sajátosságait figyelembe véve kerülnek megvalósításra. Ennek leghatékonyabb módszere bűnmegelőzési pályázatok kiírása, amelyek keretében a meghatározott témakörökben benyújtott pályázatok képesek közvetlenül kezelni az adott térségre jellemző problémákat. A forrás biztosításával megvalósulhatnak olyan remek ötletek, tervek, programok, amelyek központi szinten történő megszervezése nem volna lehetséges. Erre tekintettel szükséges az NBS meghatározott prioritásai mentén pályázati felhívások folyamatos közzététele, az egyes szervek, szervezetek munkájának állandó támogatása. |
+| Intézkedés: | Az NBS bizonyos célkitűzései és az egyes bűnmegelőzési programok akkor nyernek értelmet, ha azok a helyi problémákra reagálva, az adott terület sajátosságait figyelembe véve kerülnek megvalósításra. Ennek leghatékonyabb módszere bűnmegelőzési bűnmegelőzési projektek támogatása, amelyek képesek közvetlenül kezelni az adott térségre jellemző problémákat. A forrás biztosításával megvalósulhatnak olyan remek ötletek, tervek, programok, amelyek központi szinten történő megszervezése nem volna lehetséges. Erre tekintettel szükséges az NBS meghatározott prioritásai mentén bűnmegelőzési projektek, az egyes szervek és szervezetek munkájának állandó támogatása. |
 
 | Felelős: | NBT |
 
@@ -354,7 +354,7 @@
 
 | Eszköz: | pályázati kiírás |
 
-| Határidő: | 2016-tól folyamatos |
+| Határidő: | 2019. december 31. |
 
 | Indikátor: | nyertes pályázatok száma, támogatás összege |
 
@@ -390,10 +390,10 @@
 
 | Eszköz: | mobil applikáció |
 
-| Határidő: | első alkalommal 2016, ezt követően igény szerint |
+| Határidő: | első alkalommal 2016, ezt követően igény szerint 2019. december 31. |
 
 | Indikátor: | mobil applikáció és letöltések száma |
 
 | NBS kapcsolódás: | 8.5. Horizontális intézkedések |
 
-[^1]: A 2. melléklet az 1853/2016. (XII. 27.) Korm. határozat 75. pontja, az 1838/2017. (XI. 9.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1853/2016. (XII. 27.) Korm. határozat 75. pontja, az 1838/2017. (XI. 9.) Korm. határozat 4. pontja, az 1609/2019. (X. 22.) Korm. határozat 11. pontja szerint módosított szöveg.
