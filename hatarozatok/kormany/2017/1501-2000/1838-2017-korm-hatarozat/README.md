@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1838-30
 | --- | --- | --- |
 | 2017-11-10 | 2017-1838-30-22.1 | 1838/2017. (XI. 9.) Korm. határozat |
 | 2017-11-11 | 2017-1838-30-22.2 | 2010: CXXX. törvény |
+| 2019-10-23 | 2017-1838-30-22.3 | 1609/2019. (X. 22.) Korm. határozat |

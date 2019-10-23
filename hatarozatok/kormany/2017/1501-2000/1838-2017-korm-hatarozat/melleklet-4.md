@@ -128,7 +128,7 @@
 
 ## Határidő: 2019. december 31.
 
-4. melléklet az 1838/2017. (XI. 9.) Korm. határozathoz
+4. melléklet az 1838/2017. (XI. 9.) Korm. határozathoz[^5]
 
 I. Településbiztonság
 
@@ -140,7 +140,7 @@ I. Településbiztonság
 
 | Partner: | NBT, rendőrség |
 
-| Forrás: | évente 5 millió forint, NBT költségvetés |
+| Forrás: | fejlesztés igény szerint, karbantartás 1 millió forint évente, NBT költségvetés |
 
 | Eszköz: | online felület feltöltése adatokkal |
 
@@ -194,7 +194,7 @@ I. Településbiztonság
 
 | Partner: | rendőrség, polgárőrség |
 
-| Forrás: | a) a Balatoni Közbiztonsági Koordinációs Bizottság soros elnöki tisztét ellátó megyei rendőr-főkapitányság számára évente 5 millió forint, NBT költségvetés b) a Tisza-tavi Közbiztonsági Koordinációs Bizottság soros elnöki tisztét ellátó megyei rendőr-főkapitányság számára évente 1 millió forint, NBT költségvetés |
+| Forrás: | a) a Balatoni Közbiztonsági Koordinációs Bizottság soros elnöki tisztét ellátó megyei rendőr-főkapitányság számára évente 6 millió forint, NBT költségvetés b) a Tisza-tavi Közbiztonsági Koordinációs Bizottság soros elnöki tisztét ellátó megyei rendőr-főkapitányság számára évente 2 millió forint, NBT költségvetés |
 
 | Eszköz: | bűnmegelőzési programok, tájékoztató eszközök |
 
@@ -214,7 +214,7 @@ II. Gyermek- és ifjúságvédelem
 
 | Partner: | EMMI, Klebelsberg Központ, Digitális Jólét Program összehangolásáért és megvalósításáért felelős miniszterelnöki biztos |
 
-| Forrás: | évente 8 millió forint, NBT költségvetés |
+| Forrás: | évente 3 millió forint, NBT költségvetés |
 
 | Eszköz: | további mesék, oktatási tematika készítése, a továbbképzési program akkreditáltatása pedagógusok számára |
 
@@ -453,3 +453,5 @@ V. Horizontális intézkedések
 | Indikátor: | megvalósított képzések, rendezvények, programok, beszerzett eszközök száma |
 
 | NBS kapcsolódás: | 8.5. Horizontális intézkedések |
+
+[^5]: A 4. melléklet az 1609/2019. (X. 22.) Korm. határozat 13. pontja szerint módosított szöveg.
