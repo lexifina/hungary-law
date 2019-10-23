@@ -1,6 +1,6 @@
 ## 2. Az államilag elismert nyelvvizsgarendszer működésével kapcsolatos közigazgatási hatósági eljárásban fizetendő igazgatási szolgáltatási díjra vonatkozó szabályok
 
-4. §[^5] (1) Az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet (a továbbiakban: nyelvvizsga rendelet) szerinti
+4. §[^6] (1) Az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet (a továbbiakban: nyelvvizsga rendelet) szerinti
 
 a) akkreditáció és
 
@@ -14,4 +14,4 @@ b) külföldön kiállított nyelvvizsga-bizonyítványok honosítása
 
 (4) Az (1)–(3) bekezdés szerint megfizetett igazgatási szolgáltatási díj az Oktatási Hivatal bevétele.
 
-[^5]: A 4. § a 10/2014. (II. 24.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^6]: A 4. § a 10/2014. (II. 24.) EMMI rendelet 1. §-ával megállapított szöveg.

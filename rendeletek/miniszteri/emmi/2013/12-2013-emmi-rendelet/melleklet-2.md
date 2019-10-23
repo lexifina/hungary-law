@@ -60,6 +60,6 @@
 
 | 4 | A Magyar Felsőoktatási Akkreditációs Bizottságot egyéb, kérelemre induló eljárásban megillető szakértői díj | 302 600 Ft | 256 600 Ft |
 
-2. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^13]
+2. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^14]
 
-[^13]: A 2. melléklet a 3/2018. (I. 23.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 2. melléklet a 3/2018. (I. 23.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.

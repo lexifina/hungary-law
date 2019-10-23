@@ -1,6 +1,6 @@
-## 5. §[^6]
+## 5. §[^7]
 
-## 2/A. [^7] A külföldi bizonyítványok és oklevelek elismerésére és honosítására irányuló eljárásért fizetendő igazgatási szolgáltatási díj
+## 2/A. [^8] A külföldi bizonyítványok és oklevelek elismerésére és honosítására irányuló eljárásért fizetendő igazgatási szolgáltatási díj
 
 5/A. § (1) A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Elismerési törvény) hatálya alá tartozó hatósági eljárásokért a 4. mellékletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
@@ -14,5 +14,5 @@
 
 (6) A fellebbezéssel befizetett díjat vissza kell fizetni, ha a felülvizsgált elsőfokú döntés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
 
-[^6]: Az 5. §-t a 3/2018. (I. 23.) EMMI rendelet 7. § b) pontja hatályon kívül helyezte.
-[^7]: A 2/A. alcímet (5/A. §) az 5/2017. (IV. 20.) EMMI rendelet 1. §-a iktatta be.
+[^7]: Az 5. §-t a 3/2018. (I. 23.) EMMI rendelet 7. § b) pontja hatályon kívül helyezte.
+[^8]: A 2/A. alcímet (5/A. §) az 5/2017. (IV. 20.) EMMI rendelet 1. §-a iktatta be.

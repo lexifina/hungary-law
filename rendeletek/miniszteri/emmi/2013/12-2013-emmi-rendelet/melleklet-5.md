@@ -14,7 +14,7 @@
 
 | 7. | Szakértői eljárás díja | 25 000 Ft | 25 000 Ft |
 
-5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^16]
+5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^17]
 
 |  | A | B | C |
 
@@ -62,7 +62,7 @@
 
 | 22. | Dunaújvárosi Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10029008-00282723-00000000 |
 
-| 23. | Edutus Főiskola | Forint pénzforgalmi számla | MKB Bank Zrt., 10300002-40000413-00003285 |
+| 23. | Edutus Egyetem | Forint pénzforgalmi számla | MKB Bank Zrt., 10300002-40000413-00003285 |
 
 | 24. | Emberi Erőforrások Minisztériuma | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-01425190-00000000 |
 
@@ -84,7 +84,7 @@
 
 | 33. | Golgota Teológiai Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10402946-00026813-00000002 |
 
-| 34. | Győri Hittudományi Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10403356-33518396-00000000 |
+| 34. | Brenner János Hittudományi Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10403356-33518396-00000000 |
 
 | 35. | IBS Nemzetközi Üzleti Főiskola | Forint pénzforgalmi számla | Erste Bank Hungary Zrt., 11600006-00000000-64744825 |
 
@@ -94,7 +94,7 @@
 
 | 38. | Közép-európai Egyetem | Forint pénzforgalmi számla | CIB Bank Zrt., 11100104-18118463-10000001 |
 
-| 39. | Kodolányi János Főiskola | Forint pénzforgalmi számla | Erste Bank Hungary Zrt., 11600006-00000000-33437190 |
+| 39. | Kodolányi János Egyetem | Forint pénzforgalmi számla | Erste Bank Hungary Zrt., 11600006-00000000-33437190 |
 
 | 40. | Liszt Ferenc Zeneművészeti Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-01426768-00000000 |
 
@@ -114,7 +114,7 @@
 
 | 48. | Moholy-Nagy Művészeti Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-01493287-00000000 |
 
-| 49. | Nemzeti Fejlesztési Minisztérium | Megosztott bevételek besz. célelsz. szla – Közlekedési hat. bev. besz. szla | Magyar Államkincstár, 10032000-00290713-3810004 |
+| 49. | Innovációs és Technológiai Minisztérium | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00290713-00000000 |
 
 | 50. | Nemzeti Média- és Hírközlési Hatóság | Forint pénzforgalmi számla | Magyar Államkincstár, 10032000-00300939-00000017 |
 
@@ -156,7 +156,7 @@
 
 | 69. | Szegedi Tudományegyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10028007-00282802-00000000 |
 
-| 70. | Szent Atanáz Görög Katolikus Hittudományi Főiskola | Forint pénzforgalmi bankszámla | CIB Bank Zrt., 11100702-19204893-36000001 |
+| 70. | Szent Atanáz Görögkatolikus Hittudományi Főiskola | Forint pénzforgalmi bankszámla | CIB Bank Zrt., 11100702-19204893-36000001 |
 
 | 71. | Szent István Egyetem | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10032000-00282826-00000000 |
 
@@ -176,6 +176,6 @@
 
 | 79. | Wesley János Lelkészképző Főiskola | Forint pénzforgalmi bankszámla | OTP Bank Nyrt., 10708001-20562292-00000000 |
 
-| 80. | Zsigmond Király Egyetem | Forint pénzforgalmi bankszámla | Kereskedelmi és Hitelbank Zrt., 10403370-49535552-51491004 |
+| 80. | Milton Friedman Egyetem | Forint pénzforgalmi bankszámla | Kereskedelmi és Hitelbank Zrt., 10403370-49535552-51491004 |
 
-[^16]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^17]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 39/2019. (X. 22.) ITM rendelet 1. §-a szerint módosított szöveg.
