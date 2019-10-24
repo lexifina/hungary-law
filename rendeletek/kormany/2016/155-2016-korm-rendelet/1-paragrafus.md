@@ -10,20 +10,35 @@ d)[^3] műemlék kivételével meglévő lakóépület 300 négyzetméter össze
 
 e)[^4] az a)–d) pont építési munkáihoz szükséges tereprendezés, támfalépítés.
 
-(1a)[^5] Az egyszerű bejelentéshez kötött építési tevékenység bejelentése (a továbbiakban: bejelentés) az elektronikus építési napló készenlétbe helyezésével valósul meg. Az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározottakon túlmenően a készenlétbe helyezés további feltétele
+(1a)[^5] Az építtető az egyszerű bejelentéshez kötött építési tevékenységet a kivitelezés tervezett megkezdése előtt tizenöt nappal bejelenti (a továbbiakban: bejelentés) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: R.) kérelem benyújtására vonatkozó szabályai szerint az Építésügyi hatósági engedélyezési eljárást Támogató elektronikus Dokumentációs Rendszeren (ÉTDR) keresztül az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló kormányrendeletben meghatározott elsőfokú építésfelügyeleti hatóságnak (a továbbiakban: építésfelügyeleti hatóság).
 
-a) a bejelentés mellékleteként az építész tervező által az elektronikus építési naplóba feltöltött, legalább az 1. melléklet szerinti munkarészekből álló kivitelezési dokumentáció kötelező munkarészei PDF/A formátumban,
+(1b)[^6] A bejelentés tartalmazza
 
-b) a 6/E. § (1) bekezdése szerinti nyilatkozat megtétele,
+a) az építtető nevét és lakcímét, szervezet esetén a megnevezését és székhelyét, képviselő esetén az azonosításához szükséges adatot és elérhetőségét,
 
-c) a 6/E. § (3) bekezdése szerinti igazolás feltöltése, valamint
+b) az építési tevékenységgel érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
 
-d) 300 négyzetméternél nagyobb összes hasznos alapterületű új lakóépület építése vagy bővítése esetén az építtető teljes bizonyítóerejű magánokiratban tett nyilatkozata arra vonatkozóan, hogy természetes személy és az építési tevékenységet saját lakhatásának biztosítása céljából végzi.
+c) a bejelentés tárgyát és annak rövid leírását, a számított építményértéket az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint meghatározva,
 
-(2) Az elektronikus építési napló üzemeltetője a készenlétbe helyezett elektronikus építési napló adatainak feltüntetésével PDF formátumú, letölthető visszaigazolást állít elő.
+d) az építészeti-műszaki tervező – beleértve a szakági tervezőt is – nevét, elérhetőségét, kamarai névjegyzéki bejegyzésének számát,
+
+e) a bejelentéshez csatolt mellékletek felsorolását,
+
+f) az építtető aláírását, amennyiben azt meghatalmazott útján, kormányablakon vagy az építésfelügyeleti hatóságon keresztül nyújtja be.
+
+(1c)[^7] A bejelentéshez csatolni kell
+
+a) az 1. mellékletben meghatározott tartalmú egyszerű bejelentési dokumentációt,
+
+b) ha az építési tevékenységet a természetes személy saját lakhatásának biztosítása céljából kívánja végezni, az építtető teljes bizonyító erejű magánokiratban tett nyilatkozatát arra vonatkozóan, hogy természetes személy és az építési tevékenységet saját lakhatásának biztosítása céljából végzi.
+
+(2)[^8] A bejelentésről és az építtető személyében bekövetkezett jogutódlás bejelentéséről az ÉTDR PDF formátumú, letölthető visszaigazolást állít elő.
 
 [^1]: Az 1. § (1) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 54. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontja a 97/2017. (IV. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés d) pontját a 97/2017. (IV. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés e) pontját a 97/2017. (IV. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^5]: Az 1. § (1a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 54. §-a iktatta be, szövege a 97/2017. (IV. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (1a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 54. §-a iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^6]: Az 1. § (1b) bekezdését a 244/2019. (X. 22.) Korm. rendelet 18. §-a iktatta be.
+[^7]: Az 1. § (1c) bekezdését a 244/2019. (X. 22.) Korm. rendelet 18. §-a iktatta be.
+[^8]: Az 1. § (2) bekezdése a 244/2019. (X. 22.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
