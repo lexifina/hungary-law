@@ -1,1 +1,3 @@
-## 2. § Az R. 3. § (2) bekezdésében az „10032000-01425190-00000000” szövegrész helyébe az „10032000-00290713-00000000” szöveg lép.
+## 1–2. §[^2]
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
