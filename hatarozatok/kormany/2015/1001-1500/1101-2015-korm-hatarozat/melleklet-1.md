@@ -12,10 +12,32 @@
 
 ## Határidő: az Európai Bizottság döntését követően azonnal
 
-1. melléklet az 1101/2015. (III. 5.) Korm. határozathoz
+1. melléklet az 1101/2015. (III. 5.) Korm. határozathoz[^1]
 
 |  | A | B | C | D | E | F | G |
 
-| 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Projektjavaslat megvalósítója | Projektjavaslat tervezett összköltsége (Ft) | Európai Hálózatfinanszírozási Eszköz terhére biztosítandó támogatás tervezett összege (Ft) | Hazai költségvetési támogatás tervezett összege (Ft) | Projektjavaslat rövid bemutatása |
+| 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Projektjavaslat megvalósítója (Végrehajtó szerv) | Projektjavaslat tervezett összköltsége (Ft) | Európai Hálózatfinanszírozási Eszköz terhére biztosítandó támogatás tervezett összege (Ft) | Hazai költségvetési támogatás tervezett összege (Ft) | Projektjavaslat rövid bemutatása |
 
-| 2. | Európai Hálózatfinanszírozási Eszköz | ETCS L2 fedélzeti berendezés felszerelése 59 db FLIRT típusú motorvonatra | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság és MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság | 12 001 500 000 | 8 032 499 999 | 3 969 000 001 | Az Egységes Európai Vonatbefolyásoló Rendszer (a továbbiakban: ETCS) elsődleges rendeltetése a vonatok közlekedésének felügyelete, és a vasúti forgalom biztonságának a legkülönbözőbb üzemi helyzetekben történő garantálása. Az ETCS rendszer egy járműfedélzeti, és egy pályamenti alrendszerből áll. A projektjavaslat a fedélzeti eszközök beszerzésére irányul. |
+| 2. | Európai Hálózatfinanszírozási Eszköz | ETCS L2 fedélzeti berendezés felszerelése 59 db FLIRT típusú motorvonatra | MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság | 7 594 244 645 | 6 381 587 376 | 1 212 657 269 | Az Egységes Európai Vonatbefolyásoló Rendszer (a továbbiakban: ETCS) elsődleges rendeltetése a vonatok közlekedésének felügyelete és a vasúti forgalom biztonságának a legkülönbözőbb üzemi helyzetekben történő garantálása. Az ETCS rendszer egy járműfedélzeti, és egy pályamenti alrendszerből áll. A projektjavaslat a fedélzeti eszközök beszerzésére irányul. |
+
+Magyarország központi költségvetéséről szóló törvényben meghatározott, Uniós fejlesztések fejezetből biztosított forrás (bruttó, Ft)
+
+|  | A | B | C | D |
+
+| 1. | Év | Összesen | Végrehajtó Szervnél felmerülő költségek | Kedvezményezettnél felmerülő költségek |
+
+| 2. | 2016 | 0 | 0 | 0 |
+
+| 3. | 2017 | 84 045 639 | 38 742 169 | 45 303 470 |
+
+| 4. | 2018 | 2 879 800 925 | 2 879 800 925 | 0 |
+
+| 5. | 2019 | 405 970 444 | 382 813 948 | 23 156 496 |
+
+| 6. | 2020 | 4 193 562 557 | 4 049 787 603 | 143 774 954 |
+
+| 7. | 2021 | 30 865 080 | – | 30 865 080 |
+
+| 8. | Összesen | 7 594 244 645 | 7 351 144 645 | 243 100 000 |
+
+[^1]: Az 1. melléklet az 1613/2019. (X. 24.) Korm. határozat 2. pontjával megállapított szöveg.
