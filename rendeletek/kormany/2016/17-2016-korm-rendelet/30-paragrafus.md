@@ -28,11 +28,11 @@
 
 22.[^104] az egyszerű bejelentéshez kötött építési tevékenységet
 
-a) a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdése szerinti, az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
+a) a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdése szerinti, az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által előállított visszaigazolással, vagy 2019. október 24. előtt tett bejelentés esetén az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
 
-b) az építész tervező által az egyszerű bejelentés mellékleteként az elektronikus építési naplóba feltöltött, legalább a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet 1. melléklete szerinti munkarészekből álló kivitelezési dokumentációval, és
+b) az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe vagy az építész tervező által az egyszerű bejelentés mellékleteként az elektronikus építési naplóba feltöltött, legalább a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet 1. melléklete szerinti munkarészekből álló egyszerű bejelentési dokumentációval, és
 
-c) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, amely szerint az építési tevékenységet megkezdheti és a hitelintézet részére benyújtott b) pont szerinti dokumentumok megegyeznek az elektronikus építési naplóba feltöltött dokumentumokkal,
+c) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, amely szerint az építési tevékenységet megkezdheti és a hitelintézet részére benyújtott, b) pont szerinti dokumentumok megegyeznek az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe, illetve az elektronikus építési naplóba feltöltött dokumentumokkal,
 
 23.[^105] a 14. § (2a) bekezdése szerinti esetben a csekély összegű (de minimis) támogatásokra vonatkozó feltételek teljesítését az igénylő által benyújtott nyilatkozattal.
 
@@ -77,7 +77,7 @@ j) a gyámság fennállását a gyámhatóság kirendelő határozatával.
 [^101]: A 30. § (1) bekezdés 17. pontja a 26/2018. (II. 28.) Korm. rendelet 38. § h) pontja szerint módosított szöveg.
 [^102]: A 30. § (1) bekezdés 18–19. pontját a 26/2018. (II. 28.) Korm. rendelet 38. § f) pontja hatályon kívül helyezte.
 [^103]: A 30. § (1) bekezdés 20–21. pontját a 273/2016. (IX. 15.) Korm. rendelet 24. § (2) bekezdése iktatta be, hatályon kívül helyezte a 26/2018. (II. 28.) Korm. rendelet 38. § f) pontja.
-[^104]: A 30. § (1) bekezdés 22. pontját a 482/2016. (XII. 28.) Korm. rendelet 52. §-a iktatta be.
+[^104]: A 30. § (1) bekezdés 22. pontját a 482/2016. (XII. 28.) Korm. rendelet 52. §-a iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^105]: A 30. § (1) bekezdés 23. pontját a 152/2019. (VI. 26.) Korm. rendelet 13. §-a iktatta be.
 [^106]: A 30. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (4) bekezdése iktatta be, hatályon kívül helyezte a 26/2018. (II. 28.) Korm. rendelet 38. § i) pontja.
 [^107]: A 30. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 569. § (5) bekezdése iktatta be, szövege a 26/2018. (II. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
