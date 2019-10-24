@@ -4,15 +4,15 @@
 
 ## 33. A fennmaradási engedély iránti kérelem és mellékletei
 
-42. § (1)[^222] Az építésügyi hatóság az Étv. 48. § (2) bekezdés a)–c) pontjában meghatározott jogszerűtlen és az Étv. 48. § (5) bekezdésében meghatározott szakszerűtlen építési tevékenységek esetén, amennyiben annak jogszabályi feltételei fennállnak, az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdonos kérelmére fennmaradási engedélyt ad.
+42. § (1)[^224] Az építésügyi hatóság az Étv. 48. § (2) bekezdés a)–c) pontjában meghatározott jogszerűtlen és az Étv. 48. § (5) bekezdésében meghatározott szakszerűtlen építési tevékenységek esetén, amennyiben annak jogszabályi feltételei fennállnak, az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdonos kérelmére fennmaradási engedélyt ad.
 
-(2)[^223]
+(2)[^225]
 
 (3) A fennmaradási engedély iránti kérelemben
 
 a) az országos építési követelményektől eltérő műszaki megoldás engedélyezésére,
 
-b)[^224]
+b)[^226]
 
 c) az (1) bekezdés szerinti jogszerűtlenül vagy szakszerűtlenül megépített építmény
 
@@ -22,19 +22,19 @@ cb) használatbavételére
 
 ## irányuló kérelem is előterjeszthető.
 
-(4)[^225] A fennmaradási engedély iránti kérelemhez tartalmától függően mellékelni kell az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot, ha az építési tevékenységet építési napló vezetése nélkül végezték. A fennmaradási engedély iránti kérelem benyújtásával egyidejűleg igazolni kell, hogy
+(4)[^227] A fennmaradási engedély iránti kérelemhez tartalmától függően mellékelni kell az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot, ha az építési tevékenységet építési napló vezetése nélkül végezték. A fennmaradási engedély iránti kérelem benyújtásával egyidejűleg igazolni kell, hogy
 
-a)[^226] a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendeletben kijelölt hatóság vagy a települési önkormányzat polgármestere településképi véleményt adott,
+a)[^228] a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló 19/2018. (II. 14.) Korm. rendeletben kijelölt hatóság vagy a települési önkormányzat polgármestere településképi véleményt adott,
 
-b)[^227] a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményt adott.
+b)[^229] a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményt adott.
 
 (5) Amennyiben a kérelmező birtokában van
 
-a)[^228] a Khvr.-ben meghatározott esetekben végleges környezetvédelmi, illetve egységes környezethasználati engedély – kivéve, ha az az összevont telepítési eljárásban került kiadásra –, illetve az előzetes vizsgálati eljárást lezáró határozat, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen,
+a)[^230] a Khvr.-ben meghatározott esetekben végleges környezetvédelmi, illetve egységes környezethasználati engedély – kivéve, ha az az összevont telepítési eljárásban került kiadásra –, illetve az előzetes vizsgálati eljárást lezáró határozat, több megvalósulási szakaszra bontott építkezés esetén az összes szakaszra együttesen,
 
 b) erdőterület igénybevétele esetén az erdészeti hatóság engedélye – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
 
-c)[^229] termőföld igénybevétele esetén a termőföld végleges más célú hasznosításának engedélyezéséről szóló végleges hatósági határozat – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
+c)[^231] termőföld igénybevétele esetén a termőföld végleges más célú hasznosításának engedélyezéséről szóló végleges hatósági határozat – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
 
 ## az iktatószám megjelölésével nyilatkozhat ezek meglétéről vagy mellékelheti azokat a kérelemhez.
 
@@ -50,11 +50,11 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, és az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^222]: A 42. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 19. pontja, a 482/2016. (XII. 28.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
-[^223]: A 42. § (2) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § l) pontja hatályon kívül helyezte.
-[^224]: A 42. § (3) bekezdés b) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § m) pontja hatályon kívül helyezte.
-[^225]: A 42. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (16) bekezdésével megállapított, nyitó szövegrésze a 13/2019. (II. 11.) Korm. rendelet 19. § f) pontja szerint módosított szöveg. Alkalmazására lásd az előbbi módosító rendelet 618. §-át.
-[^226]: A 42. § (4) bekezdés a) pontja a 13/2019. (II. 11.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^227]: A 42. § (4) bekezdés b) pontja a 13/2019. (II. 11.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
-[^228]: A 42. § (5) bekezdése a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 63. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^229]: A 42. § (5) bekezdése c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 64. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^224]: A 42. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 19. pontja, a 482/2016. (XII. 28.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^225]: A 42. § (2) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § l) pontja hatályon kívül helyezte.
+[^226]: A 42. § (3) bekezdés b) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § m) pontja hatályon kívül helyezte.
+[^227]: A 42. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (16) bekezdésével megállapított, nyitó szövegrésze a 13/2019. (II. 11.) Korm. rendelet 19. § f) pontja szerint módosított szöveg. Alkalmazására lásd az előbbi módosító rendelet 618. §-át.
+[^228]: A 42. § (4) bekezdés a) pontja a 13/2019. (II. 11.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^229]: A 42. § (4) bekezdés b) pontja a 13/2019. (II. 11.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
+[^230]: A 42. § (5) bekezdése a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 63. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^231]: A 42. § (5) bekezdése c) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 64. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

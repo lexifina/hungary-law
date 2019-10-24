@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^399]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^404]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -80,8 +80,8 @@ e) legfeljebb 50 fő egyidejű tartózkodására alkalmas – az Országos Tűzv
 
 30. Közforgalom elől elzárt, telken belüli út, parkoló, áteresz, bejáró-, átjáró-híd építése.
 
-31. A legfeljebb 2,0 m mélységű és legfeljebb 20 m3 légterű pince építése, meglévő felújítása, helyreállítása, átalakítása, korszerűsítése, bővítése.
+31. A pince építése, bővítése, melynek mérete az építési tevékenység után sem haladja meg a 20 m3 légteret és a 2,0 m mélységet
 
 32. Közterületen, filmforgatáshoz kapcsolódó építmény építése.
 
-[^399]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja szerint módosított szöveg.
+[^404]: Az 1. melléklet a 482/2016. (XII. 28.) Korm. rendelet 31. § a) pontjával megállapított, a 144/2017. (VI. 12.) Korm. rendelet 16. § e) pontja, a 13/2019. (II. 11.) Korm. rendelet 18. § 16–18. pontja, a 244/2019. (X. 22.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.

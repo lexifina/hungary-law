@@ -1,28 +1,28 @@
-## 63. §[^333]
+## 63. §[^335]
 
 64. § (1) Az építésfelügyeleti hatóság az 58. § (2) bekezdés b) pontja szerinti ellenőrzésen a jegyzőkönyvében rögzíti:
 
-a)[^334] az ellenőrzésben az Étv. 53/D. § (1) bekezdése szerinti közreműködők megnevezését,
+a)[^336] az ellenőrzésben az Étv. 53/D. § (1) bekezdése szerinti közreműködők megnevezését,
 
-b)[^335] az engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció építészeti-műszaki tervezőjének nevét, lakcímét, névjegyzéki számát,
+b)[^337] az engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció építészeti-műszaki tervezőjének nevét, lakcímét, névjegyzéki számát,
 
-c)[^336] a kivitelezési dokumentáció tervezőjének (ideértve a szakági tervezőt is) nevét, lakcímét, névjegyzéki számát,
+c)[^338] a kivitelezési dokumentáció tervezőjének (ideértve a szakági tervezőt is) nevét, lakcímét, névjegyzéki számát,
 
 d) az építőipari kivitelező nevét, telephelyét, cégjegyzékszámát, vállalkozási engedély számát, kivitelezési regisztrációs számát,
 
 e) a felelős műszaki vezető nevét, lakcímét, névjegyzéki számát,
 
-f)[^337] az építési műszaki ellenőr nevét, elérhetőségét, névjegyzéki számát,
+f)[^339] az építési műszaki ellenőr nevét, elérhetőségét, névjegyzéki számát,
 
-g)[^338] a tervezői művezető nevét, elérhetőségét, névjegyzéki számát,
+g)[^340] a tervezői művezető nevét, elérhetőségét, névjegyzéki számát,
 
-h)[^339] az építmény rendeltetését,
+h)[^341] az építmény rendeltetését,
 
-i)[^340] az ÉTDR ügy- és iratazonosítót,
+i)[^342] az ÉTDR ügy- és iratazonosítót,
 
-j)[^341] az elektronikus építési napló azonosítószámát.
+j)[^343] az elektronikus építési napló azonosítószámát.
 
-(1a)[^342] Ha az építőipari kivitelezési tevékenységről elektronikus építési naplót kell vezetni, az építésfelügyeleti hatóság az 58. § (2) bekezdés b) pontja szerinti ellenőrzését megelőzően távoli eléréssel ellenőrzi az elektronikus építési napló vezetését és tartalmát, amelyről hivatalos feljegyzésében rögzíti
+(1a)[^344] Ha az építőipari kivitelezési tevékenységről elektronikus építési naplót kell vezetni, az építésfelügyeleti hatóság az 58. § (2) bekezdés b) pontja szerinti ellenőrzését megelőzően távoli eléréssel ellenőrzi az elektronikus építési napló vezetését és tartalmát, amelyről hivatalos feljegyzésében rögzíti
 
 a) az építésfelügyeleti hatóság megnevezését, elérhetőségét, ügyiratszámát,
 
@@ -46,34 +46,34 @@ df) napi jelentés és eseti bejegyzés,
 
 dg) az Étv. 33/A. §-a szerinti egyszerű bejelentés esetén az Étv. 13. § (2) bekezdésében foglaltak megtartása.
 
-(1b)[^343] Az (1a) bekezdés szerinti távoli elérést követően az építésfelügyeleti hatóság az 58. § (2) bekezdés b) pontja szerinti ellenőrzésen a jegyzőkönyvében rögzíti
+(1b)[^345] Az (1a) bekezdés szerinti távoli elérést követően az építésfelügyeleti hatóság az 58. § (2) bekezdés b) pontja szerinti ellenőrzésen a jegyzőkönyvében rögzíti
 
 a) az (1) bekezdés a) pontja szerinti megnevezést,
 
 b) az (1a) bekezdés szerinti hivatalos feljegyzés felvételét követően bekövetkezett változásokat, különösen az (1) bekezdés c)–g) pontja szerinti adatokra kiterjedően.
 
-(2)[^344] Az építésfelügyeleti hatóság az 58. § (4) bekezdése szerinti ellenőrzésen a jegyzőkönyvében a szabálytalan állapotról ábrázolást vagy rajzot és dátummal ellátott fényképfelvételt készít.
+(2)[^346] Az építésfelügyeleti hatóság az 58. § (4) bekezdése szerinti ellenőrzésen a jegyzőkönyvében a szabálytalan állapotról ábrázolást vagy rajzot és dátummal ellátott fényképfelvételt készít.
 
-(3)[^345] Az építésfelügyeleti ellenőrzés során feltárt, az építésfelügyeleti hatóság hatáskörébe nem tartozó szabálytalanságokat is rögzíteni kell a jegyzőkönyvben, hivatalos feljegyzésben.
+(3)[^347] Az építésfelügyeleti ellenőrzés során feltárt, az építésfelügyeleti hatóság hatáskörébe nem tartozó szabálytalanságokat is rögzíteni kell a jegyzőkönyvben, hivatalos feljegyzésben.
 
-(4)[^346] A hatósági ellenőrzésről készült jegyzőkönyvet, hivatalos feljegyzést és fényképfelvételt rögzíteni kell
+(4)[^348] A hatósági ellenőrzésről készült jegyzőkönyvet, hivatalos feljegyzést és fényképfelvételt rögzíteni kell
 
 a) az (1) bekezdés esetén az elektronikus építési naplóba az eseti bejegyzéssel egyidejűleg, de legkésőbb az ellenőrzés napját követő munkanapon,
 
-b)[^347] az 58. § (4) bekezdése esetén az OÉNY feltöltő felületén keresztül.
+b)[^349] az 58. § (4) bekezdése esetén az OÉNY feltöltő felületén keresztül.
 
-[^333]: A 63. §-t a 144/2017. (VI. 12.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
-[^334]: A 64. § (1) bekezdés a) pont a 13/2019. (II. 11.) Korm. rendelet 18. § 15. pontja szerint módosított szöveg.
-[^335]: A 64. § (1) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 179. § (23) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^336]: A 64. § (1) bekezdés c) pontja a 441/2015. (XII. 28.) Korm. rendelet 179. § (23) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^337]: A 64. § (1) bekezdés f) pontja a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
-[^338]: A 64. § (1) bekezdés g) pontja a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
-[^339]: A 64. § (1) bekezdés h) pontja a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
-[^340]: A 64. § (1) bekezdés i) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés f) pontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdése iktatta be.
-[^341]: A 64. § (1) bekezdés j) pontját a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdése iktatta be.
-[^342]: A 64. § (1a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
-[^343]: A 64. § (1b) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
-[^344]: A 64. § (2) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 32. § e) pontja szerint módosított szöveg.
-[^345]: A 64. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 32. § f) pontja szerint módosított szöveg.
-[^346]: A 64. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (7) bekezdésével megállapított, nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 32. § g) pontja szerint módosított szöveg.
-[^347]: A 64. § (4) bekezdés b) pontja a 144/2017. (VI. 12.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^335]: A 63. §-t a 144/2017. (VI. 12.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
+[^336]: A 64. § (1) bekezdés a) pont a 13/2019. (II. 11.) Korm. rendelet 18. § 15. pontja szerint módosított szöveg.
+[^337]: A 64. § (1) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 179. § (23) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^338]: A 64. § (1) bekezdés c) pontja a 441/2015. (XII. 28.) Korm. rendelet 179. § (23) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^339]: A 64. § (1) bekezdés f) pontja a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^340]: A 64. § (1) bekezdés g) pontja a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^341]: A 64. § (1) bekezdés h) pontja a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^342]: A 64. § (1) bekezdés i) pontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés f) pontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdése iktatta be.
+[^343]: A 64. § (1) bekezdés j) pontját a 156/2016. (VI. 13.) Korm. rendelet 12. § (6) bekezdése iktatta be.
+[^344]: A 64. § (1a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^345]: A 64. § (1b) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^346]: A 64. § (2) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 32. § e) pontja szerint módosított szöveg.
+[^347]: A 64. § (3) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 32. § f) pontja szerint módosított szöveg.
+[^348]: A 64. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (7) bekezdésével megállapított, nyitó szövegrésze a 482/2016. (XII. 28.) Korm. rendelet 32. § g) pontja szerint módosított szöveg.
+[^349]: A 64. § (4) bekezdés b) pontja a 144/2017. (VI. 12.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
