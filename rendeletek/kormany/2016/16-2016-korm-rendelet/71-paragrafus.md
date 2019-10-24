@@ -1,23 +1,23 @@
-## 70. §[^156] Az adó-visszatérítési támogatásra az 5–7. §-ban, a 12. § (2c) bekezdésében, a 13. § (1), (2), (8) és (9) bekezdésében, a 14–15/A. §-ban, a 17. §-ban, a 18. § (1), (3) és (4) bekezdésében, a 19–21. §-ban, a 23. és 24. §-ban, a 28–30. §-ban, a 36. és 37. §-ban, a 39–44. §-ban, a 45. § (1) bekezdésében, a 46. és 47. §-ban, a 49. és 50. §-ban, az 51. § (1), (2), (5), (6) és (7) bekezdésében, az 52–54. §-ban, az 58–67. §-ban, valamint a 86/A. §-ban foglaltakat – az adó-visszatérítési támogatás építési telekre jutó része esetén a 19. §-ban és a 44. § (9) bekezdésében foglaltak kivételével – is megfelelően alkalmazni kell.
+## 70. §[^158] Az adó-visszatérítési támogatásra az 5–7. §-ban, a 12. § (2c) bekezdésében, a 13. § (1), (2), (8) és (9) bekezdésében, a 14–15/A. §-ban, a 17. §-ban, a 18. § (1), (3) és (4) bekezdésében, a 19–21. §-ban, a 23. és 24. §-ban, a 28–30. §-ban, a 36. és 37. §-ban, a 39–44. §-ban, a 45. § (1) bekezdésében, a 46. és 47. §-ban, a 49. és 50. §-ban, az 51. § (1), (2), (5), (6) és (7) bekezdésében, az 52–54. §-ban, az 58–67. §-ban, valamint a 86/A. §-ban foglaltakat – az adó-visszatérítési támogatás építési telekre jutó része esetén a 19. §-ban és a 44. § (9) bekezdésében foglaltak kivételével – is megfelelően alkalmazni kell.
 
 ## IV. Fejezet
 
-## A TÖBBGYERMEKES CSALÁDOK OTTHONTEREMTÉSI KAMATTÁMOGATÁSA[^157]
+## A TÖBBGYERMEKES CSALÁDOK OTTHONTEREMTÉSI KAMATTÁMOGATÁSA[^159]
 
 ## 71. § E fejezet alkalmazásában
 
-a)[^158] igénylő: a többgyermekes családok otthonteremtési kamattámogatását e rendelet szerinti feltételek szerint igénylő nagykorú személy,
+a)[^160] igénylő: a többgyermekes családok otthonteremtési kamattámogatását e rendelet szerinti feltételek szerint igénylő nagykorú személy,
 
 b) lejárt tőketartozás: a kölcsönszerződés felmondása miatt esedékessé vált tőketartozás, valamint a fel nem mondott kölcsönszerződésből eredő lejárt tőketartozás, amelynek törlesztési késedelme a 30 napot meghaladja,
 
-c)[^159] támogatott személy: akivel a hitelintézet a többgyermekes családok otthonteremtési kamattámogatásának igénybevételére támogatási szerződést köt,
+c)[^161] támogatott személy: akivel a hitelintézet a többgyermekes családok otthonteremtési kamattámogatásának igénybevételére támogatási szerződést köt,
 
 d) ügyleti kamat: a kamattámogatott kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás,
 
-e)[^160] nem támogatott személy hiteladós: a többgyermekes családok otthonteremtési kamattámogatásával érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Ptk. szerinti közeli hozzátartozója és a 72/A. § szerinti feltételeket teljesíti.
+e)[^162] nem támogatott személy hiteladós: a többgyermekes családok otthonteremtési kamattámogatásával érintett kölcsönszerződés olyan adóstársa, aki a támogatott személyek legalább egyikének a Ptk. szerinti közeli hozzátartozója és a 72/A. § szerinti feltételeket teljesíti.
 
-[^156]: A 70. § a 273/2016. (IX. 15.) Korm. rendelet 12. §-ával megállapított, a 152/2019. (VI. 26.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^157]: A IV. fejezet címe a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^158]: A 71. § a) pontja a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^159]: A 71. § c) pontja a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^160]: A 71. § e) pontját a 26/2018. (II. 28.) Korm. rendelet 19. §-a iktatta be, szövege a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^158]: A 70. § a 273/2016. (IX. 15.) Korm. rendelet 12. §-ával megállapított, a 152/2019. (VI. 26.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^159]: A IV. fejezet címe a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^160]: A 71. § a) pontja a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^161]: A 71. § c) pontja a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^162]: A 71. § e) pontját a 26/2018. (II. 28.) Korm. rendelet 19. §-a iktatta be, szövege a 209/2018. (XI. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
