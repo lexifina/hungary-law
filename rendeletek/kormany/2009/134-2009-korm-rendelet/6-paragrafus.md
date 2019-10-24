@@ -36,11 +36,11 @@ l)[^48] több lakásból álló, osztatlan közös tulajdon esetén, amennyiben 
 
 m)[^49] az egyszerű bejelentéshez kötött építési tevékenységet
 
-ma) a lakóépület építésének egyszerű bejelentéséről és egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 456/2015. (XII. 29.) Korm. rendelet 1. melléklete szerinti egyszerű bejelentés másolatával és az annak mellékletét képező egyszerű bejelentési dokumentációval,
+ma) a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (2) bekezdése szerinti, az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer által előállított visszaigazolással, vagy 2019. október 24. előtt tett bejelentés esetén az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
 
-mb) az építésügyi hatóság által kiállított, a bejelentés megtörténtét igazoló dokumentummal, és
+mb) az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe vagy az építész tervező által az egyszerű bejelentés mellékleteként az elektronikus építési naplóba feltöltött, legalább a 155/2016. (VI. 13.) Korm. rendelet 1. melléklete szerinti munkarészekből álló egyszerű bejelentési dokumentációval és
 
-mc) az igénylőnek a bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, mely szerint az építési tevékenységet megkezdheti és a hitelintézet részére benyújtott ma) alpont szerinti dokumentumok megegyeznek az építésügyi hatóság részére benyújtottakkal.
+mc) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, mely szerint az építési tevékenységet megkezdheti és a hitelintézet részére benyújtott mb) alpont szerinti dokumentumok megegyeznek az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe, illetve az elektronikus építési naplóba feltöltött dokumentumokkal.
 
 (6) Az 5. § (4) bekezdés szerinti gyermekszám-növekedésről
 
@@ -65,7 +65,7 @@ d)[^53] a használatbavételi engedély megszerzése vagy a használatbavétel t
 [^46]: A 6. § (5) bekezdés j) pontját a 379/2012. (XII. 19.) Korm. rendelet 15. §-a iktatta be.
 [^47]: A 6. § (5) bekezdés k) pontját az 537/2013. (XII. 30.) Korm. rendelet 47. §-a iktatta be.
 [^48]: A 6. § (5) bekezdés l) pontját a 331/2014. (XII. 18.) Korm. rendelet 13. §-a iktatta be.
-[^49]: A 6. § (5) bekezdés m) pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^49]: A 6. § (5) bekezdés m) pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^50]: A 6. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 136. § (7) bekezdés c) pontja, a 455/2015. (XII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^51]: A 6. § (7) bekezdés záró szövegrésze a 80/2014. (III. 14.) Korm. rendelet 21. §-a szerint módosított szöveg.
 [^52]: A 6. § (7) bekezdés c) pontja a 128/2013. (IV. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
