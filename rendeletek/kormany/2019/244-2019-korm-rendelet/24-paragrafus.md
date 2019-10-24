@@ -1,0 +1,1 @@
+## „(2a) A hatósági bizonyítvány kiadása előtt az építésfelügyeleti hatóság ellenőrzi a (2) bekezdésben foglaltak meglétét, valamint elektronikus építési napló vezetése esetén meggyőződik arról, hogy az (1) bekezdésben foglalt nyilatkozat megtétele megtörtént.”

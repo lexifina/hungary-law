@@ -1,0 +1,9 @@
+# 244/2019. (X. 22.) Korm. rendelet
+
+az egyszerű bejelentés intézményének felülvizsgálatával összefüggésben egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-244-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-10-24 | 2019-244-20-22.1 | 244/2019. (X. 22.) Korm. rendelet |
