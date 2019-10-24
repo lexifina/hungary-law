@@ -22,9 +22,9 @@ megtartják.
 
 a) a 3. § (2a) bekezdésében meghatározott nyilatkozat hiányában, és
 
-b) ha a fővállalkozó kivitelező nem rendelkezik a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítással.
+b)[^51] ha a fővállalkozó kivitelező nem rendelkezik a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott esetben a kötelező felelősségbiztosítással.
 
-(6)[^51] Az építésügyi hatósági engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló jogszabály szerint számított, 50 millió forint számított építmény-értéket meghaladó vagy integrált építési engedély alapján végzendő építőipari kivitelezési tevékenység megkezdésekor – a honvédelmi és katonai, valamint a nemzetbiztonsági célú építmények kivételével – az építési munkaterületen a közterületről jól látható helyen elhelyezett táblán fel kell tüntetni
+(6)[^52] Az építésügyi hatósági engedélyhez kötött és az építésügyi bírság megállapításának részletes szabályairól szóló jogszabály szerint számított, 50 millió forint számított építmény-értéket meghaladó vagy integrált építési engedély alapján végzendő építőipari kivitelezési tevékenység megkezdésekor – a honvédelmi és katonai, valamint a nemzetbiztonsági célú építmények kivételével – az építési munkaterületen a közterületről jól látható helyen elhelyezett táblán fel kell tüntetni
 
 a) az építtető nevét, megnevezését,
 
@@ -38,7 +38,7 @@ e) építtetői fedezetkezelő közreműködése esetén az építtetői fedezet
 
 f) az építőipari kivitelezési tevékenység szerinti építési műszaki ellenőr nevét, nyilvántartási számát és névjegyzéki jelét.
 
-(7)[^52] Az Étv. 33/A. §-a szerinti lakóépület építése esetén – a számított építményérték mértékére való tekintet nélkül – az építési munkaterületen a közterületről jól látható helyen fel kell tüntetni
+(7)[^53] Az Étv. 33/A. §-a szerinti lakóépület építése esetén – a számított építményérték mértékére való tekintet nélkül – az építési munkaterületen a közterületről jól látható helyen fel kell tüntetni
 
 a) az építtető nevét, megnevezését,
 
@@ -50,7 +50,7 @@ d) az építészeti-műszaki tervező nevét, névjegyzéki jelölését,
 
 e) a tervezői művezető nevét, névjegyzéki jelölését.
 
-(8)[^53]
+(8)[^54]
 
 [^44]: Az 5. § (2) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 93. § c) pont ca) alpontja, a 482/2016. (XII. 28.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
 [^45]: Az 5. § (2) bekezdés c) pontja a 482/2016. (XII. 28.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
@@ -59,6 +59,7 @@ e) a tervezői művezető nevét, névjegyzéki jelölését.
 [^48]: Az 5. § (5) bekezdése a 482/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^49]: Az 5. § (5a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^50]: Az 5. § (5b) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 8. §-a iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^51]: Az 5. § (6) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 3. pontja szerint módosított szöveg.
-[^52]: Az 5. § (7) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § c) pont cb) alpontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^53]: Az 5. § (8) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés a) pontja hatályon kívül helyezte.
+[^51]: Az 5. § (5b) bekezdés b) pontja a 244/2019. (X. 22.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^52]: Az 5. § (6) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 3. pontja szerint módosított szöveg.
+[^53]: Az 5. § (7) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § c) pont cb) alpontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^54]: Az 5. § (8) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés a) pontja hatályon kívül helyezte.

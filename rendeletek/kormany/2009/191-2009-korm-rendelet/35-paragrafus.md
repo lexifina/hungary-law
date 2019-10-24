@@ -2,7 +2,7 @@
 
 35. § (1) A vállalkozó kivitelezőre vonatkozó, az Étv. 39. § (3) bekezdése szerinti bejelentésnek – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 22. § (1) bekezdésében meghatározott adatokon kívül – tartalmaznia kell
 
-a)[^303] a vállalkozó kivitelező
+a)[^304] a vállalkozó kivitelező
 
 aa) cégjegyzékszámát, egyéni vállalkozó esetében egyéni vállalkozói nyilvántartási számát, adószámát,
 
@@ -16,13 +16,13 @@ ae) nyilatkozatát arról, hogy az általa megjelölt, az ab) alpont szerinti te
 
 af) nyilatkozatát arról, hogy nincs olyan korlátlan felelősséggel, vagy többségi befolyással rendelkező tagja vagy vezető tisztségviselője, aki korlátlan felelősséggel, vagy többségi befolyással rendelkező tagja vagy vezető tisztségviselője volt olyan más vállalkozó kivitelezőnek, amelyet a bejelentéstől számított öt éven belül a 37. § (1a) bekezdése alapján, vagy két éven belül a 37. § (1) bekezdés a) pont ab) alpontja alapján a nyilvántartásból töröltek,
 
-b)[^304]
+b)[^305]
 
 c) ha a bejelentő elektronikus levélcímét, telefaxszámát vagy telefonos elérhetőséget a 36. § szerinti nyilvántartásban történő feltüntetés céljából adja meg, a megadott elérhetőség mellett az erre vonatkozó nyilatkozatot is.
 
-(1a)[^305] A bejelentőnek igazolnia kell az (1) bekezdés a) pont ac) és ad) alpontjában közölteket.
+(1a)[^306] A bejelentőnek igazolnia kell az (1) bekezdés a) pont ac) és ad) alpontjában közölteket.
 
-(2)[^306] A telephely akkor minősül a vállalkozó kivitelezői tevékenység végzéséhez alkalmasnak, ha
+(2)[^307] A telephely akkor minősül a vállalkozó kivitelezői tevékenység végzéséhez alkalmasnak, ha
 
 a) a cég székhelyétől eltérő helyen lévő telephely esetén azt a cégnyilvántartásba bejegyezték, vagy egyébként a vállalkozó kivitelező okiratokkal igazolja, hogy a cég tulajdonát képezi vagy használatára a cég jogosult,
 
@@ -42,7 +42,7 @@ c) a bejelentést tevő nyilatkozatát a bejelentés (ideértve az igazolás cé
 
 (5) A bejelentés elektronikus úton vagy elektronikus adathordozón is benyújtható.
 
-[^303]: A 35. § (1) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (14) bekezdésével megállapított szöveg.
-[^304]: A 35. § (1) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. rendelet 258. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^305]: A 35. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 256. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^306]: A 35. § (2) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés h) pontja szerint módosított szöveg.
+[^304]: A 35. § (1) bekezdés a) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (14) bekezdésével megállapított szöveg.
+[^305]: A 35. § (1) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. rendelet 258. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^306]: A 35. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 256. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^307]: A 35. § (2) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés h) pontja szerint módosított szöveg.

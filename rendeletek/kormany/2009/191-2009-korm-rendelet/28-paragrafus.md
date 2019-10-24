@@ -1,4 +1,4 @@
-## 27/B. §[^277] A 27. § (1) bekezdésében meghatározottak – feladatkörüknek megfelelően – az e-építési napló lezárásáig tehetnek bejegyzést.
+## 27/B. §[^278] A 27. § (1) bekezdésében meghatározottak – feladatkörüknek megfelelően – az e-építési napló lezárásáig tehetnek bejegyzést.
 
 ## Felmérési napló
 
@@ -12,7 +12,7 @@ b) a felmérési napló a kivitelezési dokumentáció idom- és méretjegyzék�
 
 c) a felmérési adatokat a szintezési jegyzőkönyv, a keresztszelvényrajzok és a tömegszámítások tartalmazzák.
 
-(3)[^278] A felmérési napló és a teljesítésigazolási napló az e-építési napló része.
+(3)[^279] A felmérési napló és a teljesítésigazolási napló az e-építési napló része.
 
-[^277]: A 27/B. §-t a 336/2013. (IX. 20.) Korm. rendelet 14. §-a iktatta be.
-[^278]: A 28. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 82. §-a iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 21. pontja szerint módosított szöveg.
+[^278]: A 27/B. §-t a 336/2013. (IX. 20.) Korm. rendelet 14. §-a iktatta be.
+[^279]: A 28. § (3) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 82. §-a iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 12. § 21. pontja szerint módosított szöveg.

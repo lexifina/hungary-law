@@ -46,7 +46,7 @@ qb) az építtető kifejezett nyilatkozatát arra vonatkozóan, hogy kívánja-e
 
 r)[^27] a kivitelező nyilatkozatát arra vonatkozóan, hogy a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kötelező felelősségbiztosítással rendelkezik vagy legkésőbb a munkaterület átadásakor rendelkezni fog.
 
-(2a)[^28] Az általános építmények körében, ha az építtető nem az építési tevékenységgel érintett telek, építmény vagy építményrész tulajdonosa, a kivitelezési szerződés mellékletét képezi az a teljes bizonyító erejű magánokiratba foglalt nyilatkozat, amelyben a telek, építmény, építményrész tulajdonosa az építési munkaterület átadás-átvételét tudomásul veszi.
+(2a)[^28] Az általános építmények körében, ha az építtető nem az építési tevékenységgel érintett telek, építmény vagy építményrész kizárólagos tulajdonosa, a kivitelezési szerződés mellékletét képezi az a teljes bizonyító erejű magánokiratba foglalt nyilatkozat, amelyben a telek, építmény, építményrész tulajdonosa, társtulajdonosa az építési munkaterület átadás-átvételét tudomásul veszi.
 
 (3)[^29] Az alvállalkozói kivitelezési szerződés – a (2) bekezdésben foglaltakon túlmenően – tartalmazza név, illetve megnevezés, adószám, lakcím, illetve székhely szerint rögzítve, hogy mely vállalkozó (fővállalkozó) kivitelezővel kötött kivitelezési szerződés teljesítése érdekében kerül sor az alvállalkozói kivitelezési szerződés megkötésére, valamint építtetői fedezetkezelő közreműködése esetén az építtetői fedezetkezelő megnevezését és elérhetőségét.
 
@@ -90,7 +90,7 @@ bb)[^31] a tervezett nyereséget, amennyiben azt a rezsióradíj nem tartalmazza
 [^25]: A 3. § (2) bekezdés p) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^26]: A 3. § (2) bekezdés q) pontját a 62/2014. (III. 6.) Korm. rendelet 11. § (2) bekezdése iktatta be.
 [^27]: A 3. § (2) bekezdés r) pontját a 353/2016. (XI. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^28]: A 3. § (2a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^28]: A 3. § (2a) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^29]: A 3. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 92. § a) pont ac) alpontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
 [^30]: A 3. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
 [^31]: A 3. § (5) bekezdés b) pont bb) alpontja a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
