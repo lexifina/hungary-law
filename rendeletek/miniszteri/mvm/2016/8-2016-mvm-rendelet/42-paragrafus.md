@@ -26,6 +26,8 @@
 
 (12)[^15] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet Budapest Főváros fejlesztésével összefüggő módosításáról szóló 11/2019. (VIII. 5.) MvM rendelettel (a továbbiakban: Módr10.) megállapított rendelkezéseit a Módr10. hatálybalépése[^16] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(13)[^17] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a kormányzati szerkezetátalakítással kapcsolatos módosításáról szóló 13/2019. (X. 22.) MvM rendelettel (a továbbiakban: Módr11.) megállapított rendelkezéseit a Módr11. hatálybalépése[^18] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^2]: A 42. § a 3/2019. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^3]: A hatálybalépés időpontja 2018. február 16.
 [^4]: A hatálybalépés időpontja 2018. március 29.
@@ -41,3 +43,5 @@
 [^14]: A hatálybalépés időpontja 2019. május 8.
 [^15]: A 42. § (12) bekezdését a 11/2019. (VIII. 5.) MvM rendelet 1. §-a iktatta be.
 [^16]: A hatálybalépés időpontja 2019. augusztus 8.
+[^17]: A 42. § (13) bekezdését a 13/2019. (X. 22.) MvM rendelet 1. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2019. október 25.
