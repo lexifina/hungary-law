@@ -1,3 +1,3 @@
-124–126. §[^395]
+124–126. §[^393]
 
-[^395]: A Vhr. 124–126. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
+[^393]: A Vhr. 124–126. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
