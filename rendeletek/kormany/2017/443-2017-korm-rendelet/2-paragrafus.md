@@ -10,8 +10,11 @@ aa) közreműködik a töltőtelepítési fejlesztések koordinálásában,
 
 ab) megvalósítja a töltőinfrastruktúra kiépítését szolgáló egyes, központi költségvetési forrásból vagy európai uniós forrásból létrehozandó kormányzati fejlesztéseket,
 
-b) az általa kiépített töltőinfrastruktúra rendeltetésszerű fenntartásáért és üzemeltetéséért, a közfeladat körébe bele nem értve az elektromobilitás felhasználó részére történő elektromobilitás szolgáltatási tevékenységet,
+b)[^1]
 
 c) tisztán elektromos gépjármű-részarány növelésének elősegítéséért az elektromos gépjárművek központi beszerzése útján azon költségvetési szervek részére, amelyek nem tartoznak a Közbeszerzési és Ellátási Főigazgatóság által kötelezően ellátott körbe, és nem élnek az e körhöz való csatlakozási jogukkal,
 
-d) az elektromobilitási piac szereplői közötti átjárhatóság biztosításának, valamint az elektromobilitási piac egységes működéséhez szükséges, kölcsönös elszámolást biztosító elektronikus fizetési platform kialakításával kapcsolatos feladatok ellátásáért.
+d)[^2]
+
+[^1]: A 2. § b) pontját a 243/2019. (X. 22.) Korm. rendelet 27. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 22. §-át.
+[^2]: A 2. § d) pontját a 243/2019. (X. 22.) Korm. rendelet 27. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 22. §-át.
