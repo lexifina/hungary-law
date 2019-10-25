@@ -8,7 +8,7 @@ b)[^6] szervezi és koordinálja a terrorcselekmények megelőzését és elhár
 
 c) részt vesz a kritikus infrastruktúrák védelmére vonatkozó nemzeti program kidolgozásában, a veszélyeztetettség értékelésében és biztonsági intézkedési tervek kidolgozásában, továbbá külön szerződés alapján ellátja a terrorveszélyeztetettség szempontjából jelentős, kritikus infrastruktúrák védelmét,
 
-d)[^7] végzi a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározottak szerint a legfőbb ügyész és a miniszterelnök védelmét, valamint a rendészetért felelős miniszter által ideiglenesen, eseti jelleggel a hatáskörébe utalt egyéb személyvédelmi feladatokat és létesítménybiztosítási feladatokat, ennek keretében
+d)[^7] végzi a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározottak szerint a miniszterelnök, a külpolitikáért felelős miniszter és a legfőbb ügyész védelmét, valamint a rendészetért felelős miniszter által ideiglenesen, eseti jelleggel a hatáskörébe utalt egyéb személyvédelmi feladatokat és létesítménybiztosítási feladatokat, ennek keretében
 
 da)[^8] végrehajtja – indokolt esetben az általános rendőrségi feladatokat ellátó szerv tűzszerész szolgálati ága szakegységeinek bevonásával – a tűzszerészeti feladatokat, valamint a robbantással fenyegetett helyszínek átvizsgálását,
 
@@ -87,7 +87,7 @@ e) a hatósági eljárás során lefoglalt, a közbiztonságra különösen vesz
 [^4]: A 3. § (1) bekezdés nyitó szövegrésze a 77/2018. (IV. 20.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés b) pontja a 256/2015. (IX. 10.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^7]: A 3. § (1) bekezdés d) pont nyitó szövegrésze a 102/2012. (V. 18.) Korm. rendelet 23. § a) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a, a 77/2018. (IV. 20.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés d) pont nyitó szövegrésze a 102/2012. (V. 18.) Korm. rendelet 23. § a) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a, a 77/2018. (IV. 20.) Korm. rendelet 19. § b) pontja, a 250/2019. (X. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés d) pont da) alpontja a 77/2018. (IV. 20.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdés d) pont db) alpontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a, a 102/2012. (V. 18.) Korm. rendelet 23. § b) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^10]: A 3. § (1) bekezdés d) pont de) alpontja a 102/2012. (V. 18.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.

@@ -20,7 +20,7 @@ Terrorelhárítási Központ, Budapest
 
 2.7. 13. Műveleti Osztály, Szombathely
 
-2.8. 14. Műveleti Osztály, Budapest Liszt Ferenc Nemzetközi Repülőtér
+2.8.[^31]
 
 2.9. 1. Iroda, Budapest Liszt Ferenc Nemzetközi Repülőtér
 
@@ -38,3 +38,4 @@ Terrorelhárítási Központ, Budapest
 
 [^29]: Az 1. melléklet a 416/2012. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^30]: Az 1. melléklet 2. pontja a 77/2018. (IV. 20.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^31]: Az 1. melléklet 2.8. pontját a 250/2019. (X. 24.) Korm. rendelet 5. §-a hatályon kívül helyezte.
