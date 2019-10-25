@@ -1,1 +1,3 @@
-## „f) az Épkiv. 14. §-a szerinti nyilatkozat nem áll rendelkezésre, vagy a nyilatkozat tartalma nem felel meg a valóságnak.”
+## 10. §[^10]
+
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

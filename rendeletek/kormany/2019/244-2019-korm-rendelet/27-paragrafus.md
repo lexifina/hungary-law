@@ -1,7 +1,3 @@
-## lép.
+## 26. §[^26]
 
-## 27. § Hatályát veszti az R8.
-
-a) 2. § (2a) bekezdése,
-
-b) 2. § (3) bekezdés c) pontjában a „személy” szövegrész.
+[^26]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

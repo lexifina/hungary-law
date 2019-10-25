@@ -1,1 +1,3 @@
-## „(2a) A hatósági bizonyítvány kiadása előtt az építésfelügyeleti hatóság ellenőrzi a (2) bekezdésben foglaltak meglétét, valamint elektronikus építési napló vezetése esetén meggyőződik arról, hogy az (1) bekezdésben foglalt nyilatkozat megtétele megtörtént.”
+## 23. §[^23]
+
+[^23]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## lép.
+## 12. §[^12]
 
-## 13. § Hatályát veszti az R5.
-
-a) 39. § (4) bekezdésében az „az építési munkaterület építtető részére történő, építési naplóban igazolt átadását követően,” szövegrész,
-
-b) 40. § (2) bekezdés g) pontja.
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
