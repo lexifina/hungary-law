@@ -8,4 +8,6 @@
 
 | 3. | Európai Hálózatfinanszírozási Eszköz | Az alternatív üzemanyagtöltők adatainak és az e-Mobilitás szereplőinek egyedi azonosítóinak összegyűjtésére vonatkozó projekt | Magyar Állam | Magyar Közút Nonprofit Zrt. és IFKA Iparfejlesztési Közhasznú Nonprofit Kft. | 52 845 000 | 52 845 000 | 42 276 000 | 10 569 000 | 0 | 14 268 150 | 0 | 14 268 150 | 52 845 000 | 67 113 150 | 42 276 000 | 24 837 150 | A pályázat célja, hogy – az Európai Bizottság elvárásainak megfelelően – egységes adatbázis épülhessen fel az alternatív üzemanyagokkal kapcsolatos infrastruktúra töltőpontjaira vonatkozóan, valamint létrejöjjön egy egységes javaslat az elektromobilitás szereplői egyedi azonosításának rendszerére. |
 
-3. melléklet az 1613/2019. (X. 24.) Korm. határozathoz
+3. melléklet az 1613/2019. (X. 24.) Korm. határozathoz[^3]
+
+[^3]: A 3. mellékelt a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
