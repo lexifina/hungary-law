@@ -1,4 +1,4 @@
-137/A. §[^44] (1) A miniszter az oktatásért való felelőssége keretében előkészíti
+137/A. §[^45] (1) A miniszter az oktatásért való felelőssége keretében előkészíti
 
 a) a felsőoktatásra,
 
@@ -18,4 +18,4 @@ b) meghatározza a magyar állami ösztöndíjrendszer igénybevételének keret
 
 c) közreműködik a Stipendium Hungaricum ösztöndíjprogrammal kapcsolatos, külön jogszabályban meghatározott feladatok végrehajtásában.
 
-[^44]: A 137/A. §-t a 209/2019. (VIII. 27.) Korm. rendelet 7. §-a iktatta be.
+[^45]: A 137/A. §-t a 209/2019. (VIII. 27.) Korm. rendelet 7. §-a iktatta be.
