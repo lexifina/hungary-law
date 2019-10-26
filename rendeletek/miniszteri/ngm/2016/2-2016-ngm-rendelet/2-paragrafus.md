@@ -1,6 +1,8 @@
+## 1. §[^1] E rendelet hatálya kiterjed a nyomástartó berendezések, rendszerek és létesítmények műszaki-biztonsági hatósági felügyeletéről szóló 213/2019. (VIII. 27.) Korm. rendelet szerinti nyomástartó berendezések, rendszerek és létesítmények, a töltő berendezések, valamint a kisteljesítményű sűrített gáztöltő berendezések műszaki biztonságára.
+
 ## 2. Értelmező rendelkezések
 
-## 2. §[^4] E rendelet alkalmazásában
+## 2. §[^2] E rendelet alkalmazásában
 
 1. Alternatív üzemanyag: a közlekedés energiaellátásában a kőolajforrásokat legalább részben helyettesítő üzemanyag vagy energiaforrás, amely potenciálisan hozzájárul a közlekedési ágazat dekarbonizációjához, és javítja annak környezeti teljesítményét. Ilyen üzemanyag különösen:
 
@@ -16,15 +18,15 @@ e) földgáz, beleértve a biometánt, gáznemű (sűrített földgáz – CNG) 
 
 f) cseppfolyósított propán-bután gáz (LPG).
 
-2. Autógáz: a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben szereplő, a Műszaki Biztonsági Szabályzatban részletezett gázüzemanyagok.
+2.[^3]
 
-3. Autógáz tartály: a gázüzemű közúti járművek és munkagépek üzemanyag-ellátó berendezésébe épített, cseppfolyós, sűrített vagy kriogén autógázzal tölthető tartály vagy palack.
+3.[^4]
 
-4. Autógáz tárolótartály: az autógáz-töltőállomás technológiájának részét képező, cseppfolyós autógáz üzemanyag tárolására szolgáló nyomástartó berendezés.
+4.[^5]
 
-5. Átalakítás: minden olyan beavatkozás, amelynek eredményeként a nyomástartó berendezés az eredeti kialakításától vagy funkciójának megfelelő paramétereitől eltérővé válik.
+5.[^6]
 
-6. Kisteljesítményű sűrített gáztöltő berendezés: a puffer tároló nélküli töltő berendezés, melynek töltőkapacitása nem több mint 25 Nm3/h, beleértve annak felszereléseit, valamint üzemi szerelvényeit az első csatlakozási pontig, amely a gázt a fogyasztói vezetékből (CNG) vagy egyéb forrásból autógáz tartályba vagy palackba lassú üzemben tölti.
+6.[^7]
 
 7. Egyszerű nyomástartó edény: a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben meghatározott berendezés.
 
@@ -36,73 +38,45 @@ b) Telepítési távolság: a nyomástartó berendezés és egyéb építmények
 
 c) Védőövezet (védőtávolság): a veszélyes gáz töltetű, szabadtéri nyomástartó berendezés környezetében lévő más létesítményeket védi a meghatározható, üzemzavarra jellemző kibocsátó források hatásától, melyen belül csak a nyomástartó berendezés, valamint annak egyéb technológiai elemei, készülékei helyezhetők el; a védőövezetet vízszintes és függőleges védőtávolság jellemzi, amelynek mértéke védelmi zárakkal csökkenthető.
 
-9. Ellenőrzések:
+9.[^8]
 
-a) Gáz közeggel végrehajtott nyomáspróba: a műszaki dokumentáció határozza meg az értékét, a gáz minőségét, a nyomásváltozás sebességét, a nyomáson tartások idejét és az adott esetben szükséges technológiai és biztonsági intézkedéseket; ha a műszaki dokumentáció nem tartalmazza ezeket a paramétereket, megfelelő jogosultsággal rendelkező tervezőnek kell megadnia; ha a vizsgálat célja a készülék szilárdságának ellenőrzése, és a vizsgálat nem hajtható végre a folyadék közeggel megtartott szilárdsági nyomáspróba értékén, akkor a tervezőnek meg kell határoznia a szükséges kiegészítő vizsgálatokat és a balesetmegelőzési intézkedéseket is.
+10.[^9]
 
-b) Létesítési ellenőrzés: a nyomástartó berendezésre, töltő berendezésre vonatkozó létesítési előírások ellenőrzése a létesítési dokumentáció és a megvalósult állapot összevetésével.
+11.[^10]
 
-c) Nyomáspróba: a nyomástartó berendezés – műszaki dokumentációban megadott mértékű – nyomásterheléssel végrehajtott ellenőrzése.
+12.[^11]
 
-d) Szerkezeti ellenőrzés: a nyomástartó berendezés állapotának időszakos vagy soron kívüli ellenőrzése az üzemeltetési igénybevételeknek való megfelelés megállapítása céljából.
+13.[^12]
 
-e) Szilárdsági ellenőrzés: a nyomástartó berendezés nyomáspróbával vagy más módon, a nyomástartó berendezés megbontása nélkül végrehajtott integritás ellenőrzése; a műszaki dokumentáció határozza meg a próbanyomás értékét, a közeg minőségét, a nyomásváltozás sebességét, a nyomáson tartások idejét és az adott esetben szükséges technológiai és biztonsági intézkedéseket.
+14.[^13]
 
-f) Tömörség ellenőrzés: az üzemi nyomáson és hőmérsékleten, saját közeggel vagy egyéb alkalmas közeggel is végrehajtható szivárgás ellenőrzés, amelynek célja annak kimutatása, hogy a nyomástartó berendezés az ellenőrzési nyomáson tömör; a műszaki dokumentáció határozza meg az értékét, a közeg minőségét, a tömörtelenség kimutatására használandó technológiát, a még megfelelő tömörség értékét, a nyomásváltozás sebességét, a nyomáson tartások idejét és az adott esetben szükséges technológiai és biztonsági intézkedéseket.
+15.[^14]
 
-g) Tömörségi nyomáspróba: a tömörtelenség kimutatására alkalmas közeggel a legnagyobb megengedhető nyomás értékén végrehajtott ellenőrzés, amelynek célja a legnagyobb megengedhető nyomáson való tömörség igazolása.
-
-h) Üzemeltetési ellenőrzés: a nyomástartó berendezés, töltő berendezés üzemeltetésére vonatkozó műszaki biztonsági szabályok betartásának időszakos helyszíni ellenőrzése.
-
-10. Ellenőrzési ciklusidő: a nyomástartó berendezés, töltő berendezés két egymást követő időszakos ellenőrzése közötti időtartam, évben vagy hónapban megadva.
-
-11. Fokozottan veszélyes töltet:
-
-a) ha a nyomástartó berendezésben az itt felsorolt anyagok valamelyike jelen van: arzén-pentoxid, arzén (V) sav és/vagy sói, arzén-trioxid, arzén (III) sav és/vagy sói, bróm, klór, nikkelvegyületek belélegezhető formában (nikkel-monoxid, nikkel-dioxid, nikkel-szulfid, trinikkel-diszulfid, dinikkel-trioxid), etilén-imin, fluor, formaldehid (töménység >90%), hidrogén, hidrogén-klorid (cseppfolyós gáz), ólom-alkilátok, acetilén, etilén-oxid, propilén-oxid, 4,4-metilén-bisz (2-klóranilin) és/vagy sói, por alakban, metil-izocianát, toluol-diizocianát, karbonil-diklorid (foszgén), arzén-trihidrid (arzin), foszfor-trihidrid (foszfin), kén-diklorid, kén-trioxid, poliklór-dibenzo-furánok és poliklór-dibenzo-dioxinok, beleértve a TCDD-t, rákkeltő anyagok 5 tömeg% feletti koncentrációban;
-
-b) ha a nyomástartó rendszerben jelen lévő veszélyes anyag vagy anyagok közül legalább egy nagyon mérgező, robbanóanyag vagy fokozottan tűzveszélyes gáz vagy folyadék; vagy
-
-c) ha a nyomástartó rendszerben üzemeltetői tapasztalatok alapján nehezen irányítható veszélyes vegyipari folyamatok mennek végbe.
-
-12. Időszakos ellenőrzés: a nyomástartó berendezés effllenőrzési tervnek megfelelő üzemeltetési és szerkezeti, valamint szilárdsági ellenőrzése.
-
-13. Javítás: minden olyan megelőző tevékenység vagy meghibásodás utáni beavatkozás, amely a nyomástartó berendezés, töltő berendezés szerkezeti állapotának az eredeti állapottal egyenértékű visszaállítását célozza.
-
-14. Kompozit autógáz tartály (palack): a külső felületen műgyantába ágyazott, végtelenített szálakkal sodort bevonattal erősített, fém vagy nemfém béléstestű tartály (palack).
-
-15. Kriogén tartály: mélyhűtött cseppfolyós halmazállapotú gáz tárolására szolgáló hőszigetelt vagy vákuumszigetelt tartály.
-
-16. Létesítés: nyomástartó rendszer létrehozása nyomástartó berendezés, nyomástartó berendezések adott helyre történő telepítésével és rendszerbe kapcsolásukkal.
+16.[^15]
 
 17. LNG-töltőállomás: LNG-vel való ellátásra szolgáló, helyhez kötött vagy mobil állomásból, tengeri állomásból vagy egyéb rendszerekből álló töltőlétesítmény.
 
-18. Mobil nyomástartó berendezés: a vontatás, illetve a szállítás során 0,5 barnál nagyobb túlnyomás alatt nem álló – ideiglenesen alkalmazott technológiához – változó helyen használt nyomástartó berendezés, valamint a kompresszorral egybeépített légtartály.
+18.[^16]
 
 19. Műszaki Biztonsági Szabályzat: a 2. melléklet szerinti, az e rendeletben meghatározott követelmények teljesítését elősegítő, az e rendelet alkalmazási körébe tartozó berendezések létesítésének, áthelyezésének, üzembe helyezésének, üzembe vételének, üzemeltetésének, átalakításának, javításának, időszakos ellenőrzésének és megszüntetésének műszaki biztonsági feltételeit, az időszakos és soron kívüli ellenőrzések műszaki biztonsági előfeltételeit és módját tartalmazó műszaki előírások gyűjteménye.
 
 20. Nyomás: a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben meghatározott nyomás.
 
-21. Nyomástartó berendezés: a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben meghatározott berendezés.
+21.[^17]
 
-22. Nyomástartó létesítmény: a telepített nyomástartó rendszerek összekapcsolt, kölcsönhatásban működő rendszere, amelynek biztonságos üzemét e kölcsönhatás alapvetően meghatározza.
+22.[^18]
 
-23. Nyomástartó rendszer: a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben meghatározott nyomástartó rendszer.
+23.[^19]
 
-24. Próbaüzemeltetés: a nyomástartó berendezés, töltő berendezés egészének vagy egyes egymással összefüggő részeinek (technológiai egységének) előre meghatározott program szerint végrehajtott üzemi működésének ellenőrzése; a sikeres próbaüzemeltetés igazolja, hogy a nyomástartó berendezés megfelel a folyamatos normál üzem követelményeinek, azaz a nyomástartó berendezés műszaki értelemben üzembe helyezhető.
+24.[^20]
 
-25. Rendkívüli esemény: a nyomástartó berendezés üzemeltetése során bekövetkezett következő események:
-
-a) a környezetkárosítás, a környezet veszélyeztetése, továbbá a földtani közeg, illetve a talajvíz szennyeződése,
-
-b) a létesítmény területén tartózkodó személyek életének veszélyeztetése,
-
-c) az idegen ingatlanon vagy létesítményben történt károkozás.
+25.[^21]
 
 26. Szakértő: az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben meghatározott, az adott szakterületre vonatkozó szakértői jogosultsággal rendelkező személy.
 
 27. Telepített nyomástartó berendezés: a helyhez kötötten használt nyomástartó berendezés.
 
-28. Tervdokumentáció: írásos és rajzos formátumú dokumentum, a tervező utasítása a kivitelező részére.
+28.[^22]
 
 29. Töltőállomás: a cseppfolyósított földgáz (LNG) kivételével bármely üzemanyag töltésére szolgáló, rögzített vagy mobil egység.
 
@@ -114,22 +88,52 @@ b) a gázt a hordozható tűzoltó készülék- vagy légzőkészülék-palackba
 
 c) a gázt szállítható nyomástartó berendezésből nyomástartó berendezésbe fejtik le.
 
-31. Üzembe helyezés (üzembe vétel): e rendelet hatálya alá tartozó bármely berendezés rendeltetés szerinti működtetésének megkezdése.
+31.[^23]
 
-32. Üzemeltetés: e rendelet hatálya alá tartozó bármely berendezés biztonságos működtetéséhez szükséges feltételek biztosítása és rendeltetésszerű üzemeltetése, beleértve az üzembe helyezést, üzembe vételt, az üzemzavar elhárítást, az üzemen kívül helyezést, a karbantartást, valamint az üzemeltető ellenőrzéseit is.
+32.[^24]
 
-33. Üzemeltetés tartós szüneteltetése: egy évnél hosszabb ideig tartó használaton kívüli állapot.
+33.[^25]
 
-34. Üzemeltető: az a műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál, másodfokon Budapest Főváros Kormányhivatalánál (a továbbiakban: Hatóság) bejelentett természetes személy vagy gazdálkodó szervezet, aki az e rendelet hatálya alá tartozó bármely berendezéssel rendelkezni jogosult, vagy akit a berendezéssel rendelkezni jogosult annak üzemeltetésére írásban feljogosított.
+34.[^26]
 
-35. Üzemen kívül helyezés: olyan tevékenység melynek során a nyomástartó berendezést a működő technológiai rendszerről leválasztják, kiszakaszolják, nyomásmentesítik, töltetét leürítik és kitisztítják.
+35.[^27]
 
-36. Üzemeltetői ellenőrző szervezet: a nyomástartó berendezések időszakos vizsgálatára az üzemeltető által létrehozott szervezet, amely megfelel az e rendeletben foglalt feltételeknek.
+36.[^28]
 
-37. Veszélyes töltet: a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendeletben meghatározott veszélyes töltet.
+37.[^29]
 
-38. Vizsgáló szakember: kormányrendeletben meghatározott szakirányú szakképzettséggel és szakmai gyakorlattal rendelkező, a nyomástartó berendezések ellenőrzésével, vizsgálatával megbízott személy.
+38.[^30]
 
-39. Vizsgáló szervezet: kormányrendeletben meghatározott műszaki-biztonsági irányítási rendszer (a továbbiakban: MBIR) működtetésében közreműködő, a nyomástartó berendezések időszakos vizsgálatára a Hatóság által kijelölt ellenőrző szervezet.
+39.[^31]
 
-[^4]: A 2. § a 19/2017. (VII. 12.) NGM rendelet 14. §-ával megállapított szöveg.
+[^1]: Az 1. § a 28/2019. (VIII. 27.) ITM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 19/2017. (VII. 12.) NGM rendelet 14. §-ával megállapított szöveg.
+[^3]: A 2. § 2. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
+[^4]: A 2. § 3. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
+[^5]: A 2. § 4. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § 5. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § 6. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
+[^8]: A 2. § 9. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^9]: A 2. § 10. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^10]: A 2. § 11. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^11]: A 2. § 12. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^12]: A 2. § 13. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^13]: A 2. § 14. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^14]: A 2. § 15. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^15]: A 2. § 16. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^16]: A 2. § 18. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § c) pontja hatályon kívül helyezte.
+[^17]: A 2. § 21. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § d) pontja hatályon kívül helyezte.
+[^18]: A 2. § 22. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § d) pontja hatályon kívül helyezte.
+[^19]: A 2. § 23. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § d) pontja hatályon kívül helyezte.
+[^20]: A 2. § 24. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § d) pontja hatályon kívül helyezte.
+[^21]: A 2. § 25. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § d) pontja hatályon kívül helyezte.
+[^22]: A 2. § 28. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § e) pontja hatályon kívül helyezte.
+[^23]: A 2. § 31. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.
+[^24]: A 2. § 32. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.
+[^25]: A 2. § 33. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.
+[^26]: A 2. § 34. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.
+[^27]: A 2. § 35. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.
+[^28]: A 2. § 36. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.
+[^29]: A 2. § 37. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.
+[^30]: A 2. § 38. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.
+[^31]: A 2. § 39. pontját a 213/2019. (VIII. 27.) Korm. rendelet 44. § f) pontja hatályon kívül helyezte.

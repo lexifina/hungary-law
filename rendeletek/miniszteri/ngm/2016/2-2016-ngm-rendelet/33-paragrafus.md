@@ -1,26 +1,32 @@
-## 18. A Műszaki Biztonsági Szabályzat, továbbá a Nyomástartó Berendezés Műszaki Szakbizottság működése és feladatai
+## 32. §[^46]
 
-33. § (1) A Műszaki Biztonsági Szabályzat célja, hogy az e rendelet hatálya alá tartozó berendezések létesítése, üzembevétele, üzemeltetése, cseréje, átalakítása, javítása, áthelyezése, vizsgálata és megszüntetése során betartandó, a megfelelő biztonsággal és megbízhatósággal kapcsolatos műszaki követelményeket meghatározza.
+## 18. [^47] A szakági műszaki szakbizottság működése és feladatai
 
-(2) A Műszaki Biztonsági Szabályzat módosításának előzetes szakmai egyeztetését a Nyomástartó Berendezés Műszaki Szakbizottság (a továbbiakban: Szakbizottság) végzi. A Szakbizottság a Műszaki Biztonsági Szabályzatot szükség szerinti gyakorisággal, de legalább évente felülvizsgálja, és véleményezi a Szakbizottsághoz beérkezett módosítási javaslatokat. A Műszaki Biztonsági Szabályzat felülvizsgálatára vagy módosítására vonatkozó javaslatát a Szakbizottság az iparügyekért felelős miniszter részére megküldi.
+33. § (1) Az e rendelet hatálya alá tartozó berendezések és rendszerek létesítési és üzemeltetési tapasztalatainak figyelembevételével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából az iparügyekért felelős miniszter szakági műszaki szakbizottságot (a továbbiakban: Szakbizottság) hoz létre.
 
-(3) A Szakbizottság legfeljebb 6 fő szakértő tagból áll, akiket az iparügyekért felelős miniszter felkérésére a következő szervezetek vezetői delegálhatnak:
+(2) A Szakbizottság az e rendelet hatálya alá tartozó berendezések és rendszerek tervezésével, létesítésével és üzemeltetésével kapcsolatban szakági műszaki előírások formájában a Műszaki Biztonsági Szabályzat követelményeit, az egészségvédelem magas szintjét kielégítő, valamint a műszaki-tudományos színvonallal és a gazdasági megfontolások alapján megvalósítható gyakorlattal összhangban álló műszaki megoldásokat dolgoz ki.
 
-a)[^5] a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala (1 fő),
+(3) A Szakbizottságba tagot a következő szervezetek javasolhatnak:
 
-b) Magyar PB Gázipari Egyesület (1 fő),
+a) a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala: 1 fő;
 
-c) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség (3 fő),
+b) Magyar Ásványolaj Szövetség: 1 fő;
 
-d) Magyar Ipari Gáz Szövetség (1 fő).
+c) Magyar Ipari Gáz Szövetség: 1 fő;
 
-(4)[^6] A Szakbizottság összetételét a (3) bekezdésben foglaltak figyelembevételével a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalának javaslatára az iparügyekért felelős miniszter határozza meg. A szakbizottsági tagokat az iparügyekért felelős miniszter a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala javaslatára öt év időtartamra bízza meg.
+d) Magyar Mérnöki Kamara: 1 fő;
 
-(5)[^7] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
+e) Magyar PB Gázipari Egyesület: 1 fő;
 
-(6)[^8] A Szakbizottság a Műszaki Biztonsági Szabályzatban foglalt műszaki követelményrendszer értelmezésére irányelvet dolgozhat ki, melynek alkalmazása önkéntes. Az irányelveket a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala honlapján közzéteszi.
+f) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség: 1 fő;
 
-[^5]: A 33. § (3) bekezdés a) pontja a 62/2016. (XII. 29.) NGM rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^6]: A 33. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 33. § (2) bekezdésével megállapított szöveg.
-[^7]: A 33. § (5) bekezdése a 62/2016. (XII. 29.) NGM rendelet 33. § (2) bekezdésével megállapított szöveg.
-[^8]: A 33. § (6) bekezdése a 62/2016. (XII. 29.) NGM rendelet 33. § (3) bekezdés b) pontja szerint módosított szöveg.
+g) a szakterületen működő egyéb, a miniszter által felkért civil szervezetek: 1-1 fő.
+
+(4) A Szakbizottság tagjait az iparügyekért felelős miniszter 5 év időtartamra bízza meg.
+
+(5) A Szakbizottság megalkotja a működési szabályzatát, és tagjai közül 3 év időtartamra megválasztja a Szakbizottság elnökét.
+
+(6) A Szakbizottság által elfogadott szakági műszaki előírásokat a kormányzati honlapon, valamint a termékinformációs pont honlapján közzé kell tenni. A szakági műszaki előírásokban foglalt műszaki megoldást úgy kell tekintetni, hogy az megfelel az adott kor technikai színvonalának.
+
+[^46]: A 32. §-t a 213/2019. (VIII. 27.) Korm. rendelet 44. § h) pontja hatályon kívül helyezte.
+[^47]: A 18. alcím (33. §) a 28/2019. (VIII. 27.) ITM rendelet 2. §-ával megállapított szöveg.
