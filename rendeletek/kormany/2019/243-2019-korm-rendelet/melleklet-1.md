@@ -1,4 +1,4 @@
-## 29. § Hatályát veszti az elektromos gépjárműtöltési szolgáltatás egyes kérdéseiről szóló 170/2017. (VI. 29.) Korm. rendelet.
+## 29. §[^7]
 
 1. melléklet a 243/2019. (X. 22.) Korm. rendelethez
 
@@ -41,3 +41,5 @@
 11.3. a Kkt. 45/C. § (6) bekezdése szerinti esetben az elektromobilitás szolgáltatóval létrejött szerződéssel;
 
 12. ha az elektromos töltőberendezés üzemeltető az általa üzemeltetett elektromos töltőberendezésen elektromobilitás szolgáltatási tevékenységet is nyújt, a 9. § (1) bekezdésében foglaltak.
+
+[^7]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
