@@ -24,13 +24,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:523 mezőjében a „0,24” szövegrész helyébe a „0,27” szöveg,
-
-## b) D:542 mezőjében a „0,20” szövegrész helyébe a „0,21” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1614/2019. (X. 24.) Korm. határozathoz
 
@@ -43,3 +37,5 @@
 | 3. | KEHOP-5.2.2-16- 2016-00046 | Damjanich János Gimnázium és Mezőgazdasági Szakképző Iskola épületenergetikai fejlesztése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető), Damjanich János Gimnázium és Mezőgazdasági Szakképző Iskola | 240 000 000 | – | 240 000 000 | +28 636 383 | – | +28 636 383 | 268 636 383 | – | 268 636 383 | A projekt a Damjanich János Gimnázium és Mezőgazdasági Szakképző Iskola 2760 Nagykáta, Dózsa György út 26/A szám alatti, 2209 helyrajzi számon nyilvántartott „Iskola Új épület” és „Szakmai oktató” épületeit érinti. Az épületek az építési kornak megfelelő technológiai színvonalon épültek, de a határolószerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épület-szerkezettani követelményeinek, így az épületek jelentős hőveszteséggel működnek. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek utólagos hőszigetelését, fűtési rendszerek korszerűsítését tartalmazza a hatályos, az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (IV. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
 
 | 4. | KEHOP-5.2.2-16-2016-00063 | Pécsi Szakképzési Centrum Zsolnay Vilmos Szakgimnáziuma és Szakközépiskolája energetikai korszerűsítése | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető), Pécsi Szakképzési Centrum | 200 000 000 | – | 200 000 000 | +2 788 096 | +9 474 253 | +12 262 349 | 202 788 096 | 9 474 253 | 212 262 349 | A projekt a Pécsi Szakképzési Centrum Zsolnay Vilmos Szakgimnáziuma és Szakközépiskolája 7623 Pécs, Rét utca 10. szám alatti, 3866 helyrajzi számon nyilvántartott épületét érinti. Az épület az építési kornak megfelelő technológiai színvonalon épült, de a határolószerkezetek és az elavult, helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és épület-szerkezettani követelményeinek, így az épület jelentős hőveszteséggel működik. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek utólagos hőszigetelését, fűtési rendszerek korszerűsítését tartalmazza a hatályos, az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (IV. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve az üzemeltetés energiaköltségeinek minél magasabb megtakarítására. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
