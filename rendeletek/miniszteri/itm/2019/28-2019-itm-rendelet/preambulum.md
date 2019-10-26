@@ -1,0 +1,1 @@
+A nyomástartó berendezések, rendszerek és létesítmények műszaki-biztonsági hatósági felügyeletéről szóló 213/2019. (VIII. 27.) Korm. rendelet 40. § a) és b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 15. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
