@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-365-20-
 | 2019-06-06 | 2016-365-20-22.7 | 80/2018. (IV. 20.) Korm. rendelet |
 | 2019-08-18 | 2016-365-20-22.8 | 178/2019. (VII. 18.) Korm. rendelet |
 | 2019-09-01 | 2016-365-20-22.9 | 198/2019. (VIII. 1.) Korm. rendelet |
+| 2019-10-26 | 2016-365-20-22.10 | 213/2019. (VIII. 27.) Korm. rendelet |

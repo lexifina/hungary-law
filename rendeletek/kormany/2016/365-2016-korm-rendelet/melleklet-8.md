@@ -14,4 +14,6 @@
 
 | 6. | A víziutak tengelyétől és hajózási létesítményektől számított 100 méteren belüli létesítés esetén. | A veszélyes anyag szállítására vonatkozó előírások, az (vízi) üzemanyagtöltő állomások engedélyezésével kapcsolatos hajózási hatósági érdekek érvényesítése. | közlekedésért felelős miniszter |
 
-8. melléklet a 365/2016. (XI. 29.) Korm. rendelethez
+8. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^81]
+
+[^81]: A 8. mellékletet a 213/2019. (VIII. 27.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.

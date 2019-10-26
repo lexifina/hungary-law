@@ -2,7 +2,7 @@
 
 ## 16. Záró rendelkezések
 
-## 32. §[^73] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
+## 32. §[^74] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
 
 a) a szállítható nyomástartó berendezés létesítésének, üzembe helyezésének, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, feltételeire, a Műszaki Biztonsági Szabályzatra, a Műszaki Szakbizottság működésére és feladataira, a műszaki biztonsági dokumentáció tartalmára, a műszaki biztonsági szempontból jelentős munkakörök esetén szükséges képzések és továbbképzések követelményeire,
 
@@ -22,4 +22,4 @@ h) a hegesztett szerkezet gyártásánál, helyszíni szerelésénél, átalakí
 
 i) az adópolitikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak mértékére, valamint a díjak fizetésére
 
-[^73]: A 32. § a 198/2019. (VIII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^74]: A 32. § a 198/2019. (VIII. 1.) Korm. rendelet 19. §-ával megállapított szöveg.

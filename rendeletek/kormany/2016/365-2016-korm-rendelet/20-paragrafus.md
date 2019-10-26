@@ -4,8 +4,10 @@
 
 (5) Ha a (4) bekezdés szerinti eljárásban hozott elsőfokú határozattal szembeni fellebbezés érinti az első fokú eljárásban vizsgált szakkérdést, a másodfokon eljáró hatóság a 7. mellékletben meghatározott szakkérdés vizsgálatára az ott megjelölt szervet rendelheti ki szakértőként.
 
-(6) A műszaki biztonsági hatóság a nyomástartó berendezések és nyomástartó létesítmények létesítési, üzemeltetési, átalakítási és megszüntetési engedélyezésére irányuló első és másodfokú eljárásában a 8. melléklet szerinti szakkérdést is vizsgálja.
+(6)[^49]
 
-(7) Ha a (6) bekezdés szerinti eljárásban hozott elsőfokú határozattal szembeni fellebbezés érinti az első fokú eljárásban vizsgált szakkérdést, a másodfokon eljáró hatóság a 8. mellékletben meghatározott szakkérdés vizsgálatára az ott megjelölt szervet rendelheti ki szakértőként.
+(7)[^50]
 
 [^48]: A 20. § (1)–(3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 585. § b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^49]: A 20. § (6) bekezdését a 213/2019. (VIII. 27.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
+[^50]: A 20. § (7) bekezdését a 213/2019. (VIII. 27.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 13/D. [^63] A nem automatikus működésű mérlegek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+## 13/D. [^64] A nem automatikus működésű mérlegek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
 
 24/D. § (1) Az R2.-ben meghatározott alkalmazásokra szánt, nem automatikus működésű mérlegekre vonatkozó megfelelőségértékelési modulokkal kapcsolatos tevékenységek elvégzésére jogosult szervezeteket a kijelölő hatóság jelöli ki.
 
@@ -42,4 +42,4 @@ d) az értékelés elvégzését bizonyító tanúsítványok, nyilvántartások
 
 (13) Ha a megfelelőségértékelő szervezet igazolja, hogy megfelel az olyan vonatkozó harmonizált szabványokban vagy azok részeiben rögzített kritériumoknak, amelyek hivatkozásait közzétették az Európai Unió Hivatalos Lapjában, akkor vélelmezni kell, hogy a megfelelőségértékelő szervezet megfelel a (4)–(12) bekezdésében meghatározott követelményeknek.
 
-[^63]: A 13/D. alcímet (24/D–24/E. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^64]: A 13/D. alcímet (24/D–24/E. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.

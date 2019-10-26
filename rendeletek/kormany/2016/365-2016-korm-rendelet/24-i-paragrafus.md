@@ -1,4 +1,4 @@
-## 13/G. [^66] A mérőeszközök megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
+## 13/G. [^67] A mérőeszközök megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó különös szabályok
 
 24/I. § (1) A kijelölő hatóság jelöli ki azokat a szervezeteket, amelyek az R1. szerinti megfelelőségértékelési feladatok ellátását végzik.
 
@@ -38,4 +38,4 @@ d) az értékelés elvégzését bizonyító tanúsítványok, nyilvántartások
 
 (11) A szabványosítási tevékenységekben részt vevő megfelelőségértékelő szervezetek gondoskodnak arról, hogy a megfelelőségértékelést végző személyzetük tájékoztatást kapjon ezekről a tevékenységekről, valamint a bejelentett szervezeteket koordináló csoport munkájáról.
 
-[^66]: A 13/G. alcímet (24/I–24/J. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^67]: A 13/G. alcímet (24/I–24/J. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
