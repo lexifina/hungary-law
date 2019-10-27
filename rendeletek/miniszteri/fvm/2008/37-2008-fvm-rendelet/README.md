@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-37-20-8
 | 2012-05-11 | 2008-37-20-82.2 | 45/2012. (V. 8.) VM rendelet |
 | 2013-12-17 | 2008-37-20-82.3 | 121/2013. (XII. 16.) VM rendelet |
 | 2016-02-12 | 2008-37-20-82.4 | 7/2016. (II. 9.) FM rendelet |
+| 2019-10-27 | 2008-37-20-82.5 | 49/2019. (X. 22.) AM rendelet |

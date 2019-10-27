@@ -24,4 +24,15 @@ c) Litvánia esetében 1990. március 11-e előtt
 
 (6) Azon tagállami állampolgárok esetében, akiknek az előírt állatorvosi képesítés megszerzését tanúsító okiratát Észtország 2004. május 1-je előtt bocsátotta ki, illetve akik tanulmányaikat Észtországban 2004. május 1-je előtt kezdték meg, az elismerési hatóság elismeri az előírt állatorvosi képesítés megszerzését tanúsító okiratot, ha ahhoz igazolást csatoltak, amely szerint az érintett személy az állatorvosi tevékenységeket Észtországban, az igazolás kibocsátását megelőző hét év folyamán legalább öt egymást követő éven keresztül ténylegesen és jogszerűen gyakorolta.
 
-(7) Az elismerési hatóság azonos hatályú oklevélként elismeri azokat a tagállami állampolgárok birtokában lévő állatorvosi képesítés megszerzését tanúsító okiratokat, amelyeket a volt Jugoszlávia bocsátott ki, vagy amelyek esetében az érintettek a képzést Szlovénia esetében 1991. június 25-e előtt kezdték meg, amennyiben a szlovén hatóságok tanúsítják, hogy az előírt képesítés megszerzését tanúsító okirat – az állatorvosi tevékenység gyakorlásának megkezdése tekintetében – területükön jogilag ugyanúgy érvényes, mint az általuk kibocsátott, előírt képesítés megszerzését tanúsító okirat. A tanúsító okirathoz csatolni kell a szlovén hatóságok által kibocsátott igazolást, amely szerint az érintettek az állatorvosi tevékenységet területükön az igazolás keltét megelőző öt év folyamán legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolták.
+(7)[^3] Az elismerési hatóság azonos hatályú oklevélként elismeri azokat a tagállami állampolgárok birtokában lévő állatorvosi képesítés megszerzését tanúsító okiratokat, amelyeket a volt Jugoszlávia bocsátott ki, vagy amelyek esetében az érintettek a képzést
+
+a) Szlovénia esetében 1991. június 25-e előtt,
+
+b) Horvátország esetében 1991. október 8-a előtt
+
+## kezdték meg, amennyiben a szlovén, illetve a horvát hatóságok tanúsítják, hogy az előírt képesítés megszerzését tanúsító okirat – az állatorvosi tevékenység gyakorlásának megkezdése tekintetében – az érintett állam területén ugyanúgy hatályos, mint az általuk kibocsátott, előírt képesítés megszerzését tanúsító okirat.
+
+(8)[^4] A (7) bekezdés esetében a tanúsító okirathoz csatolni kell a szlovén, illetve a horvát hatóságok által kibocsátott igazolást, amely szerint az érintettek az állatorvosi tevékenységet az érintett állam területén az igazolás keltét megelőző öt év folyamán legalább három egymást követő éven keresztül ténylegesen és jogszerűen gyakorolták.
+
+[^3]: A 3. § (7) bekezdése a 49/2019. (X. 22.) AM rendelet 4. §-ával megállapított szöveg.
+[^4]: A 3. § (8) bekezdését a 49/2019. (X. 22.) AM rendelet 4. §-a iktatta be.

@@ -1,3 +1,3 @@
-1. számú melléklet a 37/2008. (III. 27.) FVM rendelethez[^8]
+1. számú melléklet a 37/2008. (III. 27.) FVM rendelethez[^10]
 
-[^8]: Az 1. számú melléklet a 45/2012. (V. 8.) VM rendelet 32. § (2) bekezdése, a 121/2013. (XII. 16.) VM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^10]: Az 1. számú melléklet a 49/2019. (X. 22.) AM rendelet 6. §-ával megállapított szöveg.
