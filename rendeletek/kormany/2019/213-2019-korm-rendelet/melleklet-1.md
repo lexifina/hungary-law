@@ -1,3 +1,5 @@
+## 44. §[^2]
+
 1. melléklet a 213/2019. (VIII. 27.) Korm. rendelethez
 
 ## Nyomástartó berendezés besorolása a hatósági eljárások szempontjából
@@ -25,3 +27,5 @@ c) folyadéktöltetű nyomástartó edény – az e) alpontban meghatározottak 
 d) folyadéktöltetű nyomástartó edény – az e) alpontban meghatározottak kivételével –, amelynek töltete nem veszélyes töltet: ha a nyomása (PS) nagyobb, mint 10 bar és térfogata (V) nagyobb, mint 200 liter és a PS × V szorzat nagyobb, mint 10 000 bar × liter;
 
 e) a túlhevülési veszély lehetőségével üzemelő, tüzeléssel vagy más módon fűtött, nagyobb, mint 110 °C hőmérsékletű gőz vagy forró víz előállítására szolgáló, vagy más technológiai célra igénybevett nyomástartó berendezés, továbbá minden nyomással igénybe vett főzőedény: ha a nyomása (PS) nagyobb, mint 0,5 bar, térfogata (V) nagyobb, mint 25 liter és a PS × V szorzat nagyobb, mint 1000 bar × liter.
+
+[^2]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
