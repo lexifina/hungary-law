@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-43-20-8
 | 2017-08-18 | 2010-43-20-82.15 | 70/2013. (VII. 31.) VM rendelet |
 | 2019-04-06 | 2010-43-20-82.16 | 19/2014. (III. 12.) VM rendelet |
 | 2019-07-20 | 2010-43-20-82.17 | 35/2019. (VII. 15.) AM rendelet |
+| 2019-10-27 | 2010-43-20-82.18 | 49/2019. (X. 22.) AM rendelet |

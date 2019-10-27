@@ -18,7 +18,7 @@
 
 8.[^8] növényvédelmi munkavégző: a 18. § (1) bekezdés a)–d) pontjában felsorolt képesítéssel rendelkező személy,
 
-9.[^9] növényvédelmi szolgáltatás: a növényvédő szerrel más számára végzett védekezési munka, valamint a növényvédő szerek felhasználására vonatkozó szaktanácsadás (beleértve a növényorvosi vény kiállítását is), kivéve a munkavállalóként, tagként a vállalkozás részére vagy közeli hozzátartozó és annak családi gazdasága részére végzett növényvédelmi tevékenység,
+9.[^9] növényvédelmi szolgáltatás: a növényvédő szerrel más számára végzett védekezési munka, valamint a növényvédő szerekre vonatkozó felhasználási utasítás (beleértve a növényorvosi vény kiállítását is), kivéve a munkavállalóként, tagként a vállalkozás részére vagy közeli hozzátartozó és annak családi gazdasága részére végzett növényvédelmi tevékenység,
 
 10.[^10] szakirányító: I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel rendelkező növényorvos, aki saját jogán növényvédelmi szolgáltatási tevékenységet végez vagy jogi személy tagjaként vagy munkavállalójaként növényvédelmi irányítói tevékenységet folytat.
 
@@ -30,5 +30,5 @@
 [^6]: Az 1. § 6. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.
 [^7]: Az 1. § 7. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.
 [^8]: Az 1. § 8. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.
-[^9]: Az 1. § 9. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. § 9. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 1. §-ával megállapított, a 49/2019. (X. 22.) AM rendelet 11. § a) pontja szerint módosított szöveg.
 [^10]: Az 1. § 10. pontját a 84/2015. (XII. 17.) FM rendelet 1. §-a iktatta be.

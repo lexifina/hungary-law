@@ -1,4 +1,4 @@
-35. §[^117] (1) z árutermelésben használt növényvédelmi gépeken – kivéve a kézi (ideértve a szórópisztolyos és lövellőcsöves), illetve háti növényvédelmi berendezéseket – az Európai Unió területén történt első forgalomba hozatalt követő első öt évben egy alkalommal, ezt követően háromévente időszakos műszaki felülvizsgálatot (a továbbiakban: felülvizsgálat) kell végezni.
+35. §[^122] (1) z árutermelésben használt növényvédelmi gépeken – kivéve a kézi (ideértve a szórópisztolyos és lövellőcsöves), illetve háti növényvédelmi berendezéseket – az Európai Unió területén történt első forgalomba hozatalt követő első öt évben egy alkalommal, ezt követően háromévente időszakos műszaki felülvizsgálatot (a továbbiakban: felülvizsgálat) kell végezni.
 
 (2) A felülvizsgálati eljárás meg kell, hogy feleljen a mező- és erdőgazdasági gépekhez kapcsolódó, használatban lévő permetezőgépek ellenőrzéséről szóló MSZ EN ISO 16122-1:2015, MSZ EN ISO 16122-2:2015, MSZ EN ISO 16122-3:2015 és az MSZ EN ISO 16122-4:2015 szabványnak.
 
@@ -28,4 +28,4 @@ c) a b) pont szerinti képzéseken részt vett személyt alkalmaz.
 
 (12) Az öt évnél idősebb, nem felülvizsgált vagy felülvizsgálaton nem megfelelt növényvédelmi géppel növényvédelmi tevékenységet végezni tilos.
 
-[^117]: A 35. § a 35/2019. (VII. 15.) AM rendelet 15. §-ával megállapított szöveg.
+[^122]: A 35. § a 35/2019. (VII. 15.) AM rendelet 15. §-ával megállapított szöveg.
