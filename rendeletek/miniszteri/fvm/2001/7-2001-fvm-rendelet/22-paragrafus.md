@@ -1,6 +1,6 @@
-22. §[^120] (1) A kártalanítás alapja védett növények esetében a külön jogszabályban közzétett eszmei érték, minden más növény, növényi termék és egyéb anyag esetében a kártalanítás alapja a megsemmisített tulajdon, illetőleg a szaporításból kizárt szaporítóanyag mindenkori forgalmi értéke, továbbá a határozatban szereplő zárlati intézkedéssel közvetlenül kapcsolatos költségek összege, ide nem értve azt a költséget, amely a zárlati intézkedés elmaradása esetén is felmerült volna. A kártalanítás alapjául szolgáló forgalmi értéket – ha a kártalanítást kizáró ok nem áll fenn – becsléssel kell megállapítani.
+22. §[^121] (1) A kártalanítás alapja védett növények esetében a külön jogszabályban közzétett eszmei érték, minden más növény, növényi termék és egyéb anyag esetében a kártalanítás alapja a megsemmisített tulajdon, illetőleg a szaporításból kizárt szaporítóanyag mindenkori forgalmi értéke, továbbá a határozatban szereplő zárlati intézkedéssel közvetlenül kapcsolatos költségek összege, ide nem értve azt a költséget, amely a zárlati intézkedés elmaradása esetén is felmerült volna. A kártalanítás alapjául szolgáló forgalmi értéket – ha a kártalanítást kizáró ok nem áll fenn – becsléssel kell megállapítani.
 
-(2)[^121] A forgalmi érték becslési eljárását a fertőzöttség tényét megerősítő laboratóriumi vizsgálati eredmény közlését követően a zárlati határozat alapjául szolgáló körülmények kivizsgálásával egy időben meg kell kezdeni. Amennyiben a forgalmi érték megállapításához szükséges a termésbecslés is, a járási hivatalnak azt is el kell végeznie.
+(2)[^122] A forgalmi érték becslési eljárását a fertőzöttség tényét megerősítő laboratóriumi vizsgálati eredmény közlését követően a zárlati határozat alapjául szolgáló körülmények kivizsgálásával egy időben meg kell kezdeni. Amennyiben a forgalmi érték megállapításához szükséges a termésbecslés is, a járási hivatalnak azt is el kell végeznie.
 
 (3) A forgalmi érték megállapításának alapjai:
 
@@ -8,7 +8,7 @@ a) növény (pl. cserepes növény, gyümölcs, zöldség) esetében annak szám
 
 b) növényi termék (pl. szárítmány) vagy egyéb anyag (pl. fa-csomagolóanyag) esetében annak számlákkal igazolt beszerzési ára (beleértve az importárat is), ennek hiányában a könyv szerinti nyilvántartási ár vagy a káresemény időszakában kialakult átlagos nagykereskedelmi felvásárlási ár;
 
-c)[^122] növényi szaporító- és ültetési anyag (pl. oltvány, palánta, vetőmag) esetében forgalomba hozatal előtt a káreseményt megelőző 6 hónapban kialakult átlagos piaci ár, az első forgalomba hozatalt követően a számlával igazolt beszerzési ár;
+c)[^123] növényi szaporító- és ültetési anyag (pl. oltvány, palánta, vetőmag) esetében forgalomba hozatal előtt a káreseményt megelőző 6 hónapban kialakult átlagos piaci ár, az első forgalomba hozatalt követően a számlával igazolt beszerzési ár;
 
 d) egy- és kétéves vagy évelő (pl. lucerna) kultúrák esetében,
 
@@ -56,11 +56,11 @@ f) termőültetvényeknél 80%.
 
 (6) Az (5) bekezdés szerinti becsült kártalanítási értéket növelik a zárlati intézkedéssel közvetlenül kapcsolatos költségek. Amennyiben a határozat a fertőzött termék megsemmisítését ipari feldolgozás vagy más irányú felhasználás útján is lehetővé teszi, akkor a termelő köteles a tőle elvárható módon mindent megtenni a feldolgozás, illetve a más irányú felhasználás realizálása érdekében. Az ennek során keletkezett árbevétel, ennek hiányában a káresemény időszakában kialakult átlagos nagykereskedelmi felvásárlási vagy átlagos piaci ár csökkenti a becsült kártalanítási értéket.
 
-(7)[^123] Ha az egyes zárlati károsítók elleni védekezés 7. számú mellékletben meghatározott előírásai lehetővé teszik, a járási hivatal rendelkezhet a laboratóriumi vizsgálat alapján egészséges, illetve a zárolt területen belül található, a fertőzés továbbterjedésében bizonyítottan szerepet nem játszó vizsgálatköteles áruk felhasználásáról és forgalomba hozataláról. Az így felszabadított, valamint a továbbszaporításból kivont, de egyéb célú felhasználásra engedélyezett vizsgálatköteles árut a termelő köteles a tőle elvárható módon kezelni, és piaci áron értékesíteni. Az ebből származó bevételt, ennek hiányában a káresemény időszakában kialakult átlagos nagykereskedelmi ár, vagy növényi szaporító- és ültetési anyag esetében a piaci ár a (6) bekezdésben megállapítottakhoz hasonlóan csökkenti a becsült kártalanítási értéket.
+(7)[^124] Ha az egyes zárlati károsítók elleni védekezés 7. számú mellékletben meghatározott előírásai lehetővé teszik, a járási hivatal rendelkezhet a laboratóriumi vizsgálat alapján egészséges, illetve a zárolt területen belül található, a fertőzés továbbterjedésében bizonyítottan szerepet nem játszó vizsgálatköteles áruk felhasználásáról és forgalomba hozataláról. Az így felszabadított, valamint a továbbszaporításból kivont, de egyéb célú felhasználásra engedélyezett vizsgálatköteles árut a termelő köteles a tőle elvárható módon kezelni, és piaci áron értékesíteni. Az ebből származó bevételt, ennek hiányában a káresemény időszakában kialakult átlagos nagykereskedelmi ár, vagy növényi szaporító- és ültetési anyag esetében a piaci ár a (6) bekezdésben megállapítottakhoz hasonlóan csökkenti a becsült kártalanítási értéket.
 
 (8) A kártalanítási összeget a (6) és (7) bekezdés szerinti korrekciók elvégzésével kell kiszámítani.
 
-[^120]: A 22. § a 25/2010. (X. 20.) VM rendelet 2. §-ával megállapított szöveg.
-[^121]: A 22. § (2) bekezdése a 9/2014. (IX. 12.) FM rendelet 4. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 26. § e) pontja szerint módosított szöveg.
-[^122]: A 22. § (3) bekezdés c) pontja a 19/2019. (V. 17.) AM rendelet 1. §-ával megállapított szöveg.
-[^123]: A 22. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.
+[^121]: A 22. § a 25/2010. (X. 20.) VM rendelet 2. §-ával megállapított szöveg.
+[^122]: A 22. § (2) bekezdése a 9/2014. (IX. 12.) FM rendelet 4. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 26. § e) pontja szerint módosított szöveg.
+[^123]: A 22. § (3) bekezdés c) pontja a 19/2019. (V. 17.) AM rendelet 1. §-ával megállapított szöveg.
+[^124]: A 22. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 26. § b) pontja szerint módosított szöveg.

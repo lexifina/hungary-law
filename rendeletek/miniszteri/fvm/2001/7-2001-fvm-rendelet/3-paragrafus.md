@@ -20,14 +20,17 @@ b) az ültetésre szánt növényeknek a 2. számú melléklet A. részének II.
 
 (6)[^40] A NÉBIH megtilthatja, vagy külön engedélyhez kötheti:
 
-a)–b)[^41]
+a)[^41]
+
+b)[^42]
 
 c) az 1. és a 2. számú mellékletben felsorolt izolált állapotban lévő zárlati károsítók Magyarországra történő behurcolását, terjedésének elősegítését, valamint ezek engedély nélküli fenntartását és szaporítását.
 
-(7)[^42] Az 1. és 2. számú mellékletben fel nem sorolt károsítókra vonatkozó kötelező növényegészségügyi előírásokat a 22. számú melléklet tartalmazza.
+(7)[^43] Az 1. és 2. számú mellékletben fel nem sorolt károsítókra vonatkozó kötelező növényegészségügyi előírásokat a 22. számú melléklet tartalmazza.
 
 [^38]: A 3. § a 37/2003. (IV. 4.) FVM rendelet 3. §-ával megállapított szöveg.
 [^39]: A 3. § (3) bekezdése a 37/2005. (IV. 27.) FVM rendelet 3. §-ával megállapított szöveg.
 [^40]: A 3. § (6) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^41]: A 3. § (6) bekezdésének a)–b) pontját a 37/2005. (IV. 27.) FVM rendelet 24. § (2) bekezdése hatályon kívül helyezte.
-[^42]: A 3. § (7) bekezdését a 48/2005. (V. 28.) FVM rendelet 1. §-a iktatta a szövegbe.
+[^41]: A 3. § (6) bekezdésének a) pontját a 37/2005. (IV. 27.) FVM rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^42]: A 3. § (6) bekezdésének b) pontját a 37/2005. (IV. 27.) FVM rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^43]: A 3. § (7) bekezdését a 48/2005. (V. 28.) FVM rendelet 1. §-a iktatta a szövegbe.

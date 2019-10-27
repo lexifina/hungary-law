@@ -30,6 +30,8 @@
 
 | 4.1. | Anoplophora glabripennis (Motschulsky) |  |
 
+| 4.2. | Aromia bungii (Faldermann) |  |
+
 | 5. |  |  |
 
 | 6. | Arrhenodes minutus Drury |  |
@@ -82,6 +84,8 @@
 
 | 10.2. | Diaphorina citri Kuway |  |
 
+| 10.3. | Grapholita packardi Zeller |  |
+
 | 11. | Diabrotica barberi Smith and Lawrence |  |
 
 | 12. | Diabrotica undecimpunctata howardi Barber |  |
@@ -99,6 +103,10 @@
 | 16.1. | Naupactus leucoloma Boheman |  |
 
 | 16.2 | Keiferia lycopersicella (Walsingham) |  |
+
+| 16.3. | Neoleucinodes elegantalis (Guenée) |  |
+
+| 16.4. | Oemona hirta (Fabricius) |  |
 
 | 17. | Liriomyza sativae Blanchard |  |
 
@@ -219,6 +227,12 @@
 | 2. | Chrysomyxa arctostaphyli Dietel |
 
 | 3. | Cronartium spp. (nem-európai fajok) |
+
+| 3.1. | Elsinoë australis Bitanc. & Jenk. |
+
+| 3.2. | Elsinoë citricola X.L. Fan, R.W. Barreto & Crous. |
+
+| 3.3. | Elsinoë fawcettii Bitanc. & Jenk. |
 
 | 4. | Endocronartium spp. (nem-európai fajok) |
 
@@ -402,6 +416,8 @@
 
 | 6. | Opogona sacchari (Bojer) |
 
+| 6.1. | Pityophthorus juglandis Blackman |
+
 | 7. | Popillia japonica Newmann |
 
 | 8. | Rhizoecus hibisci Kawai and Takagi |
@@ -417,6 +433,12 @@
 | 3. | Xylella fastidiosa (Wells et al.) |
 
 ## c) Gombák
+
+| 0.1. | Ceratocystis platani (J. M. Walter) Engelbr. & T. C. Harr |
+
+| 0.2. | Fusarium circinatum Nirenberg & O'Donnell |
+
+| 0.3. | Geosmithia morbida Kolarík, Freeland, Utley & Tisserat |
 
 | 1. | Melampsora medusae Thümen |
 
@@ -448,7 +470,7 @@
 
 | Károsító | Védett zóna (zónák) |
 
-| 1. Bemisia tabaci Genn. (európai populációk) | Írország, Portugália (Azori-szigetek, belső Beira, tengerparti Beira, Douro és Minho köze és Trás-os-Montes), Egyesült Királyság, Svédország, Finnország |
+| 1. Bemisia tabaci Genn. (európai populációk) | Írország, Portugália (Azori-szigetek, belső Beira, tengerparti Beira, Douro és Minho köze és Trás-os-Montes), Egyesült Királyság, Svédország, |
 
 | 1.1. | Daktulosphaira vitifoliae (Fitch) | Ciprus |
 
@@ -462,7 +484,9 @@
 
 | 4. Liriomyza bryoniae (Kaltenbach) | Írország és az Egyesült Királyság (Észak-Irország) |
 
-| 5. Thaumetopoea processionea L. | Írország, Egyesült Királyság (kivéve a következő önkormányzatok területeit: Barnet; Brent; Bromley; Camden; London Város; Westminster Város; Croydon; Ealing; Elmbridge District; Epsom és Ewell District; Guildford; Hackney; Hammersmith & Fulham; Haringey; Harrow; Hillingdon; Hounslow; Islington; Kensington és Chelsea; Kingston upon Thames; Lambeth; Lewisham; Merton; Reading; Richmond Upon Thames; Runnymede District; Slough; South Oxfordshire; Southwark; Spelthorne District; Sutton; Tower Hamlets; Wandsworth; West Berkshire és Woking) |
+| 4.1. Liriomyza huidobrensis (Blanchard) 4.2. Liriomyza trifolii (Burgess) | Írország és az Egyesült Királyság (Észak-Írország) Írország és az Egyesült Királyság (Észak-Írország) |
+
+| 5. Thaumetopoea processionea L. | Írország, Egyesült Királyság (a következő helyi közigazgatási területek kivételével: Barking és Dagenham; Barnet; Basildon; Basingstoke és Deane; Bexley; Bracknell Forest; Brent; Brentwood; Bromley; Broxbourne; Camden; Castle Point; Chelmsford; Chiltem; London Város; Westminster Város Crawley; Croydon; Dacorum; Dartford; Ealing; East Hertfordshire; Elmbridge District; Enfield; Epping Forest; Epsom and Ewell District; Gravesham; Greenwich; Guildford; Hackney; Hammersmith & Fulham; Haringey; Harlow; Harrow; Hart; Havering; Hertsmere; Hillingdon; Horsham; Hounslow; Islington; Kensington & Chelsea; Kingston upon Thames; Lambeth; Lewisham; Littlesford; Medway; Merton; Mid Sussex; Mole Valley; Newham; North Hertfordshire; Reading; Redbridge; Reigate és Banstead; Richmond upon Thames; Runnymede District; Rushmoor; Sevenoaks; Slough; South Bedfordshire; South Bucks; South Oxfordshire; Southwark; Spelthorne District; St Albans; Sutton; Surrey Heath; Tandridge; Three Rivers; Thurrock; Tonbridge és Malling; Tower Hamlets; Waltham Forest; Wandsworth; Watford; Waverley; Welwyn Hatfield; West Berkshire; Windsor és Maidenhead; Woking, Wokingham és Wycombe) |
 
 ## b) Vírusok és vírusszerű szervezetek
 
@@ -470,8 +494,8 @@
 
 | 1. Beet necrotic yellow vein virus | Franciaország (Bretagne), Írország, Portugália (Azori- szigetek), Finnország, Egyesült Királyság (Észak-Írország) |
 
-| 2. Tomato spotted wilt virus | Svédország |
+| 2. |  |
 
-2. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^369]
+2. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^370]
 
-[^369]: A 2. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 7. §-ának (1) bekezdése, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (2) bekezdése, 13. § (3) bekezdés f)–g) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (2) bekezdése és 4. § (2) bekezdésének a) pontja, a 30/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése és 9. § (2) bekezdés b) pontja, a 39/2015. (VII. 3.) FM rendelet 5. § (2) bekezdése és 7. § c)–g) pontja, a 4/2018. (II. 23.) FM rendelet 2. § b) pontja, a 3. § a)–b) pontja és a 4. § d)–e) pontja szerint módosított szöveg.
+[^370]: A 2. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 7. §-ának (1) bekezdése, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (2) bekezdése, 13. § (3) bekezdés f)–g) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (2) bekezdése és 4. § (2) bekezdésének a) pontja, a 30/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése és 9. § (2) bekezdés b) pontja, a 39/2015. (VII. 3.) FM rendelet 5. § (2) bekezdése és 7. § c)–g) pontja, a 4/2018. (II. 23.) FM rendelet 2. § b) pontja, a 3. § a)–b) pontja és a 4. § d)–e) pontja, a 49/2019. (X. 22.) AM rendelet 2. § b) pontja és 13. § a) pont ac)–af) alpontja szerint módosított szöveg.

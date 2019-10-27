@@ -1,6 +1,6 @@
 ## 38. § Növényegészségügyi vizsgálat szempontjából küldeménynek kell tekinteni az olyan, egyik országból egy másikba, illetve országon belül szállított, növényegészségügyi bizonyítvánnyal ellátott vizsgálatköteles árut, amely több tételből is állhat.
 
-39. § (1)[^194] A küldemény vizsgálatát behozatali és átmenő forgalomban a határátkelőhelyen a növényegészségügyi határállomástól, kiviteli forgalomban a feladás helye szerint illetékes járási hivataltól kell kérni.
+39. § (1)[^195] A küldemény vizsgálatát behozatali és átmenő forgalomban a határátkelőhelyen a növényegészségügyi határállomástól, kiviteli forgalomban a feladás helye szerint illetékes járási hivataltól kell kérni.
 
 (2) Behozatali és átmenő forgalomban a határátkelőhelyen
 
@@ -10,4 +10,4 @@ b) postaforgalomban a nemzetközi postahivatal,
 
 c) utasforgalomban az utas
 
-[^194]: A 39. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 26. § m) pontja szerint módosított szöveg.
+[^195]: A 39. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 26. § m) pontja szerint módosított szöveg.

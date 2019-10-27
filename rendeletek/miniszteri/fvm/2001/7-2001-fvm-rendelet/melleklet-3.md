@@ -36,7 +36,7 @@
 
 | 10. |  |
 
-| 11. Enarmonia packardi (Zeller) syn.: Cydia packsrdi (Zeller) | Európán kívüli országokból származó Cydonia Mill., Malus Mill., Prunus L. és Pyrus L. növények, a vetőmag kivételével |
+| 11. |  |
 
 | 12. Enarmonia prunivora Walsh syn.: Cydia prunivora (Walsh) | Európán kívüli országokból származó telepítésre szánt Crataegus L., Malus Mill., Photinia Ldl., Prunus L. és Rosa növények a vetőmag kivételével, valamint a Malus Mill. és a Prunus L. fajok termése |
 
@@ -122,7 +122,7 @@
 
 | 8. Diaporthe vaccinii Shear | Ültetésre szánt Vacciniun spp. növények, a vetőmag kivételével |
 
-| 9. Elsinoe spp. Bitanc. és Jenk. Mendes | Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével és a Citrus L. növények és hibridjeik, a termés és a vetőmag kivételével, kivéve a Dél-Amerikából származó Citrus reticulata Blanco és a Citrus sinensis (L.) Osbeck terméseit |
+| 9. |  |
 
 | 10. Fusarium oxysporum f. sp. albedinis (Kilian és Maire) Gordon | Phoenix spp. növények, a termés és a vetőmag kivételével |
 
@@ -242,7 +242,7 @@
 
 | Károsító | A fertőzés tárgya |
 
-| 1. Ceratocystis platani (J. M. Walter) Engelbr. & T. C. Harr. | Ültetésre szánt Platanus L. növények, a vetőmag kivételével, valamint a Platanus L. faanyaga, a természetes kerek felülettel már nem rendelkező faanyagot is beleértve |
+| 1. |  |
 
 | 2. |  |
 
@@ -342,7 +342,7 @@
 
 | 8. |  |  |
 
-| 9. Thaumetopoea pityocampa Denis & Schiffermüller | A Pinus L. ültetésre szánt növényei, a termés és a vetőmag kivételével. | Egyesült Királyság |
+| 9. Thaumetopoea pityocampa Denis & Schiffermüller | A Cedrus Trew és a Pinus L. ültetésre szánt növényei, a termés és a vetőmag kivételével | Egyesült Királyság |
 
 ## b) Baktériumok
 
@@ -350,7 +350,7 @@
 
 | 1. Curtobacterium flaccumfaciens pv. flaccumfaciens (Hedges) Collins és Jones | Phaseolus vulgaris L. és Dolichos Jacq. vetőmagja | Görögország, Spanyolország |
 
-| 2. Erwinia amylovora (Burr.) Winsl. et al. | Az alábbi nemzetségekhez tartozó növények részei, a termés, vetőmag és ültetésre szánt növények kivételével, de beleértve a beporzásra szolgáló élő pollent: Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L. és Sorbus L. | Spanyolország (kivéve Andalúzia, Aragónia, Kasztília-La Mancha, Kasztília és León, Extremadura autonóm közösségek, Madrid, Murcia, Navarra és La Rioja autonóm közösségek, Guipuzcoa tartomány [Baszkföld], a Lleida tartománybeli Garrigues, Noguera, Pla d'Urgell, Segrià és Urgell járások (Katalónia autonóm közösség), Alt Vinalopó és Vinalopó Mitjà járások (Alicante tartomány) és Alborache és Turís település Valencia tartományban [Comunidad Valenciana]), Észtország, Franciaország (Korzika), Írország (kivéve Galway városa), Olaszország (Abruzzo, Apulia, Basilicata, Calabria, Campania, Emilia-Romagna [Parma és Piacenza megye], Lazio, Liguria, Lombardia [kivéve Mantua, Milánó, Sondrio és Varese megye], Marche, Molise, Piemont [kivéve a Cuneo megyében található Busca, Centallo és Tarantasca települések], Szardínia, Szicília, Toszkána, Umbria, Valle d'Aosta, Veneto [kivéve Rovigo és Velence megye, Barbona, Boara Pisani, Castelbaldo, Masi, Piacenza d'Adige, S. Urbano és Vescovana települések Padova megyében és az A4 autópályától délre fekvő terület Verona megyében]), Lettország, Litvánia (kivéve Babtai és Kėdainiai település [Kaunas megye]), Portugália, Szlovénia (kivéve Gorenjska, Koroška, Maribor és Notranjska régiók, valamint Lendava/Lendva és Renče-Vogrsko [a H4 autópályától délre], Szlovákia (kivéve Dunajská Streda/Dunaszerdahely járás, Hronovce/Lekér és Hronské Kľačany/Garamkelecsény [Levice/Léva járás], Dvory nad Žitavou/Udvard [Nové Zámky/Érsekújvári járás], Málinec/Málnapatak [Poltár járás], Hrhov/Tornagörgő [Rožňava/Rozsnyó járás], Veľké Ripňany/Nagyrépény [Topoľčany/Nagytapolcsányi járás], Kazimír/Kázmér, Luhyňa/Legenye, Malý Horeš/Kisgéres, Svätuše/Szentes és Zatín/Zétény [Trebišov County/Tőketerebesi járás]), Finnország, Egyesült Királyság (Észak-Írország: kivéve a Down megyében található Ballinran Upper, Carrigenagh Upper, Ballinran és Carrigenagh települések és az Antrim megyében található belfasti Dunmurry Cross választókerület; Man-sziget és Csatorna-szigetek). |
+| „2. Erwinia amylovora (Burr.) Winsl. et al. | Az alábbi nemzetségekhez tartozó növények részei, a termés, vetőmag és ültetésre szánt növények kivételével, de beleértve a beporzásra szolgáló élő pollent: Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L. és Sorbus L. | Spanyolország (kivéve Andalúzia, Aragónia, Kasztília-La Mancha, Kasztília és León, Extremadura autonóm közösségek, Madrid, Murcia, Navarra és La Rioja autonóm közösségek, Guipuzcoa tartomány [Baszkföld], a Lleida tartománybeli Garrigues, Noguera, Pla d'Urgell, Segrià és Urgell járások (Katalónia autonóm közösség), Alt Vinalopó és El Vinalopó Mitjà járások (Alicante tartomány) és Alborache és Turís települések Valencia tartományban [Comunidad Valenciana]), Észtország, Franciaország (Korzika), Írország (kivéve Galway városa), Olaszország (Abruzzo, Apulia, Basilicata, Calabria, Campania, Lazio, Liguria, Lombardia [kivéve Mantovaa, Milánó, Sondrio és Varese megye, valamint Bovisio Masciago, Cesano Maderno, Desio, Limbiate, Nova Milanese és Varedo települések Monza Brianza megyében], Marche, Molise, Piemont (kivéve Busca, Centallo, Scarnafigi, Tarantasca és Villafalletto települések Cuneo megyében), Szardínia, Szicília (kivéve Cesarò [Messina megye]), Maniace, Bronte, Adrano [Catania megye] és Centuripe, Regalbuto és Troina [Enna megye]), Toszkána, Umbria, Valle d'Aosta, Veneto (kivéve Rovigo és Velence megye, Barbona, Boara Pisani, Castelbaldo, Masi, Piacenza d'Adige, S. Urbano és Vescovana települések Padova megyében, valamint az A4-es főúttól délre fekvő terület Verona megyében), Lettország, Litvánia (kivéve Babtai és Kėdainiai települések [Kaunas közigazgatási terület]), Portugália, Szlovénia (kivéve Gorenjska, Koroška, Maribor és Notranjska régiók, Lendava, Renče-Vogrsko települések [a H4 autópályától délre], Velika Polana, valamint Fużina, Gabrovčec, Glogovica, Gorenja vas, Gradiček, Grintovec, Ivančna Gorica, Krka, Krška vas, Male Lese, Malo Črnelo, Malo Globoko, Marinča vas, Mleščevo, Mrzlo Polje, Muljava, Podbukovje, Potok pri Muljavi, Šentvid pri Stični, Škrjanče, Trebnja Gorica, Velike Lese, Veliko Črnelo, Veliko Globoko, Vir pri Stični, Vrhpolje pri Šentvidu, Zagradec és Znojile pri Krki települések Ivančna Gorica községben), Szlovákia ((a Dunaszerdahelyi járás [Dunajská Streda], Lekér [Hronovce] és Garamkelecsény [Hronské Kľačany] [Lőcsei járás – Levice], Udvard [Dvory nad Žitavou] [Érsekújvári járás – Nové Zámky], Málnapatak [Málinec] [Poltár járás – Poltár], Tornagörgő [Hrhov] [Rozsnyói járás – Rožňava], Nagyrépény [Veľké Ripňany] [Nagytapolcsányi járás – Topoľčany], Kázmér [Kazimír], Legenye [Luhyňa], Kisgéres [Malý Horeš], Szentes [Svätuše] és Zétény [Zatín] [Tőketerebesi járás – Trebišov] kivételével), Finnország, Egyesült Királyság (a Man-sziget és a Csatorna-szigetek)” |
 
 | 3. Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. | a Prunus L. ültetésre szánt növényei, a vetőmag kivételével | Egyesült Királyság |
 
@@ -360,11 +360,11 @@
 
 | 1. Ceratocystis platani (J. M. Walter) Engelbr. & T. C. Harr | A Platanus L. ültetésre szánt növényei, a vetőmag kivételével, valamint a Platanus L. faanyaga, beleértve az olyan fát is, amely nem tartotta meg természetes hengeres felületét | Írország, Egyesült Királyság |
 
-| 2. Cryphonectria parasitica (Murrill) Barr. | Faanyag, kivéve a kéregmentes fát, a hántolt fakéreg és a Castanea Mill ültetésére szánt növények | Csehország, Írország, Svédország, Egyesült Királyság |
+| 2. Cryphonectria parasitica (Murrill.) Barr. | Fa, a kéregmentes fa kivételével, hántolt fakéreg és a Castanea Mill. ültetésre szánt növényei, valamint a Quercus L. ültetésre szánt növényei, a vetőmag kivételével | Csehország, Írország, Svédország, Egyesült Királyság |
 
 | 3. Glomerella gossypii Edgerton | Gossypium spp. vetőmagja és termése (toktermése) | Görögország |
 
-| 4. Gremmeniella abietina (Lag.) Morelet | Abies Mill., Larix Mill., Picea A. Dietr., Pinus L. és Pseudotsuga Carr. ültetésre szánt növényei, a vetőmag kivételével | Írország, Egyesült Királyság (Észak-Írország) |
+| 4. Gremmeniella abietina (Lag.) Morelet | Abies Mill., Larix Mill., Picea A. Dietr., Pinus L. és Pseudotsuga Carr. ültetésre szánt növényei, a vetőmag kivételével | Írország, |
 
 | 5. Hypoxylon mammatum (Wahl.) J. Miller | Populus L. ültetésre szánt növényei, a vetőmag kivételével | Írország, Egyesült Királyság (Észak-Írország) |
 
@@ -374,10 +374,10 @@
 
 | 1. ’Candidatus Phytoplasma ulmi’ | Az Ulmus L. ültetésre szánt növényei, a vetőmag kivételével | Egyesült Királyság |
 
-| 2. Citrus tristeza virus (európai izolátumok) | Citrus L., Fortunella Swingle, Poncirus Raf. fajok és hibridjeik termése, levéllel és kocsánnyal | Görögország (kivéve Argolida és Chania régiókat), Málta, Portugália (kivéve Algarve, Madeira és Odemira Alentejoban) |
+| „2. Citrus tristeza virus (európai izolátumok) | Citrus L., Fortunella Swingle, Poncirus Raf. fajok és hibridjeik termése, levéllel és kocsánnyal | Görögország (kivéve Argolida, Chania és Lakonia regionális egységek), Málta, Portugália (kivéve Algarve, Madeira és az alentejói Odemira megye)” |
 
 | 3. Grapevine flavescence dorée MLO | A Vitis L. fajhoz tartozó növények, a termés és a vetőmag kivételével | Csehország, Franciaország (Elzász, Champagne-Ardenne, Pikárdia (Aisne megye), Île-de-France (Citry, Nanteuil-sur-Marne és Saâcy-sur-Marne települések és Lotaringia), Olaszország (Puglia, Basilicata és Szardínia) |
 
-3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^370]
+3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^371]
 
-[^370]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
+[^371]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
