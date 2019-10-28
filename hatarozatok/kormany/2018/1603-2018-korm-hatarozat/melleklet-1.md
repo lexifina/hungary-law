@@ -12,7 +12,7 @@
 
 ## Felelős: igazságügyi miniszter, Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, miniszterelnök kabinetfőnöke, Miniszterelnöki Kormányiroda közigazgatási államtitkára, Magyar Művészeti Akadémia elnöke
 
-## Határidő: 2019. június 30., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára biztosított 593 143 539 forintból 38 100 000 forint tekintetében 2019. december 31.
+## Határidő: 2019. június 30., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím javára biztosított 593 143 539 forintból 38 100 000 forint tekintetében valamint a Külképviseletek igazgatása cím javára biztosított 60 000 000 forintból 56 280 396 forint tekintetében 2019. december 31.
 
 ## b) az Áht. 21. § (4a) bekezdésében és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 23/A. § (2) bekezdésében biztosított jogkörében eljárva 8 893 399 071 forint átcsoportosítását rendeli el, a 2. melléklet szerint;
 
@@ -44,7 +44,7 @@
 
 1. melléklet az 1603/2018. (XI. 27.) Korm. határozathoz
 
-[^1]: Az 1. pont a) pontja az 1432/2019. (VII. 26.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) pontja az 1432/2019. (VII. 26.) Korm. határozat 5. pontja, az 1619/2019. (X. 28.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
