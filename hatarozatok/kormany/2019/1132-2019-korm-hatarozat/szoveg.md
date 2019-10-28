@@ -26,7 +26,7 @@ emberi erőforrások minisztere
 
 Határidő: 2019. május 31.
 
-5. felhívja a külgazdasági és külügyminisztert, hogy az innovációért és technológiáért felelős miniszter, valamint a pénzügyminiszter bevonásával folytasson le vizsgálatot a Brazíliába exportáló vagy beruházó, illetve ezt megcélzó hazai vállalkozások körében arról, hogy milyen adminisztratív és technikai akadályokkal szembesülnek az export során, továbbá felhívja a külgazdasági és külügyminisztert, hogy az így azonosított akadályok lebontásáról a brazil kormányzattal egyeztetést folytasson;
+5.[^1] felhívja a külgazdasági és külügyminisztert, hogy az innovációért és technológiáért felelős miniszter, valamint a pénzügyminiszter bevonásával folytasson le vizsgálatot a Brazíliába exportáló vagy beruházó, illetve ezt megcélzó hazai vállalkozások körében arról, hogy milyen adminisztratív és technikai akadályokkal szembesülnek az export során, továbbá felhívja a külgazdasági és külügyminisztert, hogy az így azonosított akadályok lebontásáról a brazil kormányzattal egyeztetést folytasson;
 
 Felelős: külgazdasági és külügyminiszter
 
@@ -34,7 +34,7 @@ innovációért és technológiáért felelős miniszter
 
 pénzügyminiszter
 
-Határidő: 2019. május 31.
+Határidő: folyamatos
 
 6. felhívja a külgazdasági és külügyminisztert, hogy vizsgálja meg a magyar vállalkozások brazíliai befektetését támogató program elindításának szükségességét, forrásigényét, és készítsen előterjesztést a kapcsolódó feladatok, ezek ütemezése és a költségek forrásigényének bemutatásával;
 
@@ -90,8 +90,7 @@ külgazdasági és külügyminiszter
 
 Határidő: 2019. június 30.
 
-13. felhívja a külgazdasági és külügyminisztert, hogy vizsgálja meg – tekintettel a megnövekvő feladatmennyiségre – a brazíliavárosi Magyar Nagykövetség személyi állománya bővítésének lehetőségét és annak költségigényét, és készítsen előterjesztést a kapcsolódó feladatok, ezek ütemezése és a költségek forrásigényének bemutatásával.
+13.[^2]
 
-Felelős: külgazdasági és külügyminiszter
-
-Határidő: 2019. augusztus 31.
+[^1]: Az 5. pont az 1619/2019. (X. 28.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 13. pont az 1619/2019. (X. 28.) Korm. határozat 1. pont c) alpontja hatályon kívül helyezte.
