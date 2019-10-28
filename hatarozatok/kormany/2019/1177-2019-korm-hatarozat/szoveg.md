@@ -8,21 +8,21 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2019. június 30.
 
-3. felhívja a külgazdasági és külügyminisztert, hogy a pénzügyminiszter bevonásával folytasson le vizsgálatot a szubszaharai régióba exportáló vagy beruházó, illetve ezt megcélzó hazai vállalkozások – különösen a Kiemelt Exportőr Partnerség Program résztvevői – körében arról, hogy milyen adminisztratív és technikai akadályokkal szembesülnek az export vagy beruházási tevékenységük során;
+3.[^1] felhívja a külgazdasági és külügyminisztert, hogy a pénzügyminiszter bevonásával folytasson le vizsgálatot a szubszaharai régióba exportáló vagy beruházó, illetve ezt megcélzó hazai vállalkozások – különösen a Kiemelt Exportőr Partnerség Program résztvevői – körében arról, hogy milyen adminisztratív és technikai akadályokkal szembesülnek az export vagy beruházási tevékenységük során;
 
 Felelős: külgazdasági és külügyminiszter
 
 pénzügyminiszter
 
-Határidő: 2019. június 30.
+Határidő: folyamatos
 
-4. a 3. pontban foglalt vizsgálat eredményei alapján felhívja a külgazdasági és külügyminisztert, hogy az így azonosított akadályok lebontásáról az érintett kormányzatokkal egyeztetést folytasson le;
+4.[^2] a 3. pontban foglalt vizsgálat eredményei alapján felhívja a külgazdasági és külügyminisztert, hogy az így azonosított akadályok lebontásáról az érintett kormányzatokkal egyeztetést folytasson le;
 
 Felelős: külgazdasági és külügyminiszter
 
 pénzügyminiszter
 
-Határidő: 2019. szeptember 30.
+Határidő: folyamatos
 
 5. felhívja a külgazdasági és külügyminisztert, hogy évente dolgozzon ki és terjesszen elő koncepciót a Kormány számára Magyarország szubszaharai Afrikában megvalósítandó nemzetközi fejlesztési – így különösen a vízgazdálkodás, az infrastruktúra-fejlesztés, a biztonság, a kiberbiztonság, a mezőgazdaság, az egészségügy és az orvostechnológia ágazataiban megvalósítandó – projektjeire;
 
@@ -146,17 +146,7 @@ honvédelmi miniszter
 
 Határidő: 2019. december 31.
 
-18. felhívja a külgazdasági és külügyminisztert, a honvédelmi minisztert, a Miniszterelnökséget vezető minisztert és a belügyminisztert, hogy vizsgálják meg, milyen katonai, védelempolitikai, határvédelmi ismeretek átadását szolgáló képzések valósíthatóak meg Magyarországon a szubszaharai afrikai országok számára, mely relációkban lehet és indokolt a kétoldalú katonai, védelmi, határvédelmi együttműködés erősítése, valamint a tisztképzési programok indítása, továbbá készítsenek előterjesztést a kapcsolódó feladatok, ezek ütemezése és a költségek forrásigényének bemutatásával;
-
-Felelős: külgazdasági és külügyminiszter
-
-honvédelmi miniszter
-
-Miniszterelnökséget vezető miniszter
-
-belügyminiszter
-
-Határidő: 2019. augusztus 31.
+18.[^3]
 
 19. felhívja a külgazdasági és külügyminisztert, hogy a belügyminiszter bevonásával vizsgálja meg, mely relációkban indokolt a hatékony vízgazdálkodási rendszerek kialakítása kapcsán a kétoldalú együttműködés erősítése, és készítsen erre vonatkozó koncepciót;
 
@@ -179,3 +169,7 @@ Határidő: a 2020. évi központi költségvetés tervezése során, illetve k�
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2019. augusztus 31.
+
+[^1]: A 3. pont az 1619/2019. (X. 28.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1619/2019. (X. 28.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^3]: A 18. pontot az 1619/2019. (X. 28.) Korm. határozat 1. pont d) alpontja hatályon kívül helyezte.
