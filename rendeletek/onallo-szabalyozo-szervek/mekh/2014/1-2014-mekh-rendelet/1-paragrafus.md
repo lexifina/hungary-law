@@ -14,10 +14,11 @@ e) a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a tová
 
 ## meghatározott személy.
 
-(2) Az (1) bekezdés a)–c) pontja szerinti kötelezett a felügyeleti díj ágazati törvényben előírtak alapján történő megállapítása érdekében az e rendeletben foglaltak szerint köteles bevallást készíteni és megküldeni a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére.
+(2)[^2] Az (1) bekezdés a)–c) pontja szerinti kötelezett a felügyeleti díj ágazati törvényben előírtak alapján történő megállapítása érdekében az e rendeletben foglaltak szerint bevallást készít, és megküldi azt a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére. A kötelezett a bevallást elektronikus formában, a Hivatal Energiainformációs Adattára adatgyűjtő alrendszerének útján teljesíti.
 
 (3) Az (1) bekezdés d)–e) pontja szerinti kötelezett a felügyeleti díjfizetési kötelezettségének a Ht. 49. §-ában, illetve a Vksztv.-ben és az e rendeletben meghatározottak szerint köteles eleget tenni.
 
 (4) Ha a kötelezett több, a Hivatal által kiadott engedéllyel rendelkezik, akkor minden engedélyesi tevékenysége után külön-külön bevallást készít, és a felügyeleti díjat minden engedélyesi tevékenysége után megfizeti.
 
 [^1]: Az 1. alcím (1–5. §) az 1/2019. (III. 13.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 12/2019. (IX. 27.) MEKH rendelet 4. §-ával megállapított szöveg.
