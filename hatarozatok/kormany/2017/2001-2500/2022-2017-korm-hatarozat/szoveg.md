@@ -20,15 +20,15 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-4.[^1] Az 1–3. pont szerinti kamattámogatás és kezességi díjtámogatás tárgyévi és tárgyévet követő éveket terhelő kötelezettségvállalásainak forrása az éves költségvetési törvényekben meghatározott Gazdaságfejlesztést szolgáló célelőirányzat (a továbbiakban: GFC). A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdésének a) pontjában biztosított jogkörében eljárva a 2018. évben a GFC terhére vállalható kötelezettség mértékét a 2019–2028 közötti évekre az alábbiak szerint állapítja meg:
+4.[^1] Az 1–3. pont szerinti kamattámogatás és kezességi díjtámogatás tárgyévi és tárgyévet követő éveket terhelő kötelezettségvállalásainak forrása az éves költségvetési törvényekben meghatározott Gazdaságfejlesztést szolgáló célelőirányzat (a továbbiakban: GFC). A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdésének a) pontjában biztosított jogkörében eljárva a GFC terhére vállalható kötelezettség mértékét a 2019–2028 közötti évekre az alábbiak szerint állapítja meg:
 
 a)[^2] a 2019. évre vonatkozó kötelezettségvállalás felső korlátja 1550 millió forint,
 
-b)[^3] a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 1550 millió forint,
+b)[^3] a 2020. évre vonatkozó kötelezettségvállalás felső korlátja 1750 millió forint,
 
-c)[^4] a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 1400 millió forint,
+c)[^4] a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 1600 millió forint,
 
-d)[^5] a 2022–2028. évekre vonatkozó kötelezettségvállalások felső korlátja évente 1300 millió forint.
+d)[^5] a 2022–2028. évekre vonatkozó kötelezettségvállalások felső korlátja évente 1500 millió forint.
 
 5. A Kormány felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter bevonásával gondoskodjon az 1–3. pont szerinti konstrukciók támogatásához szükséges költségvetési források rendelkezésre állásáról a 2019. és 2028. közötti években.
 
@@ -50,8 +50,8 @@ Határidő: a források 75%-ának lekötését követő harminc napon belül
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 4. pont nyitó szövegrésze az 1526/2018. (X. 24.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^1]: A 4. pont nyitó szövegrésze az 1526/2018. (X. 24.) Korm. határozat 1. pont a) alpontja, az 1620/2019. (X. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 4. pont a) alpontja az 1526/2018. (X. 24.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
-[^3]: A 4. pont b) alpontja az 1526/2018. (X. 24.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
-[^4]: A 4. pont c) alpontja az 1526/2018. (X. 24.) Korm. határozat 1. pont d) alpontja szerint módosított szöveg.
-[^5]: A 4. pont d) alpontja az 1526/2018. (X. 24.) Korm. határozat 1. pont e) alpontja szerint módosított szöveg.
+[^3]: A 4. pont b) alpontja az 1620/2019. (X. 28.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^4]: A 4. pont c) alpontja az 1620/2019. (X. 28.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^5]: A 4. pont d) alpontja az 1620/2019. (X. 28.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
