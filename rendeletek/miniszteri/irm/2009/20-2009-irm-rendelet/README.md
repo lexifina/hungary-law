@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-20-20-1
 | 2016-05-12 | 2009-20-20-1U.12 | 12/2016. (V. 4.) BM rendelet |
 | 2018-01-01 | 2009-20-20-1U.13 | 22/2017. (XII. 22.) IM rendelet |
 | 2018-07-01 | 2009-20-20-1U.14 | 16/2018. (VI. 22.) IM rendelet |
+| 2019-10-31 | 2009-20-20-1U.15 | 25/2019. (X. 30.) IM rendelet |

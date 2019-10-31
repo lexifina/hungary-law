@@ -1,4 +1,4 @@
-2. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^108]
+2. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^110]
 
 Eljáró hatóság megnevezése:
 
@@ -128,4 +128,4 @@ ADATKÖZLÉS VÁDEMELÉSRŐL, A VÁD MÓDOSÍTÁSÁRÓL VAGY A FELTÉTELES ÜGY�
 
 | ........................................................ Az eljáró szerv képviselője |
 
-[^108]: A 2. melléklet a 16/2018. (VI. 22.) IM rendelet 12. § (1) bekezdésével megálapított szöveg.
+[^110]: A 2. melléklet a 16/2018. (VI. 22.) IM rendelet 12. § (1) bekezdésével megálapított szöveg.

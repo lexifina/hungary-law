@@ -1,4 +1,4 @@
-5. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^111]
+5. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^113]
 
 5. adatlap
 
@@ -118,4 +118,4 @@ ADATKÖZLÉS ÖSSZBÜNTETÉSI ÍTÉLETRŐL, EGYSÉGES INTÉZKEDÉS ELRENDELÉSÉ
 
 | Intézkedés nyilvántartási ideje: |  |
 
-[^111]: Az 5. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított, a 16/2018. (VI. 22.) IM rendelet 13. § 18–19. és 22. pontja szerint módosított szöveg.
+[^113]: Az 5. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított, a 16/2018. (VI. 22.) IM rendelet 13. § 18–19. és 22. pontja szerint módosított szöveg.

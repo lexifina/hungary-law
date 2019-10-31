@@ -1,4 +1,4 @@
-25. § (1)[^100] A javítóintézet a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása részére a 8. adatlapon közli a Bnytv. 4. § (2) bekezdés d) pontjában, a Bnytv. 16. § (1) bekezdés e) pontjában és a Bnytv. 16. § (2) bekezdés e)–g) pontjában meghatározott adatokat, ha a javítóintézeti nevelésre utalt
+25. § (1)[^102] A javítóintézet a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása részére a 8. adatlapon közli a Bnytv. 4. § (2) bekezdés d) pontjában, a Bnytv. 16. § (1) bekezdés e) pontjában és a Bnytv. 16. § (2) bekezdés e)–g) pontjában meghatározott adatokat, ha a javítóintézeti nevelésre utalt
 
 a) személy javítóintézeti nevelését foganatba vette vagy a javítóintézeti nevelésből elbocsátotta,
 
@@ -8,10 +8,10 @@ c) személy a javítóintézeti nevelés végrehajtásának időtartama alatt me
 
 (2) Az (1) bekezdésben meghatározott adatközlést
 
-a)[^101] a javítóintézeti nevelésre utalt javítóintézeti nevelésének megkezdésétől, javítóintézetből történő elbocsátásától, ideiglenes elbocsátásától vagy az ideiglenes elbocsátás megszüntetése napjától,
+a)[^103] a javítóintézeti nevelésre utalt javítóintézeti nevelésének megkezdésétől, javítóintézetből történő elbocsátásától, ideiglenes elbocsátásától vagy az ideiglenes elbocsátás megszüntetése napjától,
 
-b)[^102] a javítóintézeti nevelésre utalt halálának napjától
+b)[^104] a javítóintézeti nevelésre utalt halálának napjától
 
-[^100]: A 25. § (1) bekezdés nyitó szövegrésze a 17/2014. (XII. 19.) IM rendelet 35. § 11. pontja, 36. § 2. pontja szerint módosított szöveg.
-[^101]: A 25. § (2) bekezdés a) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 12. pontja szerint módosított szöveg.
-[^102]: A 25. § (2) bekezdés b) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 12. pontja szerint módosított szöveg.
+[^102]: A 25. § (1) bekezdés nyitó szövegrésze a 17/2014. (XII. 19.) IM rendelet 35. § 11. pontja, 36. § 2. pontja szerint módosított szöveg.
+[^103]: A 25. § (2) bekezdés a) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 12. pontja szerint módosított szöveg.
+[^104]: A 25. § (2) bekezdés b) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 12. pontja szerint módosított szöveg.

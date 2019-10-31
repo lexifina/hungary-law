@@ -1,4 +1,4 @@
-4. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^110]
+4. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^112]
 
 4. adatlap
 
@@ -186,4 +186,4 @@ ADATKÖZLÉS JOGERŐS VAGY VÉGLEGESSÉ VÁLT BÍRÓI DÖNTÉSEKRŐL
 
 |  | Nyilvántartási ideje a Bnytv. 25. § c) pontja esetén: |  |  |
 
-[^110]: A 4. melléklet a 16/2018. (VI. 22.) IM rendelet 12. § (2) bekezdésével megálapított szöveg.
+[^112]: A 4. melléklet a 16/2018. (VI. 22.) IM rendelet 12. § (2) bekezdésével megálapított szöveg.

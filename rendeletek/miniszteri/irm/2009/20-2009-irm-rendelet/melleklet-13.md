@@ -50,6 +50,6 @@
 
 | ........................................................ Az eljáró szerv képviselője |
 
-13. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^119]
+13. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^121]
 
-[^119]: A 13. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, hatályon kívül helyezte a 12/2016. (V. 4.) BM rendelet 27. § a) pontja.
+[^121]: A 13. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, hatályon kívül helyezte a 12/2016. (V. 4.) BM rendelet 27. § a) pontja.
