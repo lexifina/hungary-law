@@ -1,0 +1,1 @@
+A külgazdasági szempontból kiemelt jelentőségű ügylet megvalósításához szükséges kormányzati intézkedésekről szóló 1312/2019. (V. 28.) Korm. határozat 2. pontjában a „2019. június 30.” szövegrész helyébe a „2019. november 29.” szöveg lép.
