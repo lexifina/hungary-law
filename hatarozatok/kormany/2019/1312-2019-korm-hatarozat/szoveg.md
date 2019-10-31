@@ -8,8 +8,10 @@ b) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (
 
 c) az értékesítés során a Vevőnek kötelezettséget kell vállalnia a MÁV csoporttal fennálló szerződéses kapcsolatok fenntartására;
 
-2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert mint az MNV Zrt. és a MÁV Zrt. feletti tulajdonosi joggyakorlót, hogy az 1. pont szerinti cél megvalósítása érdekében tegye meg a szükséges intézkedéseket.
+2.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert mint az MNV Zrt. és a MÁV Zrt. feletti tulajdonosi joggyakorlót, hogy az 1. pont szerinti cél megvalósítása érdekében tegye meg a szükséges intézkedéseket.
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
-Határidő: a megállapodások megkötésére 2019. június 30.
+Határidő: a megállapodások megkötésére 2019. november 29.
+
+[^1]: A 2. pont az 1626/2019. (X. 31.) Korm. határozat szerint módosított szöveg.
