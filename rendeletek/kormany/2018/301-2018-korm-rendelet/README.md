@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-301-20-
 | 2019-04-11 | 2018-301-20-22.5 | 31/2019. (III. 1.) Korm. rendelet |
 | 2019-04-19 | 2018-301-20-22.6 | 83/2019. (IV. 18.) Korm. rendelet |
 | 2019-07-27 | 2018-301-20-22.7 | 182/2019. (VII. 26.) Korm. rendelet |
+| 2019-10-31 | 2018-301-20-22.8 | 257/2019. (X. 30.) Korm. rendelet |
