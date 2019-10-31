@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. § A 410/2012. (XII. 28.) Korm. rendelet 23. §-a a következő (7) bekezdéssel egészül ki:
 
-[^7]: A 7. § a 18. § (2) bekezdése alapján 2019. október 31-én lép hatályba.
+## „(7) Az 1. § (1c) bekezdése alapján az ETS rendszerbe történő regisztrációt 2019. december 31. napjáig kell teljesíteni.”

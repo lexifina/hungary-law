@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § A 410/2012. (XII. 28.) Korm. rendelet 4. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 18. § (2) bekezdése alapján 2019. október 31-én lép hatályba.
+## „(6) A hatóság az (5) bekezdés szerinti jelentések elkészítését segítő útmutatókat a honlapján közzéteszi. A hatóság a jelentéseket és azok mellékleteit, a hitelesítői záradékot és annak mellékleteit az ETS rendszerben tartja nyilván és kezeli.”

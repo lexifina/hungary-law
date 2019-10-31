@@ -1,4 +1,4 @@
-## 17. §[^23]
+## 17. §[^14]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 5. §, a 9. § a), b) és c) pontja 2020. január 1-jén lép hatályba.
 
-[^23]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
