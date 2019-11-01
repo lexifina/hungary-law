@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-26-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-10-31 | 2018-26-20-2C.1 | 26/2018. (VII. 3.) MNB rendelet |
+| 2019-11-01 | 2018-26-20-2C.2 | 2010: CXXX. törvény |
