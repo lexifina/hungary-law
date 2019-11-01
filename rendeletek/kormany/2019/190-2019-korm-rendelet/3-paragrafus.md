@@ -6,8 +6,7 @@
 
 a)–d)[^3]
 
-e)[^4]
+e) 5. §-ában az „Az állandó minőségügyi szakfőorvos” szövegrész helyébe az „Az országos szakfelügyelő” szöveg
 
 [^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. § a)–d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. § e) pontja a 6. § (2) bekezdése alapján 2019. november 1-jén lép hatályba.

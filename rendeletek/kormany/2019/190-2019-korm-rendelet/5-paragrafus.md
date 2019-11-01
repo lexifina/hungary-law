@@ -1,3 +1,7 @@
-## 4. §[^5]
+## 4. § A fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet (a továbbiakban: R.) 11. §-a a következő e) ponttal egészül ki:
 
-[^5]: A 4. § a 6. § (2) bekezdése alapján 2019. november 1-jén lép hatályba.
+## (A Kormány egészségügyi államigazgatási szervként az országos tisztifőorvost, a kormányhivatalt és a járási hivatalt jelöli ki)
+
+## „e) az Eütv. 123. § (1)–(3) bekezdése”
+
+## (szerinti feladatok ellátására.)
