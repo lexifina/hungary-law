@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-74-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2019-11-01 | 2019. évi LXXIV. törvény | 2019-74-00-00.0 (közlönyállapot) |
+| 2019-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-74-00-00.1 |
