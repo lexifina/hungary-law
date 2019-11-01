@@ -56,7 +56,7 @@
 
 1.21. Nemzeti Kutatási Fejlesztési és Innovációs Hivatal,
 
-1.22. Nemzeti Kommunikációs Hivatal
+1.22.[^2] Nemzeti Kommunikációs Hivatal,
 
 1.23. Honvédelmi Tanács és a Kormány speciális működését biztosító szervek,
 
@@ -74,13 +74,13 @@
 
 1.30. Nemzeti Védelmi Szolgálat,
 
-1.31.[^2] Terrorelhárítási Információs és Bűnügyi Elemző Központ,
+1.31.[^3] Terrorelhárítási Információs és Bűnügyi Elemző Központ,
 
 1.32. BM Országos Katasztrófavédelmi Főigazgatóság, megyei katasztrófavédelmi igazgatóságok, Fővárosi Katasztrófavédelmi Igazgatóság,
 
-1.33.[^3] Országos Idegenrendészeti Főigazgatóság,
+1.33.[^4] Országos Idegenrendészeti Főigazgatóság,
 
-1.34.[^4]
+1.34.[^5] rendészeti szakgimnáziumok,
 
 1.35. polgármesteri hivatalok, megyei önkormányzati hivatalok,
 
@@ -88,7 +88,7 @@
 
 1.37. fővárosi és megyei védelmi bizottságok,
 
-1.38.[^5]
+1.38.[^6] a Budapesti Műszaki és Gazdaságtudományi Egyetemen, a Debreceni Egyetemen, a Dunaújvárosi Egyetemen, a Pécsi Tudományegyetemen és a Szegedi Tudományegyetemen működő kutatócsoportok, valamint kutatóintézetek,
 
 1.39. igazságügyi szakértői intézetek,
 
@@ -96,21 +96,21 @@
 
 1.41. Kormányzati Ellenőrzési Hivatal,
 
-1.42.[^6]
+1.42.[^7]
 
 1.43. Nemzeti Média- és Hírközlési Hatóság,
 
-1.44.[^7]
+1.44.[^8] Magyar Tudományos Akadémia,
 
-1.45.[^8]
+1.45.[^9] Eötvös Loránd Kutatási Hálózat,
 
 1.46. a hazai és közösségi forrásokból származó támogatások elosztásában közreműködő szervezetek,
 
 1.47. Magyar Energetikai és Közműszabályozási Hivatal,
 
-1.48.[^9]
+1.48.[^10]
 
-1.49.[^10]
+1.49.[^11]
 
 1.50. Nemzeti Élelmiszerlánc-biztonsági Hivatal,
 
@@ -118,21 +118,21 @@
 
 1.52. Állami Egészségügyi Ellátó Központ,
 
-1.53.[^11]
+1.53.[^12]
 
-1.54. Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet:
+1.54.[^13] Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet,
 
-1.55.[^12] Országos Közegészségügyi Intézet
+1.55.[^14] Nemzeti Népegészségügyi Központ,
 
 1.56. Országos Mentőszolgálat,
 
-1.57.[^13] Nemzeti Egészségbiztosítási Alapkezelő,
+1.57.[^15] Nemzeti Egészségbiztosítási Alapkezelő,
 
-1.58.[^14]
+1.58.[^16]
 
 1.59. Oktatási Hivatal,
 
-1.60. Nemzeti Közszolgálati Egyetem, a rendészeti szakközépiskolák
+1.60.[^17] Nemzeti Közszolgálati Egyetem,
 
 1.61. Közbeszerzési és Ellátási Főigazgatóság,
 
@@ -142,29 +142,29 @@
 
 1.64. Nemzeti Földalapkezelő Szervezet,
 
-1.65.[^15]
+1.65.[^18]
 
 1.66. Európai Támogatásokat Auditáló Főigazgatóság,
 
 1.67. Országos Vízügyi Főigazgatóság,
 
-1.68. felsőoktatási intézmény nukleáris létesítménye.
+1.68.[^19]
 
 2. A központi államigazgatási és kormányzati tevékenység szempontjából fontos gazdálkodó szervezetek és létesítményeik:
 
 2.1. Magyar Nemzeti Vagyonkezelő Zrt., illetve azon gazdálkodó szervezetek, amelyekben a Magyar Nemzeti Vagyonkezelő Zrt. többségi tulajdonosi jogokat gyakorol,
 
-2.2. MVM Paksi Atomerőmű Zrt., MVM Paks II. Atomerőmű Fejlesztő Zrt., valamint egyéb nukleáris anyagot kezelő, feldolgozó cégek (Radioaktív Hulladékot Kezelő Közhasznú Nonprofit Kft. és az általa üzemeltetett Kiégett Átmeneti Tárolója Paks, Radioaktív Hulladék Feldolgozó és Tároló Püspökszilágy, Nemzeti Radioaktívhulladék-tároló Bátaapáti),
+2.2.[^20] MVM Paksi Atomerőmű Zrt., Paks II. Atomerőmű Zrt., valamint egyéb nukleáris anyagot kezelő, feldolgozó cégek (Radioaktív Hulladékot Kezelő Közhasznú Nonprofit Kft. és az általa üzemeltetett Kiégett Átmeneti Tárolója Paks, Radioaktív Hulladék Feldolgozó és Tároló Püspökszilágy, Nemzeti Radioaktívhulladék-tároló Bátaapáti),
 
 2.3. MOL Magyar Olaj-és Gázipari Nyrt. és tagvállalatai (MOL Csoport),
 
 2.4. MVM Magyar Villamos Művek Zrt. és tagvállalatai (MVM Csoport),
 
-2.5. ENKSZ Első Nemzeti Közműszolgáltató Zrt.,
+2.5.[^21]
 
-2.6. KAF Központi Adatgyűjtő és Feldolgozó Zrt.,
+2.6.[^22]
 
-2.7. Rába Járműipari Holding,
+2.7.[^23] Rába Járműipari Holding Nyrt.,
 
 2.8. GAMMA Műszaki Zrt.,
 
@@ -228,13 +228,13 @@
 
 2.38. GIRO Elszámolásforgalmi Zrt.,
 
-2.39. KELER Értéktár Zrt.,
+2.39.[^24] KELER Központi Értéktár Zrt.,
 
-2.40. KELER Központi Szerződő Fél Zrt.,
+2.40.[^25] KELER KSZF Központi Szerződő Fél Zrt.,
 
 2.41. Budapesti Értéktőzsde Zrt.,
 
-2.42. Nemzeti Dohánykereskedelmi Nonprofit Zrt.,
+2.42.[^26] ND Nemzeti Dohánykereskedelmi Nonprofit Zrt.,
 
 2.43. Nemzeti Reorganizációs Nonprofit Kft.,
 
@@ -252,38 +252,70 @@
 
 2.50. Budapesti Közlekedési Zrt., Budapesti Közlekedési Központ Zrt.,
 
-2.51. Nemzeti Infrastruktúra Fejlesztő Zrt.,
+2.51.[^27] NIF Nemzeti Infrastruktúra Fejlesztő Zrt.,
 
 2.52. Nemzeti Befektetési Ügynökség,
 
 2.53. állami protokoll által megjelölt szállodák,
 
-2.54. Magyar Tudományos Akadémia,
+2.54.[^28] Magyar Turisztikai Ügynökség Zrt.,
 
 2.55. iparbiztonsági ellenőrzést követően a NATO beszállítók a projekt idejére,
 
 2.56. Bethlen Gábor Alapkezelő Zrt.,
 
-2.57. Széchenyi Programiroda Kft.
+2.57.[^29] Széchenyi Programiroda Nonprofit Kft.,
 
-2.58. Új Világ Nonprofit Kft.,
+2.58.[^30] Új Világ Nonprofit Szolgáltató Kft.,
 
-2.59. Lechner Tudásközpont Nonprofit Kft.,
+2.59.[^31] Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft.,
 
-2.60. ÉMI Építésügyi Minőségellenőrzési Innovációs Nonprofit Kft.
+2.60.[^32] ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft.
+
+2.61.[^33] Zalaegerszegi Járműipari Tesztpálya,
+
+2.62.[^34] DEBRECEN INTERNATIONAL AIRPORT Kft.,
+
+2.63.[^35] ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Kft.,
+
+2.64.[^36] Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft.,
+
+2.65.[^37] Országos Fordító és Fordításhitelesítő Iroda Zrt.
 
 [^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdés alapján hatályát vesztette.
-[^2]: Az 1. melléklet 1. pont 1.31. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont a) alpontjával megállapított szöveg.
-[^3]: Az 1. melléklet 1. pont 1.33. alpontja az 1405/2019. (VII. 8.) Korm. határozat 7. pontjával megállapított szöveg.
-[^4]: Az 1. melléklet 1. pont 1.34. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont a) alpontja hatályon kívül helyezte.
-[^5]: Az 1. melléklet 1. pont 1.38. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont b) alpontja hatályon kívül helyezte.
-[^6]: Az 1. melléklet 1. pont 1.42. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont c) alpontja hatályon kívül helyezte.
-[^7]: Az 1. melléklet 1. pont 1.44. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont d) alpontja hatályon kívül helyezte.
-[^8]: Az 1. melléklet 1. pont 1.45. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont e) alpontja hatályon kívül helyezte.
-[^9]: Az 1. melléklet 1. pont 1.48. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont f) alpontja hatályon kívül helyezte.
-[^10]: Az 1. melléklet 1. pont 1.49. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont g) alpontja hatályon kívül helyezte.
-[^11]: Az 1. melléklet 1. pont 1.53. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont h) alpontja hatályon kívül helyezte.
-[^12]: Az 1. melléklet 1. pont 1.55. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont c) alpontjával megállapított szöveg.
-[^13]: Az 1. melléklet 1. pont 1.57. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont d) alpontjával megállapított szöveg.
-[^14]: Az 1. melléklet 1. pont 1.58. alpontját az 1757/2017. (X. 31.) Korm. határozat 3. pontja hatályon kívül helyezte.
-[^15]: Az 1. melléklet 1. pont 1.65. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont i) alpontja hatályon kívül helyezte.
+[^2]: Az 1. melléklet 1. pont 1.22. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 1. pont 1.31. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont a) alpontjával megállapított szöveg.
+[^4]: Az 1. melléklet 1. pont 1.33. alpontja az 1405/2019. (VII. 8.) Korm. határozat 7. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 1. pont 1.34. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont a) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^6]: Az 1. melléklet 1. pont 1.38. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont b) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^7]: Az 1. melléklet 1. pont 1.42. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont c) alpontja hatályon kívül helyezte.
+[^8]: Az 1. melléklet 1. pont 1.44. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont d) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^9]: Az 1. melléklet 1. pont 1.45. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont e) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^10]: Az 1. melléklet 1. pont 1.48. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont f) alpontja hatályon kívül helyezte.
+[^11]: Az 1. melléklet 1. pont 1.49. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont g) alpontja hatályon kívül helyezte.
+[^12]: Az 1. melléklet 1. pont 1.53. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont h) alpontja hatályon kívül helyezte.
+[^13]: Az 1. melléklet 1. pont 1.54. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 1. pont 1.55. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^15]: Az 1. melléklet 1. pont 1.57. alpontja az 1853/2016. (XII. 27.) Korm. határozat 64. pont d) alpontjával megállapított szöveg.
+[^16]: Az 1. melléklet 1. pont 1.58. alpontját az 1757/2017. (X. 31.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^17]: Az 1. melléklet 1. pont 1.60. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 1. pont 1.65. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont i) alpontja hatályon kívül helyezte.
+[^19]: Az 1. melléklet 1. pont 1.68. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^20]: Az 1. melléklet 2. pont 2.2. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 2. pont 2.5. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^22]: Az 1. melléklet 2. pont 2.6. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja hatályon kívül helyezte.
+[^23]: Az 1. melléklet 2. pont 2.7. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 2. pont 2.39. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 2. pont 2.40. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 2. pont 2.42. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet 2. pont 2.51. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet 2. pont 2.54. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^29]: Az 1. melléklet 2. pont 2.57. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet 2. pont 2.58. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet 2. pont 2.59. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet 2. pont 2.60. alpontja az 1604/2019. (X. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^33]: Az 1. melléklet 2. pont 2.61. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^34]: Az 1. melléklet 2. pont 2.62. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^35]: Az 1. melléklet 2. pont 2.63. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^36]: Az 1. melléklet 2. pont 2.64. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^37]: Az 1. melléklet 2. pont 2.65. alpontját az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
