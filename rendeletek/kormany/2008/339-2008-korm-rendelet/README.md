@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-339-20-
 | 2015-03-01 | 2008-339-20-22.7 | 30/2015. (II. 25.) Korm. rendelet |
 | 2017-01-01 | 2008-339-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-08-14 | 2008-339-20-22.9 | 190/2019. (VII. 30.) Korm. rendelet |
+| 2019-11-01 | 2008-339-20-22.10 | 136/2013. (V. 10.) Korm. rendelet |
