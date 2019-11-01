@@ -1,0 +1,1 @@
+## 7. A Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 177/2017. (VII. 5.) Korm. rendelet módosítása
