@@ -2,4 +2,6 @@
 
 (2) Az (1) bekezdés szerinti feladatátvétel a feladatátadással érintett szervek által e rendelet hatálybalépését megelőzően kiadott engedélyek, hatósági jogkörben hozott döntések és keletkezett dokumentumok érvényességét nem érintik.
 
-(3) A 2018. december 31. napján fennálló kormányzati, állami szolgálati jogviszony munkaviszonnyá átalakulása tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 72. §-ában foglaltakat – a 9. §-ban foglalt eltéréssel – kell alkalmazni.
+(3)[^1] A 2018. december 31. napján fennálló kormányzati, állami szolgálati jogviszony munkaviszonnyá átalakulása tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 72. §-ában foglaltakat – a 8. § (2) bekezdésében foglalt eltéréssel – kell alkalmazni.
+
+[^1]: A 2. § (3) bekezdése a 248/2019. (X. 24.) Korm. rendelet 18. §-a szerint módosított szöveg.
