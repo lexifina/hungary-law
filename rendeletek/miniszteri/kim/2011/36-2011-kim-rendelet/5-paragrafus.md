@@ -246,11 +246,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 0321 | Tengeri halgazdálkodás |
 
-| 032101 | Tengeri halgazdálkodás |
+| 032101 | Tengerihal-gazdálkodás |
 
 | 0322 | Édesvízi halgazdálkodás |
 
-| 032201 | Édesvízi halgazdálkodás |
+| 032201 | Édesvízihal-gazdálkodás |
 
 | 05 | Szénbányászat |
 
@@ -595,6 +595,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 110702 | Szikvízkészítés |
 
 | 110703 | Alkoholmentes (üdítő)ital gyártása |
+
+| 110704 | Mesterséges víz gyártása |
 
 | 12 | Dohánytermék gyártása |
 
@@ -3272,6 +3274,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 511002 | Nem menetrendszerű légi személyszállítás |
 
+| 511003 | Légiutas-kísérő |
+
 | 512 | Légi áruszállítás |
 
 | 5121 | Légi áruszállítás |
@@ -3370,11 +3374,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 552001 | Közösségi szálláshely-szolgáltatás |
 
-| 552003 | Üdülőházi szolgáltatás |
+| 552003 | Üdülőháztelep |
 
 | 552004 | Gyermeküdültetés (nem utazási csomagként) |
 
-| 552006 | Üdülési, egyéb átmeneti szálláshely-szolgáltatás m.n.s. |
+| 552006 | Szálláshely-szolgáltatás m.n.s. |
 
 | 552007 | Közösségi, szabadidős szálláshely-szolgáltatás: üdülő |
 
@@ -3390,6 +3394,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 552013 | Közösségi, szabadidős szálláshely-szolgáltatás: diákotthon, kollégium |
 
+| 552014 | Magánszálláshely szolgáltatás |
+
 | 553 | Kempingszolgáltatás |
 
 | 5530 | Kempingszolgáltatás |
@@ -3399,6 +3405,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 553002 | Közösségi, szabadidős szálláshely-szolgáltatás: nomád táborhely |
 
 | 553003 | Közösségi, szabadidős szálláshely-szolgáltatás: bivakszállás |
+
+| 553004 | Szabadidős és nyaralótáboroztatás |
 
 | 559 | Egyéb szálláshely-szolgáltatás |
 
@@ -3414,8 +3422,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 5610 | Éttermi, mozgó vendéglátás |
 
-| 561001 | Éttermi, cukrászdai szolgáltatás |
-
 | 561002 | Pecsenye és más húsalapú készítmény sütése |
 
 | 561003 | Palacsinta-, lángos-, pizzasütés |
@@ -3429,6 +3435,10 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 561007 | Sörözői vendéglátás (melegkonyhás) |
 
 | 561008 | Kávéház, teaház (melegkonyhás) |
+
+| 561009 | Éttermi vendéglátás |
+
+| 561010 | Cukrászda, fagylaltozó |
 
 | 562 | Rendezvényi étkeztetés és egyéb vendéglátás |
 
@@ -3790,6 +3800,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 702206 | Közbeszerzési tanácsadás |
 
+| 702207 | Belső ellenőrzés |
+
 | 71 | Mérnöki és építészmérnöki tevékenység; műszaki vizsgálat, elemzés |
 
 | 711 | Mérnöki és építészmérnöki tevékenység; műszaki tanácsadás |
@@ -4021,6 +4033,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 749058 | Szociálpolitikai szakértés |
 
 | 749059 | Gyermekvédelmi szakértés |
+
+| 749060 | Növényvédelmi szakértés |
 
 | 75 | Állat-egészségügyi ellátás |
 
@@ -4534,17 +4548,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 8891 | Gyermekek napközbeni ellátása |
 
-| 889102 | Házi gyermekfelügyelet |
-
-| 889103 | Családi gyermekfelügyelet |
-
-| 889104 | Családi napközi |
-
 | 889105 | Alternatív napközbeni ellátás |
 
 | 889106 | Gyermekfelügyelet, a gyermekvédelmi törvény hatályán kívüli szolgáltatásként |
 
-| 889107 | Bölcsőde |
+| 889108 | Családi bölcsőde |
+
+| 889109 | Napközbeni gyermekfelügyelet |
 
 | 8899 | M.n.s. egyéb szociális ellátás bentlakás nélkül |
 
@@ -4650,7 +4660,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 9200 | Szerencsejáték, fogadás |
 
-| 920001 | Sorsolásos játék szervezése (engedélyhez nem kötött) |
+| 920001 | Szerencsejáték-szolgáltatás |
 
 | 920002 | Szerencsejáték-szelvény saját számlás értékesítése |
 
@@ -4692,7 +4702,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 9329 | M.n.s. egyéb szórakoztatás, szabadidős tevékenység |
 
-| 932901 | Máshova nem sorolható, egyéb szabadidős tevékenység (nem egyesületi keretek között vagy nem nonprofit szervezésben) |
+| 932901 | Máshova nem sorolható, egyéb szabadidős tevékenység |
 
 | 932902 | Játékautomata-üzemeltetés (nem pénznyerő) |
 
@@ -4892,4 +4902,4 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 990001 | Külföldi képviseletet ellátó személy |
 
-[^2]: A Melléklet a 34/2017. (XII. 19.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A Melléklet a 34/2017. (XII. 19.) MvM rendelet 1. §-ával megállapított, a 14/2019. (X. 28.) MvM rendelet 1. §-a szerint módosított szöveg.
