@@ -1,1 +1,1 @@
-69. § A mozgóképről szóló 2004. évi II. törvény 13. § (5) bekezdésében meghatározott gyártási költségvetési értékhatár a 2020. évben magyar filmalkotás esetén 348,0 millió forint, magyar részvételű koprodukciós filmalkotás esetén 612,8 millió forint.
+69. §
