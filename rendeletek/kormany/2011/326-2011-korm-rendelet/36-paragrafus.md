@@ -34,7 +34,7 @@ db)[^118] az eljáró hatóság értesítése alapján az elmulasztott határnap
 
 dc)[^119] a pályaalkalmassági szempontból időtartamra korlátozott alkalmas minősítés lejárta esetén, vagy
 
-e)[^120] a vizsga érvénytelenítését elrendelő határozat véglegessé válásának napjától az érvényes vizsgaigazolás közlekedési igazgatási hatóság előtti bemutatásáig, ha a járművezetői vizsgát a közlekedési hatóság a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet alapján érvénytelenítette.
+e)[^120] a vizsga érvénytelenítése megállapításának napjától az érvényes vizsgaigazolás közlekedési igazgatási hatóság előtti bemutatásáig, ha a járművezetői vizsgát a közúti közlekedésről szóló törvényben meghatározott vizsgaközpont a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet alapján érvénytelenítette.
 
 (3a)[^121] Ha a járművezető részére járművezetésre jogosító okmány kiállításra került, úgy a vezetési jogosultság szünetelésének elrendelése esetén a közlekedési igazgatási hatóság annak visszavonását is elrendeli.
 
@@ -76,7 +76,7 @@ d) a 32. § c) pontja esetén az ellenőrző hatóság intézkedéséről szól�
 [^117]: A 36. § (3) bekezdés d) pont da) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § f) pontja szerint módosított szöveg.
 [^118]: A 36. § (3) bekezdés d) pont db) alpontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^119]: A 36. § (3) bekezdés d) pont dc) alpontját a 441/2015. (XII. 28.) Korm. rendelet 154. § (3) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^120]: A 36. § (3) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 368. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^120]: A 36. § (3) bekezdés e) pontja a 248/2019. (X. 24.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^121]: A 36. § (3a) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
 [^122]: A 36. § (4) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 368. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^123]: A 36. § (4) bekezdés c) pontja a 467/2015. (XII. 29.) Korm. rendelet 29. § g) pontja szerint módosított szöveg.
