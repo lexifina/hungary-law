@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti a 20/2009. (VI. 19.) IRM rendelet 22/A. § (1) bekezdésében a „számú” szövegrész.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

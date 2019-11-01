@@ -1,1 +1,0 @@
-## „b) a kiadatási letartóztatást, ideiglenes kiadatási letartóztatást, átadási letartóztatást, ideiglenes átadási letartóztatást, ideiglenes kiadatási bűnügyi felügyeletet, ideiglenes átadási bűnügyi felügyeletet és a Bnytv. 30/B. § b) pontjában meghatározott ideiglenes végrehajtási bűnügyi felügyeletet elrendelő bíróság megnevezését, határozatának számát és keltét,”
