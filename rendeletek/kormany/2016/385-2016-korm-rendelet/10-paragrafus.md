@@ -8,7 +8,7 @@ c) az Ebtv. 10. § (4) bekezdése,
 
 d) az Eütv.
 
-da) 123. § (1) bekezdés a) pontja és (2) bekezdése,
+da)[^16]
 
 db) 143. §-a,
 
@@ -31,3 +31,5 @@ g) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módos
 (2) A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter jogszabály szerint, az országos tisztifőorvos és a kormányhivatal útján látja el.
 
 (3) Az Eütv. 48. § c) pontja szerinti feladatokat az országos tisztifőorvos és a kormányhivatal látja el.
+
+[^16]: A 10. § (1) bekezdés d) pont da) alpontját a 190/2019. (VII. 30.) Korm. rendelet 5. §-a hatályon kívül helyezte.
