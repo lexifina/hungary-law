@@ -48,6 +48,6 @@
 
 | 14. | A konténer vagy a cserefelépítmény tömegét tanúsító bizonylat hiánya a fuvarozás során | 30 000 | fuvarozó, feladó |  |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^67]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^68]
 
-[^67]: A 2. melléklet a 476/2016. (XII. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^68]: A 2. melléklet a 476/2016. (XII. 27.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

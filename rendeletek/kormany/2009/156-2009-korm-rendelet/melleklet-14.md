@@ -6,7 +6,7 @@
 
 | 2. | A közlekedési hatóság engedélye nélkül átalakított jármű időszakos vizsgálata során alkalmas minősítést igazoló hatósági bizonyítvány (Műszaki adatlap) kiadása | 200 000 |
 
-14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^85]
+14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^86]
 
 |  | A | B | C | D | E | F |
 
@@ -16,4 +16,4 @@
 
 | 3. | A közúti közlekedési szolgáltatást végző haszonjármű uniós jog szerinti műszaki vizsgálatról szóló érvényes igazolás nélküli közúti közlekedése | RSJ | 40 000 Ft | 60 000 Ft | 100 000 Ft | járművezető/ üzembentartó |
 
-[^85]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^86]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be.

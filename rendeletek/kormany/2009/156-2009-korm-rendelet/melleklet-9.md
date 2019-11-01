@@ -26,7 +26,7 @@
 
 | 20% ≤…< 30% 30% ≤… |  | 350 000 500 000 |
 
-| 5. | A megengedett legnagyobb hosszúságot és magasságot meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű | … < 2% 2% ≤… < 5% | a hosszúság vonatkozásában: SJ | 10 000 30 000 | szállító járművezető |
+| 5. | A megengedett legnagyobb hosszúságot vagy magasságot meghaladó, a közút kezelőjének hozzájárulása nélkül vagy a közút kezelőjének hozzájárulásában szereplő értéktől eltérően közlekedő jármű | … < 2% 2% ≤… < 5% | a hosszúság vonatkozásában: SJ | 10 000 30 000 | szállító járművezető |
 
 | 5% ≤… < 10% | a hosszúság vonatkozásában: SJ | 50 000 |
 

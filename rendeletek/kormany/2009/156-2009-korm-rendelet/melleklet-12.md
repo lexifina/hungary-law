@@ -28,6 +28,6 @@
 
 | J4 | 40 000 | 110 000 | 165 000 |
 
-12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^83]
+12. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^84]
 
-[^83]: A 12. melléklet a 171/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított, a 476/2016. (XII. 27.) Korm. rendelet 7. § (10) bekezdése, a 289/2018. (XII. 21.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^84]: A 12. melléklet a 171/2014. (VII. 18.) Korm. rendelet 10. §-ával megállapított, a 476/2016. (XII. 27.) Korm. rendelet 7. § (10) bekezdése, a 289/2018. (XII. 21.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
