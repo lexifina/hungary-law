@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad „A terrorizmushoz vezető radikalizáció megelőzése: regionális politikai válaszok és kockázatcsökkentés” című regionális konferenciáról szóló, a Magyarország Kormánya és az ENSZ Terrorizmus Ellenes Hivatala között levélváltás útján létrejövő megállapodás (a továbbiakban Megállapodás) kötelező hatályának elismerésére.
