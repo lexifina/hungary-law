@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-139-20-
 | 2011-01-01 | 1991-139-20-22.7 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2016-01-01 | 1991-139-20-22.8 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2017-01-01 | 1991-139-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2019-11-01 | 1991-139-20-22.10 | 248/2019. (X. 24.) Korm. rendelet |

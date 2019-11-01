@@ -1,23 +1,3 @@
-## IGAZOLÁS
-
-## ………………………………………
-
-## (név)
-
-## részére
-
-## születési hely: ………………………………………, idő: …………………… év …………………………………… hó ……… nap.
-
-## Anyja neve: ……………………………………… részére, aki a közúti közlekedésről szóló 1988. évi I. törvény 18. §-ának (4) bekezdésében elrendelt utánképzésen részt vett.
-
-## Kelt: ………………………………………, …………… év ………………………… hó ……… napján
-
-## PH. ………………………………………
-
-## (aláírás)
-
-## (A VI. és VII. programban résztvevők esetében az igazolást az egészségi alkalmasságot megállapító orvos részére is el kell küldeni).
-
 6. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez
 
 ## Az utánképzés díjai és a díjfizetés módja
@@ -26,7 +6,7 @@
 
 a) elméleti jellegű (I., III—VII.) program esetében
 
-— a külön jogszabályban meghatározott[^23] — közúti járművezetői pótvizsgadíj ötszöröse;
+— a külön jogszabályban meghatározott[^26] — közúti járművezetői pótvizsgadíj ötszöröse;
 
 b) gyakorlati (II.) program esetében a megfelelő járműkategóriára vonatkozó — külön jogszabályban meghatározott — tanóránkénti költségtérítés ötszöröse.
 
@@ -34,12 +14,12 @@ b) gyakorlati (II.) program esetében a megfelelő járműkategóriára vonatkoz
 
 3. A pótvizsga díja az azonos jellegű foglalkozás egy órájának díja.
 
-4.[^24] Az utánképzés díját a közlekedési hatóság számlájára, a feltárás eredményeként meghatározott programnak megfelelően, a foglalkozások megkezdése előtt kell befizetni.
+4.[^27] Az utánképzés díját a vizsgaközpont számlájára, a feltárás eredményeként meghatározott programnak megfelelően, a foglalkozások megkezdése előtt kell befizetni.
 
-5.[^25] A közlekedésért felelős miniszter az utánképzés bruttó bevételének 5%-át kötelesek elkülöníteni és az utánképzési rendszer szakmai irányítására és fejlesztésére fordítani.
+5.[^28]
 
 6. Az utánképzési foglalkozások díját — külön jogszabályban meghatározott díjtétel szerint — hatályba lépésének napján érvényes díjak szerint kell alkalmazni.
 
-[^23]: Lásd a 26/1992.(XII.22.) KHVM rendelet 4. számú mellékletét.
-[^24]: A 6. számú melléklet 4. pontja a 351/2010. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^25]: A 6. számú melléklet 5. pontja a 379/2016. (XII. 2.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^26]: Lásd a 26/1992.(XII.22.) KHVM rendelet 4. számú mellékletét.
+[^27]: A 6. számú melléklet 4. pontja a 248/2019. (X. 24.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^28]: A 6. számú melléklet 5. pontját a 248/2019. (X. 24.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.

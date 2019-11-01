@@ -12,4 +12,6 @@
 
 ## A vizsga lebonyolítására, követelményszintjére, személyi és tárgyi feltételeire a megfelelő járműkategória járművezetési gyakorlati vizsgájának szabályait kell alkalmazni.
 
-5. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez
+5. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^25]
+
+[^25]: Az 5. számú mellékletet a 248/2019. (X. 24.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.

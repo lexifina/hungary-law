@@ -2,7 +2,7 @@
 
 ## Az utánképzés programja az utánképzésre kötelezés alapjául szolgáló cselekmény(ek)től és az utánképzésre kötelezett közlekedési képzettségében, kultúrájában, illetőleg közlekedési magatartásában feltárt hiányosságoktól, valamint attól függ, hogy a kötelezett korábban már részt vett-e utánképzésben.
 
-## I.[^11] program
+## I.[^13] program
 
 ## A közlekedési képzettség hiányosságainak megszüntetésére irányuló elméleti foglalkozás
 
@@ -10,11 +10,11 @@
 
 ## A program időtartama: 6 óra, amelyet két foglalkozásra elosztva kell megtartani.
 
-## A csoportlétszám felső határa 15 fő, alsó határa nincs.
+## A csoportlétszám felső határa 20 fő, alsó határa nincs.
 
 ## Tárgyi feltételek:
 
-## —[^12] a közlekedési hatóság által e tevékenységre alkalmasnak minősített helyiség, a csoportlétszámnál legalább kettővel több, jegyzetelésre is lehetőséget nyújtó ülőhellyel;
+## —[^14] a közlekedési hatóság által e tevékenységre alkalmasnak minősített helyiség, a csoportlétszámnál legalább kettővel több, jegyzetelésre is lehetőséget nyújtó ülőhellyel;
 
 ## — keretezett diaképek kivetítésére alkalmas diavetítő vetítővászonnal, vagy egyéb, ezzel egyenértékű berendezés;
 
@@ -22,7 +22,7 @@
 
 ## — falitábla krétával vagy más, ezzel egyenértékű demonstrációs eszköz.
 
-## II.[^13] program
+## II.[^15] program
 
 ## A közlekedési képzettség, kultúra és magatartás hiányosságainak és hibáinak megszüntetését célzó járművezetési gyakorlati foglalkozás
 
@@ -32,11 +32,11 @@
 
 ## Egy foglalkozásvezető egyidejűleg egy kötelezettel foglalkozhat.
 
-## A foglalkozások során a jármű felelős vezetője a foglalkozásvezető.
+## A foglalkozások a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet szerinti gyakorlati oktatásnak minősülnek. A foglalkozások során a jármű felelős vezetője a foglalkozásvezető.
 
 ## Tárgyi feltételek: azonosak a megfelelő járműkategóriájú járművezető-képző tanfolyamok járművezetési gyakorlati foglalkozásaival.
 
-## III.[^14] program
+## III.[^16] program
 
 ## A közlekedési szabályok megtartását célzó foglalkozás
 
@@ -46,11 +46,11 @@
 
 ## A foglalkozás kettős vezetésű.
 
-## A csoportlétszám alsó határa 8, felső határa 12 fő.
+## A csoportlétszám alsó határa 8, felső határa 15 fő.
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-## IV.[^15] program
+## IV.[^17] program
 
 ## Magatartásformálás
 
@@ -60,11 +60,11 @@
 
 ## A foglalkozás kettős vezetésű.
 
-## A csoportlétszám alsó határa 8, felső határa 12 fő.
+## A csoportlétszám alsó határa 8, felső határa 15 fő.
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-## V.[^16] program
+## V.[^18] program
 
 ## Az ,,enyhén ittas vezetők'' foglalkozása
 
@@ -78,7 +78,7 @@
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-## VI.[^17] program
+## VI.[^19] program
 
 ## A ,,közepesen ittas vezetők'' foglalkozása
 
@@ -88,11 +88,11 @@
 
 ## A foglalkozás kettős vezetésű.
 
-## A csoportlétszám alsó határa 8, felső határa 12 fő.
+## A csoportlétszám alsó határa 8, felső határa 15 fő.
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-## VII.[^18] program
+## VII.[^20] program
 
 ## A ,,súlyosan ittas, vagy visszatérő ittas vezetők'' foglalkozása
 
@@ -102,18 +102,18 @@
 
 ## A foglalkozás kettős vezetésű.
 
-## A csoportlétszám alsó határa 8, felső határa 12 fő.
+## A csoportlétszám alsó határa 8, felső határa 15 fő.
 
 ## Tárgyi feltételek: értelemszerűen azonosak az I. programnál feltüntetettekkel.
 
-2. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^19]
+2. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^21]
 
-[^11]: Az 1. számú melléklet I. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 28–29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: Az 1. számú melléklet I. cím 1. franciabekezdése a 351/2010. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^13]: Az 1. számú melléklet II. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^14]: Az 1. számú melléklet III. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: Az 1. számú melléklet IV. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^16]: Az 1. számú melléklet V. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^17]: Az 1. számú melléklet VI. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^18]: Az 1. számú melléklet VII. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^19]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 29. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: Az 1. számú melléklet I. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 28–29. §-a, a 248/2019. (X. 24.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: Az 1. számú melléklet I. cím 1. franciabekezdése a 351/2010. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^15]: Az 1. számú melléklet II. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a, a 248/2019. (X. 24.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^16]: Az 1. számú melléklet III. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a, a 248/2019. (X. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^17]: Az 1. számú melléklet IV. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a, a 248/2019. (X. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^18]: Az 1. számú melléklet V. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: Az 1. számú melléklet VI. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a, a 248/2019. (X. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^20]: Az 1. számú melléklet VII. utánképzési program leírása a 182/2009. (IX. 10.) Korm. rendelet 29. §-a, a 248/2019. (X. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^21]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 29. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
