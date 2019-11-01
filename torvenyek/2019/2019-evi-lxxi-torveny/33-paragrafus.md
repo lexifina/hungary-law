@@ -1,0 +1,11 @@
+## III. Fejezet
+
+## A KÖZPONTI ALRENDSZEREN BELÜLI ELSZÁMOLÁSOK, KAPCSOLATOK
+
+33. § (1) A szociális hozzájárulási adó 2020-ban megfizetett összegének 71,63%-a az Ny. Alapot, 28,37%-a az E. Alapot illeti meg. A szociális hozzájárulási adó megfizetett összegéből az Ny. Alapot és az E. Alapot megillető részt a Nemzeti Adó- és Vámhivatal állapítja meg és naponta utalja át a jogosult számlájára.
+
+(2) Amennyiben az Ny. Alap pénzforgalmi egyenlege a tárgyévi utolsó bevételének beérkezése és az utolsó ellátás kifizetése után többletet mutat, a kincstár intézkedik a többlet összegének visszautalásáról, amely a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 35. cím, 1. alcím, 5. Kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti kiadást csökkenti.
+
+(3) Amennyiben az E. Alap pénzforgalmi egyenlege a tárgyévi utolsó bevételének beérkezése és az utolsó ellátás kifizetése után többletet mutat, a kincstár intézkedik a többlet összegének visszautalásáról, amely a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 35. cím, 2. alcím, 9. Kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti kiadást csökkenti.
+
+(4) A szociál- és nyugdíjpolitikáért felelős miniszter a 2020. évi központi költségvetés január–november havi előzetes tényadatai alapján az államháztartásért felelős miniszterrel egyetértésben a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 7. Nyugdíjbiztosítási Alap befizetése alcím javára történő befizetési kötelezettséget határozhat meg a LXXI. Nyugdíjbiztosítási Alap fejezet, 4. Egyéb befizetések cím, 1. Költségvetési befizetések alcím terhére.
