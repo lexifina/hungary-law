@@ -2,39 +2,11 @@
 
 ## A termék megnevezése
 
-## 1. Kommunikációs eszközök és szolgáltatások
+## 1.[^102]
 
-## 1.1. Beszédcélú kapcsolók, készülékek és kapcsolódó szolgáltatások
+## 2.[^103]
 
-## 1.2. Aktív és passzív hálózati elemek
-
-## 1.3. Mobil kommunikációs eszközök és szolgáltatások
-
-## 1.4. Zártcélú mobil kommunikációs eszközök és szolgáltatások
-
-## 1.5. Kommunikációs eszközökhöz kapcsolódó szolgáltatások
-
-## 2. Információtechnológiai rendszerek és szolgáltatások
-
-## 2.1. Szoftverrendszerek és elemeik
-
-## 2.2. Hardverrendszerek és elemeik
-
-## 2.3. Digitális vizuáltechnikai eszközök
-
-## 2.4. Szoftverekhez kapcsolódó szolgáltatások
-
-## 2.5. Hardverrendszerekhez, kiegészítőikhez kapcsolódó szolgáltatások
-
-## 2.6. Digitális vizuáltechnikai eszközökhöz kapcsolódó szolgáltatások
-
-## 3. Irodatechnikai berendezések és szolgáltatások
-
-## 3.1. Nyomtatók
-
-## 3.2. Másolók és sokszorosítók
-
-## 3.3. Irodatechnikai termékekhez kapcsolódó szolgáltatások
+## 3.[^104]
 
 ## 4. Irodabútorok
 
@@ -84,6 +56,9 @@
 
 ## 9.1. Elektronikus árlejtés szolgáltatás
 
-2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^102]
+2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^105]
 
-[^102]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+[^102]: Az 1. számú melléklet 1. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^103]: Az 1. számú melléklet 2. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^104]: Az 1. számú melléklet 3. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^105]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
