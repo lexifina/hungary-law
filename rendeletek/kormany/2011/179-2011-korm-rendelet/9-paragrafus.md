@@ -1,10 +1,10 @@
-## 8. §[^37]
+## 8. §[^42]
 
 ## 9. Záró rendelkezések
 
 9. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2)[^38]
+(2)[^43]
 
-[^37]: A 8. §-t a 118/2013. (IV. 23.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^38]: A 9. § (2) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^42]: A 8. §-t a 118/2013. (IV. 23.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^43]: A 9. § (2) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.

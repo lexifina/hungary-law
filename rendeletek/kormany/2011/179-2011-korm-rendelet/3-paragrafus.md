@@ -1,20 +1,20 @@
 ## 3. A képzés engedélyezése
 
-3. § (1) A közúti járművezetők képzése, valamint a közúti közlekedési szakemberek képzése és továbbképzése – a (2) bekezdésben foglalt kivétellel – képzési engedély alapján, iskolavezető szakmai irányítása mellett végezhető.
+3. § (1)[^9] A közúti járművezetők képzése, valamint a közúti közlekedési szakemberek képzése és továbbképzése – a (2) és (3a) bekezdésben foglalt kivétellel – képzési engedély alapján, iskolavezető szakmai irányítása mellett végezhető.
 
-(2)[^9] Közúti járművezetők képzése végezhető köznevelési intézményben is köznevelési tevékenység keretében, amennyiben
+(2)[^10] Közúti járművezetők képzése végezhető köznevelési intézményben is köznevelési tevékenység keretében, amennyiben
 
-a)[^10] az adott képzésre vonatkozóan a közlekedési hatóság által meghatározott tanterv beépült az intézménynek a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Kt.) szerinti helyi tantervébe, pedagógiai programjába,
+a)[^11] az adott képzésre vonatkozóan a közlekedési hatóság által meghatározott tanterv beépült az intézménynek a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Kt.) szerinti helyi tantervébe, pedagógiai programjába,
 
-b)[^11] a köznevelési intézmény a képzés jogszabályban meghatározott feltételeit és ügyvitelét teljesíti,
+b)[^12] a köznevelési intézmény a képzés jogszabályban meghatározott feltételeit és ügyvitelét teljesíti,
 
 c) az a) pont szerinti helyi tantervet, pedagógiai programot a Kt. 44. § (1) bekezdés rendelkezései szerint a nevelő testület elfogadta és a fenntartó jóváhagyta, továbbá a képzés indítása előtt a közlekedési hatóság részére előzetesen benyújtotta, és
 
-d)[^12] a köznevelési intézmény a képzés indítását a közlekedési hatóságnak előzetesen bejelentette.
+d)[^13] a köznevelési intézmény a képzés indítását a közlekedési hatóságnak előzetesen bejelentette.
 
-(3)[^13]
+(3)[^14]
 
-(3a)[^14] A járművezető vizsgabiztosok, a szakoktatók és az iskolavezetők képzését és továbbképzését – a közúti közlekedésről szóló 1988. évi I. törvény alapján – a KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság végzi a képzésre, továbbképzésre vonatkozó ügyviteli, dokumentálási, tantervi és vizsgakövetelmények, valamint egyéb szabályzatok alapján.
+(3a)[^15] A járművezető vizsgabiztosok, a szakoktatók és az iskolavezetők képzését és továbbképzését – a közúti közlekedésről szóló 1988. évi I. törvény alapján – a KTI Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társaság országosan végzi a képzésre, továbbképzésre vonatkozó ügyviteli, dokumentálási, tantervi és vizsgakövetelmények, valamint egyéb szabályzatok alapján.
 
 (4) A képzési engedély alapján az ország egész területén végezhető képzés.
 
@@ -22,9 +22,10 @@ d)[^12] a köznevelési intézmény a képzés indítását a közlekedési hat�
 
 (6) A képző szervnek a képzési engedélyben foglaltak szerinti – elméleti vagy gyakorlati – képzés feltételeit folyamatosan biztosítania kell. A csak elméleti képzést végző képző szervnek a tanuló számára biztosítania kell a gyakorlati képzésben történő részvétel lehetőségét is az erre jogosult képző szervvel kötött szerződés útján. A csak gyakorlati képzést végző képző szervnek a tanuló számára biztosítania kell az elméleti képzésben történő részvétel lehetőségét is az erre jogosult képző szervvel kötött szerződés útján.
 
-[^9]: A 3. § (2) bekezdés nyitó szövegrésze a 118/2013. (IV. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^10]: A 3. § (2) bekezdés a) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^11]: A 3. § (2) bekezdés b) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^12]: A 3. § (2) bekezdés d) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
-[^13]: A 3. § (3) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 10. § (2) bekezdése alapján nem lép hatályba.
-[^14]: A 3. § (3a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 285/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdése a 248/2019. (X. 24.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdés nyitó szövegrésze a 118/2013. (IV. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdés a) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdés b) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdés d) pontja a 118/2013. (IV. 23.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdése a 118/2013. (IV. 23.) Korm. rendelet 10. § (2) bekezdése alapján nem lép hatályba.
+[^15]: A 3. § (3a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 285/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított, a 248/2019. (X. 24.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
