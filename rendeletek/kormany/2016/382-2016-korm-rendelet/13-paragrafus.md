@@ -1,4 +1,4 @@
-## jár el.
+## 12/A. § A Kkt. 18. § (15) bekezdése szerinti felügyeleti szervként a Kormány országos illetékességgel a minisztert jelöli ki.
 
 ## 11. A szolgáltatás felügyeletét ellátó hatóságok kijelölése
 

@@ -1,8 +1,8 @@
-## 5/A. §[^44] A pályaalkalmassági vizsgálatok Kkt. 18. § (8) bekezdése szerinti vizsgaközpont által meghatározott módszertanát a miniszter hagyja jóvá.
+## 5/A. §[^47] A pályaalkalmassági vizsgálatok Kkt. 18. § (8) bekezdése szerinti vizsgaközpont által meghatározott módszertanát a miniszter hagyja jóvá.
 
 ## 4. A vasúti közlekedési hatóság kijelölése
 
-6. §[^45] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
+6. §[^48] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
 
 (2) A vasúti közlekedés biztonságával összefüggő munkakört betöltő vasúti munkavállalók vizsgáztatását végző vizsgabiztosokat a miniszter nevezi ki.
 
@@ -14,12 +14,12 @@
 
 (6) A vasútszakmai oktatók névjegyzékét a vasúti közlekedési hatóság vezeti.
 
-(7)[^46] A vasúti közlekedési hatóság jár el
+(7)[^49] A vasúti közlekedési hatóság jár el
 
 a) a vasúti közlekedés alágazatba és
 
 b) – a létfontosságú rendszerelem vasúti kapcsolata esetén – a logisztikai központok alágazatba
 
-[^44]: Az 5/A. §-t a 285/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.
-[^45]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^46]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^47]: Az 5/A. §-t a 285/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.
+[^48]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^49]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.
