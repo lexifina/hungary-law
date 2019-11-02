@@ -1,1 +1,3 @@
-## „(3a) Az utánképzést végzők tevékenységét – különösen a tevékenység végzéséhez meghatározott feltételek és előírások megtartását – a vizsgaközpont rendszeresen ellenőrzi, amelyet az ellenőrzés alá vont szervezet, személy tűrni köteles, azt nem akadályozhatja. Ha a vizsgaközpont – az általa végzett ellenőrzés során feltárt – bármely, jogszabályban vagy az engedélyben előírt feltétel hiányát vagy az utánképzés nem kielégítő szakmai színvonalát állapítja meg, erről tájékoztatja a közlekedési hatóságot.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
