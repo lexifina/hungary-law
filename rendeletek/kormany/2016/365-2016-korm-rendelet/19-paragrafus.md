@@ -1,9 +1,3 @@
-19. § (1) Az üzemanyag töltőállomásokon elvégzendő szénhidrogén emisszió mérését, a pisztolygáz visszavezető és gázinga rendszerek beállítását csak a műszaki biztonsági hatóság által kijelölt tanúsító szervezet végezheti.
+## 18. §[^46]
 
-(2) A kijelölést kérelmező szervezet kijelölés iránti kérelmét a műszaki biztonsági hatósághoz nyújtja be. A kérelmezővel szemben támasztott, a tevékenységhez kapcsolódó személyi, szakmai és tárgyi feltételeket a 4. melléklet tartalmazza.
-
-(3)[^47] A kijelölésről a műszaki biztonsági hatóság engedélyt ad ki, amely a megadásának napjától számított három évig hatályos. Ha a tanúsító szervezet hatósági ellenőrzés alapján nem felel meg az e rendeletben foglalt követelményeknek, a műszaki biztonsági hatóság felhívja a figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel egyidejűleg kötelezi annak megszüntetésére. Ha a felhívásban meghatározott határidő eredménytelenül telt el, a műszaki biztonsági hatóság az engedélyt visszavonja és törli a tanúsító szervezetet a (4) bekezdés szerinti nyilvántartásból.
-
-(4) A műszaki biztonsági hatóság a tanúsító szervezetet közhiteles hatósági nyilvántartásba veszi. A műszaki biztonsági hatóság a nyilvántartásba vett tanúsító szervezetek jegyzékét a műszaki biztonsági hatóság elektronikus tájékoztató oldalán félévenként közzéteszi. A műszaki biztonsági hatóság a tanúsító szervezet megnevezésén, székhelyének címén, a kijelölési okirat számán, valamint a nyilvántartásba vételének időpontján és időbeli hatályán kívül csak olyan adatokat tehet közzé, amelyek közzétételéhez a szervezet előzetesen hozzájárult.
-
-[^47]: A 19. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 583. § (3) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^46]: A 18. §-t a 216/2019. (IX. 5.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
