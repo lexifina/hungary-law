@@ -1,0 +1,5 @@
+6. § (1) Az üzemeltető a létesítési engedélyt és az engedélyezési dokumentációt, valamint az átalakítási bejelentési dokumentációt a tárolótartály leszerelését, megszüntetését követő 5. év végéig megőrzi.
+
+(2) A Hatóság az üzemeltető vagy megbízásából a tervező kérésére a létesítési engedély iránti kérelem benyújtását megelőzően is biztosítja a műszaki előírásokban kellően nem szabályozott kérdésekben, vagy az előírásoktól eltérő, de egyenértékű biztonsági szintre vonatkozó megoldás alkalmazásáról az egyeztetés lehetőségét.
+
+(3) Tárolótartály akkor építhető be a létesítés során, ha kifejezetten a kívánt célra gyártották, vagy arra is alkalmas, és ennek megfelelőségéről a gyártó nyilatkozott. Gyártói megfelelőségi nyilatkozat hiányában a tervező a veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki biztonsági követelményeiről, hatósági felügyeletéről szóló miniszteri rendelet (a továbbiakban: Rendelet) szerinti Műszaki Biztonsági Szabályzatban közzétett követelményeknek vagy az azokkal műszaki biztonsági szempontból egyenértékű követelményeknek való megfelelést igazolja.
