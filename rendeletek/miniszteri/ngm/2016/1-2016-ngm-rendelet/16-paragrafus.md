@@ -1,3 +1,1 @@
-16. § (1) A Hatóság a jogosítottakat kérelmükre a 15. § (3) bekezdése szerinti szervezet tanúsítása alapján veszi nyilvántartásba. A nyilvántartásba vételről szóló határozatban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényben meghatározott adatokon túl fel kell tüntetni a kiadásához alapot adó dokumentumok azonosító jelét, a tanúsítást végző szervezet nevét és azonosításra alkalmas adatait.
-
-(2) A nyilvántartásba vételről szóló határozat a tanúsító szervezet által kiadott, a követelmények teljesítését igazoló dokumentumban foglaltak fennállásáig hatályos. Amennyiben a szolgáltató a 15. § (2) bekezdése szerinti követelményeknek való megfelelést igazolja, a Hatóság határozathozatal mellőzése mellett intézkedik a nyilvántartásban szereplő adatok frissítéséről.
+## 15. §

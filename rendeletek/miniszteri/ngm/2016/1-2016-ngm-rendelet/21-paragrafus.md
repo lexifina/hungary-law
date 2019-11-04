@@ -1,14 +1,29 @@
 ## 20. § A 19. §-ban a forgalomba hozatal tekintetében meghatározott előírásoknak nem kell megfelelnie az olyan tárolótartálynak, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
 
-## 15. A Műszaki Biztonsági Szabályzat, továbbá a Tárolótartály Műszaki Szakbizottság működése és feladatai
+## 15. [^33] A szakági műszaki szakbizottság működése és feladatai
 
-21. § (1) A Műszaki Biztonsági Szabályzat célja, hogy az e rendelet hatálya alá tartozó tárolótartályok, tároló-létesítmények létesítése, helyszíni összeállítása és szerelése, üzembe vétele, üzemeltetése, javítása, átalakítása, ellenőrzése, időszakos ellenőrző vizsgálata, megszüntetése, használati idejének meghosszabbítása, használatának szüneteltetése során betartandó, a megfelelő biztonsággal és megbízhatósággal kapcsolatos műszaki követelményeket meghatározza.
+21. § (1) A rendelet hatálya alá tartozó berendezések és létesítmények létesítési és üzemeltetési tapasztalatainak figyelembevételével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából az iparügyekért felelős miniszter (a továbbiakban: miniszter) szakági műszaki szakbizottságot (a továbbiakban: Szakbizottság) hoz létre.
 
-(2) A Műszaki Biztonsági Szabályzat módosításának előzetes szakmai egyeztetését a Tárolótartály Műszaki Szakbizottság (a továbbiakban: Szakbizottság) végzi. A Szakbizottság a Műszaki Biztonsági Szabályzatot szükség szerinti gyakorisággal, de legalább évente felülvizsgálja, és véleményezi a Szakbizottsághoz beérkezett módosítási javaslatokat. A Műszaki Biztonsági Szabályzat felülvizsgálatára vagy módosítására vonatkozó javaslatát a Szakbizottság az iparügyekért felelős miniszter részére megküldi.
+(2) A Szakbizottság az e rendelet hatálya alá tartozó berendezések és létesítmények tervezésével, létesítésével és üzemeltetésével kapcsolatban szakági műszaki előírások formájában a Műszaki Biztonsági Szabályzat követelményeit az egészségvédelem magas szintjét kielégítő, valamint a műszaki-tudományos színvonallal és a gazdasági megfontolások alapján megvalósítható gyakorlattal összhangban álló műszaki megoldásokat dolgoz ki.
 
-(3)[^4] A Szakbizottság összetételét a Kormányhivatal javaslatára az iparügyekért felelős miniszter határozza meg. A szakbizottsági tagokat az iparügyekért felelős miniszter a Kormányhivatal javaslatára öt év időtartamra bízza meg.
+(3) A Szakbizottságba tagot a következő szervezetek javasolhatnak:
 
-(4)[^5] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
+a) a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala: 1 fő,
 
-[^4]: A 21. § (3) bekezdése a 62/2016. (XII. 29.) NGM rendelet 32. § (4) bekezdésével megállapított szöveg.
-[^5]: A 21. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 32. § (4) bekezdésével megállapított szöveg.
+b) Magyar Ásványolaj Szövetség: 1 fő,
+
+c) Magyar Ipari Gáz Szövetség: 1 fő,
+
+d) Magyar Mérnöki Kamara: 1 fő,
+
+e) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség: 1 fő,
+
+f) a szakterületen működő egyéb, a miniszter által felkért civil szervezetek: 1-1 fő.
+
+(4) A Szakbizottság tagjait az iparügyekért felelős miniszter 5 év időtartamra bízza meg.
+
+(5) A Szakbizottság megalkotja a működési szabályzatát, és tagjai közül 3 év időtartamra megválasztja a Szakbizottság elnökét.
+
+(6) A Szakbizottság által elfogadott szakági műszaki előírásokat a kormányzati honlapon, valamint a termékinformációs pont honlapján közzé kell tenni. A szakági műszaki előírásokban foglalt műszaki megoldást úgy kell tekinteni, hogy az megfelel az adott kor technikai színvonalának.
+
+[^33]: A 15. alcím (21. §) a 31/2019. (IX. 5.) ITM rendelet 2. §-ával megállapított szöveg.
