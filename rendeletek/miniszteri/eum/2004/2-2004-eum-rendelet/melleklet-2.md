@@ -296,6 +296,8 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 4603 | klinikai toxikológia |
 
+| 4604 | sürgősségi pszichiátria |
+
 50 Laboratóriumi diagnosztika
 
 | 5000 | orvosi laboratóriumi diagnosztika |
@@ -640,4 +642,4 @@ h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egé
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^26]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a szerint módosított szöveg.
+[^26]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a, a 24/2019. (X. 31.) EMMI rendelet 3. §-a szerint módosított szöveg.
