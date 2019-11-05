@@ -1,0 +1,3 @@
+## 1. § A tartós külszolgálati pályázati rendszerről, valamint a kihelyező szerv által támasztott szakmai követelmények és azok teljesítésének részletes szabályairól szóló 6/2017. (VII. 10.) KKM rendelet (a továbbiakban: Rendelet) 1. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) E rendelet hatálya a vonatkozó rendelkezések tekintetében kiterjed továbbá a miniszter által közvetlenül irányított vagy felügyelt központi hivatali formában működő kormányzati igazgatási szerv kormánytisztviselőire, a miniszter által irányított, továbbá a miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság munkavállalóira.”
