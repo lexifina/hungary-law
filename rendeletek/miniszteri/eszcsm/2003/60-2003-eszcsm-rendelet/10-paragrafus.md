@@ -1,4 +1,4 @@
-10. §[^42] (1) Az 1. melléklet tartalmazza az egyes egészségügyi szakmáktól független általános minimumfeltételeket.
+10. §[^44] (1) Az 1. melléklet tartalmazza az egyes egészségügyi szakmáktól független általános minimumfeltételeket.
 
 (2) A 2. melléklet tartalmazza az egyes szakmák körébe tartozó egészségügyi szolgáltatások nyújtásához szükséges minimumfeltételeket.
 
@@ -18,4 +18,4 @@ b) ha a közfinanszírozásban részesülő egészségügyi szolgáltató nem k�
 
 (8) Amennyiben valamely szakterület minimumfeltételeit e rendelet nem tartalmazza, az adott ellátásra vonatkozó jogszabály rendelkezései az irányadóak.
 
-[^42]: A 10. § az 1/2012. (V. 31.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^44]: A 10. § az 1/2012. (V. 31.) EMMI rendelet 6. §-ával megállapított szöveg.
