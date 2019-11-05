@@ -24,13 +24,11 @@
 
 11. Egyéb intézkedés.
 
-12.[^23] Az ügyfél nyilatkozata
+12.[^24] Az ügyfél nyilatkozata
 
 A szabályszegés elkövetését elismerem, a tájékoztatást megkaptam, a bírságot a helyszínen készpénzben, bankkártyával megfizetem a későbbi befizetéshez készpénz-átutalási megbízást átvettem.
 
 Tudomásul veszem, hogy mivel a jogsértés tényét nem vitattam, a döntéssel szemben fellebbezésnek nincs helye.
-
-A jelen tájékoztatás átvételétől számított 30 napon belül bírósági felülvizsgálat kezdeményezhető.
 
 Tudomásul veszem, hogy a 30 napon belül meg nem fizetett bírság – a törvényes feltételek megléte esetén – adók módjára behajtható.
 
@@ -38,4 +36,4 @@ Az eljáró hatóság megnevezése, bélyegzőlenyomata, a hatóság eljáró ta
 
 Az ügyfél által történő átvételt igazoló záradék, az ügyfél aláírása.
 
-[^23]: A 3. melléklet 12. pontja a 47/2012. (VIII. 23.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^24]: A 3. melléklet 12. pontja a 47/2012. (VIII. 23.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg. A 3. melléklet 12. pontjában a 31/2019. (XI. 4.) AB határozat 1. pontjával az „A jelen tájékoztatás átvételétől számított 30 napon belül bírósági felülvizsgálat kezdeményezhető.” szövegrészt megsemmisítette.

@@ -1,4 +1,4 @@
-5. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^25]
+5. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^26]
 
 Közigazgatási eljárás kezdeményezése gépjárművezető távollétében kiszabott közigazgatási bírság esetében
 
@@ -22,4 +22,4 @@ __________________
 
 * A megfelelő szövegrész aláhúzandó!
 
-[^25]: Az 5. mellékletet a 47/2012. (VIII. 23.) NFM rendelet 8. § (3) bekezdése iktatta be.
+[^26]: Az 5. mellékletet a 47/2012. (VIII. 23.) NFM rendelet 8. § (3) bekezdése iktatta be.
