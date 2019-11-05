@@ -20,8 +20,6 @@
 
 11. Ez a határozat az elfogadásakor lép hatályba.
 
-12. Hatályát veszti
+12.[^2]
 
-a) a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa tagjait jelölő eseti bizottság létrehozásáról szóló 20/2019. (VII. 2.) OGY határozat;
-
-b) a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa tagjait jelölő eseti bizottság tisztségviselőinek és tagjainak megválasztásáról szóló 21/2019. (VII. 2.) OGY határozat.
+[^2]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
