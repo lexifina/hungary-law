@@ -6,4 +6,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 3. felhívom az emberi erőforrások miniszterét, a külgazdasági és külügyminisztert és az igazságügyi minisztert, hogy a Megállapodás kihirdetéséről szóló kormányrendelet tervezetét a Megállapodás szövegének végleges megállapítását követően haladéktalanul terjesszék a Kormány elé;
 
-4. visszavonom a Magyarország Kormánya és a Török Köztársaság Kormánya közötti kétoldalú oktatási együttműködési egyezmény és a Magyarország Kormánya és a Török Köztársaság Kormánya közötti kétoldalú kulturális együttműködési egyezmény szövegének végleges megállapítására adott felhatalmazásról szóló 21/2019. (III. 1.) ME határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
