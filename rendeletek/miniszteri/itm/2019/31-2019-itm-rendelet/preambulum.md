@@ -1,1 +1,0 @@
-A veszélyes folyadékok vagy olvadékok tárolótartályainak, tároló-létesítményeinek műszaki-biztonsági hatósági felügyeletéről szóló 216/2019. (IX. 5.) Korm. rendelet 27. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 15. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
