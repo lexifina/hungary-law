@@ -1,1 +1,3 @@
-## „(5) A Külszoltv. 10. § (1) bekezdése szerinti pályázatbenyújtásra jogosultakat a minisztérium a pályázat eredményéről elektronikus úton is értesíti.”
+## 10. §[^10]
+
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

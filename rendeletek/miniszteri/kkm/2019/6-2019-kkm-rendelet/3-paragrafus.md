@@ -1,9 +1,3 @@
-## 2. § A Rendelet 3. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+## 2. §[^2]
 
-## „(1a) A miniszter által közvetlenül irányított vagy felügyelt központi hivatali formában működő kormányzati igazgatási szerv kormánytisztviselője, valamint a miniszter által irányított, továbbá a miniszter tulajdonosi joggyakorlása alá tartozó elsődlegesen külgazdasági, így különösen exportösztönzési, külkereskedelem-fejlesztési, beruházásösztönzési, exportfinanszírozási, exporthitelezési, valamint kapcsolódó hitelintézeti feladatokat ellátó gazdasági társaság munkavállalója pályázatot nyújthat be külgazdasági attasé feladatot ellátó diplomata munkakör betöltésére, ha megfelel a 7. § (1), (2) és (7a) bekezdés a) és c) pontja szerinti pályázati feltételeknek, valamint
-
-## a) írásban vállalja, hogy sikeres pályázat esetén legkésőbb a tartós külszolgálati kihelyezés napjáig eredményes külügyi szakmai vizsgát tesz, és
-
-## b) a 3. § (1) bekezdés a)–c) pontjában meghatározott feltételeket a miniszter által közvetlenül irányított vagy felügyelt központi hivatali formában működő kormányzati igazgatási szerv, vagy a miniszter által irányított, továbbá a miniszter tulajdonosi joggyakorlása alá tartozó elsődlegesen külgazdasági, így különösen exportösztönzési, külkereskedelem-fejlesztési, beruházásösztönzési, exportfinanszírozási, exporthitelezési, valamint kapcsolódó hitelintézeti feladatokat ellátó gazdasági társaság munkavállalója állományában teljesítette.
-
-## (1b) Az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatokról, valamint egyes kormányrendeletek módosításáról szóló 17/2019. (II. 14.) Korm. rendelet 4. § (1) bekezdése szerinti, a miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság munkavállalója pályázatot nyújthat be a 7. § (8) bekezdése szerinti munkakör betöltésére.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

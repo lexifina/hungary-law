@@ -1,9 +1,3 @@
-## 8. § A Rendelet 8. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^8]
 
-## „(4) Pályázat
-
-## a) a minisztériummal foglalkoztatásra irányuló jogviszonyban álló, pályázatbenyújtásra jogosultak részéről pályázatban megjelölt címre elektronikus úton,
-
-## b) a Külszoltv. 10. § (1) bekezdése szerinti pályázatbenyújtásra jogosultak részéről papír alapon
-
-## nyújtható be.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

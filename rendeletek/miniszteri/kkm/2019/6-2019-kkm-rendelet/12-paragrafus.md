@@ -1,56 +1,71 @@
-## 11. § A Rendelet 11. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) E rendeletnek a tartós külszolgálati pályázati rendszerről, valamint a kihelyező szerv által támasztott szakmai követelmények és azok teljesítésének részletes szabályairól szóló 6/2017. (VII. 10.) KKM rendelet módosításáról szóló 6/2019. (X. 28.) KKM rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését követően kiírásra kerülő tartós külszolgálati álláspályázatok vonatkozásában kell alkalmazni.”
+## 11. §[^11]
 
 ## 12. § A Rendelet
 
-1. 1. § (1) bekezdésében a „valamint kormányzati ügykezelőire” szövegrész helyébe a „politikai (fő)tanácsadóira, kabinetfőnökre, munkaviszonyban álló foglalkoztatottaira” szöveg,
+1.[^12]
 
-2. 1. § (3) bekezdésében és 5. § (3) bekezdésében a „munkakörben” szövegrész helyébe a „tartós külszolgálati munkakörben” szöveg,
+2.[^13]
 
-3. 2. §-ában a „munkaköröket” szövegrész helyébe a „tartós külszolgálati munkaköröket” szöveg,
+3.[^14]
 
-4. 3. § (1) bekezdés nyitó szövegrészében és b) pontjában, 4. § (1) bekezdésében, 7. § (9) bekezdésében, 8. § (2) bekezdésében, 9. § (2) bekezdésében a „munkakörre” szövegrész helyébe a „tartós külszolgálati munkakörre” szöveg,
+4.[^15]
 
-5. 3. § (1) bekezdés nyitó szövegrészében az „és kormányzati ügykezelő (a továbbiakban együtt: pályázó)” szövegrész helyébe az „(a továbbiakban: pályázó)” szöveg,
+5.[^16]
 
-6.[^1]
+6.[^17]
 
-7. 4. § (3) bekezdés a) pontjában, 5. § (1) bekezdésében és 7. § (10) bekezdésében a „külképviseleti” szövegrész helyébe a „tartós külszolgálati” szöveg,
+7.[^18]
 
-8. 4. § (3) bekezdés a) pontjában az „elsődleges munkakör” szövegrész helyébe az „elsődleges tartós külszolgálati munkakör” szöveg,
+8.[^19]
 
-9. 4. § (3) bekezdés b) pontjában, 7. § (2) bekezdésében, 7. § (8) bekezdésében a „munkakör” szövegrész helyébe a „tartós külszolgálati munkakör” szöveg,
+9.[^20]
 
-10. 4. § (3) bekezdés b) pontjában a „munkakört” szövegrész helyébe a „tartós külszolgálati munkakört” szöveg,
+10.[^21]
 
-11. 4. § (3) bekezdés c) pontjában, 7. § (1) bekezdésében, 7. § (4) és (5) bekezdésében, 7. § (7) bekezdésében a „munkakör” szövegrész helyébe a „tartós külszolgálati munkakör” szöveg,
+11.[^22]
 
-12. 5. § (3) bekezdésében a „kihelyezett” szövegrész helyébe az „e rendelet 1. § (1) és (1a) bekezdésében meghatározott személy” szöveg,
+12.[^23]
 
-13.[^2]
+13.[^24]
 
-14.[^3]
+14.[^25]
 
-15. 7. § (8) bekezdésében az „Adminisztratív munkakörök” szövegrész helyébe az „A Külszoltv. 1. melléklete szerinti adminisztratív- és technikai munkakörök” szöveg,
+15.[^26]
 
-16. 8. § (1) bekezdésében az „állomáshelyre” szövegrész helyébe az „állomáshelyre és legfeljebb három tartós külszolgálati munkakörre” szöveg,
+16.[^27]
 
-17. 8. § (3) bekezdés a) pontjában a „pályázati adatlapot – amelynek formanyomtatványát a 4. melléklet tartalmazza –” szövegrész helyébe a „pályázati adatlapot és kapcsolódó dokumentumokat” szöveg,
+17.[^28]
 
-18. 8. § (3) bekezdés b) pontjában a „Kttv. 176. § (4) bekezdésében, valamint a közszolgálati tisztviselők személyi irataira, a közigazgatási szerveknél foglalkoztatott munkavállalók személyi irataira és a munkaügyi nyilvántartásra, a közszolgálati alapnyilvántartásra és közszolgálati statisztikai adatgyűjtésre, valamint a tartalékállományra vonatkozó egyes szabályokról szóló 45/2012. (III. 20.)” szövegrész helyébe a „Kit. 83. § (5) bekezdésében, valamint a közszolgálati személyügyi nyilvántartásra és statisztikai adatgyűjtésre, a közszolgálati alkalmazottak és a munkavállalók személyi irataira vonatkozó szabályokról, valamint a kormányzati igazgatási szervek álláshelyeinek nyilvántartásáról szóló 87/2019. (IV. 23.)” szöveg,
+18.[^29]
 
-19.[^4]
+19.[^30]
 
-20.[^5]
+20.[^31]
 
-21. 10. § (1) bekezdés a) és b) pontjában a „munkakörök” szövegrész helyébe a „tartós külszolgálati munkakörök” szöveg,
+21.[^32]
 
-22.[^6]
+22.[^33]
 
-[^1]: A 12. § 6. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén hatályba.
-[^2]: A 12. § 13. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén hatályba.
-[^3]: A 12. § 14. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén hatályba.
-[^4]: A 12. § 19. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén hatályba.
-[^5]: A 12. § 20. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén hatályba.
-[^6]: A 12. § 22. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén hatályba.
+[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 12. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 12. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 12. § 6. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
+[^18]: A 12. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 12. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 12. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 12. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 12. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 12. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 12. § 13. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
+[^25]: A 12. § 14. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
+[^26]: A 12. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 12. § 16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 12. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 12. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 12. § 19. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
+[^31]: A 12. § 20. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
+[^32]: A 12. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 12. § 22. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
