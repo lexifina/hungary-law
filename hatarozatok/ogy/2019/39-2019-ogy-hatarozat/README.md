@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-39-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-11-05 | 2019-39-30-41.1 | 39/2019. (XI. 5.) OGY határozat |
+| 2019-11-06 | 2019-39-30-41.2 | 2010: CXXX. törvény |
