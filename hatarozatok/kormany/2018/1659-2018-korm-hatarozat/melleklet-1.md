@@ -2,7 +2,7 @@
 
 ## 2. egyetért azzal, hogy a Beruházás építtetője a Nemzeti Sportközpontok (a továbbiakban: NSK) legyen és a szakmai szempontok és a városi érdekek érvényesülése érdekében az NSK kössön együttműködési megállapodást a Magyar Kézilabda Szövetséggel, valamint Veszprém Megyei Jogú Város Önkormányzatával (a továbbiakban: Önkormányzat);
 
-## 3. a Beruházáshoz szükséges Veszprém külterület 0213/85/A és 0213/85 helyrajzi számú ingatlanok, valamint a Veszprém külterület 0213/85/A helyrajzi számú ingatlan rendeltetésszerű üzemeléséhez szükséges ingóságok per-, teher- és igénymentes állami tulajdonba kerülésének érdekében, továbbá a Beruházás előkészítéséhez, engedélyes és kiviteli terveinek elkészítéséhez legfeljebb 5 321 278 125 forint központi költségvetési forrást biztosít a 2018. és 2019. években az 5. és 10. pontban meghatározott megbontás szerint;
+## 3.[^1] a Beruházáshoz szükséges Veszprém külterület 0213/85/A és 0213/85 helyrajzi számú ingatlanok, valamint a Veszprém külterület 0213/85/A helyrajzi számú ingatlan rendeltetésszerű üzemeléséhez szükséges ingóságok per-, teher- és igénymentes állami tulajdonba kerülésének érdekében, továbbá a Beruházás előkészítéséhez, engedélyes és kiviteli terveinek elkészítéséhez legfeljebb 4 331 518 833 forint központi költségvetési forrást biztosít a 2018. évben az 5. és 10. pontban meghatározott megbontás szerint;
 
 ## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: 2018. évi Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 80. Egyes települési önkormányzatok működési és fejlesztési támogatása címen belül új, 12. Veszprém megyei jogú város sport célú fejlesztésének támogatása alcímmel történő kiegészítését;
 
@@ -26,15 +26,15 @@
 
 ## 7. egyetért azzal, hogy a belügyminiszter a 6. pont szerinti költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az Önkormányzat számára;
 
-## 8. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – a Miniszterelnökséget vezető miniszter, az NSK és a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság közreműködésével – tegye meg a szükséges intézkedéseket a 3. pontban szereplő ingatlanok és ingóságok tulajdonjogának – az Önkormányzat által az állam részére ingyenesen történő átadására irányuló felajánlása esetén – az erről szóló megállapodás megkötése útján történő megszerzése, valamint a Beruházáshoz szükséges további ingatlanok – legfeljebb a független ingatlanforgalmi szakértő által megállapított értéken történő – per-, teher- és igénymentes állami tulajdonba kerülése érdekében, majd gondoskodjon az ingatlanok NSK részére történő vagyonkezelésbe adásáról;
+## 8.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – a Miniszterelnökséget vezető miniszter, az NSK és a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság közreműködésével – tegye meg a szükséges intézkedéseket a 3. pontban szereplő ingatlanok és ingóságok tulajdonjogának – az Önkormányzat által az állam részére ingyenesen történő átadására irányuló felajánlása esetén – az erről szóló megállapodás megkötése útján történő megszerzése, valamint a Beruházáshoz szükséges további ingatlanok – legfeljebb a független ingatlanforgalmi szakértő által megállapított értéken történő – per-, teher- és igénymentes állami tulajdonba kerülése érdekében, majd gondoskodjon az ingatlanok NSK részére történő vagyonkezelésbe adásáról;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## Miniszterelnökséget vezető miniszter
 
-## Határidő: 2019. június 30.
+## Határidő: a Beruházás megvalósításáról szóló döntést követő hat hónapon belül
 
-## 9. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházáshoz szükséges ingatlanok Magyar Állam tulajdonába kerülése és az ahhoz szükséges forrás biztosítása érdekében – az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter közreműködésével – készítsen előterjesztést a Kormány részére;
+## 9.[^3] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházáshoz szükséges ingatlanok Magyar Állam tulajdonába kerülése és az ahhoz szükséges forrás biztosítása érdekében – az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter közreműködésével – készítsen előterjesztést a Kormány részére;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -42,9 +42,9 @@
 
 ## Miniszterelnökséget vezető miniszter
 
-## Határidő: 2019. március 31.
+## Határidő: a Beruházás megvalósításáról szóló döntést követő hat hónapon belül
 
-## 10. egyetért azzal, hogy a Beruházás előkészítéséhez, az engedélyes és kiviteli terveinek elkészítéséhez legfeljebb 1 721 278 125 forint központi költségvetési támogatás kerüljön biztosításra az NSK részére a 2018. és 2019. években a 11. és 12. pont szerinti megbontás szerint;
+## 10.[^4] egyetért azzal, hogy a Beruházás előkészítéséhez, az engedélyes és kiviteli terveinek elkészítéséhez legfeljebb 731 518 833 forint központi költségvetési támogatás kerüljön biztosításra az NSK részére a 2018. évben a 11. pont szerint;
 
 ## 11. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a Beruházás előkészítéséhez, az engedélyes és kiviteli terveinek elkészítéséhez összesen 731 518 833 forint egyszeri átcsoportosítását rendeli el a 2018. évi Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére, a 2018. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára, az 1. melléklet szerint;
 
@@ -56,15 +56,7 @@
 
 ## Határidő: azonnal
 
-## 12. felhívja a Miniszterelnökséget vezető minisztert, a pénzügyminisztert és az emberi erőforrások miniszterét, hogy gondoskodjanak a Beruházás előkészítéséhez, az engedélyes és kiviteli terveinek elkészítéséhez a 2019. évben szükséges, összesen 989 759 292 forint biztosítása érdekében a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport terhére, a 2019. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára történő egyszeri átcsoportosítás céljából – az Áht. 33. § (2) bekezdés szerinti döntés kezdeményezése érdekében – előterjesztés készítéséről a Kormány részére;
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: a 2019. évi költségvetés végrehajtása során, a felmerülés ütemében
+## 12.[^5]
 
 ## 13. felhívja az emberi erőforrások miniszterét, hogy az NSK útján tegye meg a szükséges intézkedéseket a Beruházás előkészítése, az engedélyes és kiviteli terveinek – a Magyar Kézilabda Szövetség közreműködésével történő – elkészítése érdekében, továbbá a kiviteli tervek rendelkezésre állását követően mutassa be a Beruházás forrásszükségletét a Kormány részére;
 
@@ -74,7 +66,7 @@
 
 ## 14. egyetért azzal, hogy a Beruházással összefüggésben az NSK mentesüljön a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontjában foglalt tilalom alól;
 
-## 15.[^1]
+## 15.[^6]
 
 1. melléklet az 1659/2018. (XII. 6.) Korm. határozathoz
 
@@ -156,4 +148,9 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont az 1632/2019. (XI. 8.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: A 8. pont az 1632/2019. (XI. 8.) Korm. határozat 5. pontjával megállapított szöveg.
+[^3]: A 9. pont az 1632/2019. (XI. 8.) Korm. határozat 6. pontjával megállapított szöveg.
+[^4]: A 10. pont az 1632/2019. (XI. 8.) Korm. határozat 7. pontjával megállapított szöveg.
+[^5]: A 12. pontot az 1632/2019. (XI. 8.) Korm. határozat 8. pontja visszavonta.
+[^6]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
