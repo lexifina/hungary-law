@@ -18,7 +18,7 @@ Határidő: az a) alpont tekintetében azonnal
 
 a b) alpont tekintetében a támogatói okirat hatálybalépését követő 30 napon belül
 
-3. felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósításához a 2021. költségvetési évben szükséges – a kincstári díjakkal együtt – legfeljebb 4 397 322 298 forint biztosításáról a központi költségvetés XI. Miniszterelnökség fejezetében;
+3.[^1] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházás megvalósításához a 2021. költségvetési évben szükséges legfeljebb 4 397 322 298 forint biztosításáról a központi költségvetés XI. Miniszterelnökség fejezetében;
 
 Felelős: pénzügyminiszter
 
@@ -33,3 +33,5 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a támogatói okirat hatálybalépését követően azonnal
+
+[^1]: A 3. pont az 1632/2019. (XI. 8.) Korm. határozat 9. pontja szerint módosított szöveg.
