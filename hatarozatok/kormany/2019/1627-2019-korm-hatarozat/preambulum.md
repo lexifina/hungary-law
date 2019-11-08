@@ -1,0 +1,1 @@
+A Kormány elfogadja a 2019–2030 közötti időszakra vonatkozó, a magyar mikro-, kis- és középvállalkozások megerősítésének stratégiáját (a továbbiakban: KKV Stratégia), és az abban foglaltak megvalósítása érdekében
