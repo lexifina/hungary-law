@@ -18,7 +18,7 @@ f)[^5] bontás tudomásulvétele nélkül végzett bontási tevékenység eseté
 
 g) építési engedély nélkül végezhető, de anyagi jogi jogszabályt sértő módon végzett építési tevékenység esetén: 50 000 forint,
 
-h)[^6] az Étv. szerinti egyszerű bejelentés nélkül vagy a bejelentéstől eltérően vagy az anyagi jogi jogszabályt sértő módon vagy a természetes személy építtető esetében 300 négyzetméter összes hasznos alapterületet meghaladóan megépült vagy bővített lakóépület nem saját lakhatásának biztosítására vonatkozóan, vagy nem természetes személy által 300 négyzetméter összes hasznos alapterületet meghaladóan megépült vagy bővített lakóépület esetében bejelentéssel végzett építési tevékenység esetén: 100 000 forint.
+h)[^6] az Étv. szerinti egyszerű bejelentés nélkül vagy – a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kivétellel – a bejelentéstől eltérően vagy az anyagi jogi jogszabályt sértő módon vagy a természetes személy építtető esetében 300 négyzetméter összes hasznos alapterületet meghaladóan megépült vagy bővített lakóépület nem saját lakhatásának biztosítására vonatkozóan, vagy nem természetes személy által 300 négyzetméter összes hasznos alapterületet meghaladóan megépült vagy bővített lakóépület esetében bejelentéssel végzett építési tevékenység esetén: 100 000 forint.
 
 (3) A számított építményérték az elkészült, kivitelezés alatt álló, vagy elbontott
 
@@ -42,7 +42,7 @@ f) világörökségi területen és műemléki védelem alatt álló ingatlanon 
 
 g)[^8] építési napló vezetési kötelezettség alá eső építési tevékenység építési napló nélküli végzése esetén 20%,
 
-h)[^9] az Étv. szerinti egyszerű bejelentés nélkül vagy a bejelentéstől eltérően végzett építési tevékenység esetén 30%,
+h)[^9] az Étv. szerinti egyszerű bejelentés nélkül vagy – a lakóépület építésének egyszerű bejelentéséről szóló kormányrendeletben meghatározott kivétellel – a bejelentéstől eltérően végzett építési tevékenység esetén 30%,
 
 i)[^10] az Étv. szerinti egyszerű bejelentés esetén
 
@@ -68,9 +68,9 @@ b) 200%-a, ha kiszabására olyan személlyel vagy szervezettel szemben kerül s
 [^3]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 177. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^5]: A 3. § (2) bekezdés f) pontja a 441/2015. (XII. 28.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^6]: A 3. § (2) bekezdés h) pontját a 456/2015. (XII. 29.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 144/2017. (VI. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (2) bekezdés h) pontját a 456/2015. (XII. 29.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 144/2017. (VI. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 244/2019. (X. 22.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^7]: A 3. § (4) bekezdés d) pontja a 441/2015. (XII. 28.) Korm. rendelet 75. § (2) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^8]: A 3. § (4) bekezdés g) pontját a 441/2015. (XII. 28.) Korm. rendelet 75. § (3) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^9]: A 3. § (4) bekezdés h) pontját a 456/2015. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^9]: A 3. § (4) bekezdés h) pontját a 456/2015. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 244/2019. (X. 22.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^10]: A 3. § (4) bekezdés i) pontját a 144/2017. (VI. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^11]: A 3. § (8) bekezdés záró szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 177. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
