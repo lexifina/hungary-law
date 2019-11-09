@@ -60,7 +60,7 @@
 
 | 27 | Az építési napló bejegyzésére vonatkozó követelmények megsértése | 80 000 Ft |  | 80 000 Ft | 80 000 Ft |  |  |  |  |
 
-| 28 | Az Étv. 33/A. §-a szerinti egyszerű bejelentés esetén a tervezői művezető legalább hat alkalmának nem teljesítése |  |  | 80 000 Ft |  |  |  |  |  |
+| 28 | Jogszabályban előírt kötelezettség esetén a tervezői művezetés legalább hat alkalmának nem teljesítése |  |  | 80 000 Ft |  |  |  |  |  |
 
 | 29 | Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 5. § (6) vagy (7) bekezdése szerinti tájékoztatás elmulasztása | 50 000 Ft |  |  |  |  |  |  |  |
 
