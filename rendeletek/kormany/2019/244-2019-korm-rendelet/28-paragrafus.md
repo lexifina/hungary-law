@@ -1,4 +1,4 @@
-## 27. §[^25]
+## 27. §[^28]
 
 ## 9. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. § és a 2. § 2019. november 9-én lép hatályba.
 
-[^25]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
