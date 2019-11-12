@@ -1,4 +1,4 @@
-5. melléklet az 53/2017. (X. 18.) FM rendelethez
+5. melléklet az 53/2017. (X. 18.) FM rendelethez[^15]
 
 ## Az 1 MWth és annál nagyobb teljes névleges bemenő hőteljesítményű II. kategóriájú tüzelőberendezésekre vonatkozó kibocsátási határértékek
 
@@ -16,7 +16,7 @@
 
 |  | 4. | Szilárd anyag | 20 | 20 | 20 | 20 | 5 | 5 |
 
-|  | 5. | CO | 1500 | 300 | 175 | 175 | 100 | 100 |
+|  | 5. | CO | 375 | 300 | 175 | 175 | 100 | 100 |
 
 |  | 6. | TOC* | 75 |  |  |  |  |  |
 
@@ -26,9 +26,9 @@
 
 2.2. Az SO2-kibocsátási határérték a vas- és acélipari kokszolókemencéből kibocsátott alacsony fűtőértékű gázok (kamragáz) esetében 400 mg/Nm3, a nagyolvasztóból kibocsátott alacsony fűtőértékű gázok (kohógáz) esetében 200 mg/Nm3.
 
-2.3. Az NOx-kibocsátási határérték az 1 MWth és annál nagyobb, de 5 MWth-ot meg nem haladó teljes névleges bemenő hőteljesítményű, lignit tüzelés esetében 320 mg/m3, egyéb szilárd tüzelőanyaggal üzemelő tüzelőberendezések esetében 500 mg/Nm3.
+2.3. Az NOx-kibocsátási határérték az 1 MWth és annál nagyobb, de 5 MWth-ot meg nem haladó teljes névleges bemenő hőteljesítményű szilárd tüzelőanyaggal üzemelő tüzelőberendezések esetében 500 mg/Nm3, azzal a kivétellel, hogy a lignit tüzelés esetében 320 mg/Nm3, szilárd biomassza tüzelőanyagot használó fluid tüzelésű kazán esetében 300 mg/Nm3.
 
-2.4. Az NOx-kibocsátási határérték, fluid tüzelésű kazán esetében 210 mg/m3.
+2.4. Az NOx-kibocsátási határérték egyéb szilárd tüzelőanyagot használó fluid tüzelésű kazán esetében 210 mg/Nm3.
 
 2.5. A szilárdanyag-kibocsátás határérték a szilárd tüzelőanyaggal üzemelő tüzelőberendezéseknél a következő:
 
@@ -74,9 +74,11 @@ a) 1300 mg/Nm3 a 20 MWth-ot meg nem haladó teljes névleges bemenő hőteljesí
 
 1200 percenkénti fordulatszámú dízelmotorok esetében;
 
-b) 1850 mg/Nm3 a 20 MWth-ot meghaladó teljes névleges bemenő hőteljesítményű dízelmotorok esetében;
+b) 1500 mg/Nm3 a 20 MWth-ot meghaladó teljes névleges bemenő hőteljesítményű dízelmotorok esetében és a folyékony üzemmódban működő kettős üzemű motorok esetében;
 
-c) 750 mg/Nm3 az 1200-nál nagyobb percenkénti fordulatszámú dízelmotorok esetében.
+c) 750 mg/Nm3 az 1200-nál nagyobb percenkénti fordulatszámú dízelmotorok esetében;
+
+d) 380 mg/Nm3 a gáz üzemmódban működő kettős üzemű motorok esetében.
 
 3.3. Az NOx-kibocsátási határérték a folyékony üzemmódban működő kettős üzemű motorok, és a 20 MWth-ot meg nem haladó teljes névleges bemenő hőteljesítményű, legfeljebb 1200 percenkénti fordulatszámú, tüzelőolajtól eltérő folyékony tüzelőanyaggal üzemelő dízelmotorok esetében 225 mg/Nm3.
 
@@ -89,3 +91,7 @@ c) 750 mg/Nm3 az 1200-nál nagyobb percenkénti fordulatszámú dízelmotorok es
 3.7. A gázturbinák esetében a korom kibocsátási határértéke a Bacharach-skála szerinti feketedési számmal kifejezett érték.
 
 3.8. A CO-kibocsátási határérték biogáz- és depóniagáz-üzemű gázmotorok esetében 260 mg/Nm3.
+
+3.9. A TOC-kibocsátási határérték az 5%-nál nagyobb etántartalmú földgázt használó gázmotorok esetében 95 mg/m3.
+
+[^15]: Az 5. melléklet az 51/2019. (X. 28.) AM rendelet 4. § (5) bekezdése szerint módosított szöveg.

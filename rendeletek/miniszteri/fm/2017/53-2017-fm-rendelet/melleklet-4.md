@@ -1,4 +1,4 @@
-4. melléklet az 53/2017. (X. 18.) FM rendelethez
+4. melléklet az 53/2017. (X. 18.) FM rendelethez[^14]
 
 ## Az 1 MWth-nál kisebb névleges bemenő hőteljesítményű II. kategóriájú tüzelőberendezésekre vonatkozó kibocsátási határértékek
 
@@ -30,7 +30,7 @@
 
 2.4. Az SO2-kibocsátási határérték a vas- és acélipari kokszolókemencéből kibocsátott alacsony fűtőértékű gázok (kamragáz) esetében 400 mg/Nm3, a nagyolvasztóból kibocsátott alacsony fűtőértékű gázok (kohógáz) esetében 200 mg/Nm3.
 
-2.5. Az NOx-kibocsátási határérték lignit tüzelés esetében 320 mg/m3, fluid tüzelésű kazán esetében 210 mg/m3.
+2.5. 2.5. Az NOx-kibocsátási határérték lignit tüzelés esetében 320 mg/m3, szilárd biomassza tüzelőanyagot használó fluid tüzelésű kazán esetében 300 mg/m3, egyéb szilárd tüzelőanyagot használó fluid tüzelésű kazán esetében 210 mg/m3.
 
 2.6. A biogázzal üzemelő berendezések esetében az SO2-kibocsátási határérték 65 mg/Nm3, a szilárdanyag-kibocsátási határérték 9 mg/m3, a CO-kibocsátási határérték 180 mg/m3.
 
@@ -64,16 +64,16 @@
 
 3.2. Az NOx-kibocsátási határérték folyékony tüzelőanyagot felhasználó, négyütemű motorok esetében 190 mg/m3.
 
-3.3. Az NOx-kibocsátási határérték 1850 mg/Nm3 az alábbiak esetében:
+3.3. A NOx-kibocsátási határérték dízelmotorok esetében, amennyiben NOx-kibocsátásuk elsődleges intézkedésekkel korlátozott, a kizárólag kutatófúrásoknál alkalmazott dízelmotorok esetén 1650 mg/m3, egyéb dízelmotorok esetén 1500 mg/m3.
 
-a) dízelmotorok, amelyeknek gyártása 2006. május 18. előtt megkezdődött;
-
-b) kettős üzemű motorok folyékony üzemmódban.
-
-3.4. Az NOx-kibocsátási határértékek a gázüzemmódban működő kettős üzemű motorok esetében 380 mg/Nm3.
+3.4.
 
 3.5. A gázturbinák esetében az NOx-kibocsátási határértékek kizárólag 70%-nál nagyobb terhelésre vonatkoznak.
 
 3.6. A gázturbinák esetében a korom kibocsátási határértéke a Bacharach-skála szerinti feketedési számmal kifejezett érték.
 
 3.7. A CO-kibocsátási határérték biogáz- és depóniagáz-üzemű gázmotorok esetében 260 mg/Nm3.
+
+3.8. A TOC-kibocsátási határérték az 5%-nál nagyobb etántartalmú földgázt használó gázmotorok esetében 95 mg/m3.
+
+[^14]: A 4. melléklet az 51/2019. (X. 28.) AM rendelet 4. § (4) bekezdése és 5. §-a szerint módosított szöveg.
