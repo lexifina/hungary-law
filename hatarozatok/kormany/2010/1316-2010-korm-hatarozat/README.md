@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1316-30
 | 2014-11-21 | 2010-1316-30-22.16 | 1664/2014. (XI. 20.) Korm. határozat |
 | 2016-06-14 | 2010-1316-30-22.17 | 1296/2016. (VI. 13.) Korm. határozat |
 | 2019-08-28 | 2010-1316-30-22.18 | 1513/2019. (VIII. 27.) Korm. határozat |
+| 2019-11-14 | 2010-1316-30-22.19 | 1639/2019. (XI. 14.) Korm. határozat |
