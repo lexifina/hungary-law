@@ -1,4 +1,4 @@
-## 45. §[^15] Ez a rendelet
+## 45. §[^16] Ez a rendelet
 
 a) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló, 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -6,4 +6,4 @@ b) a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 109
 
 való megfelelést szolgálja.
 
-[^15]: A 45. § a 172/2017. (VI. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^16]: A 45. § a 172/2017. (VI. 29.) Korm. rendelet 23. §-ával megállapított szöveg.
