@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-56-20-8
 | 2018-12-07 | 2008-56-20-82.18 | 8/2010. (II. 4.) FVM rendelet |
 | 2019-01-01 | 2008-56-20-82.19 | 35/2018. (XII. 6.) AM rendelet |
 | 2019-03-09 | 2008-56-20-82.20 | 35/2018. (XII. 6.) AM rendelet |
+| 2019-11-15 | 2008-56-20-82.21 | 52/2019. (XI. 14.) AM rendelet |

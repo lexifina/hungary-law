@@ -18,8 +18,11 @@ c)[^4] kötelezettséget vállal arra, hogy
 
 ca) a b) pontban meghatározott nyilatkozataiban közölt tényekben bekövetkező változást a szolgáltatónak, annak bekövetkezésétől számított 15 napon belül jelzi, valamint
 
-cb) amennyiben megállapítást nyer, hogy támogatott szolgáltatás igénybevételére nem jogosult, a bruttó számlaértéket megfizeti az állati hulla elszállítását és megsemmisítését végző szolgáltató részére.
+cb) amennyiben megállapítást nyer, hogy támogatott szolgáltatás igénybevételére nem jogosult, a bruttó számlaértéket megfizeti az állati hulla elszállítását és megsemmisítését végző szolgáltató részére;
+
+d)[^5] nem címzettje érvényben lévő támogatás visszafizetésére kötelező olyan európai bizottsági határozatnak, amely a támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította.
 
 (2) A gyűjtő-átrakó létesítmény üzemeltetője az e rendelet hatálya alá tartozó állati hullák gyűjtő-átrakó létesítményből az ártalmatlanító üzembe történő elszállítására és ártalmatlanítására a kedvezményezett nevében veheti igénybe a támogatott szolgáltatást, ez esetben a kedvezményzett részére a szolgáltatást a támogatás mértékével csökkentve kell elszámolnia.
 
 [^4]: A 4. § (1) bekezdés c) pontját a 75/2012. (VII. 25.) VM rendelet 1. §-a iktatta be.
+[^5]: A 4. § (1) bekezdés d) pontját az 52/2019. (XI. 14.) AM rendelet 2. §-a iktatta be.
