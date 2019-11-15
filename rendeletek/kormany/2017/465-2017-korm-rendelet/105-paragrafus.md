@@ -1,3 +1,3 @@
-105. §[^42] Ha az eljárásban az adóhatóság megkeresése szükséges, a megkeresést az adóhatóság tizenöt napon belül teljesíti.
+105. §[^59] Ha az eljárásban az adóhatóság megkeresése szükséges, a megkeresést az adóhatóság tizenöt napon belül teljesíti.
 
-[^42]: A 105. § a 311/2018. (XII. 27.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^59]: A 105. § a 311/2018. (XII. 27.) Korm. rendelet 34. §-ával megállapított szöveg.

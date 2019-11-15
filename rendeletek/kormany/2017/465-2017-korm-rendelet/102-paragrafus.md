@@ -1,6 +1,6 @@
-## VIII. Fejezet
+## VIII. Fejezet[^58]
 
-## A FELTÉTELES ADÓMEGÁLLAPÍTÁS IRÁNTI KÉRELEM BENYÚJTÁSÁNAK, NYILVÁNTARTÁSÁNAK, A DÍJ MEGFIZETÉSÉNEK ÉS VISSZATÉRÍTÉSÉNEK MÓDJÁRÓL ÉS RÉSZLETES FELTÉTELEIRŐL, VALAMINT A DÖNTÉSI ELJÁRÁS RÉSZLETES SZABÁLYAIRÓL
+## A FELTÉTELES ADÓMEGÁLLAPÍTÁS IRÁNTI KÉRELEM BENYÚJTÁSÁNAK, NYILVÁNTARTÁSÁNAK MÓDJÁRÓL ÉS RÉSZLETES FELTÉTELEIRŐL, VALAMINT A DÖNTÉSI ELJÁRÁS RÉSZLETES SZABÁLYAIRÓL
 
 ## 49. Feltételes adómegállapítás iránti kérelem benyújtása és a kérelem alapján induló eljárás részletszabályai
 
@@ -9,3 +9,5 @@
 (2) Új kérelemnek minősül, ha az adózó a kérelemben ismertetett tényállás lényeges elemeit a kérelem benyújtása és elbírálása közötti időszakban megváltoztatja.
 
 (3) Külföldi illetőségű személy feltételes adómegállapítás iránti kérelmét kizárólag belföldi képviselője útján terjesztheti elő.
+
+[^58]: A VIII. fejezet címe a 260/2019. (XI. 7.) Korm. rendelet 15. § 5. pontja szerint módosított szöveg.

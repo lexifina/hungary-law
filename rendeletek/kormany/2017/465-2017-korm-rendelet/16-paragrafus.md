@@ -10,7 +10,9 @@ c) cégbejegyzésre nem kötelezett jogi személy, egyéb szervezet végelszámo
 
 d) az egyszerűsített végelszámolás megindulása, valamint annak megszüntetése és a cég működésének továbbfolytatása,
 
-e) az adóköteles tevékenység vagy a jogi személy, egyéb szervezet megszűnése.
+e) az adóköteles tevékenység vagy a jogi személy, egyéb szervezet megszűnése,
+
+f)[^15] a csoportos társasági adóalanyban részt vevő csoporttag tekintetében a Tao tv. 2/A. § (2)–(4) bekezdésében meghatározott feltételek nem vagy nem teljes körű teljesülése.
 
 (2) A cég, a bíróság által nyilvántartandó jogi személy létesítő okiratában nem szereplő, de ténylegesen végzett tevékenység esetén a tevékenység megkezdését, illetve a bejelentett vagy bejelenteni elmulasztott tevékenység megszűnését követő tizenöt napon belül tesz bejelentést.
 
@@ -30,6 +32,7 @@ b) a kapcsolt vállalkozásnak minősülő másik személy nevét (elnevezését
 
 (8) Az egyéni vállalkozó adózó az egyéni vállalkozók nyilvántartásában nem szereplő, az Art. 1. melléklete szerinti adatainak változását az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró hatóság útján is bejelentheti az állami adó- és vámhatósághoz.
 
-(9)[^14] A helyi önkormányzat és intézménye, valamint a nemzetiségi önkormányzat és intézménye foglalkoztató adózó esetében az állami adó- és vámhatóság a Kincstár által átadott adatok alapján veszi nyilvántartásba az eljáró képviselő adatait és a képviseleti jogosultsága terjedelmét. E bekezdés alkalmazásában a képviseleti adatok és jogosultságok nyilvántartásba vételéhez szükséges adatokat a Kincstár – az állami adóhatósággal egyeztetett módon és időpontban – elektronikus formában átadja az állami adóhatóság részére. Az adatátadás tartalmazza a képviselőként eljáró személy nevét, adóazonosító jelét, képviseleti jogosultsága kezdő időpontját, terjedelmét, az általa képviselt adózó elnevezését, adószámát, valamint a kapcsolattartáshoz szükséges adatokat. A képviseleti jogosultság a Kincstár általi illetmény-számfejtési feladatellátáshoz kapcsolódó valamennyi adóhatósági adatszolgáltatásra, tájékoztatásra, visszaigazolásra kiterjed.
+(9)[^16] A helyi önkormányzat és intézménye, valamint a nemzetiségi önkormányzat és intézménye foglalkoztató adózó esetében az állami adó- és vámhatóság a Kincstár által átadott adatok alapján veszi nyilvántartásba az eljáró képviselő adatait és a képviseleti jogosultsága terjedelmét. E bekezdés alkalmazásában a képviseleti adatok és jogosultságok nyilvántartásba vételéhez szükséges adatokat a Kincstár – az állami adóhatósággal egyeztetett módon és időpontban – elektronikus formában átadja az állami adóhatóság részére. Az adatátadás tartalmazza a képviselőként eljáró személy nevét, adóazonosító jelét, képviseleti jogosultsága kezdő időpontját, terjedelmét, az általa képviselt adózó elnevezését, adószámát, valamint a kapcsolattartáshoz szükséges adatokat. A képviseleti jogosultság a Kincstár általi illetmény-számfejtési feladatellátáshoz kapcsolódó valamennyi adóhatósági adatszolgáltatásra, tájékoztatásra, visszaigazolásra kiterjed.
 
-[^14]: A 16. § (9) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^15]: A 16. § (1) bekezdés f) pontját a 260/2019. (XI. 7.) Korm. rendelet 3. §-a iktatta be.
+[^16]: A 16. § (9) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 26. §-ával megállapított szöveg.
