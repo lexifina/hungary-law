@@ -1,4 +1,4 @@
-## 11. § A Kincstár a támogatást 2019. december 31-ig fizeti ki.
+## 11. §[^2] A Kincstár a támogatást 2020. február 29-éig fizeti ki.
 
 12. § (1) A támogatással érintett ipari célú nyers alkohol hasznosításra történő átadásáról a lepárlóüzemnek értesítenie kell a Kincstárt a közleményben közétett módon, az átadás időpontját legalább 48 órával megelőzően. Az értesítésnek tartalmaznia kell
 
@@ -23,3 +23,5 @@ b) az ipari célú nyers alkohol előállítójának azonosító adatait (cégn�
 c) a hasznosító arra vonatkozó nyilatkozatát, mely szerint az ipari célú nyers alkoholt kizárólag ipari célra hasznosítja,
 
 d) a nyilatkozat kiállítójának cégszerű aláírását.
+
+[^2]: A 11. § az 52/2019. (XI. 14.) AM rendelet 8. §-a szerint módosított szöveg.
