@@ -1,19 +1,15 @@
 ## 12. A kéményseprő-ipari szerv és a kéményseprő-ipari szolgáltató közötti, a tevékenység ellátásához szükséges adatok és dokumentumok átadásának rendje
 
-18. § (1) A Kstv. 10. § (13) bekezdése szerinti szolgáltató a kéményseprő-ipari szerv részére előre egyeztetett időpontban, személyesen adja át
+18. §[^20] (1) A kéményseprő-ipari szolgáltató a Kstv. 6. § (5a) bekezdése szerinti átadási kötelezettségét a Kstv. 2. § (1) bekezdés a) és b) pontjában meghatározott ingatlanok szerinti bontásban, előre egyeztetett időpontban és módon, személyesen teljesíti, amelyről a kéményseprő-ipari szerv jegyzőkönyvet vesz fel.
 
-a) a kéményseprő-ipari szerv székhelyén a Kstv. 10. § (13) és (15) bekezdésében meghatározott adathordozót, az adatbázis leíró adatait, valamint az adathordozón alkalmazott szoftverek és azok szolgáltatójának megnevezését,
+(2) A kéményseprő-ipari szerv a nyilvántartásba vett ellátási területen lévő, a Kstv. 2. § (1) bekezdés b) pontja szerinti ingatlanokra vonatkozóan
 
-b) előre egyeztetett helyszínen a Kstv. 10. § (14) bekezdésében meghatározott iratokat.
+a) a 9. § (1) bekezdése szerinti nyilvántartás adatait a kéményseprő-ipari szolgáltató részére a Kstv. 7. § (4) bekezdésében meghatározott nyilvántartásba való felvételt követően, valamint
 
-(2) Az (1) bekezdésben meghatározott átadás-átvételről a kéményseprő-ipari szerv jegyzőkönyvet vesz fel.
+b) a lezárt és a folyamatban lévő ügyekre vonatkozó, a Kstv. 6. § (5a) bekezdés b) és c) pontja szerinti adatokat az ingatlanhasználó megrendelését teljesítő kéményseprő-ipari szolgáltató részére, annak megkeresésétől számított 8 napon belül
 
-(3) A kéményseprő-ipari szerv a Kstv. 10. § (17) bekezdésében meghatározott felmérés eredményéről a kéményseprő-ipari szolgáltatót elektronikus adathordozón értesíti.
+az (1) bekezdésben meghatározott módon adja át.
 
-(4) A kéményseprő-ipari szerv a kéményseprő-ipari szolgáltató részére a Kstv. 7. § (4) bekezdésében meghatározott nyilvántartásba való felvételét követően a Kstv. 2. § (1) bekezdés b) pontja szerinti ingatlanokra vonatkozóan a Kstv. 6. § (5) bekezdésében és a Kstv. 10. § (17) bekezdésében meghatározott adatokat az (1) bekezdésben meghatározott módon átadja.
+(3) A kéményseprő-ipari szerv a Kstv. 10. § (17) bekezdésében meghatározott felmérés eredményéről a kéményseprő-ipari szolgáltatót elektronikus úton értesíti.
 
-(5) A Kstv. 7. § (4) bekezdésében meghatározott nyilvántartásból törölt kéményseprő-ipari szolgáltató a Kstv. 6. § (5) bekezdésében meghatározott adatokat a kéményseprő-ipari szerv részére az (1) bekezdésben meghatározott módon átadja.
-
-(6) A kéményseprő-ipari szerv az (5) bekezdés szerint átvett, a Kstv. 2. § (1) bekezdés b) pontjában meghatározott ingatlanokra vonatkozó adatokat az (1) bekezdésben meghatározott módon átadja a megye közigazgatási területén tevékenységet ellátó kéményseprő-ipari szolgáltatók részére.
-
-(7) A Kstv. 10. § (11) bekezdése szerinti közérdekű szolgáltató a Kstv. 6. § (5) bekezdése alapján a Kstv. 10. § (13) és (15) bekezdésében meghatározott adathordozót, az adatbázis leíró adatait, az adathordozón alkalmazott szoftverek és azok szolgáltatójának megnevezését, valamint a Kstv. 10. § (14) bekezdésében meghatározott iratokat az (1) és (2) bekezdésben meghatározott módon adja át 2016. július 1-ig a kéményseprő-ipari szerv részére.
+[^20]: A 18. § a 38/2019. (XI. 7.) BM rendelet 4. §-ával megállapított szöveg.

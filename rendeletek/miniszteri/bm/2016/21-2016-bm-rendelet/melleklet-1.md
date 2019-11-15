@@ -1,4 +1,4 @@
-1. melléklet a 21/2016. (VI. 9.) BM rendelethez[^21]
+1. melléklet a 21/2016. (VI. 9.) BM rendelethez[^22]
 
 I. Ellenőrzés
 
@@ -294,4 +294,4 @@ VIII. A tervezett vagy a tervezéssel érintett égéstermék-elvezető műszaki
 
 IX. Eszközjegyzék
 
-[^21]: Az 1. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § c) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § c) pontja szerint módosított szöveg.
