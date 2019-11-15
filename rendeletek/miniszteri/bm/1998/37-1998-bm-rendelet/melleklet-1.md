@@ -1,6 +1,6 @@
-## 12. §[^21] E rendelet 1. számú melléklete az egységes útlevél bevezetéséről szóló 1981. június 23-i tanácsi állásfoglalás I. melléklete B. a. pontjának való megfelelést szolgálja.
+## 12. §[^22] E rendelet 1. számú melléklete az egységes útlevél bevezetéséről szóló 1981. június 23-i tanácsi állásfoglalás I. melléklete B. a. pontjának való megfelelést szolgálja.
 
-1. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^22]
+1. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^23]
 
 ## Az útlevél adattartalma
 
@@ -56,5 +56,5 @@ Az úti okmány borítójának színe
 
 = szolgálati útlevél burgundi vörös
 
-[^21]: A 12. §-t a 23/2006. (IX. 27.) IRM rendelet 3. §-a iktatta be.
-[^22]: Az 1. számú melléklet a 23/2006. (IX. 27.) IRM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^22]: A 12. §-t a 23/2006. (IX. 27.) IRM rendelet 3. §-a iktatta be.
+[^23]: Az 1. számú melléklet a 23/2006. (IX. 27.) IRM rendelet 4. § (1) bekezdésével megállapított szöveg.

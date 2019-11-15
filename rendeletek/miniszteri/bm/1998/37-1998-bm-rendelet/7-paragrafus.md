@@ -1,3 +1,3 @@
-## 6. §[^11]
+## 6. §[^12]
 
-[^11]: A 6. §-t a 64/2004. (X. 28.) BM rendelet 7. § (1) bekezdésének b) pontja hatályon kívül helyezte.
+[^12]: A 6. §-t a 64/2004. (X. 28.) BM rendelet 7. § (1) bekezdésének b) pontja hatályon kívül helyezte.
