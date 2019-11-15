@@ -1,4 +1,4 @@
-## 16. §[^1]
+## 16. §[^2]
 
 1. melléklet a 47/2019. (X. 14.) AM rendelethez
 
@@ -34,4 +34,4 @@ A termeléshez kötött közvetlen támogatások igénybevételének szabályair
 
 | 14. | szálas fehérjetakarmány-növény termesztés támogatása | 16 910 |
 
-[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
