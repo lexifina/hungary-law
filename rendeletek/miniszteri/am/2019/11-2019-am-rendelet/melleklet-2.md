@@ -22,4 +22,6 @@
 
 | 10 | növendék pulyka | 0,0067 |
 
-2. melléklet a 11/2019. (IV. 1.) AM rendelethez
+2. melléklet a 11/2019. (IV. 1.) AM rendelethez[^18]
+
+[^18]: A 2. melléklet az 52/2019. (XI. 14.) AM rendelet 6. §-ával megállapított szöveg.

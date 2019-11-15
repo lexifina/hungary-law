@@ -26,11 +26,11 @@ a) az (1) bekezdés a) pontja szerinti tevékenység esetében minden baromfi me
 
 b)[^9] az (1) bekezdés b) pontja szerinti tevékenység esetében a naposkori letelepítési, házi tyúknál és növendék pulykánál az átminősítéskori állatlétszám.
 
-(6) E rendelet alapján mezőgazdasági csekély összegű támogatás az adott támogatási évre vonatkozóan legfeljebb 1,025 milliárd forint összegig állapítható meg.
+(6)[^10] E rendelet alapján mezőgazdasági csekély összegű támogatás az adott támogatási évre vonatkozóan legfeljebb 2,5 milliárd forint összegig állapítható meg.
 
 (7) A Kincstár a forrás rendelkezésre állását követően intézkedik a támogatás folyósításáról.
 
-(8)[^10] A Kincstár a mezőgazdasági csekély összegű támogatás összegét a (2)–(4) bekezdésben meghatározott feltételek teljesülése esetén a mezőgazdasági termelő és a vele egy és ugyanazon vállalkozás rendelkezésére álló szabad mezőgazdasági csekély összegű támogatási keret alapján állapítja meg.
+(8)[^11] A Kincstár a mezőgazdasági csekély összegű támogatás összegét a (2)–(4) bekezdésben meghatározott feltételek teljesülése esetén a mezőgazdasági termelő és a vele egy és ugyanazon vállalkozás rendelkezésére álló szabad mezőgazdasági csekély összegű támogatási keret alapján állapítja meg.
 
 (9) Ha a mezőgazdasági csekély összegű támogatások esetében az adott negyedévre igényelt támogatás összegével az igénylő túllépi az Átr. 11. § (8) bekezdésében meghatározott csekély összegű támogatási keretet, akkor a kifizetési kérelemben feltüntetett igénynek a fenti összeget meghaladó részét a Kincstár elutasítja.
 
@@ -41,4 +41,5 @@ b)[^9] az (1) bekezdés b) pontja szerinti tevékenység esetében a naposkori l
 (12) A mezőgazdasági csekély összegű támogatások tekintetében a forintban meghatározott összegek euróra történő átszámításánál a mezőgazdasági csekély összegű támogatás iránti kérelem benyújtási hónapjának első napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyam alkalmazandó.
 
 [^9]: A 11. § (5) bekezdés b) pontja a 26/2019. (VI. 7.) AM rendelet 12. § h) pontja szerint módosított szöveg.
-[^10]: A 11. § (8) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § i) pontja szerint módosított szöveg.
+[^10]: A 11. § (6) bekezdése az 52/2019. (XI. 14.) AM rendelet 7. § b) pontja szerint módosított szöveg.
+[^11]: A 11. § (8) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § i) pontja szerint módosított szöveg.
