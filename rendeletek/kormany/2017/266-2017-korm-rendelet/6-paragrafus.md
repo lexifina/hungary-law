@@ -1,3 +1,3 @@
-## 5/D. §[^6] A Beruházás tekintetében az építési engedélyezési eljárás és a használatbavételi engedélyezési eljárás során az 1. § (1) bekezdés b) pontja szerinti telkeket rendezettnek kell tekinteni abban az esetben is, ha a telket érintő telekhatár-rendezés még nem történt meg.
+## 5/E. §[^8] Az 1. § (1) bekezdés b) pontjában megjelölt helyrajzi számokon nyilvántartott ingatlanok vonatkozásában megvalósuló beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet az R. 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
 
-[^6]: Az 5/D. §-t a 149/2018. (VIII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 5/E. §-t a 265/2019. (XI. 14.) Korm. rendelet 2. §-a iktatta be.
