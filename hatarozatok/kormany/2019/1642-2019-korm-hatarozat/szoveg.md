@@ -36,4 +36,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. február 29.
 
-7. visszavonja a Modern Városok Program keretében a szegedi sportfejlesztések megvalósítása érdekében támogatás biztosításáról szóló 2014/2017. (XII. 22.) Korm. határozatot.
+7.[^1]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
