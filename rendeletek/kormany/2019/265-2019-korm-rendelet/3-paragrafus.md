@@ -1,0 +1,3 @@
+## 2. § Az R. a következő 5/E. §-sal egészül ki:
+
+## „5/E. § Az 1. § (1) bekezdés b) pontjában megjelölt helyrajzi számokon nyilvántartott ingatlanok vonatkozásában megvalósuló beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet az R. 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.”
