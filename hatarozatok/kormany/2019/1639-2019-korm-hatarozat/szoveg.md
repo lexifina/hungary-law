@@ -14,14 +14,6 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2020. július 31.
 
-3. A Kormány által alapított közalapítványokkal és alapítványokkal kapcsolatos időszerű intézkedésekről szóló 1159/2010. (VII. 30.) Korm. határozat által előírt felülvizsgálati eljárás megállapításai alapján szükséges intézkedésekről szóló 1316/2010. (XII. 27.) Korm. határozat
+3.[^1]
 
-a) 9.6. pontja a következő 9.6.7. alponttal egészül ki:
-
-(A Kormány a kormányzati struktúrában történt változásokra tekintettel az alapítói jogok gyakorlásával megbízza az innovációért és technológiáért felelős minisztert)
-
-„9.6.7. a Tempus Közalapítvány”
-
-(tekintetében)
-
-b) 9.5.6. pontja hatályát veszti.
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
