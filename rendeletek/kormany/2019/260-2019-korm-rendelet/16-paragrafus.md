@@ -1,0 +1,5 @@
+16. § (1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
+
+(2) Az 1. § 2020. január 1-jén lép hatályba.
+
+(3) A 6. § 2020. február 1-jén lép hatályba.
