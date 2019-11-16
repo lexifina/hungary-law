@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a Magyarországon és a Szerb Köztársaságban kiállított, államilag elismert bizonyítványok és oklevelek, továbbá a tudományos fokozatot tanúsító okiratok kölcsönös elismeréséről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
