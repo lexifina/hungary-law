@@ -1,3 +1,3 @@
-## 2. § A Rendelet a következő 55. §-sal egészül ki:
+## 2. §[^2]
 
-## „55. § E rendeletnek a felsőoktatási felvételi eljárással összefüggésben egyes kormányrendeletek módosításáról szóló 261/2019. (XI. 14.) Korm. rendelettel megállapított 23. § (3) és (4) bekezdését első alkalommal a 2020. évi általános felvételi eljárásban kell alkalmazni.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
