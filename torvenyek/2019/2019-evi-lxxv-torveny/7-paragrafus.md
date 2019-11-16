@@ -1,0 +1,3 @@
+## 4. Az 1949. évi közúti közlekedésre vonatkozó Egyezményt és az 1949. évi közúti jelzésekre vonatkozó Jegyzőkönyvet kiegészítő 1950. szeptember 16-án kötött európai Megállapodás módosítása tárgyában létrejött, a közúti munkálatok jelzéséről szóló Megállapodás kihirdetése
+
+7. § Az Országgyűlés a Genfben, 1955. év december 16-án kelt, az 1949. évi közúti közlekedésre vonatkozó Egyezményt és az 1949. évi közúti jelzésekre vonatkozó Jegyzőkönyvet kiegészítő 1950. szeptember 16-án kötött európai Megállapodás módosítása tárgyában létrejött, a közúti munkálatok jelzéséről szóló Megállapodást (a továbbiakban: módosító Megállapodás) e törvénnyel kihirdeti.
