@@ -1,0 +1,5 @@
+8. § (1) A fertőző beteget elszállításáig az elkülönítőhelyiségben kell elhelyezni. A fertőző beteg elszállítása után a Főigazgatóság szerződéses orvosa intézkedik a fertőző ágens elleni hatékony fertőtlenítésről, amely kiterjed a helyiség, a berendezési és használati tárgyak, textíliák fertőtlenítésére.
+
+(2) Ha a fertőző beteggel szállítása során a Rendőrség személyi állományának valamely tagja érintkezett, a Főigazgatóság közegészségügyi szakorvosa – a Rendőrség személyi állományának egészsége védelmében – a járványügyi eseményről és a megtett intézkedésekről haladéktalanul értesíti a rendvédelmi tisztiorvost.
+
+(3) Ha a menekültügyi eljárás vagy az idegenrendészeti eljárás során fertőző megbetegedésre vagy annak gyanújának megállapítására kerül sor, és a megbetegedett külföldi más helyszínre kerül átszállításra, a megállapított tényről, körülményről a vizsgálatot végző orvos haladéktalanul, de legkésőbb a befogadást megelőzően tájékoztatja az átszállítás helye szerinti intézmény vezetőjét, valamint az ott egészségügyi szolgálatot ellátó személyeket.
