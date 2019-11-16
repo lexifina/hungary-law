@@ -1,7 +1,3 @@
-1. melléklet a 262/2019. (XI. 14.) Korm. rendelethez
+1. melléklet a 262/2019. (XI. 14.) Korm. rendelethez[^3]
 
-A 309/2011. (XII. 23.) Korm. rendelet 2. melléklete a következő 13. ponttal egészül ki:
-
-(A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek)
-
-„13. Társadalmi Esélyteremtési Főigazgatóság”
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
