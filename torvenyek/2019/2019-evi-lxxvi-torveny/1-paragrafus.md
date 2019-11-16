@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Georgia Kormánya között a katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
