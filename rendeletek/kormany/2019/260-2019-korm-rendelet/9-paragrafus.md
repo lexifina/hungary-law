@@ -1,3 +1,3 @@
-## 8. § Az Adóig. vhr. 27/F. §-a a következő (3) bekezdéssel egészül ki:
+## 8. §[^8]
 
-## „(3) Az (1) és (2) bekezdéstől eltérően nem engedélyezhető személyes költségmentesség a meghatározott cselekmény végrehajtása során a közreműködő szervezetet megillető közreműködői díjra.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

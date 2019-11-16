@@ -1,7 +1,3 @@
-## 12. § Az Adóig. vhr. 99. §-a helyébe a következő rendelkezés lép:
+## 12. §[^12]
 
-## „99. § (1) E fejezet alkalmazásában adózónak minősül az általános forgalmi adóról szóló törvény szerinti csoportos adóalany (a továbbiakban: áfa csoport), valamint a Tao tv. szerinti csoportos társasági adóalany (a továbbiakban: tao csoport) is.
-
-## (2) Az áfa csoport adóteljesítményének számításakor kizárólag az áfa csoport bevallásában szereplő, a 97. § a) pontja szerinti adatokat kell figyelembe venni. Ha az adózó az adóévet megelőző hatodik év január 1-jétől az adóévet megelőző év június 30-áig terjedő időszakban (vizsgált időszak) áfa csoport tagja volt, az adózó adóteljesítményének számításakor az áfa csoport bevallásában szereplő adatokat figyelmen kívül kell hagyni. A vizsgált időszak azon része tekintetében, amelyben az adózó nem volt az áfa csoport tagja, az adóteljesítményének számításakor az általa benyújtott áfa bevallásban szereplő, a 97. § a) pontja szerinti adatokat kell figyelembe venni, és az áfa csoport bevallásában szereplő adatokat figyelmen kívül kell hagyni.
-
-## (3) A tao csoport adóteljesítményének számításakor kizárólag a tao csoport bevallásában szereplő, a 97. § b) pontja szerinti adatokat kell figyelembe venni. Ha az adózó az adóévet megelőző hatodik év január 1-jétől az adóévet megelőző második év december 31-éig terjedő időszakban (vizsgált időszak) tao csoport tagja volt, az adózó adóteljesítményének számításakor a tao csoport bevallásában szereplő adatokat figyelmen kívül kell hagyni. A vizsgált időszak azon része tekintetében, amelyben az adózó nem volt a tao csoport tagja, az adóteljesítményének számításakor az általa benyújtott tao bevallásban szereplő, a 97. § b) pontja szerinti adatokat kell figyelembe venni, és a tao csoport bevallásában szereplő adatokat figyelmen kívül kell hagyni.”
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
