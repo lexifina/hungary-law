@@ -1,5 +1,7 @@
-## 3. § Hatályát veszti a törvénnyel kihirdetett nemzetközi szerződés alapján kiállítandó közokirat kiadásáért fizetendő igazgatási szolgáltatási díjról szóló 5/2016. (II. 10.) BM rendelet.
+## 3. §[^3]
 
 ## 4. A kéményseprő-ipari tevékenység ellátásának szakmai szabályairól szóló
 
 ## 21/2016. (VI. 9.) BM rendelet módosítása
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
