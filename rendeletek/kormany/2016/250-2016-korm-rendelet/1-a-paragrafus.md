@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya a Kormány és a megyei jogú város önkormányzata között, a megyei jogú város további fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak végrehajtását szolgáló, a Miniszterelnökség fejezetében e célra megállapított költségvetési előirányzatot terhelő forrásigényekre terjed ki azzal, hogy e rendeletnek az előirányzat felhasználására, kezelésére és működtetésére vonatkozó rendelkezései kizárólag az előirányzat terhére nyújtott költségvetési támogatásokra (a továbbiakban: MVP támogatás) alkalmazandóak.
+## 1. §[^1] E rendelet hatálya a Kormány és a megyei jogú város önkormányzata között, a megyei jogú város további fejlődése és megújulása érdekében létrejött együttműködési megállapodások végrehajtásával összefüggő feladatokról szóló nyilvános egyedi kormányhatározatban foglaltak és a megyei jogú város egyéb fejlesztési céljaival összhangban lévő programelemek végrehajtását szolgáló, a Miniszterelnökség fejezetében e célra megállapított költségvetési előirányzatot terhelő forrásigényekre terjed ki azzal, hogy e rendeletnek az előirányzat felhasználására, kezelésére és működtetésére vonatkozó rendelkezései kizárólag az előirányzat terhére nyújtott költségvetési támogatásokra (a továbbiakban: MVP támogatás) alkalmazandóak.
 
 ## 1/A. §[^2] E rendelet alkalmazásában:
 
@@ -126,7 +126,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 44. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
 
-[^1]: Az 1. § a 231/2017. (VIII. 14.) Korm. rendelet 1. §-ával megállapított, a 436/2017. (XII. 22.) Korm. rendelet 27. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 263/2019. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1/A. §-t a 390/2016. (XII. 5) Korm. rendelet 1. §-a iktatta be.
 [^3]: Az 1/A. § 3a. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^4]: Az 1/A. § 3b. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (1) bekezdése iktatta be.

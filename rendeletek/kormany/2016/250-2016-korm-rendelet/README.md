@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-250-20-
 | 2018-01-01 | 2016-250-20-22.5 | 436/2017. (XII. 22.) Korm. rendelet |
 | 2018-06-12 | 2016-250-20-22.6 | 101/2018. (VI. 11.) Korm. rendelet |
 | 2018-10-01 | 2016-250-20-22.7 | 175/2018. (IX. 27.) Korm. rendelet |
+| 2019-11-17 | 2016-250-20-22.8 | 263/2019. (XI. 14.) Korm. rendelet |

@@ -1,4 +1,4 @@
-8/V. §[^85] (1) A személyszállítási közszolgáltatásért járó ellentételezés akkor nyújtható, ha a közszolgáltatási szerződés megfelel a Személyszállítási törvény 25. §-ában és az 1370/2007/EK európai parlamenti és tanácsi rendelet 4. cikkében foglalt rendelkezéseknek.
+8/V. §[^92] (1) A személyszállítási közszolgáltatásért járó ellentételezés akkor nyújtható, ha a közszolgáltatási szerződés megfelel a Személyszállítási törvény 25. §-ában és az 1370/2007/EK európai parlamenti és tanácsi rendelet 4. cikkében foglalt rendelkezéseknek.
 
 (2) A szolgáltató kiválasztásának összhangban kell állnia a Személyszállítási törvény 23. §-ában és az 1370/2007/EK európai parlamenti és tanácsi rendelet 5. cikkében foglaltakkal.
 
@@ -10,4 +10,4 @@
 
 (6) Az ellentételezésből beszerzett tárgyi eszköz rendeltetésében az amortizációs időszak végéig változás nem történhet, használatából bármely szervezetnek az uniós állami támogatási szabályokkal összeegyeztethetetlen gazdasági előnye nem származhat.
 
-[^85]: A 8/V. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^92]: A 8/V. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
