@@ -1,1 +1,3 @@
-## 18. § Az 1/2014. (I. 10.) BM rendelet 1. melléklete a 4. melléklet szerint módosul.
+## 18. §[^1]
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
