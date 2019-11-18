@@ -400,7 +400,7 @@ dr. Vejkey Imre (KDNP)
 
 Csányi Tamás (Jobbik)[^71]
 
-Pintér Tamás (Jobbik)[^72]
+Dudás Róbert (Jobbik)[^72]
 
 Stummer János (Jobbik)
 
@@ -508,7 +508,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^69]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
 [^70]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
 [^71]: A 4/2019. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
-[^72]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^72]: A 43/2019. (XI. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^73]: A 19/2018. (X. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^74]: A 12/2019. (IV. 2.) OGY határozat 1. pontjával megállapított szöveg.
 [^75]: A 25/2019. (VII. 9.) OGY határozat 2. pontjával megállapított szöveg.
