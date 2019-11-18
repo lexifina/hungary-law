@@ -1,4 +1,4 @@
-## 14. §[^18]
+## 14. §[^17]
 
 ## 11. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) A 7. § (4) bekezdése, a 8. § (5) bekezdése, valamint az 5. melléklet 2019. november 18-án lép hatályba.
 
-[^18]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
