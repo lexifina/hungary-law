@@ -30,7 +30,7 @@ m) helyi közösségi terek fejlesztése történelmi egyházak bevonásával �
 
 n) nemzeti és helyi identitástudat erősítése önkormányzatok és nemzeti kulturális intézmények bevonásával: 6 000 000 000 forint,
 
-o) mintaprogram – okospontok kialakítása: 1 000 000 000 forint;
+o)[^1]
 
 2. felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter és a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával gondoskodjon az 1. pont szerinti programelemek megvalósításához a 2019. költségvetési évben szükséges forrás, valamint a kincstári díj és pénzügyi tranzakciós illeték finanszírozása érdekében összesen 75 265 500 000 forint rendelkezésre állásáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 41. Magyar Falu Program jogcímcsoport, 2. Magyar Falu Program alprogramjainak támogatása jogcím javára;
 
@@ -52,7 +52,7 @@ Modern Települések Fejlesztéséért felelős kormánybiztos
 
 Határidő: a 2019. évben, a források rendelkezésre állását követően azonnal
 
-4. egyetért az „óvodai sport” megvalósításához szükséges módszertani segédlet kidolgozásával, ennek érdekében felhívja az emberi erőforrások miniszterét, hogy az alprogram megvalósulása érdekében dolgozza ki a módszertani segédletet, amelyet a sikeresen pályázó óvodák beépítenek saját pedagógiai programjukba;
+4.[^2] egyetért az „óvodai sport” megvalósításához szükséges módszertani segédlet kidolgozásával, ennek érdekében felhívja az emberi erőforrások miniszterét, hogy az alprogram megvalósulása érdekében dolgozza ki a módszertani segédletet, amelyet az óvodák beépítenek saját pedagógiai programjukba;
 
 Felelős: emberi erőforrások minisztere
 
@@ -79,3 +79,9 @@ pénzügyminiszter
 Modern Települések Fejlesztéséért felelős kormánybiztos
 
 Határidő: azonnal
+
+7.[^3] egyetért azzal, hogy az 1. pont szerinti alprogramokra meghatározott összegek fel nem használt része a Magyar Falu Program más, az 1. pontban meghatározott alprogramjainak az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 77. §-a szerinti tartaléklista keretére kerüljön felhasználásra.
+
+[^1]: Az 1. pont o) alpontját az 1648/2019. (XI. 19.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 4. pont az 1648/2019. (XI. 19.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 7. pontot az 1648/2019. (XI. 19.) Korm. határozat 1. pontja iktatta be.
