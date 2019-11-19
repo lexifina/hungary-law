@@ -30,10 +30,12 @@ belügyminiszter
 
 Határidő: 2019. július 31.
 
-5. felhívja az emberi erőforrások miniszterét és a belügyminisztert, hogy az Emberi Erőforrás Támogatáskezelő társadalmi felzárkózással kapcsolatos feladatainak és vonatkozó foglalkoztatotti létszámának a Társadalmi Esélyteremtési Főigazgatóság általi, 2020. január 1. napjától történő átvételéhez szükséges költségvetési források rendelkezésre állása érdekében, valamint a társadalmi felzárkózási szakterülethez kapcsolódó informatikai infrastruktúra (hardver, szoftver, informatikai rendszerek műszaki leírása) és az ahhoz kapcsolódó jogok és kötelezettségek tekintetében, a működési források biztosítása érdekében kössön költségvetési megállapodást.
+5.[^1] felhívja az emberi erőforrások miniszterét és a belügyminisztert, hogy az Emberi Erőforrás Támogatáskezelő társadalmi felzárkózással kapcsolatos feladatainak és vonatkozó foglalkoztatotti létszámának a Társadalmi Esélyteremtési Főigazgatóság általi, 2020. július 1. napjától történő átvételéhez szükséges költségvetési források rendelkezésre állása érdekében, valamint a társadalmi felzárkózási szakterülethez kapcsolódó informatikai infrastruktúra (hardver, szoftver, informatikai rendszerek műszaki leírása) és az ahhoz kapcsolódó jogok és kötelezettségek tekintetében, a működési források biztosítása érdekében kössön költségvetési megállapodást.
 
 Felelős: emberi erőforrások minisztere
 
 belügyminiszter
 
-Határidő: 2019. október 31.
+Határidő: 2020. április 30.
+
+[^1]: Az 5. pontot az 1652/2019. (XI. 19.) Korm. határozat 1. pontja visszavonta, újonnan ugyanezen módosító határozat 2. pontja iktatta be.
