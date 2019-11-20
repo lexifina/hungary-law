@@ -1,6 +1,6 @@
-## 7. §[^11] Ez a rendelet az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2005. június 27-i 1236/2005/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+## 7. §[^11] Ez a rendelet az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-8. §[^12] Ez a rendelet az egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló 1236/2005/EK tanácsi rendelet módosításáról szóló, 2014. július 16-i 775/2014/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+8. §[^12]
 
 Melléklet a 175/2003. (X. 28.) Korm. rendelethez
 
@@ -20,7 +20,7 @@ f) az olyan eszköz, amely elektromos feszültség útján védekezésre képtel
 
 g)[^14] az olyan eszköz, amely a zárszerkezetek illegális kinyitására vagy feltörésére szolgál (különösen: álkulcsok, mechanikus vagy elektromos elven működő zárnyitó szerkezetek).
 
-[^11]: A 7. §-t a 25/2007. (II. 28.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a 2007. március 30. napja után megindított ügyekben kell alkalmazni.
-[^12]: A 8. §-t a 441/2016. (XII. 16.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^11]: A 7. §-t a 25/2007. (II. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 267/2019. (XI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 8. §-t a 441/2016. (XII. 16.) Korm. rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 267/2019. (XI. 19.) Korm. rendelet 5. §-a.
 [^13]: A Melléklet a) pontja a 71/2011. (IV. 28.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^14]: A melléklet g) pontját a 25/2007. (II. 28.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 6. §-a alapján a rendelkezést a 2007. március 30. napja után megindított ügyekben kell alkalmazni.
