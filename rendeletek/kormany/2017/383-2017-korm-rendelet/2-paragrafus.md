@@ -10,4 +10,10 @@ b) nyilatkozatát arról, hogy részére a szociális igazgatásról és szociá
 
 c) nyilatkozatát arról, hogy a gyermekgondozási segélyről szóló 10/1982. (IV. 16.) MT rendelet 1. § (1) bekezdése, illetve a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése alapján, tartósan beteg, illetve súlyosan fogyatékos gyermekére tekintettel gyermekgondozási segélyben vagy gyermeknevelést segítő ellátásban részesült.
 
-(3) A kérelem elbírálásához szükséges adatokat az általános hatáskörű nyugdíjmegállapító szerv a kérelmező (2) bekezdés b) és c) pontja szerinti nyilatkozata alapján beszerzi.
+(3)[^1] A támogatásra való jogosultságnak az Szt. 44/A. § (1) bekezdés a) pontja alapján történő megállapításához igazolni kell, hogy
+
+a) a kérelmező általa ápolt, gondozott gyermeke a jogosultsághoz szükséges 20 éves időtartam alatt az Szt. 41. § (3) bekezdés a) pontja szerint súlyosan fogyatékosnak vagy az Szt. 41. § (3) bekezdés b) pontja szerint tartósan betegnek minősült, és
+
+b) a kérelmező a jogosultsághoz szükséges 20 éves ápolási, gondozási időtartam alatt legfeljebb napi 4 órában végzett otthonán kívül keresőtevékenységet, vagy a keresőtevékenységet az otthonában végezte.
+
+[^1]: A 2. § (3) bekezdése a 271/2019. (XI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
