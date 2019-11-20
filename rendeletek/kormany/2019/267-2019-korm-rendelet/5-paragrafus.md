@@ -1,0 +1,1 @@
+## 4. § A közbiztonságra különösen veszélyes eszközökről szóló 175/2003. (X. 28.) Korm. rendelet 4. § (4) bekezdésében a „2005. június 27-i 1236/2005/EK tanácsi rendelet szerint” szövegrész helyébe a „2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet II. melléklete szerint” szöveg lép.
