@@ -1,6 +1,6 @@
 ## 16. A vizsgabizottsági és a vizsgabiztosi névjegyzék
 
-23. § (1)[^60] Rendészeti szakvizsga vizsgabizottsági tagjának vizsgabizottsági névjegyzékben szereplő személy (a továbbiakban: vizsgáztató) jelölhető ki. A vizsgabizottsági névjegyzék az alábbi szakterületenkénti bontásban tartalmazza a vizsgáztatókat:
+23. § (1)[^67] Rendészeti szakvizsga vizsgabizottsági tagjának vizsgabizottsági névjegyzékben szereplő személy (a továbbiakban: vizsgáztató) jelölhető ki. A vizsgabizottsági névjegyzék az alábbi szakterületenkénti bontásban tartalmazza a vizsgáztatókat:
 
 a) közigazgatási és integrált rendészeti szakterület,
 
@@ -22,7 +22,7 @@ a) erre irányuló kérelmére;
 
 b) halála esetén;
 
-c)[^61] ha a vizsgabizottsági felkérésnek egymást követő három alkalommal – az akadályoztatás esetét kivéve – nem tesz eleget, vagy ha a 11. § (2) bekezdése szerinti továbbképzési kötelezettségének 4 hónapon belül nem tesz eleget;
+c)[^68] ha a vizsgabizottsági felkérésnek egymást követő három alkalommal – az akadályoztatás esetét kivéve – nem tesz eleget, vagy ha a 11. § (2) bekezdése szerinti továbbképzési kötelezettségének 4 hónapon belül nem tesz eleget;
 
 d) ha szolgálati viszonya
 
@@ -36,19 +36,19 @@ megszüntetésre kerül.
 
 (4) Pályázatot nyújthat be
 
-a)[^62] a hivatásos állomány rendvédelmi feladatokat ellátó szervnél szolgálatot teljesítő tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó tagja, aki rendészeti szakvizsgával rendelkezik, vagy mentesül a rendészeti szakvizsga letételének kötelezettsége alól,
+a)[^69] a hivatásos állomány rendvédelmi feladatokat ellátó szervnél szolgálatot teljesítő tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó tagja, aki rendészeti szakvizsgával rendelkezik, vagy mentesül a rendészeti szakvizsga letételének kötelezettsége alól,
 
-b)[^63] a rendvédelmi feladatokat ellátó szervek hivatásos állományából nyugállományba helyezett tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó személy, aki rendészeti szakvizsgával rendelkezik, vagy mentesült a rendészeti szakvizsga letételének kötelezettsége alól,
+b)[^70] a rendvédelmi feladatokat ellátó szervek hivatásos állományából nyugállományba helyezett tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó személy, aki rendészeti szakvizsgával rendelkezik, vagy mentesült a rendészeti szakvizsga letételének kötelezettsége alól,
 
-c)[^64] az az állami vezető, kormánytisztviselő vagy köztisztviselő, aki a rendvédelmi feladatokat ellátó szervek tevékenységével, felügyeletével kapcsolatos munkakört lát el, vagy nyugdíjaztatása előtt látott el és közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült,
+c)[^71] az a politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár, kormánytisztviselő vagy köztisztviselő, aki a rendvédelmi feladatokat ellátó szervek tevékenységével, felügyeletével kapcsolatos munkakört lát el, vagy nyugdíjaztatása előtt látott el és közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült,
 
 d) a Nemzeti Közszolgálati Egyetem oktatója, aki közigazgatási vagy rendészeti szakvizsgával rendelkezik, vagy a szakvizsga letételének kötelezettsége alól mentesült, vagy a mentesülés feltételeivel rendelkezik,
 
-e)[^65]
+e)[^72]
 
 (5) A pályázaton való részvétel feltétele
 
-a)[^66] a pályázó által választott vizsgatárgynak megfelelő szakirányú felsőfokú iskolai végzettség és legalább tíz év szakirányú szakmai gyakorlat, vagy rendészeti oktatási gyakorlat, valamint
+a)[^73] a pályázó által választott vizsgatárgynak megfelelő szakirányú felsőfokú iskolai végzettség és legalább tíz év szakirányú szakmai gyakorlat, vagy rendészeti oktatási gyakorlat, valamint
 
 b) – a nyugállományba helyezett pályázó kivételével – a pályázó munkáltatói jogkörrel rendelkező vezetőjének hozzájárulása a pályázaton való részvételhez.
 
@@ -66,10 +66,10 @@ e) munkáltatói igazolást a szolgálati viszony vagy más foglalkoztatási jog
 
 (7) A RASZB elnökének kezdeményezésére a rendészetért felelős miniszter a névjegyzékből törölt személyek pótlása érdekében az öt év letelte előtt is pályázatot írhat ki a névjegyzékbe felvételre.
 
-[^60]: A 23. § (1) bekezdése a 396/2017. (XII. 13.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^61]: A 23. § (3) bekezdés c) pontja a 396/2017. (XII. 13.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^62]: A 23. § (4) bekezdés a) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b)–c) pontja szerint módosított szöveg.
-[^63]: A 23. § (4) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) és d) pontja szerint módosított szöveg.
-[^64]: A 23. § (4) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
-[^65]: A 23. § (4) bekezdés e) pontját a 396/2017. (XII. 13.) Korm. rendelet 19. § e) pontja hatályon kívül helyezte.
-[^66]: A 23. § (5) bekezdés a) pontja a 396/2017. (XII. 13.) Korm. rendelet 18. § l) pontja szerint módosított szöveg.
+[^67]: A 23. § (1) bekezdése a 396/2017. (XII. 13.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^68]: A 23. § (3) bekezdés c) pontja a 396/2017. (XII. 13.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^69]: A 23. § (4) bekezdés a) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b)–c) pontja szerint módosított szöveg.
+[^70]: A 23. § (4) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) és d) pontja szerint módosított szöveg.
+[^71]: A 23. § (4) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja, a 267/2019. (XI. 19.) Korm. rendelet 20. § 13. pontja szerint módosított szöveg.
+[^72]: A 23. § (4) bekezdés e) pontját a 396/2017. (XII. 13.) Korm. rendelet 19. § e) pontja hatályon kívül helyezte.
+[^73]: A 23. § (5) bekezdés a) pontja a 396/2017. (XII. 13.) Korm. rendelet 18. § l) pontja szerint módosított szöveg.

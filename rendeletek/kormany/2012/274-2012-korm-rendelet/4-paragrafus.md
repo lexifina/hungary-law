@@ -20,7 +20,7 @@ h)[^16] az Információs Hivatalban rendvédelmi igazgatási jogviszonyba tört�
 
 (2)[^18] A hivatásos állomány közigazgatási alap- vagy szakvizsgával, továbbá jogi szakvizsgával rendelkező tagjának a szolgálati viszony létesítését követő egy éven belül, továbbá a rendvédelmi alkalmazott közigazgatási alap- vagy szakvizsgával, továbbá jogi szakvizsgával rendelkező tagjának az igazgatási jogviszony létesítését követő két éven belül csak a rendészeti alapismeretekből kell vizsgát tennie. Mentesül a rendészeti alapismeretek vizsgarész letételének kötelezettsége alól az, aki közigazgatási alapvizsgával, közigazgatási szakvizsgával vagy jogi szakvizsgával rendelkezik, és legalább három éve megszakítás nélkül hivatásos szolgálati viszonyban vagy igazgatási jogviszonyban áll.
 
-(3)[^19] Az (1) bekezdés e) pontja alapján a rendészeti alapvizsga letételének kötelezettsége alóli mentesítést más, közszolgálati, kormányzati szolgálati vagy állami szolgálati jogviszony létesítésekor keletkező közigazgatási alapvizsga-tételi kötelezettség szempontjából figyelmen kívül kell hagyni.
+(3)[^19] Az (1) bekezdés e) pontja alapján a rendészeti alapvizsga letételének kötelezettsége alóli mentesítést más, közszolgálati vagy kormányzati szolgálati jogviszony létesítésekor keletkező közigazgatási alapvizsga-tételi kötelezettség szempontjából figyelmen kívül kell hagyni.
 
 (4) A rendészeti alapvizsgával rendelkező személy a jogszabályban meghatározott közigazgatási alapvizsga-kötelezettség teljesítése alól mentesül.
 
@@ -32,5 +32,5 @@ h)[^16] az Információs Hivatalban rendvédelmi igazgatási jogviszonyba tört�
 [^16]: A 4. § (1) bekezdés h) pontját a 11/2019. (II. 5.) Korm. rendelet 3. § (3) bekezdése iktatta be.
 [^17]: A 4. § (1a) bekezdését a 396/2017. (XII. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^18]: A 4. § (2) bekezdése a 11/2019. (II. 5.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^19]: A 4. § (3) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^19]: A 4. § (3) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 36. § b) pontja, a 267/2019. (XI. 19.) Korm. rendelet 20. § 3. pontja szerint módosított szöveg.
 [^20]: A 4. § (5) bekezdését a 396/2017. (XII. 13.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 11/2019. (II. 5.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.

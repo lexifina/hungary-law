@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-274-20-
 | 2017-01-01 | 2012-274-20-22.14 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2012-274-20-22.15 | 396/2017. (XII. 13.) Korm. rendelet |
 | 2019-02-06 | 2012-274-20-22.16 | 11/2019. (II. 5.) Korm. rendelet |
+| 2019-11-20 | 2012-274-20-22.17 | 267/2019. (XI. 19.) Korm. rendelet |

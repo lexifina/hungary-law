@@ -1,8 +1,8 @@
-2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^83]
+2. melléklet a 274/2012. (IX. 28.) Korm. rendelethez[^90]
 
 ## A RENDÉSZETI SZAKVIZSGA KÖVETELMÉNYRENDSZERE
 
-I. KÖTELEZŐ VIZSGATÁRGY
+## I.[^91] KÖTELEZŐ VIZSGATÁRGY
 
 ## KÖZIGAZGATÁSI ÉS INTEGRÁLT RENDÉSZETI VEZETÉSI ISMERETEK
 
@@ -10,7 +10,7 @@ I. KÖTELEZŐ VIZSGATÁRGY
 
 ## Az ismeretrésszel szembeni követelmények:
 
-## A Közigazgatási ismeretek ismeretrész rendeltetése, hogy a rendészeti szakvizsga kötelező tantárgyaként olyan átfogó, egyben célorientált jogelméleti és közigazgatási ismereteket nyújtson a vizsgázóknak, amelyek megalapozzák a kötelező vizsgatárgy másik ismeretrészét, az Integrált rendészeti vezetési ismereteket, valamint a választható vizsgatárgyak ismereteit. A tananyag összetétele és tartalma – figyelemmel a vizsgázók felsőfokú előképzettségére, felkészültségére – a korábban megszerzett ismeretek felfrissítésére és rendszerezésére, valamint az újonnan keletkezett elméleti és tételes jogi ismeretek átadására irányul. Rendeltetésének megfelelően a heterogén összetételű ismerethalmaz szintetizálását célozza.
+## A Közigazgatási ismeretek ismeretrész rendeltetése, hogy a rendészeti szakvizsga kötelező tantárgyaként olyan átfogó, egyben célorientált jogelméleti és közigazgatási ismereteket nyújtson a vizsgázóknak, amelyek megalapozzák a kötelező vizsgatárgy másik ismeretrészét, az Integrált rendészeti vezetési ismereteket, valamint a választható vizsgatárgyak ismereteit. A felkészítő tananyag összetétele és tartalma – figyelemmel a vizsgázók felsőfokú előképzettségére, felkészültségére – a korábban megszerzett ismeretek felfrissítésére és rendszerezésére, valamint az újonnan keletkezett elméleti és tételes jogi ismeretek átadására irányul. Rendeltetésének megfelelően a heterogén összetételű ismerethalmaz szintetizálását célozza.
 
 ## A tantárgy az oktatás és a számonkérés középpontjába a célcsoport számára általánosan szükséges, valamint a jogalkalmazással összefüggő kérdéseket állítja, különös tekintettel azok elméleti megalapozottságára és gyakorlati hasznosíthatóságára.
 
@@ -56,13 +56,13 @@ XIII. Büntetés-végrehajtási igazgatás
 
 XIV. Adó- és vámigazgatás
 
-## II.[^84] VÁLASZTHATÓ VIZSGATÁRGYAK
+## II.[^92] VÁLASZTHATÓ VIZSGATÁRGYAK
 
-## II.1. BÜNTETÉS-VÉGREHAJTÁSI IGAZGATÁS
+## II.1.[^93] BÜNTETÉS-VÉGREHAJTÁSI IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
-## A vizsgatárgy rendeltetése, hogy ismereteket nyújtson a vizsgázó számára a büntetés-végrehajtás intézményi rendszeréről, szakmai területeiről, nemzetközi és hazai szabályozókról. A tananyag azokat az ismereteket, módszereket rendszerezi, tartalmazza, amelyek elsajátítása révén a vizsgázó képes lesz a büntetés-végrehajtási tevékenység különböző szakterületei közötti összefüggések felismerésére, értelmezésére, azokat egységes feladatrendszerbe konvertálva alkalmazni munkája során.
+## A vizsgatárgy rendeltetése, hogy ismereteket nyújtson a vizsgázó számára a büntetés-végrehajtás intézményi rendszeréről, szakmai területeiről, nemzetközi és hazai szabályozókról. A felkészítő tananyag azokat az ismereteket, módszereket rendszerezi, tartalmazza, amelyek elsajátítása révén a vizsgázó képes lesz a büntetés-végrehajtási tevékenység különböző szakterületei közötti összefüggések felismerésére, értelmezésére, azokat egységes feladatrendszerbe konvertálva alkalmazni munkája során.
 
 ## A tantárgy elemei:
 
@@ -82,11 +82,11 @@ VII. Büntetés-végrehajtási nevelés
 
 VIII. Büntetés-végrehajtási pszichológia
 
-## II.2. KATASZTRÓFAVÉDELMI IGAZGATÁS
+## II.2.[^94] KATASZTRÓFAVÉDELMI IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
-## A vizsgatárgy rendeltetése, hogy komplex ismereteket nyújtson a vizsgázó számára a katasztrófavédelmi igazgatás különböző, összetett szakmai területeiről. A tananyag rendszerezi a katasztrófavédelem, az iparbiztonság, a polgári védelem és a tűzvédelem legfontosabb szakmai ismereteit, amelyek elsajátítása révén a vizsgázó képes lesz a különböző szakterületek közötti összefüggések felismerésére és értelmezésére. A vizsgatárgy külön fejezetekben részletezi az alapvető iparbiztonsági, polgári védelmi és tűzvédelmi ismereteket.
+## A vizsgatárgy rendeltetése, hogy komplex ismereteket nyújtson a vizsgázó számára a katasztrófavédelmi igazgatás különböző, összetett szakmai területeiről. A felkészítő tananyag rendszerezi a katasztrófavédelem, az iparbiztonság, a polgári védelem és a tűzvédelem legfontosabb szakmai ismereteit, amelyek elsajátítása révén a vizsgázó képes lesz a különböző szakterületek közötti összefüggések felismerésére és értelmezésére. A vizsgatárgy külön fejezetekben részletezi az alapvető iparbiztonsági, polgári védelmi és tűzvédelmi ismereteket.
 
 ## A tantárgy elemei:
 
@@ -116,11 +116,11 @@ IV. Nemzeti Védelmi Szolgálat
 
 V. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-## II.4. RENDŐRSÉGI IGAZGATÁS
+## II.4.[^95] RENDŐRSÉGI IGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
-## A tantárgy rendeltetése, hogy ismereteket nyújtson a vizsgázó számára a rendőrségi igazgatás főbb tevékenységi területeiről és intézményrendszeréről. A tananyag azokat az irányítási, intézkedési, nyomozási eszközöket és módszereket tartalmazza, amelyek alkalmazására a rendőri munka során a vizsgázónak akár parancsnokként, akár végrehajtóként szüksége van. A vizsgatárgy tudásanyaga épít a korábban megszerzett felsőfokú ismeretekre és a szakmai tapasztalatokra. Az ismeretanyag eredményes elsajátításával a vizsgázó átfogó, jól alkalmazható és a rendőri vezetővel szemben elvárható, az összefüggéseket átlátó ismeretekkel fog rendelkezni.
+## A tantárgy rendeltetése, hogy ismereteket nyújtson a vizsgázó számára a rendőrségi igazgatás főbb tevékenységi területeiről és intézményrendszeréről. A felkészítő tananyag azokat az irányítási, intézkedési, nyomozási eszközöket és módszereket tartalmazza, amelyek alkalmazására a rendőri munka során a vizsgázónak akár parancsnokként, akár végrehajtóként szüksége van. A vizsgatárgy tudásanyaga épít a korábban megszerzett felsőfokú ismeretekre és a szakmai tapasztalatokra. Az ismeretanyag eredményes elsajátításával a vizsgázó átfogó, jól alkalmazható és a rendőri vezetővel szemben elvárható, az összefüggéseket átlátó ismeretekkel fog rendelkezni.
 
 ## A tantárgy elemei:
 
@@ -142,11 +142,11 @@ VIII. A rendőrség megelőzési feladatai
 
 IX. Az Országgyűlési Őrség speciális feladatai
 
-## II.5. ADÓ- ÉS VÁMIGAZGATÁS
+## II.5.[^96] ADÓ- ÉS VÁMIGAZGATÁS
 
 ## A vizsgatárggyal szembeni követelmény:
 
-## A tantárgy rendeltetése, hogy a vizsgázó rendszerszerű ismeretekkel rendelkezzen a vámhatóság feladatrendszeréről, alapvető tevékenységéről, valamint lássa és értelmezni tudja a különböző szakmaspecifikus területek egymáshoz való kapcsolódási pontjait, sorrendiségét. A tananyag azokat az adó-, vám- és bűnügyi tevékenységgel kapcsolatos eszközöket és módszereket tartalmazza, amelyek alkalmazására a vámhatósági munka során a pénzügyőrnek szüksége van. A vizsgatárgy tudásanyaga épít a korábban megszerzett ismeretekre, a testületben szerzett szakmai tapasztalatra, és eredményes elsajátítása után a vizsgázó az adó-, a vám- és a bűnügyi szakterületen egyaránt alkalmazható, vezetőtől elvárható ismeretekkel, tudással fog rendelkezni, amely kiterjed a nemzeti, valamint az európai uniós szabályozásra és gyakorlatra.
+## A tantárgy rendeltetése, hogy a vizsgázó rendszerszerű ismeretekkel rendelkezzen a vámhatóság feladatrendszeréről, alapvető tevékenységéről, valamint lássa és értelmezni tudja a különböző szakmaspecifikus területek egymáshoz való kapcsolódási pontjait, sorrendiségét. A felkészítő tananyag azokat az adó-, vám- és bűnügyi tevékenységgel kapcsolatos eszközöket és módszereket tartalmazza, amelyek alkalmazására a vámhatósági munka során a pénzügyőrnek szüksége van. A vizsgatárgy tudásanyaga épít a korábban megszerzett ismeretekre, a testületben szerzett szakmai tapasztalatra, és eredményes elsajátítása után a vizsgázó az adó-, a vám- és a bűnügyi szakterületen egyaránt alkalmazható, vezetőtől elvárható ismeretekkel, tudással fog rendelkezni, amely kiterjed a nemzeti, valamint az európai uniós szabályozásra és gyakorlatra.
 
 ## A tantárgy elemei:
 
@@ -160,5 +160,10 @@ IV. Áruosztályozás és áruismereti feladatok
 
 V. Büntető- és szabálysértési jogi feladatok
 
-[^83]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^84]: A 2. melléklet II. része a 396/2017. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^90]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^91]: A 2. melléklet I. pontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^92]: A 2. melléklet II. része a 396/2017. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^93]: A 2. melléklet II. pont II.1. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^94]: A 2. melléklet II. pont II.2. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^95]: A 2. melléklet II. pont II.4. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^96]: A 2. melléklet II. pont II.5. alpontja a 267/2019. (XI. 19.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
