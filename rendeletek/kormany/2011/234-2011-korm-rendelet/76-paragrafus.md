@@ -6,7 +6,7 @@
 
 76. § (1) A katasztrófavédelmi szempontból I. és II. veszélyességi osztályba sorolt településen a polgármester közbiztonsági referenst (a továbbiakban: referens) jelöl ki.
 
-(2)[^37] A közös önkormányzati hivatalt működtető települések polgármesterei közösen jelölik ki a referenst, megállapodásuk hiányában ezt a jogkört a közös önkormányzati hivatal székhelye szerinti település polgármestere gyakorolja.
+(2)[^39] A közös önkormányzati hivatalt működtető települések polgármesterei közösen jelölik ki a referenst, megállapodásuk hiányában ezt a jogkört a közös önkormányzati hivatal székhelye szerinti település polgármestere gyakorolja.
 
 (3) A referens a polgármester feladat-meghatározásának megfelelően vesz részt a polgármester katasztrófák elleni védekezési feladatainak tervezésében, szervezésében és végrehajtásában.
 
@@ -16,7 +16,7 @@
 
 (6) A közbiztonsági referensi tanfolyam szervezéséről és a képzés, valamint a vizsga tartalmának meghatározásáról a hivatásos katasztrófavédelmi szerv központi szervének vezetője gondoskodik.
 
-(7)[^38]
+(7)[^40]
 
-[^37]: A 76. § (2) bekezdése a 368/2012. (XII. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^38]: A 76. § (7) bekezdését a 226/2012. (VIII. 23.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^39]: A 76. § (2) bekezdése a 368/2012. (XII. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^40]: A 76. § (7) bekezdését a 226/2012. (VIII. 23.) Korm. rendelet 6. §-a hatályon kívül helyezte.

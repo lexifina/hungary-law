@@ -26,7 +26,7 @@
 
 ## 2. ipari szerencsétlenség, civilizációs eredetű veszélyek
 
-## a) a Kat. IV. Fejezetének hatálya alá tartozó üzem
+## a) a veszélyes anyagokkal foglalkozó üzem vagy küszöbérték alatti üzem
 
 ## b) más létesítmény (ipari, mezőgazdasági) általi veszélyeztető hatás, veszélyes anyag szabadba kerülésének kockázata
 
@@ -42,7 +42,7 @@
 
 ## db) jelentős forgalom
 
-## e) a Kat. IV. Fejezetének hatálya alá nem tartozó, katonai célból üzemeltetett veszélyes anyagokkal foglalkozó üzemek, veszélyes anyagokkal foglalkozó létesítmények
+## e) veszélyes katonai objektum
 
 ## 3. egyéb eredetű veszélyek
 

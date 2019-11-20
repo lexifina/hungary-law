@@ -92,10 +92,10 @@ e) javaslatot tesz a polgármesternek a szükséges polgári védelmi szervezete
 
 f) közreműködik a létrehozott polgári védelmi szakalegységek polgári védelmi felkészítésében,
 
-g)[^28] közreműködik a lakosság, a gazdálkodó szervezetek, intézmények befogadási feladatainak végrehajtására történő felkészítésében,
+g)[^30] közreműködik a lakosság, a gazdálkodó szervezetek, intézmények befogadási feladatainak végrehajtására történő felkészítésében,
 
 h) közreműködik a befogadás helyi feladatainak megszervezésében, végrehajtásában,
 
 i) közreműködik a befogadáshoz szükséges szakanyag biztosításában.
 
-[^28]: Az 53. § (6) bekezdés g) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^30]: Az 53. § (6) bekezdés g) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés i) pontja szerint módosított szöveg.
