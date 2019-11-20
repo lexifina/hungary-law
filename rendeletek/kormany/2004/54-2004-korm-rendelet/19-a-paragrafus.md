@@ -24,9 +24,12 @@ a) első fokú eljárás lefolytatására a sportrendezvény helye szerint illet
 
 b)[^53]
 
-(3)[^54] A bírságot az eljáró hatóság végleges döntésében megjelölt a Magyar Államkincstár által e célra létrehozott központosított beszedési számlaszámra átutalási megbízás útján vagy készpénzátutalási megbízással kell megfizetni a bírságot kiszabó döntés véglegessé válásától számított 30 napon belül. Az átutalási megbízás vagy készpénzátutalási megbízás közlemény rovatában a „bírság” szó feltüntetése mellett a kötelezett nevére és a döntés számára kell hivatkozni.
+(3)[^54] Az elektronikus úton történő megfizetésre vonatkozó kötelezettség hiányában az (1) bekezdés szerinti bírságot az eljáró hatóság végleges döntésében megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlaszámra átutalási megbízás útján vagy készpénzátutalási megbízással kell megfizetni, a bírságot kiszabó döntés véglegessé válásától számított 30 napon belül. Az átutalási megbízás vagy készpénzátutalási megbízás közlemény rovatában a „bírság” szó feltüntetése mellett a kötelezett nevére és a döntés számára kell hivatkozni.
+
+(4)[^55] Az (1) bekezdés szerinti bírság elektronikus úton történő megfizetésére vonatkozó kötelezettség az eljáró hatóság által rendszeresített elektronikus eszköz használatával vagy az eljáró hatóság által meghatározott más módon teljesíthető.
 
 [^51]: A 19/A. §-t a 162/2011. (VIII. 18.) Korm. rendelet 12. §-a iktatta be.
 [^52]: A 19/A. § (1) bekezdés d) pontja a 172/2013. (V. 30.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^53]: A 19/A. § (2) bekezdés b) pontját a 457/2017. (XII. 28.) Korm. erndelet 129. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^54]: A 19/A. § (3) bekezdése a 137/2017. (VI. 9.) Korm. rendelet 1. §-ával megállapított, a 457/2017. (XII. 28.) Korm. erndelet 128. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^54]: A 19/A. § (3) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^55]: A 19/A. § (4) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 6. § (2) bekezdése iktatta be.
