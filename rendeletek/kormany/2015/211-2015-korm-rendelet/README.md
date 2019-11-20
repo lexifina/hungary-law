@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-211-20-
 | 2015-08-21 | 2015-211-20-22.2 | 233/2015. (VIII. 20.) Korm. rendelet |
 | 2015-09-15 | 2015-211-20-22.3 | 233/2015. (VIII. 20.) Korm. rendelet |
 | 2018-01-01 | 2015-211-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2019-11-20 | 2015-211-20-22.5 | 267/2019. (XI. 19.) Korm. rendelet |
