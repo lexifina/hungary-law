@@ -1,8 +1,8 @@
-1. melléklet a 301/2007. (XI. 9.) Korm. rendelethez
+1. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^251]
 
-## A menedékes személyazonosságát és tartózkodási jogát igazoló okmány[^253]
+## A menedékes személyazonosságát és tartózkodási jogát igazoló okmány[^252]
 
-Az okmány formája és adattartalma: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben meghatározottak szerint.
+Az okmány formája és adattartalma: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendeletben meghatározottak szerint.
 
 Az okmány formátuma: ID-1-es kártya, mely tároló elemet tartalmaz.
 
@@ -16,4 +16,5 @@ A megjegyzések között
 
 kell feltüntetni.
 
-[^253]: Az 1. számú melléklet „A menedékes személyazonosságát és tartózkodási jogát igazoló okmány” alcímet követő szöveg a 290/2010. (XII. 21.) Korm. rendelet 124. §-ával megállapított szöveg.
+[^251]: Az 1. melléklet a 267/2019. (XI. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^252]: Az 1. számú melléklet „A menedékes személyazonosságát és tartózkodási jogát igazoló okmány” alcímet követő szöveg a 290/2010. (XII. 21.) Korm. rendelet 124. §-ával megállapított szöveg.

@@ -34,17 +34,23 @@ n)[^248] a harmadik országok illegálisan tartózkodó állampolgárainak vissz
 
 o)[^249] a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló, 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelv.
 
-(2) E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel együtt – a következő közösségi jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
+(2)[^250] Ez a rendelet
 
-a) a Tanács 2725/2000/EK (2000. december 11.) rendelete a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról;
+a) a dublini egyezmény hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i 2725/2000/EK tanácsi rendelet,
 
-b) a Tanács 343/2003/EK (2003. február 18.) rendelete az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról;
+b) az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2003. február 18-i 343/2003/EK tanácsi rendelet,
 
-c)[^250] a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i, 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet;
+c) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet,
 
-d)[^251] az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1561/2003/EK rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet;
+d) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet,
 
-e)[^252] az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet.
+e) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet,
+
+f) az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1561/2003/EK rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet, valamint
+
+g) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet
+
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) E rendelet a következő közösségi jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
@@ -60,6 +66,4 @@ b) a Bizottság 1560/2003/EK rendelete (2003. szeptember 2.) egy harmadik orszá
 [^247]: A 117. § (1) bekezdés m) pontját a 204/2015. (VII. 23.) Korm. rendelet 26. § (1) bekezdése iktatta be.
 [^248]: A 117. § (1) bekezdés n) pontját a 204/2015. (VII. 23.) Korm. rendelet 26. § (1) bekezdése iktatta be.
 [^249]: A 117. § (1) bekezdés o) pontját a 411/2017. (XII. 15.) Korm. rendelet 52. §-a iktatta be.
-[^250]: A 117. § (2) bekezdés c) pontját a 290/2010. (XII. 21.) Korm. rendelet 123. §-a iktatta be.
-[^251]: A 117. § (2) bekezdés d) pontját a 204/2015. (VII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
-[^252]: A 117. § (2) bekezdés e) pontját a 204/2015. (VII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^250]: A 117. § (2) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 11. §-ával megállapított szöveg.
