@@ -1,4 +1,4 @@
-## 1.[^95] Állandó személyvédelemben részesülő személyek
+## 1.[^96] Állandó személyvédelemben részesülő személyek
 
 ## 1. A köztársasági elnök
 
@@ -12,7 +12,7 @@
 
 ## 6. A legfőbb ügyész
 
-## 2.[^96] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
+## 2.[^97] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
 
 ## a) a Szent Koronához tartozó jelvények közül a koronázási palást,
 
@@ -20,13 +20,13 @@
 
 ## c) az Alkotmánybíróság épülete,
 
-## d) az Állami Számvevőszék központi épülete,
+## d)[^98] az Állami Számvevőszék Apáczai Csere János utcai és Lónyay utcai épületei,
 
 ## e) a Kúria épülete,
 
 ## f) a Legfőbb Ügyészség épülete,
 
-## g) a Miniszterelnökségnek a Budapest Nagysándor József utcai épülete és a Budapest Wesselényi utcai épülete,
+## g)[^99] a Miniszterelnökségnek a Miniszterelnökséget vezető miniszter elhelyezését biztosító épülete,
 
 ## h) a Belügyminisztériumnak a miniszter elhelyezését biztosító épülete,
 
@@ -42,9 +42,11 @@
 
 ## n) a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter elhelyezését biztosító épület,
 
-## o) az Információs Hivatal központi objektuma.
+## o) az Információs Hivatal központi objektuma,
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^97]
+## p)[^100] a miniszterelnök elhelyezését biztosító épület, valamint az annak megközelítését és elhagyását biztosító kiszolgálólétesítmény.
+
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^101]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -178,6 +180,9 @@
 
 65. Zalaegerszeg, Zala Megyei Szent Rafael Kórház
 
-[^95]: Az 1. melléklet 1. pontja a 120/2018. (VII. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^96]: Az 1. melléklet 2. pontja a 108/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^97]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^96]: Az 1. melléklet 1. pontja a 120/2018. (VII. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^97]: Az 1. melléklet 2. pontja a 108/2018. (VI. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^98]: Az 1. melléklet 2. pont d) alpontja a 267/2019. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^99]: Az 1. melléklet 2. pont g) alpontja a 267/2019. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^100]: Az 1. melléklet 2. pont p) alpontját a 267/2019. (XI. 19.) Korm. rendelet 2. §-a iktatta be.
+[^101]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.

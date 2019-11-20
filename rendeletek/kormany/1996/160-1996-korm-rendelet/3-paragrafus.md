@@ -26,11 +26,13 @@ c)[^15] belföldi utazása során – veszélyeztetettségének megfelelően –
 
 (3a)[^17] Az (1) bekezdésben meghatározottakon túl – ha az alapos okból szükséges – az 1. melléklet 1. pont 1–3. alpontjában meghatározott állandó személyvédelemben részesülő személynek a vele közös háztartásban élő házas- vagy élettársának és gyermekének védelme kiterjed a (2) bekezdés b) pontjában meghatározott védelmi intézkedésre is.
 
-(4)[^18] A védett személy védelmének rendjét a Terrorelhárítási Központ vagy a Készenléti Rendőrség határozza meg.
+(3b)[^18] Az (1) bekezdésben meghatározottakon túl a külpolitikáért felelős miniszter védelme külföldi utazására is kiterjed.
 
-(5)[^19] A védett személy magánprogramjának időtartamára a személyvédelem egyes elemeiről előzetesen írásban lemondhat.
+(4)[^19] A védett személy védelmének rendjét a Terrorelhárítási Központ vagy a Készenléti Rendőrség határozza meg.
 
-(6)[^20] A köztársasági elnök és a miniszterelnök a részvételével bonyolított hivatalos programhoz kapcsolódó személyvédelem egyes elemeiről – előzetesen és írásban – lemondhat, feltéve, hogy a hivatalos programon nem vesz részt
+(5)[^20] A védett személy magánprogramjának időtartamára a személyvédelem egyes elemeiről előzetesen írásban lemondhat.
+
+(6)[^21] A köztársasági elnök és a miniszterelnök a részvételével bonyolított hivatalos programhoz kapcsolódó személyvédelem egyes elemeiről – előzetesen és írásban – lemondhat, feltéve, hogy a hivatalos programon nem vesz részt
 
 a) a Kormány tagjai közé nem tartozó védett személy,
 
@@ -38,11 +40,11 @@ b) nemzetközileg védett személy,
 
 c) viszonosság alapján védett személynek tekintendő külföldi.
 
-(7)[^21] Ha az 1. § (2) bekezdés b) pontjában meghatározott személy személyvédelmének elrendelése indokolt, a Készenléti Rendőrség határozza meg, hogy a 3. § (1) és (3a) bekezdésében meghatározott védelmi intézkedések közül melyeket kell alkalmazni.
+(7)[^22] Ha az 1. § (2) bekezdés b) pontjában meghatározott személy személyvédelmének elrendelése indokolt, a Készenléti Rendőrség határozza meg, hogy a 3. § (1) és (3a) bekezdésében meghatározott védelmi intézkedések közül melyeket kell alkalmazni.
 
-(8)[^22] Ha az 1. § (1) bekezdés b) pontjában meghatározott személy személyvédelmének elrendelése indokolt, a Terrorelhárítási Központ határozza meg, hogy az (1) és (3a) bekezdésben meghatározott védelmi intézkedések közül melyeket kell alkalmazni.
+(8)[^23] Ha az 1. § (1) bekezdés b) pontjában meghatározott személy személyvédelmének elrendelése indokolt, a Terrorelhárítási Központ határozza meg, hogy az (1) és (3a) bekezdésben meghatározott védelmi intézkedések közül melyeket kell alkalmazni.
 
-(9)[^23] Az 1. § (1) bekezdés b) pontjában és az 1. § (2) bekezdés h) pontjában meghatározott személy személyvédelmének szükségességéről, az ott meghatározott állandó személyvédelemben részesülő személy személyvédelmét ellátó javaslata alapján, a rendészetért felelős miniszter dönt.
+(9)[^24] Az 1. § (1) bekezdés b) pontjában és az 1. § (2) bekezdés h) pontjában meghatározott személy személyvédelmének szükségességéről, az ott meghatározott állandó személyvédelemben részesülő személy személyvédelmét ellátó javaslata alapján, a rendészetért felelős miniszter dönt.
 
 [^12]: A 3. § (1) bekezdésének b) pontja a 197/1999. (XII. 21.) Korm. rendelet 2. §-ával megállapított, a 63/2010. (III. 18.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdés f) pontját a 232/2010. (VIII. 19.) Korm. rendelet 9. §-a iktatta be.
@@ -50,9 +52,10 @@ c) viszonosság alapján védett személynek tekintendő külföldi.
 [^15]: A 3. § (2) bekezdésének c) pontja a 197/1999. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^16]: A 3. § (3) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 4. §-ával megállapított, a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés a) pontja, a 102/2012. (V. 18.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^17]: A 3. § (3a) bekezdését a 83/2015. (III. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 4. § e) pontja, a 120/2018. (VII. 4.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^18]: A 3. § (4) bekezdése a 63/2010. (III. 18.) Korm. rendelet 12. § d) pontja, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^19]: A 3. § (5) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^20]: A 3. § (6) bekezdését a 144/2001. (VIII. 8.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 364/2012. (XII. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^21]: A 3. § (7) bekezdését újonnan a 83/2015. (III. 31.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^22]: A 3. § (8) bekezdését a 165/2017. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^23]: A 3. § (9) bekezdését a 165/2017. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 3. § (3b) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 3. § (4) bekezdése a 63/2010. (III. 18.) Korm. rendelet 12. § d) pontja, a 232/2010. (VIII. 19.) Korm. rendelet 16. § (1) bekezdése, a 102/2012. (V. 18.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^20]: A 3. § (5) bekezdése a 197/1999. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^21]: A 3. § (6) bekezdését a 144/2001. (VIII. 8.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 364/2012. (XII. 17.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^22]: A 3. § (7) bekezdését újonnan a 83/2015. (III. 31.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 165/2017. (VI. 28.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^23]: A 3. § (8) bekezdését a 165/2017. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 3. § (9) bekezdését a 165/2017. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
