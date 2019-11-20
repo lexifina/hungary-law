@@ -52,3 +52,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-114-20-
 | 2019-08-17 | 2007-114-20-22.53 | 176/2019. (VII. 18.) Korm. rendelet |
 | 2019-09-01 | 2007-114-20-22.54 | 277/2018. (XII. 21.) Korm. rendelet |
 | 2019-10-05 | 2007-114-20-22.55 | 232/2019. (X. 4.) Korm. rendelet |
+| 2019-11-20 | 2007-114-20-22.56 | 267/2019. (XI. 19.) Korm. rendelet |
