@@ -1,13 +1,13 @@
-38. §[^100] (1) A működést engedélyező szerv az ellenőrzésről készült jegyzőkönyvet megküldi
+38. §[^98] (1) A működést engedélyező szerv az ellenőrzésről készült jegyzőkönyvet megküldi
 
 a) a fenntartónak,
 
 b) az engedélyesnek,
 
-c)[^101] költségvetési támogatással működő engedélyes, valamint finanszírozási szerződéssel működtetett, szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka, fejlesztő foglalkoztatás, gyermekek esélynövelő szolgáltatása és krízisközpontként működő családok átmeneti otthona esetén másolatban – elektronikus levélben – az igazgatóságnak.
+c)[^99] költségvetési támogatással működő engedélyes, valamint finanszírozási szerződéssel működtetett, szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka, fejlesztő foglalkoztatás, gyermekek esélynövelő szolgáltatása és krízisközpontként működő családok átmeneti otthona esetén másolatban – elektronikus levélben – az igazgatóságnak.
 
-(2)[^102]
+(2)[^100]
 
-[^100]: A 38. § a 419/2015. (XII. 23.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^101]: A 38. § (1) bekezdés c) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés o) pontja, a 226/2018. (XII. 4.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^102]: A 38. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés m) pontja hatályon kívül helyezte.
+[^98]: A 38. § a 419/2015. (XII. 23.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^99]: A 38. § (1) bekezdés c) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés o) pontja, a 226/2018. (XII. 4.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^100]: A 38. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés m) pontja hatályon kívül helyezte.

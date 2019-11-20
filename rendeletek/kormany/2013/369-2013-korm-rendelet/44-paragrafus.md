@@ -1,5 +1,5 @@
-## 15.[^138]
+## 15.[^136]
 
 44. §
 
-[^138]: A 15. alcímet (44. §) a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés o) pontja hatályon kívül helyezte.
+[^136]: A 15. alcímet (44. §) a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés o) pontja hatályon kívül helyezte.
