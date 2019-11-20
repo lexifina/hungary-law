@@ -102,7 +102,9 @@ n)[^49] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról 
 
 o)[^50] másodfokon elbírálja a közúti közlekedésről szóló 1988. évi I. törvény 9. § (5) bekezdése alapján a területi szerv által hozott első fokú döntéssel szemben benyújtott fellebbezéseket, továbbá ezekben az ügyekben az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként jár el.
 
-(4)[^51] Az ORFK középirányító szervként – az Rtv.-ben foglalt irányítási feladatok mellett –
+(3a)[^51] Az ORFK gazdasági feladatkörében ellátja a központi bírságkezelő szerv kijelöléséről szóló kormányrendelet szerinti központi bírságkezelő szerv feladatait.
+
+(4)[^52] Az ORFK középirányító szervként – az Rtv.-ben foglalt irányítási feladatok mellett –
 
 a) gyakorolja a rendőr-főkapitányságok gazdasági vezetője tekintetében a kinevezés, felmentés, megbízás vagy megbízás visszavonásának jogkörét,
 
@@ -149,4 +151,5 @@ e) rendőr-főkapitányságokat jelentéstételre vagy beszámolóra kötelezhet
 [^48]: A 6. § (3) bekezdés m) pontját a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^49]: A 6. § (3) bekezdés n) pontját a 275/2016. (IX. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 298/2018. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^50]: A 6. § (3) bekezdés o) pontját a 457/2017. (XII. 28.) Korm. rendelet 205. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^51]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^51]: A 6. § (3a) bekezdését a 267/2019. (XI. 19.) Korm. rendelet 13. §-a iktatta be.
+[^52]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
