@@ -588,7 +588,7 @@ Ezek a költségek csak a közvetett költségeken belül számolhatóak el, má
 
 Közvetett költség a kizárólag működési célú támogatásra irányuló projektek keretében nem számolható el. A közvetett költség további korlátozására a pályázati kiírásban a Felelős Hatóság jogosult. A saját teljesítésben megvalósuló tevékenység esetén az önköltségi ár kalkulálásakor figyelembe vett, az útmutató által közvetett költségként definiált kiadások esetében az önköltségi áras költségtételekre vonatkozóan közvetett költség – a kettős finanszírozás elkerülése érdekében – a projekt keretében már nem tervezhető.
 
-4. Elszámolható költségekre vonatkozó százalékos korlátok
+4.[^49] Elszámolható költségekre vonatkozó százalékos korlátok
 
 A jelen Útmutató hatálya alá tartozó projektek vonatkozásában egyes költségeknek a projekt összes elszámolható közvetlen költségére vetített százalékos arányára a következő táblázatban összefoglalt korlátozásokat szükséges betartani.
 
@@ -620,7 +620,7 @@ A Felelős Hatóság a pályázati kiírás keretében további korlátokat hat�
 
 | 12. |  | nem beruházási jellegű projekt esetében | 7% |
 
-A táblázatban szereplő százalékos korlát a projekt megvalósításakor – projektszintű megtakarítás eredményeként – sem léphető át. A kiírásban meghatározott, de uniós jogszabályban vagy az Útmutatóban nem szabályozott százalékos korlát túllépésének engedélyezése, így különösen projektszintű megtakarítás esetén a Felelős Hatóság hatásköre.
+A táblázatban szereplő százalékos korlát a projekt megvalósításakor – projektszintű megtakarítás eredményeként – az egyszerűsített elszámolási módok alapján történő támogatás elszámolása esetén nem léphető át. A kiírásban meghatározott, de uniós jogszabályban vagy az Útmutatóban nem szabályozott százalékos korlát túllépésének engedélyezése, így különösen projektszintű megtakarítás esetén a Felelős Hatóság hatásköre.
 
 A táblázatban szereplő, százalékos korláttal korlátozott elszámolható költségek százalékban meghatározott átalányalapú módszerrel számolhatók el, ha a pályázati kiírás azt előírja vagy lehetővé teszi.
 
@@ -688,7 +688,7 @@ b) hitelkamat;
 
 c) pénzügyi, finanszírozási tranzakciókon realizált árfolyamveszteség;
 
-d) bírságok és perköltségek[^49];
+d) bírságok és perköltségek[^50];
 
 e) beépített föld vásárlása a projekt összes elszámolható közvetlen költségének 10%-át meghaladó mértékben;
 
@@ -696,7 +696,7 @@ f) beépítetlen földterület vásárlása;
 
 g) személyi költségek keretében a jutalom és a sikerdíj összege;
 
-h) szakképzési hozzájárulás[^50];
+h) szakképzési hozzájárulás[^51];
 
 i) olyan alvállalkozásba adott tevékenységek, amelyek anélkül emelik a végrehajtás költségeit, hogy hozzáadott értékkel rendelkeznének a projekt szempontjából;
 
@@ -795,5 +795,6 @@ Az egyösszegű átalány összegét a Felelős Hatóság az adott pályázati k
 [^46]: A 33/1998. (VI. 24.) NM rendelet alapján.
 [^47]: Például: 60/1992. (IV. 1.) Korm. rendelet.
 [^48]: Például: 20/2015. (VII. 31.) BM utasítás.
-[^49]: A polgári perrendtartásról szóló 1952. évi III. törvény 75. § (1) bekezdése szerinti perköltség fogalom alapján, függetlenül attól, hogy bíróság által megítélésre került-e.
-[^50]: a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáró1 szóló 2011. évi CLV. törvény szerinti
+[^49]: Az 1. melléklet 4. alcíme a 267/2019. (XI. 19.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^50]: A polgári perrendtartásról szóló 1952. évi III. törvény 75. § (1) bekezdése szerinti perköltség fogalom alapján, függetlenül attól, hogy bíróság által megítélésre került-e.
+[^51]: a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáró1 szóló 2011. évi CLV. törvény szerinti
