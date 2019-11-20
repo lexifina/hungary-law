@@ -1,0 +1,9 @@
+# 268/2019. (XI. 19.) Korm. rendelet
+
+a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-268-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-11-20 | 2019-268-20-22.1 | 268/2019. (XI. 19.) Korm. rendelet |
