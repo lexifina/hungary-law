@@ -10,5 +10,5 @@
 
 (5)[^3]
 
-[^2]: Az 5. § (2) bekezdése a 10. § (3) bekezdése alapján 2019. december 31-én lép hatályba.
-[^3]: Az 5. § (5) bekezdése a 10. § (3) bekezdése alapján 2019. december 31-én lép hatályba.
+[^2]: Az 5. § (2) bekezdése a 10. § (3) bekezdése alapján 2020. június 30-án lép hatályba.
+[^3]: Az 5. § (5) bekezdése a 10. § (3) bekezdése alapján 2020. június 30-án lép hatályba.

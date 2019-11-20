@@ -54,4 +54,4 @@ g) határon túli magyarlakta területeken felzárkózási modellprogramok átv�
 
 (6) A Főigazgatóság közreműködik a roma nemzetiséghez kapcsolódó feladatok ellátásában.
 
-[^1]: A 4. § (5) bekezdése a 10. § (4) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^1]: A 4. § (5) bekezdése a 10. § (4) bekezdése alapján 2020. július 1-jén lép hatályba.
