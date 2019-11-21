@@ -1,3 +1,0 @@
-## 17. §[^4] E rendelet 12. §-a – a tőkepiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 37/2018. (XI. 13.) MNB rendelet 9. §-ával együtt – az intézmények 575/2013/EU európai parlamenti és tanácsi rendelet szerinti felügyeleti adatszolgáltatása tekintetében végrehajtás-technikai standardok megállapításáról szóló, 2014. április 16-i 680/2014/EU bizottsági végrehajtási rendelet 17. cikk (1) bekezdése végrehajtásához szükséges rendelkezéseket állapít meg.
-
-[^4]: A 17. § a 22/2019. (V. 28.) MNB rendelet 1. § (4) bekezdés b) pontja szerint módosított szöveg.
