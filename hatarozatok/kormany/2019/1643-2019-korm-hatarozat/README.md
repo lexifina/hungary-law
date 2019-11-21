@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1643-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-11-20 | 2019-1643-30-22.1 | 1643/2019. (XI. 19.) Korm. határozat |
+| 2019-11-21 | 2019-1643-30-22.2 | 2010: CXXX. törvény |

@@ -6,12 +6,6 @@ b) mentesíti a MÁV-START Vasúti Személyszállító Zártkörűen Működő R
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
+3.[^1]
 
-a) 1. pont f) alpont fa) pont faa) alpontjában a „117,11%-áig” szövegrész helyébe a „118,18%-áig” szöveg,
-
-b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „547,938” szövegrész helyébe az „552,925” szöveg,
-
-c) 2. mellékletében foglalt táblázat D:38 mezőjében a „4,80” szövegrész helyébe a „4,99” szöveg
-
-lép.
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
