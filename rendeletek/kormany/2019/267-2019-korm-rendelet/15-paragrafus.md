@@ -1,3 +1,3 @@
-## 14. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 11. §-a a következő (5) bekezdéssel egészül ki:
+## 14. §[^14]
 
-## „(5) A Kormány a Bolgár Köztársaság, a Horvát Köztársaság, Magyarország és az Osztrák Köztársaság között a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértések miatt alkalmazott jogkövetkezmények határon átnyúló végrehajtásának elősegítéséről szóló Megállapodás kihirdetéséről, valamint egyes törvényeknek a közlekedésbiztonságot elősegítő európai uniós és nemzetközi kötelezettségek végrehajtásához szükséges módosításáról szóló 2012. évi CLXX. törvény 5. § (5) és (7) bekezdése szerinti magyar nemzeti kapcsolattartó pontként a Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányságot jelöli ki.”
+[^14]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

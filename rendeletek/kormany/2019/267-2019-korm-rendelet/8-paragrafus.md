@@ -1,3 +1,3 @@
-## 7. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet 18/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^7]
 
-## „(2) A hatóság a kishatárforgalmi engedélyt a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet szerinti kártyaformátumban állítja ki.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
