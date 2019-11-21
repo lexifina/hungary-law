@@ -1,0 +1,98 @@
+# A Kormány 276/2019. (XI. 21.) Korm. rendelete
+
+Magyar Közlöny 2019. évi 187. szám, 2019. november 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/Z3W2C12FMF5epNO3xnyH5dd440f023517/dokumentumok/fcabd43777db02f94873c5ed204f6f7091ee04ec/letoltes)
+
+---
+
+A Kormány 276/2019. (XI. 21.) Korm. rendelete
+az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló
+16/2016. (II. 10.) Korm. rendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi
+otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló
+16/2016. (II. 10.) Korm. rendelet módosítása
+1. §
+Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet
+(a továbbiakban: R1.) 68. §-a a következő c) ponttal egészül ki:
+(E fejezet alkalmazásában)
+„c) preferált kistelepülés: a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési
+kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 2. melléklete szerinti település.”
+2. §
+Az R1.
+a) 69. § (1) bekezdés nyitó szövegrészében az „Új lakás” szövegrész helyébe az „Új lakásnak preferált
+kistelepülésen történő”szöveg,
+b) 69. § (3) bekezdésében a „2015. január 1-jén vagy azt követően kiállított számla alapján legkésőbb
+2019. december 31-ig” szövegrész helyébe a „2018. január 1-jén vagy azt követően kiállított számla alapján
+legkésőbb 2022. június 30-ig”szöveg
+lép.
+2. A használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről
+szóló 17/2016. (II. 10.) Korm. rendelet módosítása
+3. §
+A használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016.
+(II. 10.) Korm. rendelet (a továbbiakban: R2.) 7/A. alcíme a következő 19/I. §-sal egészül ki:
+„19/I. § (1) Preferált kistelepülésen a 19/A. § (4) vagy (6) bekezdése szerinti célokra a természetes személy tulajdonos
+a hitelintézet által elfogadott költségvetésben szereplő bekerülési költség megfizetéséhez adó-visszatérítési
+támogatást igényelhet.
+
+(2) Az adó-visszatérítési támogatás az (1) bekezdés szerinti költségekre egyidejűleg és legfeljebb egy alkalommal,
+2018. január 1-jén vagy azt követően kiállított számla alapján igényelhető.
+(3) Az adó-visszatérítési támogatás összege megegyezik a bővítéshez, illetve a korszerűsítéshez megvásárolt
+anyagok és igénybe vett szolgáltatások számlájában feltüntetett és a kiállított számla szerint megfizetett általános
+forgalmi adó összegével, de legfeljebb 5 000 000 forint.
+(4) Az adó-visszatérítési támogatás kizárólag a 27 százalékos általános forgalmi adó mértékkel kiállított számla
+benyújtása esetén vehető igénybe. A 14. § (3) bekezdés e) pontja szerinti számlabemutatási kötelezettség
+teljesítésénél az 5 százalékos általános forgalmi adó mértékkel kiállított számla nem vehető figyelembe.
+(5) Ha az igénylő ezen alcím szerint családi otthonteremtési kedvezményt is igényel, ugyanazon hitelintézetnél
+egyidejűleg nyújthatja be az adó-visszatérítési támogatás és a családi otthonteremtési kedvezmény iránti
+kérelmét. Ebben az esetben az igénylőnek a magasabb összegű támogatásra vonatkozó, a 25. § alapján számított,
+az értékbecslés és a helyszíni szemle díját nem tartalmazó, de legfeljebb 30 000 forint összegű bírálati díjat kell
+megfizetnie.
+(6) Az adó-visszatérítési támogatást az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati
+járandóságban részesülő személyek is igényelhetik. Az e bekezdés szerinti ellátások esetén az adó-visszatérítési
+támogatás vonatkozásában a társadalombiztosítási jogviszony 14. § (1) bekezdés c) pontja szerinti igazolását nem
+kell benyújtani. Az e bekezdés szerinti ellátások igénybevételét az igénylő − együttes igénylők esetén legalább
+az egyik fél − az ellátás folyósítását megállapító hatósági határozat hitelintézetnél történő bemutatásával igazolja.
+(7) Az igénylő az adó-visszatérítési támogatás iránti kérelem benyújtásakor teljes bizonyító erejű magánokiratba
+foglalt nyilatkozatban hozzájárul ahhoz, hogy a 14. § (3) bekezdés a) pontjában foglalt adatait, valamint
+az adó-visszatérítési támogatásra vonatkozó információkat az adó-visszatérítési támogatás szabályszerű
+igénybevételének ellenőrzése céljából a hitelintézet felhasználja és továbbítsa a járási hivatal, Budapest Főváros
+Kormányhivatala, a Kincstár vagy az állami adóhatóság részére.
+(8) A támogatott személy az adó-visszatérítési támogatásra − ideértve a visszafizetéshez kapcsolódó kamatfizetési
+kötelezettséget is − vonatkozó visszafizetési kötelezettség kapcsán részletfizetési kérelemmel fordulhat a járási
+hivatalhoz. A járási hivatal eljárására a 39. § (4) bekezdésében foglaltakat kell megfelelően alkalmazni.
+(9) A támogatott személy az adó-visszatérítési támogatásra − ideértve a visszafizetéshez kapcsolódó kamatfizetési
+kötelezettséget is − vonatkozó visszafizetési kötelezettség halasztott teljesítése, mérséklése vagy elengedése iránti
+kérelemmel fordulhat a járási hivatalhoz. A járási hivatal eljárására a 39. § (5) és (7) bekezdésében foglaltakat kell
+megfelelően alkalmazni.
+(10) Az adó-visszatérítési támogatásra az 1. § (4) bekezdésében, a 2. § (1)–(3) bekezdésében, a 3. § (1), (2c) és
+(5) bekezdésében, a 4. §-ban, az 5. §-ban, a 6. § c) pontjában, a 7. §-ban, a 9. §-ban, a 12. §-ban, a 13. §-ban, a 14. §
+(1), (2), (2a) és (2b) bekezdésében, a 14. § (3) bekezdés a), c), e)–k) és o) pontjában, valamint a 14. § (5), (6), (8), (9),
+(9a), (9b) és (10) bekezdésében, a 15–19/C. §-ban, a 19/E. § (4)–(11) bekezdésében, a 19/G. §-ban, a 19/H. §-ban,
+a 24–33. §-ban, a 34. § (2)–(5) bekezdésében, a 35–38. §-ban, a 39. § (13) bekezdésében, valamint a 40–51. §-ban
+foglaltakat is megfelelően alkalmazni kell.”
+4. §
+Az R2. 15. alcíme a következő 62. §-sal egészül ki:
+„62. § E rendeletnek az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016.
+(II. 10.) Korm. rendelet, valamint a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési
+kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet módosításáról szóló 276/2019. (XI. 21.) Korm. rendelettel
+(a továbbiakban: Módr5.) megállapított 19/A. § (3) bekezdését és 19/I. §-át a Módr5. hatálybalépését megelőzően
+benyújtott, a Módr5. hatálybalépéséig még el nem bírált kérelmek esetén is alkalmazni kell azzal, hogy
+a) az igénylő a Módr5. hatálybalépését megelőzően hitelintézethez benyújtott kérelme kiegészítésével kérheti
+kérelmének ismételt elbírálását,
+b) az a) pont szerinti kiegészítő kérelmet az igénylő a Módr5. hatálybalépését követő 15 napon belül nyújthatja be
+a hitelintézethez,
+c) az a) pont szerinti kérelem kiegészítése esetén az igénylőnek a Módr5. hatálybalépését megelőzően benyújtott
+kérelem mellékleteit − a bekerülési költséget tartalmazó költségvetés kivételével – nem kell ismételten benyújtania,
+d) a hitelintézet az a) pont szerinti kérelem kiegészítésére tekintettel a 25. § szerinti díjat nem számíthatja fel,
+e) a 26. § (4a) bekezdése szerinti bírálati idő az a) pont szerinti kérelem kiegészítésének időpontjától újraindul.”
+
+5. §
+Az R2. 19/A. § (3) bekezdésében a „családi otthonteremtési kedvezményre és otthonteremtési kamattámogatásra”
+szövegrész helyébe a „családi otthonteremtési kedvezményre, otthonteremtési kamattámogatásra és
+adó-visszatérítési támogatásra”szöveg lép.
+3. Záró rendelkezések
+6. §
+Ez a rendelet 2020. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
