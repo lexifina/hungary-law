@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Kínai Népköztársaság (Heilongjiang Tartomány Oktatási Minisztériuma) között a Heilongjiang Kínai Orvostudományi Egyetem oktatási tevékenységének Magyarországon való támogatásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
