@@ -16,7 +16,10 @@ kormányzati szolgálati jogviszonyban álló, tartós külszolgálati pályáza
 
 (5)[^4] A 13. § (5) bekezdésének hatálya azon állami tulajdonú gazdasági társaság munkavállalóira is kiterjed, amely felett jogszabályi rendelkezés alapján az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására a külpolitikáért felelős miniszter került kijelölésre.
 
+(6)[^5] A 13. § (6) bekezdésének hatálya a továbbképzési kötelezettsége keretében a minisztérium által biztosított belső továbbképzési programot teljesítő kormánytisztviselőkre, köztisztviselőkre is kiterjed.
+
 [^1]: [A 127/2019. (V. 30.) Korm rendelet 11. §-ával elrendelt módosítás, amely szerint hatályát veszti az „a kormányzati ügykezelőkre,” szövegrész, nem vezethető át.]
 [^2]: Az 1. § (2) bekezdése a 17/2019. (II. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (4) bekezdése a 127/2019. (V. 30.) Korm rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (5) bekezdését a 127/2019. (V. 30.) Korm rendelet 3. § (2) bekezdése iktatta be.
+[^5]: Az 1. § (6) bekezdését a 279/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be.
