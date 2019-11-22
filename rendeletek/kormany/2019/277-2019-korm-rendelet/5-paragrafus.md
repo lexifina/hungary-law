@@ -1,0 +1,3 @@
+## 4. § Az Átr. 33. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) A szociális ágazati összevont pótlékhoz nyújtott támogatásban nem részesülő bölcsőde és mini bölcsőde fenntartója az (5) bekezdés szerinti összegű kiegészítő támogatásra jogosult. Az egyes szociális, gyermekjóléti és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 277/2019. (XI. 21.) Korm. rendelet hatálybalépése előtt megszűnt bölcsőde, mini bölcsőde után a fenntartó nem jogosult a támogatásra. A támogatást az igazgatóság 2019. december hónapban hivatalból, erre irányuló külön határozat meghozatala nélkül folyósítja, kivéve, ha a támogatásról a fenntartó az igazgatósághoz intézett írásbeli nyilatkozatával lemondott.”
