@@ -1,3 +1,3 @@
-9. melléklet a 38/2019. (XI. 20.) MNB rendelethez[^14]
+9. melléklet a 38/2019. (XI. 20.) MNB rendelethez[^15]
 
-[^14]: A 9. melléklet a 14. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^15]: A 9. melléklet a 14. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.

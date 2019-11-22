@@ -74,6 +74,6 @@
 
 ## A táblák kitöltésénél a PVF21A, PVF21B1, PVF21B2, PVF22A1 táblák kitöltési előírásai az irányadók.
 
-6. melléklet a 38/2019. (XI. 20.) MNB rendelethez[^11]
+6. melléklet a 38/2019. (XI. 20.) MNB rendelethez[^12]
 
-[^11]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–9. és 15–30. sora, az ott meghatározott felügyeleti jelentések táblái a 14. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^12]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–9. és 15–30. sora, az ott meghatározott felügyeleti jelentések táblái a 14. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.

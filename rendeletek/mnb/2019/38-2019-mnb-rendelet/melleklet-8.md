@@ -252,6 +252,6 @@
 
 ## A táblák kitöltésénél a PI81A, PI81BA, PI81BB, PI81C, PI82A táblák kitöltési előírásai az irányadók.
 
-8. melléklet a 38/2019. (XI. 20.) MNB rendelethez[^13]
+8. melléklet a 38/2019. (XI. 20.) MNB rendelethez[^14]
 
-[^13]: A 8. melléklet a 14. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^14]: A 8. melléklet a 14. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
