@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-489-20-
 | 2019-05-28 | 2013-489-20-22.15 | 123/2019. (V. 27.) Korm. rendelet |
 | 2019-06-15 | 2013-489-20-22.16 | 140/2019. (VI. 14.) Korm. rendelet |
 | 2019-10-05 | 2013-489-20-22.17 | 232/2019. (X. 4.) Korm. rendelet |
+| 2019-11-22 | 2013-489-20-22.18 | 277/2019. (XI. 21.) Korm. rendelet |
