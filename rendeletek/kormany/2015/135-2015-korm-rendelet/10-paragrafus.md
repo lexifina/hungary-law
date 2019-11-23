@@ -1,3 +1,3 @@
-## 9. §[^13] A Felelős Hatóság szabálytalansági eljárást folytat le, ha a támogatás felhasználásának ellenőrzésében részt vevő személy, szerv szabálytalansági gyanút észlel.
+## 9. §[^15] A Felelős Hatóság szabálytalansági eljárást folytat le, ha a támogatás felhasználásának ellenőrzését végző személy, szerv szabálytalansági gyanút észlel.
 
-[^13]: A 9. § a 306/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 9. § a 306/2017. (X. 27.) Korm. rendelet 3. §-ával megállapított, a 252/2019. (X. 24.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.

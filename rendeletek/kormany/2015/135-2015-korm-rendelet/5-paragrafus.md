@@ -24,6 +24,8 @@ j) gondoskodik az Európai Bizottság által az audit hatósági tevékenység h
 
 (3) A (2) bekezdésben meghatározott ellenőrzések végrehajtása érdekében az audit hatóság részére korlátlan betekintést és hozzáférést kell biztosítani a monitoring és információs rendszerhez, lehetővé téve azt, hogy az arra felhatalmazott, megbízólevéllel ellátott ellenőrök a támogatásra vonatkozó valamennyi információt megszerezhessék, és azok valódiságáról meggyőződhessenek.
 
-(4) A Felelős Személy az audit hatóság megállapításai alapján – ha abban rá vonatkozó, intézkedést igénylő megállapítás, ajánlás vagy javaslat szerepel – intézkedési tervet készít, és azt az audit hatóságnak megküldi.
+(4)[^11] A Felelős Személy az audit hatóság megállapításai alapján – ha abban rá vonatkozó, intézkedést igénylő megállapítás, ajánlás vagy javaslat szerepel – intézkedési tervet készít.
 
 (5) A Felelős Személy gondoskodik az intézkedési tervek megvalósításáról, illetve azok folyamatos nyomon követéséről, amelyről félévente, minden év május 15-ei és november 15-ei zárónappal beszámolót készít és a zárónapot követő 15 napon belül tájékoztatja az audit hatóságot a megvalósítást alátámasztó dokumentumok mellékelésével.
+
+[^11]: Az 5. § (4) bekezdése a 252/2019. (X. 24.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

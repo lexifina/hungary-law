@@ -26,7 +26,7 @@
 
 11. Menekültügyi, Migrációs és Integrációs Alap: a Menekültügyi, Migrációs és Integrációs Alap létrehozásáról, a 2008/381/EK tanácsi határozat módosításáról, valamint az 573/2007/EK és az 575/2007/EK európai parlamenti és tanácsi határozatok és a 2007/435/EK tanácsi határozat hatályon kívül helyezéséről szóló, az Európai Parlament és a Tanács 2014. április 16-i 516/2014/EU rendeletével létrehozott alap;
 
-12.[^4] monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti Fejlesztéspolitikai Adatbázis és Informatikai Információs Rendszer, valamint a Támogatási Szerződés megkötésétől a Belügyi Alapok információs rendszere;
+12.[^4] monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti Fejlesztéspolitikai Adatbázis és Informatikai Információs Rendszer, valamint a támogatási szerződés megkötésétől a Belügyi Alapok információs rendszere;
 
 13.[^5]
 
@@ -39,5 +39,5 @@
 [^1]: Az 1. § a 306/2017. (X. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § 6. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 10. pontja a 323/2018. (XII. 28.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^4]: A 2. § 12. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § 12. pontja a 306/2017. (X. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 252/2019. (X. 24.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
 [^5]: A 2. § 13. pontját a 323/2018. (XII. 28.) Korm. rendelet 39. § a) pontja hatályon kívül helyezte.

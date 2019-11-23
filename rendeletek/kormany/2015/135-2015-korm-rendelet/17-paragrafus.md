@@ -1,6 +1,6 @@
-## 16. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## 16/A. §[^45] E rendeletnek a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló 135/2015. (VI. 2.) Korm. rendelet módosításáról szóló 252/2019. (X. 24.) Korm. rendelettel (a továbbiakban: Mód.r.) megállapított 11. § (2)–(6) bekezdését, 12. § (1) bekezdés g) pontját és 13. § (9) bekezdését a Mód.r. hatálybalépését[^46] követően megindított szabálytalansági eljárások esetében kell alkalmazni.
 
-17. § (1)[^35]
+17. § (1)[^47]
 
 (2) Ez a rendelet a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -14,4 +14,6 @@ d) a Belső Biztonsági Alap részét képező, a rendőrségi együttműködés
 
 e) a Belső Biztonsági Alap részét képező, a külső határok és a vízumügy pénzügyi támogatására szolgáló eszköz létrehozásáról és az 574/2007/EK határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 515/2014/EU európai parlamenti és tanácsi rendelet.
 
-[^35]: A 17. § (1) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 39. § d) pontja hatályon kívül helyezte.
+[^45]: A 16/A. §-t a 252/2019. (X. 24.) Korm. rendelet 5. §-a iktatta be.
+[^46]: A hatálybalépés időpontja 2019. november 23.
+[^47]: A 17. § (1) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 39. § d) pontja hatályon kívül helyezte.
