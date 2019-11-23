@@ -1,3 +1,3 @@
-11. melléklet a 40/2019. (XI. 21.) MNB rendelethez[^16]
+11. melléklet a 40/2019. (XI. 21.) MNB rendelethez[^17]
 
-[^16]: A 11. melléklet a 12. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^17]: A 11. melléklet a 12. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.

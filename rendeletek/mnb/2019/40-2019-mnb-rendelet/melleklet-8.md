@@ -112,6 +112,6 @@
 
 ## III–V.
 
-8. melléklet a 40/2019. (XI. 21.) MNB rendelethez[^13]
+8. melléklet a 40/2019. (XI. 21.) MNB rendelethez[^14]
 
-[^13]: A 8. melléklet a 12. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^14]: A 8. melléklet a 12. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.

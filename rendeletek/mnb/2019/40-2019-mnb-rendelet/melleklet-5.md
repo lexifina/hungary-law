@@ -1,3 +1,3 @@
-5. melléklet a 40/2019. (XI. 21.) MNB rendelethez[^10]
+5. melléklet a 40/2019. (XI. 21.) MNB rendelethez[^11]
 
-[^10]: Az 5. melléklet a 12. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^11]: Az 5. melléklet a 12. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
