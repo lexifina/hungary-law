@@ -1,0 +1,1 @@
+## „(6) A Felelős Hatóság a szabálytalansági gyanú észlelésével egyidejűleg a támogatás kifizetését, vagy az előleg terhére elszámolásra benyújtott, szabálytalansággal érintett költségtételek jóváhagyását felfüggeszti. A kifizetés, valamint a jóváhagyás felfüggesztéséről és a felfüggesztés megszüntetéséről a kedvezményezettet haladéktalanul tájékoztatni kell.”
