@@ -1,5 +1,0 @@
-A Kormány
-
-a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
-
-az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
