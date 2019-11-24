@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-272-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-11-23 | 2019-272-20-22.1 | 272/2019. (XI. 20.) Korm. rendelet |
+| 2019-11-24 | 2019-272-20-22.2 | 2010: CXXX. törvény |
