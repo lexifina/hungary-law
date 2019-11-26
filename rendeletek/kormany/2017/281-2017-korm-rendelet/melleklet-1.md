@@ -1,79 +1,49 @@
 1. melléklet a 281/2017. (IX. 22.) Korm. rendelethez[^7]
 
-|  | A |
+| A partnerek listája |
 
-| 1. | Partnerek listája |
+| 1. | Ausztrál Államszövetség |
 
-| 2. | Afganisztáni Iszlám Köztársaság |
+| 2. | Belize |
 
-| 3. | Ausztrál Államszövetség |
+| 3. | Dominikai Közösség |
 
-| 4. | Bahreini Királyság |
+| 4. | Dominikai Köztársaság |
 
-| 5. | Belize |
+| 5. | Elefántcsontparti Köztársaság |
 
-| 6. | Bolíviai Többnemzetiségű Állam |
+| 6. | Gaboni Köztársaság |
 
-| 7. | Brunei Darussalam Állam |
+| 7. | Grenada |
 
-| 8. | Dominikai Közösség |
+| 8. | Guatemalai Köztársaság |
 
-| 9. | Dominikai Köztársaság |
+| 9. | Guyanai Köztársaság |
 
-| 10. | Egyiptomi Arab Köztársaság |
+| 10. | Kiribati Köztársaság |
 
-| 11. | Elefántcsontparti Köztársaság |
+| 11. | Madagaszkári Köztársaság |
 
-| 12. | Gaboni Köztársaság |
+| 12. | Mali Köztársaság |
 
-| 13. | Grenada |
+| 13. | Namíbiai Köztársaság |
 
-| 14. | Guatemalai Köztársaság |
+| 14. | Nepáli Demokratikus Szövetségi Köztársaság |
 
-| 15. | Guyanai Köztársaság |
+| 15. | Nigeri Köztársaság |
 
-| 16. | Indonéz Köztársaság |
+| 16. | Palesztina |
 
-| 17. | Katari Állam |
+| 17. | Saint Lucia |
 
-| 18. | Kirgizisztán |
+| 18. | Salvadori Köztársaság |
 
-| 19. | Kiribati Köztársaság |
+| 19. | São Tomé és Príncipe Demokratikus Köztársaság |
 
-| 20. | Madagaszkár |
+| 20. | Seychelle Köztársaság |
 
-| 21. | Malajzia |
+| 21. | Szenegáli Köztársaság |
 
-| 22. | Mali Köztársaság |
+| 22. | Tajvan |
 
-| 23. | Mianmari Államszövetség |
-
-| 24. | Namíbiai Köztársaság |
-
-| 25. | Nepáli Demokratikus Szövetségi Köztársaság |
-
-| 26. | Nigeri Köztársaság |
-
-| 27. | Palesztina |
-
-| 28. | Saint Lucia |
-
-| 29. | Salvadori Köztársaság |
-
-| 30. | São Tomé és Príncipe Demokratikus Köztársaság |
-
-| 31. | Seychelle Köztársaság |
-
-| 32. | Szaúd-arábiai Királyság |
-
-| 33. | Szenegál |
-
-| 34. | Szingapúr |
-
-| 35. | Tajvan |
-
-| 36. | Thaiföldi Királyság |
-
-| 37. | Törökország |
-
-[^7]: Az 1. melléklet a 7/2018. (II. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet a 281/2019. (XI. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
