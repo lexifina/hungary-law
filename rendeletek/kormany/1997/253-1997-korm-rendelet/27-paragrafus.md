@@ -1,4 +1,4 @@
-27. §[^81] (1) A zöldterület állandóan növényzettel fedett közterület (közpark, közkert), amely a település klimatikus viszonyainak megőrzését, javítását, ökológiai rendszerének védelmét, a pihenést és testedzést szolgálja.
+27. §[^82] (1) A zöldterület állandóan növényzettel fedett közterület (közpark, közkert), amely a település klimatikus viszonyainak megőrzését, javítását, ökológiai rendszerének védelmét, a pihenést és testedzést szolgálja.
 
 (2) A zöldterületnek közútról, köztérről közvetlenül – kerekesszékkel és gyermekkocsival is – megközelíthetőnek és használhatónak kell lennie.
 
@@ -20,4 +20,4 @@ ba) a megengedett legnagyobb beépítettség: 3%,
 
 bb) a legkisebb zöldfelület: 70%.
 
-[^81]: A 27. § a 90/2012. (IV. 26.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^82]: A 27. § a 90/2012. (IV. 26.) Korm. rendelet 19. §-ával megállapított szöveg.
