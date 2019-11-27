@@ -1,4 +1,4 @@
-## 14/A. [^52] A Duna-parti építési szabályzat
+## 14/A. [^56] A Duna-parti építési szabályzat
 
 19/A. § (1) A Duna-parti építési szabályzat a fővárosi településszerkezeti tervvel és a fővárosi rendezési szabályzattal összhangban készül. Eltérés igénye esetén a fővárosi településszerkezeti terv és a fővárosi rendezési szabályzat módosításáról előzetesen kell dönteni.
 
@@ -10,4 +10,4 @@
 
 (5) A szabályozási terven – tájékoztató jelleggel – legalább egy telek mélységben be kell mutatni a szomszédos környezet jellemzőit is.
 
-[^52]: A 14/A. alcímet (19/A. §) a 266/2013. (VII. 11.) Korm. rendelet 54. § (1) bekezdése iktatta be.
+[^56]: A 14/A. alcímet (19/A. §) a 266/2013. (VII. 11.) Korm. rendelet 54. § (1) bekezdése iktatta be.

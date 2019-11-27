@@ -1,6 +1,6 @@
-## 46/H. §[^193] E rendeletnek a településtervezéssel összefüggésben az örökségvédelmi feladatellátás egyszerűsítését szolgáló kormányrendeletek módosításáról szóló 38/2019. (III. 6.) Korm. rendelettel (a továbbiakban: Mód. Kr.8.) megállapított 38/A. §-át, 43/A. § (6) bekezdés b) és c) pontját és 9. mellékletét a Mód. Kr.8. hatálybalépésekor[^194] folyamatban lévő településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszköz, településképi arculati kézikönyv és településképi rendelet készítése és módosítása, illetve az ezekhez kapcsolódó adatszolgáltatás során is alkalmazni kell.
+## 46/I. §[^200] E rendeletnek az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet és a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet módosításáról szóló 269/2019. (XI. 19.) Korm. rendelettel (a továbbiakban: Mód. Kr.9.) megállapított 11. § (9)–(12) bekezdését a MódR9. hatálybalépésekor[^201] folyamatban lévő, új lakóterület kijelölésére irányuló településrendezési eszköz készítése és módosítása során is alkalmazni kell.
 
 ## 34. Módosuló és hatályon kívül helyező rendelkezések
 
-[^193]: A 46/H. §-t a 38/2019. (III. 6.) Korm. rendelet 6. §-a iktatta be.
-[^194]: A hatálybalépés időpontja 2019. március 14.
+[^200]: A 46/I. §-t a 269/2019. (XI. 19.) Korm. rendelet 4. §-a iktatta be.
+[^201]: A hatálybalépés időpontja 2019. november 27.

@@ -1,4 +1,4 @@
-## 17/D. [^74] A reklámokra, reklámhordozókra és egyéb műszaki berendezésekre vonatkozó településképi követelmények
+## 17/D. [^78] A reklámokra, reklámhordozókra és egyéb műszaki berendezésekre vonatkozó településképi követelmények
 
 23/H. § (1) A településképi rendeletben a reklámokra és reklámhordozókra vonatkozó településképi követelményeket
 
@@ -20,4 +20,4 @@ d) az elhelyezhető reklámhordozók és egyéb műszaki berendezések számára
 
 e) az elhelyezhető reklámhordozók és egyéb műszaki berendezések anyaghasználatára
 
-[^74]: A 17/D. alcím (23/H. §) a 105/2017. (IV. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^78]: A 17/D. alcím (23/H. §) a 105/2017. (IV. 28.) Korm. rendelet 2. §-ával megállapított szöveg.

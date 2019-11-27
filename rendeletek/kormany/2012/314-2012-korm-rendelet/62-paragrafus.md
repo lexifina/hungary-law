@@ -1,3 +1,3 @@
-## 61. §[^208]
+## 61. §[^215]
 
-[^208]: A 61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^215]: A 61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

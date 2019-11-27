@@ -1,34 +1,34 @@
 ## 31. §
 
-## 24. [^109] A településrendezési eszközök készítése, módosítása egyeztetésének és elfogadásának szabályai
+## 24. [^114] A településrendezési eszközök készítése, módosítása egyeztetésének és elfogadásának szabályai
 
 32. § (1) A településrendezési eszközök egyeztetési eljárása e rendeletben meghatározottak szerint lehet:
 
 a) teljes,
 
-b)[^110] egyszerűsített,
+b)[^115] egyszerűsített,
 
-c)[^111] tárgyalásos vagy
+c)[^116] tárgyalásos vagy
 
-d)[^112] állami főépítészi
+d)[^117] állami főépítészi
 
 ## eljárás.
 
-(2)[^113] Az eljárás típusának meghatározása e rendeletben foglalt követelmények szerint történik, a településrendezési eszközök kidolgozását vagy módosítását megelőzően. Amennyiben az eljárás típusa nem határozható meg egyértelműen, a polgármester egyeztetést kezdeményez a kérdés eldöntésének érdekében az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál, amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
+(2)[^118] Az eljárás típusának meghatározása e rendeletben foglalt követelmények szerint történik, a településrendezési eszközök kidolgozását vagy módosítását megelőzően. Amennyiben az eljárás típusa nem határozható meg egyértelműen, a polgármester egyeztetést kezdeményez a kérdés eldöntésének érdekében az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál, amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
 
-(3)[^114] Településrendezési eszköz készítése és módosítása során – a (4)–(6a) bekezdésben meghatározott esetek kivételével – teljes eljárást kell lefolytatni.
+(3)[^119] Településrendezési eszköz készítése és módosítása során – a (4)–(6a) bekezdésben meghatározott esetek kivételével – teljes eljárást kell lefolytatni.
 
 (4) A településrendezési eszköz egyeztetése történhet az egyszerűsített eljárás szerint, amennyiben a településrendezési eszköz módosítása során az alábbi feltételek egyaránt teljesülnek:
 
 a) a településszerkezetet meghatározó műszaki infrastruktúra főhálózat nem változik,
 
-b)[^115] nem történik új beépítésre szánt terület kijelölése, kivéve, ha a képviselő-testület döntésében a módosítást gazdaságfejlesztő beruházás megvalósulása érdekében támogatja,
+b)[^120] nem történik új beépítésre szánt terület kijelölése, kivéve, ha a képviselő-testület döntésében a módosítást gazdaságfejlesztő beruházás megvalósulása érdekében támogatja,
 
 c) nem történik zöld, vízgazdálkodási, erdő- és természetközeli terület megszüntetése.
 
 (5) A (4) bekezdésben foglaltakon túl a településrendezési eszköz egyeztetése történhet az egyszerűsített eljárás szerint, ha az Étv. 6. § (2) bekezdése szerint kerül sor a településrendezési eszköz készítésére vagy módosítására.
 
-(6)[^116] A településrendezési eszköz egyeztetése tárgyalásos eljárás szerint történik, amennyiben a településrendezési eszköz készítése vagy módosítása
+(6)[^121] A településrendezési eszköz egyeztetése tárgyalásos eljárás szerint történik, amennyiben a településrendezési eszköz készítése vagy módosítása
 
 a) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó ügy tárgyát képező építési beruházás megvalósítása miatt indokolt,
 
@@ -36,7 +36,7 @@ b) a Kormány által rendeletben kihirdetett veszélyhelyzet esetén, az érinte
 
 c) a képviselő-testület döntésével kiemelt fejlesztési területté nyilvánított területen, beruházás megvalósítása miatt indokolt.
 
-(6a)[^117] A településrendezési eszköz egyeztetése állami főépítészi eljárás szerint történik, amennyiben a településrendezési eszköz módosítása
+(6a)[^122] A településrendezési eszköz egyeztetése állami főépítészi eljárás szerint történik, amennyiben a településrendezési eszköz módosítása
 
 a) magasabb szintű jogszabályi változás átvezetése, érvényesítése, valamint jogszabályi harmonizáció érdekében történik, a 28. § (4) bekezdésében foglalt eset kivételével;
 
@@ -54,18 +54,18 @@ d) helyi építési szabályzatban meghatározott előírás pontosítása érde
 
 e) a településképi rendelettel történő összhang megteremtése érdekében történik.
 
-(7)[^118] Az önkormányzat bármely koncepció, stratégia és településrendezési eszköz készítése során alkalmazhatja a teljes eljárást, valamint indíthatja az eljárást az előzetes tájékoztatási szakasz kezdeményezésével.
+(7)[^123] Az önkormányzat bármely koncepció, stratégia és településrendezési eszköz készítése során alkalmazhatja a teljes eljárást, valamint indíthatja az eljárást az előzetes tájékoztatási szakasz kezdeményezésével.
 
-(8)[^119] A kiemelt nemzeti emlékhely és településkép-védelmi környezetének területét és a területhez közvetlenül kapcsolódó területet érintő településrendezési eszköz egyeztetése során a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben foglalt településrendezési eszközök egyeztetésére vonatkozó szabályokat is alkalmazni kell.
+(8)[^124] A kiemelt nemzeti emlékhely és településkép-védelmi környezetének területét és a területhez közvetlenül kapcsolódó területet érintő településrendezési eszköz egyeztetése során a kiemelt nemzeti emlékhely és településkép-védelmi környezetének településkép védelméről és egyes kapcsolódó kormányrendeletek módosításáról szóló kormányrendeletben foglalt településrendezési eszközök egyeztetésére vonatkozó szabályokat is alkalmazni kell.
 
-[^109]: A 24. alcím címe a 400/2016. (XII. 5.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^110]: A 32. § (1) bekezdés b) pontja a 217/2018. (XI. 27.) Korm. rendelet 24. § b) pontjával megállapított szöveg.
-[^111]: A 32. § (1) bekezdés c) pontja a 217/2018. (XI. 27.) Korm. rendelet 24. § c) pontjával megállapított szöveg.
-[^112]: A 32. § (1) bekezdés d) pontját a 400/2016. (XII. 5.) Korm. rendelet 19. § (1) bekezdése iktatta be.
-[^113]: A 32. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^114]: A 32. § (3) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
-[^115]: A 32. § (4) bekezdés b) pontja a 400/2016. (XII. 5.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
-[^116]: A 32. § (6) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^117]: A 32. § (6a) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 19. § (3) bekezdése iktatta be.
-[^118]: A 32. § (7) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
-[^119]: A 32. § (8) bekezdését a 19/2018. (II. 14.) Korm. rendelet 59. §-a iktatta be.
+[^114]: A 24. alcím címe a 400/2016. (XII. 5.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^115]: A 32. § (1) bekezdés b) pontja a 217/2018. (XI. 27.) Korm. rendelet 24. § b) pontjával megállapított szöveg.
+[^116]: A 32. § (1) bekezdés c) pontja a 217/2018. (XI. 27.) Korm. rendelet 24. § c) pontjával megállapított szöveg.
+[^117]: A 32. § (1) bekezdés d) pontját a 400/2016. (XII. 5.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^118]: A 32. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^119]: A 32. § (3) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
+[^120]: A 32. § (4) bekezdés b) pontja a 400/2016. (XII. 5.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^121]: A 32. § (6) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^122]: A 32. § (6a) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^123]: A 32. § (7) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
+[^124]: A 32. § (8) bekezdését a 19/2018. (II. 14.) Korm. rendelet 59. §-a iktatta be.
