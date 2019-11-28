@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-130-30-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-11-27 | 2019-130-30-63.1 | 130/2019. (XI. 27.) ME határozat |
+| 2019-11-28 | 2019-130-30-63.2 | 2010: CXXX. törvény |
