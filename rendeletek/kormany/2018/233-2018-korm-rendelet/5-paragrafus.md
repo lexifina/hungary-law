@@ -4,7 +4,7 @@
 
 a) a Beruházás megnevezésére és előkészítőjének (a továbbiakban: kormányzati felelős szerv) kijelölésére, valamint a Beruházás előkészítésében részt vevő állami és egyéb szereplőkre,
 
-b) a Beruházás megvalósítójának megnevezésére, állami magasépítési beruházás esetén kizárólag akkor, ha az eltér a Beruházási Ügynökségtől,
+b)[^2] a Beruházás megvalósítójának megnevezésére,
 
 c) a Beruházás során létrejött építmény jövőbeni vagyonkezelőjének és az üzemeltetőjének és – ha a vagyonkezelő és az üzemeltető nem azonos az építmény használójával – a Beruházás során létrejött építmény használójának kijelölésére,
 
@@ -21,3 +21,5 @@ h) az előkészítés támogatott fázisainak megvalósításra fordítható kö
 (3) A Kormány az (1) bekezdés szerinti döntésében rendelkezhet az egyes előkészítési fázisok megvalósítójáról.
 
 (4) Ha a Kormány az egyes fázisok megvalósítójáról nem hoz döntést, úgy azt a kormányzati felelős szerv az állami vagyon felügyeletéért felelős miniszterrel egyetértésben jelöli ki.
+
+[^2]: Az 5. § (2) bekezdés b) pontja a 282/2019. (XI. 27.) Korm. rendelet 33. § 2. pontja szerint módosított szöveg.

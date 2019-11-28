@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-233-20-
 | --- | --- | --- |
 | 2019-01-01 | 2018-233-20-22.1 | 233/2018. (XII. 6.) Korm. rendelet |
 | 2019-01-02 | 2018-233-20-22.2 | 2010: CXXX. törvény |
+| 2019-11-28 | 2018-233-20-22.3 | 282/2019. (XI. 27.) Korm. rendelet |
