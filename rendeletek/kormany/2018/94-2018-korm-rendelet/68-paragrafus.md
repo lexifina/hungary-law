@@ -22,4 +22,6 @@ fc) közreműködik az európai uniós és nemzetközi támogatások felhasznál
 
 g) koordinálja és harmonizálja az államháztartási belső kontroll rendszerek működtetésével, fejlesztésével, harmonizációjával és koordinációjával kapcsolatos feladatokat,
 
-h) ellátja az Európai Unió közös agrárpolitikája I. és II. pilléréhez kapcsolódó kifizetések végrehajtását.
+h)[^26]
+
+[^26]: A 68. § (2) bekezdés h) pontját a 282/2019. (XI. 27.) Korm. rendelet 30. §-a hatályon kívül helyezte.

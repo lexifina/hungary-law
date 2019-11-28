@@ -16,7 +16,7 @@
 
 7. kultúráért,
 
-8.[^31] – a 116. § 24. pontjában, valamint a 2. mellékletben foglalt kivétellel – oktatásért
+8.[^32] – a 116. § 24. pontjában, valamint a 2. mellékletben foglalt kivétellel – oktatásért
 
 9. sportpolitikáért,
 
@@ -24,12 +24,12 @@
 
 11. szociál- és nyugdíjpolitikáért,
 
-12.[^32]
+12.[^33]
 
 felelős tagja.
 
-(2)[^33]
+(2)[^34]
 
-[^31]: A 92. § (1) bekezdés 8. pontja a 209/2019. (VIII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^32]: A 92. § (1) bekezdés 12. pontját a 84/2019. (IV. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^33]: A 92. § (2) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^32]: A 92. § (1) bekezdés 8. pontja a 209/2019. (VIII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^33]: A 92. § (1) bekezdés 12. pontját a 84/2019. (IV. 18.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^34]: A 92. § (2) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.

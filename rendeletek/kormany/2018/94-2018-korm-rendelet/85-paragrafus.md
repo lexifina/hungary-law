@@ -1,5 +1,5 @@
-85. § (1)[^28] A miniszter a földügyért való felelőssége keretében előkészíti a földminősítési rendszerre, a földhasznosítási előírások érvényesülésére, a földforgalom szabályozására, a földvédelemre, a talajvédelemre, a földhitel rendszerére és a földtulajdoni előírások érvényesülésére vonatkozó jogszabályokat.
+85. § (1)[^29] A miniszter a földügyért való felelőssége keretében előkészíti a földminősítési rendszerre, a földhasznosítási előírások érvényesülésére, a földforgalom szabályozására, a földvédelemre, a talajvédelemre, a földhitel rendszerére és a földtulajdoni előírások érvényesülésére vonatkozó jogszabályokat.
 
 (2) A miniszter a földügyért való felelőssége keretében felel a termőföld védelméért és a talajvédelemért.
 
-[^28]: A 85. § (1) bekezdése az 59/2019. (III. 25.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^29]: A 85. § (1) bekezdése az 59/2019. (III. 25.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
