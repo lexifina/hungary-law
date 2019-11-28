@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere
 
-## Határidő: 2018. június 30., az Üldözött keresztények segítésének feladatai alcím javára átcsoportosított összesen 690 000 000 forint tekintetében 2019. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 830,0 millió forint tekintetében 2019. december 31.[^2]
+## Határidő: 2018. június 30., az Üldözött keresztények segítésének feladatai alcím javára átcsoportosított összesen 690 000 000 forint tekintetében 2019. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 830,0 millió forint tekintetében 2020. június 30., az Országos Tisztifőorvosi Hivatal és intézményei, valamint egyéb népegészségügyi intézetek cím javára átcsoportosított 481 100 000 forint tekintetében 2019. december 31.[^2]
 
 ## 2–4.[^3]
 
@@ -160,7 +160,7 @@ Költségvetési év: 2017.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 10. pontja, az 1133/2018. (III. 26.) Korm. határozat 7. pontja, az 1347/2018. (VII. 26.) Korm. határozat 17. pontja, az 1104/2019. (III. 8.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1013/2018. (II. 2.) Korm. határozat 10. pontja, az 1133/2018. (III. 26.) Korm. határozat 7. pontja, az 1347/2018. (VII. 26.) Korm. határozat 17. pontja, az 1104/2019. (III. 8.) Korm. határozat 6. pontja, az 1668/2019. (XI. 28.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: Az 1317/2019. (V. 30.) Korm. határozat 1. pontja alapján az elszámolás és visszatérítés határideje az Üldözött keresztények segítésének feladatai alcím javára átcsoportosított összesen 690 000 000 forint tekintetében 2020. június 30.
 [^3]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 6–16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
