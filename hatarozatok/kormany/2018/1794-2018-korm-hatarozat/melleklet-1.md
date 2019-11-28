@@ -1,6 +1,6 @@
 ## 1. egyetért a 2018. szeptember 14–16. napja között a Magyar Tenisz Szövetség (a továbbiakban: Szövetség) által Magyarországon megrendezett 2018. évi Davis Kupa világcsoport rájátszás pénzügyi elszámolása érdekében legfeljebb 289 241 989 forint rendezési költség fedezetéül szolgáló központi költségvetési támogatás biztosításával;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont szerinti támogatási cél megvalósításához 289 241 989 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára, az 1. melléklet szerint;
+## 2.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont szerinti támogatási cél megvalósításához 289 241 989 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Központi kezelésű előirányzatok cím, 1. Rendkívüli kormányzati intézkedések alcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. március 31.
+## Határidő: 2019. december 31.
 
 ## 3. felhívja az emberi erőforrások miniszterét, hogy az 1. pontban foglaltak megvalósítása érdekében adjon ki támogatói okiratot az elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében pedig visszafizetési kötelezettség rögzítésével a Szövetség részére, a 2. pontban nyújtott forrás terhére.
 
@@ -85,3 +85,5 @@
 | Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1668/2019. (XI. 28.) Korm. határozat 13. pontja szerint módosított szöveg.
