@@ -3,4 +3,4 @@
 1. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^4]
 
 [^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 216/2018. (XI. 27.) Korm. rendelet 2. §-a iktatta be.
-[^4]: Az 1. melléklet a 216/2018. (XI. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. melléklet a 216/2018. (XI. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 273/2019. (XI. 20.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
