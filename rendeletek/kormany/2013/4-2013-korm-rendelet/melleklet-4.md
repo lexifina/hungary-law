@@ -10,7 +10,7 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^305]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^309]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -106,4 +106,4 @@ szükséges praxisjog vásárlásának támogatása,
 
 – speciális finanszírozású szakellátás.
 
-[^305]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja, a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 2–3. pontja, a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^309]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1–2. pontja és 11. § 13–14. pontja, a 380/2017. (XII. 11.) Korm. rendelet 5. § (2) bekezdés 2–3. pontja, a 203/2018. (XI. 5.) Korm. rendelet 3. § (3) bekezdés 3. pontja szerint módosított szöveg.

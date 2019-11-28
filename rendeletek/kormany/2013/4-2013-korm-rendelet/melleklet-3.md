@@ -44,7 +44,7 @@
 
 | 20. | nincs címrendhez kötve | Európai Uniós támogatások pénzügyi lebonyolításában, illetve ehhez kapcsolódó beszámolási és könyvvezetési kötelezettség teljesítésében részt vevő szervezetek | Az Európai Uniós támogatásokhoz kapcsolódó követelések és kötelezettségek adatai A központi költségvetés által korábban megelőlegezett, lezárt EU-s támogatási konstrukciókhoz kapcsolódó átadásra kerülő Európai Unióval szembeni követelések adatai | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^304]
+3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^308]
 
 ## Maradványkimutatás
 
@@ -74,4 +74,4 @@ III. Vállalkozási tevékenység költségvetési egyenlege (05–06)
 
 IV. Vállalkozási tevékenység finanszírozási egyenlege (07–08)
 
-[^304]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
+[^308]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
