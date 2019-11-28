@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1348-30
 | 2018-07-26 | 2016-1348-30-22.8 | 1104/2017. (III. 6.) Korm. határozat |
 | 2019-03-08 | 2016-1348-30-22.9 | 1104/2017. (III. 6.) Korm. határozat |
 | 2019-04-30 | 2016-1348-30-22.10 | 1104/2017. (III. 6.) Korm. határozat |
+| 2019-11-28 | 2016-1348-30-22.11 | 1104/2017. (III. 6.) Korm. határozat |
