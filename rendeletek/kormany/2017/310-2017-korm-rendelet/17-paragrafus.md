@@ -1,4 +1,4 @@
-17. § (1)[^10] A Kincstár feladatkörébe tartozik az Integrált Igazgatási és Ellenőrzési Rendszer (a továbbiakban: IIER) működtetése és annak továbbfejlesztése. A Kincstár e feladatkörében működteti
+17. § (1)[^18] A Kincstár feladatkörébe tartozik az Integrált Igazgatási és Ellenőrzési Rendszer (a továbbiakban: IIER) működtetése és annak továbbfejlesztése. A Kincstár e feladatkörében működteti
 
 a) az ügyfélnyilvántartási rendszert,
 
@@ -22,4 +22,4 @@ működtetése.
 
 (4) A (3) bekezdés szerinti adatszolgáltatást a Nemzeti Élelmiszerlánc-biztonsági Hivatal köteles teljesíteni úgy, hogy az adatok az országosan egységes feladatellátást lehetővé tegyék.
 
-[^10]: A 17. § (1) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^18]: A 17. § (1) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 39. §-a szerint módosított szöveg.

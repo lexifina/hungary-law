@@ -1,8 +1,8 @@
 ## 2. A Kincstár államháztartási feladataival összefüggő rendelkezések
 
-9. § (1)[^4] A Kormány az Áht. 109. § (2) bekezdés a) pontja szerinti szervként a Kincstárt jelöli ki.
+9. § (1)[^10] A Kormány az Áht. 109. § (2) bekezdés a) pontja szerinti szervként a Kincstárt jelöli ki.
 
-(2)[^5] A Kincstár az Áht.-ban és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben meghatározott feladatai körében
+(2)[^11] A Kincstár az Áht.-ban és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben meghatározott feladatai körében
 
 a) vezeti a központi költségvetés előirányzat nyilvántartási rendszerét, előirányzati fedezetvizsgálatot, valamint jogszabályban meghatározott egyéb ellenőrzési feladatokat lát el;
 
@@ -28,8 +28,8 @@ k) végzi a zárszámadás előkészítésével kapcsolatos ügyviteli, nyilván
 
 l) ellátja a kezelésében lévő adatok tekintetében a közérdekű adatok igénylésével összefüggő feladatokat;
 
-m)[^6] külön megállapodás alapján ellátja az Ávr. 9. § (2a) bekezdésében megjelölt feladatokat.
+m)[^12] külön megállapodás alapján ellátja az Ávr. 9. § (2a) bekezdésében megjelölt feladatokat.
 
-[^4]: A 9. § (1) bekezdése a 207/2018. (XI. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^5]: [A 9. § (2) bekezdés nyitó szövegrészében a 207/2018. (XI. 10.) Korm. rendelet 4. § b) pontjával elrendelt módosítás, amely szerint az „államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.)” szövegrész helyébe az „Ávr.-ben” szöveg lép, nem vezethető át.]
-[^6]: A 9. § (2) bekezdés m) pontját a 207/2018. (XI. 10.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A 9. § (1) bekezdése a 207/2018. (XI. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^11]: [A 9. § (2) bekezdés nyitó szövegrészében a 207/2018. (XI. 10.) Korm. rendelet 4. § b) pontjával elrendelt módosítás, amely szerint az „államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.)” szövegrész helyébe az „Ávr.-ben” szöveg lép, nem vezethető át.]
+[^12]: A 9. § (2) bekezdés m) pontját a 207/2018. (XI. 10.) Korm. rendelet 3. §-a iktatta be.

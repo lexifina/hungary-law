@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-310-20-
 | 2018-11-13 | 2017-310-20-22.5 | 207/2018. (XI. 10.) Korm. rendelet |
 | 2018-12-28 | 2017-310-20-22.6 | 310/2018. (XII. 27.) Korm. rendelet |
 | 2019-07-01 | 2017-310-20-22.7 | 147/2019. (VI. 25.) Korm. rendelet |
+| 2019-11-28 | 2017-310-20-22.8 | 282/2019. (XI. 27.) Korm. rendelet |
