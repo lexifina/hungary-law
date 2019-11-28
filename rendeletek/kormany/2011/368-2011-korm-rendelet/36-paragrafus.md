@@ -1,16 +1,16 @@
 ## [Az Áht. 31. § (3) bekezdéséhez]
 
-36. §[^139] (1)[^140] Az államháztartás központi alrendszerébe tartozó költségvetési szerv saját hatáskörben a költségvetési kiadási előirányzatokat a 34/A. § és a 34/B. § szerint, a költségvetési bevételi előirányzatok növelésével egyidejűleg, továbbá a B813. Maradvány igénybevétele rovaton elszámolt maradvány által fedezett módon, annak összegéig megemelheti.
+36. §[^142] (1)[^143] Az államháztartás központi alrendszerébe tartozó költségvetési szerv saját hatáskörben a költségvetési kiadási előirányzatokat a 34/A. § és a 34/B. § szerint, a költségvetési bevételi előirányzatok növelésével egyidejűleg, továbbá a B813. Maradvány igénybevétele rovaton elszámolt maradvány által fedezett módon, annak összegéig megemelheti.
 
 (2) A költségvetési szerv személyi juttatások költségvetési kiadási előirányzatai
 
-a)[^141] a 35. § szerint jóváhagyott többletbevétellel és a 34/B. § szerinti bevételi előirányzatokkal fedezett módon,
+a)[^144] a 35. § szerint jóváhagyott többletbevétellel és a 34/B. § szerinti bevételi előirányzatokkal fedezett módon,
 
 b) a költségvetési szerv kötelezettségvállalással terhelt költségvetési maradványának személyi juttatásokból származó részével,
 
 c) az egységes rovatrend K33. Szolgáltatási kiadások rovatai kiadási előirányzatai terhére, ha annak célja, hogy a korábban szolgáltatás vásárlással ellátott feladatokat a költségvetési szerv az állományába tartozó személyekkel lássa el, továbbá bármely rovat terhére, ha a személyi juttatások költségvetési kiadási előirányzatainak növelése az azok jóváhagyásakor még nem ismert jogszabályváltozás miatt szükséges,
 
-d)[^142] a költségvetési szervnél eredeti bevételi előirányzatként nem megtervezett, év közben rendelkezésre bocsátott, felhasználási célja szerint személyi jellegű kifizetést tartalmazó forrásból
+d)[^145] a költségvetési szervnél eredeti bevételi előirányzatként nem megtervezett, év közben rendelkezésre bocsátott, felhasználási célja szerint személyi jellegű kifizetést tartalmazó forrásból
 
 növelhető.
 
@@ -20,7 +20,7 @@ növelhető.
 
 (5) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kezelő szerve a bevételek kiemelt előirányzatain belül az egyes rovatok bevételi előirányzatait saját hatáskörben módosíthatja – növelheti és csökkentheti –, ha a tervezett bevételek jogcímének változása miatt az indokolt, de a bevételi kiemelt előirányzat megváltoztatása nem szükséges.
 
-[^139]: Az Ávr. 36. §-a a 397/2014. (XII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^140]: Az Ávr. 36. § (1) bekezdése a 20/2015. (II. 17.) Korm. rendelet 16. § (1) bekezdés c) pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 4. pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.
-[^141]: Az Ávr. 36. § (2) bekezdés a) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 5. pontja szerint módosított szöveg.
-[^142]: Az Ávr. 36. § (2) bekezdés d) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.
+[^142]: Az Ávr. 36. §-a a 397/2014. (XII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^143]: Az Ávr. 36. § (1) bekezdése a 20/2015. (II. 17.) Korm. rendelet 16. § (1) bekezdés c) pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 4. pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.
+[^144]: Az Ávr. 36. § (2) bekezdés a) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 5. pontja szerint módosított szöveg.
+[^145]: Az Ávr. 36. § (2) bekezdés d) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 5. pontja szerint módosított szöveg.

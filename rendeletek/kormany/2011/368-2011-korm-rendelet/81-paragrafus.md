@@ -1,6 +1,6 @@
-81. §[^366] Nem köthető támogatási szerződés azzal, aki
+81. §[^371] Nem köthető támogatási szerződés azzal, aki
 
-a)[^367] nem felel meg az Áht. 48/B. §-ában és 50. §-ában meghatározott követelményeknek,
+a)[^372] nem felel meg az Áht. 48/B. §-ában és 50. §-ában meghatározott követelményeknek,
 
 b) jogerős végzéssel elrendelt felszámolási, csőd-, végelszámolási vagy egyéb – a megszüntetésére irányuló, jogszabályban meghatározott – eljárás alatt áll,
 
@@ -10,5 +10,5 @@ d) a támogató által vagy jogszabályban meghatározott mértékű saját forr
 
 e) jogszabályban vagy e rendeletben a támogatási szerződés megkötésének feltételeként meghatározott nyilatkozatokat nem teszi meg, dokumentumokat nem nyújtja be, vagy a megtett nyilatkozatát visszavonja.
 
-[^366]: Az Ávr. 81. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 25. § (2) bekezdés 7. pontja hatályon kívül helyezte.
-[^367]: Az Ávr. 81. § a) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
+[^371]: Az Ávr. 81. §-át megelőző alcím címet a 465/2015. (XII. 29.) Korm. rendelet 25. § (2) bekezdés 7. pontja hatályon kívül helyezte.
+[^372]: Az Ávr. 81. § a) pontja a 465/2015. (XII. 29.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.

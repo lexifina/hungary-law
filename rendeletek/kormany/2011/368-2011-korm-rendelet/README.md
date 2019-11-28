@@ -79,3 +79,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2019-02-06 | 2011-368-20-22.71 | 12/2019. (II. 5.) Korm. rendelet |
 | 2019-03-13 | 2011-368-20-22.72 | 47/2019. (III. 12.) Korm. rendelet |
 | 2019-09-01 | 2011-368-20-22.73 | 204/2019. (VIII. 23.) Korm. rendelet |
+| 2019-11-28 | 2011-368-20-22.74 | 282/2019. (XI. 27.) Korm. rendelet |

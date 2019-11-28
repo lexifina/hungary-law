@@ -1,4 +1,4 @@
-102/F. §[^418] (1) A támogató
+102/F. §[^423] (1) A támogató
 
 a) az Áht. 56/C. § (1) bekezdés a) pontja szerinti adatokat a támogatási igény benyújtását, kamattámogatás vagy kezességi díjtámogatás formájában nyújtott költségvetési támogatás esetén a támogatási döntést,
 
@@ -18,4 +18,4 @@ c) a támogató a támogatói okirat kiadásáról, módosításáról, visszavo
 
 (3) A támogatás folyósításáról a támogató a támogatás teljes összegének folyósítását követően értesíti a Kincstárt.
 
-[^418]: Az Ávr. 102/F. §-át a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^423]: Az Ávr. 102/F. §-át a 465/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.

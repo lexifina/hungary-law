@@ -2,14 +2,14 @@
 
 53. § (1) Törvény vagy e rendelet eltérő rendelkezése hiányában nem szükséges előzetes írásbeli kötelezettségvállalás az olyan kifizetés teljesítéséhez, amely
 
-a)[^199] értéke a kétszázezer forintot nem éri el,
+a)[^202] értéke a kétszázezer forintot nem éri el,
 
-b)[^200] a fizetési számlákról a számlavezető által leemelt díj, juttatás, a külföldi pénzértékben vállalt kötelezettség árfolyamvesztesége, vagy
+b)[^203] a fizetési számlákról a számlavezető által leemelt díj, juttatás, a külföldi pénzértékben vállalt kötelezettség árfolyamvesztesége, vagy
 
-c)[^201] az Áht. 36 § (1) bekezdése szerinti más fizetési kötelezettségnek minősül.
+c)[^204] az Áht. 36 § (1) bekezdése szerinti más fizetési kötelezettségnek minősül.
 
 (2) Az (1) bekezdés szerinti kifizetésre e rendeletnek a kötelezettségvállalások teljesítésére (érvényesítés, utalványozás) és nyilvántartására vonatkozó szabályait alkalmazni kell. Az előzetes írásbeli kötelezettségvállalást nem igénylő kifizetések rendjét a kötelezettséget vállaló szerv belső szabályzatában rögzíti.
 
-[^199]: Az Ávr. 53. § (1) bekezdés a) pontja a 224/2017. (VIII. 11.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
-[^200]: Az Ávr. 53. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 26. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 29. pontja szerint módosított szöveg.
-[^201]: Az Ávr. 53. § (1) bekezdés c) pontja a 89/2016. (IV. 29.) Korm. rendelet 4. § 5. pontja szerint módosított szöveg.
+[^202]: Az Ávr. 53. § (1) bekezdés a) pontja a 224/2017. (VIII. 11.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^203]: Az Ávr. 53. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 26. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 29. pontja szerint módosított szöveg.
+[^204]: Az Ávr. 53. § (1) bekezdés c) pontja a 89/2016. (IV. 29.) Korm. rendelet 4. § 5. pontja szerint módosított szöveg.

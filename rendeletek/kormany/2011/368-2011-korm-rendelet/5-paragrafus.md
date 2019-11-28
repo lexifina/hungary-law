@@ -1,8 +1,8 @@
-## [Az Áht. 8/A. § (1) bekezdéséhez][^16]
+## [Az Áht. 8/A. § (1) bekezdéséhez][^18]
 
-5. §[^17] (1) Az alapító okirat tartalmazza a költségvetési szerv
+5. §[^19] (1) Az alapító okirat tartalmazza a költségvetési szerv
 
-a)[^18] megnevezését magyar nyelven,
+a)[^20] megnevezését magyar nyelven,
 
 b) székhelyét, telephelyeit,
 
@@ -18,7 +18,7 @@ g) vezetőjének megbízási rendjét, és
 
 h) alkalmazásában álló személyek jogviszonyának megjelölését.
 
-(2)[^19] Az alapító okirat – az (1) bekezdésben foglaltakon túl – az alábbiak fennállása esetén tartalmazza a költségvetési szerv
+(2)[^21] Az alapító okirat – az (1) bekezdésben foglaltakon túl – az alábbiak fennállása esetén tartalmazza a költségvetési szerv
 
 a) megnevezését idegen nyelven és rövidített nevét,
 
@@ -28,11 +28,11 @@ c) vállalkozási tevékenysége felső határát a módosított kiadási előir
 
 d) megszűnésének időpontját vagy pontos feltételét, ha a költségvetési szerv határozott időre vagy bizonyos feltétel bekövetkeztéig jön létre.
 
-(3)[^20] Ha az Áht. 9. § a) pontja szerinti alapítói jogok gyakorlására jogosult és az irányító szerv személye nem azonos, az alapító okiratban mindkettőt meg kell jelölni.
+(3)[^22] Ha az Áht. 9. § a) pontja szerinti alapítói jogok gyakorlására jogosult és az irányító szerv személye nem azonos, az alapító okiratban mindkettőt meg kell jelölni.
 
-(4)[^21] Az alapító okirat módosítása esetén el kell készíteni és a módosító okirathoz csatolni kell az alapító okirat módosításokkal egységes szerkezetbe foglalt változatát is. Az alapító okirat módosításokkal egységes szerkezetbe foglalt változatát nem kell hitelesíteni, arra vonatkozóan a Kincstár igazolja, hogy az alapító okirat egységes szerkezetbe foglalt változata megfelel az alapító okirat módosítások szerinti tartalmának.
+(4)[^23] Az alapító okirat módosítása esetén el kell készíteni és a módosító okirathoz csatolni kell az alapító okirat módosításokkal egységes szerkezetbe foglalt változatát is. Az alapító okirat módosításokkal egységes szerkezetbe foglalt változatát nem kell hitelesíteni, arra vonatkozóan a Kincstár igazolja, hogy az alapító okirat egységes szerkezetbe foglalt változata megfelel az alapító okirat módosítások szerinti tartalmának.
 
-(5)[^22] Az Áht. 8/A. § (3) bekezdésében foglalt költségvetési szerv alapító okiratának módosításához az államháztartásért felelős miniszter egyetértése szükséges, ha a módosításra a költségvetési szerv
+(5)[^24] Az Áht. 8/A. § (3) bekezdésében foglalt költségvetési szerv alapító okiratának módosításához az államháztartásért felelős miniszter egyetértése szükséges, ha a módosításra a költségvetési szerv – ideértve annak jogi személyiséggel rendelkező szervezeti egységét is –
 
 a) irányító vagy felügyeleti szerve, illetve fenntartója változásával,
 
@@ -42,10 +42,10 @@ c) közfeladatának, alaptevékenységének, ezek kormányzati funkció szerinti
 
 kapcsolatban kerül sor.
 
-[^16]: Az Ávr. 5. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^17]: Az Ávr. 5. §-a a 397/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^18]: Az Ávr. 5. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^19]: Az Ávr. 5. § (2) bekezdése a 20/2015. (II. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^20]: Az Ávr. 5. § (3) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 31. § 2. pontja szerint módosított szöveg.
-[^21]: Az Ávr. 5. § (4) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 11. § 2. pontja, a 310/2018. (XII. 27.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
-[^22]: Az Ávr. 5. § (5) bekezdését a 310/2018. (XII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^18]: Az Ávr. 5. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^19]: Az Ávr. 5. §-a a 397/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^20]: Az Ávr. 5. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^21]: Az Ávr. 5. § (2) bekezdése a 20/2015. (II. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^22]: Az Ávr. 5. § (3) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 31. § 2. pontja szerint módosított szöveg.
+[^23]: Az Ávr. 5. § (4) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 11. § 2. pontja, a 310/2018. (XII. 27.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
+[^24]: Az Ávr. 5. § (5) bekezdését a 310/2018. (XII. 27.) Korm. rendelet 12. §-a iktatta be, nyitó szövegrésze a 282/2019. (XI. 27.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.

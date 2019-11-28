@@ -1,8 +1,10 @@
-62/C. §[^287] (1)[^288] A jogszabályban, illetve az alapján a foglalkoztató által meghatározott bérfizetési napon kifizetésre kerülő személyi juttatások bruttó összegét, az egészségbiztosítási pénzbeli ellátások, a baleseti táppénz és a megváltozott munkaképességű személyek ellátásának összegét, az apákat megillető távolléti díjat és az azokat terhelő levonásokat a Kincstár a tárgyhavi számfejtés keretében – a foglalkoztató által a 62/B. § alapján rögzített adatok alapulvételével – a tárgyhónap utolsó munkanapján állapítja meg.
+62/C. §[^291] (1)[^292] A jogszabályban, illetve az alapján a foglalkoztató által meghatározott bérfizetési napon kifizetésre kerülő személyi juttatások bruttó összegét, az egészségbiztosítási pénzbeli ellátások, a baleseti táppénz és a megváltozott munkaképességű személyek ellátásának összegét, az apákat megillető távolléti díjat és az azokat terhelő levonásokat a Kincstár a tárgyhavi számfejtés keretében – a foglalkoztató által a 62/B. § alapján rögzített adatok alapulvételével – a tárgyhónap utolsó munkanapján állapítja meg.
 
-(2)[^289] Az egységes rovatrend K1101. Törvény szerinti illetmények, munkabérek rovaton kívüli személyi juttatások adatait az illetményszámfejtő programban – a Kincstárral kötött eltérő megállapodás hiányában – a foglalkoztató a tárgyhónap utolsó munkanapjáig rögzíti és állapítja meg a kifizetésre kerülő személyi juttatások bruttó összegét, valamint az azokat terhelő levonásokat.
+(1a)[^293] Amennyiben a bérfizetési határidőket megelőző munkaszüneti napok száma miatt a bérfizetési határidők biztonsággal nem tarthatóak, a tárgyhavi számfejtésre az (1) bekezdésben meghatározott időpontnál legfeljebb 3 munkanappal korábban is sor kerülhet, amelyről a Kincstár az azt megelőző tizenötödik napig tájékoztatja a foglalkoztatót.
 
-(3)[^290] A jogszabályban, illetve az alapján a foglalkoztató által meghatározott bérfizetési naptól eltérő időpontban történő kifizetés érdekében történő számfejtésre
+(2)[^294] Az egységes rovatrend K1101. Törvény szerinti illetmények, munkabérek rovaton kívüli személyi juttatások adatait az illetményszámfejtő programban – a Kincstárral kötött eltérő megállapodás hiányában – a foglalkoztató a tárgyhónap utolsó munkanapjáig rögzíti és állapítja meg a kifizetésre kerülő személyi juttatások bruttó összegét, valamint az azokat terhelő levonásokat.
+
+(3)[^295] A jogszabályban, illetve az alapján a foglalkoztató által meghatározott bérfizetési naptól eltérő időpontban történő kifizetés érdekében történő számfejtésre
 
 a) jogszabályban előírt esetben,
 
@@ -14,7 +16,8 @@ d) a társadalombiztosítás pénzbeli ellátásainak számfejtése céljából
 
 kerülhet sor.
 
-[^287]: Az Ávr. 62/C. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
-[^288]: Az Ávr. 62/C. § (1) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^289]: Az Ávr. 62/C. § (2) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 12. § (1) bekezdés 2. pontja, a 47/2019. (III. 12.) Korm. rendelet 8. § 5. pontja szerint módosított szöveg.
-[^290]: Az Ávr. 62/C. § (3) bekezdés nyitó szövegrésze a 243/2015. (IX. 8.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.
+[^291]: Az Ávr. 62/C. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^292]: Az Ávr. 62/C. § (1) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^293]: Az Ávr. 62/C. § (1a) bekezdését a 282/2019. (XI. 27.) Korm. rendelet 5. §-a iktatta be.
+[^294]: Az Ávr. 62/C. § (2) bekezdése a 243/2015. (IX. 8.) Korm. rendelet 12. § (1) bekezdés 2. pontja, a 47/2019. (III. 12.) Korm. rendelet 8. § 5. pontja szerint módosított szöveg.
+[^295]: Az Ávr. 62/C. § (3) bekezdés nyitó szövegrésze a 243/2015. (IX. 8.) Korm. rendelet 11. § 9. pontja szerint módosított szöveg.

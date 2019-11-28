@@ -14,7 +14,11 @@
 
 4.[^3] forgótőke: a központosított illetményszámfejtés esetén a megbízó és a Kincstár között létrejött megállapodás alapján olyan engedményezés, amely jogszabályon és a munkavállaló egyéni megbízásán alapuló munkáltatói fizetési kötelezettség teljesítésének fedezetét képezi,
 
+4a.[^4] kifizetések elhúzódása: pénzügyi teljesítés elhúzódása, amelyet a kötelezettségvállaló érdekkörén kívül felmerülő, általa előre nem látható és a pénzügyi teljesítés időpontjáig el nem hárítható ok vagy körülmény idéz elő,
+
 5. mozgóbér: a helyettesítésre tekintettel biztosított és a rendes munkaidőt, szolgálatteljesítési időt meghaladóan végzett munka, szolgálat teljesítéséért jogszabály alapján járó külön ellenérték,
+
+5a.[^5] pénzügyi teljesítés: a kötelezettségvállaló részéről történő kifizetés, ideértve a pénzforgalommal járó részteljesítést is,
 
 6. program: ágazati vagy térségi fejlesztési célt megvalósító fejlesztési terv, mely több egymással összefüggő projekt útján, az érintettek együttműködése alapján valósul meg, az európai uniós források felhasználása során a külön jogszabályban meghatározott fogalom,
 
@@ -24,9 +28,11 @@
 
 9. támogatott tevékenység időtartama: támogatási szerződésben meghatározott olyan időtartam, amely során felmerülő, a támogatott tevékenység megvalósításához kapcsolódó költségek elszámolhatóak,
 
-10.[^4] törzskönyvi okirat: a törzskönyvi jogi személy törzskönyvi nyilvántartásba vétele, törzskönyvi nyilvántartásba vett adatai változásának bejelentése és a törzskönyvi jogi személy törzskönyvi nyilvántartásból való törlése során a kérelemhez csatolandó valamennyi okirat – a vezetői kinevezésről, megbízásról és felmentésről, a vezetői megbízás visszavonásáról, megszüntetéséről szóló okirat és bankszámla-szerződés kivételével –, valamint a Kincstárnak a törzskönyvi nyilvántartás vezetése során keletkezett döntése és más okirata.
+10.[^6] törzskönyvi okirat: a törzskönyvi jogi személy törzskönyvi nyilvántartásba vétele, törzskönyvi nyilvántartásba vett adatai változásának bejelentése és a törzskönyvi jogi személy törzskönyvi nyilvántartásból való törlése során a kérelemhez csatolandó valamennyi okirat – a vezetői kinevezésről, megbízásról és felmentésről, a vezetői megbízás visszavonásáról, megszüntetéséről szóló okirat és bankszámla-szerződés kivételével –, valamint a Kincstárnak a törzskönyvi nyilvántartás vezetése során keletkezett döntése és más okirata.
 
 [^1]: Az Ávr. I. fejezete (1–1/D. §) a 397/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^2]: Az Ávr. 1. § 3. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 1. pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 1. pontja szerint módosított szöveg.
 [^3]: Az Ávr. 1. § 4. pontja a 224/2017. (VIII. 11.) Korm. rendelet 14. § (2) bekezdés 1. pontja szerint módosított szöveg.
-[^4]: Az Ávr. 1. § 10. pontja a 310/2018. (XII. 27.) Korm. rendelet 31. § 1. pontja szerint módosított szöveg.
+[^4]: Az Ávr. 1. § 4a. pontját a 282/2019. (XI. 27.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^5]: Az Ávr. 1. § 5a. pontját a 282/2019. (XI. 27.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^6]: Az Ávr. 1. § 10. pontja a 310/2018. (XII. 27.) Korm. rendelet 31. § 1. pontja szerint módosított szöveg.
