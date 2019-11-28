@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1070-30
 | 2018-02-02 | 2016-1070-30-22.4 | 1013/2018. (II. 2.) Korm. határozat |
 | 2018-07-26 | 2016-1070-30-22.5 | 1347/2018. (VII. 26.) Korm. határozat |
 | 2019-03-08 | 2016-1070-30-22.6 | 1104/2019. (III. 8.) Korm. határozat |
+| 2019-11-28 | 2016-1070-30-22.7 | 1668/2019. (XI. 28.) Korm. határozat |
