@@ -10,7 +10,7 @@ d) a hozzájárulás megadása veszélyezteti az államadósság-mutató előző
 
 (1a)[^42] A Kormány a kérelmet elutasíthatja, ha az ügylet nem kötelező önkormányzati feladat ellátáshoz szükséges kapacitás létrehozását eredményezi.
 
-(1b)[^43] A kezesség-, illetve garanciavállalásra vonatkozó kérelmet a Kormány az (1a) bekezdésben foglaltakon túl akkor utasítja el, ha a 7. § (1) bekezdés c) pontja, valamint az (1) bekezdés a) vagy c) pontja szerinti feltételek bármelyike nem teljesül. Az (1) bekezdés a) pontja szerinti feltétel alkalmazása során az önkormányzati kezesség-, és garanciavállalás esetében az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség és garancia érvényesíthetőségére rendelkezésre álló határidő lejártát kell érteni.
+(1b)[^43] A kezesség-, illetve garanciavállalásra vonatkozó kérelmet a Kormány a Gst. 10/B. § (5) bekezdésében foglaltakon túl akkor utasítja el, ha a 7. § (1) bekezdés c) pontja, valamint az (1) bekezdés a) vagy c) pontja szerinti feltételek bármelyike nem teljesül. Az (1) bekezdés a) pontja szerinti feltétel alkalmazása során az önkormányzati kezesség-, és garanciavállalás esetében az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség és garancia érvényesíthetőségére rendelkezésre álló határidő lejártát kell érteni.
 
 (2)[^44] A Kormány 8. § (2) bekezdés szerinti döntéséről a helyi önkormányzatokért felelős miniszter haladéktalanul értesíti az önkormányzatot a kincstár által üzemeltetett elektronikus rendszeren keresztül.
 
@@ -18,5 +18,5 @@ d) a hozzájárulás megadása veszélyezteti az államadósság-mutató előző
 [^40]: A 9. § (1) bekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 2. § 14. pontja szerint módosított szöveg.
 [^41]: A 9. § (1) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 8. § 6. pontja szerint módosított szöveg.
 [^42]: A 9. § (1a) bekezdését a 234/2013. (VI. 30.) Korm. rendelet 6. §-a iktatta be.
-[^43]: A 9. § (1b) bekezdését a 234/2013. (VI. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 264/2016. (VIII. 31.) Korm. rendelet 5. §-ával megállapított, a 310/2018. (XII. 27.) Korm. rendelet 9. § 8. pontja szerint módosított szöveg.
+[^43]: A 9. § (1b) bekezdését a 234/2013. (VI. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 264/2016. (VIII. 31.) Korm. rendelet 5. §-ával megállapított, a 310/2018. (XII. 27.) Korm. rendelet 9. § 8. pontja, a 282/2019. (XI. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^44]: A 9. § (2) bekezdése az 56/2012. (III. 30.) Korm. rendelet 24. §-ával megállapított, a 397/2014. (XII. 31.) Korm. rendelet 2. § 16. pontja szerint módosított szöveg.
