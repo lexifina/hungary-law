@@ -1,1 +1,0 @@
-## „13. a társulásban részt vevő települési önkormányzatok felsorolását, a társulási megállapodás szerinti székhely önkormányzatot, a társulási tanács munkaszervezeti feladatait ellátó törzskönyvi jogi személy nevét, címét, PIR számát,”
