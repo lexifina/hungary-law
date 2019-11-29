@@ -1,3 +1,3 @@
-11. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^26]
+11. melléklet a 273/2019. (XI. 20.) Korm. rendelethez[^29]
 
-[^26]: A 11. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^29]: A 11. melléklet az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.

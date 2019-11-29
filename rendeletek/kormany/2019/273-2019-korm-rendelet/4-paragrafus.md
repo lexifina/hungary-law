@@ -1,43 +1,44 @@
-## 3. §[^3]
+## 3. §[^4]
 
 ## 3. Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet módosítása
 
-4. § (1) Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet (a továbbiakban: Rendelet) 1. melléklete a 9. melléklet szerint módosul.
+4. § (1)[^5]
 
-(2)[^4]
+(2)[^6]
 
-(3)[^5]
+(3)[^7]
 
-(4)[^6]
+(4)[^8]
 
-(5)[^7]
+(5)[^9]
 
-(6)[^8]
+(6)[^10]
 
-(7)[^9]
+(7)[^11]
 
-(8)[^10]
+(8)[^12]
 
-(9)[^11]
+(9)[^13]
 
-(10)[^12]
+(10)[^14]
 
-(11)[^13]
+(11)[^15]
 
-(12)[^14]
+(12)[^16]
 
-(13)[^15]
+(13)[^17]
 
-[^3]: A 3. § az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^4]: A 4. § (2) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^5]: A 4. § (3) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^6]: A 4. § (4) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^7]: A 4. § (5) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^8]: A 4. § (6) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^9]: A 4. § (7) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^10]: A 4. § (8) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^11]: A 4. § (9) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^12]: A 4. § (10) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^13]: A 4. § (11) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^14]: A 4. § (12) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^15]: A 4. § (13) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^4]: A 3. § az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^5]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § (2) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^7]: A 4. § (3) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^8]: A 4. § (4) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^9]: A 4. § (5) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^10]: A 4. § (6) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^11]: A 4. § (7) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^12]: A 4. § (8) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^13]: A 4. § (9) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^14]: A 4. § (10) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^15]: A 4. § (11) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^16]: A 4. § (12) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^17]: A 4. § (13) bekezdése az 5. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
