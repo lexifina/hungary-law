@@ -1,6 +1,6 @@
 ## Az érettségi vizsga befejezése
 
-41. §[^239] (1)[^240] Az érettségi vizsga egyes vizsgatárgyaiból a vizsgázó teljesítményét, ha a vizsga
+41. §[^240] (1)[^241] Az érettségi vizsga egyes vizsgatárgyaiból a vizsgázó teljesítményét, ha a vizsga
 
 a) írásbeli és szóbeli vizsgarészekből áll 1–150,
 
@@ -10,9 +10,9 @@ c) csak szóbeli vizsgából áll 1–50
 
 ## pontskálán egész számokkal kell értékelni.
 
-(2)[^241] A vizsgázó teljesítményét a pontszámok százalékban és osztályzatban történő kifejezésével minősíteni kell. A teljesítmény százalékban történő kifejezésekor a számítást csak az egész szám megállapításáig lehet elvégezni, tizedesjegy nem állapítható meg. Ha a vizsgatárgy vizsgája több vizsgarészből áll, a vizsgázónak minden vizsgarészből legalább tizenkettő százalékot kell teljesítenie ahhoz, hogy a vizsgatárgyból a teljesített százalékérték alapján a (3)–(4) bekezdésben meghatározottak szerint legalább elégséges osztályzatot kaphasson. Középszintű matematika vizsgatárgyból tett vizsga esetén, ha a tanuló írásbeli teljesítménye elérte a tizenkettő százalékot, de nem érte el a huszonöt százalékot, a vizsgatárgy részletes követelményeiben meghatározott módon szóbeli vizsgát tehet. Több vizsgarész esetén az egyes vizsgarészeken elérhető pontszámot az adott vizsgatárgy részletes vizsgakövetelménye határozza meg. Ha a vizsgázó a szóbeli vizsgát írásban tette le, teljesítményét a szóbeli vizsgarésznek megfelelően kell minősíteni. Ha a vizsgázó az írásbeli vizsga helyett szóbeli vizsgát tett, mindkét tétel kifejtését a szóbeli tételek értékelési szabályai szerint kell értékelni, majd a két tételre adott pontszámok összegét a szóbeli vizsgán elérhető pontszám kétszeresének százalékában kell kifejezni, és ez adja a vizsga százalékos minősítését. A vizsgázónak ebben az esetben mindkét szóbeli vizsgáján legalább tizenkettő százalékot kell teljesítenie ahhoz, hogy a vizsgatárgyból a teljesített százalékérték alapján a (3)–(4) bekezdésben meghatározottak szerint legalább elégséges osztályzatot kaphasson.
+(2)[^242] A vizsgázó teljesítményét a pontszámok százalékban és osztályzatban történő kifejezésével minősíteni kell. A teljesítmény százalékban történő kifejezésekor a számítást csak az egész szám megállapításáig lehet elvégezni, tizedesjegy nem állapítható meg. Ha a vizsgatárgy vizsgája több vizsgarészből áll, a vizsgázónak minden vizsgarészből legalább tizenkettő százalékot kell teljesítenie ahhoz, hogy a vizsgatárgyból a teljesített százalékérték alapján a (3)–(4) bekezdésben meghatározottak szerint legalább elégséges osztályzatot kaphasson. Középszintű matematika vizsgatárgyból tett vizsga esetén, ha a tanuló írásbeli teljesítménye elérte a tizenkettő százalékot, de nem érte el a huszonöt százalékot, a vizsgatárgy részletes követelményeiben meghatározott módon szóbeli vizsgát tehet. Több vizsgarész esetén az egyes vizsgarészeken elérhető pontszámot az adott vizsgatárgy részletes vizsgakövetelménye határozza meg. Ha a vizsgázó a szóbeli vizsgát írásban tette le, teljesítményét a szóbeli vizsgarésznek megfelelően kell minősíteni. Ha a vizsgázó az írásbeli vizsga helyett szóbeli vizsgát tett, mindkét tétel kifejtését a szóbeli tételek értékelési szabályai szerint kell értékelni, majd a két tételre adott pontszámok összegét a szóbeli vizsgán elérhető pontszám kétszeresének százalékában kell kifejezni, és ez adja a vizsga százalékos minősítését. A vizsgázónak ebben az esetben mindkét szóbeli vizsgáján legalább tizenkettő százalékot kell teljesítenie ahhoz, hogy a vizsgatárgyból a teljesített százalékérték alapján a (3)–(4) bekezdésben meghatározottak szerint legalább elégséges osztályzatot kaphasson.
 
-(3)[^242] Középszintű érettségi vizsga esetén az elérhető pontszámok százalékos teljesítésének osztályzatban történő kifejezése a következő:
+(3)[^243] Középszintű érettségi vizsga esetén az elérhető pontszámok százalékos teljesítésének osztályzatban történő kifejezése a következő:
 
 a) 80–100% elérése esetén jeles (5),
 
@@ -24,7 +24,7 @@ d) 25–39% elérése esetén elégséges (2),
 
 e) 0–24% elérése esetén elégtelen (1).
 
-(4)[^243] Emelt szintű érettségi vizsga esetén az elérhető pontszámok százalékos teljesítésének osztályzatban történő kifejezése a következő:
+(4)[^244] Emelt szintű érettségi vizsga esetén az elérhető pontszámok százalékos teljesítésének osztályzatban történő kifejezése a következő:
 
 a) 60–100% elérése esetén jeles (5),
 
@@ -36,11 +36,11 @@ d) 25–32% elérése esetén elégséges (2),
 
 e) 0–24% elérése esetén elégtelen (1).
 
-(5)[^244]
+(5)[^245]
 
-(6)[^245] A vizsgázónak az érettségi bizonyítvány megszerzéséhez a kötelező vizsgatárgyakból és még legalább egy választott vizsgatárgyból legalább elégséges osztályzatot kell elérnie. A vizsgázónak javító érettségi vizsgát kell tennie abból a kötelező vizsgatárgyból, amelyből nem szerzett legalább elégséges (2) osztályzatot.
+(6)[^246] A vizsgázónak az érettségi bizonyítvány megszerzéséhez a kötelező vizsgatárgyakból és még legalább egy választott vizsgatárgyból legalább elégséges osztályzatot kell elérnie. A vizsgázónak javító érettségi vizsgát kell tennie abból a kötelező vizsgatárgyból, amelyből nem szerzett legalább elégséges (2) osztályzatot.
 
-(7)[^246] A kétszintű érettségi vizsga bevezetése előtt tett tantárgyi érettségi vizsga a kétszintű rendszerben középszinten tett érettségi vizsgának minősül, és az érdemjegyek a következő százalékos teljesítésnek felelnek meg:
+(7)[^247] A kétszintű érettségi vizsga bevezetése előtt tett tantárgyi érettségi vizsga a kétszintű rendszerben középszinten tett érettségi vizsgának minősül, és az érdemjegyek a következő százalékos teljesítésnek felelnek meg:
 
 a) jeles (5) 100%,
 
@@ -50,14 +50,14 @@ c) közepes (3) 59%,
 
 d) elégséges (2) 39%.
 
-(8)[^247] Pótló érettségi vizsga esetén az előzőleg sikeresen teljesített vizsgarészeket – amíg a vizsgakövetelmények az adott vizsgatárgyban nem változnak – nem kell megismételni.
+(8)[^248] Pótló érettségi vizsga esetén az előzőleg sikeresen teljesített vizsgarészeket – amíg a vizsgakövetelmények az adott vizsgatárgyban nem változnak – nem kell megismételni.
 
-[^239]: A 41. § a 78/2002. (IV. 13.) Korm. rendelet 16. §–ával megállapított szöveg.
-[^240]: A 41. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^241]: A 41. § (2) bekezdése a 106/2012. (VI. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^242]: A 41. § (3) bekezdése a 106/2012. (VI. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^243]: A 41. § új (4) bekezdését a 71/2003. (V. 27.) Korm. rendelet 6. § (3) bekezdése iktatta be, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatva. A 41. § (4) bekezdése a 106/2012. (VI. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^244]: A 41. § eredeti (4) bekezdésének számozását a 71/2003. (V. 27.) Korm. rendelet 6. § (3) bekezdése (5) bekezdésre változtatta, hatályon kívül helyezte a 6/2008. (I. 22.) Korm. rendelet 12. § (4) bekezdésének c) pontja.
-[^245]: A 41. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 71/2003. (V. 27.) Korm. rendelet 6. § (3) bekezdése, szövege a 233/2004. (VIII. 6.) Korm. rendelet 29. §-ának (3) bekezdésével megállapított szöveg.
-[^246]: A 41. § (7) bekezdését a 71/2003. (V. 27.) Korm. rendelet 6. § (4) bekezdése iktatta a szövegbe.
-[^247]: A 41. § (8) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 29. §-ának (4) bekezdése iktatta a szövegbe.
+[^240]: A 41. § a 78/2002. (IV. 13.) Korm. rendelet 16. §–ával megállapított szöveg.
+[^241]: A 41. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^242]: A 41. § (2) bekezdése a 106/2012. (VI. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^243]: A 41. § (3) bekezdése a 106/2012. (VI. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^244]: A 41. § új (4) bekezdését a 71/2003. (V. 27.) Korm. rendelet 6. § (3) bekezdése iktatta be, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatva. A 41. § (4) bekezdése a 106/2012. (VI. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^245]: A 41. § eredeti (4) bekezdésének számozását a 71/2003. (V. 27.) Korm. rendelet 6. § (3) bekezdése (5) bekezdésre változtatta, hatályon kívül helyezte a 6/2008. (I. 22.) Korm. rendelet 12. § (4) bekezdésének c) pontja.
+[^246]: A 41. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 71/2003. (V. 27.) Korm. rendelet 6. § (3) bekezdése, szövege a 233/2004. (VIII. 6.) Korm. rendelet 29. §-ának (3) bekezdésével megállapított szöveg.
+[^247]: A 41. § (7) bekezdését a 71/2003. (V. 27.) Korm. rendelet 6. § (4) bekezdése iktatta a szövegbe.
+[^248]: A 41. § (8) bekezdését a 233/2004. (VIII. 6.) Korm. rendelet 29. §-ának (4) bekezdése iktatta a szövegbe.
