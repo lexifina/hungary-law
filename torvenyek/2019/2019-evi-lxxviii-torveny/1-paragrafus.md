@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a „Magyar–szlovén államhatár határleírás 2018”, a „Magyar–szlovén államhatár koordinátajegyzék 2018” és a „Magyar–szlovén államhatár határtérkép 2018” címmel készített új határokmányok (a továbbiakban: Határokmányok) kötelező hatályának elismerésére.
