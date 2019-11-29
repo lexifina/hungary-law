@@ -1,7 +1,5 @@
-## 39/O. §[^242] E rendeletnek az egyes oktatási és kulturális tárgyú kormányrendeletek módosításáról szóló
-
-## 308/2018. (XII. 27.) Korm. rendelettel megállapított 6. § (1a) bekezdését először a 2020. évi minősítési terv összeállításához kapcsolódóan kell alkalmazni.
+## 39/Q. §[^250] A 2020. június 30-tól Kutatótanár fokozatba sorolt pedagógusok pedagógiai-szakmai ellenőrzési és pedagógusminősítési szakértői, illetve szaktanácsadói feladatokat nem látnak el.
 
 ## 17. Hatályon kívül helyező rendelkezés
 
-[^242]: A 39/O. §-t a 308/2018. (XII. 27.) Korm. rendelet 10. §-a iktatta be.
+[^250]: A 39/Q. §-t a 278/2019. (XI. 21.) Korm. rendelet 12. §-a iktatta be.

@@ -1,21 +1,21 @@
-10/B. §[^61] (1)[^62] Az OH a rendelkezésére álló adatok alapján ellenőrzi, hogy a pedagógus megfelel-e a minősítő vizsga, illetve a minősítési eljárás lefolytatása feltételeinek, és a pedagógust az informatikai rendszer útján június 30-ig értesíti arról, ha a minősítő vizsga, illetve a minősítési eljárás lefolytatása feltételeinek nem felelt meg.
+10/B. §[^62] (1)[^63] Az OH a rendelkezésére álló adatok alapján ellenőrzi, hogy a pedagógus megfelel-e a minősítő vizsga, illetve a minősítési eljárás lefolytatása feltételeinek, és a pedagógust az informatikai rendszer útján június 30-ig értesíti arról, ha a minősítő vizsga, illetve a minősítési eljárás lefolytatása feltételeinek nem felelt meg.
 
-(1a)[^63] Az (1) bekezdésben szereplő tájékoztatásnak tartalmaznia kell az OH által megállapított tényállást és annak bizonyítékait, az alapul szolgáló jogszabályhelyeket, az (1b) bekezdésben foglalt jogorvoslati lehetőséget, benyújtásának helyét és határidejét.
+(1a)[^64] Az (1) bekezdésben szereplő tájékoztatásnak tartalmaznia kell az OH által megállapított tényállást és annak bizonyítékait, az alapul szolgáló jogszabályhelyeket, az (1b) bekezdésben foglalt jogorvoslati lehetőséget, benyújtásának helyét és határidejét.
 
-(1b)[^64] A pedagógus az (1) bekezdés szerinti értesítésben foglaltak megváltoztatását annak kézhezvételétől számított 15 napon belül a minisztertől kérheti. A miniszter a kérelmet a KIR rendszer adatai, valamint a pedagógus által a kérelméhez csatolt bizonyítékok alapján 30 napon belül bírálja el. A miniszter döntésének tartalmára az (1a) bekezdést kell megfelelően alkalmazni. A miniszter döntése ellen nincs helye további jogorvoslatnak.
+(1b)[^65] A pedagógus az (1) bekezdés szerinti értesítésben foglaltak megváltoztatását annak kézhezvételétől számított 15 napon belül a minisztertől kérheti. A miniszter a kérelmet a KIR rendszer adatai, valamint a pedagógus által a kérelméhez csatolt bizonyítékok alapján 30 napon belül bírálja el. A miniszter döntésének tartalmára az (1a) bekezdést kell megfelelően alkalmazni. A miniszter döntése ellen nincs helye további jogorvoslatnak.
 
 (2) Ha az intézményvezető a minősítő vizsgát, a kötelező minősítési eljárást, vagy – a pedagógus határidőig megtett kezdeményezése ellenére – a nem kötelező minősítési eljárásra való jelentkezést nem vagy hibásan rögzítette az informatikai rendszerben, a pedagógus
 
 a) a minősítési évet megelőző év május 10-ig,
 
-b)[^65] a 10/A. § (3) bekezdés a)–c) pontjában foglalt esetekben a rögzítés elmaradásának tudomására jutásától számított tíz napon belül
+b)[^66] a 10/A. § (3) bekezdés a)–c) pontjában foglalt esetekben a rögzítés elmaradásának tudomására jutásától számított tíz napon belül
 
 ## kérheti a minisztertől a minősítési tervbe való felvételét.
 
 (3) A kérelmet az OH-n keresztül kell benyújtani.
 
-[^61]: A 10/B. § a 235/2016. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^62]: A 10/B. § (1) bekezdése a 307/2017. (X. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^63]: A 10/B. § (1a) bekezdését a 307/2017. (X. 27.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^64]: A 10/B. § (1b) bekezdését a 307/2017. (X. 27.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^65]: A 10/B. § (2) bekezdés b) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 6. pontja szerint módosított szöveg.
+[^62]: A 10/B. § a 235/2016. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^63]: A 10/B. § (1) bekezdése a 307/2017. (X. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^64]: A 10/B. § (1a) bekezdését a 307/2017. (X. 27.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^65]: A 10/B. § (1b) bekezdését a 307/2017. (X. 27.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^66]: A 10/B. § (2) bekezdés b) pontja a 307/2017. (X. 27.) Korm. rendelet 24. § 6. pontja szerint módosított szöveg.
