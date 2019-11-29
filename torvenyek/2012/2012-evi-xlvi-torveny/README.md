@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2018-12-31 | 2018. évi CXI. törvény | 2012-46-00-00.28 |
 | 2019-04-28 | 2019. évi XL. törvény | 2012-46-00-00.29 |
 | 2019-07-16 | 2019. évi LXIV. törvény | 2012-46-00-00.30 |
+| 2019-11-29 | 2019. évi LXXXII. törvény | 2012-46-00-00.31 |
