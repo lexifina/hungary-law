@@ -2,7 +2,7 @@
 
 ## I. Jelölések és mértékegységek
 
-## 5K19585N_0
+## 9K07378M_0
 
 | Sorszám | 1.Jelölés | 2.A mennyiség megnevezése | 3.Mértékegység |
 
@@ -378,7 +378,7 @@
 
 ## II.1. táblázat: Légcsereszám tervezési adatok a nyári túlmelegedés kockázatának megítéléséhez természetes szellőztetés esetén
 
-## 5K19585N_8
+## 9K07378M_8
 
 | A légcsereszám tervezési értékei nyáron, természetes szellőztetéssel | Nyitható nyílások |
 
@@ -394,7 +394,7 @@
 
 ## III.1. táblázat: A talajon fekvő padlók vonalmenti hőátbocsátási tényezői a kerület hosszegységére vonatkoztatva
 
-## 5K19585N_9
+## 9K07378M_9
 
 |  | A padlószint és a talajszint közötti magasság- | A padlószerkezet hővezetési ellenállása a kerület mentén legalább 1,5 m szélességű sávban1) |
 
@@ -548,39 +548,31 @@
 
 ## A primer energia átalakítási tényezőket az V.1. táblázat tartalmazza.
 
-## V.1. táblázat. Primer energia átalakítási tényezők
+## V.1. táblázat: Primer energia átalakítási tényezők
 
-| Energia | e |
+|  | A | B |
 
-| elektromos áram | 2,50 |
+| 1. | Energia | e |
 
-| csúcson kívüli elektromos áram | 1,80 |
+| 2. | elektromos áram | 2,50 |
 
-| földgáz | 1,00 |
+| 3. | csúcson kívüli elektromos áram | 1,80 |
 
-| tüzelőolaj | 1,00 |
+| 4. | földgáz | 1,00 |
 
-| szén | 1,00 |
+| 5. | tüzelőolaj | 1,00 |
 
-| megújuló: tűzifa, biomassza, biomasszából közvetve vagy közvetlenül előállított energia, a biogázok energiája, fapellet, agripellet | 0,60 |
+| 6. | szén | 1,00 |
 
-| megújuló: nap-, szél-, hullám energia, vízenergia, a geotermikus, hidrotermikus, légtermikus energia | 0,00 |
+| 7. | megújuló: tűzifa, biomassza, biomasszából közvetve vagy közvetlenül előállított energia, a biogázok energiája, fapellet, agripellet | 0,60 |
 
-| Távfűtés esetén, energiaforrás* | kapcsolt hőtermelés mértéke* | e |
+| 8. | megújuló: nap-, szél-, hullám energia, vízenergia, a geotermikus, hidrotermikus, légtermikus energia | 0,00 |
 
-| földgáz-, szén-, olajtüzelés, nukleáris, egyéb nem megújuló, nem biomassza hulladéktüzelés | min. 50% | 0,83 |
-
-| nincs | 1,26 |
-
-| biomassza, fapellet, agripellet, biogáz, egyéb megújuló, depóniagáz, szennyvíziszapból nyert gáz | min. 50% | 0,50 |
-
-| nincs | 0,76 |
-
-## *A távfűtés típusáról a távfűtés szolgáltatójának kell nyilatkoznia, amennyiben ilyen dokumentum nem áll rendelkezésre e=1,26.
+| 9. | távhőellátás | a 6/A. § szerint közzétett érték |
 
 4. melléklet a 7/2006. (V. 24.) TNM rendelethez
 
-Új épületek alternatív rendszereinek vizsgálata[^28]
+Új épületek alternatív rendszereinek vizsgálata[^30]
 
 I. Általános rendelkezések
 
@@ -724,4 +716,4 @@ III. Gazdaságossági vizsgálat
 
 IV. Mintalap a megvalósíthatósági elemzés eredményeinek dokumentálásához
 
-[^28]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^30]: A 4. melléklet címe a 40/2012. (VIII. 13.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.

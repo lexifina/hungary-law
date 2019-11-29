@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-7-20-6F
 | 2018-01-01 | 2006-7-20-6F.9 | 39/2015. (IX. 14.) MvM rendelet |
 | 2018-03-13 | 2006-7-20-6F.10 | 5/2018. (III. 12.) MvM rendelet |
 | 2019-10-30 | 2006-7-20-6F.11 | 38/2019. (X. 15.) ITM rendelet |
+| 2019-11-29 | 2006-7-20-6F.12 | 41/2019. (XI. 14.) ITM rendelet |
