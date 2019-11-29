@@ -32,26 +32,6 @@
 
 13. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^637]
 
-Sürgősségi ellátási esetről szóló adatlap adattartalma
-
-1. Egészségügyi szolgáltató neve
-
-2. Osztály neve
-
-3. Osztály azonosítója
-
-4. Szakmakód
-
-5. Térítési kategória
-
-6. Személyazonosító típusa
-
-7. Személyazonosító jel
-
-8. Ellátás azonosító (Törzsszám/Naplósorszám)
-
-9. A beteg neve
-
 [^635]: A 12. számú melléklet A) pontja a 73/2011. (IV. 29.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
 [^636]: A 12. számú melléklet B) része a 364/2014. (XII. 30.) Korm. rendelet 39. § m) pontja szerint módosított szöveg.
 [^637]: A 13. számú mellékletet az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 236/2018. (XII. 10.) Korm. rendelet 3. §-a iktatta be.
