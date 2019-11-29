@@ -10,7 +10,7 @@
 
 (5) A Hivatal október 30-áig tájékoztatást ad a miniszternek a megelőző tanév járási szintű adatainak megoszlásáról, és áttekintést ad az intézményi, valamint a pedagógiai-szakmai szolgáltatás részéről megtett intézkedésekről.
 
-(6)[^57] A miniszter a Hivatal által adott tájékoztatás alapján január 31-éig összefoglaló jelentést készít a Kormány számára a megelőző év összesített adatairól és intézkedéseiről.
+(6)[^57]
 
 [^56]: A 11/A. alcímet (26/A. §-t) a 354/2016. (XI. 18.) Korm. rendelet 2. §-a iktatta be.
-[^57]: A 26/A. § (6) bekezdését a 354/2016. (XI. 18.) Korm. rendelet 3. §-a iktatta be.
+[^57]: A 26/A. § (6) bekezdését a 354/2016. (XI. 18.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 278/2019. (XI. 21.) Korm. rendelet 6. §-a.

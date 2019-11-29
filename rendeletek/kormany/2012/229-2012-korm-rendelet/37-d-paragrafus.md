@@ -1,4 +1,4 @@
-37/D. § (1)[^117] Új köznevelési intézmény, új feladatellátási hely alapításával vagy átvételével, új köznevelési alapfeladat ellátásával összefüggő kérelmet a tárgyév augusztus 31-éig, évközben létesített, vagy átvett óvoda, kollégium, pedagógiai szakszolgálat esetén, vagy az intézmény feladatellátásának óvodai, vagy kollégiumi, pedagógiai szakszolgálati feladattal történő bővítése esetén a működés megkezdését követő tizenötödik napig lehet benyújtani. E határidő elmulasztása jogvesztő.
+37/D. § (1)[^117] Új köznevelési intézmény, új feladatellátási hely alapításával, köznevelési intézmény szüneteltetést követő újraindításával, új köznevelési alapfeladat ellátásával összefüggő kérelmet a tárgyév augusztus 31-éig, év közben létesített óvoda, kollégium, pedagógiai szakszolgálat esetén a működés megkezdését követő tizenötödik napig lehet benyújtani. E határidő elmulasztása jogvesztő.
 
 (2)[^118] A költségvetési támogatási kérelmet az új köznevelési intézmény
 
@@ -28,7 +28,7 @@ f) pedagógiai szakszolgálati feladat ellátása esetén a miniszterrel kötöt
 
 (6)[^123]
 
-[^117]: A 37/D. § (1) bekezdése a 102/2016. (V. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^117]: A 37/D. § (1) bekezdése a 278/2019. (XI. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^118]: A 37/D. § (2) bekezdése a 3/2015. (I. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^119]: A 37/D. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^120]: A 37/D. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
