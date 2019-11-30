@@ -1,3 +1,3 @@
-## 11. § Az Ép. r. a következő 39/P. §-sal egészül ki:
+## 11. §[^12]
 
-## „39/P. § E rendeletnek az egyes köznevelési tárgyú kormányrendeletek módosításáról szóló 278/2019. (XI. 21.) Korm. rendelettel megállapított 6. § (1) bekezdés g) pontjának hatálybalépését követő két hónapon belül a munkáltató felülvizsgálja a pedagógus szakmai gyakorlatát. Ha e felülvizsgálat értelmében az ismételten megállapított szakmai gyakorlat alapján a minősítő vizsga vagy a kötelező minősítési eljárás időpontja a korábban megállapított időponthoz képest több mint egy évvel korábbi időpontra esne, a pedagógus választhat, hogy az újonnan megállapított vagy az eredeti időpontban kíván-e a minősítésben részt venni. Ha erről a pedagógus a munkáltató felszólítására 15 napon belül írásban nem nyilatkozik, a minősítés időpontja nem változik.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
