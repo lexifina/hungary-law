@@ -22,4 +22,4 @@ nem kell alkalmazni.
 
 (3) Az (1)–(2) bekezdésben foglaltaktól eltérően, az EK rendelet rendelkezéseinek megfelelő szintű szolgáltatást biztosítani kell, ha a szolgáltatás nyújtásának műszaki feltételei az adott állomáson vagy megállóhelyen, illetve vonaton rendelkezésre állnak.
 
-[^5]: A 3. §-t a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2014. december 3. napjával.
+[^5]: A 3. §-t a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2024. december 3. napjával.

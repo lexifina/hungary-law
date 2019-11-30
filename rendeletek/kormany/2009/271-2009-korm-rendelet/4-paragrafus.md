@@ -16,6 +16,6 @@ b) a vonaton tartózkodott és érvényes menetjeggyel, vagy utazási igazolván
 
 c) a vonaton tartózkodott, de a 11. § (7) bekezdésben foglaltak alapján nem rendelkezett érvényes menetjeggyel.
 
-[^6]: A 4. § (1) bekezdését a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2014. december 3. napjával.
+[^6]: A 4. § (1) bekezdését a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2024. december 3. napjával.
 [^7]: A 4. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
 [^8]: A 4. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.

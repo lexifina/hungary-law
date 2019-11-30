@@ -10,4 +10,4 @@ b) a vonat megérkezésétől számítva 30 nap eltelt.
 
 (4) Az értékesítést megelőzően annak tényéről a feladót a vasúti társaság értesíti, és a befolyt vételárral elszámol.
 
-[^35]: A 22. §-t a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2014. december 3. napjával.
+[^35]: A 22. §-t a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2024. december 3. napjával.
