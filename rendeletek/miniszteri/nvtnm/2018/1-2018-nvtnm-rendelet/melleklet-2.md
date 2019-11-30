@@ -116,11 +116,11 @@
 
 | 6. | Filharmónia Magyarország Koncert és Fesztiválszervező Nonprofit Korlátolt Felelősségű Társaság | 01-09-917873 | 2022. december 31. |
 
-| 7. | Fogyatékos Személyek Esélyegyenlőségéért Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-978791 | 2022. december 31. |
+| 7. | Nemzeti Fogyatékosságügyi- és Szociálpolitikai Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-978791 | 2022. december 31. |
 
 | 8. | FŐKEFE Rehabilitációs Foglalkoztató Ipari Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-908769 | 2022. december 31. |
 
-| 9. | Gálfi Béla Gyógyító és Rehabilitációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-09-129605 | 2022. december 31. |
+| 9. | „URBS PRO PATIENTE” Egészségügyi Fejlesztő és Üzemeltető Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-340507 | 2022. december 31. |
 
 | 10. | Nemzeti Filharmónia Ingatlanfejlesztési Korlátolt Felelősségű Társaság | 01-09-698948 | 2022. december 31. |
 
@@ -132,7 +132,7 @@
 
 | 14. | Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-884688 | 2022. december 31. |
 
-| 15. | MACIVA Magyar Cirkusz és Varieté Nonprofit Korlátolt Felelősségű Társaság | 01-09-912823 | 2022. december 31. |
+| 15. | Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-912823 | 2022. december 31. |
 
 | 16. | MANK Magyar Alkotóművészeti Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-09-151770 | 2022. december 31. |
 
@@ -167,6 +167,8 @@
 | 31. | „LÉTA-MENTÁL” Szabolcs-Szatmár-Bereg Megyei Eltérő Képességű Fiatalokat Foglalkoztató, Szolgáltató és Kereskedelmi Közhasznú Nonprofit Kft. | 15-09-074562 | 2022. december 31. |
 
 | 32. | Monostori Erőd Hadkultúra Központ Műemlékhelyreállító, Ingatlanfenntartó és -hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 11-09-014785 | 2022. december 31. |
+
+| 33. | Nemzeti Tehetség Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-345481 | 2022. december 31. |
 
 ## V. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
@@ -304,4 +306,4 @@
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a, a 11/2019. (VIII. 15.) NVTNM rendelet 2. §-a, a 15/2019. (IX. 26.) NVTNM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a, a 11/2019. (VIII. 15.) NVTNM rendelet 2. §-a, a 15/2019. (IX. 26.) NVTNM rendelet 1. §-a, a 18/2019. (XI. 29.) NVTNM rendelet 2. §-a szerint módosított szöveg.
