@@ -30,31 +30,25 @@ bi) a járást,
 
 bj) az agglomerációt,
 
-bk) a polgármesteri hivatalt, közös önkormányzati hivatalt,
+bk) a borrégiót,
 
-bl) a mezőgazdasági tájkörzetet,
+bl) a borvidéket,
 
-bm) a borrégiót,
+bm) a turisztikai régiót,
 
-bn) a borvidéket,
+bn) a világörökségi helyszínt,
 
-bo) a turisztikai régiót,
+bo) a világörökségi helyszín védőövezetét,
 
-bp) a világörökségi helyszínt,
+bp) a nemzeti parkot,
 
-bq) a világörökségi helyszín védőövezetét,
+bq) a kedvezményezett településeket,
 
-br) a nemzeti parkot,
+br) a kedvezményezett járásokat,
 
-bs) a falusi szállásadás lehetséges helyszíneit,
+bs) a szabad vállalkozási zónákat,
 
-bt) a kedvezményezett településeket,
-
-bu) a kedvezményezett járásokat,
-
-bv) a szabad vállalkozási zónákat,
-
-bw) a területfejlesztési szempontból kiemelt térségeket
+bt) a területfejlesztési szempontból kiemelt térségeket
 
 [^1]: A 2. § (2) bekezdése a 13/2013. (VII. 9.) KIM rendelet 2. §-a szerint módosított szöveg.
-[^2]: A 2. § (3) bekezdése a 39/2017. (XII. 27.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdése a 15/2019. (XI. 27.) MvM rendelet 1. §-ával megállapított szöveg.

@@ -3,4 +3,4 @@
 1. melléklet a 31/2011. (X. 24.) KIM rendelethez[^7]
 
 [^6]: A 4. §-t a 37/2015. (VIII. 12.) MvM rendelet 3. §-a iktatta be.
-[^7]: Az 1. melléklet a 39/2017. (XII. 27.) MvM rendelet 3. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet a 15/2019. (XI. 27.) MvM rendelet 3. §-ával megállapított szöveg.
