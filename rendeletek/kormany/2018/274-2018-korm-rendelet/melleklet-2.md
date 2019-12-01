@@ -24,6 +24,6 @@
 
 | 4 | Egyéb (félkomfortos, komfort nélküli) | 125 Ft/m2 | 105 Ft/m2 | 68 Ft/m2 |
 
-2. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^10]
+2. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^19]
 
-[^10]: A 2. mellékletet a 34. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^19]: A 2. mellékletet a 34. § (2) bekezdés c) pontja hatályon kívül helyezte.

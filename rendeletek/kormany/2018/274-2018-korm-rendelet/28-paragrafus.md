@@ -1,4 +1,12 @@
-28. § (1) A Nemzeti Eszközkezelő a tájékoztató levelet a Törvényben foglalt határidőig postai úton, a (2) és (3) bekezdésben foglalt szabályok szerint megküldi a bérlő által bérelt lakóingatlan vagy tartalék ingatlan címére.
+28. § (1)[^14] A Nemzeti Eszközkezelő
+
+a) a 26. § (1) bekezdése szerinti tájékoztató levelet az e rendeletben foglalt határidőig, a bérlő által bérelt lakóingatlan vagy tartalék ingatlan címére,
+
+b) a 26. § (3) bekezdése szerinti tájékoztató levelet a Törvényben foglalt határidőig, a Törvény 6. § (1) bekezdése szerint nyilatkozattételre felhívott bérlőnek a lakásbérleti szerződés megszűntetéséről szóló dokumentumban megadott értesítési címére,
+
+c) a 27. § szerinti tájékoztató levelet a Törvényben foglalt határidőig, a bérlő által bérelt lakóingatlan vagy tartalék ingatlan címére
+
+postai úton megküldi a (2) és (3) bekezdésben foglalt szabályok szerint.
 
 (2) A tájékoztató levél akkor tekinthető közöltnek, ha azt a címzettnek vagy az átvételre jogosult más személynek tértivevény többletszolgáltatással feladott küldeményként kézbesítik.
 
@@ -7,3 +15,5 @@
 a) a címzett vagy a meghatalmazott a küldemény átvételét megtagadja,
 
 b) „elköltözött”, „címzett ismeretlen”, „nem kereste” vagy „kézbesítés akadályozott” kézbesíthetetlenségi ok jelzésével érkezik vissza a feladóhoz,
+
+[^14]: A 28. § (1) bekezdése a 283/2019. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
