@@ -1,5 +1,5 @@
-## 20. §[^11]
+## 20. §[^9]
 
 1. melléklet a 235/2019. (X. 15.) Korm. rendelethez
 
-[^11]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

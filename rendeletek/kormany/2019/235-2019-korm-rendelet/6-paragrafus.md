@@ -2,7 +2,6 @@
 
 (2)[^4]
 
-(3)[^5]
+(3) A Nemzeti Turisztikai Adatszolgáltató Központba történő belépés során a jegyző, valamint a nevében eljáró önkormányzati tisztviselő (a továbbiakban együtt: önkormányzati felhasználó) azonosítása, valamint jogosultságának ellenőrzése az önkormányzati ASP rendszeren keresztül is történhet.
 
 [^4]: A 6. § (2) bekezdése a 15. § (3) bekezdése alapján 2020. január 1-jén lép hatályba.
-[^5]: A 6. § (3) bekezdése a 15. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
