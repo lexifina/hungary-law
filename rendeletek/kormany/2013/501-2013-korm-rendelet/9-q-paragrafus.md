@@ -1,4 +1,4 @@
-## 4/C.[^15] A digitális tananyag jóváhagyása
+## 4/C.[^31] A digitális tananyag jóváhagyása
 
 9/Q. § (1) A digitális tananyag jóváhagyására a könyv tankönyvvé nyilvánítására vonatkozó rendelkezéseket az e szakaszban foglalt eltérésekkel kell alkalmazni.
 
@@ -26,4 +26,4 @@ b) nem online digitális tananyag esetén a jóváhagyandó tananyagot.
 
 (7) A digitálisan rögzített könyv formátumú tankönyv papíralapú változata is tankönyvvé nyilvánítható.
 
-[^15]: A 4/C. alcímet (9/Q. §) a 308/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^31]: A 4/C. alcímet (9/Q. §) a 308/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.

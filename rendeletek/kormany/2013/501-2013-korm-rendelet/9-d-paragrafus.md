@@ -22,7 +22,7 @@ bb) kizárólag PDF formátumban a tankönyvet, továbbá
 
 bc) az új jogosult nyilatkozatát arról, hogy a tankönyvet – a borítón, az impresszumon, a kötésmódon kívül – sem tartalmában, sem kivitelében nem változtatta meg.
 
-(5) A tankönyvvé nyilvánítás időtartama alatt a felhasználási jog 9/A. § (3) bekezdése szerinti tulajdonos jogosult a tulajdonában álló egyes tankönyvek egy tankönyvvé történő egybeszerkesztésére.
+(5)[^23] A tankönyvvé nyilvánítás időtartama alatt a felhasználási jog tulajdonosa jogosult a tulajdonában álló egyes tankönyvek egy tankönyvvé történő egybeszerkesztésére.
 
 (6) Ha az egybeszerkesztés során az annak alapjául szolgáló – külön-külön tankönyvvé nyilvánított – tankönyvek tartalmához képest az új tankönyv
 
@@ -33,3 +33,5 @@ b) ára nem haladja meg az e rendeletben meghatározott legmagasabb iskolai terj
 ## a jogosult erre irányuló kérelmére a hivatal – külön tankönyvvé nyilvánítási eljárás lefolytatása nélkül – a tankönyvet a tankönyvjegyzékre felveszi.
 
 (7) A (6) bekezdés alapján egybeszerkesztett új tankönyv tankönyvvé nyilvánításának időtartama nem haladhatja meg az alapul szolgáló tankönyvek közül a legkorábban lejáró tankönyv tankönyvvé nyilvánítási engedélyében meghatározott időpontot.
+
+[^23]: A 9/D. § (5) bekezdése a 259/2019. (X. 31.) Korm. rendelet 6. § 11. pontja szerint módosított szöveg.

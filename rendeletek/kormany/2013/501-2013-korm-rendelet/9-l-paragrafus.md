@@ -12,8 +12,10 @@ d) a szakképzési tankönyvek
 
 ## esetében van lehetőség.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően tankönyvvé nyilvánítás meghosszabbítására az Ntt. 7. § (2) bekezdése alapján tankönyvvé nyilvánított tankönyvek esetében nincs lehetőség.
+(2)[^25]
 
 (3) A 9/E. §-ban foglaltakat a tankönyvvé nyilvánítás meghosszabbítása során is alkalmazni kell azzal, hogy az eljárást a tankönyvvé nyilvánítás határidejének lejártát megelőző legfeljebb százötven, de legalább százhúsz nappal korábban kell kérelmezni és a kérelemhez a tankönyvet egy példányban kell megküldeni a hivatalnak.
 
 (4) A tankönyvvé nyilvánítás meghosszabbítása legfeljebb három alkalommal kérelmezhető. A tankönyvvé nyilvánítás meghosszabbítása öt évre szól.
+
+[^25]: A 9/L. § (2) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § e) pontja hatályon kívül helyezte.

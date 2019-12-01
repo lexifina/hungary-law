@@ -1,6 +1,6 @@
 9/O. § (1) El kell utasítani az adott tanévi tankönyvjegyzékre történő felvételre benyújtott kérelmet, ha
 
-a) az Ntt. 3. § (4) bekezdésében meghatározott kettő tankönyv az adott tanévi tankönyvjegyzékre már felvételre került;
+a)[^28] az Nkt. 93/C. § (3) bekezdésében meghatározott kettő tankönyv az adott tanévi tankönyvjegyzékre már felvételre került;
 
 b) a könyvkiadást folytató jogi személy
 
@@ -16,10 +16,14 @@ a) a tankönyvjegyzékre történő felvétel iránti kérelmet el kellett volna
 
 b) a könyvkiadást folytató jogi személy utóbb nem tesz eleget a tankönyvvé nyilvánítás valamely feltételének,
 
-c) nem felel meg a miniszter által kiírt nyilvános pályázati eljárás során vállalt bármely feltételnek, vagy
+c)[^29] a miniszter által közzétett nyilvános felhívás keretében készült tankönyv nem felel meg a felhívásban előírt valamely feltételnek, vagy
 
 d) a könyvkiadást folytató jogi személy a 9/M. § (3) bekezdésében vállalt kötelezettségeit megszegte.
 
-(3) A tankönyvjegyzékre történő felvételről, illetve a tankönyvjegyzékről történő törlésről – az Ntt. 3. § (7) bekezdésében, illetve a 9/G. § (1) és (2) bekezdésében meghatározott kivétellel – a hivatal dönt.
+(3)[^30] A tankönyvjegyzékre történő felvételről, illetve a tankönyvjegyzékről történő törlésről – az Nkt. 93/B. § (2) bekezdésében meghatározott kivétellel – a hivatal dönt.
 
 (4) Az Nkt. 7. § (1) bekezdés d)–e) pontja szerinti szakképző iskola szakképzési tankönyve tankönyvjegyzékre történő felvétel iránti eljárásban, ha szakvélemény beszerzése szükséges, a szakképesítésért felelős miniszter a Szakképzési Tankönyv és Taneszköz Tanácsot szakértőként jelöli ki. A szakképesítésért felelős miniszter az általa jóváhagyott és a jegyzékről törölt tankönyvek jegyzékét megküldi a hivatalnak, amely gondoskodik a tankönyvek jegyzékre vételéről, illetve törléséről.
+
+[^28]: A 9/O. § (1) bekezdés a) pontja a 259/2019. (X. 31.) Korm. rendelet 6. § 12. pontja szerint módosított szöveg.
+[^29]: A 9/O. § (2) bekezdés c) pontja a 259/2019. (X. 31.) Korm. rendelet 6. § 13. pontja szerint módosított szöveg.
+[^30]: A 9/O. § (3) bekezdése a 259/2019. (X. 31.) Korm. rendelet 6. § 14. pontja szerint módosított szöveg.

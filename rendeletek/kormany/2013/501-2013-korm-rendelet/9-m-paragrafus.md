@@ -1,4 +1,4 @@
-## 4/B.[^14] A tankönyvjegyzék
+## 4/B.[^26] A tankönyvjegyzék
 
 9/M. § (1) A tankönyvnek tankönyvjegyzékre történő felvétele iránti kérelmet a hivatalhoz kell benyújtani a hivatal által a KIR rendszereként működtetett elektronikus rendszeren keresztül, az ott meghatározott adattartalommal.
 
@@ -14,6 +14,7 @@ a) a tankönyv, valamint az elektronikus úton rögzített tananyag (a továbbia
 
 b) a tankönyv árkorlátnak megfelelő értékesítését az iskolai tankönyvellátás keretében.
 
-(4) Azt a tankönyvet, amelyet adott évfolyamra, műveltségi területre, tantárgyra az Ntt. 3. § (6) bekezdése alapján a miniszter nyilvános pályázati eljárás során választott ki, vagy amelyet adott évfolyamra, műveltségi területre, tantárgyra az Ntt. 3. § (1) bekezdés c) pontja szerint a miniszter kezdeményezésére kísérleti tankönyvként fejlesztettek ki, fejlesztés keretei között hoztak létre, a hivatal a miniszter döntésének megfelelően felveszi a tankönyvek hivatalos jegyzékére.
+(4)[^27]
 
-[^14]: A 4/B. alcímet (9/M–9/P. §) a 308/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 4/B. alcímet (9/M–9/P. §) a 308/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 9/M. § (4) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § f) pontja hatályon kívül helyezte.

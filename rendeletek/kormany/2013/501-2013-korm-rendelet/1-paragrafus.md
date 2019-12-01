@@ -1,14 +1,16 @@
 ## 1. A tankönyvellátásban közreműködők kijelölése
 
-## 1. § A Kormány a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvényben (a továbbiakban: Ntt.) foglalt feladatok ellátására
+## 1. §[^1] A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvényben (a továbbiakban: Nkt.) foglalt feladatok ellátására
 
-a)[^1] állami tankönyvfejlesztésért és kiadásért felelős szervként az Eszterházy Károly Egyetemet (a továbbiakban: EKE),
+a)[^2] állami tankönyvfejlesztésért és kiadásért felelős szervként az Oktatási Hivatalt (a továbbiakban: hivatal),
 
-b)[^2] könyvtárellátóként a Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Könyvtárellátó),
+b)[^3] könyvtárellátóként a Könyvtárellátó Közhasznú Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Könyvtárellátó),
 
-c) az Ntt. 1. § (4) bekezdésében meghatározott testületként a Nemzeti Tankönyvtanácsot (a továbbiakban: Tanács)
+c)[^4] az Nkt. 93/D. § (2) bekezdés a) pontjában meghatározott testületként a Nemzeti Tankönyvtanácsot (a továbbiakban: Tanács)
 
 jelöli ki.
 
-[^1]: Az 1. § a) pontja a 379/2016. (XII. 2.) Korm. rendelet 256. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § b) pontja a 308/2018. (XII. 27.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^1]: Az 1. § nyitó szövegrésze a 259/2019. (X. 31.) Korm. rendelet 6. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § a) pontja a 379/2016. (XII. 2.) Korm. rendelet 256. § (1) bekezdésével megállapított, a 259/2019. (X. 31.) Korm. rendelet 6. § 2. pontja szerint módosított szöveg.
+[^3]: Az 1. § b) pontja a 308/2018. (XII. 27.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^4]: Az 1. § c) pontja a 259/2019. (X. 31.) Korm. rendelet 6. § 3. pontja szerint módosított szöveg.

@@ -1,14 +1,10 @@
-## 4/A.[^13] A tankönyvvé nyilvánítás szabályai
+## 4/A.[^18] A tankönyvvé nyilvánítás szabályai
 
 9/A. § (1) Ahol e rendelet 4/A. alcíme tankönyvet említ, azon a rendelet eltérő rendelkezése hiányában pedagógus-kézikönyvet is kell érteni.
 
 (2) A tankönyvvé nyilvánítási eljárás kérelemre indul.
 
-(3) A tankönyvvé nyilvánítási kérelmet
-
-a) – a b) pontban meghatározott eltéréssel – az Ntt. 3. § (3) bekezdésében meghatározottak (a továbbiakban: kérelmező) nyújthatják be, szakképzési tankönyv esetén az Ntt. 3. § (7) bekezdésében meghatározott szervhez,
-
-b) a könyvkiadást folytató jogi személy – ide nem értve az EKE-t – az Ntt. 7. § (2) bekezdése szerinti nyilvános felhívás esetén nyújthat be.
+(3)[^19]
 
 (4) A kérelmet írásban, papír alapon és a köznevelés információs rendszere (a továbbiakban: KIR) részeként működtetett tankönyvi adatbázis kezelő rendszer alkalmazásával lehet benyújtani.
 
@@ -34,10 +30,14 @@ e) a kérelmező nyilatkozatát arról, hogy a könyv tartalmaz-e átvett szerz�
 
 (7) Az eljárás tartama alatt a benyújtott könyvet – az eljárás során a szakértők által feltárt hibák javításának kivételével – a kérelmező sem tartalmában, sem kivitelében nem változtathatja meg.
 
-(8) Az e §-ban foglaltakat nem kell alkalmazni azon tankönyv esetében, amelyet adott évfolyamra, műveltségi területre, tantárgyra az Ntt. 3. § (1) bekezdés b) pontja alapján a miniszter választott ki.
+(8)[^20]
 
-(9) Az Ntt. 3. § (1) bekezdés b) pontja szerinti tankönyvek esetén a pályázat elbírálása során kell az e rendeletben foglalt, a tankönyvvé nyilvánítási szakmai követelmények teljesítéséről meggyőződni.
+(9)[^21]
 
-(10) Ezen alcímben foglaltakat nem kell alkalmazni – a 9/E. §-ban, a 9/F. § és 9/G. § (2) és (3) bekezdésében foglaltak kivételével – abban az esetben, ha a tankönyvet a miniszter kezdeményezésére az Ntt. 3. § (1) bekezdés c) pontja alapján fejlesztették ki.
+(10)[^22]
 
-[^13]: A 4/A. alcímet (9/A–9/L. §) a 308/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 4/A. alcímet (9/A–9/L. §) a 308/2018. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^19]: A 9/A. § (3) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^20]: A 9/A. § (8) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^21]: A 9/A. § (9) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^22]: A 9/A. § (10) bekezdését a 259/2019. (X. 31.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
