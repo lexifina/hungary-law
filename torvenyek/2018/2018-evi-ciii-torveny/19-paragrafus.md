@@ -11,3 +11,5 @@
 (4) Az e § szerinti tulajdonváltozás esetében az Nvtv. 13. § (4) és (5) bekezdéseit nem kell alkalmazni.
 
 (5) Az e § szerinti tulajdonváltozás következtében felmerülő általános forgalmi adó fizetési kötelezettséget az állam viseli.
+
+(6) Az Önkormányzat az (1) bekezdés szerinti ingatlanokra vonatkozó lakásbérleti díjat a (2) bekezdésben foglaltakra is tekintettel rendeletben állapítja meg.

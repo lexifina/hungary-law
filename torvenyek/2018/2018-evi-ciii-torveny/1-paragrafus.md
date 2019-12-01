@@ -10,4 +10,6 @@ b) ideiglenes elhelyezést biztosító ingatlan: olyan üres tartalék ingatlan,
 
 c) lakóingatlan: NET tv. 1. § h) pontja szerinti olyan lakóingatlan, amely tekintetében a Nemzeti Eszközkezelő és a NET tv. 1. § d) pontja szerinti hiteladóssal vagy a NET tv. 1. § m) pontja szerinti zálogkötelezettel a NET tv. szerint lakásbérleti szerződést kötött;
 
-d) tartalék ingatlan: a NET tv. 1. § n) pont na) és nb) alpontja szerinti ingatlan.
+d) tartalék ingatlan: a NET tv. 1. § n) pont na) és nb) alpontja szerinti ingatlan;
+
+e) joghatás kiváltására alkalmas nyilatkozat: olyan nyilatkozat, amely megfelel az e törvényben, az e törvény végrehajtására kiadott rendeletben és a Nemzeti Eszközkezelő által az e törvény szerinti tulajdonszerzési lehetőségekről és a bérleti jogviszony fenntartásának és fennmaradásának feltételeiről szóló tájékoztató levélben, valamint az ahhoz csatolt nyilatkozat-mintában meghatározott formai és tartalmi követelményeknek.
