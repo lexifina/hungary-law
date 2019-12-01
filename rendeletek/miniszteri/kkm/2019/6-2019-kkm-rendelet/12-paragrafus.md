@@ -12,39 +12,39 @@
 
 5.[^16]
 
-6.[^17]
+6. 4. § (2) bekezdésében a „belső honlapján” szövegrész helyébe az „a tartós külszolgálati pályázati- és kiválasztási eljárást, valamint felkészítést támogató informatikai szakrendszeren” szöveg,
 
-7.[^18]
+7.[^17]
 
-8.[^19]
+8.[^18]
 
-9.[^20]
+9.[^19]
 
-10.[^21]
+10.[^20]
 
-11.[^22]
+11.[^21]
 
-12.[^23]
+12.[^22]
 
-13.[^24]
+13. 6. § (1) bekezdésében a „keretében” szövegrész helyébe a „keretében és a tartós külszolgálati pályázati- és kiválasztási eljárást, valamint felkészítést támogató informatikai szakrendszeren keresztül is” szöveg,
 
-14.[^25]
+14. 6. § (2) bekezdésében a „munkakört a Kttv. szerinti nyílt pályázat keretében” szövegrész helyébe a „tartós külszolgálati munkakört a Kit. szerinti nyílt pályázat keretében és a tartós külszolgálati pályázati- és kiválasztási eljárást, valamint felkészítést támogató informatikai szakrendszeren keresztül” szöveg,
 
-15.[^26]
+15.[^23]
 
-16.[^27]
+16.[^24]
 
-17.[^28]
+17.[^25]
 
-18.[^29]
+18.[^26]
 
-19.[^30]
+19. 8. § (4) bekezdés a) pontjában a „pályázatban megjelölt címre” szövegrész helyébe a „tartós külszolgálati pályázati- és kiválasztási eljárást, valamint felkészítést támogató informatikai szakrendszeren keresztül” szöveg,
 
-20.[^31]
+20. 8. § (4) bekezdés b) pontjában a „papír alapon” szövegrész helyébe az „a tartós külszolgálati pályázati- és kiválasztási eljárást, valamint felkészítést támogató informatikai szakrendszeren keresztül elektronikus úton vagy papír alapon” szöveg,
 
-21.[^32]
+21.[^27]
 
-22.[^33]
+22. 10. § (4) bekezdésében a „belső honlapján” szövegrész helyébe az „a tartós külszolgálati pályázati és kiválasztási eljárást, valamint felkészítést támogató informatikai szakrendszeren” szöveg
 
 [^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^12]: A 12. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -52,20 +52,14 @@
 [^14]: A 12. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^15]: A 12. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^16]: A 12. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 12. § 6. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
-[^18]: A 12. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 12. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 12. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 12. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 12. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 12. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 12. § 13. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
-[^25]: A 12. § 14. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
-[^26]: A 12. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 12. § 16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 12. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 12. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 12. § 19. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
-[^31]: A 12. § 20. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
-[^32]: A 12. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 12. § 22. pontja a 14. § (2) bekezdése alapján 2019. december 1-jén lép hatályba.
+[^17]: A 12. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 12. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 12. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 12. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 12. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 12. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 12. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 12. § 16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 12. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 12. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 12. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
