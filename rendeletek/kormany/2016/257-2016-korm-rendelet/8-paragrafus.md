@@ -12,8 +12,8 @@ e) az elektronikus ügyintézési szolgáltatások bevezetésére vonatkozó ön
 
 f) az adatfeldolgozásra vonatkozó rendelkezéseket, valamint
 
-g)[^23] a csatlakozáshoz és az egyes szakrendszerek igénybevételéhez szükséges feladatok technikai, valamint informatikai meghatározását.
+g)[^24] a csatlakozáshoz és az egyes szakrendszerek igénybevételéhez szükséges feladatok technikai, valamint informatikai meghatározását.
 
 (2) Az interfész kiépítése tekintetében kötött szerződésnek legalább a helyi önkormányzat 7. § (2) bekezdés a) pontja szerinti vállalását, valamint az (1) bekezdés a), c)–g) pontja szerinti elemeket kell tartalmaznia.
 
-[^23]: A 8. § (1) bekezdés g) pontja a 75/2019. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^24]: A 8. § (1) bekezdés g) pontja a 75/2019. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.

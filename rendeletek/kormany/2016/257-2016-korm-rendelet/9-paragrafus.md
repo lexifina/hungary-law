@@ -16,20 +16,20 @@ c) a Kincstár rendszereiben az önkormányzati körre vonatkozóan rendelkezés
 
 (4) Az interfészen keresztül történő csatlakozás esetén a helyi önkormányzat a csatlakozást követően az önkormányzati adattárházba – a (3) bekezdésben foglaltakra figyelemmel – a 3. mellékletben meghatározott adatköröknek megfelelő adatokat köteles feltölteni.
 
-(5)[^31] Az önkormányzati adattárházba feltöltött adatok adatfelelőse – függetlenül attól, hogy interfésszel vagy rendszercsatlakozással csatlakozott az önkormányzati ASP rendszerhez – a rá vonatkozó adatok tekintetében a helyi önkormányzat, vagy az önkormányzati költségvetési szerv.
+(5)[^32] Az önkormányzati adattárházba feltöltött adatok adatfelelőse – függetlenül attól, hogy interfésszel vagy rendszercsatlakozással csatlakozott az önkormányzati ASP rendszerhez – a rá vonatkozó adatok tekintetében a helyi önkormányzat, vagy az önkormányzati költségvetési szerv.
 
 (6) A Kincstár az önkormányzati adattárházban tárolt adatok tekintetében adatkezelői feladatokat lát el. Ennek keretében a Kincstár
 
 a) saját feladatainak ellátásához,
 
-b)[^32] az érintett helyi önkormányzat számára a saját álnevesített adatai, valamint a helyi önkormányzat és az önkormányzati érdekszövetségek számára más helyi önkormányzatok álnevesített adataiból összesített és átlagolt, így összehasonlításra és elemzésre alkalmas adatai vonatkozásában,
+b)[^33] az érintett helyi önkormányzat számára a saját álnevesített adatai, valamint a helyi önkormányzat és az önkormányzati érdekszövetségek számára más helyi önkormányzatok álnevesített adataiból összesített és átlagolt, így összehasonlításra és elemzésre alkalmas adatai vonatkozásában,
 
 c) a helyi önkormányzatokért, az adópolitikáért, az államháztartásért, valamint a gazdaságpolitikáért felelős miniszter, a Központi Statisztikai Hivatal és az Állami Számvevőszék számára jogszabályban rögzített feladataik ellátása céljából
 
 ## rendszeres és eseti adatlekérdezést, adatösszegzést és adatszolgáltatást végez.
 
-(7)[^33] Az önkormányzati adattárházban tárolt álnevesített adatok ismételt megszemélyesítését a saját adataik tekintetében kizárólag a helyi önkormányzatok végezhetik el.
+(7)[^34] Az önkormányzati adattárházban tárolt álnevesített adatok ismételt megszemélyesítését a saját adataik tekintetében kizárólag a helyi önkormányzatok végezhetik el.
 
-[^31]: A 9. § (5) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^32]: A 9. § (6) bekezdés b) pontja a 148/2018. (VIII. 13.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^33]: A 9. § (7) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^32]: A 9. § (5) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^33]: A 9. § (6) bekezdés b) pontja a 148/2018. (VIII. 13.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^34]: A 9. § (7) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 1. § (6) bekezdése iktatta be.
