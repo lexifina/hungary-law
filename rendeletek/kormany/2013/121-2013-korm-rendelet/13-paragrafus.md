@@ -1,3 +1,3 @@
-## 12. §[^28] A Hivatal ellátja a nemzeti köznevelés tankönyvellátásáról szóló törvényben az oktatási hivatal számára meghatározott feladatokat.
+## 12/A. §[^36] A 12. §-ban meghatározott feladatok ellátására a Hivatalon belül egy, e feladatkörében nem utasítható, a 3. § q) pontjában meghatározott feladatokat ellátó szervezeti egységtől független szervezeti egység működik.
 
-[^28]: A 12. § az 501/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdésvel megállapított szöveg.
+[^36]: A 12/A. §-t a 259/2019. (X. 31.) Korm. rendelet 3. §-a iktatta be.

@@ -1,4 +1,4 @@
-6. §[^20] (1) A Hivatal pedagógiai-szakmai szolgáltató tevékenysége keretében
+6. §[^26] (1) A Hivatal pedagógiai-szakmai szolgáltató tevékenysége keretében
 
 a) ellátja az országos pedagógiai tárgyú mérés-értékelés szervezésével kapcsolatos feladatokat,
 
@@ -12,7 +12,9 @@ e) kidolgozza az Nkt. 64. §-ában meghatározott pedagógus minősítő vizsga 
 
 f) az állami köznevelési közfeladat-ellátás keretében biztosítja az Nkt. 19. § (2) bekezdésében meghatározott pedagógiai-szakmai szolgáltatásokat, valamint
 
-g) megszervezi az országos pedagógiai-szakmai szolgáltatásokat.
+g) megszervezi az országos pedagógiai-szakmai szolgáltatásokat,
+
+h)[^27] ellátja az iskolai közösségi szolgálat és az Arany János-programok módszertani támogatását.
 
 (2) Az (1) bekezdésben meghatározottakkal összefüggésben a Hivatal az Európai Unió által finanszírozott egyes kiemelt projektek megvalósítása során
 
@@ -20,4 +22,5 @@ a) a gyermekeket, tanulókat érintő hátránykompenzációs módszertani és s
 
 b) az óvodai fejlesztő programok részeként megvalósuló integrációs és képességkibontakoztató pedagógiai feladatok intézményi megvalósításához folyamatos támogatást biztosít.
 
-[^20]: A 6. § a 307/2017. (X. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^26]: A 6. § a 307/2017. (X. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^27]: A 6. § (1) bekezdés h) pontját a 259/2019. (X. 31.) Korm. rendelet 2. §-a iktatta be.
