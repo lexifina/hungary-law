@@ -72,6 +72,6 @@
 
 | 35. | Sanghaj Főkonzulátus |
 
-4. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^53]
+4. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^56]
 
-[^53]: A 4. mellékletet a 6/2019. (X. 28.) KKM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^56]: A 4. mellékletet a 6/2019. (X. 28.) KKM rendelet 15. § b) pontja hatályon kívül helyezte.
