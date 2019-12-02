@@ -1,3 +1,0 @@
-## 4. § Az R. 31/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A 25/A. § és 25/B. § szerinti életműdíj (a továbbiakban: Életműdíj) adományozására vonatkozó személyi javaslatot a Honvédelmi Minisztérium állami vezetői, a Magyar Honvédség parancsnoka vagy az MH Vezénylő Zászlós tehet. A személyi javaslatnak tartalmaznia kell a jelölt szakmai életútját, teljesítményének ismertetését, valamint azokat az indokokat, amelyek az Életműdíj adományozását megalapozhatják. Az Életműdíj adományozására vonatkozó személyi javaslatról a HM honvédelmi államtitkára és a Magyar Honvédség parancsnoka közös előterjesztést nyújt be a miniszter részére.”
