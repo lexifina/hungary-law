@@ -1,1 +1,3 @@
-## 4. § A KIM rendelet 2. melléklete helyébe a 2. melléklet lép.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
