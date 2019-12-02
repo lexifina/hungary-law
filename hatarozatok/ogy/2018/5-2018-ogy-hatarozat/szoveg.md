@@ -70,7 +70,7 @@ Varga Gábor (Fidesz)[^9]
 
 Potocskáné Kőrösi Anita (Jobbik)[^10]
 
-Bangóné Borbély Ildikó (MSZP)[^11]
+dr. Szakács László (MSZP)[^11]
 
 Székely Sándor (független)[^12]
 
@@ -406,11 +406,11 @@ Stummer János (Jobbik)
 
 Szilágyi György (Jobbik)
 
-Molnár Gyula (MSZP)[^73]
+dr. Szakács László (MSZP)[^73]
 
 Hiszékeny Dezső (MSZP)
 
-Tóbiás József (MSZP)[^74]
+Bangóné Borbély Ildikó (MSZP)[^74]
 
 Arató Gergely (DK)
 
@@ -447,7 +447,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^8]: A 13/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^9]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^10]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^11]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^11]: A 45/2019. (XII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^12]: A 4/2019. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^13]: Az 1. pont d) alpontja az 5/2019. (II. 19.) OGY határozat 1. pontja szerint módosított szöveg.
 [^14]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
@@ -509,7 +509,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^70]: A 10/2018. (VI. 5.) OGY határozat 2. pontjával megállapított szöveg.
 [^71]: A 4/2019. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
 [^72]: A 43/2019. (XI. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^73]: A 19/2018. (X. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^74]: A 12/2019. (IV. 2.) OGY határozat 1. pontjával megállapított szöveg.
+[^73]: A 45/2019. (XII. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^74]: A 45/2019. (XII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^75]: A 25/2019. (VII. 9.) OGY határozat 2. pontjával megállapított szöveg.
 [^76]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
