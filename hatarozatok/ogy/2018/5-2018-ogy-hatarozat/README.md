@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-5-30-41
 | 2019-11-05 | 2018-5-30-41.19 | 39/2019. (XI. 5.) OGY határozat |
 | 2019-11-18 | 2018-5-30-41.20 | 43/2019. (XI. 19.) OGY határozat |
 | 2019-12-02 | 2018-5-30-41.21 | 45/2019. (XII. 3.) OGY határozat |
+| 2019-12-03 | 2018-5-30-41.22 | 46/2019. (XII. 3.) OGY határozat |
