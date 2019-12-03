@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-271-20-
 | 2018-01-01 | 2009-271-20-22.13 | 516/2017. (XII. 29.) Korm. rendelet |
 | 2019-06-14 | 2009-271-20-22.14 | 128/2019. (V. 30.) Korm. rendelet |
 | 2019-11-30 | 2009-271-20-22.15 | 285/2019. (XI. 29.) Korm. rendelet |
+| 2019-12-03 | 2009-271-20-22.21 | 128/2019. (V. 30.) Korm. rendelet |

@@ -1,5 +1,3 @@
-## 23/A. §[^36] A vasúti társaság a szolgáltatásokban bekövetkező nagyobb zavarok esetére – a 3. § (1) bekezdés b) pontjában meghatározott rendelkezések kivételével – az EK rendelet 18. cikke szerinti segítségnyújtásra vonatkozó rendelkezéseket tartalmazó vészhelyzeti tervet készít.
-
 ## IV. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -28,7 +26,6 @@ f)[^41] 24. § (4) bekezdése 2024. december 4-én
 
 hatályát veszti.
 
-[^36]: A 23/A. §-t a 128/2019. (V. 30.) Korm. rendelet 1. §-a iktatta be.
 [^37]: A 24. § (3) bekezdését a (4) bekezdés a) pontja hatályon kívül helyezte.
 [^38]: A 24. § (4) bekezdését ugyanezen bekezdés f) pontja hatályon kívül helyezi 2014. december 4. napjával.
 [^39]: A 24. § (4) bekezdés b) pontját a 328/2013. (IX. 3.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.

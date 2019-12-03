@@ -44,4 +44,6 @@ c) az utazás útirányának szabad megválasztására,
 
 d) a menetjegy visszaváltására
 
+vonatkozó jogosultság tekintetében az üzletszabályzatban e rendelet rendelkezéseitől eltérhet.
+
 [^18]: A 10. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 10. §-a iktatta be.

@@ -1,5 +1,3 @@
-## vonatkozó jogosultság tekintetében az üzletszabályzatban e rendelet rendelkezéseitől eltérhet.
-
 12. § (1) A menetjegyet az EK rendelet I. melléklet 9. cikk (1) bekezdésében meghatározottakon túl a vasúti társaság által az utazási jogosultság ellenőrzése céljából kijelölt területen való tartózkodás tartama alatt meg kell őriznie, és a vasúti társaság által jegyvizsgálatra és menetjegy-ellenőrzésre feljogosított személy részére – a kedvezményes jegyváltásra jogosító igazolvánnyal együtt – kérésre át kell adnia.
 
 (2) A névre szóló menetjeggyel csak az arra jogosult utazhat. A nem névre szóló menetjegy mindaddig másra átruházható, ameddig azzal az utazást nem kezdték meg vagy útipoggyászt nem adtak fel.
