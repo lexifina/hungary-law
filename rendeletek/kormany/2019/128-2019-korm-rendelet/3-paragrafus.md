@@ -1,3 +1,3 @@
-## 2. §[^2]
+## 2. § Az R1. 23/A. §-a helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 7. § (2) bekezdése alapján 2019. december 3-án lép hatályba.
+## „23/A. § A vasúti társaság a szolgáltatásokban bekövetkező nagyobb zavarok esetére az EK rendelet 18. cikke szerinti segítségnyújtásra vonatkozó rendelkezéseket tartalmazó vészhelyzeti tervet készít.”
