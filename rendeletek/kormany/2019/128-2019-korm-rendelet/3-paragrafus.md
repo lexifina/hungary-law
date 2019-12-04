@@ -1,3 +1,3 @@
-## 2. § Az R1. 23/A. §-a helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „23/A. § A vasúti társaság a szolgáltatásokban bekövetkező nagyobb zavarok esetére az EK rendelet 18. cikke szerinti segítségnyújtásra vonatkozó rendelkezéseket tartalmazó vészhelyzeti tervet készít.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
