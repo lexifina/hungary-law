@@ -1,0 +1,1 @@
+A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 69. § (5) bekezdésében kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
