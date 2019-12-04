@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-15-20-0
 | 2019-01-01 | 2015-15-20-0A.9 | 35/2018. (XII. 21.) BM rendelet |
 | 2019-07-01 | 2015-15-20-0A.10 | 20/2019. (V. 15.) BM rendelet |
 | 2019-07-31 | 2015-15-20-0A.11 | 31/2019. (VII. 30.) BM rendelet |
+| 2019-12-04 | 2015-15-20-0A.12 | 40/2019. (XI. 19.) BM rendelet |

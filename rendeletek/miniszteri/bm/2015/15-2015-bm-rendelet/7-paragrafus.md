@@ -1,0 +1,8 @@
+## 6. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+7. §[^4] (1) A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet módosításáról szóló 40/2019. (XI. 19.) BM rendelet (a továbbiakban: Módr.) hatálybalépésének[^5] napján a Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóság Karmelita Őrségi Osztályán szolgálatot teljesítő, kockázatmentes biztonsági szakvéleménnyel nem rendelkező rendőr nemzetbiztonsági ellenőrzésének megindítása érdekében a munkáltatói jogkör gyakorlója a biztonsági kérdőív kitöltésének megkezdhetőségéhez szükséges intézkedéseket legkésőbb a Módr. hatálybalépését követő 30 napon belül teszi meg.
+
+(2) A Módr. hatálybalépését megelőzően nemzetbiztonsági ellenőrzés alá eső személynek nem minősülő rendőr jogviszonya a nemzetbiztonsági ellenőrzés lefolytatásához szükséges időtartam alatt – a biztonsági szakvélemény elkészültének és vele való közlésének időtartamáig – érvényes szakvélemény hiányában is fenntartható, a szolgálati feladatait elláthatja.
+
+[^4]: A 7. §-t a 40/2019. (XI. 19.) BM rendelet 1. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2019. december 4.
