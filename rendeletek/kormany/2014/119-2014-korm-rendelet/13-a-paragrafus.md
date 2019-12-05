@@ -1,4 +1,4 @@
-13/A. §[^14] (1) A védett várakozási övezetbe – a (2)–(4) bekezdésben meghatározott kivétellel – nem lehet behajtani.
+13/A. §[^15] (1)[^16] A védett várakozási övezetbe – a (2)–(5) bekezdésben meghatározott kivétellel – járművel nem lehet behajtani.
 
 (2) A védett várakozási övezetbe
 
@@ -16,4 +16,8 @@ d) az Országgyűlési Őrség, a terrorizmust elhárító szerv és a nemzetbiz
 
 (4) A védett várakozási övezetbe behajtáshoz – a kiemelt nemzeti emlékhely fenntartásának és működtetésének zavartalan biztosítása érdekében – a vagyonkezelő hozzájárulása szükséges.
 
-[^14]: A 13/A. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+(5)[^17] Ha a védett várakozási övezetet jelző tábla alatt „Kivéve engedéllyel” kiegészítő tábla van elhelyezve, a védett várakozási övezetbe – a (2)–(4) bekezdésben meghatározottakon túl – kizárólag az engedéllyel rendelkező járművel vagy kerékpárral szabad behajtani.
+
+[^15]: A 13/A. §-t a 447/2016. (XII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^16]: A 13/A. § (1) bekezdése a 270/2019. (XI. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: A 13/A. § (5) bekezdését a 270/2019. (XI. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be.
