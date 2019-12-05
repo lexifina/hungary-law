@@ -1,5 +1,3 @@
-## 1. § A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet (a továbbiakban: R.) a következő 7. §-sal egészül ki:
+## 1. §[^1]
 
-## „7. § (1) A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet módosításáról szóló 40/2019. (XI. 19.) BM rendelet (a továbbiakban: Módr.) hatálybalépésének napján a Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóság Karmelita Őrségi Osztályán szolgálatot teljesítő, kockázatmentes biztonsági szakvéleménnyel nem rendelkező rendőr nemzetbiztonsági ellenőrzésének megindítása érdekében a munkáltatói jogkör gyakorlója a biztonsági kérdőív kitöltésének megkezdhetőségéhez szükséges intézkedéseket legkésőbb a Módr. hatálybalépését követő 30 napon belül teszi meg.
-
-## (2) A Módr. hatálybalépését megelőzően nemzetbiztonsági ellenőrzés alá eső személynek nem minősülő rendőr jogviszonya a nemzetbiztonsági ellenőrzés lefolytatásához szükséges időtartam alatt – a biztonsági szakvélemény elkészültének és vele való közlésének időtartamáig – érvényes szakvélemény hiányában is fenntartható, a szolgálati feladatait elláthatja.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

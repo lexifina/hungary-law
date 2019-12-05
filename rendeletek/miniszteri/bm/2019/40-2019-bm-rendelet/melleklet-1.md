@@ -1,3 +1,3 @@
-1. melléklet a 40/2019. (XI. 19.) BM rendelethez[^2]
+1. melléklet a 40/2019. (XI. 19.) BM rendelethez[^4]
 
-[^2]: Az 1. melléklet a 4. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
+[^4]: Az 1. melléklet a 4. § (2) bekezdése alapján 2020. március 1-jén lép hatályba.
