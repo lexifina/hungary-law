@@ -8,10 +8,10 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: folyamatos
 
-3. felhívja a nemzetgazdasági minisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a fejlesztési program megvalósításához 2019. évben szükséges 500 000 000 forint költségvetési forrás biztosításáról a 2019. évi központi költségvetés XI. Miniszterelnökség fejezetben.
+3.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a fejlesztési program megvalósításához 2020. évben szükséges 500 000 000 forint költségvetési forrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport javára.
 
-Felelős: nemzetgazdasági miniszter
+Felelős: Miniszterelnökséget vezető miniszter
 
-Miniszterelnökséget vezető miniszter
+Határidő: a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-Határidő: a 2019. évi központi költségvetés tervezése során
+[^1]: A 3. pont az 1679/2019. (XII. 5.) Korm. határozat 2. pontjával megállapított szöveg.
