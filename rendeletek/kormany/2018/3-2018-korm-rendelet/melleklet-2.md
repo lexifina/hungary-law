@@ -4,11 +4,11 @@
 
 | 1. | A beruházás megnevezése | A beruházás azonosító adatai |
 
-| 2. | iskolafejlesztés | Biatorbágy közigazgatási területén fekvő, 04/26, 04/27, 04/28, 04/29 és 04/30 helyrajzi számú ingatlanok |
+| 2. | iskolafejlesztés | Biatorbágy közigazgatási területén fekvő, 04/25, 9554/1 és 9554/2 helyrajzi számú ingatlanok |
 
-| 3. | iskolafejlesztés | Göd közigazgatási területén fekvő, 025/5, 025/7 és 025/8 helyrajzi számú ingatlanok |
+| 3. | iskolafejlesztés | Göd közigazgatási területén fekvő, 018/5, 018/6, 018/7, 018/51, 018/55, 018/56, 018/57 és 019 helyrajzi számú ingatlanok |
 
-| 4. | iskolafejlesztés | Maglód közigazgatási területén fekvő, 4392 és 4393 helyrajzi számú ingatlanok |
+| 4. | iskolafejlesztés | Maglód közigazgatási területén fekvő, 4392 és 064/1 helyrajzi számú ingatlanok |
 
 | 5. | iskolafejlesztés | Szigetszentmiklós közigazgatási területén fekvő, 13291/5, 13292 és 13293 helyrajzi számú ingatlanok |
 
