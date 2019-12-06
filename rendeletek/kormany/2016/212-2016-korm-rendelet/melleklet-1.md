@@ -1,4 +1,4 @@
-## 8. §[^6] Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (1) bekezdését a Módr2. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^8] A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 212/2016. (VII. 21.) Korm. rendelet módosításáról szóló 291/2019. (XII. 5.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1. § (1) bekezdését a Módr3. hatálybalépésekor[^9] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 212/2016. (VII. 21.) Korm. rendelethez
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: A 8. §-t a 141/2018. (VII. 27.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^7]: A hatálybalépés időpontja 2018. július 28.
+[^8]: A 9. §-t a 291/2019. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2019. december 6.
