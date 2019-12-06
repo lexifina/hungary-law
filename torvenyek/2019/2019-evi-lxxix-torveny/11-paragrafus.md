@@ -1,0 +1,1 @@
+11. § Az Országgyűlés megállapítja, hogy a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény végrehajtásáról szóló 2018. évi LXXXIV. törvény 13–15. §-ában előírt megtérítési, visszautalási és elszámolási kötelezettségek teljesítése megtörtént.

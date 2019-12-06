@@ -1,0 +1,1 @@
+13. § Az Országgyűlés elrendeli, hogy az Ny. Alap a „Munkáltatói befizetésekből finanszírozott korengedményes nyugdíj” elszámolásához kapcsolódóan, nyilvántartott követelésekre megtérült 0,2 millió forintot utalja át a Nemzeti Foglalkoztatási Alap 10032000-01857025-00000000 számlája javára 2019. december 31-éig.

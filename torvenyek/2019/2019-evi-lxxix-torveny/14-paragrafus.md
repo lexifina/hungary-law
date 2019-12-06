@@ -1,0 +1,1 @@
+14. § Az Országgyűlés elrendeli, hogy az Ny. Alap a 301,2 millió forint többletét a LXXI. fejezet 4. cím 1. Költségvetési befizetések alcím terhére 2019. december 31-éig fizesse be a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 5. cím, 7. Nyugdíjbiztosítási Alap befizetése alcím javára.
