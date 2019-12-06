@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-288-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-12-05 | 2019-288-20-22.1 | 288/2019. (XII. 4.) Korm. rendelet |
+| 2019-12-06 | 2019-288-20-22.2 | 2010: CXXX. törvény |
