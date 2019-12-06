@@ -1,1 +1,3 @@
-## „(5) Ha a védett várakozási övezetet jelző tábla alatt „Kivéve engedéllyel” kiegészítő tábla van elhelyezve, a védett várakozási övezetbe – a (2)–(4) bekezdésben meghatározottakon túl – kizárólag az engedéllyel rendelkező járművel vagy kerékpárral szabad behajtani.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
