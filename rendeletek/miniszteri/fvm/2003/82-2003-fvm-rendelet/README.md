@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-82-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-07-30 | 2003-82-20-82.2 | 82/2003. (VII. 16.) FVM rendelet |
+| 2019-12-07 | 2003-82-20-82.3 | 54/2019. (XII. 4.) AM rendelet |

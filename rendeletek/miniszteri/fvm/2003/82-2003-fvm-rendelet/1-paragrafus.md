@@ -1,6 +1,6 @@
-## A géntechnológiai tevékenységhez szükséges engedély iránti kérelemhez csatolandó dokumentáció
+## A géntechnológiai tevékenységhez szükséges engedély iránti kérelem tartalma[^1]
 
-1. § (1) A géntechnológiai engedély iránti kérelmet
+1. § (1)[^2] A géntechnológiai engedély iránti kérelmet
 
 a) a géntechnológiai létesítményt létrehozó,
 
@@ -12,10 +12,26 @@ d) a géntechnológiával módosított szervezeteket és az azokból előállít
 
 e) a géntechnológiával módosított szervezeteket és az azokból előállított termékeket forgalomba hozó
 
-## hasznosítónak kell a géntechnológiai hatósághoz három példányban benyújtani, amely azt a Géntechnológiai Eljárásokat Véleményező Bizottságnak (a továbbiakban: Géntechnológiai Bizottság) véleményezésre megküldi.
+## hasznosítónak kell a géntechnológiai hatósághoz benyújtani, amely azt a Géntechnológiai Eljárásokat Véleményező Bizottságnak (a továbbiakban: Géntechnológiai Bizottság) véleményezésre megküldi.
 
-(2) A kérelemhez mellékelni kell az 1–3. számú mellékletekben meghatározott információkat tartalmazó dokumentációt, amelyet húsz példányban kell a géntechnológiai hatósághoz benyújtani.
+(2)[^3] A géntechnológiai tevékenység végzése iránti kérelem tartalmazza
 
-(3) A géntechnológiai hatóság és a Géntechnológiai Bizottság, illetve annak tagja a kérelemből és az ahhoz mellékelt dokumentációból tudomására jutott adatokat – a 3. § (4) bekezdése szerinti, a nyilvánosság tájékoztatásához szükséges adatok kivételével – köteles bizalmasan kezelni, illetőleg arról csak a kérelmező hozzájárulása esetén adhat másnak tájékoztatást. Ezt a rendelkezést kell alkalmazni akkor is, ha a hasznosító a benyújtott kérelmét visszavonja.
+a) az 1–3. számú melléklet szerinti információkat magába foglaló dokumentációt,
 
-(4) A géntechnológiai hatóság a kérelemhez mellékelt dokumentációban közölt adatok helytállóságát szükség esetén hatósági laboratórium által ellenőrzi.
+b) a kérelemben hivatkozott tanulmányok összefoglalását és eredményeit,
+
+c) az (1) bekezdés e) pontja szerinti kérelem benyújtása esetén
+
+ca) a kérelemben hivatkozott tanulmányokban alkalmazott módszerek és anyagok leírását vagy a szabványosított vagy nemzetközileg elismert módszerekre való hivatkozást, valamint
+
+cb) a tanulmányok elkészítéséért felelős testületek nevét.
+
+(3)[^4]
+
+(4)[^5]
+
+[^1]: Az „A géntechnológiai tevékenységhez szükséges engedély iránti kérelem tartalma” alcím címe az 54/2019. (XII. 4.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés záró szövegrésze az 54/2019. (XII. 4.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése az 54/2019. (XII. 4.) AM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (3) bekezdését az 54/2019. (XII. 4.) AM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdését az 54/2019. (XII. 4.) AM rendelet 5. § b) pontja hatályon kívül helyezte.

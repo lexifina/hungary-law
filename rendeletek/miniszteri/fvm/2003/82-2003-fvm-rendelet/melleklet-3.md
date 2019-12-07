@@ -524,4 +524,54 @@
 
 ## * A Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjától kell feltüntetni.
 
-3. számú melléklet a 82/2003. (VII. 16.) FVM rendelethez
+3. számú melléklet a 82/2003. (VII. 16.) FVM rendelethez[^21]
+
+## Kiegészítő információk a forgalomba hozatali engedély iránti kérelmek benyújtásához
+
+1. A forgalomba hozatal iránti kérelmeknek tartalmaznia kell e mellékletben meghatározott kiegészítő információkat. E mellékletet alkalmazni kell a termékként vagy termékekben megjelenő géntechnológiával módosított szervezetek és a nem forgalomba hozatali céllal kibocsátott géntechnológiával módosított szervezetek jelölésére is. A nem forgalomba hozatali céllal kibocsátott géntechnológiával módosított szervezetek jelölése esetén a felhasználásra vonatkozóan megfelelő ajánlásokat és korlátozásokat kell megadni.
+
+2. A termékként vagy termékekben megjelenő géntechnológiával módosított szervezetek forgalomba hozatala iránti kérelmeknek a következő információkat kell tartalmaznia az 1. számú mellékletben foglaltakon kívül:
+
+2.1. a termékek javasolt kereskedelmi nevei és az azokban található géntechnológiával módosított szervezetek nevei, valamint a géntechnológiával módosított szervezetek egyedi azonosítóinak kialakítására és hozzárendelésére szolgáló rendszer létrehozásáról szóló, 2004. január 14-i 65/2004/EK bizottsági rendelettel összhangban kidolgozott, a géntechnológiával módosított szervezetek egyedi azonosítójára vonatkozó javaslat; az engedély megadását követően használni kívánt új, a kérelemben fel nem tüntetett kereskedelmi nevet be kell jelenteni a géntechnológiai hatóságnak;
+
+2.2. a forgalomba hozatalért felelős gyártó, importőr vagy forgalmazó neve és címe;
+
+2.3. az ellenőrző minták rendelkezésre bocsátójának vagy bocsátóinak neve és címe;
+
+2.4. annak leírása, hogy a terméket és a termékként vagy termékben megjelenő géntechnológiával módosított szervezetet hogyan kívánják felhasználni, kiemelve a géntechnológiával módosított szervezet felhasználásában és kezelésében meglévő különbségeket, összehasonlítva a géntechnológiával nem módosított hasonló termékekkel;
+
+2.5. az Európai Unió azon földrajzi területének vagy területeinek és a környezet típusának leírása, ahol a terméket fel kívánják használni, amennyiben lehetséges, a felhasználás becsült mértékének megadásával minden egyes területen;
+
+2.6. a termék felhasználóinak várható köre, például ipar, mezőgazdaság, különféle szakmák vagy fogyasztók által történő felhasználás;
+
+2.7. a transzformációs esemény kimutatására, azonosítására és amennyiben releváns, mennyiségi meghatározására szolgáló módszerek; a géntechnológiával módosított szervezetek mintái és azok kontrollmintái, valamint a referenciaanyag elérhetőségének helyére vonatkozó információk, meghatározva azokat az információkat, amelyeket nem lehet, például üzleti titokra figyelemmel, a nyilvántartásban a nyilvánosság számára hozzáférhető módon megjeleníteni;
+
+2.8. javaslat a címkén vagy a kísérő dokumentációban használandó jelölésre, amelynek tartalmaznia kell, legalább összefoglalva
+
+2.8.1. a termék kereskedelmi nevét,
+
+2.8.2. annak kijelentését, hogy „E termék géntechnológiával módosított szervezeteket tartalmaz”,
+
+2.8.3. a géntechnológiával módosított szervezet nevét,
+
+2.8.4. a 2.2. pontban meghatározott információkat,
+
+2.8.5. annak jelzését, hogyan érhetők el az információk a nyilvántartás nyilvánosság számára hozzáférhető részében.
+
+3. A 2. pontban foglaltakon kívül, amennyiben releváns, a következő információt kell tartalmaznia a kérelemnek:
+
+3.1. megteendő intézkedések nem szándékolt kibocsátás vagy téves felhasználás esetén;
+
+3.2. tárolásra és kezelésre vonatkozó speciális utasítások vagy javaslatok;
+
+3.3. speciális utasítások a felügyelet kivitelezésére, valamint a bejelentő és – ha szükséges – a géntechnológiai hatóság értesítésére, annak érdekében, hogy a géntechnológiai hatóság bármilyen kedvezőtlen hatásról megfelelően tájékoztatva legyen;
+
+3.4. javaslat a géntechnológiával módosított szervezet elfogadott felhasználásának korlátozására, például, hogy hol és milyen célra használható fel a termék;
+
+3.5. javasolt csomagolás;
+
+3.6. becsült termelés az Európai Unió területén vagy becsült behozatal az Európai Unióba;
+
+3.7. javasolt kiegészítő jelölés, amely magába foglalhatja – legalább összefoglalva – a 2.4., 2.5., 3.1–3.4. pontokban meghatározott információkat.
+
+[^21]: A 3. számú melléklet az 54/2019. (XII. 4.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
