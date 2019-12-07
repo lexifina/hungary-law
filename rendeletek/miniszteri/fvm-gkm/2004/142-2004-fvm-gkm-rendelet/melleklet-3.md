@@ -230,7 +230,7 @@
 
 ## Nincs kizárva, hogy az eset sajátosságaira jellemző nyomonkövetés vagy általános vizsgálat formájában a géntechnológiai hatóságok további nyomonkövetést végeztessenek el. Az ilyen vizsgálatok célja, hogy lehetővé tegyék a kockázatkezelő részére a megfelelő, késedelem nélküli intézkedések meghozatalát, amennyiben bármilyen nem kívánatos és azonosítatlan hatás bukkan fel a kockázat értékelést megelőzően. Ezt azonban nem kell a nyomonkövetési terv pótlásának tekinteni, ami a végrehajtást végző hasznosító felelőssége marad (bár az érintett felek beleegyezésével annak részét képezheti).
 
-## IV.1.7.[^17] Létező rendszerek
+## IV.1.7.[^25] Létező rendszerek
 
 ## Lehetőség van a már létező nyomonkövetési vagy általános vizsgálati rendszerek kiterjesztésére a géntechnológiával módosított szervezetek forgalomba hozatala során felmerülő lehetséges ártalmas hatásokkal kapcsolatos intézkedések céljából. Ezek a rendszerek magukban foglalhatnak vizsgálati programokat a mezőgazdaság, élelmiszervizsgálatok, természetvédelem, az ökológiai hosszú távú nyomonkövetési programok, környezet-nyomonkövetési programok és állategészségügyi vizsgálatok területén.
 
@@ -354,4 +354,4 @@ együttes rendelethez
 
 – a szállítandó anyag megfelelő szállításához szükséges írásbeli utasítás, amennyiben ezt a vonatkozó szállítási szabályzat előírja.
 
-[^17]: A 2. melléklet B. rész IV.1.7. pontja a 22/2014. (III. 14.) VM rendelet 31. §-a szerint módosított szöveg.
+[^25]: A 2. melléklet B. rész IV.1.7. pontja a 22/2014. (III. 14.) VM rendelet 31. §-a szerint módosított szöveg.

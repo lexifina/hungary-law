@@ -8,7 +8,7 @@
 
 (3) A kockázat értékelés során a géntechnológiai tevékenységből származó – nem veszélyes és veszélyes – hulladék kezelésére, szállítására és ártalmatlanítására, valamint a keletkező szennyvíz kezelésére vonatkozóan a külön jogszabályokban[^5] foglaltak az irányadók.
 
-(4) A kockázat értékelést a géntechnológiai tevékenységre vonatkozó, külön jogszabály[^6] szerinti engedély iránti kérelemhez mellékelni kell. A kérelmező a kockázat értékelés rövid, közérthető kivonatát szintén köteles megküldeni a géntechnológiai hatóság részére, amely azt a kérelemmel és az ahhoz csatolt dokumentációval együtt továbbítja a Géntechnológiai Eljárásokat Véleményező Bizottságnak (a továbbiakban: Géntechnológiai Bizottság). A kockázat értékelés rövid, közérthető kivonata nyilvános, és a Géntechnológiai Bizottság Titkárságán megtekinthető.
+(4)[^6] A kockázat értékelés és annak rövid, közérthető kivonata a géntechnológiai tevékenységre vonatkozó engedély iránti kérelem részét képezi. A kockázat értékelés rövid, közérthető kivonata nyilvános, és a Géntechnológiai Eljárásokat Véleményező Bizottság (a továbbiakban: Géntechnológiai Bizottság) Titkárságán megtekinthető.
 
 (5)[^7] A hasznosítónak a kockázatértékelésről rendszeres nyilvántartást kell vezetnie, továbbá a kockázatértékelést évenként felül kell vizsgálnia, amelyet a géntechnológiai hatóság ellenőrizhet.
 
@@ -23,6 +23,6 @@ b) okkal feltételezhető, hogy az új tudományos és szakmai ismeretek figyele
 [^3]: A 3. §-t és az azt megelőző címet a 141/2007. (VI. 20.) Korm. rendelet 8. § (4) bekezdésének b) pontja hatályon kívül helyezte.
 [^4]: A géntechnológiai tevékenység engedélyezési eljárási rendjéről, valamint az eljárás során az Európai Bizottsággal való kapcsolattartásról szóló 132/2004. (IV. 29.) Korm. rendelet.
 [^5]: A hulladékgazdálkodásról szóló 2000. évi XLIII. törvény, valamint a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet.
-[^6]: A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény, a géntechnológiai tevékenység engedélyezési eljárási rendjéről, valamint az eljárás során az Európai Bizottsággal való kapcsolattartásról szóló 132/2004. (IV. 29.) Korm. rendelet, továbbá a géntechnológiai tevékenységre vonatkozó nyilvántartás és adatszolgáltatás rendjéről, valamint a géntechnológiai tevékenységhez szükséges engedély iránti kérelemhez csatolandó dokumentációról szóló 82/2003. (VII. 16.) FVM rendelet.
+[^6]: A 4. § (4) bekezdése az 54/2019. (XII. 4.) AM rendelet 6. §-ával megállapított szöveg.
 [^7]: A 4. § (5) bekezdése a 89/2009. (VII. 22.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^8]: Különös tekintettel az MSZ EN 12740/2000., az MSZ EN 12741/2000., valamint az MSZ EN 13441/2002. szabványokra.

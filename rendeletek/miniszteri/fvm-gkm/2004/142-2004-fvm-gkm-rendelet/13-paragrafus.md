@@ -1,5 +1,5 @@
-## 12. § A géntechnológiai eredet megállapítására jogosult, a külön jogszabály[^16] alapján akkreditált laboratóriumok jegyzékét és címét a 4. számú melléklet tartalmazza.
+## 12. §[^22] Géntechnológiai eredet megállapítására akkreditált laboratórium jogosult.
 
 ## Záró rendelkezések
 
-[^16]: A laboratóriumok, a tanúsító és az ellenőrző szervezetek akkreditálásáról szóló 1995. évi XXIX. törvény.
+[^22]: A 12. § az 54/2019. (XII. 4.) AM rendelet 7. §-ával megállapított szöveg.
