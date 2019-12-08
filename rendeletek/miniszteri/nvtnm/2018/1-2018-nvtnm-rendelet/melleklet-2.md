@@ -244,6 +244,8 @@
 
 | 6. | HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140442 | 2022. december 31. |
 
+| 7. | Adria Port Zártkörűen Működő Részvénytársaság | 01-10-140567 | 2022. december 31. |
+
 ## IX. Tulajdonosi joggyakorló: a Miniszterelnöki Kabinetiroda
 
 |  | A | B | C |
