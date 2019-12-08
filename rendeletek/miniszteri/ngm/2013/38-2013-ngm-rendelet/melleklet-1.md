@@ -1,6 +1,6 @@
-## 3. § Ez a rendelet 2014. január 1-jén lép hatályba.
+## kell összevezetni.
 
-1. melléklet a 38/2013. (IX. 19.) NGM rendelethez[^1]
+1. melléklet a 38/2013. (IX. 19.) NGM rendelethez[^2]
 
 ## Az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolásának könyvelési tételei
 
@@ -456,11 +456,9 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 | a nettó érték elszámolása a pénzügyi számvitel szerint | T331 | – | K3673 |
 
-| f) Az átvett immateriális javak, tárgyi eszközök értékesítésekor |  |  |  |
+| f) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelés teljesítésének elszámolása a költségvetési számvitel szerint |  |  |  |
 
-| az általános forgalmi adó követelés teljesítésének elszámolása |  |  |  |
-
-| a költségvetési számvitel szerint | T005 | – | K090463 |
+| T005 | – | K094063 |
 
 | g) Az átvett immateriális javak, tárgyi eszközök értékesítésekor |  |  |  |
 
@@ -1610,7 +1608,7 @@ SZEMÉLYI JUTTATÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 7. Kapcsolódó tétel: az esetleges árfolyam-különbözetek, készletfelhasználás elszámolása |
 
-## F) Az utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközök beszerzésével kapcsolatos elszámolás
+## F) A többcélú utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközök beszerzésével kapcsolatos elszámolás
 
 | 1. Kötelezettségvállalás a költségvetési számvitel szerint | T0021 | – | K051(2) |
 
@@ -1634,7 +1632,33 @@ SZEMÉLYI JUTTATÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 11. A munkáltatót terhelő közterhek átutalása a pénzügyi számvitel szerint | T4212 | – | K33 |
 
-| 12. Kapcsolódó tétel: az általános forgalmi adóval kapcsolatos elszámolások |  |  |  |
+| 12. Kapcsolódó tétel: az esetlegesen felmerülő általános forgalmi adóval kapcsolatos elszámolások |  |  |  |
+
+## G) Az egycélú utalványok beszerzésével kapcsolatos elszámolás
+
+| 1. Kötelezettségvállalás (utalvány névértéke összegéig) a költségvetési számvitel szerint | T0021 | – | K051(2) |
+
+| 2. Megrendelés leadása az utalvány forgalmazójának: csak a részletező nyilvántartásokban kerül rögzítésre |
+
+| 3. Kötelezettségvállalás az egycélú utalvány beszerzéséről szóló számla szerinti előzetesen felszámított általános forgalmi adó összegére a költségvetési számvitel szerint | T0022 | – | K053512 |
+
+| 4. Az egycélú utalvány beszerzéséről szóló számla szerinti előzetesen felszámított általános forgalmi adó összegének elszámolása a pénzügyi számvitel szerint |
+
+| a) Levonható általános forgalmi adó kötelezettségként | T36412 | – | K4213 |
+
+| b) Le nem vonható általános forgalmi adó kötelezettségként | T36414 | – | K4213 |
+
+| c) Le nem vonható előzetesen felszámított általános forgalmi adó átvezetése | T8435 | – | K36414 |
+
+| 5. Az egycélú utalványról szóló számla kiegyenlítése a pénzügyi számvitel szerint |
+
+| a) Névérték kiegyenlítése | T3662 | – | K32/33 |
+
+| b) Előzetesen felszámított általános forgalmi adó kiegyenlítése | T4213 | – | K32/33 |
+
+| 6. Az egycélú utalvány beszerzéséről szóló számla szerinti előzetesen felszámított általános forgalmi adó kiegyenlítése a költségvetési számvitel szerint | T053513 | – | K003 |
+
+| 7. Az egycélú utalványok munkavállalóknak történő kiadása és a kapcsolódó, munkáltatót terhelő közterhek elszámolása a költségvetési és a pénzügyi számvitel szerint: e fejezet F) A többcélú utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközök beszerzésével kapcsolatos elszámolás cím 4–11. pontja szerint |
 
 IX. FEJEZET
 
@@ -1980,35 +2004,11 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | c) A megtérítendő kifizetések társadalombiztosítás pénzügyi alapjai felé történő megtérítése a pénzügyi számvitel szerint | T3676 | – | K3312 |
 
-## D) Erzsébet utalványok formájában nyújtott önkormányzati segélyek, szociális támogatások, ellátások
+## D) A többcélú és az egycélú utalványok formájában nyújtott önkormányzati segélyek, szociális támogatások, ellátások elszámolása
 
-## elszámolása
+| 1. A többcélú utalványok beszerzésének, kiadásának és a kapcsolódó közterheknek az elszámolása a költségvetési és a pénzügyi számvitel szerint: a VIII. fejezet F) A többcélú utalványok, bérletek és más hasonló, készpénz-helyettesítő fizetési eszköznek nem minősülő eszközök beszerzésével kapcsolatos elszámolás cím szerint azzal, hogy a K1. rovat helyett a K4. rovathoz kapcsolódó nyilvántartási számlákat kell használni |
 
-| 1. Önkormányzatnál az utalványok megérkezésekor a bevétel elszámolása a költségvetési számvitel szerint |
-
-| a) Követelésként | T09162 | – | K0041 |
-
-| b) Teljesítésként | T005 | – | K09163 |
-
-| 2. Önkormányzatnál az utalványok megérkezésekor a bevétel elszámolása a pénzügyi számvitel szerint |
-
-| a) Követelésként | T3511 | – | K92 |
-
-| b) Teljesítésként | T3662 | – | K3511 |
-
-| 3. Önkormányzatnál az utalványok átadásának elszámolása az ellátottaknak a költségvetési számvitel szerint | T054(3) | – | K003 |
-
-| 4. Önkormányzatnál az utalványok átadásának elszámolása az ellátottaknak a pénzügyi számvitel szerint | T4214 | – | K3662 |
-
-| 5. Kapcsolódó tételek: az ellátásokkal kapcsolatos további elszámolások (kötelezettségvállalás, stb.) az e fejezet C) Államháztartáson kívüli vissza nem térítendő támogatások, ellátottak pénzbeli juttatásai elszámolásai címe szerint |
-
-| 6. A központi költségvetésben az önkormányzatoknak utalványban adott támogatás elszámolása: az A) Államháztartáson belüli vissza nem térítendő támogatások nyújtása elszámolásai cím 1-3. pontja szerint, az alábbi kiegészítésekkel |
-
-| a) Pénzügyi teljesítés elszámolása az utalvány forgalmazója felé a pénzügyi számvitel szerint | T3662 | – | K32/33 |
-
-| b) Az önkormányzatok részére az utalványok kiadásának elszámolása a költségvetési számvitel szerint | T055063 | – | K003 |
-
-| c) Az önkormányzatok részére az utalványok kiadásának elszámolása a pénzügyi számvitel szerint | T4215 | – | K3662 |
+| 2. Az egycélú utalványok beszerzésének, kiadásának és a kapcsolódó közterheknek az elszámolása a költségvetési és a pénzügyi számvitel szerint: a VIII. fejezet G) Az egycélú utalványok beszerzésével kapcsolatos elszámolás cím szerint azzal, hogy K1. rovat helyett a K4. rovathoz kapcsolódó nyilvántartási számlákat kell használni |
 
 ## E) Dolgozóknak lakáskölcsön nyújtása elszámolása
 
@@ -2018,7 +2018,7 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 3. Kötelezettségvállalás a költségvetési számvitel szerint | T0021 | – | K05862 |
 
-| 4. Kölcsön folyósítása, ide értve a kezelési költség dolgozót érintő részét is a költségvetési számvitel szerint |
+| 4. Kölcsön folyósítása a költségvetési számvitel szerint |
 
 | a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T05862 T0022 | – | K0021 K05862 |
 
@@ -2028,7 +2028,7 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | d) Követelés kamatrésze | T0940822 | – | K0041 |
 
-| 5. Kölcsön folyósítása, ide értve a kezelési költség dolgozót érintő részét is a pénzügyi számvitel szerint |
+| 5. Kölcsön folyósítása a pénzügyi számvitel szerint |
 
 | a) Követelés tőkeösszege | T3517 | – | K331 |
 
@@ -3056,4 +3056,4 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
-[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1. pontja szerint módosított szöveg.
