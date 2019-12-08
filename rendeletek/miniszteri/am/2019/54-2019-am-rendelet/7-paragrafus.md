@@ -1,3 +1,0 @@
-## 6. § A mezőgazdaság és az ipar területén folytatott géntechnológiai tevékenység egyes szabályairól szóló 142/2004. (IX. 30.) FVM–GKM együttes rendelet [a továbbiakban: 142/2004. (IX. 30.) FVM–GKM együttes rendelet] 4. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A kockázat értékelés és annak rövid, közérthető kivonata a géntechnológiai tevékenységre vonatkozó engedély iránti kérelem részét képezi. A kockázat értékelés rövid, közérthető kivonata nyilvános, és a Géntechnológiai Eljárásokat Véleményező Bizottság (a továbbiakban: Géntechnológiai Bizottság) Titkárságán megtekinthető.”
