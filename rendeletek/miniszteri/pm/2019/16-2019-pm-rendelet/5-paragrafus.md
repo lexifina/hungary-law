@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti az államháztartás számvitelének változásaival kapcsolatos feladatokról és államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módjáról szóló 38/2013. (IX. 19.) NGM rendelet módosításáról szóló 34/2015. (XII. 16.) NGM rendelet.
+## 4. §[^5]
 
 ## 3. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 2. § 2. pontja és a 2. melléklet 2020. január 1-jén lép hatályba.
 
 (3) A 3. § 2020. augusztus 31-én lép hatályba.
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
