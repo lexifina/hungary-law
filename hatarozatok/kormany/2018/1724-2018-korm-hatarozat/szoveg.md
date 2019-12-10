@@ -26,7 +26,7 @@ de) Harareban (Zimbabwei Köztársaság),
 
 df) Xiamenben (Kínai Népköztársaság),
 
-dg) Szczecinben (Lengyel Köztársaság);
+dg)[^1]
 
 4. felhatalmazza a külgazdasági és külügyminisztert a 3. pont d) alpontjában felsorolt külképviseletek megnyitásához szükséges diplomáciai lépések megtételére és az érintett országok külügyminisztériumainak tájékoztatására, továbbá megbízza a nem önálló külképviseletek megnyitásával összefüggő feladatok végrehajtásával;
 
@@ -83,3 +83,5 @@ Határidő: folyamatos
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2021. június 30.
+
+[^1]: A 3. pont d) alpont dg) alpontját az 1685/2019. (XII. 10.) Korm. határozat 9. pontja visszavonta.

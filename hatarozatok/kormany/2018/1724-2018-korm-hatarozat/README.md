@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1724-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-12-18 | 2018-1724-30-22.1 | 1724/2018. (XII. 18.) Korm. határozat |
+| 2019-12-10 | 2018-1724-30-22.2 | 1685/2019. (XII. 10.) Korm. határozat |
