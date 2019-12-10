@@ -6,7 +6,7 @@
 
 ## b) a Balatonfüredi Tankerület Központ vagyonkezelésébe kerüljenek;
 
-## 3. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 464 390 692 forintban határozza meg;
+## 3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 467 438 692 forintban határozza meg;
 
 ## 4. a 3. pont szerinti összeg 2019. évi részének finanszírozása céljából az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 142 173 854 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
 
@@ -18,7 +18,7 @@
 
 ## Határidő: azonnal
 
-## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 3. pont szerinti összeg 2020. évi részének rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény[^1] 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezetben;
+## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 3. pont szerinti összeg 2020. évi részének rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény[^2] 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezetben;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -100,4 +100,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A Magyar Közlöny 2019. évi 150. számában megjelent helyesbítésnek megfelelő szöveg.
+[^1]: A 3. pont az 1705/2019. (XII. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A Magyar Közlöny 2019. évi 150. számában megjelent helyesbítésnek megfelelő szöveg.
