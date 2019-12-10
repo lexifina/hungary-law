@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1504-30
 | --- | --- | --- |
 | 2019-08-23 | 2019-1504-30-22.1 | 1504/2019. (VIII. 23.) Korm. határozat |
 | 2019-08-24 | 2019-1504-30-22.2 | 2010: CXXX. törvény |
+| 2019-12-10 | 2019-1504-30-22.3 | 1705/2019. (XII. 10.) Korm. határozat |
