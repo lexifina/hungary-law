@@ -1,0 +1,5 @@
+2. § (1) A Koordinációs Iroda a kérelmet és mellékleteit azok hiánytalan beérkezését követően – a támogató nyilatkozat kiadására vonatkozó tájékoztatásával és javaslatával együtt – egy-egy példányban haladéktalanul, de legkésőbb a kézhezvételétől számított öt napon belül egyidejűleg továbbítja a miniszterek részére.
+
+(2) Ha a benyújtott kérelem vagy mellékletei hiányosak, a Koordinációs Iroda a kérelem és mellékletei hiányainak megjelölésével a nemzetközi sportszövetséget negyvenöt napos határidővel a nemzetközi sportszövetség által a kérelemben megjelölt levelezési címen hiánypótlásra hívja fel.
+
+(3) Ha a nemzetközi sportszövetség a hiánypótlási felhívásnak maradéktalanul eleget tesz, vagy a hiánypótlási határidő eredménytelenül telik el, a Koordinációs Iroda a kérelmet és mellékleteit az (1) bekezdés szerint továbbítja a miniszterek részére. Ebben esetben az Stv. 30/B. § (3) bekezdése szerinti határidőt a hiánypótlási felhívás teljesítésétől vagy a hiánypótlásra nyitva álló határidő eredménytelen elteltétől kell számítani.
