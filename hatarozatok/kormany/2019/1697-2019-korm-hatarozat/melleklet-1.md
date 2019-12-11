@@ -34,6 +34,8 @@
 
 ## Határidő: a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a központi költségvetés címrendjének a kormányzati szerkezetátalakítással összefüggő módosításáról szóló 1156/2017. (III. 20.) Korm. határozat 3. pontjában a „Kistarcsa Város Önkormányzata részére” szövegrész helyébe a „Kistarcsa Város Önkormányzata részére az előkészítési feladatok megvalósítása érdekében” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1697/2019. (XII. 10.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
