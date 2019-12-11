@@ -26,6 +26,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 7. bérköltség: a támogatás kedvezményezettje által ténylegesen fizetendő teljes összeg, amely egy meghatározott időszakban magában foglalja az adózás előtti bruttó bért, a kötelező járulékokat a 651/2014/EU bizottsági rendelet 2. cikk 31. pontja szerint;
 
+7a.[^2] csoportmentességi rendeletek: a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet és az 1388/2014/EU bizottsági rendelet;
+
 8. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb;
 
 9. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdésében és az 1408/2013/EU bizottsági rendelet 2. cikk 2. pontjában meghatározott feltételeknek megfelelő vállalkozás;
@@ -201,3 +203,5 @@ e) az 1408/2013/EU bizottsági rendeletben,
 f) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásban,
 
 g) a 651/2014/EU bizottsági rendeletben
+
+[^2]: A 3. § (1) bekezdés 7a. pontját az 5/2019. (XII. 10.) MK rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 34. §[^4] Az 1. mellékletben foglalt táblázat
+## 34. §[^7] Az 1. mellékletben foglalt táblázat
 
 a) 8., 10–12., 15–18., 20. és 23. sora az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
 
@@ -8,6 +8,9 @@ c) 8., 10–12., 15–18., 20. és 23. sora a 651/2014/EU rendeletnek a kikötő
 
 d) 11–12., 15–18., 20. és 23. sora az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7, 2012.1.11., 3. o.),
 
-e) 11–12., 15–18., 20. és 23. sora a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat
+e) 11–12., 15–18., 20. és 23. sora a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat,
 
-[^4]: A 34. § a 3/2019. (VIII. 2.) MK rendelet 3. §-ával megállapított szöveg.
+f)[^8] 10. sora, F:11 mező 10), 11), 15) és 19) pontja, F:12 mező 6) és 7) pontja, F:18 mező 1) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet (HL L 114, 2012.4.26., 8. o.)
+
+[^7]: A 34. § a 3/2019. (VIII. 2.) MK rendelet 3. §-ával megállapított szöveg.
+[^8]: A 34. § f) pontját az 5/2019. (XII. 10.) MK rendelet 4. §-a iktatta be.

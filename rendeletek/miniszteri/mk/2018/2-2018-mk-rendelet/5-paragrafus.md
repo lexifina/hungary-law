@@ -1,4 +1,4 @@
-5. § (1) A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet és az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+5. § (1)[^3] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és a 360/2012/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) Nem ítélhető meg támogatás
 
@@ -33,3 +33,5 @@ i) kultúrát és kulturális örökség megőrzését előmozdító támogatás
 (6) Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez, vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
 
 (7) A 651/2014/EU bizottsági rendelet alapján támogatás – az induló vállalkozásnak nyújtott támogatás és a kultúrát és a kulturális örökség megőrzését előmozdító támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
+
+[^3]: Az 5. § (1) bekezdése az 5/2019. (XII. 10.) MK rendelet 2. §-ával megállapított szöveg.
