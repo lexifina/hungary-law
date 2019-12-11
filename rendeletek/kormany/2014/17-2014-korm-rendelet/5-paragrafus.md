@@ -8,7 +8,7 @@ b) a nyilvános értékesítési eljárásban (árverés vagy értékesítési p
 
 c) azok a személyek vagy szervezetek, amelyek az értékesítési rendszer működésének és az ajánlatoknak a megismerése érdekében az EÉR honlapjára belépnek, de nem regisztráltatták magukat licitálóként (a továbbiakban: betekintő),
 
-d)[^4]
+d)[^7]
 
 e) azok a szervezetek, amelyek az EÉR-ben rögzített adatok és dokumentumok hatósági és bírósági ellenőrzésére jogosultak (a továbbiakban: ellenőrzésre jogosult szervezetek).
 
@@ -16,16 +16,17 @@ e) azok a szervezetek, amelyek az EÉR-ben rögzített adatok és dokumentumok h
 
 a) minden, a felszámolók névjegyzékébe bejegyzett,
 
-b) a felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet 1. §-a szerinti, valamint
+b)[^8] a felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet [a továbbiakban: 114/2006. (V. 12.) Korm. rendelet] 1. §-a szerinti, valamint
 
-c)[^5] a Cstv. 27/A. § (6a) bekezdése alapján a folyamatban lévő felszámolási eljárásokban még közreműködő
+c)[^9] a Cstv. 27/A. § (6a) bekezdése alapján a folyamatban lévő felszámolási eljárásokban még közreműködő
 
 felszámoló szervezet számára.
 
-(2a)[^6] Az értékesítők a felszámoló szervezetek hatósági nyilvántartásába bejegyzett adataikkal vesznek részt az EÉR-ben. A nyilvántartást vezető hatóság az adatokról és azok változásáról elektronikus úton adatszolgáltatást teljesít az EÉR működtetője részére.
+(2a)[^10] Az értékesítők a felszámoló szervezetek hatósági nyilvántartásába bejegyzett adataikkal vesznek részt az EÉR-ben. A nyilvántartást vezető hatóság az adatokról és azok változásáról elektronikus úton adatszolgáltatást teljesít az EÉR működtetője részére.
 
 (3) Amennyiben az értékesítő az EÉR értékesítők jegyzékéből törlésre kerül, a működtető erről haladéktalanul elektronikus értesítést küld a felszámoló szervezet hatósági nyilvántartását ellátó szervnek.
 
-[^4]: Az 5. § (1) bekezdés d) pontját a 299/2014. (XII. 5.) Korm. rendelet 18. §-a hatályon kívül helyezte.
-[^5]: Az 5. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 801. § b) pontja szerint módosított szöveg.
-[^6]: Az 5. § (2a) bekezdését a 299/2014. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+[^7]: Az 5. § (1) bekezdés d) pontját a 299/2014. (XII. 5.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^8]: Az 5. § (2) bekezdés b) pontja a 298/2019. (XII. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^9]: Az 5. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 801. § b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (2a) bekezdését a 299/2014. (XII. 5.) Korm. rendelet 2. §-a iktatta be.

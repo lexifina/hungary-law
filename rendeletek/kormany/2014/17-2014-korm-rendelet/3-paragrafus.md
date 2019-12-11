@@ -4,4 +4,6 @@
 
 (3) Az auditálást legalább kétévenként újra el kell végeztetni, és ezen időtartamon belül abban az esetben is, ha olyan körülmény jut a működtető tudomására, amely alapján fennáll a veszélye annak, hogy az (1) bekezdés és a 4. § szerinti követelmények nem teljesülnek a működtetés során.
 
-(4) Az auditáló szervezetet a működtető választja ki, és viseli az auditálással összefüggő költségeket. Az auditáló szervezet kiválasztásánál ki kell kérni az állami adóhatóság és a Nemzeti Biztonsági Felügyelet véleményét is.
+(4)[^4] Az auditáló szervezetet a működtető választja ki, és viseli az auditálással összefüggő költségeket. Az auditáló szervezet kiválasztásánál ki kell kérni az állami adóhatóság véleményét is.
+
+[^4]: A 3. § (4) bekezdése a 298/2019. (XII. 10.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

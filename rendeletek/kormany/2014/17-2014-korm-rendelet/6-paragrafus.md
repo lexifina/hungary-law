@@ -4,7 +4,7 @@ a) az értékesítők havonta
 
 aa) rendszerhasználati felhasználói alapdíjat és
 
-ab)[^7] sávosan meghatározott licitindítási díjat,
+ab)[^11] sávosan meghatározott licitindítási díjat,
 
 b) a nyertes licitálók a nettó vételár 1%-át mint jutalékot
 
@@ -14,6 +14,13 @@ b) a nyertes licitálók a nettó vételár 1%-át mint jutalékot
 
 (3) A licitáló a licitálók nyilvántartásába történő első felvétele alkalmával 7000 Ft regisztrációs díjat fizet.
 
-(4) Az (1) és (3) bekezdésben említett díjakat az EÉR honlapján közzé kell tenni. Ezeket a bevételeket kizárólag az EÉR fejlesztésére és a működtetésével összefüggő kiadásokra (ideértve az auditálást, a rendszer továbbfejlesztését, az archiválást, a működtetés ellenőrzését, a felhasználók oktatását, valamint az üzemeltetés személyi és dologi kiadásait is) lehet fordítani.
+(4)[^12] Az (1) és (3) bekezdésben említett díjakat az EÉR honlapján közzé kell tenni. Ezeket a bevételeket kizárólag
 
-[^7]: A 6. § (1) bekezdés a) pont ab) alpontja a 299/2014. (XII. 5.) Korm. rendelet 17. § a) pontjával megállapított szöveg.
+a) az EÉR fejlesztésére és a működtetésével összefüggő kiadásokra (ideértve az auditálást, a rendszer továbbfejlesztését, az archiválást, a működtetés ellenőrzését, a felhasználók oktatását, valamint az üzemeltetés személyi és dologi kiadásait is, kivéve a működtető elhelyezését szolgáló dologi kiadásokat),
+
+b) a felszámolók, a vagyonfelügyelők és az ideiglenes vagyonfelügyelők elektronikus kijelölésének szabályairól szóló miniszteri rendelet szerinti számítógépes program fejlesztésére és a működtetésével összefüggő kiadásokra (ideértve az auditálást, a rendszer továbbfejlesztését, az archiválást, a működtetés ellenőrzését, a felhasználók oktatását, valamint az üzemeltetés személyi és dologi kiadásait is, kivéve a működtető elhelyezését szolgáló dologi kiadásokat), valamint
+
+c) a 114/2006. (V. 12.) Korm. rendelet 3. § (1) bekezdése szerinti új névjegyzék felállítása kapcsán kiírásra kerülő pályázattal összefüggő kiadásokra
+
+[^11]: A 6. § (1) bekezdés a) pont ab) alpontja a 299/2014. (XII. 5.) Korm. rendelet 17. § a) pontjával megállapított szöveg.
+[^12]: A 6. § (4) bekezdése a 298/2019. (XII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
