@@ -14,12 +14,12 @@
 
 6. a kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló 13/2013. (VIII. 1.) HM rendelet (a továbbiakban: Üdültetési HM R.) 4. § (1) bekezdése szerinti állomány a kondicionáló-kiképzési rendezvény idejére,
 
-7.[^50] az MHP-n, a más magasabb szintű parancsnokság jogállású katonai szervezetnél, a HM-nél, a miniszter alárendeltségébe tartozó szervezeteknél repülőhajózó szaktevékenységet folytató, repülőhajózó MAK-kal vagy munkakörrel rendelkező személyi állomány a gyakorlati repülés megkezdése előtt 14 nappal, a kiképzés befejezéséig,
+7.[^56] az MHP-n, a más magasabb szintű parancsnokság jogállású katonai szervezetnél, a HM-nél, a miniszter alárendeltségébe tartozó szervezeteknél repülőhajózó szaktevékenységet folytató, repülőhajózó MAK-kal vagy munkakörrel rendelkező személyi állomány a gyakorlati repülés megkezdése előtt 14 nappal, a kiképzés befejezéséig,
 
-8.[^51] a szállító-repülőgép szakszemélyzete, aki nem tartozik az 1. pont alá, fedélzeti ellátásként a 13/B. § (1) bekezdésében és a 13/C. § (1) bekezdés b) pontjában meghatározott esetekben.
+8.[^57] a szállító-repülőgép szakszemélyzete, aki nem tartozik az 1. pont alá, fedélzeti ellátásként a 13/B. § (1) bekezdésében és a 13/C. § (1) bekezdés b) pontjában meghatározott esetekben.
 
-(2)[^52] A III. számú élelmezési norma szerinti ellátásra való jogosultság kezdetét az (1) bekezdés 1. pontja esetében a beosztásba helyezés kezdő napjával, a jogosultság megszűnését pedig a beosztás betöltésének utolsó napjával az arra jogosult parancsnok napiparancsban állapítja meg.
+(2)[^58] A III. számú élelmezési norma szerinti ellátásra való jogosultság kezdetét az (1) bekezdés 1. pontja esetében a beosztásba helyezés kezdő napjával, a jogosultság megszűnését pedig a beosztás betöltésének utolsó napjával az arra jogosult parancsnok napiparancsban állapítja meg.
 
-[^50]: A 13. § (1) bekezdés 7. pontja a 9/2019. (VIII. 30.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^51]: A 13. § (1) bekezdés 8. pontját a 9/2019. (VIII. 30.) HM rendelet 8. § (2) bekezdése iktatta be.
-[^52]: A 13. § (2) bekezdése a 9/2019. (VIII. 30.) HM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^56]: A 13. § (1) bekezdés 7. pontja a 9/2019. (VIII. 30.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^57]: A 13. § (1) bekezdés 8. pontját a 9/2019. (VIII. 30.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^58]: A 13. § (2) bekezdése a 9/2019. (VIII. 30.) HM rendelet 8. § (3) bekezdésével megállapított szöveg.
