@@ -62,7 +62,9 @@
 
 | 29. | Repüléstechnikai beruházás Miskolc belterületén | Miskolc közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 12995/6 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^51]
+| 30 | Szállítmányozási, raktározási, ipari és logisztikai telephelybővítő beruházás Budapest XXIII. kerület és Dunaharaszti területén | A Dunaharaszti közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 7600/3 és külterület 021/4 helyrajzi számú, valamint a Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XXIII. kerület külterület 0196373/7 és 0196375 helyrajzi számú ingatlanok. | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^55]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -242,4 +244,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^51]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^55]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
