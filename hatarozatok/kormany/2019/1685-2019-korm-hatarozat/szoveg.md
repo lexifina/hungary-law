@@ -52,4 +52,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2020. szeptember 1.
 
-9. visszavonja a Magyarország konzuli szolgálatának igénybe vétele esetén felmerülő ügyfél-várakozási idő csökkentése, illetve a schengeni vízumeljárás versenyképességet javító fejlesztése érdekében szükséges intézkedésekről szóló 1724/2018. (XII. 18.) Korm. határozat 3. pont d) alpont dg) pontját.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
