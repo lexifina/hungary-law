@@ -250,7 +250,7 @@ Csárdi Antal (LMP)[^48]
 
 k) Nemzetbiztonsági bizottság (7 fő)
 
-Elnök: dr. Lukács László György (Jobbik)[^49]
+Elnök: Stummer János (Jobbik)[^49]
 
 Alelnök: Halász János (Fidesz)[^50]
 
@@ -354,7 +354,7 @@ dr. Salacz László (Fidesz)
 
 Vécsey László (Fidesz)
 
-dr. Varga László (MSZP)[^62]
+Bangóné Borbély Ildikó (MSZP)[^62]
 
 Demeter Márta (LMP)[^63]
 
@@ -410,8 +410,6 @@ dr. Szakács László (MSZP)[^75]
 
 Hiszékeny Dezső (MSZP)
 
-Bangóné Borbély Ildikó (MSZP)[^76]
-
 Arató Gergely (DK)
 
 Hajdu László (DK)
@@ -420,7 +418,7 @@ dr. Keresztes László Lóránt (LMP)
 
 Burány Sándor (Párbeszéd)
 
-Balczó Zoltánt (Jobbik)[^77]
+Balczó Zoltánt (Jobbik)[^76]
 
 3. Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő nemzetiségi képviselőt és nemzetiségi szószólót választja:
 
@@ -436,7 +434,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 6. A Magyarországi nemzetiségek bizottságának megbízatása 2018. május 9-én kezdődik.
 
-7.[^78]
+7.[^77]
 
 [^2]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
@@ -485,7 +483,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^46]: A 10/2018. (VI. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^47]: A 21/2018. (X. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^48]: A 9/2019. (III. 5.) OGY határozat 1. pontjával megállapított szöveg.
-[^49]: A 39/2019. (XI. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^49]: Az 52/2019. (XII. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^50]: A 13/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^51]: A 13/2018. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^52]: A 31/2018. (XI. 27.) OGY határozat 1. pontjával megállapított szöveg.
@@ -498,7 +496,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^59]: A 46/2019. (XII. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^60]: A 10/2018. (VI. 5.) OGY határozat 1. pontja iktatta be.
 [^61]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^62]: A 19/2018. (X. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^62]: Az 52/2019. (XII. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^63]: A 9/2019. (III. 5.) OGY határozat 2. pontjával megállapított szöveg.
 [^64]: A 21/2018. (X. 16.) OGY határozat 2. pontjával megállapított szöveg.
 [^65]: A 10/2018. (VI. 5.) OGY határozat 2. pontja ikattta be.
@@ -512,6 +510,5 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^73]: A 4/2019. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
 [^74]: A 43/2019. (XI. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^75]: A 45/2019. (XII. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^76]: A 45/2019. (XII. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^77]: A 25/2019. (VII. 9.) OGY határozat 2. pontjával megállapított szöveg.
-[^78]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 25/2019. (VII. 9.) OGY határozat 2. pontjával megállapított szöveg.
+[^77]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
