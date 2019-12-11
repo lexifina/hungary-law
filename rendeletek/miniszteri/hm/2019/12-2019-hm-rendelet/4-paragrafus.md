@@ -1,0 +1,1 @@
+## „(1a) Az (1) bekezdés 3. pontja esetében nem jár az I. számú élelmezési norma szerinti térítésmentes természetbeni élelmezési ellátás az alap-, pót és egészségügyi szabadság, a szolgálat alóli mentesítés, valamint a személyi szabadságot érintő kényszerintézkedés napjaira.”
