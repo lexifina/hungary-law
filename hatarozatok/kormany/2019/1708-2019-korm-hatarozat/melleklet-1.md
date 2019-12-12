@@ -6,15 +6,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) alpont faa) alpontjában a „118,18%-áig” szövegrész helyébe a „117,49%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „552,925” szövegrész helyébe az „549,692” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:49 mezőjében a „121,00 (támogatási intenzitás: 100%)” szövegrész helyébe a „117,77 (támogatási intenzitás: 98,55%)” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1708/2019. (XII. 10.) Korm. határozathoz
 
@@ -27,3 +19,5 @@
 | 3. | Projekt le nem vonható, az Európai Unió (a továbbiakban: EU) felé el nem számolható általános forgalmi adó (a továbbiakban: ÁFA) IKOP hazai társfinanszírozás terhére (Ft) | Az EU felé nem elszámolható egyéb költségek IKOP hazai társfinanszírozás terhére (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA IKOP hazai társfinanszírozás terhére (Ft) | Az EU felé el nem számolható egyéb költségek IKOP hazai társfinanszírozás terhére (Ft) |
 
 | 4. | IKOP-2.1.0-15- 2017-00036 | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | Püspökladány– Debrecen vasútvonal korszerűsítése, Debrecen állomás részleges átépítése és Szajol–Debrecen vasútvonalon ETCS2 vonatbefolyásoló rendszer kiépítése | 100% | 121 000 000 000 | 0 | 32 437 233 000 | 0 | 153 437 233 000 | 98,55% | 117 767 250 000 | 1 732 750 000 | 32 437 233 000 | 1 500 000 000 | 153 437 233 000 |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
