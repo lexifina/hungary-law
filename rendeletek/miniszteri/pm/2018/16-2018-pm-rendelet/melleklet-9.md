@@ -66,7 +66,7 @@
 
 | 30. | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-9. melléklet a 16/2018. (XII. 19.) PM rendelethez[^2]
+9. melléklet a 16/2018. (XII. 19.) PM rendelethez[^4]
 
 XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
@@ -202,4 +202,4 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 59. | 374873 | Központi Maradványelszámolási Alap | Kormányzati döntésekből következő, illetve év közben jelentkező finanszírozási problémák kezelése. | Költségvetési szervek, fejezeti kezelésű előirányzatok, központi kezelésű előirányzatok |  |  | Átcsoportosítással a Kormány egyedi határozata alapján. |  |  |  |  |  |
 
-[^2]: A 9. melléklet a 6/2019. (VI. 7.) PM rendelet 2. § (1)–(3) bekezdése, a 12/2019. (IX. 5.) PM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 9. melléklet a 6/2019. (VI. 7.) PM rendelet 2. § (1)–(3) bekezdése, a 12/2019. (IX. 5.) PM rendelet 1. §-a szerint módosított szöveg.

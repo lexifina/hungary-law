@@ -54,4 +54,6 @@
 
 | 24. | 303580 |  | Közszolgálati hozzájárulás | A közszolgálati média működtetése, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvényben (a továbbiakban: Média tv.) rögzített médiapolitikai célok megvalósítása. | Médiaszolgáltatás- támogató és Vagyonkezelő Alap |  |  | A Kincstár által a Média tv. 136. § (4) bekezdése szerint. |  |  | Kincstár |  |  |
 
+| 25. | 379306 |  | Televíziós Film Mecenatúra támogatása | A médiaszolgáltatásban bemutatásra szánt filmalkotások és filmsorozatok pályázati úton történő támogatása a Média tv. 137/F. § (1) bekezdése és 137/G. §-a alapján. | Televíziós Film Mecenatúra |  |  | A Kincstár általi utalás a Televíziós Filmkollégium – a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa jóváhagyását bíró – rendelkezéséhez igazodóan. |  |  | Kincstár |  |  |
+
 2. melléklet a 16/2018. (XII. 19.) PM rendelethez
