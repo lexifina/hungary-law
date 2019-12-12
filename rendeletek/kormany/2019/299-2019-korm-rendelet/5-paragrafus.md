@@ -1,1 +1,3 @@
-## 4. § Az R. 3. § (3) bekezdésében a „11. sora szerinti beruházás” szövegrész helyébe a „11. és 30. sora szerinti beruházás” szöveg lép.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
