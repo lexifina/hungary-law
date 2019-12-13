@@ -44,6 +44,8 @@ b) az a családtag, aki az a) pontban megjelölt személlyel igazoltan közös h
 
 17. e-TKO: az uniós számítógépes rendszerben a jövedéki termék feladója által kiállított, AHK-számmal ellátott elektronikus okmány;
 
+17a. étrend-kiegészítő: az egészségügyért felelős miniszter rendeletében ekként meghatározott és forgalomba hozatalra bejelentett (beleértve az Európai Gazdasági Térség más tagállamában fogalomban lévő termék első bejelentésének a rendelet szerinti belföldi benyújtását is) termék;
+
 18. Európai Unió: az Európai Unióról szóló szerződésben meghatározott tagállamok területe azzal az eltéréssel, hogy
 
 a) nem tekintendők a tagállamhoz tartozónak

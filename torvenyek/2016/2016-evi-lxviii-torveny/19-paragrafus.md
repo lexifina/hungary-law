@@ -20,6 +20,8 @@ h) a biológiai ecet előállítása során – a 48. § (3) bekezdése szerinti
 
 i) az energiatermékek közé tartozó adózott adalék legfeljebb 0,2 térfogatszázalék arányban adózott üzemanyagba történő bekeverése során keletkezett energiaterméket,
 
-j) a lé nélküli alkoholos gyümölcs 133. § (1) bekezdés h) pontja szerinti csokoládé előállításához történő felhasználását.
+j) a lé nélküli alkoholos gyümölcs 133. § (1) bekezdés h) pontja szerinti csokoládé előállításához történő felhasználását,
+
+k) az adózott jövedéki termék felhasználásával előállított étrend-kiegészítőt.
 
 (2) Adózatlan jövedéki termékből az adófizetési kötelezettség alól mentesült jövedéki termék vagy egyéb termék adóraktárban állítható elő.

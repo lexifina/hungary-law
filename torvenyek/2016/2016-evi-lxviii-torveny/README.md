@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2019-02-01 | 2018. évi LXXXII. törvény | 2016-68-00-00.17 |
 | 2019-07-24 | 2019. évi LXXII. törvény | 2016-68-00-00.18 |
 | 2019-08-23 | 2019. évi LXXII. törvény | 2016-68-00-00.19 |
+| 2019-12-13 | 2019. évi C. törvény | 2016-68-00-00.20 |

@@ -38,7 +38,9 @@ h) a 2208 20 12-2208 90 99 KN-kód szerinti, 1,2 térfogatszázaléknál nagyobb
 
 i) a 9. § (1) bekezdés a) és b) pontja szerint értékesített jövedéki terméket, akkor is, ha az utas vagy a repülőgép úti célja tagállam, és
 
-j) az új dohánytermék-kategóriákat.
+j) az új dohánytermék-kategóriákat,
+
+k) az étrend-kiegészítőt.
 
 (2) A zárjegyet a Magyar Állam állíttatja elő és az állami adó- és vámhatóság bocsátja megrendelés alapján és
 
