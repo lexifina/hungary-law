@@ -22,4 +22,6 @@ az Alaptörvény 47. cikk (2) bekezdésében foglalt jogkörében eljárva az al
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti a Magyar Honvédségnek az Iszlám Állam elnevezésű terrorszervezet elleni nemzetközi fellépésben való további részvételéről szóló 12/2017. (VI. 14.) OGY határozat.
+6.[^2]
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
