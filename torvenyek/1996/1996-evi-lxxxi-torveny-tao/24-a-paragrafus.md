@@ -58,7 +58,7 @@ c) az adózó a vonatkozó társasági adóbevallását határidőben benyújtot
 
 d) a társasági adóbevallásában fizetendő adóelőlegként, adóként megjelölt összeget esedékességig megfizette, továbbá a (2) bekezdés szerinti esetben az adóbevallásban bevallott, fizetendő adó 80 százaléka a (2) bekezdés szerinti rendelkező nyilatkozatban szereplő összeget eléri vagy meghaladja.
 
-(13a) Ha az állami adó- és vámhatóság az átutalást kizárólag azért tagadta meg, mert az adózó a társasági adóbevallásában fizetendő adóként megjelölt összeget nem fizette meg határidőben, az adózónak az átutalás megtagadásáról szóló határozat átvételét követő 15 napon belül előterjesztett külön kérelmére az állami adó- és vámhatóság az átutalást akkor is teljesíti, ha
+(13a) Ha az állami adó- és vámhatóság az átutalást kizárólag azért tagadta meg, mert az adózó a társasági adóbevallásában fizetendő adóelőlegként, adóként megjelölt összeget nem fizette meg határidőben, az adózónak az átutalás megtagadásáról szóló határozat átvételét követő 15 napon belül előterjesztett külön kérelmére az állami adó- és vámhatóság az átutalást akkor is teljesíti, ha
 
 a) a késedelem nem haladja meg az esedékességtől számított 15 naptári napot, és
 
