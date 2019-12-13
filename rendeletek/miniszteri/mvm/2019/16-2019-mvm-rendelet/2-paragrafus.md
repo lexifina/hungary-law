@@ -1,0 +1,3 @@
+## 1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 42. §-a a következő (14) bekezdéssel egészül ki:
+
+## „(14) E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a Hungary Helps programmal kapcsolatos módosításáról szóló 16/2019. (XII. 10.) MvM rendelettel (a továbbiakban: Módr12.) megállapított rendelkezéseit a Módr12. hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.”
