@@ -1,11 +1,1 @@
-56. § A NAV tv. 16/G. §-a a következő (8)–(12) bekezdéssel egészül ki:
-
-„(8) Az írásbeli jognyilatkozatokat a kormánytisztviselők, ügykezelők és pénzügyőrök esetében a 16/F. § (6) és (8) bekezdése szerint kell kiadmányozni. Az írásbeli jognyilatkozatokat az (1) bekezdés, valamint a (9)–(12) bekezdés szerint kell kézbesíteni.
-
-(9) Az elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. §-ában, valamint 15. § (2) és (3) bekezdésében foglalt rendelkezéseket a (11) bekezdésben meghatározott eltérésekkel kell alkalmazni, azzal, hogy ügyfél alatt a kormánytisztviselőt, ügykezelőt és pénzügyőrt, elektronikus ügyintézést biztosító szerv alatt pedig a NAV szervet kell érteni.
-
-(10) A kormánytisztviselő, ügykezelő és a pénzügyőr köteles az írásbeli jognyilatkozatok elektronikus aláírása és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében az E-ügyintézési tv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és a biztonságos kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A kormánytisztviselő, ügykezelő és a pénzügyőr e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését, illetve a hivatásos állományba való felvételt követő 15 napon belül köteles teljesíteni.
-
-(11) Az E-ügyintézési tv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítésről szóló igazolásban feltüntetett időpontot követő ötödik munkanapon.
-
-(12) Ha az elektronikus dokumentum elektronikus kézbesítése (vagy a kézbesítési vélelem szabályainak alkalmazása) bármely okból nem lehetséges, vagy az a jogviszony létesítéséről rendelkezik, az elektronikusan kiadmányozott jognyilatkozatról a munkáltatói jogkör gyakorlója által írásban kijelölt vagy a szervezeti és működési szabályzatban erre feljogosított személy öt napon belül záradékolással hiteles papíralapú kiadmányt készít. A záradéknak tartalmaznia kell a záradékolásra jogosult személy aláírását, a záradékolás keltét és szöveges utalást arra, hogy a papíralapú kiadmány az alapul szolgáló elektronikusan hitelesített irattal megegyezik. A címzettel a papíralapú kiadmányt kell közölni.”
+### 56. §
