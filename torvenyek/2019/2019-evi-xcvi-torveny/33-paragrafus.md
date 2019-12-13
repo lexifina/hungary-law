@@ -9,11 +9,3 @@ c) az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehoz�
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) A 29. § a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
