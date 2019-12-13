@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Bolgár Köztársaság Kormánya között a Bolgár Köztársaság budapesti diplomáciai képviseletének ingatlanszükségleteit illető kérdések rendezéséről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
