@@ -2,6 +2,7 @@
 
 7. § (1)[^12] Integritás tanácsadói feladatok ellátására felsőfokú végzettségű, legalább hároméves közigazgatási szakmai gyakorlattal rendelkező, a feladatra személyisége és képességei alapján alkalmas és erkölcsileg méltó kormánytisztviselő, állami tisztviselő, vagy az államigazgatási szervnél foglalkoztatott hivatásos szolgálati jogviszonyban álló személy jelölhető ki.
 
-(2) Az (1) bekezdésben foglalton túlmenően az integritás tanácsadói feladatra való kijelölés feltétele az integritás tanácsadó szakképzettség, amely alól a szakképzettség megszerzésére irányuló képzés megkezdése esetén egy évre felmentés adható, mely legfeljebb egy alkalommal, egy évvel meghosszabbítható.
+(2)[^13]
 
 [^12]: A 7. § (1) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
+[^13]: A 7. § (2) bekezdését a 304/2019. (XII. 12.) Korm. rendelet 5. §-a hatályon helyezte.
