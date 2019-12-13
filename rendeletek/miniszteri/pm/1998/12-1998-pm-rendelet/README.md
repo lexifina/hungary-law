@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-12-20-5
 | 2016-12-14 | 1998-12-20-53.21 | 40/2012. (XII. 20.) NGM rendelet |
 | 2017-12-09 | 1998-12-20-53.22 | 40/2012. (XII. 20.) NGM rendelet |
 | 2018-12-13 | 1998-12-20-53.23 | 40/2012. (XII. 20.) NGM rendelet |
+| 2019-12-13 | 1998-12-20-53.24 | 40/2012. (XII. 20.) NGM rendelet |
