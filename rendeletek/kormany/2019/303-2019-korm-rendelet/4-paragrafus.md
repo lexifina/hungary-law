@@ -1,0 +1,3 @@
+4. § (1) A sportakadémia a sportág követelményeinek megfelelő létesítményben (a továbbiakban: sportakadémiai sportlétesítmény) látja el a sportolók sportszakmai képzését, felkészítését.
+
+(2) A sportakadémia biztosítja az általános, sportágtól független és a sportágspecifikus testedzés feltételeit és eszközeit, valamint a sportakadémia 3. § (5) és (6) bekezdése szerinti feladatainak ellátására szolgáló helyiségeket. A sportolók fizikai aktivitásához közvetlenül nem kapcsolódó, oktató-nevelő tevékenységek a sportakadémiai sportlétesítményen kívül is folytathatóak, illetve a sportolók számára a kollégiumi ellátások a sportakadémiai sportlétesítményen kívül is biztosíthatóak.

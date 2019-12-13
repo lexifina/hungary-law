@@ -1,0 +1,1 @@
+## 1. § A sportakadémia működésének célja, hogy keretet biztosítson azon fiatal tehetségeknek, akik vállalják, hogy részt vesznek a minőségi utánpótlás-nevelést biztosító akadémiai képzési rendszerben. A sportakadémia gondoskodik az akadémiai növendékek felkészítéséről, versenyeztetéséről, és segítséget nyújt a tankötelezettség teljesítése és az élsport összehangolásában.
