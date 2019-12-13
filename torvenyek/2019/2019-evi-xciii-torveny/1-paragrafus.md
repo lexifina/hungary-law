@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Türk Nyelvű Államok Együttműködési Tanácsa Titkársága közötti, a Türk Nyelvű Államok Együttműködési Tanácsa magyarországi Képviseleti Irodájáról szóló székhely-megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
