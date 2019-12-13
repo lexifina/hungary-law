@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2019-05-08 | 2016-8-20-6N.19 | 7/2019. (V. 7.) MvM rendelet |
 | 2019-08-08 | 2016-8-20-6N.20 | 11/2019. (VIII. 5.) MvM rendelet |
 | 2019-10-25 | 2016-8-20-6N.21 | 13/2019. (X. 22.) MvM rendelet |
+| 2019-12-13 | 2016-8-20-6N.22 | 16/2019. (XII. 10.) MvM rendelet |

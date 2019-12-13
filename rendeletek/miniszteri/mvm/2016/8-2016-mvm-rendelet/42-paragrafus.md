@@ -28,6 +28,8 @@
 
 (13)[^17] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a kormányzati szerkezetátalakítással kapcsolatos módosításáról szóló 13/2019. (X. 22.) MvM rendelettel (a továbbiakban: Módr11.) megállapított rendelkezéseit a Módr11. hatálybalépése[^18] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(14)[^19] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a Hungary Helps programmal kapcsolatos módosításáról szóló 16/2019. (XII. 10.) MvM rendelettel (a továbbiakban: Módr12.) megállapított rendelkezéseit a Módr12. hatálybalépése[^20] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^2]: A 42. § a 3/2019. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^3]: A hatálybalépés időpontja 2018. február 16.
 [^4]: A hatálybalépés időpontja 2018. március 29.
@@ -45,3 +47,5 @@
 [^16]: A hatálybalépés időpontja 2019. augusztus 8.
 [^17]: A 42. § (13) bekezdését a 13/2019. (X. 22.) MvM rendelet 1. §-a iktatta be.
 [^18]: A hatálybalépés időpontja 2019. október 25.
+[^19]: A 42. § (14) bekezdését a 16/2019. (XII. 10.) MvM rendelet 1. §-a iktatta be.
+[^20]: A hatálybalépés időpontja 2019. december 13.
