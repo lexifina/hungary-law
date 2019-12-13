@@ -8,9 +8,10 @@
 
 2.[^5] Irak által kiállított magán-, szolgálati és diplomata-útlevél „M”, „N” és „S” sorozata
 
-3. Nigéria által kiállított, laminált adatoldalt tartalmazó magánútlevél „A” és „AA” sorozata
+3.[^6] Nigéria által kiállított, biometrikus adatot tartalmazó tároló elem nélküli útlevél
 
 4. Csád által kiállított különleges útlevél
 
 [^4]: Az 1. melléklet a 447/2013. (XI. 28.) Korm. rendelet 6. § (3) bekezdés a) pontjával megállapított szöveg.
 [^5]: Az 1. melléklet 2. pontja a 170/2014. (VII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet 3. pontja a 304/2019. (XII. 12.) Korm. rendelet 4. §-ával megállapított szöveg.
