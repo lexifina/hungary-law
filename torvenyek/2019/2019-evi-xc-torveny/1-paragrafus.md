@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Marokkói Királyság Kormánya között létrejött, az elítélt személyek átszállításáról szóló egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
