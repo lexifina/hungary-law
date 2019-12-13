@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-301-20-
 | 2019-01-01 | 2007-301-20-22.34 | 277/2018. (XII. 21.) Korm. rendelet |
 | 2019-07-01 | 2007-301-20-22.35 | 126/2019. (V. 30.) Korm. rendelet |
 | 2019-11-20 | 2007-301-20-22.36 | 267/2019. (XI. 19.) Korm. rendelet |
+| 2019-12-13 | 2007-301-20-22.37 | 304/2019. (XII. 12.) Korm. rendelet |

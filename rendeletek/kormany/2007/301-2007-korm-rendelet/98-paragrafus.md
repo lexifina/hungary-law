@@ -1,3 +1,3 @@
-## A menekültkénti elismerés felülvizsgálata, a menekültkénti, oltalmazottkénti és befogadottkénti elismerés visszavonása[^214]
+## A menekültkénti elismerés felülvizsgálata, a menekültkénti, oltalmazottkénti és befogadottkénti elismerés visszavonása[^215]
 
-[^214]: A 98. §-t megelőző alcím címe a 113/2016. (V. 30.) Korm. rendelet 74. §-ával megállapított szöveg.
+[^215]: A 98. §-t megelőző alcím címe a 113/2016. (V. 30.) Korm. rendelet 74. §-ával megállapított szöveg.
