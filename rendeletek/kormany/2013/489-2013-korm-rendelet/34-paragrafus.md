@@ -1,3 +1,3 @@
-## 33/A. §[^60] A fenntartó az egyes szociális, gyermekjóléti és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 277/2019. (XI. 21.) Korm. rendelettel megállapított Kjt. vhr. 23. § (1) bekezdése alapján 2019. évre kifizetett szociális összevont pótlék után járó többlettámogatás iránti igényét a 2019. évi működési támogatás elszámolása keretében érvényesítheti. Az igazgatóság a támogatást a 15. § (4) bekezdésében foglaltak szerint folyósítja.
+## 33/A. §[^63] A fenntartó az egyes szociális, gyermekjóléti és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 277/2019. (XI. 21.) Korm. rendelettel megállapított Kjt. vhr. 23. § (1) bekezdése alapján 2019. évre kifizetett szociális összevont pótlék után járó többlettámogatás iránti igényét a 2019. évi működési támogatás elszámolása keretében érvényesítheti. Az igazgatóság a támogatást a 15. § (4) bekezdésében foglaltak szerint folyósítja.
 
-[^60]: A 33/A. §-t a 277/2019. (XI. 21.) Korm. rendelet 5. §-a iktatta be.
+[^63]: A 33/A. §-t a 277/2019. (XI. 21.) Korm. rendelet 5. §-a iktatta be.
