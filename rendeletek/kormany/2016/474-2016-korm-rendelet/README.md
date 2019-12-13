@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-474-20-
 | 2018-12-22 | 2016-474-20-22.6 | 279/2018. (XII. 21.) Korm. rendelet |
 | 2019-01-01 | 2016-474-20-22.7 | 279/2018. (XII. 21.) Korm. rendelet |
 | 2019-08-24 | 2016-474-20-22.8 | 206/2019. (VIII. 23.) Korm. rendelet |
+| 2019-12-13 | 2016-474-20-22.9 | 303/2017. (X. 26.) Korm. rendelet |
