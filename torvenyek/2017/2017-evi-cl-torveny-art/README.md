@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-150-00-00
 | 2019-04-13 | 2019. évi XXVI. törvény | 2017-150-00-00.6 |
 | 2019-07-24 | 2019. évi LXXII. törvény | 2017-150-00-00.7 |
 | 2019-08-23 | 2019. évi LXXII. törvény | 2017-150-00-00.8 |
+| 2019-12-13 | 2019. évi C. törvény | 2017-150-00-00.9 |

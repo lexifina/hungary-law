@@ -321,11 +321,3 @@
 ## 3. Gyakoribb igénybevétel, egyszeri támogatási előleg
 
 ## 3.1 Az adóhatóság az adózó igénylésére a költségvetési támogatásokat kiutalja, kérelemre azt indokolt esetben gyakrabban folyósítja, illetve a költségvetési támogatásra egyszeri támogatási előleg kiutalását engedélyezi.
-
-## 3.2. Ha az adóhatóság az adózó kérelmére gyakoribb (öt-tíz-tizenöt naponkénti) igénybevételt engedélyez, a hó közben igénybe vett előleg és a tárgyhónapra igényelhető tényleges támogatás különbözetét a tárgyhót követő hó huszadik napjától lehet igényelni, vagy eddig kell megfizetni. Az adóhatóság a gyakoribb igénybevételt engedélyező határozatát visszavonja, ha a határozat alapján igényelt előleg összege rendszeresen – egymást követő hat hónapon belül legalább három hónapban – legalább tíz százalékkal meghaladja a ténylegesen járó támogatás összegét.
-
-## 3.3. Egyszeri előleg igénybevételének engedélyezése esetén az igénybevétel lehetősége a tárgynegyedév első hónapjának huszadik napjától nyílik meg, és azt a tárgynegyedévet követő hónap huszadik napjáig kell visszafizetni.
-
-## 4. Adó-visszaigénylés, adó-visszatérítés
-
-## A visszaigényelt általános forgalmi adó kiutalása az igény benyújtását követő hó utolsó napján esedékes, ha az adózó az általános forgalmi adónak nem alanya, de a beszerzéseit terhelő általános forgalmi adót visszaigényelheti, és nem kérte az Áfa tv. szerinti visszaigénylést. Egyebekben az adó visszaigénylésének, illetve visszatérítésének határidejére a 64. § (1)–(2) bekezdését kell alkalmazni.
