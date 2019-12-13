@@ -24,7 +24,9 @@ e) pénzbírság kiszabása,
 
 f) a 49. § szerinti minősítés megvonása,
 
-g) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás.
+g) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás,
+
+h) a felelős személynek és a jogsértés tényének (tartalmának, súlyosságának és időtartamának) a közzététele a közfelügyeleti hatóság által az Egységes Kormányzati Portálon.
 
 (7a) A (7) bekezdés e) pontja szerinti pénzbírság összege kamarai tag könyvvizsgáló esetén 100 ezer forinttól 100 millió forintig, könyvvizsgáló cég esetén 100 ezer forinttól 500 millió forintig terjedhet. A pénzbírságból befolyó bevételek a közfelügyeleti hatóság bevételeit képezik azzal, hogy azt a könyvvizsgálói közfelügyelet működésére kell felhasználni.
 
@@ -36,7 +38,7 @@ a) a jogsértés súlyosságát és időtartamát;
 
 b) a felelősség mértékét;
 
-c) a pénzügyi lehetőségek mértékét (különösen a könyvvizsgáló cég teljes árbevételében vagy a kamarai tag könyvvizsgáló éves jövedelmében kifejezve);
+c) a pénzügyi lehetőségek mértékét;
 
 d) az elért nyereség vagy elkerült veszteség összegét;
 
@@ -44,7 +46,7 @@ e) az eljárásban való együttműködés mértékét;
 
 f) a könyvvizsgáló cég vagy kamarai tag könyvvizsgáló által elkövetett korábbi jogsértéseket.
 
-(8)
+(8) A (7) bekezdés h) pontja szerinti közzététel időtartama a közzététel napjától számított 5 év.
 
 (9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén annak tényéről és az alkalmazott intézkedésekről értesíti a kamarát, a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
 
@@ -57,3 +59,11 @@ f) a könyvvizsgáló cég vagy kamarai tag könyvvizsgáló által elkövetett 
 (13) A kamarai tag könyvvizsgáló, könyvvizsgáló cég belső minőségbiztosítási rendszerének minőségellenőrzése során a közfelügyeleti hatóság által hozott végleges határozatban foglaltakat a határozat közlésétől számított 12 hónapon belül végrehajtja. A végrehajtást a közfelügyeleti hatóság ellenőrizheti.
 
 (14) Ha a közfelügyeleti hatóság megállapítja, hogy az ellenőrzött kamarai tag könyvvizsgáló, könyvvizsgáló cég a könyvvizsgálói tevékenységét a (13) bekezdésben foglalt kötelezettségek teljesítése nélkül végezte, a (7) bekezdés szerinti intézkedések alkalmazhatók.
+
+(15) A (7) bekezdés e) pontja szerinti pénzbírság mértékének megállapításakor figyelembe kell venni:
+
+a) a könyvvizsgáló cég esetén, annak éves árbevételét,
+
+b) a kamarai tag könyvvizsgáló esetén, annak jövedelmi viszonyait (éves jövedelmét).
+
+(16) A közfelügyeleti hatóság a kamarai tag könyvvizsgálót a (15) bekezdés b) pontja szerinti jövedelmi viszonyai (éves jövedelme) igazolására szólíthatja fel. Amennyiben a kamarai tag könyvvizsgáló ennek nem tesz eleget, úgy a közfelügyeleti hatóság a Központi Statisztikai Hivatal által közzétett jövedelmi adatokra alapozva állapítja meg a pénzbírság mértékének megállapításakor figyelembe vett (becsült) éves jövedelmet.

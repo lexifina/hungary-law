@@ -8,7 +8,7 @@
 
 (4) Ha a könyvvizsgáló jelölt a (2) bekezdés szerinti gyakorlati időt megszakítja, az a könyvvizsgáló jelölt kérelmére és a kamara, vagy a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló, könyvvizsgáló cég hozzájárulásával meghosszabbítható, de nem lehet hosszabb hat évnél.
 
-(4a) A gyakorlati időbe kérelemre beszámítható a könyvvizsgáló jelölt által az okleveles könyvvizsgálói képzés számvitel és elemzés moduljának teljesítése és a könyvvizsgáló jelölti névjegyzékbe vétele közötti időben a (3) bekezdés szerinti, a kamara alapszabályában és mentori szabályzatában meghatározott módon szerzett, legalább 1 éves gyakorlat.
+(4a) A gyakorlati időbe kérelemre beszámítható a könyvvizsgáló jelölt által az okleveles könyvvizsgálói képzés számvitel és elemzés moduljának teljesítése és a könyvvizsgáló jelölti névjegyzékbe vétele közötti időben a (3) bekezdés szerinti, a kamara alapszabályában és mentori szabályzatában meghatározott módon szerzett, legfeljebb 1 éves gyakorlat.
 
 (5) Könyvvizsgáló jelöltként tevékenységet az folytathat, akit a kamara a könyvvizsgáló jelöltek névjegyzékébe felvett.
 

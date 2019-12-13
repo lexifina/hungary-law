@@ -16,9 +16,13 @@ g) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyako
 
 h) javaslat előkészítése a kamara, illetve a miniszter részére a könyvvizsgálói szolgáltatást igénybe vevők érdekét veszélyeztető helyzet megszüntetésének módjára,
 
-i) miniszteri, illetve közfelügyeleti törvényességi felügyeleti eljárás kezdeményezése.
+i) miniszteri, illetve közfelügyeleti törvényességi felügyeleti eljárás kezdeményezése,
+
+j) a felelős személynek és a jogsértés tényének (tartalmának, súlyosságának és időtartamának) a közzététele a közfelügyeleti hatóság által az Egységes Kormányzati Portálon.
 
 (1a) Az intézkedések típusának és szintjének meghatározásakor a 173/C. § (7c) pontjában foglalt körülményeket kell figyelembe venni.
+
+(1b) Az (1) bekezdés j) pontja szerinti közzététel időtartama a közzététel napjától számított 5 év.
 
 (2) Az (1) bekezdés e) pontja szerinti pénzbírság összege kamarai tag könyvvizsgáló esetén 100 ezer forinttól 100 millió forintig, könyvvizsgáló cég esetén 100 ezer forinttól 500 millió forintig terjedhet. A pénzbírságból befolyó bevételek a közfelügyeleti hatóság bevételeit képezik azzal, hogy azt a könyvvizsgálói közfelügyelet működésére kell felhasználni.
 

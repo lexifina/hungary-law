@@ -32,7 +32,11 @@ o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilv
 
 p) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, illetve érvényességének időtartama,
 
-q) az IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás, valamint a számvitelről szóló 2000. évi C. törvény 10. § (6) bekezdés b) pontja szerinti IFRS mérlegképes könyvelői szakképesítés-ráépülést igazoló bizonyítvány száma, kelte és a kiállító intézmény neve.
+q) az IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás, valamint a számvitelről szóló 2000. évi C. törvény 10. § (6) bekezdés b) pontja szerinti IFRS mérlegképes könyvelői szakképesítés-ráépülést igazoló bizonyítvány száma, kelte és a kiállító intézmény neve,
+
+r) a 11. § (1a) bekezdés szerinti egyéni vállalkozói jogviszony fennállása,
+
+s) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez szükséges igazolás megadásáról, valamint visszavonásáról szóló hatósági döntések.
 
 (2) A kamarai tag könyvvizsgálók nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
@@ -40,4 +44,4 @@ q) az IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelmény
 
 (4) Az (1) bekezdés a), b), c), f), h), i), j), n), o), p) és q) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
 
-(5) A kamara a tárgyévben nyilvántartásba vettek nyilvántartási számát, nevét, címét, valamint a korábban nyilvántartásba vettek ezen adataiban bekövetkezett változásokat a kamara lapjában évente közzéteszi, továbbá biztosítja, hogy a nyilvános adatok a kamara honlapján folyamatosan és bárki számára szabadon megtekinthetők legyenek.
+(5) A kamara az újonnan nyilvántartásba vettek nyilvántartási számát, nevét, címét a kamara lapjában közzéteszi, továbbá biztosítja, hogy a nyilvános adatok a kamara honlapján folyamatosan és bárki számára szabadon megtekinthetők legyenek. A kamara a nyilvántartásból töröltek nyilvántartási számát, nevét és a kamarai tagság megszűnésének időpontját a kamara lapjában és a kamara holnapján közzéteszi.

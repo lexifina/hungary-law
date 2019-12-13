@@ -13,3 +13,5 @@ b) a kérelem benyújtását megelőző egy éven belül sikeresen teljesítette
 c) nem áll fenn vele szemben a 9/H. §-ban meghatározott kizáró ok.
 
 (2) Kérelmére az (1) bekezdés szerinti igazolást kell kiállítani annak a természetes személynek, aki igazolja, hogy az Európai Gazdasági Térség valamely államának arra illetékes hatósága által kiállított, jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosító engedéllyel rendelkezik, valamint az e törvényben meghatározott különbözeti vizsgát sikeresen teljesítette, és nem áll fenn vele szemben a 9/H. §-ban meghatározott kizáró ok.
+
+(3) A közfelügyeleti hatóság az (1) és (2) bekezdés szerinti igazolás megadásáról szóló döntésről, – a döntés véglegessé válásával egyidejűleg – annak nyilvántartásba vétele céljából tájékoztatja a kamarát.
