@@ -178,4 +178,4 @@ V. A jövedelem megállapításakor költségként figyelembe nem vehető kiadá
 
 12. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a magánszemély által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
 
-13. a jövedelem után a magánszemély által fizetendő szociális hozzájárulási adó.
+13. a nemleges nyilatkozatot benyújtó mezőgazdasági kistermelő által saját maga után fizetendő szociális hozzájárulási adó, kivéve ha a kistermelő a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt magasabb összeg után fizeti meg a szociális hozzájárulási adót.

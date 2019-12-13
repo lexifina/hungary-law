@@ -290,7 +290,7 @@ e) mint sértett, jóvátételként közvetítői eljárás keretében a bűncse
 
 6.2. az 1988. január 1. napját megelőzően megállapított baleseti és kártérítési járadék (ideértve annak egyösszegű megváltását is), kivéve, ha annak összegét utóbb a bruttósított átlagkereset alapulvételével megemelték;
 
-6.3.
+6.3. a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben előírt, a kár megelőzését szolgáló vadászaton (ideértve különösen a vadászati hatóság által jóváhagyott vadgazdálkodási tervnek a törvényben meghatározott vadakra vonatkozó részének teljesítését szolgáló vadászatot és az idényen kívüli állományszabályozó vadászatot) a vadászatra jogosult által vadászati joga gyakorlása keretében a vadászaton résztvevő vadásznak ingyenesen vagy kedvezményesen nyújtott szolgáltatás, átadott termék;
 
 6.4. az az összeg, amelyet
 

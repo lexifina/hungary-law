@@ -24,11 +24,11 @@ b) természetes vagy tenyésztett gyöngy, drágakő, féldrágakő, nemesfém, 
 
 a) a juttatás hónapja kötelezettségeként;
 
-b) a 70. § (2a) bekezdése szerint adókötelezettség alá eső érték után az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként;
+b) a 70. § (5) bekezdése szerint adókötelezettség alá eső érték után az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként;
 
-c) a 70. § (4) bekezdés a)–b) pontja szerinti esetben az ott említett meghaladó rész után a juttatás hónapja kötelezettségeként;
+c) a 70. § (7) bekezdés a)–b) pontja szerinti esetben az ott említett meghaladó rész után a juttatás hónapja kötelezettségeként;
 
-d) a 70. § (4) bekezdés b) pontja szerinti esetben – a c) ponttól eltérően – ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben – az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan – szerzett béren kívüli juttatások együttes értéke a 70. § (4) bekezdés b) pontja esetében az éves rekreációs keretösszeget meghaladja, a meghaladó rész után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként, a meghaladó rész után a (2) bekezdés szerinti közteheralap szerint már teljesített közteher beszámításával
+d) a 70. § (7) bekezdés b) pontja szerinti esetben – a c) ponttól eltérően – ha a magánszemély béren kívüli juttatásra jogosító jogviszonya úgy szűnik meg, hogy a megszűnéskor a munkáltatótól az adóévben – az adott juttatásokra vonatkozóan meghatározott értékhatárokat meg nem haladóan – szerzett béren kívüli juttatások együttes értéke a 70. § (4) bekezdés b) pontja esetében az éves rekreációs keretösszeget meghaladja, a meghaladó rész után a jogviszony megszűnésekor, a megszűnés hónapja kötelezettségeként, a meghaladó rész után a (2) bekezdés szerinti közteheralap szerint már teljesített közteher beszámításával
 
 kell megállapítania és a kifizetésekkel, juttatásokkal összefüggő adó és járulékok bevallására, megfizetésére az adózás rendjéről szóló törvényben előírt módon és határidőre kell bevallania és megfizetnie.
 
