@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-80-00-00
 | 2018-07-01 | 2018. évi VI. törvény | 2007-80-00-00.29 |
 | 2019-01-01 | 2018. évi CXXXIII. törvény | 2007-80-00-00.30 |
 | 2019-07-27 | 2019. évi LV. törvény | 2007-80-00-00.31 |
+| 2019-12-13 | 2019. évi XCVI. törvény | 2007-80-00-00.32 |
