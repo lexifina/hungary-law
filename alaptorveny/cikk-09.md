@@ -26,7 +26,7 @@ h) feloszlathatja az Országgyűlést;
 
 i) az elfogadott Alaptörvényt és az Alaptörvény módosítását a megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelményekkel való összhangjának vizsgálatára megküldheti az Alkotmánybíróságnak, az elfogadott törvényt az Alaptörvénnyel való összhangjának vizsgálatára megküldheti az Alkotmánybíróságnak, vagy megfontolásra visszaküldheti az Országgyűlésnek;
 
-j) javaslatot tesz a miniszterelnök, a Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, az Országos Bírósági Hivatal elnöke, a legfőbb ügyész és az alapvető jogok biztosa személyére;
+j) javaslatot tesz a miniszterelnök, a Kúria elnöke, az Országos Bírósági Hivatal elnöke, a legfőbb ügyész és az alapvető jogok biztosa személyére;
 
 k) kinevezi a hivatásos bírákat és a Költségvetési Tanács elnökét;
 

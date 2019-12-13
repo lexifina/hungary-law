@@ -14,7 +14,7 @@ c) alkotmányjogi panasz alapján felülvizsgálja az egyedi ügyben alkalmazott
 
 d) alkotmányjogi panasz alapján felülvizsgálja a bírói döntésnek az Alaptörvénnyel való összhangját;
 
-e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;
+e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;
 
 f) vizsgálja a jogszabályok nemzetközi szerződésbe ütközését;
 
@@ -36,7 +36,7 @@ illetve sarkalatos törvényben meghatározott jogkövetkezményt állapít meg.
 
 a) az elfogadott, de még ki nem hirdetett Alaptörvény és Alaptörvény-módosítás tekintetében a köztársasági elnök,
 
-b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa
+b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa
 
 kezdeményezheti.
 

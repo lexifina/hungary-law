@@ -186,18 +186,8 @@ p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény mó
 
 27.
 
-A közigazgatási bírósági szervezet felállításáról szóló sarkalatos törvény hatálybalépéséig a bíróság dönt
-
-a) büntetőügyben, magánjogi jogvitában, törvényben meghatározott egyéb ügyben;
-
-b) a közigazgatási határozatok törvényességéről;
-
-c) az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről;
-
-d) a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról.
-
 28.
 
-A közigazgatási bírósági szervezet felállításáról szóló sarkalatos törvény hatálybalépéséig a bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
+*
 
-## * Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
+Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
