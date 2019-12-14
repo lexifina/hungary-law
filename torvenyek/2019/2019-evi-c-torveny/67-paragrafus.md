@@ -8,4 +8,4 @@
 
 4.
 
-5. 141. § (2) bekezdésében az „és 142–143.” szövegrész.
+5.

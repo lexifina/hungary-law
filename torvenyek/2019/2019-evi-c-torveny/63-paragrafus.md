@@ -1,3 +1,1 @@
-63. § Az Szt. 136. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Ha a vagyonmérleget (a vagyonmérleg-tervezetet, a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (a vagyonleltár-tervezetet, a végleges vagyonleltárt) könyvvizsgálóval kell ellenőriztetni az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvény előírásai alapján, a könyvvizsgálat célja annak megállapítása, hogy a vagyonmérleget, valamint az azt alátámasztó vagyonleltárt a 136–141. § szerint állították-e össze. Az átalakulás számviteli bizonylata a vagyonmérleg és az azt alátámasztó vagyonleltár.”
+### 63. §
