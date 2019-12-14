@@ -1,11 +1,6 @@
-## 18. § Az állami sportcélú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet (a továbbiakban: R.) 4. melléklete az 1. melléklet szerint módosul.
+## 18. §[^1]
 
-1. melléklet a 303/2019. (XII. 12.) Korm. rendelethez
+1. melléklet a 303/2019. (XII. 12.) Korm. rendelethez[^2]
 
-Az R. 4. mellékletében foglalt táblázat F:10 és G:10 mezője helyébe a következő mezők lépnek:
-
-|  | (F | G |
-
-| 1 | Előirányzat célja | Kifizetésben részesülők köre) |
-
-| (10) | 10.1. Sport XXI. Utánpótlás-nevelési Program 10.2. Héraklész Program 10.3. Az utánpótlás-neveléssel összefüggő felkészüléshez, versenyeztetéshez, versenyrendezéshez, versenyzési feltételek megteremtéséhez, fejlesztési feladatok ellátásához, a Központi Sport és Ifjúsági Sportegyesület szakmai feladatainak ellátásához, és a Duna Kupa versenysorozaton való részvétel, a Duna Kupa versenysorozat magyarországi megrendezése költségeihez, valamint az egyéb utánpótlás-neveléssel összefüggő feladatok ellátásához. 10.4. Az Stv. hatálya alá tartozó olyan köznevelési típusú sportiskolák, amelyek sportegyesülettel és országos sportági szakszövetséggel, országos sportági szövetséggel kötött megállapodás alapján utánpótlás-nevelési feladatokat látnak el, biztosítják a testnevelés tantárgy emelt szintű oktatását, valamint az egyesületi jellegű sportiskolák. 10.5. A versenyzői élsportoló osztályokat működtető köznevelési intézmények, azok adott tanévi működési költségei, a versenyzők kiegészítő oktatása, vizsgára való felkészítése. 10.6. Kiemelt jelentőségű hazai rendezésű utánpótlás-sportesemény rendezése, sportiskolai sportesemények, sportrendezvények támogatása, az utánpótlás-nevelés színvonalának fejlesztésére irányuló szakmai programok megvalósítása, tárgyi eszközök beszerzése, egyéb utánpótlás-nevelési feladatok ellátása. 10.7. Sportakadémiai feladatok ellátása. 10.8. A fejezeti kezelésű előirányzatok kezelésével összefüggően felmerülő kincstári díjak és pénzügyi tranzakciós illeték biztosítása. | 10.1–10.2. sportköztestület, sportszövetség, sportszervezet 10.3. sportköztestület, sportszövetség, sportszervezet, köznevelési intézmény, felsőoktatási intézmény, helyi önkormányzat, gazdasági társaság, költségvetési szerv, civil szervezet, határon túli jogi személy, határon túli szervezet, külföldi jogi személy, külföldi szervezet 10.4. köznevelési típusú sportiskolák 10.5. versenyzői élsportoló osztályokat működtető köznevelési intézmények 10.6. sportköztestület, sportszövetség, sportszervezet, gazdasági társaság, köznevelési intézmény, felsőoktatási intézmény, költségvetési szerv, Sportiskolák Országos Szövetsége, határon túli jogi személy, határon túli szervezet, külföldi jogi személy, külföldi szervezet 10.7. sportakadémia, határon túli jogi személy, határon túli szervezet, külföldi jogi személy, külföldi szervezet 10.8. Magyar Államkincstár (a továbbiakban: MÁK) |
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
