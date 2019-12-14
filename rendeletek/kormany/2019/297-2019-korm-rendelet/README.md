@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-297-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-12-13 | 2019-297-20-22.1 | 297/2019. (XII. 10.) Korm. rendelet |
+| 2019-12-14 | 2019-297-20-22.2 | 2010: CXXX. törvény |
