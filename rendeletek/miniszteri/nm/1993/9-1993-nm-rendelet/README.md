@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2019-01-01 | 1993-9-20-3D.115 | 3/2004. (I. 15.) ESZCSM rendelet |
 | 2019-07-04 | 1993-9-20-3D.116 | 29/2009. (VIII. 14.) EüM rendelet |
 | 2019-08-01 | 1993-9-20-3D.117 | 32/2016. (X. 27.) EMMI rendelet |
+| 2019-12-15 | 1993-9-20-3D.118 | 30/2019. (XII. 14.) EMMI rendelet |
