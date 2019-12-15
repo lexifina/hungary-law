@@ -1,4 +1,4 @@
-7. § (1) A dohánytermék-kiskereskedelmi koncesszió nyilvános pályázatára a Ktv.-ben előírt szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
+7. § (1) A dohánytermék-kiskereskedelmi jogosultság átengedésére vonatkozó nyilvános pályázatra a Ktv.-ben előírt szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
 
 (2) A nyilvános pályázati felhívást vagy legalább két országos napilapban, vagy a pályázat szerinti településen illetékes megyei (fővárosi) kormányhivatal honlapján, vagy a részvénytársaság honlapján meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább tizenöt nappal megelőzően.
 
@@ -10,7 +10,7 @@ b) a pályázat benyújtásának napján, e napot megelőzően legalább 3 hóna
 
 c) az a)–b) pontban írtaknak megfelelő személyt foglalkoztat, vagy – feltéve, hogy a pályázati kiírás ezt lehetővé teszi – olyan gazdasági társaság, amelyben az a)–b) pont szerinti személy tagsági jogviszonnyal rendelkezik.
 
-(4) A pályázatot úgy kell kiírni, hogy a koncesszió átengedésének időtartama húsz év legyen.
+(4) A pályázatot úgy kell kiírni, hogy a dohánytermék-kiskereskedelmi jogosultság átengedésének időtartama húsz év legyen.
 
 (5) A dohánytermék-kiskereskedelmi jogosultság a 6. § (2) és (3) bekezdésében meghatározott településen belül – e törvény és az egyéb jogszabályok által lehetővé tett módon – bárhol gyakorolható.
 

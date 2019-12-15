@@ -4,8 +4,10 @@ a) az e törvényben nem szabályozott, a dohánytermék-kiskereskedelmi tevéke
 
 b) a dohánytermék-kiskereskedők által a nyilvántartások vezetésére és a dohányboltban forgalmazott egyes jövedéki termékekre vonatkozó adatszolgáltatási kötelezettség teljesítésére irányadó részletes szabályokat,
 
-c) a módosított hatású termékek forgalmazására, illetve e termékek ismertetésére vonatkozó különös szabályokat,
+c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–f) és h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
 
-d) a dohánygyártmányok árának bejelentésére és az állami adó- és vámhatóság honlapján történő közzétételére, valamint az ezekkel összefüggő eljárási szabályokra vonatkozó részletes rendelkezéseket
+d) a dohánygyártmányok árának bejelentésére és az állami adó- és vámhatóság honlapján történő közzétételére, valamint az ezekkel összefüggő eljárási szabályokra vonatkozó részletes rendelkezéseket,
+
+e) a koncessziós szerződés módosítására vonatkozó eljárási szabályokat a dohányboltok nyitvatartási ideje tekintetében
 
 rendeletben állapítsa meg.

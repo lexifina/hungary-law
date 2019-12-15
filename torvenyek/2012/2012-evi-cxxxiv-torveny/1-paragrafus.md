@@ -1,11 +1,31 @@
-1. § (1) Dohánytermékek, elektronikus cigaretták, dohányzást imitáló elektronikus eszközök, füst nélküli dohánytermékek, valamint az új dohánytermék-kategóriák kiskereskedelme Magyarországon kizárólag e törvény rendelkezéseinek betartásával folytatható.
+1. § (1) Magyarországon kizárólag e törvény betartásával folytatható
 
-(2) A dohánytermék-kiskereskedelem, továbbá az elektronikus cigaretták, a dohányzást imitáló elektronikus eszközök, a füst nélküli dohánytermékek, valamint az új dohánytermék-kategóriák forgalmazása mindenkor kizárólag a fiatalkorúak elől elzárt módon történhet. Az (1) bekezdésben meghatározott termékeket fiatalkorúaknak értékesíteni, vagy más módon hozzáférhetővé tenni tilos.
+a) dohánytermék,
+
+b) cigarettahüvely és cigarettapapír,
+
+c) dohánylevél töltő,
+
+d) elektronikus cigaretta,
+
+e) utántöltő flakon, patron, nikotinmentes utántöltő flakon,
+
+f) dohányzást imitáló elektronikus eszköz,
+
+g) dohányzást helyettesítő nikotintartalmú termék, valamint,
+
+h) az új dohánytermék-kategóriák kiegészítő termékeinek
+
+kiskereskedelme.
+
+(2) Az (1) bekezdésben meghatározott termékek forgalmazása kizárólag a fiatalkorúak elől elzárt módon történhet. E termékeket fiatalkorúaknak értékesíteni vagy számukra más módon hozzáférhetővé tenni tilos.
 
 (3) E törvény hatálya nem terjed ki az (1) bekezdésben meghatározott termékek
 
 a) nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló helyen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzlet és az üzlet áruellátását biztosító raktár együttes területén történő,
 
-b) a büntetés-végrehajtási intézetek területén történő
+b) a büntetés-végrehajtási intézetek területén történő,
+
+c) törvényben kihirdetett nemzetközi szerződésben foglaltaknak megfelelő
 
 kiskereskedelmi értékesítésére.

@@ -1,1 +1,3 @@
-### 24/B. §
+24/B. § (1) A törvény erejénél fogva 2020. december 31. napján megszűnik azon személy jogosultsága dohánytermékek kiskereskedelmi értékesítésére, aki e tevékenységét koncessziós szerződés nélkül – kizárólag a részvénytársaság általi kijelölés alapján – folytatja, feltéve, ha a fordulónapon a működése helye szerinti településen más – koncessziós szerződés alapján tevékenykedő – jogosult dohánytermék-kiskereskedelmi tevékenységet folytat.
+
+(2) A dohánytermék-kiskereskedőkre vonatkozó, a 4. § (2) bekezdésében, a 23. § (3) bekezdésében, valamint a 23/A. §-ban foglalt rendelkezéseket a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a részvénytársaság útján – külön feljogosított személyekre is megfelelően alkalmazni kell.

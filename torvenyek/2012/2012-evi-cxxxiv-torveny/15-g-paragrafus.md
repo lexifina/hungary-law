@@ -1,4 +1,4 @@
-15/G. § A módosított hatású termékek forgalmazására, illetve e termékek ismertetésére jogszabály különös, a 11. § (1) bekezdésében foglaltaktól is eltérő, de az 1. § (2) bekezdése rendelkezéseinek mindenkor megfelelő szabályokat állapíthat meg.
+15/G. § Az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–f) és h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére jogszabály – az 1. § (2) bekezdésére figyelemmel – a 15/C. és 15/D. §-ban foglaltaktól eltérő szabályokat állapíthat meg.
 
 6. CÍM
 

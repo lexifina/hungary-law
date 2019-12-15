@@ -1,4 +1,4 @@
-10/A. § (1) A dohánykiskereskedelem-ellátási feladatok elvégzésére vonatkozó koncesszió nyilvános pályázatára a Ktv.-ben előírt szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
+10/A. § (1) A dohánykiskereskedelem-ellátási jogosultság átengedésére vonatkozó nyilvános pályázatra a Ktv.-ben előírt szabályokat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A nyilvános pályázatot a miniszter írja ki.
 

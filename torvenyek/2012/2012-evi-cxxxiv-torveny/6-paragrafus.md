@@ -1,14 +1,12 @@
 6. § (1) Az állam a dohánytermék-kiskereskedelmi jogosultság átengedésére nyilvános pályázatot ír ki.
 
-(2) A pályázatokat úgy kell kiírni, hogy a dohánytermék-kiskereskedelmi tevékenység minden magyarországi településen folytatható legyen azzal, hogy a dohánytermék-kiskereskedelmi tevékenységet olyan településen, ahol az állandó lakosok száma a
+(2) A pályázatokat úgy kell kiírni, hogy a dohánytermék-kiskereskedelmi tevékenység minden magyarországi településen folytatható legyen. Az átengedhető dohánytermék-kiskereskedelmi jogosultságok számát akként kell meghatározni, hogy ha az adott településen az állandó lakosok száma
 
-a) háromezer főt nem haladja meg, legfeljebb egy,
+a) a négyezer főt nem haladja meg, az átengedhető dohánytermék-kiskereskedelmi jogosultság száma: egy,
 
-b) háromezer főt meghaladja, legalább egy, és minden háromezer fő lakos után további egy
+b) a négyezer főt meghaladja, az állandó lakosok számát el kell osztani négyezerrel; ha az így kapott szám nem természetes szám, azt a következő természetes számra kell felkerekíteni.
 
-jogosult végezhesse.
-
-(3) A fentiektől eltérően, ha egy város – e törvény kihirdetésének napján – kerülettel is rendelkezik, úgy a (2) bekezdés alkalmazásakor településen a város kerületét kell érteni.
+(3) A (2) bekezdésben foglaltaktól eltérően, ha egy város kerületekre tagolódik, úgy e § alkalmazásakor településen a város kerületét kell érteni.
 
 (4) Minden egyes dohánytermék-kiskereskedelmi jogosultság átengedésére külön nyilvános pályázatot kell kiírni.
 

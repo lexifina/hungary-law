@@ -14,8 +14,8 @@ e) a dohányipari ágazati konzultációs fórum létrehozására és folyamatos
 
 f) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozó mediációs tevékenységre,
 
-g) a külön jogszabályban meghatározottak szerint a dohányboltban forgalmazható termékek regisztrációs adatainak fogadására, és ezeknek a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére történő publikálására; készletnyilvántartó minősítési rendszer működtetésére, a dohánytermék-kiskereskedők készlet és forgalmi adatainak kezelésére, feldolgozására, valamint
+g) a külön jogszabályban meghatározottak szerint a dohányboltban forgalmazható termékek regisztrációs adatainak fogadására, és ezeknek a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére történő publikálására; készletnyilvántartó minősítési rendszer működtetésére, a dohánytermék-kiskereskedők készlet és forgalmi adatainak kezelésére, feldolgozására,
 
-h) a jövedéki adóról szóló törvény alapján a dohánytermékek árainak közzététele érdekében a külön jogszabályban meghatározottak szerint a szolgáltatott árbejelentések rendszerezésére, feldolgozására és továbbítására.
+h) a Jöt. alapján a dohánytermékek árainak közzététele érdekében a külön jogszabályban meghatározottak szerint a szolgáltatott árbejelentések rendszerezésére, feldolgozására és továbbítására.
 
 (3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.

@@ -12,7 +12,11 @@
 
 (7) A dohány-kiskereskedelmi ellátó tevékenysége során a dohánytermék-nagykereskedőtől csak azon adatok szolgáltatását kérheti, amelyek a tevékenysége ellátásához elengedhetetlenül szükségesek. A dohánytermék-nagykereskedő olyan időben köteles a kért adatokat rendelkezésére bocsátani, hogy az a dohány-kiskereskedelmi ellátó folyamatos működését ne akadályozza, illetve korlátozza.
 
-(8) A dohánykiskereskedelem-ellátással szervesen összefüggő tevékenységnek a 3. § 8. pont b) és m) alpontja szerinti termékek dohány-kiskereskedelmi ellátó általi forgalmazása minősül.
+(8) A dohánykiskereskedelem-ellátással szervesen összefüggő tevékenységnek minősül
+
+a) a dohánykiskereskedelem-ellátás során a dohány-kiskereskedelmi ellátó által kezelt személyes adatnak nem minősülő adatoknak, valamint a dohány-kiskereskedelmi ellátó által üzemeltetett honlap felületeinek a dohány-kiskereskedelmi ellátó általi hasznosítása, továbbá
+
+b) a dohánytermék-nagykereskedők megbízásából végrehajtott, a dohánytermék-nagykereskedők és a dohánytermék-kiskereskedők között már fennálló jogviszonyok teljesítése érdekében végzett közreműködői tevékenység [így különösen a 15/C. § (2) bekezdés c) pontja szerinti polckép-szerződések végrehajtásának ellenőrzése].
 
 5. CÍM
 
