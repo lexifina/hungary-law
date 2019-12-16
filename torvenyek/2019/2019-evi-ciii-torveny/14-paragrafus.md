@@ -1,3 +1,1 @@
-14. § Az Fdvtv. 15. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az (1) és (3) bekezdésben foglaltaktól eltérően a dohánytermék-kiskereskedelmet folytató évente legfeljebb két alkalommal – június 30-i, illetve december 31-i fordulónappal – jogosult a készletében lévő, számára felesleges dohányterméket más dohánytermék-kiskereskedelmi jogosultsággal rendelkező részére – a vonatkozó jövedéki jogszabályok betartása mellett, a felek által meghatározott vételáron – a fordulónapon értékesíteni, azzal, hogy e szándékát legalább 15 nappal megelőzően köteles a vámhatóságnak bejelenteni, és köteles biztosítani azt is, hogy mind az átadott, mind az átvett készletekre vonatkozó, jogszabály szerinti adatszolgáltatás hiánytalanul megtörténjen.”
+14. §
