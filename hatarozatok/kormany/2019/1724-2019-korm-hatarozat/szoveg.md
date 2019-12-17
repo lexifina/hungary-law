@@ -1,0 +1,5 @@
+A Kormány az ingatlan-nyilvántartás szerint Dunakeszi belterületén elhelyezkedő 3915/2 helyrajzi szám alatt nyilvántartott, a telekalakítási eljárások végleges befejezését követően kialakított ingatlanon a Dunakeszi Járási Hivatal törzshivatala megvalósítását, valamint az ingatlan-nyilvántartás szerint a Dunakeszi belterületén elhelyezkedő 3915/1 helyrajzi szám alatt nyilvántartott, a magyar állam tulajdonában és a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság vagyonkezelésében lévő ingatlan épületében kormányablak megvalósítását célzó beruházással (a továbbiakban: beruházás) összefüggésben
+
+1. egyetért azzal, hogy az egyes járási hivatalok kialakításához szükséges források biztosításáról szóló 1126/2016. (III. 10.) Korm. határozat útján, valamint a Pest Megyei Kormányhivatal költségvetésébe beépítetten biztosított 2 567 900 000 forint kizárólag a beruházásra kerüljön felhasználásra;
+
+2. egyetért azzal, hogy az 1. pont szerinti forrás felhasználási határideje 2021. június 30-a.
