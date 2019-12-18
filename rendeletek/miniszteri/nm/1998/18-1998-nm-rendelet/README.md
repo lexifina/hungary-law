@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-3
 | 2017-10-30 | 1998-18-20-3D.37 | 54/2015. (XI. 24.) EMMI rendelet |
 | 2018-11-01 | 1998-18-20-3D.38 | 38/2018. (X. 31.) EMMI rendelet |
 | 2019-08-02 | 1998-18-20-3D.39 | 12/2019. (VII. 3.) EMMI rendelet |
+| 2019-12-18 | 1998-18-20-3D.40 | 32/2019. (XII. 17.) EMMI rendelet |

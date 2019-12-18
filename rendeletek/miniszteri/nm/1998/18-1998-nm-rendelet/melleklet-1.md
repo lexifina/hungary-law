@@ -1,4 +1,4 @@
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^202]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^204]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -6796,6 +6796,4 @@ Nem szükséges.
 
 3.5. Fertőzőforrás-kutatás:
 
-Kötelező.
-
-[^202]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^204]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
