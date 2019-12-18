@@ -14,7 +14,7 @@ e) amely bányászati tevékenység végzésével jár [a továbbiakban az a)–
 
 a régészeti feladatellátásra – beleértve az előzetes régészeti dokumentáció készítését –, a megelőző feltárásra vonatkozó, valamint a 23/B–23/F. §-ban meghatározott rendelkezéseket ezen alcímben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A kiemelt nagyberuházás esetén a jogszabályban kijelölt örökségvédelmi szerv a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum útján gondoskodik
+(2) A kiemelt nagyberuházás esetén a jogszabályban kijelölt örökségvédelmi szerv gondoskodik
 
 a) a megelőző feltárás, valamint
 
@@ -24,11 +24,13 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 
 (3) A (2) és (4) bekezdésben meghatározott feladatok elvégzésébe jogszabályban meghatározott módon bevonható
 
-a) a gyűjtőterületén érintett területi múzeum, illetve, ha annak kapacitása nem elégséges,
+a) a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
 
-b) feltárásra jogosult intézmény vagy szervezet.
+b) a gyűjtőterületén érintett területi múzeum, vagy
 
-(4) Amennyiben a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a jogszabályban kijelölt örökségvédelmi szerv régészeti feladatellátással kapcsolatos megkeresésére öt napon belül nem válaszol, a jogszabályban kijelölt örökségvédelmi szerv – a gyűjtőterületén érintett megyei hatókörű városi múzeum, illetve Budapesti Történeti Múzeum bevonása nélkül – közvetlenül gondoskodik a régészeti feladatellátásról.
+c) a feltárásra jogosult intézmény vagy szervezet.
+
+(4) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv régészeti feladatellátással kapcsolatos megkeresésére a (3) bekezdésben megjelölt intézmény vagy szervezet öt napon belül nem válaszol, a jogszabályban kijelölt örökségvédelmi szerv közvetlenül gondoskodik a régészeti feladatellátásról.
 
 (5) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv a (4) bekezdés szerinti közvetlen feladatellátást nem tudja biztosítani, úgy a Magyar Nemzeti Múzeum bevonásával gondoskodik a régészeti feladatellátás elvégzéséről.
 
