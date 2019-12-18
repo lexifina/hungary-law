@@ -1,0 +1,1 @@
+## 4. Az Elektronikus Egészségügyi Szolgáltatási Tér működéséhez kapcsolódó miniszteri rendeletek, valamint egyéb, gyógyszerészeti tárgyú miniszteri rendelet módosításáról szóló 29/2017. (X. 31.) EMMI rendelet módosítása
