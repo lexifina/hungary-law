@@ -346,12 +346,16 @@
 
 | 169. | T | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
 
+| 170. | NT | 21 51 15 03 | Szenzorok |
+
+| 171. | T | 21 51 15 06 | Távadók |
+
 |  | NT – egyszer használatos vagy rövid (néhány napos) használatra szánt eszközök |
 
 |  | T – tartós használatra szánt, több hónapos kihordási idejű eszközök |
 
 |  | RT – ruházati jellegű tartós használatra szánt eszközök |
 
-9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^151]
+9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^153]
 
-[^151]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte, újonnan a 7/2016. (III. 30.) EMMI rendelet 15. § (8) bekezdése iktatta be.
+[^153]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte, újonnan a 7/2016. (III. 30.) EMMI rendelet 15. § (8) bekezdése iktatta be.
