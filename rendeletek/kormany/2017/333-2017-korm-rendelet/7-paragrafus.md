@@ -18,8 +18,12 @@ a) a meghallgatáson elért eredménye alapján dönt arról, hogy megfelelt-e a
 
 b) rangsorolási listát állít össze a kiválasztási eljáráson megfelelt pályázókról.
 
-(6) A Bizottság a kiválasztási eljárás eredménye alapján összeállított rangsorolási listát véleményezésre megküldi a fogadó intézmény részére.
+(6)[^13] A Bizottság a kiválasztási eljárás eredménye alapján összeállított rangsorolási listát véleményezésre megküldi a fogadóintézmény részére.
 
-(7) Az ösztöndíjat a fogadó intézmény hozzájárulása alapján a miniszter adományozza azzal a feltétellel, hogy az ösztöndíjasnak a fogadó intézménnyel foglalkoztatásra irányuló jogviszonyt kell létesítenie és az ösztöndíjas jogviszony időtartama alatt azt fenn kell tartania.
+(7)[^14] Az ösztöndíjat a fogadóintézmény hozzájárulása alapján a miniszter adományozza azzal a feltétellel, hogy az ösztöndíjasnak a fogadó intézménnyel foglalkoztatásra irányuló jogviszonyt kell létesítenie és az ösztöndíjas jogviszony időtartama alatt azt fenn kell tartania.
 
-(8) A (7) bekezdésben foglalt kötelezettség alól a miniszter indokolt esetben mentesítést adhat, amennyiben a fogadó intézmény nem biztosítja a foglalkoztatási jogviszony létrehozását. A mentesítés részletes szabályait az ösztöndíjprogram működési szabályzata határozza meg.
+(8)[^15] A (7) bekezdésben foglalt kötelezettség alól a miniszter indokolt esetben mentesítést adhat, amennyiben a fogadóintézmény nem biztosítja a foglalkoztatási jogviszony létrehozását. A mentesítés részletes szabályait az ösztöndíjprogram működési szabályzata határozza meg.
+
+[^13]: A 7. § (6) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^14]: A 7. § (7) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^15]: A 7. § (8) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

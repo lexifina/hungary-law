@@ -1,14 +1,14 @@
 10. § (1) Az ösztöndíjas az ösztöndíjprogram keretében a vendégoktatói ösztöndíjas jogviszony időtartama alatt, az ösztöndíjszerződésben foglaltak szerint ösztöndíjban és költségtérítésben részesül.
 
-(2) Az (1) bekezdésben meghatározott ösztöndíj és költségtérítés mértékének és számítási módjának megállapítása, számfejtése és folyósítása a Külszoltv.-nek és a külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló miniszteri rendeletnek (a továbbiakban: miniszteri rendelet) a devizailletményre és általány-költségtérítésre vonatkozó megfelelő rendelkezései alapulvételével, a (3)–(5) bekezdés figyelembevételével a mindenkori pályázati felhívásban foglaltak szerint kerül meghatározásra.
+(2)[^21] Az (1) bekezdésben meghatározott ösztöndíj és költségtérítés mértékének és számítási módjának megállapítása, számfejtése és folyósítása a Külszoltv.-nek és a külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló miniszteri rendeletnek (a továbbiakban: miniszteri rendelet) a devizailletményre és átalány-költségtérítésre vonatkozó megfelelő rendelkezései alapulvételével, a (3)–(5) bekezdés figyelembevételével a mindenkori pályázati felhívásban foglaltak szerint kerül meghatározásra.
 
 (3) Az (1) bekezdés szerinti ösztöndíjat a Külszoltv.-nek a devizailletményre és a deviza-illetménypótlékra vonatkozó szabályai alapulvételével kell megállapítani, figyelemmel a (4) bekezdésben foglaltakra. Az (1) bekezdés szerinti költségtérítést a Külszoltv. átalány-költségtérítésre vonatkozó szabályai alapulvételével kell megállapítani.
 
-(4) A (3) bekezdés alapján megállapított ösztöndíj – a Külszoltv. vonatkozó rendelkezéseitől eltérően – a miniszteri rendelet szerint a fogadó intézmény székhelye vagy a székhelytől eltérő működési helye esetén a működési helyét képező település szerinti vagy a (7) bekezdésében foglaltak szerint megállapított állomáshelyre irányadó deviza-alapilletmény alapulvételével
+(4)[^22] A (3) bekezdés alapján megállapított ösztöndíj – a Külszoltv. vonatkozó rendelkezéseitől eltérően – a miniszteri rendelet szerint a fogadóintézmény székhelye vagy a székhelytől eltérő működési hely esetén a működési helyét képező település szerinti vagy a (7) bekezdésében foglaltak szerint megállapított állomáshelyre irányadó deviza-alapilletmény alapulvételével
 
 a) 1,0 szorzóval, illetve
 
-b) az ingázó-vendégoktató esetében 0,5 szorzóval
+b)[^23] az ingázó vendégoktató esetében 0,5 szorzóval
 
 ## kerül megállapításra.
 
@@ -16,6 +16,11 @@ b) az ingázó-vendégoktató esetében 0,5 szorzóval
 
 (6) Az (1) bekezdésben meghatározott ösztöndíj és költségtérítés folyósításának feltétele az ösztöndíjszerződésben foglalt kötelezettségek teljesítése és annak az ösztöndíjprogram működési szabályzatában, valamint az ösztöndíjszerződésben foglaltak szerinti igazolása.
 
-(7) Ha azon a településen, ahol a fogadó intézmény székhelye vagy a székhelytől eltérő működési hely esetén a működési helye található, nem működik külképviselet, akkor a (3) bekezdés a) és b) pontja szerinti ösztöndíjrészt a fogadó államban a földrajzi távolság szerinti legközelebbi külképviseletre megállapított deviza-alapilletmény figyelembevételével a (4)–(5) bekezdésben foglaltak alapján kell megállapítani.
+(7)[^24] Ha azon a településen, ahol a fogadóintézmény székhelye vagy a székhelytől eltérő működési hely esetén a működési helye található, nem működik külképviselet, akkor a (3) bekezdés szerinti ösztöndíjrészt a fogadóállam illetékes konzuli kerülete szerinti magyar külképviseletre megállapított deviza-alapilletmény figyelembevételével a (4) és (5) bekezdésben foglaltak alapján kell megállapítani.
 
 (8) Keresőképtelenség esetén az (1) bekezdésben meghatározott ösztöndíj és költségtérítés a Külszoltv. 33. § (2)–(4) bekezdése figyelembevételével kerül megállapításra.
+
+[^21]: A 10. § (2) bekezdése a 307/2019. (XII. 18.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^22]: A 10. § (4) bekezdés nyitó szövegrésze a 307/2019. (XII. 17.) Korm. rendelet 3. § b) és h) pontja szerint módosított szöveg.
+[^23]: A 10. § (4) bekezdés b) pontja a 307/2019. (XII. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^24]: A 10. § (7) bekezdése a 307/2019. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
