@@ -1,7 +1,1 @@
-4. § (1) Az Szjtv. 36/F. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A szerencsejáték-felügyeleti hatóság az elkobzást akkor is elrendelheti, ha a dolog nem a jogsértő tulajdona. Ha az (1) bekezdés szerint elkobzás alá eső dolog tulajdonosa nem ismert, az elkobzást elrendelő döntést – a tulajdonos megjelölése nélkül – a szerencsejáték-felügyeleti hatóság hirdetményi úton közli. A hirdetményt 15 napig kell a szerencsejáték-felügyeleti hatóság honlapján közzétenni. Az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene. Az elkobzott dolog tulajdonjoga az államra száll.”
-
-(2) Az Szjtv. 36/F. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Az állami adóhatóság az elkobzott dolog értékesítését vagy megsemmisítését követően az értékesítés vagy megsemmisítés költségeiről végzést hoz. Az (1) bekezdés szerint elkobzás alá eső dolog tulajdonosa az állam javára elkobozni rendelt dolog értékesítéséért vagy megsemmisítéséért 20 000 forint összegű költségátalány fizetésére köteles. E személyt a költségátalányon túlmenően az állami adóhatóság végzésben kötelezi az értékesítéshez vagy megsemmisítéshez kapcsolódó számszerűsíthető és számlával igazolt költségek megfizetésére. Ha az elkobzás elrendelésére irányuló eljárásban az elkobzás alá eső dolog tulajdonosának személye nem volt megállapítható, az elkobzott dolog elkobzásának foganatosításával kapcsolatban felmerült költségeket az állam viseli.”
+4–5. §
