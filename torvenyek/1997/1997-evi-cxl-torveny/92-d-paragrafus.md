@@ -1,6 +1,6 @@
 92/D. § A kulturális örökség védelméért felelős miniszter által kezdeményezett felülvizsgálati eljárásban az Ákr. rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
-a) az eljárásban szakértőként a Magyar Nemzeti Vagyonkezelő Zrt.-t kell kirendelni,
+a)
 
 b) az ügyintézési határidő 180 nap,
 
