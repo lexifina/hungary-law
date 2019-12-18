@@ -1,5 +1,1 @@
-221. § A Külszoltv. 31. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A kormányzati igazgatásról szóló törvényben foglaltaktól eltérően a kihelyező szerve belső szabályzatában meghatározott tartós légszennyezettségű állomáshelyenként megállapítva az oda kihelyezettek részére a tárgyévben időarányosan megállapított 5 nap rekreációs szabadság jár. A rekreációs szabadság a tárgyév utolsó napjáig adható ki és a kihelyezett eddig az időpontig veheti igénybe.
-
-(3) A felkészülés és a tartós külszolgálat időtartamára járó alap- és pótszabadságot a felkészülési állományban lévőknek és a kihelyezettnek a felkészülése és a tartós külszolgálata időtartama alatt igénybe kell vennie. A szabadság kiadása a kormányzati igazgatásról szóló törvény 129. §-a alapján történik. A kihelyezés évében a kormányzati igazgatásról szóló törvény alapján meghatározott és fel nem használt szabadságnapok a tartós külszolgálatra való kihelyezést követően a kormányzati igazgatásról szóló törvény 129. §-a alapján vehetők igénybe. A kihelyező szerv szakdiplomaták esetében csak a tartós külszolgálat időtartama alatt keletkező, időarányos szabadságot adja ki.”
+221. §

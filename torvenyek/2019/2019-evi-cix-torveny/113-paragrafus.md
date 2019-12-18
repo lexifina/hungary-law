@@ -1,3 +1,1 @@
-113. § Az Ekt. 14/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Aki egészségügyi tevékenységet közszolgálati, kormányzati szolgálati jogviszony keretében eljárva, nem kizárólag egészségügyi képesítéshez kötött munkakörben végez, kérheti kamarai tagsága szüneteltetését, vagy – ha kamarai tagsággal nem rendelkezik – e jogviszonya keretében az egészségügyi tevékenységet kamarai tagság nélkül is végezheti. Ha a közszolgálati, kormányzati szolgálati jogviszonyban álló személy további – nem közszolgálati, kormányzati szolgálati – jogviszonyban is egészségügyi tevékenységet végez vagy kíván végezni, e további jogviszonyában az egészségügyi tevékenység végzésének feltétele a kamarai tagság. Ez utóbbi esetben a közszolgálati, kormányzati szolgálati jogviszony keretében végzett egészségügyi tevékenységgel összefüggésben valamennyi kamarai tagságból eredő jog és kötelezettség szünetel.”
+113. §
