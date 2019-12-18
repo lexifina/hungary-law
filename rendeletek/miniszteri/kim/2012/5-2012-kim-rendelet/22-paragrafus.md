@@ -36,9 +36,12 @@ visszaigazoltan bejelentkezett, megjelent elektort kell érteni.
 
 (11b)[^96] A Tanács tagjai és a kollégiumok tagjai azok a jelöltek lesznek, akik a megválasztandó tagok száma szerint a legtöbb szavazatot kapták. Szavazategyenlőség esetén sorsolással kell megállapítani, hogy az egyenlő számú szavazatot elért jelöltek közül melyik jelölt szerez megbízatást.
 
+(11c)[^97] Ha a jelöltet több testületbe is jelölik és tagnak választják, a jelölt a választást követő 5 napon belül nyilatkozik, hogy melyik testület tagja lesz.
+
 (12) A választás eredményeit a zárt hálózatú számítógépes rendszer összesíti és elkészíti az összesítést tartalmazó jegyzőkönyveket a Tanácsra és a kollégiumokra vonatkozóan, mely tartalmazza a megválasztott tagok és póttagok adatait.
 
 [^93]: A 22. § (1) bekezdése a 35/2016. (XI. 30.) EMMI rendelet 9. §-ával megállapított szöveg.
 [^94]: A 22. § (10) bekezdése a 23/2017. (X. 3.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^95]: A 22. § (11a) bekezdését a 23/2017. (X. 3.) EMMI rendelet 9. § (2) bekezdése iktatta be.
 [^96]: A 22. § (11b) bekezdését a 23/2017. (X. 3.) EMMI rendelet 9. § (2) bekezdése iktatta be.
+[^97]: A 22. § (11c) bekezdését a 18/2019. (XII. 17.) MvM rendelet 1. §-a iktatta be.
