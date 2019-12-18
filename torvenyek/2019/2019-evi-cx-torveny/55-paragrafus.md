@@ -32,8 +32,4 @@ f) a környezetvédelmi és a fás szárú növények védelmére vonatkozó hat
 
 ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait.”
 
-(3) Hatályát veszti az Ngtv.
-
-a) 1/A. § (1) bekezdés nyitó szövegrészében az „első fokon” szövegrész,
-
-b) 1/A. § (1) bekezdés a) pontjában az „elsőfokú” szövegrész.
+(3)

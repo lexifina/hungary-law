@@ -1,4 +1,4 @@
-101. § (1) Ha az ügyben e törvény hatálybalépésével a fellebbezés kizárttá válik, törvény vagy kormányrendelet eltérő rendelkezése hiányában a folyamatban lévő fellebbezési eljárást a fellebbezést kizáró rendelkezés hatálybalépését megelőzően hatáskörrel rendelkező szerv folytatja le.
+101. § (1)
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, e törvény hatálybalépésével más szerv feladat- és hatáskörébe kerülő, folyamatban lévő elsőfokú ügyekben, valamint a folyamatban lévő peres eljárásokban az a szerv jár el, amelynek hatáskörébe a feladat ellátása a jogszabály rendelkezése szerint kerül.
 

@@ -20,14 +20,12 @@ c) a feltárásra jogosult intézmény vagy szervezet.
 
 (4) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv régészeti feladatellátással kapcsolatos megkeresésére a (3) bekezdésben megjelölt intézmény vagy szervezet öt napon belül nem válaszol, a jogszabályban kijelölt örökségvédelmi szerv közvetlenül gondoskodik a régészeti feladatellátásról.”
 
-(2) A Kötv. 72. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) A hatóság a 71. § (1) bekezdése szerinti védettség tényére vonatkozó adatok átadásához az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületet biztosít az építésügyi és építésfelügyeleti hatóságnak az építésfelügyeleti ellenőrzés, szabálytalan építési tevékenységgel kapcsolatos építésrendészeti eljárás lefolytatása céljából.”
+(2)
 
 (3) A Kötv. 61/C. § (2) bekezdésében az „augusztus” szövegrész helyébe a „január” szöveg lép.
 
 (4) Hatályát veszti a Kötv.
 
-a) 61/J. § (2) bekezdés a) pontjában a „vagy egyéni vállalkozói igazolvány számát” szövegrész,
+a)
 
-b) 75/C. §-a.
+b)

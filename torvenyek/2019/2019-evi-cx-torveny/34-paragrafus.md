@@ -1,51 +1,27 @@
 ## 34. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-34. § (1) Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 56. § (2) bekezdése helyébe a következő rendelkezés lép:
+34. § (1)
 
-„(2) A beadvány megtartja a benyújtás időpontjának megfelelő ranghelyét, ha az elutasításra a 39. § (3) bekezdése miatt került sor, és a jogorvoslat során pótolták a határozatban megjelölt hiányosságokat, vagy ha a kérelem visszautasítására a 39. § (4) bekezdés f) pontjára tekintettel került sor, és a jogorvoslat során a formanyomtatvány pótlásra került.”
+(2)
 
-(2) Az Inytv. 72. § (1) bekezdése a következő f)–o) ponttal egészül ki:
-
-[Az ingatlanügyi hatóság kérelemre, ha jogszabály másként nem rendelkezik, az Elektronikus Kormányzati Gerinchálózaton (a továbbiakban: EKG) keresztül hozzáférést biztosít, hogy]
-
-„f) a Kormány által a lakáscélú állami támogatásokkal kapcsolatos feladatok ellátására kijelölt szerv a lakáscélú állami támogatásokkal kapcsolatos, jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-
-g) a mezőgazdasági igazgatási szerv, a környezet- és természetvédelmi hatóság és az erdészeti hatóság a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-
-h) a gyámhatóság a gondnoksági ügyekben a gondnokolt ingatlanvagyonának megismerése céljából szükséges egyedi adatokat lekérdezze,
-
-i) a szociális hatóság pénzbeli és természetbeni ellátások megállapítása céljából szükséges egyedi adatokat lekérdezze,
-
-j) az állami foglalkoztatási szerv az álláskeresési támogatás megállapításához szükséges egyedi adatokat lekérdezze,
-
-k) a munkaügyi és munkavédelmi hatóság a munkaügyi és munkavédelmi ellenőrzés és az annak alapján induló hatósági eljáráshoz szükséges egyedi adatokat lekérdezze,
-
-l) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásához szükséges egyedi adatokat lekérdezze,
-
-m) a kulturális örökség védelmével összefüggő feladatokat ellátó, kormányrendeletben meghatározott eljáró hatóság a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-
-n) az építésügyi és építésfelügyeleti hatóság a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze,
-
-o) a fővárosi és megyei kormányhivatal személyiadat- és lakcímnyilvántartási feladatkörében eljáró járási (fővárosi kerületi) hivatala, a kormányablak a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat lekérdezze.”
-
-(3) Az Inytv. 61/B. § (3) és (4) bekezdésében az „az elsőfokú döntést” szövegrész helyébe az „a döntést” szöveg lép.
+(3)
 
 (4) Hatályát veszti az Inytv.
 
-a) 47. § (4) bekezdése,
+a)
 
-b) 52. § (1) bekezdés l) pontja,
+b)
 
-c) 52. § (7) és (8) bekezdése,
+c)
 
-d) 56. § (5) bekezdése,
+d)
 
-e) 57. §-a,
+e)
 
-f) 61/B. § (1) bekezdésében az „elsőfokú” szövegrész,
+f)
 
-g) 64. § (4) bekezdése,
+g)
 
-h) 85–88. §-a,
+h)
 
-i) 94. § (1)–(10) bekezdése.
+i)
