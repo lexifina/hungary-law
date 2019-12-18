@@ -8,7 +8,9 @@ c) a tűzvédelmi hatósági eljárások,
 
 d) a településképi véleményezési és bejelentési eljárás,
 
-e) az örökségvédelmi hatósági eljárások
+e) az örökségvédelmi hatósági eljárások,
+
+f) a környezetvédelmi és a fás szárú növények védelmére vonatkozó hatósági eljárások
 
 ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait.
 

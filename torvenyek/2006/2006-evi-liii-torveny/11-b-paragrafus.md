@@ -6,7 +6,9 @@ b) a sajátos telekalakítási követelményeket,
 
 c) az egyedi településképi követelményeket,
 
-d) az egyedi örökségvédelmi szabályokat.
+d) az egyedi örökségvédelmi szabályokat,
+
+e) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat.
 
 (2) Az (1) bekezdés a) pontja szerinti településrendezési és beépítési szabály, valamint egyedi építési követelmény az Étv. 13. § (1) bekezdésével összefüggő követelményekre, valamint az országos településrendezési és építési követelményektől, az országos tűzvédelmi szabályoktól, valamint a településrendezési eszközökben foglaltaktól való eltérő rendelkezésekre vonatkozhat.
 
