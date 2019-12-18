@@ -1,0 +1,1 @@
+38/E. § A 11. § (1) bekezdés h) pontja szerinti adatokat a 2019. december 31-i állapotnak megfelelően a nyilvántartást vezető szerv az egyéni vállalkozói igazolvány leadásának ellenőrzése és az egyéni vállalkozói igazolvány visszavonására irányuló eljárás lefolytatása érdekében archiválja. Az archivált adatokat a nyilvántartást vezető szerv legkésőbb 2020. december 31-én törli.

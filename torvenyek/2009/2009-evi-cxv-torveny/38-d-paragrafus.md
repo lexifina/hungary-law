@@ -1,1 +1,1 @@
-### 38/D. §
+38/D. § Az egyéni vállalkozói igazolványok 2020. január 1-jén érvénytelenné válnak. Az egyéni vállalkozó köteles 2020. március 1-ig leadni az érvénytelen igazolványt a Hatóság részére. A leadott igazolványt a Hatóság bevonja. Ha az egyéni vállalkozó az igazolványt nem adta le, vagy nem küldte meg, azt a Hatóság visszavonja.
