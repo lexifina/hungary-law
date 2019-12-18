@@ -1,0 +1,3 @@
+## 30. A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény módosítása
+
+118. § Hatályát veszti a mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény 4. § (3) bekezdésében az „ , állami tisztviselője” szövegrész.

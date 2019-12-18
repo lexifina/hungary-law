@@ -1,0 +1,9 @@
+18. § (1) A Kit. 72. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 71. § (11) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 14. §-ában és 15. § (2) és (3) bekezdésében foglalt rendelkezéseket a (3) és a (3a) bekezdésben foglalt eltérésekkel kell alkalmazni azzal, hogy ügyfél alatt kormánytisztviselőt, elektronikus ügyintézést biztosító szerv alatt a kormányzati igazgatási szervet kell érteni.”
+
+(2) A Kit. 72. § (3) bekezdése helyébe a következő rendelkezés lép és a § a következő (3a) bekezdéssel egészül ki:
+
+„(3) A 71. § (11) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítése esetén az E-ügyintézési tv. 15. § (3) bekezdésétől eltérően, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+
+(3a) A (3) bekezdéstől eltérően a jogviszonyt azonnali hatállyal megszüntető munkáltatói intézkedést tartalmazó irat a címzett (2) bekezdés szerinti tárhelyére történő megküldésről szóló értesítési igazolásban foglalt időpontban minősül kézbesítettnek.”
