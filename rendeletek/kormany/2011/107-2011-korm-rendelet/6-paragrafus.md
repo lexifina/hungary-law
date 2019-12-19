@@ -2,7 +2,7 @@
 
 a) a támogatás igénybevételére jogosult szervezet sportfejlesztési programja a 4. § (12) bekezdés szerinti nyilvántartásban szerepel és
 
-b)[^70] az igazolás és a támogatási igazolás kiállítása az egyes jogcímek esetén nem eredményezi a sportfejlesztési programban feltüntetett összegek Tao. tv. 22/C. § (4), (4a) és (4b) bekezdésében meghatározott legnagyobb mértékének túllépését, valamint
+b)[^70] az igazolás és a támogatási igazolás kiállítása az egyes jogcímek esetén nem eredményezi a sportfejlesztési programban feltüntetett összegek Tao. tv. 22/C. § (4)–(4c) bekezdésében meghatározott legnagyobb mértékének túllépését, valamint
 
 c) a támogatás igénybevételére jogosult szervezet nyilatkozik az önrész rendelkezésre állásáról.
 
@@ -24,7 +24,7 @@ e)[^73] a támogatás igénybevételére jogosult szervezet a 4. § (11) bekezd�
 
 (5) A jóváhagyást végző szervezet a (4) bekezdésben foglaltaknak megfelelően jár el a kérelem elutasítása esetén, ebben az esetben azonban a kérelem elutasításának tényét közli a támogatás igénybevételére jogosult szervezetettel és a támogatóval.
 
-[^70]: A 6. § (1) bekezdés b) pontja a 96/2016. (V. 2.) Korm. rendelet 12. § c) pontja, a 164/2017. (VI. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^70]: A 6. § (1) bekezdés b) pontja a 96/2016. (V. 2.) Korm. rendelet 12. § c) pontja, a 314/2019. (XII. 18.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^71]: A 6. § (1) bekezdés d) pontját a 76/2012. (IV. 13.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
 [^72]: A 6. § (1) bekezdés d) pont db) alpontja a 475/2017. (XII. 28.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.
 [^73]: A 6. § (1) bekezdés e) pontját a 134/2013. (V. 9.) Korm. rendelet 2. §-a iktatta be.

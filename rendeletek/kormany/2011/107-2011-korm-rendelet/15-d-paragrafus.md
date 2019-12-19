@@ -1,4 +1,4 @@
-## 5/D. [^168] Az uniós versenyjogi szabályoknak való megfelelést biztosító közös rendelkezések
+## 5/D. [^174] Az uniós versenyjogi szabályoknak való megfelelést biztosító közös rendelkezések
 
 15/D. § (1) Nem ítélhető meg támogatás
 
@@ -28,4 +28,4 @@ b) a 15/F. § szerinti működési támogatás esetén sportcélú ingatlanonké
 
 (7) A 15/E. § és a 15/F. § szerinti támogatások tekintetében a 2020–2021-es támogatási időszakra vonatkozóan hozható támogatási döntés.
 
-[^168]: Az 5/D. alcímet (5/D. §) a 318/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.
+[^174]: Az 5/D. alcímet (5/D. §) a 318/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.

@@ -44,7 +44,7 @@ c) által benyújtott sportfejlesztési program – több támogatási időszakr
 
 (6)[^61] Amennyiben a jóváhagyást végző szervezet az (1) bekezdés szerinti kérelem vizsgálatának eredményeként megállapítja, hogy a támogatás igénybevételére jogosult szervezet nem felel meg minden feltételnek, vagy a sportfejlesztési program jóváhagyása a sportági keretösszegre figyelemmel nem lehetséges, úgy az (1) bekezdés szerinti kérelmet elutasítja, és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel. Az elutasítás tényét a jóváhagyást végző szervezet honlapján is közzéteszi.
 
-(7)[^62] A jóváhagyást végző szervezet a jóváhagyás során arra figyelemmel dönt a tervezett támogatás egyes jogcímeinek elfogadásáról, hogy az egyes jogcímeken igénybe vehető támogatás nem lehet nagyobb, mint az egyes jogcímek esetén a sportfejlesztési programban feltüntetett összegek Tao. tv. 22/C. § (4), (4a) és (4b) bekezdésében meghatározott legnagyobb mértéke.
+(7)[^62] A jóváhagyást végző szervezet a jóváhagyás során arra figyelemmel dönt a tervezett támogatás egyes jogcímeinek elfogadásáról, hogy az egyes jogcímeken igénybe vehető támogatás nem lehet nagyobb, mint az egyes jogcímek esetén a sportfejlesztési programban feltüntetett összegek Tao. tv. 22/C. § (4)–(4c) bekezdésében meghatározott legnagyobb mértéke.
 
 (8)[^63] A jóváhagyást végző szervezet a Tao. tv. 22/C. § (6) bekezdés e) pontja szerinti értékhatárt elérő vagy meghaladó, sportcélú ingatlanra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot – a (9) és (10) bekezdésekben meghatározottakra tekintettel – abban az esetben hagyja jóvá, ha a támogatott szervezet kötelezettséget vállal arra, hogy a sport célú ingatlanfejlesztésre kiírásra kerülő nyílt pályázat során
 
@@ -92,7 +92,7 @@ bc) építészeti, műszaki akadálymentesítésére
 [^59]: A 4. § (3a) bekezdését a 40/2019. (III. 7.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^60]: A 4. § (4) bekezdése a 96/2016. (V. 2.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^61]: A 4. § (6) bekezdése a 40/2019. (III. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^62]: A 4. § (7) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^62]: A 4. § (7) bekezdése a 314/2019. (XII. 18.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^63]: A 4. § (8) bekezdés nyitó szövegrésze a 268/2011. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^64]: A 4. § (8) bekezdés a) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^65]: A 4. § (9) bekezdés nyitó szövegrésze a 414/2012. (XII. 29.) Korm. rendelet 8. §-a szerint módosított szöveg.
