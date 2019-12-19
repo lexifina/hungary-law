@@ -6,7 +6,7 @@ b) figyelemmel kíséri az előadó-művészeti terület helyzetét és lehetős
 
 c) javaslatot tesz a nemzeti előadó-művészeti szervezetek és a kiemelt előadó-művészeti szervezetek körére,
 
-d) a központi költségvetési támogatás megállapítása érdekében kidolgozza és a NEÉT-nek véleményezésre és javaslattételre, a miniszternek jóváhagyásra továbbítja a nem állami fenntartású, minősítéssel rendelkező előadó-művészeti szervezetek központi költségvetési támogatására irányadó felosztási szabályzatot,
+d) a központi költségvetési támogatás megállapítása érdekében kidolgozza és a miniszternek jóváhagyásra továbbítja a nem állami fenntartású, minősítéssel rendelkező táncművészeti szervezetek központi költségvetési támogatására irányadó felosztási szabályzatot,
 
 e) az előadó-művészeti szervezet vezetője munkakörének betöltésére kiírt pályázati eljárás során tagokat delegál a szakmai bizottságba,
 

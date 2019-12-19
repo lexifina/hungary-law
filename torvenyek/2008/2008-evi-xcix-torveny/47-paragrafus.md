@@ -38,7 +38,9 @@ q) határozza meg az e törvény alapján a helyi önkormányzatok központi kö
 
 r) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, a pályázatok véleményezésére felkért szakmai bizottság összetételét és eljárásának rendjét, valamint a pályázatok elbírálásának rendjét,
 
-s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait.
+s) határozza meg a költségvetési szervként működő vagy az Mt. hatálya alá tartozó, állami vagy önkormányzati fenntartású, nyilvántartásba vett előadó-művészeti szervezet vezetője tekintetében a munkakör betöltésének feltételeit és a feltételek alól adható felmentés szabályait,
+
+t) állapítsa meg az állami és önkormányzati közös működtetés kérelmezésének határidejét.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
