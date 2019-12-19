@@ -1,7 +1,3 @@
-## lép.
+## 3. §[^4]
 
-## 4. § Hatályát veszti a Korm. rendelet 5. §
-
-a) (1) bekezdésében az „és vezetői munkakört betöltő”,
-
-b) (2) bekezdésében az „a vezetői munkaköréből nem vezetői munkakörbe történő áthelyezésével vagy”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
