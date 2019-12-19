@@ -10,4 +10,4 @@
 
 (5) A – főként a település- és területrendezés, építészet és építés, illetve adatfeldolgozás területén alkalmazható – tervpályázati eljárásra vonatkozó részletes szabályokat külön jogszabály határozza meg.
 
-(6) Az 5. § (3) bekezdése szerinti ajánlatkérő a Harmadik Részt alkalmazva is eljárhat, kivéve, ha ajánlatkérői minősége az 5. § (2) bekezdése alapján is megállapítható. Ez utóbbi esetben az alkalmazandó eljárásrendet az (1) bekezdés alkalmazásával kell megállapítani.
+(6)

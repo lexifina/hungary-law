@@ -30,7 +30,7 @@ l) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
 
 m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy.
 
-(3) A Tanács elnöke a Hatóság elnöke. A Tanács alelnöke a Hatóság alelnöke.
+(3) A Tanács elnöke a Hatóság elnöke.
 
 (4) A Tanács elnöke a Tanács tagjává válik akkor is, ha nem a tagok közül választották. Ha a Tanács elnökét a Tanács tagjai közül választották, az elnök a továbbiakban nem képviseli az őt kijelölő szerinti általános célokat vagy érdekeket, a kijelölő pedig jogosult a Tanácsba új tagot kijelölni. A kijelölő a Tanács elnökével szemben nem élhet a 181. § (6) bekezdés b) pontjában és (7) bekezdésében biztosított jogával.
 

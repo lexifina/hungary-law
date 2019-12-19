@@ -16,7 +16,7 @@
 
 (8) A (6) bekezdéstől eltérően az ott rögzített tíz-, illetve ötnapos időtartam letelte előtt is megköthető a szerződés,
 
-a) ha a nyílt eljárásban, a hirdetménnyel induló, egy szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, egy szakaszból álló eljárásban csak egy ajánlatot nyújtottak be;
+a) ha a nyílt eljárásban, – a c) és e) pontban hivatkozottak kivételével – a hirdetmény nélküli tárgyalásos eljárásban, a hirdetménnyel induló, egy szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, egy szakaszból álló eljárásban csak egy ajánlatot nyújtottak be;
 
 b) ha a meghívásos, a tárgyalásos eljárás, a versenypárbeszéd, az innovációs partnerség eljárása során, a dinamikus beszerzési rendszer alapján történő szerződéskötés érdekében, a hirdetménnyel induló, több szakaszból álló koncessziós beszerzési eljárásban vagy a 117. § szerint lefolytatott, több szakaszból álló eljárásban csak egy ajánlatot nyújtottak be, és ha az eljárásban volt érvénytelen részvételi jelentkezés vagy sor került kizárásra, az erre vonatkozó döntés ellen a jogorvoslat kezdeményezésének határideje az érintettek számára lejárt, vagy a döntést a Közbeszerzési Döntőbizottság jogszerűnek ítélte;
 

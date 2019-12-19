@@ -14,4 +14,4 @@ e) gyakorolja a munkáltatói jogokat a Hatóság főtitkára (a továbbiakban: 
 
 f) ellátja a részére törvényben előírt egyéb feladatokat.
 
-(2) A Hatóság elnökét távolléte esetén az alelnök teljes jogkörrel helyettesíti.
+(2) A Hatóság elnökét távolléte esetén az a Tanács alelnöke a Tanács képviseletében és üléseinek vezetésében teljes jogkörrel helyettesíti.

@@ -7,3 +7,5 @@
 (3) Az ajánlatkérő köteles a Közbeszerzési Hatóság vagy jogszabályban feljogosított más szerv kérésére a közbeszerzéssel kapcsolatos iratokhoz a jogszabályban meghatározottak szerint elektronikus úton hozzáférést biztosítani.
 
 (4) A közbeszerzésekre vonatkozó statisztikai adatok rendelkezésre állása érdekében e törvény felhatalmazása alapján alkotott jogszabály meghatározhatja az ajánlatkérő számára az e törvényben előírtakon kívül az adott közbeszerzésre vonatkozóan az EKR-ben rögzítendő – személyes adatnak nem minősülő – adatok körét.
+
+(5) Az EKR üzemeltetésével összefüggő feladatok teljesítése érdekében az EKR üzemeltetője az EKR-ben rögzített személyes adatokat a (2) bekezdésben meghatározott időtartamig kezeli.

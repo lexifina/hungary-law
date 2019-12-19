@@ -60,7 +60,7 @@ s) statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket honl
 
 t) elkészíti a Hatóság szervezeti és működési, valamint más, a Hatóság működését érintő belső szabályzatát, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
 
-u) honlapján közzéteszi a közbeszerzésekért felelős miniszter által nyilvántartott felelős akkreditált közbeszerzési szaktanácsadóknak a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló miniszteri rendeletben meghatározott adatait;
+u)
 
 v) ellátja a részére törvényben előírt egyéb feladatokat,
 
@@ -108,7 +108,7 @@ b) a büntetett előélethez fűződő hátrányok alól nem mentesült;
 
 c) közbeszerzési biztos;
 
-d) a Közbeszerzési Hatóság elnöke, alelnöke.
+d) a Közbeszerzési Hatóság elnöke.
 
 (15) A névjegyzékbe vétel iránti kérelemhez csatolni kell azokat a nyilatkozatokat, amelyek a (14) bekezdés a), c) és d) pont szerinti kizáró ok fenn nem állására vonatkoznak. A (14) bekezdés b) pontja szerinti kizáró ok fenn nem állását a Hatóság a névjegyzékbe vétel iránti kérelem benyújtásával egyidejűleg a bűnügyi nyilvántartásból történő adatigényléssel ellenőrzi. A névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok módosításáért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj megfizetése alól mentesség nem adható.
 

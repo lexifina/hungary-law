@@ -1,6 +1,6 @@
 ## Az ajánlatkérőkre vonatkozó közös szabályok
 
-26. § (1) Az ajánlatkérő – kivéve az 5. § (2)–(4) bekezdése szerinti ajánlatkérőt – köteles az e törvény hatálya alá tartozásáról, valamint az adataiban bekövetkezett változásról a Közbeszerzési Hatóságot értesíteni az e törvény hatálya alá kerülésétől, illetve a változástól számított harminc napon belül.
+26. § (1) Az ajánlatkérő – kivéve az 5. § (2) és (4) bekezdése szerinti ajánlatkérőt – köteles az e törvény hatálya alá tartozásáról, valamint az adataiban bekövetkezett változásról a Közbeszerzési Hatóságot értesíteni az e törvény hatálya alá kerülésétől, illetve a változástól számított harminc napon belül.
 
 (1a) Az ajánlatkérő az (1) bekezdés szerinti bejelentési vagy változásbejelentési kötelezettségét az elektronikus közbeszerzési rendszerben (a továbbiakban: EKR) történő regisztráció vagy adatmódosítás útján teljesíti.
 

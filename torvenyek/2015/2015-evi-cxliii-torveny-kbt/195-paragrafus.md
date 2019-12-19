@@ -14,9 +14,9 @@
 
 (6) A közbeszerzésekért felelős miniszter naprakészen vezeti a képző szervezetek által megküldött dokumentumok alapján a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat. E nyilvántartás vezetése körében jogosult a képzéseken részt vevők személyazonosító adatainak, elérhetőségi adatainak kezelésére.
 
-(7)
+(7) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.
 
-(8)
+(8) A közbeszerzésekért felelős miniszter az EKR működtetésével kapcsolatos feladatok ellátása körében statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket rendszeres időközönként közzétesz.
 
 (9)
 
@@ -28,4 +28,4 @@
 
 (11)
 
-(12) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.
+(12)

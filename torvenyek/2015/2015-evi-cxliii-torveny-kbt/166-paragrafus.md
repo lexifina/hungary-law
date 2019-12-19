@@ -1,6 +1,6 @@
 ## A Közbeszerzési Döntőbizottság döntésének közlése és nyilvánosságra hozatala
 
-166. § (1) Az eljárás felfüggesztését elrendelő végzést, a közbeszerzési ügy befejezését eredményező végzést és határozatot az ügyfeleknek kézbesíteni kell. Ha az eljárás felfüggesztését elrendelő végzés, az ügy befejezését eredményező végzés vagy határozat támogatásból megvalósuló közbeszerzésre vonatkozik, a határozatot a közbeszerzéshez támogatást nyújtó szervezet részére is kézbesíteni kell.
+166. § (1) Az eljárás felfüggesztését elrendelő végzést, a közbeszerzési ügy befejezését eredményező végzést és határozatot az ügyfeleknek, valamint a közbeszerzésekért felelős miniszternek kézbesíteni kell. Ha az eljárás felfüggesztését elrendelő végzés, az ügy befejezését eredményező végzés vagy határozat támogatásból megvalósuló közbeszerzésre vonatkozik, a határozatot a közbeszerzéshez támogatást nyújtó szervezet részére is kézbesíteni kell.
 
 (2) A közbeszerzési ügy befejezését eredményező végzést és határozatot, valamint a szerződés megkötésének engedélyezése tárgyában hozott végzést [156. § (4) bekezdés] meghozatala napján a Közbeszerzési Hatóság honlapján közzé kell tenni. Az érdemi határozatot akkor is közzé kell tenni, ha a Közbeszerzési Döntőbizottság a tárgyalásról a nyilvánosságot a 161. § (4) bekezdése alapján kizárta.
 

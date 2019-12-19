@@ -6,9 +6,9 @@
 
 (4) A Hatóság elnöke felett a munkáltatói jogokat a Tanács gyakorolja, az elnök az összeférhetetlenségével kapcsolatos bejelentést a Tanácsnak köteles megtenni.
 
-(5) A Tanács a tagok közül öt évre a jelen levő tagok kétharmados szótöbbségével hozott döntéssel választja a Hatóság alelnökét.
+(5) A Tanács a tagok közül öt évre a jelen levő tagok kétharmados szótöbbségével hozott döntéssel választja a Tanács alelnökét.
 
-(6) A Hatóság elnökének, alelnökének és a Tanács tagjainak megbízatása megszűnik
+(6) A Hatóság elnökének, a Tanács alelnökének és a Tanács tagjainak megbízatása megszűnik
 
 a) a megbízatás időtartamának lejártával;
 

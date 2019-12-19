@@ -96,7 +96,7 @@ c) jogosult arra, hogy a vezető tisztségviselők (döntéshozók, ügyvezetők
 
 30. műszaki egyenértékűség: létesítmény, termék vagy szolgáltatás olyan meghatározó műszaki paramétere, amely mérhető, és amelynek előírt mérőszámát több létesítmény, termék vagy szolgáltatás is teljesítheti;
 
-31. nem központi ajánlatkérő: az 5. § (1) bekezdés c)–e) pontja, valamint (2)–(3) bekezdése szerinti ajánlatkérő;
+31. nem központi ajánlatkérő: az 5. § (1) bekezdés c)–e) pontja, valamint (2) bekezdése szerinti ajánlatkérő;
 
 32. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott fogalom;
 

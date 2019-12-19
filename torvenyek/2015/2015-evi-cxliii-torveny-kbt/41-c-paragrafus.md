@@ -8,9 +8,11 @@ c) az elektronikus kommunikáció alkalmazása olyan különleges irodai berende
 
 d) az ajánlatkérő olyan fizikai vagy méretarányos modellek benyújtását írja elő, amelyek elektronikus úton nem továbbíthatók (a beadandó modell vonatkozásában);
 
-e) az EKR üzemeltetője által – a honlapján – közzétett tájékoztatás alapján az EKR részben vagy egészben tartósan nem tudja biztosítani az e törvénynek és végrehajtási rendeleteinek megfelelő eljárást; vagy
+e) az EKR üzemeltetője által – a honlapján – közzétett tájékoztatás alapján az EKR részben vagy egészben tartósan nem tudja biztosítani az e törvénynek és végrehajtási rendeleteinek megfelelő eljárást;
 
-f) az EKR több napon keresztül fennálló – jogszabályban meghatározott – üzemzavara miatt a 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárás a rendkívüli helyzet által megkívánt idő alatt nem lenne megvalósítható.
+f) az EKR több napon keresztül fennálló – jogszabályban meghatározott – üzemzavara miatt a 98. § (2) bekezdés e) pontja szerinti hirdetmény nélküli tárgyalásos eljárás a rendkívüli helyzet által megkívánt idő alatt nem lenne megvalósítható; vagy
+
+g) a közbeszerzési dokumentumok üzleti titkot vagy minősített adatot tartalmaznak, illetve biztonsági vagy nemzetbiztonsági okból bizalmas jellegűek és a gazdasági szereplők széles körében rendelkezésre álló elektronikus kapcsolattartási forma alkalmazásával a megfelelő védelem nem biztosítható.
 
 (2) Az ajánlatkérőnek az ajánlatok elbírálásáról készített összegezésben fel kell tüntetnie, hogy milyen okból volt szükséges az elektronikus úttól eltérő kommunikáció használata. Az elektronikus úton történő kapcsolattartás mellőzése kizárólag azon dokumentumok, illetve az ajánlat azon része tekintetében megengedett, amelynek vonatkozásában az (1) bekezdés szerinti okok fennállnak. Az elektronikus úton történő kommunikáció mellőzése az (1) bekezdés szerinti indokok alapján nem alkalmazható az ajánlat benyújtásakor a felolvasólap tartalmát képező adattartalomra, kivéve, ha az (1) bekezdés e)–f) pontja alapján az ajánlatok benyújtása egészében papíralapon történik.
 
