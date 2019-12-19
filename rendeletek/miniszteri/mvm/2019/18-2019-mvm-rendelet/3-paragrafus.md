@@ -1,1 +1,3 @@
-## 2. § A NEAr. 14. § (1) bekezdésében az „ötvenmillió forint” szövegrész helyébe a „hetvenötmillió forint” szöveg lép.
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
