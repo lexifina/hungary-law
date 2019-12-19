@@ -1,0 +1,1 @@
+## „a) közreműködik az ágazat NATO válságkezelési gyakorlatokon és egyéb honvédelmi gyakorlatokon történő részvételében, valamint a befogadó nemzeti támogatással kapcsolatos feladatainak végrehajtásában, és”
