@@ -4,8 +4,8 @@ a) ágazat: az Igazságügyi Minisztérium (a továbbiakban: IM) és az ágazath
 
 b) ágazathoz tartozó szervezetek: az igazságügyi miniszter (a továbbiakban: miniszter) irányítása, felügyelete, alapítói joggyakorlása vagy tulajdonosi joggyakorlása alá tartozó szervek,
 
-c)[^1] KMR: különleges működési rend, amely a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet vagy a váratlan támadás időszakában az ágazat működése érdekében bevezetett különleges működési rendszabályok rendszere,
+c)[^2] KMR: különleges működési rend, amely a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet vagy a váratlan támadás időszakában az ágazat működése érdekében bevezetett különleges működési rendszabályok rendszere,
 
 d) védett külügyi hálózat IM végpontja: a külpolitikáért felelős miniszter által vezetett minisztérium által működtetett, minősített adat továbbítására szolgáló informatikai rendszer IM-ben üzemeltetett végpontja.
 
-[^1]: Az 1. § c) pontja a 27/2016. (XII. 27.) IM rendelet 9. §-a szerint módosított szöveg.
+[^2]: Az 1. § c) pontja a 27/2016. (XII. 27.) IM rendelet 9. §-a szerint módosított szöveg.
