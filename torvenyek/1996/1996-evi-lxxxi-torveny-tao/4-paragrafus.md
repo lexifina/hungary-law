@@ -308,7 +308,7 @@ b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése 
 
 40a. hivatásos sportoló: a sportról szóló 2004. évi I. törvény 1. § (4) bekezdésében meghatározott, a látvány-csapatsportnak minősülő sportágban foglalkoztatott sportoló azzal, hogy az általa jövedelemszerző foglalkoztatásban és díjazás ellenében nyújtott szolgáltatásként folytatott sporttevékenység hivatásos sporttevékenységnek minősül, amennyiben a részére sporttevékenységével összefüggésben az érintett támogatási időszakban nyújtott pénzbeli juttatás – a sportrendezvényen való részvételhez kapcsolódó utazási költségek és szállásköltségek kivételével – meghaladja a részvételi költséget és a sportoló jövedelmének legalább 50 százalékát teszi ki, függetlenül attól, hogy a sportoló és az érintett sportszervezet kötött-e egymással munkaszerződést;
 
-40b. korlátozott mértékű gazdasági célú létesítmény: olyan sportlétesítmény, amely esetén a gazdasági tevékenységre allokált éves kapacitás nem haladja meg a létesítmény tényleges teljes éves kapacitásának húsz százalékát;
+40b. korlátozott mértékű gazdasági célú létesítmény: olyan sportlétesítmény, amely nem áll látvány-csapatsportban működő hivatásos sportszervezet használatában, és amely esetén a gazdasági tevékenységre allokált éves kapacitás nem haladja meg a létesítmény tényleges teljes éves kapacitásának húsz százalékát;
 
 41. látvány-csapatsport: a labdarúgás, a kézilabda, a kosárlabda, a vízilabda, a jégkorong, valamint a röplabda sportág;
 
