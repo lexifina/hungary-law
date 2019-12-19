@@ -1,0 +1,7 @@
+# 2019. évi CXX. törvény a közbeszerzésekre vonatkozó egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-120-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2019-12-19 | 2019. évi CXX. törvény | 2019-120-00-00.0 (közlönyállapot) |

@@ -1,0 +1,11 @@
+15. § A Kbt. 197. §-a a következő (14)–(18) bekezdéssel egészül ki:
+
+„(14) Ha e törvény és az e törvény felhatalmazása alapján alkotott jogszabály eltérően nem rendelkezik, úgy az e törvény és az e törvény felhatalmazása alapján alkotott jogszabály módosítása esetén a módosító törvény vagy jogszabály által megállapított rendelkezéseit a módosító törvény vagy jogszabály hatálybalépése után megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és előzetes vitarendezési eljárásokra, valamint a módosító jogszabály jogorvoslati szervek eljárására vonatkozó rendelkezéseit a hatálybalépését követően kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra kell alkalmazni.
+
+(15) E törvénynek a közbeszerzésekre vonatkozó egyes törvények módosításáról szóló 2019. évi CXX. törvénnyel (a továbbiakban: Mód4. tv.) megállapított rendelkezéseit – a (16) bekezdésben foglaltak kivételével – a Mód4. tv. hatálybalépése után megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra és előzetes vitarendezési eljárásokra, valamint a Mód4. tv. hatálybalépése után kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokra kell alkalmazni.
+
+(16) E törvénynek a Mód4. tv. által megállapított, az 5. § (3) bekezdésének hatályon kívül helyezésére vonatkozó rendelkezései alapján a Mód4. tv. hatálybalépésekor fennálló támogatási jogviszonyok keretében még fel nem használt támogatás esetében nem kötelező közbeszerzési eljárás lefolytatása, kivéve, ha a támogatás felhasználása céljából olyan közbeszerzési eljárás van folyamatban, amelyben az ajánlatkérő az 53. §-ban foglaltaknak megfelelően már nem léphet vissza a közbeszerzéstől.
+
+(17) A Mód4. tv. hatályba lépéséig az 5. § (5) bekezdése alapján a Magyar Közlönyben egyszerre még közzé nem tett egyedi határozatok szövegét a Kormány a Mód4. tv. hatályba lépését követő év március 31-ig egy tájékoztatóban egyszerre is közzéteszi.
+
+(18) E törvénynek a 2019. december 31-ig hatályos 4. § (3) bekezdését, 195. § (1), (4) és (5) bekezdését a 2019. december 31-ig megkezdett beszerzésekre, közbeszerzési eljárások alapján megkötött szerződésekre, tervpályázati eljárásokra kell alkalmazni.”

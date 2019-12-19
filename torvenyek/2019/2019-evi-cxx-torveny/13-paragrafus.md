@@ -1,0 +1,3 @@
+13. § A Kbt. 195. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„195. § (1) A Kormány rendelete lehetőséget adhat arra, hogy jogszabályban meghatározott, a Kormány felügyelete alá tartozó szerv és a Kormány közvetlenül vagy közvetetten meghatározó befolyása alá tartozó gazdasági társaság, valamint a vagyonkezelésükben lévő vagy általuk alapított alapítványok esetében a közbeszerzési eljárásokat, építési vagy szolgáltatási koncessziós beszerzési eljárásokat, az ezek alapján kötött szerződések módosítását, valamint e szervezetek nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötését és módosítását a Kormány rendeletében meghatározott szerv jogszabályban meghatározott esetekben és módon engedélyezze, valamint ellenőrizze.”
