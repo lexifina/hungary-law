@@ -2334,9 +2334,13 @@
 
 ## 9. Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1990. március 11-ét megelőzően a volt Szovjetunióban állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Litvánia illetékes hatósága tanúsítja, hogy Litvánia területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett litván képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Litvánia területén.
 
-## 10. Feltétel nélkül elismerésre kerül az orvosi vagy szakorvosi oklevél azon tagállami állampolgár esetében, akinek az orvosi vagy szakorvosi oklevelét 1991. június 25-ét megelőzően a volt Jugoszláviában állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Jugoszláviában kezdődött, amennyiben Szlovénia illetékes hatósága tanúsítja, hogy Szlovénia területén az orvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint az orvosi és szakorvosi területen szerzett szlovén képesítések.
+## 10. Feltétel nélkül el kell ismerni azon orvosi vagy szakorvosi okleveleket, amelyeket a volt Jugoszlávia bocsátott ki, vagy amelyek esetében az érintettek a képzést
 
-## A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Szlovénia területén.
+## a) Szlovénia esetében 1991. június 25-e előtt,
+
+## b) Horvátország esetében 1991. október 8-a előtt
+
+## a volt Jugoszláviában kezdték meg, amennyiben az érintett tagállam hatóságai tanúsítják, hogy az orvosi vagy szakorvosi oklevél az orvosi tevékenység gyakorlásának megkezdése és folytatása tekintetében területükön ugyanolyan jogi érvénnyel bír, mint az általuk kibocsátott, orvosi és szakorvosi területen szerzett szakképesítés. Az ilyen okiratokhoz csatolni kell az ugyanazon hatóságok által kiadott igazolást, amely tanúsítja, hogy területükön az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta az orvosi vagy szakorvosi tevékenységet.
 
 ## 11. Feltétel nélkül elismerésre kerül a tagállam által azon tagállami állampolgár részére kiállított oklevél, akinek orvosi, szakorvosi, háziorvosi oklevele nem felel meg az A), B), C) vagy D) pontban említett megnevezéseknek, amennyiben az oklevelet – a tagállam illetékes hatósága vagy szerve által kiadott – olyan igazolás kíséri, amely tanúsítja, hogy az adott orvosi, szakorvosi, háziorvosi oklevelet az európai közösségi jog által meghatározott minimális képzési követelményeknek megfelelő képzés sikeres teljesítését követően állították ki, és az azt kiállító tagállam úgy tekinti, mint az e melléklet A), B, C) vagy D) pontjában megnevezett oklevelet, képesítést.
 
@@ -2362,4 +2366,4 @@
 
 2. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^13]
 
-[^13]: A 2. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § b) pontjával megállapított szöveg.
+[^13]: A 2. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § b) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.

@@ -204,9 +204,13 @@
 
 ## A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Litvánia területén.
 
-## 8. Feltétel nélkül elismerésre kerül az általános ápolói oklevél azon tagállami állampolgár esetében, akinek az általános ápolói oklevelét 1991. június 25-ét megelőzően a volt Jugoszláviában állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Jugoszláviában kezdődött, amennyiben Szlovénia illetékes hatósága tanúsítja, hogy Szlovénia területén az általános ápolói tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint általános ápolói szakterületen szerzett szlovén képesítések.
+## 8. Feltétel nélkül el kell ismerni azon általános ápolói okleveleket, amelyeket a volt Jugoszlávia bocsátott ki, vagy amelyek esetében az érintettek a képzést
 
-## A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Szlovénia területén.
+## a) Szlovénia esetében 1991. június 25-e előtt,
+
+## b) Horvátország esetében 1991. október 8-a előtt
+
+## a volt Jugoszláviában kezdték meg, amennyiben az érintett tagállam hatóságai tanúsítják, hogy az általános ápolói oklevél az általános ápolói tevékenység gyakorlásának megkezdése és folytatása tekintetében területükön ugyanolyan jogi érvénnyel bír, mint az általuk kibocsátott, általános ápolói szakterületen szerzett képesítés. Az ilyen okirathoz csatolni kell az ugyanazon hatóságok által kiadott igazolást, amely tanúsítja, hogy területükön az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta az általános ápolói tevékenységet.
 
 ## 9. Feltétel nélkül elismerésre kerül a tagállam által azon tagállami állampolgár részére kiállított általános ápolói oklevél, akinek általános ápolói oklevele nem felel meg az A) pontban említett megnevezéseknek, amennyiben az oklevelet - a tagállam illetékes hatósága vagy szerve által kiadott - olyan igazolás kíséri, amely tanúsítja, hogy az adott oklevelet az európai közösségi jog által meghatározott minimális képzési követelményeknek megfelelő képzés sikeres teljesítését követően állították ki, és az azt kiállító tagállam úgy tekinti őket, mint az e melléklet A) pontjában megnevezett oklevelet, képesítést.
 
@@ -232,4 +236,4 @@
 
 3. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^14]
 
-[^14]: A 3. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § c) pontjával megállapított szöveg.
+[^14]: A 3. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § c) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (3) bekezdése szerint módosított szöveg.

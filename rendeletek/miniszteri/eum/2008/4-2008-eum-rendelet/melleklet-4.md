@@ -312,7 +312,13 @@
 
 ## 8. Feltétel nélkül elismerésre kerül a fogorvosi és szakfogorvosi oklevél azon tagállami állampolgár esetében, akinek a fogorvosi és szakfogorvosi oklevelét 1990. március 11-ét megelőzően a volt Szovjetunióban állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Szovjetunióban kezdődött, amennyiben Litvánia illetékes hatósága tanúsítja, hogy Litvánia területén a fogorvosi és szakfogorvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint a fogorvosi és szakfogorvosi területen szerzett litván képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Litvánia területén.
 
-## 9. Feltétel nélkül elismerésre kerül a fogorvosi és szakfogorvosi oklevél azon tagállami állampolgár esetében, akinek a fogorvosi és szakfogorvosi oklevelét 1991. június 25-ét megelőzően a volt Jugoszláviában állították ki, vagy akinek a képzése ezen időpontot megelőzően a volt Jugoszláviában kezdődött, amennyiben Szlovénia illetékes hatósága tanúsítja, hogy Szlovénia területén a fogorvosi és szakfogorvosi tevékenység megkezdése és gyakorlása tekintetében ez a képesítés ugyanolyan jogi érvénnyel bír, mint a fogorvosi és szakfogorvosi területen szerzett szlovén képesítések. A tanúsítványhoz mellékelni kell az illetékes hatóság által kiadott igazolást, amely tanúsítja, hogy az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a szóban forgó tevékenységet Szlovénia területén.
+## 9. Feltétel nélkül el kell ismerni azon fogorvosi, szakfogorvosi okleveleket, amelyeket a volt Jugoszlávia bocsátott ki, vagy amelyek esetében az érintettek a képzést
+
+## a) Szlovénia esetében 1991. június 25-e előtt,
+
+## b) Horvátország esetében 1991. október 8-a előtt
+
+## a volt Jugoszláviában kezdték meg, amennyiben az érintett tagállam hatóságai tanúsítják, hogy a fogorvosi és szakfogorvosi oklevél a fogorvosi és szakfogorvosi tevékenység gyakorlásának megkezdése és folytatása tekintetében területükön ugyanolyan jogi érvénnyel bír, mint az általuk kibocsátott fogorvosi és szakfogorvosi területen szerzett képesítés. Az ilyen okiratokhoz csatolni kell az ugyanazon hatóságok által kiadott igazolást, amely tanúsítja, hogy területükön az adott tagállami állampolgár az igazolás kiadásának időpontját megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatta a fogorvosi és szakfogorvosi tevékenységet.
 
 ## 10. Feltétel nélkül elismerésre kerül – a tagállam által azon tagállami állampolgár részére kiállított – fogorvosi vagy szakfogorvosi oklevél, akinek fogorvosi vagy szakfogorvosi oklevele nem felel meg az A), B) pontban említett megnevezéseknek, amennyiben az oklevelet a tagállam illetékes hatósága vagy szerve által kiadott olyan igazolás kíséri, amely tanúsítja, hogy az adott fogorvosi vagy szakfogorvosi oklevelet az európai közösségi jog által meghatározott minimális képzési követelményeknek megfelelő képzés sikeres teljesítését követően ítélték oda, és az odaítélő tagállam úgy tekinti őket, mint az A), B) pontban megnevezett oklevelet, képesítést.
 
@@ -354,4 +360,4 @@
 
 4. számú melléklet a 4/2008. (I. 16.) EüM rendelethez[^15]
 
-[^15]: A 4. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § d) pontjával megállapított szöveg.
+[^15]: A 4. számú melléklet a 46/2018. (XII. 19.) EMMI rendelet 1. § d) pontjával megállapított, a 29/2019. (XII. 11.) EMMI rendelet 1. § (4) bekezdése szerint módosított szöveg.
