@@ -8,21 +8,21 @@ ba) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás
 
 bb) a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás,
 
-c) 21. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
+c)[^1] 24. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
 
-d) 40. sora alapján
+d)[^2] 43. sora alapján
 
 da) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
 
 db) a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás,
 
-e) 44. sora alapján
+e)[^3] 47. sora alapján
 
 ea) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
 
 eb) a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás,
 
-f) 27–33. sora alapján
+f)[^4] 29–35. sora alapján
 
 fa) az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás,
 
@@ -56,4 +56,10 @@ hc) kutatás-fejlesztési támogatás,
 
 hd) kis- és középvállalkozásoknak nyújtott innovációs támogatás,
 
-i) 34. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás
+i)[^5] 36. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás
+
+[^1]: A 3. § c) pontja a 8/2019. (XII. 18.) KKM rendelet 1. § a) pont aa) alpontja szerint módosított szöveg.
+[^2]: A 3. § d) pont bevezető szövegrésze a 8/2019. (XII. 18.) KKM rendelet 1. § a) pont ab) alpontja szerint módosított szöveg.
+[^3]: A 3. § e) pont bevezető szövegrésze a 8/2019. (XII. 18.) KKM rendelet 1. § a) pont ac) alpontja szerint módosított szöveg.
+[^4]: A 3. § f) pont bevezető szövegrésze a 8/2019. (XII. 18.) KKM rendelet 1. § a) pont ad) alpontja szerint módosított szöveg.
+[^5]: A 3. § i) pontja a 8/2019. (XII. 18.) KKM rendelet 1. § a) pont ae) alpontja szerint módosított szöveg.
