@@ -2,7 +2,7 @@ A Kormány a Magyar Műszaki és Közlekedési Múzeum (a továbbiakban: Múzeum
 
 1. egyetért azzal, hogy a Múzeum elhelyezésére alkalmas helyszín kialakítására az egykori Északi Járműjavító Diesel-csarnokot is beleértendő területének kulturális célú hasznosításával kerüljön sor (a továbbiakban: Beruházás);
 
-2. a Beruházásnak és az ahhoz kapcsolódó köztéri kapcsolatrendszernek a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés a–f), i–k), m–o) pontjai szerinti előkészítési fázisaira összesen legfeljebb 2 800 000 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2019. december 31. napjáig kell megvalósítani;
+2.[^1] a Beruházásnak és az ahhoz kapcsolódó köztéri kapcsolatrendszernek a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet 2. § (2) bekezdés a–f), i–k), m–o) pontjai szerinti előkészítési fázisaira összesen legfeljebb 2 800 000 000 forint forrást biztosít a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Beruházás Előkészítési Alap alcím terhére azzal, hogy az előkészítési fázisokat legkésőbb 2022. december 31. napjáig kell megvalósítani;
 
 3. a Beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
@@ -28,7 +28,7 @@ Határidő: a 2. pont szerinti határidő lejártát követő 30 napon belül
 
 a) 300 000 000 forint forrás rendelkezésre állásáról a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények címen,
 
-b) 500 000 000 forint forrás rendelkezésre állásáról 2019-ben a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében;
+b)[^2] 500 000 000 forint forrás rendelkezésre állásáról 2019-ben a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében, azzal, hogy a biztosított forrás terhére teljesíthető kifizetések határideje 2020. június 30.;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -71,3 +71,6 @@ Felelős: nemzeti fejlesztési miniszter
 emberi erőforrások minisztere
 
 Határidő: a 8. pont e) alpontjában meghatározott feladat végrehajtását, valamint a szükséges forrás rendelkezésre állását követően
+
+[^1]: A 2. pont az 1751/2019. (XII. 19.) Korm. határozat a) pontja szerint módosított szöveg.
+[^2]: A 7. pont b) alpont az 1751/2019. (XII. 19.) Korm. határozat b) pontja szerint módosított szöveg.
