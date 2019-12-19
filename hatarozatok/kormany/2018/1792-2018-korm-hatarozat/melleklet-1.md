@@ -34,26 +34,11 @@
 
 ## Határidő: a 2019. évi költségvetés végrehajtása során, a felmerülés ütemében
 
-## 7. felhívja a pénzügyminisztert, hogy a Magyar Falu Program részeként ütemezetten megvalósuló útfelújítások előkészítésének finanszírozása érdekében az innovációért és technológiáért felelős miniszter, a Miniszterelnökséget vezető miniszter és a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával gondoskodjon 2 500 000 000 forint rendelkezésre állásáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XI. Miniszterelnökség fejezetben;
+## 7.[^1]
 
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Modern Települések Fejlesztéséért felelős kormánybiztos
-
-## Határidő: a 2019. évi költségvetés végrehajtása során, a felmerülés ütemében
-
-## 8. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter és a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával a Magyar Falu Program részeként ütemezetten megvalósuló útfelújítások finanszírozása érdekében a 2020. évre gondoskodjon 50 000 000 000 forint rendelkezésre állásáról a XVII. Innovációs és Technológiai Minisztérium fejezet javára.
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Modern Települések Fejlesztéséért felelős kormánybiztos
-
-## Határidő: a 2020. évi költségvetés tervezése során
+## 8.[^2] egyetért a Magyar Falu Program részeként ütemezetten megvalósuló útfelújítások finanszírozása érdekében a 2020. évben 50 000 000 000 forint rendelkezésre állásával a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 41. Magyar Falu Program jogcímcsoport, 1. Falusi Útalap jogcímen.
 
 1. melléklet az 1792/2018. (XII. 21.) Korm. határozathoz
+
+[^1]: A 7. pontot az 1738/2019. (XII. 19.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 8. pont az 1738/2019. (XII. 19.) Korm. határozat 2. pontjával megállapított szöveg.
