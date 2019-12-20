@@ -1,1 +1,3 @@
-## „a) közreműködik az ágazat NATO válságkezelési gyakorlatokon és egyéb honvédelmi gyakorlatokon történő részvételében, valamint a befogadó nemzeti támogatással kapcsolatos feladatainak végrehajtásában, és”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

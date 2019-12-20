@@ -1,7 +1,3 @@
-## lép.
+## 4. §[^5]
 
-## 5. § Hatályát veszti az R.
-
-a) 5. § (2) bekezdésében a „ , személyi és anyagi erőforrásokra is kiterjedő” szövegrész,
-
-b) 1. melléklete.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
