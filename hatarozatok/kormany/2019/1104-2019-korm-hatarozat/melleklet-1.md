@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 4 508 294 440 forint egyszeri átcsoportosítását rendeli el – elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel – a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## a)[^1] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 4 508 294 440 forint egyszeri átcsoportosítását rendeli el – elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel – a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -22,7 +22,7 @@
 
 ## a Magyar Tudományos Akadémia elnöke
 
-## Határidő: 2019. december 31.
+## Határidő: 2019. december 31., a Turisztikai fejlesztési célelőirányzat jogcímcsoport javára átcsoportosított 1 493 465 000 forintból 990 000 000 forint tekintetében 2021. február 15.
 
 ## b) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 42. Alapok támogatása címet az 5. Nemzeti Kutatási, Fejlesztési és Innovációs Alap támogatása alcímmel egészíti ki;
 
@@ -72,29 +72,30 @@
 
 ## Határidő: a 2020. évi központi költségvetés tervezése során
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
-## 5.[^4]
+## 5.[^5]
 
-## 6.[^5]
+## 6.[^6]
 
-## 7.[^6]
+## 7.[^7]
 
-## 8.[^7]
+## 8.[^8]
 
-## 9.[^8]
+## 9.[^9]
 
 1. melléklet az 1104/2019. (III. 8.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1755/2019. (XII. 20.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
