@@ -1,0 +1,3 @@
+46. § A Get. 78. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A szüneteltetés kezdő időpontját és előrelátható időtartamát, valamint a szükséges biztonsági intézkedéseket az üzletszabályzatban rögzített módon, de legalább 15 nappal – tervszerű megelőző karbantartás esetén legalább 3 hónappal, szállítási rendszerüzemeltető karbantartási, felújítási és fejlesztési feladatai esetén legalább 42 nappal – korábban a felhasználókkal és az érintett engedélyesekkel közölni kell. Az Üzemi és Kereskedelmi Szabályzat meghatározott felhasználói körben előzetes egyeztetési kötelezettséget írhat elő. A rendszerhasználókkal és a felhasználókkal történő előzetes egyeztetés szabályait az Üzemi és Kereskedelmi Szabályzat tartalmazza.”
