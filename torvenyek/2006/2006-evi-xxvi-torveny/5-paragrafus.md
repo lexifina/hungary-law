@@ -1,6 +1,6 @@
 ## A biztonsági készlet felhasználása
 
-5. § (1) A miniszter a földgáz biztonsági készlet felhasználását – a földgázellátásról szóló törvény szerint a földgázellátási válsághelyzet esetére létrehozott bizottság kezdeményezésére – a földgázellátási válsághelyzet kihirdetése esetén rendeletben engedélyezi.
+5. § (1) A miniszter a földgáz biztonsági készlet felhasználását földgázellátási válsághelyzet elrendelése vagy üzemzavar esetén rendeletben teszi lehetővé.
 
 (2) A miniszter a biztonsági készlet felhasználására vonatkozó rendeletben meghatározza:
 
@@ -8,7 +8,9 @@ a) a felhasználás engedélyezésének okát és célját,
 
 b) a felhasználásra engedélyezett földgáz mennyiségét,
 
-c) a felhasznált készletek visszapótlásának rendjét.
+c) a felhasznált készletek visszapótlásának rendjét,
+
+d) az igénybevételre jogosultak körét.
 
 (3) A felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket a miniszter rendeletben állapítja meg. Az árat és az áralkalmazási feltételeket úgy kell megállapítani, hogy az megfeleljen
 
@@ -17,6 +19,8 @@ a) a földgáz biztonsági készlet átlagos értéke vagy
 b) a földgáz egyetemes szolgáltatásához kapcsolódó árszabályozás kereteiről szóló mindenkor hatályos miniszteri rendeletben szereplő, a földgáz aktuális árát meghatározó képlet alapján az adott naptári negyedévben számolt ára
 
 közül az eladáskori magasabb értéknek.
+
+(3a) A 3. § (5) bekezdés c) pontja szerinti célból történő készletfelhasználás esetén a (3) bekezdés szerint meghatározott érték harmincszorosát kell megállapítani.
 
 (4) A miniszter a biztonsági készletből történő felhasználás engedélyezése esetén haladéktalanul tájékoztatja a Kormányt és az Európai Bizottságot
 

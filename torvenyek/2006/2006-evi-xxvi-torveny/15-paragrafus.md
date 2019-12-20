@@ -1,3 +1,3 @@
 ## Módosuló jogszabályok
 
-15–34. §
+### 15. §

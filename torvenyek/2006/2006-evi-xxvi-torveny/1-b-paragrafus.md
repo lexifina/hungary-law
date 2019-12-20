@@ -1,0 +1,1 @@
+1/B. § Az e törvényben nem meghatározott fogalmakat a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.), valamint a bányászatról szóló 1993. évi XLVIII. törvény rendelkezéseivel összhangban kell értelmezni.

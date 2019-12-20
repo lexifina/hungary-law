@@ -12,9 +12,9 @@
 
 (7)
 
-(8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a földgázellátásról szóló 2008. évi XL. törvény szerint földgáz kereskedelemnek.
+(8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a Get. szerint földgáz kereskedelemnek.
 
-(9) A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) földgáztárolásra és engedélyezésre vonatkozó rendelkezéseit e törvény szerinti eltéréssel kell alkalmazni a földgáz biztonsági készletre a földgáz biztonsági tárolás és a biztonsági földgáz tárolói engedély tekintetében. A biztonsági földgáz tárolóban elhelyezett a földgáz biztonsági készletet meghaladó földgáz készletre a Get. földgáz tárolásra és engedélyezésre vonatkozó szabályait kell alkalmazni.
+(9) A Get. földgáztárolásra és engedélyezésre vonatkozó rendelkezéseit e törvény szerinti eltéréssel kell alkalmazni a földgáz biztonsági készletre a földgáz biztonsági tárolás és a biztonsági földgáz tárolói engedély tekintetében. A biztonsági földgáz tárolóban elhelyezett a földgáz biztonsági készletet meghaladó földgáz készletre a Get. földgáz tárolásra és engedélyezésre vonatkozó szabályait kell alkalmazni.
 
 (10) A földgáz biztonsági készlethez szabad hozzáféréssel kizárólag csak a jogszabályban meghatározottak és csak a jogszabályban meghatározott feltételek fennállása esetén és idején rendelkeznek.
 
