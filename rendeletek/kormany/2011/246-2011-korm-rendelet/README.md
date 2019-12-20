@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-246-20-
 | 2014-06-30 | 2011-246-20-22.3 | 156/2014. (VI. 30.) Korm. rendelet |
 | 2018-01-01 | 2011-246-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-03-01 | 2011-246-20-22.5 | 27/2018. (II. 28.) Korm. rendelet |
+| 2019-12-20 | 2011-246-20-22.6 | 289/2019. (XII. 5.) Korm. rendelet |

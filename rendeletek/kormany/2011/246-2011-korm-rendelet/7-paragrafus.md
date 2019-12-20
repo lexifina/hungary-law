@@ -18,7 +18,10 @@ c) a korlátozások meghatározásánál figyelembe vett környezeti körülmén
 
 (7) Az (5)–(6) bekezdés szerinti eljárásban a biztonsági övezetet kijelölő szerv, valamint a nukleáris létesítmény és a radioaktívhulladék-tároló engedélyese ügyfélnek minősül.
 
+(8)[^11] A nukleáris létesítmény vagy radioaktívhulladék-tároló engedélyese köteles a biztonsági övezetében – ideértve az engedélyestől eltérő természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet tulajdonában álló ingatlant (a továbbiakban: idegen ingatlan) is – végzett tevékenységekről tájékozódni, és azok biztonságra gyakorolt hatásait értékelni. Az idegen ingatlan tulajdonosa köteles az ingatlanán végzett tevékenységekről az engedélyesnek tájékoztatást adni.
+
 [^7]: A 7. § (1) bekezdés a) pontja a 27/2018. (II. 28.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
 [^8]: A 7. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
 [^9]: A 7. § (3) bekezdése a 156/2014. (VI. 30.) Korm. rendelet 3. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^10]: A 7. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^11]: A 7. § (8) bekezdését a 289/2019. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
