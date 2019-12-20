@@ -18,4 +18,10 @@ d) a beadvány nem minősül indítványnak, vagy
 
 e) az indítvány nyilvánvalóan alaptalan.
 
+(4a) Közhatalmat gyakorló indítványozó hatásköre korlátozását kifogásoló indítványának érdemi elbírálására csak akkor kerül sor, ha a támadott döntés az indítványozó
+
+a) működésének súlyos zavarát eredményezi, vagy
+
+b) valamely, Alaptörvényben foglalt hatáskörét sérti.
+
 (5) Az Alkotmánybíróságnak az indítvány érdemi vizsgálat nélküli visszautasításáról szóló döntését – a főtitkár javaslatára – az Alkotmánybíróság egyesbíróként eljárva hozza meg.
