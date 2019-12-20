@@ -136,6 +136,8 @@ az irányadók.
 
 (2f) A klímavédelemért felelős hatóság az e törvényben meghatározott feladatai ellátásához a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 19. § (2) bekezdés d) pontja alapján a nyilvántartásból a gépjármű, annak tulajdonosa, valamint üzemben tartója adataira vonatkozóan a Kknyt. 9. § (1)–(1b) bekezdésben, a Kknyt. 9. § (2) bekezdés a), d–f) pontjában, a Kknyt. 9. § (3) és (4) bekezdésében és 9/D. §-ban meghatározott adatok részére történő továbbítását kérheti.
 
+(2g) A klímavédelemért felelős hatóság megkeresésére a Nemzeti Adó- és Vámhivatal megküldi a vámtitkot képező adatot, ha az az ügyfél személyének vagy a vámhatósági eljárásban érintett anyagok, keverékek azonosításához vagy a klímavédelemért felelős hatóság engedélyezési, ellenőrzési, felügyeleti és nyilvántartási feladatának ellátásához szükséges.
+
 (3)
 
 (3a)
