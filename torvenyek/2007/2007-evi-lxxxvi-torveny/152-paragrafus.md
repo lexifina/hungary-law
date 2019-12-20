@@ -2,4 +2,4 @@
 
 (1a) A rendszeres és rendkívüli adatszolgáltatásra kötelezett a tevékenységének megkezdése előtt vagy annak szüneteltetése alatt a Hivatal részére teljesítendő adatszolgáltatási kötelezettség alól a Hivatal elnökének rendeletében meghatározottak szerint mentességet kaphat.
 
-(2) Az átviteli rendszerirányító, a termelő és a villamosenergia-kereskedő köteles az Európai Bizottság és az Ügynökség rendelkezésére bocsátani az átviteli rendszerirányító szétválasztási szabályoknak való megfelelésével kapcsolatban kért információkat.
+(2) Az átviteli rendszerirányító, a termelő és a villamosenergia-kereskedő köteles az Európai Bizottság és az ACER rendelkezésére bocsátani az átviteli rendszerirányító szétválasztási szabályoknak való megfelelésével kapcsolatban kért információkat.

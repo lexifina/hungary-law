@@ -12,4 +12,4 @@
 
 (5) Háztartási méretű kiserőmű felhasználási helyenként csak egy csatlakozási pontra létesíthető.
 
-(6) A hálózathoz való hozzáférés részletes műszaki és egyéb szabályairól, valamint a hálózati kapacitásadatok közzétételének rendjéről a 714/2009/EK rendelet felhatalmazása alapján kiadott európai bizottsági rendelet és a villamosenergia-ellátási szabályzatok rendelkeznek.
+(6) A hálózathoz való hozzáférés részletes műszaki és egyéb szabályairól, valamint a hálózati kapacitásadatok közzétételének rendjéről a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendelet és a villamosenergia-ellátási szabályzatok rendelkeznek.

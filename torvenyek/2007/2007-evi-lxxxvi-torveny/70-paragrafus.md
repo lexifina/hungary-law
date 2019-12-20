@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdésben meghatározott egyeztetés eljárási szabályai a villamosenergia-ellátási szabályzatok részét képezik.
 
-(4) A villamosenergia-ellátási szabályzatokat és azok módosításait a Hivatal hagyja jóvá, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja.
+(4) A villamosenergia-ellátási szabályzatokat és azok módosításait – a nemzetközi üzemi és kereskedelmi szabályzat részét képező, a 2019/942/EU rendelet rendelkezéseinek megfelelően jóváhagyott feltételek és módszertanok kivételével – a Hivatal hagyja jóvá, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja.
 
 (5) Az üzemi szabályzat, a kereskedelmi szabályzat és az elosztói szabályzat rendelkezései nem lehetnek ellentétesek a nemzetközi üzemi és kereskedelmi szabályzat rendelkezéseivel.
 

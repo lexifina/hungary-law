@@ -6,7 +6,7 @@
 
 3. jóváhagyja a villamosenergia-ellátási szabályzatokat, a szervezett villamosenergia-piaci szabályzatot, valamint azok módosítását, illetve e törvényben meghatározott esetekben hivatalból módosítja, vagy visszavonja azokat,
 
-4. ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, 714/2009/EK rendeletben, valamint az annak felhatalmazása alapján kiadott európai bizottsági rendeletben, a Hivatal által kiadott határozatokban, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatokban meghatározott kötelezettségek betartását,
+4. ellenőrzi az e törvényben, a végrehajtására kiadott jogszabályokban, a vonatkozó uniós jogi aktusokban, a Hivatal által kiadott határozatokban, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatokban meghatározott kötelezettségek betartását,
 
 5. rendeletben határozza meg az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a rendszerhasználati díjak mértékét,
 
@@ -34,7 +34,7 @@
 
 16.
 
-17. végrehajtja a 714/2009/EK rendelet 19. cikkében meghatározott feladatokat,
+17.
 
 18. a jogalkalmazási gyakorlatának alapjait ismertető, kötelező erővel nem rendelkező ajánlást adhat ki.
 
@@ -96,14 +96,14 @@ f) részt vesz és megállapodik a 2015/1222/EU bizottsági rendelet 32. cikk (4
 
 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról,
 
-4. elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
+4. elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
 
 (6) A Hivatal az adatszolgáltatással kapcsolatos feladatai körében:
 
 1. eleget tesz a jogszabályban meghatározott adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének,
 
-2. végrehajtja a 714/2009/EK rendelet 20. cikkében meghatározott feladatokat, és
+2. végrehajtja a 2019/943/EU rendelet 65. cikkében meghatározott feladatokat, és
 
-3. éves jelentést készít az Ügynökség és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
+3. éves jelentést készít az ACER és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
 
 (7) A Hivatal egyéb feladatai körében ellátja az energiapolitikáért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésével kapcsolatos feladatokat.

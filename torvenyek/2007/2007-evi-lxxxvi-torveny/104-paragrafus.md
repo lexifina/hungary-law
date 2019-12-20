@@ -10,7 +10,7 @@ c) meg kell felelnie a Hivatal által jóváhagyott hálózatfejlesztési tervne
 
 d) a kizárólag adminisztratív és informatikai szolgáltatások kivételével nem vehet igénybe harmadik személyektől olyan szolgáltatásokat, amelyeket a harmadik személyek az átviteli hálózat tulajdonosa számára is nyújtanak; és
 
-e) alkalmas a 714/2009/EK rendeletben az átviteli rendszerüzemeltetőkre előírt kötelezettségek teljesítésére.
+e) alkalmas a 2019/943/EU rendeletben az átviteli rendszerüzemeltetőkre előírt kötelezettségek teljesítésére.
 
 (1a) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – az (1) bekezdés b) pontjában foglaltakra figyelemmel – az átviteli rendszerüzemeltetővel a Vhr.-ben meghatározottak szerint szerződést köt.
 

@@ -16,13 +16,9 @@ a) a villamos energia határokon keresztül történő kereskedelme esetén alka
 
 b) 16. § p) pontja az átvitelirendszer-üzemeltetők közötti ellentételezések mechanizmusára és az átviteli díjak szabályozásának közös elveire vonatkozó iránymutatás megállapításáról szóló 2010. szeptember 23-i, 838/2010/EU európai bizottsági rendelet,
 
-c) az Energiaszabályozók Együttműködési Ügynökségéről szóló, 2009. július 13-i, 713/2009/EK európai parlamenti és tanácsi rendelet, és
+c) a villamosenergia-ágazati kockázatokra való felkészülésről és a 2005/89/EK irányelv hatályon kívül helyezéséről szóló, 2019. június 5-i 2019/941/EU európai parlamenti és tanácsi rendelet,
 
-d) 170. § (1) bekezdés 26. pontja
-
-da) az Európai Unión belüli energiaipari infrastruktúrát érintő beruházási projekteknek a Bizottság részére való bejelentéséről, a 617/2010/EU, Euratom tanácsi rendelet felváltásáról és a 736/96/EK parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló 2014. február 26-i, 256/2014/EU rendelet,
-
-db) a 256/2014/EU európai parlamenti és tanácsi rendelet 3. és 5. cikke szerinti adatközlés formájáról és egyéb technikai részleteiről, valamint a 2386/96/EK és a 833/2010/EU, Euratom bizottsági rendelet hatályon kívül helyezéséről szóló 2014. október 16-i, 1113/2014/EU európai bizottsági végrehajtási rendelet
+d) az Energiaszabályozók Európai Uniós Együttműködési Ügynökségének létrehozásáról szóló, 2019. június 5-i 2019/942/EU európai parlamenti és tanácsi rendelet,
 
 e) a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet,
 
@@ -33,11 +29,3 @@ g) az európai statisztikákról és a titoktartási kötelezettség hatálya al
 h) a termelőegységek hálózati csatlakozási követelményeire vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2016. április 14-i 2016/631/EU bizottsági rendelet,
 
 i) a felhasználók csatlakozására vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2016. augusztus 17-i 2016/1388/EU bizottsági rendelet,
-
-j) a nagyfeszültségű egyenáramú rendszerek és az egyenáram-csatlakozású erőműparkok hálózati csatlakozási követelményeire vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2016. augusztus 26-i 2016/1447/EU bizottsági rendelet,
-
-k) a villamosenergia-átviteli hálózat üzemeltetésére vonatkozó iránymutatás megalkotásáról szóló, 2017. augusztus 2-i (EU) 2017/1485 bizottsági rendelet,
-
-l) a villamos energia kiegyenlítő szabályozására vonatkozó iránymutatás létrehozásáról szóló, 2017. november 23-i (EU) 2017/2195 bizottsági rendelet,
-
-m) a villamosenergia-vészhelyzet kezelésére és a rendszer működésének helyreállítására irányuló üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2017. november 24-i (EU) 2017/2196 bizottsági rendelet

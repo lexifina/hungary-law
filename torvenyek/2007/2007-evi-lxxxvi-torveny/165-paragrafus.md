@@ -4,13 +4,13 @@ a) az Európai Bizottság,
 
 b) az Energia Közösség Szabályozó Testülete és
 
-c) az Ügynökség.
+c) az ACER.
 
-(2) Amennyiben az Ügynökség a 713/2009/EK rendelet 7. cikk (1) bekezdésében, 8. cikkében vagy 9. cikk (1) bekezdésében meghatározott esetben a Hivatal hatáskörében jár el, úgy az Ügynökség határozatának végrehajtásáról a Hivatal gondoskodik.
+(2) Ha az ACER a Hivatal hatáskörében jár el, úgy az ACER határozatának végrehajtásáról a Hivatal gondoskodik.
 
-(3) A Hivatal az Ügynökség minden – a Hivatalra vonatkozó 713/2009/EK rendelet szerinti – kötelező erejű határozatát végrehajtja.
+(3) A Hivatal az ACER minden – a Hivatalra vonatkozó 2019/942/EU rendelet szerinti – kötelező erejű határozatát végrehajtja.
 
-(4) A Hivatal együttműködik és szükség esetén információt cserél külföldi szabályozó hatósággal és az Ügynökséggel
+(4) A Hivatal együttműködik és szükség esetén információt cserél külföldi szabályozó hatósággal és az ACER-rel
 
 a) a határokon átnyúló ügyekben vagy
 
@@ -24,7 +24,7 @@ b) a határkeresztező kapacitásallokáció és a közös szervezett villamosen
 
 c) a régión belüli és a régiók közötti tényleges verseny kialakulásához és az ellátásbiztonságának fokozásához szükséges megfelelő rendszerösszekötő kapacitás minimális szintje biztosításának előmozdítása, többek között új összekapcsolások révén, a tagállamok villamosenergia-kereskedőinek megkülönböztetése nélkül,
 
-d) az átviteli rendszerirányítókra és az egyéb piaci szereplőkre vonatkozó valamennyi, 714/2009/EK rendelet 8. cikkének (5)–(6) bekezdésében meghatározott szabályzat kidolgozásának összehangolása,
+d) az átviteli rendszerirányítókra és az egyéb piaci szereplőkre vonatkozó, a 714/2009/EK rendelet és a 2019/943/EU rendelet felhatalmazása alapján kiadott európai bizottsági rendeletben meghatározott szabályzatok kidolgozásának összehangolása,
 
 e) a szűk keresztmetszetek kezelésére vonatkozó szabályok átviteli rendszerirányítók általi kidolgozásának összehangolása,
 

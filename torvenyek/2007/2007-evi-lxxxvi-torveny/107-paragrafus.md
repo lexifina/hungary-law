@@ -2,7 +2,7 @@
 
 107. § (1) A Hivatal jelentős piaci erő eljárást folytat le, ha olyan körülmény jut a tudomására, amely arra utal, hogy a verseny valamely piacon azért nem kellően hatékony, mert az adott piacon egy vagy több piaci szereplő olyan piaci erőfölénnyel bír, vagy a piaci folyamatok alapján a jövőben olyan piaci erőfölénnyel bírhat, amely alkalmas a versenyt akadályozó, korlátozó vagy torzító magatartás kifejtésére.
 
-(2) A Hivatal a lefolytatott jelentős piaci erő eljárás alapján a jelentős piaci erővel rendelkező engedélyesre vagy az érintett piac valamennyi engedélyesére olyan indokolt és arányos mértékű kötelezettséget szab ki, amely előmozdítja a hatékony verseny kialakulását és fenntartását. Ilyen kötelezettség lehet különösen:
+(2) A Hivatal a lefolytatott jelentős piaci erő eljárás alapján a jelentős piaci erővel rendelkező engedélyesre vagy az érintett piac egészére tekintettel az általa azonosított piacműködtetőre olyan indokolt és arányos mértékű kötelezettséget szab ki, amely előmozdítja a hatékony verseny kialakulását és fenntartását. Ilyen kötelezettség lehet különösen:
 
 a) nyilvános és átlátható módon történő értékesítésnek;
 

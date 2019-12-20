@@ -138,7 +138,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 47. Nemzeti Cselekvési Terv: a közlekedésben, a villamosenergia-fogyasztásban, a fűtésben és hűtésben felhasznált, megújuló energiaforrásokból előállított energia 2020-as részarányaira vonatkozó – az energiahatékonysággal kapcsolatos egyéb intézkedéseknek a végső energiafogyasztásra gyakorolt hatásait figyelembe vevő – a Magyarországra érvényes célértékeket, és az e célértékek elérésére alkalmas, foganatosítandó intézkedéseket tartalmazó terv;
 
-47a. nemzetközi üzemi és kereskedelmi szabályzat: a 714/2009/EK rendelet alapján kiadott európai bizottsági rendeletek szerint jóváhagyott feltételeket és módszertanokat tartalmazó szabályzat;
+47a. nemzetközi üzemi és kereskedelmi szabályzat: a 714/2009/EK rendelet és a 2019/943/EU rendelet alapján kiadott európai bizottsági rendeletek szerint jóváhagyott feltételeket és módszertanokat tartalmazó szabályzat;
 
 48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik Magyarország területén működik;
 

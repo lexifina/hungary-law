@@ -8,7 +8,7 @@
 
 a) a 0,5 MW és az ezt meghaladó névleges teljesítőképességű kiserőmű létesítése, villamosenergia-termelése, valamint a villamos energia termelésének megszüntetése,
 
-b) az 50 MW és az ezt meghaladó névleges teljesítőképességű erőmű létesítése, villamosenergia-termelése, valamint az erőmű jogszabályban meghatározott módon történő bővítése, névleges teljesítőképességének növelése, illetve csökkentése, villamosenergia-termelésének szüneteltetése, villamosenergia-termelés újbóli folytatása megszüntetése, továbbá ha a kiserőmű bővítését vagy névleges teljesítőképességének növelését követően az erőművi névleges teljesítőképesség eléri, vagy meghaladja az 50 MW-ot, a kiserőmű bővítése, a névleges teljesítőképesség növelése és a termelői működési engedéllyel való villamosenergia-termelése,
+b) az 50 MW és az ezt meghaladó névleges teljesítőképességű erőmű létesítése, villamosenergia-termelése, valamint az erőmű jogszabályban meghatározott módon történő bővítése, névleges teljesítőképességének növelése, illetve csökkentése, villamosenergia-termelésének szüneteltetése, villamosenergia-termelés újbóli folytatása vagy megszüntetése, továbbá ha a kiserőmű bővítését vagy névleges teljesítőképességének növelését követően az erőművi névleges teljesítőképesség eléri, vagy meghaladja az 50 MW-ot, a kiserőmű bővítése, a névleges teljesítőképesség növelése és a termelői működési engedéllyel való villamosenergia-termelése,
 
 c) az átviteli rendszerirányítás,
 

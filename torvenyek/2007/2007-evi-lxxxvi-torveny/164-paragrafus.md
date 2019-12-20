@@ -8,6 +8,6 @@ a) az engedélyköteles tevékenységet folytató energiaipari vállalkozások m
 
 b) a Hivatal által hozott határozatok (különösen döntések, intézkedések, szankciók) megalapozásához.
 
-(3) A Hivatal az Európai Bizottságnak, az Ügynökségnek vagy az Energia Közösség Szabályozó Testületének kérésére jogosult rendelkezésre bocsátani a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos információkat, adatokat.
+(3) A Hivatal az Európai Bizottságnak, az ACER-nek vagy az Energia Közösség Szabályozó Testületének kérésére jogosult rendelkezésre bocsátani a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos információkat, adatokat.
 
-(4) A Hivatal az Ügynökség és a külföldi szabályozó hatóság kérésére, a 2009/72/EK irányelv szerinti feladataik ellátásához szükséges, személyes adatnak nem minősülő adatokat jogosult rendelkezésre bocsátani, és ezektől a szervezetektől a feladatai ellátásához szükséges adatokat, információkat kérhet.
+(4) A Hivatal a külföldi szabályozó hatóság kérésére, a 2019/944/EU irányelv szerinti feladata ellátásához szükséges, személyes adatnak nem minősülő adatokat jogosult rendelkezésre bocsátani. A Hivatal ezektől a szervezetektől a feladatai ellátásához szükséges adatokat, információkat kérhet.

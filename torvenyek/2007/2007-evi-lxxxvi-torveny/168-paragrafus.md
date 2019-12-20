@@ -8,7 +8,7 @@ a) korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 30 nap,
 
 b) jelentős piaci erő eljárásban 8 hónap,
 
-c) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára 4 hónap, majd az eljárás felfüggesztését és az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének leteltét követően a határozat közzétételére vagy annak módosítására további, a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam,
+c) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára 4 hónap, majd az eljárás felfüggesztését és az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 2019/943/EU rendelet 51. cikk (1) bekezdésében meghatározott eljárási határidejének leteltét követően a határozat közzétételére vagy annak módosítására további, a 2019/943/EU rendelet 51. cikk (2) bekezdésében meghatározott időtartam,
 
 d) a 39/E. § (2) bekezdése szerinti eljárásban 30 nap,
 
@@ -22,7 +22,9 @@ h) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az
 
 i) az átviteli rendszerüzemeltetők és a kijelölt villamosenergiapiac-üzemeltetők által kialakított feltételek és módszertanok jóváhagyása esetében a 2015/1222/EU bizottsági rendeletben meghatározott időtartam,
 
-j) az e törvény hatálya alá tartozó panaszeljárásban 55 nap.
+j) az e törvény hatálya alá tartozó panaszeljárásban 55 nap,
+
+k) a közvetlenül alkalmazandó Európai Uniós jogi aktusokban meghatározott és a Hivatal hatáskörébe tartozó eltérés engedélyezésére irányuló eljárásban 4 hónap.
 
 (3) Közigazgatási perben a Hivatal megtámadott határozata vonatkozásában a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a határozat
 

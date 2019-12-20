@@ -10,6 +10,6 @@ a) Magyarország területén valósul meg, vagy
 
 b) külföldön valósul meg, de hatása Magyarország területén érvényesülhet.
 
-(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és az Ügynökség által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
+(2) Az e fejezetben használt fogalmakat a 3. §, az 1227/2011/EU európai parlamenti és tanácsi rendelet, valamint az 1227/2011/EU európai parlamenti és tanácsi rendelet alapján kiadott általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusok, európai uniós jogi rendelkezések és az ACER által kiadott kötelező erejű rendelkezések szerint kell értelmezni.
 
 (3) Az e fejezet alapján lefolytatott eljárások nem érintik az e törvény szerinti engedély megszegésével, illetve az e törvény szerinti engedélyköteles tevékenység engedély nélküli végzésével kapcsolatos egyéb eljárásokat.
