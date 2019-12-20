@@ -64,7 +64,9 @@
 
 | 30 | Szállítmányozási, raktározási, ipari és logisztikai telephelybővítő beruházás Budapest XXIII. kerület és Dunaharaszti területén | A Dunaharaszti közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 7600/3 és külterület 021/4 helyrajzi számú, valamint a Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XXIII. kerület külterület 0196373/7 és 0196375 helyrajzi számú ingatlanok. | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^55]
+| 31. | Záhony térség fejlesztésére irányuló logisztikai és ipari beruházások | Záhony közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/14, 048/19, 048/21, 048/22, 048/26, 048/30, 048/35, valamint belterület 600/9 helyrajzi számú ingatlanok; Fényeslitke közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 027/13 és 027/22 helyrajzi számú ingatlanok; Komoró közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 248/4 helyrajzi számú ingatlan; Tiszabezdéd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 078 helyrajzi számú ingatlan; Tuzsér közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 072 és 0141/2 helyrajzi számú ingatlanok. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^57]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -244,4 +246,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^55]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^57]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
