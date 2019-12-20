@@ -8,4 +8,7 @@
 
 (4) A kiemelt nemzeti emlékhely területén építési és egyéb tevékenység a kézikönyvben foglalt részletes településképi követelményekkel összhangban végezhető.
 
+(5)[^8] Az Országház homlokzati címergalériájában a címertáblák az eredeti címertáblákhoz méretben és anyaghasználatban illeszkedő módon, tartalmi változás nélkül és tartalmi változással egyaránt cserélhetők, a címertan alkalmazott szabályai szerint. A (3) és (4) bekezdést ebben az esetben nem kell alkalmazni.
+
 [^7]: A 8. § (1) bekezdése a 85/2019. (IV. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^8]: A 8. § (5) bekezdését a 320/2019. (XII. 19.) Korm. rendelet 2. §-a iktatta be.

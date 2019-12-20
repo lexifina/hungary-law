@@ -1,4 +1,4 @@
-14. §[^19] (1) Üzletjelzés az üzletportállal együtt tervezhető, alakítható ki a homlokzathoz illeszkedő módon.
+14. §[^20] (1) Üzletjelzés az üzletportállal együtt tervezhető, alakítható ki a homlokzathoz illeszkedő módon.
 
 (2) Cégjelzés, üzletjelzés az épületben lévő rendeltetési egységre, az ott végzett tevékenységre vonatkozóan helyezhető el.
 
@@ -14,4 +14,4 @@ b) az épület építészeti részletképzéséhez, építészeti hangsúlyaihoz
 
 (6) Cégjelzés, üzletjelzés, plakát, emléktábla, egyéb berendezés és egyéb műszaki berendezés az épület homlokzati architektúrájába illeszkedően, a kiemelt nemzeti emlékhelynek és környezetének történelmi és műemléki megjelenését, egységes arculatát megőrizve, a kézikönyvben foglalt részletes településképi követelmények, illetve ajánlások alapján tartható fenn, és helyezhető el.
 
-[^19]: A 14. § a 85/2019. (IV. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^20]: A 14. § a 85/2019. (IV. 23.) Korm. rendelet 6. §-ával megállapított szöveg.

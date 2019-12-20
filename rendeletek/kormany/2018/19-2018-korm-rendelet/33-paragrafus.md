@@ -62,6 +62,6 @@ c) a KNEB (8) bekezdés szerinti nyilatkozatát és annak részletes indokolás�
 
 (12) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
 
-(13)[^25] A hatóság a (9) bekezdés szerinti döntését közli a KNEB-bel.
+(13)[^26] A hatóság a (9) bekezdés szerinti döntését közli a KNEB-bel.
 
-[^25]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be.
+[^26]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be.
