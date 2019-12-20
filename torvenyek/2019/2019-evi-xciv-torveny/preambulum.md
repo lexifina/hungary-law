@@ -1,0 +1,1 @@
+Az Országgyűlés a Nemzeti Média- és Hírközlési Hatóság 2018. évi egységes költségvetéséről szóló 2017. évi CXLVIII. törvényben meghatározott költségvetések végrehajtásáról a következő törvényt alkotja.
