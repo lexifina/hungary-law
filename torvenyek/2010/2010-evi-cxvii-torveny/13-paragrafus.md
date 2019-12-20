@@ -20,7 +20,7 @@ h) a kötelező bioüzemanyag-részarány mértékét,
 
 i) az üzemanyag és a bioüzemanyag MJ-ban meghatározott, az e törvényben előírt kötelezettségek tekintetében alkalmazandó energiatartalmát,
 
-j) az üzemanyag-forgalmazó által a kötelező bioüzemanyag-forgalmazási részarány teljesítésével kapcsolatosan benyújtandó jelentésekre, valamint a kapcsolódó nyilvántartásokra, bizonylatolásra vonatkozó részletes szabályokat,
+j) az üzemanyag-forgalmazó által a kötelező bioüzemanyag-forgalmazási részarány teljesítésével kapcsolatosan benyújtandó jelentésekre, valamint a kapcsolódó nyilvántartásokra, bizonylatolásra, továbbá a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére vonatkozó részletes szabályokat,
 
 k) a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére, valamint a bírság kiszabására jogosult hatóságokat,
 

@@ -2,11 +2,13 @@
 
 9. § (1) Az üzemanyag-forgalmazó köteles nyilvántartani az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti tartalommal az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátást.
 
-(2) Az üzemanyag-forgalmazó minden naptári évre vonatkozóan, a tárgyévet követő év március 31-éig jelentést nyújt be az állami adó- és vámhatóságnak:
+(2) Az üzemanyag-forgalmazó minden naptári évre vonatkozóan, a tárgyévet követő év augusztus 31. napjáig jelentést nyújt be az állami adó- és vámhatóságnak:
 
 a) az általa forgalomba hozott üzemanyag és más közlekedésben felhasznált energiatermék tekintetében a forgalomba hozott teljes mennyiségről, a beszerzési helyről és a származás helyéről, valamint
 
 b) az üzemanyagból vagy más közlekedésben felhasznált energiatermékből származó, a teljes életciklusra vonatkozó, energiaegységre számított üvegházhatású gázkibocsátásról.
+
+(2a) Az üzemanyag-forgalmazó a Jöt. szerinti engedélye megszűnése esetén – az engedély megszűnésének napjával – köteles a (2) bekezdés szerinti jelentést elkészíteni, és az engedélye megszűnésének napját követő 12 munkanapon belül az állami adó- és vámhatósághoz benyújtani.
 
 (3) Az állami adó- és vámhatóság az üzemanyag-forgalmazók jelentéseiről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
