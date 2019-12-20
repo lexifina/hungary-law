@@ -8,7 +8,7 @@ c) 53. § (2) bekezdésében a „zavar vagy” szövegrész,
 
 d) 83. § (3a) és (3b) bekezdése,
 
-e) 85. § (2) bekezdésében az „A Hivatal a kérelmet megvizsgálja, és új határkeresztező szállítóvezeték létesítése esetén konzultál az érintett ország(ok) energetikai szabályozó hatóságaival.” szövegrész,
+e)
 
 f) 93. § (1) bekezdés d) pontjában a „fogyasztást érintő” szövegrész,
 
