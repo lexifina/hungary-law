@@ -6,7 +6,19 @@
 
 4. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) az e törvény hatálya alá tartozó és hatáskörébe utalt létesítmények és engedélyesek tekintetében
 
-a) kiadja, módosítja vagy visszavonja a távhőtermelő létesítmény létesítésére vonatkozó engedélyt és a távhőtermelői működési engedélyt, ha a létesítményben a hőenergiát – részben vagy egészben – távhő-szolgáltatási célra termelik, valamint a távhő-szolgáltatói működési engedélyt;
+a) kiadja, módosítja vagy visszavonja
+
+aa) a távhőtermelői létesítési engedélyt,
+
+ab) a távhőtermelői működési engedélyt,
+
+ac) a távhőtermelői tevékenység megszüntetésére vonatkozó engedélyt,
+
+ad) a távhőtermelő létesítmény megszüntetésére vonatkozó engedélyt,
+
+ae) a távhőszolgáltatói működési engedélyt,
+
+af) a távhőszolgáltatói tevékenység megszüntetésére vonatkozó engedélyt;
 
 b) ellenőrzi a távhőtermelő és távhőszolgáltató működési engedélyében előírt követelmények, feltételek betartását, e tekintetben együttműködik a fogyasztóvédelmi hatósággal, továbbá a felhasználói érdekképviseletekkel;
 
@@ -18,9 +30,9 @@ e) ellátja a távhőszolgáltatási támogatással összefüggő, e törvény f
 
 f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a közigazgatás-szervezésért felelős minisztert a hatósági ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról;
 
-g) elvégzi a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
+g) elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
 
-(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
+(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben, valamint a Hivatal egyéb határozatában foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
 (3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a (2) bekezdésben meghatározottaktól eseti és rendszeres információt kérni, jogszabályban vagy hatósági döntésben előírt kötelezettségével, engedélyhez kötött tevékenységével vagy a távhőszolgáltatási támogatással kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
 

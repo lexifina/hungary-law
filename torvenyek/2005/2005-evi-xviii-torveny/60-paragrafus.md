@@ -28,7 +28,9 @@ m) a fűtési célra és a használati melegvíz készítéséhez felhasznált h
 
 n) a folyamatos távhőellátás fenntartása érdekében történő kijelölési eljárásra, a kijelöléssel érintettek jogaira és kötelezettségeire, a kijelölés következtében fizetendő ellenszolgáltatásra és az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat (20. §);
 
-o) a közszolgáltatási szerződés felmondása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit.
+o) a közszolgáltatási szerződés felmondása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit;
+
+p) a cégjogi események és befolyásszerzés engedélyezésének részletes szabályait és a benyújtandó kérelem formai és tartalmi követelményeit.
 
 (2) Az miniszter rendeletben
 

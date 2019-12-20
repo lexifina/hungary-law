@@ -1,4 +1,4 @@
-13. § (1) A létesítési és működési engedély tartalmi követelményeit, az engedélyezési eljárás szabályait és az engedély kiadásának rendjét a kormány e törvény végrehajtásáról szóló rendeletben határozza meg.
+13. § (1) Az engedély tartalmi követelményeit, az engedélyezési eljárás szabályait és az engedély kiadásának rendjét a kormány e törvény végrehajtásáról szóló rendeletben határozza meg.
 
 (2) A Hivatal az engedély kiadását akkor tagadhatja meg, ha:
 

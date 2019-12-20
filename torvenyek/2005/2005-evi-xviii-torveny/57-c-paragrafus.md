@@ -2,9 +2,9 @@
 
 a) a távhőszolgáltató és a távhőtermelő közötti hővásárlási célú,
 
-b) a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közszolgáltatás ellátására kötött, és
+b) a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közszolgáltatás ellátására és az ezzel összefüggésben kötött
 
-c) a távhőszolgáltató és a helyi önkormányzat közötti hőszolgáltatási célú
+c)
 
 megállapodásokat.
 

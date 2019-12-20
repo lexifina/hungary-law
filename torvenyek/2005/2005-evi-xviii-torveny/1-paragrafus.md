@@ -16,7 +16,7 @@ b) a geotermikus energia távhőszolgáltatás céljára történő kitermelés�
 
 c) a (2) bekezdésben felsorolt létesítmények létesítésére és átalakítására a kulturális örökség védelméről szóló 2001. évi LXIV. törvény,
 
-d) az erőművek távhőtermelő létesítményeire a földgázellátásról szóló 2008. évi XL. törvény
+d) az erőművek távhőtermelő létesítményeire a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.)
 
 rendelkezéseivel összhangban kell alkalmazni.
 
@@ -24,6 +24,6 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (5) E törvény rendelkezései – a 4. § (2)–(3) bekezdésében és az 57/F. §-ban foglaltak kivételével – nem alkalmazhatók
 
-a) a saját felhasználási célra hőt termelő létesítményre és
+a) a saját felhasználási célra hőt termelő létesítményre
 
 b)
