@@ -1,0 +1,3 @@
+107. § A Bjt. 42. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A bíró a határozattal szemben 15 napon belül az elsőfokú szolgálati bírósághoz fordulhat. Az elsőfokú szolgálati bíróság a fegyelmi eljárás szabályainak megfelelő alkalmazásával eljárva soron kívül dönt az összeférhetetlenségről. Az összeférhetetlenség megállapítása esetén az elsőfokú szolgálati bíróság határozatot hoz a felmentési ok fennállásáról. Ha az összeférhetetlenség nem áll fenn, erről rendelkezik az elsőfokú szolgálati bíróság a határozatában. Az összeférhetetlenségről hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.”

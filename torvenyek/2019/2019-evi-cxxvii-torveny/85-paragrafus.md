@@ -1,0 +1,3 @@
+85. § A Bszi. 148. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A törvényszéki munkaügyi bírói álláshelyre kiírt pályázat esetén a törvényszék bírói tanácsa 1, az illetékes ítélőtáblai munkaügyi kollégium kollégiumvezetője által kijelölt bíróval egészül ki. A törvényszéken közigazgatási bírói álláshelyre kiírt pályázat esetén a törvényszék bírói tanácsa 2, a Kúria elnöke által kijelölt és a Kúria azonos szakági kollégiumában ítélkező bírójával egészül ki, akik a bírói tanácsnak e feladatait ellátása során a többi taggal azonos jogokkal és kötelezettségekkel rendelkeznek. Az ítélőtáblai munkaügyi bírói álláshelyre kiírt pályázat esetén az ítélőtábla bírói tanácsa 1, a Kúria azonos szakági kollégiumában ítélkező bírójával egészül ki.”
