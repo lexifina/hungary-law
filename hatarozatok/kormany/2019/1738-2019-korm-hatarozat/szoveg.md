@@ -36,10 +36,9 @@ nemzeti vagyon kezeléséért felelős minisztert
 
 Határidő: a felmerülés ütemében
 
-2. A Magyar Falu Program részeként ütemezetten megvalósuló, kistelepüléseket érintő útfelújításokról szóló 1792/2018. (XII. 21.) Korm. határozat [a továbbiakban: 1792/2018. (XII. 21.) Korm. határozat] 8. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„8. egyetért a Magyar Falu Program részeként ütemezetten megvalósuló útfelújítások finanszírozása érdekében a 2020. évben 50 000 000 000 forint rendelkezésre állásával a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 41. Magyar Falu Program jogcímcsoport, 1. Falusi Útalap jogcímen.”
-
-3. A Kormány visszavonja az 1792/2018. (XII. 21.) Korm. határozat 7. pontját.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
