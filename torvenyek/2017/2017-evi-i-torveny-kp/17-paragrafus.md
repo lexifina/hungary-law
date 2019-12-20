@@ -10,4 +10,6 @@ c) az a közigazgatási szerv, amely a megelőző eljárásban hatóságként va
 
 d) törvényben vagy kormányrendeletben meghatározott ügyekben az a civil szervezet, amely a nyilvántartásba vett tevékenységét valamely alapvető jog védelme vagy valamilyen közérdek érvényre juttatása érdekében a közigazgatási tevékenység által érintett földrajzi területen legalább egy éve folytatja, ha a közigazgatási tevékenység nyilvántartásba vett tevékenységét érinti,
 
-e) törvényben meghatározott esetben az általa képviselt tagság, illetve csoport jogos érdekeinek közvetlen sérelme vagy veszélyeztetése esetén azon érdek-képviseleti szervezet vagy köztestület is, amelynek nyilvántartott vagy alapító okiratában rögzített tevékenységét a közigazgatási tevékenység érinti.
+e) törvényben meghatározott esetben az általa képviselt tagság, illetve csoport jogos érdekeinek közvetlen sérelme vagy veszélyeztetése esetén azon érdek-képviseleti szervezet vagy köztestület is, amelynek nyilvántartott vagy alapító okiratában rögzített tevékenységét a közigazgatási tevékenység érinti,
+
+f) a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv vagy az ügyész, ha általános hatályú rendelkezés megsemmisítését indítványozza.

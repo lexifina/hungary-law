@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-1-00-00
 | 2018-01-01 | 2017. évi CXXX. törvény | 2017-1-00-00.1 |
 | 2018-07-26 | 2018. évi XL. törvény | 2017-1-00-00.2 |
 | 2019-01-01 | 2018. évi CXXV. törvény | 2017-1-00-00.3 |
+| 2019-12-20 | 2019. évi CXXVII. törvény | 2017-1-00-00.4 |

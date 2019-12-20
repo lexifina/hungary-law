@@ -1,14 +1,14 @@
 ### 4. § [A közigazgatási jogvita]
 
-(1) A közigazgatási jogvita tárgya a közigazgatási szerv közigazgatási jog által szabályozott, az azzal érintett jogalany jogi helyzetének megváltoztatására irányuló vagy azt eredményező cselekményének, vagy a cselekmény elmulasztásának (a továbbiakban együtt: közigazgatási tevékenység) jogszerűsége.
+(1) A közigazgatási jogvita tárgya a közigazgatási szerv közigazgatási jog által szabályozott, az azzal érintett jogalany jogi helyzetének megváltoztatására irányuló vagy azt eredményező (3) bekezdés szerinti cselekményének, vagy a cselekmény elmulasztásának (a továbbiakban együtt: közigazgatási tevékenység) jogszerűsége.
 
-(2) Közigazgatási jogvita a közszolgálati és a közigazgatási szerződéses jogviszonnyal kapcsolatos jogvita is.
+(2) A vitatott tevékenység akkor lehet közigazgatási jogvita tárgya, ha bármely a közigazgatási tevékenységgel közvetlenül érintett fél a vitatott tevékenységgel szemben jogszabály által biztosított közigazgatási jogorvoslatot kimerítette, vagy a pert jogszabály előírása miatt más közigazgatási eljárás előzte meg.
 
 (3) Közigazgatási cselekmény
 
 a) az egyedi döntés;
 
-b) a hatósági intézkedés;
+b)
 
 c) az egyedi ügyben alkalmazandó – a jogalkotásról szóló törvény hatálya alá nem tartozó – általános hatályú rendelkezés;
 
@@ -22,7 +22,7 @@ b) önállóan valamely közigazgatási cselekmény megvalósítását szolgál�
 
 c) az egymással irányítási vagy vezetési jogviszonyban álló felek között.
 
-(5) Egyedi ügyben alkalmazandó általános hatályú rendelkezés azzal a közigazgatási cselekménnyel együtt lehet közigazgatási jogvita tárgya, amelynek a megvalósítása során azt alkalmazták. Egyedi ügyben alkalmazandó általános hatályú rendelkezés akkor lehet közigazgatási jogvita önálló tárgya, ha a jogsérelem az általános hatályú rendelkezés alkalmazása vagy hatályosulása folytán közvetlenül, közigazgatási cselekmény megvalósítása nélkül következett be.
+(5) Egyedi ügyben alkalmazandó általános hatályú rendelkezés azzal az egyedi döntéssel együtt lehet közigazgatási jogvita tárgya, amelynek a megvalósítása során azt alkalmazták. Egyedi ügyben alkalmazandó általános hatályú rendelkezés akkor lehet közigazgatási jogvita önálló tárgya, ha azt a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv, ennek hiányában az ügyész indítványozza.
 
 (6) A közigazgatási tevékenység felek általi megjelölése a bíróságot nem köti. A bíróság hivatalból annak tartalma szerint veszi figyelembe a közigazgatási tevékenységet, és a megfelelő eljárásban bírálja el.
 
@@ -46,4 +46,4 @@ e) a jogszabály által közigazgatási cselekmény megvalósítására feljogos
 
 4. megelőző eljárás: a jogvita tárgyává tett közigazgatási cselekmény megvalósítására folytatott közigazgatási hatósági vagy jogorvoslati eljárás.
 
-(8) E törvény közigazgatási szervre vonatkozó szabályait a munkáltató szervre, a közigazgatási cselekményre vonatkozó szabályokat a közszolgálati jogviszonnyal kapcsolatos döntésre és intézkedésre alkalmazni kell. A Közszolgálati Döntőbizottság eljárása nem minősül megelőző eljárásnak.
+(8)
