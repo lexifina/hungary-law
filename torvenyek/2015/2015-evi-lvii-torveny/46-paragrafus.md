@@ -8,10 +8,12 @@ c) az energetikai auditorok és energetikai auditáló szervezetek, valamint a t
 
 d) a 22/C. § (1) bekezdésében meghatározott adatszolgáltatásra kötelezettek által szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét,
 
-e) a 23. § (1) és (2) bekezdésében meghatározott adatszolgáltatás keretében szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét,
+e) a 23. § (1) bekezdésében meghatározott adatszolgáltatás keretében szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét,
 
-f) a közreműködő szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját, a szakmai vizsga, a megújító szakmai vizsga és a továbbképzés díjának mértékét,
+f) a közreműködő szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját,
 
-g) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontját
+g) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontját, valamint az almérők alkalmazásával történő mérés minimális követelményeit,
+
+h) az elosztói engedélyesek és a távhőszolgáltatók által a közintézmények energiafogyasztási adatai Hivatal számára történő bejelentésének részletszabályait
 
 rendeletben állapítsa meg.

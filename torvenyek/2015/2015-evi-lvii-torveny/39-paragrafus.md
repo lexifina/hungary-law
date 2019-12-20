@@ -50,6 +50,6 @@ k) a panaszok kezelésének módját.
 
 (11) A Hivatal részéről jóváhagyott szabályzatot a közreműködő szervezetnek honlapján közzé kell tennie és ismertetnie kell a továbbképzés és szakmai vizsga során a résztvevőkkel. A résztvevők a szabályzat megismeréséről írásban nyilatkoznak.
 
-(12) A szakmai vizsga, a megújító szakmai vizsga és a továbbképzés díjának mértékét a Hivatal elnöke rendeletben határozza meg.
+(12)
 
-(13) Ha a közreműködő szervezet a (12) bekezdés szerinti díjtól eltérő díjat alkalmaz, a Hivatal a 37. § (4) bekezdés b) pontja szerint jár el.
+(13)

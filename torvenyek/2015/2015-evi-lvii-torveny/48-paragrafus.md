@@ -24,6 +24,8 @@
 
 (12) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-(13) A Hivatal 2019. december 31-ig nem kezdeményezi bírság kiszabását a 21/B. § (1) bekezdés b) pontja szerinti almérő felszerelésére vonatkozó kötelezettség elmulasztása esetén.
+(13)
 
 (14) Energetikai szakreferens tevékenységét névjegyzékbe vétel nélkül legkésőbb 2019. június 30-ig végezheti.
+
+(15) Az energetikai szakreferens a 21/C. § (1) bekezdése szerinti adatszolgáltatást az egyes energetikai tárgyú jogszabályok jogharmonizációs célú módosításáról szóló 2019. évi ... törvény hatálybalépését követő 30 napon belül a 2019. január 15-én és az adatszolgáltatás időpontjában is fennálló energetikai szakreferensi szolgáltatásra irányuló jogviszonyai tekintetében is köteles teljesíteni.

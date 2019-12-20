@@ -10,7 +10,7 @@ a) a nemzeti energiahatékonysági célkitűzés felé tett előrelépésekről 
 
 b) a Nemzeti Energiahatékonysági Cselekvési Terv kötelező tartalmi elemeit,
 
-c) a nagy hatásfokú kapcsolt energiatermelés, valamint a hatékony távfűtés és hatékony távhűtés megvalósíthatósági potenciálja átfogó értékelésének kötelező tartalmi elemeit,
+c)
 
 d) a nagy hatásfokú kapcsolt energiatermelés, valamint a hatékony távfűtés és a hatékony távhűtés megvalósíthatósági potenciálja átfogó értékeléséhez szükséges országos költség-haszon elemzés kötelező tartalmi elemeit és elkészítésének elveit,
 
@@ -42,6 +42,6 @@ q) az energetikai szakreferens igénybevételére köteles gazdálkodó szerveze
 
 r) a Nemzeti Energetikusi Hálózat irodáit működtető szervezet kijelölését, a Nemzeti Energetikusi Hálózat által alkalmazható, szakmai tanácsadást végző természetes személyek szakmai végzettségére vonatkozó követelményeket, az irodák illetékességi területét, valamint a szakmai tanácsadásra vonatkozó részletes szabályokat,
 
-s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
+s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.

@@ -1,6 +1,6 @@
-26. § (1) A nagyvállalat és az energetikai auditor, valamint energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezet az ellenőrzés során együttműködik az ellenőrzés lefolytatójával. Az együttműködési kötelezettség megsértése esetén a Hivatal ötszázezer forintig terjedő bírságot szabhat ki, amely bírság ismételten kiszabható.
+26. § (1)
 
-(2) Ha az energetikai auditor, valamint az energetikai auditáló szervezet a megbízást nem közvetlenül a nagyvállalattól kapta, az (1) bekezdést a megbízóra is alkalmazni kell.
+(2)
 
 (3) Ha a Hivatal az ellenőrzés eredményeként megállapítja, hogy az energetikai audit nem felel meg a jogszabályban meghatározott feltételeknek, felhívja az energetikai auditort, energetikai auditáló szervezet által végzett auditálás esetében az energetikai auditáló szervezetet a feltárt hibák kijavítására. A feltárt hibát a Hivatal felhívásának kézhezvételétől számított 90 napon belül kell kijavítani.
 
@@ -12,7 +12,7 @@
 
 (7) Ha a nagyvállalat az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal a 25. § szerinti bírsággal, vagy ismételt bírsággal sújthatja és a teljesítésre 30 napos határidőt szab.
 
-(8) A 23. § (3) bekezdésében, a 25. § (1) és (3) bekezdésében, az (1), (4), (6) és (7) bekezdésében meghatározott jogkövetkezmények alkalmazása során az alábbi szempontokat mérlegeli a Hivatal:
+(8) A 23. § (3) bekezdésében, a 25. § (1) és (3) bekezdésében, a (4), (6) és (7) bekezdésében meghatározott jogkövetkezmények alkalmazása során az alábbi szempontokat mérlegeli a Hivatal:
 
 a) a jogsértés súlya;
 

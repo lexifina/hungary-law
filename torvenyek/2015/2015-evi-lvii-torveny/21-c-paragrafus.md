@@ -30,15 +30,15 @@ b) 100 000 forintig terjedő bírságot szabhat ki, amely bírság ismételten k
 
 (9) A Hivatal megkeresésére
 
-a) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 152. § (1) bekezdésében meghatározott kötelezett,
+a) a Vet. 152. § (1) bekezdésében meghatározott kötelezett,
 
-b) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 3. § 15. pontja szerinti engedélyes,
+b) a Get. 3. § 15. pontja szerinti engedélyes,
 
 c) a Get. 125. § (17) bekezdése szerinti kötelezett,
 
 d) a Get. 127. § s) pontjában meghatározott személy,
 
-e) a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 3. § c) pontja szerinti engedélyes
+e) a Tszt. 3. § c) pontja szerinti engedélyes
 
 köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4) bekezdés szerinti feladatának ellátásához szükséges adatot szolgáltatni.
 

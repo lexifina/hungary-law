@@ -2,7 +2,7 @@
 
 37. § (1) A közreműködő szervezet e törvényben meghatározott feladatait a Hivatal közreműködő szervezeti tevékenység végzésére jogosító engedélye (a továbbiakban e § alkalmazásában: engedély) alapján látja el. Az engedély 10 évre szól.
 
-(2) Ha a Hivatal az engedély iránti kérelem alapján megállapítja, hogy a kérelmező eleget tesz az e törvényben, valamint a végrehajtására kiadott kormányrendeletben meghatározott követelményeknek, a kérelmező számára engedélyezi az energetikai auditorok és energetikai auditáló szervezetek regisztrálását. Kérelmező kizárólag köztestület lehet.
+(2) Ha a Hivatal az engedély iránti kérelem alapján megállapítja, hogy a kérelmező eleget tesz az e törvényben, valamint a végrehajtására kiadott kormányrendeletben meghatározott követelményeknek, a kérelmező számára engedélyezi az e törvényben meghatározott közreműködő szervezeti tevékenység folytatását. Kérelmező kizárólag köztestület lehet.
 
 (3) Az engedély iránti kérelemnek tartalmaznia kell a kérelmező szervezet által a Hivatallal történő kapcsolattartásra kijelölt személy családi és utónevét, valamint elérhetőségeit (hivatali címe, telefonszáma, telefaxszáma és elektronikus levélcíme) is.
 

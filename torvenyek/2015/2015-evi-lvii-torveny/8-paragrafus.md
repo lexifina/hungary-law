@@ -24,4 +24,4 @@ a) a hitéleti célra használt épületek,
 
 b) azon műemlék épületek, helyi védelem alatt álló épületek, amelyek esetében az energiahatékonyságra vonatkozó minimumkövetelmények betartása a műemléki vagy a helyi védettséget megalapozó érték elfogadhatatlan mértékű megváltoztatását eredményezné,
 
-c) a fegyveres erők vagy központi kormányzat használatában lévő nemzetvédelmi célt szolgáló épületek.
+c) a fegyveres erők vagy központi kormányzat használatában lévő nemzetvédelmi célt szolgáló épületek, a fegyveres erők vagy a nemzetvédelmi hatóságok egyéb alkalmazottai által használt lakónegyedei vagy irodaépületei kivételével.

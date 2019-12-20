@@ -1,6 +1,6 @@
 ## 5. Az energiaellátás hatékonysága
 
-5. § (1) Az energiaellátás hatékonyságának biztosítása érdekében a nagy hatásfokú kapcsolt energiatermelés és a hatékony távfűtés és távhűtés megvalósíthatósági potenciáljának átfogó értékelését – az e törvény végrehajtására kiadott kormányrendelet szerinti kötelező tartalommal – el kell végezni, és azt az Európai Bizottság kérésére ötévente felül kell vizsgálni.
+5. § (1) Az energiaellátás hatékonyságának biztosítása érdekében a nagy hatásfokú kapcsolt energiatermelés és a hatékony távfűtés és távhűtés megvalósíthatósági potenciáljának átfogó értékelését – a 2012/27/EU európai parlamenti és tanácsi irányelv VIII. és IX. mellékletének a hatékony fűtési és hűtési potenciál átfogó értékelésének tartalma tekintetében történő módosításáról szóló, 2019. március 4-i 2019/826/EU felhatalmazáson alapuló bizottsági rendelet szerinti tartalommal – el kell végezni, és azt az Európai Bizottság kérésére ötévente felül kell vizsgálni.
 
 (2) Az (1) bekezdés szerinti értékelés céljából gondoskodni kell egy olyan országos költség-haszon elemzés készítéséről, amely a fűtési és hűtési szükségleteknek megfelelő, leginkább költséghatékony megoldások azonosítására és végrehajtására alkalmas.
 

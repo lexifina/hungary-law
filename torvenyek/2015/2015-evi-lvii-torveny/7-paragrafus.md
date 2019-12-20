@@ -4,9 +4,9 @@
 
 a)
 
-b) nyilvántartja és közzéteszi a végfelhasználási energiamegtakarítás összesítéséhez szükséges, az egyes szakpolitikai intézkedések révén elért energiamegtakarítási adatokat;
+b)
 
-c) névjegyzéket (a továbbiakban: névjegyzék) vezet az energetikai auditorokról és energetikai auditáló szervezetekről, nyilvántartást vezet a közreműködő szervezetekről, ellátja e személyek és szervezetek felügyeletét; valamint elvégzi az energetikai auditálás ellenőrzését;
+c) névjegyzéket (a továbbiakban: névjegyzék) vezet az energetikai auditorokról és energetikai auditáló szervezetekről, valamint a természetes személy energetikai szakreferensekről és energetikai szakreferens szervezetekről, nyilvántartást vezet a közreműködő szervezetekről, ellátja e személyek és szervezetek felügyeletét; valamint elvégzi az energetikai auditálás ellenőrzését;
 
 d) a 20. § szerinti energiahatékonysági tájékoztató honlapot tart fenn;
 
