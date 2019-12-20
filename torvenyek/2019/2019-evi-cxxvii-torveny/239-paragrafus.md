@@ -4,10 +4,10 @@ a) 4. § (3) bekezdés b) pontja,
 
 b) 4. § (8) bekezdése,
 
-c) 32. § c) pontjában az „a Kúriánál” szövegrész,
+c)
 
-d) 33. § (1) és (3) bekezdésében a „– a felek nyilatkozattételi jogának biztosítása mellett –” szövegrész,
+d)
 
-e) 101. §-a,
+e)
 
-f) 120. § (3) bekezdése.
+f)

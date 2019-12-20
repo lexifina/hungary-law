@@ -4,4 +4,4 @@ a) 22. § (1) bekezdés d) pontja,
 
 b) 23. § (8) bekezdése,
 
-c) 65. § (3) bekezdése.
+c)

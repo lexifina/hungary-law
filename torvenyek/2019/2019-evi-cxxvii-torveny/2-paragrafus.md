@@ -1,1 +1,1 @@
-2. § A közúti közlekedésről szóló 1988. évi I. törvény 21/K. § (8) bekezdés a) pontjában a „bírság bírósági felülvizsgálatával kapcsolatos eljárás” szövegrész helyébe a „bírsággal kapcsolatos közigazgatási per” szöveg lép.
+2. §
