@@ -76,11 +76,11 @@ c) intézményvezetői tevékenységként köznevelési, vagy a Gyvt. hatálya a
 
 (10)[^160] A Kutatótanárt a kötött munkaidőnek neveléssel-oktatással le nem kötött részéből heti két óra munkaidő-kedvezmény illeti meg a Kutatóprogramjában foglaltak, valamint az együttműködési megállapodásban vállaltak teljesítése érdekében végzett tevékenység céljára.
 
-(11) Ha az e §-ban felsorolt feladatokat ellátó Mesterpedagógus fokozatba besorolt pedagógus neki felróható okból egy éven belül két alkalommal nem tesz eleget a (6) és (7) bekezdésben meghatározott feladatok ellátására vonatkozó felkérésnek, az OH a felróható ok megjelölésével értesíti erről a pedagógus munkáltatóját. A munkáltató a pedagógus Mesterpedagógus besorolását azonnali hatállyal visszavonja, ha az értesítésben foglaltakat megalapozottnak találja.
+(11)[^161] Ha az e §-ban felsorolt feladatokat ellátó Mesterpedagógus fokozatba besorolt pedagógus neki felróható okból nem tesz eleget a (6) és (7) bekezdésben meghatározott feladatok ellátására vonatkozó felkérésnek, az OH a felróható ok megjelölésével értesíti erről a pedagógus munkáltatóját. A munkáltató a pedagógus Mesterpedagógus besorolását azonnali hatállyal visszavonja, ha az értesítésben foglaltakat megalapozottnak találja.
 
 (12) A (11) bekezdés alkalmazásában a pedagógusnak felróható ok minden olyan esemény, körülmény, amelynek bekövetkezése a pedagógus szándékos vagy gondatlan magatartásával áll közvetlen okozati összefüggésben. A besorolás visszavonásakor a pedagógust Mesterpedagógus fokozatba történt besorolását megelőzően elért legmagasabb fokozatba és a fizetési kategória megállapításához figyelembe vehető jogviszonyának megfelelő kategóriába kell besorolni.
 
-(13)[^161]
+(13)[^162]
 
 [^152]: A 17/A. §-t a 249/2015. (IX. 8.) Korm. rendelet 12. §-a iktatta be.
 [^153]: A 17/A. § (1) bekezdés nyitó szövegrésze a 235/2016. (VII. 29.) Korm. rendelet 37. § 14. pontja szerint módosított szöveg.
@@ -91,4 +91,5 @@ c) intézményvezetői tevékenységként köznevelési, vagy a Gyvt. hatálya a
 [^158]: A 17/A. § (6) bekezdés a) pontja a 235/2016. (VII. 29.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
 [^159]: A 17/A. § (8) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 26. § (2) bekezdésével megállapított, a 196/2019. (VIII. 1.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
 [^160]: A 17/A. § (10) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
-[^161]: A 17/A. § (13) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 26. § (4) bekezdése iktatta be, hatályon kívül helyezte a 307/2017. (X. 27.) Korm. rendelet 25. § e) pontja.
+[^161]: A 17/A. § (11) bekezdése a 321/2019. (XII. 19.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^162]: A 17/A. § (13) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 26. § (4) bekezdése iktatta be, hatályon kívül helyezte a 307/2017. (X. 27.) Korm. rendelet 25. § e) pontja.
