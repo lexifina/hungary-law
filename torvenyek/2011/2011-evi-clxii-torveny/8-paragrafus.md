@@ -1,6 +1,6 @@
 8. § (1) Nem kell pályázatot kiírni
 
-a) a 3. § (4) bekezdésében,
+a) a 3. § (4) és (4a) bekezdésében,
 
 b) a 23. § (3) bekezdésében,
 

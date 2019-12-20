@@ -1,3 +1,5 @@
 96. § (1) A 90. és 91. §-ban foglalt feltételek fennállása esetén a bíró felmentésére vonatkozó javaslatot – a bíróság elnökének kezdeményezésére, illetve a közigazgatási és munkaügyi bíróság vagy a szolgálati bíróság jelzése alapján – az OBH elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.
 
 (2) Ha a bíró felmentésére azért kerül sor, mert betöltötte a felmentési okként meghatározott életkort, az előterjesztést olyan időpontban kell megtenni, hogy a felmentési idő ennek az életkornak a betöltését megelőzően járjon le.
+
+(3) Ha a bíró szolgálati viszonya a 88. § (1a) bekezdés alapján szünetel, és ez alatt betölti az Alaptörvény 26. cikk (2) bekezdése szerinti általános öregségi nyugdíjkorhatárt, a felmentésére vonatkozó javaslatot – az OBH elnökének egyidejű értesítése mellett – az Alkotmánybíróság elnöke terjeszti a köztársasági elnök elé. Az előterjesztésben meg kell jelölni a felmentés jogcímét és a megszűnés időpontját.

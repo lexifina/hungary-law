@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-162-00-00
 | 2018-07-26 | 2018. évi XXXV. törvény | 2011-162-00-00.27 |
 | 2019-01-01 | 2018. évi CXXII. törvény | 2011-162-00-00.28 |
 | 2019-02-01 | 2018. évi CXV. törvény | 2011-162-00-00.29 |
+| 2019-12-20 | 2019. évi CXXVII. törvény | 2011-162-00-00.30 |

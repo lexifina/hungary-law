@@ -10,6 +10,8 @@ d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003
 
 e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelvnek,
 
-f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelvnek
+f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
+
+g) 40. § (5) bekezdése az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való
 
 való megfelelést szolgálja.

@@ -6,6 +6,8 @@
 
 (4) A bíró köteles a bírói szolgálati viszonya szerinti munkaidejét nem érintő munkavégzésre irányuló egyéb jogviszony létesítését a munkáltatói jogkör gyakorlójának előzetesen bejelenteni. A munkáltatói jogkör gyakorlója a jogviszony létesítését megtiltja, ha az a bíró bírói szolgálati viszonya alapján betöltött munkakörével e törvény rendelkezései szerint összeférhetetlen.
 
-(5) A bíró nem lehet választottbíróság tagja.
+(5) A bíró nem lehet választottbíróság tagja, kivéve az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelv alapján létrehozott és az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény III/A. Fejezete szerint létrehozott tanácsadó bizottsági tagságot.
 
 (6) A bíró nem veheti igénybe öregségi nyugdíj, korhatár előtti ellátás, vagy más olyan pénzbeli ellátás folyósítását, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani.
+
+(7) A bíróval kapcsolatban az alkotmánybírói tisztsége miatt összeférhetetlenség nem áll fenn.

@@ -6,4 +6,14 @@
 
 88. § (1) Ha a bíró országgyűlési, európai parlamenti, helyi önkormányzati képviselői vagy polgármesteri választáson jelöltetni kívánja magát, köteles e szándékát – legkésőbb a jelöltkénti indulásának a választási szervnél való bejelentését követő napig – a munkáltatói jogkör gyakorlójának bejelenteni. A bejelentéstől a választás eredményének közzétételéig, illetve megválasztása esetén mandátuma igazolásáig a bíró szolgálati viszonya szünetel. A szünetelés időtartama szolgálati viszonyban töltött időnek minősül.
 
+(1a) A bíró szolgálati viszonya – a 96. § (3) bekezdésében foglalt eset kivételével –, ha
+
+a) a bírót az Országgyűlés az Alkotmánybíróság tagjává választotta, a hivatalba lépésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig,
+
+b) a 3. § (4a) bekezdés szerint jön létre, a kinevezésétől az Alkotmánybíróságban betöltött tagsága megszűnéséig
+
+szünetel.
+
 (2) A szolgálati viszony szünetelését követően a bíró beosztására az 58. § (3) és (4) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+(3) A szolgálati viszony (1a) bekezdés szerinti szünetelését követően a Kúria elnöke a bírót a Kúriára osztja be.

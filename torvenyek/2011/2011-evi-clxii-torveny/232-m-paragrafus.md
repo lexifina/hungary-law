@@ -1,0 +1,1 @@
+232/M. § A Kúria 2020. január 1-jén hivatalban lévő elnöke a megbízatása megszűnéséig jogosult – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre.
