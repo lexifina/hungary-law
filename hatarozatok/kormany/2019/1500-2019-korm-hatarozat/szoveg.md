@@ -34,7 +34,7 @@ Határidő: a 2020. évi Kvtv. végrehajtása során, a felmerülés ütemében
 
 6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében a 2020. év vonatkozásában összesen legfeljebb 15 400 000 000 forint összegben kötelezettséget vállaljon;
 
-7. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 30. Közúthálózat felújítása jogcímcsoport terhére a 2020. évre vállalható kötelezettség mértékét – a rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, a 2018. évi költségvetési maradványok egy részének felhasználásáról, valamint egyes kormányhatározatok módosításáról szóló 1432/2019. (VII. 26.) Korm. határozat 1. pont j) alpontja szerint megállapított összeget is figyelembe véve – összesen 28 400 000 000 forint összegben állapítja meg;
+7.[^1]
 
 8. felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a Komplex Útfelújítási Program teljes körű befejezéséről;
 
@@ -43,3 +43,5 @@ Felelős: innovációért és technológiáért felelős miniszter
 Határidő: azonnal
 
 9. egyetért azzal, hogy az innovációért és technológiáért felelős miniszter a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársasággal a Komplex Útfelújítási Program megvalósítására kötött támogatási szerződést módosítsa az 1. és 2. pontban foglaltak szerint.
+
+[^1]: A 7. pontot az 1755/2019. (XII. 20.) Korm. határozat 14. pont c) alpontja visszavonta.
