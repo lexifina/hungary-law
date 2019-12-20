@@ -2,7 +2,7 @@
 
 1. § E törvény alkalmazásában:
 
-1. biztonsági kőolajkészlet: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet C. melléklet 3.1. pont első bekezdésében meghatározott nyersolajból és kőolajtermékekből álló, e törvény szerint kötelezően tárolandó készlet;
+1. biztonsági kőolajkészlet: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet A. melléklet 3.4. fejezetében meghatározott nyersolajból és kőolajtermékekből álló, e törvény szerint kötelezően tárolandó készlet;
 
 2. biztonsági kőolajkészlet felszabadítására irányuló nemzetközi döntés: a Nemzetközi Energia Ügynökség kormányzótanácsának döntése, amely a tagjai készleteinek felszabadításával, illetve kiegészítő intézkedésekkel kőolajat vagy kőolajterméket tesz elérhetővé a piac számára;
 

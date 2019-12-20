@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-23-00-00
 | 2017-07-01 | 2017. évi LXXV. törvény | 2013-23-00-00.14 |
 | 2018-12-19 | 2018. évi XCIX. törvény | 2013-23-00-00.15 |
 | 2019-01-01 | 2018. évi XCIX. törvény | 2013-23-00-00.16 |
+| 2019-12-20 | 2019. évi CI. törvény | 2013-23-00-00.17 |

@@ -14,11 +14,13 @@ Qbehozott_napi = ((Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletv
 
 2.2. Qfinomítói_készletváltozás: a finomítói alapanyag kereskedelmi és biztonsági készletek évi nyitó és záró mennyiségének különbözete (toe), amely során nem számítható be az a technológiai készlet, amely a finomító rendeltetésszerű működését biztosítja;
 
-2.3. Qvegyipari_benzin_korrekció: a hazai átlagos vegyipari benzin kihozatalnak megfelelő korrekció, melynek értéke, ha a hazai átlagos vegyipari benzin kihozatal mértéke a felhasznált finomítói alapanyagokra vetítetten a 7%-ot
+2.3. Qvegyipari_benzin_korrekció: a hazai átlagos vegyipari benzin kihozatalnak megfelelő korrekció, amelynek értéke, az Igazgatótanács – a 3. § (4) bekezdés figyelembevételével meghozott – döntése alapján:
 
-2.3.1. nem haladja meg: a Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletváltozás 4%-a,
+a) 4%, vagy
 
-2.3.2. meghaladja: az Igazgatótanács – a 3. § (4) bekezdés figyelembevételével meghozott – döntése alapján a hazai vegyipari benzin fogyasztás tényleges mennyisége (toe) vagy a hazai vegyipari benzin kihozatal átlagos értéke (%);
+b) a hazai vegyipari benzinfogyasztás tényleges mennyisége (toe), vagy
+
+a hazai vegyipari benzin kihozatal átlagos értéke (%);
 
 2.4. Qkőolajtermék_nettó_import: az energiastatisztikáról szóló 1099/2008/EK rendelet A. melléklete 3.4. pontjában meghatározott nem cseppfolyósított finomítói gáz, etán, propán-bután gázok, motorbenzin, repülőbenzin, benzin típusú sugárhajtó-üzemanyag, kerozin típusú sugárhajtó-üzemanyag, egyéb kerozin, gázolaj/dízelolaj, fűtőolaj, lakkbenzin és speciálbenzin, kenőanyagok, bitumen, paraffinviaszok, petrolkoksz, egyéb termékek referencia évi nettó behozatali mennyisége (toe);
 

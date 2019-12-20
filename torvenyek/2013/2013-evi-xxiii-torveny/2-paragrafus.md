@@ -4,9 +4,9 @@
 
 (2) Az átlagos napi nettó behozatalt
 
-a) a január 1-jétől március 31-ig tartó időszak vonatkozásában a tárgyévet megelőző utolsó előtti naptári év,
+a) a január 1-jétől június 30-ig tartó időszak vonatkozásában a tárgyévet megelőző utolsó előtti naptári év,
 
-b) az április 1-jétől december 31-ig tartó időszak vonatkozásában a tárgyévet megelőző év (a továbbiakban: referencia év)
+b) a július 1-jétől december 31-ig tartó időszak vonatkozásában a tárgyévet megelőző év (a továbbiakban: referencia év)
 
 figyelembevételével kell számítani.
 
