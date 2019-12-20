@@ -48,7 +48,7 @@
 
 ## Határidő: azonnal
 
-## h) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 64 123 027 231 forint egyszeri átcsoportosítását rendeli el – elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel – a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 4. melléklet szerint;
+## h)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 64 123 027 231 forint egyszeri átcsoportosítását rendeli el – elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel – a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 4. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -66,7 +66,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2020. június 30.
+## Határidő: 2020. június 30., a Bethlen Gábor Alap fejezet javára biztosított 4 950 000 000 forint tekintetében 2020. december 31.
 
 ## i) az Ávr. 152. § (3) bekezdésében biztosított jogkörében eljárva engedélyezi a XI. Miniszterelnökség fejezetnél keletkezett 867 907 732 forint, a XII. Agrárminisztérium fejezetnél keletkezett 4 929 851 667 forint, a XIV. Belügyminisztérium fejezetnél keletkezett 57 719 541 680 forint, a XV. Pénzügyminisztérium fejezetnél keletkezett 16 769 283 897 forint, valamint a XVII. Innovációs és Technológiai Minisztérium fejezetnél keletkezett 5 247 473 000 forint összegű, 2018. évi kötelezettségvállalással terhelt költségvetési maradvány 2019. június 30-át követő, változatlan célú felhasználását;
 
@@ -74,24 +74,27 @@
 
 ## Határidő: azonnal
 
-## j) az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 30. Közúthálózat felújítása jogcímcsoport kiadási előirányzata terhére vállalható kötelezettségek mértékét a 2020. évre 13 000 000 000 forint összegben állapítja meg;
+## j)[^2]
 
-## k) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a Magyar Falu Program részeként ütemezetten megvalósuló, kistelepüléseket érintő útfelújításokról szóló 1792/2018. (XII. 21.) Korm. határozat 6. pontjában foglaltak végrehajtása érdekében, a j) alpont szerinti éven túli korlát mértékéig a 2020. év vonatkozásában összesen legfeljebb 13 000 000 000 forint összegben kötelezettséget vállaljon.
+## k)[^3]
 
-## 2.[^1]
+## 2.[^4]
 
-## 3.[^2]
+## 3.[^5]
 
-## 4.[^3]
+## 4.[^6]
 
-## 5.[^4]
+## 5.[^7]
 
-## 6.[^5]
+## 6.[^8]
 
 1. melléklet az 1432/2019. (VII. 26.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont h) alpontja az 1755/2019. (XII. 20.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^2]: Az 1. pont j) alpontját az 1755/2019. (XII. 20.) Korm. határozat 14. pont b) alpontja visszavonta.
+[^3]: Az 1. pont k) alpontját az 1755/2019. (XII. 20.) Korm. határozat 14. pont b) alpontja visszavonta.
+[^4]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
