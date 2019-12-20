@@ -8,7 +8,7 @@ b) felmentésével;
 
 c) lemondásával;
 
-d) hetvenedik életévének a betöltésével;
+d)
 
 e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 
@@ -22,10 +22,4 @@ i) halálával;
 
 j) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
-(2) Ha a legfőbb ügyész megbízatása
-
-a) az (1) bekezdés a) pontja vagy
-
-b) az (1) bekezdés d) pontja
-
-alapján szűnt meg, a legfőbb ügyészi jogköröket az új legfőbb ügyész megbízatása kezdetéig gyakorolja.
+(2) Ha a legfőbb ügyész megbízatása az (1) bekezdés a) pontja alapján szűnt meg, a legfőbb ügyészi jogköröket az új legfőbb ügyész megbízatása kezdetéig gyakorolja.

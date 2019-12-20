@@ -12,8 +12,8 @@
 
 (7) A köztársasági elnök javaslatára az Országgyűlés határozatával kimondja a legfőbb ügyész hivatalvesztését, ha a legfőbb ügyész neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ügydöntő határozatban megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
 
-(8) A 22. § (1) bekezdés d) pontjában említett esetben a legfőbb ügyészt hathavi átlagilletményének megfelelő összeg illeti meg.
+(8)
 
-(9) A 22. § (1) bekezdés d)–j) pontjaiban meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik. A hetvenedik életévét betöltött legfőbb ügyész ügyészségi szolgálati viszonya a 22. § (2) bekezdés b) pontja szerinti esetben az új legfőbb ügyész megbízatása kezdetén szűnik meg.
+(9) A 22. § (1) bekezdés e)–j) pontjában meghatározott esetekben a legfőbb ügyész ügyészségi szolgálati viszonya is megszűnik.
 
 (10) Ha a legfőbb ügyész megbízatása a 22. § (1) bekezdés j) pontja alapján szűnik meg, ennek tényét a köztársasági elnök állapítja meg.
