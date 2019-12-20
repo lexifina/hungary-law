@@ -14,30 +14,33 @@ f)[^2] Alkotmány utca (24892 hrsz.-ú ingatlan) felszíni rendezése, Nemzeti �
 
 g)[^3] a Kossuth Lajos tér 11. szám (24891 hrsz.-ú ingatlan) alatti mélygarázs és a határos közterületek alatt egyéb közlekedési célú építmény építése
 
+h)[^4] az Országház (24894 hrsz.-ú ingatlan) homlokzatán található címerek részleges cseréje
+
 ## beruházással (a továbbiakban együtt: beruházás) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 
 a) a beruházás megvalósításához, használatbavételéhez és működéséhez közvetlenül,
 
-b)[^4] a beruházás, ennek részeként a Kossuth Lajos tér, Vértanúk tere és Vécsey utca csillapított forgalmú övezetté alakítása által kiváltott közlekedési hatások kezelése érdekében a Szent István körút, a Bajcsy-Zsilinszky út, a József Attila utca és a Duna által határolt területen, továbbá az Újpesti rakpart és a Carl Lutz rakpart Margit híd és Radnóti Miklós utca közötti szakaszán, valamint
+b)[^5] a beruházás, ennek részeként a Kossuth Lajos tér, Vértanúk tere és Vécsey utca csillapított forgalmú övezetté alakítása által kiváltott közlekedési hatások kezelése érdekében a Szent István körút, a Bajcsy-Zsilinszky út, a József Attila utca és a Duna által határolt területen, továbbá az Újpesti rakpart és a Carl Lutz rakpart Margit híd és Radnóti Miklós utca közötti szakaszán, valamint
 
 c) a beruházással érintett ingatlanokon álló közterületi szobrok bontásához és azok azonos vagy más ingatlanokon való felállításához,
 
-d)[^5] a beruházással érintett épületek homlokzatához való illeszkedés érdekében a Budapest V. kerület 24893 hrsz. telket (Kossuth Lajos tér) közvetlenül határoló építési telkeken lévő épületek homlokzati felújításához, valamint tetőszerkezetének rekonstrukciójához
+d)[^6] a beruházással érintett épületek homlokzatához való illeszkedés érdekében a Budapest V. kerület 24893 hrsz. telket (Kossuth Lajos tér) közvetlenül határoló építési telkeken lévő épületek homlokzati felújításához, valamint tetőszerkezetének rekonstrukciójához
 
 ## szükségesek.
 
 (3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(4)[^6]
+(4)[^7]
 
-(5)[^7]
+(5)[^8]
 
 [^1]: Az 1. § (1) bekezdése a 19/2018. (II. 14.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés f) pontja a 85/2019. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés g) pontját a 145/2018. (VIII. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^4]: Az 1. § (2) bekezdés b) pontja a 19/2018. (II. 14.) Korm. rendelet 56. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (2) bekezdés d) pontját a 294/2016. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^6]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte.
-[^7]: Az 1. § (5) bekezdését a 127/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 49. § a) pontja.
+[^4]: Az 1. § (1) bekezdés h) pontját a 320/2019. (XII. 19.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (2) bekezdés b) pontja a 19/2018. (II. 14.) Korm. rendelet 56. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdés d) pontját a 294/2016. (IX. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (5) bekezdését a 127/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 49. § a) pontja.

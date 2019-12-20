@@ -1,6 +1,6 @@
-## 1/A. §[^8] Műemlékvédelmi vagy világörökségi érdekből, továbbá amennyiben a kiemelt nemzeti emlékhely kulturális értéke megőrzése érdekében szükséges, az 1. mellékletben foglalt táblázat C:2 és C:5 mezője szerinti hatósági ügyekben eljáró hatóság a beruházás keretében műemléken és a világörökségi területen végzett építési tevékenység engedélyezése során az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseitől, valamint az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló 93/2012. (V. 10.) Korm. rendelet rendelkezései tekintetében az útügyi műszaki követelményektől és előírásoktól eltérhet, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel.
+## 1/A. §[^9] Műemlékvédelmi vagy világörökségi érdekből, továbbá amennyiben a kiemelt nemzeti emlékhely kulturális értéke megőrzése érdekében szükséges, az 1. mellékletben foglalt táblázat C:2 és C:5 mezője szerinti hatósági ügyekben eljáró hatóság a beruházás keretében műemléken és a világörökségi területen végzett építési tevékenység engedélyezése során az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseitől, valamint az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló 93/2012. (V. 10.) Korm. rendelet rendelkezései tekintetében az útügyi műszaki követelményektől és előírásoktól eltérhet, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel.
 
-## 1/B. §[^9] A beruházással összefüggésben
+## 1/B. §[^10] A beruházással összefüggésben
 
 a) nem kell építészeti-műszaki tervtanácsi véleményt beszerezni,
 
@@ -16,5 +16,5 @@ f) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni, valam
 
 g) nem kell alkalmazni az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet építtetői fedezetkezeléssel kapcsolatos rendelkezéseit.
 
-[^8]: Az 1/A. §-t a 127/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be, szövege a 145/2018. (VIII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1/B. §-t a 23/2015. (II. 18.) Korm. rendelet 2. §-a iktatta be, szövege a 85/2019. (IV. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: Az 1/A. §-t a 127/2012. (VI. 26.) Korm. rendelet 2. §-a iktatta be, szövege a 145/2018. (VIII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 1/B. §-t a 23/2015. (II. 18.) Korm. rendelet 2. §-a iktatta be, szövege a 85/2019. (IV. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
