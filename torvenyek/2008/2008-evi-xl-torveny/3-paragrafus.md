@@ -8,6 +8,8 @@
 
 1b. Betáplálási-kiadási pont: a szállítási rendszerüzemeltető, a földgázelosztó, a földgáztárolói engedélyes, a felhasználó vagy a földgáztermelő földgázrendszere közötti fizikai vagy egyesített csatlakozási pont, valamint a rendszer-összekötési pont, ide nem értve az összekapcsolási pontot.
 
+1c. Adatcsere: a földgázelosztó és – a korlátozott földgáz-kereskedelmi engedélyes kivételével – a rendszerhasználó közötti együttműködés érdekében jogszabályokban, valamint az Üzemi és Kereskedelmi Szabályzatban kötelezettségként előírt adatszolgáltatások egységes keretek között történő, diszkriminációmentes lebonyolítása az Üzemi és Kereskedelmi Szabályzatban rögzítettek szerint, a rendszerhasználati szerződések betartása mellett.
+
 2. Célvezeték: a földgáztermelőhöz, határon túli földgázrendszerhez, a szállító-, elosztóvezetékhez vagy a tárolóhoz közvetlenül csatlakozó olyan földgázvezeték, amely kizárólag egy felhasználó egy felhasználási helyének ellátására szolgál.
 
 3. Csatlakozási szerződés: a szállítási rendszerüzemeltető vagy a földgázelosztó és a leendő felhasználó vagy a földgáztermelő között létrejött szerződés, amely biztosítja a felhasználó vagy a földgáztermelő szállító- vagy elosztóvezetékre történő csatlakozási jogát, az érintett csatlakozási ponton vásárolt kapacitás mértékét, valamint rögzíti a csatlakozás műszaki-gazdasági feltételeit.
@@ -63,6 +65,8 @@
 23a. Földgázbányászati célú vezeték: a földgáztermelésben, -előkészítésben és -feldolgozásban használt kútbekötő-, mezőbeli gerinc- és mezők közötti technológiai csővezeték.
 
 24. Földgázelosztás: a földgáznak elosztóvezetéken történő továbbítása a felhasználóhoz.
+
+24a. Földgázellátási válsághelyzet: a korai előrejelzési szint, a riasztási szint és a vészhelyzeti szint.
 
 25. Földgáz-kereskedelem: a földgáz üzletszerű, ellenérték fejében, nem saját felhasználási célra történő vásárlása és értékesítése.
 
@@ -120,7 +124,9 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 45. Kiegyensúlyozó földgáz: adott gáznapon a rendszerhasználók által az együttműködő földgázrendszerbe beadott és a ténylegesen vételezett földgázmennyiségek közötti különbség kiegyenlítésére a szállítási rendszerüzemeltető által felhasznált földgázmennyiség.
 
-46. Korlátozás: földgázellátási zavar esetén az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly fenntartható vagy helyreállítható legyen.
+45a. Korai előrejelzési szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés a) pontjában meghatározott válságszint.
+
+46. Korlátozás: az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly fenntartható vagy helyreállítható legyen.
 
 46a.
 
@@ -132,9 +138,13 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 49a. Másodlagos kapacitáskereskedelem: a lekötött, de fel nem használt kapacitás továbbértékesítése.
 
+49b. Nem piaci intézkedések: a 2017/1938/EU európai parlamenti és tanácsi rendelet VIII. mellékletében meghatározott intézkedések.
+
 50. Nominálás: a betáplálási-kiadási ponton, valamint az összekapcsolási ponton betáplálni vagy vételezni tervezett földgázmennyiség gáznapra vagy gáznapon belüli időszakra történő megadása a lekötött kapacitásokra figyelemmel, a 312/2014/EU bizottsági rendeletben, valamint az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint.
 
 50a. Összekapcsolási pont: az együttműködő földgázrendszeren belül, különböző szállítási rendszerüzemeltetők által üzemeltetett szállítóvezetékek közötti üzemeltetési határ.
+
+50b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők földgázra vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik.
 
 51. Rendszerhasználati szerződés: a rendszerhasználó által a szállítási rendszerüzemeltetővel, a földgázelosztóval vagy a földgáztárolói engedélyessel az e törvényben, az e törvény végrehajtására kiadott rendeletekben, az Üzemi és Kereskedelmi Szabályzatban, a kapacitáslekötési platform szabályzatában, valamint a rendszerüzemeltető működési engedélyében és üzletszabályzatában meghatározott tevékenységek végzésére és szolgáltatások biztosítására kötött szerződés.
 
@@ -148,7 +158,9 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 52c. Rendszer-összekötési pont: a 2017/459 bizottsági rendelet 3. cikk 2. pontjában meghatározott fogalom.
 
-52d. Rendszerösszekötő: olyan határkeresztező gázvezeték, amely kizárólag Magyarország együttműködő földgázrendszerét és más EU-tagállam földgázszállító hálózatát kapcsolja össze.
+52d. Rendszerösszekötő: olyan határkeresztező gázvezeték, amely kizárólag Magyarország együttműködő földgázrendszerét és más EU-tagállam, vagy egy harmadik ország földgázszállító hálózatát kapcsolja össze.
+
+52e. Riasztási szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés b) pontjában meghatározott válságszint.
 
 53. Szabad kapacitás: a betáplálási-kiadási pont, valamint a földgáztároló technikai kapacitásának rendszerhasználati szerződéssel le nem kötött, rendszerhasználók számára rendelkezésre álló része.
 
@@ -186,7 +198,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 64. Üzemi és Kereskedelmi Szabályzat: az együttműködő földgázrendszer technikai működésére, valamint a kereskedelmi folyamatra vonatkozó főbb szabályokat tartalmazó, a Hivatal által jóváhagyott szabályzat.
 
-65. Üzemzavar: minden olyan a földgáz termelését, tárolását, szállítását, elosztását korlátozó vagy megszüntető esemény, amelynek oka az együttműködő földgázrendszer normál üzemmenettől eltérő olyan működése, amelynek következménye veszélyeztetés vagy földgázellátási zavar, és amely egy vagy több felhasználó földgázellátásának szünetelését okozza.
+65. Üzemzavar: az együttműködő földgázrendszer részét képező infrastruktúra működésében bekövetkező, a normál üzemmenettől eltérő, a földgáz termelését, tárolását, szállítását vagy elosztását veszélyeztető, korlátozó vagy ellehetetlenítő esemény.
 
 66. Üzletszabályzat: az engedélyes általános szerződési feltételeit, valamint a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott elemeket tartalmazó, a Hivatal által jóváhagyott szabályzat.
 
@@ -194,9 +206,19 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 68. Védendő fogyasztó: a lakossági fogyasztók azon köre, akik (jogszabályban meghatározott szociális helyzetük, vagy valamely egyéb tulajdonságuk alapján) a földgázellátásban megkülönböztetett feltételek szerint vehetnek részt.
 
+68a. Védett felhasználó:
+
+a) a lakossági fogyasztó,
+
+b) az alapvető szociális szolgáltató,
+
+c) a távhőtermelő, a távhőszolgáltatásról szóló törvény (a továbbiakban: Tszt.) szerinti lakossági felhasználó vagy az alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.
+
 69. Végső menedékes szolgáltatás: ideiglenes földgázellátás, amelyet a Hivatal által kijelölt földgázkereskedő biztosít azon egyetemes szolgáltatók vagy egyetemes szolgáltatásra jogosult felhasználók részére, akiket földgázkereskedőjük valamilyen okból nem képes ellátni.
 
 70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére PB-gáz csővezetéken keresztül történő elosztása és értékesítése.
+
+70a. Vészhelyzeti szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés c) pontjában meghatározott válságszint.
 
 71. Lakossági PB-gáz fogyasztó: aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol tartályban forgalmazott PB-gázt vagy vezetékes PB-gázt, és az így vásárolt PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vásárol, és a vásárolt, tartályban forgalmazott vagy vezetékes PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 
@@ -209,3 +231,31 @@ a) a PB-gáz palackos PB-gáz értékesítőhelyen vagy üzemanyagtöltő állom
 b) önálló kereskedelmi ügynöki tevékenység keretében, a PB-gáz forgalmazóval fennálló szerződéses kapcsolat alapján a PB-gáz forgalmazó tulajdonában lévő palackos PB-gázt értékesít, és a kereskedelmi tevékenység folytatásának feltételeiről szóló jogszabály szerint a tevékenységét bejelentette.
 
 74. PB-gáz: propán-, butángázok és ezek elegyei.
+
+75. Alapvető szociális szolgáltató:
+
+a) az egészségügyről szóló törvényben meghatározott egészségügyi intézmény,
+
+b) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott szociális intézmény,
+
+c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi szerv,
+
+d) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvényben meghatározott honvédelemben közreműködő szerv,
+
+e) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti intézmény
+
+f) a nemzeti köznevelésről szóló törvény szerinti köznevelési intézmény,
+
+g) a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény,
+
+h) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szerv, valamint
+
+i) a Magyarország helyi önkormányzatairól szóló törvény szerinti helyi önkormányzati szervek intézményei.
+
+76. Szolidaritási alapon védett felhasználó:
+
+a) a lakossági fogyasztó,
+
+b) a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató,
+
+c) a 68a. pont c) alpontja szerinti távhőtermelő a Tszt. szerinti lakossági felhasználó vagy a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.

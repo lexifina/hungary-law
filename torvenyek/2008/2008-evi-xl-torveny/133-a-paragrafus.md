@@ -24,4 +24,8 @@
 
 12. az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint a jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket.
 
-13–15.
+13. a válsághelyzeti monitoringrendszer működésének részletszabályait, a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekhez tartozó felkészülés mértékét, valamint a védett felhasználók és a szolidaritási alapon védett felhasználók földgáz felhasználása meghatározásának módját.
+
+14.
+
+15.

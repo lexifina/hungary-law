@@ -40,7 +40,7 @@ ke) a 83/A. § (1) bekezdése szerinti esetben köteles pályázatot kiírni;
 
 l) az egyes engedélyesekre – a jogszabályban meghatározott keretek között – határozatban állapítja meg az engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, valamint elvárt színvonalát, a felhasználókkal való kapcsolattartás módjára vonatkozó minimális követelményeket, a felhasználók tájékoztatásának részletes szabályait, továbbá a rendszerüzemeltetők vonatkozásában az együttműködő földgázrendszer biztonságos üzemeltetésére vonatkozó minimális követelményeket;
 
-ly) elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a földgázellátás jellemzőinek felmérését;
+ly) elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a földgázellátás jellemzőinek felmérését;
 
 m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben felmerülő, csatlakozással vagy az együttműködő földgázrendszer megfelelő minőségben való rendelkezésre állásának kérdésével kapcsolatos felhasználói panaszok ügyében; ellenőrzi a felhasználói igények kielégítését és a felhasználók által a hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását;
 
@@ -82,4 +82,4 @@ y) az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyezés�
 
 z) a határkeresztező gázvezetéken fellépő kapacitáshiány esetén együttműködik a másik tagállammal a kapacitáshiány-kezelési eljárásokra vonatkozóan;
 
-zs) közzéteszi minden év július 31-ig az ellátásbiztonsági felügyelet során szerzett eredményeket és az azok alapján meghozott vagy tervezett intézkedéseket ismertető jelentést, melyet haladéktalanul továbbít a Bizottságnak.
+zs)

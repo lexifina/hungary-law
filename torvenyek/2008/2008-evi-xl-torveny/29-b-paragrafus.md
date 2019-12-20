@@ -1,4 +1,4 @@
-29/B. § (1) A földgázkereskedő a fizetési késedelem miatti földgázellátásból történő kikapcsolást a távhőszolgáltatásról szóló törvény szerinti olyan távhőtermelő engedélyessel szemben, amely lakossági felhasználókat vagy külön kezelt intézményeket is ellátó távhőszolgáltató számára értékesít távhőt, illetve távhőszolgáltató engedélyesként lakossági felhasználókat vagy külön kezelt intézményeket is ellát távhőszolgáltatással, kizárólag az alábbi feltételek együttes fennállása esetén kezdeményezheti a földgázelosztónál
+29/B. § (1) A földgázkereskedő a fizetési késedelem miatti földgázellátásból történő kikapcsolást a Tszt. szerinti olyan távhőtermelő engedélyessel szemben, amely lakossági felhasználókat vagy külön kezelt intézményeket is ellátó távhőszolgáltató számára értékesít távhőt, illetve távhőszolgáltató engedélyesként lakossági felhasználókat vagy külön kezelt intézményeket is ellát távhőszolgáltatással, kizárólag az alábbi feltételek együttes fennállása esetén kezdeményezheti a földgázelosztónál
 
 a) a távhőtermelő fizetési kötelezettségével 90 napot meghaladó késedelembe esett,
 

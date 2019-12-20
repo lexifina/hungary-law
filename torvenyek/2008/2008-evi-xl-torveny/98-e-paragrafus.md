@@ -1,0 +1,1 @@
+98/E. § A földgázellátási válsághelyzet szintjeihez tartozó részletes szabályokat és a Hivatal által működtetett válsághelyzeti monitoringrendszer működésének szabályait a Hivatal elnöke rendeletben határozza meg.

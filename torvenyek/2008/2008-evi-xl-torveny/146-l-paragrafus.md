@@ -7,5 +7,3 @@ a) a 104/B. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. októb
 b) a Hivatal a 104/B. § (2) bekezdés a) pontja szerinti módszertani útmutatót a honlapján 2016. október 25-ig teszi közzé;
 
 c) a 106. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki;
-
-d) a 108. § (1) bekezdése szerinti rendeletet a Hivatal elnöke 2016. október 15-ig hirdeti ki.

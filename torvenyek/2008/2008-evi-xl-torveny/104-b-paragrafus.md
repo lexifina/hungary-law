@@ -1,4 +1,4 @@
-104/B. § (1) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a következő árszabályozási ciklus kezdetét megelőző év május 15-ig. A rendszerhasználati díjak szabályozása az árszabályozási cikluson belül évenkénti ármegállapítással történik.
+104/B. § (1) A rendszerhasználati díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a következő árszabályozási ciklus kezdetét megelőző év augusztus 15-ig. A rendszerhasználati díjak szabályozása az árszabályozási cikluson belül évenkénti ármegállapítással történik.
 
 (2) Az (1) bekezdés szerinti rendelet figyelembevételével a Hivatal az árszabályozási ciklus
 
@@ -10,7 +10,7 @@ vonatkozóan módszertani útmutatót (a továbbiakban együtt: módszertani út
 
 (3) A Hivatal
 
-a) a (2) bekezdés a) pontja szerinti módszertani útmutatót a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
+a) a (2) bekezdés a) pontja szerinti módszertani útmutatót az elosztás tekintetében a következő árszabályozási ciklus kezdetét megelőző február 15-ig, a tárolás tekintetében a következő árszabályozási ciklus kezdetét megelőző év augusztus 15-ig,
 
 b) a (2) bekezdés b) pontja szerinti útmutatót a következő árszabályozási ciklus kezdetét legalább 60 nappal megelőzően
 

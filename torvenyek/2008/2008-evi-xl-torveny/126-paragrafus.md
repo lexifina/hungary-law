@@ -32,4 +32,4 @@ l) versenyképes, biztonságos és fenntartható belső földgázpiac kialakít�
 
 m) annak elősegítése, hogy az szállítási rendszerüzemeltető és a rendszerhasználók megfelelő ösztönzőket kapjanak az együttműködő földgázrendszer hatékonyságának növelésére és a piaci integráció elősegítésére,
 
-n) a 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtását szolgáló e törvényben és a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló kormányrendeletben meghatározott feladatok ellátása.
+n) a 2017/1938/EU európai parlamenti és tanácsi rendelet végrehajtását szolgáló e törvényben és végrehajtási rendeleteiben meghatározott feladatok ellátása.

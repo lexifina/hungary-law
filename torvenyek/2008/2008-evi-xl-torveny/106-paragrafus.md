@@ -4,7 +4,7 @@ a) a felhasználó és a rendszerhasználó igénye alapján, valamint
 
 b) a felhasználó szerződésszegése esetén
 
-külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit a következő árszabályozási ciklus kezdetét megelőző év május 15-ig.
+külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit a következő árszabályozási ciklus kezdetét megelőző év augusztus 15-ig.
 
 (2) A Hivatal elnöke rendeletben állapítja meg a külön díjak fizetésére kötelezettek körét és a külön díjak alkalmazásának feltételeit, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 

@@ -6,7 +6,7 @@ b) az együttműködő földgázrendszer – az ésszerű keresletnek való hoss
 
 c) az együttműködő földgázrendszer együttműködő képességének megőrzése érdekében szükséges intézkedések megtervezése, a földgázelosztók által összeállított földgázelosztói szintű, valamint a szállítási rendszerüzemeltetők által összeállított, a közvetlen szállítóvezetéki felhasználókra vonatkozó korlátozási besorolások alapján az országos szintű korlátozási besorolás összeállítása és a Hivatalhoz jóváhagyásra történő beterjesztése,
 
-d) földgázellátási zavar vagy földgázellátási válsághelyzet esetén az együttműködő földgázrendszeren a szükséges korlátozás elrendelése és a jogszabály alapján előírt intézkedések irányítása,
+d) a vészhelyzeti szint vagy szolidaritási intézkedések miatt szükséges korlátozás elrendelése az együttműködő földgázrendszeren, valamint a jogszabály alapján előírt intézkedések irányítása,
 
 e)
 

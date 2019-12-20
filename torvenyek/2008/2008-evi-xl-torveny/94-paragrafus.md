@@ -2,7 +2,7 @@
 
 a) az operatív beavatkozások saját rendszerükön történő végrehajtása, valamint a Hivatal elnökének rendeletében meghatározott időpontokban adatszolgáltatás a szállítási rendszerüzemeltető számára a rendszerhasználók tényleges egyensúlyi pozícióinak meghatározásához rendszerhasználókra összesítetten a gázátadó állomásonkénti bontásban, valamint a földgáztároló betáplálási és kiadási pontjára vonatkozóan,
 
-b) földgázellátási válsághelyzet esetén a szállítási rendszerirányító által elrendelt, fogyasztást érintő intézkedések végrehajtása,
+b) földgázellátási válsághelyzet esetén a szállítási rendszerirányító által elrendelt intézkedések végrehajtása,
 
 c) a 312/2014/EU bizottsági rendelet előírásai szerinti adatszolgáltatás az egyes rendszerhasználók és szállítási rendszerüzemeltető részére,
 

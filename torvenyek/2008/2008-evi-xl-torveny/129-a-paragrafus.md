@@ -1,4 +1,4 @@
-129/A. § (1) Közigazgatási perben a Hivatalnak a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján a földgázellátási üzemzavar vagy válsághelyzet esetén, valamint a tanúsítási eljárásban hozott határozatát a bíróság nem változtathatja meg.
+129/A. § (1) Közigazgatási perben a Hivatalnak a földgázellátási válsághelyzet esetén hozott határozatát, valamint a tanúsítási eljárásban hozott határozatát a bíróság nem változtathatja meg.
 
 (2) A közigazgatási perben a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a Hivatal határozata
 

@@ -56,7 +56,7 @@
 
 26. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
 
-27.
+27. az adatcsere-ellenőrzési testület létrehozására és működtetésére vonatkozó szabályokat, továbbá az adatcsere bizottság létrehozására és működtetésére vonatkozó szabályokat,
 
 28. a nem határponti betáplálási-kiadási pontokon történő kapacitáslekötés szabályait, ezen belül az igénykielégítés rendjét, a továbbértékesítés szabályait, a szabad kapacitás közzétételének, és lekötésének szabályait,
 
@@ -66,9 +66,9 @@
 
 31. a földgázrendszerek egymás közötti, valamint a földgázrendszerek és a földgáztermelő közötti betáplálási-kiadási ponti elszámolási mérési helyek és eszközök kiépítésében és üzemeltetésében érintettek együttműködési kötelezettségét,
 
-32. a földgázellátási válsághelyzet minősítését, kihirdetésének és megszüntetésének szabályait, valamint az intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét,
+32. a földgázellátási válsághelyzetben intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét,
 
-33. a földgázellátás biztonságának megőrzését szolgáló, valamint a korlátozásra vonatkozó részletes rendelkezéseket, ezen belül a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket,
+33. a földgázellátás biztonságának megőrzését szolgáló, valamint a korlátozásra vonatkozó részletes rendelkezéseket, a védett felhasználók nyilvántartásának szabályait, a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket, továbbá a szolidaritási intézkedés végrehajtásának részletszabályait, a védett felhasználók ellátásbiztonságát szolgáló ellátási előírások részletszabályait, és a 2017/1938/EU európai parlamenti és tanácsi rendelet 14. cikk (6) bekezdés a) és b) pontjában meghatározott a földgáz-kereskedelmi forrásszerződésekre és kapcsolódó szerződésekre vonatkozó adatszolgáltatást,
 
 34. a rendszerüzemeltető és a telephelyi szolgáltató által üzemeltetett rendszerek karbantartása, átalakítása, felújítása, fejlesztése esetén a szolgáltatás korlátozásának és szüneteltetésének alapvető szabályait, a be nem jelentett vagy késedelmesen bejelentett szünetelés, valamint a bejelentett szüneteltetés indokolatlan túllépése esetén alkalmazható pótdíj megállapítására vonatkozó szabályokat,
 
@@ -102,7 +102,7 @@
 
 49. az együttműködő földgázrendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre
 
-50. a 994/2010/EU európai parlamenti és tanácsi rendelet 4. cikke szerinti megelőzési cselekvési tervet és vészhelyzeti tervet,
+50. a 2017/1938/EU európai parlamenti és tanácsi rendelet 8. cikke szerinti megelőzési cselekvési tervet és vészhelyzeti tervet,
 
 51. a földgázellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 

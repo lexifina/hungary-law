@@ -1,6 +1,6 @@
 108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért díjat (a továbbiakban: csatlakozási díj) kell fizetni. A Hivatal elnöke rendeletben állapítja meg
 
-a) a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
+a) a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a következő árszabályozási ciklus kezdetét megelőző év augusztus 15-ig,
 
 b) a csatlakozási díjak elemeit, a díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 

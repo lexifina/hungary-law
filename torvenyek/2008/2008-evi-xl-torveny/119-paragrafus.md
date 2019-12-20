@@ -2,7 +2,7 @@
 
 ## JOGKÖVETKEZMÉNYEK
 
-119. § (1) Aki a földgázipari tevékenységet általános hatályú, közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, jogszabályban, az engedélyében, a Hivatal határozatában, az Üzemi és Kereskedelmi Szabályzatban, az üzletszabályzatban, az Ügynökség kötelező erejű határozatában előírtaktól eltérő módon gyakorolja, azzal szemben a Hivatal az alábbi jogkövetkezményeket alkalmazhatja:
+119. § (1) Aki a földgázipari tevékenységet általános hatályú, közvetlenül alkalmazandó uniós jogi aktusban, uniós jogi rendelkezésben, jogszabályban, az engedélyében, a Hivatal határozatában, az Üzemi és Kereskedelmi Szabályzatban, az üzletszabályzatban, az ACER kötelező erejű határozatában előírtaktól eltérő módon gyakorolja, azzal szemben a Hivatal az alábbi jogkövetkezményeket alkalmazhatja:
 
 a) felhívja az engedélyes figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére,
 
@@ -46,7 +46,7 @@ foglalt kötelezettségét nem teljesíti.
 
 (6) A Hivatal a földgázipari tevékenység folyamatos végzésére más engedélyest is kijelölhet, ha az együttműködő földgázrendszer folyamatos és biztonságos működése vagy a felhasználók ellátása azt megköveteli.
 
-(6a) A távhőszolgáltatásról szóló törvény szerinti engedélyes, mint felhasználó ellátására történő (6) bekezdés szerinti kényszerkijelölés egy alkalommal 90 napra történhet. A kijelölt földgázkereskedő köteles biztosítani a földgázforrást a felhasználó részére. A kijelölt földgázkereskedő a kijelölés időtartamára a gázátadó állomási és az elosztóvezetéki kiadási pont lekötött kapacitását másodlagos kapacitáskereskedelem formájában veszi át a lekötött kapacitással rendelkező rendszerhasználótól.
+(6a) A Tszt. szerinti engedélyes, mint felhasználó ellátására történő (6) bekezdés szerinti kényszerkijelölés egy alkalommal 90 napra történhet. A kijelölt földgázkereskedő köteles biztosítani a földgázforrást a felhasználó részére. A kijelölt földgázkereskedő a kijelölés időtartamára a gázátadó állomási és az elosztóvezetéki kiadási pont lekötött kapacitását másodlagos kapacitáskereskedelem formájában veszi át a lekötött kapacitással rendelkező rendszerhasználótól.
 
 (7) A Hivatal más engedélyes kijelölése esetén az engedélyest, vagy ha a szállító- és az elosztóvezeték, valamint a tároló tulajdonosa nem az engedélyes, akkor a földgázrendszer tulajdonosát kötelezheti arra, hogy a
 

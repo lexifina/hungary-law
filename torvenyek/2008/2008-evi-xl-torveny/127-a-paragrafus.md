@@ -4,4 +4,4 @@ a) figyelemmel kíséri az átláthatóság szintjét, beleértve a nagykeresked
 
 b) a versenyhatóság eljárási hatáskörének tiszteletben tartásával vizsgálja a megszakítható ellátási szerződések, illetve a hosszú távú szerződések közösségi jognak való megfelelését és az Európai Unió politikáival való összhangját,
 
-c) éves jelentést készít az Ügynökség és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.
+c) éves jelentést készít az ACER és az Európai Bizottság részére saját tevékenységéről és feladatai végrehajtásáról.

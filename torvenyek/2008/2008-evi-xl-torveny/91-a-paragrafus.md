@@ -26,7 +26,7 @@ h)–i)
 
 ha megfelel a kereskedési platform szabályzatában meghatározott követelményeknek.
 
-(4) Az adatforgalmi és informatikai rendszert az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint úgy kell kialakítani, hogy adatcserére alkalmas legyen a rendszerüzemeltetők informatikai rendszereivel. A működés feltételeit, valamint az adásvételi ügyletben résztvevők jogait és kötelezettségeit az e törvény végrehajtásáról szóló kormányrendelet, az Üzemi és Kereskedelmi Szabályzat, valamint a kereskedési platform szabályzata tartalmazza. A kereskedési platformot működtető köteles az üzleti titoknak minősülő információk bizalmas kezelését biztosítani. A kereskedési platformi tevékenységnek a piaci szereplők számára átláthatónak és diszkriminációmentesnek kell lennie, továbbá elő kell segítenie a napi egyensúlyozási feladatok hatékony végrehajtását.
+(4) Az adatforgalmi és informatikai rendszert az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint úgy kell kialakítani, hogy adatkommunikációra alkalmas legyen a rendszerüzemeltetők informatikai rendszereivel. A működés feltételeit, valamint az adásvételi ügyletben résztvevők jogait és kötelezettségeit az e törvény végrehajtásáról szóló kormányrendelet, az Üzemi és Kereskedelmi Szabályzat, valamint a kereskedési platform szabályzata tartalmazza. A kereskedési platformot működtető köteles az üzleti titoknak minősülő információk bizalmas kezelését biztosítani. A kereskedési platformi tevékenységnek a piaci szereplők számára átláthatónak és diszkriminációmentesnek kell lennie, továbbá elő kell segítenie a napi egyensúlyozási feladatok hatékony végrehajtását.
 
 (5) A kereskedési platformhoz történő hozzáférésre és az ügyletek lebonyolítására az erre jogosult piaci szereplő a szállítási rendszerüzemeltetővel, az ügyletek pénzügyi elszámolására központi szerződő féllel vagy elszámolóházi tevékenységet végző szervezettel szerződést köt. A piaci szereplők közötti adásvétel a központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet közbeiktatásával, az eladó és a vevő közötti anonimitás elve alapján, szabványosított ügyletek formájában történik.
 
@@ -34,7 +34,7 @@ ha megfelel a kereskedési platform szabályzatában meghatározott követelmén
 
 (7) A kereskedési platformot működtető köteles a napi gázforgalmazásra, azon belül az egyensúlyozásra vonatkozó európai uniós előírások változása esetén megfelelően módosítani a kereskedési platform informatikai, működési feltételeit és szabályzatát.
 
-(8) Földgázellátási üzemzavar és válsághelyzet esetén a szállítási rendszerüzemeltető javaslatot tesz a Hivatalnak a kereskedési platformon, valamint a szervezett piacon történő kereskedés felfüggesztésére.
+(8) Vészhelyzeti szint elrendelése esetén a szállítási rendszerüzemeltető javaslatot tesz a Hivatalnak a kereskedési platformon, valamint a szervezett piacon történő kereskedés felfüggesztésére.
 
 (9) A kereskedési platformot működtető köteles biztosítani a rendszerhasználók számára a kereskedelmi egyensúlytalanságuk feloldására irányuló, a gáznap előtt a gáznapra vonatkozó és a gáznapon belüli földgáz kereskedelemnek a lehetőségét a 312/2014/EU bizottsági rendelet és a kereskedési platform szabályzata szerint.
 

@@ -2,6 +2,6 @@
 
 (2) A napi kiegyensúlyozási díjat a 312/2014/EU bizottsági rendeletben előírtak szerint meghatározott módszertan alapján kell kiszámítani. A módszertant a szállítási rendszerüzemeltető a Hivatal részére jóváhagyásra benyújtja.
 
-(3) A szállítási rendszerüzemeltető a kereskedési platformon vagy az egyensúlyozó platformon tagsággal nem rendelkező rendszerhasználó felé a kiegyensúlyozó földgáz biztosításához közvetlenül kapcsolódó, igazolt napi kiegyensúlyozási díjakat, a Hivatal elnökének rendelete alapján meghatározott pótdíjat és a kiegyensúlyozó földgáz adott platformon történő beszerzésével kapcsolatban felmerült indokolt költségeket felszámolja az üzletszabályzatban foglaltak szerint.
+(3)
 
 (4) A szállítási rendszerüzemeltető köteles az e törvény végrehajtásáról szóló kormányrendeletben meghatározott olyan nyilvántartást vezetni, amely biztosítja a kiegyensúlyozó intézkedéseihez kapcsolódó bevételeinek és kiadásainak átláthatóságát és ellenőrizhetőségét.
