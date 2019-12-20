@@ -1,3 +1,3 @@
-## 1. § A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet (a továbbiakban: R1.) 10. §-a a következő (5a) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(5a) A Tao. tv. 22/C. § (4c) bekezdése alapján a támogatott szervezet a sportfejlesztési program megvalósítása során egy alkalommal kérelmezheti a jóváhagyást végző szervezetnél a jóváhagyott sportfejlesztési programban szereplő támogatás Tao. tv. 22/C. § (4) bekezdés e) pontja szerint meghatározott mértékének módosítását. A kérelem nem irányulhat az ellenőrző szervezet részére benyújtott elszámolásban, részelszámolásban szereplő saját forrás csökkentésére.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
