@@ -2,25 +2,25 @@
 
 1.
 
-2. 5. § (3) és (5) bekezdése,
+2.
 
-3. 21. § (6) bekezdése,
+3.
 
-4. 62. § (5a) bekezdése,
+4.
 
 5.
 
-6. 187. § (2) bekezdés u) pontja,
+6.
 
 7.
 
-8. 195. § (12) bekezdése,
+8.
 
 9.
 
 (2) Hatályát veszti a Kbt.
 
-1. 39. § (2) bekezdésében az „a közbeszerzési dokumentumok bizalmas jellegének megőrzése érdekében”,
+1.
 
 2.
 
@@ -44,11 +44,11 @@
 
 12.
 
-13. 182. § (3) bekezdésében az „A Tanács alelnöke a Hatóság alelnöke.”,
+13.
 
 14.
 
-15. 187. § (14) bekezdés d) pontjában az „, alelnöke”,
+15.
 
 16.
 
