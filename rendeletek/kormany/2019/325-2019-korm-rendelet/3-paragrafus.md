@@ -1,1 +1,3 @@
-## 2. § Az Ehtv. vhr. 5. melléklete az 1. melléklet szerint lép hatályba.
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
