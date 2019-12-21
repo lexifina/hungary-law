@@ -1,6 +1,6 @@
 ## 7. Támogatási előleg
 
-10. § (1)[^2] A megítélt támogatás teljes összegéig – a támogatói okiratban rögzített feltételek szerint – támogatási előleg nyújtható.
+10. § (1)[^3] A megítélt támogatás teljes összegéig – a támogatói okiratban rögzített feltételek szerint – támogatási előleg nyújtható.
 
 (2) Az elnyert támogatás előleg feletti része csak az előleggel történő teljes, elfogadott elszámolás és a fejlesztés megvalósulását követően benyújtott elszámolás elfogadása után folyósítható.
 
@@ -26,4 +26,4 @@ h) a megállapított támogatásból támogatási célonként kifizetendő elől
 
 (5) A Kincstár – a 2007. évi XVII. törvény 60. §-ában foglaltakra is figyelemmel – a kifizetési utasítás kézhezvételétől számított harminc naptári napon belül, de legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik az előleg – a nyertes pályázó Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett fizetési számlaszámára történő – átutalásáról.
 
-[^2]: A 10. § (1) bekezdése a 39/2019. (VIII. 23.) AM rendelet 9. §-a szerint módosított szöveg.
+[^3]: A 10. § (1) bekezdése a 39/2019. (VIII. 23.) AM rendelet 9. §-a szerint módosított szöveg.
