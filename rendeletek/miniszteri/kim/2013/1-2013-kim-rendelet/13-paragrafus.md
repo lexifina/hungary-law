@@ -1,13 +1,33 @@
 ## 12/B. § Az államtudományi osztatlan mesterképzés esetén pályaalkalmassági orientációs beszélgetés keretében az Egyetem által létrehozott bizottság vizsgálja a jelentkező pálya iránti elkötelezettségét, közéleti tájékozottságát.
 
-13. § (1) A részidős (levelező munkarendű) közszolgálati ösztöndíjas közigazgatás-szervező képzésre a felsőoktatási felvételi tájékoztatóban meghatározott létszámban:
+13. §[^37] (1) A részidős (levelező munkarendű) közszolgálati ösztöndíjas közigazgatás-szervező alapképzésre a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak
 
-a) a Kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályairól szóló 148/2012. (VII. 6.) Korm. rendelet 11. § (1) bekezdés b) pontjában meghatározott tanfolyamot elvégzett azon személyek jelentkezhetnek, akik rendelkeznek munkáltatói támogató nyilatkozattal, illetve
+a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény,
 
-b) azon személyek jelentkezhetnek, akik a közszolgálatban foglalkoztatásra irányuló jogviszonnyal, továbbá a munkáltató, valamint a miniszter támogató nyilatkozatával rendelkeznek.
+b) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény,
 
-(2) A részidős (levelező munkarendű) közszolgálati ösztöndíjas közigazgatás-szervező képzésen a hallgatói jogviszony létesítésének feltétele:
+c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény,
 
-a) az (1) bekezdés a) pontjában meghatározott esetben az ott meghatározott tanfolyam elvégzését igazoló bizonyítvány megléte és a kormánytisztviselői vagy köztisztviselői vagy állami tisztviselői jogviszony fennállása,
+d) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény vagy
 
-b) az (1) bekezdés b) pontjában meghatározott esetben a közszolgálatban foglalkoztatásra irányuló jogviszony fennállása.
+e) a honvédek jogállásáról szóló 2012. évi CCV. törvény
+
+hatálya alá tartozó foglalkoztatási jogviszonnyal rendelkezők jelentkezhetnek.
+
+(2) A részidős (levelező munkarendű) közszolgálati ösztöndíjas közigazgatási mesterképzésre a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak az (1) bekezdés b)–e) pontjában meghatározott foglalkoztatási jogviszonnyal rendelkezők jelentkezhetnek.
+
+(3) A részidős (levelező munkarendű) közszolgálati ösztöndíjas államtudományi osztatlan mesterképzésre a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak az (1) bekezdés b)–e) pontjában meghatározott foglalkoztatási jogviszonnyal rendelkezők jelentkezhetnek.
+
+(4) A részidős (levelező munkarendű) közszolgálati ösztöndíjas kormányzás és vezetés mesterképzésre a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak az (1) bekezdés b)–e) pontjában meghatározott foglalkoztatási jogviszonnyal rendelkezők jelentkezhetnek.
+
+(5) A részidős (levelező munkarendű) közszolgálati ösztöndíjas fejlesztéspolitikai programmenedzsment mesterképzésre a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak az (1) bekezdés a)–e) pontjában meghatározott foglalkoztatási jogviszonnyal rendelkezők jelentkezhetnek.
+
+(6) A részidős (levelező munkarendű) közszolgálati ösztöndíjas kiberbiztonsági mesterképzésre a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak az (1) bekezdés a)–e) pontjában meghatározott foglalkoztatási jogviszonnyal rendelkezők jelentkezhetnek.
+
+(7) A részidős (levelező munkarendű) közszolgálati ösztöndíjas közgazdálkodás és közpolitika mesterképzésre a felsőoktatási felvételi tájékoztatóban meghatározott létszámban csak az (1) bekezdés b)–e) pontjában meghatározott foglalkoztatási jogviszonnyal rendelkezők, továbbá az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény hatálya alá tartozó igazságügyi alkalmazottak jelentkezhetnek.
+
+(8) A jelentkező az (1)–(7) bekezdésben meghatározott foglalkoztatási jogviszony fennállását a jelentkezési kérelemhez csatolt, a munkáltató által kiállított dokumentummal igazolja.
+
+(9) Az (1)–(7) bekezdésben meghatározott képzések esetében a hallgatói jogviszony létesítésének feltétele az (1)–(7) bekezdésben meghatározott foglalkoztatási jogviszony fennállása.
+
+[^37]: A 13. § a 20/2019. (XII. 20.) MvM rendelet 9. §-ával megállapított szöveg.
