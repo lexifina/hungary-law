@@ -6,9 +6,12 @@
 
 (3) E rendelet nem alkalmazandó a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény hatálya alá tartozó szervezetek beszerzéseire.
 
-(4)[^1] E rendelet nem alkalmazandó a Nemzeti Kommunikációs Hivatal működésével összefüggésben álló beszerzésekre.
+(4)[^2] E rendelet nem alkalmazandó a Nemzeti Kommunikációs Hivatal működésével összefüggésben álló beszerzésekre.
 
-(5)[^2] E rendelet nem alkalmazandó a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet 13. § (1) bekezdés a) pontja szerinti beszerzésekre, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság működésével összefüggésben álló beszerzésekre.
+(5)[^3] E rendelet nem alkalmazandó a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet 13. § (1) bekezdés a) pontja szerinti beszerzésekre, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság működésével összefüggésben álló beszerzésekre.
 
-[^1]: Az 1. § (4) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 5. §-a iktatta be.
-[^2]: Az 1. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 5. §-a iktatta be.
+(6)[^4] E rendelet nem alkalmazandó a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 10. § (1) bekezdés a) pontja szerinti beszerzésekre, valamint a VBÜ rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv működésével összefüggésben álló beszerzésekre.
+
+[^2]: Az 1. § (4) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 5. §-a iktatta be.
+[^3]: Az 1. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 5. §-a iktatta be.
+[^4]: Az 1. § (6) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 21. §-a iktatta be.

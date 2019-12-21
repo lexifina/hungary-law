@@ -1,4 +1,4 @@
-## 4/A. §[^3] Az ajánlatkérő az e rendelet hatálya alá tartozó olyan beszerzései tekintetében, amelyeket a közbeszerzésekért felelős miniszter által üzemeltetett egységes elektronikus közbeszerzési rendszer alkalmazásával folytat le, nem köteles a 4. § (1) bekezdése szerinti adatszolgáltatást teljesíteni.
+## 4/A. §[^5] Az ajánlatkérő az e rendelet hatálya alá tartozó olyan beszerzései tekintetében, amelyeket a közbeszerzésekért felelős miniszter által üzemeltetett egységes elektronikus közbeszerzési rendszer alkalmazásával folytat le, nem köteles a 4. § (1) bekezdése szerinti adatszolgáltatást teljesíteni.
 
 ## A beszerzések ellenőrzése
 
@@ -8,4 +8,4 @@
 
 (3) A közbeszerzésekért felelős miniszter megkeresésére az ajánlatkérő a megkeresésben megjelölt, Kbt. 4. § (3) bekezdése szerinti beszerzéseivel kapcsolatos iratanyagot – a Kbt. 195. § (5) bekezdésében foglaltak szerint – öt munkanapon belül teljeskörűen a közbeszerzésekért felelős miniszter rendelkezésére bocsátja.
 
-[^3]: A 4/A. §-t a 66/2019. (III. 27.) Korm. rendelet 17. §-a iktatta be.
+[^5]: A 4/A. §-t a 66/2019. (III. 27.) Korm. rendelet 17. §-a iktatta be.
