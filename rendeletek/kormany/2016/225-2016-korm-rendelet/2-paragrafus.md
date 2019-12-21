@@ -26,5 +26,8 @@ d)[^1] a c) pont szerinti feladatkörrel rendelkező miniszter hiányában, vagy
 
 (7)[^2] Ha az 1. § szerinti, Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést nemzetbiztonsági szolgálat – ide nem értve a Terrorelhárítási Információs és Bűnügyi Elemző Központot – kívánja megvalósítani, akkor külön szakmai állásfoglalást nem kell beszereznie, hanem a (4) és (5) bekezdésben meghatározott körülményeket a mentesítési kérelemben ismerteti.
 
+(8)[^3] A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló kormányrendelet hatálya alá tartozó beszerzés esetén a kérelemhez a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv (a továbbiakban: VBÜ) beszerzés megvalósításának tervezet módjára vonatkozó szakmai véleményét is csatolni kell. A VBÜ az ajánlatkérő erre irányuló megkeresésének kézhezvételétől számított 8 munkanapon belül küldi meg szakmai véleményét.
+
 [^1]: A 2. § (1) bekezdés d) pontja a 101/2018. (VI. 11.) Korm. rendelet 35. §-a szerint módosított szöveg.
 [^2]: A 2. § (7) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 2. § (8) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 20. §-a iktatta be.
