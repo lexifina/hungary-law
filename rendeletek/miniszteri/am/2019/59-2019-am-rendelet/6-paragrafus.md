@@ -1,0 +1,3 @@
+## 5. § A Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2015. évi igénybevételének feltételeiről szóló 35/2015. (VI. 30.) FM rendelet [a továbbiakban: 35/2015. (VI. 30.) FM rendelet] a következő 24. §-sal egészül ki:
+
+## „24. § E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételét szabályozó egyes miniszteri rendeletek módosításáról szóló 59/2019. (XII. 18.) AM rendelettel [a továbbiakban: 59/2019. (XII. 18.) AM rendelet] megállapított 9. § (3) bekezdését az 59/2019. (XII. 18.) AM rendelet hatálybalépésekor folyamatban lévő támogatások esetében is alkalmazni kell.”
