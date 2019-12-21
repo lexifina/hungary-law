@@ -26,9 +26,18 @@ c) az egészségügyi ellátás szempontjából hiányszakmának minősülő ter
 
 (6)[^76] Az (5) bekezdés szerinti nyilatkozattétel jogszerűségét az ÁEEK a (3) bekezdés szerinti képzőhelyi és egyetemi adatszolgáltatás alapján folyamatosan ellenőrzi.
 
+(7)[^77] Az (1) bekezdés b) pontja szerinti ösztöndíj a miniszter döntése alapján második vagy további szakképesítés megszerzésének ösztönzésére meghatározott szakorvosi szakterületen szakorvosok számára is kiírásra kerülhet.
+
+(8)[^78] A (2) bekezdéstől eltérően a (7) bekezdés szerinti ösztöndíj esetében a pályázati felhívásban meghatározható a szakképesítés megszerzésének, valamint ezzel összefüggésben az ösztöndíj folyósításának legkésőbbi időpontja.
+
+(9)[^79] A (7) bekezdés szerinti ösztöndíjra az e rendeletben foglaltakat a (2a) bekezdés, a 28. § (3) bekezdés b) pontja, a 28. § (3a) bekezdés a) és c) pontja, a 28. § (5) bekezdés b) pontja, valamint a 29. § kivételével kell alkalmazni.
+
 [^71]: A 26. § (1) bekezdés a) pontja a 250/2017. (IX. 5.) Korm. rendelet 64. § (1) bekezdésével megállapított szöveg.
 [^72]: A 26. § (2a) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 64. § (2) bekezdése iktatta be.
 [^73]: A 26. § (3) bekezdése a 90/2016. (IV. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^74]: A 26. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 73. §-ával megállapított szöveg.
 [^75]: A 26. § (5) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^76]: A 26. § (6) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 299. § b) pontja szerint módosított szöveg.
+[^77]: A 26. § (7) bekezdését a 328/2019. (XII. 20.) Korm. rendelet 15. §-a iktatta be.
+[^78]: A 26. § (8) bekezdését a 328/2019. (XII. 20.) Korm. rendelet 15. §-a iktatta be.
+[^79]: A 26. § (9) bekezdését a 328/2019. (XII. 20.) Korm. rendelet 15. §-a iktatta be.
