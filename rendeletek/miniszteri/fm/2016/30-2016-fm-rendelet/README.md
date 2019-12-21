@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-30-20-1
 | 2017-08-18 | 2016-30-20-11.4 | 65/2016. (IX. 21.) FM rendelet |
 | 2017-11-07 | 2016-30-20-11.5 | 55/2017. (XI. 6.) FM rendelet |
 | 2018-12-02 | 2016-30-20-11.6 | 55/2017. (XI. 6.) FM rendelet |
+| 2019-12-21 | 2016-30-20-11.7 | 55/2017. (XI. 6.) FM rendelet |
