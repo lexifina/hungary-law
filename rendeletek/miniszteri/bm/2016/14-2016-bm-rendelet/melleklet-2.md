@@ -58,7 +58,7 @@
 
 ## * Az egyenruházati cikkeknél és a ruházati felszereléseknél meghatározott tervezett viselési idők azt az időtartamot határozzák meg, aminek elteltét követően az állománynak a ruházati termékeket – ha a szolgálati feladatokat kizárólag adott ruházatban látja el – pótolni indokolt. Az azonos funkciójú (szolgálati, gyakorló-, speciális vagy munkaruházati) termékek vegyes használata mellett a ruházati cikkek tervezett viselési ideje meghosszabbodik. A ruházati szemléken a pótlandó termékek körét a termékek használtsági foka alapján kell meghatározni, figyelembe véve a ruházati utánpótlási ellátmány összegét, terhelhetőségét. A szolgálati feladatok ellátása során megsérült ruházat – az önálló szerv költségvetése terhére történő – kártérítésénél a tervezett viselési időket figyelembe kell venni.
 
-2. melléklet a 14/2016. (V. 10.) BM rendelethez[^41]
+2. melléklet a 14/2016. (V. 10.) BM rendelethez[^43]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -76,7 +76,7 @@
 
 | 5 | Gyakorló póló, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 2 | 2 |
 
-| 5a | Teniszing, sötétkék* | db | 2 | 2 | 2 | 2 | 2 |  |  | 2 | 2 |
+| 5a | Teniszing, sötétkék* | db | 4 | 2 | 2 | 2 | 2 |  |  | 2 | 2 |
 
 | 6 | 10M e. r. gyakorló zubbony, felirattal | db | 1 | 1 | 1 | 1 | 1 | 2 | 1 | 1 | 1 |
 
@@ -140,9 +140,9 @@
 
 | 31 | Szolgálati derékszíj, fekete | db | 1 | 1 | 1 | 1 |  | 1 | 1 | 1 | 1 |
 
-| 32 | Társasági nadrágszíj, fekete | db |  |  |  |  |  |  |  | 1 |  |
+| 32 |  |  |  |  |  |  |  |  |  |  |  |
 
-| 32a | 17M társasági nadrágszíj* | db |  | 1 | 1 | 1 | 1 |  |  | 1 | 1 |
+| 32a | 17M társasági nadrágszíj, fekete * | db |  | 1 | 1 | 1 | 1 |  |  | 1 | 1 |
 
 | 32b | 17M társasági nyakkendő* | db |  | 1 | 1 | 1 | 1 |  |  | 1 | 1 |
 
@@ -152,7 +152,11 @@
 
 | 35 | Bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 36 | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1**** | 1**** | 1**** |  | 1*** | 1*** |  | 1 | 1 |
+| 36 | Szolgálati, csapadék ellen védő kabát, sötétkék | db |  |  |  |  | 1*** | 1*** |  | 1 | 1 |
+
+| 36a | 16M csapadék ellen védő kabát | db | 1 | 1 | 1 |  |  |  |  | 1 | 1 |
+
+| 36b | 16M csapadék ellen védő nadrág | db | 1 | 1 | 1 |  |  |  |  | 1 | 1 |
 
 | 37 | Téli ing** | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -170,11 +174,11 @@
 
 | 44 | 5. ékítmények | Hímzett tépőzáras rendfokozati jelzés, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 45 | Hímzett váll-lap, sötétkék | pár | 1 | 3 | 3 | 2 | 2* |  |  |  |  |
+| 45 | Hímzett váll-lap, sötétkék | pár | 1 | 3 | 3 | 2 | 2* | 1* |  | 2* | 2* |
 
 | 46 | Váll-lap tábornoki, szerelve | pár |  |  |  |  |  |  |  | 2 | 2 |
 
-| 47 | Karjelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 47 | Karjelvény | db | 2 | 3* | 3* | 3* | 2 | 2 | 2 | 2 | 2 |
 
 | 48 | 6. személyi felszerelés | Málhazsák | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -196,7 +200,7 @@ A csapatszolgálati feladatokat ellátó állomány (csapatszolgálati századok
 
 *** A polgári ruhás- és a senior alapellátási normába sorolt állomány részére a szolgálati feladatok függvényében az alegységkészletből kell biztosítani.
 
-**** Ezen terméket az 1a. pont alapján 16M csapadék ellen védő kabáttal és 16M csapadék ellen védő nadrággal 2017. évben ellátott állomány – ellátását követően – legkésőbb 2017. november 30-ig köteles leadni, valamint ezen terméket az 1a. pont alapján 16M csapadék ellen védő kabátra és 16M csapadék ellen védő nadrágra jogosult állomány részére alapellátásként és alapellátás-kiegészítésként nem kell kiadni.
+****
 
 ***** Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. A tiszthelyettes vagy zászlós rendfokozati állománycsoportba tartozó férfi állomány a lábbeli költségtérítésre nem jogosult, ők a ruházati ellátási norma 8. sora szerint kiadott 12M e. r. szolgálati félcipőt használják társasági cipőként. A női állomány részére, valamint a tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó férfi állomány részére a termék természetbeni biztosítása helyett vagy mellett (a ruházati ellátási normától függően) lábbeli költségtérítés kerül kifizetésre, amelynek összege a 12M e. r. szolgálati félcipő mindenkori beszerzési értéke. A lábbeli költségtérítés elszámolási rendje megegyezik a ruházati utánpótlási ellátmány elszámolási rendjével. A beszerzendő termékre vonatkozó paraméterek nők esetében: fekete színű, díszítőelemektől mentes, maximum 7 cm sarokmagasságú, bőr lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő, férfiak esetében: fekete színű, díszítőelemektől mentes, klasszikus fazonú, fekete bőr, fűzős lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő.
 
@@ -221,16 +225,6 @@ bh) T1: Tábornoki alapellátási norma (férfi)
 bi) T2: Tábornoki alapellátási norma (női)
 
 c) Ha az igényjogosult, egyenruhás alapellátási normába sorolt az E1-E2 normában nem került nevesítésre, akkor a normabesorolást és a ruházati ellátást az igényjogosult szolgálati feladatai alapján kell meghatározni és biztosítani, továbbá a 12. § (6) és (7) bekezdésének megfelelően a kinevezési állományparancsban kell rögzíteni.
-
-1a. Az általános rendőrségi feladatok ellátására létrehozott szerv – ide nem értve a Készenléti Rendőrséget – egyenruhás alapellátási normába sorolt állományának – a bűnügyi, az igazgatásrendészeti és a kommunikációs szolgálati ágnál, az ügyeleti és a védelmi igazgatási szolgálatnál, az ellenőrzési, a gazdasági és a humánigazgatási szakszolgálatnál szolgálatot teljesítő állomány, valamint az Országos Rendőr-főkapitányság és a Repülőtéri Rendőr Igazgatóság állománya kivételével – ruházati ellátási normájának az alábbi termékek is részét képezik:
-
-|  |  | A | B | C | D | E |
-
-|  | 1 | termék megnevezése | menny. egység | csökkentett alapellátási norma CS | egyenruhás alapellátási norma E1 | egyenruhás alapellátási norma E2 |
-
-|  | 2 | 16M csapadék ellen védő kabát* | db | 1 | 1 | 1 |
-
-|  | 3 | 16M csapadék ellen védő nadrág* | db | 1 | 1 | 1 |
 
 2. Az E2-es normába sorolt, a közlekedésrendészeti szolgálati ágnál szolgálatot teljesítő állományt a normán felül egységfelszerelésként 12M e. r. fehér taktikai öv készlettel, fehér cérnakesztyűvel, valamint jelsíppal is el kell látni. A jelsíp kiadása nem történhet használt készletből.
 
@@ -340,9 +334,9 @@ a) Megjegyzés:
 
 | 2 | Vízirendészeti teniszing, fehér (a speciális szolgálatot ellátók öltözetéhez) | – |
 
-| 3 | Szolgálati, csapadék ellen védő kabát, HŐR | – |
+| 3 |  |  |
 
-| 4 | Szolgálati, csapadék ellen védő nadrág, HŐR | – |
+| 4 |  |  |
 
 | 5 | Szolgálati szövetsapka (pilotka), sötétkék, szerelve | – |
 
@@ -356,15 +350,15 @@ a) Megjegyzés:
 
 | 9 | 12M e. r. gyakorló bakancs, nyári | – |
 
-| 10 | Szolgálati nyári dzseki, sötétkék | – |
+| 10 |  |  |
 
-| 11 | Szolgálati nyári pantalló, sötétkék | – |
+| 11 |  |  |
 
 | 12 | 12M e. r. szolgálati félcipő (nyári) | – |
 
 | 13 | Szolgálati derékszíj (közlekedésrendészeti szolgálatot ellátók öltözetéhez), fehér | – |
 
-| 14 | Fehér ing rövid/hosszú ujjú, vállpántos | – |
+| 14 |  |  |
 
 | 15 | Női csizma, fekete | – |
 
@@ -512,7 +506,7 @@ a) Megjegyzés:
 
 | 32 |  | Társasági nadrágszíj, fekete | db |  |  |  |  |  | 1 |  |
 
-| 33 |  | 17M társasági nadrágszíj* | db |  | 1 | 1 | 1 | 1 |  |  |
+| 33 |  | 17M társasági nadrágszíj, fekete* | db |  | 1 | 1 | 1 | 1 |  |  |
 
 | 34 |  | 17M társasági nyakkendő* | db |  | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -520,7 +514,11 @@ a) Megjegyzés:
 
 | 36 |  | Bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 37 |  | Szolgálati, csapadék ellen védő kabát, sötétkék | db | 1**** | 1**** |  |  | 1*** | 1 | 1 |
+| 37 |  | Szolgálati, csapadék ellen védő kabát, sötétkék | db |  |  |  |  | 1*** | 1 |  |
+
+| 37a |  | 16M csapadék ellen védő kabát | db | 1 | 1 | 1 |  |  | 1 |  |
+
+| 37b |  | 16M csapadék ellen védő nadrág | db | 1 | 1 | 1 |  |  | 1 |  |
 
 | 38 |  | Téli ing** | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -562,7 +560,7 @@ a) Megjegyzés:
 
 *** A polgári ruhás alapellátási normába sorolt állomány részére a szolgálati feladatok függvényében az alegységkészletből kell biztosítani.
 
-**** Ezen terméket a 7a. pont alapján 16M csapadék ellen védő kabáttal és 16M csapadék ellen védő nadrággal 2017. évben ellátott állomány – ellátását követően – legkésőbb 2017. november 30-ig köteles leadni, valamint ezen terméket a 7a. pont alapján 16M csapadék ellen védő kabátra és 16M csapadék ellen védő nadrágra jogosult állomány részére alapellátásként és alapellátás-kiegészítésként nem kell kiadni.
+****
 
 ***** Alapfelszerelésként és alapellátás-kiegészítésként a felszerelők és azok részére kell kiadni, akiknek a ruházati normabesorolása megváltozik. A tiszthelyettes vagy zászlós rendfokozati állománycsoportba tartozó férfi állomány a lábbeli költségtérítésre nem jogosult, ők a ruházati ellátási norma 13. sora szerint kiadott 12M e. r. szolgálati félcipőt használják társasági cipőként. A női állomány részére, valamint tiszti, főtiszti vagy tábornoki rendfokozati állománycsoportba tartozó férfi állomány részére a termék természetbeni biztosítása helyett vagy mellett (a ruházati ellátási normától függően) lábbeli költségtérítés kerül kifizetésre, amelynek összege a 12M e. r. szolgálati félcipő mindenkori beszerzési értéke. A lábbeli költségtérítés elszámolási rendje megegyezik a ruházati utánpótlási ellátmány elszámolási rendjével. A beszerzendő termékre vonatkozó paraméterek nők esetében: fekete színű, díszítőelemektől mentes, maximum 7 cm sarokmagasságú, bőr lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő, férfiak esetében: fekete színű, díszítőelemektől mentes, klasszikus fazonú, fekete bőr, fűzős lábbeli, nem megfelelő a velúr, nubuk vagy lakk cipő.
 
@@ -581,16 +579,6 @@ be) T1: Tábornoki alapellátási norma (férfi)
 bf) T2: Tábornoki alapellátási norma (női)
 
 bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazgatóság Karmelita Őrség Osztály, valamint Köztársasági Elnöki Őrség Objektumvédelmi Osztály állománya részére (férfi/női)
-
-7a. A Készenléti Rendőrség egyenruhás alapellátási normába sorolt állományának – a bűnügyi, az igazgatásrendészeti és a kommunikációs szolgálati ágnál, az ügyeleti és a védelmi igazgatási szolgálatnál, az ellenőrzési, a gazdasági és a humánigazgatási szakszolgálatnál szolgálatot teljesítő állomány kivételével – ruházati ellátási normájának az alábbi termékek is részét képezik:
-
-|  |  | A | B | C | D |
-
-|  | 1 | termék megnevezése | menny. egység | csökkentett alapellátási norma | egyenruhás alapellátási norma |
-
-|  | 2 | 16M csapadék ellen védő kabát* | db | 1 | 1 |
-
-|  | 3 | 16M csapadék ellen védő nadrág* | db | 1 | 1 |
 
 8. A Készenléti Rendőrségnél szolgálatot teljesítő szenior alapellátási normába sorolt állomány ruházata – feladatellátástól függően – megegyezik az egyenruhás, a vegyes ruhás vagy a polgári ruhás alapellátási normával, kivéve a normában a költségtérítések között polgári ruhapénzként szerepeltetett tételt [7. pontban szereplő táblázat 45. sor].
 
@@ -678,4 +666,4 @@ bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazga
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^41]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja szerint módosított szöveg.
+[^43]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a szerint módosított szöveg.
