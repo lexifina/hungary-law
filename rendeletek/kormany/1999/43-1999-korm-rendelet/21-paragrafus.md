@@ -34,7 +34,7 @@ gyógypedagógiai oktatási intézményben ellátott tanuló után 2
 
 (10b)[^197] A védőnői kiegészítő pótlék összegére a védőnői szolgáltató akkor jogosult, ha a védőnőt teljes munkaidőben foglalkoztatja, részmunkaidőben történő foglalkoztatás esetén a díj arányos része illeti meg.
 
-(10c)[^198] A védőnői kiegészítő pótlék a kifizetőt terhelő adó- és járulékterheket is tartalmazza.
+(10c)[^198] A védőnői kiegészítő pótlék a kifizetőt terhelő adó- és járulékterheket is tartalmazza, kivéve az egészségügyi ágazati béremelés hatálya alá tartozó védőnőket foglalkoztató védőnői szolgáltatók esetében.
 
 (11)[^199] A területi védőnői ellátást biztosító szolgáltató az ellátandó terület sajátosságainak megfelelően havonta az alábbi fix összegű díjazásra is jogosult:
 
@@ -80,7 +80,7 @@ c)[^207] a várandós anyák számát a fővárosi és megyei kormányhivatal n�
 [^195]: A 21. § eredeti (8) bekezdésének számozását (10) bekezdésre változtatta és szövegét módosította a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, illetve 5. § (5) bekezdése. A 21. § (10) bekezdése a 224/2016. (VII. 28.) Korm. rendelet 3. § b) pontja, a 126/2017. (VI. 8.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^196]: A 21. § (10a) bekezdését a 126/2017. (VI. 8.) Korm. rendelet 1. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 3. §-a, a 139/2019. (VI. 14.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^197]: A 21. § (10b) bekezdését a 126/2017. (VI. 8.) Korm. rendelet 1. §-a iktatta be.
-[^198]: A 21. § (10c) bekezdését a 126/2017. (VI. 8.) Korm. rendelet 1. §-a iktatta be.
+[^198]: A 21. § (10c) bekezdését a 126/2017. (VI. 8.) Korm. rendelet 1. §-a iktatta be, a 328/2019. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^199]: A 21. § (9) bekezdése a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja szerint módosított szöveg, számozását (11) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése. A 21. § (11) bekezdés záró szövegrésze a 256/2013. (VII. 5.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^200]: A 21. § (11) bekezdés a) pontja a 40/2014. (II. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^201]: A 21. § (11) bekezdés b) pontja a 40/2014. (II. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
