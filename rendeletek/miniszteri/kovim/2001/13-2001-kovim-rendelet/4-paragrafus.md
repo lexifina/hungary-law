@@ -1,5 +1,3 @@
-## 3. §[^7]
-
 4. §[^8] (1)–(2)[^9]
 
 (3) Nem kell benyújtani a
@@ -86,7 +84,6 @@ f) az építtető és a műszaki vezető aláírása az építés, illetve áté
 
 (11)[^12]
 
-[^7]: A 3. §-t az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte.
 [^8]: A 4. § a 16/2006. (IV. 6.) GKM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^9]: A 4. § (1)–(2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
 [^10]: A 4. § (3) bekezdés b) pont bc) alpontja a 29/2014. (V. 5.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
