@@ -2,11 +2,11 @@
 
 ## A termék megnevezése
 
-## 1.[^102]
+## 1.[^104]
 
-## 2.[^103]
+## 2.[^105]
 
-## 3.[^104]
+## 3.[^106]
 
 ## 4. Irodabútorok
 
@@ -56,9 +56,9 @@
 
 ## 9.1. Elektronikus árlejtés szolgáltatás
 
-2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^105]
+2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^107]
 
-[^102]: Az 1. számú melléklet 1. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^103]: Az 1. számú melléklet 2. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^104]: Az 1. számú melléklet 3. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^105]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+[^104]: Az 1. számú melléklet 1. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^105]: Az 1. számú melléklet 2. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^106]: Az 1. számú melléklet 3. pontját a 257/2019. (X. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^107]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.

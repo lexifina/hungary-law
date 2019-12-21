@@ -1,3 +1,3 @@
-3. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^106]
+3. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^108]
 
-[^106]: A 3. számú mellékletet a 33/2012. (III. 7.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^108]: A 3. számú mellékletet a 33/2012. (III. 7.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

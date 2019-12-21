@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-168-20-
 | 2019-09-01 | 2004-168-20-22.29 | 204/2019. (VIII. 23.) Korm. rendelet |
 | 2019-10-31 | 2004-168-20-22.30 | 118/2008. (V. 8.) Korm. rendelet |
 | 2019-11-01 | 2004-168-20-22.31 | 257/2019. (X. 30.) Korm. rendelet |
+| 2019-12-21 | 2004-168-20-22.32 | 329/2019. (XII. 20.) Korm. rendelet |
