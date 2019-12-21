@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-316-20-
 | 2018-06-12 | 2015-316-20-22.6 | 101/2018. (VI. 11.) Korm. rendelet |
 | 2019-07-01 | 2015-316-20-22.7 | 126/2019. (V. 30.) Korm. rendelet |
 | 2019-11-20 | 2015-316-20-22.8 | 267/2019. (XI. 19.) Korm. rendelet |
+| 2019-12-21 | 2015-316-20-22.9 | 329/2019. (XII. 20.) Korm. rendelet |
