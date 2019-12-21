@@ -1,6 +1,6 @@
-## 19. §[^8] E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételének feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 32/2018. (XI. 29.) AM rendelettel [a továbbiakban: 32/2018. (XI. 29.) AM rendelet] megállapított 9. § (3) bekezdését a 32/2018. (XI. 29.) AM rendelet hatálybalépésekor[^9] folyamatban lévő támogatások esetében is alkalmazni kell.
+## 20. §[^10] E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételét szabályozó egyes miniszteri rendeletek módosításáról szóló 59/2019. (XII. 18.) AM rendelettel [a továbbiakban: 59/2019. (XII. 18.) AM rendelet] megállapított 9. § (3) bekezdését az 59/2019. (XII. 18.) AM rendelet hatálybalépésekor[^11] folyamatban lévő támogatások esetében is alkalmazni kell.
 
 1. melléklet a 20/2017. (IV. 26.) FM rendelethez
 
-[^8]: A 19. §-t a 32/2018. (XI. 29.) AM rendelet 9. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2018. december 2.
+[^10]: A 20. §-t az 59/2019. (XII. 18.) AM rendeet 9. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2019. december 21.

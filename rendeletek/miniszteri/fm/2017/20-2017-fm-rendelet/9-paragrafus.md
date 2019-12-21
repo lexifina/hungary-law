@@ -2,6 +2,6 @@
 
 (2) A nyertes pályázó a pályázatban, az egyedi támogatási kérelmet benyújtó, támogatásban részesülő ügyfél az egyedi támogatási kérelmében foglaltak megvalósítására vonatkozó tartalmat a támogatási szerződés megkötését követően – pályázat esetében a Herman Ottó Intézet felé történő bejelentési kötelezettsége mellett – legfeljebb egy alkalommal, a miniszter előzetes jóváhagyásával módosíthatja. A módosításra vonatkozó bejelentést az azt kiváltó okról történő tudomásszerzéstől számított nyolc naptári napon belül lehet megtenni.
 
-(3)[^5] A pályázati felhívásban előírt feltételeket és a pályázatnak, valamint az egyedi támogatási kérelemnek a támogatási döntés alapján elfogadott részét a támogatási szerződésben foglaltak szerinti megvalósítási határidőn belül, de legkésőbb 2019. május 31-ig kell teljesíteni.
+(3)[^5] A pályázati felhívásban előírt feltételeket és a pályázatnak, valamint az egyedi támogatási kérelemnek a támogatási döntés alapján elfogadott részét a támogatási szerződésben foglaltak szerinti megvalósítási határidőn belül, de legkésőbb 2020. december 31-ig kell teljesíteni.
 
-[^5]: A 9. § (3) bekezdése a 32/2018. (XI. 29.) AM rendelet 10. §-a szerint módosított szöveg.
+[^5]: A 9. § (3) bekezdése a 32/2018. (XI. 29.) AM rendelet 10. §-a, az 59/2019. (XII. 18.) AM rendeet 10. §-a szerint módosított szöveg.
