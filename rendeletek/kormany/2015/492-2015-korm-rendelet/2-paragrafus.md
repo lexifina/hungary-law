@@ -30,6 +30,9 @@ f) a (2) bekezdés szerinti javaslat és az ajánlatkérő által adott részlet
 
 (4) Az atomenergia békés célú alkalmazásával összefüggő nukleáris biztonságot érintő beszerzések esetében a kérelemhez az Országos Atomenergia Hivatal szakmai véleményét is csatolni kell.
 
+(4a)[^3] A központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló kormányrendelet hatálya alá tartozó beszerzés esetén a kérelemhez a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv (a továbbiakban: VBÜ) beszerzés megvalósításának tervezet módjára vonatkozó szakmai véleményét is csatolni kell. A VBÜ az erre irányuló megkeresésének kézhezvételétől számított 8 munkanapon belül küldi meg szakmai véleményét.
+
 (5) A (3) és (4) bekezdés szerinti szakmai állásfoglalást, illetve véleményt az ajánlatkérő erre irányuló megkeresésének kézhezvételétől számított 8 napon belül kell megadni.
 
 [^2]: A 2. § (1) bekezdés d) pontja a 101/2018. (VI. 11.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^3]: A 2. § (4a) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 19. §-a iktatta be.
