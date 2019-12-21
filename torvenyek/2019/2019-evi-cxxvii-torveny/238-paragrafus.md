@@ -1,6 +1,6 @@
 238. § A Kp.
 
-1. 4. § (1) bekezdésében a „cselekményének” szövegrész helyébe a „(3) bekezdés szerinti cselekményének” szöveg,
+1.
 
 2.
 

@@ -1,8 +1,8 @@
 239. § Hatályát veszti a Kp.
 
-a) 4. § (3) bekezdés b) pontja,
+a)
 
-b) 4. § (8) bekezdése,
+b)
 
 c)
 
