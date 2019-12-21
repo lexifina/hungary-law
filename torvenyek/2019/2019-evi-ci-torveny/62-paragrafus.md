@@ -1,19 +1,19 @@
 62. § Hatályát veszti a Get.
 
-a) 3. § 46. pontjában a „földgázellátási zavar esetén” szövegrész,
+a)
 
-b) 9. § (3) bekezdése,
+b)
 
-c) 53. § (2) bekezdésében a „zavar vagy” szövegrész,
+c)
 
-d) 83. § (3a) és (3b) bekezdése,
+d)
 
 e)
 
-f) 93. § (1) bekezdés d) pontjában a „fogyasztást érintő” szövegrész,
+f)
 
-g) 94. § (1) bekezdés b) pontjában a „ , fogyasztást érintő” szövegrész,
+g)
 
-h) 127. § zs) pontja,
+h)
 
-i) 127/B. és 127/C. §-a.
+i)
