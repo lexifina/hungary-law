@@ -28,23 +28,25 @@ e)[^4] az a)–d) pontokba nem tartozó olyan szervezet, amely a központosítot
 
 (2d) A miniszterelnök a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 3/A. §-ában meghatározott jogkörét – az e rendeletben meghatározottak szerint – az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
 
+(2e)[^8] E rendelet rendelkezéseit nem kell alkalmazni azon, e rendelet hatálya alá is tartozó, a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 1. § (6) bekezdés f) pontja szerinti beszerzési tárgy vagy a VBÜ rendelet 1. § (8) bekezdése szerinti, a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog tekintetében, feltéve, hogy a VBÜ rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv a VBÜ rendelet szerinti eljárási cselekményei megtétele, illetve döntések meghozatala előtt a VBÜ rendelet 1. § (10) és (11) bekezdése szerinti előzetes egyeztetések eredményeképpen erről szóló döntés született. Az ilyen beszerzést az érintett szervezet a VBÜ rendelet szerinti Portálon kezdeményezi.
+
 (3) E rendelet meghatározza
 
-a)[^8] a DKÜ feladatait és az eljárására vonatkozó szabályokat,
+a)[^9] a DKÜ feladatait és az eljárására vonatkozó szabályokat,
 
 b) az NHIT feladatait,
 
-c)[^9] az érintett szervezetek informatikai beszerzéssel összefüggő kötelezettségeit,
+c)[^10] az érintett szervezetek informatikai beszerzéssel összefüggő kötelezettségeit,
 
 d) a kormányzati központosított informatikai közbeszerzési rendszer részletes szabályait,
 
-e)[^10] a DKÜ által ellátott, a központosított közbeszerzés lefolytatása során e rendeletben meghatározott feladatokért fizetendő közbeszerzési díj mértékét,
+e)[^11] a DKÜ által ellátott, a központosított közbeszerzés lefolytatása során e rendeletben meghatározott feladatokért fizetendő közbeszerzési díj mértékét,
 
 f) az NHIT szervezetét, valamint
 
 g) az NHIT eljárására vonatkozó szabályokat.
 
-(4)[^11] E rendelet alkalmazásában
+(4)[^12] E rendelet alkalmazásában
 
 1. alkalmazás: azon – a beszerzési igény felmerülését megelőzően – még nem kifejlesztett számítógépes program, ideértve az egyedi felhasználású alapszoftvereket, a rendszerszoftvereket és az alkalmazói szoftvereket vagy szoftvercsoportokat, valamint az ezekhez kapcsolódó azon szolgáltatásokat, amelyeket az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter rendeletében meghatározott;
 
@@ -79,7 +81,8 @@ g) az NHIT eljárására vonatkozó szabályokat.
 [^5]: Az 1. § (2a) bekezdését az 50/2019. (III. 14.) Korm. rendelet 3. §-a iktatta be.
 [^6]: Az 1. § (2b) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^7]: Az 1. § (2c) bekezdéseét a 83/2019. (IV. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^8]: Az 1. § (3) bekezdés a) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^9]: Az 1. § (3) bekezdés c) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (3) bekezdés e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
-[^11]: Az 1. § (4) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (2e) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (3) bekezdés a) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^10]: Az 1. § (3) bekezdés c) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (3) bekezdés e) pontja a 83/2019. (IV. 18.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^12]: Az 1. § (4) bekezdése a 83/2019. (IV. 18.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
