@@ -1,0 +1,3 @@
+## 21. § A közbeszerzési értékhatárok alatti értékű beszerzések megvalósításával és ellenőrzésével kapcsolatos szabályokról szóló 459/2016. (XII. 23.) Korm. rendelet 1. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) E rendelet nem alkalmazandó a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 10. § (1) bekezdés a) pontja szerinti beszerzésekre, valamint a VBÜ rendelet 1. § (1) bekezdésében kijelölt központi beszerző szerv működésével összefüggésben álló beszerzésekre.”

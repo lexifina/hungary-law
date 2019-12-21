@@ -1,0 +1,7 @@
+## 4. A védelmi és biztonsági feladatokkal összefüggő beszerzéssel kapcsolatos központosított beszerzési eljárás
+
+4. § (1) Védelmi és biztonsági feladatokkal összefüggő beszerzés kizárólag az e rendeletben meghatározott jóváhagyás esetén valósítható meg. Az e rendeletben meghatározott kötelezettségek megsértésével, így különösen a jóváhagyás hiányában, valamint – figyelemmel a 9. § (10) bekezdésére és a Ptk. 6:95. §-ára – a jóváhagyástól számított 9 hónapon túl megkezdett védelmi és biztonsági feladatokkal összefüggő beszerzés vonatkozásában megkötött szerződés semmis.
+
+(2) Az érintett szervezet az előző év védelmi és biztonsági feladatokkal összefüggő beszerzései tapasztalatairól minden év január 30. napjáig – a Portálon meghatározott struktúra és adattartalom szerint részletezve – tájékoztatja a VBÜ-t.
+
+(3) A VBÜ minden év március 1. napjáig összesíti az előző év védelmi és biztonsági feladatokkal összefüggő beszerzéseinek a tapasztalatait, és javaslatot tesz a védelmi és biztonsági fejlesztések irányára. A VBÜ az összesítést és a javaslatokat a Nemzetbiztonsági Kabinet részére küldi meg. Az összesítést és a javaslatokat a Nemzetbiztonsági Kabinet jelentés formájában terjeszti a Kormány elé.

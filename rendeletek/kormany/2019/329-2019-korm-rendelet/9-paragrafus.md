@@ -1,0 +1,43 @@
+9. § (1) Az e rendelet szerint előterjesztett beszerzési tervet vagy beszerzési igényt a Kormány a Kormány ügyrendjében meghatározottak szerint bírálja el. A Kormány döntéséről a Nemzetbiztonsági Kabinet titkársága tájékoztatja a VBÜ-t.
+
+(2) A VBÜ által jóváhagyásra az e rendelet szabályai szerint előterjesztett beszerzési tervet vagy beszerzési igényt a Nemzetbiztonsági Kabinet saját ülésén, vagy a Kormány ügyrendjében meghatározottak alapján – az ott meghatározott eljárásrend szerint – véleményezi.
+
+(3) A Nemzetbiztonsági Kabinet a megalapozott vélemény kialakítása érdekében, ha szükséges,
+
+a) a 6–8. §-ban meghatározott eljárás vonatkozásában a VBÜ-t vizsgálat lefolytatására hívhatja fel,
+
+b) bármely – a Kormány irányítása vagy felügyelete alá tartozó – központi államigazgatási szervet, e szerv vezetőjét, annak helyettesítésére jogosult tisztségviselőt közvetlenül megkeresheti, valamint
+
+c) a VBÜ-t a 3. § (4) bekezdése szerinti ellenőrzés lefolytatására hívhatja fel.
+
+(4) A Nemzetbiztonsági Kabinet (3) bekezdés b) pontja szerinti megkeresésére a megkeresett szerv vagy személy a kért tájékoztatást soron kívül, de legfeljebb a megkeresés kézhezvételétől számított 5 munkanapon belül köteles megadni, valamint köteles soron kívül együttműködni.
+
+(5) A Nemzetbiztonsági Kabinet a beszerzési tervet, illetve a beszerzési igényt a Kormány számára
+
+a) jóváhagyásra javasolja,
+
+b) feltételekkel javasolja jóváhagyásra, vagy
+
+c) elutasításra javasolja.
+
+(6) A beszerzési tervet, illetve a beszerzési igényt a Nemzetbiztonsági Kabinet terjeszti a Kormány elé. A Nemzetbiztonsági Kabinet a Kormány részére készített előterjesztésben ismerteti a VBÜ 7. § (5) bekezdése, avagy 8. § (2) vagy (3) bekezdése szerinti jelölését.
+
+(7) Ha a Nemzetbiztonsági Kabinet véleménye eltér a VBÜ által alkalmazott jelöléstől, a Nemzetbiztonsági Kabinet az eltérő véleménye okát az előterjesztésben bemutatja a Kormánynak.
+
+(8) A Kormány a beszerzési tervet vagy a beszerzési igényt
+
+a) jóváhagyja,
+
+b) feltételekkel jóváhagyja, vagy
+
+c) elutasítja.
+
+(9) A Kormány (1) és (8) bekezdés szerinti döntéséről a Kormány ügyrendjében meghatározott határozat készül, amelyet a Nemzetbiztonsági Kabinet titkársága a VBÜ és az érintett szervezet részére is megküld.
+
+(10) A beszerzési igény esetében a Kormány jóváhagyása, illetve feltételekkel történő jóváhagyása az érintett szervezettel történő közléstől számított 9 hónapig hajtható végre. E határidő lejártát követően a beszerzési igény kielégítésére szolgáló beszerzési eljárás nem indítható.
+
+(11) Ha a Kormány a jóváhagyását feltételhez kötötte, a beszerzési tervet vagy a beszerzési igényt a feltételek teljesülésével a Kormány által jóváhagyottnak kell tekinteni. Az érintett szervezet a feltételek teljesüléséről az ennek bekövetkezésétől számított 5 munkanapon belül a Portálon keresztül – minősített adatok esetén, ha a Portál minősített adat továbbítására nem alkalmas, írásban – beszámol a VBÜ részére.
+
+(12) A Nemzetbiztonsági Kabinet a véleménye kialakítása során az e rendeletben és a Kormány ügyrendjében meghatározott hatáskörében eljárva szabadon mérlegelhet, a véleményét a rendelkezésre álló adatok alapján alakítja ki.
+
+(13) A Kormányt a Nemzetbiztonsági Kabinet véleménye nem köti. A Kormánynak az elutasító döntését nem kell indokolnia, azonban meghatározhatja azokat a szempontokat, amelyek alapján az átdolgozott beszerzési terv vagy beszerzési igény ismételten előterjeszthető.
