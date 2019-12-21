@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-7-20-6N
 | 2017-03-15 | 2017-7-20-6N.1 | 7/2017. (III. 7.) MvM rendelet |
 | 2017-03-16 | 2017-7-20-6N.2 | 2010: CXXX. törvény |
 | 2017-10-08 | 2017-7-20-6N.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2019-12-21 | 2017-7-20-6N.4 | 2010: CXXX. törvény |
