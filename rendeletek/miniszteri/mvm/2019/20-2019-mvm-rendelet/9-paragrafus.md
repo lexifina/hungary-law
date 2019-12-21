@@ -1,0 +1,7 @@
+## 8. § Az R. 11. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) A katonai vezetői alapképzési szak nappali munkarendű képzésére a jelentkezési feltétel az angol, német vagy francia nyelvből tett államilag elismert vagy azzal egyenértékű B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga. A szakra csak „megfelelt” eredményű alkalmassági vizsga letételével lehet felvételt nyerni.
+
+## (2) A katonai üzemeltetés, a katonai logisztika, valamint a katonai gazdálkodás alapképzési szakok nappali munkarendű képzésére jelentkezési feltétel az angol, német vagy francia nyelvből tett államilag elismert B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga vagy azzal egyenértékű okirat. Az állami légiközlekedési alapképzési szak nappali munkarendű képzésére jelentkezési feltétel az angol nyelvből tett államilag elismert B2 szintű (korábban középfokú) komplex (korábban C típusú) nyelvvizsga vagy azzal egyenértékű okirat. A szakokra csak „megfelelt” eredményű alkalmassági vizsga letételével lehet felvételt nyerni.
+
+## (3) A katonai vezetői, a katonai üzemeltetés és a katonai műveleti logisztika mesterképzési szak nappali munkarendjére az állomány azon századosi vagy magasabb rendfokozatú tagja jelentkezhet, aki rendelkezik angol nyelvből államilag elismert STANAG 6001. szerinti, 2.2.2.2. szintű nyelvvizsga-bizonyítvánnyal, a Magyar Honvédség parancsnokának előzetes engedélyével, valamint közigazgatási alapvizsgával.”
