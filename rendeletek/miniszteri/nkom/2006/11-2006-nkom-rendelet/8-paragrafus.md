@@ -5,3 +5,7 @@
 (3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket I. kategóriába sorolom.
 
 (4) A védetté nyilvánítás célja az Alpár Ignác által tervezett, 1902–1907 között épült Tőzsdepalota építészeti értékeinek és kiemelkedő városképi szerepének megőrzése.
+
+(5)[^2] Az (1) bekezdés szerinti műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
+
+[^2]: A 8. § (5) bekezdését a 19/2019. (XII. 20.) Korm. rendelet 13. § (1) bekezdése iktatta be.
