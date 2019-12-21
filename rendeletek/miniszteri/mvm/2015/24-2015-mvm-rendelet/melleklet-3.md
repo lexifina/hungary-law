@@ -284,8 +284,8 @@
 
 |  |  | zöldséghajtató és gombatermesztő szakmérnök |
 
-3. melléklet a 24/2015. (IV. 28.) MvM rendelethez[^35]
+3. melléklet a 24/2015. (IV. 28.) MvM rendelethez[^38]
 
 Értékelés
 
-[^35]: A 3. melléklet a 28/2015. (VI. 9.) MvM rendelet 98. §-a szerint módosított szöveg.
+[^38]: A 3. melléklet a 28/2015. (VI. 9.) MvM rendelet 98. §-a szerint módosított szöveg.
