@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-30-00-00
 | 2018-01-01 | 2017. évi CLXXXIX. törvény | 2016-30-00-00.4 |
 | 2018-08-08 | 2018. évi LIV. törvény | 2016-30-00-00.5 |
 | 2019-02-01 | 2018. évi CXV. törvény | 2016-30-00-00.6 |
+| 2019-12-21 | 2019. évi CXXVIII. törvény | 2016-30-00-00.7 |

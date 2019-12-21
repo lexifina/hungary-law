@@ -34,7 +34,9 @@
 
 16. az ajánlatkérő olyan jogi személlyel kötött szerződésére, amely felett az ajánlatkérő más ajánlatkérőkkel közösen a saját szervezeti egységei felettihez hasonló irányítást gyakorol, az ajánlatkérők közösen döntő befolyással rendelkeznek annak stratégiai céljai meghatározásában és működésével kapcsolatos jelentős döntéseinek meghozatalában, valamint amelyben közvetlen magántőke-részesedés nincsen, és amely éves nettó árbevételének több mint 80%-a az irányítást gyakorló ajánlatkérővel, ajánlatkérőkkel, vagy az ajánlatkérő által e pont szerint irányítottak más jogi személlyel kötött vagy kötendő szerződések teljesítéséből származik, valamint
 
-17. az ajánlatkérő másik ajánlatkérővel vagy ajánlatkérőkkel kötött szerződésére, amelynek célja közfeladatok teljesítésére, illetve közszolgáltatások nyújtására vagy közös közérdekű célok megvalósítására irányuló együttműködés kialakítása az ajánlatkérők között, ahol az ajánlatkérők együttműködéssel érintett tevékenységéből származó éves nettó árbevételének legfeljebb 20%-a származik a nyílt piacról.
+17. az ajánlatkérő másik ajánlatkérővel vagy ajánlatkérőkkel kötött szerződésére, amelynek célja közfeladatok teljesítésére, illetve közszolgáltatások nyújtására vagy közös közérdekű célok megvalósítására irányuló együttműködés kialakítása az ajánlatkérők között, ahol az ajánlatkérők együttműködéssel érintett tevékenységéből származó éves nettó árbevételének legfeljebb 20%-a származik a nyílt piacról,
+
+18. a központi beszerző szerv által központosított beszerzés útján beszerzett áru, szolgáltatás vagy építési beruházás megrendelésére azon szervezetek részéről, amelyek javára a központi beszerző szerv beszerzési szerződést kötött, valamint a központi beszerző szerv által nyújtott járulékos beszerzési szolgáltatások megrendelésére.
 
 (2) Az (1) bekezdés 6. pontja szerinti esetben az ajánlatkérő tájékoztatja az Európai Bizottságot (a továbbiakban: Bizottság) a kutatási és fejlesztési kiadásoknak a program teljes költségéhez képest számított arányáról, a költségmegosztási megállapodásról, valamint a beszerzések megosztása esetén a lefolytatni tervezett beszerzések arányáról.
 

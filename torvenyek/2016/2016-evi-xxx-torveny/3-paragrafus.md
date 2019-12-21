@@ -62,6 +62,14 @@ c) építési beruházás esetén az építőanyag-eladót,
 
 27. írásbeli konzultáció: keretmegállapodásos eljárásban folytatható írásbeli egyeztetés a külön jogszabályban meghatározott feltételek összességéről,
 
+27a. járulékos beszerzési szolgáltatás: beszerzési eljárás lefolytatásához nyújtott támogatási tevékenység, így különösen
+
+a) beszerzési eljárások lefolytatását, valamint keretmegállapodások megkötését az ajánlatkérő számára lehetővé tevő műszaki infrastruktúra rendelkezésre bocsátása,
+
+b) beszerzési eljárások lefolytatásával vagy tervezésével kapcsolatos tanácsadás, valamint
+
+c) beszerzési eljárások előkészítése és lefolytatása az érintett ajánlatkérő nevében és javára,
+
 28. jegyzék: az e törvény szerinti biztonsági beszerzési eljárásokban kötelezően érvényesítendő biztonsági követelményeknek megfelelő gazdasági szereplőknek az Alkotmányvédelmi Hivatal (a továbbiakban: AH) által vezetett listája,
 
 29. katonai célú építési beruházás: a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, illetve e minisztérium, továbbá az e minisztérium közvetlen alárendeltségébe tartozó szervezetek, a honvédelemért felelős miniszter irányítása alatt álló központi hivatalok, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény, a Katonai Nemzetbiztonsági Szolgálat, valamint a Magyar Honvédség katonai szervezetei használatában lévő épületen, építményen, építményrészen, építményegyüttesen és ingatlanon – ideértve az ingatlanokhoz közvetlenül tartozó nyomvonal jellegű építményeket is –, valamint Magyarország területének a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított, az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében meghatározott szélességű sávjában, az ott megjelölt célok megvalósítása érdekében megvalósuló építési beruházás, amelynek megvalósítása egészben hazai költségvetési forrásból történik,
@@ -73,6 +81,14 @@ c) építési beruházás esetén az építőanyag-eladót,
 32. kiemelt alvállalkozó: az az alvállalkozó, aki a teljesítése során „Korlátozott terjesztésű” adatot vagy annál magasabb minősítésű adatot kezel,
 
 33. közös műszaki leírás: olyan műszaki leírás, amelyet a tagállamok által elismert eljárásnak megfelelően állapítottak meg, és az Európai Unió Hivatalos Lapjában közzétettek,
+
+33a. központi beszerző szerv: a központosított beszerzés során ajánlatkérésre feljogosított szervezet,
+
+33b. központosított beszerzés: a központi beszerző szerv által állandó jelleggel ellátott olyan tevékenység, amelynek célja
+
+a) áruk vagy szolgáltatások megrendelése az e törvény szerinti ajánlatkérők számára való továbbértékesítés céljából, valamint
+
+b) az e törvény szerinti ajánlatkérők számára áruk beszerzésére, szolgáltatások vagy építési beruházások megrendelésére irányuló szerződések vagy keretmegállapodások megkötése,
 
 34. kutatás és fejlesztés: alap- és alkalmazott kutatásokat, valamint kísérleti fejlesztéseket magában foglaló minden olyan tevékenység, ahol az utóbbi tevékenység technológiai prototípusok, azaz valamely új koncepció vagy technológia teljesítményének a releváns vagy reprezentatív környezetben történő bemutatására szolgáló eszköz megvalósítására is kiterjed,
 
