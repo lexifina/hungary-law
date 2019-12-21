@@ -38,7 +38,7 @@
 
 | 17 | 49–51 | 140 382 | 148 155 | 166 741 |
 
-9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^75]
+9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^90]
 
 ## Bérkiegészítési támogatás elszámolásához szükséges havi bérszámfejtési adatok
 
@@ -156,4 +156,4 @@
 
 3.3. Munkáltatónkénti bontásban az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának biztosítása érdekében a foglalkoztatottak részére utalványozott különbözet összege a 3. § (5) bekezdésében foglaltak alapján, valamint a különbözethez kapcsolódóan összesen utalványozott kifizetőt terhelő közterhek összege.
 
-[^75]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^90]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 25/2017. (II. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
