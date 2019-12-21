@@ -44,11 +44,7 @@ b)[^25] a működtetési időszak teljes időtartama alatt a gazdaság legtávol
 
 c) a támogatási összeg fennmaradó 10%-ának igényléséig legalább a 2. melléklet szerinti végzettségek legalább egyike tekintetében BSc szintű szakirányú végzettséget szerez, és ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 5%-át visszafizetni;
 
-d)[^26] a működtetési időszak 3. vagy 4. évének kezdetétől főállású mezőgazdasági termelővé válik
-
-da) és a támogatási kérelemben vállalt évet követően, de a működtetési időszak valamely évének kezdetétől válik főállású mezőgazdasági termelővé, és ezt a működtetési időszak végéig fenntartja, akkor a kifizetett támogatási összeg 50%-át köteles az intézkedésben való jogosulatlan részvétel jogcímén visszafizetni, vagy
-
-db) azonban a működtetési időszak 5. évének kezdetétől sem válik főállású mezőgazdasági termelővé, vagy nem tartja fenn a működtetési időszak végéig, akkor a már igénybe vett támogatás jogosulatlannak minősül és az ügyfél támogatáshoz való joga megszűnik;
+d)[^26] a működtetési időszak 3. vagy 4. évének kezdetétől főállású mezőgazdasági termelővé válik, de ennek a kötelezettségének a működtetési időszak 5. évének kezdetétől sem tesz eleget, vagy e kötelezettségét nem tartja fenn a működtetési időszak végéig, akkor a kifizetett támogatási összeg 20%-át köteles intézkedésben való jogosulatlan részvétel jogcímén visszafizetni;
 
 e)[^27] életvitelszerűen tanyára vagy a Központi Statisztikai Hivatal által a támogatási kérelembenyújtás évének január 1-jei dátummal közzétett helységnévtár alapján 1000 fő alatti lakosságszámú településre költözik legkésőbb a működtetési időszak első évének végéig és ezt a teljes működtetési időszak alatt fenntartja, és ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 20%-át visszafizetni;
 
@@ -62,13 +58,15 @@ gb)[^30] 2 fő lesz, de ezt nem teljesíti, akkor köteles a kifizetett támogat
 
 gc)[^31] több mint 2 fő lesz, de ezt nem teljesíti, akkor köteles a kifizetett támogatási összeg 6%-át intézkedésben való jogosulatlan részvétel jogcímén visszafizetni; amennyiben 1 főt alkalmaz, a támogatási összeg 4%-át, amennyiben 2 főt alkalmaz, a támogatási összeg 2%-át intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
 
+(9a)[^32] Mentesül az ügyfél a (9) bekezdés e) és f) pontja szerinti jogkövetkezmény alól, ha a lakcímet igazoló hatósági igazolványában rögzített tartózkodási hely érvényességi ideje a működtetési időszak alatt lejár, de a lejáratot követő legfeljebb nyolc hónapon belül – a támogatási kérelme szerinti vállalásának megfelelően – a személyiadat- és lakcímnyilvántartásba vétel céljából bejelenti az életvitelszerű tartózkodási helyét.
+
 (10) Az ügyfél támogatási jogosultsága megszűnik, ha nem teljesíti
 
 a) a 11. § (1) bekezdésében meghatározott kérelembenyújtási kötelezettségét, vagy
 
-b)[^32]
+b)[^33]
 
-(11)[^33] Az ügyfél támogatási jogosultsága megszűnik, ha a támogatási összeg fennmaradó 10%-ára vonatkozó
+(11)[^34] Az ügyfél támogatási jogosultsága megszűnik, ha a támogatási összeg fennmaradó 10%-ára vonatkozó
 
 a) kifizetési kérelmet a 11. § (4) bekezdésében meghatározott határidőig nem nyújtja be, vagy
 
@@ -76,7 +74,7 @@ b) kifizetési kérelmet elutasítják.
 
 (12) Az ügyfélre vonatkozóan megállapított összes visszafizetési kötelezettség nem haladhatja meg a Tv. 69. § (5) bekezdése szerint meghatározott, jogosulatlan részvétellel igénybe vett támogatás esetén alkalmazandó szankció mértékét.
 
-(13)[^34] A (11) bekezdéstől eltérően, az ügyfélnek kizárólag a támogatási összeg fennmaradó 10%-ához való jogosultsága szűnik meg, ha
+(13)[^35] A (11) bekezdéstől eltérően, az ügyfélnek kizárólag a támogatási összeg fennmaradó 10%-ához való jogosultsága szűnik meg, ha
 
 a) a működtetési időszak 5. évében teljesül az üzleti tervben a 4. évre vállalt üzemméret vagy
 
@@ -92,12 +90,13 @@ b) a működtetési időszak 5. évét követő év június 1. és 30. között 
 [^23]: A 12. § (6)–(7) bekezdését a 35/2017. (XII. 27.) MvM rendelet 18. § b) pontja hatályon kívül helyezte.
 [^24]: A 12. § (9) bekezdés a) pontja a 7/2015. (II. 17.) MvM rendelet 78. § (5) bekezdésével megállapított szöveg.
 [^25]: A 12. § (9) bekezdés b) pontja a 35/2017. (XII. 27.) MvM rendelet 13. §-ával megállapított szöveg.
-[^26]: A 12. § (9) bekezdés d) pontja a 35/2017. (XII. 27.) MvM rendelet 14. §-ával megállapított szöveg.
+[^26]: A 12. § (9) bekezdés d) pontja a 60/2019. (XII. 18.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^27]: A 12. § (9) bekezdés e) pontja a 8/2014. (XI. 19.) MvM rendelet 25. § (2) bekezdésével megállapított szöveg.
 [^28]: A 12. § (9) bekezdés f) pontja a 8/2014. (XI. 19.) MvM rendelet 25. § (2) bekezdésével megállapított szöveg.
 [^29]: A 12. § (9) bekezdés g) pont ga) alpontja a 7/2015. (II. 17.) MvM rendelet 78. § (6) bekezdésével megállapított szöveg.
 [^30]: A 12. § (9) bekezdés g) pont gb) alpontja a 7/2015. (II. 17.) MvM rendelet 78. § (6) bekezdésével megállapított szöveg.
 [^31]: A 12. § (9) bekezdés g) pont gc) alpontja a 7/2015. (II. 17.) MvM rendelet 78. § (6) bekezdésével megállapított szöveg.
-[^32]: A 12. § (10) bekezdés b) pontját a 35/2017. (XII. 27.) MvM rendelet 18. § c) pontja hatályon kívül helyezte.
-[^33]: A 12. § (11) bekezdése a 35/2017. (XII. 27.) MvM rendelet 15. §-ával megállapított szöveg.
-[^34]: A 12. § (13) bekezdését a 35/2017. (XII. 27.) MvM rendelet 16. §-a iktatta be.
+[^32]: A 12. § (9a) bekezdését a 60/2019. (XII. 18.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^33]: A 12. § (10) bekezdés b) pontját a 35/2017. (XII. 27.) MvM rendelet 18. § c) pontja hatályon kívül helyezte.
+[^34]: A 12. § (11) bekezdése a 35/2017. (XII. 27.) MvM rendelet 15. §-ával megállapított szöveg.
+[^35]: A 12. § (13) bekezdését a 35/2017. (XII. 27.) MvM rendelet 16. §-a iktatta be.
