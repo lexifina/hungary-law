@@ -1,1 +1,3 @@
-## 4. § A Korm. r. 11. § (2) bekezdésében a „közösségi” szövegrész helyébe az „uniós” szöveg lép.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
