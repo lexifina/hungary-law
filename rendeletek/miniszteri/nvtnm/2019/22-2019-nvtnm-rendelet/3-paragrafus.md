@@ -1,4 +1,4 @@
-## 2. §[^1]
+## 2. §[^2]
 
 3. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A (2) bekezdésben meghatározott feltétel bekövetkezéséről szóló határozatot a miniszter a Magyar Közlönyben, a feltétel bekövetkezésének a napján közzéteszi.
 
-[^1]: A 2. § a 3. § (2) bekezdésében foglalt időpontban lép hatályba.
+[^2]: A 2. § a 3. § (2) bekezdésében foglalt időpontban lép hatályba.
