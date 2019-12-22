@@ -1,1 +1,3 @@
-## „(11a) Mentesül az ügyfél a (11) bekezdés e) és f) pontja szerinti jogkövetkezmény alól, ha a lakcímet igazoló hatósági igazolványában rögzített tartózkodási hely érvényességi ideje a működtetési időszak alatt lejár, de a lejáratot követő legfeljebb nyolc hónapon belül – a támogatási kérelme szerinti vállalásának megfelelően – a személyiadat- és lakcímnyilvántartásba vétel céljából bejelenti az életvitelszerű tartózkodási helyét.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
