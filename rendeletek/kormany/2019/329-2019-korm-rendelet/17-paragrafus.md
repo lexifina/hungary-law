@@ -1,7 +1,3 @@
-## „(3) Nincs helye az e rendelet szerinti beszerzésnek a VBÜ rendelet 10. § (1) bekezdés b) pontja szerinti beszerzések esetében
+## 16. §[^1]
 
-## a) a VBÜ rendelet 9. § (8) bekezdés a) pontjában meghatározott jóváhagyás, valamint
-
-## b) a VBÜ rendelet 9. § (8) bekezdés b) pontjában meghatározott – a VBÜ rendelet 9. § (11) bekezdése szerinti beszámolót követő – feltételes jóváhagyás
-
-## hiányában.”
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
