@@ -1,3 +1,3 @@
-## 5. § Az R. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^6]
 
-## „(2) A bűnügyi igazgatási alapképzési szak bűnügyi nyomozó, gazdaságvédelmi nyomozó, valamint informatikai nyomozó szakiránya, továbbá a rendészeti igazgatási alapképzési szak közlekedésrendészeti, igazgatásrendészeti, határrendészeti, valamint közrendvédelmi szakiránya levelező munkarendben folyó, támogatott képzésére történő jelentkezés feltétele a rendőrséggel vagy az Országgyűlési Őrséggel fennálló hivatásos szolgálati viszony. A jelentkezőnek rendelkeznie kell az állományilletékes parancsnok támogató nyilatkozatával.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

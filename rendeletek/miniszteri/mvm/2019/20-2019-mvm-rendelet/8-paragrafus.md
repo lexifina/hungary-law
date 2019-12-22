@@ -1,3 +1,3 @@
-## 7. § Az R. 10. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(4) A kriminalisztika mesterképzési szak polgári szakiránya, valamint a biztonsági szervező mesterképzési szak esetén a jelentkezésnek nem feltétele a 7. § (1) bekezdés b) pontjában foglalt nyilatkozat.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
