@@ -1,3 +1,3 @@
-## 9. § A 256/2013. (VII. 5.) Korm. rendelet 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^9]
 
-## „(3) A védőnői szolgáltató részére az alapbéremeléshez kapcsolódó támogatás havi mértéke 2019. július hónaptól megegyezik a 2019. július 1-jén hatályos 15. mellékletben szereplő és az azt terhelő mindenkori szociális hozzájárulási adó összegével emelt összeggel, valamint a védőnő alapbérébe beépített kiegészítő pótlékra eső mindenkori szociális hozzájárulási adó összegével.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## 10. § A 256/2013. Korm. rendelet a következő 4/F. §-sal egészül ki:
+## 10. §[^10]
 
-## „4/F. § (1) Az egészségügyi szolgáltató munkáltató a 3/A. § (3) és (4) bekezdése szerinti támogatás iránti igényét, valamint a védőnői szolgáltató munkáltató a 3/B. § (3) bekezdése szerinti támogatás iránti igényét a NEAK által meghatározott, elektronikusan kitölthető kérelem formájában nyújthatja be legkésőbb 2020. január 24-ig. Az egészségügyi szolgáltató munkáltató és a védőnői szolgáltató munkáltató (a továbbiakban együtt: munkáltató) a foglalkoztatási adatokban, illetve a támogatási összegben bekövetkezett változás esetén köteles a megállapított támogatásra korrekciós igényt benyújtani minden hónap 10. napjáig, a NEAK által meghatározott adatszolgáltatási formátumban. A munkáltató a korrekciós igényt a tárgyhavi munkáltatói foglalkoztatási adatok alapján nyújtja be.
-
-## (2) A 3/A. § és 3/B. § szerint megállapított támogatási összeget a NEAK először 2020. február 3-áig, majd ezt követően havonta utalványozza a munkáltatónak. A támogatás fedezetéül az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete szerinti egészségügyi dolgozók 2018–2020. évi béremelésének fedezete előirányzat szolgál.
-
-## (3) A támogatás kizárólag a 2020. január hónaptól alkalmazandó béremelésre, az ahhoz kapcsolódó mozgóbér elemek összegére, valamint az azokra tekintettel ténylegesen megfizetett szociális hozzájárulási adóhoz használható fel. A támogatás terhére az e rendeletben foglalt jogcímeken túl más jogcímen kifizetés nem teljesíthető.”
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
