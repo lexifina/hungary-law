@@ -1,3 +1,5 @@
-## 2. § Az 56/2013. (VI. 29.) VM rendelet 9. § (3) bekezdésében a „2019. május 31-ig” szövegrész helyébe a „2020. december 31-ig” szöveg lép.
+## 2. §[^3]
 
 ## 2. A Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2014. évi igénybevételének feltételeiről szóló 7/2014. (II. 6.) VM rendelet módosítása
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

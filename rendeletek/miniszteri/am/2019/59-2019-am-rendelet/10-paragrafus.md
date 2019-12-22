@@ -1,3 +1,3 @@
-## 9. § A Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2017. évi igénybevételének feltételeiről szóló 20/2017. (IV. 26.) FM rendelet [a továbbiakban: 20/2017. (IV. 26.) FM rendelet] a következő 20. §-sal egészül ki:
+## 9. §[^10]
 
-## „20. § E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételét szabályozó egyes miniszteri rendeletek módosításáról szóló 59/2019. (XII. 18.) AM rendelettel [a továbbiakban: 59/2019. (XII. 18.) AM rendelet] megállapított 9. § (3) bekezdését az 59/2019. (XII. 18.) AM rendelet hatálybalépésekor folyamatban lévő támogatások esetében is alkalmazni kell.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

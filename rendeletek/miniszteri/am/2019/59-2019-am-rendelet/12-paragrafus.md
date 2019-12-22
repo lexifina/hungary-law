@@ -1,3 +1,3 @@
-## 11. § A Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2018. évi igénybevételének feltételeiről szóló 33/2018. (IX. 29.) AM rendelet [a továbbiakban: 33/2018. (IX. 29.) AM rendelet] a következő 16/B. §-sal egészül ki:
+## 11. §[^12]
 
-## „16/B. § E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételét szabályozó egyes miniszteri rendeletek módosításáról szóló 59/2019. (XII. 18.) AM rendelettel [a továbbiakban: 59/2019. (XII. 18.) AM rendelet] megállapított 9. § (2) bekezdését az 59/2019. (XII. 18.) AM rendelet hatálybalépésekor folyamatban lévő támogatások esetében is alkalmazni kell.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

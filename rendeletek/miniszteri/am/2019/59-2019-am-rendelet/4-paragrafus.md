@@ -1,3 +1,3 @@
-## 3. § A Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2014. évi igénybevételének feltételeiről szóló 7/2014. (II. 6.) VM rendelet [a továbbiakban: 7/2014. (II. 6.) VM rendelet] a következő 19. §-sal egészül ki:
+## 3. §[^4]
 
-## „19. § E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételét szabályozó egyes miniszteri rendeletek módosításáról szóló 59/2019. (XII. 18.) AM rendelettel [a továbbiakban: 59/2019. (XII. 18.) AM rendelet] megállapított 9. § (3) bekezdését az 59/2019. (XII. 18.) AM rendelet hatálybalépésekor folyamatban lévő támogatások esetében is alkalmazni kell.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
