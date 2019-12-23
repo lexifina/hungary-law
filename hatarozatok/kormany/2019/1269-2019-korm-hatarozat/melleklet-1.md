@@ -1,6 +1,6 @@
 ## 1. egyetért azzal, hogy Borsod-Abaúj-Zemplén megye és Heves megye lakosainak sugárterápiás ellátási helyzetének stabilizálása, illetve az ellátás minőségének javítása érdekében szükséges a Borsod-Abaúj-Zemplén megyei Központi Kórház sugárterápiás eszközparkjának fejlesztése, ennek keretében támogatja két új lineáris gyorsító beszerzését, mindösszesen 1 833 880 000 forint összegben;
 
-## 2. az 1. pont szerinti beruházás végrehajtása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdése szerinti jogkörében eljárva 1 833 880 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím javára, az 1. melléklet szerint.
+## 2.[^1] az 1. pont szerinti beruházás végrehajtása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdése szerinti jogkörében eljárva 1 833 880 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím javára, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2019. december 31.
+## Határidő: 2020. február 29.
 
 1. melléklet az 1269/2019. (V. 8.) Korm. határozathoz
 
@@ -89,3 +89,5 @@
 |  |  | egyéb: | azonnal |  |  |  |  | 1 833 880 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 2. pont az 1783/2019. (XII. 23.) Korm. határozattal módosított szöveg.
