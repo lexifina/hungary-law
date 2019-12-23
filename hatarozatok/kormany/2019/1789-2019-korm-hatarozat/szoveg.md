@@ -1,0 +1,1 @@
+A Kormány visszavonja a 2014–2020 közötti programozási időszakban uniós forrásból megvalósítani tervezett nagyprojektekkel kapcsolatos feladatokról szóló 1374/2017. (VI. 13.) Korm. határozat 8. pontját.
