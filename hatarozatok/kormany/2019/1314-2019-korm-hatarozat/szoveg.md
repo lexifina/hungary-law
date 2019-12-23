@@ -4,7 +4,7 @@ A Kormány a Semmelweis Egyetem fejlesztése és a Semmelweis XXI. Fejlesztési 
 
 2. a Beruházási Ügynökség által az 1. pont szerinti beruházás megvalósításához a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére vállalható kötelezettség összegét 2 781 000 000 forintban határozza meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetet a 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímét a 4. Kútvölgyi Klinikai Tömb klinikáinak elhelyezése a Semmelweis Egyetem telephelyein jogcímcsoporttal, 1. Semmelweis Egyetem telephelyeinek felújítása jogcímmel egészíti ki;
+3.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetet a 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímét a 7. Kútvölgyi Klinikai Tömb klinikáinak elhelyezése a Semmelweis Egyetem telephelyein jogcímcsoporttal, 1. Semmelweis Egyetem telephelyeinek felújítása jogcímmel egészíti ki;
 
 Felelős: pénzügyminiszter
 
@@ -47,3 +47,5 @@ Határidő: 2019-ben a felmerülés ütemében
 Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
+
+[^1]: A 3. pont az 1796/2019. (XII. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
