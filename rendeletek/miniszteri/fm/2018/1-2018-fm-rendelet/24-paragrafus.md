@@ -1,4 +1,4 @@
-## 23/C. §[^26] E rendeletnek az egyes borászati tárgyú miniszteri rendeletek módosításáról szóló 19/2018. (VII. 27.) AM rendelettel megállapított a 9. § (4) bekezdését az e rendelkezés hatálybalépésekor és az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 30/2018. (X. 11.) AM rendelet hatálybalépésekor[^27] is folyamatban lévő eljárásokban is alkalmazni kell.
+## 23/C. §[^56] E rendeletnek az egyes borászati tárgyú miniszteri rendeletek módosításáról szóló 19/2018. (VII. 27.) AM rendelettel megállapított a 9. § (4) bekezdését az e rendelkezés hatálybalépésekor és az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 30/2018. (X. 11.) AM rendelet hatálybalépésekor[^57] is folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 24. § Ez a rendelet a következő közösségi előírások végrehajtásához szükséges rendelkezéseket állapítja meg
 
@@ -10,5 +10,5 @@ b) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazatban 
 
 c) a borágazatban megvalósuló nemzeti támogatási programok tekintetében az 1308/2013/EU európai parlamenti és tanácsi rendelet alkalmazása szabályainak megállapításáról szóló, 2016. április 15-i 2016/1150/EU bizottsági végrehajtási rendelet 7. cikke.
 
-[^26]: A 23/C. §-t a 30/2018. (X. 11.) AM rendelet 18. §-a iktatta be.
-[^27]: A hatálybalépés időpontja 2018. október 12.
+[^56]: A 23/C. §-t a 30/2018. (X. 11.) AM rendelet 18. §-a iktatta be.
+[^57]: A hatálybalépés időpontja 2018. október 12.

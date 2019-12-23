@@ -16,6 +16,8 @@ b) a 6. § (6) bekezdése szerinti megvalósítás esetén a megvalósítás év
 
 ## el kell érnie a 90%-ot.
 
-(4) Az ültetvény beállottságának a 6. § (5) bekezdése szerinti megvalósítás második évében el kell érnie a 95%-ot.
+(4)[^38] Az ültetvény beállottságának az ültetvény telepítését követő évben el kell érnie a 95%-ot.
 
 (5) A régi ültetvény kivágási költségeihez nem nyújtható támogatás, amennyiben a régi ültetvény kivágását az egyéni terv benyújtása előtt végezték el.
+
+[^38]: A 16. § (4) bekezdése a 61/2019. (XII. 18.) AM rendelet 7. §-ával megállapított szöveg.
