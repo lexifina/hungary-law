@@ -16,15 +16,7 @@ Határidő: az a) alpont tekintetében azonnal
 
 a b) alpont tekintetében a felmerülés ütemében
 
-3. megerősíti elkötelezettségét a program eddig elért eredményeinek fenntartása mellett, azzal, hogy a program további bővítésével és további költségvetési források bevonásával szemben a jelenlegi kapacitás melletti fenntartás élvez prioritást, tudomásul véve, hogy az érintett hallgatói kör – és így a partnerek körének – bővítése az Országgyűlés által már elfogadott és törvényben kihirdetett központi költségvetés terhére nem, csak a központi költségvetés tervezése során, azzal összhangban lehetséges;
-
-Felelős: külgazdasági és külügyminiszter
-
-emberi erőforrások minisztere
-
-pénzügyminiszter
-
-Határidő: folyamatos
+3.[^2]
 
 4. felhívja az emberi erőforrások miniszterét a program minőségének továbbfejlesztéséhez szükséges lépések megtételére, a hallgatók kiválasztása során a minőségi kritériumok fokozott érvényesítésére;
 
@@ -32,20 +24,17 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: folyamatos
 
-5. a 3. pontban szereplő célkitűzés megvalósítása érdekében felhívja az emberi erőforrások miniszterét és a pénzügyminisztert annak vizsgálatára, hogy a programban részt vevő külföldi hallgatók számának növekedése mennyiben eredményezheti a fogadó intézmények egy főre eső működési költségeinek fokozatos csökkenését, továbbá felhívja az emberi erőforrások miniszterét és a pénzügyminisztert, hogy a vizsgálat eredményét közös jelentésben mutassák be a Kormány részére;
+5.[^3]
 
-Felelős: emberi erőforrások minisztere
+6.[^4] megerősíti elkötelezettségét a Stipendium Hungaricum ösztöndíjprogram támogatásáról szóló 1694/2017. (IX. 22.) Korm. határozattal létrehozott Alumni Hálózat működtetése iránt, egyúttal felhívja az innovációért és technológiáért felelős minisztert, valamint a külgazdasági és külügyminisztert, hogy a Magyarországon tanulmányokat végzett külföldi hallgatók részére rendszeresen Nemzetközi Alumni Találkozót rendezzenek, amelynek keretében a következő Nemzetközi Alumni Találkozóra 2020-ban kerüljön sor.
 
-pénzügyminiszter
-
-Határidő: 2019. január 31.
-
-6. megerősíti elkötelezettségét a Stipendium Hungaricum ösztöndíjprogram támogatásáról szóló 1694/2017. (IX. 22.) Korm. határozattal létrehozott Alumni Hálózat működtetése tekintetében, és felhívja az emberi erőforrások miniszterét, valamint a külgazdasági és külügyminisztert, hogy a Magyarországon tanulmányokat végzett külföldi hallgatók részére háromévenként Nemzetközi Alumni Találkozó kerüljön megrendezésre, amelynek keretében a következő Nemzetközi Alumni Találkozóra 2019 őszén kerüljön sor.
-
-Felelős: emberi erőforrások minisztere
+Felelős: innovációért és technológiáért felelős miniszter
 
 külgazdasági és külügyminiszter
 
-Határidő: 2019. október 31.
+Határidő: 2020. november 30.
 
 [^1]: A 2. pont az 1528/2019. (IX. 17.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: A 3. pontot az 1793/2019. (XII. 23.) Korm. határozat 3. pontja visszavonta.
+[^3]: Az 5. pontot az 1793/2019. (XII. 23.) Korm. határozat 3. pontja visszavonta.
+[^4]: A 6. pont az 1793/2019. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
