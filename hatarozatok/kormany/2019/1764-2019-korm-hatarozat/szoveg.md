@@ -1,0 +1,57 @@
+A Kormány
+
+1. egyetért a Debreceni Nemzetközi Repülőtér biztonságos működését biztosító fejlesztések megvalósításával, és elvi támogatását adja – a részére bemutatott 3 138 730 000 forint felmerülő költségigény 75%-a, de legfeljebb 2 354 047 500 forint – kiegészítő támogatás nyújtásához azzal, hogy Debrecen Megyei Jogú Város Önkormányzata legalább a felmerülő költségigény 25%-át biztosítja;
+
+2. egyetért a Debreceni Nemzetközi Repülőtér utasbiztonsággal összefüggő és a repülőtér működtetéséhez kapcsolódóan felmerülő költségeinek biztosításával, és elvi támogatását adja 2020-tól évente legfeljebb 400 000 000 forint támogatás nyújtásához;
+
+3. felhívja az innovációért és technológiáért felelős minisztert, hogy tegye meg az 1. és 2. pont szerinti támogatások biztosításának előfeltételeként a szükséges notifikációs eljárás lefolytatásával kapcsolatos intézkedéseket;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: azonnal
+
+4. felhívja az innovációért és technológiáért felelős minisztert, hogy a 3. pont szerinti notifikációs eljárás sikeres lezárása esetén a pénzügyminiszter bevonásával készítsen előterjesztést az 1. pont szerinti kiegészítő támogatás ütemezett biztosítása érdekében;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+pénzügyminiszter
+
+Határidő: a notifikációs eljárás lezárása után azonnal
+
+5. felhívja az innovációért és technológiáért felelős minisztert és a pénzügyminisztert, hogy a 3. pont szerinti notifikációs eljárás sikeres lezárása esetén gondoskodjanak a 2. pont szerinti 2020. évi 400 000 000 forint támogatás biztosításáról;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+pénzügyminiszter
+
+Határidő: a notifikációs eljárás lezárása után azonnal
+
+6. felhívja a pénzügyminisztert, hogy a 3. pont szerinti notifikációs eljárás sikeres lezárása esetén, az innovációért és technológiáért felelős miniszter bevonásával a 2021. évtől kezdődően gondoskodjon a 2. pont szerinti, évente 400 000 000 forint támogatás rendelkezésre állásáról a központi költségvetés Innovációs és Technológiai Minisztérium fejezetében;
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: a 2021. évtől, az adott évi központi költségvetés tervezése során
+
+7. egyetért a Debreceni Nemzetközi Repülőtéren működő tűzoltóság bér- és járulékköltségeire, tűzoltóképzésekre, valamint a repülőtéri tájékoztató szolgálat költségeinek biztosításához kapcsolódóan a 2019. évben legfeljebb 700 000 000 forint támogatás biztosításával;
+
+8. felhívja az innovációért és technológiáért felelős minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 7. pont szerinti 2019. évi forrásigény, valamint a kifizetéshez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjra szolgáló, összesen legfeljebb 702 450 000 forint rendelkezésre állásáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 39. Regionális repülőterek működésének támogatása jogcímcsoport javára;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+pénzügyminiszter
+
+Határidő: a 2019. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+
+9. felhívja az innovációért és technológiáért felelős minisztert, hogy a 8. pont szerinti forrás rendelkezésre állása esetén, a jóváhagyott támogatást támogatói okirat útján biztosítsa a DEBRECEN INTERNATIONAL AIRPORT Korlátolt Felelősségű Társaság (cégjegyzékszám: 09-09-005171, székhely: 4030 Debrecen, Repülőtéri út 12.) számára;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: a 8. pont végrehajtását követően azonnal
+
+10. felhívja az innovációért és technológiáért felelős minisztert, hogy a megtérülési számításokat is tartalmazó részletes megvalósíthatósági tanulmány elkészítése és elfogadása után nyújtson be előterjesztést a Kormány részére a Debreceni Nemzetközi Repülőtér átfogó fejlesztéséről, valamint annak tervezett ütemezéséről.
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: a megvalósíthatósági tanulmány elfogadását követően azonnal
