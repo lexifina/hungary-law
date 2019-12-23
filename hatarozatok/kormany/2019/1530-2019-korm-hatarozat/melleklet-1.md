@@ -8,7 +8,7 @@
 
 ## 5. egyetért azzal, hogy a megvalósuló Beruházások üzemeltetője Békéscsaba Megyei Jogú Város Önkormányzata legyen;
 
-## 6. egyetért azzal, hogy a Beruházások előkészítési fázisait 2020. december 31. napjáig kell megvalósítani;
+## 6.[^1] egyetért azzal, hogy a Beruházások előkészítési fázisait 2021. december 31. napjáig kell megvalósítani;
 
 ## 7. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva
 
@@ -22,7 +22,7 @@
 
 ## a b) alpont tekintetében 2020. február 29.
 
-## 8. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások előkészítési feladatainak finanszírozása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és a kincstári díjakkal együtt – a 2019. évre 257 910 539 forint egyszeri átcsoportosítást rendel el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a 2019. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2019. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 25. Fenntartható fejlesztések jogcímcsoport javára, az 1. melléklet szerint;
+## 8.[^2] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások előkészítési feladatainak finanszírozása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és a kincstári díjakkal együtt – a 2019. évre 257 910 539 forint egyszeri átcsoportosítást rendel el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a 2019. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2019. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 25. Fenntartható fejlesztések jogcímcsoport javára, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -36,9 +36,9 @@
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: 2020. március 31.
+## Határidő: 2020. december 31.
 
-## 9. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások előkészítési feladatainak finanszírozása érdekében a 2020. évre 292 832 100 forint egyszeri átcsoportosítást rendel el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a 2020. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 25. Fenntartható fejlesztések jogcímcsoport javára, a 2. melléklet szerint;
+## 9.[^3] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások előkészítési feladatainak finanszírozása érdekében a 2020. évre 292 832 100 forint egyszeri átcsoportosítást rendel el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a 2020. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Hazai fejlesztési programok alcím, 25. Fenntartható fejlesztések jogcímcsoport javára, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -52,22 +52,24 @@
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
-## Határidő: 2021. március 31.
+## Határidő: 2021. szeptember 30.
 
 ## 10. felhívja az innovációért és technológiáért felelős minisztert, hogy
 
-## a) készítsen jelentést Békéscsaba Megyei Jogú Város Önkormányzata bevonásával a Rendelet 8. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 3. és 4. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről,
+## a)[^4]
 
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: 2021. március 31.
-
-## b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére Békéscsaba Megyei Jogú Város Önkormányzata és a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával a Beruházások megvalósításának kérdésében, a költségek, a forrásigény, az ütemezés és a felelősök, valamint annak bemutatásával, hogy a 2021. évtől a szükséges források a Modern Városok Program terhére kerülnek biztosításra.
+## b)[^5] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére Békéscsaba Megyei Jogú Város Önkormányzata és a Modern Települések Fejlesztéséért felelős kormánybiztos bevonásával a Beruházások megvalósításának kérdésében, a költségek, a forrásigény, az ütemezés és a felelősök, valamint annak bemutatásával, hogy a 2021. évtől a szükséges források a Modern Városok Program terhére kerülnek biztosításra.
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
 ## Modern Települések Fejlesztéséért felelős kormánybiztos
 
-## Határidő: 2021. május 31.
+## Határidő: 2021. december 31.
 
 1. melléklet az 1530/2019. (IX. 17.) Korm. határozathoz
+
+[^1]: A 6. pont az 1779/2019. (XII. 23.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 8. pont az 1779/2019. (XII. 23.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 9. pont az 1779/2019. (XII. 23.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^4]: A 10. pont a) alpontját az 1779/2019. (XII. 23.) Korm. határozat 3. pont a) alpontja visszavonta.
+[^5]: A 10. pont b) alpontja az 1779/2019. (XII. 23.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
