@@ -36,7 +36,7 @@
 
 ## Határidő: azonnal
 
-## f) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 24 120 063 661 forint egyszeri átcsoportosítását rendeli el – elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel – a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## f)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 24 120 063 661 forint egyszeri átcsoportosítását rendeli el – elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel – a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -58,24 +58,25 @@
 
 ## külgazdasági és külügyminiszter
 
-## Határidő: 2019. december 31.
+## Határidő: 2019. december 31., a Közbeszerzési és Ellátási Főigazgatóság cím javára biztosított 450 000 000 forint tekintetében 2020. március 31.
 
 ## g) az Ávr. 172/A. § (9) bekezdésében biztosított jogkörében eljárva, az Ávr. 172/A. § (3) bekezdése alapján a 2018. évben a szeptember–november hónapokra vonatkozóan, a XIX. Uniós fejlesztések fejezet részére megállapított befizetési kötelezettséget elengedi.
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
-## 5.[^4]
+## 5.[^5]
 
-## 6.[^5]
+## 6.[^6]
 
 1. melléklet az 1057/2019. (II. 22.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont f) alpontja az 1800/2019. (XII. 23.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
