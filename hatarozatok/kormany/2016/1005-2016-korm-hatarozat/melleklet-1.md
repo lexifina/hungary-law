@@ -2,7 +2,7 @@
 
 ## 1/A.[^1] A Kormány
 
-## a) jóváhagyja a TOP 1. prioritása 412,656 milliárd forint összegű meghirdethető keretét, amely 99,256 milliárd forinttal haladja meg a TOP 1. prioritásának keretét,
+## a)[^2] jóváhagyja a TOP 1. prioritása 417,656 milliárd forint összegű meghirdethető keretét, amely 104,256 milliárd forinttal haladja meg a TOP 1. prioritásának keretét,
 
 ## b) jóváhagyja a TOP 2. prioritása 197,097 milliárd forint összegű meghirdethető keretét, amely 45,097 milliárd forinttal haladja meg a TOP 2. prioritásának keretét,
 
@@ -12,15 +12,15 @@
 
 ## e) jóváhagyja a TOP 5. prioritása 93,707 milliárd forint összegű meghirdethető keretét, amely 8,007 milliárd forinttal haladja meg a TOP 5. prioritásának keretét,
 
-## f) jóváhagyja a TOP 6. prioritása 466,762 milliárd forint összegű meghirdethető keretét, amely 68,662 milliárd forinttal haladja meg a TOP 6. prioritásának keretét.
+## f)[^3] jóváhagyja a TOP 6. prioritása 461,762 milliárd forint összegű meghirdethető keretét, amely 63,662 milliárd forinttal haladja meg a TOP 6. prioritásának keretét.
 
-## 1/B.[^2] A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 44/C. § (3) bekezdése alapján hozzájárul az 1. melléklet 1. pontjában foglalt táblázat 13. sora és 6. pontjában foglalt táblázat 35. sora szerinti felhívások esetén – a felhívásoknak a Terület- és Településfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1005/2016. (I. 18.) Korm. határozat módosításáról szóló 1400/2019. (VII. 5.) Korm. határozattal megemelt keretösszegei mértékéig – kötelezettségvállalás megtételéhez.
+## 1/B.[^4] A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 44/C. § (3) bekezdése alapján hozzájárul az 1. melléklet 1. pontjában foglalt táblázat 13. sora és 6. pontjában foglalt táblázat 35. sora szerinti felhívások esetén – a felhívásoknak a Terület- és Településfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1005/2016. (I. 18.) Korm. határozat módosításáról szóló 1400/2019. (VII. 5.) Korm. határozattal megemelt keretösszegei mértékéig – kötelezettségvállalás megtételéhez.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^3]
+## 3.[^5]
 
-1. melléklet az 1005/2016. (I. 18.) Korm. határozathoz[^4]
+1. melléklet az 1005/2016. (I. 18.) Korm. határozathoz[^6]
 
 ## A TOP éves fejlesztési kerete
 
@@ -52,7 +52,7 @@
 
 | 12. | TOP-1.4.1-16 | A foglalkoztatás segítése és az életminőség javítása családbarát, munkába állást segítő intézmények, közszolgáltatások fejlesztésével | 20,800 | területi | Meghirdetve 2017. februárban |
 
-| 13. | TOP-1.4.1-19 | Bölcsődei férőhelyek kialakítása, bővítése | 70,586 | területi | Meghirdetve 2019. áprilisban |
+| 13. | TOP-1.4.1-19 | Bölcsődei férőhelyek kialakítása, bővítése | 75,586 | területi | Meghirdetve 2019. áprilisban |
 
 | 14. |  |  |  |  |  |
 
@@ -176,7 +176,7 @@
 
 | 10. | TOP-6.4.1-15 | Fenntartható városi közlekedésfejlesztés | 21,778 | területi | Meghirdetve 2015. decemberben |
 
-| 11. | TOP-6.5.1-15 | Önkormányzati épületek energetikai korszerűsítése | 22,707 | területi | Meghirdetve 2016. áprilisban |
+| 11. | TOP-6.5.1-15 | Önkormányzati épületek energetikai korszerűsítése | 22,675 | területi | Meghirdetve 2016. áprilisban |
 
 | 12. | TOP-6.5.2-15 | Önkormányzatok által vezérelt, a helyi adottságokhoz illeszkedő, megújuló energiaforrások kiaknázására irányuló energiaellátás megvalósítása, komplex fejlesztési programok keretében | 5,569 | területi | Meghirdetve 2016. áprilisban |
 
@@ -210,7 +210,7 @@
 
 | 27. | TOP-6.4.1-16 | Fenntartható városi közlekedésfejlesztés | 19,556 | területi | Meghirdetve 2016. decemberben |
 
-| 28. | TOP-6.5.1-16 | Önkormányzati épületek energetikai korszerűsítése | 36,280 | területi | Meghirdetve 2017. februárban |
+| 28. | TOP-6.5.1-16 | Önkormányzati épületek energetikai korszerűsítése | 26,590 | területi | Meghirdetve 2017. februárban |
 
 | 29. | TOP-6.6.1-16 | Egészségügyi alapellátás infrastrukturális fejlesztése | 7,231 | területi | Meghirdetve 2016. decemberben |
 
@@ -224,7 +224,9 @@
 
 | 34. | TOP-6.9.2-16 | A helyi identitás és kohézió erősítése | 6,954 | területi | Meghirdetve 2017. márciusban |
 
-| 35. | TOP-6.2.1-19 | Bölcsődei férőhelyek kialakítása, bővítése | 25,507 | területi | Meghirdetve 2019. áprilisban |
+| 35. | TOP-6.2.1-19 | Bölcsődei férőhelyek kialakítása, bővítése | 20,507 | területi | Meghirdetve 2019. áprilisban |
+
+| 36. | TOP-6.5.1-19 | Önkormányzati épületek energetikai korszerűsítése | 9,722 | területi | 2020. január |
 
 7. Közösségi szinten irányított városi helyi fejlesztések (CLLD) című 7. prioritás
 
@@ -235,6 +237,8 @@
 | 2. | TOP-7.1.1-16 | Kulturális és közösségi terek infrastrukturális fejlesztése és helyi közösségszervezés a városi helyi fejlesztési stratégiához kapcsolódva | 45,644 | standard | Meghirdetve 2016. májusban |
 
 [^1]: Az 1/A. pontot az 1849/2017. (XI. 14.) Korm. határozat 1. pontja iktatta be, szövege az 1400/2019. (VII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: Az 1/B. pontot az 1400/2019. (VII. 5.) Korm. határozat 2. pontja iktatta be.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1143/2016. (III. 21.) Korm. határozat 1–2. pontja, az 1365/2016. (VII. 13.) Korm. határozat 1. és 2. pontja, az 1694/2016. (XI. 29.) Korm. határozat 1–2. pontja, az 1052/2017. (II. 3.) Korm. határozat 1–2. pontja, az 1849/2017. (XI. 14.) Korm. határozat 2–3. pontja, az 1178/2018. (III. 28.) Korm. határozat 1–2. pontja, az 1303/2018. (VII. 4.) Korm. határozat 1. pontja, az 1619/2018. (XI. 27.) Korm. határozat 2. pontja, az 1140/2019. (III. 18.) Korm. határozat 1. pontja és 3. pontja, az 1400/2019. (VII. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1/A. pont a) alpontja az 1786/2019. (XII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1/A. pont f) alpontja az 1786/2019. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: Az 1/B. pontot az 1400/2019. (VII. 5.) Korm. határozat 2. pontja iktatta be.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet az 1143/2016. (III. 21.) Korm. határozat 1–2. pontja, az 1365/2016. (VII. 13.) Korm. határozat 1. és 2. pontja, az 1694/2016. (XI. 29.) Korm. határozat 1–2. pontja, az 1052/2017. (II. 3.) Korm. határozat 1–2. pontja, az 1849/2017. (XI. 14.) Korm. határozat 2–3. pontja, az 1178/2018. (III. 28.) Korm. határozat 1–2. pontja, az 1303/2018. (VII. 4.) Korm. határozat 1. pontja, az 1619/2018. (XI. 27.) Korm. határozat 2. pontja, az 1140/2019. (III. 18.) Korm. határozat 1. pontja és 3. pontja, az 1400/2019. (VII. 5.) Korm. határozat 3. pontja, az 1786/2019. (XII. 23.) Korm. határozat 3–4. pontja szerint módosított szöveg.
