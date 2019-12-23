@@ -24,23 +24,7 @@
 
 ## Határidő: folyamatos
 
-## 8.[^8] felhívja
-
-## a) az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztereket, hogy negyedévente tájékoztassák az innovációért és technológiáért felelős minisztert a nagyprojektek Európai Bizottság általi jóváhagyására irányuló kérelmei előkészítésének állásáról,
-
-## Felelős: emberi erőforrások minisztere
-
-## innovációért és technológiáért felelős miniszter
-
-## pénzügyminiszter
-
-## Határidő: minden naptári negyedév végét követő ötödik nap
-
-## b) az innovációért és technológiáért felelős minisztert, hogy az a) alpont szerinti tájékoztatások alapján nyújtson be jelentést a Kormány számára.
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: minden naptári negyedév végét követő tizenötödik nap
+## 8.[^8]
 
 1. melléklet az 1374/2017. (VI. 13.) Korm. határozathoz[^9]
 
@@ -105,5 +89,5 @@
 [^5]: Az 5. pontot az 1082/2019. (III. 1.) Korm. határozat 4. pontja visszavonta.
 [^6]: A 6. pontot az 1082/2019. (III. 1.) Korm. határozat 4. pontja visszavonta.
 [^7]: A 7. pont az 1996/2017. (XII. 19.) Korm. határozat 4. pontja, az 1082/2019. (III. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^8]: A 8. pont az 1082/2019. (III. 1.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: A 8. pontot az 1789/2019. (XII. 23.) Korm. határozat visszavonta.
 [^9]: Az 1. melléklet az 1082/2019. (III. 1.) Korm. határozat 2. pontjával megállapított szöveg.
