@@ -26,15 +26,15 @@
 
 ## ba) állami beruházásként valósuljon meg,
 
-## bb) keretében megvalósuló kézilabda munkacsarnokok építtetője a Nemzeti Sportközpontok legyen,
+## bb)[^1] keretében megvalósuló kézilabda munkacsarnokok előkészítője a Nemzeti Sportközpontok, megvalósítója a Beruházási Ügynökség legyen,
 
-## bc) a 2. melléklet szerinti településeken, az ott megjelölt sorrendben valósuljon meg,
+## bc)[^2] a 2. melléklet szerinti településeken valósuljon meg,
 
 ## bd) fejlesztéseinek előfeltétele, hogy azok állami tulajdonában lévő ingatlanokon valósuljanak meg, akként, hogy az érintett önkormányzatok a fejlesztéssel érintett ingatlanokat – a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság előzetes megfelelősségről szóló véleményét követően – az állam számára ingyenesen tulajdonba adják,
 
-## be)[^1] beruházásai kézilabda munkacsarnokonként nem haladhatják meg a nettó 600,0 millió forint bekerülési értéket;
+## be)[^3]
 
-## c) megállapítja, hogy a beruházáshoz szükséges megfelelő ingatlan állam részére történő felajánlása hiányában az adott település a megfelelő ingatlan biztosításáig tartaléklistára kerül és a 2. melléklet szerinti 17 település közül a soron következő település lép a helyébe;
+## c)[^4]
 
 ## 4. felhívja a nemzeti fejlesztési minisztert, hogy kezdjen tárgyalásokat az érintett önkormányzatokkal a kézilabda munkacsarnokok felépítéséhez szükséges ingatlanok tulajdonjogának a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 108. §-a alapján, az állam részére történő ingyenes átruházása érdekében;
 
@@ -50,9 +50,12 @@
 
 ## 6. jóváhagyja, hogy a Nemzeti Sportközpontok által a 3. pont szerinti előirányzatok, illetve támogatás terhére lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni;
 
-## 7.[^2]
+## 7.[^5]
 
 1. melléklet az 1278/2017. (VI. 2.) Korm. határozathoz
 
-[^1]: A 3. pont b) alpont be) alpontja az 1051/2018. (II. 20.) Korm. határozattal módosított szöveg.
-[^2]: A 7. pont a 2010: CXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont b) alpont bb) alpontja az 1773/2019. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 3. pont b) alpont bc) alpontja az 1773/2019. (XII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^3]: A 3. pont b) alpont be) alpontját az 1773/2019. (XII. 23.) Korm. határozat 3. pont b) alpontja hatályon kívül helyezte.
+[^4]: A 3. pont c) alpontját az 1773/2019. (XII. 23.) Korm. határozat 3. pont c) alpontja hatályon kívül helyezte.
+[^5]: A 7. pont a 2010: CXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
