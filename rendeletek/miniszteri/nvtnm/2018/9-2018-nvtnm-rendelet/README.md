@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-9-20-7P
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-12-22 | 2018-9-20-7P.1 | 9/2018. (XII. 21.) NVTNM rendelet |
+| 2019-12-24 | 2018-9-20-7P.2 | 23/2019. (XII. 23.) NVTNM rendelet |
