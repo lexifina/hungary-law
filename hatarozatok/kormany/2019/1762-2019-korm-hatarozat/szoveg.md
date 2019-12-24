@@ -20,10 +20,9 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2021. február 28.
 
-2. A Korm. határozat 4. pont a) alpontja helyébe a következő rendelkezés lép:
+2.[^2]
 
-(A Kormány egyetért azzal, hogy)
+3.[^3]
 
-„a) a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés a)–p) pontja szerinti előkészítési fázisokat az 1. pont a) alpont szerinti beruházás esetében legkésőbb 2020. december 31. napjáig, az 1. pont b) alpont szerinti beruházás esetében 2021. június 30. napjáig, az 1. pont c), d), e) és f) alpontja esetében 2019. december 31-ig kell megvalósítani,”
-
-3. A Kormány visszavonja a Korm. határozat 5. pontját.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
