@@ -7,3 +7,7 @@
 (4) Az egyéb szerv a támogatások felhasználásáról bizonylatonként, jogcímenként tételes – ezen belül a személyi kiadásokról név szerinti – elszámolást készít. Az elszámolást az alapbizonylatok másolatával kell alátámasztani.
 
 (5) A pénzügyi elszámolás módját és részletszabályait az NVI elnöke állapítja meg.
+
+(6)[^2] Ha a helyi önkormányzati képviselő, illetve a polgármester időközi választásával egy napon más választásra, országos népszavazásra is sor kerül, a normatívák valamennyi választás alapján külön-külön illetik meg a választásban érintett választási irodákat.
+
+[^2]: A 6. § (6) bekezdését a 35/2019. (XII. 23.) IM rendelet 1. §-a iktatta be.
