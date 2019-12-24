@@ -28,6 +28,6 @@
 
 | szolgáltató (működtető) | háziorvos |
 
-5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^623]
+5. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^624]
 
-[^623]: Az 5. számú mellékletet újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 284/2019. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^624]: Az 5. számú mellékletet újonnan a 7/2008. (I. 23.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 284/2019. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
