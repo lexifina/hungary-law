@@ -1,0 +1,3 @@
+## 1. § Az Európai Közösségi jog hatálya alá tartozó, feltétel nélkül elismerésre kerülő okleveles építészmérnöki oklevelek megnevezéséről és az ezen okiratok birtokosaival azonos jogállású személyek köréről szóló 1/2008. (I. 11.) ÖTM rendelet (a továbbiakban: ÖTM rendelet) 2. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) Azt a tagállami állampolgárt, aki az építészmérnöki cím használatára olyan törvény erejénél fogva jogosult, amely a tagállam illetékes hatóságát felhatalmazza e cím olyan tagállami állampolgárok részére történő megadására, akik az építészet terén kiemelkedő eredményeket értek el, úgy kell tekinteni, hogy megfelel az építészmérnöki tevékenységek „építészmérnök” szakmai cím használata mellett történő gyakorlásához szükséges feltételeknek.”
