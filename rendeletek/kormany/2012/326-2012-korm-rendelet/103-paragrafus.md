@@ -1,3 +1,3 @@
-## 102. §[^137] A Miniszterelnökség, az igazoló hatóság és a program szintű szervek belső ellenőrzését biztosítani kell, melynek tekintetében az Áht. és a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló kormányrendelet előírásait kell alkalmazni.
+## 102. §[^140] Az Innovációs és Technológiai Minisztérium, az igazoló hatóság és a program szintű szervek belső ellenőrzését biztosítani kell, melynek tekintetében az Áht. és a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló kormányrendelet előírásait kell alkalmazni.
 
-[^137]: A 102. § a 35/2016. (II. 29.) Korm. rendelet 49. § 47. pontja szerint módosított szöveg.
+[^140]: A 102. § a 349/2019. (XII. 23.) Korm. rendelet 8. § 12. pontja szerint módosított szöveg.

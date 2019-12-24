@@ -1,5 +1,5 @@
-## 159. §
+## 64.[^188]
 
-## 64.[^184]
+160. §
 
-[^184]: A 64. alcímet (160. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 14. pontja hatályon kívül helyezte.
+[^188]: A 64. alcímet (160. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 14. pontja hatályon kívül helyezte.

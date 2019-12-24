@@ -15,3 +15,5 @@ bc) – a ba) alpont szerinti megrendelés és a bb) alpont szerinti szerződés
 c) létesítmény felvásárlása esetén a felvásárlás időpontja vagy
 
 d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkorábbi időpont
+
+azzal, hogy nem tekinthető a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.

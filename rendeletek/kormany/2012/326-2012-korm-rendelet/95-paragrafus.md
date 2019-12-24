@@ -2,10 +2,10 @@
 
 a) az irányítási és kontrollrendszerek leírását,
 
-b)[^135] a nemzeti kapcsolattartó működési kézikönyvét,
+b)[^138] a nemzeti kapcsolattartó működési kézikönyvét,
 
 c) az ellenőrzési nyomvonalakat, és
 
 d) a donor országok a)–c) pontra vonatkozó ajánlásait.
 
-[^135]: A 95. § b) pontja az 51/2017. (III. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^138]: A 95. § b) pontja az 51/2017. (III. 20.) Korm. rendelet 12. §-ával megállapított szöveg.

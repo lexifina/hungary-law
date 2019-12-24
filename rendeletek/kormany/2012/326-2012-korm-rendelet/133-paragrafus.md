@@ -1,5 +1,3 @@
-## azzal, hogy nem tekinthető a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
-
 133. § (1) Azonos vagy részben azonos azonosítható elszámolható költségek esetén az e rendelet szerinti támogatás abban az esetben halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez.
 
 (2) Az e rendelet szerinti támogatás különböző azonosítható elszámolható költségek esetén halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.

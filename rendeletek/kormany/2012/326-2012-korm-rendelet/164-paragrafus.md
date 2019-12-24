@@ -1,6 +1,4 @@
-## 163. §
-
-## 68. [^188] A helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
+## 68. [^192] A helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
 164. § (1) Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható, ha ezen infrastruktúra helyi szinten hozzájárul az üzleti és a fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez.
 
@@ -20,4 +18,6 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vag
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-[^188]: A 68. alcím (164. §) a 35/2016. (II. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
+kell levonni az elszámolható költségekből.
+
+[^192]: A 68. alcím (164. §) a 35/2016. (II. 29.) Korm. rendelet 44. §-ával megállapított szöveg.

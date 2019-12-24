@@ -1,4 +1,4 @@
-129/A. §[^164] (1) Kis értékű követeléseket – beleértve a pénzügyi zárás jogcímen keletkezett kis értékű követelést – nem kell behajtásra előírni.
+129/A. §[^168] (1) Kis értékű követeléseket – beleértve a pénzügyi zárás jogcímen keletkezett kis értékű követelést – nem kell behajtásra előírni.
 
 (2) A követelés kis értékű, ha annak összege a 10 000 forintot nem haladja meg.
 
@@ -10,4 +10,4 @@
 
 (6) A leírt összeget tőke, kamat és forrás szerinti bontásban kell nyilvántartani.
 
-[^164]: A 129/A. §-t az 51/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^168]: A 129/A. §-t az 51/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.

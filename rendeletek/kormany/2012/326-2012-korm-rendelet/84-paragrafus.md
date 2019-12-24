@@ -1,6 +1,6 @@
 84. § (1) Támogatási előleg az Ávr.-ben meghatározott mértékben azon projektelemekre vehető igénybe, amelyekre utófinanszírozást választott a kedvezményezett.
 
-(2)[^116] A szállítói finanszírozású projektelemekre előleg vehető igénybe
+(2)[^119] A szállítói finanszírozású projektelemekre előleg vehető igénybe
 
 a) a Kbt. 135. § (9) bekezdése szerinti esetben, vagy
 
@@ -10,4 +10,4 @@ b) ha a kedvezményezett bruttó támogatásra jogosult államháztartási szerv
 
 (4) Ha a pályázati felhívás, illetve a támogatási szerződés lehetővé teszi, a kedvezményezett részére előfinanszírozás nyújtható. Az előfinanszírozással történő elszámolás módjáról a támogatási szerződésben kell rendelkezni.
 
-[^116]: A 84. § (2) bekezdése a 293/2016. (IX. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^119]: A 84. § (2) bekezdése a 293/2016. (IX. 27.) Korm. rendelet 1. §-ával megállapított szöveg.

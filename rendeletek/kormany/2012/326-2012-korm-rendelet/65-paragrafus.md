@@ -20,6 +20,6 @@ g) a kettős finanszírozás elkerülésére vonatkozó előírások teljesülé
 
 h) azt, hogy a benyújtott elszámolások alapbizonylataihoz kapcsolódó teljesítés összhangban van-e a közbeszerzésre vonatkozó közösségi és nemzeti előírásokkal.
 
-(3)[^93] A donor projekt partner által igényelt támogatáshoz kapcsolódóan a 86. § (2) bekezdés c) pontja szerint benyújtott független könyvvizsgálói jelentés vagy a donor országok jóváhagyása esetén az arra felhatalmazott tisztviselő által kiadott jelentés tekintetében a hitelesítést végző szervek kizárólag formai ellenőrzést végeznek.
+(3)[^96] A donor projekt partner által igényelt támogatáshoz kapcsolódóan a 86. § (2) bekezdés c) pontja szerint benyújtott független könyvvizsgálói jelentés vagy a donor országok jóváhagyása esetén az arra felhatalmazott tisztviselő által kiadott jelentés tekintetében a hitelesítést végző szervek kizárólag formai ellenőrzést végeznek.
 
-[^93]: A 65. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^96]: A 65. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 27. §-ával megállapított szöveg.

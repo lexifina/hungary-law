@@ -10,7 +10,7 @@ b) a jelentési és beszámolási kötelezettséget,
 
 c) a programhoz nyújtott donor hozzájárulás és nemzeti társfinanszírozás mértékét,
 
-d)[^28] az elszámolhatósági szabályokat, ide értve a program végrehajtási megállapodás megkötését megelőzően felmerült program előkészítési költség és program menedzsment költség elszámolhatóságára vonatkozó rendelkezéseket,
+d)[^31] az elszámolhatósági szabályokat, ide értve a program végrehajtási megállapodás megkötését megelőzően felmerült program előkészítési költség és program menedzsment költség elszámolhatóságára vonatkozó rendelkezéseket,
 
 e) a program módosításának szabályait,
 
@@ -26,4 +26,4 @@ j) a partnerekkel való együttműködési kötelezettséget.
 
 (4) A nemzeti kapcsolattartó a program végrehajtási megállapodás tervezetét köteles megküldeni előzetes jóváhagyásra a donor országok részére.
 
-[^28]: A 23. § (3) bekezdés d) pontja a 35/2016. (II. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^31]: A 23. § (3) bekezdés d) pontja a 35/2016. (II. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

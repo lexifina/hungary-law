@@ -4,7 +4,7 @@
 
 a) bűncselekmény (így különösen csalás, vesztegetés, sikkasztás) vagy korrupció gyanúját veti fel,
 
-b) a finanszírozási mechanizmusokból való támogatás tekintetében súlyos, azaz legalább tízezer euró értékű pénzügyi érdeksérelmet okoz,
+b)[^156] a finanszírozási mechanizmusokból való támogatás tekintetében a projekt teljes költségvetésének arányához képest súlyos pénzügyi érdeksérelmet okoz,
 
 c) azonnali fenyegetést jelent a projekt sikeres befejezésére a projekt teljes költségvetésének arányához, az ügy súlyához vagy egyéb felmerült körülményhez képest.
 
@@ -12,7 +12,7 @@ c) azonnali fenyegetést jelent a projekt sikeres befejezésére a projekt telje
 
 (3) Ha az adott naptári negyedévben nem történt szabálytalanság, illetve a korábban jelentett szabálytalansági eseteket érintő változás, úgy a nemzeti kapcsolattartó erről értesíti a donor országokat.
 
-(3a)[^153] A nemzeti kapcsolattartó az (1)–(3) bekezdés szerinti jelentéseket megküldi az igazoló hatóság részére tájékoztatás céljából.
+(3a)[^157] A nemzeti kapcsolattartó az (1)–(3) bekezdés szerinti jelentéseket megküldi az igazoló hatóság részére tájékoztatás céljából.
 
 (4) A (2) bekezdés szerinti jelentésben nem kell szerepeltetni a következő szabálytalansági eseteket:
 
@@ -30,4 +30,5 @@ c) a szabálytalanságot a program operátor, a nemzeti kapcsolattartó vagy az 
 
 (8) A nemzeti kapcsolattartó e § szerinti jelentéstételi kötelezettségeinek teljesítése érdekében a nemzeti szintű szervek és program szintű szervek egyaránt kötelesek a nemzeti kapcsolattartóval együttműködni és a nemzeti kapcsolattartó részére a donor országok felé teljesítendő adatszolgáltatáshoz szükséges információkat haladéktalanul megadni.
 
-[^153]: A 125. § (3a) bekezdését a 35/2016. (II. 29.) Korm. rendelet 39. §-a iktatta be.
+[^156]: A 125. § (1) bekezdés b) pontja a 349/2019. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^157]: A 125. § (3a) bekezdését a 35/2016. (II. 29.) Korm. rendelet 39. §-a iktatta be.

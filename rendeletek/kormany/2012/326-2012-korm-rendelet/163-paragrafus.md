@@ -1,5 +1,5 @@
-## 162. §
+## 67.[^191]
 
-## 67.[^187]
+163. §
 
-[^187]: A 67. alcímet (163. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 14. pontja hatályon kívül helyezte.
+[^191]: A 67. alcímet (163. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 14. pontja hatályon kívül helyezte.

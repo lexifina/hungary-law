@@ -1,4 +1,4 @@
-170. § (1)[^203] A kétoldalú kapcsolatok program szintű alapjának felhasználására a program operátor a donor országok részére jóváhagyásra benyújtott programdokumentumban tesz javaslatot.
+170. § (1)[^207] A kétoldalú kapcsolatok program szintű alapjának felhasználására a program operátor a donor országok részére jóváhagyásra benyújtott programdokumentumban tesz javaslatot.
 
 (2) A kétoldalú kapcsolatok program szintű alapjának kedvezményezettje a donor országok jóváhagyásától függően
 
@@ -8,14 +8,14 @@ b) a már támogatásban részesülő projekt partnerségi kapcsolatainak kiszé
 
 c) a kétoldalú együttműködés előmozdítását szolgáló tevékenységet végző program operátor vagy az általa e tevékenység ellátására felkért végrehajtó ügynökség vagy más partner
 
-## lehet.
+lehet.
 
-(3)[^204] A kétoldalú kapcsolatok program szintű alapja vonatkozásában a program operátor a programtervezési és támogatás végrehajtási folyamattól eltérő eljárásrendet alakíthat ki. Az alap terhére felmerülő költségek tekintetében a III–X. Fejezet rendelkezéseit kell alkalmazni.
+(3)[^208] A kétoldalú kapcsolatok program szintű alapja vonatkozásában a program operátor a programtervezési és támogatás végrehajtási folyamattól eltérő eljárásrendet alakíthat ki. Az alap terhére felmerülő költségek tekintetében a III–X. Fejezet rendelkezéseit kell alkalmazni.
 
-(4)[^205] Ha a kétoldalú kapcsolatok program szintű alapjának kedvezményezettje a (2) bekezdés c) pontja szerint a program operátor vagy a végrehajtó ügynökség, úgy a felmerült költség tekintetében a hitelesítést végző szerv a Miniszterelnökség.
+(4)[^209] Ha a kétoldalú kapcsolatok program szintű alapjának kedvezményezettje a (2) bekezdés c) pontja szerint a program operátor vagy a végrehajtó ügynökség, úgy a felmerült költség tekintetében a hitelesítést végző szerv az Innovációs és Technológiai Minisztérium.
 
 (5) A (2) bekezdés c) pontja szerinti esetben a program operátor köteles gondoskodni arról, hogy a kétoldalú kapcsolatok program szintű alapja terhére elszámolni kívánt költségek a program előkészítési költségektől, a program menedzsment költségektől, valamint a komplementer tevékenységek költségeitől elkülönítésre kerüljenek.
 
-[^203]: A 170. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 68. pontja szerint módosított szöveg.
-[^204]: A 170. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 69. pontja szerint módosított szöveg.
-[^205]: A 170. § (4) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 70. pontja szerint módosított szöveg.
+[^207]: A 170. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 68. pontja szerint módosított szöveg.
+[^208]: A 170. § (3) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 69. pontja szerint módosított szöveg.
+[^209]: A 170. § (4) bekezdése a 349/2019. (XII. 23.) Korm. rendelet 8. § 18. pontja szerint módosított szöveg.

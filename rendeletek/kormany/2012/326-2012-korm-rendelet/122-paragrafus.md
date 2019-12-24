@@ -6,7 +6,7 @@ a) szabálytalanság megtörténtét megállapító és jogkövetkezményt vagy 
 
 b) annak megállapításával, hogy nem történt szabálytalanság, és – ha szükséges – a támogatási jogviszonyt érintő intézkedést elrendelő döntéssel.
 
-(3)[^148] Szabálytalanság megállapítása esetén a szabálytalansági eljárást lezáró döntést meghozó szervezet a következő jogkövetkezményeket rendelheti el:
+(3)[^151] Szabálytalanság megállapítása esetén a szabálytalansági eljárást lezáró döntést meghozó szervezet a következő jogkövetkezményeket rendelheti el:
 
 a) a projekt támogatás terhére elszámolható költségeinek csökkentése és ezzel egyidejűleg a jogosulatlanul igénybe vett támogatás visszafizetésére kötelezés,
 
@@ -18,4 +18,4 @@ b) a támogatási szerződéstől történő elállás.
 
 (6) Ha nem lehetséges egyedi módon számszerűsíteni a pénzügyi korrekció mértékét vagy aránytalan lenne, illetve félrevezető eredményt adna a szabálytalansággal érintett támogatási összeg egészének visszavonása, átalányon alapuló korrekciót kell alkalmazni. Az átalányon alapuló korrekció mértékét az egyedi szabálysértés súlyosságának és a szabálytalanság pénzügyi következményének függvényében kell meghatározni.
 
-[^148]: A 122. § (3) bekezdés nyitó szövegrésze az 51/2017. (III. 20.) Korm. rendelet 18. § 12. pontja szerint módosított szöveg.
+[^151]: A 122. § (3) bekezdés nyitó szövegrésze az 51/2017. (III. 20.) Korm. rendelet 18. § 12. pontja szerint módosított szöveg.
