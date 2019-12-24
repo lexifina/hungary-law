@@ -1,6 +1,6 @@
-## 6/C. §[^16] A 2. mellékletben foglalt táblázat 30. sora szerinti beruházás esetében a Kormány az 1. melléklet 1., 2. és 22. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát jelöli ki.
+## 6/C. §[^18] A 2. mellékletben foglalt táblázat 30. sora szerinti beruházás esetében a Kormány az 1. melléklet 1., 2. és 22. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatala V. Kerületi Hivatalát jelöli ki.
 
-6/D. §[^17] (1) A 2. mellékletben foglalt táblázat 30. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:30 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6/D. §[^19] (1) A 2. mellékletben foglalt táblázat 30. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:30 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -40,5 +40,5 @@ b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (5) A 2. mellékletben foglalt táblázat B:30 mezőjében megjelölt telkeken a beruházással összefüggésben megvalósuló építmények között nem kell telepítési távolságot tartani, azok a telekhatárokon is csatlakozhatnak egymáshoz.
 
-[^16]: A 6/C. §-t a 299/2019. (XII. 10.) Korm. rendelet 1. §-a iktatta be.
-[^17]: A 6/D. §-t a 299/2019. (XII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 6/C. §-t a 299/2019. (XII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 6/D. §-t a 299/2019. (XII. 10.) Korm. rendelet 1. §-a iktatta be.

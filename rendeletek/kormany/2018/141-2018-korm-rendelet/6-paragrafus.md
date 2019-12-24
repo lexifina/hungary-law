@@ -42,6 +42,10 @@ m)[^10] az építési telkeken az építési övezetre előírt zöldfelület me
 
 (6)[^13] Az OTÉK 26. § (2) bekezdésétől eltérően, a 2. mellékletben foglalt táblázat 7. és 7a. sora szerinti beruházások esetében a közlekedési kapacitásbővítéssel összefüggő útszélesítéseket a 3. mellékletben foglalt földrészleteken, valamint ezen földrészletekből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészleteken a 3. mellékletben megjelölt szélességű építési területek alapján kell végrehajtani.
 
+(7)[^14] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházással összefüggésben a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+
+(8)[^15] A (7) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
+
 [^4]: A 6. § (1) bekezdése a 160/2019. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: A 6. § (2) bekezdés nyitó szövegrésze a 160/2019. (VI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^6]: A 6. § (2) bekezdés b) pontja a 160/2019. (VI. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
@@ -52,3 +56,5 @@ m)[^10] az építési telkeken az építési övezetre előírt zöldfelület me
 [^11]: A 6. § (4) bekezdése a 160/2019. (VI. 28.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^12]: A 6. § (5) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^13]: A 6. § (6) bekezdését a 160/2019. (VI. 28.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^14]: A 6. § (7) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 6. § (8) bekezdését a 336/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

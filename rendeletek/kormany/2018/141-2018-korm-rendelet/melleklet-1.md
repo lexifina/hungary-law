@@ -1,4 +1,4 @@
-## 27. §[^54] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról és a Komoró, valamint Fényeslitke külterületén vasúti nyomtávváltásra épülő intermodális logisztikai központ létesítésére irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 295/2018. (XII. 21.) Korm. rendelet hatályon kívül helyezéséről szóló 326/2019. (XII. 19.) Korm. rendelettel (a továbbiakban: Módr19.) megállapított 2. mellékletben foglalt táblázat 31. sorát a Módr19. hatálybalépésekor[^55] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 28. §[^58] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 336/2019. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr20.) megállapított 6. § (7) és (8) bekezdését, valamint 2. mellékletben foglalt táblázat 32. sorát a Módr20. hatálybalépésekor[^59] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^54]: A 27. §-t a 326/2019. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
-[^55]: A hatálybalépés időpontja 2019. december 20.
+[^58]: A 28. §-t a 336/2019. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^59]: A hatálybalépés időpontja 2019. december 24.
