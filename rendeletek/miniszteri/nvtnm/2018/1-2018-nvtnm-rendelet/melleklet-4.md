@@ -36,13 +36,7 @@
 
 ## II.
 
-## III. Tulajdonosi joggyakorló: az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | NFFKÜ – Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2022. december 31. |
+## III.
 
 ## IV. Tulajdonosi joggyakorló: a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság
 
