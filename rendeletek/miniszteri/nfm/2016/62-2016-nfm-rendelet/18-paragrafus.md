@@ -12,7 +12,7 @@
 
 (6) Ha a kötelező átvételre vagy a pályázati eljárás alá nem tartozó zöld prémiumra vagy barna prémiumra irányuló kérelem az 1. mellékletben a beérkezés évére vonatkozó korlátba ütközik, akkor a Hivatal a kérelmet elutasítja.
 
-(7)[^84] Ha a Hivatal a kötelező átvételre vagy pályázati eljárás alá nem tartozó zöld prémiumra irányuló kérelmet a (6) bekezdés szerint elutasítja, a kérelmező a következő évre vonatkozó támogatási mértékeknek a megújuló energiaforrásból termelt villamos energia működési támogatásának mértékéről szóló MEKH rendeletben történő kihirdetését követően az adott év végéig nyilatkozhat arról, hogy kéri beadványának az új feltételek melletti, 1. melléklet szerint a következő évre meghatározott korlát terhére történő elbírálását. A (6) bekezdés szerint elutasított kérelem esetében az elutasított kérelem beérkezésének dátumát kell alapul venni a kérelem elbírálásánál. Ezen bekezdés alkalmazása esetén a kérelmezőre a kötelező átvételre és prémium típusú támogatásra vonatkozó jogszabályokban a (6) bekezdés szerint elutasított kérelem beérkezési dátuma óta bekövetkező módosítások is vonatkoznak.
+(7)[^84]
 
 (8) Az 1 MW alatti névleges teljesítőképességű, már működő erőműegység kizárólag e rendelet szerinti pályázati eljárás keretében kaphat működési támogatást, azzal, hogy az 1 MW alatti névleges teljesítőképességű, már működő biomassza- vagy biogáz-erőműegység jogosult lehet barna prémiumra is.
 
@@ -26,4 +26,4 @@
 
 [^82]: A 18. § a 43/2017. (XI. 8.) NFM rendelet 21. §-ával megállapított szöveg.
 [^83]: A 18. § (4) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 16. § f) pontja szerint módosított szöveg.
-[^84]: A 18. § (7) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 12. §-ával megállapított szöveg.
+[^84]: A 18. § (7) bekezdését a 48/2019. (XII. 23.) ITM rendelet 8. §-a hatályon kívül helyezte.
