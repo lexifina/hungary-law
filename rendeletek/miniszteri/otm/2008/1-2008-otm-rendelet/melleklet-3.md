@@ -298,7 +298,7 @@
 
 |  |  | - igazolás, amely bizonyítja, hogy annak birtokosa az 1938. évi Architects Registration Act 2. szakasza értelmében megszerezte a jogot arra, hogy az építész szakmai címet viselje (Architect) |  |
 
-3. melléklet az 1/2008. (I. 11.) ÖTM rendelethez[^12]
+3. melléklet az 1/2008. (I. 11.) ÖTM rendelethez[^15]
 
 ## Az európai közösségi jog által meghatározott, a feltétel nélküli elismeréshez szükséges építészmérnöki képzési minimumkövetelmények
 
@@ -336,4 +336,4 @@ k) azon iparágak, szervezetek, szabályozások és eljárások megfelelő ismer
 
 4. Az 1. pont b) alpontjában meghatározott szakmai gyakorlatra kizárólag a tanulmányok első három évének lezárása után kerülhet sor. A szakmai gyakorlatból legalább egy évnek a 2. pontban említett tanulmányok során elsajátított ismereteken, készségeken és képességeken kell alapulnia. E célból a szakmai gyakorlatot a saját tagállam illetékes hatósága által kiadott engedéllyel rendelkező személy vagy szerv felügyelete alatt kell elvégezni. E felügyelt szakmai gyakorlatra bármely országban sor kerülhet. A szakmai gyakorlatot a saját tagállam illetékes hatósága értékeli.
 
-[^12]: A 3. mellékletet az 54/2015. (XII. 8.) MvM rendelet 4. §-a iktatta be.
+[^15]: A 3. mellékletet az 54/2015. (XII. 8.) MvM rendelet 4. §-a iktatta be.

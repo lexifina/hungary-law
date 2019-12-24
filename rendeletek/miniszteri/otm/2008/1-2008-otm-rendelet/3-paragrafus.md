@@ -1,6 +1,6 @@
 3. § (1) Az oklevél elismerése alapjául feltétel nélkül el kell ismerni azt az igazolást, amelyet a Németországi Szövetségi Köztársaság illetékes hatóságai állítottak ki, és amelyek azt tanúsítják, hogy a Német Demokratikus Köztársaság illetékes hatóságai által 1945. május 8-án vagy azt követően kibocsátott oklevelek egyenértékűek az 1. § (2) bekezdésének b) pontjában felsorolt oklevelekkel.
 
-(2)[^8] Az oklevél elismerése alapjául feltétel nélkül el kell ismerni
+(2)[^9] Az oklevél elismerése alapjául feltétel nélkül el kell ismerni
 
 a) Ausztria, Finnország és Svédország esetében 1995. január 1-jét,
 
@@ -14,4 +14,4 @@ követően a meglévő szabályozás alapján a tagállam által tagállami áll
 
 (3) A (2) bekezdés b) pontja szerinti igazolás tanúsítja, hogy birtokosuk legkésőbb a megfelelő időpontban jogosulttá vált az építészmérnöki cím használatára, és a kérdéses tevékenységet az igazolás kibocsátását megelőző öt év folyamán legalább három egymást követő éven keresztül, a vonatkozó jogszabályok keretében ténylegesen gyakorolta.
 
-[^8]: A 3. § (2) bekezdése a 61/2013. (X. 28.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § (2) bekezdése a 61/2013. (X. 28.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.

@@ -24,9 +24,12 @@ b) Horvátország esetében 1991. október 8-a előtt
 
 kezdték meg, amennyiben a tagállam hatóságai tanúsítják, hogy az okirat a tevékenység gyakorlásának megkezdése és folytatása tekintetében területükön jogilag ugyanúgy érvényes, mint az általuk kibocsátott, a 2. mellékletben e tagállamra vonatkozóan megjelölt oklevél. Az ilyen okirathoz csatolni kell az ugyanazon hatóságok által kiállított igazolást, amely szerint ezek a személyek a kérdéses tevékenységet területükön az igazolás keltét megelőző öt év során legalább három egymást követő éven keresztül ténylegesen és jogszerűen folytatták.
 
+(6)[^8] Azt a tagállami állampolgárt, aki az építészmérnöki cím használatára olyan törvény erejénél fogva jogosult, amely a tagállam illetékes hatóságát felhatalmazza e cím olyan tagállami állampolgárok részére történő megadására, akik az építészet terén kiemelkedő eredményeket értek el, úgy kell tekinteni, hogy megfelel az építészmérnöki tevékenységek „építészmérnök” szakmai cím használata mellett történő gyakorlásához szükséges feltételeknek.
+
 [^2]: A 2. § (1) bekezdése az 54/2015. (XII. 8.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1a) bekezdését az 54/2015. (XII. 8.) MvM rendelet 2. §-a iktatta be.
 [^4]: A 2. § (2) bekezdése az 54/2015. (XII. 8.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § (3) bekezdése a 61/2013. (X. 28.) BM rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 2. § (4) bekezdése a 61/2013. (X. 28.) BM rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^7]: A 2. § (5) bekezdése a 61/2013. (X. 28.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (6) bekezdését a 21/2019. (XII. 23.) MvM rendelet 1. §-a iktatta be.
