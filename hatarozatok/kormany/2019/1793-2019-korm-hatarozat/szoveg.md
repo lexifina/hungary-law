@@ -16,16 +16,9 @@ külgazdasági és külügyminiszter
 
 Határidő: a 2021. évi központi költségvetés tervezése során
 
-2. A Stipendium Hungaricum ösztöndíjprogram finanszírozásáról szóló 1499/2018. (X. 12.) Korm. határozat [a továbbiakban: 1499/2018. (X. 12.) Korm. határozat] 6. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„6. megerősíti elkötelezettségét a Stipendium Hungaricum ösztöndíjprogram támogatásáról szóló 1694/2017. (IX. 22.) Korm. határozattal létrehozott Alumni Hálózat működtetése iránt, egyúttal felhívja az innovációért és technológiáért felelős minisztert, valamint a külgazdasági és külügyminisztert, hogy a Magyarországon tanulmányokat végzett külföldi hallgatók részére rendszeresen Nemzetközi Alumni Találkozót rendezzenek, amelynek keretében a következő Nemzetközi Alumni Találkozóra 2020-ban kerüljön sor.
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-külgazdasági és külügyminiszter
-
-Határidő: 2020. november 30.”
-
-3. A Kormány visszavonja az 1499/2018. (X. 12.) Korm. határozat 3. és 5. pontját.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
