@@ -106,4 +106,6 @@ a miniszterelnök kabinetfőnöke
 
 Határidő: 2020. november 30.
 
-9. visszavonja a Szent László lovagkirály-zarándokút intézményes kereteinek megteremtéséről és a kapcsolódó célkitűzések megvalósításáról szóló 1735/2018. (XII. 18.) Korm. határozatot.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
