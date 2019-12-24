@@ -16,13 +16,13 @@
 
 ## Határidő: 2020. január 2.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontjában a „2019. december 31.” szövegrész helyébe a „2020. július 31.” szöveg lép.
+## 2.[^1]
 
-## 3. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról, fejezeten belüli előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1211/2018. (IV. 6.) Korm. határozat 1. pontjában a „tekintetében 2019. december 31.,” szövegrész helyébe az „és” szöveg lép.
+## 3.[^2]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő előirányzat-átcsoportosításról, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben meghatározott befizetési kötelezettség egy részének elengedéséről, a központi költségvetést érintő címrendi módosításról, valamint egyes kormányhatározatok módosításáról szóló 1057/2019. (II. 22.) Korm. határozat 1. pont f) alpontjában a „2019. december 31.” szövegrész helyébe a „2019. december 31., a Közbeszerzési és Ellátási Főigazgatóság cím javára biztosított 450 000 000 forint tekintetében 2020. március 31.” szöveg lép.
+## 4.[^3]
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból és az Országvédelmi Alapból történő, illetve fejezetek közötti előirányzat-átcsoportosításról, a Nagyvállalati beruházási támogatások előirányzat terhére kötelezettségvállalás engedélyezéséről, valamint egyes kormányhatározatok módosításáról szóló 1668/2019. (XI. 28.) Korm. határozat 1. pont c) alpontjában a „2019. december 31.” szövegrész helyébe a „2020. december 31., a Televíziós Film Mecenatúra támogatása alcím javára biztosított 3 500 000 000 forint tekintetében 2019. december 31.” szöveg lép.
+## 5.[^4]
 
 1. melléklet az 1800/2019. (XII. 23.) Korm. határozathoz
 
@@ -269,3 +269,8 @@
 |  |  | egyéb: |  | azonnal |  | 47 143 982 796 |  |  |  | 47 143 982 796 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
