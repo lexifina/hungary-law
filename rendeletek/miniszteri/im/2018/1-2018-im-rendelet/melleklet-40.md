@@ -1,5 +1,5 @@
 ## 9K00746.pdf
 
-40. melléklet az 1/2018. (I. 3.) IM rendelethez[^25]
+40. melléklet az 1/2018. (I. 3.) IM rendelethez[^26]
 
-[^25]: A 40. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 40. mellékletet újonnan a 34/2019. (XII. 23.) IM rendelet 2. § (2) bekezdése iktatta be.

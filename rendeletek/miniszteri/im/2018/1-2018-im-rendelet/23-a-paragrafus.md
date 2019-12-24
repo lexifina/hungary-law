@@ -8,9 +8,10 @@
 
 (3)[^12] Az időközi választáson az egy szavazókörös településen és az átjelentkezéssel szavazásra kijelölt szavazókörben
 
-a) az átjelentkezéssel szavazó választópolgárok adatait is az 1. melléklet szerinti névjegyzéken, illetve a 2. melléklet szerinti jegyzéken kell feltüntetni,
+a)[^13] az átjelentkezéssel szavazó választópolgárok adatait a 40. melléklet szerinti névjegyzéken, illetve a 41. melléklet szerinti jegyzéken kell feltüntetni,
 
 b) a 25. melléklet szerinti jegyzőkönyvet kell használni.
 
 [^11]: A VI/A. fejezetet (23/A. §) a 26/2018. (IX. 7.) IM rendelet 34. §-a iktatta be.
 [^12]: A 23/A. § (3) bekezdését a 3/2019. (II. 27.) IM rendelet 30. §-a iktatta be.
+[^13]: A 23/A. § (3) bekezdés a) pontja a 34/2019. (XII. 23.) IM rendelet 1. § a) pontja szerint módosított szöveg.
