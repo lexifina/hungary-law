@@ -1,5 +1,3 @@
-## „(11) Ha a kifizetési kérelem elektronikus úton történő benyújtása során az igénylő helyett és nevében a meghatalmazottja jár el, akkor a meghatalmazott saját, a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus felületét használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra a 22/2016. (IV. 5.) FM rendeletben foglalt, a meghatalmazásra vonatkozó szabályok alkalmazandóak.
+## 8. §[^9]
 
-## (12) Az eljárás során – a jogorvoslati, a bírósági felülvizsgálati és a felügyeleti eljárásokhoz kapcsolódó kérelmek kivételével – kötelező az elektronikus kapcsolattartás. A kötelező elektronikus kapcsolattartásra tekintettel a Kincstár az értesítéseket, döntéseket elektronikus úton közli az igénylővel vagy meghatalmazottjával.
-
-## (13) A kifizetési kérelem annak benyújtását követő naptól számított tíz napon belül, de legkésőbb a 17. § (2) bekezdésében meghatározott határidő végéig elektronikus úton módosítható. Módosítás esetén az utolsó kérelem kerül elbírálásra, a kérelem benyújtásának időpontját az utolsó módosító kérelem benyújtásának időpontja jelenti.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
