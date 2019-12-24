@@ -1,14 +1,25 @@
-## 5. § Az ösztöndíjprogram működési szabályzata magában foglalja
+## 5. §[^9] Az ösztöndíjprogram működési szabályzata magában foglalja
 
 a) az ösztöndíjasok képzésének, előmenetelének monitorozását,
 
 b) az ösztöndíjasok havi ösztöndíj mértékének meghatározási rendszerét,
 
-c) az ösztöndíjas szerződés megkötéséhez felhasználható szerződésmintát,
+c) az ösztöndíjas szerződés megkötéséhez felhasználható szerződésminta kötelező elemeit,
 
-d)[^9] az intézményi képzési pályáztatás és kiválasztás alapelveit,
+d) az intézményi és hallgató pályáztatás, valamint kiválasztás alapelveit, beleértve a pályázók körét,
 
-e)[^10] az ösztöndíjas számára nyújtandó hallgatói szolgáltatások körét.
+e) az ösztöndíjas számára nyújtandó hallgatói szolgáltatások körét,
 
-[^9]: Az 5. § d) pontját a 81/2015. (III. 31.) Korm. rendelet 3. §-a iktatta be.
-[^10]: Az 5. § e) pontját a 282/2017. (IX. 22.) Korm. rendelet 5. §-a iktatta be.
+f) az intézményekkel kötendő keretmegállapodás-minta kötelező elemeit,
+
+g) a programban alkalmazandó külföldi hallgatói helyek önköltsége meghatározásának rendszerét,
+
+h) az ösztöndíjasok jogait és kötelezettségeit,
+
+i) az intézmények jogait és kötelezettségeit,
+
+j) a miniszteri jelölés rendjét,
+
+k) az ösztöndíjas jogviszony megszűnésének és megszüntetésének eseteit.
+
+[^9]: Az 5. § a 351/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-1. melléklet a 285/2013. (VII. 26.) Korm. rendelethez[^30]
+1. melléklet a 285/2013. (VII. 26.) Korm. rendelethez[^41]
 
 NYILATKOZAT
 
@@ -8,4 +8,4 @@ A nyilatkozatot kiállító neve, aláírása.
 
 A nyilatkozat kiállításának dátuma.
 
-[^30]: Az 1. mellékletet a 81/2015. (III. 31.) Korm. rendelet 8. §-a iktatta be, szövege a 282/2017. (IX. 22.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^41]: Az 1. mellékletet a 81/2015. (III. 31.) Korm. rendelet 8. §-a iktatta be, szövege a 282/2017. (IX. 22.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
