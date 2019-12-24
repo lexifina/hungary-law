@@ -58,20 +58,25 @@ b) a 2021. évre vonatkozó költségvetés terhére a kötelezettségvállalás
 
 c) a 2022. évre vonatkozó költségvetés terhére a kötelezettségvállalás felső korlátja 4 236 621 630 forint.
 
-2. A Békéscsabán a Modern Városok Program keretében kialakítandó SMART Grid rendszer II. ütem és Intelligens közlekedésvezérlő és környezetkímélő közösségi közlekedési rendszer kialakítása tárgyú beruházások előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1530/2019. (IX. 17.) Korm. határozat
+2.
 
-a) 6. pontjában a „2020. december 31.” szövegrész helyébe a „2021. december 31.” szöveg,
+a)[^1]
 
-b) 8. pontjában a „2020. március 31.” szövegrész helyébe a „2020. december 31.” szöveg,
+b)[^2]
 
-c) 9. pontjában a „2021. március 31.” szövegrész helyébe a „2021. szeptember 30.” szöveg és
+c)[^3]
 
-d) 10. pont b) alpontjában a „2021. május 31.” szövegrész helyébe a „2021. december 31.” szöveg
+d)[^4]
 
-lép.
+3.
 
-3. A Kormány visszavonja
+a)[^5]
 
-a) a Modern Városok Program keretében Békéscsaba komplex energetikai programjának megvalósítása érdekében támogatás biztosításáról szóló 1802/2017. (XI. 8.) Korm. határozatot,
+b)[^6]
 
-b) a Békéscsabán a Modern Városok Program keretében kialakítandó SMART Grid rendszer II. ütem és Intelligens közlekedésvezérlő és környezetkímélő közösségi közlekedési rendszer kialakítása tárgyú beruházások előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1530/2019. (IX. 17.) Korm. határozat 10. pont a) alpontját.
+[^1]: A 2. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. pont d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
