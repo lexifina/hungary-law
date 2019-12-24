@@ -16,6 +16,8 @@
 
 ## Határidő: 2020. január 15.
 
-## 2. A Semmelweis XXI. Fejlesztési Projekthez kapcsolódó intézkedésekről szóló 1314/2019. (V. 30.) Korm. határozat 3. pontjában a „4. Kútvölgyi” szövegrész helyébe a „7. Kútvölgyi” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1796/2019. (XII. 23.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
