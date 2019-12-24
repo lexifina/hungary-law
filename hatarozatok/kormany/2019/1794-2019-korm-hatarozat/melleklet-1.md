@@ -102,7 +102,7 @@
 
 ## Határidő: 2023. május 31.
 
-## 2. A Kormány visszavonja az egyes stratégiai zajtérképek és zajcsökkentési intézkedési tervek hiánya miatt indított kötelezettségszegési eljárás megszüntetéséhez szükséges intézkedésekről szóló 1237/2017. (IV. 28.) Korm. határozatot.
+## 2.[^1]
 
 1. melléklet az 1794/2019. (XII. 23.) Korm. határozathoz
 
@@ -167,3 +167,5 @@
 2.3.5. a 2.3.3. és 2.3.4. pont szerinti javaslatokhoz tartozó hatásvizsgálatok elvégzése.
 
 Ütemezés: 2022. július 1-től 2022. december 20-ig.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
