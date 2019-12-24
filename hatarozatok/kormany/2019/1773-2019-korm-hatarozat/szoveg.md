@@ -32,18 +32,9 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. december 31.
 
-2. A Korm. határozat 3. pont b) alpont bb) pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(a Program egyes elemeinek állami beruházások keretében történő megvalósítása érdekében
+3.[^2]
 
-egyetért azzal, hogy a Program)
-
-„bb) keretében megvalósuló kézilabda munkacsarnokok előkészítője a Nemzeti Sportközpontok, megvalósítója a Beruházási Ügynökség legyen,”
-
-3. A Kormány visszavonja a Korm. határozat
-
-a) 3. pont b) alpont bc) pontjában az „ , az ott megjelölt sorrendben” szövegrészt,
-
-b) 3. pont b) alpont be) pontját,
-
-c) 3. pont c) alpontját.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
