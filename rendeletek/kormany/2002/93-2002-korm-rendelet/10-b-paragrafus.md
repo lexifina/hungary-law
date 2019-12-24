@@ -40,7 +40,7 @@ b) a (8a) bekezdés szerinti gazdálkodó a (8a) bekezdés a)–c) pontjában
 
 ## foglaltak, valamint az igazgatási szolgáltatási díj megfizetésének igazolásával, a 12. számú mellékletben meghatározott adattartalommal nyújthatja be a nyilvántartásba vételt végző szervezetnek.
 
-(10)[^126] A szakmai szervezet, illetve a szakmai szerveződést működtető gazdálkodó a (7) bekezdés szerinti jogosultságról igazolást állít ki a továbbképzésre kötelezett részére, valamint hozzájárulása esetén a továbbképzési évet követő január 31-ig a jogosult annak nevét, anyja nevét, születési idejét és regisztrációs számát bejelenti a nyilvántartásba vételt végző szervezetnek az egységes Kormányzati Portálon megjelenő tájékoztatóban közzétett címen.
+(10)[^126] A szakmai szervezet és a szakmai szerveződést működtető gazdálkodó a (7) bekezdés szerinti szakmai konzultáción, képzésen, szakmai rendezvényen történő részvételi jogosultságról igazolást állít ki a továbbképzésre kötelezett részére, amelyet a továbbképzésre kötelezett hozzájárulása esetén neve, anyja neve, születési ideje és regisztrációs száma megadásával a továbbképzési évet követő január 31-ig bejelent a nyilvántartásba vételt végző szervezetnek az egységes Kormányzati Portálon közzétett tájékoztató szerint. A (7) bekezdés szerinti legfeljebb 2 kreditpont a továbbképzésre kötelezett továbbképzési kötelezettségébe a szakmai szervezet és a szakmai szerveződést működtető gazdálkodó bejelentése alapján számítható be.
 
 (11) A (7)–(8) bekezdés alkalmazásában szakmai szervezet tagja az a természetes személy, aki a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napján tagja a szakmai szervezetnek. A szakmai szervezet tagjának minősül az a természetes személy is, akinek foglalkoztatója a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napján tagja a szakmai szervezetnek, feltéve, hogy foglalkoztatója nevében a szakmai szervezet által szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken jogosult részt venni.
 
@@ -56,6 +56,6 @@ b) a (8a) bekezdés szerinti gazdálkodó a (8a) bekezdés a)–c) pontjában
 [^123]: A 10/B. § (8b) bekezdését a 226/2013. (VI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^124]: A 10/B. § (8c) bekezdését a 226/2013. (VI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^125]: A 10/B. § (9) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított, záró szövegrésze a 445/2017. (XII. 27.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
-[^126]: A 10/B. § (10) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 84. § 3. pontja szerint módosított szöveg.
+[^126]: A 10/B. § (10) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^127]: A 10/B. § (12) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 82. §-ával megállapított, a 480/2016. (XII. 28.) Korm. rendelet 85. § 12. pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
 [^128]: A 10/B. § (13) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 82. §-ával megállapított, a 445/2017. (XII. 27.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
