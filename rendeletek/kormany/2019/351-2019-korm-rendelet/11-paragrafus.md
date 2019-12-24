@@ -1,0 +1,1 @@
+## „d) a minisztérium által szervezett magyar nyelvi előkészítő képzés, illetve a felsőoktatási intézmények által indított magyar nyelvű képzések esetében az intézmény és a Közalapítvány keretmegállapodást kössön.”
