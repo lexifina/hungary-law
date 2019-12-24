@@ -20,6 +20,10 @@
 
 | 9. | 01392/3 |
 
+| 10. | 01392/24 |
+
+| 11. | 01392/6 |
+
 2. melléklet a 235/2018. (XII. 6.) Korm. rendelethez
 
 ## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
