@@ -1,0 +1,8 @@
+## 28/A. §[^51] Az Áht. 30. § (4) bekezdése szerinti többletbevétel felhasználásának engedélyezésére és a bevételi előirányzatok módosítására e § rendelkezéseit kell alkalmazni. E § alkalmazásában a honvédelmi szervezetek többletbevétele az elemi költségvetésben megtervezett eredeti előirányzat az Ávr. 35. § (1) bekezdése szerinti bevételekkel, valamint a HM fejezet visszatérüléseiből, az inkurrencia- és a honvédek jogállásáról szóló 2012. évi CCV. törvény 137. § (5) bekezdés a) pontja szerinti értékesítésből befolyó bevételekkel csökkentett összegén felül pénzforgalmilag elszámolt összeg.
+
+28/B. §[^52] (1) A Honvédelmi és Haderőfejlesztési Program részeként (e § alkalmazásában a továbbiakban: Program) a szerződés szerinti teljesítések tárgyévet követő években történő megvalósulása esetén a kifizetett előlegeket, a teljesítés tényleges megvalósulásáig, a honvédelmi szervezet kötelezettségvállalással terhelt költségvetési maradványának kell tekinteni, amely összeg kizárólag a Programban kitűzött, a kötelezettségvállalással érintett tárgyi feladatok ellátása érdekében kerülhet nyilvántartásba vételre.
+
+(2) Az (1) bekezdés szerinti költségvetési maradvány elvonásáról vagy felhasználásának további engedélyezéséről a Kormány nem határoz, annak terhére a költségvetési évet követő év december 31-ét követően is a Kormány döntése nélkül történhet meg a szerződés szerinti teljesítés elszámolása.
+
+[^51]: A 28/A. §-t a 282/2010. (XII. 15.) Korm. rendelet 5. §-a iktatta be, szövege a 89/2012. (IV. 26.) Korm. rendelet 7. §-ával megállapított, a 194/2013. (VI. 12.) Korm. rendelet 2. § e) és f) pontja szerint módosított szöveg.
+[^52]: A 28/B. §-t a 354/2019. (XII. 23.) Korm. rendelet 6. §-a iktatta be.

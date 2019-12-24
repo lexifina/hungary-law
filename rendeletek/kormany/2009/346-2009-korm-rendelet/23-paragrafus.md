@@ -1,3 +1,3 @@
-## 19–22. §[^42]
+## 19–22. §[^47]
 
-[^42]: A 19–22. §-t a 282/2010. (XII. 15.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^47]: A 19–22. §-t a 282/2010. (XII. 15.) Korm. rendelet 8. §-a hatályon kívül helyezte.
