@@ -1,4 +1,4 @@
-1. melléklet a 109/2012. (VI. 1.) Korm. rendelethez[^40]
+1. melléklet a 109/2012. (VI. 1.) Korm. rendelethez[^42]
 
 ## Ajánlati, ajánlattételi felhívás minta
 
@@ -50,4 +50,4 @@ v) Annak meghatározása, hogy lehet-e több változatú ajánlatot tenni:
 
 A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
 
-[^40]: Az 1. melléklet a 323/2015. (X. 30.) Korm. rendelet 10. § (21) bekezdésével megállapított szöveg.
+[^42]: Az 1. melléklet a 323/2015. (X. 30.) Korm. rendelet 10. § (21) bekezdésével megállapított szöveg.
