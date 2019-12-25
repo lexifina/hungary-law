@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-71-20-2
 | 2017-07-01 | 2015-71-20-22.11 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-07-26 | 2015-71-20-22.12 | 132/2018. (VII. 23.) Korm. rendelet |
 | 2019-04-06 | 2015-71-20-22.13 | 73/2019. (IV. 5.) Korm. rendelet |
+| 2019-12-25 | 2015-71-20-22.14 | 379/2016. (XII. 2.) Korm. rendelet |

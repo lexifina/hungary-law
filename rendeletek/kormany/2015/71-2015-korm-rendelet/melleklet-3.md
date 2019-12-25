@@ -44,8 +44,8 @@
 
 | Eredetigazolás kiállítására vonatkozó eljárás [a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet 6. § (4) bekezdés a) pontja] |
 
-| 3. | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekkel összefüggő környezetvédelmi és természetvédelmi hatósági ügyek |
+| 3. | Jász-Nagykun-Szolnok Megyei Kormányhivatal Szolnoki Járási Hivatala | A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekkel és ingatlanokkal összefüggő környezetvédelmi és természetvédelmi hatósági ügyek |
 
 | 4. | Baranya Megyei Kormányhivatal Pécsi Járási Hivatala | Kiemelt létesítményekkel kapcsolatos környezetvédelmi hatósági ügyek [az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló 15/2001. (VI. 6.) KöM rendelet 2. § i) pontja szerinti kiemelt létesítmények (atomerőmű, kísérleti és tanreaktor, uránbánya, radioaktív hulladéktároló, A-szintű izotóplaboratórium, kiégett fűtőelem-tároló)] |
 
-[^91]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés a) pontjával megállapított szöveg.
+[^91]: A 3. melléklet a 379/2016. (XII. 2.) Korm. rendelet 293. § (17) bekezdés a) pontjával megállapított, a 330/2019. (XII. 20.) Korm. rendelet 7. §-a szerint módosított szöveg.
