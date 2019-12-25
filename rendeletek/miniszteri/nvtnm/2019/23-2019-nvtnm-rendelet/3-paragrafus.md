@@ -1,1 +1,0 @@
-## 2. § A Rendelet 2. melléklet VI. pontjában foglalt táblázat A:1 mezőjében a „Pillér Pénzügyi és Számítástechnikai Korlátolt Felelősségű Társaság” szövegrész helyébe a „Pillér Informatikai Korlátolt Felelősségű Társaság” szöveg lép.
