@@ -1,5 +1,5 @@
-## 16. § A könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet 10/B. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-## „(10) A szakmai szervezet és a szakmai szerveződést működtető gazdálkodó a (7) bekezdés szerinti szakmai konzultáción, képzésen, szakmai rendezvényen történő részvételi jogosultságról igazolást állít ki a továbbképzésre kötelezett részére, amelyet a továbbképzésre kötelezett hozzájárulása esetén neve, anyja neve, születési ideje és regisztrációs száma megadásával a továbbképzési évet követő január 31-ig bejelent a nyilvántartásba vételt végző szervezetnek az egységes Kormányzati Portálon közzétett tájékoztató szerint. A (7) bekezdés szerinti legfeljebb 2 kreditpont a továbbképzésre kötelezett továbbképzési kötelezettségébe a szakmai szervezet és a szakmai szerveződést működtető gazdálkodó bejelentése alapján számítható be.”
+## 16. §[^6]
 
 ## 7. A mikrogazdálkodói egyszerűsített éves beszámolóról szóló 398/2012. (XII. 20.) Korm. rendelet módosítása
+
+[^6]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

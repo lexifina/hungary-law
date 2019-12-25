@@ -1,4 +1,4 @@
-## 26–33. §[^8]
+## 26–33. §[^9]
 
 ## 10. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–15. §, a 17–33. § és a 35. § 2020. január 1-jén lép hatályba.
 
-[^8]: A 26–33. § a 34. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^9]: A 26–33. § a 34. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
