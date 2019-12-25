@@ -1,1 +1,3 @@
-## 3. § Az ÖTM rendelet 5. § a) pontjában a „21. cikk (5) bekezdésének, 23. cikk (3)–(5) bekezdésének” szövegrész helyébe a „10–14. cikkének, 21. cikkének, 23. cikkének” szöveg lép.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
