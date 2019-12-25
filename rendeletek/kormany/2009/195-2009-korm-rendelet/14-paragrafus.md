@@ -4,8 +4,10 @@
 
 (2) A katonai építésfelügyeleti hatóság nyilvántartást vezet
 
-a) a 2. melléklet szerinti adattartalommal az építési tevékenység megkezdésével kapcsolatos adatokról,
+a)[^17]
 
 b) a 3. melléklet szerinti adattartalommal az építésfelügyeleti hatósági ellenőrzésekről,
 
 c) a 4. melléklet szerinti adattartalommal a kiszabott építésfelügyeleti bírságokról és azok behajtásáról.
+
+[^17]: A 14. § (2) bekezdés a) pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.

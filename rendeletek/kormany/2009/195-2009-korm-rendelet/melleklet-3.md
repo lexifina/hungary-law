@@ -8,16 +8,20 @@
 
 3. az építtető adatai (megnevezése, címe),
 
-4.[^21] az építésügyi hatósági engedély száma, kelte, véglegessé válása, ennek hiányában e tény rögzítése,
+4.[^22] az építésügyi hatósági engedély száma, kelte, véglegessé válása, ennek hiányában e tény rögzítése,
 
-5. a beruházáslebonyolító adatai (megnevezése, címe, a cégbírósági bejegyzés száma),
+5.[^23]
 
-6. a kivitelező fővállalkozó és alvállalkozói adatai (megnevezése, címe, a cégbírósági bejegyzés száma),
+6.[^24]
 
-7. a felelős műszaki vezetők adatai szakágak szerint (szakág megnevezése, név, cím, névjegyzéki szám),
+7.[^25]
 
-8. az építési műszaki ellenőrök adatai szakágak szerint (szakág megnevezése, név, cím, névjegyzéki szám),
+8.[^26]
 
 9. az építésügyi hatósági engedély tárgya (rövid leírás).
 
-[^21]: A 3. melléklet 4. pontja a 457/2017. (XII. 28.) Korm. rendelet 260. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 3. melléklet 4. pontja a 457/2017. (XII. 28.) Korm. rendelet 260. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^23]: A 3. mellékle 5. pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^24]: A 3. mellékle 6. pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^25]: A 3. mellékle 7. pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^26]: A 3. mellékle 8. pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
