@@ -1,3 +1,3 @@
-## 1. § Az „ELI” Science Park Szeged projekt megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 235/2018. (XII. 6.) Korm. rendelet (a továbbiakban: R.) a következő 5. §-sal egészül ki:
+## 1. §[^2]
 
-## „5. § Az „ELI” Science Park Szeged projekt megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 235/2018. (XII. 6.) Korm. rendelet módosításáról szóló 337/2019. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. mellékletben foglalt táblázat 10. és 11. sorait a Módr. hatálybalépésekor folyamatban lévő közigazgatási ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
