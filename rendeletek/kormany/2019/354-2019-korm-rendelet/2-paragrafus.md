@@ -1,1 +1,0 @@
-## „(3) A rendelet előírásait a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézményre is alkalmazni kell.”

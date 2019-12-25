@@ -1,3 +1,0 @@
-## 3. § A Korm. rendelet 7/A. §-a helyébe a következő rendelkezés lép:
-
-## „7/A. § A külföldön tevékenységet ellátó honvédelmi szervezet gazdálkodási tevékenysége során kötelezettségvállalási, pénzügyi ellenjegyzési, érvényesítési, utalványozási és teljesítési igazolásra irányuló feladatot abban az esetben végezheti az a személy, aki ezt a tevékenységet a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója vagy maga javára látná el, ha az összeférhetetlenség alól a kihelyező honvédelmi szervezet gazdasági vezetője – amennyiben a gazdasági vezetői feladat a 8. § szerint megosztásra kerül, úgy a pénzügyi és számviteli feladatok vonatkozásában gazdasági vezetőnek minősülő személy – írásban felmentést ad részére.”
