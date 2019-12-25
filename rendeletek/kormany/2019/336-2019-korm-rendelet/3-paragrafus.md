@@ -1,3 +1,3 @@
-## 2. § Az R. a következő 28. §-sal egészül ki:
+## 2. §[^3]
 
-## „28. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 336/2019. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr20.) megállapított 6. § (7) és (8) bekezdését, valamint 2. mellékletben foglalt táblázat 32. sorát a Módr20. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
