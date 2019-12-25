@@ -1,1 +1,0 @@
-A Borsod-Abaúj-Zemplén megyei Központi Kórház sugárterápiás eszközfejlesztésének támogatásáról szóló 1269/2019. (V. 8.) Korm. határozat 2. pontjában a „2019. december 31.” szövegrész helyébe a „2020. február 29.” szöveg lép.
