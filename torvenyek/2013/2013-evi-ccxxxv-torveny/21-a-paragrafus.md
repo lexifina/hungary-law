@@ -1,0 +1,1 @@
+21/A. § Pénzforgalmi szolgáltatásra vonatkozó tevékenységi engedély visszavonása esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a fizetési művelet érdekében átvett pénzeszközök kiadása iránt soron kívül intézkedik.
