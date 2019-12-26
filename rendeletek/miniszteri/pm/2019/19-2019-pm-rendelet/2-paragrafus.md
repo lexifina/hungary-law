@@ -1,0 +1,5 @@
+## 1. § A nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség részletes szabályairól szóló 24/2008. (VIII. 15.) PM rendelet (a továbbiakban: Rendelet) 1. §-a a következő (1a)–(1b) bekezdéssel egészül ki:
+
+## „(1a) A kizárólag multilaterális kereskedési rendszerbe regisztrált (szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére be nem vezetett) értékpapír kibocsátójára vonatkozó rendszeres és rendkívüli tájékoztatás szabályait a multilaterális kereskedési rendszer működtetője szabályzatban állapítja meg.
+
+## (1b) A Tpt. 199. § (3) bekezdésében meghatározottak teljesítése során a kibocsátónak a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 596/2014/EU rendelet) 19. cikkének rendelkezéseit, valamint e rendelet rendkívüli tájékoztatásra vonatkozó rendelkezéseit is figyelembe kell vennie.”
