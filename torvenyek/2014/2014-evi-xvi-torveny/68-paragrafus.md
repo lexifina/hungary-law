@@ -4,7 +4,7 @@ a) értékpapíralap esetén kétszázmillió forint,
 
 b) ingatlanalap esetén egymilliárd forint.
 
-(2) A zártkörűen létrehozott befektetési alap legkisebb induló saját tőkéje
+(2) A zártkörű befektetési alap legkisebb induló saját tőkéje
 
 a) értékpapíralap esetében százmillió forint,
 

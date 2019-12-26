@@ -486,7 +486,7 @@ XIII. A forgalomba hozatallal kapcsolatos információk
 
 55.1. A befektetési jegyek forgalomba hozatalának módja, feltételei
 
-55.2. Azon befektetők körének megjelölése, amelyek a befektetési jegyeket jegyezhetik, illetve akik körében a befektetési jegy a folyamatos forgalmazás során forgalmazható, továbbá azon feltételek megjelölése, amely alapján a forgalomba hozatal zártkörűnek minősül
+55.2. Azon befektetők körének megjelölése, amelyek a befektetési jegyeket jegyezhetik, illetve akik körében a befektetési jegy a folyamatos forgalmazás során forgalmazható, továbbá azon feltételek megjelölése, amely alapján a befektetési alap zártkörűnek minősül
 
 55.3. A forgalomba hozatali mennyiség maximum, illetve minimum mértéke
 

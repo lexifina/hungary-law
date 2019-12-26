@@ -30,7 +30,7 @@ ba) a befektetési alap nyilvántartási száma, a forgalomba hozott befektetés
 
 bb) a befektetési alap vagy részalap, továbbá az adott értékpapír-sorozat megnevezése, a befektetési alap típusa, fajtája, harmonizációja, valamint a részalapok esetében annak a befektetési alapnak a megnevezése, amelyen belül a részalap kialakításra került,
 
-bc) a befektetési jegyek forgalomba hozatalának módja (nyilvános vagy zártkörű),
+bc) a befektetési alap működésének módja (nyilvános vagy zártkörű),
 
 bd) a befektetési alap futamideje (határozott vagy határozatlan),
 
