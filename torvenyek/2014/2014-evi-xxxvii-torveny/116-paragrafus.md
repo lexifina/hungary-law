@@ -46,7 +46,7 @@ c) az utólagos, végleges értékelést jóváhagyó határozat [26. §],
 
 d) a vagyonértékesítés vagy az eszközelkülönítés keretében átruházott eszközök, források, jogok vagy kötelezettségek visszaruházását elrendelő határozat [38. és 55. §],
 
-e) a hitelezői feltőkésítés alkalmazhatóságához szükséges feltételek biztosítását elrendelő határozat [59–61. §, 69–70. §, 72–73. §],
+e) a hitelezői feltőkésítés alkalmazhatóságához szükséges feltételek biztosítását elrendelő határozat [59–61. §, 64. § (4) bekezdés, 69–70. §, 72–73. §],
 
 f) a reorganizációs tervet jóváhagyó határozat [71. § (6) bekezdés],
 

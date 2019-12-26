@@ -1,4 +1,4 @@
-107. § (1) Az 1. § (1) bekezdésében meghatározott szervezetet a szanálási feladatkörében eljáró MNB az eljárása lefolytatásáról – annak megkezdése előtt legalább tizenöt nappal – írásban értesíti, kivéve ha az előzetes értesítés a szanálási eljárás eredményességét veszélyezteti.
+107. § (1) Az 1. § (1) bekezdésében meghatározott szervezetet a szanálási feladatkörében eljáró MNB az eljárása lefolytatásáról – annak megkezdése előtt legalább tizenöt nappal – írásban értesíti, kivéve ha az előzetes értesítés az eljárás eredményességét veszélyezteti.
 
 (2) Helyszíni ellenőrzést magában foglaló eljárásban a helyszíni ellenőrzés tartására vonatkozó értesítésre az (1) bekezdést kell alkalmazni.
 

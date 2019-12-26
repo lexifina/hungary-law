@@ -14,9 +14,15 @@ a) ha megállapítja, hogy az intézmény vagy az 1. § (1) bekezdés szerinti p
 
 b) az anyavállalat szintjén kibocsátott tőkeelemek esetében, ha ezeket a tőkeelemeket a Felügyelet elismeri a szavatoló tőke követelményeknek az anyavállalat szintjén történő egyéni vagy összevont alapon történő teljesítéseként, és a szanálási feladatkörében eljáró MNB megállapítja, hogy a csoport nem lesz többé életképes, hacsak a szóban forgó instrumentumok kapcsán nem gyakorolják a leírásra vagy átalakításra vonatkozó jogosultságot;
 
-c) ha az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás rendkívüli állami pénzügyi támogatást igényel; vagy
+c) a leányvállalat szintjén kibocsátott elsődleges alapvető és járulékos tőkeelemek esetében, ha
 
-d) az e törvényben meghatározott állami tőkeemelés során.
+ca) ezeket a tőkeelemeket az illetékes felügyeleti hatóság elismeri a szavatoló tőke követelmények egyedi és összevont alapú teljesítéséhez és
+
+cb) az összevont felügyeletet ellátó hatóság székhelye szerinti tőkeelemek leírására vagy átalakítására jogosult hatóság és a szanálási feladatkörében eljáró MNB a 32. § (5) és (6) bekezdése szerinti többoldalú eljárás keretében megállapítja, hogy a csoport a szóban forgó instrumentumok kapcsán gyakorolt tőkeelemek leírására vagy átalakítására vonatkozó jogosultság gyakorlása hiányában többé nem lesz életképes;
+
+d) ha az intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás rendkívüli állami pénzügyi támogatást igényel; vagy
+
+e) az e törvényben meghatározott állami tőkeemelés során.
 
 (4) Az intézmény vagy csoport a (3) bekezdés alkalmazásában többé nem életképes, ha
 

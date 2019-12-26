@@ -14,7 +14,7 @@
 
 a) a 4–10. §-ban meghatározott szanálási tervek tartalmát és részleteit,
 
-b) a szanálási tervek elkészítésének ütemezését és aktualizálásuk gyakoriságát, amely rövidebb lehet az e törvényben meghatározott mértékeknél,
+b) a szanálási tervek elkészítésének ütemezését és aktualizálásuk gyakoriságát, amely egyszerűsített követelmények alkalmazása esetén ritkább lehet az e törvényben meghatározott mértékeknél,
 
 c) az intézmények által a 6. § (1) bekezdése alapján szolgáltatandó adatok körét és az adatok részletezettségét,
 

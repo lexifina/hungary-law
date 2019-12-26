@@ -24,6 +24,6 @@ b) az elsődleges alapvető tőkeelemeket azt megelőzően bocsátják ki, hogy 
 
 c) az elsődleges alapvető tőkeelemeket az átalakítási jogosultság gyakorlása után haladéktalanul allokálják és átruházzák; és
 
-d) az egyes kiegészítő alapvető és járulékos tőkeelemek kapcsán nyújtott elsődleges alapvető tőke mennyiségét meghatározó átváltási ráta megfelel a 76. §-ban meghatározott alapelveknek.
+d) az egyes kiegészítő alapvető és járulékos tőkeelemek kapcsán nyújtott elsődleges alapvető tőke mennyiségét meghatározó átváltási ráta megfelel a 76. §-ban meghatározott alapelveknek, valamint az átváltási rátáról az EBH által az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 16. cikkével összhangban kibocsátott iránymutatásnak.
 
 (4) Az elsődleges alapvető tőkének a (3) bekezdéssel összhangban történő rendelkezésre bocsátása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás számára, hogy mindenkor rendelkezzen a megfelelő mennyiségű elsődleges alapvető tőke kibocsátásához szükséges előzetes engedéllyel.

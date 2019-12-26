@@ -22,6 +22,6 @@ b) az EU-szintű anyavállalatra összevont alapon
 
 alkalmazza az (1) bekezdésben és a 62–63. §-ban foglalt minimumkövetelményeket.
 
-(4) A szanálási feladatkörében eljáró MNB – a Felügyelettel egyeztetve – megköveteli az intézménytől, hogy teljesítse a szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó e §-ban és a 68. §-ban foglalt minimumkövetelményt, amelynek teljesítését a Felügyelet ellenőrzi.
+(4) A szanálási feladatkörében eljáró MNB – a Felügyelettel egyeztetve – megköveteli az intézménytől, hogy teljesítse a szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó e §-ban és a 68. §-ban foglalt minimumkövetelményt, amelynek teljesítését a szanálási feladatkörében eljáró MNB ellenőrzi.
 
 (5) A szanálási feladatkörében eljáró MNB a szanálási tervek kidolgozásával és folyamatosan naprakészen tartásával biztosítja a 65–68. §-ban foglalt döntéseinek a megalapozását.
