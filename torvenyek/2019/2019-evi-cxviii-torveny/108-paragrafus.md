@@ -8,9 +8,9 @@ c) 106. § (4) bekezdésében a „vagy kapcsolatban” szövegrész helyébe a 
 
 d) 106. § (6) bekezdésében a „részére fogyasztónak” szövegrész helyébe a „részére az (5) bekezdés hatálya alá nem tartozó fogyasztónak” szöveg,
 
-e) 113. § (1) bekezdésében az „Az irányítási jogkörrel rendelkező vezető” szövegrész helyébe az „A vezető” szöveg,
+e)
 
-f) 118. § (11) bekezdésének nyitó szövegrészében a „következőkből” szövegrész helyébe a „következő elemekből, vagy azok egyensúlyban lévő kombinációjából” szöveg,
+f)
 
 g) 219. § (3) bekezdésében a „214. §” szövegrész helyébe a „214. § és 214/A. §” szöveg
 

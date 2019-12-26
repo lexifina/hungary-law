@@ -1,11 +1,11 @@
 109. § Hatályát veszti a Hpt.
 
-a) 223. § (6) bekezdése,
+a)
 
-b) 224. § (1) bekezdés a) pontjában az „az ügyvezető igazgató-helyettes által irányított, illetve” szövegrész,
+b)
 
-c) 224. § (1) bekezdés o) pontja,
+c)
 
-d) 228. § (6) bekezdésében az „– a 2. melléklet szerinti –” szövegrész,
+d)
 
 e) 232. § (4) bekezdésében az „– az államháztartásért felelős miniszter által jóváhagyott összegű –” szövegrész.

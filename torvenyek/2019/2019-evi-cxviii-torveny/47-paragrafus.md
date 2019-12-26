@@ -2,7 +2,7 @@
 
 a) 10. § (1) bekezdésében, 48. § (4) bekezdésében, 65. § (3) bekezdésében és 66. § (3) bekezdésében az „a 34. § (4) bekezdésében” szövegrész helyébe az „a 44. § (6) bekezdésében” szöveg,
 
-b) 12/B. § (3) bekezdésében az „i) pontjában” szövegrész helyébe a „h) és j) pontjában” szöveg,
+b)
 
 c) 52. § (1) bekezdésében az „alkalmazni a nyilvánosan forgalomba hozott” szövegrész helyébe az „alkalmazni – amennyiben jogszabály másként nem rendelkezik – a szabályozott piacra bevezetett” szöveg,
 

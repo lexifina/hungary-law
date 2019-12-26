@@ -9,11 +9,3 @@ b) az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpap�
 c) a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

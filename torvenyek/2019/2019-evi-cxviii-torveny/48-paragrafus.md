@@ -22,7 +22,7 @@
 
 11. 217. § (6) bekezdésében a „devizában, valutában kifizetett” szövegrész,
 
-12. 223. § (10)–(12) bekezdése,
+12.
 
 13. 356. § (2) bekezdése,
 
