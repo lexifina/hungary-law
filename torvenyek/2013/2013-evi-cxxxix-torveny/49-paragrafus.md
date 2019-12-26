@@ -24,9 +24,11 @@ h) a kérelem, a döntés és egyéb irat fordításához szükséges idő,
 
 i) a kérelmező ügyfelet az eljárási költség előlegezésére kötelező döntés közlésére irányuló intézkedéstől az annak teljesítéséig terjedő idő,
 
-j) a szakértői vélemény elkészítésének időtartama, és
+j) a szakértői vélemény elkészítésének időtartama,
 
-k) a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama.
+k) a hatósági megkeresés vagy a döntés postára adásának napjától annak kézbesítéséig terjedő időtartam, valamint a hirdetményi, továbbá a kézbesítési meghatalmazott és a kézbesítési ügygondnok útján történő közlés időtartama, és
+
+l) a bizonyítási eljárás lezárását követően MNB-hez érkezett iratbetekintésre irányuló kérelem elbírálása során hozott végzés meghozatalától, vagy az iratbetekintés korlátozás nélkül történő engedélyezése esetén az ügyfél tájékoztatásától a kérelem alapján megvalósuló iratbetekintés napjáig terjedő időtartam.
 
 (5) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének, valamint a közhírré tétel napja. A hónapokban vagy években megállapított határidő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Az órákban megállapított határidő az okot adó cselekményt követő óra első percében kezdődik.
 

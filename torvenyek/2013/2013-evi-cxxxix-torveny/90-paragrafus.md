@@ -4,9 +4,9 @@
 
 a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység gyanúja esetén,
 
-b) bennfentes kereskedelem vagy piacbefolyásolás gyanúja esetén,
+b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
 
-c) bennfentes személyre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
+c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 
 d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
 

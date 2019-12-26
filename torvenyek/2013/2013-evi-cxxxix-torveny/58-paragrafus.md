@@ -22,4 +22,4 @@
 
 (11) Az engedélyezési eljárásokban csak eredeti dokumentum vagy hiteles elektronikus másolat nyújtható be.
 
-(12) Az MNB 45. § szerinti hatósági tevékenysége során a gazdálkodó szervezetek őrzésében lévő papíralapú közokiratról, más által kiállított papíralapú teljes bizonyító erejű magánokiratról vagy egyéb magánokiratról a gazdálkodó szerv által készített elektronikus másolat hiteles dokumentumként nem fogadható el.
+(12) Az MNB 45. § szerinti hatósági tevékenysége során – ide nem értve az ellenőrzési eljárást, a fogyasztóvédelmi ellenőrzési eljárást és a felügyeleti ellenőrzést – a gazdálkodó szervezetek őrzésében lévő papíralapú közokiratról, más által kiállított papíralapú teljes bizonyító erejű magánokiratról vagy egyéb magánokiratról a gazdálkodó szerv által készített elektronikus másolat hiteles másolatként nem fogadható el.

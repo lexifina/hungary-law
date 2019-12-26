@@ -1,6 +1,6 @@
 ## 28. A felügyeleti biztos
 
-79. § (1) A 39. § (1) bekezdés a), c), f), h), i), k), l) és m) pontja szerinti törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 80. §-ban meghatározott szabályokat kell alkalmazni.
+79. § (1) A 39. § (1) bekezdés a), c), f), h), i), k), l), m) és s) pontja szerinti törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 80. §-ban meghatározott szabályokat kell alkalmazni.
 
 (2) Felügyeleti biztosnak kizárólag az MNB 4. § (9) bekezdésben meghatározott feladatkört ellátó munkavállalója vagy a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki (a továbbiakban: MNB által kirendelt nonprofit gazdasági társaság. A felügyeleti biztosi feladatokat az MNB munkavállalója és a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy együttesen is elláthatja.
 

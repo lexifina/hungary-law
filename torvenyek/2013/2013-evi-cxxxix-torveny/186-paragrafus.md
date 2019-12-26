@@ -18,9 +18,7 @@ a)
 
 b) (2) bekezdése a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet,
 
-c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
-
-c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
+c) (3) bekezdése az (EU) 2017/1129 európai parlamenti és tanácsi rendeletnek az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztató formátuma, tartalma, ellenőrzése és jóváhagyása tekintetében történő kiegészítéséről, valamint a 809/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. március 14-i (EU) 2019/980 bizottsági rendelet,
 
 d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
 
@@ -48,7 +46,11 @@ o) (27) bekezdése az európai kockázatitőke-alapokról szóló 345/2013/EU re
 
 p) (28) bekezdése a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről szóló 575/2013/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2401 európai parlamenti és tanácsi rendelet,
 
-q) (29) bekezdése az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet
+q) (29) bekezdése az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet,
+
+r) (30) bekezdése az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet,
+
+s) (31) bekezdése a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

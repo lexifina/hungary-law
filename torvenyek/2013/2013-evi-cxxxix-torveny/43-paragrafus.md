@@ -84,7 +84,9 @@ s) azt a tájékoztatást, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) 
 
 t) – jogi területek szerinti kategóriákba sorolva – a biztosítási és viszontbiztosítási értékesítési tevékenységre alkalmazandó hatályos jogszabályok naprakész elérhetőségére mutató internetes hivatkozásokat.
 
-u) a foglalkoztatói nyugdíjszolgáltató intézményekkel kapcsolatos prudenciális felügyelet fő céljaira vonatkozó tájékoztatást, a felügyeleti felülvizsgálati eljárásra vonatkozó információkat, valamint a prudenciális előírások alkalmazásának főbb területeire vonatkozó összesített statisztikai adatokat és kapcsolódó elemzést.
+u) a foglalkoztatói nyugdíjszolgáltató intézményekkel kapcsolatos prudenciális felügyelet fő céljaira vonatkozó tájékoztatást, a felügyeleti felülvizsgálati eljárásra vonatkozó információkat, valamint a prudenciális előírások alkalmazásának főbb területeire vonatkozó összesített statisztikai adatokat és kapcsolódó elemzést,
+
+v) a 600/2014/EU rendelet 42. cikke alapján hozott határozatát, amelyben pénzügyi eszközök vagy strukturált betétek forgalmazását, értékesítését, továbbá egyes piaci cselekmények vagy magatartások végzését megtiltja vagy korlátozza.
 
 (2a) Az MNB a (2) bekezdés szerinti közzétételi kötelezettségének
 

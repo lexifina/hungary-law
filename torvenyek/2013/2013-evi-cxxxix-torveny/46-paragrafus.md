@@ -14,6 +14,8 @@ nem szabályozott kérdésekben az általános közigazgatási rendtartásról s
 
 2. az eljárási képességre és a képviseletre,
 
+2a. a 15. § (2) bekezdésében meghatározott eljárási kötelezettségre,
+
 3. a hatáskör és az illetékesség vizsgálatára, a hatásköri és illetékességi vitára,
 
 4. a megkeresés szabályaira,

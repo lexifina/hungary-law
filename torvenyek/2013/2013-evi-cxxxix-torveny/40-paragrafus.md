@@ -2,7 +2,7 @@
 
 (2) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
-(3) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet végrehajtását.
+(3) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja az (EU) 2017/1129 európai parlamenti és tanácsi rendeletnek az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztató formátuma, tartalma, ellenőrzése és jóváhagyása tekintetében történő kiegészítéséről, valamint a 809/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, a Bizottság (EU) 2019. március 14-i 2019/980 felhatalmazáson alapuló rendelete végrehajtását.
 
 (4) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet végrehajtását.
 
@@ -36,7 +36,7 @@
 
 (19) Az MNB a 39. § (1) bekezdés o) pontjában meghatározott feladatai során ellátja a kártyaalapú fizetési műveletek bankközi jutalékairól szóló, 2015. április 29-i 2015/751/EU parlamenti és tanácsi rendelet végrehajtásából származó feladatokat.
 
-(20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
+(20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 596/2014/EU rendelet) végrehajtását.
 
 (21) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet végrehajtását.
 
@@ -55,3 +55,7 @@
 (28) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2402 európai parlamenti és tanácsi rendelet] végrehajtását, ideértve az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 29. cikk (4) és (5) bekezdésében meghatározott hatáskört.
 
 (29) A (28) bekezdéstől eltérően az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 6–9. és 18–27. cikkében meghatározott kötelezettségeknek való megfelelést az MNB nem felügyeli azon szervezetek esetében, amelyek csupán kitettségeket értékesítenek az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 7. pontja szerinti ABCP-program vagy egyéb értékpapírosítási ügylet vagy konstrukció keretében, de nem helyeznek ki kitettségeket aktívan, a rendszeres alapon történő értékpapírosítás elsődleges céljával.
+
+(30) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet végrehajtását.
+
+(31) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet végrehajtását.

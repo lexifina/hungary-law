@@ -36,6 +36,8 @@
 
 17. a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i 2016/2341 európai parlamenti és tanácsi irányelvnek,
 
-18. a 2014/65/EU európai parlamenti és tanácsi irányelvnek az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelme, a termékirányítási kötelezettségek, valamint a díjak, jutalékok vagy pénzbeli és nem pénzbeli juttatások nyújtására vagy átvételére alkalmazandó szabályok tekintetében történő kiegészítéséről szóló, 2016. április 7-i (EU) 2017/593 felhatalmazáson alapuló bizottsági irányelvnek
+18. a 2014/65/EU európai parlamenti és tanácsi irányelvnek az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelme, a termékirányítási kötelezettségek, valamint a díjak, jutalékok vagy pénzbeli és nem pénzbeli juttatások nyújtására vagy átvételére alkalmazandó szabályok tekintetében történő kiegészítéséről szóló, 2016. április 7-i (EU) 2017/593 felhatalmazáson alapuló bizottsági irányelvnek,
+
+19. a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.

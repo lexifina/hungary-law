@@ -72,7 +72,7 @@ a) az Európai Értékpapír-piaci Hatóságot
 
 aa) a piaci visszaélésekről, valamint a befektetési vállalkozásokra és az árutőzsdei szolgáltatókra vonatkozó jogszabályi rendelkezések megsértésével kapcsolatban kiszabott közigazgatási intézkedésről vagy szankcióról a nyilvánosságra hozatalt követően, valamint évente összesítő jelleggel,
 
-ab) az értékpapírt kibocsátó, az ajánlattevő vagy a szabályozott piacra történő bevezetést kérő személy értesítésével egyidejűleg a tájékoztató és annak bármely kiegészítése jóváhagyásáról, amellyel egyidejűleg a tájékoztató és a tájékoztató kiegészítő jegyzékeinek egy példányát is megküldi,
+ab)
 
 ac) a befektetési szolgáltatási tevékenység végzésére jogosító engedély, tőzsde alapítására vonatkozó engedély, tőzsdei tevékenység végzésére, befektetési alapkezelési tevékenység végzésére jogosító engedély kiadásáról és visszavonásáról,
 
@@ -221,3 +221,15 @@ bb) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott inf
 (9) A Pénzügyi Békéltető Testület tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást ad.
 
 (10) Az MNB értesítheti az Európai Értékpapír-piaci Hatóságot az olyan helyzetekről, amikor a befektetési vállalkozást érintő helyszíni ellenőrzés vagy vizsgálat elvégzéséhez vagy információcseréhez kapcsolódó felügyeleti megkeresését elutasították vagy nem jártak el észszerű időben.
+
+(11) A Felügyelet késedelem nélkül átadja a másik EGT-állam illetékes felügyeleti hatóságának a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelv átültetését biztosító jogszabályokban meghatározott feladatok ellátásához szükséges információkat. A Felügyelet jelezheti, hogy az átadott információkat hozzájárulása nélkül nem lehet közzétenni és kizárólag azokra a célokra lehet felhasználni, amelyekhez hozzájárult. A Felügyelet a másik EGT-állam illetékes felügyeleti hatóságától kapott információkat kizárólag azok hozzájárulásával és az általuk elfogadott célból továbbíthatja harmadik félnek az indokolt esetek kivételével. Indokolt esetek fennállása esetén a Felügyelet azonnal tájékoztatja a másik EGT-állam illetékes felügyeleti hatóságát.
+
+(12) A Felügyelet csak abban az esetben tagadhatja meg az együttműködést, illetve a (11) bekezdésben meghatározott információcserét, ha
+
+a) az sérti Magyarország szuverenitását, biztonságát vagy közrendjét;
+
+b) ugyanazon személyek és tevékenységek tekintetében magyarországi bíróságnál vagy hatóságnál már kezdeményeztek eljárást; vagy
+
+c) ugyanazon személyek és tevékenységek tekintetében Magyarországon már jogerős bírósági ítélet vagy végleges döntés született
+
+azzal, hogy az elutasítás tényéről és indokáról a Felügyelet részletes tájékoztatást ad a megkeresést küldő EGT-állam illetékes felügyeleti hatóságának.

@@ -20,6 +20,8 @@ d) az ügyfelek száma meghaladja az ötvenet vagy
 
 e) azt jogszabály előírja.
 
+(3a) Az MNB a 600/2014/EU rendelet 42. cikke alapján hozott határozata közlését – amelyben pénzügyi eszközök vagy strukturált betétek forgalmazását, értékesítését, továbbá egyes piaci cselekmények vagy magatartások végzését tiltja meg vagy korlátozza – hirdetmény útján kézbesíti. A határozat közlése időpontjának a közzététel időpontja minősül.
+
 (4) A hirdetmény tartalmazza
 
 a) a honlapon történő közzététel napját,
@@ -35,5 +37,7 @@ e) a döntés rendelkező részét, továbbá
 f) azt a figyelemfelhívást, hogy az ügyfél vagy képviselője a döntést a hatóságnál megtekintheti.
 
 (5) A hirdetményt az MNB a honlapján helyezi el. A döntés a honlapon történt megjelentetés napját követő tizedik napon közöltnek tekintendő.
+
+(5a) A (3a) bekezdés szerinti határozat azonnal végrehajtandó.
 
 (6) Egyebekben az Ákr. kézbesítésre vonatkozó szabályait az e törvényben meghatározott eltérésekkel kell alkalmazni.
