@@ -45,3 +45,11 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 (7) Nyilvánosan működő részvénytársaság esetében az (1) bekezdés d) pontjának alkalmazásakor a Gt.-től eltérően a közgyűlést annak kezdőnapját huszonegy nappal megelőzően kell összehívni.
 
 (8) Ha a Felügyelet az (1) bekezdés b) pont ba)–bb) alpontjában foglalt kivételes intézkedést alkalmaz, haladéktalanul tájékoztatja azon EGT-állam illetékes felügyeleti hatóságait, amelyekben az intézkedéssel érintett hitelintézet fióktelepet működtet vagy határon átnyúló szolgáltatást nyújt.
+
+(9) A helyreállítási terv 185. § (2) bekezdés e) pontja szerinti életbe léptetése, valamint az (1) bekezdés szerinti kivételes intézkedés alkalmazása esetén a Felügyelet
+
+a) az intézkedésről haladéktalanul tájékoztatja a szanálási feladatkörében eljáró MNB-t,
+
+b) az intézkedés végrehajtására megfelelő határidőt szab, továbbá
+
+c) az adott intézkedés hatékonyságát ellenőrzi és értékeli.

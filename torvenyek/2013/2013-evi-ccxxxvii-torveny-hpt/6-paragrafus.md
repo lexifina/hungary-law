@@ -24,7 +24,7 @@
 
 10. csoport: olyan vállalkozások összessége, amelyet egy anyavállalat, annak leányvállalatai és mindazon vállalkozások alkotnak, amelyekben az anyavállalat vagy leányvállalata ellenőrző befolyással vagy részesedési viszonnyal rendelkezik;
 
-11. csoportfinanszírozás: anyavállalatnak leányvállalatokkal vagy ez utóbbiak egymás közötti, a likviditás biztosítása érdekében közösen végrehajtott pénzügyi művelete;
+11. csoportfinanszírozás: anyavállalatnak leányvállalatokkal vagy ez utóbbiak egymás közötti, likviditási vagy allokációs célú közösen végrehajtott pénzügyi művelete;
 
 11a. digitális tartalom: olyan áru vagy szolgáltatás, amelyet digitális formában állítanak elő és nyújtanak, illetve értékesítenek, és amelynek használata, igénybevétele meghatározott technikai eszközre korlátozódik és semmilyen formában nem jár fizikai áruk vagy szolgáltatások használatával, igénybevételével;
 

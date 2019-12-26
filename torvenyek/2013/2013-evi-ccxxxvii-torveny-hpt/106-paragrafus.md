@@ -2,7 +2,7 @@
 
 106. § (1) Hitelintézet, ide nem értve a hitelszövetkezetet
 
-a) a hitelintézet, illetve a hitelintézettel szoros kapcsolatban álló vállalkozás vezető testületének tagjával és könyvvizsgálójával szemben,
+a) a hitelintézet, illetve a hitelintézettel szoros kapcsolatban álló vállalkozás vezető testületének tagjával és természetes személy könyvvizsgálójával szemben,
 
 b) az a) pontban megjelölt személy közeli hozzátartozójával szemben,
 
@@ -16,17 +16,19 @@ kockázatot csak az e §-ban meghatározott feltételekkel vállalhat.
 
 (3) Az (1) bekezdésben meghatározott kockázatvállalás nem történhet az (1) bekezdésben meghatározott személyekre nézve kedvezőbb feltételekkel, mint a hitelintézettel az (1) bekezdésben meghatározott kapcsolatban nem álló személyekkel szembeni kockázatvállalás.
 
-(4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
+(4) Az (1) bekezdésben meghatározott kockázatvállalásból fakadó egy személlyel vagy egy személlyel és vele az (1) bekezdés b), illetve c) pontja szerinti kapcsolatban álló személyekkel szembeni kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 80 százalékát azzal, hogy az éven túli kitettség értéke nem érheti el az 575/2013/EU rendelet 392. cikke szerinti érték 50 százalékát.
 
 (5) A (2) bekezdésben meghatározott korlátozás nem vonatkozik
 
-a) a hitelintézetnél vezetett fizetési számlához kapcsolódó hitelkeretre, valamint
+a) a hitelintézetnél vezetett fizetési számlához kapcsolódó hitelkeretre a belső szabályzatban meghatározott mértékig,
 
-b) a munkáltató által adott fizetési előleg vagy lakás-, illetve más szociális célú kölcsönre
+b) a munkáltató által adott fizetési előleg vagy lakás-, illetve más szociális célú kölcsönre a belső szabályzatban meghatározott mértékig,
 
-a belső szabályzatban meghatározott mértékig.
+c) a jelzáloghitelre, ha az adott személlyel szembeni ilyen jellegű kitettség teljes összege nem haladja meg a tizenötmillió forintot, valamint
 
-(6) A (2) bekezdéstől eltérően az (1) bekezdésben meghatározott személy részére fogyasztónak nyújtott hitel az irányítási jogkörrel rendelkező vezető testület jelen lévő tagjainak több mint kétharmados többséggel hozott határozata alapján nyújtható. A hitelintézet irányítási jogkörrel rendelkező vezető testülete által hozott határozat tartalmazza a kamat és a törlesztés feltételeit is. A határozathozatal során az (1) bekezdés alapján érintett személy nem rendelkezik szavazati joggal.
+d) az a)–c) pont hatálya alá nem tartozó, a fogyasztónak nyújtott hitelről szóló törvény szerinti hitelszerződésre, ha az adott személlyel szembeni ilyen jellegű kitettség teljes összege nem haladja meg az ötmillió forintot.
+
+(6) A (2) bekezdéstől eltérően az (1) bekezdésben meghatározott személy részére az (5) bekezdés hatálya alá nem tartozó fogyasztónak nyújtott hitel az irányítási jogkörrel rendelkező vezető testület jelen lévő tagjainak több mint kétharmados többséggel hozott határozata alapján nyújtható. A hitelintézet irányítási jogkörrel rendelkező vezető testülete által hozott határozat tartalmazza a kamat és a törlesztés feltételeit is. A határozathozatal során az (1) bekezdés alapján érintett személy nem rendelkezik szavazati joggal.
 
 (7) A hitelintézet írásban rögzített hatékony eljárásrenddel, szabályzatokkal rendelkezik az (1) bekezdésben meghatározott személyekkel szembeni kockázatvállalások
 
