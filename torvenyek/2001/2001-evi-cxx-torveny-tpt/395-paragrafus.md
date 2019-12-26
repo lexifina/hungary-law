@@ -58,4 +58,4 @@ kell eleget tenni.
 
 (7) A nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó szabályok betartásának ellenőrzése keretében a Felügyelet írásbeli megkeresésére a részvényesi jogok gyakorlója köteles e jogok gyakorlására kötött megállapodást feltárni, valamennyi e tárgyban keletkezett irat másolatát a Felügyelet rendelkezésére bocsátani, illetve megjelölni azt a személyt, akinek érdekében ténylegesen eljár.
 
-(8) A magyarországi bejegyzésű befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság lett, vagy ezen viszony módosul, illetőleg megszűnik.
+(8)

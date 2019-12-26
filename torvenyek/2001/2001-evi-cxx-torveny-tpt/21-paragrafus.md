@@ -1,39 +1,37 @@
-21. § (1) Ha e törvény másként nem rendelkezik, értékpapír nyilvános forgalomba hozatala, illetve szabályozott piacra történő bevezetése vagy multilaterális kereskedési rendszerbe történő regisztrációja esetén a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését vagy az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy kibocsátási tájékoztatót (a továbbiakban: tájékoztató) és a Bizottság 809/2004/EK rendeletének 31. cikkében meghatározott hirdetményt (a továbbiakban: hirdetmény) köteles közzétenni.
+21. § (1) Ha e törvény, illetve az (EU) 2017/1129 rendelet másként nem rendelkezik, értékpapírra történő nyilvános ajánlattétel, illetve értékpapír szabályozott piacra történő bevezetése esetén a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy az (EU) 2017/1129 rendelet szerinti kibocsátási tájékoztatót (a továbbiakban: tájékoztató) köteles közzétenni. A tájékoztató közzétételéhez a Felügyelet – (EU) 2017/1129 rendelet szerinti – jóváhagyása szükséges.
 
-(1a) Tájékoztató és hirdetmény közzététele helyett a 3. számú melléklet szerinti tartalommal kell minimum tájékoztatót készíteni olyan értékpapír nyilvános forgalomba hozatala esetén, amelynek ajánlattételi ellenértéke tizenkét hónapon belül európai uniós szinten egymillió eurónál vagy annak megfelelő összegnél kisebb.
+(1a) Tájékoztató közzététele helyett a 3. számú melléklet szerinti tartalommal kell minimum tájékoztatót készíteni értékpapírra vonatkozó olyan nyilvános ajánlattétel esetén, amikor az értékpapír ajánlattételi ellenértéke tizenkét hónapon belül európai uniós szinten egymillió eurónál vagy annak megfelelő összegnél kisebb, és az értékpapírra vonatkozó nyilvános ajánlattétel nem feleltethető meg az (EU) 2017/1129 rendelet 1. cikk (4) bekezdése szerinti esetek egyikének sem. Jelentős új tényezők, lényeges hibák vagy lényeges pontatlanságok esetén a minimum tájékoztatóhoz indokolatlan késedelem nélkül kiegészítést kell fűzni.
 
 (1b) A kibocsátó, illetve az ajánlattevő az (1a) bekezdés szerinti minimum tájékoztatót a Felügyelet jóváhagyását követően észszerű időn belül elérhetővé teszi a kibocsátó, illetve az ajánlattevő honlapján.
 
-(2) Nem kell tájékoztatót és hirdetményt közzétenni:
+(1c) Az (EU) 2017/1129 rendelet
 
-a) tizenkét hónapnál rövidebb eredeti lejáratú pénzpiaci eszköz forgalomba hozatala esetén;
+a) 1. cikke (4) bekezdésének a)–e) és j) pontjában foglalt nyilvános ajánlattétel esetén a 16. §-ban,
 
-b) nyílt végű befektetési alapra kibocsátott befektetési jegy forgalomba hozatala esetén;
+b) 1. cikke (4) bekezdésében foglalt nyilvános ajánlattétel és 1. cikke (5) bekezdésének a)–h) pontjában foglalt szabályozott piacra történő bevezetés esetén a 17. § (1) bekezdésében
 
-c)
+foglalt szabályokat kell megfelelően alkalmazni.
 
-d) értékpapír multilaterális kereskedési rendszerbe történő regisztrációja esetén, ha
+(2)
 
-da) a regisztrálandó értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg az ötmillió eurót vagy annak megfelelő összeget, vagy
+(3)
 
-db) a regisztrálandó értékpapír-sorozat szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére be van vezetve;
+(4)
 
-e) a 22. §-ban meghatározott esetben.
+(5)
 
-(3) A kibocsátó a (2) bekezdésben meghatározott esetekben a forgalomba hozatali eljárás lezárását követő 15 napon belül bejelenti a forgalomba hozatalt a Felügyeletnek. A Felügyelet ellenőrizheti, hogy a forgalomba hozatal a (2) bekezdésben foglaltaknak megfelelt-e.
+(6) A kibocsátó, illetve az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy az értékpapír-sorozat regisztrációjának feltételeként a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységet végző piacműködtető vagy befektetési vállalkozás által meghatározott tartalmú és általa jóváhagyott információs dokumentumot készít és a Felügyelet által üzemeltetett információtárolási rendszeren és a Felügyelet által elfogadott nyelven tesz közzé. Nem kell információs dokumentumot közzétenni értékpapír multilaterális kereskedési rendszerbe történő regisztrációja esetén, ha a regisztrálandó értékpapírra vonatkozó nyilvános ajánlattételre tájékoztató vagy minimum tájékoztató közzétételével került sor.
 
-(4) Nem kell hirdetményt közzétenni, ha a nyilvános forgalomba hozatalra az Európai Unió másik tagállamának hatáskörrel rendelkező felügyeleti hatósága által engedélyezett tájékoztató vagy alaptájékoztató alapján kerül sor, és a tagállamban hirdetmény közzétételét nem követelik meg.
+(7) Az információs dokumentum a piacműködtető vagy a befektetési vállalkozás általi jóváhagyást követő tizenkét hónapig hatályos, amely időszak alatt lehet az értékpapírt multilaterális kereskedési rendszerbe regisztrálni.
 
-(5) A kibocsátó, az ajánlattevő, illetve az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy – ha az értékpapírt szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére nem vezették be – a regisztrációhoz tájékoztatót és hirdetményt köteles közzétenni akkor is, ha a multilaterális kereskedési rendszerbe regisztrált és regisztrálandó ugyanazon sorozatba tartozó értékpapír kibocsátási összértéke eléri vagy meghaladja az ötmillió eurót vagy az annak megfelelő összeget, és korábban a Felügyelet által engedélyezett tájékoztató és hirdetmény nem került közzétételre.
+(8) Ha a piacműködtető vagy a befektetési vállalkozás általi jóváhagyás és a multilaterális kereskedési rendszerben való kereskedés megkezdése között olyan lényeges tény vagy körülmény jut a piacműködtető vagy a befektetési vállalkozás tudomására, ami az információs dokumentum kiegészítését teszi szükségessé, a piacműködtető vagy a befektetési vállalkozás a multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó meghallgatása után elrendeli az információs dokumentum kiegészítését.
 
-(6) A (2) bekezdés d) pont da) alpontjában meghatározott esetben a kibocsátó, illetve az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kérő személy az értékpapír-sorozat regisztrációjának feltételeként a piacműködtető által meghatározott tartalmú és általa jóváhagyott információs dokumentumot készít és a Felügyelet által üzemeltetett információtárolási rendszeren és a Felügyelet által elfogadott nyelven tesz közzé.
+(9) A kibocsátó, az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó köteles haladéktalanul az információs dokumentum kiegészítését kezdeményezni, ha a piacműködtető vagy a befektetési vállalkozás általi jóváhagyás és a multilaterális kereskedési rendszerben való kereskedés megkezdése között olyan lényeges tény vagy körülmény jut a tudomására, amely az információs dokumentum kiegészítését indokolttá teszi.
 
-(7) Az információs dokumentum a piacműködtető általi jóváhagyást követő tizenkét hónapig hatályos. Az értékpapírt – a (8) és (9) bekezdésben foglaltak figyelembevételével – legkésőbb az információs dokumentum érvényességének időszaka alatt lehet multilaterális kereskedési rendszerbe regisztrálni.
+(10) Az információs dokumentum kiegészítéséhez a piacműködtető vagy a befektetési vállalkozás jóváhagyása szükséges.
 
-(8) Ha a piacműködtető általi jóváhagyás és a multilaterális kereskedési rendszerben való kereskedés megkezdése között olyan lényeges tény vagy körülmény jut a piacműködtető tudomására, ami az információs dokumentum kiegészítését teszi szükségessé, a piacműködtető a multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó meghallgatása után elrendeli az információs dokumentum kiegészítését.
+(11) Nem kell információs dokumentumot közzétenni értékpapír multilaterális kereskedési rendszerbe történő regisztrációjához az (EU) 2017/1129 rendelet 1. cikk (5) bekezdés a)–i) pontjában meghatározott esetekben, azzal, hogy az (EU) 2017/1129 rendeletben meghatározott szabályozott piac alatt e bekezdés alkalmazásakor multilaterális kereskedési rendszert kell érteni.
 
-(9) A kibocsátó, az ajánlattevő, az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó köteles haladéktalanul az információs dokumentum kiegészítését kezdeményezni, ha a piacműködtető általi jóváhagyás és a multilaterális kereskedési rendszerben való kereskedés megkezdése között olyan lényeges tény vagy körülmény jut a tudomására, amely az információs dokumentum kiegészítését indokolttá teszi.
+(12) Nem kell információs dokumentumot közzétenni az értékpapír multilaterális kereskedési rendszerbe történő regisztrációja esetén, ha a regisztrálandó értékpapír-sorozat szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére be van vezetve.
 
-(10) Az információs dokumentum kiegészítéséhez a piacműködtető jóváhagyása szükséges.
-
-(11) Nem kell információs dokumentumot közzétenni a részvény multilaterális kereskedési rendszerbe történő regisztrációjához, ha az azonos fajtájú, illetve azonos osztályba tartozó részvényeket ugyanabba a multilaterális kereskedési rendszerbe már korábban regisztrálták, és tizenkét hónapon belül a regisztrálandó részvények darabszáma nem haladja meg a korábban a multilaterális kereskedési rendszerbe regisztrált darabszám tíz százalékát.
+(13) Értékpapír szervezett kereskedési rendszerbe történő regisztrációja esetén a (6)–(12) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.

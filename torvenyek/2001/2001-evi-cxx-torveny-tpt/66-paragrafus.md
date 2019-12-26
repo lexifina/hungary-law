@@ -4,7 +4,7 @@
 
 (2) Ha a céltársaság részvényeinek bevezetése első alkalommal egyidejűleg több tagállamban is megtörtént, a céltársaság e szabályozott piacoknak és hatáskörrel rendelkező felügyeleti hatóságoknak a kereskedés első napján történő értesítésével határozza meg azt, hogy mely tagállam felügyeleti hatósága lesz a vételi ajánlat felügyeletére hatáskörrel rendelkező.
 
-(3) A céltársaság a (2) bekezdésben foglaltak szerint meghatározott, a vételi ajánlat felügyeletére hatáskörrel rendelkező felügyeleti hatóság megnevezését a 34. § (4) bekezdésében foglalt helyen haladéktalanul közzéteszi.
+(3) A céltársaság a (2) bekezdésben foglaltak szerint meghatározott, a vételi ajánlat felügyeletére hatáskörrel rendelkező felügyeleti hatóság megnevezését a 44. § (6) bekezdésében foglalt helyen haladéktalanul közzéteszi.
 
 (4) Ha a céltársaság vételi ajánlatának felügyeletét a Felügyelet látja el, és a céltársaság székhelye nem Magyarországon, hanem más tagállamban van, akkor
 

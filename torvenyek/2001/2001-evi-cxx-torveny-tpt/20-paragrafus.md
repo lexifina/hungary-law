@@ -1,11 +1,9 @@
 ## Az értékpapírok nyilvános forgalomba hozatala
 
-20. § (1) Ha az értékpapír forgalomba hozatala a zártkörű forgalomba hozatal feltételeinek nem felel meg, a nyilvános forgalomba hozatal szabályait kell alkalmazni.
+20. § (1) Értékpapír nyilvános forgalomba hozatala esetén az (EU) 2017/1129 rendelet szabályait kell alkalmazni.
 
-(2) Ha e törvény másként nem rendelkezik, a zártkörűen forgalomba hozott értékpapír nyilvános értékesítésre történő felajánlására, illetve szabályozott piacra történő bevezetésére vagy multilaterális kereskedési rendszerbe történő regisztrációjára az értékpapírok nyilvános forgalomba hozatalára vonatkozó szabályokat kell alkalmazni.
+(2) Zártkörűen működő részvénytársaság részvényére történő nyilvános ajánlattételhez, illetve ilyen részvény szabályozott piacra történő bevezetéséhez, multilaterális kereskedési rendszerbe vagy szervezett kereskedési rendszerbe történő regisztrációjához a létesítő okirat módosításáról szóló közgyűlési határozat szükséges.
 
-(3) Zártkörűen működő részvénytársaság részvényének nyilvános értékesítésre történő felajánlásához, illetve szabályozott piacra történő bevezetéséhez, vagy multilaterális kereskedési rendszerbe történő regisztrációjához a létesítő okirat módosításáról szóló közgyűlési határozat szükséges.
+(3) A zártkörűen forgalomba hozott értékpapír nyilvános ajánlattételét, illetve szabályozott piacra történő bevezetését követően nyilvánosan forgalomba hozott értékpapírnak minősül.
 
-(4) A zártkörűen forgalomba hozott értékpapír a nyilvános értékesítésre történő felajánlását, illetve a szabályozott piacra történő bevezetését vagy multilaterális kereskedési rendszerbe történő regisztrációját követően nyilvánosan forgalomba hozott értékpapírnak minősül.
-
-(5) A külföldön forgalomba hozott értékpapír belföldi nyilvános értékesítésre történő felajánlására, illetőleg szabályozott piacra történő bevezetésére az értékpapírok nyilvános forgalomba hozatalára vonatkozó rendelkezéseket kell alkalmazni, amely ezt követően nyilvánosan forgalomba hozott értékpapírnak minősül.
+(4) A 15. § (1) bekezdésétől eltérően értékpapírnak multilaterális kereskedési rendszerbe való bevezetése nyilvános forgalomba hozatalnak minősül, ha az értékpapírnak multilaterális kereskedési rendszerbe való bevezetése során az „értékpapírra vonatkozó nyilvános ajánlattétel” fogalmát kimerítő közlést is kiadnak.

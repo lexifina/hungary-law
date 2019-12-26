@@ -10,4 +10,4 @@ c) aki – a 357. § (3a) bekezdésében foglaltak figyelembevételével – iga
 
 d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
 
-(2) A pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személynek az választható meg, aki megfelel az (1) bekezdésben meghatározott feltételeknek.
+(2)

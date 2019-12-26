@@ -4,7 +4,7 @@
 
 ## Központi értéktári tevékenység
 
-334. § (1) Központi értéktár a központi értéktári tevékenység végzésére a 909/2014/EU rendeletben meghatározott feltételekkel jogosult.
+334. § (1) Központi értéktár a központi értéktári tevékenység végzésére a 909/2014/EU rendeletben meghatározott feltételekkel jogosult, és az Európai Unió közvetlenül alkalmazandó jogi aktusa által előírt rendelkezés alapján nyújthat – a 335. §-ban foglaltakon túl – más jogi személyek részére szolgáltatást.
 
 (2) Központi értéktári tevékenység végzéséhez szükséges engedélyt a Felügyelet adja ki, módosítja és vonja vissza a 909/2014/EU rendeletben foglalt követelményeknek és e törvény rendelkezéseinek megfelelően.
 

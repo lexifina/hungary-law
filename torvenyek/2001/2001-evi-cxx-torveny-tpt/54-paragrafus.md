@@ -1,6 +1,6 @@
 ## Rendszeres tájékoztatás
 
-54. § (1) A nyilvánosan forgalomba hozott értékpapír kibocsátója a nyilvánosságot rendszeresen tájékoztatja vagyoni, jövedelmi helyzetének, működésének főbb adatairól. A kibocsátó a közzététellel egyidejűleg köteles a Felügyeletet tájékoztatni és gondoskodik arról, hogy az egyes tájékoztatások legalább tíz évig nyilvánosan hozzáférhetőek maradjanak.
+54. § (1) A szabályozott piacra bevezetett értékpapír kibocsátója a nyilvánosságot rendszeresen tájékoztatja vagyoni, jövedelmi helyzetének, működésének főbb adatairól. A kibocsátó a közzététellel egyidejűleg köteles a Felügyeletet tájékoztatni és gondoskodik arról, hogy az egyes tájékoztatások legalább tíz évig nyilvánosan hozzáférhetőek maradjanak.
 
 (2) A kibocsátó a rendszeres tájékoztatási kötelezettségét
 
@@ -14,7 +14,7 @@ formájában teljesíti.
 
 (3) Nem köteles éves és féléves jelentést készíteni a helyi önkormányzat, továbbá azon kibocsátó, amely kizárólag olyan, szabályozott piacra bevezetett hitelviszonyt megtestesítő értékpapírt bocsát ki, amelynek névértéke legalább százezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg.
 
-(3a) Nem köteles éves és féléves jelentést készíteni az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat nyilvánosan forgalomba hozó kibocsátó, amely értékpapírjainak névértéke legalább ötvenezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg, amennyiben az értékpapírral szabályozott piacon kereskednek és a bevezetésre 2010. december 31. előtt került sor.
+(3a) Nem köteles éves és féléves jelentést készíteni az olyan, kizárólag hitelviszonyt megtestesítő értékpapírokat szabályozott piacra bevezető kibocsátó, amely értékpapírjainak névértéke legalább ötvenezer euró, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeg, amennyiben az értékpapírral szabályozott piacon kereskednek és a bevezetésre 2010. december 31. előtt került sor.
 
 (4) A kibocsátónak az egyes pénzügyi évek végét követő legkésőbb négy hónapon belül közzé kell tennie az éves jelentését.
 
@@ -22,7 +22,7 @@ formájában teljesíti.
 
 (6) Nem köteles féléves jelentést készíteni
 
-a) az a hitelintézet, amelynek részvényeit nem vezették be a szabályozott piacra, és amely folyamatosan és ismétlődő módon csak hitelviszonyt megtestesítő értékpapírokat bocsátott ki, azzal a feltétellel, hogy az ilyen hitelviszonyt megtestesítő értékpapírok össznévértéke nem éri el a százmillió eurót, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeget, és a nyilvános forgalomba hozatalhoz tájékoztatót nem készített,
+a) az a hitelintézet, amelynek részvényeit nem vezették be a szabályozott piacra, és amely folyamatosan és ismétlődő módon csak hitelviszonyt megtestesítő értékpapírokat bocsátott ki, azzal a feltétellel, hogy az ilyen hitelviszonyt megtestesítő értékpapírok össznévértéke nem éri el a százmillió eurót, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összeget, és nem készített az (EU) 2017/1129 rendelet szerinti tájékoztatót,
 
 b) az a kibocsátó, amely 2005. július 1. napján már létezett, és amely kizárólag a székhely szerinti tagállam által feltétel nélkül és visszavonhatatlanul garantált, hitelviszonyt megtestesítő értékpapírokat bocsát ki.
 

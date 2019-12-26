@@ -4,8 +4,18 @@
 
 13. § (1) E fejezet rendelkezéseinek alkalmazása során:
 
-a) a tagsági jogokat megtestesítő értékpapír: a részvény, az egyéb, gazdasági társaságban való részesedést megtestesítő értékpapír, valamint bármely olyan értékpapír, amely jogot ad részvény vagy egyéb, gazdasági társaságban való részesedést megtestesítő értékpapír megszerzésére az értékpapír átváltása, vagy a benne megtestesített jog gyakorlása által, feltéve, hogy az értékpapírt a részvény vagy az egyéb, gazdasági társaságban való részesedést megtestesítő értékpapír kibocsátója, vagy vele azonos csoportba tartozó személy bocsátotta ki;
+a) értékpapír: az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/1129 rendelet] 2. cikk a) pontjában meghatározott fogalom,
 
-b) a hitelviszonyt megtestesítő értékpapírra vonatkozó szabályokat kell alkalmazni minden egyéb, az a) pontba nem tartozó értékpapír esetében.
+b) tagsági jogokat megtestesítő értékpapír: az (EU) 2017/1129 rendelet 2. cikk b) pontjában meghatározott fogalom,
 
-(2) E fejezet, valamint az 52/A. § rendelkezéseit – a 44–46. §-ban foglalt rendelkezések kivételével – a Bizottság 809/2004/EK rendeletével együtt kell alkalmazni.
+c) hitelviszonyt megtestesítő értékpapír: az (EU) 2017/1129 rendelet 2. cikk c) pontjában meghatározott fogalom,
+
+d) kibocsátó: az (EU) 2017/1129 rendelet 2. cikk h) pontjában meghatározott fogalom.
+
+(2) E fejezet rendelkezéseit
+
+a) az (EU) 2017/1129 rendelettel, valamint
+
+b) az (EU) 2017/1129 európai parlamenti és tanácsi rendeletnek az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztató formátuma, tartalma, ellenőrzése és jóváhagyása tekintetében történő kiegészítéséről, valamint a 809/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, a Bizottság (EU) 2019. március 14-i 2019/980 felhatalmazáson alapuló rendeletével
+
+együtt kell alkalmazni.

@@ -1,7 +1,3 @@
-15. § Hitelviszonyt megtestesítő értékpapír zártkörű forgalomba hozatala esetén a Bszt. 5. § (1) bekezdés f) vagy g) pontjában meghatározott szolgáltatás végzésére vonatkozó engedéllyel rendelkező befektetési vállalkozás, hitelintézet (e fejezet alkalmazásában a továbbiakban: befektetési szolgáltató) igénybevétele kötelező, kivéve, ha
+15. § (1) Értékpapír multilaterális kereskedési rendszerbe történő regisztrációja, illetve a vételi és eladási árak közzététele önmagában nem tekintendő értékpapírra vonatkozó nyilvános-ajánlattételnek, így nem minősül nyilvános forgalomba hozatalnak.
 
-a) hitelintézet, illetve befektetési vállalkozás saját kibocsátású értékpapírt hoz forgalomba;
-
-b) a külföldi hitelintézet, illetve a külföldi befektetési vállalkozás saját kibocsátású értékpapírját fióktelepe útján hozza forgalomba;
-
-c) a befektetési alapkezelő az általa kezelt befektetési alap befektetési jegyét hozza forgalomba.
+(2) Értékpapír multilaterális kereskedési rendszerbe történő – nyilvános forgalomba hozatalnak nem minősülő – regisztrációja esetén a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységet végző piacműködtető vagy befektetési vállalkozás meghatározza a kibocsátó által az értékpapír multilaterális kereskedési rendszerbe való első bevezetésekor benyújtandó információs dokumentum tartalmát és vizsgálatának szabályait.

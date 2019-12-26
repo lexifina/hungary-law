@@ -60,7 +60,7 @@ bb) az ellenőrzött vállalkozásaként működő kollektív befektetési form�
 
 c) a részvényes és az ellenőrzött vállalkozásai írásbeli eljárásrendet fogadnak el és tartanak be a szavazati jog gyakorlásával kapcsolatos egymás közötti információáramlás megakadályozása érdekében.
 
-(9) Az (1) bekezdés szerinti tájékoztatási kötelezettség terheli azt a személyt is, aki közvetlenül vagy közvetve olyan pénzügyi eszköznek van a birtokában, amely lejáratkor a birtokos számára – szerződés alapján – feltétel nélkül, illetve a birtokos döntésétől függően a kibocsátó szavazati jogot biztosító részvényének és szavazati jogának megszerzését teszi lehetővé. A tájékoztatási kötelezettség teljesítése során különbséget kell tenni a fizikai leszállítással teljesíthető és a készpénzben kiegyenlíthető pénzügyi eszközök között.
+(9) Az (1) bekezdés szerinti tájékoztatási kötelezettség terheli azt a személyt is, aki közvetlenül vagy közvetve olyan pénzügyi eszköznek van a birtokában, amely lejáratkor a birtokos számára – szerződés alapján – feltétel nélkül, illetve a birtokos döntésétől függően a kibocsátó szavazati jogot biztosító részvényének és szavazati jogának megszerzését teszi lehetővé azzal, hogy a tájékoztatást a (9a) bekezdés szerinti bontásban kell megjeleníteni. A tájékoztatási kötelezettség teljesítése során különbséget kell tenni a fizikai leszállítással teljesíthető és a készpénzben kiegyenlíthető pénzügyi eszközök között.
 
 (9a) A (9) bekezdés alkalmazásában az alábbiak tekintendők pénzügyi eszköznek:
 

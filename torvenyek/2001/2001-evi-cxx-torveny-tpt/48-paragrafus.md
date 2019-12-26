@@ -4,4 +4,4 @@
 
 (3) Az allokációt megelőzően a forgalmazó köteles ellenőrizni az értékpapír megszerzésére vonatkozó nyilatkozatban megadott értékpapír-számlaszám valódiságát.
 
-(4) A forgalmazó, a kibocsátó a forgalomba hozatali eljárás lezárását követő öt napon belül a Felügyeletnek bejelenti annak eredményét, valamint azt a 34. § (4) bekezdésében meghatározott helyen nyilvánosságra hozza. A tájékoztatót a forgalomba hozatali eljárás eredményével nem szükséges kiegészíteni.
+(4) A forgalmazó, a kibocsátó a forgalomba hozatali eljárás lezárását követő öt napon belül a Felügyeletnek bejelenti annak eredményét, valamint azt a 44. § (6) bekezdésében meghatározott helyen nyilvánosságra hozza. A tájékoztatót a forgalomba hozatali eljárás eredményével nem szükséges kiegészíteni.

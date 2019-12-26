@@ -32,7 +32,7 @@
 
 15. a forgalomba hozatal adatai;
 
-16. a bennfentes személyek természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
+16. az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyek és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyek természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 
 17. a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 
@@ -46,10 +46,4 @@
 
 22. a KCGE tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedésének mértéke.
 
-(2) A Felügyelet nyilvántartásba veszi:
-
-a) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozással szoros kapcsolatban álló személy adatait;
-
-b) az összevont alapú, illetőleg a kiegészítő felügyelet alá tartozó befektetési vállalkozás anyavállalatával szoros kapcsolatban álló személy adatait;
-
-c) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a befektetési vállalkozás felügyelete érdekében szükségesek.
+(2)

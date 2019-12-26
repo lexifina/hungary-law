@@ -1,12 +1,12 @@
-58. § (1) Ha az értékpapírt csak Magyarországon hozták nyilvánosan forgalomba, a szabályozott információkat a Felügyelet által elfogadott nyelven kell közzétenni.
+58. § (1) Ha az értékpapírt csak Magyarországon székhellyel rendelkező szabályozott piacra vezették be, a szabályozott információkat a Felügyelet által elfogadott nyelven kell közzétenni.
 
-(2) Ha az értékpapír nyilvános forgalomba hozatalára Magyarországon, mint székhely szerinti tagállamban, illetve egy vagy több fogadó tagállamban került sor, akkor a szabályozott információkat:
+(2) Ha az értékpapír szabályozott piaci bevezetésére Magyarországon, mint székhely szerinti tagállamban, illetve egy vagy több fogadó tagállamban került sor, akkor a szabályozott információkat:
 
 a) a Felügyelet által elfogadott nyelven, és
 
 b) a kibocsátó választásától függően vagy a fogadó tagállamok felügyeleti hatósága által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni.
 
-(3) Ha az értékpapírokat egy vagy több fogadó tagállamban hozták nyilvánosan forgalomba, azonban Magyarországon nem, a szabályozott információkat a Felügyelet által elfogadott nyelven, továbbá a kibocsátó választásától függően vagy a fogadó tagállamok felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni.
+(3) Ha az értékpapírokat egy vagy több fogadó tagállamban vezették be szabályozott piacra, azonban Magyarországon nem, a szabályozott információkat a Felügyelet által elfogadott nyelven, továbbá a kibocsátó választásától függően vagy a fogadó tagállamok felügyeleti hatóságai által elfogadott nyelven, vagy egy, a nemzetközi pénzügyi piacokon általában használt nyelven kell közzétenni.
 
 (4) A 61. § szerinti információ egy, a nemzetközi pénzügyi piacokon általában használt nyelven is bejelenthető, illetve közzétehető.
 

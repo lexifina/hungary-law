@@ -1,1 +1,1 @@
-30. § A 29. § (1) bekezdésében meghatározott személyt a tájékoztató, illetőleg a hirdetmény közzétételétől számított öt évig terheli a 29. §-ban meghatározott felelősség. E felelősség érvényesen nem zárható ki és nem korlátozható.
+30. §

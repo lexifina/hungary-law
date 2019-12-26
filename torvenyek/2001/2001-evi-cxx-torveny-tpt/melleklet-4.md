@@ -14,7 +14,7 @@ b) A kibocsátó
 
 2. székhelye,
 
-3. a hirdetmények közzétételi helyei,
+3.
 
 4. a forgalomba hozandó értékpapír típusa és fajtája,
 
@@ -132,7 +132,7 @@ f) Az értékpapír-sorozatok tőzsdei bevezetése esetén a tájékoztató tart
 
 8. a bevezetési kérelem időpontját megelőzően benyújtott utolsó kibocsátói gyorsjelentéshez készített (utólagosan csatolt) könyvvizsgálói jelentést;
 
-9. részvény-sorozat bevezetésére vonatkozó engedélyeztetési eljárás esetén a kérelem benyújtása időpontjában a bevezetni kívánt részvény-sorozat öt százalék feletti tulajdonosainak megnevezését és szavazati arányaik megoszlását;
+9.
 
 10. minden egyéb olyan adatot és nyilatkozatot, amelyet a bevezetési kérelem benyújtása időpontjában hatályos egyéb jogszabályok, illetve a Felügyelet által elfogadott tőzsdei szabályzatok előírnak.
 

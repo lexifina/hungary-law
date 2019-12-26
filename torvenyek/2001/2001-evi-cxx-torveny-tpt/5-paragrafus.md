@@ -4,7 +4,7 @@
 
 2. ajánlattevő:
 
-a) e törvény IV., LIII. és LVI. fejezetei alkalmazásában az a személy, aki/amely a korábban zárt körben forgalomba hozott értékpapírt nyilvános értékesítésre felajánlja,
+a) e törvény IV. és LVI. fejezetei alkalmazásában az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet 2. cikk i) pontjában meghatározott személy,
 
 b) e törvény VII. fejezete alkalmazásában az a személy, aki/amely a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozóan nyilvános vételi ajánlatot tesz,
 
@@ -242,13 +242,13 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 91a. a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete: a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete,
 
-92. minősített befektető: a Bszt. 48–51. §-a szerint szakmai ügyfélnek vagy elfogadható partnernek tekintett befektető;
+92.
 
-93.
+93. multilaterális kereskedési rendszer (MTF): a Bszt.-ben meghatározott fogalom,
 
-94. nyilvános értékesítésre történő felajánlás: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
+94. értékpapírra vonatkozó nyilvános ajánlattétel / nyilvános ajánlattétel: az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet 2. cikk d) pontjában meghatározott fogalom,
 
-95. nyilvános forgalomba hozatal: az értékpapír nem zártkörű forgalomba hozatala,
+95. nyilvános forgalomba hozatal: az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet szerint meghatározott értékpapírra vonatkozó nyilvános ajánlattétel és értékpapír szabályozott piacra történő bevezetése,
 
 96. nyilvános vételi ajánlat (vételi ajánlat): olyan, a céltársaság részvényeseihez szóló, a céltársaság részvényei vagy azok egy részének megszerzésére tett (nem a céltársaságtól származó) nyilvános felhívás, amelynek célja vagy eredménye a céltársaságban való befolyásszerzés, illetőleg a meglévő befolyás mértékének a növelése,
 
@@ -256,7 +256,7 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 98. nyitva szállítás: olyan átruházható értékpapírral kapcsolatos ügylet, amelynek során az értékpapír és az ellenérték szolgáltatása (átutalása) nem azonos időpontban történik,
 
-99. nyílt végű befektetési alap: a Kbftv. szerinti befektetési alap,
+99. nyílt végű befektetési alap: a Kbftv. szerint ilyenként meghatározott befektetési alap,
 
 100. összehangoltan eljáró személyek: olyan természetes személyek, jogi személyek vagy egyéb szervezetek, akik vagy amelyek a céltársaságban történő befolyásszerzésre, a céltársaság irányításának megszerzésére vagy vételi ajánlat meghiúsítására irányuló megállapodás alapján működnek együtt,
 
@@ -305,6 +305,8 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 116. szabályozott információ: a rendszeres és a rendkívüli tájékoztatás körébe tartozó, a befolyásszerzéssel kapcsolatos, továbbá a bennfentes információk,
 
 117. származtatott (derivatív) ügylet: olyan ügylet, amelynek értéke az alapjául szolgáló pénzügyi eszköz, deviza, áru vagy referenciaráta (alaptermék) értékétől függ és önálló kereskedés tárgyát képezi,
+
+117a. szervezett kereskedési rendszer (OTF): a Bszt.-ben meghatározott fogalom,
 
 118. szintetikus értékpapírosítás: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 10. pontjában meghatározott fogalom,
 

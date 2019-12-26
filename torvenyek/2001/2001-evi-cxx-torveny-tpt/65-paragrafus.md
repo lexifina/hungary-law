@@ -20,4 +20,4 @@ b) a tagállamok nemzeti bankjaiban
 
 történő befolyásszerzésre.
 
-(3) Ha e fejezet közzétételről, közzétételi kötelezettségről vagy a közzététel kezdeményezéséről rendelkezik, a közzététel helye a 34. § (4) bekezdésében meghatározott hely.
+(3) Ha e fejezet közzétételről, közzétételi kötelezettségről vagy a közzététel kezdeményezéséről rendelkezik, a közzététel helye a 44. § (6) bekezdésében meghatározott hely.
