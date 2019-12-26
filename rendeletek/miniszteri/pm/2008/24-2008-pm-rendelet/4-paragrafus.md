@@ -2,11 +2,7 @@
 
 4. § (1)[^6] A szabályozott információ korlátozástól mentes elérhetősége érdekében a kibocsátó a szabályozott információt egyidejűleg
 
-a) megküldi legalább egy
-
-aa)[^7] nyomtatott sajtó szerkesztőségének, amelynek sajtóterméke legalább huszonötezer példányszámban jelenik meg naponta vagy hetente, és amelyet Magyarországon és az Európai Unió azon tagállamaiban terjesztenek, ahol az értékpapír nyilvános forgalomba hozatalára, szabályozott piacra történő bevezetésére a kibocsátó döntése alapján került sor, vagy
-
-ab) a befektető számára hozzáférhető, honlappal rendelkező média szerkesztőségének,
+a)[^7] közzétételre megküldi legalább egy, a befektető számára hozzáférhető, honlappal rendelkező média szerkesztőségének,
 
 b) közzéteszi a honlapján, és
 
@@ -44,6 +40,6 @@ d) a szabályozott információra elrendelt embargóra vonatkozó részleteket.
 
 [^5]: A 3. § a 39/2015. (XII. 28.) NGM rendelet 1. §-ával megállapított szöveg.
 [^6]: A 4. § (1) bekezdése a 18/2012. (VII. 13.) NGM rendelet 1. §-ával megállapított szöveg.
-[^7]: A 4. § (1) bekezdés a) pont aa) alpontja a 21/2016. (VI. 29.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (1) bekezdés a) pontja 19/2019. (XII. 18.) PM rendelet 3. §-ával megállapított szöveg.
 [^8]: A 4. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^9]: A 4. § (5) bekezdés nyitó szövegrésze a 40/2013. (IX. 30.) NGM rendelet 9. § b) pontja szerint módosított szöveg.
