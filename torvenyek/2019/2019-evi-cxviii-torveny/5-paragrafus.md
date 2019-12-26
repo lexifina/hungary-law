@@ -1,0 +1,3 @@
+5. § Az Ltp. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A lakástakarékpénztár által felvett kölcsönök, illetve az általa kibocsátott hitelviszonyt megtestesítő értékpapírok, ide nem értve az értékpapír fedezete mellett kötött repóügyleteket (a továbbiakban együtt: felvett kölcsönök) állománya a 10. § (2) bekezdésében foglalt eset kivételével nem haladhatja meg a folyósított áthidaló kölcsöneinek állományát. A felvett kölcsönök állománya – beleértve a 10. § (2) bekezdésében foglalt esetet is – a kölcsönfelvételkor, illetve a hitelviszonyt megtestesítő értékpapír kibocsátásakor nem haladhatja meg a betétállomány 40%-át.”

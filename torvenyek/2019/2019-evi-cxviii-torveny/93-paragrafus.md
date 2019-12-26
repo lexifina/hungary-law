@@ -1,0 +1,3 @@
+93. § A Hpt. 74. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A jelzáloghitel közvetítői tevékenységet végző közvetítő figyelemmel kíséri azt, hogy a közvetítői alvállalkozója betartja-e a jelzáloghitel nyújtására vonatkozó előírásokat. A jelzáloghitel közvetítői tevékenységet végző közvetítő felelős annak ellenőrzéséért, hogy a közvetítői alvállalkozója és a közvetítői alvállalkozójával – e tevékenységi körében – munkaviszonyban, megbízási jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy megfelel az e személyekkel szemben fennálló szakmai követelményeknek.”

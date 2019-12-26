@@ -1,0 +1,5 @@
+26. § A Tpt. V. Fejezet címének helyébe a következő szöveg lép:
+
+„V. FEJEZET
+
+SZABÁLYOZOTT PIACRA BEVEZETETT ÉRTÉKPAPÍROKKAL KAPCSOLATOS TÁJÉKOZTATÁSI KÖTELEZETTSÉG”

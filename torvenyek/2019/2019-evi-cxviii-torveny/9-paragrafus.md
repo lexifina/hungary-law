@@ -1,0 +1,5 @@
+9. § Az Ltp. 23. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+„(3) Ha a lakás-előtakarékoskodó az állami támogatás iránti kérelmet nyújt be a lakástakarékpénztárhoz, a lakástakarékpénztár a természetes személy lakáselőtakarékoskodó vagy – amennyiben kedvezményezettet jelölnek meg – a kedvezményezett személyazonosító adatait, adóazonosító jelét, lakcímét, nem természetes személy nevét, adószámát és az épület címét, helyrajzi számát a jogosultság ellenőrzése céljából megküldi a kincstár részére. A támogatás folyósítása és összegének megállapítása, valamint a jogosultság ellenőrzése céljából a lakástakarékpénztár megküldi továbbá a kincstár részére a szerződés megkötésének időpontját, a megtakarítási év kezdetét, a betétszámlára az adott megtakarítási évben befizetett összeget, töredék megtakarítási év esetén annak végét és a szerződésben rögzített lakáskölcsön kamatát. A kincstár a lakástakarékpénztár által továbbított adatokról nyilvántartást vezet.
+
+(4) A kincstár a (3) bekezdés szerinti adatokat az állami támogatás felvételét követő 10 évig kezelheti a támogatásra való igényjogosultság ellenőrzése céljából.”
