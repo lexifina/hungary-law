@@ -8,4 +8,4 @@
 
 (5) Az áthidaló kölcsön adósa e kölcsönt a kiutalt szerződéses összegből a kiutalás napján egy összegben fizeti vissza azzal, hogy a továbbiakban a visszafizetéshez felhasznált lakáskölcsön módozat szerinti törlesztésére köteles.
 
-(6) A lakástakarékpénztár az áthidaló kölcsön lakáscélú felhasználásának igazolásaként olyan számlát, lakáscélú kölcsön törlesztéséről szóló igazolást, illetve adásvételi szerződés vagy a tulajdonjog visszterhes átruházására irányuló egyéb okirat alapján a vételár kifizetéséről szóló okiratot fogadhat el, amely a hitelkérelem benyújtásának napját követően keletkezett.
+(6) A lakástakarékpénztár az áthidaló kölcsön lakáscélú felhasználásának igazolásaként olyan számlát, lakáscélú kölcsön törlesztéséről szóló igazolást, illetve adásvételi szerződés vagy a tulajdonjog visszterhes átruházására irányuló egyéb okirat alapján a vételár kifizetéséről szóló okiratot fogadhat el, amely a hitelkérelem benyújtásának napján vagy azt követően keletkezett.

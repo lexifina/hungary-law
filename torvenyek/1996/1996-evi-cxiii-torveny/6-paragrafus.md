@@ -8,7 +8,7 @@ b) gyám, eseti gondnok, alapítvány, természetes személy, egyesület, egyhá
 
 c) a lakásszövetkezet épületenként a tulajdonában, vagy a tagjainak közös tulajdonában álló épületrészek felújításához és korszerűsítéséhez szükséges pénzügyi források biztosítása céljából,
 
-d) a társasház épületenként kétharmados közgyűlési határozattal a közös tulajdonukban álló épületrészek felújításához és korszerűsítéséhez szükséges pénzügyi források biztosítása céljából.
+d) a társasház épületenként a közös tulajdonukban álló épületrészek felújításához és korszerűsítéséhez szükséges pénzügyi források biztosítása céljából.
 
 [Az a)–d) pontban foglaltak a továbbiakban együtt: lakáselőtakarékoskodók.]
 

@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-113-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 1996-113-00-00.35 |
 | 2018-10-17 | 2018. évi LXIII. törvény | 1996-113-00-00.36 |
 | 2019-04-13 | 2019. évi XXVI. törvény | 1996-113-00-00.37 |
+| 2019-12-26 | 2019. évi CXVIII. törvény | 1996-113-00-00.38 |

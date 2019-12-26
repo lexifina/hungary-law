@@ -1,10 +1,14 @@
 7. § (1) A szerződés olyan betét- és hitelszerződés, amelyben a lakáselőtakarékoskodó arra kötelezi magát, hogy – a szerződés módozata szerint – a szerződéskötéskor egy összegben vagy a megtakarítási idő alatt előre meghatározott rendszerességgel egyenlő részletekben történő befizetésekkel meghatározott összeget a lakástakarékpénztárnál betétként leköt, illetve elhelyez, a lakástakarékpénztár pedig kötelezettséget vállal arra, hogy a szerződésben meghatározott feltételek teljesülése és a lakáselőtakarékoskodó, illetve a kedvezményezett hitelképessége esetén az üzletszabályzatban rögzített módszer szerint a szerződésben meghatározott módon kiszámított összegű lakáscélú kölcsönt (a továbbiakban: lakáskölcsön) nyújt a lakáselőtakarékoskodó, illetve a cselekvőképes kedvezményezett kérésére.
 
+(1a) Az (1) bekezdéstől eltérően a megtakarítást nem szükséges egyenlő részletekben teljesíteni olyan lakás-előtakarékossági szerződés esetén, amelyhez nem kapcsolódik állami támogatás.
+
 (2) A szerződés meghatározott összegre, a szerződéses összegre szól.
 
 (3) A szerződésben meghatározott betéti és hitelkamat mértékét, valamint a kezelési költség mértékét a szerződés időtartama alatt nem lehet módosítani.
 
 (4) A szerződés alapján lakástakarékpénztárnál elhelyezett betétből a lakáselőtakarékoskodó részösszeget nem vehet ki.
+
+(4a) Nem kell alkalmazni a (4) bekezdést olyan lakás-előtakarékossági szerződés esetén, amelyhez nem kapcsolódik állami támogatás. Ebben az esetben a betétből kivehető részösszeg mértékét a lakástakarékpénztár az általános szerződési feltételekben határozza meg.
 
 (5) Ha a lakástakarékpénztárnál elhelyezett betét egy részét a lakástakarékpénztár bírósági végrehajtási eljárás keretében a bírósági végrehajtó letéti számlájára utalta át, a lakástakarékpénztár megszünteti a szerződést oly módon, hogy a már jóváírt állami támogatást és kamatait átutalja a központi költségvetésnek, a fennmaradó megtakarítást pedig kamataival együtt visszafizeti a lakáselőtakarékoskodónak.
 

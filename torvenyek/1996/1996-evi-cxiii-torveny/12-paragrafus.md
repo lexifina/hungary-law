@@ -1,6 +1,6 @@
 ## A lakástakarékpénztár biztonságos működése
 
-12. § (1) A lakás-takarékpénztár a 7. §-ban meghatározott szerződés szerinti betétgyűjtésen és hitelnyújtáson, valamint áthidaló kölcsön nyújtásán kívül kizárólag a következő tevékenységeket végezheti:
+12. § (1) A lakás-takarékpénztár a 7. §-ban meghatározott szerződés szerinti betétgyűjtésen és hitelnyújtáson, valamint áthidaló kölcsön nyújtásán kívül üzletszerűen kizárólag a következő tevékenységeket végezheti:
 
 a) a lakás-takarékpénztár szavatoló tőkéjének összesen 10%-át meg nem haladó mértékig tulajdoni részesedést szerezhet a Hpt. szerinti járulékos vállalkozásokban,
 
@@ -16,6 +16,12 @@ ea) a Bszt. 5. § (1) bekezdés a)–c) és g) pontjában meghatározott befekte
 
 eb) a Bszt. 5. § (2) bekezdés a) és b) pontjában meghatározott kiegészítő szolgáltatást,
 
-ec) az ea) és eb) alpontban meghatározott szolgáltatások függő ügynökként történő közvetítését.
+ec) az ea) és eb) alpontban meghatározott szolgáltatások függő ügynökként történő közvetítését,
+
+f) vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását,
+
+g) bizalmi szolgáltatást,
+
+h) likviditáskezelési céllal legfeljebb 6 hónapra szóló repó- és fordított repóügyletek megkötését.
 
 (2) Az (1) bekezdés b) pontjában meghatározott hitelintézetben történő tulajdoni részesedés megszerzését az MNB akkor engedélyezi, ha a tulajdonszerzéssel érintett hitelintézet a rá vonatkozó jogszabályok szerint a lakáscélú betétgyűjtést és hitelnyújtást zárt rendszerben végzi, csak a betétet elhelyezők részére nyújt hitelt, és erről nyilatkozatot nyújt be az MNB részére.
