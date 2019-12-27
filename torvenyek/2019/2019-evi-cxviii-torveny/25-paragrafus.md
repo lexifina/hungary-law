@@ -1,3 +1,1 @@
-25. § A Tpt. 46. §-a helyébe a következő rendelkezés lép:
-
-„46. § Helyi önkormányzat, az Európai Unió tagállamának regionális vagy helyi önkormányzata által kibocsátott hitelviszonyt megtestesítő értékpapír, továbbá az Európai Unió tagállamának regionális vagy helyi önkormányzata által garantált értékpapír nyilvános forgalomba hozatalához, illetve szabályozott piacra történő bevezetéséhez – ha a forgalomba hozatalra, illetve a szabályozott piacra történő bevezetésre kizárólag Magyarországon kerül sor – a kibocsátónak a 4. számú mellékletben meghatározott tartalommal kell elkészíteni a tájékoztatót. A tájékoztatót a Felügyelet jóváhagyásával kell közzétenni a 44. § (6) bekezdésében meghatározott módon.”
+25. §

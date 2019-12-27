@@ -1,5 +1,1 @@
-17. § A Tpt. 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § (1) Értékpapír multilaterális kereskedési rendszerbe történő regisztrációja, illetve a vételi és eladási árak közzététele önmagában nem tekintendő értékpapírra vonatkozó nyilvános-ajánlattételnek, így nem minősül nyilvános forgalomba hozatalnak.
-
-(2) Értékpapír multilaterális kereskedési rendszerbe történő – nyilvános forgalomba hozatalnak nem minősülő – regisztrációja esetén a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységet végző piacműködtető vagy befektetési vállalkozás meghatározza a kibocsátó által az értékpapír multilaterális kereskedési rendszerbe való első bevezetésekor benyújtandó információs dokumentum tartalmát és vizsgálatának szabályait.”
+17. §

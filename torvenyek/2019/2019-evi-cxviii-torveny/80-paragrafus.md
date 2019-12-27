@@ -1,3 +1,1 @@
-80. § Az MNBtv. 53/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Azt követően, hogy a szankcióval sújtott személy értesítést kapott a 600/2014/EU rendelet, a 909/2014/EU rendelet, a Tpt., illetve a Bszt. megsértéséért kiszabott szankciót vagy intézkedést elrendelő határozatról, az MNB minden ilyen határozatot indokolatlan késedelem nélkül közzétesz hivatalos honlapján. A közzététel legalább a jogsértés típusára és jellegére, valamint a felelős személy kilétére vonatkozó információt tartalmazza. Ez a kötelezettség nem alkalmazandó a vizsgálati jellegű intézkedéseket kiszabó határozatokra.”
+80. §

@@ -1,5 +1,1 @@
-21. § A Tpt. 25. §-a helyébe a következő rendelkezés lép:
-
-„25. § (1) Semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha – az (EU) 2017/1129 rendelet 1. cikk (4) és (5) bekezdésében foglalt kivétellel – az értékpapírt a Felügyelet által jóváhagyott tájékoztató vagy minimum tájékoztató hiányában, illetve – a 23. § (1) bekezdésében meghatározott eset kivételével – befektetési szolgáltató igénybevétele nélkül hozták nyilvánosan forgalomba. Ugyancsak semmis az értékpapír jegyzése, illetve az adásvételére kötött szerződés, ha zártkörűen működő részvénytársaság részvénye a működési forma megváltoztatására vonatkozó közgyűlési határozat nélkül került nyilvános ajánlattételre, illetve kezdeményezték annak szabályozott piacra történő bevezetését.
-
-(2) Az (1) bekezdés szerinti esetben a befektetőknek okozott kárért a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy és a forgalmazó egyetemlegesen felel.”
+21. §

@@ -1,35 +1,35 @@
 48. § Hatályát veszti a Tpt.
 
-1. 2. § b) pontja,
+1.
 
-2. 5. § (1) bekezdés 92. pontja,
+2.
 
-3. 21. § (2)–(5) bekezdése,
+3.
 
-4. 22. §-a,
+4.
 
-5. 26–28.§-a,
+5.
 
-6. 30–32. §-a,
+6.
 
-7. 33. § (1) és (3) bekezdése,
+7.
 
-8. 34–43. §-a,
+8.
 
-9. 45. § (2) és (2a) bekezdése,
+9.
 
-10. 52. § (4) bekezdése,
+10.
 
-11. 217. § (6) bekezdésében a „devizában, valutában kifizetett” szövegrész,
+11.
 
 12.
 
-13. 356. § (2) bekezdése,
+13.
 
-14. 391. § (2) bekezdése,
+14.
 
-15. 394. § (1) bekezdés i)–k) pontja,
+15.
 
-16. 394. § (2) bekezdésében az „ , a 391. § (2) bekezdése” szövegrész,
+16.
 
-17. 395. § (8) bekezdése.
+17.
