@@ -1,8 +1,8 @@
-## 13. számú függelék[^558]
+## 13. számú függelék[^559]
 
 ## 14. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^559]
+## az Állategészségügyi Szabályzathoz[^560]
 
 ## 15. számú függelék
 
@@ -208,7 +208,7 @@ hatósági állatorvos
 
 16. számú függelék
 
-az Állategészségügyi Szabályzathoz[^560]
+az Állategészségügyi Szabályzathoz[^561]
 
 16. számú függelék az Állategészségügyi Szabályzathoz
 
@@ -620,35 +620,13 @@ Klórlúg 4,0%
 
 Nátrium-hidroxid 4,0%
 
-14.[^561]
+14.[^562]
 
 15. Brucellózis
 
 Nátrium-hidroxid 2,0%
 
-Kálium-hidroxid 2,0%
-
-Klórlúg 3,0%
-
-Formalin 3,0% (15 °C külső hőm. felett)
-
-16. Aujeszky-féle betegség Nátrium-hidroxid 3,0%
-
-Kálium-hidroxid 3,0%
-
-Klórlúg 3,0%
-
-Formalin 3,0% (15 °C külső hőm. felett)
-
-17. Lépfene
-
-Klórlúg 3,0%
-
-Formalin 3,0% (15 °C külső hőm. felett)
-
-18. Pontyfélék tavaszi viraemiája
-
-[^558]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
-[^559]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^560]: Az 1. számú melléklet 16. számú függeléke a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 44. pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 49. pontja szerint módosított szöveg.
-[^561]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^559]: Az 1. számú melléklet 13. számú függelékét az 53/2004. (IV. 24.) FVM rendelet 27. §-ának (2) bekezdése hatályon kívül helyezte.
+[^560]: Az 1. számú melléklet 14. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^561]: Az 1. számú melléklet 16. számú függeléke a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 44. pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 49. pontja szerint módosított szöveg.
+[^562]: Az 1. számú melléklet 18. számú függelékének II/2/14. pontját a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.

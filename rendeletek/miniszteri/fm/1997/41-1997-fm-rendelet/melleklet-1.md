@@ -1344,15 +1344,15 @@ Szarvasmarha-állományok védelme
 
 (4)[^181]
 
-198. § (1) A szarvasmarha-állományok gümőkórmentességét a hatósági állatorvos évente egyszer tuberkulinos bőrpróbával köteles ellenőrizni, a Szabályzatnak a gümőkór leküzdésére vonatkozó fejezetében előírtak szerint.
+198. § (1)[^182]
 
 (2) Új állattartó telepeket feltölteni és új állományokat kialakítani kizárólag gümőkórtól, brucellózistól és leukózistól mentes – harminc napon belül végzett szerológiai vizsgálat szerint egyedenként is negatív – szarvasmarhákkal szabad.
 
 (3) A lépfenével, rosszindulatú vizenyővel és a sercegő üszökkel fertőzött legelőre járó szarvasmarhákat évenként, a kihajtás előtt legalább két héttel e betegségek ellen védőoltásban kell részesíteni.
 
-## 199. §[^182] Ha az állattartó idegen állományból kíván szarvasmarhát vásárolni, az eladó köteles a vevőt írásban tájékoztatni az állománynak gümőkórtól, brucellózistól és leukózistól való mentességéről, vagy fertőzöttségéről, és az állományban más betegségek megelőzésére alkalmazott immunizálási programról, az elvégzett védőoltások adatairól. A megvásárolandó szarvasmarhákat meg kell vizsgálni tuberkulinos bőrpróbával, brucellózisra és leukózisra irányuló szerológiai próbával. Az e betegségekre irányuló vizsgálatokat minden olyan esetben el kell végezni, amikor az állatokat mentes állományba viszik be, vagy új állományt alakítanak ki. Indokolt esetben a járási hivatal további betegségtől való mentességet is előírhat. A karanténozási feltételek meghatározásakor az érintett járási hivatalok ezeket az adatokat egymással egyeztetni kötelesek. A vevő és az eladó állatállományát ellátó állatorvosoknak – a párhuzamos és a rövid időn belül megismételt vizsgálatok elkerülése érdekében – ezeket a vizsgálatokat (vérvételeket) az eladónál közösen kell elvégezniük.
+## 199. §[^183] Ha az állattartó idegen állományból kíván szarvasmarhát vásárolni, az eladó köteles a vevőt írásban tájékoztatni az állománynak gümőkórtól, brucellózistól és leukózistól való mentességéről, vagy fertőzöttségéről, és az állományban más betegségek megelőzésére alkalmazott immunizálási programról, az elvégzett védőoltások adatairól. A megvásárolandó szarvasmarhákat meg kell vizsgálni tuberkulinos bőrpróbával, brucellózisra és leukózisra irányuló szerológiai próbával. Az e betegségekre irányuló vizsgálatokat minden olyan esetben el kell végezni, amikor az állatokat mentes állományba viszik be, vagy új állományt alakítanak ki. Indokolt esetben a járási hivatal további betegségtől való mentességet is előírhat. A karanténozási feltételek meghatározásakor az érintett járási hivatalok ezeket az adatokat egymással egyeztetni kötelesek. A vevő és az eladó állatállományát ellátó állatorvosoknak – a párhuzamos és a rövid időn belül megismételt vizsgálatok elkerülése érdekében – ezeket a vizsgálatokat (vérvételeket) az eladónál közösen kell elvégezniük.
 
-## 200. §[^183] A nagylétszámú szarvasmarha-állományokból továbbtartásra kistermelőnek eladni, bértartásra kihelyezni csak gümőkórtól, brucellózistól és leukózistól mentes szarvasmarhákat szabad. A fogadás helye szerinti járási hivatal a kihelyezés feltételéül további betegségtől való mentességet is előírhat. A nagylétszámú szarvasmarha-állomány tulajdonosa a kihelyezett szarvasmarhákat csak a hizlalótelepére, azok szaporulatát pedig csak a járási hivatal által meghatározott feltételek mellett viheti be a saját állományába.
+## 200. §[^184] A nagylétszámú szarvasmarha-állományokból továbbtartásra kistermelőnek eladni, bértartásra kihelyezni csak gümőkórtól, brucellózistól és leukózistól mentes szarvasmarhákat szabad. A fogadás helye szerinti járási hivatal a kihelyezés feltételéül további betegségtől való mentességet is előírhat. A nagylétszámú szarvasmarha-állomány tulajdonosa a kihelyezett szarvasmarhákat csak a hizlalótelepére, azok szaporulatát pedig csak a járási hivatal által meghatározott feltételek mellett viheti be a saját állományába.
 
 ## 201. § A tenyésztő szervezet csak a minisztérium állategészségügyi engedélyével végezhet (pl. utódellenőrzésre) állatösszegyűjtést.
 
@@ -1362,9 +1362,9 @@ Szarvasmarha-állományok védelme
 
 Juhállományok védelme
 
-203. § (1)[^184] Új telepek feltöltésének céljából történő vásárlás esetén ellenőrizni kell a származási állomány B. ovistól való mentességét. A megvásárolandó állatokat B. ovisra szerológiai próbával egyedenként kell megvizsgálni. A telep állományába juhokat csak a 90. §-ban előírt karanténozás és az ezt követő kedvező eredményű állatorvosi vizsgálat után szabad bevinni. Indokolt esetben a karanténozási időszak alatt, megelőzési célból juhrühösség elleni kezelés is előírható.
+203. § (1)[^185] Új telepek feltöltésének céljából történő vásárlás esetén ellenőrizni kell a származási állomány B. ovistól való mentességét. A megvásárolandó állatokat B. ovisra szerológiai próbával egyedenként kell megvizsgálni. A telep állományába juhokat csak a 90. §-ban előírt karanténozás és az ezt követő kedvező eredményű állatorvosi vizsgálat után szabad bevinni. Indokolt esetben a karanténozási időszak alatt, megelőzési célból juhrühösség elleni kezelés is előírható.
 
-(2)[^185] A gyűjtőtelepre történő beszállítás állategészségügyi feltételeit a járási hivatal határozza meg. A gyűjtőtelepről juhokat továbbtartásra az illetékes járási hivatal engedélyével és feltételeivel szabad kiszállítani.
+(2)[^186] A gyűjtőtelepre történő beszállítás állategészségügyi feltételeit a járási hivatal határozza meg. A gyűjtőtelepről juhokat továbbtartásra az illetékes járási hivatal engedélyével és feltételeivel szabad kiszállítani.
 
 (3) A juhnyírók ruházatát és felszerelését mind a munka megkezdése előtt, mind befejezése után fertőtleníteni kell. A fertőtlenítést az állatorvos ellenőrzése mellett kell elvégezni, amelyről a juhnyírók igazolást kapnak. A juhnyírók ebet nem vihetnek magukkal.
 
@@ -1380,9 +1380,9 @@ Juhállományok védelme
 
 (2) A tárgyévben született bárányok gyógykezelése alól a hatósági állatorvos felmentést adhat.
 
-(3)[^186] A gyógykezelés módját a járási hivatal határozza meg, a gyógykezelést engedélyezi, és ellenőrzi ennek végrehajtását.
+(3)[^187] A gyógykezelés módját a járási hivatal határozza meg, a gyógykezelést engedélyezi, és ellenőrzi ennek végrehajtását.
 
-(4)[^187] A gyógykezelés szakszerűtlen végrehajtása esetén a járási hivatal előírhatja annak megismétlését.
+(4)[^188] A gyógykezelés szakszerűtlen végrehajtása esetén a járási hivatal előírhatja annak megismétlését.
 
 (5) A kislétszámú állattartó telepen elvégzett gyógykezelést a kezelő állatorvos igazolja.
 
@@ -1404,19 +1404,19 @@ Kecskeállományok védelme
 
 Sertésállományok védelme
 
-208. § (1)[^188] A járási hivatal köteles az illetékességi területén lévő nagylétszámú sertéstelepeken tartott sertéseket brucellózis, leptospirózis, Aujeszky-féle betegség szempontjából minősíteni. Az egyes minősítési kategóriákra előírt vizsgálatokat a nagylétszámú állatállományokat ellátó állatorvosok kötelesek megadott időre elvégezni vagy elvégeztetni a tulajdonos költségére.
+208. § (1)[^189] A járási hivatal köteles az illetékességi területén lévő nagylétszámú sertéstelepeken tartott sertéseket brucellózis, leptospirózis, Aujeszky-féle betegség szempontjából minősíteni. Az egyes minősítési kategóriákra előírt vizsgálatokat a nagylétszámú állatállományokat ellátó állatorvosok kötelesek megadott időre elvégezni vagy elvégeztetni a tulajdonos költségére.
 
-(2)[^189] A nagylétszámú sertésállományok tenyészanyagának utánpótlására való vásárlás esetén az eladó köteles a vevőt tájékoztatni a származási állomány brucellózistól, leptospirózistól, Aujeszky-féle betegségtől való mentességéről, továbbá a legalább két évre visszamenően kapott boncolási és húsvizsgálati eredmények alapján a sertéstífusztól való mentességéről. A megvásárolandó sertéseket egyidejűleg meg kell vizsgálni szerológiai próbával brucellózisra, leptospirózisra, Aujeszky-féle betegségre. A vevő és az eladó állatállományát ellátó állatorvosok – a párhuzamos és rövid időn belül megismételt vizsgálatok elkerülése érdekében – ezeket a vizsgálatokat az eladó állatállományában közösen is elvégezhetik.
+(2)[^190] A nagylétszámú sertésállományok tenyészanyagának utánpótlására való vásárlás esetén az eladó köteles a vevőt tájékoztatni a származási állomány brucellózistól, leptospirózistól, Aujeszky-féle betegségtől való mentességéről, továbbá a legalább két évre visszamenően kapott boncolási és húsvizsgálati eredmények alapján a sertéstífusztól való mentességéről. A megvásárolandó sertéseket egyidejűleg meg kell vizsgálni szerológiai próbával brucellózisra, leptospirózisra, Aujeszky-féle betegségre. A vevő és az eladó állatállományát ellátó állatorvosok – a párhuzamos és rövid időn belül megismételt vizsgálatok elkerülése érdekében – ezeket a vizsgálatokat az eladó állatállományában közösen is elvégezhetik.
 
-(3)[^190]
+(3)[^191]
 
-(4)[^191] Újonnan épített nagylétszámú sertéstelepet – a járási hivatal engedélyével – kizárólag brucellózistól, leptospirózistól, Aujeszky-féle betegségtől mentes tenyészállatokkal szabad feltölteni.
+(4)[^192] Újonnan épített nagylétszámú sertéstelepet – a járási hivatal engedélyével – kizárólag brucellózistól, leptospirózistól, Aujeszky-féle betegségtől mentes tenyészállatokkal szabad feltölteni.
 
-(5)[^192]
+(5)[^193]
 
-209. § (1)[^193] Azokra a közigazgatási területekre, ahol valamennyi nagylétszámú állattartó telep sertésállománya brucellózistól, leptospirózistól, Aujeszky-féle betegségtől egyaránt mentes (a továbbiakban: mentes állomány), csak mentes állományból szabad sertést bevinni.
+209. § (1)[^194] Azokra a közigazgatási területekre, ahol valamennyi nagylétszámú állattartó telep sertésállománya brucellózistól, leptospirózistól, Aujeszky-féle betegségtől egyaránt mentes (a továbbiakban: mentes állomány), csak mentes állományból szabad sertést bevinni.
 
-(2)[^194] Köztenyésztésre csak brucellózistól, leptospirózistól, Aujeszky-féle betegségtől mentes állományból származó, negatív egyedi szerológiai leletű fedező kanokat szabad kihelyezni.
+(2)[^195] Köztenyésztésre csak brucellózistól, leptospirózistól, Aujeszky-féle betegségtől mentes állományból származó, negatív egyedi szerológiai leletű fedező kanokat szabad kihelyezni.
 
 (3) A nagylétszámú állattartó telepek sertésállományainak járványvédelméről, a telepi zártság feltételeiről, a védekező (megelőző) fertőtlenítések tárgyi és anyagi feltételeinek meglétéről a tulajdonos köteles gondoskodni.
 
@@ -1426,29 +1426,29 @@ Sertésállományok védelme
 
 A nyúlállományok védelme
 
-211. § (1)[^195] Mixomatózis szempontjából veszélyeztetett területen és időszakban a nyulakat mixomatózis ellen az állattartók költségére vakcinázni kell. A veszélyeztetett területet a járási hivatal határozza meg.
+211. § (1)[^196] Mixomatózis szempontjából veszélyeztetett területen és időszakban a nyulakat mixomatózis ellen az állattartók költségére vakcinázni kell. A veszélyeztetett területet a járási hivatal határozza meg.
 
-(2)[^196] A tenyésznyulaknak a termelőhöz történő kihelyezésével foglalkozó gazdálkodó szervezetek kötelesek a nyúlkihelyezési tervüket állategészségügyi szempontból a járási hivatallal egyeztetni.
+(2)[^197] A tenyésznyulaknak a termelőhöz történő kihelyezésével foglalkozó gazdálkodó szervezetek kötelesek a nyúlkihelyezési tervüket állategészségügyi szempontból a járási hivatallal egyeztetni.
 
-(3)[^197] A járási hivatal által meghatározott állományokból nyulat továbbtartásra eladni vagy kihelyezni csak a nyulak vérzéses betegsége, mixomatózis, pasztörellózis, sztafilokokkózis, rühösség klinikai tüneteitől mentes nyúlállományból szabad. Új kihelyezés vagy értékesítés a klinikai tünetmentessé válás után – nyulak vérzéses betegsége esetében hatvan nap, mixomatózis, pasztörellózis, sztafilokokkózis és rühösség esetében harminc nap múlva – lehetséges.
+(3)[^198] A járási hivatal által meghatározott állományokból nyulat továbbtartásra eladni vagy kihelyezni csak a nyulak vérzéses betegsége, mixomatózis, pasztörellózis, sztafilokokkózis, rühösség klinikai tüneteitől mentes nyúlállományból szabad. Új kihelyezés vagy értékesítés a klinikai tünetmentessé válás után – nyulak vérzéses betegsége esetében hatvan nap, mixomatózis, pasztörellózis, sztafilokokkózis és rühösség esetében harminc nap múlva – lehetséges.
 
 A húsevők védelme
 
-212. §[^198]
+212. §[^199]
 
-213. §[^199]
+213. §[^200]
 
-214. §[^200]
+214. §[^201]
 
-215. §[^201]
+215. §[^202]
 
-216. §[^202]
+216. §[^203]
 
 A vadon élő, a vadaskerti
 
 és az állatkerti állatok védelme
 
-217. § (1)–(4)[^203]
+217. § (1)–(4)[^204]
 
 (5) A vadászatra jogosultak a veszettség megelőzésére a rókákat vadászattal gyéríteni kötelesek.
 
@@ -1474,7 +1474,7 @@ a fácán-, a fogoly- és a fürjállományok védelme
 
 219. § (1) Az állattartók tulajdonában lévő, baromfipestis iránt fogékony állományok kötelező jellegű védőoltását a minisztérium határozza meg, a baromfipestisről szóló fejezetben leírtak szerint.
 
-(2)[^204] A baromfipestis ellen vakcinázott állományok ellenanyagszintjének meghatározására a járási hivatal vérvizsgálatot rendel el.
+(2)[^205] A baromfipestis ellen vakcinázott állományok ellenanyagszintjének meghatározására a járási hivatal vérvizsgálatot rendel el.
 
 220. § (1) Az állattartó a tenyésztojás-termelő tyúk-, gyöngytyúk-, pulyka- vagy fácántelepén az állatorvos bevonásával köteles megszervezni a baromfitífusz felderítésére irányuló vérvizsgálatot.
 
@@ -1496,7 +1496,7 @@ b) ha az a) pontban írt feltételek nem állnak fenn, a baromfi-törzstenyészt
 
 c) ha a hibridbaromfi-szülőpárokat tartó és a keltetőtojás-termelő telepekről származó tenyésztojás baromfitífusztól mentes állománytól származik, vagy a tenyésztésbe vétel előtt elvégzett két vérvizsgálat során a pozitív reakciót adó egyedek száma együttvéve nem haladta meg az egy légtérben tartott állatok egy százalékát, és a pozitív állatokat azonnal eltávolították.
 
-(8)[^205] Baromfitífusz-mentesség esetében a 27. számú függelék szerinti állatorvosi igazolást négy példányban kell kiállítani. A tőpéldány a hatósági állatorvosnál marad, az igazolás egy példányát – szolgálati úton – a járási hivatalnak kell megküldeni, két példányt az állattartónak kell átadni. Egy példányt ebből helyben kell gyűjteni, és egy példányt a tojásszállítmánnyal együtt a keltetőnek vagy a forgalmazónak kell megküldeni.
+(8)[^206] Baromfitífusz-mentesség esetében a 27. számú függelék szerinti állatorvosi igazolást négy példányban kell kiállítani. A tőpéldány a hatósági állatorvosnál marad, az igazolás egy példányát – szolgálati úton – a járási hivatalnak kell megküldeni, két példányt az állattartónak kell átadni. Egy példányt ebből helyben kell gyűjteni, és egy példányt a tojásszállítmánnyal együtt a keltetőnek vagy a forgalmazónak kell megküldeni.
 
 (9) Baromfiállományból származó tojásokat gépi keltetésre felhasználni vagy forgalomba hozni csak baromfitífusz-mentesség igazolás birtokában szabad.
 
@@ -1516,127 +1516,127 @@ c) ha a hibridbaromfi-szülőpárokat tartó és a keltetőtojás-termelő telep
 
 ## 222. § Kotlóst csak abban az esetben szabad fácántojás keltetésére, fácáncsibe nevelésére használni, ha baromfitífuszra és orsóférgességre nézve előzetesen megvizsgálták és negatívnak találták, baromfipestis ellen immunizálták, a származási állomány légcsőférgességtől és fertőző gége-légcső-gyulladástól mentes, és nem esett át baromfikolerás megbetegedésen.
 
-223–225. §[^206]
+223–225. §[^207]
 
 A méhállományok védelme
 
-226. §[^207]
+226. §[^208]
 
-227. §[^208]
+227. §[^209]
 
-228. §[^209]
+228. §[^210]
 
-229. §[^210]
+229. §[^211]
 
-230. §[^211]
+230. §[^212]
 
-231. §[^212]
+231. §[^213]
 
-232. §[^213]
+232. §[^214]
 
 II. Fejezet
 
 BEJELENTÉSI KÖTELEZETTSÉG ALÁ TARTOZÓ ÁLLATBETEGSÉGEK LEKÜZDÉSÉNEK RÉSZLETES SZABÁLYAI
 
-233. §[^214]
+233. §[^215]
 
-234. §[^215]
+234. §[^216]
 
-235. §[^216]
+235. §[^217]
 
-236. §[^217]
+236. §[^218]
 
-237. §[^218]
+237. §[^219]
 
-238. §[^219]
+238. §[^220]
 
-239. §[^220]
+239. §[^221]
 
-240. §[^221]
+240. §[^222]
 
-241. §[^222]
+241. §[^223]
 
-242. §[^223]
+242. §[^224]
 
-243. §[^224]
+243. §[^225]
 
-244. §[^225]
+244. §[^226]
 
-245. §[^226]
+245. §[^227]
 
-246. §[^227]
+246. §[^228]
 
-247. §[^228]
+247. §[^229]
 
-248. §[^229]
+248. §[^230]
 
-249. §[^230]
+249. §[^231]
 
-250. §[^231]
+250. §[^232]
 
-251. §[^232]
+251. §[^233]
 
-252. §[^233]
+252. §[^234]
 
-253. §[^234]
+253. §[^235]
 
-254. §[^235]
+254. §[^236]
 
-255. §[^236]
+255. §[^237]
 
-256. §[^237]
+256. §[^238]
 
-257. §[^238]
+257. §[^239]
 
-258. §[^239]
+258. §[^240]
 
-259. §[^240]
+259. §[^241]
 
-260. §[^241]
+260. §[^242]
 
-261. §[^242]
+261. §[^243]
 
-262. §[^243]
+262. §[^244]
 
-263. §[^244]
+263. §[^245]
 
 SERTÉSEK HÓLYAGOS BETEGSÉGE (SVD)
 
-264. §[^245]
+264. §[^246]
 
-265. §[^246]
+265. §[^247]
 
-266. §[^247]
+266. §[^248]
 
-267. §[^248]
+267. §[^249]
 
-268. §[^249]
+268. §[^250]
 
-269. §[^250]
+269. §[^251]
 
-270. §[^251]
+270. §[^252]
 
-271. §[^252]
+271. §[^253]
 
-272. §[^253]
+272. §[^254]
 
-273. §[^254]
+273. §[^255]
 
-274. §[^255]
+274. §[^256]
 
-275. §[^256]
+275. §[^257]
 
-276. §[^257]
+276. §[^258]
 
-277. §[^258]
+277. §[^259]
 
-278. §[^259]
+278. §[^260]
 
-279. §[^260]
+279. §[^261]
 
-280. §[^261]
+280. §[^262]
 
-281. §[^262]
+281. §[^263]
 
 KELETI MARHAVÉSZ
 
@@ -1668,29 +1668,29 @@ c) a kirendelt polgárőrökkel és segéderőkkel feladatukat ismertetni, munk�
 
 (2) A betegség hatóságilag csak a minisztérium felülvizsgálata után állapítható meg.
 
-A járási hivatal feladatai[^263]
+A járási hivatal feladatai[^264]
 
-## 285. §[^264] A járási hivatal a 109. §-ban foglaltakon felül köteles
+## 285. §[^265] A járási hivatal a 109. §-ban foglaltakon felül köteles
 
-a)[^265] a keleti marhavész gyanújáról a megyei kormányhivatalt haladéktalanul értesíteni;
+a)[^266] a keleti marhavész gyanújáról a megyei kormányhivatalt haladéktalanul értesíteni;
 
 b) a helyszínre kiszállni, a hatósági állatorvos intézkedéseit felülvizsgálni, községi zárlatot elrendelni;
 
 c) szükség esetén a betegségre gyanús állat diagnosztikai leölését elrendelni, a betegség hatósági megállapítása után, a kapott utasításoknak megfelelően, a fogékony állomány leöletésére intézkedést tenni;
 
-d)[^266] a megyei kormányhivatal rendelkezésének megfelelően gondoskodni a betegség leküzdéséhez szükséges kellő számú állatorvos kirendeléséről, a szükséges eszközökről és felszerelésekről;
+d)[^267] a megyei kormányhivatal rendelkezésének megfelelően gondoskodni a betegség leküzdéséhez szükséges kellő számú állatorvos kirendeléséről, a szükséges eszközökről és felszerelésekről;
 
 e) a betegség eredetére és elterjedésére vonatkozó járványügyi felderítő vizsgálatot megindítani;
 
 f) a betegség felszámolásában közreműködő állatorvosok munkáját szervezni és irányítani.
 
-A megyei kormányhivatal feladatai[^267]
+A megyei kormányhivatal feladatai[^268]
 
-286. § (1)[^268] A betegségnek vagy gyanújának megállapítása esetén a megyei kormányhivatal köteles a 110. §-ban előírtakon felül:
+286. § (1)[^269] A betegségnek vagy gyanújának megállapítása esetén a megyei kormányhivatal köteles a 110. §-ban előírtakon felül:
 
 a) a minisztériumnak haladéktalanul jelentést tenni;
 
-b)[^269] a járási hivatal útján gondoskodni a betegség leküzdéséhez, illetve kiterjedtebb vizsgálatok elvégzéséhez kellő számú állatorvos kirendeléséről;
+b)[^270] a járási hivatal útján gondoskodni a betegség leküzdéséhez, illetve kiterjedtebb vizsgálatok elvégzéséhez kellő számú állatorvos kirendeléséről;
 
 c) a betegség eredetére és elterjedésére vonatkozó vizsgálatot irányítani, a védőkörzet elrendelésére javaslatot tennni a minisztériumnak, illetve a kapott utasítások alapján védőkörzet kialakítására intézkedni;
 
@@ -1700,7 +1700,7 @@ e) a fertőző anyag eredetének és elhurcolásának felderítésére irányul�
 
 f) a beteg, betegségre és fertőzöttségre gyanús állatok, továbbá esetleg a helyi zárlat alatt álló helyen az egyéb fajú háziállatok leölése, valamint a hulla ártalmatlanná tétele iránt intézkedni.
 
-(2)[^270] A megyei kormányhivatal jelentése alapján a minisztérium megbízottat küld a helyszínre. A megyei kormányhivatal, valamint a kirendelt állatorvosok a védekezési szabályok alkalmazása tekintetében a minisztérium megbízottjának rendelkezése szerint kötelesek eljárni.
+(2)[^271] A megyei kormányhivatal jelentése alapján a minisztérium megbízottat küld a helyszínre. A megyei kormányhivatal, valamint a kirendelt állatorvosok a védekezési szabályok alkalmazása tekintetében a minisztérium megbízottjának rendelkezése szerint kötelesek eljárni.
 
 A minisztérium megbízottjának feladatai
 
@@ -1716,15 +1716,15 @@ d) a betegség leküzdése érdekében alkalmazott rendszabályok biztosítása 
 
 e) a fertőzöttségre gyanús fogékony állatállomány zárt vágására vágóhidat kijelölni, a vágást elrendelni, a zárt vágás körülményeit ellenőrizni.
 
-A Nemzeti Élelmiszerlánc-biztonsági Hivatal feladatai[^271]
+A Nemzeti Élelmiszerlánc-biztonsági Hivatal feladatai[^272]
 
-## 288. §[^272] A NÉBIH köteles
+## 288. §[^273] A NÉBIH köteles
 
 a) a szükséges diagnosztikai vizsgálatokat elvégezni;
 
 b) a betegség laboratóriumi diagnosztikájában jártas megbízottat a helyszínre küldeni;
 
-c)[^273] a vizsgálat eredményéről a minisztériumot és az illetékes megyei kormányhivatalt értesíteni.
+c)[^274] a vizsgálat eredményéről a minisztériumot és az illetékes megyei kormányhivatalt értesíteni.
 
 Helyi zárlat
 
@@ -1754,11 +1754,11 @@ d) a községben állatvásárt, -piacot, -kiállítást, -szemlét vagy üzeml�
 
 e) a községben a betegségre fogékony állatot levágni tilos;
 
-f)[^274] a zárlat alatt álló községből a betegség iránt nem fogékony állatot csak a járási hivatal engedélyével és fertőtlenítés után szabad kivinni.
+f)[^275] a zárlat alatt álló községből a betegség iránt nem fogékony állatot csak a járási hivatal engedélyével és fertőtlenítés után szabad kivinni.
 
 Védőkörzet
 
-## 291. §[^275] A betegség megállapítása esetén védőkörzetet kell alakítani. A védőkörzetbe be kell vonni mindazokat a községeket, amelyek a községi zárlat alatt álló területtel szomszédosak, továbbá, amelyek részben vagy egészben annak határától légvonalban számított harminc kilométeres körzetébe esnek. A védőkörzetbe vont községekben a fertőzött községekre meghatározott szabályokat kell alkalmazni. A vágási tilalom alól a járási hivatal indokolt esetben felmentést adhat.
+## 291. §[^276] A betegség megállapítása esetén védőkörzetet kell alakítani. A védőkörzetbe be kell vonni mindazokat a községeket, amelyek a községi zárlat alatt álló területtel szomszédosak, továbbá, amelyek részben vagy egészben annak határától légvonalban számított harminc kilométeres körzetébe esnek. A védőkörzetbe vont községekben a fertőzött községekre meghatározott szabályokat kell alkalmazni. A vágási tilalom alól a járási hivatal indokolt esetben felmentést adhat.
 
 A trágya, alom és takarmányhulladék kezelése
 
@@ -1784,9 +1784,9 @@ Az állatok oltása, gyógyítása
 
 A hullák ártalmatlanná tétele
 
-## 296. §[^276] Az elhullott vagy hatósági intézkedésre leölt állatok hulláját lehetőleg a zárlat alatt álló község területén kell ártalmatlanná tenni. Ha ez bármely okból nem lehetséges, a hullák ártalmatlanná tételéről a járási hivatal intézkedik:
+## 296. §[^277] Az elhullott vagy hatósági intézkedésre leölt állatok hulláját lehetőleg a zárlat alatt álló község területén kell ártalmatlanná tenni. Ha ez bármely okból nem lehetséges, a hullák ártalmatlanná tételéről a járási hivatal intézkedik:
 
-a)[^277] hullát csak a járási hivatal, a NÉBIH, illetve a minisztérium megbízottja, kizárólag a helyszínen, kórhatározás céljából boncolhat;
+a)[^278] hullát csak a járási hivatal, a NÉBIH, illetve a minisztérium megbízottja, kizárólag a helyszínen, kórhatározás céljából boncolhat;
 
 b) a hullát lebőrözni nem szabad, és ha az ártalmatlanná tétel elásás útján történik, a bőrt a hullának hullagödörbe való elhelyezése előtt többszörös keresztülmetszéssel használhatatlanná kell tenni;
 
@@ -1846,7 +1846,7 @@ A hatósági állatorvos feladatai
 
 301. § (1) A hatósági állatorvos a 107. §-ban előírtakon felül köteles
 
-a)[^278] a betegség gyanújáról a járási hivatalt és a megyei kormányhivatalt haladéktalanul értesíteni;
+a)[^279] a betegség gyanújáról a járási hivatalt és a megyei kormányhivatalt haladéktalanul értesíteni;
 
 b) a helyi zárlatot elrendelni;
 
@@ -1854,11 +1854,11 @@ c) a települési önkormányzat jegyzőjénél megfelelő számú polgári őr 
 
 (2) A betegség hatóságilag csak a minisztérium felülvizsgálata után állapítható meg.
 
-A járási hivatal feladatai[^279]
+A járási hivatal feladatai[^280]
 
-## 302. §[^280] Ha a járási hivatal a betegség gyanújáról értesül, köteles a helyszínen haladéktalanul megjelenni és vizsgálatot végezni. A betegségnek vagy gyanújának megállapítása esetén köteles
+## 302. §[^281] Ha a járási hivatal a betegség gyanújáról értesül, köteles a helyszínen haladéktalanul megjelenni és vizsgálatot végezni. A betegségnek vagy gyanújának megállapítása esetén köteles
 
-a)[^281] vizsgálati anyagnak a NÉBIH-be történő elküldését elrendelni;
+a)[^282] vizsgálati anyagnak a NÉBIH-be történő elküldését elrendelni;
 
 b) a hatósági állatorvos és a jegyző eddigi intézkedéseit felülvizsgálni, azokat szükség esetén kiegészíteni vagy módosítani;
 
@@ -1866,25 +1866,25 @@ c) a betegség eredetének és elterjedésének felderítése céljából a nyom
 
 d) a leölést elrendelni;
 
-e)[^282] védőkörzetet elrendelni.
+e)[^283] védőkörzetet elrendelni.
 
-A megyei kormányhivatal feladatai[^283]
+A megyei kormányhivatal feladatai[^284]
 
-303. § (1)[^284] A megyei kormányhivatal köteles
+303. § (1)[^285] A megyei kormányhivatal köteles
 
 a) a betegség gyanújának megállapításakor a minisztériumnak távbeszélőn jelentést tenni,
 
-b)[^285] a járási hivatal intézkedéseit felülvizsgálni és szükség esetén módosítani;
+b)[^286] a járási hivatal intézkedéseit felülvizsgálni és szükség esetén módosítani;
 
 c) a behurcolás felderítésére és a betegség elterjedésére irányuló vizsgálatot irányítani;
 
 d) a védőkörzetet elrendelni;
 
-e)[^286] utasítani a járási hivatalokat kellő számú állatorvos kirendelésére;
+e)[^287] utasítani a járási hivatalokat kellő számú állatorvos kirendelésére;
 
 f) a beteg, betegségre és fertőzöttségre gyanús állatok leöletése, valamint a hulla ártalmatlanná tétele iránt intézkedni.
 
-(2)[^287] Ha a betegség gyanúja is kizárható, a megyei kormányhivatal gondoskodik az eddigi intézkedések hatályon kívül helyezéséről.
+(2)[^288] Ha a betegség gyanúja is kizárható, a megyei kormányhivatal gondoskodik az eddigi intézkedések hatályon kívül helyezéséről.
 
 A minisztérium megbízottjának feladatai
 
@@ -1996,11 +1996,11 @@ A hatósági állatorvos feladatai
 
 315. § (1) A hatósági állatorvos köteles a 107. §-ban előírtakon felül haladéktalanul intézkedni a vizsgálati anyagnak a területileg illetékes állategészségügyi intézetbe küldéséről.
 
-(2)[^288] A betegség hatóságilag csak a járási hivatal felülvizsgálata után állapítható meg.
+(2)[^289] A betegség hatóságilag csak a járási hivatal felülvizsgálata után állapítható meg.
 
-A járási hivatal feladatai[^289]
+A járási hivatal feladatai[^290]
 
-## 316. §[^290] A járási hivatal a 109. §-ban előírtak szerint köteles eljárni, továbbá a beteg, betegségre gyanús állatok leölése és ártalmatlanná tétele iránt intézkedni.
+## 316. §[^291] A járási hivatal a 109. §-ban előírtak szerint köteles eljárni, továbbá a beteg, betegségre gyanús állatok leölése és ártalmatlanná tétele iránt intézkedni.
 
 ## 317. § Ha a betegséget vagy annak gyanúját szállítás közben, illetve ki- vagy berakás alkalmával észlelik, a 112. §-ban foglaltak figyelembevételével, a következő szabályokat kell alkalmazni:
 
@@ -2010,9 +2010,9 @@ b) a továbbtartásra szánt állatokat a megfelelő helyen el kell különíten
 
 c) a szállítmányhoz tartozó marhalevélre és a fuvarlevélre rá kell írni, hogy „Himlővel fertőzött (fertőzöttségre gyanús) szállítmány”.
 
-A megyei kormányhivatal feladatai[^291]
+A megyei kormányhivatal feladatai[^292]
 
-## 318. §[^292] A betegség vagy annak gyanúja megállapítása esetén, a megyei kormányhivatal köteles a 110. §-ban előírtakon felül a helyszínen vizsgálatot végezni, és a tett intézkedéseket a szükséghez képest módosítani vagy kiegészíteni.
+## 318. §[^293] A betegség vagy annak gyanúja megállapítása esetén, a megyei kormányhivatal köteles a 110. §-ban előírtakon felül a helyszínen vizsgálatot végezni, és a tett intézkedéseket a szükséghez képest módosítani vagy kiegészíteni.
 
 Helyi zárlat
 
@@ -2020,7 +2020,7 @@ Helyi zárlat
 
 Községi zárlat
 
-320. § (1)[^293] Azt a községet, amelyben a betegséget hatóságilag megállapították, a járási hivatalnak községi zárlat alá kell helyezni.
+320. § (1)[^294] Azt a községet, amelyben a betegséget hatóságilag megállapították, a járási hivatalnak községi zárlat alá kell helyezni.
 
 (2) A községi zárlat szabályai a 119. §-ban foglaltakon kívül a következők:
 
@@ -2030,7 +2030,7 @@ b) a zárlat alatt nem álló helyen tartott juhok és kecskék legeltetését a
 
 A fertőzöttségre gyanús állatok levágása
 
-## 321. §[^294] A fertőzöttségre gyanús állatot – kényszervágás kivételével – a járási hivatal engedélyével szabad levágni. A fertőzöttségre gyanús állat kedvező eredményű hatósági állatorvosi vizsgálat után vágható le, húsa korlátozás nélkül forgalomba hozható.
+## 321. §[^295] A fertőzöttségre gyanús állatot – kényszervágás kivételével – a járási hivatal engedélyével szabad levágni. A fertőzöttségre gyanús állat kedvező eredményű hatósági állatorvosi vizsgálat után vágható le, húsa korlátozás nélkül forgalomba hozható.
 
 A levágott vagy elhullott állat bőrének szőrének, gyapjának, prémjének kezelésére vonatkozó szabályok
 
@@ -2046,7 +2046,7 @@ A takarmány felhasználásának korlátozása
 
 324. § (1) A helyi zárlat alatt álló helyen tárolt szálastakarmányt feletetni – a helyi zárlat feloldása után is – csak helyben szabad.
 
-(2)[^295] Olyan szálastakarmány, amelyet még a betegség megállapítása előtt takarítottak be, és amely bizonyíthatóan nem fertőződhetett, a zárlat feloldása után, a járási hivatal engedélyével kiszállítható és forgalomba hozható.
+(2)[^296] Olyan szálastakarmány, amelyet még a betegség megállapítása előtt takarítottak be, és amely bizonyíthatóan nem fertőződhetett, a zárlat feloldása után, a járási hivatal engedélyével kiszállítható és forgalomba hozható.
 
 Hullák ártalmatlanná tétele
 
@@ -2062,11 +2062,11 @@ A trágya és takarmányhulladék kezelése
 
 A zárlat enyhítése
 
-327. § (1)[^296] A helyi zárlat alatt álló helyről, fertőzöttségre gyanús állat azonnali levágás céljából, gépkocsin – a járási hivatal engedélyével – a helyi vágóhídra, ha pedig a vágás a községben nem oldható meg, más község vágóhídjára is elszállítható.
+327. § (1)[^297] A helyi zárlat alatt álló helyről, fertőzöttségre gyanús állat azonnali levágás céljából, gépkocsin – a járási hivatal engedélyével – a helyi vágóhídra, ha pedig a vágás a községben nem oldható meg, más község vágóhídjára is elszállítható.
 
-(2)[^297] A helyi zárlat alá helyezett helyről fertőzöttségre gyanús állatokat – ha közben azok más állatokkal nem érintkeznek – a község területén fekvő legelőre a járási hivatal engedélyével ki szabad hajtani.
+(2)[^298] A helyi zárlat alá helyezett helyről fertőzöttségre gyanús állatokat – ha közben azok más állatokkal nem érintkeznek – a község területén fekvő legelőre a járási hivatal engedélyével ki szabad hajtani.
 
-(3)[^298] Zárlat alatt álló község helyi zárlat alatt nem álló helyéről juh és kecske nyers terméke, trágya és takarmány az előzetes hatósági állatorvosi helyszíni szemle eredményétől függően, a járási hivatal engedélyével elszállítható.
+(3)[^299] Zárlat alatt álló község helyi zárlat alatt nem álló helyéről juh és kecske nyers terméke, trágya és takarmány az előzetes hatósági állatorvosi helyszíni szemle eredményétől függően, a járási hivatal engedélyével elszállítható.
 
 (4) Zárlat alatt álló községben juhot és kecskét vasúton vagy hajón minden korlátozás nélkül, gépkocsival pedig megállás nélkül át szabad szállítani.
 
@@ -2090,91 +2090,91 @@ c) azokat a személyeket, akik a zárlat idején az állatokat gondozták, tová
 
 (6) A fertőtlenítést szigorított módon, a hatósági állatorvos irányításával kell végrehajtani.
 
-329. §[^299]
+329. §[^300]
 
-330. §[^300]
+330. §[^301]
 
-331. §[^301]
+331. §[^302]
 
-332. §[^302]
+332. §[^303]
 
-333. §[^303]
+333. §[^304]
 
-334. §[^304]
+334. §[^305]
 
-335. §[^305]
+335. §[^306]
 
-336. §[^306]
+336. §[^307]
 
-337. §[^307]
+337. §[^308]
 
-338. §[^308]
+338. §[^309]
 
-339. §[^309]
+339. §[^310]
 
-340. §[^310]
+340. §[^311]
 
-341. §[^311]
+341. §[^312]
 
-342. §[^312]
+342. §[^313]
 
-343. §[^313]
+343. §[^314]
 
-344. §[^314]
+344. §[^315]
 
-345. §[^315]
+345. §[^316]
 
-346. §[^316]
+346. §[^317]
 
-347. §[^317]
+347. §[^318]
 
-348. §[^318]
+348. §[^319]
 
-349. §[^319]
+349. §[^320]
 
-350. §[^320]
+350. §[^321]
 
-351. §[^321]
+351. §[^322]
 
-352. §[^322]
+352. §[^323]
 
-353. §[^323]
+353. §[^324]
 
-354. §[^324]
+354. §[^325]
 
-355. §[^325]
+355. §[^326]
 
-356. §[^326]
+356. §[^327]
 
-357. §[^327]
+357. §[^328]
 
-358. §[^328]
+358. §[^329]
 
-359. §[^329]
+359. §[^330]
 
-360. §[^330]
+360. §[^331]
 
-361. §[^331]
+361. §[^332]
 
-362. §[^332]
+362. §[^333]
 
-363. §[^333]
+363. §[^334]
 
-364. §[^334]
+364. §[^335]
 
-365. §[^335]
+365. §[^336]
 
-366. §[^336]
+366. §[^337]
 
 MADÁRINFLUENZA
 
-367–376. §[^337]
+367–376. §[^338]
 
 BAROMFIPESTIS
 
 (Newcastle Disease)
 
-377–387. §[^338]
+377–387. §[^339]
 
 SZARVASMARHÁK GÜMŐKÓRJA
 
@@ -2184,7 +2184,7 @@ valamint a fertőzött és a betegségtől mentes
 
 szarvasmarha meghatározása
 
-388–400. §[^339]
+388–400. §[^340]
 
 FERTŐZŐ SERTÉSBÉNULÁS
 
@@ -2218,9 +2218,9 @@ c) a helyi zárlat ideje alatt hetente legalább két ízben ellenőrző klinika
 
 d) ha a laboratóriumi vizsgálat eredménye alapján a betegséget sem megállapítani sem kizárni nem lehet, a helyi zárlatot a községben levő fertőzöttségre gyanús állatok tartási helyén legfeljebb negyven napig továbbra is fenn kell tartani, és a hatósági állatorvosnak a község sertésállományát meg kell figyelnie. Ha negyven napi megfigyelési idő alatt a betegségnek újabb gyanúja nem merül fel, vagy újabb megbetegedés kapcsán a fertőző sertésbénulás kizárható, a helyi zárlatot és a megfigyelést meg kell szüntetni.
 
-A járási hivatal feladatai[^340]
+A járási hivatal feladatai[^341]
 
-## 404. §[^341] A járási hivatal köteles a 109. §-ban foglalt feladatokon felül
+## 404. §[^342] A járási hivatal köteles a 109. §-ban foglalt feladatokon felül
 
 a) a betegség vagy annak gyanúja, és a fertőzöttség gyanúja esetén a helyszínre kiszállni és a tett intézkedéseket felülvizsgálni;
 
@@ -2230,13 +2230,13 @@ c) a betegség megállapításának helyén a 409. §-ban leírtak szerint a ser
 
 d) a betegség eredetére, elhurcolására vonatkozó vizsgálatatot megindítani;
 
-e)[^342] a megyei kormányhivatal utasítására kellő számú állatorvost kirendelni.
+e)[^343] a megyei kormányhivatal utasítására kellő számú állatorvost kirendelni.
 
-A megyei kormányhivatal feladatai[^343]
+A megyei kormányhivatal feladatai[^344]
 
-## 405. §[^344] A megyei kormányhivatal köteles a 110. §-ban előírtakon felül
+## 405. §[^345] A megyei kormányhivatal köteles a 110. §-ban előírtakon felül
 
-a)[^345] a fertőző anyag eredetének és elhurcolásának felderítésére irányuló vizsgálatot kiterjeszteni, és ehhez megfelelő számú állatorvosnak, a járási hivatal útján történő kirendeléséről gondoskodni;
+a)[^346] a fertőző anyag eredetének és elhurcolásának felderítésére irányuló vizsgálatot kiterjeszteni, és ehhez megfelelő számú állatorvosnak, a járási hivatal útján történő kirendeléséről gondoskodni;
 
 b) a védőkörzetet elrendelni;
 
@@ -2252,7 +2252,7 @@ b) a betegség megállapítása esetén a zárlat alatt álló helyen a betegsé
 
 Községi zárlat
 
-407. § (1)[^346] Azt a községet, amelyben a betegséget megállapították, községi zárlat alá kell helyezni. Ha az elvégzett járványügyi vizsgálatok eredménye a teljes községi zárlat fenntartását nem indokolja, a járási hivatal a (2) bekezdésben meghatározott feltételek szerint részleges községi zárlatot is elrendelhet.
+407. § (1)[^347] Azt a községet, amelyben a betegséget megállapították, községi zárlat alá kell helyezni. Ha az elvégzett járványügyi vizsgálatok eredménye a teljes községi zárlat fenntartását nem indokolja, a járási hivatal a (2) bekezdésben meghatározott feltételek szerint részleges községi zárlatot is elrendelhet.
 
 (2) A községi zárlatnak a 119. §-ban előírtakat meghaladó szabályai a következők:
 
@@ -2268,7 +2268,7 @@ e) a községben sertésvásárt, sertéspiacot, sertéskiállítást stb. még 
 
 Védőkörzet
 
-408. § (1)[^347] Ha a járványhelyzet indokolttá teszi, a járási hivatal védőkörzetet rendel el.
+408. § (1)[^348] Ha a járványhelyzet indokolttá teszi, a járási hivatal védőkörzetet rendel el.
 
 (2) A védőkörzetbe vont
 
@@ -2286,9 +2286,9 @@ való eljárás
 
 409. § (1) Abban a kislétszámú állományban, ahol a betegséget megállapították – függetlenül attól, hogy egy vagy több állattartó tulajdonában vannak –,
 
-a)[^348] az összes beteg és betegségre gyanús sertést vértelen úton le kell ölni; a fertőzöttségre gyanús állatok leölésénél és levágásánál a járási hivatal utasítása szerint kell eljárni;
+a)[^349] az összes beteg és betegségre gyanús sertést vértelen úton le kell ölni; a fertőzöttségre gyanús állatok leölésénél és levágásánál a járási hivatal utasítása szerint kell eljárni;
 
-b)[^349] a fertőzöttségre gyanús állatokat járási hivatali engedéllyel zárt vágásra kell szállítani. Húsukat a 413. § (2) bekezdésében előírt hőkezelés után a járási hivatal által szabályozott körülmények között forgalomba szabad hozni.
+b)[^350] a fertőzöttségre gyanús állatokat járási hivatali engedéllyel zárt vágásra kell szállítani. Húsukat a 413. § (2) bekezdésében előírt hőkezelés után a járási hivatal által szabályozott körülmények között forgalomba szabad hozni.
 
 (2) Ha a betegséget nagylétszámú állományban állapították meg,
 
@@ -2302,11 +2302,11 @@ A zárlat enyhítése
 
 ## 410. § Helyi zárlat alatt álló helyről, főtt vagy kisütött sertéshúst és kiolvasztott zsírt csak a hatósági állatorvos engedélyével szabad kivinni.
 
-411. § (1)[^350] A részleges községi zárlat alatt álló terület nem fertőzött helyéről sertést azonnali levágás céljából, a községi zárlat alatt álló vagy a zárlat alatt nem álló községrészben levő vágóhídra, a hatósági állatorvos engedélyével és a járási hivatal jóváhagyásával szabad kivinni. Teljes vagy részleges községi zárlat alatt álló területről, a megyén belül más község vágóhídjára történő sertéskivitelhez a járási hivatal engedélye szükséges. A megyén kívüli vágóhídra történő sertéskivitelt a minisztérium hozzájárulásával engedélyezheti a megyei kormányhivatal. Ebben az esetben a két megyei kormányhivatalnak összehangoltan és ellenjegyzéssel kell meghozni a szállításra és a vágásra vonatkozó intézkedéseket.
+411. § (1)[^351] A részleges községi zárlat alatt álló terület nem fertőzött helyéről sertést azonnali levágás céljából, a községi zárlat alatt álló vagy a zárlat alatt nem álló községrészben levő vágóhídra, a hatósági állatorvos engedélyével és a járási hivatal jóváhagyásával szabad kivinni. Teljes vagy részleges községi zárlat alatt álló területről, a megyén belül más község vágóhídjára történő sertéskivitelhez a járási hivatal engedélye szükséges. A megyén kívüli vágóhídra történő sertéskivitelt a minisztérium hozzájárulásával engedélyezheti a megyei kormányhivatal. Ebben az esetben a két megyei kormányhivatalnak összehangoltan és ellenjegyzéssel kell meghozni a szállításra és a vágásra vonatkozó intézkedéseket.
 
 (2) A sertések kirakása a rendeltetési helyen csak állatorvosi vizsgálat mellett történhet.
 
-## 412. §[^351] Védőkörzetbe tartozó, nem fertőzött községből sertést levágásra vagy egyéb célból, a védőkörzetbe tartozó más községbe a járási hivatal engedélyével szabad kivinni. Engedély akkor adható, ha a hatósági állatorvos helyszíni vizsgálata negatív eredménnyel járt, és az állatok hatósági ellenőrzésének feltételei továbbra is biztosítottak.
+## 412. §[^352] Védőkörzetbe tartozó, nem fertőzött községből sertést levágásra vagy egyéb célból, a védőkörzetbe tartozó más községbe a járási hivatal engedélyével szabad kivinni. Engedély akkor adható, ha a hatósági állatorvos helyszíni vizsgálata negatív eredménnyel járt, és az állatok hatósági ellenőrzésének feltételei továbbra is biztosítottak.
 
 A beteg, betegségre és fertőzöttségre gyanús sertés levágása, a levágott sertés húsának, zsírjának fogyasztására, nyers termékeinek felhasználására
 
@@ -2318,9 +2318,9 @@ elbánásra vonatkozó szabályok
 
 (2) A fertőzöttségre gyanús, klinikailag tünetmentes sertés hatósági rendelkezésre történő levágásakor az állat felbontása alkalmával, a nyelőcsőnek és a végbélnek előzetes átkötése után az egész emésztőcsatornát sértetlen összefüggésben kell kivenni a hasüregből. A levágott sertést nem szabad a fej és gerinccsatorna hosszanti kettéhasításával felnyitni, hanem a törzset a gerincoszlop két oldalán, a gerincoszloppal párhuzamos hosszanti vágással kell két részre osztani (orjára vágni). Az egyben maradt gerincoszlopot és a fejet a lágy részek eltávolítása után, továbbá az egészében kivett emésztőcsatornát, a közfogyasztásra alkalmatlan egyéb testrészeket és a szőrt, a hullával azonos módon ártalmatlanná kell tenni. A levágott sertés bőrét lefejteni vagy lenyúzni nem szabad. A húst, zsírt és szalonnát a levágás után haladéktalanul, állatorvosi ellenőrzés mellett, legalább 70 °C maghőmérsékleten, húsz percig tartó hőkezelésnek kell alávetni. Ha vágás közben az emésztőcsatorna vagy a gerincoszlop sérül, az egész sertést a hullával azonos módon kell ártalmatlanná tenni és a vágást csak az eszközök és a helyiség fertőtlenítése után szabad folytatni.
 
-(3)[^352] A sertést azonnali levágás céljából a járási hivatal engedélyével, megbízható kísérettel és csak állatszállításra alkalmas járművön szabad elszállítani.
+(3)[^353] A sertést azonnali levágás céljából a járási hivatal engedélyével, megbízható kísérettel és csak állatszállításra alkalmas járművön szabad elszállítani.
 
-(4)[^353] A fertőzöttségre gyanús sertés húsát nyersen szállítani nem szabad. Ha azonban a levágás helyén nincs kellő berendezés arra, hogy a nagyobb számban levágott sertések húsát megfelelően hőkezeljék, a járási hivatal engedélyt adhat, hogy a nyers húst hőkezelés céljából, megbízható kísérettel, megfelelő járművön, a védőkörzeten belüli, engedélyben megjelölt helyre az előírt módon elszállíthassák.
+(4)[^354] A fertőzöttségre gyanús sertés húsát nyersen szállítani nem szabad. Ha azonban a levágás helyén nincs kellő berendezés arra, hogy a nagyobb számban levágott sertések húsát megfelelően hőkezeljék, a járási hivatal engedélyt adhat, hogy a nyers húst hőkezelés céljából, megbízható kísérettel, megfelelő járművön, a védőkörzeten belüli, engedélyben megjelölt helyre az előírt módon elszállíthassák.
 
 ## 414. § A beteg, betegségre és fertőzöttségre gyanús sertés hulláját, a levágott sertésnek fogyasztásra alkalmatlan részeit, valamint a szőrt, a sörtét, a körmöt és a csontokat állati hulladékfeldolgozó üzem útján, illetve megfelelő fertőtlenítés után, elásással vagy hullaemésztő verembe helyezéssel kell ártalmatlanná tenni. Ez utóbbi esetekben különös figyelemmel kell gondoskodni arról, hogy a teljes önemésztettségig a hullarészekhez állat vagy illetéktelen személy ne férjen hozzá.
 
@@ -2360,19 +2360,19 @@ A beteg, betegségre és fertőzöttségre gyanús,
 
 valamint a betegség szempontjából aggályos állat meghatározása
 
-418. §[^354]
+418. §[^355]
 
 Az állat tulajdonosának vagy a beteg vadon élő állat észlelőjének feladata
 
-419. §[^355]
+419. §[^356]
 
 Az állategészségügyi szolgálat részletes feladatai
 
-420. §[^356]
+420. §[^357]
 
-421. §[^357]
+421. §[^358]
 
-422. §[^358]
+422. §[^359]
 
 A beteg, betegségre és fertőzöttségre gyanús,
 
@@ -2380,37 +2380,37 @@ továbbá a veszettség szempontjából aggályos állattal
 
 való eljárás
 
-423. §[^359]
+423. §[^360]
 
 A hatósági megfigyelés szabályai
 
-424. §[^360]
+424. §[^361]
 
 Az ebzárlat szabályai
 
-425. §[^361]
+425. §[^362]
 
 A vadon élő állatokkal kapcsolatos szabályok
 
-426. §[^362]
+426. §[^363]
 
 Nyers termékek felhasználásának tilalma
 
-427. §[^363]
+427. §[^364]
 
 A hullák felhasználásának
 
 és boncolásának tilalma
 
-428. §[^364]
+428. §[^365]
 
 Közegészségügyi rendszabályok
 
-429. §[^365]
+429. §[^366]
 
 A betegség megszűntté nyilvánítása
 
-430. §[^366]
+430. §[^367]
 
 TAKONYKÓR
 
@@ -2436,9 +2436,9 @@ Az állategészségügyi szolgálat részletes feladatai
 
 432. § (1) El kell látni a 107–110. §-okban előírtakat.
 
-(2)[^367] A betegség hatóságilag csak a megyei kormányhivatal felülvizsgálata után állapítható meg.
+(2)[^368] A betegség hatóságilag csak a megyei kormányhivatal felülvizsgálata után állapítható meg.
 
-(3)[^368] Ha a vizsgálat adatai szerint a beteg állat közös legelőre járt, vagy ha egyébként is alapos a gyanú, hogy a betegség a községben (nagy létszámú állományban, ménesben) elterjedt, a járási hivatal javaslatára a megyei kormányhivatal elrendelheti a község (nagyüzem, ménes) valamennyi egypatás állatának a 40. számú függelék szerinti ellenőrző immundiagnosztikai vizsgálatát. A vizsgálat megkezdése előtt a minisztériumot tájékoztatni kell, és a továbbiakban annak utasítása szerint kell eljárni.
+(3)[^369] Ha a vizsgálat adatai szerint a beteg állat közös legelőre járt, vagy ha egyébként is alapos a gyanú, hogy a betegség a községben (nagy létszámú állományban, ménesben) elterjedt, a járási hivatal javaslatára a megyei kormányhivatal elrendelheti a község (nagyüzem, ménes) valamennyi egypatás állatának a 40. számú függelék szerinti ellenőrző immundiagnosztikai vizsgálatát. A vizsgálat megkezdése előtt a minisztériumot tájékoztatni kell, és a továbbiakban annak utasítása szerint kell eljárni.
 
 Helyi zárlat
 
@@ -2450,13 +2450,13 @@ szabályai
 
 434. § (1) A betegség megállapítása, illetőleg annak kizárása céljából malleines próbát és vérvizsgálatot kell végeztetni. A vizsgálatok szabályait a 41–43. számú függelékek tartalmazzák.
 
-(2)[^369] A különleges diagnosztikai eljárás alá kerülő, betegségre és fertőzöttségre gyanús állatokról két példányban kimutatást kell készíteni. A kimutatás egyik példányát a vizsgálatok alapján tett intézkedésekről szóló jelentéssel a járási hivatalnak meg kell küldeni, és a továbbiakban esetleges rendelkezései szerint kell eljárni.
+(2)[^370] A különleges diagnosztikai eljárás alá kerülő, betegségre és fertőzöttségre gyanús állatokról két példányban kimutatást kell készíteni. A kimutatás egyik példányát a vizsgálatok alapján tett intézkedésekről szóló jelentéssel a járási hivatalnak meg kell küldeni, és a továbbiakban esetleges rendelkezései szerint kell eljárni.
 
 (3) A diagnosztikai eljárás során fel kell hívni a tulajdonos figyelmét arra, hogy az állaton időközben mutatkozó, a betegségre gyanút keltő tünetekről a hatósági állatorvost azonnal értesítse.
 
 A beteg állattal való eljárás
 
-## 435. §[^370] A beteg állatot vértelen úton, haladéktalanul le kell ölni, és a hullát a járási hivatal rendelkezése alapján ártalmatlanná kell tenni.
+## 435. §[^371] A beteg állatot vértelen úton, haladéktalanul le kell ölni, és a hullát a járási hivatal rendelkezése alapján ártalmatlanná kell tenni.
 
 A betegségre és fertőzöttségre gyanús állattal
 
@@ -2504,7 +2504,7 @@ A helyi zárlat enyhítése
 
 441. § (1) A helyi zárlat enyhítése céljából a nem fogékony állatokra a zárlat alól felmentést lehet adni.
 
-(2)[^371] A helyi zárlat alatti helyről fertőzöttségre gyanús állatot indokolt esetben (elköltözés, megszokott tartási helyére való szállítás) – a járási hivatal engedélyével – a község más helyére vagy más község területére ki lehet vinni. Az ilyen állatok kivitelére vonatkozólag a 123. §-ban foglaltakon felül, a következő szabályokat kell megtartani:
+(2)[^372] A helyi zárlat alatti helyről fertőzöttségre gyanús állatot indokolt esetben (elköltözés, megszokott tartási helyére való szállítás) – a járási hivatal engedélyével – a község más helyére vagy más község területére ki lehet vinni. Az ilyen állatok kivitelére vonatkozólag a 123. §-ban foglaltakon felül, a következő szabályokat kell megtartani:
 
 a) az állatot csak abban az esetben szabad kivinni, ha a közvetlenül az elszállítás előtt végzett immundiagnosztikai vizsgálat kedvező eredményű, és az állatot helyszíni vizsgálat során a hatósági állatorvos a betegségre utaló tünetektől mentesnek találta;
 
@@ -2512,7 +2512,7 @@ b) az állatot a rendeltetési helyen azonnal el kell különíteni, helyi zárl
 
 c) ha a kivitel más község (város) területére történik, az eddigi eljárások adatait tartalmazó kimutatás egyik példányát vagy kivonatát a rendeltetési hely szerint illetékes hatósági állatorvos részére, a szállítási engedély kiadásáról szóló értesítéssel együtt, meg kell küldeni.
 
-(3)[^372] A helyi zárlat alá helyezett helyről olyan, fertőzöttségre gyanús állatot, amelynél az első immundiagnosztikai eljárás eredménye negatív vagy kétes, a járási hivatal engedélyével, a község határának meghatározott részébe, munkavégzés céljából ki szabad vinni.
+(3)[^373] A helyi zárlat alá helyezett helyről olyan, fertőzöttségre gyanús állatot, amelynél az első immundiagnosztikai eljárás eredménye negatív vagy kétes, a járási hivatal engedélyével, a község határának meghatározott részébe, munkavégzés céljából ki szabad vinni.
 
 A betegség megszűntté nyilvánítása
 
@@ -2582,11 +2582,11 @@ Az állategészségügyi szolgálat részletes feladatai
 
 446. § (1) El kell látni a 107–110. §-okban előírtakat.
 
-(2)[^373] A betegség hatóságilag csak a megyei kormányhivatal felülvizsgálata után állapítható meg.
+(2)[^374] A betegség hatóságilag csak a megyei kormányhivatal felülvizsgálata után állapítható meg.
 
-(3)[^374] Tenyészmén megbetegedése, a betegség gyanúja, fertőzöttsége vagy a fertőzöttség gyanúja esetén a járási hivatal a területileg illetékes lótenyésztési felügyelőt is soron kívül köteles értesíteni.
+(3)[^375] Tenyészmén megbetegedése, a betegség gyanúja, fertőzöttsége vagy a fertőzöttség gyanúja esetén a járási hivatal a területileg illetékes lótenyésztési felügyelőt is soron kívül köteles értesíteni.
 
-(4)[^375] A tenyészbénaság nagymérvű elterjedtsége esetén a megyei kormányhivatal a 454. §-ban foglaltakat is köteles elrendelni.
+(4)[^376] A tenyészbénaság nagymérvű elterjedtsége esetén a megyei kormányhivatal a 454. §-ban foglaltakat is köteles elrendelni.
 
 A fedeztetés tilalma
 
@@ -2620,9 +2620,9 @@ A forgalmi korlátozás szabályai
 
 (2) A betegségre gyanús, fertőzött vagy fertőzöttségre gyanús mént és kancát ugyanabban a helyiségben (istállóban, fészerben, kifutóban stb.) együtt tartani, ugyanazon a legelőn együtt legeltetni vagy együtt jármű elé fogni nem szabad.
 
-(3)[^376] A betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állatot a járási hivatal engedélye nélkül más községbe kivinni nem szabad. Az állatnak az állandó tartási helyét a község területén belül is csak a járási hivatal engedélyével szabad megváltoztatni.
+(3)[^377] A betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állatot a járási hivatal engedélye nélkül más községbe kivinni nem szabad. Az állatnak az állandó tartási helyét a község területén belül is csak a járási hivatal engedélyével szabad megváltoztatni.
 
-(4)[^377] A járási hivatal a kivitelt csak levágás céljából vagy az állattartó lakóhelyének megváltoztatása miatt engedélyezheti. Az engedély kiadásáról a rendeltetési hely szerint illetékes megyei kormányhivatalt értesíteni kell.
+(4)[^378] A járási hivatal a kivitelt csak levágás céljából vagy az állattartó lakóhelyének megváltoztatása miatt engedélyezheti. Az engedély kiadásáról a rendeltetési hely szerint illetékes megyei kormányhivatalt értesíteni kell.
 
 (5) A levágás céljából kivitt állatokat öt napon belül le kell vágni, a továbbtartás céljából elszállított állatokat pedig újabb tartási helyükön ugyanolyan forgalmi korlátozás alatt kell tartani, mint amilyen korlátozás alatt előbbi helyükön álltak.
 
@@ -2638,15 +2638,15 @@ A beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús állat s
 
 a) a fuvarlevélen piros tintával vagy irónnal feltüntetni, hogy a szállítmányt csak hatósági állatorvosi vizsgálat után szabad kirakni;
 
-b)[^378] a kísérő okmányt az alábbi záradékkal ellátni:
+b)[^379] a kísérő okmányt az alábbi záradékkal ellátni:
 
 ## „A ...... db tenyészbénaságban beteg, betegségre gyanús, fertőzött, illetőleg fertőzöttségre gyanús állat elszállítása a ................-i vágóhídra, a ........................ járási hivatal ........ számú engedélye alapján, továbbtartásra (a nem kívánt szöveg törlendő) történik. A rendeltetési állomáson a vasúti kocsi kirakása csak hatósági állatorvos jelenlétében történhet meg. A szállítmány rendeltetési helye: ................”
 
 (3) A rendeltetési helyen a kirakás alkalmával a hatósági állatorvos köteles az állatok azonosságát ellenőrizni és a szállításra használt járművet fertőtleníttetni.
 
-A járási hivatal feladatai a tenyészbénaság nagymérvű elterjedtsége esetén[^379]
+A járási hivatal feladatai a tenyészbénaság nagymérvű elterjedtsége esetén[^380]
 
-## 454. §[^380] Ha a betegség a községben vagy a nagylétszámú állattartó telepen több helyen jelentkezett, vagy ha a betegség eredete kétséget kizáróan nem volt megállapítható, a megyei kormányhivatal rendelkezése alapján a község vagy a nagylétszámú állattartó telep területén egy év tartamára a következő szabályokat is alkalmazni kell:
+## 454. §[^381] Ha a betegség a községben vagy a nagylétszámú állattartó telepen több helyen jelentkezett, vagy ha a betegség eredete kétséget kizáróan nem volt megállapítható, a megyei kormányhivatal rendelkezése alapján a község vagy a nagylétszámú állattartó telep területén egy év tartamára a következő szabályokat is alkalmazni kell:
 
 a) a hatósági állatorvos a ménekről és a kancákról, azok pontos leírását is tartalmazó nyilvántartást köteles vezetni, és ezt követően minősíteni;
 
@@ -2688,7 +2688,7 @@ Az állategészségügyi szolgálat részletes feladatai
 
 457. § (1) El kell látni a 107–110. §-okban előírtakat.
 
-(2)[^381] A betegség hatóságilag csak a megyei kormányhivatal felülvizsgálata után állapítható meg.
+(2)[^382] A betegség hatóságilag csak a megyei kormányhivatal felülvizsgálata után állapítható meg.
 
 (3) A beteg és a fertőzött állat marhalevelére a hatósági állatorvos köteles a „fertőző kevésvérűség vírusával fertőzött” szöveget, valamint a marhalevél-kezelési tilalmat rávezetni.
 
@@ -2722,7 +2722,7 @@ A forgalmi korlátozás szabályai
 
 A beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús állat szállításának szabályai
 
-462. § (1)[^382] A beteg, betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állatot csak a járási hivatal engedélyével, levágás céljából vágóhídra és csak beteg állatok szállítására rendszeresített zárt gépkocsin szabad szállítani. Útközben a szállítmányból állatot kirakni vagy a szállítmányhoz állatot hozzárakni nem szabad.
+462. § (1)[^383] A beteg, betegségre gyanús, fertőzött vagy fertőzöttségre gyanús állatot csak a járási hivatal engedélyével, levágás céljából vágóhídra és csak beteg állatok szállítására rendszeresített zárt gépkocsin szabad szállítani. Útközben a szállítmányból állatot kirakni vagy a szállítmányhoz állatot hozzárakni nem szabad.
 
 (2) A szállításnál a hatósági állatorvos köteles
 
@@ -2764,13 +2764,13 @@ A beteg, betegségre gyanús, fertőzött és fertőzöttségre gyanús állat, 
 
 (4) Fertőzöttségre gyanús az az állomány, amely hatvan napon belül fertőzött állománnyal érintkezett, vagy érintkezhetett.
 
-(5)[^383] Veszélyeztetett állomány(ok) az (1)–(4) bekezdésekben nem említett, járványtani indokok alapján a járási hivatal által meghatározott szomszéd település(ek) állománya(i).
+(5)[^384] Veszélyeztetett állomány(ok) az (1)–(4) bekezdésekben nem említett, járványtani indokok alapján a járási hivatal által meghatározott szomszéd település(ek) állománya(i).
 
 A beteg, betegségre gyanús, fertőzött, fertőzöttségre gyanús és veszélyeztetett állományokkal követendő eljárás
 
 467. § (1) A beteg állományt forgalmi korlátozás alá kell helyezni, létszámát pontosan meg kell állapítani, majd az állományt haladéktalanul, vértelen úton le kell ölni. A hullákat ártalmatlanná kell tenni.
 
-(2)[^384] Kivételes értékű és nagyságú állományokban vagy egyéb esetben a minisztérium hozzájárulásával, a járási hivatal az (1) bekezdésben előírttól eltérő leküzdési módot is alkalmazhat (forgalmi korlátozás, a beteg nyulak leöletése után a klinikailag egészségesnek látszó állatok haladéktalan védőoltása, elölt kórokozót tartalmazó vakcinával).
+(2)[^385] Kivételes értékű és nagyságú állományokban vagy egyéb esetben a minisztérium hozzájárulásával, a járási hivatal az (1) bekezdésben előírttól eltérő leküzdési módot is alkalmazhat (forgalmi korlátozás, a beteg nyulak leöletése után a klinikailag egészségesnek látszó állatok haladéktalan védőoltása, elölt kórokozót tartalmazó vakcinával).
 
 (3) A betegségre gyanús állományt mindaddig forgalmi korlátozás alatt kell tartani, amíg a betegséget meg nem állapították, vagy azt egyértelműen nem zárták ki.
 
@@ -2784,17 +2784,17 @@ A hatósági állatorvos feladatai
 
 ## 468. § A hatósági állatorvos a 107. §-ban meghatározott feladatokon felül köteles:
 
-a)[^385] a betegségre gyanús és fertőzött állományokból – a járási hivatal egyidejű tájékoztatása mellett – vizsgálati anyagot küldeni az illetékes állategészségügyi intézetbe;
+a)[^386] a betegségre gyanús és fertőzött állományokból – a járási hivatal egyidejű tájékoztatása mellett – vizsgálati anyagot küldeni az illetékes állategészségügyi intézetbe;
 
 b) a betegség és/vagy gyanújának megállapítása esetén – a helyi önkormányzat jegyzőjének egyidejű tájékoztatása mellett – helyi zárlatot elrendelni.
 
-A járási hivatal feladatai[^386]
+A járási hivatal feladatai[^387]
 
-## 469. §[^387] A járási hivatal a 109. §-ban meghatározott feladatokon felül köteles:
+## 469. §[^388] A járási hivatal a 109. §-ban meghatározott feladatokon felül köteles:
 
 a) a hatósági állatorvos intézkedéseit felülvizsgálni;
 
-b)[^388] a beteg, betegségre gyanús és fertőzött állományokról a megyei kormányhivatalnak haladéktalanul jelentést tenni;
+b)[^389] a beteg, betegségre gyanús és fertőzött állományokról a megyei kormányhivatalnak haladéktalanul jelentést tenni;
 
 c) részleges vagy teljes községi zárlatot elrendelni;
 
@@ -2802,11 +2802,11 @@ d) a betegség megállapítása esetén az állomány leölése iránt intézked
 
 e) a betegség eredetére, illetve behurcolásának lehetőségeire irányuló vizsgálatot végezni;
 
-f)[^389] intézkedéseiről a megyei kormányhivatalt folyamatosan tájékoztatni.
+f)[^390] intézkedéseiről a megyei kormányhivatalt folyamatosan tájékoztatni.
 
-A megyei kormányhivatal feladatai[^390]
+A megyei kormányhivatal feladatai[^391]
 
-## 470. §[^391] A megyei kormányhivatal feladata, a 110. §-ban meghatározottakon felül – indokolt esetben –
+## 470. §[^392] A megyei kormányhivatal feladata, a 110. §-ban meghatározottakon felül – indokolt esetben –
 
 a) a veszélyeztetett állományok körét meghatározni;
 
@@ -2844,13 +2844,13 @@ A községi zárlat szabályai
 
 472. § (1) Községi zárlatot kell elrendelni – a 119. §-nak a községi zárlatra vonatkozó általános szabályai szerint – annak a városnak vagy községnek (a továbbiakban: község) a területére, ahol a betegséget megállapították.
 
-(2)[^392] A zárlat az utolsó beteg állomány helyi zárlatának feloldásáig, de legalább az oltások befejezésétől számított tizenöt napig tart. Szórványosan jelentkező betegség esetén (ha a fertőzött udvarok száma a község nyúltartó udvarainak számához viszonyítva öt százalék alatti), a járási hivatal engedélyezheti, hogy a helyi zárlat alatt nem álló veszélyeztetett udvarokból a vágási súlyt elért nyulakat oltás nélkül, az oltott nyulakat pedig az oltástól számított tizenöt nap után közvetlenül vágóhídra szállítsák.
+(2)[^393] A zárlat az utolsó beteg állomány helyi zárlatának feloldásáig, de legalább az oltások befejezésétől számított tizenöt napig tart. Szórványosan jelentkező betegség esetén (ha a fertőzött udvarok száma a község nyúltartó udvarainak számához viszonyítva öt százalék alatti), a járási hivatal engedélyezheti, hogy a helyi zárlat alatt nem álló veszélyeztetett udvarokból a vágási súlyt elért nyulakat oltás nélkül, az oltott nyulakat pedig az oltástól számított tizenöt nap után közvetlenül vágóhídra szállítsák.
 
 (3) Járványos megbetegedés esetén szállítási kedvezmény nem adható.
 
 Védőkörzet elrendelése
 
-## 473. §[^393] A járási hivatal
+## 473. §[^394] A járási hivatal
 
 a) a betegség továbbterjedésének megakadályozása céljából köteles védőkörzetet és a védőkörzeten belül a házinyúlállományok védőoltását elrendelni;
 
@@ -2870,7 +2870,7 @@ forgalmazásának feltételei
 
 (5) A bőr és a szőr csak ipari feldolgozásra adható át.
 
-(6)[^394] A betegség vagy annak gyanúja megállapítása esetén a húsvizsgáló állatorvosnak a származás és levágás helye szerint illetékes járási hivatalt haladéktalanul értesíteni kell.
+(6)[^395] A betegség vagy annak gyanúja megállapítása esetén a húsvizsgáló állatorvosnak a származás és levágás helye szerint illetékes járási hivatalt haladéktalanul értesíteni kell.
 
 Egyéb rendelkezések
 
@@ -2880,7 +2880,7 @@ Egyéb rendelkezések
 
 (3) A felvásárló szerv – a felvásárlás végeztével – szigorított módon köteles fertőtleníteni a felvásárló helyet.
 
-(4)[^395] Védőkörzetben vagy fertőzött községben takarmányt árusítani csak a járási hivatal által meghatározott feltételekkel szabad.
+(4)[^396] Védőkörzetben vagy fertőzött községben takarmányt árusítani csak a járási hivatal által meghatározott feltételekkel szabad.
 
 A MÉZELŐ MÉHEK
 
@@ -2888,35 +2888,35 @@ NYÚLÓS KÖLTÉSROTHADÁSA
 
 A beteg, betegségre gyanús és fertőzöttségre gyanús méhcsalád meghatározása
 
-476. §[^396]
+476. §[^397]
 
 A hatósági állatorvos feladatai
 
-477. §[^397]
+477. §[^398]
 
 Helyi zárlat
 
-478. §[^398]
+478. §[^399]
 
 Községi zárlat
 
-479. §[^399]
+479. §[^400]
 
 A zárlat enyhítése
 
-480. §[^400]
+480. §[^401]
 
 A betegség megszűntté nyilvánítása
 
-481. §[^401]
+481. §[^402]
 
 Fertőtlenítés
 
-482. §[^402]
+482. §[^403]
 
 Kötelező vizsgálatok
 
-483. §[^403]
+483. §[^404]
 
 MÉZELŐ MÉHEK
 
@@ -2924,163 +2924,163 @@ ENYHÉBB KÖLTÉSROTHADÁSA
 
 A beteg, betegségre gyanús és fertőzöttségre gyanús méhcsalád meghatározása
 
-484. §[^404]
+484. §[^405]
 
 A hatósági állatorvos feladatai
 
-485. §[^405]
+485. §[^406]
 
 Helyi zárlat
 
-486. §[^406]
+486. §[^407]
 
 Községi zárlat
 
-487. §[^407]
+487. §[^408]
 
 A zárlati intézkedések enyhítése
 
-488. §[^408]
+488. §[^409]
 
 A betegség megszűntté nyilvánítása
 
-489. §[^409]
+489. §[^410]
 
 Fertőtlenítés
 
-490. §[^410]
+490. §[^411]
 
 Kötelező vizsgálatok
 
-491. §[^411]
+491. §[^412]
 
 SZARVASMARHÁK SZIVACSOS AGYVELŐBÁNTALMA
 
 (Bovine spongiform encephalopathy, BSE)
 
-492. §[^412]
+492. §[^413]
 
-493. §[^413]
+493. §[^414]
 
-494. §[^414]
+494. §[^415]
 
-495. §[^415]
+495. §[^416]
 
-496. §[^416]
+496. §[^417]
 
-497. §[^417]
+497. §[^418]
 
-498. §[^418]
+498. §[^419]
 
-499. §[^419]
+499. §[^420]
 
-500. §[^420]
+500. §[^421]
 
-501. §[^421]
+501. §[^422]
 
-502. §[^422]
+502. §[^423]
 
-503. §[^423]
+503. §[^424]
 
-504. §[^424]
+504. §[^425]
 
-505. §[^425]
+505. §[^426]
 
-506. §[^426]
+506. §[^427]
 
-507. §[^427]
+507. §[^428]
 
-508. §[^428]
+508. §[^429]
 
-509. §[^429]
+509. §[^430]
 
-510. §[^430]
+510. §[^431]
 
-511. §[^431]
+511. §[^432]
 
-512. §[^432]
+512. §[^433]
 
-513. §[^433]
+513. §[^434]
 
 A beteg, a betegségre gyanús, a fertőzött
 
 és a fertőzöttségre gyanús, valamint a betegségtől mentes állat meghatározása
 
-514. §[^434]
+514. §[^435]
 
 A fertőzött, a mentesítés alatt álló és a betegségtől mentes nagylétszámú állomány meghatározása
 
-515. §[^435]
+515. §[^436]
 
 A fertőzött és a betegségtől mentes kislétszámú udvar meghatározása
 
-516. §[^436]
+516. §[^437]
 
 A termékenyítés, fedeztetés, betelepítés szabályai
 
-517. §[^437]
+517. §[^438]
 
 A hatósági állatorvos feladata
 
-518. §[^438]
+518. §[^439]
 
 A beteg sertéssel és szarvasmarhával való eljárás
 
-519. §[^439]
+519. §[^440]
 
 A betegségre gyanús sertéssel
 
 és szarvasmarhával való eljárás
 
-520. §[^440]
+520. §[^441]
 
 A pároztatás tilalma
 
-521. §[^441]
+521. §[^442]
 
 A forgalmi korlátozás szabályai
 
-522. §[^442]
+522. §[^443]
 
 A bakteriológiai és immundiagnosztikai eljárások alkalmazásának szabályai
 
-523. §[^443]
+523. §[^444]
 
 A szarvasmarha-állományok ellenőrzésének szabályai
 
-524. §[^444]
+524. §[^445]
 
 A sertésállományok minősítésének és ellenőrzésének szabályai
 
-525. §[^445]
+525. §[^446]
 
 Az elvetélt magzat, továbbá a magzatburok ártalmatlanná tétele
 
-526. §[^446]
+526. §[^447]
 
 A tej felhasználásának korlátozása
 
-527. §[^447]
+527. §[^448]
 
 A betegség megszűntté nyilvánítása
 
-528. §[^448]
+528. §[^449]
 
 Eljárás a juhok és kecskék brucellózisa esetén
 
-529. §[^449]
+529. §[^450]
 
 Eljárás a lovak brucellózisa esetén
 
-530. §[^450]
+530. §[^451]
 
 Eljárás kutya brucellózisa esetén
 
-531. §[^451]
+531. §[^452]
 
 Közegészségügyi szabályok
 
-532. §[^452]
+532. §[^453]
 
 KACSAPESTIS
 
@@ -3126,7 +3126,7 @@ Az állategészségügyi szolgálat részletes feladatai
 
 535. § (1) El kell látni a 107–110. §-okban előírtakat.
 
-(2)[^453] A betegség hatóságilag csak a járási hivatal felülvizsgálata után állapítható meg.
+(2)[^454] A betegség hatóságilag csak a járási hivatal felülvizsgálata után állapítható meg.
 
 Helyi zárlat
 
@@ -3134,7 +3134,7 @@ Helyi zárlat
 
 a) a helyi zárlat térbeli kiterjedését a betegség súlyossága, a tartási hely (tó, tórendszer, víztároló, folyóvíz) fekvése és nagysága szerint kell meghatározni;
 
-b)[^454] a betegségnek vagy gyanújának megállapításakor az érintett állomány immunizálását a járványtani helyzettől (klinikai képtől, betegség okozta kártétel nagyságától stb.) függően a járási hivatal rendeli el. A veszélyeztetett, fogékony állomány immunizálásáról – esetenkénti elbírálás alapján – a járási hivatal dönt;
+b)[^455] a betegségnek vagy gyanújának megállapításakor az érintett állomány immunizálását a járványtani helyzettől (klinikai képtől, betegség okozta kártétel nagyságától stb.) függően a járási hivatal rendeli el. A veszélyeztetett, fogékony állomány immunizálásáról – esetenkénti elbírálás alapján – a járási hivatal dönt;
 
 c) a zárlat tartama alatt elhullott állatokat össze kell gyűjteni és ártalmatlanná kell tenni.
 
@@ -3146,9 +3146,9 @@ A zárlat enyhítése
 
 a) a tenyésztésből ki kell vonni, ha ez nem történik meg,
 
-b)[^455] a klinikailag egészséges és vakcinázott, vagy e betegséget átvészelt törzsállománytól, a vakcinázást vagy az utolsó elhullást követő négy hét múlva gyűjtött tojások, a járási hivatal egyedi engedélyével és hatósági állatorvosi ellenőrzés mellett, hatékony fertőtlenítőszerrel történő fertőtlenítés és azonosító jellel való megjelölésük után keltetésre kerülhetnek. A keltetőben más helyről származó kacsatojást vagy egyéb fogékony madárfajok tojásait a fertőzött állománytól származókkal együtt keltetni tilos. A tojásokat kétszer lámpázni kell, és az elhalt embriót tartalmazó tojásokat el kell távolítani. A keltetői hulladékot a kórokozó széthurcolásának megakadályozása érdekében ártalmatlanná kell tenni. A kikelt naposállatokat a levágásig izoláltan kell felnevelni.
+b)[^456] a klinikailag egészséges és vakcinázott, vagy e betegséget átvészelt törzsállománytól, a vakcinázást vagy az utolsó elhullást követő négy hét múlva gyűjtött tojások, a járási hivatal egyedi engedélyével és hatósági állatorvosi ellenőrzés mellett, hatékony fertőtlenítőszerrel történő fertőtlenítés és azonosító jellel való megjelölésük után keltetésre kerülhetnek. A keltetőben más helyről származó kacsatojást vagy egyéb fogékony madárfajok tojásait a fertőzött állománytól származókkal együtt keltetni tilos. A tojásokat kétszer lámpázni kell, és az elhalt embriót tartalmazó tojásokat el kell távolítani. A keltetői hulladékot a kórokozó széthurcolásának megakadályozása érdekében ártalmatlanná kell tenni. A kikelt naposállatokat a levágásig izoláltan kell felnevelni.
 
-(3)[^456] A fertőzött és fertőzöttségre gyanús állomány – a klinikai tüneteket mutató állatok kivételével – azonnali levágás céljából vágóhídra szállítható. A szállítási engedélyt a járási hivatal adja. A feldolgozó helyet és a szállító járműveket szigorított módon fertőtleníteni kell.
+(3)[^457] A fertőzött és fertőzöttségre gyanús állomány – a klinikai tüneteket mutató állatok kivételével – azonnali levágás céljából vágóhídra szállítható. A szállítási engedélyt a járási hivatal adja. A feldolgozó helyet és a szállító járműveket szigorított módon fertőtleníteni kell.
 
 (4) A zsigerek és a tőkehús csak hőkezelt készítménybe feldolgozva kerülhetnek forgalomba, az egyéb részeket ártalmatlanná kell tenni.
 
@@ -3168,69 +3168,69 @@ b) a betegség klinikai tüneteit mutató állatok száma egy százalék alatt v
 
 A beteg, betegségre gyanús, a fertőzött és a fertőzöttségre gyanús, valamint a betegségtől (fertőzöttségtől) mentes sertés meghatározása
 
-539. §[^457]
+539. §[^458]
 
 A minősítés előkészítése, a sertésállományok minősítése
 
-540. §[^458]
+540. §[^459]
 
 A mentesség ellenőrzése, a minősítés felfüggesztése,
 
 illetve visszavonása
 
-541. §[^459]
+541. §[^460]
 
 A kislétszámú állományok minősítése
 
 az Aujeszky-féle betegség szempontjából
 
-542. §[^460]
+542. §[^461]
 
 A községek, városok, kerületek és megyék sertésállományának minősítése az Aujeszky-féle betegség szempontjából
 
-543. §[^461]
+543. §[^462]
 
 A települési önkormányzat jegyzőjének feladatai
 
-544. §[^462]
+544. §[^463]
 
 A hatósági állatorvos feladatai
 
-545. §[^463]
+545. §[^464]
 
 A kerületi főállatorvos feladatai
 
-546. §[^464]
+546. §[^465]
 
 Az állomás feladatai
 
-547. §[^465]
+547. §[^466]
 
 A helyi zárlat szabályai
 
-548. §[^466]
+548. §[^467]
 
 Védőoltás alkalmazása
 
 a betegség megállapítása esetén
 
-549. §[^467]
+549. §[^468]
 
 A beteg és betegségre gyanús sertés levágása
 
-550. §[^468]
+550. §[^469]
 
 A zárlat enyhítése
 
-551. §[^469]
+551. §[^470]
 
 A betegség megszűntté nyilvánítása
 
-552. §[^470]
+552. §[^471]
 
 Korlátozások a betegség megszűntté nyilvánítása után
 
-553. §[^471]
+553. §[^472]
 
 LÉPFENE
 
@@ -3284,11 +3284,11 @@ c) a szállítmányhoz tartozó állatok származási helye szerint illetékes h
 
 (3) A betegség hatósági megállapítását követően az újabb boncolást lehetőleg mellőzni kell.
 
-## 558. §[^472] A hatósági állatorvos köteles a lépfene megállapításáról és a leküzdése érdekében tett intézkedésekről a járási hivatalnak részletes jelentés tenni.
+## 558. §[^473] A hatósági állatorvos köteles a lépfene megállapításáról és a leküzdése érdekében tett intézkedésekről a járási hivatalnak részletes jelentés tenni.
 
-A járási hivatal feladata[^473]
+A járási hivatal feladata[^474]
 
-## 559. §[^474] Ha a járási hivatal a hatósági állatorvos bejelentéséből a betegségnek olyan községben vagy területen történt jelentkezéséről értesül, ahol az addig még nem fordult elő, köteles a fertőzési forrás felderítése céljából helyszíni vizsgálatot végezni.
+## 559. §[^475] Ha a járási hivatal a hatósági állatorvos bejelentéséből a betegségnek olyan községben vagy területen történt jelentkezéséről értesül, ahol az addig még nem fordult elő, köteles a fertőzési forrás felderítése céljából helyszíni vizsgálatot végezni.
 
 A nyers termékek felhasználásának
 
@@ -3324,7 +3324,7 @@ A helyi zárlat enyhítése
 
 563. § (1) Helyi zárlat alatt lévő helyre a hatósági állatorvos engedélyével be lehet vinni baromfit, továbbá olyan szarvasmarhát, bivalyt, juhot, kecskét, sertés és lovat, amelyet a bevitel előtt legalább két héttel, de hat hónapnál nem régebben részesítettek lépfene elleni vakcinás oltásban.
 
-(2)[^475] Helyi zárlat alatt álló helyről továbbtartás vagy munkavégzés céljából, kedvező eredményű hatósági állatorvosi helyszíni vizsgálat után, a járási hivatal engedélyével szabad kivinni fertőzöttségre gyanús olyan állatot, amelyet lépfene elleni vakcinával hat hónapnál nem régebben, de legalább két héttel korábban igazoltan beoltottak. A kivitel lábon hajtva is történhet.
+(2)[^476] Helyi zárlat alatt álló helyről továbbtartás vagy munkavégzés céljából, kedvező eredményű hatósági állatorvosi helyszíni vizsgálat után, a járási hivatal engedélyével szabad kivinni fertőzöttségre gyanús olyan állatot, amelyet lépfene elleni vakcinával hat hónapnál nem régebben, de legalább két héttel korábban igazoltan beoltottak. A kivitel lábon hajtva is történhet.
 
 (3) A be- és kivitel tekintetében egyébként a 123. és 124. §-okban foglaltak az irányadók.
 
@@ -3354,7 +3354,7 @@ b) azt a községet, gazdaságot és udvart, amelyben a terület egy része lép
 
 c) mindazokat a területeket, ahol a fellelhető adatok szerint gyepmesteri telep vagy hullagödör volt.
 
-(2)[^476] A lépfenével fertőzött területek, községek és udvarok nyilvántartása, valamint a megelőző vakcinázási eljárások kerületenkénti meghatározása a járási hivatal feladata. A fertőzöttség megállapításánál alapul kell venni az előző években előfordult lépfenés megbetegedéseket, és mindazokat a vizsgálati eredményeket, amelyek a betegség eredetére vonatkoznak.
+(2)[^477] A lépfenével fertőzött területek, községek és udvarok nyilvántartása, valamint a megelőző vakcinázási eljárások kerületenkénti meghatározása a járási hivatal feladata. A fertőzöttség megállapításánál alapul kell venni az előző években előfordult lépfenés megbetegedéseket, és mindazokat a vizsgálati eredményeket, amelyek a betegség eredetére vonatkoznak.
 
 A fertőzési források ártalmatlanná tétele
 
@@ -3502,45 +3502,45 @@ Közegészségügyi szabályok
 
 (2) A hatósági állatorvos köteles kioktatni a rühösségben beteg vagy betegségre gyanús állat gondozóját, az állattartót, valamint az ilyen állatok nyírásával, gyógykezelésével, levágásával, ilyen állatok hulláinak lebőrözésével foglalkozó személyeket, hogy az állatok rühössége az emberre is átterjedhet, s ennek megakadályozása érdekében az ilyen állattal, annak hullájával vagy nyers termékeivel való érintkezés után, a helyszínről való távozás előtt, a ruházatot alaposan meg kell tisztítani, a kezet pedig meg kell mosni. A tisztálkodás feltételeit az állatok tulajdonosának, tartójának kell megteremtenie.
 
-577–587. §[^477]
+577–587. §[^478]
 
-588. §[^478]
+588. §[^479]
 
-589. §[^479]
+589. §[^480]
 
-590. §[^480]
+590. §[^481]
 
-591. §[^481]
+591. §[^482]
 
-592. §[^482]
+592. §[^483]
 
-593. §[^483]
+593. §[^484]
 
-594. §[^484]
+594. §[^485]
 
-595. §[^485]
+595. §[^486]
 
-596. §[^486]
+596. §[^487]
 
-597. §[^487]
+597. §[^488]
 
-598. §[^488]
+598. §[^489]
 
-599. §[^489]
+599. §[^490]
 
-600. §[^490]
+600. §[^491]
 
-601. §[^491]
+601. §[^492]
 
-602. §[^492]
+602. §[^493]
 
-603. §[^493]
+603. §[^494]
 
-604. §[^494]
+604. §[^495]
 
-605. §[^495]
+605. §[^496]
 
-606. §[^496]
+606. §[^497]
 
 BEJELENTÉSI KÖTELEZETTSÉG ALÁ TARTOZÓ,
 
@@ -3566,7 +3566,7 @@ g) lovak vírus okozta agy-, gerincvelő gyulladásai.
 
 (2) Indokolt esetben a minisztérium a 607. §-ban felsorolt betegségekre vonatkozóan, a keleti marhavészre előírt intézkedéseken túl egyéb, az egyes betegségeknek megfelelő specifikus szabályok alkalmazását is elrendelheti.
 
-(3)[^497] A 607. §-ban szereplő egzotikus fertőző betegségek tekintetében bárminemű diagnosztikai vizsgálatot – ideértve az export és import célból végzett laboratóriumi vizsgálatokat is – kizárólag a NÉBIH végezhet.
+(3)[^498] A 607. §-ban szereplő egzotikus fertőző betegségek tekintetében bárminemű diagnosztikai vizsgálatot – ideértve az export és import célból végzett laboratóriumi vizsgálatokat is – kizárólag a NÉBIH végezhet.
 
 III. Fejezet
 
@@ -3594,15 +3594,15 @@ Az állategészségügyi szolgálat részletes feladatai
 
 a) a betegség megállapítása a hatósági állatorvos feladata; a hatósági állatorvos köteles a beteg, betegségre és fertőzöttségre gyanús állat tartási helyén helyi zárlatot és forgalmi korlátozást elrendelni; a helyi zárlat alatt álló területen levő nyulak egészségi állapotát a mixomatózis elleni kötelező oltás elrendelésével egyidejűleg megvizsgál(tat)ni;
 
-b)[^498] a járási hivatal köteles a hatósági állatorvos intézkedéseit felülvizsgálni; a beteg állatok leöletéséről intézkedni; községi zárlatot elrendelni;
+b)[^499] a járási hivatal köteles a hatósági állatorvos intézkedéseit felülvizsgálni; a beteg állatok leöletéséről intézkedni; községi zárlatot elrendelni;
 
-c)[^499] a megyei kormányhivatal feladata a zárlat alatt álló község nyulainak oltásához vagy állategészségügyi vizsgálatához állatorvosokat kirendelni.
+c)[^500] a megyei kormányhivatal feladata a zárlat alatt álló község nyulainak oltásához vagy állategészségügyi vizsgálatához állatorvosokat kirendelni.
 
 A beteg állattal való eljárás
 
 612. § (1) A beteg állatokat – állami kártalanítás nélkül – ki kell irtani.
 
-(2)[^500] A betegség tüneteit nem kifejezetten mutató állatok vakcinázása – a járási hivatal engedélyével – megkísérelhető.
+(2)[^501] A betegség tüneteit nem kifejezetten mutató állatok vakcinázása – a járási hivatal engedélyével – megkísérelhető.
 
 Kötelező védőoltás
 
@@ -3634,7 +3634,7 @@ b) a helyi zárlat alatt álló udvarból, ahol az oltással egyidejűleg a nyul
 
 (2) Továbbtartásra szállítás szabályai:
 
-a)[^501] fertőzött község nem fertőzött udvarából indokolt esetben oltott, egészséges nyúl elszállítását a hatósági állatorvos – a járási hivatal hozzájárulásával – az állomány oltásának befejezésétől számított tizenötödik naptól engedélyezheti;
+a)[^502] fertőzött község nem fertőzött udvarából indokolt esetben oltott, egészséges nyúl elszállítását a hatósági állatorvos – a járási hivatal hozzájárulásával – az állomány oltásának befejezésétől számított tizenötödik naptól engedélyezheti;
 
 b) fertőzött udvarból továbbtartásra házinyúl a helyi zárlat feloldásáig nem szállítható;
 
@@ -3648,11 +3648,11 @@ A betegség megszűntté nyilvánítása
 
 (3) A községi zárlatot akkor kell feloldani, ha a községben már nincs helyi zárlat alatt álló udvar, és az utolsó zárlat feloldását követő tizenöt nap alatt újabb megbetegedés nem fordult elő.
 
-617. §[^502]
+617. §[^503]
 
-618. §[^503]
+618. §[^504]
 
-619. §[^504]
+619. §[^505]
 
 BAROMFIKOLERA
 
@@ -3698,7 +3698,7 @@ Forgalmi korlátozás
 
 (4) Mivel a fertőzött állományban életük végéig baktériumhordozó állatok maradnak, azok forgalmi korlátozását feloldani nem szabad, oda újabb állatok nem állíthatók be.
 
-(5)[^505] Az eredményesen gyógykezelt, klinikai tüneteket nem mutató, a kezelő állatorvos által gyógyultnak minősített állományok tömésre – az állattartó kérésére – az illetékes járási hivatal hozzájárulásával kihelyezhetők, de erről az illetékes hatósági állatorvost értesíteni kell.
+(5)[^506] Az eredményesen gyógykezelt, klinikai tüneteket nem mutató, a kezelő állatorvos által gyógyultnak minősített állományok tömésre – az állattartó kérésére – az illetékes járási hivatal hozzájárulásával kihelyezhetők, de erről az illetékes hatósági állatorvost értesíteni kell.
 
 (6) A több csoportban elhelyezett, egymással közvetlenül nem érintkező baromfi közül a betegség megállapítása után a beteg vagy betegségre gyanús csoportot azonnal el kell távolítani és úgy elhelyezni, hogy a betegséget ne terjeszthesse.
 
@@ -3804,7 +3804,7 @@ h) vadon élő állatok: Trichinella lárva;
 
 i) méh: Varroa-atka, Acarapis woodi (légcső-atka).
 
-(2)[^506] A jelentős parazitózisok körét országos szinten a minisztérium, a megye vagy annak része vonatkozásában a megyei kormányhivatal is bővítheti.
+(2)[^507] A jelentős parazitózisok körét országos szinten a minisztérium, a megye vagy annak része vonatkozásában a megyei kormányhivatal is bővítheti.
 
 (3) Az (1)–(2) bekezdésekben felsorolt parazitózisok ellen szervezett védekezést kell folytatni.
 
@@ -3836,7 +3836,7 @@ A parazitózisok elleni védekezés módja
 
 (2) Paraziták okozta állománymegbetegedést a kezelő állatorvos köteles soron kívül jelenteni a hatósági állatorvosnak.
 
-(3)[^507] A hatósági állatorvos a paraziták okozta állomány-megbetegedést soron kívül köteles jelenteni a járási főállatorvosnak és a járási hivatalnak.
+(3)[^508] A hatósági állatorvos a paraziták okozta állomány-megbetegedést soron kívül köteles jelenteni a járási főállatorvosnak és a járási hivatalnak.
 
 ## 633. § Amennyiben az állattartók állatukon paraziták okozta megbetegedést vagy súlyos fertőzöttséget (időszakos féregürülés stb.) észlelnek, ennek tényét kötelesek az állatorvosnak bejelenteni, és a 629. § (1) bekezdésének a)–i) pontjában felsorolt esetekben az előírt gyógykezelést haladéktalanul végrehajtani.
 
@@ -3846,17 +3846,17 @@ Az állatorvos feladatai
 
 a) a kezelő állatorvos a hatósági állatorvosnak;
 
-b)[^508] a hatósági állatorvos a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalának
+b)[^509] a hatósági állatorvos a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalának
 
 köteles haladéktalanul bejelenteni.
 
-A járási hivatal feladata[^509]
+A járási hivatal feladata[^510]
 
-## 635. §[^510] A járási hivatal köteles az illetékességi területén a parazitózisok elleni védekezést szervezni és összehangolni.
+## 635. §[^511] A járási hivatal köteles az illetékességi területén a parazitózisok elleni védekezést szervezni és összehangolni.
 
-A megyei kormányhivatal feladatai[^511]
+A megyei kormányhivatal feladatai[^512]
 
-## 636. §[^512] A megyei kormányhivatal feladatai:
+## 636. §[^513] A megyei kormányhivatal feladatai:
 
 a) indokolt esetben a parazitózisok megelőzésére irányuló védekezést szervezni, irányítani;
 
@@ -3864,9 +3864,9 @@ b) az állatállományokra indokolt esetben előírt vizsgálatok és beavatkoz�
 
 c) a várható parazitózisok fellépésének veszélye esetén a szükséges intézkedéseket megtenni;
 
-d)[^513] a borsókakór megállapítása esetén a fertőzött személy felkutatásában a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalát hatékonyan segíteni;
+d)[^514] a borsókakór megállapítása esetén a fertőzött személy felkutatásában a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalát hatékonyan segíteni;
 
-e)[^514] a járási hivatalok paraziták elleni védekezéssel kapcsolatos munkáját irányítani és ellenőrizni.
+e)[^515] a járási hivatalok paraziták elleni védekezéssel kapcsolatos munkáját irányítani és ellenőrizni.
 
 A jelentős parazitózisok elleni védekezés
 
@@ -3904,19 +3904,19 @@ III. Emlősök galandférgei elleni védekezés szabályai
 
 639. § (1) A pásztorebeket évente két alkalommal, márciusban és a legeltetés megkezdése előtt, galandférgek ellen hatékony készítménnyel kezelni kell.
 
-(2)[^515] Indokolt esetben a járási hivatal elrendelheti a galandférgekkel fertőzött terület ebeinek a tulajdonos költségére történő gyógyszeres kezelését.
+(2)[^516] Indokolt esetben a járási hivatal elrendelheti a galandférgekkel fertőzött terület ebeinek a tulajdonos költségére történő gyógyszeres kezelését.
 
 (3) Állatvágások során a hólyagféreg lárvákkal fertőzött szerveket vagy szervrészeket össze kell gyűjteni, és meg kell semmisíteni.
 
 IV. Trichinellózis
 
-## 640. §[^516] A fertőzöttnek talált állat fertőződési körülményeit a járási hivatal köteles vizsgálni. Amennyiben egy állományban a trichinellózist megállapították,
+## 640. §[^517] A fertőzöttnek talált állat fertőződési körülményeit a járási hivatal köteles vizsgálni. Amennyiben egy állományban a trichinellózist megállapították,
 
 a) az állományt forgalmi korlátozás alá kell vonni;
 
-b)[^517] ember trichinellás megbetegedése esetén a fertőzési forrás megkeresése – a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal bevonásával – a járási hivatal feladata;
+b)[^518] ember trichinellás megbetegedése esetén a fertőzési forrás megkeresése – a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal bevonásával – a járási hivatal feladata;
 
-c)[^518] trichinellózis megállapításáról a járási hivatal köteles haladéktalanul értesíteni a minisztériumot, és az illetékes népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalát.
+c)[^519] trichinellózis megállapításáról a járási hivatal köteles haladéktalanul értesíteni a minisztériumot, és az illetékes népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalát.
 
 V. Rühatka
 
@@ -3944,7 +3944,7 @@ VIII. Varroa-atka
 
 (Ázsiai nagy méhatka)
 
-644. §[^519]
+644. §[^520]
 
 IX. Mézelő méhek légcsőatka-kórja
 
@@ -3952,43 +3952,43 @@ IX. Mézelő méhek légcsőatka-kórja
 
 A beteg, betegségre gyanús és fertőzöttségre gyanús méhcsalád meghatározása
 
-645. §[^520]
+645. §[^521]
 
 Az állategészségügyi szolgálat részletes feladatai
 
-646. §[^521]
+646. §[^522]
 
 Zárlati intézkedések
 
-647. §[^522]
+647. §[^523]
 
 Eljárás méhcsaládokkal, méhlakásokkal atkakór megállapítása esetén
 
-648. §[^523]
+648. §[^524]
 
 A zárlat enyhítése
 
-649. §[^524]
+649. §[^525]
 
 A zárlat feloldása és a betegség megszűntté nyilvánítása
 
-650. §[^525]
+650. §[^526]
 
-651. §[^526]
+651. §[^527]
 
 IX. Borsókakór
 
-652. § (1)[^527] A húst vizsgáló állatorvos köteles a szarvasmarha borsóka megállapítását a járási hivatalnak haladéktalanul jelenteni. A jelentésnek tartalmaznia kell a borsókás állatok azonosítási adatait is.
+652. § (1)[^528] A húst vizsgáló állatorvos köteles a szarvasmarha borsóka megállapítását a járási hivatalnak haladéktalanul jelenteni. A jelentésnek tartalmaznia kell a borsókás állatok azonosítási adatait is.
 
-(2)[^528] A járási hivatal a szarvasmarha borsóka megállapítását köteles az illetékes népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatallal és a minisztériummal közölni.
+(2)[^529] A járási hivatal a szarvasmarha borsóka megállapítását köteles az illetékes népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatallal és a minisztériummal közölni.
 
 (3) Sertés borsóka megállapítása esetén az (1)–(2) bekezdésben meghatározott módon kell eljárni.
 
-(4)[^529] Ismétlődő fertőzöttség esetén az illetékes járási hivatal köteles – a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal bevonásával – a fertőzött helyen szemlét tartani, és a védekezés módját a szemle eredményétől függően meghatározni.
+(4)[^530] Ismétlődő fertőzöttség esetén az illetékes járási hivatal köteles – a népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatal bevonásával – a fertőzött helyen szemlét tartani, és a védekezés módját a szemle eredményétől függően meghatározni.
 
-653. §[^530]
+653. §[^531]
 
-MÁSODIK RÉSZ[^531]
+MÁSODIK RÉSZ[^532]
 
 654. §
 
@@ -4264,27 +4264,27 @@ MÁSODIK RÉSZ[^531]
 
 792. §
 
-HARMADIK RÉSZ[^532]
+HARMADIK RÉSZ[^533]
 
-793. §[^533]
+793. §[^534]
 
-794. §[^534]
+794. §[^535]
 
-795. §[^535]
+795. §[^536]
 
-796. §[^536]
+796. §[^537]
 
-797. §[^537]
+797. §[^538]
 
-798. §[^538]
+798. §[^539]
 
-799. §[^539]
+799. §[^540]
 
-800. §[^540]
+800. §[^541]
 
-801. §[^541]
+801. §[^542]
 
-802. §[^542]
+802. §[^543]
 
 ## 1. számú függelék
 
@@ -4300,7 +4300,7 @@ A Szabályzat alkalmazásában:
 
 3. állattartó telep: az állattartó épületeken kívül az állattartás egyéb létesítményei is megtalálhatók;
 
-4.[^543] nagy létszámú állattartó telep: olyan állattartó telep, amelyen az elhelyezhető állatok száma állatfajonként legalább
+4.[^544] nagy létszámú állattartó telep: olyan állattartó telep, amelyen az elhelyezhető állatok száma állatfajonként legalább
 
 – harminc ló, vagy
 
@@ -4322,7 +4322,7 @@ A Szabályzat alkalmazásában:
 
 5. kislétszámú állattartó telep: amelyben a 4. pontban meghatározott számú állatnál kevesebb helyezhető el. E telep állhat egyetlen állattartó épületből is;
 
-6.[^544] nagylétszámú állattartó telep
+6.[^545] nagylétszámú állattartó telep
 
 – állattartó épülete: a telep tenyész- vagy haszonállat istállója, ellető-, nevelő-, betegelkülönítő istállója, illetve karantén épülete;
 
@@ -4546,39 +4546,39 @@ A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építm�
 [^179]: Az 1. számú melléklet 196. § (1) bekezdése a 97/2005. (X. 28.) FVM rendelet 6. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 7. § 2. és 5. pontja szerint módosított szöveg.
 [^180]: Az 1. számú melléklet 196. § (3) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
 [^181]: Az 1. számú melléklet 197. § (4) bekezdését a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^182]: Az 1. számú melléklet 199. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 37. pontja szerint módosított szöveg.
-[^183]: Az 1. számú melléklet 200. §-a a 42/2017. (VIII. 17.) FM rendelet 6. §-ával megállapított szöveg.
-[^184]: Az 1. számú melléklet 203. § (1) bekezdése a 12/2008. (II. 14.) FVM rendelet 19. §-ával megállapított szöveg.
-[^185]: Az 1. számú melléklet 203. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. és 3. pontja szerint módosított szöveg.
-[^186]: Az 1. számú melléklet 205. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^187]: Az 1. számú melléklet 205. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^188]: Az 1. számú melléklet 138. § (4) bekezdése a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
-[^189]: Az 1. számú melléklet 208. § (2) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
-[^190]: Az 1. számú melléklet 208. § (3) bekezdését a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
-[^191]: Az 1. számú melléklet 208. § (4) bekezdése a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^192]: Az 1. számú melléklet 208. § (5) bekezdését a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
-[^193]: Az 1. számú melléklet 209. § (1) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
-[^194]: Az 1. számú melléklet 209. § (2) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
-[^195]: Az 1. számú melléklet 211. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^196]: Az 1. számú melléklet 211. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 14. pontja szerint módosított szöveg.
-[^197]: Az 1. számú melléklet 211. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
-[^198]: Az 1. számú melléklet 212–216. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^182]: Az 1. számú melléklet 198. § (1) bekezdését az 56/2019. (XII. 12.) AM rendelet 29. § b) pontja hatályon kívül helyezte.
+[^183]: Az 1. számú melléklet 199. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 37. pontja szerint módosított szöveg.
+[^184]: Az 1. számú melléklet 200. §-a a 42/2017. (VIII. 17.) FM rendelet 6. §-ával megállapított szöveg.
+[^185]: Az 1. számú melléklet 203. § (1) bekezdése a 12/2008. (II. 14.) FVM rendelet 19. §-ával megállapított szöveg.
+[^186]: Az 1. számú melléklet 203. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. és 3. pontja szerint módosított szöveg.
+[^187]: Az 1. számú melléklet 205. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^188]: Az 1. számú melléklet 205. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^189]: Az 1. számú melléklet 138. § (4) bekezdése a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^190]: Az 1. számú melléklet 208. § (2) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^191]: Az 1. számú melléklet 208. § (3) bekezdését a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^192]: Az 1. számú melléklet 208. § (4) bekezdése a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^193]: Az 1. számú melléklet 208. § (5) bekezdését a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^194]: Az 1. számú melléklet 209. § (1) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^195]: Az 1. számú melléklet 209. § (2) bekezdéséből a „PRRS” szövegrészt a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^196]: Az 1. számú melléklet 211. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^197]: Az 1. számú melléklet 211. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 14. pontja szerint módosított szöveg.
+[^198]: Az 1. számú melléklet 211. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
 [^199]: Az 1. számú melléklet 212–216. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
 [^200]: Az 1. számú melléklet 212–216. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
 [^201]: Az 1. számú melléklet 212–216. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
 [^202]: Az 1. számú melléklet 212–216. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^203]: A melléklet 217. § (1)–(4) bekezdését a 141/2009. (X. 29.) FVM rendelet 14. § (4) bekezdése hatályon kívül helyezte.
-[^204]: Az 1. számú melléklet 219. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^205]: Az 1. számú melléklet 220. § (8) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
-[^206]: Az 1. számú melléklet 223–225. §-ait és azok alcímeit a 61/2002. (VIII. 1.) FVM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
-[^207]: Az 1. számú melléklet 226–231. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^203]: Az 1. számú melléklet 212–216. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^204]: A melléklet 217. § (1)–(4) bekezdését a 141/2009. (X. 29.) FVM rendelet 14. § (4) bekezdése hatályon kívül helyezte.
+[^205]: Az 1. számú melléklet 219. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^206]: Az 1. számú melléklet 220. § (8) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^207]: Az 1. számú melléklet 223–225. §-ait és azok alcímeit a 61/2002. (VIII. 1.) FVM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
 [^208]: Az 1. számú melléklet 226–231. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
 [^209]: Az 1. számú melléklet 226–231. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
 [^210]: Az 1. számú melléklet 226–231. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
 [^211]: Az 1. számú melléklet 226–231. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
 [^212]: Az 1. számú melléklet 226–231. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^213]: Az 1. számú melléklet 232. §-át és alcímét a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
-[^214]: Az 1. számú melléklet 233–263. §-át és címét a 71/2002. (VIII. 15.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
+[^213]: Az 1. számú melléklet 226–231. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^214]: Az 1. számú melléklet 232. §-át és alcímét a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
 [^215]: Az 1. számú melléklet 233–263. §-át és címét a 71/2002. (VIII. 15.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
 [^216]: Az 1. számú melléklet 233–263. §-át és címét a 71/2002. (VIII. 15.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
 [^217]: Az 1. számú melléklet 233–263. §-át és címét a 71/2002. (VIII. 15.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
@@ -4609,7 +4609,7 @@ A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építm�
 [^242]: Az 1. számú melléklet 233–263. §-át és címét a 71/2002. (VIII. 15.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
 [^243]: Az 1. számú melléklet 233–263. §-át és címét a 71/2002. (VIII. 15.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
 [^244]: Az 1. számú melléklet 233–263. §-át és címét a 71/2002. (VIII. 15.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
-[^245]: Az 1. számú melléklet 264–281. §-át a 14/2003. (II. 14.) FVM rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte.
+[^245]: Az 1. számú melléklet 233–263. §-át és címét a 71/2002. (VIII. 15.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
 [^246]: Az 1. számú melléklet 264–281. §-át a 14/2003. (II. 14.) FVM rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte.
 [^247]: Az 1. számú melléklet 264–281. §-át a 14/2003. (II. 14.) FVM rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte.
 [^248]: Az 1. számú melléklet 264–281. §-át a 14/2003. (II. 14.) FVM rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte.
@@ -4627,43 +4627,43 @@ A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építm�
 [^260]: Az 1. számú melléklet 264–281. §-át a 14/2003. (II. 14.) FVM rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte.
 [^261]: Az 1. számú melléklet 264–281. §-át a 14/2003. (II. 14.) FVM rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte.
 [^262]: Az 1. számú melléklet 264–281. §-át a 14/2003. (II. 14.) FVM rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte.
-[^263]: Az 1. számú melléklet 285. §-át megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^264]: Az 1. számú melléklet 285. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^265]: Az 1. számú melléklet 285. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 20. pontja szerint módosított szöveg.
-[^266]: Az 1. számú melléklet 285. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^267]: Az 1. számú melléklet 286. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^268]: Az 1. számú melléklet 286. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^269]: Az 1. számú melléklet 286. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^270]: Az 1. számú melléklet 286. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 38. pontja szerint módosított szöveg.
-[^271]: Az 1. számú melléklet 288. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 33. pontja szerint módosított szöveg.
-[^272]: Az 1. számú melléklet 288. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 28. pontja szerint módosított szöveg.
-[^273]: Az 1. számú melléklet 288. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 21. pontja szerint módosított szöveg.
-[^274]: Az 1. számú melléklet 290. § (2) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^275]: Az 1. számú melléklet 291. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^276]: Az 1. számú melléklet 296. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^277]: Az 1. számú melléklet 296. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^278]: Az 1. számú melléklet 301. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 22. pontja szerint módosított szöveg.
-[^279]: Az 1. számú melléklet 302. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^280]: Az 1. számú melléklet 302. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^281]: Az 1. számú melléklet 302. § a) pontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 35. pontja szerint módosított szöveg.
-[^282]: Az 1. számú melléklet 302. § e) pontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 36. pontja szerint módosított szöveg.
-[^283]: Az 1. számú melléklet 303. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^284]: Az 1. számú melléklet 303. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^285]: Az 1. számú melléklet 303. § (1) bekedés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^286]: Az 1. számú melléklet 303. § (1) bekedés e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 39. pontja szerint módosított szöveg.
-[^287]: Az 1. számú melléklet 303. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^288]: Az 1. számú melléklet 315. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^289]: Az 1. számú melléklet 316. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^290]: Az 1. számú melléklet 316. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^291]: Az 1. számú melléklet 318. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^292]: Az 1. számú melléklet 318. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^293]: Az 1. számú melléklet 320. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
-[^294]: Az 1. számú melléklet 321. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^295]: Az 1. számú melléklet 324. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^296]: Az 1. számú melléklet 327. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^297]: Az 1. számú melléklet 327. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^298]: Az 1. számú melléklet 327. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^299]: Az 1. számú melléklet 329–366. §-át és az „Afrikai sertéspestis”, valamint a „Klasszikus sertéspestis” címeket hatályon kívül helyezte a 75/2002. (VIII. 16.) FVM rendelet 31. § (1) bekezdése.
+[^263]: Az 1. számú melléklet 264–281. §-át a 14/2003. (II. 14.) FVM rendelet 34. §-ának (1) bekezdése hatályon kívül helyezte.
+[^264]: Az 1. számú melléklet 285. §-át megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^265]: Az 1. számú melléklet 285. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^266]: Az 1. számú melléklet 285. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 20. pontja szerint módosított szöveg.
+[^267]: Az 1. számú melléklet 285. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^268]: Az 1. számú melléklet 286. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^269]: Az 1. számú melléklet 286. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^270]: Az 1. számú melléklet 286. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^271]: Az 1. számú melléklet 286. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 38. pontja szerint módosított szöveg.
+[^272]: Az 1. számú melléklet 288. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 33. pontja szerint módosított szöveg.
+[^273]: Az 1. számú melléklet 288. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 28. pontja szerint módosított szöveg.
+[^274]: Az 1. számú melléklet 288. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 21. pontja szerint módosított szöveg.
+[^275]: Az 1. számú melléklet 290. § (2) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^276]: Az 1. számú melléklet 291. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^277]: Az 1. számú melléklet 296. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^278]: Az 1. számú melléklet 296. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^279]: Az 1. számú melléklet 301. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 22. pontja szerint módosított szöveg.
+[^280]: Az 1. számú melléklet 302. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^281]: Az 1. számú melléklet 302. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^282]: Az 1. számú melléklet 302. § a) pontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 35. pontja szerint módosított szöveg.
+[^283]: Az 1. számú melléklet 302. § e) pontja a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 36. pontja szerint módosított szöveg.
+[^284]: Az 1. számú melléklet 303. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^285]: Az 1. számú melléklet 303. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^286]: Az 1. számú melléklet 303. § (1) bekedés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^287]: Az 1. számú melléklet 303. § (1) bekedés e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 39. pontja szerint módosított szöveg.
+[^288]: Az 1. számú melléklet 303. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^289]: Az 1. számú melléklet 315. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^290]: Az 1. számú melléklet 316. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^291]: Az 1. számú melléklet 316. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^292]: Az 1. számú melléklet 318. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^293]: Az 1. számú melléklet 318. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^294]: Az 1. számú melléklet 320. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
+[^295]: Az 1. számú melléklet 321. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^296]: Az 1. számú melléklet 324. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^297]: Az 1. számú melléklet 327. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^298]: Az 1. számú melléklet 327. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^299]: Az 1. számú melléklet 327. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
 [^300]: Az 1. számú melléklet 329–366. §-át és az „Afrikai sertéspestis”, valamint a „Klasszikus sertéspestis” címeket hatályon kívül helyezte a 75/2002. (VIII. 16.) FVM rendelet 31. § (1) bekezdése.
 [^301]: Az 1. számú melléklet 329–366. §-át és az „Afrikai sertéspestis”, valamint a „Klasszikus sertéspestis” címeket hatályon kívül helyezte a 75/2002. (VIII. 16.) FVM rendelet 31. § (1) bekezdése.
 [^302]: Az 1. számú melléklet 329–366. §-át és az „Afrikai sertéspestis”, valamint a „Klasszikus sertéspestis” címeket hatályon kívül helyezte a 75/2002. (VIII. 16.) FVM rendelet 31. § (1) bekezdése.
@@ -4701,89 +4701,89 @@ A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építm�
 [^334]: Az 1. számú melléklet 329–366. §-át és az „Afrikai sertéspestis”, valamint a „Klasszikus sertéspestis” címeket hatályon kívül helyezte a 75/2002. (VIII. 16.) FVM rendelet 31. § (1) bekezdése.
 [^335]: Az 1. számú melléklet 329–366. §-át és az „Afrikai sertéspestis”, valamint a „Klasszikus sertéspestis” címeket hatályon kívül helyezte a 75/2002. (VIII. 16.) FVM rendelet 31. § (1) bekezdése.
 [^336]: Az 1. számú melléklet 329–366. §-át és az „Afrikai sertéspestis”, valamint a „Klasszikus sertéspestis” címeket hatályon kívül helyezte a 75/2002. (VIII. 16.) FVM rendelet 31. § (1) bekezdése.
-[^337]: Az Állategészségügyi Szabályzat ,,Madárinfluenza (klasszikus baromfipestis)'' fejezet 367–376. §-át a 44/2002. (V. 17.) FVM rendelet 22. § (1) bekezdése hatályon kívül helyezte.
-[^338]: Az Állategészségügyi Szabályzat ,,Baromfipestis (Newcastle Disease)'' fejezet 377–387. §-át a 44/2002. (V. 17.) FVM rendelet 22. § (1) bekezdése hatályon kívül helyezte.
-[^339]: A 388–400. §-t a 65/2002. (VIII. 9.) FVM rendelet 20. §-ának (2) bekezdése hatályon kívül helyezte.
-[^340]: Az 1. számú melléklet 404. §-át megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^341]: Az 1. számú melléklet 404. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^342]: Az 1. számú melléklet 404. § e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^343]: Az 1. számú melléklet 405. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^344]: Az 1. számú melléklet 405. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^345]: Az 1. számú melléklet 405. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^346]: Az 1. számú melléklet 407. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^347]: Az 1. számú melléklet 408. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^348]: Az 1. számú melléklet 409. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^349]: Az 1. számú melléklet 409. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 40. pontja szerint módosított szöveg.
-[^350]: Az 1. számú melléklet 411. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 6. §-ával megállapított szöveg.
-[^351]: Az 1. számú melléklet 412. § a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^352]: Az 1. számú melléklet 413. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^353]: Az 1. számú melléklet 413. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^354]: Az 1. számú melléklet 418. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^355]: Az 1. számú melléklet 419. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^356]: Az 1. számú melléklet 420–422. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^337]: Az 1. számú melléklet 329–366. §-át és az „Afrikai sertéspestis”, valamint a „Klasszikus sertéspestis” címeket hatályon kívül helyezte a 75/2002. (VIII. 16.) FVM rendelet 31. § (1) bekezdése.
+[^338]: Az Állategészségügyi Szabályzat ,,Madárinfluenza (klasszikus baromfipestis)'' fejezet 367–376. §-át a 44/2002. (V. 17.) FVM rendelet 22. § (1) bekezdése hatályon kívül helyezte.
+[^339]: Az Állategészségügyi Szabályzat ,,Baromfipestis (Newcastle Disease)'' fejezet 377–387. §-át a 44/2002. (V. 17.) FVM rendelet 22. § (1) bekezdése hatályon kívül helyezte.
+[^340]: A 388–400. §-t a 65/2002. (VIII. 9.) FVM rendelet 20. §-ának (2) bekezdése hatályon kívül helyezte.
+[^341]: Az 1. számú melléklet 404. §-át megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^342]: Az 1. számú melléklet 404. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^343]: Az 1. számú melléklet 404. § e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^344]: Az 1. számú melléklet 405. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^345]: Az 1. számú melléklet 405. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^346]: Az 1. számú melléklet 405. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^347]: Az 1. számú melléklet 407. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^348]: Az 1. számú melléklet 408. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^349]: Az 1. számú melléklet 409. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^350]: Az 1. számú melléklet 409. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 40. pontja szerint módosított szöveg.
+[^351]: Az 1. számú melléklet 411. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 6. §-ával megállapított szöveg.
+[^352]: Az 1. számú melléklet 412. § a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^353]: Az 1. számú melléklet 413. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^354]: Az 1. számú melléklet 413. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^355]: Az 1. számú melléklet 418. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^356]: Az 1. számú melléklet 419. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
 [^357]: Az 1. számú melléklet 420–422. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
 [^358]: Az 1. számú melléklet 420–422. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^359]: Az 1. számú melléklet 423. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^360]: Az 1. számú melléklet 424. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^361]: Az 1. számú melléklet 425. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^362]: Az 1. számú melléklet 426. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^363]: Az 1. számú melléklet 427. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^364]: Az 1. számú melléklet 428. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^365]: Az 1. számú melléklet 429. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^366]: Az 1. számú melléklet 430. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
-[^367]: Az 1. számú melléklet 432. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^368]: Az 1. számú melléklet 432. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 26. pontja szerint módosított szöveg.
-[^369]: Az 1. számú melléklet 434. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
-[^370]: Az 1. számú melléklet 435. § a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^371]: Az 1. számú melléklet 441. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^372]: Az 1. számú melléklet 441. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^373]: Az 1. számú melléklet 446. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^374]: Az 1. számú melléklet 446. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^375]: Az 1. számú melléklet 446. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^376]: Az 1. számú melléklet 452. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 41. pontja szerint módosított szöveg.
-[^377]: Az 1. számú melléklet 452. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 42. pontja szerint módosított szöveg.
-[^378]: Az 1. számú melléklet 453. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^379]: Az 1. számú melléklet 454. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
-[^380]: Az 1. számú melléklet 454. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^381]: Az 1. számú melléklet 457. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^382]: Az 1. számú melléklet 462. § (1) bekezdés a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^383]: Az 1. számú melléklet 466. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^384]: Az 1. számú melléklet 467. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^385]: Az 1. számú melléklet 468. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^386]: Az 1. számú melléklet 469. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^387]: Az 1. számú melléklet 469. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^388]: Az 1. számú melléklet 469. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 15. pontja szerint módosított szöveg.
-[^389]: Az 1. számú melléklet 469. § f) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 20. pontja szerint módosított szöveg.
-[^390]: Az 1. számú melléklet 470. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^391]: Az 1. számú melléklet 470. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^392]: Az 1. számú melléklet 472. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^393]: Az 1. számú melléklet 473. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
-[^394]: Az 1. számú melléklet 474. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 18. pontja szerint módosított szöveg.
-[^395]: Az 1. számú melléklet 475. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^396]: Az 1. számú melléklet 476. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^397]: Az 1. számú melléklet 477. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^398]: Az 1. számú melléklet 478. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^399]: Az 1. számú melléklet 479. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^400]: Az 1. számú melléklet 480. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^401]: Az 1. számú melléklet 481. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^402]: Az 1. számú melléklet 482. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^403]: Az 1. számú melléklet 483. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^404]: Az 1. számú melléklet 484. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^405]: Az 1. számú melléklet 485. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^406]: Az 1. számú melléklet 486. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^407]: Az 1. számú melléklet 487. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^408]: Az 1. számú melléklet 488. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^409]: Az 1. számú melléklet 489. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^410]: Az 1. számú melléklet 490. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^411]: Az 1. számú melléklet 491. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^412]: A 492–498. §-t a 69/2003. (VI. 25.) FVM rendelet 41. §-ának (4) bekezdése hatályon kívül helyezte.
+[^359]: Az 1. számú melléklet 420–422. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^360]: Az 1. számú melléklet 423. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^361]: Az 1. számú melléklet 424. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^362]: Az 1. számú melléklet 425. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^363]: Az 1. számú melléklet 426. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^364]: Az 1. számú melléklet 427. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^365]: Az 1. számú melléklet 428. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^366]: Az 1. számú melléklet 429. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^367]: Az 1. számú melléklet 430. §-át a 164/2008. (XII. 20.) FVM rendelet 23. § (4) bekezdésének b) pontja hatályon kívül helyezte. E módosító rendelet 23. § (3) bekezdése alapján a 2009. január 1-jét megelőzően kiállított, a módosító rendelet mellékletében leírtaktól eltérő adattartalmú oltási könyvek 2009. december 31-ig érvényesek. Amennyiben 2009. január 1-jét megelőzően kiállított oltási könyvvel rendelkező állat tulajdonosa 2009. december 31-ig megváltozik, vagy az oltási könyvet pótolni szükséges, a mellékletben meghatározott oltási könyvet kell kiállítani. 2010. január 1. után már csak a mellékletben leírtak szerinti oltási könyv használható.
+[^368]: Az 1. számú melléklet 432. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^369]: Az 1. számú melléklet 432. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 26. pontja szerint módosított szöveg.
+[^370]: Az 1. számú melléklet 434. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^371]: Az 1. számú melléklet 435. § a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^372]: Az 1. számú melléklet 441. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^373]: Az 1. számú melléklet 441. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^374]: Az 1. számú melléklet 446. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^375]: Az 1. számú melléklet 446. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^376]: Az 1. számú melléklet 446. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^377]: Az 1. számú melléklet 452. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 41. pontja szerint módosított szöveg.
+[^378]: Az 1. számú melléklet 452. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. és 42. pontja szerint módosított szöveg.
+[^379]: Az 1. számú melléklet 453. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^380]: Az 1. számú melléklet 454. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^381]: Az 1. számú melléklet 454. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^382]: Az 1. számú melléklet 457. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^383]: Az 1. számú melléklet 462. § (1) bekezdés a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^384]: Az 1. számú melléklet 466. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^385]: Az 1. számú melléklet 467. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^386]: Az 1. számú melléklet 468. § a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^387]: Az 1. számú melléklet 469. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^388]: Az 1. számú melléklet 469. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^389]: Az 1. számú melléklet 469. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 15. pontja szerint módosított szöveg.
+[^390]: Az 1. számú melléklet 469. § f) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 20. pontja szerint módosított szöveg.
+[^391]: Az 1. számú melléklet 470. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^392]: Az 1. számú melléklet 470. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^393]: Az 1. számú melléklet 472. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^394]: Az 1. számú melléklet 473. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^395]: Az 1. számú melléklet 474. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 18. pontja szerint módosított szöveg.
+[^396]: Az 1. számú melléklet 475. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^397]: Az 1. számú melléklet 476. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^398]: Az 1. számú melléklet 477. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^399]: Az 1. számú melléklet 478. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^400]: Az 1. számú melléklet 479. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^401]: Az 1. számú melléklet 480. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^402]: Az 1. számú melléklet 481. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^403]: Az 1. számú melléklet 482. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^404]: Az 1. számú melléklet 483. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^405]: Az 1. számú melléklet 484. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^406]: Az 1. számú melléklet 485. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^407]: Az 1. számú melléklet 486. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^408]: Az 1. számú melléklet 487. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^409]: Az 1. számú melléklet 488. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^410]: Az 1. számú melléklet 489. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^411]: Az 1. számú melléklet 490. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^412]: Az 1. számú melléklet 491. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
 [^413]: A 492–498. §-t a 69/2003. (VI. 25.) FVM rendelet 41. §-ának (4) bekezdése hatályon kívül helyezte.
 [^414]: A 492–498. §-t a 69/2003. (VI. 25.) FVM rendelet 41. §-ának (4) bekezdése hatályon kívül helyezte.
 [^415]: A 492–498. §-t a 69/2003. (VI. 25.) FVM rendelet 41. §-ának (4) bekezdése hatályon kívül helyezte.
 [^416]: A 492–498. §-t a 69/2003. (VI. 25.) FVM rendelet 41. §-ának (4) bekezdése hatályon kívül helyezte.
 [^417]: A 492–498. §-t a 69/2003. (VI. 25.) FVM rendelet 41. §-ának (4) bekezdése hatályon kívül helyezte.
 [^418]: A 492–498. §-t a 69/2003. (VI. 25.) FVM rendelet 41. §-ának (4) bekezdése hatályon kívül helyezte.
-[^419]: Az 1. számú melléklet „A sertés szaporító és légzőszervi tünetegyüttese (PRRS)” címet és az azt követő 499–513. §–okat a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^419]: A 492–498. §-t a 69/2003. (VI. 25.) FVM rendelet 41. §-ának (4) bekezdése hatályon kívül helyezte.
 [^420]: Az 1. számú melléklet „A sertés szaporító és légzőszervi tünetegyüttese (PRRS)” címet és az azt követő 499–513. §–okat a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
 [^421]: Az 1. számú melléklet „A sertés szaporító és légzőszervi tünetegyüttese (PRRS)” címet és az azt követő 499–513. §–okat a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
 [^422]: Az 1. számú melléklet „A sertés szaporító és légzőszervi tünetegyüttese (PRRS)” címet és az azt követő 499–513. §–okat a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
@@ -4798,51 +4798,51 @@ A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építm�
 [^431]: Az 1. számú melléklet „A sertés szaporító és légzőszervi tünetegyüttese (PRRS)” címet és az azt követő 499–513. §–okat a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
 [^432]: Az 1. számú melléklet „A sertés szaporító és légzőszervi tünetegyüttese (PRRS)” címet és az azt követő 499–513. §–okat a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
 [^433]: Az 1. számú melléklet „A sertés szaporító és légzőszervi tünetegyüttese (PRRS)” címet és az azt követő 499–513. §–okat a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
-[^434]: Az 1. számú melléklet 514. §-át és az azt megelőző Brucellózis címet a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^435]: Az 1. számú melléklet 515. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^436]: Az 1. számú melléklet 516. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^437]: Az 1. számú melléklet 517. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^438]: Az 1. számú melléklet 518. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^439]: Az 1. számú melléklet 519. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^440]: Az 1. számú melléklet 520. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^441]: Az 1. számú melléklet 521. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^442]: Az 1. számú melléklet 522. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^443]: Az 1. számú melléklet 523. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^444]: Az 1. számú melléklet 524. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^445]: Az 1. számú melléklet 525. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^446]: Az 1. számú melléklet 526. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^447]: Az 1. számú melléklet 527. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^448]: Az 1. számú melléklet 528. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^449]: Az 1. számú melléklet 529. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^450]: Az 1. számú melléklet 530. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^451]: Az 1. számú melléklet 531. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^452]: Az 1. számú melléklet 532. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^453]: Az 1. számú melléklet 535. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^454]: Az 1. számú melléklet 536. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 43. pontja szerint módosított szöveg.
-[^455]: Az 1. számú melléklet 537. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^456]: Az 1. számú melléklet 537. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^457]: Az 1. számú melléklet az Aujeszky-féle betegség (Pseudorabies, Aujeszky's diseases) fejezetcímét és 539. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^458]: Az 1. számú melléklet 540. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^459]: Az 1. számú melléklet 541. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^460]: Az 1. számú melléklet 542. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^461]: Az 1. számú melléklet 543. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^462]: Az 1. számú melléklet 544. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^463]: Az 1. számú melléklet 545. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^464]: Az 1. számú melléklet 546. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^465]: Az 1. számú melléklet 547. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^466]: Az 1. számú melléklet 548. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^467]: Az 1. számú melléklet 549. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^468]: Az 1. számú melléklet 550. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^469]: Az 1. számú melléklet 551. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^470]: Az 1. számú melléklet 552. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^471]: Az 1. számú melléklet 553. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
-[^472]: Az 1. számú melléklet 558. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
-[^473]: Az 1. számú melléklet 559. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^474]: Az 1. számú melléklet 559. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^475]: Az 1. számú melléklet 563. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^476]: Az 1. számú melléklet 566. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^477]: Az 1. számú mellékletként kiadott Állategészségügyi Szabályzat 577–587. §-át és az azt megelőző „A szarvasmarhák enzootikus leukózisa” címet a 21/2002. (III. 20.) Korm. rendelet 12. §-ának (1) bekezdése hatályon kívül helyezte.
-[^478]: Az 1. számú melléklet 588–606. §-át és azok alcímeit a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
+[^434]: Az 1. számú melléklet „A sertés szaporító és légzőszervi tünetegyüttese (PRRS)” címet és az azt követő 499–513. §–okat a 30/2002. (IV. 19.) FVM rendelet 5. § (2) bekezdése hatályon kívül helyezte a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napjával.
+[^435]: Az 1. számú melléklet 514. §-át és az azt megelőző Brucellózis címet a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^436]: Az 1. számú melléklet 515. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^437]: Az 1. számú melléklet 516. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^438]: Az 1. számú melléklet 517. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^439]: Az 1. számú melléklet 518. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^440]: Az 1. számú melléklet 519. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^441]: Az 1. számú melléklet 520. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^442]: Az 1. számú melléklet 521. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^443]: Az 1. számú melléklet 522. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^444]: Az 1. számú melléklet 523. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^445]: Az 1. számú melléklet 524. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^446]: Az 1. számú melléklet 525. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^447]: Az 1. számú melléklet 526. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^448]: Az 1. számú melléklet 527. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^449]: Az 1. számú melléklet 528. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^450]: Az 1. számú melléklet 529. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^451]: Az 1. számú melléklet 530. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^452]: Az 1. számú melléklet 531. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^453]: Az 1. számú melléklet 532. §-át a 12/2008. (II. 14.) FVM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^454]: Az 1. számú melléklet 535. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^455]: Az 1. számú melléklet 536. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 43. pontja szerint módosított szöveg.
+[^456]: Az 1. számú melléklet 537. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^457]: Az 1. számú melléklet 537. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^458]: Az 1. számú melléklet az Aujeszky-féle betegség (Pseudorabies, Aujeszky's diseases) fejezetcímét és 539. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^459]: Az 1. számú melléklet 540. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^460]: Az 1. számú melléklet 541. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^461]: Az 1. számú melléklet 542. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^462]: Az 1. számú melléklet 543. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^463]: Az 1. számú melléklet 544. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^464]: Az 1. számú melléklet 545. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^465]: Az 1. számú melléklet 546. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^466]: Az 1. számú melléklet 547. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^467]: Az 1. számú melléklet 548. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^468]: Az 1. számú melléklet 549. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^469]: Az 1. számú melléklet 550. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^470]: Az 1. számú melléklet 551. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^471]: Az 1. számú melléklet 552. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^472]: Az 1. számú melléklet 553. §-át a 36/2003. (III. 31.) FVM rendelet 24. §-ának (2) bekezdése hatályon kívül helyezte.
+[^473]: Az 1. számú melléklet 558. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 13. pontja szerint módosított szöveg.
+[^474]: Az 1. számú melléklet 559. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^475]: Az 1. számú melléklet 559. §-a a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^476]: Az 1. számú melléklet 563. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^477]: Az 1. számú melléklet 566. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^478]: Az 1. számú mellékletként kiadott Állategészségügyi Szabályzat 577–587. §-át és az azt megelőző „A szarvasmarhák enzootikus leukózisa” címet a 21/2002. (III. 20.) Korm. rendelet 12. §-ának (1) bekezdése hatályon kívül helyezte.
 [^479]: Az 1. számú melléklet 588–606. §-át és azok alcímeit a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
 [^480]: Az 1. számú melléklet 588–606. §-át és azok alcímeit a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
 [^481]: Az 1. számú melléklet 588–606. §-át és azok alcímeit a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
@@ -4861,43 +4861,43 @@ A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építm�
 [^494]: Az 1. számú melléklet 588–606. §-át és azok alcímeit a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
 [^495]: Az 1. számú melléklet 588–606. §-át és azok alcímeit a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
 [^496]: Az 1. számú melléklet 588–606. §-át és azok alcímeit a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
-[^497]: Az 1. számú melléklet 608. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 28. pontja szerint módosított szöveg.
-[^498]: Az 1. számú melléklet 611. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^499]: Az 1. számú melléklet 611. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^500]: Az 1. számú melléklet 612. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^501]: Az 1. számú melléklet 615. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^502]: A 617-619. §-t és az előttük lévő „Baromfitífusz” címet és az alcímeket a 49/2002. (V. 24.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
+[^497]: Az 1. számú melléklet 588–606. §-át és azok alcímeit a 68/2002. (VIII. 15.) FVM rendelet 30. §-ának (1) bekezdése hatályon kívül helyezte.
+[^498]: Az 1. számú melléklet 608. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 28. pontja szerint módosított szöveg.
+[^499]: Az 1. számú melléklet 611. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^500]: Az 1. számú melléklet 611. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^501]: Az 1. számú melléklet 612. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^502]: Az 1. számú melléklet 615. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
 [^503]: A 617-619. §-t és az előttük lévő „Baromfitífusz” címet és az alcímeket a 49/2002. (V. 24.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
 [^504]: A 617-619. §-t és az előttük lévő „Baromfitífusz” címet és az alcímeket a 49/2002. (V. 24.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
-[^505]: Az 1. számú melléklet 622. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
-[^506]: Az 1. számú melléklet 629. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
-[^507]: Az 1. számú melléklet 632. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
-[^508]: Az 1. számú melléklet 634. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 45. pontja szerint módosított szöveg.
-[^509]: Az 1. számú melléklet 635. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^510]: Az 1. számú melléklet 635. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
-[^511]: Az 1. számú melléklet 636. §-t megelőző alcíme a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^512]: Az 1. számú melléklet 636. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
-[^513]: Az 1. számú melléklet 636. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 46. pontja szerint módosított szöveg.
-[^514]: Az 1. számú melléklet 636. § e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 19. pontja szerint módosított szöveg.
-[^515]: Az 1. számú melléklet 639. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^516]: Az 1. számú melléklet 640. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^517]: Az 1. számú melléklet 640. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 47. pontja szerint módosított szöveg.
-[^518]: Az 1. számú melléklet 640. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 46. pontja szerint módosított szöveg.
-[^519]: Az 1. számú melléklet 644. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^520]: Az 1. számú melléklet 645. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^521]: Az 1. számú melléklet 646. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^522]: Az 1. számú melléklet 647. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^523]: Az 1. számú melléklet 648. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^524]: Az 1. számú melléklet 649. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^525]: Az 1. számú melléklet 650–651. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^505]: A 617-619. §-t és az előttük lévő „Baromfitífusz” címet és az alcímeket a 49/2002. (V. 24.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
+[^506]: Az 1. számú melléklet 622. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. pontja szerint módosított szöveg.
+[^507]: Az 1. számú melléklet 629. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 26. pontja szerint módosított szöveg.
+[^508]: Az 1. számú melléklet 632. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 1. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^509]: Az 1. számú melléklet 634. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 45. pontja szerint módosított szöveg.
+[^510]: Az 1. számú melléklet 635. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^511]: Az 1. számú melléklet 635. § a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^512]: Az 1. számú melléklet 636. §-t megelőző alcíme a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^513]: Az 1. számú melléklet 636. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 17. pontja szerint módosított szöveg.
+[^514]: Az 1. számú melléklet 636. § d) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 46. pontja szerint módosított szöveg.
+[^515]: Az 1. számú melléklet 636. § e) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 19. pontja szerint módosított szöveg.
+[^516]: Az 1. számú melléklet 639. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^517]: Az 1. számú melléklet 640. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^518]: Az 1. számú melléklet 640. § b) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 47. pontja szerint módosított szöveg.
+[^519]: Az 1. számú melléklet 640. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 3. és 46. pontja szerint módosított szöveg.
+[^520]: Az 1. számú melléklet 644. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^521]: Az 1. számú melléklet 645. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^522]: Az 1. számú melléklet 646. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^523]: Az 1. számú melléklet 647. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^524]: Az 1. számú melléklet 648. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^525]: Az 1. számú melléklet 649. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
 [^526]: Az 1. számú melléklet 650–651. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
-[^527]: Az 1. számú melléklet 652. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
-[^528]: Az 1. számú melléklet 652. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 5. és 48. pontja szerint módosított szöveg.
-[^529]: Az 1. számú melléklet 652. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. és 47. pontja szerint módosított szöveg.
-[^530]: A 653. §-t és az előtte lévő „Baromfi-paratífusz” címet a 49/2002. (V. 24.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
-[^531]: Az 1. számú melléklet Második részét (654–792. §) a 66/2006. (IX. 15.) FVM rendelet 8. § (1) bekezdésének m) pontja hatályon kívül helyezte.
-[^532]: Az 1. számú melléklet Harmadik Részét a 65/2012. (VII. 4.) VM rendelet 48. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 46. §-át.
-[^533]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
+[^527]: Az 1. számú melléklet 650–651. §-át a 70/2003. (VI. 27.) FVM rendelet 41. §-ának (3) bekezdése hatályon kívül helyezte.
+[^528]: Az 1. számú melléklet 652. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 8. pontja szerint módosított szöveg.
+[^529]: Az 1. számú melléklet 652. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 5. és 48. pontja szerint módosított szöveg.
+[^530]: Az 1. számú melléklet 652. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 7. § 2. és 47. pontja szerint módosított szöveg.
+[^531]: A 653. §-t és az előtte lévő „Baromfi-paratífusz” címet a 49/2002. (V. 24.) FVM rendelet 21. §-ának (1) bekezdése hatályon kívül helyezte.
+[^532]: Az 1. számú melléklet Második részét (654–792. §) a 66/2006. (IX. 15.) FVM rendelet 8. § (1) bekezdésének m) pontja hatályon kívül helyezte.
+[^533]: Az 1. számú melléklet Harmadik Részét a 65/2012. (VII. 4.) VM rendelet 48. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 46. §-át.
 [^534]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
 [^535]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
 [^536]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
@@ -4907,5 +4907,6 @@ A járási hivatal indokolt esetben az e függelékben felsorolt egyéb építm�
 [^540]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
 [^541]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
 [^542]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
-[^543]: Az 1. számú melléklet 1. számú függelék 4. pontja az 51/2013. (VI. 17.) VM rendelet 1. §-ával megállapított szöveg.
-[^544]: Az 1. számú függelék 6. pontja a 27/2006. (II. 7.) Korm. rendelet 20. §-a, a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^543]: [Az 1. számú melléklet 793. § (3) bekezdésének, 794. § (6) bekezdésének, 798. § (9) bekezdésének, 800. § (2) bekezdésének, 802. § (4) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (1) bekezdés b) pontjával elrendelt módosítása, amely szerint az „állomás” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szöveg, a 796. § (11) bekezdésének, 800. § (1) bekezdésének, 802. § (2) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 5. pontjával elrendelt módosítása, amely szerint az „állomást” szövegrész helyébe a „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot” szöveg, a 794. § (6) bekezdésének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 6. pontjával elrendelt módosítása, amely szerint az „állomásnak” szövegrész helyébe az „élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak” szöveg lép, nem vezethető át.]
+[^544]: Az 1. számú melléklet 1. számú függelék 4. pontja az 51/2013. (VI. 17.) VM rendelet 1. §-ával megállapított szöveg.
+[^545]: Az 1. számú függelék 6. pontja a 27/2006. (II. 7.) Korm. rendelet 20. §-a, a 42/2017. (VIII. 17.) FM rendelet 7. § 5. pontja szerint módosított szöveg.

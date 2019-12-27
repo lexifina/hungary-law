@@ -1,18 +1,18 @@
 ## 8/a. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^551]
+## az Állategészségügyi Szabályzathoz[^552]
 
 ## 8/b. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^552]
+## az Állategészségügyi Szabályzathoz[^553]
 
 ## 8/c. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^553]
+## az Állategészségügyi Szabályzathoz[^554]
 
 ## 9. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^554]
+## az Állategészségügyi Szabályzathoz[^555]
 
 ## 10. számú függelék
 
@@ -28,10 +28,10 @@ A rakodóhelynek meg kell felelnie az alábbi feltételeknek:
 
 3. Az engedélyezett rakodóhelyen a hatósági állatorvos számára az állatok vizsgálatához, az adminisztráció elvégzéséhez a szükséges feltételeket biztosítani kell (kézmosás, fertőtlenítés, fedett, szükség esetén fűtött helyiség, asztal, szék stb.).
 
-4.[^555] Házinyúlszállítás olyan rakodóhelyről engedélyezhető, ahol a járási hivatal ehhez hozzájárult és megteremtették a fertőtlenítés, kézmosás, mérlegelés, hulladék-, szemétgyűjtés lehetőségét, továbbá ezek ártalmatlanításának feltételeit.
+4.[^556] Házinyúlszállítás olyan rakodóhelyről engedélyezhető, ahol a járási hivatal ehhez hozzájárult és megteremtették a fertőtlenítés, kézmosás, mérlegelés, hulladék-, szemétgyűjtés lehetőségét, továbbá ezek ártalmatlanításának feltételeit.
 
-[^551]: Az 1. számú melléklet 8/a. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^552]: Az 1. számú melléklet 8/b. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte. [Az 1. számú melléklet 8/b. számú függelékének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 43. pontjával elrendelt módosítása, amely szerint a „megyei Állat-egészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
-[^553]: Az 1. számú melléklet 8/c. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte. [Az 1. számú melléklet 8/c. számú függelékének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 43. pontjával elrendelt módosítása, amely szerint a „megyei Állat-egészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
-[^554]: Az 1. számú melléklet 9. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^555]: Az 1. számú melléklet 10. számú függelék 4. pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
+[^552]: Az 1. számú melléklet 8/a. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^553]: Az 1. számú melléklet 8/b. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte. [Az 1. számú melléklet 8/b. számú függelékének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 43. pontjával elrendelt módosítása, amely szerint a „megyei Állat-egészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
+[^554]: Az 1. számú melléklet 8/c. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte. [Az 1. számú melléklet 8/c. számú függelékének a 70/2013. (VII. 31.) VM rendelet 3. § (2) bekezdés 43. pontjával elrendelt módosítása, amely szerint a „megyei Állat-egészségügyi és Élelmiszer-ellenőrző Állomás” szövegrész helyébe a „Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága” szöveg lép, nem vezethető át.]
+[^555]: Az 1. számú melléklet 9. számú függelékét a 87/2012. (VIII. 27.) VM rendelet 24. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^556]: Az 1. számú melléklet 10. számú függelék 4. pontja a 42/2017. (VIII. 17.) FM rendelet 7. § 9. pontja szerint módosított szöveg.
