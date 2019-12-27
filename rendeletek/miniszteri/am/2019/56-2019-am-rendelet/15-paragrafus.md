@@ -1,0 +1,7 @@
+## 11. A szarvasmarha gümőkór megelőzését szolgáló egyéb szabályok
+
+15. § (1) A szarvasmarha gümőkórtól hivatalosan mentes minősítést az engedélyezett vágóhídon vagy vágóponton levágott szarvasmarha húsvizsgálata során ellenőrizni kell. Elhullott szarvasmarha esetén, amennyiben az elhullás előtt tapasztalt tünetek valamely bejelentési kötelezettség alá tartozó betegségre utalnak és kórboncolásra kerül sor, a gümőkór esetleges előfordulását is ki kell zárni. A vizsgálatot végző állatorvos köteles húsvizsgálat vagy az elhullott állatok boncolása alkalmával talált, gümőkórra gyanút keltő elváltozásokból az NRL-be mintát küldeni, és erről egyidejűleg értesíteni az állat származási helye szerinti megyei kormányhivatalt.
+
+(2) Az NRL a beérkezett mintákból – állami költségre – elvégzi a szarvasmarha gümőkór megállapítása vagy kizárása céljából a laboratóriumi vizsgálatokat, és az eredményről értesíti a beküldő állatorvost, az állat származási helye szerinti megyei kormányhivatalt, pozitív vizsgálati eredmény esetében az országos főállatorvost is. Az eredményt a vizsgálatok lezárásától számított hetvenkét órán belül kell megküldeni.
+
+(3) Az állatok esetében tapasztalt szarvasmarha gümőkóros kórbonctani elváltozásokról és az ezekkel kapcsolatos vizsgálatok eredményéről a megyei kormányhivatal járásonként és állattartónként nyilvántartást vezet. Ezen nyilvántartásokat legalább hat évig meg kell őrizni.

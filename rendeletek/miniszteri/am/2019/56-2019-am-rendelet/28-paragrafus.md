@@ -1,0 +1,1 @@
+## 27. § Az e rendelet hatálybalépését megelőzően szarvasmarha gümőkórtól hivatalosan mentessé minősített szarvasmarha-állomány esetében az állomány megtartja a szarvasmarha gümőkórtól hivatalosan mentes minősítését az e rendelet szerint előírt vizsgálatok lefolytatásáig, amennyiben az állomány a szarvasmarha gümőkórtól hivatalosan mentes minősítés követelményeinek megfelel.
