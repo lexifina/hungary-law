@@ -1,1 +1,3 @@
-## 5. § A Rendelet 1. § (1) bekezdésében az „a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási” szövegrész helyébe a „meghatározott” szöveg lép.
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
