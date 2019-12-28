@@ -1,4 +1,4 @@
-2. melléklet a 85/2012. (XII. 28.) BM rendelethez[^88]
+2. melléklet a 85/2012. (XII. 28.) BM rendelethez[^89]
 
 ## Ideiglenes külföldi kiküldetés során igénybe vehető szállások költségtérítési kategóriái
 
@@ -20,4 +20,4 @@ Az ideiglenes külföldi kiküldetést teljesítők szállásköltség-kerete f�
 
 | Ázsia | USD | 200 | 150 |
 
-[^88]: A 2. melléklet a 35/2015. (VI. 16.) BM rendelet 7. §-ával megállapított szöveg. A 2. melléklet megjelölése a 77/2015. (XII. 22.) BM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^89]: A 2. melléklet a 35/2015. (VI. 16.) BM rendelet 7. §-ával megállapított szöveg. A 2. melléklet megjelölése a 77/2015. (XII. 22.) BM rendelet 3. § (2) bekezdése szerint módosított szöveg.

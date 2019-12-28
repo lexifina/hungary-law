@@ -1,4 +1,4 @@
-49. § (1)[^72] Az Országgyűlési Őrség javára bejegyzett jelzálog, valamint elidegenítési és terhelési tilalom alapján az érintett lakást az állományilletékes parancsnok előzetes írásbeli hozzájárulásával lehet eladni, elcserélni vagy elajándékozni.
+49. § (1)[^73] Az Országgyűlési Őrség javára bejegyzett jelzálog, valamint elidegenítési és terhelési tilalom alapján az érintett lakást az állományilletékes parancsnok előzetes írásbeli hozzájárulásával lehet eladni, elcserélni vagy elajándékozni.
 
 (2) Az állományilletékes parancsnok az (1) bekezdés szerinti hozzájárulást akkor adhatja meg, ha
 
@@ -12,4 +12,4 @@ c) a munkáltatói kölcsönben részesített hivatásos állomány tagja a munk
 
 (4) Ha az eladott lakás eladási ára meghaladja a megszerezni kívánt lakás vételárát vagy építési költségét, az így keletkező árkülönbözet teljes összegét az adós egyösszegű befizetés útján köteles a fennálló tartozás kiegyenlítésére vagy részbeni kiegyenlítésére fordítani. Az árkülönbözet befizetése után megmaradt tartozás részletekben történő visszafizetésére az Országgyűlési Őrség az adóssal megállapodást köt oly módon, hogy a visszafizetés időtartama nem haladhatja meg a 46. § (1) bekezdésben meghatározott időtartamot.
 
-[^72]: A 49. § (1) bekezdése a 9/2018. (IV. 25.) BM rendelet 64. § f) pontja szerint módosított szöveg.
+[^73]: A 49. § (1) bekezdése a 9/2018. (IV. 25.) BM rendelet 64. § f) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 73–75. §[^86]
+## 73–75. §[^87]
 
-1. melléklet a 85/2012. (XII. 28.) BM rendelethez[^87]
+1. melléklet a 85/2012. (XII. 28.) BM rendelethez[^88]
 
-[^86]: A 73–75. §-t a 9/2018. (IV. 25.) BM rendelet 65. § d) pontja hatályon kívül helyezte.
-[^87]: Az 1. mellékletet a 35/2015. (VI. 16.) BM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^87]: A 73–75. §-t a 9/2018. (IV. 25.) BM rendelet 65. § d) pontja hatályon kívül helyezte.
+[^88]: Az 1. mellékletet a 35/2015. (VI. 16.) BM rendelet 9. § (1) bekezdés b) pontja hatályon kívül helyezte.
