@@ -4,7 +4,7 @@
 
 (3) A (2) bekezdésben meghatározott megfelelés igazolásáról a felelős tervező megfelelési nyilatkozatot állít ki.
 
-(4)[^8]
+(4)[^14]
 
 (5) A könnyű légijármű típus repülési tesztjét az alkalmazandó légialkalmassági előírásban meghatározottak szerint kell végrehajtani, de a teszteknek legalább a következőkre kell kiterjedniük:
 
@@ -26,4 +26,4 @@ h) a vészhelyzeti eljárások szimulálása és ilyen körülmények közötti 
 
 (6) A típus repülési tesztelését a felelős tervező és típusalkalmassági tanúsítvány tulajdonosa által együttesen meghatározott, az adott típusra kidolgozott repülési program végrehajtására képes, megfelelő légijárművezetésre jogosító engedéllyel, valamint tapasztalattal rendelkező személy végezheti.
 
-[^8]: A 6. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 2. pontja hatályon kívül helyezte.
+[^14]: A 6. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 2. pontja hatályon kívül helyezte.

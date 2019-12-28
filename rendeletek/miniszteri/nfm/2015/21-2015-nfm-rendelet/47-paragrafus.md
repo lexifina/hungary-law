@@ -8,10 +8,12 @@
 
 (2) A bejelentésnek tartalmaznia kell a 36. § (2) bekezdés a) és d)–j) pontjában meghatározottakat, valamint
 
-a) az arra vonatkozó adatokat, hogy a légijármű megfelel a történelmi jelentőségű légijárművekre vonatkozóan a 216/2008/EK rendelet II. Melléklet a) pontjában meghatározottaknak, az ii) pont harmadik francia bekezdés kivételével,
+a)[^51] az arra vonatkozó adatokat, hogy a légijármű megfelel a történelmi jelentőségű légijárművekre vonatkozóan az (EU) 2018/1139 rendelet I. Melléklet a) pontjában meghatározottaknak, az ii) pont harmadik francia bekezdés kivételével,
 
 b) a légijármű megnevezését, jellegét, az egykori rendeltetését,
 
 c) azt, hogy eredeti légijármű felújítása, vagy másolat készítése a cél.
 
 (3) Történelmi jelentőségű légijármű típusának és megnevezésének utalnia kell az eredeti épített vagy felújított légijárműre.
+
+[^51]: A 47. § (2) bekezdés a) pontja a 47/2019. (XII. 23.) ITM rendelet 16. § b) pontja szerint módosított szöveg.

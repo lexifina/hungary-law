@@ -1,3 +1,3 @@
-## 14. §[^20]
+## 14. §[^26]
 
-[^20]: A 14. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 8. pontja hatályon kívül helyezte.
+[^26]: A 14. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 8. pontja hatályon kívül helyezte.

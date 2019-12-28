@@ -1,4 +1,4 @@
-## 81. §[^54]
+## 81. §[^64]
 
 ## 28. A karbantartó szervezet működésének feltételei
 
@@ -12,4 +12,4 @@ c) a biztonságos tároló létesítmény, vagy létesítmények a komponensek, 
 
 (2) A létesítményekben a tárolási feltételeket úgy kell kialakítani, hogy a fel nem használható komponensek, alkatrészek és anyagok minden más komponenstől, alkatrészektől, anyagtól, felszereléstől és szerszámtól elkülönítetten kerüljenek elhelyezésre. A tárolási feltételeknek meg kell felelniük a gyártó utasításainak, és a hozzáférést az arra feljogosított személyekre kell korlátozni.
 
-[^54]: A 81. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 23. pontja hatályon kívül helyezte.
+[^64]: A 81. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 23. pontja hatályon kívül helyezte.

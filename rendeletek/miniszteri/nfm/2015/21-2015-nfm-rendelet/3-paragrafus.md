@@ -8,9 +8,9 @@
 
 ## 2. A típusalkalmassági tanúsítási kérelem
 
-3. § (1)[^5] Az ultrakönnyű légijármű és könnyű autogiro (a továbbiakban együtt: könnyű légijármű) típusalkalmassági tanúsítványát a légiközlekedési hatóság adja ki.
+3. § (1)[^11] Az ultrakönnyű légijármű és könnyű autogiro (a továbbiakban együtt: könnyű légijármű) típusalkalmassági tanúsítványát a légiközlekedési hatóság adja ki.
 
-(2)[^6]
+(2)[^12]
 
 (3) A kérelemhez mellékelni kell:
 
@@ -28,10 +28,10 @@ f) a kérelmező nyilatkozatát arra vonatkozóan, hogy képes teljesíteni a t�
 
 g) a részletes műszaki tervdokumentációt.
 
-(4)[^7] A részletes műszaki tervdokumentációt a kérelmező elektronikus úton vagy papír alapon, összefűzve és lezárt dobozban adja át a légiközlekedési hatóságnak, aki azt lezáró pecséttel látja el, és az eljárás befejezésével a kérelmező részére visszaadja. A kérelmező a műszaki tervdokumentációt köteles megőrizni.
+(4)[^13] A részletes műszaki tervdokumentációt a kérelmező elektronikus úton vagy papír alapon, összefűzve és lezárt dobozban adja át a légiközlekedési hatóságnak, aki azt lezáró pecséttel látja el, és az eljárás befejezésével a kérelmező részére visszaadja. A kérelmező a műszaki tervdokumentációt köteles megőrizni.
 
 (5) Amennyiben a kérelmező az Lt. 46. § (5) bekezdése alapján valamely állam illetékes hatósága által kiadott igazolás alapján kéri a könnyű légijármű típusalkalmassági tanúsítványának kiadását, a kérelemnek a (2) bekezdés a) pontjában meghatározott feltételt kell tartalmaznia, valamint a kérelemhez mellékelni kell a másik állam által kiadott igazolást.
 
-[^5]: A 3. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 77. §-ával megállapított szöveg.
-[^6]: A 3. § (2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 1. pontja hatályon kívül helyezte.
-[^7]: A 3. § (4) bekezdése a 66/2016. (XII. 29.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 77. §-ával megállapított szöveg.
+[^12]: A 3. § (2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 1. pontja hatályon kívül helyezte.
+[^13]: A 3. § (4) bekezdése a 66/2016. (XII. 29.) NFM rendelet 15. §-a szerint módosított szöveg.
