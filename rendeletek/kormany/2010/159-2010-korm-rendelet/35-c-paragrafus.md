@@ -1,3 +1,3 @@
-## 35/B. §[^71]
+## 35/B. §[^73]
 
-[^71]: A 35/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 300. § i) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^73]: A 35/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 300. § i) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

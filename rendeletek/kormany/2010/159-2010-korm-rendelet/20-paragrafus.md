@@ -2,7 +2,7 @@
 
 20. § (1) A repülőtér létesítési engedélye hatályát veszti, ha
 
-a)[^46] a véglegessé válásának napjától számított három éven belül az építési tevékenységet nem kezdték el, és a hatályát nem hosszabbították meg, vagy
+a)[^48] a véglegessé válásának napjától számított három éven belül az építési tevékenységet nem kezdték el, és a hatályát nem hosszabbították meg, vagy
 
 b) az építési tevékenységet az a) pontban meghatározott határidőn belül megkezdték, de az a megkezdéstől számított öt éven belül a repülőtér használatbavételi engedély megadására nem válik alkalmassá vagy használatbavételi engedély iránti kérelmet nem nyújtanak be.
 
@@ -10,4 +10,4 @@ b) az építési tevékenységet az a) pontban meghatározott határidőn belül
 
 (3) A létesítési engedély nem mentesíti a kérelmezőt az építési tevékenység megkezdéséhez a más jogszabályokban előírt hatósági engedélyek megszerzésének kötelezettsége alól.
 
-[^46]: A 20. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 299. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^48]: A 20. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 299. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

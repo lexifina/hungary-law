@@ -1,7 +1,7 @@
-## 30. §[^65] A légiközlekedési hatóság a bejelentésben foglaltakat közhiteles hatósági nyilvántartásba veszi és a tevékenység folytatásának vagy megvalósításának jogszerűségét a repülőtér üzemben tartási engedélyéről szóló miniszteri rendelet szerinti repülőtérszemle keretében ellenőrzi.
+## 30. §[^67] A légiközlekedési hatóság a bejelentésben foglaltakat közhiteles hatósági nyilvántartásba veszi és a tevékenység folytatásának vagy megvalósításának jogszerűségét a repülőtér üzemben tartási engedélyéről szóló miniszteri rendelet szerinti repülőtérszemle keretében ellenőrzi.
 
 ## VII. Fejezet
 
 ## MEGSZÜNTETÉS ENGEDÉLYEZÉSE
 
-[^65]: A 30. § a 203/2013. (VI. 14.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^67]: A 30. § a 203/2013. (VI. 14.) Korm. rendelet 22. §-ával megállapított szöveg.

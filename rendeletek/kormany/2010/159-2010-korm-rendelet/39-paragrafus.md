@@ -1,8 +1,8 @@
-## 38. §[^73] A leszállóhely létesítésének engedélyezésére az „A” és „B” osztályú leszállóhely vonatkozásában a II. és IV. Fejezetben foglaltakat az e fejezetben foglalt eltérésekkel kell alkalmazni.
+## 38. §[^75] A leszállóhely létesítésének engedélyezésére az „A” és „B” osztályú leszállóhely vonatkozásában a II. és IV. Fejezetben foglaltakat az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 ## 16. A kérelem tartalma
 
-39. §[^74] (1) A leszállóhely létesítéséről a légiközlekedési hatóság egy eljárásban dönthet.
+39. §[^76] (1) A leszállóhely létesítéséről a légiközlekedési hatóság egy eljárásban dönthet.
 
 (2) „A” és „B” osztályú leszállóhely létesítésének engedélyezése iránti kérelmet a légiközlekedési hatóság által rendszeresített, és a honlapján közzétett nyomtatványon kell benyújtani, amely a következőket tartalmazza:
 
@@ -20,7 +20,7 @@ f) a leszállóhely tervezett osztálya;
 
 g) a területet kijelölő személy neve, aláírása, az aláírás helye, időpontja, ha az nem azonos a kérelmezővel;
 
-h)[^75]
+h)[^77]
 
 i) a használni tervezett légijármű típusa.
 
@@ -28,6 +28,6 @@ i) a használni tervezett légijármű típusa.
 
 (4) A kérelmet legalább 15 munkanappal a tervezett használat megkezdését megelőzően kell benyújtani a légiközlekedési hatóságnak.
 
-[^73]: A 38. § a 207/2014. (VIII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^74]: A 39. § a 207/2014. (VIII. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^75]: A 39. § (2) bekezdés h) pontját a 457/2017. (XII. 28.) Korm. rendelet 300. § j) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^75]: A 38. § a 207/2014. (VIII. 15.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^76]: A 39. § a 207/2014. (VIII. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^77]: A 39. § (2) bekezdés h) pontját a 457/2017. (XII. 28.) Korm. rendelet 300. § j) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
