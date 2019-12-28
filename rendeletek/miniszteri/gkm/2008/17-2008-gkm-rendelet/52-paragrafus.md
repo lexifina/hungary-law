@@ -10,6 +10,6 @@
 
 (2) E rendelet 46. § (2) bekezdése és a 28. § (3) bekezdés d) pontja 2009. január 1-jén lép hatályba.
 
-(3)[^55]
+(3)[^56]
 
-[^55]: Az 52. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^56]: Az 52. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
