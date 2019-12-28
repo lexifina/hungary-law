@@ -1,0 +1,1 @@
+## „(4) A másodlagos adattár szolgáltatójával a Végrehajtási Rendelet 27. cikk (11) bekezdése szerinti, további szolgáltatási szintre vonatkozó megállapodás megkötésére a vámhatóság jogosult a miniszter egyetértésével.”
