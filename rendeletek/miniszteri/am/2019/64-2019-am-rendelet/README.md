@@ -1,0 +1,9 @@
+# 64/2019. (XII. 20.) AM rendelet
+
+a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-64-20-7R
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2019-12-28 | 2019-64-20-7R.1 | 64/2019. (XII. 20.) AM rendelet |
