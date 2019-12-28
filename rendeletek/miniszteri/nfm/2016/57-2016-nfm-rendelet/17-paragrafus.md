@@ -6,7 +6,7 @@
 
 (3) A standard indulási, érkezési, megközelítési és várakozási eljárások létesítéséhez, illetve módosításához a légiközlekedési hatóság jóváhagyása szükséges. Az eljárások tervezésére ellenőrzött légtérben ANS szolgáltató jogosult. Az eljárások létesítésére és módosítására vonatkozó kérelmet ellenőrzött légtérben az illetékes ANS szolgáltató, nem ellenőrzött légtérben az illetékes ATS szolgálat vagy a repülőtér üzemben tartója nyújthat be a légiközlekedési hatósághoz.
 
-(4)[^2]
+(4)[^3]
 
 (5) ATS útvonal tervezését és annak ellenőrzését eljárástervező személy végezheti.
 
@@ -18,4 +18,4 @@ b) az a) pontban meghatározottakat követően eljárástervező felügyelete me
 
 c) legalább ötévente sikeresen elvégez egy ismeretfelújító tanfolyamot.
 
-[^2]: A 17. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § b) pontja hatályon kívül helyezte.
+[^3]: A 17. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 108. § b) pontja hatályon kívül helyezte.

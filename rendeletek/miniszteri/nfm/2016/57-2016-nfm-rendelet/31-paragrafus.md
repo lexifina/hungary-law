@@ -1,6 +1,6 @@
 ## 21. Repülésbiztonság-irányítási program
 
-31. § (1)[^6] Magyarországon a nyújtott ATM szolgáltatás biztonságossága, valamint az elfogadható repülésbiztonsági szint elérése és megtartása érdekében repülésbiztonság-irányítási programot kell működtetni.
+31. § (1)[^7] Magyarországon a nyújtott ATM szolgáltatás biztonságossága, valamint az elfogadható repülésbiztonsági szint elérése és megtartása érdekében repülésbiztonság-irányítási programot kell működtetni.
 
 (2) Magyarország légtereiben és repülőterein az elfogadható repülésbiztonsági szint az ICAO Doc 9859 útmutatásai szerint kell meghatározni.
 
@@ -18,7 +18,7 @@ d) az átfogó repülésbiztonsági szint folyamatos növelésére irányuló t�
 
 (5) A repülésbiztonság-irányítási rendszeren belül meg kell határozni a felelősségi köröket a légiforgalmi szolgáltatónál, beleértve a felső vezetés repülésbiztonságra vonatkozó közvetlen felelősségét is.
 
-(6)[^7] A nemzeti repülésbiztonság-irányítási program alapján a légiforgalmi szolgáltató saját ATS repülésbiztonság-irányítási programot állít össze.
+(6)[^8] A nemzeti repülésbiztonság-irányítási program alapján a légiforgalmi szolgáltató saját ATS repülésbiztonság-irányítási programot állít össze.
 
-[^6]: A 31. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 104. § (1) bekezdésével megállapított szöveg.
-[^7]: A 31. § (6) bekezdése az 55/2017. (XII. 27.) NFM rendelet 104. § (2) bekezdésével megállapított szöveg.
+[^7]: A 31. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 104. § (1) bekezdésével megállapított szöveg.
+[^8]: A 31. § (6) bekezdése az 55/2017. (XII. 27.) NFM rendelet 104. § (2) bekezdésével megállapított szöveg.
