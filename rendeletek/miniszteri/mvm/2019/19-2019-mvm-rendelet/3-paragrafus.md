@@ -1,3 +1,5 @@
-## 2. §[^2]
+3. § (1) Az R.1. 143. § (1) bekezdésével műemlékké nyilvánított Nagykőrös (Pest megye), Derkovits utca 3. szám alatti, korábban a 4637 helyrajzi számon nyilvántartott ingatlan telekalakítás során kialakult 4637/1 és 4637/2 helyrajzi számú ingatlanok közül a 4637/1 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
 
-[^2]: A 2. § a 15. § (2) bekezdése alapján 2019. december 28-án lép hatályba.
+(2) A Nagykőrös, 4637/2 helyrajzi számú ingatlan műemléki védettségét – tekintettel a szecessziós lakóház változatlanul fennálló műemléki értékeire – továbbra is fenntartom.
+
+(3) A (2) bekezdés szerinti műemlék ingatlan műemléki környezeteként a Nagykőrös, 4636, 4637/1, 4638, 5107/4 és 5107/12 helyrajzi számú ingatlanokat, valamint ezen ingatlanok által érintett 4647/2 helyrajzi számú közterületszakaszt jelölöm ki.

@@ -1,3 +1,5 @@
-## 3. §[^3]
+4. § (1) Az egyes ingatlanok műemlékké nyilvánításáról, valamint műemléki jelentőségű területté nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 53/2011. (VIII. 25.) NEFMI rendelet (a továbbiakban: R.2.) 42. § (1) bekezdésével műemlékké nyilvánított Budapest VIII. kerület, Fiumei út 22–26. házszám alatti, 38818/30 helyrajzi számú, telekalakítás következtében kialakult 38818/47, 38818/54, 38820/1, 38820/2, 38820/3, 38820/4 és 38820/5 helyrajzi számú ingatlanok közül a 38818/54, 38820/1, 38820/2, 38820/3, 38820/4 és 38820/5 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
 
-[^3]: A 3. § a 15. § (2) bekezdése alapján 2019. december 28-án lép hatályba.
+(2) A 38818/47 helyrajzi számú ingatlan műemléki védettségét továbbra is fenntartom, tekintettel az ingatlanon található, a közhiteles műemléki nyilvántartásban 11775 azonosító számon nyilvántartott Józsefvárosi pályaudvar 1867-ben létesített felvételi épületének, valamint a 18426 azonosító számon nyilvántartott, 1892-ben emelt ún. lőfegyver-próbaállomás épületének fennálló műemléki értékeire.
+
+(3) Műemléki környezetként a 35397, 38818/5, 38818/54 és 38820/2 helyrajzi számú ingatlanokat, a 38820/1 helyrajzi számú közterületnek a 38818/47 helyrajzi számú ingatlan által érintett szakaszát, valamint ezzel a szakasszal összefüggő 34593/4 helyrajzi számú közterületnek, mint a Fiumei útnak, az Orczy tér és a Magdolna út közötti szakaszát jelölöm ki.

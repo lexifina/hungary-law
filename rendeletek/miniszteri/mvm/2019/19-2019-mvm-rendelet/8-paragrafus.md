@@ -1,3 +1,3 @@
-## 7. §[^7]
+8. § (1) Az Országos Műemléki Felügyelőség 17952-28/1979. számú határozatával védetté nyilvánított Tengelic (Tolna megye), Középhídvég-puszta, külterület 0300/7 helyrajzi számú ingatlanon található, a közhiteles műemléki nyilvántartásban 31016 azonosító számon nyilvántartott cselédház, a 0300/8 és 0300/16 helyrajzi számú ingatlanokon található, 31018 azonosító számon nyilvántartott cselédház, valamint a 0300/16 helyrajzi számú ingatlanon található, 14712, 14713 és 14714 azonosító számokon nyilvántartott istállók és 31017 azonosító számon nyilvántartott cselédház műemléki védettségét – tekintettel arra, hogy a műemlékké nyilvánítás céljának nem felelnek meg – megszüntetem.
 
-[^7]: A 7. § a 15. § (2) bekezdése alapján 2019. december 28-án lép hatályba.
+(2) Tengelic, 0300/16 helyrajzi számú ingatlanon található, a közhiteles műemléki nyilvántartásban 14712 azonosító számon nyilvántartott istálló nyilvántartott műemléki érték jellegét továbbra is fenntartom, tekintettel építészeti értékeire: eredeti tömeg, külső homlokzati kialakítás, keleti szárny oszlopos homlokzata.

@@ -1,3 +1,5 @@
-## 1. §[^1]
+2. § (1) Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 9/2009. (III. 6.) OKM rendelet (a továbbiakban: R.1.) 4. § (1) bekezdésével védetté nyilvánított Bábolna (Komárom-Esztergom megye), 126/3, 126/4, 126/5 és 126/6 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – tekintettel arra, hogy azok a műemlékké nyilvánítás céljának (Bábolnai Ménesbirtok történeti központjának épületegyüttese építészeti értékeinek megőrzése) nem felelnek meg – megszüntetem.
 
-[^1]: Az 1. § a 15. § (2) bekezdése alapján 2019. december 28-án lép hatályba.
+(2) Az (1) bekezdés szerinti ingatlanok nyilvántartott műemléki érték jellegét továbbra is fenntartom, tekintettel az azokon található, a közhiteles műemléki nyilvántartásban 12439 azonosító számon nyilvántartott egykori lisztgyár épületeinek a bábolnai műemlék együttesben betöltött történeti szerepére, valamint külső megjelenésének, tömegalakításának fennálló értékeire.
+
+(3) Az (1) bekezdés szerinti ingatlanokat a Bábolnai Ménesbirtok történeti központjának épületegyüttese műemléki környezetének jelölöm ki.

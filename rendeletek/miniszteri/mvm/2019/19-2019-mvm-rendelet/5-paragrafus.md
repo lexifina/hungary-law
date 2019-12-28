@@ -1,3 +1,3 @@
-## 4. §[^4]
+5. § (1) A R.2. 52. § (1) bekezdésével műemlékké nyilvánított Budapest VIII. kerület, Üllői út 32. és Mária utca 54. házszámok alatti, 36795 helyrajzi számú ingatlanon található, a közhiteles műemléki nyilvántartásban 18440 egyedi azonosító számon nyilvántartott földszintes raktárépületek műemléki védettségét – tekintettel arra, hogy a szakmai ismérveknek nem felel meg – megszüntetem.
 
-[^4]: A 4. § a 15. § (2) bekezdése alapján 2019. december 28-án lép hatályba.
+(2) A Budapest VIII. kerület, Üllői út 32. és Mária utca 54. házszámok alatti, 36795 helyrajzi számú ingatlanon található a közhiteles műemléki nyilvántartásban 18439, 18441 és 18442 egyedi azonosító számon nyilvántartott épületek műemléki védettségét továbbra is fenntartom, tekintettel a Heinrich-udvar épületeinek építészeti, képző- és iparművészeti, továbbá ipari- és kereskedelemtörténeti értékeinek megőrzésére.
