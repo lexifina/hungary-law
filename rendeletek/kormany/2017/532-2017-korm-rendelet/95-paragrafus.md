@@ -2,7 +2,7 @@
 
 ## 32. Egyedi képzési és vizsgakövetelmények
 
-95. § (1) A 216/2008/EK európai parlamenti és tanácsi rendelet II. Mellékletében meghatározott azon légijárművek esetében, amelyekre adottságaiknál fogva az adott légijármű-kategóriára vonatkozó, e rendeletben meghatározott képzési vagy vizsgáztatási feltételek nem alkalmazhatóak, a légiközlekedési hatóság egyedi képzési és vizsga követelményeket hagyhat jóvá.
+95. § (1)[^33] Az (EU) 2018/1139 európai parlamenti és tanácsi rendelet I. Mellékletében meghatározott azon légijárművek esetében, amelyekre adottságaiknál fogva az adott légijármű-kategóriára vonatkozó, e rendeletben meghatározott képzési vagy vizsgáztatási feltételek nem alkalmazhatóak, a légiközlekedési hatóság egyedi képzési és vizsga követelményeket hagyhat jóvá.
 
 (2) A légiközlekedési hatóság olyan egyedi képzési és vizsgakövetelményeket hagy jóvá, amelyek elméleti és gyakorlati képzést és vizsgát tartalmaznak a következő témakörökben:
 
@@ -15,3 +15,5 @@ c) az adott légijárművel felmerülő vészhelyzetek felismerésével és keze
 d) elsősegélynyújtási ismeretek.
 
 (3) Az egyedi képzési és vizsgakövetelményeknek tartalmaznia kell a képzés megkezdéséhez szükséges előfeltételeket és a sikeres vizsga után megszerezhető jogosultságokat is.
+
+[^33]: A 95. § (1) bekezdése a 348/2019. (XII. 23.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.

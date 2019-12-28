@@ -14,7 +14,7 @@ d) ATS felderítő rendszer: légijárművek azonosítására alkalmas rendszere
 
 e) ATS felderítő szolgálat: a légiforgalmi felderítő rendszer közvetlen felhasználásával nyújtott szolgáltatás (ATS surveillance service);
 
-f) EATMN-rendszer és rendszerelem: 549/2004/EK európai parlamenti és tanácsi rendeletben meghatározott fogalom;
+f)[^1] ATM/ANS-rendszer és -rendszerelem: a polgári légiközlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i 2018/1139 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2018/1139 európai parlamenti és tanácsi rendelet] meghatározott fogalom;
 
 g) éves minőségbiztosítási ellenőrzési program: egy adott naptári évben végrehajtani tervezett légiközlekedés védelmi minőségbiztosítási ellenőrzéseket tartalmazó dokumentum;
 
@@ -41,3 +41,5 @@ q) vezető: a gazdasági társaság vezetője, vezető tisztségviselője, az eg
 r) WGS–84: a léginavigációs és a légiközlekedés biztonságát szolgáló egyéb földi berendezések engedélyezési eljárásáról és hatósági felügyeletéről szóló 68/2011. (XI. 30.) NFM rendelet [a továbbiakban: 68/2011. (XI. 30.) NFM rendelet] 2. § 5. pontjában meghatározott fogalom;
 
 s) KIT: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló 21/2015. (V. 4.) NFM rendelet 2. § 10. pontjában meghatározott fogalom.
+
+[^1]: Az 1. § f) pontja a 348/2019. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.

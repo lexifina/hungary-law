@@ -2281,19 +2281,3 @@ akkor a forrás zaj pontosítását a gyári adatokból kell meghatározni a hat
 | T | A vizsgálatnál alkalmazott repülési nyomvonal kezdete a talajon, az A alatt függőleges irányban lévő pont |  |
 
 8.6.3. Átrepülés (lásd az F-A-5. ábrát)
-
-| Helyzet | Leírás |  |
-
-| D | A zaj vizsgálatánál alkalmazott átrepülési pálya kezdete |  |
-
-| E | A zaj vizsgálatánál alkalmazott átrepülési pálya vége |  |
-
-| K2 | Átrepülési pálya referencia pontja |  |
-
-| K2’, K2” | A kapcsolódó (3 mikrofonos) zajmérő pontok |  |
-
-| R | A zaj vizsgálatánál alkalmazott átrepülési nyomvonal kezdete |  |
-
-| S | A zaj vizsgálatánál alkalmazott átrepülési nyomvonal vége |  |
-
-8.6.4. Megközelítés (Lásd F-A-6. ábrát)
