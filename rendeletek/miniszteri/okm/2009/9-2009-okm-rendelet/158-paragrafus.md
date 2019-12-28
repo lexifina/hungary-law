@@ -1,4 +1,4 @@
-## 157. §[^3]
+## 157. §[^6]
 
 158. § (1) Műemlékké nyilvánítom a Baranya megyei Siklós, 1213/1 helyrajzi számú ingatlant.
 
@@ -8,4 +8,4 @@
 
 (4) A védetté nyilvánítás célja a Hidegkúti Andor tervei szerint 1943–1947 között épült postaépület építészeti és képzőművészeti értékeinek megőrzése.
 
-[^3]: A 157. §-t a 4/2016. (I. 11.) MvM rendelet 89. § c) pontja hatályon kívül helyezte.
+[^6]: A 157. §-t a 4/2016. (I. 11.) MvM rendelet 89. § c) pontja hatályon kívül helyezte.
