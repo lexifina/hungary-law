@@ -22,6 +22,6 @@ e) tegyen esküt vagy fogadalmat, ha a szakképzettség hazai gyakorlásához ez
 
 (3) Szakmai gyakorlat végzése akkor írható elő, ha azt a hazai képzési és kimeneti követelmények az oklevél megszerzésének feltételeként tartalmazzák. A határozatban rendelkezni kell a szakmai gyakorlat időtartamáról, a gyakorlatot szervező intézményről és az intézménynél történő jelentkezés határidejéről.
 
-(4)
+(4) Az (1) bekezdés rendelkezéseitől eltérően a külföldi oklevél által tanúsított szakképzettség a hazai osztatlan mesterképzésben megszerezhető szakképzettségként ismerhető el, ha a külföldi oklevél végzettségi szintje a hazai felsőoktatási intézményben megszerezhető alapfokozat végzettségi szintjével egyenértékű, feltéve, hogy a külföldi képzés legalább ötéves időtartamú.
 
 (5) A kérelmező kérheti külföldi oklevele által tanúsított szakképzettsége egyszakos hazai tanári szakképzettségként történő elismerését is.

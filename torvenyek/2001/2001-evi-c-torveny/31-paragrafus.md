@@ -1,10 +1,8 @@
 31. § (1) Az eljáró hatóság három évnél nem hosszabb alkalmazkodási időszakot vagy alkalmassági vizsgát írhat elő,
 
-a)
+a) ha a kérelmező által elvégzett képzés a Magyarországon szükséges képesítés megszerzéséhez vezető képzés tantárgyaitól lényegesen eltérő tantárgyakat foglal magában, vagy
 
-b) ha a kérelmező képzés sikeres elvégzését tanúsító okiratához vezető képzés lényegesen eltér az adott szabályozott szakma gyakorlásához Magyarországon előírt képzés sikeres elvégzését tanúsító okirathoz vezető képzéstől, vagy
-
-c) ha Magyarországon a szabályozott szakma egy vagy több olyan szabályozott szakmai tevékenységet is magában foglal, amely abban a tagállamban, amelyben a képzés sikeres elvégzését tanúsító okiratot vagy képzettségi tanúsítványt kiállították, nem része a szakmának, feltéve, hogy az adott szakmai tevékenység folytatásához szükséges elméleti és gyakorlati ismeret megszerzése kifejezetten része a hazai képzésnek, a kérelmező képzésének azonban nem volt.
+b) ha Magyarországon a szabályozott szakma egy vagy több olyan szabályozott szakmai tevékenységet is magában foglal, amely a kérelmező tagállamában az ennek megfelelő szakmában nem létezik, és a Magyarországon szükséges képzés lényegesen eltérő tantárgyakat foglal magában a kérelmező képzettségi tanúsítványának vagy előírt képesítés megszerzését tanúsító okiratának megszerzéséhez vezető képzés tantárgyaitól.
 
 (2) Az eljáró hatóság biztosítja, hogy a kérelmező választhasson az alkalmazkodási időszak és az alkalmassági vizsga között.
 

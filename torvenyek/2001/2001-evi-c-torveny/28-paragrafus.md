@@ -82,9 +82,9 @@ b) amelynek rendjét valamely tagállam jogszabályai vagy közigazgatási elő�
 
 (12) Szakmai tapasztalatnak minősül valamely szakmának valamely tagállamban teljes munkaidőben vagy annak időtartamával összességében megegyező tartamú részmunkaidőben tényleges és jogszerű gyakorlása.
 
-(13) Alkalmazkodási időszaknak minősül valamely szabályozott szakma Magyarországon történő gyakorlása az adott szakma képesített szakemberének felügyeletével. Az eljáró hatóság előírhatja, hogy a kérelmező a szakma gyakorlása mellett képzésben is vegyen részt. Az alkalmazkodási időszakot az eljáró hatóság által meghatározott módon értékelni kell. Alkalmazkodási időszakot szabályozott elektronikus ügyintézési szolgáltatás igénybevételével nem lehet teljesíteni.
+(13) Alkalmazkodási időszaknak minősül valamely szabályozott szakma Magyarországon történő gyakorlása az adott szakma képesített szakemberének felügyeletével. Az eljáró hatóság előírhatja, hogy a kérelmező a szakma gyakorlása mellett képzésben is vegyen részt. Az alkalmazkodási időszakot az eljáró hatóság által meghatározott módon értékelni kell. Alkalmazkodási időszakot szabályozott elektronikus ügyintézési szolgáltatás igénybevételével nem lehet teljesíteni. A felügyelet mellett folytatott gyakorlatát töltő személy magyarországi jogállását – különösen a tartózkodási jog, a kötelezettségek, a szociális jogok és az ellátások, juttatások és javadalmazás tekintetében – az eljáró hatóság az alkalmazandó közösségi joggal összhangban állapítja meg.
 
-(14) Alkalmassági vizsgának minősül az olyan, magyar nyelvű elméleti, illetve gyakorlati vizsga, amelyet az eljáró hatóság abból a célból szervez vagy ismer el, hogy felmérje a kérelmező szakmai tudását, képességét és készségét a szabályozott szakma Magyarországon történő gyakorlása szempontjából. Az eljáró hatóság összeállítja azoknak a tantárgyaknak a jegyzékét, amelyek részét képezik a Magyarországon előírt képesítés megszerzéséhez szükséges képzésnek, de a kérelmező képzésének nem voltak részei. Figyelemmel arra, hogy a kérelmező valamely tagállamban képesített szakember, a vizsga követelményei csak olyan ismeretek számonkérésére vonatkozhatnak, amelyek a tevékenység Magyarországon történő folytatásához elengedhetetlenek. Alkalmassági vizsgát szabályozott elektronikus ügyintézési szolgáltatás igénybevételével nem lehet teljesíteni.
+(14) Alkalmassági vizsgának minősül az olyan, magyar nyelvű elméleti, illetve gyakorlati vizsga, amelyet az eljáró hatóság abból a célból szervez vagy ismer el, hogy felmérje a kérelmező szakmai tudását, képességét és készségét a szabályozott szakma Magyarországon történő gyakorlása szempontjából. Az eljáró hatóság összeállítja azoknak a tantárgyaknak a jegyzékét, amelyek részét képezik a Magyarországon előírt képesítés megszerzéséhez szükséges képzésnek, de a kérelmező képzésének nem voltak részei. Figyelemmel arra, hogy a kérelmező valamely tagállamban képesített szakember, a vizsga követelményei csak olyan ismeretek számonkérésére vonatkozhatnak, amelyek a tevékenység Magyarországon történő folytatásához elengedhetetlenek. Alkalmassági vizsgát szabályozott elektronikus ügyintézési szolgáltatás igénybevételével nem lehet teljesíteni. Az alkalmassági vizsga alkalmazásának részleteit, az alkalmassági vizsgára készülő kérelmező magyarországi jogállását az eljáró hatóság állapítja meg.
 
 (15) Gazdálkodó szervezet vezetőjének minősül
 
@@ -100,9 +100,9 @@ c) az olyan kereskedelmi-műszaki jellegű munkakört betöltő személy, aki a 
 
 (18) Önálló vállalkozó az, aki önállóan, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végez gazdasági tevékenységet.
 
-(19) Letelepedés szerinti tagállam az a tagállam, ahol az önálló vállalkozó gazdasági tevékenységét ténylegesen és tartós, huzamos jelleggel, erre a célra szolgáló vagy rendszeresített létesítmény, telep, iroda, üzlet vagy egyéb hely, rögzített felszerelés vagy berendezés útján folytatja.
+(19)
 
-(20) Határon átnyúló szolgáltatásnyújtásnak minősül a tevékenységnek Magyarország területén letelepedés nélkül, átmeneti vagy alkalmi jelleggel történő folytatása.
+(20)
 
 (21) Európai szakmai kártyának minősül az az elektronikus igazolás, amely tanúsítja, hogy a kérelmező megfelelt valamennyi feltételnek ahhoz, hogy képesítését valamely tagállamban elismerjék, vagy valamely tagállamban átmeneti vagy alkalmi jelleggel szolgáltatást nyújtson.
 

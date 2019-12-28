@@ -32,7 +32,7 @@ b) az élelmiszerlánc-felügyeletért felelős miniszter, hogy rendeletben hird
 
 c) az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, hogy rendeletben hirdesse ki az okleveles építészmérnöki oklevelek megnevezését, az előző okirat birtokosaival azonos jogállás alá tartozó személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait.
 
-(4) A hatáskörébe tartozó szabályozott szakmák esetében felhatalmazást kap a miniszter, hogy meghatározza az elismerhető vagy figyelembe vehető szakmai gyakornoki időszak időtartamát és az elismerés vagy figyelembevétel feltételeit.
+(4) Felhatalmazást kapnak a miniszterek, hogy rendeletben állapítsák meg a szabályozási feladatkörükbe tartozó szabályozott szakmák tekintetében az elismerhető vagy figyelembe vehető szakmai gyakornoki időszak megszervezésére és idejére vonatkozó feltételeket, ideértve a szakmai gyakornoki időszakot felügyelő személy szerepére vonatkozó iránymutatást is.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben meghatározza az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek körét.
 

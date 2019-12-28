@@ -1,4 +1,4 @@
-41. § (1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, népegészségügyi vagy a szolgáltatás igénybe vevőjének vagy más személyeknek az életét, testi épségét érintő kockázatokat magában hordozó szabályozott szakma gyakorlását – ide nem értve a VIII., a IX. és a IX/A. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján Magyarország területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés során a hatóság csak azt vizsgálhatja – a feltétlenül szükséges mértékben –, hogy a szolgáltatásnyújtó szakmai felkészültsége megfelelő-e annak elkerülésére, hogy a szolgáltatás igénybe vevője vagy más személy életét, testi épségét súlyos károsodás vagy sérelem érje.
+41. § (1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, közegészségügyi vagy közbiztonsági vonatkozású szakma gyakorlását – ide nem értve a VIII., a IX. és a IX/A. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján Magyarország területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt az ellenőrzés mellőzésével vagy a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés célja az, hogy megakadályozza a szolgáltatás igénybe vevője egészségének vagy biztonságának – a szolgáltatásnyújtó szakmai képesítésének hiánya miatti – súlyos károsodását vagy sérelmét.
 
 (2)
 
@@ -6,11 +6,11 @@
 
 a) a szolgáltatásnyújtást a képesítés külön ellenőrzése nélkül engedélyezi,
 
-b) a szolgáltatásnyújtást előzetes ellenőrzést követően engedélyezi,
+b) a szolgáltatásnyújtást előzetes ellenőrzést követően engedélyezi, vagy,
 
-c) a szolgáltatásnyújtás engedélyezését alkalmassági vizsga sikeres teljesítéséhez köti, vagy
+c) a szolgáltatásnyújtás engedélyezését alkalmassági vizsga sikeres teljesítéséhez köti,
 
-d) a szolgáltatás nyújtását megtiltja, ha az engedély megadásának jogszabályi feltételei hiányoznak.
+d)
 
 (4) Az előzetes ellenőrzést végző hatóság a döntését egy hónapon belül hozza meg. Ha az előzetes ellenőrzést végző hatóság a döntését egy hónapon belül nem tudja meghozni, erről a bejelentés megtételét követő egy hónapon belül tájékoztatja a szolgáltatásnyújtót a döntés meghozatalát gátló körülmény megjelölésével. Az előzetes ellenőrzést végző hatóság a tájékoztatást követő egy hónapon belül az eljárás felfüggesztése mellett intézkedik a gátló körülmény megszüntetéséről. Az előzetes ellenőrzést végző hatóság a (3) bekezdés szerinti döntését a gátló körülmény megszűnésétől számított két hónapon belül meghozza.
 
