@@ -618,7 +618,7 @@
 
 | 43. | A légi közlekedési hatóságnak a radioaktív anyag belföldi légi fuvarozási tevékenység keretében történő továbbítása, valamint földi kiszolgálásának engedélyezésére irányuló eljárása. | A radioaktív anyag szállítása biztonsági feltételeinek, valamint annak vizsgálata kérdésében, hogy szükséges-e a szállítmány fokozott őrzés-védelmének biztosítása. | Minden esetben. | Országos Rendőr-főkapitányság | - | - |
 
-| 44. | A légi közlekedési hatóságnak a polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló kormányrendelet alapján védelmi tiszt kijelölésére kötelezett szervezetek védelmi tisztje és a védelmi felelős kijelölésének és visszavonásának jóváhagyására irányuló eljárása. | A kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata. | Minden esetben. | Az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ | - | - |
+| 44. |  |  |  |  |  |  |
 
 | 45. | A légi közlekedési hatóságnak a nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére irányuló eljárása. | A nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrként kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata. | Minden esetben. | Az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ | - | - |
 
@@ -652,17 +652,17 @@
 
 | 60. | A légi közlekedési hatóságnak a meghatalmazott ügynök, az ismert feladó és a fedélzeti ellátmány meghatalmazott beszállítója minősítése tárgyában indult eljárása. | Az engedélyben foglaltak jelentenek-e kockázatot a légiközlekedés védelme szempontjából. | Minden esetben. | Terrorelhárítási Központ | - | - |
 
-| 61. | A polgári repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények építési engedélyezésére, használatbavételi engedélyezésére, fennmaradási engedélyezésére és bontására irányuló hatósági eljárás. | A katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés. | Minden esetben. | A hivatásos katasztrófavédelmi szerv területi szerve | A hivatásos katasztrófavédelmi szerv központi szerve | - |
+| 61. |  |  |  |  |  |  |
 
 | 62. | Leszállóhely létesítésére irányuló engedélyezési eljárás. | A katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés kérdésében. | Minden esetben. | A hivatásos katasztrófavédelmi szerv területi szerve | A hivatásos katasztrófavédelmi szerv központi szerve | - |
 
 | 63. | A légiforgalmi berendezések engedélyezési eljárásai. | A légiforgalmi berendezések létesítésére vonatkozó tűzvédelmi előírások érvényesítése. | Minden esetben. | A hivatásos katasztrófavédelmi szerv területi szerve | A hivatásos katasztrófavédelmi szerv központi szerve | - |
 
-| 64. | A repülőtér légi közlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárás. | Abban a kérdésben, hogy a repülőtér megfelel-e a fegyveres biztonsági őrség működtetéséhez szükséges feltételeknek, valamint teljesülnek-e a 300/2008/EK rendeletben foglalt alapkövetelmények. | Minden esetben. | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság | - |
+| 64. |  |  |  |  |  |  |
 
-| 65. | A repülőtér légi közlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárás. | A hatáskörébe tartozó feladatrendszer alapján végrehajtott védelmi kockázat felmérése céljából. | Minden esetben. | Alkotmányvédelmi Hivatal | - | - |
+| 65. |  |  |  |  |  |  |
 
-| 66. | A polgári repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények építési engedélyezésére, használatbavételi engedélyezésére, fennmaradási engedélyezésére és bontására irányuló hatósági eljárás. | Abban a kérdésben, hogy a repülőtér megfelel-e a fegyveres biztonsági őrség működtetéséhez, nemzetközi repülőtér esetében a határellenőrzéshez szükséges feltételeknek, továbbá teljesülnek-e a repülőtérre vonatkozó biztonsági alapkövetelmények. | Minden esetben. | A repülőtér fekvése szerint illetékes rendőr-főkapitányság, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság | - |
+| 66. |  |  |  |  |  |  |
 
 | 67. | A polgári repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények építési engedélyezésére, használatbavételi engedélyezésére, fennmaradási engedélyezésére és bontására irányuló hatósági eljárás. | A légiforgalmi berendezések létesítésére vonatkozó tűzvédelmi előírások érvényesítése. | Minden esetben. | A hivatásos katasztrófavédelmi szerv területi szerve | A hivatásos katasztrófavédelmi szerv központi szerve | - |
 
@@ -688,9 +688,9 @@
 
 | 78. | A vízi repülőtér, állami repülések céljára szolgáló repülőtér és közös felhasználású repülőtér kivételével repülőtér üzemeltetésének engedélyezésére irányuló eljárás. | Annak elbírálása, hogy a repülőtéri meteorológiai berendezések üzemeltetése, az eszközök karbantartottsága megfelel-e Chicagói Egyezmény alapján a Meteorológiai Világszervezet és a Nemzetközi Polgári Repülési Szervezet által megállapított előírásoknak. | Minden esetben. | Országos Meteorológiai Szolgálat | - | - |
 
-| 79. | A légiforgalmi berendezések engedélyezési eljárásaiban. | A légiforgalmi berendezések létesítésére vonatkozó tűzvédelmi előírások érvényesítése. | - | A hivatásos katasztrófavédelmi szerv területi szerve | A hivatásos katasztrófavédelmi szerv központi szerv | - |
+| 79. |  |  |  |  |  |  |
 
-| 80. | A légiforgalmi berendezések engedélyezési eljárásaiban. | Az államhatár rendje, a határrend-sértések és határesemények megelőzéséhez szükséges feltételek megléte. | Az államhatártól számított 100 méteren belül telepített légiforgalmi berendezések esetén. | A megyei, fővárosi rendőr-főkapitányság | Országos Rendőr-főkapitányság | - |
+| 80. |  |  |  |  |  |  |
 
 | 81. | A légiforgalmi berendezések engedélyezési eljárásaiban. | Annak elbírálása, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Ha a légiforgalmi berendezés védett természeti területen, Natura 2000 területen történik vagy ezekre közvetlen hatással van, valamint a légiforgalmi berendezés telepítéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges. | A megyei kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró járási hivatala | Pest Megyei Kormányhivatal | 21 nap |
 
@@ -702,11 +702,11 @@
 
 | 85. | A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésével kapcsolatos eljárás. | Annak vizsgálata, hogy a zajmonitoring rendszer kiépítése a környezeti zaj mérésére indokolt-e, hogy a tervezett zajcsökkentési intézkedések milyen feltételek mellett segítik elő a környezet zajvédelmi állapotának javítását, valamint, országos jelentőségű védett természeti területek és Natura 2000 területek érintettsége esetén, annak elbírálása kérdésében, hogy a zajgátló védőövezet kijelölése a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Minden esetben. | A megyei kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró megyeszékhely szerinti járási hivatal | Pest Megyei Kormányhivatal | 21 nap |
 
-| 86. | A radioaktív anyag belföldi légi fuvarozási tevékenység keretében történő továbbítása, valamint földi kiszolgálásának engedélyezésére irányuló eljárás. | A radioaktív anyag szállítása biztonsági feltételeinek, valamint annak vizsgálata kérdésében, hogy szükséges-e a szállítmány fokozott őrzés-védelmének biztosítása. | Minden esetben. | Országos Rendőr-főkapitányság | - | - |
+| 86. |  |  |  |  |  |  |
 
 | 87. | A nyilvános repülőtérre, leszállóhelyre vonatkozó hatósági engedélyezési eljárás. | Annak kérdésében, hogy a tervezett tevékenység a honvédelmi célú légiközlekedés biztonságát, így különösen a honvédelemért felelős miniszter által létrehozott légi kutató-mentő szolgálat hatáskörébe tartozó feladatok ellátását, Magyarország légterének védelmét ellátó szolgálatok tevékenységét vagy a Magyar Honvédség, illetve a szövetséges fegyveres erők feladatainak ellátását akadályozza-e. | Minden esetben. | A katonai légügyi hatóság | - | - |
 
-| 88. | A leszállóhely létesítésére irányuló engedélyezési eljárás. | A katasztrófa- és tűzvédelemmel összefüggő létesítési és használati szabályoknak való megfelelés kérdésében. | Minden esetben. | A hivatásos katasztrófavédelmi szerv területi szerve | A hivatásos katasztrófavédelmi szerv központi szerve |  |
+| 88. |  |  |  |  |  |  |
 
 | 89. | A leszállóhely létesítésére irányuló engedélyezési eljárás. | Annak elbírálása, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek, a tájvédelem jogszabályban rögzített követelményeinek, a környezeti zaj és rezgés elleni védelemre vonatkozó szabályoknak, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | Minden esetben. | A megyei kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró megyeszékhely szerinti járási hivatal | Pest Megyei Kormányhivatal | 21 nap |
 
@@ -716,23 +716,23 @@
 
 | 92. | A polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló kormányrendelet alapján védelmi tiszt kijelölésére kötelezett szervezetek védelmi tisztje és a védelmi felelős, valamint a védelmi oktató kijelölésének és visszavonásának jóváhagyására irányuló eljárás. | A kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében. | Minden esetben. | Az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ | - | - |
 
-| 93. | A nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére irányuló eljárás. | A nemzeti légi közlekedés védelmi minőségbiztosítási ellenőrként kijelölni tervezett személy beosztás betöltése során hordozott lehetséges biztonsági kockázati szintjének vizsgálata tekintetében. | Minden esetben. | Az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ | - | - |
+| 93. |  |  |  |  |  |  |
 
-| 94. | A repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv jóváhagyására irányuló eljárás. | Annak elbírálása, hogy a repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv a légiközlekedés biztonságával kapcsolatos követelményeknek megfelel-e. | Minden esetben. | A repülőtér fekvése szerint illetékes rendőr-főkapitányság, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság | - |
+| 94. |  |  |  |  |  |  |
 
-| 95. | A légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének és működtetésének jóváhagyására irányuló eljárás. | A légi közlekedés védelmi berendezések, eszközök és védelmi rendszerek megfelelőségének kérdése. | Minden esetben. | A repülőtér fekvése szerint illetékes rendőr-főkapitányság, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság | - |
+| 95. |  |  |  |  |  |  |
 
 | 96. | A robbanóanyag-kereső kutya és vezetője jóváhagyására irányuló eljárás. | A légi közlekedés védelmi berendezések, eszközök és védelmi rendszerek megfelelőségének kérdése. | Minden esetben. | Rendőrségi Oktatási és Kiképző Központ | Országos Rendőr-főkapitányság | - |
 
-| 97. | A repülőtér kényszerhelyzeti tervének jóváhagyására irányuló eljárás. | Annak elbírálása kérdése, hogy a) a repülőtér kényszerhelyzeti terve a jogellenes cselekmények megelőzésével és felszámolásával kapcsolatos követelményeknek megfelel-e. | Minden esetben. | A repülőtér fekvése szerint illetékes rendőr-főkapitányság, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság | - |
+| 97. |  |  |  |  |  |  |
 
-| 98. | A repülőtér kényszerhelyzeti tervének jóváhagyására irányuló eljárás. | Annak elbírálása kérdése, hogy a repülőtér kényszerhelyzeti tervében foglaltak megfelelnek-e a katasztrófavédelem erő- és eszközrendszerének, beépített mobil, stabil felszerelésének. | Minden esetben. | A hivatásos katasztrófavédelmi szerv területi szerve | A hivatásos katasztrófavédelmi szerv központi szerve | - |
+| 98. |  |  |  |  |  |  |
 
 | 99. | A 2015/1998 bizottsági (EU) végrehajtási rendelet Melléklet 1.6.2. pontjával összhangban a szigorított védelmi területre történő belépés során egyes személyek, vagy csoportok részére a tiltott tárgyak bevitelének tilalma alóli felmentés megadására irányuló eljárás. | Abban az esetben, ha a bevinni szándékozott tiltott tárgy a 2015/1998 bizottsági (EU) végrehajtási rendelet Melléklet 1-A. Függelékébe tartozik: a) a tiltott tárgyak bevitele és biztonságos őrzése, tárolása feltételeinek való megfelelés, valamint annak elbírálása kérdésében, hogy a tiltott tárgy, annak beviteli céljára figyelemmel, kockázatot jelent-e a légiközlekedés biztonságára vagy a közbiztonságra . | Minden esetben. | A repülőtér fekvése szerint illetékes rendőr-főkapitányság, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóság | - | - |
 
 | 100. | A 2015/1998 bizottsági (EU) végrehajtási rendelet Melléklet 1.6.2. pontjával összhangban a szigorított védelmi területre történő belépés során egyes személyek, vagy csoportok részére a tiltott tárgyak bevitelének tilalma alóli felmentés megadására irányuló eljárás. | Abban az esetben, ha a bevinni szándékozott tiltott tárgy a 2015/1998 bizottsági (EU) végrehajtási rendelet Melléklet 1-A. Függelékébe tartozik: a tiltott tárgyak bevitele és biztonságos őrzése, tárolása, felhasználása kérdésében, valamint terrorveszély kérdésében. | Minden esetben. | Terrorelhárítási Központ | - | - |
 
-| 101. | Meghatalmazott ügynök, az ismert szállító és a fedélzeti ellátmány meghatalmazott beszállítója minősítése tárgyában indult eljárás. | A védelmi ellenőrzések végrehajtása szakkérdésben. | Minden esetben. | Repülőtéri Rendőr Igazgatóság | Országos Rendőr-főkapitányság | - |
+| 101. |  |  |  |  |  |  |
 
 | 102. | Meghatalmazott ügynök, az ismert szállító és a fedélzeti ellátmány meghatalmazott beszállítója minősítése tárgyában indult eljárás. | Abban a szakkérdésben, hogy az engedélyben foglaltak jelentenek-e kockázatot a légiközlekedés védelme szempontjából. | Minden esetben. | Az Alkotmányvédelmi Hivatal, az általános rendőrségi feladatok ellátására létrehozott szerv és a Terrorelhárítási Központ | - | - |
 
@@ -760,9 +760,9 @@
 
 | 114. | Telekalakítási eljárás | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú légiközlekedést, illetve a repülőtéri létesítmények működését. | Ha a telekalakítás meglévő állandó, ideiglenes működésű repülőtér területét érinti. | Közlekedésért felelős miniszter | - | - |
 
-| 115. | A polgári repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építmények építési engedélyezésére, használatbavételi engedélyezésére, fennmaradási engedélyezésére és bontására irányuló hatósági eljárás. | Az egészségkárosító kockázatok és esetleges hatások, valamint a repülőtér környezetében a légiközlekedésből adódó zaj és rezgés okozta, egészségre gyakorolt hatások vizsgálata. | A polgári repülőtér létesítése, használatbavétele, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítése és megszüntetése, a hozzá tartozó általános építmények építési engedélyezésére, használatbavételi engedélyezésére, fennmaradási engedélyezésére és bontására irányuló hatósági eljárás. | A fővárosi és megyei kormányhivatal népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala | A népegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal | - |
+| 115. |  |  |  |  |  |  |
 
-| 116. | A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésével kapcsolatos eljárás. | Az egészségkárosító kockázatok és esetleges hatások felmérésével, valamint a repülőtér környezetében a légi közlekedésből adódó zaj és rezgés okozta egészségre gyakorolt hatások vizsgálata. | A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölése. | A fővárosi és megyei kormányhivatal népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala | A népegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal | - |
+| 116. |  |  |  |  |  |  |
 
 | 117. | A vasúti közlekedési hatóságnak a vasúti építmény engedélyezésére irányuló eljárása. | Az államhatár rendje, a határrend-sértések és határesemények megelőzéséhez szükséges feltételek, valamint a közlekedésbiztonsági követelmények megállapítása. | Minden esetben. | - | Országos Rendőr-főkapitányság | - |
 
@@ -1272,4 +1272,4 @@
 
 | 72. | A kulturális értéket műfaja alapján létrehozó filmalkotások körébe nem tartozó filmalkotások meghatározásáról szóló 122/2019. (V. 27.) Korm. rendelet [a továbbiakban: 122/2019. (V. 27.) Korm. rendelet] 2/A. § (1) bekezdés b) pontja szerinti eljárás. | Annak vizsgálata, hogy a 122/2019. (V. 27.) Korm. rendelet 1. § (2) bekezdése szerinti esetben az egyéb televíziós műsorszámnak minősülő filmalkotás a mozgóképről szóló 2004. évi II. törvény 12. § (8) bekezdése alapján nem támogatható, egyéb televíziós műsorszámnak minősül-e. | Közvetett támogatás esetén folytatott eljárásban. | Nemzeti Kommunikációs Hivatal | – | – |
 
-[^1]: Az 1. melléklet a 103/2018. (VI. 11.) Korm. rendelet 27. §-a, a 108/2018. (VI. 25.) Korm. rendelet 7. §-a, a 162/2018. (IX. 10.) Korm. rendelet 41. §-a, a 226/2018. (XII. 4.) Korm. rendelet 20. § a) pontja, a 265/2018. (XII. 20.) Korm. rendelet 7. §-a, a 305/2018. (XII. 27.) Korm. rendelet 23. §-a, a 322/2018. (XII. 28.) Korm. rendelet 17. §-a, a 29/2019. (III. 1.) Korm. rendelet 1. §-a, a 198/2019. (VIII. 1.) Korm. rendelet 27–28. §-a, a 206/2019. (VIII. 23.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 103/2018. (VI. 11.) Korm. rendelet 27. §-a, a 108/2018. (VI. 25.) Korm. rendelet 7. §-a, a 162/2018. (IX. 10.) Korm. rendelet 41. §-a, a 226/2018. (XII. 4.) Korm. rendelet 20. § a) pontja, a 265/2018. (XII. 20.) Korm. rendelet 7. §-a, a 305/2018. (XII. 27.) Korm. rendelet 23. §-a, a 322/2018. (XII. 28.) Korm. rendelet 17. §-a, a 29/2019. (III. 1.) Korm. rendelet 1. §-a, a 198/2019. (VIII. 1.) Korm. rendelet 27–28. §-a, a 206/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 348/2019. (XII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
