@@ -1,8 +1,8 @@
-## 1. §[^1] E rendelet hatálya kiterjed – a közös felhasználású katonai és polgári repülőtér kivételével – a nyilvános repülőtérre[^2] és a polgári célú nem nyilvános repülőtérre[^3] (a továbbiakban együtt: repülőtér).
+## 1. §[^1] E rendelet hatálya a légiközlekedésről szóló 1995. évi XCVII. törvény 37. § (5) bekezdésében meghatározott polgári és közös felhasználású repülőterekre, valamint a polgári légiközlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i (EU) 2018/1139 európai parlamenti és tanácsi rendelet 2. cikk (7) bekezdésében mentességet kapott repülőterekre terjed ki.
 
-## Fogalommeghatározások[^4]
+## Fogalommeghatározások[^2]
 
-## 2. §[^5] E rendelet alkalmazásában
+## 2. §[^3] E rendelet alkalmazásában
 
 a) érdekelt fél: az a természetes vagy jogi személy, akinek vagy amelynek jogos érdekeit a zaj csökkentése érdekében tett, illetve teendő intézkedés – különösen a légiforgalmi korlátozás – érinti vagy érintheti,
 
@@ -22,8 +22,6 @@ h) 16. függelék: a nemzetközi polgári repülésről Chicagóban, az 1944. é
 
 i) zajvédelmi intézkedés: az 598/2014/EU európai parlamenti és tanácsi rendelet 2. cikk 5. pontja szerinti intézkedés.
 
-[^1]: Az 1. § a 36/2004. (III. 31.) GKM–KvVM e. r. 1. §-ával megállapított szöveg.
-[^2]: Lt. 37. § (1) bekezdésének a) pontja.
-[^3]: Lt. 37. § (1) bekezdésének ba) pontja.
-[^4]: A 2. §-t megelőző alcím a 36/2004. (III. 31.) GKM–KvVM e. r. 2. §-ával megállapított szöveg.
-[^5]: A 2. § a 17/2016. (VI. 10.) NFM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 47/2019. (XII. 23.) ITM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. §-t megelőző alcím a 36/2004. (III. 31.) GKM–KvVM e. r. 2. §-ával megállapított szöveg.
+[^3]: A 2. § a 17/2016. (VI. 10.) NFM rendelet 1. §-ával megállapított szöveg.

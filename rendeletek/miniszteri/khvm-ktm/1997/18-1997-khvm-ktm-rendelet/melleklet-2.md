@@ -86,6 +86,6 @@
 
 ## * –b a pályák szórási tartományának szélessége (repülési folyosó), a középvonaltól ± 0,5 b.
 
-2. számú melléklet a 18/1997. (X. 11.) KHVM–KTM együttes rendelethez[^61]
+2. számú melléklet a 18/1997. (X. 11.) KHVM–KTM együttes rendelethez[^59]
 
-[^61]: Az eredeti melléklet számozását 2. számú mellékletre változtatta a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a.
+[^59]: Az eredeti melléklet számozását 2. számú mellékletre változtatta a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a.

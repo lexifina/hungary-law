@@ -38,7 +38,7 @@ ce) a zajcsökkentő fel- és leszállási eljárásokhoz tartozó vonatkoztatá
 
 cf) az egyéb zajcsökkentő repülőtérhasználati eljárások helyszínei,
 
-cg)[^16] a tervezett zajmonitor pontok helyei (ha a légiközlekedési hatóság annak létesítését elrendeli),
+cg)[^14] a tervezett zajmonitor pontok helyei (ha a légiközlekedési hatóság annak létesítését elrendeli),
 
 ch) azok az esetleges terepalakulatok, ahol a 9. § (3) bekezdése szerint korrekciókat kellett végrehajtani;
 
@@ -46,4 +46,4 @@ d) a számított övezethatárok a c) pontban leírt vagy más azzal azonos mér
 
 (2) A zajgátló védőövezetre vonatkozó számításokat – beleértve a kiinduló adatokat is – a légiközlekedési hatóság ellenőrzi, szükség esetén az ellenőrzéshez szakértő intézményt vehet igénybe. A szakértői közreműködés költségei a repülőtér üzemben tartóját, illetve a zajgátló védőövezet kijelölését kérelmezőt terhelik.
 
-[^16]: A 10. § (1) bekezdése c) pontjának cg) alpontja a 36/2004. (III. 31.) GKM–KvVM e. r. 6. §-ával megállapított szöveg.
+[^14]: A 10. § (1) bekezdése c) pontjának cg) alpontja a 36/2004. (III. 31.) GKM–KvVM e. r. 6. §-ával megállapított szöveg.

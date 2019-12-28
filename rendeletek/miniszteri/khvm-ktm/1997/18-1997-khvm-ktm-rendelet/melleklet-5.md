@@ -1,6 +1,6 @@
 5. számú melléklet a 18/1997. (X. 11.) KHVM–KTM
 
-együttes rendelethez[^72]
+együttes rendelethez[^70]
 
 ## A zajmonitor rendszer által kielégítendő követelmények
 
@@ -52,7 +52,7 @@ j) minden monitorpont adatsorát felhasználva a repülőtér körül kijelölt 
 
 5. Az adatsorokat a zajgátló védőövezet következő felülvizsgálatáig meg kell őrizni a monitorrendszer üzemeltetőjének a telephelyén.
 
-6. A monitor mérő rendszerének a felbontása legalább 1 dB legyen, és rendelkezzen a méréstartomány automatikus beállításának a lehetőségével (autorange). A mérőrendszer egyebekben feleljen meg a mindenkori, a környezeti zajterhelés mérésekben alkalmazott műszerekre vonatkozó előírásoknak[^73]. A rendszeres pontosság ellenőrzést a monitorrendszer szállítójának/gyártójának az előírásai szerint kell elvégezni. A pontosságellenőrzést a monitorrendszer üzemeltetőjének kell kezdeményeznie, és az eljárás rendjét belső utasításban rögzítenie kell. A pontosságellenőrzés elvégzésével a NAT által a feladatra akkreditált vizsgálóhelyet kell megbízni.
+6. A monitor mérő rendszerének a felbontása legalább 1 dB legyen, és rendelkezzen a méréstartomány automatikus beállításának a lehetőségével (autorange). A mérőrendszer egyebekben feleljen meg a mindenkori, a környezeti zajterhelés mérésekben alkalmazott műszerekre vonatkozó előírásoknak[^71]. A rendszeres pontosság ellenőrzést a monitorrendszer szállítójának/gyártójának az előírásai szerint kell elvégezni. A pontosságellenőrzést a monitorrendszer üzemeltetőjének kell kezdeményeznie, és az eljárás rendjét belső utasításban rögzítenie kell. A pontosságellenőrzés elvégzésével a NAT által a feladatra akkreditált vizsgálóhelyet kell megbízni.
 
 7. A repülőtér forgalmát úgy kell szabályozni, hogy a monitorozott zajterhelés 1 éves vonatkoztatási idő alatt az összes átrepülés zaj-küszöbértéke meghaladásának időtartama 5%-ának megfelelő időtartamnál hosszabb ideig ne haladja meg a zajmonitorpont tényleges helyzetéhez tartozó izofon-görbe szerinti zajterhelést.
 
@@ -60,5 +60,5 @@ Megjegyzés:
 
 Fentiek szerint létesített zajmonitornál a zajgátló védőövezet határának módosulásakor a monitorpontot nem kell áthelyezni. Amennyiben beépített területet érintő zajgátló védőövezet kijelölése nem indokolt, monitorpontot sem kell kijelölni.
 
-[^72]: Az 5. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.
-[^73]: MSZ-ISO 1996-1:1995 szabvány.
+[^70]: Az 5. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.
+[^71]: MSZ-ISO 1996-1:1995 szabvány.
