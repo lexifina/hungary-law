@@ -12,7 +12,7 @@ e) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet vonatkozás�
 
 (2) Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljeskörűen felfüggesztheti, ha az akkreditált szervezet vagy akkreditált természetes személy a jelentős változás bejelentését elmulasztja. Jelentős változásnak minősül:
 
-a) az akkreditált szervezet jogi, tulajdonosi vagy szervezeti formájában, felépítésében, vezetésében,
+a) az akkreditált szervezet elnevezésében, jogi, tulajdonosi vagy szervezeti formájában, felépítésében, vezetésében,
 
 b) az akkreditált tevékenységet ellátó személyek létszámában, fél éven belül, 30%-ot elérő vagy meghaladó mértékben,
 
@@ -30,4 +30,6 @@ bekövetkezett változás.
 
 (3) Az akkreditáló szerv az akkreditált szervezet vagy akkreditált természetes személy akkreditált státuszát részlegesen vagy teljes körűen felfüggesztheti, ha a felügyeleti vizsgálat során megállapítja, hogy az akkreditált státusz alapjául szolgáló körülményekben olyan változás következett be, amelynek következtében az akkreditálás alapvető követelményei csak részben teljesülnek.
 
-(4) Az akkreditáló szerv a felfüggesztő határozatban a felfüggesztés megszüntetésének feltételeiről és a feltételek teljesítésének határidejéről is dönt. Ha az akkreditált szervezet vagy akkreditált természetes személy az előírt feltételeknek határidőben eleget tesz, az akkreditáló szerv a felfüggesztő határozatot visszavonja.
+(4) Az akkreditáló szerv az akkreditált szervezet, vagy akkreditált természetes személy akkreditált státuszát részlegesen, vagy teljeskörűen felfüggesztheti, ha az akkreditált szervezet vagy akkreditált természetes személy az eljárás során hamis adatszolgáltatást teljesít.
+
+(5) Az akkreditáló szerv a felfüggesztő határozatban a felfüggesztés megszüntetésének feltételeiről és a feltételek teljesítésének határidejéről is dönt. Ha az akkreditált szervezet, vagy akkreditált természetes személy az előírt feltételeknek határidőben eleget tesz, az akkreditáló hatóság a felfüggesztő határozatot visszavonja.
