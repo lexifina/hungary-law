@@ -4,4 +4,6 @@
 
 (3) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket I. kategóriába sorolom.
 
-(4) A védetté nyilvánítás célja a mai formájában a Heinrich-család megbízásából Hubert József és Móry Károly által 1892–1893-ban tervezett, U alaprajzú, reprezentatív, háromemeletes épület és földszintes raktárépületek, az 1907-ben Hubert József által tervezett kétemeletes raktár, valamint az 1912-ben Sándy Gyula által tervezett, a raktárhoz U alakban csatlakozó épület építészeti, képző- és iparművészeti, továbbá ipari- és kereskedelemtörténeti értékeinek megőrzése.
+(4)[^4] A védetté nyilvánítás célja a mai formájában a Heinrich-család megbízásából Hubert József és Móry Károly által 1892–1893-ban tervezett, U alaprajzú, reprezentatív, háromemeletes épület és az 1907-ben Hubert József által tervezett kétemeletes raktár, valamint az 1912-ben Sándy Gyula által tervezett, a raktárhoz U alakban csatlakozó épület építészeti, képző- és iparművészeti, továbbá ipari- és kereskedelemtörténeti értékeinek megőrzése.
+
+[^4]: Az 52. § (4) bekezdése a 19/2019. (XII. 20.) MvM rendelet 12. § (4) bekezdés a) pontja szerint módosított szöveg.
