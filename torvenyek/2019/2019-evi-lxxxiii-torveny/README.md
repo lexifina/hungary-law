@@ -1,0 +1,7 @@
+# 2019. évi LXXXIII. törvény egyes törvények ipar- és kereskedelemszabályozási szempontból történő, valamint jogharmonizációs célú módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-83-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2019-12-28 | 2019. évi LXXXIII. törvény | 2019-83-00-00.0 (közlönyállapot) |

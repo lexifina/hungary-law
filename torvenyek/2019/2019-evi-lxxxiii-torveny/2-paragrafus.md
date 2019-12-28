@@ -1,0 +1,3 @@
+2. § Az Etv. 13. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Nem felsőoktatási képzésben történő továbbtanulásra való jelentkezésre jogosító hazai érettségi bizonyítványként ismerhető el az a külföldi bizonyítvány, amely azért nem tartozik az (1) vagy a (3) bekezdés hatálya alá, mert a kérelmezőt nem jogosítja az adott országban felsőoktatási intézménybe történő jelentkezésre, vagy kizárólag valamely külföldi felsőoktatási képzésre, képzési területre vagy felsőoktatási intézménytípusban történő továbbtanulásra való jelentkezésre jogosít, feltéve, hogy a bizonyítvány jogosít nem felsőoktatási képzésben történő továbbtanulásra való jelentkezésre az adott országban.”
