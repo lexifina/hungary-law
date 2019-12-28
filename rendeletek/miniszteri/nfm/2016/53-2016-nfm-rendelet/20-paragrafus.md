@@ -1,4 +1,4 @@
-## 17–19. §[^7]
+## 17–19. §[^10]
 
 ## 11. A szakszolgálati tevékenység folyamatos ellátásának követelményei
 
@@ -36,4 +36,4 @@ a) részt kell vennie egy vizsgáztató által végzett készségellenőrzésen,
 
 b) teljesítenie kell a hiányzó repülési időt, valamint a felszállásokat és a leszállásokat oktató felügyelete mellett kétkormányos légijárművön vagy egyedülrepülések során.
 
-[^7]: A 17–19. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § b) pontja hatályon kívül helyezte.
+[^10]: A 17–19. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § b) pontja hatályon kívül helyezte.

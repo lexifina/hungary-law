@@ -120,6 +120,6 @@ f) kétüléses szárazföldön üzemelő, sárkányszerkezetre szerelt ejtőern
 
 51. vitorlázó repülőgép: az 1178/2011/EU bizottsági rendelet I. Mellékletében meghatározott fogalom;
 
-52.[^1] nyelvismereti kiterjesztés: a nyelvismereti igazolással rendelkező személy szakszolgálati engedélyében a légiközlekedési hatóság tett nyelvismeretet igazoló bejegyzés;
+52.[^2] nyelvismereti kiterjesztés: a nyelvismereti igazolással rendelkező személy szakszolgálati engedélyében a légiközlekedési hatóság tett nyelvismeretet igazoló bejegyzés;
 
-[^1]: A 2. § 52. pontját az 55/2017. (XII. 27.) NFM rendelet 96. §-a iktatta be.
+[^2]: A 2. § 52. pontját az 55/2017. (XII. 27.) NFM rendelet 96. §-a iktatta be.

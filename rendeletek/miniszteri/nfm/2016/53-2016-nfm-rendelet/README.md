@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-53-20-2
 | 2017-03-16 | 2016-53-20-2W.1 | 53/2016. (XII. 16.) NFM rendelet |
 | 2017-03-17 | 2016-53-20-2W.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2016-53-20-2W.3 | 55/2017. (XII. 27.) NFM rendelet |
+| 2019-12-28 | 2016-53-20-2W.4 | 47/2019. (XII. 23.) ITM rendelet |

@@ -1,4 +1,4 @@
-## 72–73. §[^18]
+## 72–73. §[^21]
 
 ## VIII. Fejezet
 
@@ -6,4 +6,4 @@
 
 ## 31. A mezőgazdasági jogosítással rendelkező engedélyes jogosultságai és a jogosítás megszerzésének feltételei
 
-[^18]: A 72–73. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § k) pontja hatályon kívül helyezte.
+[^21]: A 72–73. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § k) pontja hatályon kívül helyezte.
