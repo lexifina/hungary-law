@@ -2,7 +2,7 @@
 
 ## 3. Üzembentartói baleseti ügyeleti szolgálat
 
-3. § (1) A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 65/A. § (3a) bekezdése szerinti, a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi irányelv, az 1592/2002/EK rendelet és a 2004/35/EK irányelv hatályon kívül helyezéséről szóló 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 216/2008/EK európai parlamenti és tanácsi rendelet) II. MELLÉKLETÉBEN meghatározott légijármű esetén üzembentartói baleseti ügyeleti szolgálatot az üzemben tartónak működtetnie kell:
+3. § (1)[^1] A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 65/A. § (3a) bekezdése szerinti, a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-ei (EU) 2018/1139 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/1139 rendelet] I. Mellékletében meghatározott légijármű esetén üzembentartói baleseti ügyeleti szolgálatot az üzemben tartónak működtetnie kell:
 
 a) az üzemben tartásában lévő légijármű repülésének tartama alatt, illetve ejtőernyős ugrás esetén mindaddig, amíg az ejtőernyős földet nem ér és
 
@@ -19,3 +19,5 @@ b) a légiközlekedési jogszabályoknak,
 c) a szakmai vizsgálatot lefolytató vizsgálóbizottság munkájába bevonható személyek névsorát és értesítési címét, telefonszámát, továbbá a közlekedésbiztonsági szerv, a hatóságok és más intézkedésre, döntésre jogosultak értesítési címét és telefonszámát tartalmazó ügyeleti listának,
 
 d) a nyilvános távbeszélő hálózatra csatlakoztatott megfelelő hírközlő eszköznek.
+
+[^1]: A 3. § (1) bekezdése a 47/2019. (XII. 23.) ITM rendelet 17. § a) pontja szerint módosított szöveg.
