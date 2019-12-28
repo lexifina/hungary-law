@@ -1,14 +1,14 @@
-## 25/A. §[^63] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^64] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+## 25/A. §[^70] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 2. § (3) bekezdés 29. és 30. pontjának hatálybalépése[^71] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
 
-26. § (1)[^65] Ez a rendelet
+26. § (1)[^72] Ez a rendelet
 
 a) a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet,
 
 b) a járművezetői kártyák elektronikus nyilvántartásának összekapcsolásához szükséges közös eljárásokról és előírásokról szóló, 2016. január 21-i (EU) 2016/68 bizottsági végrehajtási rendelet
 
-c)[^66] a közúti fuvarozó vállalkozásokról vezetett nemzeti elektronikus nyilvántartások összekapcsolására vonatkozó közös szabályok megállapításáról és az 1213/2010/EU rendelet hatályon kívül helyezéséről szóló, 2016. április 1-i (EU) 2016/480 bizottsági végrehajtási rendelet,
+c)[^73] a közúti fuvarozó vállalkozásokról vezetett nemzeti elektronikus nyilvántartások összekapcsolására vonatkozó közös szabályok megállapításáról és az 1213/2010/EU rendelet hatályon kívül helyezéséről szóló, 2016. április 1-i (EU) 2016/480 bizottsági végrehajtási rendelet,
 
-d)[^67] az új nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának nyomon követéséről és bejelentéséről szóló, 2018. június 28-i (EU) 2018/956 európai parlamenti és tanácsi rendelet
+d)[^74] az új nehézgépjárművek CO2-kibocsátásának és tüzelőanyag-fogyasztásának nyomon követéséről és bejelentéséről szóló, 2018. június 28-i (EU) 2018/956 európai parlamenti és tanácsi rendelet
 
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -20,7 +20,7 @@ b) a légi járművek és kapcsolódó termékek, alkatrészek és berendezések
 
 c) a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló 2042/2003/EK rendelet módosításáról szóló, 2012. július 5-i 593/2012/EU bizottsági rendelet,
 
-d) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet,
+d)[^75] a polgári légiközlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i (EU) 2018/1139 európai parlamenti és tanácsi rendelet,
 
 e) a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet,
 
@@ -118,7 +118,7 @@ e) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgá
 
 f) a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló, 2006. január 18-i 2006/1/EK európai parlamenti és tanácsi irányelvnek,
 
-g)[^68] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, 7. cikkének, valamint 8. cikk (1) bekezdésének,
+g)[^76] a lobogó szerinti állammal szembeni követelmények teljesítéséről szóló, 2009. április 23-i 2009/21/EK európai parlamenti és tanácsi irányelv 3. cikk b) pontjának, 6. cikk d)–e) pontjának, 7. cikkének, valamint 8. cikk (1) bekezdésének,
 
 h) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i 2009/13/EK tanácsi irányelvnek,
 
@@ -128,12 +128,13 @@ j) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközök
 
 k) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelvnek
 
-l)[^69] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
+l)[^77] az Unió területén közlekedő haszonjárművek közlekedésre való alkalmasságának közúti műszaki ellenőrzéséről és a 2000/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/47/EU európai parlamenti és tanácsi irányelvnek
 
-[^63]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
-[^64]: A hatálybalépés időpontja 2017. július 1.
-[^65]: A 26. § (1) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^66]: A 26. § (1) bekezdés c) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (1) bekezdése iktatta be.
-[^67]: A 26. § (1) bekezdés d) pontját a 128/2019. (V. 30.) Korm. rendelet 6. §-a iktatta be.
-[^68]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^69]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^70]: A 25/A. §-t a 171/2017. (VI. 29.) korm. rendelet 23. § (2) bekezdése iktatta be.
+[^71]: A hatálybalépés időpontja 2017. július 1.
+[^72]: A 26. § (1) bekezdése a 233/2017. (VIII. 14.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^73]: A 26. § (1) bekezdés c) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^74]: A 26. § (1) bekezdés d) pontját a 128/2019. (V. 30.) Korm. rendelet 6. §-a iktatta be.
+[^75]: A 26. § (2) bekezdés d) pontja a 348/2019. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^76]: A 26. § (4) bekezdés g) pontja a 267/2018. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^77]: A 26. § (4) bekezdés l) pontját a 289/2018. (XII. 21.) Korm. rendelet 27. § (2) bekezdése iktatta be.
