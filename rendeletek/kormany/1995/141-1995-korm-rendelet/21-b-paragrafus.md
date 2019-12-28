@@ -1,4 +1,4 @@
-21/B. §[^33] (1) A rendelkezésre álló terep és akadály adatkészletek jegyzékét a központi légiforgalmi tájékoztató szolgálatnak (a továbbiakban: AIS) terep adattermék, valamint akadály adattermék specifikáció formájában elektronikusan teszi közzé.
+21/B. §[^34] (1) A rendelkezésre álló terep és akadály adatkészletek jegyzékét a központi légiforgalmi tájékoztató szolgálatnak (a továbbiakban: AIS) terep adattermék, valamint akadály adattermék specifikáció formájában elektronikusan teszi közzé.
 
 (2) Valamennyi terep adattermék specifikációnak tartalmaznia kell egy áttekintő részt, a részletes leírás érvényességi tartományát, az adattermék azonosítását, az adatok összetételét és szerkezetét, a vonatkoztatási rendszert, az adat minőségét, az adat rögzítését, az adatok karbantartását, az adat ábrázolását, az adattermék továbbítását, kiegészítő információkat és a metaadatokat.
 
@@ -16,4 +16,4 @@ b) a felszállási terület leírását és
 
 c) az akadálykorlátozási felületek leírását.
 
-[^33]: A Vhr. 21/B. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^34]: A Vhr. 21/B. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.

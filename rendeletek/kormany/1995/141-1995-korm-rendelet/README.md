@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-141-20-
 | 2018-01-01 | 1995-141-20-22.31 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2019-03-31 | 1995-141-20-22.32 | 28/2019. (III. 1.) Korm. rendelet |
 | 2019-07-25 | 1995-141-20-22.33 | 167/2019. (VII. 9.) Korm. rendelet |
+| 2019-12-28 | 1995-141-20-22.34 | 348/2019. (XII. 23.) Korm. rendelet |
