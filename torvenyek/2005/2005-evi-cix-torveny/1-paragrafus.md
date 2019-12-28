@@ -6,7 +6,7 @@ a) felelős vezető: a hadiipari tevékenységet, illetve a haditechnikai külke
 
 b) hadiipari tevékenység: haditechnikai termék gyártása vagy haditechnikai szolgáltatás nyújtása;
 
-c) haditechnikai termék, szolgáltatás: a védelem terén alapvető biztonsági érdekeket érintő, kifejezetten katonai, nemzetbiztonsági, rendvédelmi és rendészeti célokra alkalmas, az Európai Unió közös katonai listáján található, illetve nemzeti érdekből ide sorolt termék vagy szolgáltatás;
+c) haditechnikai termék, szolgáltatás: a 10. § (1) bekezdés d) pontja szerinti felhatalmazás alapján kormányrendeletben meghatározott termék és szolgáltatás;
 
 d) haditechnikai termék gyártása: a haditechnikai termék előállítására, átalakítására irányuló tevékenység, ideértve a termék első alkalommal történő összeszerelését;
 

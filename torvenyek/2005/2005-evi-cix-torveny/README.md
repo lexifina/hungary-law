@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-109-00-00
 | 2017-06-17 | 2017. évi LXXII. törvény | 2005-109-00-00.15 |
 | 2018-01-01 | 2017. évi L. törvény | 2005-109-00-00.16 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2005-109-00-00.17 |
+| 2019-12-28 | 2019. évi LXXXIII. törvény | 2005-109-00-00.18 |

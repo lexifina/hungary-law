@@ -18,21 +18,7 @@ g) tevékenységet engedély nélkül végzi
 
 a hadiipari gyártás- és szolgáltatásfelügyelet bírsággal sújthatja.
 
-(2) A bírság mértékét a hadiipari gyártás- és szolgáltatásfelügyelet az alábbi körülményeket mérlegelve állapítja meg:
-
-a) a jogsértéssel okozott hátrány, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
-
-b) a jogsértéssel okozott hátrány visszafordíthatósága,
-
-c) a jogsértéssel érintettek körének nagysága,
-
-d) a jogsértő állapot időtartama,
-
-e) a jogsértő magatartás ismétlődése és gyakorisága,
-
-f) a jogsértést elkövető eljárást segítő, együttműködő magatartása, valamint
-
-g) a jogsértőnek való felróhatóság.
+(2)
 
 (3) A bírság ugyanazon kötelezettség ismételt megszegése esetén, ismételten is kiszabható. Ugyanazon kötelezettség többszöri megszegésének egy eljárásban való elbírálása esetén a bírság felső határa az alapérték kétszeresére emelkedik. Több különböző kötelezettségnek ugyanabban az eljárásban való elbírálása esetén a legsúlyosabb kötelezettségszegésre megállapított bírság felső határa a felével emelkedik.
 
