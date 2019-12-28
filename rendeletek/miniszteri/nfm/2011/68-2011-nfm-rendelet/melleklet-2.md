@@ -1,85 +1,89 @@
-2. melléklet a 68/2011. (XI. 30.) NFM rendelethez
+2. melléklet a 68/2011. (XI. 30.) NFM rendelethez[^32]
 
-## Az egyes EATMN-rendszerek és a vonatkozó földi és légiellenőrzési időszakok
+Az egyes ATM/ANS-rendszerek és a vonatkozó földi és légiellenőrzési időszakok
 
-| Rendszer megnevezése | Ellenőrzés |
+|  | A | B | C |
+
+| 1 | Rendszer megnevezése | Ellenőrzés |
 
 | Földi (hónap) | Légi (hónap) |
 
-| Légtérgazdálkodási rendszerek | Karbantartási utasítás szerint | – |
+| 2 | Légtérgazdálkodási rendszerek | Karbantartási utasítás szerint | – |
 
-| A légiforgalmi áramlás szervezésének rendszerei | Karbantartási utasítás szerint | – |
+| 3 | A légiforgalmi áramlás szervezésének rendszerei | Karbantartási utasítás szerint | – |
 
-| A légiforgalmi szolgálatok rendszerei, különösen a repülési adatokat feldolgozó rendszerek, a légtérellenőrzési adatokat feldolgozó rendszerek és az ember-gép interfészrendszerek | Karbantartási utasítás szerint | – |
+| 4 | A légiforgalmi szolgálatok rendszerei, különösen a repülési adatokat feldolgozó rendszerek, a légtérellenőrzési adatokat feldolgozó rendszerek és az ember-gép interfészrendszerek | Karbantartási utasítás szerint | – |
 
-| Távközlési rendszerek a földi, a fedélzet és a földi irányítás közötti, valamint a fedélzetek közötti kommunikációhoz | Légi-földi adatkapcsolati kommunikáció | VDL Mode2 | Karbantartási utasítás szerint | – |
+| 5 | Kommunikációs rendszerek, beleértve a föld-föld/világűr, levegő-föld és levegő-levegő/világűr kommunikációt lehetővé tevő rendszereket | Légi-földi adatkapcsolati kommunikáció | VDL Mode 2 | Karbantartási utasítás szerint | – |
 
-| Levegő-föld hang kommunikáció | VHF 25kHz | 3 | Új telepítési helyen történő üzembe helyezéskor |
+| 6 | Levegő-föld hang kommunikáció | VHF 25 kHz | 3 | Új telepítési helyen történő üzembe helyezéskor |
 
-| VHF 8,33kHz | 3 | Új telepítési helyen történő üzembe helyezéskor |
+| 7 | VHF 8,33 kHz | 3 | Új telepítési helyen történő üzembe helyezéskor |
 
-| Föld-föld kommunikációs alkalmazások | AMHS | 1/6 | – |
+| 8 | Föld-föld kommunikációs alkalmazások | AMHS | 1/6 | – |
 
-| DRS (Digital Radio System) | 6 hónap | – |
+| 9 | DRS (Digital Radio System | 6 | – |
 
-| Föld-föld kommunikációs hálózatok | AFTN | 1/6 | – |
+| 10 | Föld-föld kommunikációs hálzatok | AFTN | 1/6 | – |
 
-| CIDIN | Karbantartási utasítás szerint | – |
+| 11 | CIDIN | Karbantartási utasítás szerint | – |
 
-| LAN-WAN pont-pont között | Karbantartási utasítás szerint | – |
+| 12 | LAN-WAN pont-pont között | Karbantartási utasítás szerint | – |
 
-| RTDS | Karbantartási utasítás szerint | – |
+| 13 | RTDS | Karbantartási utasítás szerint | – |
 
-| Föld-föld hang kommunikáció | VoIP | 3 | – |
+| 14 | Föld-föld hang kommunikáció | VoIP | 3 | – |
 
-| ATS Voice | 3 | – |
+| 15 | ATS Voice | 3 | – |
 
-| Navigációs rendszerek | Navigációs segédeszközök | NDB | 3/6 | 24xx |
+| 16 | Navigációs rendszerek | Navigációs segédeszközök | NDB | 3/6 | 24xx1 |
 
-| QFS (Repülőtéri NDB) | Karbantartási utasítás szerint | 12xx |
+| 17 | QFS (Repülőtéri NDB) | Karbantartási utasítás szerint | 12xx |
 
-| VOR | 3/6 | 12xx |
+| 18 | VOR | 3/6 | 12xx |
 
-| DME | 3/6 / vagy Karbantartási utasítás szerint | 12xx |
+| 19 | DME | 3/6 vagy karbantartási utasítás szerint | 12xx |
 
-| ILS | 1/3/6 / vagy karbantartási utasítás szerint | 6x |
+| 20 | ILS | 1/3/6 vagy karbantartási utasítás szerint | 6x2 |
 
-| MKR | Karbantartási utasítás szerint | 6x |
+| 21 | MKR | Karbantartási utasítás szerint | 6x |
 
-| GBAS | Karbantartási utasítás szerint | Üzembe helyezéskor és az ICAO által meghatározott esetben |
+| 22 | GBAS | Karbantartási utasítás szerint | Üzembe helyezéskor és az ICAO által meghatározott esetben |
 
-| Repülőtéri fénytechnikai berendezések | PAPI, Futópályák fénytechnikai rendszerei | Karbantartási utasítás szerint | 12xx |
+| 23 | Repülőtéri fénytechnikai berendezések | PAPI, Futópályák fénytechnikai rendszerei | Karbantartási utasítás szerint | 12xx |
 
-| Biztonsági és ellenőrzési navigáció | VDF | Karbantartási utasítás szerint | – |
+| 24 | Biztonsági és ellenőrzési navigáció | VDF | Karbantartási utasítás szerint | – |
 
-| Légtérellenőrző rendszerek | Elsődleges radar | En-route | 1/6/12 | Üzembe helyezéskor |
+| 25 | Légtérellenőrző rendszerek | Elsődleges radar | En-route | 1/6/12 | Üzembe helyezéskor |
 
-| App | 1/6/12 | Üzembe helyezéskor |
+| 26 | App | 1/6/12 | Üzembe helyezéskor |
 
-| SMR | 1/3/6/12 |  |
+| 27 | SMR | 1/3/6/12 | – |
 
-| Másodlagos radar | Mode A/C | 1/6/12 | Üzembe helyezéskor |
+| 28 | Másodlagos radar | Mode A/C | 1/6/12 | Üzembe helyezéskor |
 
-| Mode S | 1/6/12 | Üzembe helyezéskor |
+| 29 | Mode S | 1/6/12 | Üzembe helyezéskor |
 
-| Multilateration | WAM | Karbantartási utasítás szerint | – |
+| 30 | Multilateration | WAM | Karbantartási utasítás szerint | – |
 
-| LAM | 1/3/6 | – |
+| 31 | LAM | 1/3/6 | – |
 
-| ADS-B | Karbantartási utasítás szerint | – |
+| 32 | ADS-B | Karbantartási utasítás szerint | – |
 
-| SDDS | Karbantartási utasítás szerint | – |
+| 33 | SDDS | Karbantartási utasítás szerint | – |
 
-| ASMGCS | 1/3/6 | – |
+| 34 | ASMGCS | 1/3/6 | – |
 
-| LIDAR | Karbantartási utasítás szerint | – |
+| 35 | LIDAR | Karbantartási utasítás szerint | – |
 
-| A légiforgalmi tájékoztató szolgálatok rendszerei | Karbantartási utasítás szerint | – |
+| 36 | A légiforgalmi tájékoztató szolgálatok rendszerei | Karbantartási utasítás szerint | – |
 
-| A meteorológiai adatok felhasználására szolgáló rendszerek | 1/6/12 | – |
+| 37 | A meteorológiai szolgálatok által használt, meteorológiai adatok felhasználására szolgáló rendszerek | 1/6/12 | – |
 
 Megjegyzés:
 
-1. x a megadott időtartam + 15 napon belül.
+1 xx: a megadott időtartam + 1 hónapon belül
 
-2. xx a megadott időtartam + 1 hónapon belül.
+2 x: a megadott időtartam + 15 napon belül
+
+[^32]: A 2. melléklet a 47/2019. (XII. 23.) ITM rendelet 8. § (2) bekezdésével megállapított szöveg.
