@@ -108,11 +108,11 @@ vagyoni hozzájárulás összege: ………………………………………�
 
 A vagyoni hozzájárulás összetétele:
 
-a) …………………………………………………… Ft készpénz, amelynek rendelkezésre bocsátásának
+a) ............................................................ Ft készpénz, amely rendelkezésre bocsátásának
 
-ideje:[^19.] ,
+ideje: [^19.] ........................................................................................................................,
 
-módja: a társaság pénzforgalmi számlájára történő befizetés.
+módja: befizetés a társaság pénzforgalmi számlájára / a társaság házipénztárába (aláhúzással jelölendő).
 
 [^20b)] …………………………. megnevezésű Ft értékű nem pénzbeli vagyoni hozzájárulás, amely
 
@@ -124,11 +124,11 @@ vagyoni hozzájárulás összege: ………………………………………�
 
 A vagyoni hozzájárulás összetétele:
 
-a) …………………………………………………… Ft készpénz, amelynek rendelkezésre bocsátásának
+a) ............................................................ Ft készpénz, amely rendelkezésre bocsátásának
 
-ideje:[^23.] ,
+ideje:[^23.] ........................................................................................................................,
 
-módja: a társaság pénzforgalmi számlájára történő befizetés.
+módja: befizetés a társaság pénzforgalmi számlájára / a társaság házipénztárába (aláhúzással jelölendő).
 
 [^24b)] ………………………megnevezésű Ft értékű nem pénzbeli vagyoni hozzájárulás, amely
 
@@ -356,7 +356,7 @@ Név:
 
 Okirati ellenjegyzés/közjegyzői okirat elemei
 
-[^70]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § a) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^70]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés a) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (11) bekezdés c) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § a) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése, a 31/2019. (XII. 20.) IM rendelet 1. § (1) bekezdése szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerint kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nincs szükség.
 [^2.]: Szükség esetén kitöltendő.
 [^3.]: Aláhúzással jelölendő.
