@@ -308,7 +308,7 @@ tartalmazhat.
 
 | 76. | Phenibut | 4-amino-3-phenylbutanoic acid |
 
-| 77. | Mephtetramine, MTA, MTTA | 2-[(methylamino)methyl]- 3,4-dihydronaphthalen-1(2H)-one |
+| 77. |  |  |
 
 | 78. | 2-fluorodeschloroketamine, 2-Fl-2’-Oxo-PCM, fluoroketamine, 2-FDCK, 2F-DK, 2-FDK, 2-FK | 2-(2-fluorophenyl)-2-(methylamino)cyclohexanone |
 
@@ -326,9 +326,13 @@ tartalmazhat.
 
 | 85. | diphenyl-PBP | 1-(1,3-diphenylpropan-2-yl)pyrrolidine |
 
+| 86. | benzoil-fentanil | 1.N-(1-phenethylpiperidin-4-yl)–N-phenylbenzamide; N-phenyl- N-[1-(2-phenylethyl)–4-piperidyl]benzamide; N-phenyl-N- [1-(2-phenylethyl)piperidin-4-yl]benzamide |
+
+| 87. | Cumyl-CH-MegaClone | 5-cyclohexylmethyl-2-(2-phenylpropan-2-yl)–2,5-dihydro- 1H-pyrido[4,3-b]indol-1-one |
+
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
 [^1]: A 3. § a 6/2017. (V. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a szerint módosított szöveg.
