@@ -1,16 +1,20 @@
+## 6. §[^5]
+
 ## 5. A zöld prémium és kötelező átvétel típusú támogatás megállapításának keretei
 
-7. § (1) Az 1. és 2. mellékletben szereplő értékeket a Hivatal – a (2) bekezdésben meghatározottak kivételével – minden naptári év november 1. napjáig felülvizsgálja, és ennek alapján meghirdeti a következő naptári évre érvényes értékeket, amelyek azokra az új belépőkre vonatkoznak, akik
+7. § (1)[^6] A támogatási mértékeket a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) azokra az évekre vonatkozóan határozza meg, amelyekre a megújuló energiaforrásból származó villamos energia termelési támogatás korlátairól és a prémium típusú támogatásra irányuló pályázati eljárásról szóló 62/2016. (XII. 28.) NFM rendelet (a továbbiakban: NFM rendelet) 1. melléklet 1. és 2. táblázatában a kiosztható új támogatási jogosultságok korlátai nulla forintnál nagyobbak.
 
-a) hiánytalan támogatási kérelme a következő naptári év kezdetét követően érkezik be a Hivatalhoz vagy
+(2)[^7] Az (1) bekezdés szerinti évekre a Hivatal – a (2a) bekezdésben meghatározottak kivételével – a tárgyévet megelőző év november 1. napjáig felülvizsgálja, és ennek alapján meghirdeti a következő naptári évre érvényes támogatási mértékeket, amelyek azokra az új belépőkre vonatkoznak, akik
 
-b) támogatási kérelme az energiapolitikáért felelős miniszter által rendeletben megállapított korlátok miatt elutasításra került, de a megújuló energiaforrásból származó villamos energia termelési támogatás korlátairól és a prémium típusú támogatásra irányuló pályázati eljárásról szóló 62/2016. (XII. 28.) NFM rendeletnek (a továbbiakban: NFM rendelet) megfelelően nyilatkozott arról, hogy kéri a támogatási jogosultság új feltételek szerinti megállapítását.
+a) hiánytalan támogatási kérelme a tárgyév kezdetét követően érkezik be a Hivatalhoz, vagy
 
-(2) A napelemes erőművek vonatkozásában az 1. és 2. mellékletben szereplő értékeket a Hivatal félévente, minden év május 1. és november 1. napjáig felülvizsgálja a következő félévre vonatkozóan, és az új értékek azon új belépőkre érvényesek, akik
+b) támogatási kérelme az NFM rendeletben megállapított korlátok miatt elutasításra került, de az NFM rendeletnek megfelelően nyilatkozott arról, hogy kéri a támogatási jogosultság új feltételek szerinti megállapítását.
+
+(2a)[^8] A napelemes erőművek vonatkozásában az (1) bekezdés szerinti évekre a Hivatal félévente, az adott év május 1. és november 1. napjáig felülvizsgálja, és ennek alapján meghirdeti a következő naptári félévre érvényes támogatási mértékeket, amelyek azokra az új belépőkre vonatkoznak, akik
 
 a) hiánytalan támogatási kérelme a következő naptári félév kezdetét követően érkezik be a Hivatalhoz, vagy
 
-b) támogatási kérelme az energiapolitikáért felelős miniszter által rendeletben megállapított korlátok miatt elutasításra került, de az NFM rendeletnek megfelelően nyilatkozott arról, hogy kéri a támogatási jogosultság új feltételek melletti megállapítását.
+b) támogatási kérelme az NFM rendeletben megállapított korlátok miatt elutasításra került, de az NFM rendeletnek megfelelően nyilatkozott arról, hogy kéri a támogatási jogosultság új feltételek melletti megállapítását.
 
 (3) A támogatások mértékének megállapítása során figyelembe kell venni az észszerű telephelyválasztást, a legkisebb költség elvét és az elérhető legjobb technológiákra vonatkozó hazai és nemzetközi adatokat.
 
@@ -27,3 +31,8 @@ b) támogatási kérelme az energiapolitikáért felelős miniszter által rende
 (9) A Hivatal az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 18/A–18/D. §-ának megfelelően adatot szolgáltat a Támogatásokat Vizsgáló Iroda részére az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról.
 
 (10) A (9) bekezdéshez kapcsolódóan a támogatástartalmat a 4. melléklet szerinti képletnek megfelelően kell megállapítani.
+
+[^5]: A 6. §-t a 18/2019. (XII. 23.) MEKH rendelet 5. § a) pontja hatályon kívül helyezte.
+[^6]: A 7. § (1) bekezdése a 18/2019. (XII. 23.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^7]: A 7. § (2) bekezdése a 18/2019. (XII. 23.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^8]: A 7. § (2a) bekezdését a 18/2019. (XII. 23.) MEKH rendelet 3. §-a iktatta be.
