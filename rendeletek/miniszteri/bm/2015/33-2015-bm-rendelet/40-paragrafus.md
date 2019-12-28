@@ -4,9 +4,9 @@
 
 ## 17. Kiküldetés és költségtérítés
 
-40. § (1)[^6] E Fejezet rendelkezéseit kell alkalmazni a három hónapot nem meghaladó tartamú külföldi szolgálati kiküldetés (a továbbiakban: ideiglenes külföldi kiküldetés) során felmerült és elszámolható költségek megtérítésére.
+40. § (1)[^7] E Fejezet rendelkezéseit kell alkalmazni a három hónapot nem meghaladó tartamú külföldi szolgálati kiküldetés (a továbbiakban: ideiglenes külföldi kiküldetés) során felmerült és elszámolható költségek megtérítésére.
 
-(2)[^7] Nem tartozik a Fejezet hatálya alá a Hszt. 69. §-a szerint történő külföldre vezénylésen alapuló külföldi szolgálatteljesítés.
+(2)[^8] Nem tartozik a Fejezet hatálya alá a Hszt. 69. §-a szerint történő külföldre vezénylésen alapuló külföldi szolgálatteljesítés.
 
 (3) A kiküldetés elrendelésének rendjét és feltételeit a rendvédelmi szerv – vagy a vezényeltek esetében a fogadó szerv – vezetője belső szabályzatban állapítja meg.
 
@@ -20,5 +20,5 @@ c) az utazási költséget,
 
 d) a kiküldetéshez kapcsolódó egyéb dologi költségeket.
 
-[^6]: A 40. § (1) bekezdése a 76/2015. (XII. 22.) BM rendelet 43. § c) pontja szerint módosított szöveg.
-[^7]: A 40. § (2) bekezdése a 76/2015. (XII. 22.) BM rendelet 43. § d) és e) pontja, a 34/2018. (XII. 20.) BM rendelet 11. §-a szerint módosított szöveg.
+[^7]: A 40. § (1) bekezdése a 76/2015. (XII. 22.) BM rendelet 43. § c) pontja szerint módosított szöveg.
+[^8]: A 40. § (2) bekezdése a 76/2015. (XII. 22.) BM rendelet 43. § d) és e) pontja, a 34/2018. (XII. 20.) BM rendelet 11. §-a szerint módosított szöveg.

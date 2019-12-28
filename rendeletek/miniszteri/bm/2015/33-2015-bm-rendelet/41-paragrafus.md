@@ -1,6 +1,6 @@
 41. § (1) A kiküldött napidíja megkezdett naptári naponként 40 euró.
 
-(1a)[^8] A miniszter engedélyével a napidíj az (1) bekezdésben meghatározott összegnél magasabb összegben is megállapítható, ha azt a kiküldött külföldi feladatellátása során jelentkező, számlával nem igazolható reprezentatív jellegű kiadásokkal járó feladatok indokolttá teszik. A magasabb összegű napidíj megállapítására vonatkozó engedélyt a rendvédelmi szerv előzetesen kérheti, ha egyidejűleg igazolja, hogy az annak megállapításához szükséges pénzügyi fedezet a rendelkezésére áll.
+(1a)[^9] A miniszter engedélyével a napidíj az (1) bekezdésben meghatározott összegnél magasabb összegben is megállapítható, ha azt a kiküldött külföldi feladatellátása során jelentkező, számlával nem igazolható reprezentatív jellegű kiadásokkal járó feladatok indokolttá teszik. A magasabb összegű napidíj megállapítására vonatkozó engedélyt a rendvédelmi szerv előzetesen kérheti, ha egyidejűleg igazolja, hogy az annak megállapításához szükséges pénzügyi fedezet a rendelkezésére áll.
 
 (2) Az ideiglenes külföldi kiküldetés kezdő és befejező időpontja Magyarország államhatárának átlépése, légi és vízi út esetén pedig az indulás és érkezés szerinti időpont.
 
@@ -18,4 +18,4 @@ b) fél naptári napként kell figyelembe venni azt a napot, amelynek során a k
 
 (7) Az ideiglenes külföldi kiküldetést teljesítő személy a kiküldetés befejező időpontját követő három munkanapon belül – büntetőjogi felelősség terhe mellett – nyilatkozik arról, hogy a kiküldetés időtartama alatt részesült-e díjtalan ebédben, illetve vacsorában, továbbá – ha részére a napidíj teljes összegét előre kifizették – a kiküldetés befejező időpontját követő öt munkanapon belül visszafizeti a (4) bekezdésben meghatározott összeget.
 
-[^8]: A 41. § (1a) bekezdését a 76/2015. (XII. 22.) BM rendelet 41. §-a iktatta be.
+[^9]: A 41. § (1a) bekezdését a 76/2015. (XII. 22.) BM rendelet 41. §-a iktatta be.

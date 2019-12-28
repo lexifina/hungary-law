@@ -1,6 +1,6 @@
-## 49. §[^14]
+## 49. §[^15]
 
-1. melléklet a 33/2015. (VI. 16.) BM rendelethez[^15]
+1. melléklet a 33/2015. (VI. 16.) BM rendelethez[^16]
 
 ## A nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásban szolgálatot teljesítők pótlékára jogosító szolgálati beosztások
 
@@ -52,5 +52,5 @@ III. A büntetés-végrehajtási szervezetnél
 
 ha szolgálati feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajtás Központi Kórház és az Igazságügyi Megfigyelő és Elmegyógyító Intézet nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásokban látja el.
 
-[^14]: A 49. § a 34/2018. (XII. 20.) BM rendelet 12. §-a alapján nem lép hatályba.
-[^15]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a szerint módosított szöveg.
+[^15]: A 49. § a 34/2018. (XII. 20.) BM rendelet 12. §-a alapján nem lép hatályba.
+[^16]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a szerint módosított szöveg.
