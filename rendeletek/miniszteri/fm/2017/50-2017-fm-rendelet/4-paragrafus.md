@@ -26,9 +26,11 @@ ha) a 2. § (6) bekezdés a) pontjában hivatkozott termesztési technológiána
 
 hb) a 2. § (6) bekezdés b) pontjában hivatkozott minőségtanúsítási rendszerről kiállított tanúsítványt és minőségi kézikönyvet, valamint ezek alkalmazása érdekében a tagjai számára biztosított szaktanácsadási szolgáltatást igazoló szerződést és
 
-hc) a 2. § (6) bekezdés c) pontjában meghatározott szakember munkaszerződését, valamint a képzettségének, szakmai tapasztalatának igazolására szolgáló dokumentumokat.
+hc) a 2. § (6) bekezdés c) pontjában meghatározott szakember munkaszerződését, valamint a képzettségének, szakmai tapasztalatának igazolására szolgáló dokumentumokat,
 
-(3a)[^10] A (3) bekezdés c) pontja szerinti adatlap a következő adatokat tartalmazza:
+i)[^10] termelői szervezet külföldi tagja esetén az illetősége szerinti tagállam kifizető ügynöksége által kiállított igazolást a 891/2017/EU bizottsági rendelet 2. cikk a) pontja szerinti fogalomnak való megfelelésről.
+
+(3a)[^11] A (3) bekezdés c) pontja szerinti adatlap a következő adatokat tartalmazza:
 
 a) a termelő tagra és a nem termelő tagra [név; ügyfél-azonosító szám; a termelői szervezetbe történő belépés, illetve a termelői szervezetből történő kilépés dátuma; a nem termelő tag székhelye, tevékenységi köre, főtevékenysége, a termelő tagokhoz viszonyított számaránya (%), szavazati arány (leadható szavazatok %-ában)],
 
@@ -42,21 +44,22 @@ e) a termelői szervezetek társulására [belépés dátuma, szervezet státusz
 
 ## vonatkozó adatok.
 
-(4)[^11] A termelői szervezet a (3) bekezdés c) pontjában meghatározott adatlapot elektronikus formában, a minisztérium honlapján közzétett nyomtatvány kitöltésével küldi meg a miniszter részére. Az adatlapot úgy kell kitölteni, hogy a termelés tekintetében a termelői szervezetre vagy annak tagjaira vonatkozó, a benyújtást megelőző tizenkét hónapos időszak adatait tükrözze, amely időszak leghamarabb a benyújtás évét megelőző év január 1-jén kezdődhet.
+(4)[^12] A termelői szervezet a (3) bekezdés c) pontjában meghatározott adatlapot elektronikus formában, a minisztérium honlapján közzétett nyomtatvány kitöltésével küldi meg a miniszter részére. Az adatlapot úgy kell kitölteni, hogy a termelés tekintetében a termelői szervezetre vagy annak tagjaira vonatkozó, a benyújtást megelőző tizenkét hónapos időszak adatait tükrözze, amely időszak leghamarabb a benyújtás évét megelőző év január 1-jén kezdődhet.
 
 (5) Az elismerési kérelem elbírálása érdekében a miniszter a (3) bekezdésben felsoroltakon kívül az elismeréshez szükséges tények bizonyítása érdekében egyéb iratokat (szabályzat, Szervezeti és Működési Szabályzat, ügyrend, szerződés) is bekérhet, valamint helyszíni ellenőrzés lefolytatását is jogosult elrendelni.
 
 (6) Ha a benyújtott elismerési kérelem nem felel meg az e rendeletben, valamint az 1308/2013/EU európai parlamenti és tanácsi rendeletben és a 891/2017/EU bizottsági rendeletben foglalt feltételeknek, a miniszter a kérelmezőt hiánypótlásra szólítja fel. Ha a benyújtott hiánypótlás alapján továbbra sem állapítható meg az elismerési feltéteknek való megfelelés, akkor a miniszter azonos tárgyban ismételten hiánypótlási felhívást bocsát ki. A hiánypótlási felhívás teljesítésére nyitva álló időszak az ügyfél kérelmére egy alkalommal, legfeljebb az eredetileg megszabott időszak felével meghosszabbítható.
 
-(7)[^12] A miniszter a termelői szervezet és a termelői szervezetek társulásának elismerésére vonatkozó döntését közli a kérelmezővel, a Magyar Államkincstárral (a továbbiakban: Kincstár), valamint az elismert termelői szervezetek és termelői szervezetek társulásainak tájékoztató listáját negyedévenként közzéteszi a minisztérium honlapján. A miniszter az elismerési kérelem elfogadásáról szóló döntésével egyidejűleg az elfogadott elismerési kérelmek egy példányát optikai adattároló lemezen megküldi a Kincstár részére.
+(7)[^13] A miniszter a termelői szervezet és a termelői szervezetek társulásának elismerésére vonatkozó döntését közli a kérelmezővel, a Magyar Államkincstárral (a továbbiakban: Kincstár), valamint az elismert termelői szervezetek és termelői szervezetek társulásainak tájékoztató listáját negyedévenként közzéteszi a minisztérium honlapján. A miniszter az elismerési kérelem elfogadásáról szóló döntésével egyidejűleg az elfogadott elismerési kérelmek egy példányát optikai adattároló lemezen megküldi a Kincstár részére.
 
-(8)[^13] A termelői szervezet és a termelői szervezetek társulása a (3) bekezdésben felsorolt okiratokban, valamint a taglétszámban, a tagok (3a) bekezdés a), b), c), illetve e) pontjában meghatározott adataiban bekövetkezett változásokról a változás bekövetkezésétől számított tizenöt napon belül írásban és elektronikus úton értesíti a minisztert. A (3a) bekezdés a), b), illetve c) pontjában meghatározott adatok változása esetén a változással érintett adatokat kizárólag elektronikus úton, a minisztérium honlapján közzétett hivatkozás szerinti felületen történő feltöltés útján kell megküldeni a miniszter részére.
+(8)[^14] A termelői szervezet és a termelői szervezetek társulása a (3) bekezdésben felsorolt okiratokban, valamint a taglétszámban, a tagok (3a) bekezdés a), b), c), illetve e) pontjában meghatározott adataiban bekövetkezett változásokról a változás bekövetkezésétől számított tizenöt napon belül írásban és elektronikus úton értesíti a minisztert. A (3a) bekezdés a), b), illetve c) pontjában meghatározott adatok változása esetén a változással érintett adatokat kizárólag elektronikus úton, a minisztérium honlapján közzétett hivatkozás szerinti felületen történő feltöltés útján kell megküldeni a miniszter részére.
 
 [^6]: A 4. § (1) bekezdése a 30/2019. (VI. 25.) AM rendelet 13. § b) pontja szerint módosított szöveg.
 [^7]: A 4. § (2) bekezdése a 30/2019. (VI. 25.) AM rendelet 13. § b) pontja szerint módosított szöveg.
 [^8]: A 4. § (3) bekezdés c) pontja a 30/2019. (VI. 25.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^9]: A 4. § (3) bekezdés h) pontja a 6/2018. (VI. 22.) AM rendelet 5. §-ával megállapított szöveg.
-[^10]: A 4. § (3a) bekezdését a 30/2019. (VI. 25.) AM rendelet 3. § (2) bekezdése iktatta be.
-[^11]: A 4. § (4) bekezdése a 30/2019. (VI. 25.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^12]: A 4. § (7) bekezdése a 30/2019. (VI. 25.) AM rendelet 13. § b) pontja szerint módosított szöveg.
-[^13]: A 4. § (8) bekezdése a 30/2019. (VI. 25.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^10]: A 4. § (3) bekezdés i) pontját a 64/2019. (XII. 20.) AM rendelet 1. §-a iktatta be.
+[^11]: A 4. § (3a) bekezdését a 30/2019. (VI. 25.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^12]: A 4. § (4) bekezdése a 30/2019. (VI. 25.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^13]: A 4. § (7) bekezdése a 30/2019. (VI. 25.) AM rendelet 13. § b) pontja szerint módosított szöveg.
+[^14]: A 4. § (8) bekezdése a 30/2019. (VI. 25.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.

@@ -974,6 +974,6 @@
 
 ## - Költségkalkulációk, energetikai és egyéb számítások készítésének költsége számla alapján.
 
-5. melléklet az 50/2017. (X. 10.) FM rendelethez[^82]
+5. melléklet az 50/2017. (X. 10.) FM rendelethez[^89]
 
-[^82]: Az 5. mellékletet a 30/2019. (VI. 25.) AM rendelet 14. § e) pontja hatályon kívül helyezte.
+[^89]: Az 5. mellékletet a 30/2019. (VI. 25.) AM rendelet 14. § e) pontja hatályon kívül helyezte.

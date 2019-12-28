@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-50-20-1
 | 2018-06-25 | 2017-50-20-11.5 | 6/2018. (VI. 22.) AM rendelet |
 | 2018-12-07 | 2017-50-20-11.6 | 35/2018. (XII. 6.) AM rendelet |
 | 2019-07-03 | 2017-50-20-11.7 | 30/2019. (VI. 25.) AM rendelet |
+| 2019-12-28 | 2017-50-20-11.8 | 64/2019. (XII. 20.) AM rendelet |

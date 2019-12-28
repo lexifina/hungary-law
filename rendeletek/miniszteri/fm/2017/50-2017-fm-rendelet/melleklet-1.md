@@ -1,6 +1,6 @@
-## 39. §[^76]
+## 39. §[^83]
 
-1. melléklet az 50/2017. (X. 10.) FM rendelethez[^77]
+1. melléklet az 50/2017. (X. 10.) FM rendelethez[^84]
 
-[^76]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^77]: Az 1. mellékletet a 30/2019. (VI. 25.) AM rendelet 14. § e) pontja hatályon kívül helyezte.
+[^83]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: Az 1. mellékletet a 30/2019. (VI. 25.) AM rendelet 14. § e) pontja hatályon kívül helyezte.

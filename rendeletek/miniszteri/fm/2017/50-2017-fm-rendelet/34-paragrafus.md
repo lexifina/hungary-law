@@ -14,6 +14,6 @@ e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs-, z
 
 f) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcs- és zöldség-, valamint a feldolgozottgyümölcs- és feldolgozottzöldség-ágazatra történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2017. március 13-i 892/2017/EU bizottsági végrehajtási rendelet,
 
-g)[^71]
+g)[^78]
 
-[^71]: A 34. § g) pontját a 30/2019. (VI. 25.) AM rendelet 14. § d) pontja hatályon kívül helyezte.
+[^78]: A 34. § g) pontját a 30/2019. (VI. 25.) AM rendelet 14. § d) pontja hatályon kívül helyezte.
