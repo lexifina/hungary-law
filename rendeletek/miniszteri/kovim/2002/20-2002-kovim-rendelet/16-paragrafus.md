@@ -5122,10 +5122,6 @@ d) A életmentés/túlélés oktatása. Az üzembentartónak gondoskodnia kell a
 
 e) Egészségügyi szempontok és elsősegélynyújtás. Az üzembentartónak gondoskodnia kell arról, hogy az egészségügyi és elsősegélynyújtás oktatás tartalmazza a következőket:
 
-(1) Az elsősegélynyújtásra és az elsősegély-készletek használatára vonatkozó instrukciók;
-
-(2) Az életmentés/túlélés oktatással kapcsolatos elsősegélynyújtás, valamint a vonatkozó higiéniai követelmények;
-
 [^13]: A 15. §-t az 55/2017. (XII. 27.) NFM rendelet 22. § e) pontja hatályon kívül helyezte.
 [^14]: A melléklet I. Része K) Fejezetének 1.665 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének a) pontjával megállapított szöveg.
 [^15]: A melléklet I. Része K) Fejezetének 1.820 pontja a 115/2005. (XII. 27.) GKM rendelet 3. § (3) bekezdésének b) pontjával megállapított szöveg.
