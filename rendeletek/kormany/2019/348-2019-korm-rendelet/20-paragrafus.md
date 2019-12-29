@@ -1,3 +1,5 @@
-## 19. § Hatályát veszti a repülőtér üzemben tartási engedélyéről szóló 24/1999. (VIII. 13.) KHVM rendelet.
+## 19. §[^9]
 
 ## 7. Záró rendelkezések
+
+[^9]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
