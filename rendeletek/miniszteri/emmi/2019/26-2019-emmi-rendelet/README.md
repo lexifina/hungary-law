@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-26-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-12-28 | 2019-26-20-5H.1 | 26/2019. (XI. 28.) EMMI rendelet |
+| 2019-12-29 | 2019-26-20-5H.2 | 2010: CXXX. törvény |
