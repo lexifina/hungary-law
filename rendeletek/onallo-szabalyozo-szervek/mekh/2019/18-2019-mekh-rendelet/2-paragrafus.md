@@ -1,5 +1,3 @@
-## 1. § A megújuló energiaforrásból termelt villamos energia működési támogatásának mértékéről szóló 13/2017. (XI. 8.) MEKH rendelet (a továbbiakban: R.) 2. § (1) bekezdése a következő d) ponttal egészül ki:
+## 1. §[^1]
 
-## [E rendelet alkalmazásában:]
-
-## „d) támogatási mértékek: a támogatás időtartama, a támogatás alá eső villamos energia maximális mennyisége, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határideje.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
