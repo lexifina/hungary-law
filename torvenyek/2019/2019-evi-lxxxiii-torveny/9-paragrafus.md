@@ -1,3 +1,1 @@
-9. § Az Etv. 41. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szolgáltatásnyújtó a Kormány rendeletében meghatározott, közegészségügyi vagy közbiztonsági vonatkozású szakma gyakorlását – ide nem értve a VIII., a IX. és a IX/A. Fejezet hatálya alá tartozó szabályozott szakmát – csak azt követően kezdheti meg, hogy azt az előzetes ellenőrzést végző hatóság a 40. § szerinti bejelentés alapján Magyarország területén való, határon átnyúló szolgáltatási tevékenysége első alkalommal való megkezdése előtt az ellenőrzés mellőzésével vagy a szolgáltatásnyújtó szakmai képesítésének ellenőrzését követően engedélyezi (előzetes ellenőrzés). Az előzetes ellenőrzés célja az, hogy megakadályozza a szolgáltatás igénybe vevője egészségének vagy biztonságának – a szolgáltatásnyújtó szakmai képesítésének hiánya miatti – súlyos károsodását vagy sérelmét.”
+9. §
