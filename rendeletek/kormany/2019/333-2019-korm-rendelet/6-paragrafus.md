@@ -1,1 +1,3 @@
-## „(4) A másodlagos adattár szolgáltatójával a Végrehajtási Rendelet 27. cikk (11) bekezdése szerinti, további szolgáltatási szintre vonatkozó megállapodás megkötésére a vámhatóság jogosult a miniszter egyetértésével.”
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
