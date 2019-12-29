@@ -1,1 +1,3 @@
-## „(5) A termelői szervezet a tagjai azonosító adatairól, a 2007. évi XVII. törvény szerint – külföldi tag esetén a tag illetősége szerinti tagállam illetékes hatósága által – nyilvántartott ügyfél-azonosítójáról, termelői státuszáról, tagsággal érintett termékeiről, ezek helyrajzi számmal azonosított termőterületéről és a termésmennyiségéről, valamint a tagság időtartamáról naprakész, tagonként elkülönített nyilvántartást vezet. Az adatokat a tagsági viszony létesítését követően haladéktalanul, de legkésőbb a tag által a tagsággal érintett termék beszállításának megkezdését megelőzően be kell vezetni a nyilvántartásba.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

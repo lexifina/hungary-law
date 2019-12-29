@@ -1,11 +1,3 @@
-## 3. § Az 50/2017. (X. 10.) FM rendelet 11. § (10) és (11) bekezdése helyébe a következő rendelkezések lépnek:
+## 3. §[^4]
 
-## „(10) A működési alapból a termelői szervezet által igényelt támogatás nemzeti támogatásból finanszírozott hányada 50%-ának megfelelő összeget a 3. melléklet 4. fejezetében meghatározott, az informatikai rendszer kialakításához, fejlesztéséhez kapcsolódó beruházások, a kísérleti termelés megvalósítása, a termőterületeken megvalósuló beruházások, a telephelyhez kapcsolódó fejlesztéseket célzó beruházások, a megújuló energiaforrás használatára épülő beruházások, az értékesítést segítő beruházások, a piackutatás, a minőségtanúsítási és értékesítést segítő rendszerek létrehozása, a kereskedelmi és termékstratégia kialakítása, megújítása, az együttműködések erősítése, valamint a válságmegelőzési és -kezelési célú tevékenységtípusokra kell fordítani.
-
-## (11) A (10) bekezdésben meghatározott összegen felül a termelői szervezet által igényelt támogatás nemzeti támogatásból finanszírozott hányada 10%-ának, de legfeljebb a 891/2017/EU bizottsági rendelet 23. cikkében hivatkozott referencia-időszakban forgalmazott termék értéke 0,5%-ának megfelelő összeget a működési alapból a zöldség-gyümölcs ágazatban elismert szakmaközi szervezet közreműködésével kidolgozott és a szakmaközi szervezet honlapján legkésőbb a megelőző év augusztus 31-éig közzétett – az 1308/2013/EU európai parlamenti és tanácsi rendelet 157. cikk (1) bekezdés c) pontjának vii. és xiii. alpontjában meghatározott célok elérését szolgáló – marketing és képzési program végrehajtását célzó, a 3. melléklet 4. fejezetének 3. pontja szerinti képzés, szaktanácsadás, tanácsadás, tudományos eredmények átadása, valamint 6. pontja szerinti termék promóciós tevékenységekre kell fordítani.”
-
-4. § (1) Az 50/2017. (X. 10.) FM rendelet 16. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1a) A módosítási kérelemhez csatolni kell az operatív programnak a minisztérium honlapján közzétett formanyomtatvány szerinti, egységes szerkezetbe foglalt szövegét papír alapon és optikai adathordozón, valamint mellékletként az operatív programban foglalt valamennyi tevékenységet alátámasztó, a 11. § (3) bekezdésében és a 3. melléklet 4. fejezetében meghatározott eredeti dokumentumok elektronikusan beolvasott (szkennelt) változatát optikai adathordozón.”
-
-(2) Az 50/2017. (X. 10.) FM rendelet 16. § (3) bekezdése helyébe a következő rendelkezés lép:
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

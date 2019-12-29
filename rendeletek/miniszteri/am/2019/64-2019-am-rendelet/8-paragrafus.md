@@ -1,1 +1,3 @@
-## 7. § Az 50/2017. (X. 10.) FM rendelet 12. § (6) bekezdés b) pontjában az „a kedvezményezett szervezetében tulajdonosi” szövegrész helyébe az „a kedvezményezett szervezetében vagy a másik ajánlattevő szervezetében tulajdonosi” szöveg lép.
+## 7. §[^8]
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
