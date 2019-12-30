@@ -30,15 +30,9 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2017. szeptember 30.
 
-5. egyetért azzal, hogy a MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság járműmodernizációja keretében IC+ személykocsikat szerezzen be 2017-ben legfeljebb 3200 millió forint, 2018-ban legfeljebb 12 800 millió forint, 2019-ben legfeljebb 16 000 millió forint, 2020-ban legfeljebb 13 400 millió forint értékben;
+5.[^1]
 
-6. felhívja a nemzeti fejlesztési minisztert, hogy a nemzetgazdasági miniszter bevonásával az 5. pont szerinti járműbeszerzések tekintetében mérje fel a MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság IC+ személykocsi beszerzésére fordítható forrásait; és tegyen javaslatot a járműbeszerzések finanszírozására, figyelembe véve a szolnoki vasúti járműipar fejlesztéséről és a MÁV-START Zrt. IC+ vasúti személykocsi gyártásának támogatásáról szóló 1167/2016. (IV. 6.) Korm. határozat terhére eddig biztosított forrásokat;
-
-Felelős: nemzeti fejlesztési miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: 2017. április 30.
+6.[^2]
 
 7. felhívja a nemzeti fejlesztési minisztert, hogy vizsgálja meg a HÉV és a nagyvasúti mellékvonalak tekintetében a középtávú közlekedéspolitikai terveket, és mérje fel az ezeken a vonalakon használt két járműtípus jövőbeni járműszükségletét;
 
@@ -61,3 +55,6 @@ Határidő: 2017. április 30.
 Felelős: postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztos
 
 Határidő: 2017. július 15.
+
+[^1]: Az 5. pontot az 1814/2019. (XII. 30.) Korm. határozat 5. pont b) alpontja visszavonta.
+[^2]: A 6. pontot az 1814/2019. (XII. 30.) Korm. határozat 5. pont b) alpontja visszavonta.
