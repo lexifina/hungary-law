@@ -6,7 +6,7 @@ Az MFB Zrt. a 3. § (5) bekezdése és az állami vagyonról szóló 2007. évi 
 
 2. Diákhitel Központ Zártkörűen Működő Részvénytársaság
 
-3. Kisvállalkozás-fejlesztő Pénzügyi Zártkörűen Működő Részvénytársaság
+3.
 
 4.
 
@@ -15,3 +15,5 @@ Az MFB Zrt. a 3. § (5) bekezdése és az állami vagyonról szóló 2007. évi 
 6. Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 
 7.
+
+8. MFB Invest Befektetési és Vagyonkezelő Zártkörűen Működő Részvénytársaság
