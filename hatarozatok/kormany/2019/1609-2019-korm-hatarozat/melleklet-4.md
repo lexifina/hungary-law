@@ -1,3 +1,3 @@
-4. melléklet az 1609/2019. (X. 22.) Korm. határozathoz[^18]
+4. melléklet az 1609/2019. (X. 22.) Korm. határozathoz[^15]
 
-[^18]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
