@@ -54,7 +54,7 @@
 
 | 26. | Vízügytörténeti és környezetvédelmi emlékek | Magyar Környezetvédelmi és Vízügyi Múzeum | 2500 Esztergom, Kölcsey Ferenc u. 2. |
 
-| 27. | Mozgófilmek, videofelvételek | Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 1021 Budapest, Budakeszi út 51/E |
+| 27. | Mozgófilmek, videofelvételek | Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 1021 Budapest, Budakeszi út 51/E |
 
 | 28. | Egyház- és vallástörténeti emlékek, kegytárgyak, műalkotások | A tárgy jellegének megfelelő fenti közgyűjtemények, az alábbi illetékes felekezeti intézmények bevonásával: Országos Katolikus Gyűjteményi Központ Evangélikus Országos Múzeum Országos Református Gyűjteményi Tanács Magyar Zsidó Múzeum és Levéltár | 1068 Budapest, Városligeti fasor 42. 1052 Budapest, Deák tér 4. 1146 Budapest, Abonyi u. 21. 1074 Budapest, Dohány u. 2. |
 

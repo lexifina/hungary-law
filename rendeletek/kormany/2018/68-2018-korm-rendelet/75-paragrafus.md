@@ -40,4 +40,4 @@ b) a hatóság a rendelkezésre álló adatokból azt állapítja meg, hogy az (
 [^24]: A 75. § (4) bekezdése a 314/2019. (XII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^25]: A 75. § (5) bekezdése a 314/2019. (XII. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^26]: A 75. § (6) bekezdése a 314/2019. (XII. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^27]: A 75. § (6a) bekezdését a 314/2019. (XII. 18.) Korm. rendelet 7. §-a iktatta be.
+[^27]: A 75. § (6) bekezdését a 314/2019. (XII. 18.) Korm. rendelet 7. §-a iktatta be.
