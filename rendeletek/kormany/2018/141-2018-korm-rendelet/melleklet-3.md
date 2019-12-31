@@ -68,7 +68,9 @@
 
 | 32. | Komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás a Budapest XIV. kerületben | Budapest közigazgatási területén elhelyezkedő, természetben Budapest, XIV. kerület, Csömöri út 13–19., Bosnyák utca 48–56., Bosnyák utca 54–56., Rákospatak utca 12–28., Bosnyák utca 46. szám, illetve Bosnyák tér alatti, a Budapest, XIV. kerület belterület 31267/132, 31267/133, 31267/134, 31267/135, 31267/95, 31267/96, 31265 és 31262/4 helyrajzi számokon nyilvántartott földrészletek | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^61]
+| 33. | Ingatlanfejlesztés Budapest XIV. kerületében | Budapest közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti Budapest XIV. kerület belterület 32707 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^64]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
@@ -248,4 +250,4 @@ A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közl
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-[^61]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^64]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
