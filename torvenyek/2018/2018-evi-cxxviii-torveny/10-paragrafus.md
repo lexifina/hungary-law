@@ -12,7 +12,7 @@ e)
 
 f)
 
-g)
+g) 1. melléklet 3. pontja;
 
 h)
 
