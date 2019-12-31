@@ -18,13 +18,7 @@ rendeletben megállapítsa.
 
 (3a) Felhatalmazást kap a Kormány, hogy a JBE lineáris audiovizuális médiaszolgáltató legnagyobb éves átlagos közönségarányú lineáris audiovizuális médiaszolgáltatásáért járó programdíj fizetésének szabályait rendeletben állapítsa meg.
 
-(3b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
-
-a) a 137/F. § (1) bekezdése szerinti támogatások nyújtásának, elszámolásának, ellenőrzésének részletszabályait, valamint a nyújtható támogatás összegét és az összeg megállapításának szabályait,
-
-b) a Televíziós Filmkollégium és a Mecenatúra Felügyelő Bizottsága tagjai delegálására jogosult minisztereket,
-
-c) azokat a filmalkotásokat, amelyek kapcsán a Mecenatúrából nem nyújtható támogatás.
+(3b)
 
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy a kiadványokon az impresszum feltüntetésére vonatkozó részletes szabályokat rendeletben szabályozza.
 

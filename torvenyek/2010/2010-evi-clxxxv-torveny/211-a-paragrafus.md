@@ -1,0 +1,1 @@
+211/A. § A Televíziós Filmkollégium tagjainak és a Mecenatúra Felügyelő Bizottsága tagjainak megbízatása 2019. december 31. napjával megszűnik. A Televíziós Film Mecenatúra és a Televíziós Filmkollégium jogutódja 2019. december 31. napjától a Nemzeti Filmintézet Közhasznú Nonprofit Zrt.

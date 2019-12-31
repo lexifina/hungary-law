@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-185-00-00
 | 2017-07-01 | 2017. évi LXXII. törvény | 2010-185-00-00.28 |
 | 2019-01-01 | 2018. évi CXII. törvény | 2010-185-00-00.29 |
 | 2019-08-01 | 2019. évi LXIII. törvény | 2010-185-00-00.30 |
+| 2019-12-31 | 2019. évi CVI. törvény | 2010-185-00-00.31 |
