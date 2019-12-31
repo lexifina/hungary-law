@@ -1,8 +1,10 @@
-## 8. §[^4]
+## 8. §[^22]
 
-1. melléklet a 302/2016. (X. 13.) Korm. rendelethez
+1. melléklet a 302/2016. (X. 13.) Korm. rendelethez[^23]
 
-## Kérelem filmforgatási célú közterület-használat engedélyezéséhez
+Kérelem
+
+filmforgatási célú közterület-használat engedélyezéséhez
 
 1. A kérelmező adatai:
 
@@ -10,97 +12,71 @@ Kérelmező neve:
 
 Kérelmező székhelye:
 
-Képviselő neve:
-
-Képviselő lakcíme:
-
-Képviselő telefonszáma:
-
-Képviselő e-mail címe:
-
 Kérelmező cégjegyzékszáma/nyilvántartási száma:
 
 Kérelmező adószáma:
 
 Kérelmező bankszámlaszáma:
 
+Képviselő neve:
+
+Képviselő lakcíme:
+
+Képviselő telefonszáma:
+
+Képviselő e-mail-címe:
+
 2. A filmalkotás jellemzői:
+
+Filmalkotás kategóriája: Film[^24] Reklám[^25]
 
 Filmalkotás műfaja:
 
 Filmalkotás munkacíme:
 
-3. Kérelem típusa: Új kérelem Módosító kérelem Visszavonó kérelem
+3. Az eljárás típusa: Alapeljárás Sürgős eljárás
 
-4. Korábbi kérelem benyújtásának ideje, illetve iktatószáma:
+4. A kérelem típusa: Új kérelem Módosító kérelem Visszavonó kérelem
 
-5. A közterület(ek) igénybevételének terjedelme1:
+5. A közterület(ek) igénybevételének terjedelme:[^26]
 
-|  | Sor- szám | Közterület-használat ideje: | Közterület-használat pontos célja részletesen megjelölve: | Közterület, illetve ingatlan elhelyezkedése (kerület megjelölése, amennyiben releváns): | Használni kívánt közterület nagysága: |
+| Sorszám | Közterület, illetve ingatlan elhelyezkedése (település, közterület, házszám, egyéb meghatározás) | Közterület-használat célja (F) forgatás (T) technikai kiszolgálás (P) stáb parkolás (K) kiürítés (E) közlekedés elől elzárt terület | Közterület-használat időtartama27 (-tól, -ig) | Közterület-használattal érintett napok száma | Használni kívánt közterület nagysága (m2) |
 
-|  | Időtartam: | Cél: | Igényelt terület: |
+27 A töredéknap(ok) külön sor(ok)ban szerepeltethetők.
 
-|  | év, hó, nap Közterület-használat ideje: | (F) forgatás | Hely-, házszám, egyéb meghatározás: | m2 |
+6. A közterület igénybevételének további körülményei:[^27]
 
-|  | (T) technikai kiszolgálás |  |
-
-|  | (-tól,-ig) (A töredéknapokat kérjük aláhúzással jelölni.) | (P) stáb parkolás |
-
-|  | (K) kiürítés |
-
-|  | (B) forgalomtechnikai biztonság |
-
-___________________
-
-1 Fővárosi kérelem esetén a formanyomtatvány kerületenként töltendő ki.
-
-6. Zaj- és hanghatások várható mértéke: magas alacsony
+Zaj- és hanghatások várható mértéke: magas alacsony
 
 Gyalogos és járműforgalom korlátozása: szükséges nem szükséges
 
-forgalomkorlátozási terv: kiegészíti nem egészíti ki
+Rendőri biztosítás: szükséges nem szükséges
 
-éjszakai forgatás (22:00 órától 06:00 óráig): igen nem
+Forgalomkorlátozási terv: szükséges nem szükséges
 
-rendőri biztosítás szükséges: igen nem
+Éjszakai forgatás (22:00 órától 06:00 óráig): igen nem
 
-helyszínbiztosítás szükséges: igen nem
+Hétvégi forgatás (szombat, vasárnap, ünnepnap): igen nem
 
-díszlet építése szükséges: igen nem
+Díszlet építése szükséges: igen nem
 
-Magyar Nemzeti Filmalap Zrt. mozgóképszakmai támogatásban részesítette: igen nem
+Nemzeti Filmintézet mozgóképszakmai támogatásban részesítette: igen nem
 
-7. Egyéb előterjeszthető kérelmek:
+7. A kérelem benyújtásával együtt csatolandó mellékletek:
 
-|  | 1. | forgalomtechnikai kezelői hozzájárulás kiadására vonatkozó eljárás |  |
+7.1. Igazgatási szolgáltatási díj megfizetésének igazolása: alapeljárás iránti kérelem esetében 12 000 forint, sürgős eljárás iránti kérelem esetében 55 000 forint. A díjat a Nemzeti Filmintézet 10032000-00313278-00000048 számú számlájára kell megfizetni, melynek közlemény rovatában a beazonosítás érdekében kérjük megjelölni a kérelem keltének napját, a kérelmező nevét, a kérelmezett területre vonatkozó utalást és a filmalkotás munkacímét.
 
-|  | 2. | behajtási engedély kiadására irányuló eljárás |  |
+7.2. Közérdekű célt szolgáló filmalkotás forgatása esetén az e célt alátámasztó dokumentum.
 
-|  | 3. | közútkezelői hozzájárulás kiadása iránti eljárás |  |
+7.3. A filmalkotás rövid bemutatása.
 
-|  | 4. | dísz- és közvilágítás kikapcsolására vonatkozó engedély kiadására irányuló eljárás |  |
+7.4. A forgatandó jelenet rövid tartalmi leírása.
 
-|  | 5. | a rendőrség által nyújtott forgalomelterelési, helyszínbiztosítási szolgáltatás igénybevétele iránti kérelem |  |
+7.5. Ha a kérelmet nem a kérelmező törvényes képviseletére jogosult személy nyújtja be, akkor az eljáró személy meghatalmazása.
 
-|  | 6. | színházi fegyverek alkalmazásához rendőrhatósági engedély [Mktv. 35. § (3) bek.] |  |
+7.6. A filmforgatási célú közterület-használattal érintett terület pontos megjelölését (ideértve a nemzeti vagyonról szóló 2011. évi CXCVI. törvény szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan esetében az érintett ingatlanok helyrajzi számát is) tartalmazó helyszínrajzként 1:1000 vagy 1:500 léptékű forgalomtechnikai helyszínrajz.
 
-|  | 7. | helyi jelentőségű védett természeti területen a filmforgatáshoz kapcsolódó természetvédelmi eljárás [Mktv. 35. § (4) bek.] |  |
-
-8. A kérelem benyújtásával együtt csatolandó mellékletek:
-
-8.1. Igazgatási szolgáltatási díj megfizetésének igazolása: alapeljárás iránti kérelem esetében 10 000 forint, sürgős eljárás iránti kérelem esetében 50 000 forint (a 7. pont szerinti kérelmek kivételével).
-
-A díjat a Magyar Nemzeti Filmalap Zrt. 10032000-00313278-00000048 számú számlájára kell megfizetni, melynek közlemény rovatában a beazonosítás érdekében kérjük megjelölni a kérelem keltének napját, a kérelmező nevét, a kérelmezett területre vonatkozó utalást és a filmalkotás munkacímét.
-
-8.2. Közérdekű célt szolgáló filmalkotás forgatása esetén az e célt alátámasztó dokumentum.
-
-8.3. A filmalkotás rövid bemutatása.
-
-8.4. A forgatandó jelenet rövid tartalmi leírása.
-
-8.5. Ha a kérelmet nem a kérelmező törvényes képviseletére jogosult személy nyújtja be, akkor az eljáró személy meghatalmazása.
-
-8.6. A forgatási helyszín pontos megjelölését tartalmazó helyszínrajzként 1:1000 vagy 1:500 léptékű forgalomtechnikai helyszínrajz.
+8. A filmforgatási célú közterület-használathoz kapcsolódó egyéb megjegyzés:
 
 Kelt:
 
@@ -108,6 +84,9 @@ _____________________
 
 Kérelmező
 
-[cégszerű aláírás vagy a meghatalmazott cégszerű aláírása]
-
-[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: Az 1. melléklet a 350/2019. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A szerzői jogról szóló 1999. évi LXXVI. törvény szerinti filmalkotás, ideértve a számítógépes vagy bármilyen platformon hozzáférhető játékprogram előzeteseként készülő filmalkotást, ide nem értve a hírműsort, az aktuális és szolgáltató magazinműsort, a sportközvetítést, a beszélgetőműsort (talk-show), a játék- és vetélkedőműsort.
+[^25]: Olyan közlés, tájékoztatás, illetve megjelenítési mód, amely valamely birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket –, szolgáltatás, ingatlan, vagyoni értékű jog értékesítésének vagy más módon történő igénybevételének előmozdítására, vagy e céllal összefüggésben a vállalkozás neve, megjelölése, tevékenysége népszerűsítésére vagy áru, árujelző ismertségének növelésére irányul.
+[^26]: Egy kérelmen kizárólag ugyanazon közterület tulajdonosának tulajdonában álló közterületek tüntethetők fel.
+[^27]: A megfelelő aláhúzandó.
