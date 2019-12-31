@@ -1,1 +1,0 @@
-## 8. § A Mecenatúra és a Filmkollégium a pályázók és a Támogatás igénybevevői között nem alkalmazhat olyan indokolatlan különbségtételt, kizárást vagy korlátozást, amely sérti az egyenlő bánásmód követelményét.

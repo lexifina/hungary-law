@@ -1,1 +1,0 @@
-## 2. § E rendelet hatálya kiterjed a Támogatásra, az Mttv. 137/G. §-a szerinti nyilvános pályázati eljárásokban részt vevőkre, a Támogatás igénybevevőire és a Támogatás felhasználásával más módon érintettekre.

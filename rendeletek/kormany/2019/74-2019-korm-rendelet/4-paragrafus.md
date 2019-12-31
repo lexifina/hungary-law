@@ -1,1 +1,0 @@
-## 3. § A Támogatás nyújtásának célja, hogy médiaszolgáltatásban bemutatásra szánt, az Mttv. 83. § (1) bekezdés b)–l) pontjában foglalt valamely közszolgálati cél megvalósulását szolgáló, sokszínű és kiemelkedő színvonalú, a magyar és európai kultúrát és identitást gazdagító, értékes filmalkotások és filmsorozatok jöjjenek létre.
