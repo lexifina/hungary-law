@@ -1,0 +1,3 @@
+22. § (1) Az e rendelet hatálybalépésekor Világörökség Jegyzékbe felvett, de kezelési tervvel nem rendelkező világörökségi területekre a kezelési tervet 2021. december 31-ig el kell készíteni. A kezelési terv elkészítése során a 7–10. §-t azzal az eltéréssel kell alkalmazni, hogy a kezelési terv nem a Világörökség Jegyzékbe történő felterjesztés előfeltétele.
+
+(2) Azon világörökségi várományos helyszínek vonatkozásában, amelyek e rendelet hatálybalépése előtt szerepeltek a Vötv. 4. § (2) bekezdés l) pontja szerinti nyilvántartásban, 2022. december 31-ig az 1. alcímben meghatározott eljárást kell lefolytatni azzal, hogy a 2. § szerinti kezdeményező dokumentációt a miniszter állítja össze.
