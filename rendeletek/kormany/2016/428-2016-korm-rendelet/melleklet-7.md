@@ -1,4 +1,4 @@
-## A központi költségvetésből folyósított támogatás mértékének megállapításához szükséges adatszolgáltatás (művészeti évadbeszámoló) színház, balett- és táncegyüttes részére
+## A központi költségvetésből folyósított támogatás mértékének megállapításához szükséges adatszolgáltatás (művészeti évadbeszámoló) balett- és táncegyüttes részére
 
 ## I. Szöveges évadértékelés
 
@@ -82,7 +82,7 @@
 
 ## j. az óvodai és iskolarendszeren belüli és azon kívüli oktatási-nevelési, művészetpedagógiai programhoz, a tantervi oktatáshoz való kapcsolódás bemutatása, ennek keretében különösen a cél érdekében létrejött együttműködés bemutatása, annak időbeli hatályának, céljának, módszereinek, eszközeinek, valamint az elért eredményeknek ismertetése
 
-## k. a gyermek-, illetve ifjúsági korosztály igényes színházra nevelésének gyakorlata, ennek keretében különösen a módszertani leírások, foglalkozás típusai, tematikája, eredményeinek ismertetése, előadásszámok feltüntetésével
+## k. a gyermek-, illetve ifjúsági korosztály igényes előadó-művészetre nevelésének gyakorlata, ennek keretében különösen a módszertani leírások, foglalkozás típusai, tematikája, eredményeinek ismertetése, előadásszámok feltüntetésével
 
 ## l. helyi és országos turisztikai célokhoz való kapcsolódás részletezése
 

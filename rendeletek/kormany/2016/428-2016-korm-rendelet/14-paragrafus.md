@@ -1,6 +1,6 @@
-14. § (1) A művészeti támogatást súlyozási értékek és arányszámok alkalmazásával, a felosztási szabályzatban rögzített számítási mód szerint úgy kell megállapítani, hogy figyelembevételre kerüljenek a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek tevékenységével, szolgáltatásával kapcsolatos általános támogatási szempontok.
+14. § (1)[^5] A művészeti támogatást súlyozási értékek és arányszámok alkalmazásával, a felosztási szabályzatban rögzített számítási mód szerint úgy kell megállapítani, hogy figyelembevételre kerüljenek a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített balett- és táncegyüttesek tevékenységével, szolgáltatásával kapcsolatos általános támogatási szempontok.
 
-(2) A művészeti támogatás mértékének megállapításakor általános támogatási szempontként vizsgálni kell a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek
+(2)[^6] A művészeti támogatás mértékének megállapításakor általános támogatási szempontként vizsgálni kell a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített balett- és táncegyüttesek
 
 a) által teljesített bemutatók számát, azon belül a kortárs és klasszikus magyar szerzők műveinek a számát,
 
@@ -10,11 +10,11 @@ ba) a saját előadások arányát,
 
 bb) a balett- és táncelőadások számát,
 
-bc) az opera-előadások számát,
+bc)[^7] az opera-előadásokon történő közreműködések számát,
 
-bd) a klasszikus operett-előadások számát,
+bd)[^8] a klasszikus operett-előadásokon történő közreműködések számát,
 
-be) a zenés színpadimű-előadások, illetve ezen belül az élő zenekarral, énekkarral teljesített előadások számát,
+be)[^9] a zenés színpadimű-előadásokon történő közreműködések számát,
 
 bf) a stúdió-előadások számát,
 
@@ -30,7 +30,7 @@ fa) a belföldi előadások tekintetében a kulturális szolgáltatásokkal kev�
 
 fb) a külföldi előadások esetében a Kárpát-medencei magyarlakta területeken tartott előadások számát.
 
-(3) A művészeti támogatás mértékének megállapításakor értékelni kell továbbá a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített színházak, balett- és táncegyüttesek
+(3)[^10] A művészeti támogatás mértékének megállapításakor értékelni kell továbbá a nemzeti előadó-művészeti szervezetnek, illetve kiemelt előadó-művészeti szervezetnek minősített balett- és táncegyüttesek
 
 a) társulati művészeti-szakmai közösségépítő tevékenységét,
 
@@ -42,6 +42,14 @@ d) közönségkapcsolati rendszerét, a nézőszám növelésének gyakorlatát,
 
 e) saját előadásaihoz kapcsolódó jegyár-bevételeken túli, egyéb bevételi források feltárásával összefüggő tevékenységét és annak eredményességét,
 
-f) helyi művészeti, közoktatási, közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítési, továbbá az óvodai és iskolarendszeren belüli és azon kívüli oktatási-nevelési, művészetpedagógiai programhoz, a tantervi oktatáshoz, helyi és országos turisztikai célokhoz való kapcsolódás, a gyermek-, illetve ifjúsági korosztály igényes színházra nevelésének gyakorlatát,
+f)[^11] helyi művészeti, közoktatási, közművelődési és társadalmi, közösségi szervezetekkel való kapcsolatépítési, továbbá az óvodai és iskolarendszeren belüli és azon kívüli oktatási-nevelési, művészetpedagógiai programhoz, a tantervi oktatáshoz, helyi és országos turisztikai célokhoz való kapcsolódás, a gyermek-, illetve ifjúsági korosztály igényes előadó-művészetre nevelésének gyakorlatát,
 
 g) vezetőjének vezetői pályázatában rögzített, a művészeti tevékenységgel összefüggő vállalások teljesülését.
+
+[^5]: A 14. § (1) bekezdése a 369/2019. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^6]: A 14. § (2) bekezdése a 369/2019. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^7]: A 14. § (2) bekezdés b) pont bc) alpontja a 369/2019. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 14. § (2) bekezdés b) pont bd) alpontja a 369/2019. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A 14. § (2) bekezdés b) pont be) alpontja a 369/2019. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 14. § (3) bekezdése a 369/2019. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^11]: A 14. § (3) bekezdés f) pontja a 369/2019. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
