@@ -1,1 +1,0 @@
-## 8. § A 2. melléklet „1. Közigazgatás-szervező alapképzési szak” alcím 2017. november 1-jétől hatályos 10. pontját, valamint a 3. melléklet „2. Közigazgatási mesterképzési szak” alcím 2017. november 1-jétől hatályos 11. pontját először a 2018/2019. tanévben tanulmányaikat megkezdő hallgatókra kell alkalmazni.

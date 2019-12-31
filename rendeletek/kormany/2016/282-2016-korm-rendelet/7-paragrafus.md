@@ -1,9 +1,0 @@
-7. § (1) A 2. és 3. mellékletben foglalt követelményeket felmenő rendszerben – a (2) és (3) bekezdésben foglalt kivétellel – először a 2016/2017. tanévben az adott szakon, illetve szakirányon, specializáción tanulmányaikat megkezdő hallgatókra kell alkalmazni.
-
-(2) A polgári nemzetbiztonsági alapképzési szak, valamint az államtudományi, a kriminalisztika és a polgári nemzetbiztonsági mesterképzési szakok képzési és kimeneti követelményeit először a 2017/2018. tanévben tanulmányaikat megkezdő hallgatókra kell alkalmazni.
-
-(3) A 3. melléklet „4. International Public Service Relations mesterképzési szak” alcím 11. pontját első alkalommal a tanulmányaikat a 2015/2016. tanév keresztfélévétől megkezdő hallgatókra kell alkalmazni.
-
-(4) Az államtudományi képzési terület alap- és mesterképzési szakjainak meghatározásáról és azok képzési és kimeneti követelményeiről szóló 7/2016. (II. 15.) MvM rendelet 4. mellékletben meghatározott képzési és kimeneti követelményeket kell alkalmazni az azok alapján megkezdett képzésekre, e képzéseket az abban foglaltak szerint kell befejezni azzal, hogy a katasztrófavédelem alapképzési szak tekintetében a 2014/2015. tanévben tanulmányaikat megkezdőkre irányadó idegennyelvi követelményt kell alkalmazni, amennyiben az a hallgatóra nézve kedvezőbb.
-
-(5) A 2013/2014. tanévben tanulmányaikat megkezdő hallgatók által, az e rendelet hatálybalépéséig katasztrófavédelem, bűnügyi igazgatás, rendészeti igazgatás, biztonság- és védelempolitikai, nemzetbiztonsági alapképzési szakon, biztonság- és védelempolitikai, nemzetbiztonsági, katonai vezetői, katonai műveleti logisztika, katonai üzemeltetés és rendészeti vezető mesterképzési szakon megszerzett oklevelet, az államtudományi képzési terület alap- és mesterképzési szakjainak meghatározásáról és azok képzési és kimeneti követelményeiről szóló 7/2016. (II. 15.) MvM rendelet 4. melléklete szerinti képzési és kimeneti követelmények alapján kiadott oklevélnek kell tekinteni.
