@@ -50,4 +50,6 @@ a) a Beruházás megvalósítója a Beruházási Ügynökség legyen,
 
 b) a Beruházás keretében létrejövő vagyonelemek az Állatorvostudományi Egyetem vagyonkezelésébe kerüljenek;
 
-9. visszavonja a Korm. határozat 3–6. pontját.
+9.[^2]
+
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
