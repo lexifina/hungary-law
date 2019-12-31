@@ -1,3 +1,9 @@
-## 5. §[^10]
+## 5. § Az R1. 5. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: Az 5. § a 13. § (2) bekezdése alapján 2019. december 31-én lép hatályba.
+## „(5) Az Üzemeltető szolgáltatásai körében a kérelmező megbízása alapján és költségére
+
+## a) az építésügyi és építésfelügyeleti eljárásokhoz kapcsolódó más dokumentációs és adattárakból dokumentációkat, közérdekű adatokat,
+
+## b) építészeti-műszaki tervdokumentációk szerzőire, ennek hiányában árva műre vonatkozó adatokat, hozzájárulásokat
+
+## szerezhet be.”
