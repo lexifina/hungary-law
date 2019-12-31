@@ -1,7 +1,8 @@
-## 78. §[^2]
+## 78. §[^8]
 
-1. melléklet a 14/2019. (VI. 12.) ITM rendelethez
+1. melléklet a 14/2019. (VI. 12.) ITM rendelethez[^9]
 
 XVII. Innovációs és Technológiai Minisztérium 2019. évi fejezeti kezelésű kiadási előirányzatainak feladatterve
 
-[^2]: A 77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 49/2019. (XII. 30.) ITM rendelet 7. § (1) bekezdése szerint módosított szöveg.
