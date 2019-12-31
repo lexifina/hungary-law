@@ -1,4 +1,4 @@
-## 9/D. §[^25] A 2 millió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 9/B. § (1) és (2) bekezdésében, valamint a 9/C. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+## 9/D. §[^27] A 2 millió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 9/B. § (1) és (2) bekezdésében, valamint a 9/C. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
 
 9/E. § (1) A 9/A. § (2) bekezdés f) pontja szerinti zenei és irodalmi alkotások kiadásához nyújtott támogatás esetén
 
@@ -20,4 +20,4 @@ e) az elrendezés és nyomdai előkészítés költsége és
 
 f) a nyomtatás vagy elektronikus közzététel költsége
 
-[^25]: A 9/D. § a 48/2018. (XII. 27.) EMMI rendelet 11. § e) pontja szerint módosított szöveg.
+[^27]: A 9/D. § a 48/2018. (XII. 27.) EMMI rendelet 11. § e) pontja szerint módosított szöveg.

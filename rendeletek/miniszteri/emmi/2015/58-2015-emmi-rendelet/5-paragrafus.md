@@ -1,6 +1,6 @@
 ## nyújtható.
 
-5. § (1)[^12] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, a 2012/21/EU bizottsági határozat, a 360/2012/EU bizottsági rendelet és a SA.38425 (2014/N). számú bizottsági határozat hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+5. § (1)[^12] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, a 2012/21/EU bizottsági határozat, a 360/2012/EU bizottsági rendelet és a SA.50768. (2018/N) számú bizottsági határozat hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
@@ -52,18 +52,20 @@ f)[^17] audiovizuális alkotásokra vonatkozó támogatási programokra nyújtot
 
 (10)[^18] E rendelet alapján
 
-a) a 4. § b) pontja szerinti támogatás esetén 2019. december 31-ig,
+a)[^19] a 4. § b) pontja szerinti támogatás esetén 2020. december 31-ig,
 
 b) a 4. § c) pontja szerinti támogatás esetén 2024. december 31-ig,
 
 c) a 4. § a), d)–f), i) és j) pontja szerinti támogatás esetén 2021. június 30-ig,
 
-d) a 4. § h) pontja szerinti támogatás esetén 2019. június 30-ig
+d)[^20]
 
-[^12]: Az 5. § (1) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (1) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított, a 35/2019. (XII. 30.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
 [^13]: Az 5. § (3) bekezdés a) pontja a 24/2016. (VIII. 30.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^14]: Az 5. § (4) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^15]: Az 5. § (9) bekezdés d) pontját a 24/2016. (VIII. 30.) EMMI rendelet 4. §-a iktatta be, szövege a 48/2018. (XII. 27.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.
 [^16]: Az 5. § (9) bekezdés e) pontját a 47/2016. (XII. 28.) EMMI rendelet 3. §-a iktatta be, szövege a 48/2018. (XII. 27.) EMMI rendelet 4. §-ával megállapított szöveg.
 [^17]: Az 5. § (9) bekezdés f) pontját a 48/2018. (XII. 27.) EMMI rendelet 5. §-a iktatta be.
 [^18]: Az 5. § (10) bekezdése a 48/2018. (XII. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^19]: Az 5. § (10) bekezdés a) pontja a 35/2019. (XII. 30.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^20]: Az 5. § (10) bekezdés d) pontját a 35/2019. (XII. 30.) EMMI rendelet 5. §-a hatályon kívül helyezte.

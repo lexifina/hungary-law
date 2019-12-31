@@ -8,22 +8,24 @@
 
 ## 4. §[^11] Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatások esetében
 
-a) az 1. melléklet 6., 17–19., 22–23., 26., 27., 32., 35., 38–42., 44., 46–47., 50., 52–53., 56–58., 116–117., 124–125., 158–159., 161., 163–165., 167., 169–174. és 184–185. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kulturális és kulturális örökség megőrzését előmozdító támogatás,
+a) az 1. melléklet 4., 12–14., 17–18., 19., 20., 23., 26., 29–32., 34., 36–37., 40., 42–43.,46–48., 105–106., 113., 145–146., 148., 150–152., 154., 156–162. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
 
-b) az 1. melléklet 36. és 37. sora alapján az SA.50768 (2018/N) számú bizottsági határozat szerinti támogatás,
+b) az 1. melléklet 27. és 28. sora alapján az SA.50768. (2018/N). számú bizottsági határozat szerinti támogatás,
 
-c) az 1. melléklet 10., 27., 32–33., 36–37., 41., 44–45., 52–53., 63., 66–67., 90., 99–100., 116., 124. és 154–156. sora alapján az 1407/2013/EU bizottsági rendelet szerinti támogatás,
+c) az 1. melléklet 5., 20., 23–24., 27–28., 31., 34–35., 42–43., 54., 57–58., 80., 89–90., 105., 113., 141–143. sora alapján az 1407/2013/EU bizottsági rendelet szerinti támogatás,
 
-d) az 1. melléklet 45. és 155. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás,
+d) az 1. melléklet 35. és 142. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás,
 
-e) az 1. melléklet 154–156. sora alapján a 651/2014/EU bizottsági rendelet 33. cikke szerinti, a megváltozott munkaképességű munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatás,
+e) az 1. melléklet 141–143. sora alapján a 651/2014/EU bizottsági rendelet 33. cikke szerinti, a megváltozott munkaképességű munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatás,
 
-f) az 1. melléklet 154–156. sora alapján a 651/2014/EU bizottsági rendelet 34. cikke szerinti, a megváltozott munkaképességű munkavállalók foglalkoztatásával járó többletköltségek ellentételezéséhez nyújtott támogatás,
+f) az 1. melléklet 141–143. sora alapján a 651/2014/EU bizottsági rendelet 34. cikke szerinti, a megváltozott munkaképességű munkavállalók foglalkoztatásával járó többletköltségek ellentételezéséhez nyújtott támogatás,
 
-g) az 1. melléklet 119. és 152. sora alapján a 2012/21/EU bizottsági határozat vagy a 360/2012/EU bizottsági rendelet szerinti támogatás,
+g) az 1. melléklet 108. sora alapján a 2012/21/EU bizottsági határozat szerinti támogatás,
 
-h) az 1. melléklet 111. és 184–185. sorai alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti, sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
+h) az 1. melléklet 108. sora alapján a 360/2012/EU bizottsági rendelet szerinti támogatás,
 
-i) az 1. melléklet 10., 17., 35–36., 46. és 171. sora alapján a 651/2014/EU bizottsági rendelet 54. cikke szerinti audiovizuális alkotásokra nyújtott támogatás
+i) az 1. melléklet 102. sora alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti, sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás,
 
-[^11]: A 4. § a 48/2018. (XII. 27.) EMMI rendelet 3. §-ával megállapított szöveg.
+j) az 1. melléklet 5., 12., 26–27., 36. és 158. sora alapján a 651/2014/EU bizottsági rendelet 54. cikke szerinti audiovizuális alkotásokra nyújtott támogatási programok szerinti támogatás
+
+[^11]: A 4. § a 35/2019. (XII. 30.) EMMI rendelet 1. §-ával megállapított szöveg.

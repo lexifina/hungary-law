@@ -1,4 +1,4 @@
-## 13/A. §[^29] E rendeletnek a fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 58/2015. (XII. 30.) EMMI rendelet módosításáról szóló 48/2018. (XII. 27.) EMMI rendelettel (a továbbiakban: R.) megállapított rendelkezéseit az R. hatálybalépésekor[^30] folyamatban lévő ügyekben is alkalmazni kell.
+## 13/A. §[^31] E rendeletnek a fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 58/2015. (XII. 30.) EMMI rendelet módosításáról szóló 35/2019. (XII. 30.) EMMI rendelettel (a továbbiakban: R.) megállapított rendelkezéseit az R. hatálybalépésekor[^32] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^29]: A 13/A. §-t a 24/2016. (VIII. 30.) EMMI rendelet 7. §-a iktatta be, szövege a 48/2018. (XII. 27.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^30]: A hatálybalépés időpontja 2018. december 28.
+[^31]: A 13/A. §-t a 24/2016. (VIII. 30.) EMMI rendelet 7. §-a iktatta be, szövege a 35/2019. (XII. 20.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^32]: A hatálybalépés időpontja: 2019. december 31.
