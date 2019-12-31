@@ -16,7 +16,7 @@
 
 | 6. | KEHOP-1.6.0-15-2016-00011 | Fehérgyarmat tűzoltóság | Fehérgyarmat, Kiss Ernő u. 4–6. szám alatti ingatlan |
 
-| 7. | KEHOP-1.6.0-15-2016-00019 | Piliscsaba tűzoltóság | Piliscsaba, Fő út 2., 1602/4 helyrajzi számú ingatlan; Piliscsaba lőtér 080/4 helyrajzi számú ingatlan |
+| 7. | KEHOP-1.6.0-15-2016-00019 | Piliscsaba tűzoltóság | Piliscsaba, Fő út 2., 1602/4, 1602/4/A, 085/9, valamint 080/13 helyrajzi számú ingatlanok; Piliscsaba lőtér 080/4 helyrajzi számú ingatlan |
 
 2. melléklet a 260/2016. (VIII. 31.) Korm. rendelethez
 
