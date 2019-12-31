@@ -6,7 +6,7 @@
 
 ## c) 1. mellékletében foglaltaktól eltérően az 1. melléklet szerinti fejlesztéseket támogatja.
 
-## 2. A Makovecz Imre életművének gondozásáról szóló 2022/2015. (XII. 29.) Korm. határozat 3. pontjában a „kiállítás támogatására: 2020. június 30.” szövegrész helyébe a „kiállítás támogatására: 2021. november 30.” szöveg, a „kiadvány megjelentetésére: 2020. június 30.” szövegrész helyébe a „kiadvány megjelentetésére: 2021. november 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1815/2019. (XII. 30.) Korm. határozathoz
 
@@ -73,3 +73,5 @@
 | Zalaszentlászló | Faluház és szállásépület felújítása, óvodával bővítése | Önkormányzat | 480 000 000 |  |
 
 | Összesen |  |  | 11 020 000 000 | 1 400 000 000 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
