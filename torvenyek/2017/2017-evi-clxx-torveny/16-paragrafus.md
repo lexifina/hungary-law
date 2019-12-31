@@ -1,3 +1,0 @@
-16. § (1) Az Országgyűlés az Európai Gazdasági Térség Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus forrásaira és a kapcsolódó központi költségvetési finanszírozásra vonatkozó, a Kvtv. 29. § (1) bekezdése alapján tett, 2016. december 31-én fennálló kötelezettségvállalási állományt 22 707,8 millió forint összegben hagyja jóvá.
-
-(2) Az Országgyűlés a Svájci-Magyar Együttműködési Program forrásaira és a kapcsolódó központi költségvetési finanszírozásra vonatkozó, a Kvtv. 29. § (2) bekezdése alapján tett 2016. december 31-én fennálló kötelezettségvállalási állományt 29 770,0 millió forint összegben hagyja jóvá.

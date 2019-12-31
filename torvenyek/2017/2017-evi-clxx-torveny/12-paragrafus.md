@@ -1,1 +1,0 @@
-12. § Az Országgyűlés megállapítja, hogy a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény végrehajtásáról szóló 2016. évi CXXII. törvény 13–15. §-ában előírt megtérítési, visszautalási, elszámolási és befizetési kötelezettségek teljesítése megtörtént.
