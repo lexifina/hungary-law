@@ -1,0 +1,3 @@
+## 1. § A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2015. (V. 29.) IM rendelet (a továbbiakban: IM rendelet) a következő 6/A. §-sal egészül ki:
+
+## „6/A. § E rendeletnek a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2015. (V. 29.) IM rendeletnek a határon átnyúló tartási ügyekben a központi hatósági feladatok ellátásáról szóló 2011. évi LXVII. törvény és a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet módosításával összefüggő módosításáról szóló 36/2019. (XII. 30.) IM rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
