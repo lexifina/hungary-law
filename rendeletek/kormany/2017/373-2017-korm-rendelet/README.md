@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-373-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-09 | 2017-373-20-22.1 | 373/2017. (XII. 8.) Korm. rendelet |
+| 2019-12-31 | 2017-373-20-22.2 | 365/2019. (XII. 30.) Korm. rendelet |
