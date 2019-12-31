@@ -1,4 +1,4 @@
-37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat, valamint az állam tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint az MNF eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
+37. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a települési önkormányzat, valamint az állam tulajdonában álló közterület filmforgatási célú használata kapcsán a filmforgatáshoz kapcsolódó eljárások lefolytatásának és a hatósági bejelentések, kérelmek továbbításának a rendjét, valamint az NFI eljárásához kapcsolódó nyilvántartásokkal kapcsolatos részletes szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a letéti számlára a tárgyévben befizethető, kiegészítő támogatás nélküli összeget.
 
@@ -10,7 +10,7 @@ a) a nem filmgyártásra vonatkozó mozgóképszakmai tevékenységek e törvén
 
 b) a 25. § (2) bekezdése szerinti „art” mozivá minősítéshez szükséges feltételeket és a moziknak a fogyatékkal élő emberek számára való hozzáférhetőségének feltételeit,
 
-c) az adópolitikáért felelős miniszterrel egyetértésben az MNF-et a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán történő eljárásáért megillető igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat.
+c) az adópolitikáért felelős miniszterrel egyetértésben az NFI-t a települési önkormányzat tulajdonában álló közterület filmforgatási célú használata kapcsán történő eljárásáért megillető igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat.
 
 rendeletben állapítsa meg.
 

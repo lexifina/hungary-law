@@ -10,4 +10,4 @@ d)
 
 e) az iparágban fellelhető saját források mozgósítása, illetve a mozgóképipari befektetések ösztönzése,
 
-f) a határon túli magyar filmkultúra eddigi értékeinek megőrzése és az új értékek létrehozásának támogatása.
+f) a határon túli magyar mozgóképkultúra eddigi értékeinek megőrzése és az új értékek létrehozásának támogatása.

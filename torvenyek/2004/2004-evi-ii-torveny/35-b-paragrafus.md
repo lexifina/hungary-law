@@ -1,4 +1,4 @@
-35/B. § (1) Ha a filmfelvétel objektív körülményekre tekintettel más időpontban nem rögzíthető, filmipari tevékenysége során a fiatal munkavállaló számára éjszakai munka – az Mt. 114. § (1) bekezdésétől eltérően – az alábbiak szerint rendelhető el:
+35/B. § (1) Ha a filmfelvétel objektív körülményekre tekintettel más időpontban nem rögzíthető, mozgóképipari tevékenysége során a fiatal munkavállaló számára éjszakai munka – az Mt. 114. § (1) bekezdésétől eltérően – az alábbiak szerint rendelhető el:
 
 a) tizenhatodik életévét be nem töltött fiatal munkavállaló számára éjszakai munka legfeljebb 23:00 óráig rendelhető el, és csak akkor, ha
 

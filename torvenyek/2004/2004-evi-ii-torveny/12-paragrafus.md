@@ -24,9 +24,9 @@ i) infrastrukturális fejlesztések.
 
 (4) A (3) bekezdésben meghatározott tevékenységek céljára nyújtható támogatás maximális mértékének meghatározása szempontjából a filmalkotáshoz nyújtott valamennyi támogatást figyelembe kell venni. A filmgyártás-előkészítési támogatásban részesülő filmalkotás támogatását a 13. §-ban meghatározott támogatási határ kiszámításakor figyelembe kell venni.
 
-(5) Az MTVA – a Médiatanács előzetes jóváhagyásával – megállapodást köthet az MNF-fel filmalkotások támogatásáról e törvény rendelkezései szerint.
+(5) Az MTVA – a Médiatanács előzetes jóváhagyásával – megállapodást köthet az NFI-vel filmalkotások támogatásáról e törvény rendelkezései szerint.
 
-(6) Az MNF a mozgóképszakmai célok támogatására rendelkezésre álló források elosztásának összehangolása érdekében megállapodást köthet a támogatóval a (3) bekezdésben meghatározott egyes mozgóképszakmai tevékenységek támogatásáról.
+(6) Az NFI a mozgóképszakmai célok támogatására rendelkezésre álló források elosztásának összehangolása érdekében megállapodást köt a támogatóval a (3) bekezdésben meghatározott egyes mozgóképszakmai tevékenységek támogatásáról, ideértve különösen az elszámolások ellenőrzését és szakmai elbírálását.
 
 (7)
 

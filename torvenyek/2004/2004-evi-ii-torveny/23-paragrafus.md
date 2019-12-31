@@ -22,4 +22,4 @@ d) a filmterjesztők egy képviselője.
 
 (4) A Korhatár Bizottság tagjai az Elnök által megállapított tiszteletdíjban, az eljáró Korhatár Bizottság tagjai az Elnök által megállapított költségtérítésben részesülnek.
 
-(5) A miniszter, az oktatásért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az MNF egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
+(5) A miniszter, az oktatásért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az NFI egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.

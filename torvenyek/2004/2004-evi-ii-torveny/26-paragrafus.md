@@ -4,11 +4,11 @@
 
 (3) Az Art Bizottság tagjai:
 
-a) egy, a Magyar Művészeti Akadémia elnöke által a filmművészet képviselőjeként delegált személy,
+a) egy, a Magyar Művészeti Akadémia elnöke által a mozgóképművészet képviselőjeként delegált személy,
 
-b) egy, a Hivatal által az NMHH köztisztviselői közül delegált felsőfokú végzettségű és a filmművészet területén tapasztalattal rendelkező személy,
+b) egy, a Hivatal által az NMHH köztisztviselői közül delegált felsőfokú végzettségű és a mozgóképművészet területén tapasztalattal rendelkező személy,
 
-c) egy, a miniszter által delegált, a filmművészet területén tapasztalattal rendelkező személy,
+c) egy, a miniszter által delegált, a mozgóképművészet területén tapasztalattal rendelkező személy,
 
 d) három, filmművészeti, filmtudományi vagy mozgóképtanári végzettséggel, illetve gyakorlattal rendelkező személy.
 

@@ -18,19 +18,19 @@ c) a filmelőállító visszavonhatatlan jognyilatkozatát, hogy a (4) bekezdés
 
 a) a filmelőállító, illetve a filmgyártó vállalkozás önálló vagy együttes,
 
-b) – a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító támogatás esetében – az MNF, vagy
+b) – a Tao. tv. 22. § (3) bekezdése szerinti adókedvezményre jogosító támogatás esetében – az NFI, vagy
 
-c) – ha az (1) bekezdés szerinti határozat véglegessé vált és a filmelőállító, illetve a filmgyártó vállalkozás vagy az MNF azt nem kérte – a közvetett támogatás forrását a Tao. tv. 22. § (3) bekezdése, illetve a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján – az MNF részére történő felajánlás kivételével – biztosító szervezet
+c) – ha az (1) bekezdés szerinti határozat véglegessé vált és a filmelőállító, illetve a filmgyártó vállalkozás vagy az NFI azt nem kérte – a közvetett támogatás forrását a Tao. tv. 22. § (3) bekezdése, illetve a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján – az NFI részére történő felajánlás kivételével – biztosító szervezet
 
-kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki. Amennyiben a közvetett támogatás forrását biztosító szervezet a közvetett támogatást a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján az MNF részére történő felajánlás formájában biztosítja, a Hivatal a közvetett támogatás igénybevételére jogosító támogatási igazolást nem állít ki. A Hivatal a Tao. tv. 24/A. § (16) bekezdés a) pontja szerint igazolást a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás együttes kérelmére állítja ki.
+kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki. Amennyiben a közvetett támogatás forrását biztosító szervezet a közvetett támogatást a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján az NFI részére történő felajánlás formájában biztosítja, a Hivatal a közvetett támogatás igénybevételére jogosító támogatási igazolást nem állít ki. A Hivatal a Tao. tv. 24/A. § (16) bekezdés a) pontja szerint igazolást a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás együttes kérelmére állítja ki.
 
 (4) A költségellenőrzést lezáró határozat, valamint a támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében az Elnök által rendeletben meghatározott módon.
 
 (5) A támogatási igazolás kiadása iránti
 
-a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet a filmelőállítóval, illetve filmgyártó vállalkozással köt szerződést a filmalkotás támogatásáról és a kérelmező a közvetett támogatás forrását biztosító szervezet vagy az MNF – a támogatási igazolás kiadása iránti kérelem benyújtásával egyidejűleg, egyéb esetben legkésőbb a kérelem benyújtását követő 30 napon belül meg kell jelölni a közvetett támogatás forrását biztosító szervezet nevét, székhelyét, adószámát és csatolni kell a filmalkotás támogatására vonatkozó szerződést,
+a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet a filmelőállítóval, illetve filmgyártó vállalkozással köt szerződést a filmalkotás támogatásáról és a kérelmező a közvetett támogatás forrását biztosító szervezet vagy az NFI – a támogatási igazolás kiadása iránti kérelem benyújtásával egyidejűleg, egyéb esetben legkésőbb a kérelem benyújtását követő 30 napon belül meg kell jelölni a közvetett támogatás forrását biztosító szervezet nevét, székhelyét, adószámát és csatolni kell a filmalkotás támogatására vonatkozó szerződést,
 
-b) kérelemhez – ha azt a Hivatal az MNF kérelmére adja ki – csatolni kell az MNF és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
+b) kérelemhez – ha azt a Hivatal az NFI kérelmére adja ki – csatolni kell az NFI és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
 
 c) a kérelemhez csatolni kell a (2) bekezdésben meghatározott iratokat,
 
@@ -48,7 +48,7 @@ d) a Tao. tv. 22. § (3) bekezdése és a Tao. tv. 24/A. § (3) bekezdés a) pon
 
 (6a)–(6b)
 
-(7) Az MNF kérelmére kiadott támogatási igazolás kizárólag a (6) bekezdés a) és d) pontjában meghatározott adatokat tartalmazza.
+(7) Az NFI kérelmére kiadott támogatási igazolás kizárólag a (6) bekezdés a) és d) pontjában meghatározott adatokat tartalmazza.
 
 (8) Megrendelésre készülő filmalkotás esetén a filmgyártó vállalkozás kérelme alapján – ide nem értve a (7) bekezdés szerinti kérelem alapján kiadott támogatási igazolásokat – a támogatási igazoláson és a költségellenőrzési eljárásban hozott határozatban a filmelőállító is feltüntethető.
 

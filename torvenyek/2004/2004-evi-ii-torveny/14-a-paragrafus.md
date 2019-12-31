@@ -6,4 +6,4 @@
 
 (4) Az összeférhetetlenségről a pályázat elbírálását megelőzően az érintett tisztségviselőnek írásban nyilatkoznia kell. Ha az érintett vezető vagy javaslattevő tisztségviselő az összeférhetetlenség kérdésében valótlanul nyilatkozik vagy valótlan adatot szolgáltat, megbízatása a törvény erejénél fogva megszűnik.
 
-(5) Ha törvény az adott támogatóra eltérő összeférhetetlenségi szabályt állapít meg, a két szabály közül a szigorúbbat kell alkalmazni. E törvény alkalmazásában az MNF vezérigazgatója, valamint az MNF Filmszakmai Döntőbizottságának tagjai támogatásokról döntő tisztségviselőnek minősülnek.
+(5) Ha törvény az adott támogatóra eltérő összeférhetetlenségi szabályt állapít meg, a két szabály közül a szigorúbbat kell alkalmazni. E törvény alkalmazásában az NFI igazgatóságának tagjai, valamint az NFI Döntőbizottságainak tagjai támogatásokról döntő tisztségviselőnek minősülnek.

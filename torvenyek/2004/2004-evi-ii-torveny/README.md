@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2018-08-04 | 2018. évi XLIX. törvény | 2004-2-00-00.44 |
 | 2019-01-01 | 2018. évi CXII. törvény | 2004-2-00-00.45 |
 | 2019-01-19 | 2018. évi CXII. törvény | 2004-2-00-00.46 |
+| 2019-12-31 | 2019. évi CVI. törvény | 2004-2-00-00.47 |

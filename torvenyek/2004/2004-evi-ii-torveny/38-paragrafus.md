@@ -6,7 +6,7 @@ b) a Hivatal által megállapított kategória szerinti jelzés filmalkotáson, 
 
 c) a filmalkotások korhatár szerinti megjelölésének feltételeit,
 
-d) a közvetett támogatási eljárásban az MNF és más támogató által nyújtott támogatás esetén a támogatások felhasználásának és a filmalkotás pénzügyi elszámolásának ellenőrzése tekintetében az MNF és más támogató által kiállított jegyzőkönyv tartalmának részletes szabályait,
+d) a közvetett támogatási eljárásban az NFI és más támogató által nyújtott támogatás esetén a támogatások felhasználásának és a filmalkotás pénzügyi elszámolásának ellenőrzése tekintetében az NFI és más támogató által kiállított jegyzőkönyv tartalmának részletes szabályait,
 
 e) a nemzetközi egyezményekben meghatározott koprodukciós igazolások, valamint a magyar mozgóképszakma nemzetközi együttműködéséhez szükséges egyéb igazolások kiadásának rendjét,
 

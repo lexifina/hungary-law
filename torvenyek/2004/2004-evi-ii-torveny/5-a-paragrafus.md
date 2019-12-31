@@ -18,7 +18,7 @@ alkotják.
 
 (2) A nemzeti filmvagyon elemei az állam tulajdonába tartoznak.
 
-(3) A nemzeti filmvagyonra vonatkozóan a magyar állam javára a tulajdonjog, illetve a felhasználási jog megszerzését eredményező megállapodást harmadik személlyel a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MNF) a tulajdonosi joggyakorló előzetes egyetértése nélkül jogosult megkötni.
+(3) A nemzeti filmvagyonra vonatkozóan a magyar állam javára tulajdonjog, illetve a felhasználási jog megszerzését eredményező megállapodást harmadik személlyel a Nemzeti Filmintézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NFI) a tulajdonosi joggyakorló előzetes egyetértése nélkül jogosult megkötni.
 
 2. CÍM
 
