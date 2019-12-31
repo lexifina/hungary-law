@@ -1,3 +1,0 @@
-35. § (1) A IX. Helyi önkormányzatok támogatásai fejezetben 2015. évben év közben létrehozott új címek, illetve alcímek 2015. december 31-ei pozitív egyenlege esetén az államháztartásért felelős miniszter gondoskodhat e címek és alcímek 2016. évi címrendbe történő felvételéről és a 2015. december 31-én fennálló pozitív egyenlegnek megfelelő összeg biztosításáról.
-
-(2) A helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter, illetve a támogatás jellegétől függően a feladatkörrel rendelkező miniszter egyetértésével a IX. Helyi önkormányzatok támogatásai fejezetben – az 1. mellékletben szereplő címek, valamint a 2. és 3. mellékletben szereplő jogcímek között és azokon belül – átcsoportosíthat.

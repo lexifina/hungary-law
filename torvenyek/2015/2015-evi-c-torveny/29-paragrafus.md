@@ -1,9 +1,0 @@
-## 12. Az európai uniós források felhasználásával kapcsolatos szabályok
-
-29. § (1) A teljes, 43 731,1 millió forint összegű kötelezettségvállalási keret-előirányzat, és az ahhoz kapcsolódó központi költségvetési finanszírozás együttes összegének kötelezettségvállalással nem terhelt része mértékéig vállalható az Európai Gazdasági Térség Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus 2009–2014. évi programokra, projektekre vonatkozó tárgyévi és éven túli fizetési kötelezettség.
-
-(2) A teljes, 38 423,9 millió forint összegű kötelezettségvállalási keret-előirányzat, és az ahhoz kapcsolódó központi költségvetési finanszírozás együttes összegének kötelezettségvállalással nem terhelt része mértékéig vállalható a Svájci–Magyar Együttműködési Program által támogatott programokra, projektekre vonatkozó tárgyévi és éven túli fizetési kötelezettség.
-
-(3) Az európai uniós tagsághoz kapcsolódó támogatások maradéktalan felhasználása érdekében az államháztartásért felelős miniszter egyetértésével az (1) és (2) bekezdésben meghatározott mértéken túl is vállalható tárgyévi és éven túli fizetési kötelezettség.
-
-(4) Az Európai Területi Együttműködés (a továbbiakban: ETE) célkitűzés keretében az Előcsatlakozási Támogatási Eszközből és az Európai Szomszédsági és Partnerségi Támogatási Eszközből indult és a 2007–2013-as programozási időszakban finanszírozott programok esetében az államháztartásért felelős miniszter egyetértése esetén vállalható az irányadó programkeret hazai projektpartnerekre eső részének kötelezettségvállalással még nem terhelt részét meghaladó mértékű tárgyévi és éven túli fizetési kötelezettség akkor, ha az adott programban részes minden további partnerország biztosítja az arányos mértékű többletkötelezettség-vállalás lehetőségét saját projektpartnerei számára.
