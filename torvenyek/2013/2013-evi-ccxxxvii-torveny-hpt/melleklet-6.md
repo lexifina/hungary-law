@@ -25,11 +25,3 @@ Tájékoztató a betéteseknek
 ## Egyes esetekben a betéteseket három hónapig 100 000 eurót meghaladó védelem is megillet. További tájékoztatásért látogasson el a következő weboldalra: www.oba.hu.
 
 ## 4 Kártalanítás
-
-## A betétbiztosítási rendszer az Országos Betétbiztosítási Alap [cím, telefonszám, e-mail cím és weboldal]. Ez a rendszer 2020. december 31-ig 15 munkanapon, 2021. január 1-től 2023. december 31-ig 10 munkanapon, 2024. január 1-től 7 munkanapon belül kártalanítást fizet az Ön betétjeire legfeljebb 100 000 euró összeghatárig.
-
-## Amennyiben ezeken a határidőkön belül nem kapja meg a kártalanítást, úgy vegye fel a kapcsolatot a betétbiztosítási rendszerrel.
-
-## További tájékoztatásért látogasson el a következő weboldalra: www.oba.hu
-
-## Egyéb fontos információk
