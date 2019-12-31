@@ -26,8 +26,6 @@ Határidő: 2020. június 30.
 
 4. tudomásul veszi, hogy a szolnoki vasúti járműipar fejlesztéséről és a MÁV-START Zrt. IC+ vasúti személykocsi gyártásának támogatásáról szóló 1167/2016. (IV. 6.) Korm. határozat alapján folyósított 15 227 250 000 forint forrás a személyszállítási közszolgáltatás finanszírozására teljes mértékben felhasználásra került;
 
-5. visszavonja
+5.[^1]
 
-a) a szolnoki vasúti járműipar fejlesztéséről és a MÁV-START Zrt. IC+ vasúti személykocsi gyártásának támogatásáról szóló 1167/2016. (IV. 6.) Korm. határozatot,
-
-b) a kötöttpályás járműgyártás fejlesztéséről szóló 1179/2017. (IV. 7.) Korm. határozat 5. és 6. pontját.
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
