@@ -18,4 +18,4 @@
 
 8. vendégéjszaka: vendégként eltöltött – éjszakát is magában foglaló vagy így elszámolt – legfeljebb 24 óra.
 
-[^3]: A 2. § 7. pontja a 15. § (3) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^3]: A 2. § 7. pontja a 15. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.

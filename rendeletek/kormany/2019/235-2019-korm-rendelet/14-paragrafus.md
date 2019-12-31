@@ -2,4 +2,4 @@
 
 ## 8.[^7]
 
-[^7]: A 8. alcím (14. §) a 15. § (3) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^7]: A 8. alcím (14. §) a 15. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-## 19. §[^9]
+## 19. §[^12]
 
-[^9]: A 19. § a 15. § (3) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^12]: A 19. § a 15. § (4) bekezdése alapján 2020. szeptember 1-jén lép hatályba.
