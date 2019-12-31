@@ -5,3 +5,5 @@
 (3) Ha a (2) bekezdés sem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki ezt közös jogkezelő szervezet által a közös jogkezelés alá tartozó művekről, szomszédos jogi teljesítményekről, illetve jogosultakról fenntartott adatbázis alapján kiállított teljes bizonyító erejű magánokirattal igazolja. Ilyen magánokiratot a közös jogkezelő szervezet önként vállalt szolgáltatásként – alapszabályával összhangban – saját tagja számára, a tag kérésére állíthat ki.
 
 (4) Ha a (3) bekezdés sem alkalmazható, az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a művet először hozta nyilvánosságra.
+
+(5) Építészeti alkotások esetén, ha az (1) bekezdés nem alkalmazható, akkor az ellenkező bizonyításáig azt kell szerzőnek tekinteni, aki a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság által vezetett építészeti szerzői jogi nyilvántartásban szerzőként szerepel. Ha e szabály nem alkalmazható, akkor a (2)–(4) bekezdésben foglaltak irányadóak.
