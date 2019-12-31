@@ -16,7 +16,7 @@
 
 | 7 | 1.000.000.001 Ft felett | 23 580 Ft |
 
-2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^50]
+2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^57]
 
 A területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer működtetéséhez szükséges állami ingatlan-nyilvántartási térképi adatok
 
@@ -30,4 +30,4 @@ A területfejlesztéssel és területrendezéssel kapcsolatos információs rend
 
 | 4. | Állami ingatlan-nyilvántartási térképi adatbázis | Épület | rendeltetés, tulajdonos típusa (állami/önkormányzati/magán) | DAT vagy SHP shape, poligon |
 
-[^50]: A 2. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 4. §-a iktatta be.
+[^57]: A 2. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 4. §-a iktatta be.
