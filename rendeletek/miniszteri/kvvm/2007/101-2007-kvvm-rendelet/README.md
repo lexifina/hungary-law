@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-101-20-
 | 2015-04-01 | 2007-101-20-0N.11 | 11/2015. (III. 31.) BM rendelet |
 | 2018-01-01 | 2007-101-20-0N.12 | 42/2017. (XII. 29.) BM rendelet |
 | 2018-03-20 | 2007-101-20-0N.13 | 6/2018. (III. 5.) BM rendelet |
+| 2020-01-01 | 2007-101-20-0N.14 | 43/2019. (XII. 14.) BM rendelet |

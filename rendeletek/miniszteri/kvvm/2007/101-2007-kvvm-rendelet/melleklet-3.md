@@ -294,6 +294,6 @@
 
 ## A magmintavételt és a mintával elvégzett vizsgálatokat a vízföldtani napló tartalomjegyzékében kell megadni az „egyéb mérési adatok” pont alatt van lehetőség a részletezésre (M1.6.).
 
-3. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^33]
+3. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^34]
 
-[^33]: A 3. mellékletet a 42/2017. (XII. 29.) BM rendelet 5. § g) pontja hatályon kívül helyezte.
+[^34]: A 3. mellékletet a 42/2017. (XII. 29.) BM rendelet 5. § g) pontja hatályon kívül helyezte.

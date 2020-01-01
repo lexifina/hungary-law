@@ -6,10 +6,14 @@
 
 (5)[^8]
 
-(6)[^9] A kutak helyét – a helyi önkormányzat jegyzőjének engedélyéhez kötött kutak kivételével – helyszíni műszeres mérésekkel egységes országos vetületi rendszerben (a továbbiakban: EOV) az X, Y vízszintes koordináták, továbbá a Z Balti-tenger szint feletti magassági értékek (a továbbiakban: mBf) megadásával kell meghatározni. A meghatározást geodéziai méréssel kell elvégezni a vízföldtani napló készítési kötelezettség alá tartozó kutak esetében, vagy ha azt a vízügyi hatóság – a tervezett létesítmény helyzetétől, jellegétől, rendeletetésétől függően – a vízjogi engedélyben előírja. A geodéziai méréstől eltérő műszeres mérések esetében a műszer típusát és mérési pontosságát is szükséges megadni.
+(6)[^9] A felszín alatti vízilétesítmények helyét
+
+a) a települési önkormányzat jegyzőjének engedélyéhez kötött kutak esetében vízszintes koordinátákkal – egységes országos vetületi rendszerben (a továbbiakban: EOV) EOV koordinátákkal vagy a földrajzi szélesség és hosszúság megadásával –,
+
+b) a vízügyi hatóság engedélyéhez kötött felszín alatti vízilétesítmények esetében EOV-ban, az Y, X koordináták, továbbá a Z Balti-tenger szint feletti magassági érték megadásával a vízföldtani napló-készítési kötelezettség alá eső kutaknál, vagy ha azt a vízügyi hatóság a létesítmény helyzetétől, rendeltetésétől függően előírja, geodéziai mérésre jogosult szakember bevonásával
 
 [^5]: Az 5. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 5. § (2)–(3) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § b) pontja hatályon kívül helyezte.
 [^7]: Az 5. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^8]: Az 5. § (5) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § b) pontja hatályon kívül helyezte.
-[^9]: Az 5. § (6) bekezdése a 67/2014. (XII. 17.) BM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (6) bekezdése a 43/2019. (XII. 14.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
