@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2018-12-31 | 2016. évi CXLIV. törvény | 1999-84-00-00.63 |
 | 2019-01-01 | 2017. évi CLXXXVI. törvény | 1999-84-00-00.64 |
 | 2019-07-25 | 2019. évi LXVII. törvény | 1999-84-00-00.65 |
+| 2020-01-01 | 2019. évi CX. törvény | 1999-84-00-00.66 |
