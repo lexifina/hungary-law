@@ -1,3 +1,3 @@
-1. melléklet a 236/2019. (X. 15.) Korm. rendelethez[^24]
+1. melléklet a 236/2019. (X. 15.) Korm. rendelethez[^20]
 
-[^24]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
