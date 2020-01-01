@@ -26,7 +26,7 @@ b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a do
 
 a) hátrányos helyzetű hallgatói (jelentkezői) csoport,
 
-b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
+b) gyermekük gondozása céljából fizetés nélküli szabadságon lévők, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy gyermekgondozási díjban részesülők,
 
 c) fogyatékossággal élő jelentkezők csoportjához tartozók,
 
