@@ -8,7 +8,7 @@
 
 (4) Telekommunikációs eszköz használata esetén a bírósági tárgyalás kitűzött, illetve az előkészítő eljárást lefolytató rendőri szerv által megjelölt helyszín (a továbbiakban: elkülönített helyszín) között az összeköttetés közvetlenségét és kölcsönösségét kép- és hangfelvétel továbbítása biztosítja.
 
-(5) Ha a bíróság a 63. § (1) bekezdésében meghatározottak alapján elrendelte a tanú adatainak zártan kezelését, a telekommunikációs eszköz használata útján történő meghallgatáson az elkövető csak akkor lehet jelen, ha ehhez a tanú hozzájárul. Az így kizárt elkövető a telekommunikációs eszköz használata útján történő meghallgatást követően, a meghallgatás során távollétében történteket megismerheti.
+(5) Ha a bíróság elrendelte a tanú adatainak zártan kezelését, a telekommunikációs eszköz használata útján történő meghallgatáson az elkövető csak akkor lehet jelen, ha ehhez a tanú hozzájárul. Az így kizárt elkövető a telekommunikációs eszköz használata útján történő meghallgatást követően, a meghallgatás során távollétében történteket megismerheti.
 
 (6) Telekommunikációs eszköz használata esetén az elkülönített helyszínen kizárólag a következő személyek lehetnek jelen:
 

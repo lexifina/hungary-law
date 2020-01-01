@@ -1,6 +1,6 @@
 ## XXXI. Fejezet
 
-## AZ ÓVODAI NEVELÉS, VALAMINT AZ ALAPFOKÚ ÉS KÖZÉPFOKÚ NEVELÉS-OKTATÁS RENDJÉT VESZÉLYEZTETŐ SZABÁLYSÉRTÉSEK
+## A KÖZNEVELÉS, A SZAKKÉPZÉS ÉS A FELSŐOKTATÁS RENDJÉT VESZÉLYEZTETŐ SZABÁLYSÉRTÉSEK
 
 ## 201. Az óvodai nevelésben való részvételi kötelezettség és a tankötelezettség megszegése
 
@@ -10,7 +10,7 @@ a) aki a szülői felügyelete vagy gyámsága alatt álló gyermeket kellő id�
 
 b) aki nem biztosítja, hogy súlyos és halmozottan fogyatékos gyermeke a fejlődését biztosító nevelésben, nevelés-oktatásban vegyen részt,
 
-c) akinek a szülői felügyelete vagy gyámsága – kivéve a gyermekvédelmi gyámsága – alatt álló gyermeke ugyanabban az óvodai nevelési évben az iskolai életmódra felkészítő foglalkozásokról, illetőleg ugyanabban a tanévben az iskolai kötelező tanórai foglalkozásokról igazolatlanul a jogszabályban meghatározott mértéket vagy annál többet mulaszt,
+c) akinek a szülői felügyelete vagy gyámsága – kivéve a gyermekvédelmi gyámsága – alatt álló gyermeke ugyanabban az óvodai nevelési évben az iskolai életmódra felkészítő foglalkozásokról vagy ugyanabban a tanévben az iskolai kötelező tanítási óráról, illetve foglalkozásokról igazolatlanul a jogszabályban meghatározott mértéket vagy annál többet mulaszt,
 
 szabálysértést követ el.
 
