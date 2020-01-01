@@ -1,1 +1,1 @@
-130. § A munkavállalónak gyermeke személyes gondozása érdekében – a 128. §-ban foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának tartama alatt.
+130. § A munkavállalónak gyermeke személyes gondozása érdekében – a 128. § (1) és (2) bekezdésében foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozást segítő ellátás folyósításának tartama alatt.

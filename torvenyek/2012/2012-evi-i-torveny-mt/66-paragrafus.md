@@ -14,7 +14,7 @@ nem szolgálhat a munkáltató felmondásának indokául.
 
 (5) A (4) bekezdésben meghatározott munkavállaló munkaviszonya a munkavállaló képességével vagy a munkáltató működésével összefüggő okból akkor szüntethető meg, ha a munkáltatónál a 45. § (3) bekezdése szerinti munkahelyen nincs a munkavállaló által betöltött munkakörhöz szükséges képességnek, végzettségnek, gyakorlatnak megfelelő betöltetlen másik munkakör vagy a munkavállaló az e munkakörben való foglalkoztatásra irányuló ajánlatot elutasítja.
 
-(6) Az anya vagy a gyermekét egyedül nevelő apa munkaviszonyának felmondással történő megszüntetése esetén a gyermek hároméves koráig a (4)–(5) bekezdésben foglaltakat kell alkalmazni, ha a munkavállaló szülési vagy a gyermek gondozása céljából fizetés nélküli szabadságot (128. §) nem vesz igénybe.
+(6) Az anya vagy a gyermekét egyedül nevelő apa munkaviszonyának felmondással történő megszüntetése esetén a gyermek hároméves koráig a (4)–(5) bekezdésben foglaltakat kell alkalmazni, ha a munkavállaló szülési vagy a gyermek gondozása céljából fizetés nélküli szabadságot [128. § (1) és (2) bekezdése] nem vesz igénybe.
 
 (7) A munkáltató a rehabilitációs ellátásban vagy rehabilitációs járadékban részesülő munkavállaló munkaviszonyát a munkavállaló egészségi okkal összefüggő képességével indokolt felmondással akkor szüntetheti meg, ha a munkavállaló eredeti munkakörében nem foglalkoztatható tovább és a munkavállaló számára állapotának egészségi szempontból megfelelő munkakört nem tud felajánlani, vagy a munkavállaló a felajánlott munkakört alapos ok nélkül nem fogadja el.
 

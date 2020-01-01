@@ -28,4 +28,6 @@ m) az Európai Parlament és Tanács 2008/104/EK irányelve (2008. november 19.)
 
 n) az Európai Parlament és Tanács 2014/67/EU irányelve (2014. május 15.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról,
 
-o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6.) a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról.
+o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6.) a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról,
+
+p) az Európai Parlament és a Tanács 2014/59/EU irányelve (2014. május 15.) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról.

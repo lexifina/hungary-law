@@ -14,7 +14,7 @@ a) napi munkaideje legfeljebb huszonnégy óra,
 
 b) heti munkaideje legfeljebb hetvenkét óra
 
-lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidő-keret elrendelése esetén a munkaidő-keret utolsó napjára tizenöt napos határidővel felmondhatja.
+lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja. A megállapodás felmondása esetén a munkavállalót – a 6. és 7. §-ban foglaltakra figyelemmel – jogellenesen hátrány nem érheti.
 
 (4) A munkavállaló beosztás szerinti napi vagy heti munkaideje a (2)–(3) bekezdésben meghatározott tartamot legfeljebb egy órával meghaladhatja, ha a téli időszámítás kezdete a munkaidő-beosztás szerinti munkaidőre esik.
 

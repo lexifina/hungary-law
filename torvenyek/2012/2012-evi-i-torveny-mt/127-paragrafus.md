@@ -2,7 +2,7 @@
 
 127. § (1) Az anya egybefüggő 24 hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni.
 
-(2) A szülési szabadság annak a nőnek is jár, aki a gyermeket örökbefogadási szándékkal nevelésbe vette.
+(2) A szülési szabadság annak a szülőnek is jár, aki a gyermeket az anya egészségi állapota vagy halála miatt végrehajtható bírósági ítélet vagy végrehajtható gyámhatósági határozat alapján gondozza.
 
 (3) A szülési szabadságot – eltérő megállapodás hiányában – úgy kell kiadni, hogy legfeljebb négy hét a szülés várható időpontja elé essen.
 

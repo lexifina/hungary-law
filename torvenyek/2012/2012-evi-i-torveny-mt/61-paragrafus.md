@@ -10,4 +10,4 @@ foglalkoztatás lehetőségéről.
 
 (2) A munkavállaló munkaszerződés módosítására irányuló ajánlatára a munkáltató tizenöt napon belül írásban nyilatkozik.
 
-(3) A munkáltató a munkavállaló ajánlatára a gyermek hároméves koráig – három vagy több gyermeket nevelő munkavállaló esetén a gyermek ötéves koráig – köteles a munkaszerződést az általános teljes napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.
+(3) A munkáltató a munkavállaló ajánlatára a gyermek négyéves koráig – három vagy több gyermeket nevelő munkavállaló esetén a gyermek hatéves koráig – köteles a munkaszerződést az általános teljes napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.
