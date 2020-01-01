@@ -1,5 +1,7 @@
 112. § (1) A helyi önkormányzat feladataihoz igazodóan választja meg a gazdálkodás formáit, és pénzügyi előírások keretei között önállóan alakítja ki az érdekeltségi szabályokat. A helyi önkormányzat a feladatai ellátásának feltételeit saját bevételeiből, más gazdálkodó szervektől átvett bevételekből, valamint központi költségvetési támogatásból teremti meg.
 
+(1a) A helyi önkormányzatok helyi közösségi közlekedési feladatellátásának forrása a fővárosi önkormányzat esetében elsőként a külön törvény alapján fővárosi önkormányzatot osztottan megillető adóbevétel, más önkormányzatnál pedig a helyi iparűzési adóból származó bevétel. A helyi iparűzési adóbevételből a közösségi közlekedési feladat ellátási összegén felüli bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használható fel.
+
 (2) A helyi önkormányzat veszteséges gazdálkodásának következményei a helyi önkormányzatot terhelik, kötelezettségeiért a központi költségvetés nem tartozik felelősséggel.
 
 (3) Az önkormányzati gazdálkodás e törvényben nem szabályozott kérdéseiben az államháztartásról szóló törvényben és végrehajtási rendeleteiben foglaltakat kell alkalmazni.

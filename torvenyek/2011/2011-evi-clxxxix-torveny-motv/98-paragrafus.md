@@ -8,9 +8,11 @@
 
 (4) Az előkészítő bizottság javaslatot készít az (1) és (2) bekezdésben írt követelmények és a területszervezési eljárásról szóló kormányrendeletben meghatározott egyéb feltételek teljesítésére.
 
-(5) A miniszter március 31-ig határozatában dönt arról, hogy nem terjeszti elő a kezdeményezést, ha az nem felel meg az (1) és (2) bekezdésben foglalt feltételeknek, vagy a jogszabályban előírt eljárási szabályt nem tartották meg. Az előkészítő bizottság, a képviselő-testület a miniszter határozatának felülvizsgálatát a kézbesítéstől számított harminc napon belül a miniszternek benyújtott kérelemben a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérheti. A miniszter az iratokat a kérelem beérkezésétől számított három napon belül megküldi a bírósághoz.
+(5) A miniszter március 31-ig határozatban dönt arról, hogy nem terjeszti elő a kezdeményezést, ha az nem felel meg az (1) és (2) bekezdésben foglalt feltételeknek, vagy a jogszabályban előírt eljárási szabályt nem tartották meg. A miniszter határozatát az előkészítő bizottság, valamint a képviselő-testület tizenöt napon belül közigazgatási perben megtámadhatja. A miniszter a keresetlevelet annak a bírósághoz érkezésétől számított három napon belül továbbítja az ügy irataival együtt a hatáskörrel és illetékességgel rendelkező bírósághoz.
 
-(6) A bíróság az ügyben a beérkezéstől számított harminc napon belül nemperes eljárásban dönt. Végzésében a kérelmet elutasítja, vagy a miniszter határozatát hatályon kívül helyezi. A végzés ellen fellebbezésnek helye nincs. A miniszter a határozat hatályon kívül helyezése esetén június 30-áig nyújtja be a kezdeményezést a köztársasági elnöknek.
+(5a) A bíróság a keresetlevél beérkezésétől számított harminc napon belül tanácsban határoz, határozata ellen a határozat közlését követő nyolc napon belül van helye fellebbezésnek. A fellebbezésről a bíróság annak a bírósághoz érkezésétől számított harminc napon belül határoz. A bíróság döntése ellen nincs helye perújításnak.
+
+(6) Ha a bíróság a keresetnek helyt ad, a miniszter határozatát megsemmisíti. A miniszter a határozat megsemmisítése esetén a kezdeményezést haladéktalanul a köztársasági elnök elé terjeszti.
 
 (7) A településrész új községgé alakításáról szóló köztársasági elnöki döntés közzétételétől számított harminc napon belül az előkészítő bizottság településrészi önkormányzattá alakul át. A településrészi önkormányzat egyetértése szükséges a településrészt érintő
 
@@ -20,10 +22,10 @@ b) a bel- és külterületek lehatárolásához;
 
 c) önkormányzati vagyonról, vagyoni jogokról és kötelezettségekről szóló döntéshez.
 
-(8) Az önkormányzati vagyon megosztásáról a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok állapodnak meg. Megállapodás hiányában az önkormányzati vagyont lakosságarányosan kell megosztani.
+(8) Az önkormányzati vagyon megosztásáról a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok közigazgatási szerződésben állapodnak meg. Megállapodás hiányában az önkormányzati vagyont lakosságarányosan kell megosztani.
 
-(9) Az új község területéről a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok állapodnak meg. A megállapodásban az új község alakítására vonatkozó népszavazással érintett területtől eltérni nem lehet. Az új község külterülete a belterülethez kapcsolódó, egybefüggő terület. Eltérő megállapodás hiányában a település külterületét a belterületi népességgel arányosan kell megosztani.
+(9) Az új község területéről a községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az érintett önkormányzatok közigazgatási szerződésben állapodnak meg. A megállapodásban az új község alakítására vonatkozó népszavazással érintett területtől eltérni nem lehet. Az új község külterülete a belterülethez kapcsolódó, egybefüggő terület. Eltérő megállapodás hiányában a település külterületét a belterületi népességgel arányosan kell megosztani.
 
-(10) Az új község vagyonára, területére vonatkozó megállapodás hiányában bármelyik érintett önkormányzat keresete alapján a közigazgatási és munkaügyi bíróság dönt.
+(10) Ha az új község vagyonára, területére vonatkozóan az önkormányzatok határidőn belül nem állapodnak meg, bármelyik érintett önkormányzat közigazgatási pert indíthat a szerződés bírósági létrehozása iránt.
 
-(11) A községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az új község önkormányzata a törvényi feltételek keretei között polgármesteri hivatalt hoz létre vagy közös önkormányzati hivatalhoz (a továbbiakban: hivatal) csatlakozik. Eddig az időpontig az új község hivatali feladatait annak a településnek a hivatala látja el, amelyből az új község megalakult. A hivatal költségeinek viseléséről az érintett önkormányzatok állapodnak meg. Ennek hiányában a költségekhez az érintett önkormányzatok a települések lakosságszámának arányában járulnak hozzá.
+(11) A községgé nyilvánításról szóló döntés hatálybalépését követő hat hónapon belül az új község önkormányzata a törvényi feltételek keretei között polgármesteri hivatalt hoz létre vagy közös önkormányzati hivatalhoz (a továbbiakban: hivatal) csatlakozik. Eddig az időpontig az új község hivatali feladatait annak a településnek a hivatala látja el, amelyből az új község megalakult. A hivatal költségeinek viseléséről az érintett önkormányzatok közigazgatási szerződésben állapodnak meg. Ennek hiányában a költségekhez az érintett önkormányzatok a települések lakosságszámának arányában járulnak hozzá.

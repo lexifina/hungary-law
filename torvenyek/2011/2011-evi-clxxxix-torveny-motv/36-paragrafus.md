@@ -6,11 +6,11 @@ a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan 
 
 aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el, illetve nevelőszülői foglalkoztatási jogviszonyban áll;
 
-ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
+ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szakképző intézmény vezetője, foglalkoztatottja vagy a szakképző intézmény tekintetében fenntartói irányítási hatáskört gyakorló szerv vezetője, foglalkoztatottja, felsőoktatási intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
 
 b) központi államigazgatási szerv vezetője, köztisztviselője;
 
-c) állami tisztviselő, kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
+c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
 
 d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
 

@@ -10,7 +10,7 @@ b) kezdeményezheti a képviselő-testület vagy a társulási tanács összehí
 
 c) javasolhatja a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek, hogy kezdeményezze a Kormánynál annak indítványozását, hogy az Alkotmánybíróság vizsgálja felül az önkormányzati rendelet Alaptörvénnyel való összhangját;
 
-d) kezdeményezheti a közigazgatási és munkaügyi bíróságnál az önkormányzat határozatának felülvizsgálatát;
+d) az önkormányzati határozatot közigazgatási perben megtámadhatja;
 
 e) kezdeményezheti a határozathozatali, feladat ellátási kötelezettségét nem teljesítő helyi önkormányzattal szemben bírósági eljárás megindítását, a határozathozatal pótlásának elrendelését;
 

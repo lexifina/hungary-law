@@ -6,7 +6,7 @@ a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn b
 
 b) ha az érintett határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
 
-c) ha bíróság megállapítja, hogy a helyi önkormányzat jogalkotási, határozathozatali, feladat-ellátási (közszolgáltatási) kötelezettségének nem tett eleget és a bíróság által tűzött határidő eredménytelenül eltelt;
+c)
 
 d) ha a kormányhivatal kezdeményezése alapján a képviselő-testület nem folytatja le határidőben a polgármester, valamint a polgármester a jegyző ellen a fegyelmi eljárást;
 
@@ -34,6 +34,6 @@ c) az indokolásban a döntést megalapozó tényeket;
 
 d) a záró részben a kiadmányozást.
 
-(6) A kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálatát jogszabálysértésre hivatkozással a helyi önkormányzat vagy a társulás kérheti az illetékes közigazgatási és munkaügyi bíróságtól a döntés közlésétől számított tizenöt napon belül.
+(6) A kormányhivatal törvényességi felügyeleti bírságot megállapító határozatát a helyi önkormányzat vagy a társulás a döntés közlésétől számított tizenöt napon belül közigazgatási perben megtámadhatja.
 
-(7) A közigazgatási és munkaügyi bíróság a kormányhivatalt a törvényességi felügyeleti bírsággal összefüggésben új eljárás lefolytatására nem kötelezheti.
+(7) A bíróság a kormányhivatalt a törvényességi felügyeleti bírsággal összefüggésben új eljárás lefolytatására nem kötelezheti.

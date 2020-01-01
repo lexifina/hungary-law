@@ -45,3 +45,5 @@
 21. víziközmű-szolgáltatás, amennyiben a víziközmű-szolgáltatásról szóló törvény rendelkezései szerint a helyi önkormányzat ellátásért felelősnek minősül.
 
 (2) Törvény a helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó más helyi önkormányzati feladatot is megállapíthat.
+
+(3) Az (1) bekezdés 18. pontja szerinti helyi közösségi közlekedési feladatellátás forrása helyi önkormányzatnál a helyi iparűzési adóból származó bevétel, a fővárosi önkormányzat esetében elsőként a külön törvény alapján a fővárosi önkormányzatot osztottan megillető adóbevétel.
