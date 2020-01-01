@@ -12,7 +12,7 @@ c) az a) pont alá nem tartozó, a közkereseti társaság, a betéti társaság
 
 d) az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég és természetes személy tagja között fennálló tagi jogviszonyból;
 
-e) a gazdálkodó szervezet és a tanuló között tanulószerződés alapján fennálló jogviszonyból;
+e)
 
 f) az egyházi jogi személy és az egyházi szolgálati viszonyban álló egyházi személy között fennálló jogviszonyból;
 

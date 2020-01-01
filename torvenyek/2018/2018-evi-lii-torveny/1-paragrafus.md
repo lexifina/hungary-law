@@ -6,7 +6,7 @@
 
 1. § (1) Szociális hozzájárulási adó (a továbbiakban: adó) fizetési kötelezettség áll fenn a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerint összevont adóalapba tartozó adó (adóelőleg) alap számításnál figyelembe vett jövedelem után.
 
-(2) Az (1) bekezdésben meghatározott jövedelmeken kívül adófizetési kötelezettség terheli a tanulószerződés alapján ténylegesen kifizetett díjat, az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíjat és a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíjat.
+(2) Az (1) bekezdésben meghatározott jövedelmeken kívül adófizetési kötelezettség terheli az ösztöndíjas foglalkoztatási jogviszony alapján fizetett ösztöndíjat és a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíjat.
 
 (3) Adófizetési kötelezettség terheli az Szja tv. szerinti önálló és nem önálló tevékenységből származó jövedelem esetében az Szja tv. szerinti adó (adóelőleg) alap hiányában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) szerint biztosítottnak minősülő személy részére juttatott olyan jövedelmet, amely a Tbj. 4. § k) pont 2. alpontja alapján járulékalapot képez.
 
@@ -40,7 +40,7 @@ Magyarországon adóztatható része után.
 
 (6) Az (1)–(5) bekezdésben meghatározott jövedelem után a szociális hozzájárulási adót nem pénzbeli juttatás esetén is meg kell fizetni.
 
-(7) Adófizetési kötelezettség terheli az egyszerűsített vállalkozói adó alanyának minősülő egyéni vállalkozót (a továbbiakban: eva adóalany egyéni vállalkozó).
+(7)
 
 (8) Ha a természetes személy ugyanazon adómegállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is szerez, az adóalap megállapításánál az (1)–(3) bekezdéseket megfelelően együttesen kell alkalmazni, azzal az eltéréssel, hogy a (3) bekezdés alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
 

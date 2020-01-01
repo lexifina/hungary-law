@@ -6,11 +6,17 @@ a) a kiegészítő tevékenységet folytató egyéni vállalkozónak;
 
 b) a társas vállalkozásnak a kiegészítő tevékenységet folytató társas vállalkozóra tekintettel;
 
-c) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjával fennálló jogviszonyára – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is – tekintettel;
+c) az iskolaszövetkezetnek a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, képzésben részt vevő személy, hallgató tagjával fennálló jogviszonyára – 25. életévének betöltéséig a tanulói, hallgatói, felnőttképzési jogviszonya szünetelésének időtartama alatt is – tekintettel;
 
 d) a szociális szövetkezetnek a tagi munkavégzési jogviszonyban álló tagjával fennálló jogviszonyára tekintettel;
 
-e) a kifizetőnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra tekintettel;
+e) a kifizetőnek
+
+ea) a szakképzésről szóló 2019. évi LXXX. törvény 86. § (1) bekezdése szerinti szakképzési munkaszerződés,
+
+eb) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerinti hallgatói munkaszerződés
+
+alapján létrejött jogviszonyra tekintettel;
 
 f) a közérdekű nyugdíjas szövetkezetnek az öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja között fennálló jogviszonyára tekintettel;
 
@@ -32,7 +38,7 @@ d) a külföldi kifizető által Magyarországon kiküldetés, kirendelés vagy 
 
 e) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint az általa folyósított szociális ellátásból a szociális igazgatásról és a szociális ellátásokról szóló törvény szerint nem a kifizetőt terhelő rész;
 
-f) táppénz, baleseti táppénz, csecsemőgondozási díj, gyermeknevelési támogatás, gyermekgondozási díj;
+f) táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj, gyermeknevelési támogatás, gyermekgondozási díj;
 
 g) az olyan személynek juttatott bevétel, akire a Tbj. 11. §-a, 11/B. §-a, és 13. §-a szerint a biztosítási kötelezettség nem terjed ki;
 
