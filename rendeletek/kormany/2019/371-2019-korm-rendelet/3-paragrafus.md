@@ -1,3 +1,0 @@
-## 2. § Az R. a következő 29. §-sal egészül ki:
-
-## „29. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 371/2019. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr21.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/E. §-át és 2. mellékletében foglalt táblázat 33. sorát a Módr21. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
