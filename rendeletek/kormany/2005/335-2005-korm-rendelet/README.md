@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2019-01-02 | 2005-335-20-22.30 | 206/2018. (XI. 10.) Korm. rendelet |
 | 2019-06-19 | 2005-335-20-22.31 | 137/2019. (VI. 11.) Korm. rendelet |
 | 2019-07-01 | 2005-335-20-22.32 | 126/2019. (V. 30.) Korm. rendelet |
+| 2020-01-01 | 2005-335-20-22.33 | 137/2019. (VI. 11.) Korm. rendelet |

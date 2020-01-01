@@ -24,7 +24,9 @@ c) a 43. § (3) bekezdése szerint elkészített adathordozókat
 
 (6)[^141] A közfeladatot ellátó szerv irattározási feladatainak ellátására elektronikus iratok esetében az Eür.-ben meghatározott, az elektronikus ügyintézési felügyelet engedélyével rendelkező elektronikus dokumentumtárolási szolgáltatót vehet igénybe. A KEÜSZ szolgáltató ez esetben a közfeladatot ellátó szerv adatfeldolgozójaként jár el.
 
-(7)[^142] A közfeladatot ellátó szerv a megőrzési kötelezettséget az iratról – a Ket. szerinti – hiteles elektronikus másolat készítése és megőrzése útján is teljesítheti. Az eredeti, papír alapú irat a hiteles másolat elkészítését és az annak megőrzéséről való gondoskodás kezdő időpontját követően selejtezési eljárás alá vonható.
+(7)[^142] Az 1. mellékletben és a 3. mellékletben felsorolt szervek a megőrzési kötelezettséget – a 47. § a)–j) pontjában és a 2. mellékletben foglalt iratok kivételével – az iratról az Eür. szerinti hiteles elektronikus másolat készítése és megőrzése útján teljesítik, a (8) bekezdésben meghatározott eltéréssel. Az 1. mellékletben és a 3. mellékletben fel nem sorolt, közfeladatot ellátó szerv a megőrzési kötelezettséget az iratról az Eür. szerinti hiteles elektronikus másolat készítése és megőrzése útján is teljesítheti. A közfeladatot ellátó szerv a (8) bekezdésben nem szereplő eredeti, papíralapú iratot a hiteles elektronikus másolat elkészítését és az annak megőrzése kezdő időpontját követően, az Ltv. 5. § (4)–(6) bekezdése szerinti eljárásban megsemmisíti.
+
+(8)[^143] A közfeladatot ellátó szerv az iratról készített hiteles elektronikus másolat megőrzése mellett is megőrzi a maradandó értékű eredeti papíralapú iratot, ha ez az illetékes levéltár megállapítása szerint indokolt. A közfeladatot ellátó szerv azon maradandó értékű irat esetében, amelyről hiteles elektronikus másolatot készített, a papíralapú példány megőrzéséről negyedéves időszakonként kéri az illetékes levéltár nyilatkozatát. A maradandó értékű irat papíralapú változata az illetékes levéltár egyetértő nyilatkozata esetén az Ltv. 5. § (4)–(6) bekezdése szerinti eljárásban megsemmisíthető. Az illetékes levéltár által papír alapon is megőrzendőnek ítélt maradandó értékű iratot a közfeladatot ellátó szerv a levéltárba adásig papíralapú iratként megőrzi.
 
 [^136]: A 61. § (1) bekezdése a 64/2010. (III. 18.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^137]: A 61. § (3) bekezdése a 64/2010. (III. 18.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
@@ -32,4 +34,5 @@ c) a 43. § (3) bekezdése szerint elkészített adathordozókat
 [^139]: A 61. § (4) bekezdés b) pontja a 137/2019. (VI. 11.) Korm. rendelet 14. § p) pontja szerint módosított szöveg.
 [^140]: A 61. § (5) bekezdését a 64/2010. (III. 18.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege a 196/2013. (VI. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
 [^141]: A 61. § (6) bekezdését a 64/2010. (III. 18.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege a 196/2013. (VI. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított, a 137/2019. (VI. 11.) Korm. rendelet 14. § q) pontja szerint módosított szöveg.
-[^142]: A 61. § (7) bekezdését a 196/2013. (VI. 13.) Korm. rendelet 32. § (1) bekezdése iktatta be.
+[^142]: A 61. § (7) bekezdését a 196/2013. (VI. 13.) Korm. rendelet 32. § (1) bekezdése iktatta be, szövege a 137/2019. (VI. 11.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^143]: A 61. § (8) bekezdését a 137/2019. (VI. 11.) Korm. rendelet 11. § (2) bekezdése iktatta be.
