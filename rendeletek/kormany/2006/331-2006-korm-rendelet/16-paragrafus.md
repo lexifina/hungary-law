@@ -1,10 +1,10 @@
-## 15. §[^74] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal a 14. §-ban meghatározott feladatok ellátása során jogosult szakmai koordinációs értekezletet összehívni, elsősorban a gyermekvédelmi és gyámügyi feladat- és hatásköröket ellátó hatóságok, valamint a gyermekjóléti és gyermekvédelmi szolgáltatók számára.
+## 15. §[^79] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal a 14. §-ban meghatározott feladatok ellátása során jogosult szakmai koordinációs értekezletet összehívni, elsősorban a gyermekvédelmi és gyámügyi feladat- és hatásköröket ellátó hatóságok, valamint a gyermekjóléti és gyermekvédelmi szolgáltatók számára.
 
-16. §[^75] (1)[^76]
+16. §[^80] (1)[^81]
 
-(2)[^77]
+(2)[^82]
 
-[^74]: A 15. § a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^75]: A 16. § a 140/2011. (VII. 21.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^76]: A 16. § (1) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 48. §-a hatályon kívül helyezte.
-[^77]: A 16. § (2) bekezdését a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés c) pontja hatályon kívül helyezte.
+[^79]: A 15. § a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^80]: A 16. § a 140/2011. (VII. 21.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^81]: A 16. § (1) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 48. §-a hatályon kívül helyezte.
+[^82]: A 16. § (2) bekezdését a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés c) pontja hatályon kívül helyezte.

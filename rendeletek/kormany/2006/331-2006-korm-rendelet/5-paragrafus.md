@@ -1,7 +1,7 @@
-## 5. §[^36] A gyámhivatal a pénzbeli és természetbeni támogatásokkal kapcsolatban
+## 5. §[^37] A gyámhivatal a pénzbeli és természetbeni támogatásokkal kapcsolatban
 
 a) dönt az otthonteremtési támogatás megállapításáról,
 
 b) dönt a gyermektartásdíj megelőlegezéséről.
 
-[^36]: Az 5. § a 174/2012. (VII. 26.) Korm. rendelet 42. § (5) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^37]: Az 5. § a 174/2012. (VII. 26.) Korm. rendelet 42. § (5) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.

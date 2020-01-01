@@ -1,4 +1,4 @@
-## 1/A. §[^3] A Kormány a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló törvény szerinti családvédelmi koordinációért felelős szervként a gyámhivatalt jelöli ki.
+## 1/A. §[^3] A Kormány a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló törvény szerinti családvédelmi koordinációért felelős szervként a települési önkormányzat jegyzőjét jelöli ki.
 
 2. § (1)[^4] A gyermekvédelmi és gyámügyi igazgatási ügyekben általános első fokú hatóságként jár el a települési önkormányzat jegyzője, illetve a gyámhivatal. A gyámhivatal az e rendeletben meghatározott kivételekkel ellátja mindazon feladatokat, amelyeket jogszabály az elsőfokú gyámhatóság hatáskörébe utal.
 
@@ -8,7 +8,7 @@
 
 (4)[^7] A fővárosi és megyei kormányhivatalnak a gyermekvédelmi és gyámügyi hatósági ügyeiben a miniszter a felügyeleti szerv.
 
-[^3]: Az 1/A. §-t a 207/2009. (IX. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1/A. §-t a 207/2009. (IX. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 44. § (10) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^4]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 2. § (3) bekezdése az 53/2007. (III. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontja és (7) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 182. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

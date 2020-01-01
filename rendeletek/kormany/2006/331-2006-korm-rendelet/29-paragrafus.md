@@ -1,9 +1,9 @@
-## 28. §[^136]
+## 28. §[^142]
 
-29. §[^137]
+29. §[^143]
 
-Melléklet a 331/2006. (XII. 23.) Korm. rendelethez[^138]
+Melléklet a 331/2006. (XII. 23.) Korm. rendelethez[^144]
 
-[^136]: A 28. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 187. pontja hatályon kívül helyezte.
-[^137]: A 29. §-t a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés d) pontja hatályon kívül helyezte.
-[^138]: A mellékletet a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés h) pont hd) alpontja hatályon kívül helyezte.
+[^142]: A 28. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 187. pontja hatályon kívül helyezte.
+[^143]: A 29. §-t a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés d) pontja hatályon kívül helyezte.
+[^144]: A mellékletet a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés h) pont hd) alpontja hatályon kívül helyezte.
