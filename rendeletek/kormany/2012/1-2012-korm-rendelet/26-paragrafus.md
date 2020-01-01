@@ -2,10 +2,10 @@
 
 26. § (1) A Diákhitel szervezet hitelezési tevékenységével kapcsolatos kockázatok fedezetére – egyéb ráfordításai között elszámolva – kockázati céltartalékot képez (a továbbiakban: diákhitel kockázati céltartalék). A diákhitel kockázati céltartalék képzése a mérleg fordulónapjával a (3) bekezdésben foglaltaknak megfelelően történik.
 
-(2)[^76] A diákhitel kockázati céltartalékot a behajthatatlan és a 19. § (3) bekezdése alapján leírt hallgatói hiteltartozásokból, valamint a hallgatói hitelből származó követelések engedményezéséből eredő veszteségek ellentételezésére, a veszteség összegében – legfeljebb a céltartalék meglévő összegében – kell felhasználni az egyéb bevételek között elszámolva.
+(2)[^84] A diákhitel kockázati céltartalékot a behajthatatlan és a 19. § (3) bekezdése alapján leírt hallgatói hiteltartozásokból, valamint a hallgatói hitelből származó követelések engedményezéséből eredő veszteségek ellentételezésére, a veszteség összegében – legfeljebb a céltartalék meglévő összegében – kell felhasználni az egyéb bevételek között elszámolva.
 
 (3) A diákhitel kockázati céltartalék tárgyévi képzése a mérleg fordulónapjával a (2) bekezdésben foglalt leírásokat és céltartalék felhasználást követően – annak figyelembevételével – a ki nem egyenlített kamattartozások tőkésítését is magába foglaló hallgatói hiteltartozások állományára az aktuárius által meghatározott tárgyévi kockázati szint és kockázati prémium alapján megállapított tárgyévben szükséges céltartalék szintjéig történik. Ha a diákhitel kockázati céltartalék mérleg-fordulónapi állománya meghaladja a tárgyévben szükséges céltartalék szintjét, akkor a céltartalék többletet fel kell szabadítani az egyéb bevételek között elszámolva.
 
 (4) A Diákhitel szervezet a számviteli politikájában rögzíti a hallgatói hitelek (3) bekezdés szerinti tárgyévi kockázati szintjének, a kockázati prémiumnak és a diákhitel kockázati céltartalék tárgyévben szükséges szintjének az aktuárius által meghatározott megállapítási módját.
 
-[^76]: A 26. § (2) bekezdése a 408/2017. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^84]: A 26. § (2) bekezdése a 408/2017. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.

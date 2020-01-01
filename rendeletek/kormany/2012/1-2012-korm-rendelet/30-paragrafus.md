@@ -4,8 +4,8 @@
 
 (2) 2012. szeptember 1-jén lép hatályba az 1–4. §, az 5. § (1) és (3)–(5) bekezdés, a 6–10. §, a 11. § (1) bekezdés, 12–29. §; 30. § (3)–(4) bekezdés, valamint a 31–35. §.
 
-(3)[^82]
+(3)[^90]
 
 (4) A hallgatói hitel visszafizetésének megkezdésére szolgáló, a 14. § (1) bekezdésében meghatározott időpont az e rendelet hatálybalépése előtt hallgatói hitelt igénybe vett, 40. életévük betöltésének időpontjában még hiteligénylési idővel rendelkező hitelfelvevők esetében, a hallgatói jogviszony megszűnésének időpontja, legkésőbb azonban jelen rendelet hatálybalépését megelőző napon a Diákhitel szervezet által nyilvántartott képzési adatok szerint a hallgatói hitelrendszerről és a Diákhitel Központról szóló 119/2001. (VI. 30.) Korm. rendelet rendelkezései alapján számított hiteligénylési idő elteltének időpontját követő hónap első napja.
 
-[^82]: A 30. § (3) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 26. § d) pontja hatályon kívül helyezte.
+[^90]: A 30. § (3) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 26. § d) pontja hatályon kívül helyezte.

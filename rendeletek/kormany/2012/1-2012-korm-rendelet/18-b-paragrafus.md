@@ -1,4 +1,4 @@
-18/B. § (1) A gyermektámogatás kiterjed a szabad felhasználású és a kötött felhasználású hallgatói hiteltartozásra is. Ha az igénylő szabad felhasználású és kötött felhasználású hallgatói hitellel is rendelkezik, akkor választása alapján csak az egyikre igényelheti a gyermektámogatást. Több egyidejűleg fennálló hiteltartozás esetében a harmadik gyermek után igényelhető gyermektámogatást ugyanarra a hallgatói hitelre lehet igénybe venni, mint a második gyermek után igénybe vett gyermektámogatást.
+18/B. § (1)[^56] Ha az igénylő több hallgatói hitellel is rendelkezik, akkor választása alapján csak az egyikre igényelheti a gyermektámogatást.
 
 (2) A gyermektámogatásra való jogosultság megállapításánál a hitelfelvevő nővel közös háztartásban élő gyermeket kell figyelembe venni, ha a gyermek még nem töltötte be a 18. életévét. Ha a gyermek már betöltötte a 18. életévét, nem feltétel, hogy közös háztartásban éljen az igénylővel.
 
@@ -11,3 +11,5 @@
 a) a gyermek megszületésének, örökbe fogadásának vagy halva születésének időpontjában fennálló nem lejárt tőke és nem lejárt ügyleti kamattartozás összege;
 
 b) a gyermektámogatási kérelem és az igazolások hiánytalan benyújtásakor fennálló nem lejárt tőke és nem lejárt ügyleti kamattartozás összege.
+
+[^56]: A 18/B. § (1) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
