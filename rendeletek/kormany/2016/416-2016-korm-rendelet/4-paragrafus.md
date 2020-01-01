@@ -1,1 +1,0 @@
-## 3. § A központi költségvetés megtéríti a Nyugdíjbiztosítási Alapnak az 1. § (1) bekezdés 6–10. és 15–21. pontja szerinti ellátások, továbbá a nemzeti helytállásért elnevezésű pótlék és a rokkantsági járadék emelésének fedezetét és a végrehajtás költségeit.
