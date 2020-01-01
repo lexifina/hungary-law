@@ -1,4 +1,16 @@
-2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^103]
+## Energetikai tanúsítás
+
+## Névjegyzéki jelölés
+
+## Energetikai tanúsítói jogosultság (betűjele: TÉ)
+
+|  |  | A | B | C |
+
+|  | 1. | Tevékenység megnevezése | Jelölése | Képesítési minimum követelmény, vagy az ezzel egyenértékű szakképzettség |
+
+|  | 2. | energetikai tanúsítói jogosultság | TÉ | okleveles építészmérnök, okleveles településmérnök, okleveles építőmérnök, okleveles közlekedésmérnök, okleveles gépészmérnök, okleveles villamosmérnök, okleveles energetikai mérnök, építészmérnök, településmérnök, építőmérnök, közlekedés-építőmérnök, vízépítő mérnök, közlekedésmérnök, gépészmérnök, villamosmérnök, energetikai mérnök |
+
+2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^114]
 
 I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján megállapított építészeti tervezési jogosultságok és a hozzájuk tartozó építészeti-műszaki tervezési tevékenységek
 
@@ -8,7 +20,7 @@ I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján 
 
 | 2. | É2 jelű építész tervezői fokozat | a) Építmények építészeti tervezése terepszint fölött legfeljebb öt szint magasságig és összesen 2000 m2 szintterület nagyságig. b) Meglévő építmény bővítése maximum 2000 m2 összes szintterület nagyságig. c) Bontási, felújítási, korszerűsítési és helyreállítási tervek, korlátozás nélkül. Az É2 jelű tervezői fokozat tevékenységi köre nem terjed ki a helyi vagy műemléki védelem alatt álló építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakításával kapcsolatos építészeti-műszaki terveinek készítésére. |
 
-| 3. | K2 jelű tervezői fokozat | Az 1. mellékletben foglalt I. Tervezés 2. rész Építészeti-műszaki tervezés táblázatban a táj- és kertépítészeti területnél (K) meghatározott tervezés 2 hektár terület nagyságig, továbbá az É2 jelű tervezői fokozatban tervezhető épületekkel összefüggő egyéb táj- és kertépítészeti tervezés. |
+| 3. |  |  |
 
 | 4. | É3 jelű tervezői fokozat | a) Két rendeltetési egységet magába foglaló lakó- és üdülőépület és az ezekhez tartozó 7,5 m építménymagasságot meg nem haladó tároló, gazdasági és gazdálkodási építmények építészeti tervezése. b) Ipari, mezőgazdasági (állattartás, növénytermesztés, tárolás) rendeltetésű épület építészeti tervezése összesen legfeljebb 1200 m2 szintterületig, két szint magasságig. c) Állapotfelmérés, bővítési, bontási, felújítási, korszerűsítési terv az a) és b) pontban meghatározott körben. Az É3-as tevékenységi kör nem terjed ki a két rendeltetési egységet (lakás, üdülő) meghaladó együttes építészeti tervezésére, továbbá a jogszabállyal védetté nyilvánított építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakításával kapcsolatos építészeti-műszaki terveinek készítésére. Az a) pontban foglalt lakó-, illetve üdülőegység - rendeltetési egységenként - az alapterület 50%-át meg nem haladó, de legfeljebb 150 m2 méretű egyéb, kereskedelmi vagy szolgáltató funkciót tartalmazhat. |
 
@@ -58,4 +70,4 @@ A sajátos építményfajták építési műszaki ellenőri szakterületei
 
 III. Az építész és a mérnöki kamarák által nyilvántartott, korábbi jogszabály alapján megállapított felelős műszaki vezetői jogosultságok és a hozzájuk tartozó tevékenység
 
-[^103]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése szerint módosított szöveg.
+[^114]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése, a 290/2019. (XII. 5.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

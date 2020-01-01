@@ -1,6 +1,6 @@
-9. § (1)[^9] Szakmai gyakorlati időként a jogosultság megszerzéséhez szükséges végzettségi szint megszerzését követően, a kérelmezett szakmagyakorlási tevékenységi területnek, szakterületnek, részszakterületnek megfelelő szakmai gyakorlat folytatásának időtartamát kell figyelembe venni.
+9. § (1)[^15] Szakmai gyakorlati időként a jogosultság megszerzéséhez szükséges végzettségi szint megszerzését követően, a kérelmezett szakmagyakorlási tevékenységi területnek, szakterületnek, részszakterületnek megfelelő szakmai gyakorlat folytatásának időtartamát kell figyelembe venni.
 
-(2) A településrendezési tervezési jogosultság megállapításához az 1. melléklet szerinti szakmai gyakorlati idő tartalmát
+(2)[^16] A településtervezési jogosultság megállapításához az 1. melléklet szerinti szakmai gyakorlati idő tartalmát
 
 a) településtervezési, vagy
 
@@ -14,11 +14,11 @@ bc) felsőoktatási intézményben településtervezési szaktárgy-oktatói
 
 c) gyakorlattal kell igazolni.
 
-(3)[^10] A (2) bekezdés b) pontja szerinti kettő év gyakorlati időbe beleszámít a mesterfokozatú képzésben szerzett szakképzettséget követően a településmérnöki mesterképzési szak elvégzésének ideje. Ebben az esetben a gyakorlati idő a mesterfokozatú képzésben szerzett szakképzettség megszerzését követően megkezdhető.
+(3)[^17] A (2) bekezdés b) pontja szerinti kettő év gyakorlati időbe beleszámít a mesterfokozatú képzésben szerzett szakképzettséget követően a településmérnöki mesterképzési szak elvégzésének ideje. Ebben az esetben a gyakorlati idő a mesterfokozatú képzésben szerzett szakképzettség megszerzését követően megkezdhető.
 
 (4) Az építészeti-műszaki tervezési jogosultság megállapításához az 1. melléklet szerinti szakmai gyakorlati időt a tervezési területnek, szakterületnek, részszakterületnek megfelelő tervezési gyakorlattal kell igazolni, a 12. §-ban foglaltak figyelembevételével.
 
-(5)[^11] A tervezési feladat elvégzésére megfelelő időtartamú tervezési gyakorlat hiánya miatt még nem jogosult szakirányú egyetemi végzettségű személy csak jogosultsággal rendelkező tervező mellett folytathat tervezési tevékenységet és szerezhet tervezési szakmai gyakorlatot.
+(5)[^18] A tervezési feladat elvégzésére megfelelő időtartamú tervezési gyakorlat hiánya miatt még nem jogosult szakirányú egyetemi végzettségű személy csak jogosultsággal rendelkező tervező mellett folytathat tervezési tevékenységet és szerezhet tervezési szakmai gyakorlatot.
 
 (6) A településrendezési szakértői tevékenység engedélyezéséhez a nyolc év szakmai gyakorlati időbe a (2) bekezdés a) pontjában, b) pont bb)–bc) alpontjában meghatározott, a kérelmezett szakterületnek megfelelő tevékenység vehető figyelembe.
 
@@ -38,6 +38,7 @@ f) építésügyi igazgatási,
 
 g) az építésüggyel kapcsolatos kutatási, fejlesztési
 
-[^9]: A 9. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 44. § (1) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^10]: A 9. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
-[^11]: A 9. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 48. § a) pontja szerint módosított szöveg.
+[^15]: A 9. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 44. § (1) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^16]: A 9. § (2) bekezdés nyitó szövegrésze a 290/2019. (XII. 5.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^17]: A 9. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^18]: A 9. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 48. § a) pontja szerint módosított szöveg.

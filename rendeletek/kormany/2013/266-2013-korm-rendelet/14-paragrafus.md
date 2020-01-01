@@ -4,7 +4,7 @@
 
 ## 7. Településtervezés
 
-14. § (1) A településrendezési tervezési tevékenység 1. melléklet szerinti dokumentációinak elkészítése jogosultsághoz kötött.
+14. § (1)[^23] A településtervezési tevékenység 1. melléklet szerinti dokumentációinak elkészítése jogosultsághoz kötött.
 
 (2) A településtervező feladata az önkormányzat döntései, megbízása és a jogszabályok, szabványok és szakmai szabályok figyelembevételével az 1. melléklet szerinti dokumentáció – a feladat elvégzéséhez szükséges településtervezési szakági tervezők bevonásával történő – elkészítése.
 
@@ -19,3 +19,5 @@
 (7) A településtervezési szerződésre a Polgári Törvénykönyvről szóló törvényben (a továbbiakban: Ptk.) szabályozott tervezési szerződés és az Étv.-ben szabályozott településtervezési szerződés szabályait kell alkalmazni.
 
 (8) Nem folytathat településrendezési tervezési tevékenységet illetékességi területén a településrendezési eszközök előkészítésében, véleményezésében, döntéshozatalában közreműködő személy, kivéve, ha az önkormányzat a 6. § (2) bekezdés a) pontja alapján településrendezési tervezési tevékenységet is folytat.
+
+[^23]: A 14. § (1) bekezdése a 290/2019. (XII. 5.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

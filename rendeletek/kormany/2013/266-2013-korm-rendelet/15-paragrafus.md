@@ -1,8 +1,8 @@
 ## 8. Építészeti-műszaki tervezés
 
-15. § (1)[^16] Az Étv. 32. § (1) bekezdése szerinti építészeti-műszaki tervezési tevékenységnek az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentációk készítése építészeti-műszaki tervezési jogosultsághoz kötött. Tervezői művezetést az adott tervezési szakterületen jogosultsággal rendelkező építészeti-műszaki tervező végezhet.
+15. § (1)[^24] Az Étv. 32. § (1) bekezdése szerinti építészeti-műszaki tervezési tevékenységnek az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentációk készítése építészeti-műszaki tervezési jogosultsághoz kötött. Tervezői művezetést az adott tervezési szakterületen jogosultsággal rendelkező építészeti-műszaki tervező végezhet.
 
-(2)[^17] Az építészeti-műszaki tervező feladata az Étv.-ben foglaltak, az építtető igényei, megbízása, a tervezési program és a jogszabályok, szabványok és szakmai szabályok figyelembevételével az építésügyi hatósági eljárásokhoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentáció elkészítése.
+(2)[^25] Az építészeti-műszaki tervező feladata az Étv.-ben foglaltak, az építtető igényei, megbízása, a tervezési program és a jogszabályok, szabványok és szakmai szabályok figyelembevételével az építésügyi hatósági eljárásokhoz és az építőipari kivitelezéshez szükséges építészeti-műszaki dokumentáció elkészítése.
 
 (3) Az (1) bekezdésben foglaltakon túlmenően jogosultsággal végezhető
 
@@ -12,7 +12,7 @@ b) a településképi véleményezéshez szükséges terv,
 
 c) a megvalósulási terv,
 
-d)[^18] az egyszerű bejelentéshez szükséges kivitelezési dokumentáció
+d)[^26] az egyszerű bejelentéshez szükséges kivitelezési dokumentáció
 
 ## készítése.
 
@@ -28,11 +28,11 @@ d)[^18] az egyszerű bejelentéshez szükséges kivitelezési dokumentáció
 
 (9) Nem folytathat építészeti-műszaki tervezési tevékenységet
 
-a)[^19] az adott építészeti-műszaki dokumentáció engedélyezésében vagy az annak alapján megvalósítandó építmény kivitelezésének építésfelügyeletében feladatot ellátó hatóság köztisztviselője, kormánytisztviselője vagy állami tisztviselője,
+a)[^27] az adott építészeti-műszaki dokumentáció engedélyezésében vagy az annak alapján megvalósítandó építmény kivitelezésének építésfelügyeletében feladatot ellátó hatóság köztisztviselője, kormánytisztviselője vagy állami tisztviselője,
 
 b) az építészeti-műszaki dokumentáció településképi véleményezési eljárásába bevont önkormányzati főépítész.
 
-[^16]: A 15. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
-[^17]: A 15. § (2) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § d) pontja, a 482/2016. (XII. 28.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
-[^18]: A 15. § (3) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^19]: A 15. § (9) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^24]: A 15. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^25]: A 15. § (2) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § d) pontja, a 482/2016. (XII. 28.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
+[^26]: A 15. § (3) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^27]: A 15. § (9) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 38. §-a szerint módosított szöveg.

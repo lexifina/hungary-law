@@ -1,4 +1,4 @@
-8. § (1)–(2)[^8]
+8. § (1)–(2)[^14]
 
 (3) A besorolásra nem alkalmas szakképzettségek tekintetében a szakirányú szakképzettség egyenértékűségének vizsgálatára kerül sor, melynek alapját az országos kamarai szabályzatok által tudományterület szerinti bontás alapján meghatározott, a 4. mellékletben előírt minimum kreditszámok összege képezi. A tantárgycsoportok és azon belül a kreditértékekben meghatározott ismeretkörök vagy tantárgyak nevesítése kamarai hatáskörben, szabályzat formájában kerül meghatározásra a szükséges minimum kompetencia tartalmakkal együtt.
 
@@ -10,4 +10,4 @@ a) a szakképzettségek szakirányúsága szempontjából már megvizsgált és 
 
 b) a szakirányú továbbképzés körében kibocsátott szakirányú szakképzettségek megnevezését, a beszámítható kreditérték meghatározását.
 
-[^8]: A 8. § (1)–(2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 446. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 8. § (1)–(2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 446. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

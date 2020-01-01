@@ -4,7 +4,7 @@
 
 (2) A tervezési programban rögzíteni kell minden olyan fontos tényt, amelyet a tervezés során figyelembe kell venni. A tervezési programban vizsgálni kell a megújuló energiaforrások használatának lehetőségét, és igény szerint rögzíteni kell a vagyonbiztonsági elvárások mértékét.
 
-(3)[^20] A tervezési programban – amelyet az építtető és tervező közösen készít elő – a tervezés tárgyától és nagyságrendjétől függően ismertetni kell
+(3)[^28] A tervezési programban – amelyet az építtető és tervező közösen készít elő – a tervezés tárgyától és nagyságrendjétől függően ismertetni kell
 
 a) tervezési feladat részletes leírását, az építési tevékenység megnevezését,
 
@@ -34,10 +34,10 @@ m) a szükséges szakági tervezők, szakértők körét,
 
 n) az egyéb meghatározó követelmények általános szempontjait,
 
-o)[^21] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
+o)[^29] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
 
-p)[^22] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
+p)[^30] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
 
-[^20]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^21]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^22]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.
+[^28]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^29]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^30]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.
