@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-41-00-00
 | 2019-05-23 | 2010. évi CXXX. törvény | 2018-41-00-00.19 |
 | 2019-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-41-00-00.20 |
 | 2019-07-02 | 2010. évi CXXX. törvény | 2018-41-00-00.21 |
+| 2020-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-41-00-00.22 |
