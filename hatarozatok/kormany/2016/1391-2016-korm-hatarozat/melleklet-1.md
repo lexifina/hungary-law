@@ -22,15 +22,7 @@
 
 ## Határidő: 2016. szeptember 30.
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli az 1. pont a) alpontjában rögzített célok megvalósítása érdekében legfeljebb 200,0 millió forint egyszeri átcsoportosítását Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 59. Társadalmi felzárkózást segítő programok alcím, 5. Társadalmi, gazdasági, területi hátránykiegyenlítést elősegítő programok, szakkollégiumok jogcímcsoport javára;
-
-## Felelős: nemzetgazdasági miniszter
-
-## belügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
+## 3.[^1]
 
 ## 4. felhívja az emberi erőforrások miniszterét, hogy az 1. pont c) alpontjában rögzített célok megvalósítására a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet terhére gondoskodjon legfeljebb 30,0 millió forint biztosításáról az állami feladat ellátásában közreműködő Szeretetszolgálat javára;
 
@@ -58,66 +50,7 @@
 
 ## Határidő: folyamatos
 
-1. melléklet az 1391/2016. (VII. 21.) Korm. határozathoz
+1. melléklet az 1391/2016. (VII. 21.) Korm. határozathoz[^2]
 
-| IX. Helyi önkormányzatok támogatásai XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2016. Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | IX. |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 018450 |  | 2. |  |  |  |  |  | A helyi önkormányzatok kiegészítő támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -200,0 |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 59 |  |  |  |  |  | Társadalmi felzárkózást segítő programok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 331195 |  |  |  | 5 |  |  |  |  |  | Társadalmi, gazdasági, területi hátránykiegyenlítést elősegítő programok, szakkollégiumok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 132,0 |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 68,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Millió forintban, egy tizedessel |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 59 |  |  |  |  |  | Társadalmi felzárkózást segítő programok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 331195 |  |  |  | 5 |  |  |  |  |  | Társadalmi, gazdasági, területi hátránykiegyenlítést elősegítő programok, szakkollégiumok |  |  |  |  |  |  |  |  | 200,0 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Fejezetet irányító szerv |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 200,0 |  |  |  |  |  |  |  |  |  |  | 200,0 |  |
-
-| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
