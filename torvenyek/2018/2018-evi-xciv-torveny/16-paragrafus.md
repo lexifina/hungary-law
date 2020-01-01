@@ -4,19 +4,19 @@ a)
 
 b)
 
-c)
+c) 14. § (1) bekezdés c) pontjában, 14. § (2) bekezdés c) pontjában, 25. § (4) bekezdés a) pontjában és 54. § (12) bekezdésében a „gyermekgondozási segélyben,” szövegrész,
 
 d)
 
-e)
+e) 27. § (1) bekezdés d) pontjában, 29. § (1) bekezdés a) pontjában és 54. § (14a) bekezdés d) pontjában a „terhességi-gyermekágyi segély,” szövegrész,
 
-f)
+f) 27. § (1) bekezdés d) pontjában, 29. § (1) bekezdés a) pontjában és 54. § (14a) bekezdés d) pontjában a „gyermekgondozási segély,” szövegrész,
 
 g)
 
-h)
+h) 29. § (1) bekezdés a) pontjában és 54. § (14a) bekezdés d) pontjában a „terhességi-gyermekágyi segélyre,” szövegrész,
 
-i)
+i) 29. § (1) bekezdés a) pontjában, 54. § (14a) bekezdés d) pontjában és 54. § (18) bekezdésében a „gyermekgondozási segélyre,” szövegrész,
 
 j)
 
@@ -26,4 +26,4 @@ l)
 
 m)
 
-n)
+n) 58. § (5) bekezdés k) pont 1. alpontjában a „terhességi-gyermekágyi segélyben,” szövegrész.
