@@ -1,10 +1,18 @@
-6. § (1) A köznevelési és felsőoktatási feladatokat ellátó intézmény, a jegyző, a közneveléssel és felsőoktatással összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, intézmények adatokat szolgáltatnak az oktatási nyilvántartásba.
+## 3. Az oktatási nyilvántartásba történő adatszolgáltatás
+
+6. § (1) A köznevelési intézmény, a szakképző intézmény és a felsőoktatási intézmény, a felnőttképző, a jegyző, a közneveléssel, a szakképzéssel és a felsőoktatással összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, intézmények adatokat szolgáltatnak az oktatási nyilvántartásba.
 
 (2) A 4. § (2) bekezdés j) pontja szerinti pedagógus-továbbképzési nyilvántartás alrendszer részére továbbá
 
-a) a pedagógus-továbbképzés szervezője szolgáltatja az 1. melléklet X. alcím 2. pont b), d), valamint f)–h) alpontjában felsorolt adatokat, amely adatokat az adatszolgáltatási kötelezettsége teljesítése érdekében nyilvántartja;
+a) a pedagógus-továbbképzés szervezője szolgáltatja az 1. melléklet X. rész 2. pont b), d), valamint f)–h) alpontjában felsorolt adatokat, amely adatokat az adatszolgáltatási kötelezettsége teljesítése érdekében nyilvántartja;
 
-b) a köznevelési intézmény vezetője szolgáltatja az 1. melléklet X. alcím 2. pont e) és l) alpontja szerinti adatokat.
+b) a köznevelési intézmény vezetője szolgáltatja az 1. melléklet X. rész 2. pont e) és l) alpontja szerinti adatokat.
+
+(2a) A 4. § (2a) bekezdés e) pontja szerinti oktatói továbbképzés nyilvántartása részére
+
+a) az oktatói továbbképzés szervezője szolgáltatja az 1/A. melléklet V. rész 2. pont b), d) és f)–h) alpontjában meghatározott adatokat,
+
+b) a szakképző intézmény vezetője szolgáltatja az 1/A. melléklet V. rész 2. pont e) és k) alpontja szerinti adatokat.
 
 (3) A felvételi kérelmek elbírálásához a 4. § (3) bekezdés c) pontja szerinti felsőoktatási felvételi alrendszer részére
 
@@ -12,17 +20,17 @@ a) az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási fela
 
 b) az egészségbiztosítási szerv szolgáltatja a gyermekgondozási díj igénybevételére vonatkozó adatokat;
 
-c) az idegenrendészeti hatóság szolgáltatja a 3. melléklet III. alcím 3. pontja szerinti adatot.
+c) az idegenrendészeti hatóság szolgáltatja a 3. melléklet III. rész 3. pontja szerinti adatot.
 
 (4) A 4. § (3) bekezdés d) pontja szerinti hallgatói személyi törzs alrendszer részére továbbá
 
-a) a Diákhitel Központ szolgáltatja a 3. melléklet IV. alcím 23. pontja szerinti adatot,
+a) a Diákhitel Központ szolgáltatja a 3. melléklet IV. rész 23. pontja szerinti adatot,
 
-b) a Tempus Közalapítvány szolgáltatja az általa kezelt, a 3. melléklet IV. alcím 8. és 21. pontja szerinti adatot,
+b) a Tempus Közalapítvány szolgáltatja az általa kezelt, a 3. melléklet IV. rész 8. és 21. pontja szerinti adatot,
 
-c) a Klebelsberg Központ szolgáltatja az általa kezelt, a 3. melléklet IV. alcím 21. pontja szerinti adatot.
+c) a Klebelsberg Központ szolgáltatja az általa kezelt, a 3. melléklet IV. rész 21. pontja szerinti adatot.
 
-(5) Az oktatási nyilvántartás működéséért felelős szerv a 4. § (1) bekezdés e) pontja szerinti, a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása szakrendszer 5. melléklet szerinti adataiban történő változások követése, ellenőrzése céljából történő adatigényléshez az állami foglalkoztatási szervnek, a kincstárnak, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj és a gyermekgondozási díj nyilvántartásáért felelős szervnek, az anyakönyvi nyilvántartás központi nyilvántartó szervének, a családtámogatási ügyben eljáró hatóságnak, a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóságnak és az adóhatóságnak megküldheti a nyilvántartott személyek adatait, ez alapján
+(5) Az oktatási nyilvántartás működéséért felelős szerv a 4. § (1) bekezdés g) pontja szerinti, a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása szakrendszer 5. melléklet szerinti adataiban történő változások követése, ellenőrzése céljából történő adatigényléshez az állami foglalkoztatási szervnek, a kincstárnak, a gyermekgondozást segítő ellátás, a csecsemőgondozási díj és a gyermekgondozási díj nyilvántartásáért felelős szervnek, az anyakönyvi nyilvántartás központi nyilvántartó szervének, a családtámogatási ügyben eljáró hatóságnak, a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárások lefolytatásért felelős rehabilitációs hatóságnak és az adóhatóságnak megküldheti a nyilvántartott személyek adatait, ez alapján
 
 a) az állami foglalkoztatási szerv a (volt) magyar állami ösztöndíjas hallgatónak a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben meghatározott álláskeresőként történő nyilvántartásba vételére, valamint az álláskeresőként eltöltött időtartamra,
 

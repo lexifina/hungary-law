@@ -1,16 +1,24 @@
+## 2. Az oktatási nyilvántartás szakrendszerei
+
 4. § (1) Az oktatási nyilvántartás szakrendszeri nyilvántartásai:
 
 a) a köznevelés információs rendszere,
 
-b) a pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő rendszer,
+b) a szakképzés információs rendszere,
 
 c) a felsőoktatási információs rendszer,
 
-d) az oktatási igazolványok intézményi adminisztrációs rendszere,
+d) a felnőttképzés adatszolgáltatási rendszere,
 
-e) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása,
+e) a pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő rendszer,
 
-f) a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása.
+f) az oktatási igazolványok intézményi adminisztrációs rendszere,
+
+g) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása,
+
+h) a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása,
+
+i) a pályakövetési rendszer.
 
 (2) Az (1) bekezdés a) pontja szerinti szakrendszer személyes adatokat tartalmazó alrendszerei:
 
@@ -38,7 +46,23 @@ k) az országos pedagógiai-szakmai ellenőrzési nyilvántartás;
 
 l) a pedagógusminősítési nyilvántartás;
 
-m) az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása.
+m) az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása;
+
+n) az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartása;
+
+o) a tanköteles gyermekek nyilvántartása.
+
+(2a) Az (1) bekezdés b) pontja szerinti szakrendszer személyes adatokat tartalmazó alrendszerei:
+
+a) a szakképzési intézménytörzs,
+
+b) a tanulók és a képzésben részt vevő személyek nyilvántartása,
+
+c) az alkalmazotti nyilvántartás,
+
+d) a szakmai vizsga és a képesítő vizsga adminisztrációs rendszere, valamint az oklevelekről, a szakmai bizonyítványokról, a képesítő bizonyítványokról és a törzslapkivonatokról vezetett központi vizsganyilvántartás,
+
+e) az oktatói továbbképzés nyilvántartása.
 
 (3) Az (1) bekezdés c) pontja szerinti szakrendszer személyes adatokat tartalmazó alrendszerei:
 
@@ -50,18 +74,42 @@ c) a felsőoktatási felvételi alrendszer;
 
 d) a hallgatói személyi törzs.
 
+(3a) Az (1) bekezdés d) pontja szerinti szakrendszer személyes adatokat tartalmazó alrendszerei:
+
+a) a felnőttképzési intézménytörzs,
+
+b) a képzési és személyi törzs.
+
 (4) Az (1) bekezdés szerinti szakrendszerek további, jogszabályban meghatározott, személyes adatokat nem tartalmazó alrendszereket, alkalmazásokat tartalmazhatnak.
 
 (5) Az oktatási nyilvántartás egyes szakrendszere, alrendszere személyes adatai célhoz kötötten egymás között átadhatók.
 
-(6) A köznevelés információs rendszere személyes adatokat kezelő alrendszerei az 1. melléklet szerinti személyes adatokat tartalmazzák.
+(6) Az oktatási nyilvántartásban kezelt személyes adatok körét
 
-(7) A pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő rendszer a 2. melléklet szerinti személyes adatokat tartalmazza.
+a) a köznevelés információs rendszere tekintetében az 1. melléklet,
 
-(8) A felsőoktatási információs rendszer a 3. melléklet szerinti személyes adatokat tartalmazza.
+b) a szakképzés információs rendszere tekintetében az 1/A. melléklet,
 
-(9) Az oktatási igazolványok intézményi adminisztrációs rendszere a 4. melléklet szerinti személyes adatokat tartalmazza.
+c) a pedagógiai szakszolgálatok által alkalmazott integrált nyomkövető rendszer tekintetében a 2. melléklet,
 
-(10) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartása az 5. melléklet szerinti személyes adatokat tartalmazza.
+d) a felsőoktatási információs rendszer tekintetében a 3. melléklet,
 
-(11) A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása a 6. melléklet szerinti személyes adatokat tartalmazza.
+e) a felnőttképzés adatszolgáltatási rendszere tekintetében a 3/A. melléklet,
+
+f) az oktatási igazolványok intézményi adminisztrációs rendszere tekintetében a 4. melléklet,
+
+g) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartása tekintetében az 5. melléklet,
+
+h) a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása tekintetében a 6. melléklet
+
+határozza meg.
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)

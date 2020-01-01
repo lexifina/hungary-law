@@ -1,10 +1,10 @@
 2. § Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban az 1. § (1) bekezdése szerinti célból a természetes személy alábbi adatait kezeli:
 
-a) viselt név,
+a) családi és utónév,
 
-b) születési név,
+b) születési családi és utónév,
 
-c) anyja születési neve,
+c) anyja születési családi és utóneve,
 
 d) születési hely,
 
@@ -14,7 +14,7 @@ f) állampolgárság(ok),
 
 g) nem,
 
-h) lakcímadatok,
+h) lakóhely és a tartózkodási hely címe,
 
 i) külföldi állampolgár esetén a szálláshely adatai,
 

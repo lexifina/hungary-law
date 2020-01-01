@@ -2,7 +2,7 @@
 
 A köznevelés információs rendszere személyes adatokat kezelő alrendszerei
 
-1. Az I. és II. alcímben felsorolt adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – az I. alcím b) és j) pontjában felsorolt adatok kivételével – egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
+1. Az I. és II. részben felsorolt adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – az I. rész b) és j) pontjában felsorolt adatok kivételével – egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
 
 2. A Központi Statisztikai Hivatal részére történő adatátadás esetén az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
@@ -30,7 +30,7 @@ i) évfolyamát,
 
 j) melyik évfolyamon, mely országban vett részt az Nkt.-ban szabályozott határon túli kiránduláson,
 
-k) a Lázár Ervin Program megvalósulásának ellenőrzése érdekében azon programmal kapcsolatosan, amelyen a tanuló részt vett, az előadó-művészeti szervezet nevét és fenntartóját, a program művészeti besorolását, a program helyszínét, a kiegészítő program típusát,
+k)
 
 l) melyik évfolyamon, mely országban vett részt külföldi tanulmányúton,
 
@@ -362,7 +362,7 @@ XI. Országos pedagógiai-szakmai ellenőrzési nyilvántartás
 
 2.1. oktatási azonosító száma;
 
-2.2. a II. alcímben meghatározott adatok;
+2.2. a II. részben meghatározott adatok;
 
 2.3. az ellenőrzésének időpontja, értékelése, adatai;
 
@@ -392,7 +392,7 @@ XI. Országos pedagógiai-szakmai ellenőrzési nyilvántartás
 
 2.12. az alapfokú művészetoktatás esetén a művészeti ág, a tanszak neve,
 
-2.13. szakképzési feladatok esetén az OKJ azonosító és a szakképesítés megnevezése;
+2.13.
 
 2.14. egyházi fenntartású köznevelési intézmény esetén a fenntartó felekezet;
 
@@ -438,7 +438,7 @@ XII. Pedagógusminősítési nyilvántartás
 
 a) oktatási azonosító száma;
 
-b) a II. alcímben meghatározott adatok;
+b) a II. részben meghatározott adatok;
 
 c) jelentkezésére vonatkozó adatok:
 

@@ -1,0 +1,49 @@
+3/A. § (1) A természetes személynek egy oktatási azonosító száma lehet.
+
+(2) Az oktatási nyilvántartás működéséért felelős szerv oktatási azonosító számot ad annak az oktatási azonosító számmal még nem rendelkező természetes személynek, aki
+
+1. a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) alapján
+
+a) óvodai jogviszonyban áll,
+
+b) tanulói jogviszonyban áll,
+
+c) pedagógiai szakszolgálati ellátásban részesül,
+
+d) részt vesz a középfokú felvételi eljárásban,
+
+e) részt vesz a kétszintű érettségi eljárásban,
+
+f) nevelő- és oktatómunkát közvetlenül segítő munkakörben dolgozik,
+
+g) pedagógus-munkakörben foglalkoztatott,
+
+h) pedagógiai előadó vagy pedagógiai szakértő munkakörben dolgozik,
+
+i) köznevelési intézményben óraadóként dolgozik,
+
+j) szerepel az Országos érettségi vizsgaelnöki névjegyzéken, az Országos szakértői névjegyzéken, illetve az Országos szaktanácsadói névjegyzéken,
+
+2. a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) alapján
+
+a) tanulói jogviszonyban áll,
+
+b) felnőttképzési jogviszonyban áll,
+
+c) a szakképző intézmény alkalmazottja,
+
+3. a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) alapján
+
+a) a központi felsőoktatási felvételi eljárásban felsőoktatási intézménybe jelentkezik,
+
+b) hallgatói jogviszonyban áll,
+
+c) doktorjelölti jogviszonyban áll,
+
+d) felsőoktatási intézményben oktató, kutató, tanári munkakörben dolgozik,
+
+e) felsőoktatási intézményben oktatási tevékenység ellátására megbízási jogviszonyban dolgozik,
+
+f) részére oktatási igazolvány kerül kibocsátásra,
+
+4. a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában szerepel.

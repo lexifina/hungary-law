@@ -8,7 +8,7 @@ A pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő ren
 
 a) oktatási azonosító száma;
 
-b) az 1. melléklet I. alcím b), e)–g) pontjában foglalt adatai, valamint hátrányos vagy halmozottan hátrányos helyzete;
+b) az 1. melléklet I. rész b), e)–g) pontjában foglalt adatai, valamint hátrányos vagy halmozottan hátrányos helyzete;
 
 c) törvényes képviselőjének az Nkt. 41. § (4) bekezdés b) pontjában foglalt adatai;
 
