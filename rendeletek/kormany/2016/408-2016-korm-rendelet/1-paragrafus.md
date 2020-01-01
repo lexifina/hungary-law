@@ -14,7 +14,9 @@ e) 17. cikk (4) bekezdése,
 
 f) 19. cikk (5) bekezdése és
 
-g) 22. cikke
+g) 22. cikke,
+
+h)[^1] 9. cikk (3) bekezdése
 
 ## szerinti feladatokat.
 
@@ -35,3 +37,5 @@ f) 19. cikk (2) bekezdése szerinti kezelési intézkedések országos koordiná
 g) 20. cikke szerinti, a sérült ökológiai rendszerek helyreállításának országos koordinációja, valamint
 
 h) 24. cikk (1) bekezdése szerinti jelentéstétel, valamint a 24. cikk (2) bekezdése szerinti bejelentés és tájékoztatás.
+
+[^1]: Az 1. § (1) bekezdés h) pontját a 360/2019. (XII. 30.) Korm. rendelet 164. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
