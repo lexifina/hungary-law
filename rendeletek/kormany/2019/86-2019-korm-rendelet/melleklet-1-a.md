@@ -1,0 +1,5 @@
+1/A. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^8]
+
+Az eljáró hatóság egészeként kizárt kormányhivatal
+
+[^8]: Az 1/A. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 199. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.

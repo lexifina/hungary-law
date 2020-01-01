@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-86-20-2
 | 2019-08-17 | 2019-86-20-22.4 | 176/2019. (VII. 18.) Korm. rendelet |
 | 2019-10-13 | 2019-86-20-22.5 | 119/2019. (V. 17.) Korm. rendelet |
 | 2019-10-17 | 2019-86-20-22.6 | 240/2019. (X. 16.) Korm. rendelet |
+| 2020-01-01 | 2019-86-20-22.7 | 360/2019. (XII. 30.) Korm. rendelet |

@@ -2,19 +2,15 @@
 
 A járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrzési hatáskörébe tartozó jogszabálysértések
 
-1. Az építésfelügyelet területén:
-
-1.1. az építési tevékenység első elektronikus főnaplója megnyitására vonatkozó kötelezettség megsértése,
-
-1.2. építőipari kivitelezési tevékenység végzéséhez szükséges kivitelezési dokumentáció hiánya.
+1.[^10]
 
 2. A fogyasztóvédelem területén:
 
 2.1. a fogyasztóknak megvételre kínált termék eladási áráról és egységáráról, illetve a szolgáltatás díjáról szóló tájékoztatás hiánya,
 
-2.2. a pirotechnikai termékek csomagolására és jelölésére vonatkozó szabályok megsértése,
+2.2.[^11]
 
-2.3. a pirotechnikai termék CE-jelölésének hiánya,
+2.3.[^12]
 
 2.4. magyar nyelven kiadott sajtótermékben, magyar nyelvű rádió-, illetve televízió-műsorban, továbbá szabadtéri reklámhordozón közzétett gazdasági reklámban a reklám szövegének magyar nyelven történő megjelenítésének elmulasztása,
 
@@ -85,3 +81,7 @@ A járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrz�
 6.2. a dohányzási korlátozással érintett, valamint a dohányzásra kijelölt helyeken, helyiségekben, közterületeken a feliratok, jelzések hiánya,
 
 6.3. a nemdohányzó intézményekben a feliratok, jelzések hiánya.
+
+[^10]: A 4. melléklet 1. pontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^11]: A 4. melléklet 2. pont 2.2. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: A 4. melléklet 2. pont 2.3. alpontját a 360/2019. (XII. 30.) Korm. rendelet 199. § (9) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
