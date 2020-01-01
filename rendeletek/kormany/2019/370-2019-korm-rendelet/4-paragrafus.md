@@ -1,0 +1,3 @@
+## 3. § A 299/2017. (X. 17.) Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A kötelező átvétel és a zöld prémium típusú támogatás megállapítása vagy módosítása szempontjából az erőműegység névleges teljesítőképességének megállapításakor összevontan kell kezelni azokat az e rendelet szerinti kötelező átvételben vagy zöld prémium típusú támogatásban részesülő vagy folyamatban lévő kérelemmel rendelkező, azonos típusú energiaforrást felhasználó erőműegységeket, amelyek hálózati csatlakozási pontjai vagy – magánvezetékre csatlakozó erőműegységek esetén – kapcsolódási pontjai egymáshoz képest 1000 méter távolságon belül helyezkednek el.”

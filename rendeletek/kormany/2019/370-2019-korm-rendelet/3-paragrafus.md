@@ -1,0 +1,3 @@
+## 2. § A 299/2017. (X. 17.) Korm. rendelet 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha a kötelező átvételre jogosult erőműegység a közcélú hálózaton piaci alapon is kíván értékesíteni villamos energiát, akkor át kell lépnie az e rendelet szerinti prémium típusú támogatási rendszerbe. Ebben az esetben a (3) bekezdésben meghatározott támogatott árat és időtartamot kell alkalmazni. A KÁT termelőnek nem kell átlépnie az e rendelet szerinti prémium típusú támogatási rendszerbe, ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre.”
