@@ -1,4 +1,4 @@
-## 18. §[^58] Lőfegyver hatástalanítását a jogszabályban kijelölt szervezet végezheti. A lőfegyver hatástalanításának szabályait a Bizottsági Rendelet határozza meg.
+## 18. §[^59] Lőfegyver hatástalanítását a jogszabályban kijelölt szervezet végezheti. A lőfegyver hatástalanításának szabályait a Bizottsági Rendelet határozza meg.
 
 ## 19. § A lőfegyver-kiállítás iránti kérelemnek tartalmaznia kell
 
@@ -10,4 +10,4 @@ c) a biztonsági berendezések és a kiállítás őrzésvédelmének leírásá
 
 d) a kiállítandó lőfegyverek azonosító adatait.
 
-[^58]: A 18. § a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 3. pontja, a 181/2018. (X. 2.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^59]: A 18. § a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 3. pontja, a 181/2018. (X. 2.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

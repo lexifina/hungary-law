@@ -1,4 +1,4 @@
-## 53. §[^179] A rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet, valamint a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosításáról szóló 67/2010. (III. 18.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított 23. § (1) és (3) bekezdésben foglalt feltételek nem érintik a módosító rendelet hatálybalépését[^180] megelőzően kiadott engedélyek hatályosságát.
+## 53. §[^180] A rendőrség ellenérték fejében végezhető szolgáltató tevékenységéről szóló 16/1999. (II. 5.) Korm. rendelet, valamint a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosításáról szóló 67/2010. (III. 18.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított 23. § (1) és (3) bekezdésben foglalt feltételek nem érintik a módosító rendelet hatálybalépését[^181] megelőzően kiadott engedélyek hatályosságát.
 
-[^179]: Az 53. §-t újonnan a 67/2010. (III. 18.) Korm. rendelet 8. §-a iktatta be.
-[^180]: A hatálybalépés időpontja 2010. április 2.
+[^180]: Az 53. §-t újonnan a 67/2010. (III. 18.) Korm. rendelet 8. §-a iktatta be.
+[^181]: A hatálybalépés időpontja 2010. április 2.

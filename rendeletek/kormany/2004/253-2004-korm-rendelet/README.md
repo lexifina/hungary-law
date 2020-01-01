@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-253-20-
 | 2018-01-01 | 2004-253-20-22.31 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-10-03 | 2004-253-20-22.32 | 39/2012. (III. 12.) Korm. rendelet |
 | 2019-04-15 | 2004-253-20-22.33 | 57/2019. (III. 18.) Korm. rendelet |
+| 2020-01-01 | 2004-253-20-22.34 | 360/2019. (XII. 30.) Korm. rendelet |

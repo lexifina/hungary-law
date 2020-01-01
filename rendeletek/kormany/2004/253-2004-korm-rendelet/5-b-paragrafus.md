@@ -6,7 +6,7 @@ b) a légiközlekedési hatóságot és a katonai légügyi hatóságot, ha a l�
 
 (2) A lőtér üzemeltetésére jogosító engedély iránti kérelemnek tartalmaznia kell
 
-a) a lőtér használatát kérelmező szerv megnevezését, székhelyének és telephelyének címét, cégbejegyzésének – sportegyesület esetében nyilvántartási, egyéni vállalkozó esetében nyilvántartási vagy egyéni vállalkozói igazolványának – számát,
+a)[^19] a lőtér használatát kérelmező szerv megnevezését, székhelyének és telephelyének címét, cégbejegyzésének – sportegyesület vagy egyéni vállalkozó esetében nyilvántartási – számát,
 
 b) a lőtér használatát kérelmező szerv elérhetőségi adataiként levelezési címet, telefonszámot, e-mail-címet,
 
@@ -23,3 +23,4 @@ f) annak megjelölését, hogy a lőtéren milyen jellegű, kaliberjelű és kat
 (4) A lőtér üzemeltetésére jogosító engedély kiadására irányuló eljárásban ügyfélnek minősül a lőtér hatásterületén lévő ingatlan tulajdonosa is, valamint az is, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
 [^18]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: Az 5/B. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 32. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
