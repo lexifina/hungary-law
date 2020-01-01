@@ -54,6 +54,6 @@
 
 | IV. | a felmentési kérelem eljárási díja megegyezik a vizsga elemenkénti díjával |  |
 
-4. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^21]
+4. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^24]
 
-[^21]: A 4. számú mellékletet a 33/2014. (VII. 15.) NFM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^24]: A 4. számú mellékletet a 33/2014. (VII. 15.) NFM rendelet 3. § b) pontja hatályon kívül helyezte.

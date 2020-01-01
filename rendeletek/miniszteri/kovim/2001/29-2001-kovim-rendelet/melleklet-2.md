@@ -262,6 +262,6 @@
 
 | 52. | A hajózási egészségi alkalmasság vizsgálatára jogosult orvos nyilvántartásba vétele | 74 650 |
 
-2. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^19]
+2. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^22]
 
-[^19]: A 2. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (2) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 2. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (2) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
