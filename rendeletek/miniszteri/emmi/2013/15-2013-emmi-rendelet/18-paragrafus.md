@@ -2,6 +2,6 @@
 
 (2) A szülő, vagy nagykorú tanuló esetén a tanuló közvetlenül is eljárást indíthat a gyermek, tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes járási hivatalnál a szakértői vélemény felülvizsgálatát kezdeményezve. Szülőnek, vagy nagykorú tanuló esetén a tanulónak a szakértői véleményben foglaltakkal kapcsolatos egyetértését vagy egyet nem értését írásban kell közölnie.
 
-(3)[^58] A szülőnek, vagy nagykorú tanuló esetén a tanulónak – a szakértői vélemény kézhezvételétől számítva – tizenöt nap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. Amennyiben a szülő, vagy nagykorú tanuló esetén a tanuló a szakértői vélemény kézhezvételétől számított tizenöt napon belül nem tesz nyilatkozatot és nem indítja meg a (2) bekezdésben meghatározott eljárást, az egyetértését megadottnak kell tekinteni.
+(3)[^59] A szülőnek, vagy nagykorú tanuló esetén a tanulónak – a szakértői vélemény kézhezvételétől számítva – tizenöt nap áll rendelkezésre a szakértői vélemény felülvizsgálatának kezdeményezésére. Amennyiben a szülő, vagy nagykorú tanuló esetén a tanuló a szakértői vélemény kézhezvételétől számított tizenöt napon belül nem tesz nyilatkozatot és nem indítja meg a (2) bekezdésben meghatározott eljárást, az egyetértését megadottnak kell tekinteni.
 
-[^58]: A 18. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^59]: A 18. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 33. §-ával megállapított szöveg.

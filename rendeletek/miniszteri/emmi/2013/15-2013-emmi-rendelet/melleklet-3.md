@@ -1,4 +1,4 @@
-3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^139]
+3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^140]
 
 A szakértői vélemény elkészítésének szakmai követelményei
 
@@ -394,4 +394,4 @@ A vizsgálatok céljai:
 
 – kognitív képességek és készségek, adaptív készségek, viselkedésproblémák szintjének felmérése
 
-[^139]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja szerint módosított szöveg.
+[^140]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja szerint módosított szöveg.

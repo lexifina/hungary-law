@@ -1,14 +1,14 @@
 12. § (1) A megyei szakértői bizottság koordinációs feladatai:
 
-a)[^32] a járási szakértői bizottság szakmai működésének koordinációja,
+a)[^31] a járási szakértői bizottság szakmai működésének koordinációja,
 
-b)[^33]
+b)[^32]
 
 c) a szakértői vizsgálatoknál alkalmazott protokoll eljárások folyamatos ellenőrzése és fejlesztése,
 
 d) speciális diagnosztikai feladatok koordinálása.
 
-(2)[^34] A megyei szakértői bizottság diagnosztikai feladatai:
+(2)[^33] A megyei szakértői bizottság diagnosztikai feladatai:
 
 a) az e rendelet általános szabályai szerint indult vizsgálatok esetében a háromévesnél fiatalabb gyermekek teljes körű pszichológiai, pedagógiai-gyógypedagógiai, továbbá szükség szerint orvosi vizsgálata,
 
@@ -24,6 +24,6 @@ f) jogszabályban meghatározott esetben javaslattétel a súlyosan-halmozottan 
 
 g) a 4. § (2a) bekezdésében meghatározott szakértői vélemény elkészítése.
 
-[^32]: A 12. § (1) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 7. § (1) bekezdésével megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 9. pontja szerint módosított szöveg.
-[^33]: A 12. § (1) bekezdés b) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § a) pontja hatályon kívül helyezte.
-[^34]: A 12. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 27. §-ával megállapított szöveg.
+[^31]: A 12. § (1) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 7. § (1) bekezdésével megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 9. pontja szerint módosított szöveg.
+[^32]: A 12. § (1) bekezdés b) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § a) pontja hatályon kívül helyezte.
+[^33]: A 12. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 27. §-ával megállapított szöveg.

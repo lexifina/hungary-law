@@ -1,5 +1,5 @@
 ## 51. § E rendelet hatálybalépésének időpontjában folyamatban lévő ügyekre e rendelet szabályait kell alkalmazni.
 
-52. §[^136]
+52. §[^137]
 
-[^136]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^137]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

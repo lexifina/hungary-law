@@ -1,4 +1,4 @@
-3. § (1)[^7] A pedagógiai szakszolgálatokat az Nkt. 18. § (2) bekezdésében foglalt valamennyi szakszolgálati feladat vonatkozásában az Intézmények,
+3. § (1)[^4] A pedagógiai szakszolgálatokat az Nkt. 18. § (2) bekezdésében foglalt valamennyi szakszolgálati feladat vonatkozásában az Intézmények,
 
 a) egy vagy több pedagógiai szakszolgálati feladat vonatkozásában az állami felsőoktatási intézmény által fenntartott pedagógiai szakszolgálati, illetve egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmények,
 
@@ -6,15 +6,15 @@ b) továbbá a szakértői bizottsági tevékenység kivételével egy vagy töb
 
 látják el.
 
-(2)[^8] Az Intézmény a feladatait a megyében és a fővárosban a székhelyintézményben és a tagintézményekben látja el. A tagintézmény több tagintézményi telephelyen is működhet.
+(2)[^5] Az Intézmény a feladatait a megyében és a fővárosban a székhelyintézményben és a tagintézményekben látja el. A tagintézmény több tagintézményi telephelyen is működhet.
 
-(3)[^9] A tagintézmény neve három részből áll. Az első részben előtagként az Intézmény hivatalos neve, a második részben az első részhez kapcsolódva utótagként az adott járás nevével azonos megkülönböztető megjelölés az előtaggal birtokviszonyban, a harmadik részben a tagintézmény megnevezés szerepel. A tagintézmény önálló körbélyegzővel rendelkezik. A körbélyegző a tagintézmény nevét, és annak a telephelynek a címét tartalmazza, ahol a tagintézmény vezetőjének munkahelye található.
+(3)[^6] A tagintézmény neve három részből áll. Az első részben előtagként az Intézmény hivatalos neve, a második részben az első részhez kapcsolódva utótagként az adott járás nevével azonos megkülönböztető megjelölés az előtaggal birtokviszonyban, a harmadik részben a tagintézmény megnevezés szerepel. A tagintézmény önálló körbélyegzővel rendelkezik. A körbélyegző a tagintézmény nevét, és annak a telephelynek a címét tartalmazza, ahol a tagintézmény vezetőjének munkahelye található.
 
-(4)[^10]
+(4)[^7]
 
 (5) A pedagógiai szakszolgálati feladatok országosan egységes szakmai irányítását a miniszter látja el. A miniszter a pedagógiai szakszolgálati feladatok országos, területi és helyi szakmai feladatainak megvalósításába társadalmi szervezetet, felsőoktatási intézményt, felsőoktatási intézmény, egyház és más nem állami, nem önkormányzati fenntartó által fenntartott köznevelési intézményt vonhat be.
 
-[^7]: A 3. § (1) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 29. §-ával megállapított szöveg.
-[^8]: A 3. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 2. pontja szerint módosított szöveg.
-[^10]: A 3. § (4) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 40. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § (1) bekezdése a 20/2019. (VIII. 30.) EMMI rendelet 29. §-ával megállapított szöveg.
+[^5]: A 3. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 2. pontja szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 40. § a) pontja hatályon kívül helyezte.

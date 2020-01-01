@@ -12,7 +12,7 @@ c) a korai fejlesztés és gondozás szükségességét, az ennek keretében ny�
 
 d) annak megállapítását, hogy a sajátos nevelési igényű gyermek, tanuló az e célra létrehozott, a fogyatékosság típusának megfelelő nevelési-oktatási intézményben, osztályban, csoportban, tagozaton vagy a többi gyermekkel, tanulóval közösen is részt vehet az óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben,
 
-e)[^50] annak megállapítását, hogy a sajátos nevelési igényű tanuló a tankötelezettségét kizárólagosan iskolába járással, illetve kizárólagosan egyéni munkarend keretében teljesítheti,
+e)[^50] annak megállapítását, hogy a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló a tankötelezettségét kizárólagosan iskolába járással, illetve kizárólagosan egyéni munkarend keretében teljesítheti,
 
 f)[^51] ha a tanuló a tankötelezettségét kizárólagosan egyéni munkarend keretében teljesítheti, a heti foglalkoztatás idejét és a felkészüléshez szükséges szakembereket,
 
@@ -34,7 +34,7 @@ j)[^54] a gyermek, tanuló nevelésével, oktatásával kapcsolatos sajátos kö
 
 k) a szükséges szakemberre vonatkozó javaslatot,
 
-l)[^55]
+l)[^55] az adott tanév szeptember 1. és január 15. napja közt elvégzett vizsgálatoknál az ötödik életévüket betöltött, de hat évesnél fiatalabb sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek esetében javaslatot a tankötelezettség teljesítésének következő tanévtől történő megkezdésére vagy további egy év óvodai nevelésre,
 
 m) a szülő tájékoztatását a 18. §-ban foglalt jogairól és kötelezettségeiről.
 
@@ -48,11 +48,14 @@ m) a szülő tájékoztatását a 18. §-ban foglalt jogairól és kötelezetts�
 
 (6)[^57] A kézbesítés történhet postai úton, személyesen vagy kézbesítő útján. A kézbesítés napja az a nap, amelyen a szakértői véleménynek a szülő általi átvétele megtörtént, vagy amely napon a szülő az átvételt megtagadta. Ha postai úton kézbesített szakértői vélemény a szakértői bizottsághoz „nem kereste” jelzéssel érkezik vissza, a szakértői véleményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
-[^50]: A 17. § (1) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja szerint módosított szöveg.
+(7)[^58] Ha a Hivatal a kérelmező által benyújtott dokumentumok alapján, a tankötelezettség teljesítésének hat éves kor előtti megkezdésével vagy a tankötelezettség megkezdése alóli felmentéssel kapcsolatos hatósági eljárásban a szakértői bizottságot szakértőként kirendelte, és a Korm. rendelet szerinti szakértői vélemény elkészítése és a Hivatalnak történő megküldése mellett a hatósági eljárástól függetlenül az e rendelet szerinti szakértői vélemény kibocsátása is szükséges, úgy azt a szakértői bizottság az e rendelet általános szabályai szerint készíti el. Ha szakértői vizsgálatot a Hivatal kirendelésére a járási szakértői bizottság végezte el, és a szakértői vizsgálat alapján sajátos nevelési igény valószínűsíthető, akkor a járási szakértői bizottság a Korm. rendelet szerinti szakértői vélemény elkészítésével és a Hivatalnak történő megküldésével egyidejűleg saját vizsgálatának dokumentációját és annak eredményeit, a vizsgálat alapján tett megállapításait, valamint a rendelkezésükre álló egyéb iratokat megküldi a megyei szakértői bizottság részére, amely a szakértői vizsgálatot a hatósági eljárástól függetlenül e rendelet általános szabályai szerint fejezi be. A megyei szakértői bizottság a járási szakértői bizottság azon szakmai megállapításaihoz, melyeket a Korm. rendelet szerinti szakértői vélemény tartalmaz, kötve van.
+
+[^50]: A 17. § (1) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja, a 34/2019. (XII. 30.) EMMI rendelet 19. § b) pontja szerint módosított szöveg.
 [^51]: A 17. § (1) bekezdés f) pontja a 20/2019. (VIII. 30.) EMMI rendelet 39. § d) pontja szerint módosított szöveg.
 [^52]: A 17. § (1) bekezdés h) pont ha) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
 [^53]: A 17. § (1) bekezdés h) pont hb) alpontja az 53/2016. (XII. 29.) EMMI rendelet 31. §-ával megállapított szöveg.
 [^54]: A 17. § (1) bekezdés j) pontja a 8/2014. (I. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^55]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte.
+[^55]: A 17. § (1) bekezdés l) pontját a 8/2014. (I. 30.) EMMI rendelet 32. § b) pontja hatályon kívül helyezte, újonnan a 34/2019. (XII. 30.) EMMI rendelet 17. §-a iktatta be.
 [^56]: A 17. § (5) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 32. §-ával megállapított szöveg.
 [^57]: A 17. § (6) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 32. §-a iktatta be.
+[^58]: A 17. § (7) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 18. §-a iktatta be.
