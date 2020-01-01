@@ -1,4 +1,4 @@
-6. §[^22] (1) A közigazgatás-fejlesztésért felelős miniszter a hatóságok közreműködésével gondoskodik az alábbi témakörökben legalább magyar és angol nyelvű általános tájékoztatók e rendeletnek megfelelő elkészítéséről, naprakészen tartásáról és az elektronikus tájékoztatásra vonatkozó szabályok szerinti közzétételéről:
+6. §[^23] (1) A közigazgatás-fejlesztésért felelős miniszter a hatóságok közreműködésével gondoskodik az alábbi témakörökben legalább magyar és angol nyelvű általános tájékoztatók e rendeletnek megfelelő elkészítéséről, naprakészen tartásáról és az elektronikus tájékoztatásra vonatkozó szabályok szerinti közzétételéről:
 
 a) a Szolgtv. 31. § (1) bekezdés a) pont ac) alpontjában foglaltakról,
 
@@ -20,4 +20,4 @@ c) az ágazati szabályozásért felelős miniszter tájékoztatása alapján a 
 
 d) az elektronikus ügyintézés technikai, és nem eljárás-specifikus működési szabályairól szóló tájékoztatást.
 
-[^22]: A 6. § a 82/2012. (IV. 21.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^23]: A 6. § a 82/2012. (IV. 21.) Korm. rendelet 25. §-ával megállapított szöveg.
