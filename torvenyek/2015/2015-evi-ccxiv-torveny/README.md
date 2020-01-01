@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-214-00-00
 | 2016-01-02 | 2010. évi CXXX. törvény | 2015-214-00-00.2 |
 | 2016-06-24 | 2016. évi LXXXVII. törvény | 2015-214-00-00.3 |
 | 2016-07-01 | 2016. évi LIII. törvény | 2015-214-00-00.4 |
+| 2020-01-01 | 2019. évi CXVIII. törvény | 2015-214-00-00.5 |

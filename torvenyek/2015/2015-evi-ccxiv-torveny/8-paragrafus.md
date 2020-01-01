@@ -12,6 +12,6 @@ e) meghatározza a BEVA tagok által teljesítendő éves befizetés összegét,
 
 f) elfogadja az Alap éves számviteli beszámolóját és az Alap tevékenységének befejezését megelőzően elfogadja a záró beszámolót,
 
-g) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese irányításával történő végrehajtását, valamint
+g) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak a BEVA ügyvezető igazgatója irányításával történő végrehajtását, valamint
 
 h) ellátja az e törvényben meghatározott egyéb feladatokat.
