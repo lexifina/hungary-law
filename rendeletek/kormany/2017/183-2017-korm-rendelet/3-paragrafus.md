@@ -2,4 +2,6 @@
 
 3. § (1) A Felügyeletnél foglalkoztatottak kormányzati szolgálati jogviszonyban vagy munkaviszonyban állnak.
 
-(2) Az elnökhelyetteseket az elnök javaslatára a miniszter nevezi ki és menti fel, az egyéb munkáltatói jogokat az elnök gyakorolja. A Felügyelet más alkalmazottai felett a munkáltatói jogkört az elnök gyakorolja.
+(2)[^3]
+
+[^3]: A 3. § (2) bekezdését a 331/2019. (XII. 20.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
