@@ -12,9 +12,9 @@ minősítést kap.
 
 (3) A határozatot és az igazságügyi szakértő értékelését kézbesíteni kell az értékelt igazságügyi szakértőnek és a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az értékelés eredményeként a (2) bekezdés a) és b) pontjában foglaltakat a névjegyzékbe bejegyzi.
 
-(4) A névjegyzékbe bejegyzett, de még nem értékelt igazságügyi szakértő esetén a névjegyzékben az értékelés hiányára kell utalni.
+(4)
 
-(5) Alkalmatlan minősítés esetén a minőségbiztosítási bizottság kezdeményezi az igazságügyi szakértő Kamarából történő kizárását. A kizárás kérdésében a Kamara elnöksége (a továbbiakban: elnökség) határoz. Az elnökség a kizárás kérdésében hozott határozatát kézbesíti az értékelt igazságügyi szakértőnek és a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az igazságügyi szakértőt a miniszter rendeletében meghatározott eljárás lefolytatásával a névjegyzékből törli.
+(5) Alkalmatlan minősítés esetén a minőségbiztosítási bizottság kezdeményezésére a Kamara elnöksége (a továbbiakban: elnökség) az igazságügyi szakértőt a Kamarából kizárja. Az elnökség a kizárás kérdésében hozott határozatát kézbesíti az értékelt igazságügyi szakértőnek és a névjegyzéket vezető hatóságnak.
 
 (6) A szakmai értékelő tanács elnöke
 

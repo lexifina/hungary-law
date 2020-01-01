@@ -16,7 +16,7 @@
 
 a) az országgyűlési képviselői, a nemzetiségi szószólói, az európai parlamenti képviselői, az önkormányzati képviselői vagy polgármesteri megbízatás,
 
-b) az állami vezetői szolgálati jogviszony, az állami vezetőként betöltött jogviszony vagy
+b) a politikai felsővezető politikai szolgálati jogviszonya, a közigazgatási államtitkár és a helyettes államtitkár kormányzati szolgálati jogviszonya vagy
 
 c) az Országgyűlés által választott közjogi tisztségviselő e megbízatása
 

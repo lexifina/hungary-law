@@ -32,7 +32,7 @@ rendeletben határozza meg.
 
 a) az igazságügyi szakértői szakterületeket, az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket, a kötelező szakértőjelölti idő vagy ügyszám mértékét, a képesítés egyenértékűségére vonatkozó feltételeket, az egyes szakterületek esetében a névjegyzékbe-vételi eljárás során figyelembe vehető szakértőjelölti szakmai gyakorlati tapasztalatra, rövidebb kötelező szakmai gyakorlat időtartamára, tudományos fokozatra, képesítésre és ágazati szakértői jogosultságra, ezek igazolására, valamint a névjegyzékbe bejegyzett igazságügyi szakértő esetében a feltételek alóli mentesülésre vonatkozó feltételeket,
 
-b) a névjegyzékből a kamarai tagság megszűnése miatti törlésre vonatkozó eljárás szabályait,
+b)
 
 c) az igazságügyi szakértő által vezetett adattovábbítási nyilvántartás adattartalmára vonatkozó szabályokat,
 
@@ -48,7 +48,7 @@ h) az érintett szakterület ágazati irányításáért felelős miniszterrel e
 
 i) a szakértő eljárására, a szakvéleményre, a szakértői vizsgálatra és az egyes vizsgálattípusokra, a szakértői vizsgálathoz szükséges mintavételre és a vizsgálati tárgyak rendelkezésre bocsátására, a szakértői ügyvitelre vonatkozó szabályokat, a vizsgálati tárgy megváltozásával és megsemmisülésével járó vizsgálat elvégzéséhez szükséges előzetes hozzájárulásra vonatkozó szabályokat,
 
-j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályokat, a külön minősítéssel rendelkező igazságügyi szakértőkre vonatkozó szabályokat, valamint az igazságügyi szakértő által kért értékeléssel összefüggésben megfizetendő díjra vonatkozó szabályokat,
+j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályokat, valamint az igazságügyi szakértő által kért értékeléssel összefüggésben megfizetendő díjra vonatkozó szabályokat,
 
 k) az igazságügyi szakértői és szakértőjelölti igazolványra vonatkozó részletes szabályokat,
 

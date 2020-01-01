@@ -30,7 +30,7 @@ Az igazságügyi szakértői névjegyzék tartalma
 
 1.10.3. elbírálás alatt lévő szakterület;
 
-1.11. iskolai végzettség és szakmai képesítés a megszerzés időpontjával, valamint nemzetközi vagy hazai szakmai minősítés a megszerzés időpontjával;
+1.11. iskolai végzettség és szakmai képesítés, valamint nemzetközi vagy hazai szakmai minősítés;
 
 1.12. állapot
 

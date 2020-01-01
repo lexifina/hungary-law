@@ -8,7 +8,7 @@ c) kamarai tagságának megszűnésével, és
 
 d) megbízatása idejének lejártával.
 
-(2) A tisztségviselő megbízatása vagy kinevezése akkor is megszűnik, ha a vele szemben indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
+(2) A tisztségviselő megbízatása vagy kinevezése akkor is megszűnik, ha a vele szemben indult büntetőeljárás során jogerősen elmarasztalták.
 
 (3) A tisztségviselő visszahívását a Kamara tagjainak legalább egytizede kezdeményezheti, a visszahívott tisztségviselő tisztségét betöltő új jelölt megjelölésével egyidejűleg. A tisztségviselő visszahívása kizárólag akkor sikeres, ha a küldöttgyűlés az új tisztségviselőnek ajánlott jelöltet egyidejűleg megválasztja.
 

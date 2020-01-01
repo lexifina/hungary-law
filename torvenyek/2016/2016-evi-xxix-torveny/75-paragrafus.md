@@ -2,17 +2,25 @@
 
 75. § (1) Az elnökség a Kamara elnökéből és négy elnökhelyettesből áll.
 
-(2) A Kamara elnökét és elnökhelyetteseit általános, egyenlő választójog alapján közvetlenül, négy évre, titkos szavazással választják.
+(2) A Kamara elnökét és elnökhelyetteseit a Kamara tagjai általános és egyenlő választójog alapján, közvetlen és titkos szavazással, elektronikus úton az elnök-, illetve az elnökhelyettes-jelöltek közül választják.
 
-(3) A választói névjegyzékbe felvett igazságügyi szakértő választhat, és amennyiben jogszabály nem zárja ki, választható. Szavazni csak személyesen lehet. A választáson minden szavazásra jogosultnak egy szavazata van, minden szavazat egyenlő.
+(3) Az elnöki, illetve az elnökhelyettesi tisztség betöltésére jogosult, és a jelöltséget vállaló kamarai tagok közül,
 
-(4) A Kamara elnöke az lesz, aki a választáson az egyéni jelöltek közül a legtöbb szavazatot kapta és legalább a leadott szavazatok egyharmadával rendelkezik. Amennyiben a legtöbb szavazatot kapott egyéni jelölt nem szerezte meg a leadott szavazatok legalább egyharmadát, második fordulót kell tartani.
+a) elnökjelölt az a három igazságügyi szakértő,
 
-(5) A második fordulóban csak azok az egyéni jelöltek vesznek részt, akik az első fordulóban az első három hely valamelyikén végeztek és a leadott szavazatok legalább egyötödét megkapták. A második fordulóban a Kamara elnöke az lesz, aki az egyéni jelöltek közül a legtöbb szavazatot kapta. Szavazategyenlőség esetén – amennyiben azon az elnöki tisztség betöltése vagy a második fordulóban történő részvétel múlik – az azonos szavazatot kapott személyek közül a választási bizottság elnöke és legalább két tagja – az érintettek jelenlétében – sorsolással dönti el a Kamara elnökének vagy a továbbjutó egyéni jelölt személyének választását.
+b) elnökhelyettes-jelölt az a tíz igazságügyi szakértő,
+
+aki e tisztségre a Kamara tagjaitól a legtöbb elektronikus úton előterjesztett ajánlást megszerzi, és akit a Kamara elnökének nem választottak még újra.
+
+(3a) Ha a (3) bekezdésben meghatározottak közül ajánlásegyenlőség miatt nem lehet megállapítani, hogy ki a jelölt, az azonos számú ajánlást szerző valamennyi kamarai tag jelöltté válik.
+
+(4) A Kamara elnöke az lesz, aki a választáson az egyéni jelöltek közül a legtöbb elektronikus úton előterjesztett szavazatot kapta.
+
+(5) A Kamara elnökhelyettesei azok lesznek, akik a választáson az egyéni jelöltek közül a legtöbb elektronikus úton előterjesztett szavazatot kapták.
 
 (6) A Kamara elnökének és elnökhelyetteseinek megválasztását a miniszternek jóvá kell hagynia.
 
-(7) A Kamara elnökhelyettesei a választáson az egyéni jelöltek közül a négy legtöbb szavazatot kapó jelöltek lesznek.
+(7) A Kamara elnökének, illetve elnökhelyetteseinek választása során szavazategyenlőség esetén szükséges sorsolásra, a jelöltek sorsoláson való jelenlétére, az elektronikus ajánlásra, illetve az elektronikus szavazásra a küldöttek megválasztására vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (8) Az elnökség megválasztására a 87. § rendelkezéseit megfelelően alkalmazni kell.
 

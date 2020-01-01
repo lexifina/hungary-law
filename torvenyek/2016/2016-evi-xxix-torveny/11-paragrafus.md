@@ -2,9 +2,9 @@
 
 11. § (1) Az igazságügyi szakértő 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza. A névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás szabályait a Kormány rendeletben állapítja meg.
 
-(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1.–1.5., 1.7.–1.8., 1.11., 1.13., pontjában, valamint 1.18.1. és 1.18.2. alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1.–1.5., 1.7.–1.8., 1.11., 1.13., pontjában, 1.18.1. és 1.18.2. alpontjában, valamint 1.22. és 1.23. pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Az 1. melléklet 1.12.1. és 1.12.3.–1.12.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.6.–1.9. pontjaiban, 1.10.1. alpontjában, 1.11. pontjában, 1.12.4. és 1.12.5. alpontjában, 1.13. pontjában, 1.16. és 1.17. pontjában, valamint 1.19.–1.22. és 1.23. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
+(3) Az 1. melléklet 1.12.1. és 1.12.3.–1.12.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.6.–1.9. pontjaiban, 1.10.1. alpontjában, 1.11. pontjában, 1.12.4. és 1.12.5. alpontjában, 1.13. pontjában, 1.17. pontjában, valamint 1.19.–1.22. és 1.23. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
 
 (4) A névjegyzék (3) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. A névjegyzéket vezető hatóság az 1. melléklet 1.10.2. és 1.10.3. alpontjában, valamint 1.15. pontjában foglalt adatok kivételével a nyilvántartás adatait a Kamara részére átadja, azokat a Kamara e törvény rendelkezései szerint nyilvántartja és kezeli.
 

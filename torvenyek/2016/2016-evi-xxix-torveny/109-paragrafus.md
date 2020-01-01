@@ -1,6 +1,6 @@
 109. § (1) A fegyelmi bizottság elnöke a kérelmet – fegyelmi tanács kijelölése nélkül – végzéssel elutasítja, ha
 
-a) az abban megjelölt személy nem igazságügyi szakértő,
+a) az abban megjelölt személy nem igazságügyi szakértő vagy eseti szakértő,
 
 b) a kezdeményező az erre irányuló felhívás ellenére a megadott határidőben a kérelemnek a felhívásban megjelölt hiányait nem pótolta vagy
 

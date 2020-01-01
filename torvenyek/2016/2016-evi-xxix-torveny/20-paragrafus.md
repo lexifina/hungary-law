@@ -1,4 +1,4 @@
-20. § (1) Az értékelést megalapozó vizsgálatot az elrendeléstől számított harminc napon belül le kell folytatni, és az értékelést a befejezéstől számított tizenöt napon belül kell elvégezni.
+20. § (1) Az értékelést megalapozó vizsgálatot az elrendeléstől számított negyvenöt napon belül le kell folytatni, és az értékelést a befejezéstől számított tizenöt napon belül kell elvégezni.
 
 (2) Az értékelést megalapozó vizsgálat során a szakmai értékelő tanács az igazságügyi szakértő
 
