@@ -1,4 +1,4 @@
-## 33/A. §[^77] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^78] folyamatban lévő ügyekben is alkalmazni kell.
+## 33/A. §[^78] E rendeletnek az egyes foglalkoztatási, valamint pénzügyi tárgyú kormányrendeletek módosításáról szóló 345/2017. (XI. 16.) Korm. rendelettel (a továbbiakban: Módkr.) megállapított 28. §-át a Módkr. hatálybalépésekor[^79] folyamatban lévő ügyekben is alkalmazni kell.
 
 34. § (1) E rendelet
 
@@ -38,7 +38,7 @@
 
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2)[^79] Ez a rendelet
+(2)[^80] Ez a rendelet
 
 1. az aeroszoladagolókra vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. május 20-i 75/324/EGK tanácsi irányelvnek,
 
@@ -66,6 +66,6 @@
 
 13. a nyomástartó berendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. május 15-i 2014/68/EU európai parlamenti és tanácsi irányelvnek
 
-[^77]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
-[^78]: A hatálybalépés időpontja 2017. november 17.
-[^79]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^78]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
+[^79]: A hatálybalépés időpontja 2017. november 17.
+[^80]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-7. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^85]
+7. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^86]
 
-[^85]: A 7. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 30. § f) pontja hatályon kívül helyezte.
+[^86]: A 7. mellékletet a 216/2019. (IX. 5.) Korm. rendelet 30. § f) pontja hatályon kívül helyezte.
