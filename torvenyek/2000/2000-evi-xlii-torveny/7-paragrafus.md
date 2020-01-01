@@ -10,7 +10,7 @@
 
 (2) Nem kell nyilvántartásba venni:
 
-a) csónakot a révcsónak kivételével,
+a) a csónakot,
 
 b) a nem gépi hajtású vízi sporteszközt,
 

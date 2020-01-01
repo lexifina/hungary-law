@@ -8,9 +8,13 @@ c) elpusztult,
 
 d) több mint egy éve eltűnt,
 
-e) a törlést e törvény elrendeli [12. § (3) bekezdés], vagy azt az úszólétesítmény tulajdonosa egyéb okból kéri.
+e) a törlést e törvény elrendeli [12. § (3) bekezdés], vagy azt az úszólétesítmény tulajdonosa egyéb okból kéri,
+
+f) a hajózási hatóság megállapítja, hogy az a mérete alapján nem nyilvántartásra kötelezett.
 
 (2) A törlési eljárást az úszólétesítmény tulajdonosa kezdeményezi. Amennyiben a tulajdonos az eljárást az annak alapjául szolgáló esemény bekövetkezésétől számított 15 napon belül nem kezdeményezi, az eljárást a hajózási hatóság – a mulasztásról történt tudomásszerzését követően – hivatalból indítja meg.
+
+(2a) Az (1) bekezdés f) pontja szerinti esetben a hajózási hatóság igazgatási szolgáltatási díj megfizetésének mellőzésével, hivatalból jár el.
 
 (3) A lajstromból törölt úszólétesítmény hajóokmányainak eredeti példányát az úszólétesítmény tulajdonosa legkésőbb a véglegessé vált törlési döntés közlésétől számított 15 napon belül köteles az eljárást lefolytató hajózási hatóságnak átadni.
 

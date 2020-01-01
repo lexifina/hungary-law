@@ -2,7 +2,7 @@
 
 a) úszólétesítmény állami hovatartozását;
 
-b) az úszólétesítmény tulajdonosának természetes személyazonosító adatait és címét, illetve jogi személy esetén székhelyét, alapítójának nevét, a gazdasági társaság tagjának nevét, címét, anyja nevét, születési helyét és idejét, valamint tulajdoni arányát, a gazdasági társaság formáját és cégjegyzékszámát;
+b) az úszólétesítmény tulajdonosának természetes személyazonosító adatait és címét, illetve jogi személy esetén székhelyét, alapítójának nevét, a gazdasági társaság tagjának természetes személyazonosító adatait és címét, valamint tulajdoni arányát, a gazdasági társaság formáját és cégjegyzékszámát;
 
 c) úszólétesítményhez kapcsolódó jogokat és jogi szempontból jelentős tényeket;
 

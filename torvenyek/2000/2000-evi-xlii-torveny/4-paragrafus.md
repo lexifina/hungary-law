@@ -6,7 +6,7 @@
 
 (3) A hajózási hatóság eljárásáért miniszter rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-(4) Az ország határain kívül Magyarország konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
+(4) Az ország határain kívül Magyarország konzuli tisztviselője első fokú hajózási hatósági jogkörben jár el a képesítő okmányok, a szolgálati könyvek ideiglenes pótlása, meghosszabbítása, valamint – a külön jogszabályban meghatározott hajózási hatóság felkérésére – a hajóokmányok érvényességi idejének ideiglenes meghosszabbítása tekintetében. Ellátja továbbá a nemzetközi szerződésekben meghatározott, hajózással kapcsolatos egyéb konzuli feladatokat.
 
 (5)
 

@@ -1,7 +1,5 @@
-25. § (1) A biztosító az üzemben tartónak a felelősségbiztosítás általános feltételei szerinti biztosítási szerződés kötésére vonatkozó ajánlatát köteles elfogadni.
+25. § (1) A biztosítási szerződés akkor felel meg a 24. § (1) bekezdésében írt követelményeknek, ha az fedezetet nyújt a 2017. évi CVII. törvénnyel kihirdetett a felelősségnek a belvízi hajózásban való korlátozásáról szóló 2012. évi strasbourgi egyezmény (CLNI 2012) 2. cikkében meghatározott korlátozás hatálya alá eső követelések kockázati körében bekövetkezett károkra – beleértve a sérelemdíjat – a CLNI 2012-ben meghatározott biztosítási összegek legalább 10%-os mértékéig.
 
-(2) Az a biztosító, amely az ajánlattevővel korábban már kötött biztosítási szerződést, és ezt a biztosítottnak súlyosan felróható okból felmondta, vagy a korábbi szerződés a díj nem fizetése miatt szűnt meg, a biztosítási időszak leteltét követő egy évig megtagadhatja újabb szerződés megkötését.
+(2) A biztosító a 2017. évi CVII. törvénnyel kihirdetett a felelősségnek a belvízi hajózásban való korlátozásáról szóló 2012. évi strasbourgi egyezményben (CLNI 2012) foglalt korlátozások esetein kívül is mentesülhet szolgáltatási kötelezettsége alól.
 
-(3) A biztosító – amennyiben nemzetközi szerződés eltérően nem rendelkezik – a szerződés alapján összegszerű korlátozás nélkül köteles helytállni a károsulttal szemben.
-
-(4) A károsult a biztosítási szerződés keretei között jogosult igényét közvetlenül a biztosítóval szemben érvényesíteni.
+(3) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt vízi járműre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzembentartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzembentartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzembentartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.

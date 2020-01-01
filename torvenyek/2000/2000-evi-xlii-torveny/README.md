@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2019-04-26 | 2019. évi XXXIV. törvény | 2000-42-00-00.47 |
 | 2019-07-01 | 2017. évi CVII. törvény | 2000-42-00-00.48 |
 | 2019-07-25 | 2019. évi LXVII. törvény | 2000-42-00-00.49 |
+| 2020-01-01 | 2019. évi CXV. törvény | 2000-42-00-00.50 |

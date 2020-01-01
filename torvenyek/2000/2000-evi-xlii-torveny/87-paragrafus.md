@@ -56,6 +56,8 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 21. kishajó: az a belvízi hajó, amelynek a hajótesten mért hossza a 20 métert nem éri el, valamint az a tengeri hajó, amelynek a hajótesten mért hossza a 24 métert nem éri el;
 
+21a. kisgéphajó: minden saját gépi berendezésével hajtott kishajó, kivéve azokat a kishajókat, amelyeknél a motort csak korlátozott mértékű helyváltoztatásra (kikötőben vagy be- és kirakodó helyen), illetve azok vontatásakor vagy tolásakor a műveletképesség növelésére használják;
+
 22. kitűzés: a hajóút megjelölésére szolgáló tevékenység és eszközrendszer;
 
 23. kombinált forgalom: több közlekedési alágazat (pl. vízi- és közúti közlekedés) igénybevételével végzett személyszállítás vagy árufuvarozás;
@@ -71,6 +73,8 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 28. nemzeti víziút: az ország határain belül lévő és nemzetközi víziúttá nem nyilvánított víziút;
 
 29. nemzetközi víziút: nemzetközi szerződés alapján nemzetközivé nyilvánított víziút;
+
+29a. nyaralóhajó: az a 12 főnél nem nagyobb befogadóképességű kedvtelési célú kisgéphajó, amelynek hajótesten mért hossza a 15 métert nem haladja meg, és legnagyobb holtvízi sebessége nem több 15 km/h-nál; és amelyre a hajózási hatóság nyaralóhajó bérbeadása hajózási tevékenységre engedélyt adott ki;
 
 30. önjáró úszómunkagép: helyváltoztatásra önállóan alkalmas úszómunkagép;
 

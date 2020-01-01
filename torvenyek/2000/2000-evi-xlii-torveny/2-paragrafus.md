@@ -24,7 +24,7 @@ j) a közforgalmú kikötők fejlesztéséhez kapcsolódó támogatási rendszer
 
 k) a honvédelmi és a polgári védelmi feladatok során igénybe vehető úszólétesítmények körének meghatározása, rendelkezésre állásuk biztosítása;
 
-l) a belvízi és a tengerhajózási szakemberek – nemzetközi képesítési követelményeknek is megfelelő – iskolai rendszerű és iskolarendszeren kívüli képzési és továbbképzési feltételeinek meghatározása;
+l)
 
 m) a hajózással kapcsolatos egészségügyi követelmények megállapítása;
 
@@ -54,7 +54,7 @@ h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós 
 
 i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a gazdaságpolitikáért felelős miniszterrel egyetértésben,
 
-j) az l) pontjában rögzített feladatot a miniszter a szakképzésért és felnőttképzésért felelős miniszterrel egyetértésben,
+j)
 
 k) az m) pontjában rögzített feladatot a miniszter az egészségügyért felelős miniszterrel egyetértésben,
 

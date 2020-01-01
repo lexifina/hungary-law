@@ -1,15 +1,9 @@
 ## A biztosítás
 
-24. § (1) Belföldi forgalomban személyhajó és áruszállító hajó, továbbá komp és gazdasági célból üzemeltetett egyéb vízi jármű csak abban az esetben vehet részt, ha az üzemben tartó a szerződésen kívüli kárra érvényes hajó-felelősségbiztosítási szerződéssel rendelkezik.
+24. § (1) Belföldi forgalomban magyar lajstromban nyilvántartott személyhajó és áruszállító hajó, továbbá komp és gazdasági célú hajózási tevékenység végzése céljából üzemeltetett kishajó csak abban az esetben vehet részt, ha az üzembentartó érvényes hajó-felelősségbiztosítási szerződéssel rendelkezik.
 
-(2) A külföldi lobogó alatt közlekedő – az (1) bekezdésben meghatározott – úszólétesítménynek Magyarország területére történő belépéséhez szükséges, hogy
+(2) Az (1) bekezdésben meghatározott vízi jármű esetében a rendőrség ellenőrzi az (1) bekezdésben foglalt hajó-felelősségbiztosítási szerződés meglétét, és ha annak hiányát állapítja meg, a további közlekedést megtiltja.
 
-a) az üzemben tartó érvényes felelősségbiztosítást igazoló nemzetközi bizonylattal rendelkezzék, vagy
+(3) A hajó-felelősségbiztosítási szerződés megkötését tanúsító bizonylatot (kötvény, igazolólap) a vízi jármű vezetője köteles a vízi járművön tartani, és azt jogszabályban meghatározott esetben felmutatni.
 
-b) Magyarország területére való belépésekor az üzemben tartó – határozott időre szóló – felelősségbiztosítási szerződést kössön.
-
-(3) A külföldi lobogó alatt közlekedő – az (1) bekezdésben meghatározott – úszólétesítmények Magyarország területére történő belépésekor a vámhatóság ellenőrzi a (2) bekezdésben foglaltak meglétét, és ha annak hiányát állapítja meg, a beléptetést megtagadja.
-
-(4) A hajó-felelősségbiztosítási szerződés megkötését tanúsító bizonylatot (kötvény, igazolólap) az úszólétesítmény vezetője köteles az úszólétesítményen tartani, és azt jogszabályban megállapított esetben felmutatni.
-
-(5) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt úszólétesítményre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzemben tartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzemben tartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzemben tartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.
+(4) Ha megállapítást nyer, hogy az (1) bekezdésben megjelölt vízi járműre nincs érvényes hajó-felelősségbiztosítási biztosítási szerződés, az üzembentartó lakhelye (székhelye) szerinti illetékes hajózási hatóság tizenöt napon belül felhívja az üzembentartót a biztosítási szerződés megkötésének igazolására. Amennyiben az üzembentartó a felhívás kézhezvételétől számított nyolc napon belül a biztosítási szerződés fennállását nem igazolja, a hajózási hatóság a hajózási engedélyt visszavonja.
