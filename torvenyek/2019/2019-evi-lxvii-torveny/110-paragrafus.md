@@ -2,4 +2,4 @@
 
 a)
 
-b)
+b) 79/F. § (1a) bekezdése.
