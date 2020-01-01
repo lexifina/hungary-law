@@ -1,0 +1,1 @@
+A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (10) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 1. melléklet D) rész 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
