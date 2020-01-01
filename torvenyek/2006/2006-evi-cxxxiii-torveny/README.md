@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-133-00-00
 | 2014-01-01 | 2013. évi CCIII. törvény | 2006-133-00-00.10 |
 | 2016-01-01 | 2015. évi CCXII. törvény | 2006-133-00-00.11 |
 | 2017-01-01 | 2015. évi CCXII. törvény | 2006-133-00-00.12 |
+| 2020-01-01 | 2019. évi CXV. törvény | 2006-133-00-00.13 |
