@@ -2,11 +2,11 @@
 
 1. 2. §-ában az „EUROPA 2020 Stratégia „Innovatív Unió” dokumentumban” szövegrész helyébe az „Európai Unió kutatás-fejlesztést és innovációt érintő stratégiai dokumentumaiban” szöveg;
 
-2. 10/C. §-ában az „az NKFI Hivatal” szövegrész helyébe az „a Kormány által kijelölt szerv” szöveg;
+2.
 
 3. 11. § (2) bekezdésében a „hasznosítását” szövegrész helyébe a „hasznosítását, erősíteni a nemzetközi kutatás-fejlesztési és innovációs együttműködéseket” szöveg;
 
-4. 11. § (3) bekezdésében az „az NKFI Hivatal a felelős” szövegrész helyébe az „a tudománypolitika koordinációjáért felelős miniszter felelős, az NKFI Alap kezelő szerve a Kormány által kijelölt szerv” szöveg;
+4.
 
 5. 14. §-ában az „az NKFI Hivatal az NKFI Alapból finanszírozza” szövegrész helyébe az „az NKFI Alap biztosítja” szöveg;
 
