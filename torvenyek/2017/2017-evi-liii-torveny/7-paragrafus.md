@@ -46,7 +46,7 @@ ab) külföldi állampolgár esetén úti okmányát vagy személyazonosító ig
 
 b) jogi személy, jogi személyiséggel nem rendelkező szervezet esetén a nevében vagy megbízása alapján eljárni jogosult személy a) pontban megjelölt okiratának bemutatásán túl az azt igazoló – harminc napnál nem régebbi – okiratot, hogy
 
-ba) a belföldi gazdálkodó szervezetet a cégbíróság bejegyezte, vagy a gazdálkodó szervezet a bejegyzési kérelmét benyújtotta, egyéni vállalkozó esetében azt, hogy az egyéni vállalkozói igazolvány kiadása vagy a nyilvántartásba vételről szóló igazolás kiállítása megtörtént,
+ba) a belföldi gazdálkodó szervezetet a cégbíróság bejegyezte, vagy a gazdálkodó szervezet a bejegyzési kérelmét benyújtotta, egyéni vállalkozó esetében azt, hogy a nyilvántartásba vételről szóló igazolás kiállítása megtörtént,
 
 bb) belföldi jogi személy esetén, ha annak létrejöttéhez hatósági vagy bírósági nyilvántartásba vétel szükséges, a nyilvántartásba vétel megtörtént,
 
