@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-241-00-00
 | 2014-01-02 | 2010. évi CXXX. törvény | 2013-241-00-00.2 |
 | 2014-03-04 | 2014. évi XIV. törvény | 2013-241-00-00.3 |
 | 2017-12-21 | 2017. évi CCVII. törvény | 2013-241-00-00.4 |
+| 2020-01-01 | 2019. évi CIX. törvény | 2013-241-00-00.5 |
