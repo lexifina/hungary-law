@@ -34,8 +34,8 @@
 
 (12)
 
-(13) Az Európai Bizottság adott bányavállalkozó esetében történt jóváhagyását követően, az adott bányavállalkozó esetében jóváhagyott mértékben 2018. december 31-éig szénipari szerkezetátalakítási támogatást lehet téríteni.
+(13)
 
-(14) A (13) bekezdés szerint kifizethető szénipari szerkezetátalakítási támogatást – a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU európai tanácsi határozattal összhangban – külön jogszabályban kell megállapítani.
+(14)
 
 (15) E törvény hatálybalépését megelőzően kötött uralmi szerződést a 92. § (4) bekezdésben meghatározott engedélyesek 2008. június 30-ig kötelesek megszüntetni, ennek hiányában az érintett felek az uralmi szerződésből fakadó jogokat, illetve kötelezettségeket érvényesen nem gyakorolhatnak, illetve nem teljesíthetnek.

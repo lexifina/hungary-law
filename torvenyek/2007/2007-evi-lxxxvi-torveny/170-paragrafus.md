@@ -46,7 +46,7 @@
 
 21. az átviteli rendszerirányító és az elosztó hálózati engedélyesek, valamint a rendszerhasználók közötti jogviszony részletes szabályait, a hálózati csatlakozási szerződés tartalmi elemeit és rendelkezéseit, hálózathasználati szerződés és a kereskedési szerződés minimális tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit,
 
-22. a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályait,
+22.
 
 23. a villamosenergia-ellátási válsághelyzet és a villamosenergia-rendszer jelentős zavarának részletes szabályait, a válsághelyzet és a jelentős zavar esetén alkalmazandó korlátozások szabályait, elveit, valamint a rendszerhasználók jogait és kötelezettségeit, a teherviselés részletes szabályait, a felhasználók ellátására kötött szerződések teljesítése felfüggesztésének rendjét, a villamosenergia-ellátáshoz kapcsolódó, a hatósági és nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 
@@ -58,7 +58,7 @@
 
 27. az e törvény szerinti hatósági árakra vonatkozó rendelkezések végrehajtásának ellenőrzésére vonatkozó eljárás, valamint az alkalmazandó jogkövetkezmények végrehajtásának részletes szabályait,
 
-28. az e törvény 147. § (1) bekezdésében meghatározott pénzeszköz kezelésének és a 147. § (1) bekezdés a) pontja esetében felhasználása és kifizetése szabályait,
+28. az e törvény 147. § (1) bekezdésében meghatározott pénzeszköz kezelésének szabályait,
 
 29. a megújuló energiaforrásból nyert villamos energia felhasználását elősegítő kötelező átvételi rendszer és prémium típusú támogatási rendszer részletes szabályait, a kötelező átvételi rendszer és a prémium típusú támogatás keretében végrehajtandó elszámolások részletes szabályait, az átvételi kötelezettség alá eső villamos energia befogadásának és kötelező átvételének részletes szabályait, valamint az egyes termelési eljárások, különösen a biomasszával termelt villamos energia kötelező átvételéhez és prémium típusú támogatásához szükséges minimális hatásfok mértékét,
 
@@ -72,7 +72,7 @@
 
 34. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
 
-35.
+35. az okosmérőkre, azok felszerelésére, az engedélyesek és a felhasználók jogaira és kötelezettségeire, valamint az adatkezeléssel és adatfeldolgozással kapcsolatos előírásokra vonatkozó szabályokat,
 
 36. a főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok minimális számát, továbbá az ügyfélszolgálatok elhelyezésére és működtetésére vonatkozó részletes szabályokat,
 

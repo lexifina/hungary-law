@@ -1,6 +1,6 @@
 ## A villamosenergia-ellátásból történő kikapcsolás alóli mentesség
 
-63/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi vagy közoktatási intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a villamosenergia-kereskedőnél és az elosztónál a villamosenergia-ellátásból fizetési késedelem miatt történő kikapcsolás alóli mentesség (a továbbiakban: moratórium) biztosítását.
+63/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, köznevelési vagy szakképző intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a villamosenergia-kereskedőnél és az elosztónál a villamosenergia-ellátásból fizetési késedelem miatt történő kikapcsolás alóli mentesség (a továbbiakban: moratórium) biztosítását.
 
 (2) A moratórium a közintézményi felhasználó kezdeményezése szerinti időszakra, de legfeljebb az adott év október 15. és az azt követő év április 15. közötti időszakra terjed ki.
 

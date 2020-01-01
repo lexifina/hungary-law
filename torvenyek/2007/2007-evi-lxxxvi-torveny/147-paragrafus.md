@@ -4,7 +4,7 @@
 
 147. § (1) Az átviteli rendszerirányító által az e célból létrehozott elkülönített számláján kezelt, kötelező befizetésből származó pénzeszközökből kell biztosítani
 
-a) a szénipari szerkezetátalakítási támogatás,
+a)
 
 b) a külön jogszabályban meghatározott személyi kör részére a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal összefüggésben külön jogszabálynak megfelelően biztosított kedvezményes árú villamosenergia-ellátás támogatása,
 

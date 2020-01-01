@@ -2,8 +2,8 @@
 
 (2) A 2018. december 31-ig terjedő időszakra vonatkozóan a kiegyenlítő fizetések kapcsán keletkezett, de árengedményként nem rendezett összeget az átviteli rendszerirányító legkésőbb 2019. március 31-ig visszafizetési kötelezettség nélkül adott támogatásként, e törvénynek a Mód. 4. törvénnyel megállapított 143. § (6) bekezdése szerinti rendeletekben meghatározottak szerint átadja az érintett elosztóknak.
 
-(3) Az átviteli rendszerirányító 2019. március 31-ig gondoskodik a 147. § (1) bekezdés a) pontja szerinti elkülönített számlán lévő pénzeszköz maradványának a 147. § (1) bekezdés c) pontja szerinti elkülönített számlára történő átvezetéséről.
+(3)
 
-(4) A (3) bekezdés szerinti átvezetést követően a 147. § (1) bekezdés a) pontja szerinti pénzeszköz megszüntetéséhez kapcsolódó utólagos elszámolásokat a 147. § (1) bekezdés c) pontja szerinti elkülönített számlával szemben kell végrehajtani.
+(4)
 
 (5) E törvénynek a Mód. 4. törvénnyel megállapított 161. §-át első alkalommal a 2019. évi felügyeleti díjbevallás során – a 2018. évi árbevételre vonatkozóan – kell alkalmazni.

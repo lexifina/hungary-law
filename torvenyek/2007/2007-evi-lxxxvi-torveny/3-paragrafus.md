@@ -126,6 +126,8 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 43. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás;
 
+43a. Leolvasás: a fogyasztásmérő-berendezés mérési adatainak a felhasználási helyen hálózati engedélyes által végzett leolvasása, az arra alkalmas fogyasztásmérő-berendezés mérési adatainak hálózati engedélyes általi távlehívása, valamint a fogyasztásmérő-berendezés mérési adatainak a felhasználó részére biztosított applikációval történő rögzítése;
+
 44. Magánvezeték: közcélúnak, termelői vezetéknek vagy közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, vagy átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetlenül vagy közvetve kapcsolódó felhasználó vagy a vételező ellátására szolgál;
 
 45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás, amelyből nap-, szél-, légtermikus, geotermikus, hidrotermikus energia, vízenergia, biomasszából nyert energia – beleértve a biogázból (hulladéklerakóból, illetve szennyvízkezelő létesítményből származó, valamint az egyéb szerves anyagokból előállított éghető gázból) nyert energiát – állítható elő;
@@ -142,9 +144,13 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik Magyarország területén működik;
 
+48a. Okosmérő: olyan fogyasztásmérő-berendezés, amely képes a villamosenergia-fogyasztás és a villamosenergia-hálózatba táplált villamos energia mennyiségét mérni, a mérési adatokat tárolni, valamint elektronikus távkommunikáció útján a mért adatokat továbbítani és távoli utasításokat fogadni tájékoztatás, vezérlés, figyelemmel kísérés és ellenőrzés céljából;
+
 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 
 49a. Profil: statisztikai elemzéssel készült normalizált, 1000 kWh éves fogyasztásra vonatkoztatott éves felhasználói villamosteljesítmény-igény görbe;
+
+49b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők villamos energiára vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik;
 
 50. Rendszerhasználó: aki a közcélú hálózathoz villamos energia betáplálása, illetve vételezése céljából közvetlenül vagy közvetve csatlakozik, ideértve a töltőállomás-üzemeltetőt és a villamosenergia-tárolói engedélyest;
 
