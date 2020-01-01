@@ -23,3 +23,5 @@ h) az e törvényben a hatáskörébe utalt feladatok ellátása.
 (3) Az Integrációs Szervezet felügyelőbizottsági tagjává nem választható, akivel szemben a Hpt. 137. § (4) bekezdésében foglalt valamely kizáró ok fennáll.
 
 (4) Az Integrációs Szervezet alapszabálya a (2) bekezdésben meghatározottakon túl, további hatásköröket állapíthat meg az Integrációs Szervezet felügyelőbizottságának.
+
+(5) Az Integrációs Szervezet felügyelőbizottságának ülésén a 6. § (7) bekezdésében meghatározott miniszter vagy az általa kijelölt személy tanácskozási joggal részt vesz. Az Integrációs Szervezet felügyelőbizottságának üléséről a meghívó tagoknak történő megküldésével egyidejűleg értesíteni kell a 6. § (7) bekezdésében meghatározott minisztert a napirend és a kapcsolódó dokumentumok egyidejű megküldésével.
