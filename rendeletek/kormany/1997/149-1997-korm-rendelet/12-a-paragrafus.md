@@ -1,7 +1,7 @@
-## 12/A. §[^73] Ha a meghallgatandó személy ismeretlen helyen tartózkodik, a gyámhivatal a gyermek vagy a cselekvőképességet érintő gondnokság alatt álló személy érdekében kérheti a bíróságtól az eltűnt személy holtnak nyilvánítását, feltéve, hogy a gyermek vagy a cselekvőképességet érintő gondnokság alatt álló személy törvényes képviselőjének nyilatkozata, szükség esetén egyéb információk beszerzése alapján megállapítható, hogy
+## 12/A. §[^62] Ha a meghallgatandó személy ismeretlen helyen tartózkodik, a gyámhivatal a gyermek vagy a cselekvőképességet érintő gondnokság alatt álló személy érdekében kérheti a bíróságtól az eltűnt személy holtnak nyilvánítását, feltéve, hogy a gyermek vagy a cselekvőképességet érintő gondnokság alatt álló személy törvényes képviselőjének nyilatkozata, szükség esetén egyéb információk beszerzése alapján megállapítható, hogy
 
 a) az érintett személy eltűnésétől öt év eltelt az életben létére utaló bármilyen adat ismertté válása nélkül, és
 
 b) az eltűnt személy közeli hozzátartozója holttá nyilvánítás iránti kérelmet nem terjesztett elő.
 
-[^73]: A 12/A. §-t a 70/2014. (III. 13.) Korm. rendelet 5. §-a iktatta be.
+[^62]: A 12/A. §-t a 70/2014. (III. 13.) Korm. rendelet 5. §-a iktatta be.

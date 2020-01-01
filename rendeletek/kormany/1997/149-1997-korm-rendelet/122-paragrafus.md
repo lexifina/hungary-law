@@ -1,3 +1,3 @@
-122. §[^858]
+122. §[^878]
 
-[^858]: A 122. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés h) pontja hatályon kívül helyezte.
+[^878]: A 122. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés h) pontja hatályon kívül helyezte.

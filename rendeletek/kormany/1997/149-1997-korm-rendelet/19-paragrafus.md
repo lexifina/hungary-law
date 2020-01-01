@@ -6,7 +6,7 @@ a) a másik szülő nem áll szülői felügyelet megszüntetését kimondó ít
 
 b) a másik szülő szülői felügyeleti joga nem szünetel a Ptk. 4:186. § (1) bekezdés a)–d) vagy i) pontja vagy a Ptk. 4:186. § (3) bekezdése alapján, vagy
 
-c)[^93] a gyermek harmadik személynél történő elhelyezése iránt nem indokolt pert indítani.
+c)[^83] a gyermek harmadik személynél történő elhelyezése iránt nem indokolt pert indítani.
 
 (2) Ha a különélő szülők közösen gyakorolják a szülői felügyeleti jogot, és a gyermeket ténylegesen gondozó szülő szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a)–d) vagy i) pontja vagy a Ptk. 4:186. § (3) bekezdése alapján szünetel, vagy szülői felügyeleti jogát a bíróság megszüntette, vagy meghalt, a gyámhivatal felhívja a szülői felügyeleti jogát gyakorló, különélő másik szülőt a gyermek gondozására.
 
@@ -28,4 +28,4 @@ c) szükség esetén rendelkezik a gyám felmentéséről.
 
 (8) Ha a bíróság úgy rendelkezett, hogy a szülői felügyeletet megszüntető határozatának hatálya kihat a később született gyermekre is, a gyámhivatal megvizsgálja annak lehetőségét, hogy a gyermek másik szülője tudja-e a jövőben gyakorolni szülői felügyeleti jogát. Ha a másik szülő szülői felügyeleti jogának gyakorlása akadályozott, a gyámhivatal megvizsgálja, hogy a gyermek nevelésbe vételének vagy örökbefogadásának feltételei fennállnak-e.
 
-[^93]: A 19. § (1) bekezdés c) pontja a 393/2017. (XII. 13.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^83]: A 19. § (1) bekezdés c) pontja a 393/2017. (XII. 13.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

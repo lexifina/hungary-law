@@ -1,3 +1,3 @@
-113. §[^831]
+113. §[^851]
 
-[^831]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^851]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.

@@ -1,14 +1,17 @@
-## A kapcsolattartás megváltoztatása[^158]
+## A kapcsolattartás megváltoztatása[^157]
 
-32. §[^159] (1) A kapcsolattartás megváltoztatása során a gyámhivatal a korábban megállapított kapcsolattartás formájának, gyakoriságának, időtartamának és helyének megváltoztatásáról külön-külön vagy együttesen is dönthet.
+32. §[^158] (1) A kapcsolattartás megváltoztatása során a gyámhivatal a korábban megállapított kapcsolattartás formájának, gyakoriságának, időtartamának és helyének megváltoztatásáról külön-külön vagy együttesen is dönthet.
 
-(2)[^160] Ha a kapcsolattartás megváltoztatására indult eljárásban a rendelkezésre álló adatok szerint a kapcsolattartási jog korlátozása, szüneteltetése vagy megvonása látszik indokoltnak, a gyámhivatal a határozatban megállapított kapcsolattartás végrehajtását az új határozat véglegessé válásáig felfüggesztheti.
+(2)[^159] Ha a kapcsolattartás megváltoztatására indult eljárásban a rendelkezésre álló adatok szerint a kapcsolattartási jog korlátozása, szüneteltetése vagy megvonása látszik indokoltnak, a gyámhivatal a határozatban megállapított kapcsolattartás végrehajtását az új határozat véglegessé válásáig felfüggesztheti.
 
 (3) A gyámhivatal kérelemre a kapcsolattartás megváltoztatására indult eljárásban a gyermek érdekében a kapcsolattartás korlátozását feloldhatja, vagy a kapcsolattartási jogot visszaállíthatja, ha azok a körülmények, amelyekre a határozatát korábban alapította, már nem állnak fenn.
 
-(4)[^161] Nem számít a kapcsolattartás megváltoztatásának, ha a gyámhivatal a kapcsolattartás végrehajtása iránti eljárás során – a kapcsolattartás gyakorlásának elősegítése érdekében – a kapcsolattartás érdemét nem befolyásoló módon dönt a feleknek a 33. § (5) bekezdés b) pontja szerinti, a kapcsolattartás megszervezésére vonatkozó kérelméről.
+(4)[^160] Nem számít a kapcsolattartás megváltoztatásának, ha a gyámhivatal a kapcsolattartás végrehajtása iránti eljárás során – a kapcsolattartás gyakorlásának elősegítése érdekében – a kapcsolattartás érdemét nem befolyásoló módon dönt a feleknek a 33. § (5) bekezdés b) pontja szerinti, a kapcsolattartás megszervezésére vonatkozó kérelméről.
 
-[^158]: A 32. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^159]: A 32. § a 70/2014. (III. 13.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^160]: A 32. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 41. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^161]: A 32. § (4) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+(5)[^161] A kapcsolattartás megváltoztatását a gyámhivatal egységes döntésbe foglalja, amelyben feltünteti a kapcsolattartásra vonatkozó változatlan és megváltozott rendelkezéseket.
+
+[^157]: A 32. §-t megelőző alcím a 70/2014. (III. 13.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^158]: A 32. § a 70/2014. (III. 13.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^159]: A 32. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 41. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^160]: A 32. § (4) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^161]: A 32. § (5) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 1. §-a iktatta be.

@@ -10,9 +10,9 @@ b) letelepedés céljából történő külföldi tartózkodási helyének kijel
 
 (3) A vita elbírálása során a gyámhivatal mérlegeli, hogy a gyermeknek a különélő szülőjével való kapcsolattartását rendező bírósági vagy gyámhivatali határozat végrehajtása nemzetközi szerződés vagy viszonosság hiányában biztosítható-e.
 
-(4)[^96] Ha a szülők a gyermek külföldi tartózkodási helyének kijelölésében nem tudnak egyezségre jutni, a gyámhivatal tájékoztatja a feleket a szülői felügyeleti jog gyakorlásának rendezése iránti bírósági eljárás megindításának lehetőségéről, valamint arról, hogy a gyermek tervezett külföldi tartózkodási helyének figyelembevételével kérhetik a kapcsolattartás rendezését vagy annak megváltoztatását. A gyámhivatal tájékoztatása – a gyermek tervezett külföldi tartózkodási helyére figyelemmel – kiterjed a gyermek jogellenes elvitelének várható jogkövetkezményeire.
+(4)[^93] Ha a szülők a gyermek külföldi tartózkodási helyének kijelölésében nem tudnak egyezségre jutni, a gyámhivatal tájékoztatja a feleket a szülői felügyeleti jog gyakorlásának rendezése iránti bírósági eljárás megindításának lehetőségéről, valamint arról, hogy a gyermek tervezett külföldi tartózkodási helyének figyelembevételével kérhetik a kapcsolattartás rendezését vagy annak megváltoztatását. A gyámhivatal tájékoztatása – a gyermek tervezett külföldi tartózkodási helyére figyelemmel – kiterjed a gyermek jogellenes elvitelének várható jogkövetkezményeire.
 
-(5)[^97] A gyermek huzamos időtartamú vagy letelepedés céljából történő külföldre távozása esetén a gyámhivatal
+(5)[^94] A gyermek huzamos időtartamú vagy letelepedés céljából történő külföldre távozása esetén a gyámhivatal
 
 a) határozatában tájékoztatja a gyermek törvényes képviselőjét
 
@@ -34,8 +34,8 @@ d) – ha hatásköre erre kiterjed – kérelemre dönt a kapcsolattartás rend
 
 e) a gyermek külföldi tartózkodási helyének kijelöléséről szóló határozatát közli a családtámogatási ellátást folyósító szervvel.
 
-(6)[^98] A gyermek külföldi tartózkodási helyének kijelölésére irányuló kérelem elutasítása esetén a gyámhivatal határozatában tájékoztatja a gyermek törvényes képviselőjét – a gyermek tervezett külföldi tartózkodási helyére figyelemmel – a gyermek jogellenes elvitelének várható jogkövetkezményeiről.
+(6)[^95] A gyermek külföldi tartózkodási helyének kijelölésére irányuló kérelem elutasítása esetén a gyámhivatal határozatában tájékoztatja a gyermek törvényes képviselőjét – a gyermek tervezett külföldi tartózkodási helyére figyelemmel – a gyermek jogellenes elvitelének várható jogkövetkezményeiről.
 
-[^96]: A 24. § (4) bekezdése a 306/2018. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^97]: A 24. § (5) bekezdése a 306/2018. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^98]: A 24. § (6) bekezdését a 306/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^93]: A 24. § (4) bekezdése a 306/2018. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^94]: A 24. § (5) bekezdése a 306/2018. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^95]: A 24. § (6) bekezdését a 306/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.

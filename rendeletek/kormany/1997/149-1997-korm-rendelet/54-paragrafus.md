@@ -4,11 +4,11 @@
 
 ## Az eljárás megindítása
 
-54. §[^390] (1)[^391] Ha az anyakönyvvezető apa adatai nélkül anyakönyvezett gyermek születéséről küld értesítést, a gyámhivatal az anyát tájékoztatja arról, hogy
+54. §[^390] (1)[^391] A települési önkormányzat jegyzője az apa adatai nélkül anyakönyvezett gyermek születése esetén tájékoztatja az anyát arról, hogy
 
 a) a gyermek érdekében a családi jogállás rendezése milyen módon biztosítható, és
 
-b) az apai elismerő nyilatkozat felvételére a Gyár. 22. § (2) bekezdés b) pontja alapján bármely gyámhivatal illetékes, valamint, hogy az apai elismerő nyilatkozatot anyakönyvvezető, bíróság vagy közjegyző előtt is meg lehet tenni, ha van olyan férfi, aki a gyermeket magáénak elismeri.
+b) a kiskorú apa apai elismerő nyilatkozatának felvételére a Gyár. 22. § (2) bekezdés b) pontja alapján bármely gyámhivatal illetékes, valamint, hogy az apai elismerő nyilatkozatot anyakönyvvezető, bíróság vagy közjegyző előtt is meg lehet tenni, ha van olyan férfi, aki a gyermeket magáénak elismeri.
 
 (2)[^392] Amennyiben a teljes hatályú apai elismerő nyilatkozat felvételére az anyakönyvezető által küldött értesítés kézhezvételét követő harminc napon belül nem kerül sor, úgy a gyermek családi jogállásának rendezése érdekében az eljárást az illetékes gyámhivatal hivatalból folytatja le.
 
@@ -29,7 +29,7 @@ e) a tizennegyedik életévét betöltött gyermek.
 (5)[^395]
 
 [^390]: Az 54. § a 14/2003. (II. 12.) Korm. rendelet 27. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^391]: Az 54. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^391]: Az 54. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 10. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^392]: Az 54. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 15. pontja szerint módosított szöveg.
 [^393]: Az 54. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 12. pontja, a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés e) pontja szerint módosított szöveg.
 [^394]: Az 54. § (4) bekezdése a 70/2014. (III. 13.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg.
