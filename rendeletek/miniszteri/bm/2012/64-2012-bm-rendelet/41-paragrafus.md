@@ -4,7 +4,7 @@
 
 ## 17. Az egyenruházati termékek viselésének általános szabályai
 
-41. § (1)[^39] Egyenruha viselésére jogosultak az Országgyűlési Őrség hivatásos állományának tagjai. A hivatásos állományból nyugállományba helyezettek kizárólag a társasági ruházatot viselhetik (nyugállományú kiegészítő jelzéssel), amennyiben az egyenruha viselésétől nem tiltották el őket.
+41. § (1)[^58] Egyenruha viselésére jogosultak az Országgyűlési Őrség hivatásos állományának tagjai. A hivatásos állományból nyugállományba helyezettek kizárólag a társasági ruházatot viselhetik (nyugállományú kiegészítő jelzéssel), amennyiben az egyenruha viselésétől nem tiltották el őket.
 
 (2) Az egyenruhás normatípusba sorolt igényjogosult szolgálatban egyenruhát köteles viselni, kivéve, ha szolgálati elöljárója szolgálati érdekből polgári ruha viselését rendeli el.
 
@@ -20,7 +20,7 @@ a) beosztásából felfüggesztették, vagy
 
 b) nem szolgálati céllal külföldön tartózkodik, kivéve, ha az Országgyűlési Őrség parancsnoka azt előzetesen írásban engedélyezte számára.
 
-(7)[^40] Nem engedélyezett
+(7)[^59] Nem engedélyezett
 
 a) az egyenruházat polgári ruházattal történő vegyes viselése,
 
@@ -42,8 +42,8 @@ i) az alapellátási normából kivont vagy nem rendszeresített ruházati cikke
 
 j) az egyenruházati termék és felszerelési cikk polgári öltözetként történő viselése, még egyenruha jellegétől megfosztva is.
 
-(8)[^41] Az egyenruházat elkészíttetése, a kapott ruházati termékek átalakítása, fazonigazítása kizárólag az Országgyűlés Hivatalával szerződéses viszonyban álló vállalkozás vagy személy közreműködésével történhet.
+(8)[^60] Az egyenruházat elkészíttetése, a kapott ruházati termékek átalakítása, fazonigazítása kizárólag az Országgyűlés Hivatalával szerződéses viszonyban álló vállalkozás vagy személy közreműködésével történhet.
 
-[^39]: A 41. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 16. §-ával megállapított szöveg.
-[^40]: A 41. § (7) bekezdését a 9/2018. (IV. 25.) BM rendelet 25. §-a iktatta be.
-[^41]: A 41. § (8) bekezdését a 9/2018. (IV. 25.) BM rendelet 25. §-a iktatta be.
+[^58]: A 41. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 16. §-ával megállapított szöveg.
+[^59]: A 41. § (7) bekezdését a 9/2018. (IV. 25.) BM rendelet 25. §-a iktatta be.
+[^60]: A 41. § (8) bekezdését a 9/2018. (IV. 25.) BM rendelet 25. §-a iktatta be.

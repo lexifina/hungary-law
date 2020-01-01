@@ -1,5 +1,12 @@
 26. § (1) A hivatásos állomány elhunyt tagjának ruházati termékeire és felszerelési cikkeire a szolgálati időre való tekintet nélkül az öröklési jog általános szabályai az irányadók. Az utolsó szolgálati évre jóváírt egész évi ruházati utánpótlási ellátmányt – amennyiben még nem került kifizetésre – az örökös részére az adózási szabályok betartása mellett ki kell fizetni. A kifizetett ruházati utánpótlási ellátmánynak azon részét, amelyre a jogosultság megszűnt, visszatéríttetni nem kell.
 
-(2)[^29] Annak az igényjogosultnak, aki a leadásra kötelezett ruházati termékekkel és felszerelési cikkekkel nem tud elszámolni, a cikkek tárgyévi forintértékének 100%-át kell visszafizetnie.
+(2)[^44] Annak az igényjogosultnak, aki a leadásra kötelezett ruházati termékkel és felszerelési cikkel nem tud elszámolni, a cikk tárgyévi beszerzési árának 50%-át kell visszafizetnie.
 
-[^29]: A 26. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 18. § c) pontja szerint módosított szöveg.
+(3)[^45] A (2) bekezdésben foglaltaktól eltérően a tárgyévi beszerzési ár 100%-át kell visszafizetnie annak az igényjogosultnak,
+
+a) akinek az Országgyűlési Őrségnél töltött szolgálati viszonya nem éri el az egy évet és a leadásra kötelezett ruházati termékekkel és felszerelési cikkekkel nem tud elszámolni, vagy
+
+b) aki az 1. melléklet 27–32. és 60. pontjában szereplő felszerelési cikkekkel nem tud elszámolni.
+
+[^44]: A 26. § (2) bekezdése a 46/2019. (XII. 18.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^45]: A 26. § (3) bekezdését a 46/2019. (XII. 18.) BM rendelet 9. § (2) bekezdése iktatta be.

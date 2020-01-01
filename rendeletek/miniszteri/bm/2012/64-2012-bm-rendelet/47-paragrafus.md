@@ -2,9 +2,9 @@
 
 47. § (1) A kitüntetési szalagsáv elhelyezése a társasági zubbonyon, a bal oldalon lévő zsebtakaró felett közvetlenül, annak szélével párhuzamosan megengedett úgy, hogy a szalagsáv és a zseb középvonala egybeessen. Egy sorban legfeljebb négy kitüntetés viselhető.
 
-(2)[^47] A köztársasági elnök, a Kormány, az Országgyűlés elnöke, továbbá a jogszabályban feljogosított más szerv által alapított kitüntetéseket – az egyes kitüntetések viselésére kiadott szabályozókban meghatározottaknak megfelelően – a társasági zubbonyon a bal zsebtakaró felett elhelyezve kell viselni.
+(2)[^66] A köztársasági elnök, a Kormány, az Országgyűlés elnöke, továbbá a jogszabályban feljogosított más szerv által alapított kitüntetéseket – az egyes kitüntetések viselésére kiadott szabályozókban meghatározottaknak megfelelően – a társasági zubbonyon a bal zsebtakaró felett elhelyezve kell viselni.
 
-(3)[^48] Kitüntetések viselésekor figyelemmel kell lenni arra, hogy
+(3)[^67] Kitüntetések viselésekor figyelemmel kell lenni arra, hogy
 
 a) a kitüntetéseket és szalagsávot a zubbony bal oldalán, a zsebfedő felett, a viselési sorrend szerint balról jobbra – belülről kifelé –, több sor esetén felülről lefelé kell elhelyezni;
 
@@ -22,5 +22,5 @@ g) tizenkettőnél több kitüntetés esetén egy sorban legfeljebb négy kitün
 
 h) több sor esetén a felső sor vagy sorok mindig négy szalagsávból áll, a négynél kevesebb szalagsávot az előbbiekben szabályozott módon, a legalsó sorban kell elhelyezni.
 
-[^47]: A 47. § (2) bekezdése a 9/2018. (IV. 25.) BM rendelet 33. § i) pontja szerint módosított szöveg.
-[^48]: A 47. § (3) bekezdését a 9/2018. (IV. 25.) BM rendelet 27. §-a iktatta be.
+[^66]: A 47. § (2) bekezdése a 9/2018. (IV. 25.) BM rendelet 33. § i) pontja szerint módosított szöveg.
+[^67]: A 47. § (3) bekezdését a 9/2018. (IV. 25.) BM rendelet 27. §-a iktatta be.

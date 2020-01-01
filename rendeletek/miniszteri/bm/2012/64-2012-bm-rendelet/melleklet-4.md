@@ -80,7 +80,7 @@
 
 | 39. | rövid ujjú póló | 3 | 2 |
 
-4. melléklet a 64/2012. (XII. 12.) BM rendelethez[^59]
+4. melléklet a 64/2012. (XII. 12.) BM rendelethez[^78]
 
 ## Az egyenruhán viselhető jelzések, díszítőelemek, jelvények, kitüntetések, felszerelési tárgyak
 
@@ -138,8 +138,9 @@
 
 4.4. kardbojt,
 
-4.5. zsinóröv, parlamenti, bordó (tiszti: aranyozott, tiszthelyettesi: ezüstözött).
+4.5.[^79] zsinóröv, parlamenti bordó.
 
 5. Kitüntetések: a 47. § (1)–(3) bekezdésében foglaltak alapján.”
 
-[^59]: A 4. mellékletet a 9/2018. (IV. 25.) BM rendelet 31. § (3) bekezdése iktatta be.
+[^78]: A 4. mellékletet a 9/2018. (IV. 25.) BM rendelet 31. § (3) bekezdése iktatta be.
+[^79]: A 4. melléklet 4. pont 4.5. alpontja a 46/2019. (XII. 18.) BM rendelet 12. § (2) bekezdésével megállapított szöveg.

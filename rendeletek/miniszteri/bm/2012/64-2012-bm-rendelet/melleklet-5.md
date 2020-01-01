@@ -1,4 +1,4 @@
-5. melléklet a 64/2012. (XII. 12.) BM rendelethez[^60]
+5. melléklet a 64/2012. (XII. 12.) BM rendelethez[^80]
 
 Ruházati protokollszintek a személyvédelmi feladatok ellátása során
 
@@ -16,4 +16,4 @@ f) V.: farmernadrág, póló, pulóver, ing, sportcipő, kabát;
 
 g) VI.: időjárásnak és alkalomnak megfelelő polgári ruházat.
 
-[^60]: Az 5. mellékletet a 9/2018. (IV. 25.) BM rendelet 31. § (4) bekezdése iktatta be.
+[^80]: Az 5. mellékletet a 9/2018. (IV. 25.) BM rendelet 31. § (4) bekezdése iktatta be.

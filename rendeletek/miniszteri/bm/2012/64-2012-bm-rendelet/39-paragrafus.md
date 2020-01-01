@@ -1,4 +1,4 @@
-## 38. §[^38] Az Országgyűlés Hivatala a használatra természetben kiadott munkaruházat mennyiségét, viselési idejét és bekerülési értékét, valamint a természetben kiadott egyéni védőruha, védőfelszerelés mennyiségét és bekerülési értékét a személyi leltárban tartja nyilván.
+## 38. §[^57] Az Országgyűlés Hivatala a használatra természetben kiadott munkaruházat mennyiségét, viselési idejét és bekerülési értékét, valamint a természetben kiadott egyéni védőruha, védőfelszerelés mennyiségét és bekerülési értékét a személyi leltárban tartja nyilván.
 
 ## V. Fejezet
 
@@ -22,4 +22,4 @@ c) tisztító, karbantartó felszerelés (lábbeli tisztító- és varrókészle
 
 d) füzet (A/5), íróeszköz.
 
-[^38]: A 38. § a 9/2018. (IV. 25.) BM rendelet 32. § m) pontja szerint módosított szöveg.
+[^57]: A 38. § a 9/2018. (IV. 25.) BM rendelet 32. § m) pontja szerint módosított szöveg.

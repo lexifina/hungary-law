@@ -12,10 +12,10 @@
 
 (3) Az alapfelszerelési ellátmány az egyenruházati felszereltség megalapozását szolgálja.
 
-(4)[^11]
+(4)[^19]
 
 (5) Az egyenruhás, a vegyes és polgári ruhás normába sorolt állomány a ruházati utánpótlási kötelezettségének teljesítése után a ruházati utánpótlási ellátmány terhére polgári ruházati termékeket is vásárolhat.
 
 (6) A közvetlen szolgálati elöljáró folyamatosan ellenőrzi a beosztott ruházatát, és mindazon termékeket és cikkeket pótoltatja, amelyek az alapellátási normában előírt mennyiséggel szemben hiányoznak, vagy amelyek utánpótlása elhasználtság miatt szükséges.
 
-[^11]: A 13. § (4) bekezdését a 47/2016. (XI. 23.) BM rendelet 12. §-a hatályon kívül helyezte.
+[^19]: A 13. § (4) bekezdését a 47/2016. (XI. 23.) BM rendelet 12. §-a hatályon kívül helyezte.

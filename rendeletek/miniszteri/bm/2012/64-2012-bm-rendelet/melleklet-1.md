@@ -1,4 +1,4 @@
-1. melléklet a 64/2012. (XII. 12.) BM rendelethez[^57]
+1. melléklet a 64/2012. (XII. 12.) BM rendelethez[^76]
 
 1. Ruházati alapellátási normák
 
@@ -18,19 +18,19 @@
 
 | 6. | Szolgálati nadrág | db | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 | 1 | 2 | 2 | 1 | 1 | 2 |
 
-| 7. | Szolgálati többfunkciós nadrág | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 3 |
+| 7. | Szolgálati többfunkciós nadrág | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 5 |
 
 | 8. | Szolgálati többfunkciós kabát | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 5 |
 
 | 9. | Tépőzáras rf. jelzés többfunkciós kabátra | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 5 |
 
-| 10. | Szolgálati esővédő kabát | db | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 3 |
+| 10. | Szolgálati esővédő kabát | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 5 |
 
 | 11. | Szolgálati sapka | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 2 |
 
 | 12. | Szolgálati téli sapka | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 2 |
 
-| 13. | Szolgálati csősál | db | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  | 2 |
+| 13. | Szolgálati csősál | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 2 |
 
 | 14. | Szolgálati bakancs | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 3 |
 
@@ -156,4 +156,4 @@
 
 2.14. P2: női polgári ruhás alapellátási norma
 
-[^57]: Az 1. melléklet a 9/2018. (IV. 25.) BM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^76]: Az 1. melléklet a 9/2018. (IV. 25.) BM rendelet 31. § (1) bekezdésével megállapított, a 46/2019. (XII. 18.) BM rendelet 12. § (1) bekezdése szerint módosított szöveg.
