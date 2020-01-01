@@ -20,6 +20,6 @@ b) keret tranzitengedély.
 
 (8) Ha az ügy elbírálása érdekében további adatokra van szükség, a Hatóság az (5) bekezdésben meghatározott adatokon túl egyéb, a végfelhasználás igazolására szolgáló okmányokat is bekérhet.
 
-(9)[^30] Tranzit során a haditechnikai eszközök – az ügylet teljesítéséhez szükséges – tárolásának a 15. § (2) bekezdése szerinti biztonsági feltételeknek megfelelően kell történnie, erre feljogosító tevékenységi engedély alapján.
+(9)[^28] Tranzit során a haditechnikai eszközök – az ügylet teljesítéséhez szükséges – tárolásának a 15. § (2) bekezdése szerinti biztonsági feltételeknek megfelelően kell történnie, erre feljogosító tevékenységi engedély alapján.
 
-[^30]: A 24. § (9) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 8. §-a iktatta be.
+[^28]: A 24. § (9) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 8. §-a iktatta be.

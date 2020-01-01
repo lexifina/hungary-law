@@ -8,6 +8,6 @@
 
 (2) A 3. § (4)–(6) bekezdése, a 7. § (2) bekezdése, a 34. § (3) bekezdése és a 38. § (4) bekezdése 2018. január 1-jén lép hatályba.
 
-(3)[^34]
+(3)[^33]
 
-[^34]: A 34. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 34. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

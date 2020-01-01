@@ -32,23 +32,13 @@ b) az engedély kiadását követően olyan változás áll be, amely alapján a
 
 (5) A Hatóság az (1) bekezdés f) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
 
-(6) A Hatóság az engedély hatályát legfeljebb 6 hónapos időtartamra felfüggesztheti, és az engedélyben foglalt jogok gyakorlását a felfüggesztés időtartamára megtilthatja, ha
+(6)[^19]
 
-a)[^19] a (2) bekezdés alapján – ide nem értve az (1) bekezdés c) pontja szerinti eseteket – az engedély visszavonásának lenne helye, és az erre okot adó körülmény megszüntetése érdekében az engedéllyel rendelkező vállalkozás (a továbbiakban: engedélyes) a Hatósággal együttműködik,
-
-b)[^20] az engedélyes tulajdonosa, vezető tisztségviselője, valamint a haditechnikai termék gyártásához vagy szolgáltatás nyújtásához közvetlenül kapcsolódó munkakörben alkalmazott munkatársa a Httv. 5. §-ban foglalt személyi követelményeknek nem felel meg, ha az engedélyes vállalja, hogy ezt az állapotot megszünteti, vagy
-
-c)[^21] a tárgyalási, bróker- vagy forgalmi engedély kiadását követően olyan változás állt be, amely alapján az arra vonatkozó engedély iránti kérelemnek az (1) bekezdés f) pontja alapján a 2. melléklet szerinti elutasításának lenne helye,
-
-d)[^22] a (2) bekezdés és az (1) bekezdés c) pontja alapján az engedély visszavonásának lenne helye, azonban az erre okot adó körülmény az (1) bekezdés c) pontja szerinti szervek írásos véleménye alapján megszüntethető, és megszüntetése érdekében az engedélyes a Hatósággal együttműködik.
-
-(7) A Hatóság a felfüggesztett hatályú engedélyt visszavonja, ha a felfüggesztésre okot adó körülmény a (6) bekezdés szerinti időtartam lejártát követően is fennáll.
+(7)[^20]
 
 (8) Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek jogszabályban meghatározott tevékenységének ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
 
 [^17]: A 9. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^18]: A 9. § (4) bekezdését az Alkotmánybíróság 5/2019. (III. 11.) AB határozat 1. pontjával megsemmisítette 2019. március 12. napjával.
-[^19]: A 9. § (6) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^20]: A 9. § (6) bekezdés b) alpontja a 165/2019. (VII. 8.) Korm. rendelet 12. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^21]: A 9. § (6) bekezdés c) pontja a 165/2019. (VII. 8.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^22]: A 9. § (6) bekezdés d) pontját a 165/2019. (VII. 8.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^19]: A 9. § (6) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^20]: A 9. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
