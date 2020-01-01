@@ -1,18 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet címrendjének a 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoporttal történő kiegészítését;
+## 1.[^1]
 
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## 2. az Áht. 33. § (2) bekezdésében és a Kvtv. 19. § (2) bekezdésében biztosított jogkörében eljárva az egyes megyei jogú városok fejlesztési célú támogatása érdekében 24 000,0 millió forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 6. Modern Városok Program támogatása cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoport javára, az 1. melléklet szerint;
-
-## Felelős: belügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. egyetért azzal, hogy a Miniszterelnökséget vezető miniszter a 2. pont szerinti költségvetési kiadási előirányzat terhére
 
@@ -32,12 +20,11 @@
 
 ## Határidő: a beszámoló benyújtását követő 60 napon belül
 
-## 6.[^1]
+## 6.[^3]
 
-1. melléklet az 1003/2016. (I. 13.) Korm. határozathoz
+1. melléklet az 1003/2016. (I. 13.) Korm. határozathoz[^4]
 
-IX. Helyi önkormányzatok támogatásai
-
-XI. Miniszterelnökség
-
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
