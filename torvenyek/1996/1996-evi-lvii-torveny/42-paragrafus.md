@@ -1,4 +1,16 @@
-42. § (1) A Gazdasági Versenyhivatal elnöke a miniszterrel, elnökhelyettese a közigazgatási államtitkárral, főtitkára a helyettes államtitkárral azonos illetményben, illetve juttatásokban részesül azzal, hogy az elnök vezetői illetménypótléka az alapilletményének 110%-a, az elnökhelyettes vezetői illetménypótléka az alapilletményének 100%-a, a főtitkár vezetői illetménypótléka az alapilletményének 90%-a, továbbá az elnök és az elnökhelyettes illetménykiegészítése az alapilletményük 80%-a, a főtitkár illetménykiegészítése az alapilletményének 70%-a. A Versenytanács tagjának alapilletménye a köztisztviselői illetményalap tízszerese, vezetői illetménypótléka az alapilletményének 80%-a.
+42. § (1) A Gazdasági Versenyhivatal elnökének havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-a, az elnökhelyettes illetménye az elnök havi illetményének 90%-a, a főtitkár illetménye az elnök havi illetményének 60%-a.
+
+(1a) A Versenytanács tagjának az illetménye az Elnök havi illetményének 50%-a.
+
+(1b) Az (1) bekezdés szerinti illetményen túl a Gazdasági Versenyhivatal
+
+a) elnöke miniszteri,
+
+b) elnökhelyettese államtitkári, valamint
+
+c) főtitkára helyettes államtitkári
+
+juttatásra jogosult.
 
 (2) A Gazdasági Versenyhivatal elnökét, elnökhelyettesét, főtitkárát és a Versenytanács tagját minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
 
