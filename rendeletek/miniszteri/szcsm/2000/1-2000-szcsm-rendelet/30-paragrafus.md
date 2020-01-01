@@ -1,8 +1,8 @@
-## 4. CÍM[^123]
+## 4. CÍM[^124]
 
-## Szociális diagnózis[^124]
+## Szociális diagnózis[^125]
 
-30. §[^125] (1) A szociális diagnózist a szociális diagnózist készítő esetmenedzser a (2) bekezdés szerinti adattartalommal, a szociál- és nyugdíjpolitikáért felelős miniszter által e célra rendszeresített, Szociális Ágazati Portálon közzétett adatlapon készíti el.
+30. §[^126] (1) A szociális diagnózist a szociális diagnózist készítő esetmenedzser a (2) bekezdés szerinti adattartalommal, a szociál- és nyugdíjpolitikáért felelős miniszter által e célra rendszeresített, Szociális Ágazati Portálon közzétett adatlapon készíti el.
 
 (2) A szociális diagnózis az egyén
 
@@ -48,6 +48,6 @@ c) az igénylő tájékoztatása a számára szükséges szolgáltatások elérh
 
 (10) A szociális diagnózist készítő esetmenedzsernek a foglalkoztatás kezdő időpontjától számított egy éven belül el kell végeznie a szociális diagnózist készítő esetmenedzseri képzést. Nem kell elvégezni a szociális diagnózist készítő esetmenedzseri képzést azon személyeknek, akik részt vettek az EFOP-3.8.2-16 „Szociális humán erőforrás fejlesztés” elnevezésű, európai uniós finanszírozású projekt keretében szervezett képzésben.
 
-[^123]: A II. fejezet 4. címét (30–36. §) az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte.
-[^124]: A „Szociális diagnózis” alcím címét a 4/2019. (II. 27.) EMMI rendelet 14. §-a iktatta be.
-[^125]: A 30. §-t az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte, újonnan a 4/2019. (II. 27.) EMMI rendelet 14. §-a iktatta be.
+[^124]: A II. fejezet 4. címét (30–36. §) az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte.
+[^125]: A „Szociális diagnózis” alcím címét a 4/2019. (II. 27.) EMMI rendelet 14. §-a iktatta be.
+[^126]: A 30. §-t az 55/2015. (XI. 30.) EMMI rendelet 30. § e) pontja hatályon kívül helyezte, újonnan a 4/2019. (II. 27.) EMMI rendelet 14. §-a iktatta be.

@@ -24,6 +24,6 @@ k) folyamatosan nyújtott – általános és speciális – szociális munka es
 
 l) az egyén együttműködési szándékának felmérésére.
 
-(2)[^335] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
+(2)[^347] A komplex szükségletfelmérést célcsoport-specifikus, fogyatékosság esetén fogyatékosság-specifikus módszerekkel, felmérő eszközökkel kell elvégezni.
 
-[^335]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^347]: A 110/C. § (2) bekezdése a 2/2015. (I. 14.) EMMI rendelet 13. § c) pontja szerint módosított szöveg.

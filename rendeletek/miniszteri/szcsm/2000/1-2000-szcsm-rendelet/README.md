@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-1-20-85
 | 2018-10-03 | 2000-1-20-85.37 | 7/2018. (II. 5.) EMMI rendelet |
 | 2018-10-15 | 2000-1-20-85.38 | 36/2018. (X. 12.) EMMI rendelet |
 | 2019-02-28 | 2000-1-20-85.39 | 4/2019. (II. 27.) EMMI rendelet |
+| 2020-01-01 | 2000-1-20-85.40 | 2/2006. (IV. 14.) ICSSZEM rendelet |

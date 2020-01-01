@@ -1,3 +1,3 @@
-## 16–17. §[^73]
+## 17. §[^74]
 
-[^73]: A 16–17. §-t és a 16. §-t megelőző alcímet a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^74]: A 17. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte.

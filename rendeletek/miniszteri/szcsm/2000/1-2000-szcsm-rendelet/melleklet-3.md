@@ -140,13 +140,17 @@
 
 | MUNKAKÖRÖK | utcai szociális munka | hajléktalan személyek nappali melegedője |
 
-| intézményvezető | – a szociális munkatársak közül 1 fő, – integrált intézmény esetében az integrált intézmény vezetője vagy az általa kijelölt személy | 1 fő |
+|  |  | 103/A. § (1) bekezdése szerinti esetben | 103/A. § (2) bekezdése szerinti esetben |
 
-|  | szolgálatonként | intézményenként | ezenfelül 50 főre vetítve |
+| intézményvezető | – a szociális munkatársak közül 1 fő, | 1 fő | 1 fő |
 
-| szociális munkatárs | 2 fő | heti 20 óra | további heti 20 óra |
+| – integrált intézmény esetében az integrált intézmény vezetője vagy az általa kijelölt személy |
 
-| segítő | 2 fő | további 1 fő |
+|  | szolgálatonként | 50 főre vetítve | 50 főre vetítve | intézményenként |
+
+| szociális munkatárs | 2 fő | heti 20 óra | heti 20 óra | további heti 20 óra |
+
+| segítő | 1 fő | 1 fő | további 2 fő |
 
 | IV. 2. |
 
@@ -402,7 +406,7 @@
 
 ## 14. A három műszakos folyamatos ellátást biztosító intézményben – a drogbetegeket ellátó intézményt, a hajléktalanok átmeneti szállását és a lakóotthont kivéve – az ápolói, gondozói feladatok ellátásához minimálisan 5 fő alkalmazása szükséges az intézményvezetőn és a kisegítő személyzeten kívül.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^380]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^394]
 
 ## A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimum előírásai
 
@@ -450,4 +454,4 @@ Kiegészítő szabály:
 
 3. Az intézményvezető a fogyatékkal élő, pszichiátriai beteg, szenvedélybeteg, demens személyeket gondozó bentlakást nyújtó intézmények esetén a gondozó, ápoló és terápiás munkakörök vonatkozásában munkakörönként legalább 1-1 fő, az adott szakmai egység célcsoportjának megfelelő, e melléklet szerinti kiegészítő szakirányú képesítéssel rendelkező foglalkoztatott jelenlétét köteles minden műszakban biztosítani.
 
-[^380]: A 3. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 17. § (2) bekezdésével megállapított, a 4/2019. (II. 27.) EMMI rendelet 19. §-a szerint módosított szöveg.
+[^394]: A 3. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 17. § (2) bekezdésével megállapított, a 4/2019. (II. 27.) EMMI rendelet 19. §-a szerint módosított szöveg.

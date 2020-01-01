@@ -50,7 +50,7 @@
 
 | A nyilvántartási adatlap kitöltése mellett gondozási naplót kell vezetni az ellátottal kapcsolatos fontosabb eseményekről, az időpont megjelölésével |
 
-14. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^390]
+14. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^404]
 
 | Összegző lap |
 
@@ -186,4 +186,4 @@ Dátum:
 
 Aláírás:
 
-[^390]: A 14. számú mellékletet újonnan az 55/2013. (VII. 29.) EMMI rendelet 12. § (2) bekezdése iktatta be, szövege az 1/2017. (II. 14.) EMMI rendelet 57. § (5) bekezdésével megállapított, a Magyar Közlöny 2017. évi 23. számában megjelent helyesbítésnek megfelelő szöveg.
+[^404]: A 14. számú mellékletet újonnan az 55/2013. (VII. 29.) EMMI rendelet 12. § (2) bekezdése iktatta be, szövege az 1/2017. (II. 14.) EMMI rendelet 57. § (5) bekezdésével megállapított, a Magyar Közlöny 2017. évi 23. számában megjelent helyesbítésnek megfelelő szöveg.
