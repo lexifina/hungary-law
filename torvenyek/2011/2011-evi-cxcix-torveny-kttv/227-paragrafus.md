@@ -4,4 +4,4 @@
 
 (2)
 
-(3) Az Országgyűlési Őrség köztisztviselői, ügykezelői és munkavállalói felett – a 2012. évi XXXVI. törvény 132. § (1) bekezdés c) pontja alapján – a munkáltatói jogokat a parancsnok gyakorolja.
+(3)

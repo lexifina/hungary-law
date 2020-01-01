@@ -10,4 +10,4 @@ b)
 
 (4)
 
-(5) A kormánytisztviselő a teljesítményértékelés vagy minősítés tartalmának vizsgálata iránt a Közszolgálati Döntőbizottsághoz fordulhat. A Közszolgálati Döntőbizottság határozatával szemben kizárólag jogi tények vizsgálata tekintetében, jogszabálysértésre hivatkozással – hibás vagy valótlan ténymegállapításának megsemmisítése iránt – a kormánytisztviselő közszolgálati jogvitát kezdeményezhet a bíróságnál.
+(5)

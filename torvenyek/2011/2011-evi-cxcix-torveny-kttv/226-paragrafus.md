@@ -26,7 +26,7 @@ c) a rendelkezési állományú katona továbbfoglalkoztatására vonatkozó ren
 
 d) a kormányzati érdekből történő kirendelés (55. §),
 
-e) a jogvitára, valamint a Közszolgálati Döntőbizottságra vonatkozó rendelkezések (190–191. §),
+e)
 
 f) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdés,
 

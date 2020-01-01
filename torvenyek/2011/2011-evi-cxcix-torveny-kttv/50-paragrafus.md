@@ -1,6 +1,6 @@
 ## Kötelező részmunkaidő kikötése
 
-50. § (1) A teljes munkaidőben foglalkoztatott kormánytisztviselő írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz órás részmunkaidőt kikötni, ha a kormánytisztviselő a kérelem benyújtásakor a 111. §-ban foglalt fizetés nélküli szabadságot vesz igénybe.
+50. § (1) A teljes munkaidőben foglalkoztatott kormánytisztviselő írásbeli kérelmére a munkáltató köteles a kinevezésben heti húsz órás részmunkaidőt kikötni, ha a kormánytisztviselő a kérelem benyújtásakor a 111. § (1) bekezdésében foglalt fizetés nélküli szabadságot vesz igénybe.
 
 (2) A munkáltató a kormánytisztviselőnek a munkaidő egyenlőtlen beosztására vonatkozó kérelmét csak abban az esetben tagadhatja meg, ha az számára lényegesen nagyobb munkaszervezési terhet jelentene. A munkáltató köteles írásban megindokolni a kérelem megtagadását.
 
@@ -20,7 +20,7 @@ b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztá
 
 a) a kérelem szerinti időpontig, de
 
-b) legfeljebb a gyermek hároméves koráig, három vagy több gyermeket nevelő kormánytisztviselő esetén a gyermek ötéves koráig
+b) legfeljebb a gyermek négyéves koráig, három vagy több gyermeket nevelő kormánytisztviselő esetén a gyermek hatéves koráig
 
 köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
 

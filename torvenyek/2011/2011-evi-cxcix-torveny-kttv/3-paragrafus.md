@@ -14,4 +14,4 @@
 
 (8)
 
-(9) Törvény eltérő rendelkezése hiányában a nemzeti köznevelésről szóló törvény szerinti oktatási központ mint az oktatásért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szerv, valamint a köznevelési közfeladat ellátásában fenntartóként részt vevő tankerületi központ kormánytisztviselőjének, kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára is e törvény rendelkezéseit kell alkalmazni, azzal, hogy a tankerületi központban foglalkoztatott kormánytisztviselők esetében a 134. § (3) bekezdésében foglaltak az irányadóak, a tankerületi központ vezetőjének az illetményalap huszonhatszorosát meg nem haladó mértékű illetményét az oktatási központ vezetőjének javaslatára a kinevezési jogkör gyakorlója állapítja meg.
+(9)

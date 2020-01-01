@@ -1,4 +1,4 @@
-113. § (1) A kormánytisztviselőnek gyermeke személyes gondozása érdekében – a 111. §-ban foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának időtartama alatt.
+113. § (1) A kormánytisztviselőnek gyermeke személyes gondozása érdekében – a 111. § (1) bekezdésében foglaltakon túl – fizetés nélküli szabadság jár a gyermek tizedik életéve betöltéséig a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósításának időtartama alatt.
 
 (2) A kormánytisztviselőnek hozzátartozója tartós – előreláthatólag harminc napot meghaladó – személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadság jár. A tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja.
 

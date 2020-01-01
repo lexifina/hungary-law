@@ -18,7 +18,7 @@ b) az Európai Szociális Kartáról szóló megállapodásban résztvevő álla
 
 is létesíthető, ha a feladatkör ellátásához szükséges mértékű magyar nyelvismerettel rendelkezik.
 
-(2a) Az (1) bekezdés c) pontjától eltérően kormányzati ügykezelőként tartós külszolgálatra az helyezhető ki, aki legalább a nemzeti köznevelésről szóló 2011. évi CXC. törvény 9. § (6) bekezdése szerinti középfokú végzettséggel rendelkezik.
+(2a) Az (1) bekezdés c) pontjától eltérően kormányzati ügykezelőként tartós külszolgálatra az helyezhető ki, aki legalább középfokú végzettséggel rendelkezik.
 
 (3) Az e törvényben meghatározott alkalmazási feltételek alól felmentés nem adható.
 

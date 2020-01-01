@@ -10,7 +10,7 @@ d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet 
 
 e) a fegyelmi eljárást lefolytató testület vagy személy,
 
-f) közszolgálati jogvita kapcsán az eljáró bíróság, illetve a közszolgálati panasz kapcsán a Közszolgálati Döntőbizottság,
+f) közszolgálati jogvita kapcsán az eljáró bíróság,
 
 g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
 
