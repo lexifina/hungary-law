@@ -1,173 +1,3 @@
-## Nyilatkozat
-
-## „a felszámolási eljárás, illetve végelszámolás alatt álló gazdálkodó szervezet telephelyén fennálló vagy telephelyéről, származott (származó) környezeti károsodásokról, környezeti terhekről, amelyekből bírságfizetési vagy egyéb fizetési kötelezettség, károsodások, terhek rendezéséhez szükséges kiadás származhat.
-
-## 1/A.[^29] A felszámolás, végelszámolás alatt álló gazdálkodó szervezet azonosító adatai: név, székhely, KSH-szám, cégjegyzékszám, eljárást elindító bírói végzés száma, eljárás kezdete:
-
-## ...........................................
-
-## További — más környezetvédelmi hatóságok illetékességi területéhez tartozó — telephelyek felsorolása:
-
-## ...........................................
-
-## 1/B. A telephely állapota
-
-## Cím, hrsz.:
-
-## ...........................................
-
-## ...........................................
-
-## Területe:
-
-## — belterület (ha): ………………
-
-## — külterület (ha): ………………
-
-## (belterülettől való legkisebb távolság: …………… (m)
-
-## Közösen használt telephely esetén a telephely más használója:
-
-## ...........................................
-
-## A telephely területén jelenleg folytatott tevékenység(ek), TEÁOR-számok megjelölésével:
-
-## ...........................................
-
-## Az alkalmazott technológiák, berendezések (ideértve a jelenleg használaton kívüli, továbbá a környezetvédelmi berendezéseket is) rövid leírása:
-
-## ...........................................
-
-## A felszámolás/végelszámolás kezdő időpontjától számított legalább 10 évre visszamenőleg — saját, vagy jogelőd által — folytatott tevékenység(ek) (TEÁOR-számok megjelölésével), az alkalmazott technológiák, berendezések rövid leírása (amennyiben 10 éven belül a telephelyen nem jogelőd szervezet folytatott tevékenységet, erre nézve elegendő a nyilatkozó tudomása szerinti tevékenységek közlése):
-
-## ...........................................
-
-## Van-e tudomása a gazdálkodó szervezet, vagy jogelődje által végzett egyéb tevékenységről a 10 évnél régebbi időszakra vonatkozóan (ha igen, ismertesse):
-
-## ...........................................
-
-## A telephely állapotát befolyásolt, ismerete szerinti rendkívüli események (pl. korábbi tereprendezés, talajfeltöltési, építési, bontási munkák, haváriák, balesetek stb.):
-
-## ...........................................
-
-## A telephelyre vonatkozó környezetvédelmi, természetvédelmi, vízügyi és vízvédelmi, valamint kulturális örökségvédelmi korlátozások, előírások; ezen belül:
-
-## — természetvédelmi oltalom
-
-## — műemlékvédelmi oltalom
-
-## — levegőtisztaság-védelmi kategória
-
-## — zajvédelmi kategória
-
-## — vízbázisvédelmi korlátozások (védőterület)
-
-## ténye:
-
-## ...........................................
-
-## A telephelynek van-e környezetvédelmi megbízottja/felelőse?
-
-## (Ha igen, név):
-
-## ...........................................
-
-## Környezetvédelmi vonatkozású polgári peres eljárásban érintett-e a gazdálkodó szervezet (ha megállapítható: az adott telephely), illetve érintett volt-e a felszámolás/végelszámolás kezdő időpontját 5 évre visszamenőleg megelőzően:
-
-## Ha igen, a tényállásról rövid leírás, vagy — ítélet esetén — az mellékelendő.
-
-## 2. A környezeti állapot részletes jellemzése
-
-## 2.1.[^30] Levegőszennyezési (emissziós) adatok
-
-## Ismertetni kell azokat az emissziós légszennyezési komponenseket, amelyekre a telephelyen kibocsátási határérték érvényes, továbbá össze kell hasonlítani a megengedett és a tényleges emissziókat.
-
-## Ismertetni kell az érvényben lévő — nem a környezetvédelmi hatóság által megállapított — levegőtisztaság-védelmi hatósági kötelezéseket, valamint a teljesítés érdekében tett intézkedéseket.
-
-## 2.2. Vizek igénybevétele és terhelése
-
-## Ismertetni kell a jellemző vízhasználatokat (ivóvíz-felhasználás, technológiai víz igények kielégítése, vízszintsüllyesztés, víztelenítés stb.) és vízi munkákat, illetve az arra jogosító engedélyeket, az engedélyektől való eltéréseket.
-
-## Be kell mutatni a szennyvízkeletkezések helyét, a szennyvizek jelenlegi mennyiségi, minőségi adatait a szennyvízbírságolási eljárás hatálya alá nem tartozó, illetőleg ez alá nem vont kibocsátások esetében.
-
-## Ismertetni kell a szennyvíz összegyűjtésére, tisztítására és elhelyezésére vonatkozó adatokat, továbbá az iszapkezelésre és -elhelyezésre vonatkozó adatokat.
-
-## Ki kell térni a csapadékvíz rendszerre is, akár egyesített, akár elválasztó rendszerű a csatornahálózat.
-
-## Ismertetni kell az esetleges talajvízszennyezés tényét, lehetőségét, a rendelkezésre álló dokumentumok alapján, annak jellemzőit (kiterjedését, jellegét).
-
-## 2.3. Hulladékkezelés, tárolás, szállítás
-
-## Ismertetni kell technológiánként a jelenleg keletkező és az alapbejelentéstől vagy részletes változás jelentéstől eltérő veszélyes hulladékokat (mennyiség, minőség, kódszám), valamint azonos bontásban a jelenleg a telephelyen vagy azon kívül tárolt veszélyes hulladékokat, ideértve a bértárolást is.
-
-## A veszélyes hulladékokra be kell mutatni a gyűjtés, az előkezelés, az átmeneti tárolás, az ártalmatlanítás és a szállítás telephelyen belüli megoldásait, vonatkozó mennyiségeit és az esetleges telephelyen kívüli (mással végeztetett) előkezelés, szállítás, átmeneti tárolás (illetve bértárolás) és ártalmatlanítás módozatait és vonatkozó mennyiségi jellemzőit is, valamint a saját kezelésre vagy más célból, mástól átvett veszélyes hulladékokra vonatkozó adatokat, esetleges szerződéseket.
-
-## Külön ismertetni kell a területrendezésből, illetve bontásból származó veszélyes hulladékokat, valamint ártalmatlanításukat, az előzőek szerint. Ismertetni kell a terület esetleges feltöltésének anyagát, tíz évre visszamenőleg.
-
-## Ismertetni kell a telephelyen vagy a telephelyi tevékenységből eredő, a telephelyen kívül felhalmozott, veszélyesnek nem minősített hulladék előfordulását.
-
-## 2.4. Veszélyes anyag, alapanyag kezelés és tárolás
-
-## Ismertetni kell a telephelyen vagy azon kívül tárolt veszélyes anyagok (mérgező, fertőző, sugárzó, tűz- és robbanásveszélyes anyagok) megnevezését, mennyiségét.
-
-## Be kell mutatni a veszélyes anyagokra vonatkozóan a szállítás, tárolás, felhasználás, illetve hasznosítás körülményeit.
-
-## Ismertetni kell 5 évre visszamenőleg a veszélyes anyagokkal kapcsolatosan bekövetkezett rendkívüli eseményeket.
-
-## Külön ki kell térni a föld alatti tárolótartályokra. Meg kell nevezni a tartályok számát, térfogatát, a bennük tárolt anyagot, a tároló korát, az esetleges meghibásodásokat, és ismertetni kell az ezek köré telepített megfigyelő rendszerek működését. Csatolni kell az utolsó nyomáspróbák jegyzőkönyvének másolatát.
-
-## 2.5.[^31] Zaj és egyéb fizikai tényezők
-
-## A felszámolás/végelszámolás alatt folytatott tevékenység esetén össze kell hasonlítani a vonatkozó terhelési határértékeket a tényleges terhelési helyzettel.
-
-## Ismertetni kell a telephely környezetében — nem a környezetvédelmi hatóság által — megállapított zaj- és vibrációs terhelési szintet.
-
-## 2.6. Talajvédelem
-
-## Öt évre visszamenőleg ismertetni kell a területen elvégzett talajvédelmi beavatkozásokat.
-
-## Ismertetni kell az esetleges talajszennyezésre utaló körülményeket, különösen a 2.2., 2.3. és 2.4. pontok tartalmával összefüggésben, valamint az egyéb lehetséges hatótényezőkkel (hígtrágya stb.) összefüggésben.
-
-## 2.7. Erdővagyon-védelem
-
-## Ismertetni kell a felszámolás alatt álló gazdálkodó szervezet tulajdonában, kezelésében vagy használatában lévő, az erdő rendeltetésének figyelembevételével elkészített és hatályos üzemterv előírásaihoz képest megváltozott jelenlegi állapotot, az üzemtervtől való eltérés mértékét, illetve a rendeltetéseknek meg nem felelő gazdálkodás esetén a gazdálkodás megváltoztatására hozott erdőfelügyelőségi határozatokat, a teljesítés érdekében tett intézkedéseket.
-
-## 2.8. Természetvédelem
-
-## Ismertetni kell a védett területen természetvédelmi szempontból érvényesített főbb természetvédelmi és az ezzel kapcsolatos gazdálkodási korlátozásokat.
-
-## Tájékoztatást kell adni ismerete szerint a védett területen kívül előforduló fokozottan védett növény- és állatfajok, veszélyeztetett növénytársulások előfordulásáról.
-
-## Külön ismertetni kell a telephely területét érintő esetleges bányaművelés hatásait (földtani károsodások, meddőhányók stb.) vagy a korábban folytatott bányaművelés hatásait, ha a rekultivációs tevékenységek még nem fejeződtek be.
-
-## 2.9. A környezeti állapot részletes jellemzőinek összefoglalásaként be kell mutatni a telephelyen tapasztalható, vagy a telephelyről eredő jelentős környezeti károsodásokat vagy veszélyeztetéseket, melyet a telephelyi tevékenység vagy annak beszüntetése okoz.
-
-## 3. A telephely környezeti állapotából származó környezeti terhek, teendők
-
-## A 2. pont szerkezetében be kell mutatni azokat a teendőket (kárelhárítás, haváriamegelőzési, környezettisztítási, hulladékkezelési beavatkozásokat, környezetvédelmi beruházásokat, technológiai módosításokat, utóhasznosítási feladatokat stb.), melyek a telephelyen tapasztalható vagy telephelyről eredő környezetkárosodás, -veszélyeztetés megszüntetéséhez, illetve a környezetvédelmi, természetvédelmi, vízügyi és vízvédelmi követelmények kielégítéséhez szükségesnek tart.
-
-## E teendőket ütemezetten, valamint — azok műszaki tartalmát átfogóan bemutatva — költségbecsléssel ellátva kell meghatározni. A teendők ütemezésénél irányadó a rendelet 2. számú mellékletének II. Fejezet 2. pontjának tartalma.
-
-## 4. Van-e tudomása az 1—2. pontban nem ismertetett, a telephelyen korábban bármilyen időszakban folytatott tevékenységből eredő, vagy a telephelyet ért környezeti károsodás gyanújáról:
-
-## ...........................................
-
-## 5. Egyéb megjegyzések:
-
-## ...........................................
-
-## Nyilatkozatát milyen rendelkezésre álló információk, dokumentumok alapján tette:
-
-## ...........................................
-
-## Büntetőjogi felelősségem tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek:
-
-## Kiállítás kelte
-
-## Aláírás
-
-## Cégbélyegző
-
 2. számú melléklet a 106/1995. (IX. 8.) Korm. rendelethez
 
 A felszámolás során előírható környezeti állapotvizsgálat követelményei
@@ -200,7 +30,7 @@ A telephelyen kívülre terjedő szennyezések mértékének függvényében jel
 
 2. A hatótényezők és a környezeti állapot részletes jellemzése
 
-2.1.[^32] Levegőszennyezési (emissziós) adatok
+2.1.[^29] Levegőszennyezési (emissziós) adatok
 
 Ismertetni kell azokat az emissziós légszennyezési komponenseket, amelyekre a telephelyen kibocsátási határérték érvényes. Ismertetni kell az egyes jelenleg meglévő — üzemelő vagy nem üzemelő — pontforrásokat és diffúz forrásokat. Össze kell hasonlítani a megengedett és a tényleges emissziókat.
 
@@ -212,7 +42,7 @@ Ismertetni kell az érvényben lévő — nem a környezetvédelmi hatóság ál
 
 Be kell mutatni az emissziónak a háttérszennyezettségre gyakorolt hatását, csökkentésének szükségességét.
 
-2.2.[^33] Vizek igénybevétele és terhelése
+2.2.[^30] Vizek igénybevétele és terhelése
 
 Ismertetni kell a jellemző vízhasználatokat és vízi munkákat, illetve az arra jogosító engedélyeket, az engedélyektől való eltéréseket.
 
@@ -230,7 +60,7 @@ Ismertetni kell a talajvízszennyezés hatótényezőit és jellemzőit.
 
 Három évre visszamenőleg be kell mutatni a rendkívüli eseményeket.
 
-A környezeti állapotvizsgálatnak meg kell felelnie a felszín alatti vizek védelméről szóló külön jogszabály[^34] tényfeltárási záródokumentációra vonatkozó tartalmi követelményeinek.
+A környezeti állapotvizsgálatnak meg kell felelnie a felszín alatti vizek védelméről szóló külön jogszabály[^31] tényfeltárási záródokumentációra vonatkozó tartalmi követelményeinek.
 
 2.3. Hulladékkezelés, tárolás, szállítás
 
@@ -244,7 +74,7 @@ Külön ki kell térni a talajfelszín alatt lerakott, vagy tereprendezés sorá
 
 Be kell mutatni az esetleges bontásból származó hulladékok mennyiségét, kezelését, külön kiemelve veszélyesnek minősülő hulladékok mennyiségét és minőségét, kezelési módját.
 
-2.4.[^35] Veszélyes anyag, alapanyag kezelés és tárolás
+2.4.[^32] Veszélyes anyag, alapanyag kezelés és tárolás
 
 Ismertetni kell a telephelyen vagy azon kívül tárolt veszélyes anyagok megnevezését, mennyiségét és azt, hogy mióta használja ezt az adott telephely.
 
@@ -274,19 +104,19 @@ Külön kell foglalkozni az alább felsorolt anyagokkal:
 
 Be kell mutatni a föld alatti tárolótartályok számát, térfogatát, elhelyezkedését, a bennük tárolt anyagot, a tároló korát, az esetleges meghibásodásokat, és ismertetni kell a tárolók köré telepített megfigyelő rendszerek működését (a megfigyelések gyakoriságát, a megfigyelésekből származó információkat, adatokat), különös figyelemmel a felszín alatti vízkészletekre gyakorolt hatásokra. Ki kell térni az elvégzett nyomáspróbák, karbantartási és óvintézkedések idejére és eredményére is.
 
-2.5.[^36] Zaj és egyéb fizikai tényezők
+2.5.[^33] Zaj és egyéb fizikai tényezők
 
 Ismertetni kell a telephely részére korábban — nem a környezetvédelmi hatóság által — meghatározott határértékeket. A felszámolás/végelszámolás alatt folytatott tevékenység esetén össze kell hasonlítani a tényleges terhelési helyzetet a határértékben meghatározottal.
 
 Ismertetni kell a telephely környezetében — nem a környezetvédelmi hatóság által — megállapított zaj- és vibrációs terhelési szintet.
 
-2.6.[^37] Talajvédelem
+2.6.[^34] Talajvédelem
 
 Tíz évre visszamenőleg ismertetni kell a területen elvégzett talajvédelmi beavatkozásokat, rekultivációs tevékenységet.
 
 Ismertetni kell a — telephelyen vagy a telephelyi tevékenységből származó, de telephelyen kívüli — talajszennyezés jellemzőit, különösen a 2.2., 2.3. és 2.4. pontok tartalmával összefüggésben, valamint az egyéb lehetséges hatótényezőkkel (hígtrágya stb.) összefüggésben.
 
-A környezeti állapotvizsgálatnak meg kell felelnie a felszín alatti vizek védelméről szóló külön jogszabály[^38] tényfeltárási záródokumentációra vonatkozó tartalmi követelményeinek.
+A környezeti állapotvizsgálatnak meg kell felelnie a felszín alatti vizek védelméről szóló külön jogszabály[^35] tényfeltárási záródokumentációra vonatkozó tartalmi követelményeinek.
 
 2.7. Erdővagyon-védelem
 
@@ -304,7 +134,7 @@ Jelezni kell a telephely 5 km-es sugarában található védett természeti ter�
 
 Külön ismertetni kell a telephely területét érintő esetleges bányaművelés hatásait (földtani károsodások, meddőhányók stb.), vagy a korábban folytatott bányaművelés hatásait, ha a rekultivációs tevékenységek még nem fejeződtek be.
 
-II.[^39] A környezeti terhek rendezéséhez szükséges teendők
+II.[^36] A környezeti terhek rendezéséhez szükséges teendők
 
 Az állapotvizsgálatnak ki kell terjednie azon — hatósági határozatban előírt, vagy egyébként szükségesnek tartott, a bemutatott problémák megoldását szolgáló — ütemezett teendőkre, amelyek az ismertetett környezetkárosodások, -veszélyeztetések megszüntetéséhez, illetve a környezetvédelmi, természetvédelmi, vízügyi és vízvédelmi, valamint kulturális örökségvédelmi követelmények kielégítéséhez szükségesek.
 
@@ -336,14 +166,11 @@ A környezeti terhek rendezéséhez szükséges teendők költségbecslését me
 
 A költségbecslés mellett jelezni kell, hogy e teendők a tovább működtethető, vagy utóhasznosítását igénylő vagyon piaci értékesíthetőségét miként érintik (amennyiben a teendőket az új tulajdonosnak kell végrehajtania).
 
-[^29]: Az 1. számú melléklet 1/A. pontja a 70/2015. (III. 30.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
-[^30]: Az 1. számú melléklet 2.1. pontja a 70/2015. (III. 30.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
-[^31]: Az 1. számú melléklet 2.5. pontja a 70/2015. (III. 30.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
-[^32]: A 2. számú melléklet 2.1. pontja a 70/2015. (III. 30.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
-[^33]: A 2. számú melléklet I. fejezetének 2.2. pontja a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (2) bekezdése szerint módosított szöveg.
-[^34]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
-[^35]: A 2. számú melléklet 2.4. pontja a 70/2015. (III. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^36]: A 2. számú melléklet 2.5.pontja a 70/2015. (III. 30.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.
-[^37]: A 2. számú melléklet I. fejezetének 2.6. pontja a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (2) bekezdése szerint módosított szöveg.
-[^38]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
-[^39]: A 2. számú melléklet II. pontja a 221/2014. (IX. 4.) Korm. rendelet 162. § e) pontja szerint módosított szöveg.
+[^29]: A 2. számú melléklet 2.1. pontja a 70/2015. (III. 30.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
+[^30]: A 2. számú melléklet I. fejezetének 2.2. pontja a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (2) bekezdése szerint módosított szöveg.
+[^31]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
+[^32]: A 2. számú melléklet 2.4. pontja a 70/2015. (III. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^33]: A 2. számú melléklet 2.5.pontja a 70/2015. (III. 30.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.
+[^34]: A 2. számú melléklet I. fejezetének 2.6. pontja a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (2) bekezdése szerint módosított szöveg.
+[^35]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
+[^36]: A 2. számú melléklet II. pontja a 221/2014. (IX. 4.) Korm. rendelet 162. § e) pontja szerint módosított szöveg.
