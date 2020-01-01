@@ -1,6 +1,6 @@
 ## 32. § A nem magyar állampolgár támogatott személy a tartózkodási jogosultsága fennállását évente, legkésőbb január 31-ig igazolja a hitelintézet részére. A nem magyar állampolgár támogatott személy a tartózkodási jogosultságában bekövetkezett változást 8 napon belül köteles a hitelintézetnek bejelenteni.
 
-33. §[^110] (1) Az állami adóhatóság a családi otthonteremtési kedvezmény igénylésekor tett nyilatkozatok valóságtartalmát, valamint a 14. § (10) bekezdése szerinti nyilatkozatban vállalt kötelezettség teljesülését valamennyi támogatott személynél a támogatási szerződés megkötésétől a 14. § (3) bekezdés j) pontjában meghatározott időszak végéig hatósági ellenőrzés keretében vizsgálja.
+33. §[^112] (1) Az állami adóhatóság a családi otthonteremtési kedvezmény igénylésekor tett nyilatkozatok valóságtartalmát, valamint a 14. § (10) bekezdése szerinti nyilatkozatban vállalt kötelezettség teljesülését valamennyi támogatott személynél a támogatási szerződés megkötésétől a 14. § (3) bekezdés j) pontjában meghatározott időszak végéig hatósági ellenőrzés keretében vizsgálja.
 
 (2) A járási hivatal a támogatott személynél a családi otthonteremtési kedvezmény igénybevételének jogszerűségét hatósági ellenőrzés keretében vizsgálja.
 
@@ -8,4 +8,4 @@
 
 (4) Az állami adóhatóság az (1) bekezdésben foglalt, a járási hivatal a (2) bekezdésben foglalt ellenőrzést követő eljárás eredményéről a folyósító hitelintézetet írásban tájékoztatja.
 
-[^110]: A 33. § a 26/2018. (II. 28.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^112]: A 33. § a 26/2018. (II. 28.) Korm. rendelet 33. §-ával megállapított szöveg.

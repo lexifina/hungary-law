@@ -4,7 +4,7 @@
 
 (2) Az ezen alcím rendelkezései szerinti támogatásokra vonatkozó kérelem 2022. június 30-áig nyújtható be.
 
-(3) Az ezen alcím rendelkezései szerinti családi otthonteremtési kedvezményre és otthonteremtési kamattámogatásra az igénylő, együttes igénylők esetén bármelyik igénylő egy alkalommal jogosult.
+(3)[^77] Az ezen alcím rendelkezései szerinti családi otthonteremtési kedvezményre, otthonteremtési kamattámogatásra és adó-visszatérítési támogatásra az igénylő, együttes igénylők esetén bármelyik igénylő egy alkalommal jogosult.
 
 (4) A preferált kistelepülésen ezen alcím szerinti családi otthonteremtési kedvezmény iránti kérelem használt lakás vásárlására abban az esetben nyújtható be, ha az igénylő ugyanazon kérelemben a lakás
 
@@ -31,3 +31,4 @@ c) korszerűsítésére és bővítésére,
 (7) Ha az igénylő a korszerűsítési és a bővítési munkálatokra egyaránt igényel családi otthonteremtési kedvezményt, azt a kérelem egyidejűleg történő benyújtásával teheti meg.
 
 [^76]: A 7/A. alcímet (19/A–19/H. §) a 109/2019. (V. 13.) Korm. rendelet 3. §-a iktatta be.
+[^77]: A 19/A. § (3) bekezdése a 276/2019. (XI. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
