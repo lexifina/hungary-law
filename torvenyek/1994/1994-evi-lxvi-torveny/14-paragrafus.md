@@ -6,7 +6,7 @@ a) A Tanács 1980. október 20-i, a munkáltató fizetésképtelensége esetén 
 
 b) Az Európai Parlament és a Tanács 2002. szeptember 23-i, a munkáltató fizetésképtelensége esetén a munkavállalók védelmére vonatkozó tagállami jogszabályok közelítéséről szóló 80/987/EGK tanácsi irányelv módosításáról szóló 2002/74/EK irányelve.
 
-(3)
+(3) Ez a törvény a szociális biztonsági rendszerek koordinálásáról szóló 2004. április 29-i 883/2004/EK európai parlamenti és a tanács rendelet 12. cikk (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (4)
 
