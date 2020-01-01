@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-175-00-00
 | 2018-07-26 | 2018. évi XL. törvény | 2011-175-00-00.30 |
 | 2018-07-31 | 2018. évi XLVI. törvény | 2011-175-00-00.31 |
 | 2019-01-01 | 2018. évi XCIII. törvény | 2011-175-00-00.32 |
+| 2020-01-01 | 2019. évi CXVII. törvény | 2011-175-00-00.33 |

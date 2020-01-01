@@ -2,7 +2,7 @@
 
 a) politikai párt vezető testületének tagja, tisztségviselője,
 
-b) állami vezető, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja, megyei (fővárosi), települési önkormányzat képviselő-testületének tagja, polgármester, alpolgármester, Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó tag vagy hozzátartozója,
+b) politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja, megyei (fővárosi), települési önkormányzat képviselő-testületének tagja, polgármester, alpolgármester, Nemzeti Gazdasági és Társadalmi Tanácsban civil szervezetek képviseletét ellátó tag vagy hozzátartozója,
 
 c) a Tanács tagjának vagy a kollégium tagjának hozzátartozója,
 
@@ -10,7 +10,11 @@ d) az, aki a jelölését megelőző öt éven belül olyan civil szervezet veze
 
 e) az, akinek a megbízatása visszavonással szűnt meg,
 
-f) az, aki a megelőző mindkét ciklusban az Alap valamely testületének tagja volt.
+f)
+
+(1a) Nem lehet a Tanács tagja az, aki a megelőző mindkét ciklusban a Tanács tagja volt.
+
+(1b) Nem lehet a kollégiumnak a tagja az a személy, aki a megelőző mindkét ciklusban ugyanezen kollégiumnak a tagja volt.
 
 (2) A Tanács tagja és a kollégium tagja a megbízásakor nyilatkozik, hogy nem áll fenn vele szemben az (1) bekezdésben foglalt kizárási ok. Ha a kizárást megalapozó körülmény a megbízást követően keletkezik, a tag köteles az összeférhetetlenséget az azt megalapozó körülmény keletkezésétől számított harminc napon belül megszüntetni.
 
