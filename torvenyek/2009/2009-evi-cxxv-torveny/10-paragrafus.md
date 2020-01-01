@@ -6,4 +6,4 @@
 
 (3) Közszolgáltatási tevékenység esetén a jelnyelvi tolmácsolás költségét a tevékenységet végző, illetve a szolgáltatást nyújtó szerv, szervezet vagy intézmény viseli.
 
-(4) A közoktatásról szóló törvény, a szakképzésről szóló törvény, a felsőoktatásról szóló törvény és a felnőttképzésről szóló törvény alapján megszervezett szóbeli vizsgák során a jelnyelvi tolmácsolás költségét a vizsgát szervező intézmény viseli.
+(4) A nemzeti köznevelésről szóló törvény, a szakképzésről szóló törvény, a nemzeti felsőoktatásról szóló törvény és a felnőttképzésről szóló törvény alapján megszervezett szóbeli vizsgák során a jelnyelvi tolmácsolás költségét a vizsgát szervező intézmény viseli.
