@@ -14,7 +14,7 @@ b) a pénzellátások – beleértve az egyösszegű térítést és a temetési
 
 c) kizárólag a hadirokkant és a hadiözvegy esetében a hadigondozotti igazolvány kiadásáról,
 
-d) a pénzellátás szüneteltetéséről, megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
+d) a pénzellátás szüneteltetéséről, – haláleset kivételével – a megszüntetéséről, valamint a jogalap nélkül felvett pénzellátás visszafizetéséről.
 
 (3) Az elsőfokú hadigondozási hatóság a hadigondozásba vett személyről a következő nyilvántartást vezeti:
 
