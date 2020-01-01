@@ -1,1 +1,1 @@
-20/A. § A 14. § b) és c) pontja szerinti, valamint a beruházási célú támogatások esetén a támogatott a tárgyi eszközt köteles elkülönítetten nyilvántartani és 5 évig – ingatlan esetén 10 évig – költségvetési hozzájárulással támogatott gyakorlati képzés céljaira használni.
+20/A. §
