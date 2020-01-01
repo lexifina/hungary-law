@@ -1,4 +1,4 @@
-## 6. §[^20] Ha ahhoz valamennyi megjelent írásban hozzájárult, a mezőgazdasági igazgatási szerv az árverésről kép- és hangfelvételt készít, az eljárás jogszerű lefolytatásának ellenőrizhetősége érdekében. A felvételek csak a bíróság, a büntetőügyben eljáró hatóság és az árverési jegyzőkönyv elleni jogorvoslat elbírálására jogosult hatóság részére adhatók ki, és részükre biztosítható a felvételekbe való betekintés. A felvételt a mezőgazdasági igazgatási szerv 3 hónap elteltével, de legkésőbb az e rendelet alapján megindult jogorvoslati eljárás befejezéséig, törli.
+## 6. §[^20] Ha ahhoz valamennyi megjelent írásban hozzájárult, a mezőgazdasági igazgatási szerv az árverésről kép- és hangfelvételt készít, az eljárás jogszerű lefolytatásának ellenőrizhetősége érdekében. A felvételek csak a büntetőügyben eljáró bíróság, ügyészség, nyomozó hatóság részére adhatók ki, és részükre biztosítható a felvételekbe való betekintés. A felvételt a mezőgazdasági igazgatási szerv 3 hónap elteltével, de legkésőbb az e rendelet alapján megindult jogorvoslati eljárás befejezéséig törli.
 
 7. § (1) Az árverés megkezdésekor a kikiáltó az árverezőkkel közli a föld kikiáltási árát, ismerteti az árverési feltételeket, ellenőrzi az árverezők árverezésre jogosultságát, felhívja a jelenlevő elővásárlásra jogosultakat, hogy jelöljék meg elővásárlási jogosultságuk mely törvényen, és az ott meghatározott sorrend mely ranghelyén áll fenn, továbbá felhívja az árverezőket ajánlatuk megtételére. A föld kikiáltási ára a becsérték összege.
 
@@ -16,6 +16,6 @@
 
 (8)[^22] Érvényes vételi ajánlatnak a (2)–(4) bekezdése szerinti minimálárat elérő 3 legmagasabb ajánlat minősül.
 
-[^20]: A 6. § a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^20]: A 6. § a 360/2019. (XII. 30.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^21]: A 7. § (3) bekezdése a 186/2018. (X. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^22]: A 7. § (8) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
