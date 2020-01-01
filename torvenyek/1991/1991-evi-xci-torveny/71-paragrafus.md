@@ -1,1 +1,0 @@
-71. § A Kormány 1992. szeptember 15-éig tájékoztatja az Országgyűlést az államháztartás helyzetéről. A beszámolónak tartalmaznia kell a központi költségvetés és az elkülönített állami pénzalapok előirányzatainak alakulását, a tartalékfelhasználást, a hiány, illetőleg többlet összegének alakulását, a központi költségvetés teljesülésének várható alakulását.

@@ -1,1 +1,0 @@
-6. § Felhasználási kötöttséggel járó állami támogatás illeti meg az önálló színházat (kőszínházat, szabadtéri színpadot, bábszínházat) fenntartó önkormányzatot az 5. számú mellékletben foglalt részletezés szerint.

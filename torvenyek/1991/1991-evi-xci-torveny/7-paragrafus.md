@@ -1,3 +1,0 @@
-7. § (1) A helyi önkormányzatok kiemelt fontosságú feladataira címzett és céltámogatásként 26.640 millió forint áll rendelkezésre. Ennek felhasználásáról külön törvény rendelkezik.
-
-(2) Az alap- és középfokú kollégiumi ellátáshoz fejlesztés, bővítés, felújítás, továbbá a középiskolai tornaterem építése támogatási célokhoz 1.500 millió forint elkülönített tartalékot kell képezni. A két célra az önkormányzatok 1992. február 28-áig jelenthetik be TÁH-okon keresztül a Belügyminisztériumnak támogatási igényüket. Erről a Kormány 1992. április 30-áig terjesszen elő törvényjavaslatot az Országgyűlésnek.

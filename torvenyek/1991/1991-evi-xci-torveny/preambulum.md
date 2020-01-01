@@ -1,3 +1,0 @@
-Az 1992. évi gazdaságpolitika középpontjában a gazdaság struktúrális átalakítása, az infláció mérséklése, valamint — a piacgazdaság építésével együttjáró — foglalkoztatási és szociális gondok enyhítése áll. A hosszabb távra szóló gazdasági növekedés megalapozása érdekében fokozatosan mérsékelni kell a költségvetésen keresztüli jövedelemátcsoportosítást úgy, hogy közben a kiadások belső arányai is módosuljanak az alapvető társadalmi és gazdasági követelményekhez igazodóan.
-
-Az Országgyűlés a közpénzekkel való hatékony és ellenőrizhető gazdálkodás igényével a Magyar Köztársaság 1992. évi költségvetéséről (a továbbiakban: központi költségvetés) és annak végrehajtásához kapcsolódóan az államháztartás vitelének egyes átmeneti szabályairól a következő törvényt alkotja:

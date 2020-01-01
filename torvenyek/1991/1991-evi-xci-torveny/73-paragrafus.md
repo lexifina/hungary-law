@@ -1,1 +1,0 @@
-73. § E törvény hatálybalépésével egyidejűleg a Magyar Köztársaság 1991. évi állami költségvetéséről és az államháztartás vitelének 1991. évi szabályairól szóló 1990. évi CIV. törvény Első rész 8—21. §, 22. § (2) bekezdése és 23. §-a, a Harmadik rész 36. § (1) és (5) bekezdése, 37. és 43. §-a hatályát veszti.

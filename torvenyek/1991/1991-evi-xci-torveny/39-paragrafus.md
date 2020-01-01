@@ -1,1 +1,0 @@
-39. § 1992-ben az államadósság köre bővül, és nagysága — az 1992. évi költségvetési hiányt fedező értékpapír-műveleteken kívül — növekszik azon speciális (nem hiányfinanszírozó) kincstári kötvény állományával, amely az 1990. évi CIV. törvény 66. § (1) bekezdésében foglalt rendelkezések miatt 1991—92. években fedezetlenné vált lakásalap-kötvények helyébe kerül kibocsátásra.

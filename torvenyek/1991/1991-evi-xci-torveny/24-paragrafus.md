@@ -1,1 +1,0 @@
-24. § Az Országgyűlés felhatalmazza a Kormányt, hogy a központi költségvetés terhére a Nemzetközi Újjáépítési és Fejlesztési Bankkal, az Európai Beruházási Bankkal, az Európai Újjáépítési és Fejlesztési Bankkal — ezen intézmények által megkívánt formában — és az Exportgarancia Rt. által kötendő hitelszerződéseknél összegszerű korlátozás nélkül kezességet vállaljon.

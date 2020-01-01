@@ -1,1 +1,0 @@
-22. § A nem állami intézmények — kivéve a pártokat —, más társadalmi és szakmai szervezetek — a 20—21. §-okban foglaltakon kívül — a fejezetek ágazati, szakmai célú pénzeszközei terhére és az elkülönített állami pénzalapokból is részesülhetnek támogatásban, az azok felosztására, felhasználására vonatkozó szabályok keretei között.
