@@ -30,6 +30,6 @@
 
 | Név: _____________________________________ Lakóhely (tartózkodási hely): □□□□, _________________________________ Aláírás: __________________________________ | Név: _____________________________________ Lakóhely (tartózkodási hely): □□□□, ___________________________________ Aláírás: ____________________________________ |
 
-9. melléklet a 35/2008. (XII. 31.) PM rendelethez[^18]
+9. melléklet a 35/2008. (XII. 31.) PM rendelethez[^19]
 
-[^18]: A 9. melléklet a 77/2013. (XII. 31.) NGM rendelet 10. § (5) bekezdésével megállapított, az 52/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés 1. pontja szerint módosított szöveg.
+[^19]: A 9. melléklet a 77/2013. (XII. 31.) NGM rendelet 10. § (5) bekezdésével megállapított, az 52/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés 1. pontja szerint módosított szöveg.

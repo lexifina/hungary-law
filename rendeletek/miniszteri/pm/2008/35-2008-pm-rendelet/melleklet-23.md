@@ -326,6 +326,6 @@
 
 | _____________________________ helység | □□□□ év | □□ hó | □□ nap | _________________________________________ a bejelentésbenyújtó vagy képviselője (meghatalmazottja) aláírása |
 
-23. melléklet a 35/2008. (XII. 31.) PM rendelethez[^31]
+23. melléklet a 35/2008. (XII. 31.) PM rendelethez[^32]
 
-[^31]: A 23. mellékletet a 60/2016. (XII. 29.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege az 52/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés 5. pontja szerint módosított szöveg.
+[^32]: A 23. mellékletet a 60/2016. (XII. 29.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege az 52/2017. (XII. 29.) NGM rendelet 2. § (3) bekezdés 5. pontja szerint módosított szöveg.

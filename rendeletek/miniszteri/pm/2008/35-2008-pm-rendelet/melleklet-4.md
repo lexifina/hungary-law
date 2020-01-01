@@ -108,6 +108,6 @@
 
 | □ Az önkormányzati adóhatósághoz bejelentett pénzügyi képviselő |
 
-4. melléklet a 35/2008. (XII. 31.) PM rendelethez[^13]
+4. melléklet a 35/2008. (XII. 31.) PM rendelethez[^14]
 
-[^13]: A 4. mellékletet a 77/2013. (XII. 31.) NGM rendelet 11. § b) pontja hatályon kívül helyezte.
+[^14]: A 4. mellékletet a 77/2013. (XII. 31.) NGM rendelet 11. § b) pontja hatályon kívül helyezte.

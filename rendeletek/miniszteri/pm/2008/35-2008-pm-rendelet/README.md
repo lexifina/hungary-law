@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-35-20-5
 | 2017-01-01 | 2008-35-20-53.9 | 77/2013. (XII. 31.) NGM rendelet |
 | 2018-01-01 | 2008-35-20-53.10 | 52/2017. (XII. 29.) NGM rendelet |
 | 2019-01-01 | 2008-35-20-53.11 | 13/2018. (XII. 18.) PM rendelet |
+| 2020-01-01 | 2008-35-20-53.12 | 21/2019. (XII. 23.) PM rendelet |

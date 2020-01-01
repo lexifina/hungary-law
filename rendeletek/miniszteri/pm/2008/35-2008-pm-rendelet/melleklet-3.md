@@ -58,6 +58,6 @@
 
 | helység | év | hó | nap | Az adatbejelentő vagy képviselője (meghatalmazottja) aláírása |
 
-3. melléklet a 35/2008. (XII. 31.) PM rendelethez[^12]
+3. melléklet a 35/2008. (XII. 31.) PM rendelethez[^13]
 
-[^12]: A 3. melléklet az 52/2017. (XII. 29.) NGM rendelet 2. § (2) bekezdés 2. pontjával megállapított, a 13/2018. (XII. 18.) PM rendelet 6. § (3) bekezdés 3. pontja szerint módosított szöveg.
+[^13]: A 3. melléklet az 52/2017. (XII. 29.) NGM rendelet 2. § (2) bekezdés 2. pontjával megállapított, a 13/2018. (XII. 18.) PM rendelet 6. § (3) bekezdés 3. pontja szerint módosított szöveg.

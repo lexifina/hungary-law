@@ -236,6 +236,6 @@
 
 | _____________________ helység | □□□□ év | □□ hó | □□ nap | _________________________ Az adatbejelentő vagy képviselője aláírása |
 
-2. melléklet a 35/2008. (XII. 31.) PM rendelethez[^11]
+2. melléklet a 35/2008. (XII. 31.) PM rendelethez[^12]
 
-[^11]: A 2. mellékletet a 77/2013. (XII. 31.) NGM rendelet 11. § a) pontja hatályon kívül helyezte, újonnan az 52/2017. (XII. 29.) NGM rendelet 2. § (1) bekezdés 1. pontja iktatta be, szövege a 13/2018. (XII. 18.) PM rendelet 6. § (3) bekezdés 2. pontja szerint módosított szöveg.
+[^12]: A 2. mellékletet a 77/2013. (XII. 31.) NGM rendelet 11. § a) pontja hatályon kívül helyezte, újonnan az 52/2017. (XII. 29.) NGM rendelet 2. § (1) bekezdés 1. pontja iktatta be, szövege a 13/2018. (XII. 18.) PM rendelet 6. § (3) bekezdés 2. pontja szerint módosított szöveg.
