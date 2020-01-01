@@ -1,8 +1,8 @@
-## Alkalmazott orvos részvétele alapellátást végző egészségügyi szolgáltatás nyújtása során[^82]
+## Alkalmazott orvos részvétele alapellátást végző egészségügyi szolgáltatás nyújtása során[^84]
 
-12/D. §[^83] (1) Az a szakorvos-jelölt, illetve szakorvos, aki tevékenységét a praxisjoghoz kötött egészségügyi szolgáltatást nyújtó egészségügyi szolgáltató alkalmazásában vagy ezen egészségügyi szolgáltatóval kötött megbízási szerződés alapján végzi (e § alkalmazásában a továbbiakban együtt: alkalmazott orvos), önálló orvosi tevékenységet nem végezhet, abban kizárólag a praxisjoggal rendelkező orvos felelősségi körén belül és utasításai alapján, az egészségügyi szolgáltatóval fennálló munkaviszony vagy a megbízás keretei között vehet részt.
+12/D. §[^85] (1) Az a szakorvos-jelölt, illetve szakorvos, aki tevékenységét a praxisjoghoz kötött egészségügyi szolgáltatást nyújtó egészségügyi szolgáltató alkalmazásában vagy ezen egészségügyi szolgáltatóval kötött megbízási szerződés alapján végzi (e § alkalmazásában a továbbiakban együtt: alkalmazott orvos), önálló orvosi tevékenységet nem végezhet, abban kizárólag a praxisjoggal rendelkező orvos felelősségi körén belül és utasításai alapján, az egészségügyi szolgáltatóval fennálló munkaviszony vagy a megbízás keretei között vehet részt.
 
-(2)[^84] Az alkalmazott orvos – a (3) bekezdésben meghatározottak szerint – a háziorvost akkor helyettesítheti, ha a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló miniszteri rendeletben foglalt szakmai és személyi feltételeknek megfelel.
+(2)[^86] Az alkalmazott orvos – a (3) bekezdésben meghatározottak szerint – a háziorvost akkor helyettesítheti, ha a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló miniszteri rendeletben foglalt szakmai és személyi feltételeknek megfelel.
 
 (3) A háziorvos helyettesítéséhez szükséges szakmai feltételekkel rendelkező alkalmazott orvos a következő tevékenységek elvégzésére jogosult:
 
@@ -34,6 +34,6 @@ d) az ellátni kívánt egészségügyi szakma vagy szakmák megnevezését, sza
 
 e) az alkalmazott orvos nevét, pecsétszámát, egészségügyi alkalmassági vizsgálatának dátumát és eredményét.
 
-[^82]: A 12/D. §-t megelőző alcímet a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
-[^83]: A 12/D. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
-[^84]: A 12/D. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^84]: A 12/D. §-t megelőző alcímet a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
+[^85]: A 12/D. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
+[^86]: A 12/D. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
