@@ -1,6 +1,8 @@
+## 5. §[^23]
+
 ## Speciális közfoglalkoztatási program támogatása
 
-5/A. §[^34] (1) Támogatás nyújtható a járási hivatal által kiközvetített mentális, szociális, egészségügyi problémákkal küzdő álláskereső határozott idejű közfoglalkoztatási jogviszony keretében, napi 6 órás munkaidőben történő foglalkoztatására.
+5/A. §[^24] (1) Támogatás nyújtható a járási hivatal által kiközvetített mentális, szociális, egészségügyi problémákkal küzdő álláskereső határozott idejű közfoglalkoztatási jogviszony keretében, napi 6 órás munkaidőben történő foglalkoztatására.
 
 (2) A támogatás közfoglalkoztatási pontnak minősülő közfoglalkoztató részére nyújtható.
 
@@ -14,7 +16,7 @@ b) önkormányzati nonprofit gazdasági társaság.
 
 a) a speciális közfoglalkoztatási bér és az ahhoz kapcsolódó szociális hozzájárulási adó mértékének 100 százalékáig,
 
-b) az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatallal (a továbbiakban: kormányhivatal) történő előzetes egyeztetés szerinti 3. § (4) bekezdésében meghatározott közvetlen költséghez, amelynek mértéke nem haladhatja meg a speciális közfoglalkoztatási bérhez és az ahhoz kapcsolódó szociális hozzájárulási adóhoz nyújtott támogatás 20 százalékát,
+b)[^25] az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatallal (a továbbiakban: kormányhivatal) történő előzetes egyeztetés szerinti 4. § (7) bekezdésében meghatározott közvetlen költséghez, amelynek mértéke nem haladhatja meg a speciális közfoglalkoztatási bérhez és az ahhoz kapcsolódó szociális hozzájárulási adóhoz nyújtott támogatás 20 százalékát,
 
 c) a speciális közfoglalkoztatási program megvalósításához szükséges beruházási költségekhez – ideértve a speciális munkahely kialakításához kapcsolódó költségeket – 100 százalék mértékig,
 
@@ -28,7 +30,9 @@ e) a speciális közfoglalkoztatási program megvalósításához szükséges an
 
 (7) A támogatási időszak a speciális közfoglalkoztatási program tekintetében 5 hónap.
 
-(8)[^35] Az (1) bekezdés szerinti speciális közfoglalkoztatási program támogatása kérelemre nyújtható, a program támogatásáról a közfoglalkoztatásért felelős miniszter mérlegelési jogkörében dönt. A támogatási eljárásra a 7. § (2), (3), (6), (7), (9) és (10) bekezdését kell alkalmazni.
+(8)[^26] Az (1) bekezdés szerinti speciális közfoglalkoztatási program támogatása kérelemre nyújtható, a program támogatásáról a közfoglalkoztatásért felelős miniszter mérlegelési jogkörében dönt. A támogatási eljárásra a 7. § (2), (3), (6), (7), (9) és (10) bekezdését kell alkalmazni.
 
-[^34]: Az 5/A. §-t és az azt megelőző alcímet a 125/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
-[^35]: Az 5/A. § (8) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: Az 5. §-t és az azt megelőző alcímet a 360/2019. (XII. 30.) Korm. rendelet 84. § (6) bekezdés f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: Az 5/A. §-t és az azt megelőző alcímet a 125/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 5/A. § (4) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 84. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^26]: Az 5/A. § (8) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
