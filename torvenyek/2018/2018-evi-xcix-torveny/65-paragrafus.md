@@ -2,7 +2,7 @@
 
 1.
 
-2.
+2. 11. § (8) bekezdésében a „szénipari szerkezetátalakítási, valamint a” szövegrész,
 
 3.
 
@@ -10,23 +10,23 @@
 
 5.
 
-6.
+6. 147. § (1) bekezdés a) pontja,
 
-7.
+7. 148. § (2) bekezdése,
 
 8.
 
 9.
 
-10.
+10. 170. § (1) bekezdés 22. pontja,
 
-11.
+11. 170. § (1) bekezdés 28. pontjában az „és a 147. § (1) bekezdés a) pontja esetében felhasználása és kifizetése” szövegrész,
 
 12.
 
 13.
 
-14.
+14. 171. § (13) és (14) bekezdése,
 
 15.
 
@@ -38,7 +38,7 @@
 
 19.
 
-20.
+20. 178/O. § (3) és (4) bekezdése és
 
 21.
 
