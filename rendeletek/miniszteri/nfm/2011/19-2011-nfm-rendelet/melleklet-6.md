@@ -1,4 +1,4 @@
-6. melléklet a 19/2011. (V. 10.) NFM rendelethez[^196]
+6. melléklet a 19/2011. (V. 10.) NFM rendelethez[^212]
 
 ## Az országos jelentőségű vasútvonalakon vonatokat közlekedtető vasúti járművezető képzés céljai, és követelményei
 
@@ -264,4 +264,4 @@ b) A pályahálózat-működtető engedélyezi az eltérést, ha a vasúttársas
 
 c) A vasúttársaságok és a pályahálózat-működtetők biztonsági rendszereik útján gondoskodnak arról, hogy a személyzet érintett tagjai ismerjék a vonatkozó szabályokat és rendelkezéseket, és megfelelő képzésben részesüljenek.
 
-[^196]: A 6. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (5) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés b) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (4) bekezdése és 32. § a) pontja szerint módosított szöveg.
+[^212]: A 6. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (5) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés b) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (4) bekezdése és 32. § a) pontja szerint módosított szöveg.

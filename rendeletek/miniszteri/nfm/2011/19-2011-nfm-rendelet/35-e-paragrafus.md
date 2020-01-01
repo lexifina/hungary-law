@@ -1,6 +1,6 @@
-## 30/B. [^161] Egyeztetési eljárás
+## 30/B. [^175] Egyeztetési eljárás
 
-35/E. § (1)[^162] A vizsgáztató szervezet képzéssel, vizsgáztatással kapcsolatosan meghozott döntéseivel kapcsolatban – írásban – egyeztetési eljárás kezdeményezhető a döntés meghozatalától számított 5 napon belül.
+35/E. § (1)[^176] A vizsgáztató szervezet, illetve a képzési módszertani központ képzéssel, vizsgáztatással kapcsolatosan meghozott döntéseivel kapcsolatban – írásban – egyeztetési eljárás kezdeményezhető a döntés meghozatalától számított 5 napon belül.
 
 (2) Egyeztetést kezdeményezhet:
 
@@ -14,8 +14,8 @@ d) a vizsgázó,
 
 e) a vizsgázó munkáltatója.
 
-(3)[^163] A vizsgáztató szervezet az egyeztetés eredményéről írásban értesíti az egyeztetést kezdeményezőt.
+(3)[^177] A vizsgáztató szervezet az egyeztetés eredményéről írásban értesíti az egyeztetést kezdeményezőt.
 
-[^161]: A 30/B. alcímet (35/E. §) a 22/2015. (V. 6.) NFM rendelet 35. §-a iktatta be.
-[^162]: A 35/E. § (1) bekezdése a 3/2019. (II. 27.) ITM rendelet 6. § a) pontja szerint módosított szöveg.
-[^163]: A 35/E. § (3) bekezdése a 3/2019. (II. 27.) ITM rendelet 6. § a) pontja szerint módosított szöveg.
+[^175]: A 30/B. alcímet (35/E. §) a 22/2015. (V. 6.) NFM rendelet 35. §-a iktatta be.
+[^176]: A 35/E. § (1) bekezdése a 3/2019. (II. 27.) ITM rendelet 6. § a) pontja, a 45/2019. (XII. 20.) ITM rendelet 48. § n) pontja szerint módosított szöveg.
+[^177]: A 35/E. § (3) bekezdése a 3/2019. (II. 27.) ITM rendelet 6. § a) pontja szerint módosított szöveg.

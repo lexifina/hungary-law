@@ -38,7 +38,7 @@
 
 18.[^18] különleges kötöttpályás közlekedési szakmai oktató: az alapképzésben vagy az időszakos oktatáson a különleges kötöttpályás közlekedés biztonságával összefüggő témaköröket oktató személy;
 
-19.[^19] vizsgáztató szervezet: a vasúti vizsgaközpont (a továbbiakban: vizsgaközpont), valamint a típusismeret, a vonal- és az állomásismeret modulok esetében a vizsgaközpont irányításával a vasúti társaság, a különleges kötöttpályás közlekedési rendszerek esetében – a különleges kötöttpályás üzemvezető, a turisztikai hajtány üzemvezető, a különleges kötöttpályás közlekedési szakmai oktató, a vasúti járművezető, a forgalmi szolgálattevő munkakörök, valamint az általános forgalmi és az önállósító forgalmi vizsga kivételével – a különleges kötöttpályás közlekedési rendszer üzemvezetője;
+19.[^19] vizsgáztató szervezet: a vasúti vizsgaközpont, valamint a típusismeret, a vonal- és az állomásismeret modulok esetében a vasúti társaság, a különleges kötöttpályás közlekedési rendszerek esetében – a különleges kötöttpályás üzemvezető, a turisztikai hajtány üzemvezető, a különleges kötöttpályás közlekedési szakmai oktató, a vasúti járművezető, a forgalmi szolgálattevő munkakörök, valamint az általános forgalmi és az önállósító forgalmi vizsga kivételével – a különleges kötöttpályás közlekedési rendszer üzemvezetője;
 
 20.[^20] vasúti társasági vizsga: a vasúti társaság vagy különleges kötöttpályás közlekedési rendszer üzemvezetője mint vizsgáztató szervezet által lebonyolított vizsga.
 
@@ -57,5 +57,5 @@
 [^16]: A 2. § 16. pontját a 20/2017. (VI. 22.) NFM rendelet 7. §-a iktatta be.
 [^17]: A 2. § 17. pontját a 20/2017. (VI. 22.) NFM rendelet 7. §-a iktatta be.
 [^18]: A 2. § 18. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be.
-[^19]: A 2. § 19. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be.
+[^19]: A 2. § 19. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be, szövege a 45/2019. (XII. 20.) ITM rendelet 39. §-ával megállapított szöveg.
 [^20]: A 2. § 20. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be.

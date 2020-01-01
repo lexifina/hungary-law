@@ -1,16 +1,4 @@
-## Nyilatkozat
-
-## Alulírott ……….., (vizsgabiztos természetes azonosító adatai) ezennel nyilatkozom, hogy a ……………. vizsgára vonatkozóan a vizsgabiztosi feladataim ellátása során
-
-## – pártatlanul és megkülönböztetéstől mentesen, az egyenlő bánásmód követelménye szerint járok el,
-
-## – a vizsgákra vonatkozóan semmilyen utasítást vagy előnyt, vagy előny ígéretét nem fogadok el, amely hatással lehet a vizsga megítélésére vagy eredményeire, valamint lebonyolításának módjára.
-
-## (Dátum)
-
-## Aláírás
-
-8. melléklet a 19/2011. (V. 10.) NFM rendelethez[^198]
+8. melléklet a 19/2011. (V. 10.) NFM rendelethez[^214]
 
 ## Képzési központok, képzőszervezetek és regisztrált szervezetek esetében
 
@@ -28,4 +16,4 @@ I. Helyiségek
 
 II. Helyiségek bútorzata, egyéb berendezési tárgyai
 
-[^198]: A 8. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés a) pontja iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 32. § o) pontja szerint módosított szöveg.
+[^214]: A 8. mellékletet a 22/2015. (V. 6.) NFM rendelet 38. § (3) bekezdés a) pontja iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 32. § o) pontja szerint módosított szöveg.

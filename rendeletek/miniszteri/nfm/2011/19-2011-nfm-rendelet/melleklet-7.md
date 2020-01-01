@@ -1,3 +1,3 @@
-7. melléklet a 19/2011. (V. 10.) NFM rendelethez[^197]
+7. melléklet a 19/2011. (V. 10.) NFM rendelethez[^213]
 
-[^197]: A 7. melléklet az 5/2013. (II. 12.) NFM rendelet 23. § (5) bekezdésével megállapított szöveg.
+[^213]: A 7. mellékletet a 45/2019. (XII. 20.) ITM rendelet 49. § d) pontja hatályon kívül helyezte.

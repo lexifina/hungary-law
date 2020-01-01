@@ -4,9 +4,11 @@
 
 ## 29. A képzések és a vizsgák okmányai
 
-32. § (1) Az alapképzések és az időszakos oktatások okmányainak kötelező adatait az 5. melléklet tartalmazza.
+32. § (1)[^139] Az alapképzések és az időszakos oktatások okmányainak kötelező adatait az képzési módszertani központ a holnapján teszi közzé.
 
-(2)[^129] A hatóság és a vizsgaközpont az (1) bekezdés szerinti okmányok tekintetében kötelezően alkalmazandó formanyomtatványt, vagy a vizsgaközpont – a hatóság egyetértésével – az adatokat kódolt formában tartalmazó, a hatósági ellenőrzésre alkalmas kártyaformátumú igazolványt is rendszeresíthet.
+(1a)[^140] Az alapvizsga vizsgajegyzőkönyvének, a vizsgaigazolásnak és az időszakos vizsga vizsgajegyzőkönyvének kötelező adatait a vizsgaközpont a honlapján teszi közzé.
+
+(2)[^141] A hatóság és a vizsgaközpont az (1) bekezdés szerinti okmányok tekintetében kötelezően alkalmazandó formanyomtatványt, vagy a vizsgaközpont – a hatóság egyetértésével – az adatokat kódolt formában tartalmazó, a hatósági ellenőrzésre alkalmas kártyaformátumú igazolványt is rendszeresíthet.
 
 (3) Az alapképzésre jelentkezéskor a jelentkezőről az 5. melléklet szerinti adattartalommal a képzőszervezet képzési jelentkezési lapot tölt ki.
 
@@ -16,4 +18,6 @@
 
 (6) A regisztrált szervezetnek az időszakos oktatásokról, az oktatás ismeretanyagáról, valamint az azon részt vevő munkavállalókról oktatási naplót kell vezetni. Az időszakos oktatásokon való részvételről, valamennyi munkavállalóról külön adatlapot kell vezetni.
 
-[^129]: A 32. § (2) bekezdése a 22/2015. (V. 6.) NFM rendelet 27. §-ával megállapított szöveg.
+[^139]: A 32. § (1) bekezdése a 45/2019. (XII. 20.) ITM rendelet 48. § l) pontja szerint módosított szöveg.
+[^140]: A 32. § (1a) bekezdését a 45/2019. (XII. 20.) ITM rendelet 45. §-a iktatta be.
+[^141]: A 32. § (2) bekezdése a 22/2015. (V. 6.) NFM rendelet 27. §-ával megállapított szöveg.

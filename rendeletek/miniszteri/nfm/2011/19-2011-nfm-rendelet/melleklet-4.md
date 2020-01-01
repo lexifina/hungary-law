@@ -402,16 +402,6 @@
 
 | 2. | Munkamódszer-átadás | - Vezetési gyakorlat vizsga | Az alapvizsgának megfelelő járművön és infrastruktúrán más járművezető kísérete mellett végzett járművezetés | 50 |
 
-4. melléklet a 19/2011. (V. 10.) NFM rendelethez[^194]
+4. melléklet a 19/2011. (V. 10.) NFM rendelethez[^210]
 
-## Az alapképzés végzésére irányuló szándék bejelentésének tartalma
-
-1. A képzőszervezet neve, címe, képviselője, a képviselő elérhetősége
-
-2. A képzés, képzések e rendelet szerinti megnevezése
-
-3. Az alapképzéssel megszerezhető képesítés, hatósági vizsga megnevezése
-
-4. A 4. §-ban előírt nyilatkozatok
-
-[^194]: A 4. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^210]: A 4. mellékletet a 45/2019. (XII. 20.) ITM rendelet 49. § b) pontja hatályon kívül helyezte.

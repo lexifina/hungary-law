@@ -1,6 +1,6 @@
 ## 21. Oktatásszervezési regisztráció
 
-24. §[^107] (1) Időszakos oktatás végzésére irányuló szándékot (a továbbiakban: regisztráció) jelenthet be
+24. §[^116] (1) Időszakos oktatás végzésére irányuló szándékot (a továbbiakban: regisztráció) jelenthet be
 
 a) a képzőszervezet, vagy
 
@@ -16,7 +16,7 @@ b) nyilatkozatban vállalja, hogy a gyakorlati képzést vasúti járművezetői
 
 c) nyilatkozatban vállalja, hogy rendelkezik minőségirányítási rendszerrel, amely biztosítja, hogy a nyújtott képzés eleget tesz az e rendeletben meghatározott képzési követelményeknek;
 
-d) nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a vasúti vizsgaközpont által szervezett továbbképzésén történő részvételét a szaktudásuk naprakészen tartására érdekében.
+d)[^117] nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a képzési módszertani központ által szervezett továbbképzésén történő részvételét a szaktudásuk naprakészen tartására érdekében.
 
 (4) Ha a bejelentő országos jelentőségű vasútvonalakon vonatokat közlekedtető vasúti járművezetők képzésével foglalkozó vasúti társaság, a vasútbiztonsági tanúsítvány vagy engedély nyilvántartási számának közlésével is eleget tehet a (3) bekezdés a) és c) pontja szerinti kötelezettségének.
 
@@ -26,4 +26,5 @@ d) nyilatkozatban vállalja, hogy biztosítja az oktatók folyamatos, a vasúti 
 
 (7) A regisztrált szerv minden év március 31-éig beszámol a hatóságnak az általa az előző évben folytatott oktatási tevékenységéről, és – statisztikai adatok közlésével – annak eredményességéről.
 
-[^107]: A 24. § a 33/2016. (VIII. 2.) NFM rendelet 22. §-ával megállapított szöveg.
+[^116]: A 24. § a 33/2016. (VIII. 2.) NFM rendelet 22. §-ával megállapított szöveg.
+[^117]: A 24. § (3) bekezdés d) pontja a 45/2019. (XII. 20.) ITM rendelet 48. § j) pontja szerint módosított szöveg.
