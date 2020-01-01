@@ -1,12 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2016. évi központi költségvetésének címrendjét – 2016. november 7-i fordulónappal – az 1. melléklet szerint módosítja;
-
-## Felelős: nemzetgazdasági miniszter
-
-## földművelésügyi miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. felhívja a földművelésügyi minisztert, hogy a Magyar Államkincstár felé gondoskodjon
 
@@ -32,4 +24,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1636/2016. (XI. 17.) Korm. határozathoz
+1. melléklet az 1636/2016. (XI. 17.) Korm. határozathoz[^2]
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

@@ -1,12 +1,6 @@
-| Eredeti előirányzattal rendelkező előirányzatok átrendezése |
-
-| ÁHT-T | Új címrendi besorolás | Megnevezés | Régi címrendi besorolás |
-
-| Fejezet | Cím | Alcím | Jogcím- csoport | Jogcím | Fejezet | Cím | Alcím | Jogcím- csoport | Jogcím |
-
-| 212087 | 11 | 19 | 00 | 00 | 00 | Mezőgazdasági és Vidékfejlesztési Hivatal | 12 | 05 | 00 | 00 | 00 |
-
 2. melléklet az 1636/2016. (XI. 17.) Korm. határozathoz
+
+6K76703B_0
 
 | Megállapodással kezelt előirányzatok |
 
