@@ -11,3 +11,5 @@ c) a 49. § szerinti minősítés visszavonására irányuló kérelem elbírál
 d) a 68. § (1) bekezdés szerinti engedély kiadásáért, visszavonásáért,
 
 e) az 50. § (2c) bekezdés szerinti igazolás kiadásáért.
+
+(3) A közfelügyeleti hatóság által lefolytatott hatósági eljárásokban az ügyfelek elektronikus ügyintézésre kötelezettek.
