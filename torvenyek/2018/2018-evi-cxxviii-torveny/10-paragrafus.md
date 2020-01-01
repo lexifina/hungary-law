@@ -1,4 +1,4 @@
-10. § Hatályát veszti az MFB tv.
+10. §
 
 a)
 
@@ -12,7 +12,7 @@ e)
 
 f)
 
-g) 1. melléklet 3. pontja;
+g)
 
 h)
 
