@@ -1,3 +1,5 @@
-## 3. §[^3]
+## 3. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet (a továbbiakban: Pr.) 7. § (2) bekezdése a következő d) ponttal egészül ki:
 
-[^3]: A 3. § a 11. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## (A havi rendszeres szociális ellátás összegének változásáról nem kell határozatot hozni, ha)
+
+## „d) az időskorúak járadékának összege kizárólag az időskorúak járadékának jogszabály által meghatározott emelkedése miatt változik.”

@@ -1,3 +1,3 @@
-## 5. §[^5]
+## 5. § A Pr. 20. §-a a következő (8) bekezdéssel egészül ki:
 
-[^5]: Az 5. § a 11. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## „(8) A gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásáról a kérelmezőt értesíteni kell.”

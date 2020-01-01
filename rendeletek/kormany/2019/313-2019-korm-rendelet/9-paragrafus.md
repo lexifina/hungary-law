@@ -1,3 +1,1 @@
-## 8. §[^8]
-
-[^8]: A 8. § a 11. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## 8. § A Pr. 1. számú melléklete az 1. melléklet szerint módosul.
