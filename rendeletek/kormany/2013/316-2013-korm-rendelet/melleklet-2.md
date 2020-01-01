@@ -86,7 +86,7 @@
 
 ## 4.6. Dátum, aláírás
 
-2. melléklet a 316/2013. (VIII. 28.) Korm. rendelethez[^73]
+2. melléklet a 316/2013. (VIII. 28.) Korm. rendelethez[^75]
 
 1. Az emberek és állatok általi fogyasztásra szánt ivóvíz, valamint a használati melegvíz, az uszoda és egyéb fürdőzésre használt vizek fertőtlenítésére használt szerek, továbbá az algásodásgátló biocid termékek kérelméhez szükséges adatok és dokumentumok
 
@@ -246,4 +246,4 @@
 
 5.12. Toxikológiai, ökotoxikológiai vizsgálati dokumentáció
 
-[^73]: A 2. mellékletet az 507/2017. (XII. 29.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^75]: A 2. mellékletet az 507/2017. (XII. 29.) Korm. rendelet 46. § (2) bekezdése iktatta be.

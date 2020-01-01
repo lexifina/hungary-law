@@ -1,5 +1,5 @@
-## 21/C. § A Kbtv. 33/A. § (2) bekezdése szerint vezetett nyilvántartás, ha az engedélyes nem egyéni vállalkozó, tartalmazza
+## 21/C. § A Kbtv. 33/A. § (2) bekezdése szerint vezetett nyilvántartás, ha a bejelentő nem egyéni vállalkozó, tartalmazza
 
-a) az engedélyes nevét, székhelyének vagy telephelyének címét,
+a) a bejelentő nevét, székhelyének vagy telephelyének címét,
 
-b) az engedélyes által végezhető egészségügyi kártevőirtó tevékenységet vagy résztevékenységet.
+b) a bejelentő által végezhető egészségügyi kártevőirtó tevékenységet vagy résztevékenységet.
