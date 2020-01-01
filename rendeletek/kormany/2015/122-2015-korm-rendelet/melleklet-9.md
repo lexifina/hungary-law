@@ -20,17 +20,17 @@
 
 | 10. | Épületekre vonatkozó energiahatékonysági célú szabályozás | Miniszterelnökség |
 
-| 11. | Egyedi döntéssel odaítélt költségvetési támogatások alapján történő energiahatékonyságot javító beruházások | az energiahatékonyságról szóló 2015. évi LVII. törvény 14. § (1) bekezdés b) pontja tekintetében: Nemzeti Energetikusi Hálózat a Miniszterelnökség közreműködésével |
+| 11. | Egyedi döntéssel odaítélt költségvetési támogatások alapján történő energiahatékonyságot javító beruházások | Miniszterelnökség |
 
 | 12. | Modern Városok Program keretében, költségvetési támogatással megvalósuló energiahatékonyságot javító intézkedések | Miniszterelnökség |
 
-| 13. | Középületek energiahatékony használatának elősegítése | az energiahatékonyságról szóló 2015. évi LVII. törvény 14. § (1) bekezdés b) pontja tekintetében: Nemzeti Energetikusi Hálózat |
+| 13. | Középületek energiahatékony használatának elősegítése | Nemzeti Energetikusi Hálózat |
 
 | 14. | Lakás-előtakarékossági rendszer működtetése | Pénzügyminisztérium |
 
 | 15. | Energetikai szakreferens alkalmazása | Hivatal |
 
-| 16. | Nemzeti Energetikusi Hálózat működésének eredményei | az energiahatékonyságról szóló 2015. évi LVII. törvény 14. § (1) bekezdés b) pontja tekintetében: Nemzeti Energetikusi Hálózat |
+| 16. | Magyar Mérnöki Kamara tanácsadási tevékenységének eredményei | Magyar Mérnöki Kamara |
 
 | 17. | A közlekedés energiahatékonyságának javítása | Innovációs és Technológiai Minisztérium |
 
