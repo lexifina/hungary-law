@@ -1,18 +1,6 @@
 A Kormány
 
-1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva
-
-a)[^1]
-
-b) a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 10. Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése jogcímcsoport megnevezését 10. Lakitelek Népfőiskola beruházásával összefüggő feladatok jogcímcsoportra változtatja;
-
-Felelős: nemzetgazdasági miniszter
-
-emberi erőforrások minisztere
-
-Határidő: az a) pont tekintetében: azonnal
-
-a b) pont tekintetében: 2016. január 1.
+1.[^1]
 
 2. felhívja a nemzetgazdasági minisztert, hogy a Lakitelek Népfőiskola 2015. évi működéséhez szükséges 120,0 millió forint többletforrásnak a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezetben történő biztosításáról gondoskodjon;
 
@@ -32,6 +20,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
 
-[^1]: Az 1. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^2]: A 3. pont az 1010/2016. (I. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^3]: A 4. pont az 1010/2016. (I. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
