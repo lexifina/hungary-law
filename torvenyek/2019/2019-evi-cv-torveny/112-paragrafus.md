@@ -11,11 +11,3 @@ d) 23. alcíme az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdés
 e) 106. § 30. pontja az Alaptörvény XXXI. cikk (3) bekezdése
 
 alapján sarkalatosnak minősül.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
