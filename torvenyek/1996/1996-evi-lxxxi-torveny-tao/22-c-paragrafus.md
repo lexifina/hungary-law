@@ -112,11 +112,7 @@ b) versenyeztetéssel összefüggő igazolt költségeinek 90 százalékát,
 
 c) személyi jellegű ráfordítása 50 százalékát,
 
-d) képzési feladataival összefüggő kiadásainak
-
-da) általános képzés esetén 50 százalékát, amely a 651/2014/EU bizottsági rendelet 31. cikk (4) bekezdésében foglaltaknak megfelelően legfeljebb 70%-os mértékig növelhető,
-
-db) szakképzés esetén 25 százalékát,
+d) képzési feladataival összefüggő kiadásainak 50 százalékát, amely a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 31. cikk (4) bekezdése szerint legfeljebb 70 százalékig növelhető,
 
 e) tárgyi eszköz beruházás, felújítás beruházási, felújítási értéke – ideértve a biztonsági követelmények teljesülését szolgáló infrastruktúra-fejlesztést is –
 

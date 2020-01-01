@@ -15,3 +15,7 @@
 (8) Az adóhatóság a (7) bekezdés hatálya alá eső adózó társasági adóbevallásával egyidejűleg adóévenként előterjesztett kérelme alapján – amennyiben az az adózóra nézve kedvezőbb adókötelezettséget eredményez – a kérelemben megjelölt, a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított adóévi fizetendő adót tekinti fizetendő adónak, ha az adózó alátámasztja a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított fizetendő adó összegét. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
 (9) A (8) bekezdésben foglaltak alkalmazásától függetlenül a 18/A. § (1) bekezdése szerinti adózó a 18/C. § (4) bekezdése szerint meghatározott adóévi összeget a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított adóalapjában érvényesíti.
+
+(10) Amennyiben a csoportos társasági adóalany tagjának csoporttagsága az áttérést megelőző adóévben még nem áll fenn, az érintett csoporttagra vonatkozóan alkalmazni kell a (7) és a (8) bekezdést, amelynek során az érintett csoporttag áttérésének adóévét megelőző adóévi fizetendő adót és az érintett csoporttagra jutó, a 24. § (3) bekezdése szerint arányosított fizetendő adót kell figyelembe venni.
+
+(11) A (10) bekezdésben meghatározott esetben a (8) bekezdés szerinti kérelem a csoportképviselő útján terjeszthető elő.

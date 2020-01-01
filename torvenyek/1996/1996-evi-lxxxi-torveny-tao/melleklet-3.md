@@ -78,7 +78,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 7. az adózó által a vele önkéntes jogviszonyban álló magánszemély részére személyi jellegű egyéb kifizetésként elszámolt összeg;
 
-8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy az adózónál jogszabályban meghatározott tanulószerződés alapján gyakorlati képzésben résztvevő szakképző iskolai tanuló;
+8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő tanuló, képzésben részt vevő személy;
 
 9.
 

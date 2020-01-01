@@ -74,11 +74,7 @@ b) a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kére
 
 (8) Az (1) bekezdés d) pontja szerinti önálló környezetvédelmi beruházás esetén az adókedvezmény igénybevételének feltétele, hogy az adózó adókötelezettsége a kérelem, a bejelentés benyújtása évét megelőző ötödik évben vagy korábban kezdődött.
 
-(9) Az (1) bekezdés a)–b) és k)–l) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
-
-a) az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) legalább 50 fővel, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább 25 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
-
-b) az adózónál elszámolt, évesített bérköltség (a külföldi telephelyen foglalkoztatottak bérköltségének figyelmen kívül hagyásával) legalább az adóév első napján érvényes minimálbér adóévre számított összegének háromszázszorosával, ha az adózó a beruházást a kormányrendeletben meghatározott kedvezményezett települési önkormányzat közigazgatási területén helyezi üzembe és üzemelteti, legalább százötvenszeresével meghaladja a beruházás megkezdését megelőző adóév évesített vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő bérköltségét.
+(9) Az (1) bekezdés a), b), i), k) és l) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) ne csökkenjen a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszáma alá.
 
 (10) Kizárólag film- és videogyártást szolgáló beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adózó a beruházás üzembe helyezését követő öt évben az üzembe helyezett tárgyi eszköz igénybevételével nem állít elő olyan filmet, amelyet a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 9. §-a alapján a VI. kategóriába kellene sorolni.
 
@@ -96,11 +92,7 @@ c) az adózó által a jegyzett tőke felemelése keretében kibocsátott és a 
 
 d) a szabályozott piacra bevezetett részvények tekintetében a kérelem, a bejelentés benyújtásakor az adózónak legalább 25 részvényese van, vagy a szabályozott piacra bevezetett részvények legalább 25 százalékát meghaladó részvények olyan részvényesek tulajdonában vannak, akiknek (amelyeknek) egyike sem rendelkezik a szabályozott piacra bevezetett részvények névértékének 5 százalékát elérő részesedéssel.
 
-(14) Az (1) bekezdés i) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben
-
-a) a foglalkoztatottak átlagos állományi létszáma kisvállalkozásnál legalább 5 fővel, középvállalkozásnál legalább 10 fővel meghaladja a beruházás megkezdését megelőző adóévben vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszámát, vagy
-
-b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az adóév első napján érvényes minimálbér adóévre számított összegének tízszeresével, középvállalkozásnál huszonötszörösével meghaladja a beruházás megkezdését megelőző adóév vagy – az adózó választása szerint – a beruházás megkezdését megelőző három adóév évesített adataiból számított számtani átlagnak megfelelő évesített bérköltségét.
+(14)
 
 (15) A kormányrendelet az e törvényben foglaltakon kívüli feltételeket is megállapíthat, vagy rendelkezhet az adókedvezmény igénybevételének tilalmáról.
 

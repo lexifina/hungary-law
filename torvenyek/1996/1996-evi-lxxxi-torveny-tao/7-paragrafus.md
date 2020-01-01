@@ -44,9 +44,13 @@ gy) a tagnál (részvényesnél, üzletrész-tulajdonosnál)
 
 h) a megszerzett társaság tagjánál (részvényesénél) a kedvezményezett részesedéscsere alapján kivezetett részesedésre az adóévben elszámolt árfolyamnyereség [ideértve a kivezetett részesedés kapcsán – a kedvezményezett részesedéscsere során – a 8. § (1) bekezdés dzs) pont b) alpontja alapján elszámolt összeget is], ha az adózó igénybe kívánja venni e kedvezményt; e kedvezmény alkalmazása esetén az adózó a kedvezményezett részesedéscsere alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
 
-i) az iskolai rendszerű szakképzésben közreműködő adózónál tanulónként minden megkezdett hónap után havonta az adóév első napján érvényes minimálbér 24 százaléka, ha az adózó a szakképző iskolai tanuló gyakorlati képzését jogszabályban meghatározott tanulószerződés alapján végzi, illetve 12 százaléka, ha az iskolával kötött együttműködési megállapodás alapján végzi,
+i) a szakképzésről szóló törvény alapján
 
-j) a sikeres szakmai vizsgát tett – az i) pontban említett – szakképző iskolai tanuló után folyamatos tovább foglalkoztatása esetén, valamint a (3) bekezdésben meghatározott, korábban munkanélküli személy, továbbá a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személy, illetve a pártfogó felügyelet hatálya alatt álló személy után a foglalkoztatásának ideje alatt, de legfeljebb 12 hónapon át befizetett szociális hozzájárulási adó, annak költségkénti elszámolásán túl, azzal, hogy az adózó akkor járhat el e rendelkezés szerint, ha a korábban munkanélküli magánszemély alkalmazása óta, illetőleg azt megelőző hat hónapon belül azonos munkakörben foglalkoztatott más munkavállaló munkaviszonyát rendes felmondással nem szüntette meg, és a korábban munkanélküli magánszemély az alkalmazását megelőző hat hónapon belül nála nem állt munkaviszonyban,
+ia) szakképzési munkaszerződés keretében duális képzőhelyen folytatott szakirányú oktatásban részt vevő tanulónként, képzésben részt vevő személyenként megkezdett hónap után havonta az adóév első napján érvényes minimálbér 24%-a,
+
+ib) folytatott szakmai oktatáshoz kapcsolódó szakmai vizsga megszerzését követően az ia) alpont szerinti tanuló, illetve a képzésben részt vevő személy, a (3) bekezdésben meghatározott, korábban munkanélküli személy, a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személy, továbbá a pártfogó felügyelet hatálya alatt álló személy után a foglalkoztatásának ideje alatt, de legfeljebb 12 hónapon át befizetett szociális hozzájárulási adó, annak költségenkénti elszámolásán túl, azzal, hogy az adózó akkor járhat el e rendelkezés szerint, ha a korábban munkanélküli magánszemély alkalmazása óta, illetve azt megelőző hat hónapon belül azonos munkakörben foglalkoztatott más munkavállaló munkaviszonyát rendes felmondással nem szüntette meg, és a korábban munkanélküli magánszemély az alkalmazását megelőző hat hónapon belül nála nem állt munkaviszonyban,
+
+j)
 
 k) legfeljebb az adózás előtti nyereség összegéig
 
