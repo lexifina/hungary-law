@@ -1238,7 +1238,7 @@ c) az értékbecslési tevékenység folytatására vonatkozó jogosultság igaz
 
 a) igazságügyi szakértői értékbecslésnél a nyilvántartási azonosító szám,
 
-b) értékbecslő esetén a cégkivonat vagy egyéni vállalkozói igazolvány közjegyző által hitelesített másolata és az OKJ-s képesítésről szóló bizonyítvány másolata.
+b) értékbecslő esetén a cégkivonat vagy az egyéni vállalkozói nyilvántartásba vételről szóló értesítés közjegyző által hitelesített másolata és az OKJ-s képesítésről szóló bizonyítvány másolata.
 
 123.3. Az IH/KSZ értékbecslések esetén előírhatja igazságügyi szakértő kizárólagos alkalmazását.
 
@@ -4869,4 +4869,4 @@ g) az IH döntése vagy intézkedése elleni kifogás esetén annak megjelölés
 469.3. A kifogás elbírálásának határidejét a felterjesztést követően a Rendelet 82. § (2) bekezdése szerint a központi koordinációs szerv meghosszabbíthatja.
 
 [^6]: A 7. §-t a 477/2016. (XII. 27.) Korm. rendelet 73. § (1) bekezdése iktatta be.
-[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
