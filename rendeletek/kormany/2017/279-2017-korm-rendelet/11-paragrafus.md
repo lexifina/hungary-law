@@ -24,6 +24,6 @@ d) a kiállítás évszáma.
 
 (8) A (7) bekezdés szerinti felhívásban előírt határidő eredménytelen leteltét követően a mezőgazdasági igazgatási szerv a BIONYOM ügyfelet törli a BIONYOM nyilvántartásból és – ha szerepel a BÜHG nyilvántartásban – törli a BÜHG nyilvántartásból is.
 
-(9)[^5] Ha az ügyfél a fenntarthatósági nyilatkozatot és a 9. és a 10. melléklet szerinti nyomon követési dokumentumot a hatósági eljárás során – mint bizonyítékot – nem tudja a hatóság részére bemutatni, az ügyfél nyilatkozata a hiányzó bizonyítékot nem pótolja.
+(9)[^11] Ha az ügyfél a fenntarthatósági nyilatkozatot és a 9. és a 10. melléklet szerinti nyomon követési dokumentumot a hatósági eljárás során – mint bizonyítékot – nem tudja a hatóság részére bemutatni, az ügyfél nyilatkozata a hiányzó bizonyítékot nem pótolja.
 
-[^5]: A 11. § (9) bekezdését a 21. § (4) bekezdése iktatta be.
+[^11]: A 11. § (9) bekezdését a 21. § (4) bekezdése iktatta be.

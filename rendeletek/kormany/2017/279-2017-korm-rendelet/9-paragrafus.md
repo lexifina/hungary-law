@@ -8,7 +8,7 @@
 
 1. természetes személy erre vonatkozó kifejezett és önkéntes hozzájárulása esetében a természetes személy azonosító adatait, a lakcímét, gazdálkodó szervezet és egyéni cég esetében a cég nevét, székhelyét, telephelyét, cégjegyzék számát, adószámát és a képviseletre jogosult személy aláírási címpéldányának másolati példányát,
 
-2. egyéni vállalkozó esetében nevét, lakcímét, adószámát, valamint az egyéni vállalkozói igazolvány kiállítóját és számát, ennek hiányában az egyéni vállalkozói nyilvántartási számát,
+2.[^7] egyéni vállalkozó esetében nevét, lakcímét, adószámát, valamint egyéni vállalkozói nyilvántartási számát,
 
 3. a kérelmező regisztrációs számát,
 
@@ -59,3 +59,5 @@ d) a nyilvántartásba vétel kezdő és lejárati időpontját,
 e) az arra vonatkozó adatot, hogy az ügyfelet biomassza-kereskedőként, biomassza-feldolgozóként vagy üzemanyag-forgalmazóként tartja nyilván,
 
 f) a BÜHG nyilvántartásból való törlés tényét.
+
+[^7]: A 9. § (3) bekezdés 2. pontja a 360/2019. (XII. 30.) Korm. rendelet 173. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

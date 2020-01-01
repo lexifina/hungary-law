@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-279-20-
 | 2017-09-24 | 2017-279-20-22.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2017-279-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-01-02 | 2017-279-20-22.4 | 2010: CXXX. törvény |
+| 2020-01-01 | 2017-279-20-22.5 | 363/2019. (XII. 30.) Korm. rendelet |
