@@ -1996,7 +1996,7 @@
 
 | 12. | Előszállás | II. |
 
-| 13. | Enying | I. |
+| 13. | Enying | II. |
 
 | 14. | Ercsi | I. |
 
@@ -2386,11 +2386,11 @@
 
 | 26. | Magyarkeresztúr | II. |
 
-| 27. | Markotabödöge | III. |
+| 27. | Markotabödöge | II. |
 
 | 28. | Mihályi | III. |
 
-| 29. | Osli | III. |
+| 29. | Osli | II. |
 
 | 30. | Páli | II. |
 
@@ -2408,7 +2408,7 @@
 
 | 37. | Rábaszentandrás | II. |
 
-| 38. | Rábatamási | III. |
+| 38. | Rábatamási | II. |
 
 | 39. | Rábcakapi | III. |
 
@@ -3508,7 +3508,7 @@
 
 | 10. | Dorogháza | II. |
 
-| 11. | Ecseg | II. |
+| 11. | Ecseg | III. |
 
 | 12. | Egyházasdengeleg | III. |
 
@@ -3596,7 +3596,7 @@
 
 | 54. | Sóshartyán | III. |
 
-| 55. | Szarvasgede | II. |
+| 55. | Szarvasgede | III. |
 
 | 56. | Szilaspogony | III. |
 
@@ -4788,7 +4788,7 @@
 
 | 40. | Újkenéz | II. |
 
-| 41. | Záhony | I. |
+| 41. | Záhony | II. |
 
 | 42. | Zsurk | I. |
 
@@ -4990,7 +4990,7 @@
 
 | 37. | Tiszarád | III. |
 
-| 38. | Tiszavasvári | I. |
+| 38. | Tiszavasvári | II. |
 
 | 39. | Újfehértó | II. |
 
