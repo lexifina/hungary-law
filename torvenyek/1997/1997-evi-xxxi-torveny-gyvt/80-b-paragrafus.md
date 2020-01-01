@@ -6,7 +6,9 @@ a) azok a körülmények, amelyekre a gondozási hely meghatározására irányu
 
 b) a kijelölt gondozási hely a gyermek érdekével ellentétes, vagy
 
-c) a gyermekotthon telephelye vagy a nevelőszülő lakóhelye megváltozik,
+c) a gyermekotthon telephelye vagy a nevelőszülő lakóhelye megváltozik, vagy,
+
+d) a nagy létszámú fogyatékosok vagy pszichiátriai betegek otthona az Szt. 75. §-a szerinti támogatott lakhatássá kerül átalakításra,
 
 és ezért a gyermek nevelését az addigi ellátási formában már nem vagy nem megfelelő módon lehet biztosítani.
 

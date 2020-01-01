@@ -14,7 +14,7 @@ a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, k
 
 a) a változás a szolgáltatói nyilvántartásban bejegyzett adatok módosítását nem teszi szükségessé, vagy
 
-b) a szolgáltatói nyilvántartásban bejegyzett adatok módosítását kizárólag fenntartóváltás teszi szükségessé,
+b)
 
 c) a szolgáltatás, intézmény, hálózat, férőhelyszám az államháztartásról szóló 2011. évi CXCV. törvény 14. § (3) bekezdése szerinti fejezetből finanszírozott.
 
@@ -32,7 +32,9 @@ cb) szolgáltatásiforma-váltás,
 
 cc) a fenntartó intézményei, telephelyei közötti, illetve újonnan létesített telephelyére történő férőhelyszám-átcsoportosítás, vagy
 
-cd) fenntartók közötti férőhelyszám-átadás
+cd) fenntartók közötti férőhelyszám-átadás,
+
+ce) fenntartóváltás
 
 teszi szükségessé.
 
@@ -56,6 +58,8 @@ bb) e törvényben, valamint a Kjt.-nek a szociális, valamint a gyermekjóléti
 
 köteles biztosítani.
 
+(3a) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi szolgáltató, intézmény, hálózat a gyermekjóléti, gyermekvédelmi szolgáltatások szakmai feladatai és működési feltételei körében jogszabállyal meghatározott szakmai létszámfeltételeket – az ott meghatározott kivételekkel – csak az Mt. szerinti foglalkoztatási jogviszonyban álló személyek alkalmazásával teljesítheti, ide nem értve a munkakörüket sajátos egyházi szolgálati viszonyban ellátó személyeket.
+
 (4) Az egyházi fenntartónak és a nem állami fenntartónak az általa fenntartott gyermekjóléti, gyermekvédelmi intézmény működéséhez biztosított központi költségvetésről szóló törvényben biztosított támogatás – kivéve a kiegészítő támogatást – teljes összegét át kell adnia azon intézmény részére, amelyre tekintettel a támogatás megállapítására sor került.
 
 (5) A kincstár az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatás iránti kérelméről első fokon
@@ -74,7 +78,7 @@ d) a kérelem módosítását követő naptól számított harminc napon belül 
 
 (8) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról és az ellenőrzés a fenntartó kérelmére nem indítható meg.
 
-(9)
+(9) Az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos határozat ellen fellebbezésnek van helye.
 
 (10) A kincstár az egyházi fenntartók és a nem állami fenntartók – a központi költségvetésről szóló törvényben biztosított – támogatásának elszámolásával és ellenőrzésével kapcsolatos eljárását felfüggesztheti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben
 

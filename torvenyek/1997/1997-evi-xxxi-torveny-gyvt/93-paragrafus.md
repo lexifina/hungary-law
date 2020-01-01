@@ -4,7 +4,7 @@
 
 a) létfenntartását önállóan biztosítani nem tudja, vagy
 
-b) köznevelési, felsőoktatási vagy felnőttképzési intézménnyel (szolgáltatóval) tanulói, hallgatói vagy felnőttképzési jogviszonyban áll, vagy
+b) tanulói jogviszonyban, hallgatói jogviszonyban vagy felnőttképzési jogviszonyban áll, vagy
 
 c) szociális bentlakásos intézménybe felvételét várja.
 
@@ -38,7 +38,7 @@ b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott kés
 
 a) az (1) bekezdés a) pontja szerinti ok miatt részesül ellátásban, az utógondozói ellátás elrendelése okának megszűnésével, de legkésőbb a fiatal felnőtt 21. életévének betöltésével, vagy ha speciális vagy különleges ellátási szükségletűként érte el nagykorúságát, a 22. életévének betöltésével,
 
-b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói, hallgatói vagy felnőttképzési jogviszony megszűnését követő 120. napon, de tanulói vagy felnőttképzési jogviszony fennállása esetén legkésőbb a 24., hallgatói jogviszony fennállása esetén – (9a) bekezdésben foglalt kivétellel – legkésőbb a 25. életévének betöltésével,
+b) az (1) bekezdés b) pontja szerinti ok miatt részesül ellátásban, a tanulói jogviszony, a hallgatói jogviszony vagy a felnőttképzési jogviszony megszűnését követő 120. napon, de a tanuló jogviszony vagy a felnőttképzési jogviszony fennállása esetén legkésőbb a 24., hallgatói jogviszony fennállása esetén – (9a) bekezdésben foglalt kivétellel – legkésőbb a 25. életévének betöltésével,
 
 c) az (1) bekezdés c) pontja szerinti ok miatt részesül ellátásban, a szociális intézménybe való felvételével, de legkésőbb a 22. életévének betöltésével.
 

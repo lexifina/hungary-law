@@ -4,7 +4,7 @@
 
 (2) A működési engedély kiadásáról – a szolgáltató kérelmére – a szolgáltatást engedélyező szerv dönt.
 
-(3) A szolgáltatást engedélyező szerv évente legalább egy alkalommal ellenőrzi, hogy a szolgáltatás megfelel-e a jogszabályokban, a működési engedélyben, valamint a szakmai programban foglaltaknak.
+(3) A szolgáltatást engedélyező szerv kétévente legalább egy alkalommal ellenőrzi, hogy a szolgáltatás megfelel-e a jogszabályokban, a működési engedélyben, valamint a szakmai programban foglaltaknak.
 
 (4) Ha a szolgáltatást engedélyező szerv
 

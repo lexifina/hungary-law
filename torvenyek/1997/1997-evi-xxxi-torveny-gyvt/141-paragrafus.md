@@ -1,6 +1,6 @@
 141. § (1) A területi gyermekvédelmi szakszolgálat vezetője nyilvántartást vezet
 
-a) a befogadó szülőnél, gyermekotthonban vagy fogyatékosok és pszichiátriai betegek otthonában elhelyezett gyermekekről és az üres férőhelyekről,
+a) a befogadó szülőnél, gyermekotthonban vagy fogyatékosok és pszichiátriai betegek otthonában, vagy támogatott lakhatásban elhelyezett gyermekekről és az üres férőhelyekről,
 
 b) az ideiglenes hatállyal elhelyezett gyermek ellátását biztosító nevelőszülőkről, gyermekotthonokról,
 

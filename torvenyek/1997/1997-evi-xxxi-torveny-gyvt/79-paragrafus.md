@@ -18,7 +18,7 @@ e) a gyermek korábbi lakóhelyétől és nevelési-oktatási intézményétől 
 
 f) a 141. § (1) bekezdés a) és b) pontja szerinti nyilvántartások alapján rendelkezésre álló férőhelyekre.
 
-(4) A gyermek gondozási helyéül 12. életévét be nem töltött gyermek esetén – a 7. § (2) bekezdés szerinti kivételekkel – minden esetben, a 12. életévét betöltött gyermek esetén lehetőség szerint nevelőszülőt, vagy ha ez nem lehetséges, gyermekotthont, illetve fogyatékosok vagy pszichiátriai betegek otthonát kell kijelölni.
+(4) A gyermek gondozási helyéül 12. életévét be nem töltött gyermek esetén – a 7. § (2) bekezdés szerinti kivételekkel – minden esetben, a 12. életévét betöltött gyermek esetén lehetőség szerint nevelőszülőt, vagy ha ez nem lehetséges, gyermekotthont, illetve fogyatékosok vagy pszichiátriai betegek otthonát, vagy az Szt. 75. §-a szerinti támogatott lakhatást kell kijelölni.
 
 (5) A gyermek gondozási helyének meghatározására irányuló eljárás eredményeként a gyámhatóság dönt
 

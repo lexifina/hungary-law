@@ -7,3 +7,5 @@
 (2) A helyettes gyermekvédelmi gyámi feladatokat kizárólag a területi gyermekvédelmi szakszolgálat által közalkalmazotti jogviszonyban, önálló munkakörben foglalkoztatott gyermekvédelmi gyám láthatja el.
 
 (3) A gyermekvédelmi gyám a 84. § (6) bekezdése szerinti feladatellátása mellett egyidejűleg legfeljebb harminc gyermek tekintetében láthatja el a helyettes gyermekvédelmi gyámi feladatokat.
+
+(4) A speciális szükségletű és a kettős szükségletű gyermeket két gyermekként kell figyelembe venni a helyettes gyermekvédelmi gyámi feladatok ellátása során.

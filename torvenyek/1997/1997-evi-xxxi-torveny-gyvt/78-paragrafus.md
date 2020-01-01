@@ -24,7 +24,9 @@ aa) 12. életévét be nem töltött gyermek esetén – a 7. § (2) bekezdés s
 
 ab) gyermekotthont, vagy
 
-ac) fogyatékosok vagy pszichiátriai betegek otthonát
+ac) fogyatékosok vagy pszichiátriai betegek otthonát,
+
+ad) az Szt. 75. §-a szerinti támogatott lakhatást
 
 jelöli ki,
 

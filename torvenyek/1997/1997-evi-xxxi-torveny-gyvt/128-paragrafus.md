@@ -43,3 +43,5 @@ b) a jognyilatkozat megtételének elősegítése érdekében az ügyféllel az 
 (7) A támogató (hivatásos támogató) az általa támogatott személy helyett nyilatkozattételre nem jogosult.
 
 (8) A gyámhatóság a (4)–(7) bekezdésben foglaltakról az ügyfelet és a jelen lévő támogatót (hivatásos támogatót) tájékoztatja.
+
+(9) A gyámhatóság döntése alapján az (1)–(3) bekezdés szerinti jognyilatkozatok felvétele érdekében megkeresheti az illetékességi területén belül működő, a jognyilatkozatot tevő személy lakóhelye vagy tartózkodási helye szerinti jegyzőt. A jegyző a jognyilatkozat felvételéről, illetve a gyámhatóság által előre meghatározott kérdésekre adott válaszokról jegyzőkönyvet készít és azt megküldi a gyámhatóságnak.

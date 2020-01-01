@@ -36,4 +36,6 @@ d) a gyermek nevelőszülője.
 
 (6) A gyermekvédelmi gyám egyidejűleg legfeljebb harminc gyermek gyámságát láthatja el.
 
+(6a) A speciális szükségletű és a kettős szükségletű gyermeket két gyermekként kell figyelembe venni a gyermekvédelmi gyám gyámsága alatt álló gyermekek létszámának számításakor.
+
 (7) A gyermekvédelmi gyám mellett a gyámhatóság egyes, e törvényben meghatározott gyámi feladatok ellátására gyámként kirendelheti a nevelőszülőt, feltéve hogy a nevelőszülő a gyámságot vállalja.

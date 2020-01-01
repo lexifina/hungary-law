@@ -16,7 +16,7 @@ a) a települési önkormányzat
 
 aa) az általa fenntartott bölcsődében, mini bölcsődében és óvodában, továbbá
 
-ab) a közigazgatási területén a tankerületi központ, valamint az állami szakképzési és felnőttképzési szerv (e § alkalmazásában a továbbiakban együtt: köznevelési fenntartó) által fenntartott nem bentlakásos nevelési-oktatási intézményben,
+ab) a közigazgatási területén a tankerületi központ, illetve a szakképzési centrum (e § alkalmazásában a továbbiakban együtt: köznevelési fenntartó) részeként működő nevelési-oktatási intézményben, illetve szakképző intézményben,
 
 b) az egyházi és a nem állami fenntartó az általa fenntartott nem bentlakásos intézményben,
 
@@ -36,4 +36,4 @@ b) a települési önkormányzat a közigazgatási területén a köznevelési f
 
 c) az elhelyezést nyújtó intézmény fenntartója a b) pont alá nem tartozó bentlakásos nevelési-oktatási intézményben elhelyezett gyermekek részére.
 
-(6) A főváros közigazgatási területén lévő tankerületekben a köznevelési fenntartó által fenntartott nevelési-oktatási intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – az (1) és a (4) bekezdés szerinti gyermekétkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani az (1) és a (4) bekezdés szerinti gyermekétkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik.
+(6) A főváros közigazgatási területén a köznevelési fenntartó által fenntartott nevelési-oktatási intézményben, illetve szakképző intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – az (1) és a (4) bekezdés szerinti gyermekétkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani az (1) és a (4) bekezdés szerinti gyermekétkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik.

@@ -5,3 +5,5 @@
 (3) A szolgáltatási önköltséget a tárgyévre tervezett adatok alapján a tárgyév április elsejéig kell megállapítani. A szolgáltatási önköltség év közben egy alkalommal korrigálható, ha azt a tárgyidőszaki folyamatok indokolják.
 
 (4) A fenntartó az intézményi térítési díjat az (1) bekezdés szerint kiszámított és külön jogszabály szerint dokumentált térítési díjnál alacsonyabb összegben is meghatározhatja.
+
+(5) A költségvetési támogatásban részesülő munkahelyi bölcsőde és családi bölcsőde fenntartója által meghatározható intézményi térítési díj összege nem haladhatja meg az öregségi nyugdíj legkisebb összegének 250%-át.

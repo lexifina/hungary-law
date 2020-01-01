@@ -14,7 +14,7 @@ a) a kérelmezőnek a 22. § (1) bekezdésében meghatározott körülményeiben
 
 b) a kötelezett rendszeres jövedelmére, illetve az egyéb vagyonára vezetett végrehajtás eredménnyel jár, feltéve, hogy annak mértéke a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja,
 
-c) a kötelezett a kérelmező részére legalább két egymást követő alkalommal közvetlenül fizet tartásdíjat, feltéve, hogy annak összege alkalmanként a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja,
+c) a kötelezett a kérelmező részére legalább négy egymást követő alkalommal közvetlenül fizet tartásdíjat, feltéve, hogy annak összege alkalmanként a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja,
 
 d) a gyermek ideiglenes hatályú elhelyezését rendelték el.
 
@@ -42,6 +42,6 @@ kell kifizetni.
 
 (8) A megelőlegezett gyermektartásdíjat a kötelezett a Polgári Törvénykönyvben meghatározott kamattal az államnak megtéríti.
 
-(9) A gyámhatóság a megelőlegezett gyermektartásdíj kötelezett által meg nem térített összegét a kötelezett kérelmére és a 133. § (5) bekezdésében foglalt feltételek fennállása esetén méltányosságból elengedheti, csökkentheti, illetve részletfizetést engedélyezhet.
+(9) A kincstár a megelőlegezett gyermektartásdíj kötelezett által meg nem térített összegét a kötelezett kérelmére és a 133. § (5) bekezdésében foglalt feltételek fennállása esetén méltányosságból elengedheti, csökkentheti, illetve részletfizetést engedélyezhet.
 
 (10) A megelőlegezett gyermektartásdíj meg nem térített összege tekintetében fennálló tartozás a kötelezett halála esetén megszűnik.

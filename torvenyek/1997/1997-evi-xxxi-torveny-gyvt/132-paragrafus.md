@@ -12,7 +12,7 @@ b) szakértőt rendel ki.
 
 (4) A nevelésbe vett és súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermek ellátására, az ellátás módjára, formájára a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottság tesz javaslatot. A szakértői bizottság eljárásának részletes szabályait külön jogszabály határozza meg.
 
-(5) Az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában az Szt.-ben meghatározott feltételek szerint helyezhetők el gyermekek.
+(5) Az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában, valamint a támogatott lakhatásban az Szt.-ben meghatározott feltételek szerint helyezhetők el gyermekek.
 
 (6) A gyermek és hozzátartozói közötti kapcsolattartás szabályozása vagy annak végrehajtása iránti eljárásban felmerülő konfliktus megoldására a gyámhatóság kezdeményezheti vagy a gyermek érdekében elrendelheti a konfliktusnak – a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló kormányrendeletben meghatározottak szerint lefolytatott – közvetítői eljárás vagy támogatott közvetítői eljárás keretében történő rendezését.
 

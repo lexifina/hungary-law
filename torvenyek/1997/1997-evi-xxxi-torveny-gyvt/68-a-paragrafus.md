@@ -1,4 +1,4 @@
-68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a családtámogatási feladatokat ellátó hatóságnál a családi pótlék szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
+68/A. § (1) Ha az oktatási intézmény a Cst. 15. § (1) bekezdés b) pontja szerinti eset fennállásáról értesíti a gyámhatóságot, a gyámhatóság elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
 
 (2) A gyámhatóság
 

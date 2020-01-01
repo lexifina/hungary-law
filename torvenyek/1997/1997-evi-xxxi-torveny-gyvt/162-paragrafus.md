@@ -82,7 +82,7 @@ j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályai
 
 k) a bölcsődében, mini bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
 
-l)
+l) a bölcsődei ellátást biztosító intézményben, szolgáltatónál foglalkoztatottak jubileumi jutalma alapjául szolgáló illetmény összegébe beszámítandó pótlékokat,
 
 m) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
 

@@ -4,7 +4,7 @@ a) az egészségügyi szolgáltatást nyújtók, így különösen a védőnői 
 
 b) a személyes gondoskodást nyújtó szolgáltatók,
 
-c) a köznevelési intézmények,
+c) a köznevelési intézmények és a szakképző intézmények,
 
 d) a rendőrség,
 

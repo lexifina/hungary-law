@@ -10,7 +10,7 @@ c) az ellátási tevékenységét ellenőrző és a gyermek ügyében eljáró g
 
 d) a területi gyermekvédelmi szakszolgálattal, és
 
-e) a gyermek számára ellátást, szolgáltatást nyújtó intézményekkel, különösen az egészségügyi szolgáltatókkal és köznevelési intézményekkel.
+e) a gyermek számára ellátást, szolgáltatást nyújtó intézményekkel, különösen az egészségügyi szolgáltatókkal, köznevelési intézményekkel és szakképző intézményekkel.
 
 (2) A nevelőszülő az együttműködés keretében köteles haladéktalanul tájékoztatni a működtetőt, ha feladatainak ellátásában tartósan akadályoztatva van vagy életkörülményeiben jelentős változás várható.
 

@@ -2,9 +2,11 @@
 
 98. § (1) Gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet a jogszabályokban előírt feltételek teljesítése esetén bármely fenntartó biztosíthat, ha a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet nyújtó, általa fenntartott szolgáltató, intézmény, hálózat (székhely, telephely) végleges döntéssel be van jegyezve a szolgáltatói nyilvántartásba. Egyes gyermekvédelmi szolgáltató tevékenységek nyújtását jogszabály kizárólagosan állami szerv hatáskörébe utalhatja.
 
+(1a) A területi gyermekvédelmi szakszolgáltatás, és a kizárólag területi gyermekvédelmi szakszolgáltatást nyújtó telephely adatait a szolgáltatói nyilvántartás nem tartalmazza.
+
 (2) A szolgáltatói nyilvántartás tartalmazza
 
-a) a fenntartó nevét, székhelyét, adószámát és típusát,
+a) a fenntartó nevét, székhelyét, adószámát és típusát, valamint egyházi fenntartó esetén a bevett egyház, a bejegyzett egyház, illetve a nyilvántartásba vett egyház nevét,
 
 b) a fenntartó és a szolgáltató, intézmény, hálózat (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
 
@@ -54,7 +56,7 @@ h) a rendőrség, a nyomozó hatóság, az ügyészség, a bíróság és az iga
 
 (8)
 
-(9) A szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően kell működtetni, amelyet a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) ellenőriz. Ha a szolgáltató, intézmény, hálózat (székhely, telephely) működése nem felel meg a jogszabályokban vagy a szolgáltatói nyilvántartásban foglaltaknak, a működést engedélyező szerv
+(9) A szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően kell működtetni, amelyet – a területi gyermekvédelmi szakszolgáltatás kivételével – a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) ellenőriz. Ha a szolgáltató, intézmény, hálózat (székhely, telephely) működése nem felel meg a jogszabályokban vagy a szolgáltatói nyilvántartásban foglaltaknak, a működést engedélyező szerv
 
 a) a 100/A. §-ban foglaltak szerint gyermekvédelmi igazgatási bírságot szabhat ki,
 

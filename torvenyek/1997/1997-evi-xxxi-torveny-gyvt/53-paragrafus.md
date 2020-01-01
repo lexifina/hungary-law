@@ -46,7 +46,7 @@ a) a nevelőszülő a működtető közreműködésével, vagy – ha ez nem leh
 
 b) a gyermekotthon, vagy
 
-c) az Szt. hatálya alá tartozó fogyatékosokat ápoló-gondozó bentlakásos intézmény, illetve fogyatékosok vagy pszichiátriai betegek lakóotthona (a továbbiakban: fogyatékosok vagy pszichiátriai betegek otthona)
+c) az Szt. hatálya alá tartozó fogyatékosokat ápoló-gondozó bentlakásos intézmény, illetve fogyatékos személyek vagy pszichiátriai betegek lakóotthona (a továbbiakban együtt: fogyatékosok vagy pszichiátriai betegek otthona), valamint az Szt. 75. §-a szerinti támogatott lakhatás
 
 a területi gyermekvédelmi szakszolgálat támogatásával, különösen családgondozással, a gyermekvédelmi gyámság ellátásával.
 

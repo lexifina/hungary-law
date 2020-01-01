@@ -58,15 +58,17 @@ b)
 
 c)
 
-d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén, valamint az óvodai és iskolai szociális munka esetén, ha az közösségi vagy csoportos formában történik,
+d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén, valamint az óvodai és iskolai szociális segítő tevékenység esetén, ha az közösségi vagy csoportos formában történik, vagy ha az egyéni formában történő szociális segítő tevékenység nyújtása az első találkozást követően tett intézkedéssel lezárul,
 
 e) a területi gyermekvédelmi szakszolgáltatás által nyújtott, a 60. §-ban, a 62–63. §-ban, a 66. § (1) és (2) bekezdésében, a 66. § (3) bekezdés a) és d)–f) pontjaiban meghatározott szolgáltatások, ellátások esetén,
 
 f) a Biztos Kezdet Gyerekház szolgáltatásnál, ha a fenntartó a központi költségvetésből támogatásban nem részesül.
 
-(3a) Gyermekjóléti szolgáltatás esetében csak a (2) bekezdés a) pont aa) és ac) alpontja szerinti adatokat kell nyilvántartásba venni, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható, vagy ha az óvodai és iskolai szociális munka egyéni formában történik.
+(3a) Gyermekjóléti szolgáltatás esetében csak a (2) bekezdés a) pont aa) és ac) alpontja szerinti adatokat kell nyilvántartásba venni, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható.
 
 (3b) A gyermekek esélynövelő szolgáltatásai esetében csak a (2) bekezdés a), c) és d) pontja szerinti adatokat kell nyilvántartásba venni.
+
+(3c) A gyermekjóléti központ speciális szolgáltatásai közül, ha az egyéni formában történő óvodai és iskolai szociális segítő tevékenység az első találkozást követően tett intézkedéssel nem zárható le, csak a (2) bekezdés a) pont aa) és ac) alpontja, valamint b) pontja szerinti adatokat kell nyilvántartásba venni.
 
 (4) A (2) bekezdés szerinti nyilvántartásból a személyes gondoskodást nyújtó gyermekjóléti alapellátás és gyermekvédelmi szakellátás igénybevételének megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat. A nyilvántartásból – ha törvény eltérően nem rendelkezik – adat nem továbbítható.
 
@@ -74,6 +76,6 @@ f) a Biztos Kezdet Gyerekház szolgáltatásnál, ha a fenntartó a központi k�
 
 (6)
 
-(7) A (2) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
+(7) A (2) bekezdés szerinti nyilvántartáshoz közvetlen hozzáféréssel rendelkezik a működést engedélyező szerv a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
 
 (8) Az ellenőrzésre jogosult szerv a 145/C. § szerinti finanszírozás ellenőrzése céljából betekinthet a (2) bekezdés szerinti nyilvántartásba, és kezelheti annak a 145/C. § szerinti szolgáltató tevékenységekkel kapcsolatos adatait.

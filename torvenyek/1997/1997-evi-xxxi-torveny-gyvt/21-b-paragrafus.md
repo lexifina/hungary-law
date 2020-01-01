@@ -40,7 +40,7 @@ c) az (1) bekezdés a), b) és d) pontja szerinti életkorú, tartósan beteg va
 
 a) a tizennyolc éven aluli,
 
-b) a huszonöt évesnél fiatalabb, köznevelési intézményben nappali rendszerű iskolai oktatásban részt vevő, a nappali oktatás munkarendje szerint szervezett felnőttoktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló, és
+b) a huszonöt évesnél fiatalabb, köznevelési intézményben vagy szakképző intézményben nappali rendszerű iskolai oktatásban részt vevő, a nappali oktatás munkarendje szerint szervezett felnőttoktatásban, illetve szakképzésben részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló, és
 
 c) életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos
 
@@ -58,7 +58,7 @@ c) az a) és b) pontba nem tartozó, a Ptk. családjogra irányadó szabályai a
 
 (6) Az ingyenes vagy kedvezményes intézményi gyermekétkeztetés gyermekenként csak egy jogcímen vehető igénybe.
 
-(7) Ha a tanuló – a szakképzésre vonatkozó rendelkezések szerint létrejött – tanulószerződése alapján már jogosult ingyenes vagy kedvezményes étkeztetésre, ugyanazon étkeztetés tekintetében az (1) és (2) bekezdés szerinti ingyenes és kedvezményes intézményi gyermekétkeztetést nem veheti igénybe.
+(7) Ha a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő személy már jogosult ingyenes vagy kedvezményes étkeztetésre, ugyanazon étkeztetés tekintetében az (1) és (2) bekezdés szerinti ingyenes és kedvezményes intézményi gyermekétkeztetést nem veheti igénybe.
 
 (8) A nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben ideiglenes hatállyal elhelyezett gyermek és a tanulói jogviszonyban nem álló, illetve nem nappali rendszerű iskolai oktatásban részt vevő utógondozói ellátásban részesülő fiatal felnőtt nem jogosult ingyenes és kedvezményes intézményi gyermekétkeztetésre.
 
