@@ -5,11 +5,3 @@
 (2) A 12. § (2) és (3) bekezdése 2020. február 1-jén lép hatályba.
 
 (3) A 10. §, a 12. § (1) bekezdése, a 13. §, a 14. § az e törvény kihirdetését követő hatvanadik napon lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
