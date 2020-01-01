@@ -1,11 +1,3 @@
-32. § A pénztárkönyv és a pénztárnapló a következő adatokat tartalmazza:
+32. §[^78]
 
-a) tételszám;
-
-b) a tétel bevezetésének időpontja;
-
-c) a fél (felek) neve, lakóhelye, az ügylet tárgya, utalással az okirat ügyszámára;
-
-d) a bevételek és kiadások összege, a készpénz, a számlakövetelés és az értéktárgyak szerinti bontásban;
-
-e) megjegyzés.
+[^78]: A Vhr. 32. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

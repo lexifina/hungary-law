@@ -1,9 +1,5 @@
 ## Pénztárkönyv és pénztárnapló
 
-31. §[^103] (1)[^104] A pénztárkönyvet és a pénztárnaplót az országos kamara által a közjegyzők rendelkezésére bocsátott számítógépes nyilvántartás útján kell vezetni. Az országos kamara olyan számítógépes nyilvántartást bocsát a közjegyző rendelkezésére, amely a titoktartási szabályok megtartását biztosítja.
+31. §[^77]
 
-(2)[^105]
-
-[^103]: A Vhr. 31. §-a a 29/2014. (IV. 30.) KIM rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^104]: A Vhr. 31. § (1) bekezdése a 40/2015. (XII. 22.) IM rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^105]: A Vhr. 31. § (2) bekezdését a 40/2015. (XII. 22.) IM rendelet 1. § (11) bekezdés a) pontja hatályon kívül helyezte.
+[^77]: A Vhr. 31. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

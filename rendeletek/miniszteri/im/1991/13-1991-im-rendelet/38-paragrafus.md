@@ -1,1 +1,3 @@
-38. § A jogszabály, illetőleg a területi elnökség e rendeletben foglaltakon túlmenően más (adó-, munkaügyi stb.) nyilvántartások vezetését is kötelezővé teheti.
+38. §[^88]
+
+[^88]: A Vhr. 38. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

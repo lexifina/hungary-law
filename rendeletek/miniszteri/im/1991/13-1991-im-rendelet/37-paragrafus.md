@@ -1,8 +1,6 @@
 ## Egyéb rendelkezések
 
-37. § (1)[^115] A közjegyzői ügyek nyilvántartásának és a hitelesítések nyilvántartásának elektronikus formában történő vezetéséhez szükséges programot az országos kamara bocsátja a közjegyző rendelkezésére.
+37. §[^86] (1)[^87]
 
-(2)[^116]
-
-[^115]: A Vhr. 37. § (1) bekezdése a 40/2015. (XII. 22.) IM rendelet 1. § (9) bekezdésével megállapított szöveg.
-[^116]: A Vhr. 37. § (2) bekezdését a 40/2015. (XII. 22.) IM rendelet 1. § (11) bekezdés d) pontja hatályon kívül helyezte.
+[^86]: A Vhr. 37. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^87]: A Vhr. 37. § (1) bekezdése a 40/2015. (XII. 22.) IM rendelet 1. § (9) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-## Az archiválás ügyviteli szabályai[^113]
+## Az archiválás ügyviteli szabályai[^84]
 
-36/A. §[^114] Ha a tartós helyettes vagy ha a közjegyző az általa készített okiratokat nem archiválta, a területi kamara erre kijelölt tagja a mulasztás észlelésétől számított 60 napon belül köteles az archiválási feladatokat elvégezni.
+36/A. §[^85]
 
-[^113]: A Vhr. 36/A. §-át megelőző alcímet a 33/2008. (XII. 31.) IRM rendelet 9. §-a iktatta be.
-[^114]: A Vhr. 36/A. §-t a 33/2008. (XII. 31.) IRM rendelet 9. §-a iktatta be.
+[^84]: A Vhr. 36/A. §-át megelőző alcímet a 33/2008. (XII. 31.) IRM rendelet 9. §-a iktatta be.
+[^85]: A Vhr. 36/A. §-t a 33/2008. (XII. 31.) IRM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja.
