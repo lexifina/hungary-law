@@ -8,4 +8,13 @@
 
 (4) A működtető és a befogadó szülő megállapodhatnak a befogadó szülő nem rendszeres, indokolt és igazolt költségeinek a megtérítésében, különösen akkor, ha a gyermek egészséges fejlődéséhez nagy összegű gyógyászati segédeszköz beszerzése szükséges, vagy a gyermek személyiségfejlődését és egészségét jelentősen elősegítő kezelésen, foglalkozáson való részvétel és az ehhez szükséges eszközök beszerzése válik indokolttá.
 
-(5) Ha feltehető, hogy a befogadó szülő a gyermek, fiatal felnőtt ellátására járó juttatásokat nem erre a célra használja fel, a működtető az erről való tudomásszerzést követő hónap első napjától tételes elszámolást ír elő, feltéve, hogy súlyosabb intézkedés megtétele nem indokolt. Ha a befogadó szülő a tételes elszámolásnak az előírt határidőn belül nem tesz eleget, a működtető a nevelőszülői foglalkoztatási jogviszonyt vagy a helyettes szülői jogviszonyt felmondhatja.
+(5)[^3] A működtető a befogadó szülőt a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 48/A. § (7) bekezdése szerinti szakmai programjában meghatározottak szerint számoltatja el a gyermek, fiatal felnőtt ellátására járó juttatások felhasználásáról.
+
+(6)[^4] Ha a befogadó szülő
+
+a) a szakmai programban meghatározott elszámolásnak legalább 8 napos határidővel kitűzött felhívás ellenére nem tesz eleget, a működtető a nevelőszülői foglalkoztatási jogviszonyt vagy a helyettes szülői jogviszonyt felmondhatja, vagy ha az elszámolásra kitűzött újabb határidő eredménytelenül telt el, a működtető a nevelőszülői foglalkoztatási jogviszonyt vagy a helyettes szülői jogviszonyt felmondja,
+
+b) által a gyermek, fiatal felnőtt ellátására járó juttatásoknak nem az ellátás céljára történő felhasználását a működtető megállapítja, a nevelőszülői foglalkoztatási jogviszonyt vagy a helyettes szülői jogviszonyt felmondja.
+
+[^3]: A 4. § (5) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (6) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be.
