@@ -1,12 +1,12 @@
 ## Illékony szerves oldószer tartalmú termékek forgalmazása[^4]
 
-3. §[^5] (1)[^6] A kötelezett az 1. számú mellékletben meghatározott kategóriákba tartozó terméket akkor forgalmazhat, ha rendelkezik a kereskedelmi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) engedélyével.
+3. §[^5] (1)[^6] A kötelezett az 1. számú mellékletben meghatározott kategóriákba tartozó terméket akkor forgalmazhat, ha azt előzetesen a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény alapján bejelentette a kereskedelmi feladatkörében eljáró Budapest Főváros Kormányhivatalához (a továbbiakban: Kormányhivatal).
 
-(2)[^7] Az (1) bekezdés szerinti engedéllyel rendelkezőkről a Kormányhivatal nyilvántartást vezet a következő tartalommal: a kötelezett megnevezése, székhelyének és telephelyének elérhetősége (postai cím, telefon, fax, elektronikus levelezési cím), nyilvántartási száma. A nyilvántartást a Kormányhivatal a honlapján bárki számára ingyenesen és korlátozás nélkül elérhető módon folyamatosan közzéteszi.
+(2)[^7] Az (1) bekezdés szerinti bejelentést tevőkről a Kormányhivatal nyilvántartást vezet a következő tartalommal: a kötelezett megnevezése, székhelyének és telephelyének elérhetősége (postai cím, telefon, fax, elektronikus levelezési cím), nyilvántartási száma. A nyilvántartást a Kormányhivatal a honlapján bárki számára ingyenesen és korlátozás nélkül elérhető módon folyamatosan közzéteszi.
 
 (2a)[^8] A (2) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3)[^9] A Kormányhivatal a kötelezettnek akkor ad engedélyt, ha
+(3)[^9] A Kormányhivatal a bejelentést tudomásul veszi, ha
 
 a) a kötelezett vagy annak alkalmazottja rendelkezik a jogszabályban meghatározott szakképesítéssel,
 
@@ -16,9 +16,9 @@ c) a kötelezettet nem nevesítették az Európai Unió jogi aktusában mint ter
 
 (4)[^11] A nyilvántartásban szereplő adatokban bekövetkezett változásokat harminc napon belül a Kormányhivatalhoz be kell jelenteni.
 
-(5)[^12] Az engedély iránti kérelmet a 6. számú melléklet szerinti adattartalommal kell benyújtani.
+(5)[^12] A bejelentést a 6. számú melléklet szerinti adattartalommal kell benyújtani.
 
-(6)[^13] A Kormányhivatal a kötelezett engedélyét visszavonja, és ezzel egyidejűleg törli a kötelezettet a nyilvántartásból, ha
+(6)[^13] A Kormányhivatal törli a kötelezettet a nyilvántartásból, ha
 
 a) az e rendeletben előírt feltételeknek már nem felel meg,
 
@@ -26,17 +26,17 @@ b) az e rendelet alapján ellenőrzésre jogosult hatóságok megállapítása s
 
 (7)[^14] A Kormányhivatal a határozatát és annak módosítását, visszavonását közli a kötelezett üzlete vagy telephelye szerint illetékes jegyzővel.
 
-(8)[^15] Az a kötelezett, amelynek az engedélyét a Kormányhivatal a (6) bekezdés b) pontja alapján visszavonta, az engedély visszavonásának napjától számított egy éven belül nem kaphat engedélyt.
+(8)[^15] Az a kötelezett, amelyet a Kormányhivatal a (6) bekezdés b) pontja alapján törölt a nyilvántartásból, a törlés napjától számított egy évig nem vehető ismételten nyilvántartásba.
 
 [^4]: A 3. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § a 182/2009. (IX. 10.) Korm. rendelet 450. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^6]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
-[^7]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^7]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 41. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^8]: A 3. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 7. §-a iktatta be.
-[^9]: A 3. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^10]: A 3. § (3) bekezdés b) pontja a 457/2018. (XII. 28.) Korm. rendelet 162. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^11]: A 3. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § d) pontja szerint módosított szöveg.
-[^12]: A 3. § (5) bekezdése a 457/2018. (XII. 28.) Korm. rendelet 162. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^13]: A 3. § (6) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^12]: A 3. § (5) bekezdése a 457/2018. (XII. 28.) Korm. rendelet 162. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 41. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^13]: A 3. § (6) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 41. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^14]: A 3. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
-[^15]: A 3. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 72. § c) pontja szerint módosított szöveg.
+[^15]: A 3. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

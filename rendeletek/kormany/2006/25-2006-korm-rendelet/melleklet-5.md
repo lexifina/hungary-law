@@ -8,6 +8,6 @@
 
 ## * 2010. január 1-je előtt csak a 2007. január 1-jétől, 2010. január 1-je után csak a 2010. január 1-jétől hatályos határérték feltüntetése kötelező, de mindkét határérték feltüntetésére is lehetőség van.
 
-5. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^42]
+5. számú melléklet a 25/2006. (II. 3.) Korm. rendelethez[^44]
 
-[^42]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 451. §-a, a 379/2016. (XII. 2.) Korm. rendelet 72. § k) pontja szerint módosított szöveg.
+[^44]: Az 5. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 451. §-a, a 379/2016. (XII. 2.) Korm. rendelet 72. § k) pontja, a 360/2019. (XII. 30.) Korm. rendelet 41. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

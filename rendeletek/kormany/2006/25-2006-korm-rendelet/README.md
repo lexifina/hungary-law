@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-25-20-2
 | 2013-07-01 | 2006-25-20-22.14 | 203/2013. (VI. 14.) Korm. rendelet |
 | 2017-01-01 | 2006-25-20-22.15 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2006-25-20-22.16 | 457/2018. (XII. 28.) Korm. rendelet |
+| 2020-01-01 | 2006-25-20-22.17 | 360/2019. (XII. 30.) Korm. rendelet |
