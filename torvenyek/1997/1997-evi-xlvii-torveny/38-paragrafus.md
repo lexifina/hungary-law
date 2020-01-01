@@ -30,7 +30,7 @@ m) a Protézis Regisztert vezető szervet kijelölje, valamint a Protézis Regis
 
 n) az EESZT műszaki követelményeit,
 
-o) az egészségügyi ellátóhálózatba tartozó, a 35/B. § (2) bekezdése alapján csatlakozó adatkezelők EESZT-hez csatlakozásának feltételeit, az EESZT-hez való csatlakozáshoz szükséges informatikai rendszer követelményeit, valamint az EESZT-hez csatlakozásra kötelezett államigazgatási szervek és egyéb szervezetek körét, a csatlakozás rendjét, a csatlakozás ütemezését, az EESZT bevezetési időszakának szabályait, valamint az EESZT-hez való közvetlen hozzáférés feltételeit és a szolgáltatások igénybevételéhez szükséges azonosítás követelményeit,
+o) az egészségügyi ellátóhálózatba tartozó, a 35/B. § (2) bekezdése alapján csatlakozó adatkezelők EESZT-hez csatlakozásának feltételeit, az EESZT-hez való csatlakozáshoz szükséges informatikai rendszer követelményeit, az arra vonatkozó ajánlás tartalmi követelményeit és közzétételének részletes szabályait, valamint az EESZT-hez csatlakozásra kötelezett államigazgatási szervek és egyéb szervezetek körét, a csatlakozás rendjét, a csatlakozás ütemezését, az EESZT bevezetési időszakának szabályait, valamint az EESZT-hez való közvetlen hozzáférés feltételeit és a szolgáltatások igénybevételéhez szükséges azonosítás követelményeit,
 
 p) az ellátási eseménynek a csatlakozott adatkezelő által a nyilvántartó rendelkezésére bocsátandó adatait, valamint a központi eseménykatalógusra vonatkozó részletes szabályokat,
 
@@ -48,7 +48,11 @@ v) az elektronikus konzílium és digitális képtovábbítás részletes szabá
 
 w) a látlelet tartalmi és formai követelményeit, kiadásának rendjét,
 
-x) a népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések körét, a megbetegedéseket nyilvántartó betegségregisztert vezető szervet, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat
+x) a népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések körét, a megbetegedéseket nyilvántartó betegségregisztert vezető szervet, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
+
+y) az EESZT-hez csatlakozott egészségügyi szolgáltatók által használt informatikai rendszerek megfelelőségére vonatkozó követelményeket,
+
+z) a Donor Regisztert vezető szervet kijelölje, és a Donor Regiszterre vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

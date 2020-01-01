@@ -39,3 +39,5 @@ tartalmazza.
 (4) A gyógyszerkiváltás során a gyógyszerész akkor ismerheti meg a gyógyszerellátásban részesülő biztosított (3) bekezdés szerinti adatait, ha a gyógyszerellátásban részesülő biztosított személyesen jár el.
 
 (5) A gyógyszerész a biztosított kérésére a biztosított részére tájékoztatást ad a gyógyszerellátásban részesülő biztosított (3) bekezdés szerinti adatairól.
+
+(6) Az EESZT útján továbbított, vagy abban rögzített vények nyilvántartásából a gyógyszerészek a (3) bekezdés alapján jogszerűen megismerhető adatokat az EESZT útján is megismerhetik azzal az eltéréssel, hogy az EESZT útján a nem a kötelező egészségbiztosítás terhére igénybevett gyógyszereléssel kapcsolatos adatok is megismerhetők. A gyógyszereléssel kapcsolatos adatok (3)–(5) bekezdésben foglalt megismerésének és dokumentálásának szabályait EESZT útján történő megismerés esetén úgy kell alkalmazni, hogy az érintett tiltakozáshoz való joga ne sérüljön.

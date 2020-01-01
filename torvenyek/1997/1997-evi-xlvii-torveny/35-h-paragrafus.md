@@ -1,12 +1,12 @@
 ## Önrendelkezési nyilvántartás
 
-35/H. § (1) Az érintett az EESZT útján a Kormány által rendeletben kijelölt, az önrendelkezési nyilvántartást vezető szerv által rendszeresített elektronikus formanyomtatványon, a Kormány által kötelezően nyújtott azonosítási szolgáltatás útján történő azonosítását követően elektronikusan, vagy a Kormány által kijelölt szervnél vagy a kormányablaknál személyesen, vagy meghatalmazottja útján írásban – a (3) bekezdésben meghatározott tartalommal – bejelentheti az egészségügyi és hozzájuk kapcsolódó személyes adatai e törvény szerinti kezeléséhez hozzájáruló vagy azt korlátozó nyilatkozatát (a továbbiakban: önrendelkezési nyilatkozat).
+35/H. § (1) Az érintett az EESZT útján a Kormány által rendeletben kijelölt, az önrendelkezési nyilvántartást vezető szerv által rendszeresített elektronikus formanyomtatványon, a Kormány által kötelezően nyújtott azonosítási szolgáltatás útján történő azonosítását követően elektronikusan, vagy a Kormány által kijelölt szervnél vagy a kormányablaknál személyesen, vagy meghatalmazottja útján írásban – a (3) bekezdésben meghatározott tartalommal – bejelentheti az egészségügyi és hozzájuk kapcsolódó személyes adatai e törvény szerinti kezeléséhez hozzájáruló vagy azt korlátozó nyilatkozatát, ideértve az EESZT-ben tárolt adataihoz való hozzáférésre, illetve az érintett nevére felírt vények kiváltására vonatkozó meghatalmazás adását is (a továbbiakban: önrendelkezési nyilatkozat).
 
 (2) Ha az érintett az önrendelkezési nyilatkozatát nem az EESZT útján teszi meg, a nyilatkozatot befogadó szerv jegyzőkönyvet vesz fel, és haladéktalanul, de a kézhezvételtől vagy a személyes nyilatkozattételtől számított legfeljebb egy munkanapon belül a nyilatkozatot a (4) bekezdésben meghatározottaknak megfelelő adattartalommal, az önrendelkezési nyilvántartást vezető szerv által rendszeresített elektronikus formanyomtatványon eljuttatja az önrendelkezési nyilvántartást vezető szervnek.
 
 (3) Az (1) bekezdés szerinti bejelentés és az önrendelkezési nyilvántartás tartalmazza:
 
-a)
+a) ha az önrendelkezési nyilatkozatot tevő meghatalmazást kíván adni, az (1) bekezdésben megjelöltek szerinti meghatalmazást,
 
 b) az önrendelkezési nyilatkozatot tevő TAJ számát,
 

@@ -5,3 +5,5 @@
 (2) Elektronikus konzílium lefolytatását a működtető az EESZT útján akkor biztosítja, ha a konzíliumra felkért orvos az elektronikus konzílium lefolytatását biztosítja, a konzílium a felkérést elfogadja, és az érintettre vonatkozó adatokat jogosult megismerni.
 
 (3) A működtető a digitális képtovábbítás során továbbított adatokat a szolgáltatás műszaki optimalizálása érdekében legfeljebb 90 napig tárolja.
+
+(4) Az Ebtv. szerinti országos várólista-nyilvántartást vezető szerv, valamint az országos tisztifőorvos jogosult az EESZT útján hozzáférni a várólistákkal kapcsolatos ellenőrzési feladataihoz szükséges egészségügyi adatokhoz.
