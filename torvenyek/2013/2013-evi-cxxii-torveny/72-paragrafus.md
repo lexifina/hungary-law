@@ -6,7 +6,7 @@ b) a helyi földbizottság működéséről és a tagjai nyilvántartásának a 
 
 c) a tulajdonjog átruházására szolgáló okmány biztonsági kellékeit, valamint a kibocsátásának szabályait;
 
-d) a mezőgazdasági vagy erdészeti szakirányú képzettségeket;
+d) a mezőgazdasági vagy erdészeti szakirányú szakképzettségeket és szakképesítéseket;
 
 e) a mezőgazdasági üzemközpontok nyilvántartásának vezetésére vonatkozó szabályokat;
 

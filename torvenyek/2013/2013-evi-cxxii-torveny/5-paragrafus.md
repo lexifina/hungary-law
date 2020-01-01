@@ -14,7 +14,7 @@
 
 6. fiatal földműves: az a földműves, aki az elővásárlási, illetve előhaszonbérleti jog gyakorlása időpontjában elmúlt 16 éves, de a 40. életévét még nem töltötte be;
 
-7. földműves: Magyarországon nyilvántartásba vett belföldi természetes személy, illetve tagállami állampolgár, aki e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel rendelkezik vagy ennek hiányában igazoltan legalább 3 éve
+7. földműves: Magyarországon nyilvántartásba vett belföldi természetes személy, illetve tagállami állampolgár, aki e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel rendelkezik vagy ennek hiányában igazoltan legalább 3 éve
 
 a) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet saját nevében és saját kockázatára folyamatosan Magyarországon folytat, és ebből igazoltan árbevétele származott, vagy az árbevétel azért maradt el, mert a megvalósult mező- vagy erdőgazdasági célú beruházás még nem hasznosulhatott, vagy
 
@@ -50,7 +50,7 @@ aa) alaptevékenysége olyan mező-, erdőgazdasági tevékenység, illetve kieg
 
 ab) éves értékesítése nettó árbevételének több mint a fele a mező-, erdőgazdasági tevékenységből, illetve a kiegészítő tevékenységből származik, és
 
-ac) legalább egy vezető tisztségviselője, vagy a cégvezetője a mező-, erdőgazdasági tevékenységet, illetve a kiegészítő tevékenységet a szervezetben fennálló tagsági viszonyához kapcsolódóan gyakorolja, és e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel, vagy a mezőgazdasági igazgatási szerv által igazolt legalább 3 éves üzemi gyakorlattal rendelkezik, vagy
+ac) legalább egy vezető tisztségviselője, vagy a cégvezetője a mező-, erdőgazdasági tevékenységet, illetve a kiegészítő tevékenységet a szervezetben fennálló tagsági viszonyához kapcsolódóan gyakorolja, és e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel, vagy a mezőgazdasági igazgatási szerv által igazolt legalább 3 éves üzemi gyakorlattal rendelkezik, vagy
 
 b) amely újonnan alapított mezőgazdasági termelőszervezetnek minősül;
 
@@ -64,7 +64,7 @@ a) a föld tulajdonjogának megszerzésére vonatkozó jognyilatkozat megtétel�
 
 b) nem rendelkezik az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső államban fekvő föld tulajdonjogával,
 
-c) e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel rendelkezik, és
+c) e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel rendelkezik, és
 
 d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő mezőgazdasági termelőként nyilvántartásba vételre kerül;
 
@@ -82,7 +82,7 @@ a) amelynek alaptevékenysége a mező-, erdőgazdasági tevékenység, illetve 
 
 b) amely nem rendelkezik az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső államban fekvő föld felett használati joggal,
 
-c) amelynek legalább egy vezető tisztségviselője, vagy a cégvezetője a mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet a szervezetben fennálló tagsági viszonyához kapcsolódóan gyakorolja és e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú képzettséggel, vagy a mezőgazdasági igazgatási szerv által igazolt legalább 3 éves üzemi gyakorlattal rendelkezik, és
+c) amelynek legalább egy vezető tisztségviselője, vagy a cégvezetője a mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet a szervezetben fennálló tagsági viszonyához kapcsolódóan gyakorolja és e törvény végrehajtására kiadott rendeletben meghatározott mezőgazdasági vagy erdészeti szakirányú szakképzettséggel vagy szakképesítéssel, vagy a mezőgazdasági igazgatási szerv által igazolt legalább 3 éves üzemi gyakorlattal rendelkezik, és
 
 d) a szervezet nem különválással, kiválással, szervezeti formaváltással, egyéb jogutódlás folytán keletkezett;
 

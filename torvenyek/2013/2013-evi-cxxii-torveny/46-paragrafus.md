@@ -28,7 +28,9 @@ b) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott f�
 
 c) kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja kertészeti tevékenység folytatásához szükséges terület biztosítása;
 
-d) szántó művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja szaporítóanyag-előállításhoz szükséges terület biztosítása.
+d) szántó művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja szaporítóanyag-előállításhoz szükséges terület biztosítása;
+
+e) szántó, szőlő, gyümölcsös, kert művelési ágban nyilvántartott föld haszonbérbe adása esetén a föld területe legalább fele részének öntözhetőségét biztosító és a földdel alkotórész kapcsolatba kerülő öntözésfejlesztési beruházást végrehajtó földművest vagy mezőgazdasági termelőszervezetet, ha a haszonbérleti szerződés időtartamának legalább fele részében a végrehajtott öntözésfejlesztési beruházás a számvitelről szóló törvény rendelkezései szerint még értékkel bír.
 
 (4) Az (1) bekezdés b)–d) pontjában, valamint a (2)–(3) bekezdésben meghatározott földműves jogosulti csoportokon belül az előhaszonbérletre jogosultak sorrendje a következő
 

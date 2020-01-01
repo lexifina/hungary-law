@@ -20,6 +20,6 @@ b) (2) bekezdésében meghatározott esetben a helyi földbizottság állásfogl
 
 belül döntést hoz.
 
-(4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli az eladóval, az adás-vételi szerződés szerinti vevővel, valamint azokkal az elővásárlásra jogosultakkal, akik az adás-vételi szerződésre elfogadó jognyilatkozatot tettek, továbbá a helyi földbizottsággal.
+(4) A mezőgazdasági igazgatási szerv az (1)–(3) bekezdésben meghatározott döntését közli az eladóval, az adásvételi szerződés szerinti vevővel, valamint azokkal az elővásárlásra jogosultakkal, akik az adásvételi szerződésre elfogadó jognyilatkozatot tettek, továbbá a helyi földbizottsággal. Ha az eladó az adásvételi szerződésben megadta a vevő javára szóló bejegyzési engedélyt, a mezőgazdasági igazgatási szerv a (2) bekezdésben meghatározott döntését közli az ingatlanügyi hatósággal is.
 
 (5) A mezőgazdasági igazgatási szerv döntésével szemben fellebbezésnek nincs helye. A közigazgatási perben a bíróság a mezőgazdasági igazgatási szerv döntését nem változtathatja meg.
