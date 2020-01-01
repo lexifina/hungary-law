@@ -1,5 +1,5 @@
-## 20172220000388_10
+## 20172220000388_26
 
-11. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^14]
+11. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^15]
 
-[^14]: A 11. melléklet a 216/2018. (XI. 27.) Korm. rendelet 1. § (11) bekezdésével megállapított szöveg.
+[^15]: A 11. melléklet a 273/2019. (XI. 20.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.

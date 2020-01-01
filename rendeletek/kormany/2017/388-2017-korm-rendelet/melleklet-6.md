@@ -1,5 +1,5 @@
-## 20172220000388_5
+## 20172220000388_21
 
-6. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^9]
+6. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^10]
 
-[^9]: A 6. melléklet a 216/2018. (XI. 27.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^10]: A 6. melléklet a 273/2019. (XI. 20.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.

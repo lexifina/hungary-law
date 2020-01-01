@@ -1,5 +1,5 @@
-## 20172220000388_4
+## 20172220000388_20
 
-5. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^8]
+5. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^9]
 
-[^8]: Az 5. melléklet a 216/2018. (XI. 27.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^9]: Az 5. melléklet a 273/2019. (XI. 20.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.

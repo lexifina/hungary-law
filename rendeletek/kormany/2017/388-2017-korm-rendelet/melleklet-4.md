@@ -1,5 +1,5 @@
-## 20172220000388_3
+## 20172220000388_19
 
-4. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^7]
+4. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^8]
 
-[^7]: A 4. melléklet a 216/2018. (XI. 27.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^8]: A 4. melléklet a 273/2019. (XI. 20.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
