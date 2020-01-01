@@ -18,9 +18,9 @@ e)[^11] dönt a kreditelismerésekről, a komplex vizsga követelményeiről, az
 
 f)[^12] a doktori szabályzatban meghatározottak szerint a doktori iskolák javaslatára kijelöli a doktori felvételi bizottság tagjait, a bírálóbizottság tagjait és a hivatalos bírálókat, létrehozza a komplexvizsga-bizottságot, továbbá jóváhagyja a doktori témavezetők és a doktori iskola oktatóinak személyét, mely jogosítványokat átruházhatja a tudományági doktori tanácsra;
 
-g) meghatározza a doktori fokozatszerzés idegen nyelvi követelményei körében az első idegen nyelvként (első nyelvvizsga) elfogadható nyelvek listáját, mely jogosítványát átruházhatja a tudományági doktori tanácsra;
+g)[^13] a doktori szabályzatban meghatározza a fokozatszerzés nyelvi követelményeit, amely jogosítvány átruházható a doktori iskola működési szabályzatára;
 
-h)[^13] a bírálóbizottság véleménye alapján dönt a zárt védés iránti kérelemről, amely jogosítványát átruházhatja a tudományági doktori tanácsra;
+h)[^14] a bírálóbizottság véleménye alapján dönt a zárt védés iránti kérelemről, amely jogosítványát átruházhatja a tudományági doktori tanácsra;
 
 i) véleményezi a szenátus részére a rektornak a tiszteletbeli doktori illetve a tiszteletbeli doktori és professzori cím adományozására tett előterjesztéseit, valamint a doktori iskola megszüntetésére tett javaslatát;
 
@@ -29,4 +29,5 @@ j) megválasztja a felsőoktatási intézmény doktori iskoláinak vezetőit, me
 [^10]: A 9. § (2) bekezdés b) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
 [^11]: A 9. § (2) bekezdés e) pontja a 266/2016. (VIII. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^12]: A 9. § (2) bekezdés f) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
-[^13]: A 9. § (2) bekezdés h) pontja a 266/2016. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: A 9. § (2) bekezdés g) pontja a 191/2019. (VII. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^14]: A 9. § (2) bekezdés h) pontja a 266/2016. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
