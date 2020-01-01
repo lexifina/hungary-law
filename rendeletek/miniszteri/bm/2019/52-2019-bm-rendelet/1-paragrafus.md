@@ -1,0 +1,3 @@
+1. § (1) A katasztrófavédelmi hatóság hatáskörébe a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 4/D. §-a alapján tartozó, a veszélyes áru szállítás során használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek jóváhagyásával kapcsolatos hatósági eljárásért a kérelmet előterjesztő ügyfél igazgatási szolgáltatási díjat (a továbbiakban: díj) fizet az eljáró hatóság, mint a díj beszedésére jogosult részére.
+
+(2) A díj mértékét az 1. melléklet állapítja meg.
