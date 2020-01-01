@@ -48,4 +48,6 @@ tartozása van, vagy
 
 b) a kérelmező a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
 
+(4b) A kérelmező (4a) bekezdés szerinti kötelezettségének teljesítését a bányafelügyelet ellenőrzi.
+
 (5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. A kiesés okát a bányavállalkozónak kell igazolnia.

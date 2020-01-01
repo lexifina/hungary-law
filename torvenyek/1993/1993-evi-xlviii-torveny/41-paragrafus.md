@@ -2,7 +2,7 @@
 
 41. § (1) A bányafelügyelet azt a jogi vagy természetes személyt, aki vagy amely jogosulatlanul bányászati tevékenységet végez vagy végeztet, bírsággal sújtja és eltiltja a tevékenység folytatásától, valamint kötelezi a jogosulatlanul kitermelt érték megfizetésére. Jogosulatlanul az folytat bányászati tevékenységet, aki
 
-a) a 4. § szerinti felszíni előkutatást a kötelező bejelentést elmulasztva végzi,
+a)
 
 b) bányászati koncesszió vagy bányafelügyeleti engedély nélkül ásványi nyersanyagot termel ki, vagy geotermikus energiát hasznosít,
 
