@@ -8,7 +8,7 @@
 
 3. értékelő: olyan állami projektértékelői jogviszonyban álló állami alkalmazott, aki a keretszerződés megkötését követően szaktudása alapján végzi a támogatási kérelmek tartalmi értékelését;
 
-4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés c)–g) és i) pontjában meghatározott szerv;
+4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés a)–c) pontjában meghatározott szerv, a Kormány kivételével;
 
 5. programozási időszak: az Európai Unió által meghatározott hétéves tervezési periódus;
 

@@ -8,7 +8,7 @@
 
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
-a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, állami tisztviselőként vagy köztisztviselőként,
+a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként vagy köztisztviselőként,
 
 b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, valamint állami felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
 
