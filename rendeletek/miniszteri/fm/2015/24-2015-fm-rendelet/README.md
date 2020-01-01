@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-24-20-1
 | 2018-12-19 | 2015-24-20-11.17 | 5/2018. (VI. 22.) AM rendelet |
 | 2019-01-01 | 2015-24-20-11.18 | 86/2016. (XII. 20.) FM rendelet |
 | 2019-07-27 | 2015-24-20-11.19 | 36/2019. (VII. 26.) AM rendelet |
+| 2020-01-01 | 2015-24-20-11.20 | 86/2016. (XII. 20.) FM rendelet |
