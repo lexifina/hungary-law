@@ -26,7 +26,7 @@ b) áthelyezéssel
 
 2. e törvény és a közszolgálati tisztviselőkről szóló törvény,
 
-3.
+3. e törvény és a honvédelmi alkalmazottak jogállásáról szóló törvény
 
 4. és a hivatásos, továbbá a szerződéses szolgálati jogviszonyt szabályozó jogszabályok,
 

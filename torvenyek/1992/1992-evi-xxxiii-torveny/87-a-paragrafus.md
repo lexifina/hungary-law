@@ -22,7 +22,9 @@ j) honvédelmi alkalmazottak jogállásáról szóló törvény szerinti honvéd
 
 k) rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban,
 
-l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban
+l) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
+
+m) a 25/D. § szerint a két jogviszony között
 
 töltött időt.
 

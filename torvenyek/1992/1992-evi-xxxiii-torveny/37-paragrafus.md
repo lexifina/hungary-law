@@ -24,7 +24,9 @@ c) közalkalmazotti jogviszonya a 25/A. § (7) bekezdése vagy a 25/C. § (12) b
 
 a) jogutódlás esetén a jogelődnél,
 
-b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban vagy közalkalmazotti jogviszonyban töltött időt is [25/B. § (5) bekezdés].
+b) a munkáltató egészének vagy egy részének átadása esetén az átadó munkáltatónál munkaviszonyban vagy közalkalmazotti jogviszonyban töltött időt is [25/B. § (5) bekezdés],
+
+c) a 25/D. § szerinti, két jogviszony közötti időtartamot.
 
 (6) A közalkalmazott végkielégítésének mértéke, ha a közalkalmazotti jogviszonyban töltött idő legalább
 
