@@ -1,0 +1,3 @@
+## 36. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
+
+55. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 6. § (1) bekezdés c) pontjában az „– ideértve a szakképzést, továbbá a felnőttképzést, ha annak képzési programja akkreditált – folytatása céljából felvételt nyert a nemzeti köznevelésről szóló törvény, illetve a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó oktatási intézménybe” szövegrész helyébe a „folytatása céljából felvételt nyert köznevelési intézménybe, szakképző intézménybe vagy felsőoktatási intézménybe” szöveg lép.
