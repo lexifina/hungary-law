@@ -1,8 +1,8 @@
 26. § (1) A megyei védelmi bizottság a honvédelmi igazgatási jogkörében
 
-a) irányítja a helyi védelmi bizottságokat,
+a) irányítja a helyi védelmi bizottságokat és azokon keresztül a polgármesterek honvédelmi tevékenységét,
 
-b) irányítja a polgármesterek honvédelmi tevékenységét,
+b) összehangolja a hibrid fenyegetések elleni védelem, valamint a polgári felkészültség területi feladatait
 
 c) ellátja a hatáskörébe utalt, a fegyveres összeütközések időszakában végrehajtandó polgári védelmi feladatokat,
 
@@ -16,4 +16,4 @@ g) biztosítja a védelmi igazgatási szervek működésének feltételeit, és 
 
 h) a honvédelmi felkészítés feladatainak gyakorlása és ellenőrzése céljából a Kormány jóváhagyásával gyakorlatot vezethet a polgármesterek, valamint a honvédelemben közreműködő szervek közreműködésével.
 
-(2) A megyei védelmi bizottság elnöke a védelmi igazgatási feladatait a Kormány általános hatáskörű területi államigazgatási szervének közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a Kormány általános hatáskörű területi államigazgatási szervének kormánytisztviselője, kormányzati ügykezelője, állami tisztviselője, állami ügykezelője és munkavállalója rendkívüli munkavégzésre kötelezhető.
+(2) A megyei védelmi bizottság elnöke a honvédelmi igazgatási feladatait a fővárosi, megyei kormányhivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a fővárosi, megyei kormányhivatal valamennyi kormánytisztviselője és munkavállalója rendkívüli munkavégzésre kötelezhető.

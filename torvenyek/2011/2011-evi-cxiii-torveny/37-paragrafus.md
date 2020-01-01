@@ -18,6 +18,8 @@ a) a készenlét fokozása,
 
 b) a honvédelmi veszélyhelyzet, vagy
 
-c) a KNBSZ-nek a Honvédség felderítését támogató tevékenysége
+c) a KNBSZ-nek a Honvédség felderítését támogató tevékenysége,
+
+d) a Honvédség műveleteihez nyújtott katonai nemzetbiztonsági kibertér műveleti támogatása
 
 esetén.

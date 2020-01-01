@@ -12,7 +12,7 @@
 
 5. felhasználás: a Honvédség részvétele az erőszakos cselekmények és a kibertérből érkező, valamint egyéb elektronikai támadások és fenyegetések elhárításában szükségállapot és terrorveszélyhelyzet idején, valamint a terrorveszélyhelyzet kihirdetésének kezdeményezését követően az Országgyűlés terrorveszélyhelyzet kihirdetésére vonatkozó döntéséig terjedő időszakban,
 
-6. gazdaságmozgósítás: a Kormány által elrendelhető intézkedések rendszere, a nemzetgazdasági erőforrásoknak a különleges jogrendi időszak, az országvédelmi feladatok hatékony kezelése érdekében történő szabályozott igénybevétele,
+6. gazdaságmozgósítás: a nemzetgazdaság erőforrásainak a különleges jogrend, valamint az országvédelmi feladatok hatékony kezelése érdekében, a Kormány irányításával, a védelemgazdasági alaptervben, a védelemgazdasági tervekben és a lakosságellátási tervekben meghatározottak szerint, a honvédelem területi és helyi igazgatási szerveinek közreműködésével végzett tevékenysége,
 
 7. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet,
 
@@ -34,13 +34,51 @@
 
 16. honvédelmi érdek: Magyarország biztonságát, katonai védelmi képességét meghatározó módon befolyásoló körülmények összessége, ideértve különösen a törvényes rend védelméhez, a függetlenség elleni támadó szándékú törekvések, a szuverenitást és területi integritást sértő vagy veszélyeztető törekvések elhárításához, a szövetségesi kötelezettségek teljesítéséhez, a szövetségi és honi védelmi infrastruktúra működésének, fejlesztésének biztosításához fűződő érdekeket,
 
+16a. honvédelmi referens: a polgármester honvédelmi felkészülési és védekezési szakmai feladataiban közreműködő, e feladat ellátására a polgármester által kijelölt, e törvény végrehajtására kiadott jogszabályban meghatározott végzettséggel rendelkező személy,
+
 17. humanitárius művelet: a fogadó ország beleegyezésével vagy erre jogosult nemzetközi szervezet felhatalmazásával a Honvédség érdemi közreműködésével folytatott segítő tevékenység, amely a fegyveres konfliktus, a természeti vagy civilizációs katasztrófa által okozott olyan helyzet elhárítására és következményeinek csökkentésére irányul, amely emberek életét, egészségét, anyagi értékeit, alapvető ellátását, a természeti környezetet súlyos mértékben veszélyezteti, károsítja,
+
+17a. Honvédséghez köthető megjelölések: miniszteri rendeletben megállapított
+
+a) szó, szóösszetétel, beleértve a személyneveket és a jelmondatokat is;
+
+b) ábra, kép;
+
+c) sík- vagy térbeli alakzat,
+
+d) szín, színösszetétel, fényjel, hologram;
+
+e) hang;
+
+f) mozgást megjelenítő megjelölés;
+
+g) pozíciómegjelölés;
+
+h) multimédia-megjelölés;
+
+i) mintázat; valamint
+
+j) az a)–i) pontban szereplő megjelölés kombinációja,
 
 18. igénybevevő: a 18. § (1) és (2) bekezdésében meghatározott honvédelemben közreműködő szervek és a honvédségi szervezet,
 
 19. külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében,
 
 20. katonai igazgatás: a közigazgatási szervek jogilag szabályozott és a honvédelmi igazgatás részét képező olyan tevékenysége, amely a haza fegyveres védelme feltételeinek megteremtése és megvalósítása érdekében a jogalanyok honvédelmi kötelezettségeinek és önként vállalt honvédelmi feladatainak tervezésére, valamint a kötelezettségek és a vállalt feladatok végrehajtására irányul,
+
+20a. korlátozott elérésű terület: a honvédelmi szervezetek működésére szolgáló olyan helyszín, amelyre a belépés meghatározott feltételek megléte esetén engedélyezhető, amely feltételeknek való megfelelést a belépési jogosultság ellenőrzésére kijelölt személy esetileg vizsgálja; ilyen terület:
+
+a) a minősített adat tárolására, feldolgozására kijelölt biztonsági terület;
+
+b) a védett körlet, amely az ország honvédelme szempontjából kiemelt jelentőséggel bíró és különlegesnek minősülő haditechnikai eszköz, így különösen fegyver, fegyverrendszer, részegység vagy más technikai eszköz elhelyezésére szolgáló területrész, épületrész, helyiség;
+
+c) a zárt körlet, amely a pénztár, az ügyintézői forgalomtól elhatárolt ügyviteli helyiség, irattár és a híradó-informatikai rendszer üzemelését biztosító helyiség, valamint a fegyverszoba és minden további olyan, funkciója alapján korlátozott belépést indokoló helyiség, amelyet az objektumparancsnok helyi szabályozásban kijelöl;
+
+d) a szelektív zóna, amely a zavartalan feladatellátás biztosítása – így különösen a műveletvezetési, a különleges jogrendhez kapcsolódó védelmi igazgatási, tervezési, a stratégiai szintű döntéselőkészítési feladatok ellátásának biztosítása – céljából a honvédelmi szervezet működésére szolgáló területen belül külön beléptetőponttal elhatárolt olyan terület – helyiség, helyiségcsoport, folyosó, épületrész, épület –, amelyre a belépési jogosultság a zónában elhelyezett személyi állomány részére biztosított, más személyek részére a szelektív zóna felügyeletére kijelölt vezető engedélyezéséhez kötött;
+
+e) az előzetes regisztrációhoz kötött rendezvény, értekezlet helyszínéül szolgáló helyiség;
+
+f) az a)–e) pont szerinti területnek nem minősülő olyan terület, amelyre a belépés ellenőrzött, illetve amelyre történő belépéshez külön engedély szükséges,
 
 21. meghagyás: munkakörhöz kapcsolódóan és névre szólóan végrehajtott eljárás, amely során jogszabály vagy hatósági határozat alapján meghagyásba bevont szerv által kijelölt személyek a meghagyási névjegyzékbe kerülnek, és akiket ez alapján behívásra ideiglenesen nem tervezhető kategóriába sorolnak,
 
@@ -54,7 +92,7 @@
 
 26. ország területéről induló külföldi alkalmazás: külföldi fegyveres erők olyan alkalmazása, amelynek indítása az ország területéről befogadó nemzeti támogatás mellett, nem az átvonulás technikai részcselekményeként történik,
 
-27. potenciális hadköteles: a békeidőszakban nyilvántartott, hadkötelezettség alá tartozó tartalékos, aki nem tartozik az önkéntes tartalékos, a honvédelmi alkalmazott és a kiképzett tartalékos állományba,
+27. potenciális hadköteles: a békeidőszakban nyilvántartott, kiképzett tartalékos állományba nem tartozó hadköteles,
 
 28. polgári felkészültség: a honvédelemben közreműködő szervek honvédelmi feladatai ellátása körében végrehajtott, külön meghatározott követelmények teljesítése érdekében végzett tevékenysége, melynek célja a kormányzat folyamatos működésének biztosítása, és a katonai műveletek polgári képességekkel történő támogatása békeidőszakban, különleges jogrend idején, valamint a válságkezelés katonai feladatai végrehajtása időszakában,
 

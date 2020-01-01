@@ -6,4 +6,4 @@
 
 (4) A (2) és (3) bekezdésben nem szabályozott esetben a fellebbezést a honvédelemért felelős miniszter irányítása alá tartozó, kormányrendeletben meghatározott szerv vezetője bírálja el.
 
-(5) A kártalanítás ügyében hozott közigazgatási határozat ellen a határozatot sérelmező fél 30 napon belül keresettel fordulhat a bírósághoz.
+(5) A kártalanítás ügyében hozott határozat közigazgatási perben támadható meg.

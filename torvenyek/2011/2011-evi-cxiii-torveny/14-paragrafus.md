@@ -4,7 +4,7 @@ a) az ország egész területére, vagy több megyét érintő részére a Korm�
 
 b) illetékességi területén a megyei, fővárosi (a továbbiakban együtt: megyei) védelmi bizottság elnöke, valamint a polgármester,
 
-c) a törvényben meghatározott esetben és feltételek szerint a katonai igazgatás területi szervének vezetője, továbbá a (6) bekezdés szerinti esetben a lőtér és a gyakorlótér működtetéséért felelős parancsnok [a továbbiakban az a)–c) pontban felsoroltak együtt: igénybevételi hatóság].
+c) a törvényben meghatározott esetben és feltételek szerint a katonai igazgatás területi szervének vezetője [a továbbiakban az a)–c) pontban felsoroltak együtt: igénybevételi hatóság].
 
 (2) A Kormány rendeletében meghatározott eljárási szabályok szerint elrendeli
 

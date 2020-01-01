@@ -62,21 +62,7 @@ b) a fegyver nélküli katonai szolgálat teljesítésének engedélyezéséhez 
 
 c) a katonai futárszolgálat feladatait,
 
-d) a Szolgálati Szabályzat részeként
-
-da) a Honvédség szervezeteinek rendeltetésére vonatkozó alapvető szabályokat,
-
-db) a katonai függelemre, szolgálati rendre, szolgálati érintkezésre és a katonai udvariasságra vonatkozó szabályokat, a honvédek napi tevékenységét,
-
-dc) az egyes szolgálati személyek kötelmeit,
-
-dd) az ügyeleti és készenléti szolgálati rendszer, valamint a nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölés rendeltetését, működését,
-
-de) az őrzés-védelem rendeltetését, szervezését, az őrségek feladatait, alárendeltségét, az őrök kötelességeit,
-
-df) a katonai rendészeti tevékenységet,
-
-dg) az intézkedések végrehajtásának eljárási szabályait, módját, a kényszerítő eszközök alkalmazásának szabályait, a kényszerítő eszközök alkalmazása kivizsgálásának eljárási szabályait,
+d) a katonai rendészeti tevékenységet, az intézkedések végrehajtásának eljárási szabályait, módját, a kényszerítő eszközök alkalmazásának szabályait, a kényszerítő eszközök alkalmazása kivizsgálásának eljárási szabályait,
 
 e) honvédelmi szervezetek jogi képviseletének és jogi képviselete felügyeletének rendjét,
 
@@ -108,7 +94,9 @@ r) az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamj
 
 t) a Honvédségnél rendszeresített egyéni lőfegyverek szolgálati feladatellátással összefüggő tárolásának és viselésének szabályait,
 
-u) a honvédelmi szervezetek működésére szolgáló területekre történő beléptetés eljárási szabályait.
+u) a honvédelmi szervezetek működésére szolgáló, korlátozott elérésű területekre történő beléptetés eljárási szabályait, az engedélyezésre jogosult személyek kijelölésének rendjét,
+
+v) a Honvédséghez köthető megjelöléseket és azok használata engedélyezésének szabályait.
 
 (2a) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
 

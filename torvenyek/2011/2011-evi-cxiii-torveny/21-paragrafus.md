@@ -20,15 +20,17 @@ h) gondoskodik az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) 
 
 i) meghatározza a fegyveres összeütközések időszakában végrehajtandó polgári védelmi felkészítés feladatait,
 
-j) a köz- és a felsőoktatás keretein belül gondoskodik a honvédelmi nevelés programjának végrehajtásáról,
+j) a köznevelés, a szakképzés és a felsőoktatás keretein belül gondoskodik a honvédelmi nevelés programjának végrehajtásáról,
 
 k) meghatározza a NATO Állandó Védelmi Terveivel kapcsolatos feladatok előkészítésével és végrehajtásával kapcsolatos feladatokat,
 
-l) meghatározza a polgári felkészültség követelményeit és feladatait,
+l) meghatározza a hibrid fenyegetésekkel szembeni ellenálló képesség és védelem feladatait,
 
 m) meghatározza a Honvédség haditechnikai eszközeit és az ezekhez szükséges anyagi forrásokat,
 
-n) dönt a nemzetközi katonai parancsnokság magyarországi településéről.
+n) dönt a nemzetközi katonai parancsnokság magyarországi településéről,
+
+o) meghatározza a katonai kibertér műveleti erők védelmi, támadásmegelőzési és nemzetközi műveletekkel és felkészüléssel összefüggő feladatait, valamint – e törvény rendelkezései szerint – az ezekkel összefüggő kivételes döntéshozatal kereteit.
 
 (2) A Honvédség működésének irányítása körében a Kormány dönt különösen
 

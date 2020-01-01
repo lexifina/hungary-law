@@ -22,7 +22,7 @@ a)
 
 b) a központi államigazgatási szervek,
 
-c) a települési önkormányzatok irányítása alatt álló szervek,
+c) a települési önkormányzatok és az irányításuk alatt álló szervek,
 
 d) a bírósági és az ügyészi szervezet,
 
@@ -30,7 +30,7 @@ e) az egészségügyi szolgáltatók és gyógyszerellátást végző szervek,
 
 f) az oktatási, kulturális, tudományos intézmények,
 
-g) a műsorszóró rádió- és televízióállomások, a nemzeti hírügynökség,
+g) a műsorszolgáltatók, a nemzeti hírügynökség, a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 
 h) a közlekedési, szállítási, elektronikus hírközlési, informatikai szervek és a posta szervei,
 

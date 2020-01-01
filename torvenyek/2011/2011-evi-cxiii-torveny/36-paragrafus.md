@@ -6,7 +6,7 @@ b) a Szent Korona és a hozzá tartozó egyes jelvények őrzése és védelme,
 
 c) a szövetségi és nemzetközi szerződésből eredő egyéb katonai kötelezettségek – különösen a kollektív védelmi, békefenntartó, válságkezelési és humanitárius feladatok – teljesítése,
 
-d) a honvédelem szempontjából fokozott védelmet igénylő létesítmények őrzése és védelme,
+d) a honvédelem szempontjából létfontosságúnak kijelölt rendszerelemek, illetve a honvédelem szempontjából fokozott védelmet igénylő létesítmények őrzése és védelme,
 
 e) egyes kijelölt létesítmények őrzése és védelme,
 
@@ -24,7 +24,7 @@ j) honvédelmi veszélyhelyzet idején az államhatár ellenőrzésében való r
 
 a) közreműködés a katasztrófavédelemmel összefüggő feladatok végrehajtásában,
 
-b) katonai szakértelmet és speciális eszközöket igénylő feladatok ellátása,
+b) katonai szakértelmet és speciális eszközöket igénylő feladatokban, a honvédelem szempontjából létfontosságúnak kijelölt rendszerelemek működtetésében való közreműködés,
 
 c) részvétel az állami protokolláris feladatok teljesítésében,
 
@@ -32,6 +32,8 @@ d) közreműködés a nemzetközi megállapodásban vagy jogszabályban meghatá
 
 e) közreműködés az állami közfoglalkoztatás feladatainak végrehajtásában,
 
-f) az élet, az anyagi javak és objektumok oltalmazása érdekében az elektromágneses spektrumot kihasználó támadó, információszerző, felderítő eszközök elleni aktív elektromágneses műveletek végzése.
+f) az élet, az anyagi javak és objektumok oltalmazása érdekében az elektromágneses spektrumot kihasználó támadó, információszerző, felderítő eszközök elleni aktív elektromágneses műveletek végzése,
+
+g) a Magyarország biztonságát, honvédelmi érdekeit sértő, veszélyeztető, katonai jellegű kibertér műveletek, kibertérre ható cselekmények vagy kibertámadások elleni fellépés, illetve az ezekkel összefüggő szövetségesi, illetve nemzetközi együttműködési keretben megvalósuló feladatok.
 
 (3) A (2) bekezdés b) pontjában meghatározott feladatot a Honvédség térítés ellenében láthatja el.

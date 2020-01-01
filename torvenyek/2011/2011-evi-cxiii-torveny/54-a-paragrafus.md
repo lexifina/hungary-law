@@ -16,7 +16,7 @@ e) a Honvédség tevékenységével összefüggő forgalomszabályozás,
 
 f) a Honvédség – Magyar Honvédség parancsnoka által meghatározott – rendezvényeinek rendészeti biztosítása; a rendezvényről a rendőrséggel előzetesen egyeztetni kell, ha az a honvédelmi szervezetek által használt objektum területén kívül kerül megrendezésre,
 
-g) a honvédelemért felelős miniszter által vezetett minisztérium állami vezetőinek, a Magyar Honvédség parancsnoka és helyettesei, valamint kijelölt vendégeik személyi kísérése,
+g) a honvédelemért felelős miniszter által vezetett minisztérium politikai felsővezetőinek, szakmai felsővezetőinek, a Magyar Honvédség parancsnoka és helyettesei, valamint kijelölt vendégeik személyi kísérése,
 
 h) a Honvédséget érintő érték-, pénzszállítások kísérésének fegyveres biztosítása,
 

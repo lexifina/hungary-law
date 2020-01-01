@@ -12,10 +12,18 @@ ba) haditechnikai eszközök és anyagok kutatásában, fejlesztésében, gyárt
 
 bb) légtér légi közlekedési és egyéb célú igénybevétele feltételeinek, valamint a polgári légiforgalmi szolgálatok és az illetékes katonai szervezetek közötti együttműködés szabályainak megállapításában,
 
-bc) katonai védelem szempontjából fontos létesítmények elhelyezésében, fenntartásában, továbbá az egészségügyi, a környezetvédelmi, a közlekedési, a hírközlési és informatikai hálózat, valamint a légi, meteorológiai, a vegyi és sugárfigyelő jelző- és riasztási rendszer működőképességének biztosításában
+bc) katonai védelem szempontjából fontos létesítmények elhelyezésében, fenntartásában, továbbá az egészségügyi, a környezetvédelmi, a közlekedési, a hírközlési és informatikai hálózat, valamint a légi, meteorológiai, a vegyi és sugárfigyelő jelző- és riasztási rendszer működőképességének biztosításában,
+
+bd) a hibrid fenyegetések elhárítása érdekében
 
 meghatározott feladatokat,
 
 c) a hatáskörébe tartozó költségvetés keretében elkülönítetten tervezi a honvédelmi feladatok végrehajtásának költségeit.
 
-(3) A miniszter a vezetése alatt álló minisztériumban a honvédelmi feladatok végrehajtására honvédelemmel foglalkozó szervezeti egységet jelöl ki.
+(3) A honvédelmi feladatok végrehajtására
+
+a) a miniszter a vezetése alatt álló minisztériumban,
+
+b) a honvédelemért felelős miniszter javaslatára, a tulajdonosi joggyakorló a Magyar Állam többségi befolyása mellett működő gazdasági társaságban
+
+honvédelemmel foglalkozó szervezeti egységet jelöl ki, és ott biztosítja az ágazat honvédelmi feladatok ellátásához szükséges személyi és tárgyi feltételeket.

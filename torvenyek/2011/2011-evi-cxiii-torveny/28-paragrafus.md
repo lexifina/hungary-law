@@ -17,3 +17,5 @@ f) béke, rendkívüli állapot, szükségállapot, megelőző védelmi helyzet,
 (3) A helyi védelmi bizottság kiadásainak és működési költségeinek fedezetét a járási hivatal részére az egyes honvédelmi feladatokra biztosított költségvetési összegből és céltámogatásból, továbbá a helyi védelmi bizottság illetékességi területéhez tartozó településekre háruló honvédelmi feladatok és a lakosság létszámának arányában meghatározott normatív állami támogatásból kell biztosítani.
 
 (4) A helyi védelmi bizottság a szervezeti és működési rendjét maga állapítja meg, amelyhez a megyei, fővárosi védelmi bizottság előzetes hozzájárulása szükséges.
+
+(5) A helyi védelmi bizottság elnöke a védelmi igazgatási feladatait a járási hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a járási hivatal kormánytisztviselője és munkavállalója rendkívüli munkavégzésre kötelezhető.

@@ -12,7 +12,7 @@
 
 (2) A Honvédelmi Tanács rendkívüli állapot idején a 65–79. §-ban meghatározott rendkívüli intézkedéseket vezetheti be.
 
-(3) A köztársasági elnök szükségállapot idején a 65. § (2)–(3) bekezdésében, a 66.§-ban, a 67. § (2) bekezdésében, a 68–75. §-ban, a 76. § (2) és (5) bekezdésében, és a 77–79. §-ban meghatározott rendkívüli intézkedéseket vezetheti be.
+(3) A köztársasági elnök szükségállapot idején a 65. § (2) és (3) bekezdésében, a 66. §-ban, a 67. § (2) bekezdésében, a 68–71. §-ban, a 72. § (1)–(4) bekezdésében, a 73–75. §-ban, a 76. § (2) és (5) bekezdésében, a 77. §-ban, a 78. § (2)–(5) bekezdésében és a 79. §-ban meghatározott rendkívüli intézkedéseket vezetheti be.
 
 (4) A Kormány
 

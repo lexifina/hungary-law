@@ -18,7 +18,7 @@ c) rendkívüli állapot és megelőző védelmi helyzet idején – a hadkötel
 
 lehetnek.
 
-(1a) Az (1) bekezdés szerinti adat megismerésére irányuló igény – az (1) bekezdésben meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a Honvédség törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a honvédelmi és a nemzetbiztonsági érdekeket nem veszélyezteti.
+(1a) A (8) bekezdés szerinti adat megismerésére irányuló igény – a (8) bekezdésben meghatározott időtartamon belül – akkor engedélyezhető, ha az adat megismerése a Honvédség törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, valamint a honvédelmi és a nemzetbiztonsági érdekeket nem veszélyezteti.
 
 (2) A tényleges állomány tagjai békében önkéntes jelentkezés alapján teljesítenek katonai szolgálatot. A Honvédség folyamatos kiegészítése békében a hivatásos, szerződéses és az önkéntes tartalékos katonai szolgálatra vagy honvéd tisztjelölt és honvéd altiszt-jelölt jogviszony létesítésére toborzottak felvétele, megelőző védelmi helyzet és rendkívüli állapot idején a fentieken túl hadkötelesek behívása útján is történik.
 
@@ -34,8 +34,8 @@ lehetnek.
 
 (5) Május 21-e a Magyar Honvédelem Napja, a honvédelmi szervezeteknél munkaszüneti nap.
 
-(6) Ha az 1. melléklet szerinti gazdasági társaság szervezeti egysége, anyagi vagy nem anyagi erőforrásainak vagy feladatkörének meghatározott csoportja a további működtetés céljából valamely honvédségi szervezet részére kerül átadásra, a gazdasági társaság érintett munkavállalóinak munkaviszonyára az államháztartásról szóló törvénynek az állami feladat átvétele miatt bekövetkező jogállásváltozásra vonatkozó rendelkezéseit kell alkalmazni.
+(6)
 
-(7) A fegyveres erők jogállására vonatkozó nemzetközi szerződések alkalmazása tekintetében a Honvédség polgári állományának minősül a honvédelmi szervezetnél jogviszonyban álló kormánytisztviselő, kormányzati ügykezelő, honvédelmi alkalmazott, közalkalmazott vagy a munka törvénykönyvének hatálya alá tartozó munkavállaló.
+(7) A fegyveres erők jogállására vonatkozó nemzetközi szerződések alkalmazása tekintetében a Honvédség polgári állományának minősül a honvédelmi szervezetnél jogviszonyban álló kormánytisztviselő, honvédelmi alkalmazott, közalkalmazott vagy a munka törvénykönyvének hatálya alá tartozó munkavállaló.
 
 (8) A Honvédség személyi állományára vonatkozó – a Honvédség védelmi képességének, hadrafoghatóságának biztosításával összefüggő – adatok a keletkezésüktől számított 30 évig honvédelmi és nemzetbiztonsági érdekből nem nyilvánosak. Ezen adatok megismerését a honvédelmi és a nemzetbiztonsági érdek mérlegelésével a Magyar Honvédség parancsnoka engedélyezheti.

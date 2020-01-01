@@ -1,6 +1,6 @@
 ## 45. Az igazságszolgáltatásra vonatkozó rendkívüli intézkedések
 
-74. § (1) Rendelettel állapíthatók meg a büntetőeljárás, a büntetés-végrehajtás, a polgári peres és nemperes eljárás szabályai.
+74. § (1) Rendelettel állapíthatók meg a büntetőeljárás, a büntetés-végrehajtás, a polgári és közigazgatási peres és nemperes eljárás szabályai.
 
 (2) Rendeletben új bíróságok és ügyészségek létesíthetők, a már működő bíróságok és ügyészségek összevonhatók, szétválaszthatók és megszüntethetők, illetékességi területük megváltoztatható.
 

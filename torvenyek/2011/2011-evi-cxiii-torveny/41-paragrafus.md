@@ -8,11 +8,13 @@
 
 (4) A kiképzett tartalékos állományba a Honvédség állományából kikerült, korábban
 
-a) hivatásos, szerződéses, önkéntes tartalékos vagy
+a) hivatásos, szerződéses, önkéntes tartalékos katonai szolgálatot,
 
-b) katonai tanintézetben alapkiképzést teljesített hallgatói, honvéd tisztjelölti vagy altisztjelölti
+b) hallgatói, honvéd tisztjelölti vagy altisztjelölti szolgálatot vagy
 
-szolgálatot teljesített férfi tartozik.
+c) honvédelmi szervezetnél katonai alapkiképzést, alapfelkészítést, vagy annak valamely modulját
+
+teljesített férfi tartozik.
 
 (5) Az önkéntes tartalékos önként vállalja, hogy törvényben meghatározott feltételrendszer szerint rendelkezésre áll, és behívását követően tényleges szolgálata teljesítésével közreműködik a Honvédség feladatai ellátásában.
 

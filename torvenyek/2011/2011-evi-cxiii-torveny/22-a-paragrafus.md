@@ -1,1 +1,1 @@
-22/A. § Az 1. mellékletben felsorolt gazdasági társaságok állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a honvédelemért felelős miniszter gyakorolja.
+22/A. §

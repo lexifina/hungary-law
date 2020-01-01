@@ -6,4 +6,4 @@
 
 (4) A Honvédség katonai igazgatási és központi adatfeldolgozó szervének a vezetőjének határozata ellen fellebbezésnek helye nincs.
 
-(5) A fegyver nélküli katonai szolgálat iránti kérelem elutasítása esetén a határozat kézhezvételétől számított 5 napon belül annak megváltoztatása iránt a hadköteles bírósághoz fordulhat. A kérelmet a bíróság soron kívül, nemperes eljárásban bírálja el.
+(5) A hadköteles a fegyver nélküli katonai szolgálat iránti kérelmet elutasító határozatot a közlésétől számított öt napon belül közigazgatási perben támadhatja meg. A bíróság a keresetet harminc napon belül bírálja el.

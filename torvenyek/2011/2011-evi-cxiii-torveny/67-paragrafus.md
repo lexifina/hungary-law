@@ -1,12 +1,12 @@
 67. § (1) A közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései közül rendelettel állapítható meg:
 
-a) a bírósági felülvizsgálat alá nem tartozó eljárások köre,
+a) a bíróság előtt meg nem támadható hatósági döntések köre,
 
 b) a hatáskör és illetékesség megállapítása,
 
 c) az eljáró közigazgatási szerv kijelölésének rendje,
 
-d) a belföldi jogsegély szabálya,
+d) a megkeresés szabálya,
 
 e) az ügyintézési és egyéb határidő,
 

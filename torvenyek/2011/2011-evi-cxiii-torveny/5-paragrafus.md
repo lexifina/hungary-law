@@ -4,7 +4,7 @@
 
 (2) A hadkötelesek behívása behívóparanccsal történik, amelyet a katonai igazgatásnak a hadköteles lakóhelye szerint illetékes területi szerve a behívottnak kézbesít.
 
-(3) A behívásra kerülőket a katonai igazgatásnak a hadköteles lakóhelye szerint illetékes területi szerve a Honvédség szervezeteinek igénye alapján választja ki a katonai szolgálatra alkalmas hadkötelesek közül. A fegyver nélküli katonai szolgálat teljesítésére engedélyt kapott hadköteles katonát a jogerős határozatot követő 15 napon belül szolgálatra be kell hívni.
+(3) A behívásra kerülőket a katonai igazgatásnak a hadköteles lakóhelye szerint illetékes területi szerve a Honvédség szervezeteinek igénye alapján választja ki a katonai szolgálatra alkalmas hadkötelesek közül. A fegyver nélküli katonai szolgálat teljesítésére engedélyt kapott hadköteles katonát a végleges határozatot követő 15 napon belül szolgálatra be kell hívni.
 
 (4) Nem hívható be katonai szolgálatra az a hadköteles,
 
@@ -22,12 +22,20 @@ f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képvis
 
 g) aki meghagyásban részesült,
 
-h) aki a Honvédség, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek hivatásos vagy szerződéses állományú tagja, vagy aki a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselője, kormányzati ügykezelője,
+h) aki honvédelmi szervezet, az Országgyűlési Őrség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, vagy aki a honvédelemért felelős miniszter által vezetett minisztérium kormánytisztviselője,
 
-i) akinek közös háztartásban élő házastársa katonai szolgálatot teljesít, továbbá
+i) akinek közös háztartásban élő házastársa, élettársa katonai szolgálatot teljesít,
 
 j) aki a korábban hatályos szabályok szerint a polgári szolgálat időtartamát már teljesítette,
 
 k) aki az 50. életévét betöltötte, annak az évnek december 31-ét követően, amelyben ezt az életkort betölti, kivéve az l) pont hatálya alá tartozó hadköteles személyt,
 
-l) aki kiképzett tartalékos a hivatásos katonai szolgálat felső korhatárának betöltésétől.
+l) aki kiképzett tartalékos a hivatásos katonai szolgálat felső korhatárának betöltésétől,
+
+m) aki honvédelmi alkalmazott és a katonai szolgálat teljesítését törvény alapján önként vállalta,
+
+n) aki szolgálathalasztásban részesült, vagy a szolgálatát félbeszakították, a szolgálathalasztás idejének, illetve a félbeszakítás időtartamának lejártáig,
+
+o) aki fegyver nélküli katonai szolgálat iránti kérelmet nyújtott be, annak végleges elbírálásáig,
+
+p) aki gondnokolt személy gondnokául ki lett jelölve.

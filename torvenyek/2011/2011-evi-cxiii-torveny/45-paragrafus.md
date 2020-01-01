@@ -1,6 +1,6 @@
 ## 29. A Honvédség irányítása és felső szintű vezetése
 
-45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a Honvédséget. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztérium állami vezetőjét jelölheti ki.
+45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a Honvédséget. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
 
 (1a) A honvédelemért felelős miniszter egyes katonai szervezetek vagy azok speciális feladatokat ellátó szervezeti egységei esetében, a katonai szervezetek alapító okiratában meghatározottak szerint
 
@@ -14,7 +14,7 @@ d) egyedi utasítás kiadására feladat elvégzésére vagy mulasztás pótlás
 
 e) jelentéstételre vagy beszámolóra való kötelezésre
 
-az általa vezetett minisztérium állami vezetőjét jelöli ki.
+az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelöli ki.
 
 (2) A honvédelemért felelős miniszter a Honvédség törvényes működése érdekében gondoskodik a jogszabálysértések megszüntetéséről. E körben
 
@@ -30,11 +30,11 @@ d) megsemmisíti, vagy megváltoztatja az egyedi ügyben hozott jogszabálysért
 
 (4) A (2) bekezdés d) pontja szerinti döntés nem változtatható és nem semmisíthető meg, ha
 
-a) a döntést a bíróság felülvizsgálta,
+a) a döntést a bíróság érdemben elbírálta,
 
 b) a döntés megváltoztatása vagy megsemmisítése jóhiszeműen szerzett és gyakorolt jogot sértene,
 
-c) a döntés meghozatalától, vagy jogerőre emelkedésétől számítva egy év eltelt,
+c) a döntés meghozatalától, vagy véglegessé válásától számítva egy év eltelt,
 
 d) azt jogszabály kizárja vagy feltételhez köti.
 
@@ -44,4 +44,4 @@ a) az ügy nem tartozott a döntéshozó hatáskörébe,
 
 b) a döntéshozó vagy a döntés-előkészítésben közreműködött személy a kötelességét bűncselekményt megvalósító módon megszegte, és ez a döntést érdemben befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította, vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki.
 
-(6) Az (5) bekezdés alapján való megsemmisítésnek a döntés meghozatalától, vagy jogerőre emelkedésétől számított három éven belül lehet helye.
+(6) Az (5) bekezdés alapján való megsemmisítésnek a döntés meghozatalától, vagy véglegessé válásától számított három éven belül lehet helye.

@@ -2,7 +2,7 @@
 
 4. § (1) A fegyveres katonai szolgálat célja a nemzeti és szövetségi védelmi feladatok végrehajtása érdekében a hadkötelesek kiképzése, felkészítése a katonai feladatokra és a Honvédség védelmi képességének erősítése. A fegyver nélküli katonai szolgálat célja a Honvédség fegyverhasználat nélküli feladataiban történő közreműködés és az ehhez szükséges felkészítés.
 
-(2) A katonai szolgálat teljesítésére kötelezett (a továbbiakban: hadköteles) fegyver nélküli katonai szolgálatot csak az azt engedélyező jogerős határozat alapján teljesíthet.
+(2) A katonai szolgálat teljesítésére kötelezett (a továbbiakban: hadköteles) fegyver nélküli katonai szolgálatot csak az azt engedélyező végleges határozat alapján teljesíthet.
 
 (3) A fegyver nélküli katonai szolgálatot teljesítő a katonai szolgálat megkezdésekor a következő katonai esküt teszi le:
 

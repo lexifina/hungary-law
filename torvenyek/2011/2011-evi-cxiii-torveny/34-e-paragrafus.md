@@ -2,7 +2,7 @@
 
 34/E. § A honvédelem területi, helyi és települési feladatainak végrehajtása érdekében a 34/D. §-ban meghatározott célból a 2. mellékletben meghatározott adatokról
 
-a) a megyei, fővárosi védelmi bizottság elnöke megkeresése alapján adatszolgáltatást teljesít a megyei, fővárosi védelmi bizottság részére
+a) a megyei, fővárosi védelmi bizottság elnöke megkeresése alapján adatszolgáltatást teljesít a megyei, fővárosi védelmi bizottság elnöke részére
 
 aa) a megyei, fővárosi védelmi bizottságnak a törvényben meghatározott tagja,
 
@@ -16,7 +16,7 @@ ae) a megyei, fővárosi védelmi bizottság elnöke által a megyei, fővárosi
 
 af) a megyei, fővárosi védelmi bizottság illetékességi területe szerinti helyi védelmi bizottság elnöke és titkára,
 
-b) a helyi védelmi bizottság elnöke megkeresése alapján adatszolgáltatást teljesít a helyi védelmi bizottság részére
+b) a helyi védelmi bizottság elnöke megkeresése alapján adatszolgáltatást teljesít a helyi védelmi bizottság elnöke részére
 
 ba) a helyi védelmi bizottságnak a törvényben meghatározott tagja,
 

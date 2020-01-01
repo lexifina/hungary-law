@@ -4,7 +4,7 @@
 
 a) kiértesítési és riasztási nyilvántartást,
 
-b) a polgármesterek, közbiztonsági referensek, valamint a honvédelemben közreműködő helyi szervek kijelölt állományáról kiértesítési nyilvántartást,
+b) a polgármesterek, honvédelmi referensek közbiztonsági referensek, valamint a honvédelemben közreműködő helyi szervek kijelölt állományáról kiértesítési nyilvántartást,
 
 c) meghagyási nyilvántartást,
 
