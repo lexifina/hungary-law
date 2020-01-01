@@ -4,8 +4,8 @@
 
 (3) Az állami felsőoktatási intézmények költségvetésében az intézményi ösztöndíjrészként megjelenő költségvetési támogatások elszámolására – a jogosultság figyelembevételével – az éves beszámoló keretében kerül sor.
 
-(4)[^60] A nem állami fenntartású felsőoktatási intézmények az intézményi ösztöndíjrészt biztosító finanszírozási megállapodásban foglaltak szerint kötelesek az ösztöndíj folyósításáról elszámolni az Emberi Erőforrások Minisztériumának.
+(4)[^60] A nem állami fenntartású felsőoktatási intézmények az intézményi ösztöndíjrészt biztosító finanszírozási megállapodásban foglaltak szerint kötelesek az ösztöndíj folyósításáról elszámolni a minisztériumnak.
 
 (5) E rendelet alkalmazásában a fővárosi önkormányzatot megyei önkormányzatnak, a fővárosi kerületi önkormányzatot települési önkormányzatnak kell tekinteni.
 
-[^60]: A 20. § (4) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § h) pontja szerint módosított szöveg.
+[^60]: A 20. § (4) bekezdése a 346/2019. (XII. 23.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.

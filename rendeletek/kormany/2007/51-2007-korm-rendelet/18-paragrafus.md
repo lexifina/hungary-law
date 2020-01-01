@@ -6,9 +6,9 @@
 
 (3) Az intézményi ösztöndíjrész forrása az intézmények költségvetésében megjelölt elkülönített forrás.
 
-(4)[^54] A települési, illetve a megyei önkormányzat évente csatlakozhat az Ösztöndíjrendszerhez. A csatlakozás eljárási rendjét az oktatásért felelős miniszter évente a tárca hivatalos lapjában teszi közzé.
+(4)[^54] A települési, illetve a megyei önkormányzat évente csatlakozhat az Ösztöndíjrendszerhez. A csatlakozás eljárási rendjét az oktatásért felelős miniszter évente az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján teszi közzé.
 
-(5)[^55] Az intézményi ösztöndíjrész havi egy főre jutó legnagyobb összegét (a továbbiakban: összeghatár) az oktatásért felelős miniszter évente a tárca hivatalos lapjában teszi közzé.
+(5)[^55] Az intézményi ösztöndíjrész havi egy főre jutó legnagyobb összegét (a továbbiakban: összeghatár) az oktatásért felelős miniszter évente a minisztérium honlapján teszi közzé.
 
 (6) Az intézményi ösztöndíjrész havi összege az önkormányzati ösztöndíjrész összegével megegyező összeg, azonban nem haladhatja meg az (5) bekezdés alapján meghatározott összeghatárt.
 
@@ -18,5 +18,5 @@
 
 [^52]: A 18. § (1) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
 [^53]: A 18. § (2) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés d) pontja, a 220/2014. (VIII. 29.) Korm. rendelet 9. § b) és h) pontja és 10. § a) pontja szerint módosított szöveg.
-[^54]: A 18. § (4) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja szerint módosított szöveg.
-[^55]: A 18. § (5) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja szerint módosított szöveg.
+[^54]: A 18. § (4) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja, a 346/2019. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^55]: A 18. § (5) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 32. § l) pontja, a 346/2019. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
