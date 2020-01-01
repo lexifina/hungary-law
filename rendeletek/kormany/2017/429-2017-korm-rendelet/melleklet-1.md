@@ -1,4 +1,4 @@
-## 30. §[^5] E rendelet 12. § (4)–(7) bekezdése az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i (EU) 2016/1191 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 30. §[^6] E rendelet 12. § (4)–(7) bekezdése az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i (EU) 2016/1191 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. melléklet a 429/2017. (XII. 20.) Korm. rendelethez
 
@@ -20,4 +20,4 @@ c) az EAK rendszer használatához szükséges számítástechnikai eszközök.
 
 5. A papíralapú anyakönyveket, az anyakönyvi alapiratokat, a biztonsági tintával töltött íróeszközt, a megszemélyesítetlen anyakönyvi kivonat-nyomtatványokat, a felhasználói kártyát és a hivatalos körbélyegzőt munkaidőben használaton kívül és munkaidőn kívül tűzbiztos, zárható, más személyek számára hozzáférhetetlen tárolóban kell elhelyezni.
 
-[^5]: A 30. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, a 30. §-t újonnan a 269/2018. (XII. 20.) Korm. rendelet 17. §-a iktatta be.
+[^6]: A 30. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, a 30. §-t újonnan a 269/2018. (XII. 20.) Korm. rendelet 17. §-a iktatta be.

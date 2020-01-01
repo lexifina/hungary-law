@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-429-20-
 | 2018-02-01 | 2017-429-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2018-02-02 | 2017-429-20-22.4 | 2010: CXXX. törvény |
 | 2019-02-16 | 2017-429-20-22.5 | 269/2018. (XII. 20.) Korm. rendelet |
+| 2020-01-01 | 2017-429-20-22.6 | 360/2019. (XII. 30.) Korm. rendelet |
