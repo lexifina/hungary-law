@@ -16,12 +16,14 @@ f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyo
 
 g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében.
 
-(3) A (2) bekezdés szerinti ingyenes átruházásról – a (6) bekezdésen foglalt kivétellel – a Kormány nyilvános határozattal dönt.
+(3) A (2) bekezdés szerinti ingyenes átruházásról – a (6)–(8) bekezdésben foglalt kivétellel – a Kormány nyilvános határozattal dönt.
 
-(4) A (2) bekezdés c) és g) pontja alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.
+(4) A (2) bekezdés c), e) és g) pontja, valamint a (7) bekezdés alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.
 
 (5) Az MNV Zrt. az állam mint törvényes örökös nevében az öröklésről az örökhagyó utolsó belföldi lakóhelye, ennek hiányában a hagyaték fekvési helye szerinti helyi önkormányzat javára, ingatlan esetében annak fekvési helye szerinti helyi önkormányzat javára lemondhat.
 
-(6) Az MNV Zrt. Igazgatósága jogosult dönteni a (2) bekezdés c) és g) pontjában meghatározott személyek javára az ott meghatározott célokra az évente kedvezményezettenként 10 millió Ft nyilvántartási értéket meg nem haladó értékű ingóságok ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingóság átadásáról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
+(6) Az MNV Zrt. Igazgatósága jogosult dönteni a (2) bekezdés c), e) és g) pontjában meghatározott személyek, szervezetek javára az ott meghatározott célokra évente kedvezményezettenként 10 millió forint nyilvántartási értéket meg nem haladó értékű ingóságok ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásáról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
-(7) A (2)–(6) bekezdésben megjelölt vagyonátadás illetékmentes.
+(7) Az MNV Zrt. Igazgatósága jogosult dönteni helyi önkormányzat javára, a (2) bekezdés c) pontjában meghatározott célokra, legfeljebb bruttó 1 millió forint forgalmi értékű ingatlan ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
+
+(8) Az Nvtv. 13. § (3) bekezdése szerinti, az állami feladat ellátásához nem szükséges és leselejtezett tárgyi eszközt az MNV Zrt. a legalább két éve folyamatosan, igazoltan közhasznú, karitatív tevékenységet folytató civil szervezet kezdeményezésére ingyenesen a civil szervezet tulajdonába adhatja. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
