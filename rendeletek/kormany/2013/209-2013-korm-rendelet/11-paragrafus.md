@@ -6,15 +6,15 @@
 
 a) az utólagos díjfizetésre jogosult szerződött díjfizetőnek az útdíjszolgáltató általános szerződési feltételei szerint meghatározott díjtartozása áll fenn az útdíjszolgáltatóval szemben,
 
-b)[^10]
+b)[^11]
 
 c) a fedélzeti eszköz működésébe olyan beavatkozás történik, amely nem teszi lehetővé az útdíjszolgáltató számára a szabályszerű bevallás elkészítését, vagy
 
 d) a fedélzeti eszközt elveszítik, eltulajdonítják, meghibásodik vagy megsemmisül.
 
-(3a)[^11] Az útdíjszolgáltató az útdíjszedő egyidejű tájékoztatása mellett felveszi a (2) bekezdés szerinti nyilvántartásba a fedélzeti eszközt, amennyiben az útdíj előre történő megfizetésére köteles szerződött díjfizetőnek nem áll rendelkezésére az úthasználattal érintett útdíjköteles elemi útszakasz vonatkozásában előre feltöltött egyenleg az útdíjszolgáltatónál.
+(3a)[^12] Az útdíjszolgáltató az útdíjszedő egyidejű tájékoztatása mellett felveszi a (2) bekezdés szerinti nyilvántartásba a fedélzeti eszközt, amennyiben az útdíj előre történő megfizetésére köteles szerződött díjfizetőnek nem áll rendelkezésére az úthasználattal érintett útdíjköteles elemi útszakasz vonatkozásában előre feltöltött egyenleg az útdíjszolgáltatónál.
 
-(3b)[^12] Az útdíszolgáltató az útdíjszedő egyidejű tájékoztatása mellett törli a (2) bekezdés szerinti nyilvántartásból az oda a (3a) bekezdés alapján felvett fedélzeti eszközt, amennyiben a díjfizetésre kötelezett egyenlege feltöltésre kerül olyan módon, hogy az úthasználattal érintett útdíjköteles úthasználat vonatkozásában az útdíj megfizetése biztosított, és az útdíj megfizetésre is kerül.
+(3b)[^13] Az útdíszolgáltató az útdíjszedő egyidejű tájékoztatása mellett törli a (2) bekezdés szerinti nyilvántartásból az oda a (3a) bekezdés alapján felvett fedélzeti eszközt, amennyiben a díjfizetésre kötelezett egyenlege feltöltésre kerül olyan módon, hogy az úthasználattal érintett útdíjköteles úthasználat vonatkozásában az útdíj megfizetése biztosított, és az útdíj megfizetésre is kerül.
 
 (4) Az útdíjszolgáltató a fedélzeti eszköz (2) bekezdés szerinti nyilvántartásba vételéről azonnal értesíti a szerződött díjfizetőt és az útdíjszedőt.
 
@@ -24,6 +24,6 @@ d) a fedélzeti eszközt elveszítik, eltulajdonítják, meghibásodik vagy megs
 
 (7) Amennyiben az útdíjszolgáltató az útdíjszedővel kötött szerződésben rögzített határidőben megküldte az útdíjszedőnek az általa kezelt, érvénytelennek nyilvánított fedélzeti eszközök jegyzékét, az útdíjszolgáltatótól az ezt követő időszakra nem követelhető az érvénytelen fedélzeti eszközök használata folytán felmerülő útdíj megfizetése.
 
-[^10]: A 11. § (3) bekezdés b) pontját a 422/2015. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^11]: A 11. § (3a) bekezdését a 422/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^12]: A 11. § (3b) bekezdését a 422/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 11. § (3) bekezdés b) pontját a 422/2015. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^12]: A 11. § (3a) bekezdését a 422/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 11. § (3b) bekezdését a 422/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

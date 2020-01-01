@@ -22,9 +22,9 @@ d)[^8] továbbá amelynek a Polgári Törvénykönyv szerinti vezető tisztségv
 
 (4) A vezető személyes megbízhatóságát kizárja, ha
 
-a) egyéni vállalkozói igazolványát visszavonták, amennyiben egyéni vállalkozóként végzi tevékenységét;
+a)[^9] az egyéni vállalkozói tevékenység gyakorlásától eltiltották, amennyiben egyéni vállalkozóként végzi tevékenységét;
 
-b)[^9] vezető volt olyan polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet), amelyet a cégbíróság kényszertörlési eljárás során a cégjegyzékből törölt;
+b)[^10] vezető volt olyan polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetnél (a továbbiakban: gazdálkodó szervezet), amelyet a cégbíróság kényszertörlési eljárás során a cégjegyzékből törölt;
 
 c) a korábban vezetése alatt álló gazdálkodó szervezetet vezetői megbízatása alatt szociális, egészségvédelmi, munka-, illetve vámjogi jogszabályokban előírt kötelezettségeinek teljesítésében jelentkező súlyos vagy ismétlődő mulasztás miatt jogerősen elmarasztalták;
 
@@ -38,4 +38,5 @@ d) vezető volt olyan útdíjszolgáltatói tevékenységet végző szervezetné
 
 [^7]: A 10. § (1a) bekezdését a 361/2014. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
 [^8]: A 10. § (3) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
-[^9]: A 10. § (4) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^9]: A 10. § (4) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 118. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: A 10. § (4) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
