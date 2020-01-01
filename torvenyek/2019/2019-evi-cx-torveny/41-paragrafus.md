@@ -1,3 +1,5 @@
 ## 41. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosítása
 
-41. §
+41. § A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Az (5) bekezdés d) és e) pontja szerinti esetekben zárt légterű dohányzóhely az egészségügyi államigazgatási szerv előzetes engedélyével, illetve kormányrendeletben meghatározott esetekben bejelentést követően jelölhető ki. Az egészségügyi államigazgatási szerv a dohányzóhely kijelölését abban az esetben engedélyezi, ha az megfelel az (5) bekezdés d) és e) pontjában, valamint a (7) és (8) bekezdésben fogalt követelményeknek. Az egészségügyi államigazgatási szervnek a dohányzóhely kijelölésének engedélyezésére, bejelentésére irányuló eljárásáért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.”

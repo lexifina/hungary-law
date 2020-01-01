@@ -8,6 +8,6 @@
 
 (4) Hatályát veszti a Kötv.
 
-a)
+a) 61/J. § (2) bekezdés a) pontjában a „vagy egyéni vállalkozói igazolvány számát” szövegrész,
 
 b)

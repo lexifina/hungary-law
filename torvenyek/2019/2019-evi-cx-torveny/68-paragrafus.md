@@ -20,7 +20,7 @@ b)
 
 c)
 
-d)
+d) 17. § (1) és (2) bekezdésében a „személyesen” szövegrész helyébe a „személyesen, postai úton vagy elektronikus azonosítást követően elektronikus kapcsolattartás útján” szöveg,
 
 e)
 
@@ -32,24 +32,24 @@ lép.
 
 (8) Hatályát veszti az Evectv.
 
-a)
+a) 3/A. § (2) bekezdés d) pontja,
 
-b)
+b) 4. § (2) bekezdésében a „ , továbbá az egyéni vállalkozói igazolvány igénylése” szövegrész,
 
-c)
+c) 10. §-a,
 
-d)
+d) 11. § (1) bekezdés h) pontja,
 
 e)
 
-f)
+f) 14. § (2) bekezdése,
 
 g)
 
-h)
+h) 18. § (5) bekezdése,
 
-i)
+i) 19/A. § (2) bekezdésében az „a nyilvántartásba vételt követő 30 napon belül, továbbá” szövegrész,
 
-j)
+j) 37. § (3) bekezdése,
 
-k)
+k) 39. § c) pontja.

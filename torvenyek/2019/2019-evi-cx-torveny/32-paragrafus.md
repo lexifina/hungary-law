@@ -6,7 +6,7 @@
 
 (3) Hatályát veszti az Ebtv.
 
-a)
+a) 61. § (6) bekezdése,
 
 b)
 

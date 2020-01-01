@@ -1,3 +1,5 @@
 ## 7. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-7. §
+7. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 2. § (7a) bekezdése helyébe a következő rendelkezés lép:
+
+„(7a) Szerencsejátékot népszerűsítő reklám kizárólag a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésének és 21. §-ának megfelelően tehető közzé Magyarországon. A külön jogszabályban meghatározott hatóság az e rendelkezések megsértésével közzétett szerencsejáték tárgyú reklám (a továbbiakban: tiltott reklám) esetén a reklámozót, a reklámszolgáltatót, a reklám közzétevőjét és a reklámban szereplő személyt egyetemlegesen a tiltott reklámmal elért vagyoni előny tízszeresének megfelelő, de legalább 10 millió forint összegű bírsággal sújthatja. Ha nem állapítható meg a reklámozó, a reklámszolgáltató vagy a reklámban szereplő személy, a külön jogszabályban meghatározott hatóság a bírságot a reklám közzétevőjével szemben állapítja meg.”
