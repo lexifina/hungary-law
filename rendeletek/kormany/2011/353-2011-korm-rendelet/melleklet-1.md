@@ -1,5 +1,5 @@
-## 13–16. §
+## 16. §
 
-1–3. melléklet a 353/2011. (XII. 30.) Korm. rendelethez[^57]
+1–3. melléklet a 353/2011. (XII. 30.) Korm. rendelethez[^63]
 
-[^57]: Az 1–3. mellékletet az 56/2012. (III. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^63]: Az 1–3. mellékletet az 56/2012. (III. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte.

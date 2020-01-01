@@ -1,4 +1,4 @@
-4. §[^8] (1) Az Igazgatóság megvizsgálja, hogy valamennyi adat megfelelően és hiánytalanul rögzítésre került-e az adatszolgáltatásban.
+4. §[^9] (1) Az Igazgatóság megvizsgálja, hogy valamennyi adat megfelelően és hiánytalanul rögzítésre került-e az adatszolgáltatásban.
 
 (2) Ha szükséges, az Igazgatóság legfeljebb 5 munkanapos határidő kitűzésével hiánypótlásra hívja fel az önkormányzatot. Ha az önkormányzat a hiánypótlást nem vagy nem határidőben teljesíti, az Igazgatóság az adatszolgáltatást nem fogadja el.
 
@@ -6,4 +6,4 @@
 
 (4) Az adatszolgáltatásokban szereplő ügyletekről, azok céljáról és várható értékéről a miniszterek számára tájékoztatás készül.
 
-[^8]: A 4. § a 310/2018. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § a 310/2018. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
