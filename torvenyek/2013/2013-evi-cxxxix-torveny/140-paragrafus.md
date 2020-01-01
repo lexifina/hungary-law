@@ -122,7 +122,7 @@ bl) a Hpt. 126. § (5) bekezdésében meghatározott információkról,
 
 bm) a Hpt. 145. § (4) bekezdése alapján hozott engedélyről,
 
-bn) a Hpt. 174. § (5) bekezdése, a 185. §, 199. § (5) bekezdése, valamint a Bszt. 164. §-a alapján hozott határozatokról,
+bn) a Hpt. 145. § (4) bekezdése, 174. § (5) bekezdése, 185. §-a, 199. § (5) bekezdése, valamint a Bszt. 26/A. § (4) bekezdése és 164. §-a alapján hozott határozatokról,
 
 bo) a harmadik országban székhellyel rendelkező hitelintézet vagy befektetési vállalkozás magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
 

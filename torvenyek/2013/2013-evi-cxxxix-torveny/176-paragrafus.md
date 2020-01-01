@@ -12,6 +12,6 @@
 
 (6) A 2013. október 1-je előtt indult, folyamatban lévő peres és nemperes eljárásokban a PSZÁF helyébe az MNB, továbbá a PSZÁF által működtetett Pénzügyi Békéltető Testület helyébe a Pénzügyi Békéltető Testület lép.
 
-(7) A PSZÁF által 2013. október 1-jét megelőzően hozott hatósági döntéssel szemben bírósági felülvizsgálati eljárás megindítására irányuló keresetet 2013. szeptember 30-át követően az MNB ellen kell benyújtani.
+(7) A PSZÁF által 2013. október 1-jét megelőzően hozott hatósági döntéssel szemben közigazgatási per megindítására irányuló keresetet 2013. szeptember 30-át követően az MNB ellen kell benyújtani.
 
 (8) A PSZÁF által 2013. október 1-jét megelőzően kiadott ajánlás hatályát e törvény hatálybalépése nem érinti.

@@ -29,3 +29,5 @@
 ## ae) az ÁÉKBV-kel kapcsolatban
 
 ## 1. a gyűjtő-ÁÉKBV-nek a cél-ÁÉKBV-be történő befektetésének engedélyezésére,
+
+## 2. a cél-ÁÉKBV megszűnése esetén annak engedélyezése, hogy a gyűjtő-ÁÉKBV egy másik cél-ÁÉKBV-be fektesse eszközeinek legalább 85 százalékát,

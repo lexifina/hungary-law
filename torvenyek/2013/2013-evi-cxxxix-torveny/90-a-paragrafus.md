@@ -2,9 +2,9 @@
 
 (2) Az ügyfél lakcímeként, székhelyeként vagy telephelyeként nem bejelentett és gazdasági tevékenység folytatására egyébként általa nem használt magáncélú, illetve magánhasználatú ingatlan, jármű, adathordozó tekintetében helyszíni kutatás csak akkor lehetséges, ha az olyan természetes személy használatában van, aki az eljárás ideje alatt ügyfél, vagy – nem természetes személy esetén – az ügyfél vezető tisztségviselője, alkalmazottja, megbízottja vagy – nem természetes személy esetén – az ügyfél felett ténylegesen irányítást gyakorló személy, vagy a vizsgálat tárgyát képező időszakban ilyen volt.
 
-(3) E § szerinti helyszíni kutatásra csak előzetes bírói engedéllyel kerülhet sor. Az MNB engedély iránti kérelmének tartalmaznia kell a helyszíni kutatás célját, helyét, az indokoltság alátámasztására szolgáló tényeket, továbbá a helyszíni kutatásra okot adó bizonyítási eszközök – így különösen adatok és adathordozók – meghatározását. Az MNB engedély iránti írásbeli kérelmét a közigazgatási ügyben eljáró bíróság bírálja el, a kérelem beérkezésétől számított hetvenkét órán belül, nemperes eljárásban.
+(3) E § szerinti helyszíni kutatásra csak előzetes bírói engedéllyel kerülhet sor.
 
-(4) A bíróság a kérelmezett helyszíni kutatást akkor engedélyezi, ha az MNB valószínűsíti, hogy más vizsgálati cselekmény – így különösen a 67. § szerinti helyszíni ellenőrzés – nem vezetne eredményre, és ésszerű megalapozottsággal feltehető, hogy az indítvány szerinti helyen a vizsgálat tárgyát képező jogsértéssel kapcsolatos bizonyítási eszköz fellelhető, és feltételezhető, hogy azt önként nem bocsátanák rendelkezésre vagy felhasználhatatlanná tennék. A bíróság a kérelmezett helyszíni kutatást részben is engedélyezheti, meghatározva, hogy kivel szemben, illetve milyen vizsgálati cselekmény tehető.
+(4)
 
 (5) A helyszíni kutatás a bírói engedély közlésétől számított tizenöt napon belül foganatosítható.
 
