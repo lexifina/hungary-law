@@ -1,8 +1,8 @@
-116. § (1)[^241] A megtérítésre kötelezett kérelmére a központi személyügyi szerv vezetője fizetési könnyítést engedélyezhet, ha a megtérítésre kötelezett igazolja, hogy a tanulmányi támogatás egy összegű, illetve azonnali visszafizetése családi, vagyoni, jövedelmi, vagy szociális körülményeire is tekintettel súlyos megterhelést jelentene.
+116. § (1)[^244] A megtérítésre kötelezett kérelmére a központi személyügyi szerv vezetője fizetési könnyítést engedélyezhet, ha a megtérítésre kötelezett igazolja, hogy a tanulmányi támogatás egy összegű, illetve azonnali visszafizetése családi, vagyoni, jövedelmi, vagy szociális körülményeire is tekintettel súlyos megterhelést jelentene.
 
-(2)[^242]
+(2)[^245]
 
 (3) A megtérítésre kötelezett a fizetési könnyítés iránti kérelmét a fizetési felszólítás kézhezvételét követő 30 napos jogvesztő határidőn belül nyújthatja be.
 
-[^241]: A 116. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 15. pontja szerint módosított szöveg.
-[^242]: A 116. § (2) bekezdését a 25/2016. (XII. 22.) HM rendelet 49. § b) pontja hatályon kívül helyezte.
+[^244]: A 116. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 15. pontja szerint módosított szöveg.
+[^245]: A 116. § (2) bekezdését a 25/2016. (XII. 22.) HM rendelet 49. § b) pontja hatályon kívül helyezte.

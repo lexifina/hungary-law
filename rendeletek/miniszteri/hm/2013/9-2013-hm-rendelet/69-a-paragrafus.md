@@ -1,4 +1,4 @@
-69/A. §[^177] (1) A Hjt. 123. § (2) bekezdése alapján a szolgálati beosztásokat a (2)–(6) bekezdésben foglaltak szerint kell a Hjt. 5. melléklete szerinti besorolási osztályokba besorolni.
+69/A. §[^180] (1) A Hjt. 123. § (2) bekezdése alapján a szolgálati beosztásokat a (2)–(6) bekezdésben foglaltak szerint kell a Hjt. 5. melléklete szerinti besorolási osztályokba besorolni.
 
 (2) A (3) és a (4) bekezdésbe nem tartozó, Magyarországon települő honvédségi szervezet, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény munkaköri jegyzékében, állománytáblájában, továbbá a Magyarországon települő katonai szervezethez vezényelt állományra vonatkozó állománytáblában szereplő
 
@@ -40,4 +40,4 @@ b) az MH Parancsnoksága stratégiai központjánál létrehozott szolgálati be
 
 kell megfelelően alkalmazni.
 
-[^177]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 23. §-ával megállapított szöveg.
+[^180]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 23. §-ával megállapított szöveg.

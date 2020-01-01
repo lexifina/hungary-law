@@ -1,3 +1,3 @@
-111. §[^229]
+111. §[^232]
 
-[^229]: A 111. §-t a 20/2018. (XII. 28.) HM rendelet 72. § 13. pontja hatályon kívül helyezte.
+[^232]: A 111. §-t a 20/2018. (XII. 28.) HM rendelet 72. § 13. pontja hatályon kívül helyezte.
