@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1022-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-02-08 | 2016-1022-30-22.1 | 1022/2016. (II. 8.) Korm. határozat |
+| 2020-01-01 | 2016-1022-30-22.2 | 2011: CXCV. törvény |
