@@ -1,0 +1,5 @@
+## 9. Egyéb nemzetközi igazolások kiállítása
+
+14. § (1) A kérelmező kérelmére a Filmiroda kiállítja a nyilvántartásában szereplő adatok tekintetében a filmalkotás eredetigazolását (certificate of origin). Az eredetigazolás tartalmát érintő minden olyan adatot, amelyről a Filmirodának nincsen hivatalos tudomása, a Filmiroda a kérelmező nyilatkozatának megfelelően – ennek a ténynek a feltüntetésével – igazol. Az eredetigazolás tartalmazza a filmalkotás magyar, angol, valamint eredeti nyelven történő megnevezését, a gyártás évét, a gyártó ország (országok) megnevezését, a filmalkotás hosszát méterben és lábban, valamint időtartamban, a magyar filmelőállító megnevezését, a producer, a rendező, az operatőr, a forgatókönyvíró, a főszereplők nevét, valamint az igazolás célja eléréséhez szükséges egyéb olyan adatokat, melyek nyilvánosan hozzáférhetők.
+
+(2) Az igazolás alapjául szolgáló adatok hitelességének, valódiságának ellenőrzése érdekében a Filmiroda az Mktv. hatálya alá tartozó érintettek tekintetében általános hatósági felügyelet keretében hatósági ellenőrzést vagy hatósági eljárást folytathat le.
