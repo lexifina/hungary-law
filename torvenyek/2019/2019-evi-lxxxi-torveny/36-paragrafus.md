@@ -1,0 +1,3 @@
+36. § A Be. 855. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) és (2) bekezdés alapján az igazságügyért felelős miniszter kezelheti a polgári jogi igénnyel, a vagyonelkobzással, a fiatalkorúval szemben kiszabott pénzbüntetéssel és a bűnügyi költséggel kapcsolatos adatokat, az adatkérésre vonatkozó rendelkezések alapján a bírósági végrehajtótól, illetve az állami adó- és vámhatóságtól adatok szolgáltatását kérheti, továbbá a bírósági végrehajtó a polgári jogi igény, illetve az állami adó- és vámhatóság a vagyonelkobzás, a fiatalkorúval szemben kiszabott pénzbüntetés és a bűnügyi költség végrehajtása érdekében a kártalanítási eljárással kapcsolatos személyes adatokat megismerheti, illetve azokat kezelheti.”
