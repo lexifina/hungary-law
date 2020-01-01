@@ -10,7 +10,7 @@ c) a támogatásban részesülő szervezet esetében a megnevezését (székhely
 
 d) a közigazgatási hatóság által nyújtott támogatás formáját, mértékét, folyósításának időtartamát, módját, a folyósítás egyéb feltételeit,
 
-e) az EK-szerződés 87–88. §-a szerint állami támogatásnak minősülő támogatás nyújtása esetén
+e) az Európai Unió működéséről szóló szerződés 107. és 108. cikke szerint állami támogatásnak minősülő támogatás nyújtása esetén
 
 ea) a támogatás kategóriájának megnevezését, a támogatás tartalmát,
 

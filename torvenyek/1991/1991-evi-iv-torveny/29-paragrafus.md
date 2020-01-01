@@ -1,6 +1,6 @@
 29. § (1) Szünetel az álláskeresési járadék folyósítása, ha az álláskereső
 
-a) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre, gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
+a) csecsemőgondozási díjra, örökbefogadói díjra, gyermekgondozási díjra vagy gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, csecsemőgondozási díj, örökbefogadói díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
 
 b) letartóztatásban van, elzárás büntetését vagy szabadságvesztés büntetését tölti, a kényszerintézkedés vagy büntetés megkezdésének napjától, kivéve, ha
 

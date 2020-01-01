@@ -6,7 +6,7 @@ a) aki álláskereső,
 
 b) aki 25. életévét – felsőfokú végzettségű személy esetén a 30. életévét – nem töltötte be, és a tanulói, hallgatói jogviszonya megszűnését követően álláskeresési járadékra és álláskeresési segélyre nem szerzett jogosultságot,
 
-c) aki gyermekgondozási segélyben, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekgondozási díjban, gyermekek otthongondozási díjában vagy ápolási díjban részesül,
+c) aki gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekgondozási díjban, gyermekek otthongondozási díjában vagy ápolási díjban részesül,
 
 d) aki rehabilitációs ellátásban részesül,
 
@@ -22,7 +22,7 @@ a) a képzés a gyermek fél éves korának betöltését követően kezdődik m
 
 b) kereső tevékenységet nem folytat, és
 
-c) – a gyermekgondozást segítő ellátásban, gyermekgondozási segélyben részesülő személyt kivéve – a képzés időtartama hetente nem haladja meg a harminc órát.
+c) – a gyermekgondozást segítő ellátásban, részesülő személyt kivéve – a képzés időtartama hetente nem haladja meg a harminc órát.
 
 (3)
 

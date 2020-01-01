@@ -1,18 +1,18 @@
-39/A. § (1) A Nemzeti Foglalkoztatási Alappal a miniszter rendelkezik. A miniszter rendelkezési jogát a 39. § (12) bekezdés d) pontjában meghatározott előirányzat tekintetében a (2) bekezdés szerint a közfoglalkoztatásért felelős miniszterrel, a képzési alaprész tekintetében a (3) bekezdés szerint a szakképzésért és felnőttképzésért felelős miniszterrel megosztva gyakorolja.
+39/A. § (1) A Nemzeti Foglalkoztatási Alapért a miniszter felelős. A miniszter e felelőssége keretében – a képzési alaprész és a közfoglalkoztatás támogatására fordítható költségvetési kiadási előirányzat felhasználása kivételével – rendelkezik a Nemzeti Foglalkoztatási Alappal.
 
-(2) A 39. § (12) bekezdés d) pontjában meghatározott előirányzat fő felhasználási céljait – kormányrendeletben foglaltak alapulvételével – a miniszter és a közfoglalkoztatásért felelős miniszter együttesen határozza meg. Országos közfoglalkoztatási program indítására és az azzal kapcsolatos egyedi kötelezettségvállalásra a közfoglalkoztatásért felelős miniszter jogosult.
+(2) A képzési alaprész felhasználásáért a szakképzésért felelős miniszter a szakképzésről szóló törvényben meghatározottak szerint felelős.
 
-(3) A képzési alaprész feletti alapkezelési feladatokat a miniszter, a szakmai feladatokat a szakképzésért és felnőttképzésért felelős miniszter látja el.
+(3) A közfoglalkoztatás támogatására fordítható költségvetési kiadási előirányzat felhasználási céljait a miniszter a közfoglalkoztatásért felelős miniszterrel együtt határozza meg. Országos közfoglalkoztatási program indítására és az azzal kapcsolatosan kötelezettségvállalásra a közfoglalkoztatásért felelős miniszter jogosult.
 
-(4) A Nemzeti Foglalkoztatási Alap alaprészei és külön előirányzatai terhére miniszteri döntés csak a pénzügyi fedezet rendelkezésre állásának igazolását követően hozható. A fedezet rendelkezésre állásának igazolására a Nemzeti Foglalkoztatási Alap kezeléséért felelős miniszter által vezetett minisztérium jogosult.
+(4)
 
-(5)
+(5) Az (1) bekezdésben foglaltakra tekintettel a Nemzeti Foglalkoztatási Alap alaprészeiből és külön előirányzataiból folyósított támogatás visszakövetelése, vagy az annak biztosítékaként szereplő vagyontárgyra irányuló végrehajtás tekintetében nem kell alkalmazni az állami vagyonról szóló 2007. évi CVI. törvény rendelkezéseit.
 
 (6)
 
 (7)
 
-(8) A miniszter a Nemzeti Foglalkoztatási Alap év végi egyenlegének megóvása érdekében – a hatáskörébe tartozó előirányzat tekintetében a 39/A. § (1) bekezdése szerinti rendelkezési joggal rendelkező miniszter véleményének kikérésével – dönthet
+(8) A miniszter a Nemzeti Foglalkoztatási Alap év végi egyenlegének megóvása érdekében – a hatáskörébe tartozó előirányzat tekintetében a (2) és (3) bekezdésben meghatározott miniszter véleményének kikérésével – dönthet
 
 a) a keletkezett többletbevételek felhasználásának mértékéről,
 
@@ -20,16 +20,12 @@ b) a kiadások évközi ütemezésének módosításáról,
 
 c) a Nemzeti Foglalkoztatási Alap alaprészei és a külön előirányzatai kiadásainak csökkentéséről.
 
-(9) A Nemzeti Foglalkoztatási Alap pénzeszközeinek – a képzési alaprész kivételével – felhasználásáról e törvény, valamint e törvény végrehajtására kiadott rendelet szerint a miniszter és az állami foglalkoztatási szervek gondoskodnak. A képzési alaprész pénzeszközeinek felhasználásáról a szakképzési hozzájárulásról szóló törvény alapján a szakképzésért és felnőttképzésért felelős miniszter, valamint az állami szakképzési és felnőttképzési szerv gondoskodik.
+(9) A Nemzeti Foglalkoztatási Alap tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 6/B. § (1) bekezdés b) pont bb) alpontjában meghatározott feladatokat a miniszter látja el.
 
-(10) A Nemzeti Foglalkoztatási Alap bevételi és kiadási előirányzatát és annak alaprészek közötti megosztását az Országgyűlés címenként és alcímenként a költségvetési törvényben hagyja jóvá. Az alaprészen belüli további jogcímeket a miniszter állapítja meg.
+(10) A Nemzeti Foglalkoztatási Alap pénzeszközeinek felhasználásáról – a képzési alaprész kivételével – e törvény és az e törvény végrehajtására kiadott rendelet szerint a miniszter és kezelő szervként a miniszter által vezetett minisztérium és az állami foglalkoztatási szerv gondoskodik.
 
-(11) A Nemzeti Foglalkoztatási Alapot – ha az egyes alaprészek tekintetében törvény eltérően nem rendelkezik – a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) kezeli.
+(11) A képzési alaprész pénzeszközeinek felhasználásáról a szakképzésért felelős miniszter és kezelő szervként a szakképzésről szóló törvényben vagy annak végrehajtására kiadott kormányrendeletben meghatározott személy gondoskodik.
 
-(12) A minisztérium az (1) bekezdésben meghatározott tevékenysége keretében ellátja az államháztartásról szóló 2011. évi CXCV. törvény 6/B. §-ában meghatározott feladatokat, továbbá
-
-a) gondoskodik a Nemzeti Foglalkoztatási Alapra mint elkülönített állami pénzalapra vonatkozó jogszabályok végrehajtásáról,
-
-b) ha törvény eltérően nem rendelkezik, a Nemzeti Foglalkoztatási Alapból nyújtott költségvetési támogatás esetén támogatási szerződést köt.
+(12)
 
 (13) Felhatalmazást kap a miniszter, hogy a Nemzeti Foglalkoztatási Alap kezelésének és felhasználásának részletes szabályait – a képzési alaprész felhasználási szabályai kivételével – rendeletben határozza meg.

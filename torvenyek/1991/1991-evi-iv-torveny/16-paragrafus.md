@@ -1,6 +1,6 @@
 ## Foglalkoztatás bővítését szolgáló támogatások
 
-16. § (1) A munkaadó részére külön jogszabályban meghatározott hátrányos helyzetű személy munkaviszony keretében történő foglalkoztatásához a munkabér és járuléka legfeljebb ötven százalékának, megváltozott munkaképességű személy esetében legfeljebb hatvan százalékának megfelelő összegű támogatás nyújtható, ha a munkaadó
+16. § (1) A munkaadó részére külön jogszabályban meghatározott hátrányos helyzetű személy munkaviszony keretében történő foglalkoztatásához a munkabér és járuléka legfeljebb ötven százalékának, megváltozott munkaképességű személy esetében legfeljebb hetvenöt százalékának megfelelő összegű támogatás nyújtható, ha a munkaadó
 
 a) a foglalkoztatást legalább a támogatás folyósításának időtartama alatt vállalja, és
 

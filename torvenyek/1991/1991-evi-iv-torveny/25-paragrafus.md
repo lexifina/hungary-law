@@ -18,7 +18,7 @@ b) egészségi állapota szerint az álláskereső a munka elvégzésére alkalm
 
 c) a várható kereset az álláskeresési járadék összegét, illetőleg – amennyiben az álláskeresési járadék összege a kötelező legkisebb munkabérnél alacsonyabb – a kötelező legkisebb munkabér összegét eléri,
 
-d) a munkahely és a lakóhely közötti naponta – tömegközlekedési eszközzel – történő oda- és visszautazás ideje a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi álláskereső esetében a két órát nem haladja meg,
+d) a munkahely és a lakóhely közötti naponta – tömegközlekedési eszközzel vagy munkáltatói személyszállítással – történő oda- és visszautazás ideje a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi álláskereső esetében a két órát nem haladja meg,
 
 e) az álláskereső foglalkoztatása munkaviszonyban történik.
 
@@ -26,7 +26,7 @@ e) az álláskereső foglalkoztatása munkaviszonyban történik.
 
 (4) Az (1) bekezdés b) pontjában meghatározott jogosultsági idő időtartamába nem számítható be a fizetés nélküli szabadság harminc napot meghaladó időtartama, kivéve, ha annak igénybevételére
 
-a) háromévesnél – ha a munkavállaló a gyermek gondozása céljából gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesül, tizennégy évesnél – fiatalabb gyermek gondozása, vagy tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása [a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. § és 130. §], valamint
+a) háromévesnél – ha a munkavállaló a gyermek gondozása céljából gyermekgondozást segítő ellátásban részesül, tizennégy évesnél – fiatalabb gyermek gondozása, vagy tizenkét évesnél fiatalabb beteg gyermek otthoni ápolása [a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 128. § és 130. §], valamint
 
 b) hozzátartozó ápolása [Mt. 131. § (1) és (2) bekezdése], továbbá
 

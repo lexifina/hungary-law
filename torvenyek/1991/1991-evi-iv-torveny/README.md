@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2019-01-02 | 2018. évi XCIV. törvény | 1991-4-00-00.117 |
 | 2019-02-01 | 2018. évi CXV. törvény | 1991-4-00-00.118 |
 | 2019-04-26 | 2019. évi XXXIV. törvény | 1991-4-00-00.119 |
+| 2020-01-01 | 2019. évi CXII. törvény | 1991-4-00-00.120 |

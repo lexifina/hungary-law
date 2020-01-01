@@ -62,7 +62,7 @@ b) kötelezettséget vállal arra, hogy az állami foglalkoztatási szervvel a (
 
 együttműködik.
 
-(12) Az állami foglalkoztatási szerv a gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesülő személyt – kérelmére – a (11) bekezdésben meghatározott feltételek fennállása esetén, akkor veszi álláskeresőként nyilvántartásba, ha annak folyósítása alatt, a családok támogatásáról szóló törvény szerint keresőtevékenységet folytathat.
+(12) Az állami foglalkoztatási szerv a gyermekgondozást segítő ellátásban részesülő személyt – kérelmére – a (11) bekezdésben meghatározott feltételek fennállása esetén, akkor veszi álláskeresőként nyilvántartásba, ha annak folyósítása alatt, a családok támogatásáról szóló törvény szerint keresőtevékenységet folytathat.
 
 (13) A közfoglalkoztatott a közfoglalkoztatás időtartama alatt köteles elfogadni az állami foglalkoztatási szerv által részére felajánlott, 25. § (2) bekezdése szerinti megfelelő munkahelyet, valamint a részére felajánlott, 14. § (1) bekezdése szerinti képzést.
 
@@ -94,7 +94,7 @@ b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivév
 
 c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 
-d) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre, gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
+d) csecsemőgondozási díjra, örökbefogadói díjra, gyermekgondozási díjra vagy gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, csecsemőgondozási díj, örökbefogadói díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
 
 e) önkéntes tartalékos katonai tényleges szolgálatot teljesít, a szolgálatteljesítés időtartama alatt, továbbá
 
@@ -108,8 +108,8 @@ f) szabadságvesztés büntetését tölti, annak időtartama alatt, kivéve, ha
 
 (17) Az állami foglalkoztatási szerv a (14) bekezdés h) pontjában meghatározott feltételek fennállása esetén – kérelmére – nem törli az álláskeresők nyilvántartásából azt az ügyfelet, aki vállalja, hogy az állami foglalkoztatási szervvel a (9) bekezdésben foglaltak szerint együttműködik.
 
-(18) Az álláskereső aktív munkahelykereső tevékenysége a gyermekgondozási segélyre, gyermekgondozást segítő ellátásra és gyermekgondozási díjra való jogosultságának bejelentése esetén akkor szünetel, ha annak folyósítása alatt a családok támogatásáról szóló törvény és a kötelező egészségbiztosítás ellátásairól szóló törvény szerint nem folytathat keresőtevékenységet, vagy keresőtevékenységet folytathat, de kéri az aktív munkahelykereső tevékenységének és álláskeresőként való nyilvántartásának szünetelését.
+(18) Az álláskereső aktív munkahelykereső tevékenysége a gyermekgondozást segítő ellátásra és gyermekgondozási díjra való jogosultságának bejelentése esetén akkor szünetel, ha annak folyósítása alatt a családok támogatásáról szóló törvény és a kötelező egészségbiztosítás ellátásairól szóló törvény szerint nem folytathat keresőtevékenységet, vagy keresőtevékenységet folytathat, de kéri az aktív munkahelykereső tevékenységének és álláskeresőként való nyilvántartásának szünetelését.
 
-(19) A Kormány által az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv közvetlen hozzáférést biztosít az állami foglalkoztatási szerv részére a felsőoktatási információs rendszerben foglalt, az álláskereső azonosításához szükséges, valamint a hallgatói jogviszony típusával, keletkezésének és megszűnésének időpontjával kapcsolatos adatokhoz az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés céljából.
+(19) A nemzeti köznevelésről szóló 2011. évi CXC. törvény 19. § (5) bekezdése szerinti szerv, a szakképzési államigazgatási szerv, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 6. § (5) bekezdés a) pontja szerinti szerv és a felnőttképzési államigazgatási szerv közvetlen hozzáférést biztosít az állami foglalkoztatási szerv részére a köznevelés információs rendszerében, a szakképzés információs rendszerében, a felsőoktatási információs rendszerben és a felnőttképzés adatszolgáltatási rendszerében foglalt, az álláskereső azonosításához szükséges, valamint tanulói jogviszony, a hallgatói jogviszony és a felnőttképzési jogviszony típusával, keletkezésének és megszűnésének időpontjával kapcsolatos adatokhoz az álláskeresőként való nyilvántartásba vétel, a nyilvántartásból való törlés és a lemorzsolódó fiatalok felkutatása és programba vonása céljából.
 
-(20) A Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv közvetlen hozzáférést biztosít az állami foglalkoztatási szerv részére a köznevelési információs rendszerben foglalt, az álláskereső azonosításához szükséges, valamint a tanulói jogviszony keletkezésének és megszűnésének időpontjával kapcsolatos adatokhoz az álláskeresőként való nyilvántartásba vétel, valamint a nyilvántartásból való törlés céljából.
+(20)

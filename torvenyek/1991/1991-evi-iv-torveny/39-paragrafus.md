@@ -4,7 +4,7 @@
 
 ## Nemzeti Foglalkoztatási Alap
 
-39. § (1) A Munkaerőpiaci Alap, mint elkülönített állami pénzalap elnevezése Nemzeti Foglalkoztatási Alapra módosul.
+39. § (1)
 
 (2) A Nemzeti Foglalkoztatási Alap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
 
@@ -36,7 +36,7 @@ c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a
 
 d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás, valamint annak folyósításával kapcsolatos postaköltség finanszírozására;
 
-e) a képzési alaprészt, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben, valamint a felnőttképzésről szóló törvényben meghatározott feladatok, támogatási programok finanszírozására;
+e) a képzési alaprészt, a szakképzésről szóló törvényben meghatározott feladatok finanszírozására;
 
 f)
 
@@ -44,7 +44,7 @@ g)
 
 h)
 
-(4) Az egyes alaprészek terhére elszámolhatók a Nemzeti Foglalkoztatási Alap beszámolóját megalapozó informatikai szolgáltatás és könyvvizsgálati ellenőrzés díja arányosan, az alaprészből finanszírozott ellátások, támogatások igénybevételének hirdetésével, közzétételével és ellenőrzésével kapcsolatos kiadások, szakértői díjak, valamint az alaprészek pénzeszközei visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek, elszámolható továbbá az alaprészből finanszírozott ellátásokkal, támogatásokkal kapcsolatos nyilvántartás működtetéséhez szükséges informatikai fejlesztések költsége.
+(4) Az egyes alaprészek terhére elszámolhatók a Nemzeti Foglalkoztatási Alap könyvvizsgálati ellenőrzés díja arányosan, az alaprészből finanszírozott ellátások, támogatások igénybevételének hirdetésével, közzétételével és ellenőrzésével kapcsolatos kiadások, szakértői díjak, valamint az alaprészek pénzeszközei visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek.
 
 (5) A (6) bekezdés kivételével a Nemzeti Foglalkoztatási Alap külön előirányzataiból finanszírozott támogatások igénybevételének hirdetésével, közzétételével kapcsolatos kiadások, szakértői díjak, valamint a pénzeszközök visszakövetelésével, behajtásával kapcsolatban felmerülő díjak és költségek az adott előirányzatból elszámolhatók.
 
@@ -54,11 +54,11 @@ h)
 
 (8) Az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás tekintetében a Nemzeti Foglalkoztatási Alap mint központi programok kedvezményezettje finanszírozza az előbbiekben említett intézkedések végrehajtása érdekében teljesített kifizetéseket.
 
-(9) A Nemzeti Foglalkoztatási Alap bevételét képező járulék, szociális hozzájárulási adó költségvetési törvényben meghatározott hányada, illetőleg hozzájárulás beszedése érdekében igénybe vett szolgáltatás díja a Nemzeti Foglalkoztatási Alapnak azt az alaprészét terheli, amelynek kiadásai finanszírozása érdekében a járulék és szociális hozzájárulási adó fizetése történik.
+(9) A Nemzeti Foglalkoztatási Alap bevételét képező járulék, szociális hozzájárulási adó központi költségvetésről szóló törvényben meghatározott hányada, illetőleg hozzájárulás beszedése érdekében igénybe vett szolgáltatás díja a Nemzeti Foglalkoztatási Alapnak azt az alaprészét terheli, amelynek kiadásai finanszírozása érdekében a járulék és szociális hozzájárulási adó fizetése történik.
 
 (10) A Nemzeti Foglalkoztatási Alap alaprészeinek központi pénzügyi kerete által finanszírozott program esetében a programhoz közvetlenül kapcsolódó igazolt költségek az érintett keret terhére elszámolhatók, illetve abból megtéríthetők.
 
-(11) Az elkülönített alaprészek bevételeit és kiadásait az éves költségvetési törvény címenként, illetve alcímenként tartalmazza.
+(11) Az elkülönített alaprészek bevételeit és kiadásait a központi költségvetésről szóló törvény címenként, illetve alcímenként tartalmazza.
 
 (12) A Nemzeti Foglakoztatási Alap költségvetésében külön előirányzat tartalmazza:
 

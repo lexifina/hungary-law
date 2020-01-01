@@ -8,7 +8,7 @@ b) az Európai Unió foglalkoztatási stratégiájához igazodóan évente fogla
 
 c) a feladatának eredményes ellátása érdekében a munkaerő-piaci folyamatok naprakész megfigyelésére és ennek nyomán a munkaerő-piaci politikák hatékony alakítására és alkalmazására alkalmas foglalkoztatási mutatószámot alakít ki,
 
-d) meghatározza a kormányzati szerveknek a foglalkoztatáspolitika megvalósításával kapcsolatos feladatait.
+d) meghatározza a kormányzati igazgatási szerveknek a foglalkoztatáspolitika megvalósításával kapcsolatos feladatait.
 
 (3)
 

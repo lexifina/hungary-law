@@ -1,6 +1,8 @@
 ## Visszafizetési és megtérítési kötelezettség
 
-37. § (1) Az ellátást megállapító állami foglalkoztatási szerv az ellátás felvételétől számított hat hónapon belül írásban kötelezi az ellátás visszafizetésére azt, aki az ellátást jogalap nélkül vette fel.
+37. § (1) Az állami foglalkoztatási szerv az ellátás felvételétől számított hat hónapon belül írásban kötelezi az ellátás visszafizetésére azt, aki az ellátást jogalap nélkül vette fel.
+
+(1a) A jogalap nélkül felvett álláskeresési ellátást – az állami adó- és vámhatóság végrehajtás céljából történő megkereséséig – az álláskeresési ellátásból kell levonni.
 
 (2) Az (1) bekezdésben meghatározott idő elteltével a jogalap nélkül felvett ellátást akkor lehet visszakövetelni, ha a jogalap nélküli kifizetést az ellátásra jogosult vétkes magatartása idézte elő.
 
