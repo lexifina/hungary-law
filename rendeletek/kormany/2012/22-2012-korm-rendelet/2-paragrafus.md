@@ -24,12 +24,12 @@ j) jogszabályban meghatározott keretek között kidolgozza és fejleszti az el
 
 (2)[^6]
 
-(3)[^7] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal, valamint a megyei kormányhivatal növény- és talajvédelmi feladatkörében eljáró megyeszékhely szerinti járási hivatala hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben a központi államigazgatási szervekről, valamint a kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában, valamint kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket a NÉBIH gyakorolja.
+(3)[^7] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében, valamint a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatal hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben a központi államigazgatási szervekről, valamint a kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában, valamint kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket a NÉBIH gyakorolja.
 
 (4)[^8] Az elnök a megyei kormányhivatal kormánytisztviselőjét jogszabályban meghatározott járványügyi, vagy más kiemelt jelentőségű okból azonnali intézkedést igénylő esetben közvetlenül utasíthatja feladat elvégzésére vagy mulasztás pótlására, továbbá jelentést kérhet.
 
 [^4]: A 2. § (1) bekezdés a) pontja a 73/2019. (IV. 5.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés b) pontját a 73/2019. (IV. 5.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
 [^6]: A 2. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés a) pontja hatályon kívül helyezte.
-[^7]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 195. § (1) bekezdésével megállapított, a 73/2019. (IV. 5.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 195. § (1) bekezdésével megállapított, a 73/2019. (IV. 5.) Korm. rendelet 7. §-a, a 360/2019. (XII. 30.) Korm. rendelet 100. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^8]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 29. §-ával megállapított, a 73/2019. (IV. 5.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
