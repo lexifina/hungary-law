@@ -10,13 +10,35 @@ A biztonsági kőolajkészlet képzése
 
 |
 
+A
+
+|
+
+B
+
+|
+
+|
+
+1
+
+|
+
+Készletezett anyag
+
+|
+
 Kombinált nomenklatúra 2012
 
 |
 
 |
 
-a) Nyersolaj
+2
+
+|
+
+Nyersolaj
 
 |
 
@@ -26,7 +48,11 @@ a) Nyersolaj
 
 |
 
-b) Motorbenzin
+3
+
+|
+
+Motorbenzin
 
 |
 
@@ -36,7 +62,11 @@ b) Motorbenzin
 
 |
 
-c) Motorikus gázolaj/dízelolaj
+4
+
+|
+
+Motorikus gázolaj/dízelolaj
 
 |
 
@@ -46,13 +76,21 @@ c) Motorikus gázolaj/dízelolaj
 
 |
 
-d) Háztartási és egyéb tüzelőolaj
+5
+
+|
+
+Háztartási és egyéb tüzelőolaj
 
 |
 
 |
 
-e) Fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb)
+6
+
+|
+
+Fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb)
 
 |
 
@@ -62,31 +100,51 @@ e) Fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb)
 
 |
 
-f) Fűtőolaj – magas kéntartalmú (1%-nál magasabb)
+7
+
+|
+
+Fűtőolaj – magas kéntartalmú (1%-nál magasabb)
 
 |
 
 27101968, 27102039
 
+|
+
+|
+
+8
+
+|
+
+Kerozin típusú sugárhajtómű üzemanyag
+
+|
+
+27101921
+
 2. A biztonsági kőolajkészlet szintjét a következőképpen kell meghatározni:
 
-A = [a × 0,96 + (b+c+d+e+f) ×1,2] × 0,9
+A = [a×0,96+(b+c+d+e+f+g)×1,2]×0,9
 
 ahol,
 
-A = a biztonsági kőolajkészlet nagysága kőolaj-egyenértékben
+2.1. A = a biztonsági kőolajkészlet nagysága kőolaj-egyenértékben;
 
-a = a tárolt nyersolaj mennyisége tonna mértékegységben
+2.2. a = a tárolt nyersolaj mennyisége tonna mértékegységben;
 
-b = a tárolt motorbenzin mennyisége tonna mértékegységben
+2.3. b = a tárolt motorbenzin mennyisége tonna mértékegységben;
 
-c = a tárolt motorikus gázolaj/dízelolaj mennyisége tonna mértékegységben
+2.4. c = a tárolt motorikus gázolaj/dízelolaj mennyisége tonna mértékegységben;
 
-d = a tárolt háztartási és egyéb tüzelőolaj mennyisége tonna mértékegységben
+2.5. d = a tárolt háztartási és egyéb tüzelőolaj mennyisége tonna mértékegységben;
 
-e = a tárolt alacsony kéntartalmú fűtőolaj mennyisége tonna mértékegységben
+2.6. e = a tárolt alacsony kéntartalmú fűtőolaj mennyisége tonna mértékegységben;
 
-f = a tárolt magas kéntartalmú fűtőolaj mennyisége tonna mértékegységben
+2.7. f = a tárolt magas kéntartalmú fűtőolaj mennyisége tonna mértékegységben;
+
+2.8. g = a tárolt kerozin típusú sugárhajtómű üzemanyag mennyisége tonna mértékegységben.
 
 3. A biztonsági és a különleges kőolajkészlet mennyiségének számítása során
 

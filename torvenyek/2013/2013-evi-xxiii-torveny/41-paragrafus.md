@@ -2,7 +2,7 @@
 
 a) katonai célra hoz be, használ fel vagy értékesít közvetlenül a végső felhasználó számára,
 
-b) nem magáncélú légiközlekedési tevékenységet végző szervezet nemzetközi légiforgalomban részt vevő – külföldi vagy magyar lajstromjelű – légijárművek üzemeltetésére használ fel, vagy számára ilyen célra értékesítenek, vagy a légitársaság saját felhasználásra tartalékol,
+b)
 
 c) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
 
