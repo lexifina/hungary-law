@@ -18,7 +18,7 @@ d) a közfoglalkoztatási,
 
 e) a sporttörvény alapján kötött munkaszerződéses,
 
-f) a szakképzés során kötött tanulószerződésből eredő,
+f) a szakképzés során kötött szakképzési munkaszerződésből eredő,
 
 g) a nemzeti felsőoktatási törvény szerinti hallgatói munkaszerződésből eredő,
 
