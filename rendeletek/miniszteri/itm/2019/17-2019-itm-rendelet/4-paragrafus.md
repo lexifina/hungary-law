@@ -8,8 +8,7 @@
 
 a)[^3]
 
-b)[^4]
+b) a „legalább 3” szövegrész helyébe a „legalább 3,4” szöveg
 
 [^2]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 4. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. § b) pontja a 7. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
