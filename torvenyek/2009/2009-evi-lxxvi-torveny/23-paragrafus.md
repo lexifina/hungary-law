@@ -1,4 +1,4 @@
-23. § (1) A szolgáltatás felügyeletét ellátó hatóság a bejelentés megérkezését követően haladéktalanul ellenőrzi, hogy a bejelentés megfelel-e a 22. §-ban meghatározott követelményeknek, és legkésőbb a bejelentés megérkezésétől számított nyolc napon belül,
+23. § (1) A szolgáltatás felügyeletét ellátó hatóság a bejelentés megérkezését követően indokolt esetben (hivatali eljárás során történt tudomásszerzés vagy a hatóság általános ismeretei szerinti szükségesség alapján) ellenőrzi, hogy a bejelentés megfelel-e a 22. §-ban meghatározott követelményeknek, és legkésőbb a bejelentés megérkezésétől számított nyolc napon belül,
 
 a) ha a bejelentés megfelel a 22. §-ban meghatározott követelményeknek, és az eljárási illetéket vagy igazgatási szolgáltatási díjat megfizették, a bejelentést tevőt erről a tényről igazolás megküldésével értesíti;
 

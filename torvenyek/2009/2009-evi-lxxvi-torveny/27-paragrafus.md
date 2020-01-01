@@ -1,6 +1,6 @@
 ## Bejelentéshez kötött tevékenységet folytató szolgáltatók nyilvántartása
 
-27. § (1) A bejelentéssel összefüggő eljárásban a szolgáltatás felügyeletét ellátó hatóság a szolgáltatót a 23. § (1) bekezdés a) pontja szerinti bejelentés megérkezését követő naptól számított tizenöt napon belül hivatalból nyilvántartásba veszi, kivéve, ha a bejelentés alapján folytatott ellenőrzési eljárás keretében megállapította, hogy a szolgáltató nem felel meg az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban foglalt előírásoknak.
+27. § (1) A bejelentéssel összefüggő eljárásban a szolgáltatás felügyeletét ellátó hatóság a szolgáltatót a 23. § (1) bekezdés a) pontja szerinti bejelentés megérkezését követő naptól számított tizenöt napon belül hivatalból nyilvántartásba veszi, kivéve, ha az ellenőrzési eljárás keretében megállapította, hogy a szolgáltató nem felel meg az adott szolgáltatási tevékenység megkezdésére és folytatására való jogosultságot szabályozó jogszabályban foglalt előírásoknak.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
