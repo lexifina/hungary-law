@@ -4,7 +4,7 @@
 
 (2) A pénzforgalmi számlanyitásra nem kötelezett adózó a fizetési kötelezettségét belföldi fizetési számlájáról történő átutalással vagy készpénz-átutalási megbízással köteles teljesíteni.
 
-(3)[^20] Az adózó – pénzforgalmi számlanyitási kötelezettségétől függetlenül – a fennálló fizetési kötelezettségét
+(3)[^21] Az adózó – pénzforgalmi számlanyitási kötelezettségétől függetlenül – a fennálló fizetési kötelezettségét
 
 a) az állami adó- és vámhatóság felé az 58. § szerint,
 
@@ -14,4 +14,4 @@ teljesítheti.
 
 (4) Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett forintban megadott árfolyama, az MNB által közzétett, euróban megadott árfolyamot kell figyelembe venni. Az átváltás költsége a külföldi illetőségű adózót terheli.
 
-[^20]: A 20. § (3) bekezdése a 260/2019. (XI. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^21]: A 20. § (3) bekezdése a 260/2019. (XI. 7.) Korm. rendelet 4. §-ával megállapított szöveg.

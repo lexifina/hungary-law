@@ -1,5 +1,5 @@
-## 50.[^60]
+## 50.[^61]
 
 109. §
 
-[^60]: Az 50. alcímet (109. §-t) a 311/2018. (XII. 27.) Korm. rendelet 37. § j) pontja hatályon kívül helyezte.
+[^61]: Az 50. alcímet (109. §-t) a 311/2018. (XII. 27.) Korm. rendelet 37. § j) pontja hatályon kívül helyezte.

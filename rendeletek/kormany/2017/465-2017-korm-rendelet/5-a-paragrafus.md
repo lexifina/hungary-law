@@ -1,0 +1,3 @@
+5/A. §[^5] A helyi iparűzési adó alanya az állami adó- és vámhatóság által rendszeresített elektronikus űrlapon a hiteles elektronikus irattá alakított meghatalmazás vagy a meghatalmazást tartalmazó, legalább az adózó minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírásával vagy azonosításra visszavezetett dokumentumhitelesítési szolgáltatással hitelesített elektronikus irat egyidejű csatolásával tehet az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottra vonatkozó bejelentést.
+
+[^5]: Az 5/A. §-t a 260/2019. (XI. 7.) Korm. rendelet 1. §-a iktatta be.

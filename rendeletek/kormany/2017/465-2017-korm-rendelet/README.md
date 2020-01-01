@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-465-20-
 | 2019-01-01 | 2017-465-20-22.3 | 311/2018. (XII. 27.) Korm. rendelet |
 | 2019-02-01 | 2017-465-20-22.4 | 311/2018. (XII. 27.) Korm. rendelet |
 | 2019-11-15 | 2017-465-20-22.5 | 260/2019. (XI. 7.) Korm. rendelet |
+| 2020-01-01 | 2017-465-20-22.6 | 260/2019. (XI. 7.) Korm. rendelet |

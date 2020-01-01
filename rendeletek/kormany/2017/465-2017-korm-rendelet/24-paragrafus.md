@@ -14,7 +14,7 @@ d) a végrehajtásra vagy visszatartásra átadott köztartozásokat.
 
 (3) Ha jogszabály adóigazolás benyújtását írja elő, e kötelezettség teljesítettnek minősül, ha az állami adó- és vámhatóság az adózót az adóigazolás benyújtását előíró jogszabályban meghatározott határidő utolsó napján vagy határnapon, egyéb esetekben a kérelem benyújtásakor a köztartozásmentes adózói adatbázisban nyilvántartja.
 
-(4)[^24] A köztartozásmentes adózói minőségről szóló igazolás tartalmazza az igazolás kiadásának napján vagy az igazolás kiadása iránti kérelemben megjelölt napon az Art. 260. § (1) bekezdés a)–g) pontjában előírt feltételeknek való megfelelést. A kiadott igazolás adóigazolásnak minősül.
+(4)[^25] A köztartozásmentes adózói minőségről szóló igazolás tartalmazza az igazolás kiadásának napján vagy az igazolás kiadása iránti kérelemben megjelölt napon az Art. 260. § (1) bekezdés a)–g) pontjában előírt feltételeknek való megfelelést. A kiadott igazolás adóigazolásnak minősül.
 
 (5) A jövedelemigazolás a kiállítás napján fennálló állapotnak megfelelően adóévenként tartalmazza az adózó által bevallott, illetve a munkáltatói, utólagos adómegállapítás, valamint a soron kívüli adómegállapítás útján megállapított, összevontan és elkülönülten adózó jövedelmet, valamint a jövedelem után keletkező személyi jövedelemadó, a különadóalap után a különadó, illetve az egyszerűsített közteherviselési hozzájárulás (a továbbiakban: ekho) szerint adózott bevétel összegét és az ekho-fizetési kötelezettséget. Arra az adóévre vonatkozóan, amelyben az adózó adónyilatkozatot nyújtott be, a jövedelemigazolás a családi kedvezménnyel nem csökkentett összevont adóalap és valamennyi bevallási kötelezettséggel járó külön adózó jövedelem együttes összegét, valamint az adózó személyi jövedelemadó-kötelezettségét tartalmazza.
 
@@ -28,12 +28,12 @@ d) a végrehajtásra vagy visszatartásra átadott köztartozásokat.
 
 (10) Az adóhatóság az adóhatósági igazolást a külföldi hatóság által rendszeresített nyomtatványon is kiállítja, ha a kérelmező a nyomtatványhoz csatolja annak magyar nyelvű szakfordítását. Nincs szükség szakfordításra, ha a nyomtatvány angol nyelvű, vagy ha a két- vagy többnyelvű nyomtatvány teljes körű angol nyelvű szöveget is tartalmaz.
 
-(11)[^25]
+(11)[^26]
 
 (12) A kiadott adóhatósági igazoláson az állami adó- és vámhatóság véletlenszám-generátor használatával képzett, legalább huszonnégy karakteres azonosítót helyez el, amelynek segítségével az adózó, a képviselője és az igazolás felhasználója – elektronikus azonosítási szolgáltatás igénybevételét követően – az állami adó- és vámhatóság honlapján a kiadott igazolást megtekintheti, letöltheti.
 
-(13)[^26] A közbeszerzéshez kapcsolódó kifizetés céljából igényelt adóigazolás iránti kérelem tartalmazza a kifizetést teljesítő adózó nevét (elnevezését), székhelyét (címét), adóazonosító számát is.
+(13)[^27] A közbeszerzéshez kapcsolódó kifizetés céljából igényelt adóigazolás iránti kérelem tartalmazza a kifizetést teljesítő adózó nevét (elnevezését), székhelyét (címét), adóazonosító számát is.
 
-[^24]: A 24. § (4) bekezdése a 260/2019. (XI. 7.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
-[^25]: A 24. § (11) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
-[^26]: A 24. § (13) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 28. §-a iktatta be.
+[^25]: A 24. § (4) bekezdése a 260/2019. (XI. 7.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^26]: A 24. § (11) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
+[^27]: A 24. § (13) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 28. §-a iktatta be.
