@@ -1,3 +1,9 @@
-## 6. §[^6]
+## lép.
 
-[^6]: A 6. § a 17. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## 7. § Hatályát veszti a 43/1999. Korm. rendelet
+
+a) 27. § (3c) és (3d) bekezdése,
+
+b) 44/B. § (1) bekezdése,
+
+c) 76/P. § (2) bekezdése.

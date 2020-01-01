@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § A 43/1999. Korm. rendelet 27/B. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 17. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## „(3) A járóbeteg-szakellátást is végző aktív fekvőbeteg-szakellátást vagy egynapos sebészeti ellátást nyújtó szolgáltató teljesítményvolumene értékarányosan súlyszámban vagy pontszámban is meghatározható. Az egyes ellátási formák között átcsoportosítás kezdeményezhető aktív fekvőbeteg-szakellátásból járóbeteg-szakellátásba, egynapos sebészeti ellátásba, általános anesztéziában végzett egynapos fogászati ellátásba vagy mokeluláris diagnosztikai (PCR) ellátásba, illetve egynapos sebészeti ellátásból járóbeteg-szakellátásba.”

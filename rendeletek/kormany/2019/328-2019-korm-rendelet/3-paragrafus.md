@@ -1,3 +1,3 @@
-## 2. §[^2]
+## 2. § A 43/1999. Korm. rendelet 27. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 17. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+## „(4) A 29/A. § (1) bekezdése szerinti orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok esetében az országos teljesítményvolumen a laboratóriumi ellátás 5. számú melléklet szerinti előirányzat összegének 70 százaléka alapján meghatározott mennyiség. Orvosi klinikai laboratóriumi és mikrobiológiai ellátást nyújtó egészségügyi szolgáltatók részére a tárgyidőszakra vonatkozó TVK az országos teljesítményvolumen terhére a (10) bekezdés szerint a finanszírozási év első hónapjára megállapított TVK arányában kerül megállapításra.”
