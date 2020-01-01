@@ -70,7 +70,7 @@
 
 ## c) a b) pont alá nem tartozó, földkábellel létesítendő csatlakozóvezeték esetén 4000 Ft/m.
 
-4. melléklet a 15/2016. (XII. 20.) MEKH rendelethez[^3]
+4. melléklet a 15/2016. (XII. 20.) MEKH rendelethez[^4]
 
 Az elosztó által külön díj ellenében végzett szolgáltatások díjai
 
@@ -148,4 +148,4 @@ Az elosztó által külön díj ellenében végzett szolgáltatások forintban f
 
 | 2. | 10 | eset |
 
-[^3]: A 4. melléklet a 15/2017. (XII. 13.) MEKH rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^4]: A 4. melléklet a 15/2017. (XII. 13.) MEKH rendelet 3. § (3) bekezdése szerint módosított szöveg.
