@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2017-09-01 | 2017. évi LVI. törvény | 2013-212-00-00.28 |
 | 2018-01-01 | 2017. évi L. törvény | 2013-212-00-00.29 |
 | 2019-01-11 | 2018. évi CXXXVI. törvény | 2013-212-00-00.30 |
+| 2020-01-01 | 2019. évi CXXVII. törvény | 2013-212-00-00.31 |
