@@ -24,7 +24,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (6) A kábítószerek vagy pszichotróp anyagok előállítására alkalmas növényfajok szaporítóanyagának előállítását és forgalomba hozatalát külön jogszabály feltételekhez kötheti.
 
-(7) E törvény felhatalmazása alapján kiadott jogszabályban meghatározott esetben szőlő, gyümölcs-, dísznövény és erdészeti szaporítóanyag, valamint zöldségpalánta előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és rendelkezik a tevékenység végzéséhez szükséges, a növénytermesztési hatóság által kiadott engedéllyel.
+(7) E törvény felhatalmazása alapján kiadott jogszabályban meghatározott esetben szőlő-, gyümölcs- és erdészeti szaporítóanyag, valamint zöldségpalánta előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és rendelkezik a tevékenység végzéséhez szükséges, a növénytermesztési hatóság által kiadott engedéllyel. Dísznövény-szaporítóanyag előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és a tevékenység megkezdését a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette a növénytermesztési hatóságnak.
 
 (8) A (7) bekezdés szerinti engedéllyel rendelkező előállítót, forgalmazót a nyilvántartást vezető szerv – a növénytermesztési hatóság megkeresésére – nyilvántartásba veszi.
 

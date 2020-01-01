@@ -98,7 +98,15 @@ k) a 9. § (2) bekezdés szerinti vizsgálat elvégzéséhez szükséges, a fajt
 
 (2) A növénytermesztési hatóság
 
-a)–c)
+a) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint eljár a
+
+aa) dísznövény-szaporítóanyagok előállításának és forgalomba hozatalának,
+
+ab) dísznövény-szaporítóanyagot előállító faiskola és palántanevelő üzem létesítésének
+
+bejelentése esetén.
+
+b)–c)
 
 d) kiadja a növényfajták állami elismeréséről, annak meghosszabbításáról, illetve visszavonásáról szóló határozatokat;
 
@@ -122,7 +130,7 @@ he) a törzsültetvények létesítését,
 
 hf) a faiskola és palántanevelő üzem létesítését,
 
-hg) a szőlő-, gyümölcs-, dísznövény-, erdészeti szaporítóanyagok, valamint zöldségpalánta előállítását és forgalomba hozatalát;
+hg) a szőlő-, gyümölcs-, erdészeti szaporítóanyagok, valamint zöldségpalánta előállítását és forgalomba hozatalát;
 
 i) engedélyezheti a 15. § (1) bekezdésében foglaltaknak vagy e törvény végrehajtására kiadott jogszabály szerinti minősítési feltételeknek meg nem felelő szaporítóanyag eseti felhasználását;
 

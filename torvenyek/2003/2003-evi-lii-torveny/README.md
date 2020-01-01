@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-52-00-00
 | 2017-01-01 | 2016. évi CXXXVII. törvény | 2003-52-00-00.14 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2003-52-00-00.15 |
 | 2018-01-01 | 2017. évi CCV. törvény | 2003-52-00-00.16 |
+| 2020-01-01 | 2019. évi CX. törvény | 2003-52-00-00.17 |
