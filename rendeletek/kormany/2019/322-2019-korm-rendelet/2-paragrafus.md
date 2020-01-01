@@ -1,0 +1,7 @@
+## „(1) A gyártó vagy meghatalmazott képviselője az elektromos és elektronikus berendezések gyártóinak nyilvántartásba vétele és a nyilvántartások részére benyújtandó jelentések formátumának meghatározásáról szóló, 2019. február 19-i (EU) 2019/290 bizottsági végrehajtási rendelet (a továbbiakban: Végrehajtási Rendelet) I. mellékletének A., valamint meghatalmazott képviselő igénybevétele esetén B. része szerinti adattartalommal az országos környezetvédelmi hatóságnál kérelmezi a nyilvántartásba vételét, és az adataiban bekövetkezett változásokat – a változás bekövetkezését követő 15 napon belül – az országos környezetvédelmi hatóságnak az adatváltozás tényét igazoló dokumentum egyidejű csatolásával bejelenti. A Végrehajtási Rendelet szerinti nemzeti azonosítóként a KÜJ-azonosítót kell megadni. A Végrehajtási Rendelet kiegészítő információelemeinek megadása nem kötelező. A nyilvántartásba vétel iránti kérelmet legkésőbb az elektromos, elektronikus berendezés forgalomba hozatalának megkezdéséig kell benyújtani. A nyilvántartásba vétel iránti kérelem és bejelentés módjára a 18/C. §-ban meghatározott szabályokat kell megfelelően alkalmazni.”
+
+2. § (1) Az R. 9. alcím címe helyébe a következő alcím cím lép:
+
+## „9. A gyártó, a meghatalmazott képviselő, a közvetítő szervezet, az állami hulladékgazdálkodást közvetítő szervezet és az átvállaló nyilvántartási és adatszolgáltatási kötelezettsége”
+
+(2) Az R. 17. §-a helyébe a következő rendelkezés lép:
