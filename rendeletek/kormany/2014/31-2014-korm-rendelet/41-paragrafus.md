@@ -1,4 +1,4 @@
-## 40/A. §[^52] E rendeletnek a közigazgatási bürokráciacsökkentéssel összefüggésben egyes kormányrendeletek módosításáról szóló 441/2015. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^53] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+## 40/B. §[^54] E rendeletnek a fővárosi és megyei kormányhivatalok működésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 360/2019. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 5. melléklet 7. pontját a Módr2. hatálybalépésekor[^55] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^52]: A 40/A. §-t a 441/2015. (XII. 28.) Korm. rendelet 223. § (5) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^53]: A hatálybalépés időpontja 2015. december 31.
+[^54]: A 40/B. §-t a 360/2019. (XII. 30.) Korm. rendelet 130. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^55]: A hatálybalépés időpontja 2019. december 31.
