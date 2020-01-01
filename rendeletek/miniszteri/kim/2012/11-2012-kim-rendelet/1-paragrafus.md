@@ -22,7 +22,7 @@
 
 10. 10. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a Munkavállalói Résztulajdonosi Program szervezet nyilvántartásba vétele iránti elektronikus kérelmet,
 
-11.[^1]
+11.[^1] 11. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni a nemzetközi sportszövetség nyilvántartásba vétele iránti elektronikus kérelmet,
 
 12. 12. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az 1–11. pontban nem szereplő szervezet nyilvántartásba vétele iránti elektronikus kérelmet,
 
@@ -94,9 +94,11 @@
 
 48.[^10] 36/F. mellékletében meghatározott adattartalommal rendszeresített űrlapon kell előterjeszteni az alapítványok beolvadásos szétválásának bejegyzése iránti elektronikus kérelmet.
 
+(1a)[^11] A nemzetközi sportszövetség – az (1) bekezdés szerinti nyilvántartásba vétele iránti kérelmét kivéve – elektronikus kérelmét az eljárás tárgyának megfelelő, egyesületre meghatározott űrlapon terjeszti elő.
+
 (2) Az (1) bekezdésben foglalt űrlapok és a 40. mellékletben meghatározott kitöltést segítő kódtárak rendszeresítése az Országos Bírósági Hivatal (a továbbiakban: OBH) feladata.
 
-[^1]: Az 1. § (1) bekezdés 11. pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés a) pontja alapján nem lép hatályba.
+[^1]: Az 1. § (1) bekezdés 11. pontját a 32/2019. (XII. 20.) IM rendelet 1. §-a iktatta be.
 [^2]: Az 1. § (1) bekezdés 23. pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés a) pontja alapján nem lép hatályba.
 [^3]: Az 1. § (1) bekezdés 35. pontja a 20/2014. (XII. 23.) IM rendelet 14. § (9) bekezdés a) pontja alapján nem lép hatályba.
 [^4]: Az 1. § (1) bekezdés 40–42. pontját a 3/2017. (IV. 3.) IM rendelet 4. § a) pontja hatályon kívül helyezte.
@@ -106,3 +108,4 @@
 [^8]: Az 1. § (1) bekezdés 46. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
 [^9]: Az 1. § (1) bekezdés 47. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
 [^10]: Az 1. § (1) bekezdés 48. pontját a 12/2014. (II. 28.) KIM rendelet 6. § (1) bekezdése iktatta be.
+[^11]: Az 1. § (1a) bekezdését a 32/2019. (XII. 20.) IM rendelet 2. §-a iktatta be.

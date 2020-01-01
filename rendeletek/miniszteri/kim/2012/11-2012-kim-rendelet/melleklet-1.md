@@ -1,4 +1,4 @@
-## 16. §[^27]
+## 16. §[^28]
 
 1. melléklet a 11/2012. (II. 29.) KIM rendelethez
 
@@ -46,11 +46,11 @@
 
 5.3.4.1. különös képviseleti jog esetén az ügycsoport megjelölése
 
-5.3.5.[^28] a képviseleti megbízás időtartama
+5.3.5.[^29] a képviseleti megbízás időtartama
 
 5.3.5.1. a képviseleti jog megszűnésének időpontja
 
-5.3.6.[^29] anyja születési neve
+5.3.6.[^30] anyja születési neve
 
 5.5. a szervezet 5.4. szerinti céljával összhangban álló célja szerinti besorolása
 
@@ -76,11 +76,11 @@
 
 6.3.2. jogi személy szervezeti egység székhelye
 
-6.3.3.[^30] jogi személy szervezeti egység ügyvezető szervének neve
+6.3.3.[^31] jogi személy szervezeti egység ügyvezető szervének neve
 
-6.3.4.[^31] a jogi személy szervezeti egység képviselőjének neve
+6.3.4.[^32] a jogi személy szervezeti egység képviselőjének neve
 
-6.3.5.[^32] a jogi személy szervezeti egység képviselőjének anyja születési neve
+6.3.5.[^33] a jogi személy szervezeti egység képviselőjének anyja születési neve
 
 6.4. a szervezet képviselőjének tisztsége, ha a képviseleti jog gyakorlása (terjedelme) a képviselő tisztségéhez kötődik
 
@@ -104,11 +104,11 @@
 
 8. A kérelmező választása szerint megadható adatok:
 
-8.1.[^33] a szervezet kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
+8.1.[^34] a szervezet kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
 
 8.2. a szervezet gazdálkodási formája (GFO kód szerint)
 
-8.3.[^34] a jogi személy szervezeti egység kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
+8.3.[^35] a jogi személy szervezeti egység kiegészítő jellegű gazdasági főtevékenysége és ténylegesen végzett tevékenységi körei azok mindenkor hatályos TEÁOR nómenklatúra szerinti megjelölésével
 
 8.4. a jogi személy szervezeti egység gazdálkodási formája (GFO kód szerint)
 
@@ -138,11 +138,11 @@
 
 10.3. az űrlap kitöltésének módja
 
-[^27]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: Az 1. melléklet 5.3.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (1) bekezdése iktatta be, szövege a 20/2014. (XII. 23.) IM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^29]: Az 1. melléklet 5.3.6. pontját a 20/2014. (XII. 23.) IM rendelet 14. § (2) bekezdése iktatta be.
-[^30]: Az 1. melléklet 6.3.3. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés a) pontja szerint módosított szöveg.
-[^31]: Az 1. melléklet 6.3.4. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (2) bekezdése iktatta be.
-[^32]: Az 1. melléklet 6.3.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (2) bekezdése iktatta be.
-[^33]: Az 1. melléklet 8.1. pontja a 58/2012. (XII. 28.) KIM rendelet 45. § (3) bekezdésével megállapított szöveg.
-[^34]: Az 1. melléklet 8.3. pontja a 58/2012. (XII. 28.) KIM rendelet 45. § (4) bekezdésével megállapított szöveg.
+[^28]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: Az 1. melléklet 5.3.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (1) bekezdése iktatta be, szövege a 20/2014. (XII. 23.) IM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^30]: Az 1. melléklet 5.3.6. pontját a 20/2014. (XII. 23.) IM rendelet 14. § (2) bekezdése iktatta be.
+[^31]: Az 1. melléklet 6.3.3. pontja a 12/2014. (II. 28.) KIM rendelet 6. § (35) bekezdés a) pontja szerint módosított szöveg.
+[^32]: Az 1. melléklet 6.3.4. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (2) bekezdése iktatta be.
+[^33]: Az 1. melléklet 6.3.5. pontját az 58/2012. (XII. 28.) KIM rendelet 45. § (2) bekezdése iktatta be.
+[^34]: Az 1. melléklet 8.1. pontja a 58/2012. (XII. 28.) KIM rendelet 45. § (3) bekezdésével megállapított szöveg.
+[^35]: Az 1. melléklet 8.3. pontja a 58/2012. (XII. 28.) KIM rendelet 45. § (4) bekezdésével megállapított szöveg.
