@@ -1,12 +1,4 @@
-## 1. A Kormány a Kárpát-medencei óvodafejlesztési program első üteméről szóló 1779/2016. (XII. 15.) Korm. határozat 3. pontjában előírt forrásbiztosítás érdekében
-
-## a) az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi az államháztartás központi alrendszerébe tartozó költségvetési szervek és fejezeti kezelésű előirányzatok 2015. évi költségvetési maradványának felhasználásáról szóló 1401/2016. (VII. 22.) Korm. határozatban megállapított, 2015. évi, további intézkedésig fel nem használható kötelezettségvállalással nem terhelt költségvetési maradványokból 8 995 000 ezer forint felhasználását az 1. mellékletben foglaltak szerint,
-
-## b) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva az a) alpontban felhasználásra engedélyezett összegből a 2. melléklet szerinti átcsoportosítást rendeli el.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
+## 1.[^1]
 
 ## 2. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdés a) alpontjában biztosított jogkörében eljárva engedélyezi, hogy a belügyminiszter a 2017. évi központi költségvetés XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 21. A tömeges bevándorlás kezeléséhez kapcsolódó kiadások alcím terhére legfeljebb 5702,3 millió forint keretösszeg erejéig több év vagy a költségvetési éven túli év kiadási előirányzatát terhelő a 2017. és a 2018. évre vonatkozóan kötelezettséget vállaljon a rendkívüli bevándorlási és migrációs nyomás kezeléséhez szükséges intézkedések megtételére.
 
@@ -34,10 +26,12 @@
 
 ## 7. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes fejezeti stabilitási tartalék előirányzatok felhasználásáról szóló 1684/2016. (XI. 29.) Korm. határozat 3. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím javára biztosított 400,0 millió forintból 250,0 millió forint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 16. Szociális szolgáltatások és egyéb szociális feladatok támogatása alcím, 6. Családpolitikai Programok jogcímcsoport K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 8.[^1]
+## 8.[^2]
 
 ## 9. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és fejezetek közötti átcsoportosításról szóló 1437/2016. (VIII. 17.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 41. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport javára biztosított 100,0 millió forint; a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1348/2016. (VII. 6.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 59. Budapesti Pályafejlesztési Program támogatása jogcímcsoport javára biztosított 5000,0 millió forint; valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok felhasználásáról és egyes fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, valamint egyes Korm. határozatok módosításáról szóló 1621/2016. (XI. 11.) Korm. határozat 2. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 41. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport javára biztosított 42,3 millió forint egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1787/2016. (XII. 17.) Korm. határozat alapján kerüljön felhasználásra és elszámolásra.
 
-1. melléklet az 1821/2016. (XII. 22.) Korm. határozathoz
+1. melléklet az 1821/2016. (XII. 22.) Korm. határozathoz[^3]
 
-[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
