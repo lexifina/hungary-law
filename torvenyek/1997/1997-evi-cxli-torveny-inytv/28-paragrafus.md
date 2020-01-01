@@ -10,7 +10,7 @@ b) egy földrészlet egész területe más művelési ágra változik,
 
 c) egy vagy több alrészlet területe teljes egészében azonos művelési ágra változik és így a földrészlet egy művelési ágba kerül,
 
-d) ha egy alrészlet egész területe más művelési ágra változik, kivéve, ha az alrészlet új művelési ága megegyezik valamely szomszédos alrészlet művelési ágával.
+d) egy alrészlet egész területe más művelési ágra változik.
 
 (3) A 27. § (2) bekezdésében meghatározott változásokat az ingatlanügyi hatóság bejelentés és a bejelentés során csatolt, az ingatlanügyi hatóság által hatályos záradékkal ellátott változási vázrajz alapján vezeti át. A nyilvántartott adatoknak a tényleges állapottal való egyezőségét az ingatlanügyi hatóság ellenőrizheti.
 

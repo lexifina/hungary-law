@@ -2,4 +2,4 @@
 
 (2) Az állami szervek által vezetett, jogszabály által rendszeresített nyilvántartásokból készített kivonatnak csak a bejegyzéshez szükséges adatokat kell tartalmaznia.
 
-(3) A közokirat alakiságát a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) határozza meg.
+(3) A közokirat alakiságát a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) határozza meg.

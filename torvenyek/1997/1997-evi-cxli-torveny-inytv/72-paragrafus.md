@@ -1,6 +1,6 @@
 ## Elektronikus adatszolgáltatás a számítógépes ingatlan-nyilvántartási rendszerből
 
-72. § (1) Az ingatlanügyi hatóság kérelemre, ha jogszabály másként nem rendelkezik, az Elektronikus Kormányzati Gerinchálózaton (a továbbiakban: EKG) keresztül hozzáférést biztosít, hogy
+72. § (1) Az ingatlanügyi hatóság kérelemre, ha jogszabály másként nem rendelkezik, a Nemzeti Távközlési Gerinchálózaton (a továbbiakban: NTG) keresztül hozzáférést biztosít, hogy
 
 a) a bíróságok és az Országos Bírósági Hivatal elnöke a bírósági ügyek ellátásához szükséges egyedi adatok lekérdezése céljából,
 
@@ -16,11 +16,11 @@ e) a kincstár a Magyar Állam javára fennálló jelzálogjog, valamint elidege
 
 (3) A miniszter a szakmai irányításával összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett adatbázisokhoz.
 
-(4) A területrendezésért, valamint a településfejlesztésért és a településrendezésért felelős miniszter a területrendezési, valamint a településfejlesztési és településrendezési feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett állami ingatlan-nyilvántartási térképi adatbázis adataihoz, a Mezőgazdasági Parcella Azonosító Rendszernek a területrendezési és településrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz.
+(4)
 
-(5) A megyei önkormányzat a megyei területrendezési terv készítése érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz, a Mezőgazdasági Parcella Azonosító Rendszer a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(5)
 
-(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzatok a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz, valamint a 1:10000 digitális szintvonalrajzhoz és domborzatmodellhez térítésmentesen hozzáférhet.
+(6)
 
 (7)
 
