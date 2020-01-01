@@ -1,4 +1,4 @@
-55. § (1) A kreditrendszerű képzés során a különböző képzési szintek szabályai eltérhetnek és elkülönülten is szabályozhatók.
+55. §[^170] (1) A kreditrendszerű képzés során a különböző képzési szintek szabályai eltérhetnek és elkülönülten is szabályozhatók.
 
 (2) A kreditrendszerű képzésben – a felsőoktatási intézmény szabályzatában – szabályozni kell
 
@@ -41,3 +41,5 @@
 19. az Nftv. szerinti megfelelő jogorvoslati eljárást.
 
 (3) A felsőoktatási intézmény szabályzatában meghatározottak szerint értesíti a hallgatót az általa felvett, illetve törölt tárgyakról.
+
+[^170]: [Az 55. § 18. pontjának a 191/2019. (VII. 30.) Korm. rendelet 69. § (3) bekezdésével elrendelt módosítása, amely szerint az „a korábbi munka- és egyéb tapasztalatok beszámításának, a nem formális, informális tanulással elsajátított kompetenciák elismerésének, beszámításának” szövegrész helyébe a „kompetenciaelismerés” szöveg lép, nem vezethető át.]

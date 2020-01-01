@@ -9,3 +9,7 @@
 (5) A kreditrendszerű képzés keretében a hallgató részképzése során a felsőoktatási intézmény részéről tett előzetes nyilatkozat a hallgatói teljesítmény elismeréséről utólagosan nem vonható vissza. Az előzetes nyilatkozathoz szükséges a kreditátviteli bizottság döntése.
 
 (6) A felsőoktatási intézménynek kérelemre az előzetes kreditátviteli eljárást le kell folytatnia. Az előzetes kreditátviteli eljárás során a kérelmező által teljesített, valamint a kérelem benyújtásakor folyamatban levő félév végéig várhatóan teljesítendő tanulmányi követelmények (a teljesítés feltételéhez kötött) kreditelismeréséről és egyben a felvételi feltételekben szereplő kreditek (teljesítés feltételéhez kötött) meglétéről hoz döntést a kreditátviteli bizottság. A felsőoktatási intézmény a kreditátviteli bizottság által elismert krediteket a tanulmányok tényleges megkezdésekor újabb kérelem nélkül elismertnek tekinti.
+
+(7)[^173] A hallgató kérheti a felsőoktatási intézménytől a formális, a nem formális és az informális úton szerzett kompetenciáinak tantervi egység tanulmányi eredményeként történő elismerését (a továbbiakban: kompetenciaelismerés).
+
+[^173]: Az 57. § (7) bekezdését a 191/2019. (VII. 30.) Korm. rendelet 63. §-a iktatta be.
