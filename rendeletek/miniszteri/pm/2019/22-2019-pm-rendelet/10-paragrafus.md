@@ -1,0 +1,3 @@
+10. § (1) A képzés a kötelező szakmai továbbképzésben közreműködő szervezet részéről történő lemondására a képzést megelőzően legfeljebb 10 nappal kerülhet sor azzal, hogy egyidejűleg a kötelező szakmai továbbképzésben közreműködő szervezet új időpontot ajánl a lemondott képzésre a továbbképzésre kötelezett által választott képzési formának megfelelően.
+
+(2) Ha a továbbképzésre kötelezett a felajánlott időpontot nem fogadja el, kizárólag az e-learning képzési formát választhatja, vagy kérheti az általa befizetett térítési díj visszafizetését. Ezekben az esetekben a kötelező szakmai továbbképzésben közreműködő szervezet a térítési díj különbözetét, illetve a résztvevő által befizetett térítési díjat a továbbképzésre kötelezett részére visszautalja.
