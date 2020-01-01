@@ -6,9 +6,9 @@
 
 (4)[^8] Az integritás tanácsadó kijelölésére, valamint a kijelölés visszavonására vonatkozó javaslatot a hivatali szervezet vezetője részletes indokolással ellátva, a döntés alapjául szolgáló dokumentumokkal együtt küldi meg a felettes szerv és a rendészetért felelős miniszter részére.
 
-(5)[^9] Gazdasági szervezettel nem rendelkező államigazgatás szervnél az integritás tanácsadó feladatait, az államigazgatási szervek közötti megállapodás alapján, az irányítását ellátó felettes államigazgatási szerv integritás tanácsadója is elláthatja. Ebben az esetben az irányított államigazgatási szervnél külön integritás tanácsadó kijelölése nem szükséges.
+(5)[^9] Gazdasági szervezettel nem rendelkező államigazgatás szervnél az integritás tanácsadó feladatait, az államigazgatási szervek közötti megállapodás alapján, az irányítását ellátó felettes államigazgatási szerv, vagy törvényi, kormányrendeleti kijelölés alapján a gazdasági szervezetének feladatait ellátó államigazgatási szerv integritás tanácsadója is elláthatja. Ebben az esetben az irányított államigazgatási szervnél külön integritás tanácsadó kijelölése nem szükséges.
 
 [^6]: Az 5. § (1) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^7]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 719. § b) pontja szerint módosított szöveg.
 [^8]: Az 5. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 719. § c) pontja szerint módosított szöveg.
-[^9]: Az 5. § (5) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (5) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 24. § b) pontja, a 340/2019. (XII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
