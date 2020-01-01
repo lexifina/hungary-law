@@ -1,4 +1,4 @@
-61. §[^103] (1) A Tny. 47. § (1) bekezdésének és (2) bekezdés c) pontjának alkalmazása során
+61. §[^105] (1) A Tny. 47. § (1) bekezdésének és (2) bekezdés c) pontjának alkalmazása során
 
 a) az a tizennyolcadik életévét be nem töltött árva minősül tartósan betegnek vagy fogyatékosnak, akire tekintettel magasabb összegű családi pótlék jár,
 
@@ -10,6 +10,7 @@ bb) aki fogyatékossági támogatásra jogosult, vagy
 
 bc) akire tekintettel magasabb összegű családi pótlék jár.
 
-(2) Ha az árva tartós betegsége, fogyatékossága már nem áll fenn, az erre tekintettel megállapított özvegyi nyugdíjat, ideiglenes özvegyi nyugdíjat a megszüntetésről szóló elsőfokú határozat keltét követő második hónap első napjától kell megszüntetni.
+(2)[^106]
 
-[^103]: A 61. § a 420/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^105]: A 61. § a 420/2015. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^106]: A 61. § (2) bekezdését a 310/2019. (XII. 18.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.

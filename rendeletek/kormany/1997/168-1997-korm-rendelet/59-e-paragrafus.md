@@ -2,4 +2,10 @@
 
 (2) A Nyugdíjfolyósító Igazgatóság és a Központ hatáskörébe tartozó eljárásokban az egészségi állapot szakkérdésében előzetes szakhatósági állásfoglalás kiadásának nincs helye.
 
+(3)[^97] Ha a nyugdíjbiztosítási igazgatási szerv hatáskörébe tartozó ellátások megállapítása iránti eljárásban az egészségi állapot szakkérdését vizsgálni kell, a kérelemhez csatolni kell az egészségi állapot megállapításához szükséges egészségügyi iratokat.
+
+(4)[^98] Ha az egészségi állapotra tekintettel megállapítható ellátások felülvizsgálata során az orvosszakértői szervet szakhatóságként be kell vonni, a Nyugdíjfolyósító Igazgatóság a szakhatóság megkeresését megelőzően értesíti az ügyfelet a felülvizsgálat szükségességéről, és a jogkövetkezményről való tájékoztatás mellett felhívja az ellátásban részesülő személyt, hogy az egészségi állapot megállapításához szükséges egészségügyi iratokat küldje meg a szakhatóságnak. Ha az ellátásban részesülő személy a felhívásban foglaltaknak nem tesz eleget, a szakhatóság értesíti erről a Nyugdíjfolyósító Igazgatóságot.
+
 [^96]: Az 59/E. §-t a 333/2011. (XII. 29.) Korm. rendelet 23. §-a iktatta be, szövege a 322/2018. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^97]: Az 59/E. § (3) bekezdését a 310/2019. (XII. 18.) Korm. rendelet 3. §-a iktatta be.
+[^98]: Az 59/E. § (4) bekezdését a 310/2019. (XII. 18.) Korm. rendelet 3. §-a iktatta be.
