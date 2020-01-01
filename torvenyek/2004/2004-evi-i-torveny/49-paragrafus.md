@@ -8,7 +8,7 @@
 
 a) meghatározza a szervezett formában történő sporttevékenység gyakorlásának jogszabályi feltételeit,
 
-b) gondoskodik – a nemzeti köznevelésről szóló törvényben meghatározottak szerint – a mindennapos testnevelés feltételeinek megteremtéséről a köznevelésben, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
+b) gondoskodik a mindennapos testnevelés feltételeinek megteremtéséről a köznevelésben és a szakképzésben, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
 
 c) elősegíti az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtését,
 

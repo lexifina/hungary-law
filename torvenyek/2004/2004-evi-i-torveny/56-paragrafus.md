@@ -10,7 +10,7 @@ a) jogszabályban normatív módon meghatározott feltételek szerint és mért�
 
 b) a sportszervezetek, sportszövetségek, helyi önkormányzatok és a sportköztestületek által összeállított, a szakmai feladatok ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját tartalmazó támogatási kérelem benyújtását és annak elbírálását követően, szerződés alapján, vagy
 
-c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe.
+c) a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a szakképző intézményben folytatott sport, a egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok támogatására kiírásra kerülő pályázat útján, szerződés alapján vehető igénybe.
 
 Az a)–c) pont szerint biztosított állami sportcélú támogatásokhoz való hozzáférés, a támogatások felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira az e törvényben foglaltakon túl az államháztartás működési rendjéről szóló jogszabályokat és a sportpolitikáért felelős miniszter által vezetett minisztérium fejezethez tartozó állami sport célú támogatások felhasználásának és elosztásának szabályairól szóló kormányrendeletben foglaltakat kell alkalmazni.
 
