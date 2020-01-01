@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-122-00-00
 | 2015-09-01 | 2015. évi CV. törvény | 2011-122-00-00.11 |
 | 2016-01-01 | 2014. évi LXXXVIII. törvény | 2011-122-00-00.12 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 2011-122-00-00.13 |
+| 2020-01-01 | 2019. évi CX. törvény | 2011-122-00-00.14 |

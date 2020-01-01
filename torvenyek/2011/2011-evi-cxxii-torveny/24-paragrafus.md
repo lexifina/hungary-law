@@ -144,7 +144,7 @@
 
 ## b) székhely,
 
-## c) cégjegyzékszám, egyéni vállalkozói igazolvány szám,
+## c) cégjegyzékszám, egyéni vállalkozói nyilvántartási szám,
 
 ## d) adószám.
 
