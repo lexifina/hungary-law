@@ -1,9 +1,8 @@
-## 2. §[^2]
+## 2. §[^1]
 
-3. § (1)–(2)[^3]
+3. § (1)–(2)[^2]
 
-(3)[^4]
+(3) A 39/2016. (XII. 21.) EMMI rendelet 4. melléklete a 3. melléklet szerint módosul.
 
-[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. § (3) bekezdése a 4. § (2) bekezdése alapján 2020. január 1-jén lép hatályba.
+[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
