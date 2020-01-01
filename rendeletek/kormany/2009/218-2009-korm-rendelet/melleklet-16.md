@@ -10,13 +10,13 @@
 
 | 4. | c) ökológiai hálózat pufferterületének övezete | nemzeti park igazgatóság |
 
-| 5. | d) kiváló termőhelyi adottságú szántók övezete | Budapest Főváros Kormányhivatala |
+| 5. | d) kiváló termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 6. | e) jó termőhelyi adottságú szántók övezete | Budapest Főváros Kormányhivatala |
+| 6. | e) jó termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
 | 7. | f) erdők övezete | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala |
 
-| 8. | g) erdőtelepítésre javasolt terület övezete | Budapest Főváros Kormányhivatala |
+| 8. | g) erdőtelepítésre javasolt terület övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
 | 9. | h) tájképvédelmi terület övezete | nemzeti park igazgatóság |
 
@@ -36,7 +36,7 @@
 
 | 17. | b) tómeder övezete | területi vízügyi igazgatóság |
 
-| 18. | c) borszőlő termőhelyi kataszteri terület övezete | Budapest Főváros Kormányhivatala |
+| 18. | c) borszőlő termőhelyi kataszteri terület övezete | Nemzeti Földügyi Központ |
 
 16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^110]
 
@@ -52,13 +52,13 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 4. | c) ökológiai hálózat pufferterületének övezete | nemzeti park igazgatóság |
 
-| 5. | d) kiváló termőhelyi adottságú szántók övezete | Budapest Főváros Kormányhivatala |
+| 5. | d) kiváló termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 6. | e) jó termőhelyi adottságú szántók övezete | Budapest Főváros Kormányhivatala |
+| 6. | e) jó termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
 | 7. | f) erdők övezete | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala |
 
-| 8. | g) erdőtelepítésre javasolt terület övezete | Budapest Főváros Kormányhivatala |
+| 8. | g) erdőtelepítésre javasolt terület övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
 | 9. | h) tájképvédelmi terület övezete | nemzeti park igazgatóság |
 
@@ -76,4 +76,4 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 16. | c) földtani veszélyforrás területe övezete | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
 
-[^110]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be.
+[^110]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

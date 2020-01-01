@@ -10,13 +10,13 @@
 
 | 4. | c) ökológiai hálózat pufferterületének övezete | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
-| 5. | d) kiváló termőhelyi adottságú szántók övezete | Budapest Főváros Kormányhivatala | Budapest Főváros Kormányhivatala |
+| 5. | d) kiváló termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 6. | e) jó termőhelyi adottságú szántók övezete | Budapest Főváros Kormányhivatala | Budapest Főváros Kormányhivatala |
+| 6. | e) jó termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság” |
 
 | 7. | f) erdők övezete | Nemzeti Élelmiszerlánc-biztonsági Hivatal | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala |
 
-| 8. | g) erdőtelepítésre javasolt terület övezete | Budapest Főváros Kormányhivatala | Budapest Főváros Kormányhivatala |
+| 8. | g) erdőtelepítésre javasolt terület övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság” |
 
 | 9. | h) tájképvédelmi terület övezete | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
@@ -46,8 +46,8 @@
 
 | 22. | e) tómeder övezete | területi vízügyi igazgatóság |  |
 
-| 23. | f) borszőlő termőhelyi kataszteri terület övezete | Budapest Főváros Kormányhivatala |  |
+| 23. | f) borszőlő termőhelyi kataszteri terület övezete | Nemzeti Földügyi Központ |  |
 
 15. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^109]
 
-[^109]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be.
+[^109]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

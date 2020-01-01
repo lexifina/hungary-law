@@ -22,4 +22,4 @@
 
 14. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^108]
 
-[^108]: A 14. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (3) bekezdése iktatta be.
+[^108]: A 14. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
