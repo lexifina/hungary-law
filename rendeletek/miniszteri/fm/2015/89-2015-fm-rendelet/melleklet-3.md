@@ -2,81 +2,81 @@
 
 |  | A | B | C | D |
 
-| 1 | Faj | Korosztály | Mennyiségi egység | Mennyiségi egységenkénti ár (Ft) |
+| 1. | Faj | Korosztály | Mennyiségi egység | Mennyiségi egységenkénti ár (Ft) |
 
-| 2 | ponty | zsenge | db | 0,5 |
+| 2. | ponty | zsenge | db | 0,05 |
 
-| előnevelt | db | 3 |
+| előnevelt | db | 0,3 |
 
-| 1 nyaras | kg | 650 |
+| 1 nyaras | kg | 65 |
 
-| 2 nyaras | 600 |
+| 2 nyaras | 60 |
 
-| 3 | csuka | zsenge | db | 1 |
+| 3. | csuka | zsenge | db | 0,1 |
+
+| előnevelt | db | 1,5 |
+
+| 1 nyaras | kg | 180 |
+
+| tenyész | 150 |
+
+| 4. | fogassüllő | zsenge | db | 0,1 |
+
+| előnevelt | db | 1,6 |
+
+| 1 nyaras | kg | 250 |
+
+| tenyész | 200 |
+
+| 5. | harcsa | zsenge | db | 0,25 |
+
+| előnevelt | db | 1,5 |
+
+| 1 nyaras | kg | 160 |
+
+| tenyész | 140 |
+
+| 6. | kecsege | zsenge | db | 1,5 |
 
 | előnevelt | db | 15 |
 
-| 1 nyaras | kg | 1800 |
+| 1 nyaras | kg | 250 |
 
-| tenyész | 1500 |
+| tenyész | 200 |
 
-| 4 | fogassüllő | zsenge | db | 1 |
+| 7. | compó | zsenge | db | 0,01 |
 
-| előnevelt | db | 16 |
+| előnevelt | db | 1 |
 
-| 1 nyaras | kg | 2500 |
+| 1 nyaras | kg | 180 |
 
-| tenyész | 2000 |
+| tenyész | 140 |
 
-| 5 | harcsa | zsenge | db | 2,5 |
+| 8. | balin | zsenge | db | 0,01 |
 
-| előnevelt | db | 15 |
+| előnevelt | db | 2,5 |
 
-| 1 nyaras | kg | 1600 |
+| 1 nyaras | kg | 63,5 |
 
-| tenyész | 1400 |
+| tenyész | 80 |
 
-| 6 | kecsege | zsenge | db | 15 |
+| 9. | márna | előnevelt | db | 0,5 |
 
-| előnevelt | db | 150 |
+| 1 nyaras | kg | 90 |
 
-| 1 nyaras | kg | 2500 |
+| tenyész | kg | 70 |
 
-| tenyész | 2000 |
+| 10. | sebes pisztráng | zsenge | db | 0,13 |
 
-| 7 | compó | zsenge | db | 0,1 |
+| előnevelt | db | 2,5 |
 
-| előnevelt | db | 10 |
+| tenyész | kg | 350 |
 
-| 1 nyaras | kg | 1800 |
+| 11. | széles kárász | 1 nyaras | kg | 140 |
 
-| tenyész | 1400 |
+| tenyész | kg | 100 |
 
-| 8 | balin | zsenge | db | 0,1 |
-
-| előnevelt | db | 25 |
-
-| 1 nyaras | kg | 635 |
-
-| tenyész | 800 |
-
-| 9 | márna | előnevelt | db | 5 |
-
-| 1 nyaras | kg | 900 |
-
-| tenyész | kg | 700 |
-
-| 10 | sebes pisztráng | zsenge | db | 1,3 |
-
-| előnevelt | db | 25 |
-
-| tenyész | kg | 3500 |
-
-| 11 | széles kárász | 1 nyaras | kg | 1400 |
-
-| tenyész | kg | 1000 |
-
-3. melléklet a 89/2015. (XII. 22.) FM rendelethez[^12]
+3. melléklet a 89/2015. (XII. 22.) FM rendelethez[^17]
 
 A haszonbérleti díj, valamint a vagyonkezelési díj mértéke
 
@@ -108,4 +108,4 @@ A haszonbérleti díj, valamint a vagyonkezelési díj mértéke
 
 | 13 | Balaton | 200 |
 
-[^12]: A 3. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A 3. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.

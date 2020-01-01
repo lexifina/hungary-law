@@ -14,13 +14,13 @@
 
 | 5. halgazdálkodási, illetve horgászati céllal létrehozott legalább megyei hatókörű civil szervezet | 5 |
 
-| 6. halgazdálkodási, illetve horgászati céllal létrehozott országos hatókörű civil szervezet | 6 |
+| 6. horgászszövetség | 6 |
 
 | 2.1. Támogatott közös pályázatok: | 1–3. szerinti pályázó halgazdálkodási, horgászati céllal létrehozott jogi személy civil szervezettel, helyi önkormányzattal közös pályázata | 2 |
 
 | 1–4. szerinti pályázó halgazdálkodási, horgászati céllal létrehozott legalább megyei hatókörű civil szervezettel közös pályázata | 4 |
 
-| 1–5. szerinti pályázó halgazdálkodási, horgászati céllal létrehozott országos hatókörű civil szervezettel közös pályázata | 8 |
+| 1–5. szerinti pályázó horgászszövetséggel közös pályázata | 8 |
 
 | 2.2. Pályázathoz csatolt, a halgazdálkodási terv megalapozottságára vonatkozó szakvélemény hal- és halászatbiológiai kutatóintézet, felsőoktatási szakintézmény vagy halászati szakértő részéről: | nincs csatolva | 0 |
 
@@ -44,11 +44,11 @@
 
 | 5 évnél hosszabb gyakorlat | 6 |
 
-| 5.1 Pályázó a pályázott halgazdálkodási vízterületre előírtakon túl további halászati őrzést vállal, illetve biztosít [a b) és c) nem additív, mindkettő fennállása esetén a c) szerinti pont számítandó]: | a) nem biztosít | 0 |
+| 5.1 Pályázó a pályázott halgazdálkodási vízterületre előírtakon túl további halőrzést vállal, illetve biztosít [a b) és c) nem additív, mindkettő fennállása esetén a c) szerinti pont számítandó]: | a) nem biztosít | 0 |
 
 | b) további társadalmi halőrökkel | 3 |
 
-| c) további halászati őrökkel | 6 |
+| c) további hivatásos halőrökkel | 6 |
 
 | 5.2 Pályázó a pályázott halgazdálkodási vízterületen helyszíni területi jegy kiadást és információ-szolgáltatást vállal, illetve biztosít: | nem biztosít | 0 |
 
@@ -106,6 +106,6 @@
 
 | MINDÖSSZESEN |  | 1–100 |
 
-2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^11]
+2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^16]
 
-[^11]: A 2. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^16]: A 2. melléklet a 62/2019. (XII. 18.) AM rendelet 11. § (3) bekezdésével megállapított szöveg.
