@@ -30,6 +30,8 @@ alapján.
 
 2.2. Az ellenőrzés alapján feltárt eltérésekről (hiány vagy többlet) jegyzőkönyvet kell készíteni két példányban, aminek első példányát haladéktalanul meg kell küldeni a NISZ Zrt.-nek, második példányát irattározni kell. Az eltérések rendezésére a NISZ Zrt. intézkedik.
 
+2.3. A járási hivatal vezetője a biankó okmányok, tartozékok, PIN boríték, rendszámok és kellékek átadása érdekében az átvételre jogosult személy és helyettesének kijelölését követően a biankó okmányokat, tartozékokat, PIN borítékokat, rendszámokat és kellékeket szállító szervnek köteles megadni az átvételre jogosult személyek nevét, telefonszámát, elektronikus elérhetőségét, személyazonosításra alkalmas okmánya típusát és számát.
+
 3. Biankó okmányok és PIN borítékok felhasználása
 
 3.1. Ügyintézői vételezés
@@ -116,4 +118,4 @@ A nyomdai hibás/gyártáshibás biankó okmányokról és PIN borítékokról j
 
 Az okmányokat és PIN borítékokat biztonságos körülmények között, típusonként elkülönítve, tűzvédelmi szempontokból is megfelelő helyen kell tárolni.
 
-[^40]: A 3. melléklet a 19/2016. (VI. 29.) MvM rendelet 5. § (3) bekezdése, a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés e)–i) pontja szerint módosított szöveg.
+[^40]: A 3. melléklet a 19/2016. (VI. 29.) MvM rendelet 5. § (3) bekezdése, a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés e)–i) pontja, a 17/2019. (XI. 17.) MvM rendelet 2. §-a szerint módosított szöveg.

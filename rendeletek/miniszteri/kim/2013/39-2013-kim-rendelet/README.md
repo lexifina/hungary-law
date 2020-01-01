@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-39-20-2
 | 2017-01-01 | 2013-39-20-2T.6 | 37/2016. (XII. 29.) MvM rendelet |
 | 2017-04-25 | 2013-39-20-2T.7 | 13/2017. (IV. 10.) MvM rendelet |
 | 2019-01-16 | 2013-39-20-2T.8 | 1/2019. (I. 15.) MvM rendelet |
+| 2020-01-01 | 2013-39-20-2T.9 | 17/2019. (XI. 17.) MvM rendelet |
