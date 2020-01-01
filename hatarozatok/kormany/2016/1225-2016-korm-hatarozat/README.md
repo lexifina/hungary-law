@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1225-30
 | --- | --- | --- |
 | 2016-05-02 | 2016-1225-30-22.1 | 1225/2016. (V. 2.) Korm. határozat |
 | 2016-05-03 | 2016-1225-30-22.2 | 2010: CXXX. törvény |
+| 2020-01-01 | 2016-1225-30-22.3 | 2011: CXCV. törvény |
