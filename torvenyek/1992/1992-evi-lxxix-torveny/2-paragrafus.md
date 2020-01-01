@@ -2,7 +2,7 @@
 
 2. § (1) Az egészség és az emberi élet értékéről, az egészséges életmódról, a felelősségteljes párkapcsolatokról, az emberhez méltó családi életről, az egészségre ártalmatlan születésszabályozási módszerekről szóló oktatás az alap- és középfokú oktatási intézményekben történik.
 
-(2) Az állami családvédelmi szolgálat vagy az egészségügyi államigazgatási szerv által engedélyezett családvédelmi szolgálat végzi a tanácsadást, válsághelyzet esetén segítséget ad annak feloldásában, valamint szervezi az oktatási intézményeken kívül a családtervezéssel kapcsolatos ismeretek terjesztését.
+(2) Az állami családvédelmi szolgálat vagy az egészségügyi államigazgatási szervhez bejelentett családvédelmi szolgálat végzi a tanácsadást, válsághelyzet esetén segítséget ad annak feloldásában, valamint szervezi az oktatási intézményeken kívül a családtervezéssel kapcsolatos ismeretek terjesztését.
 
 (3) Az állam
 
