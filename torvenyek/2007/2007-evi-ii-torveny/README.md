@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2019-07-01 | 2018. évi CXXXIII. törvény | 2007-2-00-00.55 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2007-2-00-00.56 |
 | 2019-07-27 | 2019. évi LV. törvény | 2007-2-00-00.57 |
+| 2020-01-01 | 2019. évi CXII. törvény | 2007-2-00-00.58 |
