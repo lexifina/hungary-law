@@ -1,3 +1,3 @@
-17/A. §[^120]
+17/A. §[^121]
 
-[^120]: A 17/A. §-t újonnan a 95/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 440/2016. (XII. 16.) Korm. rendelet 10. § d) pontja.
+[^121]: A 17/A. §-t újonnan a 95/2013. (III. 29.) Korm. rendelet 18. §-a iktatta be, hatályon kívül helyezte a 440/2016. (XII. 16.) Korm. rendelet 10. § d) pontja.

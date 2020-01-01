@@ -38,15 +38,15 @@ i) a szakmai vélemény kiállítójának azonosítására szolgáló adatot.
 
 (8) Hat év alatti ápolt gyermek esetében az önellátási képesség mértékét és az önellátásra való képtelenség tényét a magasabb összegű családi pótlékra jogosító betegségek és fogyatékosságok igazolására miniszteri rendelet alapján jogosult szakorvos igazolja az (5) bekezdésben meghatározott adattartalommal rendelkező formanyomtatványon. A szakmai vélemény elkészítése során az önellátásra való képesség hiányának megállapítására irányuló vizsgálatot az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján kell elvégezni.
 
-(8a)[^131] A (8) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, azzal, hogy a szakvélemény érvényességi ideje legfeljebb a gyermek 7. életévének betöltéséig terjedhet.
+(8a)[^133] A (8) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, azzal, hogy a szakvélemény érvényességi ideje legfeljebb a gyermek 7. életévének betöltéséig terjedhet.
 
-(8b)[^132] Az ápolási díjat megállapító szerv a (8) bekezdés szerinti szakmai vélemény felülvizsgálatát a szakmailag illetékes szakfelügyelő főorvostól kérheti.
+(8b)[^134] Az ápolási díjat megállapító szerv a (8) bekezdés szerinti szakmai vélemény felülvizsgálatát a szakmailag illetékes szakfelügyelő főorvostól kérheti.
 
-(9)[^133] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés és a 24. § (4) bekezdése szerinti szakfelügyelő főorvos – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
+(9)[^135] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés és a 24. § (4) bekezdése szerinti szakfelügyelő főorvos – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
 
-(10)[^134] A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
+(10)[^136] A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
 
-[^131]: A 21. § (8a) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^132]: A 21. § (8b) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^133]: A 21. § (9) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^134]: A 21. § (10) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^133]: A 21. § (8a) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^134]: A 21. § (8b) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^135]: A 21. § (9) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^136]: A 21. § (10) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.

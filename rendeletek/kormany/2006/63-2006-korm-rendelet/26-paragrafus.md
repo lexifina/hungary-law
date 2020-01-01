@@ -1,12 +1,16 @@
-26. §[^150] (1)[^151] A 25/B. § szerinti vizsgálatot legalább középfokú iskolai végzettséggel, valamint egészségügyi szakképesítéssel rendelkező, az egészségügyi ágazatban vagy személyes gondoskodást nyújtó szociális intézményi ellátáshoz kapcsolódóan legalább öt év szakmai tapasztalattal rendelkező személy végezheti el.
+26. §[^152] (1)[^153] A 25/B. § szerinti vizsgálatot legalább középfokú iskolai végzettséggel, valamint egészségügyi szakképesítéssel rendelkező, az egészségügyi ágazatban vagy személyes gondoskodást nyújtó szociális intézményi ellátáshoz kapcsolódóan legalább öt év szakmai tapasztalattal rendelkező személy végezheti el.
 
-(2)[^152] Az (1) bekezdés szerinti vizsgálatot végző személy az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább öt nappal megelőzően értesíti.
+(2)[^154] Az (1) bekezdés szerinti vizsgálatot végző személy az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább öt nappal megelőzően értesíti.
 
-(3)[^153] A vizsgálatot végző személy az állandó és tartós ápolási, gondozási szükséglet fennállásának, illetve a fokozott ápolást igénylő súlyosan fogyatékos állapot fennállásának tényét az ápolás helyszínén az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra – így különösen a kórházi zárójelentésre – alapozva állapítja meg. A vizsgálatot végző személy a szakmai véleményét a szociál- és nyugdíjpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon küldi meg a járási hivatalnak. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
+(3)[^155] A vizsgálatot végző személy az állandó és tartós ápolási, gondozási szükséglet fennállásának, illetve a fokozott ápolást igénylő súlyosan fogyatékos állapot fennállásának tényét az ápolás helyszínén az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra – így különösen a kórházi zárójelentésre – alapozva állapítja meg. A vizsgálatot végző személy a szakmai véleményét a szociál- és nyugdíjpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon küldi meg a járási hivatalnak. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
 
-(4)[^154] A (3) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év. A szakmai vélemény hatálya alatt a háziorvosi igazolást is hatályosnak kell tekinteni.
+(4)[^156] A (3) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év. A szakmai vélemény hatálya alatt a háziorvosi igazolást is hatályosnak kell tekinteni.
 
-(5)[^155] A (3) bekezdés szerinti szakmai vélemény tartalmazza
+(4a)[^157] Az ápolási díj iránti eljárásban a gyermekek otthongondozási díja vagy ápolási díj megállapítása iránti eljárásban kiállított szakvélemény is felhasználható, amennyiben az az ápolási díj megállapítására irányuló eljárás megindításának időpontjától számított legalább további egy évig hatályos.
+
+(4b)[^158] Amennyiben az ápolási díj iránti eljárásban a gyermekek otthongondozási díja iránti eljárásban kiállított szakvélemény kerül felhasználásra, a gyermekek otthongondozási díja iránti eljárásban kiállított szakvélemény szerinti pontértéket az ápolási díjra való jogosultság tekintetében meghatározott minősítésnek megfeleltetve kell figyelembe venni.
+
+(5)[^159] A (3) bekezdés szerinti szakmai vélemény tartalmazza
 
 a) az ápolt személy azonosítására szolgáló adatot,
 
@@ -20,9 +24,11 @@ e) a szakmai vélemény érvényességi idejére vonatkozó adatot, és
 
 f) a szakmai vélemény kiállítójának azonosítására szolgáló adatot.
 
-[^150]: A 26. § a 457/2017. (XII. 28.) Korm. rendelet 165. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^151]: A 26. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^152]: A 26. § (2) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 21. § l) pontja szerint módosított szöveg.
-[^153]: A 26. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^154]: A 26. § (4) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^155]: A 26. § (5) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^152]: A 26. § a 457/2017. (XII. 28.) Korm. rendelet 165. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^153]: A 26. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^154]: A 26. § (2) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 21. § l) pontja szerint módosított szöveg.
+[^155]: A 26. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^156]: A 26. § (4) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^157]: A 26. § (4a) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^158]: A 26. § (4b) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^159]: A 26. § (5) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 14. § (3) bekezdése iktatta be.

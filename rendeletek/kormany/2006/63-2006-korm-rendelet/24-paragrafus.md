@@ -12,9 +12,9 @@ c) a szülő egészségi állapot miatti akadályozottságára vonatkozó, a 23.
 
 (3) A (2) bekezdés a) pontja szerinti szakmai vélemény elkészítésére felsőfokú egészségügyi vagy szociális végzettségű, a fogyatékos személyek szociális ellátásában dolgozó, vagy a fogyatékos személyek szociális ellátása témakörben szakvizsgával rendelkező személy kérhető fel.
 
-(4)[^135] A (2) bekezdés b) pontja szerinti szakmai vélemény elkészítésére a fővárosi és megyei kormányhivatal a szakmailag illetékes szakfelügyelő főorvost kéri fel.
+(4)[^137] A (2) bekezdés b) pontja szerinti szakmai vélemény elkészítésére a fővárosi és megyei kormányhivatal a szakmailag illetékes szakfelügyelő főorvost kéri fel.
 
-(5)[^136] A (4) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók szakfelügyeletéről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
+(5)[^138] A (4) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók szakfelügyeletéről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
 
-[^135]: A 24. § (4) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^136]: A 24. § (5) bekezdése a 190/2019. (VII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^137]: A 24. § (4) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^138]: A 24. § (5) bekezdése a 190/2019. (VII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
