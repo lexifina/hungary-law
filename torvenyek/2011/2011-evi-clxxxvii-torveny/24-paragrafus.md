@@ -1,3 +1,0 @@
-24. § (1) A szakközépiskolában folyó érettségi vizsgára felkészítő kétéves képzésben csak iskolai rendszerű képzésben államilag elismert szakképesítést szerzett tanuló folytathatja tanulmányait.
-
-(2) Az OKJ-ban meghatározott körbe tartozó, érettségire épülő szakirányú szakképesítés megszerzése céljából a felnőttoktatás keretében folyó iskolai rendszerű szakképzésbe vagy az iskolarendszeren kívüli szakképzésbe bekapcsolódhat az is, aki rendelkezik a szakképesítés szakmai és vizsgakövetelményében meghatározottak szerinti szakirányú iskolai rendszerű képzésben szerzett szakképesítéssel, az e szakképesítéssel betölthető munkakörben szerzett legalább ötéves gyakorlattal és az adott szakképesítésben tett mestervizsgával.
