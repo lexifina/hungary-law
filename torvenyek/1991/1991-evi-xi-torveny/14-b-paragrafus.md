@@ -30,4 +30,4 @@ e) harmadik országból származó természetes ásványvíz elismerése,
 
 f) egészségügyi, egészségvédelmi és kémiai terhelési bírság kiszabása.
 
-(8)
+(8) Az ivóvízbiztonsággal, az ivóvíz vizsgálatával, valamint a természetes gyógytényezőkkel, természetes ásványvizekkel kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak.
