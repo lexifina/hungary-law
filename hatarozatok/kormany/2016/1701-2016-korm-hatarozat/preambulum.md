@@ -1,1 +1,0 @@
-A Kormány a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 12. § (2) bekezdésében biztosított jogkörében elrendeli a Kvtv. 1. melléklet LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport
