@@ -1,10 +1,10 @@
-## Szakmai alapképesítés[^183]
+## Szakmai alapképesítés[^200]
 
-33/B. §[^184] (1) A 33/A. § a) pontjában meghatározott azon gépkocsivezető, aki
+33/B. §[^201] (1) A 33/A. § a) pontjában meghatározott azon gépkocsivezető, aki
 
-a)[^185] D1, D1E, D, DE kategóriájú vezetői engedélyét 2008. szeptember 9-ét,
+a)[^202] D1, D1E, D, DE kategóriájú vezetői engedélyét 2008. szeptember 9-ét,
 
-b)[^186] C1, C1E, C, CE kategóriájú vezetői engedélyét 2009. szeptember 9-ét
+b)[^203] C1, C1E, C, CE kategóriájú vezetői engedélyét 2009. szeptember 9-ét
 
 ## követően szerezte meg – a közúton történő járművezetéshez – a szakmai alapképesítés (a továbbiakban: alapképesítés) megszerzésére kötelezett.
 
@@ -12,14 +12,15 @@ b)[^186] C1, C1E, C, CE kategóriájú vezetői engedélyét 2009. szeptember 9-
 
 (3) Alapképesítést az a gépkocsivezető szerezhet, aki
 
-a) EGT-állam állampolgára és szokásos lakóhelye a külön jogszabályban[^187] foglaltak szerint Magyarországon van;
+a) EGT-állam állampolgára és szokásos lakóhelye a külön jogszabályban[^204] foglaltak szerint Magyarországon van;
 
 b) nem EGT-állam állampolgára és munkavállalási jogosultsága van vagy Magyarországon bejegyzett vállalkozás foglalkoztatja.
 
-(4) Az alapképesítés megszerzésével kapcsolatos rendelkezéseket a 12. melléklet tartalmazza.
+(4)[^205] Az alapképesítés megszerzésével kapcsolatos rendelkezéseket a közlekedésért felelős miniszter által kiadott tantervi és vizsgakövetelmény tartalmazza.
 
-[^183]: A 33/B. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^184]: A 33/B. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^185]: A 33/B. § (1) bekezdés a) pontja a 14/2015. (III. 31.) NFM rendelet 10. § e) pontja szerint módosított szöveg.
-[^186]: A 33/B. § (1) bekezdés b) pontja a 14/2015. (III. 31.) NFM rendelet 10. § f) pontja szerint módosított szöveg.
-[^187]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet 14. cikk.
+[^200]: A 33/B. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^201]: A 33/B. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^202]: A 33/B. § (1) bekezdés a) pontja a 14/2015. (III. 31.) NFM rendelet 10. § e) pontja szerint módosított szöveg.
+[^203]: A 33/B. § (1) bekezdés b) pontja a 14/2015. (III. 31.) NFM rendelet 10. § f) pontja szerint módosított szöveg.
+[^204]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet 14. cikk.
+[^205]: A 33/B. § (4) bekezdése a 45/2019. (XII. 20.) ITM rendlet 28. § 20. pontja szerint módosított szöveg.
