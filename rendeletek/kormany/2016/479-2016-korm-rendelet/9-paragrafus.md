@@ -4,9 +4,9 @@
 
 (2) Egyszeres könyvvitelt köteles vezetni az egyszerűsített beszámolót készítő egyéb szervezet.
 
-(3) Az egyszeres könyvvitelt vezető egyéb szervezet – saját elhatározása alapján – bármelyik üzleti év január 1-jével áttérhet a kettős könyvvitelre. Az egyszeres könyvvitelt vezető egyéb szervezet köteles áttérni a kettős könyvvitel vezetésére – és egyszerűsített éves beszámolót készíteni – azt az évet követő üzleti év január 1-jével, amikor az egyszerűsített beszámoló készítésére a 8. § (1) bekezdésében rögzített feltételnek két egymást követő üzleti évben már nem felel meg.
+(3)[^12] Az egyszeres könyvvitelt vezető egyéb szervezet – saját elhatározása alapján – bármelyik üzleti év január 1-jével áttérhet a kettős könyvvitelre. Az egyszeres könyvvitelt vezető egyéb szervezet köteles áttérni a kettős könyvvitel vezetésére – és egyszerűsített éves beszámolót vagy éves beszámolót készíteni – azt az évet követő üzleti év január 1-jével, amikor az egyszerűsített beszámoló készítésére a 8. § (1) bekezdésében rögzített feltételnek két egymást követő üzleti évben már nem felel meg.
 
-(4) Kettős könyvvitelt köteles vezetni az egyszerűsített éves beszámolót készítő egyéb szervezet, valamint minden olyan egyéb szervezet, amelynek a 3. § (3) bekezdése, valamint az 51. § szerint a Tv.-ben foglalt előírásokat kell kötelezően alkalmaznia, továbbá az az egyéb szervezet, amely saját döntése alapján a Tv. szerinti éves beszámoló készítését választotta.
+(4)[^13] Kettős könyvvitelt köteles vezetni az egyszerűsített éves beszámolót vagy éves beszámolót készítő egyéb szervezet, valamint minden olyan egyéb szervezet, amelynek a 3. § (3) bekezdése, valamint az 51. § szerint a Tv.-ben foglalt előírásokat kell kötelezően alkalmaznia.
 
 (5) Kettős könyvvitelt köteles vezetni a közhasznú jogállású egyéb szervezet. Ha a közhasznú jogállás megszerzésére az üzleti év során (év közben) kerül sor, úgy a kettős könyvvitel szabályainak alkalmazása már a közhasznú jogállás megszerzésének üzleti évére is vonatkozik.
 
@@ -18,6 +18,8 @@
 
 (9) Az egyéb szervezet úgy köteles könyvvezetését kialakítani, hogy a vonatkozó jogszabály szerint meghatározott vállalkozási tevékenység (ár)bevételei és ráfordításai (költségei), kiadásai az alaptevékenység bevételeitől és ráfordításaitól (költségeitől), kiadásaitól, gazdasági eseményeitől elkülönüljenek, és ezáltal megbízhatóan kimutatható legyen a vállalkozási tevékenység tárgyévi eredménye.
 
-(10)[^6] Az egyéb szervezetnek a könyvvezetés során elkülönítetten kell kimutatni a kapott adományt, közcélú adományt és azok felhasználását, amennyiben azt jogszabály előírja, továbbá, ha az adományról a társasági adóról és az osztalékadóról szóló törvény, illetve a közcélú adományról a személyi jövedelemadóról szóló törvény rendelkezései szerinti kedvezmény igénybevételére jogosító igazolást állít ki.
+(10)[^14] Az egyéb szervezetnek a könyvvezetés során elkülönítetten kell kimutatni a kapott adományt, közcélú adományt és azok felhasználását, amennyiben azt jogszabály előírja, továbbá, ha az adományról a társasági adóról és az osztalékadóról szóló törvény, illetve a közcélú adományról a személyi jövedelemadóról szóló törvény rendelkezései szerinti kedvezmény igénybevételére jogosító igazolást állít ki.
 
-[^6]: A 9. § (10) bekezdése a 445/2017. (XII.27.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^12]: A 9. § (3) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 24. § 3. pontja szerint módosított szöveg.
+[^13]: A 9. § (4) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^14]: A 9. § (10) bekezdése a 445/2017. (XII.27.) Korm. rendelet 31. §-ával megállapított szöveg.

@@ -2,6 +2,6 @@
 
 (2) Az egyéb szervezet az eredménylevezetésben, az eredménykimutatásban tájékoztató adatként bemutatja az Ectv. 2. § 15. pont szerinti költségvetési támogatásként kapott összegeket.
 
-(3)[^7] Az egyéb szervezet az eredménylevezetésében, az eredménykimutatásában a kapott adomány összegét az érintett tételek továbbtagolásával, vagy tájékoztató adatként külön is köteles bemutatni.
+(3)[^15] Az egyéb szervezet az eredménylevezetésében, az eredménykimutatásában a kapott adomány összegét az érintett tételek továbbtagolásával, vagy tájékoztató adatként külön is köteles bemutatni.
 
-[^7]: A 14. § (3) bekezdését a 445/2017. (XII.27.) Korm. rendelet 32. §-a iktatta be.
+[^15]: A 14. § (3) bekezdését a 445/2017. (XII.27.) Korm. rendelet 32. §-a iktatta be.

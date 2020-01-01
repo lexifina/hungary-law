@@ -1,1 +1,0 @@
-## 4. § A 2. § (1) bekezdés a) pontja szerinti civil szervezetek közé tartozó párt beszámoló készítési és könyvvezetési kötelezettségének a pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény előírásai szerint tesz eleget.
