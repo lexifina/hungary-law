@@ -12,7 +12,7 @@ b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
 
-d) közszolgálati tisztviselő, állami tisztviselő,
+d) közszolgálati tisztviselő, kormánytisztviselő,
 
 e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott
 

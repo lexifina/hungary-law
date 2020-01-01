@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-132-00-00
 | 2018-08-15 | 2018. évi XLVIII. törvény | 2011-132-00-00.25 |
 | 2019-02-01 | 2018. évi CXV. törvény | 2011-132-00-00.26 |
 | 2019-07-01 | 2019. évi LIX. törvény | 2011-132-00-00.27 |
+| 2020-01-01 | 2019. évi CIX. törvény | 2011-132-00-00.28 |
