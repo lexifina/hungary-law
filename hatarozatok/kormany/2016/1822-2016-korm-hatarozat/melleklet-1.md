@@ -1,55 +1,33 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 23. § (4) bekezdésében kapott felhatalmazás alapján a Rendkívüli kormányzati intézkedések előirányzatot az 1. melléklet szerint megemeli.
+## 1.[^1]
 
-## Felelős: nemzetgazdasági miniszter
+## 2.[^2]
 
-## Határidő: azonnal
+## 3.[^3]
 
-## 2. A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 375 955 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, a 2. melléklet szerint.
+## 4.[^4]
 
-## Az átcsoportosítás tekintetében
+## 5.[^5]
 
-## Felelős: nemzetgazdasági miniszter
+## 6.[^6]
 
-## Határidő: azonnal
+## 7.[^7]
 
-## Az elszámolási és a visszatérítési kötelezettség tekintetében
+## 8.[^8]
 
-## Felelős: nemzeti fejlesztési miniszter
+## 9.[^9]
 
-## Határidő: 2017. január 30.
+## 10–11.[^10]
 
-## 3. A Kormány a Kvtv. 19. § (5) bekezdésében és az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 404 597 ezer forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 33. Országvédelmi Alap cím terhére, a 2. melléklet szerint.
+1. melléklet az 1822/2016. (XII. 22.) Korm. határozathoz[^11]
 
-## Az átcsoportosítás tekintetében
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## 4. A Kormány az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 18 974 635 ezer forint egyszeri átcsoportosítását rendeli el a 2. melléklet szerint.
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## 5. A Kormány az Ávr. 152. §-ában biztosított jogkörében eljárva engedélyezi az államháztartás központi alrendszerébe tartozó költségvetési szervek és fejezeti kezelésű előirányzatok 2015. évi költségvetési maradványának felhasználásáról szóló 1401/2016. (VII. 22.) Korm. határozatban megállapított 2015. évi, további intézkedésig fel nem használható kötelezettségvállalással nem terhelt költségvetési maradványokból 1 308 438 ezer forint felhasználását a 3. mellékletben foglaltak szerint.
-
-## 6. A Kormány az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a 2015. évi költségvetési maradványok felhasználásáról szóló 1669/2016. (XI. 23.) Korm. határozatban megállapított, 2015. évi, további intézkedésig fel nem használható kötelezettségvállalással terhelt, azonban meghiúsulás miatt kötelezettségvállalással nem terheltté vált költségvetési maradványokból az I. Országgyűlés fejezet, 5. Közbeszerzési Hatóság címnél keletkezett 93 675 ezer forint felhasználását.
-
-## 7. A Kormány az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva az 5–6. pontokban felhasználásra engedélyezett összegekből a 4. melléklet szerinti átcsoportosítást rendeli el.
-
-## Felelős: nemzetgazdasági miniszter
-
-## Határidő: azonnal
-
-## 8. A Kormány egyetért azzal, hogy az egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1787/2016. (XII. 17.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 61. Civil és non-profit szervezetek támogatása alcím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 215 000 ezer forintból 5 000 ezer forint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 15. Gyermek és ifjúsági szakmai feladatok alcím, 3. Ifjúságpolitikai feladatok támogatása jogcímcsoport, 2. Gyermek és ifjúsági szakmafejlesztési célok jogcím, K5. Egyéb működési célú kiadások kiemelt előirányzaton, valamint 5 000 ezer forint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 16. Szociális szolgáltatások és egyéb szociális feladatok támogatása alcím, 6. Családpolitikai Programok jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra.
-
-## 9. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1180/2016. (IV. 11.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 170 000 ezer forintból 30 000 ezer forint a K7. Felújítások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
-
-## 10–11.[^1]
-
-1. melléklet az 1822/2016. (XII. 22.) Korm. határozathoz
-
-[^1]: A 10–11. pont a 2010: CXXX. 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^7]: A 7. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^8]: A 8. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^9]: A 9. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^10]: A 10–11. pont a 2010: CXXX. 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
