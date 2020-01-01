@@ -1,6 +1,6 @@
 ## A közszolgáltatási szerződés felmondása alóli mentesség
 
-51/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi vagy közoktatási intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a távhőszolgáltatónál a közszolgáltatási szerződés – távhőszolgáltatás díjára vonatkozó fizetési késedelem miatt történő – felmondása alóli mentesség (a továbbiakban: moratórium) biztosítását.
+51/A. § (1) Kormányrendeletben meghatározott állami vagy önkormányzati feladatot ellátó szociális, gyermekjóléti, gyermekvédelmi, egészségügyi, köznevelési vagy szakképző intézmény (a továbbiakban: közintézményi felhasználó) kezdeményezheti a távhőszolgáltatónál a közszolgáltatási szerződés – távhőszolgáltatás díjára vonatkozó fizetési késedelem miatt történő – felmondása alóli mentesség (a továbbiakban: moratórium) biztosítását.
 
 (2) A moratórium a közintézményi felhasználó kezdeményezése szerinti időszakra, de legfeljebb az adott év október 15. és az azt követő év április 15. közötti időszakra terjed ki.
 
