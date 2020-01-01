@@ -1,4 +1,4 @@
-## miatt csak magasabb költséggel megvalósítható csatlakozást kér, akkor a csatlakozást igénylő – a villamosenergia-ellátási szabályzatban (elosztói szabályzat) foglaltakra is figyelemmel – a hálózati engedélyes részére a 31–33. §-ok szerinti csatlakozási díjakon felül a ténylegesen megvalósuló beruházás aktivált értéke és a legkisebb költségű változatnak megfelelő beruházás villamosenergia-ellátási szabályzat (elosztói szabályzat) szerinti, elméletileg meghatározott aktiválási értéke közötti különbség 70%-át is megfizeti.
+## miatt csak magasabb költséggel megvalósítható csatlakozást kér, akkor a csatlakozást igénylő – a villamosenergia-ellátási szabályzatban (elosztói szabályzat) foglaltakra is figyelemmel – a hálózati engedélyes részére a 31–33. §-ok szerinti csatlakozási díjakon felül a ténylegesen megvalósuló beruházás aktivált értéke és a legkisebb költségű változatnak megfelelő beruházás elosztói szabályzat szerinti, elméletileg meghatározott aktiválási értéke közötti különbség 70%-át is megfizeti.
 
 ## NEGYEDIK RÉSZ
 
@@ -34,7 +34,7 @@
 
 13. a felhasználási helyen hibaelhárítás céljából történő megjelenés esetében, ha a hiba a csatlakozási pont után a felhasználói berendezésben van.
 
-(2)[^16] Az elosztó – a külön díjak meghatározásának keretszabályairól szóló rendeletben foglaltak szerint – külön díjat kérhet a kiserőművi csatlakozást igénylőtől (a háztartási méretű kiserőmű kivételével) kiserőművenként
+(2)[^20] Az elosztó – a külön díjak meghatározásának keretszabályairól szóló rendeletben foglaltak szerint – külön díjat kérhet a kiserőművi csatlakozást igénylőtől (a háztartási méretű kiserőmű kivételével) kiserőművenként
 
 1. az igénybejelentésre vonatkozó tájékoztató elkészítéséért,
 
@@ -42,4 +42,4 @@
 
 3. a csatlakozási terv felülvizsgálatáért.
 
-[^16]: A 35. § (2) bekezdése a 15/2017. (XII. 13.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^20]: A 35. § (2) bekezdése a 15/2017. (XII. 13.) MEKH rendelet 1. §-ával megállapított szöveg.

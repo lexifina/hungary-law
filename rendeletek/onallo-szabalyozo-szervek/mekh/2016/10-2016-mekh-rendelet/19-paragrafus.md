@@ -22,6 +22,6 @@ b) középfeszültségű csatlakozás esetében az elszámolási időszakban vé
 
 c) kisfeszültségű csatlakozás esetében az elszámolási időszakban vételezett hatásos villamos energia 25%-át meg nem haladó induktív meddő villamos energia díjmentes.
 
-(5)[^7] Az elosztó a kapacitív meddő villamos energia és a (4) bekezdésben meghatározott mértéket meghaladó induktív meddő villamos energia után a Hivatal elnöke által a VET 143. § (5) bekezdése szerint rendeletben megállapított előírt elosztói meddő energia díj megfizetését kérheti.
+(5)[^8] Az elosztó a kapacitív meddő villamos energia és a (4) bekezdésben meghatározott mértéket meghaladó induktív meddő villamos energia után a Hivatal elnöke által a VET 143. § (5) bekezdése szerint rendeletben megállapított előírt elosztói meddő energia díj megfizetését kérheti.
 
-[^7]: A 19. § (5) bekezdése a 16/2016. (XII. 20.) MEKH rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 19. § (5) bekezdése a 16/2016. (XII. 20.) MEKH rendelet 6. § (2) bekezdése szerint módosított szöveg.
