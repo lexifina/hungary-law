@@ -14,7 +14,7 @@ e) növénytermesztési, vetőmag-termelési, mező-, erdőgazdasági, vadgazdá
 
 f) az a)–e) pontokban foglalt ágazatok a Ménesbirtok hagyományaira épülő összehangolt fejlesztése,
 
-g) a Mezőhegyesen hagyományos – különösen az állat- és lótenyésztéshez kapcsolódó –, valamint a modern igényeknek megfelelő elméleti és gyakorlati mezőgazdasági szakképzés, oktatás, továbbképzés, és felnőttképzés,
+g) a Mezőhegyesen hagyományos – különösen az állat- és lótenyésztéshez kapcsolódó –, valamint a modern igényeknek megfelelő elméleti és gyakorlati mezőgazdasági szakképzés, oktatás és képzés
 
 h) az agrárképzést nyújtó köznevelési, szakképző, valamint felsőoktatási intézményekkel való együttműködés és gyakorlati képzőhely biztosítása,
 

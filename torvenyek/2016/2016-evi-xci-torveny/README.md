@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-91-00-00
 | 2017-06-28 | 2017. évi XCVIII. törvény | 2016-91-00-00.3 |
 | 2018-05-18 | 2018. évi V. törvény | 2016-91-00-00.4 |
 | 2018-07-26 | 2018. évi XXXVII. törvény | 2016-91-00-00.5 |
+| 2020-01-01 | 2019. évi CXII. törvény | 2016-91-00-00.6 |
