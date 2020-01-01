@@ -1,3 +1,3 @@
-## A bevándorolt vagy letelepedett harmadik országbeli állampolgár Magyarország területén született gyermeke bejelentésével kapcsolatos eljárás[^331]
+## A bevándorolt vagy letelepedett harmadik országbeli állampolgár Magyarország területén született gyermeke bejelentésével kapcsolatos eljárás[^332]
 
-[^331]: A 98. §-t megelőző alcím a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^332]: A 98. §-t megelőző alcím a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.

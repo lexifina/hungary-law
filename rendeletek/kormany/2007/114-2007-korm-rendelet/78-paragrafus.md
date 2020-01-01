@@ -1,3 +1,3 @@
-78. §[^273]
+78. §[^274]
 
-[^273]: A 78. §-t a 221/2013. (VI. 24.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^274]: A 78. §-t a 221/2013. (VI. 24.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.

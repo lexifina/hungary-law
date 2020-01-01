@@ -1,15 +1,15 @@
-104. § (1)[^348]
+104. § (1)[^349]
 
-(2)[^349] A regionális igazgatóság a nemzeti letelepedési engedély kiadása esetén e rendelet II. melléklet 2. pontjában meghatározott formában és adattartalommal tartózkodási okmányt állít ki.
+(2)[^350] A regionális igazgatóság a nemzeti letelepedési engedély kiadása esetén e rendelet II. melléklet 2. pontjában meghatározott formában és adattartalommal tartózkodási okmányt állít ki.
 
-(3)[^350] A (2) bekezdésben meghatározott okmány érvényességi ideje öt év, melyet – az (5) bekezdésben foglalt kivétellel – a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság a harmadik országbeli állampolgár külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmére további öt évvel meghosszabbít.
+(3)[^351] A (2) bekezdésben meghatározott okmány érvényességi ideje öt év, melyet – az (5) bekezdésben foglalt kivétellel – a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság a harmadik országbeli állampolgár külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmére további öt évvel meghosszabbít.
 
-(4)[^351] Ha a letelepedési engedély okmány érvényességi ideje lejárt vagy az okmányt ki kell cserélni, illetve ha a bevándorolt új úti okmányt kapott, – az (5) bekezdésben foglalt kivétellel – a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság a harmadik országbeli állampolgár külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmére a (2) bekezdésben meghatározott okmányt állítja ki.
+(4)[^352] Ha a letelepedési engedély okmány érvényességi ideje lejárt vagy az okmányt ki kell cserélni, illetve ha a bevándorolt új úti okmányt kapott, – az (5) bekezdésben foglalt kivétellel – a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság a harmadik országbeli állampolgár külön jogszabályban meghatározott formanyomtatványon előterjesztett kérelmére a (2) bekezdésben meghatározott okmányt állítja ki.
 
-(5)[^352] Ha nemzetgazdasági érdekből kerül kiállításra a nemzeti letelepedési engedély, a (3) és (4) bekezdésben foglalt eljárás során az országos illetékességgel rendelkező Budapesti és Pest Megyei Regionális Igazgatóság jár el.
+(5)[^353] Ha nemzetgazdasági érdekből kerül kiállításra a nemzeti letelepedési engedély, a (3) és (4) bekezdésben foglalt eljárás során az országos illetékességgel rendelkező Budapesti és Pest Megyei Regionális Igazgatóság jár el.
 
-[^348]: A 104. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^349]: A 104. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 56. §-ával megállapított szöveg.
-[^350]: A 104. § (3) bekezdése a 113/2016. (V. 30.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^351]: A 104. § (4) bekezdése a 113/2016. (V. 30.) Korm. rendelet 45. § (2) bekezdésével megállapított szöveg.
-[^352]: A 104. § (5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 45. § (3) bekezdése iktatta be, szövege a 277/2018. (XII. 21.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
+[^349]: A 104. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^350]: A 104. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^351]: A 104. § (3) bekezdése a 113/2016. (V. 30.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^352]: A 104. § (4) bekezdése a 113/2016. (V. 30.) Korm. rendelet 45. § (2) bekezdésével megállapított szöveg.
+[^353]: A 104. § (5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 45. § (3) bekezdése iktatta be, szövege a 277/2018. (XII. 21.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
