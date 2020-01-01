@@ -4,7 +4,7 @@
 
 (3) Nem minősül szabad felhasználásnak – függetlenül attól, hogy magáncélra történik-e –, ha a műről más személlyel készíttetnek másolatot számítógépen, illetve elektronikus adathordozóra.
 
-(4) Nyilvános szolgáltatásokat nyújtó könyvtár, iskolai oktatás célját szolgáló [33. § (4) bek.] intézmény, muzeális intézmény, levéltár, valamint a közgyűjteménynek minősülő kép-, illetve hangarchívum a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, és
+(4) Nyilvános szolgáltatásokat nyújtó könyvtár, iskolai oktatás céljából [33. § (4) bek.] köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény, muzeális intézmény, levéltár, valamint a közgyűjteménynek minősülő kép-, illetve hangarchívum a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, és
 
 a) tudományos kutatáshoz vagy archiváláshoz szükséges,
 
@@ -14,7 +14,7 @@ c) megjelent mű kisebb részéről, továbbá újság- vagy folyóiratcikkről 
 
 d)
 
-(5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy iskolai osztály létszámának megfelelő, illetve a köz- és felsőoktatási vizsgákhoz szükséges példányszámban többszörözhetők.
+(5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy csoport vagy iskolai osztály létszámának megfelelő, valamint a köznevelés, a szakképzés, illetve a felsőoktatás keretében szervezett vizsgákhoz szükséges példányszámban többszörözhetők.
 
 (6) Szabad felhasználás a mű járulékos vagy közbenső – a felhasználásra irányuló műszaki folyamat elválaszthatatlan és lényeges részét képező, önálló gazdasági jelentőség nélküli – időleges többszörözése, ha kizárólag az a célja, hogy lehetővé tegye
 
