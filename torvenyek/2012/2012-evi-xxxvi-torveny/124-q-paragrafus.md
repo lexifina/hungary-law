@@ -40,4 +40,4 @@ b) főosztályvezető-helyettesnél tizenkét munkanap,
 
 c) főosztályvezetőnél tizenhárom munkanap.
 
-(6) Az Országgyűlés Hivatala főigazgatóját, a hivatali szervek vezetőit és helyettes vezetőit minden naptári évben negyven munkanap szabadság illeti meg.
+(6) Az Országgyűlés Hivatala főigazgatóját, a hivatali szervek vezetőit és helyettes vezetőit minden naptári évben negyven munkanap alapszabadság illeti meg.

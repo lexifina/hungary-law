@@ -24,7 +24,7 @@ i) előkészítés, illetve intézkedés céljából kiadja a feladatkörrel ren
 
 j) javaslatot tesz az Országgyűlésnek a háznagy megválasztására és felmentésére,
 
-k) kinevezi és felmenti a főigazgatót, valamint az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szervek vezetőit; az általa kinevezett vezető felett munkáltatói jogkört gyakorol,
+k) kinevezi és felmenti a főigazgatót, valamint az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szervek vezetőit; a munkáltatói jogokat az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában foglaltak szerint gyakorolja,
 
 l) házelnöki rendelkezésben megállapítja az Országgyűlés Hivatala Szervezeti és Működési Szabályzatát, illetve feladat- és hatáskörének gyakorlása során házelnöki rendelkezést adhat ki,
 

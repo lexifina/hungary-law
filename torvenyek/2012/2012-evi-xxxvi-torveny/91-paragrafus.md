@@ -4,7 +4,7 @@
 
 (2) Ha a képviselő az (1) bekezdésben írt kötelezettségének nem tesz eleget, bármely képviselő indítványára az Országgyűlés – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság véleményének kikérése után – tizenöt napon belül határoz az összeférhetetlenség kimondásáról.
 
-(3) A 88. §-ban meghatározott összeférhetetlenségről a jogerős ítéletet hozó bíróság vagy jogerős határozatot hozó hatóság haladéktalanul tájékoztatja a házelnököt. Az Országgyűlés bármely képviselő indítványára – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság véleményének kikérése után – tizenöt napon belül határoz az összeférhetetlenség kimondásáról.
+(3) A 88. §-ban meghatározott összeférhetetlenségről a jogerős ítéletet hozó bíróság vagy véglegessé vált határozatot hozó hatóság haladéktalanul tájékoztatja a házelnököt. Az Országgyűlés bármely képviselő indítványára – a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság véleményének kikérése után – tizenöt napon belül határoz az összeférhetetlenség kimondásáról.
 
 (4) Képviselői összeférhetetlenségre vonatkozó bejelentést bárki tehet írásban a házelnöknél. A bejelentésben pontosan meg kell jelölni, hogy mely képviselővel szemben és milyen összeférhetetlenségi ok merült fel; mellékelni kell az összeférhetetlenségi ok megállapításához szükséges bizonyítékokat is. A bejelentésnek tartalmaznia kell a bejelentő személyazonosító adatait és aláírását. Hiányos bejelentés esetén a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság elnöke nem indítja meg a szükséges eljárást, de a kezdeményezésről tájékoztatja a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottságot.
 

@@ -2,7 +2,7 @@
 
 a) az Országgyűlési Őrség tevékenységének részletes rendjét belső szabályzatban állapítja meg, és személyi állománya számára közvetlenül utasítást adhat,
 
-b) javaslatot tesz az Országgyűlési Őrség Szervezeti és Működési Szabályzatára,
+b) a főigazgatóval egyetértésben javaslatot tesz az Országgyűlési Őrség Szervezeti és Működési Szabályzatára,
 
 c) gyakorolja az e törvényben, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint jogszabályban hatáskörébe utalt személyügyi és munkáltatói jogokat az Országgyűlési Őrség állományába tartozó személyek felett,
 

@@ -6,4 +6,4 @@
 
 (4) A Kttv. 120. §-a alapján a Módtv.3. hatálybalépését megelőzően előresorolt köztisztviselő előresorolása a Módtv.3. hatálybalépése napján megszűnik. Az országgyűlési köztisztviselő besorolását, illetményét e törvény rendelkezéseire tekintettel kell megállapítani.
 
-(5) Az Országgyűlés Hivatalánál foglalkoztatott, a Kttv. 240-245. §-a hatálya alá tartozó közszolgálati ügykezelők jogviszonya a Módtv.3. hatálybalépése napján – a Kttv. 72. § (10) bekezdése alapján – azonos idejű és tartalmú munkajogviszonnyá alakul át. A munkáltató a jogviszony átalakulását követő harminc napon belül elkészíti a munka törvénykönyvéről szóló törvény szerinti munkaszerződéseket.
+(5) Az Országgyűlés Hivatalánál foglalkoztatott, a Kttv. 240-245. §-a hatálya alá tartozó közszolgálati ügykezelők jogviszonya a Módtv.3. hatálybalépése napján – a Kttv. 72. § (10) bekezdése alapján – azonos idejű és tartalmú munkajogviszonnyá alakul át. A munkáltató a jogviszony átalakulását követő harminc napon belül elkészíti az Mt. szerinti munkaszerződéseket.

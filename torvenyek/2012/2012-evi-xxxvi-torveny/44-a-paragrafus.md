@@ -45,3 +45,5 @@
 részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
 
 (2) A házelnök részére a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottság elnöke állít ki közjogi tisztségviselői igazolványt.
+
+(3) A házelnök a képviselő részére a képviselői tisztség betöltésének igazolása céljából képviselői igazolványt állít ki.

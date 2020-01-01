@@ -48,11 +48,13 @@ bb) a munkáltatói jogkör gyakorlója által írásban meghatározott
 
 feltételeket teljesítette.
 
+(7a) Nem kell az országgyűlési köztisztviselő beleegyezése a besorolási fokozatban történő előrelépése, illetményének e Fejezet szerinti megállapításakor.
+
 (8) A (7) bekezdés b) pont bb) alpontjában említett feltételek az országgyűlési köztisztviselő feladatainak ellátásához nélkülözhetetlen ismeretek – képzés, továbbképzés, átképzés formájában történő – megszerzésére irányulhatnak.
 
 (9) A közszolgálati jogviszonyban töltött idő (5) és (6) bekezdés szerinti számításánál a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamot – kivéve a sor- és tartalékos katonai, polgári szolgálat idejét, a tizennégy éven aluli gyermek ápolásának, gondozásának céljából, valamint a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát – figyelmen kívül kell hagyni.
 
-(10) Az országgyűlési fogalmazó besorolású országgyűlési köztisztviselőnek kinevezését követő egy éven belül, az országgyűlési gyakornok besorolású országgyűlési köztisztviselőnek kinevezését követő két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet. E törvény alkalmazásában közigazgatási alapvizsga alatt az állami tisztviselőkről szóló törvény alapján szerzett közigazgatási tanulmányok szakirányú szakképzettséget és kormányzati tanulmányok szakirányú szakképzettséget is érteni kell. A határidő számítására a Kttv. 118. § (4) bekezdésében foglaltakat kell alkalmazni.
+(10) Az országgyűlési fogalmazó besorolású országgyűlési köztisztviselőnek kinevezését követő egy éven belül, az országgyűlési gyakornok besorolású országgyűlési köztisztviselőnek kinevezését követő két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem közszolgálati jogviszonyban álló is tehet. E törvény alkalmazásában közigazgatási alapvizsga alatt a közigazgatási tanulmányok szakirányú szakképzettséget és kormányzati tanulmányok szakirányú szakképzettséget is érteni kell. A határidő számítására a Kttv. 118. § (4) bekezdésében foglaltakat kell alkalmazni.
 
 (11) Ha az országgyűlési fogalmazó besorolású országgyűlési köztisztviselő és az országgyűlési gyakornok besorolású országgyűlési köztisztviselő a közigazgatási alapvizsgát a (10) bekezdésben előírt határidőt követő hat hónapon belül nem teszi le, közszolgálati jogviszonya megszűnik.
 

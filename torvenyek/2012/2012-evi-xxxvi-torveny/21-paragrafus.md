@@ -1,4 +1,4 @@
-21. § (1) Az állandó bizottság egyes feladatai elvégzésére tagjai sorából albizottságokat hozhat létre. Az albizottság működésének szabályaira – az albizottság eltérő rendelkezése hiányában – az állandó bizottság működésére vonatkozó szabályokat kell alkalmazni.
+21. § (1) Az állandó bizottság egyes feladatai elvégzésére tagjai sorából albizottságokat hozhat létre. Az albizottság a működési rendjét – az állandó bizottságok működésére vonatkozó házszabályi rendelkezések keretei között – maga állapítja meg.
 
 (2) Minden állandó bizottságnak létre kell hoznia egy albizottságot, amely a bizottság feladatkörébe tartozó törvények végrehajtását, társadalmi és gazdasági hatását, valamint a deregulációs folyamatokat figyelemmel kíséri.
 

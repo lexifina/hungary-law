@@ -2,7 +2,7 @@
 
 ## A HATÁRIDŐ SZÁMÍTÁSA
 
-72/A. § (1) Törvény vagy határozati házszabályi rendelkezés eltérő rendelkezése hiányában a házszabályi rendelkezések alkalmazása során a határidő számítására a (2)–(6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
+72/A. § (1) Az Alaptörvény, törvény vagy határozati házszabályi rendelkezés eltérő rendelkezése hiányában a házszabályi rendelkezések alkalmazása során a határidő számítására a (2)–(6) bekezdésben foglalt rendelkezéseket kell alkalmazni.
 
 (2) A határidőket órákban vagy napokban kell számítani, kivéve, amikor a házszabályi rendelkezések ülést vagy ülésnapot említenek. Az ülésnap az elfogadott napirenden szereplő napirendi pontok megtárgyalásáig tart.
 

@@ -14,26 +14,28 @@ illetménynek megfelelő összeg.
 
 (3) A jubileumi jutalomra jogosító idő megállapításánál
 
-a) az Országgyűlés Hivatalánál munkaviszonyban, közszolgálati jogviszonyban,
+a) az Országgyűlés Hivatalánál munkaviszonyban, közszolgálati jogviszonyban töltött időt,
 
-b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői, kormányzati szolgálati és állami szolgálati jogviszonyban,
+b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.), az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) és a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői, kormányzati szolgálati és állami szolgálati jogviszonyban töltött időt,
 
-c) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban,
+c) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 
-d) a hivatásos szolgálati jogviszonyban, tiszti és altiszti katonai szolgálati jogviszonyban,
+d) a hivatásos szolgálati jogviszonyban, tiszti és altiszti katonai szolgálati jogviszonyban töltött időt,
 
-e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban,
+e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban töltött időt,
 
-f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
+f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban töltött időt,
 
-g) a Kttv., a Ktv., Ktjv., Áttv., a Kit., illetve a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
+g) a Kttv., a Ktv., Ktjv., Áttv., a Kit., illetve a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
 
-h) az állami vezetői szolgálati jogviszonyban,
+h) az állami vezetői szolgálati jogviszonyban töltött időt,
 
-i) rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
+i) rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban töltött időt,
 
-j) a politikai szolgálati jogviszonyban
+j) a politikai szolgálati jogviszonyban töltött időt, valamint
 
-töltött időt kell figyelembe venni.
+k) a Kttv. 62/A. §-a szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot
+
+kell figyelembe venni.
 
 (4) Az országgyűlési köztisztviselő nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta, valamint nem jogosult az (1) bekezdés a) pontja szerinti elismerésre, ha másik foglalkoztatási jogviszonyban vagy az Országgyűlés Hivatalával fennálló közszolgálati jogviszonyában már magasabb fokozatú jubileumi jutalomban részesült.

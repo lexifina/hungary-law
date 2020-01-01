@@ -2,4 +2,4 @@
 
 (2) A munkáltatói jogkör gyakorlója az Országgyűlés Hivatalánál foglalkoztatott köztisztviselőkre nézve a közszolgálati jogviszony létesítését a közszolgálati tisztviselőkről szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
 
-(3) Az Országgyűlés Hivatalának Szervezeti és Működési Szabályzatát a házelnök házelnöki rendelkezésben állapítja meg.
+(3)
