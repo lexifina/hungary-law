@@ -420,23 +420,23 @@
 
 ## 462. Vagyonkezelő szervezetekkel szembeni kötelezettségek
 
-## 463. Társadalombiztosítási kötelezettség
+## 463.[^84] Bérjárulékok
 
 ## 464. Költségvetési befizetési kötelezettségek
 
 ## 4641. Személyi jövedelemadó befizetési kötelezettség
 
-## 4642. Munkaadói járulék befizetési kötelezettség
+## 4642.[^85] Munkavállalóktól levont járulékok befizetési kötelezettség
 
 ## 4643. Munkavállalói járulék befizetési kötelezettség
 
-## 4644. Egészségügyi hozzájárulás befizetési kötelezettség
+## 4644.[^86]
 
 ## 4645. Társasági adó befizetési kötelezettség
 
 ## 4649. Egyéb befizetési kötelezettség
 
-## 465.[^83] Nemzeti Adó- és Vámhivatallal, mint vámhatósággal szembeni kötelezettség
+## 465.[^87] Nemzeti Adó- és Vámhivatallal, mint vámhatósággal szembeni kötelezettség
 
 ## 466. Levonható előzetesen felszámított általános forgalmi adó
 
@@ -644,7 +644,7 @@
 
 ## 552. Kiegészítő vállalkozási tevékenységgel kapcsolatos egyéb kiadások
 
-## 553.[^84] Fedezeti alapot terhelő jogosulatlan kifizetések
+## 553.[^88] Fedezeti alapot terhelő jogosulatlan kifizetések
 
 ## 56. PÉNZÜGYI MŰVELETEK RÁFORDÍTÁSAI
 
@@ -880,14 +880,17 @@
 
 ## 04. NYILVÁNTARTÁSI ELLENSZÁMLÁK
 
-## 05.[^85] PÉNZÜGYI TERV KIADÁSAI NYILVÁNTARTÁSI SZÁMLA
+## 05.[^89] PÉNZÜGYI TERV KIADÁSAI NYILVÁNTARTÁSI SZÁMLA
 
-## 09.[^86] PÉNZÜGYI TERV BEVÉTELEI NYILVÁNTARTÁSI SZÁMLA
+## 09.[^90] PÉNZÜGYI TERV BEVÉTELEI NYILVÁNTARTÁSI SZÁMLA
 
-7. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^87]
+7. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^91]
 
-[^83]: A 6. számú melléklet 465. pontja a 273/2010. (XII. 9.) Korm. rendelet 93. §-ával megállapított szöveg. E módosító rendelet 64. § (4) bekezdése alapján rendelkezéseit első ízben a 2011. évi üzleti évről készített éves pénztári beszámolóra kell alkalmazni.
-[^84]: A 6. számú melléklet 5. Számlaosztály részének 55. számlacsoport 553. főkönyvi számláját a 285/2005. (XII. 20.) Korm. rendelet 31. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^85]: A 6. számú melléklet 0. Számlaosztály NYILVÁNTARTÁSI SZÁMLÁK „05." fősora a 480/2016. (XII. 28.) Korm. rendelet 73. §-ával megállapított szöveg.
-[^86]: A 6. számú melléklet 0. Számlaosztály NYILVÁNTARTÁSI SZÁMLÁK „09." fősora a 480/2016. (XII. 28.) Korm. rendelet 73. §-ával megállapított szöveg.
-[^87]: A 7. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 52. § (2) bekezdése hatályon kívül helyezte.
+[^84]: A 6. számú melléklet 4. alcím 45–46. pont 463. alpontja a 343/2019. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^85]: A 6. számú melléklet 4. alcím 45–46. pont 464. alpont 4643. alpontja a 343/2019. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^86]: A 6. számú melléklet 4. alcím 45–46. pont 464. alpont 4644. alpontját a 343/2019. (XII. 23.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^87]: A 6. számú melléklet 465. pontja a 273/2010. (XII. 9.) Korm. rendelet 93. §-ával megállapított szöveg. E módosító rendelet 64. § (4) bekezdése alapján rendelkezéseit első ízben a 2011. évi üzleti évről készített éves pénztári beszámolóra kell alkalmazni.
+[^88]: A 6. számú melléklet 5. Számlaosztály részének 55. számlacsoport 553. főkönyvi számláját a 285/2005. (XII. 20.) Korm. rendelet 31. §-a iktatta be. E módosító rendelet 32. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^89]: A 6. számú melléklet 0. Számlaosztály NYILVÁNTARTÁSI SZÁMLÁK „05." fősora a 480/2016. (XII. 28.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^90]: A 6. számú melléklet 0. Számlaosztály NYILVÁNTARTÁSI SZÁMLÁK „09." fősora a 480/2016. (XII. 28.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^91]: A 7. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 52. § (2) bekezdése hatályon kívül helyezte.
