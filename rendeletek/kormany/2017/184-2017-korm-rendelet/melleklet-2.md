@@ -2,7 +2,7 @@
 
 ## A halálozási lap adattartalma
 
-1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1.[^13] Anyakönyvi azonosító, az eseményazonosító
 
 2. A haláleset helye, időpontja
 
@@ -12,7 +12,7 @@
 
 3.2. családi állapota
 
-3.3. neve
+3.3.[^14] születési családi és utóneve, valamint házassági neve
 
 3.4. születésének helye, időpontja
 
@@ -49,3 +49,6 @@
 7.3. az anya családi állapota
 
 7.4. az anya házasságkötésének időpontja
+
+[^13]: A 2. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 2. melléklet 3.3. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

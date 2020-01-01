@@ -2,7 +2,7 @@
 
 ## A házassági lap adattartalma
 
-1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1.[^16] Anyakönyvi azonosító, az eseményazonosító
 
 2. A házasságkötés helye, időpontja
 
@@ -31,3 +31,5 @@
 3.11. gazdasági aktivitása
 
 3.12. foglalkozása, munkaköre, foglalkozási viszonya
+
+[^16]: A 4. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.

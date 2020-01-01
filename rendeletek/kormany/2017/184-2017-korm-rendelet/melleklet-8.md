@@ -2,7 +2,7 @@
 
 ## A bejegyzett élettársi kapcsolat megszüntetése lap adattartalma a felek közös megegyezése alapján a közjegyző által lefolytatott nemperes eljárásról
 
-1. Anyakönyvi azonosító, az anyakönyvi bejegyzés folyószáma
+1.[^22] Anyakönyvi azonosító, az eseményazonosító
 
 2. A bejegyzés helye, időpontja
 
@@ -14,7 +14,7 @@
 
 6. A bejegyzett élettársak adatai
 
-6.1. családi és utóneve (a bejegyzés felbontása előtt)
+6.1.[^23] születési családi és utóneve
 
 6.2. neme
 
@@ -33,3 +33,6 @@
 6.9. gazdasági aktivitása
 
 6.10. foglalkozása, munkaköre, foglalkozási viszonya
+
+[^22]: A 8. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (8) bekezdése szerint módosított szöveg.
+[^23]: A 8. melléklet 6.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
