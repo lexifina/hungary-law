@@ -1,6 +1,6 @@
 ## Szakmai alkalmasság
 
-6. § (1)[^6] A szakmai alkalmasságot a közlekedésért felelős miniszter által működtetett vizsgabizottság előtt tett vizsga eredményeként kiadott vizsgabizonyítvány tanúsítja. A vizsga tárgyait az 1. számú melléklet sorolja fel; a vizsgabizonyítvány mintáját a 2. számú melléklet tartalmazza.
+6. § (1)[^6] A szakmai alkalmasságot a vizsgaközpont előtt tett vizsga eredményeként kiadott vizsgabizonyítvány tanúsítja. A vizsga tárgyait az 1. számú melléklet sorolja fel; a vizsgabizonyítvány mintáját a 2. számú melléklet tartalmazza.
 
 (2)[^7] A vizsga követelményszintjét és tananyagát, a vizsgáztatás módszereit és a vizsgakérdéseket a közlekedésért felelős miniszter vizsgaszabályzatban állapítja meg, amelyet a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az közlekedésért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
@@ -28,6 +28,6 @@ c) aki a rendelet hatálybalépése előtt tíz éven belül legalább öt évig
 
 (6) A hajózási hatóság az Európai Közösség valamely másik tagállamának illetékes hatósága által kiállított szakmai alkalmasságot igazoló vizsgabizonyítványt, illetve a másik tagállam által kiállított – az (5) bekezdésben meghatározott valamely feltétel meglétét tanúsító – képesítést vagy igazolást a szakmai alkalmasság kielégítő bizonyítékának ismeri el.
 
-[^6]: A 6. § (1) bekezdése az 1/2017. (I. 3.) NFM rendelet 18. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdése a 45/2019. (XII. 20.) ITM rendelet 1. §-a szerint módosított szöveg.
 [^7]: A 6. § (2) bekezdése a 41/2008. (XII. 31.) KHEM rendelet 6. § (2) bekezdés 17. pontja, az 1/2017. (I. 3.) NFM rendelet 18. § a)–b) pontja szerint módosított szöveg.
 [^8]: A 6. § (4) bekezdése az 1/2017. (I. 3.) NFM rendelet 18. § c) pontja szerint módosított szöveg.
